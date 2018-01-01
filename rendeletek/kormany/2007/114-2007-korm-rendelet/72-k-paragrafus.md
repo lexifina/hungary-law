@@ -1,4 +1,4 @@
-72/K. §[^211] (1) A Tv. 20/F. §-ában foglaltakra irányuló kérelmet az abban meghatározott feltételeket igazoló okiratok csatolásával egyidejűleg legkésőbb
+72/K. §[^235] (1) A Tv. 20/F. §-ában foglaltakra irányuló kérelmet az abban meghatározott feltételeket igazoló okiratok csatolásával egyidejűleg legkésőbb
 
 a) a hosszú távú mobilitás megkezdése előtt 20 nappal, vagy
 
@@ -8,4 +8,4 @@ kell benyújtani.
 
 (2) Az (1) bekezdés szerinti kérelem tárgyában indult eljárásban hozott érdemi döntésről az idegenrendészeti hatóság értesíti az Európai Unió azon tagállamának kijelölt hatóságát, amely a vállalaton belüli áthelyezés céljából kiadott tartózkodási engedélyt kiállította.
 
-[^211]: A 72/K. §-t a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.
+[^235]: A 72/K. §-t a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.

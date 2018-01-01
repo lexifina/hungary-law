@@ -2,7 +2,7 @@
 
 a) az engedélyezett tartózkodási idő lejárt;
 
-b)[^295] az ideiglenes letelepedési engedélyt jogerősen és végrehajthatóan visszavonták;
+b)[^321] az ideiglenes letelepedési engedélyt véglegessé váltan és végrehajthatóan visszavonták;
 
 c) az okmány helyett a harmadik országbeli állampolgár – az okmány cseréjére, pótlására irányuló eljárásban vagy az ideiglenes letelepedési engedély meghosszabbítása miatt – új okmányt kapott;
 
@@ -14,4 +14,4 @@ f) a jogosultja nemzeti letelepedési engedélyt, EK letelepedési engedélyt, v
 
 g) jogosultja meghalt.
 
-[^295]: A 101. § b) pontja a 113/2016. (V. 30.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^321]: A 101. § b) pontja a 113/2016. (V. 30.) Korm. rendelet 43. §-ával megállapított, a 411/2017. (XII. 15.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.

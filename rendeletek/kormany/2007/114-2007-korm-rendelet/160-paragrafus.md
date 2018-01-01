@@ -6,6 +6,6 @@
 
 (3) A hontalanság megállapítása iránti kérelemhez csatolni kell a kérelmező személyazonosságot igazoló külföldi okmányait, úti okmányait, továbbá minden olyan iratot, amely alkalmas lehet a kérelmező által előadottak alátámasztására.
 
-(4)[^453] A csatolt okmányokat az ügy érdemében hozott határozat jogerőre emelkedésének napján a kérelmezőnek vissza kell adni.
+(4)[^482] A csatolt okmányokat az ügy érdemében hozott határozat véglegessé válásának a kérelmezőnek vissza kell adni.
 
-[^453]: A 160. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 548. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^482]: A 160. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 548. §-a, a 411/2017. (XII. 15.) Korm. rendelet 34. § n) pontja szerint módosított szöveg.
