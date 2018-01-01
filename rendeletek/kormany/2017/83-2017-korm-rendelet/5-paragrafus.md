@@ -1,3 +1,0 @@
-5. § (1) „Népi Iparművész” minősítő cím adományozható annak a természetes személynek, aki a népi iparművészettel kapcsolatos állami feladatok végrehajtásáról szóló miniszteri rendelet szerinti népi iparművészeti alkotásait az ott meghatározott számban és rendszerességgel minősítteti.
-
-(2) „Népi Iparművész” minősítő cím adományozható annak a szervezetnek, amelynek a „Népi Iparművész” minősítő címmel rendelkező természetes személy a tulajdonosa, a tagja vagy az alkalmazottja, és az említett személyek által előállított, az (1) bekezdésben foglalt feltételeknek megfelelő népi iparművészeti alkotásokat értékesít.
