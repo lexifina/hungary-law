@@ -20,7 +20,7 @@ bb) ritka allélekre történő vizsgálattal, vagy
 
 bc) mitokondriális DNS vizsgálattal
 
-történő elvégzésére.
+## történő elvégzésére.
 
 (6) A tájékoztatás és ismeretterjesztés célprogram esetén valamely – az állatgenetikai erőforrásokkal foglalkozó – nemzetközi szervezetbeli tagsági díj fizetésekor a támogatásra jogosult kötelezettséget vállal arra, hogy a támogatási időszak végéig az adott nemzetközi szervezet tagja marad, ha a támogatási kérelem benyújtásakor vállalta, hogy nemzetközi szervezetben tagdíjat fizet.
 
@@ -28,7 +28,7 @@ történő elvégzésére.
 
 (8)[^22] A 8. § c) és d) pontja szerinti rendezvényszervezés esetén a támogatásra jogosult köteles a rendezvény helyén az arculati elemeket feltüntetni.
 
-(9)[^23] A támogatásra jogosult a rendezvény megtartásáról köteles a rendezvény lezárását követően írásbeli emlékeztetőt készíteni, és azt a kifizetési kérelemmel együtt megküldeni az MVH-nak.
+(9)[^23] A támogatásra jogosult a rendezvény megtartásáról köteles a rendezvény lezárását követően írásbeli emlékeztetőt készíteni, és azt a kifizetési kérelemmel együtt megküldeni a Kincstárnak.
 
 (10)[^24] Az írásbeli emlékeztető tartalmazza:
 
@@ -39,5 +39,5 @@ b) legalább 10 darab, a rendezvény főbb programjait és a rendezvényen elhel
 [^20]: A 12. § (1a) bekezdését a 30/2013. (IV. 30.) VM rendelet 11. § (1) bekezdése iktatta be.
 [^21]: A 12. § (7) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be.
 [^22]: A 12. § (8) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be, szövege az 53/2014. (IV. 29.) VM rendelet 10. § (3) bekezdése szerint módosított szöveg.
-[^23]: A 12. § (9) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be.
+[^23]: A 12. § (9) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be, szövege a 37/2017. (XII. 27.) MvM rendelet 26. § b) pontja szerint módosított szöveg.
 [^24]: A 12. § (10) bekezdését a 138/2012. (XII. 22.) VM rendelet 12. §-a iktatta be.
