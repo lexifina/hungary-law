@@ -16,6 +16,6 @@ c) a határozat jogerejét,
 
 d) bírói rendelvényt a javítóintézet igazgatójának a javítóintézeti nevelés végrehajtására.
 
-(3)[^63] Ha a jogerősen javítóintézeti nevelésre ítélt fiatalkorú az előzetes fogvatartásban töltött idővel az elrendelt javítóintézeti nevelést letöltötte, a bíróság értesítőlapot állít ki, de az értesítőlapon bírói rendelvényt nem ad ki. Az értesítőlapon fel kell tüntetni, hogy az elítéltet az előzetes fogvatartásból honnan szabadították. A bíróság jogerős határozatát tájékoztatásul megküldi az illetékes gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak az esetleges szükséges intézkedések megtétele érdekében.
+(3)[^132] Ha a jogerősen javítóintézeti nevelésre ítélt fiatalkorú a Btk. 92–92/B. §-a szerinti beszámítás alapján az elrendelt javítóintézeti nevelést letöltötte, a bíróság értesítőlapot állít ki, de az értesítőlapon bírói rendelvényt nem ad ki. Az értesítőlapon fel kell tüntetni, hogy az elítéltet a Btk. 92–92/B. §-a szerinti beszámítást megalapozó kényszerintézkedésből, szabálysértési elzárásból, szabadságvesztésből, elzárásból, javítóintézeti nevelésből honnan szabadították. A bíróság jogerős határozatát tájékoztatásul megküldi az illetékes gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak az esetleges szükséges intézkedések megtétele érdekében.
 
-[^63]: A 147. § (3) bekezdése a 8/2015. (IV. 14.) IM rendelet 22. § k) pontja szerint módosított szöveg.
+[^132]: A 147. § (3) bekezdése a 22/2017. (XII. 22.) IM rendelet 30. §-ával megállapított szöveg.

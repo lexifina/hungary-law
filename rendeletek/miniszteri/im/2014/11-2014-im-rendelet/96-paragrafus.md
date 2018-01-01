@@ -10,7 +10,7 @@
 
 (2) Az értesítőlapnak a 3. § (1) bekezdés a)–c) pontjaiban, valamint a 3. § (2) bekezdésében meghatározott adatokon felül tartalmaznia kell a foglalkozástól eltiltás és a járművezetéstől eltiltás lejáratának napját is, ha azt a bíróság
 
-a) olyan szabadságvesztés mellett alkalmazta, amelyet az előzetes fogvatartással, vagy házi őrizettel teljes egészében kitöltöttnek vett, és az elítélt az ítélet jogerőre emelkedésekor szabadlábon van,
+a)[^86] olyan szabadságvesztés mellett alkalmazta, amelyet a Btk. 92–92/B. §-a szerinti beszámítás alapján teljes egészében kitöltöttnek vett, és az elítélt az ítélet jogerőre emelkedésekor szabadlábon van,
 
 b) felfüggesztett szabadságvesztés, vagy más büntetés mellett alkalmazta,
 
@@ -28,6 +28,7 @@ c) foglalkozástól eltiltás esetén az eltiltással érintett tevékenység me
 
 (5) Ha a bíróság az egészségügyről szóló törvény szerinti egészségügyi dolgozót egy évet meghaladó végrehajtandó szabadságvesztésre, vagy akár a szabadságvesztés mellett, akár önállóan az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltásra ítélte, a bíróság jogerős határozatáról – a terhelt működési nyilvántartásból, illetve a kamarai tagságának felfüggesztése vagy a kamarai névjegyzékből való törlése végett – két példányban értesítőlapot állít ki. A bv. bíró az értesítőlap egy-egy példányának megküldésével értesíti az egészségügyi dolgozók működési nyilvántartását vezető szervet, valamint az illetékes egészségügyi szakmai kamarát.
 
-(6)[^44]
+(6)[^87]
 
-[^44]: A 96. § (6) bekezdését a 33/2015. (XI. 6.) IM rendelet 18. §-a hatályon kívül helyezte.
+[^86]: A 96. § (2) bekezdés a) pontja a 22/2017. (XII. 22.) IM rendelet 35. § 15. pontja szerint módosított szöveg.
+[^87]: A 96. § (6) bekezdését a 33/2015. (XI. 6.) IM rendelet 18. §-a hatályon kívül helyezte.

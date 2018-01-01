@@ -1,3 +1,5 @@
+## 37/A. § A bv. bíró a Bv. tv. 293/A. § (1) bekezdésében meghatározott ok fennállása esetén hivatalból vagy a bv. intézet előterjesztésére végzésben megállapítja a pénzbüntetés végrehajthatóságának megszűnését, határozatát megküldi a bv. intézetnek és a BGH-nak.
+
 ## 14. A feltételes szabadságra bocsátás
 
 38. § (1) A bv. bíró a feltételes szabadságra bocsátásról való döntés során a Bv. tv. 58. § (3)–(4) bekezdései szerint jár el.

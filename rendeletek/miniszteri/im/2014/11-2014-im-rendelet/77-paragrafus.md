@@ -1,4 +1,4 @@
-## 76. § Az ítélőtábla, vagy a Kúria az általa kiállított egységes értesítőlapot, illetve a 73. § (3) bekezdésében írt határozatkiadmányt az első fokon eljárt bíróság szerint illetékes BGH-nak – gyűjtőjegyzék nélkül – küldi meg.
+## 76. §[^79] Az ítélőtábla, vagy a Kúria az általa kiállított egységes értesítőlapot, illetve a 73. § (3) bekezdésében írt határozatot az első fokon eljárt bíróság szerint illetékes BGH-nak – gyűjtőjegyzék nélkül – küldi meg.
 
 ## 30. A pénzbüntetés megfizetése
 
@@ -15,3 +15,5 @@
 (6) Halasztás vagy részletfizetés engedélyezése esetén a (4) bekezdésben írt felhívást olyan időben kell kibocsátani, hogy a kötelezett a fizetési kötelezettségét a halasztás vagy a részletfizetés határidejéig teljesíteni tudja.
 
 (7) Ha az elítélt a halasztás vagy a részletfizetés iránti kérelmében arra hivatkozik, hogy befizetést részben már teljesített, a tanács elnöke – szükség esetén – a befizetés adatainak közlése végett megkeresi a BGH-t.
+
+[^79]: A 76. § a 22/2017. (XII. 22.) IM rendelet 35. § 14. pontja szerint módosított szöveg.

@@ -24,8 +24,10 @@ k) bírói rendelvényt az előzetes letartóztatás végrehajtására vagy a te
 
 l) a bíróság bélyegzőjét és a tanács elnökének saját kezű aláírását.
 
-(2) Ha a bíróság az ítélet meghozatala után határoz az előzetes letartóztatás kérdésében, az értesítőlap az (1) bekezdésben felsoroltakon kívül tartalmazza a kiszabott büntetést, az előzetes fogvatartás, vagy a házi őrizet beszámítását és a feltételes szabadságra bocsátás lehetőségét.
+(2)[^137] Ha a bíróság az ítélet meghozatala után határoz az előzetes letartóztatás kérdésében, az értesítőlap az (1) bekezdésben felsoroltakon kívül tartalmazza a kiszabott büntetést, az előzetes fogvatartás vagy a házi őrizet beszámítását és a feltételes szabadságra bocsátás lehetőségét. Ha a bíróság az ítélet meghozatala után határoz az előzetes letartóztatás kérdésében, és a megismételt eljárásban kiszabott büntetésbe a Btk. 92/A–92/B. § szerinti beszámításról rendelkezett, azt az értesítőlap megjegyzés rovatában feltünteti.
 
 (3) Ha a bíróság az előzetes letartóztatás megszüntetéséről óvadék megfizetése mellett határoz, az értesítőlap az (1) bekezdésben felsoroltakon kívül tartalmazza az óvadék befizetésének tényét, valamint az óvadék megállapítása tárgyában jogerős határozatot hozó bíróság megjelölését.
 
 (4) A másodfokú bíróság által kiállított értesítőlapon az első fokon eljárt, a harmadfokú bíróság által kiállított értesítőlapon az első fokon, és a másodfokon eljárt bíróság megnevezését, határozatának keltét és számát is fel kell tüntetni.
+
+[^137]: A 155. § (2) bekezdése a 22/2017. (XII. 22.) IM rendelet 31. §-ával megállapított szöveg.

@@ -6,11 +6,11 @@
 
 a) nincs-e az elzárás végrehajtását kizáró ok [Bv. tv. 27. §, 31. §, 278. § a) és b) pont],
 
-b) az elítélt az előzetes fogvatartásban, illetve házi őrizetben töltött idővel kitöltötte-e az elzárást,
+b)[^48] az elítélt a Btk. 92–92/B. §-a szerinti beszámítás alapján kitöltötte-e az elzárást,
 
 c) a fiatalkorú elítélt betöltötte-e a huszonegyedik életévét.
 
-(3)[^15] Ha a bv. bíró megállapítja, hogy az elzárás végrehajtásának nincs akadálya, az elítéltet felhívja az elzárás végrehajtásának megkezdésére. A felhívás tartalmazza azt, hogy az elítélt az elzárás végrehajtásának megkezdésére melyik bv. intézetben, milyen időpontban jelenjen meg. Ha az elítélt más törvényszék területén, olyan távoli helyen lakik vagy tartózkodik, ahonnan a távolság miatt megjelenése, illetve az elővezetése jelentős költséggel járna, a bv. csoport az elzárást előírja, de a jelentkezésre felhívást mellőzi. Ebben az esetben az értesítőlapot, a rendelkezésére álló határozatkiadmányokat és az egyéb iratokat az elítélt elzárásának megkezdésére való felhívása végett megküldi az elítélt lakóhelye, illetve tartózkodási helye szerint illetékes bv. csoportnak.
+(3)[^49] Ha a bv. bíró megállapítja, hogy az elzárás végrehajtásának nincs akadálya, az elítéltet felhívja az elzárás végrehajtásának megkezdésére. A felhívás tartalmazza azt, hogy az elítélt az elzárás végrehajtásának megkezdésére melyik bv. intézetben, milyen időpontban jelenjen meg. Ha az elítélt más törvényszék területén, olyan távoli helyen lakik vagy tartózkodik, ahonnan a távolság miatt megjelenése, illetve az elővezetése jelentős költséggel járna, a bv. csoport az elzárást előírja, de a jelentkezésre felhívást mellőzi. Ebben az esetben az értesítőlapot, a rendelkezésére álló határozatkiadmányokat és az egyéb iratokat az elítélt elzárásának megkezdésére való felhívása végett megküldi az elítélt lakóhelye, illetve tartózkodási helye szerint illetékes bv. csoportnak.
 
 (4) A (3) bekezdés szerinti felhívásban a bv. intézeten elsősorban a bv. csoport működési területén lévő megyei (megyei jellegű feladatot is ellátó) bv. intézetet kell érteni.
 
@@ -38,4 +38,5 @@ b) az első fokon eljárt bíróságnak.
 
 (14) Ha a fiatalkorú elítélt az elzárást kiszabó ítélet jogerőre emelkedése után, de az elzárás megkezdése előtt betölti a huszonegyedik életévet, a bv. bíró a felnőttkorú elítéltek elzárásának végrehajtására kijelölt bv. intézetben való megjelenésre hívja fel az elítéltet.
 
-[^15]: Az 55. § (3) bekezdése a 33/2015. (XI. 6.) IM rendelet 9. §-ával megállapított szöveg.
+[^48]: Az 55. § (2) bekezdés b) pontja a 22/2017. (XII. 22.) IM rendelet 35. § 11. pontja szerint módosított szöveg.
+[^49]: Az 55. § (3) bekezdése a 33/2015. (XI. 6.) IM rendelet 9. §-ával megállapított szöveg.

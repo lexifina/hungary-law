@@ -44,4 +44,6 @@
 
 | 309. | Értesítés előzetes fogvatartás, házi őrizet utólagos beszámításáról. |
 
-7. melléklet a 11/2014. (XII. 13.) IM rendelethez
+7. melléklet a 11/2014. (XII. 13.) IM rendelethez[^165]
+
+[^165]: A 7. melléklet a 22/2017. (XII. 22.) IM rendelet 33. § (1) bekezdésével megállapított szöveg.

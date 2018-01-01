@@ -1,4 +1,4 @@
-## 18/A. [^12] Kártalanítási eljárás az alapvető jogokat sértő elhelyezési körülményekből eredő sérelem orvoslására
+## 18/A. [^42] Kártalanítási eljárás az alapvető jogokat sértő elhelyezési körülményekből eredő sérelem orvoslására
 
 49/A. § (1) A kártalanítási kérelem beérkezését követően – ha a kérelem elutasításának nincs helye – a bv. bíró a bv. intézet véleményéhez csatolt iratok alapján haladéktalanul megvizsgálja, hogy helye van-e a Bv. tv. 70/B. § alkalmazásának.
 
@@ -24,4 +24,4 @@ bb) készpénzben történő kifizetés esetén a postai címét, illetve ha az 
 
 (8) Ha a Bv. tv. 70/B. § (3) bekezdése szerinti adatszolgáltatás eredményeként ismertté vált, hogy a polgári jogi igényből, illetve a bűncselekmény miatt megállapított kártérítésből vagy sérelemdíjból eredő még fennálló követelés behajtására az elítélttel szemben végrehajtási eljárás van folyamatban, vagy az ezen a jogcímen indított végrehajtási eljárás szünetel, a bv. csoport a határozat kiadmányának megküldésével egyidejűleg erről – az illetékes végrehajtó és az ügyszám megjelölésével – tájékoztatja az Igazságügyi Minisztériumot.
 
-[^12]: A 18/A. alcímet (49/A–49/B. §) a 24/2016. (XII. 23.) IM rendelet 8. §-a iktatta be.
+[^42]: A 18/A. alcímet (49/A–49/B. §) a 24/2016. (XII. 23.) IM rendelet 8. §-a iktatta be.

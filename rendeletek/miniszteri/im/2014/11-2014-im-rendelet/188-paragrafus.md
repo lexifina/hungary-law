@@ -1,4 +1,4 @@
-188. §[^78] (1) Az EJEB-nek a magyarországi fogvatartási körülményekkel kapcsolatos kérelmek vizsgálatát felfüggesztő határozata a Bv. tv. 436 § (12) bekezdése alkalmazása szempontjából a nemzeti elbírálásra utaló döntésnek tekintendő.
+188. §[^164] (1) Az EJEB-nek a magyarországi fogvatartási körülményekkel kapcsolatos kérelmek vizsgálatát felfüggesztő határozata a Bv. tv. 436 § (12) bekezdése alkalmazása szempontjából a nemzeti elbírálásra utaló döntésnek tekintendő.
 
 (2) A bv. intézet gondoskodik arról, hogy az elítéltek és az egyéb jogcímen fogvatartottak írásbeli tájékoztatást kapjanak az EJEB-nek a magyarországi fogvatartási körülményekkel kapcsolatos kérelmek vizsgálatát felfüggesztő döntéséről, és arról, hogy a Bv. tv. 436. § (10) bekezdése értelmében jogosultak a Bv. tv. 10/A. § szerinti kártalanítási igény benyújtására. Az írásbeli tájékoztatás hirdetmény kifüggesztésével is megvalósulhat.
 
@@ -14,4 +14,4 @@ b) a kérelmet kiterjeszti-e további időszakra vonatkozó igénnyel.
 
 (6) A (4) és (5) bekezdés szerint megtett nyilatkozat alapján a fogva tartó bv. intézet, illetve az a bv. intézet ahonnan az elítélt vagy az egyéb jogcímen fogvatartott szabadult a Bv. tv. 70/A. § (2) bekezdése szerint jár el.
 
-[^78]: A 188. §-t a 24/2016. (XII. 23.) IM rendelet 9. §-a iktatta be.
+[^164]: A 188. §-t a 24/2016. (XII. 23.) IM rendelet 9. §-a iktatta be.

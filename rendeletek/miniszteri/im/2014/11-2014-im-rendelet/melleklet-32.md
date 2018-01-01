@@ -39,3 +39,9 @@
 | 320/a. | Értesítés rendbírság elzárásra átváltoztatásáról. |
 
 32. melléklet a 11/2014. (XII. 13.) IM rendelethez
+
+..................................... Járásbíróság/Törvényszék/Ítélőtábla/Kúria
+
+................/20..../.....szám
+
+Értesítés szabadságvesztés végrehajtását biztosító intézkedés elrendeléséről

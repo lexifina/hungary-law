@@ -6,11 +6,11 @@
 
 a) nincs-e a pénzbüntetés helyébe lépő szabadságvesztés végrehajtását kizáró ok (Bv. tv. 27. §, 31. §),
 
-b) az elítélt az előzetes fogvatartásban, illetve házi őrizetben töltött idővel teljesítette-e a pénzbüntetést.
+b)[^33] az elítélt a Btk. 92–92/B. §-a szerinti beszámítás alapján teljesítette-e a pénzbüntetést.
 
 (3) Ha a bv. bíró megállapítja, hogy a pénzbüntetés helyébe lépő szabadságvesztés végrehajtásának nincs akadálya, az elítéltet felhívja a szabadságvesztés végrehajtásának megkezdésére. A felhívás tartalmazza azt, hogy az elítélt a szabadságvesztés végrehajtásának megkezdésére melyik bv. intézetben, milyen időpontban jelenjen meg.
 
-(4)[^10] A (3) bekezdés szerinti felhívásban a bv. intézeten elsősorban a bv. csoport működési területén lévő megyei (megyei jellegű feladatot is ellátó) bv. intézetet kell érteni. Ha az elítélt más törvényszék területén, olyan távoli helyen lakik vagy tartózkodik, ahonnan a távolság miatt megjelenése, illetőleg az elővezetése jelentős költséggel járna, a bv. csoport a szabadságvesztést előírja, de a jelentkezésre felhívást mellőzi. Ebben az esetben az értesítőlapot, a rendelkezésére álló határozatkiadmányokat és az egyéb iratokat az elítélt átváltoztatott szabadságvesztésének megkezdésére való felhívása végett megküldi az elítélt lakóhelye, illetve tartózkodási helye szerint illetékes bv. csoportnak.
+(4)[^34] A (3) bekezdés szerinti felhívásban a bv. intézeten elsősorban a bv. csoport működési területén lévő megyei (megyei jellegű feladatot is ellátó) bv. intézetet kell érteni. Ha az elítélt más törvényszék területén, olyan távoli helyen lakik vagy tartózkodik, ahonnan a távolság miatt megjelenése, illetőleg az elővezetése jelentős költséggel járna, a bv. csoport a szabadságvesztést előírja, de a jelentkezésre felhívást mellőzi. Ebben az esetben az értesítőlapot, a rendelkezésére álló határozatkiadmányokat és az egyéb iratokat az elítélt átváltoztatott szabadságvesztésének megkezdésére való felhívása végett megküldi az elítélt lakóhelye, illetve tartózkodási helye szerint illetékes bv. csoportnak.
 
 (5) A felhívást úgy kell kiadni, hogy azt az elítélt a pénzbüntetés helyébe lépő szabadságvesztés végrehajtásának megkezdésére meghatározott időpont előtt legalább nyolc nappal megkapja.
 
@@ -26,4 +26,5 @@ b) az elítélt az előzetes fogvatartásban, illetve házi őrizetben töltött
 
 (11) Az elítélt halála esetén a bv. bíró beszerzi a halotti anyakönyvi kivonatot, majd a halál tényéről értesíti a BGH-t és a bv. intézetet. Ilyenkor a pénzbüntetés helyébe lépő szabadságvesztés végrehajthatatlanságáról a bv. bíró nem hoz határozatot.
 
-[^10]: A 37. § (4) bekezdése a 33/2015. (XI. 6.) IM rendelet 8. §-ával megállapított szöveg.
+[^33]: A 37. § (2) bekezdés b) pontja a 22/2017. (XII. 22.) IM rendelet 35. § 11. pontja szerint módosított szöveg.
+[^34]: A 37. § (4) bekezdése a 33/2015. (XI. 6.) IM rendelet 8. §-ával megállapított szöveg.

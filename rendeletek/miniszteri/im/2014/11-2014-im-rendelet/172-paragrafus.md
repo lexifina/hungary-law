@@ -1,6 +1,6 @@
 ## 83. Az óvadék
 
-172. § (1) Ha az óvadékot megállapító határozat [Be. 147. § (4) bekezdés] jogerőre emelkedik, a bíróság a végzés eredeti aláírással ellátott két kiadmányát átadja a terheltnek.
+172. § (1)[^143] Ha az óvadékot megállapító határozat [Be. 147. § (4) bekezdés] jogerőre emelkedik, a bíróság a végzés eredeti aláírással ellátott két példányát átadja a terheltnek.
 
 (2) Az óvadék letétbe helyezéséről külön jogszabály rendelkezik. A kezelőiroda azonnal – lehetőség szerint egy órán belül – bemutatja a tanács elnökének a külön jogszabály szerint az óvadékot bevételező, azt letétként kezelő bíróság (a továbbiakban: letétkezelő bíróság) által megküldött, az óvadék befizetéséről kiállított igazolást (a továbbiakban: befizetési lap).
 
@@ -11,3 +11,5 @@
 (5) Ha az óvadék ellenében a terhelt előzetes letartóztatásának megszüntetését kimondó határozat ellen az ügyész, vagy a pótmagánvádló fellebbezést jelentett be, az a bíróság, amelynek eljárásában az óvadék megállapítása jogerőre emelkedett, az óvadék befizetésének igazolását követően, az előzetes letartóztatás megszüntetéséről kiállított értesítőlap telefaxon való megküldésével és rövid úton való megerősítésével azonnal értesíti a fogva tartást foganatosító szervet. A fogvatartást foganatosító szerv visszahívással ellenőrizheti, hogy mely szerv értesíti.
 
 (6) Ha az óvadékot megállapító határozatot a vádirat benyújtása előtt hozta a bíróság, a befizetési lap másolatát megküldi az eljáró nyomozó hatóságnak a nyomozati iratokhoz történő csatolás végett.
+
+[^143]: A 172. § (1) bekezdése a 22/2017. (XII. 22.) IM rendelet 35. § 22. pontja szerint módosított szöveg.

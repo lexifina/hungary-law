@@ -34,6 +34,6 @@
 
 | 342. | Értesítés pártfogó felügyelet elrendeléséről. |
 
-28. melléklet a 11/2014. (XII. 13.) IM rendelethez[^79]
+28. melléklet a 11/2014. (XII. 13.) IM rendelethez[^170]
 
-[^79]: A 28. melléklet a 6/2015. (III. 30.) IM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^170]: A 28. melléklet a 22/2017. (XII. 22.) IM rendelet 33. § (6) bekezdésével megállapított szöveg.

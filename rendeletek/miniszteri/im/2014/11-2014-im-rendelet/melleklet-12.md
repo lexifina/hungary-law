@@ -40,4 +40,6 @@
 
 | 905/b. | Értesítés elmeállapot megfigyeléséről. |
 
-12. melléklet a 11/2014. (XII. 13.) IM rendelethez
+12. melléklet a 11/2014. (XII. 13.) IM rendelethez[^166]
+
+[^166]: A 12. melléklet a 22/2017. (XII. 22.) IM rendelet 33. § (2) bekezdésével megállapított szöveg.

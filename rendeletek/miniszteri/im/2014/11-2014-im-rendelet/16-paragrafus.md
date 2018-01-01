@@ -11,3 +11,7 @@
 (4) Ha a rendőrségi fogdában előzetes letartóztatásban lévő terheltet az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség) állítja elő, a tanács elnöke az értesítőlapot a terheltet előállító rendőrnek adja át. Ennek alapján a rendőrség azonnal gondoskodik az elítéltnek a bv. intézetbe szállításáról.
 
 (5) Ha a bíróság a fiatalkorú terheltet végrehajtandó szabadságvesztésre ítéli, és a fiatalkorú akár ebben az ügyben, akár más ügyben, javítóintézetben foganatosított előzetes letartóztatásban van, vagy javítóintézeti nevelés hatálya alatt áll, a tanács elnöke az értesítőlapot a terheltet előállító rendőrnek adja át. Ennek alapján a rendőrség azonnal gondoskodik az elítéltnek a bv. intézetbe szállításáról.
+
+(6)[^20] Az (5) bekezdésben meghatározott esetben a javítóintézet haladéktalanul megküldi a megyei bv. intézetnek a fiatalkorúval kapcsolattartásra jogosult személyek családi és utónevére, kapcsolattartói minőségére, lakcímére, illetve értesítési címére, valamint telefonszámára vonatkozó adatokat. Ha a fiatalkorú előállításkor a személyes tárgyai nem kerültek kiadásra, a javítóintézet azokat megküldi a végrehajtásra kijelölt bv. intézetnek.
+
+[^20]: A 16. § (6) bekezdését a 22/2017. (XII. 22.) IM rendelet 24. §-a iktatta be.

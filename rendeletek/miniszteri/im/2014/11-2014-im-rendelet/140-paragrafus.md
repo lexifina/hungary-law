@@ -6,6 +6,6 @@
 
 (3) A bv. bíró a határozatát a meghallgatáson jelenlevők előtt kihirdeti és indokolja. A határozat egy kiadmányát a pártfogoltnak, a pártfogó felügyelőnek és az érdekelt szerveknek megküldi.
 
-(4)[^62] Ha a bíróság a Be. 572. §-a szerinti eljárásban a büntetés végrehajtását nem rendeli el, de a magatartási szabályokat módosítja [Bv. tv. 314. § (3) bekezdés d) pont], határozatának jogerős és végrehajthatósági záradékkal ellátott kiadmányát annak a kormányhivatalnak küldi meg, amely a pártfogó felügyeletet végrehajtja.
+(4)[^120] Ha a bíróság a Be. 572. §-a szerinti eljárásban a büntetés végrehajtását nem rendeli el, de a magatartási szabályokat módosítja [Bv. tv. 314. § (3) bekezdés d) pont], határozatának jogerős és végrehajthatósági záradékkal ellátott kiadmányát annak a kormányhivatalnak küldi meg, amely a pártfogó felügyeletet végrehajtja.
 
-[^62]: A 140. § (4) bekezdése a 8/2015. (IV. 14.) IM rendelet 22. § c) pontja szerint módosított szöveg.
+[^120]: A 140. § (4) bekezdése a 8/2015. (IV. 14.) IM rendelet 22. § c) pontja szerint módosított szöveg.
