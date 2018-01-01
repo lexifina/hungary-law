@@ -12,6 +12,8 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 5. Chile
 
+5a. Ciprus
+
 6. Costa Rica
 
 7. Curaçao
@@ -23,6 +25,8 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 10. Georgia
 
 11. Guernsey
+
+11a. Haiti
 
 12. India
 
@@ -36,7 +40,11 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 17. Jersey
 
+17a. Kajmán-szigetek
+
 18. Kanada
+
+18a. Kolumbia
 
 19. Korea
 
@@ -58,9 +66,15 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 28. Orosz Föderáció
 
+28a. Pakisztán
+
 29. Svájc
 
 30. Szenegál
+
+30a. Szingapúr
+
+30b. Turks és Caicos-szigetek
 
 31. Új-Zéland
 

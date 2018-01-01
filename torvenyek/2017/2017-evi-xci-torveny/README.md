@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-91-00-00
 | 2017-06-28 | 2017. évi XCI. törvény | 2017-91-00-00.0 (közlönyállapot) |
 | 2017-06-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-91-00-00.1 |
 | 2017-07-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-91-00-00.2 |
+| 2018-01-01 | 2017. évi CLIX. törvény | 2017-91-00-00.3 |
