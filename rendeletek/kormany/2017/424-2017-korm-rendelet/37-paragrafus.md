@@ -1,0 +1,1 @@
+37. § Hatályát veszti a közbeszerzési eljárásokban elektronikusan gyakorolható eljárási cselekmények szabályairól, valamint az elektronikus árlejtés alkalmazásáról szóló 257/2007. (X. 4.) Korm. rendelet 2–6. §-a és 12–26. §-a.
