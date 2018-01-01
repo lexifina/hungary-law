@@ -1,0 +1,1 @@
+318/B. § A 318. § és a 318/A. § alkalmazásában anyagi eszközön a terrorizmus leküzdése érdekében egyes személyekkel és szervezetekkel szemben hozott különleges korlátozó intézkedésekről szóló, 2001. december 27-i 2580/2001/EK tanácsi rendelet 1. cikk 1. pontjában meghatározott eszközöket, jogi dokumentumokat és okiratokat kell érteni.

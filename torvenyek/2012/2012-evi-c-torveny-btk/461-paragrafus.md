@@ -8,7 +8,7 @@ ab) pszilocibin esetén a 0,1 gramm,
 
 ac) pszilocin esetén a 0,2 gramm,
 
-ad) amfetamin, metamfetamin és MDPV esetén a 0,5 gramm,
+ad) amfetamin, metamfetamin, MDPV és alfa-PVP esetén a 0,5 gramm,
 
 ae) dihidrokodein esetén a 0,8 gramm,
 
@@ -24,9 +24,17 @@ aj) kokain esetén a 2 gramm,
 
 ak) BZP esetén a 3 gramm,
 
+al) pentedron esetén a 0,4 gramm,
+
 b) GHB esetén annak sav formában megadott tiszta hatóanyag-tartalma a 7,5 gramm,
 
 c) tetrahidro-kannabinol (THC) esetén a tiszta és savformában együttesen jelen levő THC-tartalom (totál-THC) a 6 gramm
+
+d) annak tiszta hatóanyag-tartalma
+
+da) GBL esetén a 6,2 gramm,
+
+db) AB-CHMINACA, MDMB-CHMICA, AM-2201, AB-PINACA, AB-FUBINACA, és ADB-FUBINACA esetén a 0,05 gramm
 
 mennyiséget nem haladja meg.
 

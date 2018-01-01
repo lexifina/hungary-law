@@ -34,4 +34,6 @@ i) a kiutasítás.
 
 a) szabadságvesztés mellett elzárás vagy közérdekű munka,
 
-b) kiutasítás mellett közérdekű munka vagy pénzbüntetés.
+b) kiutasítás mellett közérdekű munka vagy pénzbüntetés,
+
+c) életfogytig tartó szabadságvesztés mellett pénzbüntetés.

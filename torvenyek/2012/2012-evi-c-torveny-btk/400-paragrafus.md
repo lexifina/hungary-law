@@ -1,4 +1,4 @@
-400. § (1) Aki a más által elkövetett bűncselekményből származó
+400. § (1) Aki a más által elkövetett büntetendő cselekményből származó
 
 a) dolgot gazdasági tevékenység gyakorlása során felhasználja,
 
@@ -10,7 +10,7 @@ b) dologgal összefüggésben bármilyen pénzügyi tevékenységet végez, vagy
 
 a) különösen nagy vagy azt meghaladó értékre,
 
-b) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként, illetve
+b) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként, illetve
 
 c) hivatalos személyként
 

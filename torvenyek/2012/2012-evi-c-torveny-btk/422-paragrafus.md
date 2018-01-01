@@ -16,6 +16,12 @@ d) elektronikus hírközlő hálózat – ideértve az információs rendszert i
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
+(1a) Az (1) bekezdés szerint büntetendő, aki személyes adat, magántitok, gazdasági titok vagy üzleti titok jogosulatlan megismerése céljából
+
+a) nyilvános vagy a közönség részére nyitva álló helyen kívül más helyiséget vagy területet, továbbá – a közösségi közlekedési eszköz kivételével – járművet titokban átkutat,
+
+b) nyilvános vagy a közönség részére nyitva álló helyen kívül más helyiségben vagy területen, továbbá – a közösségi közlekedési eszköz kivételével – járművön történteket titokban technikai eszköz alkalmazásával megfigyeli vagy rögzíti.
+
 (2) Az (1) bekezdés szerint büntetendő, aki fedett nyomozó vagy a bűnüldöző hatósággal, illetve titkosszolgálattal titkosan együttműködő személy kilétének vagy tevékenységének megállapítása céljából az (1) bekezdésben meghatározottakon kívül információt gyűjt.
 
 (3) Az (1) bekezdés szerint büntetendő, aki az (1)–(2) bekezdésben meghatározott módon megismert személyes adatot, magántitkot, gazdasági titkot vagy üzleti titkot továbbít vagy felhasznál.

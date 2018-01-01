@@ -16,6 +16,6 @@ b) mező- és erdőgazdasági hasznosítású földre vonatkozó haszonélvezeti
 
 vonatkozó jogszabályi tilalom vagy korlátozás kijátszásával általa kötött semmis szerződés leplezésére létrehozott megállapodás alapján mező- és erdőgazdasági hasznosítású földet használ, illetve szedi annak hasznait, ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) Az (1) bekezdés szerint büntetendő az az ügyvéd, jogtanácsos vagy közjegyző, aki az (1) bekezdés szerinti szerződés megkötésében közreműködik.
+(3) Az (1) bekezdés szerint büntetendő az az ügyvéd, kamarai jogtanácsos vagy közjegyző, aki az (1) bekezdés szerinti szerződés megkötésében közreműködik.
 
 (4) Korlátlanul enyhíthető az (1) és (2) bekezdés szerinti bűncselekmény elkövetőjének a büntetése, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti és az elkövetés körülményeit feltárja.

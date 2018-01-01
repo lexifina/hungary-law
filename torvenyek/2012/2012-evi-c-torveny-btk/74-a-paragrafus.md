@@ -24,7 +24,7 @@ f) a haszonszerzési célból elkövetett személyes adattal visszaélés [219. 
 
 g) a vesztegetés, a vesztegetés elfogadása, a hivatali vesztegetés, a hivatali vesztegetés elfogadása (290–294. §),
 
-h) a terrorcselekmény [314. §, 315. § (1)–(2) bekezdés és 316. §], a terrorizmus finanszírozása [318. § (1)–(2) bekezdés],
+h) a terrorcselekmény [314. §, 315. § (1)–(2) bekezdés, 316. § és 316/A. §], a terrorizmus finanszírozása [318. § és 318/A. §],
 
 i) a bűnszervezetben részvétel [321. § (1) bekezdés],
 

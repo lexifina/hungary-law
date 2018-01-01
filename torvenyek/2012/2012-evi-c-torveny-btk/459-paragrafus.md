@@ -222,7 +222,9 @@ a) különös visszaeső az a visszaeső, aki mindkét alkalommal ugyanolyan vag
 
 b) többszörös visszaeső az, akit a szándékos bűncselekmény elkövetését megelőzően visszaesőként végrehajtandó szabadságvesztésre ítéltek, és az utolsó büntetés kitöltésétől vagy végrehajthatósága megszűnésétől a szabadságvesztéssel fenyegetett újabb bűncselekmény elkövetéséig három év még nem telt el;
 
-c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el.
+c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el;
+
+32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló egyéb mentességet élvez.
 
 (2) Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni kell.
 

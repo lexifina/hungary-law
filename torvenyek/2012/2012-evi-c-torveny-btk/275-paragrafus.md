@@ -6,4 +6,4 @@ b) aki a vallomástételt egyéb okból megtagadhatja, de erre kihallgatása el�
 
 c) akinek a kihallgatása törvény alapján kizárt.
 
-(2) A büntetés korlátlanul enyhíthető, különös méltánylást érdemlő esetben mellőzhető azzal szemben, aki az alapügy jogerős befejezése előtt az eljáró hatóságnak az általa szolgáltatott bizonyítási eszköz hamis voltát bejelenti.
+(2) A büntetés korlátlanul enyhíthető, különös méltánylást érdemlő esetben mellőzhető azzal szemben, aki az alapügy jogerős vagy végleges befejezése előtt az eljáró hatóságnak az általa szolgáltatott bizonyítási eszköz hamis voltát bejelenti.

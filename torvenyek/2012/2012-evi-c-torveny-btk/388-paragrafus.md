@@ -36,8 +36,8 @@ ae) a földrajziárujelző-oltalom,
 
 af) a formatervezésiminta-oltalom,
 
-ag) a használatiminta-oltalom,
+ag)
 
-ah) a topográfiaoltalom;
+ah)
 
 b) áru alatt értendő minden birtokba vehető forgalomképes ingó dolog és a szolgáltatás.

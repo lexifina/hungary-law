@@ -24,7 +24,7 @@ b) megőrzi, kezeli, használja vagy felhasználja, azon vagy az ellenértékén
 
 ha a dolog eredetét az elkövetés időpontjában ismerte.
 
-(3) Az (1) bekezdés szerint büntetendő, aki bűncselekményének elkövetéséből származó dolgot ezen eredetének leplezése, titkolása céljából
+(3) Az (1) bekezdés szerint büntetendő, aki büntetendő cselekményének elkövetéséből származó dolgot ezen eredetének leplezése, titkolása céljából
 
 a) gazdasági tevékenység gyakorlása során felhasználja,
 
@@ -36,7 +36,7 @@ a) üzletszerűen,
 
 b) különösen nagy vagy azt meghaladó értékre,
 
-c) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként,
+c) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként,
 
 d) hivatalos személyként vagy
 

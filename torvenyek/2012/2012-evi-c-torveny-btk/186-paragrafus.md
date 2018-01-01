@@ -34,6 +34,8 @@ követi el, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (4) A (3) bekezdés szerint büntetendő, ha a hamis, meghamisított vagy Magyarországon nem engedélyezett egészségügyi termék a felhasználók számára széles körben válik hozzáférhetővé.
 
+(4a) Aki az (1)–(4) bekezdésben meghatározott egészségügyi termék hamisítására irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
 (5) E § alkalmazásában
 
 a) egészségügyi termék: a gyógyszer, az állatgyógyászati készítmény, az orvostechnikai eszköz, az in vitro diagnosztikai orvostechnikai eszköz és a vizsgálati készítmény;
