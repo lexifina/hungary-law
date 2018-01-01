@@ -1,3 +1,0 @@
-7–8. számú melléklet a 16/2003. (IV. 18.) BM rendelethez[^5]
-
-[^5]: A 7–8. számú mellékletet a 15/2008. (VII. 28.) IRM rendelet 3. § (1) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 2. § (2) bekezdése alapján a 2008. augusztus 1. napján folyamatban lévő képzéseket a megkezdésükkor hatályos jogszabályokban foglalt szakmai és vizsgakövetelmények alapján kell befejezni. Javító-, pótlóvizsgák letételére a képzés megkezdésekor hatályos jogszabályi követelmények szerint a képzés befejezését követő 1 évig, de legkésőbb 2013. augusztus 31-ig van lehetőség. A hatályon kívül helyezett szakképesítésekre vonatkozóan lásd még e módosító rendelet 2. § (3) bekezdését.
