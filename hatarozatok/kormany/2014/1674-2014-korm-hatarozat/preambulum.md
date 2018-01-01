@@ -1,1 +1,0 @@
-A Kormány a 2013. évi költségvetési maradványok felhasználásáról szóló 1562/2014. (X. 2.) Korm. határozatban megállapított, további intézkedésig fel nem használható, meghiúsulás miatt kötelezettségvállalással nem terhelté vált költségvetési maradványokból 182 304 ezer forintnak
