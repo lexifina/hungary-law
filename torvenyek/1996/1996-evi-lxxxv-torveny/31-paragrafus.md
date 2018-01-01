@@ -20,7 +20,7 @@ fb) közérdekű bejelentés, javaslat és panasz elbírálására irányuló el
 
 fc) gondnokság alá helyezés iránti eljáráshoz,
 
-g) a közigazgatási perben eljáró bíróság eljárásához,
+g) a közigazgatási vagy polgári perben eljáró bíróság eljárásához,
 
 h) a büntetőügyben eljáró bíróság eljárásához,
 
@@ -32,15 +32,21 @@ k) a helyi önkormányzat, illetve azok társulásai közszolgáltatásait érin
 
 l) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott, a föld tulajdonjogának vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv,
 
-m) az eljáró szerv – ideértve a bíróságot – a polgári perrendtartásról szóló 1952. évi III. törvény XVIII. Fejezete szerinti gondnokság alá helyezés iránti perben,
+m) az eljáró szerv – ideértve a bíróságot – a polgári perrendtartásról szóló 2016. évi CXXX. törvény XXXII. Fejezete szerinti gondnokság alá helyezés iránti perben,
 
 n) a törvényszéki végrehajtó a Magyar Államot illető végrehajtandó összeg iránti végrehajtási ügyben
+
+o) a vízügyi igazgatási szerv az állami tulajdonban álló vízkészletek vagy vízilétesítmények vagyonkezelése tárgyában,
+
+o) lakás építéséhez, vásárlásához vagy bővítéséhez igénybe vehető vissza nem térítendő állami támogatás igényléséhez az igénylő megbízásából tárgyévben ugyanazon ingatlan tulajdonilap-másolatára vonatkozóan egy alkalommal a hitelintézet
+
+p) a vízügyi hatóság és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében
 
 kéri.
 
 (2) Természetes személy számára évente két alkalommal díjmentes az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezése.
 
-(3) Az (1) bekezdés f) pontjának fa) alpontja nem vonatkozik arra az esetre, ha a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltak szerint az ügyfél köteles az adatszolgáltatásért járó díjat megfizetni.
+(3) Az (1) bekezdés f) pontjának fa) alpontja nem vonatkozik arra az esetre, ha jogszabályban foglaltak szerint az ügyfél köteles az adatszolgáltatásért járó díjat megfizetni.
 
 (4) Az (1) bekezdés a)–c), valamint f)–k) pontjában meghatározott eljárásokhoz szükséges elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezését kezdeményezőknek – a mentességet megalapozó eljárás, az ügyszám, illetőleg a pályázati azonosító megjelölésével – a felhasználás célját hitelt érdemlően igazolni kell.
 

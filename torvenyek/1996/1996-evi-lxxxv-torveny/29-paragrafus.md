@@ -8,4 +8,4 @@
 
 (5) A tulajdonilap-másolat szolgáltatás iránti megkeresés előterjesztésével egyidejűleg az annak alapjául szolgáló ügyben eljáró szerv igazolja a díjfizetés megtörténtét.
 
-(6) Az elektronikus adatszolgáltatási díjat az ingatlan-nyilvántartásért felelős miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott módon, a rendeletben megjelölt szerv részére kell megfizetni. A meg nem fizetett díj adók módjára behajtandó köztartozásnak minősül.
+(6) Az elektronikus adatszolgáltatási díjat az ingatlan-nyilvántartásért felelős miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott módon, a rendeletben megjelölt szerv részére kell megfizetni.

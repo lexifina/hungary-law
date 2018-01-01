@@ -24,23 +24,25 @@ d) annak, aki a kérelmet, megkeresést előterjeszti.
 
 (8a) Új épület építése vagy meglévő épület – ingatlan-nyilvántartásban változást eredményező – átalakítása esetén, a változás ingatlan-nyilvántartási átvezetésére (az épület feltüntetésére) irányuló eljárás igazgatási szolgáltatási díját az ehhez szükséges változási vázrajz záradékolása iránt történő benyújtásával egyidejűleg kell megfizetni.
 
-(8b) Amennyiben az építésügyi hatóság a használatbavételi engedély iránti kérelmet elutasítja vagy a használatbavételi engedélyezési eljárást megszünteti, az ingatlanügyi hatóság az erről szóló jogerős döntés kézhezvételét követő harminc napon belül intézkedik az ügyfél részére a (8a) bekezdés szerinti igazgatási szolgáltatási díj visszatérítése iránt.
+(8b) Amennyiben az építésügyi hatóság a használatbavételi engedély iránti kérelmet elutasítja vagy a használatbavételi engedélyezési eljárást megszünteti, az ingatlanügyi hatóság az erről szóló végleges döntés kézhezvételét követő harminc napon belül intézkedik az ügyfél részére a (8a) bekezdés szerinti igazgatási szolgáltatási díj visszatérítése iránt.
 
 (8c) A külön jogszabályban meghatározott – az ingatlan-nyilvántartásban változást eredményező – engedélyköteles bontási tevékenység esetében az igazgatási szolgáltatási díj megfizetésére a (8a) bekezdésben foglaltakat kell értelemszerűen alkalmazni.
 
 (9) A díj megfizetésének elmulasztása, valamint a (7) bekezdésben megjelölt adatok hiányában nem beazonosítható díjbefizetés esetén a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül kell megfizetni a díjat és igazolni annak megfizetését.
 
-(10) Jogerős hagyatékátadó végzés, bírósági és hatósági határozat, illetve bírósági vagy hatósági megkeresés alapján induló eljárás esetén, amennyiben a díj fizetésére kötelezett a kérelem, illetve a megkeresés benyújtásával egyidejűleg nem tesz eleget a díjfizetési kötelezettségének, akkor az ingatlanügyi hatóság az eljárást lefolytatja és a díj megfizetése iránt – a döntés kézhezvételétől számított 15 napos határidő tűzésével – a döntésében intézkedik, azzal, hogy a meg nem fizetett díj és annak járulékai adók módjára behajtandó köztartozásnak minősülnek.
+(10) Jogerős hagyatékátadó végzés, bírósági határozat, végleges hatósági döntés, illetve bírósági vagy hatósági megkeresés alapján induló eljárás esetén, amennyiben a díj fizetésére kötelezett a kérelem, illetve a megkeresés benyújtásával egyidejűleg nem tesz eleget a díjfizetési kötelezettségének, akkor az ingatlanügyi hatóság az eljárást lefolytatja és a díj megfizetése iránt – a döntés kézhezvételétől számított 15 napos határidő tűzésével – a döntésében intézkedik.
 
-(11) A végrehajtást kérő, illetve a végrehajtási jog vagy a jelzálogjog bejegyzést elrendelő hatóság az ingatlanügyi hatóságnak a végrehajtási jog vagy jelzálogjog bejegyzéséért fizetendő (előlegezendő) díjat azt követő 8 napon belül fizeti meg (utólagos díjfizetés), miután annak teljes összegét végrehajtási költségként az adóssal (ingatlantulajdonossal) szemben, illetve az adók módjára behajtandó köztartozás jogosultjával szemben az eljárás eredménytelenségének megállapítását követően, mint végrehajtási költséget érvényesítette, ha a követelés
+(11) A végrehajtást kérő, illetve a végrehajtási jog vagy a jelzálogjog bejegyzést elrendelő hatóság az ingatlanügyi hatóságnak a végrehajtási jog vagy jelzálogjog bejegyzéséért fizetendő (előlegezendő) díjat azt követő 8 napon belül fizeti meg (utólagos díjfizetés), miután annak teljes összegét végrehajtási költségként az adóssal (ingatlantulajdonossal) szemben, illetve az adók módjára behajtandó köztartozás jogosultjával, vagy az általános közigazgatási rendtartáson alapuló döntésben foglalt kötelezettség behajtását kérő hatósággal szemben az eljárás eredménytelenségének megállapítását követően mint végrehajtási költséget érvényesítette, ha a követelés
 
 a) behajtását adóigazgatási eljárás során kezdeményezték, vagy társadalombiztosítási jogviszonyból ered,
 
 b) a büntető- és a büntetés-végrehajtási-, valamint a szabálysértési eljárásban az adóssal szemben megállapított, az állam javára fizetendő összeg, vagy vagyonelkobzásból ered (a polgári jogi igény kivételével), vagy
 
-c) az a)–b) pontokba nem tartozó más köztartozás, és
+c) az a) és b) pontba nem tartozó más köztartozás, és
 
-d) az a)–c) pontok valamelyikében foglalt feltétel teljesülését, valamint az utólagos díjfizetésre irányuló igényt a megkeresés tartalmazza.
+d) az a)–c) pont valamelyikében foglalt feltétel teljesülését, valamint az utólagos díjfizetésre irányuló igényt a megkeresés tartalmazza.
+
+(11a) A (11) bekezdés szerinti díj megfizetésére nem kerül sor, ha a fővárosi és megyei kormányhivatal vagy járási (fővárosi kerületi) hivatal, illetve e hivatalok döntései alapján foganatosított végrehajtási eljárás eredménytelenül zárul.
 
 (12) A felszámolás tényének az ingatlan-nyilvántartásba történő feljegyzése esetén az eljárásért fizetendő díjat utólagosan fizeti meg a felszámolási eljárás alatt álló jogi személy. A díjfizetési kötelezettség akkor válik esedékessé, ha a felszámolási eljárás során az ingatlant érintő tulajdonosváltozás bejegyzése érdekében nyújtanak be okiratot vagy megkeresést, ilyen okirat vagy megkeresés hiányában pedig a felszámolási eljárást befejező bírósági végzés jogerőre emelkedésének napján.
 
