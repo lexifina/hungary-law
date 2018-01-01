@@ -1,6 +1,6 @@
-## 16. §[^13] Amennyiben a mintavételező szervezet a mintavételezés vagy a vizsgálat során visszaélést, visszaélésre utaló jelet vagy az előírt értékektől való eltérést észlel, értesíti a fogyasztóvédelmi hatóságot. A mérési eredményeket az MSZ EN ISO 4259 9.3 pontja szerint kell értelmezni.
+## 16. §[^17] Amennyiben a mintavételező szervezet a mintavételezés vagy a vizsgálat során visszaélést, visszaélésre utaló jelet vagy az előírt értékektől való eltérést észlel, értesíti a fogyasztóvédelmi hatóságot. A mérési eredményeket az MSZ EN ISO 4259 9.3 pontja szerint kell értelmezni.
 
-## 4/A. [^14] Rendkívüli helyzet
+## 4/A. [^18] Rendkívüli helyzet
 
 16/A. § (1) Ha a kőolaj-, kőolajtermék- vagy egyéb szénhidrogén-ellátásban hirtelen beálló változás következtében a 3. § (2)–(3) bekezdésekben szereplő, kéntartalomra vonatkozó előírások nem tarthatók be, azt a miniszter haladéktalanul bejelenti az Európai Bizottságnak, a magasabb határérték átmeneti alkalmazása érdekében.
 
@@ -12,5 +12,5 @@
 
 (5) A (3) bekezdés szerinti engedéllyel rendelkező felhasználó a rendkívüli helyzet időtartamára mentesül az 1%-nál nagyobb kéntartalmú fűtőolaj felhasználás miatti levegőtisztaság-védelmi bírság megfizetése alól.
 
-[^13]: A 16. § a 15/2015. (III. 31.) NFM rendelet 32. §-a szerint módosított szöveg.
-[^14]: A 4/A. alcímet (16/A. §) a 68/2016. (XII. 29.) NFM rendelet 5. §-a iktatta be.
+[^17]: A 16. § a 15/2015. (III. 31.) NFM rendelet 32. §-a szerint módosított szöveg.
+[^18]: A 4/A. alcímet (16/A. §) a 68/2016. (XII. 29.) NFM rendelet 5. §-a iktatta be.
