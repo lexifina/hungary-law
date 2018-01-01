@@ -1628,4 +1628,12 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 421. | 5486303 | Honvédelmi igazgatási ügyintéző | 1,0890 |
 
-[^25]: A 3. mellékletet a 340/2016. (XI. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 149/2017. (VI. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
+| 422. | 5572317 | Mentésirányító | 2,1780 |
+
+| 423. | 3454111 | Pék-cukrász | 1,5057 |
+
+| 424. | 3458216 | Épületszobrász és műköves | 1,7569 |
+
+| 425. | 3458217 | Kőfaragó | 1,7569 |
+
+[^25]: A 3. mellékletet a 340/2016. (XI. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 149/2017. (VI. 12.) Korm. rendelet 1. §-a, az 504/2017. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
