@@ -1,8 +1,8 @@
-29/A. § (1) A vámhatóság az állami hulladékgazdálkodást közvetítő szervezet által finanszírozott, a 22/A. § (6) bekezdésében meghatározott hulladékgazdálkodási közszolgáltatás és hulladékhasznosítási szolgáltatások körébe tartozó ügyletek tényleges megvalósulását, illetve azok végrehajtásának szabályszerűségét ellenőrzi. Az ellenőrzést azon személyek vonatkozásában indítja meg, amelyek számára az állami hulladékgazdálkodást közvetítő szervezet a kifizetést teljesítette. Az állami hulladékgazdálkodást közvetítő szervezet által történő kifizetés, az államháztartásról szóló 2011. évi CXCV. törvény 41. § (2) bekezdésétől eltérően költségvetési támogatásként (a továbbiakban: támogatás) nyújtható.
+29/A. § (1) A vámhatóság az állami hulladékgazdálkodást közvetítő szervezet által finanszírozott és a hulladékhasznosítási szolgáltatások körébe tartozó ügyletek tényleges megvalósulását, illetve azok végrehajtásának szabályszerűségét ellenőrzi. Az ellenőrzést azon személyek vonatkozásában indítja meg, amelyek számára az állami hulladékgazdálkodást közvetítő szervezet a kifizetést teljesítette. Az állami hulladékgazdálkodást közvetítő szervezet által történő kifizetés, az államháztartásról szóló 2011. évi CXCV. törvény 41. § (2) bekezdésétől eltérően költségvetési támogatásként (a továbbiakban: támogatás) nyújtható.
 
 (2)
 
-(3) Az (1) bekezdés szerinti ellenőrzésre az Art. szabályait a jelen §-ban meghatározott eltérésekkel kell alkalmazni.
+(3) Az (1) bekezdés szerinti ellenőrzésre az Air. és az Art. szabályait a jelen §-ban meghatározott eltérésekkel kell alkalmazni.
 
 (4) A támogatás igénybevételének jogszerűségét a vámhatóság – a kifizetések alapjául szolgáló bizonylatok adatai alapján – támogatásonként (kifizetésenként) vagy meghatározott időszak tekintetében is vizsgálhatja.
 
@@ -62,11 +62,11 @@ f) utalást arra, hogy a jegyzőkönyvben foglaltakra az ellenőrzött a törvé
 
 g) az ellenőrzést végzők aláírását.
 
-(21) A termékdíjköteles termékekből képződött hulladékokkal kapcsolatos ellenőrzések során a határidők tekintetében az Art. vonatkozó rendelkezései irányadóak.
+(21) Az ellenőrzési határidő kezdő napja a megbízólevél kézbesítésének, a kézbesítés mellőzése esetén a megbízólevél átadásának napja. Az ellenőrzés befejezésének határideje – beleértve az ellenőrzés megkezdésének és befejezésének napját – 60 nap. Indokolt esetben az ellenőrzést lefolytató vámszerv vezetője – az ellenőrzött személy vagy szervezet értesítésével – a határidőt egy alkalommal, 30 nappal meghosszabbíthatja.
 
-(22)
+(22) A meghosszabbított ellenőrzési határidőt rendkívüli körülmények által indokolt esetben, az ellenőrzést végző vámszerv indokolt kérelmére az állami adó- és vámhatóság vezetője egyszer, legfeljebb 90 napig terjedő időtartammal meghosszabbíthatja.
 
-(23) Az elrendelt ellenőrzéssel összefüggésben a vámhatóság kapcsolódó vizsgálatot végezhet olyan személynél, amely az ellenőrzés alanyával közvetett vagy közvetlen kapcsolatban áll vagy állt, feltéve, hogy az elrendelt ellenőrzés tényállásának teljes körű tisztázása érdekében e vizsgálat lefolytatása szükséges. A kapcsolódó ellenőrzés határideje 60 nap. Indokolt esetben az ellenőrzést lefolytató vámszerv vezetője – az ellenőrzött személy vagy szervezet értesítésével – a határidőt egy alkalommal 30 nappal meghosszabbíthatja.
+(23) Az elrendelt ellenőrzéssel összefüggésben a vámhatóság kapcsolódó vizsgálatot végezhet olyan személynél, amely az ellenőrzés alanyával közvetett vagy közvetlen kapcsolatban áll vagy állt, feltéve, hogy az elrendelt ellenőrzés tényállásának teljes körű tisztázása érdekében e vizsgálat lefolytatása szükséges. A kapcsolódó ellenőrzés határideje 60 nap. Indokolt esetben az ellenőrzést lefolytató vámszerv vezetője – az ellenőrzött személy vagy szervezet értesítésével – a határidőt egy alkalommal 30 nappal meghosszabbíthatja. A kapcsolódó vizsgálat időtartama az ellenőrzés határidejébe nem számít bele.
 
 (24) Ha a vámhatóság a vizsgálat megállapításait más személynél végzett kapcsolódó vizsgálat eredményével támasztja alá, az erről szóló jegyzőkönyvnek, illetőleg határozatának az ellenőrzött személyt vagy szervezetet érintő részét az ellenőrzött személlyel vagy szervezettel részletesen ismertetni kell.
 

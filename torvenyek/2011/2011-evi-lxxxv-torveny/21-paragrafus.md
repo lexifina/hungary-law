@@ -1,4 +1,4 @@
-21. § (1) Az OGyHT – e törvény végrehajtására kiadott miniszteri rendeletben meghatározottak szerint –
+21. § (1) Az OGyHT
 
 a) a középtávon elérendő, az európai közösségi és hazai jogszabályokon, valamint az Országos Hulladékgazdálkodási Terven alapuló országos gyűjtési és hasznosítási mennyiségeket, arányokat (stratégiai célérték);
 
@@ -14,4 +14,4 @@ tartalmazza.
 
 (3) Az OGyHT-ben meghatározott célértéket a tárgyév október 31-ig az állami hulladékgazdálkodást közvetítő szervezet a környezetvédelemért felelős miniszter jóváhagyása nélkül az induló érték egyharmadával módosíthatja.
 
-(4)
+(4) Az OGyHT-t, illetve az OGyHT módosítását a módosítások megjelölésével a kormányzati portálon közzé kell tenni.

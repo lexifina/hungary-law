@@ -106,17 +106,23 @@ d) a csomagolásba beépülő egyes alkotóelem és kiegészítő elem, amelyet 
 
 12. egyéni hulladékkezelés: az 1. § (3) bekezdés a) és b), valamint d) és e) pontja szerinti termékdíjköteles termék termék- és anyagáramából keletkezett hulladék
 
-a) a kötelezett telephelyén történő gyűjtése, ideértve a kötelezettnek a termék forgalmazását végző kereskedelmi egységgel ténylegesen, közösen, az értékesítés helyén történő gyűjtését,
+a) a kötelezett, illetve a kötelezett társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozásának telephelyén való gyűjtése,
 
-b) saját célú felhasználás esetén a kötelezett telephelyén történő gyűjtése, vagy
+b) saját célú felhasználás esetén a kötelezett telephelyén történő gyűjtése,
 
-c) csomagolószer hulladékának hajléktalan-ellátó szervezettel vagy intézménnyel ténylegesen, közösen a szervezet, intézmény épületében elhelyezett gyűjtőautomatával történő gyűjtése
+c) csomagolószer hulladékának hajléktalan-ellátó szervezettel vagy intézménnyel ténylegesen, közösen a szervezet, intézmény épületében elhelyezett gyűjtőautomatával történő gyűjtése, vagy
 
-és az a)–c) pont szerint gyűjtött hulladék hasznosítása vagy hasznosíttatása;
+d) a kötelezettnek a termék forgalmazását végző kereskedelmi egységgel ténylegesen, közösen, az értékesítés helyén történő gyűjtése,
 
-13. elektromos, elektronikai berendezés: legfeljebb 1000 V váltakozó feszültségű, illetve 1500 V egyenfeszültségű árammal működő berendezés, amelynek rendeltetésszerű működése elektromágneses mezőktől vagy villamos áramtól függ, ideértve az elektromágneses mező, illetve villamos áram előállítását, mérését, átvitelét biztosító eszközöket is;
+és az a)–d) pont szerint gyűjtött hulladék hasznosítása vagy hasznosíttatása;
 
-13a. építési termék: a 305/2011/EU rendelet 2. cikk 1. pontja szerinti építési termék;
+13. elektromos, elektronikai berendezés: legfeljebb 1000 V váltakozó feszültségű, valamint legfeljebb 1500 V egyenfeszültségű árammal működő berendezés, amelynek rendeltetésszerű működése elektromágneses mezőktől vagy elektromos áramtól függ, ideértve az elektromágneses mező, illetve elektromos áram előállítását, mérését, átvitelét biztosító eszközöket is, kivéve a nagyméretű rögzített ipari szerszámot és a világűrben való felhasználásra tervezett elektromos, elektronikai berendezést;
+
+13a. elkülönített hulladék gyűjtésére szolgáló műanyag zsák: a hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló kormányrendeletben meghatározott elkülönített hulladék gyűjtésére szolgáló műanyag zsák;
+
+13b. építési termék: az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2011. március 9-i, az Európai Parlament és a Tanács 305/2011/EU rendeletének 2. cikk 1. pontja szerinti építési termék;
+
+13c. fém ital-csomagolószer: a kizárólag fémből készült, fogyasztásra kész italok fogyasztói (elsődleges) közvetlen csomagolására alkalmas csomagolószer, a záróelem kivételével, ide nem értve a doboz, hordó palást lezárására szolgáló, vagy azzal egybeépített záróelemét;
 
 14. forgalomba hozatal: a termékdíjköteles termék tulajdonjogának
 
@@ -148,25 +154,7 @@ d) a 8711 vtsz. alá tartozó termék, kivéve a kerékpár segédmotorral felsz
 
 18a. irodai papír: információ hordozására alkalmas író, nyomtató vagy fénymásoló papír, amely további megmunkálás nélkül alkalmas írásra, nyomtatásra vagy fénymásolásra, továbbá az iratok, dokumentumok, folyóiratok vagy hasonló termékek tartására, rendezésére szolgáló, papírból készült iratrendező, dosszié, iratborító, levélrendező és irattartó mappa;
 
-19. kereskedelmi csomagolás:
-
-a) a 2009 vámtarifaszámú gyümölcslé (beleértve a szőlőmustot is) és zöldséglé, nem erjesztve, hozzáadott alkoholtartalom nélkül, cukor vagy más édesítőanyag hozzáadásával is,
-
-b) a 2106 90 20, 2106 90 30, 2106 90 51, 2106 90 55, 2106 90 59 vámtarifaszámú ízesített vagy színezett cukorszirup,
-
-c) a 2201 vámtarifaszámú (emberi fogyasztásra alkalmas) víz, beleértve a természetes vagy mesterséges ásványvizet és a szénsavas vizet is, cukor vagy más édesítőanyag hozzáadása és ízesítés nélkül, kivéve a jég, a hó és a laboratóriumi vizsgálati vízminta,
-
-d) a 2202 vámtarifaszámú víz (beleértve a természetes vagy mesterséges ásványvizet és a szénsavas vizet is) cukor vagy más édesítőanyag hozzáadásával vagy ízesítve és más alkoholmentes ital, a 2009 vtsz. alá tartozó gyümölcs- és zöldséglevek és a 657/2008/EK bizottsági rendelet I. melléklete I. és II. kategóriájába tartozó készítmények kivételével,
-
-e) a 2203 vámtarifaszámú malátából készült sör,
-
-f) a 2204 vámtarifaszámú bor friss szőlőből, beleértve a szeszezett bort is; szőlőmust, a 2009 vtsz. alá tartozó kivételével,
-
-g) a 2205 vámtarifaszámú vermut és friss szőlőből készült más bor növényekkel vagy aromatikus anyagokkal ízesítve, a 2206 vámtarifaszámú más erjesztett ital (pl. almabor, körtebor, mézbor); erjesztett italok keverékei, és erjesztett italok és alkoholmentes italok másutt nem említett keverékei, a 2207 10 00 vámtarifaszámú nem denaturált etil-alkohol legalább 80 térfogatszázalék alkoholtartalommal, valamint a 2208 vámtarifaszámú nem denaturált etil-alkohol, kevesebb mint 80 térfogatszázalék alkoholtartalommal; szesz, likőr és más szeszes ital
-
-termékek kizárólag fémből készült fogyasztói (elsődleges) közvetlen csomagolása, a záróelem kivételével (ide nem értve a doboz, hordó palásttal egybeépített záróelemét);
-
-20. kereskedelmi csomagolószer: olyan kizárólag fémből készült csomagolóeszköz, és a doboz, hordópalást lezárására szolgáló záróelem, amely rendeltetésszerű felhasználása esetén és további feldolgozás nélkül – ide nem értve a záróelem doboz, hordópalásttal történő egybeépítését – alkalmas kereskedelmi csomagolás létrehozására, továbbá a csomagolószer ilyen jellege a csomagolószer forgalomba hozatala vagy saját célú felhasználása során megállapítható;
+19–20.
 
 20a. kereskedelmi termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék tárolható;
 
@@ -184,13 +172,13 @@ termékek kizárólag fémből készült fogyasztói (elsődleges) közvetlen cs
 
 25a. nagyméretű rögzített ipari szerszám: gépek, berendezések, illetve azok alkatrészeinek nagyméretű összessége, amelyek egy adott alkalmazás céljából működnek együtt, és amelyeket szakemberek állandó jelleggel egy adott helyen beüzemelnek, leszerelnek, használnak, illetve karbantartanak valamely ipari gyártó létesítményben vagy kutatási és fejlesztési létesítményben;
 
-26. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény által meghatározott sajtótermékek közül az időszaki lap egyes számai, az egyéb nyomtatott anyagok közül a grafikát, rajzot vagy fotót tartalmazó kiadvány, a térkép, a nyomtatott képeslap, az üdvözlő- és más hasonló kártya – a névjegykártya kivételével –, a nyomtatott naptár, a nyomtatott üzleti reklámanyag, a katalógus, a prospektus, a reklámposzter és hasonlók, a röplap és az egyéb szöveges kiadvány – ideértve azt is, ha mindezek más kiadvány külön mellékletét képezik. Nem tartozik a reklámhordozó papír fogalmába:
+26. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény által meghatározott
 
-a) a kiadványonként, annak teljes nyomtatott felületére vetítve legalább 50%-ában nem gazdasági reklám terjesztésére szolgáló kiadvány, időszaki lap,
+a) sajtótermékek közül az időszaki lap egyes számai,
 
-b) a közhasznú szervezet, állami, önkormányzati szerv által, alapfeladata körében kiadott kiadvány, időszaki lap,
+b) egyéb nyomtatott anyagok közül a grafikát, rajzot vagy fotót tartalmazó kiadvány, a térkép, a nyomtatott képeslap, a névjegykártya kivételével az üdvözlő- és más hasonló kártya, a nyomtatott naptár, a nyomtatott üzleti reklámanyag, a katalógus, a prospektus, a reklámposzter és hasonlók, a röplap és az egyéb szöveges kiadvány,
 
-c) a könyv, tankönyv;
+ideértve azt is, ha más kiadvány mellékletét képezik, kivéve az ISBN-számmal ellátott könyvet, és a tankönyvjegyzékbe felvett tankönyvet;
 
 27. rétegzett italkarton: az a legalább 70%-ban papír alapanyagú (karton) csomagolószer, amely alkalmas folyékony élelmiszer csomagolására;
 
@@ -238,6 +226,6 @@ számára meghatározott díjfizetési kötelezettség;
 
 32. újbóli felhasználásra előkészítés: a hulladékká nem vált termékdíjköteles termék, illetve alkotórészének vagy tartozékának ellenőrzése, tisztítása, valamint javítása az eredeti felhasználási célra való alkalmassá tétel érdekében;
 
-32a. vámtarifaszám: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelet 2010. január 1-jén hatályos áruosztályozási szabályai alapján megállapított, a tanácsi rendelet I. melléklete szerinti áruazonosító szám;
+32a. vámtarifaszám: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelet tárgyév január 1-jén hatályos áruosztályozási szabályai alapján megállapított, a tanácsi rendelet I. melléklete szerinti áruazonosító szám;
 
 33. Végfelhasználó: a terméket tovább már nem értékesítő, a szükséglete kielégítésére felhasználó természetes, vagy jogi személy.

@@ -18,7 +18,7 @@ terheli.
 
 Reklámhordozó papír esetében az a) pont szerinti első belföldi forgalomba hozatalnak – belföldi előállítás esetén – a nyomdai szolgáltatás teljesítése (nyomtatás és átadás) minősül.
 
-(2a) A (2) bekezdésben foglaltaktól eltérően a termékdíj megfizetése nélkül vagy a termékdíj visszatérítését követően a termékdíj raktárban tárolt, feldolgozott, előállított, újbóli felhasználásra előkészített termékdíjköteles termék, termékdíj raktárból belföldre – a tulajdonjog átruházásával – történő kiszállítása, első belföldi forgalomba hozatalnak minősül.
+(2a) A (2) bekezdésben foglaltaktól eltérően a termékdíj megfizetése nélkül vagy a termékdíj visszatérítését követően a termékdíj raktárban tárolt, feldolgozott, előállított, újbóli felhasználásra előkészített termékdíjköteles termék, termékdíj raktárból belföldre – a tulajdonjog átruházásával – történő kitárolása, első belföldi forgalomba hozatalnak minősül.
 
 (3) Saját célú felhasználásnak minősül a termékdíjköteles termék, ideértve más termék tartozékaként vagy alkotórészeként, továbbá a csomagolószer esetében a csomagolás részeként:
 
@@ -88,7 +88,9 @@ d) a termékdíjköteles terméket termékdíj raktárba szállítja be,
 
 e) a raklapot a 3/A. § szerinti engedéllyel bíró bérleti rendszer üzemeltetőjeként – a 3/A. § szerinti engedélyezett bérleti rendszer keretében történő használat céljából – vásárolja meg,
 
-f) a raklapot a 3/A. § szerinti engedéllyel bíró bérleti rendszer üzemeltetője számára a 3/A. § szerinti engedélyezett bérleti rendszer keretében történő használatra átadja.
+f) a raklapot a 3/A. § szerinti engedéllyel bíró bérleti rendszer üzemeltetője számára a 3/A. § szerinti engedélyezett bérleti rendszer keretében történő használatra átadja,
+
+g) az irodai papírt ISBN-számmal ellátott könyv, a tankönyvjegyzékbe felvett tankönyv, vagy ISSN-azonosítószámmal rendelkező időszaki kiadvány előállításához közvetlen anyagként (alapanyagként) használja fel.
 
 (7) A (6) bekezdés szerinti nyilatkozó kötelezettnek minősül, ha a nyilatkozatával ellentétesen jár el, egyébként a kötelezett ellenőrzésére vonatkozó szabályokat kell rá alkalmazni.
 
@@ -104,4 +106,16 @@ c) a belföldön hulladékká vált termék az újrafelhasználásra előkészí
 
 d) az elkülönített hulladék gyűjtésére szolgáló műanyag zsákot belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
 
-e) a teljes egészében megújuló forrásból származó alapanyagból, – az MSZ EN 13432:2002 szabvány, vagy azzal egyenértékű megoldás követelményeinek megfelelően – biológiai úton lebomló műanyagból készült termékdíjköteles terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi.
+e) a teljes egészében megújuló forrásból származó alapanyagból és – az MSZ EN 13432:2002 szabvány, vagy azzal egyenértékű megoldás követelményeinek megfelelően – biológiai úton lebomló műanyagból készült termékdíjköteles terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
+
+f) olyan reklámhordozó papírt hoz belföldön forgalomba, használ fel saját célra vagy vesz készletre,
+
+fa) amely teljes nyomtatott felületére vetítve legfeljebb 50%-ában gazdasági reklám terjesztésére szolgál, vagy
+
+fb) amelyet közhasznú szervezet, állami, önkormányzati szerv alapfeladata körében ad ki.
+
+(10) A reklámhordozó papír forgalomba hozatala során a (9) bekezdés f) pontja alapján a termékdíjat abban az esetben nem kell megfizetni, ha a kötelezett megrendelője a megrendelésével egyidejűleg írásban nyilatkozik a (9) bekezdés f) pont alpontjaiban meghatározott feltétel fennállásáról.
+
+(11) Ha a közhasznú szervezet, állami, önkormányzati szerv szerződéses partnere a nyomda megrendelője, abban az esetben a megrendelőnek a (10) bekezdés szerinti nyilatkozata megtétele előtt be kell szereznie a közhasznú szervezet, állami, önkormányzati szerv nyilatkozatát arra vonatkozóan, hogy a megrendelt áru a (9) bekezdés f) pont fb) alpontjában meghatározott feltételeknek megfelel.
+
+(12) A (10) bekezdés szerinti megrendelő kötelezettnek minősül, ha nem a nyilatkozat tartalma szerint jár el, és a termékdíjköteles termék termékdíját, valamint a termékdíj-kötelezettség keletkezésének 5. § (1) bekezdésben meghatározott időpontjától számított késedelmi pótlékot fizeti meg, egyebekben a kötelezett ellenőrzésére vonatkozó szabályokat kell rá alkalmazni.

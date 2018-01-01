@@ -32,7 +32,7 @@ a) a hulladékkezelési teljesítmény megállapításának részletes szakmai f
 
 b) a környezetvédelmi termékdíjakkal kapcsolatos előírások érvényesítése érdekében kötelezően alkalmazandó vizsgálati, mérési, értékelési módszereket, eljárásokat, továbbá az anyagmérleg készítésének és elfogadásának részletes szabályait rendeletben állapítsa meg,
 
-c) az Országos Gyűjtési és Hasznosítási Terv részletes tartalmi követelményeit és előkészítésének eljárási rendjét,
+c)
 
 d) az állami hulladékgazdálkodást közvetítő szervezet által a válogatott, illetve szelektív települési szilárd hulladékkezelési közszolgáltatást ellátó szervezetekkel kötendő szerződések feltételeit,
 

@@ -1,6 +1,6 @@
 36. § (1) A lefoglalt termékeket el kell kobozni, ha a környezetvédelmi termékdíjas ügyben jogerősen termékdíjbírság, mulasztási bírság kerül kiszabásra és azt a kötelezett az esedékességtől számított 15 napon belül nem fizette meg. Továbbá a jogerősen végrehajtható környezetvédelmi termékdíj és termékdíjbírság, mulasztási bírság megfizetésére kötelezett ügyfél tulajdonában lévő termék elszállításával, tárolásával, őrzésével, megsemmisítésével kapcsolatos költségek együttes összege eléri a termék lefoglaláskori értékét és a kötelezett a fizetési kötelezettségének nem tett eleget.
 
-(2) Az elkobzott termékdíjköteles terméket a keletkezett fizetési kötelezettségek teljesítése és a költségek megtérülése érdekében az állami adó- és vámhatóság az állam javára az Art. szerinti végrehajtásra vonatkozó szabályok alapján értékesíti, ennek meghiúsulása esetén megsemmisíti.
+(2) Az elkobzott termékdíjköteles terméket a keletkezett fizetési kötelezettségek teljesítése és a költségek megtérülése érdekében az állami adó- és vámhatóság az állam javára a végrehajtásra vonatkozó szabályok alapján értékesíti, ennek meghiúsulása esetén megsemmisíti.
 
 (3) Az elkobzott terméket nem kell megsemmisíteni, ha az állami adó- és vámhatóság, mint az állam nevében az elkobzott termék felett rendelkezésre jogosult, az állami hulladékgazdálkodást közvetítő szervezet egyetértésével a terméket:
 

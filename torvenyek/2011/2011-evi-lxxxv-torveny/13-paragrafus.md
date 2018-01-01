@@ -10,7 +10,7 @@ c) a 3. § (6) bekezdésben foglaltak alkalmazása során, továbbá
 
 d) a termékdíj raktárba a termékdíj visszaigénylésével történő beszállítás során
 
-– a (2) bekezdésben foglaltak kivételével – az e törvény végrehajtására kiadott rendeletekben meghatározott számla záradékkal megegyező szöveget kell feltüntetni.
+– a (2) és (3) bekezdésben foglaltak kivételével – az e törvény végrehajtására kiadott rendeletekben meghatározott számla záradékkal megegyező szöveget kell feltüntetni.
 
 (2) A 15/A. és 15/B. § szerint termékdíj-átalányfizetést választó kötelezett a 13. § (1) bekezdés b) pontja szerinti számlazáradékot – az átalánytermékdíj-fizetéssel teljesített termékdíj-kötelezettség esetében – nem tüntethet fel a számlán.
 

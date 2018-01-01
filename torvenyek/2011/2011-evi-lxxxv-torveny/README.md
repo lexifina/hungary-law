@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-85-00-00
 | 2015-04-15 | 2015. évi XXXVIII. törvény | 2011-85-00-00.16 |
 | 2016-01-01 | 2015. évi CLXVIII. törvény | 2011-85-00-00.17 |
 | 2017-01-01 | 2016. évi CXXXIX. törvény | 2011-85-00-00.18 |
+| 2018-01-01 | 2017. évi CXXXI. törvény | 2011-85-00-00.19 |

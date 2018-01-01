@@ -18,7 +18,7 @@ f) a 4. § (2) bekezdés d) pontjában meghatározott csomagolószer termékdíj
 
 g) a csomagolóanyag vagy csomagolási segédanyag esetében, annak – a továbbforgalmazás kivételével – nem csomagolás előállítására való felhasználása;
 
-h) a csomagolás alkotórészeként forgalomba hozott záróelem kereskedelmi csomagolószerként megfizetett termékdíja
+h) a csomagolás alkotórészeként forgalomba hozott záróelem kereskedelmi csomagolószerként vagy fém ital-csomagolószerként megfizetett termékdíja
 
 esetén visszaigényelhető.
 

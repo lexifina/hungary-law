@@ -1,3 +1,15 @@
 ## 25. Mulasztási bírság
 
-32. § Amennyiben a kötelezett e törvény és a végrehajtására kiadott jogszabály szerinti kötelezettségeit nem az előírtak szerint teljesíti, az állami adó- és vámhatóság mulasztási bírságot szabhat ki. Az állami adó- és vámhatóság az e törvényben, illetve e törvény végrehajtására kiadott jogszabályban megállapított kötelezettség az Art. 172. §-ban foglaltak szerinti megszegése esetén a kötelezettet az Art. szerinti, míg az Art. 172. §-ban nem szabályozott kötelezettség megszegése miatt a kötelezettet 500 ezer forintig terjedő mulasztási bírsággal sújthatja.
+32. § Az állami adó- és vámhatóság a kötelezettet legfeljebb 500 ezer forintig terjedő mulasztási bírsággal sújtja. A bírság kiszabása során az állami adó- és vámhatóság az Art. mulasztási bírságra vonatkozó rendelkezései közül
+
+a) az általános bírságszabályra,
+
+b) a hiánypótlásra felhívás kötelező alkalmazására,
+
+c) az iratmegőrzési kötelezettség szabályainak megsértésére,
+
+d) bírságkiszabásnál alkalmazandó mérlegelési szempontokra és
+
+e) a mulasztási bírság kiszabásának időbeli korlátjára
+
+vonatkozó szabályait megfelelően alkalmazza.

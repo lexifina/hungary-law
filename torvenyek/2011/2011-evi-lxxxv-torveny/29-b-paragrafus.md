@@ -1,4 +1,4 @@
-29/B. § (1) A vámhatóság az egyéni hulladékkezelést teljesítő kötelezett és az ennek érdekében vele szerződött hulladékkezelők által teljesített ügyletek – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági ügy, illetve eljárás kivételével – tényleges megvalósulását ellenőrzi.
+29/B. § (1) A vámhatóság az egyéni hulladékkezelést teljesítő kötelezett és az ennek érdekében vele szerződött hulladékkezelők által teljesített ügyletek – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági eljárás kivételével – tényleges megvalósulását ellenőrzi.
 
 (2) Ha a vámhatóság kérésére elvégzett mintavétel érdekében a hulladék válogatása, osztályozása válik szükségessé, úgy annak költsége, amennyiben az ellenőrzés jogsértést tár fel, az ellenőrzött személyt vagy szervezetet, egyébként a vámhatóságot terheli.
 
@@ -24,7 +24,7 @@ h) a mintavevők aláírását és bélyegzőlenyomatát.
 
 (5) A mintavételi jegyzőkönyvet 3 példányban kell kiállítani, melynek eredeti példánya a vámhatóság példánya, másodpéldánya a mintát kíséri, harmadpéldánya az ellenőrzött személy vagy szervezet példánya.
 
-(6) Az (1) bekezdés szerinti ellenőrzésre az Art. szabályait a jelen §-ban meghatározott eltérésekkel kell alkalmazni.
+(6) Az (1) bekezdés szerinti ellenőrzésre az Air. és az Art. szabályait a jelen §-ban meghatározott eltérésekkel kell alkalmazni.
 
 (7) Az (1) bekezdés szerinti ellenőrzések során a 29/A. § (6) bekezdése, és (8)–(24) bekezdése alkalmazandó.
 
