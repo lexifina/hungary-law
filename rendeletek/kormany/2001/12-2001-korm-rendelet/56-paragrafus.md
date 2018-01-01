@@ -1,8 +1,8 @@
-## 55. §[^393] E rendeletnek az Otthonteremtési Program kiterjesztésével összefüggő egyes kormányrendeletek módosításáról szóló 455/2015. (XII. 29.) Korm. rendelet 1. § (5) bekezdésével megállapított 18. § (7b) bekezdésében foglaltakat a már megkötött és még folyamatban lévő 1. § (2) bekezdés f)–h) pontja szerinti kamattámogatott kölcsönök igénybevételéről szóló szerződések esetén is alkalmazni kell.
+## 55. §[^397] E rendeletnek az Otthonteremtési Program kiterjesztésével összefüggő egyes kormányrendeletek módosításáról szóló 455/2015. (XII. 29.) Korm. rendelet 1. § (5) bekezdésével megállapított 18. § (7b) bekezdésében foglaltakat a már megkötött és még folyamatban lévő 1. § (2) bekezdés f)–h) pontja szerinti kamattámogatott kölcsönök igénybevételéről szóló szerződések esetén is alkalmazni kell.
 
-56. §[^394] A központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 379/2016. (XII. 2.) Korm. rendelettel megállapított 24. § (15a) és (15b) bekezdése szerinti változásokról a miniszter a hitelintézetet és a Kincstárt 2017. január 15-éig, írásban tájékoztatja.
+56. §[^398] A központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 379/2016. (XII. 2.) Korm. rendelettel megállapított 24. § (15a) és (15b) bekezdése szerinti változásokról a miniszter a hitelintézetet és a Kincstárt 2017. január 15-éig, írásban tájékoztatja.
 
-Melléklet a 12/2001. (I. 31.) Korm. rendelethez[^395]
+Melléklet a 12/2001. (I. 31.) Korm. rendelethez[^399]
 
 A 3. § (4) bekezdése szerinti méltányolható lakásigény alkalmazásához a lakásépítés (lakásvásárlás) – telekárat nem tartalmazó – költségei (árai), valamint a 27/A. § (4) bekezdése és a 27/B. § (4) bekezdése szerinti beruházás tekintetében a – telekárat nem tartalmazó – költségek (árak) a következők:
 
@@ -34,6 +34,6 @@ A 3. § (4) bekezdése szerinti méltányolható lakásigény alkalmazásához a
 
 | 7 | 38 000 | 36 000 |
 
-[^393]: Az újabb 55. §-t a 455/2015. (XII. 29.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^394]: Az 56. §-t a 379/2016. (XII. 2.) Korm. rendelet 43. § (4) bekezdése iktatta be.
-[^395]: A melléklet a 391/2007. (XII. 23.) Korm. rendelet 30. §-ával megállapított, a 74/2011. (V. 2.) Korm. rendelet 18. § szerint módosított szöveg.
+[^397]: Az újabb 55. §-t a 455/2015. (XII. 29.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^398]: Az 56. §-t a 379/2016. (XII. 2.) Korm. rendelet 43. § (4) bekezdése iktatta be.
+[^399]: A melléklet a 391/2007. (XII. 23.) Korm. rendelet 30. §-ával megállapított, a 74/2011. (V. 2.) Korm. rendelet 18. § szerint módosított szöveg.
