@@ -1,0 +1,7 @@
+## „(15) E rendeletnek az egyes kormányrendeleteknek a vízkészletek hasznosításának egyszerűsítéséhez kapcsolódó, valamint más vízgazdálkodási tárgyú kormányrendeletek módosításáról szóló 518/2017. (XII. 29.) Korm. rendelettel (a továbbiakban: Mód. Kr. 9.) megállapított
+
+## a) 1/B. § (4) bekezdését, 3. § (2) és (6) bekezdését, 4/A. § (10) és (11) bekezdését, 5. § (2a) és (3a) bekezdését, 11/D. §-át, 13. § (3) és (4) bekezdését, 17. § (3) bekezdését, 1. mellékletét a Mód. Kr. 9. hatálybalépésekor első fokon még el nem bírált ügyekben és a megismételt eljárásokban is alkalmazni kell,
+
+## b) 1. §-át, 1/A. §-t, 1/B. § (1)–(3) és (5) bekezdését, 1/C–1/H. §-át, 2. § (6) bekezdését, 3. § (1), (2) és (11) bekezdését, 4. § (1) bekezdését, 4/A. § (1) és (7) bekezdését, 5. § (1), (5) és (17) bekezdését, 5/B–5/E. §-át, 5/G. §-át, 6. § (2a) bekezdését, 8. § (4a) bekezdését, 8/A–8/F. §-át, 9. § (2a) bekezdését, 11/A. § (3) bekezdését, 11/C. §-át, 16. § (3) bekezdését, 18. § (6) bekezdését, 22. § (2)–(2c) bekezdését, 24. § (1) bekezdés a) pont aa) és ab) alpontját, (3) bekezdés c) pontját, (7) és (9) bekezdését, 27. § (11) bekezdését a Mód. Kr. 9. hatálybalépését követően indult ügyekben és a megismételt eljárásokban kell alkalmazni,
+
+## c) 5/F. §-át a Vgtv. 15/C. § (9) bekezdése alapján 2017. június 30-án kihirdetett tartósan vízhiányos időszakra és az ahhoz kapcsolódóan érvényesíthető vízkészletjárulék-kedvezményre vonatkozóan is alkalmazni kell.”

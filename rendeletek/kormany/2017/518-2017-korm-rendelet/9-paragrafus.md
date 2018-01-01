@@ -1,0 +1,1 @@
+## „(3) A vízjogi üzemeltetési engedély iránti kérelem részeként igazolni kell az ingatlanügyi hatóság által érvényes záradékkal ellátott változási vázrajz meglétét. A vízjogi üzemeltetési engedélyben meg kell jelölni az ingatlannak a mederhasználati joggal érintett részét, továbbá a változási vázrajz a határozat mellékletét képezi.”

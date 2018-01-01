@@ -1,0 +1,1 @@
+## „24. öntözés: természetes csapadék pótlása céljából a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet szerinti, helyi vízgazdálkodási jogkörbe eső vízigényen kívüli víz kijuttatása mesterséges módon a növénytermesztés hatékonyságának növelése, illetve a jogszabály alapján öntözhető gyepterületek fenntartása érdekében,”

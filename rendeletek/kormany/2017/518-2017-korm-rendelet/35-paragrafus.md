@@ -1,0 +1,3 @@
+## „(7) Több vízügyi hatóság illetékességi területén elhelyezkedő regionális víziközmű-rendszer esetén az üzemeltetési követelmények teljesítésének ellenőrzését (hatósági ellenőrzés) a víziközmű-szolgáltató székhelye szerint illetékes vízügyi hatóság végzi. A hatósági ellenőrzés alapján induló hatósági engedélyezésre, engedély-módosításra az általános illetékességi szabályok irányadóak.
+
+## (8) A vízvédelmi hatóságok a víz mint környezeti elem védelme tekintetében – kormányrendeletben vagy miniszteri rendeletben foglalt esetekben, a környezetvédelmi feladat- és hatáskör részeként – ellátják a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben meghatározott környezetvédelmi közigazgatási hatósági feladatokat.”
