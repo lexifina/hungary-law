@@ -1,3 +1,0 @@
-## „(10) A Kormány egészségbiztosítóként, valamint egészségbiztosítási szervként az Ebtv. 71. § (1) bekezdésében, valamint 72. §-ában foglalt feladatok ellátására a Központot jelöli ki, ha a követelés érvényesítése az Ebtv. 70. § (1) bekezdés a) pontja szerint hozott határozaton, illetve fizetési meghagyáson alapszik. A visszafizetésre kötelező, véglegessé vált határozatokon, illetve megtérítésre kötelező, véglegessé vált fizetési meghagyásokon alapuló követelések nyilvántartásával, végrehajtásával és elszámolásával kapcsolatos feladatokat a Központ látja el, és a Központ rendeli el a végrehajtást.
-
-## (11) Az Ebtv. 72. §-a szerinti tartozás mérséklésére, elengedésére vagy részletfizetés engedélyezésére irányuló eljárás tartamára a végrehajtást fel kell függeszteni.”
