@@ -294,6 +294,6 @@
 
 | 7 | Z07 | Természetes személyek anonimizált jövedelmi és munkatörténet adatai | Országos Nyugdíjbiztosítási Főigazgatóság (a továbbiakban: ONYF) | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint |
 
-2. melléklet a 27/2017. (XI. 21.) MNB rendelethez[^2]
+2. melléklet a 27/2017. (XI. 21.) MNB rendelethez[^3]
 
-[^2]: A 2. melléklet az „A BÉT hivatalos részvényindexének napi adatai, továbbá a BÉT-en forgalmazott részvények napi kereskedési adatai” (MNB azonosító kód: T02) megnevezésű és az „Állampapír árfolyamok” (MNB azonosító kód: T10) megnevezésű adatszolgáltatáshoz kapcsolódó táblák és kitöltési előírások a 2. § (2) bekezdése alapján 2018. március 1-jén lépnek hatályba. A 2. melléklet „Negyedéves jelentés a jelzáloghitel-finanszírozás megfelelési mutatóról” (MNB azonosító kód: L72) megnevezésű adatszolgáltatáshoz kapcsolódó táblák és kitöltési előírások a 2. § (3) bekezdése alapján 2018. október 1-jén lépnek hatályba.
+[^3]: A 2. melléklet az „A BÉT hivatalos részvényindexének napi adatai, továbbá a BÉT-en forgalmazott részvények napi kereskedési adatai” (MNB azonosító kód: T02) megnevezésű és az „Állampapír árfolyamok” (MNB azonosító kód: T10) megnevezésű adatszolgáltatáshoz kapcsolódó táblák és kitöltési előírások a 2. § (2) bekezdése alapján 2018. március 1-jén lépnek hatályba. A 2. melléklet „Negyedéves jelentés a jelzáloghitel-finanszírozás megfelelési mutatóról” (MNB azonosító kód: L72) megnevezésű adatszolgáltatáshoz kapcsolódó táblák és kitöltési előírások a 2. § (3) bekezdése alapján 2018. október 1-jén lépnek hatályba.
