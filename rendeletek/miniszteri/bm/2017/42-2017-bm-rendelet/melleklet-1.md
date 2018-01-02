@@ -1,3 +1,3 @@
-1. melléklet a 42/2017. (XII. 29.) BM rendelethez
+1–5. melléklet a 42/2017. (XII. 29.) BM rendelethez[^12]
 
-„1. melléklet a 10/1997. (VII. 17.) KHVM rendelethez
+[^12]: Az 1–5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
