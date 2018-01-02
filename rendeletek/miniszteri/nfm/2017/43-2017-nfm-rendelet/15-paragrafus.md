@@ -1,3 +1,3 @@
-## 14. § A 62/2016. (XII. 28.) NFM rendelet 8. §-a a következő (9) bekezdéssel egészül ki:
+## 13–14. §[^5]
 
-## „(9) A pályázatokat a kiírási dokumentációban foglalt módon kell a Hivatalnál előterjeszteni.”
+[^5]: A 13–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
