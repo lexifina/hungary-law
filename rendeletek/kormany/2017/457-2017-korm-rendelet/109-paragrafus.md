@@ -1,1 +1,0 @@
-## 108. § A családi gazdaságok létrehozásáról, nyilvántartásba vételéről, működtetéséről, valamint kiemelt támogatásukról szóló 326/2001. (XII. 30.) Korm. rendelet [a továbbiakban: 326/2001. (XII. 30.) Korm. rendelet] 1. számú melléklete helyébe a 8. melléklet lép.

@@ -1,9 +1,3 @@
-## „(7) Az (5) bekezdés szerinti méltányossági kérelemre induló eljárásban a közreműködő hatóság
+## 65. §[^33]
 
-## a) megvizsgálja a méltányossági kérelmet,
-
-## b) visszautasítja a méltányossági kérelmet, ha ennek feltételei fennállnak,
-
-## c) hiánypótlást bocsáthat ki,
-
-## d) – ha visszautasításnak vagy az eljárás megszüntetésének nincs helye – a méltányossági kérelmet az elbíráláshoz szükséges adatok, igazolások beérkezését követően haladéktalanul továbbítja a Központhoz döntésre.”
+[^33]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

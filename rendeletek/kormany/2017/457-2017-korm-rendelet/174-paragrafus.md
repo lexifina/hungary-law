@@ -1,1 +1,0 @@
-## 173. § A 95/2006. (IV. 18.) Korm. rendelet 3. § (3) bekezdésében, 13. § (1) bekezdésében és 6. melléklet 1.3. pontjában a „szakhatóság” szövegrész helyébe a „szakhatóságként közreműködő” szöveg lép.

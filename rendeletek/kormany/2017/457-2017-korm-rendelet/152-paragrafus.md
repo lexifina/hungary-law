@@ -1,3 +1,5 @@
-## 151. § Hatályát veszti a 210/2005. (X. 5.) Korm. rendelet 1. melléklet 2.1.4., 2.1.6. és 2.2.1. pontja.
+## 149–151. §[^76]
 
 ## 72. Az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet módosítása
+
+[^76]: A 149–151. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
