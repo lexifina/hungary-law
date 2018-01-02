@@ -1,1 +1,0 @@
-## „34. § A 2. § i) pontja az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló irányelvnek való megfelelést szolgálja.”
