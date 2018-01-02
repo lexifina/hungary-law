@@ -1,9 +1,5 @@
-## 101. § Hatályát veszti az „Itthon vagy – Magyarország, szeretlek” programsorozat támogatása felhasználásának részletes szabályairól szóló 44/2014. (IX. 5.) BM rendelet.
+## 101. §[^101]
 
 ## 102. Az Országos Tűzvédelmi Szabályzatról szóló 54/2014. (XII. 5.) BM rendelet módosítása
 
-## 102. § Hatályát veszti az Országos Tűzvédelmi Szabályzatról szóló 54/2014. (XII. 5.) BM rendelet
-
-a) 3. §-a,
-
-b) 286. § (2) bekezdése.
+[^101]: A 101. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

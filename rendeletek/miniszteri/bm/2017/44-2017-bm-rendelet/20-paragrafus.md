@@ -1,3 +1,5 @@
-## 19. § Hatályát veszti a többcélú kistérségi társulások által ellátott egyes közszolgáltatások 2005. évi normatív működési támogatásáról szóló 17/2005. (IV. 5.) BM–PM együttes rendelet.
+## 19. §[^20]
 
 ## 20. A könyvvizsgálatra kötelezett helyi önkormányzatok feladataihoz kapcsolódó költségvetési támogatás igényléséről szóló 21/2005. (IV. 15.) BM rendelet hatályon kívül helyezése
+
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
