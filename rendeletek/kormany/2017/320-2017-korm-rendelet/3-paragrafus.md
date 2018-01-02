@@ -1,3 +1,0 @@
-## 2. § A 256/2013. (VII. 5.) Korm. rendelet 2. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) A szakorvosképzésért felelős egészségügyi államigazgatási szerv által foglalkoztatott rezidens esetében a 4. melléklet szerinti havi alapbér (garantált illetmény) Kjt. szerinti garantált illetményen felüli része az egészségügyi szolgáltató részére kerül biztosításra. Az egészségügyi szolgáltató ennek felhasználásával – az Eütev. 11/B. § (3) bekezdése szerinti munkáltatói minőségére figyelemmel – köteles a rezidens részére az Eütev. 11/A. § (4) bekezdésében, valamint a 4. mellékletben meghatározott bért (illetményt) biztosítani.”
