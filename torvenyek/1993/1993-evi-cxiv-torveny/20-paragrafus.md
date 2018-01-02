@@ -20,6 +20,10 @@ f) a törzskönyvet vagy tenyésztési főkönyvet a tenyésztési program elő�
 
 (2b) A miniszter a tenyésztőszervezeti elismerés iránti kérelmet elutasíthatja, ha a kérelemben foglalt, fenntartani kívánt fajta tenyésztésének engedélyezése egy már elismert vagy ideiglenes elismert tenyésztő szervezet által fenntartott fajta fenntartását súlyosan veszélyezteti.
 
-(3) A tenyésztő szervezet elismerésére irányuló eljárás során az ügyintézési határidő 4 hónap.
+(3) Az elismerési eljárásban
+
+a) a kapcsolattartás írásban történik, valamint
+
+b) az ügyintézési határidő 150 nap.
 
 (5) A tenyésztőszervezeti elismerésre irányuló eljárás tekintetében a fajtaelismerési eljárás megelőző eljárásnak minősül.
