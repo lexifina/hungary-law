@@ -14,4 +14,4 @@ vettek át, illetve gyűjtöttek össze.
 
 (2) Az elektromos és elektronikus berendezések hulladékairól szóló, 2012. július 4-i 2012/19/EU európai parlamenti és tanácsi irányelv 16. cikk (5) bekezdésében meghatározott jelentéstételi kötelezettség végrehajtásáról – a 2004/249/EK bizottsági határozat, valamint a 2005/369/EK bizottsági határozat alapján – a környezetvédelemért felelős miniszter gondoskodik.
 
-[^74]: A 27/A. § az 525/2017. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^74]: A 29/A. § az 525/2017. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
