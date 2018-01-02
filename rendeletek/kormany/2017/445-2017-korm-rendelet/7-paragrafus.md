@@ -1,1 +1,0 @@
-## „(8) A pénzügyi műveletek realizált veszteségeként kell kimutatni az értékpapírok – kivéve az MNB részesedések – értékesítésének árfolyamveszteségét, valamint a Tv. szerint a pénzügyi műveletek ráfordításaiba tartozó, az (1)–(7) bekezdésbe nem sorolt és az eredménykimutatásban külön tételként fel nem tüntetett ráfordításokat.”

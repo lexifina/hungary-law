@@ -1,1 +1,0 @@
-## „(3b) A kreditpont-minősítési eljárás során államháztartási szakterületre csak a nyilvántartásba vételt végző szervezet által az egységes Kormányzati Portálon közzétett egységes tematikájú továbbképzési program minősíthető.”

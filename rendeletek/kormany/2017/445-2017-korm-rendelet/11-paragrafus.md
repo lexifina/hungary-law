@@ -1,3 +1,5 @@
-## 10. § Hatályát veszti az Mnbkr. 14. § (12) bekezdésében az „a Tv. 14. § (9) bekezdésében foglaltakat nem alkalmazza, továbbá” szövegrész.
+## 4–10. §[^4]
 
 ## 4. Az önkéntes nyugdíjpénztárak beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 223/2000. (XII. 19.) Korm. rendelet módosítása
+
+[^4]: A 4–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
