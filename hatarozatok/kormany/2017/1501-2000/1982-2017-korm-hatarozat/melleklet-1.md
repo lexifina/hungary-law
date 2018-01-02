@@ -44,14 +44,15 @@
 
 ## 3–7.[^2]
 
-## 8. Hatályát veszti a Göd város infrastrukturális fejlesztéséről szóló 1555/2016. (X. 13.) Korm. határozat 1–4. pontja.
+## 8.[^3]
 
 ## 9. Ez a határozat – a 10. pontban meghatározott kivétellel – a közzétételét követő napon lép hatályba.
 
 ## 10. A határozat 8. pontja 2018. január 1-jén lép hatályba.
 
-1–3. melléklet az 1982/2017. (XII. 19.) Korm. határozathoz[^3]
+1–3. melléklet az 1982/2017. (XII. 19.) Korm. határozathoz[^4]
 
 [^1]: Az 1. b) pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 3–7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
