@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-359-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-01-01 | 2017-359-20-22.1 | 359/2017. (XI. 30.) Korm. rendelet |
+| 2018-01-02 | 2017-359-20-22.2 | 300/2019. (XII. 11.) Korm. rendelet |
