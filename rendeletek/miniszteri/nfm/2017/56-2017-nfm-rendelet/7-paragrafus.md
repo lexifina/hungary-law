@@ -1,11 +1,12 @@
-## „(5) Az eljárási díj mértékét az 1. mellékletben foglaltak szerint kell megállapítani.”
+## 1–6. §[^1]
 
-7. § (1) Az R. 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+7. § (1)[^2]
 
-## „(1) A megengedett legnagyobb össztömeget, a megengedett legnagyobb tengelyterhelést, illetve tengelycsoport-terhelést meghaladó járművek közlekedése után túlsúlydíjat kell fizetni.”
+(2)[^3]
 
-(2)[^1]
+(3)[^4]
 
-(3) Az R. 10. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-[^1]: A 7. § (2) bekezdése a 22. § (3) bekezdése alapján 2018. június 1-jén lép hatályba.
+[^1]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 7. § (2) bekezdése a 22. § (3) bekezdése alapján 2018. június 1-jén lép hatályba.
+[^4]: A 7. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

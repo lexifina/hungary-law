@@ -1,1 +1,0 @@
-## „(5) Nem kell eljárási díjat, túlsúlydíjat fizetni a Honvédség által üzemben tartott, továbbá a Honvédség érdekében más által üzemben tartott, illetve külföldi fegyveres erők által üzemben tartott járművek után, ha a túlsúlyos, illetve túlméretes jármű közlekedését megelőzően a jármű adatait az MK NZrt. által működtetett rendszeren keresztül a Honvédség rögzítette.”
