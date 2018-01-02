@@ -1,4 +1,4 @@
-## 7. § Hatályát veszti a vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló 18/1996. (VI. 13.) KHVM rendelet.
+## 7. §[^1]
 
 1. melléklet a 41/2017. (XII. 29.) BM rendelethez
 
@@ -81,3 +81,5 @@ da) a rendezés alapjául szolgáló fajlagos vízszállítási értékek, befog
 db) a vízrendezéssel érintett terület helyszínrajza.
 
 2.4. A környezeti hatások jelentősége vizsgálatának eredménye.
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
