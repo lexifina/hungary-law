@@ -1,4 +1,4 @@
-## 7. § Hatályát veszti a 3. § (2) bekezdése.
+## 7. §[^2]
 
 1. melléklet a 372/2017. (XII. 8.) Korm. rendelethez
 
@@ -47,3 +47,5 @@
 21. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához és használatbavételéhez szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
