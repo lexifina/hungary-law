@@ -1,1 +1,0 @@
-4. § Hatályát veszti a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 3. § (4) bekezdésében a „, feltéve, hogy rendelkezik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel” szövegrész.
