@@ -1,3 +1,3 @@
 ## 20. Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény módosítása
 
-67. § Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 5. § (2) bekezdés c) pontjában a „(Btk. 314–316. §)” szövegrész helyébe a „(Btk. 314–316/A. §)” szöveg, a „terrorizmus finanszírozása (Btk. 318. §)” szövegrész helyébe a „terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §)” szöveg lép.
+### 67. §
