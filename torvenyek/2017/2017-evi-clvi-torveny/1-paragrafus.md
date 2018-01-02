@@ -1,5 +1,3 @@
 ## 1. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-1. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 29. §-a helyébe a következő rendelkezés lép:
-
-„29. § Az összevont adóalap az adóévben adókötelezettség alá eső valamennyi önálló, nem önálló tevékenységből származó, valamint egyéb bevételből megállapított jövedelem, továbbá átalányadózás esetén az egyéni vállalkozói, a mezőgazdasági kistermelői bevételből az átalányban megállapított jövedelem. Ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó, a 19,5 százalékos mértékű egészségügyi hozzájárulás megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették), a megállapított jövedelem 84 százalékát kell jövedelemként figyelembe venni.”
+### 1. §
