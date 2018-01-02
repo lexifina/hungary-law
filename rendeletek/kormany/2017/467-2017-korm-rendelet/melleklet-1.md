@@ -1,12 +1,4 @@
-## 16. § A központosított informatikai és elektronikus hírközlési szolgáltató információbiztonsággal kapcsolatos feladatköréről szóló 186/2015. (VII. 13.) Korm. rendelet 2. alcíme a következő 2/A. §-sal egészül ki:
-
-## „2/A. § A központi szolgáltató köteles a Kormányzati Adatközpont révén nyújtott szolgáltatásai körében az azt igénylő ügyfelei számára biztosítani a korai figyelmeztető rendszerhez való kapcsolódást az ahhoz szükséges, a következő műszaki feltételek megteremtésével és fenntartásával:
-
-## a) a hálózati forgalom másolatának átadása,
-
-## b) az internet felé menő, illetve onnan érkező hálózati forgalom SSL/TLS csatornáinak szelektív feloldása az ügyfél által meghatározott házirend szerint az SSL/TLS csatornák terminálásával vagy SSL/TLS átjáró megvalósításával,
-
-## c) a korai figyelmeztető rendszer fenntartójával az ügyfelek kapcsolódásának kialakítása, változás- és eseménykezelése terén.”
+## 15–16. §[^1]
 
 1. melléklet a 467/2017. (XII. 28.) Korm. rendelethez
 
@@ -191,3 +183,5 @@ Az állam működése szempontjából létfontosságú adatvagyon védelme, ezek
 A katasztrófatűrő, nagy megbízhatóságú működési szempontok és az adatok biztonságos archiválásának, valamint mentésének megvalósításához a geo-redundancia elvei figyelembevételével elkülönített, megfelelő védettségű redundáns helyszínen kerülnek elhelyezésre. A feladata a hosszú távú archiválási feladatok ellátása. Az itt kialakított kapacitások legfontosabb célja a biztonsági mentési kapacitások és hosszú idejű archiválási kapacitások biztosítása.
 
 Adatmegőrzési szolgáltatáskeretében kezelt adatokkal kapcsolatban a szakrendszerek végponti felhasználói számára közvetlen adatkiszolgálás nincs, ez a terület a külvilágtól (a kormányzati, vagy a közcélú adatátviteli hálózatoktól) hermetikusan el lesz választva.
+
+[^1]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

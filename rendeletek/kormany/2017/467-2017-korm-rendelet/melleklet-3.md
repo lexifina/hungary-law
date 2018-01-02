@@ -74,10 +74,6 @@
 
 | 35 | KÖFOP- 1.0.0- VEKOP- 15- 2015- 00005 | NISZ Zrt. | Közigazgatás informatikai infrastruktúrájának konszolidálása a költségek csökkentése érdekében |
 
-3. melléklet a 467/2017. (XII. 28.) Korm. rendelethez
+3. melléklet a 467/2017. (XII. 28.) Korm. rendelethez[^2]
 
-1. A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló 38/2011. (III. 22.) Korm. rendelet Melléklet A:24 mezője helyébe a következő mező lép:
-
-|  |  | (A) |
-
-|  | (24.) | „A Magyar Államkincstár mezőgazdasági és vidékfejlesztési támogatási feladataihoz kapcsolódó nyilvántartási rendszerek” |
+[^2]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
