@@ -1,6 +1,6 @@
 ## 7. § Ez a rendelet a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló, 2003. január 27-i 2003/8/EK tanácsi irányelvnek való megfelelést szolgálja.
 
-8. § Hatályát veszti a fizetési meghagyásos eljárás során érvényesülő költségkedvezmény előfeltételeiről, engedélyezéséről, megvonásáról és a költségek előlegezéséről, továbbá az előlegezett, valamint a nem előlegezett költségek megfizetéséről és behajtásáról, a költségkedvezmény engedélyezésének alapjául szolgáló körülmények igazolásáról szóló 24/2010. (V. 7.) IRM rendelet.
+8. §[^1]
 
 Melléklet a 27/2017. (XII. 27.) IM rendelethez
 
@@ -139,3 +139,5 @@ A díjfeljegyzési jog engedélyezése alapjául szolgáló körülmények igazo
 11. Közlemény
 
 12. Tájékoztató
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
