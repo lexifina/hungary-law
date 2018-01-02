@@ -1,3 +1,0 @@
-## 10. § Az Szmvhr. 45. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az eljáró idegenrendészeti hatóságnak az EGT-állampolgár vagy a családtag visszairányítására vonatkozó hatósági intézkedés, az idegenrendészeti kiutasítás elrendelése és végrehajtása, illetve a bírósági határozattal elrendelt kiutasítás végrehajtása előtt vizsgálnia kell a Tv. 34. § (1) bekezdésében foglalt tilalom fennállását. Ennek során az eljáró idegenrendészeti hatóság a menekültügyi hatóságtól véleményt kér, amely a megkeresést soron kívül teljesíti. A menekültügyi hatóság véleményétől az idegenrendészeti hatóság nem térhet el.”

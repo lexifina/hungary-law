@@ -1,1 +1,0 @@
-## „(3a) Ha az eljárás lefolytatását nem akadályozza, az elismerését kérő nyilvántartott nemétől eltérő nemi identitására hivatkozva kérheti, hogy az eljárás során az általa megjelölt nemű ügyintéző és tolmács működjön közre.”

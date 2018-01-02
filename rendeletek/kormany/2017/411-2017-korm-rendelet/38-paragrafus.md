@@ -1,1 +1,0 @@
-## „(3) A kérelmező kutatószervezetnek kötelezettséget kell vállalnia arra, hogy a kutatónak az engedélyezett tartózkodás időtartamát meghaladó tartózkodása esetén – ha a kutató a szükséges anyagi fedezettel nem rendelkezik – megtéríti a kiutasításával kapcsolatban felmerült költségeket.”

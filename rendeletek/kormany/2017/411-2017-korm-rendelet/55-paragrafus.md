@@ -1,5 +1,0 @@
-## 54. § A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet [a továbbiakban: 445/2013. (XI. 28.) Korm. rendelet] 9. § (1) bekezdés 11. pontja helyébe a következő rendelkezés lép:
-
-## [A munkavállalási engedélyt a 3. § (2)–(7) bekezdésében, valamint az 5. § (1) bekezdés a) és e) pontjában meghatározott szempontok vizsgálata nélkül kell kiadni:]
-
-## „11. annak a befogadottnak a befogadó állomáson kívüli munkavégzéséhez, akinek a magyarországi foglalkoztatását a menekültügyi hatóság humanitárius szempontból támogatja,”
