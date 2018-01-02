@@ -1,3 +1,0 @@
-## 2. § Az Stt. Vhr. 18. §-a helyébe a következő rendelkezés lép:
-
-## „18. § Ha a KSH adatfelvétele esetében az adatszolgáltató vagy – adatátvétel esetén – az adminisztratív adatok kezelője az adatok benyújtására vagy – adatátvétel esetén – az adatok továbbítására maga helyett mást bíz meg (adatbenyújtó), az erre vonatkozó meghatalmazást a KSH részére az első adatszolgáltatást vagy – adatátvétel esetén – adatátadást megelőzően köteles megküldeni. A meghatalmazott eljárását úgy kell tekinteni, mintha az adatszolgáltató vagy – adatátvétel esetén – az adminisztratív adatok kezelője járt volna el.”
