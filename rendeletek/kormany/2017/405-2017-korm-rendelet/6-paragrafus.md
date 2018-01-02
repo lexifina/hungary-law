@@ -1,3 +1,0 @@
-## 5. § A Cstvhr. 9. §-a a következő (1f) bekezdéssel egészül ki:
-
-## „(1f) Ha a tartósan beteg, illetve súlyosan fogyatékos gyermek után folyósított magasabb összegű családi pótlék alapjául szolgáló orvosi igazolás érvényessége lejár, és a jogosult az orvosi igazolás érvényességének lejárta előtt tájékoztatja az igényelbíráló szervet arról, hogy az újabb orvosi igazolás kiadásához szükséges orvosi vizsgálaton a gyermek – az egészségügyi szerv által igazoltan – egy későbbi, meghatározott időpontban tud megjelenni, a magasabb összegű családi pótlékra való jogosultságot a korábbi igazolás lejártát követő hónaptól kell felülvizsgálni.”

@@ -1,1 +1,0 @@
-## „(5a) Az anyasági támogatással kapcsolatos ügyekben az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus úton benyújtott kérelem esetén az igényelbíráló szerv az eljárást automatikus döntéshozatal útján folytatja le.”
