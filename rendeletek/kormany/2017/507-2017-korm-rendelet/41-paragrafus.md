@@ -1,3 +1,3 @@
-## 40. § A biocid termékek engedélyezésének és forgalomba hozatalának egyes szabályairól szóló 316/2013. (VIII. 28.) Korm. rendelet (a továbbiakban: 316/2013. Korm. rendelet) 1. alcíme a következő 1/B. §-sal egészül ki:
+## 40. §[^11]
 
-## „1/B. § Az 528/2012/EU európai parlamenti és tanácsi rendelet V. mellékletében meghatározott 14. terméktípusba (rágcsálóirtó szerek), 18. terméktípusba (rovarölő és atkaölő szerek, valamint más ízeltlábúak elleni védekezésre használt szerek) és 19. terméktípusba (riasztó- és csalogatószerek) tartozó biocid termék csak az 1/A. § b) vagy d) pontja szerinti felhasználói kategóriába sorolható be.”
+[^11]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,0 @@
-## 11. § A 217/1997. Korm. rendelet 38. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) Ha a biztosított a keresőképtelenség, a csecsemőgondozási díj, a gyermekgondozási díj igénybevétele vagy a szülés napját megelőző két éven belül más foglalkoztatónál vagy foglalkoztatóknál biztosítási jogviszonyban állt, az „Igénybejelentés táppénz, csecsemőgondozási díj, gyermekgondozási díj, baleseti táppénz igényléséhez” elnevezésű nyomtatvány kiállítására kötelezett ezen nyomtatvánnyal, a foglalkoztató a „Foglalkoztatói igazolással” együtt köteles benyújtani a 37. § szerint kiállított Igazolványt.”

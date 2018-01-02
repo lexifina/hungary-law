@@ -1,5 +1,7 @@
-## 37. § A 39/2013. Korm. rendelet 6/A. § (3) bekezdésében, 6/D. § (2) bekezdés a) pontjában és 12. § (4) bekezdésében a „06 40 200 493” szövegrész helyébe a „06 80 200 493” szöveg lép.
+## 35–37. §[^9]
 
 ## 10. Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló
 
 ## 256/2013. (VII. 5.) Korm. rendelet módosítása
+
+[^9]: A 35–37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

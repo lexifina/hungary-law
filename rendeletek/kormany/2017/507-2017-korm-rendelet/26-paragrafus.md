@@ -1,5 +1,7 @@
-## 25. § A 134/1999. Korm. rendelet 6/C. § (1) bekezdés b) pontjában a „7,2 millió” szövegrész helyébe a „8 millió” szöveg lép.
+## 24–25. §[^5]
 
 ## 6. A kémiai terhelési bírság alkalmazásának részletes szabályairól szóló
 
 ## 224/2008. (IX. 9.) Korm. rendelet módosítása
+
+[^5]: A 24–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

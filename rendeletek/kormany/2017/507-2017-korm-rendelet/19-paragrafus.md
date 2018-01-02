@@ -1,3 +1,5 @@
-## „(6) Az állami és önkormányzati tulajdonban lévő egészségügyi szolgáltató hatáskörében megállapítható térítési díjak megállapításának, nyilvánosságra hozatalának és befizetésének rendjét, valamint a szolgáltató által megállapított térítési díj mérséklésére, illetve elengedésére vonatkozó rendelkezéseket a szolgáltató – a fenntartó által jóváhagyott – szabályzatban állapítja meg. Egyéb egészségügyi szolgáltató esetén a térítési díj befizetésének rendjét a szolgáltató határozza meg.”
+## 18. §[^3]
 
 ## 4. Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosítása
+
+[^3]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,0 @@
-## 7. § A 217/1997. Korm. rendelet 26. §-a helyébe a következő rendelkezés lép:
-
-## „26. § Ha az Ebtv. 40. § (1) bekezdése alapján a csecsemőgondozási díj, illetve az Ebtv. 42/A. § (1) bekezdése alapján a gyermekgondozási díj a Tbj. 5. § (1) bekezdés d) pontjában meghatározott biztosított részére kerül megállapításra, a csecsemőgondozási díj és a gyermekgondozási díj összegét a jogosultság kezdő napján érvényes minimálbér alapján kell megállapítani, azonban a pénzbeli ellátás naptári napi alapja nem haladhatja meg az álláskeresési támogatás vagy vállalkozói járadék alapját képező összeg harmincad részét.”
