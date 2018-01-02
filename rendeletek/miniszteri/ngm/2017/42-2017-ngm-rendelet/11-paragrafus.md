@@ -1,1 +1,3 @@
-## 10. § Az 5. § (3) bekezdés b) pontjában a „jogerőre emelkedésétől” szövegrész helyébe a „véglegessé válásától” szöveg lép.
+## 10. §[^2]
+
+[^2]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
