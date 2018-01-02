@@ -1,4 +1,4 @@
-## 16. § Hatályát veszti az R.
+## 16. §[^1]
 
 1. melléklet a 390/2017. (XII. 13.) Korm. rendelethez
 
@@ -123,3 +123,5 @@ Kelt:
 .....................................................
 
 bejelentő aláírása
+
+[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
