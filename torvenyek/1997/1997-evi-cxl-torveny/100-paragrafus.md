@@ -34,7 +34,7 @@ n) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őr
 
 o) a muzeális intézmények működési engedélyének kiadására, módosítására és visszavonására irányuló kérelem (a továbbiakban együtt: kérelem) adattartalmát és a kérelemhez csatolandó mellékletek körét, a kérelem elbírálásának rendjét, a működési engedély tartalmát, a működési engedély visszavonása esetén követendő eljárást, továbbá a muzeális intézmény elnevezésével kapcsolatos kérdéseket,
 
-p) a tanfolyam jellegű szakmai továbbképzések akkreditálásának feltételeit és eljárási szabályait,
+p) a tanfolyam jellegű szakmai továbbképzések nyilvántartásba vételének feltételeit és eljárási szabályait,
 
 q) az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
@@ -42,7 +42,7 @@ r) a muzeális intézmény alapleltárában szereplő, állami tulajdonban lév�
 
 s) a hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állami feladatokat ellátó szerv kijelölését, feladatai ellátásának részletes szabályait,
 
-t) a népművészeti és népi iparművészeti alkotások minősítésére, minősítő címek adományozására irányuló eljárás rendjét, a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, valamint az igazolvány kiállítására vonatkozó szabályokat és a minősítés alapjául szolgáló foglalkozási ágakat.
+t) a népművészeti és népi iparművészeti alkotások minősítési feltételeit, a minősítő címek körét, továbbá a népművészeti és népi iparművészeti alkotások minősítésére, minősítő címek adományozására irányuló eljárás rendjét, a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, valamint az igazolvány kiállítására vonatkozó szabályokat és a minősítés alapjául szolgáló foglalkozási ágakat.
 
 (2)
 

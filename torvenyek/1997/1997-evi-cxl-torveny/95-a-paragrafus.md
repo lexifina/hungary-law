@@ -18,7 +18,7 @@ c) nyilvántartásba vétel időpontja.
 
 a) végzettséget, szakképzettséget igazoló okirat,
 
-b) akkreditált szakértői tanfolyam jellegű szakmai továbbképzés elvégzéséről szóló tanúsítvány, valamint
+b) kultúráért felelős miniszter által nyilvántartásba vett szakmai továbbképzési program elvégzéséről szóló tanúsítvány, valamint
 
 c) a szakmai gyakorlatot igazoló irat
 

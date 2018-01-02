@@ -6,9 +6,9 @@ b) a munkakör betöltéséhez jogszabályban meghatározott végzettséggel és
 
 (2)–(3)
 
-(4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben és szervezett képzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek és szervezett képzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben és szervezett képzésben való részvételéhez támogatás nyújtható.
+(4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben való részvételéhez támogatás nyújtható.
 
-(4a) A miniszter a (4) bekezdés szerinti szakmai továbbképzésekről és szervezett képzésekről hatósági nyilvántartást vezet, mely az alábbi adatok tekintetében közhitelesnek minősül:
+(4a) A miniszter a (4) bekezdés szerinti szakmai továbbképzésekről hatósági nyilvántartást vezet, mely az alábbi adatok tekintetében közhitelesnek minősül:
 
 a) a szakmai továbbképzési programot készítő intézmény megnevezése, a felnőttképzést folytató intézmények nyilvántartásában szereplő száma,
 
