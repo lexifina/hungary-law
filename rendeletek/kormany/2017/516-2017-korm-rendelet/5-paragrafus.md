@@ -1,3 +1,0 @@
-## 4. § A vasúti társaságok kötelező baleseti kárfedezeti képességének biztosításáról szóló 271/2007. (X. 19.) Korm. rendelet (a továbbiakban: R2.) 6. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Ha a vagyoni biztosíték mértéke a felhasználás következtében a fedezeti összeghatár alá csökkent, a vasúti társaság – amennyiben a vasúti balesettel érintett vasúti közlekedési tevékenységét tovább folytatja – a vagyoni biztosíték legalább a fedezeti összeghatár mértékéig történő emeléséről haladéktalanul, de legkésőbb a csökkenéstől számított harminc napon belül gondoskodik, és ennek megtörténtéről a vasúti igazgatási szervet elektronikus úton haladéktalanul értesíti.”
