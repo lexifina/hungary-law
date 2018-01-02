@@ -1,1 +1,0 @@
-## „(7) Kutatói pótlékra jogosult az a közalkalmazott, aki a foglalkoztató intézmény szakmai területéhez köthető témakörben tudományos fokozattal rendelkezik. A pótlék mértéke a Kjt. szerinti pótlékalap 50%-a.”
