@@ -6,7 +6,7 @@ b) a külön jogszabályban meghatározott harmadik országbeli állampolgárral
 
 c) az Mt. XVI. fejezetében meghatározott munkaerő-kölcsönzés esetén a kölcsönbeadó és a kölcsönbevevő között létrejött jogviszonyra és a kölcsönzött munkavállalónak a kölcsönvevőnél történő munkavégzésére,
 
-d) az iskolaszövetkezet által a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Sztv.) alapján nyújtott külső szolgáltatásra és az iskolaszövetkezeti tagnak a szolgáltatás fogadójánál történő munkavégzésre,
+d) az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet által a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Sztv.) alapján nyújtott külső szolgáltatásra és az iskolaszövetkezeti, illetve közérdekű nyugdíjas szövetkezeti tagnak a szolgáltatás fogadójánál történő munkavégzésre,
 
 e) a külföldön letelepedett és határokon átnyúló szolgáltatásnyújtás céljából munkavállalót Magyarországra küldő munkáltatóra (a továbbiakban: külföldi munkáltató),
 
@@ -22,6 +22,6 @@ b) a Polgári Törvénykönyvben szabályozott közkereseti társaság és beté
 
 c) a Köt.-ben szabályozott önkéntes szerződés alapján végzett közérdekű önkéntes tevékenység,
 
-d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közreműködése, ha a tag a személyes közreműködést vállalkozási vagy megbízási szerződés – ideértve az Sztv. 10/B. § (2) bekezdése szerinti megállapodást is – alapján teljesíti, valamint
+d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közreműködése, ha a tag a személyes közreműködést vállalkozási vagy megbízási szerződés – ideértve az Sztv. 10/B. § (2) bekezdése és 29. § (2) bekezdése szerinti megállapodást is – alapján teljesíti, valamint
 
 e) az önálló kereskedelmi ügynöki szerződés alapján végzett munka.
