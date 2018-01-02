@@ -4,4 +4,4 @@
 
 ## 29. A szabályozott ingatlanbefektetési társaságokról szóló 2011. évi CII. törvény módosítása
 
-220–227. §
+### 220. §
