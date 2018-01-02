@@ -1,1 +1,0 @@
-## 15. § A hites bányamérőről szóló 12/2010. (III. 4.) KHEM rendelet (a továbbiakban: 12/2010. KHEM rendelet) 7. § (2) bekezdés a) pontjában a „bíróság vagy a bányafelügyelet jogerősen” szövegrész helyébe a „bíróság jogerősen vagy a bányafelügyelet végleges döntéssel” szöveg lép.
