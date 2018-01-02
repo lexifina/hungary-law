@@ -44,12 +44,8 @@ határozza meg.
 
 3. A Kormány egyetért azzal, hogy 2018. évi járási startmunka mintaprogramokat a mezőgazdasági munkákhoz, a vegetációs időszakhoz igazítva március hónapban el kell indítani, és a folyamatos működtetést a közfoglalkoztatói igényeknek megfelelően, de legfeljebb 12 hónapon keresztül biztosítani kell.
 
-4. Hatályát veszti az egyes munkaerőpiaci intézkedésekről szóló 1139/2017. (III. 20.) Korm. határozat
-
-a) 1. pont e) alpontja;
-
-b) 16. pontja;
-
-c) 17. pontja.
+4.[^1]
 
 5. Ez a határozat 2018. január 1-jén lép hatályba.
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) pontja alapján hatályát vesztette.
