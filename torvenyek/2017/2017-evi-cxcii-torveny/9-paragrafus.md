@@ -1,3 +1,0 @@
-9. § Az Szt. 4/C. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az állami szakképzési és felnőttképzési szerv a szakképzési centrum feletti fenntartói jog gyakorlásában az állami szakképzési és felnőttképzési szerv kijelöléséről szóló kormányrendeletben foglaltak szerint vesz részt. Az állami szakképzési és felnőttképzési szerv vezetőjét az e bekezdés szerinti feladatellátás keretében a szakképzési centrum közalkalmazotti jogviszonyban teljes munkaidőben foglalkoztatott oktatóival szemben a közalkalmazottak jogállásáról szóló törvény 30/A. § szerinti munkakör-felajánlási kötelezettség abban az esetben is terheli, ha az oktató munkáltatójánál megszűnnek az oktató teljes munkaidős foglalkoztatásának feltételei.”
