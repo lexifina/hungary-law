@@ -1,3 +1,5 @@
-## lép.
+## 3–5. §[^2]
 
 ## 3. A bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés szabályairól szóló 20/2009. (VI. 19.) IRM rendelet módosítása
+
+[^2]: A 3–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

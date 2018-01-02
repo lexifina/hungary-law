@@ -1,3 +1,0 @@
-## 27. § A 11/2014. (XII. 13.) IM rendelet 51. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Az elzárást kiszabó jogerős ítéletről az értesítőlapot akkor is ki kell állítani, ha a Btk. 92–92/B. §-a szerinti beszámítás alapján a bíróság az elzárást teljes egészében kitöltöttnek vette. Ebben az esetben a tanács elnöke az értesítőlapon bírói rendelvényt nem ad ki. Az értesítőlapon feltünteti, hogy az elítéltet a Btk. 92–92/B. §-a szerinti beszámítást megalapozó kényszerintézkedésből, szabálysértési elzárásból, szabadságvesztésből, elzárásból, javítóintézeti nevelésből honnan szabadították.”

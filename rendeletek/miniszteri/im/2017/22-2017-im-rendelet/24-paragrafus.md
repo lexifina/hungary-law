@@ -1,5 +1,0 @@
-## 23. § A 11/2014. (XII. 13.) IM rendelet 9. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(3) Ha az elítélt szabadlábon van, és a Btk. 92–92/B. §-a szerinti beszámítás alapján feltételes szabadságra bocsátható, a tanács elnöke ezt a körülményt az értesítőlap „Megjegyzés” rovatában feltünteti. Megjelöli azt is, hogy az elítéltet a Btk. 92–92/B. §-a szerinti beszámítást megalapozó kényszerintézkedésből, szabálysértési elzárásból, szabadságvesztésből, elzárásból, javítóintézeti nevelésből honnan szabadították. Ebben az esetben a tanács elnöke az értesítőlapon bírói rendelvényt nem ad ki.
-
-## (4) A szabadságvesztést kiszabó jogerős ítéletről az értesítőlapot akkor is ki kell állítani, ha a Btk. 92–92/B. §-a szerinti beszámítás alapján a bíróság a szabadságvesztést teljes egészében kitöltöttnek vette. Ebben az esetben a tanács elnöke az értesítőlapon bírói rendelvényt nem ad ki. Az értesítőlapon feltünteti, hogy az elítéltet a Btk. 92–92/B. §-a szerinti beszámítást megalapozó kényszerintézkedésből, szabálysértési elzárásból, szabadságvesztésből, elzárásból, javítóintézeti nevelésből honnan szabadították.”

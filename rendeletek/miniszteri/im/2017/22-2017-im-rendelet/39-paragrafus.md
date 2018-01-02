@@ -1,3 +1,5 @@
-## 38. § A 13/2014. (XII. 16.) IM rendelet a 12. melléklet szerinti 1. melléklettel egészül ki.
+## 37–38. §[^8]
 
 ## 9. A szabadságvesztés, az elzárás, az előzetes letartóztatás és a rendbírság helyébe lépő elzárás végrehajtásának részletes szabályairól szóló 16/2014. (XII. 19.) IM rendelet módosítása
+
+[^8]: A 37–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

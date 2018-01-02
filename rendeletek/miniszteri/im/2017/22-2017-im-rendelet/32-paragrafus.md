@@ -1,3 +1,0 @@
-## 31. § A 11/2014. (XII. 13.) IM rendelet 155. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Ha a bíróság az ítélet meghozatala után határoz az előzetes letartóztatás kérdésében, az értesítőlap az (1) bekezdésben felsoroltakon kívül tartalmazza a kiszabott büntetést, az előzetes fogvatartás vagy a házi őrizet beszámítását és a feltételes szabadságra bocsátás lehetőségét. Ha a bíróság az ítélet meghozatala után határoz az előzetes letartóztatás kérdésében, és a megismételt eljárásban kiszabott büntetésbe a Btk. 92/A–92/B. § szerinti beszámításról rendelkezett, azt az értesítőlap megjegyzés rovatában feltünteti.”
