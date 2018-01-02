@@ -1,15 +1,9 @@
-## lép.
+## 1–4. §[^1]
 
-5. § (1) Hatályát veszti a Kjt. vhr.
+5. § (1)[^2]
 
-a) 5. § (3) bekezdésében a „megszerzése” szövegrész,
+(2)[^3]
 
-b) 10. §-át megelőző alcím címe,
-
-c) 17. § (5) bekezdése és
-
-d) 18. § (3) bekezdése.
-
-(2)[^1]
-
-[^1]: Az 5. § (2) bekezdése a 6. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^1]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. § (2) bekezdése a 6. § (2) bekezdése alapján 2021. január 1-jén lép hatályba.
