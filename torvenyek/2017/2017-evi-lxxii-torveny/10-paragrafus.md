@@ -1,3 +1,0 @@
-10. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 50. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Normatív jogcímen jogosult közgyógyellátásra az a személy, akinek esetében a havi rendszeres gyógyító ellátásnak az 50/A. § (4) bekezdése szerint elismert térítési díja (a továbbiakban: rendszeres gyógyító ellátás költsége) az öregségi nyugdíj mindenkori legkisebb összegének a 10%-át meghaladja, feltéve, hogy a családjában az egy főre jutó havi jövedelem nem éri el az öregségi nyugdíj mindenkori legkisebb összegének 105%-át, egyedül élő esetén a 155%-át. A rendszeres gyógyító ellátás költségének számításánál az Eb. 23. § b), d) és e) pontja alapján fizetendő térítési díjat nem kell figyelembe venni.”
