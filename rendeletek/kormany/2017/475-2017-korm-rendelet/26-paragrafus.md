@@ -1,3 +1,0 @@
-## 25. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból, az Európai Halászati Alapból, valamint az Európai Mezőgazdasági Garancia Alapból támogatott programok és intézkedések pénzügyi, számviteli és ellenőrzési rendszerek kialakításáról, lebonyolításának rendjéről szóló 82/2007. (IV. 25.) Korm. 1. § (2) bekezdés c) pont ce) pontjában az „az adózás rendjéről szóló 2003. évi XCII. törvény 161. §-ának (2) bekezdése” szövegrész helyébe az „adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény” szöveg lép.
-
-## 20. A felnőttképzési normatív támogatás részletes szabályairól szóló 123/2007. (V. 31.) Korm. rendelet módosítása

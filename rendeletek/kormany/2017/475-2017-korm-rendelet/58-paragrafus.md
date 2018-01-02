@@ -1,3 +1,0 @@
-## 57. § A közforgalmú gyógyszertári tulajdoni hányadra vonatkozó elővásárlási jog gyakorlásának és az állam tulajdoni hányadának értékesítésére vonatkozó pályázat szabályairól szóló 331/2013. (IX. 5.) Korm. rendelet 9. § (2) bekezdés c) pont cc) alpontjában az „az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 20. pontja” szövegrész helyébe az „az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontja” szöveg lép.
-
-## 42. Az egyházi és nem állami fenntartású szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok állami támogatásáról szóló 489/2013. (XII. 18.) Korm. rendelet módosítása

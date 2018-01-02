@@ -1,3 +1,0 @@
-## 5. § Az R1. a következő 199. §-sal egészül ki:
-
-## „199. § A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló 485/2015. (XII. 29.) Korm. rendelet, valamint az adóigazgatási rendtartásról szóló törvény, az adózás rendjéről szóló törvény és az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény hatálybalépésével összefüggő egyes kormányrendeletek módosításáról szóló 475/2017. (XII. 28.) Korm. rendelettel módosított 73. § (6a) bekezdését a folyamatban lévő ügyekben első alkalommal a 2018. első negyedévet érintő változás-bejelentés kapcsán kell alkalmazni.”

@@ -1,1 +1,0 @@
-## „(6a) A Vámkódex 173. cikk (3) bekezdéshez kapcsolódó vám-árunyilatkozat módosítására az a megyei igazgatóság, illetve a Repülőtéri igazgatóság jogosult, amelyiknél a módosítással érintett vám-árunyilatkozatot az alapeljárás során benyújtották.”

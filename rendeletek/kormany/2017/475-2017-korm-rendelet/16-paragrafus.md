@@ -1,1 +1,0 @@
-## 15. § Az R3. 11/A. § (2) bekezdés a) pontjában és a 2. melléklet 2. pont i) alpontjában az „az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontja” szövegrész helyébe az „az adózás rendjéről szóló törvény” szöveg lép.
