@@ -1,9 +1,0 @@
-## 6. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 152. §-a helyébe a következő rendelkezés lép:
-
-## „152. § (1) A fejezetet irányító szerv a fejezetbe sorolt költségvetési szervek és fejezeti kezelésű előirányzatok kötelezettségvállalással terhelt, azonban a költségvetési évet követő év június 30-áig pénzügyileg nem teljesült költségvetési maradványáról a költségvetési évet követő év augusztus 15-éig elszámolást készít az államháztartásért felelős miniszternek. Az elszámolásban be kell mutatni a meghiúsult kötelezettségvállalások miatt kötelezettségvállalással nem terhelt, valamint a kifizetések elhúzódása miatt továbbra is kötelezettségvállalással terhelt költségvetési maradvány összegét.
-
-## (2) A meghiúsult kötelezettségvállalás miatt kötelezettségvállalással nem terhelt költségvetési maradványt az (1) bekezdés szerinti elszámolás elküldését követő tíz munkanapon belül a Központi Maradványelszámolási Alap előirányzat javára be kell fizetni. A befizetési kötelezettség elmaradása esetén a Kincstár jogosult a költségvetési szerv, fejezeti kezelésű előirányzat fizetési számláját a be nem fizetett összeggel megterhelni.
-
-## (3) A kifizetések elhúzódása miatt továbbra is kötelezettségvállalással terhelt költségvetési maradvány elvonásáról vagy felhasználásának további engedélyezéséről – a (4) bekezdésben megállapított kivétellel – a Kormány dönt. Az elvont költségvetési maradványra a (2) bekezdést kell alkalmazni azzal, hogy a befizetési kötelezettséget a Kormány döntését követő tizenötödik naptári napig – amennyiben ez munkaszüneti napra esik, az azt követő első munkanapig – kell teljesíteni.
-
-## (4) A 150. § (1) bekezdés c) és f)–h) pontja szerinti költségvetési maradvány terhére a költségvetési évet követő év június 30-át követően is a Kormány döntése nélkül vállalható kötelezettség és teljesíthető kifizetés.”
