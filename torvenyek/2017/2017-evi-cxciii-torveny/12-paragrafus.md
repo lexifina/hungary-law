@@ -1,3 +1,0 @@
-12. § A Fétám tv. 9. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A kiutaló, az állami adó- vámhatóság, a gyámhatóság, területi gyermekvédelmi szakszolgálat, a családtámogatási igazgatási eljárás során az igényelbíráló szerv és a Start-számlát kezelő számlavezető – az adózás rendjéről szóló törvény elévülésre vonatkozó rendelkezéseit is figyelembe véve – jogosult az életkezdési támogatással összefüggő személyes adatok, ideértve a 2. § 3a. pont b) alpontjában meghatározott személy nevére a szomszédos államokban élő magyarokról szóló törvény alapján kiadott „Magyar igazolvány” sorszámára vonatkozó adatot, a személyes adatok kezelésére és védelmére vonatkozó jogszabályoknak megfelelő kezelésére.”
