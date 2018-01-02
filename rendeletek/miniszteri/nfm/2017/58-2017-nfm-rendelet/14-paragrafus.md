@@ -1,13 +1,9 @@
-## lép.
+## 13. §[^11]
 
-14. § (1) Hatályát veszti az R.
+14. § (1)[^12]
 
-a) 2. § (3b) bekezdése,
+(2)[^13]
 
-b) 6. § (2) és (8) bekezdése és
-
-c) 2. melléklete.
-
-(2)[^5]
-
-[^5]: A 14. § (2) bekezdése a 15. § (3) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^11]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 14. § (2) bekezdése a 15. § (3) bekezdése alapján 2019. január 1-jén lép hatályba.
