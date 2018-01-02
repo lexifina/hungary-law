@@ -44,7 +44,7 @@ cg) a cb)–cf) pontok hatálya alá nem tartozó egyéb közigazgatási hatós�
 
 (6) Az E-ügyintézési tv. 14. §-a a következő (8) bekezdéssel kiegészülve lép hatályba:
 
-„(8) Ha a gazdálkodó szervezet ügyfél hivatalos elérhetőséggel nem rendelkezik, az elektronikus ügyintézést biztosító szerv az eljárást elektronikus kapcsolattartás nélkül is lefolytathatja azzal, hogy a gazdálkodó szervezet ezen kötelezettségének nem teljesítése miatt az elektronikus ügyintézést biztosító szerv kezdeményezi a gazdálkodó szervezettel szembeni, törvényben meghatározott törvényességi felügyeleti eljárás vagy hatósági ellenőrzés lefolytatását.”
+„(8) Ha a gazdálkodó szervezet ügyfél hivatalos elérhetőséggel nem rendelkezik, az elektronikus ügyintézést biztosító szerv az eljárást elektronikus kapcsolattartás nélkül is lefolytathatja azzal, hogy a gazdálkodó szervezet ezen kötelezettségének nem teljesítése miatt az elektronikus ügyintézést biztosító szerv kezdeményezi a gazdálkodó szervezettel szembeni, törvényben meghatározott törvényességi felügyeleti eljárás vagy hatósági ellenőrzés lefolytatását.
 
 (7) Az E-ügyintézési tv. 15. §-a a következő (7) bekezdéssel kiegészülve lép hatályba:
 
@@ -204,4 +204,4 @@ a) 105. § (1) bekezdés b) pontja,
 
 b) 113. § (7) bekezdése.
 
-95. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény módosítása
+95. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény módosítása”

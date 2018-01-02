@@ -1,3 +1,3 @@
 ## 5. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-5. §
+### 5. §
