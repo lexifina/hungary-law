@@ -1,4 +1,4 @@
-## 7. § Hatályát veszti a 2. § (1), (4) és (5) bekezdése.
+## 7. §[^4]
 
 1. melléklet a 296/2017. (X. 10.) Korm. rendelethez
 
@@ -43,3 +43,5 @@
 19. azok az 1–18. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
