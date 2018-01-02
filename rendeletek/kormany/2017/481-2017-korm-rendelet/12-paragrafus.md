@@ -1,3 +1,0 @@
-## 11. § A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet (a továbbiakban: R3.) 1. §-a a következő (7) bekezdéssel egészül ki:
-
-## „(7) A kizáró okokra és az alkalmassági követelményekre vonatkozóan a közbeszerzés megkezdését megelőzően kiállított igazolások is benyújthatóak (felhasználhatóak) mindaddig, ameddig az igazolásokban foglalt tény, illetve adat tartalma valós. Az ajánlatkérő – ellenkező bizonyításig – az adat valóságtartalmát az ajánlattevő erre vonatkozó külön nyilatkozata nélkül vélelmezi.”

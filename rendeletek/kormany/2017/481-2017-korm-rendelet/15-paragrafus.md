@@ -1,1 +1,0 @@
-## 14. § Az R4. 2. § (4) bekezdésében az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény” szöveg lép.

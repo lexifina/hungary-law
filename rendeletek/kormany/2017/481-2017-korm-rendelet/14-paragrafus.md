@@ -1,1 +1,0 @@
-## „(2) A képzés elismerési kérelem benyújtásához kapcsolódó tájékoztatást, valamint az elismerés szempontrendszerét a közbeszerzésekért felelős miniszter minden év január 31. napjáig a honlapján közzéteszi.”

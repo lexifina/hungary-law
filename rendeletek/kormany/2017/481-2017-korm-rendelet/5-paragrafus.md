@@ -1,3 +1,0 @@
-## 4. § A közszolgáltatók közbeszerzéseire vonatkozó sajátos közbeszerzési szabályokról szóló 307/2015. (X. 27.) Korm. rendelet 17. § (2) bekezdésében a „megfelelő alkalmazásával kell megadni” szövegrész helyébe a „megfelelő, vagy amennyiben az ajánlatkérő az elektronikus kommunikáció alkalmazása mellett dönt, az elektronikus közbeszerzés részletes szabályairól szóló kormányrendeletben foglaltak alkalmazásával kell megadni” szöveg lép.
-
-## 5. A közbeszerzési eljárás eredményeként megkötött szerződések teljesítésének és módosításának Közbeszerzési Hatóság által végzett ellenőrzéséről szóló 308/2015. (X. 27.) Korm. rendelet módosításáról
