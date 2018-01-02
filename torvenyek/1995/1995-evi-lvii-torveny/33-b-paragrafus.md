@@ -6,7 +6,7 @@
 
 a) az ügyfél neve, lakcíme, elektronikus levélcíme, telefonszáma,
 
-b) az ügyfél adóazonosító jele vagy adószáma,
+b)
 
 c) a nem természetes személy ügyfél természetes személy képviselőjének vagy meghatalmazottjának neve, lakcíme, elektronikus levélcíme, telefonszáma,
 

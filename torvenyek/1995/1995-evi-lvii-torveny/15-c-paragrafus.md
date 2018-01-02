@@ -22,7 +22,7 @@ j) ha a vízkészletjárulék tárgyévre vonatkozó összege nem haladja meg az
 
 k) kármentesítés céljából történő vízkivétel esetén, ha az hatósági kötelezés vagy engedély alapján történt,
 
-l) az öntözési célú vízhasználat esetében vízhasználónként az évi 400 000 m3-t, a halgazdálkodási és rizstermelési célú vízhasználat esetében vízhasználónként az évi 300 000 m3-t meg nem haladó vízmennyiség után,
+l) az öntözési célú vízhasználat esetében vízjogi engedélyenként az évi 400 000 m3-t vagy vízhasználónként az általa öntözött terület után hektáronként az évi 4 000 m3-t, a halgazdálkodási és rizstermelési célú vízhasználat esetében vízjogi engedélyenként felszínalatti vizet használók esetében az évi 400 000 m3-t, felszíni vizet használók esetében hektáronként az évi 25 000 m3-t meg nem haladó vízmennyiség után,
 
 m) a (9) bekezdés szerinti tartósan vízhiányos időszakban az öntözési, halgazdálkodási és rizstermelési vízhasználat vízmennyisége után,
 
