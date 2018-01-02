@@ -1,8 +1,4 @@
-## 6. § Az Átr. 1. § l) pontja helyébe a következő rendelkezés lép:
-
-## (E rendelet alkalmazásában)
-
-## „l) működési támogatás: a központi költségvetésről szóló törvényben a szolgáltatások működéséhez biztosított támogatás, ide nem értve a szociális ágazati összevont pótlékhoz, valamint az egészségügyi kiegészítő pótlékhoz nyújtott támogatást.”
+## 6. §[^1]
 
 1. melléklet a 349/2017. (XI. 23.) Korm. rendelethez
 
@@ -25,3 +21,5 @@ P. H.
 ..............................................
 
 igazgató
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
