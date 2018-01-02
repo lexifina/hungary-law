@@ -36,11 +36,11 @@
 
 ## 1.1.az összes számlavezető pénzintézet által 60 napnál nem régebben kiállított nyilatkozat (bankinformáció),
 
-## 1.2.[^8] a vállalkozás vezetőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya. Ha a vállalkozás cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+## 1.2.[^10] a vállalkozás vezetőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya. Ha a vállalkozás cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 ## 1.3. amennyiben az ügyben nem a vállalkozás képviseletére jogosult jár el, az eljáró ügyintéző meghatalmazása,
 
-## 1.4.[^9] ha a kérelmező nem szerepel a köztartozásmentes adózói adatbázisban, 30 napnál nem régebben kiállított közokirati igazolás arról, hogy a kérelmező – az engedély iránti kérelme benyújtásának időpontjában – az adózás rendjéről szóló 2017. évi CL. törvény 260. §-a szerint köztartozásmentes adózónak minősül.
+## 1.4.[^11] ha a kérelmező nem szerepel a köztartozásmentes adózói adatbázisban, 30 napnál nem régebben kiállított közokirati igazolás arról, hogy a kérelmező – az engedély iránti kérelme benyújtásának időpontjában – az adózás rendjéről szóló 2017. évi CL. törvény 260. §-a szerint köztartozásmentes adózónak minősül.
 
 ## 1.5. határon átnyúló szolgáltatás esetében a szolgáltató hitelt érdemlő igazolása, hogy az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban vállalkozásként bejegyezték, tevékenységét végezheti és ott a jogszabályoknak megfelelően működik.
 
@@ -148,5 +148,5 @@ Megjegyzések:
 
 (16) Speciális szakmai képzettség: lőszerfeltáró tanfolyam 2. szint és a Magyar Honvédségnél, vagy a BM tűzszerész szervezeténél szerzett tűzszerész vizsga és szakmai vezetői gyakorlat.
 
-[^8]: A 3. melléklet II. rész 1. pont 1.2. alpontja a 393/2017. (XII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^9]: A 3. melléklet II. pont 1.4. alpontja a 475/2017. (XII. 28.) Korm. rendelet 85. §-a szerint módosított szöveg.
+[^10]: A 3. melléklet II. rész 1. pont 1.2. alpontja a 393/2017. (XII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^11]: A 3. melléklet II. pont 1.4. alpontja a 475/2017. (XII. 28.) Korm. rendelet 85. §-a szerint módosított szöveg.
