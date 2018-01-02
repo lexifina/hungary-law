@@ -1,4 +1,4 @@
-## 15. § Hatályát veszti a Jelnyelvi Tolmácsok Országos Névjegyzékéről szóló 38/2011. (VI. 29.) NEFMI rendelet.
+## 15. §[^1]
 
 1. melléklet a 370/2017. (XII. 8.) Korm. rendelethez
 
@@ -19,3 +19,5 @@
 7. A bejelentés kiállításának helye, ideje.
 
 8. A bejelentő aláírása.
+
+[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
