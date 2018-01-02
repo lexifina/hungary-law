@@ -1,1 +1,0 @@
-## „11. szakmai belső továbbképzési program: a belügyi szerv által fejlesztett és lebonyolított, az adott belügyi szerv feladatkörét érintő bejelentés-köteles továbbképzési program, amely szakmai ismereteket vagy kompetencia-fejlesztéseket tartalmaz;”

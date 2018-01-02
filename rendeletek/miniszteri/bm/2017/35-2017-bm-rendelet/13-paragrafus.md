@@ -1,3 +1,0 @@
-## „(6) A hivatásos állomány továbbképzési kötelezettségeinek teljesítését biztosító forrás kizárólag a programjegyzékben szereplő továbbképzési programok útján, valamint a továbbképzési rendszer működtetésére és fejlesztésére használható fel.
-
-## (7) A miniszter részére készítendő éves összefoglaló jelentés előkészítésével egyidejűleg a minisztérium tájékoztatást készít, amely részletes kimutatást tartalmaz a belügyi szerv által megfizetett normatív hozzájárulás összegének felhasználásáról és a belügyi szerv hivatásos állománya által igénybe vett továbbképzésekről. A tájékoztatást a belügyi szerv legkésőbb a tárgyévet követő év április 30-ig tájékoztatásul megkapja.”
