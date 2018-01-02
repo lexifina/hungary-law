@@ -1,1 +1,0 @@
-## „(6) A 4. § (1) bekezdés a) és b) pontja szerinti személygépkocsi a támogatást megállapító határozat véglegessé válását követően vásárolható meg. A határozat véglegessé válása előtti megvásárlás esetén a szerzési támogatás nem folyósítható.”
