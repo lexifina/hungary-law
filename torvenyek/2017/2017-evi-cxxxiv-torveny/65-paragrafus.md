@@ -1,3 +1,0 @@
-65. § A Hszt. 200. §-a helyébe a következő rendelkezés lép:
-
-„200. § Aki szolgálati beosztásból történő felfüggesztés hatálya alatt áll, a szolgálati beosztásból történő felfüggesztés napjától nem gyakorolhatja hatósági jogkörét, szolgálati elöljárói jogait, köteles beszolgáltatni szolgálati okmányait és fegyverét, szolgálati helyére csak az állományilletékes parancsnok előzetes engedélyével léphet be. A szolgálati beosztásból történő felfüggesztés időtartamára a hivatásos állomány tagja szabadságra nem jogosult. Egyéb tekintetben megilletik az e törvényben biztosított jogok, és terhelik az e törvényben meghatározott kötelezettségek.”
