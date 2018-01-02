@@ -1,1 +1,0 @@
-83. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 20/B. § (6) bekezdésében, 62/C. § (1) bekezdésében, 69/F. § (1) bekezdés a) és b) pontjában, 98. § (1) bekezdésében, valamint 145. § (1) bekezdésében a „jogerősen” szövegrész helyébe a „végleges döntéssel” szöveg lép.

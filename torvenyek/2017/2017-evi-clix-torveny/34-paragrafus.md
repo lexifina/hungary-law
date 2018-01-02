@@ -1,1 +1,0 @@
-34. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 17/A. § (1) bekezdésében, 42. § (6) bekezdésében a „jogerőre emelkedésétől” szövegrész helyébe a „véglegessé válásától” szöveg lép.

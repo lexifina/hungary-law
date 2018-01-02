@@ -1,1 +1,0 @@
-191. § Hatályát veszti a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 40. § (4) bekezdésében az „az adózás rendjéről szóló 2003. évi XCII. törvény 7. §-ának (2) bekezdése szerinti” szövegrész.

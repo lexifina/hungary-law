@@ -1,1 +1,0 @@
-91. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 38. § (3) bekezdésében az „az adózás rendjéről szóló 2003. évi XCII. törvény” szövegrész helyébe az „az adózás rendjéről szóló törvény” szöveg lép.

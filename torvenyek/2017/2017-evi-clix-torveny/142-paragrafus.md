@@ -1,3 +1,0 @@
-142. § Az Áfa tv. 192. § (2) bekezdésének helyébe a következő rendelkezés lép:
-
-„(2) Az adóalany az (1) bekezdésben említett nyilatkozatot a tárgyévet megelőző év utolsó napjáig teszi meg. Ha az alanyi adómentesség a 191. § (1) bekezdés b) vagy c) pontja szerint szűnik meg, az adóalany az (1) bekezdésben említett nyilatkozatot az Adóig. vhr. változásbejelentésre vonatkozó szabályai szerint teszi meg.”
