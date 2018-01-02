@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-36-20-0
 | --- | --- | --- |
 | 2017-12-31 | 2017-36-20-06.1 | 36/2017. (XII. 29.) IM rendelet |
 | 2018-01-01 | 2017-36-20-06.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2018-01-02 | 2017-36-20-06.3 | 2010: CXXX. törvény |
