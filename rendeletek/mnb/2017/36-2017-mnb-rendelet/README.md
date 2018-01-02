@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-36-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-01-01 | 2017-36-20-2C.1 | 36/2017. (XII. 27.) MNB rendelet |
+| 2018-01-02 | 2017-36-20-2C.2 | 2010: CXXX. törvény |
