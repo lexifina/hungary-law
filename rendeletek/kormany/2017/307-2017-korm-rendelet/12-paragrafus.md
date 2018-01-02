@@ -1,5 +1,5 @@
-## 11. §[^9]
+## 11. §[^10]
 
 ## 4. Az Oktatási Hivatalról szóló 121/2013. (IV. 26.) Korm. rendelet módosítása
 
-[^9]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## 1. § Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet (a továbbiakban: R1.) 12. § (9) bekezdésében az „Az elfogadott jelentkezést” szövegrész helyébe az „A kormányhivatalban benyújtott érettségi vizsgára történő jelentkezés esetén a kormányhivatal által hozott döntés vonatkozásában másodfokon a Hivatal jár el. Az igazgató által elfogadott jelentkezést” szöveg lép.
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
