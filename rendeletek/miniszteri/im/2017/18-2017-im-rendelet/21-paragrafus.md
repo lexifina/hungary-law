@@ -4,4 +4,6 @@
 
 (2) E rendelet rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
-(3) Hatályát veszti a hatósági letétről és a lefoglalt dolgok tárolásának és értékesítésének részletes szabályairól szóló 40/2009. (IX. 15.) IRM rendelet.
+(3)[^1]
+
+[^1]: A 21. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
