@@ -1,1 +1,0 @@
-## „(6) Az (1) bekezdés i) pont ic) alpontjában szereplő fokozottan védett természeti terület jogi jelleg megnevezés feljegyzésének feltétele az (1) bekezdés i) pont ia) vagy ib) alpontja szerinti országos jelentőségű védett természeti terület jogi jelleg megnevezés korábban megvalósult vagy egyidejű feljegyzése.”
