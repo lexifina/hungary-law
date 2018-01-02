@@ -1,3 +1,5 @@
-## 76. § Hatályát veszti a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 16/2015. (V. 29.) NGM rendelet.
+## 76. §[^1]
 
 1. melléklet az 50/2017. (XII. 29.) NGM rendelethez
+
+[^1]: A 76. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
