@@ -1,1 +1,0 @@
-## „(3) Ha az (1) bekezdés szerinti kifizetések az európai uniós támogatás terhére elszámolhatóvá válnak, a teljesített kifizetésekre jutó bevételek a központi költségvetés közvetlen bevételét képezik.”
