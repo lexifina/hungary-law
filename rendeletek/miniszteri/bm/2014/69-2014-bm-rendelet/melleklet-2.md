@@ -142,7 +142,7 @@ SZEMÉLYI NYILVÁNTARTÓ LAP A FELKÉSZÍTÉS DOKUMENTÁLÁSÁRA
 
 | Anyja neve: |  |  |
 
-| OKTATOTT KATEGÓRIA: | Védelmi ellenőr I. | □ | Védelmi ellenőr I/A | □ | Védelmi ellenőr II. | □ | Védelmi ellenőr III. | □ | Védelmi ellenőr IV. | □ | Felügyeleti személy | □ |
+| OKTATOTT KATEGÓRIA: | Védelmi ellenőr I. | □ | Védelmi ellenőr I/A | □ | Védelmi ellenőr II. | □ | Védelmi ellenőr III. | □ | Védelmi ellenőr IV. | □ | Felügyeletet ellátó személy | □ |
 
 | Védelmi ellenőr I/B □ |
 
@@ -172,4 +172,4 @@ SZEMÉLYI NYILVÁNTARTÓ LAP A FELKÉSZÍTÉS DOKUMENTÁLÁSÁRA
 
 * Az oktatott téma részleteihez tartozó sorok száma a témák függvényében szabadon növelhető. Az oktatott téma részleteit úgy kell kitölteni, hogy legalább az ismertetett tananyag címe kerüljön megjelenítésre.
 
-[^13]: A 2. melléklet a 43/2017. (XII. 29.) BM rendelet 6. §-ával megállapított szöveg.
+[^13]: A 2. melléklet a 43/2017. (XII. 29.) BM rendelet 6. §-ával megállapított, a 44/2017. (XII. 29.) BM rendelet 104. § e) pontja szerint módosított szöveg.
