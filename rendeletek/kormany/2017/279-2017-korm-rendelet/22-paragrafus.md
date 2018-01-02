@@ -1,3 +1,5 @@
-## „(9) Ha az ügyfél a fenntarthatósági nyilatkozatot és a 9. és a 10. melléklet szerinti nyomon követési dokumentumot a hatósági eljárás során – mint bizonyítékot – nem tudja a hatóság részére bemutatni, az ügyfél nyilatkozata a hiányzó bizonyítékot nem pótolja.”
+## 21. §[^7]
 
 ## 19. Hatályon kívül helyező rendelkezések
+
+[^7]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
