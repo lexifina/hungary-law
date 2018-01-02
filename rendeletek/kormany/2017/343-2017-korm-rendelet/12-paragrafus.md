@@ -1,11 +1,12 @@
-## 11. §[^6]
+## 11. §[^8]
 
-12. § (1)[^7]
+12. § (1)[^9]
 
-(2) A Get. Vhr. 1. számú melléklete a 6. melléklet szerint módosul.
+(2)[^10]
 
-(3)[^8]
+(3)[^11]
 
-[^6]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 12. § (3) bekezdése a 18. § (4) bekezdése alapján 2018. február 1-jén lép hatályba.
+[^8]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 12. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 12. § (3) bekezdése a 18. § (4) bekezdése alapján 2018. február 1-jén lép hatályba.
