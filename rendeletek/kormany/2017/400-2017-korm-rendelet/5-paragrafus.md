@@ -1,1 +1,3 @@
-5. § Hatályát veszti az UNESCO által 2005. október 19-én elfogadott, a sportbeli dopping elleni nemzetközi egyezmény I. melléklete módosításának kihirdetéséről szóló 427/2016. (XII. 15.) Korm. rendelet.
+5. §[^2]
+
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
