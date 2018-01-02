@@ -1,3 +1,1 @@
-44. § A Tpvt. 65/C. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Védekezés céljából készült irat az olyan irat vagy iratrész, amely valamely közhatalmi eljárásban a védekezéshez való jog gyakorlásának érdekében, illetve annak keretében, az ügyvédi tevékenységet gyakorló és az ügyfél mint annak ügyfele közötti kommunikáció során keletkezett, vagy az ilyen kommunikáció során elhangzottakat rögzíti, és e jellege magából az iratból is kitűnik. Nem minősül védekezés céljából készült iratnak az az irat, amely nincs az ügyfélnek vagy az érintett ügyvédi tevékenységet gyakorlónak a birtokában, kivéve, ha bizonyítják, hogy az irat jogellenesen vagy büntetőeljárás keretében került ki a birtokukból.”
+### 44. §
