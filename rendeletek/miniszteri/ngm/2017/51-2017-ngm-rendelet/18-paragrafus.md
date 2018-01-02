@@ -1,1 +1,0 @@
-## 18. A háztartási villamos hűtőszekrényekre, fagyasztószekrényekre és ezek kombinációira vonatkozó energia-hatásfok követelményekről és megfelelőségük tanúsításáról szóló 5/2002. (II. 15.) GM rendelet hatályon kívül helyezése
