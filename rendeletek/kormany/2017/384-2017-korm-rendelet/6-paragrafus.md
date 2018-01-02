@@ -1,1 +1,0 @@
-## 5. § A Gyer. 68. § (14) és (16) bekezdésében az „emelt összegű támogatás összegét” szövegrész helyébe az „emelt összegű támogatás összegét, valamint a (8a) bekezdés szerint igényelt támogatás összegét” szöveg lép.
