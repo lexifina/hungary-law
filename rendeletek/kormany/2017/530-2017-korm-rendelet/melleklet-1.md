@@ -1,3 +1,5 @@
-## 19. § Hatályát veszti a népi iparművészettel és a népmesekincs gondozásával kapcsolatos állami feladatokról szóló 83/2017. (IV. 10.) Korm. rendelet.
+## 19. §[^1]
 
 1. melléklet az 530/2017. (XII. 29.) Korm. rendelethez
+
+[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
