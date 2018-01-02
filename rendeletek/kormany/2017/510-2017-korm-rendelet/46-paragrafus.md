@@ -4,4 +4,6 @@
 
 46. § (1) Ez a rendelet 2018. január 1. napján lép hatályba.
 
-(2) Hatályát veszti a kikötő, komp- és révátkelőhely, továbbá más hajózási létesítmény létesítéséről, használatbavételéről, üzemben tartásáról és megszüntetéséről szóló 50/2002. (XII. 29.) GKM rendelet.
+(2)[^1]
+
+[^1]: A 46. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
