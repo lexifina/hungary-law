@@ -1,1 +1,0 @@
-## „(5) A kézbesítési ügy a Kar hivatali szervének a végrehajtható okiratok és a kézbesítendő iratok elosztására szolgáló informatikai alkalmazása útján, a kézbesítési cím szerint illetékes végrehajtók között kerül kiosztásra; a kézbesítendő irat pedig a fizetési meghagyásról a végrehajtó által a kézbesítés céljára kiállított papíralapú másolat.”

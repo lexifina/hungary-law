@@ -1,3 +1,0 @@
-## „4. az 1–3. pontban meghatározottaktól eltérő egyéb jogi személy adószámát, bankszámlaszámát, harminc napnál nem régebbi igazolást az egyéb jogi személyt nyilvántartó szervezettől az egyéb jogi személy nyilvántartásban szereplő adatairól, képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját vagy a számlavezető pénzforgalmi intézmény által vezetett aláírási kartonja másolatának a számlavezető pénzforgalmi intézmény által hitelesített eredeti példányát,”
-
-## 61. A haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól szóló 156/2017. (VI. 16.) Korm. rendelet módosítása

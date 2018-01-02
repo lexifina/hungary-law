@@ -1,3 +1,0 @@
-## 45. § Az egyes áruk, szolgáltatások és anyagi értéket képviselő jogok vámhatárt vagy országhatárt átlépő kereskedelméről szóló 52/2012. (III. 28.) Korm. rendelet 5. § (4) bekezdésében és 8. melléklet „A vállalkozási import engedély iránti kérelem kötelező mellékletei:” alcím a) pontjában az „ügyvéd” szövegrész helyébe az „ügyvéd vagy kamarai jogtanácsos” szöveg lép.
-
-## 35. A kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet módosítása
