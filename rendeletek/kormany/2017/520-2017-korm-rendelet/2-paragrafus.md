@@ -1,3 +1,0 @@
-## 1. § A felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló 17/2014. (II. 3.) Korm. rendelet (a továbbiakban: 17/2014. Korm. rendelet) 10. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-## „(6) Az értékesítéssel kapcsolatban minden más információt is az EÉR felületén kell közzétenni. A műszaki azonosításhoz szükséges adatok megjelölése kötelező. A 10. § (1) bekezdés c), d) és – az értékesítő döntése szerint – az f) pontja szerinti vagyontárgy értékesítése esetén a hirdetmény mellett az EÉR felületén közzé kell tenni az értékesítendő vagyontárgyat bemutató képfelvételt is.”
