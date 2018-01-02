@@ -1,5 +1,0 @@
-## 19. § Az R2. a következő 10/A. §-sal egészül ki:
-
-## „10/A. § (1) A projekt megvalósítását a szakpolitikai felelős folyamatba építetten ellenőrzi, amelynek keretében a kedvezményezettől írásban tájékoztatást és dokumentumok benyújtását kérheti, és helyszíni ellenőrzést végezhet. A projekt megvalósításának ellenőrzésére a miniszter önállóan is jogosult. A miniszter az általa végzett ellenőrzésről tájékoztatja a szakpolitikai felelőst.
-
-## (2) Ha az ellenőrzés hiányosságokat, hibákat állapít meg, és a feltárt hiányosságok, hibák orvosolhatók, a szakpolitikai felelős vagy – ha az ellenőrzést a miniszter végezte vagy a szakpolitikai felelős ezt kezdeményezte – a miniszter haladéktalanul felszólítja a kedvezményezettet a hiányosságok pótlására, a hibák javítására. Ha a feltárt hiányosságokat, hibákat a kedvezményezett a felszólításban meghatározott időre nem orvosolta, a támogatói okirat módosításáról vagy az MVP támogatás visszavonásáról az e rendelet szabályaira tekintettel az Áht. és az Ávr. szabályai szerint kell gondoskodni.”

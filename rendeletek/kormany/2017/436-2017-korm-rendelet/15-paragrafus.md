@@ -1,1 +1,0 @@
-## „(3) Az MVP támogatást évenkénti ütemezésben kell folyósítani úgy, hogy a tárgyévre eső támogatási összeget a támogatási jogviszony létrejöttétől, a további évekre eső támogatási összeget a fedezet rendelkezésre állásától számított harminc napon belül egy összegben, támogatási előlegként kell a kedvezményezett külön nyilatkozatában megjelölt fizetési számlájára folyósítani.”
