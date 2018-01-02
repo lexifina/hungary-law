@@ -1,3 +1,0 @@
-17. § A Hmtv. 34. §-a helyébe a következő rendelkezés lép:
-
-„34. § Ha a mintaoltalmi bejelentés megfelel a 33/A. § alapján vizsgált követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala megvizsgálja, hogy a mintaoltalmi bejelentés megfelel-e a 29. § (2) és (3) bekezdésében foglalt követelményeknek.”
