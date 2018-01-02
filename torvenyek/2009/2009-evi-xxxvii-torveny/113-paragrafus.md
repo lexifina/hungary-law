@@ -16,15 +16,15 @@
 
 (10)–(12)
 
-(13) Az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv alapján az erdőgazdálkodó kérelmére induló eljárásban az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság erdőtervben állapítja meg.
+(13) Az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv alapján az erdészeti hatóság az erdőgazdálkodó kérelmére induló eljárásban állapítja meg az erdőtervet.
 
 (14)–(16)
 
-(17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül kiadásra, akkor az új erdőterv véglegessé válásáig
+(17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül meghatározásra, akkor az új erdőterv véglegessé válásáig
 
 a) a korábbi erdőterv érvényessége fennmarad, vagy
 
-b) ha az erdőgazdálkodó nem rendelkezett erdőtervvel, az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság az erdőgazdálkodó kérelmére erdőtervben állapítja meg.
+b) ha az erdőgazdálkodó nem rendelkezett erdőtervvel, az erdőtervet az erdészeti hatóság az erdőgazdálkodó kérelmére állapítja meg.
 
 (18) Ha az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény és egyéb kapcsolódó törvények módosításáról szóló 2017. évi LVI. törvény (a továbbiakban: módosító törvény) hatálybalépése előtt e törvény alapján kiadott erdőterv lejártáig az új erdőterv nem kerül kiadásra, akkor az új erdőterv jogerőre emelkedéséig a korábbi erdőterv érvényessége fennmarad.
 
@@ -80,4 +80,16 @@ b) a 13. § (1) bekezdés a), b), d), h) és i) pontjában foglalt erdőgazdálk
 
 fátlan állapotban tartott erdőnek minősül, amely változást az erdészeti hatóság az Adattáron átvezet.
 
-(30) A 33. § (1)–(6) bekezdésben foglalt rendelkezéseket a módosító törvény hatálybalépésekor folyamatban lévő körzeti erdőtervezésekre is alkalmazni kell. A módosító törvény hatálybalépése előtt lezárt körzeti erdőterv esetén az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság e törvénynek a módosító törvény hatálybalépését megelőző rendelkezései szerint állapítja meg.
+(30) A 33. § (1)–(6) bekezdésben foglalt rendelkezéseket az agrárium versenyképességének javítása érdekében egyes törvények módosításáról szóló 2017. évi CLXXXIII. törvény hatálybalépésekor folyamatban lévő körzeti erdőtervezésekre is alkalmazni kell.
+
+(31) Az erdészeti hatóság a módosító törvény hatálybalépését megelőzően az erdőtervekben meghatározott, illetve az Adattárba – a körzeti erdőtervek átvezetése, vagy más eljárás során – bejegyzett erdőgazdálkodási korlátozásokat
+
+a) az erdőterv (13) bekezdés, a (17) bekezdés b) pontja, valamint a (30) bekezdés alapján történő kiadása során,
+
+b) az erdőterv új erdőgazdálkodó részére történő kiadása során,
+
+c) az erdőterv – akár kifejezetten e célból kezdeményezett – módosítása során, vagy
+
+d) a soron következő körzeti erdőtervezés során
+
+felülvizsgálja, és a hatályos szabályozásnak megfelelően módosítja.

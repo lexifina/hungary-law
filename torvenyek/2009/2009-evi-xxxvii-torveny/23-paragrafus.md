@@ -4,7 +4,7 @@
 
 a) országos jelentőségű védett természeti terület esetén a védetté nyilvánító jogszabály alapján,
 
-b) erdei génrezervátum, árvízvédelmi, vadaspark és vadaskert rendeltetés esetén a hatáskörrel rendelkező hatóság határozata alapján,
+b) erdészeti génrezervátum, árvízvédelmi, vadaspark és vadaskert rendeltetés esetén a hatáskörrel rendelkező hatóság határozata alapján,
 
 c) honvédelmi rendeltetés esetén a honvédelemért felelős miniszter által vezetett minisztériummal kötött vagyonkezelői szerződés alapján,
 

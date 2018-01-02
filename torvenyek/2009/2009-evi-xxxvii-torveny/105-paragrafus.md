@@ -44,4 +44,4 @@ irányuló eljárásban.
 
 (8) Erdőgazdálkodási bírság kiszabása iránti eljárásban, ha a bírságolásra az erdő állapotának vizsgálata és értékelése alapján kerül sor, és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
 
-(9) Az erdészeti hatóság végleges döntésében foglalt kötelezettség végrehajtását – a pénzügyi kötelezés kivételével – az erdészeti hatóság foganatosítja.
+(9)
