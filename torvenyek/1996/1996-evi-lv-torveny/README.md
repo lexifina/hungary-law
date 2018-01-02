@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-55-00-00
 | 2017-03-01 | 2015. évi CLXXXIII. törvény | 1996-55-00-00.40 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 1996-55-00-00.41 |
 | 2018-01-01 | 2017. évi L. törvény | 1996-55-00-00.42 |
+| 2018-01-02 | 2017. évi CLXXXIII. törvény | 1996-55-00-00.43 |

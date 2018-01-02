@@ -38,7 +38,9 @@ e) segíti a szakszerű vadgazdálkodást és vadállomány-hasznosítást;
 
 f) a vadászatra jogosult meghívása esetén részt vesz a vadászatra jogosult éves közgyűlésén;
 
-g) a vadászatra jogosultnak szakmai segítséget nyújt az éves vadgazdálkodási terv kidolgozásában.
+g) a vadászatra jogosultnak szakmai segítséget nyújt az éves vadgazdálkodási terv kidolgozásában;
+
+h) segítséget nyújt a vadászatra jogosultnak a vadgazdálkodási üzemtervének elkészítéséhez.
 
 (4) Tájegységi fővadász munkakör ellátására felsőfokú szakirányú végzettséggel, és legalább öt éves szakmai gyakorlattal rendelkező személyt lehet kinevezni.
 

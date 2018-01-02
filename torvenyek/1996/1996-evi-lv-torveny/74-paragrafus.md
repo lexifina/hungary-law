@@ -1,4 +1,4 @@
-74. § (1) A vadászati hatóság annak a vadnak a trófeabírálatát végezheti el, amely egyedi azonosítójelének számát a róka, az aranysakál, a borz, a nyestkutya és a mosómedve kivételével, a jogosult által vezetett teríték-nyilvántartásba bevezették.
+74. § (1) A vadászati hatóság annak a vadnak a trófeabírálatát végezheti el, amely egyedi azonosítójelének számát a róka, az aranysakál, a borz, a nyestkutya és a mosómedve kivételével, a vadászatra jogosult által vezetett teríték-nyilvántartásba bevezették.
 
 (2) A vadászati hatóság a bírálat elvégzéséről igazolást állít ki a vadászatra jogosult részére. A vadászatra jogosult csak az igazolás birtokában szerzi meg a trófea – ideértve az elhullott vad trófeáját is – feletti rendelkezési jogot.
 

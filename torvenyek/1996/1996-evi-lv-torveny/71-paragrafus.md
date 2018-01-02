@@ -10,7 +10,7 @@
 
 5. az e törvény előírásainak meg nem felelő vadászíj, illetve nyílvessző használata;
 
-6. a gímszarvasra, dámszarvasra, muflonra, valamint őzre történő vadászat esetén a sörétes vadászlőfegyver használata;
+6. a gímszarvasra, dámszarvasra, muflonra, őzre, valamint – a sörétes vadászlőfegyverből kilőhető golyóval történő vadászat kivételével – a vaddisznóra történő vadászat esetén a sörétes vadászlőfegyver használata;
 
 7. a .45-ösnél (11,4 mm) kisebb öbnagyságú elöltöltő fegyver használata;
 
@@ -46,9 +46,9 @@
 
 23. a vad megtévesztésére alkalmas elektronikus akusztikai eszköz használata;
 
-24. vaddisznó vadászata esetén – a sörétes vadászlőfegyverből kilőhető golyóval történő vadászat kivételével – a sörétes vadászlőfegyver használata;
+24.
 
-25. a gímszarvasra, a dámszarvasra, a muflonra történő vadászat esetében a kétezer ötszáz joule-nál kisebb csőtorkolati energiájú vadászlőszer, őzre történő vadászat esetében az ezer joule-nál kisebb csőtorkolati energiájú vadászlőszer alkalmazása;
+25. a gímszarvasra, a dámszarvasra, a muflonra, valamint – a 6. pontban meghatározott kivétellel – a vaddisznóra történő vadászat esetében a kétezer ötszáz joule-nál kisebb csőtorkolati energiájú vadászlőszer, őzre történő vadászat esetében az ezer joule-nál kisebb csőtorkolati energiájú vadászlőszer alkalmazása;
 
 26. mesterséges fényforrás, továbbá a fényszóró engedély nélküli használatával való vadászat;
 

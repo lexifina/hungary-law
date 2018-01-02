@@ -6,7 +6,7 @@ b) a vadászterületen található vadgazdálkodási és vadászati létesítmé
 
 c) a haszonbérlő kötelezettségvállalását arról, hogy a haszonbérleti szerződés időtartama alatt a vadállományt a jóváhagyott vadgazdálkodási üzemtervnek megfelelő szinten tartja;
 
-d) a szerződésben foglaltak teljesítésének biztosítására szolgáló mellékkötelezettségek vállalását;
+d)
 
 e) a haszonbérleti díj mértékét.
 

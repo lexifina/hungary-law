@@ -6,6 +6,6 @@ a) e törvényben előírt feltételek megléte esetén vadászterületén sajá
 
 b) általa meghívott vadász számára biztosítja a vadászat lehetőségét (a továbbiakban: vendégvadászat);
 
-c) megállapodás alapján biztosítja más vadász számára meghatározott fajú és számú vad vadászatát (a továbbiakban: bérvadászat).
+c) írásbeli megállapodás alapján, ellenérték fejében biztosítja más vadász, vadásztársaság számára meghatározott fajú és számú vad vadászatát (a továbbiakban: bérvadászat).
 
 (2) Önálló vadászati jog esetén a vadászati jog hasznosításának minősül annak haszonbérbe adása.

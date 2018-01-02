@@ -6,7 +6,7 @@
 
 (3) Amennyiben az (1)–(2) bekezdés szerinti vadat vadászati engedéllyel rendelkező vadász ejti el, a vadászatra jogosult a vad trófeáját annak elejtésétől számított harminc napon belül trófeabírálat céljából a vadászati hatóságnál köteles bemutatni.
 
-(4) A trófeabírálat céljából történő bemutatási kötelezettség kiterjed az (1)–(2) bekezdés szerinti vadfajok elhullott egyedének trófeájára is. Ebben az esetben a jogosult trófeabemutatási kötelezettségének az elhullott vad birtokbavételétől számított harminc napon belül köteles eleget tenni.
+(4) A trófeabírálat céljából történő bemutatási kötelezettség kiterjed az (1)–(2) bekezdés szerinti vadfajok elhullott egyedének trófeájára is. Ebben az esetben a vadászatra jogosult trófeabemutatási kötelezettségének az elhullott vad birtokbavételétől számított harminc napon belül köteles eleget tenni.
 
 (5) A vadászati hatóság csak a bírálatra alkalmas állapotban levő trófea bírálatát végzi el.
 

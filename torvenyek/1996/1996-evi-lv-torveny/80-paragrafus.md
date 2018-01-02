@@ -4,4 +4,4 @@
 
 (3)
 
-(4) Ha a vadászatra jogosult a (2) bekezdés szerinti vadállomány-szabályozási kötelezettségének nem, vagy nem a határozatban meghatározott módon tesz eleget, a vadászati hatóság a vadászatra vadászatra jogosult költségére határozatban hatósági vadászatot rendelhet el. A határozatban meg kell jelölni az elejtendő vad faját, valamint darabszámát.
+(4) Ha a vadászatra jogosult a (2) bekezdés szerinti vadállomány-szabályozási kötelezettségének nem, vagy nem a határozatban meghatározott módon tesz eleget, a vadászati hatóság a vadászatra jogosult költségére határozatban hatósági vadászatot rendelhet el. A határozatban meg kell jelölni az elejtendő vad faját, valamint darabszámát.

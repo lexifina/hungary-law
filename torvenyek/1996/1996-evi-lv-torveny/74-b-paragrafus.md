@@ -12,7 +12,7 @@ c) az Országos Magyar Vadászkamara 1 képviselője;
 
 d) a miniszter által kijelölt további 1 személy.
 
-(4) Az Országos Trófeabíráló Testület tagja továbbá a vadászati hatóság elsőfokú eljárásban részt nem vevő képviselője, amely tag részvételének szabályait e törvény végrehajtására kiadott rendelet szabályozza.
+(4) Az Országos Trófeabíráló Testület tagja továbbá azon területi vadászati hatóság elsőfokú trófeabírálati eljárásában részt nem vevő delegáltja, amelynél a felülbírálatra bemutatott trófea elsőfokú bírálatát elvégezték.
 
 (5) Az Országos Trófeabíráló Testület működési feltételeit a miniszter biztosítja.
 

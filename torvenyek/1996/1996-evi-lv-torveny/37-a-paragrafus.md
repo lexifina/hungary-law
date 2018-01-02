@@ -26,6 +26,6 @@
 
 12. mérgezett vagy altató csalétkek.
 
-(2) A hivatásos vadász munkaköri feladatainak ellátásakor folytatott vadászata során százhúsz joule-nál nagyobb csőtorkolati energiájú golyós vadászlőszert, illetve 0,22 kaliberű golyós vagy annál nagyobb kaliberű vadászlőfegyvert, továbbá maroklőfegyvert is használhat.
+(2) A hivatásos vadász munkaköri feladatainak ellátásakor, illetve a vadász vadászata során éjjellátó keresőtávcsövet is használhat.
 
-(3) A hivatásos vadász munkaköri feladatainak ellátása során éjjellátó keresőtávcsövet is használhat.
+(3)
