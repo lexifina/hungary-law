@@ -1,1 +1,0 @@
-## 22. § Az R2. 5. § (3) bekezdésében a „nemzetközi adatszolgáltatási igényeknek” szövegrész helyébe a „nemzetközi adatszolgáltatási és az Országos Statisztikai Adatgyűjtési Program vízgazdálkodást érintő statisztikai adatátvételi igényeknek” szöveg lép.

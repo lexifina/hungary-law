@@ -1,1 +1,0 @@
-## 37. § Az R5. 10. § (3) bekezdésében a „másodfokon jár el” szövegrész helyébe a „másodfokon jár el, és a hatóság felett az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti jogkört gyakorol” szöveg lép.
