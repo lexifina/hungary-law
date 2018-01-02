@@ -1,3 +1,0 @@
-## 274. § Hatályát veszti a lakiteleki Népfőiskola Alapítvány közművelődési szakmai szolgáltatást ellátó közhasznú nonprofit gazdasági társasága székhelyének létrehozását célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 270/2016. (VIII. 31.) Korm. rendelet 3. § (1) és (2) bekezdése.
-
-## 174. A Vecsés város külterületén megvalósuló ingatlanfejlesztési beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 278/2016. (IX. 15.) Korm. rendelet módosítása

@@ -1,1 +1,0 @@
-## 105. A Nemzeti Hauszmann-terv keretében a Budavári Palota épületegyütteshez kapcsolódó egykori lovarda, főőrségi épület, valamint a Stöckl-lépcső újjáépítésével összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 119/2015. (V. 14.) Korm. rendelet módosítása

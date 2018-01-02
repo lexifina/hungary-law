@@ -1,3 +1,0 @@
-## 311. § Hatályát veszti a Környezeti és Energiahatékonysági Operatív Program keretében megvalósuló egyes közel nulla energiaigényű épületek létesítésére irányuló mintaprojekt jellegű beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 424/2016. (XII. 14.) Korm. rendelet 2. § (1) és (2) bekezdése.
-
-## 193. A Budapest IX. kerületében megvalósuló, Magyar Telekom Nyrt. székház megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről szóló 470/2016. (XII. 23.) Korm. rendelet módosítása

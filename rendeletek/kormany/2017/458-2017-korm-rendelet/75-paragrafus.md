@@ -1,1 +1,0 @@
-## 39. A települési szilárdhulladék-gazdálkodási rendszerek fejlesztését célzó KEOP keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 72/2013. (III. 8.) Korm. rendelet módosítása

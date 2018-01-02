@@ -1,1 +1,0 @@
-## 128. Az EGLO Magyarország Termelő Korlátolt Felelősségű Társaság Pásztón megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 370/2015. (XII. 2.) Korm. rendelet módosítása

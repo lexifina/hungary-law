@@ -1,1 +1,0 @@
-## 194. A Nagykőrös területén elektronikai kapacitásbővítésre irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 471/2016. (XII. 23.) Korm. rendelet módosítása

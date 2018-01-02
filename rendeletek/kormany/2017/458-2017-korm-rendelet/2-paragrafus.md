@@ -1,3 +1,0 @@
-## 1. § A budapesti központi szennyvíztisztító telep és kapcsolódó létesítményei projekt, a Zalaegerszeg és térsége szennyvízelvezetési és kezelési projekt és a Veszprém és térsége szennyvízelvezetési és kezelési projekt megvalósításához szükséges egyes közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 150/2006. (VII. 21.) Korm. rendelet [a továbbiakban: 150/2006. (VII. 21.) Korm. rendelet] 1. §-a a következő (4) bekezdéssel egészül ki:
-
-## „(4) Az (1) bekezdés alkalmazásában a beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek az (1) bekezdés szerinti beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.”

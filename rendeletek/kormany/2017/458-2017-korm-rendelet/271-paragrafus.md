@@ -1,1 +1,0 @@
-## 171. Új tűzoltólaktanyák létrehozását és fejlesztését célzó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 260/2016. (VIII. 31.) Korm. rendelet módosítása

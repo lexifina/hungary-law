@@ -1,1 +1,0 @@
-## 220. A Fényeslitke külterületén logisztikai központ létesítésére, valamint Kisvárda külterületén kóser fóliasátor termelési felületének bővítésére irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 111/2017. (IV. 28.) Korm. rendelet módosítása

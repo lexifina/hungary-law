@@ -1,3 +1,0 @@
-## 246. § Hatályát veszti a Samsung SDI Magyarország Gyártó és Értékesítő Zártkörűen Működő Részvénytársaság Göd területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 114/2016. (VI. 1.) Korm. rendelet 3. §-a.
-
-## 154. Az Otto Fuchs Hungary Korlátolt Felelősségű Társaság Tatabánya területén megvalósuló beruházásával, valamint az ehhez szükséges infrastruktúra kiépítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 130/2016. (VI. 7.) Korm. rendelet módosítása
