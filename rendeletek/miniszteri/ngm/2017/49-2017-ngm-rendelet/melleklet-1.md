@@ -1,3 +1,5 @@
-## 5. § Hatályát veszti a nemzetgazdasági miniszter irányítása alá tartozó központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 55/2016. (XII. 21.) NGM rendelet.
+## 5. §[^1]
 
 1. melléklet a 49/2017. (XII. 29.) NGM rendelethez
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
