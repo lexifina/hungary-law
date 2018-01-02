@@ -1,1 +1,0 @@
-A menedékjogról szóló 2007. évi LXXX. törvény 93. § (3) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 9. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
