@@ -1,9 +1,7 @@
-178. § A Hpt.
+178. §
 
 a)–d)
 
-e) 204/A. § (5) bekezdésében a „jogerőre emelkedésének” szövegrész helyébe a „véglegessé válásának” szöveg,
+e)
 
 f)–h)
-
-lép.

@@ -10,7 +10,7 @@ l)–o)
 
 p)–q)
 
-r) 159/A. § (5) bekezdésében a „jogerőre emelkedésének” szövegrész helyébe a „véglegessé válásának” szöveg,
+r)
 
 s)
 
