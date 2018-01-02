@@ -1,4 +1,4 @@
-## 11. § Hatályát veszti a Kommunális- és Lakóépületek Érintésvédelmi Szabályzatáról szóló 8/1981. (XII. 27.) IpM rendelet.
+## 10–11. §[^1]
 
 1. melléklet a 40/2017. (XII. 4. ) NGM rendelethez
 
@@ -407,3 +407,5 @@ e) hőmérséklet- és teljesítménymérések;
 f) túlpörgetési vizsgálat.
 
 2.2.7.8. Ha a módosított villamos szerkezet a 2.2.7.2. pontban leírtak szerint új megfelelőség-értékelési eljáráson átesett, akkor az ezen értékeléskor elvégzett vizsgálatokat figyelembe kell venni a 2.2.7.6. és 2.2.7.7. pontban leírt vizsgálatok elvégzése során.
+
+[^1]: A 10–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
