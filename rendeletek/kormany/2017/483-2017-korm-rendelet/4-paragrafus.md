@@ -1,7 +1,3 @@
-## 3. § A 37/2011. (III. 22.) Korm. rendelet 6. § (4a) bekezdés a) pontjában az „a tagok” szövegrész helyébe az „ahol a tagok” szöveg lép.
+## 3. §[^6]
 
-## 4. § Hatályát veszti a 37/2011. (III. 22.) Korm. rendelet
-
-a) 5. § (2) bekezdése,
-
-b) 18. § (3) bekezdés b) pontja.
+[^6]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
