@@ -1,17 +1,18 @@
-## 2. § Az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet (a továbbiakban: R2.) 1. §-a a következő (8) és (9) bekezdéssel egészül ki:
+## 2. §[^2]
 
-## „(8) A szakgimnáziumba a 2019/2020. tanévet megelőzően beiskolázott tanulók számára megszerezhető, az Sztv. 2. § 24a. pontja szerinti mellék-szakképesítéseket a 8. melléklet tartalmazza. Abban az esetben, ha az adott érettségi végzettséghez kötött ágazati szakképesítés vonatkozásában több mellék-szakképesítés választható, úgy a szakképző iskolának legalább egy mellék-szakképesítés választását biztosítania kell.
+3. § (1)[^3]
 
-## (9) A szakgimnáziumba a 2019/2020. tanévtől beiskolázott tanulók számára megszerezhető az Sztv. 2. § 24a. pontja szerinti, szakgimnáziumban megszerezhető mellék-szakképesítéseket a 9. melléklet tartalmazza. Abban az esetben, ha az adott érettségi végzettséghez kötött ágazati szakképesítés vonatkozásában több mellék-szakképesítés választható, úgy a szakképző iskolának legalább egy mellék-szakképesítés választását biztosítania kell.”
+(2)[^4]
 
-3. § (1) Az R2. 1. melléklete a 2. melléklet szerint módosul.
+(3)[^5]
 
-(2) Az R2. 2. melléklete a 3. melléklet szerint módosul.
+(4)[^6]
 
-(3)[^1]
+(5)[^7]
 
-(4) Az R2. az 5. melléklet szerinti 8. melléklettel egészül ki.
-
-(5) Az R2. a 6. melléklet szerinti 9. melléklettel egészül ki.
-
-[^1]: A 3. § (3) bekezdése a 7. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. § (3) bekezdése a 7. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^6]: A 3. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 3. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
