@@ -28,6 +28,12 @@ i) belterületbe vonás esetén új község alakítása, településegyesítés
 
 j) termálvíz-hasznosító létesítményekből kibocsátott használt termálvizek átmeneti tározására és természetközeli tisztítására szolgáló – lehetőség szerint többcélú – állandó jellegű tározók létesítése és bővítése,
 
+k) – amennyiben mezőgazdasági vízszolgáltatás céljából veszik igénybe – mezőgazdasági vízellátást szolgáló saját célú vízilétesítmény létesítése és üzemeltetése,
+
+l) csapadékvíz összegyűjtésére szolgáló tározó létesítése, üzemeltetése, bővítése,
+
+m) kis teljesítményű erőmű építése
+
 céljából engedélyezi.
 
 (3a) A (3) bekezdésben foglaltakon túl nem kell járulékot fizetni, ha az ingatlanügyi hatóság a termőföld más célú hasznosítását

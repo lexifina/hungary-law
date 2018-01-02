@@ -4,7 +4,7 @@
 
 a) a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény hatálya alá tartozó, a részarány-földkiadási eljárás során, továbbá a részarány-földkiadási eljárás eredményeként keletkezett osztatlan közös tulajdonok megszüntetése során keletkező új földrészletek megközelítését szolgáló utak kialakítása,
 
-b) mezőgazdasági célú tereprendezés,
+b) mezőgazdasági célú tereprendezés, valamint a meliorációs tervekben előirányzott munkálat,
 
 c) erdő telepítése,
 
@@ -12,7 +12,9 @@ d) a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI
 
 e) halastó létesítése
 
-f) vízkivételt biztosító vízilétesítmény létesítése,
+f) vízkivételt biztosító vízilétesítmény létesítése vagy mezőgazdasági vízellátást szolgáló vízilétesítmény, valamint kapcsolódó műtárgyak, vízelosztó-hálózat, valamint építési engedélyezés hatálya alá nem tartozó, öntözéshez kapcsolódó felépítmények létesítése és használata, vagy
+
+g) az országos jégkármegelőző rendszer kiépítése és működtetése
 
 h) kis teljesítményű erőmű földműves tulajdonos, vagy földműves földhasználó általi létesítése, üzemeltetése
 

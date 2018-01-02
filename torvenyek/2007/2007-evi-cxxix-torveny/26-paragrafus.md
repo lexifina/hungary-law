@@ -8,7 +8,7 @@
 
 (4) Az ingatlanügyi hatóság a kiszabott földvédelmi járulékokról és bírságokról nyilvántartást vezet.
 
-(4a) A határidőben meg nem fizetett járuléknak és bírságnak a (4) bekezdés szerinti nyilvántartásból való törléséről az ingatlanügyi hatóságnak a kormányhivatal útján felterjesztett kérelme alapján a földügyért felelős miniszter dönt, ha
+(4a) A határidőben meg nem fizetett járuléknak és bírságnak a (4) bekezdés szerinti nyilvántartásból való törléséhez a földügyért felelős miniszter hozzájárulása szükséges. A törléshez az ingatlanügyi hatóságnak a kormányhivatal útján felterjesztett kérelme alapján a földügyért felelős miniszter akkor járulhat hozzá, ha
 
 a) a fizetésre kötelezett szervezet jogutód nélkül megszűnt, vagy
 
@@ -17,6 +17,8 @@ b) az adóhatóság igazolása alapján a határidőre meg nem fizetett járulé
 ba) nem vezetett eredményre, illetve
 
 bb) a végrehajtáshoz való jog elévült.
+
+(4b) Az ingatlanügyi hatóságnak a (4a) bekezdés szerinti kérelméhez csatolnia kell a törlés feltételeinek fennállását igazoló okiratokat.
 
 (4b) Az ingatlanügyi hatóságnak a (4a) bekezdés szerinti kérelméhez csatolnia kell a törlés feltételeinek fennállását igazoló okiratokat.
 

@@ -46,4 +46,4 @@
 
 21. ültetvény: az ingatlan-nyilvántartásban szőlő, gyümölcsös, továbbá fásított terület művelési ágban nyilvántartott földrészlet;
 
-22. kis teljesítményű erőmű: a villamos energiáról szóló 2007. évi LXXXVI. törvény 4. § (1) bekezdésében meghatározott 0,5 MW-nál kisebb névleges teljesítőképességű villamos energiát termelő erőmű, kivéve a szélerőmű és a szélerőmű park.
+22. kis teljesítményű erőmű: a villamos energiáról szóló 2007. évi LXXXVI. törvény 4. § (1) bekezdésében meghatározott 0,5 MW-nál kisebb névleges teljesítőképességű, a napenergiát felhasználva villamos energiát termelő erőmű.
