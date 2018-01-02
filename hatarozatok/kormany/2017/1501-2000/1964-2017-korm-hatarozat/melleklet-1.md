@@ -8,7 +8,7 @@
 
 ## 5. Ez a határozat 2018. január 1-jén lép hatályba.
 
-## 6. Hatályát veszti a 2017. évi határátlépéssel járó csapatmozgások engedélyezéséről szóló 1863/2016. (XII. 28.) Korm. határozat.
+## 6.[^1]
 
 1. melléklet az 1964/2017. (XII. 19.) Korm. határozathoz
 
@@ -361,3 +361,5 @@ A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 19. | DCM-E csapatmozgások | I–IV. n. é. | egyidejűleg legfeljebb 250 |
 
 | 20. | NFIU HUN csapatmozgások | I–IV. n. é. | egyidejűleg legfeljebb 50 |
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
