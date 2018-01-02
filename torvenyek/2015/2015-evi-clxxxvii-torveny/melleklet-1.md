@@ -1,1 +1,1 @@
-1–2. melléklet a 2015. évi CLXXXVII. törvényhez
+1. melléklet a 2015. évi CLXXXVII. törvényhez
