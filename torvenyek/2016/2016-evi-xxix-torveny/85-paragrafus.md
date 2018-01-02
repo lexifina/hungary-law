@@ -1,6 +1,6 @@
 ## 45. A hivatal
 
-85. § (1) A Kamara ügyviteli szerve a hivatal, amelynek vezetője a Kamara főtitkára.
+85. § (1) A Kamara ügyviteli szerve a hivatal, amelynek vezetője és képviselője a Kamara főtitkára. A hivatal jogi személy.
 
 (2) A főtitkár:
 

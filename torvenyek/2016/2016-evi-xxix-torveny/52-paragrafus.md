@@ -17,3 +17,5 @@ c) a magánszakértői vélemény a tényelőadások szakszerű megfogalmazásá
 (5) A szakértőt a magánszakértői vélemény szakmai tartalmával összefüggésben megbízója – a Polgári Törvénykönyv megbízási szerződésre vonatkozó szabályaitól eltérően – nem utasíthatja. A szakértő a magánszakértői vélemény elkészítése során a tevékenységére irányadó szakmai szabályok betartásával, a tevékenységével érintett személyek – különösen megbízója – érdekeitől függetlenül, pártatlanul köteles eljárni. A szakértő szakvéleményét a feltárt tények tárgyilagos értékelésével köteles kialakítani.
 
 (6) A szakértő a jogszabályba ütköző megbízást köteles megtagadni.
+
+(7) A polgári perrendtartásról szóló törvény szerint alkalmazott magánszakértő a megbízási díjról köteles a 49. § (2) bekezdése szerint díjjegyzéket kiállítani és azt a magánszakértői véleményhez csatolni.

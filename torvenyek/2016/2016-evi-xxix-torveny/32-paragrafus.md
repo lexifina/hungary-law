@@ -6,4 +6,4 @@
 
 (4) Ha az igazságügyi szakértő a kizáró okot maga jelentette be vagy a kizáráshoz maga is hozzájárult, az igazságügyi szakértői intézmény vezetője más igazságügyi szakértő kijelöléséről a saját hatáskörében gondoskodik, és erről a hatóságot haladéktalanul értesíti.
 
-(5) Ha a hatóság állapít meg az igazságügyi szakértőre nézve kizáró okot, az igazságügyi szakértői intézmény vezetője más igazságügyi szakértőt jelöl ki.
+(5) Ha a hatóság állapít meg az igazságügyi szakértőre nézve kizáró okot, az igazságügyi szakértői intézmény vezetője más igazságügyi szakértőt jelöl ki. Ha a szakértői intézménynek nincs olyan kijelölhető igazságügyi szakértője, akire nézve a hatóság nem állapított meg kizáró okot, illetve a 30. § (7) bekezdésének vagy a 32. § (2) bekezdésének alkalmazására nincs lehetőség, az igazságügyi intézmény vezetője a kirendelést visszautasítja.

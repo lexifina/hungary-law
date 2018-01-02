@@ -6,7 +6,7 @@ b) egyetemi doktori vagy tudományos fokozattal és az adott szakterületen lega
 
 c) az adott szakterületen legalább tízéves igazságügyi szakértői gyakorlattal rendelkezik.
 
-(2) Az igazságügyi szakértői testület elnökét és tagjait a miniszter – a szakterületet felügyelő miniszter egyetértésével – öt évre nevezi ki. Az igazságügyi szakértői testület nem igazságügyi szakértő tagjaira e törvénynek az igazságügyi szakértőre vonatkozó rendelkezései nem alkalmazhatók.
+(2) Az igazságügyi szakértői testület elnökét és tagjait a miniszter – a szakterületet felügyelő miniszter egyetértésével – öt évre nevezi ki. Az igazságügyi szakértői testület tagjainak névsorát a miniszter a kormányzati portálon közzéteszi. Az igazságügyi szakértői testület nem igazságügyi szakértő tagjaira e törvénynek az igazságügyi szakértőre vonatkozó rendelkezései nem alkalmazhatók.
 
 (3) Az igazságügyi szakértői testület tagjai a miniszter vagy képviselője jelenlétében esküt tesznek. A szakértői eskü az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegéből és annak első mondatát követően a következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint teljesítem.”
 

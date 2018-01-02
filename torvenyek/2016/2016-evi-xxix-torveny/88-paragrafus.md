@@ -1,4 +1,4 @@
-88. § (1) A tisztségviselő megbízatása megszűnik a tisztségviselő
+88. § (1) A tisztségviselő megbízatása vagy kinevezése megszűnik a tisztségviselő
 
 a) lemondásával,
 
@@ -8,7 +8,7 @@ c) kamarai tagságának megszűnésével, és
 
 d) megbízatása idejének lejártával.
 
-(2) A tisztségviselő megbízatása akkor is megszűnik, ha az ellene indult fegyelmi vagy büntetőeljárás során jogerősen elmarasztalták.
+(2) A tisztségviselő megbízatása vagy kinevezése akkor is megszűnik, ha az ellene indult fegyelmi vagy büntetőeljárás során jogerősen elmarasztalták.
 
 (3) A tisztségviselő visszahívását a Kamara tagjainak legalább egytizede kezdeményezheti, a visszahívott tisztségviselő tisztségét betöltő új jelölt megjelölésével egyidejűleg. A tisztségviselő visszahívása kizárólag akkor sikeres, ha a küldöttgyűlés az új tisztségviselőnek ajánlott jelöltet egyidejűleg megválasztja.
 

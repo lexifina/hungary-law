@@ -6,7 +6,7 @@
 
 a) a kirendelt szakértő megnevezését, a kirendelés ügyszámát és az ügy tárgyát, valamint a tényállás rövid ismertetését,
 
-b) azokat a szakkérdéseket, amelyekre a szakértőnek választ kell adnia,
+b) azokat a kérdéseket, amelyekre a szakértőnek választ kell adnia,
 
 c) a szakértői feladat teljesítéséhez szükséges adatokat,
 
@@ -57,3 +57,5 @@ f) a feltett kérdésben kizárólag jogszabályban meghatározott szervezet jog
 g) a szakértő díja a letétbe helyezett összeget előreláthatólag meghaladja, megjelölve egyidejűleg a még letétbe helyezendő összeget.
 
 (5) Ha a szakértő a (4) bekezdés szerinti kötelezettsége teljesítésében rajta kívül álló okból akadályoztatva van, a (4) bekezdés szerinti kötelezettségének az akadály megszűnésétől számított három napon belül köteles eleget tenni. Az akadályoztatás tényét a szakértőnek valószínűsítenie kell.
+
+(6) A nem természetes személy szakértő a kirendelő végzés kézhezvételétől számított tíz napon belül köteles a hatóságnak bejelenteni, hogy a nevében melyik tagja vagy alkalmazottja jár el.

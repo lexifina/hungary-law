@@ -1,6 +1,6 @@
 14. § Ha az igazságügyi szakértő
 
-a) a névjegyzékből – a 13. § (1) bekezdés i) pontja kivételével – törlésre kerül,
+a) a névjegyzékből – a 13. § (1) bekezdés j) pontja kivételével – törlésre kerül,
 
 b) kamarai tagságát felfüggesztették vagy
 

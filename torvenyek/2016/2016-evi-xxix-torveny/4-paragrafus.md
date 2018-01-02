@@ -34,7 +34,7 @@ b) az adott szakterületen – időszakos hiány vagy egyéb szakmai ok miatti h
 
 c) az adott szakterület nem szerepel a miniszter rendeletében felsorolt szakterületek között.
 
-(5) Eseti szakértőként csak az járhat el, aki a 45. § (2) bekezdés n) pontja szerinti felhívásnak megfelelően az igazságügyi szakértőkre vonatkozó etikai és fegyelmi követelményeknek aláveti magát.
+(5) Eseti szakértőként csak az járhat el, aki a 45. § (2) bekezdés n) pontja szerinti felhívásnak megfelelően nyilatkozik arról, hogy az igazságügyi szakértőkre vonatkozó etikai és fegyelmi követelményeknek aláveti magát. Az eseti szakértő jogaira és kötelezettségeire e törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (6) Más szakterületre már bejegyzett szakértő eseti szakértőként kizárólag a (4) bekezdés c) pontja alapján járhat el, amennyiben megfelelő szakértelemmel rendelkezik.
 

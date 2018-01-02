@@ -2,6 +2,6 @@
 
 (2) Ha az igazságügyi szakértői intézet nevében a szakvéleményt az igazságügyi szakértői intézet névjegyzékben nem szereplő, de az adott szakterületen szakmai jártassággal rendelkező alkalmazottja adja, eljárására az igazságügyi szakértőkre vonatkozó jogszabályokat kell alkalmazni.
 
-(3) Az igazságügyi szakértői intézet nevében eljáró igazságügyi szakértő, illetve az igazságügyi szakértői intézet kizárására a 32. § (3) bekezdés rendelkezéseit megfelelően alkalmazni kell.
+(3) Az igazságügyi szakértői intézet nevében eljáró igazságügyi szakértő, illetve az igazságügyi szakértői intézet kizárására a 32. § (3)–(5) bekezdés rendelkezéseit megfelelően alkalmazni kell.
 
 (4) Az igazságügyi szakértői intézet alkalmazásában álló igazságügyi szakértői tevékenységet végző személyek igazságügyi szakértővé válására vonatkozóan a miniszter rendeletben eltérő szabályokat állapíthat meg.

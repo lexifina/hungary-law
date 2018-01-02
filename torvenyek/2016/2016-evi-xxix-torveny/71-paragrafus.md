@@ -2,7 +2,7 @@
 
 71. § (1) A Kamara legfőbb döntéshozó szerve a küldöttgyűlés.
 
-(2) A Kamara tagjai a küldöttgyűlésbe száznegyven küldöttet választanak. A küldöttgyűlésbe a szakmai tagozatok öt-öt küldöttet delegálnak, a további küldötteket a bejegyzett igazságügyi szakértők területi megoszlására figyelemmel kell megválasztani. A küldöttek megválasztásának részletes szabályait az alapszabály állapítja meg.
+(2) A Kamara tagjai a küldöttgyűlésbe legfeljebb száznegyven küldöttet választanak. A küldöttgyűlésbe a szakmai tagozatok öt-öt küldöttet delegálnak, a további küldötteket a bejegyzett igazságügyi szakértők területi megoszlására figyelemmel kell megválasztani. A küldöttek megválasztásának részletes szabályait az alapszabály állapítja meg.
 
 (3) A küldöttgyűlés
 
