@@ -18,6 +18,6 @@
 
 ## A „D” oszlop szerinti időtartam a támogatási jogosultság megállapításának dátumától számítandó.
 
-2. melléklet a 13/2017. (XI. 8.) MEKH rendelethez[^2]
+2. melléklet a 13/2017. (XI. 8.) MEKH rendelethez[^3]
 
-[^2]: A 2. melléklet a 15. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. melléklet a 15. § (2) bekezdésével megállapított szöveg.

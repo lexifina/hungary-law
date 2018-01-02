@@ -1,5 +1,5 @@
 ## 16. § Hatályát veszti a megújuló energiaforrásból termelt villamos energia működési támogatásának mértékéről szóló 17/2016. (XII. 21.) MEKH rendelet azzal, hogy rendelkezéseit a folyamatban lévő eljárásokban alkalmazni kell.
 
-1. melléklet a 13/2017. (XI. 8.) MEKH rendelethez[^1]
+1. melléklet a 13/2017. (XI. 8.) MEKH rendelethez[^2]
 
-[^1]: Az 1. melléklet a 15. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. melléklet a 15. § (1) bekezdésével megállapított szöveg.
