@@ -1,6 +1,6 @@
 ## 13. § Ez a rendelet a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló, 2003. január 27-i 2003/8/EK tanácsi irányelvnek való megfelelést szolgálja.
 
-14. § Hatályát veszti a költségmentesség engedélyezésének alapjául szolgáló körülmények igazolásáról szóló 2/1968. (I. 24.) IM rendelet.
+14. §[^1]
 
 Melléklet a 26/2017. (XII. 27.) IM rendelethez
 
@@ -151,3 +151,5 @@ A költségmentesség és a költségfeljegyzési jog engedélyezése alapjául 
 9. Közlemény
 
 10. Tájékoztató
+
+[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
