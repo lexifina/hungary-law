@@ -1,3 +1,5 @@
 ## 9. § Ez a rendelet 2018. január 1-jén lép hatályba.
 
-10. § Hatályát veszti a polgári eljárásban a tárgyalás, valamint a személyes meghallgatás zártcélú távközlő hálózat útján történő megtartásáról szóló 3/2016. (II. 22.) IM rendelet.
+10. §[^1]
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
