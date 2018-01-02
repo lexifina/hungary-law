@@ -1,3 +1,1 @@
-17. § Az Ügkr. tv. 18/E. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a beruházó a hatóság által, részére folyósított támogatási összeget nem a vonatkozó jogszabályokban vagy az Európai Bizottság határozataiban foglaltaknak megfelelően használja fel, a hatóság a beruházóval szemben hatósági ellenőrzést folytat le a beruházások ellenőrzése céljából (a továbbiakban: felügyeleti eljárás). A felügyeleti eljárás keretében a hatóság a beruházóval szemben a Kormány rendeletében meghatározottak szerint bírságot szab ki, meghatározott esetben a támogatást visszafizetteti vagy a támogatás folyósítását megszünteti. Ha a felügyeleti eljárás keretében kiszabott bírság vagy visszafizetendő támogatás nem kerül a hatóság által megszabott határidőben megfizetésre, akkor a véglegessé vált határozat alapján a hatóság a fizetési kötelezettség behajtása érdekében soron kívül megkeresi az állami adó- és vámhatóságot.”
+### 17. §
