@@ -1,5 +1,0 @@
-## 1. § A jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 45/2016. (XI. 29.) NGM rendelet (a továbbiakban: 45/2016. NGM rendelet) 9. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-## [A bizonylat-kiállító program jövedéki célra való felhasználásának feltétele az (1) bekezdésben meghatározott követelményeken túl, hogy a program]
-
-## „c) ha a bizonylat szigorú számadású jellegének biztosítása az állami adó- és vámhatóságtól igényelt sorszámtartomány felhasználásával történik – a szállítólevél, valamint azon okmány kivételével, amelyet az állami adó- és vámhatóságtól eltérő hatóság forgalmaz és hitelesít –, az állami adó- és vámhatóság által az adott időszakra – az állami adó- és vámhatóság által rendszeresített formanyomtatványon benyújtott kérelemre – kiadott sorszámok felhasználását emelkedő számsorrendben, kizárólag egy alkalommal tegye lehetővé a bizonylat kiállítása során és az állami adó- és vámhatóság által kiadott sorszámok esetén önálló sorszámgenerálást vagy ugyanazon számsorrend újbóli felhasználását ne tegye lehetővé.”

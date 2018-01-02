@@ -1,3 +1,0 @@
-## 6. § A 45/2016. NGM rendelet 49. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-## „(7) Az állami adó- és vámhatóság annak, aki átlagosan havonta legalább tíz alkalommal kér költségtérítés és szemledíj megfizetésével járó eljárást, engedélyezheti, hogy a költségtérítést és a szemledíjat havonta összesítve fizesse meg. Ebben az esetben az állami adó- és vámhatóság a tárgyhónapban végzett eljárásai után fizetendő költségtérítésről és szemledíjról szóló határozatát a tárgyhónapot követő 3 munkanapon belül hozza meg. Az állami adó- és vámhatóság visszavonhatja a havi költségtérítés és szemledíj fizetésére vonatkozó engedélyét, ha az engedélyes fizetési kötelezettségének nem tesz eleget.”
