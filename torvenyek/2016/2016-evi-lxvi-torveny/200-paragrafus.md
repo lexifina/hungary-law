@@ -1,6 +1,6 @@
-200. § Az Art.
+200. §
 
-1. 6/B. § (4) bekezdésében az „a 37. § (4) bekezdése szerinti esetben 30 napon belül” szövegrész helyébe a „20 napon belül” szöveg,
+1.
 
 2–3.
 
@@ -27,5 +27,3 @@
 32.
 
 33–34.
-
-lép.

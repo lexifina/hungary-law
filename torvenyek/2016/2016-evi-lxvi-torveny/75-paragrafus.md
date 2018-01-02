@@ -1,11 +1,9 @@
-75. § Az Áfa tv.
+75. §
 
 a)
 
-b) 3. számú melléklet II. része a 7. melléklet szerint,
+b)
 
 c)–e)
 
 f)
-
-módosul.
