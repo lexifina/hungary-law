@@ -1,3 +1,0 @@
-21. § A Be. 85. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A bíróság, az ügyész, illetve a nyomozó hatóság engedélyezheti, hogy a tanú a szóbeli kihallgatását követően vagy helyette írásban tegyen vallomást. Ebben az esetben a tanú a vallomását saját kezűleg leírja és aláírja, az elektronikus okirat formájában elkészített vallomását minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással látja el, vagy a tanúnak a más módon leírt vallomását bíró vagy közjegyző hitelesíti. Az írásbeli tanúvallomás megtétele nem zárja ki, hogy utóbb a tanút, ha ez szükséges, a kihallgatása céljából a bíróság, az ügyész, illetve a nyomozó hatóság megidézze.”

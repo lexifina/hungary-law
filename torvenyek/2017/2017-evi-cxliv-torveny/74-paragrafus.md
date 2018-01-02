@@ -1,3 +1,0 @@
-74. § Az EUtv. 93. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A biztosítási intézkedést elrendelő tagállami határozat és a 7. számú mellékelt szerinti tanúsítvány bármely olyan módon előterjeszthető, amely lehetővé teszi a megkeresés hitelességének megállapítását. Az így előterjesztett eljárási jogsegély iránti megkeresést szabályszerűnek kell tekinteni. E rendelkezést a tagállami igazságügyi hatóság részéről továbbított más iratok, illetve tájékoztatás, és a magyar igazságügyi hatóság részéről a tagállami igazságügyi hatóság részére továbbított iratok, illetve tájékoztatás tekintetében is megfelelően alkalmazni kell.”
