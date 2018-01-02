@@ -1,1 +1,1 @@
-1–5. melléklet a 2014. évi LXXIV. törvényhez
+1. melléklet a 2014. évi LXXIV. törvényhez

@@ -4,4 +4,4 @@
 
 ## 29. A számvitelről szóló 2000. évi C. törvény módosítása
 
-282–283. §
+### 282. §

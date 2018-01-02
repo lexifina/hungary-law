@@ -4,4 +4,4 @@
 
 ## 41. A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény módosítása
 
-394–406. §
+### 394. §

@@ -4,4 +4,4 @@
 
 ## 8. Az energiaadóról szóló 2003. évi LXXXVIII. törvény módosítása
 
-68–71. §
+### 68. §
