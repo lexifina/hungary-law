@@ -1,1 +1,0 @@
-454. § Az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény 3/F. § (3) bekezdésében az „1. § (4)–(6) bekezdése” szövegrész helyébe az „1. § (4)–(6) bekezdése, valamint az 1/A. §” szöveg lép.

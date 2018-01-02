@@ -1,1 +1,0 @@
-474. § A reklámadóról szóló 2014. évi XXII. törvény 7/E. § (2) bekezdésében az „ellene bírósági felülvizsgálatnak nincs helye” szövegrész helyébe az „ellene közigazgatási per nem indítható” szöveg lép.

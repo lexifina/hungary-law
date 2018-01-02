@@ -1,1 +1,0 @@
-11. § Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 13/B. § (2) bekezdésében az „azt kiszabó jogerős határozat” szövegrész helyébe az „azt kiszabó végleges határozat” szöveg lép.

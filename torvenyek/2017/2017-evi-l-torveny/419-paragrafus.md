@@ -1,1 +1,0 @@
-419. § A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 7/B. § (2) bekezdés f) pontjában a „jogerősen” szövegrész helyébe a „véglegessé vált határozattal” szöveg lép.

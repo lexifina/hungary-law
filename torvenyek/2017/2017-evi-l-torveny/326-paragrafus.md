@@ -1,1 +1,0 @@
-326. § A villamos energiával összefüggő egyes kérdésekről szóló 2008. évi LXX. törvény 6. § (2) bekezdésében az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló törvényt” szöveg lép.

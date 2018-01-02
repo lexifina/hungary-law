@@ -1,1 +1,0 @@
-36. § Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvény 2. § (7) bekezdésében a „jogerősen” szövegrész helyébe a „véglegesen vagy jogerősen” szöveg, a „jogerős” szövegrész helyébe a „végleges vagy jogerős” szöveg, a „jogerőre” szövegrész helyébe a „véglegessé vált vagy jogerőre” szöveg lép.

@@ -1,1 +1,0 @@
-16. § A volt egyházi ingatlanok tulajdoni helyzetének rendezéséről szóló 1991. évi XXXII. törvény 16. § (3) bekezdésében a „határozat bírósági felülvizsgálatát kérték” szövegrész helyébe a „határozatot közigazgatási perben megtámadták” szöveg lép.

@@ -1,1 +1,0 @@
-111. § Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 32/E. § (8b) bekezdésében a „jogerős” szövegrész helyébe a „végleges” szöveg lép.

@@ -1,1 +1,0 @@
-145. § A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 95/A. § (1) bekezdésében a „miniszter rendeletében” szövegrész helyébe a „kormányrendeletben” szöveg lép.
