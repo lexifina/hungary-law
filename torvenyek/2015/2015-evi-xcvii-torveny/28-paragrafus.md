@@ -14,13 +14,15 @@ f) a piaci árinformációs rendszer működését, az adatszolgáltatás tartal
 
 g) a tesztüzemi információs rendszer működését érintő szabályokat;
 
-h) a termésbecsléssel kapcsolatos adatszolgáltatás részletes szabályait;
+h) a termésbecsléssel, az állapotminősítéssel, valamint a mezőgazdasági munkákról szóló jelentéssel kapcsolatos adatszolgáltatás részletes szabályait;
 
 i) az agrártámogatás igénybevevőjét terhelő adatszolgáltatás részletes szabályait;
 
 j) a Rendelet V. rész I. Fejezetében meghatározott rendkívüli intézkedések tagállami végrehajtási szabályait;
 
-k) a termelői szervezetekkel kapcsolatos, az egyes ágazatokra vonatkozó gazdasági térségeket
+k) a termelői szervezetekkel kapcsolatos, az egyes ágazatokra vonatkozó gazdasági térségeket;
+
+l) a nemzeti minőségrendszerek, valamint az önkéntes mezőgazdasági-termék tanúsítási rendszerek elismerésére, felfüggesztésére, visszavonására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

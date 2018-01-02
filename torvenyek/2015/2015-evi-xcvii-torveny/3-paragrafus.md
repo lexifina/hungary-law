@@ -4,7 +4,7 @@
 
 ## 3. Fizetési határidő
 
-3. § (1) A termelő és feldolgozó, illetve felvásárló viszonylatában a mezőgazdasági és élelmiszer-ipari termék ellenértékének kifizetése az áru átvételétől számított harminc napot nem haladhatja meg, amennyiben a helyesen kiállított számla a feldolgozó, illetve felvásárló részére az átvételt követő tizenöt napon belül átadásra kerül. Ha a termelő a helyesen kiállított számlát az átvételt követő tizenöt napon túl bocsátja a feldolgozó, illetve felvásárló rendelkezésére, a termék ellenértékét a helyesen kiállított számla kézhezvételétől számított tizenöt napon belül kell kifizetni. A mezőgazdasági és élelmiszer-ipari termék ellenértékének kifizetésére egyebekben a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) Hatodik Könyve IX. Fejezetének a pénztartozás teljesítésére vonatkozó rendelkezéseit kell alkalmazni.
+3. § (1) A termelő, a feldolgozó, a felvásárló, valamint a forgalmazó viszonylatában a mezőgazdasági és élelmiszer-ipari termék ellenértékének kifizetése az áru átvételétől számított harminc napot nem haladhatja meg, amennyiben a helyesen kiállított számla a feldolgozó, a felvásárló, illetve a forgalmazó részére az átvételt követő tizenöt napon belül átadásra kerül. Ha a helyesen kiállított számlát az átvételt követő tizenöt napon túl bocsátják rendelkezésére, a termék ellenértékét a helyesen kiállított számla kézhezvételétől számított tizenöt napon belül kell kifizetni.
 
 (2) Amennyiben az (1) bekezdésben meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a fizetésre kötelezett köteles a termék ellenértékét a Ptk.-ban meghatározott késedelmi kamattal, de legalább a jegybanki alapkamat kétszeresével növelt kamattal megfizetni.
 

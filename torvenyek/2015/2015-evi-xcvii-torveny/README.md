@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-97-00-00
 | 2017-01-01 | 2016. évi CXXVII. törvény | 2015-97-00-00.3 |
 | 2017-06-16 | 2017. évi LXIV. törvény | 2015-97-00-00.4 |
 | 2018-01-01 | 2017. évi L. törvény | 2015-97-00-00.5 |
+| 2018-01-02 | 2017. évi CLXXXIII. törvény | 2015-97-00-00.6 |
