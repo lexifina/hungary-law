@@ -1,5 +1,0 @@
-## 2. § A THB rendelet 2. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Ha az azonosítást végző szerv nem a beszélgetésbe bevont személy pillanatnyi tartózkodási helye szerint illetékes, fővárosi és megyei kormányhivatal áldozatsegítő szolgálatként eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: területi áldozatsegítő szolgálat), és az azonosítást végző szerv megállapítja, hogy a beszélgetésbe bevont személy valószínűsíthetően emberkereskedelem áldozata, erről a tényről az azonosító adatlapnak az Igazságügyi Minisztérium által országosan, egységesen működtetett webalapú rendszeren (a továbbiakban: Rendszer) keresztül történő egyidejű megküldésével, haladéktalanul értesíti a területi áldozatsegítő szolgálatot. A területi áldozatsegítő szolgálat a nem a Rendszeren keresztül beérkezett, valamint az általa az azonosítás során felvett azonosító adatlapokat is haladéktalanul rögzíti a Rendszerbe. Az adatlapoknak a Rendszerben történő rögzítésére minden esetben az érintett személy írásos hozzájárulása esetén kerül sor.”
-
-3. § Ez a rendelet 2018. január 1-jén lép hatályba.
