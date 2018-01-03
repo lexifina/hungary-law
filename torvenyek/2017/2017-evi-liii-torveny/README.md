@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-53-00-00
 | 2017-12-28 | 2017. évi CXCIX. törvény | 2017-53-00-00.4 |
 | 2018-01-01 | 2017. évi CXXXVI. törvény | 2017-53-00-00.5 |
 | 2018-01-02 | 2010. évi CXXX. törvény | 2017-53-00-00.6 |
+| 2018-01-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-53-00-00.7 |
