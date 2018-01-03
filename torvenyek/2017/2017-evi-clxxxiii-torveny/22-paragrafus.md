@@ -1,3 +1,0 @@
-22. § A Termékpiaci tv. 5. alcíme a következő 7/B. §-sal egészül ki:
-
-„7/B. § A termelő, a feldolgozó, a felvásárló, valamint a forgalmazó viszonylatában értékesített friss, illetve gyorsan romló mezőgazdasági és élelmiszer-ipari termék vonatkozásában a felek között létrejött írásbeli szerződésben meghatározott fogyaszthatósági vagy minőség megőrzési idő leteltét követően, erre vonatkozó szerződéses rendelkezés hiányában a termék birtokba vételét követően minőségi kifogásnak nincs helye.”
