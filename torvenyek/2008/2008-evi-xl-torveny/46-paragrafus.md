@@ -1,6 +1,6 @@
 ## Szervezett földgázpiac
 
-46. § (1) A szervezett földgázpiacon tárolói kapacitás és földgáz vételére és eladására irányuló ügylet köthető, függetlenül attól, hogy azokat pénzben kell kiegyenlíteni, vagy az ügyletben részt vevő felek valamelyikének választása szerint – a szervezett földgázpiaci szabályzattal és az Üzemi és Kereskedelmi Szabályzattal összhangban – fizikai leszállítással kell teljesíteni.
+46. § (1)
 
 (2) A szervezett földgázpiacon a kereskedési platform vagy egyensúlyozó platform azon tagja köthet ügyletet, aki
 
