@@ -1,0 +1,1 @@
+## 6. § A szolgáltató biztosítja az érintett szolgáltatást nyújtó alkalmazottak képzési programokon való részvételét szakmai képességeik és kompetenciáik naprakész biztosítása és folyamatos értékelése céljából.
