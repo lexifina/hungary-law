@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-131-00-00
 | --- | --- | --- |
 | 2016-12-06 | 2016. évi CXXXI. törvény | 2016-131-00-00.0 (közlönyállapot) |
 | 2016-12-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-131-00-00.1 |
+| 2018-01-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-131-00-00.2 |
