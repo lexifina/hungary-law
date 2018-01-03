@@ -1,6 +1,6 @@
 40. § (1) Az MNB a 39. § (3) bekezdésében meghatározott feladatai során ellátja a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet végrehajtását.
 
-(2) Az MNB a 39. § (1) bekezdés l) pontjában meghatározott feladatai során ellátja a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások nyilvántartás-vezetési kötelezettségei, az ügyletek bejelentése, a piac átláthatósága, a pénzügyi eszközök piaci bevezetése, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló, 2006. augusztus 10-i 1287/2006/EK bizottsági rendelet végrehajtását.
+(2) Az MNB a 39. § (1) bekezdés l) pontjában meghatározott feladatai során ellátja a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
 
 (3) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet végrehajtását.
 
@@ -37,6 +37,10 @@
 (19) Az MNB a 39. § (1) bekezdés o) pontjában meghatározott feladatai során ellátja a kártyaalapú fizetési műveletek bankközi jutalékairól szóló, 2015. április 29-i 2015/751/EU parlamenti és tanácsi rendelet végrehajtásából származó feladatokat.
 
 (20) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
+
+(21) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendelet végrehajtását.
+
+(22) Az MNB a 39. § (1) bekezdés l) pontjában meghatározott feladatai során ellátja a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelet végrehajtását.
 
 (23) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról szóló, 2016. június 8-i (EU) 2016/1011 európai parlamenti és tanácsi rendelet végrehajtását.
 

@@ -84,6 +84,12 @@ af) azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsát�
 
 ag) a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
 
+ah) a Bszt. 26/A. § (4) bekezdése alapján hozott engedélyről és az abban bekövetkezett változásról,
+
+ai) a Tpt. 310/A. § (10) bekezdése alapján hozott engedélyről és az abban bekövetkezett változásról,
+
+aj) a Bszt. 154/H. §-a alapján hozott engedélyről és az abban bekövetkezett változásról,
+
 ak) az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről,
 
 ax) a belső piac integritásának védelme és alternatív finanszírozási forma felkutatása érdekében.

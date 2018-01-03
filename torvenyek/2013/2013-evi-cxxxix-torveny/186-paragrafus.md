@@ -16,7 +16,9 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 
 a) (1) bekezdése a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet 15. cikk (3) bekezdésének,
 
-b) (2) bekezdése a 2004/39/EK európai parlamenti és tanácsi rendeletnek a befektetési vállalkozások nyilvántartás-vezetési kötelezettségei, az ügyletek bejelentése, a piac átláthatósága, a pénzügyi eszközök piaci bevezetése, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló, 2006. augusztus 10-i 1287/2006/EK bizottsági rendelet,
+b) (2) bekezdése a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet,
+
+c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
 
 c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
 
@@ -33,6 +35,10 @@ h) (20) bekezdése a piaci visszaélésekről (piaci visszaélésekről szóló 
 i) (24) bekezdése az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2015. november 25-i (EU) 2015/2365 európai parlamenti és tanácsi rendelet,
 
 j) (23) bekezdése a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról szóló, 2016. június 8-i (EU) 2016/1011 európai parlamenti és tanácsi rendelet,
+
+k) (21) bekezdése a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendelet,
+
+l) (22) bekezdése a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 
