@@ -1,3 +1,1 @@
-27. §[^10]
-
-[^10]: A 27. § a 25. § (2) bekezdése alapján 2018. január 3-án lép hatályba.
+27. § Hatályát veszti a befektetési és az árutőzsdei szolgáltatási tevékenység, az értékpapír letéti őrzés, az értékpapír letétkezelés, valamint az elszámolóházi tevékenység végzéséhez szükséges személyi, tárgyi, technikai és biztonsági feltételekről szóló 283/2001. (XII. 26.) Korm. rendelet.

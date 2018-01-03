@@ -1,4 +1,4 @@
-## 24. §[^9]
+## 24. §[^10]
 
 ## 10. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 27. § 2018. január 3-án lép hatályba.
 
-[^9]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
