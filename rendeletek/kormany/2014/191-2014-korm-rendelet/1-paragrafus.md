@@ -1,6 +1,6 @@
 ## 1. Árverésre irányuló megkeresés
 
-1. § (1)[^1] Ha végrehajtási, felszámolási, vagy önkormányzati adósságrendezési eljárásban mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld) értékesítése iránt kell intézkedni, a végrehajtó, a felszámoló, vagy a pénzügyi gondnok (a továbbiakban együtt: megkereső) az értékesítés feltételeinek bekövetkeztétől számított 30 napon belül az árverés kitűzése, az árverési vagy értékesítési hirdetmény (a továbbiakban együtt: árverési hirdetmény) közzététele, továbbá az árverés vagy értékesítés (a továbbiakban együtt: árverés) lefolytatása érdekében megkeresi a föld fekvése szerint illetékes megyei kormányhivatal mezőgazdasági igazgatási szervként végrehajtási, felszámolási és önkormányzati adósságrendezési feladatkörében eljáró megyeszékhely szerinti járási hivatalát (a továbbiakban: mezőgazdasági igazgatási szerv).
+1. § (1)[^1] Ha végrehajtási, felszámolási, vagy önkormányzati adósságrendezési eljárásban mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld) értékesítése iránt kell intézkedni, a végrehajtó, a felszámoló, vagy a pénzügyi gondnok (a továbbiakban együtt: megkereső) az értékesítés feltételeinek bekövetkeztétől számított 60 napon belül az árverés kitűzése, az árverési vagy értékesítési hirdetmény (a továbbiakban együtt: árverési hirdetmény) közzététele, továbbá az árverés vagy értékesítés (a továbbiakban együtt: árverés) lefolytatása érdekében megkeresi a föld fekvése szerint illetékes megyei kormányhivatal mezőgazdasági igazgatási szervként végrehajtási, felszámolási és önkormányzati adósságrendezési feladatkörében eljáró megyeszékhely szerinti járási hivatalát (a továbbiakban: mezőgazdasági igazgatási szerv).
 
 (1a)[^2] A Kormány az (1) bekezdés szerinti mezőgazdasági igazgatási szervi feladatok ellátása során Csongrád megye illetékességi területére kiterjedően a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát jelöli ki.
 
@@ -24,7 +24,10 @@ h) felszámolási eljárásban, önkormányzati adósságrendezési eljárásban
 
 i) a földrészlettel együtt nyilvántartott épület, építmény árverezők számára történő megtekintésének lehetőségét, annak módját és feltételeit.
 
+(2a)[^3] A megkeresőnek igazolnia kell, hogy eleget tett a 17. §-ban és a Vht. 140. § (2) bekezdésében foglaltaknak.
+
 (3) Ha a becsérték felülvizsgálatát felszámolási eljárásban a hitelezői választmány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 49. § (2) bekezdése alapján kezdeményezte, a bíróság által jóváhagyott becsértéket kell a megkeresésben feltüntetni.
 
-[^1]: Az 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 274. §-a szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 274. §-a, az 523/2017. (XII. 29.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1a) bekezdését az 52/2017. (III. 20.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^3]: Az 1. § (2a) bekezdését az 523/2017. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
