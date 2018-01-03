@@ -1,7 +1,7 @@
-119. § Hatályát veszti a Tv.
+119. §
 
 a)–m)
 
-n) 62. § (1) bekezdés a), b) és f) pontja, (2) és (4) bekezdése,
+n)
 
 o)–p)
