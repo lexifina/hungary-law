@@ -1,3 +1,3 @@
 ## 42. Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosítása
 
-91–92. §
+### 91. §
