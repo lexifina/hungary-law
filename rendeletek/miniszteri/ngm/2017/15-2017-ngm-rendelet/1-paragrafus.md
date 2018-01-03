@@ -1,0 +1,3 @@
+1. § (1) E rendelet hatálya kiterjed a befektetési szolgáltatási tevékenységet, illetve a kiegészítő szolgáltatást végző befektetési vállalkozásra, a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerinti hitelintézetre (a továbbiakban: hitelintézet), befektetési alapkezelőre, azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott hitelintézetet, illetve befektetési alapkezelőt is érteni kell.
+
+(2) E rendeletet a befektetési vállalkozásra és hitelintézetre abban az esetben is alkalmazni kell, ha az az ügyfeleinek strukturált betétet értékesít, vagy azzal kapcsolatos tanácsadást nyújt, azzal, hogy ahol e rendelet pénzügyi eszközt említ, ott strukturált betétet is érteni kell.
