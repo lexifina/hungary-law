@@ -16,6 +16,6 @@ c) a villamosenergia-kereskedő, valamint a rendszerszintű szolgáltatások és
 
 (3) A szervezett villamosenergia-piacon forgalmazott termék, ügylettípus vagy kereskedési módszer bevezetésére, megváltoztatására, kivezetésére a kereskedelmi szabályzat, a nemzetközi üzemi és kereskedelmi szabályzat, valamint a szervezett villamosenergia-piaci szabályzat rendelkezései irányadók.
 
-(4) A szervezett villamosenergia-piacon végezhető származékos ügyletekre, továbbá más energiahordózónak, az energiaellátáshoz kapcsolódó egyéb terméktípusnak vagy vagyoni értékű jognak a szervezett villamosenergia-piacra történő bevezetésére, valamint az azokkal való kereskedelemre vonatkozó rendelkezéseket – az e törvényben meghatározottakkal összhangban – külön jogszabály tartalmazza.
+(4) A szervezett villamosenergia piacon kizárólag a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelete 7. cikk (2) bekezdése szerinti azonnali ügylet köthető.
 
 (5) Külön jogszabály meghatározott mértékű és feltételek szerinti értékesítési kötelezettséget írhat elő a szervezett villamosenergia-piacon.

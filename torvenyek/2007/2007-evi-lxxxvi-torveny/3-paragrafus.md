@@ -166,7 +166,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 55. Szélerőmű park: ugyanazon ügyfél vagy egy engedélyes üzemeltetésében lévő azon szélerőművek összessége, amelyek az átviteli vagy elosztó hálózathoz ugyanazon csatlakozási ponton kapcsolódnak;
 
-56. Szervezett villamosenergia-piac: a szervezett villamosenergia-piaci engedélyes által működtetett, a regionális villamosenergia-forgalmat elősegítő kereskedési rendszer, amelyben az energiakereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik;
+56. Szervezett villamosenergia-piac: a szervezett villamosenergia-piaci engedélyes által működtetett, a regionális villamosenergia-forgalmat elősegítő kereskedési rendszer, amelyben a villamosenergia-kereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik;
 
 57. Termelés: a villamos energia előállítása;
 
