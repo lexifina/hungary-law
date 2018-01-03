@@ -1,0 +1,3 @@
+50. § A Bszt. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az 5. § (1) bekezdésének a)–d), valamint f)–i) pontjában meghatározott befektetési szolgáltatási tevékenységet végző, továbbá az 5. § (2) bekezdésének a) és b) pontjában meghatározott kiegészítő szolgáltatást nyújtó befektetési vállalkozás és a 9. § (1) bekezdésében meghatározott tevékenységet végző árutőzsdei szolgáltató kialakítja a tevékenysége ellátásához használt informatikai rendszer biztonságával kapcsolatos szabályozási rendszerét, valamint gondoskodik az informatikai rendszer kockázatokkal arányos védelméről.”
