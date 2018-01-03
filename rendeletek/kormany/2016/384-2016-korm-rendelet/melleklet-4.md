@@ -1,4 +1,4 @@
-4. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^26]
+4. melléklet a 384/2016. (XII. 2.) Korm. rendelethez[^27]
 
 A hatósággal szemben felmerülő kizárási ok miatt másodfokú földvédelmi hatáskörben eljáró, továbbá földvédelmi szakkérdésben szakértőként kirendelhető megyei kormányhivatalok illetékességi területe
 
@@ -46,4 +46,4 @@ A hatósággal szemben felmerülő kizárási ok miatt másodfokú földvédelmi
 
 | 20. | Tolna Megyei Kormányhivatal | Fejér, Veszprém |
 
-[^26]: A 4. melléklet a 457/2017. (XII. 28.) Korm. rendelet 593. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^27]: A 4. melléklet a 457/2017. (XII. 28.) Korm. rendelet 593. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
