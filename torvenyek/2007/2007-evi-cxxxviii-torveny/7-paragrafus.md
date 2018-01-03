@@ -4,4 +4,8 @@
 
 (3) A harmadik országban székhellyel rendelkező befektetési vállalkozás tevékenységét Magyarország területén fióktelepén keresztül végezheti.
 
-(4) A más EGT-államban székhellyel rendelkező befektetési vállalkozás Magyarország területén határon átnyúló tevékenységet végezhet.
+(4) A más EGT-államban székhellyel rendelkező befektetési vállalkozás
+
+a) tevékenységét Magyarország területén fióktelepén keresztül végezheti vagy
+
+b) Magyarország területén határon átnyúló tevékenységet végezhet.

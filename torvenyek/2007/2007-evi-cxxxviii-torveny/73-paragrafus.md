@@ -1,19 +1,15 @@
 ## A rendszeres internalizálás
 
-73. § (1) A befektetési vállalkozás a szabályozott piacra bevezetett részvények esetében rendszeres internalizálást folytathat.
+73. § (1) A rendszeres internalizáló fogalmának 4. § (2) bekezdés 56. pontja szerinti meghatározásában szereplő gyakoriság és rendszeresség teljesülését azon tőzsdén kívüli kötések számával kell mérni, amelyeket a befektetési vállalkozás az adott pénzügyi eszközt illetően az ügyfélmegbízások végrehajtásakor saját számlára teljesít.
 
-(2) Az (1) bekezdésben meghatározott rendszeres internalizáló azon részvények esetében, amelyek piaca a Bizottság 1287/2006/EK rendeletében meghatározott feltételek alapján likvidnek tekinthető, s amelyek tekintetében rendszeres internalizálást folytat, a kereskedési napok mindegyikén – figyelemmel a (6) bekezdésben foglaltakra – vételi és eladási árfolyamot közöl, az általa elfogadott, de a (3) bekezdés szerint számított szokásos piaci ügyletméretet meg nem haladó mennyiségekre vonatkozóan.
+(2) A jelentős nagyságrendet
 
-(3) A (2) bekezdés szerinti szokásos piaci ügyletméret meghatározása során a rendszeres internalizáló az egyes részvényekre vonatkozóan az adott piacon végrehajtott ügyletek értékének számtani átlaga alapján csoportokba sorolja azokat a részvényeket, amelyek tekintetében rendszeres internalizálást folytat, és az így kialakított, egyes részvénycsoportokra vonatkozó átlagértékeket tekinti szokásos piaci ügyletméretnek az adott részvénycsoportba sorolt részvények vonatkozásában.
+a) a befektetési vállalkozás által egy adott pénzügyi eszköz tekintetében végzett tőzsdén kívüli kereskedésnek az összes kereskedéshez viszonyított méretével vagy
 
-(4) Egy adott részvény piacaként az ezen részvényt érintő, az EGT-államok területén lévő végrehajtási helyszínen végrehajtott összes megbízást kell tekinteni, ide nem értve az adott részvény szokásos piaci ügyletméretét meghaladó méretű ügyleteket.
+b) az adott pénzügyi eszközt illetően a befektetési vállalkozás által végzett tőzsdén kívüli kereskedésnek az Európai Unión belüli összes kereskedéshez viszonyított méretével
 
-(5) A Felügyelet azon részvény esetében, melynek likviditás szempontjából leginkább érintett piacát felügyeli, a Bizottság 1287/2006/EK rendeletében meghatározott feltételek alapján legalább évente meghatározza azt a részvényosztályt, amelybe az tartozik, az adott piacon az adott részvényre vonatkozóan végrehajtott megbízások számtani átlagértéke alapján. Ezt az információt honlapján az összes piaci résztvevő számára közzéteszi, valamint továbbítja az Európai Értékpapír-piaci Hatóságnak.
+kell mérni.
 
-(6) A rendszeres internalizáló a (2) bekezdés szerinti vételi és eladási árfolyamokat az érvényes piaci helyzetnek megfelelően alakítja ki, valamint
+(3) Ahhoz, hogy egy befektetési vállalkozás rendszeres internalizálónak minősüljön, mindkét előre meghatározott küszöbértéket – azaz egyrészről a gyakoriság és rendszeresség küszöbértékét, másrészről a jelentős nagyságrendre vonatkozó küszöbértéket is – túl kell lépnie, vagy úgy kell döntenie, hogy részt vesz a rendszeres internalizálókra vonatkozó rendszerben.
 
-a) olyan formában teszi közzé, hogy az a piaci szereplők számára a lehető legkönnyebben hozzáférhető legyen, és az információért kért ár mértéke se akadályozza meg a hozzáférést (ésszerű üzleti alapon való közzététel követelménye),
-
-b) folyamatosan aktualizálja, és
-
-c) ha a kivételes piaci feltételek ezt indokolják, vissza is vonhatja.
+(4) Az egyes pénzügyi eszközök tekintetében egy befektetési vállalkozás rendszeres internalizálónak a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 12–17. cikkében meghatározott feltételek esetén minősül. Az a befektetési vállalkozás, amely rendszeres internalizálónak minősül, ezt bejelenti a Felügyeletnek.

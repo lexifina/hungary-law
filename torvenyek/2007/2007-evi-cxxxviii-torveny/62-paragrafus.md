@@ -12,24 +12,20 @@ c) a megbízás végrehajtásának időigényét,
 
 d) a megbízás végrehajthatóságának és teljesítésének valószínűségét, és
 
-e) a megbízás nagyságrendjét.
+e) a megbízás nagyságrendjét,
 
-(2a) A (2) bekezdésben felsorolt tényezők fontosságának meghatározásánál a befektetési vállalkozás a következő szempontokat vizsgálja:
+f) a megbízás jellegét vagy bármely más, a megbízás végrehajtása szempontjából releváns megfontolást.
 
-a) a megbízás tárgyát képező pénzügyi eszköz tulajdonságait,
-
-b) a megbízás természetét,
-
-c) az ügyfél 47–49. § szerinti minősítését, és
-
-d) azon szabályozott piac, multilaterális kereskedési rendszer, rendszeres internalizáló, árjegyző vagy egyéb más, a likviditás biztosítására létrejött személy vagy szervezet, illetve ezekhez hasonló funkciót ellátó harmadik országbeli személy vagy szervezet (a továbbiakban: végrehajtási helyszín) tulajdonságait, amelyekhez a megbízás továbbítható.
+(2a) A (2) bekezdésben felsorolt tényezők fontosságának meghatározásánál a befektetési vállalkozás a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 64. cikkében meghatározott szempontokat vizsgálja.
 
 (3) Ha a befektetési vállalkozás lakossági ügyfél megbízását hajtja végre, akkor minden, az ügyfelet terhelő költséget figyelembe vesz az (1) bekezdésben meghatározott, az ügyfél számára legkedvezőbb végrehajtási lehetőség megállapításakor.
 
-(4) Az ügyfél számára legkedvezőbb végrehajtási lehetőség megállapítására vonatkozó vizsgálat során, ha a megbízás több, a befektetési vállalkozás 63. § (1) bekezdése szerinti szabályzatában felsorolt végrehajtási helyszínen is teljesíthető, a befektetési vállalkozás – az (5) bekezdésben foglaltakra figyelemmel – az összehasonlításban figyelembe veszi az egyes végrehajtási helyszínekhez kapcsolódó saját jutalékait és egyéb, a végrehajtással összefüggő költségeit.
+(4) Az ügyfél számára legkedvezőbb végrehajtási lehetőség megállapítására vonatkozó vizsgálat során, ha a megbízás több, a befektetési vállalkozás 63. § (1) bekezdése szerinti szabályzatában felsorolt – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 64. cikk (1) bekezdésében meghatározott – végrehajtási helyszínen is teljesíthető, a befektetési vállalkozás – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 64. cikk (3) bekezdésében foglaltakra figyelemmel – az összehasonlításban figyelembe veszi az egyes végrehajtási helyszínekhez kapcsolódó saját jutalékait és egyéb, a végrehajtással összefüggő költségeit.
 
-(5) A befektetési vállalkozás az egyes végrehajtási helyszínekhez kapcsolódó saját jutalékait és egyéb, a végrehajtással összefüggő költségeit nem határozhatja meg úgy, hogy azzal a (4) bekezdés szerinti összehasonlítás során az egyes végrehajtási helyszínek között indokolatlan és méltánytalan különbséget eredményezzen.
+(5) A befektetési vállalkozás nem fogadhat el semmilyen díjazást, kedvezményt vagy nem pénzbeli előnyt annak ellentételezéséül, hogy az ügyfél megbízásait egy meghatározott végrehajtási helyszínre irányítja.
 
 (6) Ha a befektetési vállalkozás a (2) bekezdésben foglalt szempont vonatkozásában az ügyféltől határozott utasítást kapott, a megbízást ezen utasításnak megfelelően hajtja végre.
 
-(7) Az ügyfél kérésére a befektetési vállalkozás írásban, a végrehajtási politikában foglalt rendelkezések alkalmazásának bemutatásával igazolja, hogy az ügyfél megbízását a végrehajtási politikában foglaltaknak megfelelően hajtotta végre.
+(7) Az ügyfél kérésére a befektetési vállalkozás a végrehajtási politikában foglalt rendelkezések alkalmazásának bemutatásával igazolja, hogy az ügyfél megbízását a végrehajtási politikában foglaltaknak megfelelően hajtotta végre, és a Felügyelet kérésére igazolja, hogy e §-ban és a 63. §-ban foglaltaknak megfelelően járt el.
+
+(8) A befektetési vállalkozás a megbízás ügyfél nevében történő végrehajtását követően tájékoztatja az ügyfelet a megbízás végrehajtásának helyszínéről. A befektetési vállalkozás rendszeres időközönkénti jelentésében részletezi az egyes pénzügyi eszközökre vonatkozóan az árat, a végrehajtás gyorsaságát és valószínűségét.

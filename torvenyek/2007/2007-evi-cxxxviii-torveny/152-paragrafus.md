@@ -1,9 +1,3 @@
-152. § (1) A multilaterális kereskedési rendszer működtetője a kereskedést megelőzően a Bizottság 1287/2006/EK rendelete szerint – figyelemmel a (2) bekezdésben foglaltakra – közzéteszi a szabályozott piacra bevezetett részvények tekintetében
+152. § (1) Ha egy szabályozott piacra bevezetett átruházható értékpapírral MTF-en is kereskednek, de ehhez az értékpapír kibocsátója nem adta kifejezett hozzájárulását, a kibocsátót az MTF-fel szemben nem terheli a közzétételi kötelezettség.
 
-a) az érvényes vételi és eladási árfolyamot olyan módon, hogy az információért kért ár mértéke ne akadályozza meg az árfolyamhoz való hozzáférést (ésszerű üzleti alapon való közzététel követelménye),
-
-b) az egyes árfolyamokon keresett és kínált mennyiségeket.
-
-(2) A multilaterális kereskedési rendszer működtetője az (1) bekezdésben meghatározott információkat közérthető és értékelhető formában, a kereskedési rendszer nyitvatartási ideje alatt folyamatosan elérhetővé teszi a nyilvánosság számára.
-
-(3) A Felügyelet az (1) bekezdésben meghatározott közzétételi kötelezettség alól mentesítheti a multilaterális kereskedési rendszer működtetőjét, ha a Bizottság 1287/2006/EK rendeletében meghatározott feltételeknek megfelel.
+(2) Az MTF működtetője, valamint az MTF tagjai összehangolják valamennyi jelentendő esemény dátumának és idejének rögzítésére alkalmazott üzleti óráikat.

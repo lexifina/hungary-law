@@ -16,4 +16,4 @@ c)
 
 (4) A befektetési vállalkozás a (3) bekezdésben foglalt kötelezettségét – tevékenységének jellegére, terjedelmére és kockázataira figyelemmel – követelései és kötelezettségei lejárati időpontjainak és összegeinek megfelelő összhangjával, valamint az irányítási és kockázatkezelési követelmények teljesítésével biztosítja.
 
-(5) Az 5. § (1) bekezdés c) és f) pontja szerinti tevékenység végzésére engedéllyel nem rendelkező befektetési vállalkozásnak nem kell megfelelnie a (2) bekezdés c) pontjában meghatározott tőkekövetelménynek.
+(5)

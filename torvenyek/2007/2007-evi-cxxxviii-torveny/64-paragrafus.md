@@ -18,6 +18,6 @@ c) azzal az ügyfél érdekei sérülnének.
 
 (3) Ha a befektetési vállalkozás a (2) bekezdés a) pontja alapján az ügyfél megbízását nem hajtotta végre, és a megbízás szabályozott piacra bevezetett részvényre vonatkozik, akkor – a (4) bekezdésben foglalt kivétellel – ezen limitáras megbízást haladéktalanul nyilvánosságra hozza oly módon, hogy az más piaci szereplők számára könnyen hozzáférhető legyen, elősegítve ezzel a megbízás lehető leghamarabb történő végrehajtását, kivéve, ha az ügyfél ettől kifejezetten eltérő utasítást adott.
 
-(4) Nem kell a (3) bekezdésben foglaltakat teljesíteni abban az esetben, ha az ügyfél által adott megbízás az adott végrehajtási helyszínen a Bizottság 1287/2006/EK rendeletének 20. cikke alapján nagy méretűnek minősül.
+(4) Nem kell a (3) bekezdésben foglaltakat teljesíteni abban az esetben, ha az ügyfél által adott megbízás az adott kereskedési helyszínen a 600/2014/EU rendelet 4. cikkében megállapított szokásos piaci nagyságrendhez képest nagyobb limitáras megbízás.
 
-(5) Ha a befektetési vállalkozás a végrehajtott megbízás teljesítését is maga végzi vagy annak nyomonkövetéséért is felelősséget vállal, minden tőle elvárhatót megtesz annak érdekében, hogy a végrehajtott megbízás teljesítése során kapott, az ügyfél tulajdonát képező vagy őt megillető pénzügyi eszköz vagy pénzeszköz a megfelelő ügyfél megfelelő számláján haladéktalanul és pontosan jóváírásra kerüljön.
+(5) A befektetési vállalkozás az (1)–(4) bekezdésben foglaltakat a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 67. és 70. cikkében meghatározott rendelkezések figyelembevételével teljesíti.

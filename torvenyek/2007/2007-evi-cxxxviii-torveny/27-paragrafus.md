@@ -18,7 +18,15 @@ a) azt a tagállamot, amelyben a tevékenységét végezni kívánja,
 
 b) azon befektetési szolgáltatási tevékenységeket és kiegészítő szolgáltatásokat, amelyeket végezni, illetőleg nyújtani kíván, és
 
-c) arra vonatkozó szándékát, hogy kíván-e függő ügynököt igénybe venni.
+c) arra vonatkozó szándékát, hogy kíván-e függő ügynököt igénybe venni,
+
+d) a 112. § (1) bekezdés a) pontja szerinti függő ügynök személyét, amennyiben függő ügynököt kíván igénybe venni.
+
+(4a) Annak a befektetési vállalkozásnak, amely a 6. § j), illetve k) pontja szerinti pénzügyi eszköz bármelyikére vagy mindegyikére vonatkozóan kíván befektetési szolgáltatási tevékenységet illetve kiegészítő szolgáltatást más EGT-államban határon átnyúló tevékenységként, illetve szolgáltatásként végezni,
+
+a) a 6. § j) és k) pontja szerinti pénzügyi eszköz mindegyikére vonatkozóan rendelkeznie kell a végezni kívánt befektetési szolgáltatási tevékenység, illetve kiegészítő szolgáltatás végzésére vonatkozó felügyeleti engedéllyel, és
+
+b) a (4) bekezdés szerinti értesítésben 6. § j) és k) pontja szerinti pénzügyi eszköz vonatkozásában a 2014/65/EU irányelv I. melléklet C szakaszának 10. pontjára kell hivatkoznia.
 
 (5) A Felügyelet befektetési szolgáltatási tevékenység végzésére, illetőleg kiegészítő szolgáltatás nyújtására jogosító engedélyével rendelkező befektetési vállalkozás a tevékenységét akkor kezdheti meg más EGT-államban, ha a (4) bekezdés szerint a Felügyelethez küldött értesítése
 
@@ -39,6 +47,12 @@ c) arra vonatkozó szándékát, hogy kíván-e függő ügynököt igénybe ven
 d) a fióktelep tevékenységéért felelős vezetőket.
 
 Ha a befektetési vállalkozás fióktelepe a befektetési vállalkozás székhelyétől eltérő EGT-államban székhellyel, lakóhellyel (tartózkodási hellyel) rendelkező függő ügynököt kíván igénybe venni, akkor a függő ügynökre a fióktelepre vonatkozó rendelkezéseket kell alkalmazni.
+
+(7a) Annak a befektetési vállalkozásnak, amely más EGT-államban kíván fióktelepet létesíteni, és ez a fióktelep a 6. § j), illetve k) pontja szerinti pénzügyi eszköz bármelyikére vagy mindegyikére vonatkozóan kíván befektetési szolgáltatási tevékenységet illetve kiegészítő szolgáltatást végezni,
+
+a) a 6. § j) és k) pontja szerinti pénzügyi eszköz mindegyikére vonatkozóan rendelkeznie kell a végezni kívánt befektetési szolgáltatási tevékenység illetve kiegészítő szolgáltatás végzésére vonatkozó felügyeleti engedéllyel, és
+
+b) a (7) bekezdés szerinti értesítésben 6. § j) és k) pontja szerinti pénzügyi eszköz vonatkozásában a 2014/65/EU irányelv I. melléklet C szakaszának 10. pontjára kell hivatkoznia.
 
 (8) A Felügyelet befektetési szolgáltatási tevékenység végzésére és kiegészítő szolgáltatás nyújtására jogosító engedélyével rendelkező befektetési vállalkozás fióktelepe a működését akkor kezdheti meg más EGT-államban, amikor
 

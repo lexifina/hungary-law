@@ -16,4 +16,4 @@ bb) olyan vállalkozásnál töltenek be, amelyben az (1) bekezdésben meghatár
 
 (3) Az (1) bekezdésben meghatározott korlátozás nem terjed ki az olyan szervezetben betöltött ügyvezetői tisztségre, amely nem folytat üzleti jellegű tevékenységet.
 
-(4) A Felügyelet engedélyezheti az (1) bekezdésben meghatározott befektetési vállalkozás ügyvezetője számára, hogy a korlátozást meghaladóan további egy nem ügyvezetői tisztséget töltsön be.
+(4) A Felügyelet engedélyezheti az (1) bekezdésben meghatározott befektetési vállalkozás vezető testületének tagja és ügyvezetője számára, hogy a korlátozást meghaladóan további egy nem ügyvezetői tisztséget töltsön be.

@@ -28,7 +28,11 @@ rendeletben állapítsa meg.
 
 a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire,
 
-b) a hatósági képzés és vizsga szabályaira, a hatósági vizsga letételével szerzett, tőkepiaci üzletkötői tevékenység folytatására feljogosító tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére
+b) a hatósági képzés és vizsga szabályaira, a hatósági vizsga letételével szerzett, tőkepiaci üzletkötői tevékenység folytatására feljogosító tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
+
+c) a befektetési vállalkozás által alkalmazandó termék-jóváhagyási folyamatra,
+
+d) a befektetési szolgáltatási tevékenységhez illetve a kiegészítő szolgáltatáshoz kapcsolódó ösztönzőkre
 
 vonatkozó részletes szabályokat.
 

@@ -8,38 +8,24 @@ c) különösen ezek kockázataival
 
 kapcsolatos ismereteiről és tapasztalatairól, annak megítélése érdekében, hogy a befektetési vállalkozás valóban a számára megfelelő ügylettel vagy pénzügyi eszközzel kapcsolatos szolgáltatást nyújtsa.
 
-(2) Az (1) bekezdésben foglalt ismeret és tapasztalat értékelése (a továbbiakban: megfelelési teszt) során a befektetési vállalkozás
+(1a) A 41. § (9) bekezdése szerinti szolgáltatáscsomag vagy termékcsomag esetében az értékelés során azt kell vizsgálni, hogy a csomag egésze megfelelő-e az ügyfél vagy a leendő szerződő fél számára.
 
-a) feltárja a leendő szerződő fél vagy az ügyfél által ismert szolgáltatásokat, ügyleteket és pénzügyi eszközöket,
+(2) Az (1) bekezdésben foglalt ismeret és tapasztalat értékelése (a továbbiakban: megfelelési teszt) során a befektetési vállalkozás a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 55. és 56. cikkében meghatározottaknak megfelelően jár el.
 
-b) vizsgálja a leendő szerződő fél vagy az ügyfél pénzügyi eszközökkel végrehajtott ügyleteinek természetét, méretét és gyakoriságát, valamint azt, hogy ezen ügyletek milyen időtávon belül valósultak meg, és
+(3) Nem kell az (1) bekezdésben foglaltakat alkalmazni, ha a befektetési vállalkozás a leendő szerződő féllel vagy az ügyféllel az 5. § (1) bekezdés a) vagy b) pontjában foglaltakra köt megállapodást – kiegészítő szolgáltatások nyújtásával vagy azok nélkül, az 5. § (2) bekezdés c) pontja szerinti olyan hitelnyújtás kivételével, amely nem tartalmaz az ügyfél kölcsöneire, folyószámláira és folyószámlahiteleire vonatkozó hitelkeretet – és
 
-c) vizsgálja a leendő szerződő fél vagy az ügyfél iskolai végzettségét, foglalkozását vagy az értékelés szempontjából releváns korábbi foglalkozását.
+a) az ügylet tárgya olyan részvény, amelyet szabályozott piacra vagy azzal azonos feltételeknek megfelelő harmadik országbeli piacra, illetve multilaterális kereskedési rendszerre bevezettek, ide nem értve a Kbftv. szerinti ABA által részvény formában kibocsátott kollektív befektetési értékpapírt, valamint a származtatott eszközben foglalt részvényt vagy
 
-(3) Nem kell az (1) bekezdésben foglaltakat alkalmazni, ha a befektetési vállalkozás a leendő szerződő féllel vagy az ügyféllel az 5. § (1) bekezdésének a) vagy b) pontjában foglaltakra köt megállapodást és
+b) az ügylet tárgya olyan hitelviszonyt megtestesítő értékpapír vagy más értékpapírosított követelés, amelyet szabályozott piacra vagy azzal azonos feltételeknek megfelelő harmadik országbeli piacra, illetve multilaterális kereskedési rendszerre bevezettek, ide nem értve azokat az eszközöket, amelyek származtatott eszközöket foglalnak magukban, vagy amelyek szerkezetükből adódóan megnehezítik az ügyfél számára a kockázatok felmérését vagy
 
-a) az ügylet tárgya olyan részvény, amelyet szabályozott piacra vagy azzal azonos feltételeknek megfelelő harmadik országbeli tőzsdére bevezettek, továbbá pénzpiaci eszköz, hitelviszonyt megtestesítő értékpapír vagy más értékpapírosított követelés (ide nem értve azokat az eszközöket, amelyek származtatott elemeket tartalmaznak), valamint az ÁÉKBV által kibocsátott értékpapír vagy más nem komplex pénzügyi eszköz,
+c) az ügylet tárgya pénzpiaci eszköz, ide nem értve azokat az eszközöket, amelyek származtatott eszközöket foglalnak magukban, vagy amelyek szerkezetükből adódóan megnehezítik az ügyfél számára a kockázatok felmérését vagy
 
-b) az ügyletre vonatkozó megállapodást az ügyfél vagy leendő szerződő fél kezdeményezi,
+d) az ügylet tárgya ÁÉKBV által kibocsátott kollektív befektetési értékpapír, ide nem értve az 583/2010/EU rendelet 36. cikke (1) bekezdésének második albekezdése szerinti strukturált ÁÉKBV-ket vagy
 
-c) a befektetési vállalkozás egyidejűleg a leendő szerződő fél tudomására hozza, hogy ebben az esetben nem vizsgálja a szerződésben szereplő pénzügyi eszköz befektetési célok megvalósítására való alkalmasságát, azaz nem alkalmazza az (1) bekezdésében foglaltakat, így ennek következményei az ügyfél számára nem érvényesülnek,
+e) az ügylet tárgya strukturált betét, ide nem értve azokat, amelyek szerkezetükből adódóan megnehezítik az ügyfél számára a kockázatok felmérését vagy a termék lejárat előtti eladásának költségeit vagy
 
-d) a befektetési vállalkozás megfelel a 110. §-ban foglaltaknak.
+f) az ügylet tárgya egyéb – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 57. cikkében meghatározott feltételeknek megfelelő – nem összetett pénzügyi eszköz és
 
-(4) A (3) bekezdés a) pontja alkalmazásában nem-komplex pénzügyi eszköz az a pénzügyi eszköz, amely
+az ügyletre vonatkozó megállapodást az ügyfél vagy leendő szerződő fél kezdeményezi, és a befektetési vállalkozás egyidejűleg a leendő szerződő fél tudomására hozza, hogy ebben az esetben nem vizsgálja a szerződésben szereplő pénzügyi eszköz befektetési célok megvalósítására való megfelelőségét, azaz nem alkalmazza az (1) bekezdésében foglaltakat, így ennek következményei az ügyfél számára nem érvényesülnek, valamint a befektetési vállalkozás megfelel a 110. §-ban foglaltaknak.
 
-a) nem minősül olyan értékpapírnak, amely átruházható értékpapír megszerzésére vagy értékesítésére jogosít vagy amely átruházható értékpapír, deviza, kamatláb vagy hozammutató, áru, index vagy más hasonló, referenciaként értelmezhető intézkedés változásán alapul és készpénzben teljesítendő,
-
-b) nem minősül a 6. § d)–k) pontjaiban meghatározott eszköznek,
-
-c) értékesítésére, visszaváltására vagy hozamának egyéb módon történő realizálására gyakori és rendszeres lehetőség áll fenn nyilvános, piaci árnak minősülő vagy a pénzügyi eszköz kibocsátójától független ármeghatározó rendszer által közzétett árfolyamon,
-
-d) nem foglal magában a beszerzési költségét meghaladó tényleges vagy esetleges kötelezettséget az ügyfél számára,
-
-e) tekintetében, lényeges jellemzőire nézve olyan tartalmú és minőségű nyilvános információk állnak rendelkezésre, amelyek a lakossági ügyfél részére lehetővé teszik megalapozott befektetési döntés meghozatalát.
-
-(5) Nem kell az (1) bekezdésben foglaltakat alkalmazni, ha a befektetési vállalkozás az ügyféllel vagy a leendő szerződő féllel az 5. § (1) bekezdésének a)–c) pontjában foglaltakra köt megállapodást és az ügyfél elfogadható partnernek minősül.
-
-(6) Ha a befektetési vállalkozás az (1) bekezdésben meghatározott tevékenysége keretében szakmai ügyfélnek nyújt szolgáltatást, az (1) bekezdésben meghatározott feltételeket teljesítettnek tekinti azzal, hogy ha a szakmai ügyféllé minősítésre a 49. § (1) bekezdése szerint került sor, akkor ezt az ügyfél a 49. § (2) bekezdése szerinti kérelmében megjelölt pénzügyi eszköz és ügylet vonatkozásában kell alkalmazni.
-
-(7) Az (1) bekezdésben meghatározott megfelelési teszt végrehajtása során a befektetési vállalkozás nem támaszkodhat a leendő szerződő fél vagy az ügyfél által közölt információra, ha felismeri vagy fel kellene ismernie azt, hogy az információ nyilvánvalóan elavult, hibás vagy hiányos.
+(4)–(7)

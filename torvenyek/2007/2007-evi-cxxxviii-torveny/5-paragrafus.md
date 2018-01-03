@@ -22,13 +22,15 @@ f) pénzügyi eszköz elhelyezése az eszköz (értékpapír vagy egyéb pénzü
 
 g) pénzügyi eszköz elhelyezése az eszköz (pénzügyi eszköz) vételére vonatkozó kötelezettségvállalás nélkül, és
 
-h) multilaterális kereskedési rendszer működtetése.
+h) multilaterális kereskedési rendszer működtetése,
+
+i) szervezett kereskedési rendszer működtetése.
 
 (2) Kiegészítő szolgáltatásnak minősül
 
 a) a pénzügyi eszköz letéti őrzése és nyilvántartása, valamint az ehhez kapcsolódó ügyfélszámla vezetése,
 
-b) a letétkezelés, valamint az ehhez kapcsolódó értékpapírszámla vezetése, nyomdai úton előállított értékpapír esetében ennek nyilvántartása és az ügyfélszámla vezetése,
+b) a letétkezelés, valamint az ehhez kapcsolódó értékpapírszámla vezetése, nyomdai úton előállított értékpapír esetében ennek nyilvántartása és az ügyfélszámla vezetése, kivéve – a 909/2014/EU rendelet mellékletének A szakasz 2. pontja szerinti – felső szintű (központi) értékpapírszámla vezetését,
 
 c) a befektetési hitel nyújtása,
 

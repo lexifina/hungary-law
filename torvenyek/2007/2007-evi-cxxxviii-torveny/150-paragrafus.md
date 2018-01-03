@@ -1,6 +1,6 @@
 ## XXV. Fejezet
 
-## A MULTILATERÁLIS KERESKEDÉSI RENDSZER MŰKÖDÉSÉNEK SPECIÁLIS SZABÁLYAI
+## AZ MTF MŰKÖDÉSÉNEK SPECIÁLIS SZABÁLYAI
 
 ## A kereskedési rendszerhez történő megkülönböztetésmentes hozzáférés
 
@@ -14,13 +14,7 @@ c) a kereskedés és az ügyletkötés szabályait, ideértve a kereskedés felf
 
 d) az árképzés módját.
 
-(2) A multilaterális kereskedési rendszerben tag az a befektetési vállalkozás, hitelintézet és egyéb személy vagy szervezet lehet, amely
-
-a) megfelel a multilaterális kereskedési rendszerben való részvételre vonatkozó, (1) bekezdésben meghatározott szabályzatban foglalt feltételeknek,
-
-b) rendelkezik a szükséges személyi, tárgyi, technikai és szervezeti feltételekkel, és
-
-c) rendelkezik a kereskedés során végrehajtott ügyletek pénzügyi teljesítéséhez szükséges pénzeszközzel.
+(2) Az MTF tagja az a befektetési vállalkozás, hitelintézet és egyéb személy vagy szervezet lehet, amely megfelel a szabályozott piaci tagságra a Tpt.-ben előírt feltételeknek.
 
 (3) A multilaterális kereskedési rendszerben való tagságról szóló megállapodást a működtető és a leendő tag írásba foglalja.
 

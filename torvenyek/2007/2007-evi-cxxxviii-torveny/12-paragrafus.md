@@ -4,7 +4,7 @@
 
 ## Az informatikai rendszer
 
-12. § (1) Az 5. § (1) bekezdésének a)–d), valamint f)–h) pontjában meghatározott befektetési szolgáltatási tevékenységet végző, továbbá az 5. § (2) bekezdésének a) és b) pontjában meghatározott kiegészítő szolgáltatást nyújtó befektetési vállalkozás és a 9. § (1) bekezdésében meghatározott tevékenységet végző árutőzsdei szolgáltató kialakítja a tevékenysége ellátásához használt informatikai rendszer biztonságával kapcsolatos szabályozási rendszerét, valamint gondoskodik az informatikai rendszer kockázatokkal arányos védelméről.
+12. § (1) Az 5. § (1) bekezdésének a)–d), valamint f)–i) pontjában meghatározott befektetési szolgáltatási tevékenységet végző, továbbá az 5. § (2) bekezdésének a) és b) pontjában meghatározott kiegészítő szolgáltatást nyújtó befektetési vállalkozás és a 9. § (1) bekezdésében meghatározott tevékenységet végző árutőzsdei szolgáltató kialakítja a tevékenysége ellátásához használt informatikai rendszer biztonságával kapcsolatos szabályozási rendszerét, valamint gondoskodik az informatikai rendszer kockázatokkal arányos védelméről.
 
 (2) Az (1) bekezdés szerinti szabályozási rendszerben meg kell határozni az információ-technológiával szemben támasztott követelményeket, a használatából adódó biztonsági kockázatok felmérésére és kezelésére vonatkozó szabályokat az informatikai vállalatirányítás, a tervezés, a fejlesztés és a beszerzés, valamint az üzemeltetés, a monitorozás és független ellenőrzés területén.
 

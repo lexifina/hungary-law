@@ -16,7 +16,11 @@ g) a kockázati tőkealap és a kockázati tőkealap-kezelő,
 
 h) a magánnyugdíjpénztár és az önkéntes kölcsönös biztosító pénztár,
 
-i)
+i) helyi vállalkozás, amely
+
+ia) a 6. § l) pontjában meghatározott pénzügyi eszköz vagy az arra vonatkozó – a 6. §-ban meghatározott – származtatott pénzügyi eszköz vonatkozásában azon személy, amely az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvényben meghatározott kötelezettségének teljesítése érdekében vagy azzal összefüggésben kereskedik e pénzügyi eszközre,
+
+ib) a 6. § e)–g), valamint j) és k) pontjában meghatározott származtatott energiaügylet vonatkozásában azon személy, amely a Get., illetve a Vet. szerint földgáz- vagy villamosáram-kereskedést végez,
 
 j) a központi értéktár,
 
@@ -46,7 +50,7 @@ c) saját tőkéje legalább kétmillió euró.
 
 a) valamely EGT-állam kormánya,
 
-b) valamely EGT-állam helyi és a regionális önkormányzata,
+b) valamely EGT-állam regionális kormánya,
 
 c) az ÁKK Zrt. és valamely más EGT-államnak államadósság kezelését végző szervezete,
 

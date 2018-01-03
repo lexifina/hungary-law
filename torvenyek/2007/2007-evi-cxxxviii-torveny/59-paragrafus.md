@@ -11,3 +11,5 @@ b) a letéti őrzési tevékenységét illetően – a (3) bekezdésben foglalt 
 a) a pénzügyi eszköz vagy az azokkal összefüggő befektetési szolgáltatási tevékenység jellege miatt ez elengedhetetlen, vagy
 
 b) a befektetési vállalkozás a befektetési szolgáltatási tevékenysége vagy kiegészítő szolgáltatása keretében szakmai ügyfélnek nyújt szolgáltatást és a szakmai ügyfél írásban kifejezetten úgy rendelkezik, hogy az adott féllel kéri a pénzügyi eszköze letéti őrzésére vonatkozó megállapodás megkötését.
+
+(4) A befektetési vállalkozásnak a (2) és (3) bekezdésben előírt követelmények betartását abban az esetben is biztosítania kell, ha az ügyfél pénzügyi eszközének kezelésére illetve letéti őrzésére kiválasztott harmadik személy egy további harmadik személlyel köt megállapodást e feladatok végzésére.

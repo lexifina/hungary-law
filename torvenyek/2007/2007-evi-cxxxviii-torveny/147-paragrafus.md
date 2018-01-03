@@ -1,31 +1,33 @@
-147. § A kérelmező az 5. § (1) bekezdésének h) pontjában foglalt tevékenység végzésére jogosító engedély iránti kérelméhez a 28. §-ban foglaltakon túl mellékeli
+147. § A kérelmező az 5. § (1) bekezdés h), illetve i) pontjában foglalt tevékenység végzésére jogosító engedély iránti kérelméhez a 28. §-ban foglaltakon túl mellékeli
 
 a) a 150. § (1) bekezdésében meghatározott szabályzatok tervezetét,
 
-b) azon feltételeket, amelyek teljesítése esetén egy adott pénzügyi eszközzel a multilaterális kereskedési rendszerben kereskedni lehet,
+b) azon feltételeket, amelyek teljesítése esetén egy adott pénzügyi eszközzel az MTF-en, illetve az OTF-en kereskedni lehet,
 
-c) a multilaterális kereskedési rendszerrel és a kereskedéssel összefüggő nyilvánosan hozzáférhető információk körének leírását és a nyilvánosságra hozatal módját,
+c) az MTF-fel, illetve az OTF-fel és az e kereskedési helyszíneken történő kereskedéssel összefüggő nyilvánosan hozzáférhető információk körének leírását és a nyilvánosságra hozatal módját,
 
-d) a multilaterális kereskedési rendszer tagjaira vonatkozó feltételek ellenőrzésének eljárásrendjét,
+d) az MTF, illetve az OTF tagjaira, illetve résztvevőire vonatkozó feltételek ellenőrzésének eljárásrendjét,
 
 e) azon eljárás leírását, amely a bennfentes kereskedelem, piacbefolyásolás megelőzését, illetve azonosítását szolgálja,
 
-f) azon eljárás bemutatását, amely biztosítja az olyan érdekütközések kiküszöbölését, amelyek a multilaterális kereskedési rendszer működtetése és a multilaterális kereskedési rendszert működtető befektetési vállalkozás ügyfelei megbízásának végrehajtása során merül fel,
+f) azon eljárás bemutatását, amely biztosítja az MTF, illetve az OTF, a tulajdonosaik, vagy az MTF-et, illetve az OTF-et működtető befektetési vállalkozás vagy piacműködtető és az MTF, illetve az OTF hatékony és eredményes működése közötti érdekütközések következtében esetleg felmerülő – az MTF, illetve az OTF működtetését vagy a tagokat vagy résztvevőket és felhasználókat érintő – lehetséges káros következményeknek az azonosítását és kezelését,
 
-g) a működtetési vezető nevét,
+g) azon eljárás bemutatását, amely biztosítja a Tpt. 316/A. §-ában foglalt, a rendszerek rugalmasságára, a szüneteltetési mechanizmusokra, valamint az elektronikus kereskedésre vonatkozó előírásoknak való megfelelést,
 
-h) a kereskedés lebonyolításához szükséges, rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök megjelölését, részletes leírását,
+h) azon eljárás bemutatását, amely biztosítja a Tpt. 316/B. §-ában foglalt, az árlépésközre vonatkozó előírásoknak való megfelelést,
 
-i) azokat az igazolásokat, amelyek a rendszer biztonságát és megbízhatóságát, valamint az üzletfolytonosságot biztosítják, valamint az adatok bizalmas és teljes körű kezelését garantálják,
+i) a működtetési vezető nevét,
 
-j) a multilaterális kereskedési rendszer meghibásodásának esetére készített katasztrófatervet,
+j) a kereskedés lebonyolításához szükséges, rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök megjelölését, részletes leírását,
 
-k) a végrehajtott ügyletek elszámolásának és teljesítésének módját,
+k) azokat az igazolásokat, amelyek a rendszer biztonságát és megbízhatóságát, valamint az üzletfolytonosságot biztosítják, valamint az adatok bizalmas és teljes körű kezelését garantálják,
 
-l) a multilaterális kereskedési rendszerben végrehajtott ügyletek elszámolásának és teljesítésének biztosítása céljából kötött megállapodás másolatát,
+l) az MTF, illetve az OTF meghibásodásának, leállásának, valamint a kereskedési rendszer működését veszélyeztető körülmények felmerülésének esetére készített üzletmenet folytonossági tervet,
 
-m) a 144. § (4) bekezdésében meghatározott felelősségbiztosítási szerződést,
+m) a 144. § (3) bekezdésében meghatározott felelősségbiztosítási szerződést,
 
-n) a működtető és a multilaterális kereskedési rendszer tagja között kötendő mintaszerződés tervezetét, és
+n) a befektetési vállalkozás vagy a piacműködtető és az MTF, illetve az OTF tagja, illetve résztvevője között kötendő mintaszerződés tervezetét,
 
-o) a multilaterális kereskedési rendszer tagja számára nyújtandó információk tartalmára és az információtovábbítás módjára vonatkozó eljárási rendet.
+o) az MTF, illetve az OTF tagja illetve résztvevője számára nyújtandó információk tartalmára és az információtovábbítás módjára vonatkozó eljárási rendet és
+
+p) az információk továbbításra használt eszközök biztonságát garantáló, az adatsérülést és a jogosulatlan hozzáférést megelőző megoldások, illetve az ehhez szükséges erőforrások és tartalékrendszerek bemutatását, amennyiben az MTF, illetve az OTF a befektetési vállalkozás nevében ügyletbejelentést tesz a Felügyelet részére.

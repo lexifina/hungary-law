@@ -24,7 +24,7 @@ g) nem természetes személy kérelmező esetén a kérelem benyújtásakor hat�
 
 h) a kérelmező arra vonatkozó nyilatkozatát, hogy a minősített befolyás megszerzése a befektetési vállalkozás Magyarország területén található központi irodából történő irányítását nem veszélyezteti,
 
-i) nem természetes személy kérelmező esetén a kérelmező tulajdonosi szerkezetének részletes leírását,
+i) nem természetes személy kérelmező esetén a kérelmező tulajdonosi szerkezetének részletes leírását okirati bizonyítékokkal együtt, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását,
 
 j) a 28. § (1) bekezdésének t) és u) pontjában meghatározott nyilatkozatokat,
 
@@ -59,6 +59,8 @@ bb) amelyet fel kellett számolni, és akinek személyes felelősségét e helyz
 c) súlyosan vagy rendszeresen megsértette e törvény vagy más, a befektetési vállalkozás gazdálkodására vonatkozó jogszabály előírásait, és ezt a hatáskörrel rendelkező felügyeleti hatóság, más hatóság öt évnél nem régebben végleges vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította.
 
 (6) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja, ha a kérelmező, a befolyással rendelkező az (1)–(5) bekezdésekben meghatározott feltételeknek nem felel meg.
+
+(6a) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja, ha a kérelmező minősített befolyás szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok alapján pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt befolyásoló részesedés szerzése növelheti ennek kockázatát.
 
 (7) Egyesüléshez, minősített befolyás megszerzéséhez, valamint az alapszabálynak az igazgatóság jogkörét megváltoztató módosításához szükséges engedély megadása előtt, ha a befektetési vállalkozás összevont alapú felügyelet alá tartozik, illetve a befektetési vállalkozásra az összevont alapú felügyelet kiterjed, a Felügyelet – ha az összevont alapú felügyeleti feladatok ellátása miatt szükséges – a határozat meghozatala előtt egyeztet azon EGT-állam hatáskörrel rendelkező felügyeleti hatóságával, amelynek székhelyén olyan befektetési vállalkozás található, amelyre az engedélyezési kérelmet benyújtó befektetési vállalkozással együttesen az összevont alapú felügyelet kiterjed.
 

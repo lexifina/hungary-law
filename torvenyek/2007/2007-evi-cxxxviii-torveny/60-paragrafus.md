@@ -10,7 +10,7 @@ d) minősített pénzpiaci alapnál
 
 helyezi el.
 
-(2) Az (1) bekezdés d) pontja alkalmazásában minősített pénzpiaci alap az olyan kollektív befektetési forma, amely a székhelye szerinti állam hatáskörrel rendelkező felügyeleti hatóságától tevékenység végzésére jogosító engedélyt kapott és e hatóság felügyelete alatt áll, valamint
+(2) Az (1) bekezdés d) pontja alkalmazásában minősített pénzpiaci alap olyan, a Kbftv.-ben meghatározott ÁÉKBV, amely a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által engedélyezett, és e hatóság felügyelete alatt áll, valamint
 
 a) a befektetési tevékenységének elsődleges célja, hogy a nettó eszközérték ne csökkenjen a befektetés értéke alá,
 
@@ -18,9 +18,9 @@ b) a befektetési tevékenysége elsődleges céljának elérése érdekében ki
 
 c) a b) pontban foglalt elsődleges befektetési célja hitelintézeti letétekbe történő kiegészítő jellegű befektetésekkel is megvalósítható,
 
-d) a kollektív befektetési értékpapír visszaváltása esetén a pénzügyi teljesítés a visszaváltás napján vagy az azt követő napon megtörténik.
+d) az ÁÉKBV által kibocsátott kollektív befektetési értékpapír visszaváltása esetén a pénzügyi teljesítés a visszaváltás napján vagy az azt követő napon megtörténik.
 
-(3) A (2) bekezdés b) pontja alkalmazásában az a pénzpiaci eszköz tekinthető magas minősítésűnek, amely esetében minden a elismert hitelminősítő szervezet, amely az adott eszközt minősítette, a nála elérhető legmagasabb hitelminősítést adta.
+(3) A (2) bekezdés b) pontja alkalmazásában a pénzpiaci eszköz akkor tekinthető magas minősítésűnek, ha az ÁÉKBV-alapkezelő a pénzpiaci eszköz hitelminőségét illetően olyan dokumentált, saját értékelést végez, amelyre alapozva az adott pénzpiaci eszközt magas minőségűnek minősíti. Amennyiben az Európai Értékpapír-piaci Hatóság által nyilvántartásba vett és felügyelt, egy vagy több hitelminősítő intézet minősítette a pénzpiaci eszközt, az ÁÉKBV-alapkezelő saját belső értékelésének figyelemmel kell lennie többek között az ilyen hitelminősítésekre is.
 
 (4) Ha a befektetési vállalkozás az ügyfél pénzeszközét nem az (1) bekezdés a) pontja szerinti központi bankban helyezi el, akkor az (1) bekezdés b)–d) pontja szerinti intézményt a tőle elvárható gondossággal választja ki és rendszeresen, de legalább évente felülvizsgálja a pénzeszköz kezelésével megbízott intézménynél a pénzeszközök kezelésére vonatkozó előírások betartását.
 
@@ -30,4 +30,8 @@ a) szakértelemmel és jó hírnévvel rendelkezik, és
 
 b) megfelel az 57. § (1)–(3) bekezdésében foglaltaknak.
 
-(6) A befektetési vállalkozás az ügyfél pénzeszközét akkor helyezheti el minősített pénzpiaci alapban, ha ehhez az ügyfél kifejezetten, írásban hozzájárulását adta.
+(6) A befektetési vállalkozás az ügyfél pénzeszközét akkor helyezheti el minősített pénzpiaci alapban, ha ehhez az ügyfél kifejezetten, írásban hozzájárulását adta. A hozzájárulás megadása előtt, a befektetési vállalkozásnak tájékoztatnia kell az ügyfelet arról, hogy a minősített pénzpiaci alapnál elhelyezett pénzeszközöket nem az ügyféleszközök védelmére e törvényben meghatározott követelményeknek megfelelően tartják.
+
+(7) Ha a befektetési vállalkozás az ügyfelek pénzeszközeit a befektetési vállalkozással egy csoporthoz tartozó hitelintézetnél, banknál vagy pénzpiaci alapnál helyezi el, az ilyen csoporthoz tartozó vállalkozásnál vagy az ilyen csoporthoz tartozó vállalkozásoknál elhelyezett pénzeszközök nem haladhatják meg az összes szóban forgó pénzeszköz 20%-át.
+
+(8) A befektetési vállalkozás akkor lépheti túl a (7) bekezdés szerinti 20%-os korlátot, ha képes bizonyítani, hogy a 20%-os követelmény – tekintettel üzleti tevékenységének jellegére, nagyságrendjére és összetettségére, valamint a (7) bekezdésben meghatározott csoporthoz tartozó hitelintézet, bank vagy pénzpiaci alap által kínált biztonságra is, beleértve minden esetben, ha a befektetési vállalkozás által tartott ügyféleszközök egyenlege alacsony – aránytalan. A befektetési vállalkozás rendszeresen, de legalább évente felülvizsgálja az ily módon elvégzett értékelést, és az első értékelésről, valamint a felülvizsgált értékelésekről értesíti a Felügyeletet.

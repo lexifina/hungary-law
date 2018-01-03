@@ -30,7 +30,7 @@ n) az e törvényben és külön jogszabályban meghatározott személyi feltét
 
 o) a végezni kívánt tevékenységre vonatkozó általános szerződési feltételek, az üzletszabályzat, a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatok és eljárásrendek, a pénz- és értékkezelési szabályzat, továbbá a végrehajtási politika, valamint az összeférhetetlenségi politika tervezetét,
 
-p)
+p) a tevékenységi kör módosítására irányuló eljárás kivételével a tulajdonosi szerkezetének részletes leírását okirati bizonyítékokkal együtt, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását,
 
 q) a könyvvizsgáló igazolását arra vonatkozóan, hogy a befektetési vállalkozás informatikai rendszere alkalmas a 18. § (2) bekezdésében meghatározott követelmények teljesítésére,
 

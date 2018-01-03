@@ -25,3 +25,11 @@ c) a kérelmező olyan személy vagy szervezet által ellenőrzött vállalkozá
 (4) A (3) bekezdésben foglaltakat alkalmazni kell az (1) és (2) bekezdésben foglaltak változásának esetére, valamint a befektetési vállalkozás és a multilaterális kereskedési rendszer működésére és tevékenységére vonatkozó szabályoknak való megfelelés folyamatos felügyelése esetére is.
 
 (5) A Felügyelet az érintett, más EGT-állam felügyeleti hatósága által a Felügyelet számára megküldött állásfoglalását a konzultációt követően meghozott határozatában ismerteti.
+
+(6) A Felügyelet csak abban az esetben tagadhatja meg a (3) bekezdésben előírt együttműködés iránti kérelem teljesítését, ha:
+
+a) azonos tevékenységek és személyek tekintetében már kezdeményeztek bírósági eljárást a magyar hatóságok előtt;
+
+b) azonos személyek és tevékenységek tekintetében Magyarországon már jogerős ítélet született.
+
+(7) Megtagadás esetén a Felügyelet ennek megfelelően értesíti a megkereső, más EGT-állam hatáskörrel rendelkező felügyeleti hatóságát és az Európai Értékpapír-piaci Hatóságot, a lehető legrészletesebb tájékoztatást nyújtva.

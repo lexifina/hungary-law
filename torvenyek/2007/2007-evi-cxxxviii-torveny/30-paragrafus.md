@@ -6,7 +6,9 @@ b) az a) pontban meghatározott feltételeknek való megfelelést hitelt érdeml
 
 c) a kérelmező olyan személlyel vagy szervezettel áll szoros kapcsolatban, amelynek székhelye olyan harmadik országban van, amelynek jogszabályai vagy a jogszabályokban foglaltak kikényszerítése akadályozza a befektetési vállalkozás feletti hatékony és eredményes felügyeletet, vagy
 
-d) a kérelmező megtévesztő vagy valótlan adatot közölt.
+d) a kérelmező megtévesztő vagy valótlan adatot közölt,
+
+e) a kérelmező tevékenységével kapcsolatosan feltételezhető, hogy az erre vonatkozó jogszabályok értelmében pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt tevékenység növelheti ennek kockázatát.
 
 (2) A Felügyelet a befektetési szolgáltatási tevékenység végzésére jogosító engedély iránti kérelmet a külföldi befektetési vállalkozás fióktelepe esetében akkor is elutasítja, ha
 

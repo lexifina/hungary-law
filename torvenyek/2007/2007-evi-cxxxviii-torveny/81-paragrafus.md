@@ -1,6 +1,6 @@
-81. § (1) A befektetési vállalkozás a kiszervezésről szóló megállapodás tárgyát képező tevékenysége vagy szolgáltatása megfelelő színvonalú ellátása érdekében folyamatosan értékeli a 79. § (3) bekezdésében foglaltak teljesülését.
+81. § (1) A befektetési vállalkozás a kiszervezésről szóló megállapodás tárgyát képező tevékenysége vagy szolgáltatása megfelelő színvonalú ellátása érdekében folyamatosan értékeli a kiszervezésről szóló megállapodásban foglaltak teljesülését.
 
-(2) Ha a befektetési vállalkozás a kiszervezésről szóló megállapodásban foglaltak megsértését állapítja meg, amelynek következménye, hogy a 79. § (3) bekezdésében foglaltak nem teljesülnek,
+(2) Ha a befektetési vállalkozás a kiszervezésről szóló megállapodásban foglaltak megsértését állapítja meg,
 
 a) felszólítja a kiszervezést végzőt a szerződésszerű teljesítésre, vagy
 

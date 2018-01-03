@@ -39,3 +39,5 @@ d) a felsőfokú vagy posztgraduális bankszakmai képesítés,
 e) a főiskolai vagy egyetemi szintű, illetve mesterképzésben szerzett gazdasági agrármérnök szakképzettség vagy műszaki menedzser alapképzési szakon, vagy gazdasági és vidékfejlesztési agrármérnök alapképzési szakon szerzett szakképzettség, és
 
 f) a felsőfokú végzettség birtokában szakirányú továbbképzésben, szakosító továbbképzésben a közgazdasági felsőoktatásban szerezett bankszakmai szakképzettség vagy gazdasági, közgazdasági szakképzettség.
+
+(3) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló tanúsítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.

@@ -22,7 +22,9 @@ f) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó be
 
 g) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozás anyavállalatával szoros kapcsolatban álló személy adatait,
 
-h) a befektetési vállalkozás anyavállalatának – ha az vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság – azon adatait, amelyek a befektetési vállalkozás felügyelete érdekében szükségesek.
+h) a befektetési vállalkozás anyavállalatának – ha az vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság – azon adatait, amelyek a befektetési vállalkozás felügyelete érdekében szükségesek,
+
+i) az MTF és az OTF működtetési vezetőjének nevét.
 
 (2) Az (1) bekezdés és a 159. § (1) bekezdésének j), l), m) és n) pontja vonatkozásában a Felügyelet az érintett azonosító adatait, valamint az engedélyezési és ellenőrzési célú adatkezelés során a befektetés, tulajdoni részesedés, szakképzettség, szakmai gyakorlat, választott tisztség, beosztás, munkaviszony, büntetlenség megállapításához szükséges adatokat kezeli.
 

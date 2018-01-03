@@ -6,15 +6,49 @@
 
 (2) E törvény és az e törvény felhatalmazása alapján kiadott jogszabályokban
 
-1. anyavállalat: az Szmt.-ben meghatározott vállalkozás,
+1. algoritmikus kereskedés: olyan, pénzügyi eszközökkel folytatott kereskedés, amelynek során a megbízások egyedi paramétereit – így különösen azt, hogy kezdeményezni kell-e egy megbízást, mi legyen a megbízás időzítése, ára vagy mennyisége, hogyan történjen a megbízás kezelése annak benyújtása után – egy számítógépes algoritmus automatikusan határozza meg – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 18. cikkében meghatározottaknak megfelelő – korlátozott emberi beavatkozással vagy emberi beavatkozás nélkül, és nem foglalja magában azokat a rendszereket, amelyeket csak
+
+a) megbízások egy vagy több kereskedési helyszínre irányítására,
+
+b) megbízások feldolgozására, azok bármely kereskedési paraméterének meghatározása nélkül,
+
+c) megbízások megerősítésére vagy
+
+d) végrehajtott tranzakciók kereskedést követő feldolgozására
+
+használnak,
 
 1a. anticiklikus tőkepufferráta: a befektetési vállalkozás tevékenységéhez kapcsolódó prociklikusság csökkentését célzó tőkepuffer-követelmény meghatározásához alkalmazott arányszám, amelyet a befektetési vállalkozás a kitettségeihez kapcsolódó felek vonatkozásában alkalmaz azok földrajzi elhelyezkedése alapján;
 
+1b. anyavállalat: az Szmt.-ben meghatározott vállalkozás,
+
+1c. APA: jóváhagyott közzétételi mechanizmus, azaz olyan szolgáltatás nyújtására engedéllyel rendelkező személy, aki vagy amely a befektetési vállalkozások nevében közzéteszi – a 600/2014/EU rendelet 20. és 21. cikke alapján – a kereskedési jelentéseket,
+
+1d. ARM: jóváhagyott jelentési mechanizmus, azaz olyan szolgáltatás nyújtására engedéllyel rendelkező személy, aki vagy amely a befektetési vállalkozások nevében bejelenti az ügyletek adatait a Felügyeletnek vagy az Európai Értékpapír-piaci Hatóságnak,
+
 2. ÁÉKBV: a Kbftv.-ben meghatározott fogalom,
 
-3. árjegyző: az a saját számlás kereskedést folytató befektetési vállalkozás, amely egy pénzügyi eszközre folyamatos vételi és eladási kötelezettséget vállal az általa meghatározott árakon,
+2a. állampapír: állampapír-kibocsátó által kibocsátott, hitelviszonyt megtestesítő értékpapír,
 
-4. áru: minden vagyoni értékkel bíró, forgalomképes, birtokba vehető dolog, illetve dolog módjára hasznosítható természeti erő, ide nem értve a pénzügyi eszközt,
+2b. állampapír-kibocsátó: az alábbiakban felsorolt jogi személyek bármelyike, amely hitelviszonyt megtestesítő értékpapírt bocsát ki:
+
+a) az Európai Unió,
+
+b) az Európai Unió valamely tagállama, ideértve annak kormányzati szervét, ügynökségét vagy különleges célú gazdasági egységét,
+
+c) az Európai Unió szövetségi államberendezkedésű tagállama esetében a szövetség tagjai,
+
+d) több tagállam közös különleges célú gazdasági egysége,
+
+e) több tagállam által finanszírozás mobilizálása, valamint súlyos finanszírozási problémákkal küzdő vagy finanszírozási szempontból veszélyeztetett tagjai számára pénzügyi segítségnyújtás céljából alapított nemzetközi pénzügyi intézmény vagy
+
+f) az Európai Beruházási Bank,
+
+3. árjegyző: az a saját számlás kereskedést folytató személy, amely egy pénzügyi eszközre folyamatos vételi és eladási kötelezettséget vállal az általa meghatározott árakon,
+
+4. áru: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott fogalom,
+
+4a. árualapú származtatott termék: a 600/2014/EU rendelet 2. cikke (1) bekezdésének 30. pontjában meghatározott termék,
 
 5. átruházható értékpapír: a tőkepiacon forgalomképes értékpapír a fizetőeszköz kivételével,
 
@@ -34,6 +68,12 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 11. minősített befolyás: a Hpt.-ben befolyásoló részesedésként meghatározott fogalom,
 
+11a. certifikát: a 600/2014/EU rendelet 2. cikk (1) bekezdés 27. pontjában meghatározott fogalom,
+
+11b. C6. származtatott energiaügylet: a 6. § f) pontjában említett olyan opció, határidős ügylet, swapügylet és bármely más származtatott ügylet, amely szénre vagy olajra vonatkozik, amellyel OTF-en kereskednek, és amelyeket természetben kell kiegyenlíteni,
+
+11c. CTP: összesítettadat-szolgáltató, azaz olyan szolgáltatás nyújtására engedéllyel rendelkező személy, aki vagy amely összegyűjti a szabályozott piacokról, az MTF-ektől, az OTF-ektől és az APA-któl (jóváhagyott közzétételi mechanizmusok) a 600/2014/EU rendelet 6., 7., 10., 12., 13., 20. és 21. cikkében felsorolt pénzügyi eszközökről szóló kereskedési jelentéseket, és azokat olyan, folyamatos és élő elektronikus adatfolyamba vonja össze, amely pénzügyi eszközönként árfolyam- és volumenadatokat biztosít,
+
 12. csereügylet (swap): valamely pénzügyi eszköz cseréjére vonatkozó olyan összetett megállapodás, amely általában egy azonnali és egy határidős adásvételi ügyletből, illetve több határidős ügyletből tevődik össze és általában jövőbeni pénzáramlások cseréjét vonja maga után,
 
 13. dotációs tőke: a fióktelep létesítéséhez és működéséhez az alapító által tartósan, korlátlanul, tehermentesen a fióktelep szabad rendelkezésére bocsátott tőke,
@@ -43,6 +83,8 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 15. EGT-állambeli befektetési vállalkozás anyavállalat: olyan befektetési vállalkozás, amely befektetési vállalkozásban, hitelintézetben vagy pénzügyi vállalkozásban ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, és a székhelye szerinti EGT-államban székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik benne,
 
 16. EGT-állambeli pénzügyi holding társaság anyavállalat: olyan pénzügyi holding társaság, amelyben a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik,
+
+16a. egymásnak megfelelő ügyfélmegbízásokat párosító kereskedés (matched principal trading): olyan ügylet, ahol a befektetési vállalkozás vagy a piacműködtető a vevő és az eladó közé helyezi magát oly módon, hogy a tranzakció végrehajtása során nincs kitéve piaci kockázatnak, mivel mindkét oldalt egyszerre hajtják végre, valamint a tranzakciót olyan áron hajtja végre, hogy nincs nyeresége vagy vesztesége az előre meghirdetett jutalékon vagy díjon kívül,
 
 17. elismert elszámolóház: EGT-államban vagy az OECD tagállamában működő, a székhely szerinti ország jogszabálya vagy felügyeleti hatósága által elismertnek minősített, az elszámolásforgalom lebonyolítását végző pénzügyi intézmény, illetve központi szerződő fél tevékenységet végző szervezet,
 
@@ -60,6 +102,8 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 23a. EU-szintű vegyes pénzügyi holding társaság anyavállalat az 575/2013/EU rendeletben ekként meghatározott fogalom,
 
+23b. értékpapír-finanszírozási ügylet: az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 európai parlamenti és tanácsi rendelet 3. cikk 11. pontja szerint meghatározott fogalom,
+
 24. értékpapír-kölcsönzés: értékpapír tulajdonjogának olyan átruházása, amelynek keretében a kölcsönbeadó a kölcsönbevevő részére azzal a kötelezettséggel ruház át értékpapírt, hogy a kölcsönbevevő köteles azonos darabszámú és azonos sorozatú értékpapírt egy, a szerződésben vagy a kölcsönbeadó által meghatározott jövőbeni időpontban visszaadni a kölcsönbeadó vagy az általa megjelölt harmadik személy részére,
 
 25. értékpapír letéti számla: az ügyfél számára vezetett, az ügyféltől letéti őrzésre átvett értékpapír nyilvántartására szolgáló számla,
@@ -74,9 +118,13 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 29. fióktelep: az Fkt.-ban, illetve Ctv.-ben meghatározott szervezet,
 
-30. fogadó tagállam: a székhely szerinti EGT-államtól eltérő EGT-állam, amelyben a befektetési vállalkozásnak fióktelepe van vagy ahol szolgáltatást nyújt, illetve tevékenységet végez vagy az az EGT-állam, amelyben a szabályozott piac olyan rendszert biztosít, amellyel lehetővé teszi a távoli tagok, illetve a letelepedés helye szerinti EGT-állam résztvevőinek hozzáférését a kereskedési rendszerhez,
+30. fogadó tagállam: a székhely szerinti EGT-államtól eltérő EGT-állam, amelyben a befektetési vállalkozásnak fióktelepe van vagy ahol szolgáltatást nyújt, illetve tevékenységet végez,
+
+30a. függő ügynök: az a természetes személy vagy jogi személy, amely az általa képviselt befektetési vállalkozás teljes körű és feltétel nélküli felelősségére segíti elő a befektetési szolgáltatási tevékenység végzését vagy kiegészítő szolgáltatás nyújtását az ügyfél vagy a jövőbeni ügyfél számára,
 
 31. harmadik ország: az az ország, amely nem minősül EGT-államnak,
+
+31a. harmadik országbeli vállalkozás: olyan vállalkozás, amely befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetnek, befektetési vállalkozásnak minősülne, ha központi ügyviteli helye vagy létesítő okirat szerinti székhelye valamely EGT-államban lenne,
 
 32. induló tőke: az alapításkori jegyzett tőke, a tőketartalék és az eredménytartalék összege,
 
@@ -86,13 +134,23 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 34. kereskedési szándékkal tartott pozíció: a rövid távú újraértékesítés szándékával vagy a vételi és eladási árak közötti tényleges vagy várható különbözetből, valamint egyéb ár- vagy kamatlábváltozásokból származó rövid távú haszonszerzés szándékával tartott pozíció, amelybe beletartoznak mind a saját számlás, mind az ügyfelek által adott megbízások végrehajtásából és az árjegyzésből származó pozíciók,
 
-35. kiszervezés: olyan megállapodás egy befektetési vállalkozás és egy harmadik személy között, amelynek keretében e harmadik személy olyan tevékenységet végez, amelyet egyébként a befektetési vállalkozás maga végezne,
+34a. kereskedési helyszín: bármely szabályozott piac, multilaterális kereskedési rendszer vagy szervezett kereskedési rendszer,
+
+34b. keresztértékesítés gyakorlata (cross-selling): egy befektetési szolgáltatás felajánlása egy másik szolgáltatással vagy termékkel együtt, egy csomag részeként vagy ugyanazon megállapodás vagy csomag feltételeként,
+
+34c. kis- és középvállalkozás: olyan vállalkozás, amelynek az előző három naptári évben az év végi jegyzések alapján az átlagos piaci tőkeértéke 200 000 000 eurónál kevesebb volt,
+
+34d. kkv-tőkefinanszírozási piac: olyan multilaterális kereskedési rendszer, amelyet kkv-tőkefinanszírozási piacként vettek nyilvántartásba, a 154/A. §-nak megfelelően,
+
+35.
 
 36. kollektív befektetési forma: a Kbftv.-ben meghatározott fogalom,
 
 37. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer (a továbbiakban: KHR),
 
 38. központi szerződő fél: a Tpt.-ben meghatározott fogalom,
+
+38a. közvetlen elektronikus hozzáférés: olyan eljárás, amely során egy kereskedési helyszín tagja vagy résztvevője vagy ügyfele engedélyezi valamely személynek az ő kereskedési kódjának használatát, annak érdekében, hogy az a személy elektronikusan továbbíthasson pénzügyi eszközre vonatkozó megbízásokat közvetlenül a kereskedési helyszínnek, továbbá az olyan eljárás, amelynek során a személy a tag vagy résztvevő vagy ügyfél infrastruktúráját, vagy bármiféle, a tag vagy résztvevő vagy ügyfél által biztosított csatlakozási rendszert használ a megbízások továbbítására (közvetlen piaci hozzáférés), valamint olyan eljárás, amelynek során e személy nem használja ezen infrastruktúrát (szponzorált hozzáférés), a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 20. cikkében meghatározottak figyelembevételével,
 
 39. külföldi befektetési vállalkozás: az a befektetési vállalkozás, amelynek székhelye nem Magyarország területén van,
 
@@ -106,21 +164,45 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 44. letétkezelés: a pénzügyi eszköz letéti őrzése, a kamat, az osztalék, a hozam, illetőleg a törlesztés beszedése és egyéb kapcsolódó szolgáltatás együttes nyújtása, ideértve az óvadék kezelésével összefüggő szolgáltatásokat,
 
+44a. likvid piac: pénzügyi eszközöknek vagy pénzügyi eszközök kategóriájának olyan piaca, ahol folyamatosan üzletkötésre kész és hajlandó vevők és eladók vannak jelen, ami az alábbi kritériumok alapján állapítandó meg, figyelembe véve az adott pénzügyi eszköz vagy pénzügyi eszköz-kategória sajátos piaci struktúráját:
+
+a) az ügyletek átlagos gyakorisága és nagyságrendje különböző piaci feltételek mellett, figyelemmel a pénzügyi eszköz kategóriáján belül a termékek jellegére és életciklusára,
+
+b) a piaci szereplők száma és típusa, ideértve a piaci szereplőknek a kereskedett eszközökhöz viszonyított arányát egy adott termék esetében,
+
+c) az eladási és vételi ár különbségének (spread) átlagos nagyságrendje, ha ismert,
+
 45. limitáras megbízás: valamely pénzügyi eszköz meghatározott limitáron vagy annál jobb áron, meghatározott mennyiségben történő vételére vagy eladására irányuló megbízás,
 
-46. megbízás végrehajtása az ügyfél javára: pénzügyi eszköz vételére vagy eladására vonatkozó megállapodás megkötésére irányuló tevékenység végzése az ügyfél javára,
+45a. másodlagos értékpapír: a Tpt.-ben meghatározott fogalom,
 
-47. függő ügynök: az a természetes személy vagy jogi személy, amely az általa képviselt befektetési vállalkozás teljes körű és feltétel nélküli felelősségére segíti elő a befektetési szolgáltatási tevékenység végzését vagy kiegészítő szolgáltatás nyújtását az ügyfél vagy a jövőbeni ügyfél számára,
+46. megbízás végrehajtása az ügyfél javára: pénzügyi eszköz vételére vagy eladására vonatkozó megállapodás megkötésére irányuló tevékenység végzése az ügyfél javára, amely magában foglalja a befektetési vállalkozás vagy hitelintézet által kibocsátott pénzügyi eszköz értékesítésére vonatkozó megállapodás megkötését a kibocsátás pillanatában,
+
+47. mezőgazdasági áru alapú származtatott ügyletek: az 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikkében, I. mellékletének I–XX. részében és XXIV/1. részében felsorolt termékekhez kapcsolódó származtatott ügyletek,
 
 48. miniszter: a pénz-, tőke és biztosítási piac szabályozásáért felelős miniszter,
 
 49. minisztérium: a miniszter által vezetett minisztérium,
 
-50. pénzügyi elemző: a befektetési elemzés tartalmát a befektetési vállalkozás részéről, a befektetési vállalkozás függő ügynöke részéről, illetve ezek rendelkezése szerint vagy a befektetési vállalkozással kötött kiszervezési megállapodás alapján kialakító, a Tpt.-ben meghatározott érintett személynek minősülő természetes személy, függetlenül attól, hogy a befektetési elemzést milyen jogviszony alapján készíti,
+49a. multilaterális rendszer: valamely rendszer, amelyben több harmadik fél pénzügyi eszközökre irányuló vételi és eladási szándéka hozható össze a rendszeren belül,
 
-51. pénzpiaci eszköz: a fizetőeszköz kivételével sorozatban kibocsátott, értékpapírnak nem minősülő, pénzkövetelésre szóló eszköz, amellyel pénzpiacon kereskednek,
+49b. nagykereskedelmi energiatermék: az 1227/2011/EU rendelet 2. cikkének 4. pontjában meghatározott nagykereskedelmi energiatermék,
+
+49c. nagysebességű algoritmikus kereskedési technika: bármely, az alábbi sajátosságokkal jellemezhető kereskedési technika:
+
+a) a hálózati és egyéb típusú adatátviteli idő minimalizálását célzó infrastruktúra, amely az algoritmikus ajánlatbevitelre szolgáló következő lehetőségek közül legalább egyet magába foglal: szervereknek a kereskedési helyszínhez közeli vagy egy helyiségen belüli elhelyezése vagy nagy sebességű közvetlen elektronikus hozzáférés,
+
+b) a megbízások kezdeményezését, létrehozását, továbbítását vagy végrehajtását a rendszer határozza meg, anélkül, hogy az egyes ügyletek vagy megbízások kapcsán emberi beavatkozásra kerülne sor, valamint
+
+c) a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 19. cikkében meghatározott magas napi üzenetforgalom (megbízások, árajánlatok vagy törlések),
+
+50. pénzügyi elemző: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott személy,
+
+51. pénzpiaci eszköz: a fizetőeszköz kivételével sorozatban kibocsátott pénzkövetelésre szóló eszköz, amellyel pénzpiacon kereskednek
 
 52. pénzügyi eszköz elhelyezése (placement): a pénzügyi eszköz Tpt. szerinti forgalombahozatala és nyilvános értékesítésre történő felajánlása,
+
+52a. piacműködtető: olyan személy, amely irányítja, illetve működteti a szabályozott piac üzletvitelét, és amely maga a szabályozott piac,
 
 53. portfóliókezelés: az a tevékenység, amelynek során az ügyfél eszközei előre meghatározott feltételek mellett, az ügyfél által adott megbízás alapján, az ügyfél javára pénzügyi eszközökbe kerülnek befektetésre és kezelésre azzal, hogy az ügyfél a megszerzett pénzügyi eszközből eredő kockázatot és hozamot, azaz a veszteséget és a nyereséget közvetlenül viseli,
 
@@ -128,11 +210,23 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 55. referenciaadat-szolgáltató: a befektetési hitel nyújtására engedéllyel rendelkező, illetőleg értékpapír- kölcsönzést végző befektetési vállalkozás,
 
-56. rendszeres internalizáló: az a befektetési vállalkozás, amely ügyfél részére szervezett keretek között, saját számlás kereskedés keretében a kereskedési napok mindegyikén biztosítja az ügyletkötés lehetőségét oly módon, hogy az ügyfél megbízásait szabályozott piacon és multilaterális kereskedési rendszeren kívül hajtja végre,
+56. rendszeres internalizáló: az a befektetési vállalkozás, amely ügyfél részére szervezett keretek között, sajátszámlás kereskedés keretében gyakran, rendszeresen és jelentős nagyságrendben biztosítja az ügyletkötés lehetőségét oly módon, hogy az ügyfél megbízásait szabályozott piacon, multilaterális kereskedési rendszeren és szervezett kereskedési rendszeren kívül, multilaterális rendszer működtetése nélkül hajtja végre,
 
 57.
 
 58. saját számlás kereskedés: pénzügyi eszköz saját eszköz terhére történő adásvétele, cseréje,
+
+58a. strukturált betét: olyan a Hpt. 6. § (1) bekezdés 8. pontjában meghatározott betét, amelynek lejáratkor a teljes összegét vissza kell fizetni, olyan feltételek alapján, amelyek szerint az esedékes kamatok és prémiumok olyan képlet alapján fizetendők (vagy képezik kockázat tárgyát), amelyben szerepel a következő tényezők valamelyike:
+
+a) valamely index vagy indexkombináció, az olyan változó kamatozású betétek kivételével, amelyek hozama közvetlenül függ valamilyen kamatlábindextől, például az Euribortól vagy a Libortól,
+
+b) pénzügyi eszköz vagy több pénzügyi eszköz kombinációja,
+
+c) valamely nyersanyag, vagy több nyersanyag kombinációja vagy egyéb fizikai vagy nem fizikai nem helyettesíthető eszközök vagy
+
+d) valamely deviza árfolyama vagy több devizaárfolyam kombinációja,
+
+58b. strukturált pénzügyi termék: a 600/2014/EU rendelet 2. cikke (1) bekezdésének 28. pontjában meghatározott fogalom,
 
 59. szabályozott piac: a Tpt.-ben meghatározott fogalom,
 
@@ -140,19 +234,31 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 61. származtatott ügylet: olyan ügylet, amelynek értéke az alapjául szolgáló pénzügyi eszköz, mint alaptermék értékétől függ és önálló kereskedés tárgyát képezi,
 
+61a. származtatott termék: a 6. § d)–k) pontjában meghatározott pénzügyi eszköz,
+
+61b. szervezett kereskedési rendszer (OTF): olyan multilaterális rendszer, amely nem szabályozott piac vagy MTF, és amelyben több, harmadik féltől származó, kötvények, strukturált pénzügyi eszközök, kibocsátási egységek és származtatott termékek vételi és eladási szándéka hozható össze a rendszeren belül, oly módon, hogy az szerződést eredményez,
+
 62. székhely szerinti tagállam:
 
-a) ha a külföldi befektetési vállalkozás természetes személy, az az EGT-állam, ahol a lakhelye vagy tartózkodási helye található;
+a) ha a külföldi befektetési vállalkozás természetes személy, az az EGT-állam, amelyben a központi irodája található;
 
 b) ha a befektetési vállalkozás vagy a külföldi befektetési vállalkozás jogi személy, az az EGT-állam, ahol a létesítő okirat szerinti székhelye található;
 
 c) ha a befektetési vállalkozás vagy a külföldi befektetési vállalkozás jogi személy és a nemzeti jog szerint nem rendelkezik létesítő okirat szerinti székhellyel, az az EGT-állam, amelyben a központi irodája található,
+
+d) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM természetes személy, az az EGT-állam, amelyben a központi irodája található;
+
+e) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM jogi személy, az az EGT-állam, ahol a létesítő okirat szerinti székhelye található;
+
+f) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM jogi személy és nemzeti joga szerint nem rendelkezik létesítő okirat szerinti székhellyel, az az EGT-állam, amelyben a központi irodája található,
 
 63. szoros kapcsolat: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 64. szponzor: az 575/2013/EU rendeletben ekként meghatározott fogalom,
 
 65. tartós adathordozó: olyan eszköz, amely az ügyfél számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését,
+
+65a. tőzsdén kereskedett alap: olyan befektetési alap, amelynek legalább egy kollektív befektetési értékpapírjával kereskednek az egész nap folyamán legalább egy kereskedési helyszínen és van legalább egy olyan árjegyző, amely fellép annak biztosítására, hogy a kereskedési helyszínen kereskedett kollektív befektetési értékpapír ára jelentős mértékben ne térjen el annak nettó eszközértékétől, illetve adott esetben annak indikatív nettó eszközértékétől,
 
 66. ügyfél: az, aki az e törvény hatálya alá tartozó szolgáltatást vesz igénybe,
 
@@ -180,7 +286,7 @@ bc) cégbírósági nyilvántartásban szereplő jogi személy esetén cégjegyz
 
 69. ügyfélszámla: a Tpt.-ben meghatározott fogalom,
 
-69a. ügyvezető: a befektetési vállalkozással munkaviszonyban álló, a befektetési vállalkozás vezetésére kinevezett első számú vezető, valamint a befektetési vállalkozás irányításában résztvevő olyan további személy, akit a befektetési vállalkozás létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg,
+69a. ügyvezető: a befektetési vállalkozással és az adatszolgáltatási tevékenységet végzővel munkaviszonyban álló, a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző vezetésére kinevezett első számú vezető, valamint a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző irányításában részt vevő olyan további személy, akit a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg,
 
 70. üzleti titok: a Ptk.-ban meghatározott fogalom,
 
@@ -214,13 +320,13 @@ d) amely fölött a létesítő okirat, megállapodás alapján egy személy dö
 
 78. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
 
-79. multilaterális kereskedési rendszer: olyan kereskedési rendszer, amely harmadik felek pénzügyi eszközökre irányuló, vételi és eladási szándékát hozza össze megkülönböztetésmentes módon, szerződést eredményezve,
+79. multilaterális kereskedési rendszer (MTF): olyan multilaterális rendszer, amely harmadik felek pénzügyi eszközökre irányuló, vételi és eladási szándékát hozza össze a kereskedés során megkülönböztetés-mentes módon, szerződést eredményezve,
 
 80. értékpapír: a Tpt.-ben meghatározott fogalom,
 
 81. konszolidáló felügyeleti hatóság: a Tpt.-ben meghatározott fogalom,
 
-82. javadalmazás: a befektetési vállalkozás által a vezető állású személy, munkavállaló részére minden, a munkaviszony alapján közvetlenül vagy közvetve, pénzbeli, természetbeni, vagyoni jog vagy egyéb formában nyújtott juttatás,
+82. javadalmazás: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott fogalom,
 
 83. teljesítményjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás az alapjavadalmazáson felül biztosíthat a vezető állású személynek és a munkavállalónak, ha az a munkaszerződésben meghatározottakat meghaladó teljesítményt nyújt vagy abban nem rögzített feladatokat lát el,
 
@@ -272,7 +378,7 @@ amelynek fizetésképtelenné válása vagy nem prudens működése globális sz
 
 98. felügyeleti jogkörrel rendelkező vezető testület: az alapító okiratban vagy alapszabályban meghatározott olyan vezető testület, amely az irányítási jogkörrel rendelkező vezető testület döntéshozatalát ellenőrzi,
 
-99. vezető testület: a befektetési vállalkozás igazgatósága és felügyelőbizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő befektetési vállalkozás vezető állású személyeit is,
+99. vezető testület: a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző igazgatósága és felügyelőbizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő befektetési vállalkozás és adatszolgáltatási tevékenységet végző vezető állású személyeit is,
 
 100. közérdeklődésre számot tartó befektetési vállalkozás: az e törvény hatálya alá tartozó befektetési vállalkozás, ide nem értve a 3. §-ban meghatározottakat,
 

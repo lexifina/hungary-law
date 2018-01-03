@@ -12,7 +12,7 @@ b) felsőfokú végzettséggel rendelkezik;
 
 c) legalább hároméves szakirányú szakmai gyakorlattal és legalább hároméves pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik;
 
-d) igazolja, hogy vele szemben a 25. §-ban meghatározott összeférhetetlenségi okok nem állnak fenn és
+d)
 
 e) igazolja, hogy jó üzleti hírnévvel rendelkezik.
 

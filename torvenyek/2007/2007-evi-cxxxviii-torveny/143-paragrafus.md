@@ -1,5 +1,5 @@
-143. § (1) A multilaterális kereskedési rendszer – figyelemmel a (2)–(3) bekezdésben foglaltakra – a Felügyelet e törvény szerinti engedélye alapján létesíthető és működtethető.
+143. § (1) MTF és OTF – figyelemmel a (2) és (3) bekezdésben foglaltakra – a Felügyelet e törvény szerinti engedélye alapján működtethető.
 
-(2) A külföldi piacműködtető – ide nem értve a (3) bekezdésben foglaltakat – fióktelepe multilaterális kereskedési rendszert akkor létesíthet vagy működtethet, ha rendelkezik a székhelye szerinti állam hatáskörrel rendelkező felügyeletének az adott tevékenység végzésére jogosító engedélyével.
+(2) Harmadik országban székhellyel rendelkező befektetési vállalkozás fióktelepe MTF-et, illetve OTF-et akkor működtethet, ha rendelkezik a székhelye szerinti állam hatáskörrel rendelkező felügyeleti hatóságának az adott tevékenység végzésére jogosító engedélyével.
 
-(3) A más EGT-államban székhellyel rendelkező piacműködtető Magyarország területén határon átnyúló tevékenységet akkor végezhet, ha rendelkezik a hatáskörrel rendelkező felügyeleti hatóságnak az adott tevékenység végzésére jogosító engedélyével.
+(3) A más EGT-államban székhellyel rendelkező befektetési vállalkozás és piacműködtető Magyarország területén MTF illetve OTF működtetését határon átnyúló tevékenységként vagy fióktelepén keresztül akkor végezheti, ha rendelkezik a hatáskörrel rendelkező felügyeleti hatóságnak az adott tevékenység végzésére jogosító engedélyével.

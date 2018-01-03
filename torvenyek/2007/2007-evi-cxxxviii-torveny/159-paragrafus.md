@@ -36,6 +36,10 @@ n) a befektetési vállalkozás anyavállalatának – ha az vegyes tevékenysé
 
 valamint az ezen adatokban bekövetkező változást.
 
+(1a) A Felügyelet az APA-ként, CTP-ként, ARM-ként adatszolgáltatási tevékenységet végzőkről naprakész nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosító engedélyeket. A nyilvántartás a nyilvánosság számára hozzáférhető, és információkat tartalmaz azon szolgáltatásokról vagy tevékenységekről, amelyekre az adatszolgáltatási tevékenységet végző engedéllyel rendelkezik.
+
+(1b) Ha a Felügyelet a 154/J. § alapján visszavont egy engedélyt, úgy az arról szóló tájékoztatást a honlapján 5 éven át közzéteszi.
+
 (2) A Felügyelet – a (3) és (4) bekezdésben foglaltakra figyelemmel – nyilvántartást vezet a 114. § (3) bekezdése alapján a befektetési vállalkozás és az árutőzsdei szolgáltató által megbízott függő ügynökökről, akik lakóhelye (tartózkodási helye), vagy székhelye Magyarország területén található.
 
 (3) Ha a Magyarország területén székhellyel rendelkező befektetési vállalkozás függő ügynöke olyan más EGT-államban rendelkezik székhellyel, amely az ott székhellyel rendelkező befektetési vállalkozás számára nem teszi lehetővé függő ügynök igénybevételét, a Felügyelet – a Magyarország területén székhellyel rendelkező befektetési vállalkozás bejelentése alapján – nyilvántartásba veszi.

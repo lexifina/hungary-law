@@ -30,6 +30,8 @@ m) a befektetési vállalkozás anyavállalatának – ha az vegyes tevékenysé
 
 n) a vele szoros kapcsolatban álló személyek körét.
 
+(1a) Az adatszolgáltatási tevékenységet végző APA, ARM és CTP, a 154/I. §-ban meghatározott vezető testületének tagjaiban bekövetkezett változást a (4) bekezdés d) pontjában meghatározottaknak megfelelően bejelenti a Felügyeletnek, és ezzel egyidejűleg közzéteszi azt.
+
 (2) A fióktelep az (1) bekezdésben foglaltakon kívül köteles a Felügyeletnek bejelenteni és ezzel egyidejűleg nyilvánosságra hozni
 
 a) az alapító tulajdonosi szerkezetét és annak ötszázalékos mértéket meghaladó változásait,
@@ -69,3 +71,13 @@ kell eleget tenni.
 (8) A működési kockázat kivételével az egyes kockázati típusok tőkekövetelmény számítására belső módszert alkalmazó befektetési vállalkozások évente legalább egyszer megküldik a Felügyelet számára a kialakított referenciaérték portfóliókra a belső módszerük által számított tőkekövetelmény eredményeket és a számításra alkalmazott módszerek magyarázatát. A referenciaérték portfólióra vonatkozó adatszolgáltatás módját, annak tartalmát, valamint a beérkezett információk értékelésének módszertanát az Európai Bizottság vonatkozó rendelete határozza meg. A Felügyelet a rendeletben foglaltakhoz képest további referenciaérték portfóliókat is meghatározhat.
 
 (9) Ha a Felügyelet azt állapítja meg, hogy a befektetési vállalkozás által a tőkekövetelmény számításra alkalmazott belső módszer indokolatlanul jelentősen alulbecsüli a tőkekövetelmény mértékét, akkor a Felügyelet kötelezheti a befektetési vállalkozást a belső módszer módszertanának vagy az egyes paramétereknek a megváltoztatására.
+
+(10) Az a befektetési vállalkozás, amely árualapú származtatott termékekkel vagy kibocsátási egységekkel, illetve ezek származtatott eszközeivel kereskedési helyszínen kívül kereskedik
+
+a) annak a kereskedési helyszínnek a hatáskörrel rendelkező felügyeleti hatóságának a részére, amelyen az árualapú származtatott termékekkel vagy kibocsátási egységekkel, illetve ezek származtatott eszközeivel kereskednek vagy
+
+b) amennyiben az árualapú származtatott termékekkel, a kibocsátási egységekkel, illetve ezek származtatott eszközeivel több – különböző EGT-államban lévő – kereskedési helyszínen kereskednek jelentős nagyságrendben, annak a kereskedési helyszínnek a hatáskörrel rendelkező felügyeleti hatóságának (központi illetékes hatóság) a részére, ahol a legnagyobb mértékű forgalom bonyolódik
+
+legalább naponta rendelkezésre bocsátja az általa, ügyfelei által, valamint – a végső ügyfél eléréséig – azok ügyfelei által a kereskedési helyszínen kereskedett árualapú származtatott termékekben, kibocsátási egységekben, illetve ezek származtatott eszközeiben és a gazdaságilag egyenértékű, tőzsdén kívüli származtatott ügyletekben tartott pozíciók teljes bontását, összhangban a 600/2014/EU rendelet 26. cikkével és adott esetben az 1227/2011/EU rendelet 8. cikkével.
+
+(11) A 600/2014/EU rendelet 23. és 28. cikkében előírt kereskedési kötelezettség tárgyát képező pénzügyi eszközök tekintetében minden kereskedési helyszín és rendszeres internalizáló, egyéb pénzügyi eszközök tekintetében pedig minden kereskedési helyszín legalább évente egyszer díjazás nélkül nyilvánosságra hozza az ügyletek – adott helyszínen történt – végrehajtásának minőségével kapcsolatos adatokat.

@@ -1,15 +1,15 @@
 ## HETEDIK RÉSZ
 
-## A MULTILATERÁLIS KERESKEDÉSI RENDSZER
+## A MULTILATERÁLIS KERESKEDÉSI RENDSZER, A SZERVEZETT KERESKEDÉSI RENDSZER, VALAMINT AZ ADATSZOLGÁLTATÁSI TEVÉKENYSÉGET VÉGZŐK SZABÁLYAI
 
 ## XXIII. Fejezet
 
-## A MULTILATERÁLIS KERESKEDÉSI RENDSZER MŰKÖDÉSÉNEK FELTÉTELEI
+## A MULTILATERÁLIS KERESKEDÉSI RENDSZER ÉS A SZERVEZETT KERESKEDÉSI RENDSZER MŰKÖDTETÉSÉNEK FELTÉTELEI
 
-142. § (1) Multilaterális kereskedési rendszert befektetési vállalkozás vagy szabályozott piac működtethet (a továbbiakban együtt: piacműködtető).
+142. § (1) Multilaterális kereskedési rendszert (a továbbiakban: MTF) és szervezett kereskedési rendszert (a továbbiakban: OTF) befektetési vállalkozás vagy piacműködtető működtethet.
 
-(2) A multilaterális kereskedési rendszer az e törvényben meghatározott feltételek teljesítése esetén létesíthető és működtethető.
+(2) MTF és OTF az e törvényben meghatározott feltételek teljesítése esetén működtethető.
 
-(3) Külföldi piacműködtető tevékenységét Magyarország területén – a (4) bekezdésben foglalt kivétellel – csak fióktelepén keresztül végezheti.
+(3) Harmadik országban székhellyel rendelkező befektetési vállalkozás MTF, illetve OTF működtetését Magyarország területén csak fióktelepén keresztül végezheti.
 
-(4) A más EGT-államban székhellyel rendelkező piacműködtető határon átnyúló tevékenységet végezhet.
+(4) A más EGT-államban székhellyel rendelkező befektetési vállalkozás és piacműködtető MTF, illetve OTF működtetését határon átnyúló tevékenységként vagy fióktelepén keresztül végezheti.
