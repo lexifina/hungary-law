@@ -82,9 +82,9 @@ g) az a)–f) pontban meghatározott pénzügyi eszközökkel hasonló gazdaság
 
 (10) A részvényes mentesül az (1) bekezdés szerinti tájékoztatási kötelezettség alól, ha a tájékoztatási kötelezettséget az anyavállalata, vagy ha az anyavállalata is ellenőrzött vállalkozás, akkor annak anyavállalata teljesíti.
 
-(11) A hitelintézet és a befektetési vállalkozás a kereskedési könyvben nyilvántartott részesedés esetén mentesül az (1) bekezdés szerinti tájékoztatási kötelezettség alól, ha
+(11) A hitelintézetnek és a befektetési vállalkozásnak a kereskedési könyvében nyilvántartott részesedéshez kapcsolódó szavazati jogot nem kell számításba vennie az (1) bekezdés szerinti tájékoztatási kötelezettség teljesítésekor, ha
 
-a) a szavazati jog nem gyakorolható
+a) a szavazati jog nem gyakorolható,
 
 b) a kibocsátó döntéshozó, ügyvezető szervei, felügyelőbizottsága vagy ezek testületi tagjainak kinevezésére, felmentésére vonatkozó döntések meghozatalában nem vesz részt, és
 

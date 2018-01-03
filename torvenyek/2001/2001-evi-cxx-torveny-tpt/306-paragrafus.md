@@ -4,7 +4,7 @@ a) az engedélyt a Felügyelet megtévesztésével vagy más jogszabálysértő 
 
 b) az engedély kiadásának feltételei már nem állnak fenn és azok megfelelő határidő elteltével nem pótolhatók;
 
-c) a tőzsde az engedélyezett tevékenységet tizenkét hónapon belül nem kezdi meg, vagy tizenkét hónapot meghaladó időtartam alatt nem gyakorolja;
+c) a tőzsde az engedélyezett tevékenységet tizenkét hónapon belül nem kezdi meg, vagy hat hónapot meghaladó időtartam alatt nem gyakorolja;
 
 d) a tőzsde a tevékenység folytatásával felhagy;
 

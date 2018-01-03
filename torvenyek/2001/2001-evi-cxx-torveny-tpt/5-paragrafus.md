@@ -8,6 +8,8 @@ a) e törvény IV., LIII. és LVI. fejezetei alkalmazásában az a személy, aki
 
 b) e törvény VII. fejezete alkalmazásában az a személy, aki/amely a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozóan nyilvános vételi ajánlatot tesz,
 
+2a. algoritmikus kereskedés: a Bszt.-ben meghatározott fogalom,
+
 3. allokáció: túljegyzés, illetve aukciós túlkereslet esetén a jegyzés, illetve az aukció lezárását követő eljárás, amely során a kibocsátó, illetve a forgalmazó az előre meghirdetett elvek alapján dönt az egyes jegyzések, illetve aukciós ajánlatok elfogadásának mértékéről,
 
 4. anyavállalat:
@@ -18,9 +20,11 @@ b) a XIX/A. és XIX/B. Fejezet alkalmazásában minden olyan vállalkozás, amel
 
 5. aukció: a forgalomba hozatal azon módja, amely keretén belül a kibocsátó az általa meghatározott feltételek szerint lehetőséget biztosít ajánlattételre és a beérkezett vételi ajánlatok meghatározott szempont alapján versenyeznek,
 
-6. állampapír: a magyar vagy külföldi állam, az MNB, az Európai Központi Bank vagy az Európai Unió más tagállamának jegybankja által kibocsátott, hitelviszonyt megtestesítő értékpapír,
+6. állampapír: a Bszt.-ben meghatározott fogalom,
 
-7. áru: minden vagyoni értékkel bíró forgalomképes birtokba vehető dolog, vagy dolog módjára hasznosítható természeti erő, valamint az üvegházhatású gáz kibocsátási egység és a légszennyező anyag kibocsátási jog, ide nem értve a pénzügyi eszközt,
+6a. állampapír-kibocsátó: a Bszt.-ben meghatározott fogalom,
+
+7. áru: a Bszt.-ben meghatározott fogalom,
 
 8.
 
@@ -96,6 +100,8 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 
 33. egyedi kockázat: az értékpapír vagy származtatott ügylet esetén az ügylet alapját képező értékpapír egyedi jellemzőihez kapcsolható árfolyamváltozás kockázata,
 
+33a. egymásnak megfelelő ügyfélmegbízásokat párosító kereskedés (matched principal trading): a Bszt.-ben meghatározott fogalom,
+
 34. ellenőrző befolyás: a Hpt.-ben ilyenként meghatározott fogalom,
 
 35. ellenőrzött társaság: a Ptk. 3:324. § (1) bekezdésében meghatározott társaság,
@@ -166,6 +172,8 @@ b) mindazon devizakülföldi, amely a saját joga alapján ilyennek tekintendő,
 
 65. kapcsolt vállalkozás: a vállalkozás anyavállalata és leányvállalata, a vállalkozás anyavállalatának leányvállalata, a vállalkozásban minősített befolyással rendelkező tulajdonos vagy olyan vállalkozás, amelyben a vállalkozás vagy a vállalkozás tulajdonosa, felügyelőbizottsági tagja, vezető tisztségviselője, vagy ezek közeli hozzátartozója minősített befolyással rendelkezik,
 
+65a. kereskedési helyszín: a Bszt.-ben meghatározott fogalom,
+
 66. kibocsátási program: egy kibocsátótól származó, hitelviszonyt megtestesítő értékpapírok, illetve zártvégű befektetési alapra forgalomba hozott befektetési jegyek egymást követő nyilvános értékpapírkibocsátás-összessége, amelynek alapfeltételeit a kibocsátó, illetve az alapkezelő a program indításakor rögzíti, és az egyes részkibocsátások során a kibocsátó, illetve az alapkezelő meghatározza a kibocsátás egyedi adatait,
 
 67. kibocsátó: az a személy, aki az értékpapírban megtestesített kötelezettség teljesítését a maga nevében vállalja,
@@ -210,6 +218,8 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 85. közvetlen befektetési ajánlás: olyan befektetési ajánlás, amely pénzügyi eszköz vagy tőzsdei termék vételére, eladására, tartására vagy ezekkel egyenértékű befektetői döntésre tesz kifejezett javaslatot,
 
+85a. közvetlen elektronikus hozzáférés: a Bszt.-ben meghatározott fogalom,
+
 86. külföldi befektetési vállalkozás: a székhely állam jogszabályi rendelkezéseinek megfelelően a Bszt. 5. §-ában meghatározott befektetési szolgáltatási tevékenységnek és kiegészítő szolgáltatásnak megfeleltethető tevékenység folytatására engedéllyel rendelkező külföldi székhelyű vállalkozás,
 
 87. leányvállalat: minden olyan vállalkozás, amelynek működésére egy másik vállalkozás ellenőrző befolyást gyakorol. A leányvállalat valamennyi leányvállalatát az anyavállalat leányvállalatának kell tekinteni,
@@ -221,6 +231,8 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 90. likvid eszköz: a pénz, hitelintézettel állampapírra kötött, felmondhatóságában nem korlátozott repó, az átruházhatóságában nem korlátozott, bármikor pénzzé tehető állampapír, továbbá a felmondhatóságában nem korlátozott bankbetét,
 
 91. másodlagos értékpapír: letétkezelő által a másodlagos értékpapír tulajdonosa (végső jogosult) részére kibocsátott, az elsődleges értékpapírra vonatkozó rendelkezési jogot, illetőleg az értékpapír által megtestesített jogok gyakorlását biztosító, sorozatban kibocsátott, névre szóló, átruházható értékpapír,
+
+91a. a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete: a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelete,
 
 92. minősített befektető: a Bszt. 48–51. §-a szerint szakmai ügyfélnek vagy elfogadható partnernek tekintett befektető;
 
@@ -240,13 +252,13 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 100. összehangoltan eljáró személyek: olyan természetes személyek, jogi személyek vagy egyéb szervezetek, akik vagy amelyek a céltársaságban történő befolyásszerzésre, a céltársaság irányításának megszerzésére vagy vételi ajánlat meghiúsítására irányuló megállapodás alapján működnek együtt,
 
-101. pénzpiaci eszköz: sorozatban kibocsátott, pénzkövetelésre szóló eszköz, amellyel a pénzpiacon kereskednek,
+101. pénzpiaci eszköz: a Bszt.-ben meghatározott fogalom,
 
 102.
 
 103. pénzügyi eszköz: a Bszt.-ben meghatározott eszköz,
 
-104.
+104. piacműködtető: a Bszt.-ben meghatározott fogalom,
 
 105. portfólió: a portfóliókezelési tevékenységet végző számára átadott eszközök, illetőleg ezen eszközökből a portfóliókezelési tevékenységet végző által összeállított, többféle vagyonelemet tartalmazó eszközök összessége,
 
@@ -364,7 +376,11 @@ bb) a ba) alpont hatálya alá nem tartozó bármely kibocsátó esetében a kib
 
 bc) ha a kibocsátó értékpapírjaival a bab) alpont vagy a bb) alpont szerint meghatározott székhely szerinti tagállamában már nem, egy vagy több másik tagállamban viszont kereskednek, azon új székhely szerinti tagállam, amelyet a kibocsátó azon tagállamok közül választhat, amelyekben a kibocsátó értékpapírjai szabályozott piacon be vannak vezetve, vagy azon tagállam, amelyben a kibocsátó létesítő okirat szerinti székhelye van,
 
-141. kiemelt információ: a kibocsátó, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személy, a felajánlott, illetve a szabályozott piacra bevezetett értékpapír lényeges jellemzőit és kockázatait rendszerezett formában tartalmazó azon információk összessége, amelynek célja, hogy elősegítse a befektető értékpapírra vonatkozó befektetési döntésének meghozatalát.
+141. kiemelt információ: a kibocsátó, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személy, a felajánlott, illetve a szabályozott piacra bevezetett értékpapír lényeges jellemzőit és kockázatait rendszerezett formában tartalmazó azon információk összessége, amelynek célja, hogy elősegítse a befektető értékpapírra vonatkozó befektetési döntésének meghozatalát,
+
+142. vezető testület: a piacműködtető igazgatósága és felügyelőbizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő piacműködtető vezető állású személyeit is,
+
+143. ügyvezető: a piacműködtetővel munkaviszonyban álló, a piacműködtető vezetésére kinevezett első számú vezető, valamint a piacműködtető irányításában résztvevő olyan további személy, akit a piacműködtető létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg.
 
 (2) E törvény alkalmazásában
 

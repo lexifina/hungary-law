@@ -1,1 +1,1 @@
-305. § A pénzügyi eszközök valamelyikének kereskedésére engedéllyel rendelkező tőzsdét a Felügyelet szabályozott piacként tartja nyilván.
+305. § A pénzügyi eszközök valamelyikének kereskedésére engedéllyel rendelkező tőzsdét a Felügyelet szabályozott piacként tartja nyilván. A szabályozott piacként nyilvántartott tőzsdére a Kilencedik Rész rendelkezéseit megfelelően kell alkalmazni.

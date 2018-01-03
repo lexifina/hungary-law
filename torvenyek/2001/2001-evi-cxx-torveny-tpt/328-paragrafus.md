@@ -1,1 +1,0 @@
-328. § A teljes tőzsdei forgalmazást érintő, tíz tőzsdenapnál hosszabb időtartamú felfüggesztéshez a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter (a továbbiakban: miniszter) jóváhagyása szükséges.

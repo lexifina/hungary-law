@@ -13,3 +13,5 @@
 (5) A tőzsde működése során csak olyan gazdasági társaságot alapíthat, illetve csak olyan gazdasági társaságban lehet tulajdonos, amely tőzsdei tevékenység, illetve azt segítő kiegészítő tevékenység megvalósítását hivatott elősegíteni.
 
 (6) A tőzsde nem szerezhet olyan részesedést, illetőleg nem létesíthet olyan tagsági viszonyt vállalkozásban, amely esetben a vállalkozás tartozásaiért a részesedés mértékére való tekintet nélkül korlátlanul felel.
+
+(7) A tőzsde saját tőkéje nem csökkenhet a jegyzett tőke alá a tőzsde alapításának engedélyezésétől számított második évtől kezdődően.

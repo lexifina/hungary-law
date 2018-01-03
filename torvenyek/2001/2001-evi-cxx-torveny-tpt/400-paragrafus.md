@@ -74,7 +74,15 @@ w) az V. Fejezetben foglalt tájékoztatási kötelezettségek megsértése eset
 
 2. megtilthatja a felelős tájékoztatásra kötelezett számára a jogsértést megvalósító magatartás folytatását vagy megismétlését, illetve
 
-3. bírságot szabhat ki.
+3. bírságot szabhat ki,
+
+x) bármely személytől kérheti, hogy tegyen lépéseket pozíciója vagy kitettsége nagyságának csökkentésére,
+
+y) előírhatja valamely természetes személy elmozdítását a piacműködtető vezető testületéből,
+
+z) közleményt ad ki, amelyben megjelöli a jogsértésért felelő személyt és a jogsértés természetét,
+
+zs) határozattal megállapítja a jogsértés tényét, és egyben elrendeli a jogsértő állapot megszüntetését, vagy megtiltja a jogszabályba ütköző magatartás további folytatását.
 
 (2)
 
@@ -100,4 +108,12 @@ e) az értékpapír-számlán nyilvántartott dematerializált értékpapír ös
 
 (8) A Felügyelet az (1) bekezdés r) pont 1. alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a tőzsde, a központi szerződő fél, illetve a központi értéktár előírt tőkekövetelményeknek való megfelelése nem biztosított.
 
-(9)
+(9) A Felügyelet a további, kereskedésben érintett magyarországi székhelyű tőzsdét is a kereskedés felfüggesztésére vagy törlésre kötelezi a Bszt. 149/B. § (1)–(2) bekezdésben meghatározott esetekben, illetve ha a tőzsde felfüggesztést vagy törlést ír elő meghatározott tőzsdei termék vagy kapcsolódó származtatott eszköz vonatkozásában e törvény rendelkezéseinek megfelelően. Erre piaci visszaélés gyanúja, nyilvános vételi ajánlat, illetve az 596/2014/EU rendelet 7. és 17. cikkét megsértő kibocsátóval vagy pénzügyi eszközzel kapcsolatos bennfentes információk közzétételének elmaradása miatt kerülhet sor, kivéve, ha a felfüggesztés vagy törlés jelentősen sértené a befektetők érdekeit vagy a piac szabályos működését. A Felügyelet haladéktalanul közzéteszi az erre vonatkozó határozatokat, valamint értesíti az Európai Értékpapír-piaci Hatóságot és más tagállam hatáskörrel rendelkező felügyeleti hatóságát.
+
+(10) A Felügyelet előírja a magyarországi székhelyű tőzsde részére azon pénzügyi eszköz vagy kapcsolódó származtatott eszköz kereskedésének felfüggesztését vagy kereskedésből való törlését, amelyre vonatkozóan más EU tagállam hatáskörrel rendelkező felügyeleti hatósága bármely kereskedési helyszínen vagy rendszeres internalizáló vonatkozásában felfüggesztést vagy törlést rendelt el a (9) bekezdésben meghatározott okok miatt, kivéve, ha ez jelentős mértékben sértené a befektetők érdekeit vagy a piac szabályos működését. A Felügyelet az erre vonatkozó határozatról értesíti az Európai Értékpapír-piaci Hatóságot és a más EU tagállam hatáskörrel rendelkező felügyeleti hatóságát. Ha a Felügyelet a további magyarországi székhelyű tőzsde esetében nem írja elő a felfüggesztést vagy a törlést, az értesítést a Felügyelet erre vonatkozó indokolással kiegészíti.
+
+(11) A (9) és (10) bekezdésben meghatározott rendelkezések megfelelően alkalmazandók:
+
+a) a felfüggesztés visszavonása esetén és
+
+b) az értesítési eljárás vonatkozásában a Felügyelet által alkalmazott, az (1) bekezdés h) és i) pontjai szerinti szankciókra vonatkozó határozatok esetén.

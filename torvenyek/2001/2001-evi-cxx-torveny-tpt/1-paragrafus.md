@@ -24,7 +24,7 @@ i) a magyar hatóság által ellátott, e törvényben meghatározott felügyele
 
 j) a kiszervezett tevékenységet végző e törvény szerinti felügyeletére,
 
-k)
+k) tőzsdei kereskedő Magyarország területén székhellyel rendelkező tőzsdén végzett tőzsdei kereskedésével összefüggő tevékenységére,
 
 l)
 

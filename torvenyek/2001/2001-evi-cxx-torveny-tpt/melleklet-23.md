@@ -38,4 +38,6 @@ E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok al
 
 18. a Nemzetközi Valutaalap,
 
+19. Nemzetközi Beruházási Bank,
+
 20. az Ázsiai Infrastrukturális Beruházási Bank.

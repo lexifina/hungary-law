@@ -4,11 +4,17 @@ a) tőzsdei tevékenységet,
 
 b) tőzsdei tevékenységet segítő kiegészítő tevékenységet,
 
-c) a Bszt. 5. § (1) bekezdés h) pontja szerinti multilaterális kereskedési rendszer működtetése tevékenységet,
+c) a Bszt. 5. § (1) bekezdés h) és i) pontja szerinti kereskedési rendszer működtetése tevékenységet,
 
-d) gazdasági társaságok tőkepiaci forrásbevonását elősegítő platformok működtetése tevékenységet
+d) a Bszt. 6/A. §-a szerinti adatszolgáltatási tevékenységet,
 
-folytathat.
+e) gazdasági társaságok tőkepiaci forrásbevonását elősegítő platformok működtetése tevékenységet,
+
+f) informatikai szolgáltatást,
+
+g) piac működtetésével kapcsolatos szolgáltatást
+
+végezhet.
 
 (2) Tőzsdei tevékenységet segítő kiegészítő tevékenység különösen
 

@@ -4,6 +4,8 @@
 
 318/A. § (1) A tőzsde – a (2)–(5) bekezdésben, valamint a 318/B. és 318/C. §-ban foglaltakra figyelemmel – tőzsdei tevékenységét, tőzsdei tevékenységet segítő kiegészítő tevékenységét, a Bszt. 5. § (1) bekezdés h) pontja szerinti multilaterális kereskedési rendszer működtetése tevékenységét vagy bármely e törvény hatálya alá nem tartozó tevékenységét vagy szolgáltatását kiszervezheti.
 
+(1a) E Fejezet kiszervezést érintő rendelkezéseitől eltérően az algoritmikus kereskedést engedő vagy lehetővé tévő rendszerekkel összefüggésben történő kiszervezés során a 2014/65/EU európai parlamenti és tanácsi irányelvnek a kereskedési helyszínekre vonatkozó szervezeti követelményeket meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2017/584 felhatalmazáson alapuló rendelete alkalmazandó.
+
 (2) A kiszervezés
 
 a) nem eredményezheti a tőzsde vezető állású személyei hatáskörének átadását,

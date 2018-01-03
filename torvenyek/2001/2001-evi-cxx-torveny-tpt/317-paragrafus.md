@@ -1,14 +1,18 @@
 ## A tőzsde szabályzatai
 
-317. § (1) A tőzsde – törvény által meghatározott keretek között – szabályzatban határozza meg a tevékenységére vonatkozó általános szabályokat, valamint a tőzsdei kereskedőkre és kibocsátókra vonatkozó jogokat és kötelezettségeket. A tőzsde által alkalmazott eljárásnak, rendszernek és megoldásnak biztosítania kell minden, a tőzsdére vonatkozó jogszabályban és a tőzsde szabályzatában foglalt előírás teljesülését, ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az ellenőrizhetőség biztosítását is.
+317. § (1) A tőzsde – törvény által meghatározott keretek között – szabályzatban határozza meg a tevékenységére vonatkozó általános szabályokat, valamint a tőzsdei kereskedőkre és kibocsátókra vonatkozó jogokat és kötelezettségeket. A tőzsde által alkalmazott eljárásnak, rendszernek és megoldásnak biztosítania kell minden, a tőzsdére vonatkozó jogszabályban és a tőzsde szabályzatában foglalt előírás teljesülését, ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az ellenőrizhetőség, valamint az ehhez szükséges források biztosítását is.
 
 (2) A tőzsde szabályzatainak elfogadására és módosítására kizárólag az igazgatóság jogosult. A (4) bekezdés c) és e) pontjaiban meghatározott szabályzatok elfogadása vagy módosítása előtt az igazgatóság köteles kikérni a tőzsdei kereskedők, illetve, ha a d) pontban meghatározott szabályzat értékpapírra vonatkozik, a tőzsdére bevezetett értékpapírok kibocsátóinak vagy azok szakmai szervezetének véleményét.
 
 (3) A tőzsdei szabályzatoknak biztosítaniuk kell, hogy
 
-a) a tőzsde a működésével összefüggésben felmerülő kockázatok kezelésére, csökkentésére megfelelő rendszereket és megoldásokat alkalmazzon, valamint
+a) a tőzsde a működésével összefüggésben felmerülő kockázatok kezelésére, csökkentésére megfelelő rendszereket és megoldásokat alkalmazzon,
 
-b) a piac általános érdekeinek megfelelően a tőzsdei tevékenység, a kereskedés és az ezekről szóló információ átlátható és ellenőrizhető legyen, ezáltal teremtve meg a kereskedésben részt vevők esélyegyenlőségét, egyenlő elbírálását és a befektetők objektív piaci védelmét.
+b) a piac általános érdekeinek megfelelően a tőzsdei tevékenység, a kereskedés és az ezekről szóló információ átlátható és ellenőrizhető legyen, ezáltal teremtve meg a kereskedésben részt vevők esélyegyenlőségét, egyenlő elbírálását és a befektetők objektív piaci védelmét,
+
+c) a tőzsde hatékony mechanizmusokkal segítse elő a rendszereiben végrehajtott ügyletek hatékony és határidőben történő véglegesítését, valamint
+
+d) a tőzsde figyelemmel kísérje a tőzsdei kereskedők által a rendszereik keretében elküldött megbízásokat és törléseket, illetve az általuk végrehajtott ügyleteket annak érdekében, hogy azonosítsák a szabályok megsértését, a szabálytalan kereskedési feltételeket, az 596/2014/EU rendelet által tiltott magatartásra utaló magatartást vagy a rendszer zavarait valamely tőzsdei termékkel kapcsolatban.
 
 (4) A tőzsde szabályzatában meg kell határozni:
 
@@ -26,11 +30,23 @@ f) az árfolyam és az egyéb tőzsdei információ nyilvánosságra hozatalána
 
 g) a tőzsdei kereskedők, a tőzsdére bevezetett értékpapírok kibocsátói adatszolgáltatásának tartalmát, módját és ellenőrzésének rendjét;
 
-h)
+h) a tőzsdei kereskedési rendszer technikai működésének megalapozott irányítására vonatkozó szabályokat, ideértve az előre nem látható események hatékony kezelésére vonatkozó megoldásokat is, annak érdekében, hogy a tőzsde csökkentse a rendszerleállás kockázatát,
 
 i) a tőzsde, a tőzsde tulajdonosai vagy működtetője érdekei és a tőzsde stabil működése között potenciálisan felmerülő összeférhetetlenség kezelésére vonatkozó szabályokat, továbbá a tőzsde vezető állású személyeire és alkalmazottaira vonatkozó összeférhetetlenségi szabályokat;
 
 j) a tőzsde által a szolgáltatást igénybe vevők részére felszámított díjakat.
+
+(4a) A tőzsdei kereskedési jogra vonatkozó szabályzatokban megjelölt kötelezettségek megállapítása során legalább a következőket kell figyelembe venni:
+
+a) tőzsde létesítő okirata és működési rendje,
+
+b) tőzsdei ügyletekre vonatkozó szabályok,
+
+c) a tőzsdén működő befektetési szolgáltatók alkalmazottaira vonatkozó szakmai előírások,
+
+d) a nem befektetési szolgáltatóként működő tőzsdei kereskedőkre a 312. § (1) bekezdés a)–d) pontjaiban megállapított követelmények,
+
+e) tőzsdei ügylet elszámolásának és teljesítésének szabályai és eljárásai.
 
 (5) A (4) bekezdés c) pontjában meghatározott szabályoknak biztosítaniuk kell a tőzsdei kereskedők számára az elszámolási rendszer megválasztásának jogát, feltéve ha
 
@@ -56,13 +72,7 @@ c) származtatott ügylet esetén, hogy annak kialakítása egyértelmű árazá
 
 (11) A tőzsde szabályzata – a tőzsdei kereskedő, a kibocsátó, a befektető által – bíróság előtt megtámadható, ha az e törvény vagy más jogszabály előírásaival ellentétes.
 
-(12) A szabályozott piacnak
-
-a) a (4) bekezdés d) pontjában foglaltak szabályozása esetén alkalmaznia kell a Bizottság 1287/2006/EK rendeletének V. fejezetében,
-
-b) a (4) bekezdés f) pontjában foglaltak szabályozása esetén alkalmaznia kell a Bizottság 1287/2006/EK rendeletének IV. fejezetében
-
-foglaltakat.
+(12)
 
 (13) A tőzsde szabályzatában előírhatja, hogy a tőzsdei termék bevezetésének és forgalomban tartásának feltétele, hogy a kibocsátó jó üzleti hírnévvel rendelkezzen; ennek előírása esetén a tőzsde köteles szabályzatában meghatározni, hogy a jó üzleti hírnév fennállása milyen módon igazolható azzal, hogy az MNBtv. 39. § (1) bekezdés c), i), l) és m) pontja szerinti törvények hatálya alá tartozó szervezetek esetében a vizsgálat és az igazolás nem szükséges, mivel az a Felügyelet eljárásának a részét képezi.
 

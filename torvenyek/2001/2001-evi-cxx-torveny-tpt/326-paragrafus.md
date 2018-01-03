@@ -1,3 +1,1 @@
-326. § (1) Meghatározott tőzsdei termékcsoport tőzsdei forgalmazását vagy a teljes tőzsdei forgalmazást a tőzsde szabályzatában meghatározott személy – a Felügyelet azonnali tájékoztatása mellett – legfeljebb egy tőzsdenapra felfüggesztheti, ha a forgalmazás fenntartása a befektetők jogos érdekeit, a piac egyensúlyát vagy a tőzsde működését veszélyezteti.
-
-(2) A Felügyelet meghatározott tőzsdei termékcsoport tőzsdei forgalmazását vagy a teljes tőzsdei forgalmazást határozott időre felfüggesztheti, ha az általános pénzügyi, gazdasági, politikai helyzet nem teszi lehetővé, hogy a tőzsdei forgalom rendezett és áttekinthető legyen, és ezáltal nem tartható fenn a folyamatos és tisztességes tőzsdei forgalmazás.
+326–329. §
