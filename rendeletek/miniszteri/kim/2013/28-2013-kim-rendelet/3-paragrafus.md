@@ -1,5 +1,0 @@
-3. § (1) Az országgyűlési egyéni választókerületi választási irodák (a továbbiakban: OEVI), valamint azok a helyi választási irodák (a továbbiakban: HVI), amelyek illetékessége több mint öt szavazókörre terjed ki, az informatikai rendszert az okmányhálózat infrastrukturális hátterének igénybevételével érik el.
-
-(2) Azok a HVI-k, amelyek illetékessége legfeljebb öt szavazókörre terjed ki, az informatikai rendszert az anyakönyvi szolgáltató rendszer infrastrukturális hátterének igénybevételével érhetik el. Közös önkormányzati hivatalt működtető települések esetében – a területi választási iroda (a továbbiakban: TVI) vezetőjének javaslatára – a Nemzeti Választási Iroda (a továbbiakban: NVI) elnöke a székhely településtől eltérő településen is engedélyezheti az adatfeldolgozási feladatok elvégzését.
-
-(3) Indokolt esetben – a TVI vezetőjének javaslatára – az NVI elnöke az ötnél több szavazókörrel rendelkező HVI esetében is engedélyezheti az anyakönyvi szolgáltató rendszer, illetve az ötnél kevesebb szavazókörrel rendelkező HVI esetében is engedélyezheti az okmányhálózat használatát.
