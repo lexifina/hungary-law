@@ -1,1 +1,0 @@
-27. § Hatályát veszti a befektetési és az árutőzsdei szolgáltatási tevékenység, az értékpapír letéti őrzés, az értékpapír letétkezelés, valamint az elszámolóházi tevékenység végzéséhez szükséges személyi, tárgyi, technikai és biztonsági feltételekről szóló 283/2001. (XII. 26.) Korm. rendelet.
