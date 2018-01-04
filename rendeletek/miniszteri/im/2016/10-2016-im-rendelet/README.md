@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-10-20-0
 | --- | --- | --- |
 | 2016-06-29 | 2016-10-20-06.1 | 10/2016. (VI. 28.) IM rendelet |
 | 2016-06-30 | 2016-10-20-06.2 | 2010: CXXX. törvény |
+| 2018-01-04 | 2016-10-20-06.3 | 1/2018. (I. 3.) IM rendelet |
