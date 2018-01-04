@@ -20,9 +20,9 @@
 
 | 7. | Értesítő a szavazóköri névjegyzékbe vételről a nemzetiségi önkormányzati képviselők választásán | X | X | X |  |
 
-| 8. | Kérelem átjelentkezéssel történő szavazáshoz |  |  |  | X |
+| 8. |  |  |  |  |  |
 
-| 9. | Mozgóurna iránti kérelem |  |  |  | X |
+| 9. |  |  |  |  |  |
 
 | 10. | Jelölő szervezet bejelentése a helyi önkormányzati képviselők és polgármesterek választásán (P3) |  | X | X |  |
 
@@ -103,5 +103,9 @@
 | 48. | Jegyzőkönyv a területi nemzetiségi önkormányzati képviselők választásának eredményéről | X |  | X |  |
 
 | 49. | Jegyzőkönyv az országos nemzetiségi önkormányzati képviselők választásának eredményéről | X |  | X |  |
+
+| 50. | Értesítő a szavazóköri névjegyzékbe vételről a helyi önkormányzati képviselők és polgármesterek időközi választásán | X | X | X |  |
+
+| 51. | Értesítő a szavazóköri névjegyzékbe vételről a nemzetiségi önkormányzati képviselők időközi választásán | X | X | X |  |
 
 2–49. melléklet a 4/2014. (VII. 24.) IM rendelethez
