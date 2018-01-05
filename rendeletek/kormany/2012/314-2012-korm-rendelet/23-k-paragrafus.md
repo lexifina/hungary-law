@@ -1,0 +1,1 @@
+## 23/J. § Nem központi költségvetési forrásból finanszírozott építési beruházás nemzetgazdasági szempontból kiemeltté nyilvánítása – a 23/I. § (2) bekezdésében foglalt kivétellel – csak a miniszter előzetes településképi hozzájárulása birtokában kezdeményezhető.

@@ -1,3 +1,3 @@
-## 60. §[^150]
+## 60. §[^153]
 
-[^150]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^153]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

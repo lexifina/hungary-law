@@ -1,4 +1,4 @@
-## határozható meg.
+## 23/L. § Jelen alcím alkalmazásában építési beruházás az új építmény építése, valamint a meglévő építmény külső megjelenését – tömegformálását, anyaghasználatát, homlokzati kialakítását – érintő építési tevékenység.
 
 ## 18. A településkép-érvényesítési eszközök
 

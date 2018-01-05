@@ -1,4 +1,4 @@
-28/A. §[^72] (1) A polgármester a településrendezési eszköz, a koncepció, a stratégia, a kézikönyv és a településképi rendelet készítése, illetve módosítása előtt írásban kérelmezheti a földmérési és térinformatikai államigazgatási szervnél az Étv. 13/A. §-a, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 72. § (6) bekezdése, valamint a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. § (20) bekezdése alapján, a 13. melléklet szerinti adatbázisok és adatok szolgáltatását.
+28/A. §[^73] (1) A polgármester a településrendezési eszköz, a koncepció, a stratégia, a kézikönyv és a településképi rendelet készítése, illetve módosítása előtt írásban kérelmezheti a földmérési és térinformatikai államigazgatási szervnél az Étv. 13/A. §-a, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 72. § (6) bekezdése, valamint a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. § (20) bekezdése alapján, a 13. melléklet szerinti adatbázisok és adatok szolgáltatását.
 
 (2) A polgármester az (1) bekezdés szerinti kérelemhez mellékeli az önkormányzat
 
@@ -14,4 +14,4 @@ b) nyilatkozatát arról, hogy az átvett adatbázisokat és az adatokat kizár�
 
 (6) Hálózati adatszolgáltatás esetén a földmérési és térinformatikai államigazgatási szerv, egyéb, nem hálózati adatszolgáltatás esetén a területileg illetékes kormányhivatal szakfelügyelete szakfelügyeleti ellenőrzés keretében külön jogszabályban meghatározott módon vizsgálhatja a (3) bekezdés szerint szolgáltatott adatbázisok, adatok hozzáférésének és felhasználásnak jogszerűségét.
 
-[^72]: A 28/A. §-t a 334/2017. (XI. 9.) Korm. rendelet 5. §-a iktatta be.
+[^73]: A 28/A. §-t a 334/2017. (XI. 9.) Korm. rendelet 5. §-a iktatta be.

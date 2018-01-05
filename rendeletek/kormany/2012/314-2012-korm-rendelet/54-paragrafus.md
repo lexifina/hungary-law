@@ -1,3 +1,3 @@
-## 53. §[^144]
+## 53. §[^147]
 
-[^144]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^147]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
