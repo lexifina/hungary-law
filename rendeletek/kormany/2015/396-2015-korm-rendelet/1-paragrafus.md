@@ -18,13 +18,19 @@
 
 6. csalás: az Európai Unióról szóló szerződés K.3. cikke alapján létrejött, az Európai Közösségek pénzügyi érdekeinek védelméről szóló Egyezmény és az azt kiegészítő jegyzőkönyvek, valamint az Európai Unióról szóló Szerződés 35. Cikkének (2) bekezdése alapján megtett nyilatkozat kihirdetéséről szóló 2009. évi CLIX. törvénnyel kihirdetett, az Európai Közösségek pénzügyi érdekeinek védelméről szóló egyezmény 1. cikk (1) bekezdése szerinti, az Európai Közösségek pénzügyi érdekeit sértő csalás, valamint a Büntető Törvénykönyvről szóló 2012. évi C. törvény 396. §-a szerinti költségvetési csalás,
 
+6a.[^1] DTP eMS rendszer: a 2014–2020 programozási időszakban a Duna Transznacionális Program által működtetett elektronikus monitoring és információs rendszer,
+
 7. egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
 
 8. együttműködési program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás: az együttműködési programban résztvevő partnerországok által évenként, lakosságszámuk arányában nyújtott hozzájárulás az együttműködési program hatékony működtetéséhez szükséges költségek fedezésére,
 
-9. elektronikus monitoring és információs rendszer: a 2014–2020 programozási időszakban a transznacionális és interregionális együttműködési programok és projektek lebonyolítását támogató rendszer,
+9.[^2] elektronikus monitoring és információs rendszer: a 2014–2020 programozási időszakban a transznacionális és interregionális együttműködési programok és projektek program szintű lebonyolítását támogató rendszer,
 
-10. hazai kedvezményezett: több jogi személy által közösen megvalósítandó projekt esetén az adott projektrész megvalósításáért a vezető kedvezményezettel aláírt partnerségi megállapodásban meghatározott kötelezettséget viselő, uniós támogatásban részesülő fél,
+9a.[^3] felhívás: a támogatást igénylők számára elkészített, a pályázatok benyújtásához szükséges információkat tartalmazó dokumentumcsomag,
+
+10.[^4] hazai kedvezményezett: több jogi személy által közösen megvalósítandó projekt esetén az adott projektrész megvalósításáért a projektben részt vevő kedvezményezettek által aláírt partnerségi megállapodásban meghatározott kötelezettséget viselő, uniós támogatásban részesülő hazai fél vagy hazai székhelyű európai területi társulás,
+
+10a.[^5] hazai TA kedvezményezett: a TA projekt megvalósításának egészéért felelősséget viselő, annak vonatkozásában uniós támogatásban részesülő hazai fél,
 
 11. hazai társfinanszírozás: az uniós támogatás hazai kedvezményezettje részére nyújtott vissza nem térítendő hazai támogatás, amelyre a hazai kedvezményezett a hitelesítési tevékenységre kijelölt szervezettel támogatási szerződést köt,
 
@@ -37,6 +43,8 @@
 15. hitelesítési tevékenységre kijelölt szervezet: az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (4) bekezdése szerinti szervezet,
 
 16. igazoló hatóság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 123. cikk (2) bekezdése szerinti szervezet,
+
+16a.[^6] IMIR 2014–2020 rendszer: a 2014–2020 programozási időszakban az európai területi együttműködés célkitűzés keretében megvalósuló transznacionális és interregionális együttműködési programok tagállami hatáskörbe rendelt, nem programszintű feladatainak végrehajtását támogató elektronikus monitoring és információs rendszer,
 
 17. irányító hatóság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 123. cikk (1) bekezdése szerinti szervezet,
 
@@ -73,3 +81,10 @@
 33. vezető kedvezményezett: több jogi személy által közösen megvalósítandó projekt esetén a projekt megvalósításának egészéért felelősséget viselő, uniós támogatásban részesülő fél.
 
 (2) Az (1) bekezdésben nem értelmezett fogalmakat az 1303/2013/EU európai parlamenti és tanácsi rendelet, valamint az 1299/2013/EU európai parlamenti és tanácsi rendelet szerint kell értelmezni.
+
+[^1]: Az 1. § (1) bekezdés 6a. pontját a 482/2017. (XII. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (1) bekezdés 9. pontja a 482/2017. (XII. 28.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés 9a. pontját a 482/2017. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: Az 1. § (1) bekezdés 10. pontja a 482/2017. (XII. 28.) Korm. rendelet 13. § 2. pontja szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés 10a. pontját a 482/2017. (XII. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^6]: Az 1. § (1) bekezdés 16a. pontját a 482/2017. (XII. 28.) Korm. rendelet 1. § (4) bekezdése iktatta be.

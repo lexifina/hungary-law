@@ -1,1 +1,3 @@
-## 58. § Az elektronikus monitoring és információs rendszerben használt elektronikus aláírások a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet értelmében hiteles aláírásnak minősülnek, kiváltják az ahhoz fűződő joghatásokat és bírósági eljárásokban bizonyítékként elfogadhatók.
+## 58. §[^59] A DTP eMS rendszerben létrehozott dokumentumok hiteles elektronikus közokiratnak minősülnek.
+
+[^59]: Az 58. § a 482/2017. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.

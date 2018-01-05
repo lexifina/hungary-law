@@ -1,5 +1,3 @@
-## hazai társfinanszírozása felhasználásának hitelesítése.
-
 4. § (1) A hitelesítési tevékenységre kijelölt szervezetnek a hitelesítés részeként gondoskodnia kell a hazai kedvezményezett által benyújtott, a felmerült és a hazai kedvezményezett által kifizetett költséget alátámasztó dokumentum formai és tartalmi ellenőrzéséről. A dokumentum – ide nem értve az eredeti számlát – elektronikus monitoring és információs rendszerbe történő feltöltése egyenértékű a dokumentum papír alapon történő benyújtásával.
 
 (2) A dokumentumok (1) bekezdés szerinti ellenőrzése keretében ellenőrizni kell különösen azt, hogy

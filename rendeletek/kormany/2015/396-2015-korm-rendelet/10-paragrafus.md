@@ -6,4 +6,6 @@ a) lefolytatja a szabálytalansági vizsgálatokat,
 
 b) összeállítja a szabálytalanságokkal kapcsolatos jelentéseket,
 
-c) a Duna Transznacionális Program, az Interreg CENTRAL EUROPE transznacionális együttműködési program, valamint az INTERREG EUROPE interregionális együttműködési program esetén gondoskodik a szabálytalanságokkal kapcsolatos adatok elektronikus monitoring és információs rendszerbe való feltöltéséről.
+c)[^13] a Duna Transznacionális Program, az Interreg CENTRAL EUROPE transznacionális együttműködési program, valamint az INTERREG EUROPE interregionális együttműködési program esetén gondoskodik a szabálytalanságokkal kapcsolatos adatok IMIR 2014–2020 rendszerbe való feltöltéséről.
+
+[^13]: A 10. § (2) bekezdés c) pontja a 482/2017. (XII. 28.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.

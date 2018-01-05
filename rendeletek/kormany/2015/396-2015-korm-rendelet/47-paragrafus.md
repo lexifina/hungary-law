@@ -1,5 +1,3 @@
-## 46. § Az irányító hatóság és közös titkárság, az igazoló hatóság és a hitelesítési tevékenységre kijelölt szervezet a szerződéskötés, a pénzügyi lebonyolítás, valamint ezen folyamatok adatainak az elektronikus monitoring és információs rendszerben történő rögzítése során köteles biztosítani a négy szem elvének érvényesülését.
-
 ## 18. Az audit hatóság feladatai
 
 47. § (1) Az audit hatóság

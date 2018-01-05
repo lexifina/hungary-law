@@ -4,6 +4,9 @@
 
 a) az igazoló hatóság a soron következő átutalás igénylési dokumentációt a pénzügyi korrekció összegével csökkentett mértékben nyújtja be az Európai Bizottság részére,
 
-b) az audit hatóság felkéri a hitelesítési tevékenységre kijelölt szervezetet, hogy tájékoztassa a kedvezményezettet a szabálytalanság megállapításáról és intézkedjen a pénzügyi korrekció és az egyéb jogkövetkezmények végrehajtásáról.
+b)[^44]
 
-(2) Ha a hitelesítési tevékenységre kijelölt szervezet (1) bekezdés b) pontja szerinti tájékoztatása számítási hibát tartalmaz, jogorvoslati kérelem benyújtásának van helye.
+(2)[^45]
+
+[^44]: A 42. § (1) bekezdés b) pontját a 482/2017. (XII. 28.) Korm. rendelet 14. § g) pontja hatályon kívül helyezte.
+[^45]: A 42. § (2) bekezdését a 482/2017. (XII. 28.) Korm. rendelet 14. § h) pontja hatályon kívül helyezte.

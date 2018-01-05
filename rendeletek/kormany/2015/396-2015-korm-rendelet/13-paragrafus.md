@@ -6,6 +6,11 @@ b) a cégbíróság a hazai kedvezményezett céget a törvényességi felügyel
 
 c) a hazai kedvezményezett elismeri a szabálytalanság tényét,
 
-d) az Európai Bizottság, az audit hatóság, a Közbeszerzési Döntőbizottság vagy bármely, ellenőrzést végző szervezet hazai kedvezményezettre vonatkozó megállapításait elfogadja,
+d)[^15] az Európai Bizottság, az audit hatóság, az audit csoport hazai tagja vagy bármely, ellenőrzést végző szervezet szabálytalanságot állapít meg és a szabálytalanság megállapításával a hitelesítési tevékenységre kijelölt szervezet is egyetért,
 
-e) rendszerszintű szabálytalanság történt.
+e) rendszerszintű szabálytalanság történt,
+
+f)[^16] a szabálytalanság oka kizárólag számítási hiba.
+
+[^15]: A 13. § d) pontja a 482/2017. (XII. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^16]: A 13. § f) pontját a 482/2017. (XII. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

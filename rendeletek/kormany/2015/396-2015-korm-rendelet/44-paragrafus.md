@@ -1,1 +1,0 @@
-## 43. § A már kifizetett, de szabálytalanul felhasznált támogatási összeg visszakövetelését követően az igazoló hatóság a programszámlán jóváírt összeggel csökkentett átutalás igénylési dokumentációt nyújt be az Európai Bizottság részére.

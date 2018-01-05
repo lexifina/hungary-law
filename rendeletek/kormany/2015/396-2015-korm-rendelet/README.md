@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-396-20-
 | 2015-12-15 | 2015-396-20-22.1 | 396/2015. (XII. 12.) Korm. rendelet |
 | 2015-12-16 | 2015-396-20-22.2 | 2010: CXXX. törvény |
 | 2016-08-25 | 2015-396-20-22.3 | 255/2016. (VIII. 24.) Korm. rendelet |
+| 2018-01-05 | 2015-396-20-22.4 | 482/2017. (XII. 28.) Korm. rendelet |
