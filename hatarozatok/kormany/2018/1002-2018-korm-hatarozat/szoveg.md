@@ -1,1 +1,0 @@
-Az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1727/2017. (X. 10.) Korm. határozatban a „2018. június 30.” szövegrész helyébe a „2018. június 30., az 1659/2017. (IX. 13.) Korm. határozat alapján átcsoportosított forrás tekintetében 2019. június 30.” szöveg lép.
