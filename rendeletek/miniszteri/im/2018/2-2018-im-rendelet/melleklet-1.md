@@ -1,3 +1,5 @@
-## 11. § Hatályát veszti az országgyűlési képviselők választása, valamint az Európai Parlament tagjainak választása költségeinek normatíváiról, tételeiről, elszámolási és belső ellenőrzési rendjéről, valamint egyes választási tárgyú miniszteri rendeletek módosításáról szóló 38/2013. (XII. 30.) KIM rendelet.
+## 11. §[^1]
 
 1. melléklet a 2/2018. (I. 3.) IM rendelethez
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
