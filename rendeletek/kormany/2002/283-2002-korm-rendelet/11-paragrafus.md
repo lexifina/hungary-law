@@ -1,6 +1,6 @@
-## Különleges terület és különleges beépítésre nem szánt terület[^25]
+## Különleges terület és különleges beépítésre nem szánt terület[^28]
 
-11. §[^26] (1) Különleges területen és különleges beépítésre nem szánt területen
+11. §[^29] (1) Különleges területen és különleges beépítésre nem szánt területen
 
 a) kemping-,
 
@@ -42,5 +42,5 @@ c) h) és i) pontjában foglalt rendeltetés esetében 40%.
 
 (8) Az (1) bekezdés i) pontjában foglalt esetben a telek legfeljebb 50%-án alakítható ki vízfelület.
 
-[^25]: A 11. §-t megelőző alcím a 201/2013. (VI. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^26]: A 11. § a 201/2013. (VI. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^28]: A 11. §-t megelőző alcím a 201/2013. (VI. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^29]: A 11. § a 201/2013. (VI. 13.) Korm. rendelet 9. §-ával megállapított szöveg.

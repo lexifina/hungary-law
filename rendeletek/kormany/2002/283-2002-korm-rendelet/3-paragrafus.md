@@ -1,4 +1,4 @@
-## 3. §[^10] A vízpart-rehabilitációs tanulmánytervek, illetve azok felülvizsgálatát követően a partvonal-szabályozási és vízpart-rehabilitációs tervek készítése során
+## 3. §[^11] A vízpart-rehabilitációs tanulmánytervek készítése során
 
 a) a Balaton jogi partvonala a hatályos állami ingatlan-nyilvántartási térképi adatbázisban szereplő határvonal,
 
@@ -6,6 +6,7 @@ b) a Balaton szabályozási partvonalát a Törvény 16. § (5) bekezdésében f
 
 c) a Balaton és a parti zóna nádasainak védelméről, valamint az ezeken folytatott nádgazdálkodás szabályairól szóló kormányrendelet alapján a vízügyi hatóság határozatában megállapított nádas minősítést kell figyelembe venni,
 
-d) a vízparti rendeltetések és a területfelhasználás összehangolása céljából a szomszédos településekre készülő vízpart-rehabilitációs tanulmánytervet, illetve annak felülvizsgálatát követően a partvonal-szabályozási és vízpart-rehabilitációs tervet össze kell hangolni.
+d)[^12] a vízparti rendeltetések és a területfelhasználás összehangolása céljából a szomszédos településekre készülő vízpart-rehabilitációs tanulmánytervet össze kell hangolni.
 
-[^10]: A 3. § a 201/2013. (VI. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^11]: A 3. § a 201/2013. (VI. 13.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 463/2017. (XII. 28.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^12]: A 3. § d) pontja a 463/2017. (XII. 28.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.

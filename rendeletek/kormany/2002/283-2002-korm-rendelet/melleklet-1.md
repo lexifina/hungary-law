@@ -1,6 +1,6 @@
-## 21. §[^48] E rendelet rendelkezéseit a vízpart-rehabilitációs tanulmányterv, illetve annak felülvizsgálatát követően a partvonal-szabályozási és vízpart-rehabilitációs terv, valamint a vízpart-rehabilitációs szabályozási követelményekkel érintett területek településrendezési eszközeinek készítése során kell alkalmazni.
+## 21. §[^51] E rendelet rendelkezéseit a vízpart-rehabilitációs tanulmányterv módosítása, a partvonal-szabályozási terv készítése, valamint a vízpart-rehabilitációs szabályozási követelményekkel érintett területek településrendezési eszközeinek készítése során kell alkalmazni.
 
-1. melléklet a 283/2002. (XII. 21.) Korm. rendelethez[^49]
+1. melléklet a 283/2002. (XII. 21.) Korm. rendelethez[^52]
 
 A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási és vízpart-rehabilitációs terv egyeztetési eljárásában résztvevő államigazgatási szervek
 
@@ -48,5 +48,5 @@ A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási 
 
 | 21. | Magyar Építész Kamara, megyei építész kamara | településtervezés |
 
-[^48]: A 21. §-t a 213/2003. (XII. 10.) Korm. rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 201/2013. (VI. 13.) Korm. rendelet 16. §-a iktatta be.
-[^49]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 53. § (1) bekezdésével megállapított, ugyanezen módosító rendelet 53. § (2) bekezdése szerint módosított szöveg.
+[^51]: A 21. §-t újonnan a 201/2013. (VI. 13.) Korm. rendelet 16. §-a iktatta be, szövege a 463/2017. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^52]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 53. § (1) bekezdésével megállapított, ugyanezen módosító rendelet 53. § (2) bekezdése szerint módosított szöveg.
