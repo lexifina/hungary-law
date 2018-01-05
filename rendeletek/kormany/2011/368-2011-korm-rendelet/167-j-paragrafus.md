@@ -1,4 +1,4 @@
-167/J. §[^635] (1) A törzskönyvi nyilvántartás fennálló és törölt adatai, az alapító okiratok és a megszüntető okiratok nyilvánosak, azokat bárki megtekintheti, azokról feljegyzést készíthet, továbbá azok adatai elektronikus úton is hozzáférhetők. A Kincstár a törzskönyvi nyilvántartás (2) bekezdés szerinti adatait honlapján keresztül is elérhetővé teszi.
+167/J. §[^636] (1) A törzskönyvi nyilvántartás fennálló és törölt adatai, az alapító okiratok és a megszüntető okiratok nyilvánosak, azokat bárki megtekintheti, azokról feljegyzést készíthet, továbbá azok adatai elektronikus úton is hozzáférhetők. A Kincstár a törzskönyvi nyilvántartás (2) bekezdés szerinti adatait honlapján keresztül is elérhetővé teszi.
 
 (2) A törzskönyvi jogi személynek a Kincstár honlapján közzéteendő, azon elérhető és kereshető adatai:
 
@@ -10,7 +10,7 @@
 
 a) központi alrendszerébe tartozó költségvetési szerv esetében annak fejezetrend szerinti besorolása,
 
-b)[^636] önkormányzati alrendszerébe tartozó törzskönyvi jogi személy esetében a megye száma, pénzügyi körzet száma és neve, társulási körzet száma,
+b)[^637] önkormányzati alrendszerébe tartozó törzskönyvi jogi személy esetében a megye száma, pénzügyi körzet száma és neve, társulási körzet száma,
 
 4. a törzskönyvi jogi személy vezetőjének neve és kinevezésének időpontja,
 
@@ -20,11 +20,11 @@ b)[^636] önkormányzati alrendszerébe tartozó törzskönyvi jogi személy ese
 
 7. a költségvetési szerv és a jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy alapítójának, irányító szervének vagy felügyeleti szervének és – ha van – fenntartójának megnevezése, székhelye, PIR száma,
 
-8.[^637] a társulásban résztvevő, illetve közös önkormányzati hivatalt létrehozó települési önkormányzatok neve, székhelye, PIR száma, társulási megállapodás szerinti székhely önkormányzat neve, székhelye, PIR száma,
+8.[^638] a társulásban résztvevő, illetve közös önkormányzati hivatalt létrehozó települési önkormányzatok neve, székhelye, PIR száma, társulási megállapodás szerinti székhely önkormányzat neve, székhelye, PIR száma,
 
-9.[^638] a költségvetési szerv alapító okirata, módosító okirata és az alapító okirat módosításokkal egységes szerkezetbe foglalt változata, továbbá megszüntető okirata digitalizált formában.
+9.[^639] a költségvetési szerv alapító okirata, módosító okirata és az alapító okirat módosításokkal egységes szerkezetbe foglalt változata, továbbá megszüntető okirata digitalizált formában.
 
-[^635]: Az Ávr. 167/J. §-a 175/2015. (VII. 7.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^636]: Az Ávr. 167/J. § (2) bekezdés 3. pont b) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 26. pontja szerint módosított szöveg.
-[^637]: Az Ávr. 167/J. § (2) bekezdés 8. pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 27. pontja szerint módosított szöveg.
-[^638]: Az Ávr. 167/J. § (2) bekezdés 9. pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 20. pontja szerint módosított szöveg.
+[^636]: Az Ávr. 167/J. §-a 175/2015. (VII. 7.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^637]: Az Ávr. 167/J. § (2) bekezdés 3. pont b) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 26. pontja szerint módosított szöveg.
+[^638]: Az Ávr. 167/J. § (2) bekezdés 8. pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 27. pontja szerint módosított szöveg.
+[^639]: Az Ávr. 167/J. § (2) bekezdés 9. pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 20. pontja szerint módosított szöveg.
