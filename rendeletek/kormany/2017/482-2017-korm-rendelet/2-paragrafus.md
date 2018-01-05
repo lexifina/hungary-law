@@ -1,0 +1,1 @@
+## „16a. IMIR 2014–2020 rendszer: a 2014–2020 programozási időszakban az európai területi együttműködés célkitűzés keretében megvalósuló transznacionális és interregionális együttműködési programok tagállami hatáskörbe rendelt, nem programszintű feladatainak végrehajtását támogató elektronikus monitoring és információs rendszer,”
