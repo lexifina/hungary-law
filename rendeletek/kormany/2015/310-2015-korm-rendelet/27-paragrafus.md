@@ -2,7 +2,7 @@
 
 27. § (1) A tervpályázat eredményét a dokumentációban rögzített időpontig az ajánlatkérőnek ki kell hirdetnie. Az eredményhirdetés alkalmával, de legkésőbb az eredményhirdetést követő harminc napon belül a pályázók számára megállapított díjakat és a pályamű megvétele esetén annak ellenértékét ki kell fizetni.
 
-(2)[^13] A zárójelentés egy-egy példányát az eredményhirdetésen a jelenlévő pályázóknak az átvétel igazolása mellett át kell adni, valamint az eredményhirdetést követő harminc napon belül mindazok részére meg kell küldeni, akik az eredményhirdetésen nem jelentek meg, de tervpályázati eljárásban való részvétel iránt érdeklődtek, illetve akiket az ajánlatkérő a tervpályázaton való indulásra felkért, függetlenül attól, hogy pályaművet benyújtottak-e vagy sem.
+(2)[^17] A zárójelentés egy-egy példányát az eredményhirdetésen a jelenlévő pályázóknak az átvétel igazolása mellett át kell adni, valamint az eredményhirdetést követő harminc napon belül mindazok részére meg kell küldeni, akik az eredményhirdetésen nem jelentek meg, de tervpályázati eljárásban való részvétel iránt érdeklődtek, illetve akiket az ajánlatkérő a tervpályázaton való indulásra felkért, függetlenül attól, hogy pályaművet benyújtottak-e vagy sem.
 
 (3) Az eredményhirdetésre meg kell hívni a bírálóbizottság résztvevőit, a díjazott és megvételt nyert pályaművek szerzőit, valamint meghívásos tervpályázat esetén a meghívott pályázókat.
 
@@ -14,7 +14,7 @@
 
 (7) A (6) bekezdés szerinti hirdetményben nem kell megadni azokat az információkat, amelyek közzététele akadályozná a jogérvényesítést, ellentétes lenne a közérdekkel, sértené valamely gazdálkodó szervezet üzleti érdekeit vagy a szolgáltatók közötti tisztességes versenyt.
 
-(8)[^14] Állami tulajdonban lévő műemlékeket érintő pályázati dokumentációk eredeti vagy másolati példányait az (1) és (5) bekezdésben meghatározott esetben a kulturális örökség védett elemeinek központi nyilvántartása feladatkörében eljáró kulturális örökség védelméért felelős miniszter számára meg kell küldeni.
+(8)[^18] Állami tulajdonban lévő műemlékeket érintő pályázati dokumentációk eredeti vagy másolati példányait az (1) és (5) bekezdésben meghatározott esetben a kulturális örökség védett elemeinek központi nyilvántartása feladatkörében eljáró kulturális örökség védelméért felelős miniszter számára meg kell küldeni.
 
-[^13]: A 27. § (2) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
-[^14]: A 27. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 305. § b) pontja szerint módosított szöveg.
+[^17]: A 27. § (2) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^18]: A 27. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 305. § b) pontja szerint módosított szöveg.

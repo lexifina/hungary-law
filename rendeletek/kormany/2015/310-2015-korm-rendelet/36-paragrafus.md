@@ -10,7 +10,7 @@
 
 (6) A művészeti tervpályázatban a művészeti szolgáltatáshoz kapcsolódó kiegészítő tervezési feladatokra az ajánlatkérő szakági tervező bevonását írhatja elő.
 
-(7)[^21] A pályaműveket bírálóbizottság bírálja el, amelynek tagjai a tervpályázat tárgyában szakértelemmel rendelkező természetes személyek (különösen művészek, művészettörténészek). Műemlék építménybe kerülő művészeti alkotás létrehozására kiírt tervpályázat bírálóbizottságába a kulturális örökség védelméért felelős miniszter művészettörténészt tagként delegál. A bírálóbizottság létszáma legalább három fő.
+(7)[^25] A pályaműveket bírálóbizottság bírálja el, amelynek tagjai a tervpályázat tárgyában szakértelemmel rendelkező természetes személyek (különösen művészek, művészettörténészek). Műemlék építménybe kerülő művészeti alkotás létrehozására kiírt tervpályázat bírálóbizottságába a kulturális örökség védelméért felelős miniszter művészettörténészt tagként delegál. A bírálóbizottság létszáma legalább három fő.
 
 (8) Ha a pályázat résztvevőitől meghatározott szakképzettséget, szakképesítést követelnek meg, a bírálóbizottság tagjai legalább egyharmadának rendelkeznie kell a pályázóktól megkövetelt vagy azzal egyenértékű vagy magasabb szintű szakképzettséggel, illetve szakképesítéssel.
 
@@ -22,4 +22,4 @@
 
 (12) A művészeti tervpályázat eredményének közzétételére a 27. § (6) és (7) bekezdése alkalmazandó.
 
-[^21]: A 36. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 305. § c) pontja szerint módosított szöveg.
+[^25]: A 36. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 305. § c) pontja szerint módosított szöveg.
