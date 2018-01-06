@@ -1,4 +1,4 @@
-## 6. § Hatályát veszti a Digitális Nemzet Fejlesztési Program végrehajtásához kapcsolódó szélessávú hálózatfejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 392/2014. (XII. 31.) Korm. rendelet 4. § (2) bekezdése.
+## 6. §[^1]
 
 1. melléklet a 484/2017. (XII. 28.) Korm. rendelethez
 
@@ -57,3 +57,5 @@
 26. azok az 1–25. pontban nem szereplő hatósági eljárások, amelyek az 1. § szerinti beruházások megvalósításához, használatbavételéhez és üzembe helyezéséhez szükségesek,
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések felülvizsgálatára, módosítására irányuló hatósági eljárások.
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
