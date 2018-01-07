@@ -1,3 +1,3 @@
-## kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
+## 3–5. §
 
 ## 4. Záró rendelkezések
