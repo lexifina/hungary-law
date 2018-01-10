@@ -6,6 +6,4 @@ b) az Európai Bizottság egyedi határozatának hatálya alá tartozó, előzet
 
 regionális beruházási, illetve kutatás-fejlesztési projektekhez nyújtott támogatást tartalmaz.
 
-(2)[^8]
-
-[^8]: A 11. § (2) bekezdése a 10. § (2) bekezdése alapján 2018. január 10-én lép hatályba.
+(2) E rendelet a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i 2017/1084/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
