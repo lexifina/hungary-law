@@ -18,6 +18,6 @@ g) a beruházás milyen arányban igényel szakképzett és felsőfokú végzett
 
 h) a beruházó közvetlenül vagy kapcsolt vállalkozása útján, szerződés alapján együttműködik a kezelő szervvel egy hatékony, erős, versenyképes, világpiaci igényeknek megfelelni képes magyarországi beszállítói háttéripar kifejlesztésében,
 
-i)[^31] K+F projektek esetén a vállalkozás eddigi magyarországi kutatás-fejlesztési és innovációs tevékenységét, továbbá a meglévő valamint a beruházás kapcsán létesíteni vállalt, a hazai kutatás-fejlesztési intézményekkel, illetve felsőoktatási intézményekkel megvalósuló együttműködéseit.
+i)[^32] K+F projektek esetén a vállalkozás eddigi magyarországi kutatás-fejlesztési és innovációs tevékenységét, továbbá a meglévő valamint a beruházás kapcsán létesíteni vállalt, a hazai kutatás-fejlesztési intézményekkel, illetve felsőoktatási intézményekkel megvalósuló együttműködéseit.
 
-[^31]: A 10. § i) pontját a 426/2016. (XII. 15.) Korm. rendelet 7. §-a iktatta be.
+[^32]: A 10. § i) pontját a 426/2016. (XII. 15.) Korm. rendelet 7. §-a iktatta be.

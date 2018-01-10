@@ -112,7 +112,9 @@ e) pénzügyi terv, ideértve eredményterv, mérlegterv, cash-flow terv benyúj
 
 44.[^21] termék-diverzifikációt eredményező induló beruházás: olyan induló beruházás, amely létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményezi, de nem minősül új gazdasági tevékenység végzésére irányuló induló beruházásnak;
 
-45.[^22] új eljárási innovációt eredményező induló beruházás: az Európai Bizottság a regionális állami támogatásokról (2014–2020) szóló 2013/C 209/01 számú európai bizottsági iránymutatása 15. pontja szerinti olyan induló beruházás, amelynek célja a meglévő létesítmények új eljárási innovációkkal történő diverzifikációja, de nem minősül új gazdasági tevékenység végzésére irányuló induló beruházásnak.
+45.[^22] új eljárási innovációt eredményező induló beruházás: az Európai Bizottság a regionális állami támogatásokról (2014–2020) szóló 2013/C 209/01 számú európai bizottsági iránymutatása 15. pontja szerinti olyan induló beruházás, amelynek célja a meglévő létesítmények új eljárási innovációkkal történő diverzifikációja, de nem minősül új gazdasági tevékenység végzésére irányuló induló beruházásnak;
+
+46.[^23] áttelepítés: az általános csoportmentességi rendelet 2. cikk 61a. pontja szerinti áttelepítés.
 
 [^2]: A 3. § 2. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: A 3. § 6. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
@@ -135,3 +137,4 @@ e) pénzügyi terv, ideértve eredményterv, mérlegterv, cash-flow terv benyúj
 [^20]: A 3. § 43. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (16) bekezdése iktatta be.
 [^21]: A 3. § 44. pontját a 119/2017. (V. 29.) Korm. rendelet 1. § (8) bekezdése iktatta be.
 [^22]: A 3. § 45. pontját a 119/2017. (V. 29.) Korm. rendelet 1. § (9) bekezdése iktatta be.
+[^23]: A 3. § 46. pontját a 346/2017. (XI. 20.) Korm. rendelet 1. § (3) bekezdése iktatta be.

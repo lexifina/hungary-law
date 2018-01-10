@@ -1,8 +1,8 @@
-## 29/B. §[^75] E rendeletnek a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet módosításáról szóló 119/2017. (V. 29.) kormányrendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit – a 3. § 45. pont szerinti új eljárási innovációt eredményező induló beruházásra vonatkozó eljárások kivételével – a 2017. január 1-jét követően megindult és a Módr. hatálybalépésekor[^76] folyamatban lévő eljárásokban is alkalmazni kell, amennyiben az eljárásban támogatási szerződés megkötésére a Módr. hatályba lépésének napjáig nem került sor.
+## 29/C. §[^79] E rendeletnek a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet módosításáról szóló 346/2017. (XI. 20.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 16. § (1) bekezdés a) pontját a Módr2. hatálybalépésekor[^80] folyamatban lévő eljárásokban is alkalmazni kell, amennyiben az eljárásban támogatási szerződés megkötésére a Módr2. hatálybalépésének napjáig nem került sor.
 
 ## 18. Az Európai Unió jogának való megfelelés
 
-## 30. §[^77] E rendelet
+## 30. §[^81] E rendelet
 
 a) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014. 06. 26., 1. o.) 14. és 25. cikke szerinti, továbbá
 
@@ -10,6 +10,6 @@ b) az Európai Bizottság egyedi határozatának hatálya alá tartozó, előzet
 
 regionális beruházási, illetve kutatás-fejlesztési projektekhez nyújtott támogatást tartalmaz.
 
-[^75]: A 29/B. §-t a 119/2017. (V. 29.) Korm. rendelet 10. §-a iktatta be.
-[^76]: A hatálybalépés időpontja 2017. május 30.
-[^77]: A 30. § a 426/2016. (XII. 15.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^79]: A 29/C. §-t a 346/2017. (XI. 20.) Korm. rendelet 7. §-a iktatta be.
+[^80]: A hatálybalépés időpontja 2017. november 21.
+[^81]: A 30. § a 426/2016. (XII. 15.) Korm. rendelet 25. §-ával megállapított szöveg.
