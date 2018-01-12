@@ -10,7 +10,7 @@ b) az Evt. 108. § (1) bekezdés b) pontjában foglaltakat megvalósítja: alkal
 
 c) az Evt. 108. § (1) bekezdés c) pontjában foglaltakat megvalósítja: alkalmanként a gyűjtött mennyiségtől függően 0,5 EJA–5,0 EJA;
 
-d) az Evt. 108. § (1) bekezdés d) pontjában foglaltakat megvalósítja, a kivágott fa köbmétereként 0,3 EJA, de legalább 0,3 EJA;
+d)[^15] az Evt. 108. § (1) bekezdés d) pontjában foglaltakat megvalósítja, a kivágott fa után bruttó köbméterenként 0,3 EJA, de legalább 0,3 EJA;
 
 e) az Evt. 108. § (1) bekezdés e) pontjában foglaltakat megvalósítja 0,1 EJA, motorfűrész esetén 0,2 EJA;
 
@@ -30,7 +30,7 @@ l) az Evt. 108. § (1) bekezdés l) pontjában foglaltakat megvalósítja 2,0 EJ
 
 m) az Evt. 108. § (1) bekezdés m) pontjában foglaltakat megvalósítja: az igénybe vett terület után az Evt. 81. § (2)–(4) bekezdés szerinti erdővédelmi járulék háromszorosának megfelelő, de legalább 1,0 EJA erdővédelmi bírságot; a kialakult állapot fennmaradásának engedélyezése esetén az Evt 81. § (2)–(4) bekezdés szerinti erdővédelmi járulék tízszeresének megfelelő, de legalább 1,0 EJA erdővédelmi bírságot köteles fizetni.
 
-(2) Ha az erdő tulajdonosa, ingatlan-nyilvántartásba bejegyzett vagyonkezelői, földhasználati, haszonélvezeti, használati jog jogosultja az Evt. 108. § (2) bekezdés szerinti kötelezettségét megsérti, a kitermelt faanyag után köbméterenként 0,2 EJA erdővédelmi bírságot köteles fizetni.
+(2)[^16] Ha az erdő tulajdonosa, ingatlan-nyilvántartásba bejegyzett vagyonkezelői, földhasználati, haszonélvezeti, használati jog jogosultja, az erdészeti szakszemélyzet vagy a jogosult erdészeti szakszemélyzet az Evt. 108. § (2) bekezdés szerinti kötelezettségét megsérti, a kitermelt faanyag után bruttó köbméterenként 0,2 EJA erdővédelmi bírságot köteles fizetni.
 
 (3) A vadászatra jogosult
 
@@ -42,9 +42,9 @@ c) az Evt. 108. § (3) bekezdés c) pontjában meghatározottak esetén: a káro
 
 ## erdővédelmi bírságot köteles fizetni.
 
-(4)[^2] A faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos eljárás során az erdővédelmi bírság mértéke – mérlegeléssel megállapítható mérték esetében az Evt. 108. § (7) bekezdésében foglalt szempontok figyelembevételével
+(4)[^17] A faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos eljárás során az erdővédelmi bírság mértéke – mérlegeléssel megállapítható mérték esetében az Evt. 108. § (7) bekezdésében foglalt szempontok figyelembevételével
 
-a) az Evt. 108. § (5) bekezdés a) és b) pontjában meghatározott esetben alkalmanként 5,0 EJA – 75,0 EJA;
+a)[^18] az Evt. 108. § (5) bekezdés a) és b) pontjában meghatározott esetben alkalmanként 0,5 EJA – 75,0 EJA;
 
 b) az Evt. 108. § (5) bekezdés c) pontjában meghatározott esetben alkalmanként 0,5 EJA – 25,0 EJA;
 
@@ -60,7 +60,10 @@ cd) 6. cikk (1) bekezdés a) pontja és a fát és fatermékeket piaci forgalomb
 
 ce) 6. cikk (1) bekezdés b) és c) pontja, valamint a 607/2012/EU bizottsági végrehajtási rendelet 4. cikke szerinti kötelezettség elmulasztása, vagy nem megfelelő teljesítése esetén, alkalmanként 1,0 EJA – 15,0 EJA.
 
-(5)[^3] Ha egy eljárás keretében több, a (4) bekezdés hatálya alá tartozó erdővédelmi bírsággal sújtható tényállás állapítható meg, a bírság teljes összegét az egyes bírságtételek összegének figyelembevételével úgy kell megállapítani, hogy annak együttes összege legfeljebb 150,0 EJA lehet.
+(5)[^19] Ha egy eljárás keretében több, a (4) bekezdés hatálya alá tartozó erdővédelmi bírsággal sújtható tényállás állapítható meg, a bírság teljes összegét az egyes bírságtételek összegének figyelembevételével úgy kell megállapítani, hogy annak együttes összege legfeljebb 150,0 EJA lehet.
 
-[^2]: A 4. § (4) bekezdését a 342/2015. (XI. 11.) Korm. rendelet 1. §-a iktatta be.
-[^3]: A 4. § (5) bekezdését a 342/2015. (XI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 4. § (1) bekezdés d) pontja a 447/2017. (XII. 27.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^16]: A 4. § (2) bekezdése a 447/2017. (XII. 27.) Korm. rendelet 3. § b) és f) pontja szerint módosított szöveg.
+[^17]: A 4. § (4) bekezdését a 342/2015. (XI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 4. § (4) bekezdés a) pontja a 447/2017. (XII. 27.) Korm. rendelet 3. § g) pontja szerint módosított szöveg.
+[^19]: A 4. § (5) bekezdését a 342/2015. (XI. 11.) Korm. rendelet 1. §-a iktatta be.
