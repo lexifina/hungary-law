@@ -1,0 +1,1 @@
+## 20. § A levélben szavazók névjegyzékéből a Ve. 267. § a) pontja alapján törölni kell azt a választópolgárt, aki legkésőbb 2018. április 1-jén magyarországi lakcímet létesített. [Ve. 267. § a) pont]

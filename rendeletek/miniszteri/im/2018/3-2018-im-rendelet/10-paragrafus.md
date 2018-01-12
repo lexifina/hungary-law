@@ -1,0 +1,1 @@
+## 9. § A helyi választási iroda értesítő átadásával vagy megküldésével tájékoztatja a szavazóköri névjegyzékbe történt felvételéről azt a választópolgárt, aki 2018. február 9-ét követően kerül a település szavazóköri névjegyzékébe. [Ve. 116. § (1) bekezdés]
