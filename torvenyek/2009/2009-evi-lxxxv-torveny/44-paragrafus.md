@@ -1,9 +1,11 @@
-44. § (1) A jóvá nem hagyott fizetési művelet teljesítése esetén a pénzforgalmi szolgáltató haladéktalanul köteles
+44. § (1) A jóvá nem hagyott fizetési művelet teljesítése esetén – függetlenül attól, hogy azt fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltatón keresztül kezdeményezték vagy sem – a fizető fél fizetési számláját vezető pénzforgalmi szolgáltató – kivéve, ha az adott helyzetben észszerű okból az ügyfél csalására gyanakszik, és ezen okról írásban tájékoztatja a Felügyeletet – köteles
 
-a) megtéríteni a fizető fél részére a fizetési művelet összegét,
+a) azután, hogy tudomást szerzett vagy tájékoztatták a műveletről haladéktalanul, de legkésőbb az ezt követő munkanap végéig megtéríteni a fizető fél részére a jóvá nem hagyott fizetési művelet összegét, és
 
-b) a fizetési számla tekintetében a megterhelés előtti állapotot helyreállítani, és
+b) a fizetési számla tekintetében a megterhelés előtti állapotot helyreállítani azzal, hogy a jóváírás értéknapja nem lehet későbbi, mint az a nap, amikor a jóvá nem hagyott fizetési művelet teljesítése megtörtént.
 
-c) megtéríteni a fizető fél kárát.
+(1a) Ha a jóvá nem hagyott fizetési művelet teljesítéséért a fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltató a felelős, akkor a fizetési számlát vezető pénzforgalmi szolgáltatót – annak kérésére – haladéktalanul kártalanítja a fizető félnek visszatérített összegek következtében elszenvedett veszteségekért és kifizetett összegekért, ideértve a jóvá nem hagyott fizetési művelet összegét is. Ez esetben a fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltatónak kell bizonyítania, hogy – a saját felelősségi körén belül – a fizetési művelet hitelesítése és pontos rögzítése megtörtént, valamint teljesítését az általa nyújtott pénzforgalmi szolgáltatás műszaki hibája vagy üzemzavara nem akadályozta.
+
+(1b) További pénzügyi kártérítést a fizető fél és a pénzforgalmi szolgáltató, vagy adott esetben a fizető fél és a fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltató között létrejött szerződésre alkalmazandó joggal összhangban lehet megállapítani.
 
 (2) Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy a pénzforgalmi szolgáltatót az (1) bekezdés szerinti kötelezettség nem terheli, ha a fizető fél olyan készpénz-helyettesítő fizetési eszközt használt, amely a fizető fél beazonosíthatóságát nem teszi lehetővé, vagy a pénzforgalmi szolgáltató a készpénz-helyettesítő fizetési eszköz jellege miatt nincs abban a helyzetben, hogy a művelet jóváhagyását bizonyítsa.

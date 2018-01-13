@@ -1,6 +1,6 @@
 ## Kedvezményezett tájékoztatása
 
-33. § (1) A kedvezményezett pénzforgalmi szolgáltatója a fizetési művelet teljesítését követően a következő adatokról köteles a kedvezményezettet haladéktalanul tájékoztatni:
+33. § (1) A kedvezményezett pénzforgalmi szolgáltatója az általa nyújtott szolgáltatásra vonatkozóan a fizetési művelet teljesítését követően a következő adatokról haladéktalanul tájékoztatja a kedvezményezettet:
 
 a) a fizetési művelet és a fizető fél kedvezményezett általi beazonosíthatóságát lehetővé tevő hivatkozásról, valamint a fizetési művelettel továbbított egyéb információkról,
 

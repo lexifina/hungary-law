@@ -14,19 +14,21 @@ b) a szolgáltatásra vonatkozóan:
 
 ba) a szolgáltatás lényeges jellemzőiről,
 
-bb) azokról az adatokról vagy egyedi azonosítóról, amelyek a fizetési megbízás teljesítéséhez szükségesek,
+bb) azokról az adatokról vagy egyedi azonosítóról, amelyek a fizetési megbízás kezdeményezéséhez vagy teljesítéséhez szükségesek,
 
-bc) a fizetési művelet teljesítéséhez szükséges jóváhagyásnak és a jóváhagyás visszavonásának módjáról,
+bc) a fizetési művelet kezdeményezéséhez vagy teljesítéséhez szükséges jóváhagyásnak és a jóváhagyás visszavonásának módjáról,
 
 bd) a fizetési megbízás átvételének időpontjáról és esetlegesen a szolgáltató általi tárgynapi teljesítésre történő befogadás végső időpontjáról,
 
-be) a szolgáltatás teljesítésének időtartamáról, valamint
+be) a szolgáltatás teljesítésének időtartamáról,
 
-bf) a készpénz-helyettesítő fizetési eszköz használatára vonatkozó fizetési műveleti értékhatár lehetőségeiről;
+bf) a készpénz-helyettesítő fizetési eszköz használatára vonatkozó fizetési műveleti értékhatár lehetőségeiről,
+
+bg) több kártyamárkás kártyaalapú készpénz-helyettesítő fizetési eszköz esetén az ügyfélnek a 2015/751/EU európai parlamenti és tanácsi rendelet 8. cikke szerinti jogáról;
 
 c) az ellenszolgáltatásra vonatkozóan:
 
-ca) tételesen a szolgáltató részére fizetendő valamennyi jutalékról, díjról, költségről vagy egyéb fizetési kötelezettségről,
+ca) tételesen a szolgáltató részére fizetendő valamennyi jutalékról, díjról, költségről vagy egyéb fizetési kötelezettségről, ideértve a pénzforgalmi szolgáltatáshoz kapcsolódó tájékoztatás módjával és gyakoriságával összefüggő díjakat is,
 
 cb) a szolgáltató által, a fizetési művelet teljesítése során alkalmazandó kamatlábakról és átváltási árfolyamokról, vagy referencia-kamatláb és referencia-árfolyam alkalmazása esetén a tényleges kamat kiszámításának módjáról, és a referencia-kamatláb vagy átváltási árfolyam megállapításának időpontjáról, indexéről vagy alapjáról, valamint
 
@@ -34,7 +36,7 @@ cc) erre vonatkozó megállapodás esetén – a 15. § (4) bekezdésével össz
 
 d) a kapcsolattartásra vonatkozóan:
 
-da) a kapcsolattartás módjáról, ideértve az ügyfél által használt azon eszközök műszaki követelményeit is, amely útján a szolgáltató tájékoztatási kötelezettségének eleget tesz,
+da) a kapcsolattartás módjáról, ideértve az ügyfél által használt azon eszközök műszaki és szoftver követelményeit is, amely útján a szolgáltató tájékoztatási kötelezettségének eleget tesz,
 
 db) a szolgáltató tájékoztatási kötelezettségének és a szerződési feltételek rendelkezésre bocsátásának módjáról és gyakoriságáról,
 
@@ -44,25 +46,27 @@ dd) az ügyfelet megillető, a 11. §-ban meghatározott tájékoztatáshoz val�
 
 e) a biztonsági intézkedésre és a felelősségre vonatkozóan:
 
-ea) az ügyfélnek a 40. §-ban meghatározott bejelentési kötelezettségéről és a készpénz-helyettesítő fizetési eszköz biztonságos kezelésére vonatkozó kötelezettségeiről,
+ea) az ügyfélnek a 40. § (2) bekezdésében meghatározott bejelentési kötelezettségéről, annak teljesítési módjáról és a készpénz-helyettesítő fizetési eszköz biztonságos kezelésére vonatkozó kötelezettségeiről,
 
 eb) erre vonatkozó megállapodás esetén a szolgáltatót megillető, a készpénz-helyettesítő fizetési eszközre vonatkozó zárolási lehetőségéről,
 
 ec) a fizető felet terhelő, a 45. §-ban meghatározott felelősségi szabályokról,
 
-ed) az ügyfelet terhelő, a 42. § (1) bekezdésében meghatározott, jóvá nem hagyott vagy hibásan teljesített fizetési műveletre vonatkozó tájékoztatási kötelezettségéről és a jóvá nem hagyott fizetési műveletekre vonatkozó szolgáltatói felelősségről,
+ed) az ügyfelet terhelő, a 42. § (1) bekezdésében meghatározott, jóvá nem hagyott vagy hibásan teljesített vagy hibásan kezdeményezett fizetési műveletre vonatkozó tájékoztatási kötelezettségéről, annak teljesítési határidejéről és módjáról, valamint a jóvá nem hagyott fizetési műveletekre vonatkozó szolgáltatói felelősségről,
 
-ee) a szolgáltatónak a fizetési művelet teljesítéséért a 49–51. §-ban meghatározott felelősségéről, valamint
+ee) a szolgáltatónak a fizetési művelet kezdeményezéséért vagy teljesítéséért a 49–51. §-ban meghatározott felelősségéről,
 
-ef) a 45. §-ban és a 46. §-ban meghatározott visszafizetési feltételekről;
+ef) a 45. §-ban és a 46. §-ban meghatározott visszafizetési feltételekről,
+
+eg) a pénzforgalmi szolgáltató által vélt vagy észlelt csalás vagy biztonsági fenyegetések esetén az ügyfél értesítésére szolgáló biztonságos eljárásról;
 
 f) a keretszerződés módosítására és megszüntetésére vonatkozóan:
 
-fa) arról, hogy a 15. § szerinti szerződésmódosítást az ügyfél részéről csak akkor lehet elfogadottnak tekinteni, ha annak hatálybalépése előtt a szolgáltatót nem tájékoztatta arról, hogy a módosítást nem fogadja el,
+fa) arról – ha erről megállapodnak –, hogy a 15. § szerinti keretszerződés módosítását az ügyfél részéről csak akkor lehet elfogadottnak tekinteni, ha a módosítás javasolt hatálybalépése előtt a szolgáltatót nem tájékoztatta arról, hogy a módosítást nem fogadja el,
 
-fb) a szerződés időtartamáról, valamint
+fb) a keretszerződés időtartamáról, valamint
 
-fc) az ügyfelet megillető, a keretszerződésre vonatkozó felmondási jogról és annak következményeiről;
+fc) az ügyfelet megillető, a keretszerződésre vonatkozó felmondási jogról és annak következményeiről, valamint a pénzforgalmi szolgáltató által történő felmondással kapcsolatos minden egyéb megállapodásról;
 
 g) a jogorvoslatra vonatkozóan:
 
@@ -70,8 +74,10 @@ ga) a jogválasztásról, a kizárólagos hatáskör és illetékesség kiköté
 
 gb) a szerződésből eredő jogviták peren kívüli elintézésére rendelkezésre álló fórumokról.
 
-(2) A pénzforgalmi szolgáltató nem köteles az (1) bekezdés b) pontjának be) alpontja és c) pontjának ca) alpontja szerinti tájékoztatást megadni, ha
+(2) A szolgáltatónak nem kell az (1) bekezdés b) pontjának be) alpontja szerinti tájékoztatást megadnia, ha
 
 a) a kedvezményezett pénzforgalmi szolgáltatójának székhelye nem EGT-állam területén található, vagy a fizetési művelet teljesítése nem EGT-állam pénznemében történik, és
 
 b) az adatok nem állnak a pénzforgalmi szolgáltató részére rendelkezésre.
+
+(3) A pénzforgalmi szolgáltatónak nem kell az (1) bekezdés c) pont ca) alpontja szerinti tájékoztatást megadnia az EGT-államon kívül felmerülő díj, költség vagy egyéb fizetési kötelezettség tekintetében, ha az adatok nem állnak a pénzforgalmi szolgáltató rendelkezésére.

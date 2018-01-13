@@ -1,1 +1,1 @@
-9. § Ha a keretszerződés megkötése az ügyfél kérése alapján olyan távközlő eszköz útján történik, amely az előzetes tájékoztatást nem teszi lehetővé, a pénzforgalmi szolgáltató a keretszerződés megkötését követően haladéktalanul köteles a 8. § szerinti tájékoztatást megadni.
+9. § Ha a keretszerződés megkötése az ügyfél kérése alapján olyan távoli kommunikáció útján történik, amely az előzetes tájékoztatást nem teszi lehetővé, a pénzforgalmi szolgáltató a keretszerződés megkötését követően haladéktalanul köteles a 8. § szerinti tájékoztatást megadni.

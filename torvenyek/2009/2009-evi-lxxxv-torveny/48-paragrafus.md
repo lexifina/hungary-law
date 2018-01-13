@@ -6,6 +6,8 @@
 
 (4) Ha az ügyfél a 31. § (1) bekezdésének a) pontjában vagy a 10. § b) pontjának bb) alpontjában meghatározottakon kívül további adatokat ad meg, a pénzforgalmi szolgáltató a fizetési műveletnek az egyedi azonosító által megjelölt teljesítéséért felel.
 
-(5) A pénzforgalmi szolgáltató – a (3) bekezdésben meghatározottak ellenére – köteles a fizetési művelet összegének visszaszerzése érdekében az adott helyzetben általában elvárható magatartást tanúsítani.
+(5) A fizető fél pénzforgalmi szolgáltatója – a (3) bekezdésben meghatározottak ellenére – köteles a fizetési művelet összegének visszaszerzése érdekében az adott helyzetben általában elvárható magatartást tanúsítani. A kedvezményezett pénzforgalmi szolgáltatójának a fizetési művelet összegének visszaszerzése érdekében együtt kell működnie a fizető fél pénzforgalmi szolgáltatójával, ideértve azt is, hogy a fizető fél pénzforgalmi szolgáltatójának megad minden olyan lényeges információt, amely a visszaszerzéshez szükséges.
+
+(5a) Ha a fizetési művelet összegének a fizető fél pénzforgalmi szolgáltatója általi visszaszerzése nem lehetséges, a fizető fél pénzforgalmi szolgáltatója a fizető félnek – annak írásbeli kérelmére – megad minden olyan rendelkezésére álló lényeges információt, amely szükséges ahhoz, hogy a fizető fél a fizetési művelet összegének visszaszerzése érdekében a megfelelő jogi lépéseket megtehesse.
 
 (6) A felek a keretszerződésben megállapodhatnak arról, hogy a pénzforgalmi szolgáltató a fizetési művelet összegének (5) bekezdés szerinti visszaszerzése esetén külön díjat, költséget vagy egyéb fizetési kötelezettséget számíthat fel.

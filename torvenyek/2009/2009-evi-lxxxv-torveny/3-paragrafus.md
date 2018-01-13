@@ -16,4 +16,4 @@ vonatkoznak.
 
 (2a) Ha az ügyfél fogyasztó, a 36/A. § rendelkezéseitől hátrányára eltérni nem lehet.
 
-(3) A felek a IV. Fejezet rendelkezéseitől nem térhetnek el.
+(3) A felek a 13. § és a IV. Fejezet rendelkezéseitől nem térhetnek el.

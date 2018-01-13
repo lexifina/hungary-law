@@ -1,0 +1,1 @@
+31/B. § Fizetés-kezdeményezési szolgáltatás kezdeményezésekor a fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltatónak tájékoztatnia kell a fizető fél fizetési számláját vezető pénzforgalmi szolgáltatót a fizetési művelet azonosítását lehetővé tevő hivatkozásról.

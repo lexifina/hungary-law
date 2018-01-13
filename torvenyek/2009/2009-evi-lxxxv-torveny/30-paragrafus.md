@@ -1,1 +1,1 @@
-30. § Ha az egyszeri fizetési megbízás az ügyfél kérése alapján olyan távközlő eszköz útján történik, amely az előzetes tájékoztatást nem teszi lehetővé, a pénzforgalmi szolgáltató a fizetési megbízás teljesítését követően haladéktalanul köteles a 31. § szerinti tájékoztatást megadni.
+30. § Ha az egyszeri fizetési megbízás az ügyfél kérése alapján olyan távoli kommunikáció útján történik, amely az előzetes tájékoztatást nem teszi lehetővé, a pénzforgalmi szolgáltató a fizetési megbízás teljesítését követően haladéktalanul köteles a 31. § szerinti tájékoztatást megadni.

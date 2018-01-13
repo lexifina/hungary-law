@@ -1,6 +1,6 @@
 38. § (1) A fizetési megbízásnak a fizető fél pénzforgalmi szolgáltatója által történt átvételét követően az ügyfél a fizetési megbízást nem vonhatja vissza.
 
-(2) Ha a fizetési megbízást a kedvezményezett kezdeményezte, vagy rajta keresztül kezdeményezték, a fizetési megbízásnak vagy a fizetési művelet teljesítése jóváhagyásának a kedvezményezett részére való átadását követően a fizető fél a fizetési megbízást nem vonhatja vissza.
+(2) Ha a fizetési megbízást fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltató kezdeményezte vagy a kedvezményezett kezdeményezte, vagy rajta keresztül kezdeményezték, a fizetési megbízásnak vagy a fizetési művelet teljesítése jóváhagyásának a kedvezményezett részére való átadását vagy a fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltató felé történő jóváhagyását követően a fizető fél a fizetési megbízást nem vonhatja vissza.
 
 (3) Beszedés esetében a fizető fél a fizetési megbízást – a visszatérítéshez való jog sérelme nélkül – a terhelést megelőző munkanapig vonhatja vissza.
 

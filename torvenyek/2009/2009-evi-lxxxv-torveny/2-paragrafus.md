@@ -10,7 +10,21 @@
 
 4. egyedi azonosító: a fizetési számla, vagy fizetési számla hiányában a kedvezményezett egyértelmű azonosítása céljából a pénzforgalmi szolgáltató által az ügyfél számára meghatározott betű-, számjegy- vagy jelkombináció,
 
+4a. erős ügyfél-hitelesítés: hitelesítés legalább két olyan
+
+a) ismeret, azaz csak az ügyfél által ismert információ,
+
+b) birtoklás, azaz csak az ügyfél által birtokolt dolog, és
+
+c) biológiai tulajdonság, azaz az ügyfél jellemzője
+
+kategóriába sorolható elem felhasználásával, amely kategóriák egymástól függetlenek annyiban, hogy az egyik feltörése nem befolyásolja a többi megbízhatóságát és az eljárás kialakítása révén biztosított az azonosítási adatok bizalmassága,
+
 5. értéknap: az a nap, amelyet a pénzforgalmi szolgáltató a fizetési számla javára vagy a fizetési számla terhére elszámolt pénzösszeg utáni kamatszámítás szempontjából figyelembe vesz,
+
+5a. érzékeny fizetési adatok: olyan adatok, amelyek csalás elkövetésére alkalmazhatók, ideértve a személyes hitelesítési adatokat is azzal, hogy a fizetés-kezdeményezési szolgáltatás vagy számlainformációs szolgáltatás tekintetében nem érzékeny fizetési adat a számlatulajdonos neve és a fizetési számlájának száma,
+
+5b. fizetési márka: bármilyen olyan valósan megjelenő vagy digitális név, megnevezés, jel, szimbólum vagy ezek kombinációja, amellyel jelezhető, hogy a kártyaalapú fizetési műveletet melyik fizetésikártya-rendszer keretében hajtják végre,
 
 6. fizetési megbízás: a fizető félnek vagy a kedvezményezettnek a saját pénzforgalmi szolgáltatója részére fizetési művelet teljesítésére adott megbízása, valamint a hatósági átutalási megbízás és az átutalási végzés,
 
@@ -20,9 +34,11 @@
 
 8a. fizetési számla váltása: fogyasztó kérésére a valamely fizetési számlán végrehajtott, rendszeres átutalásra, rendszeresen ismétlődő beszedésre és várhatóan rendszeresen beérkező átutalásokra vonatkozó fizetési megbízások mindegyikére vagy meghatározott megbízásokra vonatkozó információnak az egyik pénzforgalmi szolgáltatótól egy másik pénzforgalmi szolgáltatóhoz történő átadása, vagy az egyik fizetési számla pozitív számlaegyenlegének a másikra történő transzfere, vagy mindkettő, akár a korábbi fizetési számla lezárásával, akár anélkül,
 
+8b. fizetés-kezdeményezési szolgáltatás: a Hpt.-ben meghatározott fizetés-kezdeményezési szolgáltatás,
+
 9. fizető fél: az a jogalany,
 
-a) aki a fizetési számla tulajdonosaként fizetési számlájáról fizetési megbízást hagy jóvá, vagy
+a) aki a fizetési számla tulajdonosaként a fizetési számla terhére fizetési megbízást hagy jóvá, vagy
 
 b) aki a fizetési számla hiányában fizetési megbízást ad, vagy
 
@@ -30,21 +46,23 @@ c) akinek a fizetési számláját hatósági átutalási megbízás vagy átuta
 
 10. fogyasztó: a Polgári Törvénykönyvről szóló törvényben meghatározott fogyasztó,
 
-11. hitelesítés: olyan eljárás, amely lehetővé teszi, hogy a pénzforgalmi szolgáltató ellenőrizze a készpénz-helyettesítő fizetési eszköz használatát, ideértve annak személyes biztonsági elemeit is,
+11. hitelesítés: olyan eljárás, amely lehetővé teszi, hogy a pénzforgalmi szolgáltató azonosítsa az ügyfél kilétét vagy a készpénz-helyettesítő fizetési eszköz, ezen belül az ügyfél személyes hitelesítési adatai használatának érvényességét,
 
 12. kedvezményezett: az a jogalany, aki a fizetési művelet tárgyát képező pénz jogosultja,
 
 13. keretszerződés: a pénzforgalmi szolgáltató és az ügyfél között létrejött olyan a pénzforgalmi szolgáltatás nyújtására vonatkozó megállapodás, amely egy adott időszakra vonatkozóan meghatározza a keretszerződésen alapuló fizetési megbízások, illetve fizetési műveletek lényeges feltételeit, ideértve a fizetési számla megnyitását is,
 
-14. készpénzátutalás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben (a továbbiakban: Hpt.) meghatározott készpénzátutalás,
+14. készpénzátutalás: a Hpt.-ben meghatározott készpénzátutalás,
 
 15. készpénz-helyettesítő fizetési eszköz: a Hpt.-ben meghatározott készpénz-helyettesítő fizetési eszköz,
 
-16. kis összegű készpénz-helyettesítő fizetési eszköz: olyan készpénz-helyettesítő fizetési eszköz, amely kizárólag kilencezer forintot meg nem haladó fizetési műveletre használható, vagy amelyen a rendelkezésre bocsátott vagy tárolt pénzérték nem haladja meg a negyvenötezer forintot,
+16. kis összegű készpénz-helyettesítő fizetési eszköz: olyan készpénz-helyettesítő fizetési eszköz, amely kizárólag kilencezer forintot meg nem haladó fizetési műveletre használható, vagy amely negyvenötezer forint fizetési korláttal bír, vagy amelyen a rendelkezésre bocsátott vagy tárolt pénzérték nem haladja meg a negyvenötezer forintot,
 
 17. mikrovállalkozás: az a vállalkozás, amelynek – a keretszerződés vagy az egyszeri fizetési megbízási szerződés megkötésének időpontjában – az összes foglalkoztatotti létszáma 10 főnél kevesebb, és a szerződés megkötését megelőző üzleti évben éves árbevétele vagy mérlegfőösszege legfeljebb 2 millió euró vagy a szerződés megkötését megelőző üzleti év utolsó napján érvényes Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeg,
 
 18. munkanap: az a nap, amelyen az ügyfél pénzforgalmi szolgáltatója fizetési művelet teljesítése céljából nyitva tart,
+
+18a. online módon hozzáférhető fizetési számla: olyan fizetési számla, amely vonatkozásában lehetőség van számítástechnikai eszközök közvetlen kapcsolata útján fizetési megbízást adni, valamint adatokhoz, információkhoz hozzáférni,
 
 19. pénz: bankjegy, érme, számlapénz, és az elektronikus pénz,
 
@@ -60,10 +78,18 @@ c) akinek a fizetési számláját hatósági átutalási megbízás vagy átuta
 
 25. sorbaállítás: a pénzforgalmi szolgáltató által vezetett fizetési számlára érkező fizetési megbízás fedezethiány miatt történő nem teljesítése (függőben tartása) és várakozási sorba helyezése a jövőbeni teljesítés céljából, ide nem értve azt az esetet, amikor a fizető fél az ütemezett fizetések céljából, a beérkezett fizetési műveletek tervszerű teljesítése érdekében sorba helyezésről állapodik meg a pénzforgalmi szolgáltatóval,
 
+25a. számlainformációs szolgáltatás: a Hpt.-ben meghatározott számlainformációs szolgáltatás,
+
+25b. személyes hitelesítési adatok: pénzforgalmi szolgáltató által hitelesítés céljából az ügyfél rendelkezésére bocsátott személyes elemek,
+
 26. tartós adathordozó: olyan eszköz, amely az ügyfél számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését,
 
-27. távközlő eszköz: bármely eszköz, amely alkalmas a felek távollétében – a keretszerződés megkötése, valamint az egyszeri fizetési megbízási szerződés érdekében – szerződési nyilatkozat megtételére,
+27. távoli kommunikáció: bármely módszer, amely a távollévő felek számára lehetővé teszi – a keretszerződés megkötése, valamint az egyszeri fizetési megbízási szerződés érdekében – a szerződési nyilatkozat megtételét,
 
-28. ügyfél: a fizető fél és a kedvezményezett,
+27a. távoli fizetési művelet: interneten keresztül vagy távoli kommunikációval kezdeményezett fizetési művelet,
+
+27b. több kártyamárkás konstrukció: kettő vagy több fizetési márka vagy azonos márkához tartozó fizetési alkalmazás feltüntetése egyazon készpénz-helyettesítő fizetési eszközön,
+
+28. ügyfél: a fizető fél és a kedvezményezett, valamint a hitelesítés szempontjából ezek fizetési számlája felett rendelkezésre jogosult,
 
 29. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat.
