@@ -1,0 +1,1 @@
+## oly módon írja jóvá a kedvezményezett pénzforgalmi szolgáltatójának a fizetési számláján, és annak részére a fizetési művelet adattartalmát oly módon továbbítja, hogy a kedvezményezett pénzforgalmi szolgáltatója ugyanazon a munkanapon eleget tudjon tenni a 21. § (1) bekezdésében foglalt kötelezettségének.

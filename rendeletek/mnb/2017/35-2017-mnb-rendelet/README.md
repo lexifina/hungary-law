@@ -1,0 +1,9 @@
+# 35/2017. (XII. 14.) MNB rendelet
+
+a pénzforgalom lebonyolításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-35-20-2C
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-01-13 | 2017-35-20-2C.1 | 35/2017. (XII. 14.) MNB rendelet |

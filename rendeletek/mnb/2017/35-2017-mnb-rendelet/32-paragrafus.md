@@ -1,0 +1,3 @@
+32. § (1) Csoportos átutalás esetén a fizető fél a fizetési számláját vezető pénzforgalmi szolgáltatóval történt megállapodás alapján a keretszerződésben foglalt helyen és meghatározott módon az azonos jogcímű, különböző kedvezményezettek javára szóló átutalási megbízásokat kötegelve, csoportos formában is benyújthatja.
+
+(2) A csoportos átutalási megbízás nemteljesítéséről (jóváírásának meghiúsulásáról) és annak okáról a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltató a fizető fél fizetési számláját vezető pénzforgalmi szolgáltatót értesíti. A fizető fél fizetési számláját vezető pénzforgalmi szolgáltató ezeket az értesítéseket (nem teljesített megbízásokat) a keretszerződésben meghatározott módon továbbítja a fizető fél részére.
