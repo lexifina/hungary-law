@@ -1,3 +1,0 @@
-## 54. § E rendelet a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvénnyel, valamint a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény pénzforgalmi intézményekkel és pénzforgalmi szolgáltatással összefüggő módosításáról szóló 2009. évi LXXXVI. törvénnyel együtt a belső piaci pénzforgalmi szolgáltatásokról és a 97/7/EK, a 2002/65/EK, a 2005/60/EK és a 2006/48/EK irányelv módosításáról és a 97/5/EK irányelv hatályon kívül helyezéséről szóló 2007. november 13-i 2007/64/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-1. melléklet a 18/2009. (VIII. 6.) MNB rendelethez
