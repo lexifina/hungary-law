@@ -31,3 +31,5 @@ A törvény hatálya alól kivett nemzetközi pénzügyi intézmények
 14. Nemzetközi Valuta Alap
 
 15. Nemzetközi Beruházási Bank
+
+16. Ázsiai Infrastrukturális Beruházási Bank

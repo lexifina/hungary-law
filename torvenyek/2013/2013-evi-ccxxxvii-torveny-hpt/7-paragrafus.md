@@ -34,6 +34,8 @@ m) az autópályák, autóutak és főutak használatáért fizetendő, megtett 
 
 n) a 3. § (1) bekezdés j) pontján kívüli pénzletét kezeléshez kapcsolódó szolgáltatást
 
+o) elektronikuspénz-értékesítői tevékenységet
+
 végezhet.
 
 (4) Fizetési rendszert működtető pénzügyi vállalkozás a (3) bekezdésben foglaltakon kívül egyéb pénzügyi szolgáltatásnak nem minősülő üzletszerű tevékenységet is folytathat, ha ezen tevékenysége a főtevékenységként végzett fizetési rendszer működtetését nem befolyásolja hátrányosan.

@@ -26,6 +26,8 @@
 
 11. csoportfinanszírozás: anyavállalatnak leányvállalatokkal vagy ez utóbbiak egymás közötti, a likviditás biztosítása érdekében közösen végrehajtott pénzügyi művelete;
 
+11a. digitális tartalom: olyan áru vagy szolgáltatás, amelyet digitális formában állítanak elő és nyújtanak, illetve értékesítenek, és amelynek használata, igénybevétele meghatározott technikai eszközre korlátozódik és semmilyen formában nem jár fizikai áruk vagy szolgáltatások használatával, igénybevételével;
+
 12. dotációs tőke: a fióktelep létesítéséhez és működéséhez a létesítő által tartósan, korlátlanul, tehermentesen a fióktelep szabad rendelkezésére bocsátott tőke;
 
 13. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam;
@@ -64,7 +66,11 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 26. fizetési művelet, fizetési számla és pénzforgalmi szolgáltató: a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott fizetési művelet, fizetési számla és pénzforgalmi szolgáltató;
 
-27. fizetési rendszer: pénzátutalási rendszer, amely a fizetési műveletek feldolgozására, elszámolására vagy teljesítésére megállapodásban vagy szabványban rögzített eljárásokat, valamint egységes szabályokat alkalmaz;
+26a. fizetési műveletek elfogadása: a kedvezményezettel, azaz a fizetési művelet tárgyát képező pénz jogosultjával kötött szerződés alapján olyan fizetési műveletek fogadása és feldolgozása, amelynek eredménye pénz átutalása a kedvezményezett részére;
+
+27. fizetési rendszer: elszámolási, illetve kiegyenlítési rendszer, amely a fizetési műveletek feldolgozására, elszámolására vagy teljesítésére megállapodásban vagy szabványban rögzített eljárásokat, valamint egységes szabályokat alkalmaz;
+
+27a. fizetés-kezdeményezési szolgáltatás: olyan szolgáltatás, amely a pénzforgalmi szolgáltatást igénybe vevő kérésére másik pénzforgalmi szolgáltatónál vezetett fizetési számla vonatkozásában fizetési megbízás indítására szolgál;
 
 28. fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy;
 
@@ -156,7 +162,11 @@ b) az elektronikus pénz,
 
 c) a pénzforgalmi szolgáltató és az ügyfél közötti keretszerződésben meghatározott olyan személyre szabott dolog vagy eljárás, amely lehetővé teszi az ügyfél számára a fizetési megbízás megtételét;
 
-56. készpénz-helyettesítő fizetési eszköz kibocsátása: szerződés alapján a készpénz-helyettesítő fizetési eszköznek az ügyfél rendelkezésére bocsátása;
+56. készpénz-helyettesítő fizetési eszköz kibocsátása: szerződés alapján
+
+a) a csekknek vagy az elektronikus pénznek az ügyfél rendelkezésére bocsátása, valamint
+
+b) a fizető félnek az 55. pont c) alpontja szerinti készpénz-helyettesítő fizetési eszköz rendelkezésre bocsátása fizetési műveletek kezdeményezéséhez, jóváhagyásához és feldolgozásához;
 
 57. készpénz-helyettesítő fizetési eszköz kibocsátásával kapcsolatos szolgáltatásnyújtás: a készpénz-helyettesítő fizetési eszköz kibocsátására, kezelésére és használatára vonatkozó jogszabályok alapján nyújtott, vagy az ügyféllel, valamint az eladóval vagy a szolgáltatóval kötött szerződésben a kibocsátó által elvállalt szolgáltatások összessége, ide nem értve a készpénz-helyettesítő fizetési eszközzel kapcsolatos szolgáltatásnak a készpénz-helyettesítő fizetési eszköz használatával összefüggő elszámolás forgalom lebonyolítását;
 
@@ -236,6 +246,8 @@ b) amelynek igazolt célja az a) pontban meghatározott célokra nyújtott kölc
 
 84. nem kötelező nyugdíjjuttatás: a hitelintézet által a vezető állású személynek, munkavállalónak nem kötelező alapon nyújtott, emelt nyugdíjjuttatás a munkavállaló teljesítményjavadalmazásának részeként, amely nem foglalja magában a munkavállalónak a vállalati nyugdíjrendszer feltételei alapján nyújtott felhalmozott juttatást;
 
+84a. pénz: a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott pénz;
+
 85. pénzfeldolgozási tevékenység: bankjegyek és pénzérmék tételes megszámlálása, valódiság és forgalomképesség szempontjából történő ellenőrzése, továbbá az újra forgalomba hozható bankjegykötegek és pénzérmetételek kialakítása;
 
 86. pénzforgalmi intézmény: az egyes fizetési szolgáltatókról szóló törvényben meghatározott fogalom;
@@ -250,11 +262,13 @@ c) a fizetési műveletek fizetési számlák közötti teljesítése,
 
 d) a c) pontban meghatározott szolgáltatás, ha a fizetési művelet teljesítése a pénzforgalmi szolgáltatást igénybe vevő ügyfél rendelkezésére álló hitelkeretéből történik,
 
-e) a készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – kibocsátása, valamint elfogadása,
+e) a készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – kibocsátása, valamint fizetési műveletek elfogadása,
 
 f) a készpénzátutalás,
 
-g) az olyan fizetési művelet teljesítése, ahol a fizető fél távközlési eszköz, digitális eszköz vagy más információtechnológiai eszköz segítségével adja meg a fizetési megbízást, és ahol a fizetési művelet a távközlési eszköz, digitális eszköz vagy más információtechnológiai eszköz üzemeltetőjénél történik, aki kizárólag közvetítőként jár el az ügyfele és az ügyfele részére árut szállító vagy szolgáltatást nyújtó harmadik személy között;
+g) a fizetés-kezdeményezési szolgáltatás,
+
+h) a számlainformációs szolgáltatás;
 
 88. pénzügyi holding társaság: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
@@ -309,6 +323,8 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 100. szabályozott piac: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 101. szavatoló tőke: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+
+101a. számlainformációs szolgáltatás: olyan online szolgáltatás, amely összesített információk nyújtására szolgál egy vagy több olyan fizetési számláról, amelyet a pénzforgalmi szolgáltatást igénybe vevő egy másik pénzforgalmi szolgáltatónál vagy több pénzforgalmi szolgáltatónál nyitott;
 
 102. széfszolgáltatás: az ügyféllel kötött megállapodás alapján, az ügyfél számára – állandóan őrzött – helyiségben széf rendelkezésre bocsátása, melybe értékeit az ügyfél maga helyezi el és veszi ki;
 
@@ -412,31 +428,41 @@ a) a fizető fél és a kedvezményezett közötti közvetlen, közvetítői kö
 
 b) a fizető fél vagy a kedvezményezett megbízásából eljáró megbízott önálló kereskedelmi ügynök által megbízási szerződés keretében – ha a kereskedelmi ügynök a szerződés megkötésére is jogosult – történő fizetési művelet,
 
-c) a készpénz üzletszerűen folytatott szállítása,
+c) a készpénz üzletszerűen folytatott fizikai szállítása, beleértve a begyűjtést, a feldolgozást és a célba juttatást is,
 
-d) jótékonysági céllal, vagy nonprofit tevékenység keretében készpénz nem üzletszerűen végzett gyűjtése,
+d) jótékonysági céllal vagy nonprofit tevékenység keretében készpénz nem üzletszerűen végzett gyűjtése és annak célba juttatása,
 
 e) a fizetési művelet részeként a kedvezményezett által a fizető félnek történő készpénz közvetlen átadása, ha az átadást a fizető fél áruk vagy szolgáltatások ellenértékének kiegyenlítéséhez kapcsolódó fizetési művelet teljesítését közvetlenül megelőzően kifejezetten kérte (cash-back szolgáltatás),
 
 f) a készpénzről készpénzre történő olyan pénzváltás, amelynél a pénz nem jelenik meg fizetési számlán,
 
-g) a csekkel, a váltóval, a papír alapú utalvánnyal, az utazási csekkel és az Egyetemes Postaegyesület (UPU) által meghatározott papíralapú nemzetközi postautalvánnyal végzett fizetési művelet,
+g) a pénzforgalmi szolgáltatóra címzett csekken, váltón, papíralapú utalványon, papíralapú utazási csekken vagy az Egyetemes Postaegyesület (UPU) által meghatározott papíralapú postautalványon alapuló olyan fizetési művelet, amelynél az irat kiállítása abból a célból történik, hogy pénzeszközt bocsássanak a kedvezményezett rendelkezésére,
 
-h) a fizetési, illetve értékpapír-elszámolási rendszeren belül a teljesítő fél, a központi szerződő fél, a központi bank, a rendszer más résztvevői, valamint a pénzforgalmi szolgáltató közötti fizetési művelet,
+h) a fizetési vagy értékpapír-kiegyenlítési rendszeren belül egyrészt a teljesítő fél, a központi szerződő fél, az elszámolóház, a központi bank, valamint a rendszer más résztvevői, másrészt a pénzforgalmi szolgáltató között végrehajtott fizetési művelet,
 
-i) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) szerinti értékpapír letétkezelésével összefüggő fizetési művelet,
+i) a h) pontban meghatározott személy, a befektetési szolgáltatást nyújtó befektetési vállalkozás, hitelintézet, kollektív befektetési forma és kezelője, valamint pénzügyi eszközök letéti őrzésére feljogosító egyéb szervezet által végzett értékpapír letétkezelésével – ideértve az osztalékot, kamatot, egyéb kifizetések kezelését, a beváltást és az értékesítést is – összefüggő fizetési művelet,
 
-j) a pénzforgalmi szolgáltatást támogató (járulékos) technikai szolgáltatás, ha ennek szolgáltatója nem rendelkezhet a fizetési művelet tárgyát képező pénzzel, valamint nem válhat a fizetési művelet tárgyát képező pénz birtokosává, ideértve az adatfeldolgozást, az adatok tárolását, hitelesítését, az információtechnológiai eszközök biztosítását, valamint a pénzforgalmi szolgáltatáshoz használt terminálok és eszközök biztosítását és karbantartását is,
+j) a pénzforgalmi szolgáltatást támogató (járulékos) technikai szolgáltatás, ha ennek szolgáltatója nem rendelkezhet a fizetési művelet tárgyát képező pénzzel, valamint nem válhat a fizetési művelet tárgyát képező pénz birtokosává, ideértve az adatfeldolgozást, az adatok tárolását, hitelesítését, a bizalmi és a magánélet védelmével kapcsolatos szolgáltatásokat, az adatok és személyek hitelesítését, az információtechnológiai eszközök biztosítását, valamint – a fizetéskezdeményezési szolgáltatás és a számlainformációk összesítése kivételével – a pénzforgalmi szolgáltatáshoz használt terminálok és eszközök biztosítását és karbantartását is,
 
-k) az olyan eszközökön alapuló szolgáltatások, amelyek kizárólag a kibocsátó által használt létesítményekben vagy a kibocsátóval kötött megállapodás alapján a szolgáltatók korlátozott körű hálózatában vagy korlátozott körű áruk vagy szolgáltatások ellenértékének kiegyenlítésére használhatóak,
+k) az olyan specifikus készpénz-helyettesítő fizetési eszközökön alapuló szolgáltatások, amelyek csak korlátozott módon használhatók és amelyekre teljesül az alábbi feltételek egyike:
 
-l) az olyan távközlési eszközzel, digitális eszközzel vagy más információtechnológiai eszközzel végrehajtott fizetési művelet, ahol a vásárolt áruk vagy szolgáltatások leszállítása és igénybevétele a távközlési eszköz, digitális eszköz vagy információtechnológiai eszköz által történik, és ahol ezen eszköz üzemeltetője nem csak közvetítőként jár el az ügyfél és az áru szállítója vagy a szolgáltatás nyújtója között,
+ka) a fizetési eszköz kizárólag a kibocsátó által használt helyiségekben vagy a kibocsátóval közvetlen kereskedelmi szerződésben álló szolgáltatók zártkörű hálózatán belül teszi lehetővé az eszköz birtokosa számára áruk vagy szolgáltatások beszerzését,
+
+kb) a fizetési eszköz áruk vagy szolgáltatások igen szűk körű beszerzését teszi lehetővé,
+
+l) az elektronikus hírközlő hálózat üzemeltetője vagy az elektronikus hírközlési szolgáltatás nyújtója általi fizetési művelet, amelyet az az elektronikus hírközlési szolgáltatáson túl nyújt a hálózat vagy a szolgáltatás előfizetője számára és
+
+la) amelynek célja digitális tartalom és hangalapú szolgáltatások vásárlása, függetlenül a digitális tartalom megvásárlásához vagy felhasználásához használt eszköztől és amelyet a kapcsolódó szolgáltatói számlára terhelnek vagy
+
+lb) amelyet elektronikus eszközről vagy annak segítségével hajtanak végre és a kapcsolódó szolgáltatói számlára terhelik jótékonysági tevékenység keretében vagy jegyvásárlás céljából,
+
+feltéve, hogy az egyszeri fizetési művelet összege nem haladja meg az ezerötszáz forintot és a fizetési műveletek kumulált összege egy előfizetőre nézve – ideértve az előre feltöltött egyenleggel rendelkező előfizetőket is – naptári hónaponként nem haladja meg a kilencvenezer forintot,
 
 m) a pénzforgalmi szolgáltatók és közvetítői vagy fióktelepeik közötti sajátszámlás fizetési művelet,
 
-n) az anyavállalat és leányvállalata, vagy az anyavállalat leányvállalatai közötti fizetési művelet, ha a csoporthoz tartozó pénzforgalmi szolgáltatón kívül harmadik fél a fizetési műveletben nem vesz részt, valamint
+n) az anyavállalat és leányvállalata, vagy az anyavállalat leányvállalatai közötti fizetési művelet és kapcsolódó szolgáltatás, ha a csoporthoz tartozó pénzforgalmi szolgáltatón kívül harmadik fél a fizetési műveletben nem vesz részt, valamint
 
-o) a bankjegykiadó automata üzemeltetője által nyújtott készpénzfelvételt lehetővé tevő szolgáltatás, ha az üzemeltető nem végez egyéb pénzforgalmi szolgáltatást és nem szerződő fele a fizetési számláról készpénzfelvételt lehetővé tevő fogyasztóval vagy mikrovállalkozással kötött keretszerződésnek.
+o) az automata bankjegykiadó gép üzemeltetője által nyújtott készpénzfelvételt lehetővé tevő szolgáltatás, ha az üzemeltető nem végez egyéb pénzforgalmi szolgáltatást és nem szerződő fele a fizetési számláról készpénzfelvételt lehetővé tevő ügyféllel kötött keretszerződésnek.
 
 (5) Nem minősül pénzkölcsön nyújtásának
 
