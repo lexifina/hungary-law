@@ -1,12 +1,12 @@
-## 12. A pénzforgalmi közvetítő
+## 12. A pénzforgalmi közvetítő és az elektronikuspénz-értékesítő
 
 54. § (1) Pénzforgalmi közvetítő az, aki az e törvényben foglaltaknak megfelelően a pénzügyi szolgáltatás közvetítését pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény részére pénzforgalmi közvetítői tevékenységként végzi.
 
-(2) Pénzforgalmi közvetítővel – ide nem értve a pénzügyi intézményt és a biztosítót – pénzügyi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy és egyéni vállalkozó (a továbbiakban: közvetítői alvállalkozó) ezen ügyletek teljesítéséhez további megbízási szerződést nem jogosult kötni. Pénzforgalmi közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzügyi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel vagy más közvetítővel nem létesíthet.
+(2) Pénzforgalmi közvetítővel – ide nem értve a pénzügyi intézményt és a biztosítót – pénzforgalmi szolgáltatás közvetítése tevékenységi körében megbízási szerződést kötött jogi személy és egyéni vállalkozó (a továbbiakban: közvetítői alvállalkozó) ezen ügyletek teljesítéséhez további megbízási szerződést nem jogosult kötni. Pénzforgalmi közvetítővel jogviszonyban álló közvetítői alvállalkozó pénzforgalmi szolgáltatási tevékenység végzésére irányuló további jogviszonyt pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel, elektronikuspénz-kibocsátó intézménnyel vagy más közvetítővel nem létesíthet.
 
-(3) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az általa igénybe vett pénzforgalmi közvetítő tevékenységéért, az e törvényben foglaltak betartásáért teljes felelősséggel tartozik.
+(3) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az általa igénybe vett pénzforgalmi közvetítő tevékenységéért, elektronikuspénz-kibocsátó intézmény az általa igénybe vett elektronikuspénz-értékesítő tevékenységéért, az e törvényben foglaltak betartásáért teljes felelősséggel tartozik.
 
-(4) A pénzforgalmi közvetítő nem jogosult az ügyfél nevében a pénzforgalmi intézménytől, elektronikuspénz-kibocsátó intézménytől az ügyfelet megillető pénz átvételére.
+(4) A pénzforgalmi közvetítő, elektronikuspénz-értékesítő nem jogosult az ügyfél nevében a pénzforgalmi intézménytől, elektronikuspénz-kibocsátó intézménytől az ügyfelet megillető pénz átvételére.
 
 (5) Az elektronikuspénz-kibocsátó intézmény nem bocsáthat ki elektronikuspénzt pénzforgalmi közvetítő útján.
 

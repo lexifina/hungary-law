@@ -1,4 +1,4 @@
-## 5. Pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenységének engedélyezése, az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatási tevékenységének engedélyezése és az utalványkibocsátó utalványkibocsátási tevékenységének bejelentése
+## 5. Pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenységének engedélyezése, az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátási és pénzforgalmi szolgáltatási tevékenységének engedélyezése, valamint a kizárólag számlainformációs szolgáltatást végző pénzforgalmi intézmény tevékenységének bejelentése és az utalványkibocsátó utalványkibocsátási tevékenységének bejelentése
 
 15. § (1) A Felügyelet engedélye szükséges a pénzforgalmi intézmény
 

@@ -1,16 +1,16 @@
 ## 6. A tulajdonosokra, a vezető állású személyekre és belső ellenőrzésre vonatkozó szabályok
 
-28. § (1) A Felügyeletnek előzetesen bejelenti, aki pénzforgalmi intézményben, elektronikuspénz-kibocsátó intézményben
+28. § (1) Felügyeletnek előzetesen írásban bejelenti, aki pénzforgalmi intézményben, elektronikuspénz-kibocsátó intézményben
 
 a) befolyásoló részesedést kíván szerezni, vagy
 
-b) befolyásoló részesedését úgy kívánja módosítani, hogy az elérje a húsz, a harminc vagy az ötven százalékos határértéket.
+b) befolyásoló részesedését úgy kívánja módosítani, hogy az elérje a húsz, a harminc vagy az ötven százalékos határértéket, vagy ezáltal a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a leányvállalatává válna.
 
-(2) A pénzforgalmi intézményben, az elektronikuspénz-kibocsátó intézményben befolyásoló részesedéssel rendelkező személy előzetesen bejelenti a Felügyeletnek, ha
+(2) A pénzforgalmi intézményben, az elektronikuspénz-kibocsátó intézményben befolyásoló részesedéssel rendelkező személy előzetesen írásban bejelenti a Felügyeletnek, ha
 
 a) befolyásoló részesedését teljes egészében meg kívánja szüntetni, vagy
 
-b) befolyásoló részesedését úgy kívánja módosítani, hogy az a húsz, harminc vagy ötven százalékos határérték alá csökkenjen.
+b) befolyásoló részesedését úgy kívánja módosítani, hogy az a húsz, harminc vagy ötven százalékos határérték alá csökkenjen, vagy ezáltal a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény már nem lenne a leányvállalata.
 
 (3) A pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény bejelenti a Felügyeletnek, ha egy jogi személynek a leányvállalatává vált vagy megszűnt annak lenni.
 
@@ -36,4 +36,4 @@ g) nem természetes személy tulajdonos esetében a tulajdonosi szerkezetének o
 
 (6) Az (5) bekezdésben foglalt intézkedések valamelyikét alkalmazza a Felügyelet a bejelentési kötelezettség elmulasztása esetén is.
 
-(7) Ha a befolyásoló részesedés megszerzése a Felügyelet tiltása ellenére következik be, a részesedésszerzésre vagy az előny biztosítására irányuló szerződésből származó szavazati jogok gyakorlását a Felügyelet a megfelelő törvényes feltételek biztosításáig megtilthatja.
+(7) Ha a befolyásoló részesedés megszerzése a Felügyelet tiltása ellenére következik be, a részesedésszerzésre vagy az előny biztosítására irányuló szerződésből származó szavazati jogok gyakorlását a Felügyelet – függetlenül bármely más szankciótól – a megfelelő törvényes feltételek biztosításáig megtiltja, a leadott szavazatokat semmissé nyilvánítja vagy semmissé nyilvánításukat lehetővé teszi.

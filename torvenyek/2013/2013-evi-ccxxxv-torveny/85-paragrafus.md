@@ -1,4 +1,4 @@
-85. § (1) A Felügyelet ellenőrzési tevékenységének ellátása és a fogyasztók érdekeinek védelme céljából nyilvántartást vezet a pénzforgalmi közvetítőkről és a közvetítői alvállalkozókról. A Felügyelet nyilvántartásba veszi a közvetítők és a közvetítői alvállalkozók következő adatait:
+85. § (1) A Felügyelet ellenőrzési tevékenységének ellátása és a fogyasztók érdekeinek védelme céljából nyilvántartást vezet a pénzforgalmi közvetítőkről, elektronikuspénz-értékesítőkről és a közvetítői alvállalkozókról. A Felügyelet nyilvántartásba veszi a közvetítők, elektronikuspénz-értékesítők és a közvetítői alvállalkozók következő adatait:
 
 a) név, székhely,
 
@@ -6,7 +6,7 @@ b) a tevékenység végzésének helye,
 
 c) a bejelentés időpontja,
 
-d) a pénzforgalmi közvetítőt megbízó pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény neve,
+d) a pénzforgalmi közvetítőt megbízó pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, elektronikuspénz-kibocsátó intézmény neve,
 
 e) a szolgáltatási tevékenysége megkezdésének időpontja,
 

@@ -1,6 +1,6 @@
 5. § (1) Pénzforgalmi intézmény
 
-a) az a vállalkozás, amely az e törvényben foglaltaknak megfelelően engedéllyel rendelkezik pénzforgalmi szolgáltatási tevékenység végzésére, de nem rendelkezik engedéllyel az elektronikuspénz-kibocsátási tevékenység végzésére,
+a) az a vállalkozás, amely az e törvényben foglaltaknak megfelelően engedéllyel rendelkezik pénzforgalmi szolgáltatási tevékenység végzésére – ideértve a pénzforgalmi szolgáltatások közül kizárólag számlainformációs szolgáltatást (előzetes bejelentés alapján) végző vállalkozást is –, de nem rendelkezik engedéllyel az elektronikuspénz-kibocsátási tevékenység végzésére,
 
 b) törvény eltérő rendelkezése hiányában egyéb üzleti tevékenységet is végezhet azzal a korlátozással, hogy az (1)–(4) bekezdésben meghatározottakon kívül más pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet nem végezhet.
 
@@ -10,7 +10,7 @@ a) fizetési műveletek fizetési számlák közötti, az ügyfél rendelkezés�
 
 b) készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – kibocsátása,
 
-c) olyan fizetési művelet teljesítése, ahol a fizető fél távközlési eszköz, digitális eszköz vagy más információtechnológiai eszköz segítségével adja meg a fizetési megbízást, és ahol a fizetési művelet a távközlési eszköz, digitális eszköz vagy más információtechnológiai eszköz üzemeltetőjénél történik, aki kizárólag közvetítőként jár el az ügyfele és az ügyfele részére árut szállító vagy szolgáltatást nyújtó harmadik személy között.
+c)
 
 (3) A pénzforgalmi intézmény engedélyt kaphat fizetési rendszer működtetése tevékenység végzésére.
 

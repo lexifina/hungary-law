@@ -1,6 +1,6 @@
 86. § (1) A Felügyelet a törvényben meghatározott feladatai ellátásához szükséges adatszolgáltatások alapján nyilvántartja:
 
-a) a pénzforgalmi intézményeket, elektronikuspénz-kibocsátó intézményeket, utalványkibocsátókat, pénzforgalmi közvetítőket,
+a) a pénzforgalmi intézményeket, elektronikuspénz-kibocsátó intézményeket, utalványkibocsátókat, pénzforgalmi közvetítőket, elektronikuspénz-értékesítőket,
 
 b) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény tagjait,
 

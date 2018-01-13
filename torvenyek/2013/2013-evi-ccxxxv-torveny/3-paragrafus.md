@@ -6,19 +6,25 @@
 
 3. befolyásoló részesedés: a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletben meghatározott befolyásoló részesedés,
 
-4. csoport: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben (a továbbiakban: Hpt.) meghatározott csoport,
+4. csoport: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényben (a továbbiakban: Hpt.) meghatározott csoport, ideértve a Bizottság 241/2014/EU felhatalmazáson alapuló rendeletének 4., 5., 6., valamint 7. cikkében meghatározott olyan kapcsolatban álló vállalkozásokat, amelyek az 575/2013/EU rendelet 10. cikkének (1) bekezdése, 113. cikkének (6) vagy (7) bekezdése szerint minősülnek,
 
 5. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
 
 6. elektronikuspénz: Hpt.-ben meghatározott elektronikuspénz,
 
+6a. elektronikuspénz-értékesítő: az a személy, amely az elektronikuspénz kibocsátója nevében az elektronikuspénzt értékesíti, illetve visszaváltja,
+
 7. elektronikuspénz-kibocsátója: Magyar Nemzeti Bank és kincstár, valamint az a hitelintézet, elektronikuspénz-kibocsátó intézmény, Posta Elszámoló Központot működtető intézmény, amely elektronikus pénzt bocsát ki,
+
+7a. érzékeny fizetési adatok: a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben (a továbbiakban: Pft.) meghatározott érzékeny fizetési adatok,
 
 8. fizetési rendszer működtetése: a Hpt.-ben meghatározott fizetési rendszer működtetése,
 
-9. fizetési művelet: a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben (a továbbiakban: Pft.) meghatározott fizetési művelet,
+9. fizetési művelet: a Pft.-ben meghatározott fizetési művelet,
 
 10. fizetési számla: a Pft.-ben meghatározott fizetési számla,
+
+10a. fizetés-kezdeményezési szolgáltatás: a Hpt.-ben meghatározott fizetés-kezdeményezési szolgáltatás,
 
 11. forgatható utalvány: a Hpt.-ben meghatározott forgatható utalvány,
 
@@ -46,7 +52,7 @@
 
 23. készpénz-helyettesítő fizetési eszköz kibocsátásával kapcsolatos szolgáltatásnyújtás: a Hpt.-ben meghatározott készpénz-helyettesítő fizetési eszköz kibocsátásával kapcsolatos szolgáltatásnyújtás,
 
-24. kiszervezés: olyan megállapodás egy pénzforgalmi intézmény vagy egy elektronikuspénz-kibocsátó intézmény és egy személy között, amelynek keretében e személy olyan pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet végez, amelyet egyébként a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény maga végezne,
+24. kiszervezés: olyan megállapodás egy pénzforgalmi intézmény vagy egy elektronikuspénz-kibocsátó intézmény és egy személy között, amelynek keretében e személy olyan pénzforgalmi szolgáltatás működtetésével kapcsolatos feladatokat végez, amelyet egyébként a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény maga végezne,
 
 25. közeli hozzátartozó: a Ptk.-ban meghatározott közeli hozzátartozó,
 
@@ -56,17 +62,17 @@
 
 28. külföldi vállalkozás: a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény (a továbbiakban: Fkt.) 2. § a) pontjában meghatározott külföldi vállalkozás,
 
-29. pénzforgalmi közvetítői tevékenység:
-
-a) pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel kötött megbízási szerződés alapján, a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nevében, javára és kockázatára történő pénzforgalmi szolgáltatási szerződés megkötése,
-
-b) elektronikuspénz-kibocsátójával kötött megbízási szerződés alapján, az elektronikuspénz-kibocsátója nevében, javára és kockázatára, elektronikuspénz értékesítésére és visszaváltására irányuló szerződés megkötésének elősegítésére irányuló tevékenység,
+29. pénzforgalmi közvetítő: az a személy, amely pénzforgalmi intézmény vagy elektronikuspénz-kibocsátó intézmény nevében, javára és kockázatára pénzforgalmi szolgáltatásokat nyújt,
 
 30. pénzforgalmi szolgáltatás: a Hpt.-ben meghatározott pénzforgalmi szolgáltatás,
 
 31. pénzforgalmi szolgáltató: a Pft.-ben meghatározott pénzforgalmi szolgáltató,
 
 32. pénzügyi intézmény: a Hpt.-ben meghatározott pénzügyi intézmény,
+
+32a. számlainformációs szolgáltatás: a Hpt.-ben meghatározott számlainformációs szolgáltatás,
+
+32b. szavatoló tőke: a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés 118. pontjában meghatározott szavatoló tőke,
 
 33. teljes hiteldíj mutató: a fogyasztónak nyújtott hitelről szóló törvényben (a továbbiakban: Fnyht.) meghatározott fogalom,
 
@@ -88,4 +94,6 @@ a) pénzforgalmi intézmény esetén a pénzforgalmi intézmény pénzforgalmi s
 
 b) elektronikuspénz-kibocsátó intézmény esetén az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátás szolgáltatási és pénzforgalmi szolgáltatási üzletág irányításáért felelős személy, valamint valamennyi helyettese,
 
-c) az ügyvezető.
+c) az ügyvezető,
+
+d) pénzforgalmi közvetítő és elektronikuspénz-értékesítő esetén a pénzforgalmi közvetítés, illetve elektronikuspénz-értékesítés üzletág irányításáért felelős személy, valamint valamennyi helyettese.

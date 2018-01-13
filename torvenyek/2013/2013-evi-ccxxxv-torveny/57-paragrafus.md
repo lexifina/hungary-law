@@ -52,4 +52,4 @@ f) a felsőfokú végzettség birtokában szakirányú továbbképzésben, szako
 
 (6) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény felelős a pénzforgalmi közvetítő és a vele – e tevékenységi körében – munkaviszonyban vagy megbízási viszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személyekkel szemben támasztott szakmai követelmények fennállásának ellenőrzéséért.
 
-(7) Az (1)–(3), (5) és (6) bekezdésben foglaltakat a 3. § 29. pont b) alpontja szerinti pénzforgalmi közvetítői tevékenységet végzőre nem kell alkalmazni.
+(7) Az elektronikuspénz-értékesítőnek minősülő megbízó vagy munkáltató köteles gondoskodni arról, hogy a vele – e tevékenységi körében – megbízási jogviszonyban vagy munkaviszonyban álló természetes személy az elektronikuspénz-értékesítéssel kapcsolatban részletes ismeretekkel rendelkezzen.

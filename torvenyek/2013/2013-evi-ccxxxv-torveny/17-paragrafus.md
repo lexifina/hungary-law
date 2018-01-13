@@ -8,7 +8,7 @@ c) igazolást az induló tőke teljes összegének rendelkezésre állásáról,
 
 d) az ügyfelek pénzeszközeinek védelme érdekében a 46. §-ban és az 51. §-ban foglalt feltételek biztosításának leírását, ideértve az ügyfélpénzek elkülönített nyilvántartására alkalmas informatikai rendszer részletes leírását és a rendszer alkalmasságáról készített könyvvizsgálói igazolást is,
 
-e) a kérelmező vállalatirányítási és belső ellenőrzési rendszerének leírását, ideértve a kockázatkezelési és számviteli eljárásokat is,
+e) a kérelmező vállalatirányítási és belső ellenőrzési rendszerének leírását, ideértve az adminisztratív, a kockázatkezelési és számviteli eljárásokat is, bemutatva ezen vállalatirányítási, ellenőrzési eljárások arányosságát, helyénvalóságát és megbízhatóságát,
 
 f) a kérelmező könyvvizsgálójának megnevezését,
 
@@ -16,7 +16,7 @@ g) a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakad�
 
 h) a kérelmező szervezeti felépítésének és felelősségi köreinek bemutatását, szervezeti és működési szabályzatát, valamint az általános szerződési feltételeit tartalmazó szabályzatait,
 
-i) ha a kérelmező pénzforgalmi közvetítői tevékenységre közvetítőt kíván megbízni, fióktelepet tervez létesíteni vagy tevékenysége működtetését kiszervezné, ennek bemutatását,
+i) ha a kérelmező pénzforgalmi szolgáltatási tevékenységére pénzforgalmi közvetítőt vagy elektronikuspénz-kibocsátóként elektronikuspénz-értékesítésre értékesítőt kíván megbízni, fióktelepet tervez létesíteni vagy tevékenysége működtetését kiszervezné, ennek bemutatását, ideértve a kérelmező azon vállalását, hogy a közvetítőt, az értékesítőt, a fióktelepet, valamint a kiszervezett tevékenységet végzőt legalább évente ellenőrzi,
 
 j) ha a kérelmező fizetési rendszerhez csatlakozik, a fizetési rendszerben történő részvételének leírását,
 
@@ -34,11 +34,23 @@ p) a 6. §-ban és a 8. §-ban foglalt hitel- és pénzkölcsön nyújtására, 
 
 q) nyilatkozatot arról, hogy milyen – az Szmt. szerinti – függő és jövőbeni kötelezettségei vannak,
 
-r) a panaszkezelési szabályzatát, valamint
+r) a biztonsági események és biztonsággal kapcsolatos ügyfélpanaszok monitorozására, kezelésére és nyomon követésére szolgáló eljárások leírását, ideértve a Pft. 55/B. §-ában meghatározott bejelentési kötelezettségnek megfelelően kialakított eseményjelentési eljárást is,
 
-s) a kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+s) az érzékeny fizetési adatokhoz való hozzáférés iktatására, monitorozására, követésére és korlátozására szolgáló eljárás leírását,
 
-(2) Az (1) bekezdés d), e), h)–j) pontjához kapcsolódóan a kérelmező mellékeli azon auditrendszer és szervezeti intézkedések leírását, amelyek a pénzügyi szolgáltatást, kiegészítő pénzügyi szolgáltatást igénybe vevők érdekeinek védelmét, valamint a pénzügyi szolgáltatási tevékenység és kiegészítő pénzügyi szolgáltatási tevékenység végzésének folytonosságát és megbízhatóságát biztosító valamennyi ésszerű intézkedés megtételéhez szükségesek.
+t) az üzletmenet-folytonosság biztosítását célzó intézkedések leírását, amely tartalmazza a kritikus műveletek egyértelmű azonosítását, a hatékony készenléti terveket, valamint az e tervek megfelelőségének és hatékonyságának rendszeres tesztelésére és felülvizsgálatára szolgáló eljárást,
+
+u) a teljesítményre, a műveletekre és a csalásra vonatkozó statisztikai adatok gyűjtése során alkalmazott elvek és fogalommeghatározások leírását,
+
+v) a biztonsági elvek leírását, ezen belül a nyújtott pénzforgalmi szolgáltatásokkal kapcsolatos részletes kockázatértékelés, valamint azoknak a biztonsági ellenőrzési és kockázatmérséklési intézkedéseknek a leírását, amelyek biztosítják az ügyfelek megfelelő védelmét az azonosított kockázatokkal szemben, ideértve a csalást, valamint az érzékeny és személyes adatok illegális felhasználását,
+
+w) a panaszkezelési szabályzatát, valamint
+
+x) a kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+
+(2) Az (1) bekezdés d), e), h) és r) pontjához kapcsolódóan a kérelmező mellékeli azon auditrendszer és szervezeti intézkedések leírását, amelyek a pénzügyi szolgáltatást, kiegészítő pénzügyi szolgáltatást igénybe vevők érdekeinek védelmét, valamint a pénzügyi szolgáltatási tevékenység és kiegészítő pénzügyi szolgáltatási tevékenység végzésének folytonosságát és megbízhatóságát biztosító valamennyi ésszerű intézkedés megtételéhez szükségesek.
+
+(2a) Az (1) bekezdés v) pontjában meghatározott biztonsági ellenőrzési és kockázatmérséklési intézkedések leírásakor a kérelmező bemutatja, hogy azok hogyan biztosítják a magas szintű műszaki biztonságot és adatvédelmet, ideértve a kérelmező által, illetve a kérelmező működésének egy részét vagy egészét kiszervezett tevékenységként végző vállalkozás által alkalmazott szoftvereket, valamint informatikai rendszereket. Ezen intézkedések között a Pft. 55/A. §-ában meghatározott biztonsági intézkedéseknek is szerepelniük kell.
 
 (3) Ha a kérelmezőnek befolyásoló részesedéssel rendelkező tulajdonosa van, az (1) bekezdésben foglaltakon kívül a pénzügyi szolgáltatási tevékenységre, kiegészítő pénzügyi szolgáltatási tevékenységre jogosító engedély iránti kérelemhez mellékeli:
 

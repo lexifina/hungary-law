@@ -2,7 +2,7 @@
 
 1. § E törvény rendelkezései alkalmazandóak:
 
-a) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény pénzügyi szolgáltatási tevékenységének, kiegészítő pénzügyi szolgáltatási tevékenységének Magyarország területén történő engedélyezésére és felügyeletére,
+a) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény pénzügyi szolgáltatási tevékenységének, kiegészítő pénzügyi szolgáltatási tevékenységének Magyarország területén történő engedélyezésére, bejelentésére és felügyeletére,
 
 b) az utalványkibocsátó kiegészítő pénzügyi szolgáltatási tevékenységének Magyarország területén történő bejelentésére és felügyeletére,
 

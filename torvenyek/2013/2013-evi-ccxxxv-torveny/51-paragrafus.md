@@ -20,7 +20,7 @@ bb) a fedezet nyújtója által egyoldalúan legalább hatvannapos határidővel
 
 a) az elektronikuspénz-kibocsátó intézmény fizetési számlájára történő jóváírástól vagy más módon az elektronikuspénz-kibocsátó intézmény rendelkezésére bocsátásától,
 
-b) pénzforgalmi közvetítő megbízása esetén, ha az átvett pénzeszköz a) pontban meghatározott jóváírására, rendelkezésre bocsátására az elektronikuspénz-kibocsátását követő ötödik munkanapig nem kerül sor, az elektronikuspénz-kibocsátását követő ötödik munkanaptól
+b) ha az átvett pénzeszköz a) pontban meghatározott jóváírására, rendelkezésre bocsátására az elektronikuspénz-kibocsátását követő ötödik munkanapig nem kerül sor, az elektronikuspénz-kibocsátását követő ötödik munkanaptól
 
 kell alkalmazni.
 

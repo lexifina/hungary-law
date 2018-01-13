@@ -10,4 +10,4 @@ b) a 11. § (4) bekezdésében – az engedélyezés feltételeként – előír
 
 (2) Az (1) bekezdés a) pontjától eltérően a Felügyelet a pénzforgalmi tevékenység vonatkozásában az 50. § szerinti felügyeleti felülvizsgálat keretében a számított értéknél legfeljebb húsz százalékkal magasabb tőkekövetelményt írhat elő vagy legfeljebb húsz százalékkal alacsonyabb tőkekövetelményt engedélyezhet.
 
-(3) Az elektronikuspénz-kibocsátó intézmény a szavatoló tőkéjének kiszámítására az 575/2013/EU rendelet Második rész I. Címének rendelkezéseit alkalmazza.
+(3) Az elektronikuspénz-kibocsátó intézmény a szavatoló tőkéjének kiszámítására az 575/2013/EU rendelet Második rész I. Címének rendelkezéseit alkalmazza azzal, hogy az említett rendelet szerinti alapvető tőke legalább 75%-ának az említett rendelet 50. cikkében meghatározott elsődleges alapvető tőkéből kell állnia és az említett rendelet szerinti járulékos tőke legfeljebb a kiszámított alapvető tőke egyharmada lehet.

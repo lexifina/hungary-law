@@ -1,4 +1,4 @@
-42. § (1) Az irányadó mutató módszer alkalmazásakor a pénzforgalmi intézmény szavatoló tőkéje legalább a (2) bekezdésben meghatározott irányadó mutatónak a 43. §-ban meghatározott szorzó tényezővel, valamint a 41. § (2)–(4) bekezdésében meghatározott „k” tényezővel szorzott összege.
+42. § (1) Az irányadó mutató módszer alkalmazásakor a pénzforgalmi intézmény szavatoló tőkéje legalább a (2) bekezdésben meghatározott irányadó mutatónak a 43. §-ban meghatározott szorzó tényezővel, valamint a 41. § (2)–(3) bekezdésében meghatározott „k” tényezővel szorzott összege.
 
 (2) Az irányadó mutató a pénzforgalmi szolgáltatáshoz kapcsolódó
 

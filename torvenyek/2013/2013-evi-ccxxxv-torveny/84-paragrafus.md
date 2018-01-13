@@ -2,7 +2,7 @@
 
 (2) A Felügyelet nyilvántartásba veszi a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény következő adatait:
 
-a) név, székhely,
+a) név, székhely, fióktelepének címe,
 
 b) tevékenységi kör, ideértve a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény engedélyezés alá nem eső egyéb tevékenységeit is,
 

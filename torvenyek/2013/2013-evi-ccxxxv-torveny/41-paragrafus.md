@@ -1,4 +1,4 @@
-41. § (1) A fizetési forgalom módszer alkalmazásakor a pénzforgalmi intézmény szavatoló tőkéje legalább a következő értékeknek a (2)–(4) bekezdésben meghatározott „k” tényezővel szorzott összege:
+41. § (1) A fizetési forgalom módszer alkalmazásakor a pénzforgalmi intézmény szavatoló tőkéje legalább a következő értékeknek a (2)–(3) bekezdésben meghatározott „k” tényezővel szorzott összege:
 
 a) a fizetési forgalom egymilliárd-ötszázmillió forintnak megfelelő összegig terjedő hányadának (részének) négy százaléka,
 
@@ -12,8 +12,8 @@ e) a fizetési forgalom hetvenötmilliárd forintnak megfelelő összeget meghal
 
 ahol a fizetési forgalom a pénzforgalmi intézmény előző üzleti évben teljesített fizetési művelete összértékének tizenketted része.
 
-(2) A (3) és (4) bekezdésben meghatározott kivétellel, a pénzforgalmi intézmény által alkalmazandó „k” tényező: 1.
+(2) A (3) bekezdésben meghatározott kivétellel, a pénzforgalmi intézmény által alkalmazandó „k” tényező: 1.
 
 (3) Ha a pénzforgalmi intézmény a pénzforgalmi szolgáltatások közül kizárólag készpénzátutalást végez, az általa alkalmazandó „k” tényező: 0,5.
 
-(4) Ha a pénzforgalmi intézmény a pénzforgalmi szolgáltatások közül kizárólag a távközlési eszközzel, digitális eszközzel vagy más információtechnológiai eszközzel történő fizetési művelet teljesítését végzi, az általa alkalmazandó „k” tényező: 0,8.
+(4)

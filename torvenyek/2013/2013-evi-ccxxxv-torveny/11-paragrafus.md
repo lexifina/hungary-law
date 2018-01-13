@@ -1,8 +1,8 @@
-11. § (1) A pénzforgalmi intézmény pénzforgalmi szolgáltatási tevékenységéhez – a (2) és (3) bekezdésben foglalt kivétellel – legalább harminchétmillió-ötszázezer forint induló tőkével rendelkezik.
+11. § (1) A pénzforgalmi intézmény számlainformációs szolgáltatáson kívüli pénzforgalmi szolgáltatási tevékenységéhez – a (2) és (3) bekezdésben foglalt kivétellel – legalább harminchétmillió-ötszázezer forint induló tőkével rendelkezik.
 
 (2) Ha a pénzforgalmi intézmény a pénzforgalmi szolgáltatások közül kizárólag készpénzátutalást végez, legalább hatmillió forint induló tőkével rendelkezik.
 
-(3) Ha a pénzforgalmi intézmény a pénzforgalmi szolgáltatások közül kizárólag a távközlési eszközzel, digitális eszközzel vagy más információtechnológiai eszközzel történő fizetési művelet teljesítését végez, legalább tizenötmillió forint induló tőkével rendelkezik.
+(3) Ha a pénzforgalmi intézmény a pénzforgalmi szolgáltatások közül kizárólag fizetés-kezdeményezési szolgáltatást végez, legalább tizenötmillió forint induló tőkével rendelkezik.
 
 (4) Az elektronikuspénz-kibocsátó intézmény elektronikuspénz-kibocsátási tevékenységéhez legalább százmillió forint induló tőkével rendelkezik.
 

@@ -12,6 +12,6 @@ a) fizetési műveletek fizetési számlák közötti, az ügyfél rendelkezés�
 
 b) készpénz-helyettesítő fizetési eszköz – ide nem értve a csekket és az elektronikus pénzt – kibocsátása,
 
-c) olyan fizetési művelet teljesítése, ahol a fizető fél távközlési eszköz, digitális eszköz vagy más információtechnológiai eszköz segítségével adja meg a fizetési megbízást, és ahol a fizetési művelet a távközlési eszköz, digitális eszköz vagy más információtechnológiai eszköz üzemeltetőjénél történik, aki kizárólag közvetítőként jár el az ügyfele és az ügyfele részére árut szállító vagy szolgáltatást nyújtó harmadik személy között.
+c)
 
 (4) Az elektronikuspénz-kibocsátó intézmény az általa végzett elektronikuspénz-kibocsátási tevékenységhez vagy pénzforgalmi szolgáltatási tevékenységhez kapcsolódóan jogosult az elektronikuspénz-kibocsátás és pénzforgalmi szolgáltatás működtetésével összefüggő és egyéb, szorosan kapcsolódó kiegészítő szolgáltatások nyújtására, ideértve a fizetési műveletek teljesítésének biztosítását, a fizetési művelet tárgyát képező pénz átváltását, letéti szolgáltatást, valamint az adatok tárolását és feldolgozását is, valamint engedélyt kaphat a fizetési rendszer működtetése vonatkozó tevékenység végzésére.

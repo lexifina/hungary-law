@@ -1,6 +1,6 @@
 ## 4. Kiszervezés
 
-14. § (1) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény pénzügyi szolgáltatáshoz, kiegészítő pénzügyi szolgáltatáshoz kapcsolódó tevékenységét kiszervezheti, ha a kiszervezés megkezdését legalább harminc nappal megelőzően előzetesen bejelenti a Felügyeletnek.
+14. § (1) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény pénzügyi szolgáltatáshoz, kiegészítő pénzügyi szolgáltatáshoz kapcsolódó tevékenységét kiszervezheti – ideértve a másik EGT-államban működő szervezethez történő kiszervezést is –, ha a kiszervezés megkezdését legalább harminc nappal megelőzően előzetesen bejelenti a Felügyeletnek.
 
 (2) A bejelentés tartalmazza a kiszervezett tevékenységet végző hozzájárulását a kiszervezett tevékenységnek a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény belső ellenőrzése, könyvvizsgálója, valamint a Felügyelet helyszíni és helyszínen kívüli ellenőrzéséhez.
 
@@ -21,3 +21,5 @@ d) nem szüntethet meg és nem módosíthat semmilyen más olyan feltételt, ame
 (6) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény felelős azért, hogy a kiszervezett tevékenységet végző a tevékenységet a jogszabályi előírások, a személyi és tárgyi feltételek betartásával és a tőle elvárható gondossággal végezze. A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény haladéktalanul bejelenti a Felügyelet részére, ha a kiszervezett tevékenység végzése jogszabályba vagy a szerződésbe ütközik.
 
 (7) A Felügyelet a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény (6) bekezdésben foglalt bejelentése vagy a helyszíni ellenőrzése során feltárt hiányosságok alapján a tevékenység kiszervezését megtilthatja.
+
+(8) A pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény haladéktalanul bejelenti a Felügyeletnek a kiszervezésre vonatkozó szerződésben bekövetkezett érdemi változásokat.

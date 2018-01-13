@@ -4,7 +4,7 @@ a) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az eng
 
 b) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény már nem felel meg a pénzügyi szolgáltatási tevékenységre, kiegészítő pénzügyi szolgáltatási tevékenységre vonatkozó jogszabályi rendelkezéseknek,
 
-c) olyan körülmény áll fenn, amely súlyosan veszélyezteti a fizetési rendszer stabilitását, az ügyfelek érdekeit, vagy akadályozza a pénzforgalmat,
+c) olyan körülmény áll fenn, amely súlyosan veszélyezteti a fizetési rendszer stabilitását vagy a fizetési rendszer iránti bizalmat, az ügyfelek érdekeit, vagy akadályozza a pénzforgalmat,
 
 d) vagyona az ismert hitelezők követeléseinek kielégítésére sem nyújtana fedezetet,
 
@@ -16,4 +16,6 @@ f) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény jogosu
 
 a) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a tevékenységre jogosító engedély kézhezvételétől számított tizenkét hónapon belül a tevékenységét nem kezdi meg, vagy
 
-b) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény hat hónapon keresztül nem folytat tevékenységet.
+b) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény hat hónapon keresztül nem folytat tevékenységet,
+
+c) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nem teljesíti a 23. §-ban foglalt kötelezettségét.
