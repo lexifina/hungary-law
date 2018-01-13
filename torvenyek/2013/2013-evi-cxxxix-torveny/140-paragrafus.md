@@ -96,7 +96,7 @@ ax) a belső piac integritásának védelme és alternatív finanszírozási for
 
 b) az Európai Bankhatóságot
 
-ba) a hitelintézet számára kiadott tevékenységi (működési) engedélyről, valamint annak visszavonásáról az indoklással együtt,
+ba) a hitelintézet, a pénzforgalmi intézmény, az elektronikuspénz kibocsátó intézmény számára kiadott tevékenységi (működési) engedélyről, valamint annak visszavonásáról az indoklással együtt,
 
 bb) a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
 
@@ -189,6 +189,26 @@ ed) az egyéb rendszerszinten jelentős intézmény és a globálisan rendszersz
 ee) a 35. § (1) bekezdésben, a Hpt. 89. § (9) bekezdésében, valamint a Bszt. 110/D. § (9) bekezdésében meghatározott felülvizsgálatok eredményéről,
 
 ef) a Szantv. 113. § (2) bekezdésében foglaltakról.
+
+(4a) Az MNB tájékoztatja
+
+a) az Európai Bankhatóságot:
+
+aa) a pénzforgalmi intézmény, elektronikuspénz kibocsátó intézmény nyilvántartásba vett pénzforgalmi közvetítőiről,
+
+ab) a Hpt. 289/A. § (1) és (4) bekezdése szerinti bejelentésekről,
+
+ac) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/B. §-ában említett értesítés kézhezvételét követően haladéktalanul az eseménnyel kapcsolatos releváns információkról,
+
+ad) a pénzforgalmi szolgáltatók által az MNB rendelkezésére bocsátott információk alapján a különböző fizetési módokhoz kapcsolódó csalásokra vonatkozó összesített statisztikai adatokról,
+
+b) az EKB-t
+
+ba) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/B. §-ában említett értesítés kézhezvételét követően haladéktalanul az eseménnyel kapcsolatos releváns információkról,
+
+bb) a pénzforgalmi szolgáltatók által az MNB rendelkezésére bocsátott információk alapján a különböző fizetési módokhoz kapcsolódó csalásokra vonatkozó összesített statisztikai adatokról.
+
+(4b) Ha a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/B. §-ában említett bejelentés mérlegelését követően az MNB azt állapítja meg, hogy az esemény releváns lehet a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek vagy személyek ellenőrzését ellátó más hatóságok vagy egyéb hatóságok számára, úgy ez utóbbiaknak is értesítést küld.
 
 (5) A (3) bekezdés a) pontja szerinti bejelentésben – az érintett csoport szerkezetének és a csoportfelügyelet terjedelmének egyidejű bemutatásával – jelezni kell azt is, ha a tevékenységi engedélyt olyan biztosítónak vagy viszontbiztosítónak adták ki vagy olyan biztosítótól vagy viszontbiztosítótól vonták vissza, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata.
 

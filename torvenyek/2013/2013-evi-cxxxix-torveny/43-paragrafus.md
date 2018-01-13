@@ -76,11 +76,13 @@ oe) azon EGT-államok és harmadik országok megnevezését, amelyek esetén az 
 
 p) az egyéb rendszerszinten jelentős intézmények és a globálisan rendszerszinten jelentős intézmények nevének naprakész listáját és ez utóbbiak alkategóriákba való besorolását, valamint
 
-q)
+q) a Hpt. 289/A. § (1) és (4) bekezdése szerinti bejelentésben szereplő tevékenységek leírását,
+
+r) könnyen hozzáférhető módon a Bizottság elektronikus tájékoztatóját, amely felsorolja a fogyasztóknak az Európai Parlament és a Tanács (EU) 2015/2366 irányelve szerinti jogait, valamint a kapcsolódó Európai Uniós jogszabályokat.
 
 (2a) Az MNB a (2) bekezdés szerinti közzétételi kötelezettségének
 
-a) rendszeresen, de havonta legalább egyszer eleget tesz,
+a) a (2) bekezdés a) és q) pont vonatkozásában haladéktalanul, egyebekben rendszeresen, de havonta legalább egyszer eleget tesz,
 
 b) egységes elektronikus elérési helyen, átlátható módon tesz eleget.
 
