@@ -4,10 +4,11 @@
 
 ## 15. §
 
-(1) Az első fokú orvosi megállapítás felülvéleményezését, a vélemény kézhezvételétől számított 15 napon belül az első fokon eljárt szervnél lehet írásban kérni.
+(1)[^38] Az elsőfokú orvosi megállapítás felülvéleményezését a vélemény kézhezvételétől számított 15 napon belül az első fokon eljárt szervnél lehet írásban kérni. Erről a kérelmezőt – a vélemény részeként – írásban tájékoztatni kell.
 
 (2) A felülvéleményezési kérelem benyújtására az érintett személy, illetve a 7. § (1) bekezdésének b)—e) pontjaiban meghatározottak jogosultak.
 
-(3)[^38] Az első fokú soron kívüli egészségi alkalmassági vizsgálat megállapításainak felülvéleményezését az eljáró hatóság és a közlekedési igazgatási hatóság is kérheti.
+(3)[^39] Az első fokú soron kívüli egészségi alkalmassági vizsgálat megállapításainak felülvéleményezését az eljáró hatóság és a közlekedési igazgatási hatóság is kérheti.
 
-[^38]: A 15. § (3) bekezdése a 19/2010. (XII. 23.) NEFMI rendelet 4. §-ával megállapított szöveg.
+[^38]: A 15. § (1) bekezdése az 1/2018. (I. 12.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^39]: A 15. § (3) bekezdése a 19/2010. (XII. 23.) NEFMI rendelet 4. §-ával megállapított szöveg.

@@ -18,12 +18,12 @@ g) kábítószer-függőséget
 
 állapított meg.
 
-(2)[^46] Az (1) bekezdés szerint kell eljárni abban az esetben is, ha a közúti járművezetőnél az egészségkárosodás mértékére vonatkozóan szakértői vizsgálatot végeztek, és olyan állapotot, betegséget észleltek, amely a közúti járművezetésre való egészségi alkalmasságát kérdésessé teszi.
+(2)[^47] Az (1) bekezdés szerint kell eljárni abban az esetben is, ha a közúti járművezetőnél az egészségkárosodás mértékére vonatkozóan szakértői vizsgálatot végeztek, és olyan állapotot, betegséget észleltek, amely a közúti járművezetésre való egészségi alkalmasságát kérdésessé teszi.
 
-(3)[^47] Ha az orvos a közúti járművezetőnél olyan betegséget vagy állapotot észlel, vagy ha a részére olyan gyógyszert rendel, amelynek hatása vagy mellékhatása a biztonságos közúti járművezetést átmenetileg veszélyezteti és annak bejelentése nem kötelező, köteles felhívni a közúti járművezető figyelmét arra, hogy állapotának javulásáig közúti járművet ne vezessen.
+(3)[^48] Ha az orvos a közúti járművezetőnél olyan betegséget vagy állapotot észlel, vagy ha a részére olyan gyógyszert rendel, amelynek hatása vagy mellékhatása a biztonságos közúti járművezetést átmenetileg veszélyezteti és annak bejelentése nem kötelező, köteles felhívni a közúti járművezető figyelmét arra, hogy állapotának javulásáig közúti járművet ne vezessen.
 
-(4)[^48] A soron kívüli egészségi alkalmassági vizsgálat (1) vagy (2) bekezdés szerinti kezdeményezésétől az orvos eltekinthet, ha hitelt érdemlően meggyőződik arról, hogy az utolsó egészségi alkalmassági vizsgálat során az általa észlelt betegséget, illetve állapotot figyelembe vették, és annak időpontját követően állapotromlás nem következett be.
+(4)[^49] A soron kívüli egészségi alkalmassági vizsgálat (1) vagy (2) bekezdés szerinti kezdeményezésétől az orvos eltekinthet, ha hitelt érdemlően meggyőződik arról, hogy az utolsó egészségi alkalmassági vizsgálat során az általa észlelt betegséget, illetve állapotot figyelembe vették, és annak időpontját követően állapotromlás nem következett be.
 
-[^46]: A 21. § (2) bekezdése a 16/2008. (IV. 24.) EüM rendelet 9. §-ával megállapított szöveg.
-[^47]: [A 21. § (3) bekezdésének a 44/2016. (XII. 28.) EMMI rendelet 4. § c) pontjával elrendelt módosítása, amely szerint a „közúti járművezeténél” szövegrész helyébe a „közúti járművezetőnél” szöveg@KI = lép, nem vezethető át.]
-[^48]: A 21. § (4) bekezdését a 44/2016. (XII. 28.) EMMI rendelet 3. §-a iktatta be.
+[^47]: A 21. § (2) bekezdése a 16/2008. (IV. 24.) EüM rendelet 9. §-ával megállapított szöveg.
+[^48]: [A 21. § (3) bekezdésének a 44/2016. (XII. 28.) EMMI rendelet 4. § c) pontjával elrendelt módosítása, amely szerint a „közúti járművezeténél” szövegrész helyébe a „közúti járművezetőnél” szöveg@KI = lép, nem vezethető át.]
+[^49]: A 21. § (4) bekezdését a 44/2016. (XII. 28.) EMMI rendelet 3. §-a iktatta be.
