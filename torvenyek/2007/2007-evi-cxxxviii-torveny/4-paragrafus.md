@@ -4,7 +4,7 @@
 
 4. § (1) Az e törvényben hivatkozott jogszabályok rövidítését az 1. melléklet tartalmazza.
 
-(2) E törvény és az e törvény felhatalmazása alapján kiadott jogszabályokban
+(2) E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályokban
 
 1. algoritmikus kereskedés: olyan, pénzügyi eszközökkel folytatott kereskedés, amelynek során a megbízások egyedi paramétereit – így különösen azt, hogy kezdeményezni kell-e egy megbízást, mi legyen a megbízás időzítése, ára vagy mennyisége, hogyan történjen a megbízás kezelése annak benyújtása után – egy számítógépes algoritmus automatikusan határozza meg – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 18. cikkében meghatározottaknak megfelelő – korlátozott emberi beavatkozással vagy emberi beavatkozás nélkül, és nem foglalja magában azokat a rendszereket, amelyeket csak
 

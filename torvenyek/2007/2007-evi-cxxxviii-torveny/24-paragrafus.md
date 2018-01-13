@@ -34,4 +34,4 @@ b) kizárólag a 6. § e)–g), valamint j) és k) pontban meghatározott, villa
 
 tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
 
-(2) Külföldön szerzett szakmai gyakorlat akkor vehető figyelembe, ha a szakirányú szakmai gyakorlat megszerzésére az (1) bekezdésben meghatározott szervezeteknek megfelelő intézménynél, illetve nemzetközi pénzügyi intézménynél került sor.
+(2) Külföldön szerzett szakmai gyakorlat akkor vehető figyelembe, ha a szakirányú szakmai gyakorlat megszerzésére az (1) és (1a) bekezdésben meghatározott szervezeteknek megfelelő intézménynél, illetve nemzetközi pénzügyi intézménynél került sor.
