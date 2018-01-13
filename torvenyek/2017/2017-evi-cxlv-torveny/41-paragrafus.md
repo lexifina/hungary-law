@@ -1,0 +1,3 @@
+41. § A Pft. 24. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A keretszerződésnek tartalmaznia kell olyan kikötést, amely szerint – a 23. § szerinti tájékoztatástól eltérően – a 23. § (1) bekezdés a)–e) pontjában meghatározott tájékoztatást a pénzforgalmi szolgáltató a fizető fél részére – annak kérésére, ideértve a keretszerződésben rögzítetteket is – legalább havonta egy alkalommal díjmentesen, a keretszerződésben rögzített formában átadja vagy rendelkezésre bocsátja, oly módon, hogy a fizető fél az adatokat az adatok céljának megfelelő ideig tartósan tárolhassa, és a tárolt adatokat változatlan formában és tartalommal megjeleníthesse.”
