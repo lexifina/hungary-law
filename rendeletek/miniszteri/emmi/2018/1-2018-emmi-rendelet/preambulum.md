@@ -1,1 +1,0 @@
-Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (2) bekezdés zs) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 48. § 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
