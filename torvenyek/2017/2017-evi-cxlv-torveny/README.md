@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-145-00-00
 | 2018-01-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-145-00-00.5 |
 | 2018-01-04 | 2010. évi CXXX. törvény | 2017-145-00-00.6 |
 | 2018-01-13 | 2010. évi CXXX. törvény | 2017-145-00-00.7 |
+| 2018-01-14 | 2010. évi CXXX. törvény | 2017-145-00-00.8 |
