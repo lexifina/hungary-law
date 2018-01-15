@@ -1,0 +1,3 @@
+8. § (1) A Kincstár a döntés kézhezvételét követő 15 napon belül gondoskodik az állami kárrendezésnek a jogosult részére történő kifizetéséről, a jogosult 4. § (2) bekezdés szerinti nyilatkozatának megfelelően.
+
+(2) A Kincstár a jogosult feltüntetésével a kifizetés megtörténtét igazoló iratokat az állami vagyonért felelős miniszter részére megküldi, aki jogosult és köteles az állami kárrendezésre jogosultról a 9. § alapján államra szállt követelések és annak járulékai érvényesítésére, és az állami kárrendezésre jogosultat az átszállást megelőzően megillető követelések érvényesítéséhez szükséges jogok gyakorlására is.
