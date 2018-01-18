@@ -133,3 +133,5 @@ függetlenül attól, hogy ez sérti-e a szellemi tulajdonjogot.
 51. támogatástartalom: az Atr. szerinti tartalom;
 
 52. folyamatos ellátás: a forgalomba hozatali engedély jogosultjával vagy abban az esetben, ha az belföldön forgalmazási tevékenységet nem végez, a forgalmazóval szerződött gyógyszer-nagykereskedők megrendeléseinek szokásos üzletmenet szerinti kielégítése,
+
+53. ex tempore előállított radioaktív gyógyszer: Magyarországon forgalomba hozatali engedéllyel nem rendelkező, a kezelőorvos által megállapított egyedi betegellátási igény kielégítésére szolgáló, radioaktív gyógyszerkészítményt alkalmazó egészségügyi szolgáltató vagy radioaktív gyógyszer előállítására engedéllyel rendelkező gyógyszergyártó által a Gyógyszerkönyv 5.19 Radioaktív gyógyszerek ex tempore előállítása fejezetével összhangban előállított gyógyszer.
