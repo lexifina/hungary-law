@@ -1,5 +1,5 @@
-6. §[^8] (1) A miniszteri elismerő oklevelet és a díjat ünnepélyes keretek között a miniszter, vagy az általa megbízott személy adja át.
+6. §[^9] (1) A miniszteri elismerő oklevelet és a díjat ünnepélyes keretek között a miniszter, vagy az általa megbízott személy adja át.
 
 (2) A miniszter döntése esetén a miniszteri elismerő oklevél és a díj átadására az e rendeletben meghatározott időponttól eltérő időpontban is sor kerülhet.
 
-[^8]: A 6. § a 7/2016. (V. 25.) IM rendelet 5. §-ával megállapított szöveg.
+[^9]: A 6. § a 7/2016. (V. 25.) IM rendelet 5. §-ával megállapított szöveg.
