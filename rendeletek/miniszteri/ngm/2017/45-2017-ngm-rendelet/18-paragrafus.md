@@ -1,3 +1,3 @@
-## 17. §[^2]
+## 17. §[^1]
 
-[^2]: A 17. § a 14. § (3) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^1]: A 17. § a 14. § (3) bekezdése alapján 2019. január 1-jén lép hatályba.
