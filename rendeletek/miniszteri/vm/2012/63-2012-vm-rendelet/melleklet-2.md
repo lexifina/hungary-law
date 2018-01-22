@@ -1204,7 +1204,7 @@
 
 |  | – erdőterv határozat kiadása az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 113. § (13) bekezdése alapján kérelemre induló eljárásban; |  |
 
-|  | – az Evt. 15. § (2) bekezdése hatálya alá tartozó, a 15.2.1. pontban nem szereplő, erdei közjóléti létesítménynek nem minősülő egyéb nem nyomvonalas kialakítású erdészeti létesítménnyel kapcsolatos engedélyezési eljárások; |  |
+|  | – az Evt. 15. § (5) bekezdése hatálya alá tartozó, a 15.2.1. pontban nem szereplő, erdei közjóléti létesítménynek nem minősülő egyéb nem nyomvonalas kialakítású erdészeti létesítménnyel kapcsolatos engedélyezési eljárások; |  |
 
 |  | – a 15.1.2 pont alá tartozó eljárásokban. |  |
 
@@ -1212,11 +1212,11 @@
 
 | 15.1.2.1. | Földrészletenként | 500 |
 
-|  | – szabad rendelkezésű erdő átminősítése nem szabad rendelkezésű erdővé; |  |
+|  | – erdő, vagy erdőként nyilvántartott egyéb terület kérelemre történő kivezetése az Adattárból; |  |
 
 |  | – erdő telepítésének engedélyezése; |  |
 
-|  | – fásítás és szabad rendelkezésű erdő telepítésének engedélyezése; |  |
+|  | – az Evt. 83/A. §-a szerinti létesítmény által elfoglalt területre igénybevétel engedélyezése; |  |
 
 |  | – meghiúsult erdőtelepítés törlése az Adattárból; |  |
 
@@ -1226,15 +1226,15 @@
 
 | 15.1.2.2. | Földrészletenként | 5000 |
 
-|  | – erdőgazdálkodó és a használatában álló erdő erdőgazdálkodói nyilvántartásba történő bejegyzése, törlése. |  |
+|  | – tulajdonos vagy az érintett tulajdonostársak kérelmére erdőgazdálkodó haszonvételi jogosultságának átmeneti időszakra történő korlátozása. |  |
 
 | 15.1.2.3. | Erdőrészletenként | 300 |
 
 |  | – erdő fátlan állapotban tartásának engedélyezése; |  |
 
-|  | – erdő rendeltetéseinek megváltoztatása; |  |
+|  | – erdőgazdálkodó kérelmére erdőfelújítás befejezetté nyilvánítása; |  |
 
-|  | – erdő üzemmódjának megváltoztatása; |  |
+|  | – szennyvíziszap termőhelyre kihordásának engedélyezése; |  |
 
 |  | – erdősítési határidők módosításának engedélyezési eljárása; |  |
 
@@ -1244,7 +1244,7 @@
 
 | 15.1.2.4. | Kilométerenként | 3000 |
 
-|  | – az Evt. 15. § (2) bekezdése hatálya alá tartozó, a 15.2.2.3. vagy 15.3.2.2. pontban nem szereplő, erdei közjóléti létesítménynek nem minősülő egyéb nyomvonalas kialakítású erdészeti létesítménnyel kapcsolatos engedélyezési eljárások; |  |
+|  | – az Evt. 15. § (5) bekezdése hatálya alá tartozó, a 15.2.2.3. vagy 15.3.2.2. pontban nem szereplő, erdei közjóléti létesítménynek nem minősülő egyéb nyomvonalas kialakítású erdészeti létesítménnyel kapcsolatos engedélyezési eljárások; |  |
 
 |  | – járműközlekedésre használható út kijelölése erdőben az Evt. 92. § (2) bekezdésében foglaltak szerint. |  |
 
@@ -1256,7 +1256,7 @@
 
 |  | – lovas és gépjárműnek nem minősülő járművel folytatott, vagy egyéb technikai sportverseny engedélyezése erdőben; |  |
 
-|  | – az Evt. 15. § (2) bekezdése hatálya alá tartozó, külön nem nevesített erdei közjóléti berendezéssel vagy létesítménnyel kapcsolatos engedélyezési eljárások; |  |
+|  | – az Evt. 15. § (5) bekezdése hatálya alá tartozó, külön nem nevesített erdei közjóléti berendezéssel vagy létesítménnyel kapcsolatos engedélyezési eljárások; |  |
 
 |  | – a 15.2.2. pont alá tartozó eljárásokban. |  |
 
@@ -1264,21 +1264,21 @@
 
 | 15.2.2.1. | Földrészletenként | 2000 |
 
-|  | – önerdősülés nyilvántartásba vétele az Evt. 11. § (1) bekezdés e) pontja szerinti szabad rendelkezésű erdőként; |  |
+|  | – önerdősülés nyilvántartásba vétele az Evt. 6. § (2) bekezdés ba) pontja szerinti szabad rendelkezésű erdőként; |  |
 
-|  | – Evt. 77. § d) pontja szerinti igénybevételének érvényes elvi engedély hiányában történő engedélyezése; |  |
+|  | – Evt. 77. § (1) bekezdés d) pontja szerinti igénybevételének érvényes elvi engedély hiányában történő engedélyezése; |  |
 
-|  | – erdő engedély nélküli vagy engedélytől eltérő, az Evt. 77. § d) pontja szerinti igénybevétele esetén a helyreállítási kötelezettség alóli felmentés megadása; |  |
+|  | – erdő engedély nélküli vagy engedélytől eltérő, az Evt. 77. § (1) bekezdés d) pontja szerinti igénybevétele esetén a helyreállítási kötelezettség alóli felmentés megadása; |  |
 
-|  | – erdő Evt. 77. § d) pontja szerinti igénybevételének előzetes elvi engedélyezése. |  |
+|  | – erdő Evt. 77. § (1) bekezdés d) pontja szerinti igénybevételének előzetes elvi engedélyezése. |  |
 
 | 15.2.2.2. | Erdőrészletenként | 2000 |
 
-|  | – erdőterv módosítása; |  |
+|  | – vágásos üzemmódú erdő termőhelyi viszonyoknak megfelelő záródásnál alacsonyabb, de legalább ötven százalékos záródással való kialakítását és fenntartásának engedélyezése; |  |
 
-|  | – természetes mag eredetű erdőfelújításhoz kapcsolódó véghasználat, valamint szálalás március 31. és szeptember 1. közötti időszakban történő végrehajtásának engedélyezése; |  |
+|  | – természetességi állapotra vonatkozó alapelvárás módosításnak engedélyezése; |  |
 
-|  | – erdészeti szaporítóanyag gyűjtésének engedélyezése. |  |
+|  | – erdőrészletek, vagy egyéb részletek megosztása az Adattárban. |  |
 
 | 15.2.2.3. | Kilométerenként | 10 000 |
 
@@ -1296,11 +1296,11 @@
 
 | 15.3.2.1. | Földrészletenként | 7000 |
 
-|  | – erdő Evt. 77. § a)–c) pontja szerinti igénybevételének előzetes elvi engedély hiányában történő engedélyezése; |  |
+|  | – erdő Evt. 77. § (1) bekezdés a)–c) pontja szerinti igénybevételének előzetes elvi engedély hiányában történő engedélyezése; |  |
 
-|  | – erdő engedély nélküli vagy engedélytől eltérő, az Evt. 77. § a)–c) pontja szerinti igénybevétele esetén a helyreállítási kötelezettség alóli felmentés megadása; |  |
+|  | – erdő engedély nélküli vagy engedélytől eltérő, az Evt. 77. § (1) bekezdés a)–c) pontja szerinti igénybevétele esetén a helyreállítási kötelezettség alóli felmentés megadása; |  |
 
-|  | – erdő Evt. 77. § a)–c) pont szerinti igénybevételének előzetes elvi engedélyezése. |  |
+|  | – erdő Evt. 77. § (1) bekezdés a)–c) pontja szerinti igénybevételének előzetes elvi engedélyezése. |  |
 
 | 15.3.2.2. | Kilométerenként | 80 000 |
 
@@ -1322,11 +1322,11 @@
 
 | 15.5.4. | Erdőgazdálkodói nyilvántartásból adatszolgáltatás keretében kiadott nem hiteles, szemlemásolat kiadása földrészletenként | 1500 |
 
-| 15.5.5. | Adatszolgáltatás keretében hiteles adattári teljes másolat kiadása erdőrészletenként | 4000 |
+| 15.5.5. |  |  |
 
 | 15.5.6. | Adatszolgáltatás keretében hiteles adattári szemlemásolat kiadása erdőrészletenként | 2000 |
 
-| 15.5.7. | Adatszolgáltatás keretében nem hiteles adattári teljes másolat kiadása erdőrészletenként | 3000 |
+| 15.5.7. |  |  |
 
 | 15.5.8. | Adatszolgáltatás keretében nem hiteles adattári szemlemásolat kiadása erdőrészletenként | 1500 |
 
@@ -1350,21 +1350,13 @@
 
 | 15.7. | Az erdészeti hatóság más hatóság más hatóságnál, kérelemre indult eljárásban lefolytatott szakhatósági eljárásai |  |
 
-| 15.7.1. | Szakhatósági eljárás igazgatási szolgáltatási díja a 15.7.2. pontban foglalt, valamint az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendelet 3. § (2) bekezdése szerinti eljárás kivételével | 7500 |
+| 15.7.1. | Szakhatósági eljárás igazgatási szolgáltatási díja a 15.7.2. pontban foglalt, valamint az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról és a vis maiorral összefüggő egyes miniszteri rendeletek módosításáról szóló 94/2015. (XII. 23.) FM rendelet 3. § (2) bekezdése szerinti eljárás kivételével | 7500 |
 
 | 15.7.2. | Szakhatósági eljárás igazgatási szolgáltatási díja bányatelek megállapítása iránti eljárásban, ha a szakhatósági eljárás a külön jogszabály szerint az erdő igénybevételének előzetes elvi engedélyezésére is kiterjed | 60 000 |
 
-| 15.8. | Fás szárú energetikai ültetvény telepítésével vagy a telepítés megszűntetésével kapcsolatos eljárások |  |
+| 15.8. |  |  |
 
-| 15.8.1. | Alapdíj | 11 000 |
-
-| 15.8.2. | Az alapdíjon felül a telepítéssel érintett terület minden megkezdett 5 hektárja után további | 4000 |
-
-| 15.8.3. | Ha az egy kérelemben szereplő ingatlanok egyikének területe sem haladja meg az öt hektárt, az ingatlanok egymással szomszédosak vagy egy dűlőben vannak | 15.8.1. és 15.8.2. pontokban foglaltak szerint számított díj 50%-a |
-
-| 15.8.4. | A 15.8.1–15.8.3. pontban foglalt elsőfokú eljárásban hozott határozat ellen kezdeményezett másodfokú eljárás díja | Jogorvoslati kérelemmel érintett terület alapul vételével a 15.8.1–15.8.3. pont alapján számított összeg 200%-a |
-
-| 15.9. | Hatósági bizonyítvány kiállítása |  |
+| 15.9. | Hatósági bizonyítvány kiállítása, erdőrészletekre vonatkozó adatszolgáltatás esetén erdőrészletenként, erdőgazdálkodóra vonatkozóan gazdálkodónként, egyéb esetekben földrészletenként |  |
 
 | 15.9.1. | Első példány kiállítása | 2000 |
 
