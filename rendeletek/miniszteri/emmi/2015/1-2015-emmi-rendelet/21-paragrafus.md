@@ -1,8 +1,6 @@
-## 20. § A Bv. tv. 350. § (3) bekezdése szerinti javaslat kialakítása érdekében felkért szakértői csoport tagjai a fiatalkorú vizsgálatát összehangoltan végzik el. A szakértői csoport a befogadó csoportban való tartózkodás Bv. tv. 350. § (1) bekezdésében meghatározott időtartamának végső időpontjára figyelemmel közli javaslatát a javítóintézet igazgatójával.
+## 11. [^8] Az együttes elhelyezés során a fiatalkorú gyermeke számára biztosított ellátás tartalma
 
-## 11. Az együttes elhelyezés
-
-21. § (1)[^7] A fiatalkorú és gyermeke együttes elhelyezéséről a javítóintézet értesíti a fiatalkorú lakóhelye szerint illetékes gyámhivatalt, és kéri a gyámrendelés szükségességének vizsgálatát.
+21. § (1)[^9] Együttes elhelyezés során a javítóintézet szükség szerint, de legalább félévente tájékoztatja a fiatalkorú gyermekének ügyében eljáró gyámhivatalt a gyermeknek a fiatalkorú általi gondozásának, nevelésének tapasztalatairól.
 
 (2) Együttes elhelyezés esetén a javítóintézet biztosítja
 
@@ -28,4 +26,5 @@ bc) a gyermek ellátásához szükséges biztonságos, célszerű berendezési �
 
 (5) Együttes elhelyezés esetén a fiatalkorú gyermeke számára biztosítani kell a gyermek életkorának megfelelő ellátásához szükséges eszközöket, ruhaneműt, tisztálkodási és testápolási szereket, valamint textíliákat, továbbá gyermekenként három váltás ágyneműt.
 
-[^7]: A 21. § (1) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^8]: A 11. alcím címe a 4/2018. (I. 23.) EMMI rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^9]: A 21. § (1) bekezdése a 4/2018. (I. 23.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.

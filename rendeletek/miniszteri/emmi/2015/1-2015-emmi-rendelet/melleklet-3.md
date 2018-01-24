@@ -78,7 +78,7 @@
 
 ## – középfokú iskolai végzettség
 
-3. melléklet az 1/2015. (I. 14.) EMMI rendelethez[^19]
+3. melléklet az 1/2015. (I. 14.) EMMI rendelethez[^22]
 
 1. A javítóintézeti nevelés elrendelése esetén a fiatalkorúak felvételére kijelölt javítóintézetek
 
@@ -106,7 +106,7 @@ Debreceni Javítóintézete
 
 1.2.2.1. Emberi Erőforrások Minisztériuma Debreceni Javítóintézete Nagykanizsai Telephelye
 
-8800 Nagykanizsa, Camping út HRSZ 4918/10
+8800 Nagykanizsa, Kemping utca 6.
 
 2. Előzetes letartóztatás javítóintézetben történő végrehajtása esetén a fiatalkorúak felvételére kijelölt intézetek
 
@@ -134,6 +134,6 @@ Debreceni Javítóintézete
 
 2.2.2.1. Emberi Erőforrások Minisztériuma Debreceni Javítóintézete Nagykanizsai Telephelye
 
-8800 Nagykanizsa, Camping út HRSZ 4918/10
+8800 Nagykanizsa, Kemping utca 6.
 
-[^19]: A 3. melléklet a 44/2015. (X. 2.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^22]: A 3. melléklet a 44/2015. (X. 2.) EMMI rendelet 1. §-a, a 4/2018. (I. 23.) EMMI rendelet 5. §-a szerint módosított szöveg.
