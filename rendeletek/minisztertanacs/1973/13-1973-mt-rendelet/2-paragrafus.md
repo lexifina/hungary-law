@@ -1,1 +1,0 @@
-## 1. § A Minisztertanács a Magyar Népköztársaság és a Mongol Népköztársaság közötti postai és távközlési forgalom tárgyában Budapesten, az 1973. évi január hó 19. napján aláírt egyezményt e rendelettel kihirdeti.
