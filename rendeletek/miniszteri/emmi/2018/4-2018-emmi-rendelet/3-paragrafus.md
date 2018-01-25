@@ -1,1 +1,0 @@
-## „(1) Együttes elhelyezés során a javítóintézet szükség szerint, de legalább félévente tájékoztatja a fiatalkorú gyermekének ügyében eljáró gyámhivatalt a gyermeknek a fiatalkorú általi gondozásának, nevelésének tapasztalatairól.”
