@@ -1,23 +1,3 @@
-## 1. § A dohánykiskereskedelem-ellátási tevékenység elvégzése céljából megkötött koncessziós szerződés alapján fizetendő koncessziós díj legkisebb mértékéről szóló 405/2016. (XII. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet) a következő 2/A. §-sal egészül ki:
+## 1. §[^1]
 
-## „2/A. § (1) A 2018. év vonatkozásában – az e §-ban foglalt eltéréssel – az 1. melléklet 25. pontjában foglalt, a Dohánytörvény 15/E. § (8) bekezdése alapján nyújtott pénzbeli visszatérítés az egyéb feltételek fennállása esetén is csak akkor számolható el költségként és akkor fizethető ki, ha az egyébként a 2. § szerint erre a célra fordítható teljes összeg meghaladja a 2016. évi maximált üzemi eredmény 70%-ának megfelelő összeget. Ebben az esetben a 2018. év vonatkozásában a 2016. évi maximált üzemi eredmény 70%-ának megfelelő összeg feletti rész fizethető ki visszatérítésként azzal, hogy a koncessziós díj mértéke nem lehet kevesebb, mint az e §-ban foglalt rendelkezések figyelmen kívül hagyásával egyébként fizetendő koncessziós díj mértéke.
-
-## (2) A 2018. év vonatkozásában a maximált üzemi eredmény összege a 2. § (4) bekezdésében foglalt maximált üzemi eredménynek a 2016. évi maximált üzemi eredmény 70%-ának megfelelő összeggel (a továbbiakban: egyszeri tétel) növelt összege azzal, hogy az egyszeri tétel kizárólag az e §-ban meghatározottak szerint használható fel (a továbbiakban: célhoz kötött eredményrész).
-
-## (3) A 2018. év vonatkozásában – a (2) bekezdésben foglaltakra figyelemmel – a maximált üzemi eredmény a 2. § (5) bekezdése szerinti tőkemegtérülési korláthoz képest az egyszeri tétel összegével nagyobb összegű tőkemegtérülést biztosíthat.
-
-## (4) A célhoz kötött eredményrészt a koncessziós társaság köteles bármely tag kérésére osztalékként (akár osztalékelőleg alkalmazásával) kifizetni, amely kifizetett osztalékot az osztalékra jogosult köteles a tagállamoknak a dohánytermékek és kapcsolódó termékek gyártására, kiszerelésére és értékesítésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezései közelítéséről és a 2001/37/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/40/EU parlamenti és tanácsi irányelv, valamint az ennek végrehajtására az Európai Bizottság által kiadott jogi aktus által előírt, a dohánytermékek nyomonkövethetőségét biztosító rendszernek – e § hatálybalépését megelőző öt naptári év átlagában – az Európai Unió területén dohánytermékekből – a kapcsolt vállalkozásával, vállalkozásaival együtt – évi legfeljebb 120 millió csomagolási egységet kibocsátó, Magyarországon tevékenységet folytató dohánygyártóknál, importálóknál vagy nagykereskedőknél történő kiépítéséhez szükséges beruházásokra fordítani. A célhoz kötött eredményrész alapján kifizetett osztalék felhasználásáról a koncessziós társaság tagja köteles könyvvizsgáló ellenjegyzésével ellátott kimutatást készíteni és azt 2019. szeptember 30-ig a koncessziós társaság rendelkezésére bocsátani.
-
-## (5) A koncessziós társaság osztalékra jogosult tagja e § alkalmazásával csak annyi osztalékot (osztalékelőleget) vehet fel a célhoz kötött eredményrészből, amelyről megalapozottan valószínűsíteni tudja, hogy azt a (4) bekezdésben meghatározott célra tudja fordítani. A célhoz kötött eredményrész alapján képződött osztalékról a koncessziós társaság tagja le is mondhat.
-
-## (6) Ha az osztalékra jogosult a részére a célhoz kötött eredményrészből kifizetett osztalékot – közvetlenül vagy közvetetten (így különösen tőkeemelés, pénzátadás formájában) – nem vagy nem teljes mértékben fordítja a (4) bekezdés szerinti célokra, akkor a ténylegesen kifizetett osztaléknak a (4) bekezdés szerinti célokra fel nem használt részét köteles a koncessziós társaság részére visszafizetni – a mindenkori jegybanki alapkamat kétszeresével növelt összegben – legkésőbb 2019. november 30-ig.
-
-## (7) Azzal az összeggel,
-
-## a) amely e § rendelkezései szerint 2019. április 30-ig nem került kifizetésre a koncessziós társaság osztalékra jogosult tagjának, vagy
-
-## b) amelynek a visszafizetésére köteles a koncessziós társaság tagja a (6) bekezdés alapján,
-
-## az 1. melléklet 25. pontjában foglalt, a Dohánytörvény 15/E. § (8) bekezdése alapján nyújtott pénzbeli visszatérítés összege növelhető, és az kifizethető kizárólag a 2018. év vonatkozásában (utólag is). Az e bekezdés szerinti visszafizetés, illetve kifizetés a koncessziós társaság szempontjából rendkívüli eseménynek minősül, és ha azok rögzítésére a 2019. évben kerül sor, akkor ezen tételek sem a bevétel, sem a költség elszámolhatósága szempontjából nem esnek a 2019. évi koncessziós díj elszámolását meghatározó szabályok hatálya alá.
-
-## (8) Ha a koncessziós társaság tagjának kérésére a koncessziós társaság a (4) bekezdésben foglaltaknak nem tesz eleget, akkor a célhoz kötött eredményrész kifizetését a tag véglegesen átadott pénzeszköz kifizetése formájában is követelheti. Az így kifizetett összeg felhasználására és az azzal való elszámolásra az e §-ban az osztalékra meghatározott rendelkezéseket kell megfelelően alkalmazni.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
