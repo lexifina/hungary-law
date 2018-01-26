@@ -1,4 +1,4 @@
-23. § (1)[^10]
+23. § (1)[^11]
 
 (2) A tachográf-kártyához elektronikus biztonsági kódok abban az esetben rendelhetők, ha
 
@@ -10,4 +10,4 @@ c) a kérelmező személy szokásos tartózkodási helye Magyarország terület�
 
 (3) A (2) bekezdésben foglaltak teljesülése esetén állítható elő a megszemélyesített tachográf-kártya.
 
-[^10]: A 23. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 110. § h) pontja hatályon kívül helyezte.
+[^11]: A 23. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 110. § h) pontja hatályon kívül helyezte.

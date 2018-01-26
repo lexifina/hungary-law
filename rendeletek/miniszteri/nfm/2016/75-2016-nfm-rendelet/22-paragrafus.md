@@ -1,6 +1,6 @@
 ## 10. Tachográf-kártyák kiadása
 
-22. § (1)–(4)[^9]
+22. § (1)–(4)[^10]
 
 (5) A tachográf-kártya időbeli hatálya a kiadásától számítva:
 
@@ -10,4 +10,4 @@ b) ellenőrzőkártya esetén 2 év;
 
 c) műhelykártya esetén 1 év.
 
-[^9]: A 22. § (1)–(4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 110. § g) pontja hatályon kívül helyezte.
+[^10]: A 22. § (1)–(4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 110. § g) pontja hatályon kívül helyezte.

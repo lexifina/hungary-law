@@ -1,4 +1,4 @@
-## 24–25. §[^11]
+## 24–25. §[^12]
 
 26. § (1) A Kkt. 20. § (11) bekezdés a) pont aa) alpont szerint ellenőrzésre jogosult szervezet a tachográf-kártyát a helyszínen elveszi, ha az ellenőrzés során annak gyanúja merül fel, hogy
 
@@ -24,4 +24,4 @@ c) a nyilvántartás szerint a tachográf-kártya kiadására nem került sor.
 
 (6) A visszavont tachográf-kártyát a kártyakibocsátó hatóság egy naptári évvel a leadást követően selejtezi.
 
-[^11]: A 24–25. § az 55/2017. (XII. 27.) NFM rendelet 110. § i) pontja hatályon kívül helyezte.
+[^12]: A 24–25. § az 55/2017. (XII. 27.) NFM rendelet 110. § i) pontja hatályon kívül helyezte.
