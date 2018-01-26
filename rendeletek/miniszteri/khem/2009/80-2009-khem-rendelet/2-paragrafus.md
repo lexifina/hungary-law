@@ -70,13 +70,13 @@ van helye.
 
 (5) A Ket. 94. § (2) bekezdés b) pontja alkalmazásának a közúti közlekedésről szóló 1988. évi I. törvény
 
-a) 20. § (1) bekezdés a) pontja alapján a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet (a továbbiakban: 156/2009. (VII. 29.) Korm. rendelet) 1. mellékletének 1. pontjában, 2. pont a) alpontjában és 5. pontjában foglalt esetekben,
+a)[^12] 20. § (1) bekezdés a) és b) pontja alapján a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet [a továbbiakban: 156/2009. (VII. 29.) Korm. rendelet] 1. melléklet 1. pontjában, 2. pont a) alpontjában, 4. pont a) alpontjában, 5. és 6. pontjában, valamint 2. melléklet 1. pontjában foglalt esetekben,
 
-b)[^12] 20. § (1) bekezdés e) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 5. mellékletében foglalt esetekben,
+b)[^13] 20. § (1) bekezdés e) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 5. mellékletében foglalt esetekben,
 
-c) 20. § (1) bekezdés c) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 3. mellékletének B2-B3 soraiban, B5-B6 soraiban, B8-B9 soraiban, B11-B12 soraiban, C2-C3 soraiban, D2-D3 soraiban, D5-D6 soraiban, D8-D9 soraiban, D11-D12 soraiban, D14-D15 soraiban, D17-D18 soraiban, E1 sorában foglalt esetekben,
+c)[^14] 20. § (1) bekezdés c) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 3. melléklet B2–B4, B6–B8, B10–B12, B14–B16, C2–C5, D2–D5, D7–D10, D12–D15, D17–D20, D22–D25, D27–D30, D32–D35, E2–E13 és F1–F2 pontjában, valamint 4/A. mellékletében foglalt esetekben,
 
-d) 20. § (1) bekezdés d) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 4. mellékletének F1, G1-G2, G6-G10, G12, G15, G18-G20, H1-H2, I1-I7, J1-J3, K1, L1-L2, L4 sorában foglalt esetekben, valamint ha a kapcsoló berendezés olyan helytelen használata esetén, amely az értékelhetőséget befolyásolja a G22 sorában foglalt esetben,
+d)[^15] 20. § (1) bekezdés d) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 4. melléklet G1, H1–H19, H26–H27, I1–I5, J1–J2, L1, L3 és M1–M7 pontjában foglalt esetekben,
 
 e) 22/A. § (1) bekezdésben foglaltak alapján a közúti járművekkel, jármű-alkatrészekkel és önálló műszaki egységekkel kapcsolatos rendelkezések megsértése miatt,
 
@@ -86,17 +86,27 @@ g) 44. § (3) bekezdése, valamint a közúti szállítást végző egyes járm�
 
 h) 44. § (4) bekezdése alapján a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendeletben [a továbbiakban: 6/1990. (IV. 12.) KöHÉM rendelet] az össztömegre, tengelyterhelésre és méretre meghatározott előírásoknak meg nem felelő jármű, illetve balesetveszélyes műszaki állapotú jármű esetén
 
-i)[^13] 20. § (1) bekezdés k) pontja alapján a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet 11/A–11/F. mellékletében foglalt esetekben,
+i)[^16] 20. § (1) bekezdés k) pontja alapján a közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet 11/A–11/F. mellékletében foglalt esetekben,
 
-j)[^14] 20. § (1) bekezdés l) pontja alapján a magyarországi illetőségű személy vagy szervezet által a külföldi hatósági jelzéssel ellátott jármű belföldi üzemeltetésére, használatára vonatkozó szabályok megsértése esetén,
+j)[^17] 20. § (1) bekezdés l) pontja alapján a magyarországi illetőségű személy vagy szervezet által a külföldi hatósági jelzéssel ellátott jármű belföldi üzemeltetésére, használatára vonatkozó szabályok megsértése esetén,
 
-k)[^15] 20. § (1) bekezdés m) pontja alapján az útdíjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra vonatkozó szabályok megsértése esetén
+k)[^18] 20. § (1) bekezdés m) pontja alapján az útdíjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra vonatkozó szabályok megsértése esetén
+
+l)[^19] 20. § (1) bekezdés f) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 6. mellékletében foglalt esetekben,
+
+m)[^20] 20. § (1) bekezdés g) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 7. mellékletében foglalt esetekben,
+
+n)[^21] 20. § (1) bekezdés h) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 8. mellékletében foglalt esetekben,
+
+o)[^22] 20. § (1) bekezdés i) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 9. mellékletében foglalt esetben,
+
+p)[^23] 20. § (1) bekezdés j) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 10. melléklet 1. pontjában foglalt esetben
 
 ## van helye.
 
 (6) A Ket. 94. § (2) bekezdés b) pontja alkalmazásának a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet
 
-a)[^16] 14. § (7) bekezdése alapján a 6/1990. (IV. 12.) KöHÉM rendeletben meghatározott feltételeknek meg nem felelő jármű esetén, illetve a járművet átalakítás után a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben meghatározott járási (kerületi) hivatalnál vizsgálatra be nem mutatása miatt, vagy a környezetvédelmi előírásoknak meg nem felelő jármű esetén;
+a)[^24] 14. § (7) bekezdése alapján a 6/1990. (IV. 12.) KöHÉM rendeletben meghatározott feltételeknek meg nem felelő jármű esetén, illetve a járművet átalakítás után a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben meghatározott járási (kerületi) hivatalnál vizsgálatra be nem mutatása miatt, vagy a környezetvédelmi előírásoknak meg nem felelő jármű esetén;
 
 c) 14. § (10) bekezdés a) pontja, 14. § (13) bekezdés a) pontja alapján, ha a jármű közúti forgalomban való további részvétele közvetlen balesetveszéllyel jár;
 
@@ -121,8 +131,16 @@ van helye.
 [^9]: A 2. § (3) bekezdés g) pontja az 51/2014. (XII. 11.) NFM rendelet 2. § c) pontja szerint módosított szöveg.
 [^10]: A 2. § (3) bekezdés h) pontját a 47/2012. (VIII. 23.) NFM rendelet 2. § (2) bekezdése iktatta be, szövege az 55/2017. (XII. 27.) NFM rendelet 41. § c) pontja szerint módosított szöveg.
 [^11]: A 2. § (4) bekezdés d) pontját az 55/2017. (XII. 27.) NFM rendelet 40. §-a iktatta be.
-[^12]: A 2. § (5) bekezdés b) pontja a 42/2011. (VIII. 11.) NFM rendelet 16. § (1) bekezdésével megállapított, a 31/2013. (VI. 18.) NFM rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^13]: A 2. § (5) bekezdés i) pontját a 42/2011. (VIII. 11.) NFM rendelet 16. § (2) bekezdése iktatta be, szövege a 47/2012. (VIII. 23.) NFM rendelet 2. § (3) bekezdésével megállapított, az 51/2014. (XII. 11.) NFM rendelet 2. § d) pontja szerint módosított szöveg.
-[^14]: A 2. § (5) bekezdés j) pontját a 47/2012. (VIII. 23.) NFM rendelet 2. § (4) bekezdése iktatta be.
-[^15]: A 2. § (5) bekezdés k) pontját a 31/2013. (VI. 18.) NFM rendelet 5. § (1) bekezdése iktatta be.
-[^16]: A 2. § (6) bekezdés a) pontja az 1/2017. (I. 3.) NFM rendelet 57. §-a szerint módosított szöveg.
+[^12]: A 2. § (5) bekezdés a) pontja az 1/2018. (I. 18.) NFM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^13]: A 2. § (5) bekezdés b) pontja a 42/2011. (VIII. 11.) NFM rendelet 16. § (1) bekezdésével megállapított, a 31/2013. (VI. 18.) NFM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 2. § (5) bekezdés c) pontja az 1/2018. (I. 18.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. § (5) bekezdés d) pontja az 1/2018. (I. 18.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^16]: A 2. § (5) bekezdés i) pontját a 42/2011. (VIII. 11.) NFM rendelet 16. § (2) bekezdése iktatta be, szövege a 47/2012. (VIII. 23.) NFM rendelet 2. § (3) bekezdésével megállapított, az 51/2014. (XII. 11.) NFM rendelet 2. § d) pontja szerint módosított szöveg.
+[^17]: A 2. § (5) bekezdés j) pontját a 47/2012. (VIII. 23.) NFM rendelet 2. § (4) bekezdése iktatta be.
+[^18]: A 2. § (5) bekezdés k) pontját a 31/2013. (VI. 18.) NFM rendelet 5. § (1) bekezdése iktatta be.
+[^19]: A 2. § (5) bekezdés l) pontját az 1/2018. (I. 18.) NFM rendelet 9. § (3) bekezdése iktatta be.
+[^20]: A 2. § (5) bekezdés m) pontját az 1/2018. (I. 18.) NFM rendelet 9. § (3) bekezdése iktatta be.
+[^21]: A 2. § (5) bekezdés n) pontját az 1/2018. (I. 18.) NFM rendelet 9. § (3) bekezdése iktatta be.
+[^22]: A 2. § (5) bekezdés o) pontját az 1/2018. (I. 18.) NFM rendelet 9. § (3) bekezdése iktatta be.
+[^23]: A 2. § (5) bekezdés p) pontját az 1/2018. (I. 18.) NFM rendelet 9. § (3) bekezdése iktatta be.
+[^24]: A 2. § (6) bekezdés a) pontja az 1/2017. (I. 3.) NFM rendelet 57. §-a szerint módosított szöveg.
