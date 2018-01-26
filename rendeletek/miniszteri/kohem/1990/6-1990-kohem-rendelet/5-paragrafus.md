@@ -4,11 +4,11 @@
 
 ## A járművek méreteire vonatkozó üzemeltetési műszaki feltételek
 
-5. § (1)[^37] Motorkerékpár pótkocsijának a szélessége az 1,00 métert, fokozott hőszigetelésű jármű felépítményének a szélessége a 2,60 métert, minden egyéb jármű szélessége a 2,55 métert nem haladhatja meg.
+5. § (1)[^42] Motorkerékpár pótkocsijának a szélessége az 1,00 métert, fokozott hőszigetelésű jármű felépítményének vagy járművek által szállított, fokozott hőszigetelésű konténereknek vagy cserefelépítményeknek a szélessége a 2,60 métert, minden egyéb jármű szélessége a 2,55 métert nem haladhatja meg.
 
 (2) A személygépkocsi pótkocsijának a magassága a 3,00 métert, egyéb jármű magassága a 4,00 métert nem haladhatja meg.
 
-(3)[^38] A járművek megengedett legnagyobb hosszúsága:
+(3)[^43] A járművek megengedett legnagyobb hosszúsága:
 
 a) két tengelyes autóbusznál: 13,50 méter,
 
@@ -20,7 +20,7 @@ A félpótkocsi leghátsó pontjának függőleges síkja és a királycsap teng
 
 Az a) és b) pontban meghatározott megengedett hosszúságot az autóbusz hátsó falára esetenként rögzített tartozékkal együttesen kell érteni.
 
-(4)[^39] A járműszerelvények, a csuklós autóbusz, valamint a csuklós lassújármű megengedett legnagyobb hosszúsága
+(4)[^44] A járműszerelvények, a csuklós autóbusz, valamint a csuklós lassújármű megengedett legnagyobb hosszúsága
 
 | a) nyerges vontatóból és félpótkocsiból álló járműszerelvénynél: | 16,50 méter, |
 
@@ -32,15 +32,15 @@ Az a) és b) pontban meghatározott megengedett hosszúságot az autóbusz háts
 
 | d) tehergépkocsiból és két pótkocsiból álló járműszerelvénynél, továbbá csuklós lassújárműnél: | 24,00 méter. |
 
-(5) [^40] A járműszerelvény hossztengelyével párhuzamosan mért legnagyobb távolság:
+(5) [^45] A járműszerelvény hossztengelyével párhuzamosan mért legnagyobb távolság:
 
 a) a rakfelület legelső, a vezető fülke mögötti külső pontja és a járműszerelvény pótkocsijának leghátsó külső pontja között 16,40 méter
 
 b) az a) pontban meghatározott távolságból levonva a gépjármű hátsó vége és a pótkocsi első vége közötti távolságot: 15,65 méter.
 
-(6) [^41] A gépkocsi hátsó tengelye és az általa vontatott pótkocsi első tengelye közötti távolság nem lehet kisebb 3,00 méternél.
+(6) [^46] A gépkocsi hátsó tengelye és az általa vontatott pótkocsi első tengelye közötti távolság nem lehet kisebb 3,00 méternél.
 
-(7) [^42] A jármű szélességi méreteibe — a megengedett legnagyobb szélesség szempontjából — nem számítanak bele:
+(7) [^47] A jármű szélességi méreteibe — a megengedett legnagyobb szélesség szempontjából — nem számítanak bele:
 
 a) a gumiabroncsok, a talajjal való érintkezési pontjuk közelében, valamint a gumiabroncsok nyomásszabályozó és nyomásjelző berendezéseinek a csatlakozó szerelvényei;
 
@@ -52,15 +52,30 @@ d) az oldalt elhelyezett, 50 milliméternél nem nagyobb kinyúlású irányjelz
 
 e) a rakományon alkalmazott vámzárak, valamint az ezek rögzítésére és védelmére szolgáló berendezések;
 
-f) [^43] a mezőgazdasági vontatóra, lassú járműre és az általuk vontatott mezőgazdasági pótkocsira felszerelt ikerabroncsok, illetve alacsony nyomású mezőgazdasági gumiabroncsok, valamint az azokat takaró sárvédők. Az ilyen járművek esetében a járműre felszerelt gumiabroncsok vagy sárvédők külső szélei közötti távolság a 3,00 métert nem haladhatja meg.
+f) [^48] a mezőgazdasági vontatóra, lassú járműre és az általuk vontatott mezőgazdasági pótkocsira felszerelt ikerabroncsok, illetve alacsony nyomású mezőgazdasági gumiabroncsok, valamint az azokat takaró sárvédők. Az ilyen járművek esetében a járműre felszerelt gumiabroncsok vagy sárvédők külső szélei közötti távolság a 3,00 métert nem haladhatja meg.
 
-(8) [^44] A jármű magassági méretébe a trolibusz áramszedője nem számít bele.
+(8) [^49] A jármű magassági méretébe a trolibusz áramszedője nem számít bele.
 
-[^37]: Az 5. § (1) bekezdése a 21/1998. ( IX.11.) KHVM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
-[^38]: Az 5. § (3) bekezdése a 19/2009. (IV. 16.) KHEM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^39]: Az 5. § (4) bekezdése a 23/2012. (V. 8.) NFM rendelet 2. §-ával megállapított szöveg.
-[^40]: Az 5. § új (5) bekezdését a 44/2001. (XII. 28.) KöViM rendelet 2. §-a iktatta be, egyidejűleg az eredeti (5)–(6) bekezdés számozását (6)–(7) bekezdésre változtatta.
-[^41]: Az 5. § új (6) bekezdését a 19/2009. (IV. 16.) KHEM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (6)–(7) bekezdés számozását (7)–(8) bekezdésre változtatva.
-[^42]: Az 5. § (6) – eredeti (5) – bekezdésének számozását (7) bekezdésre változtatta a 19/2009. (IV. 16.) KHEM rendelet 2. § (2) bekezdése.
-[^43]: Az 5. § (7) bekezdés f) pontját a 26/2010. (XII. 22.) NFM rendelet 2. §-a iktatta be, szövege a 66/2012. (XII. 10.) NFM rendelet 1. §-ával megállapított szöveg.
-[^44]: Az 5. § (7) – eredeti (6) – bekezdésének számozását (8) bekezdésre változtatta a 19/2009. (IV. 16.) KHEM rendelet 2. § (2) bekezdése.
+(9) [^50] A (4) bekezdésben megállapított legnagyobb hosszúságok és a (3) bekezdés c) pontjában a félpótkocsi leghátsó pontjának függőleges síkja és a királycsap tengelye közötti legnagyobb megengedett távolság legfeljebb 15 cm-rel léphető túl azon járművek és jármű-kombinációk esetében, amelyek 14,22 méter (45 láb) hosszúságú konténereket vagy 14,22 méter (45 láb) hosszúságú cserefelépítményeket szállítanak – akár üresen, akár rakománnyal –, amennyiben a konténer vagy cserefelépítmény közúti szállítása intermodális szállítási művelet részeként történik.
+
+(10) [^51] Az energiahatékonyság javítása érdekében az aerodinamikai eszközökkel felszerelt, a (11) és a (12) bekezdésben megállapított követelményeknek és az ER. A. Függelékének megfelelő járművek vagy jármű-kombinációk túlléphetik a (3) bekezdésben, valamint a (4) bekezdés a) és b) pontjában meghatározott legnagyobb hosszúságokat abból a célból, hogy a járművek vagy jármű-kombinációk hátsó részére aerodinamikai eszközöket lehessen felszerelni. Az ilyen eszközökkel felszerelt járműveknek vagy jármű-kombinációknak meg kell felelniük az e rendelet 34. § (1) bekezdésében foglaltaknak, és a megengedett legnagyobb hosszúságok túllépése nem eredményezheti a szóban forgó járművek vagy jármű-kombinációk rakodási hosszának növekedését.
+
+(11) [^52] Ha az aerodinamikai eszközök meghaladják a 0,5 méteres hosszúságot, a forgalomba hozatalukat megelőzően el kell végezni a típusjóváhagyást az ER. A. Függeléke szerinti típusjóváhagyási szabályoknak megfelelően.
+
+(12) [^53] Ha aerodinamikai eszközök veszélyeztethetik más úthasználók vagy a járművezető biztonságát, a járművezető behajtja, behúzza vagy eltávolítja az eszközöket. A településeken belüli és a települések közötti közlekedés során – ahol a megengedett sebesség legfeljebb 50 km/óra – a jármű vezetőnek különös figyelmet kell fordítani a közlekedés többi résztvevőjének biztonságára is. Az aerodinamikai eszközök behúzott vagy behajtott állapotban sem haladhatják meg az engedélyezett legnagyobb hosszúságot 20 cm-nél nagyobb mértékben.
+
+(13) [^54] Az energiahatékonyság – különösen a vezetőfülkék aerodinamikai teljesítményét illető – javítása és a közúti közlekedés biztonságának növelése céljából túl lehet lépni a (3) bekezdés, valamint a (4) bekezdés a) és b) pontjában meghatározott legnagyobb hosszúságokat azon járművek és jármű-kombinációk esetében, amelyek megfelelnek az ER. A. Függelékének, amennyiben vezetőfülkéjük jobb aerodinamikai, energiahatékonysági és biztonsági teljesítményt biztosít. Az ilyen vezetőfülkével felszerelt járműveknek vagy jármű-kombinációknak meg kell felelniük a 34. § (1) bekezdésében foglaltaknak.
+
+[^42]: Az 5. § (1) bekezdése az 1/2018. (I. 18.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^43]: Az 5. § (3) bekezdése a 19/2009. (IV. 16.) KHEM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^44]: Az 5. § (4) bekezdése a 23/2012. (V. 8.) NFM rendelet 2. §-ával megállapított szöveg.
+[^45]: Az 5. § új (5) bekezdését a 44/2001. (XII. 28.) KöViM rendelet 2. §-a iktatta be, egyidejűleg az eredeti (5)–(6) bekezdés számozását (6)–(7) bekezdésre változtatta.
+[^46]: Az 5. § új (6) bekezdését a 19/2009. (IV. 16.) KHEM rendelet 2. § (2) bekezdése iktatta be, egyidejűleg az eredeti (6)–(7) bekezdés számozását (7)–(8) bekezdésre változtatva.
+[^47]: Az 5. § (6) – eredeti (5) – bekezdésének számozását (7) bekezdésre változtatta a 19/2009. (IV. 16.) KHEM rendelet 2. § (2) bekezdése.
+[^48]: Az 5. § (7) bekezdés f) pontját a 26/2010. (XII. 22.) NFM rendelet 2. §-a iktatta be, szövege a 66/2012. (XII. 10.) NFM rendelet 1. §-ával megállapított szöveg.
+[^49]: Az 5. § (7) – eredeti (6) – bekezdésének számozását (8) bekezdésre változtatta a 19/2009. (IV. 16.) KHEM rendelet 2. § (2) bekezdése.
+[^50]: Az 5. § (9) bekezdését az 1/2018. (I. 18.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^51]: Az 5. § (10) bekezdését az 1/2018. (I. 18.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^52]: Az 5. § (11) bekezdését az 1/2018. (I. 18.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^53]: Az 5. § (12) bekezdését az 1/2018. (I. 18.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^54]: Az 5. § (13) bekezdését az 1/2018. (I. 18.) NFM rendelet 5. § (2) bekezdése iktatta be.

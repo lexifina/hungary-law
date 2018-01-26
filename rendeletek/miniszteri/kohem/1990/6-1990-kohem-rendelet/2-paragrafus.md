@@ -92,6 +92,36 @@ c) a mintázat magassága (bordázat mélysége) meghaladja a 4 mm-t.
 
 (20)[^28] A rendelet alkalmazásában a fejlesztési célú autonóm járművekkel kapcsolatos fogalmakra az ER. 2. §-ában meghatározott fogalmakat kell alkalmazni.
 
+(21)[^29] E rendelet alkalmazásában alternatív üzemanyagok: a közlekedés energiaellátásában a fosszilis üzemanyagokat legalább részben helyettesítő üzemanyagok vagy energiaforrások, amelyek potenciálisan hozzájárulnak a közlekedési ágazat dekarbonizációjához, és javítják annak környezeti teljesítményét, beleértve:
+
+a) az elektromos járművek által használt villamos energiát;
+
+b) hidrogént;
+
+c) földgázt, beleértve a biometánt, gáznemű (sűrített földgáz – CNG) és cseppfolyós (cseppfolyós földgáz – LNG) formában;
+
+d) cseppfolyós propán-bután gázt (LPG);
+
+e) a fedélzeten tárolt vagy fedélzeti forrásból származó mechanikus energiát, ideértve a hulladékhőt is.
+
+(22)[^30] E rendelet alkalmazásában alternatív üzemanyaggal hajtott jármű: teljes egészében vagy részben alternatív üzemanyaggal meghajtott olyan gépjármű, amely az ER. A. Függeléke szerinti jóváhagyással rendelkezik.
+
+(23)[^31] E rendelet értelmében intermodális szállítási műveletek:
+
+a) a nemzetközi kombinált árufuvarozást elősegítő kedvezményekről szóló 266/2003. (XII. 24.) Korm. rendelet 1. § (2) bekezdésében meghatározott, egy vagy több, legfeljebb 14,22 méter (45 láb) teljes hosszúságú konténer vagy cserefelépítmény szállítása céljából végzett szállítási műveletek vagy
+
+b) a vízi szállítást is magukban foglaló, egy vagy több, legfeljebb 14,22 méter (45 láb) teljes hosszúságú konténer vagy cserefelépítmény szállítása céljából végzett szállítási műveletek, feltéve, hogy a kezdeti vagy a végső közúti szakasz hossza legfeljebb 150 km az Európai Unió területén, ami akkor léphető túl, ha az a tervezett szolgáltatás szempontjából a legközelebb eső megfelelő közlekedési terminál eléréséhez szükséges, az alábbi járművek esetében:
+
+ba) a 6. § (3) bekezdés c) pontjában foglalt rendelkezéseknek megfelelő jármű, vagy
+
+bb) a 6. § (3) bekezdés c) pont ca) vagy cb) alpontjának megfelelő járművek,
+
+ha a távolságot az érintett tagállam engedélyezi.
+
+(24)[^32] Az intermodális szállítási műveletek tekintetében a tervezett szolgáltatás szempontjából a legközelebb eső megfelelő közlekedési terminál bármelyik – a rakomány be- vagy kirakásának helye szerinti – szomszédos tagállamban is lehet.
+
+(25)[^33] E rendelet értelmében megbízó: az a természetes vagy jogi személy, aki a fuvarlevélen vagy egy azzal egyenértékű dokumentumon megbízóként kerül megnevezésre, illetve akinek a nevében vagy megbízásából a fuvartársasággal a fuvarszerződést megkötötték.
+
 [^4]: A 2. § (1) bekezdése a 12/2000. (V. 24.) KHVM rendelet 1.§-ának (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (3) bekezdése a 40/2015. (VI. 30.) NFM rendelet 1. §-ával megállapított szöveg.
 [^6]: A 2. § (4) bekezdését a 13/1993. (V. 12.) KHVM rendelet 1. §-a iktatta be, szövegét újonnan a 35/2004. (III. 30.) GKM rendelet 1. § (1) bekezdése iktatta be.
@@ -117,3 +147,8 @@ c) a mintázat magassága (bordázat mélysége) meghaladja a 4 mm-t.
 [^26]: A 2. § (18) bekezdését a 26/2010. (XII. 22.) NFM rendelet 1. §-a iktatta be.
 [^27]: A 2. § (19) bekezdését a 4/2017. (III. 2.) NFM rendelet 2. §-a iktatta be.
 [^28]: A 2. § (20) bekezdését a 11/2017. (IV. 12.) NFM rendelet 5. §-a iktatta be.
+[^29]: A 2. § (21) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
+[^30]: A 2. § (22) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
+[^31]: A 2. § (23) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
+[^32]: A 2. § (24) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
+[^33]: A 2. § (25) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
