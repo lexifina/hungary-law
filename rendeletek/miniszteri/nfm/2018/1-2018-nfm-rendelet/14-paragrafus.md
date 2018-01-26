@@ -1,0 +1,1 @@
+## 13. § Ez a rendelet a menetíró készülékek plombájának eltávolítására vagy feltörésére vonatkozó írásbeli nyilatkozat szabványosított formájának meghatározásáról szóló, 2017. március 23-i (EU) 2017/548 végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
