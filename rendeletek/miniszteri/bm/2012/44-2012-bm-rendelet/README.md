@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-44-20-0
 | 2016-07-17 | 2012-44-20-0A.11 | 29/2016. (VII. 15.) BM rendelet |
 | 2016-09-01 | 2012-44-20-0A.12 | 29/2016. (VII. 15.) BM rendelet |
 | 2017-01-01 | 2012-44-20-0A.13 | 58/2016. (XII. 22.) BM rendelet |
+| 2018-01-26 | 2012-44-20-0A.14 | 1/2018. (I. 18.) BM rendelet |

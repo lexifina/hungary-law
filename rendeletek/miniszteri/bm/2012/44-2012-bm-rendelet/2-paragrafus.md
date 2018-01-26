@@ -1,29 +1,54 @@
 ## 1. §[^1] A rendelet hatálya kiterjed a belügyminiszter vezetése, irányítása vagy felügyelete alá tartozó szervekkel (a továbbiakban: belügyi szerv) hivatásos szolgálati, közalkalmazotti, valamint igazságügyi alkalmazotti jogviszonyban (a továbbiakban együtt: szolgálati jogviszony) álló személyekre (a továbbiakban együtt: dolgozó).
 
-## 2. § E rendelet alkalmazásában
+## 2. §[^2] E rendelet alkalmazásában
 
-1. átvállalás:
+1. akadálymentesítés: a személyi jövedelemadóról szóló törvényben (a továbbiakban: Szja. törvény) ekként meghatározott fogalom;
 
-a) a fennálló tartozás teljesítése a munkáltatói kölcsönben részesült dolgozó szolgálati jogviszonyának megszűnése esetén a dolgozó házastársa, a házassági vagyonközösség megszűnése esetén a lakásban maradó volt házastárs által, amennyiben az megfelel e rendelet 4. és 5. §-ában foglalt feltételeknek, valamint
+2. átvállalás:
 
-b) a munkáltatói kölcsönben részesült dolgozó szolgálati jogviszonyának megszűnése esetén a fennálló tartozásnak az új munkáltató általi teljesítése,
+a) a fennálló tartozás teljesítése a munkáltatói kölcsönben részesült dolgozó szolgálati jogviszonyának megszűnése esetén a dolgozó házastársa, a házassági vagyonközösség megszűnése esetén a lakásban maradó volt házastárs által, amennyiben az megfelel a 4. és 5. §-ban foglalt feltételeknek,
 
-c)[^2] korábbi, nem belügyi munkáltató által lakáscélra nyújtott munkáltatói kölcsönnek az új, e rendelet hatálya alá tartozó munkáltató általi teljesítése.
+b) a munkáltatói kölcsönben részesült dolgozó szolgálati jogviszonyának megszűnése esetén a fennálló tartozásnak az új munkáltató általi teljesítése, valamint
 
-2. családtag: a házastárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbe fogadó, a mostoha- és nevelőszülő, a testvér, az élettárs, az egyeneságbeli rokon házastársa, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa,
+c) korábbi, nem belügyi munkáltató által lakáscélra nyújtott munkáltatói kölcsönnek az új, e rendelet hatálya alá tartozó munkáltató általi teljesítése;
 
-3. lakásbővítés: a lakás alapterületének olyan növelése, amely legalább eggyel több lakószoba kialakítását eredményezi,
+3. együtt költöző, együtt lakó családtag: az Szja. törvényben ekként meghatározott fogalom;
 
-4.[^3] lakáskorszerűsítés: a lakás komfortfokozatának növelése céljából víz-, csatorna-, elektromos-, gázközmű bevezetése, továbbá belső hálózatának kiépítése, fürdőszoba létesítése olyan lakásban, ahol még ilyen helyiség nincs, központosított fűtés kialakítása vagy cseréje, beleértve a megújítható energiaforrások alkalmazását is, az épület szigetelése, beleértve a hő-, hang-, vízszigetelési munkálatokat, a külső nyílászárók energiatakarékos cseréje, tető cseréje, felújítása, szigetelése, lakásüzemeltetés céljára szolgáló alternatív energia (nap-, szél-, víz-, geotermikus-, bioenergia) hasznosítási rendszer kiépítése,
+4. korszerűsítés: az Szja. törvényben ekként meghatározott fogalom;
 
-5. lakásépítés: a dolgozó tulajdonába kerülő lakás építése, ideértve az önálló lakást eredményező emeletráépítést, tetőtér-beépítést, lakás műszaki megosztását, valamint a nem lakás céljára szolgáló helyiségek lakássá történő átalakítását,
+5. lakás: az Szja. törvényben ekként meghatározott fogalom;
 
-6. önerő: készpénz, meglévő anyag és elvégzett munka értéke, továbbá a dolgozó, házastársa, élettársa és együttköltöző családtagjai által korábban – 5 éven belül – értékesített lakásának eladási ára, csökkentve az azt terhelő és visszafizetett önkormányzati és munkáltatói támogatás, a kiegyenlített lakáscélú pénzintézeti hitel, valamint a pénzintézeti hitel kiváltására felvett hitel kiegyenlített összegével,
+6. lakásbővítés: a lakás alapterületének olyan növelése, amely legalább eggyel több lakószoba kialakítását eredményezi;
 
-7. tiszta építési költség: a lakás építési költségének – a készpénzben megjelenő lakásépítési kedvezménnyel, a vissza nem térítendő önkormányzati támogatással, a dolgozó és a vele együttköltöző családtag által bérelt lakás bérletének megszüntetéséért kapott pénzbeli térítéssel, valamint az e személyek tulajdonát képező lakás vagy ingatlan elidegenítéséből származó bevétellel csökkentett – összege,
+7. lakásépítés: a dolgozó tulajdonába kerülő lakás építése, ideértve az önálló lakást eredményező emeletráépítést, tetőtér-beépítést, lakás műszaki megosztását, valamint a nem lakás céljára szolgáló helyiségek lakássá történő átalakítását;
 
-8. tiszta vételár: a lakás vételárának, tulajdonjogot keletkeztető lakáscsere esetén a lakások értékkülönbözetének – a készpénzben megjelenő lakásépítési kedvezménnyel, a vissza nem térítendő önkormányzati támogatással, a dolgozó és a vele együttköltöző családtag által bérelt lakás bérletének megszüntetéséért kapott pénzbeli térítéssel, valamint az e személyek tulajdonát képező lakás vagy ingatlan elidegenítéséből származó bevétellel csökkentett – összege.
+8. önerő:
+
+a) a készpénz vagy a készpénz-helyettesítő fizetési eszköz,
+
+b) a lakástakarék-pénztári megtakarítás,
+
+c) a meglévő anyag, az elvégzett munka értéke,
+
+d) a vissza nem térítendő önkormányzati támogatás,
+
+e) a dolgozó és a vele együtt költöző, együtt lakó családtag által bérelt lakás bérletének megszüntetéséért kapott pénzbeli térítés, valamint
+
+f) lakás vásárlása vagy lakásépítés esetén a dolgozó, a házastársa, az élettársa és a vele együtt költöző, együtt lakó családtag által 5 éven belül értékesített lakásának eladási ára, csökkentve
+
+fa) a munkáltatói kölcsön iránti kérelem benyújtását megelőző öt éven belül visszafizetett vagy benyújtásakor fennálló, az eladott lakás tehermentesítésével kapcsolatos költségek, a lakást terhelő pénzintézeti hitel és
+
+fb) az eladott lakás értékesítésével kapcsolatosan megfizetett, igazolt költségek
+
+összegével;
+
+g) lakásbővítés, korszerűsítés vagy akadálymentesítés esetén a dolgozó, a házastársa, az élettársa és a vele együtt költöző, együtt lakó családtagja által 5 éven belül értékesített lakásának eladási ára, csökkentve
+
+ga) a munkáltatói kölcsön iránti kérelem benyújtását megelőző öt éven belül visszafizetett vagy benyújtásakor fennálló, az eladott lakás tehermentesítésével kapcsolatos költségek, a lakást terhelő pénzintézeti hitel összegével,
+
+gb) az eladott lakás értékesítésével kapcsolatosan megfizetett, igazolt költségek összegével és
+
+gc) a bővíteni, korszerűsíteni vagy akadálymentesíteni kívánt lakás megvétele, építése, cseréje esetén az erre fordított összeggel.
 
 [^1]: Az 1. § a 16/2014. (II. 28.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § 1. pont c) alpontját a 15/2016. (V. 11.) BM rendelet 5. § (1) bekezdése iktatta be. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
-[^3]: A 2. § 4. pontja a 15/2016. (V. 11.) BM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^2]: A 2. § az 1/2018. (I. 18.) BM rendelet 2. §-ával megállapított szöveg.

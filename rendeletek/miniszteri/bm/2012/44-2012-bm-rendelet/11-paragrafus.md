@@ -1,7 +1,11 @@
 ## 11. § A dolgozó a munkáltatói kölcsön teljes összegének felhasználását, valamint a hitelcél megvalósulását az alábbi okiratok, bizonylatok másolatának benyújtásával köteles igazolni:
 
-a) ingatlan tulajdonjogának megszerzése esetén az érvényes adásvételi szerződés alapján a teljes vételár megfizetéséről szóló okirat,
+a)[^42] lakás tulajdonjogának megszerzése esetén az érvényes adásvételi szerződés alapján a teljes vételár megfizetéséről szóló okirat,
 
-b) lakás építése vagy bővítése esetén a jogerős építési engedélyben meghatározott határidőn belüli jogerős használatba vételi engedély, valamint a munkáltatói kölcsön felhasználását igazoló, a használatba vételi engedély kelte napjáig vagy a használatba vételi engedélyben megjelölt feltételek teljesítése határidejéig kibocsátott, az építési engedély jogosultja nevére kiállított számlák,
+b)[^43] a munkáltatói kölcsön felhasználását igazoló, az építőipari kivitelezési tevékenység időtartama alatt a dolgozó nevére kiállított, kivitelezéshez kapcsolódó számlák, valamint a bejelentési vagy engedélyezési kötelezettséggel bíró lakásépítés, lakásbővítés esetén a felelős műszaki vezető – lakás alkalmasságára vonatkozó – nyilatkozata,
 
-c) lakáskorszerűsítés esetén a munkáltatói kölcsön folyósítását megelőző 6 hónapon belül és azt követő 12 hónapon belül a dolgozó nevére kiállított számla, valamint az elvégzett munka ellenértékéről kiállított bizonylat; benyújtásuk kötelező a folyósítást követő 12 hónapon belül.
+c)[^44] korszerűsítés és akadálymentesítés esetén a munkáltatói kölcsön folyósítását megelőző 6 hónapon belül és azt követő 12 hónapon belül a dolgozó nevére kiállított számla, valamint az elvégzett munka ellenértékéről kiállított bizonylat; benyújtásuk kötelező a folyósítást követő 12 hónapon belül.
+
+[^42]: A 11. § a) pontja az 1/2018. (I. 18.) BM rendelet 12. § o) pontja szerint módosított szöveg.
+[^43]: A 11. § b) pontja az 1/2018. (I. 18.) BM rendelet 6. §-ával megálapított szöveg.
+[^44]: A 11. § c) pontja az 1/2018. (I. 18.) BM rendelet 12. § n) pontja szerint módosított szöveg.
