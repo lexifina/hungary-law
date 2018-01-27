@@ -2,9 +2,9 @@
 
 1. a támogatott személy vagy 2014. július 31-ét követően a házastársa, élettársa a honvédelmi szervtől munkáltatói kölcsönben, vissza nem térítendő juttatásban vagy egyszeri pénzbeli támogatásban részesült;
 
-2. a támogatott személy vagy a támogatott személy házastársa, élettársa, saját háztartásban eltartott gyermeke a támogatott személy szolgálati helye szerinti településen vagy annak vonzáskörzetében önállóan vagy együttesen legalább a méltányolható lakásigény alsó határának megfelelő, beköltözhető magántulajdonú lakás tulajdonjogát, haszonélvezeti vagy állandó használati jogát szerezte meg;
+2.[^20] a támogatott személy vagy a támogatott személy házastársa, élettársa, saját háztartásban eltartott gyermeke a támogatott személy szolgálati helye szerinti településen vagy annak vonzáskörzetében önállóan vagy együttesen legalább a méltányolható lakásigény alsó határának megfelelő, beköltözhető magántulajdonú lakás tulajdonjogát vagy haszonélvezeti jogát szerezte meg;
 
-3. a támogatott személy vagy annak házastársa, élettársa HM rendelkezésű lakás bérleti jogát szerezte meg;
+3.[^21] a támogatott személy vagy annak házastársa, élettársa a lakáspénzzel érintett mellett másik HM rendelkezésű lakás bérleti jogát szerezte meg;
 
 4. a támogatott személy vagy annak házastársa, élettársa a támogatott személy szolgálati helye szerinti településen vagy annak vonzáskörzetében lévő, a HM rendelkezési körébe nem tartozó állami vagy önkormányzati tulajdonú lakás bérleti jogát szerezte meg;
 
@@ -28,9 +28,9 @@
 
 14. a támogatott személy hivatásos vagy szerződéses katonai szolgálati viszonya megszűnt;
 
-15.[^13] a támogatott személy a lakáspénzt nem a lakhatásának megoldására fordította, vagy azzal más módon visszaélt, így különösen akkor, ha azért közölt valótlan adatot, vagy valós adatot, körülményt azért hallgatott el, hogy azzal jogtalan vagyoni előnyre tegyen szert, vagy
+15.[^22] a támogatott személy a lakáspénzt nem a lakhatásának megoldására fordította, vagy azzal más módon visszaélt, így különösen akkor, ha azért közölt valótlan adatot, vagy valós adatot, körülményt azért hallgatott el, hogy azzal jogtalan vagyoni előnyre tegyen szert, vagy
 
-16.[^14] a támogatott személy a lakáspénz folyósításának megkezdésétől számított 30 napon belül nem igazolja, hogy a támogatott lakástól eltérően bejelentett lakó- vagy tartózkodási helyről történő napi munkába járáshoz a honvédelmi szervtől utazási költségtérítésben nem részesül.
+16.[^23] a támogatott személy a lakáspénz folyósításának megkezdésétől számított 30 napon belül nem igazolja, hogy a támogatott lakástól eltérően bejelentett lakó- vagy tartózkodási helyről történő napi munkába járáshoz a honvédelmi szervtől utazási költségtérítésben nem részesül.
 
 (2) Nem kell alkalmazni:
 
@@ -40,7 +40,7 @@ b) az (1) bekezdés 5. és 6. pontját, ha az állami vagy önkormányzati laká
 
 c) az (1) bekezdés 10. pontját, ha a lízinghez támogatásban részesülő személy igazolja, hogy lakástakarékpénztári megtakarítása időközben a nyolcéves futamidőt elérte.
 
-(3)[^15] A 3/B. §-ban foglalt kivétellel az olyan szolgálati hely szerinti településre történt áthelyezés esetén, amelynek a vonzáskörzetébe a lakáspénzzel érintett lakóingatlan fekvése szerinti település nem tartozik bele, a lakáspénz folyósítását
+(3)[^24] A 3/B. §-ban foglalt kivétellel az olyan szolgálati hely szerinti településre történt áthelyezés esetén, amelynek a vonzáskörzetébe a lakáspénzzel érintett lakóingatlan fekvése szerinti település nem tartozik bele, a lakáspénz folyósítását
 
 a) az állomány egyedülálló tagja esetében az áthelyezést követő 3. hónap utolsó napjával,
 
@@ -60,6 +60,8 @@ c) a haláleset bekövetkezésétől számított 6. hónap utolsó napjáig tov�
 
 (6) Az (5) bekezdés szerinti továbbfolyósítás feltétele a lakóingatlanban együtt élő özvegy, túlélő élettárs vagy gyermek bérleti vagy lízingdíj fizetési kötelezettségének hitelt érdemlő igazolása. Továbbfolyósítás esetén a lakáspénzt a személyi jövedelemadó és társadalombiztosítási járulék várható összegével növelt összegben kell megállapítani. Az emelt összegű lakáspénz megállapítása során a folyósításért felelős pénzügyi szerv együttműködik az illetékes helyi lakásgazdálkodási szervvel. A folyósítás során a kifizető számára előírt levonásokat érvényesíteni kell.
 
-[^13]: A 6. § (1) bekezdés 15. pontja a 15/2015. (XII. 21.) HM rendelet 36. § a) pontja szerint módosított szöveg.
-[^14]: A 6. § (1) bekezdés 16. pontját a 15/2015. (XII. 21.) HM rendelet 33. §-a iktatta be.
-[^15]: A 6. § (3) bekezdés nyitó szövegrésze a 15/2015. (XII. 21.) HM rendelet 36. § b) pontja szerint módosított szöveg.
+[^20]: A 6. § (1) bekezdés 2. pontja az 1/2018. (I. 26.) HM rendelet 38. § (3) bekezdése szerint módosított szöveg.
+[^21]: A 6. § (1) bekezdés 3. pontja az 1/2018. (I. 26.) HM rendelet 36. §-ával megállapított szöveg.
+[^22]: A 6. § (1) bekezdés 15. pontja a 15/2015. (XII. 21.) HM rendelet 36. § a) pontja szerint módosított szöveg.
+[^23]: A 6. § (1) bekezdés 16. pontját a 15/2015. (XII. 21.) HM rendelet 33. §-a iktatta be.
+[^24]: A 6. § (3) bekezdés nyitó szövegrésze a 15/2015. (XII. 21.) HM rendelet 36. § b) pontja szerint módosított szöveg.

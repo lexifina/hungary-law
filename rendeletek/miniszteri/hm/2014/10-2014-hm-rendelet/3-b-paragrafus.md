@@ -1,4 +1,4 @@
-3/B. §[^8] (1) Az 1. § 4. pontjában megállapított feltételek hiányában az új szolgálati helyen történő szolgálat alatt is továbbfolyósítható kérelemre a lakáslízinghez korábban ugyanarra a lakásra megállapított lakáspénz, ha
+3/B. §[^13] (1) Az 1. § 4. pontjában megállapított feltételek hiányában az új szolgálati helyen történő szolgálat alatt is továbbfolyósítható kérelemre a lakáslízinghez korábban ugyanarra a lakásra megállapított lakáspénz, ha
 
 a) a hivatásos és szerződéses katona eltérő vonzáskörzetben lévő szolgálati helyre történt kinevezésére, áthelyezésére, más szervhez egy évet meghaladó határozott vagy határozatlan időtartamra vezénylésére szolgálati érdekből, nem a saját kérelmére került sor,
 
@@ -14,4 +14,4 @@ a) az (1) bekezdés b) pontja szerinti engedélyét visszavonta, vagy
 
 b) az (1) bekezdés c) pontja szerinti valamely feltétel már nem áll fenn.
 
-[^8]: A 3/B. §-t a 15/2015. (XII. 21.) HM rendelet 32. §-a iktatta be.
+[^13]: A 3/B. §-t a 15/2015. (XII. 21.) HM rendelet 32. §-a iktatta be.

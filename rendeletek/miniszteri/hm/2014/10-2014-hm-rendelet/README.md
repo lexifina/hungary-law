@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-10-20-1
 | 2017-12-31 | 2014-10-20-15.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-01-01 | 2014-10-20-15.7 | 9/2017. (VIII. 31.) HM rendelet |
 | 2018-01-02 | 2014-10-20-15.8 | 2010: CXXX. törvény |
+| 2018-01-27 | 2014-10-20-15.9 | 1/2018. (I. 26.) HM rendelet |
