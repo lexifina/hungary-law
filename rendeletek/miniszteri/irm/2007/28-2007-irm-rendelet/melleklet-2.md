@@ -1,4 +1,4 @@
-2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^20]
+2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^21]
 
 ## Az egyes eljárások díja
 
@@ -88,6 +88,8 @@ III. Bevándorolt, illetve letelepedett státuszt igazoló okmányokkal összef�
 
 | 20. Tartózkodásra jogosító okmány pótlására és a tartózkodási engedély átvételére jogosító vízum kiállítására irányuló eljárás díja külképviseleti kérelmezés esetén | 60 EUR |
 
+| 21. Nemzeti letelepedési engedély meghosszabbítására irányuló eljárás díja külképviseleten történő előterjesztés esetén | 30 EUR |
+
 IV. Úti okmányok kiállításával kapcsolatos igazgatási szolgáltatási díjak
 
 | 1. Hontalan útlevél kiadására irányuló eljárás díja | 5 000 Ft |
@@ -140,4 +142,4 @@ VI. Egyéb igazgatási szolgáltatási díjak
 
 | 2. Fellebbezési kérelem díja | 5 500 Ft |
 
-[^20]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a, a 23/2016. (VI. 29.) BM rendelet 14. § (1)–(2) bekezdése szerint módosított szöveg.
+[^21]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a, a 23/2016. (VI. 29.) BM rendelet 14. § (1)–(2) bekezdése, a 38/2017. (XII. 27.) BM rendelet 13. §-a szerint módosított szöveg.

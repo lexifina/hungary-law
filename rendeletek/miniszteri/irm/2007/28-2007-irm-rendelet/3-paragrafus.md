@@ -14,7 +14,7 @@ d) a kishatárforgalmi engedély iránti kérelem és a kishatárforgalmi enged�
 
 e) a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumokmány pótlására irányuló eljárás díját,
 
-f) a nemzeti letelepedési engedély kiadására irányuló eljárás díját,
+f)[^7] a nemzeti letelepedési engedély kiadására és külön jogszabályban meghatározott esetben a nemzeti letelepedési engedély meghosszabbítására irányuló eljárás díját,
 
 ## ha a kérelmet a konzuli tisztviselőnél terjesztik elő.
 
@@ -23,3 +23,4 @@ f) a nemzeti letelepedési engedély kiadására irányuló eljárás díját,
 [^4]: A 3. § (1) bekezdését a 38/2017. (XII. 27.) BM rendelet 14. §-a hatályon kívül helyezte.
 [^5]: A 3. § (2) bekezdése a 38/2017. (XII. 27.) BM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (3) bekezdése a 23/2016. (VI. 29.) BM rendelet 12. §-ával megállapított szöveg.
+[^7]: A 3. § (3) bekezdés f) pontja a 38/2017. (XII. 27.) BM rendelet 9. § (2) bekezdésével megállapított szöveg.
