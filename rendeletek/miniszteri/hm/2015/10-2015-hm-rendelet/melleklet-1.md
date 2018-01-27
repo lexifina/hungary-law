@@ -1,4 +1,4 @@
-## 83. §[^55]
+## 83. §[^56]
 
 1. melléklet a 10/2015. (VII. 30.) HM rendelethez
 
@@ -2538,6 +2538,4 @@ e) A katonai kötelmekkel való összefüggés nem vélelmezhető.
 
 | 2. | súlyos | E | E | KLGS | KLGS |
 
-a) Cystitis chronica, abscessus urethralis, urethritis, prostatitis chronica, epididymitis, orchitis.
-
-[^55]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

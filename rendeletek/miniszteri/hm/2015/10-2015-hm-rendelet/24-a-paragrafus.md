@@ -12,6 +12,7 @@
 
 (3) A (2) bekezdés szerinti dokumentum alapján a katonai szolgálatra jelentkező és a szolgálati viszonyt létesített honvéd egészségi, pszichikai alkalmasságát az alkalmasság minősítésének 26. § szerinti megállapításáig, de legfeljebb a szolgálati viszony létesítését követő 14. napig vélelmezni kell azzal, hogy az alapkiképzés gyakorlati szakasza csak az érvényes alkalmassági minősítéssel rendelkező honvéddel kezdhető meg.
 
-(4) Az (1)–(3) bekezdés a KNBSZ állományába jelentkező, valamint a Honvédség személyi állományába tartozó és katonai szolgálatra jelentkező személy esetében nem alkalmazható.
+(4)[^26] Az (1)–(3) bekezdés nem alkalmazható a KNBSZ állományába jelentkező, valamint a Honvédség személyi állományába tartozó és katonai szolgálatra jelentkező személy esetében, továbbá a Honvédség személyi állományába nem tartozó és katonai szolgálatra jelentkező személy esetében sem, ha a jelentkezéskor az egészségi, pszichikai alkalmasságának vizsgálatát és az alkalmasságának minősítését a szolgálati viszony létesítése előtti időpontra kéri.
 
 [^25]: A 24/A. §-t a 6/2017. (VI. 8.) HM rendelet 5. §-a iktatta be.
+[^26]: A 24/A. § (4) bekezdése az 1/2018. (I. 16.) HM rendelet 43. §-ával megállapított szöveg.
