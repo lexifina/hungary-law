@@ -1,5 +1,5 @@
-## 97. §[^111] E rendeletnek a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet és a honvédek illetményéről és illetményjellegű juttatásairól szóló 7/2015. (VI. 22.) HM rendelet módosításáról szóló 17/2017. (XII. 18.) HM rendelettel megállapított 48. § (1a) bekezdését, 48/B. § (1)–(1b) és (3) bekezdését, 48/D. § (3)–(4) bekezdését 2017. november 1-jétől kell alkalmazni.
+## 99. §[^121] E rendeletnek a Módr2.-vel megállapított 29/E. alcímét, 98. §-át, valamint a Módr2.-vel módosított 45. §-át, 48/C. § (3) bekezdését és 54. § (1) és (6) bekezdését 2018. január 1-jétől kell alkalmazni.
 
 1. melléklet a 7/2015. (VI. 22.) HM rendelethez
 
-[^111]: A 97. §-t a 17/2017. (XII. 18.) HM rendelet 5. §-a iktatta be.
+[^121]: A 99. §-t az 1/2018. (I. 26.) HM rendelet 41. §-a iktatta be.
