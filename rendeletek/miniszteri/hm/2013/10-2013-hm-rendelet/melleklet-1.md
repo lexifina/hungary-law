@@ -1,6 +1,6 @@
-## 49. §[^9]
+## 49. §[^24]
 
-1. melléklet a 10/2013. (VIII. 12.) HM rendelethez[^10]
+1. melléklet a 10/2013. (VIII. 12.) HM rendelethez[^25]
 
 ## KÖTELEZVÉNY
 
@@ -50,5 +50,5 @@ Előjegyezve a .......................... tsz. alatt.
 
 __________* A megfelelő rész aláhúzandó.
 
-[^9]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: Az 1. melléklet a 25/2016. (XII. 22.) HM rendelet 51. §-ával megállapított szöveg.
+[^24]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: Az 1. melléklet a 25/2016. (XII. 22.) HM rendelet 51. §-ával megállapított szöveg.

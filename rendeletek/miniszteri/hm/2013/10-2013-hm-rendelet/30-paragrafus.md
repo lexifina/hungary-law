@@ -1,3 +1,7 @@
-30. § (1) Ha az igényérvényesítő nem személyesen jár el, helyette törvényes képviselője vagy az általa vagy törvényes képviselője által meghatalmazott személy is eljárhat.
+30. §[^13] (1) Az igényérvényesítő az eljárásban személyesen, törvényes képviselője vagy gondnoka, illetve ügyvédje útján jár el. Az eljárás során a helyettesítésre a 4. § (1) bekezdését kell alkalmazni.
 
-(2) A képviselő képviseleti jogosultságát köteles igazolni. Írásbeli meghatalmazás esetében a meghatalmazott köteles eredeti meghatalmazását vagy annak hitelesített másolatát a kérelem benyújtásakor az iratokhoz csatolni.
+(2) Ügyvédet az igényérvényesítő, törvényes képviselője vagy gondnoka, az ügyvédi meghatalmazásra vonatkozó általános szabályok szerint hatalmazhat meg.
+
+(3) A törvényes képviselő, a gondnok és az ügyvéd (a továbbiakban együtt: az igényérvényesítő képviselője) képviseleti jogosultságát köteles igazolni.
+
+[^13]: A 30. § az 1/2018. (I. 26.) HM rendelet 30. §-ával megállapított szöveg.
