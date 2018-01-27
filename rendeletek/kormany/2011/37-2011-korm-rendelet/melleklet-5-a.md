@@ -104,7 +104,7 @@
 
 | Eljárási és szervezési innováció támogatása (29. cikk) | ...% | ...% |
 
-| A halászati és akvakultúraágazatban nyújtott kutatásfejlesztési támogatás (30. cikk) | ...% | ...% |
+| A halászati és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás (30. cikk) | ...% | ...% |
 
 | Képzési támogatás | Képzési támogatás (31. cikk) | ...% | ...% |
 
@@ -130,7 +130,7 @@
 
 | Megújuló energiaforrásból származó villamos energia termelésének ösztönzésére irányuló működési támogatás (42. cikk) | ...% | ...% |
 
-| Kisméretű létesítmények megújulóenergia-termelésének ösztönzésére irányuló működési támogatás (43. cikk) | ...% | ...% |
+| Kisméretű létesítmények megújulóenergia- termelésének ösztönzésére irányuló működési támogatás (43. cikk) | ...% | ...% |
 
 | A 2003/96/EK irányelv szerinti környezetvédelmi adókedvezmény formájában nyújtott támogatás (44. cikk) | ...% | ...% |
 
@@ -138,7 +138,7 @@
 
 | Energiahatékony távfűtéshez és távhűtéshez nyújtott beruházási támogatás (46. cikk) | ...% | ...% |
 
-| Hulladék-újrafeldolgozásra és újrahasználatra irányuló beruházási támogatás (47. cikk) | ...% | ...% |
+| Hulladék-újrafeldolgozásra és -újrahasználatra irányuló beruházási támogatás (47. cikk) | ...% | ...% |
 
 | Energetikai infrastruktúrára irányuló beruházási támogatás (48. cikk) | ...% | ...% |
 
@@ -155,6 +155,12 @@
 | Sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás | Sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás (55. cikk) | ...% | ...% |
 
 | Helyi infrastruktúrára irányuló támogatás | Helyi infrastruktúrára irányuló támogatás (56. cikk) | ...% | ...% |
+
+| Regionális repülőterekre irányuló támogatás | Regionális repülőterekre irányuló támogatás (56a. cikk) | ...% | ...% |
+
+| Kikötőkre irányuló támogatás | Tengeri kikötőkre irányuló támogatás (56b. cikk) | ...% | ...% |
+
+| Belvízi kikötőkre irányuló támogatás (56c. cikk) | ...% | ...% |
 
 5/A. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^191]
 
