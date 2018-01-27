@@ -1,8 +1,8 @@
 ## XIV. Fejezet
 
-## LAKÁSÜZEMELTETÉSI HOZZÁJÁRULÁS[^218]
+## LAKÁSÜZEMELTETÉSI HOZZÁJÁRULÁS[^214]
 
-210. §[^219] (1) A lakóhelye szerinti lakás fenntartási költségeinek csökkentése érdekében, kérelmére, lakásüzemeltetési hozzájárulás illeti meg a szolgálati érdekből áthelyezett szerződéses tisztet és altisztet, ha
+210. §[^215] (1) A lakóhelye szerinti lakás fenntartási költségeinek csökkentése érdekében, kérelmére, lakásüzemeltetési hozzájárulás illeti meg a szolgálati érdekből áthelyezett szerződéses tisztet és altisztet, ha
 
 a) szolgálati viszonya 2014. augusztus 1-jét megelőzően keletkezett,
 
@@ -22,5 +22,5 @@ c) egy évet meghaladó időtartamú vezénylése.
 
 (3) A lakásüzemeltetési hozzájárulást havonta, az illetménnyel együtt kell folyósítani a jogosult részére.
 
-[^218]: A XIV. fejezet címe a 10/2014. (VII. 25.) HM rendelet 56. § (1) bekezdésével megállapított szöveg.
-[^219]: A 210. § a 10/2014. (VII. 25.) HM rendelet 56. § (2) bekezdésével megállapított szöveg.
+[^214]: A XIV. fejezet címe a 10/2014. (VII. 25.) HM rendelet 56. § (1) bekezdésével megállapított szöveg.
+[^215]: A 210. § a 10/2014. (VII. 25.) HM rendelet 56. § (2) bekezdésével megállapított szöveg.

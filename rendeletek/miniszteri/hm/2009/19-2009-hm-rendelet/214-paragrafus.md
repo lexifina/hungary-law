@@ -1,4 +1,4 @@
-214. §[^227] (1) Nem adható albérleti díj hozzájárulás, ha az igénylő
+214. §[^223] (1) Nem adható albérleti díj hozzájárulás, ha az igénylő
 
 a) a honvédelmi szervtől korábban vissza nem térítendő juttatásban vagy egyszeri pénzbeli támogatásban részesült vagy a házastársa, élettársa a házasság vagy az élettársi kapcsolat fennállása alatt részesült e támogatásokban;
 
@@ -28,4 +28,4 @@ a) az (1) bekezdés b) pontját, ha a munkáltatói kölcsön és az abból jóv
 
 b) az (1) bekezdés j) pontját, ha a térítés
 
-[^227]: A 214. § a 10/2014. (VII. 25.) HM rendelet 57. §-ával megállapított szöveg.
+[^223]: A 214. § a 10/2014. (VII. 25.) HM rendelet 57. §-ával megállapított szöveg.

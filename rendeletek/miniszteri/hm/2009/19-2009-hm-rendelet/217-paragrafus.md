@@ -1,4 +1,4 @@
-217. §[^232] (1) A folyósítást meg kell szüntetni, ha
+217. §[^228] (1) A folyósítást meg kell szüntetni, ha
 
 a) a lízing kivételével a hozzájárulásban részesülő személy a részére időközben a munkahelye szerinti településen vagy annak vonzáskörzetben felajánlott szállóférőhelyet vagy – ha jogos lakásigényléssel is rendelkezik – a jogos igénye mértékének megfelelő HM rendelkezésű lakást legalább két esetben nem fogadta el;
 
@@ -22,4 +22,4 @@ j) a hozzájárulásban részesülő személy egy évet meghaladó időtartamban
 
 (2) Az albérleti díj hozzájárulásban részesülő személy az (1) bekezdés b)–d) és f)–h) pontjában meghatározott megszüntető ok bekövetkezését haladéktalanul köteles a helyi lakásgazdálkodási szervnek és a munkáltatói jogkört gyakorló munkahelyi vezetőnek bejelenteni. E kötelezettségének elmulasztása esetén a jogosulatlanul felvett albérleti díj hozzájárulást egyösszegben köteles visszafizetni. Erre az igazolás kiállításakor figyelmeztetni kell.
 
-[^232]: A 217. § a 10/2014. (VII. 25.) HM rendelet 57. §-ával megállapított szöveg.
+[^228]: A 217. § a 10/2014. (VII. 25.) HM rendelet 57. §-ával megállapított szöveg.

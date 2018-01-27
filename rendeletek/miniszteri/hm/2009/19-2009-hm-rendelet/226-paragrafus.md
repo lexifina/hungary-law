@@ -8,7 +8,7 @@ b) véleményezi a lakhatás támogatásával és a lakásellátással összefü
 
 c) gondoskodik a lakásgazdálkodási feladatokat ellátó személyek szakmai képzéséről,
 
-d)[^244] ellenőrzi a helyi lakásgazdálkodási szervek, valamint a HM vagyonkezelői feladatokat ellátó szerv lakhatástámogatással és lakásgazdálkodással összefüggő tevékenységét,
+d)[^240] ellenőrzi a helyi lakásgazdálkodási szervek, valamint a HM vagyonkezelői feladatokat ellátó szerv lakhatástámogatással és lakásgazdálkodással összefüggő tevékenységét,
 
 e) szakmailag közreműködik a lakás, személygépkocsi-tároló és szálló férőhely bérletével összefüggő jogviták bíróság előtti képviseletében,
 
@@ -16,11 +16,11 @@ f) elbírálja az irányítása alá tartozó szervek által hozott döntések e
 
 g) a HM Honvéd Vezérkar főnökének írásbeli közlése alapján meghatározza a központi feladat végrehajtásához szükséges lakásszámot, azt zárolja, illetőleg a zárolás alól feloldja,
 
-h)[^245] javaslatot tesz a közigazgatási államtitkárnak a HM rendelkezésű lakásnak kívülálló személy vagy szervezet részére történő bérbeadására,
+h)[^241] javaslatot tesz a közigazgatási államtitkárnak a HM rendelkezésű lakásnak kívülálló személy vagy szervezet részére történő bérbeadására,
 
-i)[^246] dönt a HM főosztályvezető, valamint a vele azonos vagy magasabb besorolású vezetői (parancsnoki) beosztást ellátó személy, továbbá a helyi lakásgazdálkodási szerv vezetőjének és a keretgazda lakásbizottság elnökének, valamint a lakáscélú támogatási szerv vezetőjének munkáltatói kölcsön és vissza nem térítendő juttatási ügyeiben,
+i)[^242] dönt a HM főosztályvezető, valamint a vele azonos vagy magasabb besorolású vezetői (parancsnoki) beosztást ellátó személy, továbbá a helyi lakásgazdálkodási szerv vezetőjének és a keretgazda lakásbizottság elnökének, valamint a lakáscélú támogatási szerv vezetőjének munkáltatói kölcsön és vissza nem térítendő juttatási ügyeiben,
 
-j)[^247] döntésre előkészíti a helyi lakásgazdálkodási szervek és a HM vagyonkezelői feladatokat ellátó szerv lakások bérletére, vásárlására, építésére, valamint a lakáselidegenítési és más lakhatási támogatási célra fordítható bevételek (többletbevételek) felhasználására tett javaslatait,
+j)[^243] döntésre előkészíti a helyi lakásgazdálkodási szervek és a HM vagyonkezelői feladatokat ellátó szerv lakások bérletére, vásárlására, építésére, valamint a lakáselidegenítési és más lakhatási támogatási célra fordítható bevételek (többletbevételek) felhasználására tett javaslatait,
 
 k) véleményezi és kijelölésre előkészíti az állami tulajdonban és a HM rendelkezésében lévő lakóépületek (lakások) elidegenítésére tett javaslatokat,
 
@@ -38,11 +38,12 @@ q) dönt lakóépület, lakás lakásgazdálkodási körbe vonásáról és hasz
 
 r) dönt lakóépület (lakás) garzonházzá (lakássá) vagy honvédségi szállóvá minősítéséről,
 
-s) intézkedik a lakás, személygépkocsi tároló, szálló férőhely bérbeadására a helyi lakásgazdálkodási szerv vezetője (helyőrségparancsnok), a keretgazda lakásbizottság elnöke, továbbá a 232. § d) pont szerinti lakásjuttatás esetében,
+s)[^244] intézkedik a lakás, személygépkocsi tároló, szálló férőhely bérbeadására a helyi lakásgazdálkodási szerv vezetője (helyőrségparancsnok), a keretgazda lakásbizottság elnöke, továbbá a 232. § (1) bekezdés d) pont szerinti lakásjuttatás esetében,
 
 t) dönt a honvédelmi szerv állományába nem tartozó, a 169. § (5) bekezdésben meghatározott személy részére történő szálló férőhely juttatás ügyében.
 
-[^244]: A 226. § d) pontja a 4/2012. (IV. 5.) HM rendelet 16. §-ával megállapított szöveg.
-[^245]: A 226. § h) pontja a 9/2017. (VIII. 31.) HM rendelet 8. § n) pontja szerint módosított szöveg.
-[^246]: A 226. § i) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (8) bekezdés a) pontja szerint módosított szöveg.
-[^247]: A 226. § j) pontja a 10/2014. (VII. 25.) HM rendelet 54. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^240]: A 226. § d) pontja a 4/2012. (IV. 5.) HM rendelet 16. §-ával megállapított szöveg.
+[^241]: A 226. § h) pontja a 9/2017. (VIII. 31.) HM rendelet 8. § n) pontja szerint módosított szöveg.
+[^242]: A 226. § i) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^243]: A 226. § j) pontja a 10/2014. (VII. 25.) HM rendelet 54. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^244]: A 226. § s) pontja az 1/2018. (I. 26.) HM rendelet 5. §-a szerint módosított szöveg.

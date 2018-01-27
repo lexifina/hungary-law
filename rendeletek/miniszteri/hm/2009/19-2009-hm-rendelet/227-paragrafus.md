@@ -16,6 +16,6 @@ b) az (1) bekezdés b) pontja esetében a szolgáltatási szerződésben, valami
 
 kiterjedő illetékességgel látja el.
 
-(3)[^248] A lakóházkezelés szakmai irányító szerve a HM vagyonkezelői feladatokat ellátó szerv.
+(3)[^245] A lakóházkezelés szakmai irányító szerve a HM vagyonkezelői feladatokat ellátó szerv.
 
-[^248]: A 227. § (3) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^245]: A 227. § (3) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.

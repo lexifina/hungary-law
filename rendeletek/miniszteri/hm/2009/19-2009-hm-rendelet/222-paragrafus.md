@@ -1,10 +1,10 @@
-## 222. §[^239] A fővárosi helyi lakásgazdálkodási szerv további sajátos feladatai:
+## 222. §[^235] A fővárosi helyi lakásgazdálkodási szerv további sajátos feladatai:
 
-a)[^240] javaslatot tesz a közigazgatási államtitkárnak a budapesti éves lakáskeret elosztására, tartalék lakáskeret képzésére és a bizottság hatáskörébe utalt budapesti lakásügyek megoldására,
+a)[^236] javaslatot tesz a közigazgatási államtitkárnak a budapesti éves lakáskeret elosztására, tartalék lakáskeret képzésére és a bizottság hatáskörébe utalt budapesti lakásügyek megoldására,
 
 b) felülvizsgálja a keretgazda lakásbizottságok személy szerinti lakáselosztásának jogszerűségét,
 
 c) a rendelet 5. és 6. §-ában meghatározott személyek részére lakóingatlan-közvetítést végezhet illetékességi területén, lakásgondjuk megoldása érdekében.
 
-[^239]: A 222. § nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (4) bekezdés d) pontja szerint módosított szöveg.
-[^240]: A 222. § a) pontja a 9/2017. (VIII. 31.) HM rendelet 8. § m) pontja szerint módosított szöveg.
+[^235]: A 222. § nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^236]: A 222. § a) pontja a 9/2017. (VIII. 31.) HM rendelet 8. § m) pontja szerint módosított szöveg.

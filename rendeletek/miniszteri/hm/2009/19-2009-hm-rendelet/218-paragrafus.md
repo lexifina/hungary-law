@@ -1,4 +1,4 @@
-218. §[^233] (1) A helyi lakásgazdálkodási szerv az albérleti díj hozzájárulásra való jogosultság fennállását szükség szerint, de évente legalább egy alkalommal ellenőrzi.
+218. §[^229] (1) A helyi lakásgazdálkodási szerv az albérleti díj hozzájárulásra való jogosultság fennállását szükség szerint, de évente legalább egy alkalommal ellenőrzi.
 
 (2) Az ellenőrzés során a helyi lakásgazdálkodási szerv a kormánytisztviselői illetményalap változásából eredő különbözettel történő kiegészítés vagy csökkentés érdekében eljár, továbbá a 217. § (1) bekezdésében megjelölt megszüntető okok vonatkozásában a támogatott személyt 30 napos határidővel nyilatkozattételre hívja fel.
 
@@ -14,4 +14,4 @@
 
 (8) A HM rendelkezésű lakás juttatásában részesült személyt az albérleti díj hozzájárulással bérelt lakás (lakrész, szállodai vagy szállodai jellegű szoba) bérleti szerződésében kikötött felmondási időre, de legfeljebb a HM rendelkezésű lakás bérlőjéül történő kijelölést követő hónap végéig illeti meg a hozzájárulás. Ugyanígy kell eljárni akkor is, ha a jogosult házastársa (élettársa) részére juttat a honvédelmi szerv HM rendelkezésű lakást.
 
-[^233]: A 218. § a 10/2014. (VII. 25.) HM rendelet – a 26/2016. (XII. 22.) HM rendelet 27. § (1) bekezdése szerint módosított – 57. §-ával megállapított szöveg.
+[^229]: A 218. § a 10/2014. (VII. 25.) HM rendelet – a 26/2016. (XII. 22.) HM rendelet 27. § (1) bekezdése szerint módosított – 57. §-ával megállapított szöveg.

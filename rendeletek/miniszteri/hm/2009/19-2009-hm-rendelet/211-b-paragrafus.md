@@ -1,4 +1,4 @@
-211/B. §[^222] (1) A helyi lakásgazdálkodási szerv a lakbértámogatásra való jogosultság fennállását szükség szerint, de évente legalább egy alkalommal, február 1. és március 31. között ellenőrzi.
+211/B. §[^218] (1) A helyi lakásgazdálkodási szerv a lakbértámogatásra való jogosultság fennállását szükség szerint, de évente legalább egy alkalommal, február 1. és március 31. között ellenőrzi.
 
 (2) Az ellenőrzés során a helyi lakásgazdálkodási szerv a támogatott személytől 15 napos határidővel bekéri a támogatott személy nyilatkozatát a lakásban a Lakástörvény 21. §-a alapján jog- és életvitelszerűen együttlakó személyekről, továbbá a bérbeadótól származó igazolást a lakásbérlet fennállásáról, valamint arról, hogy lakbér tartozása nem áll fenn.
 
@@ -6,4 +6,4 @@
 
 (4) A (3) bekezdésben foglaltak szerint kell eljárni akkor is, ha a támogatott személy a 211/A. § (1) bekezdésben foglalt kötelezettségét elmulasztotta és a helyi lakásgazdálkodási szerv azt állapítja meg, hogy a támogatott személy a folyósítottnál alacsonyabb összegű támogatásra lenne jogosult.
 
-[^222]: A 211/B. §-t a 15/2015. (XII. 21.) HM rendelet 20. §-a iktatta be.
+[^218]: A 211/B. §-t a 15/2015. (XII. 21.) HM rendelet 20. §-a iktatta be.

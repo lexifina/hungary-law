@@ -1,3 +1,3 @@
-## XII. Fejezet
+## XII. Fejezet[^169]
 
-## VISSZA NEM TÉRÍTENDŐ JUTTATÁS
+[^169]: A XII. fejezetet (179–186. §) az 1/2018. (I. 26.) HM rendelet 6. § a) pontja hatályon kívül helyezte.

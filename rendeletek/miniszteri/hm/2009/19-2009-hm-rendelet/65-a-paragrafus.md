@@ -1,6 +1,6 @@
 65/A. §[^101] (1) Az állami tulajdonú HM vagyonkezelői jogú lakásra kiürítési térítésben csak a bérleti szerződés megszüntetésével egyidejűleg lehet megállapodni.
 
-(2) A bérbeadó részéről nem lehet közös megegyezéssel, kiürítési térítés ellenében megszüntetni az állami tulajdonú, HM vagyonkezelői jogú lakásra fennálló bérleti szerződést, ha a lakás a HM lakásgazdálkodási körben a továbbiakban nem használható fel gazdaságosan. Ilyennek kell tekinteni különösen azt a lakást, amely nem a fővárosban vagy megyei jogú városban van, és a helyi lakásgazdálkodási szerv az adott településen hasonló nagyságú, szobaszámú és komfortfokozatú lakásra vonatkozó igényt nem tart nyilván.
+(2)[^102] Nem lehet kiürítési térítésben megállapodni az olyan HM rendelkezésű lakás esetében, amely a HM lakásgazdálkodási körben a továbbiakban nem használható fel gazdaságosan. Ilyennek kell tekinteni különösen azt a lakást, amely nem helyőrségi vagy az 1/A. melléklet szerinti kiemelt településen található, és a helyi lakásgazdálkodási szerv az adott településen hasonló nagyságú, szobaszámú lakásra vonatkozó igényt nem tart nyilván, továbbá a lakás más célú hasznosítását sem tervezi.
 
 (3) Önkormányzati tulajdonú, HM rendelkezésű lakás esetében kiürítési térítésben a bérlőnek a lakás fekvése szerint illetékes helyi lakásgazdálkodási szervhez a lakásbérlet megszűnését és a lakás bérbeadó részére történő visszaadását megelőzően benyújtott előzetes szándéknyilatkozata alapján lehet megállapodni.
 
@@ -9,3 +9,4 @@
 (5) Önkormányzati tulajdonú, HM rendelkezésű lakás esetében a (3)–(4) bekezdés szerinti feltételek fennállása esetén a lakásbérleti szerződés közös megegyezéssel történő megszüntetése hiányában a kiürítési térítésben a bérlő felmondása esetén is meg lehet állapodni.
 
 [^101]: A 65/A. §-t a 9/2017. (VIII. 31.) Hm rendelet 2. §-a iktatta be.
+[^102]: A 65/A. § (2) bekezdése az 1/2018. (I. 26.) HM rendelet 2. §-ával megállapított szöveg.

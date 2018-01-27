@@ -1,3 +1,5 @@
+## 244/F. §[^288]
+
 ## 245. § A rendelet hatálybalépésével egyidejűleg hatályát veszti
 
 a) a Honvédelmi Minisztérium rendelkezése alatt lévő lakások és helyiségek bérletéről, elidegenítéséről, valamint a lakhatás támogatásáról szóló 6/1994. (IV. 30.) HM rendelet,
@@ -13,3 +15,5 @@ e) a Honvédelmi Minisztérium rendelkezése alatt lévő lakások és helyiség
 f) a Honvédelmi Minisztérium rendelkezése alatt lévő lakások és helyiségek bérletéről, elidegenítéséről, valamint a lakhatás támogatásáról szóló 6/1994. (IV. 30.) HM rendelet módosításáról szóló 27/2006. (XII. 5.) HM rendelet,
 
 g) a Honvédelmi Minisztérium rendelkezése alatt lévő lakások és helyiségek bérletéről, elidegenítéséről, valamint a lakhatás támogatásáról szóló 6/1994. (IV. 30.) HM rendelet módosításáról szóló 2/2008. (I. 30.) HM rendelet.
+
+[^288]: A 244/F. §-t a 9/2017. (VIII. 31.) HM rendelet 7. §-a iktatta be, hatályon kívül helyezte az 1/2018. (I. 26.) HM rendelet 6. § d) pontja.
