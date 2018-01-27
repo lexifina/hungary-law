@@ -1,0 +1,1 @@
+## „(5) A (3) és a (4) bekezdés alapján megállapított, illetve kiszámított lakáspénz összegét az állományilletékes parancsnok további 10%-kal kiegészíti, ha a jogosult vagy annak házastársa, élettársa családi pótlékban részesül.”

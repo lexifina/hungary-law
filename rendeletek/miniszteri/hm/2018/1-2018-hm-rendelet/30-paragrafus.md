@@ -1,0 +1,3 @@
+## 29. § Az R3. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A határozatot a szükséges számú példányban kell elkészíteni, amelyből egy példányt a katonának kell kézbesíteni, egy példányt az ügy irataihoz kell csatolni, egy-egy további példányt a határozat jogerőre emelkedése után előjegyzésre, illetve végrehajtásra az ellátó pénzügyi és számviteli szervezetnek, valamint logisztikai szervezetnek kell átadni. Gondnok vagy ügyvéd eljárása esetén a határozat egy példányát a gondnok, illetve az ügyvéd részére is kézbesíteni kell. Ebben az esetben a határozatot a gondok vagy az ügyvéd részére történő kézbesítéssel kell kézbesítettnek tekinteni.”
