@@ -1,3 +1,1 @@
-## 13. §[^5]
-
-[^5]: A 13. § a 38/2017. (XII. 27.) BM rendelet 15. § (2) bekezdése alapján 2018. január 27-én lép hatályba.
+## 13. § A 28/2007. (V. 31.) IRM rendelet 2. melléklete a 13. melléklet szerint módosul.

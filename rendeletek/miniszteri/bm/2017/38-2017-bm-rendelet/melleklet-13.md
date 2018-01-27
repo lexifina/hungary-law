@@ -1,3 +1,7 @@
-13. melléklet a 38/2017. (XII. 27.) BM rendelethez[^8]
+13. melléklet a 38/2017. (XII. 27.) BM rendelethez
 
-[^8]: A 13. melléklet a 38/2017. (XII. 27.) BM rendelet 15. § (2) bekezdése alapján 2018. január 27-én lép hatályba.
+A 28/2007. (V. 31.) IRM rendelet 2. melléklet III. pontja a következő 21. alponttal egészül ki:
+
+„21. Nemzeti letelepedési engedély meghosszabbítására irányuló eljárás díja külképviseleten történő előterjesztés
+
+esetén 30 EUR”
