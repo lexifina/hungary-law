@@ -6,9 +6,8 @@
 
 a)[^4]
 
-b)[^5]
+b) 5. melléklete helyébe a 3. melléklet
 
 [^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 2. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 2. § (2) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 2. § (2) bekezdés b) pontja a 20. § (2) bekezdése alapján 2018. január 27-én lép hatályba.
