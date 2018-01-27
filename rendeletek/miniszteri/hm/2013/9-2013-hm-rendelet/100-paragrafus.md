@@ -1,11 +1,9 @@
-100. § (1) Az előmenetel központi tervezését a központi személyügyi szerv hajtja végre a szakmai felelősökkel és az állományilletékes parancsnokokkal együttműködve.
+100. § (1) Az állomány előmenetelre tervezhető tagjairól minden évben előmeneteli rangsor készül.
 
-(2)[^156] Az előmenetel helyi tervezését a feltölthető beosztás szerinti honvédségi szervezet személyügyi szerve hajtja végre. Az előmenetel helyi tervezésekor a főtörzsőrmester rendfokozattal rendszeresített szolgálati beosztások esetében figyelembe kell venni az állomány más honvédségi szervezet állományába tartozó törzsőrmester rendfokozatú tagját, ha a 94/B. § (2) bekezdésében foglaltak szerint az adott helyőrséget megjelölte.
+(2) Az előmeneteli rangsort a központi személyügyi szerv állítja össze a tárgyévi – vagy ha ilyen nincs, akkor a tárgyévet megelőző évi – teljesítményértékelés, valamint a sikeres és érvényes minősítő vizsga eredményeként megállapított előmeneteli minősítés alapján.
 
-(3)[^157] Az állomány (2) bekezdésben foglalt törzsőrmester rendfokozatú tagjáról az állományilletékes honvédségi szervezet személyügyi szerve a tárgyév július 1-jéig tájékoztatja a helyi előmenetel tervezést végrehajtó személyügyi szervet.
+(3) A központi személyügyi szerv a szakmai felelősökkel együttműködve az állomány előmenetelre tervezhető tagjairól, a feltölthető üres beosztásonként, a rendfokozati és szakmai követelményeknek megfelelés, valamint az állomány tagja által a teljesítményértékelésben megjelölt helyőrségek alapján szakmai előmeneteli jegyzéket készít, amelyet megküld az üres beosztás szerinti honvédségi szervezet állományilletékes parancsnoka részére.
 
-(4)[^158] Ha az állomány törzsőrmester rendfokozatú tagja által a teljesítményértékelésben megjelölt helyőrségben több honvédségi szervezet is települ, a megjelölt helyőrség szerinti összes honvédségi szervezetet tájékoztatni kell a (3) bekezdésben foglaltak szerint.
+(4) Az állományilletékes parancsnok a megküldött szakmai előmeneteli jegyzékből a honvédségi szervezet üres beosztásai vonatkozásában – szolgálati beosztásonként – legfeljebb három jelöltet választ. Az állományilletékes parancsnok a jelöltválasztását a szakmai előmeneteli jegyzék kézhezvételét követő 10 napon belül elektronikus úton megküldi a központi személyügyi szerv részére.
 
-[^156]: A 100. § (2) bekezdése a 10/2016. (VI. 29.) HM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^157]: A 100. § (3) bekezdését a 10/2016. (VI. 29.) HM rendelet 17. § (2) bekezdése iktatta be.
-[^158]: A 100. § (4) bekezdését a 10/2016. (VI. 29.) HM rendelet 17. § (2) bekezdése iktatta be.
+(5) A központi személyügyi szerv a szakmai felelősökkel együttműködve a beérkezett jelöltválasztások alapján elvégzi az előmenetelre tervezett jelöltek üres szolgálati beosztásokhoz történő hozzárendelését.

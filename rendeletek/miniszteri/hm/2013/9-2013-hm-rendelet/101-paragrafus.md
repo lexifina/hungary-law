@@ -1,15 +1,7 @@
-101. § (1)[^159] Az állomány 92. § (1) bekezdésében foglaltaknak megfelelő tagjairól minden évben előmeneteli rangsor készül.
+101. § (1) A központi személyügyi szerv tájékoztatja az állomány előmenetelre tervezett tagjának állományilletékes parancsnokát, illetve a tervezett beosztás szerinti parancsnokot a tervezett szolgálati beosztásról.
 
-(2) Az előmeneteli rangsort a központi személyügyi szerv állítja össze a tárgyévi – vagy ha ilyen nincs, akkor a tárgyévet megelőző évi – teljesítményértékelés, valamint az azt megelőző két teljesítményértékelés, továbbá – az állomány törzszászlós, alezredes, ezredes és tábornoki rendfokozatú tagja kivételével – a sikeres és érvényes minősítő vizsga eredményeként megállapított előmeneteli minősítés alapján.
+(2) Az állományilletékes parancsnok nemleges javaslat esetén a megtervezett szolgálati beosztás kézhezvételét követő 10 napon belül, támogató javaslat esetén az előmenetel összes feltételének teljesülésekor javaslati lapot küld a központi személyügyi szerv részére.
 
-(3) A (2) bekezdésben meghatározott teljesítményértékelések eredményénél
+(3) Az előmenetelre tervezett személy kérheti különös méltánylást érdemlő egyéni érdeke figyelembevételét. Ha a különös méltánylást érdemlő egyéni érdeke figyelembevételre kerül, az előmenetelre tervezett személy a tárgyévben további előmenetelre nem tervezhető.
 
-a) a tárgyévi vagy utolsó teljesítményértékelést 100%-ban,
-
-b) az a) pontban szereplő teljesítményértékelést közvetlenül megelőző teljesítményértékelést 75%-ban, és
-
-c) a b) pontban szereplő teljesítményértékelést közvetlenül megelőző teljesítményértékelést 50%-ban
-
-kell beszámítani.
-
-[^159]: A 101. § (1) bekezdése a 18/2015. (XII. 22.) HM rendelet 22. § c) pontja szerint módosított szöveg.
+(4) Az előmenetel helyi tervezésekor, ha az előmenetelre tervezett személy más honvédségi szervezet állományába tartozik, az (1) és a (2) bekezdést megfelelően alkalmazni kell.

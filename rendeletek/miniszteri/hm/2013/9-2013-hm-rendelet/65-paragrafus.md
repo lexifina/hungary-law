@@ -4,8 +4,8 @@
 
 (2) A felmentés indokolása utólag nem módosítható, nem egészíthető ki.
 
-(3)[^108] A felmentési idő a felmentésről szóló jognyilatkozat közlését követően egyoldalúan nem módosítható.
+(3)[^120] A felmentési idő a felmentésről szóló jognyilatkozat közlését követően egyoldalúan nem módosítható.
 
 (4) A Hjt. 62. § (1) bekezdés a) és b) pontja kivételével a javaslati laphoz csatolni kell a felmentés okszerűségét bizonyító okmányokat.
 
-[^108]: A 65. § (3) bekezdése a 25/2016. (XII. 22.) HM rendelet 45. § c) pontja szerint módosított szöveg.
+[^120]: A 65. § (3) bekezdése a 25/2016. (XII. 22.) HM rendelet 45. § c) pontja szerint módosított szöveg.

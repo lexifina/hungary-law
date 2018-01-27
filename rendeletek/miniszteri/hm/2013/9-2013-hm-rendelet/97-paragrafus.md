@@ -1,4 +1,4 @@
-97. §[^153] (1) A központi személyügyi szerv – a honvédségi szervezetek és a szakmai felelős szervek bevonásával – minden év legkésőbb július 31-ig tervezi meg a tárgyévben tanulmányait befejező
+97. § (1) A központi személyügyi szerv – a honvédségi szervezetek és a szakmai felelős szervek bevonásával – minden év legkésőbb július 31-ig tervezi meg a tárgyévben tanulmányait befejező
 
 a) honvéd tisztjelölt,
 
@@ -8,6 +8,4 @@ c) az állomány Hjt. 46. § (1) bekezdés m) pontja szerinti rendelkezési áll
 
 szolgálati beosztását.
 
-(2) A honvédségi ösztöndíjas hallgató szolgálati beosztását az (1) bekezdésben foglaltak alkalmazásával az MH Ludovika Zászlóalj tervezi meg.
-
-[^153]: A 97. § a 10/2017. (VIII. 31.) HM rendelet 14. §-ával megállapított szöveg.
+(2) A honvédségi ösztöndíjas hallgató szolgálati beosztását az (1) bekezdésben foglaltak alkalmazásával a Magyar Honvédség Ludovika Zászlóalj tervezi meg.

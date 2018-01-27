@@ -1,17 +1,27 @@
-## 30. A tiszti és az altiszti állomány előmenetele és előmenetelének tervezése
+## 30. [^150] A tiszti és az altiszti állomány előmenetele és előmenetelének tervezése
 
-92. § (1)[^135] Általános előmeneteli rendbe tartozó szolgálati beosztásokban, valamint a rendszeresített rendfokozat elérését követően speciális előmeneteli rendbe tartozó szolgálati beosztásokban a tiszti és az altiszti állomány tagja előmenetelre tervezhető, ha
+92. § (1) A tiszti és az altiszti állomány tagja – ha a viselt rendfokozata megegyezik a beosztásához rendszeresített rendfokozattal – a kötelező várakozási idő lejártát követően egy rendfokozattal magasabb rendszeresített rendfokozatú beosztásba nevezhető ki.
 
-a) a 86. § szerint legalább „B” teljesítményszintű teljesítményértékeléssel rendelkezik, és
+(2) Általános előmeneteli rendbe tartozó szolgálati beosztásokban, valamint a rendszeresített rendfokozat elérését követően speciális előmeneteli rendbe tartozó szolgálati beosztásokban a tiszti és az altiszti állomány tagja előmenetelre tervezhető, ha
 
-b) az állomány törzsőrmester, főtörzsőrmester vagy zászlós, valamint főhadnagy, százados vagy őrnagy rendfokozatú tagja az a) pont szerinti teljesítményértékelés mellett sikeres és érvényes minősítő vizsgával is rendelkezik.
+a) legalább „B” teljesítményszintű teljesítményértékeléssel rendelkezik, és
 
-(1a)[^136] Az (1) bekezdéstől eltérően, kettős rendfokozattal rendszeresített beosztásokban – a kezdő beosztások kivételével – az állomány törzsőrmester, főtörzsőrmester vagy zászlós, valamint főhadnagy, százados vagy őrnagy rendfokozatú tagja akkor léptethető elő, ha a 93. § (2) bekezdése szerinti teljesítményértékelés mellett – négy évnél nem régebbi – sikeres minősítő vizsgával is rendelkezik.
+b) az állomány törzsőrmester, főtörzsőrmester vagy zászlós, illetve főhadnagy, százados vagy őrnagy rendfokozatú tagja sikeres és érvényes minősítő vizsgával is rendelkezik.
 
-(2)[^137] Speciális előmeneteli rendbe tartozó szolgálati beosztásokban a tiszti vagy az altiszti állomány tagját a rendszeresített rendfokozat eléréséig a kötelező várakozási idő leteltét követően elő kell léptetni, ha az adott évben legalább „B” teljesítményszintű teljesítményértékeléssel, valamint – négy évnél nem régebbi – sikeres minősítő vizsgával rendelkezik.
+(3) A Hjt. 83. § (5) bekezdése szerinti magasabb beosztásba kinevezéshez készített, legalább „B” teljesítményszintű teljesítményértékelés szükséges.
 
-(3) A Hjt. 84. § (5) bekezdése szerinti esetekben – függetlenül a teljesítményértékelés eredményétől – az állomány tagja előmenetelre nem tervezhető.
+(4) Speciális előmeneteli rendbe tartozó szolgálati beosztásokban a tiszti vagy az altiszti állomány tagját a rendszeresített rendfokozat eléréséig a kötelező várakozási idő leteltét követően elő kell léptetni, ha legalább „B” teljesítményszintű teljesítményértékeléssel, valamint sikeres és érvényes minősítő vizsgával rendelkezik.
 
-[^135]: A 92. § (1) bekezdés nyitó szövegrésze a 4/2015. (VI. 22.) HM rendelet 27. § 31. pontja szerint módosított szöveg.
-[^136]: A 92. § (1a) bekezdését a 10/2016. (VI. 29.) HM rendelet 14. §-a iktatta be, szövege a 10/2017. (VIII. 31.) HM rendelet 25. § j) pontja szerint módosított szöveg.
-[^137]: A 92. § (2) bekezdése a 25/2016. (XII. 22.) HM rendelet 25. §-ával megállapított, szövege a 10/2017. (VIII. 31.) HM rendelet 25. § j) pontja szerint módosított szöveg.
+(5) A Hjt. 83. § (3) bekezdése szerinti esetben a tiszti vagy az altiszti állomány tagja előléptetésére vagy első tábornoki rendfokozatba történő kinevezésére legalább „C” teljesítményszintű teljesítményértékelés, valamint az állomány törzsőrmester, főtörzsőrmester vagy zászlós, illetve főhadnagy, százados vagy őrnagy rendfokozatú tagja esetében sikeres és érvényes minősítő vizsga esetén kerülhet sor.
+
+(6) A Hjt. 84. § (3) bekezdés b) pontja esetén az előléptetéshez vagy az első tábornoki rendfokozatba történő kinevezéshez 2 hónapnál nem régebbi, legalább „C” teljesítményszintű teljesítményértékelés szükséges.
+
+(7) A Hjt. 77. § (1) bekezdése szerinti kezdő beosztások esetén a várakozási idő leteltekor a főhadnaggyá vagy törzsőrmesterré történő előléptetésre legalább „C” teljesítményszintű teljesítményértékelés, valamint – a teljesítményértékelésben szereplő – kompetenciaalapú munkamagatartás-értékelés és az egyéb kompetenciák külön-külön legalább 40%-ot elérő értékelése esetén kerülhet sor.
+
+(8) A Hjt. 83. § (4) bekezdés a) pontja szerinti esetben legalább „B” teljesítményszintű teljesítményértékelés szükséges.
+
+(9) A Hjt. 247/B. §-a szerinti előléptetésre legalább „C” teljesítményszintű teljesítményértékelés, valamint sikeres és érvényes minősítő vizsga esetén kerülhet sor.
+
+(10) A Hjt. 84. § (5) bekezdése szerinti esetekben – függetlenül a teljesítményértékelés eredményétől – az állomány tagja előmenetelre nem tervezhető.
+
+[^150]: A 30. alcím (92–107. §) az 1/2018. (I. 26.) HM rendelet 19. §-ával megállapított szöveg.

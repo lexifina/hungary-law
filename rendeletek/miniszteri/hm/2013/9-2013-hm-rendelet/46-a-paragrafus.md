@@ -1,6 +1,8 @@
-## 13/A. [^91] A szolgálati viszony fenntartására vonatkozó megállapodás
+## 13/A. [^96] A szolgálati viszony fenntartására vonatkozó megállapodás
 
-46/A. § (1) A Hjt. 44/A. §-a szerinti megállapodás (ezen alcím vonatkozásában a továbbiakban: megállapodás) az állomány egészségügyi, informatikai, repülő, repülőműszaki, valamint mérnöki végzettséget igénylő logisztikai szolgálati beosztást betöltő tagjával, a HVKF előzetes engedélyével köthető meg.
+46/A. § (1)[^97] A Hjt. 44/A. §-a szerinti megállapodás (ezen alcím alkalmazásában a továbbiakban: megállapodás) az állomány egészségügyi, informatikai, repülő, repülőműszaki, illetve mérnöki végzettséget igénylő logisztikai szolgálati beosztást betöltő tagjával, a HVKF előzetes engedélyével köthető meg, illetve módosítható.
+
+(1a)[^98] A HVKF (1) bekezdés szerinti előzetes engedélye iránti kérelmet – a szakmai felelős egyetértése esetén – az állományilletékes parancsnok terjeszti elő, amelyhez részletes indokolást kell csatolni.
 
 (2) A megállapodásnak tartalmaznia kell
 
@@ -38,4 +40,6 @@ ba) szerinti vállalkozási vagy megbízási típusú szerződés alapján végz
 
 bb) alapján a gazdasági társaság vagy a szövetkezet tevékenységében történő személyes közreműködés.
 
-[^91]: A 13/A. alcímet (46/A–46/G. §) a 10/2017. (VIII. 31.) HM rendelet 10. §-a iktatta be.
+[^96]: A 13/A. alcímet (46/A–46/G. §) a 10/2017. (VIII. 31.) HM rendelet 10. §-a iktatta be.
+[^97]: A 46/A. § (1) bekezdése az 1/2018. (I. 26.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^98]: A 46/A. § (1a) bekezdését az 1/2018. (I. 26.) HM rendelet 9. § (2) bekezdése iktatta be.

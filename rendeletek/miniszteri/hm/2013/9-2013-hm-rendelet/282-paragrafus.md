@@ -1,3 +1,3 @@
-282. §[^289]
+282. §[^284]
 
-[^289]: A 282. §-t a 4/2015. (VI. 22.) HM rendelet 29. § p) pontja hatályon kívül helyezte.
+[^284]: A 282. §-t a 4/2015. (VI. 22.) HM rendelet 29. § p) pontja hatályon kívül helyezte.

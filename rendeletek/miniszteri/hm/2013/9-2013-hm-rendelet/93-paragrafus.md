@@ -1,14 +1,25 @@
-93. § (1) A Hjt. 84. § (3) bekezdés b) pontja esetén az előléptetéshez vagy az első tábornoki rendfokozatba történő kinevezéshez 2 hónapnál nem régebbi teljesítményértékelés szükséges.
+93. § (1) A teljesítményértékelés eredményét az előmenetel szempontjából csak abban az esetben lehet figyelembe venni, ha az állomány tagja eredményesen teljesítette az értékelési időszakra vonatkozóan a fizikai állapotfelmérést, és végrehajtotta az éves kiképzési feladatokat.
 
-(2) A Hjt. 83. § (3) bekezdése és a Hjt. 84. § (3) bekezdés b) pontja szerinti esetekben az állomány tagja előléptetésére vagy első tábornoki rendfokozatba történő kinevezésére legalább „C” teljesítményszintű teljesítményértékelés esetén kerülhet sor.
+(2) A teljesítményértékelésben a tiszti és az altiszti állomány tagja megjelölheti azokat a helyőrségeket, amelyeket az előmenetelének tervezése során előnyben részesít.
 
-(3) Az altiszti beosztásra történő felkészítésre vezénylés 2 hónapnál nem régebbi teljesítményértékelés alapján történhet.
+(3) Az (1) bekezdéstől eltérően az állomány egybefüggően 1 évet meghaladó külföldi szolgálatot teljesítő tagjának külföldi szolgálata alatt készült teljesítményértékelésénél a külföldi szolgálat megkezdésének időpontját megelőző 1 éven belül teljesített fizikai állapotfelmérést és az éves kiképzési feladatokat kell figyelembe venni.
 
-(4) A Hjt. 77. § (1) bekezdése szerinti kezdő beosztások esetén a várakozási idő leteltekor a főhadnaggyá, vagy törzsőrmesterré történő előléptetésre legalább „C” teljesítményszintű teljesítményértékelés, valamint – a teljesítményértékelésben szereplő – kompetencia alapú munkamagatartás-értékelés és az egyéb kompetenciák külön-külön legalább 40%-ot elérő értékelése esetén kerülhet sor.
+(4) Az (1) bekezdéstől eltérően az éves teljesítményértékelés során az értékelt időszakot megelőző évben teljesített fizikai állapotfelmérés, illetve az éves kiképzési feladatok eredményét kell figyelembe venni, ha az állomány tagja a Hvt. 36. § (1) bekezdés h) pontja, valamint a Hvt. 36. § (2) bekezdés a) pontja szerinti szolgálati feladat
 
-(5)[^139] A tisztesi állomány tagjának előléptetése vagy kinevezése esetén az egy éven belül készített teljesítményértékelése figyelembe vehető.
+a) végrehajtásában való részvétele miatt nem vett részt a fizikai állapotfelmérésen, illetve nem teljesítette az éves kiképzési feladatokat, vagy
 
-(6)[^140] A Hjt. 83. § (5) bekezdése szerinti kinevezéshez a kinevezés évében készített, legalább „B” teljesítményszintű teljesítményértékelés szükséges.
+b) végrehajtása miatt nem került megszervezésre a fizikai állapotfelmérés, illetve az éves kiképzési feladat.
 
-[^139]: A 93. § (5) bekezdését a 4/2015. (VI. 22.) HM rendelet 17. §-a iktatta be.
-[^140]: A 93. § (6) bekezdését a 4/2015. (VI. 22.) HM rendelet 17. §-a iktatta be.
+(5) A fizikai állapotfelmérés, illetve az éves kiképzési feladat végrehajtása elmaradásának okát a teljesítményértékelésben rögzíteni kell.
+
+(6) Ha a tiszti vagy az altiszti állomány tagjáról a tárgyévben éves teljesítményértékelés nem készíthető, illetve a Hvt. 36. § (1) bekezdés h) pontja, valamint a Hvt. 36. § (2) bekezdés a) pontja szerinti szolgálati feladat végrehajtásában való részvétel miatt az értékelő vezető nem tudja az értékelést elkészíteni, vagy az értékelttel nem lehet az értékelést ismertetni, akkor a tiszti vagy az altiszti állomány tagja előmenetelének tervezése érdekében a teljesítményértékelési eljárás során rögzíteni kell
+
+a) a tárgyévet megelőző évi teljesítményértékelés során a 7. melléklet I–III. pontja szerinti értékelési szempontok vonatkozásában elért eredményt,
+
+b) a teljesítményértékelés elmaradásának okát és
+
+c) a (2) bekezdés szerinti helyőrségeket.
+
+(7) Ha a tiszti vagy az altiszti állomány tagjáról már a tárgyévet megelőző évben sem készült teljesítményértékelés, előmenetelre a tárgyévben nem tervezhető.
+
+(8) A (6) bekezdés szerint végrehajtott eljárás során készített dokumentum az előmenetel tervezése során figyelembe vehető, de a tárgyévet követő évben az egyes értékelési szempontok vonatkozásában elért eredményt már nem lehet figyelembe venni.

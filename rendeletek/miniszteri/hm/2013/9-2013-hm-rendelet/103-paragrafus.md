@@ -1,13 +1,15 @@
-103. §[^164] (1) A központi személyügyi szerv a szakmai felelősökkel együttműködve a beérkezett jelöltválasztások alapján elvégzi az előmenetelre tervezett jelöltek üres szolgálati beosztásokhoz történő hozzárendelését.
+103. § (1) A 92. § (1) bekezdésében foglaltaktól eltérően a Hjt. 83. § (5) bekezdésében foglalt feltételek teljesülése esetén a tiszti és az altiszti állomány tagja akkor nevezhető ki
 
-(2)[^165] A Hjt. 83. § (5) bekezdésének alkalmazása esetén a Hjt. 83. § (2) bekezdés a) pontja szerint megfelelő betölthető magasabb beosztásnak minősül az a szolgálati beosztás, amely
+a) kettős rendfokozattal rendszeresített beosztásba, ha a viselt rendfokozata – a kinevezést megelőzően – a tervezett kettős rendfokozattal rendszeresített beosztás alacsonyabb rendfokozatával azonos, vagy
 
-a) a központi előmenetel tervezés során feltölthető beosztásként volt megjelölve, és
+b) speciális előmeneteli rendbe tartozó beosztásba, ha a viselt rendfokozata – a kinevezést megelőzően – legfeljebb kettővel alacsonyabb, mint a tervezett speciális előmeneteli rendbe tartozó beosztás rendszeresített rendfokozata. Ettől szolgálati érdekből a HVKF engedélyével el lehet térni.
+
+(2) A Hjt. 83. § (5) bekezdésében foglaltak alkalmazására kizárólag abban az esetben kerülhet sor, ha az állomány tagja a viselt rendfokozatában a kinevezést megelőzően legalább 1 évet eltöltött.
+
+(3) A Hjt. 83. § (5) bekezdésének alkalmazása esetén a Hjt. 83. § (2) bekezdés a) pontja szerint megfelelő betölthető magasabb beosztásnak minősül az a szolgálati beosztás, amely
+
+a) a központi előmenetel-tervezés során feltölthető beosztásként volt megjelölve, és
 
 b) az adott beosztásra nem volt megfelelő jelölt.
 
-(3)[^166] A (2) bekezdésben foglaltakat a helyi előmenetel tervezés során megfelelően alkalmazni kell.
-
-[^164]: A 103. § a 4/2015. (VI. 22.) HM rendelet 20. §-ával megállapított szöveg.
-[^165]: A 103. § (2) bekezdés nyitó szövegrésze a 18/2015. (XII. 22.) HM rendelet 22. § d) pontja szerint módosított szöveg.
-[^166]: A 103. § (3) bekezdését a 10/2016. (VI. 29.) HM rendelet 19. §-a iktatta be.
+(4) A (3) bekezdésben foglaltakat a helyi előmenetel-tervezés során megfelelően alkalmazni kell.

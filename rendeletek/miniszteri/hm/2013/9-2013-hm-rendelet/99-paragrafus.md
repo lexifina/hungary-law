@@ -1,8 +1,7 @@
-## 98. § A Hjt. 86. § (3) bekezdése szerinti esetben az állományilletékes parancsnok a maximális várakozási idő leteltét megelőző év december 31-ig tájékoztatja a központi személyügyi szervet arról, hogy a várakozási idő meghosszabbítását javasolja-e.
+99. § (1) Az előmenetel központi tervezését a központi személyügyi szerv hajtja végre a szakmai felelősökkel és az állományilletékes parancsnokokkal együttműködve.
 
-99. § (1)[^154] A központi személyügyi szerv minden év január 1-jétől január 15-ig az önálló munkaköri jegyzékkel, illetve állománytáblával rendelkező honvédségi szervezetek személyügyi szerveivel együttműködve összeállítja az adott évben a központi előmenetel tervezés során feltölthető beosztások jegyzékét.
+(2) Az előmenetel helyi tervezését a feltölthető beosztás szerinti honvédségi szervezet személyügyi szerve hajtja végre. Az előmenetel helyi tervezésekor a százados, illetve a főtörzsőrmester rendfokozattal rendszeresített szolgálati beosztások esetében figyelembe kell venni az állomány más honvédségi szervezet állományába tartozó főhadnagy, illetve törzsőrmester rendfokozatú tagját, ha a 93. § (2) bekezdésében foglaltak szerint az adott helyőrséget megjelölte.
 
-(2)[^155] Az (1) bekezdés szerinti jegyzéken szereplő beosztások rendfokozatonkénti és munkakörcsaládonkénti vagy fegyvernemi, illetve szakági alcsoportonkénti feltöltési sorrendjét a szakmai felelősök állapítják meg.
+(3) Az állomány (2) bekezdésben foglalt főhadnagy, illetve törzsőrmester rendfokozatú tagjáról az állományilletékes honvédségi szervezet személyügyi szerve minden év március 1-jéig tájékoztatja a helyi előmenetel-tervezést végrehajtó személyügyi szervet.
 
-[^154]: A 99. § (1) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 34. pontja, a 10/2016. (VI. 29.) HM rendelet 28. § 6. pontja szerint módosított szöveg.
-[^155]: A 99. § (2) bekezdése a 10/2016. (VI. 29.) HM rendelet 28. § 7. pontja szerint módosított szöveg.
+(4) Ha az állomány főhadnagy, illetve törzsőrmester rendfokozatú tagja által a teljesítményértékelésben megjelölt helyőrségben több honvédségi szervezet is települ, a megjelölt helyőrség szerinti összes honvédségi szervezetet tájékoztatni kell a (3) bekezdésben foglaltak szerint.

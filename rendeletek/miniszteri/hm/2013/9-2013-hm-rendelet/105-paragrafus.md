@@ -1,5 +1,3 @@
-105. § (1) A HVKF egyedi döntése alapján a szolgálat érdekében, minősítő vizsga nélkül is történhet magasabb szolgálati beosztásba kinevezés, ha a szolgálati beosztásra tervezett személy legalább „B” teljesítményszintű teljesítményértékeléssel rendelkezik.
+105. § (1) Ha az üres beosztásra megfelelő jelölt hiányában a 104. §-ban foglaltak nem alkalmazhatóak, a 104. § a) és b) pontja szerinti beosztásra a 44. § (1a) bekezdése szerinti pályázat írható ki. Ha a pályázaton megjelent beosztás feltöltésére kinevezéssel kerül sor, a kinevezésre – a 96. § (2) bekezdéstől eltérően – legkésőbb a tárgyévet követő január 1-jei hatállyal kerülhet sor.
 
-(2)[^171] Az (1) bekezdés akkor alkalmazható – ide nem értve a 105/A. § szerinti esetet –, ha a szolgálati beosztásra a 102. § (1) bekezdésében foglaltak szerinti rangsor összeállításakor nem volt megfelelő jelölt, vagy a szolgálati beosztás a 104. §-ban foglaltakat követően is üres.
-
-[^171]: A 105. § (2) bekezdése a 10/2017. (VIII. 31.) HM rendelet 16. §-ával megállapított szöveg.
+(2) Az (1) bekezdés szerinti pályázatok kiírásának koordinálását a központi személyügyi szerv végzi.

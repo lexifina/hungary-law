@@ -16,6 +16,7 @@ f) az érintett személy nyilatkozatát a szolgálati viszonyával kapcsolatos j
 
 (3) Ha a személyügyi eljárás az állomány tagja kérelmére indul, a kérelmet a javaslati laphoz csatolni kell.
 
-(4) Ha az állomány tagja különös méltánylást érdemlő egyéni érdeke figyelembe vételét kéri, ennek tényét a javaslati lapon rögzíteni kell. A javaslati laphoz csatolni kell a 12. § (1) bekezdése szerinti igazolást.
+(4)[^38] Ha az állomány tagja különös méltánylást érdemlő egyéni érdeke figyelembevételét kéri, a javaslati laphoz csatolni kell a kérelmet és a 12. § (1) bekezdése szerinti igazolást.
 
 [^37]: A 8. § (2) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 10. pontja szerint módosított szöveg.
+[^38]: A 8. § (4) bekezdése az 1/2018. (I. 26.) HM rendelet 7. §-ával megállapított szöveg.

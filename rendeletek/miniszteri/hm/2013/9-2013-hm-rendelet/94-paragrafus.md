@@ -1,18 +1,23 @@
-94. § (1) A tábornoki, az ezredes és a főtörzszászlós rendfokozattal rendszeresített szolgálati beosztásba tervezettek kiválasztása a teljesítményértékelés alapján elkészített rangsorolás figyelembe vételével történik.
+94. § (1) A tiszti vagy az altiszti állomány előmenetelének tervezése
 
-(2) Főtörzszászlós rendfokozattal rendszeresített beosztások betöltésére az MH vezénylő zászlós tehet javaslatot.
+a) őrnagy vagy annál magasabb rendfokozattal rendszeresített szolgálati beosztások, valamint a zászlósi rendfokozati csoportba tartozó szolgálati beosztások esetében központi szinten,
 
-94/A.[^141] (1)[^142] Ha a tiszti vagy az altiszti állomány tagjáról a tárgyévben éves teljesítményértékelés nem készíthető, illetve a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti szolgálati feladat végrehajtásában való részvétel miatt az értékelő vezető nem tudja az értékelést elkészíteni vagy az értékelttel nem lehet az értékelést ismertetni, akkor a tiszti vagy az altiszti állomány tagja előmenetelének tervezése érdekében a teljesítményértékelési eljárás során rögzíteni kell
+b) az a) ponttól eltérő rendfokozattal rendszeresített szolgálati beosztások esetében helyi szinten
 
-a) a tárgyévet megelőző évi teljesítményértékelés során a 7. melléklet I–III. pontja szerinti értékelési szempontok vonatkozásában elért eredményt,
+ba) a honvédségi szervezeten belül vagy
 
-b) a teljesítményértékelés elmaradásának okát, és
+bb) a honvédségi szervezetek között
 
-c) a 94/B. § (2) bekezdése szerinti helyőrségeket.
+történik.
 
-(2) Ha a tiszti vagy az altiszti állomány tagjáról már a tárgyévet megelőző évben sem készült teljesítményértékelés, akkor előmenetelre a tárgyévben nem tervezhető.
+(2) Nem kell alkalmazni az (1) bekezdésben foglaltakat
 
-(3) Az (1) bekezdés szerint végrehajtott eljárás során készített dokumentum az előmenetel tervezés során figyelembe vehető, de a tárgyévet követő évben az egyes értékelési szempontok vonatkozásában elért eredményt már nem lehet figyelembe venni.
+a) a tábori lelkészi szolgálat beosztásai,
 
-[^141]: A 94/A. §-t a 4/2015. (VI. 22.) HM rendelet 18. §-a iktatta be.
-[^142]: A 94/A. § (1) bekezdése a 18/2015. (XII. 22.) HM rendelet 4. §-ával megállapított szöveg.
+b) az oktatás, képzés, kiképzés munkakörcsalád miniszteri utasításban meghatározott egyes fegyvernemi, szakági azonosítója szerinti beosztások és
+
+c) a külszolgálati munkakörcsaládokba tartozó szolgálati beosztások, továbbá az 1 évet meghaladó külföldi szolgálatra történő vezénylések
+
+esetében.
+
+(3) A KNBSZ az előmenetel tervezését saját hatáskörében hajtja végre.

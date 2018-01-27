@@ -1,7 +1,8 @@
-149. § (1)[^217] A fegyelmi jogkört gyakorló döntését tartalmazó határozatot az állomány eljárás alá vont tagjával vagy képviselőjével közölni kell.
+149. § (1)[^202] A fegyelmi jogkört gyakorló döntését tartalmazó határozatot az állomány eljárás alá vont tagjával, valamint ügyvédjével közölni kell.
 
 (2) Ha az állomány tagja a jogorvoslati jogáról lemond, azt jegyzőkönyvben rögzíteni kell.
 
-(3) A határozat egy példányát – ha az minősített adatot nem tartalmaz – az állomány eljárás alá vont tagja, valamint képviselője részére kézbesíteni kell. Ha a határozat minősített adatot tartalmaz, a határozat kivonatát kell kézbesíteni.
+(3)[^203] A határozat egy példányát – ha az minősített adatot nem tartalmaz – az állomány eljárás alá vont tagja, valamint ügyvédje részére kézbesíteni kell. Ha a határozat minősített adatot tartalmaz, a határozat kivonatát kell kézbesíteni.
 
-[^217]: A 149. § (1) bekezdése a 10/2016. (VI. 29.) HM rendelet 28. § 10. pontja szerint módosított szöveg.
+[^202]: A 149. § (1) bekezdése az 1/2018. (I. 26.) HM rendelet 26. § i) pontja szerint módosított szöveg.
+[^203]: A 149. § (3) bekezdése az 1/2018. (I. 26.) HM rendelet 26. § h) pontja szerint módosított szöveg.

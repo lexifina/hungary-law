@@ -1,9 +1,11 @@
-## 106. §[^173] Az egy évet meghaladó külföldi szolgálatteljesítést követően az állomány előmenetel feltételeivel rendelkező tagja a 92. § (1) és (2) bekezdése szerinti időszakon kívül is tervezhető magasabb beosztásba.
+107. § (1) A tisztesi állomány előmenetelének tervezése honvédségi szervezeten belül történik.
 
-## 107. § A Hjt. 84. § (3) bekezdés c) pontja esetén – ha a szolgálatteljesítés helye szerinti honvédségi szervezetnél az állomány tagjának továbbfoglalkoztatására nincs lehetőség –az érintett személyi anyagát haladéktalanul fel kell terjeszteni a központi személyügyi szerv vezetőjéhez, aki
+(2) Az (1) bekezdéstől eltérően a tisztesi állomány tagjának előmenetele honvédségi szervezetek között is történhet.
 
-a) megvizsgálja a rendfokozatának megfelelő szolgálati beosztásba helyezésének lehetőségét, és
+(3) A tisztesi állomány tagja – állománycsoporton belül – a beosztásához rendszeresített rendfokozathoz képest két rendfokozattal magasabb rendszeresített rendfokozatú beosztásba is kinevezhető.
 
-b) megfelelő szolgálati beosztás hiányában a Hjt. 46. § (1) bekezdés i) pontja szerinti rendelkezési állományba helyezi.
+(4) A tisztesi állomány tagjának előléptetése vagy kinevezése esetén az 1 éven belül készített teljesítményértékelése figyelembe vehető.
 
-[^173]: A 106. § a 18/2015. (XII. 22.) HM rendelet 11. §-ával megállapított, szövege a 10/2017. (VIII. 31.) HM rendelet 25. § k) pontja szerint módosított szöveg.
+(5) A tisztesi állomány altiszti beosztásba helyezése az adott honvédségi szervezeten belül kerül megtervezésre.
+
+(6) Az altiszti beosztásra történő felkészítésre vezénylés 2 hónapnál nem régebbi teljesítményértékelés alapján történhet.
