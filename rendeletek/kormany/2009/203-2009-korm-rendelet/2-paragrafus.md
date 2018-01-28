@@ -20,4 +20,8 @@ e) egyéb vasúti járművezető:
 
 ea) a d) pontba nem tartozó, a vasúti pályahálózat fenntartási, építési, karbantartási, helyreállítási tevékenysége körében alkalmazott, a szolgálati személyzeten és e tevékenység során felhasználandó eszközökön kívül más személyeket és egyéb eszközöket nem továbbító vasúti jármű vezetője,
 
-eb) a saját célú vasúti pályahálózaton járművet vezető személy, valamint a nem saját célú vasút üzemi területén (telephelyén, járműtelepén), de legfeljebb a kiágazási állomás vagy szolgálati hely kiágazási váltójáig terjedő pályaszakaszon, a vasúti járművek tolatását végző járművezető.
+eb) a saját célú vasúti pályahálózaton járművet vezető személy, valamint a nem saját célú vasút üzemi területén (telephelyén, járműtelepén), de legfeljebb a kiágazási állomás vagy szolgálati hely kiágazási váltójáig terjedő pályaszakaszon, a vasúti járművek tolatását végző járművezető,
+
+f)[^1] szakértő: a vizsgálatot vagy kiértékelést végző orvos, valamint a közreműködő pszichológus.
+
+[^1]: A 2. § f) pontját az 517/2017. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

@@ -62,7 +62,7 @@
 
 ## b) a légvezetéses küszöbérték átlaga (250–2000 Hz között) max. 20 dB
 
-## B)[^34] Időszakos és soron kívüli egészségi alkalmassági vizsgálat alkalmával megkívánt érzékszervi egészségi alkalmassági követelmények
+## B)[^39] Időszakos és soron kívüli egészségi alkalmassági vizsgálat alkalmával megkívánt érzékszervi egészségi alkalmassági követelmények
 
 ## I. munkaköri csoport esetében
 
@@ -134,4 +134,4 @@
 
 4. melléklet a 203/2009. (IX. 18.) Korm. rendelethez
 
-[^34]: A 3. melléklet b) része a 259/2017. (IX. 11.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^39]: A 3. melléklet b) része a 259/2017. (IX. 11.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

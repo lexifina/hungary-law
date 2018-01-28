@@ -4,23 +4,26 @@ a) név, születési név;
 
 b) szakvizsga száma, kelte;
 
-c) orvosi pecsét száma;
+c)[^19] orvos esetén orvosi pecsét száma;
 
 d) nyilvántartásba vétel dátuma, száma;
 
 e) nyilvántartásból való törlés oka és időpontja.
 
-(2) Az orvost a közlekedési hatóság a nyilvántartásából törli, amennyiben:
+(2)[^20] A szakértőt a közlekedési hatóság a nyilvántartásából törli, amennyiben:
 
-a) a nyilvántartásba vett személyt ezt kérelmezi,
+a) a nyilvántartásba vett személy ezt kérelmezi,
 
 b) a nyilvántartásba vett személy elhalálozott,
 
-c) a tevékenység végzésére vonatkozó, külön jogszabályban előírt jogosultságát elveszti, vagy
+c) a nyilvántartásba vett személy a tevékenység végzésére vonatkozó, külön jogszabályban előírt jogosultságát elveszti,
 
-d)[^15] a foglalkozástól véglegesen eltiltották.
+d) a 22/B. § (4) és (5) bekezdése szerinti esetekben, vagy
 
-(3)[^16] A nyilvántartás az (1) bekezdés b)–e) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+e) a nyilvántartásba vett személyt a foglalkozástól jogerősen eltiltották.
 
-[^15]: A 23. § (2) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 262. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^16]: A 23. § (3) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 16. §-a iktatta be.
+(3)[^21] A nyilvántartás az (1) bekezdés b)–e) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+[^19]: A 23. § (1) bekezdés c) pontja az 517/2017. (XII. 29.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^20]: A 23. § (2) bekezdése az 517/2017. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^21]: A 23. § (3) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 16. §-a iktatta be.
