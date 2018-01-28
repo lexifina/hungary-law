@@ -1,1 +1,0 @@
-## „(1a) A HVKF (1) bekezdés szerinti előzetes engedélye iránti kérelmet – a szakmai felelős egyetértése esetén – az állományilletékes parancsnok terjeszti elő, amelyhez részletes indokolást kell csatolni.”
