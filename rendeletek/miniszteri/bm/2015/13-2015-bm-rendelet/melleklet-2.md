@@ -122,6 +122,8 @@
 
 | 58b. | 2.11. Saját célú ivóvízmű vízjogi létesítési, megszüntetési vagy fennmaradási engedélye [147/2010. (IV. 29.) Korm. rendelet 16/A. §] | 2.6. pontban megállapított díjtételek 25%-a |
 
+| 58c. | 2.12. Vízjogi létesítési, megszüntetési vagy fennmaradási engedély vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet szerint kijelölt, kijelölés alatt álló, illetve előzetesen lehatárolt belső, külső és hidrogeológiai védőidom, védőterület, valamint karszt- vagy rétegvízkészletet hasznosító, nem gazdasági célú kútra 500 m3/év mennyiségű vízhasználatig [72/1996. (V. 22.) Korm. rendelet 3. és 15. §] | 5000 |
+
 | 59. | 3. Vízvezetési szolgalom, vízhasználati szolgalom alapítása – az érintett ingatlanok számához igazodva [72/1996. (V. 22.) Korm. rendelet 6–7. §, 2011. évi CCIX. törvény 80. §] | 7000/ingatlan |
 
 | 60. | 4. Vízbázis védőterület önálló kijelölésére irányuló eljárás [72/1996. (V. 22.) Korm. rendelet 9. § (2) bekezdés] |  |
