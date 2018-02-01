@@ -1,5 +1,3 @@
-## 22. §[^44]
-
 1. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
 
 1. Az Eütev. 11/A. § (4) bekezdése szerinti orvosi munkakörök:
@@ -122,7 +120,7 @@
 
 2.49. egészségügyi operátor
 
-2.50.[^45] egészségügyi ügyvitelszervező***, orvosírnok
+2.50.[^48] egészségügyi ügyvitelszervező***, orvosírnok
 
 2.51. laboráns, vegyésztechnikus
 
@@ -152,11 +150,11 @@
 
 2.64. vezető közegészségügyi felügyelő*
 
-2.65.[^46] ápolási igazgató
+2.65.[^49] ápolási igazgató
 
-2.66.[^47] egészségügyi szakoktató
+2.66.[^50] egészségügyi szakoktató
 
-2.67.[^48] mentőhelikopter vezető
+2.67.[^51] mentőhelikopter vezető
 
 3. Az Eütev. 11/A. § (6) bekezdése szerinti, felsőfokú végzettséggel betölthető munkakörök:
 
@@ -174,9 +172,9 @@
 
 3.7. mikrobiológus*
 
-3.8.[^49] fizikus
+3.8.[^52] fizikus
 
-3.9.[^50] kémikus
+3.9.[^53] kémikus
 
 4. Az Eütev. 11/A. § (6a) bekezdése szerinti gyógyszerészi végzettséggel betölthető munkakörök:
 
@@ -198,7 +196,7 @@
 
 5.3. parancsnok helyettes*
 
-5.4.[^51]
+5.4.[^54]
 
 5.5. intézetvezető*
 
@@ -208,7 +206,7 @@
 
 5.8. munkavezető, foglalkozásvezető
 
-Jelmagyarázat:[^52]
+Jelmagyarázat:[^55]
 
 * = a Honvédelmi Minisztérium és a Magyar Honvédség egészségügyi intézményeiben foglalkoztatott közalkalmazottakra irányadó munkakör.
 
@@ -216,12 +214,11 @@ Jelmagyarázat:[^52]
 
 *** = felsőfokú végzettséggel rendelkező.
 
-[^44]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^45]: Az 1. melléklet 2. pont 2.50. alpontja a 320/2017. (XI. 8.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^46]: Az 1. melléklet 2. pont 2.65. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^47]: Az 1. melléklet 2. pont 2.66. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^48]: Az 1. melléklet 2. pont 2.67. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^49]: Az 1. melléklet 3. pont 3.8. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^50]: Az 1. melléklet 3. pont 3.9. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^51]: Az 1. melléklet 5. pont 5.4. alpontját a 394/2013. (XI. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^52]: Az 1. melléklet „Jelmagyarázat” része a 320/2017. (XI. 8.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^48]: Az 1. melléklet 2. pont 2.50. alpontja a 320/2017. (XI. 8.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^49]: Az 1. melléklet 2. pont 2.65. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^50]: Az 1. melléklet 2. pont 2.66. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^51]: Az 1. melléklet 2. pont 2.67. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^52]: Az 1. melléklet 3. pont 3.8. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^53]: Az 1. melléklet 3. pont 3.9. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^54]: Az 1. melléklet 5. pont 5.4. alpontját a 394/2013. (XI. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^55]: Az 1. melléklet „Jelmagyarázat” része a 320/2017. (XI. 8.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

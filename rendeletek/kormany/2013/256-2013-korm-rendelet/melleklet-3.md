@@ -516,9 +516,9 @@
 
 | 258. | Budapesti Módszertani Szociális Központ és Intézményei | Budapest |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^54]
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^57]
 
-## Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót megillető bérkiegészítés mértéke
+Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót megillető bérkiegészítés mértéke
 
 1. Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó szakorvost megillető bérkiegészítés mértéke
 
@@ -722,4 +722,4 @@
 
 | 17 | 49–51 | 46 600 | 49 114 | 56 724 |
 
-[^54]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^57]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.

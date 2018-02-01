@@ -1,4 +1,4 @@
-11/C. §[^31] (1) A NEAK a 3. § szerinti, 2016. december hónapra számfejtésre kerülő bérkiegészítés támogatást 2017. január hónapban utalványozza.
+11/C. §[^33] (1) A NEAK a 3. § szerinti, 2016. december hónapra számfejtésre kerülő bérkiegészítés támogatást 2017. január hónapban utalványozza.
 
 (2) A NEAK a 2/A. § szerinti, 2017. január hónapban számfejtésre kerülő bérfejlesztéshez a munkáltató részére egy havi támogatást nyújt, melyet 2017. január hónapban utalványoz.
 
@@ -8,4 +8,4 @@
 
 (5) Az (1) és (2) bekezdés szerinti támogatásra a 4. § (4) bekezdése szerinti elszámolási szabályok megfelelően alkalmazandóak.
 
-[^31]: A 11/C. §-t a 461/2016. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^33]: A 11/C. §-t a 461/2016. (XII. 23.) Korm. rendelet 7. §-a iktatta be.

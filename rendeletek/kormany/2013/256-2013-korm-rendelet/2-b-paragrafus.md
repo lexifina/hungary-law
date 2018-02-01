@@ -8,7 +8,7 @@ a) az (1) bekezdés szerinti fiatal szakorvos, aki a (2) bekezdés szerinti hat�
 
 b)[^11] az (1) bekezdés hatálya alá nem tartozó fiatal szakorvos, aki 2016. december 7-ét követően, a fiatal szakorvosok támogatására való jogosultságának fennállása alatt a 2/A. § (1) bekezdése szerinti emelt alapbérre (illetményre) válik jogosulttá,
 
-## 2017. október 31-éig – az egyéb jogosultsági feltételek fennállása esetén – a 2/A. § (1) bekezdése szerinti emelt alapbérre (illetményre) jogosult, a Kr.1. 35/D. §-ában foglaltak egyidejű alkalmazása mellett.
+2017. október 31-éig – az egyéb jogosultsági feltételek fennállása esetén – a 2/A. § (1) bekezdése szerinti emelt alapbérre (illetményre) jogosult, a Kr.1. 35/D. §-ában foglaltak egyidejű alkalmazása mellett.
 
 (4) Az a fiatal szakorvos, aki az (1) bekezdés szerinti – a (2) bekezdésben foglalt határidőben megtett – nyilatkozata alapján a fiatal szakorvosok támogatását veszi igénybe, e támogatásra 2016. december 1-jétől válik jogosulttá.
 
@@ -20,7 +20,7 @@ a) a fiatal szakorvosok támogatására vonatkozó szabályok alkalmazásával s
 
 b)[^13] a 2/A. § (1) bekezdése szerinti emelt alapbérre (illetményre) vonatkozó szabályok alkalmazásával számított tárgyhavi bér (illetmény)
 
-## különbözete.
+különbözete.
 
 (7)[^14] A fiatal szakorvosok bérkülönbözete nem része az alapbérnek (illetménynek), az ügyeleti díj, az Eütev. 14/B. §-a szerinti pótlék, a készenléti díj, valamint a rendkívüli munkavégzés bérpótléka (a továbbiakban együtt: mozgóbér elemek) számítása tekintetében nem kell figyelembe venni.
 

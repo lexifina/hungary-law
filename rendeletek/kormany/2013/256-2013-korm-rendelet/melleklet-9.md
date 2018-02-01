@@ -1,48 +1,44 @@
-## Egyéb, nem egészségügyi főiskolai végzettséggel rendelkező egészségügyi dolgozók illetmény-, illetve bérnövelése
-
-## (Ft/hó, bruttó)
-
 | SZINT | ÉVEK | EGYÉB, NEM EGÉSZSÉGÜGYI FŐISKOLAI VÉGZETTSÉGGEL RENDELKEZŐ EGÉSZSÉGÜGYI DOLGOZÓK ILLETMÉNY- VAGY BÉRNÖVELÉS FIZETÉSI OSZTÁLYOK |
 
 | F | G | H |
 
-| 1 | 0–3 | 56 334 | 58 225 | 58 788 |
+| 1 | 0–3 | 73 915 | 76 358 | 77 166 |
 
-| 2 | 4–6 | 59 721 | 62 203 | 63 034 |
+| 2 | 4–6 | 77 915 | 81 010 | 82 269 |
 
-| 3 | 7–9 | 62 803 | 65 864 | 67 279 |
+| 3 | 7–9 | 81 610 | 85 345 | 87 372 |
 
-| 4 | 10–12 | 65 886 | 69 525 | 71 524 |
+| 4 | 10–12 | 85 305 | 89 679 | 92 475 |
 
-| 5 | 13–15 | 68 968 | 73 185 | 75 770 |
+| 5 | 13–15 | 89 000 | 94 014 | 97 578 |
 
-| 6 | 16–18 | 72 051 | 76 846 | 78 720 |
+| 6 | 16–18 | 92 695 | 98 348 | 101 386 |
 
-| 7 | 19–21 | 75 133 | 80 507 | 79 728 |
+| 7 | 19–21 | 96 390 | 102 683 | 103 252 |
 
-| 8 | 22–24 | 77 606 | 82 580 | 80 736 |
+| 8 | 22–24 | 99 475 | 105 430 | 105 117 |
 
-| 9 | 25–27 | 80 078 | 83 383 | 81 744 |
+| 9 | 25–27 | 102 560 | 106 907 | 106 983 |
 
-| 10 | 28–30 | 80 415 | 83 869 | 82 752 |
+| 10 | 28–30 | 103 510 | 108 066 | 108 848 |
 
-| 11 | 31–33 | 80 753 | 84 355 | 85 055 |
+| 11 | 31–33 | 104 460 | 109 226 | 112 009 |
 
-| 12 | 34–36 | 81 090 | 84 840 | 87 358 |
+| 12 | 34–36 | 105 410 | 110 385 | 115 170 |
 
-| 13 | 37–39 | 81 428 | 85 326 | 89 661 |
+| 13 | 37–39 | 106 360 | 111 545 | 118 330 |
 
-| 14 | 40–42 | 81 765 | 85 812 | 91 964 |
+| 14 | 40–42 | 107 310 | 112 705 | 121 491 |
 
-| 15 | 43–45 | 82 103 | 86 297 | 94 267 |
+| 15 | 43–45 | 108 261 | 113 864 | 124 651 |
 
-| 16 | 46–48 | 82 624 | 86 994 | 96 881 |
+| 16 | 46–48 | 109 409 | 115 251 | 128 148 |
 
-| 17 | 49–51 | 83 333 | 87 907 | 99 816 |
+| 17 | 49–51 | 110 761 | 116 872 | 131 991 |
 
-9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^60]
+9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^63]
 
-## Bérkiegészítési támogatás elszámolásához szükséges havi bérszámfejtési adatok
+Bérkiegészítési támogatás elszámolásához szükséges havi bérszámfejtési adatok
 
 1. A 2015. október – 2015. december hónapok közötti időszakra vonatkozóan:
 
@@ -158,4 +154,4 @@
 
 3.3. Munkáltatónkénti bontásban az ügyeleti díj, az Eütev. 14/B. §-a szerinti pótlék, a készenléti díj, valamint a rendkívüli munkavégzés bérpótlékának biztosítása érdekében a foglalkoztatottak részére utalványozott különbözet összege a 3. § (5) bekezdésében foglaltak alapján, valamint a különbözethez kapcsolódóan összesen utalványozott kifizetőt terhelő közterhek összege.
 
-[^60]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 25/2017. (II. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^63]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 25/2017. (II. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
