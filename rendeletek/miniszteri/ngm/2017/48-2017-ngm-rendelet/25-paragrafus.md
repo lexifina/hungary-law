@@ -1,4 +1,4 @@
-## 24. §[^18]
+## 24. §[^16]
 
 ## 12. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) A 28. § g) pontja 2018. június 1-jén lép hatályba.
 
-[^18]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
