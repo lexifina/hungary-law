@@ -1,5 +1,3 @@
-## 2/B. §[^23]
-
 ## [A törvény 23. §-ának (2)–(3) bekezdéséhez]
 
 3. §[^24] (1) Magasabb vezetőnek minősül
@@ -20,7 +18,6 @@ d)[^27]
 
 (3)[^28] A magasabb vezető beosztásra történő megbízás feltétele legalább öt év felsőfokú végzettséget vagy felsőfokú szakmai képesítést igénylő, a gyermekvédelem, a szociális ellátás, az egészségügyi ellátás, illetve a közoktatás területén betöltött munkakörben szerzett szakmai gyakorlat.
 
-[^23]: A 2/B. §-t újonnan a 60/2011. (IV. 12.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 244/2016. (VIII. 17.) Korm. rendelet 1. § b) pontja.
 [^24]: A 3. § a 60/2011. (IV. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^25]: A 3. § (1) bekezdés b)–c) pontját a 244/2016. (VIII. 17.) Korm. rendelet 1. § c) pontja hatályon kívül helyezte.
 [^26]: A 3. § (2) bekezdés c) pontja a 191/2016. (VII. 13.) Korm. rendelet 7. § a) pontja, a 406/2017. (XII. 15.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

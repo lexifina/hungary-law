@@ -1,5 +1,3 @@
-## A Kjt. 66. §-ának (4) bekezdése alapján illetménynövekedésre jogosító szakképesítések, szakmai képesítések
-
 | Munkakör | Többletképesítés |
 
 | gyógypedagógus | látás-, hallás-, értelmi- és mozgássérült szakirányú pszichopedagógusi végzettség |
@@ -16,9 +14,9 @@
 
 | a 2. számú melléklet és a 2/a. számú melléklet I. pontja szerinti bármely munkakör | amennyiben a munkáltató kötelezte a közalkalmazottat a további képesítés megszerzésére, és az – a 2/a. számú melléklet I. pontja szerinti munkakörök kivételével – nem biztosít magasabb fizetési osztályba sorolást; vagy a további szakképesítés hasznosítását a munkáltató foglalkozási feltételként a közalkalmazott kinevezésében (kinevezés-módosításában, átsorolásában) előírja |
 
-4. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^103]
+4. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^101]
 
-## A magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótléka
+A magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
 I. Magasabb vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
@@ -52,4 +50,4 @@ II. Vezető megbízással rendelkező közalkalmazott vezetői pótléka
 
 III.
 
-[^103]: A 4. számú melléklet a 60/2011. (IV. 12.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 258/2011. (XII. 7.) Korm. rendelet 44. § (7) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 29. § (2) bekezdése, a 116/2016. (VI. 6.) Korm. rendelet 15. § (1) bekezdés f) pontja, a 244/2016. (VIII. 17.) Korm. rendelet 1. § j) pontja szerint módosított szöveg.
+[^101]: A 4. számú melléklet a 60/2011. (IV. 12.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 258/2011. (XII. 7.) Korm. rendelet 44. § (7) bekezdése, a 349/2012. (XII. 12.) Korm. rendelet 29. § (2) bekezdése, a 116/2016. (VI. 6.) Korm. rendelet 15. § (1) bekezdés f) pontja, a 244/2016. (VIII. 17.) Korm. rendelet 1. § j) pontja szerint módosított szöveg.

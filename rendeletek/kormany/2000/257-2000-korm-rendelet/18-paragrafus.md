@@ -1,7 +1,5 @@
-18. §[^87] (1)–(2)[^88]
+18. §[^87] (1) Az egészségügyi kiegészítő pótléknak az egészségügyi dolgozók és egészségügyben dolgozók, valamint a szociális ágazatban egészségügyi munkakörben dolgozók béremelésével összefüggésben egyes kormányrendeletek módosításáról szóló 2/2018. (II. 1.) Korm. rendelet (a továbbiakban: R1.) 6. mellékletével megállapított összegére vonatkozó rendelkezéseket 2018. január 1-jétől kell alkalmazni.
 
-(3)[^89]
+(2) A 2018. január 1-jén hatályos 7. számú melléklet szerinti egészségügyi kiegészítő pótlék, valamint az R1. 6. melléklete szerinti egészségügyi kiegészítő pótlék összegének különbözetét – a 2018. január hónapban történt foglalkoztatásra tekintettel – 2018. március hónapban kell kifizetni. Ha a foglalkoztatás nem egész hónapban történik, a különbözetet időarányosan kell kifizetni.
 
-[^87]: A 18. §-t a 19/2014. (II. 3.) Korm. rendelet 2. §-a iktatta be.
-[^88]: A 18. § (1)–(2) bekezdését a 165/2015. (VI. 30.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^89]: A 18. § (3) bekezdését a 406/2017. (XII. 15.) Korm. rendelet 5. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^87]: A 18. §-t újonnan a 2/2018. (II. 1.) Korm. rendelet 9. §-a iktatta be.

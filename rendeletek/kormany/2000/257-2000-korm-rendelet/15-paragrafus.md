@@ -18,7 +18,7 @@ da)[^61] a diétás nővér, a mozgásterapeuta, a foglalkoztatás szervező, a 
 
 db) az ellátottak gondozását közvetlenül végző gépkocsivezető és szociális ügyintéző
 
-## esetében.
+esetében.
 
 (3)[^62] Az alaptevékenységen túl ellátott feladatok elvégzéséért a pótlékalap 200%-ával megegyező módszertani pótlék illeti meg a külön jogszabály szerint kijelölt módszertani feladatokat ellátó
 

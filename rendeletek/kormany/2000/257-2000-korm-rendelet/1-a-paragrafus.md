@@ -18,7 +18,7 @@ ab) a Szociális és Gyermekvédelmi Főigazgatóság által fenntartott intézm
 
 b) az a) pontban foglaltakon kívüli egyéb beosztás esetén a munkáltatói jogkör gyakorlója
 
-## látja el (a továbbiakban együtt: a pályázat előkészítője).
+látja el (a továbbiakban együtt: a pályázat előkészítője).
 
 (4) A pályázati felhívásnak – a Törvény 20/A. §-ának (3) bekezdésében foglaltakon túlmenően – tartalmaznia kell
 

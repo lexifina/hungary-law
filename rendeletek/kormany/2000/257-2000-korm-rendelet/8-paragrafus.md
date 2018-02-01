@@ -16,6 +16,8 @@ f)[^45] a bölcsődében, mini bölcsődében a sajátos nevelési igényű gyer
 
 g)[^46] a bölcsődében, mini bölcsődében a 2/a. számú melléklet II. pontjában meghatározott munkakörben
 
+munkát végző közalkalmazott.
+
 [^41]: A 8. § a) pontja a 257/2013. (VII. 5.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 191/2016. (VII. 13.) korm. rendelet 7. § c) pontja szerint módosított szöveg.
 [^42]: A 8. § c) pontja a 349/2012. (XII. 12.) Korm. rendelet 24. §-ával megállapított szöveg.
 [^43]: A 8. § d) pontját a 349/2012. (XII. 12.) Korm. rendelet 24. §-a iktatta be, szövege az 517/2013. (XII. 30.) Korm. rendelet 4. § (1) bekezdés b) és 5. § a) pontja szerint módosított szöveg.

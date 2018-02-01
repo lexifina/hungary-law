@@ -1,5 +1,5 @@
-21. §[^92] (1) E rendeletnek a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet módosításáról szóló 33/2017. (II. 15.) Korm. rendelet 2. §-ával megállapított 5. számú mellékletét a 2017. január 1-jétől 2017. február 16-áig terjedő időszakra is alkalmazni kell. A szociális ágazati összevont pótlék a közalkalmazott 2017. január hónapra tekintettel folyósított illetményével ki nem fizetett részét 2017. március hónapban kell kifizetni.
+21. §[^90] (1) E rendeletnek a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet módosításáról szóló 33/2017. (II. 15.) Korm. rendelet 2. §-ával megállapított 5. számú mellékletét a 2017. január 1-jétől 2017. február 16-áig terjedő időszakra is alkalmazni kell. A szociális ágazati összevont pótlék a közalkalmazott 2017. január hónapra tekintettel folyósított illetményével ki nem fizetett részét 2017. március hónapban kell kifizetni.
 
 (2) Ha a közalkalmazotti jogviszony 2017. január 1-jét követően, de 2017. február 17-ét megelőzően létesül, vagy 2016. december 31-ét követően, de 2017. február 17-ét megelőzően megszűnik, akkor az (1) bekezdés szerinti kifizetés időarányosan történik.
 
-[^92]: A 21. §-t a 33/2017. (II. 15.) Korm. rendelet 1. §-a iktatta be.
+[^90]: A 21. §-t a 33/2017. (II. 15.) Korm. rendelet 1. §-a iktatta be.
