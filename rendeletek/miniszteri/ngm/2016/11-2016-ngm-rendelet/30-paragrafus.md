@@ -1,3 +1,3 @@
-## 10.[^19]
+## 10.[^20]
 
-[^19]: A 10. alcímet (30. §) a 48/2017. (XII. 29.) NGM rendelet 17. § j) pontja hatályon kívül helyezte.
+[^20]: A 10. alcímet (30. §) a 48/2017. (XII. 29.) NGM rendelet 17. § j) pontja hatályon kívül helyezte.

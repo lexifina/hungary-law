@@ -1,11 +1,11 @@
-## 48. §[^31] Az 49. § és 50. § rendelkezései nem érintik a gátakat, a fegyveres erők vagy a szövetséges államok csapatainak létesítményeit, valamint az egyéb, jogszabályban meghatározott forgalomtechnikai berendezéseket.
+## 48. §[^32] Az 49. § és 50. § rendelkezései nem érintik a gátakat, a fegyveres erők vagy a szövetséges államok csapatainak létesítményeit, valamint az egyéb, jogszabályban meghatározott forgalomtechnikai berendezéseket.
 
-49. §[^32] (1)[^33] A kijelölt vámszabad területen épületeket, építményeket építeni, az épületek szerkezetét jelentősen megváltoztatni vagy azokat más célra felhasználni csak akkor lehet, ha ezt az illetékes vámhivatalnál előzetesen bejelentették. A bejelentéshez az építési tervek hiteles másolatát is csatolni kell.
+49. §[^33] (1)[^34] A kijelölt vámszabad területen épületeket, építményeket építeni, az épületek szerkezetét jelentősen megváltoztatni vagy azokat más célra felhasználni csak akkor lehet, ha ezt az illetékes vámhivatalnál előzetesen bejelentették. A bejelentéshez az építési tervek hiteles másolatát is csatolni kell.
 
 (2) A vámhatósági hozzájárulás megtagadható, ha a változtatás a vámérdeket, így különösen a vámjogi kötelezettségek teljesítését és a vámellenőrzés végrehajtását veszélyezteti.
 
 (3) Ha az építési munkálatokat vagy az épületek szerkezetére vonatkozó változtatásokat az illetékes vámhivatal hozzájárulása nélkül hajtják végre, a vámhivatal kezdeményezheti az eredeti állapot visszaállítását a változtatást végrehajtó veszélyére és költségére.
 
-[^31]: A 48. § a 38/2016. (X. 12.) NGM rendelet 12. § c) pontja szerint módosított szöveg.
-[^32]: A 49. § a 63/2016. (XII. 29.) NGM rendelet 39. §-ával megállapított szöveg.
-[^33]: A 49. § (1) bekezdése a 48/2017. (XII. 29.) NGM rendelet 15. § (7) bekezdésével megállapított szöveg.
+[^32]: A 48. § a 38/2016. (X. 12.) NGM rendelet 12. § c) pontja szerint módosított szöveg.
+[^33]: A 49. § a 63/2016. (XII. 29.) NGM rendelet 39. §-ával megállapított szöveg.
+[^34]: A 49. § (1) bekezdése a 48/2017. (XII. 29.) NGM rendelet 15. § (7) bekezdésével megállapított szöveg.
