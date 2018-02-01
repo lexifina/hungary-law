@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-462-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-01-01 | 2017-462-20-22.1 | 462/2017. (XII. 28.) Korm. rendelet |
+| 2018-02-01 | 2017-462-20-22.2 | 2/2018. (II. 1.) Korm. rendelet |

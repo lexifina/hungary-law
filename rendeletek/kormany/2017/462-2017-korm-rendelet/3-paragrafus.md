@@ -1,5 +1,3 @@
-## munkaviszonyban töltött idejét.
-
 3. § (1) A foglalkoztatott a 2011–2012. évi adó- és járulékváltozások ellentételezésére szolgáló kompenzációra (a továbbiakban: kompenzáció) a 2018. év hónapjaira járó illetményének kifizetésével egyidejűleg, havonta a (2)–(16) bekezdésben foglalt feltételekkel jogosult. Az a foglalkoztatott, akinek jogviszonya 2011. december 31-ét követően keletkezett, abban az esetben jogosult a kompenzációra, ha e rendelet hatálya alá tartozó szervvel a 2010. és 2011. évek bármelyikében vagy mindkét évben is az 1. § szerinti jogviszonyok valamelyikében állt, és az utolsó ilyen jogviszonyát követően munkavégzésre irányuló, az 1. § szerintitől eltérő jogviszonyt – a tartós megbízási szerződés kivételével – nem létesített.
 
 (2) A tárgyhónap első napján érvényes illetménye figyelembevételével az 1. melléklet szerinti kompenzációra jogosult az a foglalkoztatott, aki a 10. § szerinti nyilatkozata alapján a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 29/A. és 29/B. §-a szerint családi kedvezményre nem jogosult és jogviszonya 2010. év decemberében vagy annak egy részében a rendelet hatálya alá tartozó munkáltatóval fennállt, és azóta munkavégzésre irányuló jogviszonyt – a tartós megbízási szerződés és az e rendelet hatálya alá tartozó szervvel fennálló 1. § szerinti jogviszonyok valamelyike kivételével – kizárólag e rendelet hatálya alá tartozó munkáltatóval létesített.
@@ -16,7 +14,7 @@ a) az a foglalkoztatott, akinek tárgyhavi illetménye házas- vagy élettársa 
 
 b) az a foglalkoztatott, akinek tárgyhavi illetménye magasabb, mint házas- vagy élettársa tárgyhavi illetménye a tárgyhónap első napján érvényes illetménye figyelembevételével a 3. melléklet
 
-## szerinti kompenzációra jogosult.
+szerinti kompenzációra jogosult.
 
 (7) Azon házas- vagy élettársak esetében, akik a 10. § szerinti nyilatkozatuk alapján az Szja tv. 29/A. és 29/B. §-a szerint családi kedvezményre két kedvezményezett eltartott után jogosultak, és az eltartottak száma három főnél kevesebb és
 

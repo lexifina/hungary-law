@@ -6,6 +6,8 @@
 
 ## 2018. évi kompenzációja ................... hónap után járó részletének elszámolásához
 
+## 7K38552_0
+
 |  |  | neve: |  |
 
 | Helyi önkormányzat | címe: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

@@ -32,20 +32,27 @@ m) a külképviseletekről és a tartós külszolgálatról szóló törvény sz
 
 a) a belügyminiszter irányítása alatt álló rendvédelmi szerveknél foglalkoztatott közalkalmazottak részére rendvédelmi ágazati pótlék megállapításáról szóló 29/2015. (VI. 15.) BM rendeletben meghatározott rendvédelmi ágazati pótlékot,
 
-b) a honvédelmi szervezeteknél foglalkoztatott közalkalmazottak részére a honvédelmi ágazatban foglalkoztatottak közalkalmazotti jogviszonyával összefüggő egyes kérdések rendezéséről szóló 27/2008. (XII. 31.) HM rendelet 11/A. §-ában meghatározott honvédelmi ágazati pótlékot, és
+b)[^2] a honvédelmi szervezeteknél foglalkoztatott közalkalmazottak részére a honvédelmi ágazatban foglalkoztatottak közalkalmazotti jogviszonyával összefüggő egyes kérdések rendezéséről szóló 27/2008. (XII. 31.) HM rendelet 11/A. §-ában meghatározott honvédelmi ágazati pótlékot,
 
-c) a Miniszterelnökséget vezető miniszter irányítása alatt álló Információs Hivatalnál foglalkoztatott közalkalmazottak részére polgári hírszerzési ágazati pótlék megállapításáról szóló 29/2015. (VI. 18.) MvM rendeletben meghatározott polgári hírszerzési ágazati pótlékot.
+c)[^3] a Miniszterelnökséget vezető miniszter irányítása alatt álló Információs Hivatalnál foglalkoztatott közalkalmazottak részére polgári hírszerzési ágazati pótlék megállapításáról szóló 29/2015. (VI. 18.) MvM rendeletben meghatározott polgári hírszerzési ágazati pótlékot, és
+
+d)[^4] az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendeletben meghatározott védőnői kiegészítő pótlékot.
 
 (4) A (2) bekezdés alkalmazásában
 
 a) az Eütev. 11/A. § (4) bekezdése alapján járó növelésnek kell tekinteni az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet [a továbbiakban: 256/2013. (VII. 5.) Korm. rendelet] 3. melléklete, 11. melléklete és 12. melléklete alapján számított összeget,
 
-b) az Eütev. 11/A. § (5) bekezdése alapján járó növelésnek kell tekinteni a 256/2013. (VII. 5.) Korm. rendelet 3. melléklete, 9. melléklete és 11. melléklete alapján számított összeget,
+b)[^5] az Eütev. 11/A. § (5) bekezdése alapján járó növelésnek kell tekinteni a 256/2013. (VII. 5.) Korm. rendelet 3. melléklete, 9. melléklete, 11. melléklete és 14. melléklete alapján számított összeget,
 
 c) az Eütev. 11/A. § (6) bekezdése alapján járó növelésnek kell tekinteni az Eütev. 11/A. § (6) bekezdése és a 256/2013. (VII. 5.) Korm. rendelet 6. melléklete, vagy az Eütev. 11/A. § (6) bekezdése és a 256/2013. (VII. 5.) Korm. rendelet 8. melléklete alapján számított összeget,
 
 d) az Eütev. 11/A. § (6a) bekezdése alapján járó növelésnek kell tekinteni az Eütev. 11/A. § (6a) bekezdése és a 256/2013. (VII. 5.) Korm. rendelet 5. melléklete alapján számított összeget,
 
-## azzal, hogy részmunkaidős foglalkoztatás esetén az a), b), c) vagy d) pont szerinti összegnek a részmunkaidő és a teljes munkaidő arányában csökkentett részét nem kell illetményként figyelembe venni.
+azzal, hogy részmunkaidős foglalkoztatás esetén az a), b), c) vagy d) pont szerinti összegnek a részmunkaidő és a teljes munkaidő arányában csökkentett részét nem kell illetményként figyelembe venni.
 
 (5) A kompenzáció a személyi jövedelemadó-előleg megállapításánál nem rendszeres jövedelemnek minősül, és a költségvetési rend szerint foglalkoztatottak egyéb személyi juttatásaiként kell elszámolni. A kifizetés a statisztikai elszámolásokban a szociális költségek között kerül figyelembevételre.
+
+[^2]: A 4. § (3) bekezdés b) pontja a 2/2018. (II. 1.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § (3) bekezdés c) pontja a 2/2018. (II. 1.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^4]: A 4. § (3) bekezdés d) pontját a 2/2018. (II. 1.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^5]: A 4. § (4) bekezdés b) pontja a 2/2018. (II. 1.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
