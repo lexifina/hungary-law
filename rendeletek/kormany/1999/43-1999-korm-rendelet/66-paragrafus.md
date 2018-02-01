@@ -1,3 +1,3 @@
-## 65. §[^572]
+66. §[^573]
 
-[^572]: A 65. §-t a 259/2012. (IX. 14.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § h) pontja.
+[^573]: A 66. §-t a 288/2012. (X. 11.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § h) pontja.

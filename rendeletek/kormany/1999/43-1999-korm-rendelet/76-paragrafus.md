@@ -4,7 +4,10 @@
 
 (2) A Módr3. által megállapított 28/B. § (2a) bekezdésében foglaltakat a 2013. január 1-jétől a Módr3. hatálybalépéséig[^585] terjedő időszakra járó díjazás tekintetében is alkalmazni kell.
 
+76. §[^586]
+
 [^582]: A 75. §-t a 125/2013. (IV. 26.) Korm. rendelet 3. §-a iktatta be.
 [^583]: A hatálybalépés időpontja 2013. április 27.
 [^584]: A 76. §-t a 254/2013. (VII. 5.) Korm. rendelet 25. §-a iktatta be.
 [^585]: A hatálybalépés időpontja 2013. július 6.
+[^586]: A második 76. §-t a 256/2013. (VII. 5.) Korm. rendelet 14. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § k) pontja.

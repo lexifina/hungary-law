@@ -140,4 +140,6 @@
 
 6/C. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^621]
 
+A járóbeteg-szakellátás fix díja
+
 [^621]: A 6/C. számú mellékletet a 464/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdése iktatta be.

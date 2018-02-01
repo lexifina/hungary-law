@@ -4,7 +4,7 @@ a) biztosított, azonban az adott szolgálathoz nem jelentkezett be, vagy
 
 b)[^129] nemzetközi egyezmény, vagy a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján jogosult az ellátásra [a továbbiakban a)–b) együtt: eseti ellátás],
 
-## a szolgáltató a (3)–(5) bekezdésben meghatározottak szerint részesül az E. Alapból díjazásban.
+a szolgáltató a (3)–(5) bekezdésben meghatározottak szerint részesül az E. Alapból díjazásban.
 
 (2) Az (1) bekezdést alkalmazni kell a helyettesítés során is, kivéve, ha az ellátott biztosított a helyettesítő, illetőleg a helyettesített praxisba bejelentkezett.
 

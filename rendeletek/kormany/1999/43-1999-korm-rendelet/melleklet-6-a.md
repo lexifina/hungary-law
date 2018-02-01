@@ -1,4 +1,4 @@
-|  |  |  |  | Millió forint |
+## Millió forint
 
 | Megnevezés | 2018. évi előirányzat |
 
@@ -48,7 +48,7 @@
 
 |  |  | Tervezett külföldi ellátások orvosi felülvizsgálata | 20,0 |
 
-|  |  | Egészségügyi dolgozók 2018. november havi béremelésének fedezete | 1 646,4 |
+|  |  | Egészségügyi dolgozók 2018. évi béremelésének fedezete | 20 719,2 |
 
 |  |  | Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete | 1 410,3 |
 
@@ -56,7 +56,7 @@
 
 |  |  | Fiatal szakorvosok támogatása | 2 381,1 |
 
-| 13. | Célelőirányzatok összesen | 17 500,1 |
+| 13. | Célelőirányzatok összesen | 36 572,9 |
 
 | 15. | Mentés | 42 984,7 |
 
@@ -66,9 +66,9 @@
 
 |  |  | Járóbeteg-szakellátás | 170 537,6 |
 
-|  |  | Fekvőbeteg-szakellátás | 588 249,4 |
+|  |  | Fekvőbeteg-szakellátás | 590 249,4 |
 
-|  |  | aktív fekvőbeteg-szakellátás | 495 969,8 |
+|  |  | aktív fekvőbeteg-szakellátás | 497 969,8 |
 
 |  |  | krónikus fekvőbeteg-szakellátás | 85 844,8 |
 
@@ -82,7 +82,7 @@
 
 |  |  | Speciális finanszírozású szakellátás | 42 653,4 |
 
-| 18. | Összevont szakellátás összesen | 877 440,4 |
+| 18. | Összevont szakellátás összesen | 879 440,4 |
 
 | 19. | Népegészségügy fejlesztése | 1 703,3 |
 
@@ -90,11 +90,13 @@
 
 | 21. | Gyógyító-megelőző ellátás céltartalék | 12 438,0 |
 
-| ÖSSZESEN | 1 207 945,1 |
+| ÖSSZESEN | 1 229 017,9 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^619]
 
-## Ambuláns adatlap
+Ambuláns adatlap
+
+7K38861M_0
 
 | 1. Javítás: |  | 2. Eredeti dátum: |  |  |  |  |  |  |  |  |
 

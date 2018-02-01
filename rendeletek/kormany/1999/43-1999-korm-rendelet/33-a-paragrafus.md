@@ -2,7 +2,7 @@
 
 (2)[^411] A szolgáltató az elvégzett mentési feladatokról a 23. számú melléklet szerinti adattartalommal havonta, a tárgyhónapot követő hónap 5. munkanapjáig jelentést küld a NEAK-nak.
 
-(2a)[^412] A légimentési tevékenység finanszírozása havi 82,533 millió forint fix összegű díjjal történik az 5. számú melléklet szerinti 15. Mentés előirányzat terhére. A szolgáltató az elvégzett mentési feladatokról a 23. számú melléklet szerinti adattartalommal havonta, a tárgyhónapot követő hónap 5. munkanapjáig jelentést küld a NEAK-nak.
+(2a)[^412] A légimentési tevékenység finanszírozása havi 90,0 millió forint fix összegű díjjal történik az 5. számú melléklet szerinti 15. Mentés előirányzat terhére. A szolgáltató az elvégzett mentési feladatokról a 23. számú melléklet szerinti adattartalommal havonta, a tárgyhónapot követő hónap 5. munkanapjáig jelentést küld a NEAK-nak.
 
 (3)[^413] A szervátültetést végző orvos vagy munkacsoport, a szerv és a vérminta szállításának díjazása havi 6 millió forint fix összegű díjjal történik az 5. számú melléklet szerinti Mentés előirányzat terhére. A szolgáltató az elvégzett szállítási feladatokról a 32. számú melléklet szerinti adattartalommal havonta, a tárgyhónapot követő hónap 5. munkanapjáig jelentést küld a NEAK-nak.
 
@@ -11,6 +11,6 @@
 [^409]: A 33/A. §-t a 264/2003. (XII. 24.) Korm. rendelet 15. §-a iktatta be, e módosító rendelet 27. §-ának (14) bekezdése alapján az Országos Mentőszolgálaton és a Kormány által alapított közalapítványon kívül mentési feladatot végző szolgáltatók 2004. június 1-jétől történő finanszírozására az OEP pályázatot ír ki a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet 21. §-ának (2) bekezdésében meghatározott előirányzat fennmaradó részére.
 [^410]: A 33/A. § (1) bekezdése a 329/2005. (XII. 29.) Korm. rendelet 16. § (5) bekezdésének a) pontja, a 298/2008. (XII. 12.) Korm. rendelet 4. § (3) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
 [^411]: A 33/A. § (2) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 28. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 11. pontja szerint módosított szöveg.
-[^412]: A 33/A. § (2a) bekezdését a 13/2012. (II. 14.) Korm. rendelet 12. §-a iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 28. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 39. § j) pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 11. pontja, a 464/2016. (XII. 23.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
+[^412]: A 33/A. § (2a) bekezdését a 13/2012. (II. 14.) Korm. rendelet 12. §-a iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^413]: A 33/A. § (3) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 22. §-a iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 28. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 39. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 11. pontja szerint módosított szöveg.
 [^414]: A 33/A. § (4) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 22. §-a iktatta be.
