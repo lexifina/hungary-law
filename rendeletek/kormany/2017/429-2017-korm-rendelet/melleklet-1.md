@@ -1,3 +1,5 @@
+## „(10) A külpolitikáért felelős miniszter által vezetett minisztérium kormánytisztviselője jogosult az anyakönyvi kivonat kiállítására irányuló kérelem esetén eljárni.”
+
 1. melléklet a 429/2017. (XII. 20.) Korm. rendelethez
 
 ## Az anyakönyvi feladatok ellátásához szükséges tárgyi feltételek
