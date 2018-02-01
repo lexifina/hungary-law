@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-102-00-00
 | 2017-05-30 | 2017. évi XLII. törvény | 2013-102-00-00.12 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2013-102-00-00.13 |
 | 2018-01-01 | 2017. évi XLII. törvény | 2013-102-00-00.14 |
+| 2018-02-01 | 2017. évi CCV. törvény | 2013-102-00-00.15 |
