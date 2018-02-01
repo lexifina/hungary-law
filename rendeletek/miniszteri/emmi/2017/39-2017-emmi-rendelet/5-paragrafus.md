@@ -1,6 +1,5 @@
-## 4. §[^1]
+## 4. § A 2. § (1) bekezdésében az „– a népi előadó-művészeti alkotások kivételével – alkotásonként” szövegrész helyébe az „alkotásonként” szöveg lép.
 
 5. §[^2]
 
-[^1]: A 4. § a 3. § (2) bekezdése alapján 2018. február 1-jén lép hatályba.
 [^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
