@@ -1,6 +1,6 @@
 6. § (1) Továbbképzésnek minősül a továbbképzési időszakban
 
-a)[^10] a vámjogi szakértői hatósági képzésről és hatósági vizsgáról szóló 40/2016. (XI. 17.) NGM rendelet (a továbbiakban: Képzési Rendelet) szerinti képző szervek által szervezett, és a Képzési Rendelet 17. §-a szerinti Vámjogi Szakértői Hatósági Képzési Bizottság (a továbbiakban: Bizottság) által kreditpontra minősített továbbképzési program,
+a)[^11] a vámjogi szakértői hatósági képzésről és hatósági vizsgáról szóló 40/2016. (XI. 17.) NGM rendelet (a továbbiakban: Képzési Rendelet) szerinti képző szervek által szervezett, és a Képzési Rendelet 17. §-a szerinti Vámjogi Szakértői Hatósági Képzési Bizottság (a továbbiakban: Bizottság) által kreditpontra minősített továbbképzési program,
 
 b) a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet (a továbbiakban: Korm. rendelet) szerint akkreditált továbbképző szervezetnek a Képzési Rendelet 1. mellékletében foglalt vizsgatárgykörök szakmai tartalmát a teljes továbbképzési program legalább 25%-ában megjelenítő továbbképzési programja, amelynek e rendelet szerinti kreditpont értékére a Bizottság a (6) bekezdés szerinti minősítési eljárásában tesz javaslatot.
 
@@ -20,4 +20,4 @@ c) a Korm. rendelet 10/D. § (2b) bekezdésében meghatározott akkreditációs 
 
 (6) Az (1) bekezdés b) pontja szerinti továbbképzések esetén a Korm. rendelet szerint akkreditált továbbképző szervezet továbbképzési programjának a Korm. rendelet 10/D. §-a szerinti kreditpont-minősítési eljárás során a Bizottság végzi el a Korm. rendelet 10/D. § (2) bekezdése szerinti értékelést vámszakmai szempontból és az e rendelet szerinti kreditpont-értékről javaslatot tesz a nyilvántartást végző szervezetnek.
 
-[^10]: A 6. § (1) bekezdés a) pontja a 48/2017. (XII. 29.) NGM rendelet 22. § f) pontja szerint módosított szöveg.
+[^11]: A 6. § (1) bekezdés a) pontja a 48/2017. (XII. 29.) NGM rendelet 22. § f) pontja szerint módosított szöveg.
