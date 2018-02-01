@@ -112,4 +112,4 @@
 
 54. a fogyasztói vezeték üzembe helyezésének megtagadása esetén az eljáró műszaki biztonsági hatóságot, valamint a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása szabályait.
 
-55.
+55. készülékcsere gázszerelésének műszaki-biztonsági szempontú ellenőrzését végző tervező mérnök felelősségbiztosítására vonatkozó rendelkezéseket.
