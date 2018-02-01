@@ -1,4 +1,4 @@
-## 10. §[^6]
+## 10. §[^8]
 
 1. melléklet a 174/2017. (VI. 30.) Korm. rendelethez
 
@@ -44,4 +44,4 @@
 
 21. Ungvári Főkonzulátus
 
-[^6]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

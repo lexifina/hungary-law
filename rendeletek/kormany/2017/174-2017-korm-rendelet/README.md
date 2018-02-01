@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-174-20-
 | 2017-07-02 | 2017-174-20-22.2 | 2010: CXXX. törvény |
 | 2017-10-01 | 2017-174-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-01-01 | 2017-174-20-22.4 | 429/2017. (XII. 20.) Korm. rendelet |
+| 2018-02-01 | 2017-174-20-22.5 | 429/2017. (XII. 20.) Korm. rendelet |
