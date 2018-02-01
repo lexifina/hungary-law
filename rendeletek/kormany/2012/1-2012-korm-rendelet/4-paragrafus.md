@@ -2,7 +2,7 @@
 
 (2)[^7] A hallgatói hitel mindaddig nem folyósítható a hitelfelvevő részére, amíg a hitelfelvevőnek lejárt hallgatói hiteltartozása áll fenn.
 
-(3)[^8] A Diákhitel szervezet nem folyósítja a hallgatói hitelt a hitelfelvevő részére a 40. életéve betöltésének időpontját soron követő tanulmányi félévtől.
+(3)[^8] A Diákhitel szervezet nem folyósítja a hallgatói hitelt a hitelfelvevő részére a 45. életéve betöltésének időpontját soron követő tanulmányi félévtől.
 
 (4) A Diákhitel szervezet az (1) bekezdésben meghatározott jogosultsági időt a hallgatói hitelrendszer stabilitásának veszélyeztetése nélkül a 6. §-ban foglalt szakértői felülvizsgálatok és számítások alapulvételével megváltoztathatja, azonban az egyes hitelfelvevőkre az (1) bekezdésében meghatározott időnél alacsonyabb mértékben nem állapíthatja meg.
 
@@ -10,4 +10,4 @@
 
 [^6]: A 4. § (1) bekezdése a 293/2014. (XI. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: A 4. § (2) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^8]: A 4. § (3) bekezdése a 293/2014. (XI. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^8]: A 4. § (3) bekezdése a 290/2017. (IX. 28.) Korm. rendelet 1. §-ával megállapított szöveg.

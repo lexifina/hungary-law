@@ -1,6 +1,6 @@
 ## 8. A hallgatói hitelszerződés alapján fennálló tartozás törlesztése
 
-14. § (1)[^23] A hallgatói hitelszerződés alapján fennálló tartozás törlesztésére és behajtására az e rendeletben meghatározott szabályok, továbbá – a végrehajtáshoz való jog elévülési idejére vonatkozó rendelkezések kivételével – az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényben (a továbbiakban: Avt.) meghatározott rendelkezések az irányadóak. A végrehajtáshoz való jog a végrehajtandó követeléssel együtt évül el, a végrehajtáshoz való jog elévülését bármely végrehajtási cselekmény megszakítja. A törlesztési kötelezettség kezdete – a 23. § (3) bekezdésében, valamint a 32. §-ban foglaltak kivételével – a hallgatói jogviszony megszűnésének, legkésőbb azonban a 40. életév betöltésének időpontját követő negyedik hónap első napja.
+14. § (1)[^23] A hallgatói hitelszerződés alapján fennálló tartozás törlesztésére és behajtására az e rendeletben meghatározott szabályok, továbbá – a végrehajtáshoz való jog elévülési idejére vonatkozó rendelkezések kivételével – az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényben (a továbbiakban: Avt.) meghatározott rendelkezések az irányadóak. A végrehajtáshoz való jog a végrehajtandó követeléssel együtt évül el, a végrehajtáshoz való jog elévülését bármely végrehajtási cselekmény megszakítja. A törlesztési kötelezettség kezdete – a 23. § (3) bekezdésében, valamint a 32. §-ban foglaltak kivételével – a hallgatói jogviszony megszűnésének, legkésőbb azonban a 45. életév betöltésének időpontját követő negyedik hónap első napja.
 
 (2) A hallgatói hitel törlesztőrészletének alapja – a (3) bekezdésben szabályozott esetet kivéve – a tárgyévet megelőző második évben:
 
@@ -18,7 +18,7 @@ c) az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi
 
 a) 6%-a szabad felhasználású hitelt igénybe vett hitelfelvevők esetében,
 
-b)[^24] kötött felhasználású hitel igénybevétele esetén a teljes hiteltartozás – a hallgatói jogviszony megszűnése napján, illetve ha a törlesztési kötelezettség ismételt hallgatói jogviszony miatt ezt követően szünetelt, annak ismételt megszűnése napján, vagy legkésőbb a 40. életév betöltés napján fennálló – összegétől függő legalább 4%-os, legfeljebb a 6. § (4) bekezdés szerinti felülvizsgálat alapján megállapított %-os mértéke.
+b)[^24] kötött felhasználású hitel igénybevétele esetén a teljes hiteltartozás – a hallgatói jogviszony megszűnése napján, illetve ha a törlesztési kötelezettség ismételt hallgatói jogviszony miatt ezt követően szünetelt, annak ismételt megszűnése napján, vagy legkésőbb a 45. életév betöltés napján fennálló – összegétől függő legalább 4%-os, legfeljebb a 6. § (4) bekezdés szerinti felülvizsgálat alapján megállapított %-os mértéke.
 
 (5a)[^25] A Diákhitel szervezet a kötött felhasználású hitel esetén az egyes teljes hiteltartozáshoz tartozó törlesztési hányadokat köteles évente, a 6. § (4) bekezdése szerinti aktuáriusi vizsgálatot követően – a tanulmányi év megkezdése előtt legalább 7 nappal – két országos napilapban, honlapján, valamint hirdetményként a felsőoktatási intézményben közzétenni.
 
@@ -34,8 +34,8 @@ b)[^24] kötött felhasználású hitel igénybevétele esetén a teljes hitelta
 
 (11)[^30] A Diákhitel szervezet által a hitelfelvevő részére a (10) bekezdés szerint engedélyezett mérsékelt összegű törlesztő részlet összege nem lehet kevesebb a (4)–(5) bekezdés és a 33. § figyelembevételével meghatározott minimális törlesztő részlet összegénél.
 
-[^23]: A 14. § (1) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 49. §-ával megállapított szöveg.
-[^24]: A 14. § (5) bekezdés b) pontja a 224/2012. (VIII. 15.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 293/2014. (XI. 26.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^23]: A 14. § (1) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 49. §-ával megállapított, a 290/2017. (IX. 28.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^24]: A 14. § (5) bekezdés b) pontja a 224/2012. (VIII. 15.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 290/2017. (IX. 28.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^25]: A 14. § (5a) bekezdését a 224/2012. (VIII. 15.) Korm. rendelet 6. § (2) bekezdése iktatta be.
 [^26]: A 14. § (7) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 50. § 2. pontja szerint módosított szöveg.
 [^27]: A 14. § (8) bekezdése a 293/2014. (XI. 26.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
