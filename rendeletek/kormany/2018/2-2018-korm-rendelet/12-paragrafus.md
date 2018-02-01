@@ -1,0 +1,1 @@
+## 11. § Nem lép hatályba az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet módosításáról szóló 461/2016. (XII. 23.) Korm. rendelet 11. §-a, valamint 12. és 13. melléklete.
