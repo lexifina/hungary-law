@@ -1,4 +1,4 @@
-## 7K27408M_1
+## 8K00164M_1
 
 | Ellátás | Munkakör/fő |
 
@@ -16,43 +16,19 @@
 
 | 2. Gyermekotthon és kizárólag menekültként elismert, kísérő nélküli kiskorúakat ellátó gyermekotthon [369/2013. (X. 24.) Korm. rendelet 1. melléklet 3.1.29.2.8.1. pontja] (max. 48 férőhely, max. 12 gyermek/csoport) | intézményvezető | 1 fő |
 
-| gyermekcsoportonként | nevelő | 1 fő |
+| gyermekcsoportonként | nevelő gyermekvédelmi asszisztens gyermekfelügyelő (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra vonatkozó összlétszám 5 alá nem kerül) | 1 fő 1 fő 3 fő |
 
-|  | gyermekvédelmi asszisztens | 1 fő |
+| Gyermekotthon speciális gyermekotthoni csoportjában | további nevelő vagy gyermekfelügyelő | 1 fő |
 
-|  | gyermekfelügyelő | 3 fő |
+| 2/a) Lakásotthon (max. 12 fő) | nevelő gyermekvédelmi asszisztens gyermekfelügyelő (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra vonatkozó összlétszám 5 alá nem kerül) | 1 fő 1 fő 3 fő |
 
-|  | (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, |  |
+| Speciális lakásotthon (max. 8 fő) | további nevelő vagy gyermekfelügyelő | 1 fő |
 
-|  | illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra |  |
+| 2/b) Speciális gyermekotthon (max. 40 férőhely, max. 8 gyermek/csoport) | intézményvezető | 1 fő |
 
-|  | vonatkozó összlétszám 5 alá nem kerül) |  |
+| gyermekcsoportonként | nevelő gyermekvédelmi asszisztens gyermekfelügyelő (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra vonatkozó összlétszám 5 alá nem kerül) további nevelő vagy gyermekfelügyelő | 2 fő 1 fő 2 fő 1 fő |
 
-| 2/a) Lakásotthon (max. 12 fő) | nevelő | 1 fő |
-
-|  | gyermekvédelmi asszisztens | 1 fő |
-
-|  | gyermekfelügyelő | 3 fő |
-
-|  | (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, |  |
-
-|  | illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra vonatkozó összlétszám 5 alá nem kerül) |  |
-
-| 2/b) Speciális gyermekotthon (max. 40 férőhely, max. 8 gyermek/csoport) gyermekcsoportonként | intézményvezető nevelő | 1 fő 2 fő |
-
-|  | gyermekvédelmi asszisztens | 1 fő |
-
-|  | gyermekfelügyelő | 2 fő |
-
-|  | (ha a nevelők száma magasabb, a gyermekvédelmi asszisztensek, illetve a gyermekfelügyelők száma csökkenthető, ha a csoportra vonatkozó összlétszám 5 alá nem kerül) |  |
-
-|  | pszichológus | 1 fő/3 csoport |
-
-|  | gyógypedagógus vagy fejlesztő pedagógus | 1 fő/3 csoport |
-
-|  | orvos (létszámuk fenntartói döntés alapján kerül megállapításra) |  |
-
-|  | növendékügyi előadó vagy gyermekvédelmi ügyintéző | 1 fő/intézmény |
+|  | pszichológus gyógypedagógus vagy fejlesztő pedagógus orvos (létszámuk fenntartói döntés alapján kerül megállapításra) növendékügyi előadó vagy gyermekvédelmi ügyintéző | 1 fő/3 csoport 1 fő/3 csoport 1 fő/intézmény |
 
 | 2/c) Különleges gyermekotthon (max. 40 férőhely) | intézményvezető | 1 fő |
 
@@ -116,6 +92,6 @@
 
 | * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok száma (házaspár egynek számít), folyamatban lévő örökbefogadások (beleértve a más megyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését), a nyílt örökbefogadás előkészítésének száma, valamint az örökbefogadás kötelező és önkéntes utánkövetésének száma. |
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^499]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^541]
 
-[^499]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (2) és (4) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 17. § (2) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (2) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (2) és (3) bekezdése, a 46/2015. (X. 12.) EMMI rendelet 6. § (2) bekezdése, az 55/2015. (XI. 30.) EMMI rendelet 10. § (2) bekezdése, a 6/2016. (III. 24.) EMMI rendelet 5. § (1) bekezdése és (2) bekezdés b) pontja, az 1/2017. (II. 14.) EMMI rendelet 23. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^541]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított szöveg.

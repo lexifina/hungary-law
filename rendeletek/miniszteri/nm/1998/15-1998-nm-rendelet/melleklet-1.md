@@ -1,10 +1,10 @@
-1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^498]
+1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^540]
 
 A gyermekjóléti és gyermekvédelmi személyes gondoskodás formáinak szakmai létszám irányszámai és létszámminimum normái
 
 I. Alapellátások
 
-## 7K27408M_0
+## 8K00164M_0
 
 | Ellátás | Munkakör/fő |
 
@@ -64,16 +64,14 @@ I. Alapellátások
 
 | 7. | Családok átmeneti otthona (min. 12, max. 40 férőhely) | intézményvezető/szakmai vezető | 1 fő |
 
-|  | 12-25 férőhelyre | szakgondozó, gondozó | 3 fő |
+|  | 12–25 férőhelyre | szakgondozó, gondozó családgondozó | 3 fő 2 fő |
 
-|  |  | családgondozó | 2 fő |
-
-|  | 25-40 férőhelyre | szakgondozó, gondozó | 4 fő |
-
-|  |  | családgondozó | 2 fő |
+|  | 25–40 férőhelyre | szakgondozó, gondozó családgondozó | 4 fő 2 fő |
 
 |  | intézményenként | pszichológiai tanácsadó, jogász, fejlesztő pedagógiai tanácsadó (az ellátottak szükségletei szerint, fenntartói döntés alapján) | összesen heti 10 óra |
 
+|  | külső férőhely | családgondozó | heti 4 óra/ külső férőhelyen elhelyezett család |
+
 II. Szakellátások
 
-[^498]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) és (3) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 16. §-a és 17. § (1) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (1) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (1) bekezdése, a 46/2015. (X. 12.) EMMI rendelet 6. § (1) bekezdése, az 55/2015. (XI. 30.) EMMI rendelet 10. § (1) bekezdése, a 6/2016. (III. 24.) EMMI rendelet 5. § (2) bekezdés a) pontja, az 1/2017. (II. 14.) EMMI rendelet 23. § (1) bekezdés a) pontja, a 19/2017. (IX. 18.) EMMI rendelet 6. § g) pontja szerint módosított szöveg.
+[^540]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) és (3) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 16. §-a és 17. § (1) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (1) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (1) bekezdése, a 46/2015. (X. 12.) EMMI rendelet 6. § (1) bekezdése, az 55/2015. (XI. 30.) EMMI rendelet 10. § (1) bekezdése, a 6/2016. (III. 24.) EMMI rendelet 5. § (2) bekezdés a) pontja, az 1/2017. (II. 14.) EMMI rendelet 23. § (1) bekezdés a) pontja, a 19/2017. (IX. 18.) EMMI rendelet 6. § g) pontja, a 2/2018. (I. 18.) EMMI rendelet 29. § (1) bekezdése szerint módosított szöveg.

@@ -1,6 +1,6 @@
-137. § (1)[^352] A gyermek gondozási helyének meghatározása érdekében a szakszolgálat által működtetett megyei bizottság – a gyámhivatal megkeresésére – a gyermekre vonatkozóan szakmai véleményt ad, és javaslatot tesz az elhelyezés formájára. A szakszolgálat ennek alapján készíti el az elhelyezési javaslatot.
+137. § (1)[^391] A gyermek gondozási helyének meghatározása érdekében a szakszolgálat által működtetett megyei bizottság – a gyámhivatal megkeresésére – a gyermekre vonatkozóan szakmai véleményt ad, és javaslatot tesz az elhelyezés formájára. A szakszolgálat ennek alapján készíti el az elhelyezési javaslatot.
 
-(2)[^353] A szakmai vélemény elkészítéséhez el kell végezni a gyermek személyiségvizsgálatát, melynek célja a gyermek egészségi, illetve személyiségállapotának meghatározása.
+(2)[^392] A szakmai vélemény elkészítéséhez el kell végezni a gyermek személyiségvizsgálatát, melynek célja a gyermek egészségi, illetve személyiségállapotának meghatározása.
 
 (3) A vizsgálat keretében
 
@@ -8,35 +8,35 @@ a) az egészségügyi vizsgálat megállapítja a testi fejlettséget, az esetle
 
 b) a pedagógiai és pszichológiai vizsgálat a rendelkezésre álló adatok és dokumentáció, valamint a gyermek megfigyelése, és megfelelő vizsgálati módszerek segítségével megállapítja a gyermek értelmi képességeinek szintjét, valamint személyiségfejlettségének fokát, neveltségi állapotát, továbbá a személyiségfejlődés, illetőleg a magatartás esetleges zavarainak okát és természetét.
 
-(4)[^354] A (3) bekezdés szerinti részvizsgálatok elvégzésétől akkor lehet eltekinteni, ha két hónapnál nem régebbi vizsgálati eredmény áll rendelkezésre. A vizsgálatok eredményei alapján a megyei bizottság szakmai véleményt készít.
+(4)[^393] A (3) bekezdés szerinti részvizsgálatok elvégzésétől akkor lehet eltekinteni, ha két hónapnál nem régebbi vizsgálati eredmény áll rendelkezésre. A vizsgálatok eredményei alapján a megyei bizottság szakmai véleményt készít.
 
-(5)[^355] Fogyatékos gyermek esetében a megyei bizottság beszerzi az értelmi, testi, illetve érzékszervi fogyatékosságot megállapító, a nemzeti köznevelésről szóló törvény szerinti szakvéleményt.
+(5)[^394] Fogyatékos gyermek esetében a megyei bizottság beszerzi az értelmi, testi, illetve érzékszervi fogyatékosságot megállapító, a nemzeti köznevelésről szóló törvény szerinti szakvéleményt.
 
-(6)[^356]
+(6)[^395]
 
-(7)[^357] Ha a megyei bizottság a központi speciális gyermekotthonban történő elhelyezésre tesz javaslatot, a szakszolgálat – a megyei bizottság szakmai véleményének egyidejű megküldésével és a gyermekvédelmi gyám, valamint a gyámhivatal tájékoztatása mellett – értesíti az országos bizottságot, és felkéri szakmai vélemény elkészítésére.
+(7)[^396] Ha a megyei bizottság a központi speciális gyermekotthonban történő elhelyezésre tesz javaslatot, a szakszolgálat – a megyei bizottság szakmai véleményének egyidejű megküldésével és a gyermekvédelmi gyám, valamint a gyámhivatal tájékoztatása mellett – értesíti az országos bizottságot, és felkéri szakmai vélemény elkészítésére.
 
-(8)[^358] Ha az országos bizottság szakmai véleménye alapján is indokolt a gyermek gondozási helyeként a központi speciális gyermekotthont kijelölni, a szakszolgálat erre irányuló javaslatot tesz a gyámhivatalnak, melyről tájékoztatja a gyermekvédelmi gyámot. Ha az országos bizottság szakmai véleménye szerint nem indokolt, vagy férőhely hiányában nem lehetséges a központi speciális gyermekotthonban történő elhelyezés, a szakszolgálat más, a gyermek állapotának megfelelő gondozási helyre tesz javaslatot a gyámhivatal számára, melyről értesíti a gyermekvédelmi gyámot.
+(8)[^397] Ha az országos bizottság szakmai véleménye alapján is indokolt a gyermek gondozási helyeként a központi speciális gyermekotthont kijelölni, a szakszolgálat erre irányuló javaslatot tesz a gyámhivatalnak, melyről tájékoztatja a gyermekvédelmi gyámot. Ha az országos bizottság szakmai véleménye szerint nem indokolt, vagy férőhely hiányában nem lehetséges a központi speciális gyermekotthonban történő elhelyezés, a szakszolgálat más, a gyermek állapotának megfelelő gondozási helyre tesz javaslatot a gyámhivatal számára, melyről értesíti a gyermekvédelmi gyámot.
 
-(8a)[^359] Ha a gyámhivatal a speciális gyermekotthont, a speciális lakásotthont, a gyermekotthon speciális csoportját vagy a központi speciális gyermekotthont határozta meg a gyermek gondozási helyéül, az elhelyezés időtartamának lejártát megelőzően legalább 3 hónappal a szakszolgálat kikéri a megyei, fővárosi gyermekvédelmi szakértői bizottság, illetve az országos bizottság, valamint a gyermekvédelmi gyám indokolással ellátott javaslatát a gondozási hely fenntartásának – a Gyvt. 58. § (4) bekezdése szerinti – szükségességéről.
+(8a)[^398] Ha a gyámhivatal a speciális gyermekotthont, a speciális lakásotthont, a gyermekotthon speciális csoportját vagy a központi speciális gyermekotthont határozta meg a gyermek gondozási helyéül, az elhelyezés időtartamának lejártát megelőzően legalább 3 hónappal a szakszolgálat kikéri a megyei, fővárosi gyermekvédelmi szakértői bizottság, illetve az országos bizottság, valamint a gyermekvédelmi gyám indokolással ellátott javaslatát a gondozási hely fenntartásának – a Gyvt. 58. § (4) bekezdése szerinti – szükségességéről.
 
-(9)[^360] Az elhelyezési javaslat előkészítése során a szakszolgálat figyelembe veszi a gyámhivatal által rendelkezésére bocsátott, az esetleges korábbi gyermekvédelmi gondoskodásra vonatkozó iratokat, valamint az ideiglenes hatállyal elhelyezett gyermeket befogadó nevelőszülői hálózat, a gyermekotthon vagy az Szt. hatálya alá tartozó intézmény vezetőjének írásos összefoglalóját a gyermekkel kapcsolatos tapasztalatairól.
+(9)[^399] Az elhelyezési javaslat előkészítése során a szakszolgálat figyelembe veszi a gyámhivatal által rendelkezésére bocsátott, az esetleges korábbi gyermekvédelmi gondoskodásra vonatkozó iratokat, valamint az ideiglenes hatállyal elhelyezett gyermeket befogadó nevelőszülői hálózat, a gyermekotthon vagy az Szt. hatálya alá tartozó intézmény vezetőjének írásos összefoglalóját a gyermekkel kapcsolatos tapasztalatairól.
 
-(10)[^361] Az elhelyezési javaslatot a szakszolgálat a Gyvt. 79. § (3) és (4) bekezdésében meghatározott szempontok figyelembevételével készíti el, és kiemelt figyelmet fordít arra, hogy a különleges ellátást, speciális ellátást, valamint a különleges és speciális ellátást együttesen igénylő gyermek hozzájusson az állapotának megfelelő ellátáshoz. Több telephellyel működő gyermekotthon esetében az elhelyezési javaslatot telephelyekre vonatkozóan kell megtenni.
+(10)[^400] Az elhelyezési javaslatot a szakszolgálat a Gyvt. 79. § (3) és (4) bekezdésében meghatározott szempontok figyelembevételével készíti el, és kiemelt figyelmet fordít arra, hogy a különleges ellátást, speciális ellátást, valamint a különleges és speciális ellátást együttesen igénylő gyermek hozzájusson az állapotának megfelelő ellátáshoz. Több telephellyel működő gyermekotthon esetében az elhelyezési javaslatot telephelyekre vonatkozóan kell megtenni.
 
-(11)[^362] A javasolni kívánt gondozási helyet a gyermek lakóhelyéhez igazodóan, elsősorban az adott megyén (a fővároson) belül kell meghatározni, kivéve, ha a gyermek érdekében más gondozási hely megállapítása látszik indokoltnak.
+(11)[^401] A javasolni kívánt gondozási helyet a gyermek lakóhelyéhez igazodóan, elsősorban az adott megyén (a fővároson) belül kell meghatározni, kivéve, ha a gyermek érdekében más gondozási hely megállapítása látszik indokoltnak.
 
-(12)[^363] Az elhelyezési javaslatot a gyermekvédelmi nyilvántartás megfelelő adatlapjának kitöltésével kell elkészíteni. Az elhelyezési javaslatot a megkereséstől számított 20 napon belül kell a gyámhivatal részére megküldeni.
+(12)[^402] Az elhelyezési javaslatot a gyermekvédelmi nyilvántartás megfelelő adatlapjának kitöltésével kell elkészíteni. Az elhelyezési javaslatot a megkereséstől számított 20 napon belül kell a gyámhivatal részére megküldeni.
 
-[^352]: A 137. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 81. § (1) bekezdésével megállapított, a 19/2014. (III. 13.) EMMI rendelet 38. § e) pontja szerint módosított szöveg.
-[^353]: A 137. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 38. § j) pontja szerint módosított szöveg.
-[^354]: A 137. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 81. § (2) bekezdésével megállapított, a 19/2014. (III. 13.) EMMI rendelet 38. § e) pontja szerint módosított szöveg.
-[^355]: A 137. § (5) bekezdése a 26/2013. (III. 29.) EMMI rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^356]: A 137. § (6) bekezdését a 26/2013. (III. 29.) EMMI rendelet 36. § e) pontja hatályon kívül helyezte.
-[^357]: A 137. § (7) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 19. §-ával megállapított, a 19/2014. (III. 13.) EMMI rendelet 38. § h) és j) pontja szerint módosított szöveg.
-[^358]: A 137. § (8) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 19. §-ával megállapított, a 19/2014. (III. 13.) EMMI rendelet 38. § k) pontja szerint módosított szöveg.
-[^359]: A 137. § (8a) bekezdését a 19/2014. (III. 13.) EMMI rendelet 22. §-a iktatta be.
-[^360]: A 137. § (9) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 81. § (2) bekezdésével megállapított, a 26/2013. (III. 29.) EMMI rendelet 37. § 18. pontja szerint módosított szöveg.
-[^361]: A 137. § (10) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 81. § (2) bekezdése iktatta be, szövege a 26/2013. (III. 29.) EMMI rendelet 37. § 19. pontja, a 19/2014. (III. 13.) EMMI rendelet 38. § l) pontja szerint módosított szöveg.
-[^362]: A 137. § (11) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 81. § (2) bekezdése iktatta be, szövege a 26/2013. (III. 29.) EMMI rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^363]: A 137. § (12) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 81. § (2) bekezdése iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 37. § g) pontja szerint módosított szöveg.
+[^391]: A 137. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 81. § (1) bekezdésével megállapított, a 19/2014. (III. 13.) EMMI rendelet 38. § e) pontja szerint módosított szöveg.
+[^392]: A 137. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 38. § j) pontja szerint módosított szöveg.
+[^393]: A 137. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 81. § (2) bekezdésével megállapított, a 19/2014. (III. 13.) EMMI rendelet 38. § e) pontja szerint módosított szöveg.
+[^394]: A 137. § (5) bekezdése a 26/2013. (III. 29.) EMMI rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^395]: A 137. § (6) bekezdését a 26/2013. (III. 29.) EMMI rendelet 36. § e) pontja hatályon kívül helyezte.
+[^396]: A 137. § (7) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 19. §-ával megállapított, a 19/2014. (III. 13.) EMMI rendelet 38. § h) és j) pontja szerint módosított szöveg.
+[^397]: A 137. § (8) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 19. §-ával megállapított, a 19/2014. (III. 13.) EMMI rendelet 38. § k) pontja szerint módosított szöveg.
+[^398]: A 137. § (8a) bekezdését a 19/2014. (III. 13.) EMMI rendelet 22. §-a iktatta be.
+[^399]: A 137. § (9) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 81. § (2) bekezdésével megállapított, a 26/2013. (III. 29.) EMMI rendelet 37. § 18. pontja szerint módosított szöveg.
+[^400]: A 137. § (10) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 81. § (2) bekezdése iktatta be, szövege a 26/2013. (III. 29.) EMMI rendelet 37. § 19. pontja, a 19/2014. (III. 13.) EMMI rendelet 38. § l) pontja szerint módosított szöveg.
+[^401]: A 137. § (11) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 81. § (2) bekezdése iktatta be, szövege a 26/2013. (III. 29.) EMMI rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^402]: A 137. § (12) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 81. § (2) bekezdése iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 37. § g) pontja szerint módosított szöveg.

@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-15-20-3
 | 2017-07-01 | 1998-15-20-3D.39 | 1/2017. (II. 14.) EMMI rendelet |
 | 2017-09-19 | 1998-15-20-3D.40 | 19/2017. (IX. 18.) EMMI rendelet |
 | 2018-01-01 | 1998-15-20-3D.41 | 9/2000. (VIII. 4.) SZCSM rendelet |
+| 2018-02-01 | 1998-15-20-3D.42 | 2/2018. (I. 18.) EMMI rendelet |

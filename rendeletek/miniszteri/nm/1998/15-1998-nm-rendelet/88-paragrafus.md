@@ -1,8 +1,8 @@
 88. § (1) Az ellátást nyújtó a kapcsolattartás során folyamatosan tájékoztatja a hozzátartozót a gondozott gyermek neveléséről, fejlődéséről és a vele kapcsolatos fontosabb eseményekről.
 
-(2)[^177] A gondozott gyermek továbbtanulásának, képzésének, életpályájának kijelölése előtt a gyermekvédelmi gyám kikéri a szülő véleményét, feltéve, hogy a szülő szülői felügyeleti jogát nem szüntették meg vagy az nem szűnt meg.
+(2)[^205] A gondozott gyermek továbbtanulásának, képzésének, életpályájának kijelölése előtt a gyermekvédelmi gyám kikéri a szülő véleményét, feltéve, hogy a szülő szülői felügyeleti jogát nem szüntették meg vagy az nem szűnt meg.
 
-(3)[^178] A gondozott gyermek és a kapcsolattartásra jogosult hozzátartozó kapcsolattartásának alakulásáról, valamint a szülőnek az ellátást nyújtóval való együttműködéséről
+(3)[^206] A gondozott gyermek és a kapcsolattartásra jogosult hozzátartozó kapcsolattartásának alakulásáról, valamint a szülőnek az ellátást nyújtóval való együttműködéséről
 
 a) a gyermek gondozási helyének vezetője
 
@@ -14,8 +14,8 @@ b) a gyermekvédelmi gyám a gyámhivatalt félévente – indokolt esetben soro
 
 tájékoztatja.
 
-(4)[^179] Az ellátást nyújtó és a gyermekvédelmi gyám jelzi a gyámhivatalnak, ha megítélése szerint a hozzátartozó a kapcsolattartás során a gondozott gyermek személyiségfejlődését hátrányosan befolyásolja, illetve ha kapcsolattartási jogával a gondozott gyermek vagy az ellátást nyújtó sérelmére visszaél.
+(4)[^207] Az ellátást nyújtó és a gyermekvédelmi gyám jelzi a gyámhivatalnak, ha megítélése szerint a hozzátartozó a kapcsolattartás során a gondozott gyermek személyiségfejlődését hátrányosan befolyásolja, illetve ha kapcsolattartási jogával a gondozott gyermek vagy az ellátást nyújtó sérelmére visszaél.
 
-[^177]: A 88. § (2) bekezdése a 26/2013. (III. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^178]: A 88. § (3) bekezdése a 26/2013. (III. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^179]: A 88. § (4) bekezdése a 26/2013. (III. 29.) EMMI rendelet 37. § 2. pontja szerint módosított szöveg.
+[^205]: A 88. § (2) bekezdése a 26/2013. (III. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^206]: A 88. § (3) bekezdése a 26/2013. (III. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^207]: A 88. § (4) bekezdése a 26/2013. (III. 29.) EMMI rendelet 37. § 2. pontja szerint módosított szöveg.
