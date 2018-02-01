@@ -1,6 +1,6 @@
-## 1. egyetért a 2014–2020. évek közötti határ menti közúti infrastrukturális projektek indikatív listájával (a továbbiakban: indikatív lista) az 1. melléklet szerint,
+## 1.[^1] egyetért a 2014–2020. évek közötti határ menti közúti infrastrukturális projektek indikatív listájával (a továbbiakban: indikatív lista) az 1. melléklet szerint, valamint az indikatív listán szereplő, támogatást nyert projektek előkészítésének és megvalósításának költségigényével és forrásszerkezetével a 2. melléklet szerint,
 
-## 2. egyetért azzal, hogy az indikatív listán szereplő projektek az Európai Unió 2014–2020. évi programozási időszak határ menti együttműködési programok (a továbbiakban: Interreg V-A programok) keretének terhére kerüljenek megvalósításra akként, hogy az egyes projektek csak az Interreg V-A programok keretéből az adott projektre fordítható forrásai mértékéig legyenek finanszírozhatók,
+## 2.[^2] egyetért azzal, hogy az indikatív listán szereplő projektek az Európai Unió 2014–2020. évi programozási időszak határ menti együttműködési programok (a továbbiakban: Interreg V-A programok) keretének terhére kerüljenek megvalósításra akként, hogy az egyes projektek elsősorban az Interreg V-A programok keretéből az adott projektre fordítható forrásai terhére és mértékéig legyenek finanszírozhatók,
 
 ## 3. felhívja a külgazdasági és külügyminisztert, hogy az indikatív lista alapján – az abban szereplő projektek hatékony előkészítése és az Interreg V-A programok pályázataira történő sikeres benyújtása érdekében – a szükséges egyeztetéseket folytassa le az érintett hazai miniszterek, intézmények, valamint a szomszédos országok illetékes szervezeteinek bevonásával,
 
@@ -20,19 +20,37 @@
 
 ## Határidő: 2016. február 29.
 
-## 5. felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy az Interreg V-A programok kerete terhére történő európai uniós források további igénybevétele céljából az indikatív listán szereplő projektek előkészítése érdekében gondoskodjanak a 2017–2020. évi központi költségvetés Nemzeti Fejlesztési Minisztérium fejezetében bázis jelleggel évente egymilliárd forint többletforrás biztosításáról,
+## 5.[^3] – az Interreg V-A programok kerete terhére történő európai uniós források további igénybevétele céljából –
+
+## a) egyetért a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 34. Határ menti közúti fejlesztések előkészítése jogcímcsoporton, valamint a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 34. Határ menti közúti fejlesztések előkészítése jogcímcsoporton rendelkezésre álló forrásoknak
+
+## aa) az indikatív listán szereplő projektek előkészítésére, továbbá
+
+## ab) a 2. melléklet szerinti projektek előkészítése mellett – az előirányzaton rendelkezésre álló szabad forrás mértékéig, de legfeljebb a 2. mellékletben foglalt táblázat G oszlopa szerinti összegig – az előkészítés és a megvalósítás során felmerült költségnövekmények miatt a kedvezményezett Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaságnál (a továbbiakban NIF Zrt.) jelentkező többlet-önerőigény és el nem számolható költségek finanszírozására
+
+## történő felhasználásával,
+
+## b) felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy gondoskodjanak az indikatív listán szereplő projektek előkészítése és a 2. melléklet szerinti projektek előkészítése és megvalósítása során felmerült költségnövekmények miatt a NIF Zrt.-nél jelentkező többlet-önerőigény és nem elszámolható költségek, valamint a kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak összegének biztosítása érdekében
+
+## ba) a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 34. Határ menti közúti fejlesztések előkészítése jogcímcsoporton már rendelkezésre álló forráson felül további 278 000 000 forint,
+
+## bb) a 2019. évi központi költségvetés Nemzeti Fejlesztési Minisztérium fejezetében 826 900 000 forint és
+
+## bc) a 2020. évi központi költségvetés Nemzeti Fejlesztési Minisztérium fejezetében 895 200 000 forint
+
+## biztosításáról,
 
 ## Felelős: nemzetgazdasági miniszter
 
 ## nemzeti fejlesztési miniszter
 
-## Határidő: az adott évi központi költségvetés tervezése során
+## Határidő: a ba) alpont tekintetében a felmerülés ütemében a 2018. évi központi költségvetés végrehajtása során
 
-## 6. felhívja a nemzeti fejlesztési minisztert, hogy
+## a bb) és bc) alpontok tekintetében az adott központi költségvetés tervezése során
 
-## a) az indikatív listát alapul véve az előkészítendő projektek körének meghatározását (a továbbiakban: előkészítendő projektek) és az egyes projektek ütemezését a külgazdasági és külügyminiszter egyetértésével és a Miniszterelnökséget vezető miniszter bevonásával végezze el, valamint
+## 6.[^4] felhívja a nemzeti fejlesztési minisztert, hogy
 
-## b) tegye meg a szükséges elrendelő intézkedéseket a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság (a továbbiakban: NIF Zrt.) felé a 2. pont szerinti pályázatok benyújtásához és a szerződéskötéshez szükséges projekt-előkészítési feladatok teljesítése érdekében,
+## a) az indikatív listát alapul véve az előkészítendő projektek körének meghatározását (a továbbiakban: előkészítendő projektek) és az egyes projektek ütemezését a külgazdasági és külügyminiszter egyetértésével és a Miniszterelnökséget vezető miniszter bevonásával végezze el,
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -42,11 +60,23 @@
 
 ## Határidő: folyamatos
 
-## 7. felhívja a nemzeti fejlesztési minisztert, hogy a 4. és az 5. pont szerinti forrásoknak (a továbbiakban: hazai támogatás) az előkészítendő projektek támogatásaként történő biztosításáról szóló támogatási szerződésben kösse ki, hogy ha a 3. pont szerinti pályázat sikeressége folytán az előkészítendő projektek valamelyike európai uniós forrást nyer el, akkor a NIF Zrt. köteles az előkészítési projektek költségeinek az Európai Unió által társfinanszírozott hányadával megegyező összegű hazai támogatás visszafizetésére,
+## b) tegye meg a szükséges elrendelő intézkedéseket a NIF Zrt. felé a 2. pont szerinti pályázatok benyújtásához és a szerződéskötéshez szükséges projekt-előkészítési feladatok teljesítése érdekében,
 
 ## Felelős: nemzeti fejlesztési miniszter
 
 ## Határidő: folyamatos
+
+## c) nyújtson be előterjesztést a Kormány részére az indikatív listán szereplő, 2. mellékletben nem említett projektek előkészítése és megvalósítása során felmerülő költségnövekmények miatt a NIF Zrt.-nél jelentkező többlet-önerőigényhez és nem elszámolható költségekhez szükséges források biztosításáról,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: a költségnövekményi igény felmerülését követően azonnal
+
+## 7.[^5] felhívja a nemzeti fejlesztési minisztert, hogy az indikatív lista szerinti projektek előkészítéséhez a 4. és 5. pont szerinti források terhére (a továbbiakban: hazai támogatás) nyújtott támogatás biztosításáról szóló támogatási szerződésben kösse ki, hogy ha a 3. pont szerinti pályázat sikeressége folytán az előkészítendő projektek valamelyike európai uniós forrást nyer el, akkor a NIF Zrt. köteles az előkészítési projektek költségeinek az Európai Unió által társfinanszírozott hányadával megegyező összegű hazai támogatás visszafizetésére,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: az európai uniós forrás NIF Zrt. részére történő jóváírását követő 30 napon belül
 
 ## 8. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a NIF Zrt. által a 7. pont szerint a központi költségvetés Nemzeti Fejlesztési Minisztérium fejezete számára visszafizetett hazai támogatásnak a központi költségvetés A költségvetés közvetlen bevételei és kiadásai fejezet, Uniós támogatások utólagos megtérülése előirányzatára történő befizetéséről.
 
@@ -54,114 +84,37 @@
 
 ## Határidő: folyamatos
 
-1. melléklet az 1007/2016. (I. 18.) Korm. határozathoz[^1]
+## 9.[^6] az Interreg V-A programok kerete terhére történő európai uniós források további igénybevétele céljából az indikatív listán szereplő projektek előkészítése, valamint a 2. mellékletben szereplő projektek előkészítése és megvalósítása során felmerült költségnövekmények miatt a NIF Zrt.-nél jelentkező többlet-önerőigény és nem elszámolható költségek biztosítása érdekében
 
-|  | A | B | C | D | E | F |
+## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontja szerinti jogkörében eljárva a központi költségvetés Nemzeti Fejlesztési Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Közlekedési ágazati programok alcím, Határ menti közúti fejlesztések előkészítése jogcímcsoportja kiadási előirányzatai terhére vállalható kötelezettségek mértékét a 2018–2020. évekre az alábbiak szerint állapítja meg:
 
-| 1. | Határszakasz | Közúti kapcsolat megnevezése | Műszaki tartalom leírása |
+## aa) a 2018. évre vonatkozó kötelezettségvállalás legfeljebb 1 278 000 000 forint,
 
-| 2. | Magyarország | Partner ország |
+## ab) a 2019. évre vonatkozó kötelezettségvállalás legfeljebb 826 900 000 forint,
 
-| 3. | Település | Megye | Település | Megye, kerület vagy tartomány |
+## ac) a 2020. évre vonatkozó kötelezettségvállalás legfeljebb 895 200 000 forint,
 
-| 4. | magyar– szlovák | Dunakiliti | Győr-Moson- Sopron | Dobrohošt’ (Doborgaz) | Nagyszombati | Gyalogos-kerékpáros Duna-híd építése. |
+## b) az Áht. 36. § (4b) bekezdése szerinti jogkörében eljárva jóváhagyja, hogy a nemzeti fejlesztési miniszter – figyelembe véve a már vállalt kötelezettségeket is – az a) alpont szerinti éven túli kötelezettségvállalási értékek kapcsolódó pénzügyi tranzakciós illetékek és kincstári díjak összegével csökkentett mértékéig, összesen legfeljebb 2 989 600 000 forint összegben kötelezettséget vállaljon, illetve a már megkötött támogatási szerződéseket ennek megfelelően módosítsa,
 
-| 5. | magyar– szlovák | Neszmély | Komárom- Esztergom | Radvaň nad Dunajom (Dunaradvány) | Nyitrai | Komp létesítése. |
+## 10.[^7] felhívja az érintett minisztereket, hogy vizsgálják meg az indikatív listán szereplő, a 2. mellékletben nem említett projektek várható költségnövekményeinek, különösen az elszámolható, de európai uniós forrásból nem finanszírozható költségeknek a hazai társfinanszírozás összegének megemelésével történő finanszírozási lehetőségeit, valamint ha szükséges, készítsék el az ezt biztosító jogszabály-módosítási javaslatot az arányosság elvének figyelembevételével, és terjesszék a Kormány elé.
 
-| 6. | magyar– szlovák | Ipolydamásd | Pest | Chl’aba (Helemba) | Nyitrai | Ipoly-híd építése. |
+## Felelős: külgazdasági és külügyminiszter
 
-| 7. | magyar– szlovák | Tésa | Pest | Vyškovce nad Ipl’om (Ipolyvisk) | Nyitrai | Mellékút fejlesztése. |
+## Miniszterelnökséget vezető miniszter
 
-| 8. | magyar– szlovák | Drégelypalánk | Nógrád | Ipel’ské Predmostie (Ipolyhídvég) | Besztercebányai | Ipoly-híd építése. |
+## nemzetgazdasági miniszter
 
-| 9. | magyar– szlovák | Balassagyarmat-Újkóvár | Nógrád | Koláre (Kóvár) | Besztercebányai | Ipoly-híd építése. |
+## nemzeti fejlesztési miniszter
 
-| 10. | magyar– szlovák | Őrhalom | Nógrád | Vrbovka (Ipolyvarbó) | Besztercebányai | Ipoly-híd építése. |
+## Határidő: további költségnövekmény felmerülése esetén azonnal
 
-| 11. | magyar– szlovák | Hugyag | Nógrád | Kováčovce (Szécsénykovácsi) | Besztercebányai | Ipoly-híd építése. |
+1. melléklet az 1007/2016. (I. 18.) Korm. határozathoz[^8]
 
-| 12. | magyar– szlovák | Zabar | Nógrád | Petrovce (Gömörpéterfala) | Besztercebányai | Mellékút fejlesztése. |
-
-| 13. | magyar– szlovák | Ózd-Susa | Borsod-Abaúj- Zemplén | Janice (Jéne) | Besztercebányai | Mellékút fejlesztése. |
-
-| 14. | magyar– szlovák | Gömörszőlős | Borsod-Abaúj- Zemplén | Neporadza (Naprágy) | Besztercebányai | Mellékút fejlesztése. |
-
-| 15. | magyar– szlovák | Hídvégardó | Borsod-Abaúj- Zemplén | Chorváty (Tornahorváti) | Kassai | Mellékút fejlesztése. |
-
-| 16. | magyar– szlovák | Hidasnémeti | Borsod-Abaúj- Zemplén | Perín (Perény) | Kassai | Mellékút fejlesztése. |
-
-| 17. | magyar– szlovák | Felsőregmec | Borsod-Abaúj- Zemplén | Michal’any (Alsómihályi) | Kassai | Mellékút fejlesztése. |
-
-| 18. | magyar– szlovák | Alsóregmec | Borsod-Abaúj- Zemplén | Čerhov (Csörgő) | Kassai | Mellékút fejlesztése. |
-
-| 19. | magyar– szlovák | Pácin | Borsod-Abaúj- Zemplén | Strážne (Örös) | Kassai | Fő- és mellékút fejlesztése. |
-
-| 20. | magyar– szlovák | Nagyrozvágy | Borsod-Abaúj- Zemplén | Vel’ký Horeš (Nagygéres) | Kassai | Mellékút fejlesztése. |
-
-| 21. | magyar– szlovák | Dámóc | Borsod-Abaúj- Zemplén | Biel (Bély) | Kassai | Mellékút fejlesztése. |
-
-| 22. | magyar– ukrán | Nagyhódos | Szabolcs-Szatmár- Bereg | Velika Palad (Nagypalád) | Kárpátalja | Túr-híd, illetve mellékút fejlesztése. |
-
-| 23. | magyar– román | Csenger | Szabolcs-Szatmár- Bereg | Oar (Óvári) | Szatmár | Mellékút fejlesztése. |
-
-| 24. | magyar– román | Nyírábrány | Hajdú-Bihar | Valea lui Mihai (Érmihályfalva) | Bihar | Határátkelő (teherfogalmi) nagyhatárrá fejlesztés előkészítése |
-
-| 25. | magyar– román | Vámospércs | Hajdú-Bihar | Valea lui Mihai (Érmihályfalva) | Bihar | Kerékpárút fejlesztése. |
-
-| 26. | magyar– román | Álmosd | Hajdú-Bihar | Diosig (Bihardiószeg) | Bihar | Mellékút fejlesztése. |
-
-| 27. | magyar– román | Geszt | Békés | Cefa (Cséffa) | Bihar | Mellékút fejlesztése. |
-
-| 28. | magyar– román | Lőkösháza | Békés | Curtici (Kürtös) | Arad | Mellékút fejlesztése. |
-
-| 29. | magyar– román | Mezőhegyes-Battonya | Békés | Peregu Mic (Kispereg) | Arad | Mellékút fejlesztése. |
-
-| 30. | magyar– román | Magyarcsanád | Csongrád | Cenad (Nagycsanád) | Temes | Maros-híd, illetve mellékút fejlesztés előkészítése. |
-
-| 31. | magyar– román | Kiszombor | Csongrád | Beba Veche (Óbéb) | Temes | Mellékút fejlesztése. |
-
-| 32. | magyar– szerb | Kübekháza | Csongrád | Rabe (Rábé) | Vajdaság | Mellékúti fejlesztése. |
-
-| 33. | magyar– szerb | Bácsszentgyörgy | Bács-Kiskun | Rastina (Rasztina) | Vajdaság | Mellékút fejlesztése. |
-
-| 34. | magyar– horvát | Sárok | Baranya | Kneževo (Főherceglak) | Eszék-Baranya | Mellékúti fejlesztése. |
-
-| 35. | magyar– horvát | Zákány | Somogy | Gotalovo (Gotála) | Kapronca-Körös | Mellékút fejlesztése. |
-
-| 36. | magyar– horvát | Őrtilos | Somogy | Legrad (Légrád) | Kapronca-Körös | Mellékút fejlesztése. |
-
-| 37. | magyar– horvát | Murakeresztúr | Zala | Kotoriba (Kotor) | Muraköz | Mura-híd, illetve mellékút fejlesztés előkészítése. |
-
-| 38. | magyar– szlovén | Lendvadedes-Dedeskecskés | Zala | Dolga Vas (Lendvahosszúfalu) | Muravidék | Mellékút fejlesztése. |
-
-| 39. | magyar– szlovén | Magyarszombatfa | Vas | Središče (Kisszerdahely) | Muravidék | Mellékút fejlesztése. |
-
-| 40. | magyar– szlovén | Orfalu | Vas | Budinci (Büdfalva) | Muravidék | Mellékút fejlesztése. |
-
-| 41. | magyar– osztrák | Rönök | Vas | Inzenhof (Borosgödör) | Burgenland | Mellékút fejlesztése. |
-
-| 42. | magyar– osztrák | Csákánydoroszló | Vas | Deutsch Bieling (Németbükks) | Burgenland | Mellékút fejlesztése. |
-
-| 43. | magyar– osztrák | Szentpéterfa | Vas | Moschendorf (Nagysároslak) | Burgenland | Mellékút fejlesztése. |
-
-| 44. | magyar– osztrák | Szentpéterfa | Vas | Gaas–Kulm (Pinkakertes–Kolom) | Burgenland | Mellékút fejlesztése. |
-
-| 45. | magyar– osztrák | Vaskeresztes–Felsőcsatár | Vas | Eisenberg an der Pinka (Csejke) | Burgenland | Mellékút fejlesztése. |
-
-| 46. | magyar– osztrák | Kőszeg | Vas | Rattersdorf (Rőtfalva) | Burgenland | Főút fejlesztése. |
-
-| 47. | magyar– osztrák | Zsira | Győr-Moson- Sopron | Lutzmannsburg (Locsmánd) | Burgenland | Mellékút fejlesztése. |
-
-| 48. | magyar– osztrák | Harka | Győr-Moson- Sopron | Neckenmarkt (Sopronnyék) | Burgenland | Mellékút fejlesztése. |
-
-| 49. | magyar– osztrák | Ágfalva | Győr-Moson- Sopron | Loipersbach (Lépésfalva) | Burgenland | Mellékút fejlesztése. |
-
-| 50. | magyar– osztrák | Fertőrákos-Sopronpuszta | Győr-Moson- Sopron | Sankt Margarethen im Burgenland (Szentmargitbánya) | Burgenland | Mellékút fejlesztése. |
-
-| 51. | magyar– osztrák | Várbalog-Albertkázmér- puszta | Győr-Moson- Sopron | Halbturn (Féltorony) | Burgenland | Mellékút fejlesztése. |
-
-| 52. | magyar– osztrák | Rajka | Győr-Moson- Sopron | Deutsch Jahrndorf (Németjárfalu) | Burgenland | Mellékút fejlesztése. |
-
-| 53. | magyar– szerb | Baja– Hercegszántó | Bács-Kiskun | Sombor (Zombor) | Vajdaság | Főúti fejlesztés előkészítése (valamint Zombor és országhatár közötti szakasz részbeni felújítása) |
-
-[^1]: Az 1. melléklet az 1027/2017. (I. 24.) Korm. határozat szerint módosított szöveg.
+[^1]: Az 1. pont az 1010/2017. (II. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont az 1010/2017. (II. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 5. pont az 1010/2017. (II. 1.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: A 6. pont az 1010/2017. (II. 1.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 7. pont az 1010/2017. (II. 1.) Korm. határozat 2. pontjával megállapított szöveg.
+[^6]: A 9. pontot az 1010/2017. (II. 1.) Korm. határozat 3. pontja iktatta be.
+[^7]: A 10. pontot az 1010/2017. (II. 1.) Korm. határozat 3. pontja iktatta be.
+[^8]: Az 1. melléklet az 1027/2017. (I. 24.) Korm. határozat szerint módosított szöveg.
