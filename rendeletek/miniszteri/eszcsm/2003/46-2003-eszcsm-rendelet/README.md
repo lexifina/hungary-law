@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-46-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2003-46-20-0M.3 | 46/2003. (VIII. 8.) ESZCSM rendelet |
+| 2018-02-02 | 2003-46-20-0M.4 | 5/2018. (II. 1.) EMMI rendelet |

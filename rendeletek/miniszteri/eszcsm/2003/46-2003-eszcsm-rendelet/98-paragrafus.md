@@ -12,35 +12,10 @@
 
 (6) E rendelet hatálybalépésekor alkalmazásban álló, az R. – e rendelet 97. §-ával megállapított – 1. számú mellékletében meghatározott munkakörökben foglalkoztatott dolgozók létszáma az ellátott gyermekek számához viszonyítva nem csökkenhet.
 
-(7) Az e rendelet hatálybalépésekor már működő intézményeknek az R.
-
-a) 66. §-ában,
-
-b) 70. §-ának (1)–(2) és (4) bekezdésében,
-
-c) 70. §-ának – e rendelet 43. §-ával módosított – (3) bekezdésében,
-
-d) 124. §-ának (1) bekezdésében,
-
-e) 124. §-ának – e rendelet 70. §-ának (1) bekezdésével módosított – (2) bekezdésében,
-
-f) 124. §-ának – e rendelet 70. §-ának (3) bekezdésével módosított – (4) bekezdésében,
-
-g) 124. §-ának (6)–(7) bekezdésében,
-
-h) 124. §-ának – e rendelet 70. §-ának (4) bekezdésével megállapított – (8) bekezdésében,
-
-i) 125. §-ának (3) bekezdésében,
-
-j) e rendelet 72. §-ával módosított 126. §-ának (2) bekezdésében,
-
-k) 128. §-ának – e rendelet 75. §-ának (1) bekezdésével megállapított új – (1)–(2) bekezdésében,
-
-l) e rendelet 76. §-ával megállapított 128/A. §-ának (2)–(5) bekezdésében
-
-## foglaltaknak 2004. december 31-ig kell megfelelniük, azonban a szolgáltatások színvonala nem romolhat.
+(7)[^3]
 
 (8) Az R. 82. §-a – e rendelet 48. §-ának (1) bekezdésével módosított – (1) bekezdésének a) pontjában meghatározott mértékű zsebpénzt a 3–6 éves, gondozott gyermekek számára 2004. január 1-jétől kell biztosítani.
 
 [^1]: Az 1–97. §-t a 118/2008. (V. 8.) Korm. rendelet 4. § 76. pontja hatályon kívül helyezte.
 [^2]: A 98. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 76. pontja hatályon kívül helyezte.
+[^3]: A 98. § (7) bekezdését az 5/2018. (II. 1.) EMMI rendelet 3. §-a hatályon kívül helyezte.
