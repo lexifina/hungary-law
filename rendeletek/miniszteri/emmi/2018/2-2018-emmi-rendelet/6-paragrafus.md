@@ -1,3 +1,3 @@
-## 5. §[^2]
+## 5. §[^4]
 
-[^2]: Az 5. § a 31. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+[^4]: Az 5. § a 31. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.

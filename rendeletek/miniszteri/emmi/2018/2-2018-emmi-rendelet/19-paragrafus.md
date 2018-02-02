@@ -1,3 +1,0 @@
-## 18. § Az Nmr. 103. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A nevelőszülő befogadja azt a fiatal felnőttet, akinek befogadását a működtető hozzájárulásával előzetesen nyilatkozatban vállalta, és utógondozói ellátását a gyámhivatal elrendelte, valamint az ellátás biztosítójaként a nevelőszülőt jelölte meg. A nevelőszülő befogadja továbbá azt a fiatal felnőttet, aki tekintetében a fenntartó az utógondozói ellátás meghosszabbításáról döntött, és az ellátás biztosítójaként a nevelőszülőt jelölte meg. Az ellátás megkezdésének időpontjáról a nevelőszülő haladéktalanul értesíti a működtetőt.”

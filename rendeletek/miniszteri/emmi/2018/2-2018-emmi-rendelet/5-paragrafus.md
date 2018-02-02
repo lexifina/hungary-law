@@ -1,1 +1,3 @@
-## „(3) A Biztos Kezdet Gyerekházban nem vezetői munkakörben foglalkoztatott személynek rendelkeznie kell a 2. számú melléklet II. Rész „I. Alapellátások” cím 2.1. pontjában a kisgyermeknevelő munkakörnél meghatározott képesítések valamelyikével.”
+## 4. §[^3]
+
+[^3]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
