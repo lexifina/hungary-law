@@ -4,14 +4,11 @@
 
 15. § (1)[^9]
 
-(2) Az R2. 5. alcíme a következő 9/A. §-sal egészül ki:
+(2)[^10]
 
-## „9/A. § (1) A vámigazgatási eljárás irataiban az iratbetekintést kérő személy által a meg nem ismerhető személyes és védett adatok megismerhetetlenné tételével érintett (a továbbiakban: anonimizálás), kivonatolt iratról való másolat készítéséért a megismerhetetlenné tétellel érintett oldalanként 100 forint költségtérítést kell fizetni.
-
-## (2) Az anonimizálással nem érintett oldalak másolatáért az illetékekről szóló törvény szerint, a vámigazgatási eljárásban készített hitelesített vagy hitelesítetlen másolatért fizetendő illeték összegének megfelelő költségtérítést kell fizetni.”
-
-(3)–(7)[^10]
+(3)–(7)[^11]
 
 [^8]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^9]: A 15. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 15. § (3)–(7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 15. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 15. § (3)–(7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
