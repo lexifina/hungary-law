@@ -108,8 +108,9 @@
 
 ## 9–10.[^3]
 
-1. melléklet a 2029/2017. (XII. 27.) Korm. határozathoz
+1. melléklet a 2029/2017. (XII. 27.) Korm. határozathoz[^4]
 
 [^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 9–10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet az 1013/2018. (II. 2.) Korm. határozat 23–24. pontja szerint módosított szöveg.
