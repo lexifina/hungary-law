@@ -8,9 +8,9 @@ b) az örökbefogadási tanácsadó útján a gyermekvédelmi gyámság alá nem
 
 tekintetében beszerzi a gyermeket vizsgáló szakemberektől és szervektől a gyermek egészségi és személyiségállapotára, valamint a gyermeket gondozó személyektől, szervektől az örökbefogadható gyermek családi hátterére vonatkozó korábbi és jelenlegi szakvéleményeket, szakmai véleményeket és egyéb dokumentumokat.
 
-(1a)[^451] A nevelésbe vett – szükség szerint az ideiglenes hatállyal elhelyezett – gyermek érdekében az örökbefogadási tanácsadó a gyermek örökbefogadhatóságát megállapító határozat jogerőre emelkedését megelőzően a határozat, illetve a gyermek örökbefogadhatóságáról szóló gyámhivatali értesítés kézhezvételét követően haladéktalanul felkéri a megyei, fővárosi gyermekvédelmi szakértői bizottságot a Gyvt. 82. § (5) bekezdése szerinti összefoglaló vélemény elkészítésére.
+(1a)[^451] A nevelésbe vett – szükség szerint az ideiglenes hatállyal elhelyezett – gyermek érdekében az örökbefogadási tanácsadó a gyermek örökbefogadhatóságát megállapító határozat véglegessé válását megelőzően a határozat, illetve a gyermek örökbefogadhatóságáról szóló gyámhivatali értesítés kézhezvételét követően haladéktalanul felkéri a megyei, fővárosi gyermekvédelmi szakértői bizottságot a Gyvt. 82. § (5) bekezdése szerinti összefoglaló vélemény elkészítésére.
 
-(2)[^452] A szakszolgálat – a gyermekvédelmi gyám bevonásával – a gyermek örökbefogadhatóságát megállapító határozat jogerőre emelkedését követően a nyilvántartási sorrend figyelembevételével az egységes örökbefogadási nyilvántartásból haladéktalanul kiválasztja az örökbefogadható gyermek számára az illetékességébe tartozó örökbe fogadni szándékozó személyek közül a legmegfelelőbbnek látszó örökbefogadó szülőt.
+(2)[^452] A szakszolgálat – a gyermekvédelmi gyám bevonásával – a gyermek örökbefogadhatóságát megállapító határozat véglegessé válását követően a nyilvántartási sorrend figyelembevételével az egységes örökbefogadási nyilvántartásból haladéktalanul kiválasztja az örökbefogadható gyermek számára az illetékességébe tartozó örökbe fogadni szándékozó személyek közül a legmegfelelőbbnek látszó örökbefogadó szülőt.
 
 (3)[^453] Ha az egységes örökbefogadási nyilvántartásban talál a gyermek számára olyan örökbe fogadni szándékozó személyt, akivel a rendelkezésre álló adatok, információk alapján várhatóan megfelelő szülő-gyermek kapcsolat alakulhat ki, a szakszolgálat a gyermek gondozójának, valamint gyermekvédelmi gyámjának a bevonásával dönt a személyes kapcsolat felvételének lehetőségéről, és erről értesíti az örökbe fogadni szándékozó személyt. A szakszolgálat ezzel egyidejűleg felkészíti a gyermeket gondozó intézményt, illetve személyt az örökbefogadás elősegítésére, támogatására.
 
@@ -27,8 +27,8 @@ tekintetében beszerzi a gyermeket vizsgáló szakemberektől és szervektől a 
 [^448]: A 147. §-t megelőző alcímet a 26/2013. (III. 29.) EMMI rendelet 27. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 26. § (1) bekezdésével megállapított szöveg.
 [^449]: A 147. § a 28/2010. (XII. 30.) NEFMI rendelet 18. §-ával megállapított szöveg.
 [^450]: A 147. § (1) bekezdése a 19/2014. (III. 13.) EMMI rendelet 26. § (2) bekezdésével megállapított szöveg.
-[^451]: A 147. § (1a) bekezdését a 19/2014. (III. 13.) EMMI rendelet 26. § (3) bekezdése iktatta be.
-[^452]: A 147. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 26. § (4) bekezdésével megállapított szöveg.
+[^451]: A 147. § (1a) bekezdését a 19/2014. (III. 13.) EMMI rendelet 26. § (3) bekezdése iktatta be, szövege az 5/2018. (II. 1.) EMMI rendelet 1. § b) pontja szerint módosított szöveg.
+[^452]: A 147. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 26. § (4) bekezdésével megállapított, az 5/2018. (II. 1.) EMMI rendelet 1. § b) pontja szerint módosított szöveg.
 [^453]: A 147. § (3) bekezdése a 26/2013. (III. 29.) EMMI rendelet 37. § 25. pontja, a 19/2014. (III. 13.) EMMI rendelet 37. § i) pontja szerint módosított szöveg.
 [^454]: A 147. § (5) bekezdése a 26/2013. (III. 29.) EMMI rendelet 37. § 26. pontja szerint módosított szöveg.
 [^455]: A 147. § (6) bekezdése a 26/2013. (III. 29.) EMMI rendelet 37. § 27. pontja szerint módosított szöveg.

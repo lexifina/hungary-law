@@ -1,4 +1,4 @@
-146. § (1)[^442] A szakszolgálat az alkalmasságát megállapító, jogerős gyámhivatali határozat alapján felveszi az örökbe fogadni szándékozó személyt az egységes örökbefogadási nyilvántartásba az örökbefogadásra váró személyek közé.
+146. § (1)[^442] A szakszolgálat az alkalmasságát megállapító, végleges gyámhivatali határozat alapján felveszi az örökbe fogadni szándékozó személyt az egységes örökbefogadási nyilvántartásba az örökbefogadásra váró személyek közé.
 
 (2)[^443] Az örökbefogadni szándékozókat az alkalmasságot megállapító gyámhivatali határozat kézhezvételekor az örökbefogadási szándék 145. § (2) bekezdése szerinti bejelentésének napjával kell az örökbefogadásra várók sorrendjébe besorolni.
 
@@ -10,7 +10,7 @@
 
 (6)[^447]
 
-[^442]: A 146. § (1) bekezdése a 19/2014. (III. 13.) EMMI rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^442]: A 146. § (1) bekezdése a 19/2014. (III. 13.) EMMI rendelet 25. § (1) bekezdésével megállapított, az 5/2018. (II. 1.) EMMI rendelet 1. § a) pontja szerint módosított szöveg.
 [^443]: A 146. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 37. § h) pontja szerint módosított szöveg.
 [^444]: A 146. § (3) bekezdése a 19/2014. (III. 13.) EMMI rendelet 25. § (2) bekezdésével megállapított szöveg.
 [^445]: A 146. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 88. §-ával megállapított szöveg.
