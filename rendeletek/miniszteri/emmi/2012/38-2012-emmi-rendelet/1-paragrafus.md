@@ -1,5 +1,8 @@
-1. § (1) A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló kormányrendeletben (a továbbiakban: kormányrendelet) meghatározott akkreditációs eljárás megindításának feltétele az e rendeletben meghatározott igazgatási szolgáltatási díj megfizetése (a továbbiakban: akkreditációs díj).
+1. § (1)[^1]
 
-(2) Az akkreditációs díj mértékét az 1. melléklet tartalmazza. Az akkreditációs díj számítása során megváltozott munkaképességű személynek a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 22. §-a szerinti megváltozott munkaképességű személyt kell tekintetni.
+(2)[^2] A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló kormányrendeletben (a továbbiakban: kormányrendelet) meghatározott akkreditációs eljárással összefüggésben fizetendő igazgatási szolgáltatási díj (a továbbiakban: akkreditációs díj) mértékét az 1. melléklet tartalmazza.
 
 (3) Ha a munkáltató a székhelyén kívül telephelyének, illetve fióktelepének akkreditálását is kérelmezi, az akkreditációs díj az 1. mellékletben meghatározott akkreditációs díj összegén felül telephelyenként, illetve fióktelepenként 50 000 Ft.
+
+[^1]: Az 1. § (1) bekezdését az 5/2018. (II. 1.) EMMI rendelet 7. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (2) bekezdése az 5/2018. (II. 1.) EMMI rendelet 5. §-ával megállapított szöveg.
