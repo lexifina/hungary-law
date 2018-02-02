@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2018. március 31.[^1]
+## Határidő: 2018. december 31.[^1]
 
 1. melléklet az 1070/2016. (II. 25.) Korm. határozathoz
 
@@ -74,4 +74,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1313/2017. (VI. 8.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^1]: Az 1013/2018. (II. 2.) Korm. határozat 3. pontja szerint módosított szöveg.
