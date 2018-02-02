@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1038-30
 | 2017-02-02 | 2017-1038-30-22.1 | 1038/2017. (II. 2.) Korm. határozat |
 | 2017-02-03 | 2017-1038-30-22.2 | 2010: CXXX. törvény |
 | 2017-06-08 | 2017-1038-30-22.3 | 1313/2017. (VI. 8.) Korm. határozat |
+| 2018-02-02 | 2017-1038-30-22.4 | 1313/2017. (VI. 8.) Korm. határozat |

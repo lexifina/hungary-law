@@ -12,7 +12,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere
 
-## Határidő: 2018. február 15., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 2865,0 millió forint tekintetében 2018. március 31.
+## Határidő: 2018. február 15., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 2865,0 millió forint tekintetében 2018. december 31.
 
 ## b) az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva jóváhagyja, hogy a Nemzeti Adó- és Vámhivatal vezetője legfeljebb 5605,0 millió forint keretösszeg erejéig a határátkelőhelyeken átlépő tehergépjárművek és vasúti szerelvények gyorsabb és eredményesebb átvizsgálásának fejlesztéséhez szükséges közúti és vasúti röntgenberendezések beszerzése érdekében több év előirányzatait terhelő kötelezettséget vállaljon;
 
@@ -120,5 +120,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont a) alpontja az 1313/2017. (VI. 8.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a) alpontja az 1313/2017. (VI. 8.) Korm. határozat 9. pontja, az 1013/2018. (II. 2.) Korm. határozat 9. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
