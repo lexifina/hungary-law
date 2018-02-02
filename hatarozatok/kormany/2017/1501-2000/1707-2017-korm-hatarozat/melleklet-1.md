@@ -1,4 +1,4 @@
-## 1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 23 686 676 125 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint.
+## 1.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 23 686 676 125 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,17 +10,17 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, belügyminiszter, nemzeti fejlesztési miniszter, emberi erőforrások minisztere
 
-## Határidő: 2018. június 30.
+## Határidő: 2018. június 30., a Versenysport támogatása jogcímcsoport javára biztosított 15 000 000 forint tekintetében 2018. december 31.
 
 ## 2. A Kormány az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 6. A Budapesti Planetárium épületének felújítása jogcímcsoport kiadási előirányzatai terhére vállalható kötelezettségek mértékét a 2018. évre 19 367 500 forintban állapítja meg.
 
 ## 3. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1104/2017. (III. 6.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 53. Üldözött keresztények segítésének feladatai alcím, 3. Keresztényüldözés témakörével összefüggő pályázatok és szakmai feladatok támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 120 000 000 forintból 4 880 000 forint a K1. Személyi juttatások kiemelt előirányzaton, 1 000 000 forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 10 184 600 forint a K3. Dologi kiadások kiemelt előirányzaton, 3 556 000 forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 4.[^1]
+## 4.[^2]
 
 ## 5. A Kormány egyetért azzal, hogy a Modern Városok Program keretében a Dunaújváros, Szórád Márton u. 39. szám alatti ingatlan állami tulajdonba kerülésével kapcsolatos intézkedésekről, valamint az ingatlan fejlesztéséhez, felújításához 2017. évben szükséges forrás előirányzat-átcsoportosításáról szóló 1477/2017. (VII. 25.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 1 676 159 342 forintból 57 410 905 forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
-## 6–10.[^2]
+## 6–10.[^3]
 
 1. melléklet az 1707/2017. (IX. 25.) Korm. határozathoz
 
@@ -348,5 +348,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 6–10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1013/2018. (II. 2.) Korm. határozat 14. pontja szerint módosított szöveg.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6–10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
