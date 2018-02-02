@@ -6,6 +6,6 @@ b) az emberi fogyasztásra szánt víz minőségéről szóló 98/83/EK tanácsi
 
 ## való megfelelést szolgálja.
 
-(2)[^38]
+(2)[^39]
 
-[^38]: A 75. § (2) bekezdése a 74. § (6) bekezdése alapján 2019. február 9-én lép hatályba.
+[^39]: A 75. § (2) bekezdése a 74. § (6) bekezdése alapján 2019. február 9-én lép hatályba.
