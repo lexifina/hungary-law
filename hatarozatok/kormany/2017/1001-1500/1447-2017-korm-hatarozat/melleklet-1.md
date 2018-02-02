@@ -8,7 +8,7 @@
 
 ## Határidő: azonnal
 
-## b) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 22 438 356 470 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet, XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
+## b)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 22 438 356 470 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet, XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -20,7 +20,7 @@
 
 ## Felelős: belügyminiszter, Miniszterelnökséget vezető miniszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, miniszterelnök kabinetfőnöke, nemzetpolitikáért felelős miniszterelnök-helyettes, a Magyar Tudományos Akadémia elnökének felkérésével
 
-## Határidő: 2018. június 30.
+## Határidő: 2018. június 30., a Külképviseletek igazgatása cím javára átcsoportosított 150 000 000 forint tekintetében 2019. június 30.
 
 ## c) a Kvtv. 17. §-a és 4. melléklet 2. pontja alapján jóváhagyja a Kvtv. 1. melléklet, XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 19. Szociális célú humánszolgáltatások alcím, 8. Szociális humánszolgáltatók részére biztosított szociális- és gyermekvédelmi ágazati pótlék és egyéb ágazati bérrendezéssel összefüggő támogatások jogcímcsoport legfeljebb 6255 millió forint összeggel történő túllépését.
 
@@ -30,11 +30,11 @@
 
 ## Határidő: azonnal
 
-## 2.[^1] A MOB által kiemelt sportágak 2013. évi sportfejlesztési elképzeléseinek támogatásáról, továbbá a 2014–2020. évre vonatkozó sportágfejlesztési igények bemutatásáról szóló 1526/2013. (VIII. 12.) Korm. határozat (a továbbiakban: H1.) 2. pontjától eltérően a H1. 2. pont a) alpontja alapján átcsoportosított előirányzatok tekintetében az elszámolás és a visszatérítés határideje 2018. június 30.
+## 2.[^2] A MOB által kiemelt sportágak 2013. évi sportfejlesztési elképzeléseinek támogatásáról, továbbá a 2014–2020. évre vonatkozó sportágfejlesztési igények bemutatásáról szóló 1526/2013. (VIII. 12.) Korm. határozat (a továbbiakban: H1.) 2. pontjától eltérően a H1. 2. pont a) alpontja alapján átcsoportosított előirányzatok tekintetében az elszámolás és a visszatérítés határideje 2018. június 30.
 
-## 3.[^2] A fertődi Esterházy-kastély rekonstrukciójához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1542/2013. (VIII. 15.) Korm. határozattól (a továbbiakban: H2.) eltérően a H2. alapján átcsoportosított előirányzat tekintetében az elszámolás és a visszatérítés határideje 2018. június 30.
+## 3.[^3] A fertődi Esterházy-kastély rekonstrukciójához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1542/2013. (VIII. 15.) Korm. határozattól (a továbbiakban: H2.) eltérően a H2. alapján átcsoportosított előirányzat tekintetében az elszámolás és a visszatérítés határideje 2018. június 30.
 
-## 4–13.[^3]
+## 4–13.[^4]
 
 ## 14. A Kormány egyetért azzal, hogy a központi költségvetési szerveknél foglalkoztatottak 2017. évi kompenzációjához szükséges előirányzat-átcsoportosításról szóló 1301/2017. (VI. 7.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett –
 
@@ -438,6 +438,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont az 1989/2017. (XII. 19.) Korm. határozat 9. pontja szerint módosított szöveg.
-[^2]: A 3. pont a 2029/2017. (XII. 27.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^3]: A 4–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont b) alpontja az 1013/2018. (II. 2.) Korm. határozat 13. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1989/2017. (XII. 19.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^3]: A 3. pont a 2029/2017. (XII. 27.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^4]: A 4–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
