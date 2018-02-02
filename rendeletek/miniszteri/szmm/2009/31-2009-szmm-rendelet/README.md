@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-31-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-12-25 | 2009-31-20-1X.1 | 31/2009. (XII. 22.) SZMM rendelet |
+| 2018-02-02 | 2009-31-20-1X.2 | 5/2018. (II. 1.) EMMI rendelet |
