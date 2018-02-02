@@ -66,9 +66,9 @@
 
 ## 3. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1106/2016. (III. 3.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XII. Földművelésügyi Minisztérium fejezet, 14. Nemzeti park igazgatóságok cím javára átcsoportosított 169 200 000 forintból 129 805 871 forint a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Klíma-, energia- és zöldgazdaság-politikai ágazati programok alcím, 4. Zöldgazdaság Finanszírozási Rendszer jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra, mely elszámolás felelőse a nemzeti fejlesztési miniszter.
 
-## 4.[^2] A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, az Országvédelmi Alapból és a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezeten belüli átcsoportosításról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 1989/2017. (XII. 19.) Korm. határozat 4. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 8. Nemzetközi kulturális és oktatási kapcsolatok programjai alcím, 3. Waclaw Felczak Alap jogcímcsoport javára átcsoportosított 313 000 000 forintból 65 000 000 forint a XX. Emberi Erőforrások Minisztériuma fejezet, 1. Emberi Erőforrások Minisztériuma igazgatása cím, K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
+## 4.[^2]
 
 1. melléklet a 2001/2017. (XII. 21.) Korm. határozathoz
 
 [^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 4. pont a 2029/2017. (XII. 27.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A 4. pontot az 1013/2018. (II. 2.) Korm. határozat 28. pontja visszavonta.
