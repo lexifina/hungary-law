@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1104-30
 | --- | --- | --- |
 | 2017-03-06 | 2017-1104-30-22.1 | 1104/2017. (III. 6.) Korm. határozat |
 | 2017-03-07 | 2017-1104-30-22.2 | 2010: CXXX. törvény |
+| 2018-02-02 | 2017-1104-30-22.3 | 1013/2018. (II. 2.) Korm. határozat |
