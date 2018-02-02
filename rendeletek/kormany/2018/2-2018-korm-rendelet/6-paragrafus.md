@@ -1,3 +1,3 @@
-## 5. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet [a továbbiakban: 43/1999. (III. 3.) Korm. rendelet] 33/A. § (2a) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-## „(2a) A légimentési tevékenység finanszírozása havi 90,0 millió forint fix összegű díjjal történik az 5. számú melléklet szerinti 15. Mentés előirányzat terhére. A szolgáltató az elvégzett mentési feladatokról a 23. számú melléklet szerinti adattartalommal havonta, a tárgyhónapot követő hónap 5. munkanapjáig jelentést küld a NEAK-nak.”
+[^7]: Az 5–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

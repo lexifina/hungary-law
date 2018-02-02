@@ -1,3 +1,3 @@
-## 2. § A 256/2013. (VII. 5.) Korm. rendelet 3. alcíme a következő 4/C. §-sal egészül ki:
+3. §[^4]
 
-## „4/C. § Az adó- és járulékváltozások ellentételezésére szolgáló, a foglalkoztatottat a Kormány rendelete alapján megillető kompenzáció mértékének kiszámításához szükséges, az Eütev. 11/A. § (5) bekezdése szerinti munkakörben foglalkoztatott egészségügyi dolgozókat érintő, 2018. január 1-jétől hatályos illetmény- vagy bérnövelés közterhekkel csökkentett összegeit a 14. melléklet tartalmazza.”
+[^4]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
