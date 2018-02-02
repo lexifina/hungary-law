@@ -8,7 +8,7 @@ A Kormány
 
 a) a 2017. évben szükséges 272,8 millió forint támogatás biztosításáról a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 28. Gazdasági társaságok által ellátott feladatok támogatása alcím, 2. Gazdasági társaságok által ellátott kulturális feladatok támogatása jogcímcsoport javára;
 
-b) a 2018. évtől bázisba épülő jelleggel 277,0 millió forint összegű forrás biztosításáról a központi költségvetésről szóló törvény XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 28. Gazdasági társaságok által ellátott feladatok támogatása alcím javára;
+b)[^1] a 2018. évtől bázisba épülő jelleggel legfeljebb 277,0 millió forint összegű forrás biztosításáról a központi költségvetésről szóló törvény XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 28. Gazdasági társaságok által ellátott feladatok támogatása alcím javára;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -25,3 +25,5 @@ Felelős: nemzeti fejlesztési miniszter
 emberi erőforrások minisztere
 
 Határidő: 2017. június 30.
+
+[^1]: A 3. pont b) alpontja az 1013/2018. (II. 2.) Korm. határozat 11. pontja szerint módosított szöveg.
