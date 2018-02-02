@@ -12,7 +12,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2017. december 31.
+## Határidő: 2018. június 30.
 
 ## 3. felhívja a nemzetgazdasági minisztert, valamint a Miniszterelnökséget vezető minisztert, hogy a VERITAS Történetkutató Intézet levéltára üzemeltetési feladatainak hatékony ellátása, valamint a működtetéssel összefüggő feladatok ellátása érdekében
 
@@ -106,4 +106,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont az 1275/2017. (V. 31.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1013/2018. (II. 2.) Korm. határozat 8. pontja szerint módosított szöveg.
