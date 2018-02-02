@@ -1,6 +1,6 @@
 ## 1. A Kormány
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 2 460 966 557 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
+## a)[^1] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 2 460 966 557 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -12,7 +12,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, földművelésügyi miniszter, belügyminiszter, nemzeti fejlesztési miniszter, emberi erőforrások minisztere, nemzetpolitikáért felelős miniszterelnök-helyettes, Nemzeti Adó- és Vámhivatal vezetője
 
-## Határidő: 2018. június 30.
+## Határidő: 2018. június 30., A Budai Vigadó felújításának támogatása előirányzat javára biztosított 403 683 473 forint forrás tekintetében 2018. december 31.
 
 ## b) a Kvtv. 19. § (6) bekezdésében biztosított jogkörében eljárva 1 791 009 678 forint egyszeri átcsoportosítását rendeli el a 2. melléklet szerint;
 
@@ -44,16 +44,18 @@
 
 ## Határidő: azonnal
 
-## 2–3.[^1]
+## 2–3.[^2]
 
-## 4. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1178/2017. (IV. 3.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím, K3. Dologi kiadások kiemelt előirányzat javára átcsoportosított 45 778 600 forintból 2 680 354 forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
+## 4.[^3] A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1178/2017. (IV. 3.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím, K3. Dologi kiadások kiemelt előirányzat javára átcsoportosított 45 778 600 forintból 3 231 074 forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 5.[^2]
+## 5.[^4]
 
 ## 6. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő, valamint a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezeten belüli átcsoportosításról, egyes kormányhatározatok módosításáról szóló 1601/2017. (VIII. 31.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 32. Bocuse d'Or versenyek támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 50 000 000 forintból 8 381 575 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-1. melléklet az 1895/2017. (XII. 4.) Korm. határozathoz[^3]
+1. melléklet az 1895/2017. (XII. 4.) Korm. határozathoz[^5]
 
-[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet az 1989/2017. (XII. 19.) Korm. határozat 14. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a) alpontja az 1013/2018. (II. 2.) Korm. határozat 17. pontja szerint módosított szöveg.
+[^2]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont az 1013/2018. (II. 2.) Korm. határozat 18. pontja szerint módosított szöveg.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet az 1989/2017. (XII. 19.) Korm. határozat 14. pontja szerint módosított szöveg.
