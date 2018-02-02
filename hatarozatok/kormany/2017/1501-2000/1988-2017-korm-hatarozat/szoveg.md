@@ -24,7 +24,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: a felmerülés ütemében
 
-d) a Magyarország Digitális Agrár Stratégiájának kidolgozásával és felmerülő feladatainak végrehajtásával kapcsolatosan felmerülő kiadások fedezetének biztosítása érdekében 99 974 400 forintot a Kvtv. 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 1. Földművelésügyi Minisztérium igazgatása cím javára;
+d)[^1] a Magyarország Digitális Agrár Stratégiájának kidolgozásával és felmerülő feladatainak végrehajtásával kapcsolatosan felmerülő kiadások fedezetének biztosítása érdekében 99 974 400 forintot a Kvtv. 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Agrár célelőirányzatok alcím, 31. Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara közfeladatainak támogatása jogcímcsoport javára;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -106,6 +106,7 @@ Határidő: a felmerülés ütemében
 
 3. A Kormány elrendeli a Korm. határozat 1. mellékletének, a Digitális Jólét Program 2.0 2017–2018. évi Munkatervének (a továbbiakban: Munkaterv) módosítását.
 
-4–22.[^1]
+4–22.[^2]
 
-[^1]: A 4–22. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont d) alpontja az 1013/2018. (II. 2.) Korm. határozat 19. pontja szerint módosított szöveg.
+[^2]: A 4–22. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
