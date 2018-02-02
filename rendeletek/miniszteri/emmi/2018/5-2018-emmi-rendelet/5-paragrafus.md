@@ -1,0 +1,1 @@
+## 5. A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj szabályairól szóló 38/2012. (XI. 16.) EMMI rendelet módosítása
