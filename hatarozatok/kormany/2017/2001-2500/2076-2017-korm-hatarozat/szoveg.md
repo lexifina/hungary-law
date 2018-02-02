@@ -1,6 +1,6 @@
 A Kormány
 
-1. az állami vagyonról szóló 2007. évi CVI. törvény 36. § (2) bekezdés g) pontjában, valamint a 36. § (3) bekezdésében biztosított jogkörében eljárva úgy dönt, hogy a Budapest IX. kerület, belterület 36971 helyrajzi számú, természetben a 1092 Budapest, Kinizsi utca 12. szám alatt található, állami tulajdonban lévő egyedileg védett műemlék ingatlan (a továbbiakban: Ingatlan) a Károli Gáspár Református Egyetem által ellátott oktatási feladatok elősegítése céljából – a felújítást követően – ingyenesen a Magyarországi Református Egyház tulajdonába kerüljön;
+1.[^1] az állami vagyonról szóló 2007. évi CVI. törvény 36. § (2) bekezdés g) pontjában, valamint a 36. § (3) bekezdésében biztosított jogkörében eljárva úgy dönt, hogy a Budapest IX. kerület, belterület 36971 helyrajzi számú, természetben a 1092 Budapest, Kinizsi utca 12. szám alatt található, állami tulajdonban lévő egyedileg védett műemlék ingatlan (a továbbiakban: Ingatlan) a Károli Gáspár Református Egyetem által ellátott oktatási feladatok elősegítése céljából ingyenesen a Magyarországi Református Egyház tulajdonába kerüljön;
 
 2. felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon az Ingatlan átfogó felújítási programja kidolgozásáról (a továbbiakban: Beruházás);
 
@@ -63,3 +63,5 @@ d) további egyéb komplex műszaki szolgáltatásokra.
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatosan, a beruházás lezárásáig
+
+[^1]: Az 1. pont az 1013/2018. (II. 2.) Korm. határozat 25. pontja szerint módosított szöveg.
