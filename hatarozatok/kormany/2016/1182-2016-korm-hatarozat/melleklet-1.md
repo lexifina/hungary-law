@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere, a nemzetpolitikáért felelős miniszterelnök-helyettes a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2017. június 30., a Nemzeti Örökség Intézete cím javára biztosított 150,0 millió forint és a Versenysport támogatása előirányzat javára biztosított 319,6 millió forint és a Közgyűjtemények cím javára biztosított 100,0 millió forint tekintetében 2017. december 31., a Miniszterelnökség cím javára biztosított 613,9 millió forint tekintetében 2018. június 30.
+## Határidő: 2017. június 30., az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára biztosított 450,0 millió forint tekintetében 2019. február 28., a Nemzeti Örökség Intézete cím javára biztosított 150,0 millió forint és a Versenysport támogatása előirányzat javára biztosított 319,6 millió forint és a Közgyűjtemények cím javára biztosított 100,0 millió forint tekintetében 2017. december 31., a Miniszterelnökség cím javára biztosított 613,9 millió forint tekintetében 2018. június 30.
 
 ## 2–9.[^2]
 
@@ -162,6 +162,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1447/2017. (VII. 7.) Korm. határozat 9. pontja, az 1601/2017. (VIII. 31.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1447/2017. (VII. 7.) Korm. határozat 9. pontja, az 1601/2017. (VIII. 31.) Korm. határozat 5. pontja szerint, az 1013/2018. (II. 2.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^2]: A 2–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 11–12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
