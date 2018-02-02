@@ -14,9 +14,9 @@ Határidő: azonnal
 
 a) a 2017. évben 1397,6 millió forint,
 
-b) a 2018. évben 2879,1 millió forint,
+b)[^1] a 2018. évben legfeljebb 2879,1 millió forint,
 
-c) a 2019. évtől – bázisba épülő jelleggel – 4409,4 millió forint
+c)[^2] a 2019. évtől – bázisba épülő jelleggel – legfeljebb 4409,4 millió forint
 
 költségvetési forrás biztosításáról a központi költségvetésről szóló törvény 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Gazdasági társaságok által ellátott feladatok támogatása alcím javára.
 
@@ -29,3 +29,6 @@ Határidő: az a) pont tekintetében azonnal
 a b) pont tekintetében 2018. január 15.
 
 a c) pont tekintetében a 2019. évi központi költségvetés tervezése során
+
+[^1]: A 3. pont b) alpontja az 1013/2018. (II. 2.) Korm. határozat 15. pontja szerint módosított szöveg.
+[^2]: A 3. pont c) alpontja az 1013/2018. (II. 2.) Korm. határozat 15. pontja szerint módosított szöveg.
