@@ -18,7 +18,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet a 2061/2017. (XII. 27.) Korm. határozathoz
+1. melléklet a 2061/2017. (XII. 27.) Korm. határozathoz[^1]
 
 | A | B | C | D |
 
@@ -30,27 +30,27 @@
 
 | 3. | erdélyi szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Mens Sana Alapítvány | 810 000 000 |
 
-| 4. | erdélyi szervezet programjainak, célkitűzéseinek, működésének támogatása | Szigligeti Tanoda Egyesület | 130 000 000 |
+| 4. | erdélyi szervezet beruházásainak, programjainak, eszközbeszerzéseinek, célkitűzéseinek, működésének támogatása | Szigligeti Tanoda Egyesület | 130 000 000 |
 
-| 5. | erdélyi szervezet programjainak, célkitűzéseinek, működésének támogatása | PROSCENIUM Alapítvány | 130 000 000 |
+| 5. | erdélyi szervezet beruházásainak, programjainak, eszközbeszerzéseinek, célkitűzéseinek, működésének támogatása | PROSCENIUM Alapítvány | 130 000 000 |
 
-| 6. | erdélyi szervezet programjainak, célkitűzéseinek, működésének támogatása | Jókainé Laborfalvi Róza Alapítvány | 170 000 000 |
+| 6. | erdélyi szervezet beruházásainak, programjainak, eszközbeszerzéseinek, célkitűzéseinek, működésének támogatása | Jókainé Laborfalvi Róza Alapítvány | 170 000 000 |
 
-| 7. | erdélyi szervezet programjainak, célkitűzéseinek, működésének támogatása | Kortina Egyesület | 130 000 000 |
+| 7. | erdélyi szervezet beruházásainak, programjainak, eszközbeszerzéseinek, célkitűzéseinek, működésének támogatása | Kortina Egyesület | 130 000 000 |
 
-| 8. | erdélyi szervezet programjainak, célkitűzéseinek, működésének támogatása | Figura Kulturális Egyesület | 70 000 000 |
+| 8. | erdélyi szervezet beruházásainak, programjainak, eszközbeszerzéseinek, célkitűzéseinek, működésének támogatása | Figura Kulturális Egyesület | 70 000 000 |
 
-| 9. | erdélyi szervezet programjainak, célkitűzéseinek, működésének támogatása | Pro Theatrum Alapítvány | 70 000 000 |
+| 9. | erdélyi szervezet beruházásainak, programjainak, eszközbeszerzéseinek, célkitűzéseinek, működésének támogatása | Pro Theatrum Alapítvány | 70 000 000 |
 
-| 10. | erdélyi szervezet programjainak, célkitűzéseinek, működésének támogatása | „VÍGADÓ” Kulturális Alapítvány | 20 000 000 |
+| 10. | erdélyi szervezet beruházásainak, programjainak, eszközbeszerzéseinek, célkitűzéseinek, működésének támogatása | „VÍGADÓ” Kulturális Alapítvány | 20 000 000 |
 
-| 11. | erdélyi szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Székelyvarság Sí- és Túraközpont Egyesület | 420 000 000 |
+| 11. | erdélyi szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Négy Évszak Sí- és Túraközpont Egyesület | 420 000 000 |
 
 | 12. | erdélyi szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Romániai Evangélikus Lutheránus Egyház | 250 000 000 |
 
 | 13. | kárpátaljai szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Kárpátaljai Magyar Kulturális Szövetség | 340 000 000 |
 
-| 14. | felvidéki szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Komáromi Római Katolikus Plébániahivatal | 200 000 000 |
+| 14. | felvidéki szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Komáromi Római Katolikus Egyházközség | 200 000 000 |
 
 | 15. | erdélyi szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Székelyvarság Önkormányzata | 30 000 000 |
 
@@ -63,3 +63,5 @@
 | 19. | erdélyi szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Gyulafehérvári Római Katolikus Érsekség | 40 000 000 |
 
 | 20. | erdélyi szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Csíkszentmihályi Római Katolikus Plébánia | 80 167 000 |
+
+[^1]: Az 1. melléklet az 1013/2018. (II. 2.) Korm. határozat 26–27. pontja szerint módosított szöveg.
