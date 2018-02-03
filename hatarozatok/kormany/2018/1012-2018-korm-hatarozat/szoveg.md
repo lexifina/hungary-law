@@ -38,4 +38,6 @@ Határidő: folyamatos
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8. Hatályát veszti az 1956-os forradalom és szabadságharc emlékéve koordinálásáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1729/2015. (X. 8.) Korm. határozat.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
