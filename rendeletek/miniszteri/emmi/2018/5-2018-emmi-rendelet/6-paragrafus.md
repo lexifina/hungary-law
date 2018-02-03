@@ -1,3 +1,0 @@
-## 5. § A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj szabályairól szóló 38/2012. (XI. 16.) EMMI rendelet (a továbbiakban: R.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló kormányrendeletben (a továbbiakban: kormányrendelet) meghatározott akkreditációs eljárással összefüggésben fizetendő igazgatási szolgáltatási díj (a továbbiakban: akkreditációs díj) mértékét az 1. melléklet tartalmazza.”
