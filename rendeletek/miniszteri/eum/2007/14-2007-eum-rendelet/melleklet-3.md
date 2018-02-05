@@ -156,6 +156,6 @@
 
 ## 11.13. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^237]
+3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^239]
 
-[^237]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^239]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (3) bekezdése szerint módosított szöveg.

@@ -120,7 +120,7 @@
 
 ## 10.13. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^240]
+6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^242]
 
 A járóbeteg gyógyászati segédeszköz költségvetési keretből a NEAK nem támogatja:
 
@@ -148,4 +148,4 @@ A járóbeteg gyógyászati segédeszköz költségvetési keretből a NEAK nem 
 
 12. a kizárólag kozmetikai célt szolgáló gyógyászati segédeszközöket.
 
-[^240]: A 6. számú melléklet a 7/2016. (III. 30.) EMMI rendelet 15. § (6) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^242]: A 6. számú melléklet a 7/2016. (III. 30.) EMMI rendelet 15. § (6) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.
