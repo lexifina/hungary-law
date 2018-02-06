@@ -1,0 +1,9 @@
+A Kormány
+
+1. egyetért azzal, hogy a hazai mezőgazdasági és élelmiszeripari termékek népszerűsítése, a kis- és középvállalkozások versenyképességének javítása, valamint a magyar agrárium sikerének előmozdítása érdekében a közösségi agrármarketing feladatok megerősítése szükséges;
+
+2. az 1. pontban meghatározott cél elérése érdekében felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a 2018. évi közösségi agrármarketing feladatok ellátásához szükséges 455 000 000 forint fedezet biztosításáról a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Agrár célelőirányzatok alcím, 36. Agrármarketing célelőirányzat jogcímcsoport javára.
+
+Felelős: nemzetgazdasági miniszter
+
+Határidő: a 2018. évi költségvetés végrehajtása során
