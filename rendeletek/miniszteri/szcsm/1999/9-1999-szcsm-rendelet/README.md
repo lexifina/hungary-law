@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-9-20-85
 | 2016-01-01 | 1999-9-20-85.27 | 55/2015. (XI. 30.) EMMI rendelet |
 | 2017-02-17 | 1999-9-20-85.28 | 1/2017. (II. 14.) EMMI rendelet |
 | 2017-10-21 | 1999-9-20-85.29 | 9/2009. (IV. 11.) SZMM rendelet |
+| 2018-02-06 | 1999-9-20-85.30 | 7/2018. (II. 5.) EMMI rendelet |
