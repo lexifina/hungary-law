@@ -8,7 +8,7 @@ c) c) pontja szerinti vizsgálatot a szakértői bizottság szociális szakért�
 
 ## végzi.
 
-(2)[^6] A komplex minősítés során
+(2)[^5] A komplex minősítés során
 
 a) az egészségi állapot, valamint az önellátási képesség orvosszakmai szempontú megítélése tekintetében kizárólag az orvosszakértő,
 
@@ -18,6 +18,7 @@ c) a rehabilitálhatóság szociális szempontú megítélése tekintetében –
 
 ## véleménye alapján kell a szakkérdést elbírálni.
 
-(3) Amennyiben a komplex minősítés során a szakértői bizottság orvosszakértői között az egészségi állapot mértékére vonatkozóan vagy az önellátási képesség orvosszakmai szempontú megítélése tekintetében vita van, akkor abban a bizottság elnöke dönt.
+(3)[^6]
 
-[^6]: Az 5. § (2) bekezdés záró szövegrésze a 43/2015. (IX. 25.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^5]: Az 5. § (2) bekezdés záró szövegrésze a 43/2015. (IX. 25.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^6]: Az 5. § (3) bekezdését a 7/2018. (II. 5.) EMMI rendelet 53. § b) pontja hatályon kívül helyezte.
