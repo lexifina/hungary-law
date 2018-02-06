@@ -32,8 +32,8 @@ h) a kérelem és a hirdetmény, illetve a közbeszerzési dokumentumok megküld
 
 i) ha a hirdetmény ellenőrzése nem kötelező, akkor annak közlését, hogy a kérelmező kéri, vagy nem kéri a hirdetmény ellenőrzését;
 
-j)[^1] ha a hirdetmény ellenőrzése kötelező vagy azt a kérelmező kéri és az ellenőrzési díjjal kapcsolatban mentességre jogosult, ennek közlését.
+j)[^3] ha a hirdetmény ellenőrzése kötelező vagy azt a kérelmező kéri és az ellenőrzési díjjal kapcsolatban mentességre jogosult, ennek közlését.
 
 (6) A kérelem és a hirdetmény, illetve a közbeszerzési dokumentumok kézhezvételét a hirdetmény ellenőrzésért felelős szervezeti egység a kézhezvétel napján elektronikus úton visszaigazolja a kérelmezőnek.
 
-[^1]: A 6. § (5) bekezdés j) pontja a 43/2016. (XII. 30.) MvM rendelet 11. § 1. pontja szerint módosított szöveg.
+[^3]: A 6. § (5) bekezdés j) pontja a 43/2016. (XII. 30.) MvM rendelet 11. § 1. pontja szerint módosított szöveg.

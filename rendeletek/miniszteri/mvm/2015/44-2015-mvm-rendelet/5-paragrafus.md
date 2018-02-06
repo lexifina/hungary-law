@@ -8,7 +8,7 @@
 
 (3) Hirdetményt közzétételre csak az az ajánlatkérő küldhet meg, illetve hirdetményben ajánlatkérőként csak olyan szervezet szerepelhet, amely a Kbt. 26. § (1) bekezdése szerinti értesítési kötelezettségének – legkésőbb a hirdetmény Hatóság részére történő megküldése előtt kettő munkanappal – eleget tett.
 
-(4) Az ajánlatkérőnek minősülő szervezetek esetében a Kbt. 26. § (1) bekezdése szerinti kötelezettség teljesítése – a Hatóság által nyújtott informatikai rendszer igénybevételével – ajánlatkérő felvételére, adatváltozására, illetve törlésére irányuló kérelemmel történik.
+(4)[^1] Az ajánlatkérőnek minősülő szervezetek esetében a Kbt. 26. § (1) bekezdése szerinti kötelezettség teljesítése az ajánlatkérő felvételére, adatváltozására, illetve törlésére irányuló kérelemmel a Miniszterelnökség által üzemeltetett, egységes, elektronikus közbeszerzési rendszerben (a továbbiakban: EKR) történik.
 
 (5) A hirdetményellenőrzésért felelős szervezeti egység a (4) bekezdés szerinti kérelmet haladéktalanul, de legkésőbb annak beérkezésétől számított egy munkanapon belül bírálja el.
 
@@ -16,4 +16,7 @@
 
 (7) Amennyiben a (4) bekezdés szerinti kérelemben foglaltak hiányosak vagy nem felelnek meg a Kbt., illetve a vonatkozó jogszabályok szerinti követelményeknek, a hirdetményellenőrzésért felelős szervezeti egység a kérelmet elutasítja, és erről az ajánlatkérőt haladéktalanul, de legkésőbb egy munkanapon belül tájékoztatja, megjelölve az elutasítás indokát. Az elutasított kérelem esetében ajánlatkérő jogosult javított kérelmet benyújtani, melyben az elutasítás indokaként megjelölt hiányosságot vagy a Kbt.-nek, illetve a vonatkozó jogszabályoknak nem megfelelő tartalmat javítja.
 
-(8) A Kbt. 26. § (1) bekezdésben foglalt kivétel alá tartozó ajánlatkérők esetében e § (4)–(7) bekezdései megfelelően alkalmazandók azzal, hogy az ilyen szervezetek kötelesek a Hatóság által nyújtott informatikai rendszerben regisztrálni, de nem kötelesek a Hatóság által vezetett ajánlatkérők nyilvántartásába (a továbbiakban: ajánlatkérők nyilvántartása) történő felvételre.
+(8)[^2] A Kbt. 26. § (1) bekezdésben foglalt kivétel alá tartozó ajánlatkérők esetében e § (4)–(7) bekezdései megfelelően alkalmazandók azzal, hogy az ilyen szervezetek kötelesek az EKR-ben regisztrálni, de nem kötelesek a Hatóság által vezetett ajánlatkérők nyilvántartásába (a továbbiakban: ajánlatkérők nyilvántartása) történő felvételre.
+
+[^1]: Az 5. § (4) bekezdése az 1/2018. (II. 5.) MvM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 5. § (8) bekezdése az 1/2018. (II. 5.) MvM rendelet 2. §-a szerint módosított szöveg.

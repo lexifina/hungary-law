@@ -18,7 +18,7 @@ c) ha a hirdetmény ellenőrzése a 9. § (1)–(3) bekezdése szerint kötelez�
 
 a) a kérelem tartalmazza-e a 6. § (5) bekezdésében foglaltakat;
 
-b)[^5] a 6. § (5) bekezdés j) pontja szerinti, az ellenőrzési díjjal kapcsolatban mentességre való jogosultság megalapozottságát;
+b)[^7] a 6. § (5) bekezdés j) pontja szerinti, az ellenőrzési díjjal kapcsolatban mentességre való jogosultság megalapozottságát;
 
 c) az ellenőrzési díj jóváírásra került-e a 13. § (3) bekezdése szerinti számlán;
 
@@ -26,4 +26,4 @@ d) a hirdetmény, illetve a közbeszerzési dokumentum megfelel-e a közbeszerz�
 
 e) amennyiben a Kbt. a hirdetmény megküldésére határidőt határoz meg, a hirdetmény megküldésére sor került-e a határidőn belül.
 
-[^5]: A 10. § (6) bekezdés b) pontja a 43/2016. (XII. 30.) MvM rendelet 11. § 2. pontja szerint módosított szöveg.
+[^7]: A 10. § (6) bekezdés b) pontja a 43/2016. (XII. 30.) MvM rendelet 11. § 2. pontja szerint módosított szöveg.

@@ -32,7 +32,7 @@
 
 ## 2 adott esetben
 
-19. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^32]
+19. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^36]
 
 KÖZBESZERZÉSI ADATBÁZIS
 
@@ -94,4 +94,4 @@ V. szakasz: Eljárás
 
 VI. szakasz: Kiegészítő információk
 
-[^32]: A 19. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (7) bekezdésével megállapított szöveg.
+[^36]: A 19. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (7) bekezdésével megállapított szöveg.

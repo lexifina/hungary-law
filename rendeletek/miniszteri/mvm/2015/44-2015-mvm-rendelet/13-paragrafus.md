@@ -1,10 +1,10 @@
-## 4. [^8] Az ellenőrzési díj, a közzétételi költségtérítés és a rendszerhasználati díj
+## 4. [^10] Az ellenőrzési díj, a közzétételi költségtérítés és a rendszerhasználati díj
 
 13. § (1) Amennyiben a hirdetmény ellenőrzése kötelező vagy azt a kérelmező kéri, a hirdetmények, illetve erre irányuló kérelem esetén a közbeszerzési dokumentumok ellenőrzéséért – a (6)–(7) bekezdés szerinti ajánlatkérők kivételével – ellenőrzési díjat kell fizetni.
 
-(2)[^9] Az ellenőrzési díj mértéke – függetlenül az érintett hirdetmény, illetve közbeszerzési dokumentumok terjedelmétől – egységesen
+(2)[^11] Az ellenőrzési díj mértéke – függetlenül az érintett hirdetmény, illetve közbeszerzési dokumentumok terjedelmétől – egységesen
 
-a) a 9. § (1) bekezdése szerinti felhívás, illetve közbeszerzési eljárást meghirdető hirdetmény és a tervpályázati kiírás esetében: 200 000 forint,
+a)[^12] a 9. § (1) bekezdése szerinti felhívás, illetve közbeszerzési eljárást meghirdető hirdetmény és a tervpályázati kiírás esetében: 200 000 forint, az EKR alkalmazása esetén 160 000 forint,
 
 b) a közbeszerzési dokumentumok esetében: 200 000 forint,
 
@@ -26,5 +26,6 @@ f) az a) és c)–e) pontok alá nem tartozó hirdetmények esetében: 80 000 fo
 
 (7) Az ellenőrzési díj megfizetése alól mentesség illeti meg a külön jogszabály szerinti kedvezményezett járásokban található, a (6) bekezdés hatálya alá nem tartozó és tízezer főnél kevesebb lakosú települések esetében a Kbt. 5. § (1) bekezdés c) pontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint ilyen települések által létrehozott társulás ajánlatkérőket.
 
-[^8]: A 4. alcím címe a 43/2016. (XII. 30.) MvM rendelet 11. § 5. pontjával megállapított szöveg.
-[^9]: A 13. § (2) bekezdése a 43/2016. (XII. 30.) MvM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 4. alcím címe a 43/2016. (XII. 30.) MvM rendelet 11. § 5. pontjával megállapított szöveg.
+[^11]: A 13. § (2) bekezdése a 43/2016. (XII. 30.) MvM rendelet 3. §-ával megállapított szöveg.
+[^12]: A 13. § (2) bekezdés a) pontja az 1/2018. (II. 5.) MvM rendelet 1. § (2) bekezdésével megállapított szöveg.
