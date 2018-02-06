@@ -1,8 +1,8 @@
 4. § (1) A kérelmezőnek nem szükséges a 3. § (3) bekezdésében meghatározott közbeszerzési eljárások teljes körű lebonyolítását igazolnia, ha a kérelem benyújtását megelőző három éven belül legalább ötven közbeszerzési eljárás tekintetében az 1. § 3. pontja szerinti közbeszerzési tevékenységre, vagy ellenőrzési tevékenységre vonatkozó referenciával rendelkezik.
 
-(2)[^18] A közbeszerzési eljárások teljes körű lebonyolítása körében egy adott közbeszerzési eljárás előkészítésével és lefolytatásával kapcsolatban kifejtett, 1. § 3. pontja szerinti különböző tevékenységek a közbeszerzési gyakorlattal szemben támasztott követelmények teljesítése szempontjából a a névjegyzékbe vétel során csak egyszer vehetők figyelembe. Az ellenőrzési tevékenység körében egy adott közbeszerzési eljárás több szakaszával kapcsolatban megvalósult, vagy több típusú ellenőrzés (minőség-ellenőrzés, szabályossági ellenőrzés, utóellenőrzés, utólagos ellenőrzés) a közbeszerzési gyakorlattal szemben támasztott követelmények teljesítése szempontjából külön-külön is figyelembe vehető. Egy közbeszerzési eljárással kapcsolatos jogorvoslati eljárással összefüggő képviseleti tevékenység jogorvoslati szakaszonként külön-külön figyelembe vehető azzal, hogy ugyanazon közbeszerzési eljárással kapcsolatos jogorvoslati tevékenység egy kérelmező szempontjából csak egyszer vehető figyelembe.
+(2)[^17] A közbeszerzési eljárások teljes körű lebonyolítása körében egy adott közbeszerzési eljárás előkészítésével és lefolytatásával kapcsolatban kifejtett, 1. § 3. pontja szerinti különböző tevékenységek a közbeszerzési gyakorlattal szemben támasztott követelmények teljesítése szempontjából a a névjegyzékbe vétel során csak egyszer vehetők figyelembe. Az ellenőrzési tevékenység körében egy adott közbeszerzési eljárás több szakaszával kapcsolatban megvalósult, vagy több típusú ellenőrzés (minőség-ellenőrzés, szabályossági ellenőrzés, utóellenőrzés, utólagos ellenőrzés) a közbeszerzési gyakorlattal szemben támasztott követelmények teljesítése szempontjából külön-külön is figyelembe vehető. Egy közbeszerzési eljárással kapcsolatos jogorvoslati eljárással összefüggő képviseleti tevékenység jogorvoslati szakaszonként külön-külön figyelembe vehető azzal, hogy ugyanazon közbeszerzési eljárással kapcsolatos jogorvoslati tevékenység egy kérelmező szempontjából csak egyszer vehető figyelembe.
 
-(3)[^19] E § szerinti esetben a közbeszerzési gyakorlatra vonatkozó igazolásnak tartalmaznia kell mindazokat az adatokat, amelyek alapján megállapítható, hogy a kérelmező eleget tesz a névjegyzékbe vétel feltételeinek. Így a közbeszerzési eljárás teljes körű lebonyolítására vagy közbeszerzési tevékenységre vonatkozó közbeszerzési gyakorlatra vonatkozó igazolásnak tartalmaznia kell az alábbi információkat:
+(3)[^18] E § szerinti esetben a közbeszerzési gyakorlatra vonatkozó igazolásnak tartalmaznia kell mindazokat az adatokat, amelyek alapján megállapítható, hogy a kérelmező eleget tesz a névjegyzékbe vétel feltételeinek. Így a közbeszerzési eljárás teljes körű lebonyolítására vagy közbeszerzési tevékenységre vonatkozó közbeszerzési gyakorlatra vonatkozó igazolásnak tartalmaznia kell az alábbi információkat:
 
 a) a kérelmező mely közbeszerzési eljárással összefüggésben fejtette ki a hivatkozott tevékenységet, a következők szerint:
 
@@ -28,7 +28,7 @@ d) az igazolás kiállítójának büntetőjogi felelőssége tudatában tett é
 
 (5) A (4) bekezdésben foglalt szabályt nem kell alkalmazni, ha a kérelmező büntetőjogi felelőssége tudatában nyilatkozik, hogy nem az ő tevékenysége vezetett a jogsértéshez.
 
-(6)[^20] Az ellenőrzési tevékenységre vonatkozó közbeszerzési gyakorlatra vonatkozó igazolásnak tartalmaznia kell mindazokat az adatokat, amelyek alapján megállapítható, hogy a kérelmező eleget tesz a névjegyzékbe történő bejegyzés feltételeinek, így:
+(6)[^19] Az ellenőrzési tevékenységre vonatkozó közbeszerzési gyakorlatra vonatkozó igazolásnak tartalmaznia kell mindazokat az adatokat, amelyek alapján megállapítható, hogy a kérelmező eleget tesz a névjegyzékbe történő bejegyzés feltételeinek, így:
 
 a) a kérelmező mely közbeszerzési eljárással összefüggésben fejtette ki a hivatkozott tevékenységet, a következők szerint:
 
@@ -54,20 +54,20 @@ a) a kérelmező milyen típusú tevékenységet végzett, és
 
 b) az igazolás kiállítójának büntetőjogi felelőssége tudatában tett és aláírásával igazolt nyilatkozatát, amely szerint az igazolás kiállítója jogosult az igazolás kiadására.
 
-(9)[^21] Ha a kérelmező a közbeszerzési tevékenységét a Közbeszerzési Döntőbizottságnál végzett döntőbiztosi tevékenység ellátásával kívánja igazolni, az igazolásnak azt kell tartalmaznia, hogy a kérelmező a hivatkozott közbeszerzési tevékenységet legalább két évig folyamatosan végezte, illetve végzi, valamint tartalmaznia kell
+(9)[^20] Ha a kérelmező a közbeszerzési tevékenységét a Közbeszerzési Döntőbizottságnál végzett döntőbiztosi tevékenység ellátásával kívánja igazolni, az igazolásnak azt kell tartalmaznia, hogy a kérelmező a hivatkozott közbeszerzési tevékenységet legalább két évig folyamatosan végezte, illetve végzi, valamint tartalmaznia kell
 
 a) azt, hogy ennek körében a kérelmező milyen típusú tevékenységet végzett, és
 
 b) az igazolás kiállítójának büntetőjogi felelőssége tudatában tett és aláírásával igazolt nyilatkozatát, amely szerint az igazolás kiállítója jogosult az igazolás kiadására.
 
-(10)[^22] Ha a kérelmező a közbeszerzési tevékenységét hirdetmények ellenőrzésében vagy hirdetmény nélküli tárgyalásos eljárással kapcsolatos ellenőrzésben szerzett tapasztalattal kívánja igazolni, az igazolásnak azt kell tartalmaznia, hogy a kérelmező a hivatkozott közbeszerzési tevékenységet legalább három évig folyamatosan végezte, illetve végzi, valamint tartalmaznia kell
+(10)[^21] Ha a kérelmező a közbeszerzési tevékenységét hirdetmények ellenőrzésében vagy hirdetmény nélküli tárgyalásos eljárással kapcsolatos ellenőrzésben szerzett tapasztalattal kívánja igazolni, az igazolásnak azt kell tartalmaznia, hogy a kérelmező a hivatkozott közbeszerzési tevékenységet legalább három évig folyamatosan végezte, illetve végzi, valamint tartalmaznia kell
 
 a) azt, hogy ennek körében a kérelmező milyen típusú tevékenységet végzett, és
 
 b) az igazolás kiállítójának büntetőjogi felelőssége tudatában tett és aláírásával igazolt nyilatkozatát, amely szerint az igazolás kiállítója jogosult az igazolás kiadására.
 
-[^18]: A 4. § (2) bekezdése a 41/2016. (XII. 29.) MvM rendelet 11. § 7. pontja szerint módosított szöveg.
-[^19]: A 4. § (3) bekezdése a 41/2016. (XII. 29.) MvM rendelet 11. § 8. pontja szerint módosított szöveg.
-[^20]: A 4. § (6) bekezdés nyitó szövegrésze a 28/2017. (XI. 6.) MvM rendelet 7. § a) pontja szerint módosított szöveg.
-[^21]: A 4. § (9) bekezdését a 28/2017. (XI. 6.) MvM rendelet 3. §-a iktatta be.
-[^22]: A 4. § (10) bekezdését a 28/2017. (XI. 6.) MvM rendelet 3. §-a iktatta be.
+[^17]: A 4. § (2) bekezdése a 41/2016. (XII. 29.) MvM rendelet 11. § 7. pontja szerint módosított szöveg.
+[^18]: A 4. § (3) bekezdése a 41/2016. (XII. 29.) MvM rendelet 11. § 8. pontja szerint módosított szöveg.
+[^19]: A 4. § (6) bekezdés nyitó szövegrésze a 28/2017. (XI. 6.) MvM rendelet 7. § a) pontja szerint módosított szöveg.
+[^20]: A 4. § (9) bekezdését a 28/2017. (XI. 6.) MvM rendelet 3. §-a iktatta be.
+[^21]: A 4. § (10) bekezdését a 28/2017. (XI. 6.) MvM rendelet 3. §-a iktatta be.

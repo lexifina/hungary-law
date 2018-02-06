@@ -1,30 +1,40 @@
-## 15. §[^49]
+## 15. §[^50]
 
-1. melléklet a 14/2016. (V. 25.) MvM rendelethez[^50]
+1. melléklet a 14/2016. (V. 25.) MvM rendelethez[^51]
 
 Kérelem felelős akkreditált közbeszerzési szaktanácsadói névjegyzékbe vételhez
 
-Alulírott ……………………………………………………. a felelős akkreditált közbeszerzési szaktanácsadói tevékenységről szóló 14/2016. (V. 25.) MvM rendelet alapján ezúton kérem a felelős akkreditált közbeszerzési szaktanácsadói névjegyzékbe történő felvételemet az alábbi adatok alapján:
+Alulírott ............................................................. a felelős akkreditált közbeszerzési szaktanácsadói tevékenységről szóló 14/2016. (V. 25.) MvM rendelet alapján ezúton kérem a felelős akkreditált közbeszerzési szaktanácsadói névjegyzékbe történő felvételemet az alábbi adatok alapján:
 
 I. Kérelmező személyes adatai
 
-| Kérelmező neve: |
+|  | Kérelmező neve: | Titulus: |
 
-| Születési hely, idő: |
+|  | Családi név: |
 
-| Elérhetőségi cím: |
+|  | Utónév: |
 
-| Telefon: +36 |
+|  | Anyja születési neve: |  |
 
-| Mobil: +36 |
+|  | Születési hely, idő: |  |
 
-| Fax: +36 |
+|  | Elérhetőségi cím: |  |
 
-| E-mail: |
+|  | Telefon: |  |
 
-| □ Nem független felelős akkreditált közbeszerzési szaktanácsadó | Munkáltató neve: |
+|  | Mobil: |  |
 
-| Munkáltató székhelye: |
+|  | Fax: |  |
+
+|  | E-mail: |  |
+
+|  | Hivatalos elérhetőség:1 |  |
+
+|  | □Nem független felelős akkreditált közbeszerzési szaktanácsadó | Munkáltató neve: |
+
+|  | Munkáltató székhelye: |
+
+|  | Munkáltató adószáma: |
 
 II. Kérelem benyújtásának oka
 
@@ -38,41 +48,45 @@ III. Közbeszerzési gyakorlat igazolásának módja
 
 □ A Rendelet 4. §-a szerint
 
+□ A Rendelet 8. § (2) bekezdése szerint
+
 IV. Befizető adatai
 
-| Befizető neve: |  |
+|  | Befizető neve: |  |
 
-| Befizető címe: |  |
+|  | Befizető címe: |  |
 
-| Befizető számlaszáma: |  |
+|  | Befizető számlaszáma: |  |
 
 V. Mellékletek
 
-− felsőfokú végzettséget igazoló diploma vagy oklevél másolata
+− felsőfokú végzettséget igazoló dokumentum
 
 − közbeszerzési gyakorlat igazolására vonatkozó dokumentum(ok)
 
-− felelősségbiztosítási kötvény másolata [5. § (3) bekezdés szerinti esetben nem szükséges]
-
-− erkölcsi bizonyítvány vagy annak másolata
+− felelősségbiztosítás meglétének igazolása [5. § (3) bekezdés szerinti esetben nem szükséges]
 
 − nyilatkozat a Kbt. 195. § (9) bekezdése szerinti kizáró okok fenn nem állásáról
 
 − igazolás a kötelező szakmai képzésen való részvételről
 
-− a bejegyzés díjának befizetését igazoló készpénz-átutalási megbízás vagy átutalási megbízás másolata
+− a bejegyzés díjának befizetését igazoló dokumentum
 
 − munkáltatói igazolás [2. § (7) bekezdése szerinti esetben]
 
 − ajánlatkérőtől vagy az ellenőrzésre feljogosított szervtől származó nyilatkozat [3. § (1) bekezdése szerinti esetben]
 
-Alulírott kérelmező büntetőjogi felelősségem tudatában nyilatkozom, hogy az általam másolatban benyújtott fenti dokumentumok a birtokomban megtalálható eredeti dokumentumokkal mindenben megegyeznek. Vállalom, hogy a Miniszterelnökség erre vonatkozó felhívása esetén az eredeti dokumentumokat bemutatom.
+Alulírott kérelmező büntetőjogi felelősségem tudatában nyilatkozom, hogy az általam benyújtott fenti dokumentumok a birtokomban megtalálható eredeti dokumentumokkal mindenben megegyeznek. Vállalom, hogy a Miniszterelnökség erre vonatkozó felhívása esetén az eredeti dokumentumokat bemutatom.
 
-…………………, …….. (év) ………..… (hó) ….. (nap)
+........................................................, ......... (év) ................ (hó) ........... (nap)
 
-…………………………………
+.................................................
 
 kérelmező aláírása
 
-[^49]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^50]: Az 1. melléklet a 41/2016. (XII. 29.) MvM rendelet 12. §-ával megállapított, a 28/2017. (XI. 6.) MvM rendelet 7. § b) pontja szerint módosított szöveg.
+_____________________________________
+
+1 Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. §-ában, illetve 15. §-ában meghatározott hivatalos elérhetőség, amennyiben a kérelmező ilyennel rendelkezik.
+
+[^50]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: Az 1. melléklet az 1/2018. (II. 5.) MvM rendelet 7. §-ával megállapított szöveg.

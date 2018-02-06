@@ -4,13 +4,13 @@
 
 (2) Az (1) bekezdésben meghatározott, közbeszerzési gyakorlatra vonatkozó igazolás kiállítója büntetőjogi felelőssége tudatában nyilatkozik, hogy jogosult az igazolás kiadására és az igazolás tartalma a valóságnak megfelel.
 
-(3)[^15] A kérelmező közbeszerzési gyakorlatát a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: régi Kbt.) 6. § (1) bekezdése, továbbá a Kbt. 5–7. §-a szerinti ajánlatkérőnél vagy ezek megbízásából a kérelem benyújtását megelőző három éven belül összesen legalább huszonöt közbeszerzési eljárásban folytatott közbeszerzési tevékenység bemutatásával igazolhatja, melyből legalább tizenöt közbeszerzési eljárás teljes körű lebonyolítására vonatkozik.
+(3)[^14] A kérelmező közbeszerzési gyakorlatát a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: régi Kbt.) 6. § (1) bekezdése, továbbá a Kbt. 5–7. §-a szerinti ajánlatkérőnél vagy ezek megbízásából a kérelem benyújtását megelőző három éven belül összesen legalább huszonöt közbeszerzési eljárásban folytatott közbeszerzési tevékenység bemutatásával igazolhatja, melyből legalább tizenöt közbeszerzési eljárás teljes körű lebonyolítására vonatkozik.
 
 (4) A kérelmező közbeszerzési tevékenységre vonatkozó gyakorlatát igazolhatja munkajogviszony, közszolgálati, közalkalmazotti, kormánytisztviselői vagy állami tisztviselői jogviszony, egyéb foglalkoztatási jogviszonyban vagy megbízási jogviszony alapján közbeszerzési eljárásokhoz kapcsolódó, jogszabályban feljogosított szerv részére végzett folyamatba épített közbeszerzési-jogi ellenőrzésben, minőségellenőrzési tevékenységben, utóellenőrzésben, vagy utólagos ellenőrzésben történő érdemi részvétel is.
 
 (5) E § alkalmazásában közbeszerzési eljárás teljes körű lebonyolításaként nem vehető figyelembe a régi Kbt. szerinti keretmegállapodásos eljárás régi Kbt. 110. § (3) és (4) bekezdése szerinti második részére vonatkozó eljárási cselekmények, így a verseny újranyitásával, közvetlen megrendeléssel, valamint a konzultációval történő szerződéskötés, továbbá az egyedi közbeszerzési szerződés megkötésére irányuló, Kbt. 105. § (1) és (2) bekezdése szerinti eljárási cselekmények.
 
-(6)[^16] Az e § szerinti esetben a közbeszerzési gyakorlatra vonatkozó igazolásnak tartalmaznia kell mindazokat az adatokat, amelyek alapján megállapítható, hogy a kérelmező eleget tesz a névjegyzékbe vétel feltételeinek. A közbeszerzési eljárás teljes körű lebonyolítására vagy közbeszerzési tevékenységre vonatkozó közbeszerzési gyakorlatra vonatkozó igazolásnak tartalmaznia kell az alábbi információkat:
+(6)[^15] Az e § szerinti esetben a közbeszerzési gyakorlatra vonatkozó igazolásnak tartalmaznia kell mindazokat az adatokat, amelyek alapján megállapítható, hogy a kérelmező eleget tesz a névjegyzékbe vétel feltételeinek. A közbeszerzési eljárás teljes körű lebonyolítására vagy közbeszerzési tevékenységre vonatkozó közbeszerzési gyakorlatra vonatkozó igazolásnak tartalmaznia kell az alábbi információkat:
 
 a) a kérelmező mely közbeszerzési eljárással összefüggésben fejtette ki a hivatkozott tevékenységet, a következők szerint:
 
@@ -36,7 +36,7 @@ d) az igazolás kiállítójának büntetőjogi felelőssége tudatában tett é
 
 (8) A (7) bekezdés szerinti szabályt nem kell alkalmazni, ha a kérelmező büntetőjogi felelőssége tudatában nyilatkozik, hogy nem az ő tevékenysége vezetett a jogsértéshez.
 
-(9)[^17] Az ellenőrzési tevékenységre vonatkozó közbeszerzési gyakorlatra vonatkozó igazolásnak tartalmaznia kell mindazokat az információkat, amelyek alapján megállapítható, hogy a kérelmező eleget tesz a névjegyzékbe vétel feltételeinek, így:
+(9)[^16] Az ellenőrzési tevékenységre vonatkozó közbeszerzési gyakorlatra vonatkozó igazolásnak tartalmaznia kell mindazokat az információkat, amelyek alapján megállapítható, hogy a kérelmező eleget tesz a névjegyzékbe vétel feltételeinek, így:
 
 a) a kérelmező mely közbeszerzési eljárással összefüggésben fejtette ki a hivatkozott tevékenységet, a következők szerint:
 
@@ -56,6 +56,6 @@ c) az igazolás kiállítójának büntetőjogi felelőssége tudatában tett é
 
 (10) A közbeszerzésekért felelős miniszter az e § szerinti igazolásban feltüntetett, a közbeszerzési eljárás teljes körű lebonyolítására vagy közbeszerzési tevékenységre vonatkozó adatokat ellenőrzi, az ellenőrzési tevékenység körében megadott adatok ellenőrzése céljából az ellenőrzésre feljogosított szervtől információt kérhet. Ha az igazoláson szereplő közbeszerzési eljárás a Közbeszerzési Adatbázisban nem szerepel, az adott közbeszerzési eljárás a kérelmező gyakorlatának igazolásaként nem fogadható el.
 
-[^15]: A 3. § (3) bekezdése a 41/2016. (XII. 29.) MvM rendelet 11. § 4. pontja szerint módosított szöveg.
-[^16]: A 3. § (6) bekezdés nyitó szövegrésze a 41/2016. (XII. 29.) MvM rendelet 11. § 5. pontja szerint módosított szöveg.
-[^17]: A 3. § (9) bekezdés nyitó szövegrésze a 41/2016. (XII. 29.) MvM rendelet 11. § 6. pontja szerint módosított szöveg.
+[^14]: A 3. § (3) bekezdése a 41/2016. (XII. 29.) MvM rendelet 11. § 4. pontja szerint módosított szöveg.
+[^15]: A 3. § (6) bekezdés nyitó szövegrésze a 41/2016. (XII. 29.) MvM rendelet 11. § 5. pontja szerint módosított szöveg.
+[^16]: A 3. § (9) bekezdés nyitó szövegrésze a 41/2016. (XII. 29.) MvM rendelet 11. § 6. pontja szerint módosított szöveg.

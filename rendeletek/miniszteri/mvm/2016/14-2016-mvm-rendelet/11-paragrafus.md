@@ -8,7 +8,7 @@
 
 (3) A felelős akkreditált közbeszerzési szaktanácsadó névjegyzékben szereplő adatainak módosítását háromezer forint igazgatási szolgáltatási díj megfizetése után kérelmezheti a közbeszerzésekért felelős miniszternél.
 
-(4) Az (1)–(3) bekezdés szerinti, valamint a 14. § (3) bekezdés szerinti igazgatási szolgáltatási díj megfizetésének elmaradása esetén a kérelem elbírálás nélkül elutasításra kerül. Az igazgatási szolgáltatási díj megfizetése alól mentesség nem adható.
+(4)[^38]
 
 (5) Az igazgatási szolgáltatási díj a kérelem elutasítása vagy visszavonása esetén nem kerül visszafizetésre.
 
@@ -18,3 +18,4 @@
 
 [^36]: A 10. § a 41/2016. (XII. 29.) MvM rendelet 8. §-ával megállapított szöveg.
 [^37]: [A 11. § (1) bekezdésében a 41/2016. (XII. 29.) MvM rendelet 11. § 12. pontjával elrendelt módosítás, amely szerint az „az előzetes regisztráció” szövegrész helyébe az „a névjegyzékbe vétel” szöveg lép, nem vezethető át.]
+[^38]: A 11. § (4) bekezdését az 1/2018. (II. 5.) MvM rendelet 6. § b) pontja hatályon kívül helyezte.

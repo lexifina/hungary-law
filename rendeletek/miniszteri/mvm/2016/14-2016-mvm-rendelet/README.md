@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-14-20-6
 | 2016-06-26 | 2016-14-20-6N.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2016-14-20-6N.3 | 41/2016. (XII. 29.) MvM rendelet |
 | 2017-11-07 | 2016-14-20-6N.4 | 28/2017. (XI. 6.) MvM rendelet |
+| 2018-02-06 | 2016-14-20-6N.5 | 1/2018. (II. 5.) MvM rendelet |
