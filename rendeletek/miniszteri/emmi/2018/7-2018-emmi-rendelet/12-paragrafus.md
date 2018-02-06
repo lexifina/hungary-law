@@ -1,0 +1,1 @@
+## „(4) A szenvedélybetegek közösségi ellátására egyebekben e rendelet közösségi pszichiátriai ellátásra vonatkozó szabályait kell alkalmazni azzal az eltéréssel, hogy a munkatársaknak nem kell speciális képzésen részt venni, és a gondozó addiktológiai konzultáns bevonása mellett végezheti a feladatát.”

@@ -1,0 +1,1 @@
+## „(10) Az Szt. 65/E. § (3) bekezdése szerinti időszak alatt az ellátási területre vonatkozó, e rendelet szerinti szabályoktól – a diszpécserszolgálattal egyeztetett módon, az ellátási szükségletnek megfelelően – el lehet térni.”
