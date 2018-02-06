@@ -1,0 +1,1 @@
+A Magyarország Kormánya és Győr Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1387/2017. (VI. 27.) Korm. határozat 3. pont b) alpontja megvalósítása érdekében a Kormány
