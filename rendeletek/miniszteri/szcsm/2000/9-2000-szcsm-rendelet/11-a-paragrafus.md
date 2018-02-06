@@ -1,17 +1,37 @@
-11/A. §[^43] (1)[^44] A Főigazgatóság a továbbképzések szakmai felügyelete keretében nyomon követi a minősített továbbképzési programok megvalósítását. Ha a továbbképzés megvalósítása a minősített továbbképzési programtól eltér, a Főigazgatóság határidő tűzése mellett felhívja a továbbképző szervezetet az eltérés megszüntetésére.
+11/A. §[^48] (1) A Főigazgatóság a továbbképzések szakmai felügyelete keretében nyomon követi a minősített továbbképzési programok megvalósítását. Ha a továbbképzés megvalósítása a minősített továbbképzési programtól eltér, vagy a továbbképző szervezet az e rendeletben foglalt kötelezettségeit nem teljesíti, a Főigazgatóság határidő tűzése mellett felhívja a továbbképző szervezetet az eltérés megszüntetésére, illetve az e rendeletben foglalt kötelezettségeinek teljesítésére.
 
-(2)[^45] Ha a továbbképző szervezet az (1) bekezdés szerinti felhívásnak határidőben nem tesz eleget, és a továbbképzés nem a továbbképzési programban meghatározott
+(2) Ha a továbbképző szervezet az (1) bekezdés szerinti felhívásnak határidőben nem tesz eleget, és
 
-a) tananyag felhasználásával vagy
+a) a továbbképzés nem a továbbképzési programban meghatározott
 
-b) óraszámban vagy
+aa) ismeretanyag felhasználásával,
 
-c) tárgyak oktatásával vagy
+ab) óraszámban,
 
-d) képesítésű oktató részvételével
+ac) tematika oktatásával,
 
-történik, a Főigazgatóság a szervezet továbbképzés-szervezési jogát a folyamatban lévő továbbképzések befejezését követően 2 évre felfüggeszti.
+ad) képesítésű oktató, tréner, előadó, műhelyvezető, illetve tanulmányútért szakmailag felelős személy részvételével, vagy
 
-[^43]: A 11/A. §-t a 41/2012. (XI. 28.) EMMI rendelet 6. §-a iktatta be.
-[^44]: A 11/A. § (1) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
-[^45]: A 11/A. § (2) bekezdés záró szövegrésze a 43/2016. (XII. 27.) EMMI rendelet 11. § e) pontja szerint módosított szöveg.
+ae) – a továbbképzési tevékenység folytatásához szükséges – tárgyi feltételek megléte mellett
+
+## történik,
+
+b) a továbbképzés – a szakmai tanácskozás és a szakmai e-learning kivételével – a továbbképzési programban szereplő maximális résztvevői létszámnál magasabb résztvevői létszámmal történik,
+
+c) a továbbképzés szervezője a továbbképzési programon való részvételről nem adja ki az 1. számú melléklet szerinti igazolást,
+
+d) a továbbképzési programon való részvételről kiadott 1. számú melléklet szerinti igazolás adatai eltérnek a továbbképzési program 4. § (6) bekezdése szerint közzétett adataitól,
+
+e) a továbbképzési program a minősítés érvényességi idejét meghaladóan kerül megszervezésre,
+
+f) a továbbképzés szervezője a minősítési kérelemben feltüntetett adatainak változásáról legkésőbb 30 napon belül nem tesz írásbeli bejelentést a Főigazgatóságnak, vagy
+
+g) a továbbképzés szervezője a 4. § (7), illetve (8) bekezdésében előírt bejelentési, beszámolási kötelezettségének nem tesz eleget,
+
+a Főigazgatóság a folyamatban lévő továbbképzések befejezését követően 2 évre felfüggeszti a továbbképző szervezet továbbképzés-szervezési jogát.
+
+(3) Ha a szervezet továbbképzés-szervezési jogát felfüggesztik, a felfüggesztés időtartama alatt nem jogosult továbbképzés szervezésére.
+
+(4) A továbbképző szervezet a Főigazgatóság jogsértő intézkedése esetén panaszt nyújthat be a szociál- és nyugdíjpolitikáért felelős miniszterhez.
+
+[^48]: A 11/A. §-t a 41/2012. (XI. 28.) EMMI rendelet 6. §-a iktatta be, szövege a 7/2018. (II. 5.) EMMI rendelet 36. §-ával megállapított szöveg.

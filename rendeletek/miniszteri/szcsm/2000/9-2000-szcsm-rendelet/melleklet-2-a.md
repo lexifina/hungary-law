@@ -30,6 +30,6 @@
 
 | 15. Az egészségügyi szakdolgozók továbbképzésének szabályairól szóló 63/2011. (XI. 29.) NEFMI rendelet alapján egészségügyi továbbképzésként nyilvántartásba vett: |  |
 
-2/A. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^68]
+2/A. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^71]
 
-[^68]: A 2/A. számú mellékletet a 41/2012. (XI. 28.) EMMI rendelet 11. § (2) bekezdése iktatta be.
+[^71]: A 2/A. számú mellékletet a 41/2012. (XI. 28.) EMMI rendelet 11. § (2) bekezdése iktatta be.
