@@ -1,6 +1,6 @@
 ## JELENTKEZÉSI LAP
 
-## szociális szolgáltatásokat végzők képzésére
+## komplex támogatási szükségletmérő vizsgára
 
 ## 1. Személyes adatok:
 
@@ -8,46 +8,38 @@
 
 ## Születési hely:
 
-## Születési idő: ............ év .............................. hónap ...... nap
+## Születési idő: ....................... év ................................................. hónap ........ nap
 
 ## Anyja neve:
 
-## Értesítési cím, telefonszám:
+## Értesítési cím:
 
-## 2. A képzések közül az alábbira jelentkezem*:
+## Telefonszám, elektronikus levelezési cím:
 
-## □ adósságkezelési tanácsadó képzés
+## 2. A komplex támogatási szükségletmérő vizsgához szükséges feltétellel rendelkezem:
 
-## □ támogató szolgálat-vezető képzés
+## 2.1. a személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló jogszabály szerint minősített tanfolyamot sikeresen elvégeztem
 
-## □ személyi segítő képzés
+## 2.2. támogatási szükségletfelmérő szakmentor képzettséggel rendelkezem
 
-## □ személyszállító képzés
+## (A megfelelő rész aláhúzandó!)
 
-## □ falu- és tanyagondnoki képzés
+## 3. A vizsgát az alábbi képzőhelyen kívánom letenni:
 
-## □ közösségi koordinátor képzés
+## Ha vállalja, hogy a jelentkezését átirányítsák, amennyiben a választott helyszínen az adott időszakban nem szerveznek vizsgáztatást, adja meg alkalmassági sorrendben az átirányítás helyszíneit:
 
-## □ közösségi gondozó képzés
+## 1.
 
-## * A Jelentkezési laphoz mellékelni kell a választott képzésnek megfelelő munkakör a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SzCsM rendeletben foglalt képesítési előírásainak teljesítését igazoló dokumentumok másolatát.
+## 2.
 
-## 3. A képzést az alábbi képzőhelyen kívánom elvégezni:
+## 3.
 
-| Ha vállalja, hogy a jelentkezését átirányítsák, amennyiben a választott helyszínen az adott időszakban nem indul képzés, adja meg alkalmassági sorrendben az átirányítás helyszíneit: |
+## Kelt: ..........................................................., ........... év ................................ hónap ....... napján.
 
-|  | 1. |
+## ........................................................................
 
-|  | 2. |
+## jelentkező aláírása
 
-|  | 3. |
+2. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^30]
 
-## Kelt ........................, ........... év .............. hónap ........ napján.
-
-|  | ...................................... |
-
-|  | jelentkező aláírása |
-
-2. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^25]
-
-[^25]: A 2. számú melléklet a 6/2006. (XII. 12.) SZMM rendelet 4. § (2) bekezdése, a 39/2015. (VIII. 28.) EMMI rendelet 10. § f) pontja, a 43/2016. (XII. 27.) EMMI rendelet 19. § e) pontja szerint módosított szöveg.
+[^30]: A 2. számú melléklet a 6/2006. (XII. 12.) SZMM rendelet 4. § (2) bekezdése, a 39/2015. (VIII. 28.) EMMI rendelet 10. § f) pontja, a 43/2016. (XII. 27.) EMMI rendelet 19. § e) pontja szerint módosított szöveg.

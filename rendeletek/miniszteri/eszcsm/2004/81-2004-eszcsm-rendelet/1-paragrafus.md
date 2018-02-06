@@ -24,6 +24,6 @@ da) a közösségi koordinátor,
 
 db) a közösségi gondozó,
 
-e)[^1]
+e)[^1] a komplex támogatási szükségletmérő
 
-[^1]: Az 1. § e) pontját az 55/2013. (VII. 29.) EMMI rendelet 16. § a) pontja hatályon kívül helyezte.
+[^1]: Az 1. § e) pontját az 55/2013. (VII. 29.) EMMI rendelet 16. § a) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 41. §-a iktatta be.

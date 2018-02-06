@@ -30,7 +30,7 @@
 
 |  | aláírás |
 
-3. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^26]
+3. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^31]
 
 TANÚSÍTVÁNY
 
@@ -62,4 +62,4 @@ Kelt ............................................., ....... év ................
 
 | a képző intézmény vezetője | a vizsgabizottság elnöke |
 
-[^26]: A 3. számú melléklet a 6/2006. (XII. 12.) SZMM rendelet 4. § (2) bekezdése, a 39/2015. (VIII. 28.) EMMI rendelet 10. § g) pontja, a 43/2016. (XII. 27.) EMMI rendelet 19. § f) pontja szerint módosított szöveg.
+[^31]: A 3. számú melléklet a 6/2006. (XII. 12.) SZMM rendelet 4. § (2) bekezdése, a 39/2015. (VIII. 28.) EMMI rendelet 10. § g) pontja, a 43/2016. (XII. 27.) EMMI rendelet 19. § f) pontja szerint módosított szöveg.
