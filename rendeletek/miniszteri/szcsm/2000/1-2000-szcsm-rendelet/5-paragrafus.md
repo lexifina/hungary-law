@@ -58,6 +58,10 @@ bc) a konfliktuskezelés módját, eredménytelensége esetére az azokról val�
 
 bd) az ellátást igénybevevő jogainak sérelme esetén alkalmazandó jelzőrendszer szabályait,
 
+be)[^20] az intézményi jogviszony megszűnésének szabályait,
+
+bf)[^21] a befizetett belépési hozzájárulás időarányos visszafizetésének módját és részletes szabályait.
+
 c) az Szt. 75. § (2) bekezdés c) pontja esetében az 1. számú mellékletben meghatározott szabályzatokkal, ide nem értve az 1. számú melléklet I. pontja szerinti szabályzatokat,
 
 d) az Szt. 75. § (1) bekezdés b)–d) pontja szerinti szolgáltatások biztosítása esetében az 1. számú melléklet I. 1. alpontjában, II. és III. pontjában meghatározott szabályzatokkal,
@@ -74,3 +78,5 @@ e) a szolgáltatás körében okozott kár megtérítésére vonatkozó érvény
 [^17]: Az 5. § (3) bekezdésének bevezető mondata a 2/2006. (IV. 14.) ICSSZEM rendelet 2. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
 [^18]: Az 5. § (4) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 5. §-a iktatta be.
 [^19]: Az 5. § (4) bekezdés b) pontja az 1/2017. (II. 14.) EMMI rendelet 58. § a) pontja szerint módosított szöveg.
+[^20]: Az 5. § (4) bekezdés b) pont be) alpontját a 7/2018. (II. 5.) EMMI rendelet 4. §-a iktatta be.
+[^21]: Az 5. § (4) bekezdés b) pont bf) alpontját a 7/2018. (II. 5.) EMMI rendelet 4. §-a iktatta be.

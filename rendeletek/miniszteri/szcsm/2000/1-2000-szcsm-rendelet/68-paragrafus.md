@@ -8,6 +8,6 @@
 
 (3) A rehabilitációs intézmény feladata az intézményi ellátást igénybe vevő önálló életvezetési képességeinek kialakítása, illetve helyreállítása, fejlesztése, továbbá a társadalomba történő be-, illetve visszailleszkedésének támogatása és az utógondozás megszervezése.
 
-(4)[^222]
+(4)[^240]
 
-[^222]: A 68. § (4) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § h) pontja hatályon kívül helyezte.
+[^240]: A 68. § (4) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § h) pontja hatályon kívül helyezte.

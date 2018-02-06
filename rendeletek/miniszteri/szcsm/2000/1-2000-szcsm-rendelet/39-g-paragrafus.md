@@ -1,21 +1,25 @@
-39/G. § (1)[^147] A közösségi pszichiátriai ellátást közösségi gondozó és közösségi koordinátor végzi. Egy közösségi gondozó vagy közösségi koordinátor legfeljebb 25 ellátottról gondoskodhat. A közösségi gondozó vagy közösségi koordinátor további 10 ellátottról gondoskodhat, amennyiben a gondozottak legalább felénél a rehabilitációs folyamat intenzitása nem haladja meg a havi 4 találkozást. Amennyiben a 2. számú melléklet szerint nem kell önálló közösségi koordinátort alkalmazni, a koordinátor feladatait a szolgálat vezetője látja el.
+39/G. § (1)[^155] Egy munkatárs legfeljebb 25 fő ellátottról gondoskodhat. A 25 fő ellátotti létszám további legfeljebb 10 fővel növelhető, ha a gondozottak legalább felénél a rehabilitációs folyamat intenzitása nem haladja meg a havi 4 találkozást.
 
-(2) A közösségi gondozó munkájába bevonja
+(2)[^156] A gondozó munkájába bevonja
 
 a) az ellátott lakókörnyezetében megtalálható önkéntes segítőket, így különösen a családtagokat, szomszédokat és egyéb, az ellátottal kapcsolatban álló önkéntes közreműködőket,
 
 b) szükség esetén az egészségügyi és szociális alap- és szakellátást nyújtó intézményeket.
 
-(3) A közösségi koordinátor
+(3)[^157] Az intézményvezető és a szakmai egység vezetését ellátó terápiás munkatárs
 
-a) összehangolja a közösségi gondozók munkáját, rendszeres esetmegbeszéléseket szervez, biztosítja a szupervíziót,
+a)[^158] összehangolja a gondozók munkáját, rendszeres esetmegbeszéléseket szervez, biztosítja a szupervíziót,
 
 b) szervezi a rehabilitációs célú foglalkoztatási lehetőségek igénybevételét, ehhez kapcsolódó ösztönző programokat dolgoz ki,
 
-c) szervezi a közösségi gondozók rendszeres szakmai továbbképzését,
+c)[^159] szervezi a gondozók rendszeres szakmai továbbképzését,
 
 d) közösségi munkacsoportot működtet,
 
 e) éves jelentést készít a fenntartónak, amelyben beszámol az ellátás tapasztalatairól, valamint javaslatot tesz a szükséges fejlesztésekre.
 
-[^147]: A 39/G. § (1) bekezdése a 35/2009. (XII. 30.) SZMM rendelet 15. §-ával megállapított szöveg.
+[^155]: A 39/G. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^156]: A 39/G. § (2) bekezdés nyitó szövegrésze a 7/2018. (II. 5.) EMMI rendelet 19. § c) pontja szerint módosított szöveg.
+[^157]: A 39/G. § (3) bekezdés nyitó szövegrésze a 7/2018. (II. 5.) EMMI rendelet 18. § i) pontjával megállapított szöveg.
+[^158]: A 39/G. § (3) bekezdés a) pontja a 7/2018. (II. 5.) EMMI rendelet 19. § c) pontja szerint módosított szöveg.
+[^159]: A 39/G. § (3) bekezdés c) pontja a 7/2018. (II. 5.) EMMI rendelet 19. § c) pontja szerint módosított szöveg.

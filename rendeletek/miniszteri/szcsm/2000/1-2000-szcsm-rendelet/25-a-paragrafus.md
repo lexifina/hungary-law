@@ -1,7 +1,7 @@
-## 25/A. §[^97] A házi segítségnyújtás
+## 25/A. §[^104] A házi segítségnyújtás
 
 a) a személyi gondozás keretében gondozás és háztartási segítségnyújtás,
 
 b) a szociális segítés keretében háztartási segítségnyújtás
 
-[^97]: A 25/A. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdés e) pontja hatályon kívül helyezte, újonnan az 1/2017. (II. 14.) EMMI rendelet 32. § iktatta be.
+[^104]: A 25/A. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdés e) pontja hatályon kívül helyezte, újonnan az 1/2017. (II. 14.) EMMI rendelet 32. § iktatta be.
