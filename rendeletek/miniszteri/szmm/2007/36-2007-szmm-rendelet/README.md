@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-36-20-1
 | 2016-01-01 | 2007-36-20-1X.9 | 55/2015. (XI. 30.) EMMI rendelet |
 | 2017-02-17 | 2007-36-20-1X.10 | 1/2017. (II. 14.) EMMI rendelet |
 | 2017-10-21 | 2007-36-20-1X.11 | 26/2017. (X. 18.) EMMI rendelet |
+| 2018-02-06 | 2007-36-20-1X.12 | 55/2015. (XI. 30.) EMMI rendelet |
