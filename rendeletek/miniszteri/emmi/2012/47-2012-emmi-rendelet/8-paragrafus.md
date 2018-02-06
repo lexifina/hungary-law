@@ -4,4 +4,6 @@
 
 (2) Az 5. alcím az e rendelet kihirdetését követő 31. napon lép hatályba.
 
-(3) Ez a rendelet a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+(3)[^6]
+
+[^6]: A 8. § (3) bekezdését a 7/2018. (II. 5.) EMMI rendelet 55. § b) pontja hatályon kívül helyezte.

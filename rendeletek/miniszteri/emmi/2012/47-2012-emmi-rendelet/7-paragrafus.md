@@ -1,3 +1,5 @@
+## 6. §
+
 ## 5. A névjegyzékbe vételi eljárás igazgatási szolgáltatási díja
 
 7. § (1) A rehabilitációs orvosszakértőnek a névjegyzékbe történő felvétele, valamint a bejelentés megújítása során igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetnie. A díj mértéke 5000 Ft.
