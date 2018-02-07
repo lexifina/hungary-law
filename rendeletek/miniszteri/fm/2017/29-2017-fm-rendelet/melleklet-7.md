@@ -56,4 +56,6 @@
 
 | 7. | E 333 | kalcium-citrátok |
 
-7. melléklet a 29/2017. (VI. 7.) FM rendelethez
+7. melléklet a 29/2017. (VI. 7.) FM rendelethez[^33]
+
+[^33]: A 7. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (5) bekezdésével megállapított szöveg.

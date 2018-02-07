@@ -4,6 +4,9 @@
 
 (2) A tankerületi központtól eltérő fenntartó egy tanítási év vonatkozásában köznevelési intézményenként csak egy kérelmezővel köthet megállapodást.
 
-(3) A tankerületi központ egy tanítási év vonatkozásában egy járásba tartozó köznevelési intézményenként kizárólag egy kérelmezővel köthet megállapodást. A tankerületi központ eltérő járásba tartozó köznevelési intézmények vonatkozásában különböző kérelmezőkkel is köthet megállapodást.
+(3)[^8] A tankerületi központ egy adott tanítási év vonatkozásában a köznevelési intézmények feladatellátási helyét tekintve ugyanazon járásba tartozó intézményegységek ellátására kizárólag egy kérelmezővel köthet megállapodást.
 
-(4) A több tanítási évre szóló megállapodásokat a soron következő tanítási évre vonatkozó tanulólétszám, szállítási időszakok, szállítandó termékek, termékmennyiségek, kísérő intézkedések alkalmainak száma, valamint munkafüzet kiosztás vállalása meghatározásának érdekében módosítani kell. A megállapodás módosításának kötelező tartalmi elemeit magában foglaló – a 9. melléklet szerinti adatokat tartalmazó – nyomtatványt a Kincstár a honlapján közzéteszi.
+(4)[^9] A több tanítási évre szóló megállapodásokat a soron következő tanítási évre vonatkozó teljesítési helyszínek, tanulólétszámok, szállítási időszakok, szállítandó termékek, termékmennyiségek, a termékek kiosztásának tervezett időpontjai, a kísérő intézkedések alkalmainak száma, valamint munkafüzet kiosztás vállalása meghatározásának érdekében módosítani kell. A megállapodás módosításának kötelező tartalmi elemeit magában foglaló – a 9. melléklet szerinti adatokat tartalmazó – nyomtatványt a Kincstár a honlapján közzéteszi.
+
+[^8]: A 4. § (3) bekezdése a 3/2018. (II. 6.) FM rendelet 4. §-ával megállapított szöveg.
+[^9]: A 4. § (4) bekezdése a 3/2018. (II. 6.) FM rendelet 4. §-ával megállapított szöveg.

@@ -1,17 +1,21 @@
 ## Nyilvántartás a kiosztott termékmennyiségekről
 
-|  | A | B | C | D | E | F | G | H |
+## Nyilvántartás a kiosztott termékmennyiségekről
 
-| 1. | Hét | Kiosztási napok (H, K, Sze, Cs, P) | Kiosztási napokon jelenlévő tanulók számának heti összege (C=F) | Átvett termék- mennyiség (adag) | Leselejtezett termék- mennyiség (adag) | Kiosztott termék- mennyiség (adag) (D–E–G) | A 13. § (2) bekezdésének megfelelően kiosztott termék |
+|  | A | B | C | D | E | F | G |
 
-| 2. | mennyiség (adag) | tanulók csoportjának megjelölése (évf., osztály) |
+| 1. | A kiosztási hét naptár szerinti sorszáma | Kiosztási napok | Kiosztásban részesülő tanulók évfolyama, osztálya, csoportja | Kiosztási napokon jelenlévő | Átvett termékmennyiség | Leselejtezett termékmennyiség | Kiosztott termékmennyiség |
 
-| 3. |  |  |  |  |  |  |  |  |
+| (H, K, Sze, Cs, P) | tanulók számának heti összege | (adag) | (adag) | (adag) |
 
-| 4. |  |  |  |  |  |  |  |  |
+| 2. |  |  |  |  |  |  |  |
 
-| 5. |  |  |  |  |  |  |  |  |
+| 3. |  |  |  |  |  |  |  |
 
-| 6. |  |  |  |  |  |  |  |  |
+| 4. |  |  |  |  |  |  |  |
 
-8. melléklet a 29/2017. (VI. 7.) FM rendelethez
+| 5. |  |  |  |  |  |  |  |
+
+8. melléklet a 29/2017. (VI. 7.) FM rendelethez[^34]
+
+[^34]: A 8. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (6) bekezdésével megállapított szöveg.

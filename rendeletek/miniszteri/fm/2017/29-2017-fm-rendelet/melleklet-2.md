@@ -36,4 +36,6 @@
 
 | 2.4. | karalábé (adagonként csomagolt) | 10 dkg | 25 | – | – | 25 |
 
-2. melléklet a 29/2017. (VI. 7.) FM rendelethez
+2. melléklet a 29/2017. (VI. 7.) FM rendelethez[^29]
+
+[^29]: A 2. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.

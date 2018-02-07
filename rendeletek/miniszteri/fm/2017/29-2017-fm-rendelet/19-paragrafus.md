@@ -6,4 +6,6 @@
 
 (2) Ha a fenntartó egy köznevelési intézmény vonatkozásában az adott tanítási év vonatkozásában – ugyanazon év benyújtási időszakában benyújtandó – több jóváhagyható megállapodást is kötött, akkor a Kincstár a fenntartó által – a 4. § (1) bekezdésében foglaltak sérelme nélkül – a 9. § (1) bekezdésében meghatározott benyújtási időszak végét megelőző legkésőbbi időpontban megkötött megállapodást veszi figyelembe. Ugyanazon a napon megkötött megállapodások esetén a 9. § (1) bekezdése szerinti, a Kincstárnál korábban érkeztetett kérelemben szereplő megállapodást kell figyelembe venni.
 
-(3) A Kincstár a 9. § (4) bekezdése szerinti hiánypótlásban szabott határidőn túl teljesített hiánypótlást a döntése meghozatalakor nem veszi figyelembe.
+(3)[^25]
+
+[^25]: A 19. § (3) bekezdését a 3/2018. (II. 6.) FM rendelet 16. § d) pontja hatályon kívül helyezte.

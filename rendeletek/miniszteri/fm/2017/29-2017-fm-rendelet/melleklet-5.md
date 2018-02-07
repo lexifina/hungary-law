@@ -4,39 +4,45 @@
 
 ## székhelye:
 
-## adószáma: .................................................................... ügyfél-azonosító:
+## adószáma: .................................................... ügyfél-azonosító:
 
-## képviseli: ....................................................................................................................................................... (a továbbiakban mint szállító),
+## képviseli: (a továbbiakban mint szállító),
 
-## másrészről a .
+## másrészről a
 
-## székhelye: .
+## székhelye:
 
 ## adószáma:
 
-## képviseli: .................................................................................................................................................. (a továbbiakban mint fenntartó),
+## KIR azonosító: □□□□□□□□
+
+## képviseli: (a továbbiakban mint fenntartó)
 
 ## között az alulírott helyen és napon az alábbi köznevelési intézmény vagy intézmények vonatkozásában:
 
 ## 1) Köznevelési intézmény neve:
 
-## székhelye:
+## székhelyének címe:
 
-## OM azonosító száma:
+## OM azonosító száma: □□□□□□
 
 ## 1) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe:
+## Feladatellátási hely neve:
+
+## Feladatellátási hely címe:
 
 ## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
 ## 2) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe:
+## Feladatellátási hely neve:
+
+## Feladatellátási hely címe:
 
 ## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
@@ -44,23 +50,27 @@
 
 ## 2) Köznevelési intézmény neve:
 
-## székhelye:
+## székhelyének címe:
 
-## OM azonosító száma:
+## OM azonosító száma: □□□□□□
 
 ## 1) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe:
+## Feladatellátási hely neve:
+
+## Feladatellátási hely címe:
 
 ## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
 ## 2) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe:
+## Feladatellátási hely neve:
+
+## Feladatellátási hely címe:
 
 ## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
@@ -68,47 +78,55 @@
 
 ## 3) Köznevelési intézmény neve:
 
-## székhelye:
+## székhelyének címe:
 
-## OM azonosító száma:
+## OM azonosító száma: □□□□□□
 
 ## 1) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe:
+## Feladatellátási hely neve:
+
+## Feladatellátási hely címe:
 
 ## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
 ## 2) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe: .......................................................................................................................
+## Feladatellátási hely neve:
 
-## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma: .....................................................................
+## Feladatellátási hely címe:
+
+## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
 ## (…)
 
 ## 4) Köznevelési intézmény neve:
 
-## székhelye:
+## székhelyének címe:
 
-## OM azonosító száma:
+## OM azonosító száma: □□□□□□
 
 ## 1) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe:
+## Feladatellátási hely neve:
+
+## Feladatellátási hely címe:
 
 ## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
 ## 2) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe:
+## Feladatellátási hely neve:
+
+## Feladatellátási hely címe:
 
 ## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
@@ -116,23 +134,27 @@
 
 ## 5) Köznevelési intézmény neve:
 
-## székhelye:
+## székhelyének címe:
 
-## OM azonosító száma:
+## OM azonosító száma: □□□□□□
 
 ## 1) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe:
+## Feladatellátási hely neve:
+
+## Feladatellátási hely címe:
 
 ## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
 ## 2) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe:
+## Feladatellátási hely neve:
+
+## Feladatellátási hely címe:
 
 ## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
@@ -140,47 +162,55 @@
 
 ## 6) Köznevelési intézmény neve:
 
-## székhelye:
+## székhelyének címe:
 
-## OM azonosító száma:
+## OM azonosító száma: □□□□□□
 
 ## 1) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe:
+## Feladatellátási hely neve:
+
+## Feladatellátási hely címe:
 
 ## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
 ## 2) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe:
+## Feladatellátási hely neve:
 
-## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma: ....................................................................
+## Feladatellátási hely címe:
+
+## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
 ## (…)
 
 ## 7) Köznevelési intézmény neve:
 
-## székhelye:
+## székhelyének címe:
 
-## OM azonosító száma:
+## OM azonosító száma: □□□□□□
 
 ## 1) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe:
+## Feladatellátási hely neve:
+
+## Feladatellátási hely címe:
 
 ## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
 ## 2) Teljesítési helyszín
 
-## Feladatellátási hely kód:
+## Feladatellátási hely sorszáma: □□□
 
-## Feladatellátási hely megnevezése, címe:
+## Feladatellátási hely neve:
+
+## Feladatellátási hely címe:
 
 ## Feladatellátási helyen tanuló 1–6. évfolyamra járó tanulók száma:
 
@@ -192,47 +222,51 @@
 
 ## 1. A megállapodás tárgya
 
-## A szállító vállalja, hogy a …. tanítási évtől kezdődően
+## A szállító vállalja, hogy a .... tanítási évtől kezdődően
 
 ## □ a ............................. tanítási év végéig
 
 ## □ a ............................. tanítási év végéig
 
-## □ a ..............................tanítási év végéig
+## □ a ............................. tanítási év végéig
 
-## mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EK európai parlamenti és tanácsi rendelet 23. cikkében meghatározott program keretében a 2. és 4. pontban meghatározott termékeket szállít az átvevő vagy átvevők részére, a fenntartó vállalja, hogy az átvevő a terméket átveszi és az 1–8. évfolyamra járó tanulói részére kiosztja.
+## mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EK európai parlamenti és tanácsi rendelet 23. cikkében meghatározott program keretében a 2. és 4. pontban meghatározott termékeket szállít az átvevő vagy átvevők részére, a fenntartó vállalja, hogy az átvevő a terméket átveszi és figyelemmel az iskolagyümölcs- és iskolazöldség-program végrehajtásáról szóló 29/2017. (VI. 7.) FM rendelet [a továbbiakban: 29/2017. (VI. 7.) FM rendelet] 13. § (2) bekezdésére, az 1–8. évfolyamra járó tanulói részére kiosztja.
 
 ## 2. A szállítandó termék
 
-## A szállítandó terméknek meg kell felelnie az iskolagyümölcs- és iskolazöldség-program végrehajtásáról szóló 29/2017. (VI. 7.) FM rendelet [a továbbiakban: 29/2017. (VI. 7.) FM rendelet] 12. §-a szerinti minőségi feltételeknek.
+## A szállítandó terméknek meg kell felelnie a 29/2017. (VI. 7.) FM rendelet 12. §-a szerinti minőségi feltételeknek.
 
-| A szállítandó termék termelésének, előállításának helye: | □ Magyarország; |
+## A szállítandó termék termelésének, előállításának helye: □ Magyarország;
 
-|  | Teljesítési helyszínnel azonos megye: .......................... adag |
+## Teljesítési helyszínnel azonos
 
-|  | Teljesítési helyszíntől eltérő megye: .......................... adag |
+## megye: .......................... adag
 
-|  | □ EU. |
+## Teljesítési helyszíntől eltérő
+
+## megye: .......................... adag
+
+## □ EU.
 
 ## Magas minőségű termékek tervezett aránya a szállítandó teljes mennyiség %-ában:
 
-## Integrált termelésből származó termék aránya: ………%
+## Integrált termelésből származó termék aránya: .........%
 
-## Global gap tanúsítvánnyal rendelkező termék aránya: ………%
+## Global gap tanúsítvánnyal rendelkező termék aránya: .........%
 
-## Bio termék aránya: ………%
+## Bio termék aránya: .........%
 
 ## 3. A teljesítési időszak és a szállítások ütemezése
 
-## A … tanítási évben a jelen megállapodás alapján történő szállítások időszaka:
+## A ... tanítási évben a jelen megállapodás alapján történő szállítások időszaka:
 
-## □ I. időszak: … – …
+## □ I. időszak: ...–...
 
-## □ II. időszak: … – …
+## □ II. időszak: ...–...
 
-## □ III. időszak: … – …
+## □ III. időszak: ...–...
 
-## □ IV. időszak: … – …
+## □ IV. időszak: ...–...
 
 ## A teljesítési időszak alatti szállítások száma (szállítási gyakoriság): ................... alkalom/hét.
 
@@ -240,19 +274,19 @@
 
 ## Az I. időszakban a szállítás időtartama: ................ hét
 
-| A szállítandó termék megnevezése | A tanulónként hetente kiosztásra kerülő termék mennyisége (adag/hét) |
+|  | A szállítandó termék megnevezése | A tanulónként hetente kiosztásra kerülő termék mennyisége (adag/hét) |
 
 ## A II. időszakban a szállítás időtartama: ................ hét
 
-| A szállítandó termék megnevezése | A tanulónként hetente kiosztásra kerülő termék mennyisége (adag/hét) |
+|  | A szállítandó termék megnevezése | A tanulónként hetente kiosztásra kerülő termék mennyisége (adag/hét) |
 
 ## A III. időszakban a szállítás időtartama: ............... hét
 
-| A szállítandó termék megnevezése | A tanulónként hetente kiosztásra kerülő termék mennyisége (adag/hét) |
+|  | A szállítandó termék megnevezése | A tanulónként hetente kiosztásra kerülő termék mennyisége (adag/hét) |
 
 ## A IV. időszakban a szállítás időtartama: ............... hét
 
-| A szállítandó termék megnevezése | A tanulónként hetente kiosztásra kerülő termék mennyisége (adag/hét) |
+|  | A szállítandó termék megnevezése | A tanulónként hetente kiosztásra kerülő termék mennyisége (adag/hét) |
 
 ## 5. A termék kiosztásának időpontja:
 
@@ -262,7 +296,7 @@
 
 ## 6. Kísérő intézkedések
 
-## A 29/2017. (VI. 7.) FM rendelet 17. § (2) bekezdése szerinti kísérő intézkedések alkalmainak száma: … alkalom
+## A 29/2017. (VI. 7.) FM rendelet 17. § (2) bekezdése szerinti kísérő intézkedések alkalmainak száma: ... alkalom
 
 ## Munkafüzet kiosztását vállalom/nem vállalom.
 
@@ -282,35 +316,37 @@
 
 ## 8. Számviteli elszámolás a fenntartónál, ha az költségvetési szerv
 
-## a) A szállító számlájának elszámolása, nyilvántartásba vétele
+## a) Kötelezettségvállalás nyilvántartásba vétele a költségvetési számvitel szerint
 
-## T 41231, 41331 Tőkeváltozások
+## T0021 – K053122
 
-## K 4414 Belföldi egyéb szállító
+## b) A számla kézhezvételét és teljesítésigazolását követően költségvetési évben esedékes végleges kötelezettségvállalás nyilvántartásba vétele költségvetési számvitel szerint
 
-## b) A támogatás megjelenítése pénzforgalom nélküli tételként
+## T053122 – K0021
 
-## ba) költségvetési kiadásként
+## T0022 – K053122
 
-## T 5882 Ellátottak pénzbeli juttatásainak előirányzat teljesítése
+## c) A számla kézhezvételét és teljesítésigazolását követően költségvetési évben esedékes kötelezettség könyvelése a pénzügyi számvitel szerint
 
-## K 499 Pénzforgalom nélküli költségvetési bevételek és kiadások sajátos elszámolása
+## T 211 – K 4213
 
-## bb) költségvetési bevételként
+## d) A szállítói számlák kifizetéséről szóló támogatói értesítést követően a számlák megtérítésének pénzforgalom nélküli elszámolása a költségvetési számvitel szerint
 
-## T 499 Pénzforgalom nélküli költségvetési bevételek és kiadások sajátos elszámolása
+## da) Követelésként T09162 – K0041
 
-## K 4642 Működési célú támogatás bevétel
+## db) Teljesítésként T005 – K09163
 
-## Kapcsolódó tételek:
+## dc) A korábban elszámolt végleges kötelezettségvállalás teljesítéseként T053123 – K003
 
-## Kiadások és bevételek elszámolása funkcionális osztályozás szerint
+## e) A szállítói számlák kifizetéséről szóló támogatói értesítést követően a számlák megtérítésének pénzforgalom nélküli elszámolása a pénzügyi számvitel szerint
 
-## bc) Szállítói kötelezettség állományának kivezetése.
+## ea) Követelésként T3511 – K922
 
-## T 4414 Belföldi egyéb szállító
+## eb) Teljesítésként (korábban elszámolt kötelezettségek és a követelés összevezetése)
 
-## K 4122, 4132 Tőkeváltozás.
+## T4213 – K3511
+
+## f) A gyümölcskiosztás elszámolása anyagköltségként T51 – K211
 
 ## 9. Az átvevő és a szállító kötelezettségei
 
@@ -320,7 +356,7 @@
 
 ## 2. a támogatott terméket a tanulók részére a közétkeztetéstől eltérő időpontban kiosztani;
 
-## 3. a tanulóknál fennálló ételallergiára vonatkozó szülői nyilatkozatokat beszerezni, és a termékek kiosztása során azokat figyelembe venni;
+## 3. a tanulóknál fennálló ételallergiára vonatkozó szülői nyilatkozatokat beszerezni és a termékek kiosztása során azokat figyelembe venni;
 
 ## 4. a 3. pontban rögzített szállítási gyakoriság mellett kiszállított termék minőségének megtartását biztosító tárolási körülményeket biztosítani;
 
@@ -336,12 +372,14 @@
 
 ## A jelen megállapodást a Felek az alul megjelölt napon írták alá azzal a kikötéssel, hogy a megállapodás az azt jóváhagyó határozat közlését követő napon lép hatályba, és a határozatban jóváhagyott termékekre és termékmennyiségekre vonatkozik, valamint a megállapodás teljesítése során a 29/2017. (VI. 7.) FM rendelet 4., 5., 6., 7., 8., 12. és 13. §-ában foglaltak szerint járnak el.
 
-## Jelen megállapodás 2 eredeti példányban készült, amelyből 1 példány a szállítót, 1 példány a fenntartót illeti meg. A fenntartó az átvevő részére másolati példányt ad át. A szállító a megállapodásból a Kincstár részére másolati példányt ad át.
+## Jelen megállapodás 2 eredeti példányban készült, amelyből 1 példány a szállítót, 1 példány a fenntartót illeti meg. A fenntartó az átvevő részére másolati példányt ad át.
 
 ## ......................................................, 20.......................................
 
-| ........................................................ | .................................................. |
+## ........................................................ ..................................................
 
-| szállító | fenntartó |
+## szállító fenntartó
 
-5. melléklet a 29/2017. (VI. 7.) FM rendelethez
+5. melléklet a 29/2017. (VI. 7.) FM rendelethez[^32]
+
+[^32]: Az 5. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.
