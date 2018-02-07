@@ -1,0 +1,33 @@
+## 2. § A 389/2007. (XII. 23.) Korm. rendelet „A kötelező átvételi jogosultság megállapítására vonatkozó eljárás” című alcíme a következő 6/A. §-sal egészül ki:
+
+## „6/A. § (1) A napelemes erőműre vonatkozó, e rendelet szerinti KÁT jogosultsággal rendelkező, nem engedélyköteles KÁT termelő köteles a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet módosításáról szóló 4/2018. (II. 2.) Korm. rendelet hatálybalépését követő 15. napig a Hivatalhoz benyújtani az alábbi dokumentumokat:
+
+## a) a beruházás helyszínéül szolgáló terület feletti rendelkezési jog igazolását vagy a tulajdonos hozzájáruló nyilatkozatát napelemes erőmű megvalósításához;
+
+## b) a napelemes erőműnek a beruházás helyszínéül szolgáló területen való elhelyezkedését mutató kiosztási vázlatát a felelős építész és villamos tervező arra vonatkozó nyilatkozatával, hogy a vázlat alapján a beruházás megvalósítható;
+
+## c) a területileg illetékes hálózati engedélyes benyújtás időpontjában érvényes műszaki-gazdasági tájékoztató levelét arról, hogy a KÁT termelő által megépíteni tervezett kapacitás milyen feltételekkel csatlakoztatható a villamos hálózathoz, továbbá a KÁT termelő nyilatkozatát arról, hogy a műszaki-gazdasági tájékoztató levélben foglaltakat elfogadja;
+
+## d) nyilatkozat a beruházás villamosenergia-termelés megkezdésének tervezett időpontjáról.
+
+## (2) Az a napelemes erőműre vonatkozó, e rendelet szerinti KÁT jogosultsággal rendelkező, nem engedélyköteles KÁT termelő, aki nem rendelkezik az (1) bekezdésben felsorolt valamennyi dokumentummal, az ennek tényéről szóló nyilatkozatát köteles a Hivatalhoz benyújtani az (1) bekezdésben megjelölt határidőn belül.
+
+## (3) Mentesül az (1) és (2) bekezdésben meghatározott dokumentumok benyújtásának kötelezettsége alól az a KÁT termelő,
+
+## a) aki a napelemes beruházás megvalósítását az elektronikus építési napló megnyitásával már megkezdte,
+
+## b) aki a napelemes beruházás műszaki kivitelezését befejezte,
+
+## c) akinek a napelemes beruházását a Kormány rendeletével nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánította,
+
+## d) aki 2018. február 1-jéig megkezdte a kötelező átvétel keretében történő értékesítést,
+
+## e) akinek a kötelező átvételre való jogosultsága visszavonásra került,
+
+## f) aki a 6. § (2) bekezdés szerinti határidőig nem kezdte meg a termelést, és a 6. § (2a) bekezdése szerinti hosszabbítást sem kérvényezte.
+
+## (4) A (3) bekezdés a)–c) pontjai szerinti mentesülési jogot a KÁT termelő a Hivatal felé az (1) bekezdésben megjelölt határidőn belül megfelelően igazolni köteles.
+
+## (5) Amennyiben az érintett KÁT termelő telephely-módosítás iránt kérelmet nyújtott be, amelynek elbírálása folyamatban van, az (1)–(4) bekezdésben foglaltak tekintetében a módosítási kérelemben megjelölt új helyszínt kell figyelembe venni.”
+
+3. § Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
