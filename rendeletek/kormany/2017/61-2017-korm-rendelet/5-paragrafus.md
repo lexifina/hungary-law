@@ -60,7 +60,11 @@
 
 30.[^9] más szervezetekkel együttműködve gondoskodik a nemzeti ünnepek megszervezéséről és lebonyolításáról,
 
-31.[^10] működteti a tulajdonosi joggyakorlása alá tartozó Hungarofest Nemzeti Rendezvényszervező Nonprofit Kft.-t, amely útján gondoskodik a hatáskörébe utalt rendezvények teljes körű lebonyolításáról.
+31.[^10] működteti a tulajdonosi joggyakorlása alá tartozó Hungarofest Nemzeti Rendezvényszervező Nonprofit Kft.-t, amely útján gondoskodik a hatáskörébe utalt rendezvények teljes körű lebonyolításáról,
+
+32.[^11] a tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonú gazdasági társaság útján kidolgozza a magyar divat- és designipari stratégiát, koordinálja és összehangolja a belföldi és a külföldi regionális divat- és designipari megjelenéseket, szakmai koordinációt végez és javaslatokat fogalmaz meg a divat- és designipar területén működő hazai szervezetek között az egységes szakmai módszertanok érvényesítése érdekében,
+
+33.[^12] a 8., 15. és 24. pontban felsorolt, valamint egyéb marketing- és kommunikációs tevékenységéhez kapcsolódó feladatait egy, a tulajdonosi joggyakorlása alá tartozó gazdasági társaság útján látja el.
 
 (2) Az (1) bekezdés 4. pontja szerinti feladat nem terjed ki a 4. § (2) bekezdésében meghatározott feladat- és határkörök gyakorlójaként kijelölt szerv feladat- és hatáskörébe tartozó feladatokra.
 
@@ -72,3 +76,5 @@
 [^8]: Az 5. § (1) bekezdés 29. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
 [^9]: Az 5. § (1) bekezdés 30. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
 [^10]: Az 5. § (1) bekezdés 31. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^11]: Az 5. § (1) bekezdés 32. pontját a 12/2018. (II. 6.) Korm. rendelet 1. §-a iktatta be.
+[^12]: Az 5. § (1) bekezdés 33. pontját a 12/2018. (II. 6.) Korm. rendelet 1. §-a iktatta be.

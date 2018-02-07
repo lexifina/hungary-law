@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-61-20-2
 | 2017-03-22 | 2017-61-20-22.2 | 2010: CXXX. törvény |
 | 2017-05-11 | 2017-61-20-22.3 | 114/2017. (V. 10.) Korm. rendelet |
 | 2017-12-28 | 2017-61-20-22.4 | 114/2017. (V. 10.) Korm. rendelet |
+| 2018-02-07 | 2017-61-20-22.5 | 12/2018. (II. 6.) Korm. rendelet |
