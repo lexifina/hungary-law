@@ -1,3 +1,3 @@
-## 24. § A Tszr. 1. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 24. §[^6]
 
-## „(3) E rendelet hatálya nem terjed ki a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet alapján vezetőképzésre kötelezett személyes gondoskodást végző személyre.”
+[^6]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

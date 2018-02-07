@@ -1,3 +1,5 @@
-## 50. § A Gszr. 3. számú melléklete szerinti Mérőtábla részében foglalt táblázat 1. sorában a „Háziorvos” szövegrész helyébe az „Orvos” szöveg lép.
+## 49–50. §[^23]
 
 ## 7. A komplex minősítésre vonatkozó részletes szabályokról szóló 7/2012. (II. 14.) NEFMI rendelet módosítása
+
+[^23]: A 49–50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

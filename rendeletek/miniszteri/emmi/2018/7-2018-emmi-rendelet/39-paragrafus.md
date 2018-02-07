@@ -1,14 +1,9 @@
-## 37–38. §[^6]
+## 37–38. §[^13]
 
-39. § (1) A Tszr.
+39. § (1)[^14]
 
-a) 4. § (6) bekezdésében a „benyújtását követő negyedév” szövegrész helyébe a „benyújtásának negyedévét követő negyedév” szöveg,
+(2)[^15]
 
-b) 4/A. § (3) bekezdésében a „továbbképzésen” szövegrész helyébe a „továbbképzésről” szöveg
-
-## lép.
-
-(2)[^7]
-
-[^6]: A 37–38. § az 57. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
-[^7]: A 39. § (2) bekezdése az 57. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+[^13]: A 37–38. § az 57. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+[^14]: A 39. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 39. § (2) bekezdése az 57. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.

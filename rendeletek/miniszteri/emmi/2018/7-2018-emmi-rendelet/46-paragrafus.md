@@ -1,11 +1,9 @@
-## 45. § A Vr. a 18. §-t megelőzően a következő alcím címmel egészül ki:
+## 41–45. §[^18]
 
-## „Záró rendelkezések”
+46. § (1)–(2)[^19]
 
-46. § (1) A Vr. 1. számú melléklete a 8. melléklet szerint módosul.
+(3)[^20]
 
-(2) A Vr. a 9. melléklet szerinti 1/A. számú melléklettel egészül ki.
-
-(3)[^9]
-
-[^9]: A 46. § (3) bekezdése az 57. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+[^18]: A 41–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 46. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 46. § (3) bekezdése az 57. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.

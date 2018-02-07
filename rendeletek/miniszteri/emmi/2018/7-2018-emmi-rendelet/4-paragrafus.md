@@ -1,3 +1,5 @@
-## 3. § Az Ir. az 1. melléklet szerinti 3. számú melléklettel egészül ki.
+## 1–3. §[^1]
 
 ## 2. A személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet módosítása
+
+[^1]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
