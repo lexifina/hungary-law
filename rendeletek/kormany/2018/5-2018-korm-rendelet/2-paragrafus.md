@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Kárpátok védelméről és fenntartható fejlesztéséről szóló Keretegyezményhez kapcsolódó, a fenntartható mezőgazdaságról és a vidékfejlesztésről szóló Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
