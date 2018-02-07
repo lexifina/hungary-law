@@ -1,7 +1,0 @@
-A közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (2) bekezdés a) pontjában,
-
-a 2. alcím vonatkozásában a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (2) bekezdés e) pontjában,
-
-a 3. alcím vonatkozásában a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (2) bekezdés c) pontjában
-
-kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 9. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
