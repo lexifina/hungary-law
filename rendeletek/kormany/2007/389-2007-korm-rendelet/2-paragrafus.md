@@ -36,9 +36,9 @@ o)[^16] szabályozási pótdíj: a napi menetrend hiánya vagy az érvényes men
 
 p) tárgyév: a kötelező átvételi rendszerben történő értékesítés árai érvényességének éves időszaka minden év január 1-jétől december 31-ig.
 
-q) telephely: a villamosenergia-termelési tevékenység gyakorlásának a cég társasági szerződésében, alapító okiratában, vagy alapszabályában továbbá termelői engedélyében foglalt tartós, önállósult üzleti (üzemi) letelepedéssel járó helye.
+q)[^17] telephely: a villamosenergia-termelési tevékenység gyakorlásának a cég társasági szerződésében, alapító okiratában vagy alapszabályában, továbbá termelői engedélyében foglalt tartós, önállósult üzleti (üzemi) letelepedéssel járó helye, valamint minden olyan, a kérelmező által meghatározott ingatlan, amely alkalmas a villamosenergia-termelési tevékenység végzésére.
 
-r)[^17]
+r)[^18]
 
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a VET, a távhőszolgáltatásról szóló 2005. évi XVIII. törvény, valamint a felhatalmazásuk alapján kiadott jogszabályok rendelkezései szerint kell értelmezni.
 
@@ -50,4 +50,5 @@ r)[^17]
 [^14]: A 2. § (1) bekezdés e) pontja a 166/2011. (VIII. 24.) Korm. rendelet 3. § 4. pontja, a 393/2016. (XII. 5.) Korm. rendelet 2. § 2. pontja szerint módosított szöveg.
 [^15]: A 2. § (1) bekezdés n) pontja a 166/2011. (VIII. 24.) Korm. rendelet 3. § 6. pontja szerint módosított szöveg.
 [^16]: A 2. § (1) bekezdés o) pontja a 391/2015. (XII. 11.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 393/2016. (XII. 5.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^17]: A 2. § (1) bekezdés r) pontját a 270/2010. (XII. 8.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 123/2015. (V. 26.) Korm. rendelet 28. § (1) bekezdés a) pontja.
+[^17]: A 2. § (1) bekezdés q) pontja a 4/2018. (II. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^18]: A 2. § (1) bekezdés r) pontját a 270/2010. (XII. 8.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 123/2015. (V. 26.) Korm. rendelet 28. § (1) bekezdés a) pontja.
