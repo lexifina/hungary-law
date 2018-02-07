@@ -1,4 +1,4 @@
-## 62. § A 10 millió eurónak megfelelő forintösszeget meghaladó projekt esetén a támogatást nyújtó a kedvezményezett indokolatlan mértékű profitszerzésének megakadályozása érdekében ellenőrzési és visszafizetési mechanizmust alkalmaz.
+## 59–62. §
 
 ## 30. A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 

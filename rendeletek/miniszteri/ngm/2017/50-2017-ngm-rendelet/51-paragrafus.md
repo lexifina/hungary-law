@@ -1,4 +1,4 @@
-## számolható el.
+## 50. §
 
 ## 24. A megújuló energia termeléséhez nyújtott beruházási támogatás
 

@@ -1,3 +1,5 @@
+## 56. §
+
 ## 27. Az energetikai célú infrastruktúrához nyújtott beruházási támogatás
 
 57. § (1) Az energetikai célú infrastruktúrához nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) az Atr. 25. § (1) bekezdése szerinti támogatott területeken energetikai célú infrastruktúra létrehozásához, korszerűsítéséhez és bővítéséhez nyújtható.

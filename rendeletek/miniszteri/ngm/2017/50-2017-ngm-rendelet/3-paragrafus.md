@@ -12,7 +12,7 @@
 
 6. 33. sora, 35. sora és 40. sora alapján a 651/2014/EU bizottsági rendelet 18. cikke szerinti kis- és középvállalkozások részére tanácsadáshoz nyújtott támogatás,
 
-7. 32. sor 3. pont e) alpontja és 35. sora alapján a 651/2014/EU bizottsági rendelet 19. cikke szerinti kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás,
+7.[^2] 32. sor 3. pont e) alpontja alapján a 651/2014/EU bizottsági rendelet 19. cikke szerinti kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás,
 
 8. 40. sora alapján a 651/2014/EU bizottsági rendelet 21. cikke szerinti kockázatfinanszírozási támogatás,
 
@@ -38,26 +38,33 @@
 
 19. 40. sora alapján a 651/2014/EU bizottsági rendelet 39. cikke szerinti épület-energiahatékonysági projektekre irányuló beruházási támogatás,
 
-20. 35. sora alapján a 651/2014/EU bizottsági rendelet 40. cikke szerinti nagy hatásfokú kapcsolt energiatermelésre irányuló beruházási támogatás,
+20.[^3]
 
 21. 20. sor 1. pontja, a 22. sor a) és b) pontja, 28. sor c) pontja, 32. sor 3. pont j) alpontja, és 33. sor 3. pont l) alpontja, 36. sor 3. pont j) alpontja alapján a 651/2014/EU bizottsági rendelet 41. cikke szerinti megújuló energia támogatására irányuló beruházási támogatás,
 
 22. 20. sor 1. pontja alapján a 651/2014/EU bizottsági rendelet 45. cikke szerinti szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás,
 
-23. 35. sora alapján a 651/2014/EU bizottsági rendelet 47. cikke szerinti hulladék-újrafeldolgozásra és újrahasznosításra irányuló beruházási támogatás,
+23.[^4]
 
-24. 22. sor a)–c) pontja és 35. sora alapján a 651/2014/EU bizottsági rendelet 48. cikke szerinti energetikai infrastruktúrára irányuló beruházási támogatás,
+24.[^5] 22. sor a)–c) pontja alapján a 651/2014/EU bizottsági rendelet 48. cikke szerinti energetikai infrastruktúrára irányuló beruházási támogatás,
 
 25. 22. sor a)–c) pontjához közvetlenül kapcsolódó 10–12., 16. és 24. pont szerinti támogatási kategóriával támogatott beruházáshoz a 651/2014/EU bizottsági rendelet 49. cikke szerinti környezetvédelmi tanulmányhoz nyújtott támogatás,
 
-26. 35. sora alapján a 651/2014/EU bizottsági rendelet 52. cikke szerinti széles sávú infrastruktúrára irányuló támogatás,
+26.[^6]
 
 27. 20. sor 1. pontja alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és a kulturális örökség megőrzését előmozdító támogatás,
 
 28. 20. sor 1. pontja alapján a 651/2014/EU bizottsági rendelet 55. cikk szerinti sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás,
 
-29. 20. sor 1. pontja, 22. sor c) pontja, 29. sor b) pontja, 35. sora és 40. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás,
+29.[^7] 20. sor 1. pontja, 22. sor c) pontja, 29. sor b) pontja és 40. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás,
 
 30. 22. sor c) pontja és 34. sora alapján az 1370/2007/EK európai parlamenti és tanácsi rendelet szerinti személyszállítási közszolgáltatásért járó ellentételezés,
 
 31. 22. sor c) és f) pontja alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezéshez nyújtott támogatás
+
+[^2]: A 3. § 7. pontja a 2/2018. (II. 6.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § 20. pontját a 2/2018. (II. 6.) NGM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^4]: A 3. § 23. pontját a 2/2018. (II. 6.) NGM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^5]: A 3. § 24. pontja a 2/2018. (II. 6.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 3. § 26. pontját a 2/2018. (II. 6.) NGM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^7]: A 3. § 29. pontja a 2/2018. (II. 6.) NGM rendelet 1. § (3) bekezdésével megállapított szöveg.

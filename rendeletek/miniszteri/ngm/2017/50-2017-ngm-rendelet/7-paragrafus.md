@@ -36,7 +36,7 @@ e) meghaladja az a)–d) alpont szerinti összeg 150%-át, ha a kutatás-fejlesz
 
 13. hátrányos helyzetű munkavállalók felvételéhez bértámogatás formájában nyújtott támogatás esetén vállalkozásonként meghaladja évente az 5 millió eurónak megfelelő forintösszeget;
 
-14. az uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás, jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás, energiahatékonysági intézkedéshez nyújtott beruházási támogatás és megújuló energia termeléséhez nyújtott beruházási támogatás, nagy hatásfokú kapcsolt energiatermelésre irányuló beruházási támogatás, hulladék-újrafeldolgozásra és -újrahasznosításra irányuló beruházás esetén vállalkozásonként és beruházásonként meghaladja a 15 millió eurónak megfelelő forintösszeget;
+14.[^16] az uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás, jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás, energiahatékonysági intézkedéshez nyújtott beruházási támogatás és megújuló energia termeléséhez nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja a 15 millió eurónak megfelelő forintösszeget;
 
 15. épület-energiahatékonysági projektre irányuló beruházási támogatás esetén meghaladja a 10 millió eurónak megfelelő forintösszeget a 46. § (4) bekezdése szerint;
 
@@ -52,4 +52,7 @@ a 100 millió eurónak megfelelő forintösszeget, valamint sportlétesítményh
 
 20. szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás esetében vállalkozásonként és beruházási projektenként meghaladja a 20 millió eurónak megfelelő forintösszeget.
 
-(2) A szélessávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt teljes költsége meghaladja a 70 millió eurónak megfelelő forintösszeget.
+(2)[^17]
+
+[^16]: A 7. § (1) bekezdés 14. pontja a 2/2018. (II. 6.) NGM rendelet 2. §-ával megállapított szöveg.
+[^17]: A 7. § (2) bekezdését a 2/2018. (II. 6.) NGM rendelet 4. § c) pontja hatályon kívül helyezte.

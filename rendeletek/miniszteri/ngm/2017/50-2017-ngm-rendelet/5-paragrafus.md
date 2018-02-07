@@ -6,7 +6,7 @@
 
 2. alapkutatás: a 651/2014/EU bizottsági rendelet 2. cikk 84. pontja szerinti kísérleti vagy elméleti munka;
 
-3. alépítmény: a 651/2014/EU bizottsági rendelet 2. cikk 135. pontja szerinti építmény;
+3.[^8]
 
 4. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás;
 
@@ -84,7 +84,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 38. ipari kutatás: a 651/2014/EU bizottsági rendelet 2. cikk 85. pontja szerinti tervezett kutatás vagy kritikus vizsgálat;
 
-39. kapcsolt energiatermelés: a 651/2014/EU bizottsági rendelet 2. cikk 108. pontja szerinti energiatermelés;
+39.[^9]
 
 40. kezességvállalás: a 651/2014/EU bizottsági rendelet 2. cikk 67. pontja szerinti kötelezettségvállalás;
 
@@ -140,7 +140,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 66. nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget;
 
-67. nagy hatásfokú kapcsolt energiatermelés: a 651/2014/EU bizottsági rendelet 2. cikk 107. pontja szerinti energiatermelés;
+67.[^10]
 
 68. nagykereskedelmi hozzáférés: a 651/2014/EU bizottsági rendelet 2. cikk 139. pontja szerinti hozzáférés;
 
@@ -158,9 +158,9 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 75. súlyosan hátrányos helyzetű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 99. pontja szerinti munkavállaló;
 
-76. szélessávú alaphálózat: a 651/2014/EU bizottsági rendelet 2. cikk 133. pontja szerinti alaphálózat;
+76.[^11]
 
-77. szélessávú infrastruktúra kiépítéséhez kapcsolódó mélyépítési munka: a 651/2014/EU bizottsági rendelet 2. cikk 134. pontja szerinti munka;
+77.[^12]
 
 78. személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás;
 
@@ -204,11 +204,11 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 98. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek;
 
-99. újgenerációs hozzáférési hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 138. pontja szerinti hálózat;
+99.[^13]
 
-100. újrafeldolgozás: a 651/2014/EU bizottsági rendelet 2. cikk 128. pontja szerinti tevékenység;
+100.[^14]
 
-101. újrahasználat: a 651/2014/EU bizottsági rendelet 2. cikk 126. pontja szerinti használat;
+101.[^15]
 
 102. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány;
 
@@ -229,3 +229,12 @@ c) új termék- vagy földrajzi piacra való belépés céljából készített �
 3. nyílt ártér: a folyók és egyéb vízfolyások melletti olyan területek (völgyek), amelyek védelmére nem épült árvízvédelmi töltés, így azokat a mederből kilépő víz szabadon elöntheti;
 
 4. mentesített ártér: a folyók és egyéb vízfolyások melletti olyan területek (völgyek), amelyek védelmére elsőrendű árvízvédelmi műnek minősített árvízvédelmi töltés épült.
+
+[^8]: Az 5. § (1) bekezdés 3. pontját a 2/2018. (II. 6.) NGM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^9]: Az 5. § (1) bekezdés 39. pontját a 2/2018. (II. 6.) NGM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^10]: Az 5. § (1) bekezdés 67. pontját a 2/2018. (II. 6.) NGM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^11]: Az 5. § (1) bekezdés 76. pontját a 2/2018. (II. 6.) NGM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^12]: Az 5. § (1) bekezdés 77. pontját a 2/2018. (II. 6.) NGM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^13]: Az 5. § (1) bekezdés 99. pontját a 2/2018. (II. 6.) NGM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^14]: Az 5. § (1) bekezdés 100. pontját a 2/2018. (II. 6.) NGM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^15]: Az 5. § (1) bekezdés 101. pontját a 2/2018. (II. 6.) NGM rendelet 4. § b) pontja hatályon kívül helyezte.
