@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Katar Állam Kormánya közötti oktatási, felsőoktatási és tudományos együttműködési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
