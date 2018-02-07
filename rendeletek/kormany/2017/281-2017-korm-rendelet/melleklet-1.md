@@ -1,4 +1,4 @@
-1. melléklet a 281/2017. (IX. 22.) Korm. rendelethez
+1. melléklet a 281/2017. (IX. 22.) Korm. rendelethez[^7]
 
 |  | A |
 
@@ -22,48 +22,58 @@
 
 | 10. | Egyiptomi Arab Köztársaság |
 
-| 11. | Gaboni Köztársaság |
+| 11. | Elefántcsontparti Köztársaság |
 
-| 12. | Grenada |
+| 12. | Gaboni Köztársaság |
 
-| 13. | Guatemalai Köztársaság |
+| 13. | Grenada |
 
-| 14. | Guyanai Köztársaság |
+| 14. | Guatemalai Köztársaság |
 
-| 15. | Indonéz Köztársaság |
+| 15. | Guyanai Köztársaság |
 
-| 16. | Katari Állam |
+| 16. | Indonéz Köztársaság |
 
-| 17. | Kirgizisztán |
+| 17. | Katari Állam |
 
-| 18. | Kiribati Köztársaság |
+| 18. | Kirgizisztán |
 
-| 19. | Madagaszkár |
+| 19. | Kiribati Köztársaság |
 
-| 20. | Malajzia |
+| 20. | Madagaszkár |
 
-| 21. | Mali Köztársaság |
+| 21. | Malajzia |
 
-| 22. | Mianmari Államszövetség |
+| 22. | Mali Köztársaság |
 
-| 23. | Namíbiai Köztársaság |
+| 23. | Mianmari Államszövetség |
 
-| 24. | Nepáli Demokratikus Szövetségi Köztársaság |
+| 24. | Namíbiai Köztársaság |
 
-| 25. | Palesztina |
+| 25. | Nepáli Demokratikus Szövetségi Köztársaság |
 
-| 26. | Saint Lucia |
+| 26. | Nigeri Köztársaság |
 
-| 27. | Salvadori Köztársaság |
+| 27. | Palesztina |
 
-| 28. | São Tomé és Príncipe Demokratikus Köztársaság |
+| 28. | Saint Lucia |
 
-| 29. | Szaúd-arábiai Királyság |
+| 29. | Salvadori Köztársaság |
 
-| 30. | Szenegál |
+| 30. | São Tomé és Príncipe Demokratikus Köztársaság |
 
-| 31. | Szingapúr |
+| 31. | Seychelle Köztársaság |
 
-| 32. | Thaiföldi Királyság |
+| 32. | Szaúd-arábiai Királyság |
 
-| 33. | Törökország |
+| 33. | Szenegál |
+
+| 34. | Szingapúr |
+
+| 35. | Tajvan |
+
+| 36. | Thaiföldi Királyság |
+
+| 37. | Törökország |
+
+[^7]: Az 1. melléklet a 7/2018. (II. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
