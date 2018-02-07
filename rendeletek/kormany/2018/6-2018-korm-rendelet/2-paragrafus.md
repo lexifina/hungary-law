@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Kárpátok védelméről és fenntartható fejlesztéséről szóló Keretegyezmény (a továbbiakban: Keretegyezmény) módosítása (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
