@@ -1,3 +1,5 @@
+## A nemzeti fejlesztési miniszter által meghagyásba bevont szervek
+
 | A | B |
 
 | Sorszám | Név |
@@ -88,7 +90,7 @@
 
 | 41. | Magyar Áramszolgáltató Korlátolt Felelősségű Társaság |
 
-| 42. | MVM Paks II. Atomerőmű Fejlesztő Zártkörűen Működő Részvénytársaság |
+| 42. | Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság |
 
 |  | MVM Csoport tagjai |
 
