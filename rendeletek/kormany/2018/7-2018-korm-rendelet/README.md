@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-7-20-22
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-02-07 | 2018-7-20-22.1 | 7/2018. (II. 6.) Korm. rendelet |
+| 2018-02-08 | 2018-7-20-22.2 | 2010: CXXX. törvény |
