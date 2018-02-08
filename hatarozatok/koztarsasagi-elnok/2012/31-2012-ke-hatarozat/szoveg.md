@@ -14,4 +14,4 @@ dr. Kádár Mercédesz Zsuzsannát
 
 KEH ügyszám: IV-4/00290/2012.
 
-[^1]: A 83/2015. (I. 30.) KE határozat alapján a Köztársasági Elnök dr. Deák Etelka bírói kinevezését 2015. február 1. napjától 2018. január 31. napjáig terjedő időtartamra meghosszabbította.
+[^1]: A 67/2018. (II. 8.) KE határozat alapján a Köztársasági Elnök dr. Deák Etelka bírói kinevezését 2018. február 1. napjától 2021. január 31. napjáig terjedő időtartamra meghosszabbította.
