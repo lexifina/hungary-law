@@ -42,31 +42,33 @@ h) a közúti járművezetők és a közúti közlekedési szakemberek képzés�
 
 (9a)[^147] A (9) bekezdés e) pontja alól kivételt képez az a járműre felhelyezett autóüveg fólia, amelyre a közlekedési hatóság alkalmazási engedélyt adott.
 
-(10)[^148]
+(9b)[^148] A fővárosi és megyei kormányhivatalok, a járási (fővárosi kerületi) hivatalok, a honvédelmi és rendvédelmi szervek, valamint az egyéb állami feladatot ellátó szervek által üzemeltetett, valamint a CD betűjelű rendszámtáblával ellátott járművek időszakos műszaki vizsgálata a közlekedési hatóság által üzemeltetett vizsgáló állomáson is elvégezhető.
 
-(11)[^149] Az időszakos vizsgálat során a közlekedési hatóság által kiadott engedéllyel vagy hatósági szerződéssel rendelkező vizsgáló állomás járhat el.
+(10)[^149]
 
-(12)[^150] A vizsgáló állomáson a jármű műszeres és vizuális vizsgálatát, a mérési adatok rögzítését a közlekedési hatóság által kiadott engedéllyel rendelkező vizsgabiztos végzi.
+(11)[^150] Az időszakos vizsgálat során a közlekedési hatóság által kiadott engedéllyel vagy hatósági szerződéssel rendelkező vizsgáló állomás járhat el.
 
-(13)[^151] A vizsgáló állomáson az időszakos vizsgálat tárgyi feltételeit, technológiáját és az ügyrendet az 5. számú melléklet határozza meg. A kizárólag környezetvédelmi tanúsítást végző vizsgáló állomáson (a továbbiakban: környezetvédelmi vizsgáló állomás) biztosítandó tárgyi feltételekre, technológiára és ügyrendre a közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló együttes rendeletben meghatározott követelményeket kell alkalmazni.
+(12)[^151] A vizsgáló állomáson a jármű műszeres és vizuális vizsgálatát, a mérési adatok rögzítését a közlekedési hatóság által kiadott engedéllyel rendelkező vizsgabiztos végzi.
 
-(14)[^152] Az időszakos vizsgálat során a járműazonosítók ellenőrzése, valamint a kilométer-számláló műszer által jelzett érték megállapítása szemrevételezéssel történik.
+(13)[^152] A vizsgáló állomáson az időszakos vizsgálat tárgyi feltételeit, technológiáját és az ügyrendet az 5. számú melléklet határozza meg. A kizárólag környezetvédelmi tanúsítást végző vizsgáló állomáson (a továbbiakban: környezetvédelmi vizsgáló állomás) biztosítandó tárgyi feltételekre, technológiára és ügyrendre a közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló együttes rendeletben meghatározott követelményeket kell alkalmazni.
 
-(15)[^153] A járműazonosítók ellenőrzését előzetes eredetiségvizsgálat alkalmazásával kell elvégezni:
+(14)[^153] Az időszakos vizsgálat során a járműazonosítók ellenőrzése, valamint a kilométer-számláló műszer által jelzett érték megállapítása szemrevételezéssel történik.
+
+(15)[^154] A járműazonosítók ellenőrzését előzetes eredetiségvizsgálat alkalmazásával kell elvégezni:
 
 a) ha a jármű üzemben tartója az előzetes eredetiségvizsgálat elvégzését kérelmezi, továbbá
 
-b)[^154] a KR.-ben meghatározott esetben.
+b)[^155] a KR.-ben meghatározott esetben.
 
-(16)[^155] A vizsgáló állomáson biztosítani kell – a (15) bekezdésben meghatározott esetekben elvégzendő előzetes eredetiségvizsgálathoz – az előzetes eredetiségvizsgálati eljárás részletes szabályairól szóló kormányrendeletben meghatározott feltételeket is.
+(16)[^156] A vizsgáló állomáson biztosítani kell – a (15) bekezdésben meghatározott esetekben elvégzendő előzetes eredetiségvizsgálathoz – az előzetes eredetiségvizsgálati eljárás részletes szabályairól szóló kormányrendeletben meghatározott feltételeket is.
 
-(17)[^156]
+(17)[^157]
 
-(18)[^157] Az időszakos vizsgálatot megelőzően elvégeztethető a jármű környezetvédelmi felülvizsgálata környezetvédelmi vizsgálóállomáson is.
+(18)[^158] Az időszakos vizsgálatot megelőzően elvégeztethető a jármű környezetvédelmi felülvizsgálata környezetvédelmi vizsgálóállomáson is.
 
-(19)[^158] A környezetvédelmi vizsgálóállomás a felülvizsgált jármű környezetvédelmi jellemzőit a közlekedési hatóság elektronikus rendszerében rögzíti és – a „Műszaki adatlap” részét képező „Környezetvédelmi adatlap”-ot kiállításával – tanúsítja a jármű környezetvédelmi felülvizsgálaton való megfelelőségét.
+(19)[^159] A környezetvédelmi vizsgálóállomás a felülvizsgált jármű környezetvédelmi jellemzőit a közlekedési hatóság elektronikus rendszerében rögzíti és – a „Műszaki adatlap” részét képező „Környezetvédelmi adatlap”-ot kiállításával – tanúsítja a jármű környezetvédelmi felülvizsgálaton való megfelelőségét.
 
-(20)[^159] A közlekedési hatóság az időszakos vizsgálat során a környezetvédelmi követelmények megtartása tekintetében elfogadja a környezetvédelmi vizsgálóállomáson 30 naptári napnál nem régebben kiállított, megfelelt minősítést tartalmazó „Környezetvédelmi adatlap”-ot.
+(20)[^160] A közlekedési hatóság az időszakos vizsgálat során a környezetvédelmi követelmények megtartása tekintetében elfogadja a környezetvédelmi vizsgálóállomáson 30 naptári napnál nem régebben kiállított, megfelelt minősítést tartalmazó „Környezetvédelmi adatlap”-ot.
 
 [^140]: A 12. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 10. § (1) bekezdésével megállapított, a 18/2013. (V. 9.) NFM rendelet 14. § c) pontja szerint módosított szöveg.
 [^141]: A 12. § (2) bekezdését a 14/1999. (XII. 23.) KHVM rendelet 4. § (3) bekezdése hatályon kívül helyezte, újonnan a 66/2009. (XI. 27.) KHEM rendelet 10. § (1) bekezdése iktatta be.
@@ -76,15 +78,16 @@ b)[^154] a KR.-ben meghatározott esetben.
 [^145]: A 12. § (8) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^146]: A 12. § (9) bekezdését a 14/1999. (XII. 23.) KHVM rendelet 4. § (3) bekezdése hatályon kívül helyezte 1999. június 27. napjával, e határnapon érvényüket vesztik a hatályon kívül helyezett rendelkezések alapján kiadott feljogosítások, újonnan a 72/2015. (XII. 29.) NFM rendelet 2. §-a iktatta be, szövege az 1/2017. (I. 3.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
 [^147]: A 12. § (9a) bekezdését a 26/2016. (VII. 22.) NFM rendelet 4. §-a iktatta be.
-[^148]: A 12. § (10) bekezdését újonnan a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdése iktatta be, hatályon kívül helyezte az 55/2017. (XII. 27.) NFM rendelet 5. § g) pontja.
-[^149]: A 12. § (11) bekezdését a 12/1998. (V. 22.) KHVM rendelet 9. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított, a 71/2013. (XII. 2.) NFM rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^150]: A 12. § (12) bekezdését a 12/1998. (V. 22.) KHVM rendelet 9. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^151]: A 12. § (13) bekezdését a 12/1998. (V. 22.) KHVM rendelet 9. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^152]: A 12. § (14) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, szövege a 62/2011. (XI. 29.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^153]: A 12. § (15) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, szövege a 8/2010. (II. 18.) KHEM rendelet 1. §-ával megállapított szöveg.
-[^154]: A 12. § (15) bekezdés b) pontja a 18/2013. (V. 9.) NFM rendelet 14. § d) pontja szerint módosított szöveg.
-[^155]: A 12. § (16) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, szövege a 8/2010. (II. 18.) KHEM rendelet 1. §-ával megállapított szöveg.
-[^156]: A 12. § (17) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, hatályon kívül helyezte a 72/2015. (XII. 29.) NFM rendelet 8. § a) pontja.
-[^157]: A 12. § (18) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdése iktatta be.
-[^158]: A 12. § (19) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdése iktatta be.
-[^159]: A 12. § (20) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdése iktatta be.
+[^148]: A 12. § (9b) bekezdését a 2/2018. (II. 5.) NFM rendelet 5. §-a iktatta be.
+[^149]: A 12. § (10) bekezdését újonnan a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdése iktatta be, hatályon kívül helyezte az 55/2017. (XII. 27.) NFM rendelet 5. § g) pontja.
+[^150]: A 12. § (11) bekezdését a 12/1998. (V. 22.) KHVM rendelet 9. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított, a 71/2013. (XII. 2.) NFM rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^151]: A 12. § (12) bekezdését a 12/1998. (V. 22.) KHVM rendelet 9. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^152]: A 12. § (13) bekezdését a 12/1998. (V. 22.) KHVM rendelet 9. §-ának (2) bekezdése iktatta be, szövege a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^153]: A 12. § (14) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, szövege a 62/2011. (XI. 29.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^154]: A 12. § (15) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, szövege a 8/2010. (II. 18.) KHEM rendelet 1. §-ával megállapított szöveg.
+[^155]: A 12. § (15) bekezdés b) pontja a 18/2013. (V. 9.) NFM rendelet 14. § d) pontja szerint módosított szöveg.
+[^156]: A 12. § (16) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, szövege a 8/2010. (II. 18.) KHEM rendelet 1. §-ával megállapított szöveg.
+[^157]: A 12. § (17) bekezdését a 19/2006. (IV. 19.) GKM rendelet 3. §-a iktatta be, hatályon kívül helyezte a 72/2015. (XII. 29.) NFM rendelet 8. § a) pontja.
+[^158]: A 12. § (18) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdése iktatta be.
+[^159]: A 12. § (19) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdése iktatta be.
+[^160]: A 12. § (20) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 10. § (3) bekezdése iktatta be.
