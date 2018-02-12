@@ -1,0 +1,1 @@
+A Kormány a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5. § (5) bekezdése alapján a Graboplast Padlógyártó Zártkörűen Működő Részvénytársaság (székhelye: 9023 Győr, Fehérvári út 16., B. ép.; cégjegyzékszáma: 08-10-001859) „Lakkfelhordó gépegység beszerzése” tárgyú beszerzése tekintetében felmentést ad a Kbt. 5. § (3) bekezdésének alkalmazása alól.
