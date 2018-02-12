@@ -1,3 +1,3 @@
-## 6.[^3]
+## 6.[^4]
 
-[^3]: A 6. alcímet (10. §) az 51/2017. (XII. 29.) NGM rendelet 25. § b) pontja hatályon kívül helyezte.
+[^4]: A 6. alcímet (10. §) az 51/2017. (XII. 29.) NGM rendelet 25. § b) pontja hatályon kívül helyezte.

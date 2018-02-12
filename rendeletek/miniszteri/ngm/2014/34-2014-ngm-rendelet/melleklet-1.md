@@ -1,4 +1,4 @@
-## 14. §[^4]
+## 14. §[^6]
 
 1. melléklet a 34/2014. (X. 30.) NGM rendelethez
 
@@ -44,4 +44,4 @@ c) Hevítés nélküli végső vizsgálatok
 
 Hevítés nélküli alternatív vizsgálatot is lehet alkalmazni, amennyiben az megfelel a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 2013. évi CX. törvény 1. melléklet 6.2.6.3.2. pontjában kifejtett, az aeroszol termékek forró vizes vizsgálatát kiváltó módszerekről szóló rendelkezéseknek. Az olyan aeroszol terméket, amelynek töltete olyan fizikai vagy kémiai átalakuláson megy keresztül, amely megváltoztatja nyomást az aeroszolcsomagolás feltöltése után és az első használat előtt a 9.§ (2) bekezdés c) pontnak megfelelően hevítés nélküli vizsgálatnak kell alávetni.
 
-[^4]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
