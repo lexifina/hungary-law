@@ -22,7 +22,7 @@
 
 | A fejlesztés megnevezése | A támogatás célja | A támogatás összege (millió Ft) | Kedvezményezett |
 
-| Dunakeszi Szabadtéri műugró torony és medence fejlesztés | a szabadtéri műugró torony és medence fejlesztésének támogatása | 635 | Városi Sportegyesület Dunakeszi |
+| Gödi Szabadtéri műugró torony és medence fejlesztés | a szabadtéri műugró torony és medence fejlesztésének támogatása | 635 | Városi Sportegyesület Dunakeszi |
 
 | Diósgyőri stadion rekonstrukciója | a stadion építése során felmerült opciós tételek megfizetésének a támogatása | 3 100 | Diósgyőri Stadionrekonstrukciós Kft. |
 
@@ -38,4 +38,4 @@
 
 | Budafoki Munkás Testedző Egyesület | BMTE fejlesztési projekt következő üteme | 100 | Budafoki Munkás Testedző Egyesület |
 
-[^1]: Az 1. melléklet az 1304/2017. (VI. 7.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1304/2017. (VI. 7.) Korm. határozat 3. pont a) alpontja, az 1038/2018. (II. 12.) Korm. határozat szerint módosított szöveg.
