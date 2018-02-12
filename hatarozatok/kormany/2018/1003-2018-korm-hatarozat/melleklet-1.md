@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 2. a vörösberényi kolostoregyüttes épületegyüttesének állagmegóvása, valamint az ifjúsági táborozás előkészítéséhez szükséges intézkedések érdekében elrendeli 500 000 000 forint egyszeri átcsoportosítását a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 4. A vörösberényi kolostoregyüttessel kapcsolatos feladatok támogatása cím javára, az 1. melléklet szerint;
+## 2.[^1] a vörösberényi kolostoregyüttes épületegyüttesének állagmegóvása, a Magtár épületének felújítása, eszközbeszerzések, valamint ifjúsági táborozás és egyéb kulturális programokkal összefüggésben felmerülő eszközbeszerzések és folyó működési kiadások érdekében elrendeli 500 000 000 forint egyszeri átcsoportosítását a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 4. A vörösberényi kolostoregyüttessel kapcsolatos feladatok támogatása cím javára, az 1. melléklet szerint;
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -79,3 +79,5 @@
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1034/2018. (II. 12.) Korm. határozattal módosított szöveg.
