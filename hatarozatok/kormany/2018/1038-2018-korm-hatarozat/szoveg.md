@@ -1,1 +1,0 @@
-Az egyes egyedi települési sportcélú infrastruktúra-fejlesztési beruházások forrásszükségletének biztosításáról szóló 1800/2016. (XII. 20.) Korm. határozat 1. mellékletében foglalt táblázatban a „Dunakeszi Szabadtéri műugró torony és medence fejlesztés” szövegrész helyébe a „Gödi Szabadtéri műugró torony és medence fejlesztés” szöveg lép.
