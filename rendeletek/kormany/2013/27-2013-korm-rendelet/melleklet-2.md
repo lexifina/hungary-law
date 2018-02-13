@@ -1,6 +1,4 @@
-## A szabad vállalkozási zónák települései
-
-| Sorszám | Településnév |
+|  | A |
 
 | 1 | Abádszalók |
 
@@ -18,1796 +16,2394 @@
 
 | 8 | Abod |
 
-| 9 | Adorjás |
+| 9 | Adorjánháza |
 
-| 10 | Ág |
+| 10 | Adorjás |
 
-| 11 | Aggtelek |
+| 11 | Ág |
 
-| 12 | Almamellék |
+| 12 | Aggtelek |
 
-| 13 | Almáskamarás |
+| 13 | Ajak |
 
-| 14 | Almáskeresztúr |
+| 14 | Alap |
 
-| 15 | Álmosd |
+| 15 | Alattyán |
 
-| 16 | Alsóberecki |
+| 16 | Aldebrő |
 
-| 17 | Alsódobsza |
+| 17 | Almamellék |
 
-| 18 | Alsógagy |
+| 18 | Almáskamarás |
 
-| 19 | Alsómocsolád |
+| 19 | Almáskeresztúr |
 
-| 20 | Alsóvadász |
+| 20 | Álmosd |
 
-| 21 | Andocs |
+| 21 | Alsóberecki |
 
-| 22 | Apagy |
+| 22 | Alsódobsza |
 
-| 23 | Aranyosapáti |
+| 23 | Alsógagy |
 
-| 24 | Arka |
+| 24 | Alsómocsolád |
 
-| 25 | Arló |
+| 25 | Alsóregmec |
 
-| 26 | Ároktő |
+| 26 | Alsószentiván |
 
-| 27 | Ártánd |
+| 27 | Alsószuha |
 
-| 28 | Ásotthalom |
+| 28 | Alsótold |
 
-| 29 | Aszaló |
+| 29 | Alsóújlak |
 
-| 30 | Átány |
+| 30 | Alsóvadász |
 
-| 31 | Babócsa |
+| 31 | Alsózsolca |
 
-| 32 | Bábonymegyer |
+| 32 | Anarcs |
 
-| 33 | Bácsalmás |
+| 33 | Andocs |
 
-| 34 | Bácsszőlős |
+| 34 | Andrásfa |
 
-| 35 | Bagamér |
+| 35 | Apácatorna |
 
-| 36 | Bakóca |
+| 36 | Apagy |
 
-| 37 | Bakonszeg |
+| 37 | Apostag |
 
-| 38 | Baks |
+| 38 | Aranyosapáti |
 
-| 39 | Baktakék |
+| 39 | Arka |
 
-| 40 | Baktalórántháza |
+| 40 | Arló |
 
-| 41 | Balajt |
+| 41 | Ároktő |
 
-| 42 | Balástya |
+| 42 | Ártánd |
 
-| 43 | Balmazújváros |
+| 43 | Ásotthalom |
 
-| 44 | Balsa |
+| 44 | Aszaló |
 
-| 45 | Bánfa |
+| 45 | Átány |
 
-| 46 | Bánréve |
+| 46 | Babócsa |
 
-| 47 | Barabás |
+| 47 | Bábonymegyer |
 
-| 48 | Báránd |
+| 48 | Bácsalmás |
 
-| 49 | Baranyahídvég |
+| 49 | Bácsbokod |
 
-| 50 | Baranyajenő |
+| 50 | Bácsborsód |
 
-| 51 | Baranyaszentgyörgy |
+| 51 | Bácsszőlős |
 
-| 52 | Barcs |
+| 52 | Bagamér |
 
-| 53 | Bárdudvarnok |
+| 53 | Bakháza |
 
-| 54 | Bárna |
+| 54 | Bakóca |
 
-| 55 | Basal |
+| 55 | Bakonszeg |
 
-| 56 | Baskó |
+| 56 | Baks |
 
-| 57 | Bátonyterenye |
+| 57 | Baksa |
 
-| 58 | Bátorliget |
+| 58 | Baktakék |
 
-| 59 | Battonya |
+| 59 | Baktalórántháza |
 
-| 60 | Becskeháza |
+| 60 | Balajt |
 
-| 61 | Bedegkér |
+| 61 | Balástya |
 
-| 62 | Bedő |
+| 62 | Balaton |
 
-| 63 | Bekecs |
+| 63 | Balkány |
 
-| 64 | Békés |
+| 64 | Balmazújváros |
 
-| 65 | Bélavár |
+| 65 | Balsa |
 
-| 66 | Belecska |
+| 66 | Bánfa |
 
-| 67 | Bélmegyer |
+| 67 | Bánréve |
 
-| 68 | Beregdaróc |
+| 68 | Barabás |
 
-| 69 | Beregsurány |
+| 69 | Báránd |
 
-| 70 | Berekböszörmény |
+| 70 | Baranyahídvég |
 
-| 71 | Beret |
+| 71 | Baranyajenő |
 
-| 72 | Berettyóújfalu |
+| 72 | Baranyaszentgyörgy |
 
-| 73 | Berkesz |
+| 73 | Barcs |
 
-| 74 | Berzence |
+| 74 | Bárdudvarnok |
 
-| 75 | Besence |
+| 75 | Bárna |
 
-| 76 | Besenyőd |
+| 76 | Basal |
 
-| 77 | Beszterec |
+| 77 | Baskó |
 
-| 78 | Bihardancsháza |
+| 78 | Bátonyterenye |
 
-| 79 | Biharkeresztes |
+| 79 | Bátor |
 
-| 80 | Biharnagybajom |
+| 80 | Bátorliget |
 
-| 81 | Bihartorda |
+| 81 | Battonya |
 
-| 82 | Biharugra |
+| 82 | Becskeháza |
 
-| 83 | Bikal |
+| 83 | Bedegkér |
 
-| 84 | Boconád |
+| 84 | Bedő |
 
-| 85 | Bocskaikert |
+| 85 | Bekecs |
 
-| 86 | Bodony |
+| 86 | Békés |
 
-| 87 | Bodroghalom |
+| 87 | Bekölce |
 
-| 88 | Bodrogkeresztúr |
+| 88 | Bélapátfalva |
 
-| 89 | Bodrogkisfalud |
+| 89 | Bélavár |
 
-| 90 | Bodrogolaszi |
+| 90 | Belecska |
 
-| 91 | Bódvalenke |
+| 91 | Beleg |
 
-| 92 | Bódvarákó |
+| 92 | Bélmegyer |
 
-| 93 | Bódvaszilas |
+| 93 | Benk |
 
-| 94 | Bogádmindszent |
+| 94 | Bér |
 
-| 95 | Bogdása |
+| 95 | Bérbaltavár |
 
-| 96 | Bojt |
+| 96 | Beregdaróc |
 
-| 97 | Boldogasszonyfa |
+| 97 | Beregsurány |
 
-| 98 | Boldogkőújfalu |
+| 98 | Berekböszörmény |
 
-| 99 | Boldogkőváralja |
+| 99 | Berekfürdő |
 
-| 100 | Boldva |
+| 100 | Beret |
 
-| 101 | Bolhó |
+| 101 | Berettyóújfalu |
 
-| 102 | Bonnya |
+| 102 | Berkesz |
 
-| 103 | Bordány |
+| 103 | Berzence |
 
-| 104 | Borota |
+| 104 | Besence |
 
-| 105 | Borsodbóta |
+| 105 | Besenyőd |
 
-| 106 | Borsodnádasd |
+| 106 | Besenyőtelek |
 
-| 107 | Borsodszentgyörgy |
+| 107 | Beszterec |
 
-| 108 | Borsodszirák |
+| 108 | Bihardancsháza |
 
-| 109 | Botpalád |
+| 109 | Biharkeresztes |
 
-| 110 | Botykapeterd |
+| 110 | Biharnagybajom |
 
-| 111 | Bucsa |
+| 111 | Bihartorda |
 
-| 112 | Buj |
+| 112 | Biharugra |
 
-| 113 | Buzsák |
+| 113 | Bikal |
 
-| 114 | Bükkmogyorósd |
+| 114 | Biri |
 
-| 115 | Bükkszék |
+| 115 | Boconád |
 
-| 116 | Bükkszenterzsébet |
+| 116 | Bocskaikert |
 
-| 117 | Bürüs |
+| 117 | Bodolyabér |
 
-| 118 | Büttös |
+| 118 | Bodony |
 
-| 119 | Cégénydányád |
+| 119 | Bodroghalom |
 
-| 120 | Cered |
+| 120 | Bodrogkeresztúr |
 
-| 121 | Cibakháza |
+| 121 | Bodrogkisfalud |
 
-| 122 | Cigánd |
+| 122 | Bodrogolaszi |
 
-| 123 | Csaholc |
+| 123 | Bódvalenke |
 
-| 124 | Csányoszró |
+| 124 | Bódvarákó |
 
-| 125 | Csárdaszállás |
+| 125 | Bódvaszilas |
 
-| 126 | Csaroda |
+| 126 | Bogádmindszent |
 
-| 127 | Császló |
+| 127 | Bogdása |
 
-| 128 | Csebény |
+| 128 | Bojt |
 
-| 129 | Csegöld |
+| 129 | Bokor |
 
-| 130 | Csengele |
+| 130 | Boldogasszonyfa |
 
-| 131 | Csenger |
+| 131 | Boldogkőújfalu |
 
-| 132 | Csengersima |
+| 132 | Boldogkőváralja |
 
-| 133 | Csengerújfalu |
+| 133 | Boldva |
 
-| 134 | Csenyéte |
+| 134 | Bolhás |
 
-| 135 | Csépa |
+| 135 | Bolhó |
 
-| 136 | Cserkeszőlő |
+| 136 | Bonnya |
 
-| 137 | Csernely |
+| 137 | Bordány |
 
-| 138 | Csertő |
+| 138 | Borota |
 
-| 139 | Csikéria |
+| 139 | Borsodbóta |
 
-| 140 | Csobád |
+| 140 | Borsodnádasd |
 
-| 141 | Csobaj |
+| 141 | Borsodszentgyörgy |
 
-| 142 | Csokonyavisonta |
+| 142 | Borsodszirák |
 
-| 143 | Csokvaomány |
+| 143 | Borszörcsök |
 
-| 144 | Csökmő |
+| 144 | Botpalád |
 
-| 145 | Csököly |
+| 145 | Botykapeterd |
 
-| 146 | Csurgó |
+| 146 | Bózsva |
 
-| 147 | Csurgónagymarton |
+| 147 | Bököny |
 
-| 148 | Damak |
+| 148 | Bucsa |
 
-| 149 | Dámóc |
+| 149 | Buj |
 
-| 150 | Darány |
+| 150 | Buják |
 
-| 151 | Darnó |
+| 151 | Buzsák |
 
-| 152 | Darvas |
+| 152 | Bükkmogyorósd |
 
-| 153 | Debréte |
+| 153 | Bükkszék |
 
-| 154 | Demecser |
+| 154 | Bükkszenterzsébet |
 
-| 155 | Dencsháza |
+| 155 | Bükkszentmárton |
 
-| 156 | Derecske |
+| 156 | Bürüs |
 
-| 157 | Detek |
+| 157 | Büttös |
 
-| 158 | Dévaványa |
+| 158 | Cece |
 
-| 159 | Diósberény |
+| 159 | Cégénydányád |
 
-| 160 | Doboz |
+| 160 | Cered |
 
-| 161 | Domaháza |
+| 161 | Cibakháza |
 
-| 162 | Dombegyház |
+| 162 | Cigánd |
 
-| 163 | Dombiratos |
+| 163 | Cún |
 
-| 164 | Dorogháza |
+| 164 | Csaholc |
 
-| 165 | Drávafok |
+| 165 | Csányoszró |
 
-| 166 | Drávagárdony |
+| 166 | Csárdaszállás |
 
-| 167 | Drávaiványi |
+| 167 | Csaroda |
 
-| 168 | Drávakeresztúr |
+| 168 | Császló |
 
-| 169 | Drávasztára |
+| 169 | Csebény |
 
-| 170 | Drávatamási |
+| 170 | Csécse |
 
-| 171 | Dubicsány |
+| 171 | Csegöld |
 
-| 172 | Dúzs |
+| 172 | Csehi |
 
-| 173 | Ecsegfalva |
+| 173 | Csehimindszent |
 
-| 174 | Edelény |
+| 174 | Csengele |
 
-| 175 | Égerszög |
+| 175 | Csenger |
 
-| 176 | Egyek |
+| 176 | Csengersima |
 
-| 177 | Egyházasgerge |
+| 177 | Csengerújfalu |
 
-| 178 | Encs |
+| 178 | Csenyéte |
 
-| 179 | Encsencs |
+| 179 | Csépa |
 
-| 180 | Endrefalva |
+| 180 | Cserhátszentiván |
 
-| 181 | Endrőc |
+| 181 | Cserkeszőlő |
 
-| 182 | Erdőbénye |
+| 182 | Csernely |
 
-| 183 | Erdőhorváti |
+| 183 | Csertő |
 
-| 184 | Erdőkövesd |
+| 184 | Csikéria |
 
-| 185 | Erdőtelek |
+| 185 | Csipkerek |
 
-| 186 | Erk |
+| 186 | Csobád |
 
-| 187 | Értény |
+| 187 | Csobaj |
 
-| 188 | Esztár |
+| 188 | Csokonyavisonta |
 
-| 189 | Etes |
+| 189 | Csokvaomány |
 
-| 190 | Fábiánháza |
+| 190 | Csólyospálos |
 
-| 191 | Fáj |
+| 191 | Csögle |
 
-| 192 | Fancsal |
+| 192 | Csökmő |
 
-| 193 | Farkaslyuk |
+| 193 | Csököly |
 
-| 194 | Fedémes |
+| 194 | Csurgó |
 
-| 195 | Fehérgyarmat |
+| 195 | Csurgónagymarton |
 
-| 196 | Felsőberecki |
+| 196 | Dabrony |
 
-| 197 | Felsődobsza |
+| 197 | Damak |
 
-| 198 | Felsőegerszeg |
+| 198 | Dámóc |
 
-| 199 | Felsőgagy |
+| 199 | Darány |
 
-| 200 | Felsőnyék |
+| 200 | Darnó |
 
-| 201 | Felsőszentmárton |
+| 201 | Darvas |
 
-| 202 | Felsővadász |
+| 202 | Debréte |
 
-| 203 | Fiad |
+| 203 | Dég |
 
-| 204 | Fony |
+| 204 | Demecser |
 
-| 205 | Forráskút |
+| 205 | Dencsháza |
 
-| 206 | Forró |
+| 206 | Derecske |
 
-| 207 | Földes |
+| 207 | Detek |
 
-| 208 | Fulókércs |
+| 208 | Dévaványa |
 
-| 209 | Furta |
+| 209 | Devecser |
 
-| 210 | Fülesd |
+| 210 | Diósberény |
 
-| 211 | Fülöp |
+| 211 | Doba |
 
-| 212 | Fülpösdaróc |
+| 212 | Doboz |
 
-| 213 | Fürged |
+| 213 | Domaháza |
 
-| 214 | Füzesgyarmat |
+| 214 | Dombegyház |
 
-| 215 | Gáborján |
+| 215 | Dombiratos |
 
-| 216 | Gacsály |
+| 216 | Dombrád |
 
-| 217 | Gadna |
+| 217 | Dormánd |
 
-| 218 | Gagyapáti |
+| 218 | Dorogháza |
 
-| 219 | Gagybátor |
+| 219 | Döge |
 
-| 220 | Gagyvendégi |
+| 220 | Dövény |
 
-| 221 | Galvács |
+| 221 | Drávacsehi |
 
-| 222 | Garadna |
+| 222 | Drávacsepely |
 
-| 223 | Garbolc |
+| 223 | Drávafok |
 
-| 224 | Gávavencsellő |
+| 224 | Drávagárdony |
 
-| 225 | Géberjén |
+| 225 | Drávaiványi |
 
-| 226 | Gégény |
+| 226 | Drávakeresztúr |
 
-| 227 | Gelej |
+| 227 | Drávapalkonya |
 
-| 228 | Gelénes |
+| 228 | Drávapiski |
 
-| 229 | Gemzse |
+| 229 | Drávasztára |
 
-| 230 | Gerényes |
+| 230 | Drávatamási |
 
-| 231 | Geszt |
+| 231 | Dubicsány |
 
-| 232 | Gibárt |
+| 232 | Dunaegyháza |
 
-| 233 | Gige |
+| 233 | Dunavecse |
 
-| 234 | Gilvánfa |
+| 234 | Dúzs |
 
-| 235 | Golop |
+| 235 | Ecseg |
 
-| 236 | Gödre |
+| 236 | Ecsegfalva |
 
-| 237 | Gömörszőlős |
+| 237 | Edelény |
 
-| 238 | Gönc |
+| 238 | Egeralja |
 
-| 239 | Göncruszka |
+| 239 | Egerbocs |
 
-| 240 | Gulács |
+| 240 | Egercsehi |
 
-| 241 | Gyékényes |
+| 241 | Egerfarmos |
 
-| 242 | Gyöngyösmellék |
+| 242 | Égerszög |
 
-| 243 | Gyönk |
+| 243 | Egervölgy |
 
-| 244 | Györgytarló |
+| 244 | Egyek |
 
-| 245 | Győrtelek |
+| 245 | Egyházasdengeleg |
 
-| 246 | Gyugy |
+| 246 | Egyházasgerge |
 
-| 247 | Gyügye |
+| 247 | Egyházaskozár |
 
-| 248 | Gyüre |
+| 248 | Encs |
 
-| 249 | Hács |
+| 249 | Encsencs |
 
-| 250 | Hajdúbagos |
+| 250 | Endrefalva |
 
-| 251 | Hajdúhadház |
+| 251 | Endrőc |
 
-| 252 | Hajdúsámson |
+| 252 | Enying |
 
-| 253 | Halmaj |
+| 253 | Eperjeske |
 
-| 254 | Hangács |
+| 254 | Erdőbénye |
 
-| 255 | Hangony |
+| 255 | Erdőhorváti |
 
-| 256 | Háromhuta |
+| 256 | Erdőkövesd |
 
-| 257 | Hedrehely |
+| 257 | Erdőkürt |
 
-| 258 | Hegymeg |
+| 258 | Erdőtarcsa |
 
-| 259 | Hegyszentmárton |
+| 259 | Erdőtelek |
 
-| 260 | Hejce |
+| 260 | Erk |
 
-| 261 | Hencida |
+| 261 | Érpatak |
 
-| 262 | Hencse |
+| 262 | Értény |
 
-| 263 | Hercegkút |
+| 263 | Esztár |
 
-| 264 | Heresznye |
+| 264 | Etes |
 
-| 265 | Hermánszeg |
+| 265 | Fábiánháza |
 
-| 266 | Hernádbűd |
+| 266 | Fáj |
 
-| 267 | Hernádcéce |
+| 267 | Fancsal |
 
-| 268 | Hernádkércs |
+| 268 | Farkaslyuk |
 
-| 269 | Hernádpetri |
+| 269 | Fedémes |
 
-| 270 | Hernádszentandrás |
+| 270 | Fegyvernek |
 
-| 271 | Hernádszurdok |
+| 271 | Fehérgyarmat |
 
-| 272 | Hernádvécse |
+| 272 | Felsőberecki |
 
-| 273 | Hét |
+| 273 | Felsődobsza |
 
-| 274 | Hetefejércse |
+| 274 | Felsőegerszeg |
 
-| 275 | Heves |
+| 275 | Felsőgagy |
 
-| 276 | Hevesvezekény |
+| 276 | Felsőkelecsény |
 
-| 277 | Hidasnémeti |
+| 277 | Felsőnyárád |
 
-| 278 | Hidvégardó |
+| 278 | Felsőnyék |
 
-| 279 | Hirics |
+| 279 | Felsőregmec |
 
-| 280 | Hobol |
+| 280 | Felsőszentmárton |
 
-| 281 | Hodász |
+| 281 | Felsőtold |
 
-| 282 | Hollókő |
+| 282 | Felsővadász |
 
-| 283 | Homokszentgyörgy |
+| 283 | Felsőzsolca |
 
-| 284 | Homrogd |
+| 284 | Fényeslitke |
 
-| 285 | Hortobágy |
+| 285 | Fiad |
 
-| 286 | Horváthertelend |
+| 286 | Filkeháza |
 
-| 287 | Hosszúpályi |
+| 287 | Fony |
 
-| 288 | Hőgyész |
+| 288 | Forráskút |
 
-| 289 | Ibafa |
+| 289 | Forró |
 
-| 290 | Ibrány |
+| 290 | Földes |
 
-| 291 | Igrici |
+| 291 | Fulókércs |
 
-| 292 | Iharos |
+| 292 | Furta |
 
-| 293 | Iharosberény |
+| 293 | Fülesd |
 
-| 294 | Ilk |
+| 294 | Fülöp |
 
-| 295 | Ináncs |
+| 295 | Fülpösdaróc |
 
-| 296 | Inke |
+| 296 | Fürged |
 
-| 297 | Ipolytarnóc |
+| 297 | Füzér |
 
-| 298 | Iregszemcse |
+| 298 | Füzérkajata |
 
-| 299 | Irota |
+| 299 | Füzérkomlós |
 
-| 300 | Istenmezeje |
+| 300 | Füzérradvány |
 
-| 301 | Istvándi |
+| 301 | Füzesabony |
 
-| 302 | Ivád |
+| 302 | Füzesgyarmat |
 
-| 303 | Jákó |
+| 303 | Gáborján |
 
-| 304 | Jánd |
+| 304 | Gacsály |
 
-| 305 | Jánkmajtis |
+| 305 | Gadna |
 
-| 306 | Jánoshalma |
+| 306 | Gagyapáti |
 
-| 307 | Járdánháza |
+| 307 | Gagybátor |
 
-| 308 | Jármi |
+| 308 | Gagyvendégi |
 
-| 309 | Jósvafő |
+| 309 | Galvács |
 
-| 310 | Kaba |
+| 310 | Garáb |
 
-| 311 | Kadarkút |
+| 311 | Garadna |
 
-| 312 | Kákics |
+| 312 | Garbolc |
 
-| 313 | Kalaznó |
+| 313 | Gávavencsellő |
 
-| 314 | Kálmáncsa |
+| 314 | Géberjén |
 
-| 315 | Kamut |
+| 315 | Gégény |
 
-| 316 | Kántorjánosi |
+| 316 | Gelej |
 
-| 317 | Kány |
+| 317 | Gelénes |
 
-| 318 | Kánya |
+| 318 | Gemzse |
 
-| 319 | Kapoly |
+| 319 | Gerényes |
 
-| 320 | Kaposfő |
+| 320 | Gersekarát |
 
-| 321 | Kaposmérő |
+| 321 | Geszt |
 
-| 322 | Kaposújlak |
+| 322 | Geszteréd |
 
-| 323 | Kaposszerdahely |
+| 323 | Gibárt |
 
-| 324 | Kára |
+| 324 | Gige |
 
-| 325 | Karancsalja |
+| 325 | Gilvánfa |
 
-| 326 | Karancsberény |
+| 326 | Golop |
 
-| 327 | Karancskeszi |
+| 327 | Gödre |
 
-| 328 | Karancslapujtő |
+| 328 | Gömörszőlős |
 
-| 329 | Karancsság |
+| 329 | Gönc |
 
-| 330 | Karcsa |
+| 330 | Göncruszka |
 
-| 331 | Karos |
+| 331 | Görgeteg |
 
-| 332 | Kastélyosdombó |
+| 332 | Gulács |
 
-| 333 | Kaszaper |
+| 333 | Gyékényes |
 
-| 334 | Katádfa |
+| 334 | Gyöngyösmellék |
 
-| 335 | Katymár |
+| 335 | Gyönk |
 
-| 336 | Kazár |
+| 336 | Györgytarló |
 
-| 337 | Kázsmárk |
+| 337 | Győröcske |
 
-| 338 | Kék |
+| 338 | Győrtelek |
 
-| 339 | Kéked |
+| 339 | Győrvár |
 
-| 340 | Kelemér |
+| 340 | Gyugy |
 
-| 341 | Kéleshalom |
+| 341 | Gyulaháza |
 
-| 342 | Kemecse |
+| 342 | Gyügye |
 
-| 343 | Kemse |
+| 343 | Gyüre |
 
-| 344 | Kenézlő |
+| 344 | Hács |
 
-| 345 | Keresztéte |
+| 345 | Hajdúbagos |
 
-| 346 | Kérsemjén |
+| 346 | Hajdúhadház |
 
-| 347 | Kertészsziget |
+| 347 | Hajdúsámson |
 
-| 348 | Keszőhidegkút |
+| 348 | Halmaj |
 
-| 349 | Kétújfalu |
+| 349 | Hangács |
 
-| 350 | Kevermes |
+| 350 | Hangony |
 
-| 351 | Királd |
+| 351 | Hantos |
 
-| 352 | Kisar |
+| 352 | Háromfa |
 
-| 353 | Kisasszond |
+| 353 | Háromhuta |
 
-| 354 | Kisasszonyfa |
+| 354 | Hedrehely |
 
-| 355 | Kisbárapáti |
+| 355 | Hegyhátmaróc |
 
-| 356 | Kisbárkány |
+| 356 | Hegyhátszentpéter |
 
-| 357 | Kisberény |
+| 357 | Hegymeg |
 
-| 358 | Kisbeszterce |
+| 358 | Hegyszentmárton |
 
-| 359 | Kisdobsza |
+| 359 | Héhalom |
 
-| 360 | Kisdombegyház |
+| 360 | Hejce |
 
-| 361 | Kisfüzes |
+| 361 | Hejőpapi |
 
-| 362 | Kishajmás |
+| 362 | Hencida |
 
-| 363 | Kishartyán |
+| 363 | Hencse |
 
-| 364 | Kishódos |
+| 364 | Hercegkút |
 
-| 365 | Kiskinizs |
+| 365 | Heresznye |
 
-| 366 | Kiskorpád |
+| 366 | Hermánszeg |
 
-| 367 | Kisköre |
+| 367 | Hernádbűd |
 
-| 368 | Kisléta |
+| 368 | Hernádcéce |
 
-| 369 | Kismarja |
+| 369 | Hernádkércs |
 
-| 370 | Kisnamény |
+| 370 | Hernádpetri |
 
-| 371 | Kispalád |
+| 371 | Hernádszentandrás |
 
-| 372 | Kisrozvágy |
+| 372 | Hernádszurdok |
 
-| 373 | Kissikátor |
+| 373 | Hernádvécse |
 
-| 374 | Kistamási |
+| 374 | Hét |
 
-| 375 | Kistelek |
+| 375 | Hetefejércse |
 
-| 376 | Kisvarsány |
+| 376 | Heves |
 
-| 377 | Kisvaszar |
+| 377 | Hevesaranyos |
 
-| 378 | Kisszékely |
+| 378 | Hevesvezekény |
 
-| 379 | Kisszekeres |
+| 379 | Hidasnémeti |
 
-| 380 | Kisszentmárton |
+| 380 | Hidvégardó |
 
-| 381 | Kocsord |
+| 381 | Hirics |
 
-| 382 | Kokad |
+| 382 | Hobol |
 
-| 383 | Komádi |
+| 383 | Hodász |
 
-| 384 | Komjáti |
+| 384 | Hollóháza |
 
-| 385 | Komlódtótfalu |
+| 385 | Hollókő |
 
-| 386 | Komlósd |
+| 386 | Homokszentgyörgy |
 
-| 387 | Komlóska |
+| 387 | Homrogd |
 
-| 388 | Konyár |
+| 388 | Hortobágy |
 
-| 389 | Koppányszántó |
+| 389 | Horváthertelend |
 
-| 390 | Korlát |
+| 390 | Hosszúhetény |
 
-| 391 | Kórós |
+| 391 | Hosszúpályi |
 
-| 392 | Kőkút |
+| 392 | Hőgyész |
 
-| 393 | Kölcse |
+| 393 | Ibafa |
 
-| 394 | Kömlő |
+| 394 | Ibrány |
 
-| 395 | Kömörő |
+| 395 | Igar |
 
-| 396 | Körösladány |
+| 396 | Igrici |
 
-| 397 | Körösnagyharsány |
+| 397 | Iharos |
 
-| 398 | Köröstarcsa |
+| 398 | Iharosberény |
 
-| 399 | Körösújfalu |
+| 399 | Ilk |
 
-| 400 | Körösszakál |
+| 400 | Imola |
 
-| 401 | Körösszegapáti |
+| 401 | Ináncs |
 
-| 402 | Kötegyán |
+| 402 | Inke |
 
-| 403 | Krasznokvajda |
+| 403 | Ipolytarnóc |
 
-| 404 | Kunágota |
+| 404 | Iregszemcse |
 
-| 405 | Kunbaja |
+| 405 | Irota |
 
-| 406 | Kunhegyes |
+| 406 | Istenmezeje |
 
-| 407 | Kunszentmárton |
+| 407 | Istvándi |
 
-| 408 | Kupa |
+| 408 | Iszkáz |
 
-| 409 | Lácacséke |
+| 409 | Ivád |
 
-| 410 | Lad |
+| 410 | Jákfalva |
 
-| 411 | Ládbesenyő |
+| 411 | Jákó |
 
-| 412 | Lak |
+| 412 | Jánd |
 
-| 413 | Lakócsa |
+| 413 | Jánkmajtis |
 
-| 414 | Laskod |
+| 414 | Jánoshalma |
 
-| 415 | Legyesbénye |
+| 415 | Jánoshida |
 
-| 416 | Léh |
+| 416 | Járdánháza |
 
-| 417 | Lénárddaróc |
+| 417 | Jármi |
 
-| 418 | Lengyeltóti |
+| 418 | Jászalsószentgyörgy |
 
-| 419 | Létavértes |
+| 419 | Jászapáti |
 
-| 420 | Levelek |
+| 420 | Jászdózsa |
 
-| 421 | Litka |
+| 421 | Jászivány |
 
-| 422 | Litke |
+| 422 | Jászkisér |
 
-| 423 | Lónya |
+| 423 | Jászladány |
 
-| 424 | Lucfalva |
+| 424 | Jászszentandrás |
 
-| 425 | Ludányhalászi |
+| 425 | Jászszentlászló |
 
-| 426 | Lulla |
+| 426 | Jéke |
 
-| 427 | Lúzsok |
+| 427 | Jobbágyi |
 
-| 428 | Mád |
+| 428 | Jósvafő |
 
-| 429 | Madaras |
+| 429 | Kaba |
 
-| 430 | Mágocs |
+| 430 | Kadarkút |
 
-| 431 | Magosliget |
+| 431 | Kákics |
 
-| 432 | Magy |
+| 432 | Kál |
 
-| 433 | Magyarbánhegyes |
+| 433 | Kalaznó |
 
-| 434 | Magyardombegyház |
+| 434 | Kálló |
 
-| 435 | Magyargéc |
+| 435 | Kállósemjén |
 
-| 436 | Magyarhomorog |
+| 436 | Kálmáncsa |
 
-| 437 | Magyarkeszi |
+| 437 | Kám |
 
-| 438 | Magyarlukafa |
+| 438 | Kamond |
 
-| 439 | Magyarmecske |
+| 439 | Kamut |
 
-| 440 | Magyartelek |
+| 440 | Kánó |
 
-| 441 | Makkoshotyka |
+| 441 | Kántorjánosi |
 
-| 442 | Mánd |
+| 442 | Kány |
 
-| 443 | Máriapócs |
+| 443 | Kánya |
 
-| 444 | Márkháza |
+| 444 | Kápolna |
 
-| 445 | Markóc |
+| 445 | Kapoly |
 
-| 446 | Marócsa |
+| 446 | Kaposfő |
 
-| 447 | Márokpapi |
+| 447 | Kaposmérő |
 
-| 448 | Martonyi |
+| 448 | Kaposújlak |
 
-| 449 | Mátészalka |
+| 449 | Kaposszerdahely |
 
-| 450 | Mátételke |
+| 450 | Kára |
 
-| 451 | Mátraballa |
+| 451 | Karakószörcsök |
 
-| 452 | Mátraderecske |
+| 452 | Karancsalja |
 
-| 453 | Mátramindszent |
+| 453 | Karancsberény |
 
-| 454 | Mátranovák |
+| 454 | Karancskeszi |
 
-| 455 | Mátraszele |
+| 455 | Karancslapujtő |
 
-| 456 | Mátraterenye |
+| 456 | Karancsság |
 
-| 457 | Mátraverebély |
+| 457 | Kárász |
 
-| 458 | Mátyus |
+| 458 | Karcag |
 
-| 459 | Medgyesbodzás |
+| 459 | Karcsa |
 
-| 460 | Medgyesegyháza |
+| 460 | Karos |
 
-| 461 | Megyaszó |
+| 461 | Kastélyosdombó |
 
-| 462 | Méhkerék |
+| 462 | Kaszaper |
 
-| 463 | Méhtelek |
+| 463 | Kaszó |
 
-| 464 | Mekényes |
+| 464 | Katádfa |
 
-| 465 | Mélykút |
+| 465 | Katymár |
 
-| 466 | Méra |
+| 466 | Kazár |
 
-| 467 | Merenye |
+| 467 | Kázsmárk |
 
-| 468 | Mérk |
+| 468 | Kék |
 
-| 469 | Meszes |
+| 469 | Kékcse |
 
-| 470 | Mezőberény |
+| 470 | Kéked |
 
-| 471 | Mezőcsát |
+| 471 | Kelebia |
 
-| 472 | Meződ |
+| 472 | Kelemér |
 
-| 473 | Mezőgyán |
+| 473 | Kéleshalom |
 
-| 474 | Mezőhegyes |
+| 474 | Kemecse |
 
-| 475 | Mezőkovácsháza |
+| 475 | Kémes |
 
-| 476 | Mezőpeterd |
+| 476 | Kemse |
 
-| 477 | Mezősas |
+| 477 | Kenderes |
 
-| 478 | Mezőzombor |
+| 478 | Kenézlő |
 
-| 479 | Mihálygerge |
+| 479 | Kengyel |
 
-| 480 | Mike |
+| 480 | Keresztéte |
 
-| 481 | Miklósi |
+| 481 | Kérsemjén |
 
-| 482 | Milota |
+| 482 | Kerta |
 
-| 483 | Mindszentgodisa |
+| 483 | Kertészsziget |
 
-| 484 | Miszla |
+| 484 | Keszőhidegkút |
 
-| 485 | Mogyoróska |
+| 485 | Kétpó |
 
-| 486 | Molvány |
+| 486 | Kétújfalu |
 
-| 487 | Monaj |
+| 487 | Kevermes |
 
-| 488 | Monok |
+| 488 | Királd |
 
-| 489 | Monostorpályi |
+| 489 | Kisar |
 
-| 490 | Mórahalom |
+| 490 | Kisasszond |
 
-| 491 | Mozsgó |
+| 491 | Kisasszonyfa |
 
-| 492 | Mucsi |
+| 492 | Kisbágyon |
 
-| 493 | Murony |
+| 493 | Kisbajom |
 
-| 494 | Nábrád |
+| 494 | Kisbárapáti |
 
-| 495 | Nádudvar |
+| 495 | Kisbárkány |
 
-| 496 | Nágocs |
+| 496 | Kisberény |
 
-| 497 | Nagyar |
+| 497 | Kisberzseny |
 
-| 498 | Nagybajom |
+| 498 | Kisbeszterce |
 
-| 499 | Nagybánhegyes |
+| 499 | Kiscsősz |
 
-| 500 | Nagybárkány |
+| 500 | Kisdobsza |
 
-| 501 | Nagycsány |
+| 501 | Kisdombegyház |
 
-| 502 | Nagydobos |
+| 502 | Kisfüzes |
 
-| 503 | Nagydobsza |
+| 503 | Kishajmás |
 
-| 504 | Nagyecsed |
+| 504 | Kishartyán |
 
-| 505 | Nagyhajmás |
+| 505 | Kishódos |
 
-| 506 | Nagyhalász |
+| 506 | Kishuta |
 
-| 507 | Nagyhódos |
+| 507 | Kiskinizs |
 
-| 508 | Nagyiván |
+| 508 | Kiskorpád |
 
-| 509 | Nagykamarás |
+| 509 | Kisköre |
 
-| 510 | Nagykereki |
+| 510 | Kiskunmajsa |
 
-| 511 | Nagykeresztúr |
+| 511 | Kisláng |
 
-| 512 | Nagykinizs |
+| 512 | Kisléta |
 
-| 513 | Nagykónyi |
+| 513 | Kismarja |
 
-| 514 | Nagylóc |
+| 514 | Kisnamény |
 
-| 515 | Nagypeterd |
+| 515 | Kispalád |
 
-| 516 | Nagyrábé |
+| 516 | Kispirit |
 
-| 517 | Nagyrév |
+| 517 | Kisrozvágy |
 
-| 518 | Nagyrozvágy |
+| 518 | Kissikátor |
 
-| 519 | Nagyszékely |
+| 519 | Kistamási |
 
-| 520 | Nagyszekeres |
+| 520 | Kistelek |
 
-| 521 | Nagyszokoly |
+| 521 | Kisújszállás |
 
-| 522 | Nagyvarsány |
+| 522 | Kisvárda |
 
-| 523 | Nagyváty |
+| 523 | Kisvarsány |
 
-| 524 | Nekézseny |
+| 524 | Kisvaszar |
 
-| 525 | Nemesborzova |
+| 525 | Kisszállás |
 
-| 526 | Nemeske |
+| 526 | Kisszékely |
 
-| 527 | Nemti |
+| 527 | Kisszekeres |
 
-| 528 | Nógrádmegyer |
+| 528 | Kisszentmárton |
 
-| 529 | Nógrádsipek |
+| 529 | Kisszőlős |
 
-| 530 | Nógrádszakál |
+| 530 | Kocsord |
 
-| 531 | Novajidrány |
+| 531 | Kokad |
 
-| 532 | Nyésta |
+| 532 | Kolontár |
 
-| 533 | Nyírábrány |
+| 533 | Komádi |
 
-| 534 | Nyíracsád |
+| 534 | Komjáti |
 
-| 535 | Nyíradony |
+| 535 | Komló |
 
-| 536 | Nyírbátor |
+| 536 | Komlódtótfalu |
 
-| 537 | Nyírbéltek |
+| 537 | Komlósd |
 
-| 538 | Nyírbogát |
+| 538 | Komlóska |
 
-| 539 | Nyírbogdány |
+| 539 | Komoró |
 
-| 540 | Nyírcsaholy |
+| 540 | Kompolt |
 
-| 541 | Nyírcsászári |
+| 541 | Konyár |
 
-| 542 | Nyírderzs |
+| 542 | Koppányszántó |
 
-| 543 | Nyírgelse |
+| 543 | Korlát |
 
-| 544 | Nyírgyulaj |
+| 544 | Kórós |
 
-| 545 | Nyíribrony |
+| 545 | Kovácsvágás |
 
-| 546 | Nyírjákó |
+| 546 | Kozárd |
 
-| 547 | Nyírkarász |
+| 547 | Köblény |
 
-| 548 | Nyírkáta |
+| 548 | Kőkút |
 
-| 549 | Nyírkércs |
+| 549 | Kölcse |
 
-| 550 | Nyírlugos |
+| 550 | Kömlő |
 
-| 551 | Nyírmada |
+| 551 | Kömörő |
 
-| 552 | Nyírmártonfalva |
+| 552 | Kömpöc |
 
-| 553 | Nyírmeggyes |
+| 553 | Körösladány |
 
-| 554 | Nyírmihálydi |
+| 554 | Körösnagyharsány |
 
-| 555 | Nyírparasznya |
+| 555 | Köröstarcsa |
 
-| 556 | Nyírpilis |
+| 556 | Körösújfalu |
 
-| 557 | Nyírtass |
+| 557 | Körösszakál |
 
-| 558 | Nyírtét |
+| 558 | Körösszegapáti |
 
-| 559 | Nyírvasvári |
+| 559 | Kötegyán |
 
-| 560 | Nyomár |
+| 560 | Krasznokvajda |
 
-| 561 | Nyugotszenterzsébet |
+| 561 | Kunadacs |
 
-| 562 | Ófehértó |
+| 562 | Kunágota |
 
-| 563 | Okány |
+| 563 | Kunbaja |
 
-| 564 | Okorág |
+| 564 | Kuncsorba |
 
-| 565 | Olaszliszka |
+| 565 | Kunfehértó |
 
-| 566 | Olcsva |
+| 566 | Kunhegyes |
 
-| 567 | Olcsvaapáti |
+| 567 | Kunmadaras |
 
-| 568 | Ópályi |
+| 568 | Kunpeszér |
 
-| 569 | Ópusztaszer |
+| 569 | Kunszentmárton |
 
-| 570 | Oroszló |
+| 570 | Kunszentmiklós |
 
-| 571 | Ózd |
+| 571 | Kupa |
 
-| 572 | Ózdfalu |
+| 572 | Kutas |
 
-| 573 | Ozora |
+| 573 | Kutasó |
 
-| 574 | Öcsöd |
+| 574 | Lábod |
 
-| 575 | Ököritófülpös |
+| 575 | Lácacséke |
 
-| 576 | Ömböly |
+| 576 | Lad |
 
-| 577 | Őr |
+| 577 | Ládbesenyő |
 
-| 578 | Öreglak |
+| 578 | Lajoskomárom |
 
-| 579 | Őrtilos |
+| 579 | Lak |
 
-| 580 | Öttömös |
+| 580 | Lakócsa |
 
-| 581 | Pácin |
+| 581 | Laskod |
 
-| 582 | Palé |
+| 582 | Legyesbénye |
 
-| 583 | Pálmajor |
+| 583 | Léh |
 
-| 584 | Pamlény |
+| 584 | Lénárddaróc |
 
-| 585 | Pamuk |
+| 585 | Lengyeltóti |
 
-| 586 | Pányok |
+| 586 | Lepsény |
 
-| 587 | Panyola |
+| 587 | Létavértes |
 
-| 588 | Papos |
+| 588 | Levelek |
 
-| 589 | Páprád |
+| 589 | Liget |
 
-| 590 | Parád |
+| 590 | Litka |
 
-| 591 | Parádsasvár |
+| 591 | Litke |
 
-| 592 | Pári |
+| 592 | Lónya |
 
-| 593 | Paszab |
+| 593 | Lövőpetri |
 
-| 594 | Patapoklosi |
+| 594 | Lucfalva |
 
-| 595 | Patca |
+| 595 | Ludányhalászi |
 
-| 596 | Patosfa |
+| 596 | Lulla |
 
-| 597 | Pátyod |
+| 597 | Lúzsok |
 
-| 598 | Pély |
+| 598 | Mád |
 
-| 599 | Penészlek |
+| 599 | Madaras |
 
-| 600 | Penyige |
+| 600 | Mágocs |
 
-| 601 | Pere |
+| 601 | Magosliget |
 
-| 602 | Perecse |
+| 602 | Magy |
 
-| 603 | Perkupa |
+| 603 | Magyarbánhegyes |
 
-| 604 | Péterhida |
+| 604 | Magyardombegyház |
 
-| 605 | Pétervására |
+| 605 | Magyaregregy |
 
-| 606 | Petneháza |
+| 606 | Magyargéc |
 
-| 607 | Pettend |
+| 607 | Magyarhertelend |
 
-| 608 | Piliny |
+| 608 | Magyarhomorog |
 
-| 609 | Pincehely |
+| 609 | Magyarkeszi |
 
-| 610 | Piricse |
+| 610 | Magyarlukafa |
 
-| 611 | Piskó |
+| 611 | Magyarmecske |
 
-| 612 | Pocsaj |
+| 612 | Magyarszék |
 
-| 613 | Pócspetri |
+| 613 | Magyartelek |
 
-| 614 | Pogányszentpéter |
+| 614 | Makkoshotyka |
 
-| 615 | Porcsalma |
+| 615 | Mánd |
 
-| 616 | Porrog |
+| 616 | Mándok |
 
-| 617 | Porrogszentkirály |
+| 617 | Mánfa |
 
-| 618 | Porrogszentpál |
+| 618 | Máriapócs |
 
-| 619 | Potony |
+| 619 | Márkháza |
 
-| 620 | Prügy |
+| 620 | Markóc |
 
-| 621 | Pusztadobos |
+| 621 | Marócsa |
 
-| 622 | Pusztamérges |
+| 622 | Márokpapi |
 
-| 623 | Pusztaottlaka |
+| 623 | Martonyi |
 
-| 624 | Pusztaradvány |
+| 624 | Mátészalka |
 
-| 625 | Pusztaszer |
+| 625 | Mátételke |
 
-| 626 | Putnok |
+| 626 | Mátraballa |
 
-| 627 | Püspökladány |
+| 627 | Mátraderecske |
 
-| 628 | Rakaca |
+| 628 | Mátramindszent |
 
-| 629 | Rakacaszend |
+| 629 | Mátranovák |
 
-| 630 | Rakamaz |
+| 630 | Mátraszele |
 
-| 631 | Rákóczibánya |
+| 631 | Mátraszőlős |
 
-| 632 | Ramocsaháza |
+| 632 | Mátraterenye |
 
-| 633 | Rápolt |
+| 633 | Mátraverebély |
 
-| 634 | Rásonysápberencs |
+| 634 | Mátyásdomb |
 
-| 635 | Rátka |
+| 635 | Mátyus |
 
-| 636 | Recsk |
+| 636 | Máza |
 
-| 637 | Regéc |
+| 637 | Mecsekpölöske |
 
-| 638 | Regöly |
+| 638 | Medgyesbodzás |
 
-| 639 | Révleányvár |
+| 639 | Medgyesegyháza |
 
-| 640 | Ricse |
+| 640 | Megyaszó |
 
-| 641 | Rimóc |
+| 641 | Méhkerék |
 
-| 642 | Rinyakovácsi |
+| 642 | Méhtelek |
 
-| 643 | Rinyaújlak |
+| 643 | Mekényes |
 
-| 644 | Rinyaújnép |
+| 644 | Mélykút |
 
-| 645 | Rohod |
+| 645 | Méra |
 
-| 646 | Rózsafa |
+| 646 | Merenye |
 
-| 647 | Rozsály |
+| 647 | Mérk |
 
-| 648 | Ruzsa |
+| 648 | Mesterszállás |
 
-| 649 | Ságújfalu |
+| 649 | Meszes |
 
-| 650 | Sajómercse |
+| 650 | Mezőberény |
 
-| 651 | Sajónémeti |
+| 651 | Mezőcsát |
 
-| 652 | Sajópüspöki |
+| 652 | Meződ |
 
-| 653 | Sajóvelezd |
+| 653 | Mezőgyán |
 
-| 654 | Salgótarján |
+| 654 | Mezőhegyes |
 
-| 655 | Sámod |
+| 655 | Mezőhék |
 
-| 656 | Sámsonháza |
+| 656 | Mezőkomárom |
 
-| 657 | Sáp |
+| 657 | Mezőkovácsháza |
 
-| 658 | Sáránd |
+| 658 | Mezőladány |
 
-| 659 | Sárazsadány |
+| 659 | Mezőpeterd |
 
-| 660 | Sarkad |
+| 660 | Mezősas |
 
-| 661 | Sarkadkeresztúr |
+| 661 | Mezőszemere |
 
-| 662 | Sárospatak |
+| 662 | Mezőszentgyörgy |
 
-| 663 | Sárrétudvari |
+| 663 | Mezőszilas |
 
-| 664 | Sásd |
+| 664 | Mezőtárkány |
 
-| 665 | Sáta |
+| 665 | Mezőtúr |
 
-| 666 | Selyeb |
+| 666 | Mezőzombor |
 
-| 667 | Sellye |
+| 667 | Mihálygerge |
 
-| 668 | Semjén |
+| 668 | Mike |
 
-| 669 | Serényfalva |
+| 669 | Mikepércs |
 
-| 670 | Sérsekszőlős |
+| 670 | Miklósi |
 
-| 671 | Sima |
+| 671 | Mikófalva |
 
-| 672 | Simontornya |
+| 672 | Mikóháza |
 
-| 673 | Sirok |
+| 673 | Mikosszéplak |
 
-| 674 | Somogyacsa |
+| 674 | Milota |
 
-| 675 | Somogyapáti |
+| 675 | Mindszentgodisa |
 
-| 676 | Somogyaracs |
+| 676 | Miszla |
 
-| 677 | Somogybükkösd |
+| 677 | Mogyoróska |
 
-| 678 | Somogycsicsó |
+| 678 | Molvány |
 
-| 679 | Somogydöröcske |
+| 679 | Monaj |
 
-| 680 | Somogyegres |
+| 680 | Monok |
 
-| 681 | Somogyhárságy |
+| 681 | Mónosbél |
 
-| 682 | Somogyhatvan |
+| 682 | Monostorpályi |
 
-| 683 | Somogymeggyes |
+| 683 | Mórahalom |
 
-| 684 | Somogyudvarhely |
+| 684 | Móricgát |
 
-| 685 | Somogyvámos |
+| 685 | Mozsgó |
 
-| 686 | Somogyvár |
+| 686 | Mucsi |
 
-| 687 | Somogyviszló |
+| 687 | Murony |
 
-| 688 | Somoskőújfalu |
+| 688 | Nábrád |
 
-| 689 | Sonkád |
+| 689 | Nádudvar |
 
-| 690 | Sóshartyán |
+| 690 | Nágocs |
 
-| 691 | Sóstófalva |
+| 691 | Nagyalásony |
 
-| 692 | Sósvertike |
+| 692 | Nagyar |
 
-| 693 | Szabolcs |
+| 693 | Nagyatád |
 
-| 694 | Szágy |
+| 694 | Nagybajom |
 
-| 695 | Szajla |
+| 695 | Nagybánhegyes |
 
-| 696 | Szakácsi |
+| 696 | Nagybárkány |
 
-| 697 | Szakadát |
+| 697 | Nagycsány |
 
-| 698 | Szakály |
+| 698 | Nagydobos |
 
-| 699 | Szalaszend |
+| 699 | Nagydobsza |
 
-| 700 | Szalmatercs |
+| 700 | Nagyecsed |
 
-| 701 | Szalonna |
+| 701 | Nagyhajmás |
 
-| 702 | Szamosangyalos |
+| 702 | Nagyhalász |
 
-| 703 | Szamosbecs |
+| 703 | Nagyhódos |
 
-| 704 | Szamoskér |
+| 704 | Nagyhuta |
 
-| 705 | Szamossályi |
+| 705 | Nagyiván |
 
-| 706 | Szamostatárfalva |
+| 706 | Nagykálló |
 
-| 707 | Szamosújlak |
+| 707 | Nagykamarás |
 
-| 708 | Szamosszeg |
+| 708 | Nagykereki |
 
-| 709 | Szárazd |
+| 709 | Nagykeresztúr |
 
-| 710 | Szászfa |
+| 710 | Nagykinizs |
 
-| 711 | Szatmárcseke |
+| 711 | Nagykónyi |
 
-| 712 | Szécsény |
+| 712 | Nagykorpád |
 
-| 713 | Szécsényfelfalu |
+| 713 | Nagylóc |
 
-| 714 | Szeghalom |
+| 714 | Nagylók |
 
-| 715 | Szegi |
+| 715 | Nagypeterd |
 
-| 716 | Szegilong |
+| 716 | Nagypirit |
 
-| 717 | Székely |
+| 717 | Nagyrábé |
 
-| 718 | Szelevény |
+| 718 | Nagyrév |
 
-| 719 | Szemere |
+| 719 | Nagyrozvágy |
 
-| 720 | Szendrő |
+| 720 | Nagyszékely |
 
-| 721 | Szendrőlád |
+| 721 | Nagyszekeres |
 
-| 722 | Szenna |
+| 722 | Nagyszokoly |
 
-| 723 | Szenta |
+| 723 | Nagytilaj |
 
-| 724 | Szentborbás |
+| 724 | Nagyút |
 
-| 725 | Szentdénes |
+| 725 | Nagyvarsány |
 
-| 726 | Szentdomonkos |
+| 726 | Nagyváty |
 
-| 727 | Szentegát |
+| 727 | Nagyvisnyó |
 
-| 728 | Szentistvánbaksa |
+| 728 | Nekézseny |
 
-| 729 | Szentlászló |
+| 729 | Nemesborzova |
 
-| 730 | Szentpéterszeg |
+| 730 | Nemeske |
 
-| 731 | Szerencs |
+| 731 | Nemti |
 
-| 732 | Szerep |
+| 732 | Nógrádmegyer |
 
-| 733 | Szigetvár |
+| 733 | Nógrádsipek |
 
-| 734 | Szikszó |
+| 734 | Nógrádszakál |
 
-| 735 | Szilaspogony |
+| 735 | Noszlop |
 
-| 736 | Szilvásszentmárton |
+| 736 | Novajidrány |
 
-| 737 | Szin |
+| 737 | Nyésta |
 
-| 738 | Szinpetri |
+| 738 | Nyírábrány |
 
-| 739 | Szorgalmatos |
+| 739 | Nyíracsád |
 
-| 740 | Szorosad |
+| 740 | Nyíradony |
 
-| 741 | Szögliget |
+| 741 | Nyírbátor |
 
-| 742 | Szőlősardó |
+| 742 | Nyírbéltek |
 
-| 743 | Szőlősgyörök |
+| 743 | Nyírbogát |
 
-| 744 | Szörény |
+| 744 | Nyírbogdány |
 
-| 745 | Szuha |
+| 745 | Nyírcsaholy |
 
-| 746 | Szuhogy |
+| 746 | Nyírcsászári |
 
-| 747 | Szulimán |
+| 747 | Nyírderzs |
 
-| 748 | Szulok |
+| 748 | Nyírgelse |
 
-| 749 | Tab |
+| 749 | Nyírgyulaj |
 
-| 750 | Tákos |
+| 750 | Nyíri |
 
-| 751 | Taktabáj |
+| 751 | Nyíribrony |
 
-| 752 | Taktaharkány |
+| 752 | Nyírjákó |
 
-| 753 | Taktakenéz |
+| 753 | Nyírkarász |
 
-| 754 | Taktaszada |
+| 754 | Nyírkáta |
 
-| 755 | Tállya |
+| 755 | Nyírkércs |
 
-| 756 | Tamási |
+| 756 | Nyírlövő |
 
-| 757 | Tarcal |
+| 757 | Nyírlugos |
 
-| 758 | Tarhos |
+| 758 | Nyírmada |
 
-| 759 | Tarnabod |
+| 759 | Nyírmártonfalva |
 
-| 760 | Tarnalelesz |
+| 760 | Nyírmeggyes |
 
-| 761 | Tarnaméra |
+| 761 | Nyírmihálydi |
 
-| 762 | Tarnaörs |
+| 762 | Nyírparasznya |
 
-| 763 | Tarnaszentmiklós |
+| 763 | Nyírpilis |
 
-| 764 | Tarnazsadány |
+| 764 | Nyírtass |
 
-| 765 | Tarpa |
+| 765 | Nyírtét |
 
-| 766 | Tarrós |
+| 766 | Nyírvasvári |
 
-| 767 | Tataháza |
+| 767 | Nyomár |
 
-| 768 | Téglás |
+| 768 | Nyugotszenterzsébet |
 
-| 769 | Tékes |
+| 769 | Ófehértó |
 
-| 770 | Teklafalu |
+| 770 | Okány |
 
-| 771 | Telkibánya |
+| 771 | Okorág |
 
-| 772 | Tengőd |
+| 772 | Olaszfa |
 
-| 773 | Tenk |
+| 773 | Olaszliszka |
 
-| 774 | Tépe |
+| 774 | Olcsva |
 
-| 775 | Terem |
+| 775 | Olcsvaapáti |
 
-| 776 | Teresztenye |
+| 776 | Ópályi |
 
-| 777 | Terpes |
+| 777 | Ópusztaszer |
 
-| 778 | Tetétlen |
+| 778 | Oroszi |
 
-| 779 | Tiborszállás |
+| 779 | Oroszló |
 
-| 780 | Timár |
+| 780 | Oszkó |
 
-| 781 | Tiszaadony |
+| 781 | Ózd |
 
-| 782 | Tiszabábolna |
+| 782 | Ózdfalu |
 
-| 783 | Tiszabecs |
+| 783 | Ozora |
 
-| 784 | Tiszabercel |
+| 784 | Öcsöd |
 
-| 785 | Tiszabura |
+| 785 | Ököritófülpös |
 
-| 786 | Tiszacsécse |
+| 786 | Ömböly |
 
-| 787 | Tiszacsege |
+| 787 | Őr |
 
-| 788 | Tiszacsermely |
+| 788 | Öreglak |
 
-| 789 | Tiszadada |
+| 789 | Örményes |
 
-| 790 | Tiszaderzs |
+| 790 | Őrtilos |
 
-| 791 | Tiszadob |
+| 791 | Öttömös |
 
-| 792 | Tiszadorogma |
+| 792 | Ötvöskónyi |
 
-| 793 | Tiszaeszlár |
+| 793 | Pácin |
 
-| 794 | Tiszaföldvár |
+| 794 | Pácsony |
 
-| 795 | Tiszafüred |
+| 795 | Palé |
 
-| 796 | Tiszagyenda |
+| 796 | Pálháza |
 
-| 797 | Tiszaigar |
+| 797 | Pálmajor |
 
-| 798 | Tiszainoka |
+| 798 | Palotás |
 
-| 799 | Tiszakarád |
+| 799 | Pamlény |
 
-| 800 | Tiszakerecseny |
+| 800 | Pamuk |
 
-| 801 | Tiszakeszi |
+| 801 | Pányok |
 
-| 802 | Tiszakóród |
+| 802 | Panyola |
 
-| 803 | Tiszakürt |
+| 803 | Pap |
 
-| 804 | Tiszaladány |
+| 804 | Papos |
 
-| 805 | Tiszalök |
+| 805 | Páprád |
 
-| 806 | Tiszalúc |
+| 806 | Parád |
 
-| 807 | Tiszanagyfalu |
+| 807 | Parádsasvár |
 
-| 808 | Tiszanána |
+| 808 | Pári |
 
-| 809 | Tiszaörs |
+| 809 | Paszab |
 
-| 810 | Tiszarád |
+| 810 | Pásztó |
 
-| 811 | Tiszaroff |
+| 811 | Patapoklosi |
 
-| 812 | Tiszasas |
+| 812 | Patca |
 
-| 813 | Tiszaszalka |
+| 813 | Patosfa |
 
-| 814 | Tiszaszentimre |
+| 814 | Pátroha |
 
-| 815 | Tiszaszőlős |
+| 815 | Pátyod |
 
-| 816 | Tiszatardos |
+| 816 | Pély |
 
-| 817 | Tiszatarján |
+| 817 | Penészlek |
 
-| 818 | Tiszatelek |
+| 818 | Penyige |
 
-| 819 | Tiszavalk |
+| 819 | Pere |
 
-| 820 | Tiszavasvári |
+| 820 | Perecse |
 
-| 821 | Tiszavid |
+| 821 | Perkupa |
 
-| 822 | Tisztaberek |
+| 822 | Péterhida |
 
-| 823 | Tivadar |
+| 823 | Pétervására |
 
-| 824 | Tokaj |
+| 824 | Petneháza |
 
-| 825 | Tolcsva |
+| 825 | Petőmihályfa |
 
-| 826 | Told |
+| 826 | Pettend |
 
-| 827 | Tolnanémedi |
+| 827 | Piliny |
 
-| 828 | Tomajmonostora |
+| 828 | Pincehely |
 
-| 829 | Tomor |
+| 829 | Piricse |
 
-| 830 | Tormás |
+| 830 | Piskó |
 
-| 831 | Tornabarakony |
+| 831 | Pocsaj |
 
-| 832 | Tornakápolna |
+| 832 | Pócspetri |
 
-| 833 | Tornanádaska |
+| 833 | Pogányszentpéter |
 
-| 834 | Tornaszentandrás |
+| 834 | Porcsalma |
 
-| 835 | Tornaszentjakab |
+| 835 | Poroszló |
 
-| 836 | Tornyosnémeti |
+| 836 | Porrog |
 
-| 837 | Torvaj |
+| 837 | Porrogszentkirály |
 
-| 838 | Tótszentgyörgy |
+| 838 | Porrogszentpál |
 
-| 839 | Tótújfalu |
+| 839 | Potony |
 
-| 840 | Törökkoppány |
+| 840 | Prügy |
 
-| 841 | Tunyogmatolcs |
+| 841 | Pusztadobos |
 
-| 842 | Túristvándi |
+| 842 | Pusztafalu |
 
-| 843 | Túrricse |
+| 843 | Pusztamérges |
 
-| 844 | Tyukod |
+| 844 | Pusztamiske |
 
-| 845 | Udvari |
+| 845 | Pusztaottlaka |
 
-| 846 | Újcsanálos |
+| 846 | Pusztaradvány |
 
-| 847 | Újiráz |
+| 847 | Pusztaszer |
 
-| 848 | Újireg |
+| 848 | Putnok |
 
-| 849 | Újléta |
+| 849 | Püspökladány |
 
-| 850 | Újszalonta |
+| 850 | Püspökmolnári |
 
-| 851 | Uppony |
+| 851 | Rábahídvég |
 
-| 852 | Ura |
+| 852 | Ragály |
 
-| 853 | Uszka |
+| 853 | Rakaca |
 
-| 854 | Üllés |
+| 854 | Rakacaszend |
 
-| 855 | Vaja |
+| 855 | Rakamaz |
 
-| 856 | Vajdácska |
+| 856 | Rákóczibánya |
 
-| 857 | Vajszló |
+| 857 | Ramocsaháza |
 
-| 858 | Vállaj |
+| 858 | Rápolt |
 
-| 859 | Vámosatya |
+| 859 | Rásonysápberencs |
 
-| 860 | Vámosoroszi |
+| 860 | Rátka |
 
-| 861 | Vámospércs |
+| 861 | Recsk |
 
-| 862 | Vámosújfalu |
+| 862 | Regéc |
 
-| 863 | Váncsod |
+| 863 | Regöly |
 
-| 864 | Várad |
+| 864 | Rém |
 
-| 865 | Váraszó |
+| 865 | Rétközberencs |
 
-| 866 | Varbóc |
+| 866 | Révleányvár |
 
-| 867 | Varga |
+| 867 | Ricse |
 
-| 868 | Varsád |
+| 868 | Rimóc |
 
-| 869 | Varsány |
+| 869 | Rinyabesenyő |
 
-| 870 | Vásárosbéc |
+| 870 | Rinyakovácsi |
 
-| 871 | Vásárosdombó |
+| 871 | Rinyaszentkirály |
 
-| 872 | Vásárosnamény |
+| 872 | Rinyaújlak |
 
-| 873 | Vasmegyer |
+| 873 | Rinyaújnép |
 
-| 874 | Vázsnok |
+| 874 | Rohod |
 
-| 875 | Végegyháza |
+| 875 | Rózsafa |
 
-| 876 | Vejti |
+| 876 | Rozsály |
 
-| 877 | Vekerd |
+| 877 | Ruzsa |
 
-| 878 | Vésztő |
+| 878 | Ságújfalu |
 
-| 879 | Vilmány |
+| 879 | Sajómercse |
 
-| 880 | Visnye |
+| 880 | Sajónémeti |
 
-| 881 | Viss |
+| 881 | Sajópüspöki |
 
-| 882 | Viszló |
+| 882 | Sajóvelezd |
 
-| 883 | Vízvár |
+| 883 | Salgótarján |
 
-| 884 | Vizslás |
+| 884 | Sámod |
 
-| 885 | Vizsoly |
+| 885 | Sámsonháza |
 
-| 886 | Zabar |
+| 886 | Sáp |
 
-| 887 | Zádor |
+| 887 | Sáránd |
 
-| 888 | Zajta |
+| 888 | Sárazsadány |
 
-| 889 | Zákány |
+| 889 | Sárbogárd |
 
-| 890 | Zákányfalu |
+| 890 | Sáregres |
 
-| 891 | Zákányszék |
+| 891 | Sárfimizdó |
 
-| 892 | Zala |
+| 892 | Sarkad |
 
-| 893 | Zaláta |
+| 893 | Sarkadkeresztúr |
 
-| 894 | Zalkod |
+| 894 | Sárkeresztúr |
 
-| 895 | Zaránk |
+| 895 | Sárospatak |
 
-| 896 | Zemplénagárd |
+| 896 | Sárrétudvari |
 
-| 897 | Zics |
+| 897 | Sárszentágota |
 
-| 898 | Ziliz |
+| 898 | Sarud |
 
-| 899 | Zsadány |
+| 899 | Sásd |
 
-| 900 | Zsáka |
+| 900 | Sáta |
 
-| 901 | Zsarolyán |
+| 901 | Sátoraljaújhely |
 
-| 902 | Zselickisfalud |
+| 902 | Segesd |
 
-| 903 | Zsujta |
+| 903 | Selyeb |
 
-2. melléklet a 27/2013. (II. 12.) Korm. rendelethez[^6]
+| 904 | Sellye |
 
-[^6]: A 2. mellékletet a 147/2013. (V. 14.) Korm. rendelet 3. §-a iktatta be.
+| 905 | Semjén |
+
+| 906 | Serényfalva |
+
+| 907 | Sérsekszőlős |
+
+| 908 | Sima |
+
+| 909 | Simontornya |
+
+| 910 | Sirok |
+
+| 911 | Somlójenő |
+
+| 912 | Somlószőlős |
+
+| 913 | Somlóvásárhely |
+
+| 914 | Somlóvecse |
+
+| 915 | Somogyacsa |
+
+| 916 | Somogyapáti |
+
+| 917 | Somogyaracs |
+
+| 918 | Somogybükkösd |
+
+| 919 | Somogycsicsó |
+
+| 920 | Somogydöröcske |
+
+| 921 | Somogyegres |
+
+| 922 | Somogyhárságy |
+
+| 923 | Somogyhatvan |
+
+| 924 | Somogymeggyes |
+
+| 925 | Somogyszob |
+
+| 926 | Somogyudvarhely |
+
+| 927 | Somogyvámos |
+
+| 928 | Somogyvár |
+
+| 929 | Somogyviszló |
+
+| 930 | Somoskőújfalu |
+
+| 931 | Sonkád |
+
+| 932 | Sóshartyán |
+
+| 933 | Sóstófalva |
+
+| 934 | Sósvertike |
+
+| 935 | Szabadhídvég |
+
+| 936 | Szabadszállás |
+
+| 937 | Szabás |
+
+| 938 | Szabolcs |
+
+| 939 | Szabolcsbáka |
+
+| 940 | Szabolcsveresmart |
+
+| 941 | Szágy |
+
+| 942 | Szajla |
+
+| 943 | Szakácsi |
+
+| 944 | Szakadát |
+
+| 945 | Szakály |
+
+| 946 | Szakoly |
+
+| 947 | Szalaszend |
+
+| 948 | Szalatnak |
+
+| 949 | Szalkszentmárton |
+
+| 950 | Szalmatercs |
+
+| 951 | Szalonna |
+
+| 952 | Szamosangyalos |
+
+| 953 | Szamosbecs |
+
+| 954 | Szamoskér |
+
+| 955 | Szamossályi |
+
+| 956 | Szamostatárfalva |
+
+| 957 | Szamosújlak |
+
+| 958 | Szamosszeg |
+
+| 959 | Szank |
+
+| 960 | Szaporca |
+
+| 961 | Szárász |
+
+| 962 | Szárazd |
+
+| 963 | Szarvasgede |
+
+| 964 | Szászfa |
+
+| 965 | Szászvár |
+
+| 966 | Szatmárcseke |
+
+| 967 | Szécsény |
+
+| 968 | Szécsényfelfalu |
+
+| 969 | Szeghalom |
+
+| 970 | Szegi |
+
+| 971 | Szegilong |
+
+| 972 | Székely |
+
+| 973 | Szelevény |
+
+| 974 | Szemenye |
+
+| 975 | Szemere |
+
+| 976 | Szendrő |
+
+| 977 | Szendrőlád |
+
+| 978 | Szenna |
+
+| 979 | Szenta |
+
+| 980 | Szentborbás |
+
+| 981 | Szentdénes |
+
+| 982 | Szentdomonkos |
+
+| 983 | Szentegát |
+
+| 984 | Szentistvánbaksa |
+
+| 985 | Szentlászló |
+
+| 986 | Szentpéterszeg |
+
+| 987 | Szerencs |
+
+| 988 | Szerep |
+
+| 989 | Szigetvár |
+
+| 990 | Szihalom |
+
+| 991 | Szikszó |
+
+| 992 | Szilaspogony |
+
+| 993 | Szilvásvárad |
+
+| 994 | Szilvásszentmárton |
+
+| 995 | Szin |
+
+| 996 | Szinpetri |
+
+| 997 | Szirák |
+
+| 998 | Szorgalmatos |
+
+| 999 | Szorosad |
+
+| 1000 | Szögliget |
+
+| 1001 | Szőlősardó |
+
+| 1002 | Szőlősgyörök |
+
+| 1003 | Szörény |
+
+| 1004 | Szúcs |
+
+| 1005 | Szuha |
+
+| 1006 | Szuhafő |
+
+| 1007 | Szuhogy |
+
+| 1008 | Szulimán |
+
+| 1009 | Szulok |
+
+| 1010 | Szurdokpüspöki |
+
+| 1011 | Tab |
+
+| 1012 | Tákos |
+
+| 1013 | Taktabáj |
+
+| 1014 | Taktaharkány |
+
+| 1015 | Taktakenéz |
+
+| 1016 | Taktaszada |
+
+| 1017 | Tállya |
+
+| 1018 | Tamási |
+
+| 1019 | Tar |
+
+| 1020 | Tarany |
+
+| 1021 | Tarcal |
+
+| 1022 | Tarhos |
+
+| 1023 | Tarnabod |
+
+| 1024 | Tarnalelesz |
+
+| 1025 | Tarnaméra |
+
+| 1026 | Tarnaörs |
+
+| 1027 | Tarnaszentmiklós |
+
+| 1028 | Tarnazsadány |
+
+| 1029 | Tarpa |
+
+| 1030 | Tarrós |
+
+| 1031 | Tass |
+
+| 1032 | Tataháza |
+
+| 1033 | Téglás |
+
+| 1034 | Tékes |
+
+| 1035 | Teklafalu |
+
+| 1036 | Telekes |
+
+| 1037 | Telkibánya |
+
+| 1038 | Tengeri |
+
+| 1039 | Tengőd |
+
+| 1040 | Tenk |
+
+| 1041 | Tépe |
+
+| 1042 | Terem |
+
+| 1043 | Teresztenye |
+
+| 1044 | Terpes |
+
+| 1045 | Tésenfa |
+
+| 1046 | Téseny |
+
+| 1047 | Tetétlen |
+
+| 1048 | Tiborszállás |
+
+| 1049 | Timár |
+
+| 1050 | Tiszaadony |
+
+| 1051 | Tiszabábolna |
+
+| 1052 | Tiszabecs |
+
+| 1053 | Tiszabercel |
+
+| 1054 | Tiszabezdéd |
+
+| 1055 | Tiszabő |
+
+| 1056 | Tiszabura |
+
+| 1057 | Tiszacsécse |
+
+| 1058 | Tiszacsege |
+
+| 1059 | Tiszacsermely |
+
+| 1060 | Tiszadada |
+
+| 1061 | Tiszaderzs |
+
+| 1062 | Tiszadob |
+
+| 1063 | Tiszadorogma |
+
+| 1064 | Tiszaeszlár |
+
+| 1065 | Tiszaföldvár |
+
+| 1066 | Tiszafüred |
+
+| 1067 | Tiszagyenda |
+
+| 1068 | Tiszaigar |
+
+| 1069 | Tiszainoka |
+
+| 1070 | Tiszakanyár |
+
+| 1071 | Tiszakarád |
+
+| 1072 | Tiszakerecseny |
+
+| 1073 | Tiszakeszi |
+
+| 1074 | Tiszakóród |
+
+| 1075 | Tiszakürt |
+
+| 1076 | Tiszaladány |
+
+| 1077 | Tiszalök |
+
+| 1078 | Tiszalúc |
+
+| 1079 | Tiszamogyorós |
+
+| 1080 | Tiszanagyfalu |
+
+| 1081 | Tiszanána |
+
+| 1082 | Tiszaörs |
+
+| 1083 | Tiszapüspöki |
+
+| 1084 | Tiszarád |
+
+| 1085 | Tiszaroff |
+
+| 1086 | Tiszasas |
+
+| 1087 | Tiszaszalka |
+
+| 1088 | Tiszaszentimre |
+
+| 1089 | Tiszaszentmárton |
+
+| 1090 | Tiszaszőlős |
+
+| 1091 | Tiszatardos |
+
+| 1092 | Tiszatarján |
+
+| 1093 | Tiszatelek |
+
+| 1094 | Tiszatenyő |
+
+| 1095 | Tiszavalk |
+
+| 1096 | Tiszavasvári |
+
+| 1097 | Tiszavid |
+
+| 1098 | Tisztaberek |
+
+| 1099 | Tivadar |
+
+| 1100 | Tófalu |
+
+| 1101 | Tófű |
+
+| 1102 | Tokaj |
+
+| 1103 | Tolcsva |
+
+| 1104 | Told |
+
+| 1105 | Tolnanémedi |
+
+| 1106 | Tomajmonostora |
+
+| 1107 | Tomor |
+
+| 1108 | Tompa |
+
+| 1109 | Tormás |
+
+| 1110 | Tornabarakony |
+
+| 1111 | Tornakápolna |
+
+| 1112 | Tornanádaska |
+
+| 1113 | Tornaszentandrás |
+
+| 1114 | Tornaszentjakab |
+
+| 1115 | Tornyosnémeti |
+
+| 1116 | Tornyospálca |
+
+| 1117 | Torvaj |
+
+| 1118 | Tótszentgyörgy |
+
+| 1119 | Tótújfalu |
+
+| 1120 | Törökkoppány |
+
+| 1121 | Törökszentmiklós |
+
+| 1122 | Trizs |
+
+| 1123 | Tunyogmatolcs |
+
+| 1124 | Túristvándi |
+
+| 1125 | Túrkeve |
+
+| 1126 | Túrricse |
+
+| 1127 | Tuzsér |
+
+| 1128 | Tüskevár |
+
+| 1129 | Tyukod |
+
+| 1130 | Udvari |
+
+| 1131 | Újcsanálos |
+
+| 1132 | Újdombrád |
+
+| 1133 | Újiráz |
+
+| 1134 | Újireg |
+
+| 1135 | Újkenéz |
+
+| 1136 | Újléta |
+
+| 1137 | Újlőrincfalva |
+
+| 1138 | Újszalonta |
+
+| 1139 | Uppony |
+
+| 1140 | Ura |
+
+| 1141 | Uszka |
+
+| 1142 | Üllés |
+
+| 1143 | Vágáshuta |
+
+| 1144 | Vaja |
+
+| 1145 | Vajdácska |
+
+| 1146 | Vajszló |
+
+| 1147 | Vajta |
+
+| 1148 | Vállaj |
+
+| 1149 | Vámosatya |
+
+| 1150 | Vámosoroszi |
+
+| 1151 | Vámospércs |
+
+| 1152 | Vámosújfalu |
+
+| 1153 | Váncsod |
+
+| 1154 | Vanyarc |
+
+| 1155 | Várad |
+
+| 1156 | Váraszó |
+
+| 1157 | Varbóc |
+
+| 1158 | Varga |
+
+| 1159 | Varsád |
+
+| 1160 | Varsány |
+
+| 1161 | Vásárosbéc |
+
+| 1162 | Vásárosdombó |
+
+| 1163 | Vásárosnamény |
+
+| 1164 | Vasmegyer |
+
+| 1165 | Vasvár |
+
+| 1166 | Vázsnok |
+
+| 1167 | Végegyháza |
+
+| 1168 | Vejti |
+
+| 1169 | Vékény |
+
+| 1170 | Vekerd |
+
+| 1171 | Vésztő |
+
+| 1172 | Vid |
+
+| 1173 | Vilmány |
+
+| 1174 | Vilyvitány |
+
+| 1175 | Visnye |
+
+| 1176 | Viss |
+
+| 1177 | Viszló |
+
+| 1178 | Vízvár |
+
+| 1179 | Vizslás |
+
+| 1180 | Vizsoly |
+
+| 1181 | Zabar |
+
+| 1182 | Zádor |
+
+| 1183 | Zádorfalva |
+
+| 1184 | Záhony |
+
+| 1185 | Zajta |
+
+| 1186 | Zákány |
+
+| 1187 | Zákányfalu |
+
+| 1188 | Zákányszék |
+
+| 1189 | Zala |
+
+| 1190 | Zaláta |
+
+| 1191 | Zalkod |
+
+| 1192 | Zaránk |
+
+| 1193 | Zemplénagárd |
+
+| 1194 | Zics |
+
+| 1195 | Ziliz |
+
+| 1196 | Zubogy |
+
+| 1197 | Zsadány |
+
+| 1198 | Zsáka |
+
+| 1199 | Zsarolyán |
+
+| 1200 | Zselickisfalud |
+
+| 1201 | Zsujta |
+
+| 1202 | Zsurk |
+
+2. melléklet a 27/2013. (II. 12.) Korm. rendelethez[^7]
+
+[^7]: A 2. mellékletet a 147/2013. (V. 14.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 15/2018. (II. 13.) Korm. rendelet 4. § c) pontja.
