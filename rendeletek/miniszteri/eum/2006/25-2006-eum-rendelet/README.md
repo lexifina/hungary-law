@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-25-20-0
 | 2011-03-31 | 2006-25-20-0B.7 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2015-04-29 | 2006-25-20-0B.8 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2017-01-01 | 2006-25-20-0B.9 | 10/2011. (III. 30.) NEFMI rendelet |
+| 2018-02-14 | 2006-25-20-0B.10 | 8/2018. (II. 13.) EMMI rendelet |
