@@ -1,0 +1,3 @@
+## 1. § A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet (a továbbiakban: R.) 3. § (2a) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2a) A viszonosság alapján kiadott többszöri berepülési engedélyt a légiközlekedési hatóság a viszonosság megszűnése esetén visszavonja. Ha a viszonosság már nem áll fenn a kérelmező államával, arról a külpolitikáért felelős miniszter 48 órán belül tájékoztatja a légiközlekedési hatóságot. A viszonosság alapján kiadott többszöri berepülési engedély visszavonásáról a légiközlekedési hatóság haladéktalanul tájékoztatja a Magyar Honvédség légvédelmi vezetéséért és irányításáért felelős szervezetét.”
