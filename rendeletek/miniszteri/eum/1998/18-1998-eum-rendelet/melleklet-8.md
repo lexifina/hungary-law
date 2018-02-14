@@ -1,14 +1,14 @@
-8. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^139]
+8. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^142]
 
 ## A szövet-, sejtdonorok esetében elvégzendő laboratóriumi vizsgálatok (a reproduktív sejtek donorai kivételével)
 
-1.[^140] A donoron a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló miniszteri rendeletben meghatározott vizsgálatokat kell elvégezni.
+1.[^143] A donoron a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló miniszteri rendeletben meghatározott vizsgálatokat kell elvégezni.
 
-1.2.[^141] Ha a donor kórtörténete és az adományozásra kerülő szövet vagy sejtek jellemzői indokolják, további vizsgálatok is elvégzendőek. Szükség szerint elvégzendő vizsgálat például: RhD, HLA, malária, CMV, Toxoplasma, EBV, Trypanosoma cruzi. HTLV-I-antitest vizsgálatot kell végezni azon donoroknál, akik olyan területen élnek vagy olyan területről származnak, amelyet magas előfordulási gyakoriság jellemez, vagy akiknek a szexuális partnerei, illetve a szülei származnak ilyen területről.
+1.2.[^144] Ha a donor kórtörténete és az adományozásra kerülő szövet vagy sejtek jellemzői indokolják, további vizsgálatok is elvégzendőek. Szükség szerint elvégzendő vizsgálat például: RhD, HLA, malária, CMV, Toxoplasma, EBV, Trypanosoma cruzi. HTLV-I-antitest vizsgálatot kell végezni azon donoroknál, akik olyan területen élnek vagy olyan területről származnak, amelyet magas előfordulási gyakoriság jellemez, vagy akiknek a szexuális partnerei, illetve a szülei származnak ilyen területről.
 
 1.3. Autológ donorok esetében a 7. számú melléklet 2.1. pontja alkalmazandó.
 
-1.4.[^142] Amennyiben az 1. pontban meghatározott vizsgálatok elvégzése a köldökzsinórvér őssejt/mesenchymalis őssejt eltávolításáig nem történt meg, a szövetbanknak biztosítania kell a levett köldökzsinórvér őssejt/mesenchymalis őssejt karanténban tartását a szűrővizsgálati eredmény megismeréséig.
+1.4.[^145] Amennyiben az 1. pontban meghatározott vizsgálatok elvégzése a köldökzsinórvér őssejt/mesenchymalis őssejt eltávolításáig nem történt meg, a szövetbanknak biztosítania kell a levett köldökzsinórvér őssejt/mesenchymalis őssejt karanténban tartását a szűrővizsgálati eredmény megismeréséig.
 
 2. Biológiai tulajdonság (marker) meghatározásakor az alábbi általános követelményeket kell betartani
 
@@ -30,7 +30,7 @@ A szövet- és sejtfeldolgozó és -tároló egységek az 50%-nál magasabb plaz
 
 2.5.1. Élőből történő szöveteltávolítás esetében (gyakorlati okokból az allogén csontvelőőssejt-donorok és a perifériás vér vérképző őssejtjeinek donorai kivételével) a vérmintákat az adományozás időpontjában, ha ez nem lehetséges, az adományozást követő 7 napon belül kell levenni (a továbbiakban: adományozáskori minta).
 
-2.5.2.[^143] Amennyiben az allogén élő donorok szövetei és sejtjei hosszabb időn keresztül is tárolhatók, 180 nap elteltével ismételt mintavételt és vizsgálatot kell végezni, kivéve olyan szöveteket (beleértve az amnion-hártyákat), amelyek tárolása –70°C-on történik. Ezen ismételt vizsgálat során az adományozáskori minta legfeljebb 30 nappal az adományozás előtt és legfeljebb 7 nappal az adományozás után vehető le.
+2.5.2.[^146] Amennyiben az allogén élő donorok szövetei és sejtjei hosszabb időn keresztül is tárolhatók, 180 nap elteltével ismételt mintavételt és vizsgálatot kell végezni, kivéve olyan szöveteket (beleértve az amnion-hártyákat), amelyek tárolása –70°C-on történik. Ezen ismételt vizsgálat során az adományozáskori minta legfeljebb 30 nappal az adományozás előtt és legfeljebb 7 nappal az adományozás után vehető le.
 
 2.5.3. Amennyiben az allogén élő donorok szövetei és sejtjei nem tárolhatók hosszú időn át, és így az ismételt mintavétel nem lehetséges, a 2.5.1. alpont szerint kell eljárni.
 
@@ -40,8 +40,8 @@ A szövet- és sejtfeldolgozó és -tároló egységek az 50%-nál magasabb plaz
 
 2.8. Újszülött donor esetében a biológiai vizsgálatokat a donor édesanyján is el lehet végezni, elkerülendő a csecsemőn végzendő orvosilag indokolatlan eljárásokat.
 
-[^139]: A 8. számú mellékletet a 20/2007. (IV. 19.) EüM rendelet 10. § (2) bekezdése iktatta be.
-[^140]: A 8. számú melléklet 1. pontja a 12/2012. (VIII. 6.) EMMI rendelet 9. § (4) bekezdése szerint módosított szöveg.
-[^141]: A 8. számú melléklet 1. pont 1.2. alpontja a 76/2013. (XII. 10.) EMMI rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^142]: A 8. számú melléklet 1. pont 1.4. alpontját a 12/2012. (VIII. 6.) EMMI rendelet 9. § (4) bekezdése iktatta be.
-[^143]: A 8. számú melléklet 2. pont 2.5.2. alpontja a 10. § g) pontja szerint módosított szöveg.
+[^142]: A 8. számú mellékletet a 20/2007. (IV. 19.) EüM rendelet 10. § (2) bekezdése iktatta be.
+[^143]: A 8. számú melléklet 1. pontja a 12/2012. (VIII. 6.) EMMI rendelet 9. § (4) bekezdése szerint módosított szöveg.
+[^144]: A 8. számú melléklet 1. pont 1.2. alpontja a 76/2013. (XII. 10.) EMMI rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^145]: A 8. számú melléklet 1. pont 1.4. alpontját a 12/2012. (VIII. 6.) EMMI rendelet 9. § (4) bekezdése iktatta be.
+[^146]: A 8. számú melléklet 2. pont 2.5.2. alpontja a 10. § g) pontja szerint módosított szöveg.

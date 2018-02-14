@@ -1,6 +1,6 @@
-## A szervkivételre vonatkozó minőségi és biztonsági követelmények[^58]
+## A szervkivételre vonatkozó minőségi és biztonsági követelmények[^59]
 
-16/B. §[^59] (1) A kivett szerv és a donor adatait az átültetés előtt a 9/a. számú melléklet szerint meg kell határozni.
+16/B. §[^60] (1) A kivett szerv és a donor adatait az átültetés előtt a 9/a. számú melléklet szerint meg kell határozni.
 
 (2) A donoradatok meghatározásakor a donor jellemzőire vonatkozó, a donor szervadományozásra való alkalmasságának értékeléséhez szükséges adatokat kell összegyűjteni a megfelelő kockázatfelmérés elvégzése, a recipienst érintő kockázatok minimalizálása és a szervelosztás optimalizálása érdekében.
 
@@ -36,8 +36,8 @@ c) a jogszabály szerinti higiéniás feltételeket betartsák a szervek szennye
 
 (15) A szervadományozás folyamatát – ideértve a szervek szállítására használt tárolóeszközök címkézésének szabályait – részletesen a 9/a. számú melléklet tartalmazza.
 
-(16)[^60] Az illetékes hatóságok biztosítják az e rendeletben foglaltaknak megfelelően az adományozástól az átültetésig vagy ártalmatlanításig terjedő lánc minden szakaszára kiterjedő minőségi és biztonsági rendszer betartását. Ennek érdekében ajánlást dolgozhatnak ki az adományozástól az átültetésig vagy ártalmatlanításig terjedő lánc valamennyi szakaszában részt vevő egészségügyi szolgáltatók számára, amelybe beletartozhat az átültetést követő állapotra vonatkozó, az átültetett szervek minőségének és biztonságának értékelését szolgáló releváns információ összegyűjtéséhez nyújtott ajánlás is. Az ajánlás alapján a folyamatban részt vevő egészségügyi szolgáltatók műveleti előírásokat dolgozhatnak ki.
+(16)[^61] Az illetékes hatóságok biztosítják az e rendeletben foglaltaknak megfelelően az adományozástól az átültetésig vagy ártalmatlanításig terjedő lánc minden szakaszára kiterjedő minőségi és biztonsági rendszer betartását. Ennek érdekében ajánlást dolgozhatnak ki az adományozástól az átültetésig vagy ártalmatlanításig terjedő lánc valamennyi szakaszában részt vevő egészségügyi szolgáltatók számára, amelybe beletartozhat az átültetést követő állapotra vonatkozó, az átültetett szervek minőségének és biztonságának értékelését szolgáló releváns információ összegyűjtéséhez nyújtott ajánlás is. Az ajánlás alapján a folyamatban részt vevő egészségügyi szolgáltatók műveleti előírásokat dolgozhatnak ki.
 
-[^58]: A 16/B. §-t megelőző alcímet a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
-[^59]: A 16/B. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
-[^60]: A 16/B. § (16) bekezdését a 68/2013. (XI. 15.) EMMI rendelet 2. §-a iktatta be.
+[^59]: A 16/B. §-t megelőző alcímet a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^60]: A 16/B. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^61]: A 16/B. § (16) bekezdését a 68/2013. (XI. 15.) EMMI rendelet 2. §-a iktatta be.

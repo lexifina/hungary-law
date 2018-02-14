@@ -62,7 +62,7 @@
 
 | 3.11. Az IH bélyegzője |  |
 
-20. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^169]
+20. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^172]
 
 ## Az importáló szövetbank és harmadik országbeli egészségügyi szolgáltató közötti írásbeli megállapodás tartalmára vonatkozó követelmények
 
@@ -86,4 +86,4 @@ Az egyszeri behozatal kivételével az importáló szövetbank és a harmadik or
 
 9. A harmadik országbeli egészségügyi szolgáltató által a behozott szövetek és sejtek minőségével és biztonságával kapcsolatban alkalmazott összes szabványos műveleti eljárás felsorolása, valamint kötelezettségvállalás arra, hogy azokat kérésre rendelkezésre bocsátja.
 
-[^169]: A 20. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (10) bekezdése iktatta be.
+[^172]: A 20. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (10) bekezdése iktatta be.

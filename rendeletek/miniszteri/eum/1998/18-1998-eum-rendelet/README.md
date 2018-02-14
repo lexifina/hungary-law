@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-18-20-0
 | 2017-01-01 | 1998-18-20-0B.27 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2017-01-05 | 1998-18-20-0B.28 | 44/2016. (XII. 28.) EMMI rendelet |
 | 2017-10-30 | 1998-18-20-0B.29 | 28/2017. (X. 25.) EMMI rendelet |
+| 2018-02-14 | 1998-18-20-0B.30 | 8/2018. (II. 13.) EMMI rendelet |

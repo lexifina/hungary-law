@@ -2,4 +2,6 @@
 
 (2) Az etikai bizottság határozatát – annak meghozatalától számított három munkanapon belül – az eljárásról készült jegyzőkönyvbe foglalja. A határozatot és annak indokolását az érintetteknek megküldi.
 
-(3) Az eljárás során egyebekben az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény rendelkezéseit kell alkalmazni. Az etikai bizottságnak az (1) bekezdés szerinti határozata ellen államigazgatási úton jogorvoslatnak helye nincs, a határozat bírói úton megtámadható.
+(3)[^23]
+
+[^23]: A 4. § (3) bekezdését a 8/2018. (II. 13.) EMMI rendelet 5. §-a hatályon kívül helyezte.

@@ -24,7 +24,7 @@
 
 ## 7. Az engedélyre vonatkozó további feltételekkel és kivételekkel kapcsolatos információk.
 
-17. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^166]
+17. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^169]
 
 ## A behozatali tevékenységek céljából engedélyt kérelmező szövetbank által benyújtandó kérelem tartalmi elemeire vonatkozó követelmények
 
@@ -32,4 +32,4 @@ A behozatali tevékenységek céljából engedély iránti kérelmezéskor a ké
 
 A. Az importáló szövetbankkal (Importing Tissue Establishment – ITE) kapcsolatos általános információk
 
-[^166]: A 17. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (7) bekezdése iktatta be.
+[^169]: A 17. számú mellékletet a 44/2016. (XII. 28.) EMMI rendelet 12. § (7) bekezdése iktatta be.
