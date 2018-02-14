@@ -1,1 +1,0 @@
-## „g) betegszállító szolgáltató szállítási kapacitása: a szolgáltató által üzemeltetett és működési engedéllyel rendelkező – legalább 4+1 és legfeljebb 8+1 fő szállítására alkalmas – közúti betegszállító gépjárművek összessége,”
