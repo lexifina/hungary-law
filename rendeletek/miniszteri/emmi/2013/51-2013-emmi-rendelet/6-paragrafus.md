@@ -12,4 +12,6 @@ c) belső szabályzatban kell meghatározni az érintett munkavállalók tájék
 
 d) elő kell írni, hogy az éles vagy hegyes eszközöket használatuk után egységenként, védőkupak visszatétele nélkül kell az arra rendszeresített gyűjtőeszközbe helyezni.
 
-(3) A 4. § (1) bekezdése szerinti kockázatértékelést és a 4. § (4) bekezdése szerinti bejelentést az egészségügyi szolgáltatás nyújtására irányuló működési engedély megszerzése esetén vagy az éles vagy hegyes eszközzel érintett egészségügyi tevékenységet magában foglaló szakmát érintő működési engedély módosítása esetén az egészségügyi szolgáltató legkésőbb a működési engedély jogerőre emelkedésének napjától számított három hónapon belül készíti el, illetve teszi meg.
+(3)[^3] A 4. § (1) bekezdése szerinti kockázatértékelést és a 4. § (4) bekezdése szerinti bejelentést az egészségügyi szolgáltatás nyújtására irányuló működési engedély megszerzése esetén vagy az éles vagy hegyes eszközzel érintett egészségügyi tevékenységet magában foglaló szakmát érintő működési engedély módosítása esetén az egészségügyi szolgáltató legkésőbb a működési engedély véglegessé válásának napjától számított három hónapon belül készíti el, illetve teszi meg.
+
+[^3]: A 6. § (3) bekezdése a 8/2018. (II. 13.) EMMI rendelet 74. §-a szerint módosított szöveg.
