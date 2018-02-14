@@ -1,6 +1,6 @@
-## Az eseti légtér igénybevétele[^29]
+## Az eseti légtér igénybevétele[^30]
 
-5/A. §[^30] (1) Az eseti légtér igénybevételének megkezdését – a határozatban engedélyezett kezdő időpontja, illetve a b) pont esetében a szüneteltetés időpontja előtt legalább 30 perccel – az 5. § (1) bekezdés e) pontjában vagy ha ilyet megbíztak, akkor az f) pontjában meghatározott személy köteles a Budapest ATS Központnak megadni a következő információkkal:
+5/A. §[^31] (1) Az eseti légtér igénybevételének megkezdését – a határozatban engedélyezett kezdő időpontja, illetve a b) pont esetében a szüneteltetés időpontja előtt legalább 30 perccel – az 5. § (1) bekezdés e) pontjában vagy ha ilyet megbíztak, akkor az f) pontjában meghatározott személy köteles a Budapest ATS Központnak megadni a következő információkkal:
 
 a) az igénybevétel valós kezdésének időpontja (a továbbiakban: aktiválás), és a tervezett befejezés időpontja,
 
@@ -40,5 +40,5 @@ b) az eseti légtér alsó határát, ha az nem a földfelszín, és az eseti l�
 
 (9) Ha az eseti légteret vagy annak egy részét a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 3. mellékletében meghatározott, a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légtérben jelölik ki, akkor az eseti légtérnek a korlátozott légtérrel átlapolásban kijelölt része a kijelölésre irányuló határozatban jogosított által kizárólag a légiközlekedési hatóságnak a korlátozott légtér igénybevételére vonatkozó engedélye mellett vehető igénybe.
 
-[^29]: Az 5/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 55. § (5) bekezdése iktatta be.
-[^30]: Az 5/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 55. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^30]: Az 5/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 55. § (5) bekezdése iktatta be.
+[^31]: Az 5/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 55. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

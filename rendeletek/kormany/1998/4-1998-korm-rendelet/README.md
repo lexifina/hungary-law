@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-4-20-22
 | 2014-09-05 | 1998-4-20-22.15 | 23/2003. (III. 4.) Korm. rendelet |
 | 2017-01-01 | 1998-4-20-22.16 | 177/2011. (IX. 1.) Korm. rendelet |
 | 2018-01-01 | 1998-4-20-22.17 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2018-02-14 | 1998-4-20-22.18 | 11/2018. (II. 6.) Korm. rendelet |

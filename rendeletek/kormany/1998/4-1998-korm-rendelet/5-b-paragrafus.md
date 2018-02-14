@@ -1,6 +1,6 @@
-## A korlátozott légtér igénybevétele[^31]
+## A korlátozott légtér igénybevétele[^32]
 
-5/B. §[^32] (1) A magyar légtér légiközlekedés céljára történő kijelölésről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 3. mellékletében meghatározott, a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légtér igénybevételére a légiközlekedési hatóság – a (7) bekezdés b) pont bf) alpontjában meghatározott eset kivételével – az Lt. 22. §-a szerinti engedéllyel rendelkező szervezetnek adhat engedélyt.
+5/B. §[^33] (1) A magyar légtér légiközlekedés céljára történő kijelölésről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 3. mellékletében meghatározott, a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légtér igénybevételére a légiközlekedési hatóság – a (7) bekezdés b) pont bf) alpontjában meghatározott eset kivételével – az Lt. 22. §-a szerinti engedéllyel rendelkező szervezetnek adhat engedélyt.
 
 (2) A korlátozott légtér igénybevétele iránti kérelemnek tartalmaznia kell:
 
@@ -40,5 +40,5 @@ be) polgári célú légi felderítés és megfigyelés (például vezetékellen
 
 bf) egyéb, közérdekű célból – így különösen a diplomáciai vagy a nemzetközi jogon alapuló egyéb kiváltságot és mentességet élvező személyek hivatalos látogatása céljából – végzett repülés.
 
-[^31]: Az 5/B. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 55. § (6) bekezdése iktatta be.
-[^32]: Az 5/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 55. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^32]: Az 5/B. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 55. § (6) bekezdése iktatta be.
+[^33]: Az 5/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 55. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

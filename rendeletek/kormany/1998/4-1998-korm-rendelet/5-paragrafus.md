@@ -1,6 +1,6 @@
-## Az eseti légtér igénylése[^27]
+## Az eseti légtér igénylése[^28]
 
-5. §[^28] (1) Az eseti légtér kijelölésére vonatkozó kérelemnek tartalmaznia kell:
+5. §[^29] (1) Az eseti légtér kijelölésére vonatkozó kérelemnek tartalmaznia kell:
 
 a) a légtér oldalhatárait WGS-84 rendszerű földrajzi koordináták szerint,
 
@@ -44,5 +44,5 @@ a kérelemhez a kérelmezőnek mellékelnie kell az illetékes légiforgalmi szo
 
 (9) Ha az eseti légtér kijelölése az 1. § (3a) bekezdés d) pontjában meghatározott esetben történik, a katonai légügyi hatóság 1500 láb AMSL magasságtól lefelé az eseti légtér felső határát 100 láb (30 m) többszöröseként megadott AMSL magassággal is kijelölheti.
 
-[^27]: Az 5. §-t megelőző alcímet a 177/2011. (IX. 1.) Korm. rendelet 13. §-a hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 55. § (4) bekezdése iktatta be.
-[^28]: Az 5. §-t a 177/2011. (IX. 1.) Korm. rendelet 13. §-a hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 55. § (4) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^28]: Az 5. §-t megelőző alcímet a 177/2011. (IX. 1.) Korm. rendelet 13. §-a hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 55. § (4) bekezdése iktatta be.
+[^29]: Az 5. §-t a 177/2011. (IX. 1.) Korm. rendelet 13. §-a hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 55. § (4) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
