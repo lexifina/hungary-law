@@ -1,3 +1,3 @@
-## 20/L. §[^80] A vizsgáló, a vizsgálatvezető, az egészségügyi szolgáltató, illetve a megbízó közötti, a beavatkozással nem járó vizsgálatra irányuló szerződés az engedélyezési eljárás előtt is megköthető, azonban hatályának feltétele a vizsgálat engedélyezése.
+## 20/K–20/L. §[^68]
 
-[^80]: A 20/L. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 15/2012. (VIII. 22.) EMMI rendelet 20. §-ával megállapított szöveg.
+[^68]: A 20/K–20/L. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 10. § d)–e) pontja.

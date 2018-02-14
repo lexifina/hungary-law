@@ -1,8 +1,8 @@
-## 20/A. §[^47] Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 1. §-ának 8. pontja szerinti beavatkozással nem járó vizsgálatok és az emberen végzett orvostudományi kutatások engedélyezésének szabályairól szóló jogszabályban meghatározott beavatkozással nem járó orvostudományi kutatás esetében (a továbbiakban együtt: beavatkozással nem járó vizsgálat) a 20/B–20/S. §-ban foglaltak szerint kell eljárni.
+## 20/A. §[^44] Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 1. §-ának 8. pontja szerinti beavatkozással nem járó vizsgálatok és az emberen végzett orvostudományi kutatások engedélyezésének szabályairól szóló jogszabályban meghatározott beavatkozással nem járó orvostudományi kutatás esetében (a továbbiakban együtt: beavatkozással nem járó vizsgálat) a 20/B–20/S. §-ban foglaltak szerint kell eljárni.
 
-## 20/B. §[^48] Ezen alcím alkalmazásában:
+## 20/B. §[^45] Ezen alcím alkalmazásában:
 
-a)[^49] megbízó (sponsor): bármely természetes vagy jogi személy, aki vagy amely a beavatkozással nem járó vizsgálatot kezdeményezi, vezeti, illetve finanszírozza. A vizsgáló és a megbízó lehet ugyanaz a személy is;
+a)[^46] megbízó (sponsor): bármely természetes vagy jogi személy, aki vagy amely a beavatkozással nem járó vizsgálatot kezdeményezi, vezeti, illetve finanszírozza. A vizsgáló és a megbízó lehet ugyanaz a személy is;
 
 b) vizsgálati alany (subject): a beavatkozással nem járó vizsgálatban részt vevő olyan személy, akin vagy akinek az adataival a vizsgálatot folytatják, illetve aki a vizsgálatban kontrollszemélyként vesz részt;
 
@@ -22,12 +22,12 @@ fc) a vizsgálatból származó adatok az fa) pont szerinti megbízó tulajdoná
 
 fd) a vizsgálat eredményeit az fa) pont szerinti megbízó közli;
 
-g)[^50] koordináló vizsgálatvezető: többközpontú vizsgálat esetén a vizsgálat egészéért felelős vezető.
+g)[^47] koordináló vizsgálatvezető: többközpontú vizsgálat esetén a vizsgálat egészéért felelős vezető.
 
-h)[^51]
+h)[^48]
 
-[^47]: A 20/A. §-t és az előtte lévő alcímet az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 31/2009. (X. 20.) EüM rendelet 6. § (1) bekezdés g) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
-[^48]: A 20/B. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^49]: A 20/B. § a) pontja a 16/2014. (III. 12.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
-[^50]: A 20/B. § g) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés n) pontja hatályon kívül helyezte, újonnan az 52/2012. (XII. 27.) EMMI rendelet 1. §-a iktatta be.
-[^51]: A 20/B. § h) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés n) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) Korm. rendeletben foglaltakat kell alkalmazni.
+[^44]: A 20/A. §-t és az előtte lévő alcímet az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 31/2009. (X. 20.) EüM rendelet 6. § (1) bekezdés g) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^45]: A 20/B. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^46]: A 20/B. § a) pontja a 16/2014. (III. 12.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
+[^47]: A 20/B. § g) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés n) pontja hatályon kívül helyezte, újonnan az 52/2012. (XII. 27.) EMMI rendelet 1. §-a iktatta be.
+[^48]: A 20/B. § h) pontját a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés n) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) Korm. rendeletben foglaltakat kell alkalmazni.
