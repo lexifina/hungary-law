@@ -1,4 +1,4 @@
-## 24–26. §[^1]
+## 24–26. §[^6]
 
 1. melléklet a 16/2017. (VIII. 7.) EMMI rendelethez
 
@@ -184,4 +184,4 @@
 
 9.8. Robbanásveszélyes gáz használatakor különös gondot kell fordítani a gáztéren belül valamennyi elektromos berendezés és hálózat áramtalanítására és a statikus feltöltődés kiküszöbölésére is, melynek érdekében a gáztérben dolgozók csak szegelés és vasalás nélküli bőrtalpú lábbelit viselhetnek, és nem hordhatnak műszálból készült vagy műszálat tartalmazó ruházatot, nem használhatnak kézi világítóeszközt és fém szerszámot.
 
-[^1]: A 24–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 24–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

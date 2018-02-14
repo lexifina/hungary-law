@@ -16,14 +16,15 @@ ae) etilén-oxid gáz felhasználása (a gázpatronos asztali sterilizátorok ü
 
 b) szakképzett személy által végezhető, az a) pont ab) alpontja szerinti, továbbá az a) pont aa), ac)–ae) alpontjában foglaltakon kívüli, egészségügyi kártevők foglalkozásszerű irtására irányuló egyéb egészségügyi kártevőirtási tevékenység.
 
-(2) Az egészségügyi kártevőirtó tevékenység végzésére jogosító engedélyt (a továbbiakban: engedély) a szolgáltató lakóhelye, illetve székhelye szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) adja ki.
-
-(3) Az egészségügyi kártevőirtó tevékenységet végző személy szakképzettségétől függően engedély az (1) bekezdésében foglalt valamely résztevékenységre is adható.
-
-(4) Az (1) bekezdés szerinti valamennyi tevékenységre jogosító engedély csak abban az esetben adható ki, ha a szolgáltatónál valamennyi résztevékenység végzésére jogosult foglalkoztatott személy alkalmazása biztosított.
+(2)–(4)[^1]
 
 (5) A szolgáltató nevében a foglalkoztatott személy csak a szakképesítésének megfelelő tevékenységet végezheti.
 
 (6) A szolgáltató a végzettségre irányuló személyi feltételnek – részben vagy egészben – olyan, a szabad mozgás és tartózkodás jogával rendelkező foglalkoztatott személy alkalmazásával is eleget tehet, akinek szakmai gyakorlatát a feladatra kijelölt szerv vagy hatóság az egészségügyi miniszter által szabályozott, mérgező termékek felhasználását igénylő szakmai tevékenységek szakmai gyakorlaton alapuló elismeréséről szóló miniszteri rendeletben foglaltak szerint elismerte.
 
 (7) Alkalmazottat foglalkoztató szolgáltatónál az egészségügyi kártevőirtás szakirányítását csak érvényes működési nyilvántartási igazolvánnyal rendelkező gázmester végezheti, aki a felhasználásra kerülő irtószerek, gázosítószerek szállításának, tárolásának, előkészítésének, felhasználásának, veszélyes hulladék ártalmatlanításának módjára, illetve az elsősegélynyújtásra, valamint a vonatkozó tűzrendészeti előírásokra részletes munkarendet készít. Alkalmazottat foglalkoztató szolgáltatónak önálló munkavédelmi szabályzattal kell rendelkeznie, amit az alkalmazottakkal és közreműködőkkel ismertetni kell.
+
+(8)[^2] Ha az engedélyes szolgáltató tekintetében a Biocid korm.r. 21/A. § (3) bekezdésében foglalt körülmény már nem áll fenn, a szolgáltató a változás bekövetkezésétől egészségügyi kártevőirtó szolgáltatást csak a ténylegesen foglalkoztatott személyek szakmai kompetenciájának megfelelő résztevékenységek körében nyújthat, vagy – szakmai kompetenciával rendelkező foglalkoztatott személy hiányában – egészségügyi kártevőirtó szolgáltatást nem nyújthat.
+
+[^1]: A 3. § (2)–(4) bekezdését a 8/2018. (II. 13.) EMMI rendelet 84. § a) pontja hatályon kívül helyezte.
+[^2]: A 3. § (8) bekezdését a 8/2018. (II. 13.) EMMI rendelet 83. § (1) bekezdése iktatta be.
