@@ -1,4 +1,4 @@
-3. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^163]
+3. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^137]
 
 GYÓGYINTÉZETI (KÓRHÁZI) GYÓGYSZERIGÉNYLŐ LAP
 
@@ -34,4 +34,4 @@ II. Kérem az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intéz
 
 III. Kérem az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetet, hogy az igényelt gyógyszer alkalmazását a különös méltánylást érdemlő betegellátási érdek szempontjából
 
-[^163]: A 3. számú melléklet a 62/2004. (VII. 21.) ESZCSM rendelet 14. §-ának (3) bekezdésének c) pontjával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 60. § h) és i) pontja szerint módosított szöveg.
+[^137]: A 3. számú melléklet a 62/2004. (VII. 21.) ESZCSM rendelet 14. §-ának (3) bekezdésének c) pontjával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 60. § h) és i) pontja szerint módosított szöveg.

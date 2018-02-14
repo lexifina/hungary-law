@@ -1,3 +1,3 @@
-8. §[^73]
+8. §[^47]
 
-[^73]: A 8. §-t és az azt megelőző címet a 47/2005. (XI. 4.) EüM rendelet 19. § (4) bekezdése hatályon kívül helyezte.
+[^47]: A 8. §-t és az azt megelőző címet a 47/2005. (XI. 4.) EüM rendelet 19. § (4) bekezdése hatályon kívül helyezte.
