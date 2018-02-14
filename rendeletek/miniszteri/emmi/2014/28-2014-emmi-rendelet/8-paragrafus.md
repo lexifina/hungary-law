@@ -1,9 +1,13 @@
 8. § (1) Az ETT HRB ellátja az orvostudományi kutatásokról szóló jogszabály szerint meghatározott kutatások szakmai-etikai véleményezését.
 
-(2) Az egészségügyi szolgáltató működési engedélyének kiadására illetékes egészségügyi államigazgatási szerv megkeresésére az ETT HRB előzetesen véleményt nyilvánít az egészségügyi szolgáltató működési engedélye megadásához, ha a szolgáltató reprodukciós eljárások végzését, ivarsejtek, őssejtek és embriók fagyasztva tárolását kívánja végezni. A bizottság az előzetes véleményében nyilatkozik arról, hogy az egészségügyi szolgáltató által végezni kívánt tevékenységhez rendelkezik-e a megfelelő személyi, tárgyi és szakmai feltételekkel.
+(2)[^2]
 
 (3) Az ETT HRB évente értékeli és elemzi a reprodukciós tevékenység végzésére vonatkozó adatokat és jelentéseket.
 
-(4) Az egészségügyi államigazgatási szerv felkérése alapján az ETT HRB szakértőként részt vesz a reprodukciós eljárások végzésére, illetve az ivarsejtek, őssejtek és embriók fagyasztva tárolására működési engedéllyel rendelkező egészségügyi szolgáltatók ellenőrzésében. Az ETT HRB elnöke által kijelölt bizottsági tag a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szakértőre vonatkozó rendelkezései szerint működik közre az ellenőrzésben. Ha az ellenőrzés során szakértői vélemény adása válik szükségessé, azt az ETT HRB testületként adja.
+(4)[^3] Ha az egészségügyi szolgáltatók ellenőrzése során az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendelet szerint az ETT HRB-t szakértőként rendelik ki, az ETT HRB a szakvéleményt testületként adja meg.
 
-(5) Ha feladatkörében az ETT HRB tudomására jut, hogy az egészségügyi szolgáltató nem rendelkezik a működési engedélyének megfelelő személyi és tárgyi feltételekkel, vagy a szakmai szabályoknak nem megfelelően működik, az ETT HRB kezdeményezi az egészségügyi államigazgatási szerv helyszíni ellenőrzését.
+(5)[^4]
+
+[^2]: A 8. § (2) bekezdését a 8/2018. (II. 13.) EMMI rendelet 77. §-a hatályon kívül helyezte.
+[^3]: A 8. § (4) bekezdése a 8/2018. (II. 13.) EMMI rendelet 76. §-ával megállapított szöveg.
+[^4]: A 8. § (5) bekezdését a 8/2018. (II. 13.) EMMI rendelet 77. §-a hatályon kívül helyezte.

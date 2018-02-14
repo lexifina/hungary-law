@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-28-20-5
 | 2014-11-01 | 2014-28-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-11-02 | 2014-28-20-5H.4 | 2010: CXXX. törvény |
 | 2017-01-05 | 2014-28-20-5H.5 | 44/2016. (XII. 28.) EMMI rendelet |
+| 2018-02-14 | 2014-28-20-5H.6 | 8/2018. (II. 13.) EMMI rendelet |
