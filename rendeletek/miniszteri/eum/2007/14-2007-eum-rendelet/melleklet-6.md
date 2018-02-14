@@ -1,6 +1,6 @@
 ## Az orvostechnikai eszközökről szóló miniszteri rendelet (R.) 4. § (1) bekezdés 2. pontjában meghatározott, 13. § (8) bekezdése és 8. melléklete szerint egyedi méretvétel alapján készített gyógyászati segédeszközök (rendelésre készült orvostechnikai eszköz) társadalombiztosítási támogatásba történő befogadásához szükséges kérelem adattartalma
 
-## 1. A Gtv. 32. § (2) bekezdése szerint a kérelem típusának megjelölése [még be nem fogadott gyógyászati segédeszköz támogatásának megállapítására, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának csökkentésére (ez esetben a kérelem 5-9. pontját nem kell kitölteni)]
+## 1. A Gyftv. 32. § (2) bekezdése szerint a kérelem típusának megjelölése [még be nem fogadott gyógyászati segédeszköz támogatásának megállapítására, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának csökkentésére (ez esetben a kérelem 5-9. pontját nem kell kitölteni)]
 
 ## 2. A kérelem azonosító alapadatai
 
@@ -120,7 +120,7 @@
 
 ## 10.13. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^242]
+6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^148]
 
 A járóbeteg gyógyászati segédeszköz költségvetési keretből a NEAK nem támogatja:
 
@@ -148,4 +148,4 @@ A járóbeteg gyógyászati segédeszköz költségvetési keretből a NEAK nem 
 
 12. a kizárólag kozmetikai célt szolgáló gyógyászati segédeszközöket.
 
-[^242]: A 6. számú melléklet a 7/2016. (III. 30.) EMMI rendelet 15. § (6) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^148]: A 6. számú melléklet a 7/2016. (III. 30.) EMMI rendelet 15. § (6) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.

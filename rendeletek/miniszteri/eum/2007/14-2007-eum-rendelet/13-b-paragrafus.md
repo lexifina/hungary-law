@@ -1,4 +1,4 @@
-13/B. §[^190] (1) Amennyiben a 10. számú mellékletben foglaltak szerint kötszer támogatással történő rendelésének feltétele a kezelés egészségbiztosító általi ellenjegyzése, a 13/A. §-ban foglaltakat a (2)–(11) bekezdés szerinti eltérésekkel kell alkalmazni.
+13/B. §[^96] (1) Amennyiben a 10. számú mellékletben foglaltak szerint kötszer támogatással történő rendelésének feltétele a kezelés egészségbiztosító általi ellenjegyzése, a 13/A. §-ban foglaltakat a (2)–(11) bekezdés szerinti eltérésekkel kell alkalmazni.
 
 (2) A beteg kezelőorvosa az ellenjegyzést – a 13/A. § (2) bekezdésében foglaltak helyett –
 
@@ -18,9 +18,9 @@ c) a korábbi kezelések leírását, a kezelésekkel elért eredmények bemutat
 
 d) a további terápiás terv leírását, ezen belül a kötszer típusát, várhatóan szükséges mennyiségét, a kötéscsere gyakoriságát, a kezelés további várható időtartamát.
 
-(4)[^191] Amennyiben az ellenjegyzésre benyújtott dokumentáció nem vagy hiányosan tartalmazza a (2) és (3) bekezdésben foglaltakat, és a rendelkezésre álló adatok alapján nem állapítható meg a (7) bekezdésben foglalt feltételek fennállása, a NEAK 8 napos határidővel hiánypótlásra szólítja fel a kötszert rendelő orvost. Amennyiben nem történik meg a megadott határidőn belül a hiánypótlás, az ellenjegyzést el kell utasítani.
+(4)[^97] Amennyiben az ellenjegyzésre benyújtott dokumentáció nem vagy hiányosan tartalmazza a (2) és (3) bekezdésben foglaltakat, és a rendelkezésre álló adatok alapján nem állapítható meg a (7) bekezdésben foglalt feltételek fennállása, a NEAK 8 napos határidővel hiánypótlásra szólítja fel a kötszert rendelő orvost. Amennyiben nem történik meg a megadott határidőn belül a hiánypótlás, az ellenjegyzést el kell utasítani.
 
-(5)[^192] A NEAK a (2) bekezdésben meghatározott dokumentumok kézhezvételétől számított 15 napon belül dönt az ellenjegyzésről, azzal, hogy az eljárási határidőbe nem számít be a (4) bekezdés szerinti időtartam.
+(5)[^98] A NEAK a (2) bekezdésben meghatározott dokumentumok kézhezvételétől számított 15 napon belül dönt az ellenjegyzésről, azzal, hogy az eljárási határidőbe nem számít be a (4) bekezdés szerinti időtartam.
 
 (6) Az ellenjegyzés megadását vagy elutasítását a benyújtott kórtörténeti összefoglalón kell feltüntetni a döntést hozó ellenőrző főorvos aláírásával, bélyegzőlenyomatával és dátummal ellátva.
 
@@ -34,7 +34,7 @@ c) a beteg jogosult a rendelt kötszerhez nyújtott társadalombiztosítási tá
 
 d) a kötszer rendelése a hatályos jogszabályokban előírt feltételeknek megfelelően történt.
 
-(8)[^193] Amennyiben a (2) és (3) bekezdés szerinti dokumentumok alapján, illetve a rendelkezésre álló adatok alapján a további kötszerrendelés szakmai indokoltsága és a kötszer jövőbeni várható hasznosulása nem állapítható meg egyértelműen, a NEAK erre vonatkozóan kiegészítő szakorvosi véleményt, illetve a szakterület szakfelügyelőjétől véleményt kérhet, továbbá szükség esetén – az Ebtv. 38/B. §-ában foglaltaknak megfelelően – helyszíni ellenőrzést tarthat.
+(8)[^99] Amennyiben a (2) és (3) bekezdés szerinti dokumentumok alapján, illetve a rendelkezésre álló adatok alapján a további kötszerrendelés szakmai indokoltsága és a kötszer jövőbeni várható hasznosulása nem állapítható meg egyértelműen, a NEAK erre vonatkozóan kiegészítő szakorvosi véleményt, illetve a szakterület szakfelügyelőjétől véleményt kérhet, továbbá szükség esetén – az Ebtv. 38/B. §-ában foglaltaknak megfelelően – helyszíni ellenőrzést tarthat.
 
 (9) Amennyiben az ellenjegyzés megadására kerül sor, a (6) bekezdésben foglaltak szerint ellenjegyzett kórtörténeti összefoglalót a kezelőorvos részére kell az ellenjegyzést követő munkanapon megküldeni, egyidejűleg a beteget tájékoztatni kell az ellenjegyzés megadásáról.
 
@@ -50,7 +50,7 @@ azt indokolttá teszi.
 
 (11) Amennyiben az ellenjegyzés elutasítására kerül sor, az elutasítást követő 5 napon belül írásbeli indokolással együtt tájékoztatni kell a beteget és a beteg kezelőorvosát. A tájékoztatásnak tartalmaznia kell a 13/A. § (10) bekezdése szerinti jogorvoslati lehetőség ismertetését.
 
-[^190]: A 13/B. §-t a 74/2011. (XII. 29.) NEFMI rendelet 2. §-a iktatta be.
-[^191]: A 13/B. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.
-[^192]: A 13/B. § (5) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés i) pontja szerint módosított szöveg.
-[^193]: A 13/B. § (8) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^96]: A 13/B. §-t a 74/2011. (XII. 29.) NEFMI rendelet 2. §-a iktatta be.
+[^97]: A 13/B. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^98]: A 13/B. § (5) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^99]: A 13/B. § (8) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja szerint módosított szöveg.

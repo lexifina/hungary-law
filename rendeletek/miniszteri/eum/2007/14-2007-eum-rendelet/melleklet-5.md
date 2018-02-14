@@ -1,6 +1,6 @@
 ## A gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló miniszteri rendelet szerint kölcsönzött eszközök társadalombiztosítási támogatással történő kölcsönzésének igényléséhez szükséges kérelem adattartalma
 
-## 1. A Gtv. 32. § (2) bekezdése szerint a kérelem típusának megjelölése (már befogadott gyógyászati segédeszköz kölcsönzési napidíjának emelésére azon termék esetében, amely kizárólag kölcsönzés keretében szolgálható ki, még be nem fogadott gyógyászati segédeszköz kölcsönzési napidíj támogatásának megállapítására azon termék esetében, amely kizárólag kölcsönzés keretében szolgálható ki, már befogadott gyógyászati segédeszköz névváltoztatására, már befogadott gyógyászati segédeszköz méretváltoztatására)
+## 1. A Gyftv. 32. § (2) bekezdése szerint a kérelem típusának megjelölése (már befogadott gyógyászati segédeszköz kölcsönzési napidíjának emelésére azon termék esetében, amely kizárólag kölcsönzés keretében szolgálható ki, még be nem fogadott gyógyászati segédeszköz kölcsönzési napidíj támogatásának megállapítására azon termék esetében, amely kizárólag kölcsönzés keretében szolgálható ki, már befogadott gyógyászati segédeszköz névváltoztatására, már befogadott gyógyászati segédeszköz méretváltoztatására)
 
 ## 2. A kérelem azonosító alapadatai
 
@@ -182,6 +182,6 @@
 
 ## 11.12. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^241]
+5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^147]
 
-[^241]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése szerint módosított szöveg.
+[^147]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.

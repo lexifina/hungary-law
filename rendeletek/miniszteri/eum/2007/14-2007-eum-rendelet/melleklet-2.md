@@ -1,6 +1,6 @@
 ## Az orvostechnikai eszközökről szóló miniszteri rendelet (R.) szerint forgalmazott eszközök társadalombiztosítási támogatásba történő befogadásához szükséges kérelem adattartalma
 
-## 1. A Gtv. 32. § (2) bekezdése szerint a kérelem típusának megjelölése [még be nem fogadott gyógyászati segédeszköz támogatásának megállapítására, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére, már befogadott gyógyászati segédeszköz nevének megváltoztatására, már befogadott gyógyászati segédeszköz más funkcionális csoportban (alcsoportban) történő támogatására, már befogadott gyógyászati segédeszköz méretváltoztatására vagy új méretváltozata ártámogatásának megállapítására]
+## 1. A Gyftv. 32. § (2) bekezdése szerint a kérelem típusának megjelölése [még be nem fogadott gyógyászati segédeszköz támogatásának megállapítására, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére, már befogadott gyógyászati segédeszköz nevének megváltoztatására, már befogadott gyógyászati segédeszköz más funkcionális csoportban (alcsoportban) történő támogatására, már befogadott gyógyászati segédeszköz méretváltoztatására vagy új méretváltozata ártámogatásának megállapítására]
 
 ## 2. A kérelem azonosító alapadatai
 
@@ -170,6 +170,6 @@
 
 ## 11.13. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-2. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^238]
+2. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^144]
 
-[^238]: A 2. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^144]: A 2. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés e) pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.

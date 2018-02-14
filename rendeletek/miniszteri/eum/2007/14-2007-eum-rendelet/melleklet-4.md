@@ -2,7 +2,7 @@
 
 ## Nem tölthető ki orvostechnikai eszközökre, humán és állati eredetű transzplantátumokra, szövetekre vagy sejtekre; egyéb, a külön jogszabály szerint gyógyszernek minősülő termékre (ideértve a humán vérszármazékból készült gyógyszereket is), a munkavédelemről szóló törvény hatálya alá tartozó egyéni védőeszközökre; valamint kozmetikai termékekre.
 
-## 1. A Gtv. 32. § (2) bekezdése szerint a kérelem típusának megjelölése [még be nem fogadott gyógyászati segédeszköz támogatásának megállapítására, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére, már befogadott gyógyászati segédeszköz nevének megváltoztatására, már befogadott gyógyászati segédeszköz más funkcionális csoportban (alcsoportban) történő támogatására, már befogadott gyógyászati segédeszköz méretváltoztatására vagy új méretváltozata ártámogatásának megállapítására]
+## 1. A Gyftv. 32. § (2) bekezdése szerint a kérelem típusának megjelölése [még be nem fogadott gyógyászati segédeszköz támogatásának megállapítására, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére, már befogadott gyógyászati segédeszköz nevének megváltoztatására, már befogadott gyógyászati segédeszköz más funkcionális csoportban (alcsoportban) történő támogatására, már befogadott gyógyászati segédeszköz méretváltoztatására vagy új méretváltozata ártámogatásának megállapítására]
 
 ## 2. A kérelem azonosító alapadatai
 
@@ -158,6 +158,6 @@
 
 ## 11.11. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-4. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^240]
+4. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^146]
 
-[^240]: A 4. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (4) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 58. § (2) bekezdése, a 7/2016. (III. 30.) EMMI rendelet 15. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^146]: A 4. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (4) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 58. § (2) bekezdése, a 7/2016. (III. 30.) EMMI rendelet 15. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés c) pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.

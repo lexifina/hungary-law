@@ -1,4 +1,4 @@
-18. §[^215] (1) A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet módosításáról szóló 20/2010. (XII. 28.) NEFMI rendelet (a továbbiakban: R. Mód.)
+18. §[^121] (1) A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet módosításáról szóló 20/2010. (XII. 28.) NEFMI rendelet (a továbbiakban: R. Mód.)
 
 a) 1. mellékletével módosított 10. számú mellékletben és
 
@@ -8,15 +8,15 @@ foglaltakat 2011. február 1-jétől kell alkalmazni. Az R. Mód. hatálybalép�
 
 (2) Az R. Mód 3. §-ával módosított 10/F. § (4) bekezdésében foglaltakat azon gyógyászati segédeszközök esetében kell alkalmazni, amelyek támogatással történő rendelhetősége 2011. január 1-jét követően szűnt meg.
 
-(3)[^216] A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet módosításáról szóló 74/2011. (XII. 29.) NEFMI rendelettel (a továbbiakban: Módr2.) megállapított 13/A. §-t a Módr2. hatálybalépését követően ellenjegyzésre benyújtott vényekre kell alkalmazni.
+(3)[^122] A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet módosításáról szóló 74/2011. (XII. 29.) NEFMI rendelettel (a továbbiakban: Módr2.) megállapított 13/A. §-t a Módr2. hatálybalépését követően ellenjegyzésre benyújtott vényekre kell alkalmazni.
 
-(4)[^217] A Módr2. által megállapított 13/B. §-t abban az esetben, ha a kötszeres terápia a Módr2. hatálybalépésekor már megkezdődött, a kötszeres terápia megkezdésétől számított 5. hónap végétől kell alkalmazni, amennyiben az 5. hónap a Módr2. által megállapított 13/B. § hatálybalépését követően ér véget. Abban az esetben, ha a Módr2. által megállapított 13/B. § hatálybalépésekor már megkezdett kötszeres terápiából a Módr2. által megállapított 13/B. § hatálybalépését követően 30 napnál kevesebb van hátra és a kötszeres terápia folytatása szükséges, a már megkezdett kötszeres terápia a 13/B. § szerinti eljárás lefolytatásáig, de legfeljebb a Módr2. által megállapított 13/B. § hatálybalépését követő 30. napig folytatható.
+(4)[^123] A Módr2. által megállapított 13/B. §-t abban az esetben, ha a kötszeres terápia a Módr2. hatálybalépésekor már megkezdődött, a kötszeres terápia megkezdésétől számított 5. hónap végétől kell alkalmazni, amennyiben az 5. hónap a Módr2. által megállapított 13/B. § hatálybalépését követően ér véget. Abban az esetben, ha a Módr2. által megállapított 13/B. § hatálybalépésekor már megkezdett kötszeres terápiából a Módr2. által megállapított 13/B. § hatálybalépését követően 30 napnál kevesebb van hátra és a kötszeres terápia folytatása szükséges, a már megkezdett kötszeres terápia a 13/B. § szerinti eljárás lefolytatásáig, de legfeljebb a Módr2. által megállapított 13/B. § hatálybalépését követő 30. napig folytatható.
 
-(5)[^218] Amennyiben a NEAK főigazgatója a Módr2. által megállapított 13/A. és 13/B. § szerinti eljárás lefolytatására külön szervezeti egységeket jelöl ki, egyidejűleg a NEAK honlapján tájékoztatásul közzé kell tenni a kijelölt szervezeti egységek nevét és elérhetőségét. A kijelölésről szóló tájékoztató közzétételétől az ellenjegyzés iránti eljárás a kijelölt szervezeti egységnél kezdeményezhető. Amennyiben az ellenjegyzéshez kötött eszközt rendelő orvos nem a beteg lakóhelye, illetve tartózkodási helye szerint illetékes kijelölt szervezeti egységnél kezdeményezte az ellenjegyzést, az ügyet a benyújtott iratokkal együtt 5 napon belül át kell tenni az illetékes szervezeti egységhez.
+(5)[^124] Amennyiben a NEAK főigazgatója a Módr2. által megállapított 13/A. és 13/B. § szerinti eljárás lefolytatására külön szervezeti egységeket jelöl ki, egyidejűleg a NEAK honlapján tájékoztatásul közzé kell tenni a kijelölt szervezeti egységek nevét és elérhetőségét. A kijelölésről szóló tájékoztató közzétételétől az ellenjegyzés iránti eljárás a kijelölt szervezeti egységnél kezdeményezhető. Amennyiben az ellenjegyzéshez kötött eszközt rendelő orvos nem a beteg lakóhelye, illetve tartózkodási helye szerint illetékes kijelölt szervezeti egységnél kezdeményezte az ellenjegyzést, az ügyet a benyújtott iratokkal együtt 5 napon belül át kell tenni az illetékes szervezeti egységhez.
 
-(6)[^219] A Módr2. által megállapított 10. számú mellékletet – a 2. sorának kivételével – és a Módr2. által megállapított 18. mellékletet 2012. február 1-jétől kell alkalmazni. A Módr2. által megállapított 10. számú melléklet 2. sorát 2012. január 1-jétől kell alkalmazni.
+(6)[^125] A Módr2. által megállapított 10. számú mellékletet – a 2. sorának kivételével – és a Módr2. által megállapított 18. mellékletet 2012. február 1-jétől kell alkalmazni. A Módr2. által megállapított 10. számú melléklet 2. sorát 2012. január 1-jétől kell alkalmazni.
 
-(7)[^220] A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet, valamint a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló 7/2004. (XI. 23.) EüM rendelet módosításáról szóló 31/2012. (X. 8.) EMMI rendelet (a továbbiakban: Módr3.)
+(7)[^126] A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet, valamint a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló 7/2004. (XI. 23.) EüM rendelet módosításáról szóló 31/2012. (X. 8.) EMMI rendelet (a továbbiakban: Módr3.)
 
 a) 1. mellékletével módosított 10. számú mellékletben foglaltakat – a (8) bekezdésben megállapított kivétellel –, és
 
@@ -24,18 +24,18 @@ b) 2. mellékletével módosított 18. számú mellékletben foglaltakat
 
 2012. november 1-jétől kell alkalmazni. A Módr3. hatálybalépését megelőző napon hatályos 10. számú mellékletben foglaltakat – a (8) bekezdésben meghatározott kivétellel – és a Módr3. hatálybalépését megelőző napon hatályos 18. számú mellékletben foglaltakat 2012. október 31-éig kell alkalmazni.
 
-(8)[^221] A 10. számú mellékletben foglalt táblázatnak a Módr3. 1. mellékletével módosított 487. és 867–881. sorában foglaltakat 2013. január 1-jétől kell alkalmazni. A 10. számú mellékletben foglalt táblázatnak a Módr3. hatálybalépését megelőző napon hatályos 487. és 867–881. sorát 2012. december 31-éig kell alkalmazni.
+(8)[^127] A 10. számú mellékletben foglalt táblázatnak a Módr3. 1. mellékletével módosított 487. és 867–881. sorában foglaltakat 2013. január 1-jétől kell alkalmazni. A 10. számú mellékletben foglalt táblázatnak a Módr3. hatálybalépését megelőző napon hatályos 487. és 867–881. sorát 2012. december 31-éig kell alkalmazni.
 
-(9)[^222]
+(9)[^128]
 
-(10)[^223]
+(10)[^129]
 
-[^215]: A 18. §-t a 34/2010. (V. 14.) EüM rendelet 11. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 14. § (2) bekezdése, újonnan a 20/2010. (XII. 28.) NEFMI rendelet 7. §-a iktatta be.
-[^216]: A 18. § (3) bekezdését a 74/2011. (XII. 29.) NEFMI rendelet 3. §-a iktatta be.
-[^217]: A 18. § (4) bekezdését a 74/2011. (XII. 29.) NEFMI rendelet 3. §-a iktatta be.
-[^218]: A 18. § (5) bekezdését a 74/2011. (XII. 29.) NEFMI rendelet 3. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^219]: A 18. § (6) bekezdését a 74/2011. (XII. 29.) NEFMI rendelet 3. §-a iktatta be.
-[^220]: A 18. § (7) bekezdését a 31/2012. (X. 8.) EMMI rendelet 8. §-a iktatta be.
-[^221]: A 18. § (8) bekezdését a 31/2012. (X. 8.) EMMI rendelet 8. §-a iktatta be, szövege a 35/2012. (X. 31.) EMMI rendelet 4. §-a szerint módosított szöveg.
-[^222]: A 18. § (9) bekezdését a 31/2012. (X. 8.) EMMI rendelet 8. §-a iktatta be, hatályon kívül helyezte az 54/2016. (XII. 30.) EMMI rendelet 53. § (2) bekezdés b) pontja.
-[^223]: A 18. § (10) bekezdését a 31/2012. (X. 8.) EMMI rendelet 8. §-a iktatta be, hatályon kívül helyezte az 54/2016. (XII. 30.) EMMI rendelet 53. § (2) bekezdés b) pontja.
+[^121]: A 18. §-t a 34/2010. (V. 14.) EüM rendelet 11. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 14. § (2) bekezdése, újonnan a 20/2010. (XII. 28.) NEFMI rendelet 7. §-a iktatta be.
+[^122]: A 18. § (3) bekezdését a 74/2011. (XII. 29.) NEFMI rendelet 3. §-a iktatta be.
+[^123]: A 18. § (4) bekezdését a 74/2011. (XII. 29.) NEFMI rendelet 3. §-a iktatta be.
+[^124]: A 18. § (5) bekezdését a 74/2011. (XII. 29.) NEFMI rendelet 3. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^125]: A 18. § (6) bekezdését a 74/2011. (XII. 29.) NEFMI rendelet 3. §-a iktatta be.
+[^126]: A 18. § (7) bekezdését a 31/2012. (X. 8.) EMMI rendelet 8. §-a iktatta be.
+[^127]: A 18. § (8) bekezdését a 31/2012. (X. 8.) EMMI rendelet 8. §-a iktatta be, szövege a 35/2012. (X. 31.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^128]: A 18. § (9) bekezdését a 31/2012. (X. 8.) EMMI rendelet 8. §-a iktatta be, hatályon kívül helyezte az 54/2016. (XII. 30.) EMMI rendelet 53. § (2) bekezdés b) pontja.
+[^129]: A 18. § (10) bekezdését a 31/2012. (X. 8.) EMMI rendelet 8. §-a iktatta be, hatályon kívül helyezte az 54/2016. (XII. 30.) EMMI rendelet 53. § (2) bekezdés b) pontja.

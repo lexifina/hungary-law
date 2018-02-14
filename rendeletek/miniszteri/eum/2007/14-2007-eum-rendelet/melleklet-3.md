@@ -1,6 +1,6 @@
 ## Az IVD-rendelet szerinti önellenőrzésre szolgáló in vitro diagnosztikai orvostechnikai eszközök gyógyászati segédeszközként társadalombiztosítási támogatásba történő befogadásához szükséges kérelem adattartalma
 
-## 1. A Gtv. 32. § (2) bekezdése szerint a kérelem típusának megjelölése [még be nem fogadott gyógyászati segédeszköz támogatásának megállapítására, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére, már befogadott gyógyászati segédeszköz nevének megváltoztatására, már befogadott gyógyászati segédeszköz más funkcionális csoportban (alcsoportban) történő támogatására, már befogadott gyógyászati segédeszköz méretváltoztatására vagy új méretváltozata ártámogatásának megállapítására]
+## 1. A Gyftv. 32. § (2) bekezdése szerint a kérelem típusának megjelölése [még be nem fogadott gyógyászati segédeszköz támogatásának megállapítására, már befogadott gyógyászati segédeszköz közfinanszírozás alapjául szolgáló árának emelésére, már befogadott gyógyászati segédeszköz nevének megváltoztatására, már befogadott gyógyászati segédeszköz más funkcionális csoportban (alcsoportban) történő támogatására, már befogadott gyógyászati segédeszköz méretváltoztatására vagy új méretváltozata ártámogatásának megállapítására]
 
 ## 2. A kérelem azonosító alapadatai
 
@@ -156,6 +156,6 @@
 
 ## 11.13. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^239]
+3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^145]
 
-[^239]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^145]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (3) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.

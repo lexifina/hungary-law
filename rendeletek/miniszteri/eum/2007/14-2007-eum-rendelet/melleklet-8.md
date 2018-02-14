@@ -244,6 +244,6 @@
 
 | 8. | 21 45 30 | Hallásjavító készülékek tartozékai és a hallásjavítás egyéb eszközei |
 
-8. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^244]
+8. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^150]
 
-[^244]: A 8. számú melléklet a 8/2008. (III. 4.) EüM rendelet 13. §-a, és a 74/2011. (XII. 29.) NEFMI rendelet 4. § (1) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (7) bekezdése szerint módosított szöveg.
+[^150]: A 8. számú melléklet a 8/2008. (III. 4.) EüM rendelet 13. §-a, és a 74/2011. (XII. 29.) NEFMI rendelet 4. § (1) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (7) bekezdése szerint módosított szöveg.
