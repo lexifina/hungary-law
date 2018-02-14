@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-52-20-0
 | 2017-01-01 | 2005-52-20-0B.31 | 20/2010. (IV. 29.) EüM rendelet |
 | 2017-04-01 | 2005-52-20-0B.32 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2017-08-11 | 2005-52-20-0B.33 | 11/2017. (VI. 12.) EMMI rendelet |
+| 2018-02-14 | 2005-52-20-0B.34 | 8/2018. (II. 13.) EMMI rendelet |

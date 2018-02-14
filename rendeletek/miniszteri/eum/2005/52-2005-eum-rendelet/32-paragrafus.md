@@ -1,8 +1,11 @@
+## 31. §[^87]
+
 ## Visszavonás
 
-32. § (1)[^117] A Gytv.-ben említetteken túl a jogosult is kérheti az OGYÉI-től a gyógyszer forgalomba hozatali engedélyének visszavonását.
+32. § (1)[^88] A Gytv.-ben említetteken túl a jogosult is kérheti az OGYÉI-től a gyógyszer forgalomba hozatali engedélyének visszavonását.
 
-(2)[^118]
+(2)[^89]
 
-[^117]: A 32. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § k) pontja szerint módosított szöveg.
-[^118]: A 32. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 23. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^87]: A „Megújítás” alcímet (31. §) a 8/2018. (II. 13.) EMMI rendelet 32. § i) pontja hatályon kívül helyezte.
+[^88]: A 32. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § k) pontja szerint módosított szöveg.
+[^89]: A 32. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 23. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.

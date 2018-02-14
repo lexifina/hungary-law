@@ -1,4 +1,4 @@
-## 3. §[^14]
+## 3. §[^20]
 
 ## A forgalomba hozatali engedély iránti kérelem
 
@@ -12,7 +12,7 @@ ab) az olyan gyógyszer, amely alkalmazásának módja, gyógyszerformája, hat�
 
 ac) az új gyógyszer-kombináció;
 
-b)[^15] új gyógyszernek minősülhet az olyan gyógyszer is, amelynek adagolása, javallata vagy gyártásának módja a már engedélyezettől eltér.
+b)[^21] új gyógyszernek minősülhet az olyan gyógyszer is, amelynek adagolása, javallata vagy gyártásának módja a már engedélyezettől eltér.
 
-[^14]: A 3. §-t a 20/2010. (IV. 29.) EüM rendelet 4. § a) pontja hatályon kívül helyezte.
-[^15]: A 4. § b) pontja a 20/2010. (IV. 29.) EüM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^20]: A 3. §-t a 20/2010. (IV. 29.) EüM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^21]: A 4. § b) pontja a 20/2010. (IV. 29.) EüM rendelet 1. § (3) bekezdésével megállapított szöveg.

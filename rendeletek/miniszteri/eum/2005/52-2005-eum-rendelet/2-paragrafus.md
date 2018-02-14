@@ -2,47 +2,27 @@
 
 2. § (1) E rendelet alkalmazásában
 
-1.[^4]
+1.[^6]
 
-2. segédanyag: a gyógyszer gyártása során a gyógyszerforma kialakításához és alkalmazásához szükséges megfelelő minőségű anyag;
+2–3.[^7]
 
-3. gyógyszerforma: a gyógyszer meghatározott alkalmazási módjának, az adagolási egységnek megfelelő kialakítása;
-
-4–7.[^5]
+4–7.[^8]
 
 8. gyógyszerekkel való visszaélés: a gyógyszer alkalomszerű vagy rendszeres, szükségtelen vagy kóros mértékben, illetve gyakoriságban való fogyasztása, amely káros fizikai vagy pszichés hatásokkal jár vagy járhat;
 
-9. tagállam: az Európai Gazdasági Térség (a továbbiakban: EGT) tagállama, illetve az Európai Közösséggel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező állam;
-
-10. Bizottság: az Európai Unió Bizottsága;
-
-11. Ügynökség: a Gytv. 1. § 24. pontja szerinti Európai Gyógyszerügynökség;
-
-12. Ügynökség bizottsága: az Ügynökség emberi felhasználásra kerülő gyógyszereket értékelő bizottsága;
+9–12.[^9]
 
 13. Állandó Bizottság: a Bizottság tanácsadó testülete, amely azt – a gyógyszerek területén – az irányelveknek a tudományos ismeretek szerinti módosítása és az áruk szabad áramlásának akadályai megszüntetésének tekintetében segíti;
 
 14. Ügynökség Koordinációs Csoportja: a 2004/27/EK irányelv által a kölcsönös elismerési eljárások és a decentralizált eljárások koordinálására létrehozott csoport;
 
-15. értékelő jelentés: a kérelmező által az 1. számú melléklet szerint benyújtott dokumentáció alapján a referencia tagállam hatósága által készített szakmai értékelés;
-
-16. referencia-tagállam: az a tagállam, amelynek a megfelelő hatáskörrel rendelkező hatósága a kölcsönös elismerési és decentralizált eljárás alapjául szolgáló értékelő jelentést vagy annak tervezetét elkészíti;
+15–16.[^10]
 
 17. orvosi rendelvény: a gyógyszer rendelésére jogosult személy által kiállított, gyógyszer kiadását elrendelő űrlap;
 
-18. hatáserősség: egy adagolási egységre, vagy térfogat- vagy tömegegységre vonatkoztatott hatóanyag-tartalom;
+18–23.[^11]
 
-19. referencia-gyógyszer: a valamely tagállam által már forgalomba hozatalra engedélyezett gyógyszer;
-
-20. generikus gyógyszer: a referencia-gyógyszerrel a hatóanyagok tekintetében azonos minőségi és mennyiségi összetételű, illetve azonos gyógyszerformájú gyógyszer, amelynek a referencia-gyógyszerrel való bioegyenértékűségét megfelelő biohasznosulási vizsgálatokkal igazolták. Valamely hatóanyag különböző sóit, észtereit, étereit, izomerjeit, izomerkeverékeit, komplexeit vagy származékait egyazon hatóanyagnak kell tekinteni, kivéve, ha tulajdonságaik jelentősen különböznek a biztonságosság, illetve hatásosság tekintetében. A generikus gyógyszerré minősülés szempontjából a különböző azonnali hatóanyagleadású orális gyógyszerformák egy és ugyanazon gyógyszerformának tekintendők;
-
-21. növényi anyag: minden egész, darabokra tört vagy vágott növény, növényi rész, feldolgozatlan formában, általában szárítva vagy frissen. Bizonyos váladékokat, melyeken nem végeztek különleges kezelést, szintén növényi anyagnak kell tekinteni. A növényi anyagok pontos meghatározását a felhasznált növényi rész és a binomiális rendszernek megfelelő növénytani elnevezés (nemzetség, faj, fajta és szerző) adja meg;
-
-22. növényi készítmény: növényi anyagokon végzett kezelések, például extrakció, desztilláció, sajtolás, frakcionálás, tisztítás, koncentrálás vagy fermentálás révén nyert készítmények. Ezek közé tartoznak a növényekből származó aprított vagy porított anyagok, tinktúrák, kivonatok, illóolajok, kisajtolt levek szuperkritikus kivonatok, olajok és feldolgozott váladékok;
-
-23. referencia növényi gyógyszer: az olyan termék, ami a kérelem alapjául szolgáló hagyományos növényi gyógyszerrel megegyező hatóanyagokat tartalmaz és a felhasznált segédanyagok nem módosítják az aktív összetevők hatását, szándékolt felhasználása is megegyezik vagy hasonló, hatáserőssége és adagolása egyenértékű, és alkalmazási módja ugyanaz vagy hasonló;
-
-24.[^6] gyógyszeranyag: eredetétől függetlenül bármely gyógyszerben előforduló anyag, amely lehet
+24.[^12] gyógyszeranyag: eredetétől függetlenül bármely gyógyszerben előforduló anyag, amely lehet
 
 a) emberi eredetű, így különösen emberi vér és vérkészítmény,
 
@@ -52,7 +32,7 @@ c) növényi eredetű anyag, így különösen mikroorganizmusok, növény, növ
 
 d) vegyi eredetű anyag, így különösen elemek, természetes körülmények között előforduló vegyi anyag és kémiai reakciókkal, illetve szintézissel előállított vegyi anyag;
 
-25.[^7] nem jelentős manipuláció: az 1394/2007/EK európai parlamenti és tanácsi rendelet I. melléklete szerinti manipulációk.
+25.[^13] nem jelentős manipuláció: az 1394/2007/EK európai parlamenti és tanácsi rendelet I. melléklete szerinti manipulációk.
 
 (2) A gyógyszer – összetétele és felhasználása alapján – az alábbi típusokba sorolható:
 
@@ -72,7 +52,7 @@ d) vegyi eredetű anyag, így különösen elemek, természetes körülmények k
 
 8. radioizotóp-prekurzor: olyan radioizotóp, amellyel más anyagokat jeleznek felhasználásuk előtt;
 
-9.[^8] orvosi gáz: normál légköri nyomás és hőmérsékleti viszonyok között légnemű halmazállapotú gyógyszerhatóanyagot és – amennyiben szükséges – segédanyagot tartalmazó készítmény a megfelelő, biztonságos (nyomásálló) tároló- és adagolószerkezettel együtt;
+9.[^14] orvosi gáz: normál légköri nyomás és hőmérsékleti viszonyok között légnemű halmazállapotú gyógyszerhatóanyagot és – amennyiben szükséges – segédanyagot tartalmazó készítmény a megfelelő, biztonságos (nyomásálló) tároló- és adagolószerkezettel együtt;
 
 10. stabil vérkészítmény: emberi vér valamely alkotóelemét tartalmazó gyógyszer, amelyet emberi vérből vagy vérplazmából iparilag állítanak elő (pl. albumin, véralvadási faktorok és immunglobulinok), ide nem értve a teljes emberi vért, a vérplazmát és a vértestek koncentrátumát;
 
@@ -86,23 +66,27 @@ b) szájon át, külsőleg, illetve belélegezve használandó,
 
 c) irodalmi adatok vagy szakértői jelentések alapján megállapítható, hogy a kérelem alapjául szolgáló termék vagy a megfelelő referencia növényi gyógyszer a kérelem időpontját megelőzően legalább 30 éves időtartamon keresztül gyógyászati használatban volt, ebből legalább 15 évig az EGT területén;
 
-13.[^9] fejlett terápiás gyógyszer: a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet 2. cikkében meghatározott készítmény;
+13.[^15] fejlett terápiás gyógyszer: a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet 2. cikkében meghatározott készítmény;
 
-14.[^10] biológiai gyógyszer: az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet mellékletének 1. pontjában meghatározott biotechnológiai gyógyszer, a 13. pont szerinti fejlett terápiás gyógyszer, az immunológiai gyógyszer, a stabil vérkészítmény, valamint az olyan egyéb gyógyszer, amelyet, vagy amely hatóanyagát mikrobiológiai kultúrák segítségével, vagy emberi, illetve állati szövetből történő extrakcióval állítanak elő, így különösen a hormonok, citokinek, enzimek és egyéb fermentációval előállított komplex fehérjetermészetű szerek;
+14.[^16] biológiai gyógyszer: az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet mellékletének 1. pontjában meghatározott biotechnológiai gyógyszer, a 13. pont szerinti fejlett terápiás gyógyszer, az immunológiai gyógyszer, a stabil vérkészítmény, valamint az olyan egyéb gyógyszer, amelyet, vagy amely hatóanyagát mikrobiológiai kultúrák segítségével, vagy emberi, illetve állati szövetből történő extrakcióval állítanak elő, így különösen a hormonok, citokinek, enzimek és egyéb fermentációval előállított komplex fehérjetermészetű szerek;
 
-15.[^11] hasonló biológiai gyógyszer: a 7. § (8) bekezdésében meghatározott módon értékelt és engedélyezett gyógyszer;
+15.[^17] hasonló biológiai gyógyszer: a 7. § (8) bekezdésében meghatározott módon értékelt és engedélyezett gyógyszer;
 
-16.[^12] génterápiás gyógyszer: a fertőző betegségek elleni oltóanyagok kivételével az olyan biológiai gyógyszerkészítmény, amelynek hatóanyaga rekombináns nukleinsavból áll vagy azt tartalmaz, és egy adott génszekvencia szabályozása, kijavítása, helyettesítése, hozzáadása vagy törlése céljából emberi szervezetben kerül felhasználásra vagy emberi szervezetbe kerül bejuttatásra, továbbá terápiás, megelőző vagy diagnosztikai hatása közvetlenül a benne található nukleinsav-szekvenciához vagy a szekvencia által kifejezett termékhez kötődik;
+16.[^18] génterápiás gyógyszer: a fertőző betegségek elleni oltóanyagok kivételével az olyan biológiai gyógyszerkészítmény, amelynek hatóanyaga rekombináns nukleinsavból áll vagy azt tartalmaz, és egy adott génszekvencia szabályozása, kijavítása, helyettesítése, hozzáadása vagy törlése céljából emberi szervezetben kerül felhasználásra vagy emberi szervezetbe kerül bejuttatásra, továbbá terápiás, megelőző vagy diagnosztikai hatása közvetlenül a benne található nukleinsav-szekvenciához vagy a szekvencia által kifejezett termékhez kötődik;
 
-17.[^13] szomatikus sejtterápiás gyógyszer: biológiai gyógyszerkészítmény, amely olyan sejtekből vagy szövetekből áll, vagy olyan sejteket vagy szöveteket tartalmaz, amelyeknek a klinikai használat szempontjából releváns biológiai sajátosságai, fiziológiai funkciói vagy szerkezeti tulajdonságai jelentős manipulálás következtében megváltoztak, vagy amelyeket a recipiensben és a donorban nem ugyanazon alapvető funkció/funkciók betöltésére szánnak, továbbá sejtjei vagy szövetei farmakológiai, immunológiai vagy metabolikus hatása révén betegség kezelésére, megelőzésére vagy diagnosztizálására alkalmas, vagy ebből a célból emberi szervezetben kerül felhasználásra vagy emberi szervezetbe kerül bejuttatásra.
+17.[^19] szomatikus sejtterápiás gyógyszer: biológiai gyógyszerkészítmény, amely olyan sejtekből vagy szövetekből áll, vagy olyan sejteket vagy szöveteket tartalmaz, amelyeknek a klinikai használat szempontjából releváns biológiai sajátosságai, fiziológiai funkciói vagy szerkezeti tulajdonságai jelentős manipulálás következtében megváltoztak, vagy amelyeket a recipiensben és a donorban nem ugyanazon alapvető funkció/funkciók betöltésére szánnak, továbbá sejtjei vagy szövetei farmakológiai, immunológiai vagy metabolikus hatása révén betegség kezelésére, megelőzésére vagy diagnosztizálására alkalmas, vagy ebből a célból emberi szervezetben kerül felhasználásra vagy emberi szervezetbe kerül bejuttatásra.
 
-[^4]: A 2. § (1) bekezdés 1. pontját az 53/2012. (XII. 28.) EMMI rendelet 24. §-a hatályon kívül helyezte.
-[^5]: A 2. § (1) bekezdés 4–7. pontját a 15/2012. (VIII. 22.) EMMI rendelet 44. § a) pontja hatályon kívül helyezte.
-[^6]: A 2. § (1) bekezdés 24. pontja az 53/2012. (XII. 28.) EMMI rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § (1) bekezdés 25. pontját a 20/2010. (IV. 29.) EüM rendelet 1. § (1) bekezdése iktatta be.
-[^8]: A 2. § (2) bekezdés 9. pontja az 53/2012. (XII. 28.) EMMI rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^9]: A 2. § (2) bekezdésének 13. pontját az 53/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése iktatta be.
-[^10]: A 2. § (2) bekezdés 14. pontját a 20/2010. (IV. 29.) EüM rendelet 1. § (2) bekezdése iktatta be.
-[^11]: A 2. § (2) bekezdés 15. pontját a 20/2010. (IV. 29.) EüM rendelet 1. § (2) bekezdése iktatta be.
-[^12]: A 2. § (2) bekezdés 16. pontját a 20/2010. (IV. 29.) EüM rendelet 1. § (2) bekezdése iktatta be.
-[^13]: A 2. § (2) bekezdés 17. pontját a 20/2010. (IV. 29.) EüM rendelet 1. § (2) bekezdése iktatta be.
+[^6]: A 2. § (1) bekezdés 1. pontját az 53/2012. (XII. 28.) EMMI rendelet 24. §-a hatályon kívül helyezte.
+[^7]: A 2. § (1) bekezdés 2–3. pontját a 8/2018. (II. 13.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
+[^8]: A 2. § (1) bekezdés 4–7. pontját a 15/2012. (VIII. 22.) EMMI rendelet 44. § a) pontja hatályon kívül helyezte.
+[^9]: A 2. § (1) bekezdés 9–12. pontját a 8/2018. (II. 13.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
+[^10]: A 2. § (1) bekezdés 15–16. pontját a 8/2018. (II. 13.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
+[^11]: A 2. § (1) bekezdés 18–23. pontját a 8/2018. (II. 13.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
+[^12]: A 2. § (1) bekezdés 24. pontja az 53/2012. (XII. 28.) EMMI rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^13]: A 2. § (1) bekezdés 25. pontját a 20/2010. (IV. 29.) EüM rendelet 1. § (1) bekezdése iktatta be.
+[^14]: A 2. § (2) bekezdés 9. pontja az 53/2012. (XII. 28.) EMMI rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. § (2) bekezdésének 13. pontját az 53/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése iktatta be.
+[^16]: A 2. § (2) bekezdés 14. pontját a 20/2010. (IV. 29.) EüM rendelet 1. § (2) bekezdése iktatta be.
+[^17]: A 2. § (2) bekezdés 15. pontját a 20/2010. (IV. 29.) EüM rendelet 1. § (2) bekezdése iktatta be.
+[^18]: A 2. § (2) bekezdés 16. pontját a 20/2010. (IV. 29.) EüM rendelet 1. § (2) bekezdése iktatta be.
+[^19]: A 2. § (2) bekezdés 17. pontját a 20/2010. (IV. 29.) EüM rendelet 1. § (2) bekezdése iktatta be.
