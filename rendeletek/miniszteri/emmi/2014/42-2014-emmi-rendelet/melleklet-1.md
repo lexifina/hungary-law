@@ -1,4 +1,4 @@
-## 17. §[^34]
+## 17. §[^25]
 
 1. melléklet a 42/2014. (VIII. 19.) EMMI rendelethez
 
@@ -418,4 +418,4 @@ A megőrzési idő 15 év kivéve a 10.2. és 10.3. pontokban foglalt eseteket.
 
 10.7. A tárolás során figyelemmel kell lenni az adatvédelmi előírásokra.
 
-[^34]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

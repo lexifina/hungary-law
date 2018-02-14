@@ -1,4 +1,4 @@
-2. melléklet a 42/2014. (VIII. 19.) EMMI rendelethez[^35]
+2. melléklet a 42/2014. (VIII. 19.) EMMI rendelethez[^26]
 
 A GLP ellenőrzéséről és felülvizsgálatáról
 
@@ -450,4 +450,4 @@ XVI. A GLP ellenőrzés vagy a vizsgálatok felülvizsgálatának lezárása
 
 2. Amennyiben másként nem lehetséges a GLP felügyelő egy bizonyos idő után a vizsgáló intézmény ismételt meglátogatása során ellenőrzi a szükséges intézkedések végrehajtását.
 
-[^35]: A 2. melléklet a 23/2015. (IV. 28.) EMMI rendelet 164. § b), d) és j) pontja szerint módosított szöveg.
+[^26]: A 2. melléklet a 23/2015. (IV. 28.) EMMI rendelet 164. § b), d) és j) pontja szerint módosított szöveg.
