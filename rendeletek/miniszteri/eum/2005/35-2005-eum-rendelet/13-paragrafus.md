@@ -1,10 +1,10 @@
 ## A klinikai vizsgálat hatósági engedélyezése
 
-13. § (1)[^35]
+13. § (1)[^36]
 
 (2) Vizsgálati készítmény emberen történő felhasználására akkor adható engedély, ha a klinikai vizsgálat vezetőjének személyi és a vizsgálóhely(ek) tárgyi feltételei megfelelnek az e rendelet 2. számú mellékletében meghatározott feltételeknek.
 
-(3)–(4)[^36]
+(3)–(4)[^37]
 
-[^35]: A 13. § (1) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
-[^36]: A 13. § (3)–(4) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^36]: A 13. § (1) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^37]: A 13. § (3)–(4) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.

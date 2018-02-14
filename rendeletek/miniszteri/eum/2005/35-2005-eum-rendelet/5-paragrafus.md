@@ -1,6 +1,6 @@
 ## 4. § A vizsgálati alany jogai, biztonsága és jólléte elsőbbséget élveznek a tudomány és a társadalom érdekeivel szemben, ezért a kutatás alanyát érintő kockázatot a lehető legkisebb mértékűre kell korlátozni.
 
-5. § (1)[^15] Klinikai vizsgálatot végezni, vizsgálati készítményt emberen alkalmazni csak az OGYÉI engedélyének birtokában lehet. Klinikai vizsgálat csak az OGYÉI engedélyező határozatában meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai szerint folytatható. A klinikai vizsgálatot engedélyező határozatban meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai, továbbá a klinikai vizsgálat megkezdésének és ellenőrzésének előírásai foglalkozási szabálynak minősülnek.
+5. § (1)[^15] Klinikai vizsgálatot végezni, vizsgálati készítményt emberen alkalmazni csak az OGYÉI engedélyének birtokában lehet. Klinikai vizsgálat csak az OGYÉI engedélyező határozatában meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai szerint folytatható.
 
 (2) Klinikai vizsgálatba cselekvőképes személyt akkor lehet bevonni, ha biztosítottak az Eütv. 159. §-ának (1)–(3) bekezdéseiben meghatározott feltételek, illetve az e rendeletben előírt követelmények teljesítése.
 
@@ -18,14 +18,14 @@
 
 (9) Klinikai vizsgálatba alanyként – az egészséges önkéntesek kivételével – a klinikai vizsgálatot végző egészségügyi szolgáltatónál ellátott betegeket kell elsősorban bevonni.
 
-(10)[^18] A klinikai vizsgálatot végző egészségügyi szolgáltató a nyomtatott sajtó, illetve a saját honlapján közzétett felhívás útján, továbbá a szakmai és a betegszervezetek, valamint a megbízó honlapján cselekvőképes vizsgálati alanyokat toborozhat. A toborzási felhívás nem lehet reklámcélú, nem tartalmazhatja a vizsgálati készítmény kereskedelmi nevét, gyártóját, valamint a forgalomba hozatalra jogosult személy megjelölését. A toborzási felhívás tervezett szövegét és a toborzási módszer ismertetését a klinikai vizsgálat hatósági engedélyezése, illetve szakmai-etikai véleményezése iránti kérelemhez csatolni kell. A közzétett toborzási felhívásban a hatósági engedély meglétére utalni kell. A toborzás engedélyezett módszerétől és szövegétől való eltérés esetén az engedély módosítását kell kezdeményezni.
+(10)[^18] A klinikai vizsgálatot végző egészségügyi szolgáltató a nyomtatott sajtó, illetve a saját honlapján közzétett felhívás útján, továbbá a szakmai és a betegszervezetek, valamint a megbízó honlapján cselekvőképes vizsgálati alanyokat toborozhat. A toborzási felhívás nem lehet reklámcélú, nem tartalmazhatja a vizsgálati készítmény kereskedelmi nevét, gyártóját, valamint a forgalomba hozatalra jogosult személy megjelölését.
 
 (11)[^19] A vizsgálati alany részére a klinikai vizsgálatban történő részvétellel kapcsolatos jövedelemkiesésnek, továbbá költségeknek, különösen az utazással összefüggésben ténylegesen felmerült és igazolt költségek megtérítésére térítés fizethető. A vizsgálati alany részére egyéb juttatás vagy díj – a nem-terápiás célú farmakokinetikai vagy interakciós, az I. fázisú, valamint bioegyenértékűségi vizsgálat kivételével – nem adható.
 
 (12) A vizsgálati készítményeket és az esetlegesen az azok beadásra használt eszközöket a megbízónak térítésmentesen kell rendelkezésre bocsátania.
 
-[^15]: Az 5. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 72. § b) pontja szerint módosított szöveg.
+[^15]: Az 5. § (1) bekezdése a 8/2018. (II. 13.) EMMI rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^16]: Az 5. § (4) bekezdése a 32/2009. (X. 20.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
 [^17]: Az 5. § (8) bekezdése a 16/2014. (III. 12.) EMMI rendelet 11. § c) pontja szerint módosított szöveg.
-[^18]: Az 5. § (10) bekezdése a 9/2015. (II. 10.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^18]: Az 5. § (10) bekezdése a 8/2018. (II. 13.) EMMI rendelet 27. § (2) bekezdésével megállapított szöveg.
 [^19]: Az 5. § (11) bekezdés második mondata a 32/2009. (X. 20.) EüM rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.

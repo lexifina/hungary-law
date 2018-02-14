@@ -60,7 +60,7 @@ h) a beleegyező nyilatkozatot tevő aláírását.
 
 (8) Szóbeli beleegyező nyilatkozat esetén a két tanú aláírásával igazolja, hogy a vizsgálati alany a (4) bekezdés szerinti tájékoztatást megkapta és a (6) bekezdés szerinti beleegyező nyilatkozatot vele ismertették és abba szóban beleegyezett.
 
-(9) Amennyiben a klinikai vizsgálattal kapcsolatban olyan új, lényeges információ válik ismertté, amely érinti az írásos tájékoztatóban foglaltakat, az engedély módosítását kell kezdeményezni a 18. §-ban foglaltaknak megfelelően. A módosított írásos tájékoztatónak megfelelően a vizsgálati alanyt ismételten tájékoztatni kell, és beleegyezését kell kérni a klinikai vizsgálat folytatásához.
+(9)[^27]
 
 [^20]: A 6. § (4) bekezdés f) pontja a 16/2014. (III. 12.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
 [^21]: A 6. § (4) bekezdés m) pontját a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
@@ -69,3 +69,4 @@ h) a beleegyező nyilatkozatot tevő aláírását.
 [^24]: A 6. § (6) bekezdés d) pontja a 16/2014. (III. 12.) EMMI rendelet 11. § a) pontja szerint módosított szöveg.
 [^25]: A 6. § (6) bekezdés e) pontja a 16/2014. (III. 12.) EMMI rendelet 11. § a) pontja szerint módosított szöveg.
 [^26]: A 6. § (7) bekezdése a 16/2014. (III. 12.) EMMI rendelet 11. § a) pontja szerint módosított szöveg.
+[^27]: A 6. § (9) bekezdését a 8/2018. (II. 13.) EMMI rendelet 28. § a) pontja hatályon kívül helyezte.
