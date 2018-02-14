@@ -44,7 +44,7 @@
 
 | 21. | Felnőtt transoesophagealis echokardiográfia | specializációs | 12 hónap |
 
-2. melléklet a 23/2012. (IX. 14.) EMMI rendelethez[^41]
+2. melléklet a 23/2012. (IX. 14.) EMMI rendelethez[^44]
 
 A szakorvosok által megszerezhető licencek képzési követelményei
 
@@ -1966,4 +1966,4 @@ d) előny a strain és 3D-lehetőséget is tartalmazó softver.
 
 8.2. A képzés tárgyi feltételei: echokardiográfiás készülék (ennek típusa szerepeljen a leleten), multiplan transoesophagealis transducer (előny a három-dimentiós).
 
-[^41]: A 2. mellékletet a 69/2013. (XI. 19.) EMMI rendelet 19. § (2) bekezdése iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 29. § b) pontja, a 4/2015. (I. 20.) EMMI rendelet 14. § b) pontja, az 54/2015. (XI. 24.) EMMI rendelet 52. §-a, a 28/2016. (IX. 29.) EMMI rendelet 14. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 87. § g) pontja szerint módosított szöveg.[A 2. melléklet 6. rész 1.2. b) pontjának a 38/2017. (XII. 29.) EMMI rendelet 7. §-ával elrendelt módosítása, amely szerint az „országos intézetben” szövegrész helyébe az „országos gyógyintézetben, országos társ-gyógyintézetben” szöveg lép, nem vezethető át.
+[^44]: A 2. mellékletet a 69/2013. (XI. 19.) EMMI rendelet 19. § (2) bekezdése iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 29. § b) pontja, a 4/2015. (I. 20.) EMMI rendelet 14. § b) pontja, az 54/2015. (XI. 24.) EMMI rendelet 52. §-a, a 28/2016. (IX. 29.) EMMI rendelet 14. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 87. § g) pontja szerint módosított szöveg.[A 2. melléklet 6. rész 1.2. b) pontjának a 38/2017. (XII. 29.) EMMI rendelet 7. §-ával elrendelt módosítása, amely szerint az „országos intézetben” szövegrész helyébe az „országos gyógyintézetben, országos társ-gyógyintézetben” szöveg lép, nem vezethető át.
