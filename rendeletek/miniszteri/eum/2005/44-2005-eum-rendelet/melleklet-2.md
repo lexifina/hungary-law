@@ -18,7 +18,7 @@
 
 ## (1) A helyes gyártási gyakorlat betartatását szolgálják a Gytv.-ben és e rendelet 4. §-ában részletezett helyszíni hatósági ellenőrzések, a hatósági ellenőrök által vett minták laboratóriumi vizsgálata, valamint az EGT tagállamai közötti információcsere. Utóbbi során figyelembe kell venni az Európai Bizottság által meghatározott közösségi eljárásokat is.
 
-## (2)[^32] A helyes gyártási gyakorlat alapelveinek és iránymutatásainak értelmezése céljából a gyártók és az OGYÉI figyelembe veszi az Európai Bizottság által az „Útmutató a gyógyszerek és vizsgálati gyógyszerek helyes gyártási gyakorlatához” című útmutatás fordításaként az OGYÉI által e rendelet 2. § (2) bekezdése szerint közzétett részletes iránymutatásokat.
+## (2)[^24] A helyes gyártási gyakorlat alapelveinek és iránymutatásainak értelmezése céljából a gyártók és az OGYÉI figyelembe veszi az Európai Bizottság által az „Útmutató a gyógyszerek és vizsgálati gyógyszerek helyes gyártási gyakorlatához” című útmutatás fordításaként az OGYÉI által közzétett részletes iránymutatásokat.
 
 ## A helyes gyártási gyakorlat betartása
 
@@ -32,11 +32,11 @@
 
 ## A forgalomba hozatali engedélyben foglaltak betartása
 
-## (1)[^33] A gyártó biztosítja, hogy a forgalomba hozatali engedéllyel rendelkező gyógyszerekkel kapcsolatos valamennyi gyártási műveletet az OGYÉI által kiadott forgalomba hozatali engedélyben foglaltakkal összhangban végezzék.
+## (1)[^25] A gyártó biztosítja, hogy a forgalomba hozatali engedéllyel rendelkező gyógyszerekkel kapcsolatos valamennyi gyártási műveletet az OGYÉI által kiadott forgalomba hozatali engedélyben foglaltakkal összhangban végezzék.
 
 ## Vizsgálati készítmények esetében a gyártó biztosítja, hogy minden gyártási műveletet a megbízó által a külön jogszabály szerint rendelkezésre bocsátott és az OGYÉI által elfogadott eljárással összhangban végezzék.
 
-## (2)[^34] A forgalomba hozatali engedély kiadását követően a forgalomba hozatali engedély jogosultja a gyártás és a minőségellenőrzés módszereit a tudományos és műszaki fejlődés figyelembevételével rendszeresen felülvizsgálja és bevezeti a szükséges változtatásokat annak érdekében, hogy a gyógyszert az általánosan elfogadott tudományos alapokon nyugvó módszerekkel gyártsák és ellenőrizzék.
+## (2)[^26] A forgalomba hozatali engedély kiadását követően a forgalomba hozatali engedély jogosultja a gyártás és a minőségellenőrzés módszereit a tudományos és műszaki fejlődés figyelembevételével rendszeresen felülvizsgálja és bevezeti a szükséges változtatásokat annak érdekében, hogy a gyógyszert az általánosan elfogadott tudományos alapokon nyugvó módszerekkel gyártsák és ellenőrizzék.
 
 ## Ezekhez a változtatásokhoz az OGYÉI-től a forgalomba hozatali engedély iránti vagy klinikai vizsgálatra vonatkozó kérelemhez benyújtott dokumentáció módosításának jóváhagyását kell kérni.
 
@@ -90,13 +90,13 @@
 
 ## E személy rendelkezésére áll a kiinduló és a csomagolóanyagok, valamint a köztes és késztermékek vizsgálatára kialakított, megfelelő személyzettel és berendezéssel ellátott egy vagy több minőség-ellenőrző laboratórium, vagy ezekhez hozzáféréssel rendelkezik.
 
-## (2)[^35] Gyógyszerek esetében, beleértve a harmadik országokból importált gyógyszereket is, szerződéses laboratórium is alkalmazható, ha azt az e rendeletben, valamint a Szerződéses (alvállalkozók által végzett) munka címben kifejtettekkel összhangban engedélyezték.
+## (2)[^27] Gyógyszerek esetében, beleértve a harmadik országokból importált gyógyszereket is, szerződéses laboratórium is alkalmazható, ha azt az e rendeletben, valamint a Szerződéses (alvállalkozók által végzett) munka címben kifejtettekkel összhangban engedélyezték.
 
 ## Vizsgálati készítmények esetében a megbízó igazolja, hogy a szerződéses laboratórium eleget tesz a klinikai vizsgálatok engedélyezéséről szóló külön jogszabály által említett, az OGYÉI által elfogadott kérelem tartalmának.
 
 ## (3) A késztermék értékesítését, forgalmazását vagy klinikai vizsgálatokban történő felhasználását megelőző végső felszabadítás során a minőségbiztosítási rendszer az analitikai eredményeken felül olyan alapvető információkat is figyelembe vesz, mint például a gyártási feltételek, a gyártásközi ellenőrzések eredménye, a gyártási dokumentáció vizsgálata, valamint a termék, ezen belül a végleges csomagolás megfelelősége.
 
-## (4)[^36] A kész gyógyszer minden gyártási tételéből legalább két teljes vizsgálatra alkalmas gyári csomagolási egységnek a megjelölt felhasználhatósági határidőt követő egy évig történő megőrzéséről kell gondoskodni.
+## (4)[^28] A kész gyógyszer minden gyártási tételéből legalább két teljes vizsgálatra alkalmas gyári csomagolási egységnek a megjelölt felhasználhatósági határidőt követő egy évig történő megőrzéséről kell gondoskodni.
 
 ## Vizsgálati készítmények esetében a nem kimért adagokban kiszerelt (ömlesztett) termék minden egyes gyártási tételéből és a késztermék minden egyes gyártási tételéhez felhasznált csomagolás fő összetevőiből kielégítő mennyiségű mintát kell megőrizni azon klinikai vizsgálat befejezésétől vagy hivatalos megszakításától számítva legalább két évig, amelyben a gyártási tételt felhasználták, attól függően, melyik e két időszak közül a hosszabb.
 
@@ -114,11 +114,11 @@
 
 ## Panaszok, forgalomból való kivonás és vészhelyzeti kódfeltörés
 
-## (1)[^37] Gyógyszerek esetében a gyártó a panaszok rögzítésére és kivizsgálására szolgáló rendszert és a gyógyszereknek a forgalomból történő azonnali kivonása végrehajtására szolgáló hatékony rendszert alakít ki. A gyártó minden hibára vonatkozó panaszt rögzít és kivizsgál. A gyártó minden olyan hibáról tájékoztatja az OGYÉI-t, amely forgalomból való kivonást eredményezhet, vagy amely a forgalmazás rendkívüli korlátozását vonhatja maga után, és amennyiben lehetséges, megjelöli a rendeltetési országokat is, ahova a termék kiszállításra került.
+## (1)[^29] Gyógyszerek esetében a gyártó a panaszok rögzítésére és kivizsgálására szolgáló rendszert és a gyógyszereknek a forgalomból történő azonnali kivonása végrehajtására szolgáló hatékony rendszert alakít ki. A gyártó minden hibára vonatkozó panaszt rögzít és kivizsgál. A gyártó minden olyan hibáról tájékoztatja az OGYÉI-t, amely forgalomból való kivonást eredményezhet, vagy amely a forgalmazás rendkívüli korlátozását vonhatja maga után, és amennyiben lehetséges, megjelöli a rendeltetési országokat is, ahova a termék kiszállításra került.
 
 ## A forgalomból való kivonást a Gytv.-ben, ebben a rendeletben és a külön jogszabályban meghatározott előírásokkal összhangban kell végezni.
 
-## (2)[^38] Vizsgálati készítmények esetében a gyártó a megbízóval együttműködésben a panaszok rögzítésére és felülvizsgálatára szolgáló rendszert, valamint a már forgalomba került vizsgálati készítmények bármikori azonnali visszagyűjtésére szolgáló hatékony rendszert alakít ki. A gyártó minden panaszt rögzít és kivizsgál, és minden olyan hibáról tájékoztatja az OGYÉI-t, amely forgalomból való kivonást eredményezhet, vagy amely a forgalmazás rendkívüli korlátozását vonhatja maga után.
+## (2)[^30] Vizsgálati készítmények esetében a gyártó a megbízóval együttműködésben a panaszok rögzítésére és felülvizsgálatára szolgáló rendszert, valamint a már forgalomba került vizsgálati készítmények bármikori azonnali visszagyűjtésére szolgáló hatékony rendszert alakít ki. A gyártó minden panaszt rögzít és kivizsgál, és minden olyan hibáról tájékoztatja az OGYÉI-t, amely forgalomból való kivonást eredményezhet, vagy amely a forgalmazás rendkívüli korlátozását vonhatja maga után.
 
 ## Adott vizsgálati készítmény esetében minden vizsgálati helyszínt azonosítani kell, és ha lehetséges, minden rendeltetési országot (ahova a készítmény kiszállításra került) meg kell jelölni.
 
@@ -134,13 +134,13 @@
 
 ## Vizsgálati készítmények esetében a címkézésnek biztosítania kell a vizsgálatban részt vevő személy védelmét és a nyomon követhetőséget, lehetővé kell tennie a termék és a vizsgálat azonosítását, valamint elő kell segítenie a vizsgálati készítmény megfelelő használatát.
 
-2. melléklet a 44/2005. (X. 19.) EüM rendelethez[^39]
+2. melléklet a 44/2005. (X. 19.) EüM rendelethez[^31]
 
-[^32]: Az 1. melléklet „Hatósági ellenőrzések” alcím (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § h) pontja szerint módosított szöveg.
-[^33]: Az 1. melléklet „A forgalomba hozatali engedélyben foglaltak betartása” alcím (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § h) pontja szerint módosított szöveg.
-[^34]: Az 1. melléklet „A forgalomba hozatali engedélyben foglaltak betartása” alcím (2) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 33. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 75. § i) pontja szerint módosított szöveg.
-[^35]: Az 1. melléklet „Minőség-ellenőrzés” alcím (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § b) pontja szerint módosított szöveg.
-[^36]: Az 1. melléklet „Minőség-ellenőrzés” alcím (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § c) pontja szerint módosított szöveg.
-[^37]: Az 1. melléklet „Panaszok, forgalomból való kivonás és vészhelyzeti kódfeltörés” alcím (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § f) pontja szerint módosított szöveg.
-[^38]: Az 1. melléklet „Panaszok, forgalomból való kivonás és vészhelyzeti kódfeltörés” alcím (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § f) pontja szerint módosított szöveg.
-[^39]: A 2. melléklet a 10/2012. (VII. 19.) EMMI rendelet 17. §-a szerint módosított szöveg.
+[^24]: Az 1. melléklet „Hatósági ellenőrzések” alcím (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § h) pontja, a 8/2018. (II. 13.) EMMI rendelet 29. § d) pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet „A forgalomba hozatali engedélyben foglaltak betartása” alcím (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § h) pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet „A forgalomba hozatali engedélyben foglaltak betartása” alcím (2) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 33. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 75. § i) pontja szerint módosított szöveg.
+[^27]: Az 1. melléklet „Minőség-ellenőrzés” alcím (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § b) pontja szerint módosított szöveg.
+[^28]: Az 1. melléklet „Minőség-ellenőrzés” alcím (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § c) pontja szerint módosított szöveg.
+[^29]: Az 1. melléklet „Panaszok, forgalomból való kivonás és vészhelyzeti kódfeltörés” alcím (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § f) pontja szerint módosított szöveg.
+[^30]: Az 1. melléklet „Panaszok, forgalomból való kivonás és vészhelyzeti kódfeltörés” alcím (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 75. § f) pontja szerint módosított szöveg.
+[^31]: A 2. melléklet a 10/2012. (VII. 19.) EMMI rendelet 17. §-a szerint módosított szöveg.
