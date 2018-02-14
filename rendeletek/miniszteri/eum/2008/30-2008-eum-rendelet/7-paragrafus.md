@@ -1,6 +1,6 @@
-7. § (1)[^18] Ha az ÁEEK a 3. § (2) bekezdésének, valamint a 4. § (2) bekezdésének alkalmazása esetén szakmai gyakorlat teljesítését, alkalmazkodási időszak letöltését vagy vizsgát ír elő, erről az elismerésről hozott határozatban rendelkezik, amely határozat ebben az esetben nem jogosít olyan tevékenység önálló végzésére, amelyhez elismert oklevél szükséges.
+7. § (1)[^18] Ha az ÁEEK a 3. § (2) bekezdésének alkalmazása esetén szakmai gyakorlat teljesítését, alkalmazkodási időszak letöltését vagy vizsgát ír elő, erről az elismerésről hozott határozatban rendelkezik, amely határozat ebben az esetben nem jogosít olyan tevékenység önálló végzésére, amelyhez elismert oklevél szükséges.
 
-(2)[^19] Ha az ÁEEK alkalmazkodási időszakot ír elő, a kérelmező azt valamely, az elismertetni kívánt oklevél által tanúsított képesítésnek megfelelő gyakorlati képzésre jogosult egészségügyi intézményben vagy intézményekben (a továbbiakban: képző intézmény) teljesíti, a határozatban meghatározott időtartamban. A képző intézmények köréről az ÁEEK a határozathozatallal egyidejűleg írásban tájékoztatja a kérelmezőt. Az alkalmazkodási időszak megkezdéséről, valamint a kérelmező által választott képző intézmény nevéről és címéről – legkésőbb az alkalmazkodási időszak megkezdését követő tizenöt napon belül – a képző intézmény tájékoztatja az ÁEEK-et.
+(2)[^19] Ha az ÁEEK alkalmazkodási időszakot ír elő, a kérelmező azt valamely, az elismertetni kívánt oklevél által tanúsított képesítésnek megfelelő gyakorlati képzésre jogosult egészségügyi intézményben vagy intézményekben (a továbbiakban: képző intézmény) teljesíti, a határozatban meghatározott időtartamban. Az alkalmazkodási időszak megkezdéséről, valamint a kérelmező által választott képző intézmény nevéről és címéről a képző intézmény tájékoztatja az ÁEEK-t.
 
 (3)[^20] A képző intézmény az alkalmazkodási időszak letöltéséről igazolást állít ki, amelyet megküld az ÁEEK és a kérelmező részére. Az igazolás tartalmazza a kérelmező azonosításához szükséges személyes adatokat, az alkalmazkodási időszak letöltésének helyét és idejét – kezdő és befejező időpontját, valamint együttes időtartamát –, az alkalmazkodási időszak során végzett tevékenységek megjelölését, továbbá az alkalmazkodási időszak értékelését az azt elrendelő határozatban megállapított szempontok figyelembevételével.
 
@@ -8,10 +8,10 @@
 
 (5) A vizsga elméleti és gyakorlati részből áll. A vizsgabizottság tagjait a vizsgaszervező intézmény a tanulmányi és vizsgaszabályzatában, valamint az egészségügyi képzésre irányadó külön jogszabályokban foglaltak szerint jelöli ki. A vizsga lebonyolítására vonatkozó részletes szabályokat külön jogszabály, illetve az intézmény vizsgaszabályzata tartalmazza.
 
-(6)[^22] A vizsga eredményéről a vizsgaszervező intézmény legkésőbb a vizsga lebonyolítását követő tizenöt napon belül tájékoztatja az ÁEEK-et és a kérelmezőt.
+(6)[^22] A vizsga eredményéről a vizsgaszervező intézmény a vizsga lebonyolítását követően haladéktalanul tájékoztatja az ÁEEK-t és a kérelmezőt.
 
-[^18]: A 7. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 60. § c) pontja szerint módosított szöveg.
-[^19]: A 7. § (2) bekezdése a 18/2010. (XII. 23.) NEFMI rendelet 1. § (3) bekezdés a) pontja, az 54/2016. (XII. 30.) EMMI rendelet 60. § e) és f) pontja szerint módosított szöveg.
+[^18]: A 7. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 60. § c) pontja, a 8/2018. (II. 13.) EMMI rendelet 60. § a) pontja szerint módosított szöveg.
+[^19]: A 7. § (2) bekezdése a 8/2018. (II. 13.) EMMI rendelet 58. § (3) bekezdésével megállapított szöveg.
 [^20]: A 7. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 60. § c) pontja szerint módosított szöveg.
 [^21]: A 7. § (4) bekezdése a 18/2010. (XII. 23.) NEFMI rendelet 1. § (3) bekezdés b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 60. § c) pontja szerint módosított szöveg.
-[^22]: A 7. § (6) bekezdése a 18/2010. (XII. 23.) NEFMI rendelet 1. § (3) bekezdés a) pontja, az 54/2016. (XII. 30.) EMMI rendelet 60. § f) pontja szerint módosított szöveg.
+[^22]: A 7. § (6) bekezdése a 8/2018. (II. 13.) EMMI rendelet 58. § (4) bekezdésével megállapított szöveg.

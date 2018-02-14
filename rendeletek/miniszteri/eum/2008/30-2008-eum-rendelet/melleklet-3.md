@@ -44,7 +44,7 @@
 
 ## 4. Kérelmező szakmai tapasztalatára vonatkozó adatok
 
-## a) jelenlegi munkáltató neve
+## a) munkahelyek az elmúlt öt év során (munkahely neve, szakmai tapasztalat időtartama, munkahelyi beosztása)
 
 ## b) jelenlegi munkáltató címe
 
@@ -52,13 +52,13 @@
 
 ## d) munkáltatói jogkör gyakorlójának neve, beosztása és elérhetősége
 
-## e) előző munkahelyek az elmúlt öt év során (munkahely neve, szakmai tapasztalat időtartama, munkahelyi beosztása)
+## e)
 
 ## 5. Kérelmező nyelvismerete
 
-## 6. A kérelemhez csatolt okiratok, dokumentumok tételes felsorolása
+## 6.
 
-## 7. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 28/A. § (1) bekezdése szerinti kapcsolattartás módjának megjelölése
+## 7. A kapcsolattartás módjának megjelölése
 
 ## 8. Kérelem kelte
 
@@ -68,6 +68,6 @@
 
 ## A *-gal megjelölt adatok megadása nem kötelező.
 
-3. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^62]
+3. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^63]
 
-[^62]: A 3. mellékletet az 50/2009. (XII. 30.) EüM rendelet 6. § (3) bekezdés e) pontja hatályon kívül helyezte.
+[^63]: A 3. mellékletet az 50/2009. (XII. 30.) EüM rendelet 6. § (3) bekezdés e) pontja hatályon kívül helyezte.

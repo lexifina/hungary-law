@@ -1,4 +1,4 @@
-4. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^63]
+4. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^64]
 
 Az oklevél, bizonyítvány külföldi elismertetéséhez szükséges hatósági bizonyítvány kiállítása iránti
 
@@ -28,9 +28,9 @@ d) e-mail címe *
 
 e) alapnyilvántartási száma
 
-4. A kérelemhez csatolt okiratok, dokumentumok tételes felsorolása
+4. Az igényelt hatósági bizonyítvány kiállításának nyelvére irányuló nyilatkozat
 
-5. A Ket. 28/A. § (1) bekezdése szerinti kapcsolattartás módjának megjelölése
+5. A kapcsolattartás módjának megjelölése
 
 6. Kérelem kelte
 
@@ -40,4 +40,4 @@ e) alapnyilvántartási száma
 
 A *-gal megjelölt adatok megadása nem kötelező.
 
-[^63]: A 4. melléklet az 50/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdés b) pontjával megállapított szöveg.
+[^64]: A 4. melléklet az 50/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdés b) pontjával megállapított, a 8/2018. (II. 13.) EMMI rendelet 59. § (2) bekezdése szerint módosított szöveg.

@@ -6,9 +6,9 @@
 
 ## 2. Az általános orvosi képzésre történő felvétel feltétele egyetemi tanulmányok megkezdésére jogosító oklevél vagy bizonyítvány megléte volt.
 
-## 3.[^44] Az általános orvosi képzésnek összesen legalább ötéves, kiegészítésképpen az ezzel egyenértékű ECTS-kreditek számával is megadható tanulmányi időszakot kell magában foglalnia, amely legalább 5500 órányi, egyetem által vagy egyetem felügyelete alatt nyújtott elméleti és gyakorlati képzésből áll.
+## 3.[^45] Az általános orvosi képzésnek összesen legalább ötéves, kiegészítésképpen az ezzel egyenértékű ECTS-kreditek számával is megadható tanulmányi időszakot kell magában foglalnia, amely legalább 5500 órányi, egyetem által vagy egyetem felügyelete alatt nyújtott elméleti és gyakorlati képzésből áll.
 
-## 4.[^45] Azon szakemberek esetében, akik tanulmányaikat 1972. január 1-je előtt kezdték meg, a 3. pontban említett képzés hat hónapig tartó, teljes idejű, egyetemi szintű és az illetékes hatóságok által felügyelt gyakorlati képzést tartalmazhat.
+## 4.[^46] Azon szakemberek esetében, akik tanulmányaikat 1972. január 1-je előtt kezdték meg, a 3. pontban említett képzés hat hónapig tartó, teljes idejű, egyetemi szintű és az illetékes hatóságok által felügyelt gyakorlati képzést tartalmazhat.
 
 ## 5. Az általános orvosi képzésnek garantálnia kell, hogy az érintett személy megszerezte a következő ismereteket és készségeket:
 
@@ -22,7 +22,7 @@
 
 ## II. Szakorvosi képzés
 
-## 1.[^46] A szakorvosi képzésre történő felvétel feltétele az I. pont 3. alpontja szerinti általános orvosi képzési program befejezése és érvényes lezárása, amelynek során a hallgató elsajátította a megfelelő orvostudományi alapismereteket.
+## 1.[^47] A szakorvosi képzésre történő felvétel feltétele az I. pont 3. alpontja szerinti általános orvosi képzési program befejezése és érvényes lezárása, amelynek során a hallgató elsajátította a megfelelő orvostudományi alapismereteket.
 
 ## 2. A szakorvosi képzés egyetemen, vagy gyakorló kórházban, vagy adott esetben az illetékes hatóságok vagy szervek által erre a célra engedélyezett egészségügyi intézményben zajló elméleti és gyakorlati képzésből áll.
 
@@ -34,7 +34,7 @@
 
 ## 6. A szakorvosi képzés elvégzését tanúsító okirat kibocsátása általános orvosi képzés elvégzését tanúsító okirat meglétéhez kötött.
 
-## II/A.[^47] Háziorvosi képzés
+## II/A.[^48] Háziorvosi képzés
 
 ## 1. A háziorvosi szakképzésre történő felvétel feltétele az I. pont 3. alpontja szerinti általános orvosi képzés befejezése és érvényes lezárása, amelynek során a hallgató elsajátította a megfelelő orvostudományi alapismereteket.
 
@@ -48,7 +48,7 @@
 
 ## III. Általános ápolók képzése
 
-## 1.[^48] Az általános ápolói képzésre történő felvétel feltétele:
+## 1.[^49] Az általános ápolói képzésre történő felvétel feltétele:
 
 ## 1.1. 12 éves általános és középiskolai oktatás elvégzése, amelyet valamely tagállam illetékes hatósága vagy szerve által kibocsátott oklevél, bizonyítvány vagy egyéb okirat, vagy egy ezzel egyenértékű, az egyetemekre vagy azokkal egyenértékűként elismert felsőoktatási intézményekbe való felvételi vizsga sikeres letételét tanúsító bizonyítvány igazol; vagy
 
@@ -136,17 +136,17 @@
 
 ## b) Az elméleti és gyakorlati képzés megoszlásának kiegyensúlyozottnak és összehangoltnak kell lennie, hogy biztosítsa az ezen mellékletben hivatkozott tudás és tapasztalat megfelelő módon történő megszerzését.
 
-## 3.[^49] Az általános ápolói képzés időtartama összesen legalább három év, amely kiegészítésképpen ezzel egyenértékű ECTS-kreditekben is kifejezhető, és legalább 4600 órás elméleti képzést és klinikai gyakorlatot foglal magában, amelyen belül az elméleti képzés tartama a teljes képzés minimális időtartamának legalább egyharmadát, a klinikai gyakorlat pedig legalább a felét teszi ki. A tagállamok részleges mentesítést adhatnak azon szakemberek számára, akik képzésének egy része olyan kurzusokon történt, amelyek legalább ezzel egyenértékű szintűek voltak.
+## 3.[^50] Az általános ápolói képzés időtartama összesen legalább három év, amely kiegészítésképpen ezzel egyenértékű ECTS-kreditekben is kifejezhető, és legalább 4600 órás elméleti képzést és klinikai gyakorlatot foglal magában, amelyen belül az elméleti képzés tartama a teljes képzés minimális időtartamának legalább egyharmadát, a klinikai gyakorlat pedig legalább a felét teszi ki. A tagállamok részleges mentesítést adhatnak azon szakemberek számára, akik képzésének egy része olyan kurzusokon történt, amelyek legalább ezzel egyenértékű szintűek voltak.
 
-## 4.[^50] Az elméleti oktatás az ápolói képzés azon része, amelynek keretében a hallgatók megszerzik az általános egészségügyi ellátás szervezéséhez, szolgáltatásához és értékeléséhez szükséges szakmai ismereteket, képességeket és készségeket. A képzést ápolásoktatók és más hozzáértő személyek tartják, egyetemeken, ezekkel egyenértékűként elismert felsőoktatási intézményekben vagy ápolóképző intézményekben vagy ápolói szakképzési programok keretében.
+## 4.[^51] Az elméleti oktatás az ápolói képzés azon része, amelynek keretében a hallgatók megszerzik az általános egészségügyi ellátás szervezéséhez, szolgáltatásához és értékeléséhez szükséges szakmai ismereteket, képességeket és készségeket. A képzést ápolásoktatók és más hozzáértő személyek tartják, egyetemeken, ezekkel egyenértékűként elismert felsőoktatási intézményekben vagy ápolóképző intézményekben vagy ápolói szakképzési programok keretében.
 
-## 5.[^51] A klinikai gyakorlat az ápolóképzésnek az a része, amelynek során a hallgatók megtanulják, hogy egy csoport tagjaként és az egészséges vagy beteg emberekkel vagy közösséggel közvetlen kapcsolatban, az általuk elsajátított ismeretek, képességek és készségek alapján hogyan szervezzék meg, hogyan végezzék, és hogyan értékeljék az igényelt teljes körű betegápolást. A hallgatók nemcsak azt tanulják meg, hogy hogyan dolgozzanak csoportban, hanem azt is, hogy hogyan vezessenek egy csoportot, és hogyan szervezzék meg egy egészségügyi intézetben vagy a közösségben az általános betegápolói munkát, beleértve egyének és kisebb csoportok egészségügyi oktatását.
+## 5.[^52] A klinikai gyakorlat az ápolóképzésnek az a része, amelynek során a hallgatók megtanulják, hogy egy csoport tagjaként és az egészséges vagy beteg emberekkel vagy közösséggel közvetlen kapcsolatban, az általuk elsajátított ismeretek, képességek és készségek alapján hogyan szervezzék meg, hogyan végezzék, és hogyan értékeljék az igényelt teljes körű betegápolást. A hallgatók nemcsak azt tanulják meg, hogy hogyan dolgozzanak csoportban, hanem azt is, hogy hogyan vezessenek egy csoportot, és hogyan szervezzék meg egy egészségügyi intézetben vagy a közösségben az általános betegápolói munkát, beleértve egyének és kisebb csoportok egészségügyi oktatását.
 
 ## A képzés kórházakban, más egészségügyi intézményekben és a közösségi ellátás során ápolásoktatók felügyelete alatt folyik, más szakképzett ápolókkal együttműködve és azok segítségével. A tanítási folyamatban más szakképzett munkaerő is részt vehet.
 
 ## A hallgatók részt vesznek az érintett osztály munkájában, ha az ilyen tevékenységek a képzésükhöz megfelelőek és lehetővé teszik számukra, hogy megtanulják a betegápolással járó felelősség vállalását.
 
-## 6.[^52] Az általános ápolóképzésnek biztosítania kell, hogy az érintett szakember megszerezte a következő ismereteket és készségeket:
+## 6.[^53] Az általános ápolóképzésnek biztosítania kell, hogy az érintett szakember megszerezte a következő ismereteket és készségeket:
 
 ## 6.1. az általános ápolói tevékenységek alapját képező tudományok átfogó ismerete, beleértve az egészséges és beteg személyek alkatának, fiziológiai funkcióinak és viselkedésének, valamint az ember egészségi állapotának, a fizikai és szociális környezete közötti kapcsolatnak a megfelelő megértését;
 
@@ -158,7 +158,7 @@
 
 ## 6.5. az egészségügyi ágazat más szakmáinak képviselőivel való együttműködés terén szerzett tapasztalat.
 
-## 7.[^53] Az előírt általános ápolói képesítések igazolják, hogy a szóban forgó szakember képes legalább az alábbi készségek alkalmazására, függetlenül attól, hogy a képzés egyetemen, ezzel egyenértékűként elismert felsőoktatási intézményben vagy ápolóképző intézményben vagy ápolói szakképzési program keretében történt:
+## 7.[^54] Az előírt általános ápolói képesítések igazolják, hogy a szóban forgó szakember képes legalább az alábbi készségek alkalmazására, függetlenül attól, hogy a képzés egyetemen, ezzel egyenértékűként elismert felsőoktatási intézményben vagy ápolóképző intézményben vagy ápolói szakképzési program keretében történt:
 
 ## 7.1. a betegek kezelése során a korszerű elméleti és klinikai ismereteket alkalmazva képes önállóan meghatározni a szükséges betegápolást és megtervezni, megszervezni, valamint végrehajtani az ápolást a 6.1–6.3. pontban foglaltakkal összhangban megszerzett tudás és készségek alapján, a szakma jobb gyakorlása érdekében;
 
@@ -180,7 +180,7 @@
 
 ## 1. A fogorvosi alapképzésre történő felvétel feltétele az érintett tanulmányok tekintetében valamely tagállamban egyetemre vagy azzal egyenértékű szintűként elismert felsőoktatási intézménybe történő felvételre jogosító bizonyítvány megléte.
 
-## 2.[^54] A fogorvosi alapképzés összesen legalább ötéves időtartamú – legalább az alábbi minimális képzési programot tartalmazó –, kiegészítésképpen az ezzel egyenértékű ECTS-kreditekben is kifejezhető, legalább 5000 órás teljes idejű elméleti és gyakorlati képzést foglal magában, amelyre egyetemen vagy azzal egyenértékű szintűként elismert képzést adó, vagy egyetem felügyelete alatt álló felsőoktatási intézményben kerül sor.
+## 2.[^55] A fogorvosi alapképzés összesen legalább ötéves időtartamú – legalább az alábbi minimális képzési programot tartalmazó –, kiegészítésképpen az ezzel egyenértékű ECTS-kreditekben is kifejezhető, legalább 5000 órás teljes idejű elméleti és gyakorlati képzést foglal magában, amelyre egyetemen vagy azzal egyenértékű szintűként elismert képzést adó, vagy egyetem felügyelete alatt álló felsőoktatási intézményben kerül sor.
 
 ## 3. A fogorvosi oklevél, bizonyítvány vagy a képesítés megszerzéséről szóló egyéb tanúsítvány megszerzéséhez szükséges tanulmányi programnak legalább a következő tantárgyakat kell tartalmaznia. Lehetséges egy vagy több tantárgynak más tantárgy részeként, vagy más tantárgyhoz kapcsolódóan történő oktatása.
 
@@ -280,7 +280,7 @@
 
 ## V. Fogszakorvosi képzés
 
-## 1.[^55] A fogszakorvosi képzésre történő felvétel feltétele a IV. pont szerinti képzés befejezése és érvényes lezárása, vagy a fogorvosi képesítés szerzett jogként történő elismertetéséhez szükséges igazolások megléte.
+## 1.[^56] A fogszakorvosi képzésre történő felvétel feltétele a IV. pont szerinti képzés befejezése és érvényes lezárása, vagy a fogorvosi képesítés szerzett jogként történő elismertetéséhez szükséges igazolások megléte.
 
 ## 2. A fogszakorvosi képzés elméleti és gyakorlati részből áll, amelyekre egyetemi intézetben, vagy gyógykezelést oktató és kutató központban, vagy – szükség szerint – az illetékes hatóságtól vagy szervtől erre engedéllyel rendelkező egészségügyi intézményben kerül sor.
 
@@ -290,7 +290,7 @@
 
 ## 1. A gyógyszerészképzésre történő felvétel feltétele olyan bizonyítvány megléte, amely az érintett tanulmányok tekintetében valamely tagállamban egyetemre vagy azzal egyenértékű szintűként elismert felsőoktatási intézménybe történő felvételre jogosít.
 
-## 2.[^56] Az előírt gyógyszerészi képesítés megszerzését tanúsító okirat legalább ötéves, kiegészítésképpen az ezzel egyenértékű ECTS-kreditek számával is meghatározható képzés elvégzését tanúsítja, amely legalább a következőket tartalmazza:
+## 2.[^57] Az előírt gyógyszerészi képesítés megszerzését tanúsító okirat legalább ötéves, kiegészítésképpen az ezzel egyenértékű ECTS-kreditek számával is meghatározható képzés elvégzését tanúsítja, amely legalább a következőket tartalmazza:
 
 ## a) négyéves, teljes idejű elméleti és gyakorlati képzés egyetemen, vagy azzal egyenértékű szintűként elismert, illetve egyetem felügyelete alatt álló felsőoktatási intézményben;
 
@@ -376,7 +376,7 @@
 
 ## 1.1.11. a tanítás alapelvei és módszerei
 
-## 1.1.12.[^57] Egészségügyi és szociális jogi szabályozás és az egészségügy szervezete
+## 1.1.12.[^58] Egészségügyi és szociális jogi szabályozás és az egészségügy szervezete
 
 ## 1.1.13. szakmai etika és szakmai jogi szabályozás
 
@@ -394,7 +394,7 @@
 
 ## 1.2.4. szülészeti és nőgyógyászati patológia
 
-## 1.2.5.[^58] felkészítés a szülésre és a szülővé válásra, a pszichológiai szempontok figyelembevételével
+## 1.2.5.[^59] felkészítés a szülésre és a szülővé válásra, a pszichológiai szempontok figyelembevételével
 
 ## 1.2.6. felkészítés a szülésre (beleértve a nőgyógyászati eszközök használatát)
 
@@ -436,13 +436,13 @@
 
 ## A képzési programban el kell sajátítani a szülésznők tevékenysége felelősségét.
 
-## 2.[^59] A szülésznőképzésre történő felvételt a következő feltételek valamelyikének teljesítéséhez kell kötni:
+## 2.[^60] A szülésznőképzésre történő felvételt a következő feltételek valamelyikének teljesítéséhez kell kötni:
 
 ## a) az 1. pont a) alpontja szerinti esetben legalább 12 éves általános iskolai és középiskolai oktatás elvégzése vagy egy szülésznő-képző intézmény ezzel egyenértékű felvételi vizsgájának sikeres letételét tanúsító bizonyítvány;
 
 ## b) az 1. pont b) alpontja szerinti esetben a jogszabály szerinti, általános ápolói képesítés megszerzését tanúsító okirat megléte.
 
-## 3.[^60] A szülésznőképzésnek garantálnia kell, hogy az érintett személy megszerezte a következő ismereteket és készségeket:
+## 3.[^61] A szülésznőképzésnek garantálnia kell, hogy az érintett személy megszerezte a következő ismereteket és készségeket:
 
 ## a) a szülésznői tevékenységek alapját képező tudományok alapos ismerete a szülésznői tevékenység, a szülészet és a nőgyógyászat terén;
 
@@ -454,23 +454,23 @@
 
 ## e) az egészségügyi személyzet képzésének megfelelő ismerete és tapasztalat az ilyen személyzettel végzett munka terén.
 
-2. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^61]
+2. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^62]
 
-[^44]: Az 1. melléklet I. pont 3. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^45]: Az 1. melléklet I. pont 4. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^46]: Az 1. melléklet II. pont 1. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^47]: Az 1. melléklet II/A. pontját az 56/2015. (XII. 17.) EMMI rendelet 3. §-a iktatta be.
-[^48]: Az 1. melléklet III. pont 1. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^49]: Az 1. melléklet III. pont 3. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^50]: Az 1. melléklet III. pont 4. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^51]: Az 1. melléklet III. pont 5. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^52]: Az 1. melléklet III. pont 6. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^53]: Az 1. melléklet III. pont 7. alpontját az 56/2015. (XII. 17.) EMMI rendelet 3. §-a iktatta be.
-[^54]: Az 1. melléklet IV. pont 2. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^55]: Az 1. melléklet V. pont 1. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^56]: Az 1. melléklet VI. pont 2. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^57]: Az 1. melléklet VII. 1. b) pont 1.1.12. alpontja az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^58]: Az 1. melléklet VII. 1. b) pont 1.2.5. alpontja az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^59]: Az 1. melléklet VII. pont 2. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^60]: Az 1. melléklet VII. pont 3. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^61]: A 2. melléklet az 50/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdés a) pontjával megállapított szöveg.
+[^45]: Az 1. melléklet I. pont 3. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^46]: Az 1. melléklet I. pont 4. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^47]: Az 1. melléklet II. pont 1. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^48]: Az 1. melléklet II/A. pontját az 56/2015. (XII. 17.) EMMI rendelet 3. §-a iktatta be.
+[^49]: Az 1. melléklet III. pont 1. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^50]: Az 1. melléklet III. pont 3. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^51]: Az 1. melléklet III. pont 4. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^52]: Az 1. melléklet III. pont 5. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^53]: Az 1. melléklet III. pont 6. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^54]: Az 1. melléklet III. pont 7. alpontját az 56/2015. (XII. 17.) EMMI rendelet 3. §-a iktatta be.
+[^55]: Az 1. melléklet IV. pont 2. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^56]: Az 1. melléklet V. pont 1. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^57]: Az 1. melléklet VI. pont 2. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^58]: Az 1. melléklet VII. 1. b) pont 1.1.12. alpontja az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^59]: Az 1. melléklet VII. 1. b) pont 1.2.5. alpontja az 50/2009. (XII. 30.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^60]: Az 1. melléklet VII. pont 2. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^61]: Az 1. melléklet VII. pont 3. alpontja az 56/2015. (XII. 17.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^62]: A 2. melléklet az 50/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdés a) pontjával megállapított, a 8/2018. (II. 13.) EMMI rendelet 59. § (1) bekezdése szerint módosított szöveg.

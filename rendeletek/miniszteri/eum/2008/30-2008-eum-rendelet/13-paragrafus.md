@@ -8,9 +8,9 @@ b) az oklevél az 1. melléklet szerinti minimális képzési követelményeknek
 
 (3)[^36]
 
-(4)[^37] Ha az (1) bekezdés b) pontja szerinti feltétel tekintetében az ÁEEK szakértőt vesz igénybe, az eljárásra és a szakértő díjazására a 6. §-ban foglaltakat kell alkalmazni.
+(4)[^37] Szükség esetén a minimális képzési követelményeknek való megfelelést az ÁEEK a kérelmező kérelmére, szakértő véleménye alapján állapítja meg.
 
 [^34]: A 13. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 60. § c) pontja szerint módosított szöveg.
 [^35]: A 13. § (2) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 60. § c) pontja szerint módosított szöveg.
 [^36]: A 13. § (3) bekezdését a 14/2014. (III. 10.) EMMI rendelet 6. §-a hatályon kívül helyezte.
-[^37]: A 13. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 60. § c) pontja szerint módosított szöveg.
+[^37]: A 13. § (4) bekezdése a 8/2018. (II. 13.) EMMI rendelet 58. § (5) bekezdésével megállapított szöveg.
