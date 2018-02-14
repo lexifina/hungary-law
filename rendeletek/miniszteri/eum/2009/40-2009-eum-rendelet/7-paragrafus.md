@@ -1,8 +1,10 @@
+## 6. §[^4]
+
 ## Bejelentéshez kötött szakértői tevékenység
 
-7. § (1)[^7] A külön jogszabályban meghatározott esetben az egészségügyi szociális intézmény működésével kapcsolatos eljárásokban szakértőként az jogosult eljárni, aki a 3. mellékletben meghatározott szakterületen a tevékenysége megkezdését és az ellátni kívánt szakterületet bejelenti Budapest Főváros Kormányhivatalának.
+7. § (1)[^5]
 
-(2) Az (1) bekezdés szerinti tevékenységet az a külön jogszabályban foglalt feltételeknek megfelelő és kiemelkedő szakismerettel rendelkező személy végezheti, aki
+(2)[^6] Az egészségügyi szakértői tevékenységgel kapcsolatos hatósági eljárás egyes kérdéseiről szóló 422/2017. (XII. 19.) Korm. rendelet 5. § (1) bekezdése szerinti tevékenységet az a külön jogszabályban foglalt feltételeknek megfelelő és kiemelkedő szakismerettel rendelkező személy végezheti, aki
 
 a) a szakterülethez kapcsolódó egyetemi (főiskolai) végzettséggel és az adott szakterületen legalább 5 éves gyakorlattal, vagy
 
@@ -10,12 +12,9 @@ b) a szakterülethez kapcsolódó középiskolai (szakközépiskolai, technikumi
 
 rendelkezik.
 
-(3) A bejelentéshez a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben, továbbá az egészségügyről szóló törvényben meghatározottakon túl csatolni kell a 2. § (4) bekezdés a)–b) pontja szerinti dokumentumokat, valamint a bejelentő szakmai tevékenységére vonatkozó igazolásokat.
+(3)–(6)[^7]
 
-(4) Az (1) bekezdés szerinti tevékenységet folytatni kívánó szakértő a bejelentést legalább 5 évente megismétli, továbbá külön bejelentést kell tennie akkor is, ha a tevékenységét az eredeti bejelentéstől eltérő szakterületen is folytatni kívánja.
-
-(5) A bejelentést a 2. § (3) bekezdése szerinti elektronikus formanyomtatványon is be lehet nyújtani.
-
-(6) Amennyiben a kérelmező az (1) bekezdés szerinti tevékenységet határon átnyúló szolgáltatás keretében kívánja végezni, a (3) bekezdésben meghatározott dokumentumokon túl csatolnia kell a bejelentéshez a letelepedés szerinti tagállam illetékes hatósága által kiállított szakmai tevékenység végzésére vonatkozó igazolást és szükség esetén annak hiteles fordítását is.
-
-[^7]: A 7. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 68. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^4]: A 6. §-t a 8/2018. (II. 13.) EMMI rendelet 67. § c) pontja hatályon kívül helyezte.
+[^5]: A 7. § (1) bekezdését a 8/2018. (II. 13.) EMMI rendelet 67. § d) pontja hatályon kívül helyezte.
+[^6]: A 7. § (2) bekezdés nyitó szövegrésze a 8/2018. (II. 13.) EMMI rendelet 66. § b) pontja szerint módosított szöveg.
+[^7]: A 7. § (3)–(6) bekezdését a 8/2018. (II. 13.) EMMI rendelet 67. § d) pontja hatályon kívül helyezte.

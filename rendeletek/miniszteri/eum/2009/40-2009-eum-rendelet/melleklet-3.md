@@ -1,19 +1,3 @@
-## Szakértői tevékenység végzésére irányuló kérelem adattartalma
-
-## A kérelmező elérhetősége (telefonszám*, e-mail cím*)
-
-## A szakképesítésre vonatkozó adatok
-
-## Korábbi szakértői engedélyre vonatkozó adatok
-
-## Szakmai tapasztalatra vonatkozó adatok (szakterület, munkáltató)
-
-## Kérelmezett szakterület (szakterületek) megjelölése
-
-## _______
-
-## (* megadása nem kötelező)
-
 3. melléklet a 40/2009. (XI. 20.) EüM rendelethez
 
 Bejelentéshez kötött szakértői tevékenység szakterületei
