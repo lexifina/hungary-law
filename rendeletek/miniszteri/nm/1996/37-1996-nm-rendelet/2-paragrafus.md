@@ -18,6 +18,6 @@ h) a különböző vízbevezetési helyekről származó vizek keverési arány�
 
 i) az üzemelés alatti rendkívüli eseményeket,
 
-j)[^6] a járási hivatal, illetve a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) által foganatosított ellenőrzések időpontját és észrevételeit.
+j)[^7] a járási hivatal, illetve a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) által foganatosított ellenőrzések időpontját és észrevételeit.
 
-[^6]: A 2. § j) pontja a 23/2015. (IV. 28.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^7]: A 2. § j) pontja a 23/2015. (IV. 28.) EMMI rendelet 6. §-ával megállapított szöveg.

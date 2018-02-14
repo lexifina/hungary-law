@@ -10,8 +10,8 @@ c) az ittas,
 
 d) a kábítószer vagy bódító hatású gyógyszer hatása alatt álló
 
-## személy.
+személy.
 
-(2)[^7] A közfürdő területére állat – az őrkutyás biztonsági szolgálat feladatai ellátásához szükséges kutyát és a vakvezető kutyát kivéve – nem vihető be, illetve állat ott nem tartható.
+(2)[^8] A közfürdő területére állat – az őrkutyás biztonsági szolgálat feladatai ellátásához szükséges kutyát és a vakvezető kutyát kivéve – nem vihető be, illetve állat ott nem tartható.
 
-[^7]: A 4. § (2) bekezdése a 2/2006. (I. 26.) EüM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 4. § (2) bekezdése a 2/2006. (I. 26.) EüM rendelet 2. §-ával megállapított szöveg.

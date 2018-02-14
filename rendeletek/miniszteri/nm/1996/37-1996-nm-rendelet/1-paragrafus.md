@@ -14,24 +14,24 @@ c) az időszakos műszaki, vízminőségi ellenőrzésekre és vizsgálatokra,
 
 d) a közfürdő-szolgáltatásokra és közönségforgalomra,
 
-e)[^1] az egészséges és biztonságos munkavégzés feltételeire – ideértve az egyéni védőeszköz juttatás rendjének meghatározását, a munkavédelmi oktatás rendjét, az időszakos ellenőrzés személyi, tárgyi és szervezési feltételeit –, valamint a szolgáltatást igénybevevők balesetének megelőzésére,
+e)[^2] az egészséges és biztonságos munkavégzés feltételeire – ideértve az egyéni védőeszköz juttatás rendjének meghatározását, a munkavédelmi oktatás rendjét, az időszakos ellenőrzés személyi, tárgyi és szervezési feltételeit –, valamint a szolgáltatást igénybevevők balesetének megelőzésére,
 
 f) az előzetes és időszakos egészségügyi vizsgálatokra, illetve ezek betartására
 
-## vonatkozó részletes szabályokat.
+vonatkozó részletes szabályokat.
 
-(4)[^2] Az üzemeltetési szabályzatot a közfürdő fekvése szerint területileg illetékes fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) határozattal hagyja jóvá.
+(4)[^3] Az üzemeltetési szabályzat megfelelőségéről a közfürdő fekvése szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) határoz.
 
 (5) Amennyiben a közfürdő gyógyászati szolgáltatást is nyújt, az üzemeltetési szabályzatban tételesen fel kell sorolni e szolgáltatásokat, a szolgáltatások személyi és tárgyi feltételeit, igénybevételük módját.
 
-(6)[^3] Az üzemeltetési szabályzatban a vonatkozó szabványokat és műszaki irányelveket vagy azzal legalább egyenértékű megoldásokat kell figyelembe venni.
+(6)[^4] Az üzemeltetési szabályzatban a vonatkozó szabványokat és műszaki irányelveket vagy azzal legalább egyenértékű megoldásokat kell figyelembe venni.
 
-(7)[^4] Az üzemeltetési szabályzat munkavédelmi és munkabiztonsági előírásainak elkészítése munkabiztonsági és munka-egészségügyi szaktevékenységnek minősül.
+(7)[^5] Az üzemeltetési szabályzat munkavédelmi és munkabiztonsági előírásainak elkészítése munkabiztonsági és munka-egészségügyi szaktevékenységnek minősül.
 
-(8)[^5] Az egészséges és biztonságos munkavégzés feltételeire vonatkozó kockázatértékelés az üzemeltetési szabályzat részét képezi.
+(8)[^6] Az egészséges és biztonságos munkavégzés feltételeire vonatkozó kockázatértékelés az üzemeltetési szabályzat részét képezi.
 
-[^1]: Az 1. § (3) bekezdésének e) pontja a 2/2006. (I. 26.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 3. § (2) bekezdése alapján a 2006. február 10. napja előtt jóváhagyott üzemeltetési szabályzatot 2006. május 1-jéig felül kell vizsgálni.
-[^2]: Az 1. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 7. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (6) bekezdését a 2/2006. (I. 26.) EüM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 3. § (2) bekezdése alapján a 2006. február 10. napja előtt jóváhagyott üzemeltetési szabályzatot 2006. május 1-jéig felül kell vizsgálni.
-[^4]: Az 1. § (7) bekezdését a 2/2006. (I. 26.) EüM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 3. § (2) bekezdése alapján a 2006. február 10. napja előtt jóváhagyott üzemeltetési szabályzatot 2006. május 1-jéig felül kell vizsgálni.
-[^5]: Az 1. § (8) bekezdését a 2/2006. (I. 26.) EüM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 3. § (2) bekezdése alapján a 2006. február 10. napja előtt jóváhagyott üzemeltetési szabályzatot 2006. május 1-jéig felül kell vizsgálni.
+[^2]: Az 1. § (3) bekezdésének e) pontja a 2/2006. (I. 26.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 3. § (2) bekezdése alapján a 2006. február 10. napja előtt jóváhagyott üzemeltetési szabályzatot 2006. május 1-jéig felül kell vizsgálni.
+[^3]: Az 1. § (4) bekezdése a 8/2018. (II. 13.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^4]: Az 1. § (6) bekezdését a 2/2006. (I. 26.) EüM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 3. § (2) bekezdése alapján a 2006. február 10. napja előtt jóváhagyott üzemeltetési szabályzatot 2006. május 1-jéig felül kell vizsgálni.
+[^5]: Az 1. § (7) bekezdését a 2/2006. (I. 26.) EüM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 3. § (2) bekezdése alapján a 2006. február 10. napja előtt jóváhagyott üzemeltetési szabályzatot 2006. május 1-jéig felül kell vizsgálni.
+[^6]: Az 1. § (8) bekezdését a 2/2006. (I. 26.) EüM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 3. § (2) bekezdése alapján a 2006. február 10. napja előtt jóváhagyott üzemeltetési szabályzatot 2006. május 1-jéig felül kell vizsgálni.
