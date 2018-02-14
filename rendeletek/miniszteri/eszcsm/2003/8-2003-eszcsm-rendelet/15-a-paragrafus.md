@@ -1,6 +1,6 @@
-## 15. §[^42] Az OGYÉI eljárására az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény rendelkezéseit kell alkalmazni. Az OGYÉI határozata ellen államigazgatási úton jogorvoslatnak helye nincs.
+## 15. §[^36]
 
-## Európai Adatbank[^43]
+## Európai Adatbank[^37]
 
-[^42]: A 15. § az 54/2016. (XII. 30.) EMMI rendelet 29. § e) pontja szerint módosított szöveg.
-[^43]: A 15/A. §-t megelőző alcímet a 29/2011. (VI. 7.) NEFMI rendelet 7. § -a iktatta be.
+[^36]: A 15. §-t a 8/2018. (II. 13.) EMMI rendelet 13. § c) pontja hatályon kívül helyezte.
+[^37]: A 15/A. §-t megelőző alcímet a 29/2011. (VI. 7.) NEFMI rendelet 7. § -a iktatta be.

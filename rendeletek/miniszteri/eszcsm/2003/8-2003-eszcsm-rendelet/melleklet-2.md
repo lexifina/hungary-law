@@ -8,7 +8,7 @@
 
 1.2. Reagensek és reagens származékok, beleértve a megfelelő kalibráló és kontrol anyagokat, a HIV fertőzés (HIV 1 és 2), HTLV I és II, valamint hepatitis B,C és D markerek kimutatására, megerősítésére és mennyiségi meghatározására humán mintákban.
 
-1.3.[^50] A variáns Creutzfeldt–Jakob-betegség (vCJD) kimutatására szolgáló, a vérminták szűrővizsgálatához, a diagnózishoz és a diagnózis megerősítéséhez alkalmazott vizsgálatok.
+1.3.[^44] A variáns Creutzfeldt–Jakob-betegség (vCJD) kimutatására szolgáló, a vérminták szűrővizsgálatához, a diagnózishoz és a diagnózis megerősítéséhez alkalmazott vizsgálatok.
 
 2. ,,B'' lista
 
@@ -30,4 +30,4 @@
 
 2.9. A következő önellenőrzésre szolgáló eszköz, beleértve annak megfelelő kalibráló és kontrol anyagait: vércukor mérésére szolgáló eszköz.
 
-[^50]: A 2. számú melléklet 1. „A” lista 1.3. pontját a 21/2012. (IX. 4.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^44]: A 2. számú melléklet 1. „A” lista 1.3. pontját a 21/2012. (IX. 4.) EMMI rendelet 2. § (2) bekezdése iktatta be.
