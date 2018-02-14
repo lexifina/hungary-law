@@ -1,0 +1,1 @@
+## „(10) Honvédelmi és katonai rendeltetésű területet érintően az érintett államigazgatási szerv egyetértésével kizárólag egyedi építészeti követelmény határozható meg a közterületi telekkel azonos telekhatáron álló vagy azzal érintkező épületre.”
