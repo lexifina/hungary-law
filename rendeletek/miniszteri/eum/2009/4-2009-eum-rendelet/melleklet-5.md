@@ -30,7 +30,7 @@
 
 ## A gyártó – a kijelölt szervezet felelősségére – a gyártás során feltüntetheti a kijelölt szervezet azonosítási számát.
 
-## 7.[^108] Adminisztratív előírások
+## 7.[^95] Adminisztratív előírások
 
 ## A gyártónak vagy meghatalmazott képviselőjének az utolsó termék gyártásától számított legalább öt évig, beültethető eszközök esetén legalább tizenöt évig az OGYÉI rendelkezésére kell tudni bocsátania:
 
@@ -86,4 +86,4 @@
 
 5. melléklet a 4/2009. (III. 17.) EüM rendelethez
 
-[^108]: A 4. melléklet A. pont 7. alpontja az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^95]: A 4. melléklet A. pont 7. alpontja az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.

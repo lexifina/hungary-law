@@ -4,7 +4,7 @@
 
 1. A gyártói EK megfelelőségi nyilatkozat az az eljárás, amelynek során a gyártó vagy meghatalmazott képviselője, aki a 2. pontban hivatkozott kötelezettségeket teljesíti, valamint steril állapotban, illetve mérőfunkcióval rendelkező termékek forgalomba hozatala esetében az 5. pontban hivatkozott kötelezettségeket teljesíti, biztosítja és nyilatkozik arról, hogy az érintett termékek kielégítik e rendelet rájuk vonatkozó előírásait.
 
-2.[^109] A gyártónak össze kell állítania a 3. pontban felsorolt műszaki dokumentációt. A gyártó vagy meghatalmazott képviselője a dokumentációt, amelynek része az EK megfelelőségi nyilatkozat, – kérésre – az OGYÉI rendelkezésére bocsátja ellenőrzés céljából az utolsó termék gyártásától számított legalább 5 évig, beültethető eszközök esetében pedig az utolsó termék gyártásától számított legalább 15 évig. Ha sem a gyártónak, sem meghatalmazott képviselőjének nincs magyarországi telephelye, a fenti dokumentáció megőrzési kötelezettsége a termék forgalmazójára hárul.
+2.[^96] A gyártónak össze kell állítania a 3. pontban felsorolt műszaki dokumentációt. A gyártó vagy meghatalmazott képviselője a dokumentációt, amelynek része az EK megfelelőségi nyilatkozat, – kérésre – az OGYÉI rendelkezésére bocsátja ellenőrzés céljából az utolsó termék gyártásától számított legalább 5 évig, beültethető eszközök esetében pedig az utolsó termék gyártásától számított legalább 15 évig. Ha sem a gyártónak, sem meghatalmazott képviselőjének nincs magyarországi telephelye, a fenti dokumentáció megőrzési kötelezettsége a termék forgalmazójára hárul.
 
 3. A műszaki dokumentációnak lehetővé kell tennie annak a kiértékelését, hogy a termék e rendelet követelményeinek megfelel-e. A műszaki dokumentációnak a következőket kell tartalmaznia:
 
@@ -28,7 +28,7 @@ i) a 10. melléklet szerinti klinikai értékelést;
 
 j) a címkét és a használati útmutatókat.
 
-4.[^110] A gyártónak vállalnia kell, hogy olyan módszeres eljárást hoz létre és tart naprakész állapotban, amellyel felülvizsgálja az eszközről a gyártás után, valamint a 10. melléklet előírásai szerint szerzett tapasztalatokat, és intézkedik a megfelelő módosítások bevezetéséről a szükséges korrekció érdekében, figyelembe véve az eszköz jellegét és az alkalmazással járó kockázatokat. Ez a vállalás arra is kötelezi a gyártót, hogy a 21. §-ban foglaltaknak megfelelően haladéktalanul jelentse az OGYÉI-nek az ott részletezett eseményeket.
+4.[^97] A gyártónak vállalnia kell, hogy olyan módszeres eljárást hoz létre és tart naprakész állapotban, amellyel felülvizsgálja az eszközről a gyártás után, valamint a 10. melléklet előírásai szerint szerzett tapasztalatokat, és intézkedik a megfelelő módosítások bevezetéséről a szükséges korrekció érdekében, figyelembe véve az eszköz jellegét és az alkalmazással járó kockázatokat. Ez a vállalás arra is kötelezi a gyártót, hogy a 21. §-ban foglaltaknak megfelelően haladéktalanul jelentse az OGYÉI-nek az ott részletezett eseményeket.
 
 5. Az I. osztályba sorolt, steril állapotban, illetve mérőfunkcióval rendelkező eszközök forgalomba hozatala esetén a gyártónak nemcsak az ebben a mellékletben lefektetett előírásokat kell betartania, hanem a 2., 4., 5. vagy 6. mellékletben hivatkozott valamelyik eljárást is. Ezeknek a mellékleteknek az alkalmazása és a kijelölt szervezet közreműködése a következőkre korlátozódik:
 
@@ -44,5 +44,5 @@ A 13. § (2) bekezdésének megfelelően jelen melléklet vonatkozhat a II.a cso
 
 6.1. Amennyiben ezt a mellékletet a 4., 5. vagy 6. mellékletben hivatkozott eljárással együtt alkalmazzák, az azokban, valamint a jelen mellékletben hivatkozott megfelelőségi nyilatkozatokat egyetlen nyilatkozat formájában kell kiadni. Ha ez a nyilatkozat e mellékleten alapul, akkor a gyártónak kell biztosítania, illetve kell nyilatkoznia arról, hogy a termékek kialakítása megfelel e rendelet vonatkozó előírásainak.
 
-[^109]: A 7. melléklet 2. pontja az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^110]: A 7. melléklet 4. pontja az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^96]: A 7. melléklet 2. pontja az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^97]: A 7. melléklet 4. pontja az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés g) pontja szerint módosított szöveg.
