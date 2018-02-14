@@ -1,3 +1,3 @@
-## 12. §[^75] A párhuzamos import tevékenység magában foglalja az ilyen módon behozni kívánt gyógyszer származási tagállamban történő beszerzését, a származási tagállamból kizárólag a hazai forgalomba hozatal érdekében történő behozatalát, átcsomagolását, minőségbiztosítását, minőségértékelését, eladható készletbe helyezését, tárolását, készletezését, a megrendelőhöz való eljuttatását, forgalomból történő kivonásának végrehajtását, nyilvántartását, továbbá a párhuzamos importtal behozni kívánt gyógyszerrel kapcsolatos adatszolgáltatást és információátadást.
+## 12. §[^61]
 
-[^75]: A 12. § a 47/2015. (X. 19.) EMMI rendelet 15. § b) pontja szerint módosított szöveg.
+[^61]: A 12. §-t a 8/2018. (II. 13.) EMMI rendelet 25. § c) pontja hatályon kívül helyezte.
