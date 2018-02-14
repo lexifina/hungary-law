@@ -6,7 +6,7 @@ a) nem végezhet, vagy
 
 b) csak felügyelet mellett végezhet.
 
-(2)[^43] Az (1) bekezdés szerinti esetben a határozatban – ha az lehetséges – fel kell tüntetni az egészségügyi tevékenységvégzés tilalmának időtartamát, valamint az arra vonatkozó tájékoztatást, hogy milyen feltételek teljesítése szükséges ahhoz, hogy az ügyfél önállóan egészségügyi tevékenységet végezhessen. Az (1) bekezdés b) pontja szerinti esetben a határozat arra vonatkozó tájékoztatást is tartalmaz, hogy ha a határozat jogerőre emelkedését követően az ügyfél egészségügyi tevékenységet kíván végezni, úgy a tevékenység megkezdésétől számított 30 napon belül be kell jelentenie a felügyeletét ellátó személy nevét és működési nyilvántartási számát.
+(2)[^43] Az (1) bekezdés szerinti esetben a határozatban – ha az lehetséges – fel kell tüntetni az egészségügyi tevékenységvégzés tilalmának időtartamát, valamint az arra vonatkozó tájékoztatást, hogy milyen feltételek teljesítése szükséges ahhoz, hogy az ügyfél önállóan egészségügyi tevékenységet végezhessen. Az (1) bekezdés b) pontja szerinti esetben a határozat arra vonatkozó tájékoztatást is tartalmaz, hogy ha a határozat véglegessé válását követően az ügyfél egészségügyi tevékenységet kíván végezni, úgy a tevékenység megkezdésétől számított 30 napon belül be kell jelentenie a felügyeletét ellátó személy nevét és működési nyilvántartási számát.
 
 (3)[^44] Az Eütv. 113/A. § (1) bekezdés c) és d) pontja esetében az egészségügyi államigazgatási szerv határozatát közli az ÁEEK-kel.
 
@@ -14,6 +14,6 @@ b) csak felügyelet mellett végezhet.
 
 [^41]: A 8/C. §-t az 51/2008. (XII. 31.) EüM rendelet 7. §-a iktatta be, szövege az 57/2011. (IX. 29.) NEFMI rendelet 10. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) és e) pontja szerint módosított szöveg.
 [^42]: A 8/D. §-t az 51/2008. (XII. 31.) EüM rendelet 7. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. január 1-jét követően benyújtott kérelmek esetén kell alkalmazni.
-[^43]: A 8/D. § (2) bekezdése az 57/2011. (IX. 29.) NEFMI rendelet 16. § c) pontja szerint módosított szöveg.
+[^43]: A 8/D. § (2) bekezdése az 57/2011. (IX. 29.) NEFMI rendelet 16. § c) pontja, a 8/2018. (II. 13.) EMMI rendelet 45. § b) pontja szerint módosított szöveg.
 [^44]: A 8/D. § (3) bekezdését az 57/2011. (IX. 29.) NEFMI rendelet 11. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés i) pontja szerint módosított szöveg.
 [^45]: A 8/D. § (4) bekezdését az 57/2011. (IX. 29.) NEFMI rendelet 11. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) és g) pontja szerint módosított szöveg.
