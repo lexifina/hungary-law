@@ -1,0 +1,1 @@
+A Kormány a Magyarország Kormánya és Kecskemét Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1131/2016. (III. 10.) Korm. határozat 2. pont a) alpontjának megvalósítása céljából
