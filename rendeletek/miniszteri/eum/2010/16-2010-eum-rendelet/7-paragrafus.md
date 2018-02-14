@@ -24,11 +24,11 @@ c) a 3. melléklet szerinti személyi és tárgyi feltételek meglétét igazol�
 
 d)[^30] az egyetem támogató nyilatkozatát a szolgáltató teljes vagy részbeni akkreditálására.
 
-(6)[^31] Az akkreditációs eljárásban az ÁEEK az Egészségügyi Szakképzési és Továbbképzési Tanácsot (a továbbiakban: ESZTT) szakértőként veszi igénybe.
+(6)[^31] Az akkreditációs eljárásban az ÁEEK az Egészségügyi Szakképzési és Továbbképzési Tanácsot (a továbbiakban: ESZTT) – szükség esetén – szakértőként veszi igénybe.
 
 (7)[^32] Az akkreditáció 4 évre szól. Az ÁEEK az akkreditált egészségügyi szolgáltatók listáját az akkreditáció típusának megjelölésével a honlapján folyamatosan hozzáférhetővé teszi.
 
-(8)[^33] A 3. melléklet szerinti személyi és tárgyi feltételekben bekövetkezett változásról a szakképző hely az ÁEEK-et tizenöt napon belül értesíti. Az ÁEEK az értesítés kézhezvételétől számított harminc napon belül dönt az akkreditáció további fenntartásáról vagy megszüntetéséről.
+(8)[^33] A 3. melléklet szerinti személyi és tárgyi feltételekben bekövetkezett változásról a szakképző hely az ÁEEK-et tizenöt napon belül értesíti.
 
 [^22]: A III. Fejezet címe a 34/2015. (VI. 30.) EMMI rendelet 18. § 7. pontja szerint módosított szöveg.
 [^23]: A 7. § (1) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
@@ -39,6 +39,6 @@ d)[^30] az egyetem támogató nyilatkozatát a szolgáltató teljes vagy részbe
 [^28]: A 7. § (4b) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 1. §-a iktatta be, szövege a 34/2015. (VI. 30.) EMMI rendelet 18. § 6. pontja szerint módosított szöveg.
 [^29]: A 7. § (5) bekezdése a 2/2013. (I. 2.) EMMI rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^30]: A 7. § (5) bekezdés d) pontja a 34/2015. (VI. 30.) EMMI rendelet 18. § 3. pontja szerint módosított szöveg.
-[^31]: A 7. § (6) bekezdése a 2/2013. (I. 2.) EMMI rendelet 12. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 72. § b) pontja szerint módosított szöveg.
+[^31]: A 7. § (6) bekezdése a 2/2013. (I. 2.) EMMI rendelet 12. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 72. § b) pontja, a 8/2018. (II. 13.) EMMI rendelet 68. §-a szerint módosított szöveg.
 [^32]: A 7. § (7) bekezdését a 2/2013. (I. 2.) EMMI rendelet 12. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 72. § b) pontja szerint módosított szöveg.
-[^33]: A 7. § (8) bekezdését a 2/2013. (I. 2.) EMMI rendelet 12. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 72. § b) és f) pontja szerint módosított szöveg.
+[^33]: A 7. § (8) bekezdését a 2/2013. (I. 2.) EMMI rendelet 12. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 72. § b) és f) pontja, a 8/2018. (II. 13.) EMMI rendelet 69. § a) pontja szerint módosított szöveg.
