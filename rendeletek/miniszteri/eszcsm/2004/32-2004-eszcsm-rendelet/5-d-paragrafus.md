@@ -1,6 +1,3 @@
-5/D. §[^51] (1) Az 5/C. §-ban foglalt felülvizsgálati eljárás során a közfinanszírozás alapjául elfogadott elvárt ár megjelölésekor a fix csoportba tartozó termék esetén elvárt referencia ár is megadható.
+5/D. §[^23]
 
-(2)[^52] Az OGYÉI az adott termék költséghatékonyságának vizsgálatakor vizsgálja a termék költséghatékonyságát a terápiás területen található többi termék költséghatékonyságával összevetve, és figyelembe veszi a termék gyógyszertámogatás kiadásaira gyakorolt nettó hatását is.
-
-[^51]: Az 5/D. §-t a 30/2010. (XII. 30.) NEFMI rendelet 1. §-a iktatta be.
-[^52]: Az 5/D. § (2) bekezdése a 10/2015. (II. 23.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
+[^23]: Az 5/D. §-t a 30/2010. (XII. 30.) NEFMI rendelet 1. §-a iktatta be, hatályon kívül helyezte a 8/2018. (II. 13.) EMMI rendelet 20. § d) pontja.
