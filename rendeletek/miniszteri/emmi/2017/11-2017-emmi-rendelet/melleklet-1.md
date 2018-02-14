@@ -1,4 +1,4 @@
-## 17–18. §[^1]
+## 17–18. §[^3]
 
 1. melléklet a 11/2017. (VI. 12.) EMMI rendelethez
 
@@ -68,4 +68,4 @@
 
 3.4. e-mail.
 
-[^1]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
