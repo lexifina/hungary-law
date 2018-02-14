@@ -1,0 +1,3 @@
+## 38. § Hatályát veszti az egészségügyi miniszter által szabályozott, mérgező termékek felhasználását igénylő szakmai tevékenységek szakmai gyakorlaton alapuló elismeréséről, és az egészségügyi gázmesteri tevékenységről, valamint az egészségügyi gázmester szakmai és vizsgakövetelményeinek kiadásáról szóló 19/1997. (VII. 4.) NM rendelet módosításáról szóló 17/2005. (V. 19.) EüM rendelet módosításáról szóló 8/2007. (II. 13.) EüM rendelet.
+
+## 27. Az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendelet módosításáról szóló 9/2007. (II. 15.) EüM rendelet hatályon kívül helyezése

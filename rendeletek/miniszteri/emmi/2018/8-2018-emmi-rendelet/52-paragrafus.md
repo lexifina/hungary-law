@@ -1,0 +1,3 @@
+## 51. § Hatályát veszti a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet módosításáról szóló 38/2007. (VII. 25.) EüM rendelet.
+
+## 38. A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet módosításáról szóló 39/2007. (VII. 25.) EüM rendelet hatályon kívül helyezése

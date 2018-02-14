@@ -1,0 +1,3 @@
+## 47. § Hatályát veszti a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet módosításáról szóló 24/2007. (V. 24.) EüM rendelet.
+
+## 34. A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet módosításáról, valamint a gyógyszerek társadalombiztosítási támogatása megállapításának egyes átmeneti szabályairól szóló 25/2007. (VI. 7.) EüM rendelet hatályon kívül helyezése

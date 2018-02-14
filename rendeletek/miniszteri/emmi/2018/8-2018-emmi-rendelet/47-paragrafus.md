@@ -1,0 +1,3 @@
+## 46. § Hatályát veszti a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet módosításáról szóló 22/2007. (V. 11.) EüM rendelet.
+
+## 33. A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet módosításáról szóló 24/2007. (V. 24.) EüM rendelet hatályon kívül helyezése

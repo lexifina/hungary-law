@@ -1,0 +1,1 @@
+## 56. A hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végezhető egészségügyi tevékenység engedélyezésére vonatkozó szabályokról szóló 42/2015. (IX. 18.) EMMI rendelet hatályon kívül helyezése

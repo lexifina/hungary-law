@@ -1,0 +1,3 @@
+## 37. § Hatályát veszti a kozmetikai termékek biztonságosságáról, gyártási, forgalmazási feltételeiről és közegészségügyi ellenőrzéséről szóló 40/2001. (XI. 23.) EüM rendelet módosításáról szóló 48/2006. (XII. 28.) EüM rendelet.
+
+## 26. Az egészségügyi miniszter által szabályozott, mérgező termékek felhasználását igénylő szakmai tevékenységek szakmai gyakorlaton alapuló elismeréséről, és az egészségügyi gázmesteri tevékenységről, valamint az egészségügyi gázmester szakmai és vizsgakövetelményeinek kiadásáról szóló 19/1997. (VII. 4.) NM rendelet módosításáról szóló 17/2005. (V. 19.) EüM rendelet módosításáról szóló 8/2007. (II. 13.) EüM rendelet hatályon kívül helyezése

@@ -1,0 +1,1 @@
+## 9. Az egészségügyi szakellátási kötelezettségről, továbbá egyes egészségügyet érintő törvények módosításáról szóló 2001. évi XXXIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 11/2002. (III. 26.) EüM rendelet módosításáról szóló 58/2003. (IX. 30.) ESZCSM rendelet hatályon kívül helyezése
