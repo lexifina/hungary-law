@@ -26,7 +26,7 @@
 
 | 12. | Az Eütv. 114. § (2) bekezdés j) pontja szerinti adatok | Nemzeti Foglalkoztatási Szolgálat | havonta |
 
-| 13. |  | Közigazgatási és Igazságügyi Hivatal | havonta |
+| 13. |  | Nemzeti Szakértői és Kutató Központ | havonta |
 
 | 14. | Az Eütv. 114. § (2) bekezdés k) pontja szerinti adatok | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | negyedévente |
 
