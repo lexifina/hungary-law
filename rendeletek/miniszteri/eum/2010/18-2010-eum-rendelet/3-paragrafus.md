@@ -1,5 +1,5 @@
-## 2/A. §[^5] A megfelelőségértékelési tevékenység végzésére vonatkozó kijelölés a 3. mellékletben meghatározott szakterületekre terjedhet ki, megjelölve az adott kijelölési szakterületen belül az eszközcsoportokra vagy a megfelelőségértékelési eljárásokra vonatkozó esetleges korlátozásokat.
+## 2/A. §[^3] A megfelelőségértékelési tevékenység végzésére vonatkozó kijelölés a 3. mellékletben meghatározott szakterületekre terjedhet ki, megjelölve az adott kijelölési szakterületen belül az eszközcsoportokra vagy a megfelelőségértékelési eljárásokra vonatkozó esetleges korlátozásokat.
 
 ## 3. A megfelelőségértékelési tevékenységre vonatkozó engedély időbeli hatálya
 
-[^5]: A 2/A. §-t a 67/2011. (XII. 13.) NEFMI rendelet 16. §-a iktatta be.
+[^3]: A 2/A. §-t a 67/2011. (XII. 13.) NEFMI rendelet 16. §-a iktatta be.
