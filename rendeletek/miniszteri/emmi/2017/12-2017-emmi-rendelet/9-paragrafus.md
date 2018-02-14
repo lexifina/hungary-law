@@ -6,4 +6,6 @@
 
 (3) A (2) bekezdés szerinti adatokat a megyei kormányhivatal összesíti, majd az összesített nyilvántartást minden év április 1-jéig megküldi az országos tisztifőorvosnak és tájékoztatásul az országos környezetvédelmi hatóság részére.
 
-(4) A járási hivatal ellenőrzési terv szerint végzi az egészségügyi szolgáltatóknak az egészségügyi hulladék kezelésével és nyilvántartásával kapcsolatos tevékenységének ellenőrzését.
+(4)[^2]
+
+[^2]: A 9. § (4) bekezdését a 8/2018. (II. 13.) EMMI rendelet 82. §-a hatályon kívül helyezte.
