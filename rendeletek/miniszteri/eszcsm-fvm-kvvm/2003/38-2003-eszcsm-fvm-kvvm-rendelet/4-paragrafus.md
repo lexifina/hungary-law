@@ -1,5 +1,4 @@
-4. §[^8] (1) Az e rendelet szerint nem engedélyköteles biocid terméket a gyártó vagy a Magyarország területére importáló a méregfelügyeleti nyilvántartás, valamint a biocid termékek nyilvántartása céljából a gyártás vagy az import megkezdésétől számított 90 napon belül bejelenti az országos tisztifőorvosnak. Ha a biocid termék e rendelet szerint csak engedély birtokában forgalmazható, a termék bejelentését a benne található hatóanyag vagy hatóanyagok közül az utolsó jóváhagyásának az időpontjáig csak érvényes és hatályos engedély birtokában lehet megtenni. A biocid terméknyilvántartásra az 528/2012/EU európai parlamenti és tanácsi rendelet 66. cikke szerinti bizalmas adatkezelésre vonatkozó rendelkezéseket kell alkalmazni.
+4. §[^10] (1)–(2)[^11]
 
-(2) Az (1) bekezdés szerinti bejelentést elektronikus úton a 10. számú melléklet szerinti tartalommal, a Szakrendszeri Információs Rendszer által biztosított módon kell megtenni. A bejelentés adatainak változását az (1) bekezdés megfelelő alkalmazásával szintén jelenteni kell. A bejelentés fogadásáról az országos tisztifőorvos 15 napon belül visszaigazolást küld.
-
-[^8]: A 4. §-t megelőző alcímet a 32/2014. (IV. 18.) EMMI rendelet 11. § a) pontja hatályon kívül helyezte. A 4. § az 54/2016. (XII. 30.) EMMI rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^10]: A 4. §-t megelőző alcímet a 32/2014. (IV. 18.) EMMI rendelet 11. § a) pontja hatályon kívül helyezte. A 4. § az 54/2016. (XII. 30.) EMMI rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^11]: A 4. § (1)–(2) bekezdését a 8/2018. (II. 13.) EMMI rendelet 14. § b) pontja hatályon kívül helyezte.
