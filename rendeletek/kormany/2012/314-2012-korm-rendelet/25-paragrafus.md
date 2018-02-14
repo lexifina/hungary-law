@@ -4,12 +4,15 @@
 
 (2) A települési önkormányzat a településképi rendeletben a szakmai konzultációt kötelezővé teheti.
 
-(3) Az (1) bekezdés szerinti szakmai konzultáció – figyelemmel a településkép védelméről szóló 2016. évi LXXIV. törvény 14. § (2) bekezdésére – a hatályos településrendezési eszközben található településképi és egyéb követelményekre is kiterjedhet.
+(3)[^76] Az (1) bekezdés szerinti szakmai konzultáció a hatályos településrendezési eszközben foglalt előírásokra is kiterjedhet.
 
-(4) A településképi szakmai konzultáció az önkormányzati főépítész, illetve amennyiben önkormányzati főépítész folyamatos foglalkoztatására nem kerül sor, a polgármester feladata.
+(4)[^77] A településképi szakmai konzultáció az önkormányzati főépítész, illetve amennyiben önkormányzati főépítész foglalkoztatására nem kerül sor, a polgármester feladata.
 
 (5) A (4) bekezdés szerinti konzultációról a konzultáció felelőse emlékeztetőt készít, amelyben rögzíteni kell a felvetett javaslatok lényegét, valamint az önkormányzati főépítész vagy a polgármester lényeges nyilatkozatait.
 
 (6) Az (5) bekezdés szerinti emlékeztetőben rögzített, (4) bekezdés szerinti nyilatkozatok kötik a települési önkormányzatot a településképi véleményezési, bejelentési és kötelezési eljárás során.
 
 (7) A települési önkormányzat a településképi konzultációért, tájékoztatásért díjat nem számíthat fel.
+
+[^76]: A 25. § (3) bekezdése a 16/2018. (II. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^77]: A 25. § (4) bekezdése a 16/2018. (II. 13.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.

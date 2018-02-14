@@ -1,1 +1,6 @@
+## 46/E. §[^176] E rendeletnek a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet és a településkép védelméről szóló törvény reklámok közzétételével kapcsolatos rendelkezéseinek végrehajtásáról szóló 104/2017. (IV. 28.) Korm. rendelet módosításáról szóló 16/2018. (II. 13.) Korm. rendelettel (a továbbiakban: Mód.Kr.5.) megállapított rendelkezéseit, a 22. § (10) bekezdés és a 43/A. § (6) bekezdés kivételével a Mód.Kr.5. hatálybalépésekor[^177] folyamatban lévő kézikönyv és településképi rendelet egyeztetése során is alkalmazni kell.
+
 ## 34. Módosuló és hatályon kívül helyező rendelkezések
+
+[^176]: A 46/E. §-t a 16/2018. (II. 13.) Korm. rendelet 13. §-a iktatta be.
+[^177]: A hatálybalépés időpontja 2018. február 14.

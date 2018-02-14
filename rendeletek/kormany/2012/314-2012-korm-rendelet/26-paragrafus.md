@@ -12,9 +12,9 @@ b) ha az eljárás lefolytatásának részletes szabályairól az önkormányzat
 
 ba) véleményét mely esetekben alapozza önkormányzati főépítész vagy helyi építészeti-műszaki tervtanács (a továbbiakban: helyi tervtanács) szakmai álláspontjára,
 
-bb) melyek a véleményezés részletes szempontjai, és
+bb)[^78] melyek a véleményezés részletes szempontjai.
 
-bc) helyi tervtanács működtetése esetén melyek a működés és az eljárás részletes szabályai.
+bc)[^79]
 
 (2) A polgármester építmény építésére, bővítésére, településképet érintő átalakítására irányuló építési, összevont vagy fennmaradási engedélyezési eljárásokhoz adhat településképi véleményt. A fővárosban a fővárosi helyi egyedi védelem alá vont építmények esetében az első fokú építésügyi hatósági eljárásokhoz a főpolgármester adhat településképi véleményt.
 
@@ -27,3 +27,6 @@ b) a településképi rendelet hiányában a telepítés (a környezetbe illeszk
 c) a közterület mentén az épület kialakításának módját és feltételeit,
 
 d) közterületen folytatott építési tevékenység végzése esetén a közterület burkolatának, műtárgyainak, köztárgyainak, növényzetének, továbbá a díszvilágító berendezések és reklámhordozók kialakítását.
+
+[^78]: A 26. § (1) bekezdés b) pont bb) alpontja a 16/2018. (II. 13.) Korm. rendelet 14. § 9. pontja szerint módosított szöveg.
+[^79]: A 26. § (1) bekezdés b) pont bc) alpontját a 16/2018. (II. 13.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.

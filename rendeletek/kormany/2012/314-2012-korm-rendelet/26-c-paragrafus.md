@@ -1,15 +1,23 @@
-## 26/C. §[^69] A polgármester a bejelentést követő 15 napon belül hatósági határozatban
+26/C. §[^92] (1) A polgármester a bejelentést követően, az Ákr. szerinti teljes eljárásban a településkép védelméről szóló 2016. évi LXXIV. törvényben (a továbbiakban: Tvtv.) meghatározott határidőn belül
 
-a) a tervezett építési tevékenységet, reklám, reklámhordozó elhelyezését vagy rendeltetésváltoztatást – feltétel meghatározásával vagy anélkül – tudomásul veszi, ha a bejelentés
+a) a tervezett építési tevékenységet, reklám és reklámhordozó elhelyezését vagy rendeltetésváltoztatást – feltétel meghatározásával vagy anélkül – tudomásul veszi, ha a bejelentés
 
-aa) megfelel a 26/B. § (2) és (3) bekezdésben meghatározott követelményeknek, és
+aa) megfelel a 26/B. § (2) és (3) bekezdésében meghatározott követelményeknek,
 
-ab) a tervezett építési tevékenység vagy rendeltetésváltoztatás illeszkedik a településképbe és megfelel a településképi követelményeknek, a tervezett reklámhordozó elhelyezése illeszkedik a településképbe, megfelel a településképi követelményeknek, valamint a reklám-elhelyezési rendeletben foglalt elhelyezési követelményeknek,
+ab) a tervezett építési tevékenység illeszkedik a településképbe és megfelel a településképi követelményeknek, a tervezett reklám, reklámhordozó elhelyezése illeszkedik a településképbe, megfelel a településképi követelményeknek, valamint a reklám-elhelyezési rendeletben foglalt elhelyezési követelményeknek, és
 
-b) megtiltja az építési tevékenységet, reklám, reklámhordozó elhelyezését vagy rendeltetésváltoztatás megkezdését, és – a megtiltás indokainak ismertetése mellett – figyelmezteti a bejelentőt a tevékenység bejelentés nélküli elkezdésének és folytatásának jogkövetkezményeire, ha a bejelentés
+ac) a tervezett rendeltetésváltozás megfelel a helyi építési szabályzatban foglalt követelményeknek;
 
-ba) nem felel meg a 26/B. § (2) és (3) bekezdésében meghatározott követelményeknek, vagy
+b) megtiltja az építési tevékenységet, reklám és reklámhordozó elhelyezését vagy rendeltetésváltoztatás megkezdését, és – a megtiltás indokainak ismertetése mellett – figyelmezteti a bejelentőt a tevékenység bejelentés nélküli elkezdésének és folytatásának jogkövetkezményeire, ha
 
-bb) a tervezett építési tevékenység vagy rendeltetésváltoztatás nem illeszkedik a településképbe, vagy nem felel meg a településképi és rendeltetésváltozás esetén a településrendezési eszközben foglalt követelménynek, reklámhordozó elhelyezése esetén nem illeszkedik a településképbe, nem felel meg a településképi követelménynek vagy nem felel meg a reklám-elhelyezési rendeletben foglalt elhelyezési követelményeknek.
+ba) a tervezett építési tevékenység nem illeszkedik a településképbe, vagy nem felel meg a településképi követelménynek,
 
-[^69]: A 26/C. § a 105/2017. (IV. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+bb) a tervezett reklám, reklámhordozó elhelyezése esetén nem illeszkedik a településképbe, nem felel meg a településképi követelménynek, vagy nem felel meg a reklám-elhelyezési rendeletben foglalt elhelyezési követelményeknek,
+
+bc) a tervezett rendeltetésváltozás nem felel meg a helyi építési szabályzatban foglalt követelményeknek;
+
+c) megszünteti az eljárást, ha a kérelem és melléklete nem felel meg a 26/B. § (2) és (3) bekezdésében meghatározott követelményeknek, vagy az eljárás okafogyottá válik.
+
+(2) A polgármester az Ákr. 120. § (1) bekezdése alapján a hatósági határozatot hivatalból a jóhiszeműen szerzett és gyakorolt jogok sérelmével is módosíthatja vagy visszavonhatja.
+
+[^92]: A 26/C. § a 16/2018. (II. 13.) Korm. rendelet 7. §-ával megállapított szöveg.

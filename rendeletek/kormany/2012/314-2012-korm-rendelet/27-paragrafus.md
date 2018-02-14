@@ -1,5 +1,3 @@
-## 26/E. § A polgármester a helyi önkormányzati rendeletben meghatározott településképi követelmények teljesítése érdekében a közigazgatási hatósági eljárásról és szolgáltatásról szóló törvény szabályai alapján – hivatalból vagy kérelemre – kötelezési eljárást folytat le és szükség esetén kötelezést bocsát ki. A kötelezést tartalmazó hatósági határozat a településkép védelméről szóló 2016. évi LXXIV. törvény 11. § (1) bekezdésében foglaltak megtételére vonatkozhat.
-
 ## 19. A közterület-alakítás
 
 27. § (1) A közterület-alakítás célja, hogy elősegítse a településszerkezetileg, forgalom-technikailag együtt kezelendő, a településképi szempontból meghatározó vagy helyi területi védelemmel érintett területen lévő közterületek településökológiai, településképi és műszaki szempontból, valamint a zöldfelületi rendszer szempontjából egységes és összehangolt módon történő kialakítását és fejlesztését.

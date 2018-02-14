@@ -14,11 +14,11 @@ a) a fővárosi önkormányzat által közvetlenül igazgatott terület teljes t
 
 b) a főváros településképi szempontból meghatározó területeire
 
-ba) helyi egyedi védelmi követelményt, és
+ba)[^64] helyi egyedi védelmet, védelmi előírásokat és
 
 bb) területi építészeti követelményt, valamint
 
-c) a főváros teljes közigazgatási területére helyi egyedi védelmi követelményt
+c)[^65] a főváros teljes közigazgatási területére helyi egyedi védelmet, védelmi előírásokat
 
 ## állapíthat meg.
 
@@ -28,10 +28,14 @@ c) a főváros teljes közigazgatási területére helyi egyedi védelmi követe
 
 a) a kerületi önkormányzat egyedi védelmet a főváros által megállapított helyi egyedi védelemmel érintett elemre nem,
 
-b) a fővárosi egyedi védelemmel érintett helyi építészeti örökségre is megállapíthat a kerületi önkormányzat helyi területi védelmet,
+b)[^66] a fővárosi egyedi védelemmel érintett helyi építészeti örökségre a kerületi önkormányzat helyi területi védelmet, illetve településképi szempontból meghatározó területet,
 
 c) a fővárosi önkormányzat által meghatározott településképi szempontból meghatározó területre a kerületi önkormányzat az építészeti követelmények közül csak egyedi építészeti követelményt
 
 ## állapíthat meg.
 
 (5) A kerületi településképi rendeletben meghatározott településképi követelmény a fővárosi településképi rendeletben foglalt területi építészeti követelménnyel összhangban kerülhet megállapításra.
+
+[^64]: A 23. § (2) bekezdés b) pont ba) alpontja a 16/2018. (II. 13.) Korm. rendelet 14. § 4. pontja szerint módosított szöveg.
+[^65]: A 23. § (2) bekezdés c) pontja a 16/2018. (II. 13.) Korm. rendelet 14. § 5. pontja szerint módosított szöveg.
+[^66]: A 23. § (4) bekezdés b) pontja a 16/2018. (II. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
