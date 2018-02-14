@@ -1,4 +1,4 @@
-2. melléklet a 49/2015. (XI. 6.) EMMI rendelethez[^11]
+2. melléklet a 49/2015. (XI. 6.) EMMI rendelethez[^12]
 
 Kockázatkezelés
 
@@ -20,4 +20,4 @@ Kockázatkezelés
 
 * Az országos tisztifőorvos által kiadott módszertani levél alapján.
 
-[^11]: A 2. melléklet az 54/2016. (XII. 30.) EMMI rendelet 100. § f) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet az 54/2016. (XII. 30.) EMMI rendelet 100. § f) pontja szerint módosított szöveg.

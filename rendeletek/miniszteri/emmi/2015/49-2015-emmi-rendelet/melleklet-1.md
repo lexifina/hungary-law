@@ -140,6 +140,6 @@ ae) Legionella megelőző beavatkozások leírása (pl. rendszeres vagy időszak
 
 b) Legionella kockázatkezeléssel kapcsolatos oktatási anyagok, oktatásban részesültek felsorolása, oktatási jegyzőkönyvek.
 
-9.[^10] Az országos tisztifőorvos módszertani levele alapján kitöltött értékelőlap.
+9.[^11] Az országos tisztifőorvos módszertani levele alapján kitöltött értékelőlap.
 
-[^10]: Az 1. melléklet 9. pontja az 54/2016. (XII. 30.) EMMI rendelet 100. § f) pontja szerint módosított szöveg.
+[^11]: Az 1. melléklet 9. pontja az 54/2016. (XII. 30.) EMMI rendelet 100. § f) pontja szerint módosított szöveg.
