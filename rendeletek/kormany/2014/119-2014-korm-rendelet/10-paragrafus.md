@@ -1,4 +1,4 @@
-10. §[^5] (1) A használati szerződés megkötése esetén fizetendő használati díjat a főigazgató – a (3)–(5) bekezdésben foglaltak kivételével – az 1. melléklet szerint állapítja meg.
+10. §[^11] (1) A használati szerződés megkötése esetén fizetendő használati díjat a főigazgató – a (3)–(5) bekezdésben foglaltak kivételével – az 1. melléklet szerint állapítja meg.
 
 (2) A használati díjat a használati szerződésben meghatározott módon a tárgyidőszakra előre kell megfizetni.
 
@@ -6,7 +6,7 @@
 
 a) közfeladat ellátása céljából, a közfeladat ellátásához szükséges mértékben vagy
 
-b) nemzeti emléknaphoz, illetve a magyar nemzet szempontjából kiemelkedő jelentőségű eseményhez köthető állami, kormányzati rendezvények – ide nem értve a 3. § (1) bekezdés c) pontja szerinti rendezvényeket – lebonyolítása érdekében
+b)[^12] nemzeti emléknaphoz, illetve a magyar nemzet szempontjából kiemelkedő jelentőségű eseményhez köthető állami, kormányzati, önkormányzati rendezvények – ide nem értve a 3. § (1) bekezdés c) pontja szerinti rendezvényeket – lebonyolítása érdekében
 
 ## kerül sor.
 
@@ -18,4 +18,5 @@ b) az Igazságügyi Minisztérium, a Miniszterelnökség, a Néprajzi Múzeum, a
 
 (5) A főigazgató a kiemelt nemzeti emlékhely területi sajátosságaira figyelemmel a (3) és (4) bekezdésben nem szabályozott esetekben legfeljebb 50%-kal csökkentett mértékű használati díjat állapíthat meg.
 
-[^5]: A 10. § a 447/2016. (XII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^11]: A 10. § a 447/2016. (XII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: A 10. § (3) bekezdés b) pontja a 19/2018. (II. 14.) Korm. rendelet 60. § (4) bekezdés b) pontja szerint módosított szöveg.

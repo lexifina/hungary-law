@@ -6,7 +6,7 @@ a) a kiemelt nemzeti emlékhelyet felkereső személyeknek a kiemelt nemzeti eml
 
 b) a kiemelt nemzeti emlékhelyet felkereső személyeknek a kiemelt nemzeti emlékhely mint közterület rendeltetésszerű használata esetén,
 
-c) ünnepi célra az Alaptörvényben foglalt nemzeti ünnepek és az állami ünnep alkalmából szervezett hivatalos állami, kormányzati rendezvények esetén,
+c)[^6] ünnepi célra az Alaptörvényben foglalt nemzeti ünnepek és az állami ünnep alkalmából szervezett hivatalos állami, kormányzati, önkormányzati rendezvények esetén,
 
 d) protokolláris célra a vagyonkezelő által meghatározott rendezvény esetén,
 
@@ -18,8 +18,17 @@ g) a távközlési kábelek, valamint közműves berendezések, illetve létesí
 
 h) élet- és balesetveszély elhárítása esetén az elhárításhoz feltétlenül szükséges munkálatok elvégzésének időtartamára,
 
-i) a kiemelt nemzeti emlékhely érdekében végzett építési, felújítási munkálatok esetében.
+i) a kiemelt nemzeti emlékhely érdekében végzett építési, felújítási munkálatok esetében,
 
-(2) Az (1) bekezdés c)–g) pontja szerinti igénybevételt az Országgyűlés Hivatala főigazgatójánál (a továbbiakban: főigazgató) az igénybevétel megkezdése előtt legalább öt munkanappal írásban be kell jelenteni az igénybevétel várható időtartamának megadásával, valamint a használni kívánt terület helyszínrajzon történő megjelölésével. Az (1) bekezdés e)–g) pontja szerinti igénybevétel esetén a bejelentéshez csatolni kell a műszaki vagy egyéb hiba leírását, az elhárításhoz szükséges intézkedések részletes felsorolását.
+j)[^7] a kiemelt nemzeti emlékhely közúti közlekedés számára megnyitott területén közúti közlekedéshez.
+
+(2)[^8] Az (1) bekezdés c)–e) pontja szerinti igénybevételt az Országgyűlés Hivatala főigazgatójánál (a továbbiakban: főigazgató) az igénybevétel megkezdése előtt legalább öt munkanappal írásban be kell jelenteni az igénybevétel várható időtartamának megadásával, valamint a használni kívánt terület helyszínrajzon történő megjelölésével. Az (1) bekezdés e)–g) pontja szerinti igénybevétel esetén a bejelentéshez csatolni kell a műszaki vagy egyéb hiba leírását, az elhárításhoz szükséges intézkedések részletes felsorolását.
+
+(2a)[^9] Az (1) bekezdés f) és g) pontja szerinti igénybevételt a főigazgató engedélyezi kérelemre. A kérelemnek tartalmaznia kell a megvalósítani tervezett munkálatok terveit, annak bizonyítását, hogy az adott munkálat elkerülhetetlen, az érintett közterület rekonstrukciója előtt nem volt előrelátható, valamint arra vonatkozó kötelezettség-vállalást és műszaki dokumentációt, hogy a beavatkozás által érintett burkolatokat, térbútorokat, szerelvényeket eredeti állapotában állítják helyre.
 
 (3) Ha az (1) bekezdés e)–g) pontja szerinti igénybevételre azonnali hibaelhárítás vagy előre nem látható káresemény elhárítása miatt van szükség, továbbá az (1) bekezdés h) pontja szerinti esetben a (2) bekezdés szerinti bejelentést haladéktalanul, de legkésőbb az igénybevétel megkezdésével egyidejűleg kell megtenni.
+
+[^6]: A 3. § (1) bekezdés c) pontja a 19/2018. (II. 14.) Korm. rendelet 60. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdés j) pontját a 19/2018. (II. 14.) Korm. rendelet 60. § (2) bekezdése iktatta be.
+[^8]: A 3. § (2) bekezdése a 19/2018. (II. 14.) Korm. rendelet 60. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^9]: A 3. § (2a) bekezdését a 19/2018. (II. 14.) Korm. rendelet 60. § (3) bekezdése iktatta be.

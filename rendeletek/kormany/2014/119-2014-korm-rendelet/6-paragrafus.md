@@ -16,8 +16,8 @@ d) a használó által folytatni kívánt tevékenységben részt vevő közrem�
 
 a) – ha jogszabály előírja – a kiemelt nemzeti emlékhely területén folytatni kívánt tevékenységre jogosító okirat egyszerű másolatát, és
 
-b)[^4] építési engedélyhez kötött építmény létesítése vagy elhelyezése esetében a végleges építésügyi hatósági engedélyt vagy építési munkálatokkal összefüggő használat esetében az építtetőtől kapott meghatalmazást.
+b)[^10] építési engedélyhez kötött építmény létesítése vagy elhelyezése esetében a végleges építésügyi hatósági engedélyt vagy építési munkálatokkal összefüggő használat esetében az építtetőtől kapott meghatalmazást.
 
 (4) A szerződési ajánlathoz olyan nyilatkozatot kell csatolni, amelyben a használó és közreműködő igénybevétele esetén a közreműködő hozzájárul, hogy a vagyonkezelő a használati szerződés megkötését követően a kiemelt nemzeti emlékhely területe szerint illetékes közterület-felügyelet részére a 9. § a)–c) pontja szerinti adatokat a kiemelt nemzeti emlékhely területe használatának az ellenőrzése érdekében továbbítsa.
 
-[^4]: A 6. § (3) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 493. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^10]: A 6. § (3) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 493. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
