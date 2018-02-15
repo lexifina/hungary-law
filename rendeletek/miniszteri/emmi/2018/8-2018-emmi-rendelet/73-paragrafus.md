@@ -1,1 +1,0 @@
-## 72. § A 23/2012. (IX. 14.) EMMI rendelet 10. § (4) bekezdés a) pontjában az „önállóan gyakorolta” szövegrész helyébe az „önállóan gyakorolta, és e feltételek fennállását megfelelően igazolja” szöveg lép.

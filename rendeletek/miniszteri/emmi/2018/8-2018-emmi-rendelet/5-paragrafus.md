@@ -1,1 +1,0 @@
-## 4. § Az egészségügyről szóló 1997. évi CLIV. törvénynek a szerv- és szövetátültetésre, valamint -tárolásra és egyes kórszövettani vizsgálatokra vonatkozó rendelkezései végrehajtásáról szóló 18/1998. (XII. 27.) EüM rendelet [a továbbiakban: 18/1998. (XII. 27.) EüM rendelet] 17/P. § (2) és (3) bekezdésében az „OTH” szövegrész helyébe az „országos tisztifőorvos” szöveg lép.

@@ -1,3 +1,0 @@
-## 48. § Hatályát veszti a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet módosításáról, valamint a gyógyszerek társadalombiztosítási támogatása megállapításának egyes átmeneti szabályairól szóló 25/2007. (VI. 7.) EüM rendelet.
-
-## 35. A kozmetikai termékek biztonságosságáról, gyártási, forgalmazási feltételeiről és közegészségügyi ellenőrzéséről szóló 40/2001. (XI. 23.) EüM rendelet módosításáról szóló 27/2007. (VI. 11.) EüM rendelet hatályon kívül helyezése

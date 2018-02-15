@@ -1,3 +1,0 @@
-## 74. § Az egészségügyi szolgáltatás keretében használt, éles vagy hegyes munkaeszközök által okozott sérülések megelőzésére, az ilyen eszközök használatából eredő kockázatok kezelésére, valamint az egészségügyi tevékenységet végző személyek tájékoztatására és képzésére vonatkozó követelményekről szóló 51/2013. (VII. 15.) EMMI rendelet 6. § (3) bekezdésében az „a működési engedély jogerőre emelkedésének” szövegrész helyébe az „a működési engedély véglegessé válásának” szöveg lép.
-
-## 53. Az egységes egészségügyi ágazati humánerőforrás-monitoringrendszer működésének részletes szabályairól szóló 2/2014. (I. 16.) EMMI rendelet módosítása

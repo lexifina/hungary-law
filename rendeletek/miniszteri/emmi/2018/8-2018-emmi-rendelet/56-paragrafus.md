@@ -1,1 +1,0 @@
-## 55. § A gyógyszerrendeléshez használandó számítógépes program minősítésének szabályairól szóló 53/2007. (XII. 7.) EüM rendelet 3. § (2) bekezdésében az „az e rendelet 4–5. §-ában foglalt követelményeknek” szövegrész helyébe az „a 4. §-ban és a gyógyszerrendeléshez használandó számítógépes program minősítésének eljárási szabályairól szóló Korm. rendeletben” szöveg lép.
