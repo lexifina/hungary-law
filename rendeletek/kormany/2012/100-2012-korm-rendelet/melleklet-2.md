@@ -4,7 +4,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | A budapesti Kossuth Lajos tér rekonstrukciója, mélygarázs, látogatóközpont és Parlamenti Múzeum építése, valamint a tér és a kapcsolódó területek felszíni rendezése, ezzel összefüggésben a kapcsolódó területeken egyes épületek rekonstrukciói. | Budapest V. kerület belterület 24893 hrsz., 24894 hrsz., 24897/1 hrsz. ingatlanok. A beruházást érintő egyéb ingatlanok: a Budapest V. kerület belterület 24989/2 hrsz. (Balassi Bálint utca), 24965/2 hrsz. (Falk Miksa utca), 24914 hrsz. (Szalay utca) 24892 hrsz. (Alkotmány utca), 24708 hrsz. (Garibaldi utca), 24666 hrsz. (Akadémia utca) és 24834/1 hrsz. (a Vértanúk tere) ingatlanok. Budapest V. kerület belterület 24696, 24697, 24710/4, 24897/2, 24917, 24956/2, 24957, 24986, 24987, 24988, 25007, 25122/4, 25122/6 és 24989/2, 24710/2, 24890, 24981, 24898, 24899 hrsz. ingatlanok. Az 1. § (2) bekezdése szerinti tevékenységekkel érintett ingatlanok. | általános építésügyi hatósági engedélyezési és tudomásulvételi eljárások, beleértve a műemléki védelem alatt álló építményeket is, fakivágási engedélyek, a kapcsolódó területek felszíni rendezése | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
+| 2. | A budapesti Kossuth Lajos tér rekonstrukciója, mélygarázs, látogatóközpont és Parlamenti Múzeum építése, valamint a tér és a kapcsolódó területek felszíni rendezése, ezzel összefüggésben a kapcsolódó területeken egyes épületek rekonstrukciói. | Budapest V. kerület belterület 24893 hrsz., 24894 hrsz., 24897/1 hrsz. ingatlanok. A beruházást érintő egyéb ingatlanok: a Budapest V. kerület belterület 24989/2 hrsz. (Balassi Bálint utca), 24965/2 hrsz. (Falk Miksa utca), 24914 hrsz. (Szalay utca) 24892 hrsz. (Alkotmány utca), 24881, 24971/2, 24725 hrsz. (Honvéd utca), 24719 hrsz. (Vécsey utca), 24715 hrsz. (Zoltán utca), 24876, 24973/2 hrsz. (Szemere utca), 24747/1 hrsz. (Szabadság tér), 24708 hrsz. (Garibaldi utca), 24666 hrsz. (Akadémia utca) és 24834/1 hrsz. (a Vértanúk tere) ingatlanok. Budapest V. kerület belterület 24696, 24697, 24710/4, 24897/2, 24917, 24956/2, 24957, 24986, 24987, 24988, 25007, 25122/4, 25122/6 és 24989/2, 24710/2, 24890, 24981, 24898, 24899 hrsz. ingatlanok. Az 1. § (2) bekezdése szerinti tevékenységekkel érintett ingatlanok. | általános építésügyi hatósági engedélyezési és tudomásulvételi eljárások, beleértve a műemléki védelem alatt álló építményeket is, fakivágási engedélyek, a kapcsolódó területek felszíni rendezése | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
 
 | 3. | örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
 
@@ -32,10 +32,6 @@
 
 | 15. | üzletek (kávézó) működési engedélye | Belváros-Lipótváros Budapest Főváros V. kerületi Önkormányzat jegyzője |
 
-| 16. |  |  |
+2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^34]
 
-| 17. |  |  |
-
-2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^31]
-
-[^31]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 49. § g) pontja hatályon kívül helyezte.
+[^34]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 49. § g) pontja hatályon kívül helyezte.
