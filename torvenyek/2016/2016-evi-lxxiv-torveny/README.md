@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-74-00-00
 | 2017-08-31 | 2017. évi XCIX. törvény | 2016-74-00-00.8 |
 | 2017-09-29 | 2017. évi CV. törvény | 2016-74-00-00.9 |
 | 2018-01-01 | 2017. évi L. törvény | 2016-74-00-00.10 |
+| 2018-02-15 | 2016. évi CLXXIV. törvény | 2016-74-00-00.11 |
