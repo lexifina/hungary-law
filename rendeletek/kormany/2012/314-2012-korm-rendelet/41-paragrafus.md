@@ -4,7 +4,7 @@
 
 (2) A véleményezési szakaszt a polgármester kezdeményezi. A polgármester az elkészült településrendezési eszközt véleményezteti:
 
-a)[^130] a partnerekkel, a 29/A. §-ban rögzítettek szerint,
+a)[^131] a partnerekkel, a 29/A. §-ban rögzítettek szerint,
 
 b) a 9. mellékletben meghatározott államigazgatási szervvel,
 
@@ -16,4 +16,4 @@ d) a fővárosi településrendezési eszköz esetén az érintett kerületi ön
 
 (4) Az egyszerűsített eljárás ezt követően a 39–40. § szerint folytatódik.
 
-[^130]: A 41. § (2) bekezdés a) pontja a 400/2016. (XII. 5.) Korm. rendelet 28. § j) pontja szerint módosított szöveg.
+[^131]: A 41. § (2) bekezdés a) pontja a 400/2016. (XII. 5.) Korm. rendelet 28. § j) pontja szerint módosított szöveg.

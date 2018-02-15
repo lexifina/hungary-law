@@ -56,6 +56,8 @@ e) a településképi rendelettel történő összhang megteremtése érdekében
 
 (7)[^116] Az önkormányzat bármely koncepció, stratégia és településrendezési eszköz készítése során alkalmazhatja a teljes eljárást, valamint indíthatja az eljárást az előzetes tájékoztatási szakasz kezdeményezésével.
 
+(8)[^117] A kiemelt nemzeti emlékhely és településkép-védelmi környezetének területét és a területhez közvetlenül kapcsolódó területet érintő településrendezési eszköz egyeztetése során a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló kormányrendeletben foglalt településrendezési eszközök egyeztetésére vonatkozó szabályokat is alkalmazni kell.
+
 [^109]: A 24. alcím címe a 400/2016. (XII. 5.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^110]: A 32. § (1) bekezdés d) pontját a 400/2016. (XII. 5.) Korm. rendelet 19. § (1) bekezdése iktatta be.
 [^111]: A 32. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés c) pontja szerint módosított szöveg.
@@ -64,3 +66,4 @@ e) a településképi rendelettel történő összhang megteremtése érdekében
 [^114]: A 32. § (6) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
 [^115]: A 32. § (6a) bekezdését a 400/2016. (XII. 5.) Korm. rendelet 19. § (3) bekezdése iktatta be.
 [^116]: A 32. § (7) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
+[^117]: A 32. § (8) bekezdését a 19/2018. (II. 14.) Korm. rendelet 59. §-a iktatta be.

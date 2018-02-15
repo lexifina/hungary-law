@@ -1,4 +1,4 @@
-## 63. §[^193]
+## 63. §[^194]
 
 1. melléklet a 314/2012. (XI. 8.) Korm. rendelethez
 
@@ -32,7 +32,7 @@
 
 1.7.2. Térbeli-társadalmi rétegződés, konfliktusok, érdekviszonyok
 
-1.7.3.[^194] Települési identitást erősítő tényezők (történeti és kulturális adottságok, társadalmi élet, szokások, hagyományok, nemzetiségi kötődés, civil szerveződések, vallási közösségek stb.)
+1.7.3.[^195] Települési identitást erősítő tényezők (történeti és kulturális adottságok, társadalmi élet, szokások, hagyományok, nemzetiségi kötődés, civil szerveződések, vallási közösségek stb.)
 
 1.8. A település humán infrastruktúrája
 
@@ -68,7 +68,7 @@
 
 1.10.7. Energiagazdálkodás
 
-1.11.[^195] Településüzemeltetési szolgáltatások, okos város települési szolgáltatások
+1.11.[^196] Településüzemeltetési szolgáltatások, okos város települési szolgáltatások
 
 1.12. A táji és természeti adottságok vizsgálata
 
@@ -276,6 +276,6 @@ A település problémáinak és értékeinek összefoglalója térképi formáb
 
 3.3.3. egyéb szempontból beavatkozást igénylő területek lehatárolása, térképi ábrázolása és helyzetelemzése (potenciális akcióterületek)
 
-[^193]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^194]: Az 1. melléklet 1.7.3. pontja a 297/2013. (VII. 29.) Korm. rendelet 84. § b) pontja szerint módosított szöveg.
-[^195]: Az 1. melléklet 1.11. pontja az 56/2017. (III. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^194]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^195]: Az 1. melléklet 1.7.3. pontja a 297/2013. (VII. 29.) Korm. rendelet 84. § b) pontja szerint módosított szöveg.
+[^196]: Az 1. melléklet 1.11. pontja az 56/2017. (III. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
