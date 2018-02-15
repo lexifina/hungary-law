@@ -1,12 +1,15 @@
-10. §[^26] (1) Rendészeti vezető mesterképzés esetén a jelentkezés feltétele rendvédelmi szervnél fennálló hivatásos szolgálati viszony, a tiszti rendfokozat és a jelentkezéshez szükséges felsőfokú végzettség megszerzését követő, legalább kétéves, rendvédelmi szervnél szerzett szakmai gyakorlat. Nappali munkarendű képzés esetén további feltétel a rendvédelmi szerv országos parancsnokának támogató nyilatkozata és a rendvédelmi szerv utánpótlási vezetői adatbankjába való felvétel.
+10. §[^27] (1) Rendészeti vezető mesterképzés esetén a jelentkezés feltétele rendvédelmi szervnél fennálló hivatásos szolgálati viszony, a tiszti rendfokozat és a jelentkezéshez szükséges felsőfokú végzettség megszerzését követő, legalább kétéves, rendvédelmi szervnél szerzett szakmai gyakorlat. Nappali munkarendű képzés esetén további feltétel a rendvédelmi szerv országos parancsnokának támogató nyilatkozata és a rendvédelmi szerv utánpótlási vezetői adatbankjába való felvétel.
 
-(2)[^27] A katasztrófavédelem mesterképzési szak levelező munkarendben folyó, az NKEtv. 21/A. § (1) bekezdés a) és b) pontja hatálya alá tartozó képzésére csak a hivatásos katasztrófavédelmi szervek állományából lehet jelentkezni. A jelentkezéshez rendelkezni kell a BM OKF humán szolgálatvezető támogató nyilatkozatával, valamint a BM OKF főigazgatója beiskolázási jóváhagyásával.
+(2)[^28] A katasztrófavédelem mesterképzési szak levelező munkarendben folyó, az NKEtv. 21/A. § (1) bekezdés a) és b) pontja hatálya alá tartozó képzésére csak a hivatásos katasztrófavédelmi szervek állományából lehet jelentkezni. A jelentkezéshez rendelkezni kell a BM OKF humán szolgálatvezető támogató nyilatkozatával, valamint a BM OKF főigazgatója beiskolázási jóváhagyásával.
 
-(3)[^28] A kriminalisztika mesterképzési szak rendészeti szakiránya esetén a jelentkezés feltétele rendvédelmi szervnél fennálló hivatásos szolgálati viszony, valamint a jelentkezéshez szükséges felsőfokú végzettség megszerzését követő, legalább hároméves, rendvédelmi szervnél szerzett szakmai gyakorlat.
+(3)[^29] A kriminalisztika mesterképzési szak rendészeti szakiránya esetén a jelentkezés feltétele rendvédelmi szervnél fennálló hivatásos szolgálati viszony, valamint a jelentkezéshez szükséges felsőfokú végzettség megszerzését követő, legalább hároméves, rendvédelmi szervnél szerzett szakmai gyakorlat.
 
-(4)[^29] A kriminalisztika mesterképzési szak polgári szakiránya esetén a jelentkezésnek nem feltétele a 7. § (1) bekezdés b) pontjában foglalt nyilatkozat.
+(4)[^30] A kriminalisztika mesterképzési szak polgári szakiránya esetén a jelentkezésnek nem feltétele a 7. § (1) bekezdés b) pontjában foglalt nyilatkozat.
 
-[^26]: A 10. § a 2/2016. (I. 7.) MvM rendelet 6. §-ával megállapított szöveg.
-[^27]: A 10. § (2) bekezdése a 33/2016. (XII. 16.) MvM rendelet 4. §-ával megállapított szöveg.
-[^28]: A 10. § (3) bekezdését a 33/2016. (XII. 16.) MvM rendelet 4. §-a iktatta be.
-[^29]: A 10. § (4) bekezdését a 33/2016. (XII. 16.) MvM rendelet 4. §-a iktatta be.
+(5)[^31] Polgári nemzetbiztonsági mesterképzési szakra csak a polgári nemzetbiztonsági szolgálatok vagy a Katonai Nemzetbiztonsági Szolgálat, továbbá a titkos információgyűjtés folytatására, illetve leplezett eszközök alkalmazására törvényben feljogosított szervek állományába tartozó olyan személy jelentkezhet, akit a beiskolázási jogkörrel rendelkező elöljáró vagy vezető az előmeneteli tervek alapján támogat, továbbá aki érvényes és kockázatmentes biztonsági szakvéleménnyel rendelkezik.
+
+[^27]: A 10. § a 2/2016. (I. 7.) MvM rendelet 6. §-ával megállapított szöveg.
+[^28]: A 10. § (2) bekezdése a 33/2016. (XII. 16.) MvM rendelet 4. §-ával megállapított szöveg.
+[^29]: A 10. § (3) bekezdését a 33/2016. (XII. 16.) MvM rendelet 4. §-a iktatta be.
+[^30]: A 10. § (4) bekezdését a 33/2016. (XII. 16.) MvM rendelet 4. §-a iktatta be.
+[^31]: A 10. § (5) bekezdését a 3/2018. (II. 14.) MvM rendelet 2. §-a iktatta be.
