@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-174-00-00
 | 2017-01-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-174-00-00.1 |
 | 2017-01-19 | 2010. évi CXXX. törvény | 2016-174-00-00.2 |
 | 2017-09-29 | 2017. évi CV. törvény | 2016-174-00-00.3 |
+| 2018-02-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-174-00-00.4 |
