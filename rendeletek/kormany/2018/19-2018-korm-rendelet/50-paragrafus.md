@@ -1,0 +1,1 @@
+## 49. § A beruházási kölcsön támogatás igénylésére a 45. § és a 47. § rendelkezéseit kell alkalmazni azzal, hogy a támogatási igényt a hitelintézetnél, illetve a kijelölt hitelintézetnél kell benyújtani.
