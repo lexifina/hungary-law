@@ -1,3 +1,5 @@
+## 9. §[^5]
+
 9/A. §[^6] (1) A rendvédelmi feladatokat ellátó szervek vonatkozásában a közegészségügyi és járványügyi szabályok helyszíni ellenőrzése során
 
 a) a hatósági ellenőrzést végző személy az ellenőrzési jogosultságát megbízólevél felmutatásával igazolja,
@@ -30,4 +32,5 @@ a) kisebb súlyú mulasztás esetén felhívja az ellenőrzött rendvédelmi fel
 
 b) fegyelmi vétséget megvalósító magatartás felfedésekor kezdeményezheti a fegyelmi jogkör gyakorlójánál a fegyelmi eljárás lefolytatását.
 
+[^5]: A 9. §-t a 20/2018. (II. 14.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
 [^6]: A 9/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 483. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
