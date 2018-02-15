@@ -1,1 +1,0 @@
-## „(11) Amennyiben a véleményezésre jogosult szerv a (7) bekezdés szerinti véleményét határidőn belül nem tölti fel a (9) bekezdés szerinti digitális egyeztető felületre, a véleményezésre jogosult szerv véleménye az eljárás során figyelmen kívül hagyható.”
