@@ -2,7 +2,7 @@
 
 ## HATÓSÁGI BIZONYÍTVÁNY KIÁLLÍTÁSA
 
-56. §[^287] (1)[^288] A kormányrendeletben meghatározott kivétellel, kérelemre, vagy az ingatlan-nyilvántartást vezető első fokú ingatlanügyi hatóság hivatalból folytatott eljárása esetén az OÉNY-ből megismerhető adat, tény, állapot, vagy szükség esetén helyszíni szemle alapján az építésügyi hatóság az Étv. 34. § (5) bekezdése céljából
+56. §[^297] (1)[^298] A kormányrendeletben meghatározott kivétellel, kérelemre, vagy az ingatlan-nyilvántartást vezető első fokú ingatlanügyi hatóság hivatalból folytatott eljárása esetén az OÉNY-ből megismerhető adat, tény, állapot, vagy szükség esetén helyszíni szemle alapján az építésügyi hatóság az Étv. 34. § (5) bekezdése céljából
 
 a) a telken építmény meglétére vagy hiányára,
 
@@ -10,7 +10,7 @@ b) a telken meglévő építmény jogszerűségére
 
 ## hatósági bizonyítványt állít ki.
 
-(2)[^289] A hatósági bizonyítvány az Ákr.-ben meghatározottakon túl tartalmazza
+(2)[^299] A hatósági bizonyítvány az Ákr.-ben meghatározottakon túl tartalmazza
 
 a) a kérelmező elérhetőségét,
 
@@ -20,6 +20,6 @@ c) az (1) bekezdés a) pontjára irányuló kérelem esetén az építmény megl
 
 (3) Ha a lakóépület bontása nem engedélyköteles, akkor a bontási tevékenység befejezését követő harminc napon belül az épület bontásának megállapítására, tényére hatósági bizonyítványt kell kérni. A kérelemhez mellékelni kell a 9. melléklet szerinti kitöltött adatlapot.
 
-[^287]: Az 56. § a 156/2016. (VI. 13.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^288]: Az 56. § (1) bekezdés nyitó szövegrésze a 482/2016. (XII. 28.) Korm. rendelet 32. § c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 412. § 77. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^289]: Az 56. § (2) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 78. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^297]: Az 56. § a 156/2016. (VI. 13.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^298]: Az 56. § (1) bekezdés nyitó szövegrésze a 482/2016. (XII. 28.) Korm. rendelet 32. § c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 412. § 77. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^299]: Az 56. § (2) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 78. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

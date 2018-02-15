@@ -1,4 +1,4 @@
-5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^369]
+5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^379]
 
 ## Szakhatósági vagy szakkérdés vizsgálatára alkalmas dokumentációk tartalma építésügyi hatósági engedélyezéshez
 
@@ -196,4 +196,4 @@ VII. A műemléki érték védelmével kapcsolatos szakhatósági állásfoglal�
 
 2.3.3.
 
-[^369]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 156/2016. (VI. 13.) Korm. rendelet 12. § (11) bekezdése, 13. § 27–30. pontja, a 306/2016. (X. 13.) korm. rendelet 14. § c) pontja, a 497/2016. (XII. 28.) Korm. rendelet 5. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 45. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^379]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 156/2016. (VI. 13.) Korm. rendelet 12. § (11) bekezdése, 13. § 27–30. pontja, a 306/2016. (X. 13.) korm. rendelet 14. § c) pontja, a 497/2016. (XII. 28.) Korm. rendelet 5. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 45. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

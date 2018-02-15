@@ -16,9 +16,9 @@ c) azzal a hatósággal, amely az ügyben szakhatósági állásfoglalást adott
 
 (3) A jogerős döntést közölni kell az építtetővel vagy meghatalmazottjával, a jogerőre emelkedéstől számított három napon belül a kapcsolattartás módjára megjelölt rendelkezésének megfelelően.
 
-(4)[^173] A döntés véglegessé válása esetén az építésügyi hatóság a véglegessé válás napját az ÉTDR-ben rögzíti és az engedélyezésre benyújtott építészeti-műszaki dokumentációt elektronikus engedélyezési záradékkal látja el.
+(4)[^182] A döntés véglegessé válása esetén az építésügyi hatóság a véglegessé válás napját az ÉTDR-ben rögzíti és az engedélyezésre benyújtott építészeti-műszaki dokumentációt elektronikus engedélyezési záradékkal látja el.
 
-(5)[^174] A végleges döntés a hozzá tartozó, engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltakkal együtt hatályos.
+(5)[^183] A végleges döntés a hozzá tartozó, engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltakkal együtt hatályos.
 
-[^173]: A 38. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^174]: A 38. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^182]: A 38. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^183]: A 38. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

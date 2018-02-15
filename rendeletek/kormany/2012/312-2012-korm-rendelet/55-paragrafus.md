@@ -1,4 +1,4 @@
-## 44. [^279] Veszélyhelyzet esetén végzett építési tevékenység tudomásulvételi eljárás
+## 44. [^289] Veszélyhelyzet esetén végzett építési tevékenység tudomásulvételi eljárás
 
 55. § (1) Az építésügyi hatóság a veszélyhelyzet elhárítása érdekében vagy a kihirdetett veszélyhelyzet következtében végzett, az Étv. 48. § (2) bekezdése szerint jogszerűtlen építési tevékenységgel
 
@@ -12,21 +12,21 @@ az építtető, vagy amennyiben az építtető személye nem ismert, a tulajdono
 
 (2) A tudomásulvételi eljárásra a fennmaradási engedélyezési eljárásra vonatkozó rendelkezéseket az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(3)[^280] Az eljárás során az építésügyi hatóság az eljárás megindításáról értesítést és hiánypótlásra felhívást nem bocsát ki.
+(3)[^290] Az eljárás során az építésügyi hatóság az eljárás megindításáról értesítést és hiánypótlásra felhívást nem bocsát ki.
 
-(4)[^281] Az építésügyi hatóság az (1) bekezdés szerinti kérelemben az eljárás megindulásától számított nyolc napon belül az előírt feltételek fennállása esetén
+(4)[^291] Az építésügyi hatóság az (1) bekezdés szerinti kérelemben az eljárás megindulásától számított nyolc napon belül az előírt feltételek fennállása esetén
 
 a) az elutasításról határozatban dönt, vagy
 
-b)[^282] a szabálytalanságot – bírság kiszabásának mellőzésével – hallgatással tudomásul veszi.
+b)[^292] a szabálytalanságot – bírság kiszabásának mellőzésével – hallgatással tudomásul veszi.
 
-(5)[^283] A (4) bekezdés b) pontja szerinti tudomásulvételt a függő hatályú döntésre vonatkozó rendelkezések tekintetében a (4) bekezdés szerinti határidőben meghozott érdemi döntésnek kell tekinteni.
+(5)[^293] A (4) bekezdés b) pontja szerinti tudomásulvételt a függő hatályú döntésre vonatkozó rendelkezések tekintetében a (4) bekezdés szerinti határidőben meghozott érdemi döntésnek kell tekinteni.
 
-(6)[^284] Az építésügyi hatóság az (1) és (4) bekezdésben foglalt tudomásulvételt az építtető, vagy ha az építtető személye nem ismert, a tulajdonos kérelmére írásba foglalja.
+(6)[^294] Az építésügyi hatóság az (1) és (4) bekezdésben foglalt tudomásulvételt az építtető, vagy ha az építtető személye nem ismert, a tulajdonos kérelmére írásba foglalja.
 
-[^279]: A 44. alcím címe a 441/2015. (XII. 28.) Korm. rendelet 179. § (19) bekezdésével megállapított szöveg.
-[^280]: Az 55. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 181. § 16. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^281]: Az 55. § (4) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 180. § 12. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^282]: Az 55. § (4) bekezdés b) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 10. pontja szerint módosított szöveg.
-[^283]: Az 55. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 179. § (20) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 413. § 40. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^284]: Az 55. § (6) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 27. §-a iktatta be.
+[^289]: A 44. alcím címe a 441/2015. (XII. 28.) Korm. rendelet 179. § (19) bekezdésével megállapított szöveg.
+[^290]: Az 55. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 181. § 16. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^291]: Az 55. § (4) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 180. § 12. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^292]: Az 55. § (4) bekezdés b) pontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 10. pontja szerint módosított szöveg.
+[^293]: Az 55. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 179. § (20) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 413. § 40. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^294]: Az 55. § (6) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 27. §-a iktatta be.

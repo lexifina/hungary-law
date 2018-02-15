@@ -1,6 +1,6 @@
 ## 26. Integrált építési engedélyezési szakasz
 
-35. §[^155] (1)[^156] Az IÉSZ megindítását a telepítési engedély véglegessé válásától számított egy éven belül külön kérelem nélkül, a 29. § (1) bekezdés a) pontja szerinti esetben az érintett településrendezési eszköz hatálybalépését követően lehet kezdeményezni az előírt mellékletek benyújtásával.
+35. §[^164] (1)[^165] Az IÉSZ megindítását a telepítési engedély véglegessé válásától számított egy éven belül külön kérelem nélkül, a 29. § (1) bekezdés a) pontja szerinti esetben az érintett településrendezési eszköz hatálybalépését követően lehet kezdeményezni az előírt mellékletek benyújtásával.
 
 (2) Az IÉSZ megindításához – az IÉSZ-ben összevonható kérelmezett eljárástól függően – mellékelni kell
 
@@ -12,7 +12,7 @@ ab) a 7. melléklet szerinti dokumentációt,
 
 b) a telepítési engedélyben tett kikötés, feltétel teljesítésének igazolását,
 
-c)[^157] ha az IÉSZ megindításakor rendelkezésre áll a 29. § (1) bekezdés c)–g) pontja szerinti önálló eljárásban kiadott jogerős vagy végleges engedélyt, annak megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját.
+c)[^166] ha az IÉSZ megindításakor rendelkezésre áll a 29. § (1) bekezdés c)–g) pontja szerinti önálló eljárásban kiadott jogerős vagy végleges engedélyt, annak megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját.
 
 (3) Az IÉSZ megindulásáról az építésügyi hatóság a mellékleteknek az ÉTDR-be való érkeztetését követő munkanaptól számított öt napon belül
 
@@ -22,15 +22,15 @@ aa) az építéssel vagy településrendezéssel érintett illetékes önkormán
 
 ab) ha az építési tevékenység és az építményben folytatott tevékenység alapján országhatáron átterjedő jelentős környezeti hatás bekövetkezése – különösen az Espooi egyezmény III. függelékében szereplő ismérvek alapján – feltételezhető, az Espooi egyezmény szerinti értesítés küldése érdekében a környezetvédelemért felelős minisztert,
 
-b)[^158] a kapcsolattartás módjára megjelölt rendelkezésének megfelelően értesíti
+b)[^167] a kapcsolattartás módjára megjelölt rendelkezésének megfelelően értesíti
 
 ba) az építtetőt és az építési tevékenységgel érintett telek – az országos településrendezési és építési követelményekről szóló kormányrendelet szerinti mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek, építmény, építményrész tulajdonosát
 
 bb) az ismert ügyfelet.
 
-(4)[^159]
+(4)[^168]
 
-(5)[^160] Az építésügyi hatóság a kérelem tartalmától függően a 7. mellékletben meghatározott szakkérdéseket vizsgálja.
+(5)[^169] Az építésügyi hatóság a kérelem tartalmától függően a 7. mellékletben meghatározott szakkérdéseket vizsgálja.
 
 (6) Az integrált építési engedély iránti kérelem elbírálása során a telepítési engedélyben foglaltak az építésügyi hatóságot és a szakhatóságokat – azokban a kérdésekben, amelyekről kifejezetten rendelkeztek, illetve amelyekről a telepítési hatásvizsgálati szakaszban nyilatkoztak – akkor is kötik, ha a telepítési engedély megadását követően a telepítési engedély lényeges tartalmát érintő jogszabályok, illetve a kötelező hatósági előírások megváltoztak.
 
@@ -38,7 +38,7 @@ bb) az ismert ügyfelet.
 
 (8) Ha a THSZ kiváltotta a településrendezési eszköz egyeztetési eljárását, akkor az integrált építési engedély iránti kérelem csak a településrendezési eszköz elfogadását és hatálybalépését követően bírálható el.
 
-(9)[^161]
+(9)[^170]
 
 (10) Az IÉSZ-ben hozott határozat rendelkező része, az építési engedélyezési eljárásban hozott döntés 19. § (4) bekezdésében meghatározott tartalmi elemein kívül – a döntés tárgyától függően – tartalmazza:
 
@@ -52,9 +52,9 @@ c) az egységes környezethasználati engedély feltételeit.
 
 a) a telepítési engedély megadásáról szóló végzés a határozat elleni jogorvoslati eljárásban támadható,
 
-b)[^162] a telekalakítási engedély alapján a változást az ingatlan-nyilvántartáson az integrált építési engedély véglegessé válása után, az építőipari kivitelezési tevékenység megkezdése előtt át kell vezetni, és annak megtörténtét az építtető az építőipari kivitelezési tevékenység megkezdésekor – az építési naplóban történő rögzítéssel – igazolni köteles,
+b)[^171] a telekalakítási engedély alapján a változást az ingatlan-nyilvántartáson az integrált építési engedély véglegessé válása után, az építőipari kivitelezési tevékenység megkezdése előtt át kell vezetni, és annak megtörténtét az építtető az építőipari kivitelezési tevékenység megkezdésekor – az építési naplóban történő rögzítéssel – igazolni köteles,
 
-c)[^163] a 19. § (4) bekezdés i) pontjában meghatározott épületet a határnapot követően az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerint közel nulla vagy annál kedvezőbb energiaigényű épületként kell kialakítani.
+c)[^172] a 19. § (4) bekezdés i) pontjában meghatározott épületet a határnapot követően az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerint közel nulla vagy annál kedvezőbb energiaigényű épületként kell kialakítani.
 
 (12) Az integrált építési engedélyről hozott, iratazonosítóval ellátott döntést közölni kell:
 
@@ -76,23 +76,23 @@ bb) az építési tevékenység helye szerinti települési önkormányzat polg�
 
 c) azzal a hatósággal, amely az ügyben szakhatósági állásfoglalást adott.
 
-(13)[^164] A végleges döntést közölni kell az építtetővel vagy meghatalmazottjával.
+(13)[^173] A végleges döntést közölni kell az építtetővel vagy meghatalmazottjával.
 
 (14) Az építésügyi hatóság
 
-a)[^165] a döntés véglegessé válását követően haladéktalanul tájékoztatást ad az ÉTDR általános felületén a végleges engedély tárgyáról és típusáról, továbbá
+a)[^174] a döntés véglegessé válását követően haladéktalanul tájékoztatást ad az ÉTDR általános felületén a végleges engedély tárgyáról és típusáról, továbbá
 
-b)[^166] véglegessé válására tekintet nélkül a közhírré teszi azt az integrált építési engedély tárgyában hozott határozatot a telepítési engedély tárgyában hozott végzéssel együtt, valamint a felfüggesztés tárgyában hozott végzést, amelyet olyan eljárásban hozott, ahol a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
+b)[^175] véglegessé válására tekintet nélkül a közhírré teszi azt az integrált építési engedély tárgyában hozott határozatot a telepítési engedély tárgyában hozott végzéssel együtt, valamint a felfüggesztés tárgyában hozott végzést, amelyet olyan eljárásban hozott, ahol a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
 
-[^155]: A 35. § a 70/2015. (III. 30.) Korm. rendelet 206. § (16) bekezdésével megállapított szöveg.
-[^156]: A 35. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 47. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^157]: A 35. § (2) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 48. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^158]: A 35. § (3) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 413. § 24. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^159]: A 35. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 25. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^160]: A 35. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 49. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^161]: A 35. § (9) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 8. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^162]: A 35. § (11) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 50. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^163]: A 35. § (11) bekezdés c) pontját a 262/2015. (IX. 14.) Korm. rendelet 4. §-a iktatta be.
-[^164]: A 35. § (13) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 51. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^165]: A 35. § (14) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 52–53. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^166]: A 35. § (14) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 54–55. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^164]: A 35. § a 70/2015. (III. 30.) Korm. rendelet 206. § (16) bekezdésével megállapított szöveg.
+[^165]: A 35. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 47. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^166]: A 35. § (2) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 48. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^167]: A 35. § (3) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 413. § 24. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^168]: A 35. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 25. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^169]: A 35. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 49. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^170]: A 35. § (9) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 8. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^171]: A 35. § (11) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 50. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^172]: A 35. § (11) bekezdés c) pontját a 262/2015. (IX. 14.) Korm. rendelet 4. §-a iktatta be.
+[^173]: A 35. § (13) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 51. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^174]: A 35. § (14) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 52–53. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^175]: A 35. § (14) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 54–55. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

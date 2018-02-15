@@ -14,9 +14,9 @@ nem jogosít, és nem mentesíti az építtetőt a környezethasználat és az �
 
 (3) A régészeti feltárás a telepítési engedély kézhezvétele után megkezdhető.
 
-(4)[^151] Az engedélyezett végleges más célú termőföld felhasználást, erdő igénybevételt, környezethasználatot és a kérelmezett tevékenységet a telepítési engedélyben meghatározott időn belül és csak a végleges integrált építési engedély birtokában szabad megkezdeni és folytatni.
+(4)[^160] Az engedélyezett végleges más célú termőföld felhasználást, erdő igénybevételt, környezethasználatot és a kérelmezett tevékenységet a telepítési engedélyben meghatározott időn belül és csak a végleges integrált építési engedély birtokában szabad megkezdeni és folytatni.
 
-(5)[^152] A telekalakítási engedély alapján a változás ingatlan-nyilvántartáson való átvezetése csak az integrált építési engedély véglegessé válása után kérhető, és az átvezetés megtörténtét az építtető az építőipari kivitelezési tevékenység megkezdésekor – az építési naplóban történő rögzítéssel is – igazolni köteles.
+(5)[^161] A telekalakítási engedély alapján a változás ingatlan-nyilvántartáson való átvezetése csak az integrált építési engedély véglegessé válása után kérhető, és az átvezetés megtörténtét az építtető az építőipari kivitelezési tevékenység megkezdésekor – az építési naplóban történő rögzítéssel is – igazolni köteles.
 
 (6) A telepítési engedélyről szóló, iratazonosítóval ellátott végzést közölni kell:
 
@@ -28,7 +28,7 @@ ab) az építési tevékenységgel érintett telek, építmény, építményrés
 
 ac) azzal, akit az építésügyi hatóság az eljárásba ügyfélként bevont,
 
-ad)[^153] az országhatáron átterjedő környezeti hatások vizsgálatáról szóló, Espooban (Finnország), 1991. február 26. napján aláírt egyezmény (a továbbiakban: Espooi egyezmény) szerinti nemzetközi eljárás esetén a hatásviselő féllel,
+ad)[^162] az országhatáron átterjedő környezeti hatások vizsgálatáról szóló, Espooban (Finnország), 1991. február 26. napján aláírt egyezmény (a továbbiakban: Espooi egyezmény) szerinti nemzetközi eljárás esetén a hatásviselő féllel,
 
 b) tájékoztatásul
 
@@ -38,11 +38,11 @@ bb) az építési tevékenység helye szerinti települési önkormányzat polg�
 
 bc) azzal a hatósággal, amely az ügyben szakhatósági állásfoglalást adott,
 
-bd)[^154]
+bd)[^163]
 
 be) a Magyar Nemzeti Múzeummal, ha az engedély egyben régészeti feltárási engedély is.
 
-[^151]: A 34. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 45. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^152]: A 34. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 46. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^153]: A 34. § (6) bekezdés a) pont ad) alpontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 6. pontja szerint módosított szöveg.
-[^154]: A 34. § (6) bekezdés b) pont bd) alpontját a 70/2015. (III. 30.) Korm. rendelet 206. § (24) bekezdése hatályon kívül helyezte.
+[^160]: A 34. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 45. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^161]: A 34. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 46. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^162]: A 34. § (6) bekezdés a) pont ad) alpontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 6. pontja szerint módosított szöveg.
+[^163]: A 34. § (6) bekezdés b) pont bd) alpontját a 70/2015. (III. 30.) Korm. rendelet 206. § (24) bekezdése hatályon kívül helyezte.
