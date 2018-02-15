@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-252-20-
 | 2016-10-14 | 2006-252-20-22.14 | 306/2016. (X. 13.) Korm. rendelet |
 | 2017-01-01 | 2006-252-20-22.15 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2018-01-01 | 2006-252-20-22.16 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2018-02-15 | 2006-252-20-22.17 | 19/2018. (II. 14.) Korm. rendelet |
