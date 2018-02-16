@@ -48,7 +48,9 @@
 
 17. Táncsics Mihály-díj,
 
-18. A Népművészet Ifjú Mestere díj.
+18. A Népművészet Ifjú Mestere díj,
+
+19.[^2] Máté Péter-díj.
 
 (3) A miniszter által adományozandó művészet- és közművelődés-igazgatási, művészetelméleti és közművelődés-elméleti díj a kulturális ágazatban a következő:
 
@@ -72,7 +74,7 @@
 
 2. Pro Cultura Hungarica díj,
 
-3.[^2] Művészeti életpálya elismerés,
+3.[^3] Művészeti életpálya elismerés,
 
 (7) A miniszter által adományozandó köznevelési és felsőoktatási díjak az oktatási ágazatban a következők:
 
@@ -80,7 +82,7 @@
 
 2. Apáczai Csere János-díj,
 
-3.[^3]
+3.[^4]
 
 4. Trefort Ágoston-díj,
 
@@ -88,11 +90,11 @@
 
 6. Pedagógus Szolgálati Emlékérem.
 
-(8)[^4] A miniszter által adományozandó köznevelési díjak az oktatási ágazatban:
+(8)[^5] A miniszter által adományozandó köznevelési díjak az oktatási ágazatban:
 
 1. Brunszvik Teréz-díj,
 
-2.[^5] Németh László-díj.
+2.[^6] Németh László-díj.
 
 (9) A miniszter által adományozandó felsőoktatási díj az oktatási ágazatban:
 
@@ -138,14 +140,15 @@
 
 3. Scheiber Sándor-díj,
 
-4.[^6] Pro Cultura Minoritatum Hungariae díj.
+4.[^7] Pro Cultura Minoritatum Hungariae díj.
 
 (13) A miniszter által adományozható díj a tartósan kiemelkedő színvonalú, a minisztériumban végzett közszolgálati tevékenységért:
 
 1. Közösség Szolgálatáért díj.
 
-[^2]: A 2. § (6) bekezdés 3. pontját a 30/2017. (XI. 21.) EMMI rendelet 2. §-a iktatta be.
-[^3]: A 2. § (7) bekezdés 3. pontját a 3/2017. (III. 7.) EMMI rendelet 7. §-a hatályon kívül helyezte.
-[^4]: A 2. § (8) bekezdés nyitó szövegrésze a 3/2017. (III. 7.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § (8) bekezdés 2. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^6]: A 2. § (12) bekezdés 4. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^2]: A 2. § (2) bekezdés 19. pontját a 9/2018. (II. 15.) EMMI rendelet 1. §-a iktatta be.
+[^3]: A 2. § (6) bekezdés 3. pontját a 30/2017. (XI. 21.) EMMI rendelet 2. §-a iktatta be.
+[^4]: A 2. § (7) bekezdés 3. pontját a 3/2017. (III. 7.) EMMI rendelet 7. §-a hatályon kívül helyezte.
+[^5]: A 2. § (8) bekezdés nyitó szövegrésze a 3/2017. (III. 7.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (8) bekezdés 2. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (1) bekezdése iktatta be.
+[^7]: A 2. § (12) bekezdés 4. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (2) bekezdése iktatta be.
