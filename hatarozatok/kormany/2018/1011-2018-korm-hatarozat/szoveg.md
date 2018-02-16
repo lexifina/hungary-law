@@ -18,4 +18,6 @@ c) a digitális tanítási és tanulási módszer bevezetésével
 
 6. Ez a határozat 2018. február 15-én lép hatályba.
 
-7. Hatályát veszti a digitális oktatás tartalomfejlesztésért felelős kormánybiztos kinevezéséről és feladatairól szóló 1060/2016. (II. 25.) Korm. határozat.
+7.[^1]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
