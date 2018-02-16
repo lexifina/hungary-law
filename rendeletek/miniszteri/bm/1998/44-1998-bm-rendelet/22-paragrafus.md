@@ -1,3 +1,3 @@
-## 21. §[^45]
+## 21. §[^46]
 
-[^45]: A 21. §-t a 44/2015. (VII. 15.) BM rendelet 7. §-a hatályon kívül helyezte.
+[^46]: A 21. §-t a 44/2015. (VII. 15.) BM rendelet 7. §-a hatályon kívül helyezte.
