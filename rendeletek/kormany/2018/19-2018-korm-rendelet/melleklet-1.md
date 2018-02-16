@@ -1,3 +1,5 @@
-## lép.
+## 60. §[^8]
 
 1. melléklet a 19/2018. (II. 14.) Korm. rendelethez
+
+[^8]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
