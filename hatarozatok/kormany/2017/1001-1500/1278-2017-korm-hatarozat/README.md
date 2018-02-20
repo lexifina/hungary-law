@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1278-30
 | --- | --- | --- |
 | 2017-06-02 | 2017-1278-30-22.1 | 1278/2017. (VI. 2.) Korm. határozat |
 | 2017-06-03 | 2017-1278-30-22.2 | 2010: CXX. törvény |
+| 2018-02-20 | 2017-1278-30-22.3 | 1051/2018. (II. 20.) Korm. határozat |

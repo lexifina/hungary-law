@@ -32,7 +32,7 @@
 
 ## bd) fejlesztéseinek előfeltétele, hogy azok állami tulajdonában lévő ingatlanokon valósuljanak meg, akként, hogy az érintett önkormányzatok a fejlesztéssel érintett ingatlanokat – a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság előzetes megfelelősségről szóló véleményét követően – az állam számára ingyenesen tulajdonba adják,
 
-## be) beruházásai kézilabda munkacsarnokonként nem haladhatják meg a nettó 500,0 millió forint bekerülési értéket;
+## be)[^1] beruházásai kézilabda munkacsarnokonként nem haladhatják meg a nettó 600,0 millió forint bekerülési értéket;
 
 ## c) megállapítja, hogy a beruházáshoz szükséges megfelelő ingatlan állam részére történő felajánlása hiányában az adott település a megfelelő ingatlan biztosításáig tartaléklistára kerül és a 2. melléklet szerinti 17 település közül a soron következő település lép a helyébe;
 
@@ -50,8 +50,9 @@
 
 ## 6. jóváhagyja, hogy a Nemzeti Sportközpontok által a 3. pont szerinti előirányzatok, illetve támogatás terhére lefolytatásra kerülő beszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni;
 
-## 7.[^1]
+## 7.[^2]
 
 1. melléklet az 1278/2017. (VI. 2.) Korm. határozathoz
 
-[^1]: A 7. pont a 2010: CXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont b) alpont be) alpontja az 1051/2018. (II. 20.) Korm. határozattal módosított szöveg.
+[^2]: A 7. pont a 2010: CXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
