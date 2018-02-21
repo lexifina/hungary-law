@@ -1,6 +1,6 @@
 1. A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján létrehozza a Nemzeti Autóbusz Beszerzési Bizottságot (a továbbiakban: NABB).
 
-2. A NABB feladata a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény hatálya alá tartozó regionális Közlekedési Központok és a VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság flottakezelő társaságánál (a továbbiakban: flottakezelő társaság) az autóbusz-beszerzések iparpolitikai céloknak megfelelő előkészítésének előmozdítása, a beszerzési szempontok egységesítése és a magyar autóbuszipar fejlődésének elősegítése.
+2.[^1] A NABB feladata a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény hatálya alá tartozó regionális Közlekedési Központok, a VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság flottakezelő társaságánál, a helyi autóbuszos személyszállítási közszolgáltatást ellátó helyi önkormányzatnál, illetve az általa létrehozott vagy megbízott szolgáltatónál, az államigazgatási szerveknél, valamint az állami irányítás alatt álló gazdálkodó szervezeteknél (a továbbiakban: flottakezelő társaság) az autóbusz-beszerzések iparpolitikai céloknak megfelelő előkészítésének előmozdítása, a beszerzési szempontok egységesítése és a magyar autóbuszipar fejlődésének elősegítése.
 
 3. A NABB a flottakezelő társaság esetén az adásvétel, csere, bérbevétel, lízing konstrukciókban ajánlást fogalmaz meg a beszerzési eljárás lényeges tartalma – így különösen a választott eljárástípus, a beszerzés tárgya és mennyisége, az eljárás indításának tervezett időpontja, a szerződés időtartama, a bírálati szempontok, a pénzügyi-gazdasági alkalmassági feltételek, a műszaki-szakmai alkalmassági feltételek, a műszaki leírások, egyéb lényeges szerződéses feltételek – tekintetében.
 
@@ -53,3 +53,5 @@ d) a Nemzeti Fejlesztési Minisztérium állami vagyon felügyeletéért és kö
 18. A NABB elnöke és tagjai, valamint a Munkacsoport elnöke és tagjai a NABB-ban végzett tevékenységükért tiszteletdíjban nem részesülnek.
 
 19. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont az 1048/2018. (II. 20.) Korm. határozat 2. pontjával megállapított szöveg.
