@@ -130,7 +130,7 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 6. | KEHOP-5.2.2. | Középületek kiemelt épületenergetikai fejlesztései | 145,04 | kiemelt | Meghirdetve 2016. március 10-én |
 
-| 7. | KEHOP-5.2.3. | Egyházak épületenergetikai fejlesztései megújuló energiaforrás hasznosításának lehetőségével | 13,00 | kiemelt | Meghirdetve 2016. szeptember 9-én |
+| 7. | KEHOP-5.2.3. | Egyházak épületenergetikai fejlesztései megújuló energiaforrás hasznosításának lehetőségével | 13,08 | kiemelt | Meghirdetve 2016. szeptember 9-én |
 
 | 8. | KEHOP-5.2.4. | Központi költségvetési szervek energiahatékonysági beruházásai – szakaszolt projektek | 15,44 | kiemelt | Meghirdetve 2016. március 9-én |
 
@@ -165,4 +165,4 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 [^5]: Az 1. pont h) alpontját az 1651/2017. (IX. 12.) Korm. határozat 3. pontja iktatta be, szövege az 1905/2017. (XII. 6.) Korm. határozat 3. pont 3.1. alpontja szerint módosított szöveg.
 [^6]: Az 1. pont i) alpontját az 1905/2017. (XII. 6.) Korm. határozat 1. pontja iktatta be.
 [^7]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: Az 1. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont b) alpontja, az 1463/2016. (VIII. 24.) Korm. határozat 3. és 5. pontja, az 1717/2016. (XII. 5.) Korm. határozat 3. pontja, az 1208/2017. (IV. 10.) Korm. határozat 3. pont c) alpontja, az 1372/2017. (VI. 12.) Korm. határozat 3. pont c) alpontja, az 1432/2017. (VI. 29.) Korm. határozat 3. pont c) alpontja, az 1581/2017. (VIII. 28.) Korm. határozat 3. pont c) alpontja, az 1599/2017. (VIII. 31.) Korm. határozat 3. pont c) alpontja, az 1651/2017. (IX. 12.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3.–5.7. alpontja, az 1660/2017. (IX. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1905/2017. (XII. 6.) Korm. határozat 2. pont a) alpontja és a 3. pont 3.2.–3.4. alpontja szerint módosított szöveg.
+[^8]: Az 1. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont b) alpontja, az 1463/2016. (VIII. 24.) Korm. határozat 3. és 5. pontja, az 1717/2016. (XII. 5.) Korm. határozat 3. pontja, az 1208/2017. (IV. 10.) Korm. határozat 3. pont c) alpontja, az 1372/2017. (VI. 12.) Korm. határozat 3. pont c) alpontja, az 1432/2017. (VI. 29.) Korm. határozat 3. pont c) alpontja, az 1581/2017. (VIII. 28.) Korm. határozat 3. pont c) alpontja, az 1599/2017. (VIII. 31.) Korm. határozat 3. pont c) alpontja, az 1651/2017. (IX. 12.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3.–5.7. alpontja, az 1660/2017. (IX. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1905/2017. (XII. 6.) Korm. határozat 2. pont a) alpontja és a 3. pont 3.2.–3.4. alpontja, az 1055/2018. (II. 20.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
