@@ -1,0 +1,119 @@
+|  | A | B |
+
+| 1. | A beruházás megvalósításának helyszíne | Koordinációra kijelölt kormánymegbízott |
+
+| 2. | Budapest közigazgatási területén elhelyezkedő, 74351 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 3. | Budapest közigazgatási területén elhelyezkedő, 74348 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 4. | Budapest közigazgatási területén elhelyezkedő, 74352 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 5. | Budapest közigazgatási területén elhelyezkedő, 74332 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 6. | Budapest közigazgatási területén elhelyezkedő, 74350 helyrajzi számú ingatlan | Budapest Fővárosi Kormányhivatalát vezető kormánymegbízott |
+
+| 7. | Budapest közigazgatási területén elhelyezkedő, 75100/2 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 8. | Budapest közigazgatási területén elhelyezkedő, 75100/7 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 9. | Budapest közigazgatási területén elhelyezkedő, 75100/6 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 10. | Budapest közigazgatási területén elhelyezkedő, 76491/8 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 11. | Budapest közigazgatási területén elhelyezkedő, 75845 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 12. | Kisvárda közigazgatási területén elhelyezkedő, 3188/1 helyrajzi számú ingatlan | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 13. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 7828 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 14. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 7830 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 15. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 829/13 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 16. | Nagykanizsa közigazgatási területén elhelyezkedő, 638 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 17. | Nagykanizsa közigazgatási területén elhelyezkedő, 4386/6 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 18. | Nagykanizsa közigazgatási területén elhelyezkedő, 0482/2 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 19. | Nagykanizsa közigazgatási területén elhelyezkedő, 264 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 20. | Nagykanizsa közigazgatási területén elhelyezkedő, 4001/4 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 21. | Nagykanizsa közigazgatási területén elhelyezkedő, 0447 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 22. | Zalaegerszeg közigazgatási területén elhelyezkedő, 4955 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 23. | Zalaegerszeg közigazgatási területén elhelyezkedő, 24232 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 24. | Zalaegerszeg közigazgatási területén elhelyezkedő, 697/16 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 25. | Vác közigazgatási területén elhelyezkedő, 4165/5 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 26. | Vác közigazgatási területén elhelyezkedő, 4164 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 27. | Győr közigazgatási területén elhelyezkedő, 5474/1 helyrajzi számú ingatlan | Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 28. | Győr közigazgatási területén elhelyezkedő, 5474/2 helyrajzi számú ingatlan | Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 29. | Hajdúnánás közigazgatási területén elhelyezkedő, 763/4 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 30. | Hajdúnánás közigazgatási területén elhelyezkedő, 763/3 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 31. | Hajdúnánás közigazgatási területén elhelyezkedő, 774 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 32. | Hajdúnánás közigazgatási területén elhelyezkedő, 0855/9 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 33. | Belezna közigazgatási területén elhelyezkedő, 0198/6 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
+
+2. melléklet a 23/2018. (II. 20.) Korm. rendelethez
+
+## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+
+1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3. környezetvédelmi hatósági eljárások,
+
+4. természetvédelmi hatósági eljárások,
+
+5. útügyi hatósági eljárások,
+
+6. vasúti és szalagpálya hatósági engedélyezési eljárás,
+
+7. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+9. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+10. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+11. telekalakításra irányuló hatósági eljárások,
+
+12. területrendezési hatósági eljárások,
+
+13. földmérési hatósági eljárások,
+
+14. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+15. hírközlési hatósági eljárások,
+
+16. bányahatósági engedélyezési eljárások,
+
+17. tűzvédelmi hatósági eljárások,
+
+18. élelmiszerlánc-felügyeleti eljárás,
+
+19. közegészségügyi hatósági eljárások,
+
+20. erdővédelmi hatósági eljárások,
+
+21. földvédelmi hatósági eljárások,
+
+22. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+
+23. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
