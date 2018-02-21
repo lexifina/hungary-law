@@ -1,1 +1,0 @@
-A Kézilabda Munkacsarnok-fejlesztési Programmal kapcsolatos intézkedésekről szóló 1278/2017. (VI. 2.) Korm. határozat 3. pont b) alpont be) alpontjában a „nem haladhatják meg a nettó 500,0 millió forint bekerülési értéket” szövegrész helyébe a „nem haladhatják meg a nettó 600,0 millió forint bekerülési értéket” szöveg lép.
