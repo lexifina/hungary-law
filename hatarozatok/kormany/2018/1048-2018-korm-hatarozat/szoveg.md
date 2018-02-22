@@ -16,8 +16,8 @@ nemzetgazdasági miniszter
 
 Határidő: folyamatos
 
-2. A Nemzeti Autóbusz Beszerzési Bizottságról szóló 1357/2016. (VII. 13.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
-
-„2. A NABB feladata a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény hatálya alá tartozó regionális Közlekedési Központok, a VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság flottakezelő társaságánál, a helyi autóbuszos személyszállítási közszolgáltatást ellátó helyi önkormányzatnál, illetve az általa létrehozott vagy megbízott szolgáltatónál, az államigazgatási szerveknél, valamint az állami irányítás alatt álló gazdálkodó szervezeteknél (a továbbiakban: flottakezelő társaság) az autóbusz-beszerzések iparpolitikai céloknak megfelelő előkészítésének előmozdítása, a beszerzési szempontok egységesítése és a magyar autóbuszipar fejlődésének elősegítése.”
+2.[^1]
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
