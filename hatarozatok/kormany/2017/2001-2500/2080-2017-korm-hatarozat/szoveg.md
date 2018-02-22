@@ -4,17 +4,17 @@ A Magyarország Kormánya és Nagykanizsa Megyei Jogú Város Önkormányzata k�
 
 2. egyetért azzal, hogy a Sport- és rendezvénycsarnok-beruházásra 8 800 000 000 forint központi költségvetési támogatás kerüljön biztosításra az Önkormányzat mint építtető részére az alábbi ütemezés szerint:
 
-a) a 2017. évben 115 283 000 forint,
+a)[^1]
 
-b) a 2018. évben 3 910 020 000 forint,
+b)[^2] a 2018. évben 4 025 303 000 forint,
 
 c) a 2019. évben 4 774 697 000 forint;
 
 3. egyetért azzal, hogy a fedett, 50 méteres versenymedencét magába foglaló uszodafejlesztésre 6 200 000 000 forint összegű központi költségvetési támogatás kerüljön biztosításra az Önkormányzat mint építtető részére az alábbi ütemezés szerint:
 
-a) a 2017. évben 82 822 000 forint,
+a)[^3]
 
-b) a 2018. évben 2 739 903 000 forint,
+b)[^4] a 2018. évben 2 822 725 000 forint,
 
 c) a 2019. évben 3 377 275 000 forint;
 
@@ -24,17 +24,13 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-5. egyetért azzal, hogy – a Modern Városok Program Bizottságnak a Modern Városok Program megvalósításáról szóló 250/2016. (VIII. 24.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4. § (2) bekezdése alapján meghozott erre irányuló döntése esetén – a Sport- és rendezvénycsarnok-beruházás megvalósításához 2017. évben szükséges 115 283 000 forint, valamint az Uszoda-beruházás megvalósításához 2017. évben szükséges 82 822 000 forint a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoporton rendelkezésre álló előirányzatból kerüljön biztosításra az Önkormányzat részére;
+5.[^5]
+
+6.[^6] egyetért azzal, hogy – a Modern Városok Program Bizottságnak a Modern Városok Program megvalósításáról szóló 250/2016. (VIII. 24.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2017. december 31-én hatályos 4. § (2) bekezdése alapján meghozott támogatási döntése esetén – a Sport- és rendezvénycsarnok-beruházás megvalósításához 2018. évben szükséges 4 025 303 000 forint, valamint az Uszoda-beruházás megvalósításához 2018. évben szükséges 2 822 725 000 forint a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport előirányzat terhére kerüljön biztosításra az Önkormányzat részére;
 
 Felelős: megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter
 
-Határidő: a Modern Városok Program Bizottság döntését követően, az ott meghatározott ütemezés szerint
-
-6. egyetért azzal, hogy – a Modern Városok Program Bizottságnak a Korm. rendelet 4. § (2) bekezdése alapján meghozott erre irányuló döntése esetén – a Sport- és rendezvénycsarnok-beruházás megvalósításához 2018. évben szükséges 3 910 020 000 forint, valamint az Uszoda-beruházás megvalósításához 2018. évben szükséges 2 739 903 000 forint a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport előirányzat terhére kerüljön biztosításra az Önkormányzat részére;
-
-Felelős: megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter
-
-Határidő: a 2018. évi költségvetési törvény végrehajtása során, a támogatói okiratban foglaltak szerint, a finanszírozási szükséglet felmerülésének időpontjában
+Határidő: a támogatói okiratban foglaltak szerint, a finanszírozási szükséglet felmerülésének időpontjában
 
 7. felhívja a nemzetgazdasági minisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával gondoskodjon a Sport- és rendezvénycsarnok-beruházás megvalósításához 2019. évben szükséges 4 774 697 000 forint, valamint az Uszoda-beruházás megvalósításához a 2019. évben szükséges 3 377 275 000 forint biztosításáról a központi költségvetés XI. Miniszterelnökség fejezetben;
 
@@ -44,7 +40,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: a 2019. évi központi költségvetés tervezése során
 
-8. az államháztartásról szóló 2011. évi CXCV. törvény 36.§ (4b) bekezdésében biztosított jogkörében eljárva engedélyezi a megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter számára, hogy – a Modern Városok Program Bizottságnak a Korm. rendelet 4. § (2) bekezdése alapján meghozott erre irányuló döntése esetén – a Sport- rendezvénycsarnok-beruházás, valamint az Uszoda-beruházás megvalósítása érdekében a 2018. és 2019. költségvetési év kiadási előirányzata terhére éven túli kötelezettséget vállaljon a 2. és 3. pont szerinti éves ütemezéssel;
+8.[^7] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi a megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter számára, hogy – a Modern Városok Program Bizottságnak a Korm. rendelet 2017. december 31-én hatályos 4. § (2) bekezdése alapján meghozott erre irányuló döntése esetén – a Sport- és rendezvénycsarnok-beruházás, valamint az Uszoda-beruházás megvalósítása érdekében a 2019. költségvetési év kiadási előirányzata terhére éven túli kötelezettséget vállaljon;
 
 Felelős: megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter
 
@@ -55,3 +51,11 @@ Határidő: a támogatói okirat kiadásakor
 Felelős: megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter
 
 Határidő: a támogatói okirat kiadásakor
+
+[^1]: A 2. pont a) alpontját az 1059/2018. (II. 22.) Korm. határozat 10. pont c) alpontja visszavonta.
+[^2]: A 2. pont b) alpontja az 1059/2018. (II. 22.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^3]: A 3. pont a) alpontját az 1059/2018. (II. 22.) Korm. határozat 10. pont c) alpontja visszavonta.
+[^4]: A 3. pont b) alpontja az 1059/2018. (II. 22.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^5]: Az 5. pontot az 1059/2018. (II. 22.) Korm. határozat 10. pont c) alpontja visszavonta.
+[^6]: A 6. pont az 1059/2018. (II. 22.) Korm. határozat 8. pontjával megállapított szöveg.
+[^7]: A 8. pont az 1059/2018. (II. 22.) Korm. határozat 9. pontjával megállapított szöveg.
