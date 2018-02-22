@@ -1,12 +1,10 @@
 ## 1. a szegedi sportfejlesztések (a továbbiakban együttesen: Beruházások) megvalósítása körében egyetért
 
-## a) azzal, hogy Szegeden 10 pályás, 50 méteres versenymedencét, 25×15 méteres bemelegítő medencét és 20×12,5 méteres tanmedencét, illetve a hozzá tartozó szükséges infrastruktúrát tartalmazó új versenyuszoda (a továbbiakban: Uszoda) kerüljön megvalósításra, melynek céljára 10 642 981 000 forint összegű központi költségvetési támogatás kerüljön biztosításra – az államháztartásról szóló 2011. évi CXCV. törvény 48. § (1) bekezdés b) pontjában foglaltak szerint kiadásra kerülő támogatói okirat alapján – Szeged Megyei Jogú Város Önkormányzata (a továbbiakban: Önkormányzat) mint megvalósító részére az alábbi ütemezés szerint:
+## a)[^1] azzal, hogy Szegeden 10 pályás, 50 méteres versenymedencét, 25 × 15 méteres bemelegítő medencét és 20 × 12,5 méteres tanmedencét, illetve a hozzá tartozó szükséges infrastruktúrát tartalmazó új versenyuszoda (a továbbiakban: Uszoda) kerüljön megvalósításra, amelynek céljára 10 642 981 000 forint összegű költségvetési támogatás kerüljön biztosításra – az államháztartásról szóló 2011. évi CXCV. törvény 48. § (1) bekezdés b) pontjában foglaltak szerint kiadásra kerülő támogatói okirat alapján – Szeged Megyei Jogú Város Önkormányzata (a továbbiakban: Önkormányzat) mint megvalósító részére az alábbi ütemezés szerint:
 
-## aa) a 2017. évben 508 381 000 forint,
+## aa) a 2018. évben 5 054 981 000 forint,
 
-## ab) a 2018. évben 4 546 600 000 forint,
-
-## ab) a 2019. évben 5 588 000 000 forint,
+## ab) a 2019. évben 5 588 000 000 forint;
 
 ## b) azzal, hogy Szegeden, a Szeged II. kerület, belterület 10005/4 hrsz.-ú ingatlanon, az ingatlan állami tulajdonba vételével, állami beruházásként új, 8000 férőhelyes, nemzetközi kézilabda mérkőzések megrendezésére is alkalmas multifunkcionális csarnok (a továbbiakban: Kézilabdacsarnok) kerüljön megvalósításra, melynek céljára mindösszesen 16 200 000 000 forint összegű központi költségvetési támogatás kerüljön biztosításra a Nemzeti Sportközpontok (a továbbiakban: NSK) részére az alábbi költségvetési évek szerinti bontásban:
 
@@ -26,13 +24,9 @@
 
 ## 3. az Uszoda megvalósítása érdekében
 
-## a) egyetért azzal, hogy – a Modern Városok Program Bizottságnak a Korm. rendelet 4. § (2) bekezdése alapján meghozott erre irányuló döntése esetén – az Uszoda megvalósításához 2017. évben szükséges 508 381 000 forint a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoporton rendelkezésre álló előirányzat terhére kerüljön biztosításra az Önkormányzat részére,
+## a)[^2]
 
-## Felelős: megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter
-
-## Határidő: a felmerülés ütemében
-
-## b) egyetért azzal, hogy – a Modern Városok Program Bizottságnak a Korm. rendelet 4. § (2) bekezdése alapján meghozott erre irányuló döntése esetén – az Uszoda megvalósításához a 2018. évben szükséges 4 546 600 000 forint a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: 2018. évi Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoporton rendelkezésre álló előirányzat terhére kerüljön biztosításra az Önkormányzat részére,
+## b)[^3] egyetért azzal, hogy – a Modern Városok Program Bizottságnak a Korm. rendelet 2017. december 31-én hatályos 4. § (2) bekezdése alapján meghozott erre irányuló döntése esetén – az Uszoda megvalósításához a 2018. évben szükséges 5 054 981 000 forint a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: 2018. évi Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoporton rendelkezésre álló előirányzat terhére kerüljön biztosításra az Önkormányzat részére,
 
 ## Felelős: megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter
 
@@ -46,11 +40,7 @@
 
 ## Határidő: a 2019. évi központi költségvetés tervezése során
 
-## 4. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi a megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter számára, hogy – a Modern Városok Program Bizottságnak a Korm. rendelet 4. § (2) bekezdése alapján meghozott erre irányuló döntése esetén – az Uszoda megvalósítása érdekében a 2018–2019. költségvetési évek kiadási előirányzata terhére legfeljebb 10 134 600 000 forint összeg mértékig éven túli kötelezettséget vállaljon az alábbi ütemezéssel:
-
-## a) a 2018. évre vonatkozó kötelezettségvállalás felső korlátja 4 546 600 000 forint,
-
-## b) a 2019. évre vonatkozó kötelezettségvállalás felső korlátja 5 588 000 000 forint;
+## 4.[^4] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi a megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter számára, hogy – a Modern Városok Program Bizottságnak a Korm. rendelet 2017. december 31-én hatályos 4. § (2) bekezdése alapján meghozott erre irányuló döntése esetén – az Uszoda megvalósítása érdekében a 2019. költségvetési év kiadási előirányzata terhére legfeljebb 5 588 000 000 forint összeg mértékéig éven túli kötelezettséget vállaljon;
 
 ## Felelős: megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter
 
@@ -70,7 +60,7 @@
 
 ## 7. egyetért azzal, hogy a Kézilabdacsarnok építtetője az NSK legyen, amellyel összefüggésben – kizárólag a Kézilabdacsarnok megvalósításának tekintetében – a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat (jelen pont tekintetében a továbbiakban: Korm. hat.) mentesíti az NSK-t a Korm. hat. 1. pontjában foglalt tilalom alól;
 
-## 8.[^1]
+## 8.[^5]
 
 ## 9. felhívja a nemzeti fejlesztési minisztert, hogy a Kézilabdacsarnok állami beruházás keretében történő megvalósítása érdekében, illetve a 3. pontban foglaltak teljesíthetősége érdekében a XVII. Nemzeti Fejlesztési Minisztérium Fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 52. Szeged multifunkcionális csarnok előirányzaton rendelkezésre álló forrás terhére – figyelembe véve a támogatás kifizetéséhez kapcsolódó pénzügyi tranzakciós illetékek és kincstári díjak összegét – hozza létre a támogatási jogviszonyt az NSK-val;
 
@@ -180,4 +170,8 @@ forintban
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja az 1059/2018. (II. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 3. pont a) alpontját az 1059/2018. (II. 22.) Korm. határozat 10. pont a) alpontja visszavonta.
+[^3]: A 3. pont b) alpontja az 1059/2018. (II. 22.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: A 4. pont az 1059/2018. (II. 22.) Korm. határozat 3. pontjával megállapított szöveg.
+[^5]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
