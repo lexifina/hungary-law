@@ -16,7 +16,7 @@ e) a biztosító az általa kezelt portfólió javára nem köthet ügyletet –
 
 f) a befektetés az ügyfél számára a befektetési politikával összhangban, szakszerű végrehajtás mellett, tisztességesen, átláthatóan, kellő gondossággal és az ügyfél érdekében valósuljon meg, különös tekintettel az árra, a költségre – az alapkezelés során kapott visszatérítést elvonáscsökkentésként beszámítva – és az elvárható hozamra.
 
-(1a) A biztosító köteles az általa felszámított bármely díjat, költséget vagy jutalékot, továbbá a képzett tartalék arányában felszámított elvonást úgy megnevezni, hogy abból, illetve a kapcsolódó meghatározásból egyértelműen megállapítható legyen ezek célja és mögöttes tartalma.
+(1a) A biztosító köteles az általa felszámított bármely díjat, költséget vagy javadalmazást, továbbá a képzett tartalék arányában felszámított elvonást úgy megnevezni, hogy abból, illetve a kapcsolódó meghatározásból egyértelműen megállapítható legyen ezek célja és mögöttes tartalma.
 
 (2) A biztosító szabályzatban határozza meg az (1) bekezdés a) pontjában meghatározott eszközök értékelésének elveire, továbbá a szerződők tájékoztatásának módjára és gyakoriságára vonatkozó szabályokat.
 

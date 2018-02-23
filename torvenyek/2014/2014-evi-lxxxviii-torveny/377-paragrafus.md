@@ -27,3 +27,5 @@ g) a jutalékjogosultságot és a jogosultság megvonásának feltételeit.
 (5) A biztosításközvetítő részére jutalékelőleg nem fizethető.
 
 (6) A biztosításközvetítőt a biztosításközvetítői tevékenységéért a kapott jutalékon kívül más juttatás nem illeti meg a biztosítótól. A biztosító a biztosításközvetítőt a jutalékon kívül, a biztosításközvetítői tevékenységtől eltérő szolgáltatás ellentételezéseként egyéb díjazásban, juttatásban részesítheti, a jogosultság pontos jogcímének feltüntetésével, ellenőrizhető és átlátható módon, dokumentált formában.
+
+(7) Az (1)–(6) bekezdésben foglaltak a független biztosításközvetítők esetében is megfelelően alkalmazandóak azzal, hogy esetükben jutalékon a biztosítótól származó, a biztosítási díj meghatározott részét képező közvetett díjazást kell érteni.

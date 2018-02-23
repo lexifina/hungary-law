@@ -14,7 +14,7 @@ f) azon szervezetek tevékenységére, amelyek kizárólag halál esetére váll
 
 g) a jogi személyiséggel nem rendelkező azon szervezetek tevékenységére, amelyek célja az, hogy tagjaik számára bárminemű díj fizetése vagy biztosítástechnikai tartalékok képzése nélkül kölcsönös védelmet nyújtsanak;
 
-h)
+h) a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (a továbbiakban: Gfbt.) 42. §-a szerinti határbiztosítással kapcsolatos feladatai ellátásával összefüggésben a Nemzeti Irodára, valamint annak megbízottjaira;
 
 i) olyan szervezetek által nyújtott szolgáltatásokra, amelyek célja, hogy szolgáltatásokat nyújtsanak – gazdálkodó szervezethez, gazdálkodó szervezetek csoportjához, továbbá szakmához vagy szakmák csoportjához tartozó – alkalmazottaknak vagy önálló vállalkozó személyeknek elhalálozás, túlélés vagy a tevékenységgel való felhagyás vagy annak korlátozása esetén, függetlenül attól, hogy az ilyen tevékenységből származó kötelezettségvállalásokra a biztosítástechnikai tartalékok mindenkor teljes fedezetet biztosítanak-e;
 

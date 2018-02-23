@@ -4,4 +4,6 @@
 
 (3) A kisbiztosító-egyesület az 55. § (1) bekezdés d)–f) pontjában meghatározott egyéb vezetőket nem köteles alkalmazni.
 
+(3a) A kizárólag az 1. melléklet A) rész 8. és 9. pontja szerinti ágazatokat művelő kisbiztosító-egyesület egyéb vezetőt nem köteles alkalmazni.
+
 (4) A kisbiztosító-egyesületnek nem kell könyvvizsgálót választani.

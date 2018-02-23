@@ -80,7 +80,11 @@ s) a kiadott tevékenységi engedélyt részben vagy egészben felfüggesztheti;
 
 t) a kiadott alapítási vagy tevékenységi engedélyt visszavonhatja;
 
-u) előírhatja a biztosító és a viszontbiztosító számára a biztosítási és a viszontbiztosítási tevékenységhez kapcsolódó fizetőképességről és pénzügyi helyzetről szóló jelentéssel összefüggő részletszabályokról szóló rendeletben meghatározott információk közzétételét.
+u) előírhatja a biztosító és a viszontbiztosító számára a biztosítási és a viszontbiztosítási tevékenységhez kapcsolódó fizetőképességről és pénzügyi helyzetről szóló jelentéssel összefüggő részletszabályokról szóló rendeletben meghatározott információk közzétételét;
+
+v) a biztosítási alapú befektetési termékek értékesítésére vonatkozó üzletviteli jogszabályi követelmények megsértése esetén – a felügyelőbizottság tagjait ide nem értve – a vezető állású személyt határozott időre eltilthatja e feladatköre ellátásától,
+
+w) kötelezheti a biztosítót, hogy a közreműködőjét, illetve az általa megbízott kiegészítő biztosításközvetítői tevékenységet végző személyt (ide értve a 368. § (1) bekezdése szerinti személyt is) törölje a belső nyilvántartásából.
 
 (2) Az (1) bekezdés q) pont qd)–qf) alpontjában meghatározott intézkedéseket a Felügyelet határozott időtartamra, de legfeljebb egy évre hozhatja meg. Ezt a határidőt a Felügyelet egy alkalommal, legfeljebb hat hónappal meghosszabbíthatja.
 

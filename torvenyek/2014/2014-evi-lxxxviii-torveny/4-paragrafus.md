@@ -32,17 +32,15 @@ b) szervezetet azonosító adatok: név, rövidített név, székhely, telephely
 
 13. biztosítási üzletág: a biztosítástechnikai tartalékok képzésének, illetve a tőkeszükséglet számításának céljából, a kockázatok természete alapján történő minimálisan elvárt elkülönített kezelése szerinti, a biztosítási és viszontbiztosítási kockázatoknak a homogén csoportja, az Európai Bizottságnak (a továbbiakban: Bizottság) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II) szóló 2009. november 25-i 2009/138/EK európai parlamenti és tanácsi irányelv (a továbbiakban: Szolvencia 2 irányelv) 86. cikk (1) bekezdés e) pontjában meghatározott tárgykörben kiadott rendeletének I. melléklete szerint;
 
-14. biztosításközvetítői tevékenység: a biztosítási szerződés létrehozására irányuló üzletszerű tevékenység, amely kiterjed a biztosítási szerződések megkötésének elősegítésére, biztosítási termékek ismertetésére, ajánlására, az ezzel kapcsolatos felvilágosításra, a biztosítási szerződések megkötésére, a biztosítási szerződések értékesítésének szervezésére, továbbá a biztosítási szerződések lebonyolításában és teljesítésében való közreműködésre. Nem minősül biztosításközvetítői tevékenységnek:
+14. biztosításközvetítői tevékenység: a biztosításközvetítő által végzett azon üzletszerű tevékenység, amely a biztosítási értékesítést, annak szervezését, valamint a független biztosításközvetítői szaktanácsadást foglalja magában, azzal, hogy nem minősülnek biztosításközvetítői tevékenységnek a 123. pont a)–d) alpontjai szerinti tevékenységek;
 
-a) a más szakmai tevékenység keretében nyújtott információszolgáltatás, amennyiben a tevékenység célja nem az, hogy az ügyfélnek segítséget nyújtson egy biztosítási szerződés megkötésében vagy teljesítésében,
+15. biztosításközvetítő: az a természetes vagy jogi személy, aki javadalmazás ellenében biztosításközvetítői tevékenységet végez, ide nem értve
 
-b) a követelések behajtásában való közreműködés,
+a) a saját kockázatvállalásával összefüggő, saját jogú értékesítési tevékenységet végző biztosítót és a vele jogviszonyban álló, részére közvetlenül értékesítési tevékenységet végző, biztosításközvetítőnek nem minősülő természetes személyeket (a továbbiakban: biztosító közreműködői),
 
-c) a kárfelmérési és értékbecslési tevékenység,
+b) a saját kockázatvállalásával összefüggő, saját jogú viszontbiztosítási értékesítési tevékenységet végző viszontbiztosítót és a vele jogviszonyban álló, részére közvetlenül értékesítési tevékenységet végző, viszontbiztosítás-közvetítőnek nem minősülő természetes személyeket (a továbbiakban: viszontbiztosító közreműködői),
 
-d) a biztosítási szerződések lebonyolításában és teljesítésében való közreműködés, ha azt olyan személy végzi, aki a biztosítási igények felkutatásában és a biztosítási védelmet kereső ügyfelek igényének szerződéskötés céljából való kiközvetítésében egyébként nem vesz részt;
-
-15. biztosításközvetítő: az a természetes vagy jogi személy, aki biztosításközvetítői tevékenységet végez;
+c) a kiegészítő biztosításközvetítői tevékenységet végző személyt (beleértve a 368. § (1) bekezdése szerinti személyt is);
 
 16. biztosítástechnikai kockázat: a veszteség vagy a biztosítási kötelezettség értékében bekövetkező kedvezőtlen változás kockázata, amely a nem megfelelő árazási, illetve tartalékolási feltevésekből ered;
 
@@ -92,11 +90,9 @@ b) szerződéses rendelkezések azzal a céllal, hogy a felek gazdasági eredmé
 
 34. függő biztosításközvetítő: az a biztosításközvetítő, aki biztosítóval fennálló jogviszony alapján
 
-a) egy biztosító biztosítási termékeit vagy több biztosító egymással nem versengő biztosítási termékeit közvetíti;
+a) egy biztosító biztosítási termékeit vagy több biztosító egymással nem versengő biztosítási termékeit közvetíti (a továbbiakban: ügynök),
 
-b) a biztosításközvetítői tevékenységet – akár több biztosító egymással versengő biztosítási termékeit – a főtevékenységéhez kapcsolódó termékre vagy szolgáltatásra vonatkozóan, azt kiegészítő tevékenységként végzi, ha a biztosítótól az ügyfélnek járó összeget nem vesz át [az a)–b) pont a továbbiakban együtt: ügynök];
-
-c) egyidejűleg több biztosító egymással versengő biztosítási termékeit közvetíti (a továbbiakban: többes ügynök);
+b) egyidejűleg több biztosító egymással versengő biztosítási termékeit közvetíti (a továbbiakban: többes ügynök);
 
 35. független biztosításközvetítő: az ügyfél megbízásából eljáró biztosításközvetítő;
 
@@ -108,7 +104,7 @@ c) egyidejűleg több biztosító egymással versengő biztosítási termékeit 
 
 39. harmadik országbeli viszontbiztosító: az a harmadik országbeli biztosítónak nem minősülő harmadik országbeli szervezet, amely a székhely szerinti ország jogszabályai alapján viszontbiztosítási tevékenységre jogosult és ezen tevékenysége e törvény szerint engedélyköteles lenne, ha a székhelye Magyarország területén lenne;
 
-40. határon átnyúló szolgáltatás: az a szolgáltatás, amely esetében a biztosító, a viszontbiztosító, és a biztosításközvetítő tevékenységéhez kapcsolódó kötelezettségvállalás tagállama nem azonos azzal a tagállammal, ahol a biztosító, a viszontbiztosító, és a biztosításközvetítő székhelye, központi ügyintézés helye (a továbbiakban: központi iroda) található;
+40. határon átnyúló szolgáltatás: az a szolgáltatás, amely esetében a biztosító vagy a viszontbiztosító tevékenységéhez kapcsolódó kötelezettségvállalás tagállama nem azonos azzal a tagállammal, ahol a biztosító vagy a viszontbiztosító székhelye, központi irodája található, biztosításközvetítő, viszontbiztosítás-közvetítő és kiegészítő biztosításközvetítői tevékenységet végző személy esetén pedig az a szolgáltatás, amelyet a biztosításközvetítő, a viszontbiztosítás-közvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy fogadó tagállamban nyújt;
 
 41. illikvid eszköz: eszközalap olyan eszköze, amelynek értéke nem állapítható meg, ideértve különösen, ha az értékelésre alkalmas piaci árfolyam-információk az eszköz forgalmazásának, kereskedésének vagy nyilvános árjegyzésének felfüggesztése miatt nem állnak maradéktalanul rendelkezésre;
 
@@ -116,7 +112,7 @@ c) egyidejűleg több biztosító egymással versengő biztosítási termékeit 
 
 43. indulótőke: a kölcsönös biztosító egyesület alapításkori jegyzett tőkéje;
 
-44. Információs Központ: a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvényben (a továbbiakban: Gfbt.) meghatározott fogalom;
+44. Információs Központ: a Gfbt.-ben meghatározott fogalom;
 
 45. járadékszolgáltatás: a jogosult részére szerződés alapján meghatározott pénzösszeg időszakonként visszatérő szolgáltatása;
 
@@ -130,11 +126,11 @@ a) a biztosított által elszenvedett kár és a részére járó sérelemdíj p
 
 b) a biztosított polgári, büntető-, közigazgatási hatósági vagy egyéb eljárásban, illetve a biztosítottal szemben támasztott kártérítési és sérelemdíj iránti igény esetében való védelme vagy képviselete;
 
-49. jutalék: jogcímtől függetlenül a biztosítási díj meghatározott részét képező minden olyan pénzbeli vagy természetbeni előny, szolgáltatás, juttatás és ellentételezés, amelyben a biztosításközvetítő az általa közvetített biztosítási szerződés létrejöttéért, illetve az általa közvetített vagy fenntartott biztosítási szerződés teljesítéséért, meghatározott ideig való fenntartásáért az elvégzett biztosításközvetítői tevékenység díjazásaként a kockázatot elvállaló biztosítótól közvetve vagy közvetlenül részesül;
+49. jutalék: a biztosítási díj meghatározott részét képező minden olyan javadalmazási forma, amelyben a függő biztosításközvetítő az általa közvetített biztosítási szerződés létrejöttéért, illetve az általa közvetített vagy fenntartott biztosítási szerződés teljesítéséért, meghatározott ideig való fenntartásáért az elvégzett biztosításközvetítői tevékenység díjazásaként a kockázatot elvállaló biztosítótól közvetlenül részesül;
 
-50. jutalékjogosultság: a biztosításközvetítő által közvetített vagy fenntartott biztosítási szerződés tekintetében a biztosításközvetítői jogviszony alapján a közvetítőt megillető jogosultság a biztosítás tartama alatt a biztosításközvetítői tevékenység által érintett időszakra járó jutalék vonatkozásában, meghatározott esetekben és mértékben a biztosítási szerződés folyamatos fennállása esetén a közvetítői jogviszony megszűnését követő időszakot is beleértve;
+50. jutalékjogosultság: a függő biztosításközvetítő által közvetített vagy fenntartott biztosítási szerződés tekintetében a biztosításközvetítői jogviszony alapján a közvetítőt megillető jogosultság a biztosítás tartama alatt a biztosításközvetítői tevékenység által érintett időszakra járó jutalék vonatkozásában, meghatározott esetekben és mértékben a biztosítási szerződés folyamatos fennállása esetén a közvetítői jogviszony megszűnését követő időszakot is beleértve;
 
-51. jutalék-visszatérítés: a biztosításközvetítőt a biztosításközvetítői jogviszonya alapján terhelő jutalék-visszatérítési kötelezettség, amely szerint a részére fizetett jutalékot meghatározott feltételek szerint – a jutalékfizetés alapjául szolgáló tényezők változásával arányosan – részben vagy egészben köteles visszafizetni, amennyiben a közvetített biztosítási szerződés idő előtt (biztosítási eseményhez nem köthetően) megszűnik vagy a biztosítási díj olyan mértékű változása következik be, amely nem fedezi a kifizetett jutalék összegét;
+51. jutalék-visszatérítés: a függő biztosításközvetítőt a biztosításközvetítői jogviszonya alapján terhelő jutalék-visszatérítési kötelezettség, amely szerint a részére fizetett jutalékot meghatározott feltételek szerint – a jutalékfizetés alapjául szolgáló tényezők változásával arányosan – részben vagy egészben köteles visszafizetni, amennyiben a közvetített biztosítási szerződés idő előtt (biztosítási eseményhez nem köthetően) megszűnik vagy a biztosítási díj olyan mértékű változása következik be, amely nem fedezi a kifizetett jutalék összegét;
 
 52. kapcsolt vállalkozás: a leányvállalat vagy az a vállalkozás, amelyben egy másik vállalkozás részesedési viszonnyal rendelkezik, illetve az a vállalkozás, amelyet az alábbi kapcsolatok valamelyike fűz egy másik vállalkozáshoz, de nem jön létre ellenőrző befolyás közöttük
 
@@ -302,9 +298,9 @@ c) az ugyanazon biztosítási ágazatba vagy ugyanazon biztosítási ágazat val
 
 112. viszontbiztosítási tevékenység: a biztosító vagy viszontbiztosító, továbbá harmadik országbeli biztosító vagy viszontbiztosító által vállalt kockázat egy részének vagy egészének szerződésben meghatározott feltételek alapján, díjfizetés ellenében történő átvállalása;
 
-113. viszontbiztosítás-közvetítői tevékenység: viszontbiztosítási szerződés létrehozására irányuló rendszeres, üzletszerű tevékenység, amely kiterjed a viszontbiztosítási szerződések megkötésének elősegítésére, viszontbiztosítási termékek ismertetésére, ajánlására, az ezzel kapcsolatos felvilágosításra, a viszontbiztosítási szerződések megkötésére, a viszontbiztosítási szerződések értékesítésének szervezésére, továbbá a viszontbiztosítási szerződések lebonyolításában és teljesítésében való közreműködésre;
+113. viszontbiztosítás-közvetítői tevékenység: a viszontbiztosító által végzett azon üzletszerű tevékenység, amely a viszontbiztosítási értékesítést és annak szervezését foglalja magában, azzal, hogy nem minősülnek viszontbiztosítás-közvetítői tevékenységnek a 124. pont a)–d) alpontjai szerinti tevékenységek;
 
-114. viszontbiztosítás-közvetítő: az a természetes vagy jogi személy, aki főtevékenységként viszontbiztosítás-közvetítői tevékenységet végez;
+114. viszontbiztosítás-közvetítő: az a természetes vagy jogi személy, aki javadalmazás ellenében viszontbiztosítás-közvetítői tevékenységet végez, ide nem értve a saját kockázatvállalásával összefüggő, saját jogú viszontbiztosítási értékesítési tevékenységet végző viszontbiztosítót és közreműködőit;
 
 115. viszontbiztosító: az a vállalkozás, amely a székhelye szerinti tagállamban kizárólag viszontbiztosítási és azzal közvetlenül összefüggő tevékenység végzésére kapott engedélyt;
 
@@ -318,9 +314,65 @@ c) az ugyanazon biztosítási ágazatba vagy ugyanazon biztosítási ágazat val
 
 120. külső hitelminősítő intézet: a Hpt.-ben meghatározott fogalom;
 
-121. tartós adathordozó: a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény 2. § (1) bekezdés e) pontjában meghatározott fogalom;
+121. tartós adathordozó: a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény 2. § (1) bekezdés e) pontjában meghatározott fogalom, azzal, hogy a tárolt adatoknak változatlan formában többszörözhetőknek is kell lenniük;
 
-122. alapvető kamatkülönbözet: az eszközök nemteljesítési valószínűségének megfelelő hitelkockázati kamatkülönbözet és az eszközök leminősítéséből eredő várható veszteségeknek megfelelő hitelkockázati kamatkülönbözet összege.
+122. alapvető kamatkülönbözet: az eszközök nemteljesítési valószínűségének megfelelő hitelkockázati kamatkülönbözet és az eszközök leminősítéséből eredő várható veszteségeknek megfelelő hitelkockázati kamatkülönbözet összege;
+
+123. biztosítási értékesítés: azon – a biztosítási szerződés létrehozására irányuló – üzletszerű értékesítési tevékenység, amely kiterjed a biztosítási szerződések megkötésének előkészítésére, illetve elősegítésére, az azokkal kapcsolatos tanácsadásra, ajánlattételre, az ilyen szerződések lebonyolításában és teljesítésében való közreműködésre (ideértve a kárigény érvényesítése kapcsán történő közreműködést is), valamint azon esetekben, amikor az ügyfélnek lehetősége van honlapon vagy más tájékoztatási eszközön keresztül közvetve vagy közvetlenül biztosítási szerződés megkötésére ajánlatot tenni és ennek alapján szerződést kötni, a biztosítási termékek, valamint azok árai (ideértve a nyújtott árkedvezményt is) különböző kritériumok alapján történő összehasonlítására és az azokról történő tájékoztatásra is, azzal, hogy nem minősül biztosítási értékesítésnek:
+
+a) a más szakmai tevékenység keretében esetileg nyújtott tájékoztatás, amennyiben a tájékoztatást nyújtó nem tesz további – a biztosítási szerződés megkötését vagy teljesítését elősegítő – lépést,
+
+b) a biztosítási károk szakmai alapon végzett kárügyintézése, valamint a kárrendezési és szakértői kárbecslési – szakmai alapon végzett – tevékenység,
+
+c) adat- és információszolgáltatás a lehetséges szerződőkről biztosításközvetítők vagy biztosítók számára, amennyiben az információt nyújtó nem tesz további – a biztosítási szerződés megkötését elősegítő – lépést,
+
+d) tájékoztatás nyújtása biztosítási termékekről, illetve biztosításközvetítőkről vagy biztosítókról a lehetséges szerződők számára, amennyiben a tájékoztatást nyújtó nem tesz további – a biztosítási szerződés megkötését elősegítő – lépést;
+
+124. viszontbiztosítási értékesítés: azon – a viszontbiztosítási szerződés létrehozására irányuló – üzletszerű értékesítési tevékenység, amely kiterjed a viszontbiztosítási szerződések megkötésének előkészítésére, illetve elősegítésére, az azokkal kapcsolatos tanácsadásra, ajánlattételre, az ilyen szerződések lebonyolításában és teljesítésében való közreműködésre (ideértve a kárigény érvényesítése kapcsán történő közreműködést is), azzal, hogy nem minősül viszontbiztosítási értékesítésnek:
+
+a) a más szakmai tevékenység keretében esetileg nyújtott tájékoztatás, amennyiben a tevékenység célja nem az, hogy az ügyfélnek segítséget nyújtson viszontbiztosítási szerződés megkötésében vagy teljesítésében,
+
+b) a viszontbiztosítási károk szakmai alapon végzett kárügyintézése, valamint a kárrendezési és szakértői kárbecslési tevékenység,
+
+c) adat- és információszolgáltatás a lehetséges szerződőkről viszontbiztosítás-közvetítők vagy viszontbiztosítók számára, amennyiben az információt nyújtó nem tesz további – a viszontbiztosítási szerződés megkötését elősegítő – lépést,
+
+d) tájékoztatás nyújtása viszontbiztosítási termékekről, illetve viszontbiztosítás-közvetítőkről vagy viszontbiztosítókról a lehetséges szerződők számára, amennyiben a tájékoztatást nyújtó nem tesz további – a viszontbiztosítási szerződés megkötését elősegítő – lépést;
+
+125. kiegészítő biztosításközvetítői tevékenységet végző személy: azon – az 575/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés 1. és 2. pontjában meghatározott hitelintézettől vagy befektetési vállalkozástól eltérő – természetes vagy jogi személy, aki – az őt megbízó biztosító, többes ügynök vagy alkusz felelősségvállalása mellett – javadalmazás ellenében a főtevékenységéhez kapcsolódóan kiegészítő jelleggel végez kiegészítő biztosításközvetítői tevékenységet, amennyiben az alábbi feltételek mindegyike teljesül:
+
+a) a személy fő szakmai tevékenysége nem a biztosítási értékesítés,
+
+b) a közvetített biztosítási szerződés kiegészítője valamely szolgáltató által kínált terméknek vagy nyújtott szolgáltatásnak,
+
+c) a közvetített biztosítási szerződés nem-életbiztosítási szerződés és nem tartalmaz felelősségi kockázatot, kivéve, ha az ilyen fedezet kiegészíti a személy által fő szakmai tevékenységeként kínált terméket vagy nyújtott szolgáltatást,
+
+d) a biztosítótól az ügyfélnek járó összeget előzetesen nem vesz át;
+
+126. biztosításértékesítő: bármely biztosításközvetítő, kiegészítő biztosításközvetítői tevékenységet végző személy vagy biztosító;
+
+127. javadalmazás: bármely jutalék, közvetítői díj, egyéb díj vagy más kifizetés, ideértve bármilyen jellegű gazdasági előnyt, vagy bármely egyéb pénzbeli vagy nem pénzbeli előnyt vagy ösztönzőt, amelyet a biztosítási értékesítési tevékenységre tekintettel kínálnak fel vagy nyújtanak;
+
+128. a biztosítás-, viszontbiztosítás-közvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy székhely szerinti tagállama: természetes személy esetén a lakóhelye szerinti tagállam, jogi személy esetén a székhelye szerinti tagállam, vagy amennyiben a nemzeti joga szerint nincs székhelye, akkor a központi irodája szerinti tagállam;
+
+129. a biztosításközvetítő, a viszontbiztosítás-közvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy fogadó tagállama: – a székhely szerinti tagállamtól eltérő – azon tagállam, ahol a biztosításközvetítő, a viszontbiztosítás-közvetítő vagy a kiegészítő biztosításközvetítői tevékenységet végző személy fióktelep formájában vagy határon átnyúló szolgáltatásként tevékenységet végez;
+
+130. tagállami fióktelep: a biztosító, a viszontbiztosító, a biztosításközvetítő, a viszontbiztosítás-közvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy – a székhelye szerinti tagállamon kívüli – tagállamban található képviselete vagy fióktelepe;
+
+131. központi iroda: az a hely, ahonnan a biztosító, viszontbiztosító, biztosításközvetítő, viszontbiztosítás-közvetítő és kiegészítő biztosításközvetítői tevékenységet végző személy fő tevékenységének irányítása történik;
+
+132. tanácsadás: a biztosításértékesítő – saját kezdeményezésére vagy az ügyfél kérésére megvalósuló – személyes ajánlása egy vagy több biztosítási termékre vonatkozóan;
+
+133. biztosítási alapú befektetési termék: olyan biztosítási termék, amely lejárati értékkel vagy visszavásárlási értékkel rendelkezik, és amelynek lejárati vagy visszavásárlási értéke részben vagy egészben, közvetlenül vagy közvetve ki van téve a piaci ingadozásoknak, azzal, hogy nem minősülnek biztosítási alapú befektetési terméknek
+
+a) az 1. melléklet szerinti nem-életbiztosítási ágazatokhoz kapcsolódó biztosítási termékek,
+
+b) azon életbiztosítási szerződések, amelyek tisztán kockázatiak (halálesetiek), illetve amelyek esetén biztosítási szolgáltatás kizárólag sérülésből, betegségből vagy fogyatékosságból eredő rokkantsággal összefüggésben nyújtható,
+
+c) olyan nyugdíj-előtakarékossági (nem biztosítási alapú) befektetési termékek, amelyek elsődleges céljukat tekintve a befektető számára nyugdíjjövedelmet biztosító és a befektetőt bizonyos szolgáltatásokra feljogosító termékként elismert termékek,
+
+d) a foglalkoztatói nyugdíjpénztári nyugdíjkonstrukciók,
+
+e) olyan egyéni nyugdíj-előtakarékossági termékek, amelyeknél a munkáltató pénzügyi hozzájárulásra kötelezett, és amelyek esetében a munkáltatónak vagy a munkavállalónak nincs választási lehetősége a nyugdíj-előtakarékossági termék vagy szolgáltatója tekintetében.
 
 (2) Az Európai Unió és az Európai Unió tagállama kifejezésen az Európai Gazdasági Térséget (a továbbiakban: EGT) és az EGT-államot is érteni kell, azzal, hogy a nem-életbiztosítási ág tekintetében a Svájci Államszövetségre az EGT-államra vonatkozó rendelkezéseket kell alkalmazni.
 

@@ -4,4 +4,4 @@
 
 (3) A kisbiztosító-egyesület esetén a 26–30. § rendelkezései nem alkalmazhatók.
 
-(4) Kisbiztosító-egyesület nem köteles terméktervet készíteni.
+(4) Kisbiztosító-egyesület nem köteles terméktervet készíteni és esetében a 131/A. § rendelkezéseit nem kell alkalmazni.

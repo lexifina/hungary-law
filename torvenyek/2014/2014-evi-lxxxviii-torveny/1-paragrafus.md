@@ -12,7 +12,7 @@ b) Magyarország területén kívül székhellyel rendelkező biztosító és vi
 
 c) az a) és a b) pontba nem tartozó, Magyarország területén végzett biztosítási tevékenységre;
 
-d) a Magyarország területén székhellyel vagy lakcímmel rendelkező biztosításközvetítő biztosításközvetítői tevékenységére, továbbá a Magyarország területén kívül székhellyel vagy lakcímmel rendelkező biztosításközvetítő Magyarország területén végzett – e törvényben meghatározott – biztosításközvetítői tevékenységére;
+d) a Magyarország területén székhellyel vagy lakcímmel rendelkező biztosításközvetítő, viszontbiztosítás-közvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy biztosításközvetítői, viszontbiztosítás-közvetítői vagy kiegészítő biztosításközvetítői tevékenységére, továbbá a Magyarország területén kívül székhellyel vagy lakcímmel rendelkező biztosításközvetítő, viszontbiztosítás-közvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy Magyarország területén végzett – e törvényben meghatározott – biztosításközvetítői, viszontbiztosítás-közvetítői vagy kiegészítő biztosításközvetítői tevékenységére;
 
 e) a biztosító által kiszervezett tevékenységet végző kizárólag – az e törvény hatálya alá tartozó – kiszervezett tevékenységére;
 
@@ -24,4 +24,12 @@ h) a különleges célú gazdasági egységekre és azok működésére;
 
 i) a biztosító és a viszontbiztosító könyvvizsgálójára.
 
-(2) E törvény rendelkezéseit Magyarország területén székhellyel rendelkező biztosító, viszontbiztosító, biztosításközvetítő külföldön végzett biztosítási, viszontbiztosítási, biztosításközvetítői tevékenységére kizárólag abban az esetben kell alkalmazni, ha nemzetközi szerződés, az Európai Unió közvetlen hatályú, közvetlenül alkalmazható kötelező jogi aktusa eltérően nem rendelkezik.
+(2) E törvény rendelkezéseit a Magyarország területén székhellyel vagy lakcímmel rendelkező biztosító, viszontbiztosító, biztosításközvetítő, viszontbiztosítás-közvetítő és kiegészítő biztosításközvetítői tevékenységet végző személy Európai Unióban végzett biztosítási, viszontbiztosítási, biztosításközvetítői, viszontbiztosítás-közvetítői és kiegészítő biztosításközvetítői tevékenységére kell alkalmazni, kivéve, ha e törvény, nemzetközi szerződés, illetve az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa eltérően rendelkezik.
+
+(3) E törvény rendelkezéseit a Magyarország területén székhellyel vagy lakcímmel rendelkező biztosító, viszontbiztosító, biztosításközvetítő, viszontbiztosítás-közvetítő és kiegészítő biztosításközvetítői tevékenységet végző személy azon biztosítási, viszontbiztosítási, biztosításközvetítői, viszontbiztosítás-közvetítői és kiegészítő biztosításközvetítői tevékenységére,
+
+a) amelyet az Európai Unión kívül végez, illetve
+
+b) amely az Európai Unión kívüli kockázatokra és kötelezettségvállalásokra vonatkozik,
+
+kizárólag abban az esetben kell alkalmazni, ha nemzetközi szerződés így rendelkezik.

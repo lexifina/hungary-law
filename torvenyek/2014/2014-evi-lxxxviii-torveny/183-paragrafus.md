@@ -1,6 +1,6 @@
 ## 73. A hitelezői igények kielégítése
 
-183. § (1) A felszámolás során a felszámoló a biztosítónak a biztosítási szerződésből származó kötelezettségeit a Cstv. 57. § (1) bekezdés a) és b) pontjában meghatározott követelések kielégítése után a Cstv. 57. § (1) bekezdés c)–h) pontjában meghatározott követelések kielégítése előtt köteles kielégíteni.
+183. § (1) A felszámolás során a felszámoló a biztosítónak a biztosítási szerződésből származó kötelezettségeit a Cstv. 57. § (1) bekezdés a) és b) pontjában meghatározott követelések kielégítése után a Cstv. 57. § (1) bekezdés c)–h) pontjában meghatározott követelések kielégítése előtt köteles kielégíteni, ide nem értve a 185/A. §-ban foglalt esetet.
 
 (2) A biztosító biztosítási szerződésből eredő kötelezettségeit az alábbi sorrendben teljesíti:
 

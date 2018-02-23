@@ -1,0 +1,1 @@
+452/L. § A 375/B. §, a 377. § és a 377/A. § – az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított – rendelkezéseit a 2018. december 31-én fennálló, valamint azt követően kötött jutalékfizetésre vonatkozó, valamint az alkusz és a biztosító közti megállapodásokra kell alkalmazni.

@@ -1,4 +1,4 @@
-## 171. A biztosításközvetítőkkel kapcsolatos titokvédelmi szabályok
+## 171. A biztosításközvetítőkkel és a kiegészítő biztosításközvetítői tevékenységet végző személyekkel kapcsolatos titokvédelmi szabályok
 
 379. § (1) A biztosításközvetítő az ügyfelek azon biztosítási titkait jogosult kezelni, amelyek a biztosítási szerződéssel, annak létrejöttével, nyilvántartásával, a szolgáltatással összefüggnek. Az adatkezelés célja csak a biztosítási szerződés megkötéséhez, módosításához, a biztosítás fenntartásához, a biztosítási szerződésből származó követelések megítéléséhez szükséges, vagy az e törvény által meghatározott egyéb cél lehet.
 

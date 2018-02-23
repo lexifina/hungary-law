@@ -8,9 +8,9 @@
 
 a) nem terheli, ha a szerződés viszontbiztosítási szerződés, valamint a szerződés nagykockázatra létrejövő biztosítási szerződés,
 
-b) az alkusszal szemben terheli, ha a biztosítási szerződés megkötése során alkusz működik közre.
+b) nem terheli, ha a biztosítási szerződés megkötésében biztosításközvetítő működik közre.
 
-(4) Az (1) bekezdésben meghatározott igényfelmérés, illetve igénypontosítás céljából a biztosító által használható dokumentum (a továbbiakban: életbiztosítási igényfelmérő) tartalmi elemeit a Magyar Nemzeti Bank elnöke rendeletben határozza meg.
+(4)
 
 (5) A rendszeres vagy folyamatos és egyszeri díjas megtakarítási jellegű életbiztosítás esetén a biztosító a (2) bekezdésben meghatározott termékismertető átadásakor köteles tájékoztatni az ügyfelet az adott biztosítás teljes költségmutatójáról és annak internetes elérhetőségéről.
 

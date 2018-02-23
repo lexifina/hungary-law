@@ -12,7 +12,7 @@ e) a biztosításközvetítő – biztosító, többes ügynök vagy alkusz ált
 
 f) a gépjármű-felelősségbiztosítási termék adatszolgáltatásának szabályaira,
 
-g) az életbiztosítási igényfelmérő tartalmi elemeire,
+g)
 
 h) a teljes költségmutató számítására és közzétételére,
 

@@ -8,7 +8,7 @@ c) a felszámolásról szóló végzés tartalmáról;
 
 d) az egyes felszámolással kapcsolatos határidőkhöz fűződő jogkövetkezményekről;
 
-e) a 183–184. §-ban foglaltak szerint a kielégítés sorrendjéről;
+e) a 183–184. §-ban, valamint a 185/A. §-ban foglaltak szerint a kielégítés sorrendjéről;
 
 f) a 193. § (3) bekezdésében meghatározott tájékoztató elektronikus elérésének módjáról.
 

@@ -1,7 +1,9 @@
-409. § A 407. § (1) bekezdésében meghatározott nyilvántartás az e törvény alapján engedélyezett vagy bejelentett biztosításközvetítési tevékenységet végző természetes vagy jogi személy vonatkozásában
+409. § A 407. § (1) bekezdésében meghatározott nyilvántartás az e törvény alapján engedélyezett vagy bejelentett biztosításközvetítési tevékenységet végző természetes vagy jogi személy, valamint kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet vonatkozásában
 
-a) a biztosításközvetítő természetes személy vagy gazdálkodó szervezet neve,
+a) a természetes személy vagy gazdálkodó szervezet neve,
 
 b) a nyilvántartási szám és annak kelte, valamint
 
-c) a függő vagy független biztosításközvetítői tevékenység végzésére való jogosultság tekintetében közhiteles nyilvántartásnak minősül.
+c) a függő, független vagy kiegészítő biztosításközvetítői tevékenység végzésére való jogosultság
+
+tekintetében közhiteles nyilvántartásnak minősül.

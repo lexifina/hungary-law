@@ -10,6 +10,8 @@ c) megállapítja, hogy a biztosításközvetítő tevékenységi engedély nél
 
 ca) e tevékenységével előidézett jogsértés súlya indokolja, vagy
 
-cb) azon személyek érdekeinek a megóvása indokolja, amelyek számára e tevékenységet végezte.
+cb) azon személyek érdekeinek a megóvása indokolja, amelyek számára e tevékenységet végezte,
+
+d) megállapítja, hogy a természetes személy biztosításközvetítő tevékenysége súlyosan vagy ismételten jogszabálysértő.
 
 (2) A harmadik országbeli biztosításközvetítő fióktelep biztosításközvetítő nyilvántartásban szereplő státusza inaktív szerepeltetéséről a Felügyelet – az (1) bekezdésben foglaltakon túlmenően – akkor is dönt, ha a biztosításközvetítő székhelye szerinti ország jogszabályai alapján már nem jogosult biztosításközvetítői tevékenység végzésére.

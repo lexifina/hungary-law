@@ -1,0 +1,17 @@
+## 56/A. A biztosító és a viszontbiztosító értékesítési tevékenységért felelős vezetőjének, valamint közreműködőinek – az értékesített termékekhez igazodó – szakmai képzése és továbbképzése
+
+134/A. § (1) A biztosító és viszontbiztosító értékesítési tevékenységért felelős vezetője, valamint közreműködői kötelesek – az általuk végzett tevékenységhez és értékesített biztosítási termékekhez igazodó – szakmai ismeretekkel rendelkezni, a már megszerzett ismereteket naprakészen tartani, fejleszteni és a változásokból eredő követelményekkel összhangba hozni.
+
+(2) Az (1) bekezdésben meghatározott követelmény teljesítése érdekében, az ott meghatározott személyek kötelesek – az általuk (az értékesítésért felelős vezető esetén a biztosító vagy a viszontbiztosító által) értékesített vagy a jövőben értékesíteni szándékozott biztosítási termékek vonatkozásában – évente összesen legalább 15 órányi szakmai képzésen, illetve továbbképzésen részt venni, amely a 7. melléklet szerinti ismeretanyagra épül.
+
+(3) Azon személyeknek, akik az adott év második félévében lettek az (1) bekezdés szerinti közreműködők vagy vezetők, és az adott évben még nem teljesítették a (2) bekezdés szerinti követelményt, az adott évben összesen legalább 7,5 órányi szakmai képzésen, illetve továbbképzésen kell részt venniük.
+
+(4) A (2) bekezdés szerinti szakmai képzés, illetve továbbképzés elvégzése legalább két különböző továbbképzési forma együttes elvégzésével (helyszíni jelenléttel megvalósuló továbbképzés, e-learning, mentorálás vagy teljes napnyi időtartamú szakmai konferencián történő részvétel) valósítható meg, azzal, hogy egy teljes napnyi időtartamú szakmai konferencián történő részvétel 5 órányi továbbképzésnek számítható be.
+
+(5) A (2) bekezdés szerinti szakmai képzést, illetve továbbképzést az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó biztosító vagy viszontbiztosító saját maga is végezheti, valamint a szakmai továbbképzés lebonyolítására a 9. mellékletben meghatározott szakképesítés megszerzésére irányuló képzést nyújtó szakképző intézményt, vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, a hatósági vizsgára felkészítő hatósági képzést nyújtó képző szervet is megbízhat.
+
+(6) A foglalkoztató vagy megbízó biztosító vagy viszontbiztosító köteles az (1) bekezdés szerinti – szakmai képzési, illetve továbbképzési kötelezettség alá eső – személyek továbbképzését oly módon megszervezni, hogy az adott személy vonatkozásában az új vagy módosult termék értékesítését szakmai képzés, illetve továbbképzés előzze meg.
+
+(7) A szakmai képzésen, illetve továbbképzésen történő részvételt az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó biztosító vagy viszontbiztosító köteles nyilvántartani, és a felügyeleti ellenőrzés során a Felügyelet részére – a nyilvántartásban szereplő dokumentumokkal – igazolni.
+
+(8) A biztosítók és a viszontbiztosítók az e §-ban, valamint a 75/A. § (1) bekezdésében foglalt követelmények végrehajtására vonatkozó megfelelő belső eljárásrendeket és – a kapcsolódó dokumentumok nyilvántartására – nyilvántartási rendet alakítanak ki, amelyeket rendszeresen, de legalább évente felülvizsgálnak és amelyek végrehajtására vonatkozóan feladatkört hoznak létre, valamint a Felügyeletnek – kérelmére – megnevezik az ezen feladatkör ellátásáért felelős személyt.

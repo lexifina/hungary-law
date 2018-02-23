@@ -1,0 +1,1 @@
+158/A. § A biztosítási termékekkel kapcsolatos marketingközleményeknek világosnak, pontosnak, közérthetőnek, egyértelműnek, nem félrevezetőnek és tisztességesnek kell lenniük, valamint a marketingközlemények marketingjellegének egyértelműen felismerhetőnek kell lennie.
