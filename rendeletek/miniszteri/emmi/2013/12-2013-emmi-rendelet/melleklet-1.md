@@ -1,5 +1,6 @@
-## 9. §[^4] Az 1. § (1) bekezdését nem kell alkalmazni a 2006. január 1-jén állami elismeréssel rendelkező felsőoktatási intézményeknek és jogutódaiknak a felsőoktatásról szóló 1993. évi LXXX. törvény alapján folytatott egyetemi szintű képzéseik, főiskolai szintű képzéseik, szakirányú továbbképzéseik, valamint felsőfokú szakképzéseik első alkalommal történő nyilvántartásba vételére.
+## 9. §[^11]
 
-1. melléklet a 12/2013. (II. 12.) EMMI rendelethez
+1. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^12]
 
-[^4]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 10/2014. (II. 24.) EMMI rendelet 2. §-a iktatta be.
+[^11]: A 9. §-t a 3/2018. (I. 23.) EMMI rendelet 7. § c) pontja hatályon kívül helyezte.
+[^12]: Az 1. melléklet a 3/2018. (I. 23.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.

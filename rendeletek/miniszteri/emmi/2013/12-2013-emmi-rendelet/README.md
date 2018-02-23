@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-12-20-5
 | 2013-03-16 | 2013-12-20-5H.2 | 2010: CXXX. törvény |
 | 2014-03-27 | 2013-12-20-5H.3 | 10/2014. (II. 24.) EMMI rendelet |
 | 2017-05-21 | 2013-12-20-5H.4 | 5/2017. (IV. 20.) EMMI rendelet |
+| 2018-02-23 | 2013-12-20-5H.5 | 3/2018. (I. 23.) EMMI rendelet |

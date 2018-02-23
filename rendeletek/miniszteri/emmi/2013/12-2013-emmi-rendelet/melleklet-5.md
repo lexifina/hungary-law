@@ -14,7 +14,7 @@
 
 | 7. | Szakértői eljárás díja | 25 000 Ft | 25 000 Ft |
 
-5. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^7]
+5. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^16]
 
 |  | A | B | C |
 
@@ -28,7 +28,7 @@
 
 | 5. | Andrássy Gyula Budapesti Német Nyelvű Egyetem | Forint pénzforgalmi számla | MKB Bank Zrt., 10300002-20156189-00003285 |
 
-| 6. | Apor Vilmos Katolikus Főiskola | Forint pénzforgalmi számla | CIB Bank Zrt., 10700323-67353264-51100005 |
+| 6. | Apor Vilmos Katolikus Főiskola | Forintpénzforgalmi számla | CIB Bank Zrt., 10700323-67353264-51100005 |
 
 | 7. | A Tan Kapuja Buddhista Főiskola | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10403181-31818690-00000000 |
 
@@ -114,23 +114,23 @@
 
 | 48. | Moholy-Nagy Művészeti Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-01493287-00000000 |
 
-| 49. | Nemzeti Fejlesztési Minisztérium | Megosztott bevételek besz. célelsz. szla – Közlekedési hat.bev.besz.szla | Magyar Államkincstár, 10032000-00290713-3810004 |
+| 49. | Nemzeti Fejlesztési Minisztérium | Megosztott bevételek besz. célelsz. szla – Közlekedési hat. bev. besz. szla | Magyar Államkincstár, 10032000-00290713-3810004 |
 
 | 50. | Nemzeti Média- és Hírközlési Hatóság | Forint pénzforgalmi számla | Magyar Államkincstár, 10032000-00300939-00000017 |
 
 | 51. | Nemzeti Közszolgálati Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10023002-00318259-00000000 |
 
-| 52. | Nyíregyházi Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10044001-00282895-00000000 |
+| 52. | Neumann János Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10025004-00336114-00000000 |
 
-| 53. | Oktatási Hivatal | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00282637-00000000 |
+| 53. | Nyíregyházi Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10044001-00282895-00000000 |
 
-| 54. | Országos Rabbiképző – Zsidó Egyetem | Forint pénzforgalmi számla | OTP Bank Nyrt., 11708001-20544537-00000000 |
+| 54. | Oktatási Hivatal | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00282637-00000000 |
 
-| 55. | Óbudai Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00291350-00000000 |
+| 55. | Országos Rabbiképző – Zsidó Egyetem | Forint pénzforgalmi számla | OTP Bank Nyrt., 11708001-20544537-00000000 |
 
-| 56. | Pannon Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10048005-01426696-00000000 |
+| 56. | Óbudai Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00291350-00000000 |
 
-| 57. | Pallasz Athéné Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10025004-00336114-00000000 |
+| 57. | Pannon Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10048005-01426696-00000000 |
 
 | 58. | Pápai Református Teológiai Akadémia | Forint pénzforgalmi számla | OTP Bank Nyrt., 11748045-20043836-00000000 |
 
@@ -142,42 +142,40 @@
 
 | 62. | Pest Megyei Kormányhivatal | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10023002-00299671-00000000 |
 
-| 63. | Pető András Főiskola | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00334686-00000000 |
+| 63. | Pünkösdi Teológiai Főiskola | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10401921-00026624-00000002 |
 
-| 64. | Pünkösdi Teológiai Főiskola | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10401921-00026624-00000002 |
+| 64. | Sapientia Szerzetesi Hittudományi Főiskola | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10201006-50062850-00000000 |
 
-| 65. | Sapientia Szerzetesi Hittudományi Főiskola | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10201006-50062850-00000000 |
+| 65. | Sárospataki Református Teológiai Akadémia | Forint pénzforgalmi számla | OTP Bank Nyrt., 11734169-20001278-00000000 |
 
-| 66. | Sárospataki Református Teológiai Akadémia | Forint pénzforgalmi számla | OTP Bank Nyrt., 11734169-20001278-00000000 |
+| 66. | Semmelweis Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00282819-00000000 |
 
-| 67. | Semmelweis Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00282819-00000000 |
+| 67. | Sola Scriptura Teológiai Főiskola | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10201006-50285893-00000000 |
 
-| 68. | Sola Scriptura Teológiai Főiskola | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10201006-50285893-00000000 |
+| 68. | Soproni Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10033001-00290610-00000000 |
 
-| 69. | Soproni Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10033001-00290610-00000000 |
+| 69. | Szegedi Tudományegyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10028007-00282802-00000000 |
 
-| 70. | Szegedi Tudományegyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10028007-00282802-00000000 |
+| 70. | Szent Atanáz Görög Katolikus Hittudományi Főiskola | Forint pénzforgalmi bankszámla | CIB Bank Zrt., 11100702-19204893-36000001 |
 
-| 71. | Szent Atanáz Görög Katolikus Hittudományi Főiskola | Forint pénzforgalmi bankszámla | CIB Bank Zrt., 11100702-19204893-36000001 |
+| 71. | Szent István Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00282826-00000000 |
 
-| 72. | Szent István Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00282826-00000000 |
+| 72. | Szent Pál Akadémia | Forint pénzforgalmi bankszámla | Raiffeisen Bank Zrt., 12072507-01165405-00100003 |
 
-| 73. | Szent Pál Akadémia | Forint pénzforgalmi bankszámla | Raiffeisen Bank Zrt., 12072507-01165405-00100003 |
+| 73. | Széchenyi István Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10033001-01426706-00000000 |
 
-| 74. | Széchenyi István Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10033001-01426706-00000000 |
+| 74. | Színház- és Filmművészeti Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-01493270-00000000 |
 
-| 75. | Színház- és Filmművészeti Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-01493270-00000000 |
+| 75. | Testnevelési Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00334679-00000000 |
 
-| 76. | Testnevelési Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00334679-00000000 |
+| 76. | Tomori Pál Főiskola | Forint pénzforgalmi bankszámla | Szigetvári Takarékszövetkezet, 50800159-11022602-00000000 |
 
-| 77. | Tomori Pál Főiskola | Forint pénzforgalmi bankszámla | Szigetvári Takarékszövetkezet, 50800159-11022602-00000000 |
+| 77. | Veszprémi Érseki Hittudományi Főiskola | Forint pénzforgalmi bankszámla | OTP Bank Nyrt., 11748007-20102269-00000000 |
 
-| 78. | Veszprémi Érseki Hittudományi Főiskola | Forint pénzforgalmi bankszámla | OTP Bank Nyrt., 11748007-20102269-00000000 |
+| 78. | Wekerle Sándor Üzleti Főiskola | Forint pénzforgalmi bankszámla | OTP Bank Nyrt., 11700024-47348804-51100005 |
 
-| 79. | Wekerle Sándor Üzleti Főiskola | Forint pénzforgalmi bankszámla | OTP Bank Nyrt., 11700024-47348804-51100005 |
+| 79. | Wesley János Lelkészképző Főiskola | Forint pénzforgalmi bankszámla | OTP Bank Nyrt., 10708001-20562292-00000000 |
 
-| 80. | Wesley János Lelkészképző Főiskola | Forint pénzforgalmi bankszámla | OTP Bank Nyrt., 10708001-20562292-00000000 |
+| 80. | Zsigmond Király Egyetem | Forint pénzforgalmi bankszámla | Kereskedelmi és Hitelbank Zrt., 10403370-49535552-51491004 |
 
-| 81. | Zsigmond Király Egyetem | Forint pénzforgalmi bankszámla | Kereskedelmi és Hitelbank Zrt., 10403370-49535552-51491004 |
-
-[^7]: Az 5. mellékletet az 5/2017. (IV. 20.) EMMI rendelet 3. §-a iktatta be.
+[^16]: Az 5. mellékletet az 5/2017. (IV. 20.) EMMI rendelet 3. §-a iktatta be, szövege a 3/2018. (I. 23.) EMMI rendelet 5. § (3) bekezdésével megállapított szöveg.
