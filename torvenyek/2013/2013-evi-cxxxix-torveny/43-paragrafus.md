@@ -78,13 +78,19 @@ p) az egyéb rendszerszinten jelentős intézmények és a globálisan rendszers
 
 q) a Hpt. 289/A. § (1) és (4) bekezdése szerinti bejelentésben szereplő tevékenységek leírását,
 
-r) könnyen hozzáférhető módon a Bizottság elektronikus tájékoztatóját, amely felsorolja a fogyasztóknak az Európai Parlament és a Tanács (EU) 2015/2366 irányelve szerinti jogait, valamint a kapcsolódó Európai Uniós jogszabályokat.
+r) könnyen hozzáférhető módon a Bizottság elektronikus tájékoztatóját, amely felsorolja a fogyasztóknak az Európai Parlament és a Tanács (EU) 2015/2366 irányelve szerinti jogait, valamint a kapcsolódó Európai Uniós jogszabályokat,
+
+s) azt a tájékoztatást, hogy a Bit. 378. § (1) bekezdés f), i), k), l), m) és n) pontjában foglaltak a 2016/97/EU európai parlamenti és tanácsi irányelvben foglaltakhoz képest többlettájékoztatási követelményeket állapítanak meg a biztosításközvetítők számára, valamint, hogy a Bit. 166/B. §-a a biztosítási alapú befektetési termékek esetében kötelezővé teszi a tanácsadással történő értékesítést,
+
+t) – jogi területek szerinti kategóriákba sorolva – a biztosítási és viszontbiztosítási értékesítési tevékenységre alkalmazandó hatályos jogszabályok naprakész elérhetőségére mutató internetes hivatkozásokat.
 
 (2a) Az MNB a (2) bekezdés szerinti közzétételi kötelezettségének
 
 a) a (2) bekezdés a) és q) pont vonatkozásában haladéktalanul, egyebekben rendszeresen, de havonta legalább egyszer eleget tesz,
 
 b) egységes elektronikus elérési helyen, átlátható módon tesz eleget.
+
+(2b) Az MNB – erre irányuló megkeresésre – köteles tájékoztatást nyújtani a (2) bekezdés t) pontja szerinti jogszabályokról.
 
 (3) Az MNB által, a (2) bekezdés c)–h) és j)–p) pontja alapján nyilvánosságra hozandó információt a más tagállamok pénzügyi felügyeleti hatóságai által alkalmazott elvekkel és módszerekkel összehasonlítható tartalommal és módon kell közzétenni.
 

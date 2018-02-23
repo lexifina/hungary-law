@@ -32,11 +32,11 @@ d) harmadik országban bejegyzett hitelintézet által Magyarországon bejegyzet
 
 e) harmadik országban bejegyzett vállalkozás által Magyarországon bejegyzett biztosítóban vagy viszontbiztosítóban történő olyan részesedésszerzést, amelynek eredményeképpen a Magyarországon bejegyzett biztosító vagy viszontbiztosító harmadik országbeli vállalkozás leányvállalatává válik, illetve az ilyen részesedés megszűnését,
 
-f) azokat az általános problémákat, amelyeket a Magyarországon működő biztosítók vagy viszontbiztosítók tapasztaltak harmadik országba történő letelepedésük és működésük vagy tevékenységük harmadik országban történő folytatása során,
+f) azokat az általános problémákat, amelyeket a Magyarországon működő biztosítók, viszontbiztosítók, biztosításközvetítők, viszontbiztosítás-közvetítők vagy kiegészítő biztosításközvetítői tevékenységet végző személyek tapasztaltak harmadik országba történő letelepedésük és működésük vagy tevékenységük harmadik országban történő folytatása során,
 
 g) pénzügyi holding társaság összevont alapú felügyelet alá tartozását, illetve annak megszűnését,
 
-h)
+h) azt, hogy a Bit. 378. § (1) bekezdés f), i), k), l), m) és n) pontjában foglaltak a 2016/97/EU európai parlamenti és tanácsi irányelvben foglaltakhoz képest többlettájékoztatási követelményeket állapítanak meg a biztosításközvetítők számára, valamint, hogy a Bit. 166/B. §-a a biztosítási alapú befektetési termékek esetében kötelezővé teszi a tanácsadással történő értékesítést,
 
 i) összevont alapú felügyelet során – a Hpt. 174. § (5)–(7) bekezdése tekintetében – alkalmazott eljárásokat,
 
@@ -168,11 +168,11 @@ cg) a Bit. 310. § (4) és (5) bekezdése szerinti vizsgálatról és az annak a
 
 ch) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti információkról, vizsgálatokról és határozatokról;
 
-ci) az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és az azok során hozott jogerős ítéletekről;
+ci) az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) és (5c) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről,
 
-cj)
+cj) minden évben, összesített tájékoztatás keretében a Bit. biztosítási és viszontbiztosítási értékesítésre vonatkozó szabályainak megsértése okán hozott valamennyi határozatáról,
 
-ck)
+ck) arról, hogy a Bit. 378. § (1) bekezdés f), i), k), l), m) és n) pontjában foglaltak a 2016/97/EU európai parlamenti és tanácsi irányelvben foglaltakhoz képest többlettájékoztatási követelményeket állapítanak meg a biztosításközvetítők számára, valamint, hogy a Bit. 166/B. §-a a biztosítási alapú befektetési termékek esetében kötelezővé teszi a tanácsadással történő értékesítést;
 
 d) az Európai Bankbizottságot a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepére kiadott tevékenységi engedélyről,
 
