@@ -1,1 +1,9 @@
-201. §
+201. § A Bit. 184. alcíme helyébe a következő rendelkezés lép:
+
+„184. Másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy magyarországi fióktelep létesítésére, valamint határon átnyúló szolgáltatás keretében végzett tevékenységének megkezdésére vonatkozó szabályok
+
+423. § (1) Ha a Felügyeletet másik tagállam felügyeleti hatósága arról tájékoztatja, hogy a tagállam területén biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenység végzésére jogosult személy Magyarországon biztosításközvetítői vagy kiegészítő biztosításközvetítői fióktelepet kíván létesíteni vagy állandó jelenlétet létrehozni, vagy első alkalommal kíván határon átnyúló szolgáltatás keretében biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenységet végezni, a Felügyelet a tájékoztatás kézhezvételét követően haladéktalanul visszaigazolja annak kézhezvételét.
+
+(2) Ha a másik tagállam területén biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenység végzésére jogosult személy Magyarországon biztosításközvetítői vagy kiegészítő biztosításközvetítői fióktelepet kíván létesíteni, állandó jelenlétet létrehozni, a Felügyelet az (1) bekezdés szerinti tájékoztatás kézhezvételétől számított egy hónapon belül tájékoztatja a másik tagállam felügyeleti hatóságát az MNBtv. 43. § (2) bekezdés t) pontjában meghatározott jogszabályokról.
+
+(3) A másik tagállamban biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenység végzésére jogosult személy fiókteleppel egyenértékű magyarországi állandó jelenlétére – kivéve, ha az állandó jelenlét a hazai jognak megfelelő más jogi formában valósul meg – a fióktelepre vonatkozó szabályokat kell alkalmazni. Ilyen állandó jelenlétnek minősül különösen a biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy saját alkalmazottai vagy egy olyan személy által működtetett iroda, amely független, de állandó felhatalmazással rendelkezik arra, hogy a biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy érdekében úgy léphessen fel, ahogy azt egy fióktelep tenné.”

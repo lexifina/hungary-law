@@ -1,0 +1,9 @@
+176. § A Bit. 370. §-a helyébe a következő rendelkezés lép:
+
+„370. § (1) A biztosításközvetítői tevékenység végzéséhez nem szükséges a Felügyelet által történő nyilvántartásba vétel, ha a biztosításközvetítői tevékenységet a Hpt.-ben meghatározott hitelintézettel vagy a postai szolgáltatásokról szóló törvényben meghatározott egyetemes postai szolgáltatóval és az egyetemes postai szolgáltató által megbízott közreműködővel munkaviszonyban álló természetes személy a munkáltatója utasításainak megfelelően, a munkáltató ügyfélfogadásra szolgáló helyiségében vagy mobilposta útján végzi.
+
+(2) Az (1) bekezdésben meghatározott személy nem köteles eleget tenni a 369. § (3) bekezdés a) pontjában foglalt követelményeknek, amennyiben pénzügyi szolgáltatás közvetítői vagy tőkepiaci üzletkötői tevékenység végzéséhez szükséges képzettséggel vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti függő biztosításközvetítői hatósági vizsga 1. vizsgatárgya szerinti ismeretekre épülő, a munkáltatója vagy az általa értékesített termék biztosítója által szervezett belső vizsgával rendelkezik.
+
+(3) Az (1) és (2) bekezdésben meghatározott feltételeknek megfelelő természetes személyt a munkáltatója köteles belső nyilvántartásba venni, amely nyilvántartásban fel kell tüntetni, hogy az adott személy a (2) bekezdésben meghatározott követelmények közül melyikkel rendelkezik.
+
+(4) A munkáltató a (3) bekezdés szerinti nyilvántartást és az ahhoz kapcsolódó dokumentumokat köteles a (2) bekezdés szerinti biztosító rendelkezésére bocsátani, aki azt felügyeleti ellenőrzés során köteles a Felügyelet részére átadni.”
