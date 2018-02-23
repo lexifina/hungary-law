@@ -1,1 +1,0 @@
-A biztosítási tevékenységről szóló 2014. évi LXXXVIII. évi törvény 439. § g) pontjában kapott felhatalmazás alapján, a Magyar Nemzeti Bankról szóló 2013. CXXXIX. törvény 4. § (9) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
