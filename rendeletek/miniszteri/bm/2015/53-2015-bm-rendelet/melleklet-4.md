@@ -10,28 +10,6 @@
 
 ## – memóriája egyedi kulcsokkal védett szektorokra tagolt, rendelkezik minimum 128 bites autentikációs kulccsal.
 
-4. melléklet az 53/2015. (IX. 24.) BM rendelethez
+4. melléklet az 53/2015. (IX. 24.) BM rendelethez[^26]
 
-## A kártyaérvényesség megállapításának biztonsági szintjei
-
-## A kártya érvényessége megállapítható:
-
-1. Offline rendszerben:
-
-a) a kártyatestre fizikailag felírt adatok, képek és jelek ellenőrzésével,
-
-b) a kártya elektronikus egyedi azonosítójának kiolvasásával, ellenőrzésével, és formátumának ellenőrzésével,
-
-c) a kártya lenyomatképző algoritmussal készített adatának kiolvasásával és ellenőrzésével,
-
-d) a kártya egyedi authentikációs kulcsának az ellenőrzésével,
-
-e) a kártya elektronikus egyedi azonosítójának kiolvasásával és elfogadási nyilvántartással történő összevetéssel.
-
-2. Online rendszerben:
-
-a) amennyiben a kártyaterminál képes elektronikus aláírások ellenőrzésére, akkor a lenyomatképző által előállított adathoz kapcsolódó elektronikus aláírás online ellenőrzésével,
-
-b) a működtető által nyilvántartott érvényességi adatok online lekérdezésével és ellenőrzésével,
-
-c) a kibocsátó által nyilvántartott, a kibocsátási jogosultság fennállására vonatkozó adatok online lekérdezésével és ellenőrzésével.
+[^26]: A 4. mellékletet az 5/2018. (II. 23.) BM rendelet 3. §-a hatályon kívül helyezte.
