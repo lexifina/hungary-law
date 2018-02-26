@@ -130,6 +130,20 @@
 
 ## Határidő: 2017. június 30.
 
+## 16.[^1] felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy e határozatban meghatározott hazai finanszírozású fejlesztések finanszírozási módjának európai uniós finanszírozásúra történő megváltoztatása esetén vizsgálja meg a projektek Gazdaságfejlesztési és Innovációs Operatív Program (a továbbiakban: GINOP) 7. prioritás felhívásaihoz, különösen a GINOP-7.1.9. felhíváshoz történő illeszkedését, valamint a Terület- és Településfejlesztési Operatív Program (a továbbiakban: TOP) turisztikai felhívásaihoz való kapcsolódását,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## nemzetgazdasági miniszter
+
+## Határidő: 2018. március 31.
+
+## 17.[^2] felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság útján gondoskodjon arról, hogy a felhíváshoz igazodó szakmai tartalmú támogatási kérelmek kerüljenek benyújtásra azon projektek esetében, amelyek finanszírozása hazai finanszírozásról európai uniós finanszírozásra változik.
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: 2018. június 30.
+
 1. melléklet az 1092/2017. (II. 21.) Korm. határozathoz
 
 ## A Tokaj, Felső-Tisza és Nyírség kiemelt turisztikai fejlesztési térséget alkotó 105 település
@@ -349,3 +363,6 @@
 3.6. Nyíregyháza
 
 3.7. Vaja
+
+[^1]: A 16. pontot az 1062/2018. (II. 26.) Korm. határozat 3. pontja iktatta be.
+[^2]: A 17. pontot az 1062/2018. (II. 26.) Korm. határozat 3. pontja iktatta be.
