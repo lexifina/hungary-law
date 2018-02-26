@@ -12,7 +12,7 @@
 
 | 6. | Gyógyhelyek fejlesztése | 3,3 | GINOP7.1.3. |
 
-| 7. | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése (Balaton) | 7,94 | Új konstrukció, GINOP 7.1.9-17 |
+| 7. | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése (Balaton) | 5,24 | Új konstrukció, GINOP 7.1.9-17 |
 
 | 8. | Kulturális és természeti értékek gazdasági és környezeti fenntartható megőrzése és látogathatóvá tétele | 1 | GINOP7.1.5. |
 
@@ -84,7 +84,7 @@
 
 | 42. | Humán kapacitások fejlesztése térségi szemléletben – kiemelt térségek (Balaton) | 1,5 | EFOP-3. |
 
-2. melléklet az 1861/2016. (XII. 27.) Korm. határozathoz
+2. melléklet az 1861/2016. (XII. 27.) Korm. határozathoz[^2]
 
 |  | A | B | C | D |
 
@@ -115,3 +115,9 @@
 | 13. | Badacsony és Fonyód közötti kompjárat | 5,6 | Hazai forrás |
 
 | 14. | Tematikus élménypark kialakítása a Balaton kiemelt turisztikai fejlesztési térségben | 17 | Hazai forrás |
+
+| 15. | 9. Turisztikai szolgáltatások fejlesztése | Gasztronómiai és borturisztikai mesterképző központ kialakítása | 1,5 | Hazai forrás |
+
+| 16. | Mintagazdaságok hálózatának kialakítása (borút) | 1,2 | Hazai forrás |
+
+[^2]: A 2. melléklet az 1062/2018. (II. 26.) Korm. határozat 1. pontja szerint módosított szöveg.
