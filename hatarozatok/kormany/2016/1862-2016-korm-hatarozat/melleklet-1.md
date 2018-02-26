@@ -100,7 +100,11 @@ A Sopron-Fertő kiemelt turisztikai fejlesztési térségben európai uniós és
 
 | 7. | Fertőd, Esterházy-kastély felújítás | 3 | GINOP-7.1.1. |
 
-| 8. | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése (Sopron) | 1,5 | GINOP-7.1.9. új konstrukció |
+| 8. | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése (Sopron) – Gasztronómiai és borturisztikai mesterképző központ kialakítása | 0,4 | hazai forrás |
+
+| 8a. | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése (Sopron) – Térségi termék összekapcsolás | 0,7 | GINOP-7.1.9. |
+
+| 8b. | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése (Sopron) – Mintagazdaságok hálózatának kialakítása (borút) | 0,4 | hazai forrás |
 
 | 9. | Soproni történelmi belváros, középkori várnegyed kulturális örökségvédelmi fejlesztése (Modern Városok Program) | Soproni Várfal, Fabricius-ház, Tábornokház, Storno-ház turisztikai célú fejlesztése, Múzeumnegyed kialakítása | 1,5 | GINOP-7.1.1. |
 
@@ -122,10 +126,10 @@ A Sopron-Fertő kiemelt turisztikai fejlesztési térségben európai uniós és
 
 | 18. | Előkészítés költségei | 0,3 | hazai forrás |
 
-| 19. | A Fertő tó turisztikai attraktivitásának fejlesztése (A Fertő tavi vízitelep fejlesztése a Modern Városok program keretében) | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése (Fertő tó) | 7,93 | GINOP 7.1.9. új konstrukció |
+| 19. | A Fertő tó turisztikai attraktivitásának fejlesztése (A Fertő tavi vízitelep fejlesztése a Modern Városok program keretében) | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése (Fertő tó) | 7,93 | hazai forrás |
 
 | 20. | A Fertő tó alapinfrastruktúrájának fejlesztése, vízminőség javítása | 5,28 | hazai forrás |
 
 | 21. | Vendégfogadás és szállásadás infrastruktúrájának megteremtése a Fertő tónál | 10,05 | hazai forrás |
 
-[^1]: Az 1. melléklet az 1527/2017. (VIII. 14.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1527/2017. (VIII. 14.) Korm. határozat 3. pontja, az 1062/2018. (II. 26.) Korm. határozat 2. pontja és 6. pontja szerint módosított szöveg.
