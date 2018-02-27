@@ -1,3 +1,5 @@
-## 8. § Hatályát veszti a termésbecslésről szóló 6/2014. (II. 6.) VM rendelet.
+## 7–8. §[^1]
 
 1. melléklet az 5/2018. (II. 23.) FM rendelethez
+
+[^1]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
