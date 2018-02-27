@@ -1,0 +1,9 @@
+# 25/2018. (II. 26.) Korm. rendelet
+
+az Emberi Erőforrás Fejlesztési Operatív Program keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-25-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-02-27 | 2018-25-20-22.1 | 25/2018. (II. 26.) Korm. rendelet |
