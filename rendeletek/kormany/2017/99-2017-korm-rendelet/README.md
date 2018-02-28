@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-99-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-04-29 | 2017-99-20-22.1 | 99/2017. (IV. 28.) Korm. rendelet |
+| 2018-02-28 | 2017-99-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
