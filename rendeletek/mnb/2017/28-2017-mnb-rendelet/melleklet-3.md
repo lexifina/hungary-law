@@ -1,6 +1,6 @@
-## 20172C20000028_2
+## 20172C20000028_16
 
-3. melléklet a 28/2017. (XI. 22.) MNB rendelethez
+3. melléklet a 28/2017. (XI. 22.) MNB rendelethez[^3]
 
 A hitelintézet és a hitelintézeti típusú EGT–fióktelep felügyeleti jelentéseire vonatkozó részletes kitöltési előírások
 
@@ -2366,199 +2366,7 @@ A 3I1-3I36 sor csak mérlegen belüli tételeket tartalmazhat. A követeléseket
 
 IFRS-eket alkalmazó adatszolgáltató esetében a 3I34 soron kell szerepeltetni a mérlegben megjelenített visszavásárlási megállapodásokból szerzett forrást.
 
-3.6. 4AT–4AE Lejárati összhang elemzés
-
-4AT Lejárati összhang elemzés – összesítő
-
-4AA Lejárati összhang elemzés – HUF
-
-4AB Lejárati összhang elemzés – EUR
-
-4AC Lejárati összhang elemzés – USD
-
-4AD Lejárati összhang elemzés – CHF
-
-4AE Lejárati összhang elemzés – Egyéb devizák
-
-A hitelintézet középtávú likviditásának mérése és elemzése céljából készülő táblákat – a magyar számviteli előírásokat alkalmazó adatszolgáltató esetében a vonatkozási (beszámolási) időpontra elkészített 1AB és 1B Felügyeleti mérleg fennálló állományi adataiból kiindulva – a vonatkozó szerződésekkel összhangban kell kitölteni, könyv szerinti bruttó értéken, devizanemenként és forintban összesítve.
-
-A táblát az IFRS-eket alkalmazó adatszolgáltató szerződés szerinti diszkontálatlan cash-flowk alapján tölti, ezért nincs elvárt egyezőség a 4A táblák és az IFRS alapú felügyeleti mérleg között, mely utóbbiban a tételek könyv szerinti értéken szerepelnek.
-
-A 4AA-4AE kódú részletező táblákban a megfelelő devizaértékeket millió forintra kerekítve kell szerepeltetni.
-
-A hitelintézetnek meg kell bontania az egyenletes törlesztőrészleten belül a tőkét és kamatot (annuitásos törlesztés) és ennek megfelelően a táblát értelemszerűen kitölteni. A változó kamatozású hiteleknél a törlesztőrészlet – a 9-es kamatkockázati tábláktól eltérően – a szerződés szerinti esedékességi időpontnak megfelelő lejárati sávba sorolandó. A változó kamat számításánál a mérlegkészítéskor ismert kamatfeltételekből kell kiindulni és a jövőbeni kamatáramlást az Eredménytételek táblába beállítani.
-
-A 680/2014/EU bizottsági végrehajtási rendelet 16b. cikk (1) bekezdés c) pontjában, valamint a XXII. és XXIII. mellékletében szereplő, a lejárati összhangra vonatkozó, C 66.01 táblakódú adatszolgáltatás hatálybalépését követően a 4AT-4AE kódú táblákat nem kell jelenteni.
-
-A táblák oszlopai
-
-Az a) Lejárt oszlopban kell kimutatni a vonatkozási időszak végéig esedékessé vált, de ki nem fizetett tőke-, kamat- és egyéb követeléseket a mérlegben való nyilvántartás időpontjáig (a lejárt oszlopban csak a már esedékessé vált, de az esedékesség időpontjáig meg nem fizetett tőke, kamat és egyéb követeléseket kell szerepeltetni. A vonatkozási dátumot követően esedékes követelések pénzáramlásai a Lejárt tételek miatti korrekciók blokkban kerülnek kivezetésre). Lejárt tételként kell feltüntetni azokat a mérlegben szereplő betéteket, illetve a hitelintézet által kibocsátott értékpapírokat és azok kamatát, járulékát is, amelyeket a lejárat után (az esedékességkor) az ügyfelek nem váltottak ki.
-
-A b)-j) oszlopban a lejárattal rendelkező tételeket a hátralévő esedékesség (futamidő) szerint kell kimutatni a szerződés törlesztési ütemezésének, teljesítési határidejének vagy a termék lejárati esedékességének megfelelően. Az oszlopokban a lejárati sáv felső értékét az időintervallumba tartozónak kell tekinteni az alsó érték a megelőző lejárati sáv felső értékét követő 1. nap.
-
-Az eszközök közül azokat a tételeket, amelyek a beszámolás (hónap vége) időpontjától számítva legfeljebb 7 napon belül ténylegesen visszafizetésre, beváltásra, eladásra (pl. értékpapír) kerültek, és már nem lehet (mert megszűnt) a szerződés szerinti időintervallumba besorolni, azokat az 1-30 napig terjedő oszlopban és a megfelelő sorban kell feltüntetni az adatszolgáltatás során (ezek a tételek gyakorlatilag az úton lévő tételeket tartalmazzák). Ezzel analóg módon kell kezelni a beszámolás napja előtt vagy napján megkötött, de a beszámolás napján pénzügyileg még nem teljesített értékpapír és spot, vagy tom-next devizakonverziós ügyleteket az alkalmazott számviteli politikának megfelelően (kötésnapos, vagy értéknapos könyvelés). A forrás oldalon lévő tételek besorolásánál azokat a tételeket (betéteket), amelyeknél a lekötés – a szerződésnek megfelelően – folyamatosan meghosszabbítódik, abban az oszlopban kell feltüntetni, amelyik időszakra a lejárat köttetett (ez esetben egy három hónapos, folyamatosan megújuló lekötött betétet a hátralévő lejárat szerint, azaz szerződéskötéskor pl. a 31-90 napos kategóriába kell besorolni).
-
-A k) oszlopban a konkrét lejárathoz (esedékességhez) nem kötődő tételeket kell feltüntetni.
-
-Az l) Összesen oszlopban a lejárt, a lejárattal feltüntetett, illetve a lejárat nélküli oszlopok összesített értékét kell kimutatni.
-
-A táblák sorai
-
-4A01 Eszközök és Források
-
-Ezen blokkban kell számszerűsíteni, hogy a mérlegben szereplő, egyes kiemelt eszköz- és forrástételek – vonatkozási időpontban fennálló – állományain az érvényes szerződéses feltételek (lejárat, törlesztés) mellett az adott idősávokon belül milyen összegű pénzbevételek és pénzkiadások várhatók.
-
-A táblát cash-flow szemléletben kell kitölteni, ezért – a magyar számviteli előírásokat alkalmazó adatszolgáltató esetében – a felügyeleti mérlegben szereplő aktív és passzív kamatelhatárolás állományokat és az egyéb aktív és passzív elszámolásokból az 1C tábla 1C0831 és 1C0832 során kiemelt egyéb aktív és passzív időbeli elhatárolások értékét, a megképzett értékvesztés-, céltartalék- és értékelési különbözet állományokat nem kell szerepeltetni.
-
-A hátrasorolt követeléseket és kötelezettségeket az azt megtestesítő pénzügyi instrumentum megfelelő sorában kell kimutatni.
-
-A késedelmes devizahitelek forintosításából származó forintköveteléseket 4AA Lejárati összhang elemzés - HUF táblában az eredeti devizahitel célja szerinti sorban, az a) Lejárt oszlopban forint összegben kell kimutatni.
-
-A 4A011 Eszközök és 4A012 Források sor részletezése a mérleg főbb csoportosítása szerint történik. Az eszközöket és forrásokat – a magyar számviteli előírásokat alkalmazó adatszolgáltató esetében – könyv szerinti bruttó értéken kell kimutatni a felügyeleti mérlegsorok alábbi egyezőségének biztosításával:
-
-|  | 4A tábla sorai | Kitöltési előírás1 |
-
-| 4A01 | Mérlegtételek | 1AB és 1B Felügyeleti mérlegsorok |
-
-| 4A011 | Eszközök | Eszközök |
-
-| 4A0111 | Pénztár és elszámolási számlák | 1AB1-1AB16 |
-
-| 4A0112 | Államkötvény, MNB kötvények, Diszkont kincstárjegyek | 1AB2111 + 1AB2112 + 1AB2113 + 1AB2211 + 1AB22121 + 1AB22122 |
-
-| 4A0113 | Egyéb értékpapírok | 1AB2+ 1AB3 – 1AB214 – 1AB215 – 1AB222 – 1AB223 – 1AB233 – 1AB234 – 1AB244 – 1AB245 – 1AB253 – 1AB254 – 1AB262 – 1AB263 – 1AB273 – 1AB274 – 1AB3113 – 1AB3114– 1AB322 – 1AB323 – 1AB332 – 1AB333 – 1AB342 – 1AB343 – 1AB353 – 1AB354 – (1AB2111 + 1AB2112 + 1AB2113 + 1AB2211 + 1AB22121 + 1AB22122) |
-
-| 4A0114 | Jegybankkal szembeni betétek | 1AB411 + 1AB412 |
-
-| 4A0115 | Hitelintézetekkel szembeni betétek | 1AB421+1AB422+ 1AB423+1AB4311+1AB4312+1AB4321+1AB4322 |
-
-| 4A0116 | Hitelek | 1AB5– 1AB5113 – 1AB5114 – 1AB5123– 1AB5124– 1AB5133 – 1AB5134 – 1AB533 – 1AB534 – 1AB544– 1AB545– 1AB553 – 1AB554 – 1AB5616 – 1AB5617– 1AB5626 – 1AB5627 – 1AB574 – 1AB575– 1AB583 – 1AB584 |
-
-| 4A01161 | Pénzügyi vállalatoknak nyújtott hitel | 1AB5311+….+1AB5322+1AB5411+….+1AB543322 |
-
-| 4A01162 | Nem pénzügyi vállalatoknak nyújtott hitel | 1AB5511+….+1AB552722 |
-
-| 4A01163 | Háztartásoknak nyújtott hitel | 1AB5611+….+1AB561522 + 1AB5621 + … + 1AB562522 |
-
-| 4A01164 | Egyéb belföldieknek nyújtott hitel | 1AB52+1AB51111+…+1AB511222+1AB5121+1AB5122 +1AB5131+…+1AB51322 +1AB571+…+1AB57322 |
-
-| 4A01165 | Külföld hitelei | 1AB58111+…+1AB58222 |
-
-| 4A0117 | Egyéb követelések | 1AB7- (1AB791+1AB792) + 1AB91-1C0831- (1AB9151+…+1AB917) |
-
-| 4A0118 | Vagyoni érdekeltségek | 1AB6 – 1AB612– 1AB613– 1AB625 – 1AB626 – 1AB634 – 1AB635 – 1AB643– 1AB644 |
-
-| 4A0119 | Saját eszközök | 1AB92 – 1AB9232 – 1AB9244 – 1AB9256 – 1AB9265 |
-
-| 4A012 | Források | Források |
-
-| 4A0121 | Betétek | 1B1 |
-
-| 4A01211 | Nem pénzügyi vállalatok betétei | 1B1311+…+ 1B1324 |
-
-| 4A012111 | ebből: látra szóló és folyószámla betét | 1B1311+1B1321 |
-
-| 4A012112 | ebből: lekötött betét | 1B13121+…+1B131222+1B13221+…+1B132222 |
-
-| 4A01212 | Háztartások betétei | 1B1411+…+1B1424 |
-
-| 4A012121 | ebből: látra szóló és folyószámla betét | 1B1411+1B1421 |
-
-| 4A012122 | ebből: lekötött betét | 1B14121+…+1B141222+1B14221+…+1B142222 |
-
-| 4A01213 | Külföld betétei | 1B16111+….+1B1624 |
-
-| 4A0122 | Bankközi betétek | 1B2 |
-
-| 4A01221 | Belföldi hitelintézetek betétei | 1B2111+…+1B211222 |
-
-| 4A01222 | Külföldi hitelintézetek betétei | 1B22111+…+1B222222 |
-
-| 4A01223 | Pénzpiaci alapok betétei | 1B2121+…+1B212222 |
-
-| 4A0123 | Felvett hitelek | 1B3 |
-
-| 4A01231 | Külföld | 1B39111+….+1B392332 |
-
-| 4A01232 | Belföld | 1B311+…+1B38 |
-
-| 4A0124 | Saját kibocsátású, hitelviszonyt megtestesítő értékpapírok | 1B4 |
-
-| 4A0125 | Egyéb kötelezettségek | 1B5+1B7-1C0832– (1B741+…+1B75) |
-
-| 4A0126 | Saját tőke | 1B9 |
-
-1 A fősorok értékvesztéssel történő korrekciója szükséges annak érdekében, hogy bruttó állományi adatok szerepeljenek a táblában.
-
-A 4A021 Lejárati rés (gap) I. (Eszközök-Források) sorban kimutatott értékek a hátralévő futamidő szerinti összesített (4A011 Eszközök és 4A012 Források sor) eszköz- és forrástételek oszloponkénti különbségeként számítandók.
-
-4A03 Származtatott ügyletek
-
-A magyar számviteli előírásokat alkalmazó adatszolgáltató esetében a mérlegen kívüli, biztos jövőbeni pénzáramlással rendelkező származtatott ügyletekből (az opciók kivételével) eredő, szerződés szerint esedékes határidős tőke- és kamatkövetelések miatti pénzbeáramlásokat (4A031 sor) és határidős tőke- és kamatkötelezettségek miatti pénzkiáramlásokat (4A032 sor) kell kimutatni. A származtatott ügyletek kamatáramlását tehát a 4A03 blokkban kell kimutatni, nem a 4A05 Eredménytételek között. Az IFRS-eket alkalmazó adatszolgáltató ezen blokkban jelenti a mérlegben kimutatott derivatív ügyletekből származó pénzáramlásokat (az opciók kivételével).
-
-A 4A041 Lejárati rés (gap) II. (Eszközök-Források+Származtatott ügyletek: követelések- kötelezettségek) sorban kimutatott értékek a hátralévő futamidő szerinti összesített (4A011 Eszközök és 4A012 Források, továbbá a 4A031 Származtatott ügyletekből eredő követelések és 4A032 Származtatott ügyletekből eredő kötelezettségek sor) eszköz- és forrástételek oszloponkénti különbségeként számítandók.
-
-4A05 Eredménytételek
-
-Az eszközökhöz és a forrásokhoz kapcsolódó, szerződés szerint a beszámolási időszak végétől számított, a jövőre vonatkozó esedékes kamat- és kamat jellegű, illetve jutalék-, díj-, járulékbevételeket és ráfordításokat az eszközöktől és a forrásoktól elkülönítetten, pénzforgalmi szemléletben kell szerepeltetni. Az eredménytételeket nem csak 1 évre vonatkozóan kell megadni, hanem a teljes futamidőre, azonban az egy éven túli időszakra csak akkor, ha az intézmény egy éves időtávnál hosszabb időszakra megalapozott eredménybecsléssel rendelkezik.
-
-A 4A061 Lejárati rés (gap) III. (Eredménytételekkel korrigált) sor meghatározásához az eszközök és források, a származtatott ügyletekből eredő követelések és kötelezettségek egyenlegéből számított, a 4A041 sorban kimutatott lejárati rést kell korrigálni a 4A051 Kamatbevételek sortól a 4A054 Egyéb kiadások sorig tartó eredménytételekkel, amely a bevételek (4A051+4A052 sor) és kiadások (4A053+4A054 sor) oszloponkénti különbségeként számítandó.
-
-A szerződés szerinti pénzáramlástól a tényleges pénzáramlások eltérhetnek. Amennyiben az intézményeknek van ezekről a pénzáramlásokról megalapozott becslése, terve vagy kötelezően átcsoportosítandó eszköz-, forrástételekkel rendelkezik (egyebek mellett az ügyfél késedelmes teljesítése miatti átcsoportosítás, vagy az azonnal készpénzzé tehető értékpapírok átcsoportosítása), akkor ezeket korrekciós tételként a tábla 4A07 Eszközmódosítások illetve a 4A08 Forrás átcsoportosítások sorban kell szerepeltetni.
-
-4A07 Eszközmódosítások
-
-A lejárt tételekkel kapcsolatos sorokat a következő logika szerint kell tölteni:
-
-• A 4AT0711 Lejárt tételek miatti korrekciók sorban azoknak követeléseknek a korrekcióját kell megjeleníteni, amelyekről a jelentés elkészültének időpontjában van olyan információ, hogy az adós nem lesz képes az eredeti lejáratnak megfelelően törleszteni, a követelés egy része vagy egésze várhatóan lejárt lesz. (Ilyen eset pl. amikor egy szerződésben a kamat-, tőketörlesztés késedelmesen teljesül, hátralékossá válik, és ezért a teljes szerződésállományt át kell minősíteni a lejárt kategóriába.) Ezen követelések pénzáramlásának korrekciója során a kivezetésre kerülő összeget abban az oszlopban ahonnan a kivezetés történik, negatív előjellel, míg a várható befolyás idősávjában [az a) lejárt oszlopban, illetve b)-j) oszlopokban] pozitív előjellel kell szerepeltetni;
-
-• A 4AT0712 Lejárt tételek várható megtérülése sorban azokat a jelentés időpontjában az a) lejárt oszlopban szereplő tételekkel kapcsolatos korrekciókat kell megjeleníteni, amelyekből a rendelkezésre álló információk szerint a jövőben várható befolyás (pl. folyamatban lévő per, vagy per alapján lezajlott végrehajtás állása alapján valószínű). Ebben az esetben lejárt tételek közül a várható befolyás miatt kikerülő összeget az a) lejárt oszlopban negatív értékkel, míg az új időintervallumban [a b)-j) oszlopokban] pozitív értékkel kell szerepeltetni.
-
-Az eszközmódosítások további sorai a következők szerint töltendők:
-
-• Értékpapírok átcsoportosítása: A 4A072 sorban azokat az azonnal likvidálható értékpapírokat kell szerepeltetni, amelyek likviditási problémák esetén készpénzzé tehetők [ezek jellemzően az MNB által a napi fedezetértékelés során meghatározott haircut és befogadási mérték mellett fedezetként elfogadhatónak minősülő (jegybankképes) értékpapírok, így főként a magyar állampapírok, jelzáloglevelek. Az átcsoportosítandó értékpapírokat az eredeti lejárati sávnál negatív előjellel, a 0-30 napos sávban pozitív előjellel kell feltüntetni. Az átcsoportosításkor ugyanezen a soron korlátként kötelező figyelembe venni az óvadékba adott, illetve zárolt értékpapírok állományát. Az óvadékba adott, illetve zárolt értékpapírok állományát az 1-30 napos sávból negatív előjellel ki kell vezetni, ugyanakkor az óvadékba adás, illetve zárolás futamidejének megfelelő lejárati sávban pozitív előjellel kell szerepeltetni.
-
-• A lejárat nélküli eszközök átcsoportosítása (4A073 sor) akkor indokolt, ha a hitelintézet megalapozottan feltételezheti, hogy abból egy meghatározott időintervallumban bevétele (pl. a székház eladásra kerül) vagy kiadása keletkezik. Az átcsoportosításra kerülő összeget abban az oszlopban, melyből az átvezetés történik, negatív előjellel, míg abban az oszlopban, ahova az átcsoportosítás történik, pozitív előjellel kell szerepeltetni.
-
-• A Hpt. 101. §-a és 102. § (3) bekezdése szerint kezelendő befektetéseket az elidegenítési kötelezettségi határidő alapján kell a k) Lejárat nélkül oszlopból negatív előjellel kivezetni és a megfelelő b-g) lejárati oszlopban – pozitív előjellel – feltüntetni a 4A074 soron.
-
-• Zárolt hitelintézeti, jegybanki betétkihelyezés (óvadék – repó ügyletek kivételével, kötelező tartalék hiány, stb.) miatti átcsoportosítás esetén (4A075 sor) a kivezetést a betét eredeti lekötési sávjánál negatív előjellel, a zárolt betétállomány összegét a zárolás határidejének megfelelő sávban – ennek hiányában a lejárat nélküli sávban – pozitív előjellel kell feltüntetni.
-
-4A08 Forrás átcsoportosítások
-
-Mivel a lejárati rés számításánál a források alapértelmezésben levonandó tételek, ezért a források átcsoportosítása sorokat az eszközökkel azonos előjelet eredményező módon, az alábbiak szerint kell kitölteni:
-
-• az átcsoportosítás miatt másik időoszlopba áthelyezendő összeget az eredeti időintervallumban negatív értékkel, míg az új időintervallumban pozitív értékkel kell szerepeltetni (a saját tőke nem csoportosítható át).
-
-A 4A091 Módosított Lejárati rés (gap) IV. (Eszközmódosításokat és Forrásátcsoportosításokat követően) sor meghatározásához az eredménytételekkel korrigált, a 4A061 sorban kimutatott lejárati rést kell korrigálni a 4A07 Eszközmódosítások és 4A08 Forrásátcsoportosítások sorainak azonos oszlopaiban szereplő tételeivel, amely az eszközök (4A071 + 4A0712+4A072 + 4A073 + 4A074 + 4A075) és a források ( 4A081 + 4A082 + 4A083) oszloponkénti különbségeként számítandó.
-
-A sorszabály a tábla c) – j)-ig terjedő oszlopaiban szereplő értékekre áll fenn: 4A091 = 4A061 + (4A0711+4A712 + 4A072 + 4A073 + 4A074 + 4A075) – (4A081 + 4A082 + 4A083).
-
-A fenti szabály alól kivétel az a) Lejárt oszlopban szereplő tételek kezelése, amelynél a következők szerint kell eljárni a módosított lejárati rés számításában:
-
-• Lejárt eszközök: a 4A011 (Eszközök), 4A031 (Származtatott ügyletekből eredő követelések), 4A0711-4A075 (Eszközmódosítások) sor a) Lejárt oszlopában szereplő értékeket a 4A061 sor k) Lejárat nélkül oszlop értékéhez kell hozzáadni;
-
-4A091,k=4A061,k+(4A073,k:4A075,k)–4A083,k+(4A0112,a:4A0113,a+4A0115,a:4A0117,a)+ 4A031,a+ (4A0711,a:4A075,a)
-
-• Lejárt források: a 4A012 (Források), 4A032 ( Származtatott ügyletekből eredő kötelezettségek), 4A081 - 4A083 (Forrás átcsoportosítások) sorok a) Lejárt oszlopában szereplő értékeket a 4A61 sor b) 0-30 nap oszlop értékéből kell levonni.
-
-4A091,b=4A061,b+(4A0711,b+4A0712,b+4A072,b:4A075,b)–(4A081,b:4A083,b)–(4A0121,a:4A0124,a)–4A032,a–(4A081,a:4A083,a)
-
-A 4A091 sor a) oszlop cellában csak nulla érték szerepelhet.
-
-4A10 Egyéb állományváltozások
-
-Az egyéb állományváltozások között olyan, az előzőekben fel nem sorolt tételek vehetők figyelembe, melyekkel a hitelintézet saját likviditás kezelésében, üzleti terveiben számol.
-
-A 4A1011 Hitelállomány soron kell feltüntetni a bank várakozásait a lejárati sávoknak megfelelően a jövőben várható hitelfolyósításokról a folyósítás várható időpontja szerinti sávban negatív, a lejárati sávban pedig pozitív előjellel. Itt kell számításba venni például, hogy a mérlegen kívül nyilvántartott hitelkeretekből várhatóan mennyi kerül folyósításra.
-
-A 4A1021 Betétállomány sorban kell feltüntetni a bank várakozásait a lejárati sávoknak megfelelően a jövőben várhatóan befolyó új betétállományokra. A befolyás lejárati sávjában negatív előjellel, a kifizetés lejárati sávjában pedig pozitív előjellel.
-
-Az egyéb eszközállomány-változás sorban kell megjeleníteni a le nem hívott hitelkereten kívüli egyéb mérlegen kívüli függő kötelezettségek (nyújtott garanciák, kezességek, stb.) és az opciók valószínűsíthető lehívásából keletkező követelések pénzáramlását (kifizetés). Az egyéb forrásállomány-változás sorban kell megjeleníteni a rendelkezésre álló mérlegen kívüli függő követelések (kapott hitelkeretek, garanciák, biztosítékok, stb.) és az opciók valószínűsíthető lehívásából, érvényesítéséből származó kötelezettségek miatti pénzáramlást (bevétel).
-
-A 4A111 Lejárati rés (gap) V. (Egyéb állományváltozásokkal korrigált) értékének kiszámításakor a 4A091 Módosított Lejárati rés (gap) sorhoz hozzá kell adni a 4A101 sor értékét, míg a 4A102 sorban szereplő összegeket le kell vonni. Sorszabály: 4A111=4A091+4A101-4A102).
-
-A tábla 4A1221 és 4A1222 sorában a Lejárati rés (gap) V. soron kimutatott értékekből a tulajdonosoktól és befektetésektől kapott források, illetve az oda kihelyezett eszközök lejárati szerkezetét kell megjeleníteni, mivel ennek döntő szerepe van a hitelintézetek likviditási helyzetének megítélésében.
+3.6.
 
 3.7. H3403 A háztartások hiteleinek hátralévő lejárat szerinti bontása
 
@@ -2931,3 +2739,147 @@ DMM107 Háztartások tulajdonában lévő, adott hitelintézet által kibocsáto
 DMM108 Lejárat nélküli vagy 1 éven belüli hátralévő lejáratú nem pénzügyi vállalatok, központi kormányzat, helyi önkormányzatok, társadalombiztosítási alapok, egyéb pénzügyi közvetítők, pénzügyi kiegészítő tevékenységet végzők, biztosítók és nyugdíjpénztárak, a háztartásokat segítő nonprofit intézmények devizabetétei: ezen a soron kell kimutatni a felsorolt gazdasági szereplők azon devizabetéteit, amelyek hátralévő lejárata kevesebb, mint egy év, illetve azokat a deviza betéteket, amelyekhez nem rendelhető lejárat, ide nem értve a DMM102 soron meghatározott óvadéki deviza betétek körét és a DMM105 és DMM106 soron szerepeltetett tételeket. Idesorolandók a központi bankkal kötött, eredetileg éven túli lejáratú, de éven belüli hátralévő lejáratú, forinttal szembeni devizaswap ügyletek.
 
 DMM201 Valuta pénztárkészlet: ezen a soron a Dmmr. 2. § 17. pontja szerinti „Pénztárkészlet” fogalomnak megfelelő, kizárólag a valutakészletre értelmezett adatot kell kimutatni.
+
+DMM202 1 éven belüli hátralévő lejáratú fedezetlen devizaeszközök: ezen a soron az egy évnél rövidebb hátralévő lejáratú belföldi és külföldi hitelintézetnél és az MNB-nél vagy külföldi központi banknál vezetett pénzforgalmi (elszámolási, nostro) és betéti számlák, valamint a hozzájuk kapcsolódó átvezetési számlák egyenlegét kell közölni. Itt kell kimutatni a belföldi és külföldi hitelintézetnél betéti szerződés keretében elhelyezett betéteket. A betét- vagy hitelszerződés nélkül kötött ügyletek alapján fennálló követelések helyét (hitelként vagy betétként történő jelentését) az dönti el, hogy ki kezdeményezte az ügyletet. A táblának ebben a sorában kell jelenteni a határidős, swap és opciós ügyletek lezárása előtti pénzmozgásokból származó, mérlegtételként kimutatandó követeléseket (tartozik egyenlegű margin fedezeti számlák) is.
+
+DMM203 Fordított repóügylet (csak deviza): itt kell jelenteni az adatszolgáltató által óvadéki repóügylet, sajátos szállításos repó ügyletek és az azonnali vétel-eladási (buy-sell-back) típusú repóügylet keretében repóba vett, devizában denominált értékpapírok értékét.
+
+DMM204 1 évnél rövidebb hátralevő lejáratú devizában denominált értékpapírok: itt kell jelenteni a nem HUF-ban denominált, az adatszolgáltató saját tulajdonában lévő értékpapírok állományát nettó értéken.
+
+DMM205 1 éven belüli hátralévő lejáratú pénzügyi vállalatoknak nyújtott devizahitelek: Ezen soron kizárólag az egy éven belüli hátralévő lejárattal rendelkező, pénzügyi vállalatoknak nyújtott hiteleket kell jelenteni. Ezen soron nem kell szerepeltetni a jelzálog-hitelintézet ingatlanon alapított önálló zálogjog visszavásárlási vételárából származó követeléseket.
+
+DMM206 1 éven túli hátralévő lejáratú deviza államkötvény, konszolidációs deviza államkötvény, MNB által kibocsátott devizakötvény, EU központi kormányzat devizakötvénye, valamint a sztenderd hitelkockázati módszer szerint multilateriális fejlesztési bank, vagy nemzetközi szervezetnek minősülő kibocsátó devizakötvénye: a központi kormányzat, az MNB, egyéb pénzügyi közvetítők, illetve EU központi kormányzat által kibocsátott vagy állami készfizető kezességgel garantált, hitelviszonyt megtestesítő értékpapírok adatszolgáltató tulajdonában lévő, nettó értéken számított állományát kell jelenteni. Ezen a soron kell kimutatni a központi banknál elhelyezett, a központi banki elszámolási számláknál figyelembe nem vett - hosszú lejáratú - devizabetét állományt is. Ezen a soron tüntetendők fel az OBA, BEVA, és a Szanálási Alap által felvett, állami készfizető kezességgel garantált devizahitelek is.
+
+DMM207 Olyan, devizában denominált értékpapírok, amelyeket 20%-os súlyozású kormányzat, központi bank bocsát ki vagy garantál: ezen a soron kell jelenteni a központi kormányzat vagy központi bank által kibocsátott vagy garantált értékpapírok nettó értéken számított állományát, ha a kibocsátó vagy garantáló központi kormányzat vagy központi bank kitettségeihez a CRR 114. cikke szerinti 20%-os kockázati súly alkalmazandó.
+
+DMM208 1 éven belüli hátralévő lejáratú, nem pénzügyi vállalatoknak és egyéb belföldieknek nyújtott devizahitelek: ezen a soron kell jelenteni a központi banknak nyújtott éven belül lejáró hiteleket is. Ugyanakkor nem kell szerepeltetni a lakóingatlannal fedezett, az előző sorokon szerepeltetendő követeléseket.
+
+DMM209 Nem a hitelintézet vagy leányvállalata által kibocsátott tőzsdei indexben szereplő, devizában denominált részvények: ezen a soron a nem HUF-ban denominált, az adatszolgáltató tulajdonában lévő, tőzsdei indexben szereplő, részvény típusú értékpapírok állománya jelentendő nettó értéken,. Csak a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások nyilvántartás-vezetési kötelezettségei, az ügyletek bejelentése, a piac átláthatósága, a pénzügyi eszközök piaci bevezetése, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló 1287/2006/EK bizottsági rendelet 22. cikke szerint is elismerhető, az MNB honlapján közzétett - likvid - részvényeket lehet figyelembe venni.
+
+DMM210 1 éven túli hátralévő lejáratú, nem csoporton belüli hitelintézet által kibocsátott devizában denominált jelzáloglevelek: ezen a soron kell jelenteni az adatszolgáltató tulajdonában lévő, egy éven túli hátralévő lejáratú jelzáloglevelek állományát nettó értéken, amelynek kibocsátója az adatszolgáltatóval nem ugyanazon összevont alapú felügyeleti körbe tartozó hitelintézet.
+
+DMM211 Bármilyen lejáratú, 35%-os, vagy annál kisebb súlyozású, lakóingatlannal fedezett devizakitettségek: ezen a soron kell jelenteni a CRR 125. cikke szerinti 35%-os vagy annál kisebb hitelkockázati súlyozású lakóingatlannal fedezett kitettségeket függetlenül az adatszolgáltató által a hitelezési kockázat kezelésére alkalmazott (sztenderd vagy belső minősítési) módszertől. Ebbe a kategóriába tartozik a jelzálog-hitelintézet ingatlanon alapított önálló zálogjog visszavásárlási vételárából származó követelése is.
+
+DMM212 1 éven belüli hátralévő lejáratú háztartási devizahitelek: ezen a soron az adatszolgáltató saját dolgozói részére nyújtott devizahitelek állományát is szerepeltetni kell. Ugyanakkor nem kell szerepeltetni a lakóingatlannal fedezett, a DMM211 soron szerepeltetendő követeléseket.
+
+DMM2131 Lejárt, 1 éven túli hátralévő lejáratú és lejárat nélküli háztartási devizahitelek: ezen a soron az adatszolgáltató saját dolgozói részére nyújtott deviza hitelek állományát is szerepeltetni kell. Ugyanakkor nem kell szerepeltetni a lakóingatlannal fedezett, az előző sorokon szerepeltetendő követeléseket.
+
+DMM2132 Lejárt, 1 éven túli hátralévő lejáratú és lejárat nélküli nem pénzügyi vállalatoknak nyújtott devizahitelek: ezen a soron sem kell szerepeltetni a lakóingatlannal fedezett, előző sorokon szerepeltetendő követeléseket.
+
+DMM2133 Lejárt, 1 éven túli hátralévő lejáratú és lejárat nélküli hitelintézeteknek nyújtott devizahitelek: ezen a soron kell kimutatni a hitelintézetekkel szemben, hitelszerződés alapján, illetve – a valódi penziós ügyleteken, a sajátos szállításos repó ügyleteken, IFRS-eket alkalmazó adatszolgáltató esetében a mérlegben megjelenített visszavásárlási megállapodásokon, a betétszerződéseken kívül – bármilyen megállapodás alapján ténylegesen fennálló követelések állományát, ideértve a számlavezetőként nyújtott hiteleket, valamint a más belföldi hitelintézet számára belföldön szervezett konzorciális hitelből a hitelintézet által nyújtott részt is. Ezen a soron nem kell szerepeltetni a jelzálog-hitelintézet ingatlanon alapított önálló zálogjog visszavásárlási vételárából származó követeléseket.
+
+DMM2134 Külföldieknek nyújtott devizahitelek: ezen a soron kell kimutatni a nem- rezidensekkel szemben devizában fennálló valamennyi, máshol nem jelentett követelés állományt, az értékpapírok és érdekeltségek kivételével.
+
+DMM2135 Lejárt, 1 éven túli hátralévő lejáratú és lejárat nélküli egyéb belföldieknek nyújtott devizahitelek: ezen a soron kell kimutatni a központi banknak nyújtott hiteleket, a központi kormányzatnak közvetlenül nyújtott hiteleken felül az állam által szerződés vagy jogszabály alapján más pénztulajdonostól átvállalt hitelek állományát, a helyi önkormányzatoknak és a társadalombiztosítási alapoknak, valamint a háztartásokat segítő nonprofit intézményeknek nyújtott hiteleket és a valódi penziós ügyletből, IFRS-eket alkalmazó adatszolgáltató esetében a mérlegben megjelenített visszavásárlási megállapodásokból származó követeléseket.
+
+DMM2136 Egyéb devizakövetelések: ezen a soron a CRR szerinti befektetési szolgáltatási tevékenységből eredő követelések állományát, valamint a külföldiekkel és belföldiekkel szembeni, devizával kapcsolatos valamennyi aktív elszámolást – ideértve az aktív időbeli elhatárolásokat (a kamatelhatárolások kivételével) – és a mérlegben kimutatandó, pozitív értékkel rendelkező derivatív tételek állományát kell jelenteni, ide nem értve az egyéb aktív időbeli elhatárolásokat, és a származékos ügyletek pozitív értékelési különbözetét.
+
+DMM2137 Vagyoni érdekeltségek (devizában denominált): ezen a soron kell kimutatni azokat a kevésbé mobilizálható befektetéséket, amelyeket az adatszolgáltató üzletpolitikai, illetve veszteségmérséklési célból szerzett, valamint a nem forgalomképes vagyoni érdekeltségeket könyv szerinti (nettó) értéken. Idetartozik az összes belföldi – CRR szerint meghatározott – hitelintézeti befektetés értéke (beleértve a befektetés értékvesztését és értékelési különbözetét), az egyéb pénzügyi közvetítők kockázati tőkealap-jegyei, részvényei és egyéb részesedései, üzletrészei, valamint a pénzügyi kiegészítő tevékenységet végzők részvényei, egyéb részesedései és üzletrészei, biztosítók részvényei és nyugdíjpénztárak részesedései (beleértve az e tételekhez tartozó értékvesztést és értékhelyesbítést). Itt kell jelenteni az adatszolgáltató üzletszerű működését kiegészítő tevékenységet végző, saját járulékos vállalkozásokba történt minden befektetést, a nem pénzügyi vállalatokban lévő valamennyi olyan befektetést, amely nem veszteségmérséklés során került az adatszolgáltató tulajdonába és a nem pénzügyi vállalatok hitel-tőke konverzióból származó részvényeinek és egyéb üzletrészeinek állományát, beleértve az e tételeken elszámolt értékvesztést és értékelési különbözetet. Szintén ezen a soron kell szerepeltetni a külföldi részvényeket és azokat a veszteségmérséklésként, hitel-tőke konverzióval szerzett külföldi vagyoni érdekeltségeket, amelyek nem hitelintézetekkel, pénzügyi, befektetési vagy a járulékos vállalkozásokkal, illetve biztosítókkal kapcsolatosak, beleértve az ezekhez az ügyletekhez kapcsolódó értékvesztést és értékelési különbözetet. Ezen a soron nem kell jelenteni, az előző sorokon már szereplő tételeket (pl. nem az adatszolgáltató vagy leányvállalata által kibocsátott tőzsdei indexben szereplő devizában denominált részvényeket).
+
+DMM2138 Saját devizaeszközök: ezen a soron az adatszolgáltató saját eszközeinek tekintendő tételek szerepelnek. Itt kell jelenteni az adatszolgáltató által visszavásárolt saját, belföldön, illetve külföldön kibocsátott kötvény és saját részvény, visszafizetett szövetkezeti részjegy állományát abban az esetben, ha ezen tételek követeléskiegyenlítés útján kerültek az adatszolgáltatóhoz, az összes olyan készletállományt, amelyet az adatszolgáltató követelés és nem követelés ellenében kapott (beleértve a készletekre képzett értékvesztés fennálló állományát), az immateriális javakat és a tárgyi eszközöket értékcsökkenési leírással csökkentett nettó értéken, az ingatlanhoz nem kapcsolódó vagyoni jogok értékét, az immateriális javak között elszámolt szoftverállományt, valamint az immateriális javak egyéb állományát (beleértve az immateriális javak között kimutatható alapítás-átszervezés aktivált értékét is, és beleértve az immateriális javak értékhelyesbítését), továbbá az adatszolgáltató elhelyezését szolgáló, vásárolt bérleti jogokat, a pénzügyi és befektetési szolgáltatási célú ingatlanokhoz kapcsolódó egyéb vagyoni értékű jogokat, a mérlegben közvetlen pénzügyi és befektetési szolgáltatási célú tárgyi eszközként szereplő ingatlanok, illetve műszaki berendezések, gépek, felszerelések, járművek értékét, valamint a pénzügyi és befektetési célú beruházásokat és a beruházásokra adott előlegeket (beleértve az ezen eszközökhöz tartozó értékhelyesbítést), a nem az adatszolgáltató működéséhez kapcsolódó tárgyi eszközöket értékhelyesbítéssel.
+
+DMM2139 Minden egyéb devizaeszköz: ezen a soron a fentiekben nem nevesített devizaeszközöket kell szerepeltetni. Az ezen a soron feltüntetendő összeg maradékelven adódik a hitelintézet mérlegfőösszege és a fent felsorolásra került eszközök különbségeként, csökkentve az aktív kamatelhatárolások és egyéb aktív időbeli elhatárolások előjelhelyes értékével.
+
+DMM214 Garanciák, egyéb mérlegen kívüli deviza kötelezettségek (37+42) alsoraiban részletezett adatokat a magyar számviteli előírásokat alkalmazó adatszolgáltató esetében a C12H Mérlegen kívüli tételek – Függő és jövőbeni kötelezettségek tábla, C12H1 Hitelezési kockázattal rendelkező mérlegen kívüli tételek – nyújtott függő és jövőbeni kötelezettségek szakasz soraiban szereplő adatokkal összhangban kell jelenteni attól függően, hogy az adatszolgáltató a hitelezési kockázat tőke-követelményét a CRR szerinti sztenderd vagy belső minősítésen alapuló módszer szerint számítja-e. A mérlegen kívüli tételek osztályozása a CRR I. melléklete szerint történik, az IFRS-ek szerint jelentők ezen előírások figyelembevételével, a hitelezési kockázat tőke-követelménye számítási módjának megfelelően töltik az alsorokat.
+
+DMM215 Le nem hívott deviza likviditási keret és deviza hitelkeret: ezen a soron kell kimutatni minden devizában denominált hitel- és likviditási keretet, a változó devizás hitelkeretek kivételével.
+
+DMM216 Változó devizás hitelkeret: olyan le nem hívott hitelkeret, amely esetében az adatszolgáltató ügyfelének saját döntése a folyósított hitel denominációjának megválasztása, ideértve a forintban vagy a devizában denominált ilyen tulajdonsággal rendelkező hitelkereteket is.
+
+DMM3 Devizafinanszírozás megfelelési mutató: ebben a sorban a Dmmr. szerinti devizafinanszírozás megfelelési mutató (DMM) értéke a stabilnak minősített devizaforrások, valamint a finanszírozott stabil devizaeszközök és mérlegen kívüli devizakötelezettségeknek a hányadosaként számítandó ki. Az adatszolgáltatónak a mutató értékét három tizedesjegy pontossággal, százalékpontos (azaz együtthatós) formában kell kimutatnia. Így például a 100%-os mutató érték 1,000 formában jelentendő.
+
+3.13. C2H Befektetések
+
+A jelentésben minden olyan vállalkozás adatait ki kell mutatni, ahol a hitelintézet bármilyen formában (közvetlenül, közvetetten) tulajdonos. Amennyiben egy vállalkozásban nincs közvetlen, csak közvetett tulajdonlású részesedése a hitelintézetnek, akkor azt is fel kell tüntetni ebben a táblában, amennyiben a vállalkozás a CRR 4. cikk (1) bekezdés 38. pontja alá tartozik.
+
+A vállalkozáshoz közvetett módon kapcsolódó vállalkozások és tulajdonosaik adatait a kapcsolódó C21H tábla tartalmazza.
+
+A tulajdoni hányadot megtestesítő befektetések (részvények, részesedések, vagyoni érdekeltségek) nevesítését a részarányok csökkenő sorrendjében, és azon belül az i) oszlopban szereplő összes befektetés csökkenő sorrendjében kell kimutatni mindaddig, amíg az összes jelentős illetve befolyásoló részesedésű és 1 millió Ft értéket meghaladó egyéb részesedés kimutatásra nem kerül.
+
+Pénzügyi ágazatbeli befektetések esetén a jelentős/nem jelentős, pénzügyi ágazaton kívüli befektetések esetén a befolyásoló/ nem befolyásoló fogalmak alkalmazandók. A befolyásoló részesedés fogalmát a CRR 4. cikk (1) bekezdés 36. pontja, a jelentős részesedés fogalmát a CRR 43. cikke tartalmazza.
+
+A szövetkezeti hitelintézeteknek minden befektetést fel kell sorolni.
+
+A Hpt. előírása alapján az összbefektetési korlátozás alá nem tartozó befektetésekről (ezért levonandó tételekről) elkülönített nyilvántartást kell vezetni és rendszeresen minősíteni.
+
+A tábla oszlopai
+
+Az a) Befektetések felsorolása oszlopban az ügyfél (hitelintézet esetében is) alapító dokumentumaiban szereplő (rövid) megnevezést kell alkalmazni azzal, hogy a felszámolás, illetve végelszámolás alatt lévő befektetés esetén a megnevezést ki kell egészíteni az „f.a.”, illetve „v.a.” megjelöléssel.
+
+A b) Kódjel oszlopban „K” jelzéssel a Számv. tv. szerint kapcsolt vállalkozásnak minősülő befektetést kell megjelölni. Ha a vállalkozással nem számszerűsíthető személyi, vezetői, irányítási kapcsolat áll fenn, akkor befolyásolás esetén legalább 10%-kal, ellenőrzés esetén legalább 51%-kal kell figyelembe venni a szavazati jognál. Ebben az esetben a b) Kódjel oszlopba „V” jelet, az érintett befektetés jellegének megfelelő – közvetlen vagy közvetett tulajdoni (szavazati) arány – oszlopba 10%-ot, illetve 51%-ot kell feltüntetni.
+
+A c) Törzsszám, azonosító oszlopban a vállalkozás törzsszámát, illetve a külföldi azonosító adatát, a d) Ország oszlopban a tulajdonos országának két karakteres ISO kódját (pl. Magyarország esetén HU), az e) Ág oszlopban az ügyfél tevékenységét rögzítő TEÁOR ágat jelentő betűjelet kell feltüntetni.
+
+Az f) Szerzés időpontja oszlopban azt az időpontot kell feltüntetni, amikor a befektetés a veszteségmérséklés céljából, illetve a hitel-tulajdonrész csereügylet vagy a felszámolás során a hitelintézet tulajdonába került, mivel ezek a befektetések három évig nem tartoznak a korlátozó limit alá. Ha a befektetés nem a Hpt. 102. §-ában foglalt eljárások során került tulajdonba, illetve lejárt a három éves türelmi idő, akkor nem kell a szerzési időpontot kitölteni.
+
+A Tulajdonolt tőke értéke g1) Közvetlen befektetés oszlopban a közvetlenül fennálló kockázatvállalás könyv szerinti bruttó értékét (a bekerülési értéket), a g2) Értékvesztés oszlopban a befektetések után elszámolt értékvesztés, értékcsökkenés összegét kell szerepeltetni. Ennek megfelelően a g) oszlopban nettó értéken kell a Hpt. által előírt közvetlen befektetési állományt kimutatni. (A levonások összege nem haladhatja meg az adott befektetés értékét.)
+
+A h) Közvetett befektetés oszlopban a közvetett tulajdonlású befektetéseket a vállalkozásban lévő befektetés tulajdoni közvetett arányos befektetett tőkeértéken (közvetett tőkeértéken) kell kimutatni.
+
+Az i) Összes befektetés oszlopban a közvetlen befektetés nettó és közvetett részesedések értékét együttesen kell feltüntetni.
+
+A j1)-l) Arány % megfelelő oszlopaiban két tizedes pontossággal kell szerepeltetni az adott vállalkozásban szerzett tulajdonlást. (A százalék jelét nem kell feltüntetni.)
+
+A közvetlen tulajdoni arányt a j1) oszlopban, illetve megfelelő szavazati jogot a k) oszlopban kell kimutatni.
+
+A k) Szavazati közvetlen oszlopban megjelenő közvetlen szavazati jog, valamint a j2) Tulajdoni közvetett oszlopban megjelenő közvetett tulajdoni hányad értékét az l) Szavazati összesen oszlopban kell összegezni.
+
+Ha a hitelintézet szavazati jogát bármely körülmény korlátozza (pl. felszámolás, illetve végelszámolás alatt lévő befektetéseknél, a tulajdonos hitelintézet MNB által felfüggesztett szavazatai joga esetén, stb.), a Szavazati közvetlen (k) oszlopban és a Szavazati összesen (l) oszlopban nulla értéket kell jelenteni.
+
+Ha a közvetlen tulajdonlás esetén ugyanannál a vállalkozásnál tulajdoni és szavazati jog együttesen áll fenn, akkor a tulajdoni hányadot át kell számítani és a szavazati aránnyal együtt kimutatni.
+
+Az m)-p) oszlopban a következő okok miatti kivételek jelennek meg a CRR 89. cikke értelmében:
+
+• a CRR szerint az egyedi befektetési korlátozás alól mentesülő pénzügyi és nem pénzügyi ágazatbeli szervezetek. (A CRR 89. cikk (4) bekezdése szerinti EBH iránymutatás kiadásáig az eddig alkalmazott megnevezéseket tartalmazza a tábla, így PIBB, járulékos vállalkozások, speciális pénzügyi szervezetek, stb);
+
+• a hitel-tulajdonrész csereügylet vagy a felszámolás során, veszteségmérséklés céljából a hitelintézet tulajdonába jutott egyéb befektetési eszköz (pl. átvett készlet) nettó értéke, amelyet a C2H4 Egyéb befektetések összesen sorban kell feltüntetni (ha az átvett eszköz nem veszteségmérséklés célú, illetve megszűnt a hatéves elidegenítési türelmi idő, akkor az állományt nem szabad itt kimutatni);
+
+• a kereskedési könyvben nyilvántartott részesedések nettó értéken (itt sem PIBB, sem járulékos vállalkozásokban történt befektetés értékei nem szerepelhetnek, mivel azok az m) és n) oszlopban teljes egészében kerülnek feltüntetésre és levonásra);
+
+• az egyedi befektetési korlát CRR 89. cikk (1)-(3) bekezdése szerinti, szavatolótőkével fedezendő túllépései;
+
+Ha egy befektetés részben már a hitelintézet tulajdonában volt, de a vállalkozás további tulajdoni hányada (része) a hitel-tulajdonrész csereügylet vagy a felszámolás során, veszteségmérséklés céljából került a hitelintézet birtokába, akkor csak ezt a további részt lehet az o), p1) és p2) kivételek oszlopában figyelembe venni, a régebben szerzett rész értékét nem.
+
+A kivételek o), p1) és p2) oszlopában csak a hitelintézet által szerzett, közvetlen tulajdonlású befektetések nettó értéke szerepelhet.
+
+A levonandó tételek összes egyedi összege nem haladhatja meg az adott befektetés nettó értékét.
+
+A Kivételek m)-p) oszlopa alapértelmezésben levonandó tételek, ezért negatív előjelet nem kell feltüntetni.
+
+A q) Egyedi korlátozás alá eső befektetések összesen oszlopba nem kerülhet érték.
+
+A Szavatolótőkével fedezendő túllépés r) és s) oszlopában a CRR 89. cikk (1), illetve (2) bekezdésében említett befektetések befolyásoló részesedéseire, a CRR 89. cikk (3) bekezdése előírása alapján meghatározott limittúllépések összegét kell feltüntetni, függetlenül attól, hogy a befektetés közvetlen vagy közvetett formában valósul meg.
+
+A t)-v) Korrekciók oszlop adattartalma alapértelmezésben levonandó tétel negatív előjel nélkül. Az oszlopok a következő korrekciós levonásokat tartalmazzák:
+
+A t) oszlopban azok az értékek kerülnek kimutatásra, amelyek az egyedi befektetési korlátozás szempontjából figyelembevett „Kivételek” tételeinek értékeit korrigálják arra az értékre, amely a Hpt. 102. §-a szerinti összes közvetlen és közvetett befektetés számbavételéhez szükségesek. Levonandó tételek azok a nem PIBB befektetések, amelyek egyedi befektetési korlátozás miatt nem tartoznak az összbefektetési korlát alá. Itt kell feltüntetni a külön jogszabályban (pl. MFB tv.) előírtak szerinti, összbefektetési korlátozás alá nem tartozó befektetéseket.
+
+Az u) Szavatolótőkéből levont PIBB miatti és egyéb, közvetett befektetések miatti korrekciók oszlopban a szavatolótőkéből levont, jelentős részesedésű PIBB befektetések nettó értékét kell feltüntetni, mivel a nem jelentős részesedésű PIBB befektetéseket egyedileg nem kell a szavatoló tőkéből levonni, ezért az összbefektetésekhez beszámítandók és levonandó tételként nem szerepeltethetők. Ebben az oszlopban kell kimutatni levonásként továbbá minden olyan közvetett befektetést, mely bizonyíthatóan többszörös figyelembe vételt jelentene az összes befektetés nettó értékének megállapításánál.
+
+A C2H1 sor a hitelintézet jelentős részesedésű, közvetlen és közvetett PIBB vállalkozásokban fennálló részesedéseit, a C2H4 sorban a részükre nyújtott alárendelt kölcsöntőke összegét tartalmazza. (Ezek azok a tételek, amelyek a szavatoló tőkéből levonásra kerülnek.)
+
+A Garantiqa Hitelgarancia Zrt.-ben történt befektetést a tulajdonlás mértéke szerint az C2H1 és C2H2 sorban kell feltüntetni, de mivel ennek a befektetésnek az értékét az összbefektetésnél le kell vonni, ezért a nem jelentős részesedés értékét is, mint levonandó tételt a C2H2 sorban kell szerepeltetni. Az u) oszlop alapértelmezésben levonandó tétel negatív előjel nélkül. (Negatív előjelet csak akkor kell feltüntetni, ha a vállalkozás összbefektetéshez beszámítandó és ezért hozzáadandó értéket jelöl.)
+
+A v) Hpt. 102. § (2) bekezdéshez egyéb korrekciók oszlopban az összes befektetési korlát alóli – a Hpt. 102. §-ában foglaltak szerinti – kivételek értékét kell kimutatni a C2H1-C2H4-ig terjedő összesítő sorokban.
+
+A részletező sorokban a kétszeres levonások elkerülése érdekében nem szerepelhetnek a PIBB vállalkozások, a veszteségmérséklés miatt az egyedi befektetési korlátnál már figyelembe vett összegek, illetve túllépés miatt tőkéből levont befektetési értékek.
+
+A v) oszlop alapértelmezésben levonandó tétel, ezért negatív előjelet nem kell feltüntetni.
+
+A befolyásoló részesedésű befektetések összegének a szavatoló tőke 60%-át meghaladó [C2H1 sor q) oszlop – szavatoló tőke 60%] részét az C2H1 sorba kell beírni.
+
+A nem jelentős részesedésű PIBB befektetések után a szavatoló tőkéből levonandó (a szavatoló tőke 10%-a feletti) részt a C2H2 sorban kell szerepeltetni.
+
+Az összbefektetési korlát alá nem tartozó hitelviszonyt megtestesítő értékpapírok, illetve állampapírok nettó értékét a C2H4 sorban kell kimutatni. (A kétszeres számbavétel elkerülése érdekében az állampapírok a hitelviszonyt megtestesítő értékpapírok számbavételénél nem vehetők figyelembe.) Az összbefektetési korlát alá nem tartozó állampapírok a Tpt. 5. § (1) bekezdés 6. pontja értelmében a magyar állam által kibocsátott értékpapírok és MNB kötvények mellett a külföldi állam, az EKB vagy az EU más tagállamának jegybankja által kibocsátott értékpapírokat tartalmazzák.
+
+Az immateriális javak közül csak a vagyoni jogokat, illetve a tárgyi eszközök között szereplő az ingatlanokkal és a hozzájuk kapcsolódó vagyoni értékű jogokat a szavatoló tőkéből levont értékével lehet, mint csökkentő tételt (az összbefektetési korlát alá nem tartozót) figyelembe venni.
+
+A v) oszlopban a részletező (C2H6001-től számozott) sorokban csak tájékozató adatként kell a pénzügyi (PIBB) intézményeknek nyújtott alárendeltkölcsöntőke összegét feltüntetni, de nem kell sem a w) oszlopban, sem az összegző sorokban számításba venni.
+
+A részletező sorokban feltüntetett és a szavatoló tőkéből levonandó PIBB alárendelt kölcsöntőke értékét a C2H4 sor u) oszlopában, egy összegben kell szerepeltetni.
+
+Azokat a PIBB alárendelt kölcsöntőkéket, amelyek a törvény szerint nem befektetések, és nem tartoznak az összbefektetési korlátozás alá sem, de az egységesség miatt kimutatásra, illetve az összbefektetésnél számbavételre kerültek (pl. nem befolyásoló részesedésű biztosítónak nyújtott alárendelt kölcsöntőke), a C2H3 sor. v) oszlopában kell feltüntetni.
+
+A w) Összes befektetés nettó értéke oszlopba azoknak a befektetési korlát alá tartozó befektetéseknek összegét kell beírni, amelyek a hitelintézet birtokába közvetlen és közvetett befektetésként kerültek.
+
+[^3]: A 3. melléklet a 17. § (2) bekezdése szerint módosított szöveg.
