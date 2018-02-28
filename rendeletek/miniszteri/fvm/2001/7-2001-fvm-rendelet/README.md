@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-7-20-82
 | 2017-06-12 | 2001-7-20-82.40 | 30/2017. (VI. 7.) FM rendelet |
 | 2017-08-18 | 2001-7-20-82.41 | 42/2017. (VIII. 17.) FM rendelet |
 | 2017-12-30 | 2001-7-20-82.42 | 69/2017. (XII. 27.) FM rendelet |
+| 2018-02-28 | 2001-7-20-82.43 | 37/2003. (IV. 4.) FVM rendelet |

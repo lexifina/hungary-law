@@ -34,7 +34,7 @@ n)[^320] a Tanács 98/57/EK irányelve (1998. július 20.) a Ralstonia solanacea
 
 o)[^321] a növényeket vagy növényi termékeket károsító szervezeteknek a Közösségbe történő behurcolása és a Közösségen belüli elterjedése elleni védekezési intézkedésekről szóló, 2000. május 22-i 2000/29/EK tanácsi irányelve, valamint az azt módosító,
 
-1.[^322] 2001/33/EK, 2002/28/EK, 2002/36/EK, 2003/22/EK, 2003/47/EK, 2003/116/EK, 2004/31/EK, 2004/70/EK, 2004/102/EK, 2005/16/EK, 2005/77/EK, 2006/14/EK, 2006/35/EK, 2007/41/EK, 2008/64/EK, 2008/109/EK, 2009/7/EK, 2009/118/EK és 2010/1/EU bizottsági irányelv, 2014/19/EU, 2014/78/EU és 2014/83/EU bizottsági végrehajtási irányelv, valamint 2002/89/EK, 2005/15/EK tanácsi irányelv,
+1.[^322] 1. 2001/33/EK, 2002/28/EK, 2002/36/EK, 2003/22/EK, 2003/47/EK, 2003/116/EK, 2004/31/EK, 2004/70/EK, 2004/102/EK, 2005/16/EK, 2005/77/EK, 2006/14/EK, 2006/35/EK, 2007/41/EK, 2008/64/EK, 2008/109/EK, 2009/7/EK, 2009/118/EK és 2010/1/EU bizottsági irányelv, 2014/19/EU, 2014/78/EU, 2014/83/EU, 2017/1279/EU és 2017/1920/EU bizottsági végrehajtási irányelv, valamint 2002/89/EK, 2005/15/EK tanácsi irányelv,
 
 2. a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről szóló, 2004. április 29-i 882/2004/EK európai parlamenti és tanácsi rendelet,
 
@@ -52,7 +52,7 @@ q) 12003TN02/06/B2: a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi K�
 
 4.[^327] a Bizottság 2002/887/EK határozata (2002. november 8.) a Japánból származó, természetes vagy mesterséges módon törpenövésű Chamaecyparis Spach, Juniperus L. és Pinus L. növény tekintetében a 2000/29/EK tanácsi irányelv bizonyos előírásaitól való eltérés engedélyezéséről, valamint az azt módosító 2004/826/EK, 2006/915/EK, 2008/826/EK és 2010/645/EU bizottsági határozat,
 
-5.[^328] dekontaminálás céljára peszticidek és a környezetben tartósan megmaradó szerves szennyező anyagok által szennyezett talaj behozatala tekintetében a 2000/29/EK tanácsi irányelv bizonyos rendelkezéseitől való átmeneti eltérés megállapításának a tagállamok számára történő engedélyezéséről szóló, 2005. január 21-i 2005/51/EK bizottsági határozat, és az azt módosító 2007/156/EK bizottsági, 2009/162/EK bizottsági és 2012/102/EU bizottsági végrehajtási határozat,
+5.[^328] dekontaminálás céljára peszticidek és a környezetben tartósan megmaradó szerves szennyező anyagok által szennyezett talaj behozatala tekintetében a 2000/29/EK tanácsi irányelv bizonyos rendelkezéseitől való átmeneti eltérés megállapításának a tagállamok számára történő engedélyezéséről szóló, 2005. január 21-i 2005/51/EK bizottsági határozat és az azt módosító 2007/156/EK bizottsági, 2009/162/EK bizottsági, 2012/102/EU és 2017/487 bizottsági végrehajtási határozat,
 
 6.[^329] a Ralstonia solanacearum (Smith) Yabuuchi et al. elterjedése elleni, Egyiptomra vonatkozó biztonsági intézkedések tagállamok által történő meghozatalának ideiglenes engedélyezéséről szóló, 2011. november 29-i 2011/787/EU bizottsági végrehajtási határozat,
 
@@ -88,7 +88,7 @@ q) 12003TN02/06/B2: a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi K�
 
 22.[^344] az Anoplophora chinensis (Forster) Unióba történő behurcolásának és Unión belüli terjedésének megelőzését célzó sürgősségi intézkedésekről szóló, 2012. március 1-jei 2012/138/EU bizottsági végrehajtási határozat, és az azt módosító 2014/356/EU bizottsági végrehajtási határozat,
 
-23.[^345] a Kínából származó, egyes áruk szállításához ténylegesen használt fa csomagolóanyagra vonatkozó felügyeletről, növény-egészségügyi ellenőrzésekről és meghozandó intézkedésekről szóló, 2013. február 18-i 2013/92/EU bizottsági végrehajtási határozat és az azt módosító 2015/474/EU bizottsági végrehajtási határozat,
+23.[^345] a Kínából származó, egyes áruk szállításához ténylegesen használt fa csomagolóanyagra vonatkozó felügyeletről, növény-egészségügyi ellenőrzésekről és meghozandó intézkedésekről szóló, 2013. február 18-i 2013/92/EU bizottsági végrehajtási határozat és az azt módosító 2015/474/EU és 2017/728/EU bizottsági végrehajtási határozat,
 
 24.[^346] a 2000/29/EK irányelv egyes rendelkezéseitől való eltérésnek a tagállamok számára a Libanon Akkar és Bekaa régiójából származó, nem vetőburgonyának szánt burgonya tekintetében történő engedélyezéséről szóló, 2013. július 30-i 2013/413/EU bizottsági végrehajtási határozat,
 
@@ -112,11 +112,11 @@ q) 12003TN02/06/B2: a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi K�
 
 34.[^356] az Amerikai Egyesült Államokból származó vagy ott feldolgozott kőrisfa tekintetében a tagállamoknak a 2000/29/EK tanácsi irányelv egyes rendelkezéseitől való ideiglenes eltérés engedélyezése céljából adott felhatalmazásról, valamint az Amerikai Egyesült Államok egyes területeinek az Agrilus planipennis Fairmaire előfordulásától mentesként történő elismeréséről szóló (EU) 2015/2416 végrehajtási határozat hatályon kívül helyezéséről szóló, 2017. február 3-i 2017/204/EU bizottsági végrehajtási határozat,
 
-35.[^357] a 652/2014/EU európai parlamenti és tanácsi rendeletben említett növénykárosítók elleni biztonsági intézkedésekre vonatkozó támogatási kérelmek, illetve kifizetési kérelmek, valamint a velük kapcsolatos információk benyújtására vonatkozó eljárások megállapításáról szóló, 2016. február 4-i 2016/159/EU bizottsági végrehajtási határozat,
+35.[^357] a 652/2014/EU európai parlamenti és tanácsi rendeletben említett növénykárosítók elleni biztonsági intézkedésekre vonatkozó támogatási kérelmek, illetve kifizetési kérelmek, valamint a velük kapcsolatos információk benyújtására vonatkozó eljárások megállapításáról szóló, 2016/159/EU végrehajtási határozat módosításáról szóló, 2017. június 23-ai 2017/1161/EU bizottsági végrehajtási határozat,
 
-36.[^358] a Kanadából származó vagy ott feldolgozott kőrisfa tekintetében a tagállamoknak a 2000/29/EK tanácsi irányelv egyes rendelkezéseitől való eltérés engedélyezése céljából adott felhatalmazásról szóló, 2016. március 17-i 2016/412/EU bizottsági végrehajtási határozat,
+36.[^358] a tagállamoknak a 2000/29/EK tanácsi irányelv egyes rendelkezéseitől a Kanadából származó vagy ott feldolgozott kőrisfa tekintetében való eltérés engedélyezése céljából adott felhatalmazásról szóló (EU) 2016/412 végrehajtási határozat időbeli hatályának meghosszabbításáról szóló, 2017. november 16-i 2017/2180/EU bizottsági végrehajtási határozat,
 
-37.[^359] egyes harmadik országokból származó egyes gyümölcsök tekintetében a Phyllosticta citricarpa (McAlpine) Van der Aa károsító Unióba történő behurcolásának és Unión belüli elterjedésének megelőzését célzó intézkedések megállapításáról szóló, 2016. május 11-i 2016/715 EU bizottsági végrehajtási határozat.
+37.[^359] egyes harmadik országokból származó egyes gyümölcsök tekintetében a Phyllosticta citricarpa (McAlpine) Van der Aa károsító Unióba történő behurcolásának és Unión belüli elterjedésének megelőzését célzó intézkedések megállapításáról szóló (EU) 2016/715 végrehajtási határozat módosításáról szóló, 2017. május 8-i 2017/801/EU bizottsági végrehajtási határozat.
 
 (3)[^360] Ez a rendelet a Közösségben a meghatározott növényegészségügyi kockázatoknak kitett védett övezetek elismeréséről szóló, 2008. július 4-i 690/2008/EK bizottsági rendelet, valamint az azt módosító 17/2010/EU bizottsági, 361/2010/EU bizottsági, 436/2011/EU bizottsági, 355/2012/EU bizottsági, 707/2014/EU bizottsági és 2016/873 EU bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
@@ -131,13 +131,13 @@ q) 12003TN02/06/B2: a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi K�
 [^319]: A 69. § (1) bekezdésének l) pontja a 72/2009. (VI. 25.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^320]: A 69. § (1) bekezdésének n) pontja a 65/2007. (VII. 23.) FVM rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^321]: A 69. § (1) bekezdés o) pontja a 9/2014. (IX. 12.) FM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^322]: A 69. § (1) bekezdés o) pont 1. alpontja a 39/2015. (VII. 3.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^322]: A 69. § (1) bekezdés o) pont 1. alpontja a 4/2018. (II. 23.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^323]: A 69. § (1) bekezdés p) pontját a 30/2010. (III. 30.) FVM rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^324]: A 69. § (2) bekezdését az 56/2006. (VIII. 1.) FVM rendelet 5. § (3) bekezdése iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta.
 [^325]: A 69. § (2) bekezdés 2. pontja a 114/2011. (XII. 5.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^326]: A 69. § (2) bekezdés 3. pontja a 9/2014. (IX. 12.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^327]: A 69. § (2) bekezdés 4. pontja a 114/2011. (XII. 5.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^328]: A 69. § (2) bekezdés 5. pontja a 9/2014. (IX. 12.) FM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^328]: A 69. § (2) bekezdés 5. pontja a 4/2018. (II. 23.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^329]: A 69. § (2) bekezdés 6. pontja a 9/2014. (IX. 12.) FM rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^330]: A 69. § (2) bekezdés 8. pontját a 30/2017. (VI. 7.) FM rendelet 15. § c) pontja hatályon kívül helyezte.
 [^331]: A 69. § (2) bekezdésének 9. pontja a 12/2007. (II. 28.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
@@ -154,7 +154,7 @@ q) 12003TN02/06/B2: a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi K�
 [^342]: A 69. § (2) bekezdésének 20. pontját az 5/2008. (I. 17.) FVM rendelet 3. § (5) bekezdése iktatta be.
 [^343]: A 69. § (2) bekezdés 21. pontját a 10/2009. (II. 25.) FVM rendelet 10. § (5) bekezdése iktatta be, szövege a 30/2017. (VI. 7.) FM rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^344]: A 69. § (2) bekezdés 22. pontját a 10/2009. (II. 25.) FVM rendelet 10. § (5) bekezdése iktatta be, szövege a 39/2015. (VII. 3.) FM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^345]: A 69. § (2) bekezdés 23. pontját a 9/2014. (IX. 12.) FM rendelet 8. § (8) bekezdése iktatta be, szövege a 39/2015. (VII. 3.) FM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^345]: A 69. § (2) bekezdés 23. pontját a 9/2014. (IX. 12.) FM rendelet 8. § (8) bekezdése iktatta be, szövege a 4/2018. (II. 23.) FM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^346]: A 69. § (2) bekezdés 24. pontját a 9/2014. (IX. 12.) FM rendelet 8. § (8) bekezdése iktatta be.
 [^347]: A 69. § (2) bekezdés 25. pontját a 9/2014. (IX. 12.) FM rendelet 8. § (8) bekezdése iktatta be, szövege a 30/2017. (VI. 7.) FM rendelet 8. § (4) bekezdésével megállapított szöveg.
 [^348]: A 69. § (2) bekezdés 26. pontját a 9/2014. (IX. 12.) FM rendelet 8. § (8) bekezdése iktatta be.
@@ -166,8 +166,8 @@ q) 12003TN02/06/B2: a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi K�
 [^354]: A 69. § (2) bekezdés 32. pontját a 30/2017. (VI. 7.) FM rendelet 8. § (6) bekezdése iktatta be.
 [^355]: A 69. § (2) bekezdés 33. pontját a 30/2017. (VI. 7.) FM rendelet 8. § (6) bekezdése iktatta be.
 [^356]: A 69. § (2) bekezdés 34. pontját a 30/2017. (VI. 7.) FM rendelet 8. § (6) bekezdése iktatta be.
-[^357]: A 69. § (2) bekezdés 35. pontját a 30/2017. (VI. 7.) FM rendelet 8. § (6) bekezdése iktatta be.
-[^358]: A 69. § (2) bekezdés 36. pontját a 30/2017. (VI. 7.) FM rendelet 8. § (6) bekezdése iktatta be.
-[^359]: A 69. § (2) bekezdés 37. pontját a 30/2017. (VI. 7.) FM rendelet 8. § (6) bekezdése iktatta be.
+[^357]: A 69. § (2) bekezdés 35. pontját a 30/2017. (VI. 7.) FM rendelet 8. § (6) bekezdése iktatta be, szövege a 4/2018. (II. 23.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^358]: A 69. § (2) bekezdés 36. pontját a 30/2017. (VI. 7.) FM rendelet 8. § (6) bekezdése iktatta be, szövege a 4/2018. (II. 23.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^359]: A 69. § (2) bekezdés 37. pontját a 30/2017. (VI. 7.) FM rendelet 8. § (6) bekezdése iktatta be, szövege a 4/2018. (II. 23.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^360]: A 69. § (3) bekezdését a 10/2009. (II. 25.) FVM rendelet 10. § (6) bekezdése iktatta be, szövege a 30/2017. (VI. 7.) FM rendelet 9. §-ával megállapított szöveg.
 [^361]: A 69. § (4) bekezdését a 39/2015. (VII. 3.) FM rendelet 4. § (5) bekezdése iktatta be.

@@ -34,6 +34,8 @@
 
 | 6. | Arrhenodes minutus Drury |  |
 
+| 6.1. | Bactericera cockerelli (Sulc.) |  |
+
 | 7. | Bemisia tabaci Genn. (nem-európai populációk), az alábbi vírusok vektora: |  |
 
 |  | a) Bean golden mosaic virus |  |
@@ -96,6 +98,8 @@
 
 | 16.1. | Naupactus leucoloma Boheman |  |
 
+| 16.2 | Keiferia lycopersicella (Walsingham) |  |
+
 | 17. | Liriomyza sativae Blanchard |  |
 
 | 18. | Longidorus diadecturus Eveleigh és Allen |  |
@@ -113,6 +117,8 @@
 | 23. | Pseudopityophthorus minutissimus (Zimmermann) |  |
 
 | 24. | Pseudopityophthorus pruinosus (Eichhoff) |  |
+
+| 24.1 | Saperda candida Fabricius |  |
 
 | 25. | Scaphoideus luteolus (Van Duzee) |  |
 
@@ -190,6 +196,8 @@
 
 | 30. | Thrips palmi Karny |  |
 
+| 30.1 | Thaumatotibia leucotreta (Meyrick) |  |
+
 | 31. | Xiphinema americanum Cobb sensu lato (nem-európai populációk) |  |
 
 | 32. | Xiphinema californicum Lamberti és Bleve-Zacheo |  |
@@ -198,7 +206,11 @@
 
 ## 1. Candidatus Liberibacter spp.,
 
-## 2. Xylella fastidiosa (Well és Raju)
+## 2.
+
+## 3. Xanthomonas citri pv. aurantifolii:
+
+## 3.1. Xanthomonas citri pv. aurantifolii
 
 ## c) Gombák
 
@@ -230,6 +242,8 @@
 
 | 12. | Phoma andina Turkensteen |
 
+| 12.1. | Phyllosticta citricarpa (McAlpine) Van der Aa |
+
 | 13. | Phyllosticta solitaria Ell. és Ev. |
 
 | 14. | Septoria lycopersici Speg. var. malagutii Ciccarone és Boerema |
@@ -244,9 +258,7 @@
 
 ## d) Vírusok és vírusszerű szervezetek
 
-| 1. | Elm phloem necrosis mycoplasma |  |
-
-|  |  | syn.: Elm phloem necrosis phytoplasma |
+| 1. |  |  |
 
 | 2. | Burgonyavírusok és vírusszerű kórokozók, úgymint: |  |
 
@@ -266,7 +278,7 @@
 
 |  |  | syn.: Potato black nepovirus |
 
-|  | e) Potato spindle tuber viroid |  |
+|  | e) |  |
 
 |  | f) Potato T virus |  |
 
@@ -402,6 +414,8 @@
 
 | 2. | Ralstonia solanacearum (Smith) Yabuuchi et al. |
 
+| 3. | Xylella fastidiosa (Wells et al.) |
+
 ## c) Gombák
 
 | 1. | Melampsora medusae Thümen |
@@ -432,28 +446,30 @@
 
 | Károsító | Védett zóna (zónák) |
 
-| 1. Bemisia tabaci Genn. (európai populációk) | Írország, Portugália (Azori-szigetek, belső Beira, tengerparti Beira, Douro és Minho köze, Ribatejo és Oeste (Alcobaça, Alenquer, Bombarral, Cadaval, Caldas da Rainha, Lourinhã, Nazaré, Obidos, Peniche és Torres Vedras települések) és Trás-os- Montes), Egyesült Királyság, Svédország, Finnország |
+| 1. Bemisia tabaci Genn. (európai populációk) | Írország, Portugália (Azori-szigetek, belső Beira, tengerparti Beira, Douro és Minho köze és Trás-os-Montes), Egyesült Királyság, Svédország, Finnország |
 
 | 1.1. | Daktulosphaira vitifoliae (Fitch) | Ciprus |
 
-| 1.2. | Dryocosmus kuriphilus Yasumatsu | Írország, Portugália, Egyesült Királyság |
+| 1.2. Dryocosmus kuriphilus Yasumatsu | Írország, Egyesült Királyság |
 
-| 2. Globodera pallida (Stone) Behrens | Finnország, Lettország, Szlovénia, Szlovákia |
+| 2. Globodera pallida (Stone) Behrens | Finnország, Lettország, Portugália (Azori-szigetek), Szlovénia, Szlovákia |
 
-| 3. Leptinotarsa decemlineata Say | Spanyolország (Menorca, Ibiza), Írország, Ciprus (2008. március 31-ig), Málta, Portugália (Azori-szigetek és Madeira), Egyesült Királyság, Svédország (Blekinge, Gotland, Halland, Kalmar és SkDne), Finnország (Cland területei, Turku, Uusimaa, Kymi, Häme, Pirkanmaa, Satakunta) |
+| 2.1. Globodera rostochiensis (Wollenweber) Behrens | Portugália (Azori-szigetek) |
+
+| 3. Leptinotarsa decemlineata Say | Spanyolország (Menorca, Ibiza), Írország, Ciprus, Málta, Portugália (Azori-szigetek és Madeira), Egyesült Királyság, Svédország (Blekinge, Gotland, Halland, Kalmar és Skåne), Finnország (Åland, Häme, Kymi, Pirkanmaa, Satakunta, Turku és Uusimaa körzete) |
 
 | 4. Liriomyza bryoniae (Kaltenbach) | Írország és az Egyesült Királyság (Észak-Irország) |
 
-| 5. Thaumatopoea processionea L. | Írország, Egyesült Királyság (kivéve a következő önkormányzatok területeit: Barnet; Brent; Bromley; Camden; London Város; Westminster Város; Croydon; Ealing; Elmbridge District; Epsom és Ewell District; Hackney; Hammersmith & Fulham; Haringey; Harrow; Hillingdon; Hounslow; Islington; Kensington & Chelsea; Kingston upon Thames; Lambeth; Lewisham; Merton; Reading; Richmond Upon Thames; Runnymede District; Slough; South Oxfordshire; Southwark; Spelthorne District; Sutton; Tower Hamlets; Wandsworth és West Berkshire) |
+| 5. Thaumetopoea processionea L. | Írország, Egyesült Királyság (kivéve a következő önkormányzatok területeit: Barnet; Brent; Bromley; Camden; London Város; Westminster Város; Croydon; Ealing; Elmbridge District; Epsom és Ewell District; Guildford; Hackney; Hammersmith & Fulham; Haringey; Harrow; Hillingdon; Hounslow; Islington; Kensington és Chelsea; Kingston upon Thames; Lambeth; Lewisham; Merton; Reading; Richmond Upon Thames; Runnymede District; Slough; South Oxfordshire; Southwark; Spelthorne District; Sutton; Tower Hamlets; Wandsworth; West Berkshire és Woking) |
 
 ## b) Vírusok és vírusszerű szervezetek
 
 | Károsító | Védett zóna (zónák) |
 
-| 1. Beet necrotic yellow vein virus | Franciaország (Bretagne), Írország, Portugália (Azori-szigetek), Finnország, Egyesült Királyság (Észak-Írország) |
+| 1. Beet necrotic yellow vein virus | Franciaország (Bretagne), Írország, Portugália (Azori- szigetek), Finnország, Egyesült Királyság (Észak-Írország) |
 
-| 2. Tomato spotted wilt virus | Svédország, Finnország |
+| 2. Tomato spotted wilt virus | Svédország |
 
 2. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^365]
 
-[^365]: A 2. számú melléklet a 37/2003. (IV. 4.) FVM rendelet 40. § (1) bekezdésével megállapított, a 63/2004. (IV. 27.) FVM rendelet 9. §-a, a 119/2004. (VII. 12.) FVM 2. §-a, a 62/2005. (VII. 8.) FVM rendelet 7. §-ának (1) bekezdése, a 81/2005. (IX. 13.) FVM rendelet 4. § (1) bekezdése, az 56/2006. (VIII. 1.) FVM rendelet 6. § (1) bekezdése, az 5/2008. (I. 17.) FVM rendelet 4. § (1) bekezdése, a 10/2009. (II. 25.) FVM rendelet 11. § (2) bekezdése, 13. § (3) bekezdés f)–g) pontja, a 72/2009. (VI. 25.) FVM rendelet 3. § (2) bekezdése és 4. § (2) bekezdésének a) pontja, a 30/2010. (III. 30.) FVM rendelet 7. § (1) bekezdése és 9. § (2) bekezdés b) pontja, a 39/2015. (VII. 3.) FM rendelet 5. § (2) bekezdése és 7. § c)–g) pontja szerint módosított szöveg.
+[^365]: A 2. számú melléklet a 37/2003. (IV. 4.) FVM rendelet 40. § (1) bekezdésével megállapított, a 63/2004. (IV. 27.) FVM rendelet 9. §-a, a 119/2004. (VII. 12.) FVM 2. §-a, a 62/2005. (VII. 8.) FVM rendelet 7. §-ának (1) bekezdése, a 81/2005. (IX. 13.) FVM rendelet 4. § (1) bekezdése, az 56/2006. (VIII. 1.) FVM rendelet 6. § (1) bekezdése, az 5/2008. (I. 17.) FVM rendelet 4. § (1) bekezdése, a 10/2009. (II. 25.) FVM rendelet 11. § (2) bekezdése, 13. § (3) bekezdés f)–g) pontja, a 72/2009. (VI. 25.) FVM rendelet 3. § (2) bekezdése és 4. § (2) bekezdésének a) pontja, a 30/2010. (III. 30.) FVM rendelet 7. § (1) bekezdése és 9. § (2) bekezdés b) pontja, a 39/2015. (VII. 3.) FM rendelet 5. § (2) bekezdése és 7. § c)–g) pontja, a 4/2018. (II. 23.) FM rendelet 2. § b) pontja, a 3. § a)–b) pontja és a 4. § d)–e) pontja szerint módosított szöveg.
