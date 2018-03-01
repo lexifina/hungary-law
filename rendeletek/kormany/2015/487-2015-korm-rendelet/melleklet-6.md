@@ -1,18 +1,18 @@
-## Radioaktív anyagot nem tartalmazó, ionizáló sugárzást kibocsátó berendezések sugárvédelmi besorolása
+## Ionizáló sugárzást létrehozó berendezések sugárvédelmi besorolása
 
 |  | A | B | C | D |
 
 | 1. | Munkahely | I. kategória | II. kategória | III. kategória |
 
-| 2. | Orvosi és állatorvosi diagnosztikai munkahelyek |  |  | Intraoralis röntgenberendezés |
+| 2. | Orvosi és állatorvosi diagnosztikai és röntgenterápiás berendezések orvosi, valamint oktatási, kutatási célú alkalmazása |  |  | Intraoralis röntgenberendezés |
 
-| 3. |  | Röntgendiagnosztika (Panoráma, cephalometria, felvételi, átvilágító, angiográfiás röntgenberendezések, tomográfiás képalkotók) | Csontsűrűségmérő |
+| 3. | Röntgenterápiás berendezések | Röntgendiagnosztika (Panoráma, cephalometria, felvételi, átvilágító, angiográfiás röntgenberendezések, tomográfiás képalkotók) | Csontsűrűségmérő |
 
 | 4. |  | Hibrid vizsgálók |  |
 
 | 5. | Röntgensugárzást alkalmazó átvilágító ipari munkahelyek |  | Durvaszerkezeti ipari röntgen | Röntgensugaras ipari mérő, szabályozó berendezések |
 
-| 6. | Biztonságtechnikai alkalmazások |  | Közúti és vasúti rakomány átvilágító berendezések | Kábítószer, robbanóanyag kereső berendezések |
+| 6. | Biztonságtechnikai alkalmazások |  | Közúti és vasúti rakomány átvilágító berendezések, Hordozható átvilágító berendezések | Kábítószer, robbanóanyag kereső berendezések |
 
 | 7. |  |  | Telepített és hordozható csomagvizsgálók |
 
@@ -24,4 +24,6 @@
 
 | 11. | Orvosi és állatorvosi terápiás munkahelyek | Röntgenterápia |  |  |
 
-6. melléklet a 487/2015. (XII. 30.) Korm. rendelethez
+6. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^212]
+
+[^212]: A 6. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (2) bekezdése szerint módosított szöveg.

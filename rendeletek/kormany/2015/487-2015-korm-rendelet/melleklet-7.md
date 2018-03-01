@@ -1,6 +1,4 @@
-## Azon építőanyagok jegyzéke, amelyek ellenőrzése az általuk kibocsátott gamma-sugárzásra való tekintettel sugárvédelmi szempontból az különösen indokolt, valamint az építőanyagok által kibocsátott gamma-sugárzásra vonatkozó
-
-## aktivitáskoncentráció-index meghatározása és használata
+## A sugárvédelmi szempontból ellenőrizendő építőanyagok jegyzéke, az építőanyagok által kibocsátott aktivitáskoncentráció-index meghatározása és használata, valamint a természetben előforduló radioaktív anyagokat bedúsító iparágak, tevékenységek jegyzéke
 
 ## 1. Természetes anyagokból készült építőanyagok
 
@@ -44,8 +42,50 @@
 
 ## 3.2. Az index a tipikus kültéri sugárterhelésen felül jelentkező gamma-sugárzás dózisait jellemzi olyan épület esetében, amely egy meghatározott építőanyag felhasználásával készült. Amennyiben az index értéke 1 alatt van, az építőanyag alkalmazásából eredő többletsugárzás automatikusan a vonatkoztatási szint alattinak vehető. Az index az építőanyagra, nem pedig annak alkotóelemeire vonatkozik, kivéve, ha az alkotóelemek maguk is építőanyagok és értékelésükre így külön kerül sor. Ilyen alkotóelemekre – és különösen a természetes eredetű radioaktív anyagokat felhasználó iparágak maradékanyagainak újrafeldolgozásával előállított építőanyagokra – való alkalmazás szándéka esetén megfelelő megoszlási tényezőt kell alkalmazni.
 
-## 3.3. Az aktivitáskoncentráció-index értéke l-nek vehető olyan anyagok konzervatív kiszűrésére, amelyek miatt sor kerülhet a 46. § (1) bekezdésében megállapított vonatkoztatási szint meghaladására.
+## 3.3. Az aktivitáskoncentráció-index értéke l-nek vehető olyan anyagok konzervatív kiszűrésére, amelyek miatt sor kerülhet
+
+## 46. § (1) bekezdésében megállapított vonatkoztatási szint meghaladására.
 
 ## 3.4. Pontos dózisszámításnál figyelembe kell venni más tényezőket is, különösen az anyag fajsúlyát, az adott geometriát, valamint az épülettípushoz és az anyag rendeltetéséhez (ömlesztett formában felhasznált vagy felületi anyagok) kapcsolódó tényezőket.
 
-7. melléklet a 487/2015. (XII. 30.) Korm. rendelethez
+## 4. A természetben előforduló radioaktív anyagokat bedúsító iparágak, tevékenységek
+
+## Az alább felsorolt iparágak – ipari és kutatási tevékenységek, másodlagos feldolgozási folyamatok egyaránt – a természetben előforduló radioizotópokat a mentességi szintet meghaladó mértékben bedúsíthatják vagy felhalmozhatják melléktermékeikben:
+
+## 1. ritkaföldfém-bányászat, ritkaföldfémek kivonása monacitból, feldolgozás;
+
+## 2. tóriumvegyületek előállítása és tóriumtartalmú termékek gyártása;
+
+## 3. nióbium- és tantalumérc-feldolgozás;
+
+## 4. olaj- és gáztermelés, beleértve a kutatófúrásokat is;
+
+## 5. geotermikusenergia-termelés, -felhasználás;
+
+## 6. TiO2-pigment előállítása;
+
+## 7. hevítéses foszforgyártás;
+
+## 8. cirkon- és cirkóniumipar mint cirkonhomok-felhasználás, kerámiagyártás;
+
+## 9. foszfátérc-feldolgozás, foszfátműtrágyák előállítása;
+
+## 10. cementgyártás, égetőkemencék karbantartása;
+
+## 11. szénbányászat, széntüzelésű erőművek, kazánok karbantartása;
+
+## 12. foszforsav előállítása;
+
+## 13. elsődleges vasgyártás;
+
+## 14. ón-, ólom-, rézkohászat;
+
+## 15. talajvízszűrő létesítmények;
+
+## 16. ércbányászat, érckohászati feldolgozás, az üzemelő uránércbánya kivételével;
+
+## 17. timföldgyártás és -feldolgozás.
+
+7. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^213]
+
+[^213]: A 7. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (3) bekezdésével megállapított szöveg.

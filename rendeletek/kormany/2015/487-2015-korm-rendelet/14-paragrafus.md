@@ -1,5 +1,3 @@
-## 13. § A várandós vagy csecsemőt szoptató munkavállaló az erről a tényről történő, az engedélyesnek – vagy külső munkavállaló esetében a munkáltatónak – címzett tájékoztatásának időpontjától kezdődően nem foglalkoztatható sugárveszélyes munkakörben.
-
 14. § (1) A tizennyolcadik életévüket betöltött gyakornokokra és tanulókra, akiknek tanulmányaik során kötelezően sugárforrásokkal kell dolgozniuk, a foglalkozási sugárterhelésre vonatkozóan a 12. § (2) és (3) bekezdésében meghatározott dóziskorlátokkal megegyező dóziskorlátok vonatkoznak.
 
 (2) A tizenhatodik életévüket betöltött, de tizennyolc évesnél fiatalabb gyakornokokra és tanulókra, akiknek tanulmányaik során kötelezően sugárforrásokkal kell dolgozniuk, az effektívdózis-korlát évi 6 mSv.

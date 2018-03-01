@@ -9,3 +9,16 @@ a) lakó- és középületekben: 300 Bq/m3,
 b) munkahelyeken: 300 Bq/m3.
 
 (3) A radon- és radon leányelem-koncentrációk vonatkoztatási szintjét a nemzeti cselekvési terv országos radon-felmérési eredményeire alapozva legalább öt naptári évente felül kell vizsgálni.
+
+(4)[^140] Azokon a munkahelyeken, ahol a radon- és radon leányelem-koncentrációk levegőben mért éves átlagos aktivitás-koncentráció értéke az optimálás elvének megfelelően megtett intézkedések ellenére is meghaladja a munkahelyekre megadott vonatkoztatási szintet, a munkáltató az OAH részére bejelenti a radon- és radon leányelem-koncentrációk levegőben mért éves átlagos aktivitás-koncentráció értékét, a radon-koncentráció csökkentése érdekében bevezetett intézkedéseket és a munkavállalók várható éves effektív dózisának becsült értékét.
+
+(5)[^141] Azokon a munkahelyeken, ahol a radon- és radon leányelem-koncentrációk levegőben mért éves átlagos aktivitás-koncentráció értéke alapján a munkavállalók sugárterhelése meghaladhatja az évi 6 mSv effektív dózist, a tevékenységet tervezett sugárzási helyzetként kell kezelni, és alkalmazni kell a 10–14. § és 30–35. § előírásait.
+
+(6)[^142] Azokon a munkahelyeken, ahol a munkavállalókat érő sugárterhelés nem haladja meg az évi 6 mSv effektív dózist, de a radon- és radon leányelem-koncentrációk levegőben mért éves átlagos aktivitás-koncentráció értéke a munkahelyekre megadott vonatkoztatási szintet meghaladja, a munkáltatónak gondoskodnia kell a sugárzási helyzet folyamatos nyomon követéséről és a munkavállalók várható éves effektív dózisának évenkénti felülvizsgálatáról.
+
+(7)[^143] Azokban a lakó- és középületekben, ahol – a Nemzeti Radon Cselekvési Tervről szóló kormányhatározat szerint végzett felmérés alapján – az ott tartózkodókat érő, radonból származó sugárterhelés meghaladhatja az évi 6 mSv effektív dózist, vagy a radon- és radon leányelem-koncentrációk levegőben mért éves átlagos aktivitás-koncentráció értéke a megadott vonatkoztatási szintet meghaladja, az OAH tájékoztatja az ott tartózkodókat és a polgármestert a sugárterhelés mértékéről és a kapcsolódó kockázatokról, valamint a Radon Cselekvési Tervvel összhangban a sugárzási helyzet nyomon követésének lehetséges módjairól.
+
+[^140]: A 49. § (4) bekezdését a 27/2018. (II. 28.) Korm. rendelet 44. §-a iktatta be.
+[^141]: A 49. § (5) bekezdését a 27/2018. (II. 28.) Korm. rendelet 44. §-a iktatta be.
+[^142]: A 49. § (6) bekezdését a 27/2018. (II. 28.) Korm. rendelet 44. §-a iktatta be.
+[^143]: A 49. § (7) bekezdését a 27/2018. (II. 28.) Korm. rendelet 44. §-a iktatta be.

@@ -14,18 +14,64 @@ b) felelős a sugárvédelmi előírások betartásáért.
 
 (3) Ha a munkavégzés felügyelete kép- és hangátvitelt biztosító távfelügyelettel megoldható, a sugárveszélyes munkát megfelelő szakmai és sugárvédelmi képzettségű munkavállaló egyedül is végezheti.
 
-(4) Orvosi célú röntgendiagnosztikai átvilágítást megfelelő szakmai és sugárvédelmi képzettségű orvos vagy felelős egészségügyi szakember egyedül végezhet.
+(4)[^66] Egyedül is végezhető sugárveszélyes tevékenység, ha a sugárvédelmi szakértő által készített, 7. melléklet szerinti Sugárvédelmi Leírás részét képező értékelés igazolja, hogy az önállóan, megfelelő szakmai és sugárvédelmi képzettséggel rendelkező szakember által végzett sugárveszélyes tevékenység – a rendkívüli esemény bekövetkezését is beleértve – végrehajtásakor:
 
-(5) Az engedélyes felelőssége kiterjed
+a) nem lép fel olyan mértékű sugárterhelés, radioaktív szennyeződés vagy személyi sérülés, amely a munkavállalóra vonatkozó dóziskorlátok meghaladását eredményezheti, vagy a munkavállaló sürgős megfigyelését és kezelését igényli,
+
+b) a sugárveszélyes tevékenység biztonságosan végrehajtható, vagy szükség esetén félbeszakítható anélkül, hogy radioaktív anyag nem tervezett kibocsátása, a lakosság tagjainak, más munkavállalóknak vagy pácienseknek nem tervezett sugárterhelése következzen be,
+
+c) a sugárveszélyes tevékenység optimálásakor figyelembe vették az önálló munkavégzés következményeit, és
+
+d) a tevékenység nem I. sugárvédelmi kategóriába, valamint csomagolatlan nyitott sugárforrások kezelésével járó II. sugárvédelmi kategóriába tartozó tevékenység.
+
+(5)[^67] A (4) bekezdés a) és b) pontjában foglalt feltételekkel megfeleltethetőek az alábbi tevékenységek:
+
+a) az orvosi és állatorvosi célú röntgendiagnosztikai vizsgálat orvosi és állatorvosi munkahelyen történő végrehajtása, ha azt megfelelő szakmai és sugárvédelmi képzettségű orvos, állatorvos, egészségügyi vagy állatorvosi asszisztens végzi,
+
+b) a kutatási vagy ipari tevékenység keretében, laboratóriumon, valamint telephelyen belül, megfelelő szakmai és sugárvédelmi képzettségű szakember által végzett, a II. sugárvédelmi kategóriába tartozó, zárt sugárzási terű vagy legfeljebb 120 kV gyorsítófeszültséggel működő, nyílt sugárzási terű, ionizáló sugárzást létrehozó berendezés üzemeltetése,
+
+c) III. sugárvédelmi kategóriába tartozó tevékenység végzése,
+
+d) a megfelelő szakmai és sugárvédelmi képzettségű, „B” besorolású munkavállaló által is végezhető tevékenység, ha kizárható, hogy a munkavállaló sugárterhelése az e rendelet által szabályozott tevékenységek részeként járó munkavégzés során – rendkívüli események bekövetkezése esetét is figyelembe véve – meghaladhatja az évi 6 mSv effektív dózist, vagy a szemlencsére nézve az évi 15 mSv, vagy a bőrre vagy a végtagokra nézve az évi 150 mSv egyenértékdózist,
+
+e) a veszélyes áruk szállítására vonatkozó előírások szerint a radioaktív anyagot tartalmazó küldeménydarabok szállításakor a gépjárművezetői feladatok ellátása,
+
+f) a sugárveszélyes munkahely rutinszerű, radioaktív anyagok kezelésével nem járó sugárvédelmi ellenőrző tevékenységének ellátása.
+
+(5a)[^68] Az engedélyes felelőssége kiterjed
 
 a) a munkavállalók egyéni védőeszközzel való ellátására,
 
-b) a munkavállalók sugárzás jellegének megfelelő dozimetriai felügyeletére, és
+b) a munkavállalók sugárzás jellegének megfelelő dozimetriai felügyeletére, beleértve
 
-c) minden ellenőrzött területen végzett tevékenység esetében a személyi dozimetriai adatok helyszíni leolvasására, illetve a hatósági doziméterek kiolvasására a Munkahelyi Sugárvédelmi Szabályzatban (a továbbiakban: MSSZ) meghatározott gyakorisággal, valamint a mért adatok feljegyzésére.
+ba) a személyi dozimetriai adatok helyszíni leolvasását, a hatósági doziméterek kiértékeltetését, valamint a személyi dozimetriai adatok helyi nyilvántartásának vezetését,
+
+bb) a sugárvédelmi műszerek működőképességének ellenőrzését, kalibrációját és hitelesíttetését,
+
+bc) indokolt esetben a végtagdózisok és a belső sugárterhelési ellenőrzésének biztosítását, valamint
+
+bd) a munkahelyi monitoringvizsgálatok végrehajtását, amennyiben azokat felhasználják a sugárterhelések becsléséhez,
+
+c) a sugárvédelmi intézkedések biztosításához szükséges tárgyi és személyi feltételek teljesítésére,
+
+d) a szükséges biztonsági berendezések alkalmazására, üzemeltetésére és azok hatékonyságának ellenőrzésére,
+
+e) a hatékony sugárvédelmi intézkedések biztosításához szükséges szervezési és szabályozási környezet megvalósítására,
+
+f) a sugárvédelmi program kidolgozására, melynek kötelező eleme a sugárveszélyes tevékenységekre és a sugárveszélyes munkahelyekre vonatkozó Munkahelyi Sugárvédelmi Szabályzat (a továbbiakban: MSSZ) elkészítése és betartásának biztosítása,
+
+g) a sugárterhelésnek kitett munkavállalók tájékoztatására a munkahelyi kockázatok tekintetében, különösen:
+
+ga) a terhesség mielőbbi bejelentésének fontosságáról, és
+
+gb) figyelemmel a szoptatott csecsemő sugárterhelésének kockázatára radionuklidok felvétele vagy testi szennyeződés esetén, az anyatejadási szándékuk mielőbbi bejelentésének fontosságáról.
 
 (6) Az (1) és (5) bekezdésben meghatározott előírások akkor is érvényesek, ha a munkahelyükön radon-expozíciónak kitett személyek esetében fennáll a lehetősége a vonatkozási szint túllépésének.
 
 (7) A munkáltatók figyelembe veszik az Országos Személyi Dozimetriai Nyilvántartásból származó, a munkavállalóikat esetlegesen ért vagy érő, egy másik munkáltatónak vagy az engedélyesnek a felelősségi körébe tartozó sugárterheléssel kapcsolatos információkat.
 
 (8) Az (1)–(7) bekezdés előírásai az önfoglalkoztatók és az önkéntes munkát végzők védelmére is vonatkoznak.
+
+[^66]: A 22. § (4) bekezdése a 27/2018. (II. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^67]: A 22. § (5) bekezdése a 27/2018. (II. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^68]: A 22. § (5a) bekezdését a 27/2018. (II. 28.) Korm. rendelet 26. §-a iktatta be.

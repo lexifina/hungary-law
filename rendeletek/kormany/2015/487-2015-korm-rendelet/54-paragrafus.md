@@ -1,76 +1,106 @@
 ## 35. Engedélykérelmek
 
-54. § (1) Az engedélykérelemnek tartalmaznia kell:
+54. §[^168] (1) Az engedélykérelemnek tartalmaznia kell:
 
 a) a kérelmező megnevezését és címét,
 
-b) az engedélyezni kívánt tevékenységek megjelölését és
+b) az engedélyezési eljárásban kapcsolattartó személy nevét és elérhetőségét,
 
-c)[^1]
+c) a kérelem benyújtásának indokát,
 
-(2) Az 53. § (1) bekezdés 1., 2. és 18. pontja szerinti engedély iránti kérelemhez csatolni kell a 7. melléklet szerinti Sugárvédelmi Leírást és a 8. melléklet szerinti MSSZ-t.
+d) az engedélyezni kívánt tevékenységek megjelölését az 53. §-ban felsoroltak szerint,
 
-(3) Az 53. § (1) bekezdés 3. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és információkat:
+e) az igazgatási szolgáltatási díj befizetésének igazolását.
 
-a) az ionizáló sugárzást létrehozó berendezés részletes leírását, sugárvédelmi kategóriába sorolását,
+(2) Az 53. § (1) bekezdés 1. és 2. pontja szerinti engedély iránti kérelemhez csatolni kell:
 
-b) az ionizáló sugárzást létrehozó berendezés rendeltetését és rendeltetésszerű használatát,
+a) a 7. melléklet szerinti Sugárvédelmi Leírást,
 
-c) az ionizáló sugárzást létrehozó berendezés, termék műszaki jellemzőit,
+b) a 8. melléklet szerinti MSSZ-t,
 
-d) radioaktív anyagokat tartalmazó termékek esetében ezen anyagok leírását, valamint rögzítésének módját,
+c) az 53. § (1) bekezdés 2. pontja szerinti engedély iránti kérelemhez minden üzemeltetni kívánt berendezésre vonatkozó, 11. melléklet szerinti adatlapot.
 
-e) a termék használata szempontjából releváns távolságban – többek között a termék bármely hozzáférhető felületétől 0,1 m távolságban – mérhető dózisteljesítményt,
+(3) Az 53/A. § (1) bekezdése szerinti, a létesítmény létesítésére vonatkozó engedély iránti kérelem benyújtásakor az (1) bekezdés b) és c) pontjaiban meghatározott dokumentumokat nem kell benyújtani.
 
-f) az ionizáló sugárzást létrehozó berendezés üzemeltetőit várhatóan érő dózisok nagyságát,
+(4) Az 5. mellékletben meghatározott berendezéstípusokba nem besorolható berendezések kategóriáját az OAH állapítja meg a forgalomba hozatal engedélyezésekor.
 
-g) orvosi radiológiai berendezés esetén a pácienseket várhatóan érő dózisok nagyságát,
+(5) Az 53. § (1) bekezdés 3. pontja szerinti engedély iránti kérelemnek tartalmaznia kell a következő adatokat és információkat:
 
-h) nem orvosi képalkotó berendezés esetén az érintetteket várhatóan érő dózisok nagyságát,
+a) az ionizáló sugárzást létrehozó berendezés vagy radioaktív sugárforrást tartalmazó készülék sugárvédelmi kategóriába sorolását, pontos típusmegnevezését,
 
-i) a vonatkozó szabványban szereplő előírásoknak való megfelelés igazolását,
+b) az ionizáló sugárzást létrehozó berendezés vagy radioaktív sugárforrást tartalmazó készülék rendeltetését és annak meghatározását, hogy a készülék vagy a berendezés önállóan vagy csak egy adott feladatot ellátó rendszer részegységeként alkalmazható,
 
-j) a magyar nyelvű felhasználói utasítást vagy kézikönyvet és
+c) az ionizáló sugárzást létrehozó berendezés vagy radioaktív sugárforrást tartalmazó készülék részletes leírását, amely tartalmazza az eszköz vagy berendezés felépítését, működésének leírását, a biztonsági funkciók működésének módját, a berendezés jelzőrendszereinek működését, a berendezésen elhelyezett sugárvédelemmel összefüggő jelöléséket, a berendezés – beleértve az ionizáló sugárzás létrehozásához hozzájáruló egységeket, alkatrészeket vagy a sugárvédelmi árnyékolást – műszaki jellemzőit, több lehetséges felszereltség esetén minden egyes altípus paramétereinek megadásával,
 
-k) a gyártó CE megfelelőségi nyilatkozatát, orvosi radiológiai berendezés esetén egy bejegyzett testület tanúsítványát arról, hogy a gyártó teljes körű minőségügyi rendszert alkalmaz.
+d) radioaktív sugárforrást tartalmazó berendezések, készülékek esetében ezen anyagok leírását, valamint rögzítésének módját,
 
-(4) Az 53. § (1) bekezdés 4. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és információkat:
+e) a berendezés környezetében mérhető ionizáló sugárzás térbeli eloszlásának jellemzését:
 
-a) a karbantartandó berendezések megnevezését, sugárvédelmi kategóriába sorolását és
+ea) zárt sugárzási terű berendezések esetében a berendezés bármely hozzáférhető felületétől 0,1 m távolságban mérhető dózisteljesítményt,
 
-b) a 8. melléklet szerinti MSSZ-t.
+eb) nyitott sugárzási terű, nem orvostechnikai berendezések esetében a berendezés környezetében – a berendezés bármely hozzáférhető felületétől 0,1 m távolságban, valamint a munkavállaló helyén, továbbá amennyiben releváns végtagjainál, bőrén vagy szeménél – mérhető, a szórt és árnyékolt sugárzásból származó elnyelt vagy közölt dózist, valamint az elnyelt vagy közölt dózisteljesítményt,
 
-(5) Az 53. § (1) bekezdés 5. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és információkat:
+ec) orvostechnikai berendezések esetében az orvostechnikai eszközökről szóló 93/42/EGK irányelv szerint végzett, a szórt és árnyékolt sugárzásból származó elnyelt vagy közölt dózisra vagy elnyelt vagy közölt dózisteljesítményre vonatkozó megfelelőségértékelési eljárások eredményeit,
 
-a) az ionizáló sugárzás elleni védőeszköz rendeltetését és rendeltetésszerű használatát,
+f) az ionizáló sugárzást létrehozó berendezés üzemeltetőit várhatóan érő dózisok elemzését, a berendezés jellemzőinek és a munkahely kialakításának figyelembevételével,
 
-b) az ionizáló sugárzás elleni védőeszköz műszaki jellemzőit,
+g) nem orvosi képalkotó berendezés esetén az érintetteket várhatóan érő dózisok nagyságrendjét,
 
-c) a vonatkozó szabványban szereplő előírásoknak való megfelelés igazolását,
+h) a berendezés kialakítása során alkalmazott, az ionizáló sugárzásra vonatkozó szabványban szereplő előírásoknak való megfelelés igazolását,
 
-d) a magyar nyelvű felhasználói utasítást vagy kézikönyvet és
+i) a berendezés rendeltetésszerű használatát leíró magyar nyelvű felhasználói utasítást vagy kézikönyvet, mely tartalmazza a felhasználó számára készített biztonsági utasításokat is,
 
-e) a gyártó CE megfelelőségi nyilatkozatát, orvosi radiológiai berendezés esetén egy bejegyzett testület tanúsítványát arról, hogy a gyártó teljes körű minőségügyi rendszert alkalmaz.
+j) a berendezés – vonatkozó európai uniós irányelvek által előírt – CE megfelelőségi nyilatkozatát,
 
-(6) Az 53. § (1) bekezdés 6. pontja szerinti engedély iránti kérelemnek tartalmaznia kell
+k) orvosi radiológiai berendezés esetén egy tanúsító szervezet tanúsítványát arról, hogy a gyártó teljes körű minőségügyi rendszert alkalmaz.
+
+(6) Az 53. § (1) bekezdés 4. pontja szerinti engedély iránti kérelemnek tartalmaznia kell a következő adatokat és információkat:
+
+a) a 7. melléklet szerinti Sugárvédelmi Leírás I. pontjában megkövetelt információkat,
+
+b) a 7. melléklet szerinti Sugárvédelmi Leírás II. pontjában foglalt biztonsági értékelések elvégzésére vonatkozó általános projekttervet,
+
+c) a 8. melléklet szerinti MSSZ-t.
+
+(7) Az 53. § (1) bekezdés 5. pontja szerinti engedély iránti kérelemnek tartalmaznia kell a következő adatokat:
+
+a) a forgalmazni kívánt radioaktív anyag megnevezését, radionuklid-tartalmát, fizikai és kémiai jellemzőinek leírását,
+
+b) a forgalmazni kívánt radioaktív anyag gyártmányát, beszerzési módját,
+
+c) a radioaktív anyagok nyomkövetését biztosító eljárásokat,
+
+d) a radioaktív anyagok forgalmazása során figyelembe vett, a radioaktív anyagokra vonatkozó uniós jogot és hazai jogszabályokat,
+
+e) az ISO 9001 tanúsító szervezet tanúsítványát arról, hogy a forgalmazó minőségirányítási rendszert alkalmaz.
+
+(8) Az 53. § (1) bekezdés 6. pontja szerinti engedély iránti kérelemnek tartalmaznia kell
 
 a) a 4. melléklet szerinti képzési program bemutatását,
 
-b)[^2]
+b) az oktatók legalább 3 éves szakirányú tapasztalatát és az oktatandó tárgyaknak megfelelő felsőfokú végzettségét igazoló szakmai önéletrajzát és bizonyítványainak másolatát,
 
 c) az oktatók átfogó fokozatú képzettségének igazolását,
 
-d) a sikeres sugárvédelmi vizsga esetén kiállítandó bizonyítvány formáját, és
+d) a sikeres sugárvédelmi vizsga esetén kiállítandó bizonyítvány formáját és
 
 e) a számonkérés módját.
 
-(7) Az 53. § (1) bekezdés 7. pontja szerinti engedély iránti kérelmet az OAH által rendszeresített nyomtatványon vagy elektronikus űrlapon kell benyújtani. A kérelem az alábbiakat tartalmazza:
+(9) Az 53. § (1) bekezdés 7. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
 
-a) természetes személyazonosító adatait, állampolgárságát, értesítési címét és
+a) a melléktermékek sugárvédelmi szempontból fontos jellemzőit,
 
-b) a továbbképzés alóli felmentési kérelmet, illetve a továbbképzésben való részvétel nélküli vizsgázásának lehetővé tételét bizonyító dokumentumokat.
+b) a melléktermékek tervezett kezelésének, lerakásának és hasznosításának módját és helyét,
 
-(8) Az 53. § (1) bekezdés 8. pontja szerinti engedély iránti kérelmet az OAH által rendszeresített nyomtatványon vagy elektronikus űrlapon kell benyújtani. A kérelem az alábbiakat tartalmazza:
+c) a lakosság várható sugárterhelését, a nem tervezett eseményeket is figyelembe véve, a közvetlen sugárzás, a felszíni, a felszín alatti víz és a vízadó közeg potenciális szennyeződése lehetőségének és útvonalának, továbbá az esetleges felporzás okozta levegőszennyeződés bemutatásával,
+
+d) lerakó létesítését megelőzően a létesítményben elhelyezhető melléktermékek maximális mennyiségét, a létesítmény lezárásának tervezett időpontját, a létesítmény lezárásának tervezett módját,
+
+e) lerakó lezárásakor a létesítményben elhelyezett melléktermékek mennyiségét, a létesítmény lezárásának módját, a lerakó további felügyeletére tervezett intézkedéseket, a lakosság várható sugárterhelését a lezárást követően egyaránt, a nem tervezett eseményeket is beleértve,
+
+f) a melléktermékek hasznosítása esetén az újrahasznosítást végző munkavállalók és az újrahasznosítás után a lakosság várható sugárterhelését, a nem tervezett eseményeket is beleértve.
+
+(10) Az 53. § (1) bekezdés 8. pontja szerinti engedély iránti kérelmet az OAH által rendszeresített nyomtatványon vagy elektronikus űrlapon kell benyújtani. A kérelem az alábbiakat tartalmazza:
 
 a) természetes személyazonosító adatait, állampolgárságát, értesítési címét,
 
@@ -80,19 +110,19 @@ c) a szakmai gyakorlat részletes leírását és idejét, részletes szakmai ö
 
 d) a szakmai gyakorlat igazolását, különösen foglalkoztatási jogviszony vagy vállalkozói tevékenység igazolása révén.
 
-(9) Az 53. § (1) bekezdés 9. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és információkat:
+(11) Az 53. § (1) bekezdés 9. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
 
 a) a kiemelt létesítmény és telephelyének leírását,
 
-b) az alkalmazott radioaktív anyagok leírását,
+b) a 46. § (2) bekezdésében foglalt információkat,
 
-c) a tervezett és üzemzavari kibocsátási útvonalakat, és
+c) a tervezett és üzemzavari kibocsátási útvonalakat és
 
 d) a javasolt dózismegszorítás értékét és az érték sugárvédelmi megalapozását.
 
-(10) Az 53. § (1) bekezdés 10. pontja szerinti engedély iránti kérelemhez csatolni kell a 7. melléklet szerint elkészített Sugárvédelmi Leírást és a 8. melléklet szerint elkészített létesítményi szintű MSSZ-t.
+(12) Az 53. § (1) bekezdés 10. pontja szerinti engedély iránti kérelemhez csatolni kell a 8. melléklet szerint elkészített LSSZ-t.
 
-(11) Az 53. § (1) bekezdés 11. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és információkat:
+(13) Az 53. § (1) bekezdés 11. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és információkat:
 
 a) az érintett személy vagy személyek Országos Dozimetriai Nyilvántartásban szereplő személyi azonosító adatait,
 
@@ -102,19 +132,37 @@ c) a tervezett tevékenységek leírását és
 
 d) a várható sugárterhelés nagyságát és ennek optimáltságát megalapozó dokumentumot.
 
-(12) Az 53. § (1) bekezdés 12. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és információkat:
+(14) Az 53. § (1) bekezdés 12. pontja szerinti engedély iránti kérelemnek tartalmaznia kell a következő adatokat:
 
-a) a termék rendeltetését,
+a) a termék megnevezését,
 
-b) a termék műszaki jellemzőit,
+b) annak részletes indoklását, hogy a radioaktív tartalom bizonyíthatóan milyen előnyökkel jár a termék felhasználása során; mi teszi indokolttá a radioaktív anyagot tartalmazó fogyasztási cikk előállítását, forgalmazását, használatát,
 
-c) radioaktív anyagokat tartalmazó termékek esetében ezen anyagok fizikai, kémiai és műszaki rögzítésének módját,
+c) az egyes radionuklidok aktivitását, valamint az aktivitás-koncentrációját,
 
-d) a termék használata szempontjából releváns távolságban – többek között a termék bármely hozzáférhető felületétől 0,1 m távolságban – mérhető dózisteljesítményt és
+d) radioaktív anyagokat tartalmazó termékek esetében ezen anyagok fizikai, kémiai és műszaki rögzítésének módját, a radioaktív anyag kikerülésének lehetőségét a termékből,
 
-e) a fogyasztási cikk rendszeres használóit várhatóan érő dózisok nagyságát.
+e) a termék használata szempontjából releváns távolságban – a termék bármely hozzáférhető felületétől 0,1 m távolságban – mérhető dózisteljesítményt,
 
-(13) Az 53. § (1) bekezdés 13. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és információkat:
+f) a fogyasztási cikk rendeltetésszerű, rendszeres felhasználóit várhatóan érő dózisok nagyságát, a több termék vásárlását és egyidejű felhasználásának esetét is figyelembe véve,
+
+g) a termék címkézésén lévő jelölések leírását,
+
+h) a fogyasztási cikk magyar nyelvű tájékoztatóját, azaz a fogyasztói dokumentáció egy példányát, amelyben feltüntetésre kerülnek az alábbi információk:
+
+ha) a termék rendeltetése,
+
+hb) a termék műszaki jellemzőinek leírása, beleértve a fogyasztási cikkben megjelenő radioaktívanyag-tartalom megadása [nuklid(ok), aktivitás, kémiai és fizikai forma],
+
+hc) a termék rendeltetésszerű, biztonságos és helyes használatra vonatkozó információk,
+
+hd) a termék tárolására, szállítására vonatkozó információk,
+
+he) a termék ártalmatlanítására, újrahasznosítására vonatkozó információk,
+
+hf) minden egyéb olyan információ, mely a termék kezelése során a termék használóinak biztonságát érinti.
+
+(15) Az 53. § (1) bekezdés 13. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
 
 a) a radioaktívan szennyezett terület pontos meghatározását,
 
@@ -122,65 +170,60 @@ b) a radioaktív szennyezés okát és ismertetését,
 
 c) környezeti mérési adatokat,
 
-d) a bevezetendő intézkedések stratégiáját, és
+d) a bevezetendő intézkedések stratégiáját és
 
 e) a tartósan szennyezett területen tervezett tevékenységeket, valamint a várható sugárdózisok értékét.
 
-(14) Az 53. § (1) bekezdés 14. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és információkat:
+(16) Az 53. § (1) bekezdés 14. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
 
-a) az ionizáló sugárzást létrehozó berendezés részletes leírását,
+a) az ionizáló sugárzást létrehozó berendezés típusengedélyének számát vagy – még korábban fogalomba nem hozott termék esetében – az 54. § (5) bekezdésében meghatározott információkat,
 
-b) az ionizáló sugárzást létrehozó berendezés rendeltetését és rendeltetésszerű használatát,
+b) az ionizáló sugárzást létrehozó berendezés mentesítésére vonatkozó, az 52. § szerinti követelmények teljesülésének – gyártó vagy arra feljogosított szakember által végzett vizsgálatok általi – igazolását,
 
-c) az ionizáló sugárzást létrehozó berendezés, termék műszaki jellemzőit,
+c) az ionizáló sugárzást létrehozó berendezés felhasználásával végzett tevékenység részletes ismertetését,
 
-d) a termék használata szempontjából releváns távolságban – többek között a termék bármely hozzáférhető felületétől 0,1 m távolságban – mérhető dózisteljesítményt,
+d) a berendezés – üzemeltetése és karbantartása során alkalmazandó – minőségellenőrzési utasítását.
 
-e) az ionizáló sugárzást létrehozó berendezés üzemeltetőit várhatóan érő dózisok nagyságát,
+(17) Az 53. § (1) bekezdés 15. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
 
-f) orvosi radiológiai berendezés esetén a pácienseket várhatóan érő dózisok nagyságát, és
+a) a radioaktív sugárforrást tartalmazó készülék típusengedélyének számát vagy – még korábban fogalomba nem hozott termék esetében – az 54. § (5) bekezdésében meghatározott információkat,
 
-g) nem orvosi képalkotó berendezés esetén az érintetteket várhatóan érő dózisok nagyságát.
+b) a radioaktív sugárforrást tartalmazó készülék mentesítésére vonatkozó, az 52. § szerinti követelmények teljesülésének – gyártó vagy arra feljogosított szakember által végzett vizsgálatok általi – igazolását,
 
-(15) Az 53. § (1) bekezdés 15. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és információkat:
+c) a radioaktív sugárforrást tartalmazó készülék felhasználásával végzett tevékenység részletes ismertetését,
 
-a) az ionizáló sugárzást létrehozó berendezés részletes leírását,
+d) a berendezés üzemeltetése és karbantartása során alkalmazandó minőségellenőrzési utasítást.
 
-b) az ionizáló sugárzást létrehozó berendezés rendeltetését és rendeltetésszerű használatát,
+(18) Az 53. § (1) bekezdés 16. pontja szerinti engedély iránti kérelemnek radioaktív anyag alkalmazása esetén tartalmaznia kell a 10. mellékletben foglalt szempontok szerint összeállított sugárvédelmi elemzést, ionizáló sugárzást létrehozó berendezés vagy radioaktív sugárforrást tartalmazó készülék üzemeltetése esetén a berendezés megszüntetésének (elszállításának vagy további használatra alkalmatlanná tételére vonatkozó) igazolását.
 
-c) az ionizáló sugárzást létrehozó berendezés termék műszaki jellemzőit,
-
-d) radioaktív anyagokat tartalmazó termékek esetében ezen anyagok leírását, valamint rögzítésének módját,
-
-e) a termék használata szempontjából releváns távolságban–többek között a termék bármely hozzáférhető felületétől 0,1 m távolságban – mérhető dózisteljesítményt,
-
-f) az ionizáló sugárzást létrehozó berendezés üzemeltetőit várhatóan érő dózisok nagyságát,
-
-g) orvosi radiológiai berendezés esetén a pácienseket várhatóan érő dózisok nagyságát, és
-
-h) nem orvosi képalkotó berendezés esetén az érintetteket várhatóan érő dózisok nagyságát.
-
-(16) Az 53. § (1) bekezdés 16. pontja szerinti engedély iránti kérelemnek tartalmaznia kell a munkahelyen mérhető sugárzási adatokat.
-
-(17) Az 53. § (1) bekezdés 17. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és információkat:
+(19) Az 53. § (1) bekezdés 17. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
 
 a) a felszabadítandó radioaktív anyag leírását,
 
-b) a felszabadítás érdekében végzendő tevékenység bemutatását és a kapcsolódó dózisbecslést és
+b) a felszabadított radioaktív anyaggal végzendő tevékenység bemutatását,
 
-c) a felszabadított radioaktív anyaggal végzendő tevékenység bemutatását.
+c) a 3. §-ban a felszabadításra vonatkozó feltételek teljesülését igazoló elemzést és a kapcsolódó dózisbecslést.
 
-(18) Az 53. § (2) bekezdés szerinti átalakítási engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és információkat:
+(20) Az 53. § (1) bekezdés 18. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
+
+a) a mentesítendő radioaktív anyag alkalmazásával kapcsolatos tevékenység leírását,
+
+b) az alkalmazott radioaktív anyag jellemzőit, mennyiségét,
+
+c) az 52. §-ban a mentesítésre vonatkozó feltételek teljesülését igazoló elemzést és a kapcsolódó dózisbecslést.
+
+(21) Az 53. § (2) bekezdése szerinti átalakítási engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
 
 a) a tervezett módosítás és szükségességének leírását és
 
 b) a tervezett módosítással érintett, az engedélyezési eljárás során benyújtott dokumentumok átalakított változatát a tervezett módosítások megjelölésével.
 
-(19) Az 53. § (1) bekezdés 19. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat és információkat:
+(22) Az 53. § (1) bekezdés 19. pontja szerinti engedély iránti kérelemnek tartalmaznia kell az alábbi adatokat:
 
-a) a felhasználás módjának biztonsági elemzését a sugárforrással kapcsolatos események értékelésére kiterjedően, és
+a) a felhasználás módjának – a 40. § (6) bekezdésében foglaltak szerinti, sugárvédelmi szakértő által elkészített – biztonsági elemzését a sugárforrással kapcsolatos események értékelésére kiterjedően és
 
 b) 1 évnél nem régebbi zártságvizsgálati jegyzőkönyvet.
 
-[^1]: Az 54. § (1) bekezdés c) pontját a 457/2017. (XII. 28.) Korm. rendelet 566. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
-[^2]: Az 54. § (6) bekezdés b) pontját a 457/2017. (XII. 28.) Korm. rendelet 566. § b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+(23) Az 53. § (1) bekezdés 1. pontja szerinti eljáráshoz a 7. melléklet 1. táblázatába foglalt adatlapot, az 53. § (1) bekezdés 2. pontja szerinti eljáráshoz a 7. melléklet 2. táblázatába foglalt adatlapot, az 53. § (1) bekezdés 4. pontja szerinti eljáráshoz a 7. melléklet 3. táblázatába foglalt adatlapot kell kitölteni.
+
+[^168]: Az 54. § a 27/2018. (II. 28.) Korm. rendelet 48. §-ával megállapított szöveg.

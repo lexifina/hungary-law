@@ -24,15 +24,13 @@ b) a laboratóriumban egyszer használatos eszközöket kell használni, amennyi
 
 c) minden sugárveszélyes munkahelyet el kell látni az ott felhasznált izotópok fajtájának és aktivitásának, valamint az elvégzendő feladatoknak megfelelő, sugárvédelmi célokat szolgáló munkaeszközökkel, egyéni védőeszközökkel, dekontamináló anyagokkal és magyar nyelvű kezelési utasítással rendelkező sugárvédelmi mérőműszerekkel,
 
-d) a Sugárvédelmi Leírásban kell megadni, hogy az izotóplaboratóriumban fennáll-e a sugárvédelmi szempontból jelentős radioaktív belső szennyeződés veszélye – amennyiben igen, a munkavállalók személyi ellenőrzését a belső szennyeződés vizsgálatával is ki kell egészíteni, a vizsgálat szükségességét és módszerét az MSSZ határozza meg,
+d)[^121]
 
 e) az engedélyezett technológiai folyamatoktól való eltérés következtében előálló radioaktív anyag belégzést vagy lenyelést, vagy ennek gyanúját a munkavállaló a munkahelyi sugárvédelmi megbízottnak és a munkahely vezetőjének haladéktalanul bejelenti,
 
 f) ellenőrzött területen a radioaktív izotóppal kapcsolatos munkavégzés körén kívül eső tevékenységet végezni, vagy a munkavégzéssel össze nem függő tárgyat bevinni, ott tárolni tilos,
 
-g) a 65 napnál rövidebb felezési idejű radioaktív hulladékot a laboratórium köteles az erre a célra kialakított, intézményen belüli átmeneti radioaktívhulladék-tárolóban tárolni mindaddig, amíg az radioaktív hulladéknak minősül,
-
-h) az átmeneti radioaktívhulladék-tárolóban lévő anyagokon fel kell tüntetni a radioaktív hulladék jellegét, az izotóp fajtáját, a benne lévő aktivitás becsült értékét, a becslés dátumát és a leadás (elhelyezés) tervezett dátumát,
+g)–h)[^122]
 
 i) nyitott radioaktív sugárforrást felhasználó laboratóriumban dekontamináló készletet kell készenlétben tartani, amiről az engedélyes gondoskodik a laboratórium munkaterületeinek, a munkavállalók létszámának, a felhasznált radioaktív készítmények aktivitásának és fajtájának figyelembevételével,
 
@@ -40,6 +38,10 @@ j) a dekontamináló készletet, amely kizárólag a radioaktív szennyezettség
 
 k) a munkahely falainak, padlójának, felszerelésének szennyeződése esetén a szennyezett felületek közvetlen dekontaminálása – a munkahelyi sugárvédelmi megbízott irányításával – az ott dolgozó munkavállalók feladata, továbbá
 
-l) ha a szennyeződés a tevékenység megszűnését követően derül ki, a mentesítés és a mentesítés eredményességét igazoló inaktívvá nyilvánítási eljárás kezdeményezése a szennyezett terület tulajdonosának kötelezettsége.
+l)[^123] ha a szennyeződés a tevékenység megszűnését követően derül ki, a 48. §-ban foglaltak szerint kell eljárni.
 
 (10) Nyitott radioaktív sugárforrást más személynek történő átadása előtt az atomenergia alkalmazója, köteles megbizonyosodni arról, hogy a nyitott radioaktív sugárforrást átvevő rendelkezik a megfelelő engedéllyel.
+
+[^121]: A 43. § (9) bekezdés d) pontját a 27/2018. (II. 28.) Korm. rendelet 57. § h) pontja hatályon kívül helyezte.
+[^122]: A 43. § (9) bekezdés g)–h) pontját a 27/2018. (II. 28.) Korm. rendelet 57. § h) pontja hatályon kívül helyezte.
+[^123]: A 43. § (9) bekezdés l) pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 23. pontja szerint módosított szöveg.

@@ -1,4 +1,16 @@
-15. § (1) Veszélyhelyzetben a baleset következményeinek elhárításában részt vevő személyekre a dóziskorlát 50 mSv effektív dózis. Az érintettek közül kivételt képez ez alól a népesség jelentős sugárterhelésének megakadályozásában és életmentésben részt vevő személy. A személyek felkészítését és tevékenységük megtervezését úgy kell végrehajtani, hogy a várható sugárterhelésük a 100 mSv effektív dózist, az életmentésben részt vevő személy sugárterhelése a 250 mSv effektív dózist ne haladja meg.
+15. § (1)[^56] Veszélyhelyzetben a baleset következményeinek elhárításában részt vevő személyekre a vonatkoztatási szinteket az alábbiak szerint kell alkalmazni:
+
+a) A veszélyhelyzet elhárításának tervezése során a veszélyhelyzeti munkavállalók munkáltatójának biztosítani kell, hogy a veszélyhelyzeti foglalkozási sugárterhelés – lehetőség szerint – ne érje el a 12. §-ban meghatározott dóziskorlátok szintjét.
+
+b) Olyan helyzetekben, amikor a sugárterhelés súlyos egészségkárosító hatásainak megelőzése vagy katasztrófahelyzet kialakulásának megelőzése céljából az a) pontban meghatározott feltétel nem valósítható meg, a veszélyhelyzet-kezelést irányító döntése alapján az alábbi feltételek alkalmazandók:
+
+ba) az általános feladatokat ellátó veszélyhelyzeti munkavállalók külső sugárterhelésének vonatkoztatási szintje 50 mSv effektív dózis, a teljes veszélyhelyzet-kezelési időszakra,
+
+bb) a lakosság jelentős sugárterhelésének megakadályozását célzó – a veszélyhelyzet súlyosbodásának megelőzését vagy a súlyosbodás mértékének csökkentését, életveszély potenciális kialakulásának megelőzését, valamint a sürgős óvintézkedések helyszíni bevezetését és alkalmazását szolgáló – feladatokat ellátó veszélyhelyzeti munkavállalók külső sugárterhelésének vonatkoztatási szintje a teljes veszélyhelyzet-kezelési időszakra 100 mSv effektív dózis,
+
+bc) emberélet megmentése, a sugárterhelés súlyos egészségkárosító hatásainak megelőzése vagy katasztrófahelyzet kialakulásának megelőzése céljából a veszélyhelyzeti munkavállalók külső sugárterhelésének vonatkoztatási szintje 250 mSv effektív dózis, a teljes veszélyhelyzet-kezelési időszakra vonatkoztatva.
+
+c) A személyek felkészítését és tevékenységük megtervezését úgy kell végrehajtani, hogy a várható sugárterhelésük az irányadó vonatkoztatási szinteket lehetőleg ne, a teljes veszélyhelyzet-kezelési időszakra vonatkoztatva pedig az 500 mSv effektív dózist semmiképpen se haladja meg.
 
 (2) A munkáltató gondoskodik az elhárítási műveletekkel kapcsolatos óvintézkedésekről.
 
@@ -19,3 +31,5 @@ a) intézkedik, hogy bekerüljenek a teljes élettartamra vonatkozó egészség�
 b) a megjelenéshez szükséges költségek fedezését is beleértve feltétel nélkül biztosítja, hogy az egészségügyi követés részét képező vizsgálatokon, kezeléseken (a továbbiakban e § vonatkozásában együtt: vizsgálat) megjelenhessenek.
 
 (9) Ha a vizsgálat időtartama nem számít betegállománynak és az egészségügyi követés részét képező vizsgálatokon történő megjelenés a munkáltatónál érvényes munkaidőben történik, a vizsgálatok és a vizsgálatokhoz szükséges utazás időtartamát a munkáltató köteles rendes munkaidőben eltöltött munkaként elszámolni.
+
+[^56]: A 15. § (1) bekezdése a 27/2018. (II. 28.) Korm. rendelet 21. §-ával megállapított szöveg.

@@ -1,15 +1,27 @@
-## 41. § Sugárforrás – radioaktív hulladékként való kezelését megelőzően – 3 évnél hosszabb ideig kizárólag a veszélyes-, és ezen belül a radioaktív áruk nemzetközi szállítását szabályozó nemzetközi egyezmények előírásainak megfelelő sugárforrás-tartóban vagy egyéb, azzal legalább egyenértékű biztonságot nyújtó tárolóeszközökben tárolható.
+## 25. [^120] A zárt sugárforrásokra vonatkozó követelmények
 
-## 25. A zárt radioaktív sugárforrásokra vonatkozó követelmények
+42. § (1) A Fizvr. 1. melléklete szerint 1., 2. és 3. kategóriába tartozó zárt radioaktív sugárforrás alkalmazása esetén az atomenergia alkalmazója köteles:
 
-## 42. § A Fizvr. 1. melléklete szerint 1., 2. és 3. kategóriába tartozó zárt radioaktív sugárforrás alkalmazása esetén az atomenergia alkalmazója köteles:
+a) biztosítani, hogy – a radioaktív hulladékká nyilvánított sugárforrások kivételével – a zárt radioaktív sugárforrások sértetlenségének ellenőrzése és fenntartása érdekében a telepített sugárforrások esetében a szolgálati időn belül a gyártó által javasolt időközönként, de legalább 3 évente,
 
-a) biztosítani, hogy az összes zárt radioaktív sugárforrás sértetlenségének ellenőrzése és fenntartása érdekében 5 évente sor kerüljön a közvetlen vagy közvetett zártságvizsgálatokra,
+aa) a mozgó eszközökben alkalmazott, valamint a manuálisan mozgatott sugárforrások esetében a szolgálati időn belül a gyártó által javasolt időközönként, de legalább évente,
 
-b) a Fizvr.-ben előírt rendszerességgel ellenőrizni, hogy minden zárt radioaktív sugárforrás a rendeltetési vagy tárolási helyén van, a zárt radioaktív sugárforrást tartalmazó berendezés továbbra is jó műszaki állapotban van,
+ab) a szolgálati időn túl az OAH által – legalább az a) pont és az a) pont aa) alpontja szerinti gyakorisággal – előírt módon, vagy
+
+ac) minden olyan üzemzavari vagy rendkívüli esemény bekövetkezése után, mely során a sugárforrást nem a szabvány szerinti tervezett igénybevételi osztályának megfelelő körülmények között használták vagy tárolták,
+
+## sor kerüljön a közvetlen vagy közvetett zártságvizsgálatokra,
+
+b) az a) pontban előírt gyakoriságú zártságvizsgálatot az ISO 9978 szabvány szerint vagy azzal egyenértékű műszaki biztonsági színvonalat biztosító követelménnyel igazolni,
 
 c) biztosítani, hogy a zárt radioaktív sugárforráshoz való szándékolatlan hozzáférés, a zárt radioaktív sugárforrás elvesztése és a zárt radioaktív sugárforrás tűzesetben való károsodásának megelőzése érdekében minden rögzített és mozgatható zárt radioaktív sugárforrásra megfelelő, dokumentált intézkedések, írásos útmutatók és eljárások vonatkozzanak,
 
 d) minden használaton kívüli zárt radioaktív sugárforrást az alkalmazás felhagyása után haladéktalanul visszajuttatni a gyártóhoz, vagy az atomenergia más alkalmazójának átmenetileg vagy véglegesen átadni, és
 
-e) mielőtt egy zárt radioaktív sugárforrást más személynek átad, megbizonyosodni arról, hogy a zárt radioaktív sugárforrást átvevő rendelkezik-e a megfelelő engedéllyel.
+e) mielőtt egy zárt radioaktív sugárforrást más személynek átad – a radioaktív anyag alkalmazására vonatkozó engedély másolatának bekérésével és annak átadás-átvételi jegyzőkönyvhöz történő csatolásával –, megbizonyosodni arról, hogy a zárt radioaktív sugárforrást átvevő rendelkezik-e a megfelelő engedéllyel.
+
+(2) Eszközökbe, berendezésbe szerelt vagy tárolóeszközben tartósan tárolt sugárforrás esetén a szabvány szerinti közvetett, egyéb esetben közvetett zártságvizsgálati módszert kell alkalmazni. Ha eszközből, berendezésből zárt sugárforrást kiszerelnek, vagy tartós tárolás esetén tárolóeszközből zárt sugárforrást kiemelnek, a zártságvizsgálatot haladéktalanul végre kell hajtani, melynek módszerét a kiszerelés körülményeitől függően, a sugárvédelmi optimálás alapelvét alkalmazva kell kiválasztani.
+
+(3) A zártságvizsgálatot sugárvédelmi szakértő vagy az 53. § (1) bekezdés 4. pontja szerinti engedéllyel rendelkező végezheti, vagy végrehajthatja az engedélyes is, ha a 8. melléklet szerinti MSSZ tartalmazza a zártságvizsgálat szakszerű és biztonságos elvégzésnek technológiai leírását.
+
+[^120]: A 25. alcím (42. §) a 27/2018. (II. 28.) Korm. rendelet 38. §-ával megállapított szöveg.

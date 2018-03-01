@@ -1,15 +1,9 @@
-69. § (1) Az ÁNTSZ OTH és a sugáregészségügyi feladatokat ellátó fővárosi és megyei kormányhivatalok a rendelet hatálybalépését követően, de legkésőbb 90 napon belül az OAH részére átadják
+69. § (1)[^203]
 
-a) az 53. § szerinti eljárásokhoz kapcsolódó, hatályban lévő engedélyeket, valamint az engedélyeket megalapozó iratokat,
+(2)[^204]
 
-b) a hatályban lévő gyártási engedélyt, a forgalomba hozatali engedélyt kapott radioaktív anyagot nem tartalmazó, ionizáló sugárzást létrehozó berendezések listáját, a kiadott engedélyek másolatát,
+(3)[^205] A dozimetriai adatbázis működtetése 2020. december 31-ig az országos tisztifőorvos feladata azzal, hogy e kormányrendelet hatálybalépésének napjától az OAH számára az adatbázis felhasználói jogosultságainak teljes körét biztosítani szükséges.
 
-c) a mentesített berendezések listáját, a kiadott mentesítési engedélyeket, valamint az mentesítést megalapozó iratokat, továbbá
-
-d) az ÁNTSZ OTH és a sugáregészségügyi feladatokat ellátó fővárosi és megyei kormányhivatalok által kiadott ionizáló sugárzást kibocsátó berendezésekkel kapcsolatos hatályos engedélyeket, valamint az engedélyeket megalapozó iratokat.
-
-(2) Ha az (1) bekezdésben felsorolt iratok és adatok az ÁNTSZ OTH-nál és a sugáregészségügyi feladatokat ellátó fővárosi és megyei kormányhivataloknál elektronikusan rendelkezésre állnak, azokat elektronikus adathordozón adja át az OAH részre.
-
-(3)[^6] A dozimetriai adatbázis működtetése 2020. december 31-ig az országos tisztifőorvos feladata azzal, hogy e kormányrendelet hatálybalépésének napjától az OAH számára az adatbázis felhasználói jogosultságainak teljes körét biztosítani szükséges.
-
-[^6]: A 69. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 316. § c) pontja szerint módosított szöveg.
+[^203]: A 69. § (1) bekezdését a 27/2018. (II. 28.) Korm. rendelet 57. § o) pontja hatályon kívül helyezte.
+[^204]: A 69. § (2) bekezdését a 27/2018. (II. 28.) Korm. rendelet 57. § o) pontja hatályon kívül helyezte.
+[^205]: A 69. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 316. § c) pontja szerint módosított szöveg.

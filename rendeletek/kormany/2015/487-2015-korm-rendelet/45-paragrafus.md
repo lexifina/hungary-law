@@ -32,14 +32,17 @@ bc) az ionizáló sugárzás jogi és biztonsági célú felhasználásai.
 
 (4) Az orvosi radiológiai berendezések felhasználásával végrehajtott, nem-orvosi célú, besugárzással járó képalkotó eljárások minden konkrét alkalmazását előzetesen indokolni kell, mégpedig az eljárás konkrét céljainak és a célszemély jellemzőinek figyelembevételével.
 
-(5) A nem-orvosi képalkotással járó sugárterhelést okozó tevékenységeknek a (3)–(4) bekezdés szerinti általános és konkrét indokolását felül lehet vizsgálni.
+(5)[^126] A nem orvosi képalkotással járó sugárterhelést okozó tevékenységeknek a (3)–(4) bekezdés szerinti általános és konkrét indokolását az OAH a konkrét alkalmazás engedélyezésekor felülvizsgálja. Az OAH minden konkrét alkalmazás engedélyezésekor felülvizsgálatnak veti alá azokat a nem orvosi képalkotással járó sugárterhelést okozó körülményeket, amelyek esetében nem kerül sor az egyes sugárterhelések egyedi indokolására.
 
-(6) Ha egy konkrét, nem-orvosi célú, besugárzással járó képalkotó tevékenység indokolt és engedélyezett, akkor
+(6)[^127] Ha egy konkrét, nem orvosi célú, besugárzással járó képalkotó tevékenység indokolt, és az 53. § (1) bekezdés 1. vagy 2. pontja szerint engedélyezett, akkor
 
-a) az orvosi radiológiai berendezések felhasználásával végrehajtott eljárások esetében az orvosi célú besugárzásokra érvényes szabályok alkalmazandóak,
+a) az orvosi radiológiai berendezések felhasználásával végrehajtott eljárások esetében az egészségügyi szolgáltatások nyújtása során ionizáló sugárzásnak nem munkaköri kötelezettségük keretében kitett személyek egészsége védelmének felügyeletéről szóló rendelet előírásai alkalmazandóak, azzal az eltéréssel, hogy az ilyen alkalmazás esetén a nem-orvosi képalkotással járó sugárterhelésre vonatkozóan teljesülnie kell a 8. § (2) bekezdésében a dózismegszorításokra vagy a 16. §-ban a dóziskorlátokra meghatározott követelményeknek, amely alól az OAH indokolt esetben felmentést adhat,
 
-b) a nem orvosi radiológiai berendezések felhasználásával végrehajtott eljárások esetében az OAH jelentősen a lakossági dóziskorlát alatti dózismegszorítást ír elő.
+b) a nem orvosi radiológiai berendezések felhasználásával végrehajtott eljárások esetében az OAH jelentősen a lakossági dóziskorlát alatti dózismegszorítást ír elő az 53. § (1) bekezdés szerinti eljárás során hozott hatósági döntésben.
 
 (7) Az atomenergia alkalmazója a besugárzásnak kiteendő személyt tájékoztatja a várható sugárterhelésről, kikéri a besugárzandó személy beleegyezését, kivéve, ha más jogszabályok alapján az adott esetben rendvédelmi szervek az adott személy beleegyezése nélkül is eljárhatnak.
 
 (8) A rendvédelmi szervek által elrendelt besugárzások esetében az indokoltság igazolása az elrendelő hatóság felelőssége.
+
+[^126]: A 45. § (5) bekezdése a 27/2018. (II. 28.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^127]: A 45. § (6) bekezdése a 27/2018. (II. 28.) Korm. rendelet 40. §-ával megállapított szöveg.

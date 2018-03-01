@@ -4,41 +4,85 @@
 
 ## 1. A rendelet hatálya
 
-1. § (1) E rendelet hatálya – a (2)–(4) bekezdésekben foglalt kivételekkel – kiterjed
+1. § (1)[^1] E rendelet hatálya – a (2)–(4) bekezdésben foglalt kivételekkel – kiterjed
 
 a) a radioaktív anyag alkalmazására,
 
-b) az ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezésekkel összefüggő tevékenységekre,
+b) az ionizáló sugárzást létrehozó és 5 kilovoltnál (kV) nagyobb elektromos feszültséggel működő alkatrészeket tartalmazó elektromos berendezések gyártására és üzemeltetésére,
 
-c) az a) és b) pont szerinti tevékenységet végzőkre,
+c) azokra az emberi tevékenységekre, amelyeket olyan természetes sugárforrások jelenlétében végeznek, amelyek a munkavállalók vagy a lakosság sugárterhelésének jelentős megnövekedését okozzák, kiemelten:
 
-d) azokra, akik az a) és b) pont szerinti tevékenység végzéséhez engedélykérelmet nyújtanak be, illetve bejelentést tesznek,
+ca) a légi járművek és űrjárművek üzemeltetésére, a személyzet sugárterhelésének szempontjából,
 
-e) a sugárvédelmi hatósági eljárásokra.
+cb) a természetben előforduló radionuklidokat tartalmazó anyagok feldolgozására,
 
-(2) E rendelet hatálya nem terjed ki az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 26. §-ában meghatározott honvédelmi ágazati feladatokra.
+d) a munkavállalókat és a lakosság tagjait érő beltéri radon-expozícióra,
+
+e) az építőanyagokból származó külső sugárterhelésre,
+
+f) egy veszélyhelyzet vagy korábbi emberi tevékenység utóhatásaként érvényesülő fennálló sugárterhelés eseteire,
+
+g) a lakosság tagjai vagy a munkavállalók egészségének védelmét szolgáló intézkedéseket szükségessé tévő veszélyhelyzeti sugárzási helyzetekre való felkészülésre, az ilyen helyzetek elhárításának megtervezésére és kezelésére,
+
+h) radioaktív anyagok forgalmazására,
+
+i) azokra, akik az a)–f) pontok és a h) pont szerinti tevékenység végzéséhez engedélykérelmet nyújtanak be, vagy bejelentést tesznek, és
+
+j) a sugárvédelmi hatósági eljárásokra.
+
+(2)[^2] E rendelet előírásai
+
+a) a nukleáris létesítmények és radioaktívhulladék-tárolók esetében a radioaktív anyagok alkalmazására vonatkozó, a 43. §-ban meghatározott követelmények, valamint az 51–59. §-ban és a 61. és a 62. §-ban meghatározott hatósági eljárásokra vonatkozó előírások – az 53. § (1) bekezdés 19. pontja és az 54. § (22) bekezdése szerinti eljárás kivételével – kizárólag a nukleáris rendszerek és rendszerelemek közé nem tartozó sugárforrások alkalmazására terjednek ki,
+
+b) a radioaktív anyagok szállítására vonatkozó nemzetközi egyezmények alkalmazása során a szállításban sugárveszélyes tevékenységet végzőkre a következők szerint terjednek ki:
+
+ba) az 1–4. §-ban meghatározott általános rendelkezések,
+
+bb) az 5–17. §-ban meghatározott sugárvédelmi követelmények,
+
+bc) a 18–21. §-ban meghatározott sugárvédelmi képzés és továbbképzés követelményei,
+
+bd) a 37. §-ban meghatározott sugárvédelmi szakértő bevonására vonatkozó előírások,
+
+c) a radioaktív sugárforrások csomagolását és töltését, a szennyezett csomagolóeszközök tisztítását és a radioaktív szennyezettség mentesítését végzőkre a következők szerint terjednek ki:
+
+ca) a 22–39. §-ban meghatározott, engedélyesre vonatkozó követelmények és a munkavállalókra vonatkozó kötelezettségek,
+
+cb) a 40–44. §-ban meghatározott radioaktív anyagok alkalmazására vonatkozó követelmények,
+
+cc) az 51–65. §-ban meghatározott hatósági rendszert érintő követelmények és eljárások.
+
+(2a)[^3] Ha az atomenergiáról szóló törvény honvédségi alkalmazásáról szóló miniszteri rendelet eltérően nem rendelkezik, e rendelet hatálya az (1) bekezdés a)–g) és i) pontjában foglalt tevékenységek és eljárások esetében az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 26. §-ában meghatározott honvédelmi ágazati feladatokra is kiterjed.
+
+(2b)[^4] Ha a honvédelmi ágazat sugárvédelmi hatósági feladatairól szóló kormányrendelet eltérően nem rendelkezik, e rendelet hatálya az (1) bekezdés j) pontja szerinti eljárás esetében az Atv. 26. §-ában meghatározott honvédelmi ágazati feladatokra is kiterjed.
 
 (3) Nem terjed ki e rendelet hatálya
 
 a) arra a radioaktív anyagra, amelyben az előforduló – az 1. melléklet 1.1. pontjában szereplő táblázat A oszlopában felsorolt – radionuklid aktivitás-koncentrációja nem haladja meg az 1. melléklet 1.1. pontjában szereplő táblázat B oszlopában szereplő általános mentességi aktivitás-koncentráció értéket úgy, hogy amennyiben a radioaktív anyag egynél több radionuklidot tartalmaz, vagy egy sugárveszélyes munkahelyen többféle radionuklid kerül alkalmazásra, minden egyes radionuklid aktivitás koncentrációja és a hozzá tartozó mentességi szint hányadosaiból képzett összegre teljesüljön az a feltétel, hogy a hányadosokból képzett összeg nem eredményez 1-nél nagyobb értéket,
 
-b) arra a radioaktív anyagra, amelyben előforduló – az 1. melléklet 1.1. pontjában szereplő táblázat A oszlopban felsorolt – radionuklid aktivitása nem haladja meg az 1. melléklet 1.1. pontjában szereplő táblázat D oszlopában szereplő specifikus mentességi aktivitás értéket úgy, hogy amennyiben a radioaktív anyag egynél több radionuklidot tartalmaz, vagy egy sugárveszélyes munkahelyen többféle radionuklid kerül alkalmazásra, minden egyes radionuklid aktivitása és a hozzá tartozó mentességi szint hányadosaiból képzett összegre teljesül, hogy az nem eredményez 1-nél nagyobb értéket, feltéve, hogy a radioaktív anyag tömege kisebb, mint 1 tonna,
+b)[^5] egy sugárveszélyes munkahelyen vagy egy adott sugárveszélyes tevékenység keretében bármely időpontban birtokolt radioaktív anyagra, amelyben az előforduló – 1. melléklet 1.1. pontjában foglalt táblázat A oszlopában felsorolt – radionuklid aktivitása nem haladja meg az 1. melléklet 1.1. pontjában foglalt táblázat D oszlopában szereplő mentességi aktivitás értéket úgy, hogy amennyiben a radioaktív anyag egynél több radionuklidot tartalmaz, vagy többféle radionuklid kerül alkalmazásra, minden egyes radionuklid aktivitása és a hozzá tartozó mentességi szint hányadosaiból képzett összegre teljesül, hogy az nem eredményez 1-nél nagyobb értéket,
 
-c) arra a radioaktív anyagra, amelyben előforduló – az 1. melléklet 1.1. pontjában szereplő táblázat A oszlopban felsorolt – radionuklid aktivitás-koncentrációja nem haladja meg az 1. melléklet 1.1. pontjában szereplő táblázat C oszlopában szereplő specifikus mentességi aktivitás-koncentráció értéket úgy, hogy amennyiben a radioaktív anyag egynél több radionuklidot tartalmaz, vagy egy sugárveszélyes munkahelyen többféle radionuklid kerül alkalmazásra, minden egyes radionuklid aktivitás koncentrációja és a hozzá tartozó mentességi szint hányadosaiból képzett összegre teljesül, hogy az nem eredményez 1-nél nagyobb értéket, feltéve, hogy a radioaktív anyag tömege kisebb, mint 1 tonna,
+c)[^6]
 
-d) az ionizáló sugárzást kibocsátó, az 5 kV-nál nem nagyobb feszültséggel működő rendszerelemeket tartalmazó elektromos berendezések gyártására és üzemeltetésére,
+d)[^7] az ionizáló sugárzást létrehozó, az 5 kV-nál nem nagyobb elektromos feszültséggel működő alkatrészeket tartalmazó elektromos berendezésekre,
 
-e) az elektronmikroszkópra,
+e)[^8] az alábbi elektromos készülékekre:
 
-f) rendeltetésszerű használat esetén az alábbi radioaktív anyagra, illetve berendezésre azzal a kitétellel, hogy azok előállítása, termelése, szerelése, javítása, tárolása nem tekinthető rendeltetésszerű használatnak:
+ea) elektronmikroszkóp,
 
-fa) a radioaktív anyagú világító festéket tartalmazó műszerre és órára,
+eb) legfeljebb 30 kilovolt (kV) elektromos feszültséggel működő elektromos készülék, ha normál üzemi körülmények között bármely hozzáférhető felülettől számított 0,1 m távolságban legfeljebb 1 μSv/h környezeti dózisegyenérték-teljesítményt idéz elő,
 
-fb) a beépített radioaktív sugárforrással működő – transzurán elem esetén 100 kBq-nél kisebb aktivitású radioaktív izotópot tartalmazó – füstérzékelőre,
+ec) képmegjelenítésre szolgáló katódsugárcső, ha normál üzemi körülmények között bármely hozzáférhető felülettől számított 0,1 m távolságban legfeljebb 1 μSv/h környezeti dózisegyenérték-teljesítményt idéz elő,
 
-fc) a természetes izotóp összetételű tóriumot tartalmazó fényforrásra és hegesztőpálcára,
+f)[^9] rendeltetésszerű használat esetén azon fogyasztási cikkre,
 
-fd) a radioaktív izotópot tartalmazó hideg irányfényre, valamint
+fa) amelyben a radioaktív anyag mennyisége nem haladja meg a (3) bekezdés b) pontjában meghatározott mennyiséget,
+
+fb) amely típusának rendeltetésszerű használatát az illetékes hatóság – a használat utáni kezelés módjának meghatározásával – mentesítette a sugárvédelmi hatósági felügyelet alól, vagy
+
+fc) amely fogyasztási cikket 2018. március 31. előtt vettek használatba, vagy amely fogyasztási cikk ugyanezen időpont előtt került kereskedelmi forgalomba
+
+abban az esetben, ha teljesíti a 6. § (1)–(3) bekezdésében meghatározott feltételeket, azzal a kitétellel, hogy nem tekinthető rendeltetésszerű használatnak a fogyasztási cikkek előállítására, termelésére, szerelésére, javítására, forgalomba hozatalára, nagykereskedelmi forgalmazására, nagykereskedelmi tárolására irányuló ipari, illetve szolgáltatói tevékenység,
 
 g) az engedélyezett kibocsátásból származó radioaktívan szennyezett anyagra.
 
@@ -52,4 +96,15 @@ c) a bolygatatlan földkéregben a nem emberi tevékenység eredményeként jele
 
 (5) Az e rendelet szerinti képesítések, vizsgák és munkavédelmi szabályok nem mentesítik az engedélyest és a munkavállalókat a más jogszabályban meghatározott munkavédelmi, képesítési kötelezettség teljesítése alól.
 
-(6) E rendelet rendelkezéseit a nukleáris létesítményre – ezen rendelkezések sérelme nélkül – a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló kormányrendelet rendelkezéseivel összhangban kell értelmezni.
+(6)[^10] E rendelet rendelkezéseit a nukleáris létesítményre – ezen rendelkezések sérelme nélkül – a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló kormányrendelet (a továbbiakban: NBSZ Kr.), valamint a radioaktívhulladék-tároló létesítményre a radioaktív hulladékok átmeneti tárolását vagy végleges elhelyezését biztosító tároló létesítmények biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló kormányrendelet (a továbbiakban: TBSZ Kr.) rendelkezéseivel összhangban kell értelmezni.
+
+[^1]: Az 1. § (1) bekezdése a 27/2018. (II. 28.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 27/2018. (II. 28.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2a) bekezdését a 27/2018. (II. 28.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^4]: Az 1. § (2b) bekezdését a 27/2018. (II. 28.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^5]: Az 1. § (3) bekezdés b) pontja a 27/2018. (II. 28.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (3) bekezdés c) pontját a 27/2018. (II. 28.) Korm. rendelet 57. § a) pontja hatályon kívül helyezte.
+[^7]: Az 1. § (3) bekezdés d) pontja a 27/2018. (II. 28.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (3) bekezdés e) pontja a 27/2018. (II. 28.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (3) bekezdés f) pontja a 27/2018. (II. 28.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^10]: Az 1. § (6) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 1. pontja szerint módosított szöveg.

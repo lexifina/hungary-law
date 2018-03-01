@@ -1,8 +1,8 @@
-## Radionuklidok általános és specifikus mentességi aktivitás-koncentrációja, valamint specifikus mentességi aktivitása
+## Radionuklidok általános és specifikus mentességi aktivitás-koncentrációja, valamint mentességi aktivitása
 
-## 1. A radionuklidok általános és specifikus aktivitás-koncentrációja és specifikus mentességi aktivitása
+## 1. A radionuklidok általános és specifikus aktivitás-koncentrációja és mentességi aktivitása
 
-## 1.1. A radionuklidok általános és specifikus aktivitás-koncentrációját, valamint és specifikus mentességi aktivitását tartalmazó táblázat
+## 1.1. A radionuklidok általános és specifikus aktivitás-koncentrációját, valamint és mentességi aktivitását tartalmazó táblázat
 
 |  | A | B | C | D |
 

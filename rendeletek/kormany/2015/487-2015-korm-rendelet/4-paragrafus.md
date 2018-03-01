@@ -30,7 +30,7 @@
 
 14. egyenértékdózis: a T szövetet vagy szervet érő különböző típusú és minőségű sugárzásoknak a T szövetre vagy szervre átlagolt elnyelt dózisai megfelelő sugárzási minőségtényezőkkel súlyozott összege; az egyenértékdózis jele HT;
 
-15. egyenértékdózis-teljesítmény: A HT egyenértékdózis dt idő alatti dHT növekménye és az dt idő hányadosa, egysége: Sievert per másodperc (Sv/s);
+15.[^13] egyenértékdózis-teljesítmény: A HT egyenértékdózis dt idő alatti dHT növekménye és az dt idő hányadosa, egysége: sievert per másodperc (Sv/s);
 
 16. ellenőrzött terület: olyan terület, amelyre a sugárvédelem érdekében, vagy a radioaktív szennyeződés terjedésének megakadályozása érdekében különleges szabályok vonatkoznak, és amely területre történő belépés ellenőrzés mellett történik;
 
@@ -40,15 +40,17 @@
 
 19. felelős egészségügyi szakember: a betegek ionizáló sugárzás alkalmazásával járó kivizsgálásában vagy kezelésében közvetlenül vagy közvetve részt vevő nem-orvos szakember, aki tevékenységéért és annak következményeiért felelősséggel tartozik;
 
+19a.[^14] felhasználási idő: az OAH által meghatározott, első alkalommal a szolgálati időhöz igazodó időtartam, melynek meghosszabbítását a sugárvédelmi hatóság – zártságvizsgálat és szakértői elemzés alapján – kérelemre engedélyezi;
+
 20. felügyelt terület: az ionizáló sugárzás elleni védelem vagy a radioaktív szennyeződés terjedésének megakadályozása érdekében felügyelet alatt álló terület;
 
 21. felvétel: az emberi testbe a külső környezetből bekerült vagy bevitt radionuklidnak a testnedvek által felvett összaktivitása;
 
-22. foglalkozás-egészségügyi szolgáltató: olyan egészségügyi szakember vagy szervezet, akinek vagy amelynek a sugárterhelésnek kitett munkavállalók orvosi felügyeletére vonatkozó jogosultsága szerepel az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról szóló miniszteri rendelet szerinti nyilvántartásban;
+22.[^15] foglalkozás-egészségügyi szolgáltató: olyan egészségügyi szakember vagy szervezet, akinek vagy amelynek a sugárterhelésnek kitett munkavállalók foglalkozás-egészségügyi alapellátásra vonatkozó jogosultsága szerepel az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról szóló miniszteri rendelet szerinti nyilvántartásban;
 
 23. foglalkozási sugárterhelés: a munkavállalókat, gyakornokokat és tanulókat munkavégzésük során érő sugárterhelés;
 
-24. fogyasztási cikk: olyan készülék vagy feldolgozott termék, amelyben szándékosan egy vagy több fajta radionuklidot helyeztek el, vagy aktiválás útján egy vagy több fajta radionuklidot hoztak létre, vagy amely ionizáló sugárzást hoz létre, és amelyet a lakosságnak külön felügyelet vagy utólagos hatósági ellenőrzés nélkül hoznak forgalomba vagy bocsátanak rendelkezésre;
+24.[^16] fogyasztási cikk: olyan készülék, gyártmány vagy késztermék, amelyben szándékosan egy vagy több fajta radionuklidot helyeztek el, vagy aktiválás útján egy vagy több fajta radionuklidot hoztak létre, vagy amely ionizáló sugárzást hoz létre, és amelyet a lakosságnak külön felügyelet vagy utólagos hatósági ellenőrzés nélkül hoznak forgalomba vagy bocsátanak rendelkezésre;
 
 25. gray: az elnyelt dózis mértékegysége, jele Gy; egy gray egy joule per kilogrammnak felel meg: 1 Gy = 1 J/kg;
 
@@ -60,9 +62,9 @@
 
 29. ICRU gömb: az International Commission on Radiation Units and Measurements nemzetközi szervezet által bevezetett olyan, az ionizáló sugárzás energiájának elnyelődése szempontjából az emberi test modellezésére szolgáló tárgy, amely 30 cm átmérőjű, 1 g/cm3 sűrűségű, szövetegyenértékű szilárd anyagból áll (76,2 tömeg% oxigén, 11,1% szén, 10,1% hidrogén és 2,6% nitrogén);
 
-30. INES-minősítés: az események Nemzetközi Atomenergia Ügynökség által létrehozott Nemzetközi Nukleáris Esemény Skála szerint végrehajtott kategorizálása, amelynek célja a lakosság és a szakmai szervezetek közötti tájékoztatás elősegítése, az engedélyes és a nukleáris biztonsági hatóság között egyeztetett formában jelezve az esemény biztonsági jelentőségét;
+30.[^17] INES-minősítés: az események Nemzetközi Atomenergia Ügynökség által létrehozott Nemzetközi Nukleáris és Radiológiai Esemény Skála szerint végrehajtott kategorizálása, amelynek célja a lakosság és a szakmai szervezetek közötti tájékoztatás elősegítése, az engedélyes és a nukleáris biztonsági hatóság között egyeztetett formában jelezve az esemény biztonsági jelentőségét;
 
-31. ionizáló sugárzást létrehozó berendezés üzemeltetése: az ilyen berendezés birtoklása, üzembe helyezése, üzemeltetése, karbantartása vagy karbantartatása, továbbá az üzemeltetésnek helyt adó létesítmény létesítése, üzemeltetése, karbantartása vagy karbantartatása;
+31.[^18] ionizáló sugárzást létrehozó berendezés üzemeltetése: az ionizáló sugárzást létrehozó berendezés üzembe helyezése, bevizsgálása, működtetése, összeszerelése, karbantartása, leszerelése vagy üzemeltetésének megszüntetése, továbbá az üzemeltetésnek helyt adó sugárveszélyes munkahely létesítése, üzemeltetése, beleértve a dolgozók vagy lakosság sugárvédelmét biztosító építészeti, épületgépészeti berendezések karbantartását;
 
 32. kiemelt létesítmény: nukleáris létesítmény, uránbánya, radioaktívhulladék-tároló, A-szintű izotóplaboratórium;
 
@@ -72,15 +74,21 @@
 
 35. környezeti monitorozás: a környezetben jelen lévő radioaktív anyagokból eredő külső dózisteljesítmény folyamatos mérése, illetve a környezeti elemek radionuklid-koncentrációjának nyomon követése;
 
-36. külső munkavállaló: sugárterhelésnek kitett olyan munkavállaló, beleértve a gyakornokokat és a tanulókat is, akit nem az engedélyes foglalkoztat és a tevékenységét sugárterhelésnek kitett területen végzi;
+36.[^19] külső munkavállaló: sugárterhelésnek kitett olyan munkavállaló, beleértve a gyakornokokat és a tanulókat is, akit nem a sugárveszélyes munkahelyért felelős engedélyes foglalkoztat, de aki az engedélyes felügyelete alá tartozó sugárveszélyes tevékenységet végez;
 
 37. lakossági sugárterhelés: az egyéneket érő sugárterhelés, a foglalkozási és az orvosi sugárterhelés kivételével;
 
-38. lekötött effektív dózis: jele E(t), mértékegysége a sievert (Sv); az egy adott bevitel következtében az egyes szervekben és szövetekben lekötött HT(t) egyenértékdózisok megfelelő wT testszöveti tényezőkkel képzett súlyozott összege;
+37a.[^20] lakosság tagjai: olyan egyének, akiket lakossági sugárterhelés érhet;
 
-39. lekötött egyenértékdózis: azon egyenértékdózis-teljesítmény idő (t) szerinti integráltja, amely egy adott bevitel következtében egy adott személy T testszövetében, vagy szervében kialakul; jele HT(t); a dóziskorlátok betartása érdekében felnőttek esetében t = 50 év, csecsemők és gyermekek esetében pedig a 70 éves korukig hátralévő idő;
+38.[^21]
 
-40. fennálló sugárzási helyzet: hatósági beavatkozásra vonatkozó döntés idejében már fennálló sugárzási helyzet, amely nem igényli sürgős intézkedés bevezetését vagy korábban meghozott intézkedés fenntartását;
+lekötött effektív dózis: jele E(τ), mértékegysége a sievert (Sv); az egy adott bevitel következtében az egyes szervekben és szövetekben lekötött HT(τ) egyenértékdózisok megfelelő wT testszöveti tényezőkkel képzett súlyozott összege;
+
+39.[^22]
+
+lekötött egyenértékdózis: azon egyenértékdózis-teljesítmény idő (t) szerinti integráltja, amely egy adott bevitel következtében egy adott személy T testszövetében, vagy szervében kialakul; jele HT(τ); a dóziskorlátok betartása érdekében az integrálást a bevitelt követő τ = 50 éves időintervallumra, csecsemők és gyermekek esetében pedig a 70 éves korukig hátralévő idő;
+
+40.[^23] fennálló sugárzási helyzet: olyan sugárzási helyzet, amely már a hatósági felügyeletről és ellenőrzésről szóló döntés meghozatalakor fennáll, és amely nem igényli sürgős intézkedés bevezetését vagy korábban meghozott sürgős intézkedés fenntartását;
 
 41. mentességi szint: az e rendeletben meghatározott és aktivitáskoncentrációban vagy összes aktivitásban kifejezett érték, melyet nem meghaladó mennyiségű a radioaktív anyag alkalmazása nem tartozik a rendelet hatálya alá;
 
@@ -90,11 +98,23 @@
 
 44. munkahelyi monitorozás: a munkahelyeken lévő dózisteljesítmény folyamatos mérése, valamint a munkahely légterében és felületein lévő radioaktív koncentrációk nyomon követése;
 
+44a.[^24] munkahelyi radioaktívhulladék-tároló: a radioaktív hulladék központi gyűjtésére és ideiglenes tárolására szolgáló, az atomenergia felhasználója által kezelt helyiség vagy építmény;
+
+44b.[^25] nem helyhez kötött sugárveszélyes szolgáltatási tevékenység: olyan sugárveszélyes tevékenység, amelyet végzője egy másik engedélyes által felügyelt sugárveszélyes munkahelyen, a másik engedélyes által birtokolt radioaktív anyagok vagy ionizáló sugárzást létrehozó berendezések kezelésével végez, és amely tevékenységre az engedélyesnek nincs engedélye, különösen:
+
+a) más engedélyes radioaktív hulladékainak elszállításra és elhelyezésre való előkészítése a hulladék keletkezési helyszínén,
+
+b) radioaktív anyaggal szennyezett munkahelyek dekontaminálása, leszerelése,
+
+c) ionizáló sugárzást létrehozó berendezés vagy radioaktív sugárforrást tartalmazó készülék telepítése, üzembe helyezése, sugárbiztonsági bevizsgálása vagy minőségellenőrzése, leszerelése vagy karbantartása.
+
 45. nem-orvosi képalkotással járó besugárzás: emberek olyan képalkotási célú szándékos besugárzása, amelyben a besugárzás elsődlegesen nem a besugárzásnak kitett személy egészségére gyakorolt kedvező hatást célozza;
 
-46. normális sugárterhelés: sugárveszélyes munkahely rendeltetésszerű üzemeltetése vagy tevékenység szabályszerű végrehajtása során (ideértve a karbantartást, az ellenőrzést és a leszerelést is) várható sugárterhelés, beleértve azokat a még kezelhető, kisebb jelentőségű rendkívüli eseményeket is, amelyek normál üzemi körülmények között és az üzemeltetés közben várható helyzetekben bekövetkezhetnek;
+46.[^26] normál üzemi sugárterhelés: sugárveszélyes munkahely rendeltetésszerű üzemeltetése vagy tevékenység szabályszerű végrehajtása során (ideértve a karbantartást, az ellenőrzést és a leszerelést is) várható sugárterhelés, beleértve azokat a még kezelhető, kisebb jelentőségű rendkívüli eseményeket is, amelyek normál üzemi körülmények között és az üzemeltetés közben várható helyzetekben bekövetkezhetnek;
 
 47. orvosi radiológiai: orvosi diagnosztikai és sugárterápiás eljárásokkal (ide értve a radiológiai diagnosztika, a nukleáris medicina, a sugárterápia és az intervenciós radiológia eljárásait), vagy az ionizáló sugárzás egyéb orvosi, tervezési, irányítási, ellenőrzési célú felhasználásaival kapcsolatos;
+
+47a.[^27] orvosi radiológiai létesítmény: olyan létesítmény, ahol orvosi radiológiai eljárást végeznek;
 
 48. orvosi sugárterhelés: betegeket vagy tünetmentes személyeket az egészségük érdekében alkalmazott orvosi vagy fogorvosi diagnózis vagy kezelés részeként érő sugárterhelés, továbbá a gondozókat és a segítőket, valamint az orvosi vagy orvosbiológiai kutatásban részt vevő önkénteseket érő sugárterhelés;
 
@@ -104,7 +124,7 @@
 
 51. potenciális sugárterhelés: olyan lehetséges sugárterhelés, amelynek bekövetkezése nem várható biztosan, de véletlen jellegű események vagy eseménysorok, így berendezés-meghibásodások vagy üzemeltetői hibák következményeiként felléphet;
 
-52. radioaktív anyag alkalmazása: a radioaktív anyag birtoklása, előállítása, termelése, feldolgozása, kezelése, tárolása, felhasználása, átadása, forgalomba hozatala és forgalmazása, szállításra való előkészítése, valamint radioaktív anyagot tartalmazó ionizáló sugárzást kibocsátó berendezés birtoklása, üzembe helyezése, üzemeltetése, karbantartása vagy karbantartatása, továbbá az üzemeltetésnek helyt adó létesítmény létesítése, üzemeltetése, karbantartása vagy karbantartatása, a nukleáris létesítmények és radioaktívhulladék-tároló létesítmények üzemeltetéséhez tartozó rendszerek és rendszerelemek és a radioaktív hulladékok radioaktívhulladék-tárolóban történő feldolgozásával kapcsolatos tevékenységek kivételével;
+52.[^28] radioaktív anyag alkalmazása: a radioaktív anyag tárolása, előállítása, termelése, feldolgozása, kezelése, felhasználása, a radioaktív sugárforrást tartalmazó készülék üzembe helyezése, üzemeltetése, karbantartása, az üzemeltetésnek helyt adó létesítmény létesítése, üzembe helyezése, továbbá üzemeltetése, valamint a dolgozók vagy lakosság sugárvédelmét biztosító építészeti, épületgépészeti berendezések karbantartása, a nukleáris létesítmények és radioaktívhulladék-tároló létesítmények nukleáris rendszerei és rendszerelemei kivételével;
 
 53. radioaktív sugárforrás: olyan sugárforrás, amely a radioaktivitás hasznosítása céljából radioaktív anyagot tartalmaz;
 
@@ -130,9 +150,9 @@
 
 64. sugárvédelmi megbízott: az engedélyes által sugárvédelmi feladatok ellátásával és hatósági kapcsolattartással írásban megbízott személy;
 
-65. sugárvédelmi kategorizálás: sugárveszélyes tevékenységeknek az alkalmazott radioaktív anyag és az ionizálós sugárzást létrehozó, radioaktív anyagot nem tartalmazó berendezés paraméterei alapján történt kategorizálása;
+65.[^29] sugárvédelmi kategorizálás: sugárveszélyes tevékenységeknek az alkalmazott radioaktív anyag és az ionizálós sugárzást létrehozó berendezés paraméterei alapján történt kategorizálása;
 
-66. sugárveszélyes munkahely: a sugárvédelmi hatósági szabályozás egysége, amelynek engedélyese vagy bejelentője az atomenergia alkalmazója, amely a felügyelt és ellenőrzött területet, az ott alkalmazott radioaktív anyagokat, az ott üzemeltetett ionizáló sugárzást kibocsátó, de radioaktív anyagokat nem tartalmazó berendezéseket, az ott végzett tevékenységet, az ott dolgozó munkavállalókat foglalja magába;
+66.[^30] sugárveszélyes munkahely: a sugárvédelmi hatósági szabályozás egysége, amelynek engedélyese vagy bejelentője az atomenergia alkalmazója, amely a felügyelt és ellenőrzött területet, az ott alkalmazott radioaktív anyagokat, az ott üzemeltetett ionizáló sugárzást létrehozó berendezéseket, az ott végzett tevékenységet, az ott dolgozó munkavállalókat foglalja magába;
 
 67. sugárveszélyes munkakör: sugárveszélyes tevékenység végzésével járó munkakör;
 
@@ -142,13 +162,21 @@
 
 70. szennyeződés: radioaktív anyagok szándékolatlan vagy nemkívánatos jelenléte felületeken, illetve szilárd anyagokban, folyadékokban vagy gázokban vagy az emberi testen;
 
-71. sztenderd értékek és összefüggések: a Nemzetközi Sugárvédelmi Bizottság 116. sz. kiadványának 4. és 5. fejezetében ajánlott értékek és összefüggések a külső sugárterhelésből származó dózisok becsléséhez, valamint az Nemzetközi Sugárvédelmi Bizottság 119. sz. kiadványának 1. fejezetében ajánlott értékek és összefüggések a belső sugárterhelésből származó dózisok becsléséhez;
+70a.[^31] szolgálati idő: a zárt sugárforrás gyártója által meghatározott azon időtartam, amely alatt a felhasználásra vonatkozó szabályok betartásával a sugárforrás megfelel a tervezett igénybevételekkel szemben támasztott követelményeknek;
+
+71.[^32] sztenderd értékek és összefüggések: a Nemzetközi Sugárvédelmi Bizottság 116. sz. kiadványának 4. és 5. fejezetében ajánlott értékek és összefüggések a külső sugárterhelésből származó dózisok becsléséhez, illetve a Nemzetközi Sugárvédelmi Bizottság 115. sz. kiadványában a radontól származó kockázatokra ajánlott értékek és összefüggések a radon és leányelemei belégzéséből származó dózisok becsléséhez, és a fenti kiadványok helyébe lépő újabb kiadványok, valamint az Nemzetközi Sugárvédelmi Bizottság 119. sz. kiadványának 1. fejezetében ajánlott értékek és összefüggések a belső sugárterhelésből származó dózisok becsléséhez, illetve a Nemzetközi Sugárvédelmi Bizottság 115. sz. kiadványában a radontól származó kockázatokra ajánlott értékek és összefüggések a radon és leányelemei belégzéséből származó dózisok becsléséhez, és a fenti kiadványok helyébe lépő újabb kiadványok;
 
 72. tárolás: radioaktív anyag – ideértve a kiégett fűtőelemeket is –, radioaktív sugárforrás vagy radioaktív hulladék valamely létesítményben való átmeneti elhelyezése a későbbi visszanyerés szándékával;
+
+72a.[^33] természetben előforduló radioaktív anyag (NORM): a természetben előforduló, földi eredetű radionuklidokat tartalmazó anyag, valamint annak természetes vagy mesterséges, emberi hatásra történő bedúsult formája, amely a munkavállalók vagy a lakosság sugárterhelésének jelentős növekedését okozhatja;
 
 73. természetes sugárforrás: természetes, földi vagy kozmikus eredetű ionizáló sugárforrás;
 
 74. tervezett sugárzási helyzet: sugárforrás tervezett működtetéséből, vagy a besugárzási útvonalakat módosító emberi tevékenységből származó olyan sugárzási helyzet, amely embereket vagy a környezetet érintő besugárzást, normális vagy potenciális sugárterhelést okoz;
+
+74a.[^34] toron: a Rn-220 radionuklid és adott esetben a bomlástermékei;
+
+74b.[^35] űrjármű: emberi irányítású jármű, beleértve az űrhajót, amelyet 100 km-nél nagyobb tengerszint feletti magasságban való üzemelésre terveztek;
 
 75. veszélyhelyzet: olyan sugárforrással összefüggő szokatlan helyzet vagy esemény, amely azonnali intézkedést igényel annak érdekében, hogy mérsékeljék az emberek egészségét és biztonságát, az életminőséget, a tulajdont vagy a környezetet érintő súlyosan káros következményeket; illetve olyan veszély, amely ilyen súlyosan káros következményekkel járhat;
 
@@ -166,6 +194,37 @@
 
 82. vonatkoztatási szint: veszélyhelyzetben vagy fennálló sugárzási helyzetben olyan mértékű effektív dózis, egyenértékdózis vagy aktivitáskoncentráció, amelynek meghaladása az adott sugárzási helyzetben nem kívánatos;
 
-83. zárt sugárforrás: olyan radioaktív sugárforrás, amely a radioaktív anyagot állandóan zárt tokozásban, vagy szorosan kötött szilárd formában tartja, hogy szabályszerű használat mellett radionuklidok ne juthassanak a környezetbe.
+83.[^36] zárt sugárforrás: olyan radioaktív sugárforrás, amely a radioaktív anyagot állandóan zárt tokozásban, vagy szorosan kötött szilárd formában tartja, hogy szabályszerű használat mellett radionuklidok ne juthassanak a környezetbe, és zártságát az ISO 9978 szabvány szerint vagy azzal egyenértékű műszaki biztonsági színvonalat biztosító követelményekkel igazolták.
 
 (2) Az (1) bekezdés 2., 12., 14., 17., 38. és 39. pontjában foglalt értelmező rendelkezésekhez kapcsolódó számításokra vonatkozó szabályokat a 2. melléklet tartalmazza.
+
+(3)[^37] Ahol e rendelet szabvány alkalmazását írja elő, azon a szabvánnyal egyenértékű sugárbiztonsági színvonalat teljesítő más műszaki megoldást is érteni kell.
+
+(4)[^38] A nemzeti szabványosításról szóló törvény figyelembevételével az alapvető sugárbiztonsági követelményeket teljesítettnek kell tekinteni, ha a műszaki megoldásokra a vonatkozó sugárvédelmi tartalmú nemzeti szabványt alkalmazzák. A magyar nyelvű nemzeti szabványtól különböző megoldás alkalmazása esetén az engedélyes köteles – sugárvédelmi szakértő bevonásával – bizonyítani, hogy az általa alkalmazott megoldás sugárvédelmi szempontból legalább egyenértékű a vonatkozó szabványban foglalt követelménnyel, megoldással.
+
+[^13]: A 4. § (1) bekezdés 15. pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 2. pontja szerint módosított szöveg.
+[^14]: A 4. § (1) bekezdés 19a. pontját a 27/2018. (II. 28.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^15]: A 4. § (1) bekezdés 22. pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 3. pontja szerint módosított szöveg.
+[^16]: A 4. § (1) bekezdés 24. pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 4. pontja szerint módosított szöveg.
+[^17]: A 4. § (1) bekezdés 30. pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 5. pontja szerint módosított szöveg.
+[^18]: A 4. § (1) bekezdés 31. pontja a 27/2018. (II. 28.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^19]: A 4. § (1) bekezdés 36. pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 6. pontja szerint módosított szöveg.
+[^20]: A 4. § (1) bekezdés 37a. pontját a 27/2018. (II. 28.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^21]: A 4. § (1) bekezdés 38. pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 7. pontja szerint módosított szöveg.
+[^22]: A 4. § (1) bekezdés 39. pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 8. pontja szerint módosított szöveg.
+[^23]: A 4. § (1) bekezdés 40. pontja a 27/2018. (II. 28.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^24]: A 4. § (1) bekezdés 44a. pontját a 27/2018. (II. 28.) Korm. rendelet 15. § (5) bekezdése iktatta be.
+[^25]: A 4. § (1) bekezdés 44b. pontját a 27/2018. (II. 28.) Korm. rendelet 15. § (5) bekezdése iktatta be.
+[^26]: A 4. § (1) bekezdés 46. pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 9. pontja szerint módosított szöveg.
+[^27]: A 4. § (1) bekezdés 47a. pontját a 27/2018. (II. 28.) Korm. rendelet 15. § (6) bekezdése iktatta be.
+[^28]: A 4. § (1) bekezdés 52. pontja a 27/2018. (II. 28.) Korm. rendelet 15. § (7) bekezdésével megállapított szöveg.
+[^29]: A 4. § (1) bekezdés 65. pontja a 27/2018. (II. 28.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.
+[^30]: A 4. § (1) bekezdés 66. pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 10. pontja szerint módosított szöveg.
+[^31]: A 4. § (1) bekezdés 70a. pontját a 27/2018. (II. 28.) Korm. rendelet 15. § (8) bekezdése iktatta be.
+[^32]: A 4. § (1) bekezdés 71. pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 11. pontja szerint módosított szöveg.
+[^33]: A 4. § (1) bekezdés 72a. pontját a 27/2018. (II. 28.) Korm. rendelet 15. § (9) bekezdése iktatta be.
+[^34]: A 4. § (1) bekezdés 74a. pontját a 27/2018. (II. 28.) Korm. rendelet 15. § (10) bekezdése iktatta be.
+[^35]: A 4. § (1) bekezdés 74b. pontját a 27/2018. (II. 28.) Korm. rendelet 15. § (10) bekezdése iktatta be.
+[^36]: A 4. § (1) bekezdés 83. pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 12. pontja szerint módosított szöveg.
+[^37]: A 4. § (3) bekezdését a 27/2018. (II. 28.) Korm. rendelet 15. § (11) bekezdése iktatta be.
+[^38]: A 4. § (4) bekezdését a 27/2018. (II. 28.) Korm. rendelet 15. § (11) bekezdése iktatta be.
