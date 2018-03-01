@@ -1,0 +1,1 @@
+## 1. § E rendelet hatálya a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvénynek az Igazságügyi Minisztérium fejezetébe sorolt tulajdonosi joggyakorlással kapcsolatos bevételeket és kiadásokat tartalmazó központi kezelésű előirányzatára terjed ki.
