@@ -1,7 +1,11 @@
+## 2/A. §[^11] A szakmagyakorló cég tevékenységét az e rendelet szerinti kérelmező folyamatosan ellenőrzi a hazai szabályozásnak való megfelelés szempontjából.
+
 ## 2. A szakmagyakorlásra alkalmasság megállapítására és a nyilvántartásba vételre irányuló eljárás szabályai
 
-3. § (1) A szakmagyakorlásra alkalmasság megállapítására és a nyilvántartásba vételre irányuló eljárás az Atv. szerinti engedélyes kérelmére indul.
+3. § (1)[^12] A szakmagyakorlásra alkalmasság megállapítására és a nyilvántartásba vételre irányuló eljárás az Atv. szerinti nukleáris létesítmény és radioaktívhulladék-tároló engedélyes kérelmére indul.
 
-(2) Az ügyintézési határidő a kérelemnek a Hatósághoz érkezését követő munkanapon kezdődik.
+(2)–(3)[^13]
 
-(3) A Hatóság határozatát vagy eljárást megszüntető végzését a (2) bekezdésben meghatározott időponttól számított 25 napon belül kell meghozni.
+[^11]: A 2/A. §-t a 27/2018. (II. 28.) Korm. rendelet 62. §-a iktatta be.
+[^12]: A 3. § (1) bekezdése a 27/2018. (II. 28.) Korm. rendelet 74. § c) pontja szerint módosított szöveg.
+[^13]: A 3. § (2)–(3) bekezdését a 27/2018. (II. 28.) Korm. rendelet 75. §-a hatályon kívül helyezte.

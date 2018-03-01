@@ -2,22 +2,26 @@
 
 8. § (1) A Hatóság a szakmagyakorlókról és a szakmagyakorló cégekről szakterületekre bontott, közhiteles elektronikus nyilvántartást vezet.
 
-(2) A nyilvántartás tartalmazza
+(2)[^26] A nyilvántartás tartalmazza
 
-a) a szakmagyakorló természetes személyazonosító adatait, állampolgárságát, értesítési címét,
+a) a szakmagyakorló természetes személyazonosító adatait, állampolgárságát, lakcímét és értesítési címét,
 
 b) szakmagyakorló cég esetén annak nevét, székhelyét, értesítési címét, a hatáskörrel rendelkező szerv által a kiállítás helye szerint irányadó szabályoknak megfelelő formában kiállított cégjegyzékszámát vagy nyilvántartásba vételi számát,
 
-c) a szakmagyakorló szakmai gyakorlatának rövid leírását, időtartamát,
+c) a szakmagyakorló kérelmezett szakterületéhez kapcsolódó, releváns szakmai gyakorlatának rövid leírását, időtartamát,
 
-d) a szakmagyakorló szakterületét,
+d) a szakmagyakorló szakterületét (szakág),
 
-e) a szakmagyakorló szakmai tevékenységét engedélyező okirat számát, kiállításának napját,
+e) a szakmagyakorló végzettségét igazoló okirat számát, kiállításának napját,
 
-f) az adatváltozások bejelentésének napját, pontos idejét,
+f) a szakmagyakorló szakmai tevékenységét engedélyező okirat számát, kiállításának napját,
 
-g) a szakmai tevékenységtől való eltiltás tényét, annak okát, időtartamát, az alapjául szolgáló határozat jogerőre emelkedésének napját,
+g) az adatváltozások bejelentésének napját, pontos idejét,
 
-h) a szakmai tevékenység szünetelésének tényét, kezdő napját és időtartamát,
+h) a szakmai tevékenységtől való eltiltás tényét, annak okát, időtartamát, az alapjául szolgáló határozat jogerőre emelkedésének napját,
 
-i) a szakmagyakorlásra alkalmassági nyilvántartási számot.
+i) a szakmai tevékenység szünetelésének tényét, kezdő napját és időtartamát,
+
+j) a szakmagyakorlásra alkalmassági nyilvántartási számot.
+
+[^26]: A 8. § (2) bekezdése a 27/2018. (II. 28.) Korm. rendelet 68. §-ával megállapított szöveg.
