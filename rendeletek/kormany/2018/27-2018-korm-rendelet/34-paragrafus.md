@@ -1,0 +1,7 @@
+## „(3) Radioaktívhulladék-tároló létesítményben elhelyezett radioaktív sugárforrás kivételével az engedélyes köteles gondoskodni minden egyes sugárforrás sértetlenségének ellenőrzéséről minden olyan eseményt követően, beleértve a tűzeseteket is, amelynek során a sugárforrások károsodhattak. A már hulladékká minősített és kondicionált sugárforrások esetében a hulladékcsomag sértetlenségét kell vizsgálni.
+
+## (4) Rendkívüli esemény bekövetkezése esetén az OAH elrendeli a dóziskorlát túllépésének gyanúja esetén a doziméterek soron kívüli kiértékelését, valamint az engedélyezett sugárvédelmi feltételek sérülésének bekövetkezése esetén a munkavégzés felfüggesztését.
+
+## (5) Ha rendkívüli esemény következtében nukleáris veszélyhelyzet áll vagy állhat elő, az országos nukleárisbaleset-elhárítási rendszerről szóló kormányrendelet szerint kell eljárni a lakosságot érintő következmények elhárítása vagy enyhítése érdekében.
+
+## (6) Az atomenergia alkalmazójának rendkívüli esemény vagy nukleáris veszélyhelyzet bekövetkezése esetén szükséges teendőit az MSSZ-ben vagy különálló Balesetelhárítási Intézkedési Tervben kell rögzíteni. A rendkívüli esemény vagy nukleáris veszélyhelyzet kezelésére vonatkozó eljárást az OAH az 53. § (1) bekezdés 1., 2. és 4. pontjai szerinti engedélyezési eljárás során, nukleáris létesítmény esetén az NBSZ Kr. és radioaktívhulladék-tárolók esetén a TBSZ Kr. szerint hagyja jóvá.”

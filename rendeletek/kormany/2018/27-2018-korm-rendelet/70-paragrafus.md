@@ -1,0 +1,3 @@
+## 69. § Az R2. 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A szakmagyakorló vagy a szakmagyakorló cég a 8. § (2) bekezdésében foglalt adataiban történt változást, a szakmagyakorló cég licencének megszűnését, valamint a szakmagyakorlásra feljogosított cégnél a nyilvántartásba vett természetes személyek munkaviszonya vagy szerződéses kapcsolata megszűnését haladéktalanul köteles az engedélyes tudomására hozni. Az engedélyes az adatváltozást a változást igazoló okiratok rendelkezésére állását követő 8 napon belül bejelenti a Hatóságnak. A Hatóság az adatváltozást 15 napon belül átvezeti.”

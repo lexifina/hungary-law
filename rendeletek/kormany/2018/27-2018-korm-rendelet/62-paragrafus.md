@@ -1,0 +1,5 @@
+## „7. szakmagyakorlásra jogosító okirat: a hatáskörrel rendelkező, területileg illetékes szakmai szerv által megállapított jogosultság;
+
+## 8. kérelmező: az Atv. 2. § 22. pontja szerinti engedélyes;
+
+## 9. referenciával nem rendelkező szakmagyakorló: az a természetes személy, aki nem rendelkezik a 3. pont szerinti referenciával, de a kérelmezett szakterülethez kapcsolódó alapfokú (a továbbiakban: BSc) vagy mesterfokú (a továbbiakban: MSc) végzettséggel, valamint a kérelmezett szakterületen szakmagyakorlásra jogosító okirattal rendelkezik, és igazolni tud a szakmagyakorlásra jogosító okirat megszerzése után MSc diploma esetén 2 év, BSc diploma esetén 4 év szakterületén végzett szakmai gyakorlatot, továbbá az előírt gyakorlati időtartamból legalább 6 hónapot a Hatóság nyilvántartásában már szereplő szakmagyakorló mellett végzett tevékenységet az Atv. hatálya alá tartozó építmények tervezése, kivitelezése vagy ezek ellenőrzése területén, és ezt a Hatóság nyilvántartásában szereplő szakmagyakorló nyilatkozatával igazolja.”
