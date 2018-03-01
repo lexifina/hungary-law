@@ -1,6 +1,6 @@
-## 43–45. §[^73]
+## 44–45. §[^79]
 
-1. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^74]
+1. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^80]
 
 ## Nukleáris anyagok, radioaktív sugárforrások és radioaktív hulladékok kategorizálása
 
@@ -100,7 +100,9 @@ Ai – a radioaktív hulladék i. izotópjának aktivitása;
 
 Di – a KHEM rendeletben az i. izotópra vonatkozó izotóp-specifikus normalizáló tényező;
 
-S – a radioaktív hulladék aktivitáskoncentrációját, a hulladék szétszóródási képességét, a hulladéktároló edény robusztusságát és a hulladék hozzáférhetőségét figyelembe vevő tényező.
+S – a radioaktív hulladék aktivitás-koncentrációját, a hulladék szétszóródási képességét, a hulladéktároló edény robusztusságát és a hulladék hozzáférhetőségét figyelembe vevő tényező;
 
-[^73]: A 43–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^74]: Az 1. melléklet a 37/2012. (III. 9.) Korm. rendelet 21. § (1) bekezdése, a 488/2015. (XII. 30.) Korm. rendelet 5. §-a szerint módosított szöveg.
+Rreal – az R érték hulladékokra vonatkozó S tényezővel módosított értéke.
+
+[^79]: A 44–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: Az 1. melléklet a 37/2012. (III. 9.) Korm. rendelet 21. § (1) bekezdése, a 488/2015. (XII. 30.) Korm. rendelet 5. §-a, a 27/2018. (II. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.

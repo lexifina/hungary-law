@@ -6,7 +6,7 @@
 
 ## 1. Figyelmeztető táblák, feliratok
 
-## 1.[^83] A-szintű fizikai védelem esetében zárt szállítójármű esetén a rakterén lévő ajtón, nyitott szállítójármű esetén a jármű vagy a küldemény szállítójárművön kívülről látható felületén az alábbi jelzéseket kell alkalmazni:
+## 1.[^89] A-szintű fizikai védelem esetében zárt szállítójármű esetén a rakterén lévő ajtón, nyitott szállítójármű esetén a jármű vagy a küldemény szállítójárművön kívülről látható felületén az alábbi jelzéseket kell alkalmazni:
 
 ## 1.1. sugárveszély jelzése,
 
@@ -18,7 +18,7 @@
 
 ## 2. A látható jelzéseket automatikusan működő hangjelzésekkel ki kell egészíteni.
 
-## 3.[^84] B-szintű fizikai védelem esetében zárt szállítójármű esetén a rakterén lévő ajtón, nyitott szállítójármű esetén a jármű vagy a küldemény szállítójárművön kívülről látható felületén az alábbi jelzéseket kell alkalmazni:
+## 3.[^90] B-szintű fizikai védelem esetében zárt szállítójármű esetén a rakterén lévő ajtón, nyitott szállítójármű esetén a jármű vagy a küldemény szállítójárművön kívülről látható felületén az alábbi jelzéseket kell alkalmazni:
 
 ## 3.1. sugárveszély jelzése,
 
@@ -28,13 +28,13 @@
 
 ## 3.4. kezelési jogosultságra figyelmeztetés.
 
-## 4.[^85] C-szintű fizikai védelem esetében zárt szállítójármű esetén a rakterén lévő ajtón, nyitott szállítójármű esetén a jármű vagy a küldemény szállítójárművön kívülről látható felületén az alábbi jelzéseket kell alkalmazni:
+## 4.[^91] C-szintű fizikai védelem esetében zárt szállítójármű esetén a rakterén lévő ajtón, nyitott szállítójármű esetén a jármű vagy a küldemény szállítójárművön kívülről látható felületén az alábbi jelzéseket kell alkalmazni:
 
 ## 4.1. sugárveszély jelzése, valamint
 
 ## 4.2. tiltott eszközökre, tevékenységre figyelmeztetés.
 
-## 5.[^86] D-szintű fizikai védelem esetében zárt szállítójármű esetében a rakterén lévő ajtón, nyitott szállítójármű esetében a jármű vagy – az engedményes küldeménydarabok szállítását kivéve – a küldemény szállítójárművön kívülről látható felületén az alábbi jelzéseket kell alkalmazni:
+## 5.[^92] D-szintű fizikai védelem esetében zárt szállítójármű esetében a rakterén lévő ajtón, nyitott szállítójármű esetében a jármű vagy – az engedményes küldeménydarabok szállítását kivéve – a küldemény szállítójárművön kívülről látható felületén az alábbi jelzéseket kell alkalmazni:
 
 ## 5.1. sugárveszély jelzése, valamint
 
@@ -58,7 +58,7 @@
 
 ## 7.3. a szállítás tervezése során a kötelezettnek válaszintézkedési tervet kell kidolgoznia arra az esetre, ha a kommunikáció megszűnik és az előre meghatározott időpontban nem jön létre a kommunikációs kapcsolat.
 
-## 8.[^87] C-szintű fizikai védelem esetében a szállítójármű vezetője részére folyamatos, megbízható mobil kommunikációs kapcsolatot kell biztosítani a kötelezettel. A szállítójármű vezetőjének rendelkeznie kell egy listával a kapcsolattartó személyek elérhetőségével arra az esetre, ha veszélyhelyzet során segítségre lenne szüksége.
+## 8.[^93] C-szintű fizikai védelem esetében a szállítójármű vezetője részére folyamatos, megbízható mobil kommunikációs kapcsolatot kell biztosítani a kötelezettel. A szállítójármű vezetőjének rendelkeznie kell egy listával a kapcsolattartó személyek elérhetőségével arra az esetre, ha veszélyhelyzet során segítségre lenne szüksége.
 
 ## 9. D-szintű fizikai védelem esetében a szállítójármű vezetője részére folyamatos, megbízható mobil kommunikációs kapcsolatot kell biztosítani a kötelezettel.
 
@@ -72,7 +72,7 @@
 
 ## 10.3. a szállításról értesíteni az OAH-t.
 
-## 11.[^88] A- és B-szintű fizikai védelem esetében a szállítmány megérkezéséről a címzett azonnal értesíti a feladót.
+## 11.[^94] A- és B-szintű fizikai védelem esetében a szállítmány megérkezéséről a címzett azonnal értesíti a feladót.
 
 ## 12. C-szintű fizikai védelem esetében a kötelezett köteles a szállítás megkezdése előtt:
 
@@ -98,7 +98,7 @@
 
 ## 14.3. az őrök a szállítást állandó felügyelet alatt tartsák a szállítójárműben vagy a kísérő járműben utazva.
 
-## 15.[^89]
+## 15.[^95]
 
 ## 5. Fizikai védelmi ismeretek
 
@@ -118,7 +118,7 @@
 
 ## 21. A-szintű fizikai védelem esetében 2000 kg-nál nehezebb szállítmányt nyitott szállítójárművön is lehet szállítani, ha az zárószerkezettel, bontás érzékelővel és pecséttel ellátott, és szállítójárműhöz láncokkal rögzítették, melynek rögzítését 10 000 N feszítő erőnek ellenálló módon alakították ki.
 
-## 22.[^90] B-, C- és D-szintű fizikai védelem esetében az 500 kg-nál nehezebb szállítmányt nyitott szállítójárművön is lehet szállítani, amennyiben a fizikai védelmi eszközök lopás ellen biztos védelmet nyújtanak.
+## 22.[^96] B-, C- és D-szintű fizikai védelem esetében az 500 kg-nál nehezebb szállítmányt nyitott szállítójárművön is lehet szállítani, amennyiben a fizikai védelmi eszközök lopás ellen biztos védelmet nyújtanak.
 
 ## 8. Védettségi ellenőrzések
 
@@ -130,7 +130,7 @@
 
 ## 25. A- és B-szintű fizikai védelem esetében az útvonalat úgy kell kiválasztani, hogy az elsődleges útvonal mellé alternatív útvonalakat is kell előzetesen tervezni, amit a fizikai védelmi tervben szerepeltetni kell. Közúti szállítás esetében a legmagasabb rendű útvonalat kell használni, amely elkerüli a sűrűn lakott területeket. Amennyiben ez nem lehetséges, akkor meg kell adni a szállítással érintett településen keresztül vezető pontos útvonal leírását és azt, hogy hogyan kerüli el a szállítmány a csúcsforgalmat.
 
-## 26. Amennyiben az A- és B-szintű fizikai védelem esetében az elsődleges útvonalon nem biztosítható a szállítmány megfelelő szintű fizikai védelme, akkor alternatív útvonalat kell használni. Alternatív útvonal kiválasztása esetén biztosítani kell, hogy rövid időn belül megvalósítható legyen az egyik útvonalról a másikra való áttérés, és az ellátás utánpótlása. Az alternatív útvonal esetében is biztosítani kell a kivonuló rendőri erők helyszínre érkezése időtartamára vonatkozó követelményeket.
+## 26.[^97] Amennyiben az A- és B-szintű fizikai védelem esetében az elsődleges útvonalon nem biztosítható a szállítmány megfelelő szintű fizikai védelme, akkor alternatív útvonalat kell használni. Alternatív útvonal kiválasztása esetén biztosítani kell, hogy rövid időn belül megvalósítható legyen az egyik útvonalról a másikra való áttérés, és az ellátás utánpótlása. Az alternatív útvonal esetében is biztosítani kell a külső elhárító erők helyszínre érkezése időtartamára vonatkozó követelményeket.
 
 ## 27. A- és B-szintű fizikai védelem esetében az útvonal kiválasztásakor figyelembe kell venni minden nyilvánvaló veszélyforrást, így különösen a civil tiltakozó megmozdulásokat, valamint a természetes veszélyforrásokat, köztük az árvizet, erdőtüzet, kőomlás-veszélyt.
 
@@ -176,7 +176,7 @@
 
 ## 33. A-szintű fizikai védelem során biztosítani kell, hogy a jelzőrendszer képes legyen:
 
-## 33.1.[^91] a héjvédelem tekintetében felügyelni a szállítójármű ajtóit,
+## 33.1.[^98] a héjvédelem tekintetében felügyelni a szállítójármű ajtóit,
 
 ## 33.2. a térvédelem tekintetében felügyelni a szállítójármű belső terét, és jelezni mindennemű illetéktelen emberi mozgást,
 
@@ -188,7 +188,7 @@
 
 ## 34. A-szintű fizikai védelem esetében alkalmazni kell:
 
-## 34.1.[^92] héjvédelem tekintetében:
+## 34.1.[^99] héjvédelem tekintetében:
 
 ## 34.1.1. nyitás-,
 
@@ -230,11 +230,11 @@
 
 ## 37. B-szintű fizikai védelem esetében biztosítani kell, hogy:
 
-## 37.1.[^93] a héjvédelem legyen teljes körű: a jelzőrendszer felügyelje a szállítójármű ajtóit, jelezze a behatolási kísérleteket, valamint
+## 37.1.[^100] a héjvédelem legyen teljes körű: a jelzőrendszer felügyelje a szállítójármű ajtóit, jelezze a behatolási kísérleteket, valamint
 
 ## 37.2. a térvédelem legyen csapdaszerű: a jelzőrendszer a raktérben található szállított anyag megközelítését figyelje, továbbá
 
-## 37.3.[^94] a jelzőrendszer által kiadott riasztás-jelzés közvetlenül értesítse a külső vagy a belső elhárító erőket.
+## 37.3.[^101] a jelzőrendszer által kiadott riasztás-jelzés közvetlenül értesítse a külső vagy a belső elhárító erőket.
 
 ## 38. B-szintű fizikai védelem esetében alkalmazni kell:
 
@@ -262,15 +262,15 @@
 
 ## 41. C-szintű fizikai védelem esetében biztosítani kell, hogy:
 
-## 41.1.[^95] a héjvédelem legyen teljes körű: a jelzőrendszer felügyelje a szállítójármű ajtóit, jelezze a behatolási kísérleteket,
+## 41.1.[^102] a héjvédelem legyen teljes körű: a jelzőrendszer felügyelje a szállítójármű ajtóit, jelezze a behatolási kísérleteket,
 
 ## 41.2. a térvédelem legyen csapdaszerű: a jelzőrendszer a raktérben található szállítmány anyag megközelítését figyelje, valamint
 
-## 41.3.[^96] a jelzőrendszer által kiadott riasztás-jelzés közvetlenül értesítse a gépjármű vezetőjét.
+## 41.3.[^103] a jelzőrendszer által kiadott riasztás-jelzés közvetlenül értesítse a gépjármű vezetőjét.
 
 ## 42. C-szintű fizikai védelem során alkalmazni kell:
 
-## 42.1.[^97] héjvédelem tekintetében:
+## 42.1.[^104] héjvédelem tekintetében:
 
 ## 42.1.1. nyitás-,
 
@@ -296,7 +296,7 @@
 
 ## 12. Megfigyelő rendszer
 
-## 45.[^98] A- és B-szintű fizikai védelem esetében biztosítani kell, hogy a szállítmányra vagy a raktérben felszerelt video-megfigyelő rendszer alkalmas legyen a szállítmány figyelésére, legalább akkor, ha a jármű raktere kinyílik, vagy nyitott állapotban van.
+## 45.[^105] A- és B-szintű fizikai védelem esetében biztosítani kell, hogy a szállítmányra vagy a raktérben felszerelt video-megfigyelő rendszer alkalmas legyen a szállítmány figyelésére, legalább akkor, ha a jármű raktere kinyílik, vagy nyitott állapotban van.
 
 ## 46. A- és B-szintű fizikai védelem esetében a megfigyelő rendszer minimálisan szükséges elemei:
 
@@ -314,7 +314,7 @@
 
 ## 48. A- és B-szintű fizikai védelem esetében a szállítójárművet vagy a szállítmányt kell látni követő rendszerrel, valamint monitoring és követő eszközzel, melynek adóegysége sugárálló, és az áramellátása hosszú ideig tartós elemekkel biztosított.
 
-## 49.[^99] C-szintű fizikai védelem esetében biztosítani kell, hogy a szállítmányra vagy a raktérben felszerelt video-megfigyelő rendszer alkalmas legyen szállítmány figyelésére, legalább akkor, ha a jármű raktere kinyílik, vagy nyitott állapotban van.
+## 49.[^106] C-szintű fizikai védelem esetében biztosítani kell, hogy a szállítmányra vagy a raktérben felszerelt video-megfigyelő rendszer alkalmas legyen szállítmány figyelésére, legalább akkor, ha a jármű raktere kinyílik, vagy nyitott állapotban van.
 
 ## 50. C-szintű fizikai védelem esetében a megfigyelő rendszer minimálisan szükséges elemei:
 
@@ -330,7 +330,7 @@
 
 ## 51.2. infra reflektor.
 
-## 52.[^100]
+## 52.[^107]
 
 ## 13. Szállítás-biztonsági ellenőrzési központ (Őrségközpont)
 
@@ -344,7 +344,7 @@
 
 ## KÉSLELTETÉS
 
-## 14.[^101] Szállítójármű-ajtók és tároló lemezszekrény ajtók
+## 14.[^108] Szállítójármű-ajtók és tároló lemezszekrény ajtók
 
 ## 56. A-szintű fizikai védelem esetében biztosítani kell, hogy:
 
@@ -358,33 +358,33 @@
 
 ## 58. B-szintű fizikai védelem esetében biztosítani kell, hogy:
 
-## 58.1.[^102] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói jelentős mechanikai ellenállásra legyenek képesek,
+## 58.1.[^109] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói jelentős mechanikai ellenállásra legyenek képesek,
 
-## 58.2.[^103] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói a speciális eszközökkel felszerelt behatolóval szemben minimum 10 perces áttörési időt szavatoljanak, valamint
+## 58.2.[^110] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói a speciális eszközökkel felszerelt behatolóval szemben minimum 10 perces áttörési időt szavatoljanak, valamint
 
-## 58.3.[^104] a szállítójármű rakterén vagy a tároló lemezszekrényen ne legyen más nyílászáró.
+## 58.3.[^111] a szállítójármű rakterén vagy a tároló lemezszekrényen ne legyen más nyílászáró.
 
-## 59.[^105] B-szintű fizikai védelem esetében biztosítani kell, hogy a szállítójármű-ajtó vagy a tároló lemezszekrény tok és a keretszerkezete ellenálló-képessége támadhatóság, illetve ellenállás tekintetében legalább egyenértékű legyen az ajtószerkezet ellenálló-képességével.
+## 59.[^112] B-szintű fizikai védelem esetében biztosítani kell, hogy a szállítójármű-ajtó vagy a tároló lemezszekrény tok és a keretszerkezete ellenálló-képessége támadhatóság, illetve ellenállás tekintetében legalább egyenértékű legyen az ajtószerkezet ellenálló-képességével.
 
 ## 60. C-szintű fizikai védelem esetében biztosítani kell, hogy:
 
-## 60.1.[^106] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói hagyományos kézi szerszámokkal szemben képesek legyenek mechanikai ellenállásra,
+## 60.1.[^113] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói hagyományos kézi szerszámokkal szemben képesek legyenek mechanikai ellenállásra,
 
-## 60.2.[^107] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói a hagyományos kézi szerszámokat felhasználó támadás esetében minimum 5 perces áttörési időt szavatoljanak, valamint
+## 60.2.[^114] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói a hagyományos kézi szerszámokat felhasználó támadás esetében minimum 5 perces áttörési időt szavatoljanak, valamint
 
-## 60.3.[^108]
+## 60.3.[^115]
 
 ## 61. C-szintű fizikai védelem esetében biztosítani kell, hogy a szállítójármű-ajtó tok és keretszerkezete ellenálló-képessége támadhatóság, illetve ellenállás tekintetében legalább egyenértékű az ajtószerkezet ellenálló-képességével.
 
 ## 62. D-szintű fizikai védelem esetében biztosítani kell, hogy
 
-## 62.1.[^109] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói hagyományos kézi szerszámok igénybevétele esetén korlátozott mechanikai ellenállásra legyenek képesek,
+## 62.1.[^116] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói hagyományos kézi szerszámok igénybevétele esetén korlátozott mechanikai ellenállásra legyenek képesek,
 
-## 62.2.[^110] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói a hagyományos kézi szerszámokat felhasználó támadás esetében minimum 3 perces áttörési időt szavatoljanak, valamint
+## 62.2.[^117] a szállítójármű-ajtók, vagy a tároló lemezszekrény ajtói a hagyományos kézi szerszámokat felhasználó támadás esetében minimum 3 perces áttörési időt szavatoljanak, valamint
 
-## 62.3.[^111]
+## 62.3.[^118]
 
-## 15.[^112] Szállítójármű-ajtózárak és tároló lemezszekrény ajtózárak
+## 15.[^119] Szállítójármű-ajtózárak és tároló lemezszekrény ajtózárak
 
 ## 63. A-szintű fizikai védelem esetében biztosítani kell, hogy:
 
@@ -392,21 +392,21 @@
 
 ## 63.2. a szállítójármű zárjainak és pecsétjeinek sértetlenségét az indulás előtt, a szállítás közben és a végső célállomáson a szállításban közreműködők minimum 12 óránként ellenőrizzék, és meggyőződjenek annak érintetlenségéről, valamint
 
-## 63.3.[^113] a védelmi zárak két kulccsal rendelkezzenek úgy, hogy az egyiket, vagy – amennyiben a kulcs a szállítójárműben egy kóddal zárt tárolóban utazik – annak hozzáférési kódját a kötelezett előzetesen elküldi a szállítmány címzettjének, a másik a kötelezettnél marad és a járművön ne utazzon a gépjárművezető, vagy a kísérők számára az Őrségközpont engedélye nélkül elérhető kulcs.
+## 63.3.[^120] a védelmi zárak két kulccsal rendelkezzenek úgy, hogy az egyiket, vagy – amennyiben a kulcs a szállítójárműben egy kóddal zárt tárolóban utazik – annak hozzáférési kódját a kötelezett előzetesen elküldi a szállítmány címzettjének, a másik a kötelezettnél marad és a járművön ne utazzon a gépjárművezető, vagy a kísérők számára az Őrségközpont engedélye nélkül elérhető kulcs.
 
 ## 64. B-szintű fizikai védelem esetében biztosítani kell, hogy
 
 ## 64.1. a zár a 10 perces áthatolási, áttörési ellenállásra képes biztonsági ajtóhoz rendszeresített, vagy azzal megegyező minőségű legyen,
 
-## 64.2.[^114] a szállítójármű vagy a tároló lemezszekrény zárjainak és pecsétjeinek sértetlenségét az indulás előtt, a szállítás közben és a végső célállomáson a szállításban közreműködők minimum 24 óránként ellenőrizzék, és meggyőződjenek annak érintetlenségéről, valamint
+## 64.2.[^121] a szállítójármű vagy a tároló lemezszekrény zárjainak és pecsétjeinek sértetlenségét az indulás előtt, a szállítás közben és a végső célállomáson a szállításban közreműködők minimum 24 óránként ellenőrizzék, és meggyőződjenek annak érintetlenségéről, valamint
 
-## 64.3.[^115] a védelmi zárak két kulccsal rendelkezzenek, úgy, hogy az egyiket, vagy – amennyiben a kulcs a szállítójárműben egy kóddal zárt tárolóban utazik – annak hozzáférési kódját a kötelezett előzetesen elküldi a szállítmány címzettjének, míg a másik a kötelezettnél marad, és a járművön ne utazzon a gépjárművezető, vagy a kísérők számára az Őrségközpont engedélye nélkül elérhető kulcs.
+## 64.3.[^122] a védelmi zárak két kulccsal rendelkezzenek, úgy, hogy az egyiket, vagy – amennyiben a kulcs a szállítójárműben egy kóddal zárt tárolóban utazik – annak hozzáférési kódját a kötelezett előzetesen elküldi a szállítmány címzettjének, míg a másik a kötelezettnél marad, és a járművön ne utazzon a gépjárművezető, vagy a kísérők számára az Őrségközpont engedélye nélkül elérhető kulcs.
 
 ## 65. C-szintű fizikai védelem esetében biztosítani kell, hogy
 
 ## 65.1. a zár az 5 perces áthatolási, áttörési ellenállásra képes biztonsági ajtóhoz rendszeresített, vagy azzal megegyező minőségű legyen, valamint
 
-## 65.2.[^116] a szállítójármű vagy a tároló lemezszekrény zárjainak és pecsétjeinek sértetlenségét a szállításban közreműködők ellenőrizzék az indulás előtt és a célállomáson.
+## 65.2.[^123] a szállítójármű vagy a tároló lemezszekrény zárjainak és pecsétjeinek sértetlenségét a szállításban közreműködők ellenőrizzék az indulás előtt és a célállomáson.
 
 ## 16. Szállítójármű karosszéria, tároló lemezszekrény
 
@@ -428,7 +428,7 @@
 
 ## 67.1. a szállítójármű karosszériája, vagy a tároló lemezszekrény olyan egyfalú, vagy kétfalú páncéllemez legyen, amelynél a borítólemezek összesített falvastagsága, valamint az ajtólap 6-8 mm vastagságú acéllemez, és a két fal között legalább 30 mm távolság van, és amelynek a roncsolásos vizsgálata során teljes áttörés esetében 24 RU, részleges áttörés esetében 15 RU ellenállásértéket értek el;
 
-## 67.2.[^117] a szállítójármű rakterén lévő ajtó, vagy a tároló lemezszekrény zárszerkezete kilincsmű reteszelésén keresztül biztosítsa a biztonságos zárást egy vagy három irányban;
+## 67.2.[^124] a szállítójármű rakterén lévő ajtó, vagy a tároló lemezszekrény zárszerkezete kilincsmű reteszelésén keresztül biztosítsa a biztonságos zárást egy vagy három irányban;
 
 ## 67.3. a kulcs a zár nyitott állapotában ne lehessen kivehető ki a zárból;
 
@@ -442,7 +442,7 @@
 
 ## 68.1. a szállítójármű karosszériája, vagy a tároló lemezszekrény olyan egyfalú lemez legyen, ahol a borítólemezek falvastagsága legalább 2mm–4,5 mm;
 
-## 68.2.[^118] a szállítójármű rakterén lévő ajtó, vagy a tároló lemezszekrény zárszerkezete direkt, vagy kilincsmű reteszelésén keresztül biztosítsa a biztonságos zárást egy vagy három irányban;
+## 68.2.[^125] a szállítójármű rakterén lévő ajtó, vagy a tároló lemezszekrény zárszerkezete direkt, vagy kilincsmű reteszelésén keresztül biztosítsa a biztonságos zárást egy vagy három irányban;
 
 ## 68.3. a kulcs a zár nyitott állapotában ne lehessen kivehető ki a zárból;
 
@@ -450,7 +450,7 @@
 
 ## 68.5. a szállítmányt 5000 N feszítő erőnek ellenálló módon rögzítsék, amelybe az értéktároló súlya is beleértendő.
 
-## 69.[^119] D-szintű fizikai védelem esetében biztosítani kell, hogy a szállítójármű karosszériája, vagy a tároló lemezszekrény a zárható irodabútorral egyenértékű ellenállást fejtsen ki.
+## 69.[^126] D-szintű fizikai védelem esetében biztosítani kell, hogy a szállítójármű karosszériája, vagy a tároló lemezszekrény a zárható irodabútorral egyenértékű ellenállást fejtsen ki.
 
 ## IV. FEJEZET
 
@@ -462,7 +462,7 @@
 
 ## 72. C-szintű fizikai védelem esetében a tervezett és alternatív útvonalakat, valamint a szállítás közbeni megállókat úgy kell megtervezni, hogy az elhárítást 15 percen belül a kísérő személyzettel és a további kivonuló külső elhárító erőkkel meg lehessen valósítani.
 
-## 73.[^120] D-szintű fizikai védelem esetében a tervezett és alternatív útvonalakat, valamint a szállítás közbeni megállókat úgy kell megtervezni, hogy az elhárítást a kísérő személyzettel és a további kivonuló külső elhárító erőkkel meg lehessen valósítani.
+## 73.[^127] D-szintű fizikai védelem esetében a tervezett és alternatív útvonalakat, valamint a szállítás közbeni megállókat úgy kell megtervezni, hogy az elhárítást a kísérő személyzettel és a további kivonuló külső elhárító erőkkel meg lehessen valósítani.
 
 4. melléklet a 190/2011. (IX. 19.) Korm. rendelethez
 
@@ -518,7 +518,7 @@
 
 1.4.3. beléptetés rendje, beléptetési jogosultságok és belépési időpontok rögzítési rendje;
 
-1.4.4.[^121] programozható rendszerek védelmi terve
+1.4.4.[^128] programozható rendszerek védelmi terve
 
 1.4.5. a fizikai védelmi rendszer működésével kapcsolatos események jelentési rendje;
 
@@ -536,7 +536,7 @@
 
 1.5.3. karbantartási, tesztelési program;
 
-1.6.[^122] a külső elhárító erők, együttműködés a belső elhárító erőkkel;
+1.6.[^129] a külső elhárító erők, együttműködés a belső elhárító erőkkel;
 
 1.7. fizikai védelmi rendszer átfogó értékelése a fizikai védelmi funkciók, lehetséges behatolási útvonalak és elkövetői taktikák tükrében;
 
@@ -554,7 +554,7 @@
 
 2.2. a fizikai védelemért felelős és a szállításban közreműködő személy neve, beosztása, elérhetősége;
 
-2.3.[^123] a szállító eszköz és jármű leírása, a szállítójármű részletes rajza; nagy aktivitású zárt sugárforrás szállítása esetén a szállításkor alkalmazott csomagolás, és a releváns eszközök és felszerelés fényképe;
+2.3.[^130] a szállító eszköz és jármű leírása, a szállítójármű részletes rajza; nagy aktivitású zárt sugárforrás szállítása esetén a szállításkor alkalmazott csomagolás, és a releváns eszközök és felszerelés fényképe;
 
 2.4. az elsődleges és alternatív útvonalak, országhatáron át történő szállítás esetében a be- és kiléptető határátkelőhely;
 
@@ -566,11 +566,11 @@
 
 2.8. a fizikai védelmi képzés és gyakorlatok értékelése;
 
-2.9.[^124]
+2.9.[^131]
 
 2.10. a fizikai védelmi rendszer leírása;
 
-2.11.[^125]
+2.11.[^132]
 
 2.12. emelt szintű fizikai védelmi szint esetében alkalmazandó intézkedések;
 
@@ -582,9 +582,9 @@
 
 2.16. megállapodások az elhárító erőkkel, egyéb külső szervezetekkel; a hatósági ellenőrzés lefolytatásával kapcsolatos speciális rendszabályok; valamint
 
-2.17.[^126] a veszélyhelyzet-kezelési terv.
+2.17.[^133] a veszélyhelyzet-kezelési terv.
 
-3.[^127] A programozható rendszerek védelmi terve a következőket tartalmazza:
+3.[^134] A programozható rendszerek védelmi terve a következőket tartalmazza:
 
 3.1. A programozható rendszerek jegyzéke, a rendszerek, hálózatok, alkalmazások és kapcsolataik.
 
@@ -600,48 +600,49 @@
 
 3.7. A rendszerek védelmével összefüggő változáskezelés, életciklus.
 
-[^83]: A 3. melléklet 1. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
-[^84]: A 3. melléklet 3. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
-[^85]: A 3. melléklet 4. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
-[^86]: A 3. melléklet 5. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 9. pontja szerint módosított szöveg.
-[^87]: [A 3. melléklet 8.1. pontjában a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontjával elrendelt módosítás, amely szerint a „felületvédelem” szövegrész helyébe a „héjvédelem” szöveg lép, nem vezethető át.]
-[^88]: A 3. melléklet 11. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 10. pontja szerint módosított szöveg.
-[^89]: A 3. melléklet 15. pontját a 37/2012. (III. 9.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.
-[^90]: A 3. melléklet 22. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 11. pontja szerint módosított szöveg.
-[^91]: A 3. melléklet 33.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
-[^92]: A 3. melléklet 34.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
-[^93]: A 3. melléklet 37.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
-[^94]: A 3. melléklet 37. pont 37.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 12. pontja szerint módosított szöveg.
-[^95]: A 3. melléklet 41.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
-[^96]: A 3. melléklet 41. pont 41.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 13. pontja szerint módosított szöveg.
-[^97]: A 3. melléklet 42.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
-[^98]: A 3. melléklet 45. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 14. pontja szerint módosított szöveg.
-[^99]: A 3. melléklet 49. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 14. pontja szerint módosított szöveg.
-[^100]: A 3. melléklet 52. pontját a 37/2012. (III. 9.) Korm. rendelet 23. § c) pontja hatályon kívül helyezte.
-[^101]: A 3. melléklet 14. alcím címe a 37/2012. (III. 9.) Korm. rendelet 22. § 15. pontjával megállapított szöveg.
-[^102]: A 3. melléklet 58. pont 58.1. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
-[^103]: A 3. melléklet 58. pont 58.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
-[^104]: A 3. melléklet 58. pont 58.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 17. pontja szerint módosított szöveg.
-[^105]: A 3. melléklet 59. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 18. pontja szerint módosított szöveg.
-[^106]: A 3. melléklet 60. pont 60.1. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
-[^107]: A 3. melléklet 60. pont 60.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
-[^108]: A 3. melléklet 60. pont 60.3. alpontját a 37/2012. (III. 9.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
-[^109]: A 3. melléklet 62. pont 62.1. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
-[^110]: A 3. melléklet 62. pont 62.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
-[^111]: A 3. melléklet 62. pont 62.3. alpontját a 37/2012. (III. 9.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
-[^112]: A 3. melléklet 15. alcíme a 37/2012. (III. 9.) Korm. rendelet 22. § 19. pontjával megállapított szöveg.
-[^113]: A 3. melléklet 63. pont 63.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 20. pontja szerint módosított szöveg.
-[^114]: A 3. melléklet 64. pont 64.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 21. pontja szerint módosított szöveg.
-[^115]: A 3. melléklet 64. pont 64.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 20. pontja szerint módosított szöveg.
-[^116]: A 3. melléklet 65. pont 65.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^117]: A 3. melléklet 67. pont 67.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 22. pontja szerint módosított szöveg.
-[^118]: A 3. melléklet 68. pont 68.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 22. pontja szerint módosított szöveg.
-[^119]: A 3. melléklet 69. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 23. pontja szerint módosított szöveg.
-[^120]: A 3. melléklet 73. pontja a 37/2012. (III. 9.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^121]: A 4. melléklet 1.4.4. pontja a 357/2014. (XII. 29.) Korm. rendelet 4. § (12) bekezdésével megállapított szöveg.
-[^122]: A 4. melléklet 1.6. pontja a 488/2015. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^123]: A 4. melléklet 2.3. pontja a 488/2015. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^124]: A 4. melléklet 2. pont 2.9. alpontját a 37/2012. (III. 9.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
-[^125]: A 4. melléklet 2. pont 2.11. alpontját a 37/2012. (III. 9.) Korm. rendelet 23. § g) pontja hatályon kívül helyezte.
-[^126]: A 4. melléklet 2. pont 2.17. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 25. pontjával megállapított szöveg.
-[^127]: A 4. melléklet 3. pontját a 357/2014. (XII. 29.) Korm. rendelet 4. § (12) bekezdése iktatta be.
+[^89]: A 3. melléklet 1. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
+[^90]: A 3. melléklet 3. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
+[^91]: A 3. melléklet 4. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
+[^92]: A 3. melléklet 5. pont nyitó szövegrésze a 37/2012. (III. 9.) Korm. rendelet 22. § 9. pontja szerint módosított szöveg.
+[^93]: [A 3. melléklet 8.1. pontjában a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontjával elrendelt módosítás, amely szerint a „felületvédelem” szövegrész helyébe a „héjvédelem” szöveg lép, nem vezethető át.]
+[^94]: A 3. melléklet 11. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 10. pontja szerint módosított szöveg.
+[^95]: A 3. melléklet 15. pontját a 37/2012. (III. 9.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.
+[^96]: A 3. melléklet 22. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 11. pontja szerint módosított szöveg.
+[^97]: A 3. melléklet 26. pontja a 27/2018. (II. 28.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^98]: A 3. melléklet 33.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
+[^99]: A 3. melléklet 34.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
+[^100]: A 3. melléklet 37.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
+[^101]: A 3. melléklet 37. pont 37.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 12. pontja szerint módosított szöveg.
+[^102]: A 3. melléklet 41.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
+[^103]: A 3. melléklet 41. pont 41.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 13. pontja szerint módosított szöveg.
+[^104]: A 3. melléklet 42.1. pontja a 488/2015. (XII. 30.) Korm. rendelet 1. melléklet 3. pontja alapján módosított szöveg.
+[^105]: A 3. melléklet 45. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 14. pontja szerint módosított szöveg.
+[^106]: A 3. melléklet 49. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 14. pontja szerint módosított szöveg.
+[^107]: A 3. melléklet 52. pontját a 37/2012. (III. 9.) Korm. rendelet 23. § c) pontja hatályon kívül helyezte.
+[^108]: A 3. melléklet 14. alcím címe a 37/2012. (III. 9.) Korm. rendelet 22. § 15. pontjával megállapított szöveg.
+[^109]: A 3. melléklet 58. pont 58.1. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^110]: A 3. melléklet 58. pont 58.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^111]: A 3. melléklet 58. pont 58.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 17. pontja szerint módosított szöveg.
+[^112]: A 3. melléklet 59. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 18. pontja szerint módosított szöveg.
+[^113]: A 3. melléklet 60. pont 60.1. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^114]: A 3. melléklet 60. pont 60.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^115]: A 3. melléklet 60. pont 60.3. alpontját a 37/2012. (III. 9.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^116]: A 3. melléklet 62. pont 62.1. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^117]: A 3. melléklet 62. pont 62.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.
+[^118]: A 3. melléklet 62. pont 62.3. alpontját a 37/2012. (III. 9.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^119]: A 3. melléklet 15. alcíme a 37/2012. (III. 9.) Korm. rendelet 22. § 19. pontjával megállapított szöveg.
+[^120]: A 3. melléklet 63. pont 63.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 20. pontja szerint módosított szöveg.
+[^121]: A 3. melléklet 64. pont 64.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 21. pontja szerint módosított szöveg.
+[^122]: A 3. melléklet 64. pont 64.3. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 20. pontja szerint módosított szöveg.
+[^123]: A 3. melléklet 65. pont 65.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^124]: A 3. melléklet 67. pont 67.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 22. pontja szerint módosított szöveg.
+[^125]: A 3. melléklet 68. pont 68.2. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 22. pontja szerint módosított szöveg.
+[^126]: A 3. melléklet 69. pontja a 37/2012. (III. 9.) Korm. rendelet 22. § 23. pontja szerint módosított szöveg.
+[^127]: A 3. melléklet 73. pontja a 37/2012. (III. 9.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^128]: A 4. melléklet 1.4.4. pontja a 357/2014. (XII. 29.) Korm. rendelet 4. § (12) bekezdésével megállapított szöveg.
+[^129]: A 4. melléklet 1.6. pontja a 488/2015. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^130]: A 4. melléklet 2.3. pontja a 488/2015. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^131]: A 4. melléklet 2. pont 2.9. alpontját a 37/2012. (III. 9.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
+[^132]: A 4. melléklet 2. pont 2.11. alpontját a 37/2012. (III. 9.) Korm. rendelet 23. § g) pontja hatályon kívül helyezte.
+[^133]: A 4. melléklet 2. pont 2.17. alpontja a 37/2012. (III. 9.) Korm. rendelet 22. § 25. pontjával megállapított szöveg.
+[^134]: A 4. melléklet 3. pontját a 357/2014. (XII. 29.) Korm. rendelet 4. § (12) bekezdése iktatta be.

@@ -40,11 +40,11 @@ f) a fix és mobil telepítésű ionizáló sugárzást létrehozó, radioaktív
 
 (4) A rendelet hatálya nem terjed ki:
 
-a)[^7] az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló kormányrendelet hatálya alá nem tartozó radioaktív anyagokra, valamint az ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezésekre;
+a)[^7] az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló kormányrendelet hatálya alá nem tartozó radioaktív anyagokra és az ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezésekre, valamint a kormányrendeletben meghatározott hatósági felügyelet alól mentesített és felszabadított radioaktív anyagokra;
 
 b)[^8] a személyekbe vagy élő állatokba diagnosztikai vagy kezelési célra bevitt vagy beültetett radioaktív anyagokra, továbbá a személyek szervezetében vagy testén lévő radioaktív anyagokra, amelyek véletlenül vagy szándékosan kerültek a szervezetükbe vagy szennyeződtek el vele, és amely érintett személyeket ez okból orvosi kezelés céljából szállítanak; továbbá
 
-c) a Magyar Honvédség birtokában lévő radioaktív sugárforrásra.
+c)[^9] az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 26. §-ában meghatározott honvédelmi ágazati feladatokra.
 
 [^1]: Az 1. § (1) bekezdés e) pontja a 217/2013. (VI. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés f) pontja a 217/2013. (VI. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -52,5 +52,6 @@ c) a Magyar Honvédség birtokában lévő radioaktív sugárforrásra.
 [^4]: Az 1. § (2) bekezdés d) pontja a 217/2013. (VI. 21.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (2) bekezdés e) pontja a 217/2013. (VI. 21.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (3) bekezdése a 37/2012. (III. 9.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^7]: Az 1. § (4) bekezdés a) pontja a 488/2015. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (4) bekezdés a) pontja a 488/2015. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 27/2018. (II. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^8]: Az 1. § (4) bekezdés b) pontja a 488/2015. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (4) bekezdés c) pontja a 27/2018. (II. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
