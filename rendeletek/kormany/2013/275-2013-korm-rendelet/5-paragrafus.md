@@ -30,8 +30,8 @@ g) az építési termék-szintek vagy osztályok szerinti, vagy leírásban, vag
 
 h) a c) pontban felsorolt, olyan alapvető jellemzők tekintetében, amelyekre nincs megállapítva a termék teljesítménye, az NPD (No Performance Determined – nincs meghatározott teljesítmény) betűket kell feltüntetni;
 
-i)[^9] a gyártó és meghatalmazott képviselő esetén azok neve, értesítési címe.
+i)[^10] a gyártó és meghatalmazott képviselő esetén azok neve, értesítési címe.
 
 (5) A termék teljesítmény állandóságának értékelésére és ellenőrzésére a (2) bekezdésben felsorolt esetekben a 305/2011/EU európai parlamenti és tanácsi rendelet V. melléklet 2. pontja szerinti kijelölt szervezetek jogosultak, amennyiben a kijelölési területük kiterjed a teljesítménynyilatkozat alapját képező szabványra vagy a szervezet az adott termékkörben nemzeti műszaki értékelés kiadására jogosult, továbbá a még hatályos építőipari műszaki engedélyt kidolgozta. A szervezeteknek meg kell felelniük a 305/2011/EU európai parlamenti és tanácsi rendelet szerinti bejelentett szervezetekre vonatkozó követelményeknek.
 
-[^9]: Az 5. § (4) bekezdés i) pontját a 261/2017. (IX. 11.) Korm. rendelet 4. §-a iktatta be.
+[^10]: Az 5. § (4) bekezdés i) pontját a 261/2017. (IX. 11.) Korm. rendelet 4. §-a iktatta be.

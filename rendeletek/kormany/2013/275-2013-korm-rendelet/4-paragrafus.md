@@ -42,5 +42,8 @@ g)[^8] műemléki védelem alatt álló építménybe tervezett egyedi, hagyomá
 
 (7) A (6) bekezdésben meghatározott feltételektől a tervező a beépítés feltételeinek függvényében eltérhet.
 
+(8)[^9] Az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet (a továbbiakban: Svr.) 6. melléklet 1. és 2. részében meghatározottaknak megfelelő építési termékek épületbe történő betervezése és beépítése esetén figyelembe kell venni az Svr. 50. § (1) bekezdésében foglaltakat.
+
 [^7]: A 4. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 49. §-a szerint módosított szöveg.
 [^8]: A 4. § (4) bekezdés g) pontját a 261/2017. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
+[^9]: A 4. § (8) bekezdése a 27/2018. (II. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
