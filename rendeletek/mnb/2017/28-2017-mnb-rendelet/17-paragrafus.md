@@ -2,6 +2,7 @@
 
 17. § (1)[^1]
 
-(2) 2018. február 28-án hatályát veszti a 2. melléklet „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK” megnevezésű táblázat 44–49. sora, az ott meghatározott felügyeleti jelentések táblái, valamint a 3. melléklet II.3.6. pontja.
+(2)[^2]
 
 [^1]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 17. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

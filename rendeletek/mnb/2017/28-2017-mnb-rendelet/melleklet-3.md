@@ -1,6 +1,6 @@
 ## 20172C20000028_16
 
-3. melléklet a 28/2017. (XI. 22.) MNB rendelethez[^3]
+3. melléklet a 28/2017. (XI. 22.) MNB rendelethez[^4]
 
 A hitelintézet és a hitelintézeti típusú EGT–fióktelep felügyeleti jelentéseire vonatkozó részletes kitöltési előírások
 
@@ -2882,4 +2882,4 @@ Azokat a PIBB alárendelt kölcsöntőkéket, amelyek a törvény szerint nem be
 
 A w) Összes befektetés nettó értéke oszlopba azoknak a befektetési korlát alá tartozó befektetéseknek összegét kell beírni, amelyek a hitelintézet birtokába közvetlen és közvetett befektetésként kerültek.
 
-[^3]: A 3. melléklet a 17. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 3. melléklet a 17. § (2) bekezdése szerint módosított szöveg.
