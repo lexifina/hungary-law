@@ -46,7 +46,7 @@
 
 23. 29. sora, 32. sora, 57. sora, 62–68. sora, 72–77. sora, 80. sora, 82–85. sora, 89. sora, 90. sora, 97–99. sora, 135–149. sora és 152–163. sora alapján a 651/2014/EU bizottsági rendelet 55. cikk szerinti sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás;
 
-24. 29. sora, 32. sora, 57. sora, 82. sora, 123. sor 1. pont a)–h) alpontja, 127. sor 1. pont a)–d) és f) alpontja alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás;
+24.[^2] 29. sora, 32. sora, 39. sora, 57. sora, 82. sora, 123. sor 1. pont a)–h) alpontja, 127. sor 1. pont a)–d) és f) alpontja alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás;
 
 25. 29. sora, 32. sora, 57. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.37599 sz. bizottsági határozat (a továbbiakban: SA.37599 sz. bizottsági határozat) szerinti tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás;
 
@@ -57,3 +57,5 @@
 28. 113. sora alapján az Európai Bizottságnak a Győr-Gönyű Országos Közforgalmú Kikötő fejlesztését engedélyező, SA.38478 (2014/N) sz. határozata szerinti támogatás;
 
 29. 39. sor e) alpontja alapján a kezdeményezések tartalmától függően és a vonatkozó európai uniós jogszabályok előírásainak betartása mellett a 39. sorral kapcsolatban meghatározott valamennyi támogatási kategória
+
+[^2]: A 3. § 24. alpontja a 6/2018. (II. 28.) NFM rendelet 1. §-ával megállapított szöveg.
