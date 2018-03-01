@@ -1,1 +1,0 @@
-Az atomenergiáról szóló 1996. évi CXVI. törvény 68. §-a (2) bekezdésének k), l) és p) pontjaiban, valamint az Állami Népegészségügyi és Tisztiorvosi Szolgálatról szóló 1991. évi XI. törvény 9. § e) pontjában kapott felhatalmazás alapján a következőket rendelem el:
