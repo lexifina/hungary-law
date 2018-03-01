@@ -1,4 +1,4 @@
-## 84. §[^100]
+## 84. §[^103]
 
 85. § (1) Az állomány azon tagja esetében, akinek a Hjt. hatálybalépése előtti jogszabályok szerint a szolgálati idejét vagy annak egy részét szorzószámok alkalmazásával számították, a jubileumi jutalomra jogosító szolgálati idő elérése napjának azt a napot kell tekinteni, amelyik napon a jubileumi jutalomra való jogosultsághoz szükséges szolgálati időt a szorzószámok alkalmazásával történő számítással együtt eléri.
 
@@ -6,9 +6,9 @@
 
 (3) A (2) bekezdésben foglaltakat az állomány azon tagja esetében, aki a külföldi szolgálatot megelőzően rendelkezési állományba tartozott, és rendelkezési állományba tartozóként a külszolgálat megkezdését megelőző napon nem töltött be beosztást, azzal az eltéréssel kell alkalmazni, hogy a külföldi szolgálatot megelőzően betöltött beosztás besorolása helyett a rendelkezési állományba tartozás alatti – a külszolgálat megkezdését megelőző napon érvényes – illetmény alapját képező besorolást kell figyelembe venni.
 
-(4)[^101] Az állomány Hjt. 46. § (1) bekezdés t) pontja szerinti rendelkezési állományba tartozó tagja részére a szolgálati viszonyának – a szolgálat felső korhatárának elérése miatti – megszűnéséig ki nem adott szabadság ellentételezéseként, szabadságmegváltás címén járó juttatás összege megegyezik a Hjt. 48. § (1) bekezdés c) pontja szerinti illetmény figyelembevételével a 61. § (2) bekezdése szerinti osztószám alkalmazásával számított, a ki nem adott szabadság időtartamával arányos összegű távolléti díjjal.
+(4)[^104] Az állomány Hjt. 46. § (1) bekezdés t) pontja szerinti rendelkezési állományba tartozó tagja részére a szolgálati viszonyának – a szolgálat felső korhatárának elérése miatti – megszűnéséig ki nem adott szabadság ellentételezéseként, szabadságmegváltás címén járó juttatás összege megegyezik a Hjt. 48. § (1) bekezdés c) pontja szerinti illetmény figyelembevételével a 61. § (2) bekezdése szerinti osztószám alkalmazásával számított, a ki nem adott szabadság időtartamával arányos összegű távolléti díjjal.
 
 (5) Az állomány 2015. július 1-jén a Hjt. 2015. június 30-án hatályos 147. § (1) bekezdés d) pontja szerinti beosztási illetmény csökkentés fenyítés hatálya alatt álló tagja esetében a kiszabott fenyítést a fenyítés időtartamának 2015. június 30-át követő időszakában – a korábban határozattal elbírált fegyelemsértés vonatkozásában újabb fegyelmi határozat kiadása nélkül – úgy kell végrehajtani, hogy a fenyítés hatályának végéig a Hjt. 122. § (1) bekezdés szerinti elemekből álló összilletményt havonta csökkenteni kell a 2015. június hónapra a beosztási illetmény csökkentés fenyítés figyelmen kívül hagyásával kiszámított összilletmény és a fenyítés miatt megállapított összilletmény különbözetével.
 
-[^100]: A 84. § a 83. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^101]: A 85. § (4) bekezdése a 13/2015. (XII. 3.) HM rendelet 4. § f) pontja szerint módosított szöveg.
+[^103]: A 84. § a 83. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^104]: A 85. § (4) bekezdése a 13/2015. (XII. 3.) HM rendelet 4. § f) pontja szerint módosított szöveg.
