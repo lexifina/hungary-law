@@ -64,7 +64,7 @@
 
 | 29. | 233321 |  | Adósságkezelés költségei | Adósságkezelés költségeinek fedezése. | ÁKK Zrt. |  |  | Az összeget a Kincstár minden hónap 5-éig folyósítja egyenlő részletekben. |  |  | Kincstár |  |  |
 
-7. melléklet a 49/2017. (XII. 29.) NGM rendelethez
+7. melléklet a 49/2017. (XII. 29.) NGM rendelethez[^2]
 
 XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi kezelésű előirányzatai
 
@@ -92,7 +92,7 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 
 | 9. | 031017 |  |  | Szanálással kapcsolatos kiadások | Az állami szanálási eljárás megszűnésével kapcsolatos feladatokról szóló 28/1992. (XII. 4.) PM rendeletben (a továbbiakban: R25.) rögzített fizetési kötelezettségekből adódó feladatok elvégzése. | Felszámoló |  |  | Az R25-ben meghatározott módon. |  |  |  |  |  |
 
-| 10. | 031028 |  |  | Magán- és egyéb jogi személyek kártérítése | A nemzetgazdasági miniszter által képviselt állam számára fizetési kötelezettség alapját képező jogerős bírósági ítéletben, végzésben vagy peren kívüli egyezséget jóváhagyó iratban meghatározott kártérítések, illetve a peres eljárással kapcsolatos költségek megtérítése. A Nyugdíjfolyósító Igazgatóság által fizetett járadék megtérítése. Emellett az állami vezetői mulasztások, illetve az állam nevében elkövetett jogsértések áldozatait megillető kártérítésekről szóló 33/2010. (VI. 11.) OGY határozat III. 1. pontja szerinti igények forrásbiztosítása is ezen előirányzatról történik. | Az egyes bírósági határozatok, peren kívüli egyezséget jóváhagyó iratok alapján az állam által kártérítésben részesülő magánszemélyek |  |  | A jogerős bírósági határozatok, ítéletek, peren kívüli egyezséget jóváhagyó iratok alapján. |  |  |  |  |  |
+| 10. | 031028 |  |  | Magán- és egyéb jogi személyek kártérítése | A nemzetgazdasági miniszter által képviselt állam számára fizetési kötelezettség alapját képező jogerős bírósági ítéletben, végzésben vagy peren kívüli egyezséget jóváhagyó iratban meghatározott kártérítések, illetve a peres eljárással kapcsolatos költségek megtérítése. A Nyugdíjfolyósító Igazgatóság által fizetett járadék megtérítése. Az állami vezetői mulasztások, illetve az állam nevében elkövetett jogsértések áldozatait megillető kártérítésekről szóló 33/2010. (VI. 11.) OGY határozat III. 1. pontja szerinti igények, valamint a Czeglédy-ügy károsultjainak rendkívüli állami kárrendezéséről szóló 488/2017. (XII. 29.) Korm. rendelet (a továbbiakban: 488/2017. Korm. rendelet) alapján nyújtott állami kárrendezés forrásbiztosítása. | Az egyes bírósági határozatok, peren kívüli egyezséget jóváhagyó iratok alapján az állam által kártérítésben részesülő magánszemélyek. A 488/2017. Korm. rendelet esetében a kormányhivatal által meghozott döntés alapján állami kárrendezésben részesülő magánszemélyek. |  |  | A jogerős bírósági határozatok, ítéletek, peren kívüli egyezséget jóváhagyó iratok alapján. A 488/2017. Korm. rendelet esetében a kormányhivatal által meghozott döntés alapján a Kincstár végzi. |  |  | A 488/2017. Korm. rendelet esetében a Kincstár |  |  |
 
 | 11. |  |  |  | Védelmi felkészítés előirányzatai |  |  |  |  |  |  |  |  |  |  |
 
@@ -203,3 +203,7 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 | 64. | 226165 |  | Központi Nukleáris Pénzügyi Alap támogatása | A Központi Nukleáris Pénzügyi Alap részére központi költségvetési támogatás biztosítása. | Központi Nukleáris Pénzügyi Alap |  |  | Az Áht. 82. § (2) bekezdése és az Ávr. 133. § (4) bekezdés szerint, előirányzat-felhasználási terv alapján. |  |  | Kincstár |  |  |
 
 | 65. | 349139 |  | Nemzeti Kutatási, Fejlesztési és Innovációs Alap támogatása | A Nemzeti Kutatási, Fejlesztési és Innovációs Alap részére központi költségvetési támogatás biztosítása. | Nemzeti Kutatási, Fejlesztési és Innovációs Alap |  |  | Az Áht. 82. § (2) bekezdése és az Ávr. 133. § (4) bekezdés szerint, előirányzat-felhasználási terv alapján. |  |  | Kincstár |  |  |
+
+| 66. | 374873 |  | Központi Maradványelszámolási Alap | Kormányzati döntésekből következő, illetve évközben jelentkező egyéb forrásbiztosítások kezelése. | Költségvetési szervek, fejezeti kezelésű előirányzatok, központi kezelésű előirányzatok |  |  | Átcsoportosítással a Kormány egyedi határozata alapján. |  |  |  |  |  |
+
+[^2]: A 7. melléklet a 3/2018. (II. 28.) NGM rendelet 1. §-a szerint módosított szöveg.
