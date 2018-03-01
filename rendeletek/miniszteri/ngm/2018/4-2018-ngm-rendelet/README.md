@@ -1,0 +1,9 @@
+# 4/2018. (II. 28.) NGM rendelet
+
+az egyéni védőeszközök megfelelőségét értékelő szervezetek kijelölési eljárásért fizetendő igazgatási szolgáltatási díj mértékéről és a díj megfizetésére vonatkozó szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-4-20-2X
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-03-01 | 2018-4-20-2X.1 | 4/2018. (II. 28.) NGM rendelet |
