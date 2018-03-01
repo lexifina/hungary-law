@@ -1,6 +1,6 @@
-## meghatározott adatokat az egyes miniszteri rendeleteknek a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosításával, a szabálysértési statisztikai adatszolgáltatással és a szabálysértési jogsegéllyel összefüggő módosításáról szóló 81/2015. (XII. 23.) BM rendelet hatálybalépését[^53] követő 30. naptól gyűjtik.
+## 43. §[^51] A 2018. február 28. napon már legyártott helyszíni bírságoláshoz használt nyomtatványok (a továbbiakban: régi nyomtatványok) 2018. június 30. napjáig abban az esetben használhatóak fel, ha a helyszíni bírság nyomtatvány 2018. március 1-jén módosított adattartalmának ismertetése egyéb úton biztosított, valamint a régi nyomtatványokhoz tartozó készpénz-átutalási megbízáson a központi bírságkezelő szerv által 2018. január 1-jétől elfogadott számlaszám szerepel.
 
-1. melléklet a 22/2012. (IV. 13.) BM rendelethez[^54]
+1. melléklet a 22/2012. (IV. 13.) BM rendelethez[^52]
 
-[^53]: A hatálybalépés időpontja 2016. január 1.
-[^54]: Az 1. mellékletet a 21/2013. (VI. 7.) BM rendelet 3. § (3) bekezdése iktatta be.
+[^51]: A 43. §-t a 40/2017. (XII. 29.) BM rendelet 5. § (6) bekezdése iktatta be.
+[^52]: Az 1. mellékletet a 21/2013. (VI. 7.) BM rendelet 3. § (3) bekezdése iktatta be.

@@ -1,28 +1,13 @@
 ## 19. § A helyszíni bírság összegét úgy kell megállapítani, hogy az maradék nélkül osztható legyen 1000 forinttal.
 
-20. § (1) A helyszíni bírság kiszabására jogosult szerv vagy személy három példányban (eredeti, másodlat és tőpéldány) tölti ki a helyszíni bírságoláshoz használt nyomtatványt.
+20. §[^26] (1) A helyszíni bírságoláshoz a helyszíni bírság kiszabására jogosult szerv vagy személy a 4. melléklet szerinti nyomtatványt használja.
 
-(2) A nyomtatvány kitöltése előtt a személyazonosság megállapítására alkalmas igazolványból meg kell állapítani az eljárás alá vont személy személyi adatait.
+(2) A helyszíni bírság kiszabására jogosult szerv vagy személy három példányban (eredeti, másodlat és tőpéldány) tölti ki a helyszíni bírságoláshoz használt nyomtatványt.
 
-(3) A helyszíni bírságoláshoz használt sorszámmal ellátott nyomtatványnak tartalmaznia kell:
+(3) A nyomtatvány kitöltése előtt a személyazonosság megállapítására alkalmas igazolványból meg kell állapítani az eljárás alá vont személy személyi adatait.
 
-a) az eljárás alá vont személy családi nevét, utónevét, születési helyét, idejét, anyja nevét, lakcímét, állampolgárságát,
+(4) A helyszíni bírságoláshoz használt nyomtatvány minden olyan rovatát ki kell tölteni, amely az adott szabálysértés elkövetése tekintetében értelmezhető.
 
-b) személyazonosításra alkalmas igazolványának, vagy engedélyhez kötött járművezetés szabályainak megszegésével elkövetett szabálysértés esetén a vezetői engedély számát és típusát,
+(5) A helyszíni bírságoláshoz használt nyomtatvány és a csekkszelvény sorszámmal ellátott okirat.
 
-c)[^26] az elkövetés helyét, idejét, az elkövetett cselekmény leírását, az elkövetett szabálysértés megnevezését, gépjárművel elkövetett szabálysértés esetén a forgalmi rendszámot, valamint jogszabályban meghatározott, a közúti közlekedés biztonságát fokozottan veszélyeztető szabálysértés esetén a közlekedési előéleti pont számát,
-
-d) a kiszabott helyszíni bírság összegét,
-
-e)[^27] tájékoztatást arról, hogy – a gépjárművezető távollétében kiszabott helyszíni bírság kivételével – a meg nem fizetett helyszíni bírságot 5000 forintonként 6 óra közérdekű munkával válthatja meg, amelynek érdekében az állami foglalkoztatási szervnél a bírság megfizetésére nyitva álló határidő lejártát követő három munkanapon belül jelentkezhet, valamint azt, hogy a bíróság a meg nem fizetett és közérdekű munkával meg nem váltott helyszíni bírságot 5000 forintonként egy napi szabálysértési elzárásra változtatja át,
-
-f) a helyszíni bírság kiszabására jogosult szerv nevét, az intézkedő személy azonosító számát, vagy nevét,
-
-g)[^28] a fiatalkorú eljárás alá vont személy nyilatkozatát, hogy a helyszíni bírság megfizetését vállalja és aláírását,
-
-h)[^29] a fiatalkorú eljárás alá vont személy törvényes képviselőjének aláírását.
-
-[^26]: A 20. § (3) bekezdés c) pontja a 80/2013. (XII. 23.) BM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^27]: A 20. § (3) bekezdés e) pontja a 80/2013. (XII. 23.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^28]: A 20. § (3) bekezdés g) pontját a 80/2013. (XII. 23.) BM rendelet 15. § (3) bekezdése iktatta be.
-[^29]: A 20. § (3) bekezdés h) pontját a 80/2013. (XII. 23.) BM rendelet 15. § (3) bekezdése iktatta be.
+[^26]: A 20. § a 40/2017. (XII. 29.) BM rendelet 5. § (3) bekezdésével megállapított szöveg.
