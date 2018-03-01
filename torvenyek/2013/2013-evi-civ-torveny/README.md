@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-104-00-00
 | --- | --- | --- |
 | 2013-06-26 | 2013. évi CIV. törvény | 2013-104-00-00.0 (közlönyállapot) |
 | 2013-06-26 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-104-00-00.1 |
+| 2018-03-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-104-00-00.2 |
