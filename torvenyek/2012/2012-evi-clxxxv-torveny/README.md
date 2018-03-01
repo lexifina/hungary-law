@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-185-00-00
 | 2017-01-01 | 2016. évi LXXXIX. törvény | 2012-185-00-00.26 |
 | 2017-06-23 | 2017. évi LXVI. törvény | 2012-185-00-00.27 |
 | 2018-01-01 | 2017. évi CXCVI. törvény | 2012-185-00-00.28 |
+| 2018-03-01 | 2017. évi CXCVI. törvény | 2012-185-00-00.29 |
