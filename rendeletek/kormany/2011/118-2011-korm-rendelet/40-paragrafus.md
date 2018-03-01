@@ -12,9 +12,9 @@ b) nem estek hatósági engedélyezési kötelezettség alá
 
 az e rendelet hatálybalépését megelőző napon hatályban lévő szabályozás alapján.
 
-(4)[^70] Az engedélyes jelentésében javaslatot terjeszt elő a részben vagy egészben nem teljesülő követelmények teljesítésének időpontjára, és az egyes teljesítéshez szükséges intézkedések megvalósítására javasolt időpontokig terjedő felmentési kérelmet nyújt be a nukleáris biztonsági hatósághoz. A teljesítés javasolt időpontja nem lehet későbbi, mint a jelentés tárgyát képező nukleáris létesítmény (atomerőmű esetében a blokk) 34. § szerinti soron következő Időszakos Biztonsági Felülvizsgálatának időpontja.
+(4)[^75] Az engedélyes jelentésében javaslatot terjeszt elő a részben vagy egészben nem teljesülő követelmények teljesítésének időpontjára, és az egyes teljesítéshez szükséges intézkedések megvalósítására javasolt időpontokig terjedő felmentési kérelmet nyújt be a nukleáris biztonsági hatósághoz. A teljesítés javasolt időpontja nem lehet későbbi, mint a jelentés tárgyát képező nukleáris létesítmény (atomerőmű esetében a blokk) 34. § szerinti soron következő Időszakos Biztonsági Felülvizsgálatának időpontja.
 
-(5)[^71] A nukleáris biztonsági hatóság a 21/B. § (1) bekezdés b) pontja szerinti ügyintézési határidő megtartásával a következő szempontok figyelembevételével határozatban dönt a felmentésről és annak engedélyezett időtartamáról:
+(5)[^76] A nukleáris biztonsági hatóság a 21/B. § (1) bekezdés b) pontja szerinti ügyintézési határidő megtartásával a következő szempontok figyelembevételével határozatban dönt a felmentésről és annak engedélyezett időtartamáról:
 
 a) a követelménytől való eltérés által okozott kockázatnövekedés mértéke alapján;
 
@@ -26,5 +26,5 @@ c) annak figyelembevételével, hogy egy telephelyen belül ne különbözzenek 
 
 (7) Az e rendelet hatálybalépésekor végrehajtható elvi átalakítási engedéllyel rendelkező átalakításokat az elvi átalakítási engedély időbeli hatálya alatt a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 89/2005. (V. 5.) Korm. rendelet e rendelet hatálybalépését megelőző napon hatályos rendelkezései szerinti engedélyezési eljárások lefolytatását követően lehet elvégezni. Az elvi átalakítási engedély időbeli hatályának megszűnését követően az e rendeletben szabályozott követelmények szerint kell az átalakítást engedélyeztetni és végrehajtani.
 
-[^70]: A 40. § (4) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 18. pontja szerint módosított szöveg.
-[^71]: A 40. § (5) bekezdés nyitó szövegrésze a 139/2014. (IV. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^75]: A 40. § (4) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 18. pontja szerint módosított szöveg.
+[^76]: A 40. § (5) bekezdés nyitó szövegrésze a 139/2014. (IV. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.

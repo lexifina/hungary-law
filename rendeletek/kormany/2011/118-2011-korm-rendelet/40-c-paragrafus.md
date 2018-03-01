@@ -1,4 +1,4 @@
-40/C. §[^75] (1) A Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvénnyel összefüggésben egyes kormányrendeletek módosításáról szóló 207/2015. (VII. 23.) Korm. rendelet (a továbbiakban: Mód. Kr. 2.) hatálybalépésekor[^76] üzemelő nukleáris létesítmény engedélyese a Mód. Kr. 2. hatálybalépését követő harmadik hónap első napján jelentést nyújt be a nukleáris biztonsági hatóságnak.
+40/C. §[^80] (1) A Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvénnyel összefüggésben egyes kormányrendeletek módosításáról szóló 207/2015. (VII. 23.) Korm. rendelet (a továbbiakban: Mód. Kr. 2.) hatálybalépésekor[^81] üzemelő nukleáris létesítmény engedélyese a Mód. Kr. 2. hatálybalépését követő harmadik hónap első napján jelentést nyújt be a nukleáris biztonsági hatóságnak.
 
 (2) Az engedélyes a jelentésben az általa elvégzett felülvizsgálat alapján bemutatja, hogy a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvénnyel összefüggésben egyes kormányrendeletek módosításáról szóló 207/2015. (VII. 23.) Korm. rendelet, továbbá a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 118/2011. (VII. 11.) Korm. rendelet és az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendelet módosításáról szóló 357/2014. (XII. 29.) Korm. rendelet engedélyesre és a jelentés tárgyát képező nukleáris létesítményére irányadó követelményei közül melyek nem teljesülnek részben vagy egészben.
 
@@ -14,5 +14,5 @@ c) annak figyelembevételével, hogy egy telephelyen belül ne különbözzenek 
 
 (5) A felmentés időtartama nem terjedhet túl a soron következő Időszakos Biztonsági Felülvizsgálat időpontján.
 
-[^75]: A 40/C. §-t a 207/2015. (VII. 23.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^76]: A hatálybalépés időpontja 2015. július 24.
+[^80]: A 40/C. §-t a 207/2015. (VII. 23.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^81]: A hatálybalépés időpontja 2015. július 24.

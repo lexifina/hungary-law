@@ -4,7 +4,7 @@
 
 (2) Általános nukleáris biztonsági célkitűzés, hogy a lakosság egyedei és csoportjai, valamint a környezet védelme biztosított legyen az ionizáló sugárzás veszélyével szemben. Ezt a nukleáris létesítményben megvalósított hatékony biztonsági intézkedésekkel és azok megfelelő színvonalú fenntartásával kell biztosítani.
 
-(3)[^7] Sugárvédelmi célkitűzés, hogy a nukleáris létesítmény üzemeltetése során az üzemeltető személyzet és a lakosság sugárterhelése mindenkor az előírt határértékek alatti, az ésszerűen elérhető legalacsonyabb szintű legyen. Ezt biztosítani kell a tervezési alaphoz tartozó üzemzavarok és – amilyen mértékben ésszerűen lehetséges – a tervezésen túli üzemzavarok és a balesetek következtében fellépő sugárterhelések esetén is.
+(3)[^7] Sugárvédelmi célkitűzés, hogy a nukleáris létesítmény életciklusának valamennyi szakaszában a munkavállalók és a lakosság sugárterhelése mindenkor az előírt határértékek alatti, az ésszerűen elérhető legalacsonyabb szintű legyen. Ezt biztosítani kell a tervezési alaphoz tartozó üzemzavarok és – amilyen mértékben ésszerűen lehetséges – a tervezésen túli üzemzavarok és a balesetek következtében fellépő sugárterhelések esetén is.
 
 (4) Műszaki biztonsági célkitűzés, hogy az üzemzavari események bekövetkezése nagy biztonsággal megelőzhető, vagy megakadályozható legyen, a nukleáris létesítmény tervezésénél figyelembe vett valamennyi feltételezett kezdeti esemény esetén a lehetséges következmények az elfogadható mértékeken belül legyenek, valamint a balesetek valószínűsége kellően alacsony legyen.
 
@@ -14,6 +14,6 @@
 
 (7)[^9] A Nukleáris Biztonsági Szabályozatok a (2)–(4) bekezdés szerinti célkitűzéseken alapuló követelményrendszert foglalják magukba.
 
-[^7]: A 6. § (3) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 1. pontja szerint módosított szöveg.
+[^7]: A 6. § (3) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 1. pontja, a 28/2018. (II. 28.) Korm. rendelet 2. § 2. pontja szerint módosított szöveg.
 [^8]: A 6. § (6) bekezdése a 357/2014. (XII. 29.) Korm. rendelet 2. § 1. pontja szerint módosított szöveg.
 [^9]: A 6. § (7) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 2. pontja szerint módosított szöveg.

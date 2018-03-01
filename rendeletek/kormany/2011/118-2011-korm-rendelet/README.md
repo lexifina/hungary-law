@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-118-20-
 | 2017-01-01 | 2011-118-20-22.11 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2017-08-12 | 2011-118-20-22.12 | 225/2017. (VIII. 11.) Korm. rendelet |
 | 2018-01-01 | 2011-118-20-22.13 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2018-03-01 | 2011-118-20-22.14 | 28/2018. (II. 28.) Korm. rendelet |
