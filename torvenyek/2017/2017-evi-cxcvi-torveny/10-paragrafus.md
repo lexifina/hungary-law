@@ -1,1 +1,3 @@
-10. §
+10. § A Ht. 63. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A kitermelt szennyezetlen talaj vagy más, természetes állapotában meglévő anyag termelőjének, vagy – ha az nem állapítható meg – birtokosának kifejezett, kormányrendelet szerinti nyilatkozata esetén a 2. § (4) bekezdés szerinti talaj vagy anyag nem minősül hulladéknak. A kitermelésre kerülő vagy kiszoruló talaj mennyiségét és környezeti jellemzőit előzetesen meg kell állapítani, további felhasználására a felmérés eredményétől függően kerülhet sor. Az előzetes felmérésre, a felhasználás feltételeire, a tervezett felhasználás előzetes, illetve a megtörtént felhasználás utólagos igazolására vonatkozó előírásokat kormányrendelet tartalmazza.”
