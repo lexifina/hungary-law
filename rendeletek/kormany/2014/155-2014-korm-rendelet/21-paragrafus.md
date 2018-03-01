@@ -41,3 +41,10 @@ c) a szervezeti felépítése, irányítási rendszere, dokumentuma átalakítá
 (4) A tároló létesítmény időszakos biztonsági jelentését az atomenergia-felügyeleti szerv felülvizsgálja és a 102. § szerint határozatot hoz.
 
 (5) Az atomenergia-felügyeleti szerv a baleset-elhárítási intézkedési tervet a 112. § szerint jóváhagyja.
+
+(6)[^11] Az atomenergia-felügyeleti szerv a Munkahelyi Sugárvédelmi Szabályzatot (a továbbiakban: MSSZ) a 114/A. § szerint jóváhagyja.
+
+(7)[^12] Az atomenergia-felügyeleti szerv a lakossági dózismegszorítás értékét a 114/B. § szerint jóváhagyja.
+
+[^11]: A 21. § (6) bekezdését a 28/2018. (II. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^12]: A 21. § (7) bekezdését a 28/2018. (II. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be.

@@ -18,11 +18,7 @@ cc) az engedélyes a hiányosságokat és az eltéréseket indokolatlan késleke
 
 cd) az engedélyes az összegyűjtött tapasztalatokat hasznosítja, és ennek eredményét továbbadja a beszállítóknak és az atomenergia-felügyeleti szervnek.
 
-(2) A sugárvédelem műszaki követelményeinek ellenőrzése kiterjed:
-
-a) azokra a tároló létesítmény üzemeltetéséhez hozzátartozó rendszerekre, rendszerelemekre, amelyek által keltett sugárzási tér, vagy amelyekből kijutó radioaktív anyag forrástagként potenciális vagy tényleges sugárveszélyt jelent a sugárzási térrel kapcsolatba kerülő rendszerekre, rendszerelemekre és személyekre, továbbá a forrástag káros hatását korlátozó vagy csökkentő rendszerekre, rendszerelemekre, és a forrástag vagy az azt magába foglaló térrész sugárzási viszonyairól információt szolgáltató rendszerekre és készülékekre,
-
-b) a radioaktív hulladékok feldolgozásával, tárolásával és elhelyezésével kapcsolatos tevékenységekre.
+(2)[^17]
 
 (3) Az atomenergia-felügyeleti szerv a biztonságot befolyásoló tényezők szempontjából jogosult megvizsgálni az engedélyes szervezetének működését.
 
@@ -33,3 +29,5 @@ b) a radioaktív hulladékok feldolgozásával, tárolásával és elhelyezésé
 (6) Az atomenergia-felügyeleti szerv ellenőrzései során az ellenőrzés alá vont köteles az atomenergia-felügyeleti szervvel együttműködni, az ellenőrzés eredményességét előmozdítani, és a saját ellenőrzése eredményeit, dokumentumait az atomenergia-felügyeleti szerv rendelkezésére bocsátani.
 
 (7) Az atomenergia-felügyeleti szerv éves ellenőrzési tervet készít, amelyet a honlapján közzétesz, és a közzétételről tájékoztatja az érintett engedélyeseket és hatóságokat.
+
+[^17]: A 30. § (2) bekezdését a 28/2018. (II. 28.) Korm. rendelet 10. § 5. pontja hatályon kívül helyezte.

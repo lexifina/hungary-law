@@ -1,4 +1,4 @@
-76. § (1)[^12] Az építési engedély alapján elvégzett építési munkák – kivéve, ha az atomenergia-felügyeleti szerv az építési engedélyben ettől eltérően rendelkezik – befejezése után az építmény csak végleges használatbavételi engedély birtokában vehető használatba, amit az atomenergia-felügyeleti szervnél kell kérelmezni.
+76. § (1)[^30] Az építési engedély alapján elvégzett építési munkák – kivéve, ha az atomenergia-felügyeleti szerv az építési engedélyben ettől eltérően rendelkezik – befejezése után az építmény csak végleges használatbavételi engedély birtokában vehető használatba, amit az atomenergia-felügyeleti szervnél kell kérelmezni.
 
 (2) Ha az építési tevékenység az építmény egy részét érinti, annak egyéb részei az építési engedélyében meghatározott feltételekkel használhatók.
 
@@ -16,4 +16,4 @@ d) nyilatkozatot arról, hogy az építési és szerelési munkákra vonatkozó 
 
 e) az életciklus szerinti biztonsági jelentésbe bevezetni kívánt módosítás tervezetét.
 
-[^12]: A 76. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 499. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^30]: A 76. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 499. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

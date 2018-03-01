@@ -4,7 +4,7 @@
 
 1. „0” állapot: a biztonsági osztályba sorolt rendszerelemek üzemeltetés előtti állapotát jellemző, dokumentált üzemvitel során végrehajtott időszakos ellenőrzések eredményeivel összevethető állapotjellemzők összessége;
 
-2. ALARA-elv: a sugárvédelem egyik alapelve, amely szerint bármely sugárforrást alkalmazó tevékenység esetében – kivéve az orvosi terápiás besugárzást – a védelmet és biztonságot optimalizálni kell annak érdekében, hogy az egyéni dózisok nagysága, a sugárzásnak kitett személyek száma és a sugárterhelés valószínűsége az ésszerűen elérhető legalacsonyabb szinten maradhasson – tekintettel a gazdasági és társadalmi tényezőkre – az egyéni dóziskorlátokon belül, figyelembe véve a forrásra vonatkozó dózismegszorításokat;
+2.[^2] ALARA-elv: a sugárvédelem egyik alapelve, amely szerint bármely ionizáló sugárzást alkalmazó tevékenység esetében a védelmet és biztonságot optimalizálni kell annak érdekében, hogy az egyéni dózisok nagysága, a sugárzásnak kitett személyek száma és a sugárterhelés valószínűsége az észszerűen megvalósítható legalacsonyabb szinten maradjon – tekintettel a gazdasági és társadalmi tényezőkre – az egyéni dóziskorlátokon belül, figyelembe véve a forrásra vonatkozó dózismegszorításokat;
 
 3. Átalakítás: a tároló létesítmény üzemeltetési életciklus szakasza során
 
@@ -22,7 +22,7 @@ megváltoztatása;
 
 5. Baleset: a tervezési alapon túli esemény, amely során a hatályos előírásokban szereplő határértéket meghaladó sugárterhelés léphet fel;
 
-6. Baleset-elhárítás: az emberi egészséget és biztonságot, az élet minőségét, a vagyont és a környezetet veszélyeztető radiológiai veszélyhelyzet következményeinek enyhítését szolgáló intézkedések végrehajtása;
+6.[^3] Baleset-elhárítás: az emberi egészséget és biztonságot, az élet minőségét, a vagyont és a környezetet veszélyeztető baleset következményeinek enyhítését szolgáló intézkedések végrehajtása;
 
 7. Balesetkezelés: tervezési alapon túli esemény során az üzemeltető által végrehajtott intézkedések, amelyek célja:
 
@@ -106,7 +106,7 @@ c) a következmények csökkentése;
 
 44. Lezárás: a tároló létesítmény egészét vagy annak egyes elhelyezési rendszereit érintő valamennyi olyan tevékenység és munkálat végrehajtása, amelyek a létesítmény biztonságos állapotának hosszú időn át történő fenntartásához szükségesek;
 
-45. Sugárvédelem műszaki követelményei: azon műszaki intézkedések összessége, amelyek arra irányulnak, hogy az ionizáló sugárzást kibocsátó anyagokat, berendezéseket alkalmazó tároló létesítményekben, így a tároló létesítményben munkát végzőknek, valamint a lakosságnak a tároló létesítmény üzemeltetéséből származó sugárterhelése ne haladja meg a hatályos előírásokban meghatározott értéket, és amelyekkel a sugárterhelés mindenkor az ésszerűen elérhető legalacsonyabb szinten tartható, továbbá a radioaktív hulladék keletkezése a gyakorlatilag lehetséges legkisebb mértékű lesz;
+45.[^4]
 
 46. Nemmegfelelőség: a követelmények nem teljesülése esetén egy megállapítás, amely rögzíti egy vagy több minőségi jellemző, vagy irányítási rendszer, rendszerelem eltérését vagy hiányát a meghatározott követelményekhez képest;
 
@@ -114,7 +114,7 @@ c) a következmények csökkentése;
 
 48. Nyomástartó berendezés és csővezeték: azok a nyomástartó edények, tartályok, csővezetékek, biztonsági szerelvények és nyomással igénybe vett tartozékok, amelyek valamelyik biztonsági osztályba tartoznak, továbbá a nyomástartó berendezéshez tartoznak a nyomással igénybe vett részekhez közvetlenül kapcsolódó elemek így különösen a karimák, a csonkok, a csatlakozó elemek, az alátámasztások, az emelőfülek;
 
-49. Optimálás: a lakossági vagy foglalkozási sugárterhelésnek kitett személyek sugárvédelmét úgy kell optimálni, hogy a személyi dózisok nagysága, a sugárterhelés valószínűsége, valamint a sugárterhelésnek kitett személyek száma az aktuális műszaki ismereteket, valamint a gazdasági és a társadalmi tényezőket figyelembe véve az ésszerűen elérhető legalacsonyabb szintű legyen;
+49.[^5]
 
 50. Önértékelés: a felső vezetőség és a vezetőség által lefolytatott rutinszerű és folyamatos eljárás, amely a felelősségi körükbe tartozó összes terület vonatkozásában a teljesítmény hatékonyságának értékelésére szolgál;
 
@@ -151,3 +151,8 @@ c) a következmények csökkentése;
 66. Visszanyerhetőség: a radioaktív hulladék elhelyezési rendszer lezárását megelőzően az ott elhelyezett radioaktív hulladék kiemelése a hulladékok elhelyezési rendszerből;
 
 67. Visszatartási pont: egy tevékenység folyamatában meghatározott olyan pont, amelyet követően a tevékenység csak egy kijelölt szervezet jóváhagyása után folytatható.
+
+[^2]: A 2. § 2. pontja a 28/2018. (II. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 6. pontja a 28/2018. (II. 28.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^4]: A 2. § 45. pontját a 28/2018. (II. 28.) Korm. rendelet 10. § 2. pontja hatályon kívül helyezte.
+[^5]: A 2. § 49. pontját a 28/2018. (II. 28.) Korm. rendelet 10. § 3. pontja hatályon kívül helyezte.

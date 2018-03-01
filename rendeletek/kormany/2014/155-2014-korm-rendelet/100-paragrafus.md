@@ -1,6 +1,6 @@
 ## 28. Éves jelentés
 
-100. § (1)[^14] Az engedélyesnek az éves jelentést első alkalommal a tároló létesítménnyel kapcsolatosan kiadott telephely kutatási keretprogram engedély véglegessé válását követő év március 31-ig, és azt követően minden év március 31-ig kell benyújtani az atomenergia-felügyeleti szervnek. Az éves jelentés elkészítésére és az atomenergia-felügyeleti szervhez történő benyújtására vonatkozó kötelezettség a passzív intézményes ellenőrzésre vonatkozó engedély véglegessé válásáig terjedő időszakra áll fenn.
+100. § (1)[^32] Az engedélyesnek az éves jelentést első alkalommal a tároló létesítménnyel kapcsolatosan kiadott telephely kutatási keretprogram engedély véglegessé válását követő év március 31-ig, és azt követően minden év március 31-ig kell benyújtani az atomenergia-felügyeleti szervnek. Az éves jelentés elkészítésére és az atomenergia-felügyeleti szervhez történő benyújtására vonatkozó kötelezettség a passzív intézményes ellenőrzésre vonatkozó engedély véglegessé válásáig terjedő időszakra áll fenn.
 
 (2) A tároló létesítmény üzemeltetési engedélyének kiadásáig terjedő időszakban az éves jelentésben ismertetni kell:
 
@@ -30,4 +30,4 @@ e) a biztonsági mutatók alakulását, és
 
 f) az engedélyes saját belső felügyeleti tevékenységét.
 
-[^14]: A 100. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 499. § c) és f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^32]: A 100. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 499. § c) és f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

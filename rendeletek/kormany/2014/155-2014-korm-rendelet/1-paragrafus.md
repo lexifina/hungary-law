@@ -48,8 +48,10 @@ d) a tároló létesítményben a munkavállalóknak a biztonsággal kapcsolatos
 
 e) a tároló létesítmény irányítási rendszerére;
 
-f) a tároló létesítmény sugárvédelmi műszaki követelményeire;
+f)[^1] a tároló létesítmény sugárvédelmi követelményeire;
 
 g) a tároló létesítmény üzemvitelét biztosító szervezetre; valamint
 
 h) a tároló létesítmény baleset-elhárítási tevékenységére.
+
+[^1]: Az 1. § f) pontja a 28/2018. (II. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.

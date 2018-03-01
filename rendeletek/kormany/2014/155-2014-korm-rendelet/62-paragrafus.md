@@ -14,4 +14,8 @@ c) a biztonság szempontjából fontos rendszerek és rendszerelemek állapot fe
 
 d) az üzemzavarok elhárítását szabályozó kezelési utasítást, és
 
-e) a baleset-elhárítási intézkedési tervet.
+e) a baleset-elhárítási intézkedési tervet,
+
+f)[^24] az MSSZ-t.
+
+[^24]: A 62. § f) pontját a 28/2018. (II. 28.) Korm. rendelet 5. § (4) bekezdése iktatta be.

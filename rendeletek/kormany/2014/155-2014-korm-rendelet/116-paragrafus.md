@@ -1,5 +1,5 @@
 ## 115. § Ez a rendelet a kihirdetése napján 23 órakor lép hatályba.
 
-116. §[^20]
+116. §[^39]
 
-[^20]: A 116–117. §-t a 457/2017. (XII. 28.) Korm. rendelet 500. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^39]: A 116–117. §-t a 457/2017. (XII. 28.) Korm. rendelet 500. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

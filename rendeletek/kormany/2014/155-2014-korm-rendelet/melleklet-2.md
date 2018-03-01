@@ -1,4 +1,4 @@
-2. melléklet a 155/2014. (VI. 30.) Korm. rendelethez
+2. melléklet a 155/2014. (VI. 30.) Korm. rendelethez[^43]
 
 Biztonsági Szabályzat
 
@@ -30,6 +30,8 @@ c) Biztosítani kell, hogy az üzemzavar és baleset jelentette kockázat elfoga
 
 2.2.1.0300. A radioaktív hulladék által jelentett veszélyeknek megfelelően differenciált megközelítést kell alkalmazni mind a normál állapot fenntartását, mind az üzemzavar és baleset kezelését biztosító rendszerekkel és intézkedésekkel szemben támasztott követelmények meghatározásánál.
 
+2.2.1.0310. Az üzemeltetési időszakban figyelembe kell venni a normál üzemeltetésből és a várható üzemzavarok és a tervezési alapba tartozó eseményekből származó, a lakosságot és a munkavállalókat ért sugárterhelést egyaránt. Figyelembe kell venni azokat a baleseteket is, amelyek jelentős radiológiai következményekkel járhatnak mind az előfordulás valószínűsége, mind a lehetséges dózisok nagysága tekintetében.
+
 II. Biztonsági funkciók
 
 2.2.1.0400. Az alapvető biztonsági funkciók teljesítése érdekében meg kell határozni az összes biztonsági funkciót, amelyeket a tároló létesítmény egyes rendszereinek, rendszerelemeinek teljesíteniük kell akár a tároló létesítmény lezárását megelőzően, akár az azt követő fázisban. Ha az adott tároló létesítmény esetében az releváns, biztonsági funkciókat kell meghatározni a szubkritikusság fenntartása, és a hő- vagy gázelvezetés biztosításra. A tároló létesítmény rendszereit és rendszerelemeit a tároló létesítmény üzemviteli és a lezárást követő fázis biztonságának fenntartása szerinti fontosság szempontjából osztályba kell sorolni. A biztonsági osztályba sorolásnak összhangban kell lennie az adott biztonsági funkció teljesítés elmaradásának vagy részleges teljesítésének következményeivel. Ennek megfelelően a rendszereket és rendszerelemeket legalább két biztonsági osztályba és egy nem biztonsági osztályba kell sorolni. A biztonsági osztályba sorolás alapján meg kell határozni a biztonság szempontjából fontos rendszerekkel, rendszerelemekkel és a kapcsolódó tevékenységekkel szemben támasztott irányítási követelményeket.
@@ -50,13 +52,13 @@ IV. Alapvető tervezési követelmények
 
 2.2.1.1000. A tároló létesítményt a normál üzemeltetési feltételek és korlátok, valamint a lehetséges üzemzavarok figyelembevételével kell megtervezni, szisztematikusan meghatározva az ehhez szükséges információkat. Azonosítani kell a tároló létesítmény és az egyes rendszerek és rendszerelemek azon tulajdonságait, amelyek szükségesek a biztonsági követelmények teljesítéséhez.
 
-2.2.1.1100. A radioaktív hulladék megfelelő mértékű elszigetelését a kezelést biztosító vagy hulladékelhelyezési rendszert alkotó műszaki gátak alkalmazásával kell megtervezni, olyan módon, hogy az egyes elemek kombinációjából kialakított összetett rendszer együttesen tudja biztosítani a szükséges mértékű és idejű elszigetelést és visszatartást.
+2.2.1.1100. A radioaktív hulladék megfelelő mértékű elzárását és elszigetelését a kezelést biztosító vagy hulladékelhelyezési rendszert alkotó műszaki gátak alkalmazásával kell megtervezni, olyan módon, hogy az egyes elemek kombinációjából kialakított összetett rendszer együttesen tudja biztosítani a szükséges mértékű és idejű elzárást és elszigetelést és visszatartást.
 
-2.2.1.1200. A tároló létesítményben a radioaktív anyag vagy sugárzás környezetbe kerülését épített vagy természetes gátak, ezek szükség szerinti kombinációjával, valamint szükséges mértékű többszörözésével, különböző fizikai és kémiai eszközökkel kell megvalósítani.
+2.2.1.1200. A tároló létesítményben a radioaktív anyag vagy sugárzás környezetbe kerülését épített vagy természetes gátak, ezek szükség szerinti kombinációjával, valamint szükséges mértékű többszörözésével, különböző fizikai és kémiai eszközökkel kell megakadályozni.
 
 2.2.1.1300. A radioaktív hulladék kezelését és elhelyezését biztosító rendszernek az izoláló képességét akkor is fenn kell tartani, ha egyetlen rendszerelem meghibásodik vagy nem teljesíti funkcióját, akár a meghibásodás, akár fokozatos tönkremenetel miatt. A tároló létesítményt a környezeti hatásoktól való védelme és a hulladék környezettől való elszigetelése szempontjából jelentett veszélyessége által meghatározott időtartamnak megfelelően kell megtervezni, létesíteni, üzemeltetni és lezárni, figyelembe véve a befogadó földtani környezet jellemzőit.
 
-2.2.1.1400. A kezelést és elhelyezést biztosító rendszernek a radioaktív hulladék környezettől való elválasztása és elszigetelése szempontjából megfelelően robosztusnak kell lennie, a terv szerinti állapotok hosszú idejű fenntartása céljából. A tároló létesítmény tartósan biztonságos állapotát passzív módon kell fenntartani. A tároló létesítmény üzemviteléhez szükséges rendszerek tervezésekor az ésszerű lehetséges mértékben passzív biztonsági megoldásokat kell alkalmazni.
+2.2.1.1400. A kezelést és elhelyezést biztosító rendszernek a radioaktív hulladék környezettől való elzárása és elszigetelése szempontjából megfelelően robosztusnak kell lennie, a terv szerinti állapotok hosszú idejű fenntartása céljából. A tároló létesítmény tartósan biztonságos állapotát passzív módon kell fenntartani. A tároló létesítmény üzemviteléhez szükséges rendszerek tervezésekor az ésszerű lehetséges mértékben passzív biztonsági megoldásokat kell alkalmazni.
 
 2.2.1.1500. Az elhelyezési rendszert olyan módon kell kialakítani, hogy az üzemviteli és a lezárás utáni időszakok biztonságára tekintettel optimalizált legyen. A hulladékelhelyezési rendszert olyan módon kell kialakítani, hogy a lezárást megelőzően a feltöltés során indokolt esetben a hulladékok visszanyerhetősége biztosítható legyen.
 
@@ -146,7 +148,7 @@ d) ha szükséges, a hulladékcsomagokra vonatkozó korlátok.
 
 2.2.4.0400. A környezetbe kibocsátásra kerülő radioaktív anyagok mérését és regisztrálását végző rendszereket kell kialakítani, figyelembe véve a normál és az attól eltérő állapotokat.
 
-2.2.4.0500. A kibocsátás telephelyi következményeinek csökkentése érdekében a kibocsátási helyek elhelyezkedésének és kialakításának meghatározása során figyelembe kell venni a környezeti terepviszonyokat, az időjárási feltételeket, az épületek és kémények közelségét, a kibocsátások aerodinamikáját és a közeli épületekben folyó műveletekkel való összeférhetőséget.
+2.2.4.0500. A kibocsátás telephelyi következményeinek csökkentése érdekében a kibocsátási helyek elhelyezkedésének és kialakításának meghatározása során figyelembe kell venni a környezeti terepviszonyokat, az időjárási feltételeket, az épületek, kibocsátási helyek és a közeli épületekben folyó műveletekkel való összeférhetőséget.
 
 2.2.4.0600. A potenciálisan radioaktívan szennyezett közegeket, felületeket radioaktívnak kell tekinteni, hacsak mérés nem igazolja az ellenkezőjét.
 
@@ -204,7 +206,7 @@ f) hogy a tároló létesítmény légnemű kibocsátásai csak az ellenőrzött
 
 2.2.7. Sugárvédelem műszaki követelményei
 
-2.2.7.0100. A tároló létesítmény területén tartózkodó személyek, a lakosság és a környezet az ionizáló sugárzás káros hatásaival szembeni védelme érdekében a vonatkozó sugáregészségügyi jogszabályokban meghatározottakon túl:
+2.2.7.0100. A tároló létesítmény területén tartózkodó személyek, a lakosság és a környezet az ionizáló sugárzás káros hatásaival szembeni védelme érdekében a vonatkozó jogszabályokban meghatározottakon túl:
 
 a) a sugárveszélyes tevékenységet indokolni kell,
 
@@ -228,9 +230,9 @@ g) a keletkező radioaktív anyagok mennyiségének és koncentrációjának cs�
 
 2.2.7.0500. A sugárzási és a felületi szennyezettség alapján zónák szerint csoportosítani kell a munkaterületeket. Biztosítani kell minden zónában a belépés és a benntartózkodás ellenőrzését, valamint a szükséges védőfelszereléseket.
 
-2.2.7.0600. Ahol az éves korlát jelentős hányadát kitevő sugárterhelésre kell számítani, ott jogosulatlan személyek bejutásának megelőzése érdekében a belépést olyan fizikai eszközökkel kell ellenőrizni, mint távműködtetésű zárak, zárt ajtók vagy behatolásjelző. Bármely személy azonnali menekülését az ilyen helyekről nem akadályozhatja semmilyen tervezési megoldás. Ahol ilyen ellenőrzési intézkedések ésszerűen nem valósíthatók meg, ott a védelem azonos szintjét kell más eszközökkel biztosítani.
+2.2.7.0600. Azokon a területeken, ahol a dózisteljesítmény szintje vagy potenciális növekménye, illetve a radioaktív szennyeződés mértéke, vagy annak potenciális növekménye azt indokolja, a jogosulatlan személyek bejutásának megelőzése érdekében a belépést fizikai eszközökkel különösen távműködtetésű zárakkal, zárt ajtókkal vagy behatolásjelzőkkel kell ellenőrizni, azonban ezen eszközök nem akadályozhatják meg bármely személy azonnali menekülését ezekről a helyekről. Ahol ilyen ellenőrzési intézkedések észszerűen nem valósíthatók meg, ott más eszközökkel kell biztosítani a védelem azonos szintjét.
 
-2.2.7.0700. Megfelelő módon biztosítani kell a szennyezett területekre belépő és munkát végző személyek védelmét és a légköri aktivitás, a felületi szennyezettség, valamint a közvetlen sugárzás terjedésének rendszeres időközönkénti műszeres ellenőrzését az egyes zónákon belül és a zónák között.
+2.2.7.0700. Biztosítani kell a szennyezett területekre belépő és munkát végző személyek védelmét és a légköri aktivitás, a felületi szennyezettség, valamint a sugárzás rendszeres időközönkénti műszeres ellenőrzését az egyes zónákon belül és a zónák között.
 
 2.2.7.0800. Ahol szükséges, ott a műszereket alkalmassá kell tenni az üzemi területek sugárzási és légköri aktivitási szintjeinek azonnali, megbízható és pontos jelzésére, és riasztórendszerrel kell ellátni a szintek jelentős megváltozásainak jelzésére. Minden ilyen eszköznek alkalmasnak kell lennie az éppen uralkodó környezeti viszonyok alapján megbízható kijelzésre és riasztásra.
 
@@ -238,13 +240,19 @@ g) a keletkező radioaktív anyagok mennyiségének és koncentrációjának cs�
 
 2.2.7.1000. Meg kell határozni a munkavállalók dózisterhelésének becslését, amelynél figyelembe kell venni az üzemi és munkaszervezési körülményeket is. A dózisbecslésnek be kell mutatnia a legnagyobb egyéni éves dózisértéket és az átlagos kollektív dózisértéket is.
 
-2.2.7.1100. A tároló létesítmény telephelyén a nem sugárveszélyes munkakörben foglalkoztatott személyek sugárterhelése becsléssel határozható meg. A telephelyen kívül élő lakosság sugárterhelését olyan számított dózisértékek alapján kell meghatározni, amelyek a lakosság meghatározott csoportjára vonatkoznak, és figyelembe veszik a tároló létesítményből eredő, lehetséges különböző forrásokból származó sugárterhelést is.
+2.2.7.1100. A tároló létesítmény telephelyén a nem sugárveszélyes munkakörben foglalkoztatott személyek sugárterhelése becsléssel kerül meghatározásra. A lakosság sugárterhelését olyan számított dózisértékek alapján kell meghatározni, amelyek a lakosság meghatározott csoportjára vonatkoznak, és figyelembe veszik a tároló létesítményből eredő, lehetséges különböző forrásokból származó sugárterhelést is.
 
 2.2.7.1200. A tervezés során el kell végezni a környezet radiológiai és epidemiológiai alapszint felvételét, mely viszonyítási alapul szolgál a tároló üzemeltetésekor és az intézményes ellenőrzés során kapott eredmények értékeléséhez.
 
 2.2.7.1300. A tároló létesítmény tervezése során meg kell határozni a környezet szükséges mértékű monitorozására, a monitorozás terjedelmére és gyakoriságára vonatkozó követelményeket mind az üzemeltetési, mind az azt követő intézményes ellenőrzési fázisra.
 
-2.2.7.1400. A telephely sugárzási viszonyainak ellenőrzésére, valamint a környezet monitorozására mérési programokat kell kidolgozni. Olyan megfigyelő-, ellenőrző- és jelzőrendszert kell tervezni és telepíteni, amely képes adatokat szolgáltatni a tároló létesítmény és környezete radiológiai állapotáról.
+2.2.7.1400. Olyan megfigyelő-, ellenőrző- és jelzőrendszert kell tervezni és telepíteni, amely képes adatokat szolgáltatni a tároló létesítmény és környezete radiológiai állapotáról. A telephely sugárzási viszonyainak ellenőrzésére, valamint a környezet monitorozására mérési programokat kell kidolgozni. A kidolgozott mérési program alkalmas legalább:
+
+a) a mért paraméterek változásainak kimutatására,
+
+b) a mért paraméterekből trendek készítésére,
+
+c) a kedvezőtlen folyamatok kellő időben történő előrejelzésére.
 
 2.2.7.1500. A sugárvédelmi követelmények teljesítéséhez olyan dozimetriai ellenőrző eszközöket kell telepíteni, amelyekkel normál állapotokban, üzemzavarok során, valamint – a lehetséges mértékben – a tervezési alapot meghaladó események esetén is biztosítani lehet a sugárzási szint mérését.
 
@@ -253,6 +261,14 @@ g) a keletkező radioaktív anyagok mennyiségének és koncentrációjának cs�
 a) a korlátok túllépésének megelőzésére, valamint
 
 b) a folyamatok, rendszer-, rendszerelem-állapot romlásának vagy váratlan esemény következtében a fellépő sugárzási szint növekedésének előrejelzésére.
+
+I. Dekontaminálás
+
+2.2.7.1700. Biztosítani kell az ellenőrzött zónáknak, az ezekbe be- és az ezekből kilépő személyeknek, az újrahasználható védőruházat és az innen származó tárgyak ki- és bevitelének ellenőrzését és – amennyiben szükséges – a dekontaminálását.
+
+2.2.7.2500. Azoknál a helyiségeknél, ahol előfordulhat szennyezett vizek kijutása, dekontaminálható felületeket kell létrehozni, valamint a szennyeződés terjedését meg kell akadályozni. Ott, ahol a szennyezett víz kijuthat, megfelelő határoló felületeket és a terjedés irányításához szükséges megoldást kell alkalmazni a szennyeződött felületek korlátozásához, a gyors elvezetéshez, valamint a kifolyt folyadék összegyűjtéséhez, talajszennyezést kizáró átmeneti tárolásához és elszállításához.
+
+2.2.7.2600. A jelentős sugárszennyeződéssel járó munkavégzéshez helyi telepítésű dekontamináló eszközöket kell biztosítani, vagy igazolni kell, hogy az adott körülmények között központi dekontamináló eszköz megfelelően alkalmazható.
 
 2.2.8. A biztonság igazolása
 
@@ -798,21 +814,15 @@ c) a szervezeti felépítés és az irányítási rendszer átalakítása eseté
 
 2.3.15. Sugárvédelemmel kapcsolatos műszaki követelmények
 
-2.3.15.0100. A tároló létesítmény területén tartózkodó személyek sugárterhelését, a környezetbe kibocsátott radioaktív anyagok mennyiségét és az üzemeltetéssel összefüggő lakossági többlet-sugárterhelést az ésszerűen elérhető legalacsonyabb szinten kell tartani.
+2.3.15.0100.–2.3.15.0500.
 
-2.3.15.0200. A tároló létesítmény területén tartózkodó személyek sugárterhelése, a környezetbe kibocsátott radioaktív anyagok mennyisége és az üzemeltetéssel összefüggő lakossági többlet-sugárterhelés nem haladhatja meg a hatósági határértéket.
+2.3.15/A. Sugárvédelmi program
 
-2.3.15.0300. A tároló létesítményt a munkavállalók sugárterhelésének optimalizálása mellett, az ésszerűen elérhető legalacsonyabb dózisterhelés és a sugárvédelmi szempontok érvényesítésével kell üzemeltetni.
+2.3.15.0510. A sugárvédelemről szóló kormányrendeletben megkövetelteken túlmenően az engedélyes sugárvédelmi programjára az e szabályzatban megkövetelteket is figyelembe kell venni.
 
-2.3.15.0400. A sugárveszélyes tevékenységek végrehajtásának indokoltságát igazolni kell.
+2.3.15.0520. Az üzemeltető szervezet a sugárvédelmi módszerek és eljárások felügyeletével, ellenőrzésével és auditálásokkal biztosítja a sugárvédelmi program helyes végrehajtását és céljainak teljesülését.
 
-2.3.15.0500. A sugárvédelmi szabályozásnak tartalmaznia kell azokat a tevékenységeket és felelősségi viszonyokat, amelyekkel:
-
-a) a sugárveszélyes tevékenység indokoltsága dokumentált és ellenőrizhető,
-
-b) az üzemeltető személyzet sugárterhelése, a tároló létesítményből a környezetbe kibocsátott radioaktív anyagok mennyisége és a tároló létesítménytől eredő lakossági többlet-sugárterhelés a hatóságilag előírt határérték alatt tartható, továbbá
-
-c) az üzemeltető személyzet, a tároló létesítmény területén tartózkodó személyek és a lakosság sugárterhelése, és a radioaktív kibocsátások az ésszerűen elérhető legalacsonyabb szinten tarthatóak.
+2.3.15.0530. A sugárvédelmi program alapján ellenőrizni kell a dózisteljesítményeket azon tevékenységek végzésének helyszínén, ahol a rendszereket és rendszerelemeket sugárzás hagyhatja el, különös tekintettel az ellenőrzési, karbantartási tevékenységre.
 
 2.3.15.0600. A sugárvédelmmel kapcsolatos műszaki követelmények betartása érdekében írott és jóváhagyott szabályozás szerint gondoskodni kell:
 
@@ -833,6 +843,104 @@ b) kellő időben jelzik a kedvezőtlen folyamatok bekövetkezését, a műszaki
 2.3.15.0800. A sugárvédelmet szabályozó dokumentációnak tartalmaznia kell olyan kidolgozott és jóváhagyott eljárásrendeket és technológiákat, amelyekkel az ellenőrzés eredményei alapján szükségessé váló korrekciós intézkedések megvalósíthatóak.
 
 2.3.15.0900. A sugárvédelmi tevékenységek felügyeletét olyan szakképzett, a tárolót ismerő szakemberekből álló szervezeti egységre kell bízni, amely szervezeti egység független az üzemviteli, karbantartási és létesítési tevékenységeket végző szervezetektől, és vezetője az engedélyes felső vezetősége előtt képes és köteles képviselni a sugárvédelmi szempontokat.
+
+2.3.15/B. Sugárvédelmi szervezet
+
+2.3.15.1000. A sugárvédelmi megbízott feladatait az engedélyes szervezetén belül létrehozott sugárvédelmi szervezet látja el. A szervezet az engedélyes szakképzett, a tároló létesítményt, az aktuális engedélyezési dokumentumokat, az üzemvitel és a létesítményhez kapcsolódó tevékenységek jelentette veszélyek sugárvédelmi vonatkozásait jól ismerő munkavállalóiból áll.
+
+2.3.15.1100. Biztosítani kell, hogy a sugárvédelmi szervezeti egység vezetősége közvetlenül jelenthessen az engedélyes felső vezetésének.
+
+2.3.15.1200. A sugárvédelmi megbízottnak és helyettesének sugárvédelmi szakértői tevékenységi engedéllyel kell rendelkeznie.
+
+2.3.15/C. Sugárvédelmi képzések tervezése
+
+2.3.15.1300. A sugárvédelemről szóló kormányrendelet által előírt képzési követelményeken túlmenően a sugárvédelmi oktatás keretében a radioaktívhulladék-tároló létesítmény speciális jellemzőit is ismertetni kell.
+
+2.3.15/D. Munkaterületek besorolása
+
+2.3.15.1400. A létesítmény területét a várható és a mérhető dózisteljesítményeket és radioaktív szennyezettséget, valamint a várható dózisokat figyelembe véve kell ellenőrzött, felügyelt és szabad zónákra osztani.
+
+2.3.15.1500. Az ellenőrzött zónán belüli munkahelyek, helyiségek besorolását, valamint a munkafeltételeket rendszeresen, továbbá a sugárvédelmet érintő változások esetén felül kell vizsgálni.
+
+2.3.15.1600. A potenciálisan szennyezett, valamint a sugárterhelés veszélyével fenyegető területeket be kell azonosítani, és meg kell jelölni úgy, hogy az oda belépő és az ott tartózkodó személyek tisztában legyenek a sugárzási viszonyokkal és hatásaikkal.
+
+2.3.15.1700. A létesítmény azon területei esetében, ahol a jogszabályban, hatósági határozatban, valamint a belső szabályozó dokumentumokban rögzített korlátok valamelyikének jelentős hányadát kitevő sugárterhelésre lehet számítani, műszaki megoldások és adminisztratív intézkedések alkalmazásával ellenőrizni, szabályozni és korlátozni kell a belépést és a bent tartózkodást. Az ellenőrzésnek, szabályozásnak és korlátozásnak arányosnak kell lennie a sugárterhelés kockázatával.
+
+2.3.15.1800. A potenciálisan radioaktívan szennyezett közegeket, felületeket radioaktívnak kell tekinteni, hacsak mérés nem igazolja az ellenkezőjét.
+
+2.3.15/E. A sugárveszélyes munkák optimálása
+
+2.3.15.1900. A sugárvédelem optimálásánál figyelembe kell venni a létesítmény típusát, a tervezési szempontokat, valamint a létesítmény életciklusa során történő olyan üzemeltetési változásokat, eseményeket, átalakításokat, melyek befolyással lehetnek a sugárvédelem kialakítására.
+
+2.3.15/F. Dózismegszorítás
+
+2.3.15.2000. A sugárvédelem optimálásához a sugárvédelemre vonatkozó kormányrendeletben megkövetelteken túlmenően ellenőrzési szinteket kell alkalmazni a munkavállalókra.
+
+2.3.15.2100. A foglalkozási dózismegszorítást a foglalkozási sugárterhelésnek kitett személyeknek egy adott létesítménytől vagy eljárástól származó személyi dózisára vonatkozó tervezési értékként, egy megfelelően meghatározott, adott időtartam során kapott, személyre vetített effektív vagy egyenértékdózisként kell meghatározni.
+
+2.3.15.2200. A dózismegszorítási javaslatot a következő szempontok szerint kell megtenni:
+
+a) a sugárzás jellege és természete, valamint annak megelőzésére szolgáló eszközök,
+
+b) regionális tényezők, és
+
+c) várható haszon figyelembevétele.
+
+2.3.15.2300. A dóziskorlátok és dózismegszorítások betartása érdekében az engedélyesnek dozimetriai és technológiai figyelmeztetési szinteket kell megállapítania az engedélyezett határértékek alatt. Ezen figyelmeztetési szinteket az MSSZ-ben kell rögzíteni. A vonatkoztatási szintek esetleges túllépését az engedélyesnek ki kell vizsgálnia.
+
+2.3.15.2400. A technológiai figyelmeztetési szinteket úgy kell definiálni, hogy kellő időben jelezzék a folyamatoknak, a rendszerelemek állapotának romlását vagy a sugárveszély váratlan események miatti növekedését.
+
+2.3.15/G. Árnyékolás
+
+2.3.15.2500. A dózisok csökkentésére az észszerűen megvalósítható legmagasabb szintű sugárvédelmi árnyékolás alkalmazása szükséges.
+
+2.3.15.2600. Az engedélyesnek biztosítania kell különböző típusú és anyagú árnyékoló eszközöket, melyek a különböző munkák ideiglenes árnyékolásához szükségesek.
+
+2.3.15/H. Egyéni védőeszközök
+
+2.3.15.2700. Az engedélyesnek ellenőriznie és szabályoznia kell a védőeszközök használatát, gondoskodnia kell a megfelelő állapotukról, valamint biztosítania kell, hogy a felhasználók megismerjék a rendeltetésszerű használatukat.
+
+2.3.15/I. Dózistervezés
+
+2.3.15.2800. A sugárvédelmi szempontból kiemelkedő jelentőségű munkafolyamatok elvégzéséből eredő foglalkozási sugárterhelésre dózistervezést kell készíteni.
+
+2.3.15/J. Radioaktív anyagok, források minimalizálása
+
+2.3.15.2900. Törekedni kell a munkaterületen szükségtelenül ott lévő radioaktív anyagok eltávolítására.
+
+2.3.15/K. Munkahelyi ellenőrző és monitoring rendszer
+
+Személyi dozimetriai ellenőrzés
+
+2.3.15.3000. Az engedélyesnek biztosítania kell az ellenőrzött területén tartózkodó személyek egyéni sugárvédelmi ellenőrzését passzív működésű és folyamatosan kiolvasható, elektronikus doziméterek alkalmazásával is, valamint szükség szerint béta-, illetve neutron doziméterek használatával, valamint a belső sugárterhelés akkreditált eljárásokkal történő meghatározásával.
+
+2.3.15.3100. Az engedélyes a beszállítóknak és a hatóságnak a sugárveszélyes munkahelyen végzett munkájuk során azonos védelmet biztosít, mint az engedélyes saját munkavállalóinak.
+
+2.3.15.3200. A létesítmények területén látogatást tevő személyek mellé az engedélyesnek biztosítania kell megfelelően képzett és a helyi sugárvédelmi szabályokban jártas munkavállaló kíséretét. A látogatókat a követendő magatartásról tájékoztatni kell, és őket megfelelő védőfelszereléssel kell ellátni.
+
+2.3.15/L. Kibocsátás-ellenőrzés
+
+2.3.15.3300. A környezeti monitoring programnak a megfelelő szintű megbízhatósággal képesnek kell lennie a kritikus csoport sugárterhelésének meghatározására.
+
+2.3.15.3400. A kibocsátás-ellenőrző rendszert úgy kell megtervezni, hogy közel valós időben legyen képes észlelni a kibocsátások jelentős növekedését. A rendszernek az észlelésről közel valós időben visszajelzést kell biztosítania.
+
+2.3.15.3500. A sugárvédelmi és a környezeti monitoring rendszernek úgy kell felépülnie, hogy egy-egy elem kiesése ne befolyásolja a rendszer többi tagjának működőképességét.
+
+2.3.15.3600. A létesítmény üzembe helyezése előtt a sugárvédelmi és környezeti monitoring rendszert a valóságoshoz a lehető legjobban közelítő módon, tesztprogrammal kell ellenőrizni. Ennek során szimulálni kell a baleseti helyzetek rendszerre vonatkozó következményeit, a meghibásodásokat, továbbá a környezeti hatásokat is (hőmérséklet, túlnyomás, nedvesség, vibráció, sugárzás).
+
+2.3.15.3700. A rendszerek, rendszerelemek üzemeltetés során használt szűrőberendezések hatékonyságát, hatásfokát rendszeresen ellenőrizni kell és fenn kell tartani.
+
+2.3.15/M. Dekontaminálás
+
+2.3.15.3800. A dekontaminálás lehetőségét minden olyan helyen meg kell teremteni, ahol az üzemeltető személyzet sugárterhelését észszerűen csökkenteni lehet.
+
+2.3.15.3900. Biztosítani kell az ellenőrzött zónáknak, az ezekbe be- és az ezekből kilépő személyeknek, az újrahasználható védőruházat és az innen származó tárgyak ki- és bevitelének ellenőrzését és – amennyiben szükséges – a dekontaminálását.
+
+2.3.15.4000. A dekontaminálás hely- és erőforrásigénye nem csökkentheti a nukleáris biztonság szintjét.
+
+2.3.15.4100. A dekontaminálás során a kiinduló és az elérendő állapotot meg kell határozni, valamint az elért állapotot rögzíteni kell.
+
+2.3.15.4200. A dekontaminálás lefolytatásához biztosítani kell a megfelelően képzett személyzetet, valamint az irányításukhoz egy, a dekontaminálásban jártas szakembert kell alkalmazni.
 
 2.3.16. Az üzemeltetés során keletkező radioaktív hulladékok kezelése
 
@@ -889,6 +997,8 @@ Telephelyen belüli baleset-elhárítási felkészülés
 2.3.17.0900. Az engedélyes felkészül a veszélyhelyzet során történtek, a végrehajtott intézkedések, a veszélyhelyzeti kommunikáció tartalmának dokumentálására, valamint a lakosság és a közvélemény tájékoztatására.
 
 2.3.17.1000. A baleset-elhárítási szervezetben feladatokat ellátó személyek számára alapképzést és szabályzatban meghatározott rendszerességgel frissítő, valamint gyakorlati kiképzést kell tartani a baleset-elhárítási szervezetben rájuk ruházott tevékenységeik elsajátítása, begyakorlása érdekében.
+
+2.3.17.1010. Biztosítani kell, hogy a Nukleárisbaleset-elhárítási Intézkedési Tervben meghatározott munkavállalók megfelelő és rendszeresen aktualizált tájékoztatást kapjanak arról, hogy beavatkozásuk milyen egészségügyi kockázatokat rejt, illetve arról, hogy ilyen esetben milyen óvintézkedéseket kell hozni. Ennek a tájékoztatásnak a lehetséges veszélyhelyzetek teljes spektrumára és a beavatkozás típusára is ki kell terjednie. Veszélyhelyzet bekövetkeztekor a tájékoztatást az adott eset speciális körülményeinek figyelembevételével azonnal megfelelő módon ki kell egészíteni.
 
 2.3.17.1100. A baleset-elhárítási szervezet baleset-elhárítási feladatai ellátásának képességéről rendszeres időközönként tartott gyakorlatokkal kell meggyőződni. Az engedélyes a baleset-elhárítási képzésre, gyakorlatozásra hosszabb távú és éves tervet készít. Legalább kétévente egyszer az egész szervezetet érintő gyakorlatot kell tartani, amelybe a telephelyen kívüli baleset-elhárításért felelős szervezeteket is be kell vonni.
 
@@ -1041,3 +1151,5 @@ e) az elhelyezett radioaktív hulladékokra és az elhelyezést biztosító kör
 a) hogy az ellenőrzési program eredményei összhangban vannak a biztonsági jelentésben foglaltakkal, és
 
 b) a terület hasznosításának bármilyen korlátozása, továbbá bármely más intézkedés, amely a lezárás utáni időszakban indokolt lehet, meghatározásra került.
+
+[^43]: A 2. melléklet a 28/2018. (II. 28.) Korm. rendelet 8. §-a szerint módosított szöveg.

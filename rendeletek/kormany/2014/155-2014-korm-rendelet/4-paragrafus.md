@@ -4,7 +4,7 @@
 
 ## 4. Biztonsági célok
 
-4. § (1) A radioaktív hulladékok tároló létesítményben való átmeneti tárolásának és végleges elhelyezésének biztonsági célja a radioaktív hulladékban lévő, az emberre és a környezetre veszélyt jelentő radioaktív izotópok elszigetelése a bioszférától és az arra hatást gyakorló környezeti elemektől, ezáltal a jelenlegi és a jövendő nemzedékek, valamint a környezet védelme.
+4. § (1)[^7] A radioaktív hulladékok tároló létesítményben való átmeneti tárolásának és végleges elhelyezésének biztonsági célja a radioaktív hulladékban lévő, az emberre és a környezetre veszélyt jelentő radioaktív izotópok elzárása és elszigetelése a bioszférától és az arra hatást gyakorló környezeti elemektől, ezáltal biztosítva a jelenlegi és a jövendő nemzedékek, valamint a környezet védelme.
 
 (2) Általános biztonsági célkitűzés, hogy az ember és a környezet védelme biztosított legyen az ionizáló sugárzás káros hatásaival szemben.
 
@@ -15,3 +15,5 @@
 (5) Az általános biztonsági célkitűzést elsősorban a tároló létesítmény biztonsági követelményeknek megfelelő kialakításával, továbbá szükséges mértékű, hatékony biztonsági intézkedésekkel és azok megfelelő színvonalú fenntartásával kell biztosítani. A tároló létesítmény biztonság szempontjából fontos rendszereit, rendszerelemeit úgy kell megtervezni, hogy a tároló létesítmények üzemeltetésével összefüggő általános biztonsági célkitűzés, valamint az azt megalapozó sugárvédelmi és műszaki biztonsági célkitűzés megvalósítható legyen.
 
 (6) A (3) és (4) bekezdés szerinti biztonsági célkitűzéseket a passzív intézményes ellenőrzésre történő áttérésig kell érvényesíteni.
+
+[^7]: A 4. § (1) bekezdése a 28/2018. (II. 28.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
