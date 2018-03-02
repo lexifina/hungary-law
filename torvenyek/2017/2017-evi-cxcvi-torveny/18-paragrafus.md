@@ -1,8 +1,8 @@
-18. § (1) A Ht.
+18. § (1)
 
 1–3.
 
-4. 12. § (2) bekezdésében a „(2a) bekezdésben és” szövegrész helyébe a „(2a) és (2c) bekezdésben, valamint” szöveg,
+4.
 
 5–22.
 
