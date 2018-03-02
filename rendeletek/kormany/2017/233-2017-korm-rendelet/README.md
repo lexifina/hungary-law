@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-233-20-
 | 2017-10-06 | 2017-233-20-22.5 | 292/2017. (X. 5.) Korm. rendelet |
 | 2017-11-12 | 2017-233-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-11-13 | 2017-233-20-22.7 | 2010: CXXX. törvény |
+| 2018-03-02 | 2017-233-20-22.8 | 2010: CXXX. törvény |
