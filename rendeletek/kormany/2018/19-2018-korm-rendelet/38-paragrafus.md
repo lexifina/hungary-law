@@ -10,6 +10,4 @@
 
 (2) A hatóság az (1) bekezdés szerinti határidő eredménytelen elteltét követően a Kötv. 61/K. § (6) bekezdése szerint jár el.
 
-(3)[^1]
-
-[^1]: A 38. § (3) bekezdése az 52. § (2) bekezdése alapján 2018. március 2-án lép hatályba.
+(3) Amennyiben az (1) bekezdés szerinti kötelezett az egyedi településképi követelményeket a hatósági döntésben megállapított határidőben nem teljesíti, a hatóság településképi kötelezésben a Kötv. 61/K. § (7) bekezdése szerint településkép-védelmi bírságot (a továbbiakban: bírság) szabhat ki, amely során a hatóság a 39. §-ban foglaltak szerint mérlegeli az egyedi településképi követelmény sérelmének súlyát és a jogsértő állapot időtartamát.
