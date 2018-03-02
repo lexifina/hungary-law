@@ -1,3 +1,0 @@
-## 6. § Az R. 7. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) A biztonsági övezetben, illetve új nukleáris létesítmény vagy radioaktívhulladék-tároló tervezett telephelyétől számított 500 méteres körzetben tervezett létesítmény, építmény beruházója, valamint engedélyköteles tevékenység kezdeményezője elemzi a létesítménynek, építménynek, valamint a tevékenységnek a meglévő, illetve a tervezett nukleáris létesítmény biztonságára gyakorolt lehetséges hatását. Az elemzés eredményét tartalmazó dokumentumot a hatáskörrel rendelkező hatósághoz benyújtott engedély iránti kérelemhez kell mellékelni.”

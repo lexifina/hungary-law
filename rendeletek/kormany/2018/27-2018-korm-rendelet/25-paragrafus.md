@@ -1,1 +1,0 @@
-## „(7) A sugárvédelmi képzések tematikája általános sugárvédelmi és legalább egy, a képzésen részt vevők munkahelyének és munkakörének megfelelő sugárvédelmi szakirány sajátos ismereteire épül. A sugárvédelmi képzettség csak az adott szakiránynak vagy szakirányoknak megfelelő sugárveszélyes munkahelyeken történő munkavégzésre jogosít.”

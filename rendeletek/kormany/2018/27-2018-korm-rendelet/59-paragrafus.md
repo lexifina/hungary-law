@@ -1,3 +1,5 @@
-## 58. § A lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről szóló 489/2015. (XII. 30.) Korm. rendelet 5. § (3) bekezdésében az „elnökét” szövegrész helyébe az „elnökét az OAH főigazgatójának javaslatára” szöveg lép.
+## 58. §[^8]
 
 ## 6. A hiányzó, a talált, valamint a lefoglalt nukleáris és más radioaktív anyagokkal kapcsolatos bejelentésekről és intézkedésekről, továbbá a nukleáris és más radioaktív anyagokkal kapcsolatos egyéb bejelentést követő intézkedésekről szóló 490/2015. (XII. 30.) Korm. rendelet módosítása
+
+[^8]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
