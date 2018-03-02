@@ -1,6 +1,6 @@
-## 25/A. §[^37] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 2. § (3) bekezdés 29. és 30. pontjának hatálybalépése[^38] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
+## 25/A. §[^38] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 2. § (3) bekezdés 29. és 30. pontjának hatálybalépése[^39] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
 
-26. § (1)[^39] Ez a rendelet
+26. § (1)[^40] Ez a rendelet
 
 a) a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet,
 
@@ -124,6 +124,6 @@ j) a kedvtelési célú vízi járművekről és a motoros vízi sporteszközök
 
 k) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelvnek
 
-[^37]: A 25/A. §-t a 171/2017. (VI. 29.) korm. rendelet 23. § (2) bekezdése iktatta be.
-[^38]: A hatálybalépés időpontja 2017. július 1.
-[^39]: A 26. § (1) bekezdése a 233/2017. (VIII. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^38]: A 25/A. §-t a 171/2017. (VI. 29.) korm. rendelet 23. § (2) bekezdése iktatta be.
+[^39]: A hatálybalépés időpontja 2017. július 1.
+[^40]: A 26. § (1) bekezdése a 233/2017. (VIII. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
