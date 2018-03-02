@@ -1,1 +1,0 @@
-## 1. § A nemzetgazdasági miniszter irányítása alá tartozó központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 49/2017. (XII. 29.) NGM rendelet (a továbbiakban: Rendelet) 7. melléklete az 1. melléklet szerint módosul.
