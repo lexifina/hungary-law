@@ -1,4 +1,4 @@
-## 17. §[^20]
+## 17. §[^22]
 
 ## 18. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 14. § 2018. május 10-én lép hatályba.
 
-[^20]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

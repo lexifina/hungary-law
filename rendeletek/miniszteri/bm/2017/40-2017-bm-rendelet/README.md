@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-40-20-0
 | 2018-01-01 | 2017-40-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-01-02 | 2017-40-20-0A.4 | 2010: CXXX. törvény |
 | 2018-03-01 | 2017-40-20-0A.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2018-03-02 | 2017-40-20-0A.6 | 2010: CXXX. törvény |
