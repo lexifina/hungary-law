@@ -1,21 +1,25 @@
+## 11/A. §[^18] A 8/A. § szerinti elismeréssel az adományozást igazoló oklevél és a 33. melléklet szerinti emléktábla jár.
+
 ## 12. § A(z)
 
 a) 1–2. §-ban és a 4–5. §-ban meghatározott díjak leírását az 1. melléklet tartalmazza,
 
 b) 3. §-ban meghatározott díj leírását a 2. melléklet tartalmazza,
 
-c)[^17]
+c)[^19]
 
 d) 7. §-ban meghatározott díjak leírását a 4. melléklet tartalmazza,
 
 e) 8. §-ban meghatározott díj leírását az 5. melléklet tartalmazza,
 
-f) 9. §-ban meghatározott díj leírását a 6. melléklet tartalmazza,
+f)[^20] 8/A. §-ban meghatározott díj leírását a 33. melléklet tartalmazza,
 
-g)[^18]
+g)[^21] 9. §-ban meghatározott díj leírását a 6. melléklet tartalmazza,
 
-h)[^19] 9/B. §-ban meghatározott díj leírását a 29. melléklet tartalmazza.
+h)[^22] 9/B. §-ban meghatározott díj leírását a 29. melléklet tartalmazza.
 
-[^17]: A 12. § c) pontját az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 5. pontja hatályon kívül helyezte.
-[^18]: A 12. § g) pontját a 17/2013. (V. 9.) BM rendelet 3. §-a iktatta be, hatályon kívül helyezte az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 6. pontja.
-[^19]: A 12. § h) pontját a 21/2014. (III. 10.) BM rendelet 4. §-a iktatta be.
+[^18]: A 11/A. §-t a 4/2018. (II. 23.) BM rendelet 2. §-a iktatta be.
+[^19]: A 12. § c) pontját az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 5. pontja hatályon kívül helyezte.
+[^20]: A 12. § f) pontja a 4/2018. (II. 23.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^21]: A 12. § g) pontját újonnan a 4/2018. (II. 23.) BM rendelet 3. § (2) bekezdése iktatta be.
+[^22]: A 12. § h) pontját a 21/2014. (III. 10.) BM rendelet 4. §-a iktatta be.

@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-37-20-0
 | 2016-01-01 | 2012-37-20-0A.14 | 76/2015. (XII. 22.) BM rendelet |
 | 2016-07-17 | 2012-37-20-0A.15 | 29/2016. (VII. 15.) BM rendelet |
 | 2017-01-01 | 2012-37-20-0A.16 | 58/2016. (XII. 22.) BM rendelet |
+| 2018-03-03 | 2012-37-20-0A.17 | 4/2018. (II. 23.) BM rendelet |
