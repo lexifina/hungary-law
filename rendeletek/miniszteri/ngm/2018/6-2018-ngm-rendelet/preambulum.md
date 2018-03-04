@@ -1,0 +1,1 @@
+A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (4) bekezdés a) pont ad) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 6. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
