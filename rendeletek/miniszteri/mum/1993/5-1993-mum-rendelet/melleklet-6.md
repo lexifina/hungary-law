@@ -192,7 +192,7 @@
 
 ## A kódnégyzetekbe a sérült munkavállaló foglalkoztatási jogviszonyának jellegét (önfoglalkoztató, munkaviszony, egyéb foglalkozási jogviszony, ismeretlen), tartamát (határozott vagy határozatlan idejű), valamint a munkaidő mértékét (rész- vagy teljes munkaidő) kifejező kódszámot kell beírni.
 
-## 6K86206M_3
+## 8K01266M_3
 
 | Kód | Megjelölés |
 
@@ -304,7 +304,7 @@
 
 ## Annak a sérülésnek a típusát kell megjelölni, amely a munkaképtelenséget okozta. Többszörös sérülés esetén a legsúlyosabb sérülést kell figyelembe venni. Például: ha a munkavállaló elesés következtében ficamot és zárt törést szenvedett, akkor a „Zárt törések” elnevezésű (021) kódot kell beírni. Amennyiben az egyéb típusú kódok és megjelölések kerülnek kiválasztásra (019, 029, 039, 059, 069, 079, 089, 099, 109, 119, 999), akkor a (H) blokk „Mellékletek, megjegyzések” rovatában kell a sérülést pontosan feltüntetni.
 
-## 6K86206M_6
+## 8K01266M_6
 
 | Kód | Megjelölés | Ide tartozik | Nem tartozik ide |
 
@@ -404,7 +404,7 @@
 
 ## Azt a testrészt kell pontosan megjelölni, amely a baleset során a legsúlyosabb mértékben sérült. Például: ha a bal kézen a mutató ujj sérült meg, akkor az „Ujj(ak)” elnevezésű (54-es) kódot kell beírni. Amennyiben az egyéb típusú kódok és megjelölések kerülnek kiválasztásra (19, 29, 39, 49, 59, 69, 99), akkor a (H) blokk „Mellékletek, megjegyzések” rovatában kell a sérült testrészt pontosan feltüntetni.
 
-## 6K86206M_7
+## 8K01266M_7
 
 | Kód | Megjelölés |
 
@@ -520,21 +520,21 @@
 
 ## 7. A baleset földrajzi helye:
 
-## Az a földrajzi hely, ahol a munkavállaló balesete bekövetkezett. Magyarországon történt baleset esetén szövegesen be kell írni a baleset helyét a pontos cím (helységnév, közterület, házszám) megjelölésével. A kódnégyzetekbe a jegyzőkönyv kitöltésekor hatályos, a KSH által kiadott területi számjelrendszerben szereplő, az adott helységhez (településhez) tartozó NUTS kódot kell beírni.
+## Az a földrajzi hely, ahol a munkavállaló munkabalesete bekövetkezett. Magyarországon történt munkabaleset esetén szövegesen be kell írni a munkabaleset helyét a pontos cím (irányítószám, helységnév, közterület, házszám) megjelölésével. A kódnégyzetekbe a jegyzőkönyv kitöltésekor hatályos, a területi számjelrendszerről szóló miniszteri rendeletben szereplő, az adott helységhez (településhez) tartozó településazonosító törzsszámot kell beírni.
 
 ## Példa a rovat helyes kitöltésére:
 
-## A baleset helyszíne a munkáltató Vezseny, Fő út 23. szám alatti telephelye
+## A munkabaleset helyszíne a munkáltató Vezseny, Fő út 23. szám alatti telephelye.
 
-| 7. A baleset földrajzi helye: Vezseny, Fő út 23. | H | U | 3 | 2 | 2 | 0 | 7 |
+| 7. A baleset földrajzi helye: 5093 Vezseny, Fő út 23. | 2 | 1 | 1 | 5 | 7 |
 
-## Ha a baleset lakott területen kívül következett be és egyértelműen nem állapítható meg a település, akkor a baleset helyszíne szerinti megyét kell figyelembe venni és a megyén belül legközelebb eső település nevét és NUTS kódját kell beírni. Közúton történt baleset esetén a közút számát és a km szelvényét kell feltüntetni. Ismeretlen közút vagy magánút esetén a baleset helyszíne szerinti megyét kell figyelembe venni és a megyén belül legközelebb eső település nevét és NUTS kódját kell beírni.
+## Ha a munkabaleset lakott területen kívül következett be, és egyértelműen nem állapítható meg a település, akkor a munkabaleset helyszíne szerinti megyét kell figyelembe venni, és a megyén belül legközelebb eső település nevét és településazonosító törzsszámát kell beírni. Közúton történt munkabaleset esetén a közút számát és a km szelvényét kell feltüntetni. Ismeretlen közút vagy magánút esetén a munkabaleset helyszíne szerinti megyét kell figyelembe venni, és a megyén belül legközelebb eső település nevét és településazonosító törzsszámát kell beírni.
 
-## Abban az esetben, ha a baleset külföldön következett be, akkor szövegesen be kell írni az ország és a település nevét. A kódnégyzetekbe EU tagállamok esetén a jegyzőkönyv kitöltésekor hatályos, az Eurostat által kiadott NUTS kódokat kell beírni, az első két kódnégyzetbe az országot jelölő betűket, a következő három kódnégyzetbe a baleset helyszíne szerinti megye kódot. Ha külföldi lakott területen kívül vagy külföldi közúton történt a baleset és egyértelműen nem állapítható meg a megyekód, akkor a baleset helyszíne szerinti régió kódot kell beírni. Nem EU tagállam esetén az első három kódnégyzetbe a NEU kifejezést, ha nem áll rendelkezésre egyértelmű információ a baleset földrajzi helyéről, akkor az UNK kifejezést kell beírni.
+## Abban az esetben, ha a munkabaleset külföldön következett be, akkor szövegesen be kell írni az ország és a település nevét. A kódnégyzetekbe EU-tagállamok esetén a jegyzőkönyv kitöltésekor hatályos, az Eurostat által kiadott NUTS kódokat kell beírni, az első két kódnégyzetbe az országot jelölő betűket, a következő három kódnégyzetbe a munkabaleset helyszíne szerinti megyekódot. Nem EU-tagállam esetén az első három kódnégyzetbe a NEU kifejezést, ha nem áll rendelkezésre egyértelmű információ a munkabaleset földrajzi helyéről, akkor az UNK kifejezést kell beírni.
 
-## Például: ha a baleset Németországban, Hamburg közeli autópályán történt, akkor a rovatot az alábbiak szerint kell kitölteni:
+## Például: ha a munkabaleset Németországban, Hamburg közeli autópályán történt, akkor a rovatot az alábbiak szerint kell kitölteni:
 
-| 7. A baleset földrajzi helye: Németország, Hamburg | D | E | 6 | 0 | 0 |  |  |
+| 7. A baleset földrajzi helye: Németország, Hamburg | D | E | 6 | 0 | 0 |
 
 ## 8. A sérülés súlyossága:
 
@@ -794,6 +794,6 @@
 
 ## A munkabaleseti esemény elemzését (vizsgálatát, kódolását) követően a munkavédelmi hatóság részéről eljáró személy köteles a nevét, igazolvány számát, a felülvizsgálat lezárásának napját beírni, majd ezt követően a jegyzőkönyvet aláírni.
 
-6. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^41]
+6. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^42]
 
-[^41]: A Vhr. 6. számú mellékletét a 182/2009. (IX. 10.) Korm. rendelet 686. § (2) bekezdés 1. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: A Vhr. 6. számú mellékletét a 182/2009. (IX. 10.) Korm. rendelet 686. § (2) bekezdés 1. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

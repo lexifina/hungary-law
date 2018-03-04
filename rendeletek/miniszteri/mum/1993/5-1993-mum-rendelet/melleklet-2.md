@@ -1,4 +1,4 @@
-2. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^36]
+2. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^37]
 
 Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglalkoztatásának feltételei
 
@@ -292,4 +292,4 @@ Tanulókat, hallgatókat abban az arányban kell a munkavállalói létszámhoz 
 
 7. A munkáltató köteles a besorolását veszélyességi osztály vagy létszám kategória megváltozásakor módosítani és a besorolás megfelelősségét évenként felülvizsgálni, valamint mindezt írásban dokumentálni.
 
-[^36]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított, a 41/2011. (X. 14.) NGM rendelet 9. §-a, 10. § (1) bekezdése, a 33/2016. (IX. 8.) NGM rendelet 2. § (1) bekezdése, a 62/2016. (XII. 29.) NGM rendelet 45. § (3) bekezdése szerint módosított szöveg.
+[^37]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított, a 41/2011. (X. 14.) NGM rendelet 9. §-a, 10. § (1) bekezdése, a 33/2016. (IX. 8.) NGM rendelet 2. § (1) bekezdése, a 62/2016. (XII. 29.) NGM rendelet 45. § (3) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-1/b. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^35]
+1/b. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^36]
 
 Az Mvt. 21. §-ának (5) bekezdése alá tartozó egyes veszélyes munkaeszközök jegyzéke
 
@@ -8,4 +8,4 @@ Az Mvt. 21. §-ának (5) bekezdése alá tartozó egyes veszélyes munkaeszköz�
 
 3. Személyemelésre ideiglenesen felhasználható emelőberendezések
 
-[^35]: Az 1/b. számú melléklet a 2/2007. (II. 9.) SZMM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^36]: Az 1/b. számú melléklet a 2/2007. (II. 9.) SZMM rendelet 2. § (1) bekezdésével megállapított szöveg.
