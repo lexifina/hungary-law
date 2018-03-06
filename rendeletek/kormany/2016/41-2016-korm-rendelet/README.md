@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-41-20-2
 | 2016-09-08 | 2016-41-20-22.3 | 272/2016. (IX. 5.) Korm. rendelet |
 | 2017-03-06 | 2016-41-20-22.4 | 36/2017. (III. 6.) Korm. rendelet |
 | 2017-09-06 | 2016-41-20-22.5 | 247/2017. (VIII. 31.) Korm. rendelet |
+| 2018-03-06 | 2016-41-20-22.6 | 21/2018. (II. 16.) Korm. rendelet |

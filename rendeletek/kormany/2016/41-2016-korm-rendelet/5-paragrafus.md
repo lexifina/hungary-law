@@ -4,6 +4,6 @@
 
 5. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^1] Ez a rendelet 2018. március 7-én hatályát veszti.
+(2)[^2] Ez a rendelet 2018. szeptember 7-én hatályát veszti.
 
-[^1]: Az 5. § (2) bekezdése a 247/2017. (VIII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 5. § (2) bekezdése a 21/2018. (II. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
