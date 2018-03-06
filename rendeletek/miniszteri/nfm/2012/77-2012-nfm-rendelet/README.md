@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-77-20-2
 | 2016-04-26 | 2012-77-20-2W.12 | 9/2016. (IV. 25.) NFM rendelet |
 | 2016-07-16 | 2012-77-20-2W.13 | 46/2014. (XI. 19.) NFM rendelet |
 | 2016-08-05 | 2012-77-20-2W.14 | 31/2016. (VII. 28.) NFM rendelet |
+| 2018-03-06 | 2012-77-20-2W.15 | 1/2018. (VI. 25.) NVTNM rendelet |
