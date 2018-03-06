@@ -1,0 +1,1 @@
+## 10. § A kincstár az állami kárrendezés összegének euróra történő átváltásánál e kormányrendelet kihirdetését megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett, két tizedesjegy pontossággal meghatározott forint/euró devizaárfolyamot alkalmazza.
