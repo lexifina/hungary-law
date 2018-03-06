@@ -28,6 +28,6 @@
 
 | 13. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet az 59/2014. (III. 4.) Korm. rendelethez[^10]
+2. melléklet az 59/2014. (III. 4.) Korm. rendelethez[^12]
 
-[^10]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 132. § d) pontja hatályon kívül helyezte.
+[^12]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 132. § d) pontja hatályon kívül helyezte.
