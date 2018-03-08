@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1-20-22
 | 2017-10-01 | 2012-1-20-22.14 | 290/2017. (IX. 28.) Korm. rendelet |
 | 2018-01-01 | 2012-1-20-22.15 | 408/2017. (XII. 15.) Korm. rendelet |
 | 2018-02-01 | 2012-1-20-22.16 | 290/2017. (IX. 28.) Korm. rendelet |
+| 2018-03-08 | 2012-1-20-22.17 | 408/2017. (XII. 15.) Korm. rendelet |
