@@ -1,0 +1,5 @@
+## 1. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet 34/E. §-a helyébe a következő rendelkezés lép:
+
+## „34/E. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet módosításáról szóló 408/2017. (XII. 15.) Korm. rendelettel (a továbbiakban: Mód R. 5.) megállapított 19. § (7)–(7d) bekezdésének és 26. § (2) bekezdésének rendelkezéseit a Mód R. 5. hatálybalépését megelőzően megkötött hallgatói hitelszerződések esetében is alkalmazni kell azzal, hogy a Mód R. 5. hatálybalépését követően az első negyedév utolsó napjáig felmondás folytán megszűnt hallgatói hitelszerződések esetében a fennálló követeléseket a Diákhitel szervezet – első alkalommal – a Mód R. 5. hatálybalépését követő 180 napon belül köteles az MKK Zrt.-re engedményezni. Az engedményezés ténye nem érinti a Diákhitel szervezet által a hitelfelvevőnek a Mód R. 5. hatálybalépését követően az első negyedév utolsó napjáig engedélyezett részletfizetést.”
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
