@@ -1,0 +1,1 @@
+## 2. § A juttatás összegét az adott gázév vonatkozásában az 1. melléklet állapítja meg e rendelet hatálybalépésének napján egyetemes szolgáltatóval egyetemes szolgáltatói jogviszonyban álló lakossági szerződéssel rendelkező fogyasztók részére.
