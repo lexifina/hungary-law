@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1001-30
 | 2015-12-17 | 2013-1001-30-29.6 | 1004/2015. (XII. 16.) AB Tü. határozat |
 | 2016-04-22 | 2013-1001-30-29.7 | 1002/2016. (IV. 21.) AB Tü. határozat |
 | 2016-06-23 | 2013-1001-30-29.8 | 1005/2016. (VI. 22.) AB Tü. határozat |
+| 2018-03-09 | 2013-1001-30-29.9 | 1001/2018. (III. 8.) AB Tü. határozat |
