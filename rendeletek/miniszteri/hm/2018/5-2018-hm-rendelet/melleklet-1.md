@@ -1,4 +1,4 @@
-## 17. § Hatályát veszti a fejezeti kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 1/2015. (II. 25.) HM rendelet.
+## 17. §[^1]
 
 1. melléklet az 5/2018. (III. 8.) HM rendelethez
 
@@ -55,3 +55,5 @@ A XIII. Honvédelmi Minisztérium fejezet 2018. évi költségvetési kiadási e
 | 24 | 372539 |  |  | A gazdasági társaságok által ellátott feladatok támogatása | A minimálbér-emelés és a garantált bérminimum-emelés gazdálkodásra gyakorolt hatásainak enyhítése | HM tulajdonosi joggyakorlása alá tartozó állami tulajdonú gazdasági társaságok | egyedi döntéssel | nyújtható | egy összegben vagy részletekben |  |  |  |  |  |
 
 | 25 | 352117 |  | Fejezeti stabilitási tartalék |  | Az Ávr. 23/A. § (2) bekezdése szerinti kormányhatározatban meghatározott cél | Az Ávr. 23/A. § (2) bekezdése szerinti előirányzat- átcsoportosítás kedvezményezettje |  |  | előirányzat- átcsoportosítás |  |  |  |  |  |
+
+[^1]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
