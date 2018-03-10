@@ -1,3 +1,3 @@
-## 2. § Az Ügyrend 31. § (5) bekezdésének második mondata helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## „A panasz befogadásáról az előadó alkotmánybíró – Ve. és Nsztv. szerinti eljárások kivételével – az indítványozót és az elsőfokú bíróságot értesíti, más érdekeltet értesíthet.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

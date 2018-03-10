@@ -1,3 +1,3 @@
-## 1. § Az Alkotmánybíróság Ügyrendjéről szóló 1001/2013. (II. 27.) AB Tü. határozat (a továbbiakban: Ügyrend) a következő 53/A. §-sal egészül ki:
+## 1. §[^1]
 
-## „53/A. § Ha az előadó alkotmánybíró az Ügyrend 31. § (6) bekezdése alapján a Ve. és Nsztv. szerinti eljárásban terjeszt az alkotmányjogi panasz befogadásáról szóló döntés helyett az alkotmányjogi panasz érdemi elbírálását tartalmazó határozattervezetet a testület elé, akkor az Alkotmánybíróság az alkotmányjogi panaszról a Ve. szerinti eljárás esetén a beérkezéstől számított hat munkanapon, az Nsztv. szerinti eljárás esetén a beérkezéstől számított tíz munkanapon belül dönt.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
