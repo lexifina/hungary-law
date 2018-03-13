@@ -20,7 +20,7 @@
 
 ## Felelős: belügyminiszter, Miniszterelnökséget vezető miniszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, miniszterelnök kabinetfőnöke, nemzetpolitikáért felelős miniszterelnök-helyettes, a Magyar Tudományos Akadémia elnökének felkérésével
 
-## Határidő: 2018. június 30., a Külképviseletek igazgatása cím javára átcsoportosított 150 000 000 forint tekintetében 2019. június 30.
+## Határidő: 2018. június 30., a Külképviseletek igazgatása cím javára átcsoportosított 150 000 000 forint és a Nemzetpolitikai célú támogatások cím javára átcsoportosított 1 253 793 000 forint tekintetében 2019. június 30.
 
 ## c) a Kvtv. 17. §-a és 4. melléklet 2. pontja alapján jóváhagyja a Kvtv. 1. melléklet, XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 19. Szociális célú humánszolgáltatások alcím, 8. Szociális humánszolgáltatók részére biztosított szociális- és gyermekvédelmi ágazati pótlék és egyéb ágazati bérrendezéssel összefüggő támogatások jogcímcsoport legfeljebb 6255 millió forint összeggel történő túllépését.
 
@@ -438,7 +438,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont b) alpontja az 1013/2018. (II. 2.) Korm. határozat 13. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1013/2018. (II. 2.) Korm. határozat 13. pontja, az 1080/2018. (III. 13.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^2]: A 2. pont az 1989/2017. (XII. 19.) Korm. határozat 9. pontja szerint módosított szöveg.
 [^3]: A 3. pont a 2029/2017. (XII. 27.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^4]: A 4–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
