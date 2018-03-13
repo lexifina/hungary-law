@@ -36,7 +36,7 @@
 
 ## a) a 2. pont a) alpontja szerint átcsoportosított előirányzat terhére, a 2. mellékletben meghatározott települési önkormányzatok részére, az Önkormányzati feladatellátást szolgáló fejlesztések támogatására benyújtott 2017. évi pályázata alapján, a pályázati kiírásban foglalt felhasználásra és elszámolásra vonatkozó elvek mentén, a 2. melléklet szerint meghatározott támogatási célra, támogatási intenzitással és összeggel,
 
-## b) a 2. pont b) alpontja szerint átcsoportosított előirányzat terhére Nagykőrös Város Önkormányzata részére, a 2. pont b) alpontjában meghatározott összegben az önkormányzati feladatellátáshoz kapcsolódóan fennálló fizetési kötelezettség teljesítése érdekében külön pályázat és támogatási kérelem benyújtása nélkül,
+## b)[^1] a 2. pont b) alpontja szerint átcsoportosított előirányzat terhére Nagykőrös Város Önkormányzata részére, a 2. pont b) alpontjában meghatározott összegben piaccsarnok építése, környezetrendezése és útépítés érdekében külön pályázat és támogatási kérelem benyújtása nélkül,
 
 ## c) a 2. pont c) alpontja szerint átcsoportosított előirányzat terhére Borsodgeszt Község Önkormányzata részére, a 2. pont c) alpontjában összegben a művelődési ház felújítása érdekében külön pályázat és támogatási kérelem benyújtása nélkül,
 
@@ -51,3 +51,5 @@
 ## 5. egyetért azzal, hogy ha a 3. pont szerinti költségvetési támogatás az érintett települési önkormányzatok számára a 2017. évben nem vagy nem teljes összegben kerül folyósításra, a 2018. évben a központi költségvetés IX. Helyi önkormányzatok támogatásai fejezetben azonos néven létrehozott címre e határozatot kell alkalmazni.
 
 1. melléklet a 2068/2017. (XII. 28.) Korm. határozathoz
+
+[^1]: A 3. pont b) alpontja az 1097/2018. (III. 13.) Korm. határozat 5. pontjával megállapított szöveg.
