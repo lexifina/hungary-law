@@ -314,7 +314,7 @@
 
 | 49. | Konyár Község feladatainak támogatása | belvíz- és csapadékvíz elvezető hálózat fejlesztése | 6,0 |
 
-| 50. | Kópháza Község feladatainak támogatása | óvoda és iskola fejlesztése, belterületi útfejlesztés | 100,0 |
+| 50. | Kópháza Község feladatainak támogatása | polgármesteri hivatal fejlesztése, belterületi útfejlesztés | 100,0 |
 
 | 51. | Kömpöc Község feladatainak támogatása | egészségház felújítása | 20,0 |
 
@@ -516,7 +516,7 @@
 
 | 49. | Salgótarján Megyei Jogú Város feladatainak támogatása | közösségi e-mobilitás elindítása, belterületi utak, járdák, felújítása, városi uszoda energetikai fejlesztése, toronyszálló kialakítása, Karancs-Aknász út felújítása, Bányamúzeum frontfejtésének felújítása | 1 500,0 |
 
-| 50. | Sárbogárd Város feladatainak támogatása | sportcsarnok építés | 150,0 |
+| 50. | Sárbogárd Város feladatainak támogatása | sportcsarnok építéshez kapcsolódó alapinfrastruktúra kialakítása, valamint út és parkoló építése | 150,0 |
 
 | 51. | Sárospatak Város feladatainak támogatása | önkormányzati gazdasági társaság által kibocsátott kötvények visszavásárlása, fürdőfejlesztés előkészítése, művelődési ház és könyvtár felújítása, belterületi útfejlesztés | 200,0 |
 
@@ -714,7 +714,7 @@
 
 [^1]: A 2. pont az 1883/2016. (XII. 28.) Korm. határozat 3. pont a) alpontja, az 1345/2017. (VI. 9.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^2]: A 2. pont g) alpontja az 1722/2017. (X. 9.) Korm. határozat 3. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont a) pontja szerint módosított szöveg.
-[^3]: A 3. pont az 1345/2017. (VI. 9.) Korm. határozat 2. pontja, az 1722/2017. (X. 9.) Korm. határozat 4. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont b) pontja szerint módosított szöveg.
-[^4]: A 4. pont az 1345/2017. (VI. 9.) Korm. határozat 3. pontja, az 1722/2017. (X. 9.) Korm. határozat 5. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont c) pontja szerint módosított szöveg.
+[^3]: A 3. pont az 1345/2017. (VI. 9.) Korm. határozat 2. pontja, az 1722/2017. (X. 9.) Korm. határozat 4. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont b) pontja, az 1082/2018. (III. 13.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^4]: A 4. pont az 1345/2017. (VI. 9.) Korm. határozat 3. pontja, az 1722/2017. (X. 9.) Korm. határozat 5. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont c) pontja, az 1082/2018. (III. 13.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
 [^5]: Az 5. pont az 1345/2017. (VI. 9.) Korm. határozat 4. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont d) pontja szerint módosított szöveg.
 [^6]: Az 1. melléklet az 1883/2016. (XII. 28.) Korm. rendelet 3. pont b) alpontja szerint módosított szöveg.
