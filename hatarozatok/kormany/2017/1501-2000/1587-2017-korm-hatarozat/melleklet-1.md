@@ -14,7 +14,7 @@
 
 ## Határidő: azonnal
 
-## 3. egyetért azzal, hogy a belügyminiszter a 2. pont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján 327,7 millió forint támogatást nyújtson Tata Város Önkormányzata (a továbbiakban: Önkormányzat) részére;
+## 3.[^1] egyetért azzal, hogy a belügyminiszter a 2. pont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy vagy több részletben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján 327,7 millió forint támogatást nyújtson Tata Város Önkormányzata (a továbbiakban: Önkormányzat) részére;
 
 ## 4. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti támogatói okirat kiadását követően folyósítsa a támogatást az Önkormányzat számára;
 
@@ -85,3 +85,5 @@ Millió forintban, egy tizedessel
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 3. pont az 1082/2018. (III. 13.) Korm. határozat 5. pontja szerint módosított szöveg.
