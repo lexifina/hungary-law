@@ -10,7 +10,7 @@
 
 ## Felelős: a Kormány nemzetpolitikáért felelős tagja
 
-## Határidő: 2018. június 30.
+## Határidő: 2018. december 31.[^1]
 
 1. melléklet az 1777/2017. (XI. 7.) Korm. határozathoz
 
@@ -79,3 +79,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határozat az 1080/2018. (III. 13.) Korm. határozat 13. pontja szerint módosított szöveg.
