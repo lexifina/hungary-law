@@ -20,7 +20,7 @@
 
 ## Határidő: a 2. pont szerinti forrás rendelkezésre állását követő 45 napon belül
 
-## 4. visszavonja a sepsikőröspataki Kálnoky-kastély fejlesztéséhez szükséges forrás biztosításáról szóló 2141/2017. (XII. 29.) Korm. határozatot.
+## 4.[^1]
 
 1. melléklet az 1073/2018. (III. 12.) Korm. határozathoz
 
@@ -93,3 +93,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
