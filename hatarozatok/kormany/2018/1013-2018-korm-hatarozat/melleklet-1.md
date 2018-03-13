@@ -8,7 +8,7 @@
 
 ## Határidő: azonnal
 
-## b) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 24 379 372 479 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
+## b)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 24 379 372 479 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
 
 ## az átcsoportosítás tekintetében
 
@@ -20,7 +20,7 @@
 
 ## Felelős: a Nemzeti Választási Iroda elnöke, Miniszterelnökséget vezető miniszter, földművelésügyi miniszter, belügyminiszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2019. június 30., a Pécs Megyei Jogú Város támogatása I. ütem cím előirányzat javára átcsoportosított összeg tekintetében 2020. december 15.
+## Határidő: 2019. június 30., a Pécs Megyei Jogú Város támogatása II. ütem cím előirányzat javára átcsoportosított összeg tekintetében 2020. december 15.
 
 ## c) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 43. Központi Maradványelszámolási Alap címmel történő kiegészítését;
 
@@ -100,15 +100,16 @@
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1025/2014. (I. 30.) Korm. határozattal az Emberi Erőforrások Minisztériuma fejezet, Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport részére átcsoportosított 106,0 millió forint tekintetében az elszámolási határidő 2018. június 30.
 
-## 3–20.[^1]
+## 3–20.[^2]
 
 ## 21. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, Országvédelmi Alapból, a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 2001/2017. (XII. 21.) Korm. határozat 4. mellékletében a XX. Emberi Erőforrások Minisztériuma, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport, K6 Beruházások kiemelt előirányzat javára átcsoportosított 5 844 212 810 forint a K8 Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
 ## 22. A Kormány egyetért azzal, hogy a fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról szóló 2029/2017. (XII. 27.) Korm. határozat (a továbbiakban: Határozat2.) 1. mellékletében a XV. Nemzetgazdasági Minisztérium, 25. Fejezeti kezelésű előirányzatok cím, 5. Belgazdasági feladatok alcím, 11. Irinyi terv végrehajtása jogcímcsoport, 2. a Beszállítói-fejlesztési Program jogcím K5 Egyéb működési célú kiadások kiemelt előirányzaton jelzett –840 500 000 forint átcsoportosításból –440 500 000 forint a K8 Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére kerül átcsoportosításra; valamint a Beruházás Előkészítési Alap előirányzatból történő átcsoportosítás a K5 Egyéb működési célú kiadások kiemelt előirányzat helyett a K8 Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére történik.
 
-## 23–28.[^2]
+## 23–28.[^3]
 
 1. melléklet az 1013/2018. (II. 2.) Korm. határozathoz
 
-[^1]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 23–28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont b) alpontja az 1080/2018. (III. 13.) Korm. határozat 19. pontja szerint módosított szöveg.
+[^2]: A 3–20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 23–28. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
