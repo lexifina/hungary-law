@@ -1,0 +1,31 @@
+## A Kormány jóváhagyja az Egyesült Nemzetek Szervezete (a továbbiakban: ENSZ) migrációs csomagjával kapcsolatos, az 1. mellékletben meghatározott, „Nekünk a biztonság az első” című álláspontját, és felhatalmazza a külgazdasági és külügyminisztert Magyarország érdekeinek képviseletére.
+
+1. melléklet az 1075/2018. (III. 13.) Korm. határozathoz
+
+## Nekünk a biztonság az első
+
+Magyarország javaslatai az ENSZ Globális Migrációs Kompaktjához
+
+1. Az elmúlt évek eseményei világszerte bizonyították, hogy a migráció egy rossz és veszélyes folyamat, amely súlyos biztonsági kihívásokat okozott a világ számos térségében.
+
+2. Az elmúlt évek tapasztalatai alapján a nemzetközi erőfeszítéseknek azt a célt kell szolgálniuk, hogy a migrációs folyamatokat állítsuk meg. A migráció ösztönzésére irányuló politikák károsnak bizonyultak, azokat azonnal meg kell szüntetni.
+
+3. A nemzetközi jog előírásainak tiszteletben tartásával a nemzetközi szervezeteknek világossá kell tenniük, hogy a migráció nem tartozik az alapvető emberi jogok közé. Senki nem döntheti el önkényesen, a nemzeti szabályozások és a nemzetközi jog figyelmen kívül hagyásával, hogy a világ mely országában kíván élni.
+
+4. A nemzetközi közösségnek fel kell ismernie, hogy a migráció senkinek sem jó: nem jó azoknak az embereknek, akik az életüket kockáztatva próbálnak eljutni az otthonuktól távoli országokba, és nem jó azoknak a közösségeknek sem, amelyek más kultúrákból érkező tömegeket kell, hogy befogadjanak. Ez a folyamat ugyanis párhuzamos társadalmak kialakulásához vezet, amely súlyos biztonsági fenyegetést jelent az adott térségekben.
+
+5. A nemzetközi közösségnek el kell ismernie, hogy minden embernek joga van ahhoz, hogy a saját hazájában békében és biztonságban éljen. Ha ez nem lehetséges, akkor abban kell segíteni, hogy mindenki a szülőföldjéhez a lehető legközelebb eső helyen élhessen emberhez méltó életet mindaddig, amíg biztosítottak nem lesznek a hazatérés feltételei.
+
+6. A migrációs folyamatokból kizárólag az embercsempészek profitálnak. A nemzetközi közösségnek az a kötelessége, hogy verje szét az embercsempészek üzleti modelljeit, és szüntesse meg az embercsempész-hálózatokat, azok tagjait pedig szigorúan büntesse meg. Mindezek érdekében a nemzetközi közösségnek kerülnie kell az olyan politikák bevezetését és alkalmazását – különösen a bevándorlók harmadik országok között való szétosztására irányuló kötelezettségek létrehozását –, melyek embercsempész-hálózatok szolgáltatásainak igénybevételére ösztönöznek.
+
+7. A nemzetközi közösség érvényt kell, hogy szerezzen a szuverenitásnak. A nemzetközi közösségnek tiszteletben kell tartania az országok arra vonatkozó jogát, hogy saját polgárainak biztonságát elsődleges kérdésként kezeljék. Ezért minden ország maga döntheti el, hogy kit enged be saját területére, és kit tilt el ettől.
+
+8. A nemzetközi közösségnek támogatnia kell az országokat abban, hogy azok megőrizzék történelmi, vallási, kulturális hagyományaikat, társadalmi berendezkedésüket. A nemzetközi közösség nem gyakorolhat nyomást egyetlen országra sem ezek megváltoztatása érdekében.
+
+9. A nemzetközi közösségnek tiszteletben kell tartania, hogy minden országnak szuverén joga van arra, hogy meghozza a saját gazdasági fejlődéséhez, valamint munkaerőpiaci és demográfiai folyamatainak alakításához legjobbnak tartott döntéseket.
+
+10. Minden országnak joga és kötelessége megvédeni saját határait. A nemzetközi közösségnek támogatnia kell az országokat határvédelmi feladataik sikeres ellátásában.
+
+11. A nemzetközi közösségnek világossá kell tennie, hogy a tiltott határátlépés súlyos bűncselekmény. Végleg le kell számolni azokkal a politikákkal, amelyek ösztönzik vagy mentegetik a határsértést és a határsértőket. A határok átlépése csak a nemzetközi és a nemzeti szabályok teljes körű tiszteletben tartásával lehetséges. Ezen szabályok megsértése súlyos büntetést kell, hogy vonjon maga után.
+
+12. A nemzetközi közösségnek világossá kell tennie, hogy az ENSZ Globális Migrációs Kompaktja semmifajta jogi kötelezettséget sem ró az ENSZ egyetlen tagállamára sem. Az ENSZ Globális Migrációs Kompaktja nem jelenthet hivatkozási alapot sem a nemzetközi jog, sem a nemzeti jogrendszerek megalkotása és alkalmazása során.
