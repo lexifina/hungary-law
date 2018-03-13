@@ -44,7 +44,7 @@
 
 | 16. | Bodrogkeresztúr Község fejlesztési feladatainak támogatása | piac kialakítása | 65,0 |
 
-| 17. | Bokod Község fejlesztési feladatainak támogatása | bölcsőde kialakítása | 20,0 |
+| 17. | Bokod Község fejlesztési feladatainak támogatása | ifjúsági és közösségi tér kialakítása | 20,0 |
 
 | 18. | Borzavár Község fejlesztési feladatainak támogatása | járdaépítés | 8,0 |
 
@@ -64,7 +64,7 @@
 
 | 26. | Budapest XI. kerület fejlesztési feladatainak támogatása | járdafelújítás, közterületek fejlesztése | 72,5 |
 
-| 27. | Budapest XV. kerület fejlesztési feladatainak támogatása | közterület fejlesztése | 78,0 |
+| 27. | Budapest XV. kerület fejlesztési feladatainak támogatása | Kikötő Ifjúsági Közösségi Sziget fejlesztése | 78,0 |
 
 | 28. | Budapest XVI. kerület fejlesztési feladatainak támogatása | bölcsőde bővítése, parkoló- építés ingatlanvásárlással | 100,0 |
 
@@ -242,7 +242,7 @@
 
 | 24. | Ragály Község fejlesztési feladatainak támogatása | játszótér létesítése | 8,0 |
 
-| 25. | Rajka Község fejlesztési feladatainak támogatása | útfelújítás, közvilágítás kiépítése | 22,8 |
+| 25. | Rajka Község fejlesztési feladatainak támogatása | közvilágítás kiépítése | 22,8 |
 
 | 26. | Ramocsa Község fejlesztési feladatainak támogatása | útépítés, -felújítás | 8,0 |
 
@@ -326,7 +326,7 @@
 
 | 66. | Zádorfalva Község fejlesztési feladatainak támogatása | útfelújítás | 9,0 |
 
-| 67. | Zagyvarékas Község fejlesztési feladatainak támogatása | út- és járdafelújítás, emlékmű befejezése | 16,0 |
+| 67. | Zagyvarékas Község fejlesztési feladatainak támogatása | útfelújítás, emlékmű befejezése | 16,0 |
 
 | 68. | Zirc Város fejlesztési feladatainak támogatása | út- és járdafelújítás | 75,0 |
 
@@ -414,8 +414,8 @@
 
 1. melléklet az 1717/2017. (X. 3.) Korm. határozathoz
 
-[^1]: A 2. pont az 1993/2017. (XII. 19.) Korm. határozat 1. a) pontja szerint módosított szöveg.
-[^2]: A 3. pont az 1993/2017. (XII. 19.) Korm. határozat 1. b) pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1993/2017. (XII. 19.) Korm. határozat 1. pont a) alpontja, az 1082/2018. (III. 13.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont az 1993/2017. (XII. 19.) Korm. határozat 1. pont b) alpontja, az 1082/2018. (III. 13.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
 [^3]: Az 5. pont az 1993/2017. (XII. 19.) Korm. határozat 2. a) pontja szerint módosított szöveg.
 [^4]: A 6. pont az 1993/2017. (XII. 19.) Korm. határozat 2. b) pontja szerint módosított szöveg.
 [^5]: A 8. pont az 1993/2017. (XII. 19.) Korm. határozat 2. c) és d) pontja szerint módosított szöveg.
