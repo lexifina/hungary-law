@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért a Kiskörei Vízerőmű környezetének turisztikai és sportcélú fejlesztésére kidolgozott, részére bemutatott és általa megtárgyalt koncepcióval (a továbbiakban: Beruházás);
 
-2. a Beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), b), d) és e) pontja szerinti előkészítési fázisaira a kincstári díjakkal együtt bruttó 241 442 100 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2018. április 15-ig kell megvalósítani;
+2.[^1] a Beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), b), d), e), l), m) és n) pontja szerinti előkészítési fázisaira a kincstári díjakkal együtt bruttó 241 442 100 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2018. július 31-ig kell megvalósítani;
 
 3. a Beruházás előkészítésének kormányzati főfelelőseként a kerékpározásért és az aktív kikapcsolódásért felelős kormánybiztost, társfelelőseként a nemzeti fejlesztési minisztert jelöli ki;
 
@@ -28,18 +28,22 @@ Határidő: a forrás rendelkezésre állását követően azonnal
 
 7. felhívja a kerékpározásért és az aktív kikapcsolódásért felelős kormánybiztost, hogy a nemzeti fejlesztési miniszter, valamint az MKKSZ bevonásával
 
-a) készítsen jelentést a Kormány részére a Rendelet 7. § (1) bekezdésében foglalt kötelezettség teljesítése érdekében a 2. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint az átcsoportosított forrás felhasznált összegéről;
+a)[^2] készítsen jelentést a Kormány részére a Rendelet 7. § (1) bekezdésében foglalt kötelezettség teljesítése érdekében a 2. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint az átcsoportosított forrás felhasznált összegéről;
 
 Felelős: a kerékpározásért és az aktív kikapcsolódásért felelős kormánybiztos
 
 nemzeti fejlesztési miniszter
 
-Határidő: 2018. április 30.
+Határidő: 2018. július 31.
 
-b) az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az előkészítés folytatásáról a Beruházás megvalósításának érdekében, a kivitelezés előkészítésével összefüggő feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
+b)[^3] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az előkészítés folytatásáról a Beruházás megvalósításának érdekében, a kivitelezés előkészítésével összefüggő feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
 
 Felelős: a kerékpározásért és az aktív kikapcsolódásért felelős kormánybiztos
 
 nemzeti fejlesztési miniszter
 
-Határidő: 2018. május 30.
+Határidő: 2018. augusztus 31.
+
+[^1]: A 2. pont az 1090/2018. (III. 13.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 7. pont a) alpontja az 1090/2018. (III. 13.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^3]: A 7. pont b) alpontja az 1090/2018. (III. 13.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
