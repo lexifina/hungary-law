@@ -120,6 +120,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-4. melléklet az 1989/2017. (XII. 19.) Korm. határozathoz[^6]
+4. melléklet az 1989/2017. (XII. 19.) Korm. határozathoz[^7]
 
-[^6]: A 4. melléklet a 2029/2017. (XII. 27.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^7]: A 4. melléklet a 2029/2017. (XII. 27.) Korm. határozat 7. pontja szerint módosított szöveg.

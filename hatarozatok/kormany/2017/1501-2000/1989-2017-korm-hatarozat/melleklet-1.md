@@ -14,7 +14,7 @@
 
 ## Határidő: 2018. június 30.
 
-## b) a Kvtv. 19. § (4) bekezdésében és az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 8 774 119 736 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 2. Országvédelmi Alap alcím terhére, a 2. melléklet szerint;
+## b)[^1] a Kvtv. 19. § (4) bekezdésében és az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 8 774 119 736 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 2. Országvédelmi Alap alcím terhére, a 2. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -28,7 +28,7 @@
 
 ## nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2018. június 30.
+## Határidő: 2018. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 6 075 073 000 forint tekintetében 2019. június 30.
 
 ## c) a Kvtv. 19. § (6) bekezdésében biztosított jogkörében eljárva 5 769 707 742 forint egyszeri átcsoportosítását rendeli el a 3. melléklet szerint;
 
@@ -68,7 +68,7 @@
 
 ## Határidő: azonnal
 
-## 2–3.[^1]
+## 2–3.[^2]
 
 ## 4. A Kormány egyetért azzal, hogy az egyes fejezetek közötti előirányzat-átcsoportosításról szóló 1787/2016. (XII. 17.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 30. Kiemelt sportegyesületek működésének támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 700 000 000 forintból 34 412 000 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
@@ -86,22 +86,23 @@
 
 ## c) XIII. Honvédelmi Minisztérium fejezet, 6. MH Egészségügyi Központ cím, K1. Személyi juttatások kiemelt előirányzaton 656 000 forint, K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton 144 000 forint.
 
-## 9.[^2]
+## 9.[^3]
 
 ## 10. A Kormány egyetért azzal, hogy az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1727/2017. (X. 10.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 18. Felsőbbfokú Tanulmányok Intézete cím, K1. Személyi juttatások kiemelt előirányzat javára átcsoportosított 57 247 050 forintból 13 000 000 forint és a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat javára átcsoportosított 11 530 210 forintból 2 886 000 forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 11.[^3]
+## 11.[^4]
 
 ## 12. A Kormány egyetért azzal, hogy az egyes határon túli magyar szervezetek egyszerűsített honosítási programjának megvalósításával összefüggő feladatok ellátása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1797/2017. (XI. 8.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 3. Határon túli magyarok programjainak támogatása alcím, 1. Nemzetpolitikai tevékenység támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 325 000 000 forintból 16 200 010 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 13.[^4]
+## 13.[^5]
 
-## 14–15.[^5]
+## 14–15.[^6]
 
 1. melléklet az 1989/2017. (XII. 19.) Korm. határozathoz
 
-[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A Kormány a 13. pontot a 2029/2017. (XII. 27.) Korm. határozat 10. pontjával visszavonta.
-[^5]: A 14–15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont b) alpontja az 1080/2018. (III. 13.) Korm. határozat 17. pontja szerint módosított szöveg.
+[^2]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A Kormány a 13. pontot a 2029/2017. (XII. 27.) Korm. határozat 10. pontjával visszavonta.
+[^6]: A 14–15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
