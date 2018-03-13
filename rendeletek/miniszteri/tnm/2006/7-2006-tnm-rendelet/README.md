@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-7-20-6F
 | 2015-01-30 | 2006-7-20-6F.7 | 14/2014. (XII. 31.) MvM rendelet |
 | 2016-01-01 | 2006-7-20-6F.8 | 39/2015. (IX. 14.) MvM rendelet |
 | 2018-01-01 | 2006-7-20-6F.9 | 39/2015. (IX. 14.) MvM rendelet |
+| 2018-03-13 | 2006-7-20-6F.10 | 5/2018. (III. 12.) MvM rendelet |

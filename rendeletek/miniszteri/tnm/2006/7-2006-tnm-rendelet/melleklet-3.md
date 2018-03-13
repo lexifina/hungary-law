@@ -1056,6 +1056,6 @@
 
 ## Az összesített energetikai jellemző az épületgépészeti és világítási rendszerek primer energiafogyasztása összegének egységnyi fűtött alapterületre vetített értéke.
 
-3. melléklet a 7/2006. (V. 24.) TNM rendelethez[^26]
+3. melléklet a 7/2006. (V. 24.) TNM rendelethez[^27]
 
-[^26]: A 3. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (3) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (3) bekezdése, a 39/2015. (IX. 14.) MvM rendelet 5. § b) pontja szerint módosított szöveg.
+[^27]: A 3. melléklet a 40/2012. (VIII. 13.) BM rendelet 4. § (3) bekezdésével megállapított, a 20/2014. (III. 7.) BM rendelet 6. § (3) bekezdése, a 39/2015. (IX. 14.) MvM rendelet 5. § b) pontja szerint módosított szöveg.

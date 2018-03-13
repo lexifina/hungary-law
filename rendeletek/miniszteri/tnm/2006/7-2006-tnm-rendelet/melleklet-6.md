@@ -154,7 +154,7 @@
 
 ## 5.3. A gépi hűtés energiaigényének számítását a 2. melléklet szerint kell elvégezni.
 
-6. melléklet a 7/2006. (V. 24.) TNM rendelethez[^29]
+6. melléklet a 7/2006. (V. 24.) TNM rendelethez[^30]
 
 A közel nulla energiaigényű épületek követelményszintje
 
@@ -282,4 +282,4 @@ IV.1. táblázat: Megújuló primer energia átalakítási tényezők a megújul
 
 4.3. A jellemzően hőszivattyúzás útján vagy más módon a környezetből felvett hő (geotermikus, hidrotermikus, légtermikus energia) akkor vehető figyelembe, ha az természetes forrásból származik. Épületből távozó vagy az épületben keletkező hő nem vehető figyelembe, kivéve a más épületekből a közcsatornákba engedett víz hőjét. Az épület hűtésére felhasznált hő a hűtés üzemideje alatt, de legfeljebb április 15-e és október 15-e között vehető figyelembe.
 
-[^29]: A 6. mellékletet a 39/2015. (IX. 14.) MvM rendelet 5. § c) pontja iktatta be.
+[^30]: A 6. mellékletet a 39/2015. (IX. 14.) MvM rendelet 5. § c) pontja iktatta be.
