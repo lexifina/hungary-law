@@ -1,0 +1,143 @@
+## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének az 56. Egyes települési önkormányzatok feladatainak támogatása címmel és a 2. pontban meghatározott alcímekkel történő kiegészítését;
+
+## Felelős: nemzetgazdasági miniszter
+
+## belügyminiszter
+
+## Határidő: azonnal
+
+## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – az egyes települési önkormányzatok fejlesztési feladatainak támogatása érdekében – a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím terhére 2 826 500 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 56. Egyes települési önkormányzatok feladatainak támogatása cím alábbi alcímei javára, az 1. melléklet szerint;
+
+| A. Alcím- szám | B. Alcímnév | C. Támogatási cél | D. Támogatás (forintban) |
+
+| 1. | Berhida Város fejlesztési feladatainak támogatása | gyermekorvosi rendelő és védőnői szolgálat elhelyezése érdekében önkormányzati ingatlan fejlesztése | 64 000 000 |
+
+| 2. | Gomba Község óvodafejlesztési feladatainak támogatása | óvodabővítés | 150 000 000 |
+
+| 3. | Jánoshalma Város feladatainak támogatása | önkormányzati feladatellátáshoz kapcsolódóan fennálló fizetési kötelezettség teljesítése | 30 000 000 |
+
+| 4. | Karcag Város fejlesztési feladatainak támogatása | Idősek Otthona pincerendszerének felújítása | 244 000 000 |
+
+| 5. | Kispáli Község fejlesztési feladatainak támogatása | útfelújítás | 71 500 000 |
+
+| 6. | Mezőörs Község fejlesztési feladatainak támogatása | út- és járdafelújítás, útépítés | 32 000 000 |
+
+| 7. | Örkény Község fejlesztési feladatainak támogatása | közterület-fejlesztés | 10 000 000 |
+
+| 8. | Paloznak Község fejlesztési feladatainak támogatása | kulturális intézmény fejlesztése | 35 000 000 |
+
+| 9. | Sárvár Város fejlesztési feladatainak támogatása | multifunkciós sportcsarnok engedélyes terv elkészítése és építése | 2 060 000 000 |
+
+| 10. | Székesfehérvár Megyei Jogú Város karsztakna védelembe helyezésével kapcsolatos előkészítési feladatainak támogatása | Csóri karsztakna védelembe helyezésével kapcsolatos előkészítési, tervezési feladatok | 23 000 000 |
+
+| 11. | Szentkirályszabadja Község fejlesztési feladatainak támogatása | bölcsőde építése | 107 000 000 |
+
+## Felelős: nemzetgazdasági miniszter
+
+## belügyminiszter
+
+## Határidő: azonnal
+
+## 3. egyetért azzal, hogy a belügyminiszter a 2. pont szerint átcsoportosított előirányzat terhére, az abban meghatározott támogatási célra, pályázat és támogatási kérelem benyújtása nélkül, támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó – egy vagy több – támogatói okirat alapján az érintett települési önkormányzatok részére költségvetési támogatást nyújtson;
+
+## 4. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az érintett települési önkormányzatok számára;
+
+## 5. egyetért azzal, hogy az egyes települési önkormányzatok feladatellátásának támogatása érdekében történő előirányzat-átcsoportosításokról szóló 2068/2017. (XII. 28.) Korm. határozat 3. pont b) alpontja helyébe a következő rendelkezés lépjen:
+
+## „b) a 2. pont b) alpontja szerint átcsoportosított előirányzat terhére Nagykőrös Város Önkormányzata részére, a 2. pont b) alpontjában meghatározott összegben piaccsarnok építése, környezetrendezése és útépítés érdekében külön pályázat és támogatási kérelem benyújtása nélkül,”;
+
+## 6. egyetért azzal, hogy a fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról szóló 2029/2017. (XII. 27.) Korm. határozat 1. pont f) alpontja helyébe a következő rendelkezés lépjen:
+
+## „f) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 56. Budapest X. kerület, Hős utca 15/A–B szám alatti ingatlan helyzetének rendezése cím javára átcsoportosított 2 100 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy vagy több részletben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján, 2 100 000 000 forint támogatást nyújtson Budapest Főváros X. kerület Kőbányai Önkormányzat részére a támogatási szerződés megkötését vagy a támogatói okirat kiállítását követően;”.
+
+1. melléklet az 1097/2018. (III. 13.) Korm. határozathoz
+
+| IX. Helyi önkormányzatok támogatásai ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2018. forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | IX. |  |  |  |  |  | Helyi önkormányzatok támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 345351 |  | 56 |  |  |  |  |  | Egyes települési önkormányzatok feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 374962 |  |  | 1. |  |  |  |  |  | Berhida Város fejlesztési feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 64 000 000 |  |  |  |
+
+| 374973 |  |  | 2. |  |  |  |  |  | Gomba Község óvodafejlesztési feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 150 000 000 |  |  |  |
+
+| 374984 |  |  | 3. |  |  |  |  |  | Jánoshalma Város feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 30 000 000 |  |  |  |
+
+| 339651 |  |  | 4. |  |  |  |  |  | Karcag Város fejlesztési feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadádok |  |  |  |  |  |  |  |  | 244 000 000 |  |  |  |
+
+| 374995 |  |  | 5. |  |  |  |  |  | Kispáli Község fejlesztési feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 71 500 000 |  |  |  |
+
+| 375006 |  |  | 6. |  |  |  |  |  | Mezőörs Község fejlesztési feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 32 000 000 |  |  |  |
+
+| 375017 |  |  | 7. |  |  |  |  |  | Örkény Község fejlesztési feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 10 000 000 |  |  |  |
+
+| 375028 |  |  | 8. |  |  |  |  |  | Paloznak Község fejlesztési feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 35 000 000 |  |  |  |
+
+| 366173 |  |  | 9. |  |  |  |  |  | Sárvár Város fejlesztési feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 2 060 000 000 |  |  |  |
+
+| 375039 |  |  | 10. |  |  |  |  |  | Székesfehérvár Megyei Jogú Város karsztakna védelembe helyezésével kapcsolatos előkészítési feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 23 000 000 |  |  |  |
+
+| 375040 |  |  | 11. |  |  |  |  |  | Szentkirályszabadja Község fejlesztési feladatainak támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 107 000 000 |  |  |  |
+
+| 359017 |  | 2 |  |  |  |  |  | A helyi önkormányzatok működési célú kiegészítő támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -2 826 500 000 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II.n.év | III.n.év | IV.n.év |
+
+| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár |  | 1 példány |  |  | egyéb: azonnal |  |  | 2 826 500 000 |  |  |  |  |  |  |  |  | 2 826 500 000 |  |  |  |
+
+| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
