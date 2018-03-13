@@ -1,0 +1,5 @@
+Az 1. alcím tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 21/B. § (3) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 1. melléklet A) pont 2. alpontjában meghatározott feladatkörömben eljárva, a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 21/B. § (3) bekezdésében biztosított véleményezési jogkörében eljáró szakmai irányító miniszterek véleményének a kikérésével,
+
+a 2. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (2) bekezdés 2. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 10. pontjában meghatározott feladatkörömben eljárva
+
+a következőket rendelem el:
