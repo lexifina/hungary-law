@@ -42,13 +42,7 @@
 
 ## 4. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az érintett települési önkormányzatok számára;
 
-## 5. egyetért azzal, hogy az egyes települési önkormányzatok feladatellátásának támogatása érdekében történő előirányzat-átcsoportosításokról szóló 2068/2017. (XII. 28.) Korm. határozat 3. pont b) alpontja helyébe a következő rendelkezés lépjen:
-
-## „b) a 2. pont b) alpontja szerint átcsoportosított előirányzat terhére Nagykőrös Város Önkormányzata részére, a 2. pont b) alpontjában meghatározott összegben piaccsarnok építése, környezetrendezése és útépítés érdekében külön pályázat és támogatási kérelem benyújtása nélkül,”;
-
-## 6. egyetért azzal, hogy a fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról szóló 2029/2017. (XII. 27.) Korm. határozat 1. pont f) alpontja helyébe a következő rendelkezés lépjen:
-
-## „f) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 56. Budapest X. kerület, Hős utca 15/A–B szám alatti ingatlan helyzetének rendezése cím javára átcsoportosított 2 100 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy vagy több részletben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján, 2 100 000 000 forint támogatást nyújtson Budapest Főváros X. kerület Kőbányai Önkormányzat részére a támogatási szerződés megkötését vagy a támogatói okirat kiállítását követően;”.
+## 5–6.[^1]
 
 1. melléklet az 1097/2018. (III. 13.) Korm. határozathoz
 
@@ -141,3 +135,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 5–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
