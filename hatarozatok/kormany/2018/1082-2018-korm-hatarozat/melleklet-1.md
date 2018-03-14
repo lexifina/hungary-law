@@ -1,18 +1,4 @@
-## 1. A helyi érdekű települési fejlesztések érdekében szükséges források biztosításáról, valamint a IX. Helyi önkormányzatok támogatásai és a XX. Emberi Erőforrások Minisztériuma költségvetési fejezetek közötti előirányzat-átcsoportosításról szóló 1717/2017. (X. 3.) Korm. határozat
-
-## a) 2. pontjában foglalt táblázat „Támogatási cél” oszlopának
-
-## aa) 17. sorában a „bölcsőde kialakítása” szövegrész helyébe az „ifjúsági és közösségi tér kialakítása” szöveg,
-
-## ab) 27. sorában a „közterület fejlesztése” szövegrész helyébe a „Kikötő Ifjúsági Közösségi Sziget fejlesztése” szöveg,
-
-## b) 3. pontjában foglalt táblázat „Támogatási cél” oszlopának
-
-## ba) 25. sorában az „útfelújítás, közvilágítás kiépítése” szövegrész helyébe a „közvilágítás kiépítése” szöveg,
-
-## bb) 67. sorában az „út- és járdafelújítás, emlékmű befejezése” szövegrész helyébe az „útfelújítás, emlékmű befejezése” szöveg
-
-## lép.
+## 1.[^1]
 
 ## 2. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet,
 
@@ -52,15 +38,7 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 4. Az egyes települési önkormányzatok feladatainak támogatása érdekében történő előirányzat-átcsoportosításokról szóló 1818/2016. (XII. 22.) Korm. határozat
-
-## a) 3. pontjában foglalt táblázat „Támogatási cél” oszlopának 50. sorában az „óvoda és iskola fejlesztése” szövegrész helyébe a „polgármesteri hivatal fejlesztése” szöveg,
-
-## b) 4. pontjában foglalt táblázat „Támogatási cél” oszlopának 50. sorában a „sportcsarnok építés” szövegrész helyébe a „sportcsarnok építéshez kapcsolódó alapinfrastruktúra kialakítása, valamint út és parkoló építése” szöveg
-
-## lép.
-
-## 5. Tata Város tekintetében a karsztvízszint-emelkedés okozta azonnali intézkedést igénylő feladatok végrehajtásához szükséges támogatásról szóló 1587/2017. (VIII. 28.) Korm. határozat 3. pontjában az „egy összegben” szövegrész helyébe az „egy vagy több részletben” szöveg lép.
+## 4–5.[^2]
 
 1. melléklet az 1082/2018. (III. 13.) Korm. határozathoz
 
@@ -155,3 +133,6 @@
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
