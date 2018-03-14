@@ -1,0 +1,9 @@
+# 1093/2018. (III. 13.) Korm. határozat
+
+a KEHOP-2.2.2-15-2016-00056 azonosító számú („Pécs központú agglomeráció szennyvíztisztító telepének fejlesztése” című) projekt támogatásának növeléséről, valamint a Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1093-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-03-14 | 2018-1093-30-22.1 | 1093/2018. (III. 13.) Korm. határozat |
