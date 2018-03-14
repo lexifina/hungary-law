@@ -1,0 +1,9 @@
+# 44/2018. (III. 13.) Korm. rendelet
+
+a Vecsés–Városföld közötti földgázszállító vezeték létesítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-44-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-03-14 | 2018-44-20-22.1 | 44/2018. (III. 13.) Korm. rendelet |
