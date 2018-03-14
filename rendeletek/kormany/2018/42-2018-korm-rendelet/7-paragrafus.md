@@ -1,0 +1,1 @@
+## 6. § Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás, valamint a természetvédelmi hatósági eljárás kivételével, vagy ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
