@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Szerb Köztársaság Kormánya közötti gazdasági és technikai együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
