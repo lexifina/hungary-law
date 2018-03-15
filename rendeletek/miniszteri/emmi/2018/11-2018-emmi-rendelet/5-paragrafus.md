@@ -1,0 +1,1 @@
+## 4. § A helyi nemzetiségi önkormányzat működési támogatásának felhasználásáról szóló beszámoló elfogadásáról a Támogatáskezelő a honlapján történő közzététellel értesíti a helyi nemzetiségi önkormányzatot.
