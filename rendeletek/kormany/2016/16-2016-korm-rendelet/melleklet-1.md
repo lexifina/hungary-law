@@ -1,4 +1,4 @@
-## 84. §[^98] A Módr1. hatálybalépését[^99] megelőzően benyújtott kérelmek esetén – ha a lakóépület építésének egyszerű bejelentése 2016. július 1-jén vagy azt követően történt – az egyszerű bejelentés másolata és az annak mellékletét képező egyszerű bejelentési dokumentáció egyenértékűnek tekintendő a Módr1. 10. § (1) bekezdésével megállapított 43. § (1) bekezdés t) pontjában foglalt igazolási móddal.
+## 86. §[^160] A Módr2. hatálybalépését[^161] követően a menedékjogról szóló 2007. évi LXXX. törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkező személy nem jogosult családi otthonteremtési kedvezményre. A Módr2. hatálybalépését megelőzően benyújtott kérelmekre, megkötött támogatási szerződésekre, folyósított támogatásokra e rendeletnek a Módr2. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 
 1. melléklet a 16/2016. (II. 10.) Korm. rendelethez
 
@@ -16,5 +16,5 @@ d) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiak
 
 miatt megállapította, és az elkövető az igénylés időpontjában még nem mentesült a büntetett előélethez fűződő hátrányos jogkövetkezmények alól.
 
-[^98]: A 84. §-t a 273/2016. (IX. 15.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^99]: A hatálybalépés időpontja 2016. szeptember 16.
+[^160]: A 86. §-t a 26/2018. (II. 28.) Korm. rendelet 21. §-a iktatta be.
+[^161]: A hatálybalépés időpontja 2018. március 15.

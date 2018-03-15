@@ -2,43 +2,29 @@
 
 a) a személyazonosságot és az életkort a személyazonosság igazolására alkalmas hatósági igazolvánnyal,
 
-b) a bejelentett lakóhelyet és a személyi azonosítót a lakcímet és személyi azonosítót igazoló hatósági igazolvánnyal,
+b)[^73] a bejelentett lakóhelyet a lakcímet igazoló hatósági igazolvánnyal vagy – a 30. § (3) bekezdése és a 31. § (4) bekezdése szerinti esetben – azzal egyenértékű, külföldi hatóság által kiállított okirattal, a személyi azonosítót a személyi azonosítót igazoló hatósági igazolvánnyal,
 
 c) a három hónapot meghaladó tartózkodás jogát a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti regisztrációs igazolással, érvényes tartózkodási kártyával vagy állandó tartózkodási kártyával,
 
-d) a bevándorolt jogállást bevándorlási engedéllyel, a letelepedett jogállást letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, a menekült jogállást az azt tanúsító személyazonosító igazolvánnyal, az oltalmazott jogállást az azt tanúsító személyazonosító igazolvánnyal, a hontalan jogállást a hontalankénti elismerésről szóló határozattal, vagy a jogállást igazoló hatósági igazolással,
+d)[^74] a bevándorolt jogállást bevándorlási engedéllyel, a letelepedett jogállást letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, a hontalan jogállást a hontalankénti elismerésről szóló határozattal, vagy a jogállást igazoló hatósági igazolással,
 
-e) azt a tényt, hogy az igénylő csak olyan személy után igényel családi otthonteremtési kedvezményt, aki után e rendelet és egyéb lakáscélú állami támogatásokról szóló jogszabályok szerinti vissza nem térítendő lakáscélú állami támogatás igénybevétele még nem történt, büntetőjogi felelősség vállalásával tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozattal,
+e)–i)[^75]
 
-f) a házasságot anyakönyvi kivonattal,
+j)[^76] a saját adóazonosító jelét adóigazolvánnyal,
 
-g) a gyermek születését anyakönyvi kivonattal, elvált szülők kiskorú gyermekeinek elhelyezését a jogerős bírósági ítélettel, az örökbefogadást a gyámhatóság engedélyező határozatával,
+k)[^77] a várandósság betöltött 12. hetét a várandósgondozási könyvvel vagy a kezelőorvos által kiállított, a várandósság tényéről és annak fennállása időpontjáról szóló igazolással,
 
-h) a gyermek halva születését a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló 351/2013. (X. 4.) Korm. rendelet 3. melléklete szerinti okirattal,
+l)[^78]
 
-i) a gyermek 57. § (6) bekezdés d) pontja szerinti fogyatékosságát vagy többszörös és összetett betegségét a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet 3. melléklete szerinti igazolással,
+m)[^79]
 
-j) a saját és gyermeke adóazonosító jelét adóigazolvánnyal,
+n)[^80] a 30. § (1) bekezdésében, a 31. § (1) és (2) bekezdésében foglaltakat a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatokat ellátó járási (fővárosi kerületi) hivatala által kiállított igazolással, vagy az illetékes külföldi hatóság által kiállított igazolás hiteles magyar nyelvű fordításával,
 
-k)[^43] a várandósság betöltött 12. hetét a várandósgondozási könyvvel,
+o)–r)[^81]
 
-l) a megváltozott munkaképességű személlyé válást az orvos szakértői szerv igazolásával,
+s)[^82] a a tulajdonjog megszerzésére irányuló szándékot adásvételi szerződéssel,
 
-m) a közös háztartásban élést, valamint élettársak esetében ennek időtartamát teljes bizonyító erejű magánokiratba foglalt nyilatkozattal, elvált szülők kiskorú gyermekeinek elhelyezését a jogerős ítélet bemutatásával,
-
-n)[^44] a 30. § (1) bekezdésében, a 31. § (1) és (2) bekezdésében foglaltakat a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatokat ellátó járási (fővárosi kerületi) hivatala által kiállított igazolással, vagy az illetékes külföldi hatóság által kiállított igazolás hiteles magyar nyelvű fordításával,
-
-o) a köztartozásmentességet – ha az igénylő nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban – nemleges együttes adóigazolással,
-
-p) középfokú oktatási-nevelési intézmény nappali tagozatán tanulást a középfokú intézmény által kiállított igazolással vagy az érettségi bizonyítvány vagy az arról az azt kiállító oktatási intézmény által készített hiteles másolat bemutatásával,
-
-q) a felsőoktatási intézmény nappali tagozatán tanulást a felsőoktatási intézmény által kiállított igazolással,
-
-r) a 25. § (2) bekezdésében foglaltakat az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatával,
-
-s) a tulajdonjog fennállását 30 napnál nem régebbi hiteles tulajdoni lap másolattal, a tulajdonjog megszerzésére irányuló szándékot adásvételi szerződéssel és 30 napnál nem régebbi hiteles tulajdoni lap másolattal,
-
-t)[^45] az egyszerű bejelentéshez kötött építési tevékenységet
+t)[^83] az egyszerű bejelentéshez kötött építési tevékenységet
 
 ta) a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet [a továbbiakban: 155/2016. (VI. 13.) Korm. rendelet] 1. § (2) bekezdése szerinti, az elektronikus építési napló üzemeltetője által előállított, a készenlétbe helyezett elektronikus építési napló adatait feltüntető visszaigazolással,
 
@@ -46,24 +32,60 @@ tb) az építész tervező által az egyszerű bejelentés mellékleteként az e
 
 tc) az igénylőnek az egyszerű bejelentés megtörténtét követő 15 nap elteltével tett nyilatkozatával, mely szerint az építési tevékenységet megkezdheti és a hitelintézet részére benyújtott tb) alpont szerinti dokumentumok megegyeznek az elektronikus építési naplóba feltöltött dokumentumokkal,
 
-u) a büntetlen előéletet érvényes hatósági bizonyítvánnyal, amelyhez csatolni kell az igénylő írásbeli hozzájárulását ahhoz, hogy a hatósági bizonyítványban foglalt személyes adataikat a hitelintézet a családi otthonteremtési kedvezményre való jogosultsága megállapításának céljából és időtartamára kezelje,
+u)[^84]
 
-v)[^46] annak tényét, hogy a több önálló lakásból álló, osztatlan közös tulajdon esetén a családi otthonteremtési kedvezménnyel érintett lakásra vonatkozóan a támogatott személy kizárólagos használati joga áll fenn, közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt, a támogatott személy részére a lakás teljes területének használatára jogosító használati megosztási megállapodással,
+v)[^85]
 
-w)[^47] annak tényét, hogy az igénylő építőközösség tagja, az építőközösségi szerződéssel,
+w)[^86] annak tényét, hogy az igénylő építőközösség tagja, az építőközösségi szerződéssel,
 
-z)[^48] a gyámság fennállását a gyámhatóság kirendelő határozatával.
+z)[^87]
 
-(2) Ha a fiatal házaspár vállalt gyermeke után nem igényelt családtámogatási ellátást vagy azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényelte, akkor – a kiállítást követő 60 napon belül – a gyermekvállalás teljesítését igazoló okiratot és a gyermek adóazonosító jelét tartalmazó adóigazolványát köteles a hitelintézet részére bemutatni. Az okiratok benyújtásáról a hitelintézet a 63. § (1) bekezdése szerinti adatszolgáltatással egyidejűleg tájékoztatja a Kincstárt.
+(2)[^88] Ha a fiatal házaspár vállalt gyermeke után nem igényelt családtámogatási ellátást vagy azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényelte, akkor a gyermekvállalás teljesítését bejelenti a hitelintézetnek. A bejelentésről a hitelintézet a 63. § (1) bekezdése szerinti adatszolgáltatással egyidejűleg tájékoztatja a Kincstárt.
 
 (3) A hitelintézet az igénylő erre irányuló kérelme esetén beszerzi az illetékes hatóságtól a jogosultság feltételeit igazoló adatokat és okiratokat.
 
-(4)[^49] A hitelintézet a tulajdonjog fennállását, valamint a tulajdonjog megszerzésére irányuló szándékot – a (3) bekezdésben foglaltak esetében – az (1) bekezdés s) pontja szerinti hiteles tulajdoni lap másolat helyett nem hiteles tulajdoni lap másolat lekérésével ellenőrzi.
+(4)[^89] A hitelintézet a tulajdonjog fennállását, valamint a tulajdonjog megszerzésére irányuló szándékot nem hiteles tulajdoni lap másolat lekérésével ellenőrzi.
 
-[^43]: A 43. § (1) bekezdés k) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
-[^44]: A 43. § (1) bekezdés n) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § h) pontja, a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 13. pontja szerint módosított szöveg.
-[^45]: A 43. § (1) bekezdés t) pontja a 273/2016. (IX. 15.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^46]: A 43. § (1) bekezdés v) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^47]: A 43. § (1) bekezdés w) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^48]: A 43. § (1) bekezdés z) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^49]: A 43. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 567. § (5) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+(5)[^90] A családi otthonteremtési kedvezmény igénylésekor az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárul ahhoz, hogy az állami adóhatóság, illetve a járási hivatal a kérelembeli nyilatkozatokban foglaltak ellenőrzése céljából az illetékes hatóságtól a jogosultság feltételeit igazoló adatokat és okiratokat beszerezze, az azokban foglalt személyes adatait kezelje.
+
+(6)[^91] A családi otthonteremtési kedvezmény igénylésekor az igénylő a büntetőjogi felelősség vállalásával tett e rendelet szerinti nyilatkozat helyett – választása szerint – a következők szerint igazolhatja a kedvezményre való jogosultság feltételeinek meglétét:
+
+a) a házasságot anyakönyvi kivonattal,
+
+b) a gyermek születését anyakönyvi kivonattal, elvált szülők kiskorú gyermekének elhelyezését – ideértve a közös szülői felügyeletet is – a jogerős bírósági ítélettel, volt élettársak esetén a gyermek elhelyezését jogerős bírósági döntéssel, közokirattal vagy lakcímet igazoló hatósági igazolvánnyal, az örökbefogadást a gyámhatóság engedélyező határozatával,
+
+c) a gyermeke adóazonosító jelét adóigazolvánnyal,
+
+d) a megváltozott munkaképességű személlyé válást az orvosszakértői szerv igazolásával,
+
+e) a köztartozásmentességet – ha az igénylő nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban – nemleges adóigazolással,
+
+f) középfokú oktatási-nevelési intézmény nappali tagozatán tanulást a középfokú oktatási-nevelési intézmény által kiállított igazolással, vagy az érettségi bizonyítvány vagy az arról az azt kiállító oktatási intézmény által készített hiteles másolat bemutatásával,
+
+g) a felsőoktatási intézmény nappali tagozatán tanulást a felsőoktatási intézmény által kiállított igazolással,
+
+h) a büntetlen előéletet érvényes hatósági bizonyítvánnyal, amelyhez csatolni kell az igénylő írásbeli hozzájárulását ahhoz, hogy a hatósági bizonyítványban foglalt személyes adatait a hitelintézet és a járási hivatal a családi otthonteremtési kedvezményre való jogosultsága megállapításának céljából és időtartamára kezelje,
+
+i) annak tényét, hogy a több önálló lakásból álló, osztatlan közös tulajdon esetén a családi otthonteremtési kedvezménnyel érintett lakásra vonatkozóan a támogatott személy kizárólagos használati joga áll fenn, közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt, a támogatott személy részére a lakás teljes területének használatára jogosító használati megosztási megállapodással,
+
+j) a gyámság fennállását a gyámhatóság kirendelő határozatával.
+
+[^73]: A 43. § (1) bekezdés b) pontja a 26/2018. (II. 28.) Korm. rendelet 22. § 12. pontja és 23. § c) pontja szerint módosított szöveg.
+[^74]: A 43. § (1) bekezdés d) pontja 26/2018. (II. 28.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
+[^75]: A 43. § (1) bekezdés e)–i) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^76]: A 43. § (1) bekezdés j) pontja 26/2018. (II. 28.) Korm. rendelet 23. § f) pontja szerint módosított szöveg.
+[^77]: A 43. § (1) bekezdés k) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § a) pontja, a 26/2018. (II. 28.) Korm. rendelet 22. § 13. pontja szerint módosított szöveg.
+[^78]: A 43. § (1) bekezdés l) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^79]: A 43. § (1) bekezdés m) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^80]: A 43. § (1) bekezdés n) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § h) pontja, a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 13. pontja szerint módosított szöveg.
+[^81]: A 43. § (1) bekezdés o)–r) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^82]: A 43. § (1) bekezdés s) pontja 26/2018. (II. 28.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.
+[^83]: A 43. § (1) bekezdés t) pontja a 273/2016. (IX. 15.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^84]: A 43. § (1) bekezdés u) pontját a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.
+[^85]: A 43. § (1) bekezdés v) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be, hatályon kívül helyezet a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja.
+[^86]: A 43. § (1) bekezdés w) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^87]: A 43. § (1) bekezdés z) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be, hatályon kívül helyezet a 26/2018. (II. 28.) Korm. rendelet 23. § e) pontja.
+[^88]: A 43. § (2) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 14. pontja és 23. § h) pontja szerint módosított szöveg.
+[^89]: A 43. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 567. § (5) bekezdése iktatta be, szövege a 26/2018. (II. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^90]: A 43. § (5) bekezdését a 26/2018. (II. 28.) Korm. rendelet 15. §-a iktatta be.
+[^91]: A 43. § (6) bekezdését a 26/2018. (II. 28.) Korm. rendelet 15. §-a iktatta be.

@@ -1,11 +1,16 @@
-## 15. § A családi otthonteremtési kedvezmény igénybevételének feltétele, hogy az igénylőnek ne legyen az állami adóhatóságnál nyilvántartott köztartozása.
+## 15. §[^28] A családi otthonteremtési kedvezmény igénybevételének feltétele, hogy az igénylőnek ne legyen az állami adóhatóságnál nyilvántartott köztartozása. A köztartozás-mentességről – ha az igénylő nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adatbázisban – az igénylő büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratban nyilatkozik.
 
 ## 16. § A 3. § (1) bekezdés 4. pont a) alpontja szerinti, illetve a fiatal házaspár által vállalt gyermek után igényelt családi otthonteremtési kedvezmény esetén a támogatási szerződés tartalmazza a támogatott személy
 
 a) hozzájárulását ahhoz, hogy a 3. § (1) bekezdés 4. pont a) alpontja szerinti, illetve a fiatal házaspár által vállalt gyermek születését a Kincstár – a családtámogatási adatbázist magában foglaló egységes szociális nyilvántartásban már rendelkezésre álló, és a hitelintézet által szolgáltatott adatokat összevetve – megállapítsa, és
 
-b) nyilatkozatát, melyben vállalja, hogy
+b)[^29] nyilatkozatát, melyben vállalja, hogy ha a gyermek születését követően nem igényel családtámogatási ellátást, vagy ha azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényli,
 
-ba) amennyiben a gyermek születését követően nem igényel családtámogatási ellátást, akkor a gyermek születési anyakönyvi kivonatát, lakcímét igazoló hatósági igazolványát és adóazonosító jelét tartalmazó adóigazolványát,
+ba) a gyermek nevét, születési adatait, adóazonosító jelét büntetőjogi felelősség vállalásával tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozatban bejelenti, továbbá a gyermek lakcímét igazoló hatósági igazolványát,
 
 bb) a gyermek halva születése esetén annak tényét igazoló dokumentumot
+
+a gyermek születését követő legfeljebb 60 napon belül a hitelintézet részére bemutatja.
+
+[^28]: A 15. § a 26/2018. (II. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^29]: A 16. § b) pontja a 26/2018. (II. 28.) Korm. rendelet 7. §-ával megállapított szöveg.

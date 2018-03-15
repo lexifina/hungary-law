@@ -1,8 +1,11 @@
 ## 40. § A családi otthonteremtési kedvezményből eredő, támogatott személyt terhelő bejelentési kötelezettség teljesítését a hitelintézet a támogatott személy részére a bejelentéssel egyidejűleg, írásban igazolja.
 
-41. § (1)[^41] A járási hivatal a támogatott személynél a családi otthonteremtési kedvezmény igénybevételének jogszerűségét hatósági ellenőrzés keretében vizsgálja. Ha a járási hivatal a hatósági ellenőrzés során megállapítja, hogy a támogatott személy jogosulatlanul vette igénybe a családi otthonteremtési kedvezményt, határozatban intézkedik a támogatás – az e rendeletben meghatározott esetekben késedelmi kamattal növelt összegének – visszatérítése iránt.
+41. §[^72] (1) Az állami adóhatóság a családi otthonteremtési kedvezmény igénylésekor tett nyilatkozatok valóságtartalmát, valamint a 30. § (3) bekezdése és a 31. § (4) bekezdése szerinti nyilatkozatban vállalt kötelezettség teljesülését valamennyi támogatott személynél a támogatási szerződés megkötésétől a 23. § (1) bekezdésében és a 26. § (1) bekezdésében meghatározott időszak végéig hatósági ellenőrzés keretében vizsgálja.
 
-(2)[^42] A járási hivatal a jogosulatlan igénybevétel tényéről a folyósító hitelintézetet írásban tájékoztatja.
+(2) A járási hivatal a támogatott személynél a családi otthonteremtési kedvezmény igénybevételének jogszerűségét hatósági ellenőrzés keretében vizsgálja.
 
-[^41]: A 41. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. és 12. pontja szerint módosított szöveg.
-[^42]: A 41. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 12. pontja szerint módosított szöveg.
+(3) Ha az állami adóhatóság az (1) bekezdés szerinti, vagy a járási hivatal a (2) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy a támogatott személy jogosulatlanul vette igénybe a családi otthonteremtési kedvezményt, határozatban intézkedik a támogatás – az e rendeletben meghatározott esetekben késedelmi kamattal növelt összegének – visszatérítése iránt.
+
+(4) Az állami adóhatóság az (1) bekezdésben, a járási hivatal a (2) bekezdésben foglalt ellenőrzést követő eljárás eredményéről a folyósító hitelintézetet írásban tájékoztatja.
+
+[^72]: A 41. § a 26/2018. (II. 28.) Korm. rendelet 14. §-ával megállapított szöveg.

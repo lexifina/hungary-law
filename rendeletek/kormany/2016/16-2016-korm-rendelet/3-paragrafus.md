@@ -38,9 +38,9 @@ i) az új lakás megépítése érdekében felmerült építménybontási költs
 
 4. gyermek:
 
-a)[^7] a magzat vagy az ikermagzat a várandósság betöltött 12. hetét követően, valamint
+a)[^8] a magzat vagy az ikermagzat a várandósság betöltött 12. hetét követően, valamint
 
-b)[^8] aki az igénylő vér szerinti vagy örökbefogadott eltartottja és
+b)[^9] aki az igénylő vér szerinti vagy örökbefogadott eltartottja és
 
 ba) a 25. életévét még nem töltötte be vagy
 
@@ -48,7 +48,7 @@ bb) a 25. életévét már betöltött,
 
 ## megváltozott munkaképességű személy és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg;
 
-5. hasznos alapterület: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) fogalommeghatározásának keretein belül a következő helyiségek alapterületének összege, amelyek a lakáson mint önálló rendeltetési egységen belül találhatók:
+5.[^10] hasznos alapterület: a lakáson belül közvetlenül megközelíthető, következő helyiségek – az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) szerint számított – hasznos alapterületének összege:
 
 a) előszoba, közlekedő,
 
@@ -94,9 +94,17 @@ ad) közműves szennyvízelvezetéssel rendelkezik, vagy ha nincs a települése
 
 ae) közműves ivóvíz-szolgáltatással rendelkezik, vagy ha a településen (településrészen) nincs közműves vízszolgáltatás, a telken ivóvíz minőségű vizet szolgáltató kút van; vagy
 
-b) tetőtér beépítéssel vagy emelet-ráépítéssel létrehozott lakás akkor, ha a tetőtér beépítés vagy emelet-ráépítés révén legalább két új önálló albetétként nyilvántartott, lépcsőházból vagy szabadlépcsőn megközelíthető, külön bejárattal rendelkező, az a) pont aa)–ae) alpontja szerinti feltételnek megfelelő újabb lakás jön létre.
+b) tetőtér beépítéssel vagy emelet-ráépítéssel létrehozott lakás akkor, ha a tetőtér beépítés vagy emelet-ráépítés révén legalább két új önálló albetétként nyilvántartott, lépcsőházból vagy szabadlépcsőn megközelíthető, külön bejárattal rendelkező, az a) pont aa)–ae) alpontja szerinti feltételnek megfelelő újabb lakás jön létre;
+
+10.[^11] egylakásos lakóépület: a tulajdoni formájától függetlenül olyan
+
+a) szabadon álló, oldalhatáron álló, zártsorú beépítési móddal vagy a telken meglévő épülethez csatlakozó módon épített egy lakást magába foglaló lakóépület, amely önálló tető- és épületszerkezettel és a terepszintről közvetlen bejárattal rendelkezik, vagy
+
+b) ikerház, sorház vagy láncház, amelyben a családi otthonteremtési kedvezménnyel érintett lakás önálló tető- és épületszerkezettel és a terepszintről közvetlen bejárattal rendelkezik.
 
 (2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, az OTÉK-ban és az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben meghatározottak szerint kell értelmezni.
 
-[^7]: A 3. § (1) bekezdés 4. pont a) alpontja a 273/2016. (IX. 15.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
-[^8]: A 3. § (1) bekezdés 4. pont b) alpontja a 273/2016. (IX. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 3. § (1) bekezdés 4. pont a) alpontja a 273/2016. (IX. 15.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdés 4. pont b) alpontja a 273/2016. (IX. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: A 3. § (1) bekezdés 5. pont nyitó szövegrésze a 26/2018. (II. 28.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdés 10. pontját a 26/2018. (II. 28.) Korm. rendelet 2. §-a iktatta be.

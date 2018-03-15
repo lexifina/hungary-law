@@ -6,9 +6,9 @@
 
 (3) A (2) bekezdés szerinti esetben a házasság felbontásának vagy érvénytelenítésének időpontjában fennálló várandósságból született gyermekkel – ideértve a halva született gyermeket is – a gyermekvállalást teljesítettnek kell tekinteni. Ha a fiatal házaspár a várandósságot és a gyermek születésének várható időpontját a házasság felbontása vagy érvénytelenítése igazolásával egyidejűleg, orvosi bizonyítvánnyal a hitelintézet részére igazolja, a (2) bekezdés szerinti visszafizetési kötelezettség fennállásának, mértékének és kezdő időpontjának megállapítása a házasság felbontásának vagy érvénytelenítésének időpontjában fennálló várandósság végéig meghosszabbodik.
 
-(4)[^63] A támogatott személy kérelmére az (1) és (2) bekezdésben foglalt visszafizetési kötelezettségre – ideértve az esedékes kamatokat is – a járási hivatal hatósági jogkörében eljárva méltányossági eljárás keretében részletfizetést engedélyezhet, ha a kérelmező igazolja, hogy a családi otthonteremtési kedvezmény azonnali és egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel aránytalanul súlyos terhet jelentene.
+(4)[^106] A támogatott személy kérelmére az (1) és (2) bekezdésben foglalt visszafizetési kötelezettségre – ideértve az esedékes kamatokat is – a járási hivatal hatósági jogkörében eljárva méltányossági eljárás keretében részletfizetést engedélyezhet, ha a kérelmező igazolja, hogy a családi otthonteremtési kedvezmény azonnali és egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel aránytalanul súlyos terhet jelentene.
 
-(5)[^64] A támogatott személy az (1) és (2) bekezdésben foglalt visszafizetési kötelezettség halasztott teljesítése, mérséklése vagy elengedése iránt kérelemmel fordulhat a járási hivatalhoz. A járási hivatal hatósági jogkörében eljárva méltányossági eljárás keretében a kérelmező különös méltánylást érdemlő helyzetére tekintettel a (6) és (7) bekezdésben foglaltak szerint a fizetési kötelezettség teljesítésre legfeljebb öt évre fizetési halasztást engedélyezhet.
+(5)[^107] A támogatott személy az (1) és (2) bekezdésben foglalt visszafizetési kötelezettség halasztott teljesítése, mérséklése vagy elengedése iránt kérelemmel fordulhat a járási hivatalhoz. A járási hivatal hatósági jogkörében eljárva méltányossági eljárás keretében a kérelmező különös méltánylást érdemlő helyzetére tekintettel a (6) és (7) bekezdésben foglaltak szerint a fizetési kötelezettség teljesítésre legfeljebb öt évre fizetési halasztást engedélyezhet.
 
 (6) Különös méltánylást érdemlő helyzetnek minősül a kamatfizetési kötelezettség teljesítésének elhalasztása tekintetében különösen, ha a családi otthonteremtési kedvezmény igénybevételéről szóló támogatási szerződésben vállalt gyermek azért nem születik meg, mert
 
@@ -28,21 +28,27 @@ eb) a gyermekvállalását azért nem tudta teljesíteni, mert vele szemben a re
 
 f) a fiatal házaspár számára a gyermekvállalás egészségügyi dokumentációval igazoltan ellenjavallt.
 
+(6a)[^108] A (6) bekezdés b) pontja szerinti esetben – illetve ha a gyermek, aki után a családi otthonteremtési kedvezményt igénylik, megváltozott munkaképességű – a megváltozott munkaképességű személlyé válásról a támogatott személy büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratban nyilatkozik. A nyilatkozat tartalmazza a megváltozott munkaképességűvé vált személy nevét, születési adatait, a döntést hozó hatóság megnevezését, a döntés időpontját.
+
 (7) Különös méltánylást érdemlő helyzetnek minősül a családi otthonteremtési kedvezmény összege visszafizetésének elhalasztása tekintetében az, ha a visszafizetési kötelezettség a támogatott személy megélhetését ellehetetlenítené.
 
-(8)[^65] Az (1) és (2) bekezdés szerinti fizetési kötelezettség (6) és (7) bekezdés szerinti elhalasztása esetén a legfeljebb öt éves időtartam elteltével a támogatott személy kérelemére a járási hivatal hatósági jogkörében eljárva méltányossági eljárás keretében a fizetési kötelezettséget részben vagy teljesen elengedheti, ha a támogatott személy életében neki fel nem róható okból nem várható olyan változás, amely a – halasztott – fizetési kötelezettség teljesítését lehetővé teszi.
+(8)[^109] Az (1) és (2) bekezdés szerinti fizetési kötelezettség (6) és (7) bekezdés szerinti elhalasztása esetén a legfeljebb öt éves időtartam elteltével a támogatott személy kérelemére a járási hivatal hatósági jogkörében eljárva méltányossági eljárás keretében a fizetési kötelezettséget részben vagy teljesen elengedheti, ha a támogatott személy életében neki fel nem róható okból nem várható olyan változás, amely a – halasztott – fizetési kötelezettség teljesítését lehetővé teszi.
 
 (9) A (6) bekezdés e) pontja szerinti igazolás kiállítása során az egészségügyi szolgáltató az igazoláson feltünteti a kizáró ok megállapításának első időpontját, azzal, hogy az igazoláson a kizáró ok tényén és időpontján kívül egészségügyi adat nem tüntethető fel.
 
+(9a)[^110] A gyermek halva születését a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló 351/2013. (X. 4.) Korm. rendelet 3. melléklete szerinti okirattal, a gyermek (6) bekezdés d) pontja szerinti fogyatékosságát vagy többszörös és összetett betegségét a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet 3. melléklete szerinti igazolással igazolja a támogatott személy.
+
 (10) Az igazolást a gyermekvállalásra biztosított határidő leteltéig lehet benyújtani.
 
-(11)[^66] A járási hivatal csak olyan igazolást fogadhat el, amely alapján megállapítható, hogy a megelőlegezett családi otthonteremtési kedvezmény igénybevételére irányuló szerződés megkötésének időpontja megelőzi a méltányossági döntést megalapozó ok megállapításának első időpontját.
+(11)[^111] A járási hivatal csak olyan igazolást fogadhat el, amely alapján megállapítható, hogy a megelőlegezett családi otthonteremtési kedvezmény igénybevételére irányuló szerződés megkötésének időpontja megelőzi a méltányossági döntést megalapozó ok megállapításának első időpontját.
 
 (12) A (4) bekezdés szerinti részletfizetési és (5) bekezdés szerinti halasztott fizetési kérelmet a családi otthonteremtési kedvezmény visszafizetését elrendelő határozat támogatott általi kézhezvételét követő 30. napig lehet benyújtani.
 
 (13) A (4) és (5) bekezdés, a (6) bekezdés a), b) és d) pontja, a (7), (8), (11) és (12) bekezdés rendelkezéseit a gyermekvállalásra tekintettel családi otthonteremtési kedvezményt igénybe vevő fiatal házaspáron kívül valamennyi támogatott személy e rendelet szerinti visszafizetési kötelezettségére megfelelően alkalmazni kell.
 
-[^63]: Az 57. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 15. pontja szerint módosított szöveg.
-[^64]: A 57. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 12. és 16. pontja szerint módosított szöveg.
-[^65]: Az 57. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
-[^66]: Az 57. § (11) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 15. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 17. pontja szerint módosított szöveg.
+[^106]: Az 57. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 15. pontja szerint módosított szöveg.
+[^107]: A 57. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 12. és 16. pontja szerint módosított szöveg.
+[^108]: Az 57. § (6a) bekezdését a 26/2018. (II. 28.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^109]: Az 57. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
+[^110]: Az 57. § (9a) bekezdését a 26/2018. (II. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^111]: Az 57. § (11) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 15. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 17. pontja szerint módosított szöveg.
