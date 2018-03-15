@@ -1,8 +1,11 @@
 ## 32. § A nem magyar állampolgár támogatott személy a tartózkodási jogosultsága fennállását évente, legkésőbb január 31-ig igazolja a hitelintézet részére. A nem magyar állampolgár támogatott személy a tartózkodási jogosultságában bekövetkezett változást 8 napon belül köteles a hitelintézetnek bejelenteni.
 
-33. § (1)[^52] A járási hivatal a támogatott személynél a családi otthonteremtési kedvezmény igénybevételének jogszerűségét hatósági ellenőrzés keretében vizsgálja.
+33. §[^91] (1) Az állami adóhatóság a családi otthonteremtési kedvezmény igénylésekor tett nyilatkozatok valóságtartalmát, valamint a 14. § (10) bekezdése szerinti nyilatkozatban vállalt kötelezettség teljesülését valamennyi támogatott személynél a támogatási szerződés megkötésétől a 14. § (3) bekezdés j) pontjában meghatározott időszak végéig hatósági ellenőrzés keretében vizsgálja.
 
-(2)[^53] A járási hivatal a jogosulatlan igénybevétel tényéről a folyósító hitelintézetet írásban tájékoztatja.
+(2) A járási hivatal a támogatott személynél a családi otthonteremtési kedvezmény igénybevételének jogszerűségét hatósági ellenőrzés keretében vizsgálja.
 
-[^52]: A 33. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 5. pontja szerint módosított szöveg.
-[^53]: A 33. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 5. pontja szerint módosított szöveg.
+(3) Ha az állami adóhatóság az (1) bekezdés szerinti, vagy a járási hivatal a (2) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy a támogatott személy jogosulatlanul vette igénybe a családi otthonteremtési kedvezményt, határozatban intézkedik a támogatás – az e rendeletben meghatározott esetekben késedelmi kamattal növelt összegének – visszatérítése iránt.
+
+(4) Az állami adóhatóság az (1) bekezdésben foglalt, a járási hivatal a (2) bekezdésben foglalt ellenőrzést követő eljárás eredményéről a folyósító hitelintézetet írásban tájékoztatja.
+
+[^91]: A 33. § a 26/2018. (II. 28.) Korm. rendelet 33. §-ával megállapított szöveg.

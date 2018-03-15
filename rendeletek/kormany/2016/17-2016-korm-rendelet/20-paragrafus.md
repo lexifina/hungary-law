@@ -4,7 +4,7 @@
 
 (2) A fiatal házaspár gyermekvállalásának teljesítésére előírt határidő – a (6) és (7) bekezdésben foglalt eltérésekkel – egy gyermek vállalása esetén 4 év, két gyermek vállalása esetén 8 év.
 
-(3)[^34] A vállalt gyermek megszületésére vonatkozó határidőt lakás
+(3)[^60] A vállalt gyermek megszületésére vonatkozó határidőt lakás
 
 a) vásárlása esetén a támogatási szerződés megkötésének időpontjától,
 
@@ -20,13 +20,14 @@ c) egyszerű bejelentéshez kötött bővítése esetén a felépítés megtört
 
 (6) A gyermekvállalás teljesítésére vonatkozó határidő a várandósság orvosilag megállapított tényére tekintettel a várandósság végéig meghosszabbodik, ha a fiatal házaspár a várandósság tényét orvosi bizonyítvánnyal a vállalási határidő lejártáig a hitelintézetnek igazolja.
 
-(7)[^35] Ha a fiatal házaspár a gyermekvállalást örökbefogadással kívánja teljesíteni és a gyámügyi feladatkörében eljáró kormányhivatalnak az örökbefogadásra való alkalmasságot megállapító határozatát a hitelintézet részére a (2) bekezdés szerinti, gyermekvállalás teljesítésére vonatkozó határidő lejárta előtt bemutatja, a gyermekvállalás teljesítésére vonatkozó határidő két évvel meghosszabbodik. A hitelintézet a fiatal házaspárt és a járási hivatalt a gyermekvállalás teljesítésére vonatkozó határidő meghosszabbításáról írásban értesíti.
+(7)[^61] Ha a fiatal házaspár a gyermekvállalást örökbefogadással kívánja teljesíteni és a gyámügyi feladatkörében eljáró kormányhivatalnak az örökbefogadásra való alkalmasságot megállapító határozatát a hitelintézet részére a (2) bekezdés szerinti, gyermekvállalás teljesítésére vonatkozó határidő lejárta előtt bemutatja, a gyermekvállalás teljesítésére vonatkozó határidő két évvel meghosszabbodik. A hitelintézet a fiatal házaspárt és a járási hivatalt a gyermekvállalás teljesítésére vonatkozó határidő meghosszabbításáról írásban értesíti.
 
 (8) A gyermekvállalás teljesítése a támogatott személy által örökbefogadott, valamint bírósági vagy hatósági határozat következtében utóbb a háztartásába került vér szerinti gyermek is. A gyermekvállalás teljesítését a Kincstár a 14. § (3) bekezdés m) pont szerinti hozzájárulás alapján megállapítja és erről a hitelintézetet értesíti.
 
 (9) A Kincstár a (2) bekezdésben meghatározott, a gyermekvállalás teljesítésére vonatkozó határidő alatt, illetve annak leteltét követő 6 hónapon belül adategyeztetésre hívhatja fel a fiatal házaspárt.
 
-(10) Ha a fiatal házaspár vállalt gyermeke után nem igényelt családtámogatási ellátást vagy azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényelte, úgy – a kiállítást követő 60 napon belül – a gyermekvállalás teljesítését igazoló okiratot és a gyermek adóazonosító jelét tartalmazó adóigazolványát köteles a hitelintézet részére bemutatni.
+(10)[^62] Ha a fiatal házaspár vállalt gyermeke után nem igényelt családtámogatási ellátást vagy azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényelte, akkor a gyermekvállalás teljesítését – a gyermek neve, születési adatai, adóazonosító jele, a gyermekvállalás teljesítésére vonatkozó egyéb információk megadásával – büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratban a hitelintézetnek bejelenti, és – a gyermek születését követő 60 napon belül – a gyermek lakcímét igazoló hatósági igazolványát a hitelintézet részére bemutatja. A gyermek halva születését – a gyermek születését követő 60 napon belül – a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló 351/2013. (X. 4.) Korm. rendelet 3. melléklete szerinti okirattal igazolja a támogatott személy.
 
-[^34]: A 20. § (3) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 50. §-ával megállapított szöveg.
-[^35]: A 20. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 3. pontja szerint módosított szöveg.
+[^60]: A 20. § (3) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^61]: A 20. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 3. pontja szerint módosított szöveg.
+[^62]: A 20. § (10) bekezdése a 26/2018. (II. 28.) Korm. rendelet 30. §-ával megállapított szöveg.

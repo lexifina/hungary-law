@@ -1,3 +1,5 @@
+## 59. §[^142] A Módr2. hatálybalépését[^143] követően a menedékjogról szóló 2007. évi LXXX. törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkező személy nem jogosult családi otthonteremtési kedvezményre. A Módr2. hatálybalépését megelőzően benyújtott kérelmekre, megkötött támogatási szerződésekre, folyósított támogatásokra e rendeletnek a Módr2. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
+
 1. melléklet a 17/2016. (II. 10.) Korm. rendelethez
 
 Büntetőjogi kizáró feltételek
@@ -13,3 +15,6 @@ c) a 2013. június 30. napjáig hatályban volt 1978. évi IV. törvény szerint
 d) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti kiskorúval való kapcsolattartás akadályozásának vétsége [Btk. 210. § (1) bekezdés], kiskorú elhelyezésének megváltoztatása vétsége [Btk. 211. § (1) bekezdés], tartási kötelezettség elmulasztása vétsége [Btk. 212. § (1) bekezdés], kapcsolati erőszak vétsége [Btk. 212/A. § (1) bekezdés], gondatlanságból elkövetett családi jogállás megsértésének vétsége [Btk. 213. § (3) bekezdés], rablás előkészületének vétsége [Btk. 365. § (5) bekezdés], lopás vétsége [Btk. 370. § (2) bekezdés], rongálás vétsége [Btk. 371. § (2) bekezdés], sikkasztás vétsége [Btk. 372. § (2) bekezdés], csalás vétsége [Btk. 373. § (2) bekezdés], gazdasági csalás vétsége [Btk. 374. § (2) bekezdés], hűtlen kezelés vétsége [Btk. 376. § (2) bekezdés], hanyag kezelés vétsége [Btk. 377. § (1) bekezdés], jogtalan elsajátítás vétsége [Btk. 378. § (1) bekezdés], orgazdaság vétsége [Btk. 379. § (2) bekezdés], társadalombiztosítási, szociális vagy más jóléti juttatással visszaélés vétsége [Btk. 395. § (1) bekezdés], költségvetési csalás vétsége [Btk. 396. § (1) bekezdés], jövedékkel visszaélés elősegítésének vétsége [Btk. 398. § (1) bekezdés], csődbűncselekmény esetében a hitelezői kielégítési sorrend kijátszásának vétsége [Btk. 404. § (4) bekezdés], feljelentés elmulasztása felszámolási eljárásban vétsége [Btk. 404/A. §], tartozás fedezetének elvonása vétsége [Btk. 405. § (1) bekezdés], gazdasági adatszolgáltatási kötelezettség elmulasztása vétsége [Btk. 409. § (2) bekezdés], gazdasági titok megsértése vétsége [Btk. 413. § (1) bekezdés]
 
 miatt megállapította, és az elkövető az igénylés időpontjában még nem mentesült a büntetett előélethez fűződő hátrányos jogkövetkezmények alól.
+
+[^142]: Az 59. §-t a 26/2018. (II. 28.) Korm. rendelet 36. §-a iktatta be.
+[^143]: A hatálybalépés időpontja 2018. március 15.
