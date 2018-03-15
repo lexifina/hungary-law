@@ -18,13 +18,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:304 mezőjében az „5,43” szövegrész helyébe az „5,75” szöveg,
-
-## b) E:304 mezőjében a „0,56” szövegrész helyébe a „0,59” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1094/2018. (III. 13.) Korm. határozathoz
 
@@ -33,3 +27,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (nettó, Ft) | Módosítás előtti támogatás (nettó, Ft) | Többlettámogatás legfeljebb (nettó, Ft) | Projekt többlettámogatásai összesen (nettó, Ft) | Megnövelt önerő összesen (nettó, Ft) | Megnövelt támogatás legfeljebb (nettó, Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP- 2.2.2-15- 2015-00003 | Közép- és Kelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 5. (KKMO 5) | Izsák Város Önkormányzata, Ágasegyháza Község Önkormányzata, Orgovány Nagyközség Önkormányzata, Kenderes Városi Önkormányzat, Jászfényszaru Város Önkormányzata, Pusztamonostor Község Önkormányzata és Tápiószőlős Község Önkormányzata az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 3 752 206 699 | 5 425 504 343 | 324 186 904 | 1 997 484 548 | 582 902 321 | 5 749 691 247 | A projekt keretében megvalósítják Izsák és térsége szennyvízkezelő rendszereit, továbbá bővítik Kenderes város szennyvíztisztító telepét és szennyvízcsatorna-hálózatát, korszerűsítik Jászfényszaru és Pusztamonostor szennyvíztisztító és -elvezető rendszereit, valamint kiépítik Tápiószőlős szennyvízelvezető és -tisztító rendszereit. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
