@@ -1,0 +1,1 @@
+## „(2a) Ha az igénylő számára kedvezőbb, a (2) bekezdésben meghatározott számítási mód helyett a családi otthonteremtési kedvezmény összegét azon gyermekek figyelmen kívül hagyásával kell megállapítani, akik után az igénylő korábban a (2) bekezdés szerinti támogatást vagy kölcsönt vett igénybe.”
