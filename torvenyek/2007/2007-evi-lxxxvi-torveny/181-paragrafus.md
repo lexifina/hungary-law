@@ -5,9 +5,3 @@
 [A törvény hatálya nem terjed ki:]
 
 ## „e) a villamos energiáról szóló 2007. évi LXXXVI. törvény hatálya alá tartozó termékek vagy szolgáltatások árára.”
-
-(2) Az Ártv. 17. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „17. § (4) Az energiapolitikáért felelős miniszter árhatósági jogkörébe tartozó, a földgázellátásról szóló törvény hatálya alá tartozó termékek vagy szolgáltatások tekintetében a 16. §-ban foglaltakat a hatósági ár megállapítója helyett a Magyar Energia Hivatal végzi. Az ezzel kapcsolatos eljárásra a villamos energiáról szóló törvény rendelkezéseit kell alkalmazni.”
-
-(3)–(4)

@@ -110,7 +110,9 @@
 
 53. a hálózati csatlakozással összefüggő tervek kivitelezésre való alkalmasságának megállapítása iránt az eljáró műszaki-biztonsági hatóságot, és a műszaki biztonsági hatóság előtt indított eljárás szabályait, valamint a hálózati csatlakozás üzembe helyezésének hálózati engedélyes általi megtagadása esetén az eljáró műszaki biztonsági hatóságot, és a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása szabályait,
 
-54. a kizárólag a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő villanyszerelők által végezhető tevékenységek körét
+54. a kizárólag a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő villanyszerelők által végezhető tevékenységek körét,
+
+55. a nem engedélyköteles kiserőművek középfeszültségű csatlakozási pontja elosztó általi biztosításának határidejét és megvalósításának részletes szabályait,
 
 rendeletben állapítsa meg.
 

@@ -20,7 +20,13 @@ b) biomassza vagy biogáz felhasználásával történő villamosenergia-termel�
 
 (9) A (2) bekezdés b) pontja szerinti prémium típusú támogatás mértékének meghatározásakor – a (7) és (8) bekezdéstől eltérően – csak a működési jellegű állami támogatásokat kell figyelembe venni, beleértve a működés fenntartásához szükséges beruházásokhoz kapott támogatásokat is.
 
-(10) A kötelező átvételi, illetve (2) bekezdés a) pontja szerinti prémium típusú támogatási jogosultságok csak a (7) és (8) bekezdés szerint figyelembe vett támogatás változása esetén, e változással arányosan módosíthatóak.
+(10) A kötelező átvételi, illetve a (2) bekezdés a) pontja szerinti prémium típusú támogatási jogosultságok csak
+
+a) a telephely változása tekintetében vagy
+
+b) a (7) és a (8) bekezdés szerint figyelembe vett támogatás változása esetén, e változással arányosan
+
+módosíthatóak.
 
 (11) A prémium típusú támogatás elnyerésére kiírt pályázatokat a Hivatal bonyolítja le.
 
