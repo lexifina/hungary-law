@@ -1,1 +1,0 @@
-## „(4) Az adó-visszatérítési támogatás kizárólag a 27%-os általános forgalmi adó mértékkel kiállított számla vagy számlák benyújtása esetén vehető igénybe. A 44. § (2) bekezdése szerinti számlabemutatási kötelezettség teljesítésénél az 5%-os általános forgalmi adó mértékkel kiállított számla nem vehető figyelembe.”
