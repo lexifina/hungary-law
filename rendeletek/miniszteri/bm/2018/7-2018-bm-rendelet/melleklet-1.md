@@ -1,4 +1,4 @@
-## 15. § Hatályát veszti a fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 1/2017. (II. 28.) BM rendelet.
+## 15. §[^1]
 
 1. melléklet a 7/2018. (III. 14.) BM rendelethez
 
@@ -169,3 +169,5 @@ A XIV. Belügyminisztérium fejezet 2018. évi költségvetési kiadási előir�
 | 57 | 360395 |  | Megszűnt intézmények technikai elszámolása | Az előirányzat a megszűnt intézmény számlaegyenlegének jogutód intézmény számlájára történő technikai átvezetésére szolgál. | – | – | – | – | – | – | – | – | – |
 
 | 58 | 211178 |  | Fejezeti tartalék | Az előirányzat az év közben felmerülő egyéb kiadások forrásául szolgál. | a miniszter irányítása alá tartozó költségvetési szervek | Az előirányzat felhasználásáról a gazdasági helyettes államtitkár javaslatára a miniszter dönt. | – | Egy összegben, illetve részletekben közvetlen kifizetéssel, előirányzat- átcsoportosítással. | – | – | – | – | – |
+
+[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
