@@ -1,0 +1,1 @@
+## 4. § Ez a rendelet az élelmiszerek és az élelmiszer-összetevők előállítása során felhasznált extrakciós oldószerekre vonatkozó tagállami jogszabályok közelítéséről szóló 2009/32/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2016. október 19-i (EU) 2016/1855 bizottsági irányelvnek való megfelelést szolgálja.
