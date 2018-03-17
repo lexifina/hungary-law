@@ -872,9 +872,9 @@ I. Extrakciós oldószerek, amelyeket a jó gyártási gyakorlat szerint alkalma
 
 II. Olyan extrakciós oldószerek, amelyekre felhasználási feltételeket határoztak meg
 
-| Név | Felhasználási feltételek | A megengedett maradék határérték az extrahált élelmiszerben vagy élelmiszer-összetevőben |
+| Név | Felhasználási feltételek | A megengedett maradék-határérték az extrahált élelmiszerben vagy élelmiszer-összetevőben |
 
-| Hexán3) | Zsírok és olajok előállítása vagy frakcionálása és kakaóvaj előállítása | 1 mg/kg a zsírban, olajban vagy kakaóvajban |
+| Hexán (1) | Zsírok és olajok előállítása vagy frakcionálása és kakaóvaj előállítása | 1 mg/kg a zsírban, olajban vagy kakaóvajban |
 
 | Zsírtalanított fehérjetermékek és zsírtalanított lisztek készítése | 10 mg/kg a zsírtalanított fehérjeterméket és a zsírtalanított lisztet tartalmazó élelmiszerben |
 
@@ -882,22 +882,40 @@ II. Olyan extrakciós oldószerek, amelyekre felhasználási feltételeket hatá
 
 | Zsírtalanított gabonacsírák készítése | 5 mg/kg a zsírtalanított gabonacsírában |
 
-| Metil-acetát | Kávé és tea koffeinmentesítése, vagy izgató és keserű ízanyagainak eltávolítása | 20 mg/kg a kávéban vagy a teában |
+| Metil-acetát | Kávé és tea koffeinmentesítése vagy izgató és keserű ízanyagainak eltávolítása | 20 mg/kg a kávéban vagy a teában |
 
 | Cukor előállítása melaszból | 1 mg/kg a cukorban |
 
-| Etil-metil-keton4) | Zsírok és olajok frakcionálása | 5 mg/kg a zsírban vagy az olajban |
+| Etil-metil-keton (2) | Zsírok és olajok frakcionálása | 5 mg/kg a zsírban vagy az olajban |
 
-| Kávé és tea koffeinmentesítése, vagy izgató és keserű ízanyagainak eltávolítása | 20 mg/kg a kávéban vagy a teában |
+| Kávé és tea koffeinmentesítése vagy izgató és keserű ízanyagainak eltávolítása | 20 mg/kg a kávéban vagy a teában |
 
-| Diklór-metán | Kávé és tea koffeinmentesítése, vagy izgató és keserű ízanyagainak eltávolítása során | 2 mg/kg a pörkölt kávéban, 5 mg/kg a teában |
+| Diklór-metán | Kávé és tea koffeinmentesítése vagy izgató és keserű ízanyagainak eltávolítása | 2 mg/kg a pörkölt kávéban, 5 mg/kg a teában |
 
-| Metil-alkohol | Minden felhasználás esetén | 10 mg/kg |
+| Metanol | Minden felhasználás esetén | 10 mg/kg |
 
 | 2-propanol | Minden felhasználás esetén | 10 mg/kg |
 
-| Dimetil-éter | Zsírtalanított állatifehérje-termékek készítése | 0,009 mg/kg a zsírtalanított fehérjetermékben |
+| Dimetil-éter | Zsírtalanított állatifehérje-termékek előállítása, beleértve a zselatint (3) | 0,009 mg/kg zsírtalanított állatifehérje-termékek készítése, beleértve a zselatint |
+
+| Kollagén (4) és kollagén-származékok előállítása, a zselatin kivételével | 3 mg/kg kollagén és kollagén-származékok készítése, a zselatin kivételével |
+
+## _________________
+
+## (1) A hexán olyan kereskedelmi termék, amely főleg hat szénatomos egyenes láncú telített szénhidrogéneket tartalmaz és a forráspontja 64–70 ºC
+
+## között van. A hexán és etil-metil-keton együttes használata tilos.
+
+## (2) Az n-hexán mennyisége ebben az oldószerben nem haladhatja meg az 50 mg/kg-ot. Az etil-metil-keton és a hexán együttes használata tilos.
+
+## (3) A zselatin természetes és oldható – zselésítő vagy nem zselésítő – fehérje, amelyet az állatok csontjaiból, nyersbőréből és irhájából, inaiból és
+
+## ínhüvelyeiből származó kollagén részleges hidrolízisével nyernek a 853/2004/EK rendelet vonatkozó előírásaival összhangban.
+
+## (4) A kollagén állati csontokból, nyersbőrből, irhából és inakból származó fehérjealapú termék, amelyet a 853/2004/EK rendelet vonatkozó előírásaival
+
+## összhangban állítanak elő.
 
 III. Olyan extrakciós oldószerek, amelyekre felhasználási feltételeket határoztak meg
 
-[^70]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 77/2011. (VIII. 3.) VM rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^70]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 77/2011. (VIII. 3.) VM rendelet 2. § (4) bekezdése, a 6/2018. (III. 14.) FM rendelet 1. §-a szerint módosított szöveg.

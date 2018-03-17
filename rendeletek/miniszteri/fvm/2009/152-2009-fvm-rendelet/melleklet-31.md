@@ -264,8 +264,4 @@ A szárítószekrény olyan felépítésű legyen, hogy a hő gyorsan átjárja 
 
 A szárazanyagtartalmat – a minta tömegszázalékában – a következő képlettel számítjuk ki:
 
-|  | Szárazanyagtartalom % = |  |
-
-ahol
-
 [^87]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.
