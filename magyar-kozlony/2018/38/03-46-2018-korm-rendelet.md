@@ -1,0 +1,48 @@
+# A Kormány 46/2018. (III. 19.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 38. szám, 2018. március 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/47bf6f63dc98ecd7ba3dc22a5c01db2078cd0392/dokumentumok/e32b35e2096d88b3d512da69881aac0367c0491e/letoltes)
+
+---
+
+A Kormány 46/2018. (III. 19.) Korm. rendelete
+a bölcsődei kiegészítő támogatásról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A Kormány bölcsődei kiegészítő támogatást biztosít a bölcsődét, mini bölcsődét fenntartó 32 000 forint egy
+lakosra jutó adóerő-képesség feletti adóerő-képességgel rendelkező települési önkormányzatok és azok társulásai
+(a továbbiakban együtt: önkormányzat) számára.
+(2) A bölcsődei kiegészítő támogatás összege nem haladhatja meg a bölcsődei, mini bölcsődei feladatellátás teljes
+éves kiadásának a gondozási díjakból származó bevétellel és a Magyarország 2018. évi központi költségvetéséről
+szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 2. melléklet III. pont 7. alpont a) pont ac) alpontja szerinti
+bértámogatással csökkentett összegét.
+(3) A bölcsődei kiegészítő támogatás kizárólag az önkormányzat által fenntartott,
+a) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) és
+a Gyvt. 162. § (1) és (2) bekezdése szerinti felhatalmazás alapján kiadott jogszabályokban és
+b) a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvényben (a továbbiakban: Szoctv.) és
+a Szoctv. 132. § (2) bekezdése szerinti felhatalmazás alapján kiadott jogszabályokban
+meghatározott szabályoknak megfelelően működtetett bölcsődék, mini bölcsődék kiadásaihoz használható
+fel. A támogatás szempontjából kizárólag a „Bölcsődei ellátás” kormányzati funkción elszámolt kiadás vehető
+figyelembe.
+(4) A bölcsődei kiegészítő támogatás felhasználásának határideje 2018. december 31.
+2. § (1) A támogatás igénylése érdekében az önkormányzatok a Kvtv. 2. melléklet Kiegészítő szabályok 2. pont
+b) alpontjában foglalt táblázat 1. sorában meghatározott 2018. május 15-ei határidejű adatszolgáltatás keretében
+szolgáltatnak adatot az ebr42 önkormányzati információs rendszeren keresztül a Kvtv. 2. melléklet III. pont 7. alpont
+b) pontja szerinti, az államháztartásért felelős miniszter által kiadott útmutató alapján.
+(2) A bölcsődei kiegészítő támogatás önkormányzatonkénti meghatározásáról és annak összegéről
+– az önkormányzatok által nyújtott adatszolgáltatás alapján, a települések típusát és az egy lakosra jutó
+adóerő-képességét is figyelembe véve – az államháztartásért felelős miniszter, a szociál- és nyugdíjpolitikáért felelős
+miniszter és a helyi önkormányzatokért felelős miniszter 2018. július 31-éig döntenek.
+3. § (1) A bölcsődei kiegészítő támogatás 66%-ának folyósítása 2018. augusztus 15-ig, további összegének folyósítása négy
+egyenlő részletben minden hónap 15-éig történik.
+(2) A kiegészítő támogatás folyósításáról a helyi önkormányzatokért felelős miniszter utalványozása alapján a Magyar
+Államkincstár gondoskodik.
+(3) Az önkormányzatot megillető támogatás összegét a helyi önkormányzatokért felelős miniszter az általa
+üzemeltetett elektronikus rendszeren keresztül elérhetővé teszi.
+
+4. §
+Az önkormányzat a támogatás felhasználásáról 2018. december 31-ei fordulónappal az éves költségvetési
+beszámolójában számol el.
+5. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+(2) Ez a rendelet 2019. május 1-jén hatályát veszti.
+ Orbán Viktor s. k.,
+ miniszterelnök
