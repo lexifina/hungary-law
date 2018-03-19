@@ -20,11 +20,11 @@
 
 ## 3. egyetért azzal, hogy a belügyminiszter a 2. pont b) alpontja szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján 31 750 000 forint támogatást nyújtson Székesfehérvár Megyei Jogú Város Önkormányzata részére a támogatói okirat kiállítását követően;
 
-## 4. felhívja az emberi erőforrások miniszterét, hogy az előkészítés eredményei alapján készítsen előterjesztést a Kormány részére az előkészítés folytatásának kérdéséről, az 1. pont szerinti beruházás megvalósításához, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés bemutatásával;
+## 4.[^1] felhívja az emberi erőforrások miniszterét, hogy az előkészítés eredményei alapján készítsen előterjesztést a Kormány részére az 1. pont szerinti beruházás megvalósításához, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés bemutatásával;
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2018. február 21.
+## Határidő: 2019. január 31.
 
 ## 5. felhívja a nemzetgazdasági minisztert, hogy – az emberi erőforrások minisztere bevonásával – az 1. pontban meghatározott kiállítás szakmai előkészítése és megvalósítása érdekében
 
@@ -111,3 +111,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont az 1109/2018. (III. 19.) Korm. határozat 13. pontjával megállapított szöveg.
