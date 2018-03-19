@@ -1,0 +1,1 @@
+A Kormány a SZEVIÉP Szerkezet- és Vízépítő Zártkörűen Működő Részvénytársaság „felszámolás alatt” által ki nem fizetett ellenszolgáltatással megkárosítottak rendkívüli és méltányosságon alapuló, a lehető leggyorsabb megsegítése érdekében
