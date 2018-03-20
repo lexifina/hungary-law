@@ -1,0 +1,3 @@
+## 1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: 43/1999. Korm. rendelet) 23. §-a a következő (13) bekezdéssel egészül ki:
+
+## „(13) Az alapellátást nyújtó fogorvosi szolgálatot működtető fogorvosi szolgáltatók havonta 130 000 Ft összegű rezsitámogatásra jogosultak szolgálatonként. A havi 130 000 Ft összegű díjazás a heti 30 órás rendelési időben működő szolgálatok esetében kerül kifizetésre, az ennél alacsonyabb rendelési időben működő szolgálatok időarányosan csökkentett mértékű rezsitámogatásra jogosultak. A rezsitámogatás utalványozására az (1) és (3) bekezdés szerinti díjjal egyidejűleg kerül sor.”
