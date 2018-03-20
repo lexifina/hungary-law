@@ -1,0 +1,3 @@
+## 1. § A Digitális Jólét Program végrehajtásával összefüggő egyes feladatokról, valamint a Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 127/2017. (VI. 8.) Korm. rendelet (a továbbiakban: R.) 1. §-a helyébe a következő rendelkezés lép:
+
+## „1. § A Kormány a magyar társadalom és a magyar nemzetgazdaság digitális fejlődésének elősegítése, az infokommunikációs tárgyú fejlesztések összehangolása és a digitális oktatási fejlesztések hatékony végrehajtása érdekében működteti a Digitális Jólét Programot (a továbbiakban: DJP), és a digitális infrastruktúra, kompetenciák, gazdaság és közigazgatás további fejlesztése érdekében a Digitális Jólét Program 2.0-t (a továbbiakban: DJP2.0).”
