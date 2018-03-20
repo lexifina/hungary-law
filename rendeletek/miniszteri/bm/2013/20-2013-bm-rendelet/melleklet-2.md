@@ -124,6 +124,8 @@
 
 | 61. | 60. | 52 | 853 | 03 | Vízügyi ügyintéző | Vízügy |
 
+| 62. | 61. | 52 | 582 | 03 | Vízkútfúró | Vízügy |
+
 2. melléklet a 20/2013. (V. 28.) BM rendelethez[^6]
 
 AZ 1. SORSZÁMÚ BALESETI HELYSZÍNELŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
@@ -5870,10 +5872,4 @@ A szakképesítéssel rendelkező képes
 
 − ellátni a feladatkörébe tartozó irodai készletgazdálkodási, adminisztrációs feladatokat, közigazgatási eljárás keretén belül jogkörében hivatalból vagy kérelemre hatósági eljárást, vagy hatósági ellenőrzést lefolytatni, végezni
 
-− ügyviteli munkafolyamatokat szervezni és irányítani
-
-− irodatechnikai, információs és kommunikációs eszközöket, berendezéseket kezelni, használni
-
-− ügyintézői feladatokat ellátni
-
-[^6]: A 2. melléklet a 36/2016. (VIII. 30.) BM rendelet 4. §-ával megállapított, az 58/2016. (XII. 22.) BM rendelet 38. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 36/2016. (VIII. 30.) BM rendelet 4. §-ával megállapított, az 58/2016. (XII. 22.) BM rendelet 38. §-a, a 6/2018. (III. 5.) BM rendelet 4. § b) pontja szerint módosított szöveg.
