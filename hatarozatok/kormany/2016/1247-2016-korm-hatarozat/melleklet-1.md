@@ -32,7 +32,7 @@
 
 ## Határidő: azonnal
 
-## i)[^5] egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 4. prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 131,03%-áig legyen kötelezettség vállalható.
+## i)[^5] egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 4. prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 123,35%-áig legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható.
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -78,12 +78,12 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP-4.1.0-15 | TEN-T hálózat közúti elérhetőségének javítása | 145,07 | kiemelt | Meghirdetve: 2016. március 1. |
+| 2. | IKOP-4.1.0-15 | TEN-T hálózat közúti elérhetőségének javítása | 136,56 | kiemelt | Meghirdetve: 2016. március 1. |
 
 [^1]: Az 1. pont e) alpontja az 1691/2016. (XI. 29.) Korm. határozat 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 5. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. a) pontja szerint módosított szöveg.
 [^2]: Az 1. pont f) alpontja az 1846/2017. (XI. 14.) Korm. határozat 1. pontjával megállapított szöveg.
 [^3]: Az 1. pont g) alpontját az 1145/2017. (III. 20.) Korm. határozat 1. pontja iktatta be.
 [^4]: Az 1. pont h) pontját az 1961/2017. (XII. 18.) Korm. határozat 3. pontja iktatta be.
-[^5]: Az 1. pont i) alpontját az 1992/2017. (XII. 19.) Korm. határozat 3. pontja iktatta be.
+[^5]: Az 1. pont i) alpontját az 1992/2017. (XII. 19.) Korm. határozat 3. pontja iktatta be, szövege az 1125/2018. (III. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^6]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet az 1819/2017. (XI. 8.) Korm. határozat 5. pontja, az 1846/2017. (XI. 14.) Korm. határozat 3. pontja, az 1961/2017. (XII. 18.) Korm. határozat 6. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. b) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet az 1819/2017. (XI. 8.) Korm. határozat 5. pontja, az 1846/2017. (XI. 14.) Korm. határozat 3. pontja, az 1961/2017. (XII. 18.) Korm. határozat 6. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. b) pontja, az 1125/2018. (III. 19.) Korm. határozat 4. pontja szerint módosított szöveg.

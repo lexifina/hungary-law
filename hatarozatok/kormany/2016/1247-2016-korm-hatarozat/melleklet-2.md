@@ -240,7 +240,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 102b. | IKOP-3.2.0-15 | Pécs város közösségi közlekedés fejlesztése | Pécs Megyei Jogú Város Önkormányzata | 1,70 (támogatási intenzitás: 100%) | Elektromos autóbuszok beszerzése és a működtetéshez szükséges energetikai ellátó és kiszolgáló infrastruktúra kiépítése. |
 
-| 103. | IKOP-4.1.0-15 | 47. sz. főút Hódmezővásárhely elkerülő szakasz megvalósítása | NIF Zrt. | 22,13 (75,0% becsült támogatási intenzitás szerint csökkentett összeg) | Fejleszthető 2x1 sávos országos főút építése. |
+| 103. | IKOP-4.1.0-15 | 47. sz. főút Hódmezővásárhely elkerülő szakasz megvalósítása | NIF Zrt. | 21,60 (támogatási intenzitás: 100%) | Fejleszthető 2x1 sávos országos főút építése. |
 
 | 103a. | IKOP-4.1.0-15 | 83. sz. főút M1–Pápa közötti szakasz fejlesztése, települések elkerülése | NIF Zrt. | 11,02 (90,0% becsült támogatási intenzitás szerint csökkentett összeg) | Győr és Pápa között főút kiépítésének, a pápai repülőtéri bekötőút megvalósításának, valamint a győri bevezető szakasz főútként történő fejlesztésének előkészítése. |
 
@@ -250,7 +250,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 105. | IKOP-4.1.0-15 | 48. sz. főút Debrecen–Nyírábrány, országhatár szakasz fejlesztése | NIF Zrt. | 15,14 (90,0% becsült támogatási intenzitás szerint csökkentett összeg) | A 2x1 sávos főút burkolatának 11,5 tonnás tengelyterhelésre történő megerősítése, Debrecen belterület 2x2 sávos fejlesztés, illetve kapacitásbővítés |
 
-| 106. | IKOP-4.1.0-15 | 21. sz. főút Heves és Nógrád megyei szakaszok kapacitásbővítése | NIF Zrt. | 35,00 (támogatási intenzitás: 100%) | Gyorsúttá fejleszthető 2x2 sávos, fizikai elválasztással rendelkező főút kiépítésének folytatása. |
+| 106. | IKOP-4.1.0-15 | 21. sz. főút Heves és Nógrád megyei szakaszok kapacitásbővítése | NIF Zrt. | 22,30 (támogatási intenzitás: 100%) | Gyorsúttá fejleszthető 2x2 sávos, fizikai elválasztással rendelkező főút kiépítésének folytatása. |
 
 | 106a. |  |  |  |  |  |
 
@@ -258,6 +258,6 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 107a. |  |  |  |  |  |
 
-| 108. | IKOP-4.1.0-15 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | 42,53 (90,0% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autóút építése, a 2502 j. út átkötésének és a 252. sz. főút rekonstrukció kiépítése |
+| 108. | IKOP-4.1.0-15 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | 47,25 (támogatási intenzitás: 100%) | 2x2 sávos autóút építése, a 2502 j. út átkötésének és a 252. sz. főút rekonstrukció kiépítése |
 
-[^8]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. c) pontja, a 2106/2017. (XII. 28.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^8]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. c) pontja, a 2106/2017. (XII. 28.) Korm. határozat 1. pontja, az 1125/2018. (III. 19.) Korm. határozat 5. pontja szerint módosított szöveg.
