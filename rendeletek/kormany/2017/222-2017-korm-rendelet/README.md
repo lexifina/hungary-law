@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-222-20-
 | --- | --- | --- |
 | 2017-08-19 | 2017-222-20-22.1 | 222/2017. (VIII. 11.) Korm. rendelet |
 | 2018-01-05 | 2017-222-20-22.2 | 476/2017. (XII. 28.) Korm. rendelet |
+| 2018-03-20 | 2017-222-20-22.3 | 50/2018. (III. 19.) Korm. rendelet |

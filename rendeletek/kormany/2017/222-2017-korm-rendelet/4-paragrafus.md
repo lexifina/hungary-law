@@ -22,6 +22,8 @@ i) a Beruházás megvalósítójaként javasolt szervezetet,
 
 j) a Beruházás előkészítéséhez már rendelkezésre álló dokumentumok felsorolását,
 
-k) amennyiben az előterjesztésben szerepel a megvalósító szervezetre vonatkozó javaslat is, a megvalósító támogatására vonatkozó, államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 101/A. §-a szerinti egyedi döntésre irányuló javaslatot,
+k)[^4]
 
 l) minden olyan egyéb körülményt, ami a Kormány megalapozott döntéséhez szükséges.
+
+[^4]: A 4. § k) pontját az 50/2018. (III. 19.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
