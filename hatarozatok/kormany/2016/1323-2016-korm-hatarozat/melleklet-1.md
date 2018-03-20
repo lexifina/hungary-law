@@ -4,7 +4,7 @@
 
 ## aa) a KEHOP-1.4.0-15-2016-00011 azonosító számú, „VTT Felső-Tisza árvízvédelmi rendszerének kiépítése, Tisza-Túr tározó” című és
 
-## ab) a KEHOP-1.4.0-15-2016-00013 azonosító számú, „VTT Közép-tiszai tározó kiépítése, Inérháti tározó” című
+## ab)[^1]
 
 ## nagyprojekt-javaslatokat (a továbbiakban együtt: nagyprojekt-javaslatok) az 1. melléklet szerint,
 
@@ -24,7 +24,7 @@
 
 ## cd) a KEHOP-1.4.0-15-2016-00011 azonosító számú, „VTT Felső-Tisza árvízvédelmi rendszerének kiépítése Tisza-Túr tározó című,
 
-## ce) a KEHOP-1.4.0-15-2016-00013 azonosító számú, „VTT Közép-tiszai tározó kiépítése, Inérháti tározó” című,
+## ce)[^2]
 
 ## cf) a KEHOP-1.4.0-15-2016-00014 azonosító számú, „VTT Hullámtér rendezése a Közép-Tiszán” című,
 
@@ -42,9 +42,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3–4.[^1]
+## 3–4.[^3]
 
-1. melléklet az 1323/2016. (VII. 1.) Korm. határozathoz
+1. melléklet az 1323/2016. (VII. 1.) Korm. határozathoz[^4]
 
 |  | A | B | C | D | E |
 
@@ -52,6 +52,9 @@
 
 | 2. | KEHOP-1.4.0-15- 2016-00011 | VTT Felső-Tisza árvízvédelmi rendszerének kiépítése, Tisza-Túr tározó | az Országos Vízügyi Főigazgatóság és a Felső-Tisza-vidéki Vízügyi Igazgatóság konzorciuma | 27 296 659 117 | A Tisza-Túr tározó projekt célja a szükséges árvízvédelmi biztonság megteremtése a Felső-Tisza országhatárhoz közeli szakaszán kialakított, hozzávetőlegesen 45 millió köbméter árapasztó kapacitású tározó létesítésével, összhangban a Vásárhelyi Terv továbbfejlesztése (a továbbiakban: VTT) komplex program célkitűzéseivel. A projekt megvalósulása több mint 130 ezer ember nagyobb árvízi biztonságát szolgálja, míg a közvetetten érintett lakosszám 210 ezer fő. |
 
-| 3. | KEHOP-1.4.0-15- 2016-00013 | VTT Közép-tiszai tározó kiépítése, Inérháti tározó | az Országos Vízügyi Főigazgatóság és az Észak-Magyarországi Vízügyi Igazgatóság konzorciuma | 30 481 572 594 | Az Inérháti tározó projekt célja a VTT komplex program eddigi tapasztalatainak hasznosításával a Tisza-völgy árvízi biztonságának javítása, illetve a hozzávetőlegesen 163 millió köbméter kapacitású tározó megépítése által a Tisza teljes hazai szakaszán a rendkívüli árhullámok csúcsvízszintjeinek csökkentése. A projekt megvalósulása több mint 250 ezer ember nagyobb árvízi biztonságát szolgálja, míg a közvetetten érintett lakosszám meghaladja a 970 ezer főt. |
+| 3. |  |  |  |  |  |
 
-[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpont ab) alpontját az 1124/2018. (III. 19.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
+[^2]: Az 1. pont c) alpont ce) alpontját az 1124/2018. (III. 19.) Korm. határozat 4. pont b) alpontja hatályon kívül helyezte.
+[^3]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet az 1124/2018. (III. 19.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
