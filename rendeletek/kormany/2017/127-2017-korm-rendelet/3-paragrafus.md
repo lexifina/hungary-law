@@ -1,6 +1,6 @@
 3. § (1) A Neumann Nkft. a 2. § a) pontja alapján közfeladatai körében
 
-a) ellátja az információs társadalom fejlesztésével, ezen belül kiemelten a digitális készségek fejlesztésével, és az e területen működő programok koordinációjával kapcsolatos feladatokat az iskolarendszeren kívüli képzések vonatkozásában,
+a)[^2] ellátja az információs társadalom fejlesztésével, ezen belül kiemelten a digitális készségek fejlesztésével, és az e területen működő programok koordinációjával kapcsolatos feladatokat az iskolarendszeren kívüli képzések és egyéb, a lakosság különböző szegmensei és a vállalkozások digitális kompetenciáinak fejlesztését célzó ismeretátadó foglalkozások vonatkozásában,
 
 b) ellátja a Digitális Jólét Program Hálózat (a továbbiakban: DJP Hálózat) és az annak részét képező Digitális Jólét Program Pontok szakmai koordinálásával kapcsolatos feladatokat,
 
@@ -16,4 +16,7 @@ g) részt vesz a Gazdaságfejlesztési és Innovációs Operatív Program keret�
 
 h) működteti a kezdő informatikai vállalkozások nemzetközi piacra lépését segítő szakértői, mentori hálózatot, valamint részt vesz a startup ökoszisztéma fejlesztését szolgáló kormányzati kezdeményezések végrehajtásában.
 
-(2) A Neumann Nkft. az (1) bekezdésben meghatározott feladatait az informatikáért felelős miniszterrel kötött közszolgáltatási szerződés keretében látja el.
+(2)[^3] A Neumann Nkft. az (1) bekezdésben meghatározott feladatait közszolgáltatási, illetve támogatási szerződés keretében látja el.
+
+[^2]: A 3. § (1) bekezdés a) pontja a 49/2018. (III. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 3. § (2) bekezdése a 49/2018. (III. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
