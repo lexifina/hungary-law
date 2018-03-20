@@ -16,7 +16,7 @@ c)[^216] a közlekedésért felelős miniszter által vezetett minisztérium vag
 
 d) az országos fekvőbeteg-ellátó intézetek heti 40 óra szakellátási rendelésre
 
-jogosult.
+## jogosult.
 
 (2a)[^217] Az iskolai, ifjúsági fogászati szolgálat által nyújtott iskolafogászati ellátás finanszírozására a NEAK a Vhr. 16. § (1) bekezdése szerint köt szerződést.
 
@@ -68,7 +68,7 @@ b) a 20 000 főt meghaladó lakosságszámú településeken legfeljebb egy,
 
 c) a b) pont alá nem tartozó települések bármilyen jellegű bevonásával 20 000 főt meghaladó lakosságszám esetén legfeljebb egy,
 
-valamint az e rendelet hatálybalépésekor is működő ügyeleti szolgálatra köthető finanszírozási szerződés.
+## valamint az e rendelet hatálybalépésekor is működő ügyeleti szolgálatra köthető finanszírozási szerződés.
 
 (8)[^228] A területi ellátási kötelezettség nélkül működő fogászati alapellátást nyújtó szolgáltató és a fogászati szakellátást nyújtó szolgáltató – ideértve az egyetemi alap- és szakellátást nyújtó szolgáltatót is – abban az esetben jogosult a (4) és (5) bekezdés szerinti alapdíjra, ha a tárgyhónapban a díjazással érintett szolgálat, illetve szakrendelés szolgáltatást nyújtott.
 

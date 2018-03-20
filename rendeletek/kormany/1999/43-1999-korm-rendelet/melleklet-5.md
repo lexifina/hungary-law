@@ -1,3 +1,5 @@
+## NEM BEJELENTKEZETT BIZTOSÍTOTTAK ELLÁTÁSÁNAK NYILVÁNTARTÁSI ADATAI
+
 ## Jelentési időszak: 199... év ………............. negyedév
 
 ## (199... év …………………......... hótól 199... év ……………….......... hóig)
@@ -26,6 +28,6 @@
 
 | szolgáltató (működtető) | háziorvos |
 
-5. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^618]
+5. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^620]
 
-[^618]: Az 5. számú mellékletet újonnan a 7/2008. (I. 23.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^620]: Az 5. számú mellékletet újonnan a 7/2008. (I. 23.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege az 53/2018. (III. 19.) Korm. rendelet 3. §-ával megállapított szöveg.

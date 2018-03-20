@@ -4,8 +4,6 @@
 
 ## SZAKÁPOLÁSI ELRENDELŐ LAP
 
-## 6K77985Q_1
-
 | Otthoni szakápolást végző szolgáltató | neve: …………………………………………………………………………………………………………. |
 
 |  | címe: …………………………………………………………………………………………………………. |
@@ -74,50 +72,6 @@
 
 | * Kitöltése minden esetben kötelező. Adatai: a jelenlegi ellátást indokló diagnózis miatti utolsó korházi kezelésre vonatkoznak. **Kitöltése a 4-es és 11-es tevékenységi kör esetén kötelező. |
 
-10. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^627]
+10. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^629]
 
-SZAKÁPOLÁSI EGYÉNI ELSZÁMOLÁSÓ LAP
-
-Szolgáltató NEAK kódja Elszámolási lap sorszáma:
-
-SZAKÁPOLÁSI EGYÉNI ELSZÁMOLÓ LAP
-
-Elszámolási időszak: ⬜⬜⬜⬜ év ⬜⬜ hónap
-
-| Otthoni szakápolást végző szolgálat |
-
-| neve: ……………………………………………………………………….. | telefon: ……………………….. |
-
-| címe: ……………………………………………………………………………………………………………….. |
-
-| A szakápolásért felelős szakápoló neve: …………………………………………………………………………… |
-
-| A beteg neve: ……………………………………………………………………. Neme1: Férfi Nő |
-
-| címe: …………………………………………………………………………………………………………………. |
-
-| Társadalombiztosítási azonosító jele: | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-
-| Születési adatai: ………………év ……………………..….. hó …………nap |
-
-| Fekvőbeteg intézeti ápolást indokló diagnózis (BNO-10) | ⬜⬜⬜⬜⬜ |
-
-| Kórházi kezelés időtartama: …………………………………tól ……………………………..ig |
-
-| Alapbetegség: (BNO-10)2 | ⬜⬜⬜⬜⬜ |
-
-| Kísérő betegség(ek) (BNO-10)3 | ⬜⬜⬜⬜⬜ |
-
-| Szakápolást indokló fődiagnózis (BNO-10)4 | ⬜⬜⬜⬜⬜ |
-
-| Ellátást befolyásoló tényezők (Z00-Z99) | ⬜⬜⬜⬜⬜ |
-
-| Szakápolásba vétel időpontja: …………… év…………………………..hó………………..nap |
-
-| Ápolási eset lezárásának időpontja: ……… év …………………………hó………………..nap |
-
-| Elrendelt vizitek száma: …..…. Eddig elszámolt vizitek száma: ….…… Hányadik folyamatos elrendelés: …….… |
-
-| A beteg állapota: ⬜ teljes ápolásra szoruló beteg ⬜ részleges ápolásra szoruló beteg ⬜ önellátó beteg |
-
-[^627]: A 10. számú melléklet a 15/2005. (I. 26.) Korm. rendelet 16. §-ának (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 34. § 16. pontja szerint módosított szöveg.
+[^629]: A 10. számú melléklet a 15/2005. (I. 26.) Korm. rendelet 16. §-ának (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 34. § 16. pontja szerint módosított szöveg.

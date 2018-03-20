@@ -4,7 +4,7 @@ a) fixdíj, és/vagy
 
 b) teljesítménydíj
 
-illeti meg.
+## illeti meg.
 
 (2)[^58] Egy teljesítményegység forintértéke:
 
