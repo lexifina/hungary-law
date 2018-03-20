@@ -1,5 +1,3 @@
-## A belügyminiszter irányítása alá tartozó, illetve a belügyminiszter felügyelete alá tartozó szerv által irányított, komplex szakmai vizsga szervezésére kijelölt intézmények
-
 |  | A | B | C |
 
 | 1. | Intézmény megnevezése | Intézmény rövidített neve | Intézmény címe |
@@ -30,7 +28,9 @@
 
 | 14. | VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság | VIZITERV Environ Kft. | 4400 Nyíregyháza, Széchenyi utca 15. 3. emelet |
 
-2. melléklet az 58/2012. (XI. 27.) BM rendelethez[^4]
+2. melléklet az 58/2012. (XI. 27.) BM rendelethez[^5]
+
+8K01280M_0
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | „P |
 
@@ -176,4 +176,6 @@
 
 | 70. | 24. | 52 853 03 | Vízügyi ügyintéző |  |  |  |  |  |  |  |  |  |  |  | X | X |
 
-[^4]: A 2. melléklet a 42/2017. (XII. 29.) BM remdelet 6. § (2) bekezdésével megállapított szöveg.
+| 71. |  | 52 582 03 | Vízkútfúró |  |  |  |  |  |  |  |  |  |  |  | X | X |
+
+[^5]: A 2. melléklet a 42/2017. (XII. 29.) BM remdelet 6. § (2) bekezdésével megállapított, a 6/2018. (III. 5.) BM rendelet 3. §-a szerint módosított szöveg.
