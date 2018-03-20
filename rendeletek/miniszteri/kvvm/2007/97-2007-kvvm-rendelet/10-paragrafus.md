@@ -8,125 +8,150 @@
 
 (4) A 3. § (1) bekezdésében meghatározott céloknak megfelelő és műszaki tervek nélkül is elvégezhető észleléseket az üzemeltető szerv köteles e rendelet hatálybalépését követő egy éven belül megkezdeni és folytatni mindaddig, amíg a vízilétesítmény megfigyelési rendszerének tervei megvalósulnak.
 
-Melléklet a 97/2007. (XII. 23.) KvVM rendelethez
+Melléklet a 97/2007. (XII. 23.) KvVM rendelethez[^4]
 
-A rendelet hatálybalépésekor üzemelő és rendszeres megfigyelési kötelezettség alá tartozó kiemelt jelentőségű vízilétesítmények
+Az üzemelő és rendszeres megfigyelési kötelezettség alá tartozó kiemelt jelentőségű vízilétesítmények
 
-1. Vízlépcsők (duzzasztóművek), esetleg hajózsilippel és vízerőművel
+|  | A | B |
 
-Duna: Dunakiliti vízlépcső és létesítményei
+| 1 | 1. Vízlépcsők (duzzasztóművek), esetleg hajózsilippel és vízerőművel |
 
-Kvassay zsilip
+| 2 | Duna: | Dunakiliti vízlépcső és létesítményei |
 
-Tassi zsilip
+| 3 | Kvassay zsilip |
 
-Mosoni-Duna: Mosonmagyaróvári duzzasztómű
+| 4 | Tassi zsilip |
 
-Fertő-tó: Mekszikópusztai zsilip
+| 5 | Mosoni-Duna: | Mosonmagyaróvári duzzasztómű |
 
-Rába: Szentgotthárdi duzzasztómű
+| 6 | Lajta: | Lajta duzzasztó (Mosonmagyaróvár) |
 
-Nicki duzzasztómű létesítményei és vízerőtelep
+| 7 | Fertő tó: | Mekszikópusztai zsilip |
 
-Rábca: Rábca torkolati műtárgy
+| 8 | Rába: | Szentgotthárdi duzzasztómű |
 
-Balaton: Siófoki leeresztő zsilip, hajózsilip
+| 9 | Nicki duzzasztómű létesítményei és vízerőtelep |
 
-Balatonkiliti duzzasztómű
+| 10 | Rábca: | Rábca torkolati műtárgy árvízkapu |
 
-Kis-Balaton: Kis-Balaton 4T műtárgy
+| 11 | Marcal: | Marcal duzzasztó |
 
-Kis-Balaton 21T műtárgy
+| 12 | Balaton: | Siófoki leeresztő zsilip, hajózsilip |
 
-Sió: Sió torkolati mű
+| 13 | Balatonkiliti duzzasztómű |
 
-Velencei-tó: Dinnyési zsilip
+| 14 | Kis-Balaton: | Kis-Balaton 4T műtárgy |
 
-Tisza: Tiszalöki Vízlépcső
+| 15 | Kis-Balaton 21T műtárgy |
 
-Kiskörei Vízlépcső
+| 16 | Sió: | Sió torkolati mű |
 
-Túr: Túr bukó
+| 17 | Velencei-tó: | Dinnyési zsilip |
 
-Hernád: Gibárti duzzasztómű
+| 18 | Tisza: | Tiszalöki Vízlépcső |
 
-Felsődobszai duzzasztómű
+| 19 | Kiskörei Vízlépcső |
 
-Bőcsi duzzasztómű
+| 20 | Túr: | Túr bukó |
 
-Takta: Kesznyéteni árvízkapu
+| 21 | Hernád: | Gibárti duzzasztómű |
 
-Körösök: Gyulai duzzasztómű
+| 22 | Felsődobszai duzzasztómű |
 
-Békésszentandrási duzzasztómű
+| 23 | Bőcsi duzzasztómű |
 
-Békési duzzasztómű
+| 24 | Takta: | Kesznyéteni árvízkapu |
 
-Körösladányi duzzasztómű
+| 25 | Körösök: | Gyulai duzzasztómű |
 
-Bökényi duzzasztómű
+| 26 | Békésszentandrási duzzasztómű |
 
-Hortobágy-Berettyó: Ágotai vészelzárómű
+| 27 | Békési duzzasztómű |
 
-2. Hajózható csatornák és műtárgyaik
+| 28 | Körösladányi duzzasztómű |
 
-Keleti Főcsatorna beeresztő és hajózsilip, Tiszavasvárinál
+| 29 | Bökényi duzzasztómű |
 
-Keleti Főcsatorna Balmazújvárosi bukó
+| 30 | Hortobágy-Berettyó: | Ágotai vészelzárómű |
 
-Deák Ferenc zsilip, Bajánál
+| 31 | 2. Hajózható csatornák és műtárgyaik |
 
-Lónyay Főcsatorna torkolati mű, Gávavencsellőnél
+| 32 | Keleti-főcsatorna beeresztő és hajózsilip, Tiszavasvárinál |
 
-3. Völgyzárógátas és hullámtéri tározók és műtárgyaik
+| 33 | Keleti-főcsatorna Balmazújvárosi bukó |
 
-Rakacai
+| 34 | Deák Ferenc zsilip, Bajánál |
 
-Lázbérci
+| 35 | Lónyay Főcsatorna torkolati mű, Gávavencsellőnél |
 
-Köszörűvölgyi
+| 36 | 3. Völgyzárógátas és hullámtéri tározók és műtárgyaik |
 
-Csórréti
+| 37 | Rakacai-víztározó |
 
-Komravölgyi
+| 38 | Lázbérci-víztározó |
 
-Hasznosi
+| 39 | Köszörű-völgyi víztározó |
 
-Markazi
+| 40 | Csórréti-víztározó |
 
-Vaskapui (fehérvárcsurgói) tározó
+| 41 | Komra-völgyi víztározó |
 
-Tatai Öreg-tó Vecserei zsilip
+| 42 | Hasznosi-víztározó |
 
-Góri tározó zsilipje
+| 43 | Markazi-víztározó |
 
-Alsószenterzsébeti tározó műtárgya
+| 44 | Fehérvárcsurgói-tározó |
 
-4. Vízkivételek
+| 45 | Tatai Öreg-tó Vecserei zsilip |
 
-Mosoni Duna 1.j. beeresztőzsilip
+| 46 | Góri-tározó zsilipje |
 
-Mosoni Duna 6.j. beeresztőzsilip
+| 47 | Alsószenterzsébeti-tározó műtárgya |
 
-Nyugati Főcsatorna beeresztőzsilip
+| 48 | Kebele-tározó műtárgya |
 
-Nagykunsági Főcsatorna beeresztőzsilip
+| 49 | Lukácsházi-tározó műtárgya |
 
-Jászsági Főcsatorna beeresztőzsilip
+| 50 | Nagyteveli-tározó (I. sz.) egyesített műtárgya |
 
-Kiskunsági Főcsatorna beeresztőzsilip
+| 51 | Szamos-Kraszna-közi tározó |
 
-Hortobágy-Berettyó árvízkapu
+| 52 | Beregi-tározó |
 
-Tiszai Hőerőmű vízkivétele
+| 53 | Tiszaroffi árapasztó-tározó északi és déli töltő-ürítő műtárgyai |
 
-Paksi Erőmű vízkivétele
+| 54 | Nagykunsági árapasztó-tározó vízbeeresztő és leeresztő műtárgya |
 
-Dunai Hőerőmű vízkivétele
+| 55 | Hanyi-Tiszasülyi árapasztó-tározó vízbeeresztő és leeresztő műtárgya |
 
-5. Víz- és szennyvíztisztító telepek
+| 56 | 4. Vízkivételek |
 
-Észak-pesti szennyvíztisztító telep
+| 57 | Mosoni-Duna: Iparcsatorna torkolati műtárgy, árvízkapu (Győr) |
+
+| 58 | Mosoni-Duna: Rajkai vízkivételi zsilip (1. sz.) |
+
+| 59 | Mosoni-Duna: Víg zsilip (6. sz.) |
+
+| 60 | Nyugati-főcsatorna beeresztőzsilip |
+
+| 61 | Nagykunsági-főcsatorna beeresztőzsilip |
+
+| 62 | Jászsági-főcsatorna beeresztőzsilip |
+
+| 63 | Kiskunsági-főcsatorna beeresztőzsilip |
+
+| 64 | Hortobágy-Berettyó árvízkapu |
+
+| 65 | Tiszai Hőerőmű vízkivétele |
+
+| 66 | Paksi Erőmű vízkivétele |
+
+| 67 | Dunai Hőerőmű vízkivétele |
+
+| 68 | 5. Víz- és szennyvíztisztító telepek |
+
+| 69 | Észak-pesti szennyvíztisztító-telep |
 
 [^2]: A 9. §-t a 44/2017. (XII. 29.) BM rendelet 33. §-a hatályon kívül helyezte.
 [^3]: A 10. § (3) bekezdését a 147/2011. (XII. 23.) VM rendelet 17. § e) pontja hatályon kívül helyezte.
+[^4]: A melléklet a 6/2018. (III. 5.) BM rendelet 1. §-ával megállapított szöveg.
