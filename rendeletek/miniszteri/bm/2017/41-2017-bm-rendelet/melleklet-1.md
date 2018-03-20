@@ -1,6 +1,6 @@
-## 7. §[^1]
+## 7. §[^1] E rendeletnek az egyes miniszteri rendeletek vízügyi tárgyú módosításáról szóló 6/2018. (III. 5.) BM rendelettel (a továbbiakban: Módr.) megállapított 1–4. mellékletét a Módr. hatálybalépését[^2] követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
 
-1. melléklet a 41/2017. (XII. 29.) BM rendelethez
+1. melléklet a 41/2017. (XII. 29.) BM rendelethez[^3]
 
 ## Az elvi vízjogi engedélyezési eljáráshoz szükséges dokumentáció tartalma
 
@@ -14,7 +14,7 @@
 
 1.4. A műszaki dokumentáció elkészítésére jogosult nyilatkozata a megbízásáról és a jogosultságáról.
 
-2. Vízilétesítmény vagy vízimunka műszaki adatai
+2. Vízilétesítmény, vízhasználat vagy vízimunka műszaki adatai
 
 2.1. Vízilétesítmény vagy vízimunka megnevezése.
 
@@ -22,7 +22,7 @@
 
 2.3. A tervbe vett műszaki megoldás általános ismertetése:
 
-2.3.1. a vízgazdálkodási igények és a kielégítésükre tervbe vett vízimunka, vízhasználata vagy vízilétesítmény célja, valamint a megvalósítás választott műszaki megoldása;
+2.3.1. a vízgazdálkodási igények és a kielégítésükre tervbe vett vízimunka, vízhasználat vagy vízilétesítmény célja, valamint a megvalósítás választott műszaki megoldása;
 
 2.3.2. a megvalósítás tervezett időtartama, illetőleg annak ütemezése;
 
@@ -42,9 +42,9 @@ d) a tervezett létesítményeknek az érintett terület-felhasználási kategó
 
 2.3.6. az alábbi vízgazdálkodási céloktól függően, a 2.3.1–2.3.5 pontokban foglaltakon felül:
 
-a) vízhasznosítás esetén:
+a) vízhasználat esetén:
 
-aa) a vízhasznosítás (vízigény) célja és időszaka,
+aa) a vízhasználat (vízigény) célja és időszaka,
 
 ab) a szükséges (tervezett) víz mennyisége és minősége,
 
@@ -54,7 +54,7 @@ ad) a vízkivétel időszaka és üteme, a vízkezelés tervezett módja, a víz
 
 ae) a felszín alatti vízkészlet tervezett igénybevétele esetén a külön jogszabály szerint szükséges egyéb adatok,
 
-af) a 2.3.5. pontban meghatározott méretarányú helyszínrajz, amelyen fel kell tüntetni a vízkivétel helyét (vízfolyás, csatorna, természetes vagy mesterséges tó, tározó), a vízbeszerzésre szolgáló művet és a nyomvonalát, valamint a vízhasznosítás helyét,
+af) a 2.3.5. pontban meghatározott méretarányú helyszínrajz, amelyen fel kell tüntetni a vízkivétel helyét (vízfolyás, csatorna, természetes vagy mesterséges tó, tározó), a vízbeszerzésre szolgáló művet és a nyomvonalát, valamint a vízhasználat helyét,
 
 b) a szennyvízelvezetés esetén:
 
@@ -82,4 +82,6 @@ db) a vízrendezéssel érintett terület helyszínrajza.
 
 2.4. A környezeti hatások jelentősége vizsgálatának eredménye.
 
-[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 6/2018. (III. 5.) BM rendelet 5. §-a iktatta be.
+[^2]: A hatálybalépés időpontja 2018. március 20.
+[^3]: Az 1. melléklet a 6/2018. (III. 5.) BM rendelet 6. § a) pontja szerint módosított szöveg.

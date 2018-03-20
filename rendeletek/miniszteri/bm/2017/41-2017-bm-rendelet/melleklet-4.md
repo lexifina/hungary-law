@@ -30,9 +30,9 @@
 
 ## 2.3.2. a vízhasználat mértékadó kapacitása (mennyiségi, minőségi bontás, maximális vízhozam, vízminőség-változás) l/percben és m3/napban, a vízminőség, a vízkészlet és a vízhasználat szempontjából;
 
-## 2.3.3. a vízhasználatra vonatkozó üzemi jellemzők (szakaszos, folyamatos, időszakos);
+## 2.3.3. vízigényszámítás, a vízhasználatra vonatkozó üzemi jellemzők (szakaszos, folyamatos, időszakos);
 
-## 2.3.4. az egyes vízilétesítmények részletes műszaki leírása:
+## 2.3.4. az egyes vízilétesítmények, vízhasználat részletes műszaki leírása:
 
 ## a) kút talpmélysége, a béléscsövezés mélységtartománya, átmérője, anyaga, a szűrőzés mélységköze, átmérője, típusa,
 
@@ -82,7 +82,7 @@
 
 ## 2.4.1. a védőidomok, védőterületek meghatározásának bemutatása (a szivárgáshidraulikai számítások ismertetése, beleértve a módszert, az adatokat, a számítás, illetve a becslés során tett megfontolásokat és az eredményeket olyan részletességgel, hogy megítélhető legyen a kijelölés kellő alapossága és szakszerűsége, az inhomogenitások módosító hatásainak figyelembevétele);
 
-## 2.4.2. a védőidomok, védőterületek leírása (ezek határoló vonalainak térképi ábrázolása a földhivatal nyilvántartás egységeihez igazítva, a belső és külső védőterületek ábrázolása az ingatlan-nyilvántartási térkép másolatán, de legalább 1:4000-es méretarányban, az ezen kívüli területek ábrázolása 1:10 000-es, kivételes esetekben 1:25 000-es méretarányú térképeken);
+## 2.4.2. a védőidomok, védőterületek leírása (ezek határoló vonalainak térképi ábrázolása a földhivatal nyilvántartás egységeihez igazítva, a belső és külső védőterületek ábrázolása az ingatlan-nyilvántartási térkép másolatán, de legalább 1:4000-es méretarányban, az ezen kívüli területek ábrázolása 1:10 000-es, kivételes esetekben 1:25 000-es méretarányú térképeken);
 
 ## 2.4.3. a szennyezőforrások ismertetése az alábbi csoportosításban: a vízkészlet állapotát befolyásoló létesítmények és tevékenységek, a szennyezőforrások jelentőségével arányos bemutatása, értékelve a vízkészletek állapotára gyakorolt hatásukat:
 
@@ -207,6 +207,8 @@
 ## 4.3. Egyéb jellemző műszaki adatok, amelyek a hatóság engedélyében nem szerepelnek.
 
 ## 4.4. A vízilétesítmény, valamint a szakszerű eltömedékelés módjának részletes műszaki leírása.
+
+## 5. A tervezett vízilétesítmények (galéria, kút, kútfürt, vízakna, felszín alatti vízbetáplálás – vízterhelési pont, felszín alatti vízelvonás – vízterhelési pont, felszínközeli vízrajzi állomás, felszín alatti vízrajzi állomás, felszín alatti vízminőségi megfigyelő állomás, felszínközeli vízminőségi megfigyelő állomás, védőterület, védőidom, ivó-, gyógy- és ásványvíz vízbázis vagy forrás vízrajzi megfigyelő állomás) részletes műszaki adatai.
 
 ## II. Vízellátó művekre vonatkozó dokumentáció tartalma
 
@@ -400,6 +402,8 @@
 
 ## b) fővezeték felsorolása átmérők és anyag szerint.
 
+## 4. A tervezett vízilétesítmények (vízműrendszer, víztermelő mű, víztisztító mű, vízszállító mű, települési elosztóhálózat, víztároló, galéria, kút, kútfürt, vízakna, felszíni vízkivétel – vízterhelési pont, felszíni vízbevezetés – vízterhelési pont, felszín alatti vízelvonás – vízterhelési pont, védőterület, védőidom, ivó-, gyógy- és ásványvíz vízbázis, állattartó vízhasználati telep, fürdő vízhasználati egység, ipari vízhasználati telep, természetvédelemi vízhasználati egység, felszínközeli vízrajzi állomás, felszín alatti vízrajzi állomás, felszíni vízrajzi állomás vagy forrás vízrajzi megfigyelő állomás, egyéb vízhasználatok) részletes műszaki adatai.
+
 ## III. Szennyvízelvezetésre, szennyvíztisztításra, szennyvízelhelyezésre vonatkozó dokumentáció tartalma
 
 ## 1. Általános adatok
@@ -554,6 +558,8 @@
 
 ## 2.13.8. a szennyvízelvezető és szennyvíztisztító mű esetén az üzemeltetési szabályzat, egyedi szennyvízelvezetés esetén az alkalmazott technológiával összefüggő kezelési és karbantartási utasítás, valamint a kárelhárítási felkészülésre vonatkozó műszaki és szervezeti adatok és működési szabályzat.
 
+## 3. A tervezett vízilétesítmények (szennyvízrendszer, szennyvízgyűjtő hálózat, szennyvízszállító mű, szennyvíztisztító mű, kibocsátási pont – szennyvíztisztító telep, kommunális (települési) vízhasználati egység vagy vízhozammérő műtárgy) részletes műszaki adatai.
+
 ## IV. Közműves szennyvízelvezető és tisztítóműbe történő bebocsátást megelőző előtisztításra vonatkozó dokumentáció tartalma
 
 ## 1. Általános adatok
@@ -622,6 +628,8 @@
 
 ## 2.7. Befogadói nyilatkozat.
 
+## 3. A tervezett vízilétesítmények (szennyvízrendszer, ipari vízhasználati telep vagy vízhozammérő műtárgy) részletes műszaki adatai.
+
 ## V. A vízilétesítményhez történő csatlakozásra vonatkozó dokumentáció tartalma
 
 ## 1. Általános adatok
@@ -640,9 +648,9 @@
 
 ## 1.5. A műszaki dokumentáció elkészítésére jogosult nyilatkozata a megbízásáról és a jogosultságáról.
 
-## 2. Kérelmezett/engedélyezett vízilétesítmény/vízimunka adatai
+## 2. Kérelmezett/engedélyezett vízilétesítmény vagy vízhasználat/vízimunka adatai
 
-## 2.1. A vízilétesítmény/vízimunka megnevezése:
+## 2.1. A vízilétesítmény vagy vízhasználat/vízimunka megnevezése:
 
 ## 2.1.1. a csatlakozás alapját képező vízilétesítmény;
 
@@ -662,6 +670,8 @@
 
 ## 2.3.5. befogadói nyilatkozat, ha a tervezett vízimunka vagy vízilétesítmény által a befogadóba (a felszíni vízbe, valamint annak medrébe) vezetett víz veszélyezteti a befogadó vízelvezető képességét, illetve a tervezett vízilétesítmény megvalósítása a befogadó igénybevételével jár.
 
+## 3. A tervezett vízilétesítmények (létesített vízfolyás, mesterséges állóvíz, tározó, felszíni vízkivétel – vízterhelési pont vagy felszín alatti vízelvonás – vízterhelési pont) részletes műszaki adatai.
+
 ## VI. Az öntözőtelepre vonatkozó dokumentáció tartalma
 
 ## 1. Általános adatok
@@ -680,9 +690,9 @@
 
 ## 1.5. A műszaki dokumentáció elkészítésére jogosult nyilatkozata a megbízásáról és a jogosultságáról.
 
-## 2. Kérelmezett/engedélyezett vízilétesítmény adatai
+## 2. Kérelmezett/engedélyezett vízilétesítmény vagy vízhasználat adatai
 
-## 2.1. A vízilétesítmény, valamint vízimunka megnevezése.
+## 2.1. A vízilétesítmény, vízilétesítmény vagy vízhasználat megnevezése.
 
 ## 2.2. Az érintett terület helye: település, cím, helyrajzi szám, EOV koordináták.
 
@@ -696,7 +706,7 @@
 
 ## 2.3.4. az öntöző- vagy belvízcsatorna és az annak vizét szolgáltató megnevezése, szelvényszáma vagy szakaszhatárainak szelvényszáma, valamint a vízfolyás, tó, holtág, tározó maximális-minimális vízszintje, illetőleg a csatorna üzemvízszintje;
 
-## 2.3.5. a felhasználandó öntözővíz mennyisége (l/mp, m3/év), valamint csúcsmennyisége (l/mp) és az üzemelés napi leghosszabb időtartama, szennyvíz öntözése esetén a szennyvíz minősége;
+## 2.3.5. vízigényszámítás, a felhasználandó öntözővíz mennyisége (l/mp, m3/év), valamint csúcsmennyisége (l/mp) és az üzemelés napi leghosszabb időtartama, szennyvíz öntözése esetén a szennyvíz minősége;
 
 ## 2.3.6. felületi öntözés esetén a lecsapolásra kerülő víz közvetlen és közvetett befogadójának megnevezése, a torkolati szelvényszám megjelölésével, a legnagyobb vízhozama és ennek várható ideje;
 
@@ -704,7 +714,7 @@
 
 ## 2.3.8. az érintett vízi- és egyéb létesítmények megjelölése és leírása.
 
-## 2.4. Általános (átnézetes) helyszínrajz 1:10 000–1:100000 méretarányban, amely feltünteti
+## 2.4. Általános (átnézetes) helyszínrajz 1:10 000–1:100000 méretarányban, amely feltünteti
 
 ## 2.4.1. az öntözendő területnek és a közvetlen környéknek az öntöző-, belvízcsatornáját;
 
@@ -754,6 +764,8 @@
 
 ## 3.6. Az érintett vízi- és egyéb létesítmények megjelölése és leírása.
 
+## 4. A tervezett vízilétesítmények (öntözőrendszer, öntözőfürt, szivattyútelep, szivattyúállás, kút, kútfürt, létesített vízfolyás, tározó, áteresz, bujtató, bukó, duzzasztómű, osztómű, szivornya, zsilip, felszín alatti vízelvonás – vízterhelési pont, felszíni vízkivétel – vízterhelési pont, öntözőtelep, rizstelep, felszíni vízbevezetés – vízterhelési pont vagy vízhozammérő műtárgy) részletes műszaki adatai.
+
 ## VII. Egynyári öntözésre vonatkozó dokumentáció tartalma
 
 ## 1. Általános adatok
@@ -764,7 +776,7 @@
 
 ## 1.3. Kérelem tartalma:
 
-## 1.3.1. új (üzemeltetési, fennmaradási vagy megszüntetési) engedély iránti kérelem és előzményengedély száma (ha van);
+## 1.3.1. új (üzemeltetési) engedély iránti kérelem;
 
 ## 1.3.2. meglévő engedély módosítása (időbeli hatály módosítása/engedélyes személyében bekövetkezett változás/engedélyezett vízmennyiség módosítása/műszaki adatokban bekövetkezett változás) és alapengedély száma (ha van).
 
@@ -772,9 +784,9 @@
 
 ## 1.5. A műszaki dokumentáció elkészítésére jogosult nyilatkozata a megbízásáról és a jogosultságáról.
 
-## 2. Kérelmezett/engedélyezett vízilétesítmény adatai
+## 2. Kérelmezett/engedélyezett vízhasználat adatai
 
-## 2.1. A vízilétesítmény, valamint vízimunka megnevezése.
+## 2.1. A vízhasználat megnevezése.
 
 ## 2.2. Az érintett terület helye: település, cím, helyrajzi szám, EOV koordináták.
 
@@ -786,7 +798,7 @@
 
 ## 2.3.3. az öntözés módja és megvalósítása, valamint az öntözendő terület nagysága, növénykultúrája;
 
-## 2.3.4. a felhasználandó öntözővíz mennyisége (l/s, m3/év), valamint csúcsmennyisége (l/s) és az üzemelés napi leghosszabb időtartama.
+## 2.3.4. vízigényszámítás, a felhasználandó öntözővíz mennyisége (l/s, m3/év), valamint csúcsmennyisége (l/s) és az üzemelés napi leghosszabb időtartama.
 
 ## 2.4. Egyszerűsített talajvédelmi terv.
 
@@ -797,6 +809,8 @@
 ## 3.2. Az öntözött terület településnevének és helyrajzi számának megadása, illetve adott helyrajzi számú területen belül öntözött részterület esetén annak pontos lehatárolása.
 
 ## 3.3. A felhasznált öntözővíz mennyisége (l/s, m3/év).
+
+## 4. A tervezett vízilétesítmények (öntözőrendszer, öntözőfürt, szivattyútelep, szivattyúállás, kút, kútfürt, létesített vízfolyás, tározó, vízhozammérő műtárgy, felszín alatti vízelvonás – vízterhelési pont, felszíni vízkivétel – vízterhelési pont, felszíni vízbevezetés – vízterhelési pont, öntözőtelep vagy rizstelep) részletes műszaki adatai.
 
 ## VIII. Halastavakra, víztározókra, holtágakra és talajvíztavakra vonatkozó dokumentáció tartalma
 
@@ -816,15 +830,15 @@
 
 ## 1.5. A műszaki dokumentáció elkészítésére jogosult nyilatkozata a megbízásáról és a jogosultságáról.
 
-## 2. Kérelmezett/engedélyezett vízilétesítmény adatai
+## 2. Kérelmezett/engedélyezett vízilétesítmény, vízhasználat vagy vízimunka adatai
 
-## 2.1. A vízilétesítmény megnevezése.
+## 2.1. A vízilétesítmény, vízhasználat vagy vízimunka megnevezése.
 
 ## 2.2. Az érintett terület helye: település, cím, helyrajzi szám, EOV koordináták.
 
 ## 2.3. Műszaki leírás:
 
-## 2.3.1. a vízilétesítmény megnevezése, rövid műszaki megjelölése, a vízhasznosítás célja és indokolása, valamint helye és területe;
+## 2.3.1. a vízilétesítmény megnevezése, rövid műszaki megjelölése, a vízhasználat célja és indokolása, valamint helye és területe;
 
 ## 2.3.2. a talajmechanikai feltárás jellemző adatai és a talajmechanikai szakvélemény;
 
@@ -836,7 +850,7 @@
 
 ## 2.3.6. a művek és berendezések (műtárgyak, gépek, berendezések), jellemző anyagkitermelő helyeknek a megjelölésével;
 
-## 2.3.7. halastó/tározó/holtág esetén a feltöltéséhez és utánpótlásához szükséges víz mennyisége (l/sec, m3/sec, m3/hó, m3/idény, m3/év);
+## 2.3.7. halastó/tározó/holtág esetén vízigényszámítás, a feltöltéséhez és utánpótlásához szükséges víz mennyisége (l/sec, m3/sec, m3/hó, m3/idény, m3/év);
 
 ## 2.3.8. a tározóból, halastóból, holtágból kiveendő, illetőleg a levezetendő víz mennyisége (l/sec, m3/sec az utóbbi folyamatos vízsugárban és mindkettő m3/sec) és minősége, valamint a leeresztés megoldása és időtartama, a leeresztett víz minősége és a befogadóra gyakorolt hatás vizsgálata;
 
@@ -882,6 +896,8 @@
 
 ## 2.9. A környezeti hatások jelentősége vizsgálatának eredménye.
 
+## 2.9a. Vízelvezetés esetén az érintett befogadó kezelőjének hozzájárulása.
+
 ## 2.10. Üzemeltetési engedély iránti kérelem esetén:
 
 ## 2.10.1. a vízjogi létesítési engedélytől eltérő kivitelezés esetén a tényleges állapotot tartalmazó (a vízilétesítményre, vízimunkára vonatkozó vertikális és horizontális) adatokat is rögzítő tervdokumentáció;
@@ -896,7 +912,9 @@
 
 ## 2.10.6. a tulajdoni, használati korlátozásoknak az ingatlan-nyilvántartásba történő bejegyzéséhez szükséges adatai.
 
-## IX. Vízhasznosítási művekre vonatkozó dokumentáció tartalma
+## 3. A tervezett vízilétesítmények (tározó, mesterséges állóvíz, völgyzáró gát, zsilip, vízhozammérő műtárgy, halgazdasági telep, felszíni vízkivétel – vízterhelési pont, felszíni vízbevezetés – vízterhelési pont vagy felszíni vízrajzi állomás) részletes műszaki adatai.
+
+## IX. Vízszolgáltató művekre és vízelosztó rendszerekre vonatkozó dokumentáció tartalma
 
 ## 1. Általános adatok
 
@@ -914,9 +932,9 @@
 
 ## 1.5. A műszaki dokumentáció elkészítésére jogosult nyilatkozata a megbízásáról és a jogosultságáról.
 
-## 2. Kérelmezett/engedélyezett vízilétesítmény vagy vízimunka adatai
+## 2. Kérelmezett/engedélyezett vízilétesítmény, vízhasználat vagy vízimunka adatai
 
-## 2.1. A vízilétesítmény, valamint vízimunka megnevezése.
+## 2.1. A vízilétesítmény, vízhasználat, valamint vízimunka megnevezése.
 
 ## 2.2. Az érintett terület helye: település, cím, helyrajzi szám, EOV koordináták.
 
@@ -928,7 +946,7 @@
 
 ## 2.3.3. a mű által érintett terület jellege és kiterjedése;
 
-## 2.3.4. a szükséges öntözővíz, illetőleg tápvíz mennyisége, minősége és a vízfelhasználás indokolása;
+## 2.3.4. vízigényszámítás, a szükséges öntözővíz, illetőleg tápvíz mennyisége, minősége és a vízfelhasználás indokolása;
 
 ## 2.3.5. a művek és műtárgyak rövid leírása és jellemző adata;
 
@@ -977,6 +995,8 @@
 ## 2.9.5. ha jogszabály vagy hatósági előírja, üzemeltetési szabályzat;
 
 ## 2.9.6. ha a tervezett vízimunka, vízilétesítmény vagy vízhasználat hatósági határozaton alapuló vízvezetési szolgalom útján valósult meg, az üzemeltetéssel összefüggő és a szolgalom gyakorlásával járó használati korlátozások tartalma, továbbá e korlátozásoknak az ingatlan-nyilvántartásba történő bejegyzéséhez szükséges adatok.
+
+## 3. A tervezett vízilétesítmények (létesített vízfolyás, tározó, zsilip, folyószabályozási mű, áteresz, szivattyútelep, szivattyúállás, vízerő telep, felszíni vízkivétel – vízterhelési pont, vízátvezetés – vízterhelési pont, duzzasztómű, osztómű, szivornya, felszíni vízrajzi állomás vagy vízhozammérő műtárgy) részletes műszaki adatai.
 
 ## X. A vízfolyások rendezésére vonatkozó dokumentáció tartalma
 
@@ -1043,6 +1063,10 @@
 ## 2.8. A hidrológiai és hidraulikai számítások.
 
 ## 2.9. A környezeti hatások jelentősége vizsgálatának eredménye.
+
+## 2.9a. Vízelvezetés esetén az érintett befogadó kezelőjének hozzájárulása.
+
+## 3. A tervezett vízilétesítmények (külterületi csapadékvíz-elvezető rendszer, létesített vízfolyás, tározó, áteresz, bujtató, bukó, duzzasztómű, fenéklépcső, csónakcsúszda, hallépcső, hordalékfogó, sankoló, osztómű, surrantó, szivornya, völgyzáró gát, zsilip, vízhozammérő műtárgy, szivattyútelep, szivattyúállás, talajcsövezett terület, felszíni vízbevezetés – vízterhelési pont, vízátvezetés – vízterhelési pont, zagytér vagy felszíni vízrajzi állomás) részletes műszaki adatai.
 
 ## XI. A területi vízrendezésre vonatkozó dokumentáció tartalma
 
@@ -1112,6 +1136,8 @@
 
 ## 2.8. A környezeti hatások jelentősége vizsgálatának eredménye.
 
+## 2.8a. Vízelvezetés esetén az érintett befogadó kezelőjének hozzájárulása.
+
 ## 2.9. Üzemeltetési engedély iránti kérelem esetén:
 
 ## 2.9.1. a vízjogi létesítési engedélytől eltérő kivitelezés esetén a tényleges állapotot tartalmazó (a vízilétesítményre, vízimunkára vonatkozó vertikális és horizontális) adatokat is rögzítő tervdokumentáció;
@@ -1125,6 +1151,8 @@
 ## 2.9.5. ha jogszabály vagy hatósági előírja, üzemeltetési szabályzat;
 
 ## 2.9.6. ha a tervezett vízimunka, vízilétesítmény vagy vízhasználat hatósági határozaton alapuló vízvezetési szolgalom útján valósult, az üzemeltetéssel összefüggő és a szolgalom gyakorlásával járó használati korlátozások tartalma, továbbá e korlátozásoknak az ingatlan-nyilvántartásba történő bejegyzéséhez szükséges adatok.
+
+## 3. A tervezett vízilétesítmények (belterületi csapadékvíz-elvezető rendszer, külterületi csapadékvíz-elvezető rendszer, létesített vízfolyás, áteresz, szivattyútelep, szivattyúállás, felszíni vízbevezetés – vízterhelési pont, talajcsövezett terület vagy zsilip) részletes műszaki adatai.
 
 ## XII. A belvízvédelmi művekre vonatkozó dokumentáció tartalma
 
@@ -1180,6 +1208,8 @@
 
 ## 2.7. A környezeti hatások jelentősége vizsgálatának eredménye.
 
+## 2.7a. Vízelvezetés esetén az érintett befogadó kezelőjének hozzájárulása.
+
 ## 2.8. Üzemeltetési engedély iránti kérelem esetén:
 
 ## 2.8.1. a vízjogi létesítési engedélytől eltérő kivitelezés esetén a tényleges állapotot tartalmazó (a vízilétesítményre, vízimunkára vonatkozó vertikális és horizontális) adatokat is rögzítő tervdokumentáció;
@@ -1192,7 +1222,9 @@
 
 ## 2.8.5. ha a tervezett vízimunka, vízilétesítmény vagy vízhasználat hatósági határozaton alapuló vízvezetési szolgalom útján valósult meg, az üzemeltetéssel összefüggő és a szolgalom gyakorlásával járó használati korlátozások tartalma, továbbá e korlátozásoknak az ingatlan-nyilvántartásba történő bejegyzéséhez szükséges adatok.
 
-## XIII. A folyószabályozási művekre vonatkozó dokumentáció tartalma
+## 3. A tervezett vízilétesítmények (létesített vízfolyás, felszíni vízbevezetés – vízterhelési pont, tározó, zsilip, áteresz, szivattyútelep, szivattyúállás, bujtató, bukó vagy felszíni vízrajzi állomás) részletes műszaki adatai.
+
+## XIII. A folyó- és tószabályozási művekre vonatkozó dokumentáció tartalma
 
 ## 1. Általános adatok
 
@@ -1226,6 +1258,8 @@
 
 ## 2.3.4. az érintett vízi- és egyéb létesítmények megjelölése és leírása.
 
+## 2.3.5. mederhasználati vízilétesítmény esetén áramlástani modell bemutatása, kismintakísérlettel és áramlási viszonyok vizsgálatával.
+
 ## 2.4. Általános (átnézetes) helyszínrajz 1:100000–1:150000 méretarányban, amely feltünteti
 
 ## 2.4.1. a magassági adatokat;
@@ -1258,6 +1292,8 @@
 
 ## 2.9.6. ha a tervezett vízimunka, vízilétesítmény vagy vízhasználat hatósági határozaton alapuló vízvezetési szolgalom útján valósult meg, az üzemeltetéssel összefüggő és a szolgalom gyakorlásával járó használati korlátozások tartalma, továbbá e korlátozásoknak az ingatlan-nyilvántartásba történő bejegyzéséhez szükséges adatai.
 
+## 3. A tervezett vízilétesítmények [kikötő, létesített vízfolyás, árvízcsúcs-csökkentő tározó be- és kivezető műtárgy, árvízkapu, áteresz, bujtató, bukó, duzzasztómű, fenéklépcső, folyószabályozási mű, hajózsilip, csónakcsúszda, hallépcső, hordalékfogó, sankoló, osztómű, vízierőmű, völgyzáró gát, zsilip, vízhozammérő műtárgy, vízátvezetés – vízterhelési pont, töltés tartozékok, árvízvédelmi (véd)vonal, zagytér, felszíni vízrajzi állomás vagy mederhasználati vízilétesítmény] részletes műszaki adatai.
+
 ## XIV. A meder és part találkozási vonalának megállapítására vonatkozó dokumentáció tartalma
 
 ## 1. Általános adatok
@@ -1286,6 +1322,8 @@
 
 ## 2.4. A parti ingatlan tulajdonosának a partvédő művek létesítésére, illetőleg az elhabolt rész helyreállítására irányuló vízjogi engedély iránti kérelmében – ha a munkák engedélyezését nem az előzőekben meghatározott eljárással együttesen kéri – a partvonalat jogerősen megállapító határozat száma.
 
+## 3. A tervezett vízilétesítmény [árvízvédelmi (véd)vonal] részletes műszaki adatai.
+
 4. melléklet a 41/2017. (XII. 29.) BM rendelethez
 
 ## A vízügyi szakhatósági állásfoglaláshoz szükséges mellékletek tartalma
@@ -1309,3 +1347,10 @@
 3. Részletes helyszínrajz M=1:10 000, 1:4000 vagy 1:2000 méretarányban, a tervbe vett létesítmény, a meglévő érintett (megközelített, keresztezett) vízilétesítmények, és a vízgazdálkodási létesítmény magassági adatainak és mértékadó árvízszintjének feltüntetésével.
 
 4. Keresztezési műtárgyak általános terve M=1:100 vagy 1:200 méretarányban, feltüntetve a keresztezett létesítmény minden műszaki jellemzőjét, fenékszint, levezetési szint, rézsűfenék szélesség, vízhozam, keresztezési magassági elhelyezés, védőtávolság, egyéb adatok.
+
+5.[^6] Vonalas létesítmények esetén a hossz-szelvény a részletes helyszínrajznak megfelelő méretarányban, az úgynevezett abszolút magassági adatok feltüntetésével.
+
+6.[^7] Pontszerű létesítmények (így például kutak, szikkasztók, zárt gyűjtők, közműpótló létesítmények) esetében a létesítmény részletterve, a vízgazdálkodási és a létesítményre vonatkozó műszaki paraméterek feltüntetésével.
+
+[^6]: A 4. melléklet 5. pontját a 6/2018. (III. 5.) BM rendelet 6. § d) pontja iktatta be.
+[^7]: A 4. melléklet 6. pontját a 6/2018. (III. 5.) BM rendelet 6. § d) pontja iktatta be.

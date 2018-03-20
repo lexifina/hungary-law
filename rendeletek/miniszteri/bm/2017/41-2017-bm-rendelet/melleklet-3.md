@@ -80,6 +80,8 @@
 
 ## 4. A megszüntetés tervezett műszaki megoldása.
 
-## 5. A kútr. 13. § (2) bekezdésének való megfelelés igazolása.
+## 5. Fúrt kút esetén a kútr. 13. § (2) bekezdésének való megfelelés igazolása.
 
-3. melléklet a 41/2017. (XII. 29.) BM rendelethez
+3. melléklet a 41/2017. (XII. 29.) BM rendelethez[^5]
+
+[^5]: A 3. melléklet a 6/2018. (III. 5.) BM rendelet 6. § c) pontja szerint módosított szöveg. [E módosító rendelet 6. § c) ponjával elrendelt módosítás, amely szerint a II. fejezet 2.3.1. alpont b) pontjában az „a vízhasználatra vonatkozó” szövegrész helyébe a „vízigényszámítás, a vízhasználatra vonatkozó” szöveg; a II. fejezet 2.3.3. alpontjában a „vízilétesítmények” szövegrész helyébe a „vízilétesítmények, vízhasználat” szöveg; valamint a VII. fejezet 1.3.2. alpontjában az „időbeli hatály/engedélyes személyében bekövetkezett változás/engedélyezett vízmennyiség módosítása/műszaki adatokban bekövetkezett változás” szövegrész helyébe az „engedélyes személyében bekövetkezett változás/engedélyezett vízmennyiség módosítása” szöveg lép, nem vezethető át.]
