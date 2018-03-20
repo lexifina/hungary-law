@@ -164,15 +164,7 @@
 
 ## Határidő: azonnal
 
-## 13. A Korm. határozat 4. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „4. felhívja az emberi erőforrások miniszterét, hogy az előkészítés eredményei alapján készítsen előterjesztést a Kormány részére az 1. pont szerinti beruházás megvalósításához, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés bemutatásával;
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: 2019. január 31.”
+## 13.[^1]
 
 1. melléklet az 1109/2018. (III. 19.) Korm. határozathoz
 
@@ -235,3 +227,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
