@@ -230,6 +230,8 @@
 
 | 112 | butyrfentanyl | N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-butanamide |
 
+| 113 | Acetylfentanyl, acetilfentanil, Desmethyl fentanyl | N-(1-Phenethylpiperidin-4-yl)-N-phenylacetamide |
+
 ## – és az ebben a jegyzékben felsorolt kábítószerek izomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
 ## – valamint az ebben a jegyzékben felsorolt kábítószerek észterei és éterei, amennyiben ilyen észterek és éterek előfordulnak, kivéve, ha azok egy másik jegyzékben szerepelnek;
@@ -390,7 +392,7 @@
 
 | 32 | 3,4-methylendioxypirovalerone (3,4-metiléndioxipirovaleron) / MDPV ** | 1-(1,3-benzodioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
 
-| 33 | 4-methylethcathinone** (4-metiletkatinon) /4-MEC | 2-(ethylamino)-1-(4-methylphenyl)propan-1-one |
+| 33 |  |  |
 
 | 34 | Methylone** (Metilon) | 1-(1,3-benzodioxol-5-yl)-2-(methylamino)propan-1-one |
 
@@ -500,13 +502,13 @@
 
 | 82. | Methoxetamine (metoxetamin) | 2-(ethylamino)-2-(3-methoxyphenyl)cyclohexanone |
 
-| 83. | MPA, Methylthienylpropamine (metiltienil-propamin) | N-methyl-1-(thiophen-2-yl)propan-2-amine |
+| 83. |  |  |
 
 | 84. | ODT, O-desmethyltramadol (O-dezmetiltramadol) | 3-{2-[(dimethylamino)methyl]-1-hydroxycyclohexyl}phenol |
 
 | 85. | para-methyl-4-methylaminorex (para-metil-4-metilaminorex) / 4,4’-DMAR | 4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine, illetve 4-methyl-5-(4-methylphenyl)-1,3-oxazolidin-2-imine tautomerek |
 
-| 86. | Pentedron, β-ethyl-methcathinone (β-etil-metkatinon) | 2-methylamino-1-phenyl-1-pentanone |
+| 86. |  |  |
 
 | 87. | MBZP | 1-benzyl-4-methylpiperazine |
 
@@ -540,7 +542,7 @@
 
 | 102. | α-PVT, alpha-PVT, alpha- pyrrolidinopentiothiophenone | 2-(pyrrolidin-1-yl)-1-(thiophen-2-yl)pentan-1-one |
 
-| 103. | MDMB-CHMICA | N-[[1-(cyclohexylmethyl)-1H-indol-3-yl]carbonyl]-3- methyl- valine, methyl ester |
+| 103. |  |  |
 
 | 104. | MTP, methcathinone thiophen analog | 2-(methylamino)-1-(thiophen-2-yl)propan-1-one |
 
@@ -651,6 +653,18 @@
 | 25 | ethylone | 2-ethylamino-1-(3,4-methylenedioxyphenyl)propan-1-one |
 
 | 26 | XLR-11 | (1-(5-fluoropentyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone |
+
+| 27 | Ethylphenidate, etilfenidát ‘Nopaine’, ‘Fake cocaine’ | Ethyl 2-phenyl-2-(piperidin-2-yl)acetate |
+
+| 28 | 5F-AKB48, AKB-48F, 5F-APINACA, APINACA 5-fluropentyl analogue | N-(1-adamantyl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide |
+
+| 29 | 4-methylethcathinone** (4-metiletkatinon) /4-MEC | 2-(ethylamino)-1-(4-methylphenyl)propan-1-one |
+
+| 30 | MPA, Methylthienylpropamine (metiltienil-propamin) | N-methyl-1-(thiophen-2-yl)propan-2-amine |
+
+| 31 | Pentedron, β-ethyl- methcathinone (β-etil- metkatinon) | 2-methylamino-1-phenyl-1-pentanone |
+
+| 32 | MDMB-CHMICA | N-[[1-(cyclohexylmethyl)-1H-indol-3-yl]carbonyl]-3-methyl-valine, methyl ester |
 
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
