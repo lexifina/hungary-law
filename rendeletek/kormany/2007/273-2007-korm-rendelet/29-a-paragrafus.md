@@ -1,6 +1,6 @@
-## A villamosenergia-ellátásból történő kikapcsolás alóli mentességre vonatkozó részletes szabályok[^144]
+## A villamosenergia-ellátásból történő kikapcsolás alóli mentességre vonatkozó részletes szabályok[^146]
 
-29/A. §[^145] A VET és e rendelet alkalmazásában közintézményi felhasználó
+29/A. §[^147] A VET és e rendelet alkalmazásában közintézményi felhasználó
 
 a) a közoktatásról szóló törvény szerinti óvoda, általános iskola, gyógypedagógiai, konduktív pedagógiai óvoda vagy iskola, és az ezekhez tartozó kollégium, ha
 
@@ -14,7 +14,7 @@ ba) állami vagy önkormányzati fenntartású, vagy
 
 bb) állami vagy önkormányzati feladatok ellátására hatályos ellátási szerződéssel rendelkezik,
 
-c)[^146] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti bölcsődei ellátást nyújtó intézmény és szolgáltató, napközbeni gyermekfelügyelet, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon, lakásotthon, utógondozói otthon és javítóintézet, ha
+c)[^148] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti bölcsődei ellátást nyújtó intézmény és szolgáltató, napközbeni gyermekfelügyelet, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon, lakásotthon, utógondozói otthon és javítóintézet, ha
 
 ca) állami vagy önkormányzati fenntartású, vagy
 
@@ -26,6 +26,6 @@ da) állami vagy önkormányzati fenntartású, vagy
 
 db) egészségügyi közszolgáltatás biztosítására vonatkozó hatályos szerződéssel rendelkezik.
 
-[^144]: A Vhr. 29/A. §-át megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
-[^145]: A Vhr. 29/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
-[^146]: A Vhr. 29/A. § c) pont nyitó szövegrésze a 191/2016. (VII. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^146]: A Vhr. 29/A. §-át megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^147]: A Vhr. 29/A. §-át a 378/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^148]: A Vhr. 29/A. § c) pont nyitó szövegrésze a 191/2016. (VII. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.

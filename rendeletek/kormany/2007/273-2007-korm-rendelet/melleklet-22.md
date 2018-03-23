@@ -1,4 +1,4 @@
-22. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^528]
+22. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^530]
 
 Az erőművi főberendezések adatai
 
@@ -10,7 +10,7 @@ A 4–6. és 9. számú mellékletben meghatározott adatszolgáltatás esetén,
 
 1.2. gyártó,
 
-1.3.[^529] gyári szám, ha az rendelkezésre áll,
+1.3.[^531] gyári szám, ha az rendelkezésre áll,
 
 1.4. gyártási év,
 
@@ -124,19 +124,5 @@ c) frissgőz nyomás (bar).
 
 a) keverék hűtő,
 
-b) olaj hűtő,
-
-c) motor hűtő,
-
-d) kipufogógáz hűtő,
-
-9.4. összes kinyerhető teljesítmény (MW),
-
-9.5. villamos hatásfok névleges teljesítménynél (%),
-
-9.6. termikus hatásfok névleges teljesítménynél (%),
-
-9.7. eredő hatásfok névleges teljesítménynél (%),
-
-[^528]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.
-[^529]: A Vhr 22. számú melléklete a 497/2017. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^530]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.
+[^531]: A Vhr 22. számú melléklete a 497/2017. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

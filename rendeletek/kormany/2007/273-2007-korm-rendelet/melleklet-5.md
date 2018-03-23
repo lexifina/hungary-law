@@ -1,6 +1,6 @@
 5. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű létesítési, névleges teljesítőképességének növelésére vonatkozó és bővítési, valamint névleges teljesítőképességének csökkentésére vonatkozó engedély iránti kérelemhez benyújtandó dokumentumok[^475]
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű létesítési, névleges teljesítőképességének növelésére vonatkozó és bővítési, valamint névleges teljesítőképességének csökkentésére vonatkozó engedély iránti kérelemhez benyújtandó dokumentumok[^477]
 
 1. Az e rendelet 54. §-ában meghatározott adatok,
 
@@ -14,9 +14,9 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű létesít
 
 6. Megvalósíthatósági tanulmány (az e rendelet 19. számú melléklete szerint),
 
-7.[^476] A tevékenység gyakorlásához szükséges, a kérelmező nevére szóló jogerős környezetvédelmi és építési engedély másolata vagy a környezetvédelmi hatóság nyilatkozata arról, hogy környezetvédelmi engedély nem szükséges,
+7.[^478] A tevékenység gyakorlásához szükséges, a kérelmező nevére szóló jogerős környezetvédelmi és építési engedély másolata vagy a környezetvédelmi hatóság nyilatkozata arról, hogy környezetvédelmi engedély nem szükséges,
 
-8.[^477] A létesítés kezdetének várható időpontja, a kivitelezés tervezett határideje,
+8.[^479] A létesítés kezdetének várható időpontja, a kivitelezés tervezett határideje,
 
 9. Az üzembe helyezés várható időpontja,
 
@@ -28,7 +28,7 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű létesít
 
 13. Az e rendelet 59. § (2) bekezdésében meghatározott energiahordozó készletezést igazoló dokumentumok,
 
-14.[^478] Műszaki adatok (bővítés esetén a bővítés utáni állapot szerint):
+14.[^480] Műszaki adatok (bővítés esetén a bővítés utáni állapot szerint):
 
 14.1. egyvonalas villamos kapcsolási rajz,
 
@@ -48,7 +48,7 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű létesít
 
 14.9. a légszennyező pontforrás névleges teljesítőképességhez tartozó szén-monoxid, szén-dioxid, nitrogén-oxid, nitrogén-dioxid és kén dioxid kibocsátása (mg/m3).
 
-[^475]: A Vhr. 5. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdése szerint módosított szöveg.
-[^476]: A Vhr. 5. számú melléklet 7. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.
-[^477]: A Vhr. 5. számú melléklet 8. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.
-[^478]: A Vhr. 5. számú melléklet 14. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.
+[^477]: A Vhr. 5. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdése szerint módosított szöveg.
+[^478]: A Vhr. 5. számú melléklet 7. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.
+[^479]: A Vhr. 5. számú melléklet 8. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.
+[^480]: A Vhr. 5. számú melléklet 14. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.

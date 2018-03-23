@@ -30,7 +30,7 @@ A szervezett villamosenergia-piac működtetésére vonatkozó engedély
 
 1. Az e rendelet 54. §-ában meghatározott adatok,
 
-2.[^496]
+2.[^498]
 
 3. Négy évre szóló független könyvvizsgáló által ellenőrzött üzleti terv,
 
@@ -42,14 +42,14 @@ A szervezett villamosenergia-piac működtetésére vonatkozó engedély
 
 7. Az alkalmazni kívánt üzletszabályzat tervezetének szövege,
 
-8.[^497]
+8.[^499]
 
 9. Az alkalmazni kívánt kereskedési szabályzat tervezetének szövege, amely tartalmazza különösen a termékek felsorolását, az ügylettípusokat, a kereskedési és elszámolási technikákat, módszereket, az adatrögzítési, adatvédelmi megoldásokat,
 
 10. Az alkalmazni kívánt informatikai rendszer részletes bemutatása,
 
-11.[^498]
+11.[^500]
 
-[^496]: A Vhr. 16. számú melléklet 2. pontját a 378/2011. (XII. 31.) Korm. rendelet 33. § (3) bekezdése hatályon kívül helyezte.
-[^497]: A Vhr. 16. számú melléklet 8. pontját a 378/2011. (XII. 31.) Korm. rendelet 33. § (3) bekezdése hatályon kívül helyezte.
-[^498]: A Vhr. 16. számú melléklet 11. pontját a 378/2011. (XII. 31.) Korm. rendelet 33. § (3) bekezdése hatályon kívül helyezte.
+[^498]: A Vhr. 16. számú melléklet 2. pontját a 378/2011. (XII. 31.) Korm. rendelet 33. § (3) bekezdése hatályon kívül helyezte.
+[^499]: A Vhr. 16. számú melléklet 8. pontját a 378/2011. (XII. 31.) Korm. rendelet 33. § (3) bekezdése hatályon kívül helyezte.
+[^500]: A Vhr. 16. számú melléklet 11. pontját a 378/2011. (XII. 31.) Korm. rendelet 33. § (3) bekezdése hatályon kívül helyezte.

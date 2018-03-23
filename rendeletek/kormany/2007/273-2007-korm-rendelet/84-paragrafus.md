@@ -1,6 +1,6 @@
-## Engedélyköteles tevékenységek más személy általi végzésére vonatkozó szabályok[^295]
+## Engedélyköteles tevékenységek más személy általi végzésére vonatkozó szabályok[^297]
 
-84. §[^296] (1)[^297] A VET 102–102/E. §-a szerinti átviteli rendszerirányító a napi átviteli rendszerirányítási tevékenységek teljes körébe, a VET 103. §-a szerinti átviteli rendszerirányító, az átviteli rendszerüzemeltető az 56. § alá tartozó tevékenységek tekintetében kiszervezésre nem jogosult.
+84. §[^298] (1)[^299] A VET 102–102/E. §-a szerinti átviteli rendszerirányító a napi átviteli rendszerirányítási tevékenységek teljes körébe, a VET 103. §-a szerinti átviteli rendszerirányító, az átviteli rendszerüzemeltető az 56. § alá tartozó tevékenységek tekintetében kiszervezésre nem jogosult.
 
 (2) Az engedélyköteles tevékenység jelentős részének minősülnek az engedélyben felsoroltakon kívül azok a tevékenységek, amelyek nélkül az engedélyes nem lenne képes biztonságos, zavartalan és megfelelő színvonalú engedélyköteles tevékenységet végezni, függetlenül attól, hogy a tevékenységről egy vagy több jogügylettel rendelkezik vagy kíván rendelkezni.
 
@@ -14,6 +14,6 @@ b) a VET szerinti engedélyköteles tevékenysége (2) bekezdés szerinti jelent
 
 (5) A (3) bekezdés a) pontja szerinti, a 83. § (3)–(4) bekezdése szerinti kérelem alapján induló eljárás során a Hivatal a VET 95. § (1) bekezdése alapján részletesen vizsgálja a legkisebb költség elvének való megfelelést. A jóváhagyáshoz az engedélyesnek igazolnia kell, hogy a tevékenység kiszervezett formában történő végzése a pénzügyi feltételek mellett, annak időtartamán belül inkább megfelel a legkisebb költség elvének, valamint a felhasználók érdekének, mint ha azt saját maga végezné.
 
-[^295]: A Vhr. 84. §-t megelőző alcíme a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^296]: A Vhr. 84. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^297]: A Vhr. 84. § (1) bekezdése a 300/2013. (VII. 29.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^297]: A Vhr. 84. §-t megelőző alcíme a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^298]: A Vhr. 84. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^299]: A Vhr. 84. § (1) bekezdése a 300/2013. (VII. 29.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

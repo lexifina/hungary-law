@@ -1,3 +1,3 @@
-75. §[^265] A VET 74. § (1) bekezdés h) pontja szerinti engedélyezés szempontjából bővítésnek minősül a magánvezeték és a közcélú hálózat csatlakozási pontján rendelkezésre álló teljesítmény növelése.
+75. §[^267] A VET 74. § (1) bekezdés h) pontja szerinti engedélyezés szempontjából bővítésnek minősül a magánvezeték és a közcélú hálózat csatlakozási pontján rendelkezésre álló teljesítmény növelése.
 
-[^265]: A Vhr. 75. §-a a 378/2011. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^267]: A Vhr. 75. §-a a 378/2011. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.

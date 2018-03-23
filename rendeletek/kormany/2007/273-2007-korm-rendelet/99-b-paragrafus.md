@@ -1,4 +1,4 @@
-99/B. §[^329] (1) A megfelelési ellenőr
+99/B. §[^331] (1) A megfelelési ellenőr
 
 a) figyelemmel kíséri és ellenőrzi a megfelelési program végrehajtását;
 
@@ -52,7 +52,7 @@ d) a megfelelési ellenőrré való kinevezés előzetes jóváhagyására irán
 
 (4) A jogi személy megfelelési ellenőr legalább egy vezető tisztségviselőjének, továbbá az ellenőrzési tevékenység irányításáért közvetlenül felelős vezetőnek vagy az ellenőrzési tevékenységet közvetlenül végző legalább egy személynek meg kell felelnie a (2)–(3) bekezdésben meghatározott feltételeknek.
 
-(5)[^330] A Hivatal a megfelelési ellenőr szakmai alkalmasságának hiányát állapítja meg, ha a megfelelési ellenőr feladatainak ellátása körében a megfelelési program végrehajtása és ellenőrzése szempontjából megtévesztő vagy valótlan adatot közöl, vagy a VET-ben vagy az e rendeletben előírt kötelezettségének megsértését végleges hatósági határozat megállapította.
+(5)[^332] A Hivatal a megfelelési ellenőr szakmai alkalmasságának hiányát állapítja meg, ha a megfelelési ellenőr feladatainak ellátása körében a megfelelési program végrehajtása és ellenőrzése szempontjából megtévesztő vagy valótlan adatot közöl, vagy a VET-ben vagy az e rendeletben előírt kötelezettségének megsértését végleges hatósági határozat megállapította.
 
-[^329]: A Vhr. 99/B. §-t a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
-[^330]: A Vhr. 99/B. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 198. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^331]: A Vhr. 99/B. §-t a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
+[^332]: A Vhr. 99/B. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 198. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

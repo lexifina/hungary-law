@@ -1,4 +1,4 @@
-88. §[^307] (1) A hálózati engedélyes a közreműködő kiválasztása és megbízása során – ha az nem tartozik a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) hatálya alá – a VET 24. § (2) bekezdésében meghatározott belső kiválasztási szabályzatában foglaltak szerint jár el.
+88. §[^309] (1) A hálózati engedélyes a közreműködő kiválasztása és megbízása során – ha az nem tartozik a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) hatálya alá – a VET 24. § (2) bekezdésében meghatározott belső kiválasztási szabályzatában foglaltak szerint jár el.
 
 (2) A hálózati engedélyes az (1) bekezdés szerinti belső kiválasztási szabályzatban szabályozza a kiválasztással és megbízással történő szolgáltatás beszerzésére – és a Hivatal hozzájáruló határozata alapján kiszervezett formában ellátott tevékenységekre – vonatkozó pályáztatási vagy versenyeztetési feltételeket. A kiválasztási szabályzat legalább az alábbiakat tartalmazza:
 
@@ -14,7 +14,7 @@ d) azon eljárásrendet és a feltételeket, amelyek szerint természetes szemé
 
 (4) A hálózati engedélyes köteles a módosításokkal egységes szerkezetbe foglalt, számozással ellátott belső kiválasztási szabályzatot időrendi sorrendben honlapján közzétenni.
 
-(5)[^308] A hálózati engedélyes a 84. § (3) bekezdés a) pontja és a 84/A. § szerint kiszervezett tevékenységek vonatkozásában köteles a VET 24. § (2) bekezdésben meghatározott kiválasztási eljárást legalább három évenként megismételni.
+(5)[^310] A hálózati engedélyes a 84. § (3) bekezdés a) pontja és a 84/A. § szerint kiszervezett tevékenységek vonatkozásában köteles a VET 24. § (2) bekezdésben meghatározott kiválasztási eljárást legalább három évenként megismételni.
 
-[^307]: A Vhr. 88. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^308]: A Vhr. 88. § (5) bekezdése a 300/2013. (VII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^309]: A Vhr. 88. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^310]: A Vhr. 88. § (5) bekezdése a 300/2013. (VII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.

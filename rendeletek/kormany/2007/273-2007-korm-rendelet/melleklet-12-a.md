@@ -12,9 +12,9 @@
 
 ## e) a kérelmező VET 24. § (2) bekezdésében meghatározott belső szabályzatának tervezete,
 
-## f)[^490]
+## f)[^492]
 
-## g)[^491] mindazon személyeknek, akik a tanúsítási eljárás lefolytatására irányuló kérelemhez csatolt iratokat aláírták
+## g)[^493] mindazon személyeknek, akik a tanúsítási eljárás lefolytatására irányuló kérelemhez csatolt iratokat aláírták
 
 ## ga) a közjegyző által hitelesített aláírási címpéldánya,
 
@@ -126,7 +126,7 @@
 
 ## b) az átviteli hálózat tulajdonosában operatív irányítást ellátó személy munkaszerződésében vagy munkavégzésre irányuló egyéb jogviszonyát szabályozó szerződésében meghatározott jogai és kötelezettségei, munkabére és egyéb juttatásai, munkavégzésének feltételei és szakmai érdekei oly módon kerültek-e megállapításra, hogy feladatai ellátása során biztosítsák számára a független cselekvés lehetőségét.
 
-12/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^492]
+12/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^494]
 
 Átviteli rendszerirányításra vonatkozó működési engedély kérelemhez benyújtandó dokumentumok
 
@@ -152,6 +152,6 @@ b) az átviteli hálózat és az elosztók hálózatai között,
 
 9. a kérelmező és a villamosenergia-rendszer azon résztvevői közötti szerződések, üzemviteli megállapodások, akik az átviteli rendszerirányító utasításait a villamosenergia-ellátási szabályzatnak megfelelően kötelesek végrehajtani.
 
-[^490]: A Vhr. 12. számú melléklet I. pont f) alpontját a 457/2017. (XII. 28.) Korm. rendelet 199. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^491]: A Vhr. 12. számú melléklet I. g) pontja a 393/2017. (XII. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^492]: A Vhr. 12/a. számú mellékletét a 75/2011. (V. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^492]: A Vhr. 12. számú melléklet I. pont f) alpontját a 457/2017. (XII. 28.) Korm. rendelet 199. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^493]: A Vhr. 12. számú melléklet I. g) pontja a 393/2017. (XII. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^494]: A Vhr. 12/a. számú mellékletét a 75/2011. (V. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.
