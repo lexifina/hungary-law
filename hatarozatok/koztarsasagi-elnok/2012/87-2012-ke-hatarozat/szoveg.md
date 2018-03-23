@@ -14,4 +14,4 @@ dr. Vida-Sós Tündét
 
 KEH ügyszám: IV-4/00721/2012.
 
-[^1]: A 115/2015. (II. 23.) KE határozat alapján a Köztársasági Elnök dr. Pintérné dr. Polyák Melinda bírói kinevezését 2015. március 1. napjától 2018. február 28. napjáig terjedő időtartamra meghosszabbította.
+[^1]: A 120/2018. (III. 23.) KE határozat alapján a köztársasági elnök dr. Pintérné dr. Polyák Melinda bírói kinevezését 2018. március 1. napjától 2021. február 28. napjáig terjedő időtartamra meghosszabbította.
