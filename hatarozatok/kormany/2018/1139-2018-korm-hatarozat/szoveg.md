@@ -1,0 +1,5 @@
+A Kormány a Balatoni Hajózási Zártkörűen működő Részvénytársaság részére történő tőkejuttatás elhalasztásáról szóló 1213/2012. (VI. 26.) Korm. határozat a) pontjától eltérően felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon a Balatoni Hajózási Zártkörűen működő Részvénytársaságban (a továbbiakban: Balatoni Hajózási Zrt.) lévő 48,99% szavazati arányt megtestesítő állami részvénycsomag ingyenes önkormányzati tulajdonba adása tárgyában – a Balatoni Hajózási Zártkörűen Működő Részvénytársaságban lévő 48,99% szavazati arányt megtestesítő állami részvénycsomag ingyenes önkormányzati tulajdonba adásáról szóló 2064/2008. (V. 29.) Korm. határozat alapján – megkötött Ingyenes Részvény Átruházási Megállapodás olyan tartalmú módosításáról, amely alapján az átvevő önkormányzatok vállalják, hogy a tőkeemelésen túl az ingyenes átruházási szerződés megkötését követően 2019. január 31. napjáig a Balatoni Hajózási Zrt. részére további 1 424 000 000 forint tőkejuttatást biztosítanak.
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: azonnal
