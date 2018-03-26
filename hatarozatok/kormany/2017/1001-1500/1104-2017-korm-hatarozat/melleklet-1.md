@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere
 
-## Határidő: 2018. június 30., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 830,0 millió forint tekintetében 2018. december 31.
+## Határidő: 2018. június 30., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 830,0 millió forint tekintetében 2018. december 31., az Üldözött keresztények segítésének feladatai alcím javára átcsoportosított összesen 690 000 000 forint tekintetében 2019. június 30.
 
 ## 2–4.[^2]
 
@@ -160,6 +160,6 @@ Költségvetési év: 2017.
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: Az 1. pont az 1013/2018. (II. 2.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1013/2018. (II. 2.) Korm. határozat 10. pontja, az 1133/2018. (III. 26.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^2]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 6–16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
