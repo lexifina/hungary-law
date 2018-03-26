@@ -1,0 +1,22 @@
+# A Kormány 1148/2018. (III. 26.) Korm. határozata
+
+Magyar Közlöny 2018. évi 43. szám, 2018. március 26. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/22260d5dfd6a974b4ecfd5d9571ee2a16b908b4c/dokumentumok/ac53bdeca82fb89e25bc9e864e761fa729e95429/letoltes)
+
+---
+
+A Kormány 1148/2018. (III. 26.) Korm. határozata
+a Hernádnémeti nagyközség külterületén található földrészletek beruházási célterületté nyilvánításáról
+A Kormány a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében foglaltakra
+figyelemmel beruházási célterületté nyilvánítja a Hernádnémeti Nagyközség külterületén fekvő, 1. melléklet szerinti
+földrészleteket, valamint az ezen földrészletekből a telekalakítási eljárásban hozott döntés véglegessé válását
+követően kialakított földrészleteket.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1148/2018. (III. 26.) Korm. határozathoz
+Hernádnémeti nagyközség külterületén fekvő, beruházási célterületté nyilvánított földrészletek helyrajzi számai:
+014/1, 014/2, 014/3, 014/4, 014/5, 014/6, 014/7, 014/8, 014/9, 014/10, 014/11, 015/1, 015/2, 015/3, 015/4, 018/2,
+018/3, 018/4, 018/5, 018/6, 018/7, 018/8, 018/9, 018/10, 018/11, 018/12, 018/13, 018/14, 018/15, 018/16, 018/17,
+018/18, 018/19, 018/20, 018/21, 018/22, 018/23, 018/24, 018/25, 018/26, 018/27, 020/8, 020/9, 020/10, 020/11,
+020/12, 020/13, 020/14, 020/15, 020/16, 043/3, 043/4, 043/5, 043/6, 043/7, 043/8, 043/9, 043/10, 043/11, 048/1, 049,
+050/53, 050/54, 050/55, 050/56, 050/57, 050/58, 050/59, 050/60, 050/61, 050/62, 050/63, 050/64, 050/65, 050/66,
+050/67, 050/68.
