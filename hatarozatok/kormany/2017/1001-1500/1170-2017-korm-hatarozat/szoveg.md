@@ -4,8 +4,26 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: azonnal
 
-2. A Kormány az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a külgazdasági és külügyminiszter az 1. pontban rögzített fejezeti kezelésű előirányzat terhére ötmilliárd forintot elérő vagy azt meghaladó értékű kötelezettséget vállaljon.
+2.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 2. Államháztartáson kívüli szervezetek támogatása alcím, 13. Határmenti gazdaságfejlesztési vajdasági programok támogatása jogcímcsoport elnevezésű fejezeti kezelésű előirányzata terhére vállalható kötelezettségek mértékét a 2019–2028. évekre az alábbiak szerint állapítja meg:
 
-Felelős: külgazdasági és külügyminiszter
+a) a 2019. évre vonatkozó kötelezettségvállalás felső korlátja: 728 046 835 forint,
 
-Határidő: azonnal
+b) a 2020. évre vonatkozó kötelezettségvállalás felső korlátja: 752 622 916 forint,
+
+c) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja: 627 459 201 forint,
+
+d) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 071 forint,
+
+e) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 071 forint,
+
+f) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 071 forint,
+
+g) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 071 forint,
+
+h) a 2026. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 071 forint,
+
+i) a 2027. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 070 forint,
+
+j) a 2028. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 070 forint.
+
+[^1]: A 2. pont az 1145/2018. (III. 26.) Korm. határozat 3. pontjával megállapított szöveg.
