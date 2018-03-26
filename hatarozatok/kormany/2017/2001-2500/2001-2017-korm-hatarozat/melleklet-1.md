@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## b) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 227 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a 2. melléklet szerint;
+## b)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 227 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a 2. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -18,7 +18,7 @@
 
 ## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2018. június 30.
+## Határidő: 2019. június 30.
 
 ## c) a Kvtv. 19. § (6) bekezdésében biztosított jogkörében eljárva 4 055 843 774 forint egyszeri átcsoportosítását rendeli el, a 3. melléklet szerint;
 
@@ -62,13 +62,14 @@
 
 ## Határidő: 2018. június 30.
 
-## 2.[^1]
+## 2.[^2]
 
 ## 3. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1106/2016. (III. 3.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XII. Földművelésügyi Minisztérium fejezet, 14. Nemzeti park igazgatóságok cím javára átcsoportosított 169 200 000 forintból 129 805 871 forint a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Klíma-, energia- és zöldgazdaság-politikai ágazati programok alcím, 4. Zöldgazdaság Finanszírozási Rendszer jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra, mely elszámolás felelőse a nemzeti fejlesztési miniszter.
 
-## 4.[^2]
+## 4.[^3]
 
 1. melléklet a 2001/2017. (XII. 21.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 4. pontot az 1013/2018. (II. 2.) Korm. határozat 28. pontja visszavonta.
+[^1]: Az 1. pont b) alpontja az 1133/2018. (III. 26.) Korm. határozat 18. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pontot az 1013/2018. (II. 2.) Korm. határozat 28. pontja visszavonta.
