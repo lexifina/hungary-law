@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2018. június 30.
+## Határidő: 2019. május 15.[^1]
 
 1. melléklet az 1267/2017. (V. 29.) Korm határozathoz
 
@@ -75,3 +75,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határozat az 1133/2018. (III. 26.) Korm. határozat 8. pontja szerint módosított szöveg.
