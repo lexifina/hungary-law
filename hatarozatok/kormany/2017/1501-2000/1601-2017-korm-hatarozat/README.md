@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1601-30
 | --- | --- | --- |
 | 2017-08-31 | 2017-1601-30-22.1 | 1601/2017. (VIII. 31.) Korm. határozat |
 | 2017-09-01 | 2017-1601-30-22.2 | 2010: CXXX. törvény |
+| 2018-03-26 | 2017-1601-30-22.3 | 1133/2018. (III. 26.) Korm. határozat |
