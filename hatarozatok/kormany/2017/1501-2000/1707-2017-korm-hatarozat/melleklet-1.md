@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, belügyminiszter, nemzeti fejlesztési miniszter, emberi erőforrások minisztere
 
-## Határidő: 2018. június 30., a Versenysport támogatása jogcímcsoport javára biztosított 15 000 000 forint tekintetében 2018. december 31.
+## Határidő: 2018. június 30., a Versenysport támogatása jogcímcsoport javára biztosított 15 000 000 forint tekintetében és A Budapesti Planetárium épületének felújítása jogcímcsoport javára az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1727/2017. (X. 10.) Korm. határozat figyelembevételével biztosított 66 829 940 forint tekintetében 2018. december 31.
 
 ## 2. A Kormány az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 6. A Budapesti Planetárium épületének felújítása jogcímcsoport kiadási előirányzatai terhére vállalható kötelezettségek mértékét a 2018. évre 19 367 500 forintban állapítja meg.
 
@@ -348,6 +348,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1013/2018. (II. 2.) Korm. határozat 14. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1013/2018. (II. 2.) Korm. határozat 14. pontja, az 1133/2018. (III. 26.) Korm. határozat 17. pontja szerint módosított szöveg.
 [^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 6–10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
