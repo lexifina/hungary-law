@@ -1,0 +1,131 @@
+## 1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében meghatározott jogkörében eljárva elrendeli a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének az 53. Bölcsődei fejlesztési program címmel történő kiegészítését;
+
+## Felelős: nemzetgazdasági miniszter
+
+## belügyminiszter
+
+## Határidő: azonnal
+
+## 2. a Kvtv. 19. § (7) bekezdésében, valamint az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében meghatározott jogkörében eljárva
+
+## a) bölcsődei és mini bölcsődei férőhelyek bővítésének támogatása céljából a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 3. A helyi önkormányzatok felhalmozási célú kiegészítő támogatásai cím, valamint a XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 3. Céltartalékok alcím, 4. Hazai bölcsődefejlesztési program jogcímcsoport terhére, a IX. Helyi önkormányzatok támogatásai fejezet, 53. Bölcsődei fejlesztési program cím javára 4 500 000 000 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
+
+## Felelős: nemzetgazdasági miniszter
+
+## belügyminiszter
+
+## Határidő: azonnal
+
+## b) családi bölcsődei és munkahelyi bölcsődei férőhelyek bővítésének támogatása céljából a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 3. Céltartalékok alcím, 4. Hazai bölcsődefejlesztési program jogcímcsoport terhére, a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 16. Szociális szolgáltatások és egyéb szociális feladatok támogatása alcím, 7. Családpolitikai célú pályázatok jogcímcsoport javára 500 000 000 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
+
+## Felelős: nemzetgazdasági miniszter
+
+## emberi erőforrások minisztere
+
+## Határidő: azonnal
+
+## 3. felhívja a nemzetgazdasági minisztert, hogy – az emberi erőforrások miniszterével és a belügyminiszterrel egyetértésben – gondoskodjon a települési önkormányzatok számára bölcsődei és mini bölcsődei férőhelyek bővítését célzó pályázat kiírásáról, amely alapján a nemzetgazdasági miniszter vissza nem térítendő költségvetési támogatás biztosításáról dönt;
+
+## Felelős: nemzetgazdasági miniszter
+
+## emberi erőforrások minisztere
+
+## belügyminiszter
+
+## Határidő: folyamatosan
+
+## 4. egyetért azzal, hogy a belügyminiszter a 3. pont szerint megítélt támogatást a támogatói okirat nemzetgazdasági miniszter részéről történő kiadását követően folyósítsa a támogatásban részesülő önkormányzatok számára;
+
+## 5. felhívja az emberi erőforrások miniszterét, hogy az Emberi Erőforrás Támogatáskezelő főigazgatója útján gondoskodjon a családi bölcsődei és a munkahelyi bölcsődei férőhelyek bővítését célzó pályázat kiírásáról, amelynek alapján az emberi erőforrások minisztere vissza nem térítendő költségvetési támogatás biztosításáról dönt;
+
+## Felelős: emberi erőforrások minisztere
+
+## Határidő: folyamatosan
+
+## 6. egyetért azzal, hogy az emberi erőforrások minisztere az 5. pont szerint megítélt támogatást a támogatói okirat kiadását követően folyósítsa a támogatásban részesülő kedvezményezettek számára.
+
+1. melléklet az 1164/2018. (III. 27.) Korm. határozathoz
+
+IX. Helyi önkormányzatok támogatásai
+
+XI. Miniszterelnökség
+
+XX. Emberi Erőforrások Minisztériuma
+
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+
+a Kormány hatáskörében
+
+Költségvetési év: 2018.
+
+forintban
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | IX. |  |  |  |  |  | Helyi önkormányzatok támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 374939 |  | 53 |  |  |  |  |  | Bölcsődei fejlesztési program |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 4 500 000 000 |  |  |  |
+
+| 359028 |  | 3 |  |  |  |  |  | A helyi önkormányzatok felhalmozási célú kiegészítő támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -1 500 000 000 |  |  |  |
+
+|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 32 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 3 |  |  |  |  |  | Céltartalékok |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 368951 |  |  |  | 4 |  |  |  |  |  | Hazai bölcsődefejlesztési program |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -3 500 000 000 |  |  |  |
+
+|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 16 |  |  |  |  |  | Szociális szolgáltatások és egyéb szociális feladatok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 296524 |  |  |  | 7 |  |  |  |  |  | Családpolitikai célú pályázatok |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 500 000 000 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
+
+| forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
+
+| forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
+
+|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezetet irányító szerv | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  | 5 000 000 000 |  |  |  |  |  |  |  |  | 5 000 000 000 |  |  |  |
+
+| Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
