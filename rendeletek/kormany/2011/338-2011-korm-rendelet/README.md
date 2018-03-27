@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-338-20-
 | 2014-01-01 | 2011-338-20-22.5 | 492/2013. (XII. 18.) Korm. rendelet |
 | 2014-09-05 | 2011-338-20-22.6 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2017-04-04 | 2011-338-20-22.7 | 492/2013. (XII. 18.) Korm. rendelet |
+| 2018-03-27 | 2011-338-20-22.8 | 47/2018. (III. 19.) Korm. rendelet |
