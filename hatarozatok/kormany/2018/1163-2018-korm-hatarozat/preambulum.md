@@ -1,0 +1,1 @@
+A Kormány – figyelemmel a Magyarország Kormánya és Salgótarján Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1388/2017. (VI. 27.) Korm. határozat 4. pont a) alpontjára –
