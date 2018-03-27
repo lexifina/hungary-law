@@ -1,0 +1,1 @@
+A Kormány – egyetértve az „okos város” funkcionalitás magyarországi elterjedését szolgáló központi szolgáltatásplatform létrehozásával és e célból Monor Városban megvalósított pilot projekt központi finanszírozásával –
