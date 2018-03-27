@@ -40,7 +40,9 @@
 
 ## Határidő: az 1371/2016. (VII. 15.) és az 1505/2016. (IX. 21.) Korm. határozatok soron következő módosításakor
 
-1. melléklet az 1552/2017. (VIII. 18.) Korm. határozathoz[^1]
+## 5.[^1] egyetért azzal, hogy az 1. pont szerinti beruházások előkészítését a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság végezze.
+
+1. melléklet az 1552/2017. (VIII. 18.) Korm. határozathoz[^2]
 
 | XI. Miniszterelnökség XVII. Nemzeti Fejlesztési Minisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017 Forintban |
 
@@ -120,4 +122,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. melléklet az 1707/2017. (IX. 25.) Korm. határozat 6–7. pontja szerint módosított szöveg.
+[^1]: Az 5. pontot az 1161/2018. (III. 27.) Korm. határozat 11. pontja iktatta be.
+[^2]: Az 1. melléklet az 1707/2017. (IX. 25.) Korm. határozat 6–7. pontja szerint módosított szöveg.
