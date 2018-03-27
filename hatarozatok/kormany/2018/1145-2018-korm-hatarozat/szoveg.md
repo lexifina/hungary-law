@@ -40,26 +40,6 @@ nemzetgazdasági miniszter
 
 Határidő: az adott évi költségvetés tervezése során
 
-3. A vajdasági magyar közösségek terület- és gazdasági fejlesztési stratégiája végrehajtásához szükséges kötelezettségvállalás engedélyezéséről szóló 1170/2017. (IV. 3.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
+3.[^1]
 
-„2. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 2. Államháztartáson kívüli szervezetek támogatása alcím, 13. Határmenti gazdaságfejlesztési vajdasági programok támogatása jogcímcsoport elnevezésű fejezeti kezelésű előirányzata terhére vállalható kötelezettségek mértékét a 2019–2028. évekre az alábbiak szerint állapítja meg:
-
-a) a 2019. évre vonatkozó kötelezettségvállalás felső korlátja: 728 046 835 forint,
-
-b) a 2020. évre vonatkozó kötelezettségvállalás felső korlátja: 752 622 916 forint,
-
-c) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja: 627 459 201 forint,
-
-d) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 071 forint,
-
-e) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 071 forint,
-
-f) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 071 forint,
-
-g) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 071 forint,
-
-h) a 2026. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 071 forint,
-
-i) a 2027. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 070 forint,
-
-j) a 2028. évre vonatkozó kötelezettségvállalás felső korlátja: 619 872 070 forint.”
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
