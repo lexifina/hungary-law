@@ -44,7 +44,7 @@
 
 ## Határidő: azonnal
 
-## 5. egyetért azzal, hogy az egyes településeket 2017 júniusában ért, jégeső okozta lakossági károk enyhítéséről szóló 1968/2017. (XII. 19.) Korm. határozat 3. pontjában a „2018. március 31-ei felhasználási határidővel” szövegrész helyébe a „2018. május 31-ei felhasználási határidővel” szöveg lépjen.
+## 5.[^1]
 
 1. melléklet az 1135/2018. (III. 26.) Korm. határozathoz
 
@@ -133,3 +133,5 @@ forintban
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
