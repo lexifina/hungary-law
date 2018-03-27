@@ -26,7 +26,7 @@
 
 ## Határidő: azonnal
 
-## 2. A Rákóczi Szövetség „A Magyar Állandó Értekezlet XVI. ülésén támogatott Nemzeti Kisebbségvédelmi Kezdeményezés megvalósításának elősegítése céljából nyújtott támogatásból megvalósuló beszerzések” tárgyú beszerzései közbeszerzési eljárás lefolytatása alól történő felmentéséről szóló 2005/2017. (XII. 22.) Korm. határozatban foglalt a „támogatás” szövegrész helyébe a „támogatások” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1146/2018. (III. 26.) Korm. határozathoz
 
@@ -47,3 +47,5 @@
 | 7. | erdélyi szervezet ingatlanberuházásainak és eszközbeszerzéseinek támogatása | Visus Kulturális Egyesület | 160 000 000 |
 
 | 8. | erdélyi szervezet ingatlanberuházásainak és eszközbeszerzéseinek támogatása | Zöld Erdély Egyesület | 70 000 000 |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
