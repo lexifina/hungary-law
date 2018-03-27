@@ -26,41 +26,27 @@
 
 ## d) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 152. § (3) bekezdésében biztosított jogkörében eljárva engedélyezi a XVII. Nemzeti Fejlesztési Minisztérium fejezetnél keletkezett 661 250 000 forint összegű 2017. évi kötelezettségvállalással terhelt költségvetési maradvány 2018. június 30-át követő, változatlan célú felhasználását.
 
-## 2. Az erdélyi oktatási és kulturális célú programok, beruházások megvalósításának finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1531/2015. (VII. 31.) Korm. határozat 1. pontjában a „2018. június 30.” szövegrész helyébe a „2019. június 30.” szöveg lép.
+## 2.[^1]
 
 ## 3. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1546/2016. (X. 13.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 44. Világörökségi törvényből adódó feladatok ellátása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 150 000 000 forintból 95 763 386 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1885/2016. (XII. 28.) Korm. határozatban a „2018. június 30.” szövegrész helyébe a „2019. június 30.” szöveg lép.
-
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, előirányzattal nem rendelkező közfeladathoz kapcsolódó tárgyévi és tárgyéven túli kötelezettségvállalás engedélyezéséről és egyes kormányhatározatok módosításáról szóló 1038/2017. (II. 2.) Korm. határozat 1. pont a) alpontjában a „2018. február 15.” szövegrész helyébe a „2018. május 31.” szöveg lép.
+## 4–5.[^2]
 
 ## 6. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1104/2017. (III. 6.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 1. Emberi Erőforrások Minisztériuma igazgatása cím, K1. Személyi juttatások kiemelt előirányzat javára átcsoportosított 210 160 127 forintból 24 121 305 forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 7. A Határozat 1. pontjában a „2018. december 31.” szövegrész helyébe a „2018. december 31., az Üldözött keresztények segítésének feladatai alcím javára átcsoportosított összesen 690 000 000 forint tekintetében 2019. június 30.” szöveg lép.
-
-## 8. A Siketek és Nagyothallók Országos Szövetségének 2017. évi kiegészítő támogatása érdekében történő előirányzat-átcsoportosításról szóló 1267/2017. (V. 29.) Korm. határozatban a „2018. június 30.” szövegrész helyébe a „2019. május 15.” szöveg lép.
+## 7–8.[^3]
 
 ## 9. A Kormány egyetért azzal, hogy az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1313/2017. (VI. 8.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 891 540 000 forintból 317 780 000 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton, valamint a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 92. Habsburg Ottó Alapítvány működéséhez és feladatainak ellátásához szükséges hozzájárulás jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 330 000 000 forintból 19 685 040 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 10. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1447/2017. (VII. 7.) Korm. határozat 1. pont b) alpontjában a „2019. június 30.” szövegrész helyébe az „és a Kodály-év jogcímcsoport javára átcsoportosított 1 018 510 000 forint tekintetében 2019. június 30.” szöveg lép.
-
-## 11. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő és egyes fejezetek közötti előirányzat-átcsoportosításról szóló 1497/2017. (VIII. 8.) Korm. határozat 1. és 2. pontjában a „2018. június 30.” szövegrész helyébe a „2019. június 30.” szöveg lép.
-
-## 12. A vajdasági magyarok anyanyelvű tájékoztatásának támogatása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1540/2017. (VIII. 18.) Korm. határozat 3. pontjában a „2018. június 30.” szövegrész helyébe a „2019. június 30.” szöveg lép.
+## 10–12.[^4]
 
 ## 13. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1555/2017. (VIII. 18.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 86. Népi Építészeti Program jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 100 000 000 forintból 83 062 120 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 14. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő, valamint a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezeten belüli átcsoportosításról, egyes kormányhatározatok módosításáról szóló 1601/2017. (VIII. 31.) Korm. határozat 1. pont a) alpontjában a „2018. június 30.” szövegrész helyébe az „a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 3 441 400 000 forint tekintetében 2019. január 31.” szöveg lép.
-
-## 15. Az egyes kiemelt jelentőségű beruházásokkal összefüggő kormányhatározatok módosításáról szóló 1683/2017. (IX. 21.) Korm. határozat (a továbbiakban: Határozat2) 1. pont b) alpontjában a „K8. Egyéb felhalmozási célú kiadások” szövegrész helyébe a „K5. Egyéb működési célú kiadások” szöveg lép.
-
-## 16. A Határozat2 1. pont d) alpontjában a „K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton” szövegrész helyébe a „K5. Egyéb működési célú kiadások kiemelt előirányzaton 188 778 522 forint összegben, a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton 4 411 556 478 forint összegben” szöveg lép.
-
-## 17. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, tárgyéven túli kötelezettségvállalás engedélyezéséről és egyes kormányhatározatok módosításáról szóló 1707/2017. (IX. 25.) Korm. határozat 1. pontjában a „2018. december 31.” szövegrész helyébe az „és A Budapesti Planetárium épületének felújítása jogcímcsoport javára az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1727/2017. (X. 10.) Korm. határozat figyelembevételével biztosított 66 829 940 forint tekintetében 2018. december 31.” szöveg lép.
+## 14–17.[^5]
 
 ## 18. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, tárgyéven túli kötelezettségvállalás engedélyezéséről, fejezetek közötti előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1895/2017. (XII. 4.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcím, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 1 060 578 450 forintból 256 144 208 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 19. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, Országvédelmi Alapból, a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 2001/2017. (XII. 21.) Korm. határozat 1. pont b) alpontjában a „2018. június 30.” szövegrész helyébe a „2019. június 30.” szöveg lép.
+## 19.[^6]
 
 ## 20. A Kormány egyetért azzal, hogy a fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról szóló 2029/2017. (XII. 27.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 30. Társadalmi, civil és non-profit szervezetek működési támogatása alcím, 25. Szociális társadalmi, civil és non-profit szervezetek jogcímcsoport, 21. Karitatív tevékenységet végző szervezetek támogatása jogcím, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 653 000 000 forintból 343 000 000 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
@@ -179,3 +165,10 @@ forintban
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 7–8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 10–12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 14–17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 19. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
