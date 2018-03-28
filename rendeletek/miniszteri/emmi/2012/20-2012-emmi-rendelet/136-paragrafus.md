@@ -1,4 +1,4 @@
-## 48. [^249] A két tanítási nyelvű gimnáziumi, szakgimnáziumi nevelés-oktatás feltételei
+## 48. [^256] A két tanítási nyelvű gimnáziumi, szakgimnáziumi nevelés-oktatás feltételei
 
 136. § (1) Két tanítási nyelvű nevelés-oktatás adott célnyelvből abban a gimnáziumban, szakgimnáziumban folytatható, amelyik három egymást követő tanév átlagában megfelel annak a feltételnek, hogy a két tanítási nyelvű nevelés-oktatásban érettségi vizsgabizonyítványt szerzett gimnáziumi tanulók kilencven százaléka, a szakgimnáziumi tanulók nyolcvan százaléka a célnyelvből rendelkezik a KER szerinti B2 szintű nyelvtudást igazoló érettségi vizsgaeredménnyel vagy államilag elismert nyelvvizsgával.
 
@@ -12,4 +12,4 @@
 
 (6) Fenntartóváltás esetén az (1) bekezdés szerinti feltételt csak a fenntartóváltás évét követő évtől, felmenő rendszerben kell alkalmazni.
 
-[^249]: A 48. alcím (136. §) a 20/2016. (VIII. 24.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^256]: A 48. alcím (136. §) a 20/2016. (VIII. 24.) EMMI rendelet 15. §-ával megállapított szöveg.

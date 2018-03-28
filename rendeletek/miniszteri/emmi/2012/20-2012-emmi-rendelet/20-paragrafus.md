@@ -64,7 +64,7 @@ b) a kérelem elutasítására vonatkozó döntését határozati formában
 
 (6a)[^49] A nem települési önkormányzati fenntartású óvoda a gyermek felvételétől számított nyolc napon belül megküldi a felvett gyermek nevét, születési helyét és idejét, lakcímét, anyja nevét a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes jegyzőnek. E rendelkezést kell alkalmazni akkor is, ha a nem települési önkormányzati fenntartású óvoda fenntartója arról döntött, hogy felmenti a gyermeket a kötelező óvodai nevelésben való részvételi kötelezettsége alól.
 
-(6b)[^50] A jegyző a gyermek kötelező óvodai nevelésben való részvételi kötelezettsége alóli felmentés tárgyában hozott határozatáról, annak jogerőre emelkedésétől számított nyolc napon belül értesíti a gyermek lakóhelye, ennek hiányában tartózkodási helye szerinti kötelező felvételt biztosító óvoda vezetőjét.
+(6b)[^50] A jegyző a gyermek kötelező óvodai nevelésben való részvételi kötelezettsége alóli felmentés tárgyában hozott határozatáról, annak véglegessé válásától számított nyolc napon belül értesíti a gyermek lakóhelye, ennek hiányában tartózkodási helye szerinti kötelező felvételt biztosító óvoda vezetőjét.
 
 (7)[^51] A kijelölt óvoda vezetője a megküldött szakértői vélemény vagy a járási hivatal határozata alapján értesíti a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes települési önkormányzat jegyzőjét, ha a gyermeket az óvodába nem íratták be.
 
@@ -88,7 +88,7 @@ b) a kérelem elutasítására vonatkozó döntését határozati formában
 [^47]: A 20. § (3) bekezdése a 22/2013. (III. 22.) EMMI rendelet 40. § b) pontja szerint módosított szöveg.
 [^48]: A 20. § (4) bekezdése a 22/2013. (III. 22.) EMMI rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^49]: A 20. § (6a) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 1. § (3) bekezdése iktatta be.
-[^50]: A 20. § (6b) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 1. § (3) bekezdése iktatta be.
+[^50]: A 20. § (6b) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 1. § (3) bekezdése iktatta be, szövege a 12/2018. (III. 27.) EMMI rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^51]: A 20. § (7) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 6. § 1. pontja szerint módosított szöveg.
 [^52]: A 20. § (9) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 1. §-a iktatta be.
 [^53]: A 20. § (10) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 1. §-a iktatta be.
