@@ -1,6 +1,6 @@
-## 33. §[^78]
+## 33. §[^72]
 
-1. melléklet a 48/2012. (XII. 12.) EMMI rendelethez[^79]
+1. melléklet a 48/2012. (XII. 12.) EMMI rendelethez[^73]
 
 ## A pedagógiai intézetben kötelezően foglalkoztatott alkalmazottak létszáma
 
@@ -46,5 +46,5 @@ III. Alkalmazottak más feladatok ellátásához
 
 2. Az I–III. pontban foglalt táblázatban meghatározottaktól, a 22. § (1) bekezdésében foglaltak szerint, az intézmény javára el lehet térni.
 
-[^78]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^79]: Az 1. melléklet a 26/2015. (V. 22.) EMMI rendelet 14. §-ával megállapított szöveg.
+[^72]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: Az 1. melléklet a 26/2015. (V. 22.) EMMI rendelet 14. §-ával megállapított szöveg.
