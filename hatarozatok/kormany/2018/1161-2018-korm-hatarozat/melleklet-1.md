@@ -70,10 +70,8 @@
 
 ## 10. A Kormány egyetért azzal, hogy a Projektek megvalósítása esetén a beruházás megkezdése előtt önkormányzati tulajdonba és kezelésbe tartozó, valamint a beruházás keretén belül a NIF Zrt. által megszerzett területen megépített útszakaszok és csomópontok a beruházás befejezését követően önkormányzati tulajdonba tartozzanak.
 
-## 11. A Modern Városok Program keretében megvalósuló közlekedésfejlesztéssel kapcsolatos előirányzat-átcsoportosításokról szóló 1552/2017. (VIII. 18.) Korm. határozat a következő 5. ponttal egészül ki:
-
-## [A Kormány]
-
-## „5. egyetért azzal, hogy az 1. pont szerinti beruházások előkészítését a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság végezze.”
+## 11.[^1]
 
 1. melléklet az 1161/2018. (III. 27.) Korm. határozathoz
+
+[^1]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
