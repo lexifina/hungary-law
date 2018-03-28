@@ -28,6 +28,7 @@ b) a kerettanterv címében a lelkiismereti és vallásszabadság jogáról, val
 
 c) a kerettanterv engedélyezési eljárása során az eljárási díj befizetésének igazolását.
 
-(5) A kerettantervet – a (4) bekezdésben meghatározott mellékletekkel együtt – az erre szolgáló elektronikus felületen, ennek hiányában három példányban papír alapon és egy elektronikus adathordozón elkészített példányban kell benyújtani a miniszterhez.
+(5)[^32] A kerettantervet – a (4) bekezdésben meghatározott mellékletekkel együtt – az erre szolgáló elektronikus felületen, ennek hiányában egy példányban papír alapon és egy elektronikus adathordozón elkészített példányban kell benyújtani a miniszterhez.
 
 [^31]: A 6. § (3) bekezdés b) pontja a 34/2014. (IV. 29.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^32]: A 6. § (5) bekezdése a 12/2018. (III. 27.) EMMI rendelet 3. §-a szerint módosított szöveg.
