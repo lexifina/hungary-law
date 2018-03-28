@@ -1,4 +1,4 @@
-## 14. §[^4]
+## 14. §[^5]
 
 1. melléklet a 15/2015. (III. 13.) EMMI rendelethez
 
@@ -68,4 +68,4 @@
 
 11. pedagógiai-szakmai ellenőrzés és pedagógusminősítés szakterület.
 
-[^4]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
