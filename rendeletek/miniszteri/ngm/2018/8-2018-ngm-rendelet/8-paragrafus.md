@@ -1,3 +1,5 @@
 ## 7. § E rendelet rendelkezéseit a hatálybalépése napján folyamatban lévő végrehajtási eljárásokban is alkalmazni kell.
 
-8. § Hatályát veszti az adó-végrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályairól szóló 49/2012. (XII. 28.) NGM rendelet.
+8. §[^1]
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
