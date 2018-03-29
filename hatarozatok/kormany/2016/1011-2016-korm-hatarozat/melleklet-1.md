@@ -50,7 +50,7 @@
 
 | 2a. | VEKOP-2.1.2-17 | Intelligens szakosodási kockázati tőkeprogram | 5,49 | pénzügyi eszköz | Meghirdetve 2017. márciusban |
 
-| 3. | VEKOP-2.1.7-16 | Prototípus, termék-, technológia- és szolgáltatásfejlesztés | 10,35 | standard | Meghirdetve 2016. májusban |
+| 3. | VEKOP-2.1.7-15 | Prototípus, termék-, technológia- és szolgáltatásfejlesztés | 10,35 | standard | Meghirdetve 2016. májusban |
 
 | 4. | VEKOP-2.2.1-16 | Versenyképességi és Kiválósági Együttműködések | 2,29 | standard | Meghirdetve 2016. decemberben |
 
@@ -100,17 +100,17 @@
 
 | 2. | VEKOP-6.1.1-15 | Kisgyermeket nevelő szülők munkavállalási aktivitásának növelése | 9,174 | területi | Meghirdetve 2016. márciusban |
 
-| 3. | VEKOP-6.2.1-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Budapesten | 12,141 | területi | Meghirdetve 2016. márciusban |
+| 3. | VEKOP-6.2.1-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Budapesten | 12,601 | területi | Meghirdetve 2016. márciusban |
 
 | 4. | VEKOP-6.2.2-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Pest megyében | 1,211 | területi | Meghirdetve 2016. márciusban |
 
 | 5. | VEKOP-6.3.1-16 | Gyermekotthonok kiváltása, korszerűsítése, hiányzó gyermekotthoni kapacitások létrehozása | 1,26 | standard | Meghirdetve 2016. júliusban |
 
-| 5a. | VEKOP-6.3.2-17 | Intézményi ellátásról a közösségi alapú szolgáltatásokra való áttérés fejlesztése – intézményi férőhely kiváltás | 0,73 | standard | Meghirdetve 2017. márciusban |
+| 5a. | VEKOP-6.3.2-17 | Intézményi ellátásról a közösségi alapú szolgáltatásokra való áttérés fejlesztése – intézményi férőhely kiváltás | 0,61 | standard | Meghirdetve 2017. márciusban |
 
 | 5b | VEKOP-6.3.3-16 | Szociális szolgáltatások fejlesztése Érden | 1,10 | kiemelt | Meghirdetve 2017. januárban |
 
-| 6. | VEKOP-6.3.5-17 | Betegbiztonság növelését célzó komplex infrastrukturális fejlesztések az egészségügyi ellátórendszerben | 1,50 | standard | Meghirdetve 2017. márciusban |
+| 6. | VEKOP-6.3.5-17 | Betegbiztonság növelését célzó komplex infrastrukturális fejlesztések az egészségügyi ellátórendszerben | 1,16 | standard | Meghirdetve 2017. márciusban |
 
 7. A társadalmi hozzáférést bővítő és humánerőforrás fejlesztést támogató programokról szóló 7. prioritás
 
@@ -126,7 +126,7 @@
 
 | 5. | VEKOP-7.1.5-16 | Elsőként lakhatás | 0,30 | standard | Meghirdetve 2016. decemberben |
 
-| 6. | VEKOP-7.2.2-17 | Az alapellátás és népegészségügy rendszerének átfogó fejlesztése – népegészségügy helyi kapacitás fejlesztése | 1,70 | standard | Meghirdetve 2017. márciusban |
+| 6. | VEKOP-7.2.2-17 | Az alapellátás és népegészségügy rendszerének átfogó fejlesztése – népegészségügy helyi kapacitás fejlesztése | 1,29 | standard | Meghirdetve 2017. márciusban |
 
 | 6a. | VEKOP-7.2.3-17 | Az alapellátás és népegészségügy rendszerének átfogó fejlesztése – alapellátás fejlesztése | 0,97 | standard | Meghirdetve 2017. márciusban |
 
@@ -166,7 +166,7 @@
 
 | 5a. | VEKOP-8.3.2-18 | Gyakornoki program a Közép-Magyarországi Régióban | 0,371 | egyszerűsített | 2018. július |
 
-| 6. | VEKOP-8.5.1-17 | Idegen nyelvi készségek fejlesztése | 2,50 | standard | Meghirdetve 2017. márciusban |
+| 6. | VEKOP-8.5.1-17 | Idegen nyelvi készségek fejlesztése | 2,90 | standard | Meghirdetve 2017. márciusban |
 
 | 7. | VEKOP-8.5.2-17 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 1,30 | standard | Meghirdetve 2017. márciusban |
 
@@ -174,9 +174,9 @@
 
 | 8a. | VEKOP-8.5.4-17 | A digitális munkaerő-piaci kompetenciák fejlesztése a Közép-Magyarországi Régióban | 1,30 | kiemelt | Meghirdetve 2017. márciusban |
 
-| 9. | VEKOP-8.6.3-17 | A szakképzési intézményrendszer átfogó fejlesztése | 2,10 | standard | Meghirdetve 2017. márciusban |
+| 9. | VEKOP-8.6.3-16 | A szakképzési intézményrendszer átfogó fejlesztése | 2,43 | standard | Meghirdetve 2017. márciusban |
 
-| 10. | VEKOP-8.6.4-17 | Helyi felnőttképzési hálózatok és képzési együttműködések létrehozása | 1,60 | standard | Meghirdetve 2017. márciusban |
+| 10. | VEKOP-8.6.4-17 | Helyi felnőttképzési hálózatok és képzési együttműködések létrehozása | 0,41 | standard | Meghirdetve 2017. márciusban |
 
 9. A Gazdaságfejlesztési és Innovációs Operatív Program országos kihatású projektjeinek részben a Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozása
 
@@ -204,7 +204,7 @@
 
 | 9. | GINOP-6.2.4-VEKOP-16 | A 21. századi szakképzés és felnőttképzés minőségének, valamint tartalmának fejlesztése | 3,56 |
 
-| 10. |  |  |  |
+| 10. | GINOP-6.2.5-VEKOP-18 | Felnőttképzési, felnőttoktatási, szakképzési irányítási rendszer digitális átállása | 0,46 |
 
 10. A Környezeti és Energiahatékonysági Operatív Program országos kihatású projektjének részben a Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozása
 
@@ -260,7 +260,7 @@
 
 | 20. |  |  |  |
 
-| 21. | EFOP-3.2.2-VEKOP-15 | A köznevelés tartalmi szabályozóinak és pedagógiai módszertani eszköztárának fejlesztése | 0,60 |
+| 21. | EFOP-3.2.2-VEKOP-15 | A köznevelés tartalmi szabályozóinak megfelelő tankönyvek, taneszközök fejlesztése és digitális tartalomfejlesztés | 1,31 |
 
 | 21a | EFOP-3.2.15-VEKOP-17 | A köznevelés keretrendszeréhez kapcsolódó mérési-értékelési és digitális fejlesztések, innovatív oktatásszervezési eljárások kialakítása, megújítása | 3,17 |
 
@@ -272,7 +272,7 @@
 
 | 24a. | EFOP-3.4.6-VEKOP-17 | Intézményi irányítás fejlesztése a felsőoktatásban | 1,00 |
 
-| 25. | EFOP-3.6.3-VEKOP-16 | Felsőoktatási hallgatók tudományos műhelyeinek és programjainak támogatása | 2,72 |
+| 25. | EFOP-3.6.3-VEKOP-16 | Felsőoktatási hallgatók tudományos műhelyeinek és programjainak támogatása | 2,42 |
 
 | 26. |  |  |  |
 
@@ -294,7 +294,7 @@
 
 | 7. | KÖFOP-1.0.0-VEKOP-15 | „Digitális fogyasztóvédelem” – a fogyasztóvédelmi feladatok elektronizálása | 0,32 |
 
-| 8. |  |  |  |
+| 8. | KÖFOP-1.0.0-VEKOP-15 | Közúti gépjármű-, vízügyi és légügyi közlekedési-, engedélyezési és vizsgáztatási folyamatok ügyfélközpontú elektronizálása | 0,34 |
 
 | 9. | KÖFOP-1.0.0-VEKOP-15 | Kormányzati hitelesítés szolgáltatás (Gov CA) kiterjesztése | 0,53 |
 
@@ -306,7 +306,7 @@
 
 | 13. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatás informatikai infrastruktúrájának konszolidálása a költségek csökkentése érdekében | 3,12 |
 
-| 14. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatási szakrendszerek egységes eléréséhez és interoperabilitásához központi alkalmazás szintű szolgáltatások biztosítása | 1,90 |
+| 14. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatási szakrendszerek egységes eléréséhez és interoperabilitásához központi alkalmazás szintű szolgáltatások biztosítása | 1,81 |
 
 | 15. | KÖFOP-1.0.0-VEKOP-15 | Az önkormányzati ASP rendszer továbbfejlesztése és országos kiterjesztése (ASP 2.0) | 3,44 |
 
@@ -334,7 +334,7 @@
 
 | 27. | KÖFOP-1.0.0-VEKOP-15 | Az egységes integrált állami vagyonnyilvántartás közhitelességének és adatkonzisztenciájának ellenőrzéséhez szükséges további fejlesztések | 0,49 |
 
-| 28. | KÖFOP-1.0.0-VEKOP-15 | A 21. század családtámogatása és nyugdíja | 1,93 |
+| 28. | KÖFOP-1.0.0-VEKOP-15 | A 21. század családtámogatása és nyugdíja | 2,28 |
 
 | 29. |  |  |  |
 
@@ -363,6 +363,8 @@
 | 32i. | KÖFOP-1.0.0-VEKOP-15 | A bírósági igazgatás további elektronizálása (Digitális Bíróság) | 0,52 |
 
 | 33. | KÖFOP-1.2.1-VEKOP-16 | Csatlakoztatási konstrukció az önkormányzati ASP rendszer országos kiterjesztéséhez | 1,62 |
+
+| 33a. | KÖFOP-1.2.2-VEKOP-18 | Az elektronikus ügyintézést biztosító szervezetek elektronikus ügyintézési térbe való integrálásának támogatása | 0,09 |
 
 | 34. | KÖFOP-2.1.1-VEKOP-15 | A közszolgáltatás komplex kompetencia, életpálya-program és oktatás technológiai fejlesztése | 3,34 |
 
@@ -400,4 +402,4 @@
 [^2]: Az 1. pont d) alpontját az 1148/2017. (III. 20.) Korm. határozat 1. pontja iktatta be.
 [^3]: Az 1. pont e) alpontját a 2111/2017. (XII. 28.) Korm. határozat 1. pontja iktatta be.
 [^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1157/2017. (III. 21.) Korm. határozat 1. és 3. pontja, az 1271/2017. (V. 29.) Korm. határozat 4. pontja, az 1620/2017. (IX. 5.) Korm. határozat 1. pont a) alpontja és a 2. pontja, a 2111/2017. (XII. 28.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja szerint módosított szöveg.
+[^5]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1157/2017. (III. 21.) Korm. határozat 1. és 3. pontja, az 1271/2017. (V. 29.) Korm. határozat 4. pontja, az 1620/2017. (IX. 5.) Korm. határozat 1. pont a) alpontja és a 2. pontja, a 2111/2017. (XII. 28.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1180/2018. (III. 28.) Korm. határozat 1. pontja és 2. pont 2.1–2.6. alpontja szerint módosított szöveg.
