@@ -236,7 +236,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-2. melléklet az 1766/2017. (XI. 7.) Korm. határozathoz[^2]
+2. melléklet az 1766/2017. (XI. 7.) Korm. határozathoz[^3]
 
 | XII. Földművelésügyi Minisztérium XIV. Belügyminisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017. forintban |
 
@@ -356,4 +356,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^2]: A 2. melléklet az 1989/2017. (XII. 19.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^3]: A 2. melléklet az 1989/2017. (XII. 19.) Korm. határozat 11. pontja szerint módosított szöveg.
