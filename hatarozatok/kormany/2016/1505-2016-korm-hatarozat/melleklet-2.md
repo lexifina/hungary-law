@@ -12,11 +12,11 @@
 
 | 5. | Európai Hálózatfinanszírozási Eszköz | 5 675 | 27 130 | 26 370 | 10 073 | 0 | 0 | 0 | 69 248 |
 
-| 6. | Magyarország központi költségvetés hazai forrás | 98 383 | 214 597 | 266 982 | 398 672 | 215 409 | 134 255 | 61 474 | 1 389 772 |
+| 6. | Magyarország központi költségvetés hazai forrás | 98 383 | 214 597 | 267 012 | 400 072 | 217 309 | 136 955 | 63 844 | 1 398 172 |
 
-| 7. | Összesen | 349 661 | 539 177 | 469 295 | 598 019 | 340 393 | 197 858 | 79 985 |  |
+| 7. | Összesen | 349 661 | 539 177 | 469 325 | 599 420 | 342 293 | 200 558 | 82 355 |  |
 
-| 8. | Mindösszesen | 2 574 389 |  |
+| 8. | Mindösszesen | 2 582 789 |  |
 
 2. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz[^7]
 
@@ -176,7 +176,7 @@
 
 | 24. | Szolnok megközelítése M4 Cegléd–Abony közötti szakasz | 2019. I. negyedév | 2021. II. negyedév |
 
-| 25. | Szolnok megközelítése M4 Abony (Kelet) – Törökszentmiklós közötti szakasz (Szolnok északi elkerülő) megvalósítása új Tisza-híd megépítésével, előzmény lezárása, elszámolás | 2018. II. negyedév | 2020. IV. negyedév |
+| 25. | Szolnok megközelítése M4 Abony (Kelet) – Törökszentmiklós (Nyugat) közötti szakasz (Szolnok északi elkerülő) megvalósítása új Tisza-híd megépítésével | 2018. II. negyedév | 2020. IV. negyedév |
 
 | 26. | Sopron megközelítése M85 autóút Fertőrákos csomópont – Sopron oh. szakasz a 8647. jelű Sopron ÉNy-i elkerülő úttal | 2018. III. negyedév | 2022. I. negyedév |
 
@@ -252,4 +252,6 @@
 
 | 62. | Dél Budai Centrum (DBC) megközelíthetőségének fejlesztése (előkészítés) | 2018. I. negyedév | 2018. IV. negyedév |
 
-[^7]: A 2. melléklet az 1982/2017. (XII. 19.) Korm. határozat 7. pontjával megállapított szöveg.
+| 63. | M4 Törökszentmiklós (Nyugat) – Püspökladány – Berettyóújfalu közötti gyorsforgalmi út előkészítése | 2018. III. negyedév | 2022. I. negyedév |
+
+[^7]: A 2. melléklet az 1982/2017. (XII. 19.) Korm. határozat 7. pontjával megállapított, az 1137/2018. (III. 26.) Korm. határozat 9. pontja szerint módosított szöveg.
