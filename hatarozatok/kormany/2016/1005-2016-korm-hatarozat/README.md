@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1005-30
 | 2016-11-30 | 2016-1005-30-22.5 | 1143/2016. (III. 21.) Korm. határozat |
 | 2017-02-04 | 2016-1005-30-22.6 | 1143/2016. (III. 21.) Korm. határozat |
 | 2017-11-15 | 2016-1005-30-22.7 | 1849/2017. (XI. 14.) Korm. határozat |
+| 2018-03-29 | 2016-1005-30-22.8 | 1143/2016. (III. 21.) Korm. határozat |
