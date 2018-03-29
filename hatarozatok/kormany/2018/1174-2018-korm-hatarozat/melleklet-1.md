@@ -44,13 +44,7 @@
 
 ## Határidő: 2020. március 15.
 
-## 8. A Magyarország vasúthálózat-fejlesztéseihez szükséges kötelezettségvállalásról szóló 1154/2018. (III. 27.) Korm. határozat (a továbbiakban: Korm. határozat) felvezető szövege a következő francia bekezdéssel egészül ki:
-
-## (A Kormány tekintettel)
-
-## „– a Budapest–Varsó nagysebességű vasútvonal részletes megvalósíthatósági tanulmányának elkészítéséről szóló 1174/2018. (III. 28.) Korm. határozatra”
-
-## 9. A Korm. határozat a) pontjában a „16 610 558 545 forint” szövegrész helyébe a „17 607 070 752 forint” szöveg lép.
+## 8–9.[^1]
 
 1. melléklet az 1174/2018. (III. 28.) Korm. határozathoz
 
@@ -125,3 +119,5 @@ forintban
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
