@@ -1,0 +1,78 @@
+# A belügyminiszter 8/2018. (III. 29.) BM rendelete
+
+Magyar Közlöny 2018. évi 46. szám, 2018. március 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/52209febd7d5a347101eaf29f4df0ac783fece0f/dokumentumok/04fc551b10d6c3afafd8b75d1cc46d20269305ee/letoltes)
+
+---
+
+A belügyminiszter 8/2018. (III. 29.) BM rendelete
+a központosított informatikai és elektronikus hírközlési szolgáltatásokat egyedi szolgáltatási megállapodás
+útján igénybe vevő szervezetekről, valamint a központi szolgáltató által üzemeltetett vagy fejlesztett
+informatikai rendszerekről szóló 7/2013. (II. 26.) NFM rendelet módosításáról
+A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet 12/A. §
+a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet
+21. § 5. pontjában meghatározott feladatkörömben eljárva,
+az 1. melléklet 1. és 6. pontja tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet
+21. § 5. pontjában és 1. melléklet B) pont 10. alpontjában meghatározott feladatkörömben eljárva,
+az 1. melléklet 2., 5. és 9. pontja tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet
+21. § 5. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.)
+Korm. rendelet 90. § 2. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –,
+az 1. melléklet 4. és 8. pontja tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet
+21. § 5. és 8. pontjában meghatározott feladatkörömben eljárva
+a következőket rendelem el:
+1. §
+A központosított informatikai és elektronikus hírközlési szolgáltatásokat egyedi szolgáltatási megállapodás útján
+igénybe vevő szervezetekről, valamint a központi szolgáltató által üzemeltetett vagy fejlesztett informatikai
+rendszerekről szóló 7/2013. (II. 26.) NFM rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
+2. §
+Ez a rendelet 2018. március 31. napján lép hatályba.
+ Dr. Pintér Sándor s. k.,
+ belügyminiszter
+1. melléklet a 8/2018. (III. 29.) BM rendelethez
+1. Az R 1. melléklet 1. pont 1.63. pontja helyébe a következő rendelkezés lép:
+(A központi szolgáltató a következő informatikai rendszerek üzemeltetéséről gondoskodik:)
+„1.63. az Országos Rendőr-főkapitányság által működtetett rendőrségi honlap (www.police.hu) és
+a működtetéséhez szükséges informatikai rendszerek, ideértve a „police.hu” domainnév fenntartását és kezelését,
+ide nem értve a tartalommenedzsment szolgáltatásokat;”
+2. Az R. 1. melléklet 1. pont 1.65. pont 1.65.9. alpontja helyébe a következő rendelkezés lép:
+(A központi szolgáltató a következő informatikai rendszerek üzemeltetéséről gondoskodik:
+az alábbiakban nevesített rendszerek működéséhez szükséges virtuális infrastruktúra üzemeltetése:)
+„1.65.9. a Közbeszerzési és Ellátási Főigazgatóság által működtetett www.kef.gov.hu honlap;”
+3. Az R 1. melléklet 1. pontja a következő 1.74. ponttal egészül ki:
+(A központi szolgáltató a következő informatikai rendszerek üzemeltetéséről gondoskodik:)
+„1.74. az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a Belügyminisztériumnak
+a közszolgálati és hivatásos szolgálati jogviszonnyal összefüggő humánerőforrás-gazdálkodási, valamint egyéb,
+képzéssel összefüggő feladatai ellátása érdekében működtetett alábbi szakrendszerek üzemeltetése, ideértve
+az informatikai infrastruktúrát, a kapcsolódó adatbázisokat és adatbázis operációs rendszereket, az alkalmazás
+és alkalmazás operációs rendszereket, a domainnevek kezelését, valamint az alkalmazástámogatást (helpdesk,
+jogosultságkiosztás), ide nem értve a tartalommenedzsment szolgáltatást:
+1.74.1.„KVR – Kiválasztási rendszer”szakrendszer;
+1.74.2.„TÉR – Teljesítmény Értékelő Rendszer”szakrendszer;
+1.74.3.„Közigazgatási állásportál”szakrendszer;
+1.74.4.„RVTV – Rendészeti vezetőképzési és továbbképzési vizsgaportál”szakrendszer;
+1.74.5.„HVM – Egyes rendészeti tevékenységet végzők alapképzési és vizsgarendszer”szakrendszer;
+1.74.6.„Személy és Vagyonőr Vizsgarendszer”szakrendszer;
+1.74.7. az OVF (Országos Vízügyi Főigazgatóság) modul, a vízügyi ágazat továbbképzési szakrendszer;
+
+1.74.8. az RVTV, a HVM, valamint az OVF és a Személy és vagyonőr rendszerhez kapcsolódó E-learning
+keretrendszer;”
+4. Az R 1. melléklet 1. pontja a következő 1.75. ponttal egészül ki:
+(A központi szolgáltató a következő informatikai rendszerek üzemeltetéséről gondoskodik:)
+„1.75. az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján jogszabályban
+meghatározott helyi közszolgáltatás információs rendszer (IKIR) alapinfrastruktúra üzemeltetése;”
+5. Az R 1. melléklet 1. pontja a következő 1.76. ponttal egészül ki:
+(A központi szolgáltató a következő informatikai rendszerek üzemeltetéséről gondoskodik:)
+„1.76. a Közbeszerzési és Ellátási Főigazgatóság által működtetett Közbeszerzési Portál, valamint
+a www.kozbeszerzes.gov.hu honlap informatikai üzemeltetése és a működtetéséhez szükséges informatikai
+rendszerek üzemeltetése.”
+6. Az R. 1. melléklet 2. pontja a következő 2.23. ponttal egészül ki:
+(A központi szolgáltató a következő informatikai rendszerek fejlesztéséről gondoskodik:)
+„2.23. Az 1.63. pontban meghatározott rendszer;”
+7. Az R. 1. melléklet 2. pontja a következő 2.24. ponttal egészül ki:
+(A központi szolgáltató a következő informatikai rendszerek fejlesztéséről gondoskodik:)
+„2.24. Az 1.74. pontban meghatározott szakrendszerek;”
+8. Az R. 1. melléklet 2. pontja a következő 2.25. ponttal egészül ki:
+(A központi szolgáltató a következő informatikai rendszerek fejlesztéséről gondoskodik:)
+„2.25. Az 1.75. pontban meghatározott szakrendszer alapinfrastruktúrája;”
+9. Az R. 1. melléklet 2. pontja a következő 2.26. ponttal egészül ki:
+(A központi szolgáltató a következő informatikai rendszerek fejlesztéséről gondoskodik:)
+„2.26. Az 1.76. pontban meghatározott rendszer.”
