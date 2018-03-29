@@ -1,5 +1,0 @@
-## 6. § A nemzetiség óvodai nevelésének irányelve és a nemzetiség iskolai oktatásának irányelve kiadásáról szóló 17/2013. (III. 1.) EMMI rendelet 8. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-## „(10) A tanuló kérheti a kiegészítő nemzetiségi nevelés-oktatásban szerzett osztályzatainak rögzítését a törzslapon és a bizonyítványban abban az iskolában, ahol tankötelezettségét teljesíti, vagy a tankötelezettség megszűnését követően nappali rendszerben a tanulmányait folytatja, feltéve, ha a vendégtanulói jogviszonyban és a tanulói jogviszonyban folytatott tanulmányok azonos évfolyamra esnek. Ebben az esetben alkalmazni kell a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló miniszteri rendelet vendégtanulókkal kapcsolatos rendelkezéseit, és a tanulót – kérelemre – fel kell menteni az idegen nyelv tanulása alól.”
-
-## 6. A köznevelési szakértői tevékenység, valamint az érettségi vizsgaelnöki megbízás feltételeiről szóló 15/2015. (III. 13.) EMMI rendelet módosítása
