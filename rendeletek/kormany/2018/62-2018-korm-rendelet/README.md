@@ -1,0 +1,9 @@
+# 62/2018. (III. 28.) Korm. rendelet
+
+az Alsózsolcán megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-62-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-03-29 | 2018-62-20-22.1 | 62/2018. (III. 28.) Korm. rendelet |
