@@ -1,1 +1,0 @@
-## 10. § A kiegészítő támogatás megállapítása, megszüntetése, valamint a baleset, a betegség és az ezekből eredő haláleset szolgálati kötelmekkel való összefüggése tárgyában hozott, továbbá a 2. § (1) bekezdése és a 3. § szerinti elsőfokú határozat ellen benyújtott fellebbezést a honvédelemért felelős miniszter bírálja el.
