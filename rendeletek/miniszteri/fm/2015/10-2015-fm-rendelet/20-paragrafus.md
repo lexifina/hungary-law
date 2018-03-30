@@ -1,11 +1,11 @@
 ## 19. A rövid vágásfordulójú fás szárú energetikai ültetvény
 
-20. § (1)[^80] Rövid vágásfordulójú fás szárú energetikai ültetvény abban az esetben vehető figyelembe ökológiai jelentőségű területként, ha azon nem használnak sem műtrágyát, sem növényvédőszert.
+20. §[^97] (1) Rövid vágásfordulójú fás szárú energetikai ültetvény abban az esetben vehető figyelembe ökológiai jelentőségű területként, ha azon nem használnak sem műtrágyát, sem növényvédő szert.
 
-(2)[^81]
+(2) A mezőgazdasági termelőnek az egységes kérelmében nyilatkoznia kell arról, hogy az ökológiai jelentőségű területként bejelentett rövid vágásfordulójú fás szárú energetikai ültetvényen nem használ sem műtrágyát, sem növényvédő szert. Amennyiben a mezőgazdasági termelő nyilatkozata szerint az adott ökológiai jelentőségű területen növényvédő szert vagy műtrágyát használ, a terület nem fogadható el ökológiai jelentőségű területként.
 
-(3)[^82] Rövid vágásfordulójú fás szárú energetikai ültetvény ökológiai jelentőségű területként történő figyelembevétele esetén a mezőgazdasági termelő köteles – a 8. mellékletben meghatározott adattartalmú, a Kincstár által rendszeresített és a Kincstár honlapján közzétett nyomtatványnak megfelelő – műveleti naplót vezetni.
+(3) Rövid vágásfordulójú fás szárú energetikai ültetvény ökológiai jelentőségű területre vonatkozóan a mezőgazdasági termelő köteles a 9/2015. (III. 13.) FM rendelet 8. melléklete szerinti gazdálkodási napló GN01, GN06, GN07 betétlapjait vezetni és azokat öt évig megőrizni. Az (1) bekezdésben előírt műtrágya- és növényvédőszer-mentességet a Kincstár helyszíni ellenőrzés keretében a gazdálkodási napló adatai alapján jogosult ellenőrizni.
 
-[^80]: A 20. § (1) bekezdése a 40/2015. (VII. 13.) FM rendelet 11. § (9) bekezdésével megállapított szöveg.
-[^81]: A 20. § (2) bekezdését a 43/2017. (IX. 5.) FM rendelet 9. §-a hatályon kívül helyezte.
-[^82]: A 20. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 81. § f) pontja szerint módosított szöveg.
+(4) Ha az ellenőrzés eredményeképpen megállapítást nyer, hogy a mezőgazdasági termelő a gazdálkodási naplót nem vagy hiányosan vezette vagy annak adatai alapján nem bizonyítható egyértelműen, hogy betartotta az adott ökológiai jelentőségű terület teljes egészén az (1) bekezdésben előírtakat, abban az esetben a terület nem fogadható el ökológiai jelentőségű területként.
+
+[^97]: A 20. § a 8/2018. (III. 29.) FM rendelet 27. §-ával megállapított szöveg.
