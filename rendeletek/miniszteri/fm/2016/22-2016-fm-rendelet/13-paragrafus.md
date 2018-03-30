@@ -1,4 +1,4 @@
-13. § (1)[^22] Ha az ügyfél halála miatt vélelmezett örökös kíván eljárni, a vélelmezett örökösnek az eljárási cselekmény elvégzését megelőzően, személyesen vagy postai úton, a Kincstár által rendszeresített nyomtatványon be kell nyújtania a vélelmezett örökösként való eljárásra irányuló kérelmét a lakóhelye vagy székhelye szerint illetékes kormányhivatalhoz.
+13. § (1)[^28] Ha az ügyfél halála miatt vélelmezett örökös kíván eljárni, a vélelmezett örökösnek az eljárási cselekmény elvégzését megelőzően, személyesen vagy postai úton, a Kincstár által rendszeresített nyomtatványon be kell nyújtania a vélelmezett örökösként való eljárásra irányuló kérelmét a lakóhelye vagy székhelye szerint illetékes kormányhivatalhoz.
 
 (2) Az egységes kérelmet, az adatváltozás bejelentését, az adategyeztetés során tett nyilatkozatot és a 10. § (5) bekezdése szerinti észrevételt benyújtani kívánó vélelmezett örökösnek „kérelemre nyilvántartásba vett” besorolású ügyfélként rendelkeznie kell ügyfél-azonosítóval. Ennek érdekében legkésőbb az (1) bekezdés szerinti kérelem benyújtásával egyidejűleg kérelmeznie kell az ügyfél-nyilvántartási rendszerbe történő nyilvántartásba vételét.
 
@@ -6,4 +6,4 @@
 
 (4) Az (1) bekezdés abban az esetben is alkalmazandó, ha az ügyfél halála az egységes kérelem benyújtását követően következett be.
 
-[^22]: A 13. § (1) bekezdése a 13/2017. (III. 17.) FM rendelet 49. §-ával megállapított szöveg.
+[^28]: A 13. § (1) bekezdése a 13/2017. (III. 17.) FM rendelet 49. §-ával megállapított szöveg.

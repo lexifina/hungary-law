@@ -6,7 +6,7 @@ a) az ne metssze a fizikai blokk és a támogatható terület határát, kivéve
 
 b) a tábla beazonosítása érdekében az a valósághű elhelyezkedést kövesse, és
 
-c)[^4] a tábla manuálisan megadott grafikus területének nagysága, valamint az adott tábla numerikusan megadott területértéke legfeljebb 3,33% arányban vagy 0,25 hektár mértékben térjen el – ha a grafikus adatok shape, illetve EOV koordináta segítségével kerülnek megadásra, akkor a grafikus terület nagysága, valamint az adott tábla numerikusan megadott területértéke nem térhet el egymástól.
+c)[^5] a tábla manuálisan megadott grafikus területének nagysága, valamint az adott tábla numerikusan megadott területértéke legfeljebb a 809/2014/EU bizottsági végrehajtási rendelet 38. cikk (4) bekezdése szerinti mérési tűréshatárnak megfelelő (a továbbiakban: mérési tűréshatár) mértékben de legfeljebb 0,25 hektár területnagyságban térjen el egymástól. Ha a grafikus adatok shape, illetve EOV koordináta segítségével kerülnek megadásra, akkor a grafikus terület nagysága, valamint az adott tábla numerikusan megadott területértéke nem térhet el egymástól.
 
 (3) Ha a 2. § (1) bekezdésében meghatározottminiszteri rendelet másként nem rendelkezik, az igénybe vehető támogatások alapjául szolgáló terület megállapításánál nem vehetők figyelembe az alábbi területek:
 
@@ -20,4 +20,4 @@ d) az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajt
 
 (4) Az ügyfélnek az egységes kérelemben meg kell jelölnie azokat a bejelentett táblákat, amelyeken öntözési tevékenységet kíván végezni, illetve termesztő berendezés alatt kíván termeszteni.
 
-[^4]: A 4. § (2) bekezdés c) pontja a 13/2017. (III. 17.) FM rendelet 45. §-ával megállapított szöveg.
+[^5]: A 4. § (2) bekezdés c) pontja a 8/2018. (III. 29.) FM rendelet 43. §-ával megállapított szöveg.

@@ -32,7 +32,7 @@ b) a tárgyévet megelőző évi egységes kérelemben az ügyfél bejelentett t
 
 13. Központi Elektronikus Szolgáltató Rendszer: az elektronikus közszolgáltatások nyújtását, illetve igénybevételét támogató központi informatikai és kommunikációs rendszer;
 
-14.[^1] KR dokumentum: az ügyfél által ügyfélkapun benyújtott vagy az ügyfél részére ügyfélkapun keresztül továbbított dokumentum tartalmát, valamint az elektronikus benyújtás vagy továbbítás adatait tartalmazó elektronikus dokumentum, amelyet a Magyar Államkincstár (a továbbiakban: Kincstár) az ügyfél ügyfélkapuján található értesítési tárhelyre a Központi Elektronikus Szolgáltató Rendszeren (a továbbiakban: KR) keresztül megküld;
+14.[^1] KR dokumentum: az ügyfél által ügyfélkapus azonosítással benyújtott vagy az ügyfél elektronikus ügyintézésre szolgáló értesítési tárhelyére (a továbbiakban: értesítési tárhely) továbbított dokumentum tartalmát, valamint az elektronikus benyújtás vagy továbbítás adatait tartalmazó elektronikus dokumentum, amelyet a Magyar Államkincstár (a továbbiakban: Kincstár) az ügyfél értesítési tárhelyére a Központi Elektronikus Szolgáltató Rendszeren (a továbbiakban: KR) keresztül megküld;
 
 15. mezőgazdasági parcella: az 1306/2013/EU európai parlamenti és tanácsi rendelet 67. cikk (4) bekezdés a) pontja szerinti földterület, figyelemmel az adott támogatási jogcím sajátosságaira;
 
@@ -72,7 +72,7 @@ d) az egybeművelt terület helyszíni ellenőrzése során mért területének 
 
 e) a tematikus fedvények területének mérete,
 
-f) MePAR-ban lehatárolt ökológiai jelentőségű terület mérete;
+f)[^2] MePAR-ban lehatárolt ökológiai jelentőségű igényelhető terület;
 
 23. támogatható terület: az 1307/2013/EU európai parlamenti és tanácsi rendelet 32. cikk (2)–(6) bekezdésében meghatározott, a támogatás szempontjából valamennyi feltételnek megfelelő földterület;
 
@@ -86,4 +86,5 @@ f) MePAR-ban lehatárolt ökológiai jelentőségű terület mérete;
 
 28. termőképes terület: azon mezőgazdasági parcella, ahol a növényegyedek legalább 50%-a terméshozásra képes.
 
-[^1]: Az 1. § 14. pontja a 88/2016. (XII. 29.) FM rendelet 109. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § 14. pontja a 8/2018. (III. 29.) FM rendelet 42. §-ával megállapított szöveg.
+[^2]: Az 1. § 22. pont f) alpontja a 8/2018. (III. 29.) FM rendelet 49. § a) pontja szerint módosított szöveg.
