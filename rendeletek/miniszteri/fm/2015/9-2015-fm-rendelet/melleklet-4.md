@@ -1,10 +1,10 @@
-## A zöldségnövények jegyzéke, valamint minimális hektáronkénti vetőmag, palánta, hagyma és dugvány értékei
+## A zöldségnövények jegyzéke, valamint minimális hektáronkénti vetőmag, palánta, hagyma, tősarj és dugvány értékei
 
 |  | A | B | C | D | E | F | G | H |
 
 | 1 | Megnevezése magyarul | Megnevezése latinul | Szántóföldi termesztés esetén | Hajtatás esetén |
 
-| Minimum vetőmag db/hektár | Ezermagtömeg gramm | Minimum hagyma, fokhagymagerezd db/hektár | Minimum dugvány vagy magonc db/hektár | Minimum palánta db/hektár | Minimum palánta db/hektár |
+| Minimum vetőmag db/hektár | Ezermagtömeg gramm | Minimum hagyma, fokhagymagerezd db/hektár | Minimum dugvány, tősarj vagy magonc db/hektár | Minimum palánta db/hektár | Minimum palánta db/hektár |
 
 | 2 | Görögdinnye, Tökre oltott görögdinnye | Citrullus lanatus | 2500 | 45 | – | – | 2300 | – |
 
@@ -98,6 +98,6 @@
 
 | 47 | Majoranna | Origanum majorana | 1 320 000 | 0,22 | – | – | – | – |
 
-4. melléklet a 9/2015. (III. 13.) FM rendelethez[^138]
+4. melléklet a 9/2015. (III. 13.) FM rendelethez[^146]
 
-[^138]: A 4. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (3) bekezdésével megállapított szöveg.
+[^146]: A 4. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (3) bekezdésével megállapított szöveg.

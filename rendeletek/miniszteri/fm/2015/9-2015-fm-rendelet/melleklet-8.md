@@ -60,6 +60,6 @@
 
 ## esetében 250 g/ezer mag értékkel kell számolni.
 
-8. melléklet a 9/2015. (III. 13.) FM rendelethez[^144]
+8. melléklet a 9/2015. (III. 13.) FM rendelethez[^152]
 
-[^144]: A 8. melléklet az 55/2017. (XI. 6.) FM rendelet 25. §-ával megállapított szöveg.
+[^152]: A 8. melléklet az 55/2017. (XI. 6.) FM rendelet 25. §-ával megállapított szöveg.

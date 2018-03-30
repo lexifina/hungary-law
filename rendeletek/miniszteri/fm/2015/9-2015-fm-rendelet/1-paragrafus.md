@@ -58,7 +58,7 @@ meghatározott paraméterek teljes körére lefolytatott minősítés vagy
 
 c) a zöldségnövények és az ipari zöldségnövények vonatkozásában, a b) pontban meghatározott mellékletekben nem nevesített kultúrák esetében az 50/2004. (IV. 22.) FVM rendelet 19. és 20. §-a szerinti, standard szaporítóanyag minősítésére vonatkozó eljárás;
 
-13.[^15] szaporítóanyag: vetőmag, palánta, dugvány, gumó, hagyma vagy hagymagerezd;
+13.[^15] szaporítóanyag: vetőmag, palánta, dugvány, tősarj, gumó, hagyma vagy hagymagerezd;
 
 14.[^16] támogatási időszak: 2015. január 1-jétől 2020. december 31-ig tartó időszak;
 
@@ -86,7 +86,7 @@ c) a zöldségnövények és az ipari zöldségnövények vonatkozásában, a b)
 [^12]: Az 1. § 10. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
 [^13]: Az 1. § 11. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
 [^14]: Az 1. § 12. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
-[^15]: Az 1. § 13. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
+[^15]: Az 1. § 13. pontja a 8/2018. (III. 29.) FM rendelet 8. §-ával megállapított szöveg.
 [^16]: Az 1. § 14. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
 [^17]: Az 1. § 15. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított szöveg.
 [^18]: Az 1. § 16. pontja a 72/2016. (XI. 3.) FM rendelet 3. §-ával megállapított, a 13/2017. (III. 17.) FM rendelet 30. § b) pontja szerint módosított szöveg.

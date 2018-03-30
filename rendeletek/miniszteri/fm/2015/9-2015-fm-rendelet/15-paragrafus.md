@@ -1,6 +1,6 @@
 ## 12. Rizstermesztés támogatása
 
-15. §[^91] (1) Rizstermesztés támogatása azon területek után vehető igénybe, amelyen a mezőgazdasági termelő
+15. §[^95] (1) Rizstermesztés támogatása azon területek után vehető igénybe, amelyen a mezőgazdasági termelő
 
 a) 1006 10 KN kód alá tartozó rizst termeszt,
 
@@ -18,7 +18,7 @@ b) betakarítást követő két héten belüli értékesítése esetén számlá
 
 igazolja.
 
-(3)[^92] A (2) bekezdés szerinti dokumentumok másolatát a mezőgazdasági termelő köteles a betakarítást követő két héten belül, de legkésőbb tárgyév november 30-áig a Kincstár részére – papír alapon vagy elektronikus úton – megküldeni. A (2) bekezdés szerinti dokumentumok benyújtásának elmulasztása esetén a Kincstár – ötnapos határidő tűzése mellett – felszólítja a mezőgazdasági termelőt azok hiánytalan benyújtására
+(3)[^96] A (2) bekezdés szerinti dokumentumok másolatát a mezőgazdasági termelő köteles a betakarítást követő két héten belül, de legkésőbb tárgyév november 30-áig a Kincstár részére – papír alapon vagy elektronikus úton – megküldeni. A (2) bekezdés szerinti dokumentumok benyújtásának elmulasztása esetén a Kincstár – ötnapos határidő tűzése mellett – felszólítja a mezőgazdasági termelőt azok hiánytalan benyújtására
 
-[^91]: A 15. § a 13/2017. (III. 17.) FM rendelet 22. §-ával megállapított szöveg.
-[^92]: A 15. § (3) bekezdése az 55/2017. (XI. 6.) FM rendelet 21. §-ával megállapított szöveg.
+[^95]: A 15. § a 13/2017. (III. 17.) FM rendelet 22. §-ával megállapított szöveg.
+[^96]: A 15. § (3) bekezdése az 55/2017. (XI. 6.) FM rendelet 21. §-ával megállapított szöveg.

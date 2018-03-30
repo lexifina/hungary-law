@@ -1,4 +1,4 @@
-## 15/A. [^98] Ipari olajnövény termesztés támogatása
+## 15/A. [^103] Ipari olajnövény termesztés támogatása
 
 ## 18/A. § Az ipari feldolgozás céljára termesztett olajnövény termesztés támogatásának igénybevételére az a mezőgazdasági termelő jogosult, aki vagy amely
 
@@ -8,4 +8,4 @@ b) legalább a 4/b. mellékletben meghatározott, hektáronkénti minimális men
 
 c) a növényállományt rendes növekedési feltételek mellett legalább a virágzás kezdetéig megőrzi.
 
-[^98]: A 15/A. alcímet (18/A. §) a 13/2017. (III. 17.) FM rendelet 26. §-a iktatta be.
+[^103]: A 15/A. alcímet (18/A. §) a 13/2017. (III. 17.) FM rendelet 26. §-a iktatta be.
