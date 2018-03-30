@@ -26,11 +26,11 @@ b) pontokból álló térinformatikai fedvényként a földrészletek egy belső
 
 10.[^1] nem támogatható terület: az a terület, amely nem felel meg a támogatható terület e rendeletben meghatározott fogalmának, továbbá – figyelemmel az 1307/2013/EU rendelet 32. cikk (3) bekezdés második albekezdésében foglaltakra – az elsődlegesen nem mezőgazdasági céllal hasznosított alábbi területek:
 
-a) repülőtér, ideértve a leszállópályán túl a kiszolgáló létesítmények területét (hangár, terminál, cargo épület stb.), valamint az ezeket körülvevő biztonsági védőövezet határait is,
+a)[^2] repülőtér leszállópályája és a repülőtér működtetéséhez közvetlenül kapcsolódó kiszolgáló létesítmények területe, ideértve az ezeket körülvevő biztonsági védőövezet határait, valamint a füves kifutópályával rendelkező repülőterek leszállópályáját és annak a rendeltetésszerű használatát biztosító egyéb füves területeket is,
 
 b) az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 15. pontja szerinti műtárgy területe és a műtárgy rendeltetésszerű működését biztosító terület, valamint a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet 2. § 4. pontja szerinti árvízvédelmi mű, 2. § 40. pontja szerinti vízvédelmi terület, valamint 37. §-a és 38. §-a alapján árvízvédelmi földtöltésként kialakított árvízvédelmi vonal teljes, a töltéskoronától a körömpontokig terjedő területe,
 
-c) az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet (a továbbiakban: Inyvhr.) 50. § (7) bekezdés a) pontja szerinti, a honvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: HM) vagyonkezelésében lévő „Állami terület 1.” megnevezésű művelés alól kivett terület, vagy az Inyvhr. 50. § (8) bekezdése szerinti, a „honvédelmi célra feleslegessé nyilvánított terület” megnevezésű művelés alól kivett terület, kivéve az eljárási törvény 44. § (7) bekezdésében nevesített valamely földhasználati szerződés alapján hasznosított területek, amelyeknek mezőgazdasági hasznosítása fizikailag is – a HM nyilvántartása szerint – biztosított,
+c)[^3] az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet (a továbbiakban: Inyvhr.) 50. § (7) bekezdés a) pontja szerinti, a honvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: HM) vagyonkezelésében lévő „Állami terület 1.” megnevezésű művelés alól kivett terület, vagy az Inyvhr. 50. § (8) bekezdése szerinti, a „honvédelmi célra feleslegessé nyilvánított terület” megnevezésű művelés alól kivett terület, kivéve a Támogatási törvény 44. § (7) bekezdésében nevesített valamely földhasználati szerződés alapján hasznosított területek, amelyeknek mezőgazdasági hasznosítása fizikailag is – a HM nyilvántartása szerint – biztosított,
 
 d) távvezeték alatti terület, valamint a b) pont szerinti műtárgy építése céljából létesített erdészeti nyiladékok, amennyiben a terület megfelel az 1307/2013/EU rendelet 4. cikk (1) bekezdés g) és h) pontjában meghatározott fogalmaknak,
 
@@ -38,7 +38,7 @@ e) szórakozási vagy szabadidős tevékenységre használt területek (külön�
 
 f) halas- és horgásztó, lőtér, valamint ezek rendeltetésszerű használatát biztosító területek,
 
-g) trágyalerakók területe;
+g)[^4] állandó trágyalerakók területe;
 
 11. ortofotó: az 1306/2013/EU rendelet céljainak megfelelő pontosságú méretek és területek meghatározására alkalmas, ortogonális vetítési rendszerű, térképszerűen átdolgozott légifelvétel;
 
@@ -59,3 +59,6 @@ g) trágyalerakók területe;
 19. védett tájképi elem: az egységes területalapú támogatások és egyes vidékfejlesztési támogatások igényléséhez teljesítendő „Helyes Mezőgazdasági és Környezeti Állapot” fenntartásához szükséges feltételrendszer, valamint az állatok állategységre való átváltási arányának meghatározásáról szóló 50/2008. (IV. 24.) FVM rendelet 2. § n) pontjában meghatározott terület.
 
 [^1]: Az 1. § 10. pontja a 25/2016. (IV. 11.) FM rendelet 71. §-ával megállapított szöveg.
+[^2]: Az 1. § 10. pont a) alpontja a 8/2018. (III. 29.) FM rendelet 37. §-ával megállapított szöveg.
+[^3]: Az 1. § 10. pont c) alpontja a 8/2018. (III. 29.) FM rendelet 40. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § 10. pont g) alpontja a 8/2018. (III. 29.) FM rendelet 40. § b) pontja szerint módosított szöveg.

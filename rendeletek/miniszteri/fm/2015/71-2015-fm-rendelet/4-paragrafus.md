@@ -24,10 +24,12 @@ j) a védett tájképi elemek területmértékei.
 
 (2) A MePAR továbbá tartalmazza a kataszteri fedvényt, valamint jogszabály, az Európai Mezőgazdasági és Vidékfejlesztési Alap társfinanszírozásával megvalósuló támogatások pályázati felhívásai vagy technikai útmutatás alapján létrehozott és létrehozandó, egyéb tematikus rétegekre vonatkozó adatokat.
 
-(3) A MePAR továbbá
+(3)[^7] A MePAR
 
 a) a 10/2015. (III. 13.) FM rendelet 13. § (1) bekezdés a) pontjában meghatározott területeknek a 2017. évben igényelt területalapú támogatások kifizetését megelőző állapotára,
 
 b) a 2016. évtől a 10/2015. (III. 13.) FM rendelet 13. § (1) bekezdés c) és f) pontjában meghatározott területekre – a védett tájképi elemek kivételével –, valamint
 
 c) a védett tájképi elemekre és a 10/2015. (III. 13.) FM rendelet 13. § (1) bekezdés b), d), e), g) és h) pontjában szereplő területekre
+
+[^7]: A 4. § (3) bekezdés nyitó szövegrésze a 8/2018. (III. 29.) FM rendelet 40. § e) pontjával megállapított szöveg.
