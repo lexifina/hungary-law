@@ -1,8 +1,8 @@
-## 14. §[^33]
+## 14. §[^36]
 
 ## Az Európai Unió jogának való megfelelés
 
-## 15. §[^34] Ez a rendelet
+## 15. §[^37] Ez a rendelet
 
 a) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásokról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet,
 
@@ -14,5 +14,5 @@ d) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált ig
 
 e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU bizottsági végrehajtási rendelet
 
-[^33]: A 14. §-t a 32/2010. (III. 30.) FVM rendelet 8. §-a hatályon kívül helyezte.
-[^34]: A 15. § a 13/2015. (III. 30.) FM rendelet 5. §-ával megállapított szöveg.
+[^36]: A 14. §-t a 32/2010. (III. 30.) FVM rendelet 8. §-a hatályon kívül helyezte.
+[^37]: A 15. § a 13/2015. (III. 30.) FM rendelet 5. §-ával megállapított szöveg.

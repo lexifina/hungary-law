@@ -6,17 +6,17 @@ a) állategység: az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA)
 
 b) egybeművelt tábla: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló miniszteri rendeletben (a továbbiakban: egységes kérelem rendelet) egybeművelt táblaként meghatározott területegység,
 
-c) fa- és bokorcsoport: a Mezőgazdasági Parcella Azonosító Rendszerben (a továbbiakban: MePAR) meghatározott és feltüntetett, 100 négyzetméternél nagyobb, legfeljebb 5000 négyzetméter, jellemzően nem vonalas kiterjedéssel rendelkező, legalább 50%-ban fás szárú növényekkel borított terület,
+c)[^3] fa- és bokorcsoport: a Mezőgazdasági Parcella Azonosító Rendszerben (a továbbiakban: MePAR) meghatározott és feltüntetett, 100 négyzetméternél nagyobb, legfeljebb 5000 négyzetméter, jellemzően nem vonalas kiterjedéssel rendelkező, legalább 50%-ban fás szárú növényekkel borított terület, amely legalább 20%-ban, gyep felszínborítással is történő érintkezés esetén pedig legalább 50%-ban szántóval van körülvéve,
 
 d) gémeskút: olyan kút, amelyből a talajvíz kiemelését a kétkarú emelő elvén működő, a föld felszíne felett található szerkezet szolgálja, és a MePAR-ban rögzítésre került,
 
-e) kis kiterjedésű tó: a MePAR-ban meghatározott és feltüntetett, legalább 0,01 ha és legfeljebb 0,5 ha területű, szántóval körülvett, nyílt vízfelületű vagy időszakosan jelenlévő, vizenyős, mocsaras, legfeljebb 10 méter széles part menti vegetációval szegélyezett terület,
+e)[^4] kis kiterjedésű tó: a MePAR-ban meghatározott és feltüntetett, 100 négyzetméternél nagyobb, de legfeljebb 5000 négyzetméter nagyságú, szántóval körülvett, mezőgazdaságilag időszakosan sem hasznosított vagy nyílt vízfelülettel és maximum 10 méter széles part menti vegetációval szegélyezett vagy legalább időszakosan vízjárta, de a száraz időszakokban is állandó, a vizes élőhelyekre jellemző növényzettel borított, mélyebb fekvésű terület,
 
 f) kunhalom: a természet védelméről szóló 1996. évi LIII. törvény 23. § (3) bekezdés f) pontja szerinti objektum, a MePAR-ban meghatározott és feltüntetett területi kiterjedéssel,
 
 g) magányosan álló fa: a MePAR-ban meghatározott és feltüntetett, szántóterületen található olyan egymagában álló fa, amely lombkoronájának átmérője legalább 4 méter,
 
-h) másodvetés: az éghajlat és környezet szempontjából előnyös mezőgazdasági gyakorlatokra nyújtandó támogatás igénybevételének szabályairól, valamint a szántóterület, az állandó gyepterület és az állandó kultúrával fedett földterület növénytermesztésre vagy legeltetésre alkalmas állapotban tartásának feltételeiről szóló 10/2015. (III. 13.) FM rendelet 1. § 12. pontjában meghatározott növénykultúra,
+h)[^5] másodvetés: az éghajlat és környezet szempontjából előnyös mezőgazdasági gyakorlatokra nyújtandó támogatás igénybevételének szabályairól, valamint a szántóterület, az állandó gyepterület és az állandó kultúrával fedett földterület növénytermesztésre vagy legeltetésre alkalmas állapotban tartásának feltételeiről szóló 10/2015. (III. 13.) FM rendelet 1. § 13. pontjában meghatározott növénykultúra,
 
 i) másodvetésű takarónövény: a nyári betakarítású veteményt követően a talaj takarását biztosító másodvetés, amely a következő növény vetését megelőzően kerül leforgatásra, vagy betakarításra,
 
@@ -34,3 +34,6 @@ o) völgyzáró-gátas halastó: olyan keresztgátas halastó, amely állandó v
 
 [^1]: Az 1. § a 13/2015. (III. 30.) FM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § a 13/2015. (III. 30.) FM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § c) pontja a 8/2018. (III. 29.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § e) pontja a 8/2018. (III. 29.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § h) pontja a 8/2018. (III. 29.) FM rendelet 1. § (3) bekezdésével megállapított szöveg.

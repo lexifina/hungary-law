@@ -1,6 +1,6 @@
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. számú melléklet az 50/2008. (IV. 24.) FVM rendelethez[^35]
+1. számú melléklet az 50/2008. (IV. 24.) FVM rendelethez[^38]
 
 ## „A Helyes Mezőgazdasági és Környezeti Állapot” előírásai
 
@@ -36,9 +36,9 @@
 
 4.1. Fenn kell tartani a minimális talajborítást a nyári és őszi betakarítású kultúrák lekerülése után,
 
-4.1.1.[^36] őszi kultúra vetésével,
+4.1.1.[^39] őszi kultúra vetésével,
 
-4.1.2.[^37] a tarló szeptember 30-ig történő megőrzésével vagy legfeljebb sekély tarlóhántás és ápolás, illetve középmély vagy mély talajlazítás elvégzésével, valamint a tarló gyommentes állapotban tartásával, kivéve a nitrátérzékeny területeken előforduló tavaszi vetésű kultúrák esetében, ahol az őszi szervestrágya kijuttatása és bedolgozása október 31-ig engedélyezett – ha adott területen őszi kultúra vetésére nem kerül sor, úgy a fenti időpontot követően a talajelőkészítő munkákat a szintvonalakkal párhuzamosan kell elvégezni –, vagy
+4.1.2.[^40] a tarló szeptember 30-ig történő megőrzésével vagy legfeljebb sekély tarlóhántás és ápolás, illetve középmély vagy mély talajlazítás elvégzésével, valamint a tarló gyommentes állapotban tartásával, továbbá a nitrátérzékeny területeken előforduló tavaszi vetésű kultúrák esetében szeptember 1-től elvégezhetőek szintvonalakkal párhuzamosan a talajelőkészítő munkákkal, tekintve hogy e területeken a trágya kijuttatása és bedolgozása csak október 31-ig engedélyezett, vagy
 
 4.1.3. másodvetésű takarónövény termesztésével.
 
@@ -64,13 +64,13 @@
 
 6.2. Tarló, nád, növényi maradvány valamint gyepek égetése tilos, kivéve, ha erre növény-egészségügyi okokból van szükség.
 
-7.[^38] A táj jellegzetességeinek megőrzésére vonatkozó előírások:
+7.[^41] A táj jellegzetességeinek megőrzésére vonatkozó előírások:
 
 7.1. A védett tájképi elemek megőrzése: A MePAR-ban rögzített védett tájképi elemek megőrzése kötelező. Kunhalom, valamint a fa- és bokorcsoport területén gyep felszínborítás helyreállítása érdekében történő előkészítő beavatkozások kivételével bárminemű mezőgazdasági talajmunka végzése tilos. Kunhalom területén végzett fakivágás során tilos a földmű bolygatása. Fa- és bokorcsoportra vonatkozó fahasználat, illetve a kis kiterjedésű tavak megőrzése érdekében a teljes naptári évben biztosítani kell, hogy a fa- és bokorcsoport megfeleljen az 50/2008. (IV. 24.) FVM rendelet 2. § c) pontjában, a kis kiterjedésű tavak esetében az 50/2008. (IV. 24.) FVM rendelet 2. § e) pontjában foglaltaknak. A magányosan álló fát kivágni nem lehet.
 
 7.2. Kivágási tilalomra vonatkozó előírás: Fát, bokrot és sövényt a március 1. és augusztus 31. közötti költési és fiókanevelési időszakban nem lehet kivágni.
 
-[^35]: Az 1. számú melléklet a 13/2015. (III. 30.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^36]: Az 1. számú melléklet 4. pont 4.1. alpont 4.1.1. alpontja az 54/2015. (IX. 16.) FM rendelet 3. §-ával megállapított szöveg.
-[^37]: Az 1. számú melléklet 4. pont 4.1. alpont 4.1.2. alpontja az 54/2015. (IX. 16.) FM rendelet 3. §-ával megállapított szöveg.
-[^38]: Az 1. melléklet 7. pontja a 44/2017. (IX. 5.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^38]: Az 1. számú melléklet a 13/2015. (III. 30.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^39]: Az 1. számú melléklet 4. pont 4.1. alpont 4.1.1. alpontja az 54/2015. (IX. 16.) FM rendelet 3. §-ával megállapított szöveg.
+[^40]: Az 1. számú melléklet 4. pont 4.1. alpont 4.1.2. alpontja a 8/2018. (III. 29.) FM rendelet 3. §-ával megállapított szöveg.
+[^41]: Az 1. melléklet 7. pontja a 44/2017. (IX. 5.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.

@@ -1,3 +1,3 @@
-## 10–13. §[^32]
+## 10–13. §[^35]
 
-[^32]: A 10–13. §-t a 14. § hatályon kívül helyezte.
+[^35]: A 10–13. §-t a 14. § hatályon kívül helyezte.

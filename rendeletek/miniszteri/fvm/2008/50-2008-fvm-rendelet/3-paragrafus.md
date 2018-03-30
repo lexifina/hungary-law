@@ -1,4 +1,4 @@
-3. § (1)[^3] Az e rendelet szerinti előírásokat az alábbi támogatások igénybevétele esetén kell alkalmazni:
+3. § (1)[^6] Az e rendelet szerinti előírásokat az alábbi támogatások igénybevétele esetén kell alkalmazni:
 
 a) az Európai Mezőgazdasági Garancia Alapból (a továbbiakban: EMGA) finanszírozott közvetlen kifizetések, valamint a szőlőültetvény szerkezet átalakításának és átállásának támogatása,
 
@@ -28,12 +28,12 @@ c) az EMVA-ból a 2014-2020 programozási időszak forrása tekintetében az 130
 
 d) minden egyéb támogatás, amelyekre vonatkozóan az adott támogatás részletes feltételeit meghatározó jogszabály az e rendelet szerinti előírások alkalmazását írja elő.
 
-(2)[^4] Az (1) bekezdésben meghatározott támogatások igénybevétele esetén kötelezően alkalmazandó HMKÁ feltételrendszer előírásait az 1. számú melléklet tartalmazza.
+(2)[^7] Az (1) bekezdésben meghatározott támogatások igénybevétele esetén kötelezően alkalmazandó HMKÁ feltételrendszer előírásait az 1. számú melléklet tartalmazza.
 
-(3)[^5] Az agrárpolitikáért felelős miniszter az 1. számú mellékletben meghatározott előírásokon kívül miniszteri rendeletben további feltételeket is megállapíthat az (1) bekezdésben meghatározott támogatások igénybevételéhez.
+(3)[^8] Az agrárpolitikáért felelős miniszter az 1. számú mellékletben meghatározott előírásokon kívül miniszteri rendeletben további feltételeket is megállapíthat az (1) bekezdésben meghatározott támogatások igénybevételéhez.
 
 (4) A 8. § alapján alkalmazott állategységre való átváltási arányok hatálya nem terjed ki az Európai Mezőgazdasági Orientációs és Garancia Alapból finanszírozott, a Nemzeti Vidékfejlesztési Tervben foglalt vidékfejlesztési támogatásokra.
 
-[^3]: A 3. § (1) bekezdése a 13/2015. (III. 30.) FM rendelet 2. §-ával megállapított szöveg.
-[^4]: A 3. § (2) bekezdése a 13/2015. (III. 30.) FM rendelet 7. § a) pontja szerint módosított szöveg.
-[^5]: A 3. § (3) bekezdése a 13/2015. (III. 30.) FM rendelet 7. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdése a 13/2015. (III. 30.) FM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § (2) bekezdése a 13/2015. (III. 30.) FM rendelet 7. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdése a 13/2015. (III. 30.) FM rendelet 7. § b) pontja szerint módosított szöveg.
