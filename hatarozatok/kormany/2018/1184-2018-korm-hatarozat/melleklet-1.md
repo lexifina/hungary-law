@@ -12,9 +12,7 @@
 
 ## Határidő: azonnal
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1241/2017. (IV. 28.) Korm. határozat 1. pont a) alpontjában a „2018. június 30.” szövegrész helyébe a „2018. június 30., az Intervenciós Támogatási Keret jogcímcsoport javára átcsoportosított 1200,0 millió forint tekintetében 2019. június 30.” szöveg lép.
-
-## 3. Az Országvédelmi Alapból történő, valamint a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1766/2017. (XI. 7.) Korm. határozat 1. pontjában a „2018. június 30.” szövegrész helyébe a „2018. június 30., az Intervenciós Támogatási Keret jogcímcsoport javára átcsoportosított 285 326 705 forint tekintetében 2019. június 30.” szöveg lép.
+## 2–3.[^1]
 
 ## 4. A Kormány egyetért azzal, hogy a fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról szóló 2029/2017. (XII. 27.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 25. Felújítások központi támogatása, egyéb fejlesztési támogatások alcím, 2. Köznevelési intézmények felújítása, beruházása jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 5 000 000 000 forintból 205 325 000 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
@@ -143,3 +141,5 @@ Költségvetési év: 2018.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
