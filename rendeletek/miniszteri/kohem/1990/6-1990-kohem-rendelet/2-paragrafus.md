@@ -104,9 +104,11 @@ d) cseppfolyós propán-bután gázt (LPG);
 
 e) a fedélzeten tárolt vagy fedélzeti forrásból származó mechanikus energiát, ideértve a hulladékhőt is.
 
-(22)[^30] E rendelet alkalmazásában alternatív üzemanyaggal hajtott jármű: teljes egészében vagy részben alternatív üzemanyaggal meghajtott olyan gépjármű, amely az ER. A. Függeléke szerinti jóváhagyással rendelkezik.
+(21)[^30] E rendelet alkalmazásában a „112-es hívószámú fedélzeti e-segélyhívó rendszer”: olyan, a járműbe épített érzékelők révén automatikusan vagy manuálisan bekapcsolódó vészhelyzeti rendszer, amely fedélzeti berendezésből, valamint az e-segélyhíváshoz szükséges adattovábbítás indítására, kezelésére és lebonyolítására szolgáló eszközökből áll, és amely nyilvános, mobil, vezeték nélküli hírközlési hálózatok segítségével minimálisan előírt adatokat továbbít, és a 112-es segélyhívó számon alapuló hangátviteli csatornát hoz létre a jármű utasai és egy e-segélyhívási közbiztonsági válaszpont (KBVP) között.
 
-(23)[^31] E rendelet értelmében intermodális szállítási műveletek:
+(22)[^31] E rendelet alkalmazásában alternatív üzemanyaggal hajtott jármű: teljes egészében vagy részben alternatív üzemanyaggal meghajtott olyan gépjármű, amely az ER. A. Függeléke szerinti jóváhagyással rendelkezik.
+
+(23)[^32] E rendelet értelmében intermodális szállítási műveletek:
 
 a) a nemzetközi kombinált árufuvarozást elősegítő kedvezményekről szóló 266/2003. (XII. 24.) Korm. rendelet 1. § (2) bekezdésében meghatározott, egy vagy több, legfeljebb 14,22 méter (45 láb) teljes hosszúságú konténer vagy cserefelépítmény szállítása céljából végzett szállítási műveletek vagy
 
@@ -118,9 +120,9 @@ bb) a 6. § (3) bekezdés c) pont ca) vagy cb) alpontjának megfelelő járműve
 
 ha a távolságot az érintett tagállam engedélyezi.
 
-(24)[^32] Az intermodális szállítási műveletek tekintetében a tervezett szolgáltatás szempontjából a legközelebb eső megfelelő közlekedési terminál bármelyik – a rakomány be- vagy kirakásának helye szerinti – szomszédos tagállamban is lehet.
+(24)[^33] Az intermodális szállítási műveletek tekintetében a tervezett szolgáltatás szempontjából a legközelebb eső megfelelő közlekedési terminál bármelyik – a rakomány be- vagy kirakásának helye szerinti – szomszédos tagállamban is lehet.
 
-(25)[^33] E rendelet értelmében megbízó: az a természetes vagy jogi személy, aki a fuvarlevélen vagy egy azzal egyenértékű dokumentumon megbízóként kerül megnevezésre, illetve akinek a nevében vagy megbízásából a fuvartársasággal a fuvarszerződést megkötötték.
+(25)[^34] E rendelet értelmében megbízó: az a természetes vagy jogi személy, aki a fuvarlevélen vagy egy azzal egyenértékű dokumentumon megbízóként kerül megnevezésre, illetve akinek a nevében vagy megbízásából a fuvartársasággal a fuvarszerződést megkötötték.
 
 [^4]: A 2. § (1) bekezdése a 12/2000. (V. 24.) KHVM rendelet 1.§-ának (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (3) bekezdése a 40/2015. (VI. 30.) NFM rendelet 1. §-ával megállapított szöveg.
@@ -148,7 +150,8 @@ ha a távolságot az érintett tagállam engedélyezi.
 [^27]: A 2. § (19) bekezdését a 4/2017. (III. 2.) NFM rendelet 2. §-a iktatta be.
 [^28]: A 2. § (20) bekezdését a 11/2017. (IV. 12.) NFM rendelet 5. §-a iktatta be.
 [^29]: A 2. § (21) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
-[^30]: A 2. § (22) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
-[^31]: A 2. § (23) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
-[^32]: A 2. § (24) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
-[^33]: A 2. § (25) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
+[^30]: A 2. § újabb (21) bekezdését az 53/2017. (XII. 22.) NFM rendelet 4. §-a iktatta be.
+[^31]: A 2. § (22) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
+[^32]: A 2. § (23) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
+[^33]: A 2. § (24) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
+[^34]: A 2. § (25) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.

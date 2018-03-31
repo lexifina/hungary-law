@@ -1,4 +1,4 @@
-3. §[^34] (1) A rendelet A., B. és C. Függelékeinek a mellékleteiben foglalt követelményeket, valamint a közösségi rendeleteket az egyes kategóriákba tartozó járművek típusjóváhagyása, illetőleg forgalomba helyezésének engedélyezése során az 1. számú mellékletben meghatározottak szerint kell alkalmazni. A rendelet A., B. és C. Függelékeinek a mellékleteiben foglalt követelmények, valamint a közösségi rendeletek alkalmazásakor figyelembe kell venni az ER. A., B. és C. Függelékeiben, az e rendelet A., B. és C. Függelékeinek vonatkozó mellékletében, valamint a közösségi rendeletekben meghatározott hatályba léptető és átmeneti rendelkezéseket is.
+3. §[^35] (1) A rendelet A., B. és C. Függelékeinek a mellékleteiben foglalt követelményeket, valamint a közösségi rendeleteket az egyes kategóriákba tartozó járművek típusjóváhagyása, illetőleg forgalomba helyezésének engedélyezése során az 1. számú mellékletben meghatározottak szerint kell alkalmazni. A rendelet A., B. és C. Függelékeinek a mellékleteiben foglalt követelmények, valamint a közösségi rendeletek alkalmazásakor figyelembe kell venni az ER. A., B. és C. Függelékeiben, az e rendelet A., B. és C. Függelékeinek vonatkozó mellékletében, valamint a közösségi rendeletekben meghatározott hatályba léptető és átmeneti rendelkezéseket is.
 
 (2) Ha a rendelet üzemeltetési vagy további műszaki feltételei által szabályozott kérdésben a Függelékek mellékletei azoktól eltérő követelményeket tartalmaznak, akkor:
 
@@ -14,10 +14,10 @@ b) egyéb járművek forgalomba helyezésének engedélyezésekor a Függelékek
 
 (6) A rendeletben mennyiségi jellemzővel (számértékkel) meghatározott követelmények teljesülése – a zajkibocsátásra vonatkozó követelmények kivételével – az ott meghatározottól eltérő mértékegységben is kifejezhető, illetőleg eltérő mérési módszerekkel is ellenőrizhető. A különböző mérési módszerek egybevetésének (összehasonlításának) feltételeit és módját a szükséghez képest a közlekedésért felelős miniszter – az érdekelt szervek vezetőivel egyetértésben – határozza meg.
 
-(7)[^35] A fejlesztési célú autonóm járműre vonatkozó további részletes műszaki és üzemeltetési követelményeket a 17. melléklet tartalmazza.
+(7)[^36] A fejlesztési célú autonóm járműre vonatkozó további részletes műszaki és üzemeltetési követelményeket a 17. melléklet tartalmazza.
 
-(8)[^36] A fejlesztési célú járművek besorolási szintjeit a 18. melléklet tartalmazza.
+(8)[^37] A fejlesztési célú járművek besorolási szintjeit a 18. melléklet tartalmazza.
 
-[^34]: A 3. § a 67/2009. (XI. 27.) KHEM rendelet 2. §-ával megállapított szöveg.
-[^35]: A 3. § (7) bekezdését a 11/2017. (IV. 12.) NFM rendelet 6. §-a iktatta be.
-[^36]: A 3. § (8) bekezdését a 11/2017. (IV. 12.) NFM rendelet 6. §-a iktatta be.
+[^35]: A 3. § a 67/2009. (XI. 27.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^36]: A 3. § (7) bekezdését a 11/2017. (IV. 12.) NFM rendelet 6. §-a iktatta be.
+[^37]: A 3. § (8) bekezdését a 11/2017. (IV. 12.) NFM rendelet 6. §-a iktatta be.

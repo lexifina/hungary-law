@@ -6,6 +6,6 @@
 
 119. § (1) Ez a rendelet 1990. július hó 1. napján lép hatályba.
 
-(2)[^228]
+(2)[^232]
 
-[^228]: A 119. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 25. §-ának 2. pontja hatályon kívül helyezte.
+[^232]: A 119. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 25. §-ának 2. pontja hatályon kívül helyezte.

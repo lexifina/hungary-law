@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-6-20-5E
 | 2017-08-14 | 1990-6-20-5E.89 | 27/2016. (VII. 22.) NFM rendelet |
 | 2017-11-01 | 1990-6-20-5E.90 | 67/2009. (XI. 27.) KHEM rendelet |
 | 2018-01-26 | 1990-6-20-5E.91 | 1/2018. (I. 18.) NFM rendelet |
+| 2018-03-31 | 1990-6-20-5E.92 | 53/2017. (XII. 22.) NFM rendelet |
