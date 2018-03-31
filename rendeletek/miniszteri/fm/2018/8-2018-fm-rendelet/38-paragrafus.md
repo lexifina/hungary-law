@@ -1,1 +1,0 @@
-## „a) repülőtér leszállópályája és a repülőtér működtetéséhez közvetlenül kapcsolódó kiszolgáló létesítmények területe, ideértve az ezeket körülvevő biztonsági védőövezet határait, valamint a füves kifutópályával rendelkező repülőterek leszállópályáját és annak a rendeltetésszerű használatát biztosító egyéb füves területeket is,”

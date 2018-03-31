@@ -1,3 +1,0 @@
-## 3. § Az 50/2008. (IV. 24.) FVM rendelet 1. melléklete az 1. melléklet szerint módosul.
-
-## 2. Az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás, valamint az ahhoz kapcsolódó átmeneti nemzeti támogatás igénybevételével kapcsolatos egyes kérdésekről szóló 5/2015. (II. 19.) FM rendelet módosítása

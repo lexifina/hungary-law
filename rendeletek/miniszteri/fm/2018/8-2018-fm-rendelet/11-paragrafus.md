@@ -1,1 +1,0 @@
-## „(1b) Az (1) bekezdés d) pont szerinti bejelentés elmulasztása esetén a Kincstár ötnapos határidővel a hiányzó adatok Termékenyítési Rendszerbe történő bejelentésének pótlására szólítja fel a mezőgazdasági termelőt.”
