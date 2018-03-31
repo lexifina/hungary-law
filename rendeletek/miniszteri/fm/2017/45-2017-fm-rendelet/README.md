@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-45-20-1
 | 2017-09-22 | 2017-45-20-11.2 | 2010: CXXX. törvény |
 | 2018-03-01 | 2017-45-20-11.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-03-02 | 2017-45-20-11.4 | 2010: CXXX. törvény |
+| 2018-03-31 | 2017-45-20-11.5 | 7/2018. (III. 28.) FM rendelet |
