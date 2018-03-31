@@ -58,7 +58,7 @@
 
 | 25. | Debrecen | Dotenergo Zrt. | 0 | 0 |
 
-| 26. | Dombóvár | Veolia Energia Magyarország Zrt. | 12 357 107 | –856 |
+| 26. | Dombóvár | DOMBÓVÁRHŐ Kft. | 12 357 107 | –856 |
 
 | 27. | Dorog | PROMTÁVHŐ Kft. | 11 187 571 | –270 |
 
@@ -86,7 +86,7 @@
 
 | 39. | Hódmezővásárhely | Hódmezővásárhelyi Vagyonkezelő Zrt. | 0 | 0 |
 
-| 40. | Inota | Várpalotai Közüzemi Kft. | 3 120 829 | –61 |
+| 40. | Inota | Várpalotai Közszolgáltató Nonprofit Kft. | 3 120 829 | –61 |
 
 | 41. | Kaposvár | Kaposvári Önkormányzati Vagyonkezelő és Szolgáltató Zrt. | 27 570 621 | 79 |
 
@@ -160,13 +160,13 @@
 
 | 76. | Sárospatak | Patakhő Energiaszolgáltató Nonprofit Kft. | 2 658 273 | –639 |
 
-| 77. | Sárvár | SÁRVÁR TÁVHŐ Kft. | 4 670 583 | –648 |
+| 77. | Sárvár | Sárvári Városgondnokság Nonprofit Kft. | 4 670 583 | –648 |
 
 | 78. | Sátoraljaújhely | Cothec Kft. | 5 622 321 | –1 282 |
 
-| 79. | Siklós | SIKLÓSI TÁVHŐ Nonprofit Kft. | 0 | 0 |
+| 79. | Siklós | SIKLÓS-HŐ Kft. | 0 | 0 |
 
-| 80. | Siófok | Balaton-parti Kft. | 0 | 0 |
+| 80. | Siófok | Termofok-Sió Kft. | 0 | 0 |
 
 | 81. | Sopron | SOPRON Holding Zrt. | 40 677 843 | –1 131 |
 
@@ -206,7 +206,7 @@
 
 | 99. | Vác | Váci Távhő Nonprofit Közhasznú Kft. | 8 432 024 | –328 |
 
-| 100. | Várpalota | Várpalotai Közüzemi Kft. | 16 546 011 | –893 |
+| 100. | Várpalota | Várpalotai Közszolgáltató Nonprofit Kft. | 16 546 011 | –893 |
 
 | 101. | Vasvár | RÉGIÓHŐ Kft. | 0 | 0 |
 
@@ -230,7 +230,7 @@
 
 | 3. | Budapest | ENER-G Energia Technológia Zrt. | Jahn Ferenc Dél-pesti Kórház | 1 553 |
 
-| 4. | Budapest | Kiserőmű (Energiaszolgáltató) Kft. | Fővárosi Önkormányzat Egyesített Szent István és Szent László Kórház – Rendelőintézet | 1 553 |
+| 4. | Budapest | Kiserőmű (Energiaszolgáltató) Kft. | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet | 1 553 |
 
 | 5. | Budapest | MK-MÓR Termelő Kft. | Országos Orvosi Rehabilitációs Intézet | 1 553 |
 
@@ -255,4 +255,4 @@
 | 15. | Szombathely | Dalkia Energia Energiaszolgáltató Zrt. | Vas Megyei Markusovszky Kórház Nonprofit Zrt. | 1 553 |
 
 [^20]: A 10. § az 59/2012. (X. 31.) NFM rendelet 11. §-ával megállapított szöveg.
-[^21]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 7. §-a, a 40/2016. (IX. 30.) NFM rendelet 5. §-a, a 7/2017. (III. 30.) NFM rendelet 4–5. §-a, a 38/2017. (IX. 29.) NFM rendelet 5–6. §-a, az 59/2017. (XII. 29.) NFM rendelet 4. §-a szerint módosított szöveg. [A 68/2016. (XII. 29.) NFM rendelet 4. §-ával elrendelet módosítás nem vezethető át.]
+[^21]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 7. §-a, a 40/2016. (IX. 30.) NFM rendelet 5. §-a, a 7/2017. (III. 30.) NFM rendelet 4–5. §-a, a 38/2017. (IX. 29.) NFM rendelet 5–6. §-a, az 59/2017. (XII. 29.) NFM rendelet 4. §-a, a 8/2018. (III. 28.) NFM rendelet 2. §-a szerint módosított szöveg. [A 68/2016. (XII. 29.) NFM rendelet 4. §-ával elrendelet módosítás nem vezethető át.]
