@@ -1,10 +1,12 @@
-## Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások 2022-ig történő megvalósításához biztosított forráskeret éves felosztása
+## Magyarország rövid és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások
+
+## 2022-ig történő megvalósításához biztosított forráskeret éves felosztása
 
 |  | A | B | C | D | E | F | G | H | I |
 
 | 1. | Az előirányzat megnevezése | A projektek megvalósításához szükséges források éves keretösszege (bruttó, millió Ft) |
 
-| 2. | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | Összesen: |
+| 2. | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | Összesen |
 
 | 3. | IKOP 1. prioritása | 167 913 | 220 474 | 111 071 | 112 029 | 80 876 | 29 390 | 11 551 | 733 304 |
 
@@ -12,11 +14,11 @@
 
 | 5. | Európai Hálózatfinanszírozási Eszköz | 5 675 | 27 130 | 26 370 | 10 073 | 0 | 0 | 0 | 69 248 |
 
-| 6. | Magyarország központi költségvetés hazai forrás | 98 383 | 214 597 | 267 312 | 401 472 | 218 909 | 136 955 | 63 844 | 1 401 472 |
+| 6. | Magyarország központi költségvetés hazai forrás | 98 383 | 214 597 | 267 702 | 402 022 | 219 469 | 136 955 | 63 844 | 1 402 972 |
 
-| 7. | Összesen | 349 661 | 539 177 | 469 625 | 600 820 | 343 893 | 200 558 | 82 355 |  |
+| 7. | Összesen | 349 661 | 539 177 | 470 015 | 601 370 | 344 453 | 200 558 | 82 355 |  |
 
-| 8. | Mindösszesen | 2 586 089 |  |
+| 8. | Mindösszesen | 2 587 589 |  |
 
 2. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz[^7]
 
@@ -256,4 +258,6 @@
 
 | 64. | M3–M35 autópálya, görbeházi csomópont fejlesztése | 2018. II. negyedév | 2020. III. negyedév |
 
-[^7]: A 2. melléklet az 1982/2017. (XII. 19.) Korm. határozat 7. pontjával megállapított, az 1137/2018. (III. 26.) Korm. határozat 9. pontja, az 1153/2018. (III. 27.) Korm. határozat 6. pontja szerint módosított szöveg.
+| 65. | Baja, Jelky tér 51. számú és 55. számú főutak csatlakozásánál körpályás csomópont megvalósítása | 2018. IV. negyedév | 2020. IV. negyedév |
+
+[^7]: A 2. melléklet az 1982/2017. (XII. 19.) Korm. határozat 7. pontjával megállapított, az 1137/2018. (III. 26.) Korm. határozat 9. pontja, az 1153/2018. (III. 27.) Korm. határozat 6. pontja, az 1173/2018. (III. 28.) Korm. határozat 6. pontja szerint módosított szöveg.
