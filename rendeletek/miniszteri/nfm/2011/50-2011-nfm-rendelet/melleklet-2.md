@@ -62,7 +62,7 @@
 
 | 30. | Debrecen | Veolia Energia Magyarország Zrt. | Debreceni Hőszolgáltató Zrt. | 163 921 000 | 2 232 |
 
-| 31. | Dorog | Dorogi Erőmű Kft. | PROMTÁVHŐ Kft. | 13 961 000 | 2 399 |
+| 31. | Dorog | Veolia Energia Magyarország Zrt. | PROMTÁVHŐ Kft. | 13 961 000 | 2 399 |
 
 | 32. | Dunakeszi | DK Gázmotor Kft. | Dunakeszi Közüzemi Nonprofit Kft. | 0 | 2 454 |
 
@@ -76,7 +76,7 @@
 
 | 37. | Érd | Veolia Energia Magyarország Zrt. | Érdhő Kft. | 0 | 3 361 |
 
-| 38. | Esztergom | Dorogi Erőmű Kft. | PROMTÁVHŐ Kft. | 23 090 000 | 2 399 |
+| 38. | Esztergom | Veolia Energia Magyarország Zrt. | PROMTÁVHŐ Kft. | 23 090 000 | 2 399 |
 
 | 39. | Gödöllő | Veolia Energia Magyarország Zrt. | Gödöllői Távhőszolgáltató Kft. | 0 | 2 674 |
 
@@ -144,13 +144,13 @@
 
 | 71. | Sárbogárd | Perkons DHŐ Kft. | Cothec Kft. | 0 | 2 703 |
 
-| 72. | Sárvár | Kiserőmű SRV 2005 Energiaszolgáltató Kft. | SÁRVÁR TÁVHŐ Kft. | 0 | 2 827 |
+| 72. | Sárvár | Kiserőmű SRV 2005 Energiaszolgáltató Kft. | Sárvári Városgondnokság Nonprofit Kft. | 0 | 2 827 |
 
 | 73. | Sátoraljaújhely | Sátoraljaújhely Város Önkormányzat Erzsébet Kórháza | Cothec Kft. | 0 | 2 992 |
 
-| 74. | Siklós | Perkons SKL Kft. | SIKLÓSI TÁVHŐ Nonprofit Kft. | 0 | 2 868 |
+| 74. | Siklós | Perkons SKL Kft. | SIKLÓS-HŐ Kft. | 0 | 2 868 |
 
-| 75. | Siófok | Cothec Kft. | Balaton-parti Kft. | 4 796 000 | 2 120 |
+| 75. | Siófok | Cothec Kft. | Termofok-Sió Kft. | 4 796 000 | 2 120 |
 
 | 76. | Sopron | Veolia Energia Magyarország Zrt. | SOPRON Holding Zrt. | 23 815 000 | 2 176 |
 
@@ -160,7 +160,7 @@
 
 | 79. | Szentlőrinc | Szentlőrinci Geotermia Zrt. | Szentlőrinci Közüzemi Nonprofit Kft. | 0 | 3 654 |
 
-| 80. | Szigetszentmiklós | EXERGY Kft. | ”Aries” Nonprofit Kft. | 0 | 2 857 |
+| 80. | Szigetszentmiklós | SZMK Energia Kft. | ”Aries” Nonprofit Kft. | 0 | 2 857 |
 
 | 81. | Szigetvár | Szigetvári Gyógyfürdő Kft. | Szigetvári Távhő Szolgáltató Nonprofit Kft. | 0 | 1 749 |
 
