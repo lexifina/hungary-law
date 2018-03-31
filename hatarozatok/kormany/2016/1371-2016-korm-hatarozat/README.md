@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1371-30
 | 2017-12-20 | 2016-1371-30-22.7 | 1833/2016. (XII. 23.) Korm. határozat |
 | 2018-03-29 | 2016-1371-30-22.8 | 1833/2016. (XII. 23.) Korm. határozat |
 | 2018-03-30 | 2016-1371-30-22.9 | 1833/2016. (XII. 23.) Korm. határozat |
+| 2018-03-31 | 2016-1371-30-22.10 | 1833/2016. (XII. 23.) Korm. határozat |
