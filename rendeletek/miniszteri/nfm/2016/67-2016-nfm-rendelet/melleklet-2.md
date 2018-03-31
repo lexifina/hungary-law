@@ -12,7 +12,7 @@
 
 | 4. | március | NKM Földgázszolgáltató Zrt. | 1 767 817 610 | 3 094 280 390 | 5,316 |
 
-2. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^14]
+2. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^23]
 
 1. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által a 2. § (1) bekezdése szerint értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége 2018. első negyedévre:
 
@@ -34,4 +34,4 @@
 
 | 2. | NKM Földgázszolgáltató Zrt. | – |
 
-[^14]: A 2. melléklet az 59/2017. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^23]: A 2. melléklet az 59/2017. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.

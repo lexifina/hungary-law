@@ -8,4 +8,7 @@
 
 (5)[^1] A GET 141/A. §-a szerinti forrásfelajánlásból igénylő egyetemes szolgáltató köteles a volt közüzemi nagykereskedőnek és a Magyar Energetikai és Közmű-szabályozási Hivatalnak (a továbbiakban: Hivatal) megküldeni a felajánlásból történő vételezésének tervezett mennyiségeit havi bontásban.
 
+(6)[^2] Az (5) bekezdés szerint igénybe venni tervezett mennyiséget az egyetemes szolgáltató – a volt közüzemi nagykereskedő és a Hivatal egyidejű tájékoztatása mellett – a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló 2017/459 bizottsági rendelet 11. cikke szerinti évente meghirdetett nem-megszakítható szállítói kapacitástermékekre vonatkozó éves kapacitásaukció kezdetét megelőző 15. munkanapig módosíthatja.
+
 [^1]: Az 1. § (5) bekezdését a 23/2017. (VI. 30.) NFM rendelet 1. §-a iktatta be.
+[^2]: Az 1. § (6) bekezdését a 8/2018. (III. 28.) NFM rendelet 3. §-a iktatta be.

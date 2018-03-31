@@ -1,4 +1,4 @@
-3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^15]
+3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^24]
 
 ## A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mértékének meghatározásakor figyelembe vett elismert fajlagos földgázár
 
@@ -158,4 +158,4 @@ PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) *
 
 6.29. naz adott hónap napjainak száma.
 
-[^15]: A 3. melléklet a 38/2017. (IX. 29.) NFM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^24]: A 3. melléklet a 38/2017. (IX. 29.) NFM rendelet 11. § (3) bekezdésével megállapított szöveg.

@@ -6,7 +6,7 @@
 
 | 2. | kiegyenlítő hozzájárulás | 0 forint/kWh |
 
-6. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^17]
+6. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^26]
 
 A GET 141/B. § (15) bekezdés b) pontjában meghatározott engedélyes által fizetendő kapcsolt termelésszerkezet átalakítási hozzájárulás és kiegyenlítő hozzájárulás mértéke 2018. évben
 
@@ -18,4 +18,4 @@ A GET 141/B. § (15) bekezdés b) pontjában meghatározott engedélyes által f
 
 | 3. | kiegyenlítő hozzájárulás (forint/kWh) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-[^17]: A 6. melléklet az 59/2017. (XII. 29.) NFM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^26]: A 6. melléklet az 59/2017. (XII. 29.) NFM rendelet 6. § (4) bekezdésével megállapított szöveg.
