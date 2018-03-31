@@ -1,4 +1,4 @@
-1. melléklet a 70/2016. (XII. 29.) NFM rendelethez[^4]
+1. melléklet a 70/2016. (XII. 29.) NFM rendelethez[^6]
 
 1. Az elismert fajlagos földgázár meghatározása negyedévre (Ft/kWh) (felső hőértéken):
 
@@ -112,4 +112,4 @@ z = 1+CPI/100
 
 5.21. zf: a tárgyidőszaki (rendszeres) árkorrekciós javaslatban figyelembe veendő inflációkövetési tényező.
 
-[^4]: Az 1. melléklet a 38/2017. (IX. 29.) NFM rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^6]: Az 1. melléklet a 38/2017. (IX. 29.) NFM rendelet 16. § (1) bekezdése szerint módosított szöveg.

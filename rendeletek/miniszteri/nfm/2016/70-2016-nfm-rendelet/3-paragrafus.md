@@ -14,7 +14,9 @@ e) a rendszerhasználati díjak közül az elosztás díja,
 
 f) egyetemes szolgáltatói árrés,
 
-g) éves elszámolási elem.
+g) éves elszámolási elem,
+
+h)[^3] téli juttatási elem.
 
 (2) Az egyetemes szolgáltatási árat elosztói területenként és felhasználói kategóriánként az (1) bekezdés a)–g) pontjai szerinti árelemek összegeként kell kiszámítani.
 
@@ -22,6 +24,7 @@ g) éves elszámolási elem.
 
 (4) Az egyes árelemek meghatározásának modell leírását a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) honlapján közzéteszi.
 
-(5)[^2] Az egyes árelemekről az energiapolitikáért felelős miniszter kérésére a Hivatal köteles az e rendelet tárgyi hatálya alá tartozó árszabályozással összefüggő részletes adatokat szolgáltatni.
+(5)[^4] Az egyes árelemekről az energiapolitikáért felelős miniszter kérésére a Hivatal köteles az e rendelet tárgyi hatálya alá tartozó árszabályozással összefüggő részletes adatokat szolgáltatni.
 
-[^2]: A 3. § (5) bekezdését a 38/2017. (IX. 29.) NFM rendelet 15. §-a iktatta be.
+[^3]: A 3. § (1) bekezdés h) pontját a 8/2018. (III. 28.) NFM rendelet 11. §-a iktatta be.
+[^4]: A 3. § (5) bekezdését a 38/2017. (IX. 29.) NFM rendelet 15. §-a iktatta be.
