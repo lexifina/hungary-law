@@ -1,3 +1,3 @@
-## 8. §[^6]
+## 8. § Az R2. a következő 55. §-sal egészül ki:
 
-[^6]: A 8. § a 26. § (3) bekezdése alapján 2018. április 1-jén lép hatályba.
+## „55. § A tankerületi központ 2018. április 30-ig megküldi esélyegyenlőségi intézkedési tervét a 21. § (1) bekezdésben meghatározott szerveknek.”

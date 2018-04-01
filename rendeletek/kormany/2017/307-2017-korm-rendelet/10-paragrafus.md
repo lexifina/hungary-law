@@ -1,9 +1,8 @@
-## 9. §[^7]
+## 9. §[^6]
 
-10. § (1)[^8]
+10. § (1) Hatályát veszti az R2. 1. § (2) bekezdés 6. pontjában az „a feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervet (a továbbiakban együtt: köznevelés-fejlesztési terv),” szövegrész.
 
-(2)[^9]
+(2)[^7]
 
-[^7]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 10. § (1) bekezdése a 26. § (3) bekezdése alapján 2018. április 1-jén lép hatályba.
-[^9]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
