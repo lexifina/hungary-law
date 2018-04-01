@@ -8,7 +8,7 @@ c) a köznevelésben jelentkező pedagógiai problémák vizsgálata, pedagógia
 
 d) a pedagógusok, a köznevelési intézményvezetők ismereteinek megújításához szükséges továbbképzés feltételeinek megteremtése, továbbá a köznevelés állami és önkormányzati irányítási feladataiban közreműködők továbbképzésének segítése,
 
-e) a köznevelés-fejlesztési tervek előkészítéséhez szakmai segítség nyújtása,
+e)
 
 f) működteti az országos pedagógiai-szakmai ellenőrzés rendszerét, gondoskodik az ebben részt vevő szakértők képzéséről és továbbképzéséről, az ellenőrzés általános tapasztalatainak feldolgozásáról és nyilvánosságra hozataláról,
 

@@ -24,7 +24,7 @@ b) nem rendelkezik – az e törvényben foglaltaknak megfelelő – a működé
 
 c) újonnan induló nevelési-oktatási forma esetében a feltételek megteremtésének ütemtervében foglaltak nem megalapozottak, a költségvetésből nem állapítható meg, hogy a feladata ellátásához szükséges költségeket milyen forrásból biztosítják,
 
-d) működése nincs összhangban a köznevelés-fejlesztési tervben foglaltakkal.
+d)
 
 (8) Pedagógiai szakszolgálati intézmény, pedagógiai-szakmai szolgáltatást nyújtó intézmény esetében a köznevelési feladatokat ellátó hatóság az engedély kiadását akkor tagadhatja meg, ha
 
