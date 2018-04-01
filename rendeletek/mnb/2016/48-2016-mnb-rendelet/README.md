@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-48-20-2
 | 2017-01-01 | 2016-48-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-11-24 | 2016-48-20-2C.4 | 31/2017. (XI. 23.) MNB rendelet |
 | 2018-01-01 | 2016-48-20-2C.5 | 31/2017. (XI. 23.) MNB rendelet |
+| 2018-04-01 | 2016-48-20-2C.6 | 9/2018. (III. 23.) MNB rendelet |

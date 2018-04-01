@@ -20,11 +20,11 @@ c) a felhasználó akadályoztatása az általa használt elektronikus aláíró
 
 a) akadályoztatás: az adatszolgáltató érdekkörében felmerült technikai okra visszavezethető olyan ténybeli állapot, amelynek a következtében az adatszolgáltató az adatszolgáltatást az annak teljesítésére előírt határidőben vagy határnapon nem képes teljesíteni;
 
-b)[^3] elektronikus űrlap: az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 2. § 2. pontjában meghatározott elektronikus formában adatszolgáltatásra szolgáló felület;
+b)[^6] elektronikus űrlap: az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 2. § 2. pontjában meghatározott elektronikus formában adatszolgáltatásra szolgáló felület;
 
 c) felhasználó: az adatszolgáltató nevében eljáró természetes személy;
 
-d)[^4] üzemzavar: az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 53. § (2) bekezdése szerinti esemény.
+d)[^7] üzemzavar: az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 53. § (2) bekezdése szerinti esemény.
 
-[^3]: A 11. § (7) bekezdés b) pontja a 31/2017. (XI. 23.) MNB rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^4]: A 11. § (7) bekezdés d) pontja a 31/2017. (XI. 23.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A 11. § (7) bekezdés b) pontja a 31/2017. (XI. 23.) MNB rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 11. § (7) bekezdés d) pontja a 31/2017. (XI. 23.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.

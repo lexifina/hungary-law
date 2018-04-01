@@ -330,6 +330,6 @@
 
 ## Amennyiben a biztosító a szükséges adatok hiánya miatt az aktuáriusi jelentésben szereplő bármelyik értéket közelítő eljárás alkalmazásával határozta meg, a szöveges jelentésben részletezni kell a hiányzó adatok körét, az adathiány megszüntetésére tett intézkedéseket és az alkalmazott közelítő eljárást.
 
-6. melléklet a 48/2016. (XII. 12.) MNB rendelethez[^12]
+6. melléklet a 48/2016. (XII. 12.) MNB rendelethez[^18]
 
-[^12]: A 6. melléklet a 31/2017. (XI. 23.) MNB rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^18]: A 6. melléklet a 31/2017. (XI. 23.) MNB rendelet 4. § (4) bekezdésével megállapított, a 9/2018. (III. 23.) MNB rendelet 1. § (2) bekezdése szerint módosított szöveg.
