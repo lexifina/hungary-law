@@ -1,3 +1,5 @@
-## 1. §[^1]
+## 1. § A belföldön nem letelepedett adóalanyokat a Magyar Köztársaságban megillető általánosforgalmiadó-visszatéríttetési jognak, valamint a belföldön letelepedett adóalanyokat az Európai Közösség más tagállamában megillető hozzáadottértékadó-visszatéríttetési jognak érvényesítésével kapcsolatos egyes rendelkezésekről szóló 32/2009. (XII. 21.) PM rendelet (a továbbiakban: R1.) 4. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. § a 25. § (4) bekezdése alapján 2018. április 1-jén lép hatályba.
+## (A Közösség más tagállamában letelepedett adóalany [Áfa tv. 244. § (2) bekezdés a) pontja] adó-visszatéríttetési kérelmének adattartalma a következő:)
+
+## „c) annak (azoknak) a gazdasági (üzleti) tevékenység(ek)nek a hozzáadottérték-adó területén történő közigazgatási együttműködésről és csalás elleni küzdelemről szóló, 2010. október 7-i 904/2010/EU tanácsi rendelet 48. cikk (3) bekezdés második albekezdésének megfelelően meghatározott harmonizált kódok szerinti leírása, amely(ek)hez a Közösség más tagállamában letelepedett adóalany a belföldön beszerzett, importált terméket, illetőleg az itt igénybe vett szolgáltatást – az Áfa tv. 247. § értelmében – használja, egyéb módon hasznosítja;”
