@@ -1,4 +1,4 @@
-## 3/A. §[^2] A Hivatal az e rendeletben rögzített feladatai ellátása során figyelembe veszi és felhasználja az Integrált Közcélú Víziközmű Adatbázis adatait.
+## 3/A. §[^2]
 
 4. §[^3] (1) A Hivatal a Nemzeti Víziközmű Nyilvántartás tárgyév január 1-jén aktuális adatait megküldi a miniszter részére minden év január 31-ig.
 
@@ -6,5 +6,5 @@
 
 (3) A miniszter részére történő (2) bekezdés szerinti adatszolgáltatást a Hivatal az Országos Közhiteles Víziközmű Kataszterrel kialakított, a Hivatal által a Nemzeti Víziközmű Nyilvántartás adatbázisának formátumához igazított adatkapcsolaton keresztül biztosítja.
 
-[^2]: A 3/A §-t a 37/2017. (IX. 29.) NFM rendelet 2. §-a iktatta be.
+[^2]: A 3/A. §-t a 37/2017. (IX. 29.) NFM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 47/2017. (XII. 20.) NFM rendelet 3. §-a.
 [^3]: A 4. § a 47/2017. (XII. 20.) NFM rendelet 1. §-ával megállapított szöveg.
