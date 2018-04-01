@@ -1,6 +1,5 @@
-1. § (1)–(2)[^1]
+1. § (1)–(2)[^2]
 
-(3)[^2]
+(3) A Vksztv. Vhr. a következő 54. §-sal egészül ki:
 
-[^1]: Az 1. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. § (3) bekezdése a 2. § (2) bekezdése alapján 2018. április 1-jén lép hatályba.
+[^2]: Az 1. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
