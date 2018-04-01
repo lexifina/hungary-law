@@ -72,7 +72,7 @@ e) azon közérdekű célú beruházás, amelynek megvalósítása érdekében a
 
 29. Régészeti érdekű terület: valamennyi terület, természetes vagy mesterséges üreg és a vízmedrek azon része, amelyen, illetve amelyben régészeti lelőhely előkerülése várható vagy feltételezhető.
 
-29a. Régészeti feladatellátás: A földmunkával járó beavatkozás, fejlesztés, beruházás esetén feltárásra jogosult által végzett lelőhely-felderítés és megelőző jellegű örökségvédelmi tevékenység, melynek szaktevékenységi része a feltárásvezetés, a feltárás dokumentálása, a régésztechnikusi feladatellátás, a leletek elsődleges feldolgozása, valamint a geodéziai és térinformatikai feladatok ellátása. Járulékos része a régészeti bontómunka.
+29a. Régészeti feladatellátás: A földmunkával járó beavatkozás, fejlesztés, beruházás esetén feltárásra jogosult által végzett lelőhely-felderítés és megelőző jellegű, közfeladatként állami vagy önkormányzati fenntartású intézmény által végzett örökségvédelmi tevékenység, melynek szaktevékenységi része a feltárásvezetés, a feltárás dokumentálása, a régésztechnikusi feladatellátás, a leletek elsődleges feldolgozása. Járulékos része a régészeti bontómunka.
 
 30. Régészeti feltárás: tudományos módszerrel végzett tevékenység (régészeti megfigyelés, terepbejárás, próbafeltárás, megelőző feltárás, mentő feltárás, tervásatás, műszeres lelet- és lelőhely-felderítés, beleértve a fémkereső műszer használatát), amelynek célja a régészeti örökség elemeinek felkutatása.
 

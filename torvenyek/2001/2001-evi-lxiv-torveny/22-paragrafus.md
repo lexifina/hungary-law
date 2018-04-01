@@ -2,11 +2,11 @@
 
 22. § (1) A nyilvántartott régészeti lelőhelynek a beruházással kapcsolatos földmunkával érintett részén megelőző régészeti feltárást kell végezni.
 
-(2) A földmunkával járó beruházások előkészítése során előzetes régészeti dokumentáció készíthető, különösen a földterület-kiválasztáshoz és nyomvonal-kijelöléshez. Nem nagyberuházás esetén a beruházó az előzetes régészeti dokumentáció készítésével feltárásra jogosult intézményt bízhat meg.
+(2) A földmunkával járó beruházások előkészítése során a földterület-kiválasztáshoz és nyomvonal-kijelöléshez a beruházó előzetes régészeti dokumentációt készíttethet.
 
-(2a) A földmunkával járó, nagyberuházásnak nem minősülő, új nyomvonalú, külterületi közútépítések előkészítése során a beruházó a régészeti érintettség felderítése érdekében a feltárásra jogosult intézménnyel előzetes régészeti dokumentációt köteles készíttetni a kerékpárút kivételével.
+(2a) A földmunkával járó, nagyberuházásnak nem minősülő, új nyomvonalú, külterületi közútépítések előkészítése során – a kerékpárút kivételével – a beruházó köteles a régészeti érintettség felderítése érdekében előzetes régészeti dokumentációt készíttetni.
 
-(2b) A nagyberuházásnak nem minősülő, földmunkával járó beruházások előkészítése során az előzetes régészeti dokumentáció tartalmi elemeire a 23/C. § (2) és (5) bekezdésében, valamint a 23/D. § (1) és (2) bekezdésében foglaltakat kell alkalmazni.
+(2b) A (2) és (2a) bekezdés szerinti előzetes régészeti dokumentáció készítésére a 23/C. és 23/D. §-ban foglaltak alkalmazásával a jogszabályban kijelölt örökségvédelmi szerv jogosult.
 
 (3) A nyilvántartási adatok és – ha rendelkezésre áll – az előzetes régészeti dokumentáció adatai, valamint a beruházás régészeti örökségre gyakorolt hatása alapján a védettségi fokozat figyelembevételével a hatóság – jogszabályban meghatározottak szerint – a megelőző feltárás keretében
 
@@ -56,7 +56,9 @@ bc) a beruházással érintett terület túllépi a területi múzeum gyűjtőte
 
 (7) Az (5) bekezdés b) pont bb)–bc) alpontja esetében a megelőző feltárás elvégzésébe a területi múzeumot kapacitása erejéig kötelezően be kell vonni.
 
-(8) Régészeti feladatellátás jogszabályban meghatározottak szerinti elvégzésébe más feltárásra jogosult intézmény és – kizárólag alvállalkozóként – jogszabályban meghatározott eljárás szerint akkreditált, feltárásra nem jogosult szervezet (a továbbiakban: akkreditált szervezet) vonható be.
+(8) A régészeti feladatellátás szaktevékenységi részének jogszabályban meghatározottak szerinti elvégzésébe kapacitáshiány esetén kizárólag más, a 20. § (4) bekezdés szerinti feltárásra jogosult intézmény vonható be. A bevont feltárásra jogosult intézmény további régészeti szaktevékenységet ellátó közreműködőt nem vehet igénybe.
+
+(8a) A régészeti feladatellátás járulékos részéhez a megelőző feltárást végző múzeum biztosítja a szükséges régészeti bontómunkát. A régészeti bontómunkába gazdasági társaság bevonható.
 
 (9) A megelőző feltárás költségei magukba foglalják a régészeti feltárás terepi munkavégzésén túl – beleértve a feltárás munkafeltételei biztosítását is – a jogszabályban meghatározott tartalmú dokumentálás és az elsődleges leletfeldolgozás költségeit. A feltárást végző intézmény köteles a tényleges felhasználásról jogszabályban meghatározott módon elszámolni.
 

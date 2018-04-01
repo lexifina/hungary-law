@@ -22,7 +22,7 @@
 
 10. meghatározza a régészeti feltárásra vonatkozó szerződésre irányuló múzeumi ajánlattétel adattartalmát, a régészeti feltárásra irányuló szerződés kötelező elemeit, valamint a megelőző feltárás módszerei alkalmazásának eseteit és szabályait;
 
-11. szabályozza a nagyberuházásokkal kapcsolatos régészeti feladatellátás szabályait, a nagyberuházás régészeti szakaszolásának szempontjait, a nagyberuházás kivitelezése során ellátandó régészeti megfigyelés és az elfedés szabályait, valamint a 19. § (4) bekezdése szerinti hatósági ár képzésének szabályait, az alkalmazható legmagasabb ár mértékét, továbbá a régészeti feladatellátással összefüggő költségtételek figyelembevételének részletes szabályait, a feltárás végzésére jogosult intézmények és a feltárásban alvállalkozóként részt vevő szervezetek akkreditálásának szabályait és eljárásrendjét, továbbá a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás régészeti megfigyelése vonatkozásában a 23/G. § (7) és (8) bekezdése szerinti értesítés és miniszteri döntés részletes szabályait;
+11. meghatározza a nagyberuházásokkal kapcsolatos régészeti feladatellátás részletes szabályait, a nagyberuházás régészeti szakaszolásának szempontjait, a nagyberuházás kivitelezése során ellátandó régészeti megfigyelés és az elfedés szabályait, valamint a 19. § (4) bekezdése szerinti hatósági ár képzésének szabályait, az alkalmazható legmagasabb ár mértékét, továbbá a régészeti feladatellátással összefüggő költségtételek figyelembevételének részletes szabályait, valamint a régészeti megfigyelés során előkerülő régészeti lelőhelyek feltárási módjáról és feltételeiről szóló miniszter döntés részletes szabályait;
 
 12. meghatározza a régészeti feltárásra vonatkozó jogszabályi vagy a feltárási engedélyben foglalt előírások megszegése esetén alkalmazandó jogkövetkezmények szabályait;
 
@@ -60,7 +60,9 @@ c) a kiemelt nemzeti emlékhelyre és annak településkép-védelmi környezet�
 
 d) a kiemelt nemzeti emlékhelyen és annak településkép-védelmi környezetében a közterületen és a közterületről látható magánterületen elhelyezhető reklámok megengedett méreteit, a reklámközzététel megengedett technológiáit, módszereit, eszközeit, a reklámhordozók általános formai követelményeit, valamint
 
-e) a kiemelt nemzeti emlékhelyen és a településkép-védelmi környezetében található ingatlan e törvényben, illetve az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározott követelmények szerinti helyreállítását, felújítását és átalakítását szolgáló támogatási és ösztönző rendszer részletes szabályait, a támogatás feltételrendszerét és módját.
+e) a kiemelt nemzeti emlékhelyen és a településkép-védelmi környezetében található ingatlan e törvényben, illetve az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározott követelmények szerinti helyreállítását, felújítását és átalakítását szolgáló támogatási és ösztönző rendszer részletes szabályait, a támogatás feltételrendszerét és módját,
+
+f) a Kiemelt Nemzeti Emlékhely Bizottságnak a nemzeti jelképek kiemelt nemzeti emlékhelyen történő használatával kapcsolatos egyes feladatait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
@@ -108,6 +110,4 @@ g) a miniszterrel egyetértésben az elsődleges leletfeldolgozásra, a leletany
 
 h) meghatározza a műemléktől elvált vagy elválasztani engedélyezett alkotórészek, tartozékok, berendezési tárgyak közgyűjteményi elhelyezésének, nyilvántartásának, védelmének szabályait.
 
-(7) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben rendeletben megállapítsa:
-
-a)–b)
+(7) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben, rendeletben megállapítsa az egyes hadtörténeti örökségi helyszínek védetté nyilvánítását és a védettség megszüntetését.

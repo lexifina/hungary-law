@@ -94,7 +94,9 @@ forgalmi érték
 
 |
 
-legalább 100 000 Ft
+legalább
+
+1 000 000 Ft
 
 |
 
@@ -118,7 +120,9 @@ forgalmi érték
 
 |
 
-legalább 50 000 Ft
+legalább
+
+300 000 Ft
 
 |
 
@@ -142,7 +146,9 @@ forgalmi érték
 
 |
 
-legalább 50 000 Ft
+legalább
+
+300 000 Ft
 
 |
 
@@ -150,7 +156,7 @@ legalább 50 000 Ft
 
 |
 
-Eredeti metszetek, nyomatok, szita- és kőnyomatok a hozzájuk tartozó nyomólemezekkel, valamint eredeti plakátok, amelyek nincsenek alkotójuk tulajdonában.
+Eredeti metszetek, nyomatok, szita-és kőnyomatok a hozzájuk tartozó nyomólemezekkel, valamint eredeti plakátok, amelyek nincsenek alkotójuk tulajdonában.
 
 |
 
@@ -166,7 +172,9 @@ forgalmi érték
 
 |
 
-legalább 50 000 Ft
+legalább
+
+300 000 Ft
 
 |
 
@@ -190,7 +198,9 @@ forgalmi érték
 
 |
 
-legalább 100 000 Ft
+legalább
+
+500 000 Ft
 
 |
 
@@ -214,7 +224,9 @@ forgalmi érték
 
 |
 
-legalább 50 000 Ft
+legalább
+
+300 000 Ft
 
 |
 
@@ -254,7 +266,7 @@ kor
 
 |
 
-100 év
+1800 előtt
 
 |
 
@@ -262,7 +274,9 @@ forgalmi érték
 
 |
 
-legalább 100 000 Ft
+legalább
+
+300 000 Ft
 
 |
 
@@ -286,7 +300,9 @@ forgalmi érték
 
 |
 
-legalább 50 000 Ft
+legalább
+
+300 000 Ft
 
 |
 
@@ -336,7 +352,9 @@ forgalmi érték
 
 |
 
-legalább 100 000 Ft
+legalább
+
+500 000 Ft
 
 |
 
@@ -360,7 +378,9 @@ forgalmi érték
 
 |
 
-legalább 100 000 Ft
+legalább
+
+500 000 Ft
 
 |
 
@@ -412,4 +432,6 @@ forgalmi érték
 
 |
 
-legalább 100 000 Ft
+legalább
+
+300 000 Ft

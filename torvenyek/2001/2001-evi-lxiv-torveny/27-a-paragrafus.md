@@ -6,4 +6,4 @@
 
 (3) Ha a feltáró intézmény a feltárási dokumentáció benyújtására és az elsődleges leletfeldolgozásra irányuló kötelezettségének jogszabályban meghatározott határidőig nem tesz eleget, a hatóság örökségvédelmi bírsággal sújtja, valamint kötelezettségének teljesítéséig további feltárási engedélyt nem kaphat, feltárást nem végezhet, feltárásban nem működhet közre.
 
-(4) A (3) bekezdésben foglalt mulasztás akkreditált intézmény esetén az akkreditáció elvesztésével jár.
+(4)

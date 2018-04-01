@@ -14,7 +14,7 @@ b) védetté nyilvánított kulturális javak ellenérték mellett történő tu
 
 a) ingatlanok esetében a kormányrendeletben kijelölt örökségvédelmi szerv,
 
-b) a védetté nyilvánított kulturális javak tekintetében a kulturális javakért való felelőssége körében a kormányrendeletben kijelölt örökségvédelmi szerv, továbbá – kormányrendeletben meghatározottak szerint – a kultúráért felelős miniszter
+b) védetté nyilvánított kulturális javak tekintetében a kormányrendeletben kijelölt szerv
 
 gyakorolja.
 

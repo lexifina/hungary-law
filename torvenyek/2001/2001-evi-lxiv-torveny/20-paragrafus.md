@@ -30,4 +30,6 @@ f) a Magyar Tudományos Akadémia Bölcsészettudományi Kutatóközpont Régés
 
 g) a jogszabályban kijelölt örökségvédelmi szerv.
 
+(4a) A jogszabályban kijelölt örökségvédelmi szerv feltárási jogosultsága az előzetes régészeti dokumentáció készítéséhez kapcsolódó régészeti feladatellátásra, a jogszabályban kijelölt örökségvédelmi szerv saját vagyonkezelésében lévő ingatlanon megvalósuló régészeti feltárásra, valamint tervásatás végzésére terjed ki.
+
 (5) A jogszabályi vagy a feltárási engedélyben foglalt előírások megszegése esetén a hatóság – jogszabályban meghatározottak szerint – a feltárást leállítja vagy a régészeti feltárásra vonatkozó engedélyt visszavonja, jogszabályban meghatározott esetekben örökségvédelmi bírság kiszabásáról rendelkezik.

@@ -8,4 +8,4 @@
 
 (4) A feltárási projekttervet a jogszabályban kijelölt örökségvédelmi szerv a beruházó részére megküldi. A beruházó a feltárási projekttervet véleményezheti, módosítását, kiegészítését javasolhatja. A véleményt figyelembe kell venni, ha az műszaki és pénzügyi szempontból a régészeti feladatellátást akadályozó tényeken alapul.
 
-(5) A beruházó által elfogadott projekttervet a jogszabályban kijelölt örökségvédelmi szerv megküldi a projekttervben szereplő, a régészeti feladatellátás elvégzésére megjelölt intézménynek.
+(5) A beruházó által elfogadott projekttervet a jogszabályban kijelölt örökségvédelmi szerv megküldi a projekttervben szereplő, a régészeti feladatellátás elvégzésére megjelölt intézménynek, valamint a Magyar Nemzeti Múzeumnak.

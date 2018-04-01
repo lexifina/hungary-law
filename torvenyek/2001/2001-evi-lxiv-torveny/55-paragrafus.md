@@ -13,3 +13,5 @@ b) a kivitellel érintett tárgyra nem vonatkozik állami garanciavállalás, bi
 c) külön jogszabályban meghatározott tárgyak esetén a kultúráért felelős miniszter a külföldi kölcsönzéshez nem adja hozzájárulását.
 
 (4) Az ideiglenes kiviteli engedély határozott időre, legfeljebb a kivitellel érintett tárgyra vonatkozó állami garancia, biztosítási szerződés vagy ezeknek megfelelő egyéb kötelezettségvállalás időtartamára adható.
+
+(5) Az e törvény alapján védett kulturális javakra vonatkozó, az Európai Unió tagállamaiba történő kivitele esetén a kulturális javak kiviteléről szóló 116/2009/EK rendelet céljából a Bizottság 1081/2012/EU végrehajtási rendelete 13. cikke alapján kiállított általános nyílt engedély az (1) bekezdésben meghatározott ideiglenes kiviteli engedélynek minősül.

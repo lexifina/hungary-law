@@ -8,11 +8,13 @@ b) a régészeti feltárási engedélyek és a feltárási dokumentációk,
 
 c) a védetté nyilvánított régészeti lelőhelyek,
 
-d) a műemléki értékek, a műemlékek, a műemléki jelentőségű területek, a műemléki környezetek és a történeti tájak,
+d) a nyilvántartott műemléki értékek, a műemlékek, a műemléki jelentőségű területek, a műemléki környezetek és a történeti tájak,
 
 e) a világörökségi és a világörökségi várományos helyszínek és területek
 
 központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban meghatározottakkal összefüggő adatokat.
+
+(1a) A 71. § (1) bekezdés a), c)–e) pontok szerinti nyilvántartáshoz szükséges állami ingatlan-nyilvántartási térképi adatbázis adatait, a Mezőgazdasági Parcella Azonosító Rendszernek a 71. § (1) bekezdés a), c)–e) pontok szerinti nyilvántartáshoz szükséges adattartalmú felszínborítási rétegét, a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóit, valamint az ország 1:10000 digitális szintvonalrajzát és domborzatmodelljét (DDM-5), a földmérési és térinformatikai államigazgatási szerv térítésmentesen biztosítja.
 
 (2) A hatóság központi nyilvántartást vezet
 
