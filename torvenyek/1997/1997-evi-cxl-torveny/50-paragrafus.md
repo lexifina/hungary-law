@@ -10,7 +10,7 @@ a) meghatározza és jóváhagyja a muzeális intézmény éves és középtáv�
 
 b) költségvetési szervként működő muzeális intézmény esetén kiadja annak alapító okiratát, jóváhagyja szervezeti és működési szabályzatát,
 
-c) biztosítja a muzeális intézmény működési engedélyében meghatározott szakmai besorolása szerinti feladatai ellátásához szükséges személyi és infrastrukturális feltételeket,
+c) biztosítja a muzeális intézmény működési engedélyében meghatározott szakmai besorolása szerinti feladatai, valamint a kulturális örökség védelméről szóló törvényben meghatározott feladatai ellátásához szükséges személyi és infrastrukturális feltételeket,
 
 d) ellátja a muzeális intézmény fenntartásával, irányításával kapcsolatos, jogszabályokban meghatározott feladatokat,
 

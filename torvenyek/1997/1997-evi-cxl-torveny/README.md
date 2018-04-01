@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-140-00-00
 | 2017-07-08 | 2017. évi LXVII. törvény | 1997-140-00-00.47 |
 | 2018-01-01 | 2017. évi CLXXX. törvény | 1997-140-00-00.48 |
 | 2018-01-02 | 2017. évi CLXXX. törvény | 1997-140-00-00.49 |
+| 2018-04-01 | 2017. évi CLXXXI. törvény | 1997-140-00-00.50 |
