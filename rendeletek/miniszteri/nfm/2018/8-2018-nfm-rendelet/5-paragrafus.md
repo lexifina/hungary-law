@@ -1,3 +1,0 @@
-## 4. § Az R1. 2. §-a a következő (6) bekezdéssel egészül ki:
-
-## „(6) Az (5) bekezdés szerint igénybe venni tervezett mennyiséget az egyetemes szolgáltató – a volt közüzemi nagykereskedő és a Hivatal egyidejű tájékoztatása mellett – a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló 2017/459 bizottsági rendelet 11. cikke szerinti évente meghirdetett nem-megszakítható szállítói kapacitástermékekre vonatkozó éves kapacitásaukció kezdetét megelőző 15. munkanapig módosíthatja.”
