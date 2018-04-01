@@ -54,7 +54,7 @@ f) az ellátásért felelősnek.
 [^75]: A 18. § (2) bekezdés b) pontja a 292/2014. (XI. 26.) Korm. rendelet 38. § (3) bekezdés 1. pontja szerint módosított szöveg.
 [^76]: A 18. § (2) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja szerint módosított szöveg.
 [^77]: A 18. § (3) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^78]: A 18. § (4) bekezdést a 457/2017. (XII. 28.) Korm. rendelet 438. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^78]: A 18. § (4) bekezdés a 457/2017. (XII. 28.) Korm. rendelet 438. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^79]: A 18. § (5) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^80]: A 18. § (7) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^81]: A 18. § (9) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

@@ -1,5 +1,3 @@
-## 54. §[^128]
-
 ## VI. Fejezet[^129]
 
 ## A közszolgáltatási SZERZŐDÉS RÉSZLETES SZABÁLYAI
@@ -58,7 +56,6 @@ a) nyilatkozatának beszerzéséhez vagy
 
 b) eljárása lefolytatásához
 
-[^128]: Az 54. § a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 5. pontja alapján hatályát vesztette.
 [^129]: A VI. fejezet címe az 53/2014. (III. 3.) Korm. rendelet 39. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^130]: A 16. alcím címe a 292/2014. (XI. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^131]: Az 55. § a 292/2014. (XI. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
