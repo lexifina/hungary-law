@@ -1,3 +1,3 @@
-## 18–25. §[^8]
+## 18–25. §[^9]
 
-[^8]: A 18–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 18–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
