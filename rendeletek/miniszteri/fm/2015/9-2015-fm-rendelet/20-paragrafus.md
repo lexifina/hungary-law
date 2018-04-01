@@ -18,9 +18,9 @@ b) a betakarítást követő két héten belüli értékesítés esetén a szám
 
 ## igazolja.
 
-(3)[^121] A (2) bekezdés szerinti dokumentumok másolatát a mezőgazdasági termelő köteles a betakarítást követő két héten belül, de legkésőbb tárgyév november 15-éig a Kincstár részére megküldeni. A (2) bekezdés szerinti dokumentumok benyújtásának elmulasztása esetén a Kincstár – ötnapos határidő tűzése mellett – felszólítja a mezőgazdasági termelőt azok hiánytalan benyújtására.
+(3)[^121]
 
 [^118]: A 20. § (1) bekezdés c) pontja a 72/2016. (XI. 3.) FM rendelet 6. § j) pontja szerint módosított szöveg.
 [^119]: A 20. § (1) bekezdés d) pontja az 55/2017. (XI. 6.) FM rendelet 23. § (1) bekezdésével megállapított szöveg.
 [^120]: A 20. § (2) bekezdése a 97/2015. (XII. 23.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^121]: A 20. § (3) bekezdése az 55/2017. (XI. 6.) FM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^121]: A 20. § (3) bekezdését az 55/2017. (XI. 6.) FM rendelet 26. §-a hatályon kívül helyezte.
