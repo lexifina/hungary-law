@@ -1,4 +1,4 @@
-## Az 1. § szerinti földgázforrás ára és mennyisége 2018. első negyedévre, valamint a felek köre
+## Az 1. § szerinti földgázforrás ára és mennyisége 2018. második negyedévre, valamint a felek köre
 
 ## A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége:
 
@@ -6,25 +6,25 @@
 
 | 1. | hónap | szerződött egyetemes szolgáltató | nem földgáztárolóból származó földgázforrás mennyisége (kWh) | földgáztárolóból származó földgázforrás mennyisége (kWh) | földgázforrás ára (forint/kWh) |
 
-| 2. | január | NKM Földgázszolgáltató Zrt. | 2 613 984 524 | 4 575 359 476 | 5,316 |
+| 2. | április | NKM Földgázszolgáltató Zrt. | 2 515 568 000 | 0 | 5,013 |
 
-| 3. | február | NKM Földgázszolgáltató Zrt. | 2 309 821 673 | 4 042 971 327 | 5,316 |
+| 3. | május | NKM Földgázszolgáltató Zrt. | 1 037 800 000 | 0 | 5,013 |
 
-| 4. | március | NKM Földgázszolgáltató Zrt. | 1 767 817 610 | 3 094 280 390 | 5,316 |
+| 4. | június | NKM Földgázszolgáltató Zrt. | 582 000 000 | 0 | 5,013 |
 
 2. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^23]
 
-1. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által a 2. § (1) bekezdése szerint értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége 2018. első negyedévre:
+1. A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által a 2. § (1) bekezdése szerint értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége 2018. második negyedévre:
 
 |  | A | B | C | D |
 
 | 1. | hónap | szerződött egyetemes szolgáltató | földgázforrás mennyisége (kWh) | földgázforrás mennyiségarányos díja (forint/kWh) |
 
-| 2. | január | NKM Földgázszolgáltató Zrt. | 0 | – |
+| 2. | április | NKM Földgázszolgáltató Zrt. | 0 | – |
 
-| 3. | február | NKM Földgázszolgáltató Zrt. | 0 | – |
+| 3. | május | NKM Földgázszolgáltató Zrt. | 0 | – |
 
-| 4. | március | NKM Földgázszolgáltató Zrt. | 0 | – |
+| 4. | június | NKM Földgázszolgáltató Zrt. | 0 | – |
 
 2. A 2. § szerinti földgázforrás átvételéhez kapcsolódóan felmerülő nem mennyiségarányos szállítási és tárolási költségek:
 
@@ -34,4 +34,4 @@
 
 | 2. | NKM Földgázszolgáltató Zrt. | – |
 
-[^23]: A 2. melléklet az 59/2017. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^23]: A 2. melléklet a 8/2018. (III. 28.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.
