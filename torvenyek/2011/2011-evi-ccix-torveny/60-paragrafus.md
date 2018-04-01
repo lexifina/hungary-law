@@ -4,4 +4,4 @@
 
 (3) A Hivatal adatkezelésére a villamos energiáról szóló törvényben a Hivatal adatkezelésére vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(4) A Hivatal adatbekérése megvalósulhat az általa külön e célra működtetett, a helyszínre vagy a hatósági nyilvántartáshoz telepített, illetve a folyamatba beépített ellenőrző rendszerből történő táv-adatszolgáltatás útján is.
+(4) A Hivatal az e törvényben rögzített feladatai ellátása során figyelembe veszi és felhasználja az IKVA Adatbázis adatait.

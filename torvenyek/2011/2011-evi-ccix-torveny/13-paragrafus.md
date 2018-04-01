@@ -14,6 +14,12 @@ b) az adatközlés díját megtérítette.
 
 (4) A víziközmű tulajdonosának – a tulajdonában álló víziközmű tekintetében – a víziközmű térképi nyilvántartás adataihoz való hozzáférését korlátozás- és díjmentesen kell biztosítani.
 
-(5) A víziközmű-szolgáltató a bíróság, az ügyészség, az ellátott területen működő települési önkormányzat és az illetékes közigazgatási hatóságok részére a víziközművel kapcsolatos hatósági feladataik ellátásához, az ahhoz szükséges mértékben, díjmentesen biztosítja a víziközmű térképi nyilvántartás tartalmának megismerését.
+(5) A víziközmű-szolgáltató
+
+a) a víziközművel kapcsolatos hatósági feladataik ellátásához, a bíróság, az ügyészség, az ellátott területen működő települési önkormányzat és az illetékes közigazgatási hatóságok részére, továbbá
+
+b) üzemeltetői feladatai ellátásához, az ahhoz szükséges mértékben az Integrált Közcélú Víziközmű Adatbázis (a továbbiakban: IKVA Adatbázis) üzemeltetője részére
+
+díjmentesen biztosítja az e törvény végrehajtására kiadott kormányrendeletben meghatározott víziközmű térképi nyilvántartás tartalmának megismerését.
 
 (6) A víziközmű-szolgáltató díjmentesen szolgáltatja az egységes elektronikus közműnyilvántartást üzemeltető szervezet részére a vízellátási, illetve vízelvezetési szakág feladatkörébe tartozó publikálandó objektumokat.
