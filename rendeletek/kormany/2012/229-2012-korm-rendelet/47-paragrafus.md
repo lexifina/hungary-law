@@ -1,10 +1,10 @@
-## 46. §[^195]
+## 46. §[^181]
 
-47. § (1)[^196]
+47. § (1)[^182]
 
-(2)[^197] A 33. § (1) bekezdés b) pontjának bd) alpontja szerinti egyéb foglalkozás alatt a 2012/2013-as tanévben a napközis és tanulószobai foglalkozások megszervezését is érteni kell.
+(2)[^183] A 33. § (1) bekezdés b) pontjának bd) alpontja szerinti egyéb foglalkozás alatt a 2012/2013-as tanévben a napközis és tanulószobai foglalkozások megszervezését is érteni kell.
 
-(3)[^198] Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 35. § (2) bekezdésében meghatározott feladat megvalósítása érdekében a nem állami köznevelési intézmény fenntartója köznevelési intézményenként, ezen belül foglalkoztatottanként a köznevelési alapfeladatban közreműködő foglalkoztatottakról, köznevelési alapfeladatonkénti bontásban 2013. március 20-ig közli a KIR honlapján keresztül
+(3)[^184] Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 35. § (2) bekezdésében meghatározott feladat megvalósítása érdekében a nem állami köznevelési intézmény fenntartója köznevelési intézményenként, ezen belül foglalkoztatottanként a köznevelési alapfeladatban közreműködő foglalkoztatottakról, köznevelési alapfeladatonkénti bontásban 2013. március 20-ig közli a KIR honlapján keresztül
 
 a) a nevelő-oktató munkát közvetlenül segítő alkalmazottak, a pedagógusok, pedagógiai előadók, pedagógiai szakértők 2013. január havi illetményét, munkabérét és ezek járulékait, továbbá a munkavégzéshez kapcsolódó személyi jellegű rendszeres vagy jogszabály által előírt kötelező egyéb kifizetést,
 
@@ -22,7 +22,7 @@ g) a tartós távollét végét,
 
 h) azt a jellemző köznevelési alapfeladatot, amelyben az alkalmazott közreműködik.
 
-[^195]: A 46. §-t a 307/2017. (X. 27.) Korm. rendelet 10. § (2) bekezdése hatályon kívül helyezte.
-[^196]: A 47. § (1) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 202. § (3) bekezdése hatályon kívül helyezte.
-[^197]: A 47. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^198]: A 47. § (3) bekezdése a 73/2013. (III. 8.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^181]: A 46. §-t a 307/2017. (X. 27.) Korm. rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^182]: A 47. § (1) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 202. § (3) bekezdése hatályon kívül helyezte.
+[^183]: A 47. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^184]: A 47. § (3) bekezdése a 73/2013. (III. 8.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.

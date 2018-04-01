@@ -1,4 +1,4 @@
-## V. Fejezet[^184]
+## V. Fejezet[^170]
 
 ## A KÖZNEVELÉSI HATÓSÁGI ELJÁRÁSOK KIEGÉSZÍTŐ ELJÁRÁSI SZABÁLYAI
 
@@ -14,4 +14,4 @@
 
 (5) Új iskola indítása esetén, valamint – a fenntartói jog átadása kivételével – az Nkt. 84. § (7) bekezdése szerinti esetekben a tervezett indítás vagy a megszüntetés, az átszervezés évének május utolsó munkanapjáig, fenntartói jog átadása esetén június 20-ig nyújthatja be a fenntartó a megyeszékhely szerinti járási hivatalhoz az intézmény működésének megkezdéséhez szükséges engedély iránti kérelmet. A kérelem benyújtására meghatározott határidő elmulasztása jogvesztő.
 
-[^184]: Az V. fejezetet (39–42. §) újonnan a 457/2017. (XII. 28.) Korm. rendelet 401. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^170]: Az V. fejezetet (39–42. §) újonnan a 457/2017. (XII. 28.) Korm. rendelet 401. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,6 +1,6 @@
-37/E. § (1)[^131] A kincstár a 37/C. § (1) bekezdése és 37/D. § (1) bekezdése szerinti kérelem adatairól a tárgyév május 15-éig fenntartó típusonkénti bontásban, egyházi jogi személyek esetében bevett egyházanként összesítve, országos, fővárosi, megyei összesítésben, kormányzati funkció szerinti részletezéssel tájékoztatja a minisztert.
+37/E. § (1)[^117] A kincstár a 37/C. § (1) bekezdése és 37/D. § (1) bekezdése szerinti kérelem adatairól a tárgyév május 15-éig fenntartó típusonkénti bontásban, egyházi jogi személyek esetében bevett egyházanként összesítve, országos, fővárosi, megyei összesítésben, kormányzati funkció szerinti részletezéssel tájékoztatja a minisztert.
 
-(2)[^132] A kincstár az (1) bekezdés szerinti részletezéssel küldi meg a miniszter részére
+(2)[^118] A kincstár az (1) bekezdés szerinti részletezéssel küldi meg a miniszter részére
 
 a) a keretigényt
 
@@ -12,5 +12,5 @@ ac) a tárgyév szeptember–december hónapjára vonatkozóan augusztus tizenö
 
 b) a keretigényen felül jelentkező pótigényt a tárgyhót megelőző hónap tizenötödik napjáig.
 
-[^131]: A 37/E. § (1) bekezdése a 3/2015. (I. 28.) Korm. rendelet 19. § b)–c) pontja szerint módosított szöveg.
-[^132]: A 37/E. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^117]: A 37/E. § (1) bekezdése a 3/2015. (I. 28.) Korm. rendelet 19. § b)–c) pontja szerint módosított szöveg.
+[^118]: A 37/E. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 6. §-ával megállapított szöveg.

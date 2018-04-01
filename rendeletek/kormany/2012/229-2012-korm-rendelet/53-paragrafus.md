@@ -1,3 +1,3 @@
-## 52. §[^210] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+## 52. §[^196] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-[^210]: Az újabb 52. §-t a 477/2016. (XII. 27.) Korm. rendelet 62. § (3) bekezdése iktatta be.
+[^196]: Az újabb 52. §-t a 477/2016. (XII. 27.) Korm. rendelet 62. § (3) bekezdése iktatta be.
