@@ -98,9 +98,11 @@
 
 | 46 | L71 | Negyedéves jelentés a kockázattal súlyozott kitettségek megoszlásáról | hitelintézet, a nem EGT-államban székhellyel rendelkező hitelintézet magyarországi fióktelepeként működő hitelintézet (a továbbiakban: harmadik országbeli hitelintézet fióktelepe) kivételével | negyedéves | elektronikus úton (KAP rendszer), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | első negyedév tekintetében a tárgyidőszakot követő második hónap 12. nap, második - negyedik negyedév tekintetében a tárgyidőszakot követő második hónap 11. nap |
 
-| 47 | L72 | Negyedéves jelentés a jelzáloghitel-finanszírozás megfelelési mutatóról | bank, a hitelintézeti csoporthoz tartozó, nem csoportvezető, magyarországi székhelyű bank kivételével | negyedéves | elektronikus úton (KAP rendszer), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | első negyedév tekintetében a tárgyidőszakot követő második hónap 12. nap, második - negyedik negyedév tekintetében a tárgyidőszakot követő második hónap 11. nap |
+| 47 | L72 | Negyedéves jelentés a jelzáloghitel-finanszírozás megfelelési mutatóról | bank, jelzálog-hitelintézet, a hitelintézeti csoporthoz tartozó, nem csoportvezető, magyarországi székhelyű bank, jelzálog-hitelintézet kivételével | negyedéves | elektronikus úton (KAP rendszer), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | első negyedév tekintetében a tárgyidőszakot követő második hónap 12. nap, második - negyedik negyedév tekintetében a tárgyidőszakot követő második hónap 11. nap |
 
-| 48 | L73 | Havi jelentés a devizaegyensúly mutatóról | a hitelintézeti csoporthoz tartozó, nem csoportvezető, magyarországi székhelyű bank kivételével a bank, az ezen típusú EGT-fióktelep | havi | elektronikus úton (KAP rendszer), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | a naptári negyedév első két hónapja tekintetében: tárgyidőszakot követő hónap 15. munkanap; a naptári negyedév utolsó hónapja tekintetében: első negyedév tekintetében a tárgyidőszakot követő második hónap 12. nap, második - negyedik negyedév tekintetében a tárgyidőszakot követő második hónap 11. nap |
+| 48 | L73 | Havi jelentés a devizaegyensúly mutatóról | a hitelintézeti csoporthoz tartozó, nem csoportvezető, magyarországi székhelyű bank, jelzálog-hitelintézet kivételével a bank, jelzálog-hitelintézet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (KAP rendszer), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | a naptári negyedév első két hónapja tekintetében: tárgyidőszakot követő hónap 15. munkanap; a naptári negyedév utolsó hónapja tekintetében: első negyedév tekintetében a tárgyidőszakot követő második hónap 12. nap, második - negyedik negyedév tekintetében a tárgyidőszakot követő második hónap 11. nap |
+
+| 48a | L74 | Negyedéves jelentés a bankközi finanszírozási mutatóról | a hitelintézeti csoporthoz tartozó, nem csoportvezető, magyarországi székhelyű bank, jelzálog-hitelintézet kivételével a bank, jelzálog-hitelintézet, az ezen típusú EGT-fióktelep | negyedéves | elektronikus úton (KAP rendszer), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | első negyedév tekintetében a tárgyidőszakot követő második hónap 12. nap, második-negyedik negyedév tekintetében a tárgyidőszakot követő második hónap 11. nap |
 
 | 49 | M01 | A hitelintézetek statisztikai mérlege és eredménykimutatása | hitelintézet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (EBEAD rendszer) | a naptári negyedév első két hónapja tekintetében: tárgyidőszakot követő hónap 11. munkanap; a naptári negyedév utolsó hónapja tekintetében előzetes: tárgyidőszakot követő hónap 11. munkanap; végleges: első negyedév tekintetében a tárgyidőszakot követő második hónap 12. nap, második - negyedik negyedév tekintetében a tárgyidőszakot követő második hónap 11. nap |
 
@@ -190,17 +192,23 @@
 
 | 92 | P57 | BKR forgalom tranzakció szintű adatai | fizetési rendszer működtetését végző szervezet | heti | elektronikus úton (GiroHálóMail) | a tárgyhét utolsó munkanapját követő 5. munkanap |
 
-| 93 | P58 | Eseti nyilatkozat banki pénzforgalmat érintő üzemzavarról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (EBEAD rendszer) | az esemény kivizsgálását követő 5. munkanap, de legkésőbb az eseményt követő 20. munkanap |
+| 93 | P58 | Eseti nyilatkozat pénzforgalmi szolgáltatást érintő üzemzavarról | pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (EBEAD rendszer) | az esemény kivizsgálását követő 5. munkanap, de legkésőbb az eseményt követő 20. munkanap |
 
-| 94 | P59 | Negyedéves nyilatkozat a P58 MNB azonosító kódú adatszolgáltatásban jelentett üzemzavarokról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | negyedéves | elektronikus úton (EBEAD rendszer) | a tárgyidőszakot követő hónap 10. munkanap |
+| 94 | P59 | Negyedéves nyilatkozat a P58 MNB azonosító kódú adatszolgáltatásban jelentett üzemzavarokról | pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | negyedéves | elektronikus úton (EBEAD rendszer) | a tárgyidőszakot követő hónap 10. munkanap |
 
 | 95 | P60 | Központi szerződő fél forgalmi statisztikák | központi szerződő fél, az ezen típusú EGT-fióktelep | napi | elektronikus úton (EBEAD rendszer) | tárgynapot követő munkanap 12 óra |
 
 | 96 | P61 | Bankváltás statisztika | fizetési rendszer működtetését végző szervezet | havi | elektronikus úton (EBEAD rendszer) | a tárgyidőszakot követő hónap 10. munkanap |
 
-| 97 | P62 | Harmadik fél fizetési szolgáltatókra vonatkozó adatok | fizetés-kezdeményezési szolgáltatást, valamint számlainformációs szolgáltatást nyújtó pénzforgalmi szolgáltató | negyedéves | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap utolsó munkanap |
+| 97 | P62 | Harmadik fél fizetési szolgáltatókra vonatkozó adatok | fizetés-kezdeményezési szolgáltatást, valamint számlainformációs szolgáltatást nyújtó pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | negyedéves | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap utolsó munkanap |
 
 | 98 | P63 | Hitelesítéssel és kivételkezeléssel kapcsolatos adatszolgáltatások | pénzforgalmi szolgáltató – a MÁK kivételével –, az ezen típusú EGT-fióktelep | negyedéves | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap utolsó munkanap |
+
+| 98a | P64 | Pénzforgalmi szolgáltatói tájékoztatás súlyosabb működési, biztonsági eseményről | pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (ERA rendszer) | „A – kezdeti jelentés” tábla tekintetében az észleléstől számított 4 órán belül; „B – időközi jelentés” tábla tekintetében – a kitöltési előírások eltérő rendelkezése hiányában – az „A” tábla beküldését követő 3 munkanapon belül; „C – záró jelentés” tábla tekintetében – a kitöltési előírások eltérő rendelkezése hiányában – az esemény lezárása után 2 héten belül; „D – érintett PSZ” tábla tekintetében az „A – kezdeti jelentés” táblával egyidőben |
+
+| 98b | P65 | Meg nem térített fizetési műveletek | pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (EBEAD rendszer) | tárgynapot követő munkanap |
+
+| 98c | P66 | Fizetési számlához való hozzáférés megtagadása | számlavezető pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (EBEAD rendszer) | tárgynapot követő munkanap |
 
 | 99 | R01 | Tőkebefektetésben érintett adatszolgáltatók végső befektetőjének és nem-rezidens partnereinek törzsadatai | az R02, R03, R12, R13 vagy R29 MNB azonosító kódú adatszolgáltatás teljesítésére kötelezett gazdasági szervezet | az R02, R03, R12, R13 vagy R29 MNB azonosító kódú adatszolgáltatás első alkalommal történő teljesítésekor, ezt követően változás esetén | elektronikus úton (EBEAD rendszer) | az R02, R03, R12 vagy R13 MNB azonosító kódú adatszolgáltatáshoz kapcsolódóan azok tárgyidőszakát követő hónap 9. munkanap; az R29 MNB azonosító kódú adatszolgáltatáshoz kapcsolódóan annak tárgyidőszakát követő év június 20. |
 
@@ -294,6 +302,6 @@
 
 | 7 | Z07 | Természetes személyek anonimizált jövedelmi és munkatörténet adatai | Országos Nyugdíjbiztosítási Főigazgatóság (a továbbiakban: ONYF) | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint |
 
-2. melléklet a 27/2017. (XI. 21.) MNB rendelethez[^2]
+2. melléklet a 27/2017. (XI. 21.) MNB rendelethez[^4]
 
-[^2]: A 2. melléklet „Negyedéves jelentés a jelzáloghitel-finanszírozás megfelelési mutatóról” (MNB azonosító kód: L72) megnevezésű adatszolgáltatáshoz kapcsolódó táblák és kitöltési előírások a 2. § (3) bekezdése alapján 2018. október 1-jén lépnek hatályba.
+[^4]: A 2. melléklet „Negyedéves jelentés a jelzáloghitel-finanszírozás megfelelési mutatóról” (MNB azonosító kód: L72) megnevezésű adatszolgáltatáshoz kapcsolódó táblák és kitöltési előírások a 2. § (3) bekezdése alapján 2018. október 1-jén lépnek hatályba. A 2. melléklet a 9/2018. (III. 23.) MNB rendelet 2. § (3) bekezdése és a 2. § (4) bekezdés c) pontja szerint módosított szöveg.
