@@ -1,0 +1,3 @@
+10. § A Vksztv. 65. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A víziközmű-szolgáltató és az ellátásért felelős, valamint a víziközmű tulajdonosa a Hivatalnak minden olyan tájékoztatást és adatot megad, amely a Hivatal hatósági díjelőkészítő és díjfelügyeleti tevékenységéhez szükséges. A víziközmű-szolgáltató és az ellátásért felelős, valamint a víziközmű tulajdonosa a miniszter számára az e törvény felhatalmazása alapján kiadott kormányrendeletben megjelölt tartalommal, formában és határidőn belül az IKVA Adatbázis elektronikus rendszeren keresztül tesz eleget tájékoztatási és adatszolgáltatási kötelezettségének.”
