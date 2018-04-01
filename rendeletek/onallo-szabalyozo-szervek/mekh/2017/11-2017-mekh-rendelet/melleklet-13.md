@@ -2,4 +2,4 @@
 
 13. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^17]
 
-[^17]: A 13. melléklet a 17/2017. (XII. 21.) MEKH rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^17]: A 13. melléklet az 1/2018. (III. 29.) MEKH rendelet 1. § (5) bekezdésével megállapított szöveg.
