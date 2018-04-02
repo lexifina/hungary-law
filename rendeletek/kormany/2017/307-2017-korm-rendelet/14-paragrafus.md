@@ -1,9 +1,0 @@
-## 13. §[^10]
-
-## 5. A pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló
-
-## 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló
-
-## 326/2013. (VIII. 30.) Korm. rendelet módosítása
-
-[^10]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
