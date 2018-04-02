@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-26-20-2
 | 2017-12-17 | 2014-26-20-2Y.9 | 2010: CXXX. törvény |
 | 2018-01-01 | 2014-26-20-2Y.10 | 70/2017. (XII. 29.) FM rendelet |
 | 2018-04-01 | 2014-26-20-2Y.11 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2018-04-02 | 2014-26-20-2Y.12 | 2010: CXXX. törvény |

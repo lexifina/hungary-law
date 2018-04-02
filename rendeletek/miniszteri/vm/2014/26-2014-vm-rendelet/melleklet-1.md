@@ -1,4 +1,4 @@
-1. melléklet a 26/2014. (III. 25.) VM rendelethez[^16]
+1. melléklet a 26/2014. (III. 25.) VM rendelethez[^17]
 
 ## E rendelet hatálya alá tartozó tevékenységek
 
@@ -118,4 +118,4 @@ Minden olyan tevékenység, amely során magokból és más növényi anyagokbó
 
 Gyógyszerészeti termékek kémiai szintézise, fermentálása, extrahálása, formulálása és késztermékké alakítása, és ha ugyanazon a telephelyen végzik, a közbenső (intermedier) termékek gyártása.
 
-[^16]: Az 1. melléklet a 19/2017. (IV. 24.) FM rendelet 5. § a) pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet a 19/2017. (IV. 24.) FM rendelet 5. § a) pontja szerint módosított szöveg.

@@ -38,7 +38,7 @@
 
 ## 1.7. A teljes VOC kibocsátási határértékek az összes bevonatfelviteli műveletre vonatkoznak, amelyet ugyanabban a létesítményben végeznek elektroforetikus vagy bármely más festési eljárással egészen a végső fényezett réteg és a felső polírozott festékréteg elkészítéséig. A teljes VOC kibocsátási határértékek arra az oldószermennyiségre is vonatkoznak, amelyet a folyamatban használt berendezések (beleértve a szórófülkéket és egyéb helyhez kötött berendezéseket) tisztítására használnak a gyártási folyamat ideje alatt vagy azt követően.
 
-4. melléklet a 26/2014. (III. 25.) VM rendelethez[^18]
+4. melléklet a 26/2014. (III. 25.) VM rendelethez[^19]
 
 ## A rákkeltő, mutagén vagy reprodukciós toxicitású anyagokra vonatkozó véggáz kibocsátási határértékek
 
@@ -50,4 +50,4 @@
 
 4. Ha a VOC véggáz kibocsátás tömegárama nem éri el az 1. vagy a 2. pont szerinti tömegáramot, a tevékenység jellegétől és az oldószer-felhasználás mennyiségétől függően a 2. vagy a 3. melléklet szerinti kibocsátási határértékeket és követelményeket kell betartani.
 
-[^18]: A 4. melléklet a 18. § (1) bekezdésével megállapított szöveg.
+[^19]: A 4. melléklet a 18. § (1) bekezdésével megállapított szöveg.
