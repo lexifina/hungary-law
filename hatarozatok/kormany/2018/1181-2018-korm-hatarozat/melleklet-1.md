@@ -30,42 +30,9 @@
 
 ## 2. Ez a határozat a közzétételét követő 3. napon lép hatályba.
 
-## 3. A Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások összehangolásáról és azok 2022-ig történő megvalósításáról szóló 1371/2016. (VII. 15.) Korm. határozat [a továbbiakban: 1371/2016. (VII. 15.) Korm. határozat] 1. melléklete az 1. melléklet szerint módosul.
+## 3–7.[^1]
 
-## 4. A Magyarország rövid- és középtávú közútfejlesztéseinek 2022-ig történő megvalósításához szükséges feltételek biztosításáról szóló 1505/2016. (IX. 21.) Korm. határozat [a továbbiakban: 1505/2016. (IX. 21.) Korm. határozat] 6–8. pontja helyébe a következő rendelkezések lépnek:
+1–3. melléklet az 1181/2018. (III. 29.) Korm. határozathoz[^2]
 
-## (A Kormány)
-
-## „6. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Közlekedési ágazati programok alcím, Kiemelt közúti projektek kiadási előirányzata (a továbbiakban: Előirányzat) terhére vállalható kötelezettségek mértékét a 2018–2022. évekre az alábbiak szerint állapítja meg:
-
-## a) a 2018. évre vonatkozó kötelezettségvállalás felső korlátja 267 702 millió forint,
-
-## b) a 2019. évre vonatkozó kötelezettségvállalás felső korlátja 402 192 millió forint,
-
-## c) a 2020. évre vonatkozó kötelezettségvállalás felső korlátja 219 469 millió forint,
-
-## d) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 136 955 millió forint,
-
-## e) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 63 844 millió forint,
-
-## 7. felhívja a nemzeti fejlesztési minisztert, hogy a 6. pontban meghatározott éven túli előirányzati korlátok figyelembevételével a már megkötött támogatási szerződéseket módosítsa,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
-
-## 8. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a nemzeti fejlesztési miniszter az e határozatban foglaltak végrehajtása érdekében a 6. pont szerinti éven túli korlátok kapcsolódó pénzügyi tranzakciós illetékek és kincstári díjak összegével csökkentett mértékéig, összesen legfeljebb 1 397 515 millió forint összegben kötelezettségeket vállaljon, illetve a már megkötött támogatási szerződést ennek megfelelően módosítsa,”
-
-## 5. Az 1505/2016. (IX. 21.) Korm. határozat 1. melléklete helyébe a 2. melléklet lép.
-
-## 6. Az 1505/2016. (IX. 21.) Korm. határozat 2. melléklete a 3. melléklet szerint módosul.
-
-## 7. Az 1505/2016. (IX. 21.) Korm. határozat 1. pontjában a „2 587 589 millió forint” szövegrész helyébe a „2 587 759 millió forint” szöveg lép.
-
-1. melléklet az 1181/2018. (III. 29.) Korm. határozathoz
-
-1. Az 1371/2016. (VII. 15.) Korm. határozat 1. mellékletében foglalt 4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista című táblázat a következő 67. sorral egészül ki:
-
-|  | (A tervezett projekt megnevezése) |
-
-| 67. | Mosonmagyaróvár déli tehermentesítő út 1. számú főút és 86. számú főút közötti szakasz megvalósításának előkészítése, valamint az M1 autópálya Moson pihenőhely átépítésével új autópálya csomópont megvalósításának előkészítése |
+[^1]: A 3–7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
