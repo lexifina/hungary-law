@@ -14,13 +14,13 @@ d) fogadja az Alapokból származó támogatásokat az Európai Bizottságtól,
 
 e)[^102] a monitoring és információs rendszerben pénzügyi nyilvántartást vezet, amelynek keretében nyilvántartja az Alapokból származó támogatás részben vagy egészben történő törlése következtében visszafizetendő, visszafizetett, visszavont, valamint a behajthatatlan összegeket,
 
-f) végrehajtja az adminisztratív hibák, valamint az operatív program megvalósítása során bekövetkezett szabálytalanságok következtében szükségessé váló pénzügyi korrekciókat, és elszámol az alapokból származó visszafizetett támogatásokról az Európai Bizottsággal,
+f)[^103] végrehajtja az adminisztratív hibák, valamint az operatív program megvalósítása során bekövetkezett szabálytalanságok következtében szükségessé váló pénzügyi korrekciókat,
 
-g)[^103] elkészíti a 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet 59. cikke (5) bekezdés a) pontjában említett beszámolókat és igazolja e beszámolók teljességét, pontosságát, hitelességét és megfelelőségét,
+g)[^104] elkészíti a 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet 59. cikke (5) bekezdés a) pontjában említett beszámolókat és igazolja e beszámolók teljességét, pontosságát, hitelességét és megfelelőségét,
 
-h)[^104] biztosítja az 1303/2013/EU európai parlamenti és tanácsi rendelet 126. cikk g) pontjában meghatározott számviteli nyilvántartási feladatok ellátását, amelynek keretében a támogatásokról a monitoring és információs rendszer alkalmazásával központosított, valamennyi operatív programra teljes körűen kiterjedő, a számviteli törvény szerinti eredményszemléletű számviteli nyilvántartásokat vezet, és összeállítja az éves beszámolót.
+h)[^105] biztosítja az 1303/2013/EU európai parlamenti és tanácsi rendelet 126. cikk g) pontjában meghatározott számviteli nyilvántartási feladatok ellátását, amelynek keretében a támogatásokról a monitoring és információs rendszer alkalmazásával központosított, valamennyi operatív programra teljes körűen kiterjedő, a számviteli törvény szerinti eredményszemléletű számviteli nyilvántartásokat vezet, és összeállítja az éves beszámolót.
 
-(2) A kincstár köteles a támogatások számviteli elszámolását szabályozó számviteli kézikönyvet a hozzá kapcsolódó ellenőrzési nyomvonalakkal elkészíteni, amelynek részei
+(2)[^106] A kincstár köteles a támogatások számviteli elszámolását szabályozó számviteli kézikönyvet elkészíteni, amelynek részei
 
 1. számviteli folyamatok eljárási rendje,
 
@@ -32,5 +32,7 @@ h)[^104] biztosítja az 1303/2013/EU európai parlamenti és tanácsi rendelet 1
 [^100]: A 17. § (1) bekezdés nyitó bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 28. pontjával megállapított szöveg.
 [^101]: A 17. § (1) bekezdés c) pontja a 98/2016. (V. 13.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^102]: A 17. § (1) bekezdés e) pontja a 98/2016. (V. 13.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^103]: A 17. § (1) bekezdés g) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 29. pontja szerint módosított szöveg.
-[^104]: A 17. § (1) bekezdés h) pontja a 347/2015. (XI. 20.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^103]: A 17. § (1) bekezdés f) pontja az 59/2018. (III. 26.) Korm. rendelet 13. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^104]: A 17. § (1) bekezdés g) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 29. pontja szerint módosított szöveg.
+[^105]: A 17. § (1) bekezdés h) pontja a 347/2015. (XI. 20.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^106]: A 17. § (2) bekezdés nyitó szövegrésze az 59/2018. (III. 26.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.

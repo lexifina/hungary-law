@@ -1,8 +1,8 @@
 ## 16. Az együttműködő szervezet feladatai
 
-28. § (1)[^167] Az EMVA keretében végrehajtott intézkedések esetében a kifizető ügynökség a hatáskörébe tartozó feladatokat – a kifizetés kivételével – a 907/2014/EU felhatalmazáson alapuló bizottsági rendelet 1. melléklet 1. C. pontja szerint is elláthatja, illetve a hatáskörébe tartozó feladatok ellátásába szakértőként, illetve egyes technikai jellegű feladatok ellátására más szervezetet (a továbbiakban együtt: együttműködő szervezet) is bevonhat.
+28. § (1)[^171] Az EMVA keretében végrehajtott intézkedések esetében a kifizető ügynökség a hatáskörébe tartozó feladatokat – a kifizetés kivételével – a 907/2014/EU felhatalmazáson alapuló bizottsági rendelet 1. melléklet 1. C. pontja szerint is elláthatja, illetve a hatáskörébe tartozó feladatok ellátásába szakértőként, illetve egyes technikai jellegű feladatok ellátására más szervezetet (a továbbiakban együtt: együttműködő szervezet) is bevonhat.
 
-(2)[^168] Az együttműködő szervezet kizárólag az irányító hatóság vagy a kifizető ügynökség előzetes jóváhagyása alapján vonhat be más szervezetet, szakértőt, illetve közreműködőt feladata ellátásába. Az együttműködő szervezet által elvégzett feladatért harmadik személy felé a kifizető ügynökség felel.
+(2)[^172] Az együttműködő szervezet kizárólag az irányító hatóság vagy a kifizető ügynökség előzetes jóváhagyása alapján vonhat be más szervezetet, szakértőt, illetve közreműködőt feladata ellátásába. Az együttműködő szervezet által elvégzett feladatért harmadik személy felé a kifizető ügynökség felel.
 
 (3) Az együttműködés keretében ellátandó feladatokról írásba foglalt megállapodásban kell rendelkezni. E megállapodásnak tartalmaznia kell különösen:
 
@@ -24,5 +24,5 @@ g) az együttműködői feladatok elvégzése érdekében a kifizető ügynöks�
 
 (5) Olyan feladatok ellátására, amelyben más költségvetési szerv vagy egyéb szervezet saját hatáskörében eljárást folytat, és eljárása a kifizető ügynökség hatáskörébe tartozó feladatot érint, a feladatvégzés összehangolása érdekében együttműködési megállapodás köthető.
 
-[^167]: A 28. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 16. §-ával megállapított, a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^168]: A 28. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^171]: A 28. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 16. §-ával megállapított, a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^172]: A 28. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 16. §-ával megállapított szöveg.
