@@ -1,0 +1,3 @@
+## 6. § A 272/2014. (XI. 5.) Korm. rendelet 97. §-a a következő (3a) bekezdéssel egészül ki:
+
+## „(3a) A keretmegállapodásos eljárás második részében, ha a közvetlen megrendelésre a központosított közbeszerzési portálon keresztül kerül sor, értékhatártól függetlenül e fejezetet és az 1. melléklet XIX. Fejezetét nem, hanem a kifizetési igénylés, a beszámolás, elszámolás és az ellenőrzés, helyszíni ellenőrzés általános szabályait, így különösen a 122–126/A. és 127. §-t, a XXVI. Fejezetet, az 1. melléklet XI. Fejezetét és a 4. mellékletet kell alkalmazni, különösen a szokásos piaci árnak való megfelelést alátámasztó dokumentumokon keresztül.”
