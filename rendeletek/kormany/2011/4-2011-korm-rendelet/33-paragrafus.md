@@ -58,7 +58,7 @@ j) a megvalósítási időszakra az a kedvezményezett, aki a támogatás kifize
 
 k) társasház és lakásszövetkezet a szociális célú városrehabilitáció támogatási konstrukciók keretében,
 
-l)[^200] kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, teljes (12 naptári hónapot jelentő) üzleti évvel, és szerepel az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 32. pontja szerint közzétett köztartozásmentes adózói adatbázisban.
+l)[^200] kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, teljes (12 naptári hónapot jelentő) üzleti évvel, és szerepel az adózás rendjéről szóló 2017. évi CL. törvény 260. §-a szerint közzétett köztartozásmentes adózói adatbázisban.
 
 (9)[^201] A pályázati felhívás eltérő rendelkezése hiányában nem köteles biztosítékot nyújtani a kedvezményezett, ha a támogatás
 
@@ -84,6 +84,6 @@ b) kutatás-fejlesztésre vagy innovációra irányul.
 [^197]: A 33. § (8) bekezdés f) pontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 8. pontja szerint módosított szöveg.
 [^198]: A 33. § (8) bekezdés h) pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 13. pontja hatályon kívül helyezte, újonnan a 115/2013. (IV. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 203/2014. (VIII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^199]: A 33. § (8) bekezdés i) pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 13. pontja hatályon kívül helyezte, újonnan a 469/2013. (XII. 11.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^200]: A 33. § (8) bekezdés l) pontját a 358/2014. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^200]: A 33. § (8) bekezdés l) pontját a 358/2014. (XII. 29.) Korm. rendelet 1. §-a iktatta be, szövege az 59/2018. (III. 26.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^201]: A 33. § (9) bekezdését a 25/2012. (II. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.
 [^202]: A 33. § (10) bekezdését a 358/2014. (XII. 29.) Korm. rendelet 2. §-a iktatta be.

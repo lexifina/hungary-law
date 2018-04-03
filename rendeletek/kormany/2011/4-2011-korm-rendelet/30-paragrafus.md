@@ -4,7 +4,7 @@
 
 (2) A támogatási szerződés megkötése és a támogatói okirat kiadása előtt helyszíni szemle rendelhető el. A támogatási szerződés megkötéséhez vagy – ha a felhívás lehetővé teszi –legkésőbb az első kifizetési kérelemhez a kedvezményezet köteles benyújtani
 
-a)[^168] a kedvezményezett nevében aláíró személy vagy személyek – a költségvetési szerv, a helyi önkormányzat, a kisebbségi önkormányzat, az egyházi jogi személy, a felsőoktatási intézmény, a közalapítvány és az állam kizárólagos tulajdonában lévő gazdasági társaság kivételével – pénzügyi intézmény által igazolt, vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját, közjegyző által hitelesített aláírási címpéldányát, vagy ezek közjegyző által hitelesített másolatát,
+a)[^168] a kedvezményezett nevében aláíró személy vagy személyek – a költségvetési szerv, a helyi önkormányzat, a kisebbségi önkormányzat, az egyházi jogi személy, a felsőoktatási intézmény, a közalapítvány és az állam kizárólagos tulajdonában lévő gazdasági társaság kivételével – pénzügyi intézmény által igazolt aláírásmintáját, ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintáját, hiteles cégaláírási nyilatkozatát (közjegyzői aláírás-hitelesítéssel ellátott címpéldányát), vagy ezek közjegyző által hitelesített másolatát,
 
 b)[^169] a kedvezményezett – a költségvetési szerv, a helyi önkormányzat, a kisebbségi önkormányzat, az egyházi jogi személy, a felsőoktatási intézmény, a közalapítvány, és az állam kizárólagos tulajdonában lévő gazdasági társaság kivételével – alapító (létesítő) okiratát, vagy jogszabályban meghatározott nyilvántartásba vételét igazoló okiratát,
 
@@ -29,7 +29,7 @@ d) a projekt megvalósításának elindításához szükséges összes jogerős 
 (9)[^177] Ha a feltételek teljesítésére nyitva álló határidő a kedvezményezettnek felróható okból eredménytelenül telik el, a támogatási döntés érvényét veszti.
 
 [^167]: A 30. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 45. pontja szerint módosított szöveg.
-[^168]: A 30. § (2) bekezdés a) pontja a 297/2013. (VII. 29.) Korm. rendelet 64. §-a, a 203/2014. (VIII. 14.) Korm. rendelet 9. § 6. pontja, a 69/2015. (III. 30.) Korm. rendelet 10. §-a, a 393/2017. (XII. 13.) Korm. rendelet 35. §-a szerint módosított szöveg.
+[^168]: A 30. § (2) bekezdés a) pontja a 297/2013. (VII. 29.) Korm. rendelet 64. §-a, a 203/2014. (VIII. 14.) Korm. rendelet 9. § 6. pontja, a 69/2015. (III. 30.) Korm. rendelet 10. §-a, a 393/2017. (XII. 13.) Korm. rendelet 35. §-a, az 59/2018. (III. 26.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^169]: A 30. § (2) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 64. §-a, a 203/2014. (VIII. 14.) Korm. rendelet 9. § 6. pontja szerint módosított szöveg.
 [^170]: A 30. § (2) bekezdés c) pontja a 302/2013. (VII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^171]: A 30. § (2a) bekezdését a 25/2012. (II. 29.) Korm. rendelet 19. § (1) bekezdése iktatta be.

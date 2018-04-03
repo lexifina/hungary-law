@@ -2,9 +2,9 @@
 
 (2)[^486] Az irányító hatóság a visszafizetésre kötelezés időpontjában már folyamatban lévő csőd-, felszámolási-, végelszámolási-, kényszertörlési-, valamint egyéb, a kedvezményezett fizetésképtelenségével, illetve megszüntetésével összefüggésben induló eljárásba köteles bekapcsolódni, illetve követelését bejelenteni. Az eljárásba történő bekapcsolódást, illetve a követelés bejelentését megelőzően az irányító hatóság mérlegeli, hogy az eljárásban történő részvétel, illetve a bejelentés költségei arányban állnak-e a várhatóan behajtható összeggel.
 
-(3)[^487] A csődeljárásban, a felszámolási eljárásban, a végelszámolásban, a kényszertörlési, a vagyonrendezési és az adósságrendezési eljárásban az Art. 72. § (3) bekezdés a) pontja alapján az állami adóhatóság jár el hitelezőként a kedvezményezettet terhelő visszafizetési kötelezettségére vonatkozó követelés tekintetében.
+(3)[^487]
 
 [^484]: A 102. § a 302/2013. (VII. 29.) Korm. rendelet 44. §-ával megállapított szöveg.
 [^485]: A 102. § (1) bekezdése a 358/2014. (XII. 29.) Korm. rendelet 3. §-ával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 67. § 3. pontja szerint módosított szöveg.
 [^486]: A 102. § (2) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 196. pontja szerint módosított szöveg.
-[^487]: A 102. § (3) bekezdése a 358/2014. (XII. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^487]: A 102. § (3) bekezdését az 59/2018. (III. 26.) Korm. rendelet 2. §-a hatályon kívül helyezte.
