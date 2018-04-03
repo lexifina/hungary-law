@@ -220,8 +220,8 @@ KEH ügyszám: IV-4/01142/2012.
 
 [^1]: A 150/2015. (III. 25.) KE határozat alapján a Köztársasági Elnök dr. Borbély-Szabó Franciska bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
 [^2]: A 116/2015. (II. 23.) KE határozat alapján a Köztársasági Elnök dr. Bozsó Péter bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
-[^3]: A 151/2015. (III. 25.) KE határozat alapján a Köztársasági Elnök dr. Jancsák Ramóna bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
-[^4]: A 152/2015. (III. 25.) KE határozat alapján a Köztársasági Elnök dr. Lázár-Staár Ágota Katalin bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
-[^5]: A 153/2015. (III. 25.) KE határozat alapján a Köztársasági Elnök dr. Rédei Andrea bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
-[^6]: A 154/2015. (III. 25.) KE határozat alapján a Köztársasági Elnök dr. Takácsné dr. Takács Dóra bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
+[^3]: A 140/2018. (IV. 3.) KE határozat alapján a köztársasági elnök dr. Jancsák Ramóna bírói kinevezését a 2018. április 1. napjától 2021. március 31. napjáig terjedő időtartamra meghosszabbította.
+[^4]: A 141/2018. (IV. 3.) KE határozat alapján a köztársasági elnök dr. Lázár-Staár Ágota Katalin bírói kinevezését a 2018. április 1. napjától 2021. március 31. napjáig terjedő időtartamra meghosszabbította.
+[^5]: A 142/2018. (IV. 3.) KE határozat alapján a köztársasági elnök dr. Rédei Andrea bírói kinevezését a 2018. április 1. napjától 2021. március 31. napjáig terjedő időtartamra meghosszabbította.
+[^6]: A 143/2018. (IV. 3.) KE határozat alapján a köztársasági elnök dr. Takácsné dr. Takács Dóra bírói kinevezését a 2018. április 1. napjától 2021. március 31. napjáig terjedő időtartamra meghosszabbította.
 [^7]: A 155/2015. (III. 25.) KE határozat alapján a Köztársasági Elnök dr. Zengődiné dr. Lascsik Lívia bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
