@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-31-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-01-01 | 2016-31-20-2X.1 | 31/2016. (IX. 2.) NGM rendelet |
+| 2018-04-03 | 2016-31-20-2X.2 | 7/2018. (III. 19.) NGM rendelet |

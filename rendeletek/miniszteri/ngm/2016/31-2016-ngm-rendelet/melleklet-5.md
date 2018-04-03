@@ -380,18 +380,18 @@
 
 | 16. | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-5. melléklet a 31/2016. (IX. 2.) NGM rendelethez
+5. melléklet a 31/2016. (IX. 2.) NGM rendelethez[^24]
 
 Igazgatási szolgáltatási díjak
 
 |  | A | B | C |
 
-| 1. | Tétel- szám | Megnevezés | Díjtétel |
+| 1. | Tételszám | Megnevezés | Díjtétel |
 
 | 2. | 1. | Felügyeleti szolgáltatói engedély kiadása | engedélyenként 600 000 Ft |
 
-| 3. | 2. | Felügyeleti szolgáltatói engedélymódosítása (egy éven belül az első módosítás) | 300 000 Ft |
+| 3. | 2. | Felügyeleti szolgáltatói engedély módosítása (egy éven belül az első módosítás) | 300 000 Ft |
 
 | 4. | 3. | Felügyeleti szolgáltatói engedély módosítása [egy éven belül a második, vagy az azt követő módosítás(ok)] | módosításonként 400 000 Ft |
 
-| 5. | 5. | Az a felügyeleti szolgáltatásba nem beköthető automata üzemeltetése | évente 150 000 Ft |
+[^24]: Az 5. melléklet a 7/2018. (III. 19.) NGM rendelet 3. §-ával megállapított szöveg.

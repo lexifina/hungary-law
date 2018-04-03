@@ -4,4 +4,6 @@
 
 a) amely maga vagy kapcsolt vállalkozása – e rendelet hatálya alá tartozó – automatát üzemeltet, értékesít, ad bérbe, ide nem értve az AFE-t, vagy
 
-b) amelyet a felügyeleti szolgáltatói nyilvántartásból az engedélyező hatóság törölt, az erről szóló határozat jogerőre emelkedésétől számított három évig.
+b)[^5] amelyet a felügyeleti szolgáltatói nyilvántartásból az engedélyező hatóság törölt, az erről szóló határozat véglegessé válásától számított három évig.
+
+[^5]: A 11. § b) pontja a 7/2018. (III. 19.) NGM rendelet 4. § 3. pontja szerint módosított szöveg.

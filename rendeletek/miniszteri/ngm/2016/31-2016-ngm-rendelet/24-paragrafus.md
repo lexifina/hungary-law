@@ -1,4 +1,4 @@
-## 23. § Az engedélyező hatóság elektronikus úton tájékoztatja a NAV-ot a felügyeleti szolgáltatói engedély kiadásáról, módosításáról, visszavonásáról a 19. § (2) szerinti adatok, továbbá a határozat keltére és jogerőre emelkedésének időpontjára vonatkozó adatok átadásával. A tájékoztatással egyidejűleg az engedélyező hatóság elektronikus úton megküldi a felügyeleti szolgáltató által az engedély kiadása iránti kérelemhez mellékelt, a 15. § (5) bekezdése szerinti elektronikus adathordozón benyújtott dokumentációt.
+## 23. §[^10] Az engedélyező hatóság elektronikus úton tájékoztatja a NAV-ot a felügyeleti szolgáltatói engedély kiadásáról, módosításáról, visszavonásáról a 19. § (2) szerinti adatok, továbbá a határozat keltére és véglegessé válásának időpontjára vonatkozó adatok átadásával. A tájékoztatással egyidejűleg az engedélyező hatóság elektronikus úton megküldi a felügyeleti szolgáltató által az engedély kiadása iránti kérelemhez mellékelt, a 15. § (5) bekezdése szerinti elektronikus adathordozón benyújtott dokumentációt.
 
 ## 7. A felügyeleti szolgáltatói engedély módosítása
 
@@ -7,3 +7,5 @@
 (2) Amennyiben a tanúsítványhoz mellékelt jelentésben megállapítást nyer, hogy a változtatás jelentős hatással van az adózói adatok kezelésére és a NAV-hoz való továbbításának módjára, úgy a felügyeleti szolgáltatónak az engedélyező hatósághoz engedély módosítási kérelmet kell benyújtania.
 
 (3) A (2) bekezdés szerinti kérelem benyújtására és elbírálására az e fejezetben meghatározottakat kell alkalmazni azzal, hogy a módosítás tárgyát és a módosítás indokát a kérelemben egyértelműen meg kell jelölni.
+
+[^10]: A 23. § a 7/2018. (III. 19.) NGM rendelet 4. § 4. pontja szerint módosított szöveg.

@@ -1,10 +1,12 @@
+## 2. §[^1]
+
 ## 1. Értelmező rendelkezések
 
 ## 3. § E rendelet alkalmazásában:
 
 1. automata: a jogszabályi kötelezettségen alapuló – 1. mellékletben meghatározott műszaki követelményekkel rendelkező – az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automaták,
 
-2. automata felügyeleti egység: az automatába szerelt azon önállóan elkülöníthető zárt, elektronikus adattároló és adatkommunikációs egység, mely az Art. 22/D. §-ban és az e rendeletben foglalt előírások szerint meghatározott adattartalmú elektronikus nyilvántartásokat tartalmazza, továbbá a felügyeleti szolgáltató informatikai rendszerének részeként biztosítja és ellátja az automata és a NAV közötti titkosított adatkommunikációt,
+2.[^2] automata felügyeleti egység: az automatába szerelt azon önállóan elkülöníthető zárt, elektronikus adattároló és adatkommunikációs egység, mely az az adózás rendjéről szóló törvényben (a továbbiakban: Art.) és az e rendeletben foglalt előírások szerint meghatározott adattartalmú elektronikus nyilvántartásokat tartalmazza, továbbá a felügyeleti szolgáltató informatikai rendszerének részeként biztosítja és ellátja az automata és a NAV közötti titkosított adatkommunikációt,
 
 3. automata felügyeleti egység egyedi tanúsítása: minden egyes telepített és beállított AFE-re egyedileg kiadott elektronikus tanúsítás, amellyel a meghatározott feltételeknek megfelelő tanúsító szervezet igazolja, hogy az AFE tanúsított szoftvert használ, valamint a tanúsítás feltételeiben meghatározott beállításokkal működik,
 
@@ -33,3 +35,6 @@
 15. üzembe helyezés: a üzemeltető számára szánt AFE első, továbbá az üzemeltető személyének megváltozását követő rendeltetésszerű használatának megkezdése,
 
 16. üzemeltetési hely: az automata működtetési helye.
+
+[^1]: A 2. §-t a 7/2018. (III. 19.) NGM rendelet 5. §-a hatályon kívül helyezte.
+[^2]: A 3. § 2. pontja a 7/2018. (III. 19.) NGM rendelet 4. § 1. pontja szerint módosított szöveg.

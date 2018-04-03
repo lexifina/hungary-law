@@ -1,4 +1,4 @@
-14. § (1) A felügyeleti szolgáltatót – az erről szóló határozat jogerőre emelkedésének napjával – az engedélyező hatóság a nyilvántartásából törli:
+14. § (1)[^6] A felügyeleti szolgáltatót – az erről szóló határozat véglegessé válásának napjával – az engedélyező hatóság a nyilvántartásából törli:
 
 a) a felügyeleti szolgáltató kérésére,
 
@@ -13,3 +13,5 @@ e) amennyiben a jogutód a felügyeleti szolgáltatási engedély jogosultjává
 (2) A nyilvántartásból való törlés megállapítása tekintetében az engedélyező hatóság jár el.
 
 (3) Az (1) bekezdés szerinti határozatban foglalt időponttól kezdődően az e rendeletben meghatározott időpontig a felügyeleti szolgáltató szervezet nem végezhet felügyeleti szolgáltató tevékenységet.
+
+[^6]: A 14. § (1) bekezdés nyitó szövegrésze a 7/2018. (III. 19.) NGM rendelet 4. § 4. pontja szerint módosított szöveg.

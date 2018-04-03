@@ -1,4 +1,4 @@
-## 50. § Az e rendeletben foglalt kivételektől eltekintve kizárólag olyan automata üzemeltethető, amelybe engedéllyel rendelkező felügyeleti szolgáltatóhoz csatlakoztatott AFE került elhelyezésre, és az adóalany az automatába szerelt AFE segítségével teljesíti az Art. 22/D. § (4a) bekezdéseiben foglalt adatszolgáltatási kötelezettséget.
+## 50. §[^16]
 
 51. § (1) Automata kizárólag olyan nyilatkozat birtokában üzemeltethető, amelyben az üzemeltetési helyet rendelkezésre bocsátó személy hozzájárul az automata üzemeltetési helyén történő elhelyezéséhez.
 
@@ -11,3 +11,5 @@ b) az elhelyezés pontos (a természetben is azonosítható) helyét, és
 c) az automatát üzemeltető adóalany nevét, székhelyét, adószámát.
 
 (3) Az (1) bekezdés szerinti nyilatkozat másolatát elektronikus formában mellékelni a felügyeleti szolgáltatói szerződéshez.
+
+[^16]: Az 50. §-t a 7/2018. (III. 19.) NGM rendelet 5. §-a hatályon kívül helyezte.

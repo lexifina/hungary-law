@@ -18,4 +18,6 @@ b) a felügyeleti szolgáltató nem tesz eleget a 20. § (4) bekezdésében fogl
 
 ## az engedélyező hatóság az felügyeleti szolgáltató engedélyét visszavonja.
 
-(5) Az az automata, amelyben olyan AFE működik, amelyhez tartozó felügyeleti szolgáltató engedélye visszavonásra került, a felügyeleti szolgáltatói engedély visszavonásáról szóló határozat jogerőre emelkedésének napjától nem üzemeltethető, ha a jogellenes állapot befolyásolja az AFE adózással összefüggő funkcióinak működését.
+(5)[^9] Az az automata, amelyben olyan AFE működik, amelyhez tartozó felügyeleti szolgáltató engedélye visszavonásra került, a felügyeleti szolgáltatói engedély visszavonásáról szóló határozat véglegessé válásának napjától nem üzemeltethető, ha a jogellenes állapot befolyásolja az AFE adózással összefüggő funkcióinak működését.
+
+[^9]: A 22. § (5) bekezdése a 7/2018. (III. 19.) NGM rendelet 4. § 4. pontja szerint módosított szöveg.
