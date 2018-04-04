@@ -1,0 +1,7 @@
+## 8. § A Korm. rendelet 21. §-a helyébe a következő rendelkezés lép:
+
+## „21. § (1) Az Eximbank a segélyhitelekre vonatkozóan megkötött hitelbiztosítási szerződések alapján a Mehib Zrt. által az Eximbanknak a 22. § szerint kiszámlázott hitelbiztosítási díjból a központi költségvetés által adományelemként átvállalásra kerülő részének esedékes részösszegéről és a kapcsolódó jelenérték különbözet összegéről, devizaneméről és fizetési esedékességének értéknapjáról a 6. melléklet szerinti formanyomtatvány alkalmazásával papír alapon és elektronikus úton értesíti a minisztert, és egyidejűleg – számlaszámának megjelölésével – kéri az összeg központi költségvetésből történő átutalását.
+
+## (2) Az (1) bekezdés szerinti igény benyújtásával egyidejűleg az Eximbank a jelentésben szereplő ügyletek szakmai teljesítésére vonatkozóan nyilatkozatot tesz a miniszternek, amellyel igazolja, hogy a Mehib Zrt. által kiállított díjszámla a jogszabályi előírásoknak megfelelően, a kormányközi kötött segélyhitel megállapodások alapján, az egyedi hitelszerződésekre vonatkozó hitelbiztosítási szerződések alapján került kiállításra.
+
+## (3) A miniszter az igénylés papír alapon történő beérkezésétől számított 10 munkanapon belül megküldi a Magyar Államkincstár részére az adományelem összegét tartalmazó utalványt. Az utalványon szereplő összeget a Magyar Államkincstár átutalja az Eximbank által megjelölt devizanemben, a megjelölt értéknapra és számla javára.”
