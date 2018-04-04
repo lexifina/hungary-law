@@ -1,3 +1,3 @@
-## 16. §[^24] Az Eximbank a szerződéskötés alatt álló ügyletek vonatkozásában – a Mehib Zrt. előzetes biztosítási díj ajánlatának birtokában – az adományelemek forintösszegéről szerződésenkénti részletezettséggel előrejelzést készít, és azt a tárgynegyedév első hónapjának 15-éig megküldi a miniszternek.
+## 16. §[^27] Az Eximbank a Mehib Zrt.-vel a segélyhitelre megkötött hitelbiztosítási szerződések vonatkozásában – a Mehib Zrt. előzetes biztosítási díjajánlatának birtokában – a következő negyedévben elszámolásra kerülő adományelemek várható forintösszegéről szerződésenkénti részletezettséggel a 4. melléklet szerinti formanyomtatvány alkalmazásával előrejelzést készít, és azt a tárgynegyedév első hónapjának 15. napjáig papír alapon és elektronikus úton megküldi a miniszternek.
 
-[^24]: A 16. § a 299/2010. (XII. 23.) Korm. rendelet 14. § (2) és (6) bekezdése szerint módosított szöveg.
+[^27]: A 16. § a 60/2018. (III. 27.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -8,6 +8,8 @@
 
 3.[^3] forrásszerzési költség: az Eximbank által a két éven túli finanszírozáshoz igénybe vett források USD és GBP devizanemre vonatkozó 6 havi LIBOR (londoni bankközi kamatláb), EUR devizanemre vonatkozó 6 havi EURIBOR (frankfurti bankközi kamatláb) átlagával megegyező báziskamatláb feletti felárának negyedévente, a tárgynegyedévet megelőző hónap 25-éig megállapított százalékos mértéke, ahol az átlagolásnál alkalmazott 6 havi LIBOR a REUTERS LIBOR01 és a REUTERS FRASETT oldalán, a 6 havi EURIBOR az EURIBOR= oldalán naponta megjelenő fixingek átlaga a legközelebbi 1/16-ra felkerekítve;
 
+3a.[^4] jelenérték különbözet: a hitelbiztosítási díj részletben történő fizetése esetén a díjrészlet számla nominális és diszkontált értékének különbsége, amelynek számítása során a diszkontálást – a biztosítási szerződés megkötésekor hatályos, OECD által meghatározott díj-diszkont rátával – a hitelbiztosítási díj első folyósítása és a részlet díjszámla kiállítása között eltelt időszak vonatkozásában végzik el, és amely a költségvetés által átvállalt biztosítási díjtámogatásként, a 13. § (2) bekezdés szerinti adományelem részét képezi.
+
 4. kedvezményezettség mértéke: a segélyhitel névértéke és a hitelfelvevő által a jövőben fizetendő adósságszolgálat diszkontált jelenértéke közötti különbség, a segélyhitel névértékének százalékában kifejezve;
 
 5. kötött segélyhitel: közvetlen hitelnyújtás, valamint finanszírozás, refinanszírozás, kamattámogatás, garanciavállalás vagy biztosítás útján állami támogatásban részesülő, a támogatást nyújtó országból történő áruk és szolgáltatások beszerzéséhez kötött vegyes hitel;
@@ -31,3 +33,4 @@
 [^1]: Az 1. § a 299/2010. (XII. 23.) Korm. rendelet 14. § (5) bekezdése szerint módosított szöveg.
 [^2]: A 2. § a 299/2010. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § 3. pontja a 186/2013. (VI. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § 3a. pontját a 60/2018. (III. 27.) Korm. rendelet 1. §-a iktatta be.
