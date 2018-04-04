@@ -1,3 +1,0 @@
-## 7. § A 272/2014. (XI. 5.) Korm. rendelet 114. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Azt követően, hogy a jogszerűen igénybe vett támogatás teljes összege kiutalásra került a kedvezményezett, a szállító vagy az engedményes részére, az igazoló hatóság, illetve a kifizető ügynökség a monitoring és információs rendszer alapján utólagosan elszámolja a közösségi hozzájárulásnak a központi költségvetés által előfinanszírozott összegét. Ezt követően – ha a rendelkezésre álló európai uniós források lehetővé teszik – átutalja a jóváhagyott összeget a pénzforgalmi számlájáról a központi költségvetés közvetlen bevétele megfelelő számlájára.”
