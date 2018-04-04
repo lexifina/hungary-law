@@ -1,0 +1,21 @@
+## a) dönt az állami vagyonról szóló 2007. évi CVI. törvény 36. § (2) bekezdés a) pontja és (3) bekezdés alapján az állam tulajdonában és a büntetés-végrehajtási szervezet rendelkezésére álló, 1. melléklet szerinti vagyonelem ingyenes tulajdonba adásáról Montenegró Kormánya részére;
+
+## b) felhívja a belügyminisztert, hogy az irányítása alatt álló, az a) pontban meghatározott szervek közreműködésével az átadás-átvétel megvalósításának céljából vegye fel a kapcsolatot a kijelölt átvevővel, és gondoskodjon az átadás-átvétel megvalósításáról;
+
+## Felelős: belügyminiszter
+
+## Határidő: azonnal
+
+## c) felhívja a belügyminisztert, hogy a segítségnyújtás keretében biztosítson a rendőrség és a büntetés-végrehajtási szervezet személyi állományából az illegális migrációval összefüggő szakkérdésekben történő közreműködéshez szakértő személyeket, és e személyek külföldön történő közreműködéséhez szükséges intézkedéseket tegye meg.
+
+## Felelős: belügyminiszter
+
+## Határidő: azonnal
+
+1. melléklet az 1188/2018. (IV. 4.) Korm. határozathoz
+
+A Büntetés-végrehajtás Országos Parancsnoksága vagyonkezelésében álló, átadásra kerülő vagyonelemek
+
+|  | Vagyonelem megnevezése | Mennyisége |
+
+| 1. | 500 mm-es körsugarú pengésdrót | 75 km |
