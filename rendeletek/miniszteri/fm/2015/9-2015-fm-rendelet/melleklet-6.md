@@ -54,6 +54,6 @@
 
 | 26 | Csipkebogyó | Rosa canina | 1500 | – | 15 év |
 
-6. melléklet a 9/2015. (III. 13.) FM rendelethez[^150]
+6. melléklet a 9/2015. (III. 13.) FM rendelethez[^151]
 
-[^150]: A 6. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (7) bekezdésével megállapított szöveg.
+[^151]: A 6. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (7) bekezdésével megállapított szöveg.
