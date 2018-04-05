@@ -8,7 +8,7 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 3. felhívja a nemzeti fejlesztési minisztert, hogy az Ingatlan állami tulajdonba kerülését követően a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság útján gondoskodjon az Ingatlan Miniszterelnökség részére történő ingyenes vagyonkezelésbe adásáról;
+## 3.[^1] felhívja a nemzeti fejlesztési minisztert, hogy az Ingatlan állami tulajdonba kerülését követően a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság útján gondoskodjon az Ingatlan Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság részére történő ingyenes vagyonkezelésbe adásáról;
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -89,3 +89,5 @@ Forintban
 | Fejezet Állami Számvevőszék Magyar Államkincstár Nemzetgazdasági Minisztérium | 1 példány 1 példány 1 példány 2 példány | időarányos teljesítményarányos egyéb: azonnal | 989 146 500 |  |  |  |  | 989 146 500 |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: A 3. pont az 1209/2018. (IV. 5.) Korm. határozat 6. pontja szerint módosított szöveg.
