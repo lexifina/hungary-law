@@ -1,6 +1,6 @@
 A Kormány 2015. november 10. napján együttműködési megállapodást (a továbbiakban: Megállapodás) kötött Nyíregyháza Megyei Jogú Város Önkormányzatával. A Kormány a Megállapodásban foglaltak eredményes kormányzati végrehajtása érdekében
 
-1. a nyíregyházi Kállay-kúria mielőbbi felújítását és a város részére történő átadását, illetve az egykori miniszterelnök hagyatékának méltó elhelyezését és bemutatását elősegítve úgy dönt, hogy a nyíregyházi Kállay-kúria felújításához szükséges forrás biztosításáról szóló 1495/2015. (VII. 21.) Korm. határozat 3. pontjában foglalt feladat végrehajtására megállapított határidő 2016. október 31-re módosul;
+1.[^1] támogatja a nyíregyházi Kállay-kúriához tartozó ingatlanok mielőbbi felújítását és a város részére történő átadását, valamint az egykori miniszterelnök hagyatékának méltó elhelyezését és bemutatását;
 
 2. felhívja a nemzeti fejlesztési minisztert, a nemzetgazdasági minisztert és a földművelésügyi minisztert, hogy tegyenek javaslatot a Kormány részére Nyíregyházán új ipari park kialakítását szolgáló intézkedésekre;
 
@@ -62,7 +62,7 @@ Határidő: 2016. február 29.
 
 c) egyetért azzal, hogy a Nyíregyházi Állatpark fejlesztési lehetőségeinek áttekintésére a hazai állatkertek fejlesztésének átfogó koncepciójával foglalkozó külön munkacsoport keretei között kerüljön sor;
 
-7. egyetért azzal, hogy a nyíregyházi tiszavasvári úti sporttelepen kormányzati támogatással atlétikai centrum kerüljön 2018. március 31-ig[^1] megépítésre, és felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy Nyíregyháza Megyei Jogú Város Önkormányzatával együttműködve tegyenek javaslatot a Kormány részére az atlétikai centrum megvalósítását szolgáló beruházás koncepciójára és a beruházás megvalósításának a támogatására;
+7. egyetért azzal, hogy a nyíregyházi tiszavasvári úti sporttelepen kormányzati támogatással atlétikai centrum kerüljön 2018. március 31-ig[^2] megépítésre, és felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy Nyíregyháza Megyei Jogú Város Önkormányzatával együttműködve tegyenek javaslatot a Kormány részére az atlétikai centrum megvalósítását szolgáló beruházás koncepciójára és a beruházás megvalósításának a támogatására;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -78,4 +78,5 @@ emberi erőforrások minisztere
 
 Határidő: 2016. március 31.
 
-[^1]: Az 1528/2017. (VIII. 14.) Korm. határozat alapján a Kormány – a Magyarország Kormánya és Nyíregyháza Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1955/2015. (XII. 17.) Korm. határozat 7. pontjától eltérően – egyetért azzal, hogy 2019. május 31-ig kerüljön megépítésre a nyíregyházi tiszavasvári úti sporttelepen kormányzati támogatással atlétikai centrum.
+[^1]: Az 1. pont az 1209/2018. (IV. 5.) Korm. határozat 5. pontjával megállapított szöveg.
+[^2]: Az 1528/2017. (VIII. 14.) Korm. határozat alapján a Kormány – a Magyarország Kormánya és Nyíregyháza Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1955/2015. (XII. 17.) Korm. határozat 7. pontjától eltérően – egyetért azzal, hogy 2019. május 31-ig kerüljön megépítésre a nyíregyházi tiszavasvári úti sporttelepen kormányzati támogatással atlétikai centrum.
