@@ -12,25 +12,37 @@
 
 ## 7. egyetért azzal, hogy a Budapest VII. kerület, Városligeti fasor 9–11. szám alatti, 33505 helyrajzi számú ingatlan-együttes (a továbbiakban: Ingatlan) – amely alkalmassá tehető az építészeti-építészettörténeti gyűjtemény és a műemléki tudományos gyűjtemények védelmére, szakszerű restaurálására, digitalizálására, feldolgozására, magyarországi és nemzetközi kiállításokra történő előkészítésére, kiállítások bemutatására, a gyűjtemény elhelyezéséhez hosszú távon szükséges raktározási infrastruktúra kialakítására, nyilvános kutatószolgálat működtetésére és az intézményt működtető, annak feladatait ellátó személyi állomány elhelyezésére – az MMA tulajdonába kerüljön;
 
-## 8. felhívja a nemzeti fejlesztési minisztert, hogy
+## 8.[^1] felhívja
 
-## a) intézkedjen – a Miniszterelnökséget vezető miniszter bevonásával – a MÉM-MDK építészeti-építészettörténeti gyűjteményének és a műemlékvédelmi tudományos gyűjteménynek az Ingatlanban történő mielőbbi elhelyezése feltételeinek biztosítása érdekében, továbbá
+## a) a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján tegye meg a szükséges intézkedéseket annak érdekében, hogy a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződés (a továbbiakban: Szerződés) az MMA-val megkötésre kerüljön oly módon, hogy a Szerződés – a tulajdonátruházási szerződésekre vonatkozó általános jogszabályi követelményeken túlmenően – tartalmazza:
 
-## b) gondoskodjon az Ingatlannak az MMA tulajdonába adásáról és a nemzetgazdasági miniszter bevonásával az Ingatlan – 7. pont szerinti céloknak megfelelő – felújításának és átalakításának előkészítéséhez, valamint építési beruházása lebonyolításához szükséges forrás biztosításáról;
+## aa) az Ingatlan tulajdonosi joggyakorló által megállapított forgalmi értékét,
 
-## Felelős: az a) pont tekintetében:
+## ab) az MMA arra vonatkozó nyilatkozatát, hogy az MMA az Ingatlant terhelő kötelezettségeket – ideértve az esetlegesen felmerülő általános forgalmi adó megtérítését is – teljeskörűen átvállalja,
 
-## nemzeti fejlesztési miniszter
+## ac) az MMA arra vonatkozó nyilatkozatát, hogy az MMA vállalja, hogy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (4) bekezdés b) pontjában meghatározott, az átruházott vagyon hasznosításáról szóló beszámolási kötelezettségének – a Szerződés hatálybalépését követő évtől kezdődően – minden év december 31. napjáig írásban eleget tesz,
 
-## Miniszterelnökséget vezető miniszter
+## ad) azon kikötést, amely alapján abban az esetben, ha az MMA az ac) alpontban meghatározott kötelezettségének nem tesz eleget, az aa) alpont szerinti bruttó forgalmi érték 5 százalékát mint késedelmi kötbért köteles az MNV Zrt. erre vonatkozó felhívásának kézhezvételétől számított 30 napon belül megfizetni,
 
-## a b) pont tekintetében:
+## ae) azon kikötést, amely alapján az MMA az Ingatlant az Nvtv. 13. § (4) bekezdés a) pontja szerint az e határozatban és a Szerződésben az adott ingatlanra megjelölt hasznosítási célnak megfelelően köteles használni és hasznosítani,
 
-## nemzeti fejlesztési miniszter
+## af) azon kikötést, amely alapján abban az esetben, ha az MMA az ae) alpontban meghatározott kötelezettségeinek részben vagy egészben nem tesz eleget, az MNV Zrt. az Nvtv. 13. § (7) és (8) bekezdésének megfelelően jár el azzal, hogy az MMA a nemteljesítési kötbért köteles a felszólítás kézhezvételétől számított 60 napon belül az MNV Zrt.-nek megfizetni,
 
-## nemzetgazdasági miniszter
+## b) a Miniszterelnökséget vezető minisztert, hogy intézkedjen a MÉM-MDK építészeti-építészettörténeti gyűjteményének és a műemlékvédelmi tudományos gyűjteménynek az Ingatlanban történő mielőbbi elhelyezése feltételeinek biztosítása érdekében,
 
-## Határidő: azonnal
+## c) a nemzetgazdasági minisztert, hogy gondoskodjon az Ingatlan – 7. pont szerinti céloknak megfelelő – felújításával és átalakításával összefüggő építési beruházás lebonyolításához szükséges forrás biztosításáról;
+
+## Felelős: az a) alpont tekintetében nemzeti fejlesztési miniszter
+
+## a b) alpont tekintetében Miniszterelnökséget vezető miniszter
+
+## a c) alpont tekintetében nemzetgazdasági miniszter
+
+## Határidő: az a) alpont tekintetében az állami vagyont érintő egyes kormányhatározatok módosításáról szóló 1209/2018. (IV. 5.) Korm. határozat közzétételét követő három hónapon belül
+
+## a b) alpont tekintetében az a) alpontban foglaltak megvalósulását követően azonnal
+
+## a c) alpont tekintetében a 9. pontban foglaltak szerint
 
 ## 9. felhívja a nemzetgazdasági minisztert, hogy
 
@@ -83,3 +95,5 @@
 ## Határidő: folyamatos
 
 1. melléklet az 1771/2017. (XI. 7.) Korm. határozathoz
+
+[^1]: A 8. pont az 1209/2018. (IV. 5.) Korm. határozat 8. pontjával megállapított szöveg.
