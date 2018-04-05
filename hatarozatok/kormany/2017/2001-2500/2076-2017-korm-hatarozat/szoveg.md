@@ -1,6 +1,6 @@
 A Kormány
 
-1.[^1] az állami vagyonról szóló 2007. évi CVI. törvény 36. § (2) bekezdés g) pontjában, valamint a 36. § (3) bekezdésében biztosított jogkörében eljárva úgy dönt, hogy a Budapest IX. kerület, belterület 36971 helyrajzi számú, természetben a 1092 Budapest, Kinizsi utca 12. szám alatt található, állami tulajdonban lévő egyedileg védett műemlék ingatlan (a továbbiakban: Ingatlan) a Károli Gáspár Református Egyetem által ellátott oktatási feladatok elősegítése céljából ingyenesen a Magyarországi Református Egyház tulajdonába kerüljön;
+1.[^2] az állami vagyonról szóló 2007. évi CVI. törvény 36. § (2) bekezdés g) pontjában, valamint a 36. § (3) bekezdésében biztosított jogkörében eljárva úgy dönt, hogy a Budapest IX. kerület, belterület 36971 helyrajzi számú, természetben a 1092 Budapest, Kinizsi utca 12. szám alatt található, állami tulajdonban lévő egyedileg védett műemlék ingatlan (a továbbiakban: Ingatlan) a Károli Gáspár Református Egyetem által ellátott oktatási feladatok elősegítése céljából ingyenesen a Magyarországi Református Egyház tulajdonába kerüljön;
 
 2. felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon az Ingatlan átfogó felújítási programja kidolgozásáról (a továbbiakban: Beruházás);
 
@@ -42,13 +42,13 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a 8. pont szerinti jelentés elfogadását követően azonnal
 
-10. felhívja a nemzeti fejlesztési minisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság útján tegye meg a szükséges intézkedéseket annak érdekében, hogy a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződés a Magyarországi Református Egyházzal megkötésre kerüljön úgy, hogy az az ingatlant terhelő kötelezettségeket a tulajdonjog átruházásáról szóló szerződés alapján teljeskörűen átvállalja, ideértve az esetlegesen megfizetésre kerülő általános forgalmi adót is, valamint a szerződésben az ingatlan forgalmi értékeként a tulajdonosi joggyakorló által megállapított forgalmi értéket kell megjelölni;
+10.[^3] felhívja a nemzeti fejlesztési minisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság útján tegye meg a szükséges intézkedéseket annak érdekében, hogy a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződés a Magyarországi Református Egyházzal megkötésre kerüljön úgy, hogy az az ingatlant terhelő kötelezettségeket a tulajdonjog átruházásáról szóló szerződés alapján teljeskörűen átvállalja, ideértve az esetlegesen megfizetésre kerülő általános forgalmi adót is, valamint a szerződésben az ingatlan forgalmi értékeként a tulajdonosi joggyakorló nyilvántartásába bevezetett könyv szerinti értéket kell megjelölni;
 
 Felelős: nemzeti fejlesztési miniszter
 
 Miniszterelnökséget vezető miniszter
 
-Határidő: 2018. március 15.
+Határidő: azonnal
 
 11. felhívja a Miniszterelnökséget vezető minisztert, hogy az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság közreműködésével gondoskodjon az Ingatlan átfogó felújításához szükséges további műszaki szolgáltatási feladatok elvégzéséről, különös tekintettel
 
@@ -64,4 +64,5 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatosan, a beruházás lezárásáig
 
-[^1]: Az 1. pont az 1013/2018. (II. 2.) Korm. határozat 25. pontja szerint módosított szöveg.
+[^2]: Az 1. pont az 1013/2018. (II. 2.) Korm. határozat 25. pontja szerint módosított szöveg.
+[^3]: A 10. pont az 1209/2018. (IV. 5.) Korm. határozat 9. pont a)–b) pontja szerint módosított szöveg.

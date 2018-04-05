@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-2076-30
 | --- | --- | --- |
 | 2017-12-28 | 2017-2076-30-22.1 | 2076/2017. (XII. 28.) Korm. határozat |
 | 2018-02-02 | 2017-2076-30-22.2 | 1013/2018. (II. 2.) Korm. határozat |
+| 2018-04-05 | 2017-2076-30-22.3 | 1494/2022. (X. 19.) Korm. határozat |
