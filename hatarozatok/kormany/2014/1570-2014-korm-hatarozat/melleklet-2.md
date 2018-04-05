@@ -84,7 +84,7 @@
 
 | 41. | Nógrád Község Önkormányzata | Nógrád 550 hrsz. 1/1 | kulturális szolgáltatás, ezen belül kulturális örökség helyi védelme, turizmussal kapcsolatos feladatok/ vár karbantartása, állagmegóvása | kivett várrom | 10638 |
 
-| 42. | Nyíregyháza Megyei Jogú Város Önkormányzata | Nyíregyháza 6019/1/A/1 hrsz. 1/1 | településfejlesztés, településrendezés, kulturális szolgáltatás/ város építészeti örökségének részét képező, az albetétet magába foglaló épület megóvására, az utókor számára történő megmentésére, a Józsa András Múzeum közgyűjteményei elhelyezésére és közművelődési színtér kialakítására, közművelődési tevékenységek végzésére | kivett múzeum | 478 |
+| 42. |  |  |  |  |  |
 
 | 43. | Nyíregyháza Megyei Jogú Város Önkormányzata | Nyíregyháza 5832/3 hrsz. 1/1 | településüzemeltetés/közterület, gyalogosforgalom biztosítása | kivett közterület | 7101 |
 
