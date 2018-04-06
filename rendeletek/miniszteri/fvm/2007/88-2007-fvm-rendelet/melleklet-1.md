@@ -1,4 +1,4 @@
-1. számú melléklet a 88/2007. (VIII. 17.) FVM rendelethez[^58]
+1. számú melléklet a 88/2007. (VIII. 17.) FVM rendelethez[^59]
 
 Célállomány-típusok meghatározása, valamint támogathatóságuk az egyes területeken
 
@@ -410,4 +410,4 @@ Célállomány-típusok meghatározása, valamint támogathatóságuk az egyes t
 
 | 101 | Lomb elegyes-egyéb fenyves | Fenyő | 5 | T | T | T | T | N | N | T | T | T | T | T | N | N | N | T | T | T | T | T | T | T | T | T |
 
-[^58]: Az 1. számú melléklet a 118/2007. (X. 17.) FVM rendelet 3. § (1) bekezdésével megállapított, valamint a 149/2008. (XI. 12.) FVM rendelet 10. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^59]: Az 1. számú melléklet a 118/2007. (X. 17.) FVM rendelet 3. § (1) bekezdésével megállapított, valamint a 149/2008. (XI. 12.) FVM rendelet 10. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.

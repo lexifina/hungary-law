@@ -1,4 +1,4 @@
-15. § (1)[^44] A vis maior kérelmet az Európai Mezőgazdasági Garancia Alapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló rendeletben foglaltak szerint kell benyújtani.
+15. § (1)[^45] A vis maior kérelmet az Európai Mezőgazdasági Garancia Alapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló rendeletben foglaltak szerint kell benyújtani.
 
 (2) Az (1) bekezdés szerinti bejelentéshez csatolni kell
 
@@ -8,4 +8,4 @@ b) a vis maior esetekre vonatkozó egyéb bizonyító erejű dokumentumokat.
 
 (3) Az erdészeti hatóság a vis maiorral érintett területen helyszíni szemlét tart.
 
-[^44]: A 15. § (1) bekezdése a 36/2009. (IV. 3.) FVM rendelet 23. §-ával megállapított szöveg.
+[^45]: A 15. § (1) bekezdése a 36/2009. (IV. 3.) FVM rendelet 23. §-ával megállapított szöveg.

@@ -20,6 +20,8 @@ b) a koordináták pontosságát alátámasztó mérési jegyzőkönyvnek a kés
 
 (7)[^35] A 2011. évben kifizetési kérelem benyújtására – a jogerős elutasító határozattal vagy jogerős, eljárást megszüntető végzéssel rendelkező ügyfél kivételével – az az ügyfél jogosult, aki a 10. § alapján támogatási kérelmet nyújtott be.
 
+(8)[^36] Kötelezett személyében bekövetkező változás esetén a támogatásra jogosult helyébe lépő kötelezettséget átvevő, illetve a jogutód az első kifizetési kérelemben köteles nyilatkozni a kötelezettségátvállalás, illetve a jogutódlás kérelmezésének évére vonatkozóan a 2. § 18. pontja szerinti jövedelméről és a 4. számú melléklet alapján igazolható mezőgazdasági bevételéről.
+
 [^28]: A 12. § (1) bekezdését a 36/2009. (IV. 3.) FVM rendelet 21. §-ának f) pontja hatályon kívül helyezte.
 [^29]: A 12. § (2) bekezdése a 30/2013. (IV. 30.) VM rendelet 3. § (2) bekezdésével megállapított, a 37/2017. (XII. 27.) MvM rendelet 9. § a) pontja szerint módosított szöveg.
 [^30]: A 12. § (2a) bekezdését a 30/2013. (IV. 30.) VM rendelet 3. § (3) bekezdése iktatta be.
@@ -28,3 +30,4 @@ b) a koordináták pontosságát alátámasztó mérési jegyzőkönyvnek a kés
 [^33]: A 12. § (5) bekezdése az 53/2015. (XII. 1.) MvM rendelet 7. §-a, a 37/2017. (XII. 27.) MvM rendelet 9. § c) pontja szerint módosított szöveg.
 [^34]: A 12. § (6) bekezdése a 11/2010. (VIII. 30.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^35]: A 12. § (7) bekezdését a 36/2011. (V. 12.) VM rendelet 9. §-a iktatta be.
+[^36]: A 12. § (8) bekezdését a 8/2018. (III. 29.) MvM rendelet 9. §-a iktatta be.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-88-20-8
 | 2015-11-03 | 2007-88-20-82.14 | 48/2015. (XI. 2.) MvM rendelet |
 | 2015-12-01 | 2007-88-20-82.15 | 53/2015. (XII. 1.) MvM rendelet |
 | 2018-01-01 | 2007-88-20-82.16 | 37/2017. (XII. 27.) MvM rendelet |
+| 2018-04-06 | 2007-88-20-82.17 | 8/2018. (III. 29.) MvM rendelet |
