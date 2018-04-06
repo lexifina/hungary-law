@@ -2,7 +2,7 @@
 
 1. melléklet a 37/2018. (III. 8.) Korm. rendelethez
 
-## A téli rezsicsökkentésként, a földgázt egyetemes szolgáltatás keretében vételező lakossági fogyasztók részére biztosított juttatás 2017/2018-as gázévben megállapított összege
+A téli rezsicsökkentésként, a földgázt egyetemes szolgáltatás keretében vételező lakossági fogyasztók részére biztosított juttatás 2017/2018-as gázévben megállapított összege
 
 1. Az egyetemes szolgáltatóval egyetemes szolgáltatói jogviszonyban álló lakossági fogyasztó részére a 2017/2018-as gázév téli fogyasztási időszakában bekövetkező fogyasztásnövekedés finanszírozását segítő juttatás összege – a 2. és 3. pontban foglaltak kivételével – 12 000 forint.
 
