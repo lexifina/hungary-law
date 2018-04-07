@@ -1,13 +1,13 @@
 ## Légvédelmi készenléti repülés éles függesztett fegyverzettel
 
-4. § (1) A légvédelmi készenléti valós repülés kivételével az éles levegő-levegő rakétákkal függesztett és nem biztosítható fedélzeti tűzfegyverrel rendelkező katonai légijármű a légi célok elfogására szolgáló légvédelmi repülési feladatban csak akkor vehet részt, ha arról végrehajtási parancs külön rendelkezik.
+4. §[^4] (1) A légvédelmi készenléti valós repülés kivételével az éles levegő-levegő rakétákkal függesztett katonai légijármű a légi célok elfogását magában foglaló légvédelmi készenléti repülési feladatban csak akkor vehet részt, ha arról a végrehajtási parancs külön rendelkezik.
 
-(2) Az éles függesztett fegyverzettel, engedéllyel végrehajtott repülési feladat során a következő biztonsági szabályokat kell alkalmazni:
+(2) Az éles felfüggesztett fegyverzettel, engedéllyel végrehajtott légvédelmi készenléti repülési feladat során
 
-a) a légijárművezetőnek minden esetben kerülnie kell a véletlen fegyveralkalmazás lehetőségét magában hordozó manőver végrehajtását,
+a) a légijármű-vezetőnek minden esetben kerülnie kell a véletlen fegyveralkalmazás lehetőségét, és
 
-b) légvédelmi készenléti gyakorló repülés során a légijárművezető a fegyverzet alkalmazására vonatkozó kifejezéseket a rádión folytatott közleményeiben nem alkalmazhat,
+b) a fedélzeti fegyverzeti főkapcsoló alapállapotán változtatni kizárólag a Hvt.-ben meghatározott, légierőre vonatkozó különös fegyverhasználati szabályok alkalmazása esetén lehet.
 
-c) a fedélzeti fegyverzeti főkapcsoló kikapcsolt, biztosított állását a feladat-végrehajtás teljes ideje alatt rendszeresen ellenőrizni kell,
+(3) Az üzembentartó e rendelettel összhangban, a katonai légijármű fegyverrendszerének üzemeltetési utasítása és technikai jellemzői alapján meghatározza az éles függesztett fegyverzettel, engedéllyel végrehajtott légvédelmi készenléti repülési feladat részletes biztonsági rendszabályait és eljárásait.
 
-d) légvédelmi készenléti gyakorló repülés során az elfogás során csak vizuális célazonosítási feladat (VID) hajtható végre; ha a célrepülőgép manővert, szárnybillegtetést hajt végre, az elfogási feladatot azonnal be kell fejezni, és az elfogó légijárműnek szabad irányban ki kell válni.
+[^4]: A 4. § a 4/2018. (III. 8.) HM rendelet 2. §-ával megállapított szöveg.
