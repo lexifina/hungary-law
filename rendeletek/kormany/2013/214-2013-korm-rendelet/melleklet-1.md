@@ -1,6 +1,6 @@
 ## 5. § Ez a rendelet 2014. január 1-jén lép hatályba.
 
-1. melléklet a 214/2013. (VI. 21.) Korm. rendelethez
+1. melléklet a 214/2013. (VI. 21.) Korm. rendelethez[^2]
 
 A Központi Nukleáris Pénzügyi Alapból a társulások részére nyújtott támogatás felosztásának számítási módja
 
@@ -30,8 +30,10 @@ Pi = Ai x Ti / hi
 
 |  | kis és közepes aktivitású radioaktív hulladék végleges elhelyezése, vagy | 4 |
 
-|  | nagy aktivitású radioaktív hulladék végleges elhelyezése | 16,75 |
+|  | nagy aktivitású radioaktív hulladék végleges elhelyezése | 19,75 |
 
 |  | 3. | A létesítmény elhelyezése (h) | Felszíni tároló, vagy | 1 |
 
 |  | felszín alatti tároló | 1,5 |
+
+[^2]: Az 1. melléklet a 70/2018. (IV. 9.) Korm. rendelet 4. §-a szerint módosított szöveg.
