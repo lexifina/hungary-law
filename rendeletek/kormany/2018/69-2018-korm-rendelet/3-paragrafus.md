@@ -1,0 +1,3 @@
+## 2. § Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 5. melléklet VII. A műemléki érték védelmével kapcsolatos szakhatósági állásfoglaláshoz vagy szakkérdések vizsgálatához szükséges dokumentáció cím 2. pont 2.1.1. alpontjában, 2.3.1. alpontjában, valamint 2.3.2. alpontjában a „496/2016. (XII. 28.) Korm. rendelet 9.” szövegrész helyébe a „68/2018. (IV. 9.) Korm. rendelet 12.” szöveg lép.
+
+## 3. A közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet módosítása
