@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-314-20-
 | 2018-01-05 | 2012-314-20-22.25 | 476/2017. (XII. 28.) Korm. rendelet |
 | 2018-02-14 | 2012-314-20-22.26 | 16/2018. (II. 13.) Korm. rendelet |
 | 2018-02-15 | 2012-314-20-22.27 | 19/2018. (II. 14.) Korm. rendelet |
+| 2018-04-10 | 2012-314-20-22.28 | 497/2016. (XII. 28.) Korm. rendelet |
