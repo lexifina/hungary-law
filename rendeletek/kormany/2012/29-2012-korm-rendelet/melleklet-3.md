@@ -1364,7 +1364,7 @@ A II. besorolási osztályban:
 
 érettségi végzettség és vízügyi, vízgazdálkodási, agrártechnikusi végzettség; érettségi végzettség és az OKJ szerint: vízügyi technikus, víz- és szennyvíztechnológus, környezet- és vízgazdálkodási technikus, középfokú informatikai szakképesítés.
 
-135. Kulturális örökségvédelmi hatósági feladatkör
+135.[^148] Kulturális örökségvédelmi hatósági feladatkör
 
 I. besorolási osztályban:
 
@@ -1372,21 +1372,21 @@ Műemlékvédelmi munkaterületen: egyetemi vagy főiskolai szintű építészm�
 
 Régészeti munkaterületen: egyetemi szintű (akkreditált) régész szakképzettség; egyetemi szintű bölcsészettudományi szakképzettség és régészeti szakirányú tudományos fokozat, vagy főiskolai történelem szakos tanári szakképzettség és régész technikusi szakképesítés.
 
-Műtárgyvédelmi munkaterületen: egyetemi szintű művészettörténész, könyvtáros, levéltáros, néprajzos, muzeológus történész szakképzettség; egyetemi vagy főiskolai szintű restaurátor szakképzettség.
+Műtárgyvédelmi munkaterületen: egyetemi szintű jogász, művészettörténész, könyvtáros, levéltáros, néprajzos, muzeológus történész szakképzettség; egyetemi vagy főiskolai szintű restaurátor szakképzettség.
 
-136.[^148] Szerencsejáték ellenőrzési feladatkör
+136.[^149] Szerencsejáték ellenőrzési feladatkör
 
 I. besorolási osztályban:
 
 jogász szakképzettség, egyetemi vagy főiskolai szintű közgazdasági szakképzettség, egyetemi vagy főiskolai szintű pedagógus szakképzettség, államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség, személyügyi szervező szakképzettség, műszaki felsőoktatásban szerzett szakképzettség, főiskolai szintű rendészeti felsőoktatásban szerzett szakképzettség, igazgatásszervező szakképzettség, műszaki menedzser szakképzettség, egyetemi vagy főiskolai szintű végzettség és felsőfokú pénzügyi-számviteli szakképesítés; okleveles kriminológus szakképzettség; közigazgatás-szervező szakképzettség; nemzetközi közszolgálati menedzser szakképzettség.
 
-137.[^149] Szerencsejáték hatósági feladatkör
+137.[^150] Szerencsejáték hatósági feladatkör
 
 I. besorolási osztályban:
 
 jogász szakképzettség, államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség, igazgatásszervező szakképzettség, egyetemi vagy főiskolai szintű közgazdasági szakképezettség; okleveles kriminológus szakképzettség; közigazgatás-szervező szakképzettség; nemzetközi közszolgálati menedzser szakképzettség.
 
-138.[^150] Illetékkiszabással kapcsolatos feladatkör
+138.[^151] Illetékkiszabással kapcsolatos feladatkör
 
 I. besorolási osztályban:
 
@@ -1402,19 +1402,19 @@ Az I. besorolási osztályban:
 
 felsőfokú iskolai végzettség és jogi, ellenőrzési, költségvetési, pénzügyi vagy számviteli munkakörben szerzett legalább kétéves gyakorlat.
 
-140.[^151] Piacfelügyeleti, ellenőrzési feladatkör
+140.[^152] Piacfelügyeleti, ellenőrzési feladatkör
 
 Az I. besorolási osztályban:
 
 jogász szakképzettség; okleveles közigazgatási menedzser és okleveles közigazgatási szakértő szakképzettség, egyetemi vagy főiskolai szintű közgazdasági vagy műszaki felsőoktatásban szerzett szakképzettség; főiskolai szintű igazgatásszervező szakképzettség.
 
-141.[^152] Kormányzati döntés-előkészítési feladatkör
+141.[^153] Kormányzati döntés-előkészítési feladatkör
 
 Az I. besorolási osztályban:
 
 jogász szakképzettség; okleveles közigazgatási menedzser és okleveles közigazgatási szakértő szakképzettség, egyetemi vagy főiskolai szintű műszaki, természettudományi, bölcsészettudományi és egyes társadalomtudományi, közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű igazgatásszervező szakképzettség; okleveles kriminológus szakképzettség; közigazgatás-szervező szakképzettség; nemzetközi közszolgálati menedzser szakképzettség.
 
-142.[^153] Állami támogatásokkal és építtetői fedezetkezelésekkel kapcsolatos feladatkör
+142.[^154] Állami támogatásokkal és építtetői fedezetkezelésekkel kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1424,19 +1424,19 @@ A II. besorolási osztályban:
 
 érettségi végzettség és banki szakügyintéző vagy banki tanácsadó, szakképesített bankreferens, banki ügyintéző, banki, befektetési termékértékesítő, mérlegképes könyvelő, pénzügyi szakügyintéző, pénzügyi tanácsadó, pénzügyi-számviteli ügyintéző, számviteli szakügyintéző szakképesítés.
 
-142.[^154] Integritás tanácsadói feladatkörben:
+142.[^155] Integritás tanácsadói feladatkörben:
 
 Az I. besorolási osztályban:
 
 felsőfokú végzettség és integritás tanácsadó szakképzettség
 
-143.[^155] Bérszámfejtési rendszerek működésével összefüggő feladatkör
+143.[^156] Bérszámfejtési rendszerek működésével összefüggő feladatkör
 
 Az I. besorolási osztályban:
 
 jogász szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) gazdálkodási (gazdasági) szakon szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és felsőfokú pénzügyi, számviteli, munkaügyi, vagy társadalombiztosítási szakképesítés; közigazgatás-szervező szakképzettség; nemzetközi közszolgálati menedzser szakképzettség.
 
-144.[^156] Családtámogatási ellátásokkal összefüggő feladatkör
+144.[^157] Családtámogatási ellátásokkal összefüggő feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1446,7 +1446,7 @@ A II. besorolási osztályban:
 
 érettségi végzettség és egészségügyi, közgazdasági szakképesítés vagy érettségi végzettség és az OKJ szerint: társadalombiztosítási, pénzügyi, végrehajtó-behajtói, munkaügyi, személyügyi, informatikai, számítástechnikai szakképesítés; okleveles kriminológus szakképzettség; közigazgatás-szervező szakképzettség; nemzetközi közszolgálati menedzser szakképzettség.
 
-145.[^157] Értékpapír-forgalmazási feladatkör
+145.[^158] Értékpapír-forgalmazási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1456,19 +1456,19 @@ A II. besorolási osztályban:
 
 érettségi végzettség és banki szakügyintéző, banki tanácsadó, szakképesített bankreferens, banki ügyintéző, banki, befektetési termékértékesítő, mérlegképes könyvelő, pénzügyi szakügyintéző, pénzügyi tanácsadó, pénzügyi-számviteli ügyintéző, számviteli szakügyintéző szakképesítés.
 
-146.[^158] Önkormányzatok költségvetésével összefüggő ellenőrzési feladatkör
+146.[^159] Önkormányzatok költségvetésével összefüggő ellenőrzési feladatkör
 
 Az I. besorolási osztályban:
 
 jogász szakképzettség; egyetemi vagy főiskolai szintű pedagógus vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai végzettség és pénzügyi, mérlegképes könyvelői, költségvetési ellenőri, közigazgatási gazdálkodási és ellenőrzési szakértői, okleveles könyvvizsgálói, okleveles pénzügyi revizori, közoktatási szakértői szakképesítés; közigazgatás-szervező szakképzettség; nemzetközi közszolgálati menedzser szakképzettség.
 
-147.[^159] Nem állami intézmények finanszírozásával és ellenőrzésével kapcsolatos feladatkör
+147.[^160] Nem állami intézmények finanszírozásával és ellenőrzésével kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
 jogász szakképzettség; egyetemi vagy főiskolai szintű pedagógus vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai végzettség és mérlegképes könyvelői, felsőfokú pénzügyi, költségvetési ellenőri, közigazgatási gazdálkodási és ellenőrzési szakértői, okleveles könyvvizsgálói, okleveles pénzügyi revizori, közoktatási szakértői szakképesítés; közigazgatás-szervező szakképzettség; nemzetközi közszolgálati menedzser szakképzettség.
 
-148.[^160] Számlavezetéssel kapcsolatos feladatkör
+148.[^161] Számlavezetéssel kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1478,13 +1478,13 @@ A II. besorolási osztályban:
 
 érettségi végzettség és banki szakügyintéző, banki tanácsadó, szakképesített bankreferens, banki ügyintéző, banki, befektetési termékértékesítő, mérlegképes könyvelő, pénzügyi szakügyintéző, pénzügyi tanácsadó, pénzügyi-számviteli ügyintéző, számviteli szakügyintéző szakképesítés.
 
-149.[^161] Előirányzat-nyilvántartással és finanszírozással kapcsolatos feladatkör
+149.[^162] Előirányzat-nyilvántartással és finanszírozással kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
 egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai végzettség és mérlegképes könyvelői, felsőfokú pénzügyi, költségvetési ellenőri, közigazgatási gazdálkodási és ellenőrzési szakértői, okleveles könyvvizsgálói, okleveles pénzügyi revizori, közoktatási szakértői szakképesítés; közigazgatás-szervező szakképzettség; nemzetközi közszolgálati menedzser szakképzettség.
 
-150.[^162] Költségvetés végrehajtásával kapcsolatos feladatkör
+150.[^163] Költségvetés végrehajtásával kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1494,7 +1494,7 @@ A II. besorolási osztályban:
 
 érettségi végzettség és közgazdasági, pénzügyi-számviteli szakképesítés; közgazdasági szakközépiskolai általános ügyintéző titkár (menedzserasszisztens) szakképesítés; érettségi végzettség és az OKJ szerint: mérlegképes könyvelői, pénzügyi ügyintéző, számviteli ügyintéző, középfokú anyaggazdálkodói, általános gazdasági és statisztikai ügyintéző, gazdasági elemző és szakstatisztikai ügyintéző, költségvetési gazdálkodási szakügyintéző szakképesítés.
 
-151.[^163] Arcképelemzési, kiértékelési tevékenységet támogató feladatkör
+151.[^164] Arcképelemzési, kiértékelési tevékenységet támogató feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1504,7 +1504,7 @@ A II. besorolási osztályban:
 
 érettségi végzettség és egészségügyi szakterületen szerzett OKJ-s szakképesítés; egészségügyi szakközépiskolai oktatásban szerzett érettségi végzettség.
 
-152.[^164] Földtani, geofizikai, környezettudományi, valamint klímapolitikai alap- és alkalmazott kutatási, térinformatikai feladatkör
+152.[^165] Földtani, geofizikai, környezettudományi, valamint klímapolitikai alap- és alkalmazott kutatási, térinformatikai feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1514,7 +1514,7 @@ A II. besorolási osztályban:
 
 érettségi végzettség, műszaki, közgazdasági szakközépiskolai végzettség vagy technikusi képesítés.
 
-153.[^165] Hulladékgazdálkodás ellenőrzésével kapcsolatos feladatkör
+153.[^166] Hulladékgazdálkodás ellenőrzésével kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1645,21 +1645,22 @@ jogász szakképzettség; egyetemi vagy főiskolai szintű környezetmérnöki, 
 [^145]: A 3. melléklet 131. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^146]: A 3. melléklet 133. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^147]: A 3. melléklet 134. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^148]: A 3. melléklet 136. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^149]: A 3. melléklet 137. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^150]: A 3. melléklet 138. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^151]: A 3. melléklet 140. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^152]: A 3. melléklet 141. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^153]: A 3. melléklet 142. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^154]: A 3. melléklet újabb 142. pontját az 50/2013. (II. 25.) Korm. rendelet 12. §-a iktatta be.
-[^155]: A 3. melléklet 143. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^156]: A 3. melléklet 144. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^157]: A 3. melléklet 145. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^158]: A 3. melléklet 146. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^159]: A 3. melléklet 147. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^160]: A 3. melléklet 148. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^161]: A 3. melléklet 149. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^162]: A 3. melléklet 150. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^163]: A 3. melléklet 151. pontját az 58/2016. (III. 25.) Korm. rendelet 3. §-a iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^164]: A 3. melléklet 152. pontját a 230/2017. (VIII. 14.) Korm. rendelet 1. §-a iktatta be.
-[^165]: A 3. melléklet 153. pontját a 230/2017. (VIII. 14.) Korm. rendelet 1. §-a iktatta be.
+[^148]: A 3. melléklet 135. pontja a 69/2018. (IV. 9.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^149]: A 3. melléklet 136. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^150]: A 3. melléklet 137. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^151]: A 3. melléklet 138. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^152]: A 3. melléklet 140. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^153]: A 3. melléklet 141. pontja a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^154]: A 3. melléklet 142. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^155]: A 3. melléklet újabb 142. pontját az 50/2013. (II. 25.) Korm. rendelet 12. §-a iktatta be.
+[^156]: A 3. melléklet 143. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^157]: A 3. melléklet 144. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^158]: A 3. melléklet 145. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^159]: A 3. melléklet 146. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^160]: A 3. melléklet 147. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^161]: A 3. melléklet 148. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^162]: A 3. melléklet 149. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^163]: A 3. melléklet 150. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^164]: A 3. melléklet 151. pontját az 58/2016. (III. 25.) Korm. rendelet 3. §-a iktatta be, szövege a 443/2016. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^165]: A 3. melléklet 152. pontját a 230/2017. (VIII. 14.) Korm. rendelet 1. §-a iktatta be.
+[^166]: A 3. melléklet 153. pontját a 230/2017. (VIII. 14.) Korm. rendelet 1. §-a iktatta be.
