@@ -42,7 +42,7 @@
 
 | 6.2. | A bányászati szakigazgatással kapcsolatos eljárások | 28 000 |
 
-| 7. | Régészeti feltárások engedélyezési eljárása [A kulturális örökség védelmével kapcsolatos szabályokról szóló 496/2016. (XII. 28.) Korm. rendelet 33. § (2) bekezdése] | 8 500 |
+| 7. | Régészeti feltárások engedélyezési eljárása [A kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet 49. § (2) bekezdése] | 8 500 |
 
 | 8. | Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet szerinti eljárások |  |
 
