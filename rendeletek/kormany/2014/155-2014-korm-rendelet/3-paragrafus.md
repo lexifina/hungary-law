@@ -1,8 +1,8 @@
-## 2/A. §[^6] Az e rendeletben használt fogalmakra a 2. §-ban meghatározott fogalmak mellett az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló kormányrendelet szerinti értelmező rendelkezéseket is alkalmazni kell.
+## 2/A. §[^35] Az e rendeletben használt fogalmakra a 2. §-ban meghatározott fogalmak mellett az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló kormányrendelet szerinti értelmező rendelkezéseket is alkalmazni kell.
 
 ## 3. A tároló létesítmény Biztonsági Szabályzata
 
-3. § (1) A tároló létesítmény biztonságára, a tároló létesítmény irányítási rendszerére és a tároló létesítmény életciklus szakasza szerinti tevékenységek végrehajtására és azok felügyeletére vonatkozó részletes biztonsági követelményeket a tároló létesítményekre vonatkozó, az 1. és 2. mellékletben lévő biztonsági szabályzatok tartalmazzák.
+3. § (1)[^36] A tároló létesítmény biztonságára, a tároló létesítmény irányítási rendszerére és a tároló létesítmény életciklus szakasza szerinti tevékenységek végrehajtására és azok felügyeletére vonatkozó részletes biztonsági követelményeket a tároló létesítményekre vonatkozó, az 1–3. mellékletben lévő biztonsági szabályzatok tartalmazzák.
 
 (2) A tároló létesítményre vonatkozó biztonsági szabályzatban rögzített, az atomenergia-felügyeleti szerv feladatkörét érintő követelmények teljesítésének módszerére vonatkozó ajánlásokat az atomenergia-felügyeleti szerv által kiadott útmutatók tartalmazzák. Az útmutatókat az atomenergia-felügyeleti szerv a honlapján közzéteszi.
 
@@ -14,4 +14,5 @@
 
 (6) A tároló létesítményre vonatkozó biztonsági szabályzatot a tudomány eredményeinek, a hazai és nemzetközi tapasztalatoknak a figyelembevételével, legalább tízévente felül kell vizsgálni. Az útmutatók felülvizsgálatára az atomenergia-felügyeleti szerv által meghatározott időszakonként, vagy az engedélyes javaslatára soron kívül kerül sor.
 
-[^6]: A 2/A. §-t a 28/2018. (II. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^35]: A 2/A. §-t a 28/2018. (II. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^36]: A 3. § (1) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 9. § 9. pontja szerint módosított szöveg.

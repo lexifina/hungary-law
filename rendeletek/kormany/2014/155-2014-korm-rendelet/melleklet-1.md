@@ -1,6 +1,6 @@
-## 121. §[^42] Ez a rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, 2013. december 5-i 2013/59/Euratom tanácsi irányelv 28. cikk e)–f) pontjainak, 69. cikk (1) bekezdésének, valamint a 85–86. cikkeinek való megfelelést szolgálja.
+## 121. §[^158] Ez a rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, 2013. december 5-i 2013/59/Euratom tanácsi irányelv 28. cikk e)–f) pontjainak, 69. cikk (1) bekezdésének, valamint a 85–86. cikkeinek való megfelelést szolgálja.
 
-1. melléklet a 155/2014. (VI. 30.) Korm. rendelethez
+1. melléklet a 155/2014. (VI. 30.) Korm. rendelethez[^159]
 
 Biztonsági Szabályzat
 
@@ -42,15 +42,25 @@ c) az engedélyes által alkalmazásra átvett nemzetközi szabályzatokat és s
 
 1.2.2. Biztonsági kultúra
 
-1.2.2.0100. Az irányítási rendszert úgy kell kialakítani, hogy támogassa az erős biztonsági kultúra kialakulását, színvonalának fenntartását és emelését. Ennek érdekében:
+1.2.2.0100. Az irányítási rendszert úgy kell kialakítani, hogy támogassa az erős biztonsági kultúra kialakulását, színvonalának fenntartását és folyamatos fejlesztését, amelyhez a szervezet minden tagja hozzájárul. Ennek érdekében:
 
-a) biztosítani kell, hogy a munkavállalók felismerjék és megértsék a biztonsági kultúra kulcsfontosságú szempontjait,
+a) biztosítja, hogy a munkavállalók egységesen értelmezzék a biztonságot, valamint megismerjék, megértsék és felismerjék a biztonsági kultúra kulcsfontosságú szempontjait,
 
-b) olyan eszközöket kell biztosítani, amelyekkel az engedélyes támogatja a munkavállalókat és azok csoportjait saját feladataik biztonságos és sikeres végrehajtásában, figyelembe véve az egyének, a technológia és a szervezet közötti kölcsönhatást,
+b) olyan eszközöket biztosít, amelyekkel az engedélyes támogatja a munkavállalókat és azok csoportjait saját feladataik biztonságos és sikeres végrehajtásában, figyelembe véve az egyének, a technológia és a szervezet közötti kölcsönhatást,
 
-c) támogatni kell a tanuló és kérdező magatartást a szervezet minden szintjén, továbbá
+c) támogatja a tanuló és kérdező magatartást a szervezet minden szintjén, valamint megelőzi a biztonsággal kapcsolatos túlzott magabiztosságot,
 
-d) olyan eszközöket kell biztosítani, amelyekkel az engedélyes folyamatosan erősíti és fejleszti a biztonsági kultúrát.
+d) támogatja a szervezeti kultúra fejlesztését, amely a szervezeten belül megerősíti a bizalmat, segíti az együttműködést és kommunikációt,
+
+e) támogatja a munkavállalókat abban, hogy jelentsék a műszaki, emberi vagy szervezeti tényezőkkel kapcsolatos problémákat,
+
+f) támogatja a tevékenységek során a biztonság szempontú döntéshozatalt, továbbá
+
+g) olyan eszközöket biztosít, amelyekkel az engedélyes folyamatosan növeli a biztonságot, erősíti, támogatja és fejleszti a biztonsági kultúrát és a rendszerszemléletű megközelítést, valamint a biztonsági és védettségi kultúrák szempontjainak kölcsönös figyelembevételét.
+
+1.2.2.0200. Az irányítási rendszer biztosítja az erős biztonsági kultúrát eredményező hozzáállás szisztematikus fejlesztéséhez és támogatásához szükséges eszközöket. A biztonsági kultúrát fejlesztő és támogató eszközök alkalmasságát és hatékonyságát rendszeres időközönként, az önértékelés és az irányítási rendszer felülvizsgálata során ellenőrzik.
+
+1.2.2.0300. Az engedélyes biztosítja, hogy az 1.2.2.0100. és 1.2.2.0200 pontban megfogalmazott követelményeket a beszállítók is teljesítsék.
 
 1.2.3. Az irányítási rendszerkövetelmények alkalmazásának differenciálása
 
@@ -76,9 +86,11 @@ b) az irányítási rendszer bemutatása,
 
 c) a szervezet felépítésének bemutatása,
 
-d) a funkcionális kötelezettségek, felelősségek, hatásköri szintek és kapcsolódási pontok meghatározása a munkát irányító, végrehajtó és értékelő munkavállalók számára, továbbá
+d) a funkcionális kötelezettségek, felelősségek, hatásköri szintek és kapcsolódási pontok meghatározása a munkát irányító, végrehajtó és értékelő munkavállalók számára,
 
-e) azon folyamatok és támogató információk bemutatása, amelyek megmagyarázzák, hogy a munkát hogyan kell előkészíteni, átvizsgálni, végrehajtani, dokumentálni, értékelni és továbbfejleszteni.
+e) azon folyamatok és támogató információk bemutatása, amelyek megmagyarázzák, hogy a munkát hogyan kell előkészíteni, átvizsgálni, végrehajtani, dokumentálni, értékelni és továbbfejleszteni, és.
+
+f) az érintett külső szervezetekkel való kapcsolatok bemutatása.
 
 1.2.4.0200. Az irányítási rendszer dokumentációját úgy kell kidolgozni, hogy érthető legyen mindazok számára, akik használják. A dokumentumoknak érthetőnek, jól olvashatónak, könnyen azonosíthatónak kell lenniük, és a felhasználás helyén rendelkezésre kell állniuk.
 
@@ -336,4 +348,5 @@ c) a szándékolatlan felhasználásuk megakadályozása érdekében visszautas�
 
 1.6.6.0200. A fejlesztésre irányuló terveknek tartalmazniuk kell a megfelelő erőforrások biztosítását is. A fejlesztő intézkedések végrehajtását egészen azok befejezéséig monitorozni kell, továbbá ellenőrizni kell az adott intézkedés hatásosságát is.
 
-[^42]: A 121. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 28/2018. (II. 28.) Korm. rendelet 7. §-a iktatta be.
+[^158]: A 121. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 28/2018. (II. 28.) Korm. rendelet 7. §-a iktatta be.
+[^159]: Az 1. melléklet a 70/2018. (IV. 9.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.

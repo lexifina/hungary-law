@@ -12,13 +12,13 @@ c) az engedélyes irányítási rendszere megfelel az e rendeletben előírt kö
 
 ca) a dokumentumok és utasítások összhangban vannak a tervezési követelményekkel, valamint a rendszerek és rendszerelemek tényleges állapotával, érvényesek, és azokat betartják,
 
-cb) az engedélyes a jelentési kötelezettségét teljesíti, a jelentéseket az előírásoknak megfelelő tartalommal állítja össze és a biztonságot érintő események kivizsgálásának eredményeként előirányzott javító intézkedéseket végrehajtja,
+cb)[^55] az engedélyes a jelentési kötelezettségét teljesíti, a jelentéseket az előírásoknak megfelelő tartalommal állítja össze és a jelentésköteles események kivizsgálásának eredményeként előirányzott javító intézkedéseket végrehajtja,
 
 cc) az engedélyes a hiányosságokat és az eltéréseket indokolatlan késlekedés nélkül azonosítja, kijavítja, vagy megengedhetőségüket igazolja, és
 
 cd) az engedélyes az összegyűjtött tapasztalatokat hasznosítja, és ennek eredményét továbbadja a beszállítóknak és az atomenergia-felügyeleti szervnek.
 
-(2)[^17]
+(2)[^56]
 
 (3) Az atomenergia-felügyeleti szerv a biztonságot befolyásoló tényezők szempontjából jogosult megvizsgálni az engedélyes szervezetének működését.
 
@@ -30,4 +30,5 @@ cd) az engedélyes az összegyűjtött tapasztalatokat hasznosítja, és ennek e
 
 (7) Az atomenergia-felügyeleti szerv éves ellenőrzési tervet készít, amelyet a honlapján közzétesz, és a közzétételről tájékoztatja az érintett engedélyeseket és hatóságokat.
 
-[^17]: A 30. § (2) bekezdését a 28/2018. (II. 28.) Korm. rendelet 10. § 5. pontja hatályon kívül helyezte.
+[^55]: A 30. § (1) bekezdés c) pont cb) alpontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 15. pontja szerint módosított szöveg.
+[^56]: A 30. § (2) bekezdését a 28/2018. (II. 28.) Korm. rendelet 10. § 5. pontja hatályon kívül helyezte.

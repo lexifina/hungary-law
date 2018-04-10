@@ -1,6 +1,6 @@
-49. § (1) A telephely kutatási keretprogram végrehajtásáról és annak eredményéről komplex zárójelentést kell készíteni, és azt a telepítési engedély iránti kérelemhez mellékelni kell.
+49. § (1)[^84] A telephelykutatási keretprogram végrehajtásáról és annak eredményéről komplex zárójelentést kell készíteni, és azt a telepítési engedély iránti kérelemhez mellékelni kell.
 
-(2) A komplex zárójelentés vagy az egyes kutatási fázisokat értékelő zárójelentés benyújtásának elmulasztása vagy a telepítési engedély kérelem elutasítása esetén a telephely kutatás során megismert földtani adatokat az engedélyes kizárólag az e rendeletben meghatározott tevékenységek végzéséhez szükséges engedély iránti kérelem megalapozásához használhatja fel.
+(2)[^85] A komplex zárójelentés vagy az egyes kutatási fázisokat értékelő zárójelentés benyújtásának elmulasztása vagy a telepítési engedély kérelem elutasítása esetén a telephelykutatás során megismert földtani adatokat az engedélyes kizárólag az e rendeletben meghatározott tevékenységek végzéséhez szükséges engedély iránti kérelem megalapozásához használhatja fel.
 
 (3) A komplex zárójelentés része a földtani kutatás eredményéről készített összefoglaló földtani jelentés, amely legalább a következőket tartalmazza:
 
@@ -22,9 +22,9 @@ h) a kutatási eredmények összefoglalását és értékelését,
 
 i) a jelentéshez felhasznált szakirodalom listáját, megadva a szerzőjét, kiadásának évét, címét és a megjelenés helyét.
 
-(4) A komplex zárójelentéshez mellékelni kell:
+(4)[^86] Az összefoglaló földtani jelentéshez mellékelni kell:
 
-a) a kutatás alapadatait,
+a)[^87] a földtani kutatás alapadatait,
 
 aa) a kutató létesítmények és mintavételi helyek térben (x, y, z koordináták) és időben (a létesítés és a mintavétel kezdő és befejező dátumát) rögzített adatait,
 
@@ -42,4 +42,13 @@ e) a földtani kutatás keretein belül készült szakanyagokat és szakértői 
 
 (5) A kutatást végzőnek az alkalmazott technikai eszközöknek és eljárásoknak olyan leírását kell elkészítenie, amely alapján a vizsgálat reprodukálható.
 
-(6) A komplex zárójelentést és az egyes kutatási fázisokat értékelő zárójelentéseket az általános földtan és a geofizika szakterületre vonatkozóan „általános földtan” és „geofizika” földtani szakértőnek kell ellenjegyeznie.
+(6)[^88] Az összefoglaló földtani jelentést és az egyes kutatási fázisokat értékelő földtani zárójelentéseket zárójelentéseket az általános földtan és a geofizika szakterületre vonatkozóan „általános földtan” és „geofizika” földtani szakértőnek kell ellenjegyeznie.
+
+(7)[^89] A komplex kutatási zárójelentés alapján telepítést megalapozó biztonsági jelentésben kell igazolni a létesítést kizáró telephelyjellemzők hiányát, a kijelölt telephely alkalmasságát és a tervezett hulladékelhelyezési rendszer megfelelőségét.
+
+[^84]: A 49. § (1) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 9. § 16. pontja szerint módosított szöveg.
+[^85]: A 49. § (2) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 9. § 20. pontja szerint módosított szöveg.
+[^86]: A 49. § (4) bekezdés nyitó szövegrésze a 70/2018. (IV. 9.) Korm. rendelet 9. § 21. pontja szerint módosított szöveg.
+[^87]: A 49. § (4) bekezdés a) pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 22. pontja szerint módosított szöveg.
+[^88]: A 49. § (6) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 9. § 23. pontja szerint módosított szöveg.
+[^89]: A 49. § (7) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (8) bekezdése iktatta be.

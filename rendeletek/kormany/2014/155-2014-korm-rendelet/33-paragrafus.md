@@ -2,4 +2,6 @@
 
 (2) A hatósági ellenőrzés alá vont köteles a jegyzőkönyvbe foglalt kötelezésnek az abban meghatározott határidőben eleget tenni. A kötelezés teljesítésére megállapított határidő elmulasztása esetén az atomenergia-felügyeleti szerv a mulasztás okát hivatalból indított eljárásban kivizsgálja és a feltételek fennállása esetén érvényesítési eljárást folytat le.
 
-(3) Az atomenergia-felügyeleti szerv a tároló létesítmény életciklus szakaszának megfelelő sajátos ellenőrzési szempontokat is magába foglaló ellenőrzéseket végez. Az ellenőrzés területeit a tároló létesítmény életciklus szakasza és a jogszabályok előírásai, az ellenőrzés gyakoriságát és részletességét az ellenőrzött terület atomenergia biztonságos alkalmazásához előírt biztonsági fontossága, az atomenergia-felügyeleti szerv engedélyezési, értékelési és ellenőrzési tapasztalatai határozzák meg.
+(3)[^61] Az atomenergia-felügyeleti szerv a tároló létesítmény életciklus szakaszához igazodó ellenőrzéseket végez. Az ellenőrzés területeit a tároló létesítmény életciklus szakasza és a vonatkozó jogszabályok, az ellenőrzés gyakoriságát és részletességét az ellenőrzött terület atomenergia biztonságos alkalmazásának biztonsági fontossága, valamint az engedélyezés és a korábbi értékelési és ellenőrzési tapasztalatok alapján határozza meg az atomenergia-felügyeleti szerv.
+
+[^61]: A 33. § (3) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

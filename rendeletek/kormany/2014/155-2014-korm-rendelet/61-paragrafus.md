@@ -16,19 +16,20 @@ f) igazolni kell a biztonság szempontjából fontos rendszerek és rendszerelem
 
 g) be kell mutatni az üzemeltetést megalapozó biztonsági jelentésben foglaltaknak való megfelelését biztosító ellenőrzési programot,
 
-h) több fázisban történő létesítés esetén igazolni kell a tároló létesítmény üzemeltetésének és létesítésének egyidejűleg történő megvalósíthatóságát, valamint be kell mutatni, hogy miként biztosított az üzemelő tároló létesítményrész biztonságos üzemeltetése, és
+h)[^99] több fázisban történő létesítés esetén igazolni kell a tároló létesítmény üzemeltetésének és létesítésének egyidejűleg történő megvalósíthatóságát, valamint be kell mutatni, hogy miként biztosított az üzemelő tároló létesítményrész biztonságos üzemeltetése,
 
 i) be kell mutatni, hogy az engedélyes miként biztosítja a tároló létesítmény passzív intézményes ellenőrzésre történő átadásáig a biztonság fenntartásához szükséges erőforrásokat,
 
-j)[^20] be kell mutatni, hogy a környezet radioaktív szennyeződése és a lakosság sugárterhelése értékeléséhez szükséges paraméterek mérésére alkalmas berendezéseket üzemeltet, és az ahhoz szükséges eljárásokat,
+j)[^100] be kell mutatni, hogy a környezet radioaktív szennyeződése és a lakosság sugárterhelése értékeléséhez szükséges paraméterek mérésére alkalmas berendezéseket üzemeltet, és az ahhoz szükséges eljárásokat,
 
-k)[^21] igazolni kell, hogy a sugárvédelmi rendszer biztosítja, hogy a dolgozók és a lakosság sugárterhelése ne legyen a megengedettnél magasabb,
+k)[^101] igazolni kell, hogy a sugárvédelmi rendszer biztosítja, hogy a dolgozók és a lakosság sugárterhelése ne legyen a megengedettnél magasabb,
 
-l)[^22] igazolni kell, hogy a kialakított mérőrendszer megfelelően jelzi az esetlegesen környezetbe kikerülő radioizotópok mennyiségét, és
+l)[^102] igazolni kell, hogy a kialakított mérőrendszer megfelelően jelzi az esetlegesen környezetbe kikerülő radioizotópok mennyiségét, és
 
-m)[^23] igazolni kell, hogy az alkalmazott optimalizálási módszerek megfelelnek az ALARA-elvnek.
+m)[^103] igazolni kell, hogy az alkalmazott optimalizálási módszerek megfelelnek az ALARA-elvnek.
 
-[^20]: A 61. § (2) bekezdés j) pontját a 28/2018. (II. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^21]: A 61. § (2) bekezdés k) pontját a 28/2018. (II. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^22]: A 61. § (2) bekezdés l) pontját a 28/2018. (II. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^23]: A 61. § (2) bekezdés m) pontját a 28/2018. (II. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^99]: A 61. § (2) bekezdés h) pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 30. pontja szerint módosított szöveg.
+[^100]: A 61. § (2) bekezdés j) pontját a 28/2018. (II. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^101]: A 61. § (2) bekezdés k) pontját a 28/2018. (II. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^102]: A 61. § (2) bekezdés l) pontját a 28/2018. (II. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^103]: A 61. § (2) bekezdés m) pontját a 28/2018. (II. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be.

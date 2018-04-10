@@ -1,4 +1,4 @@
-## XII/A. Fejezet[^38]
+## XII/A. Fejezet[^154]
 
 ## SUGÁRVÉDELEM
 
@@ -18,4 +18,4 @@ d) nyilvántartások, jelentések, valamint események kezelését,
 
 e) zárt sugárforrások kezelését.
 
-[^38]: A XII/A. fejezetet (114/A–114/B. §) a 28/2018. (II. 28.) Korm. rendelet 6. §-a iktatta be.
+[^154]: A XII/A. fejezetet (114/A–114/B. §) a 28/2018. (II. 28.) Korm. rendelet 6. §-a iktatta be.

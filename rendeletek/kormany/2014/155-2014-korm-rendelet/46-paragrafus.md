@@ -1,5 +1,9 @@
-46. § (1) A telephely kutatási engedélyben az atomenergia-felügyeleti szerv meghatározza az adott kutatási fázis engedélyezett időtartamát, a műszaki-biztonság és a tulajdon védelme érdekében szükséges feltételeket, a kutatási terület közigazgatási megjelölését, a kutatási mélység határát és sarokpontjainak EOV rendszer szerinti koordinátáit, valamint dönt a kutatási terv tartalmának elfogadásáról.
+46. § (1)[^79] A telephelykutatási engedélyben az atomenergia-felügyeleti szerv meghatározza az adott kutatási fázis engedélyezett időtartamát, a műszaki-biztonság és a tulajdon védelme érdekében szükséges feltételeket, a kutatási terület közigazgatási megjelölését, a kutatási mélység határát és sarokpontjainak EOV rendszer szerinti koordinátáit, valamint dönt a kutatási terv tartalmának elfogadásáról.
 
-(2) Az atomenergia-felügyeleti szerv az engedélyes kérelmére a telephely kutatási engedélyt módosítja, ha az engedélyes a kutatást az engedélyezett kutatási időszak alatt befejezni nem tudja vagy a kutatás elvégzéséhez a kutatási feladatok bővítése szükséges.
+(2)[^80] Az atomenergia-felügyeleti szerv az engedélyes kérelmére a telephelykutatási engedélyt módosítja, ha az engedélyes a kutatást az engedélyezett kutatási időszak alatt befejezni nem tudja vagy a kutatás elvégzéséhez a kutatási feladatok bővítése szükséges.
 
-(3) A telephely kutatási engedély módosítása iránti kérelemnek tartalmaznia kell a módosítandó telephely kutatási engedély iránti kérelemhez benyújtott dokumentumok módosított változatát, ha a változtatás érinti azokat.
+(3)[^81] A telephelykutatási engedély módosítása iránti kérelemnek tartalmaznia kell a módosítandó telephely kutatási engedély iránti kérelemhez benyújtott dokumentumok módosított változatát, ha a változtatás érinti azokat.
+
+[^79]: A 46. § (1) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 9. § 18. pontja szerint módosított szöveg.
+[^80]: A 46. § (2) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 9. § 18. pontja szerint módosított szöveg.
+[^81]: A 46. § (3) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 9. § 18. pontja szerint módosított szöveg.

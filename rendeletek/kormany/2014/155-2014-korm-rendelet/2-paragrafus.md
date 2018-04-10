@@ -2,9 +2,9 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-1. „0” állapot: a biztonsági osztályba sorolt rendszerelemek üzemeltetés előtti állapotát jellemző, dokumentált üzemvitel során végrehajtott időszakos ellenőrzések eredményeivel összevethető állapotjellemzők összessége;
+1.[^2] „0” állapot: a biztonsági osztályba sorolt rendszerelemek üzemeltetés előtti állapotjellemzőinek összessége, amely az időszakos ellenőrzések eredményeivel összevethető;
 
-2.[^2] ALARA-elv: a sugárvédelem egyik alapelve, amely szerint bármely ionizáló sugárzást alkalmazó tevékenység esetében a védelmet és biztonságot optimalizálni kell annak érdekében, hogy az egyéni dózisok nagysága, a sugárzásnak kitett személyek száma és a sugárterhelés valószínűsége az észszerűen megvalósítható legalacsonyabb szinten maradjon – tekintettel a gazdasági és társadalmi tényezőkre – az egyéni dóziskorlátokon belül, figyelembe véve a forrásra vonatkozó dózismegszorításokat;
+2.[^3] ALARA-elv: a sugárvédelem egyik alapelve, amely szerint bármely ionizáló sugárzást alkalmazó tevékenység esetében a védelmet és biztonságot optimalizálni kell annak érdekében, hogy az egyéni dózisok nagysága, a sugárzásnak kitett személyek száma és a sugárterhelés valószínűsége az észszerűen megvalósítható legalacsonyabb szinten maradjon – tekintettel a gazdasági és társadalmi tényezőkre – az egyéni dóziskorlátokon belül, figyelembe véve a forrásra vonatkozó dózismegszorításokat;
 
 3. Átalakítás: a tároló létesítmény üzemeltetési életciklus szakasza során
 
@@ -20,13 +20,13 @@ megváltoztatása;
 
 4. Azonos rendszerelem: Az eredetivel anyagában, geometriájában, működési módjában, környezeti állóképességében, megbízhatóságában, gyártási technológiájában, típusában megegyező alkatrész, szerkezeti elem, rendszerelem;
 
-5. Baleset: a tervezési alapon túli esemény, amely során a hatályos előírásokban szereplő határértéket meghaladó sugárterhelés léphet fel;
+5.[^4] Baleset: a tervezési alapon túli esemény;
 
-6.[^3] Baleset-elhárítás: az emberi egészséget és biztonságot, az élet minőségét, a vagyont és a környezetet veszélyeztető baleset következményeinek enyhítését szolgáló intézkedések végrehajtása;
+6.[^5] Baleset-elhárítás: az emberi egészséget és biztonságot, az élet minőségét, a vagyont és a környezetet veszélyeztető baleset következményeinek enyhítését szolgáló intézkedések végrehajtása;
 
 7. Balesetkezelés: tervezési alapon túli esemény során az üzemeltető által végrehajtott intézkedések, amelyek célja:
 
-a) az esemény, valamint az üzemzavar tervezési alapon túli üzemzavarrá, vagy az üzemzavar balesetté való fejlődésének megakadályozása,
+a)[^6] az esemény, valamint az üzemzavar balesetté alakulásának megakadályozása,
 
 b) biztonságos és stabil állapot elérése, valamint
 
@@ -36,17 +36,17 @@ c) a következmények csökkentése;
 
 9. Beszállító: bármely természetes vagy jogi személy, aki, vagy amely az engedélyes részére közvetlen vagy közvetett módon a biztonságot befolyásoló terméket szállít vagy tevékenységet végez;
 
-10. Biztonság: megfelelő üzemeltetési feltételek megvalósítása, balesetek megelőzése, a balesetek következményeinek enyhítése a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója valamennyi életciklus szakaszában, amelynek eredményeként megvalósul a munkavállalóknak, a lakosságnak és a környezet elemeinek ionizáló sugárzásból származó veszélyekkel szembeni védelme;
+10.[^7]
 
 11. Biztonság szempontjából fontos munkakör: a tároló létesítmény biztonságát befolyásoló feladatokat, vagy arra döntéshozói jogkört tartalmazó munkakör, amelyre vonatkozó munkaköri leírásban a biztonság szempontjából fontosnak minősített tevékenység, vagy azzal összefüggő feladat szerepel;
 
-12. Biztonság szempontjából fontos rendszer és rendszerelem: az a rendszer és rendszerelem, amely helytelen működése vagy meghibásodása a tároló létesítmény területén tartózkodó személyek, vagy a lakosság meg nem engedett sugárterhelését okozhatja, továbbá az, amely balesetmegelőző vagy következményenyhítő funkciót lát el, és e rendszer vagy rendszerelem hibája lényeges hatással van a biztonságra azáltal, hogy a hiba fellépése biztonságot veszélyeztető folyamatot indít el, vagy azáltal, hogy a hiba fennállása csökkenti valamely potenciális rendellenesség tervezett kezelésének végrehajtási esélyét;
+12.[^8] Biztonság szempontjából fontos rendszer és rendszerelem: az a rendszer és rendszerelem, amely helytelen működése vagy meghibásodása a tároló létesítmény területén tartózkodó személyek, vagy a lakosság meg nem engedett sugárterhelését okozhatja akár a tároló létesítmény üzemeltetési fázisában, akár a lezárását követően, továbbá az, amely balesetmegelőző vagy következményenyhítő funkciót lát el, és e rendszer vagy rendszerelem hibája lényeges hatással van a biztonságra azáltal, hogy a hiba fellépése biztonságot veszélyeztető folyamatot indít el, vagy azáltal, hogy a hiba fennállása csökkenti valamely potenciális rendellenesség tervezett kezelésének végrehajtási esélyét;
 
-13. Biztonsági elemzés: a biztonsági értékelésnek számításokkal vagy mérnöki megfontolásokkal végzett része, amelynek során bizonyítják, hogy a vizsgált tároló létesítmény, annak valamely rendszere vagy rendszereleme teljesíti a tervezési alap keretein belül előre rögzített biztonsági kritériumokat;
+13.[^9] Biztonsági elemzés: a biztonsági értékelésnek számításokkal vagy mérnöki megfontolásokkal végzett része, amelynek során bizonyítják, hogy a vizsgált tároló létesítmény, annak valamely rendszere vagy rendszereleme teljesíti az előre rögzített biztonsági kritériumokat;
 
-14. Biztonsági értékelés: a tároló létesítmény telephely-kiválasztásával, telepítésével, tervezésével, létesítésével, üzemvitelével, lezárásával kapcsolatos, az engedélyes által végzett vagy végeztetett, valamennyi biztonsági vagy védelmi szempontra kiterjedő értékelés, amelynek célja annak biztosítása, hogy a tároló létesítmény tervezett vagy meglévő kialakítása, az átalakítások, a végrehajtandó vagy megváltoztatott eljárások és üzemviteli gyakorlat, valamint a rendszerek, rendszerelemek öregedése mellett is teljesítse az összes vonatkozó biztonsági követelményt;
+14.[^10] Biztonsági értékelés: a tároló létesítmény telephely-kiválasztásával, telepítésével, tervezésével, létesítésével, üzemvitelével, átalakításával, lezárásával kapcsolatos, az engedélyes által végzett vagy végeztetett, valamennyi biztonsági vagy védelmi szempontra kiterjedő értékelés, amelynek célja annak biztosítása, hogy a tároló létesítmény tervezett vagy meglévő kialakítása, az átalakítások, a végrehajtandó vagy megváltoztatott eljárások és üzemviteli gyakorlat, valamint a rendszerek, rendszerelemek öregedése mellett is teljesítse az összes vonatkozó biztonsági követelményt;
 
-15. Biztonsági funkció: üzemzavar vagy baleset kialakulásának megelőzésére vagy következményeinek korlátozására előirányzott funkció, amely hozzájárul, vagy hozzájárulhat az alapvető biztonsági funkciók teljesüléséhez;
+15.[^11] Biztonsági funkció: a normál üzem radiológiai hatásainak korlátozására vagy enyhítésére, az üzemzavarok vagy balesetek kialakulásának vagy továbbfejlődésének megelőzésére vagy az üzemzavarok vagy balesetek radiológiai következményeinek korlátozására vagy enyhítésére előirányzott funkció, amely hozzájárul vagy hozzájárulhat az alapvető biztonsági funkciók teljesüléséhez;
 
 16. Biztonsági jelentés: a tároló létesítmény egyes életciklus szakaszaira vonatkozó, a kapcsolódó engedélyezéshez szükséges, a biztonsággal összefüggő tények, meggondolások és információk összefoglaló és értékelő dokumentuma;
 
@@ -54,7 +54,7 @@ c) a következmények csökkentése;
 
 18. Biztonsági politika: az engedélyes folyamatosan felülvizsgált és továbbfejlesztett dokumentuma, amely a biztonság iránti vezetői elkötelezettséget tükrözi a magas szintű biztonsági teljesítmény elérése érdekében, amit alátámasztanak a világos, közérthetően megfogalmazott biztonsági célkitűzések, valamint az ezen célok eléréshez szükséges erőforrások biztosítása;
 
-19. Biztonságot érintő esemény: a tároló létesítményben, berendezésben vagy radioaktív anyaggal végzett tevékenység során a sugárbiztonságot érintő esemény, amely a biztonságot kedvezőtlenül befolyásolja, és az emberek nem tervezett sugárterhelését, valamint a környezetbe radioaktív anyagok nem tervezett kibocsátását eredményezheti valamely biztonsági funkció teljesülésének veszélyeztetésével;
+19.[^12]
 
 20. Csere: azonos alkatrésszel történő javítás;
 
@@ -64,27 +64,33 @@ c) a következmények csökkentése;
 
 23. Élettartam: a rendszer vagy rendszerelem alkalmazhatóságának a gyártásától az üzemből történő kivonásáig eltelt időtartamban működési számban vagy igénybevételi ciklusszámban meghatározott értéke, amely alatt a funkció elvesztésének a kockázata még nem számottevő;
 
-24. Ellenőrzött zóna: olyan terület, amelyre besugárzás vagy radioaktív anyaggal való szennyeződés lehetősége miatt külön előírások, köztük sugárvédelmi előírások vonatkoznak, és ahová csak ellenőrzés mellett szabad belépni, vagy onnét kilépni;
+24.[^13]
 
-25. Elszigetelés: a radioaktív hulladéknak az emberi és természeti környezettől való elzárása oly módon, hogy a környezetbe normál körülmények között, vagy attól eltérő állapotok során esetlegesen kikerülő radioaktív anyag kiváltotta hatás az előírt határértékek alatt marad;
+25.[^14] Elszigetelés: anyagok elkülönítése és távol tartása a környezettől, a szándékolt és szándékolatlan emberi tevékenységektől, valamint mindezek hatásaitól;
+
+25a.[^15] Elzárás: anyagok rendszeren, rendszerelemen belüli, rendszerek, rendszerelemek közötti vagy a rendszerek, rendszerelemek felől történő – helyváltoztató – mozgásának a megakadályozása, késleltetése;
 
 26. Esemény: minden olyan beavatkozás, történés vagy ezek hiánya, amely következményeként eltérés mutatkozik az elvárt, tervezett állapottól, és hatással van vagy lehet a tároló létesítmény üzemére, biztonságára;
 
-27. Ésszerűen megvalósítható: a tudomány és a technika aktuális színvonalát figyelembe vevő, ugyanakkor a különböző veszélyek és nem kívánt következmények súlyosságával összhangban lévő intézkedések mértéke, melyet az engedélyes javaslata alapján a hatóság határoz meg;
+27.[^16] Észszerűen megvalósítható: a tudomány és a technika aktuális színvonalát figyelembe vevő, ugyanakkor a különböző veszélyek és nem kívánt következmények súlyosságával összhangban lévő intézkedések mértéke, melyet az engedélyes javaslata alapján a hatóság határoz meg;
 
 28. Független felülvizsgálat: tervezési, elemzési, kivizsgálási eredményeknek a tervezést, elemzést, kivizsgálást elvégző személytől, csoporttól vagy szervezettől független vizsgálata, annak tanúsítása érdekében, hogy a terv, elemzés vagy kivizsgálás megfelel a hatósági követelményeknek, kiválasztott szabványoknak vagy egyéb, megnevezett utasításoknak;
 
-29. Gát: a radioaktív anyagok elszigetelését biztosító rendszerelem, amely meggátolja vagy késlelteti a radioizotópok, és más anyagok mozgását valamely rendszer komponensei között; a gát lehet mesterséges, azaz épített műszaki gát vagy természetes, azaz geológiai gát, mint a radioaktív hulladékok elhelyezési rendszerét alkotó, gát funkciókat ellátó földtani környezet;
+29.[^17] Gát: a radioaktív anyagok elzárását, elszigetelését biztosító rendszer, rendszerelem, ami lehet mesterséges, épített műszaki védelem vagy természetes, azaz geológiai védelem, mint a radioaktív hulladékok elhelyezési rendszerét alkotó funkciókat ellátó földtani környezet;
 
-30. Hasonló rendszerelem: olyan alkatrész, szerkezeti elem, rendszerelem, amelyről a hatóság által elfogadott biztonsági elemzés igazolja, hogy egyenértékű az eredetivel;
+30.[^18] Hasonló rendszerelem: olyan alkatrész, szerkezeti elem, rendszerelem, amelyről a biztonsági elemzés igazolja, hogy egyenértékű az eredetivel;
 
-31. Hulladék átvételi követelményrendszer: a radioaktív hulladék tárolására vagy elhelyezésére irányuló kezelési folyamat részeként a radioaktív hulladék átvételére megfogalmazott előírások a hulladék fizikai-kémiai formájára, izotóp-összetételére, aktivitására, csomagolására;
+31.[^19] Hulladékátvételi követelményrendszer: a radioaktív hulladék tárolására vagy elhelyezésére irányuló kezelési folyamat részeként a radioaktív hulladék átvételére megfogalmazott előírások a hulladék fizikai-kémiai formájára, izotóp-összetételére, aktivitására, csomagolására;
 
 32. Hulladékcsomag: a radioaktív hulladék kondicionálása eredményeként létrejövő termék, amely tartalmazza a hulladékformát, valamilyen csomagolást vagy a belső gátakat;
 
-33. Hulladék elhelyezési rendszer: a radioaktív hulladékok visszanyerés szándéka nélküli elhelyezését biztosító rendszer, beleértve a mesterséges és természetes gátakat alkotó környezetet;
+33.[^20] Hulladék elhelyezési rendszer: a radioaktív hulladékok elhelyezését biztosító rendszer, beleértve a mesterséges és természetes gátakat alkotó környezetet;
+
+33a.[^21] Hulladékelhelyezési rendszer élettartama: azon időszak, amelynek elteltét követően az elhelyezett radioaktív hulladék már nem jelent veszélyt az emberre és környezetre;
 
 34. Hulladékforma: a hulladék fizikai és kémiai formája a kezelést vagy a kondicionálást követően, de még a csomagolást megelőzően;
+
+34a.[^22] Ideiglenes módosítás: a hatályos megvalósulási tervtől, a hatályos üzemviteli dokumentációban rögzített paraméterektől vagy kapcsolási értékektől, az azokban szereplő kapcsolási rendtől eltérő állapot létrehozása rendszerek, rendszerelemek meghibásodása, vagy más, előre nem látható és nem tervezhető kényszerítő ok miatt;
 
 35. INES-minősítés: az események Nemzetközi Atomenergia Ügynökség által létrehozott Nemzetközi Nukleáris Esemény Skála szerint végrehajtott kategorizálása, amelynek célja a lakosság és a szakmai szervezetek közötti tájékoztatás elősegítése, az engedélyes és a hatóság között egyeztetett formában jelezve az esemény biztonsági jelentőségét;
 
@@ -98,15 +104,15 @@ c) a következmények csökkentése;
 
 40. Jogosítványhoz kötött munkakör: a biztonság szempontjából fontos munkakörök, amelyek betöltéséhez a biztonsági szabályzat vagy egyéb hatósági előírás, továbbá az engedélyes oktatást szabályozó dokumentuma a jogosító vizsgát követelményként előírja;
 
-41. Kockázat: valamely potenciálisan veszélyes tevékenység, történés lehetséges kedvezőtlen következményeinek és azok bekövetkezési gyakoriságának együttes mértéke, matematikai szorzata;
+41.[^23] Kockázat: valamely potenciálisan veszélyes tevékenység, történés lehetséges kedvezőtlen következményeinek és azok bekövetkezési gyakoriságának szorzata;
 
-42. Kondicionálás: a hulladéknak szilárd formájúvá történő átalakítása, a hulladék konténerbe helyezése, és a másodlagos konténerezés, amely műveletek alkalmazásával szállításra, tárolásra vagy végső elhelyezésre alkalmas hulladékcsomag állítható elő;
+42.[^24] Kondicionálás: azok a műveletek, amelyek alkalmazásával szállításra, tárolásra vagy végső elhelyezésre alkalmas hulladékcsomag állítható elő, ami megtörténhet a radioaktív hulladéknak szilárd formájúvá való átalakításával, konténerbe helyezésével, illetve szükség esetén másodlagos konténerezéssel (egyesítő csomagolás);
 
-43. Leszerelés: a tároló létesítmény azon rendszerének, rendszerelemének a megszüntetése, amely megvalósítására csak átmeneti jelleggel volt szükség a tároló létesítmény lezárását megelőzően;
+43.[^25] Leszerelés: a tároló létesítmény azon rendszerének, rendszerelemének megszüntetése, amelyre csak átmeneti jelleggel volt szükség;
 
-44. Lezárás: a tároló létesítmény egészét vagy annak egyes elhelyezési rendszereit érintő valamennyi olyan tevékenység és munkálat végrehajtása, amelyek a létesítmény biztonságos állapotának hosszú időn át történő fenntartásához szükségesek;
+44.[^26] Lezárás: a tároló létesítményt érintő valamennyi olyan tevékenység, amelyek célja az üzemeltetés befejezése, és a létesítmény biztonságos állapotának hosszú időn át történő fenntartásához szükséges;
 
-45.[^4]
+45.[^27]
 
 46. Nemmegfelelőség: a követelmények nem teljesülése esetén egy megállapítás, amely rögzíti egy vagy több minőségi jellemző, vagy irányítási rendszer, rendszerelem eltérését vagy hiányát a meghatározott követelményekhez képest;
 
@@ -114,7 +120,7 @@ c) a következmények csökkentése;
 
 48. Nyomástartó berendezés és csővezeték: azok a nyomástartó edények, tartályok, csővezetékek, biztonsági szerelvények és nyomással igénybe vett tartozékok, amelyek valamelyik biztonsági osztályba tartoznak, továbbá a nyomástartó berendezéshez tartoznak a nyomással igénybe vett részekhez közvetlenül kapcsolódó elemek így különösen a karimák, a csonkok, a csatlakozó elemek, az alátámasztások, az emelőfülek;
 
-49.[^5]
+49.[^28]
 
 50. Önértékelés: a felső vezetőség és a vezetőség által lefolytatott rutinszerű és folyamatos eljárás, amely a felelősségi körükbe tartozó összes terület vonatkozásában a teljesítmény hatékonyságának értékelésére szolgál;
 
@@ -128,11 +134,11 @@ c) a következmények csökkentése;
 
 55. Segédrendszer: az a tároló létesítmény működése vagy a biztonsági funkciók teljesítése szempontjából önálló funkcióval nem rendelkező rendszer, melynek rendelkezésre kell állnia más rendszerek, rendszerelemek üzemeltetéséhez, hogy ezek a feladataikat elláthassák;
 
-56. Tároló létesítmény életciklusa: a telephely vizsgálati, telepítési, üzemeltetési, lezárási és aktív intézményes ellenőrzési időszakok együttese;
+56.[^29] Tároló létesítmény életciklusa: a telephely vizsgálati, telepítési, létesítési, üzemeltetési, lezárási és aktív intézményes ellenőrzési időszakok együttese;
 
-57. Telephelykutatás: a telephelyvizsgálat és az ehhez tartozó értékelés a tároló létesítmény biztonsága szempontjából megfelelő telephely kiválasztásának, és a tervezési alapba tartozó adatok meghatározásának céljából végzett vizsgálatok összessége, amelyek kiterjednek a tároló létesítményre potenciális veszélyt jelentő természeti és emberi tevékenységből eredő eseményekre és körülményekre, továbbá azokra a körülményekre, amelyek a tároló létesítmény környezetre gyakorolt hatását befolyásolják;
+57.[^30] Telephelykutatás: a telephelyvizsgálat és az ehhez tartozó értékelés a tároló létesítmény biztonsága szempontjából megfelelő telephely kiválasztásának, és a tervezési alapba tartozó adatok meghatározásának céljából végzett vizsgálatok összessége, amelyek kiterjednek a tároló létesítményre potenciális veszélyt jelentő természeti és emberi tevékenységből eredő eseményekre és körülményekre, továbbá azokra a körülményekre, amelyek a tároló létesítmény biztonságát és a környezetre gyakorolt hatását befolyásolják;
 
-58. Tervezési alap: a tároló létesítmény tervezésekor figyelembe vett állapotok és kezdeti események összessége, amelybe beletartoznak a normálüzem és az üzemzavarok, amelyeknek a tároló létesítmény – a konstrukció megfelelő kialakításával, méretezésével, valamint a biztonsági rendszerek működése révén – meghatározott kritériumok megsértése nélkül ellenáll;
+58.[^31] Tervezési alap: a tároló létesítmény tervezésekor figyelembe vett állapotok és kezdeti események összessége, amelybe beletartoznak a normál üzem és az üzemzavarok, amelyek fennállása esetén a tároló létesítmény és a hulladékelhelyezési rendszer – a konstrukció megfelelő kialakításával, méretezésével, valamint a biztonsági funkciót ellátó rendszerek működése révén – az előre meghatározott biztonsági kritériumoknak megfelel;
 
 59. Üzemzavar: a tervezési alapban feltételezett, a normál üzem következményeitől eltérő hatásokkal járó esemény;
 
@@ -144,15 +150,46 @@ c) a következmények csökkentése;
 
 63. Validálás: annak ellenőrző vizsgálata, hogy a rendszer, rendszerelem, szolgáltatás, módszer, számítási eszköz, számítógép program megfelel-e a funkcionális, a teljesítmény- és interfész követelményeknek az előre meghatározott és írásban rögzített feltételek mellett;
 
+63a.[^32] Védőidom: a tervezett radioaktívhulladék-tároló (rendszerelemeit) körülvevő geológiai térrész, amelyet a biztonsági funkciót ellátó földtani gátak védelme érdekében le kell határolni;
+
 64. Verifikálás: ellenőrző folyamat, amely során megvizsgálják, hogy a rendszer, rendszerelem, szolgáltatás, módszer, számítási eszköz, számítógép program, fejlesztési-, gyártási folyamat minden egyes fázisának terméke kielégíti-e az előző fázis által meghatározott összes követelményt;
 
-65. Veszélyhelyzet: rendkívüli esemény következtében előálló állapot, amelyben a lakosságot, a környezetet érintő következmények elhárítása vagy enyhítése érdekében intézkedésekre van vagy lehet szükség;
+65.[^33]
 
-66. Visszanyerhetőség: a radioaktív hulladék elhelyezési rendszer lezárását megelőzően az ott elhelyezett radioaktív hulladék kiemelése a hulladékok elhelyezési rendszerből;
+66.[^34] Visszanyerhetőség: a radioaktívhulladék-tároló létesítmény lezárását megelőzően az ott elhelyezett radioaktív hulladék további kezelésének lehetősége;
 
 67. Visszatartási pont: egy tevékenység folyamatában meghatározott olyan pont, amelyet követően a tevékenység csak egy kijelölt szervezet jóváhagyása után folytatható.
 
-[^2]: A 2. § 2. pontja a 28/2018. (II. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § 6. pontja a 28/2018. (II. 28.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
-[^4]: A 2. § 45. pontját a 28/2018. (II. 28.) Korm. rendelet 10. § 2. pontja hatályon kívül helyezte.
-[^5]: A 2. § 49. pontját a 28/2018. (II. 28.) Korm. rendelet 10. § 3. pontja hatályon kívül helyezte.
+[^2]: A 2. § 1. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 2. pontja a 28/2018. (II. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 5. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § 6. pontja a 28/2018. (II. 28.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^6]: A 2. § 7. pont a) alpontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^7]: A 2. § 10. pontját a 70/2018. (IV. 9.) Korm. rendelet 10. § 1. pontja hatályon kívül helyezte.
+[^8]: A 2. § 12. pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
+[^9]: A 2. § 13. pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 3. pontja szerint módosított szöveg.
+[^10]: A 2. § 14. pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 4. pontja szerint módosított szöveg.
+[^11]: A 2. § 15. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^12]: A 2. § 19. pontját a 70/2018. (IV. 9.) Korm. rendelet 10. § 2. pontja hatályon kívül helyezte.
+[^13]: A 2. § 24. pontját a 70/2018. (IV. 9.) Korm. rendelet 10. § 3. pontja hatályon kívül helyezte.
+[^14]: A 2. § 25. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^15]: A 2. § 25a. pontját a 70/2018. (IV. 9.) Korm. rendelet 5. § (5) bekezdése iktatta be.
+[^16]: A 2. § 27. pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 5. pontja szerint módosított szöveg.
+[^17]: A 2. § 29. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^18]: A 2. § 30. pontja a 70/2018. (IV. 9.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^19]: A 2. § 31. pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 6. pontja szerint módosított szöveg.
+[^20]: A 2. § 33. pontja a 70/2018. (IV. 9.) Korm. rendelet 10. § 5. pontja szerint módosított szöveg.
+[^21]: A 2. § 33a. pontját a 70/2018. (IV. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^22]: A 2. § 34a. pontját a 70/2018. (IV. 9.) Korm. rendelet 5. § (8) bekezdése iktatta be.
+[^23]: A 2. § 41. pontja a 70/2018. (IV. 9.) Korm. rendelet 10. § 6. pontja szerint módosított szöveg.
+[^24]: A 2. § 42. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^25]: A 2. § 43. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^26]: A 2. § 44. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^27]: A 2. § 45. pontját a 28/2018. (II. 28.) Korm. rendelet 10. § 2. pontja hatályon kívül helyezte.
+[^28]: A 2. § 49. pontját a 28/2018. (II. 28.) Korm. rendelet 10. § 3. pontja hatályon kívül helyezte.
+[^29]: A 2. § 56. pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 7. pontja szerint módosított szöveg.
+[^30]: A 2. § 57. pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 8. pontja szerint módosított szöveg.
+[^31]: A 2. § 58. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (10) bekezdésével megállapított szöveg.
+[^32]: A 2. § 63a. pontját a 70/2018. (IV. 9.) Korm. rendelet 5. § (11) bekezdése iktatta be.
+[^33]: A 2. § 65. pontját a 70/2018. (IV. 9.) Korm. rendelet 10. § 7. pontja hatályon kívül helyezte.
+[^34]: A 2. § 66. pontja a 70/2018. (IV. 9.) Korm. rendelet 5. § (12) bekezdésével megállapított szöveg.

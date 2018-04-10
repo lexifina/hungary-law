@@ -1,8 +1,8 @@
-45. § (1) A telephely kutatási engedély iránti kérelemhez mellékelni kell az adott kutatási fázis kutatási tervdokumentációját.
+45. § (1)[^75] A telephelykutatási engedély iránti kérelemhez mellékelni kell az adott kutatási fázis kutatási tervdokumentációját.
 
-(2) A kutatási tervdokumentáció tartalmazza a telephely kutatási tervet és a bányatérképek méretarányára és tartalmára vonatkozó előírásoknak megfelelő kutatási tervtérképet.
+(2)[^76] A kutatási tervdokumentáció tartalmazza a telephelykutatási tervet és a bányatérképek méretarányára és tartalmára vonatkozó előírásoknak megfelelő kutatási tervtérképet.
 
-(3) A telephely kutatási tervnek tartalmaznia kell:
+(3)[^77] A telephelykutatási tervnek tartalmaznia kell:
 
 a) a tervezett kutatási fázis célját és annak indokolását,
 
@@ -31,3 +31,10 @@ ff) ütemezését és tervezett időtartamát, valamint az adott kutatási fázi
 fg) során várható veszélyeket és az ezek elhárítására tervezett intézkedések leírását, valamint
 
 fh) környezetre és természetre gyakorolt hatásait, továbbá a környezet veszélyeztetésének megelőzésére és csökkentésére tervezett műszaki intézkedéseket, valamint az elvégzendő tájrendezési feladatok ütemezését.
+
+(4)[^78] A telephely földtani környezetének és a földtani gát épségének megóvása érdekében a kutatási engedély kérelemben kezdeményezhető a földtani kutatási terület egészére vagy annak egy részére kutatási védőidom kijelölése, és a védőidommal érintett ingatlanok használati, bányászati, és vízhasználati jogának a kutatási engedély időtartamára szóló átmeneti korlátozása. A korlátozás más jogosultságokat nem érint, részlegesen és időlegesen azonban akadályozhatja az ingatlanok használatát.
+
+[^75]: A 45. § (1) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 9. § 18. pontja szerint módosított szöveg.
+[^76]: A 45. § (2) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 9. § 18. pontja szerint módosított szöveg.
+[^77]: A 45. § (3) bekezdés nyitó szövegrésze a 70/2018. (IV. 9.) Korm. rendelet 9. § 18. pontja szerint módosított szöveg.
+[^78]: A 45. § (4) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (7) bekezdése iktatta be.
