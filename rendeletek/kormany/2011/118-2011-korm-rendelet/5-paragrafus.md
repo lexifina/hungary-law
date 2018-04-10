@@ -6,8 +6,9 @@
 
 ## 5. Felelősség
 
-5. § (1) A nukleáris létesítmények biztonságos üzemeltetéséért, a nukleáris biztonsági követelmények betartásáért és betartatásáért a nukleáris létesítmény teljes életciklusa alatt a felelősséget az engedélyes viseli.
+5. § (1)[^7] A nukleáris létesítmények biztonságáért, a nukleáris biztonsági követelmények betartásáért és betartatásáért, a nukleáris létesítménnyel kapcsolatos tevékenységekért a teljes életciklus alatt a felelősség az engedélyest terheli.
 
 (2) Az e rendeletben előírt követelmények maradéktalan teljesülését az engedélyes igazolja a nukleáris biztonsági hatóság részére.
 
 [^6]: A 4. § a 218/2013. (VI. 21.) Korm. rendelet 5. § b) pontja, a 28/2018. (II. 28.) Korm. rendelet 2. § 1. pontja szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

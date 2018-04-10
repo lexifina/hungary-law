@@ -6,13 +6,14 @@
 
 a) csekély biztonsági jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén az engedélyes írásbeli figyelmeztetése, amelyben a nukleáris biztonsági hatóság azonosítja az előírássértés jellemzőit és jogi alapját, valamint rögzíti a javító intézkedés végrehajtására engedélyezett időtartamot;
 
-b) jelentősebb biztonsági jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén kiegészítő feltételek előírása az engedélyezett tevékenység elvégzéséhez;
+b)[^59] jelentősebb biztonsági jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén kiegészítő feltételek előírása az engedélyezett tevékenység elvégzéséhez, vagy
 
 c) lényeges biztonsági jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén az engedélyezett tevékenység korlátozása, leállítása, az engedély visszavonása; vagy
 
-d)[^50]
+d)[^60]
 
-(3)[^51] A nukleáris biztonsági hatóság minden esetben kötelezi az engedélyest az azonosított eltérések kezelésére és a szükséges intézkedések megtételére, a feltárt eltérések felszámolására, hogy események bekövetkezését megelőzzék vagy az ismételt bekövetkezését megakadályozzák.
+(3)[^61] A nukleáris biztonsági hatóság minden esetben kötelezi az engedélyest az azonosított eltérések kezelésére és a szükséges intézkedések megtételére, a feltárt eltérések felszámolására, hogy események bekövetkezését megelőzzék vagy az ismételt bekövetkezését megakadályozzák.
 
-[^50]: A 24. § (2) bekezdés d) pontját a 357/2014. (XII. 29.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
-[^51]: A 24. § (3) bekezdése a 357/2014. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^59]: A 24. § (2) bekezdés b) pontja a 70/2018. (IV. 9.) Korm. rendelet 2. § 11. pontja szerint módosított szöveg.
+[^60]: A 24. § (2) bekezdés d) pontját a 357/2014. (XII. 29.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^61]: A 24. § (3) bekezdése a 357/2014. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.

@@ -104,19 +104,21 @@
 
 ## 1.2.1.0300. Az engedély iránti kérelem megalapozásaként benyújtott dokumentáció összeállításához felhasznált és a hivatkozott dokumentumokat a nukleáris biztonsági hatóság külön felszólítására kell benyújtani.
 
+## 1.2.1.0310.[^104] Ha az ingatlan tulajdon- vagy vagyonkezelői jogával nem a kérelmező, hanem más nukleáris létesítmény vagy radioaktívhulladék-tároló engedélyese rendelkezik, az engedély iránti kérelemhez mellékelni kell a más nukleáris létesítmény vagy radioaktívhulladék-tároló engedélyesének hozzájáruló nyilatkozatát.
+
 ## 1.2.1.0400. Atomerőmű esetében a nukleáris létesítmény létesítésének, üzembe helyezésének, üzemeltetésének, tervezett üzemidőn túli üzemeltetésének, végleges leállításának és leszerelésének az engedélyezése atomerőművi blokkonként történik. A létesítési, a végleges leállítási és a leszerelési engedély egy atomerőmű több hasonló blokkjára egy eljárásban is kérelmezhető, ha az engedély kiadásának feltételei mindegyik atomerőművi blokk tekintetében fennállnak, de az egyes atomerőművi blokkokról a nukleáris biztonsági hatóság külön-külön dönt. Az engedélyezés feltételeinek fennállását – az engedély iránti kérelemben – az atomerőművi blokkra kell igazolni.
 
 ## 1.2.1.0500. Szervezeti és irányítási átalakítás esetén egy atomerőmű valamennyi blokkjára, műszaki átalakítás, valamint műszaki és szabályozó dokumentumok átalakítása esetében pedig az atomerőmű több hasonló blokkjára egy eljárásban is kérelmezhető és kiadható közös engedély.
 
-## 1.2.2.[^86] Telephely vizsgálati és értékelési engedély, telephelyengedély
+## 1.2.2.[^105] Telephely vizsgálati és értékelési engedély, telephelyengedély
 
 ## Telephely vizsgálati és értékelési engedély
 
 ## Az engedély hatálya
 
-## 1.2.2.0100.[^87] A végleges telephely vizsgálati és értékelési engedély kiadásával a nukleáris biztonsági hatóság a telephely vizsgálati és értékelési program szerinti vizsgálati és értékelési módszerek, valamint elméleti megfontolások megfelelőségét fogadja el, és a telephely vizsgálati és értékelési program alapján szükséges további vizsgálatok elvégzésére jogosít fel.
+## 1.2.2.0100.[^106] A végleges telephely vizsgálati és értékelési engedély kiadásával a nukleáris biztonsági hatóság a telephely vizsgálati és értékelési program szerinti vizsgálati és értékelési módszerek, valamint elméleti megfontolások megfelelőségét fogadja el, és a telephely vizsgálati és értékelési program alapján szükséges további vizsgálatok elvégzésére jogosít fel.
 
-## 1.2.2.0200.[^88] A telephely vizsgálati és értékelési engedély a telephely engedély véglegessé válásáig, de legfeljebb a kiadásától számított 5 évig hatályos. Az engedély időbeli hatálya kérelemre további 5 évre meghosszabbítható, de a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak.
+## 1.2.2.0200.[^107] A telephely vizsgálati és értékelési engedély a telephely engedély véglegessé válásáig, de legfeljebb a kiadásától számított 5 évig hatályos. Az engedély időbeli hatálya kérelemre további 5 évre meghosszabbítható, de a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak.
 
 ## Az engedély iránti kérelem tartalmi követelményei
 
@@ -134,7 +136,7 @@
 
 ## 1.2.2.0500. A telephelyengedély kiadásával a nukleáris biztonsági hatóság a létesítést kizáró telephelyjellemzők hiányának igazolását, továbbá a telephelyvizsgálat lefolytatásának, a telephelyvizsgálat alapján megállapított adatok értékelésének és az értékelésből származtatott telephellyel összefüggő tervezési adatok meghatározásának megfelelőségét, valamint a telephely alkalmasságát fogadja el.
 
-## 1.2.2.0600.[^89] A telephelyengedély a létesítési engedély véglegessé válásáig, de legfeljebb a kiadásától számított 5 évig hatályos. Az engedély időbeli hatálya kérelemre legfeljebb két alkalommal további 5 évre meghosszabbítható, de a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak.
+## 1.2.2.0600.[^108] A telephelyengedély a létesítési engedély véglegessé válásáig, de legfeljebb a kiadásától számított 5 évig hatályos. Az engedély időbeli hatálya kérelemre legfeljebb két alkalommal további 5 évre meghosszabbítható, de a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak.
 
 ## Az engedély iránti kérelem tartalmi követelményei
 
@@ -154,9 +156,9 @@
 
 ## Az engedély hatálya
 
-## 1.2.3.0100.[^90] A létesítési engedély alapján végezhető tevékenységek:
+## 1.2.3.0100.[^109] A létesítési engedély alapján végezhető tevékenységek:
 
-## a) a nukleáris létesítmény létesítéséhez szükséges terület előkészítésének elvégzése, így különösen talajcsere, cölöpözés,
+## a)[^110] a nukleáris létesítmény létesítéséhez szükséges terület előkészítésének elvégzése,,
 
 ## b) nukleáris létesítmény építményei és épületszerkezetei megépítése, biztonsági osztályba sorolt és nem sorolt rendszerelemekből a tervek szerinti rendszerek kialakítása (gyártás, beszerzés, szerelés), továbbá a rendszerek megfelelő összekapcsolásával a teljes nukleáris létesítmény megfelelő kialakítása,
 
@@ -166,33 +168,35 @@
 
 ## e) kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében a továbbépítéssel összefüggő létesítési tevékenységek végrehajtása.
 
-## 1.2.3.0110.[^91] A 1.2.3.0100. pont b) alpontjának rendelkezéseitől eltérően:
+## 1.2.3.0110.[^111] A 1.2.3.0100. pont b) alpontjának rendelkezéseitől eltérően:
 
-## a)[^92] az Előzetes Biztonsági Jelentésben meghatározott, a nukleáris biztonsági hatósággal előzetesen egyeztetett, gyártási engedélyköteles hosszú gyártási idejű berendezésekre, a létesítési engedély iránti kérelem benyújtását követően, a létesítési engedély véglegessé válását megelőzően gyártási engedélyt lehet kérni,
+## a)[^112] az Előzetes Biztonsági Jelentésben meghatározott, a nukleáris biztonsági hatósággal előzetesen egyeztetett, gyártási engedélyköteles hosszú gyártási idejű berendezésekre, a létesítési engedély iránti kérelem benyújtását követően, a létesítési engedély véglegessé válását megelőzően gyártási engedélyt lehet kérni,
 
-## b)[^93] az Előzetes Biztonsági Jelentésben meghatározott, a nukleáris biztonsági hatósággal előzetesen egyeztetett, építési engedélyköteles építményekre a létesítési engedély iránti kérelem benyújtását követően, a létesítési engedély véglegessé válását megelőzően építési engedélyt lehet kérni.
+## b)[^113] az Előzetes Biztonsági Jelentésben meghatározott, a nukleáris biztonsági hatósággal előzetesen egyeztetett, építési engedélyköteles építményekre a létesítési engedély iránti kérelem benyújtását követően, a létesítési engedély véglegessé válását megelőzően építési engedélyt lehet kérni.
 
-## 1.2.3.0120.[^94] A létesítési engedély iránti kérelem elbírálásakor a nukleáris biztonsági hatóság vizsgálja az 1.2.3.0110. pont szerinti engedélyek alapján gyártandó berendezések vagy építendő építmények és épületszerkezetek kérelméhez benyújtott megalapozó információk és a létesítési engedélykérelemmel benyújtott Előzetes Biztonsági Jelentésben szereplő információk összhangját.
+## 1.2.3.0120.[^114] A létesítési engedély iránti kérelem elbírálásakor a nukleáris biztonsági hatóság vizsgálja az 1.2.3.0110. pont szerinti engedélyek alapján gyártandó berendezések vagy építendő építmények és épületszerkezetek kérelméhez benyújtott megalapozó információk és a létesítési engedélykérelemmel benyújtott Előzetes Biztonsági Jelentésben szereplő információk összhangját.
 
-## 1.2.3.0130.[^95] Az 1.2.3.0110. pont a) alpontja szerinti gyártási engedélyt, illetve az 1.2.3.0110. pont b) alpontja szerinti építési engedélyt a hatóság a létesítési engedély kiadása előtt nem adhatja ki.
+## 1.2.3.0130.[^115] Az 1.2.3.0110. pont a) alpontja szerinti gyártási engedélyt, illetve az 1.2.3.0110. pont b) alpontja szerinti építési engedélyt a hatóság a létesítési engedély kiadása előtt nem adhatja ki.
 
-## 1.2.3.0200.[^96] A létesítési engedély az üzembe helyezési engedély véglegessé válásáig, de legfeljebb a kiadásától számított 10 évig hatályos. Az engedély kérelemre további 5 évre meghosszabbítható, de a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak. Kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében a létesítési engedély az utolsó modul üzembe helyezésének megkezdéséig hatályos. Az egyes létesítési szakaszok megkezdése előtt a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak.
+## 1.2.3.0200.[^116] A létesítési engedély az üzembe helyezési engedély véglegessé válásáig, de legfeljebb a kiadásától számított 10 évig hatályos. Az engedély kérelemre további 5 évre meghosszabbítható, de a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak. Kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében a létesítési engedély az utolsó modul üzembe helyezésének megkezdéséig hatályos. Az egyes létesítési szakaszok megkezdése előtt a kérelmezőnek igazolnia kell, hogy az engedélykiadás feltételei továbbra is fennállnak.
 
-## 1.2.3.0210.[^97]
+## 1.2.3.0210.[^117]
 
-## 1.2.3.0220.[^98] Az engedélykérelemben igazolni kell, hogy az 1.2.2 pont szerinti telephely engedéllyel rendelkező telephelyen az engedélykérelemben bemutatott nukleáris létesítmény felépíthető és biztonságosan üzemeltethető.
+## 1.2.3.0220.[^118] Az engedélykérelemben igazolni kell, hogy az 1.2.2 pont szerinti telephely engedéllyel rendelkező telephelyen az engedélykérelemben bemutatott nukleáris létesítmény felépíthető és biztonságosan üzemeltethető.
 
-## 1.2.3.0230.[^99] Az engedélykérelemben igazolni kell, hogy a telephely vizsgálat során meghatározott, a tervezés során figyelembe veendő telephely jellemzőket teljes körűen figyelembe vették, és a külső veszélyeztető tényezőkkel szemben a létesítmény megfelelő védelemmel rendelkezik.
+## 1.2.3.0221.[^119] Az engedélykérelem részeként be kell nyújtani a kiégett üzemanyag kezelésére - a pihentető medencéből való kikerüléstől a végleges elhelyezésig tartó - vonatkozó, hosszú távú stratégiát tartalmazó koncepciótervet.
 
-## 1.2.3.0240.[^100] Az engedély iránti kérelemhez Előzetes Biztonsági Jelentést kell mellékelni, amelyben igazolni kell, hogy a létesítendő nukleáris létesítményre vonatkozó, a létesítési engedélyezési eljárás terjedelembe tartozó nukleáris biztonsági követelmények teljesülnek.
+## 1.2.3.0230.[^120] Az engedélykérelemben igazolni kell, hogy a telephely vizsgálat során meghatározott, a tervezés során figyelembe veendő telephely jellemzőket teljes körűen figyelembe vették, és a külső veszélyeztető tényezőkkel szemben a létesítmény megfelelő védelemmel rendelkezik.
 
-## 1.2.3.0250.[^101] Az Előzetes Biztonsági Jelentésnek igazolnia kell, hogy a tervezés során alkalmazott biztonsági alapelveknek és kritériumoknak az engedélykérelemben bemutatott módon történő teljesülése esetén a megvalósítani szándékozott nukleáris létesítmény biztonságosan üzemeltethető.
+## 1.2.3.0240.[^121] Az engedély iránti kérelemhez Előzetes Biztonsági Jelentést kell mellékelni, amelyben igazolni kell, hogy a létesítendő nukleáris létesítményre vonatkozó, a létesítési engedélyezési eljárás terjedelembe tartozó nukleáris biztonsági követelmények teljesülnek.
 
-## 1.2.3.0260.[^102] Az Előzetes Biztonsági Jelentéshez műszaki megalapozást kell mellékelni, amely megfelel legalább a 9. melléklet 9.3.3.0500. pontjában a műszaki tervvel szemben megfogalmazott követelményeket.
+## 1.2.3.0250.[^122] Az Előzetes Biztonsági Jelentésnek igazolnia kell, hogy a tervezés során alkalmazott biztonsági alapelveknek és kritériumoknak az engedélykérelemben bemutatott módon történő teljesülése esetén a megvalósítani szándékozott nukleáris létesítmény biztonságosan üzemeltethető.
 
-## 1.2.3.0270.[^103] Az Előzetes Biztonsági Jelentésnek és megalapozó dokumentációinak olyan részletezettségűnek kell lennie, hogy a hatóság további dokumentáció felülvizsgálata nélkül meg tudjon győződni a követelmények teljesüléséről.
+## 1.2.3.0260.[^123] Az Előzetes Biztonsági Jelentéshez műszaki megalapozást kell mellékelni, amely megfelel legalább a 9. melléklet 9.3.3.0500. pontjában a műszaki tervvel szemben megfogalmazott követelményeknek. Ezen felül be kell nyújtani a 9. melléklet 9.3.1.0600. pont c) alpontja szerinti létesítménymodellt.
 
-## 1.2.3.0280.[^104] Az atomerőmű Előzetes Biztonsági Jelentésében bemutatandó minimális tartalmi elemek:
+## 1.2.3.0270.[^124] Az Előzetes Biztonsági Jelentésnek és megalapozó dokumentációinak olyan részletezettségűnek kell lennie, hogy a hatóság további dokumentáció felülvizsgálata nélkül meg tudjon győződni a követelmények teljesüléséről.
+
+## 1.2.3.0280.[^125] Az atomerőmű Előzetes Biztonsági Jelentésében bemutatandó minimális tartalmi elemek:
 
 ## a) Bevezetés és az atomerőmű általános áttekintése
 
@@ -224,9 +228,11 @@
 
 ## acd) A létesítési tevékenység hatása már üzemelő nukleáris létesítménnyel rendelkező telephely esetén
 
-## ace) Üzemelő nukleáris létesítménnyel rendelkező telephely átfogó balesetelhárítási terve a létesítés idejére
+## ace)[^126] A 9. melléklet 9.5.3.0510. pontja szerinti követelmény teljesülésének bemutatása,
 
-## acf) Korábbi létesítési tevékenységek során szerzett tapasztalatok, valamint a biztonság szempontjából releváns nem-megfelelőségek bemutatása
+## acf)[^127] Az üzembe helyezés és üzemeltetés időszakára vonatkozó előzetes Nukleárisbaleset-elhárítási Intézkedési terv,
+
+## acg)[^128] Korábbi létesítési tevékenységek során szerzett tapasztalatok, valamint a biztonság szempontjából releváns nem-megfelelőségek bemutatása.
 
 ## ad) Még rendelkezésre nem álló szükséges műszaki információ
 
@@ -246,7 +252,7 @@
 
 ## b) A telephely leírása
 
-## ba) Földrajzi fekvés, a lakosság száma és eloszlása
+## ba)[^129] A telephely határainak EOV koordinátákkal történő meghatározása, földrajzi fekvése, a lakosság száma és eloszlása,
 
 ## bb) A telephely közelében levő ipari, szállításra szolgáló és katonai létesítmények
 
@@ -460,6 +466,10 @@
 
 ## hcc) Fő készüléktípusok
 
+## hcd)[^130] Kábelezés és kábel útvonalak,
+
+## hce)[^131] Földelés, túlfeszültség és villámvédelem.
+
 ## i) Egyéb rendszerek és épületek, építmények
 
 ## ia) Fűtőelem-tárolás és -kezelés
@@ -610,7 +620,7 @@
 
 ## lbb) Aeroszol és nemesgáz formájú radioaktív anyagok
 
-## lbc)[^105] Sugárveszélyes tevékenység(ek) technológiai leírása
+## lbc)[^132] Sugárveszélyes tevékenység(ek) technológiai leírása
 
 ## lc) A sugárvédelem tervezési követelményei
 
@@ -622,9 +632,9 @@
 
 ## lcd) Telepített sugárzás- és aeroszolfigyelő rendszer
 
-## lce)[^106] A sugárvédelem kialakítása során alkalmazott optimálási szempontok
+## lce)[^133] A sugárvédelem kialakítása során alkalmazott optimálási szempontok
 
-## lcf)[^107] Az ellenőrzött, illetve felügyelt területek meghatározásának követelményrendszere és az ellenőrzött, illetve felügyelt területek tervezett meghatározása
+## lcf)[^134] Az ellenőrzött, illetve felügyelt területek meghatározásának követelményrendszere és az ellenőrzött, illetve felügyelt területek tervezett meghatározása
 
 ## ld) Dózisszámítások
 
@@ -632,7 +642,7 @@
 
 ## ldb) Telephelyen kívüli dózisterhelések meghatározása
 
-## ldc)[^108] Reprezentatív csoportra vonatkozó dózisbecslések:
+## ldc)[^135] Reprezentatív csoportra vonatkozó dózisbecslések:
 
 ## ldca) a külső sugárzásból származó dózisok meghatározása, adott esetben a szóban forgó sugárzás típusának megjelölésével,
 
@@ -774,17 +784,17 @@
 
 ## se) A leszerelés rendszerei, eszközei és szervezése.
 
-## 1.2.3.0300.[^109]
+## 1.2.3.0300.[^136]
 
-## 1.2.3.0310.[^110] Az Előzetes Biztonsági Jelentés felépítésére és tartalmára vonatkozó további ajánlásokat útmutató tartalmazza.
+## 1.2.3.0310.[^137] Az Előzetes Biztonsági Jelentés felépítésére és tartalmára vonatkozó további ajánlásokat útmutató tartalmazza.
 
 ## 1.2.3.0400. Az engedély iránti kérelemhez mellékelni kell a telephelyre vonatkozó hatályos helyi építési szabályzatot és szabályozási tervet.
 
-## 1.2.3.0410.[^111] A kiégett üzemanyag átmeneti tárolására szolgáló létesítmény Előzetes Biztonsági Jelentésében az üzemeltetési időszakhoz kapcsolódó létesítési tevékenységeknek az üzemelő létesítmény nukleáris biztonságára gyakorolt hatását be kell mutatni és értékelni kell. Az Előzetes Biztonsági Jelentésben a továbbépítéssel összefüggő átalakítási tevékenységek körét és tartalmát ismertetni kell.
+## 1.2.3.0410.[^138] A kiégett üzemanyag átmeneti tárolására szolgáló létesítmény Előzetes Biztonsági Jelentésében az üzemeltetési időszakhoz kapcsolódó létesítési tevékenységeknek az üzemelő létesítmény nukleáris biztonságára gyakorolt hatását be kell mutatni és értékelni kell. Az Előzetes Biztonsági Jelentésben a továbbépítéssel összefüggő átalakítási tevékenységek körét és tartalmát ismertetni kell.
 
 ## 1.2.3.0500. Az engedély iránti kérelemhez olyan részletességgel kell bemutatni a létesítési tevékenységek ütemezését és megvalósítását, hogy azok alapján a nukleáris biztonsági hatóság meg tudja határozni az ellenőrzési célra felhasználható visszatartási pontokat, és meg tudja tervezni az ellenőrzéseit.
 
-## 1.2.3.0600.[^112] Kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében az Előzetes Biztonsági Jelentést a létesítmény tervezett teljes kiépítésére kell elkészíteni. Ha az üzemeltetése során, a létesítmény továbbépítéséhez szükségessé válik az Előzetes Biztonsági Jelentés módosítása, az Előzetes Biztonsági Jelentés új változatának tartalma az üzemeltetési engedély és az azt megalapozó Végleges Biztonsági Jelentés figyelembe vételével a teljes kiépítéshez szükséges további létesítési tevékenységek terjedelmére szűkíthető.
+## 1.2.3.0600.[^139] Kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében az Előzetes Biztonsági Jelentést a létesítmény tervezett teljes kiépítésére kell elkészíteni. Ha az üzemeltetése során, a létesítmény továbbépítéséhez szükségessé válik az Előzetes Biztonsági Jelentés módosítása, az Előzetes Biztonsági Jelentés új változatának tartalma az üzemeltetési engedély és az azt megalapozó Végleges Biztonsági Jelentés figyelembe vételével a teljes kiépítéshez szükséges további létesítési tevékenységek terjedelmére szűkíthető.
 
 ## 1.2.4. Üzembe helyezési engedély
 
@@ -798,43 +808,43 @@
 
 ## c) az atomerőművi blokk, továbbá kutatóreaktor esetén a névleges teljesítményen történő üzemeltetésre, vagy a kiégett üzemanyag átmeneti tárolója esetén a betárolt kiégett üzemanyaggal történő üzemeltetésre, az üzembe helyezési program sikeres végrehajtását követő időponttól az engedélyben meghatározott időtartamig.
 
-## 1.2.4.0200.[^113] Az üzembe helyezési engedély hatályát veszti, ha a nukleáris létesítmény üzemeltetési engedélye véglegessé vált.
+## 1.2.4.0200.[^140] Az üzembe helyezési engedély hatályát veszti, ha a nukleáris létesítmény üzemeltetési engedélye véglegessé vált.
 
-## 1.2.4.0210.[^114] Kiégett üzemanyag átmeneti tárolására szolgáló létesítmény továbbépítése esetén az üzembe helyezési engedély az üzembe helyezés előtt álló modul üzembe helyezésére jogosít fel, az új modul üzemeltetéséhez az 1.2.5. pont szerinti üzemeltetési engedély megszerzése szükséges.
+## 1.2.4.0210.[^141] Kiégett üzemanyag átmeneti tárolására szolgáló létesítmény továbbépítése esetén az üzembe helyezési engedély az üzembe helyezés előtt álló modul üzembe helyezésére jogosít fel, az új modul üzemeltetéséhez az 1.2.5. pont szerinti üzemeltetési engedély megszerzése szükséges.
 
-## 1.2.4.0300.[^115] Az üzembe helyezési engedély kiadásától számított 12 hónapig hatályos, azonban a nukleáris biztonsági hatóság az üzembe helyezés előkészítéséhez és elvégzéséhez szükséges időt, valamint a létesítmény üzemeltetésének specifikumait figyelembe véve – döntésében külön megfogalmazott indokolás alapján – a hatályát 12 hónaptól eltérő időtartamban is meghatározhatja.
+## 1.2.4.0300.[^142] Az üzembe helyezési engedély kiadásától számított 12 hónapig hatályos, azonban a nukleáris biztonsági hatóság az üzembe helyezés előkészítéséhez és elvégzéséhez szükséges időt, valamint a létesítmény üzemeltetésének specifikumait figyelembe véve – döntésében külön megfogalmazott indokolás alapján – a hatályát 12 hónaptól eltérő időtartamban is meghatározhatja.
 
 ## Az engedély iránti kérelem tartalmi követelményei
 
 ## 1.2.4.0400. Az engedély iránti kérelemben igazolni kell, hogy
 
-## a) a nukleáris létesítmény a tervezői szándéknak megfelelően készült el,
+## a)[^143] a nukleáris létesítmény a terveknek megfelelően készült el,
 
 ## b) a megvalósult állapot összhangban van a jogszabályokban előírt követelményekkel,
 
-## c) az Előzetes Biztonsági Jelentésben leírtakhoz képest megvalósított változtatások megalapozottak,
+## c)[^144] az Előzetes Biztonsági Jelentésben leírtakhoz képest megvalósított változtatások megalapozottak és ha a változtatások engedélyezési kötelezettség alá tartoznak, engedélyezettek,
 
 ## d) a létesítés során felismert, a nukleáris biztonsággal kapcsolatos hiányosságokat megszüntették,
 
-## e)[^116] az előirányzott üzembe helyezési tevékenység alkalmas arra, hogy a nukleáris létesítmény terveknek, nukleáris biztonsági előírásoknak megfelelő működését igazolja, kiégett üzemanyag átmeneti tárolására szolgáló létesítmény továbbépítése esetén a rendelkezésre álló létesítményszintű komplex üzembe helyezési eredmények figyelembevételével,
+## e)[^145] az előirányzott üzembe helyezési tevékenység alkalmas arra, hogy a nukleáris létesítmény terveknek, nukleáris biztonsági előírásoknak megfelelő működését igazolja, kiégett üzemanyag átmeneti tárolására szolgáló létesítmény továbbépítése esetén a rendelkezésre álló létesítményszintű komplex üzembe helyezési eredmények figyelembevételével,
 
-## f)[^117] biztosítottak a biztonságos üzemeltetés feltételei, azaz a nukleáris létesítmény a tervezett üzembe helyezési tevékenységek sikeres végrehajtását követően üzembe vételre alkalmas,
+## f)[^146] biztosítottak a biztonságos üzemeltetés feltételei, azaz a nukleáris létesítmény a tervezett üzembe helyezési tevékenységek sikeres végrehajtását követően üzembe vételre alkalmas,
 
 ## g) biztosított a nukleáris létesítményben keletkező radioaktív hulladék – ideértve atomreaktorok esetén a kiégett üzemanyagot – biztonságos, a tudomány legújabb igazolt eredményeivel, a nemzetközi elvárásokkal, valamint tapasztalatokkal összhangban levő átmeneti tárolása vagy végleges elhelyezése,
 
-## h)[^118] kiégett üzemanyag átmeneti tárolására szolgáló létesítmény továbbépítése esetében a kapcsolódó rendszerek átalakítása megtörtént, és az átalakítás megfelel a vonatkozó előírásoknak, valamint
+## h)[^147] kiégett üzemanyag átmeneti tárolására szolgáló létesítmény továbbépítése esetében a kapcsolódó rendszerek átalakítása megtörtént, és az átalakítás megfelel a vonatkozó előírásoknak,
 
-## i)[^119] kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében a tervezett üzembe helyezési tevékenységek végrehajtása az üzemelő létesítmény nukleáris biztonságát nem csökkenti, az üzembe helyezés biztonságos végrehajtásának feltételei teljesülnek,
+## i)[^148] kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében a tervezett üzembe helyezési tevékenységek végrehajtása az üzemelő létesítmény nukleáris biztonságát nem csökkenti, az üzembe helyezés biztonságos végrehajtásának feltételei teljesülnek,
 
-## j)[^120] a környezet radioaktív szennyeződése és a lakosság sugárterhelése értékeléséhez szükséges paraméterek mérésére alkalmas berendezések, és a vonatkozó eljárások rendelkezésre állnak,
+## j)[^149] a környezet radioaktív szennyeződése és a lakosság sugárterhelése értékeléséhez szükséges paraméterek mérésére alkalmas berendezések, és a vonatkozó eljárások rendelkezésre állnak,
 
-## k)[^121] a sugárvédelmi rendszer biztosítja, hogy a dolgozók és a lakosság sugárterhelése ne legyen az indokoltnál magasabb,
+## k)[^150] a sugárvédelmi rendszer biztosítja, hogy a dolgozók és a lakosság sugárterhelése ne legyen az indokoltnál magasabb,
 
-## l)[^122] a kialakított sugárvédelmi mérőrendszer megfelelően jelzi az esetlegesen környezetbe kikerülő radioizotópok mennyiségét, valamint
+## l)[^151] a kialakított sugárvédelmi mérőrendszer megfelelően jelzi az esetlegesen környezetbe kikerülő radioizotópok mennyiségét, valamint
 
-## m)[^123] az alkalmazott optimálási módszerek megfelelnek az ALARA-elvnek.
+## m)[^152] az alkalmazott optimálási módszerek megfelelnek az ALARA-elvnek.
 
-## 1.2.4.0500.[^124] A kiégett üzemanyag átmeneti tárolására szolgáló létesítmény továbbépítése esetének kivételével az engedély iránti kérelemhez mellékelni kell:
+## 1.2.4.0500.[^153] A kiégett üzemanyag átmeneti tárolására szolgáló létesítmény továbbépítése esetének kivételével az engedély iránti kérelemhez mellékelni kell:
 
 ## a) a Végleges Biztonsági Jelentés előzetes változatát,
 
@@ -846,17 +856,17 @@
 
 ## e) a balesetkezelési eljárások dokumentumait,
 
-## f)[^125] a nukleáris létesítmény Nukleárisbaleset-elhárítási Intézkedési Tervét,
+## f)[^154] a nukleáris létesítmény Nukleárisbaleset-elhárítási Intézkedési Tervét,
 
-## g) a nukleáris létesítmény részletes üzembe-helyezési programját, valamint
+## g)[^155] a nukleáris létesítmény részletes üzembe-helyezési programját,
 
-## h) a 8. § (1) bekezdése szerinti biztonsági politikát,
+## h)[^156] a 8. § (1) bekezdése szerinti biztonsági politikát, valamint,
 
-## i)[^126] a Munkahelyi Sugárvédelmi Szabályzatot.
+## i)[^157] a Munkahelyi Sugárvédelmi Szabályzatot.
 
-## 1.2.4.0510.[^127] Kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetén, az első modul üzembe helyezési engedélyét követően az 1.2.4.0500. pont f) alpontja szerinti dokumentum jóváhagyása az 1.4. pont szerinti átalakítási engedélyezési eljárásban történik. A jóváhagyott dokumentum megléte az üzembe helyezési engedély megadásának előfeltétele.
+## 1.2.4.0510.[^158] Kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetén, az első modul üzembe helyezési engedélyét követően az 1.2.4.0500. pont f) alpontja szerinti dokumentum jóváhagyása az 1.4. pont szerinti átalakítási engedélyezési eljárásban történik. A jóváhagyott dokumentum megléte az üzembe helyezési engedély megadásának előfeltétele.
 
-## 1.2.4.0520.[^128] Kiégett üzemanyag átmeneti tárolására szolgáló létesítmény továbbépítése esetén az engedély iránti kérelemhez mellékelni kell:
+## 1.2.4.0520.[^159] Kiégett üzemanyag átmeneti tárolására szolgáló létesítmény továbbépítése esetén az engedély iránti kérelemhez mellékelni kell:
 
 ## a) a Végleges Biztonsági Jelentés továbbépítéssel érintett szakaszainak előzetes változatát,
 
@@ -866,7 +876,7 @@
 
 ## d) az üzembe helyezési programokat és a programok végrehajtásának előzetes ütemtervét.
 
-## 1.2.4.0600.[^129] A Végleges Biztonsági Jelentés előzetes változatában külön fejezetben kell összefoglalni az Előzetes Biztonsági Jelentés előzetes változatában rögzítettekhez képest bekövetkezett változtatásokat.
+## 1.2.4.0600.[^160] A Végleges Biztonsági Jelentés előzetes változatában külön fejezetben kell összefoglalni az Előzetes Biztonsági Jelentés előzetes változatában rögzítettekhez képest bekövetkezett változtatásokat.
 
 ## 1.2.5. Üzemeltetési engedély
 
@@ -898,21 +908,21 @@
 
 ## b) igazolni kell a nukleáris biztonság szempontjából fontos rendszerek és rendszerelemek állapotváltozásának figyelemmel kíséréséhez és értékeléséhez szükséges „0” állapotra vonatkozó adatok rendelkezésre állását,
 
-## c)[^130] igazolni kell, hogy biztosított a nukleáris létesítményben keletkező radioaktív hulladék – ideértve atomreaktorok esetén a kiégett üzemanyagot – biztonságos, a tudomány legújabb igazolt eredményeivel, a nemzetközi elvárásokkal, valamint tapasztalatokkal összhangban levő átmeneti tárolása vagy végleges elhelyezése,
+## c)[^161] igazolni kell, hogy biztosított a nukleáris létesítményben keletkező radioaktív hulladék – ideértve atomreaktorok esetén a kiégett üzemanyagot – biztonságos, a tudomány legújabb igazolt eredményeivel, a nemzetközi elvárásokkal, valamint tapasztalatokkal összhangban levő átmeneti tárolása vagy végleges elhelyezése,
 
-## d)[^131] be kell mutatni, hogy az engedélyes miként biztosítja az üzemeltetési engedély kérelmezett időbeli hatálya alatt a nukleáris biztonság fenntartásához szükséges erőforrásokat, továbbá
+## d)[^162] be kell mutatni, hogy az engedélyes miként biztosítja az üzemeltetési engedély kérelmezett időbeli hatálya alatt a nukleáris biztonság fenntartásához szükséges erőforrásokat,
 
-## e)[^132] kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében az üzemelő létesítmény biztonságát a nukleáris létesítmény életciklusának üzemeltetési szakaszához kapcsolódó létesítési és üzembe helyezési tevékenységek figyelembe vételével kell igazolni,
+## e)[^163] kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében az üzemelő létesítmény biztonságát a nukleáris létesítmény életciklusának üzemeltetési szakaszához kapcsolódó létesítési és üzembe helyezési tevékenységek figyelembe vételével kell igazolni, továbbá,
 
-## f)[^133] igazolni kell, hogy minden típusú sugárveszélyes munkavégzés megfelelően szabályozva van a Munkahelyi Sugárvédelmi Szabályzatban, összhangban az ALARA-elvvel.
+## f)[^164] igazolni kell, hogy minden típusú sugárveszélyes munkavégzés megfelelően szabályozva van a Munkahelyi Sugárvédelmi Szabályzatban, összhangban az ALARA-elvvel.
 
-## 1.2.5.0700.[^134] Az engedély iránti kérelemhez mellékelni kell az üzembe helyezési engedély alapján lefolytatott tevékenységek tapasztalatai alapján felülvizsgált:
+## 1.2.5.0700.[^165] Az engedély iránti kérelemhez mellékelni kell az üzembe helyezési engedély alapján lefolytatott tevékenységek tapasztalatai alapján felülvizsgált:
 
 ## a) aktualizált Végleges Biztonsági Jelentést, amelynek – az üzembe helyezési vizsgálatok eredményeit is figyelembe véve – igazolnia kell, hogy
 
 ## aa) a nukleáris létesítmény az érvényes tervezési alapnak megfelelően működik,
 
-## ab)[^135] a biztonságos üzemeltetéshez szükséges ellenőrzési, kezelési, üzemzavar-elhárítási és balesetkezelési előírások alkalmasak a megfogalmazott célok elérésére, és
+## ab)[^166] a biztonságos üzemeltetéshez szükséges ellenőrzési, kezelési, üzemzavar-elhárítási és balesetkezelési előírások alkalmasak a megfogalmazott célok elérésére, és
 
 ## ac) a Végleges Biztonsági Jelentésben megfogalmazott üzemeltetési feltételek és korlátok mellett biztosított a biztonságos üzemeltetés,
 
@@ -922,15 +932,15 @@
 
 ## d) az üzemzavarok elhárítását szabályozó kezelési utasítást,
 
-## e) balesetkezelési eljárásokat, valamint
+## e)[^167] balesetkezelési eljárásokat,
 
-## f)[^136] a nukleáris létesítmény Nukleárisbaleset-elhárítási Intézkedési Tervét,
+## f)[^168] a nukleáris létesítmény Nukleárisbaleset-elhárítási Intézkedési Tervét, valamint,
 
-## g)[^137] Munkahelyi Sugárvédelmi Szabályzatot.
+## g)[^169] Munkahelyi Sugárvédelmi Szabályzatot.
 
-## 1.2.5.0800.[^138] Kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetén az üzemzavar-elhárítási utasításokat és indokolt esetben a baleset-kezelési útmutatókat a továbbépítéssel összefüggő létesítési és üzembe helyezési tevékenységek körére is ki kell terjeszteni.
+## 1.2.5.0800.[^170] Kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetén az üzemzavar-elhárítási utasításokat és indokolt esetben a baleset-kezelési útmutatókat a továbbépítéssel összefüggő létesítési és üzembe helyezési tevékenységek körére is ki kell terjeszteni.
 
-## 1.2.5.0900.[^139] A dózismegszorítás értékét üzemeltetési engedély kiadásakor, de legalább az IBF keretén belül felül kell vizsgálni.
+## 1.2.5.0900.[^171] A dózismegszorítás értékét üzemeltetési engedély kiadásakor, de legalább az IBF keretén belül felül kell vizsgálni.
 
 ## 1.2.6. Tervezett üzemidőn túli üzemeltetés engedélye
 
@@ -1010,7 +1020,7 @@
 
 ## i) a tervezett üzemidőn túli üzemeltetés elemzésekkel megalapozott tervezett időtartamát.
 
-## 1.2.6.1500. Az engedély iránti kérelemhez mellékelni kell az alábbi dokumentumok aktuális változatát:
+## 1.2.6.1500.[^172] Az engedély iránti kérelemhez mellékelni kell az alábbi dokumentumok aktualizált változatát:
 
 ## a) az Üzemeltetési Feltételek és Korlátok dokumentum,
 
@@ -1018,11 +1028,11 @@
 
 ## c) az üzemzavarok elhárítását szabályozó kezelési utasítás,
 
-## d) a balesetkezelési eljárások, továbbá
+## d)[^173] a balesetkezelési eljárások,
 
-## e)[^140] a nukleáris létesítmény Nukleárisbaleset-elhárítási Intézkedési Terve,
+## e)[^174] a nukleáris létesítmény Nukleárisbaleset-elhárítási Intézkedési Terve, továbbá,
 
-## f)[^141] a Munkahelyi Sugárvédelmi Szabályzat.
+## f)[^175] a Munkahelyi Sugárvédelmi Szabályzat.
 
 ## 1.2.6.1600. A tervezett üzemidőn túli üzemeltetést megalapozó dokumentáció és az ÜH program tartalmára vonatkozó ajánlásokat útmutató tartalmazza.
 
@@ -1032,7 +1042,7 @@
 
 ## Az engedély hatálya
 
-## 1.2.7.0200.[^142] A végleges üzemeltetési engedély birtokában a nukleáris létesítmény – a jogszabályban előírt egyéb engedélyek megléte esetén – az engedélyben meghatározott feltételekkel és ideig tartható üzemben.
+## 1.2.7.0200.[^176] A végleges üzemeltetési engedély birtokában a nukleáris létesítmény – a jogszabályban előírt egyéb engedélyek megléte esetén – az engedélyben meghatározott feltételekkel és ideig tartható üzemben.
 
 ## 1.2.7.0300. A nukleáris biztonsági hatóság az üzemeltetés nukleáris biztonságát és egyéb körülményeit figyelembe véve szabja meg az engedély időbeli hatályát, de az nem lehet hosszabb a már üzemeltetési engedély birtokában üzemeltetett nukleáris létesítmény tervezett, vagy a tervezett üzemidőn túli üzemeltetésére vonatkozó engedélyében meghatározott üzemidejének visszamaradó részénél.
 
@@ -1040,7 +1050,7 @@
 
 ## 1.2.7.0400. Az engedély iránti kérelemben igazolni kell, hogy
 
-## a) a nukleáris létesítmény biztonságosan üzemeltethető állapotban van, ennek hosszú távú fenntartásához szükséges műszaki és adminisztratív feltételek biztosítottak,
+## a)[^177] a nukleáris létesítmény biztonságosan üzemeltethető állapotban van, ennek hosszú távú fenntartásához szükséges műszaki és adminisztratív feltételek biztosítottak és a sugárvédelmi előírások megfelelőek,
 
 ## b) az engedélyes rendelkezik hosszú távon a nukleáris biztonság fenntartásához szükséges erőforrásokkal, valamint
 
@@ -1066,7 +1076,7 @@
 
 ## 1.2.8.0500. Az engedélyes a leszerelés végrehajtási időszakában a tevékenységek alapjául szolgáló Végleges Leszerelési Tervét minden egyes aktualizálást követően tájékoztatás céljából benyújtja a nukleáris biztonsági hatóságnak.
 
-## 1.2.8.0600. A nukleáris létesítmények megszüntetésének nukleáris biztonsági hatósági felügyelete magában foglalja a végleges leállítási engedély és a leszerelési engedély kérelemre történő kiadását, valamint az azokban meghatározott egyes tevékenységek megkezdéséhez szükséges jóváhagyás megadását a meghatározott feltételek fennállásakor.
+## 1.2.8.0600.[^178] A nukleáris létesítmények megszüntetésének nukleáris biztonsági hatósági felügyelete magában foglalja a végleges leállítási engedély és a leszerelési engedély kérelemre történő kiadását, valamint az azokban meghatározott egyes tevékenységek megkezdéséhez szükséges jóváhagyás megadását a meghatározott feltételek fennállásakor, az 1.2.9. pont szerinti nukleáris biztonsági felügyeletet megszüntető határozat meghozatalát, továbbá az engedélyekben és a határozatban előírtak teljesülésének ellenőrzését.
 
 ## Végleges leállítási engedély
 
@@ -1098,21 +1108,25 @@
 
 ## 1.2.8.1100. Az engedély iránti kérelemhez mellékelni kell
 
-## a) a Végleges Biztonsági Jelentést,
+## a)[^179] a Végleges Biztonsági Jelentés aktualizált változatát,
 
-## b)[^143] a nukleáris létesítmény Nukleárisbaleset-elhárítási Intézkedési Tervét,
+## b)[^180] a nukleáris létesítmény aktualizált Nukleárisbaleset-elhárítási Intézkedési Tervét,
 
-## c) a nukleáris létesítmény jellegétől függően az üzemzavarok elhárítását szabályozó, állapotorientált kezelési utasítás, valamint a balesetkezelési eljárások aktualizált változatát, valamint
+## c)[^181] a nukleáris létesítmény jellegétől függően az üzemzavarok elhárítását szabályozó, állapotorientált kezelési utasítás, valamint a balesetkezelési eljárások aktualizált változatát,
 
-## d)[^144] atomerőművi blokk esetében a Magyar Energetikai és Közmű-szabályozási Hivatal villamosenergia-termelés megszüntetésére vonatkozó engedélyét,
+## d)[^182] atomerőművi blokk esetében a villamos energiatermelés hatósági felügyeletét ellátó államigazgatási szerv villamosenergia-termelés megszüntetésére vonatkozó engedélyét,
 
-## e)[^145] a nukleáris létesítmény végleges üzemen kívül helyezése során megvalósítandó sugárvédelmi intézkedéseket és megalapozásukat, valamint
+## e)[^183] a nukleáris létesítmény végleges üzemen kívül helyezése során megvalósítandó sugárvédelmi intézkedéseket és megalapozásukat, valamint
 
-## f)[^146] a Munkahelyi Sugárvédelmi Szabályzatot.
+## f)[^184] a Munkahelyi Sugárvédelmi Szabályzatot.
+
+## g)[^185] a nukleáris létesítmény végleges üzemen kívül helyezésének tervét és a leszerelési terv aktualizált változatát,
+
+## h)[^186] a nukleáris létesítmény végleges leállítása és a leszerelés közötti esetleges védett megőrzés időszaka alatt a szükséges mértékű állapotfenntartást célzó intézkedési tervet és annak megalapozását,
 
 ## Leszerelési engedély
 
-## 1.2.8.1200. A leszerelési engedély jogszabályban előírt egyéb engedélyek megléte és az engedélyben rögzített feltételek teljesülése esetén a nukleáris létesítmény megszüntetésére, rendszereinek, rendszerelemeinek megszüntetésére és leszerelésére, az 1.5.1.0400. pont figyelembevételével az építmények és épületszerkezetek lebontására, továbbá a telephely korlátozott vagy korlátlan hasznosításához szükséges egyéb tevékenységek elvégzésére jogosít fel. Az engedély tartalmazza a leszerelési tevékenységek befejezésének kritériumait.
+## 1.2.8.1200.[^187] A leszerelési engedély jogszabályban előírt egyéb engedélyek megléte és az engedélyben rögzített feltételek teljesülése esetén a nukleáris létesítmény megszüntetése céljából, rendszereinek, rendszerelemeinek megszüntetésére és leszerelésére, az 1.5.1.0400. pont figyelembevételével az építmények és épületszerkezetek lebontására, továbbá a telephely korlátozott vagy korlátlan hasznosításához szükséges egyéb tevékenységek elvégzésére jogosít fel. Az engedély tartalmazza a leszerelési tevékenységek befejezésének kritériumait.
 
 ## 1.2.8.1300. A nukleáris biztonsági hatóság a leszerelési engedélyben
 
@@ -1124,11 +1138,9 @@
 
 ## d) meghatározza a leszerelés során benyújtandó rendszeres és eseti jelentéseket és azok tartalmát.
 
-## 1.2.8.1400. A leszerelési engedély időbeli hatálya 10 évnél nem lehet hosszabb. Ha a leszerelés előkészítő szakasza védett megőrzési időszakot is magában foglal, akkor az engedély időbeli hatálya kérelemre meghosszabbítható, legfeljebb a védett megőrzés időtartamával.
+## 1.2.8.1400.[^188] A leszerelési engedély időbeli hatálya 10 év. Ha a leszerelés szakasza védett megőrzési időszakot is magában foglal, az engedély időbeli hatálya legfeljebb a védett megőrzés időtartamával hosszabb lehet.
 
-## Az engedély iránti kérelem tartalmi követelményei
-
-## 1.2.8.1500. Az engedély iránti kérelemben be kell mutatni:
+## 1.2.8.1500.[^189] Az engedély iránti kérelemnek tartalmaznia kell:
 
 ## a) a leszerelési tevékenység tervét,
 
@@ -1136,15 +1148,13 @@
 
 ## c) a terv végrehajtásához szükséges műszaki, szervezési és egyéb feltételeket, továbbá azok biztosítási módját,
 
-## d) a nukleáris biztonság megalapozását,
+## d) a tapasztalatok és a tudásmegőrzés módját,
 
-## e)[^147] a sugárvédelmi célkitűzéseket és azok betartásának módját,
+## e) a sugárvédelmi célkitűzéseket és azok betartásának módját, valamint
 
-## f)[^148] a radioaktív hulladékok elhelyezésének, feldolgozásának, felszabadításának és szállításának módját,
+## f) a radioaktív hulladékok elhelyezésének, feldolgozásának, felszabadításának és szállításának módját.
 
-## g) a tervezett végső állapot elérése ellenőrzésének tervezett módszerét.
-
-## 1.2.8.1600.[^149] Az engedély iránti kérelemhez mellékelni kell:
+## 1.2.8.1600.[^190] Az engedély iránti kérelemhez mellékelni kell:
 
 ## a) a Végleges Leszerelési Tervet és annak megalapozását,
 
@@ -1194,7 +1204,7 @@
 
 ## a) a főjavítás tervét, valamint
 
-## b) a fűtőelem-mozgatás tervét, előzetes kartogramjait, az aktív zóna előzetes töltettervét és biztonsági megalapozását.
+## b)[^191] a fűtőelemköteg-mozgatás tervét, előzetes kartogramjait, az aktív zóna előzetes töltettervét és biztonsági megalapozását.
 
 ## 1.2.11.0500. Az újraindítás engedélykérelmét és az 1.2.11.0400. pont szerinti dokumentumokat az atomerőművi blokk fűtőelemcseréjével járó tervezett leállása előtt legalább 2 héttel kell benyújtani.
 
@@ -1220,9 +1230,9 @@
 
 ## 1.3.1.0100. Az 1.3. pont rendelkezéseit a nukleáris létesítmény létesítési életciklus szakasza során kell alkalmazni.
 
-## 1.3.1.0200.[^150] Modulrendszerű nukleáris létesítmény létesítése esetén az egyes modulokhoz legyártandó rendszerelemeket 1.3. pontban foglaltak szerint, az építményeket, épületszerkezeteket az 1.5. pontban foglaltak szerint kell engedélyeztetni. Azon meglévő rendszerek, rendszerelemek átalakítására, amelyeknek ki kell szolgálniuk a már üzemelő és újonnan létesített modulokat is, az 1.4. pont előírásait kell alkalmazni.
+## 1.3.1.0200.[^192] Modulrendszerű nukleáris létesítmény létesítése esetén az egyes modulokhoz legyártandó rendszerelemeket 1.3. pontban foglaltak szerint, az építményeket, épületszerkezeteket az 1.5. pontban foglaltak szerint kell engedélyeztetni. Azon meglévő rendszerek, rendszerelemek átalakítására, amelyeknek ki kell szolgálniuk a már üzemelő és újonnan létesített modulokat is, az 1.4. pont előírásait kell alkalmazni.
 
-## 1.3.1.0300. Nagyobb darabszámban beépítendő vagy felszerelendő, a beépítés helyétől, biztonsági és földrengés-biztonsági osztályba sorolásából, továbbá az ellátandó funkcióból származtatott egységes követelményeknek megfelelő rendszerelemek gyártására vagy beszerzésére a nukleáris biztonsági hatóság gyártási vagy beszerzési típusengedélyt ad ki. A típusengedély iránti kérelem tartalmára és hatályára az 1.3.2. és 1.3.3. pontban foglaltakat kell alkalmazni.
+## 1.3.1.0300.[^193] Több beépítendő vagy felszerelendő, a beépítés helyétől, biztonsági és földrengés-biztonsági osztályba sorolásából, továbbá az ellátandó funkcióból származtatott egységes követelményeknek megfelelő rendszerelem gyártására vagy beszerzésére a nukleáris biztonsági hatóságtól gyártási vagy beszerzési típusengedély is kérelmezhető. A típusengedély iránti kérelem tartalmára és hatályára az 1.3.2. és 1.3.3. pontban foglaltakat kell alkalmazni.
 
 ## 1.3.2. Gyártási engedély
 
@@ -1236,7 +1246,9 @@
 
 ## d) a 3. biztonsági osztályba sorolt, nukleáris biztonsági hatósági engedélyezési kötelezettség alá tartozó nyomástartó berendezések és csővezetékek, amennyiben kereskedelmi termékként nem szerezhetők be.
 
-## e)[^151] a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében a kiemelten fontos és fontos biztonsági osztályba tartozó rendszerelemek és szoftverek, amelyek kereskedelmi termékként nem szerezhetők be.
+## e)[^194] a 3. biztonsági osztályba sorolt, TAK1-2 üzemállapot kezelésére szolgáló rendszerelemek,
+
+## f)[^195] a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében a kiemelten fontos és fontos biztonsági osztályba tartozó rendszerelemek és szoftverek, amelyek kereskedelmi termékként nem szerezhetők be.
 
 ## Az engedély hatálya
 
@@ -1252,13 +1264,13 @@
 
 ## a) a rendszerelem megnevezését, biztonsági és földrengés-biztonsági osztályba sorolását, a rendszerelem által ellátott biztonsági funkció megnevezését;
 
-## b)[^152] a rendszer megnevezését, amelyhez a rendszerelem tartozik, a beépítés helyét és a rendszerelem feladatát az atomerőművi blokk, illetve a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény minden tervezett üzemállapotában;
+## b)[^196] a rendszer megnevezését, amelyhez a rendszerelem tartozik, a beépítés helyét és a rendszerelem feladatát az atomerőművi blokk, illetve a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény minden tervezett üzemállapotában;
 
 ## c) a jogszabályban és a nukleáris létesítmény Előzetes Biztonsági Jelentésében a rendszerelemre, a beépítés helyére, a biztonsági és földrengés-biztonsági osztályra meghatározott, a gyártás során figyelembe veendő műszaki és minőségi követelményeket;
 
 ## d) a nukleáris biztonsági követelmények figyelembevételét igazoló tervezői nyilatkozatokat;
 
-## e) a rendszerelem tervezési alapját;
+## e)[^197] a rendszerelem tervezési alapját, tervezési specifikációját és ezek megalapozó dokumentumait;
 
 ## f) méretezési információt;
 
@@ -1274,7 +1286,7 @@
 
 ## l) a rendszerelem megfelelőségét igazoló átadási dokumentáció tartalmi követelményeit;
 
-## m) a gyártómű vagy a tervező által kidolgozott, az üzemeltetés feltételeire és korlátjaira, továbbá az üzemeltetésre és a karbantartásra vonatkozó előírásokat;
+## m)[^198] rendszerelemre a gyártómű vagy a tervező által kidolgozott, az üzemeltetés feltételeire és korlátaira vonatkozó előírásokat, továbbá az üzemeltetésével, műszaki állapotának fenntartásával kapcsolatos előírásokat, kritériumokat, módszereket, programokat és azok időbeli ütemezését;
 
 ## n) a rendszerelem karbantartásához és javításához szükséges, kopó és stratégiai tartalék alkatrészek listáját; valamint
 
@@ -1284,13 +1296,13 @@
 
 ## 1.3.3.0100. A nukleáris biztonsági hatóság által kiadott engedély alapján szerezhetők be:
 
-## a) az 1. biztonsági osztályba tartozó speciális célú rendszerelem, így különösen légtelenítő-, ürítő-, mérési elvételi helyre beszerelendő csővezetékek és szerelvényeik;
+## a)[^199] az 1. biztonsági osztályba tartozó a 3.3.1.1800. és a 3a.3.1.2200. pontokban kivételként szereplő rendszerelemek;
 
 ## b) a 2. biztonsági osztályba tartozó rendszerelemek, valamint nyomástartó berendezések és csővezetékek; továbbá
 
 ## c) a 3. biztonsági osztályba sorolt, nukleáris biztonsági hatósági engedélyezési kötelezettség alá tartozó nyomástartó berendezések és csővezetékek;
 
-## d)[^153] a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében a kiemelten fontos és fontos biztonsági osztályba tartozó rendszerelemek.
+## d)[^200] a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény esetében a kiemelten fontos és fontos biztonsági osztályba tartozó rendszerelemek.
 
 ## Az engedély hatálya
 
@@ -1306,11 +1318,11 @@
 
 ## a) a kereskedelmi termék megnevezését, biztonsági és földrengés-biztonsági osztályba sorolását, a rendszerelem által ellátott biztonsági funkció megnevezését;
 
-## b)[^154] a rendszer megnevezését, amelyhez a kereskedelmi terméket be kívánják építeni, a beépítés helyét és az ellátandó feladatot az atomerőművi blokk, illetve a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény minden tervezett üzemállapotában;
+## b)[^201] a rendszer megnevezését, amelyhez a kereskedelmi terméket be kívánják építeni, a beépítés helyét és az ellátandó feladatot az atomerőművi blokk, illetve a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény minden tervezett üzemállapotában;
 
-## c) a jogszabályban és a nukleáris létesítmény előzetes biztonsági jelentésében a kereskedelmi termék tervezett beépítés helyére, a biztonsági és földrengés-biztonsági osztályra meghatározott, a beszerzés során figyelembe veendő műszaki és minőségi követelményeket;
+## c)[^202] a jogszabályban és a nukleáris létesítmény előzetes biztonsági jelentésében a kereskedelmi termék tervezett beépítés helyére, a biztonsági és földrengés-biztonsági osztályra meghatározott, a beszerzés során figyelembe veendő műszaki és minőségi követelményeket;
 
-## d) a rendszerelem tervezési alapját;
+## a)[^203] a rendszerelem tervezési alapját, tervezési specifikációját, és ezek megalapozó dokumentumait;
 
 ## e) méretezési információt;
 
@@ -1334,7 +1346,7 @@
 
 ## j) a kereskedelmi termék alkalmazási referenciájára vonatkozó információt;
 
-## k) a gyártómű vagy a tervező által kidolgozott, a kereskedelmi termék üzemeltetésének feltételeire és korlátjaira, továbbá az üzemeltetésre és karbantartásra vonatkozó előírásokat;
+## k)[^204] a rendszerelemre a gyártómű vagy a tervező által kidolgozott, a kereskedelmi termék üzemeltetésének feltételeire és korlátjaira vonatkozó előírásokat, továbbá az üzemeltetésével, műszaki állapotának fenntartásával kapcsolatos előírásokat, kritériumokat, módszereket, programokat és azok időbeli ütemezését;
 
 ## l) a rendszerelem karbantartásához és javításához szükséges, kopó és stratégiai tartalék alkatrészek listáját;
 
@@ -1344,7 +1356,7 @@
 
 ## 1.3.4. Szerelési engedély
 
-## 1.3.4.0100.[^155] A nukleáris biztonsági hatóság által kiadott engedély alapján végezhető a szerelése:
+## 1.3.4.0100.[^205] A nukleáris biztonsági hatóság által kiadott engedély alapján végezhető a szerelése:
 
 ## a) az 1. biztonsági osztályba tartozó rendszerelemeknek, illetve
 
@@ -1364,7 +1376,7 @@
 
 ## a) a rendszerelem megnevezését, biztonsági és földrengés-biztonsági osztályba sorolását, a rendszerelem által ellátott biztonsági funkció megnevezését;
 
-## b)[^156] a rendszerelem feladatát az atomerőművi blokk, illetve a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény minden tervezett üzemállapotában;
+## b)[^206] a rendszerelem feladatát az atomerőművi blokk, illetve a kiégett üzemanyag átmeneti tárolására szolgáló létesítmény minden tervezett üzemállapotában;
 
 ## c) a jogszabályban és a nukleáris létesítmény Előzetes Biztonsági Jelentésében a rendszerelemre, a beépítés helyére, a biztonsági és földrengés-biztonsági osztályra meghatározott, a szerelésre vonatkozó műszaki és minőségi követelményeket, továbbá a gyártmány tervezője által előírtakat;
 
@@ -1406,7 +1418,7 @@
 
 ## da) a gyártási vagy beszerzési engedélyezési és a megvalósulási tervdokumentációval,
 
-## db) a jogszabályban, a nukleáris létesítmény előzetes biztonsági jelentésében a rendszerelemre, a beépítés helyére, a biztonsági és földrengés-biztonsági osztályra meghatározott műszaki és minőségi követelményekkel, továbbá
+## db)[^207] a jogszabályban, a nukleáris létesítmény Előzetes Biztonsági Jelentésében a rendszerelemre, a beépítés helyére, a biztonsági és földrengés-biztonsági osztályra meghatározott műszaki és minőségi követelményekkel, továbbá
 
 ## dc) a gyártmány tervezője által tett előírásokkal;
 
@@ -1428,9 +1440,11 @@
 
 ## 1.4. AZ ÁTALAKÍTÁSOK NUKLEÁRIS BIZTONSÁGI HATÓSÁGI FELÜGYELETE
 
-## 1.4.1.0100. Az 1.4. pont előírásait a nukleáris létesítmény üzembe helyezésének és üzemeltetésének életciklus-szakaszaiban kell alkalmazni. A létesítés időszakában elhatározott átalakításokat az üzembe helyezési engedély iránti kérelmet megalapozó dokumentációban kell bemutatni azzal a részletességgel, ahogy az adott kérdés a létesítési engedélyezési dokumentációban szerepelt. Kivételt képeznek a létesítési engedélyben meghatározott, kiemelkedően fontos rendszerek és rendszerelemek, amelyek esetében az átalakításokat a létesítési engedélyben foglalt egyedi előírások szerint kell előkészíteni és végrehajtani. A nukleáris létesítmény végleges leállításának és leszerelésének életciklus-szakaszában a vonatkozó engedélyekben foglalt előírások szerint kell eljárni a műszaki konfiguráció, a szervezeti felépítés, az irányítási rendszer, valamint a műszaki és szabályozó dokumentumok átalakítása esetében.
+## 1.4.1.0100.[^208] Az 1.4. pont előírásait a nukleáris létesítmény üzembe helyezésének és üzemeltetésének életciklus-szakaszaiban kell alkalmazni. A létesítés időszakában elhatározott, az engedélyekben rögzítettektől való eltérések kezelésére az 1.10. pont előírásait kell alkalmazni. A nukleáris létesítmény megszüntetésének életciklus-szakaszában a vonatkozó engedélyekben foglalt előírások szerint kell eljárni a műszaki konfiguráció, a szervezeti felépítés, az irányítási rendszer, valamint a műszaki és szabályozó dokumentumok átalakítása esetében.
 
 ## 1.4.1.0200. Az átalakítások nukleáris biztonsági hatósági felügyelete azok nukleáris biztonsági jelentősége alapján differenciált eszközökkel valósul meg, de valamennyi műszaki, dokumentációs és szervezeti átalakításra, továbbá az ideiglenes módosításokra kiterjed. A differenciálás az átalakítások 4. melléklet 4.8.2.0800. pontja, 5. melléklet 5.3.13.0300.–5.3.13.0500. pontja, 6. melléklet 6.3.9.0700.–6.3.9.0900. pontja szerinti kategorizálása alapján történik. A nukleáris biztonsági hatósági engedélyezési kötelezettség alá tartozó átalakításokkal szemben támasztott tartalmi és formai követelmények nem függnek az átalakított nukleáris létesítmény, rendszer vagy rendszerelem tervezett fennmaradási idejétől. A nukleáris biztonsági hatóságot nem befolyásolhatja az átalakítás tervezett megvalósítási időpontja a megalapozó dokumentáció felülvizsgálati módszerének meghatározásában.
+
+## 1.4.1.0210.[^209] Az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendelet 6. mellékletének hatálya alá tartozó nukleáris létesítmények esetében a létesítmény programozható rendszereit érintő átalakítások esetében a programozható rendszerek védelmére vonatkozó kockázatelemzést kell készíteni.
 
 ## Tájékoztatás az elhatározott átalakításokról, nukleáris biztonsági hatósági felügyeleti terv
 
@@ -1458,21 +1472,23 @@
 
 ## 1.4.1.0900. Ha az atomerőművi blokk esetében a kiviteli tervezés befejezését követően a műszaki átalakítás a 4. melléklet 4.8.3.1000. pontja alapján felülvizsgált kategóriája eltér az Átalakítási Formalapban meghatározott kategorizálás eredményétől, akkor a módosított Átalakítási Formalapot meg kell küldeni a nukleáris biztonsági hatóságnak. Ha a korábban 1. vagy 2. kategóriába sorolt átalakítás új besorolása 3. kategória, akkor az engedélyes az átalakítás iránti engedélykérelmét visszavonja, vagy kérelmet nyújt be a kiadott átalakítási engedély visszavonására, amennyiben pedig a korábban 3. kategóriába sorolt átalakítás új besorolása 2. vagy 1. kategória, akkor haladéktalanul új Átalakítást Megalapozó Dokumentációt állít össze, és átalakítási engedély iránti kérelmet nyújt be.
 
-## 1.4.1.1000. Ha az átalakítás előkészítése vagy végrehajtása során az átalakítási engedély alapját képező Átalakítást Megalapozó Dokumentációban szereplő információ megváltozik, akkor arról az engedélyes haladéktalanul tájékoztatja a nukleáris biztonsági hatóságot, szükség esetén a korábbi engedély visszavonását és új engedély kiadását kérelmezi.
+## 1.4.1.1000.[^210] Ha az átalakítás előkészítése vagy végrehajtása során az átalakítási engedély alapját képező Átalakítást Megalapozó Dokumentációban szereplő információ megváltozik, akkor arról az engedélyes haladéktalanul írásban tájékoztatja a nukleáris biztonsági hatóságot, szükség esetén a korábbi engedély visszavonását és új engedély kiadását kérelmezi.
 
 ## Az átalakítások nukleáris biztonsági hatósági felügyelete
 
 ## 1.4.1.1100. Az átalakítási folyamat során a nukleáris biztonsági hatóság – felügyeleti tervének megfelelően – eseti ellenőrzéseket végezhet, figyelembe véve az átalakítás nukleáris biztonsági jelentőségét. Az ellenőrzések tapasztalatai alapján elemzések, értékelések elkészítését írhatja elő, határozatban kötelezheti az engedélyest dokumentumok, tevékenységek módosítására és kijavítására, további tevékenységek elvégzésére, valamint azok elvégzését megtilthatja, ha a nukleáris biztonsági követelmények megsértését állapítja meg.
 
-## 1.4.1.1200.[^157] Engedélyezett műszaki átalakítások esetében, az üzembe helyezés megkezdését megelőzően harminc nappal - a kutatóreaktor kivételével - a nukleáris létesítmény engedélyese a 4. melléklet 4.8.3.1500. pontja, valamint a 6. melléklet 6.3.9.2100. pontja szerinti Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentációt tájékoztatásul megküldi a nukleáris biztonsági hatóságnak. Ha az engedélyezett műszaki átalakítás esetében nem történik üzembe helyezés, akkor a nukleáris biztonsági hatóság az engedélyben a kérelem szerinti műszaki átalakítás jellemzőinek figyelembevételével jelöli ki azt az eseményt, amelyet megelőzően harminc nappal kell benyújtani az Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentációt.
+## 1.4.1.1200.[^211] Engedélyezett műszaki átalakítások esetében, az üzembe helyezés megkezdését megelőzően harminc nappal - a kutatóreaktor kivételével - a nukleáris létesítmény engedélyese a 4. melléklet 4.8.3.1500. pontja, valamint a 6. melléklet 6.3.9.2100. pontja szerinti Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentációt tájékoztatásul megküldi a nukleáris biztonsági hatóságnak. Ha az engedélyezett műszaki átalakítás esetében nem történik üzembe helyezés, akkor a nukleáris biztonsági hatóság az engedélyben a kérelem szerinti műszaki átalakítás jellemzőinek figyelembevételével jelöli ki azt az eseményt, amelyet megelőzően harminc nappal kell benyújtani az Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentációt.
 
 ## 1.4.1.1300. Az 1.4.1.1200. ponttól eltérően, ha a nukleáris biztonsági hatóság az átalakítási engedélyben két részletben történő tájékoztatásról rendelkezett, akkor az Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentáció kijelölt részeit harminc nappal az üzembe helyezés megkezdését megelőzően, fennmaradó részeit – amennyiben a nukleáris létesítményre vonatkozó Nukleáris Biztonsági Szabályzatok szerint azt el kell készíteni – a független felülvizsgálatról szóló jelentéssel együtt, az üzembe helyezést megelőző utolsó munkanap kezdetéig kell a nukleáris biztonsági hatósághoz benyújtani.
 
-## 1.4.1.1310.[^158] A nukleáris biztonsági hatóság - az engedélyes kérelmére - harminc napnál rövidebb határidőt is előírhat az engedélyben, ha az átalakítás 4.8.2.0800. pont szerinti 2. kategóriába sorolt, és az atomerőművi blokk átalakítása
+## 1.4.1.1310.[^212] A nukleáris biztonsági hatóság - az engedélyes kérelmére - harminc napnál rövidebb határidőt is előírhat az engedélyben, ha az átalakítás 4.8.2.0800. pont szerinti 2. kategóriába sorolt, és az atomerőművi blokk átalakítása
 
-## a) a főjavítása alatt, vagy
+## a) a főjavítása alatt,
 
-## b) soron kívüli eljárásban
+## b) soron kívüli eljárásban, vagy
+
+## c) üzem közbeni karbantartás üzemmódban
 
 ## történik. A határidőt az átalakítás összetettségének és az átalakítások végrehajtása ütemezésének figyelembevételével úgy kell meghatározni, hogy az elégséges legyen az Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentáció felülvizsgálatára.
 
@@ -1480,345 +1496,219 @@
 
 ## 1.4.1.1500. Az 1.4.1.1400. ponttól eltérően, ha a nukleáris biztonsági hatóság az átalakítási engedélyben a két részletben történő tájékoztatásról rendelkezett, akkor az összefoglaló leírás kijelölt részeit harminc nappal az üzembe helyezés megkezdését megelőzően, fennmaradó részeit – amennyiben a nukleáris létesítményre vonatkozó szabályzati előírások szerint azt el kell készíteni – a független felülvizsgálatról szóló jelentéssel együtt, az átalakítás tényleges végrehajtását megelőző utolsó munkanap kezdetéig kell a nukleáris biztonsági hatósághoz benyújtani.
 
-## 1.4.1.1510.[^159] Atomerőművi műszaki és szabályozó dokumentumok átalakítása esetén a nukleáris biztonsági hatóság - az engedélyes kérelmére - az engedélyben harminc napnál rövidebb időt is előírhat, amennyiben az engedélyezés soron kívüli eljárásban történt és az átalakítás 4.8.2.0800. pont szerinti 2. kategóriába sorolt. Az időt az átalakítás összetettségének és az átalakítások végrehajtása ütemezésének figyelembevételével úgy kell meghatározni, hogy az elégséges legyen az összefoglaló leírás felülvizsgálatára.
+## 1.4.1.1510.[^213] Atomerőművi műszaki és szabályozó dokumentumok átalakítása esetén a nukleáris biztonsági hatóság - az engedélyes kérelmére - az engedélyben harminc napnál rövidebb időt is előírhat, amennyiben az engedélyezés soron kívüli eljárásban történt és az átalakítás 4.8.2.0800. pont szerinti 2. kategóriába sorolt. Az időt az átalakítás összetettségének és az átalakítások végrehajtása ütemezésének figyelembevételével úgy kell meghatározni, hogy az elégséges legyen az összefoglaló leírás felülvizsgálatára.
 
-## 1.4.1.1600. A kutatóreaktorok engedélyezett műszaki átalakítása esetén az üzembe helyezés megkezdése előtt legalább 10 nappal kell az 5. melléklet 5.3.13.0600. d) pontja szerinti Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentációt tájékoztatásul megküldeni a nukleáris biztonsági hatóságnak. A kutatóreaktorok szervezeti felépítése és irányítási rendszere, valamint műszaki és szabályozó dokumentumok engedélyezett átalakításának végrehajtása előtt legalább 10 nappal kell tájékoztatásul megküldeni az 5. melléklet 5.3.13.0600. e) pontja szerinti összefoglaló leírást.
+## 1.4.1.1600.[^214] A kutatóreaktorok és a kiégett üzemanyag átmeneti tárolók engedélyezett műszaki átalakítása esetén az üzembe helyezés megkezdése előtt legalább 10 nappal kell az 5. melléklet 5.3.13.0600. d) pontja és a 6. melléklet 6.3.9.0010. d) pontja szerinti Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentációt tájékoztatásul megküldeni a nukleáris biztonsági hatóságnak. A kutatóreaktorok és a kiégett üzemanyag átmeneti tárolók szervezeti felépítése és irányítási rendszere, valamint műszaki és szabályozó dokumentumok engedélyezett átalakításának végrehajtása előtt legalább 10 nappal kell tájékoztatásul megküldeni az 5. melléklet 5.3.13.0600. e) pontja és a 6. melléklet 6.3.9.2200. pontja szerinti összefoglaló leírást.
 
-## 1.4.1.1700.[^160] A benyújtott Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentációt, valamint az összefoglaló leírást – a felügyeleti tervét is figyelembe véve – a nukleáris biztonsági hatóság ellenőrzi, az 1. kategóriába sorolt műszaki átalakítások esetében helyszíni eseti ellenőrzést végez. Ha a benyújtott Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentáció, összefoglaló leírás, vagy az ellenőrzés során a nukleáris biztonsági hatóság olyan nemmegfelelőséget állapít meg, amely veszélyezteti a biztonságos üzemeltetést, akkor a kiadott átalakítási engedélyt visszavonja, illetve az engedélyt módosítva feltételeket állapít meg. Az engedély kiadása előtt végzett ellenőrzés során feltárt ilyen nemmegfelelőség esetén, az átalakítás folytatását megtiltja és az engedély kiadását megtagadja, vagy az engedélyben feltételeket állapít meg.
+## 1.4.1.1700.[^215] A benyújtott Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentációt, valamint az összefoglaló leírást – a felügyeleti tervét is figyelembe véve – a nukleáris biztonsági hatóság ellenőrzi, az 1. kategóriába sorolt műszaki átalakítások esetében helyszíni eseti ellenőrzést végez. Ha a benyújtott Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentáció, összefoglaló leírás ellenőrzése, vagy az eseti helyszíni ellenőrzés során a nukleáris biztonsági hatóság olyan nemmegfelelőséget állapít meg, amely veszélyezteti a biztonságos üzemeltetést, akkor a kiadott átalakítási engedélyt visszavonja, illetve az engedélyt módosítva feltételeket állapít meg. Az engedély kiadása előtt végzett ellenőrzés során feltárt ilyen nemmegfelelőség esetén, az átalakítás folytatását megtiltja és az engedély kiadását megtagadja, vagy az engedélyben feltételeket állapít meg.
 
-## 1.4.1.1710.[^161] A nukleáris biztonsági hatóság az 1.4.1.1700. pont szerinti dokumentáció ellenőrzéséről hivatalos feljegyzést, 1. kategóriába sorolt műszaki átalakítások helyszíni ellenőrzéséről jegyzőkönyvet készít. Ha az Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentáció, vagy az összefoglaló leírás ellenőrzése nem tárt fel olyan nemmegfelelőséget, amely veszélyezteti a biztonságos üzemeltethetőséget, akkor erről a nukleáris biztonsági hatóság a feljegyzésben vagy az ellenőrzési jegyzőkönyvben tájékoztatja az engedélyest. Az engedélyes ennek birtokában folytatja az átalakítás végrehajtását.
+## 1.4.1.1710.[^216] A nukleáris biztonsági hatóság az 1.4.1.1700. pont szerinti dokumentáció ellenőrzéséről hivatalos feljegyzést, 1. kategóriába sorolt műszaki átalakítások helyszíni ellenőrzéséről jegyzőkönyvet készít. Ha az Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentáció, vagy az összefoglaló leírás ellenőrzése nem tárt fel olyan nemmegfelelőséget, amely veszélyezteti a biztonságos üzemeltethetőséget, akkor erről a nukleáris biztonsági hatóság a feljegyzésben vagy az ellenőrzési jegyzőkönyvben tájékoztatja az engedélyest. Az engedélyes ennek birtokában folytatja az átalakítás végrehajtását.
 
-## 1.4.1.1800. Ha az átalakítási engedélyben a nukleáris biztonsági hatóság másként nem rendelkezett, akkor az átalakítás végrehajtását követő 3 hónapon belül, tájékoztatásul meg kell küldeni a nukleáris biztonsági hatóságnak a 4. melléklet 4.8.4.0100. pontja, az 5. melléklet 5.3.13.0600. f) pontja, továbbá a 6. melléklet 6.3.9.2400. pontja szerinti Átalakítást Értékelő Jelentést, továbbá szükséges esetekben be kell nyújtani a nukleáris létesítmény üzemeltetési engedélyének módosítására irányuló kérelmet. Ha nem szükséges a nukleáris létesítmény üzemeltetési engedélyének módosítása, akkor az Átalakítást Értékelő Jelentéshez mellékelni kell azoknak, a nukleáris biztonsági hatóság számára még meg nem küldött, megváltozott dokumentumoknak a végleges változatát, amelyek korábbi változatát az Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentációhoz mellékelték.
+## 1.4.1.1800.[^217] Ha az átalakítási engedélyben a nukleáris biztonsági hatóság másként nem rendelkezett, akkor 3 hónappal az átalakítás végrehajtását követően, tájékoztatásul meg kell küldeni a nukleáris biztonsági hatóságnak a 4. melléklet 4.8.4.0100. pontja, az 5. melléklet 5.3.13.0600. f) pontja, továbbá a 6. melléklet 6.3.9.2400. pontja szerinti Átalakítást Értékelő Jelentést, továbbá szükséges esetekben be kell nyújtani a nukleáris létesítmény üzemeltetési engedélyének módosítására irányuló kérelmet. Ha nem szükséges a nukleáris létesítmény üzemeltetési engedélyének módosítása, akkor az Átalakítást Értékelő Jelentéshez mellékelni kell azoknak, a nukleáris biztonsági hatóság számára még meg nem küldött, megváltozott dokumentumoknak a végleges változatát, amelyek korábbi változatát az Átalakítást Követő Üzemeltetés Megkezdését Megalapozó Dokumentációhoz mellékelték.
 
-## 1.5. AZ ÉPÍTMÉNYEK, ÉPÜLETSZERKEZETEK ÉS FELVONÓK ENGEDÉLYEZÉSE
+## 1.5.[^218] AZ ÉPÍTMÉNYEK, ÉPÍTMÉNYSZERKEZETEK ÉS FELVONÓK ENGEDÉLYEZÉSE
 
 ## 1.5.1. Általános rendelkezések
 
-## 1.5.1.0100. Az építmények, épületszerkezetek listáját a tervező határozza meg, és a listát szerepeltetni kell a nukleáris létesítmény Előzetes Biztonsági Jelentésében és Végleges Biztonsági Jelentésében. A listát a nukleáris biztonsági hatóság a létesítési engedélyben fogadja el, majd időszakosan, de legalább az időszakos biztonsági felülvizsgálat keretében felülvizsgálja, és szükség szerint aktualizálja. A lista elfogadását, továbbá aktualizálását megelőzően annak tervezetét a nukleáris biztonsági hatóság egyezteti a területileg illetékes elsőfokú építésügyi hatósággal.
+## 1.5.1.0100.[^219] Az építmények, építményszerkezetek listáját, feltüntetve a rendeltetést is a tervező határozza meg és a rendeltetés alapján javaslatot tesz a sajátos építményi besorolásra. A listát az engedélyes szerepelteti a nukleáris létesítmény Biztonsági Jelentésében. A listát a nukleáris biztonsági hatóság először a létesítési engedélyben fogadja el. A listát időszakosan, de legalább az időszakos biztonsági felülvizsgálat keretében az engedélyesnek felül kell vizsgálnia, és szükség szerint aktualizálnia.
 
-## 1.5.1.0110.[^162] Az engedélyes az Előzetes Biztonsági Jelentésében bemutatja az új atomerőmű építésének tervezett szakaszolását. Egyértelmű módon jelöli az egy építési szakaszba tartozó építményeket és az egy építési engedélykérelemmel benyújtani tervezett építményeket.
+## 1.5.1.0110.[^220] Az engedélyes az Előzetes Biztonsági Jelentésében bemutatja az új atomerőmű építésének tervezett szakaszolását. Egyértelmű módon jelöli az egy építési szakaszba tartozó építményeket és az egy építési engedélykérelemmel benyújtani tervezett építményeket.
 
-## 1.5.1.0200.[^163] Az építményekre, épületszerkezetekre az - a 10. melléklet 52. pont i) alpontjában meghatározott épületszerkezeteket kivéve - az 1.5.2.-1.5.3. pont szerinti engedély szükséges:
+## 1.5.1.0200.[^221] Az építményekre, építményszerkezetekre az - a 10. melléklet 52. pont i) alpontjában meghatározott építményszerkezeteket kivéve - az 1.5.2.-1.5.3. pont szerinti engedély szükséges:
 
 ## a) ha az építési tevékenység folyamata vagy eredménye hatással van a nukleáris biztonságra,
 
-## b)[^164] az építmény építése, továbbépítése, elmozdítása esetén,
+## b)[^222] az építmény építése, továbbépítése, elmozdítása esetén,
 
-## c) az építmény, épületszerkezet olyan felújítása, helyreállítása, átalakítása, korszerűsítése, homlokzatának megváltoztatása esetén, ahol a felsorolt építési tevékenység során az építmény tartószerkezeti rendszerét, vagy tartószerkezeti elemeit meg kell változtatni, át kell alakítani, el kell bontani, meg kell erősíteni, továbbá ami az építményben lévő önálló rendeltetési egységek számának, rendeltetésének megváltoztatásával jár, valamint
+## c)[^223] az építmény, építményszerkezet olyan felújítása, helyreállítása, átalakítása, korszerűsítése, homlokzatának megváltoztatása esetén, ahol a felsorolt építési tevékenység során az építmény tartószerkezeti rendszerét, vagy tartószerkezeti elemeit meg kell változtatni, át kell alakítani, el kell bontani, meg kell erősíteni, továbbá ami az építményben lévő önálló rendeltetési egységek számának, rendeltetésének megváltoztatásával jár, valamint
 
 ## d) az építmény le-, vagy elbontása esetén.
 
-## 1.5.1.0300. Amennyiben üzembe helyezés alatt álló, vagy üzemelő nukleáris létesítménynél az 1.5.1.0100. pont szerinti listán szereplő építményeken, épületszerkezeteken átalakítást végeznek, akkor az építési engedélyezési eljáráson túlmenően az 1.4. pont, továbbá a 4. melléklet 4.8. pontja, az 5. melléklet 5.3.13. pontja és a 6. melléklet 6.3.9. pontja szerinti, az adott nukleáris létesítményre vonatkozó követelményeket is alkalmazni szükséges.
+## 1.5.1.0300.[^224] Amennyiben üzembe helyezés alatt álló, vagy üzemelő nukleáris létesítménynél az 1.5.1.0100. pont szerinti listán szereplő építményeken, építményszerkezeteken átalakítást végeznek, akkor az építési engedélyezési eljáráson túlmenően az 1.4. pont, továbbá a 4. melléklet 4.8. pontja, az 5. melléklet 5.3.13. pontja és a 6. melléklet 6.3.9. pontja szerinti, az adott nukleáris létesítményre vonatkozó követelményeket is alkalmazni szükséges.
 
-## 1.5.1.0400. A nukleáris létesítmény leszerelése során a nukleáris létesítménnyel összefüggő építmények, épületszerkezetek bontási munkáinak engedélyezése az 1.2.8. pont szerinti leszerelési engedélyezési eljárásban, külön bontási engedély kiadásával történik.
+## 1.5.1.0400.[^225] A nukleáris létesítmény leszerelése során a nukleáris létesítménnyel összefüggő építmények, építményszerkezetek bontási munkáinak engedélyezése az 1.2.8. pont szerinti leszerelési engedélyezési eljárásban, külön bontási engedély kiadásával történik.
 
-## 1.5.1.0500.[^165] Ha a nukleáris biztonsági hatóság az építési engedélyben ettől eltérően nem rendelkezik, az építési engedély alapján elvégzett munkák befejezése után a nukleáris biztonsági hatóságtól használatbavételi engedélyt kell kérni. Építmény csak végleges használatbavételi engedély birtokában vehető használatba. Több megvalósítási szakaszra bontott építés esetén, ha az adott szakasz használatának feltételei biztosítottak, ideiglenes használatbavételi engedéllyel egy-egy építményrész önállóan is használatba vehető.
+## 1.5.1.0500.[^226] Ha a nukleáris biztonsági hatóság ettől eltérően nem rendelkezik, az építési engedély alapján elvégzett munkák befejezése után a nukleáris biztonsági hatóságtól használatbavételi engedélyt kell kérni.
 
-## 1.5.1.0600. Amennyiben az építési munka csak az épület egy részét érinti, annak egyéb részei a nukleáris biztonsági hatóság építési engedélyében meghatározott korlátozásokkal használhatók.
+## 1.5.1.0510.[^227] Ha az építmény használatbavételi engedély nélkül nem vehető használatba, a használatbavételi engedélyt az engedélyes az építmény rendeltetésszerű és biztonságos használatra alkalmassá válásakor kérelmezi.
 
-## 1.5.1.0700. A Nukleáris Biztonsági Szabályzat hatálya alá tartozó építményekben a felvonók létesítéséhez, az építményekbe való állandó jellegű beépítéséhez, áthelyezéséhez, főbb műszaki adataik megváltoztatásával járó átalakításához, használatbavételéhez, valamint lebontásához a nukleáris biztonsági hatóság engedélye szükséges. A hatósági engedélyezésre a felvonók és a mozgólépcsők építésügyi hatósági engedélyezéséről, üzemeltetéséről, ellenőrzéséről és az ellenőrökről szóló 113/1998. (VI. 10.) Korm. rendeletben foglalt rendelkezések irányadók az 1.5. pontban meghatározott eltérésekkel.
+## 1.5.1.0520.[^228] Az ugyanazon építési engedély alapján megvalósított építési szakaszokra, építményekre, illetve épületszerkezetekre a használatbavételi engedélyt egyidejűleg kell kérelmezni, kivéve az olyan építményeket, illetve építményszerkezeteket, amelyek a rendeltetésszerű és biztonságos használatra önmagukban is alkalmasak. Ezekre a használatbavételi engedélyt külön-külön is lehet engedélyezni.
+
+## 1.5.1.0600.[^229] Amennyiben az építési munka csak az építmény egy részét érinti, annak egyéb részei a nukleáris biztonsági hatóság építési engedélyében meghatározott korlátozásokkal használhatók.
+
+## 1.5.1.0700.[^230] A Nukleáris Biztonsági Szabályzat hatálya alá tartozó építményekben a felvonók létesítéséhez, az építményekbe való állandó jellegű beépítéséhez, áthelyezéséhez, főbb műszaki adataik megváltoztatásával járó átalakításához, használatbavételéhez, valamint lebontásához a nukleáris biztonsági hatóság engedélye szükséges. A hatósági engedélyezésre a felvonókról, mozgólépcsőkről és mozgójárdákról szóló rendeletben foglalt rendelkezések irányadók az 1.5. pontban meghatározott eltérésekkel.
 
 ## 1.5.1.0800. Az atomerőmű konténmentjébe (hermetikus terébe) beépített és csak a blokk javításának idején használt felvonó esetén:
 
-## a) az egy évnél rövidebb, előre ki nem számítható időtartamú üzemszünetet követően a berendezés egy átfogó karbantartást és beállítást követően a kijelölt szervezet fővizsgálatával vehető ismét használatba; a tárgyi naptári évben ismételt üzembe helyezést a c) pont szerinti üzemen kívüli helyezést végrehajtó ellenőr vagy egy kijelölt szervezet végezheti,
+## a)[^231] a berendezés az átfogó karbantartást és beállítást követően a kijelölt szervezet fővizsgálatával vehető használatba,
 
 ## b) a működés időszaka alatt kötelező műszaki biztonságtechnikai vizsgálatok olyan gyakorisággal hajtandók végre, mintha a berendezés üzeme egész évben folyamatos lenne, továbbá
 
 ## c) az üzemi időszakot állagmegóvó karbantartás elvégzése után a berendezés karbantartás ellenőrének jegyzőkönyvével kell lezárni.
 
-## 1.5.2. Építmények, épületszerkezetek építési vagy bontási engedélye
+## 1.5.1.0900.[^232] A nukleáris biztonsági hatóság az építményekkel összefüggő hatósági eljárásai során, az épített környezet alakításáról és védelméről szóló törvény előírásaiban az elektronikus ügyintézésre szabott kötelezettségeinek, a nukleáris biztonsági hatóság által működtetett elektronikus ügyintézési alkalmazás útján tesz eleget.
 
-## 1.5.2.0100. Az építési vagy bontási engedélyt az elvégezni kívánt építési vagy bontási munka egészére kell kérni. Több szakaszban megvalósuló építkezés esetében az egyes szakaszokban megépítendő építményekre, valamint a rendeltetésszerű és biztonságos használatra önmagukban is alkalmas építményrészekre szakaszonként külön-külön is lehet építési engedélyt kérni. Az engedély időbeli hatályát az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló jogszabály határozza meg.
+## 1.5.1.1000.[^233] A Kormány által kihirdetett veszélyhelyzet esetén a nukleáris biztonsági hatóság az építmények helyszíni szemléjét a hatóság vezetőjének nukleáris biztonsági szempontú mérlegeléssel meghozott döntése szerinti határidőn belül végzi el.
+
+## 1.5.1.1100.[^234] Az építmények nukleáris létesítményi hatásterületen belüli elhelyezése esetén településképi bejelentés, településképi véleményezés, valamint építészeti-műszaki tervtanácsi véleményezés szabályait és előírásait nem kell alkalmazni. A hatásterületen kívüli elhelyezés esetében a véleményt a nukleáris biztonsági és védettségi szempontoknak alávetve kell figyelembe venni.
+
+## 1.5.1.1200.[^235] Építmény, építményrész rendeltetésének építési engedélyköteles építési munkával nem járó megváltoztatásához abban az esetben nem kell a nukleáris biztonsági hatóság engedélye, ha e rendelet alapján a változtatással összefüggésben a nukleáris biztonsági hatóság átalakítási engedélyét sem kell kérelmezni.
+
+## 1.5.1.1300.[^236] A nukleáris biztonsági hatóság az építési, használatbavételi engedély időbeli hatályát, kérelemre vagy hivatalból, a hatáskörébe tartozó valamennyi kérdés mérlegelését követően írja elő, illetve hosszabbíthatja meg.
+
+## 1.5.2.[^237] Építmények, építményszerkezetek építési vagy bontási engedélye
+
+## 1.5.2.0100.[^238] Az építési engedélyt az elvégezni kívánt építési vagy bontási munka egészére kell kérni. Több szakaszban megvalósuló építkezés esetében az egyes szakaszokban megépítendő építményekre, valamint a rendeltetésszerű és biztonságos használatra önmagukban is alkalmas építményrészekre szakaszonként külön-külön is lehet építési engedélyt kérni.
 
 ## Az engedély iránti kérelem tartalmi követelményei
 
-## 1.5.2.0200.[^166] Az építési vagy bontási engedély iránti kérelemnek tartalmaznia kell:
+## 1.5.2.0200.[^239] Az építési engedély iránti kérelemnek tartalmaznia kell:
 
 ## a) a nukleáris biztonsági követelmények teljesülésének igazolását és műszaki megalapozását,
 
-## b) a tevékenység megfelelő elvégzését biztosító minőségirányítási és minőségügyi programot, vagy azokra a nukleáris biztonsági hatósági eljárásokra történő hivatkozást, amelyekben ezeket a dokumentumokat korábban már benyújtották,
+## b) a tevékenység megfelelő elvégzését biztosító minőségirányítási programot,
 
 ## c) más hatóságoknak az eljáráshoz kapcsolódó engedélyeit, az azokat megalapozó dokumentációk bemutatását és összefoglaló értékelését,
 
-## d) az építési vagy bontási engedélyezési műszaki tervdokumentációt üzemelő nukleáris létesítmény esetén az általános építésügyi hatósági eljárásokat szabályozó jogszabály előírásainak megfelelő tartalommal, új nukleáris létesítmény esetén az 1.5.2.0210-1.5.2.0230. pontok szerinti tartalommal, valamint
+## d) az építési engedélyezési műszaki tervdokumentációt az 1.5.2.0210-1.5.2.0230. pontok szerinti tartalommal, valamint
 
 ## e) a dokumentáció felülvizsgálatáról és értékeléséről készített független műszaki szakértői véleményt.
 
-## 1.5.2.0210.[^167] Az 1.5.2.0200. pont d) alpontja szerinti dokumentáció elemei a tervezés tárgyától függően:
+## 1.5.2.0210.[^240] Az 1.5.2.0200. pont d) alpontja szerinti dokumentáció elemei a tervezés tárgyától függően:
 
-## 1. Műszaki leírások: Alfabetikusan kereshető szöveges dokumentum, melyben ábrák is szerepelhetnek. Az ábrák esetében törekedni kell a vektorgrafikus ábrák alkalmazására, amennyiben elkerülhetetlen, úgy a maximum 150 (szöveget vagy vékony vonalas részeket tartalmazó ábrák esetén 300) DPI felbontású pixeles ábrák is elfogadhatóak. A műszaki leírás fejezetekre bontva, több fájldokumentumban is benyújtható. Formátuma PDF/A, nyomtatási mérete A4 (szükség esetén egyes oldalak lehetnek A3-as méretűek). A műszaki leírásnak szürkeárnyalatosan nyomtatva is értelmezhetőnek kell maradnia.
+## 1. Műszaki leírások:
 
-## 1.1. Építészeti műszaki leírás: Az építészeti műszaki leírás nukleáris tervfejezetében a létesítmény építményeinek, helyiségeinek, illetve épületszerkezeteinek azon sajátosságait kell a tervezőnek bemutatnia, amelyek a nukleáris biztonsági és - a fizikai védelmi szempontból lényeges építmények, helyiségek, illetve épületszerkezetek esetében - a fizikai védelmi követelmények teljesülését biztosítják. Ilyen módon kiemelt jelentőségűek azok a műszaki megoldások, amelyek a radioaktív anyagok szétterjedésének meggátlását biztosítják a különféle üzemviteli illetve üzemzavari állapotokban, továbbá biztosítják a személyzet, lakosság és környezet hatósági korlátoknak megfelelő sugárvédelmét. Az építészeti műszaki leírás minőségbiztosítási tervfejezetében a tervezőnek elsődlegesen olyan előírásokat kell tennie, amelyek a kivitelezés során megvalósítandó minőségbiztosítási intézkedéseket rögzítik, ezek között a kivitelezésben résztvevők kiválasztásának alapvető követelményeit és a munkavégzés során teljesítendő ellenőrzési feladatokra vonatkozó előírások kell, hogy szerepeljenek. A fentiek mellett az építészeti műszaki leírás ismerteti az építményekre vonatkozó, a tervlapok tartalmát kiegészítő alábbi információkat:
+## A leírások ismertetik a szakági terveken megjelenő műszaki információk mellett a tervezés legfontosabb adatait, különös tekintettel a nukleáris biztonság megvalósítását célzó műszaki megoldásokra.
 
-## a) a teljes építmény rendeltetésének leírását,
+## 1.1. Építészeti műszaki leírás:
 
-## b) a telekre, a tervezett és a meglévő építményekre vonatkozó jogszabályban előírt azon paramétereket (telek beépített területe, beépített területek aránya a zöldfelülethez, épületmagasság, építmények egymástól való távolsága, mérete) melyek nem szerepelnek az egyes tervlapokon,
+## A feladat jellegéhez alkalmazkodva a hatósági döntés meghozatalához szükséges terjedelemben tartalmazza a létesítmény építményeinek, helyiségeinek, illetve épületszerkezeteinek sajátosságait figyelembe véve az építménybe telepítendő technológiákat.
 
-## c) a tartószerkezeti, az épületgépészeti, villamos, villámvédelmi, zaj és rezgés elleni védelmi megoldásokat, az energetikai követelmények teljesítésének módját,
+## 1.2. Építménygépészeti műszaki leírás:
 
-## d) a közlekedési útvonalak akadálymentesítését,
-
-## e) jogszabályban előírtak szerint az építményekbe betervezett építési termékekre vonatkozó teljesítmény-jellemző meghatározását,
-
-## f) a szellőzőkémény bemutatását,
-
-## g) az égéstermék-elvezetés megoldásának részletes leírását,
-
-## h) a tervezett építési tevékenységhez előírt és az építmények rendeltetésszerű és biztonságos használathoz szükséges közművesítés megoldását,
-
-## i) a tervezett építmények, építményrészek milyen műszaki megoldással teljesíti az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) 50. θ (3) valamint az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló 275/2013 (VII.16.) Korm. rendeletben meghatározott követelményeket, az építmény tűzvédelmi kockázati osztályát,
-
-## j) az érintett közműszolgáltatókkal történt egyeztetésre vonatkozó információkat,
-
-## k) a tervezett építmények, építményrészek milyen műszaki megoldással teljesítik az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX.19.) Korm. rendeletben meghatározott követelményeket.
-
-## 1.2. Épületgépészeti műszaki leírás:
-
-## a) tartalmazza a vízellátási, szennyvíz-, és csapadékvíz elvezetési, gázellátási és égéstermék elvezetési; fűtési és hűtési, valamint légtechnikai rendszerek bemutatását, illetve összefoglalását, a szakági igényekkel együtt,
-
-## b) bemutatja az építmények általános gépészeti kialakítását, kitérve a jogszabályi előírások megfelelőségére.
+## Az engedélyezési döntés meghozatalához szükséges terjedelemben tartalmazza - a vonatkozó általános előírások mellett - az építménygépészeti és a nukleáris technológiai rendszerek viszonyát.
 
 ## 1.3. Tartószerkezeti műszaki leírás:
+
+## Az engedélyezési döntés meghozatalához szükséges kidolgozottsággal tartalmazza a tervezés kiinduló adatainak ismertetését, így különösen a tervezési programból és a technológiai igényekből, továbbá a telephely sajátosságaiból adódó speciális hatásokat a következők szerint:
 
 ## a) az engedélyezési döntés megalapozásához szükséges kidolgozottsággal tartalmazza az építmények megvalósításához szükséges, a tartószerkezetek kialakítására és megépítésére hatással bíró kiinduló adatok ismertetését, így különösen a tervezési programból és a technológiai igényekből, továbbá a telephely földrengés veszélyeztetettségéből, valamint az extrém időjárási viszonyokból adódó terhek, hatások és követelmények ismertetését, figyelembe vett értékeit, megjelöli az alkalmazott szabványokat, valamint
 
 ## b) az elvégzett erőtani számítások alapján ismerteti az építmények tartószerkezetének rendszerét, az alkalmazott fesztávokat, a fő teherhordó elemek kialakítását, jellemző fő méreteit, a betervezett anyagok, gyártmányok minőségi és teljesítmény követelményeit, kitérve a megvalósíthatóságot biztosító technológiai leírásokra.
 
-## 1.4. Épületvillamossági műszaki leírás: bemutatja az építmények villamos energiával történő ellátását, normál üzemi és biztonsági, valamint erős- és gyengeáramú rendszereit, kitér a villámvédelemre, érintés(hiba) védelemre és egyéb megvalósítandó villamos rendszerekre.
+## 1.4. Épületvillamossági műszaki leírás:
 
-## 1.5. Technológiai leírás: részletesen, a hatások megismeréséhez és elbírálásához elégséges módon bemutatja az építményekbe telepítendő nukleáris és egyéb technológiákat, ismerteti az épületszerkezetekre vonatkozó hatásait és igazolja a tervezett műszaki megoldások megfelelőségét.
+## Bemutatja az építmények villamos energiával történő ellátását, illetve az építményvillamossági és a nukleáris technológiai rendszerek viszonyát.
 
-## 1.6. Belsőépítészeti leírás: tartalmazza az építmények belső tereinek berendezésére, anyag- és színvilágára vonatkozó leíró részeket az OTÉK előírásait kielégítő módon.
+## Részletesen bemutatja az építmények kivitelezéséhez tervezett technológiákat.
 
-## 1.7. Rétegrendi kimutatás: Meghatározza az összes egymástól eltérő vízszintes és függőleges rétegfelépítést.
+## 1.5. Rétegrendi kimutatás:
 
-## 1.8. Helyiség kimutatás: Meg kell nevezni az egyes helyiségek rendeltetését (elnevezését), kezelhetőségi és igénybevételi kategóriáit, sugárzási viszonyait, alapterületét és burkolatát.
+## Meghatározza az összes egymástól eltérő vízszintes és függőleges rétegfelépítést.
 
-## 1.9. Energiaellátás megvalósíthatósági elemzése: az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendeletben meghatározott esetekben és annak 4. melléklete szerint.
+## 1.6. Helyiség kimutatás:
 
-## 2. Tervlapok: A tervlapok formátuma PDF/A. A tervlap összeállításánál törekedni kell arra, hogy a tervlap vagy annak egységnyi területe szükség esetén arányosan, értelmezhető módon A0 méretben szürkeárnyalatosan nyomtatható legyen. Az önálló tervlapokat önálló fájldokumentumonként kell benyújtani vektorgrafikus vagy 300 DPI felbontású pixeles formátumban.
+## Megnevezi az egyes helyiségek rendeltetését, kezelhetőségi és igénybevételi kategóriáit, sugárzási viszonyait, alapterületét és burkolatát.
 
-## 2.1. A tervező által, az állami ingatlan-nyilvántartási térképi adatbázis felhasználásával készített helyszínrajz, amely tartalmazza:
+## 1.7. Az épületben lévő technológiai rendszerekkel, rendszerelemekkel való kapcsolat bemutatása.
 
-## a) az égtájjelölést,
+## 1.8. Biztonsági és földrengés biztonsági osztályba sorolás és annak megalapozása.
 
-## b) a tervezéssel érintett és a közvetlenül szomszédos - az ingatlannal közös határvonalú - telkek ábrázolását,
+## 1.9. A biztonsági osztályba sorolt építmény, építményszerkezet tervezési alapjának bemutatása.
 
-## c) a tervezéssel érintett telken valamennyi meglévő terepszint feletti és alatti építményt, valamint a tervezett építményeket, méretarányos ábrázolással (építmények körvonalrajzát, tetőidomok ábrázolásával, rendeltetések megjelölésével), a meglévő építmények telekhatártól és egymástól való távolsági és épületmagassági méretét, valamint az elbontásra kerülő vezetékek jelölését,
+## 2. Tervlapok: melyek megfelelnek a vonatkozó általános előírásoknak, szakmai követelményeknek.
 
-## d) a tervezéssel érintett telekkel közvetlenül szomszédos telkeken valamennyi épület méretarányos körvonalrajzát, tetőidomait, továbbá a tervezéssel érintett telek felőli oldalkertben lévő földalatti és feletti építmények körvonalrajzának ábrázolását, rendeltetése megjelölését,
+## 2.1. A tervező által, az állami ingatlan-nyilvántartási térképi adatbázis felhasználásával készített helyszínrajz a kérelmezett építmény azonosításával, amely tartalmazza - a vonatkozó általános előírások mellett - a biztonsági övezet határát.
 
-## e) a tervezési területre vonatkozó jogszabályban előírt paraméterek teljesítését igazoló mutatószámokat, jellemzőket (telek területe, beépítettség mértéke, épületmagasság, zöldfelület aránya, építmények egymástól való távolsága, mérete),
+## 2.2. Az építmény egyértelmű beazonosítását a létesítmény helyszínrajzán (genplán).
 
-## f) az építmények személy- és gépkocsiforgalmára szolgáló be- és kijáratok közúthoz való csatlakozását, valamint a gépkocsik telken belüli elhelyezésének ábrázolását,
+## 2.3. Eltérő szintek alaprajzai
 
-## g) a ±0,00 kiinduló relatív magasságnak megfelelő Egységes Országos Magassági Alapponthálózati (EOMA) magassági értéket, valamint
+## 2.4. A megértéshez szükséges számú, de legalább két egymással szöget bezáró módon felvett metszet.
 
-## h) a meglévő terepviszonyok ábrázolását a jellemző szintmagasságok értékeivel, 10 százaléknál nagyobb lejtésű terület esetén az 1 m szintkülönbséget ábrázoló szintvonalakkal.
+## 2.5. Az építmény valamennyi jellemző külső nézetét ábrázoló homlokzati terv.
 
-## 2.2. Eltérő szintek alaprajzai:
+## 2.6. Tereprendezési terv.
 
-## a) ábrázolni és méretekkel kell ellátni:
+## 2.7. Tartószerkezeti terv: bemutatja a tartószerkezeti elemek geometriai kialakítását, anyagát, jellemző méreteit és egymással való kapcsolatukat.
 
-## aa) az elmetszett és a nézet irányába eső nem teljes szintmagasságú szerkezeteket,
+## 3. Számítás.
 
-## ab) a beépített berendezési tárgyakat,
+## 3.1. Építészeti számítások,
 
-## ac) a nyílásokat,
+## 3.2. Tartószerkezeti számítás: tartószerkezet részletes statikai számítása, amely igazolja a technológiából és a telephelyi sajátosságokból adódó speciális tervezési követelményeknek való megfelelőséget.
 
-## ad) az ábrázolt szintek szintváltását és szintmagasságát, a szintáthidalók emelkedési irányát, mindkét végének szintmagasságát,
+## 3.3. Épületenergetikai számítás
 
-## ae) a szerkezeti dilatációk helyét,
+## 3.4. A biztonsági osztályba sorolt építmények esetén a tervezési alapnak való megfelelés és biztonsági funkció ellátási képesség megalapozása.
 
-## af) a földszinti alaprajzon a csatlakozó véglegesen rendezett terepet, az épület körüli járdát, az előlépcsőt és egyéb szerkezeteket,
+## 4. Minőségügyi terv.
 
-## ag) szellőzőkéményeket,
+## 5. Igazolások.
 
-## ah) az égéstermék-elvezetőket,
+## 5.1. Tervezői nyilatkozat.
 
-## b) jelölni kell az északi irányt, a metszetek helyét, esetleges törését és nézetének irányát.
+## 5.2. Aláírólap.
 
-## 2.3. A megértéshez szükséges számú, de legalább két egymással szöget bezáró módon felvett metszet, amelyeken
-
-## a) ábrázolni kell és méretadatokkal kell ellátni:
-
-## aa) az elmetszett, a nézet irányába eső látható, indokolt esetben a nézet irányába eső, de a más szerkezetek által takart szerkezeteket,
-
-## ab) az építményekhez csatlakozó, véglegesen rendezett terepet és járdát,
-
-## b) meg kell határozni az összes egymástól eltérő vízszintes és függőleges rétegfelépítést.
-
-## 2.4. Terepmetszet.
-
-## 2.5. Az építmény valamennyi jellemző külső nézetét ábrázoló homlokzati terv, amelyek tartalmazzák:
-
-## a) az építmények külső megjelenését meghatározó homlokzati elemeket, így különösen a nyílásokat, rácsokat, korlátokat, antennákat, esővíz- és légcsatornákat, szellőzőkéményt, égéstermék-elvezetőt, díszítőelemeket, lépcsőket, valamint a terepszint alatti vagy a terep által takart építményrészeket,
-
-## b) a csatlakozó végleges terep, járda, tetőgerinc, tetőfelépítmény stb. szintmagasságát,
-
-## c) az egyes homlokzati felületek kiképzését, anyagát és színét.
-
-## 2.6. Tereprendezési terv: a végleges terep szintmagasságainak ábrázolásával, a szükséges számú szelvényrajzzal és a 10 százaléknál nagyobb lejtésű terület esetén az 1 m szintkülönbséget ábrázoló rétegvonalakkal, a végleges terep szintmagasságainak ábrázolásával.
-
-## 2.7. Tartószerkezeti terv: a tartószerkezet ellenőrzése használati és teherbírási határállapotokra. A tartószerkezet alábbi elemeiről tartalmaz rajzi munkarészeket:
-
-## a) alapozás alapsíkjának megadása a meglévő épületek figyelembevételével,
-
-## b) teherhordó falak és pillérek,
-
-## c) monolit és előre gyártott födémek és azok elemei,
-
-## d) szintek áthidalására szolgáló szerkezetek,
-
-## e) rezgés-, és földrengés védelmi szerkezetek,
-
-## f) darupályák tartószerkezetei és felvonók szerkezetei.
-
-## 3. Környezeti állapotra jellemző információk:
-
-## a) fotó, fotómontázs,
-
-## b) látványterv,
-
-## c) kilátási-rálátási terv,
-
-## d) színterv,
-
-## e) tömegvázlat.
-
-## 4. Számítás: A számítás szöveges és numerikus dokumentum, amelyben ábrák is szerepelhetnek. Az ábrák esetében törekedni kell a vektorgrafikus ábrák alkalmazására, amennyiben elkerülhetetlen, úgy a maximum 150 (szöveget vagy vékony vonalas részeket tartalmazó ábrák esetén 300) DPI felbontású ábrák is elfogadhatóak. A számítás fejezetekre bontva, több dokumentumban is benyújtható. Formátuma PDF/A, nyomtatási mérete A4 (szükség esetén egyes oldalak lehetnek A3 méretűek). A számításoknak szürkeárnyalatosan nyomtatva is értelmezhetőnek kell maradnia.
-
-## 4.1. Számított építményérték
-
-## 4.2. Épületmagasság-számítás
-
-## 4.3. Telek beépítettségének számítása
-
-## 4.4. Tartószerkezeti számítás
-
-## 4.5. Épületenergetikai számítás
-
-## 4.6. Sugárvédelmi ellenőrző számítás
-
-## 5. Igazolások: Igazolás csak olyan formában nyújtható be, amelynek nyomtatási formátuma legfeljebb A4. Elektronikus igazolás csak olyan információtechnikai rendszerektől fogadható el, amely hiteles átadásának információtechnológiai feltételei fennállnak.
-
-## 5.1. Aláírólap a tervezők megnevezésével, jogosultságuk megjelölésével, elérhetőségükkel és aláírásukkal, amely benyújtható elektronikusan aláírt PDF formátumban, papír alapú formátumban, illetve amennyiben információtechnológiai feltételei fennállnak, úgy az aláíró saját nevében kitöltött és saját személyi azonosításával benyújtott elektronikus űrlap útján.
-
-## 5.2. E-hiteles térképmásolat.
+## A vonatkozó általános előírások mellett tartalmazza az atomenergiáról szóló törvény hatálya alá tartozó építményekkel, létesítményekkel kapcsolatos műszaki szakértői, tervezői, műszaki ellenőri és felelős műszaki vezetői tevékenység szerinti szakmagyakorlásra való alkalmasság igazolásának és nyilvántartásba vételének részletes szabályairól, továbbá a nyilvántartás adattartalmára vonatkozó szabályokról szóló rendelet szerinti OAH nyilvántartásba vételi számot. Az aláírólapon szerepelnie kell a tervellenőr adatainak és aláírásának.
 
 ## 5.3. Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 3. melléklete szerinti statisztikai lap.
 
 ## 5.4. Független műszaki szakértői vélemény.
 
-## 6. Geotechnikai jelentés a teljes területre: Tartalmazza az építmény kialakításához szükséges geotechnikai állapotot, a tervezési fázisnak, a geotechnikai kategóriának, és az esetleges különleges körülményeknek (csúszás- és omlásveszélyes a terület, illetve a talajkörnyezet, az altalaj térfogatváltozó, feltöltéses, agresszív vagy más ok miatt különösen kedvezőtlen) a figyelembevételével.
+## 6. Geotechnikai dokumentáció.
+
+## A geotechnikai dokumentációt a vonatkozó szabványoknak megfelelően kell elkészíteni úgy, hogy legalább az alábbiakat tartalmazza:
+
+## 6.1. A tervezett építmény geotechnikai kategóriáját, a kategóriába sorolás megalapozásával.
+
+## 6.2. A talajvizsgálati jelentést, ami az építésföldtani adatszolgáltatás, a terepi és laboratóriumi vizsgálatok során megszerzett adatokat mutatja be. Be kell mutatni és igazolni kell, hogy a geotechnikai vizsgálatok során a feltárások módját, mélységét, távolságát, illetve a minták minőségét a tervezett építmény geotechnikai kategóriájának figyelembevételével határozták meg.
+
+## 6.3. A geotechnikai tervet, ami bemutatja azokat a beavatkozásokat, illetve szerkezeteket, amelyekkel a geotechnikai feladatok megoldhatók, ismerteti az ezek megfelelőségét igazoló számításokat és közli azokat a kivitelezési és műszaki felügyeleti utasításokat, melyek biztosítják a tervben feltételezettek teljesülését. A geotechnikai tervben - ha alkalmazni kívánnak ilyen megoldást - részletesen be kell mutatni a résfal, a cölöpalapozás, valamint a talajszilárdítás építési technológiáját. Igazolni kell, hogy a releváns teherbírási határállapotok túllépése egyik építési állapotban sem következik be. Ha a tervezett építési terület közelében már üzemelő nukleáris létesítmény található, igazolni kell, hogy a munkagödör hatására a környezet talaj- és rétegvíz viszonyai nem változnak meg olyan mértékben, hogy az veszélyeztessen más építményeket. Ha alkalmazni kívánják, ismertetni kell a résfallal szemben támasztott speciális követelményeket, különös tekintettel a tűrésekre, az anyagok tulajdonságaira, a vízzáróságra, a résfal táblák kapcsolatára, valamint a résfal szerkezetére ható igénybevételekre.
 
 ## 7. Geodéziai felmérés.
 
-## 1.5.2.0220.[^168] Az 1.5.2.0200. pont d) alpontja szerinti dokumentációra vonatkozó általános előírások:
+## 1.5.2.0220.[^241] Az 1.5.2.0200. pont d) alpontja szerinti dokumentációra vonatkozó általános előírások:
 
 ## 1. Az adott anyag vagy szerkezet jelölésére a vonatkozó hatályos szabványt, vagy annak hiányában a Megrendelő által meghatározott, egyértelmű jelkulcsot kell alkalmazni.
 
-## 2. Közhasználatú építmények esetén, a helyszínrajzon és a vonatkozó tervlapokon méretadatok megadásával ábrázolni kell az akadálymentes és biztonságos közlekedési lehetőséget biztosító megoldásokat a telek közterületi csatlakozási pontjától az épület bejáratáig.
+## 2.[^242]
 
 ## 3. Az építési tevékenységgel érintett telken, ha az építési tevékenység a telek természetes terepviszonyainak a megváltoztatását is eredményezi, a csapadékvíz-elvezetésének műszaki megoldását is ábrázolni kell. A telek természetes terepviszonyának feltöltéssel vagy terepbevágással történő megváltoztatása esetén a telek eredeti és a megváltoztatott, végleges állapotát a terep szintmagasságának ábrázolásával méretezett terepmetszeten kell bemutatni.
 
 ## 4. Több ütemben megvalósuló építési tevékenység esetében a tervrajzokon az egyes ütemeket egyértelműen jelölni kell.
 
-## 5. Az építészeti-műszaki dokumentáció tervező általi hitelesítése
+## 5.[^243] Az építészeti-műszaki dokumentumokat a tervező által hitelesítetten kell benyújtani. A dokumentáció tartalma együtt és dokumentumrészenként is hitelesíthető.
 
-## 5.1. Az építészeti-műszaki dokumentációt és részeit a tervező az alábbiak valamelyikével hitelesíti:
+## 6.[^244] Az építészeti-műszaki dokumentáció tartalmi követelménye tekintetében a dokumentáció egyes munkarészeinek kidolgozottságára, tartalmára és léptékére a Magyar Építész Kamara és a Magyar Mérnöki Kamara vonatkozó szakmai, és a tervezési kézikönyvben előirányzott követelményeit figyelembe kell venni.
 
-## a) aláírólap csatolásával,
-
-## b) saját elektronikus azonosítás útján történő benyújtással, az azonosításra visszavezetett dokumentumhitelesítés szabályai szerint,
-
-## c) elektronikus aláírással.
-
-## 5.2. A dokumentáció tartalma együtt és dokumentumrészenként is hitelesíthető.
-
-## 5.3. A papír alapú dokumentum elektronikus irattá alakítása digitalizálás útján történik truecolor és 300 DPI minőségben PDF/A formában.
-
-## 6. E rendelet keretei között az építészeti-műszaki dokumentáció tartalmi követelménye tekintetében a dokumentáció egyes munkarészeinek kidolgozottságára, tartalmára és léptékére a Magyar Építész Kamara és a Magyar Mérnöki Kamara vonatkozó szakmai követelményeket megállapító szabályzatait figyelembe kell venni.
-
-## 1.5.2.0230.[^169] Az 1.5.2.0200. pont d) alpontja szerinti dokumentációval összefüggésben a tűzvédelmi szakhatóság állásfoglalásának megkéréséhez szükséges dokumentációra vonatkozó követelmények:
+## 1.5.2.0230.[^245] Az 1.5.2.0200. pont d) alpontja szerinti dokumentációval összefüggésben a tűzvédelmi szakhatóság állásfoglalásának megkéréséhez szükséges dokumentációra vonatkozó követelmények:
 
 ## 1. Az építési engedélyezési eljárás esetén a tűzvédelmi dokumentáció tartalma
 
-## 1.1. Műszaki leírás, ami tartalmazza:
+## 1.1.[^246] Az építészeti tűzvédelmi dokumentáció felépítésének és tartalmának a jelen szabályzatban foglaltakon túl meg kell felelnie a vonatkozó építésügyi és tűzvédelmi jogszabályoknak, valamint műszaki követelményeknek. A szakterületi tervdokumentáció tűzvédelmi fejezeteit össze kell hangolni a létesítmény komplex tűzbiztonságának megítélhetősége érdekében.
 
-## a) az építmény tűzveszélyességi osztályba sorolására, az építmény, tűzszakaszok tűzállósági fokozatára,
-
-## b) a technológia tűzvédelmére,
-
-## c) az alkalmazott épületszerkezetek tűzvédelmi paramétereire,
-
-## d) a tűzterhelés meghatározására,
-
-## e) a tűzszakaszolásra, a tűzterjedés gátlására, a tűztávolságra,
-
-## f) a hő és füst elleni védelem kialakítására,
-
-## g) a hasadó, hasadó-nyíló felületekre,
-
-## h) a tűzoltósági beavatkozási feltételekre,
-
-## i) a kiürítésre, mentésre,
-
-## j) az épületgépészeti, valamint a villamos és villámvédelmi berendezések tűzvédelmi követelményeinek teljesülésére,
-
-## k) a beépített automatikus tűzjelző és tűzoltó berendezések kialakítására,
-
-## l) a biztonsági jelzésekre vonatkozó megoldásokat.
-
-## 1.2. Rajzi munkarészek, a tűzvédelmi követelmények teljesítését bemutató:
-
-## a) helyszínrajz,
-
-## b) alaprajz,
-
-## c) homlokzati rajz,
-
-## d) metszetrajz.
+## 1.2.[^247] A hatósági eljáráshoz készített tűzvédelmi tervdokumentációt tűzvédelmi szakértő vagy tűzvédelmi tervező készítheti.
 
 ## 1.3. Melléklet: az oltóvízellátás biztosítására vonatkozó közműszolgáltatói nyilatkozat.
 
-## 2. Építészeti tűzvédelmi tervfejezet tartalmi követelményei
+## 2.[^248]
 
-## 2.1. A hatósági eljáráshoz készített tűzvédelmi tervdokumentációt csak tűzvédelmi szakértő készítheti.
+## 1.5.2.0300.[^249] Az építési engedély iránti kérelem részletes tartalmára vonatkozó ajánlásokat útmutató tartalmazza.
 
-## 2.2. A vonatkozó jogszabályokban meghatározottakon túlmenően az építészeti tűzvédelmi tervfejezet a következőket tartalmazza:
+## 1.5.2.0400.[^250] A nukleáris biztonsági hatóság az építési engedély iránti kérelem elbírálása során vizsgálja, hogy az építmény és az azzal összefüggő építési tevékenység megfelel-e a vonatkozó jogszabályokban és szabványokban meghatározott követelményeknek, továbbá
 
-## a) tűzkockázat-elemzést;
+## a) a tervezett építmény elhelyezése megfelel-e az épített környezet alakításáról és védelméről szóló törvényben előírtaknak, és
 
-## b) az alkalmazott tűzvédő rendszer, bevonat karbantartására, felülvizsgálatára, felújítására, valamint az alkalmazása során betartandó technológiára vonatkozó terveket és műszaki leírásokat;
+## b) az építmény helye szerinti telek kialakítása a helyi építési szabályzat, továbbá a vonatkozó jogszabályokban meghatározottak szerint megtörtént-e.
 
-## c) a technológiai tűzvédelmi leírást, amely tartalmazza a tervezéssel érintett helyiségekben a gépekkel, berendezésekkel, készülékekkel végzett tevékenység leírását, a tervezett technológia tűzvédelmi hatásait;
+## 1.5.3.[^251] Építmények, építményszerkezetek használatbavételi engedélye
 
-## d) a technológiában alkalmazásra kerülő, a technológia során keletkező anyagok tűzvédelmi jellemzőinek meghatározását (biztonsági adatlap szerinti tűzvédelmi jellemzők);
-
-## e) a technológiai folyamat során kialakuló tűz- vagy robbanásveszélyes állapot valószínűségének meghatározását tűzkockázat-elemzéssel alátámasztva. A tűzkockázat-elemzés alapján a jelző, beavatkozó és oltórendszerek szükségességét és a tervezett rendszer ismertetését;
-
-## f) a tűzveszélyes gépek, felszerelések, szerelvények, technológiai berendezések tűzveszélyességét, alkalmazási helyüket és a biztonsági követelmények meghatározását;
-
-## g) a megengedettnél nagyobb hőfejlődés vagy nyomásemelkedés következtében veszélyessé váló gépi berendezések biztonsági (automatikus) rendszerének leírását (a technológiai szabályozó-berendezéseken kívül);
-
-## h) a villamos szerelvények, berendezések, gépek és az éghető anyag (éghető anyagú épületszerkezet) között betartandó távolság biztosítását;
-
-## i) a villamos betáplálás módját, kábelek védelmét;
-
-## j) a sztatikus feltöltődés elleni védekezés szükségességét, a védekezés módját;
-
-## k) a tűzjelzés követelményeit.
-
-## 1.5.2.0300. Az engedély iránti kérelem részletes tartalmára vonatkozó ajánlásokat útmutató tartalmazza.
-
-## 1.5.3. Építmények, épületszerkezetek használatbavételi engedélye
-
-## 1.5.3.0100. Az építményen, épületszerkezeten végzett építési, felújítási, helyreállítási, átalakítási és a rendeltetéstől eltérő használatához szükséges munkákat követően az építmény rendeltetésszerű és biztonságos használatra alkalmassá válásakor, a használatbavételt megelőzően használatbavételi engedélyt kell kérni a nukleáris biztonsági hatóságtól.
+## 1.5.3.0100.[^252] Az építményen, építményszerkezeten végzett építési, felújítási, helyreállítási, átalakítási és a rendeltetéstől eltérő használatához szükséges munkákat követően az építmény rendeltetésszerű és biztonságos használatra alkalmassá válásakor, a használatbavételt megelőzően használatbavételi engedélyt kell kérni a nukleáris biztonsági hatóságtól.
 
 ## 1.5.3.0200. Egy telephelyen egyidejűleg megvalósított több építményre, vagy egy építményen belül elvégzett többfajta építési munkára a használatbavételi engedélyt együttesen kell kérni. Több megvalósulási szakaszra bontott építkezés esetében az egyes szakaszokban megépített építményekre, továbbá a rendeltetésszerű és biztonságos használatra önmagukban alkalmas építményrészekre szakaszonként külön-külön is lehet használatbavételi engedélyt kérni.
 
-## 1.5.3.0300. A nukleáris biztonsági hatóság az építmény sajátosságait és funkcióját figyelembe véve határozza meg az engedély időbeli hatályát, de az nem lehet hosszabb az építménynek a tervében kötelezően meghatározott, előirányzott élettartamánál.
+## 1.5.3.0300.[^253] A használatbavételi engedély hatálya nem lehet hosszabb az építési szakasznak, az építménynek, vagy az építményrésznek a tervezési dokumentumokban megalapozott élettartamánál.
 
 ## 1.5.3.0400. A használatbavételi engedély időbeli hatályának meghosszabbítására külön eljárásban van lehetőség, ha a kérelemben igazolják az építmény műszaki megfelelőségét az adott időtartam végéig.
 
@@ -1856,7 +1746,7 @@
 
 ## Az engedély iránti kérelem tartalmi követelményei
 
-## 1.5.4.0200.[^170] Az engedély iránti kérelemnek a felvonókról, mozgólépcsőkről és mozgójárdákról szóló jogszabályban előírtakon túl tartalmaznia kell:
+## 1.5.4.0200.[^254] Az engedély iránti kérelemnek a felvonókról, mozgólépcsőkről és mozgójárdákról szóló jogszabályban előírtakon túl tartalmaznia kell:
 
 ## a) a felvonó megnevezését, azonosító jelét és felállítási helyét,
 
@@ -1870,13 +1760,13 @@
 
 ## Az engedély iránti kérelem tartalmi követelményei
 
-## 1.5.5.0100.[^171] Az engedély iránti kérelemnek felvonókról, mozgólépcsőkről és mozgójárdákról szóló jogszabályban előírtakon túl tartalmaznia kell:
+## 1.5.5.0100.[^255] Az engedély iránti kérelemnek felvonókról, mozgólépcsőkről és mozgójárdákról szóló jogszabályban előírtakon túl tartalmaznia kell:
 
 ## a) a felvonó megnevezését, azonosító jelét, felállítási helyét, valamint
 
 ## b) a felvonó üzembe helyezéséről készült jegyzőkönyv másolatát.
 
-## 1.5.5.0200.[^172] A felvonók építési, használatbavételi és bontási engedélyezésére vonatkozó ajánlásokat útmutató tartalmazza.
+## 1.5.5.0200.[^256] A felvonók építési, használatbavételi és bontási engedélyezésére vonatkozó ajánlásokat útmutató tartalmazza.
 
 ## 1.6. NUKLEÁRIS BIZTONSÁGI HATÓSÁGI ELLENŐRZÉSI TEVÉKENYSÉG
 
@@ -1906,6 +1796,8 @@
 
 ## A nukleáris biztonsági hatósági ellenőrzések fajtái
 
+## 1.6.2.0110.[^257] Az ellenőrzés során az engedélyes biztosítja nyilatkozattételre jogosult képviselőjét, és az ellenőrzés teljes ideje alatt készen áll a szükséges interjúk elkészítésére, dokumentumok bemutatására, helyszíni bejárások elvégzésére.
+
 ## Az átfogó ellenőrzés
 
 ## 1.6.2.0200. Az átfogó ellenőrzést a nukleáris biztonsági hatóság a nukleáris létesítmény engedélyese tevékenységének előre meghatározott területein hajtja végre. A vizsgálat célja teljes folyamatok működésének, kölcsönhatásának vizsgálata.
@@ -1914,7 +1806,7 @@
 
 ## 1.6.2.0400. Az ellenőrzés időpontját és területeit a nukleáris biztonsági hatóság előre rögzíti, és az engedélyest erről megfelelő időben tájékoztatja annak érdekében, hogy az átfogó ellenőrzés előkészítéséhez elegendő idő álljon rendelkezésre.
 
-## 1.6.2.0500. Az átfogó ellenőrzés során az engedélyes minden terület ellenőrzéséhez biztosítja nyilatkozattételre felhatalmazott képviselőjét, és az ellenőrzés teljes ideje alatt készen áll a szükséges interjúk elkészítésére, dokumentumok bemutatására, helyszíni bejárások elvégzésére.
+## 1.6.2.0500.[^258]
 
 ## 1.6.2.0600. A nukleáris biztonsági hatóság az ellenőrzés tapasztalatairól értékelést készít, és ezt elküldi az engedélyesnek. A nukleáris biztonsági hatósági értékelésben foglalt észrevételek alapján az engedélyes intézkedési tervet dolgoz ki és hajt végre. A feladatok végrehajtásáról beszámol a nukleáris biztonsági hatóságnak a rendszeres jelentések keretében.
 
@@ -1958,7 +1850,7 @@
 
 ## A telephely értékelés hatósági ellenőrzése
 
-## 1.6.2.1600. A telephely-értékelés során nukleáris biztonsági hatóság a 22. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
+## 1.6.2.1600.[^259] A telephely-értékelés során a nukleáris biztonsági hatóság a 22. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
 
 ## a) a telephely vizsgálat és értékelés során alkalmazott módszerek; és
 
@@ -1966,7 +1858,7 @@
 
 ## A létesítés hatósági ellenőrzése
 
-## 1.6.2.1700. A nukleáris létesítmény létesítése során nukleáris biztonsági hatóság a 22. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
+## 1.6.2.1700.[^260] A nukleáris létesítmény létesítése során a nukleáris biztonsági hatóság a 22. § (1) bekezdésében foglaltakon túl legalább az alábbiakat ellenőrzi:
 
 ## a) a biztonsági osztályba sorolt rendszerelemek gyártása, építése, szerelése, az üzembe helyezéséhez szükséges előkészítő tevékenységek, így különösen (tisztítási és mosatási munkák, aktív rendszerelem működési próbái), továbbá azoknak az inaktív funkciópróbáknak a végrehajtása, amelyek nukleáris anyagot nem tartalmazó fűtőelemekkel végrehajthatók;
 
@@ -2026,7 +1918,7 @@
 
 ## b) üzemeltetés irányítása,
 
-## c)[^173] a rendszerek és rendszerelemek műszaki állapotának fenntartására irányuló tevékenységek, mint a karbantartás és hatékonyságának biztosítása, az öregedéskezelés, a berendezések környezetállósági minősítése és a minősített állapot fenntartása,
+## c)[^261] a rendszerek és rendszerelemek műszaki állapotának fenntartására irányuló tevékenységek, mint a karbantartás és hatékonyságának biztosítása, az öregedéskezelés, a berendezések környezetállósági minősítése és a minősített állapot fenntartása,
 
 ## d) nukleárisüzemanyag-kezelés, és -felhasználás,
 
@@ -2088,13 +1980,13 @@
 
 ## 1.7.2.0300. Az engedélyes évente, első alkalommal a létesítési engedély kiadását követő év március 31-ig éves jelentést nyújt be. Az Éves Jelentés tartalmi követelményei:
 
-## a) az előző jelentésben szereplő ütemterv értékelése,
+## a)[^262] a létesítési engedélyben, illetve az előző jelentésben szereplő ütemterv értékelése,
 
 ## b) az engedélyes szervezetére, erőforrásaira vonatkozó információk,
 
 ## c) a fontosabb beszállítók tevékenységének és biztonsági teljesítményének értékelése,
 
-## d) a fontosabb tervmódosítások indokolásának és megfelelőségének bemutatása, valamint
+## d)[^263] a fontosabb tervmódosítások, engedélyektől, engedélyt megalapozó dokumentációkban foglaltaktól való eltérések indokolásának és megfelelőségének bemutatása, valamint
 
 ## e) a következő évi ütemterv bemutatása.
 
@@ -2192,15 +2084,15 @@
 
 ## f) a Kampányzáró Jelentést a kutatóreaktor adott kampányának befejezését követő 30 napon belül.
 
-## 1.7.3.[^174] Az Időszakos Biztonsági Felülvizsgálat[^175]
+## 1.7.3.[^264] Az Időszakos Biztonsági Felülvizsgálat[^265]
 
-## 1.7.3.0100.[^176] Az Időszakos Biztonsági Felülvizsgálatot valamennyi nukleáris létesítményben az engedélyes 10 évente elvégzi, és annak eredményeit Időszakos Biztonsági Jelentésben a nukleáris biztonsági hatóság számára benyújtja. Ha két Időszakos Biztonsági Felülvizsgálat között olyan lényeges új információk merülnek fel a nukleáris létesítmény biztonságával kapcsolatban, amelyek fejlesztéseket tesznek szükségessé, azokat haladéktalanul meg kell valósítani.
+## 1.7.3.0100.[^266] Az Időszakos Biztonsági Felülvizsgálatot valamennyi nukleáris létesítményben az engedélyes 10 évente elvégzi, és annak eredményeit Időszakos Biztonsági Jelentésben a nukleáris biztonsági hatóság számára benyújtja. Ha két Időszakos Biztonsági Felülvizsgálat között olyan lényeges új információk merülnek fel a nukleáris létesítmény biztonságával kapcsolatban, amelyek fejlesztéseket tesznek szükségessé, azokat haladéktalanul meg kell valósítani.
 
-## 1.7.3.0200[^177]. A felülvizsgálat során az engedélyesnek elemeznie kell a nukleáris létesítmény üzemeltetésének és az engedélyezési alapjának összhangját, és minden, az engedély tartalmát érintően azonosított eltérést meg kell szüntetnie, vagy annak fennmaradásához a nukleáris biztonsági hatóság jóváhagyását kell kérnie.
+## 1.7.3.0200[^267]. A felülvizsgálat során az engedélyesnek elemeznie kell a nukleáris létesítmény üzemeltetésének és az engedélyezési alapjának összhangját, és minden, az engedély tartalmát érintően azonosított eltérést meg kell szüntetnie, vagy annak fennmaradásához a nukleáris biztonsági hatóság jóváhagyását kell kérnie.
 
 ## 1.7.3.0300. A felülvizsgálatnak ki kell terjednie az alábbiakra:
 
-## a)[^178] a nukleáris biztonsági szabályzatoktól és a nemzetközileg elismert jó gyakorlattól való eltérések azonosítása, és az eltérések nukleáris biztonsági jelentőségének értékelése az üzemeltetési tapasztalatok, valamint a tudomány és technika eredményeinek figyelembe vételével,
+## a)[^268] a nukleáris biztonsági szabályzatoktól és a nemzetközileg elismert jó gyakorlattól való eltérések azonosítása, és az eltérések nukleáris biztonsági jelentőségének értékelése az üzemeltetési tapasztalatok, valamint a tudomány és technika eredményeinek figyelembe vételével,
 
 ## b) a nukleáris létesítmény, annak rendszerei és rendszerelemei állapotában bekövetkező változások azonosítása és értékelése,
 
@@ -2214,7 +2106,7 @@
 
 ## a) a nukleáris létesítmény Végleges Biztonsági Jelentésben dokumentált terve,
 
-## b)[^179] a telephelyi jellemzők, külső veszélyeztető tényezőkkel szembeni ellenálló-képesség
+## b)[^269] a telephelyi jellemzők, külső veszélyeztető tényezőkkel szembeni ellenálló-képesség
 
 ## c) leszerelés,
 
@@ -2230,29 +2122,29 @@
 
 ## i) a nukleáris létesítmény biztonsági mutatói,
 
-## j)[^180] releváns műszaki-tudományos eredmények és üzemviteli tapasztalatok értékelése és visszacsatolása,
+## j)[^270] releváns műszaki-tudományos eredmények és üzemviteli tapasztalatok értékelése és visszacsatolása,
 
 ## k) más, hasonló nukleáris létesítmények tapasztalatainak és a kutatások eredményeinek hasznosítása,
 
-## l)[^181] szervezet, emberi tényező, irányítási rendszer és biztonsági kultúra,
+## l)[^271] szervezet, emberi tényező, irányítási rendszer és biztonsági kultúra,
 
 ## m) eljárások,
 
-## n)[^182] balesetkezelés,
+## n)[^272] balesetkezelés,
 
-## o)[^183] nukleárisbaleset-elhárítási felkészülés,
+## o)[^273] nukleárisbaleset-elhárítási felkészülés,
 
-## p)[^184] a dolgozók és a lakosság sugárvédelme, valamint a környezet sugárterhelése,
+## p)[^274] a dolgozók és a lakosság sugárvédelme, valamint a környezet sugárterhelése,
 
 ## q) kutatóreaktor esetén a kísérleti berendezések.
 
 ## 1.7.3.0600. A felülvizsgálat során korszerű, szisztematikus és dokumentált módszertant kell alkalmazni, mind determinisztikus, mind valószínűségi biztonsági elemzéseket figyelembe véve.
 
-## 1.7.3.0700.[^185] Minden, az időszakos biztonsági felülvizsgálat terjedelmébe tartozó területet felül kell vizsgálni, és az azonosított eltéréseket össze kell hasonlítani az engedélyezési követelményekkel, valamint az aktuális nukleáris biztonsági szabályzatokkal és gyakorlattal. Az azonosított eltérések biztonságra gyakorolt hatását megfelelő módszerekkel értékelni kell. A feltárt (pozitív és negatív) eltéréseket átfogóan is értékelni kell és azonosítani kell az ésszerűen megvalósítható biztonságnövelő intézkedéseket.
+## 1.7.3.0700.[^275] Minden, az időszakos biztonsági felülvizsgálat terjedelmébe tartozó területet felül kell vizsgálni, és az azonosított eltéréseket össze kell hasonlítani az engedélyezési követelményekkel, valamint az aktuális nukleáris biztonsági szabályzatokkal és gyakorlattal. Az azonosított eltérések biztonságra gyakorolt hatását megfelelő módszerekkel értékelni kell. A feltárt (pozitív és negatív) eltéréseket átfogóan is értékelni kell és azonosítani kell az ésszerűen megvalósítható biztonságnövelő intézkedéseket.
 
-## 1.7.3.0800.[^186] El kell végezni a nukleáris létesítmény nukleáris biztonságának átfogó értékelését, és a minden területre kiterjedő felülvizsgálat eredményei alapján be kell mutatni, hogy a nukleáris létesítmény igazoltan elegendően biztonságos a további folyamatos üzemeltetésre legalább a következő Időszakos Biztonsági Felülvizsgálatig. Az értékelésben ki kell emelni azokat a problémákat, amelyek korlátozhatják a létesítmény biztonságos üzemeltetését, illetve be kell mutatni, hogy az engedélyes ezeket milyen módon kívánja kezelni.
+## 1.7.3.0800.[^276] El kell végezni a nukleáris létesítmény nukleáris biztonságának átfogó értékelését, és a minden területre kiterjedő felülvizsgálat eredményei alapján be kell mutatni, hogy a nukleáris létesítmény igazoltan elegendően biztonságos a további folyamatos üzemeltetésre legalább a következő Időszakos Biztonsági Felülvizsgálatig. Az értékelésben ki kell emelni azokat a problémákat, amelyek korlátozhatják a létesítmény biztonságos üzemeltetését, illetve be kell mutatni, hogy az engedélyes ezeket milyen módon kívánja kezelni.
 
-## 1.7.3.0900.[^187] Az engedélyesnek a felülvizsgálat eredményeként előálló minden, a nukleáris biztonság szempontjából jelentős, ésszerűen megvalósítható javító intézkedést a lehető legrövidebb időn belül végre kell hajtania. A végrehajtási határidők meghatározásakor a javító intézkedések biztonsági súlyát is figyelembe kell venni.
+## 1.7.3.0900.[^277] Az engedélyesnek a felülvizsgálat eredményeként előálló minden, a nukleáris biztonság szempontjából jelentős, ésszerűen megvalósítható javító intézkedést a lehető legrövidebb időn belül, de legkésőbb a felülvizsgálat megkezdéséig végre kell hajtania. A végrehajtási határidők meghatározásakor a javító intézkedések biztonsági súlyát is figyelembe kell venni.
 
 ## 1.7.3.1000. Az Időszakos Biztonsági Jelentés részletes tartalmára vonatkozó ajánlásokat útmutató tartalmazza.
 
@@ -2284,7 +2176,7 @@
 
 ## A jelentési kötelezettség alá tartozó események köre
 
-## 1.7.4.0300.[^188] Az engedélyes a nukleáris létesítményben bekövetkezett, a jelentési kötelezettség alá tartozó minden rendkívüli eseményről eseti jelentést nyújt be a nukleáris biztonsági hatóságnak. A jelentésköteles események körét
+## 1.7.4.0300.[^278] Az engedélyes a nukleáris létesítményben bekövetkezett, a jelentési kötelezettség alá tartozó minden rendkívüli eseményről eseti jelentést nyújt be a nukleáris biztonsági hatóságnak. A jelentésköteles események körét
 
 ## a) a létesítési engedélyezési eljárás keretében,
 
@@ -2300,15 +2192,15 @@
 
 ## INES minősítési, egyeztetési és tájékoztatási kötelezettség
 
-## 1.7.4.0500. Minden eseménynek el kell készíteni az INES minősítését. A besorolásra az engedélyes tesz javaslatot, és azt faxon elküldi a nukleáris biztonsági hatóságnak. A végső minősítést a nukleáris biztonsági hatóság állapítja meg.
+## 1.7.4.0500.[^279] Minden eseménynek el kell készíteni az INES minősítését. A minősítésre az engedélyes tesz javaslatot, és azt faxon elküldi a nukleáris biztonsági hatóságnak. A végső minősítést a nukleáris biztonsági hatóság állapítja meg.
 
 ## 1.7.4.0600. A jelentésköteles esemény INES minősítéséről legkésőbb az esemény bekövetkezését, vagy amennyiben azt azonnal nem észlelték, akkor az észlelését követő 16 órán belül a nukleáris biztonsági hatóságot értesíteni kell.
 
 ## 1.7.4.0700. Az INES szerinti 1 vagy annál magasabb minősítésű eseményről az esemény bekövetkezését vagy észlelését követő 24 órán belül a Nemzetközi Atomenergia Ügynökséget tájékoztatni kell. A tájékoztatást a nukleáris biztonsági hatóság végzi. Az engedélyes köteles az ehhez szükséges információt és az esemény angol nyelvű INES formanyomtatványát az eseményt követő 20 órán belül a nukleáris biztonsági hatóság rendelkezésére bocsátani.
 
-## 1.7.4.0800. Az INES szerinti 1 vagy annál magasabb minősítésű eseményről 24 órán belül, az INES szerinti 0 vagy az alatti besorolású eseményekről rendszeresen kell a közvéleményt tájékoztatni. A tájékoztatást a nukleáris biztonsági hatósággal egyeztetett módon az engedélyes végzi. Az INES szerinti 1 vagy annál magasabb minősítésű eseményről készített tájékoztató közlemény szövegét az engedélyes az esemény bekövetkezését, vagy felfedezését követő 20 órán belül, de még annak nyilvánosságra hozatala előtt elküldi a nukleáris biztonsági hatóságnak.
+## 1.7.4.0800.[^280] Az INES szerinti 1 vagy annál magasabb minősítésű eseményről 24 órán belül, az INES szerinti 0 vagy az alatti minősítésű eseményekről rendszeresen kell a közvéleményt tájékoztatni. A tájékoztatást a nukleáris biztonsági hatósággal egyeztetett módon az engedélyes végzi. Az INES szerinti 1 vagy annál magasabb minősítésű eseményről készített tájékoztató közlemény szövegét az engedélyes az esemény bekövetkezését, vagy felfedezését követő 20 órán belül, de még annak nyilvánosságra hozatala előtt elküldi a nukleáris biztonsági hatóságnak.
 
-## A jelentési kötelezettség teljesítésének módja
+## A jelentési kötelezettség teljesítésének módja az üzembe helyezés, üzemeltetés és megszüntetés során[^281]
 
 ## 1.7.4.0900. Az engedélyes az eseti jelentési kötelezettségét a következők szerint teljesíti:
 
@@ -2316,7 +2208,7 @@
 
 ## b) a nem azonnali bejelentési kötelezettség alá tartozó eseményt nem később, mint a bekövetkezést, vagy amennyiben azt azonnal nem észlelték, akkor az észlelést követő 14 órán belül telefonon a nukleáris biztonsági hatóságnak bejelenti,
 
-## c) az INES besorolást elküldi 16 órán belül,
+## c)[^282] az INES minősítést elküldi 16 órán belül,
 
 ## d) az eseményt írásban bejelenti a nukleáris biztonsági hatóságnak az esemény bekövetkezését követő 16 órán belül,
 
@@ -2346,7 +2238,7 @@
 
 ## 1.7.5.0100. Az engedélyes a nukleáris biztonsági hatóságnak állapothoz rendelt jelentést nyújt be a létesítési életciklus szakaszban az alábbi tervezési és létesítési fázisokat megelőzően 30 nappal:
 
-## a) a nukleáris biztonság szempontjából fontos tervezői, építési, gyártási és szerelési szerződések tenderdokumentációjának elkészítése,
+## a)[^283] a nukleáris biztonság szempontjából fontos tervezői, építési, gyártási és szerelési szerződések specifikációjának elkészítése,
 
 ## b) a nukleáris sziget egyes építményeinek elkezdése,
 
@@ -2374,7 +2266,7 @@
 
 ## 1.7.6. Riasztás és tájékoztatás nukleáris veszélyhelyzetben, természeti és ipari katasztrófa esetén
 
-## 1.7.6.0100.[^189] Az engedélyes nukleáris veszélyhelyzet kialakulása, természeti vagy ipari katasztrófa bekövetkezése után haladéktalanul, legkésőbb a felismerést követő 15 percen belül elvégzi a veszélyhelyzeti osztály megállapítását. A veszélyhelyzet felismerése után 30 percen belül riasztani kell az országos nukleárisbaleset-elhárítási rendszer érintett szerveit. A riasztást a nukleáris létesítmény Nukleárisbaleset-elhárítási Intézkedési Tervében szabályozott módon és tartalommal kell elvégezni. A riasztási feladatok keretében a nukleáris veszélyhelyzet felismerése után legkésőbb 60 percen belül a nukleáris létesítmény Nukleárisbaleset-elhárítási Intézkedési Terve szerint kell az első tájékoztatást írásban megadni a nukleáris veszélyhelyzet ismertté vált körülményeiről és következményeiről.
+## 1.7.6.0100.[^284] Az engedélyes nukleáris veszélyhelyzet kialakulása, természeti vagy ipari katasztrófa bekövetkezése után haladéktalanul, legkésőbb a felismerést követő 15 percen belül elvégzi a veszélyhelyzeti osztály megállapítását. A veszélyhelyzet felismerése után 30 percen belül riasztani kell az országos nukleárisbaleset-elhárítási rendszer érintett szerveit. A riasztást a nukleáris létesítmény Nukleárisbaleset-elhárítási Intézkedési Tervében szabályozott módon és tartalommal kell elvégezni. A riasztási feladatok keretében a nukleáris veszélyhelyzet felismerése után legkésőbb 60 percen belül a nukleáris létesítmény Nukleárisbaleset-elhárítási Intézkedési Terve szerint kell az első tájékoztatást írásban megadni a nukleáris veszélyhelyzet ismertté vált körülményeiről és következményeiről.
 
 ## 1.7.6.0200. Nukleáris veszélyhelyzet kialakulása, természeti vagy ipari katasztrófa bekövetkezése esetén, a riasztási feladatok elvégzése után az engedélyes rendszeres tájékoztatást ad az országos nukleárisbaleset-elhárítási rendszer kijelölt intézményei számára. A helyzetismertető és technológiai tájékoztató jelentéseket a veszélyhelyzeti eseményekhez igazodva, de legalább 1,5–2 óránként kell továbbítani, vagy bármely más módon tájékoztatást adni, amely egyenértékűen biztosítja a veszélyhelyzeti állapot független értékeléséhez szükséges információt.
 
@@ -2382,9 +2274,9 @@
 
 ## 1.8.1. A munkakörök kategorizálása a nukleáris biztonság szempontjából
 
-## 1.8.1.0100.[^190] Az adott nukleáris létesítményre jellemző sajátosságok figyelembevételével a tervező meghatározza a biztonság szempontjából fontos munkakörök és ezen belül a biztonság szempontjából meghatározó munkakörök listáját, amelyet szerepeltetni kell a nukleáris létesítmény Előzetes Biztonsági Jelentésében és Végleges Biztonsági Jelentésében. A listákat a nukleáris biztonsági hatóság a létesítési engedélyben hagyja jóvá, majd időszakosan, de legalább az időszakos biztonsági felülvizsgálat keretében felülvizsgálja, és szükség szerint aktualizálja.
+## 1.8.1.0100.[^285] Az adott nukleáris létesítményre jellemző sajátosságok figyelembevételével a tervező meghatározza a biztonság szempontjából fontos munkakörök és ezen belül a biztonság szempontjából meghatározó munkakörök listáját, amelyet szerepeltetni kell a nukleáris létesítmény Előzetes Biztonsági Jelentésében, a Végleges Biztonsági Jelentés előzetes változatában és Végleges Biztonsági Jelentésében. A listákat a nukleáris biztonsági hatóság a létesítési engedélyben hagyja jóvá, majd időszakosan, de legalább az időszakos biztonsági felülvizsgálat keretében felülvizsgálja, és szükség szerint aktualizálja.
 
-## 1.8.2. Jogosítvány megszerzése és megújítása
+## 1.8.2.[^286] Hatósági jogosítvány megszerzése és megújítása
 
 ## 1.8.2.0100. A biztonság szempontjából meghatározó munkakörök betöltése nukleáris biztonsági hatósági jogosítványhoz kötött. A nukleáris biztonsági hatósági jogosítvány megszerzéséhez nukleáris biztonsági hatósági jogosító vizsgát kell tenni, melynek az engedélyes által elkészített szabályozását a nukleáris biztonsági hatóság hagyja jóvá.
 
@@ -2402,19 +2294,27 @@
 
 ## 1.8.2.0500. Az atomerőműben a jogosítvány megszerzéséhez, megújításához az ügyeletes mérnöki és a blokkvezénylői munkaköröknél a gyakorlati ismeretek megfelelő voltát és a rátermettséget szimulátoron végzett gyakorlattal is igazolni kell. A vizsgán a jelöltnek bizonyítania kell, hogy a nukleáris biztonságot figyelemmel kísérő és azt fenntartó képességgel rendelkezik, és beavatkozási jogosultságának megfelelően képes:
 
-## a)[^191] a normál üzemi folyamatok végzéséhez, valamint a TA2-4 és TAK1-2 üzemállapotok elhárításához szükséges csoportmunkára,
+## a)[^287] a normál üzemi folyamatok végzéséhez, valamint a TA2-4 és TAK1-2 üzemállapotok elhárításához szükséges csoportmunkára,
 
 ## b) a blokkvezénylői információ alapján megítélni az atomerőművi blokk üzemállapotát, meghatározni a normál üzemtől való eltéréseket és végrehajtani a szükséges intézkedéseket, valamint
 
-## c)[^192] üzemzavar és baleset esetén felismerni és értékelni a helyzetet, elvégezni az előírások szerinti ellenőrzéseket és intézkedéseket, meghatározni az atomerőművi blokk biztonságos üzemi állapotba viteléhez és tartásához szükséges további teendőket.
+## c)[^288] üzemzavar és baleset esetén felismerni és értékelni a helyzetet, elvégezni az előírások szerinti ellenőrzéseket és intézkedéseket, meghatározni az atomerőművi blokk biztonságos üzemi állapotba viteléhez és tartásához szükséges további teendőket.
 
-## 1.8.2.0600. Új nukleáris létesítmény esetén a jogosítványokat a nukleáris létesítmény üzembe helyezési engedélyének kiadásáig, atomreaktorral üzemelő nukleáris létesítmény esetén legkésőbb a fűtőelemek első berakásának megkezdéséig kell megszerezni.
+## 1.8.2.0600.[^289] Új nukleáris létesítmény esetén a jogosítványokat a nukleáris létesítmény üzembe helyezési engedélyének kiadásáig kell megszerezni.
 
 ## 1.8.2.0700. A jogosítványok kiadását és megújítását az engedélyes kérelmezi. A kérelemhez 2 példányban mellékelni kell a jogosítvány kiadásának, megújításának feltételeként előírtak teljesülését igazoló dokumentumokat.
 
 ## A jogosítvány hatálya
 
-## 1.8.2.0800. A jogosítvány időbeli hatálya a sikeres vizsga időpontjától számítva legfeljebb 5 év.
+## 1.8.2.0800.[^290] A jogosítvány időbeli hatálya:
+
+## a) 3 év az első jogosító vizsgát követően;
+
+## b) 3 év, ha a vizsgázó sikertelen megújító vizsga után sikeres ismétlő vizsgát tesz;
+
+## c) 5 év, ha a megújító vizsga kiváló minősítésű;
+
+## d) A jogosító vagy megújító vizsgán elért eredmény alapján a jogosítvány hatálya 2 vagy 1 évre korlátozható.
 
 ## 1.8.2.0900. A jogosítvány érvényessége megszűnik, amennyiben:
 
@@ -2434,13 +2334,13 @@
 
 ## 1.8.2.1100. Érvénytelen jogosítvány esetén a megújítás feltételeit a nukleáris biztonsági hatóság esetileg határozza meg.
 
-## 1.8.2.1200.[^193] Több hasonló blokkal üzemelő atomerőmű esetében, amennyiben a nukleáris létesítmény rendelkezik az atomerőművi blokkok közötti különbségeket is oktató képzési programmal, blokkszimulátorral és a másik atomerőművi blokkon történő munkavégzés feltételeinek a nukleáris biztonsági hatóság által elfogadott szabályozásával, akkor az adott munkakör betöltését biztosító jogosítvány az atomerőmű minden blokkjára kiterjedő érvényességgel is kiadható.
+## 1.8.2.1200.[^291] Több ugyanolyan típusú blokkal üzemelő atomerőmű esetében, amennyiben a nukleáris létesítmény rendelkezik az atomerőművi blokkok közötti különbségeket is oktató képzési programmal, blokkszimulátorral és a másik atomerőművi blokkon történő munkavégzés feltételeinek a nukleáris biztonsági hatóság által elfogadott szabályozásával, akkor az adott munkakör betöltését biztosító jogosítvány az atomerőmű minden blokkjára kiterjedő érvényességgel is kiadható.
 
 ## 1.9. NYOMÁSTARTÓ BERENDEZÉSEK ÉS CSŐVEZETÉKEK NUKLEÁRIS BIZTONSÁGI HATÓSÁGI FELÜGYELETÉNEK ELŐÍRÁSAI
 
 ## 1.9.1.0100. Az e rendelet hatálya alá tartozó nyomástartó berendezésekre és csővezetékekre (az 1.9. pontban a továbbiakban együtt: nukleáris biztonsági hatósági felügyelet alá tartozó nyomástartó berendezések és csővezetékek) a Nukleáris Biztonsági Szabályzatokban az adott nukleáris létesítmény rendszerelemeire, rendszereire előírt általános engedélyezési és ellenőrzési, valamint műszaki követelményeket az ebben a pontban meghatározott eltérésekkel kell alkalmazni.
 
-## 1.9.1.0200.[^194] Nem tartozik nukleáris biztonsági hatósági engedélyezési eljárás alá a nukleáris biztonsági hatósági felügyelet alá tartozó nyomástartó berendezése és csővezetéke, ha az:
+## 1.9.1.0200.[^292] Nem tartozik nukleáris biztonsági hatósági engedélyezési eljárás alá a nukleáris biztonsági hatósági felügyelet alá tartozó nyomástartó berendezése és csővezetéke, ha az:
 
 ## a) 2. vagy annál alacsonyabb biztonsági osztályú NÁ<50 mm-es csővezeték,
 
@@ -2462,7 +2362,7 @@
 
 ## 1.9.1.0600. A nukleáris biztonsági hatóság a nukleáris biztonsági hatósági engedélyezési eljárás alá nem tartozó nyomástartó berendezések és csővezetékek létesítésének, továbbá e rendelet hatálya alá tartozó már üzemben levő összes nyomástartó berendezés és csővezeték üzemeltetésének körülményeit ellenőrizheti, és a szükséges biztonsági intézkedések betartására kötelezheti az engedélyest.
 
-## 1.9.1.0700. Az üzemelő nukleáris létesítmény nukleáris biztonsági hatósági engedélyezési eljárás alá tartozó nyomástartó berendezésének és csővezetékének gyártását követő első vizsgálatait, továbbá üzemeltetése alatt az időszakos és eseti vizsgálatokat a nukleáris biztonsági hatóság feljogosítása alapján és rendszeres ellenőrzése mellett az engedélyes ellenőrző szervezete – kutatóreaktor esetén ellenőrző munkavállaló – vagy az engedélyestől független, feljogosított ellenőrző szervezet (a továbbiakban együtt: ellenőrző szervezet) végezheti.
+## 1.9.1.0700.[^293] Az üzemelő nukleáris létesítmény nukleáris biztonsági hatósági engedélyezési eljárás alá tartozó nyomástartó berendezésének és csővezetékének gyártását követő első vizsgálatok, továbbá üzemeltetése alatt az időszakos ellenőrzési program szerinti időszakos és eseti vizsgálatok elvégzéséért, az engedélyes a felelős. Az engedélyes a program végrehajtásához akkreditált ellenőrzési szervezetet, illetve akkreditált vizsgáló laboratóriumot vonhat be.
 
 ## 1.9.1.0800. Az ellenőrző szervezetnek és munkavállalóinak függetlennek kell lennie az ítélet alkotását befolyásoló hatásoktól, különösen az elvégzett ellenőrzések eredményében érdekeltek hatásától.
 
@@ -2512,11 +2412,11 @@
 
 ## 1.9.1.2100. Nukleáris biztonsági hatósági engedélyezési eljárás alá tartozó nyomástartó berendezéseknél és csővezetékeknél műszakilag indokolt egyedi esetekben, azonos biztonsági követelmények betartása mellett kérelmezhető az időszakos vizsgálat előírt módszerének más ellenőrzési módszerrel történő helyettesítése. A kérelemről a nukleáris biztonsági hatóság a 18. § (2) bekezdése szerinti eljárásban hozza meg döntését.
 
-## 1.10.[^195] AZ ENGEDÉLYEKBEN ELŐÍRTAKTÓL VALÓ ELTÉRÉSEK NUKLEÁRIS BIZTONSÁGI HATÓSÁGI FELÜGYELETE A LÉTESÍTÉS SORÁN
+## 1.10.[^294] AZ ENGEDÉLYEKBEN ELŐÍRTAKTÓL VALÓ ELTÉRÉSEK NUKLEÁRIS BIZTONSÁGI HATÓSÁGI FELÜGYELETE A LÉTESÍTÉS SORÁN
 
 ## 1.10.1.0100. Az 1.10. pont előírásait a nukleáris létesítmény létesítési életciklus-szakaszában kell alkalmazni.
 
-## 1.10.1.0200.[^196] Ha az engedélyes a nukleáris biztonsági hatóság által új nukleáris létesítmény megvalósításával összefüggésben kiadott létesítési, építési, használatbavételi, gyártási, beszerzési vagy szerelési engedély véglegessé válását követően az engedélyben rögzítettektől vagy az engedélyt megalapozó dokumentációban foglaltaktól a 9.2.1.1300. pont szerint eltérést tervez, az engedélyes köteles az eltérést a nukleáris biztonsági hatóság számára bejelenteni.
+## 1.10.1.0200.[^295] Ha az engedélyes a nukleáris biztonsági hatóság által új nukleáris létesítmény megvalósításával összefüggésben kiadott létesítési, építési, használatbavételi, gyártási, beszerzési vagy szerelési engedély véglegessé válását követően az engedélyben rögzítettektől vagy az engedélyt megalapozó dokumentációban foglaltaktól a 9.2.1.1300. pont szerint eltérést tervez, az engedélyes köteles az eltérést a nukleáris biztonsági hatóság számára bejelenteni.
 
 ## 1.10.1.0300. Az engedélyes a bejelentéssel együtt megküldi a 9.2.1.1300. pont szerinti előzetes biztonsági értékelést és a 9.2.1.1400. pont szerinti kategorizálás eredményét indokolással.
 
@@ -2540,116 +2440,206 @@
 
 ## 1.10.1.0800. A létesítés időszakában elhatározott módosításokat, változtatásokat az üzembe helyezési engedély iránti kérelmet megalapozó dokumentációban is be kell mutatni azzal a részletességgel, ahogy az adott kérdés a létesítési engedélyezési dokumentációban szerepelt.
 
+## 1.11.[^296] A BESZÁLLÍTÓK ALKALMASSÁGÁNAK IGAZOLÁSA
+
+## 1.11.1.0100. Az engedélyes a beszállítók alkalmasságának igazolására vonatkozó - helyszíni audit nélküli vagy helyszíni audittal történő - minősítő eljárás lefolytatásáról értesíti a nukleáris biztonsági hatóságot. Belföldi audit esetén az értesítést az auditot megelőzően legalább 10 munkanappal vagy külföldi audit esetén legalább 20 munkanappal korábban megküldi.
+
+## 1.11.1.0200. Ha a nukleáris biztonsági hatóság jelzi részvételi szándékát a helyszíni audit végrehajtásában, az engedélyes legkésőbb 5 munkanappal a helyszíni audit időpontja előtt megküldi a hatóság számára a beszállító releváns belső szabályozó dokumentumait.
+
+## 1.11.1.0300. A minősítő audit(ok) befejezését követően 15 munkanapon belül meg kell küldeni a nukleáris biztonsági hatóságnak a vizsgálati jelentést és annak mellékleteit (különösen a minősítő lap, a minősítő lap mellékletei, a minősítő tevékenységet részletező lap, az eltérések jegyzőkönyve(i), jelenléti ív és minden további, az eljárással összefüggésben keletkezett dokumentum), vagy azokhoz elektronikus hozzáférést kell biztosítani.
+
 2. melléklet a 118/2011. (VII. 11.) Korm. rendelethez
 
-[^86]: Az 1. melléklet 1.2.2. pontja a 218/2013. (VI. 21.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^87]: Az 1. melléklet 1.2.2.0100. pontja a 457/2017. (XII. 28.) Korm. rendelet 332. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^88]: Az 1. melléklet 1.2.2.0200. pontja a 457/2017. (XII. 28.) Korm. rendelet 332. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^89]: Az 1. melléklet 1.2.2.0600. pontja a 457/2017. (XII. 28.) Korm. rendelet 332. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^90]: Az 1. melléklet 1.2.3.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^91]: Az 1. melléklet 1.2.3.0110. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^92]: Az 1. melléklet 1.2.3.0110. pont a) alpontja a 457/2017. (XII. 28.) Korm. rendelet 332. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^93]: Az 1. melléklet 1.2.3.0110. pont b) alpontja a 457/2017. (XII. 28.) Korm. rendelet 332. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^94]: Az 1. melléklet 1.2.3.0120. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^95]: Az 1. melléklet 1.2.3.0130. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^96]: Az 1. melléklet 1.2.3.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 332. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^97]: Az 1. melléklet 1.2.3.0210. pontját a 218/2013. (VI. 21.) Korm. rendelet 4. § (1) bekezdése iktatta be, hatályon kívül helyezte a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése.
-[^98]: Az 1. melléklet 1.2.3.0220. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^99]: Az 1. melléklet 1.2.3.0230. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^100]: Az 1. melléklet 1.2.3.0240. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^101]: Az 1. melléklet 1.2.3.0250. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^102]: Az 1. melléklet 1.2.3.0260. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^103]: Az 1. melléklet 1.2.3.0270. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^104]: Az 1. melléklet 1.2.3.0280. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^105]: Az 1. melléklet 1.2.3.0280. pont l) pont lb) alpont lbc) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^106]: Az 1. melléklet 1.2.3.0280. pont l) pont lc) alpont lce) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^107]: Az 1. melléklet 1.2.3.0280. pont l) pont lc) alpont lcf) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^108]: Az 1. melléklet 1.2.3.0280. pont l) pont ld) alpont ldc) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^109]: Az 1. melléklet 1.2.3.0300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése hatályon kívül helyezte.
-[^110]: Az 1. melléklet 1.2.3.0310. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^111]: Az 1. melléklet 1.2.3.0410. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^112]: Az 1. melléklet 1.2.3.0600. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^113]: Az 1. melléklet 1.2.4.0200. pontja a 457/2017. (XII. 28.) Korm. rendelet 332. § g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^114]: Az 1. melléklet 1.2.4.0210. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^115]: Az 1. melléklet 1.2.4.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^116]: Az 1. melléklet 1.2.4.0400. pont e) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^117]: Az 1. melléklet 1.2.4.0400. pont f) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^118]: Az 1. melléklet 1.2.4.0400. pont h) pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^119]: Az 1. melléklet 1.2.4.0400. pont i) pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^120]: Az 1. melléklet 1.2.4.0400. pont j) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^121]: Az 1. melléklet 1.2.4.0400. pont k) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^122]: Az 1. melléklet 1.2.4.0400. pont l) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^123]: Az 1. melléklet 1.2.4.0400. pont m) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^124]: Az 1. melléklet 1.2.4.0500. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^125]: Az 1. melléklet 1.2.4.0500. pont f) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^126]: Az 1. melléklet 1.2.4.0500. pont i) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^127]: Az 1. melléklet 1.2.4.0510. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^128]: Az 1. melléklet 1.2.4.0520. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^129]: Az 1. melléklet 1.2.4.0600. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^130]: Az 1. melléklet 1.2.5.0600. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^131]: Az 1. melléklet 1.2.5.0600. pont d) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^132]: Az 1. melléklet 1.2.5.0600. pont e) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^133]: Az 1. melléklet 1.2.5.0600. pont f) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^134]: Az 1. melléklet 1.2.5.0700. nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^135]: Az 1. melléklet 1.2.5.0700. pont a) pont ab) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^136]: Az 1. melléklet 1.2.5.0700. pont f) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^137]: Az 1. melléklet 1.2.5.0700. pont g) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^138]: Az 1. melléklet 1.2.5.0800. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^139]: Az 1. melléklet 1.2.5.0900. pontot a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^140]: Az 1. melléklet 1.2.6.1500. pont e) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^141]: Az 1. melléklet 1.2.6.1500. pont f) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^142]: Az 1. melléklet 1.2.7.0200. pontja a 457/2017. (XII. 28.) Korm. rendelet 332. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^143]: Az 1. melléklet 1.2.8.1100. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^144]: Az 1. melléklet 1.2.8.1100. pont d) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^145]: Az 1. melléklet 1.2.8.1100. pont e) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^146]: Az 1. melléklet 1.2.8.1100. pont f) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
-[^147]: Az 1. melléklet 1.2.8.1500. pont e) alpontja a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontjával megállapított szöveg.
-[^148]: Az 1. melléklet 1.2.8.1500. pont f) alpontja a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontjával megállapított szöveg.
-[^149]: Az 1. melléklet 1.2.8.1600. pontja a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontjával megállapított szöveg.
-[^150]: Az 1. melléklet 1.3.1.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^151]: Az 1. melléklet 1.3.2.0100. pont e) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^152]: Az 1. melléklet 1.3.2.0500. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^153]: Az 1. melléklet 1.3.3.0100. pont d) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^154]: Az 1. melléklet 1.3.3.0500. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^155]: Az 1. melléklet 1.3.4.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^156]: Az 1. melléklet 1.3.4.0500. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^157]: Az 1. melléklet 1.4.1.1200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^158]: Az 1. melléklet 1.4.1.1310. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^159]: Az 1. melléklet 1.4.1.1510. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^160]: Az 1. melléklet 1.4.1.1700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése, a 457/2017. (XII. 28.) Korm. rendelet 333. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^161]: Az 1. melléklet 1.4.1.1710. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^162]: Az 1. melléklet 1.5.1.0110. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^163]: Az 1. melléklet 1.5.1.0200. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^164]: Az 1. melléklet 1.5.1.0200. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^165]: Az 1. melléklet 1.5.1.0500. pontja a 457/2017. (XII. 28.) Korm. rendelet 332. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^166]: Az 1. melléklet 1.5.2.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^167]: Az 1. melléklet 1.5.2.0210. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^168]: Az 1. melléklet 1.5.2.0220. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^169]: Az 1. melléklet 1.5.2.0230. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^170]: Az 1. melléklet 1.5.4.0200. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^171]: Az 1. melléklet 1.5.5.0100. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^172]: Az 1. melléklet 1.5.5.0200. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^173]: Az 1. melléklet 1.6.2.1900. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^174]: [A 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével elrendelt módosítás, amely szerint az 1. melléklet 1.7.3.500. pontja r) és s) alponttal egészül ki, nem vezethető át.]
-[^175]: Az 1. melléklet 1.7.3. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^176]: Az 1. melléklet 1.7.3.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^177]: Az 1. melléklet 1.7.3.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^178]: Az 1. melléklet 1.7.3.0300. pont a) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^179]: Az 1. melléklet 1.7.3.0500. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^180]: Az 1. melléklet 1.7.3.0500. pont j) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^181]: Az 1. melléklet 1.7.3.0500. pont l) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^182]: Az 1. melléklet 1.7.3.0500. pont n) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^183]: Az 1. melléklet 1.7.3.0500. pont o) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^184]: Az 1. melléklet 1.7.3.0500. pont p) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^185]: Az 1. melléklet 1.7.3.0700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^186]: Az 1. melléklet 1.7.3.0800. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^187]: Az 1. melléklet 1.7.3.0900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^188]: Az 1. melléklet 1.7.4.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^189]: Az 1. melléklet 1.7.6.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^190]: Az 1. melléklet 1.8.1.0100. pontja a 265/2012. (IX. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^191]: Az 1. melléklet 1.8.2.0500. pont a) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
-[^192]: [Az 1. melléklet 1.8.2.0500. pont c) alpontjának a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével elrendelt módosítása, amely szerint az „az üzemzavar és baleset” szövegrész helyébe az „a TA2-4 és TAK1-2 üzemállapotok” szöveg lép, nem vezethető át.]
-[^193]: Az 1. melléklet 1.8.2.1200. pontja a 265/2012. (IX. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^194]: Az 1. melléklet 1.9.1.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
-[^195]: Az 1. melléklet 1.10. fejezetét a 225/2017. (VIII. 11.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^196]: Az 1. melléklet 1.10.1.0200. pontja a 457/2017. (XII. 28.) Korm. rendelet 332. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^104]: Az 1. melléklet 1.2.1.0310. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^105]: Az 1. melléklet 1.2.2. pontja a 218/2013. (VI. 21.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^106]: Az 1. melléklet 1.2.2.0100. pontja a 457/2017. (XII. 28.) Korm. rendelet 332. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^107]: Az 1. melléklet 1.2.2.0200. pontja a 457/2017. (XII. 28.) Korm. rendelet 332. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^108]: Az 1. melléklet 1.2.2.0600. pontja a 457/2017. (XII. 28.) Korm. rendelet 332. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^109]: Az 1. melléklet 1.2.3.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^110]: Az 1. melléklet 1.2.3.0100. pont a) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^111]: Az 1. melléklet 1.2.3.0110. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^112]: Az 1. melléklet 1.2.3.0110. pont a) alpontja a 457/2017. (XII. 28.) Korm. rendelet 332. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^113]: Az 1. melléklet 1.2.3.0110. pont b) alpontja a 457/2017. (XII. 28.) Korm. rendelet 332. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^114]: Az 1. melléklet 1.2.3.0120. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^115]: Az 1. melléklet 1.2.3.0130. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^116]: Az 1. melléklet 1.2.3.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 332. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^117]: Az 1. melléklet 1.2.3.0210. pontját a 218/2013. (VI. 21.) Korm. rendelet 4. § (1) bekezdése iktatta be, hatályon kívül helyezte a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése.
+[^118]: Az 1. melléklet 1.2.3.0220. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^119]: Az 1. melléklet 1.2.3.0221. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^120]: Az 1. melléklet 1.2.3.0230. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^121]: Az 1. melléklet 1.2.3.0240. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^122]: Az 1. melléklet 1.2.3.0250. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^123]: Az 1. melléklet 1.2.3.0260. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be, szövege a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^124]: Az 1. melléklet 1.2.3.0270. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^125]: Az 1. melléklet 1.2.3.0280. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^126]: Az 1. melléklet 1.2.3.0280. pont ac) pont ace) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^127]: Az 1. melléklet 1.2.3.0280. pont ac) pont acf) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^128]: Az 1. melléklet 1.2.3.0280. pont ac) pont acg) alpontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^129]: Az 1. melléklet 1.2.3.0280. pont b) pont ba) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^130]: Az 1. melléklet 1.2.3.0280. pont hc) alpont hcd) alpontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^131]: Az 1. melléklet 1.2.3.0280. pont hc) alpont hce) alpontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^132]: Az 1. melléklet 1.2.3.0280. pont l) pont lb) alpont lbc) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^133]: Az 1. melléklet 1.2.3.0280. pont l) pont lc) alpont lce) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^134]: Az 1. melléklet 1.2.3.0280. pont l) pont lc) alpont lcf) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^135]: Az 1. melléklet 1.2.3.0280. pont l) pont ld) alpont ldc) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^136]: Az 1. melléklet 1.2.3.0300. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése hatályon kívül helyezte.
+[^137]: Az 1. melléklet 1.2.3.0310. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^138]: Az 1. melléklet 1.2.3.0410. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^139]: Az 1. melléklet 1.2.3.0600. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^140]: Az 1. melléklet 1.2.4.0200. pontja a 457/2017. (XII. 28.) Korm. rendelet 332. § g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^141]: Az 1. melléklet 1.2.4.0210. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^142]: Az 1. melléklet 1.2.4.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^143]: Az 1. melléklet 1.2.4.0400. pont a) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^144]: Az 1. melléklet 1.2.4.0400. pont c) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^145]: Az 1. melléklet 1.2.4.0400. pont e) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^146]: Az 1. melléklet 1.2.4.0400. pont f) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^147]: Az 1. melléklet 1.2.4.0400. pont h) pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be, szövege a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^148]: Az 1. melléklet 1.2.4.0400. pont i) pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be, szövege a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^149]: Az 1. melléklet 1.2.4.0400. pont j) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^150]: Az 1. melléklet 1.2.4.0400. pont k) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^151]: Az 1. melléklet 1.2.4.0400. pont l) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^152]: Az 1. melléklet 1.2.4.0400. pont m) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^153]: Az 1. melléklet 1.2.4.0500. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^154]: Az 1. melléklet 1.2.4.0500. pont f) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^155]: Az 1. melléklet 1.2.4.0500. pont g) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^156]: Az 1. melléklet 1.2.4.0500. pont h) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^157]: Az 1. melléklet 1.2.4.0500. pont i) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^158]: Az 1. melléklet 1.2.4.0510. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^159]: Az 1. melléklet 1.2.4.0520. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^160]: Az 1. melléklet 1.2.4.0600. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^161]: Az 1. melléklet 1.2.5.0600. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^162]: Az 1. melléklet 1.2.5.0600. pont d) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^163]: Az 1. melléklet 1.2.5.0600. pont e) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be, szövege a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^164]: Az 1. melléklet 1.2.5.0600. pont f) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^165]: Az 1. melléklet 1.2.5.0700. nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^166]: Az 1. melléklet 1.2.5.0700. pont a) pont ab) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^167]: Az 1. melléklet 1.2.5.0700. pont e) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^168]: Az 1. melléklet 1.2.5.0700. pont f) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése, a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^169]: Az 1. melléklet 1.2.5.0700. pont g) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^170]: Az 1. melléklet 1.2.5.0800. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^171]: Az 1. melléklet 1.2.5.0900. pontot a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^172]: Az 1. melléklet 1.2.6.1500. pont nyitó szövegrésze a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^173]: Az 1. melléklet 1.2.6.1500. pont d) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^174]: Az 1. melléklet 1.2.6.1500. pont e) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése, a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^175]: Az 1. melléklet 1.2.6.1500. pont f) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^176]: Az 1. melléklet 1.2.7.0200. pontja a 457/2017. (XII. 28.) Korm. rendelet 332. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^177]: Az 1. melléklet 1.2.7.0400. pont a) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^178]: Az 1. melléklet 1.2.8.0600. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^179]: Az 1. melléklet 1.2.8.1100. pont a) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^180]: Az 1. melléklet 1.2.8.1100. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése, a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^181]: Az 1. melléklet 1.2.8.1100. pont c) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^182]: Az 1. melléklet 1.2.8.1100. pont d) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^183]: Az 1. melléklet 1.2.8.1100. pont e) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^184]: Az 1. melléklet 1.2.8.1100. pont f) alpontját a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontja iktatta be.
+[^185]: Az 1. melléklet 1.2.8.1100. pont g) alpontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^186]: Az 1. melléklet 1.2.8.1100. pont h) alpontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^187]: Az 1. melléklet 1.2.8.1200. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^188]: Az 1. melléklet 1.2.8.1400. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^189]: Az 1. melléklet 1.2.8.1500. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^190]: Az 1. melléklet 1.2.8.1600. pontja a 28/2018. (II. 28.) Korm. rendelet 1. § (3) bekezdés 1. pontjával megállapított szöveg.
+[^191]: Az 1. melléklet 1.2.11.0400. pont b) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^192]: Az 1. melléklet 1.3.1.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^193]: Az 1. melléklet 1.3.1.0300. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^194]: Az 1. melléklet 1.3.2.0100. pont e) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be, szövege a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^195]: Az 1. melléklet 1.3.2.0100. pont f) alpontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^196]: Az 1. melléklet 1.3.2.0500. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^197]: Az 1. melléklet 1.3.2.0500. pont e) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^198]: Az 1. melléklet 1.3.2.0500. pont m) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^199]: Az 1. melléklet 1.3.3.0100. pont a) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^200]: Az 1. melléklet 1.3.3.0100. pont d) alpontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^201]: Az 1. melléklet 1.3.3.0500. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^202]: [Az 1. melléklet 1.3.3.0500. pont c) alpontjában a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával elrendelt módosítás, amely szerint az „előzetes biztonsági jelentés” szövegrész helyébe az „Előzetes Biztonsági Jelentés” szöveg lép, nem vezethető át.]
+[^203]: Az 1. melléklet 1.3.3.0500. pont d) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^204]: Az 1. melléklet 1.3.3.0500. pont k) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^205]: Az 1. melléklet 1.3.4.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^206]: Az 1. melléklet 1.3.4.0500. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^207]: Az 1. melléklet 1.3.5.0400. pont d) pont db) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^208]: Az 1. melléklet 1.4.1.0100. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^209]: Az 1. melléklet 1.4.1.0210. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^210]: Az 1. melléklet 1.4.1.1000. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^211]: Az 1. melléklet 1.4.1.1200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^212]: Az 1. melléklet 1.4.1.1310. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be, szövege a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^213]: Az 1. melléklet 1.4.1.1510. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^214]: Az 1. melléklet 1.4.1.1600. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^215]: Az 1. melléklet 1.4.1.1700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése, a 457/2017. (XII. 28.) Korm. rendelet 333. § b) pontja, a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^216]: Az 1. melléklet 1.4.1.1710. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^217]: Az 1. melléklet 1.4.1.1800. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^218]: Az 1. melléklet 1.5. alcím címe a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^219]: Az 1. melléklet 1.5.1.0100. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^220]: Az 1. melléklet 1.5.1.0110. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^221]: Az 1. melléklet 1.5.1.0200. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése, a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^222]: Az 1. melléklet 1.5.1.0200. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^223]: Az 1. melléklet 1.5.1.0200. pont c) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^224]: Az 1. melléklet 1.5.1.0300. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^225]: Az 1. melléklet 1.5.1.0400. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^226]: Az 1. melléklet 1.5.1.0500. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^227]: Az 1. melléklet 1.5.1.0510. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^228]: Az 1. melléklet 1.5.1.0520. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^229]: Az 1. melléklet 1.5.1.0600. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^230]: Az 1. melléklet 1.5.1.0700. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^231]: Az 1. melléklet 1.5.1.0800. pont a) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^232]: Az 1. melléklet 1.5.1.0900. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^233]: Az 1. melléklet 1.5.1.1000. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^234]: Az 1. melléklet 1.5.1.1100. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^235]: Az 1. melléklet 1.5.1.1200. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^236]: Az 1. melléklet 1.5.1.1300. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^237]: Az 1. melléklet 1.5.2. alcím címe a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^238]: Az 1. melléklet 1.5.2.0100. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^239]: Az 1. melléklet 1.5.2.0200. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^240]: Az 1. melléklet 1.5.2.0210. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be, szövege a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^241]: Az 1. melléklet 1.5.2.0220. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^242]: Az 1. melléklet 1.5.2.0220. pont 2. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja hatályon kívül helyezte.
+[^243]: Az 1. melléklet 1.5.2.0220. pont 5. alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^244]: Az 1. melléklet 1.5.2.0220. pont 6. alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^245]: Az 1. melléklet 1.5.2.0230. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^246]: Az 1. melléklet 1.5.2.0230. pont 1.1. alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^247]: Az 1. melléklet 1.5.2.0230. pont 1.2. alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^248]: Az 1. melléklet 1.5.2.0230. pont 2. alpontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja hatályon kívül helyezte.
+[^249]: Az 1. melléklet 1.5.2.0300. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^250]: Az 1. melléklet 1.5.2.0400. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^251]: Az 1. melléklet 1.5.3. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^252]: Az 1. melléklet 1.5.3.0100. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^253]: Az 1. melléklet 1.5.3.0300. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^254]: Az 1. melléklet 1.5.4.0200. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^255]: Az 1. melléklet 1.5.5.0100. pont nyitó szövegrésze a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^256]: Az 1. melléklet 1.5.5.0200. pontját a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^257]: Az 1. melléklet 1.6.2.0110. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.
+[^258]: Az 1. melléklet 1.6.2.0500. pontját a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja hatályon kívül helyezte.
+[^259]: Az 1. melléklet 1.6.2.1600. pont nyitó szövegrésze a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^260]: Az 1. melléklet 1.6.2.1700. pont nyitó szövegrésze a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^261]: Az 1. melléklet 1.6.2.1900. pont c) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^262]: Az 1. melléklet 1.7.2.0300. pont a) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^263]: Az 1. melléklet 1.7.2.0300. pont d) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^264]: [A 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével elrendelt módosítás, amely szerint az 1. melléklet 1.7.3.500. pontja r) és s) alponttal egészül ki, nem vezethető át.]
+[^265]: Az 1. melléklet 1.7.3. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^266]: Az 1. melléklet 1.7.3.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^267]: Az 1. melléklet 1.7.3.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^268]: Az 1. melléklet 1.7.3.0300. pont a) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^269]: Az 1. melléklet 1.7.3.0500. pont b) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^270]: Az 1. melléklet 1.7.3.0500. pont j) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^271]: Az 1. melléklet 1.7.3.0500. pont l) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^272]: Az 1. melléklet 1.7.3.0500. pont n) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^273]: Az 1. melléklet 1.7.3.0500. pont o) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^274]: Az 1. melléklet 1.7.3.0500. pont p) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^275]: Az 1. melléklet 1.7.3.0700. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^276]: Az 1. melléklet 1.7.3.0800. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^277]: Az 1. melléklet 1.7.3.0900. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított, a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^278]: Az 1. melléklet 1.7.4.0300. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^279]: Az 1. melléklet 1.7.4.0500. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^280]: Az 1. melléklet 1.7.4.0800. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^281]: Az 1. melléklet 1.7.4.0900. pontot megelőző szövegrész a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^282]: Az 1. melléklet 1.7.4.0900. pont c) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^283]: Az 1. melléklet 1.7.5.0100. pont a) alpontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^284]: Az 1. melléklet 1.7.6.0100. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^285]: Az 1. melléklet 1.8.1.0100. pontja a 265/2012. (IX. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^286]: Az 1. melléklet 1.8.2. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^287]: Az 1. melléklet 1.8.2.0500. pont a) alpontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdése szerint módosított szöveg.
+[^288]: [Az 1. melléklet 1.8.2.0500. pont c) alpontjának a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével elrendelt módosítása, amely szerint az „az üzemzavar és baleset” szövegrész helyébe az „a TA2-4 és TAK1-2 üzemállapotok” szöveg lép, nem vezethető át.]
+[^289]: Az 1. melléklet 1.8.2.0600. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^290]: Az 1. melléklet 1.8.2.0800. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^291]: Az 1. melléklet 1.8.2.1200. pontja a 265/2012. (IX. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja szerint módosított szöveg.
+[^292]: Az 1. melléklet 1.9.1.0200. pontja a 357/2014. (XII. 29.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^293]: Az 1. melléklet 1.9.1.0700. pontja a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontjával megállapított szöveg.
+[^294]: Az 1. melléklet 1.10. fejezetét a 225/2017. (VIII. 11.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^295]: Az 1. melléklet 1.10.1.0200. pontja a 457/2017. (XII. 28.) Korm. rendelet 332. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^296]: Az 1. melléklet 1.11. fejezetét a 70/2018. (IV. 9.) Korm. rendelet 1. § (15) bekezdés 1. pontja iktatta be.

@@ -1,10 +1,14 @@
+## 10/A. [^28] Az engedélyes szervezete és működése
+
 12. § (1) Az engedélyes szervezetének áttekinthetőnek kell lennie, világosan meghatározott és leírt feladat- és erőforrás-kiosztással, együttműködési kapcsolatokkal és felelősségi körökkel kell rendelkeznie.
 
-(2)[^24] Az engedélyes felső vezetősége teljes felelősséggel tartozik azért, hogy a nukleáris létesítmény fennállásának teljes időtartama alatt a nukleáris biztonsággal kapcsolatos minden területen rendelkezésre álljon a szükséges műszaki háttértámogatás, akár saját munkavállalók, akár beszállítók által.
+(2)[^29] Az engedélyes felső vezetősége teljes felelősséggel tartozik azért, hogy a nukleáris létesítmény teljes életciklusa alatt a nukleáris biztonsággal kapcsolatos minden területen rendelkezésre álljon a szükséges műszaki háttértámogatás, akár saját munkavállalók, akár beszállítók által.
 
-(3)[^25] A nukleáris létesítmény üzemeltető személyzetének mindenkor ki kell elégítenie a létszámmal, iskolai végzettséggel, szakképzettséggel, egészségi állapottal, fizikai és pszichológiai alkalmassággal kapcsolatos, az adott feladatra írásban rögzített követelményeket.
+(3)[^30] A nukleáris létesítmény üzemeltető személyzetének mindenkor ki kell elégítenie a létszámmal, iskolai végzettséggel, szakképzettséggel, egészségi állapottal, fizikai és pszichológiai alkalmassággal kapcsolatos, az adott feladatra írásban rögzített követelményeket.
 
-(4) Atomerőmű engedélyesének szervezetén belül a nukleáris biztonság felügyeletének ellátására az üzemeltetéstől független, megfelelő szakértelemmel, erőforrásokkal, információval és döntési jogkörrel rendelkező szervezeti egységet kell létrehozni. Egyéb nukleáris létesítményben a nukleáris biztonság felügyeletének ellátásával az üzemeltetéstől független, megfelelő szakértelemmel, erőforrásokkal, információval és döntési jogkörrel rendelkező szervezeti egységet, vagy – megfelelő helyettesítési rendben – egyes munkavállalókat kell megbízni.
+(4)[^31] Atomerőmű engedélyese a nukleáris biztonság felügyeletének ellátására – a tervezést, a létesítést, az üzembe helyezést és az üzemeltetést végzőktől független – szakértelemmel, erőforrásokkal, információval és döntési jogkörrel rendelkező szervezeti egységet hoz létre. Egyéb nukleáris létesítmény engedélyese a nukleáris biztonság felügyeletének ellátásával – a tervezést, létesítést, üzembe helyezést és üzemeltetést végzőktől független – a tevékenység ellátásához szükséges szakértelemmel, erőforrásokkal, információval és döntési jogkörrel rendelkező szervezeti egységet hoz létre, vagy – a helyettesítésről is gondoskodva – meghatározott munkavállalókat bíz meg.
 
-[^24]: A 12. § (2) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 7. pontja szerint módosított szöveg.
-[^25]: A 12. § (3) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 8. pontja szerint módosított szöveg.
+[^28]: A 10/A. alcím címet a 70/2018. (IV. 9.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^29]: A 12. § (2) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 7. pontja, a 70/2018. (IV. 9.) Korm. rendelet 2. § 4. pontja szerint módosított szöveg.
+[^30]: A 12. § (3) bekezdése a 37/2012. (III. 9.) Korm. rendelet 11. § 8. pontja szerint módosított szöveg.
+[^31]: A 12. § (4) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.

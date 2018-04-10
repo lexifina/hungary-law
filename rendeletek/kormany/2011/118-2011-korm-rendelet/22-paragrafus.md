@@ -1,10 +1,10 @@
 ## 12. Ellenőrzés és érvényesítés
 
-22. § (1)[^47] A nukleáris biztonsági hatóság a nukleáris biztonság fennmaradása érdekében a nukleáris létesítmények életciklusának valamennyi szakaszában az 1. mellékletben meghatározott módon rendszeresen és tervszerűen legalább az alábbiakat ellenőrzi:
+22. § (1)[^56] A nukleáris biztonsági hatóság a nukleáris biztonsági követelmények betartatása érdekében a nukleáris létesítmények életciklusának valamennyi szakaszában az 1. mellékletben meghatározott módon rendszeresen és tervszerűen legalább az alábbiakat ellenőrzi:
 
 a) a nukleáris létesítmények, azok rendszerei, rendszerelemei, építményei megfelelnek az engedélyekben, jogszabályokban előírt követelményeknek;
 
-b)[^48] a nukleáris létesítmény tervezése, telephelyének vizsgálata és értékelése, létesítése, üzembe helyezése, üzemeltetése, átalakítása és megszüntetése megfelel a nukleáris biztonsági követelményeknek, a hatósági engedélyek alapjául szolgáló feltételeknek és körülményeknek, valamint az engedélyekben előírtaknak; továbbá
+b)[^57] a nukleáris létesítmény tervezése, telephelyének vizsgálata és értékelése, létesítése, üzembe helyezése, üzemeltetése, átalakítása és megszüntetése megfelel a nukleáris biztonsági követelményeknek, a hatósági engedélyek alapjául szolgáló feltételeknek és körülményeknek, valamint az engedélyekben előírtaknak; továbbá
 
 c) az engedélyes irányítási rendszere megfelel az e rendeletben előírt követelményeknek legalább a következők tekintetében:
 
@@ -24,7 +24,7 @@ cg) az engedélyes belső előírásrendszere alkalmas a folyamatok szabályozá
 
 ch) az engedélyes a jogszabályban előírt követelményeknek, valamint a belső szabályozásnak megfelelően kezeli a nukleáris biztonságot.
 
-(2)[^49]
+(2)[^58]
 
 (3) A nukleáris biztonsági hatóság a nukleáris biztonságot befolyásoló tényezők szempontjából jogosult megvizsgálni az engedélyes szervezetének működését és a nukleáris biztonságra hatást gyakorló tevékenységet végző személyek (beleértve a beszállítók személyzetének) alkalmasságát a számukra meghatározott feladatok ellátására.
 
@@ -44,6 +44,6 @@ b) a technológiai folyamatba beépített ellenőrző rendszerekből.
 
 (9) A nukleáris biztonsági hatóság éves ellenőrzési tervet készít. A tervben szereplő ellenőrzések tervezett idejéről és tartalmáról a nukleáris biztonsági hatóság az ellenőrzéssel érintetteket tájékoztatja.
 
-[^47]: A 22. § (1) bekezdése a 37/2012. (III. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^48]: A 22. § (1) bekezdés b) pontja a 218/2013. (VI. 21.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
-[^49]: A 22. § (2) bekezdését a 28/2018. (II. 28.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^56]: A 22. § (1) bekezdése a 37/2012. (III. 9.) Korm. rendelet 5. §-ával megállapított, nyitó szövegrésze a 70/2018. (IV. 9.) Korm. rendelet 2. § 10. pontja szerint módosított szöveg.
+[^57]: A 22. § (1) bekezdés b) pontja a 218/2013. (VI. 21.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^58]: A 22. § (2) bekezdését a 28/2018. (II. 28.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
