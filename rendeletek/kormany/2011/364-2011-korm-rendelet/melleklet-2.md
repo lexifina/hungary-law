@@ -4,7 +4,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | Budapest Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója (2011-2020) | az 1. § (1) bekezdés a) és b) pontja szerinti terület, illetve ezen területekből telekalakítás folytán kialakított terület | általános építésügyi és örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
+| 2. | Budapest Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója (2011-2020) | az 1. § (1) bekezdés a) és b) pontja szerinti terület, illetve ezen területekből telekalakítás folytán kialakított terület | általános építésügyi és örökségvédelmi hatósági eljárások, régészeti feltárásokkal közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala |
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal Érdi Járási Hivatala |
 
@@ -26,6 +26,6 @@
 
 | 12. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^23]
+2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^25]
 
-[^23]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.
+[^25]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.
