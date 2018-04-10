@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-191-20-
 | 2016-10-14 | 2001-191-20-22.16 | 306/2016. (X. 13.) Korm. rendelet |
 | 2017-01-01 | 2001-191-20-22.17 | 38/2015. (III. 11.) Korm. rendelet |
 | 2018-01-01 | 2001-191-20-22.18 | 38/2015. (III. 11.) Korm. rendelet |
+| 2018-04-10 | 2001-191-20-22.19 | 394/2012. (XII. 20.) Korm. rendelet |
