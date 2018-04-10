@@ -1,6 +1,6 @@
-## 17–19. §[^89]
+## 17–19. §[^96]
 
-1. melléklet a 439/2013. (XI. 20.) Korm. rendelethez[^90]
+1. melléklet a 439/2013. (XI. 20.) Korm. rendelethez[^97]
 
 1. Régészeti területre vonatkozó számítási módszer a szakmai gyakorlat igazolására
 
@@ -184,5 +184,5 @@ Egy tevékenységtípusból legfeljebb 15 pont vehető figyelembe. Egy tevékeny
 
 | 9. | tudományos fokozat megszerzése orgonatörténeti tárgyú doktori értekezéssel | 5 pont |
 
-[^89]: A 17–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^90]: Az 1. melléklet a 38/2015. (III. 11.) Korm. rendelet 23. § (20) bekezdésével megállapított, a 323/2016. (X. 27.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^96]: A 17–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: Az 1. melléklet a 38/2015. (III. 11.) Korm. rendelet 23. § (20) bekezdésével megállapított, a 323/2016. (X. 27.) Korm. rendelet 14. §-a szerint módosított szöveg.

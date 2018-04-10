@@ -6,25 +6,25 @@ a) okleveles művészettörténész,
 
 b) okleveles régész,
 
-c)[^40] okleveles építészmérnök és műemlékvédelmi szakmérnöki,,
+c)[^47] okleveles építészmérnök és műemlékvédelmi szakmérnöki,,
 
-d)[^41] okleveles építész tervező művész és műemlékvédelmi szakmérnöki
+d)[^48] okleveles építész tervező művész és műemlékvédelmi szakmérnöki
 
 e) okleveles építőművész és műemlékvédelmi szakmérnöki,
 
-f)[^42] okleveles belsőépítész, környezettervező művész és műemlékvédelmi szakmérnöki, vagy
+f)[^49] okleveles belsőépítész, környezettervező művész és műemlékvédelmi szakmérnöki, vagy
 
-g)[^43] okleveles építőmérnök és műemlékvédelmi szakmérnöki
+g)[^50] okleveles építőmérnök és műemlékvédelmi szakmérnöki
 
 szakképzettség szükséges.
 
-(2)[^44] Műemléki terület műemléki épületkutatás szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
+(2)[^51] Műemléki terület műemléki épületkutatás szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
 
 a) okleveles művészettörténész,
 
 b) okleveles régész,
 
-c)[^45] okleveles építőmérnök és műemlékvédelmi szakmérnöki,
+c)[^52] okleveles építőmérnök és műemlékvédelmi szakmérnöki,
 
 d) okleveles építészmérnök és műemlékvédelmi szakmérnöki vagy
 
@@ -32,7 +32,7 @@ e) okleveles építőművész és műemlékvédelmi szakmérnöki
 
 szakképzettség szükséges.
 
-(3)[^46] Műemléki terület műemléki restaurátor szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
+(3)[^53] Műemléki terület műemléki restaurátor szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
 
 a) restaurátorművész,
 
@@ -52,7 +52,7 @@ b) okleveles tájépítész és kertművész (MA diploma)
 
 szakképzettség szükséges.
 
-(5)[^47] Műemléki terület műemléki épületdiagnosztika szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
+(5)[^54] Műemléki terület műemléki épületdiagnosztika szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
 
 a) a 4. § (2) bekezdés e) pont ea) és eb) alpontjai szerinti tevékenységek esetén
 
@@ -72,7 +72,7 @@ bb) okleveles erdőmérnök
 
 ## szakképzettség szükséges.
 
-(6)[^48] Műemléki terület orgonahangszer-helyreállítás szakterületen a szakértői tevékenység végzéséhez
+(6)[^55] Műemléki terület orgonahangszer-helyreállítás szakterületen a szakértői tevékenység végzéséhez
 
 a) a 4. § (2) bekezdés f) pont fa) alpontja szerinti tevékenység esetén
 
@@ -86,12 +86,12 @@ c) a 4. § (2) bekezdés f) pont fc) alpontja szerinti tevékenység esetén mes
 
 szükséges.
 
-[^40]: A 7. § (1) bekezdés c) pontja a 323/2016. (X. 27.) Korm. rendelet 15. § 13. pontja szerint módosított szöveg.
-[^41]: A 7. § (1) bekezdés d) pontja a 323/2016. (X. 27.) Korm. rendelet 15. § 14. pontja szerint módosított szöveg.
-[^42]: A 7. § (1) bekezdés f) pontját a 323/2016. (X. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^43]: A 7. § (1) bekezdés g) pontját a 323/2016. (X. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^44]: A 7. § (2) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
-[^45]: A 7. § (2) bekezdés c) pontja a 323/2016. (X. 27.) Korm. rendelet 15. § 15. pontja szerint módosított szöveg.
-[^46]: A 7. § (3) bekezdése a 323/2016. (X. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^47]: A 7. § (5) bekezdése a 323/2016. (X. 27.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^48]: A 7. § (6) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (12) bekezdésével megállapított szöveg.
+[^47]: A 7. § (1) bekezdés c) pontja a 323/2016. (X. 27.) Korm. rendelet 15. § 13. pontja szerint módosított szöveg.
+[^48]: A 7. § (1) bekezdés d) pontja a 323/2016. (X. 27.) Korm. rendelet 15. § 14. pontja szerint módosított szöveg.
+[^49]: A 7. § (1) bekezdés f) pontját a 323/2016. (X. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^50]: A 7. § (1) bekezdés g) pontját a 323/2016. (X. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^51]: A 7. § (2) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
+[^52]: A 7. § (2) bekezdés c) pontja a 323/2016. (X. 27.) Korm. rendelet 15. § 15. pontja szerint módosított szöveg.
+[^53]: A 7. § (3) bekezdése a 323/2016. (X. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^54]: A 7. § (5) bekezdése a 323/2016. (X. 27.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^55]: A 7. § (6) bekezdése a 38/2015. (III. 11.) Korm. rendelet 23. § (12) bekezdésével megállapított szöveg.
