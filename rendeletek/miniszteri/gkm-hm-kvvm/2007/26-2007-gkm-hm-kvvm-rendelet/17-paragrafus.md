@@ -1,5 +1,3 @@
-## 16/B. §[^34]
-
 ## A veszélyes légtér igénylése
 
 17. § (1) A katonai, a rendvédelmi és az egyéb jogosult szervek a veszélyes légtér igénybevételére vonatkozó terveiket a szolgálati út betartásával legalább tíz munkanappal az igénybevétel tervezett időpontját megelőzően küldik meg a Budapest ATS Központnak.
@@ -23,5 +21,3 @@ e) lövészeti tevékenység esetén a lövészetvezető, lőtéri repülésveze
 (5) A Budapest ATS Központ a szükséges igénylési adatok összesítése után gondoskodik a veszélyes légterek NOTAM-ban történő közzétételéről.
 
 (6) A tervben szereplő veszélyes légtérre vonatkozó igényt törölni kell, ha bizonyossá válik, hogy a tervezett feladat végrehajtására a tervezett időszakban nem kerül sor.
-
-[^34]: A 16/B. §-t a 25/2017. (VI. 30.) NFM rendelet 8. §-a iktatta be, hatályon kívül helyezte az 55/2017. (XII. 27.) NFM rendelet 33. § b) pontja.

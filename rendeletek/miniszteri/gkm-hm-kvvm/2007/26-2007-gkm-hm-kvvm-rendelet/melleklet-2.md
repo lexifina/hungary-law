@@ -1,30 +1,44 @@
-## LÉGIFORGALMI LÉGTEREK OSZTÁLYOZÁSA MAGYARORSZÁGON**
+|  | A | B | C | D | E | F | G | H | I | J | K |
 
-| Légiforgalmi légtér | Osztály | Légtér kiterjedése | Forgalom | Elkülönítések | Nyújtott szolgálat | VMC értékek, látástávolság és felhőktől való távolsági megkötések | Sebesség megkötések | Rádió összeköttetési kötelezettség | FPL benyújtási kötelezettség | ATC engedély szükségessége |
+| 1 | Légiforgalmi légtér | Osztály | Légtér kiterjedése | Forgalom | Elkülönítések | Nyújtott szolgálat | VMC értékek, látástávolság és felhőktől való távolsági megkötések | Sebesség megkötések | Rádió összeköttetési kötelezettség | FPL benyújtási kötelezettség | ATC engedély szükségessége |
 
-| ELLENŐRZÖTT LÉGTÉR | C | FL660 (20100 m STD) alatti ellenőrzött légterek | IFR | IFR-IFR-től IFR-VFR-től | Légiforgalmi irányító | Nincs | Nincs | Folyamatos kétoldalú | Igen | Igen |
+| 2 | ELLENŐRZÖTT LÉGTÉR | C | FL660 (20100 m STD) alatti ellenőrzött légterek, kivéve a D osztályú ellenőrzött légtereket. | IFR | IFR-IFR-től IFR-VFR-től | Légiforgalmi irányító | Nincs | Nincs | Folyamatos kétoldalú | Igen | Igen |
 
-| VFR1 | VFR-IFR-től | 1. Légiforgalmi irányító az IFR-ektől való elkülönítés érdekében | Vízszintes látás: 8 km FL100-on (3050 m STD) és felette, 5 km FL 100 alatt. Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen | FL 100 (3050 m STD) alatt max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Igen |
+| 3 | VFR1 | VFR-IFR-től | 1. Légiforgalmi irányító az IFR-ektől való elkülönítés érdekében | 10000 láb (3050 m) AMSL-en és felette Vízszintes látás: 8 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen 10000 láb (3050 m) AMSL alatt Vízszintes látás: 5km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen | 10000 láb (3050 m) AMSL alatt max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Igen |
 
-| 2. VFR légijárművek esetén forgalmi tájékoztatás és kérésre tanácsadás a forgalom elkerülése érdekében |
+| 4 | 2. Légiforgalmi irányító, VFR légijárművek esetén forgalmi tájékoztatás és kérésre tanácsadás a forgalom elkerülése érdekében |
 
-| D | 1000 láb (300 m) AGL és 9500 láb (2900 m) AMSL között Budapest FIR határ és a következő koordináták által bezárt terület: 482346N 0202459E – 481110N 0210551E – 481703N 0214953E – 482000N 0214901E – Kosice TMA2. valamint Sármellék, Debrecen CTR és Sármellék, Debrecen CTA | IFR | IFR-IFR-től | Légiforgalmi irányító, forgalmi tájékoztatás a VFR repülésekről (és kérésre tanácsadás a forgalom elkerülése érdekében) | Nincs | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Igen |
+| 5 | D | 1000 láb (300 m) AGL és 9500 láb (2900 m) AMSL között Budapest FIR határ és a következő koordináták által bezárt terület: 482346N 0202459E – 481110N 0210551E – 481703N 0214953E – 482000N 0214901E – Kosice TMA2, valamint Budapest CTR, Sármellék, Debrecen CTR és Sármellék, Debrecen CTA | IFR | IFR-IFR-től | Légiforgalmi irányító, forgalmi tájékoztatás a VFR repülésekről (és kérésre tanácsadás a forgalom elkerülése érdekében) | Nincs | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Igen |
 
-| VFR | Nem biztosítanak | Forgalmi tájékoztatás a VFR és IFR repülések között (és kérésre tanácsadás a forgalom elkerülése érdekében) | Vízszintes látás: 5 km. Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen. | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Igen |
+| 6 | VFR | Nem biztosítanak | Légiforgalmi irányító, forgalmi tájékoztatás a VFR és IFR, valamint VFR és VFR repülések között (és kérésre tanácsadás a forgalom elkerülése érdekében) | Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen | Max. 250 kt (460 km/h) IAS | Folyamatos kétoldalú | Igen | Igen |
 
-| NEM ELLENŐRZÖTT LÉGTÉR | F | 4000 láb (1200 m) és 9500 láb (2900 m) AMSL közötti nem ellenőrzött légterek, valamint a kijelölt TIZ-ek | IFR | IFR-IFR-től amennyire ez lehetséges | Repülés-tájékoztató és légiforgalmi tanácsadó | Nincs | Max. 250 kt (460 km/h) IAS2 9500 láb (2900 m) AMSL alatt | Folyamatos kétoldalú | Igen | Nincs |
+| 7 | NEM ELLENŐRZÖTT LÉGTÉR | F | 4000 láb (1200 m) és 9500 láb (2900 m) AMSL közötti nem ellenőrzött légterek, valamint a kijelölt TIZ-ek | IFR | IFR-IFR-től amennyire ez lehetséges | Légiforgalmi tanácsadó és kérés esetén repüléstájékoztató | Nincs | Max. 250 kt (460 km/h) IAS2 | Folyamatos kétoldalú | Igen | Nincs |
 
-| VFR | Nem biztosítanak | Repülés- tájékoztató | Vízszintes látás: 5 km. Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen | Max. 250 kt (460 km/h) IAS2 9500 láb (2900 m) AMSL alatt | Nincs, kivéve a vitorlázó felhőrepüléseket és az éjszakai VFR repüléseket | Nincs, kivéve a vitorlázó felhőre- püléseket és az éjszakai VFR repülé- seket |
+| 8 |  |  |  | 3000 láb (900 m) AMSL fölött vagy több mint 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen |  |  |  |
 
-| G3 | 4000 láb (1200 m) MSL alatti nem ellenőrzött légterek, valamint a vitorlázó és műrepülő légterek | Csak VFR | Nem biztosítanak | Repülés tájékoztató4 | Vízszintes látás: 5 km. Kis sebességű repülőgépek számára: 1500 m. Helikopterek és ballonok számára: 750 m. Felhőkön kívül, a föld vagy a vízfelszín látása mellett. | Max. 250 kt (460 km/h) IAS2 | Nincs, kivéve az éjszakai VFR repüléseket4 | Nincs, kivéve az éjszakai VFR repülé- seket | Nincs |
+| 9 | VFR | Nem biztosítanak | Kérés esetén repüléstájékoztató | Legfeljebb 3000 láb (900 m) AMSL-en vagy 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Eltérés:- legfeljebb 140 kt műszer szerinti sebességgel (IAS) végrehajtott repülések esetén 1500 m, - helikopterek számára 800 m, amennyiben a repülést olyan sebességgel hajtják végre, amely lehetővé teszi az egyéb forgalom vagy akadályok időbeni észlelését és az összeütközés elkerülését. Felhőktől való távolság: Felhőkön kívül, a föld vagy a vízfelszín látása mellett | Max. 250 kt (460 km/h) IAS2 | Nincs, kivéve a vitorlázó felhőrepüléseket és az éjszakai VFR repüléseket | Nincs, kivéve a vitorlázó felhőrepüléseket és az éjszakai VFR repüléseket |
 
-| További szabályok, eltérések: Repüléstájékoztató és riasztó szolgálatot az alábbi 4. pontban foglalt eltéréssel valamennyi légtérosztályban nyújtanak. A fenti táblázattól függetlenül a határsávot átrepülő vagy abban repülést végző valamennyi légijármű esetében – a határsávban 50 m-es földfelszín feletti vagy alacsonyabb magasságon végrehajtott munkarepülést végző légijárművek, valamint az állami légijárművek kivételével – FPL-t kell kitölteni, és folyamatos kétoldalú rádió-összeköttetést kell tartani. 1. FL285 (8700 m STD) felett Budapest FIR-en belül VFR repülés végrehajtása tilos. FL195 (5950 m STD) felett útvonal VFR GAT repüléseket tilos végrehajtani. 2. Az F és G osztályú légterekben, a határ-, illetve szabálysértő légijárművek elfogása, vizuális azonosítása, velük szemben rendszabályok foganatosítása, vagy segítségnyújtás céljából légvédelmi célú repülést folytató állami légijárművek – amennyiben az elfogás profilja, illetve a légijárművek manőverező képességének megőrzése azt megköveteli – eltérhetnek a 250 kt (460 km/h) IAS legnagyobb repülési sebességtől. 3. 4. A koordinált légtérben, a Drop Zone légtérben és a műrepülő légtérben repüléstájékoztató és riasztó szolgálatot nem nyújtanak. A koordinált légtérben és a Drop Zone légtérben kétoldalú rádióösszeköttetési kötelezettség van a koordinációs feladatot ellátó szervezettel, a közzétett frekvenciákon. |
+| 10 |  |  |  |  |  | 3000 láb (900 m) AMSL fölött vagy több mint 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen |  |  |  |  |
+
+| 11 | G3 | 4000 láb (1200 m) AMSL alatti nem ellenőrzött légterek, valamint a vitorlázó és műrepülő légterek | Csak VFR | Nem biztosítanak | Kérés esetén repüléstájékoztató3 | Legfeljebb 3000 láb (900 m) AMSL-en vagy 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Eltérés:- legfeljebb 140 kt műszer szerinti sebességgel (IAS) végrehajtott repülések esetén 1500 m, - helikopterek számára 800 m, amennyiben a repülést olyan sebességgel hajtják végre, amely lehetővé teszi az egyéb forgalom vagy akadályok időbeni észlelését és az összeütközés elkerülését. Felhőktől való távolság: Felhőkön kívül, a föld vagy a vízfelszín látása mellett | Max. 250 kt (460 km/h) IAS2 | Nincs, kivéve az éjszakai VFR repüléseket3 | Nincs, kivéve az éjszakai VFR repülé- seket | Nincs |
+
+## További szabályok, eltérések:
+
+## Repüléstájékoztató és riasztó szolgálatot az alábbi 3. pontban foglalt eltéréssel valamennyi légtérosztályban nyújtanak.
+
+## A fenti táblázattól függetlenül a határsávot átrepülő vagy abban repülést végző valamennyi légijármű esetében – a határsávban 50 m-es földfelszín feletti vagy alacsonyabb magasságon végrehajtott munkarepülést végző légijárművek, az állami légijárművek kivételével – FPL-t kell kitölteni, és folyamatos kétoldalú rádió-összeköttetést kell tartani.
+
+## 1. FL285 (8700 m STD) felett Budapest FIR-en belül VFR repülés végrehajtása tilos. FL195 (5950 m STD) felett útvonal VFR GAT repüléseket tilos végrehajtani.
+
+## 2. Az F és G osztályú légterekben, a határ-, illetve szabálysértő légijárművek elfogása, vizuális azonosítása, velük szemben rendszabályok foganatosítása, vagy segítségnyújtás céljából légvédelmi célú repülést folytató állami légijárművek – amennyiben az elfogás profilja, illetve a légijárművek manőverező képességének megőrzése azt megköveteli – eltérhetnek a 250 kt (460 km/h) IAS legnagyobb repülési sebességtől.
+
+## 3. A koordinált légtérben, a Drop Zone légtérben és a műrepülő légtérben repüléstájékoztató és riasztó szolgálatot nem nyújtanak. A koordinált légtérben és a Drop Zone légtérben kétoldalú rádióösszeköttetési kötelezettség van a koordinációs feladatot ellátó szervezettel, a közzétett frekvenciákon.
 
 2. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^78]
+együttes rendelethez[^79]
 
-## ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
+ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
 
 I. ELLENŐRZÖTT LÉGTEREK
 
@@ -474,6 +488,8 @@ II. ATS ÁTRUHÁZÁS
 
 3.1. Előzetes koordinációs légterek
 
+## 7K32986_1
+
 |  | A | B | C | D |
 
 | 1. | Légtér azonosítója | Neve / oldalhatárai | Felső / alsó határa | Megjegyzés |
@@ -607,6 +623,8 @@ A közös felhasználású légterek működésének idejét és rendjét Budape
 III. NEM ELLENŐRZÖTT LÉGTEREK
 
 1. TIZ légterek
+
+## 7K32986_2
 
 |  | A | B | C |
 
@@ -1664,4 +1682,4 @@ IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 |  | 2. További szabályok: 2.1. A polgári légiforgalom a jelzett magasságtartományon kívüli első iránymagasságot használhatja. 2.2. Az időszakosan korlátozott légterek (TRA-k) munkanapokon legkorábban napkelte előtt 30 perccel, legkésőbb pedig helyi idő szerint 24.00 óráig, a munkaszüneti napot, illetve ünnepnapot megelőző munkanapokon legkésőbb helyi idő szerint 17.00 óráig vehetőek igénybe. 2.3. Az LHTRA 13, 14A, 14B, 14C és 15A, 15B, 15C kivételével valamennyi időszakosan korlátozott légtérben a Magyar Honvédség vagy más szövetséges fegyveres erő kijelölt katonai szervezete légvédelmi irányító szolgálatot biztosít. Az LHTRA 13, 14A, 14B, 14C és 15A, 15B, 15C légterek a szolnoki katonai légiforgalmi irányító szolgálat illetékességi körzetei. |
 
-[^78]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított szöveg.
+[^79]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított szöveg.

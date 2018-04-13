@@ -6,8 +6,9 @@
 
 a) módosítását, felhívja a kérelmezőt a módosítás kezdeményezésére,
 
-b) megszüntetését, egyeztetést folytat le a légtér kijelölését kezdeményezővel, amelynek eredménye alapján a légtér kijelölés megszüntetésének indokoltsága esetén a légtér kijelölés megszüntetésére vonatkozó tervet az 1/A. § szerint felterjeszti a közlekedésért felelős miniszternek.
+b)[^13] megszüntetését, egyeztetést folytat le a légtér kijelölését kezdeményezővel, amelynek eredménye alapján kezdeményezi a légtérkijelölés megszüntetésének indokoltsága esetén a légtérkijelölés megszüntetésére vonatkozó jogszabály-módosítást.
 
 [^10]: Az 1/E. §-t a 25/2017. (VI. 30.) NFM rendelet 3. §-a iktatta be.
 [^11]: Az 1/F. §-t a 25/2017. (VI. 30.) NFM rendelet 3. §-a iktatta be.
 [^12]: Az 1/F. § (1) bekezdése a 45/2017. (XII. 4.) NFM rendelet 1. §-ával megállapított szöveg.
+[^13]: Az 1/F. § (2) bekezdés b) pontja a 9/2018. (III. 29.) NFM rendelet 2. §-ával megállapított szöveg.
