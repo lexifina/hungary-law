@@ -45,3 +45,17 @@
 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
 
 22.
+
+(2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
+
+a) a hirdetmények és a közbeszerzési terv megküldésének, feladásának és közzétételének szabályait, a hirdetmények ellenőrzésének rendjét és – az adópolitikáért felelős miniszter egyetértésével – díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, a 113. § (1) bekezdése szerinti összefoglaló tájékoztatások további adataira és részletes adattartalmára vonatkozó rendelkezéseket, valamint – az adópolitikáért felelős miniszter egyetértésével – az összefoglaló tájékoztatások közzétételéért fizetendő igazgatási szolgáltatási díj mértékét és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, a közbeszerzések éves statisztikai összegezésére vonatkozó szabályokat, továbbá a Közbeszerzési Értesítőben, illetve a Közbeszerzési Hatóság honlapján történő közzététel rendjét;
+
+b) a hirdetmények, bírálati összegezések és az éves statisztikai összegezés mintáját, a hirdetmények egyes tartalmi elemeit;
+
+c) a felelős akkreditált közbeszerzési szaktanácsadók tevékenységére, a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, a felelős akkreditált közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, valamint – az adópolitikáért felelős miniszter egyetértésével – a nyilvántartásba vétel díjának mértékére és a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a felelős akkreditált közbeszerzési szaktanácsadók szakmai testületére, valamint – az adópolitikáért felelős miniszter egyetértésével – a névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok kiegészítéséért fizetendő igazgatási szolgáltatási díj mértékére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat, valamint a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;
+
+d) az elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos sajátos szabályokat;
+
+e) a Közbeszerzési Döntőbizottság eljárásáért fizetendő igazgatási szolgáltatási díj – az adópolitikáért felelős miniszter egyetértésével megállapított – mértékét, megfizetésének módját, továbbá megfizetésének, valamint viselésének szabályait;
+
+f) a Közbeszerzési Hatóság által kiadandó árstatisztika elkészítésével kapcsolatos részletes szabályokat, valamint a Közbeszerzési Hatóság részére nyújtandó statisztikai adatszolgáltatás feltételeit és módját.
