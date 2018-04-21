@@ -1,4 +1,4 @@
-## 10. §[^3]
+## 10. §[^4]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 13. § e) pontja 2018. április 21-én lép hatályba.
 
-[^3]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
