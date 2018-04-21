@@ -1,1 +1,0 @@
-A gázszolgáltatásról szóló 1994. évi XLI. törvény 33. §-ának (2) bekezdésében, valamint a fogyasztóvédelemről szóló 1997. évi CLV. törvény 56. §-ának a) pontjában kapott felhatalmazás alapján a következőket rendelem el:
