@@ -1,4 +1,12 @@
-7. §[^5] (1)[^6] Ha az ügyfél úgy kíván az általános célú elektronikus kéreleműrlap szolgáltatás (a továbbiakban: e-Papír szolgáltatás) útján kérelmet, iratot, egyéb beadványt (a továbbiakban együtt: beadvány) benyújtani, hogy az adott beadvány esetében az elektronikus kapcsolattartásra nincs lehetőség, vagy az elektronikus benyújtásra jogszabály további formai követelményeket állapít meg, ha jogszabály eltérően nem rendelkezik, a beadványt hatálytalannak kell tekinteni, és az elektronikus ügyintézést biztosító szerv erről az ügyfelet a kapcsolattartásra szolgáló elérhetőségén a beadvány előterjesztésétől számított nyolc napon belül tájékoztatja.
+7. §[^5] (1)[^6] Ha az ügyfél úgy kíván az általános célú elektronikus kéreleműrlap szolgáltatás (a továbbiakban: e-Papír szolgáltatás) útján kérelmet, iratot, egyéb beadványt (a továbbiakban együtt: beadvány) benyújtani, hogy
+
+a) az adott beadvány esetében jogszabály alapján az elektronikus kapcsolattartásra nincs lehetőség,
+
+b) az elektronikus benyújtásra jogszabály további formai követelményeket állapít meg, vagy
+
+c) az ügyre vonatkozóan az elektronikus ügyintézést biztosító szerv a 115. vagy a 116. § szerinti szolgáltatás szerinti elektronikus űrlapot rendszeresít,
+
+## – ha jogszabály eltérően nem rendelkezik – a beadványt be nem nyújtottnak kell tekinteni, és az elektronikus ügyintézést biztosító szerv erről, valamint az irat benyújtásának lehetséges módjairól az ügyfelet a kapcsolattartásra szolgáló elérhetőségén a beadvány előterjesztésétől számított nyolc napon belül tájékoztatja.
 
 (2) Ha az elektronikus ügyintézést biztosító szerv az általa elfogadott elektronikus űrlapokat szabályszerűen módosította, és az ügyfél korábbi, már nem alkalmazható elektronikus űrlapot használ, az így megküldött iratot be nem nyújtottnak kell tekinteni. Erről az ügyfelet automatikus hibaüzenettel értesíteni kell.
 
@@ -11,4 +19,4 @@ a) maradéktalanul megtehetőek legyenek azok a nyilatkozatok, amelyek megtétel
 b) valamennyi nyilatkozat esetében ellenőrizhető és utólag igazolható legyen, hogy azokat az ügyfél tette meg.
 
 [^5]: A 7. § a 361/2017. (XI. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^6]: A 7. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 602. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^6]: A 7. § (1) bekezdése a 73/2018. (IV. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
