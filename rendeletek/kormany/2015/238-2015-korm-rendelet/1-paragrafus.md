@@ -1,23 +1,27 @@
-## 1. § E rendelet alkalmazásában
+## 1. §[^1] E rendelet alkalmazásában
 
-a) audit hatóság: az 1299/2013/EU európai parlamenti és tanácsi rendelet 25. cikke, a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (3) bekezdése és a 897/2014/EU bizottsági végrehajtási rendelet 28. cikke szerinti tevékenységet ellátó szervezet,
+1. audit hatóság: az 1299/2013/EU európai parlamenti és tanácsi rendelet 25. cikke, a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (3) bekezdése és a 897/2014/EU bizottsági végrehajtási rendelet 28. cikke szerinti tevékenységet ellátó szervezet,
 
-b) auditor csoport: az 1299/2013/EU európai parlamenti és tanácsi rendelet 25. cikk (2) bekezdése, a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (3) bekezdése és a 897/2014/EU bizottsági végrehajtási rendelet 28. cikk (2) bekezdése szerinti tevékenységet ellátó munkacsoport,
+2. auditor csoport: az 1299/2013/EU európai parlamenti és tanácsi rendelet 25. cikk (2) bekezdése, a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (3) bekezdése és a 897/2014/EU bizottsági végrehajtási rendelet 28. cikk (2) bekezdése szerinti tevékenységet ellátó munkacsoport,
 
-c) hitelesítési tevékenységre kijelölt szervezet: az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (4) bekezdése, a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (1) bekezdése, valamint a 897/2014/EU bizottsági végrehajtási rendelet 20. cikk (6) bekezdés b) pontja, továbbá 32. cikk (1) és (2) bekezdése szerinti feladatokat ellátó szervezet,
+3. hitelesítési tevékenységre kijelölt szervezet: az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (4) bekezdése, a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (1) bekezdése szerinti feladatokat ellátó szervezet,
 
-d) igazoló hatóság: az 1299/2013/EU európai parlamenti és tanácsi rendelet 24. cikke és a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (2) bekezdése szerinti tevékenységet ellátó szervezet,
+4. igazoló hatóság: az 1299/2013/EU európai parlamenti és tanácsi rendelet 24. cikke és a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (2) bekezdése szerinti tevékenységet ellátó szervezet,
 
-e) információs pont: az 5. § és a 8. § szerinti program hatékony lebonyolítását szakmailag támogató szervezet,
+5. információs pont: az 5. § és a 8. § szerinti program hatékony lebonyolítását szakmailag támogató szervezet,
 
-f) irányító hatóság: az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikke, a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (1) bekezdése és a 897/2014/EU bizottsági végrehajtási rendelet 26. cikke szerinti tevékenységet ellátó szervezet,
+6. irányító hatóság: az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikke, a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (1) bekezdése és a 897/2014/EU bizottsági végrehajtási rendelet 26. cikke szerinti tevékenységet ellátó szervezet,
 
-g) közös technikai titkárság: a 897/2014/EU bizottsági végrehajtási rendelet 27. cikk (1) bekezdése szerinti szervezet,
+7. költségellenőrzést végző szervezet: a 897/2014/EU bizottsági végrehajtási rendelet 20. cikk (6) bekezdés b) pontja, továbbá 32. cikk (1) bekezdése szerinti feladatokat ellátó szervezet,
 
-h) közös titkárság: az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (2) bekezdése és a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (1) bekezdése szerinti szervezet,
+8. közös technikai titkárság: a 897/2014/EU bizottsági végrehajtási rendelet 27. cikk (1) bekezdése szerinti szervezet,
 
-i) nemzeti hatóság: valamely határon átnyúló együttműködési program vonatkozásában tagállami hatáskörbe rendelt feladatok végrehajtásáért felelős szervezet,
+9. közös titkárság: az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (2) bekezdése és a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (1) bekezdése szerinti szervezet,
 
-j) program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás: valamely határon átnyúló együttműködési programban résztvevő partnerországok által az adott program hatékony működtetéséhez szükséges költségek fedezésére évenként nyújtott hozzájárulás és
+10. nemzeti hatóság: valamely határon átnyúló együttműködési program vonatkozásában tagállami hatáskörbe rendelt feladatok végrehajtásáért felelős szervezet,
 
-k) regionális koordináció: a 7. § szerinti program hatékony lebonyolításának szakmai támogatása.
+11. program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás: valamely határon átnyúló együttműködési programban részt vevő partnerországok által az adott program hatékony működtetéséhez szükséges költségek fedezésére évenként nyújtott hozzájárulás,
+
+12. regionális koordináció: a 7. § szerinti program hatékony lebonyolításának szakmai támogatása.
+
+[^1]: Az 1. § a 84/2018. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg.

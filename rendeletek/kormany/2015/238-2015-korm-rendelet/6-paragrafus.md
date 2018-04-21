@@ -1,4 +1,4 @@
-## 6. §[^1] Az Interreg V–A Szlovákia–Magyarország Együttműködési Program vonatkozásában
+## 6. §[^3] Az Interreg V–A Szlovákia–Magyarország Együttműködési Program vonatkozásában
 
 a) irányító hatóság: a miniszter,
 
@@ -14,4 +14,4 @@ f) hitelesítési tevékenységre kijelölt szervezet: a Széchenyi Programiroda
 
 g) a program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója: a miniszter.
 
-[^1]: A 6. § a 128/2016. (VI. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 6. § a 128/2016. (VI. 7.) Korm. rendelet 1. §-ával megállapított szöveg.

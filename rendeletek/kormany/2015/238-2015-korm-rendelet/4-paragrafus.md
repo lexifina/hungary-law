@@ -8,6 +8,8 @@ c) közös technikai titkárság: a Széchenyi Programiroda,
 
 d) nemzeti hatóság: a miniszter,
 
-e) hitelesítési tevékenységre kijelölt szervezet: a Széchenyi Programiroda és
+e)[^2] költségellenőrzést végző szervezet: a Széchenyi Programiroda és
 
 f) a program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója: a miniszter.
+
+[^2]: A 4. § e) pontja a 84/2018. (IV. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
