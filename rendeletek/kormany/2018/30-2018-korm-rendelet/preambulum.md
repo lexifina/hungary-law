@@ -1,0 +1,1 @@
+A Kormány a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés f) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
