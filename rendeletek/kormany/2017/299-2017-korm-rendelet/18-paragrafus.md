@@ -23,3 +23,7 @@ d) határidőt a kereskedelmi üzem megkezdésére.
 (5) A KÁT mérlegkörbe való belépés a próbaüzem kezdetétől lehetséges. A befogadó a Hivatal határozatában megállapított időtartam és a kötelező átvételre kerülő éves villamosenergia-mennyiség szorzataként számított összes kötelező átvételre kerülő villamosenergia-mennyiséget (a továbbiakban: összes átveendő energia) folyamatosan – az éves mennyiség szerinti megszakítás alkalmazása nélkül – veszi át. A kötelező átvételi jogosultság a kötelező átvételre meghatározott időtartam leteltével vagy az összes átveendő energia értékesítésével egyaránt megszűnik.
 
 (6) A prémium típusú támogatásra vonatkozó jogosultság a támogatásra meghatározott időtartam leteltével vagy a támogatásra jogosult maximális villamosenergia-mennyiség értékesítésével megszűnik.
+
+(7)[^1] Kötelező átvételi jogosultság megállapítására irányuló kérelem a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 81/2018. (IV. 20.) Korm. rendelet hatálybalépését követő 5. napig nyújtható be a Hivatal részére.
+
+[^1]: A 18. § (7) bekezdését a 81/2018. (IV. 20.) Korm. rendelet 1. §-a iktatta be.
