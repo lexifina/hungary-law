@@ -1,0 +1,9 @@
+# 75/2018. (IV. 20.) Korm. rendelet
+
+a fizetésképtelenségi nyilvántartás létrehozásával kapcsolatos feladatokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-75-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-04-25 | 2018-75-20-22.1 | 75/2018. (IV. 20.) Korm. rendelet |

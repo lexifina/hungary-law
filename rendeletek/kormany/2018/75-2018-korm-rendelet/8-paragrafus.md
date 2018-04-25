@@ -1,0 +1,1 @@
+## 7. § Ez a rendelet a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet 24., 27., valamint 78. és 79. Cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
