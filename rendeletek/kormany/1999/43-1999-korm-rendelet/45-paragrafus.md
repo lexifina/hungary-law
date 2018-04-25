@@ -1,6 +1,15 @@
-45. § (1)[^522] Az előre nem tervezhető, rendkívüli, illetve egyedi eset a NEAK főigazgatójának döntése alapján bármely, az ellátásra szakmailag alkalmas szolgáltatónak – az esetre vonatkozó külön szerződés nélkül – finanszírozható.
+45. §[^523] (1) Az 5. számú melléklet szerinti Extrafinanszírozás előirányzat terhére az előre nem tervezhető, rendkívüli, egyedi ellátások a NEAK főigazgatójának döntése alapján akkor finanszírozhatóak, ha az ellátás közvetlen költsége az R.-ben meghatározott díjtétel közvetlen költségének ötszörösét meghaladja.
 
-(2)[^523] A finanszírozás összegének (1) bekezdés szerinti kiegészítésére irányuló igényt – részletes költségkimutatással együtt – a szolgáltató az adott ellátás befejezését követő 60 napon belül nyújthatja be, abban az esetben, amennyiben a betegellátás költsége a finanszírozott HBCs díj ötszörösét meghaladja.
+(2) Az (1) bekezdés szerinti igény elbírálása során az ellátás közvetlen költsége a következő elemek figyelembevételével kerül megállapításra:
 
-[^522]: A 45. § eredeti szövegének jelölését a 29/2001. (III. 2.) Korm. rendelet 19. §-a (1) bekezdésre változtatta, szövege 293/2002. (XII. 27.) Korm. rendelet 21. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 34. § 14. pontja szerint módosított szöveg.
-[^523]: A 45. § (2) bekezdését a 29/2001. (III. 2.) Korm. rendelet 19. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A 45. § (2) bekezdése a 112/2004. (IV. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
+a) közvetlen gyógyszerköltség,
+
+b) diagnosztikai és terápiás szolgáltatások költsége,
+
+c) nem tételesen finanszírozott implantátumok és
+
+d) speciális szakmai anyagok, egyszer használatos eszközök.
+
+(3) Az (1) bekezdés szerinti igényt az ellátásra szakmailag alkalmas egészségügyi szolgáltató részletes költségkimutatással együtt, az adott ellátás befejezését követő 60 napon belül nyújthatja be.
+
+[^523]: A 45. § a 87/2018. (IV. 24.) Korm. rendelet 2. §-ával megállapított szöveg.

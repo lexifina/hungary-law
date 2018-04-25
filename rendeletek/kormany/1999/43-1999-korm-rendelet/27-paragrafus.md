@@ -1,6 +1,6 @@
 27. §[^269] (1) A finanszírozási szerződésben meghatározható a szolgáltató által nyújtható szolgáltatások köre, a szolgáltatásvolumen, a teljesítményvolumen, a teljesítés időbeli ütemezése és a többletteljesítmény elszámolásának feltételei és mértéke.
 
-(1a)[^270] A szolgáltatásvolumennel lekötött egynapos ellátásokra eső teljesítmények az egészségbiztosításért felelős miniszter javaslatára oszthatóak újra az előző évi teljesítményekre figyelemmel.
+(1a)[^270] A szolgáltatásvolumennel lekötött egynapos ellátásokra eső éves TVK keretek az egészségbiztosításért felelős miniszter döntése szerint oszthatóak újra a finanszírozási év végén, az előző évi teljesítményekre figyelemmel.
 
 (2)[^271] A teljesítményvolumen keretet (a továbbiakban: TVK) a járóbeteg-szakellátásra – ideértve a 32. § szerinti CT, MRI vizsgálatokat is – és az aktív fekvőbeteg-szakellátásra vonatkozóan éves szinten, valamint időarányosan – az ellátási igények változásának figyelembevételével – havi bontásban kell meghatározni. A tárgyidőszakra vonatkozó TVK havi bontását a 28. számú melléklet tartalmazza az egyes ellátási formákra meghatározott tárgyidőszakra vonatkozó országos szezonális index alapján. A tárgyidőszakra vonatkozó TVK havi bontása a szolgáltató által megadott szezonális index alapján történik, azzal, hogy az egyes hónapra vonatkozó szezonális index nem haladhatja meg a havi országos szezonális index 20 százalékkal növelt vagy csökkentett mértékét, és a tizenkét havi összes százalékos index összege nem térhet el a 100 százaléktól. A szolgáltató a szezonális indexet évente egy alkalommal, a finanszírozónak a tárgyidőszakra vonatkozó TVK értékéről szóló értesítése kézhezvételétől számított 15 napon belül határozhatja meg. Amennyiben a szolgáltató nem határozza meg a szezonális indexét, a TVK havi bontása a 28. számú mellékletben az egyes ellátási formákra meghatározott tárgyidőszakra vonatkozó országos szezonális index figyelembevételével történik.
 
@@ -66,8 +66,14 @@ kivételével történik.
 
 (10)[^289] Az új finanszírozási évre vonatkozó TVK megállapításáig – átmenetileg – a járóbeteg-szakellátás (ideértve a CT/MRI vizsgálatokat is), az orvosi klinikai laboratóriumi és mikrobiológiai vizsgálatok, valamint az aktív fekvőbeteg-szakellátás tekintetében a szolgáltató részére a finanszírozási évet követő hónapokra vonatkozó havi TVK-kat a számára az új finanszírozási évet megelőző finanszírozási év utolsó hónapjára meghatározott, miniszteri tartalék terhére biztosított növekmény nélküli TVK (e bekezdés alkalmazásában a továbbiakban: átmeneti TVK alap) alapján kell megállapítani. A finanszírozási évet követő hónapokra vonatkozó havi TVK-k meghatározásánál az átmeneti TVK alapot úgy kell korrigálni, mintha az adott hónapra vonatkozó szezonális index egytizenketted lett volna.
 
+(11)[^290] Azon egészségügyi szolgáltató esetében, amely a 28/A. számú melléklet szerint az aktív fekvőbeteg-szakellátásra és az egynapos sebészeti ellátásra vonatkozóan is rendelkezik TVK-val és az egynapos sebészeti ellátásra meghatározott TVK-ja terhére egy adott szakmában, a 2017. finanszírozási évben jelentett teljesítményt, valamint ugyanezen szakmában rendelkezik aktív fekvőbeteg-szakellátási kapacitással is, a finanszírozó a 2017. évi jelentett teljesítmények alapján az adott szakmára eső egynapos sebészeti ellátásra vonatkozó TVK mennyiséget átcsoportosítja az egészségügyi szolgáltató intézményi aktív fekvőbeteg-szakellátásra vonatkozó TVK-jába azzal, hogy
+
+a) az ezen szervezeti egységeken jelentett teljesítményt a finanszírozó a 2018. májusi teljesítmények elszámolásától kezdődően a 28. § szerinti aktív fekvőbeteg-szakellátás keretében végzett egynapos sebészeti ellátásként jelentett teljesítményként számolja el, valamint
+
+b) ezen szervezeti egységeken a továbbiakban is kizárólag egynapos sebészeti tevékenység végezhető és számolható el.
+
 [^269]: A 27. § a 232/2009. (X. 16.) Korm. rendelet 1. §-ával megállapított szöveg, e módosító rendelet 6. § (3) bekezdése alapján első alkalommal a 2009. november 1-jét követő teljesítmények elszámolására kell alkalmazni.
-[^270]: A 27. § (1a) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^270]: A 27. § (1a) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 13. § (1) bekezdése iktatta be, szövege a 87/2018. (IV. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^271]: A 27. § (2) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^272]: A 27. § (2a) bekezdését a 124/2015. (V. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
 [^273]: A 27. § (3) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 20. § (1) bekezdésével megállapított, az 519/2013. (XII. 30.) Korm. rendelet 11. § c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 39. § e) pontja, a 464/2016. (XII. 23.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
@@ -87,3 +93,4 @@ kivételével történik.
 [^287]: A 27. § (9) bekezdését a 365/2010. (XII. 30.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
 [^288]: A 27. § (9a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
 [^289]: A 27. § (10) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^290]: A 27. § (11) bekezdését a 87/2018. (IV. 24.) Korm. rendelet 1. § (2) bekezdése iktatta be.
