@@ -112,5 +112,8 @@
 
 55.[^26] Központi Kormányzati Hírlevélküldő rendszer
 
+56.[^27] Jogszabályban meghatározott helyi közszolgáltatás információs rendszer (IKIR)
+
 [^25]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 184. § (2) bekezdésével megállapított szöveg.
 [^26]: A 3. melléklet 55. pontját a 16/2017. (I. 31.) Korm. rendelet 2. §-a iktatta be.
+[^27]: A 3. melléklet 56. pontját a 73/2018. (IV. 20.) Korm. rendelet 9. §-a iktatta be.
