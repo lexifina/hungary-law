@@ -38,8 +38,9 @@
 
 ## Határidő: 2018. július 31.
 
-## 8.[^1]
+## 8.[^2]
 
-1. melléklet az 1012/2017. (I. 11.) Korm. határozathoz
+1. melléklet az 1012/2017. (I. 11.) Korm. határozathoz[^3]
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1240/2018. (IV. 25.) Korm. határozattal megállapított szöveg.

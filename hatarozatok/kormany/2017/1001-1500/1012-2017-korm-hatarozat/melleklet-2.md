@@ -1,62 +1,58 @@
-|  | A | B | C | D | E |
+| A | B | C | D | E |
 
-| 1. | Év | Tevékenység | Érintett szakasz | Hossz (km) | Becsült bruttó költség (millió forint) |
+| 1. | Év | Tevékenység | Érintett szakasz | Becsült bruttó költség (millió forint) |
 
-| 2. | 2017 | táblák kihelyezése | Fertőd–Keszthely | 131 | 350 |
+| 2. | 2017 | táblák kihelyezése, kerékpáros pihenők létesítése a nyomvonalakon | Fertőd–Keszthely | 350 |
 
-| 3. | Pannonhalma–Veszprém–Balatonfüred | 110 |
+| 3. | Pannonhalma–Veszprém–Balatonfüred |
 
-| 4. | Eger–Mezőkövesd–Poroszló | 54 |
+| 4. | Eger–Mezőkövesd–Poroszló |
 
-| 5. | Tokaj–Mád–Sárospatak | 80 |
+| 5. | Tokaj–Mád–Sárospatak |
 
-| 6. | Alföldi régió: Dunaföldvár–Kecskemét–Békés | 410 |
+| 6. | Alföldi régió: Dunaföldvár–Kecskemét–Békés |
 
-| 7. | EuroVelo 11 kritikus szakaszain táblák kihelyezése, javítása | 100 |
+| 7. | Nagykanizsa–Szepetnek–Semjénháza– Murakeresztúr (Mura szakasz tervezése) |
 
-| 8. | Nagykanizsa–Szepetnek–Semjénháza–Murakeresztúr (Mura szakasz tervezése) | 22 |
+| 8. | EuroVelo 11 kritikus szakaszain táblák kihelyezése |
 
-| 9. | 2018 | táblák kihelyezése | Gödöllő–Gyöngyös–Eger | 120 | 400 |
+| 9. | További nyomvonalak kitáblázása |
 
-| 10. | Hortobágy–Debrecen | 53 |
+| 10. | 2018 | táblák kihelyezése, kerékpáros pihenők létesítése a nyomvonalakon | Gödöllő–Gyöngyös–Eger | 400 |
 
-| 11. | Szentgotthárd–Keszthely–Balaton | 222 |
+| 11. | Hortobágy–Debrecen |
 
-| 12. | EuroVelo 11 kritikus szakaszain táblák kihelyezése, javítása | 235 |
+| 12. | Szentgotthárd–Keszthely–Balaton |
 
-| 13. | tervezés | Tiszafüred–Hortobágy | 31 | 300 |
+| 13. | EuroVelo 11 kritikus szakaszain táblák kihelyezése, javítása |
 
-| 14. | Siófok–Pécs | 136 |
+| 14. | További nyomvonalak kitáblázása |
 
-| 15. | Tokaj–Mád–Sárospatak hiányzó szakaszok | 12 |
+| 15. | tervezés | Tiszafüred–Hortobágy–Debrecen | 300 |
 
-| 16. | Siklós–Pécs | 55 |
+| 16. | Siófok–Pécs |
 
-| 17. | Szigetvár–Kaposvár | 40 |
+| 17. | Szigetvár–Kaposvár |
 
-| 18. | Hortobágy–Debrecen | 53 |
+| 18. | Tokaj–Mád–Sárospatak hiányzó részek tervezése |
 
-| 19. | építés | Vámosszabadi–Győr | 10 | 2601 |
+| 19. | Dél-alföldi régió építeni kívánt szakaszainak tervezése |
 
-| 20. | Eger–Egerszalók | 8 |
+| 20. | Siófok–Dombóvár |
 
-| 21. | Hortobágy–Debrecen | 53 |
+| 21. | 2019 | építés | Tiszafüred–Hortobágy | 2601 |
 
-| 22. | Tokaj–Mád–Sárospatak | 12 |
+| 22. | Győr–Vámosszabadi |
 
-| 23. | Dél-alföldi régió | 7 |
+| 23. | 2020 | építés | Hortobágy–Debrecen | 6934 |
 
-| 24. | 2019 | építés | Tiszafüred–Hortobágy | 55 | 6934 |
+| 24. | Tokaj–Mád–Sárospatak |
 
-| 25. | Siófok–Dombóvár | 84 |
+| 25. | Siófok–Pécs |
 
-| 26. | Pécs–Siklós | 55 |
+| 26. | Szigetvár–Kaposvár |
 
-| 27. | Dombóvár–Pécs | 52 |
-
-| 28. | Szigetvár–Kaposvár | 40 |
-
-| 29. | Murakeresztúr–Őrtilos | 16 |
+| 27. | Murakeresztúr–Őrtilos |
 
 2. melléklet az 1012/2017. (I. 11.) Korm. határozathoz
 
