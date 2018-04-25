@@ -1,0 +1,5 @@
+## „(11) Azon egészségügyi szolgáltató esetében, amely a 28/A. számú melléklet szerint az aktív fekvőbeteg-szakellátásra és az egynapos sebészeti ellátásra vonatkozóan is rendelkezik TVK-val és az egynapos sebészeti ellátásra meghatározott TVK-ja terhére egy adott szakmában, a 2017. finanszírozási évben jelentett teljesítményt, valamint ugyanezen szakmában rendelkezik aktív fekvőbeteg-szakellátási kapacitással is, a finanszírozó a 2017. évi jelentett teljesítmények alapján az adott szakmára eső egynapos sebészeti ellátásra vonatkozó TVK mennyiséget átcsoportosítja az egészségügyi szolgáltató intézményi aktív fekvőbeteg-szakellátásra vonatkozó TVK-jába azzal, hogy
+
+## a) az ezen szervezeti egységeken jelentett teljesítményt a finanszírozó a 2018. májusi teljesítmények elszámolásától kezdődően a 28. § szerinti aktív fekvőbeteg-szakellátás keretében végzett egynapos sebészeti ellátásként jelentett teljesítményként számolja el, valamint
+
+## b) ezen szervezeti egységeken a továbbiakban is kizárólag egynapos sebészeti tevékenység végezhető és számolható el.”
