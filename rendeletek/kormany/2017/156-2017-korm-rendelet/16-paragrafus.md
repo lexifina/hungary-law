@@ -1,6 +1,6 @@
 ## 5. Tárgyalási engedély
 
-16. § (1) Haditechnikai eszköz kivitelére, újrakivitelére, valamint harmadik ország – kivéve az EGT-államok, az Amerikai Egyesült Államok, Ausztrália, Japán, Kanada, Svájc és Új-Zéland – részére történő szolgáltatás nyújtására szerződés kizárólag tárgyalási engedély birtokában köthető, az abban meghatározott partnerrel, az engedélyezett haditechnikai eszközre vagy szolgáltatásra.
+16. § (1)[^8] Haditechnikai eszköz kivitelére, újrakivitelére, valamint harmadik ország részére történő szolgáltatás nyújtására – kivéve az EGT-államokban, az Amerikai Egyesült Államokban, Ausztrália, Japán, Kanada, Svájc és Új-Zéland államokban letelepedett végfelhasználók részére történő kivitelt, újrakivitelt és szolgáltatásnyújtást – szerződés kizárólag tárgyalási engedély birtokában köthető, az abban meghatározott partnerrel, az engedélyezett haditechnikai eszközre vagy szolgáltatásra.
 
 (2) Tárgyalási engedély hatályos, haditechnikai külkereskedelemre vonatkozó tevékenységi engedély birtokában, azzal összhangban kérelmezhető, illetve vehető igénybe.
 
@@ -11,3 +11,5 @@
 (5) A Hatóság a tárgyalási engedélyben a 9. § (1)–(3) bekezdésében foglaltakkal összefüggésben nemzetbiztonsági, nemzetgazdasági érdekből vagy a végfelhasználó és a végfelhasználás ellenőrzésének céljából, az összes körülmény figyelembevételével az ügylet lebonyolítására vonatkozó egyedi feltételeket határozhat meg a szállítás, a végfelhasználás, a továbbértékesítés, illetve a továbbadás vonatkozásában.
 
 (6) Nem szükséges tárgyalási engedély garanciális javításra, kiállításra, bemutatóra, tesztelésre, bevizsgálásra vonatkozó devizamentes, ideiglenes árumozgással járó ügylet esetében.
+
+[^8]: A 16. § (1) bekezdése a 78/2018. (IV. 20.) Korm. rendelet 2. §-ával megállapított szöveg.

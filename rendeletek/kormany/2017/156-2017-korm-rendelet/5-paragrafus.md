@@ -1,4 +1,4 @@
-## 4. §[^2]
+## 4. §[^5]
 
 5. § (1) Nem kell külön engedélyt beszerezniük a Httv. 2. §-a szerinti tevékenységhez
 
@@ -16,4 +16,4 @@ c) a szállítás a katasztrófa esetén nyújtott humanitárius segítségnyúj
 
 d) haditechnikai eszközt állami fegyveres szervek közös gyakorlat, bemutató céljából szállítanak át Magyarország határán.
 
-[^2]: A 4. § a 38. § (4) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § a 38. § (4) bekezdése alapján hatályát vesztette.

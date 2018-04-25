@@ -4,15 +4,15 @@
 
 1. behozatal: kereskedelmi ügylet, amelynek során az Európai Unió vámterületén kívüli területről (a továbbiakban: harmadik ország)
 
-a) az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Uniós Vámkódex) 5. cikk 24. pontjában meghatározott, „nem uniós áru” fogalomkörébe nem tartozó árunak az Uniós Vámkódex 201. cikke szerint szabad forgalomba bocsátása, ideértve az Uniós Vámkódex 254. cikke szerinti, meghatározott célra történő szabad forgalomba bocsátást,
+a)[^1] az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Uniós Vámkódex) 5. cikk 24. pontjában meghatározott, „nem uniós áru” fogalomkörébe tartozó árunak az Uniós Vámkódex 201. cikke szerint szabad forgalomba bocsátása, ideértve az Uniós Vámkódex 254. cikke szerinti, meghatározott célra történő szabad forgalomba bocsátást,
 
 b) nem uniós áruknak az Uniós Vámkódex 240. cikkében foglalt vámraktározás, a 256. cikkében foglalt aktív feldolgozás és a 250. cikkében meghatározott ideiglenes behozatal alá vonása, a 259. cikkében foglalt passzív feldolgozás keretében történt ideiglenes kivitelt követő újrabehozatala és szabad forgalomba bocsátása vagy vámszabadterületre szállítása, valamint a 203. cikkében meghatározott tértiáru szabad forgalomba bocsátása, és
 
 c) szoftver vagy technológia Európai Unión kívüli országból történő átvételére írásos formában vagy más adathordozón Magyarország területén kerül sor;
 
-2. behozatali vámhivatal: az az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény (a továbbiakban: Vámtörvény) 3. § 8. pontjában meghatározott vámhivatal, ahol harmadik országból az Európai Unió vámterületére beszállított áruk tekintetében az 1. pont a) és b) alpontja szerinti vámeljárásokat végzik;
+2.[^2] behozatali vámhivatal: az uniós vámjog végrehajtásáról szóló törvényben meghatározott vámhivatal, ahol harmadik országból az Európai Unió vámterületére beszállított áruk tekintetében az 1. pont a) és b) alpontja szerinti vámeljárásokat végzik;
 
-3. belépési vámhivatal: az a Vámtörvény 3. § 8. pontjában meghatározott vámhivatal, ahová a harmadik országból az Európai Unió vámterületére belépő árukat vám elé állítják;
+3.[^3] belépési vámhivatal: az uniós vámjog végrehajtásáról szóló törvényben meghatározott vámhivatal, ahová a harmadik országból az Európai Unió vámterületére belépő árukat vám elé állítják;
 
 4. Belső Megfelelési Program: a vállalkozás megbízhatóságát alátámasztó tájékoztató dokumentum, amely tartalmazza a vállalkozás tevékenységére vonatkozó információkat, a tevékenysége során keletkezett dokumentumok kezelésének és a nyilvántartás leírását; meghatározza az e rendelet hatálya alá eső tevékenységben részt vevő személyek feladatkörét és felelősségét, tartalmazza a vállalkozáson belüli kockázatkezelés leírását, valamint e rendelet előírásainak vállalkozáson belüli végrehajtását, továbbá vállalkozáson belül rendelkezik az esetleges nemmegfelelőségek felszámolásának módjáról;
 
@@ -81,3 +81,7 @@ c) amely szoftver vagy technológia szóban, írásos formában, elektronikus ú
 25. vállalkozás: jogi személy vagy jogi személyiség nélküli jogalany, amely elsődlegesen üzletszerű gazdasági tevékenység folytatása céljából jött létre, gazdasági társaság, egyéni cég, egyéni vállalkozó, a költségvetési szerv, valamint határon átnyúló szolgáltatás esetében az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban bejegyzett vállalkozás;
 
 26. Végfelhasználói Nyilatkozat: az exportőr ország kérésére a végfelhasználó vagy a végfelhasználó országának nyilatkozata arról, hogy a megvásárolt eszközök a végfelhasználó országában a megjelölt céllal kerülnek felhasználásra, továbbá az áru nukleáris, biológiai, illetve vegyi fegyverek fejlesztésére, gyártására és használatára, vagy ilyen fegyverek célba juttatására szolgáló eszköz részeként nem kerül felhasználásra; tartalmazhat újrakivitelt korlátozó záradékot, illetve nyilatkozatot arról, hogy nem kerül továbbértékesítésre az eredeti exportőr ország hozzájárulása nélkül.
+
+[^1]: A 2. § 1. pont a) alpontja a 78/2018. (IV. 20.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^2]: A 2. § 2. pontja a 78/2018. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § 3. pontja a 78/2018. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg.

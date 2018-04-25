@@ -12,7 +12,7 @@ c) a költségvetési szervek törzskönyvi nyilvántartásába bejegyzett költ
 
 d) határon átnyúló szolgáltatás esetében az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban (a továbbiakban: EGT-állam) bejegyzett vállalkozás.
 
-(3)[^1]
+(3)[^4]
 
 (4) Az e rendelet szerinti eljárásokban a tényállás tisztázása érdekében a Hatóság határidő megjelölésével, a mulasztás jogkövetkezményeire történő figyelmeztetés mellett az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 44. § b) pontján túl ismételten hiánypótlásra hívhatja fel a kérelmezőt.
 
@@ -32,4 +32,4 @@ c) a kérelemben megjelölt tevékenység irányítására kijelölt felelős ve
 
 d) megfelel a Httv. és az e rendeletben meghatározott egyéb feltételeknek.
 
-[^1]: A 3. § (3) bekezdése a 38. § (4) bekezdése alapján hatályát vesztette.
+[^4]: A 3. § (3) bekezdése a 38. § (4) bekezdése alapján hatályát vesztette.
