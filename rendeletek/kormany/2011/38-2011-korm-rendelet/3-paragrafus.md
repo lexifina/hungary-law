@@ -68,4 +68,6 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 31. | Természetes személyek adósságrendezési eljárásával összefüggő nyomtatványellenőrzési és nyomtatványkitöltő informatikai rendszer | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
-[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a, a 311/2017. (X. 31.) Korm. rendelet 18. §-a, a 467/2017. (XII. 28.) Korm. rendelet 15. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 13. § (2)–(4) bekezdését.
+| 32. | fizetésképtelenségi nyilvántartás | Magyar Közlöny Lap- és Könyvkiadó Kft. | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
+
+[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a, a 311/2017. (X. 31.) Korm. rendelet 18. §-a, a 467/2017. (XII. 28.) Korm. rendelet 15. §-a, a 75/2018. (IV. 20.) Korm. rendelet 8. §-a szerint módosított szöveg.
