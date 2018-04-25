@@ -1,3 +1,5 @@
+## Egyéb, nem egészségügyi főiskolai végzettséggel rendelkező egészségügyi dolgozók illetmény-, illetve bérnövelése (Ft/hó, bruttó)
+
 | SZINT | ÉVEK | EGYÉB, NEM EGÉSZSÉGÜGYI FŐISKOLAI VÉGZETTSÉGGEL RENDELKEZŐ EGÉSZSÉGÜGYI DOLGOZÓK ILLETMÉNY- VAGY BÉRNÖVELÉS FIZETÉSI OSZTÁLYOK |
 
 | F | G | H |
@@ -36,9 +38,9 @@
 
 | 17 | 49–51 | 110 761 | 116 872 | 131 991 |
 
-9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^63]
+9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^69]
 
-Bérkiegészítési támogatás elszámolásához szükséges havi bérszámfejtési adatok
+## Bérkiegészítési támogatás elszámolásához szükséges havi bérszámfejtési adatok
 
 1. A 2015. október – 2015. december hónapok közötti időszakra vonatkozóan:
 
@@ -154,4 +156,4 @@ Bérkiegészítési támogatás elszámolásához szükséges havi bérszámfejt
 
 3.3. Munkáltatónkénti bontásban az ügyeleti díj, az Eütev. 14/B. §-a szerinti pótlék, a készenléti díj, valamint a rendkívüli munkavégzés bérpótlékának biztosítása érdekében a foglalkoztatottak részére utalványozott különbözet összege a 3. § (5) bekezdésében foglaltak alapján, valamint a különbözethez kapcsolódóan összesen utalványozott kifizetőt terhelő közterhek összege.
 
-[^63]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 25/2017. (II. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^69]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 25/2017. (II. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.

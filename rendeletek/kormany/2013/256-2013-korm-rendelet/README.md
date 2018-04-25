@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-256-20-
 | 2017-12-15 | 2013-256-20-22.26 | 399/2017. (XII. 14.) Korm. rendelet |
 | 2018-01-01 | 2013-256-20-22.27 | 2010: CXXX. törvény |
 | 2018-02-01 | 2013-256-20-22.28 | 2/2018. (II. 1.) Korm. rendelet |
+| 2018-04-25 | 2013-256-20-22.29 | 87/2018. (IV. 24.) Korm. rendelet |

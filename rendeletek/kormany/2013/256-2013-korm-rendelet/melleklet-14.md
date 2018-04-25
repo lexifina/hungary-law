@@ -1,4 +1,4 @@
-14. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^68]
+14. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^74]
 
 | SZINT | ÉVEK | EGÉSZSÉGÜGYI SZAKDOLGOZÓK, EGYES EGÉSZSÉGÜGYBEN DOLGOZÓK ILLETMÉNY- VAGY BÉRNÖVELÉSI ÖSSZEGE |
 
@@ -40,4 +40,4 @@
 
 | 17 | 49–51 | 12 571 | 14 429 | 15 811 | 17 163 | 21 101 | 27 428 | 28 966 | 32 176 | 33 561 | 36 853 |
 
-[^68]: A 14. mellékletet a 2/2018. (II. 1.) Korm. rendelet 4. § d) pontja iktatta be.
+[^74]: A 14. mellékletet a 2/2018. (II. 1.) Korm. rendelet 4. § d) pontja iktatta be.
