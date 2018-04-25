@@ -106,6 +106,6 @@
 
 ## A kérelem benyújtójának aláírása
 
-3. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^49]
+3. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^50]
 
-[^49]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés i)–k) pontja szerint módosított szöveg.
+[^50]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés i)–k) pontja szerint módosított szöveg.

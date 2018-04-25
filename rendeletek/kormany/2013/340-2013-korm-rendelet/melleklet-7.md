@@ -60,6 +60,6 @@
 
 | Engedélyezési döntés időpontja: |
 
-7. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^51]
+7. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^52]
 
-[^51]: A 7. melléklet a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés m) pontja szerint módosított szöveg.
+[^52]: A 7. melléklet a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés m) pontja szerint módosított szöveg.
