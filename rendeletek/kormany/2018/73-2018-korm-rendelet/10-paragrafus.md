@@ -1,3 +1,1 @@
-## 8–9. §[^6]
-
-[^6]: A 8–9. § a 7. § (2) bekezdése alapján 2018. április 25-én lép hatályba.
+## 9. § A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet 3. melléklete a 2. melléklet szerint módosul.
