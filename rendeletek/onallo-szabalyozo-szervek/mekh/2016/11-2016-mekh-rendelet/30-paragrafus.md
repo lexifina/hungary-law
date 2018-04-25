@@ -1,4 +1,4 @@
-## 13. [^65] Éves elosztási kapacitás-igénybevétel az átadási-átvételi pontokon történő éves elosztási kapacitás-lekötés esetén
+## 13. [^66] Éves elosztási kapacitás-igénybevétel az átadási-átvételi pontokon történő éves elosztási kapacitás-lekötés esetén
 
 30. § (1) Az elosztási kapacitásdíjat, az elosztási alapdíjat, valamint az elosztási forgalmi díjat a 22. § (2) bekezdés szerinti értékesítési kategória díjtételei szerint köteles a rendszerhasználó megfizetni.
 
@@ -22,4 +22,4 @@ b) pótdíjként a (2) bekezdésben meghatározott, számlázás alapját képez
 
 (9) Átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni.
 
-[^65]: A 13. alcím (30. §) a 7/2017. (VII. 13.) MEKH rendelet 15. §-ával megállapított szöveg.
+[^66]: A 13. alcím (30. §) a 7/2017. (VII. 13.) MEKH rendelet 15. §-ával megállapított szöveg.
