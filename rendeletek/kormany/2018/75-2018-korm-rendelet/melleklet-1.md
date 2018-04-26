@@ -1,4 +1,4 @@
-## 8. § A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló 38/2011. (III. 22.) Korm. rendelet [a továbbiakban: 38/2011. (III. 22.) Korm. rendelet] melléklete a 2. melléklet szerint módosul.
+## 8. §[^1]
 
 1. melléklet a 75/2018. (IV. 20.) Korm. rendelethez
 
@@ -47,3 +47,5 @@
 4.4. ügyszám;
 
 4.5. befejező határozat jogerőre emelkedésének napja.
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
