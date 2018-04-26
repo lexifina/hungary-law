@@ -1,0 +1,1 @@
+## 6. § A kiemelt nemzeti emlékhely használatának rendjéről szóló 119/2014. (IV. 8.) Korm. rendelet (a továbbiakban: R1.) 1. § 1. pontjában az „1. mellékletében” szövegrész helyébe a „2. melléklet I. pontjában” szöveg lép.
