@@ -1,6 +1,6 @@
 ## 1. § E rendelet alkalmazásában
 
-1.[^1] kiemelt nemzeti emlékhely: a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 1. mellékletében meghatározott ingatlanok,
+1.[^1] kiemelt nemzeti emlékhely: a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 2. melléklet I. pontjában meghatározott ingatlanok,
 
 1a.[^2] kerékpár: olyan keréken gördülő jármű, amelyet
 
@@ -14,7 +14,7 @@ b) motor hajt, és legnagyobb sebessége nem haladja meg a 20 km/óra sebessége
 
 3.[^4] védett várakozási övezet: a kiemelt nemzeti emlékhelynek a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 14. § (1) bekezdés n) pontjában meghatározott módon kijelölt olyan területe, ahová a behajtás, továbbá ahol a várakozás feltételekhez kötött.
 
-[^1]: Az 1. § 1. pontja a 19/2018. (II. 14.) Korm. rendelet 60. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § 1. pontja a 19/2018. (II. 14.) Korm. rendelet 60. § (1) bekezdésével megállapított, a 90/2018. (IV. 25.) Korm. rendelet 6. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 5. §-át.
 [^2]: Az 1. § 1a. pontját a 447/2016. (XII. 16.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^3]: Az 1. § 1b. pontját a 447/2016. (XII. 16.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^4]: Az 1. § 3. pontját a 447/2016. (XII. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be.

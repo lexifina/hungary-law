@@ -16,17 +16,18 @@ d) a bírság összegét.
 
 (5) A bírságból származó bevételt az eljáró hatóság célelszámolási számlán kezeli és arról elkülönített analitikus nyilvántartást vezet.
 
-(6) Az eljáró hatóság a központosított bevételt az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 131. § (1) bekezdésében foglaltak szerint köteles a Magyar Államkincstár által megjelölt számlára átutalni.
+(6)[^20]
 
 (7) Az eljáró hatóság részletfizetés engedélyezése esetén valamennyi részlet befizetéséhez szükséges, az egyes részletek meghatározását tartalmazó csekkszelvényt biztosít az ügyfél részére.
 
-(8)[^20] A bírság, illetve a helyszíni bírság összegét a bírság, illetve a helyszíni bírság kiszabásáról rendelkező határozat véglegessé válásától számított tizenöt napon belül a csekkszelvény feladásával, az eljáró hatóságnak a (3) bekezdésben meghatározott fizetési számlájára utalással, vagy postai úton történő készpénzbefizetéssel kell megfizetni.
+(8)[^21] A bírság, illetve a helyszíni bírság összegét a bírság, illetve a helyszíni bírság kiszabásáról rendelkező határozat véglegessé válásától számított tizenöt napon belül a csekkszelvény feladásával, az eljáró hatóságnak a (3) bekezdésben meghatározott fizetési számlájára utalással, vagy postai úton történő készpénzbefizetéssel kell megfizetni.
 
 (9) A bírságnak, illetve a helyszíni bírságnak az eljáró hatóság fizetési számlájára utalással vagy postai befizetéssel történő teljesítése esetén a közlemény rovatban fel kell tüntetni a „kiemelt nemzeti emlékhely bírság” szöveget, a határozat számát és a bírságfizetésre kötelezett nevét.
 
-(10)[^21]
+(10)[^22]
 
 [^18]: A 14/A. §-t a 447/2016. (XII. 16.) Korm. rendelet 6. §-a iktatta be.
 [^19]: A 14/A. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 493. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^20]: A 14/A. § (8) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 493. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^21]: A 14/A. § (10) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 494. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^20]: A 14/A. § (6) bekezdését a 90/2018. (IV. 25.) Korm. rendelet 8. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^21]: A 14/A. § (8) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 493. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^22]: A 14/A. § (10) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 494. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
