@@ -20,7 +20,7 @@
 
 9. építészeti együttes: egymáshoz legalább homlokzati kialakításban illeszkedő, több telken álló épületek egységes építészeti koncepció szerint tervezett és megvalósított csoportja, épületegyüttese;
 
-10. építménymagasság: az illetékes kerületi önkormányzat által elfogadott, e rendelet hatálybalépése időpontjában hatályos kerületi építési szabályzat szerinti beépítési paraméter;
+10.[^1] építménymagasság: az illetékes kerületi önkormányzat által elfogadott, e rendelet hatálybalépése időpontjában hatályos helyi építési szabályzat szerinti beépítési paraméter;
 
 11. fennálló: meglévő és akként dokumentált vagy dokumentálható építmény, építményrész, szerkezet vagy egyéb elem;
 
@@ -67,3 +67,5 @@ e) a kollektív befektetési formákról és kezelőikről, valamint egyes pénz
 26. üzletportál: minden olyan földszinti és esetlegesen hozzá kapcsolódó félemeleti nyílászáró, annak aránya, anyaga és környezetének építészeti kialakítása, részletképzése, amely az épület földszinti helyiségeibe való bejutást lehetővé teszi és nem az épület bejárati kapuja vagy garázsbehajtója, továbbá minden olyan ezektől független nyílás, amely így megközelíthető helyiségből az utcafrontról nyílik;
 
 27. vendéglátási rendeltetés: a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontjában meghatározott tevékenységet szolgáló rendeltetés, ideértve az OTÉK szerinti vendéglátó rendeltetést.
+
+[^1]: A 3. § 10. pontja a 90/2018. (IV. 25.) Korm. rendelet 7. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.

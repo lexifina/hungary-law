@@ -1,6 +1,6 @@
 ## 21. A beruházási kölcsön támogatás szabályai
 
-48. § (1) A kiemelt nemzeti emlékhelyen álló ingatlanon tervezett örökségvédelmi célú beruházás finanszírozásához beruházási kölcsön támogatás nyújtható.
+48. § (1)[^3] A beruházás finanszírozásához beruházási kölcsön támogatás nyújtható.
 
 (2) A beruházási kölcsön támogatás
 
@@ -41,3 +41,5 @@ d) a c) pont szerinti lakóingatlan a támogatás megítélésekor bejelentett l
 (9) A (3) bekezdés szerinti szerződésből a társasház által adósként fizetendő tőketörlesztés támogatásának mértékét az (5) bekezdés alapján kell megállapítani azzal, hogy a támogatás mértékének megállapítása során azon, a társasházban közvetlen lakástulajdonnal rendelkező természetes személyek tulajdoni hányadát kell alapul venni, akik megfelelnek a (6) bekezdésben meghatározott feltételeknek.
 
 (10) Amennyiben a (6) bekezdés szerinti kedvezményezett a tőketörlesztés futamidejének, a tőke törlesztésének lezárulta előtt a (6) bekezdés c) pontja szerinti lakástulajdont eladja, úgy az (5) bekezdés b) pontja szerinti támogatás a Kezelő útján visszajár.
+
+[^3]: A 48. § (1) bekezdése a 90/2018. (IV. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
