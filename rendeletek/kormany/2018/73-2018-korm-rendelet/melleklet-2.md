@@ -38,8 +38,6 @@
 
 | 17. | KÖFOP-2.3.3-VEKOP-16 „Helyi versenyképesség-fejlesztési kutatási program” projekt | A helyi közszolgáltatásokkal kapcsolatos elégedettségmérési adatok |
 
-2. melléklet a 73/2018. (IV. 20.) Korm. rendelethez
+2. melléklet a 73/2018. (IV. 20.) Korm. rendelethez[^3]
 
-1. A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet 3. melléklete a következő 56. ponttal egészül ki.
-
-„56. Jogszabályban meghatározott helyi közszolgáltatás információs rendszer (IKIR)”
+[^3]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
