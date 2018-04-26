@@ -1,1 +1,0 @@
-## „(9) A munkáltató a ténylegesen kifizetett összegekről 2018. november 30-ig köteles elszámolni a miniszter által meghatározott módon. Az elszámolás módját a miniszter legkésőbb 2018. november 15-éig az általa vezetett minisztérium honlapján közzéteszi.”
