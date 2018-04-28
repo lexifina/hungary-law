@@ -1,3 +1,7 @@
+## szakszolgálatok működnek.
+
 ## II. Fejezet
 
-## A SZEMÉLY- ÉS LÉTESÍTMÉNYVÉDELMI FELADATOK ELLÁTÁSÁRA VONATKOZÓ SZABÁLYOK
+## AZ ORSZÁGGYŰLÉSI ŐR INTÉZKEDÉSÉNEK ÁLTALÁNOS SZABÁLYAI[^12]
+
+[^12]: A II. fejezet címe a 9/2018. (IV. 25.) BM rendelet 36. §-ával megállapított szöveg.

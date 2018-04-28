@@ -1,4 +1,4 @@
-## 56. § Készenlétet az Országgyűlési Őrség parancsnoka rendelhet el az irányítása alatt álló szerv vagy szervezeti elem vonatkozásában.
+## 56. §
 
 ## VII. Fejezet
 
