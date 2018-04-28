@@ -44,6 +44,6 @@
 
 | vizsgabizottsági tag | vizsgabizottsági tag |
 
-5. melléklet a 23/2013. (VI. 11.) BM rendelethez[^7]
+5. melléklet a 23/2013. (VI. 11.) BM rendelethez[^8]
 
-[^7]: Az 5. melléklet a 36/2015. (VI. 16.) BM rendelet 31. § a) pontjával megállapított szöveg.
+[^8]: Az 5. melléklet a 36/2015. (VI. 16.) BM rendelet 31. § a) pontjával megállapított szöveg.

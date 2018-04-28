@@ -18,11 +18,11 @@ d) az Országos Egészségbiztosítási Pénztár és a munkáltató társadalom
 
 (5) Halálos kimenetelű vagy tömeges foglalkozási megbetegedés kivizsgálásába a munkavédelmi hatóság
 
-a)[^2] növényvédő szer vagy termésnövelő anyag okozta megbetegedés esetén a növény- és talajvédelmi feladatkörében eljáró megyei kormányhivatalt,
+a)[^3] növényvédő szer vagy termésnövelő anyag okozta megbetegedés esetén a növény- és talajvédelmi feladatkörében eljáró megyei kormányhivatalt,
 
-b)[^3] biológiai kóroki tényező okozta megbetegedés esetén a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt,
+b)[^4] biológiai kóroki tényező okozta megbetegedés esetén a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt,
 
-c)[^4] élelmiszer eredetű vagy állatról emberre terjedő fertőzés okozta megbetegedés esetén az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró megyei kormányhivatalt
+c)[^5] élelmiszer eredetű vagy állatról emberre terjedő fertőzés okozta megbetegedés esetén az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró megyei kormányhivatalt
 
 ## szakértőként bevonja.
 
@@ -30,6 +30,6 @@ c)[^4] élelmiszer eredetű vagy állatról emberre terjedő fertőzés okozta m
 
 (7) A munkavédelmi hatóság és az alapellátó orvos által elkészített és összeállított megbetegedési dokumentáció, továbbá a munkahigiénés és foglalkozás-egészségügyi szerv és a FÜV Bizottság véleménye alapján a foglalkozási megbetegedés, valamint a fokozott expozíciós esetek szolgálattal, munkavégzéssel összefüggő minősítését az Országgyűlési Őrség parancsnoka a szakvélemények mérlegelésével végzi el. Az Országgyűlési Őrség parancsnoka a 10. melléklet szerinti nyomtatványon értesíti a társadalombiztosítási kifizetőhelyet, valamint az Országos Egészségbiztosítási Pénztárat.
 
-[^2]: A 25. § (5) bekezdés a) pontja a 11/2015. (III. 31.) BM rendelet 11. § a) pontja szerint módosított szöveg.
-[^3]: A 25. § (5) bekezdés b) pontja a 11/2015. (III. 31.) BM rendelet 11. § b) pontja szerint módosított szöveg.
-[^4]: A 25. § (5) bekezdés c) pontja a 11/2015. (III. 31.) BM rendelet 11. § c) pontja szerint módosított szöveg.
+[^3]: A 25. § (5) bekezdés a) pontja a 11/2015. (III. 31.) BM rendelet 11. § a) pontja szerint módosított szöveg.
+[^4]: A 25. § (5) bekezdés b) pontja a 11/2015. (III. 31.) BM rendelet 11. § b) pontja szerint módosított szöveg.
+[^5]: A 25. § (5) bekezdés c) pontja a 11/2015. (III. 31.) BM rendelet 11. § c) pontja szerint módosított szöveg.
