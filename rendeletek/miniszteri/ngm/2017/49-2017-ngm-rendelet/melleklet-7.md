@@ -64,7 +64,7 @@
 
 | 29. | 233321 |  | Adósságkezelés költségei | Adósságkezelés költségeinek fedezése. | ÁKK Zrt. |  |  | Az összeget a Kincstár minden hónap 5-éig folyósítja egyenlő részletekben. |  |  | Kincstár |  |  |
 
-7. melléklet a 49/2017. (XII. 29.) NGM rendelethez[^2]
+7. melléklet a 49/2017. (XII. 29.) NGM rendelethez[^3]
 
 XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi kezelésű előirányzatai
 
@@ -206,4 +206,6 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 
 | 66. | 374873 |  | Központi Maradványelszámolási Alap | Kormányzati döntésekből következő, illetve évközben jelentkező egyéb forrásbiztosítások kezelése. | Költségvetési szervek, fejezeti kezelésű előirányzatok, központi kezelésű előirányzatok |  |  | Átcsoportosítással a Kormány egyedi határozata alapján. |  |  |  |  |  |
 
-[^2]: A 7. melléklet a 3/2018. (II. 28.) NGM rendelet 1. §-a szerint módosított szöveg.
+| 67. | 375106 | A SZEVIÉP Zrt. károsultjainak rendkívüli állami kárrendezése | A felszámolás alatt álló SZEVIÉP Szerkezet- és Vízépítő Zártkörűen Működő Részvénytársaság károsultjainak rendkívüli állami kárrendezéséről szóló 32/2018. (III. 5.) Korm. rendelet (a továbbiakban: 32/2018. Korm. rendelet) alapján a jogosultak számára a rendkívüli állami kárrendezés biztosítása. | A 32/2018. Korm. rendelet 8. § (2) bekezdése szerinti támogatási okirat szerinti károsultak. | A 32/2018. Korm. rendelet 8. § (2) bekezdése szerinti támogatói okirattal. |  | A 32/2018. Korm. rendelet 8. § (4) bekezdése szerinti átutalással. |  |  | Kincstár |  |  |
+
+[^3]: A 7. melléklet a 3/2018. (II. 28.) NGM rendelet 1. §-a, a 9/2018. (IV. 27.) NGM rendelet 1. §-a szerint módosított szöveg.
