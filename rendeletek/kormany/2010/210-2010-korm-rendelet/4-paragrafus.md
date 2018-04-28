@@ -22,16 +22,17 @@ f) az Interreg V-A Magyarország–Horvátország Együttműködési Programmal,
 
 g) az Interreg-IPA Magyarország-Szerbia Határon Átnyúló Együttműködés Programmal,
 
-h) a Magyarország–Szlovákia–Románia–Ukrajna ENPI Határon Átnyúló Együttműködési Programmal
+h)[^9] a Magyarország–Szlovákia–Románia–Ukrajna ENI Határon Átnyúló Együttműködési Programmal
 
 ## kapcsolatos ellenőrzési hatósági feladatokat.
 
-(3)[^9]
+(3)[^10]
 
-(4)[^10] A Főigazgatóság ellátja az Európai Hálózatfinanszírozási Eszközből származó források felhasználásáról szóló kormányrendeletben meghatározott ellenőrzési hatósági feladatokat.
+(4)[^11] A Főigazgatóság ellátja az Európai Hálózatfinanszírozási Eszközből származó források felhasználásáról szóló kormányrendeletben meghatározott ellenőrzési hatósági feladatokat.
 
 [^6]: A 3/A. §-t a 113/2011. (VII. 7.) Korm. rendelet 48. §-a iktatta be, szövege a 206/2012. (VII. 27.) Korm. rendelet 1. §-ával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 65. §-a szerint módosított szöveg.
 [^7]: A 4. § (2) bekezdését a 84/2017. (IV. 10.) Korm. rendelet 8. § 1. pontja hatályon kívül helyezte.
 [^8]: A 4. § (2a) bekezdését a 545/2013. (XII. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 84/2017. (IV. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^9]: A 4. § (3) bekezdését a 84/2017. (IV. 10.) Korm. rendelet 8. § 1. pontja hatályon kívül helyezte.
-[^10]: A 4. § (4) bekezdését a 75/2016. (IV. 5.) Korm. rendelet 53. §-a iktatta be. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
+[^9]: A 4. § (2a) bekezdés h) pontja a 83/2018. (IV. 20.) Korm. rendelet 77. §-a szerint módosított szöveg.
+[^10]: A 4. § (3) bekezdését a 84/2017. (IV. 10.) Korm. rendelet 8. § 1. pontja hatályon kívül helyezte.
+[^11]: A 4. § (4) bekezdését a 75/2016. (IV. 5.) Korm. rendelet 53. §-a iktatta be. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
