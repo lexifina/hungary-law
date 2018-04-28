@@ -12,9 +12,9 @@
 
 (6)[^48] A megelőlegezett összegek visszatérítése részletekben történik. A megelőlegezett összeg visszatérítése céljából a 8. § (3) bekezdés
 
-a)[^49] a) pontja szerinti megelőlegezés esetén legkésőbb a projektrészre eső uniós támogatás megelőlegezéssel nem érintett részét meghaladó, az uniós támogatás terhére teljesített minden egyes kifizetés összegét – beleértve a 46. § (1) bekezdés szerinti uniós előleget is –,
+a)[^49] szerinti megelőlegezés esetén legkésőbb a projektrészre eső uniós támogatás megelőlegezéssel nem érintett részét meghaladó, az uniós támogatás terhére teljesített minden egyes kifizetés összegét,
 
-b)[^50] b) pontja szerinti megelőlegezés esetén legkésőbb a projektrészre eső uniós támogatás megelőlegezéssel nem érintett részét meghaladó uniós támogatás terhére teljesített minden egyes kifizetés összegét – ide nem értve 46. § (1) bekezdés szerinti uniós előleget –
+b)[^50]
 
 ## annak a hazai kedvezményezett fizetési számláján történő jóváírását követő harminc napon belül vissza kell utalni.
 
@@ -38,8 +38,8 @@ b)[^50] b) pontja szerinti megelőlegezés esetén legkésőbb a projektrészre 
 [^46]: A 9. § (4) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 268/2017. (IX. 12.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
 [^47]: A 9. § (5a) bekezdését a 268/2017. (IX. 12.) Korm. rendelet 2. §-a iktatta be.
 [^48]: A 9. § (6) bekezdése a 116/2017. (V. 19.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^49]: A 9. § (6) bekezdés a) pontja a 335/2017. (XI. 9.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^50]: A 9. § (6) bekezdés b) pontja a 335/2017. (XI. 9.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^49]: A 9. § (6) bekezdés a) pontja a 335/2017. (XI. 9.) Korm. rendelet 3. § a) pontja, a 85/2018. (IV. 20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^50]: A 9. § (6) bekezdés b) pontját a 85/2018. (IV. 20.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
 [^51]: A 9. § (6a) bekezdését a 223/2016. (VII. 22.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^52]: A 9. § (6b) bekezdését a 116/2017. (V. 19.) Korm. rendelet 7. § (2) bekezdése iktatta be.
 [^53]: A 9. § (12) bekezdését a 334/2016. (XI. 8.) Korm. rendelet 1. §-a iktatta be.

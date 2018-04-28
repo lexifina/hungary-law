@@ -2,9 +2,9 @@
 
 54. § (1) A monitoring bizottság elfogadja a TA projektet és ezzel egyidejűleg a TA költségvetést.
 
-(2)[^78] Az irányító hatóság – a (3) bekezdésben meghatározott kivétellel – a TA kedvezményezettel a TA költségvetés szerinti keretre TA támogatási szerződést köt a TA projekt típusától függő tartalommal.
+(2)[^82] Az irányító hatóság – a (3) bekezdésben meghatározott kivétellel – a TA kedvezményezettel a TA költségvetés szerinti keretre TA támogatási szerződést köt a TA projekt típusától függő tartalommal.
 
-(3)[^79] Az irányító hatóság megbízásából a közös titkárság köti meg a (2) bekezdés szerinti TA támogatási szerződést a külföldi TA kedvezményezettekkel.
+(3)[^83] Az irányító hatóság megbízásából a közös titkárság köti meg a (2) bekezdés szerinti TA támogatási szerződést a külföldi TA kedvezményezettekkel.
 
-[^78]: Az 54. § (2) bekezdése a 268/2017. (IX. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^79]: Az 54. § (3) bekezdése a 268/2017. (IX. 12.) Korm. rendelet 3. §-a iktatta be.
+[^82]: Az 54. § (2) bekezdése a 268/2017. (IX. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^83]: Az 54. § (3) bekezdése a 268/2017. (IX. 12.) Korm. rendelet 3. §-a iktatta be.

@@ -1,0 +1,1 @@
+## 66. § Az 1. § c) pontja szerinti együttműködési program esetében a programban részt vevő országok által aláírt külön megállapodás értelmében az uniós támogatáson felül köthető uniós támogatási szerződés (a továbbiakban: túlszerződés).

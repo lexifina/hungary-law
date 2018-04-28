@@ -4,7 +4,7 @@
 
 (3)[^59] Ha a projektrész megvalósításához nyújtott uniós támogatás és hazai társfinanszírozás összege meghaladja a kétszázezer eurót, de nem éri el az egymillió eurót, a (2) bekezdés szerinti helyszíni ellenőrzésen felül a projektrész megvalósítása során legalább további egy helyszíni ellenőrzést le kell folytatni.
 
-(4) Ha a projektrész megvalósításához nyújtott uniós támogatás és hazai társfinanszírozás összege eléri vagy meghaladja az egymillió eurót, a (2) bekezdés szerinti helyszíni ellenőrzésen felül a projektrészt minden, a hazai kedvezményezett által benyújtott jelentés elfogadása előtt a helyszínen ellenőrizni kell. A hitelesítési tevékenységre kijelölt szervezet ettől eltekinthet, ha a hazai kedvezményezett által benyújtott jelentés elfogadása előtti egy évben már történt helyszíni ellenőrzés.
+(4)[^60] Ha a projektrész megvalósításához nyújtott uniós támogatás és hazai társfinanszírozás összege eléri vagy meghaladja az egymillió eurót, a (2) bekezdés szerinti helyszíni ellenőrzésen felül a projektrészt minden, a hazai kedvezményezett által benyújtott jelentés elfogadása előtt a helyszínen ellenőrizni kell. A hitelesítési tevékenységre kijelölt szervezet ettől eltekinthet, ha a hazai kedvezményezett által benyújtott jelentés elfogadása előtti egy évben már történt helyszíni ellenőrzés, vagy ha a benyújtott jelentés nem tartalmaz elszámolni kívánt költséget, illetve kizárólag csak munkabér-elszámolást, illetve átalányköltséget tartalmaz.
 
 (5) A helyszíni ellenőrzések során ellenőrizni kell különösen
 
@@ -28,3 +28,4 @@ i) az elkülönített számviteli nyilvántartás vezetését.
 
 [^58]: A 13. § (2) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 8. pontja szerint módosított szöveg.
 [^59]: A 13. § (3) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 9. pontja szerint módosított szöveg.
+[^60]: A 13. § (4) bekezdése a 85/2018. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
