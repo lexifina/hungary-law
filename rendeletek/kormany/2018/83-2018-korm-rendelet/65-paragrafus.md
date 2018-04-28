@@ -1,0 +1,1 @@
+## 64. § A nemzeti hatóság a szabálytalanság megtörténtét megállapító döntést a döntés meghozatalát követő hatvan napon belül a hazai kedvezményezett neve, a projekt megnevezése, a szabálytalanság elkövetésének módja, a szabálytalanság következménye és a szabálytalansággal érintett összeg feltüntetésével – a személyes adatok kivételével – a honlapján közzéteszi.

@@ -1,0 +1,7 @@
+13. § (1) Miután az Európai Bizottság megtette a 897/2014/EU bizottsági végrehajtási rendelet 58. cikk (1) bekezdése alapján a kezdeti kötelezettségvállalásokat, valamint ezt követően minden pénzügyi évben megtette a kapcsolódó kötelezettségvállalást, és az erről szóló tájékoztató levelet megküldte az irányító hatóság részére, az irányító hatóság a (2) és a (3) bekezdés szerint jár el.
+
+(2) Az irányító hatóság minden pénzügyi évben, miután értesült az (1) bekezdés szerinti éves kötelezettségvállalásról, kéri az adott pénzügyi évre vonatkozó uniós hozzájárulás legfeljebb 80%-ának előlegként történő átutalását, ha a programszintű kifizetések azt szükségessé teszik. A második pénzügyi évtől az irányító hatóság az előlegkérelmekhez mellékeli az előzetes költségvetést, amelyben részletesen bemutatja a kötelezettségvállalásait és a kifizetéseit a 897/2014/EU bizottsági végrehajtási rendelet 68. cikke szerinti legutolsó ellenőrzési véleményt követő két számviteli év vonatkozásában.
+
+(3) A pénzügyi év folyamán az irányító hatóság további előlegként kéri a 897/2014/EU bizottsági végrehajtási rendelet 60. cikk (2) bekezdése szerinti alátámasztó dokumentumok benyújtása mellett az Európai Bizottság által már lekötött források teljes vagy részleges átutalását, ha a programszintű kifizetések azt szükségessé teszik.
+
+(4) Az előlegek összegével az irányító hatóság az éves elszámolások keretében számol el az Európai Bizottsággal.

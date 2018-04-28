@@ -1,0 +1,5 @@
+## 18. § Az irányító hatóság a TA támogatási szerződés alapján gondoskodik a TA kedvezményezett részére uniós támogatási előlegek és utófinanszírozások kifizetéséről a TA kedvezményezett által elkészített és az IMIR 2014–2020 rendszerben elektronikusan benyújtott kifizetési kérelmek alapján, a TA kedvezményezett euróban vezetett fizetési számlája javára.
+
+19. § (1) A TA kedvezményezett a TA támogatási szerződésben előírt rendszerességgel elkészíti és elektronikusan benyújtja a projekt-előrehaladási jelentést és a költségellenőrzési jelentés alapján összeállított kifizetési kérelmet az IMIR 2014–2020 rendszerben. Amennyiben a TA projekt rendelkezik több TA projektrésszel a TA projektrész előrehaladási jelentéssel együtt szükséges összeállítani a projekt-előrehaladási jelentést.
+
+(2) Az irányító hatóság hitelesítést követően ellenőrzi, és megfelelőség esetén jóváhagyja a projekt-előrehaladási jelentést és a kifizetési kérelmet az IMIR 2014–2020 rendszerben, valamint kiállítja a hitelesítési jelentést, majd gondoskodik az előlegelszámolásról és a szükséges kifizetésről a TA támogatási szerződésben rögzítettek szerint.

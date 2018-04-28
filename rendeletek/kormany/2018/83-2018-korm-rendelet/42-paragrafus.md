@@ -1,0 +1,1 @@
+## 41. § Az előirányzat-felhasználási keretszámla szolgál a hazai kedvezményezett számára történő 100%-os hazai társfinanszírozási előleg kifizetésére és a hazai kedvezményezett által bármilyen jogcímen történő visszafizetésére is.

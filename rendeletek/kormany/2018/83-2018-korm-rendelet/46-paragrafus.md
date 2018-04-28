@@ -1,0 +1,3 @@
+46. § (1) A költségellenőrzési tevékenységre kijelölt szervezet által indított vagy elutasított szabálytalansági vizsgálat lefolytatásának jogát a nemzeti hatóság vezetője az erről szóló döntésről való értesítést követő öt munkanapon belül magához vonhatja, amely döntéséről haladéktalanul értesíti a költségellenőrzési tevékenységre kijelölt szervezetet.
+
+(2) A költségellenőrzési tevékenységre kijelölt szervezet szabálytalanság-felelőse a rendelkezésre álló eredeti dokumentumokat – azok másolatának megtartása mellett – az (1) bekezdés szerinti döntésről való értesítést követően megküldi a nemzeti hatóság részére.

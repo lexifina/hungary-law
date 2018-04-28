@@ -1,0 +1,1 @@
+## 37. § A TA kedvezményezett és a TA projektrész kedvezményezettje TA forrás terhére felmerült költségeinek ellenőrzését, valamint az ehhez kapcsolódó ellenőrzési feladatokat külső audit végzi. A külső audit a költségek ellenőrzését követően költségellenőrzési jelentést állít ki a TA kedvezményezettek, valamint a TA projektrész kedvezményezettjei részére.
