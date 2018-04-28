@@ -1,0 +1,3 @@
+## 8. § Az 56/2012. (XI. 22.) BM rendelet 44. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) Ha a külföldi kiküldetés során a hivatásos állomány tagját a napi tényleges szolgálatteljesítés befejezését követően arra kötelezik, hogy pihenőidejében meghatározott szolgálati feladatokra történő igénybevétel céljából rendelkezésre álljon, a tényleges szolgálatteljesítés nélküli rendelkezésre állás időtartama készenlétnek vagy kiemelt készenlétnek minősül. Ha ilyen rendelkezésre állási kötelezettség a hivatásos állomány tagját nem terheli, a szolgálatteljesítési idő leteltét követő időtartam nem tekinthető sem túlszolgálatnak, sem készenlétnek, sem kiemelt készenlétnek.”

@@ -1,0 +1,3 @@
+## 41. § A 84/2012. (XII. 28.) BM rendelet 15. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Katasztrófa bekövetkezésének vagy veszélyének észlelése esetén az országgyűlési őr haladéktalanul gondoskodik az elhárításra köteles hatóságok és szervek értesítéséről. A szolgálatteljesítés során észlelt katasztrófa vagy annak veszélye esetében az országgyűlési őr haladéktalanul jelentést tesz az ügyeletesnek, aki haladéktalanul értesíti a hivatásos katasztrófavédelmi szerv területileg illetékes ügyeleti szolgálatát, valamint a védett objektummal kapcsolatos észlelés esetében az Országgyűlési Őrség tűzoltási és tűzbiztonsági feladatokat ellátó szervezeti elemét.”

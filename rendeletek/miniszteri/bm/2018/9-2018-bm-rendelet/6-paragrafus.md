@@ -1,0 +1,1 @@
+## „(8) Ha szolgálati feladat végrehajtása miatt a hivatásos állomány tagjának szabadságról történő visszarendelése válik szükségessé, a visszarendelést követően teljesített szolgálat – az eredetileg kiadott szabadság későbbi időpontban történő ismételt igénybevétele mellett – szolgálatteljesítési időnek minősül.”

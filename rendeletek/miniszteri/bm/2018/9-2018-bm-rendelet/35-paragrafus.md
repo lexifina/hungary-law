@@ -1,0 +1,1 @@
+## „14. védett objektum: az Országgyűlésről szóló 2012. évi XXXVI. törvény (a továbbiakban: Ogytv.) 125. § (2) bekezdés b) pontjában meghatározott, létesítményvédelmi feladatok ellátásával védett objektum.”
