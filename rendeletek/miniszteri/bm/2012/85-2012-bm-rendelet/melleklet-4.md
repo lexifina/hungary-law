@@ -1,41 +1,3 @@
-## KÉRELEM
-
-## szemüveg/kontaktlencse/fogászati kezelés árának megtérítése iránt
-
-## Név:
-
-## Szervezeti elem megnevezése:
-
-## Telefonszám:
-
-## Adóazonosító jel:
-
-## A vonatkozó jogszabály és a mellékelt számla alapján kérem fogászai kezelésem / látásjavító szemüvegem vagy kontaktlencsém / képernyős szemüvegem* árának részbeni megtérítését.
-
-## Kijelentem, hogy tárgyévben fogászati költségtérítésben / látásjavító szemüveg vagy kontaktlencse készítésével kapcsolatos költségtérítésben / képernyős szemüveg készítésével kapcsolatos költségtérítésben*
-
-## a) nem részesültem
-
-## b) …………. forint összegben részesültem.
-
-## Melléklet: ....................... db
-
-| ............................................. aláírás |
-
-## JAVASOLOM:
-
-## P. H.
-
-|  | .......................................... |
-
-|  | vezető |
-
-## Pénzügyi ellenjegyzés:
-
-## ................................................
-
-## * A megfelelő részt kérjük aláhúzni.
-
 4. melléklet a 85/2012. (XII. 28.) BM rendelethez
 
 I. Kegyeleti kiadásként elszámolható költségnormák
@@ -44,7 +6,7 @@ I. Kegyeleti kiadásként elszámolható költségnormák
 
 2. Sírhelyköltség:
 
-2.1.[^47] A sírhely (urnasírhely, urnafülke) költségeit a ténylegesen felmerült, számlával igazolt, legfeljebb azonban az illetményalap kétszeresének megfelelő összeg képezi.
+2.1.[^90] A sírhely (urnasírhely, urnafülke) költségeit a ténylegesen felmerült, számlával igazolt, legfeljebb azonban az illetményalap kétszeresének megfelelő összeg képezi.
 
 2.2. Templomban vagy kápolnában elhelyezett urnasírhely (urnakripta) esetén a számla szerinti összeg, legfeljebb azonban az illetményalap kétszeresének megfelelő összeg.
 
@@ -70,4 +32,4 @@ c) síremlék avatáskor, megemlékezésekkor síremlékenként vagy emléktábl
 
 4. Sírgondozás költsége: hozzátartozó hiányában, vagy akadályoztatása esetén a hősi halott és a szolgálat halottja síremlékének gondozására, a szolgáltató által kiállított számlával igazolt összeg.
 
-[^47]: A 4. melléklet I. alcím 2. pont 2.1. alpontja a 49/2013. (VIII. 27.) BM rendelet 5. § c) pontja szerint módosított szöveg.
+[^90]: A 4. melléklet I. alcím 2. pont 2.1. alpontja a 49/2013. (VIII. 27.) BM rendelet 5. § c) pontja szerint módosított szöveg.

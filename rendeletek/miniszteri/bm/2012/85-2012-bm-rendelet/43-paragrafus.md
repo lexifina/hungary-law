@@ -2,7 +2,7 @@
 
 a) a munkáltatói kölcsön célját,
 
-b) a munkáltatói kölcsönnel érintett ingatlan pontos megjelölését,
+b)[^68] a munkáltatói kölcsönnel érintett lakás pontos megjelölését,
 
 c) a munkáltatói kölcsön összegét,
 
@@ -17,3 +17,5 @@ g) a támogatási megállapodásban vállalt kötelezettség nem teljesítése e
 h) a jelzálogjog, valamint az elidegenítési és terhelési tilalom Országgyűlési Őrség javára történő bejegyzésének engedélyezésére vonatkozó nyilatkozatot,
 
 i) az Országgyűlési Őrség jogosultságait a munkáltatói kölcsön felhasználásának nyomon követésére.
+
+[^68]: A 43. § b) pontja a 9/2018. (IV. 25.) BM rendelet 64. § l) pontja szerint módosított szöveg.

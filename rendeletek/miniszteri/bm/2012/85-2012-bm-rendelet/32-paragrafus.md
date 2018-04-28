@@ -1,4 +1,4 @@
-## 31. § Nem nyújtható munkáltatói kölcsön a hivatásos állomány tagjának, ha ő vagy együttköltöző családtagja ezen alcím szerint már munkáltatói kölcsönben részesült, ha a munkáltatói kölcsön visszafizetése még folyamatban van, vagy a munkáltatói kölcsön teljes visszafizetése óta két évnél rövidebb idő telt el.
+## 31. §[^59] Nem nyújtható munkáltatói kölcsön a hivatásos állomány tagjának, ha ő vagy együtt költöző, együtt lakó családtagja ezen alcím szerint már munkáltatói kölcsönben részesült, ha a munkáltatói kölcsön visszafizetése még folyamatban van, vagy a munkáltatói kölcsön teljes visszafizetése óta két évnél rövidebb idő telt el.
 
 32. § (1) A munkáltatói kölcsön összegét
 
@@ -9,3 +9,5 @@ b) a vételár – csere esetén a hivatásos állomány tagja által fizetendő
 ## alapján kell megállapítani.
 
 (2) Az (1) bekezdésben meghatározott költségből vagy vételárból le kell vonni a lakáshoz tartozó műhely, üzlet-, raktár-, iroda- vagy garázshelyiségre eső költséget vagy vételárrészt.
+
+[^59]: A 31. § a 9/2018. (IV. 25.) BM rendelet 64. § c) pontja szerint módosított szöveg.
