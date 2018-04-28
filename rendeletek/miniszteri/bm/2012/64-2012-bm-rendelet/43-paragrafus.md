@@ -1,4 +1,4 @@
-43. § (1) A rendszeresített egyenruházati termékeknek és felszerelési cikkeknek a viselési alkalomhoz és a viselési időszakhoz alkalmazkodó öltözködési lehetőséget kell biztosítaniuk.
+43. § (1)[^44] A rendszeresített egyenruházati termékeknek és felszerelési cikkeknek a viselési alkalomhoz és az aktuális évszakhoz alkalmazkodó öltözködési lehetőséget kell biztosítaniuk.
 
 (2) Viselési alkalom szerint az egyenruházat
 
@@ -10,24 +10,10 @@ c) szolgálati
 
 ## öltözet.
 
-(3) Viselési időszak szerint az egyenruházat
+(3)–(4)[^45]
 
-a) nyári,
+(5)[^46] Az aktuális évszakban megszokottól eltérő időjárási viszonyok vagy szélsőséges hőmérsékleti értékek esetén a ruházat meghatározása a szolgálati elöljáró hatáskörébe tartozik.
 
-b) téli, vagy
-
-c) átmeneti
-
-## öltözet.
-
-(4) A viselési időszakok:
-
-a) a nyári időszak: június 1-jétől szeptember 15-ig,
-
-b) a téli időszak: december 1-jétől március 15-ig,
-
-c) az átmeneti időszak: március 16-tól május 31-ig és szeptember 16-tól november 30-ig
-
-## tart.
-
-(5) A (4) bekezdésben meghatározott időszakokra előírt rendszeresített egyenruházatot irányadónak kell tekinteni. Az aktuális viselési időszakban megszokottól eltérő időjárási viszonyok vagy szélsőséges hőmérsékleti értékek esetén a ruházat meghatározása a szolgálati elöljáró hatáskörébe tartozik.
+[^44]: A 43. § (1) bekezdése a 9/2018. (IV. 25.) BM rendelet 32. § n) pontja szerint módosított szöveg.
+[^45]: A 43. § (3)–(4) bekezdését a 9/2018. (IV. 25.) BM rendelet 33. § g) pontja hatályon kívül helyezte.
+[^46]: A 43. § (5) bekezdése a 9/2018. (IV. 25.) BM rendelet 32. § o) pontja és 33. § h) pontja szerint módosított szöveg.

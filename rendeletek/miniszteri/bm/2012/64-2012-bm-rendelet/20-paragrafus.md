@@ -12,6 +12,8 @@ b) a hivatásos állomány tábornokká kinevezett tagja.
 
 (2) Az alapfelszerelés-kiegészítésben részesülők a tárgyévben kifizetett ruházati utánpótlási ellátmány teljes összegére jogosultak.
 
-(3) A hivatásos állomány tagja magasabb rendfokozatba történő kinevezésekor valamint előléptetésekor jogosult 1 pár rendfokozati jelzéssel ellátott váll-lapra.
+(3)[^16] A hivatásos állomány tagja magasabb rendfokozatba történő kinevezésekor valamint előléptetésekor jogosult az 1. melléklet szerinti mennyiségben rendfokozati jelzéssel ellátott váll-lapra.
 
 (4) Ugyanazon igényjogosultnak az Országgyűlési Őrségen belül, két éven belül történt ismételt vagy többszöri áthelyezése, illetve átsorolása esetén az Országgyűlési Őrség parancsnoka dönt az igényjogosult újbóli ellátásáról.
+
+[^16]: A 20. § (3) bekezdése a 9/2018. (IV. 25.) BM rendelet 32. § f) pontja szerint módosított szöveg.

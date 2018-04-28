@@ -12,13 +12,13 @@ c) ruházati raktár: az Országgyűlés Hivatala által a hivatásos állomány
 
 d) ruházati termékek és felszerelési cikkek:
 
-da) a hivatásos állomány egyenruházati termékei (felsőruházat, alsóruházat, lábbeli, sapka, ékítmények, ruházati kiegészítők, valamint személyi felszerelés), ezek alap- és kellékanyagai,
+da)[^2] a hivatásos állomány egyenruházati termékei (felsőruházat, aláöltözet, lábbeli, sapka, ékítmények, ruházati kiegészítők, valamint személyi felszerelés), ezek alap- és kellékanyagai,
 
 db) a munka- és védőruházat, valamint a védőeszközök, védőfelszerelések,
 
 dc) a ruházati egységfelszerelési anyagok,
 
-dd)[^2] a szolgálati azonosító jelvény, a hivatásos állománykategóriát kifejező jelvény, a karjelvény, a testületi jelvény, a kitüntetések és tartozékai, valamint
+dd)[^3] a szolgálati azonosító jelvény, a hivatásos állománykategóriát kifejező jelvény, a karjelvény, a testületi jelvény, a kitüntetések és tartozékai, valamint
 
 de) a javító és karbantartó anyagok;
 
@@ -28,7 +28,11 @@ ea) egyenruhás alapellátási norma, amely egyenruházati termékeket és felsz
 
 eb) vegyes ruhás alapellátási norma, amely egyenruházati termékeket és felszerelési cikkeket tartalmaz, az e normába besoroltak szolgálati feladatok ellátása során polgári ruházatot és egyenruházatot is viselhetnek,
 
-ec) polgári ruhás alapellátási norma, amely a hivatásos állomány esetében szolgálati ruházatot tartalmaz, az e normába besoroltak alapvetően polgári ruházatban teljesítenek szolgálatot.
+ec) polgári ruhás alapellátási norma, amely a hivatásos állomány esetében szolgálati ruházatot tartalmaz, az e normába besoroltak alapvetően polgári ruházatban teljesítenek szolgálatot;
+
+f)[^4] ruházati protokoll szint: a személyvédelmi feladatok ellátása során alkalmazott, az Országgyűlés elnöke programjának protokolláris rendjéhez igazodó öltözeti fokozat.
 
 [^1]: Az 1. § a) pontja a 36/2015. (VI. 16.) BM rendelet 12. §-ával megállapított szöveg.
-[^2]: Az 1. § d) pont dd) alpontja a 49/2013. (VIII. 27.) BM rendelet 2. §-a szerint módosított szöveg.
+[^2]: Az 1. § d) pont da) alpontja a 9/2018. (IV. 25.) BM rendelet 32. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § d) pont dd) alpontja a 49/2013. (VIII. 27.) BM rendelet 2. §-a szerint módosított szöveg.
+[^4]: Az 1. § f) pontját a 9/2018. (IV. 25.) BM rendelet 20. §-a iktatta be.
