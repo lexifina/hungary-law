@@ -1,3 +1,5 @@
+## irányítása vagy felügyelete alatt álló szerveket, valamint a polgári nemzetbiztonsági szolgálatokat irányító tárca nélküli miniszteri irányítást segítő szervezetet.
+
 70. § (1) Az elismerésként adott tárgyjutalom vagy jutalomüdülés értéke, valamint a pénzjutalom után fizetendő jövedelemadó-előleg és a levonásra kerülő járulékok a forrásul szolgáló jutalomkeretet terhelik.
 
 (2) Az Országgyűlési Őrség parancsnoka által adott elismerések adományozásával kapcsolatos feladatok körében az Országgyűlési Őrség személyügyi munkatársa

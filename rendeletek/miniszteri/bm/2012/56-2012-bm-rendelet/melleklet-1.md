@@ -1,4 +1,4 @@
-1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^219]
+1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^240]
 
 ## Az Országgyűlési Őrség szolgálati beosztásai
 
@@ -36,6 +36,8 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 5. | kiemelt főreferens | 450 | 350 |
 
+| 5a. | jogtanácsos | 450 |  |
+
 | 6. | C | kiemelt főelőadó | 450 | 350 |
 
 | 7. | kiemelt biztonsági főtiszt | 650 |  |
@@ -50,4 +52,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^219]: Az 1. melléklet a 34/2015. (VI. 16.) BM rendelet 3. § (1) bekezdésével megállapított, a 47/2016. (XI. 23.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^240]: Az 1. melléklet a 34/2015. (VI. 16.) BM rendelet 3. § (1) bekezdésével megállapított, a 47/2016. (XI. 23.) BM rendelet 6. § (1) bekezdése, a 9/2018. (IV. 25.) BM rendelet 17. § (1) bekezdése szerint módosított szöveg.

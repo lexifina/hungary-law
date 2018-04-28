@@ -1,5 +1,8 @@
-110/C. § (1) Az eljárásra jogosult vezető az eljárás megszüntetéséről, vagy a méltatlanság megállapításáról szóló határozatát a bizottság érdemi döntést tartalmazó jegyzőkönyvének kézhezvételét követő három munkanapon belül hozza meg.
+## 110/B. §[^204] Az elrendelésre jogosult vezető az iratok kézhezvételétől számított 3 munkanapon belül, a kézhezvételtől számított 15 napon belüli időpontra meghallgatást tűz ki, amelyen az eljárás alá vont személy és képviselője, valamint a vizsgáló lehet jelen.
 
-(2) A méltatlansági eljárás alá vont a vizsgáló személye vagy a bizottság tagjai ellen az ügyben való érintettség miatt elfogultságot jelenthet be. Az elfogultságot az elrendelésre jogosult vezető 3 napon belül elbírálja.
+110/C. §[^205] (1) Az eljárásra jogosult vezető az eljárás megszüntetéséről vagy a méltatlanság megállapításáról szóló határozatát a személyes meghallgatást követő 3 munkanapon belül hozza meg.
 
-(3) Ha az elfogultságot az Országgyűlési Őrség parancsnokával szemben terjesztették elő, azt az Országgyűlés elnöke bírálja el, és szükség esetén az Országgyűlési Őrség parancsnokának általános helyettesét jelöl ki a bizottság elnökének, vagy az ügyet magához vonva személyesen látja el az Országgyűlési Őrség parancsnokát megillető hatáskört.
+(2) A méltatlansági eljárás alá vont a vizsgáló személye ellen az ügyben való érintettség miatt elfogultságot jelenthet be. Az elfogultságot az elrendelésre jogosult vezető 3 munkanapon belül elbírálja.
+
+[^204]: A 110/B. § a 9/2018. (IV. 25.) BM rendelet 13. §-ával megállapított szöveg.
+[^205]: A 110/C. § a 9/2018. (IV. 25.) BM rendelet 13. §-ával megállapított szöveg.

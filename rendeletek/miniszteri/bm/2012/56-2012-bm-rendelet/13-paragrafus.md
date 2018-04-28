@@ -10,6 +10,6 @@ c) az illetmény nélküli szabadság tartamának társadalombiztosítási szemp
 
 (3) A munkáltatói intézkedéshez csatolni kell az érintett nyilatkozatát a jogfenntartó társadalombiztosítási járulék fizetésére vonatkozóan.
 
-(4)[^46]
+(4)[^48]
 
-[^46]: A 13. § (4) bekezdését a 81/2012. (XII. 28.) BM rendelet 34. §-a iktatta be, hatályon kívül helyezte a 38/2015. (VI. 18.) BM rendelet 18. § 4. pontja.
+[^48]: A 13. § (4) bekezdését a 81/2012. (XII. 28.) BM rendelet 34. §-a iktatta be, hatályon kívül helyezte a 38/2015. (VI. 18.) BM rendelet 18. § 4. pontja.

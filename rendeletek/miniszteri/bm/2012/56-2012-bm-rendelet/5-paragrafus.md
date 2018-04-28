@@ -1,4 +1,4 @@
-5. § (1)[^24] A felvételi eljárás során beszerzett adatok alapján az Országgyűlési Őrség parancsnoka dönt a hivatásos állományba vételről. Ha a kinevezésre nem az Országgyűlési Őrség parancsnoka jogosult, a felvételi eljárásban keletkezett iratokat – amennyiben kizáró ok nem merült fel és a szolgálati beosztás betöltéséhez szükséges illetmény fedezete rendelkezésre áll – a kinevezési javaslatával az Országgyűlés elnökéhez – a köztársasági elnökhöz történő előterjesztésnek a miniszterelnöknél történő kezdeményezése érdekében – felterjeszti.
+5. § (1)[^25] A felvételi eljárás során beszerzett adatok alapján az Országgyűlési Őrség parancsnoka dönt a hivatásos állományba vételről. Ha a kinevezésre nem az Országgyűlési Őrség parancsnoka jogosult, a felvételi eljárásban keletkezett iratokat – amennyiben kizáró ok nem merült fel és a szolgálati beosztás betöltéséhez szükséges illetmény fedezete rendelkezésre áll – a kinevezési javaslatával az Országgyűlés elnökéhez – a köztársasági elnökhöz történő előterjesztésnek a miniszterelnöknél történő kezdeményezése érdekében – felterjeszti.
 
 (2) A kinevezési javaslathoz csatolni kell a személyügyi munkatárs által elkészített
 
@@ -14,7 +14,7 @@ d) az illetmény fedezetének rendelkezésre állására vonatkozó nyilatkozato
 
 (4) A személyügyi munkatárs az aláírt esküokmányt az állományparancs vagy határozat mellékleteként a személyi anyagban helyezi el és kezeli.
 
-(5)[^25] A szolgálati viszony létesítésére vonatkozó eljárási szabályokat a hivatásos állományba visszavétellel, más rendvédelmi szervtől áthelyezéssel vagy köztisztviselői állományból áthelyezéssel történő szolgálati viszony létesítésekor is alkalmazni kell. Az Országgyűlési Őrség parancsnokának munkáltatói jogkörébe nem tartozó esetben a munkáltatói intézkedés meghozatalára irányuló javaslatot az Országgyűlési Őrség parancsnoka az Országgyűlés elnökéhez – a munkáltatói jogkörébe tartozó intézkedés meghozatala vagy a köztársasági elnökhöz történő előterjesztésnek a miniszterelnöknél történő kezdeményezése érdekében – felterjeszti.
+(5)[^26] A szolgálati viszony létesítésére vonatkozó eljárási szabályokat a hivatásos állományba visszavétellel, más rendvédelmi szervtől áthelyezéssel vagy köztisztviselői állományból áthelyezéssel történő szolgálati viszony létesítésekor is alkalmazni kell. Az Országgyűlési Őrség parancsnokának munkáltatói jogkörébe nem tartozó esetben a munkáltatói intézkedés meghozatalára irányuló javaslatot az Országgyűlési Őrség parancsnoka az Országgyűlés elnökéhez – a munkáltatói jogkörébe tartozó intézkedés meghozatala vagy a köztársasági elnökhöz történő előterjesztésnek a miniszterelnöknél történő kezdeményezése érdekében – felterjeszti.
 
-[^24]: Az 5. § (1) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 8. pontja szerint módosított szöveg.
-[^25]: Az 5. § (5) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 9. pontja szerint módosított szöveg.
+[^25]: Az 5. § (1) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 8. pontja szerint módosított szöveg.
+[^26]: Az 5. § (5) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 9. pontja szerint módosított szöveg.

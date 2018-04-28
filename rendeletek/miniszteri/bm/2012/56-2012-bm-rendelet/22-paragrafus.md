@@ -1,16 +1,17 @@
 ## 21. § Minősítés alapján történő szolgálati viszony megszüntetésére a minősítésre jogosult szolgálati elöljáró tesz javaslatot. A szolgálati viszony megszüntetéséről akkor is intézkedni kell, ha a minősítés megállapításaival szemben az érintett bírósághoz fordult.
 
-22. § (1)[^56] A Hszt. 86. § (2) bekezdés b) pontjában meghatározott esetben a hivatásos szolgálatra alkalmatlanná válás miatti felmentésre büntetőeljárásban hozott jogerős ítélet vagy a kifogástalan életvitel ellenőrzés befejezéséről szóló indokolt határozat alapján kerülhet sor.
+22. § (1)[^58]
 
 (2) Az Országgyűlési Őrség parancsnoka
 
 a) a büntetőeljárásban hozott jogerős ítélet vagy ítéleti értesítő kézhezvételét követően az ítélet jogerőre emelkedésének napjára visszamenőleg, vagy
 
-b) a kifogástalan életvitel ellenőrzésének befejezéséről szóló indokolt határozat kézhezvételét követően, amennyiben a kifogásolható életvitelt megállapítja,
+b)[^59]
 
 ## haladéktalanul intézkedik a szolgálati viszony megszüntetése iránt.
 
-(3)[^57] A Hszt. 43. § (3) bekezdésében meghatározott esetben az Országgyűlési Őrség parancsnoka a kifogástalan életvitel ellenőrzése során a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vizsgálatának eredményét megállapító határozat kézhezvételét követő 5 munkanapon belül köteles meghallgatni az érintettet a határozat indokolásában megjelölt körülményekre és okokra vonatkozóan. Az érintett nyilatkozatát jegyzőkönyvbe kell foglalni.
+(3)[^60]
 
-[^56]: A 22. § (1) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 27. pontja szerint módosított szöveg.
-[^57]: A 22. § (3) bekezdését a 81/2012. (XII. 28.) BM rendelet 35. §-a iktatta be, szövege a 38/2015. (VI. 18.) BM rendelet 17. § 28. pontja szerint módosított szöveg.
+[^58]: A 22. § (1) bekezdését a 9/2018. (IV. 25.) BM rendelet 19. § a) pontja hatályon kívül helyezte.
+[^59]: A 22. § (2) bekezdés b) pontját a 9/2018. (IV. 25.) BM rendelet 19. § a) pontja hatályon kívül helyezte.
+[^60]: A 22. § (3) bekezdését a 81/2012. (XII. 28.) BM rendelet 35. §-a iktatta be, hatályon kívül helyezte a 9/2018. (IV. 25.) BM rendelet 19. § a) pontja.

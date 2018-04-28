@@ -52,6 +52,8 @@
 
 | 2. | kiemelt főreferens | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
 
+| 2a. | jogtanácsos | szakirányú felsőfokú végzettség | felsőfokú rendészeti szakképzettség | szolgálati beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
+
 | 3. | kiemelt főelőadó | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | nem szükséges |
 
 ## IV. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások képesítési követelményei az alapfeladatokat ellátók esetében
@@ -62,11 +64,13 @@
 
 | 2. | csoportvezető | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
 
-| 3. | szolgálatparancsnok | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
+| 3. | szolgálat- parancsnok | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | szolgálati beosztásnak megfelelő szakképesítés | nem szükséges |
 
 | 4. | szakreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
 
-| 5. | szolgálatparancsnok- helyettes | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
+| 5. | szolgálat- parancsnok-helyettes | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | szolgálati beosztásnak megfelelő szakképesítés | nem szükséges |
+
+| 5a. | ügyeletes | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | szolgálati beosztásnak megfelelő szakképesítés | nem szükséges |
 
 | 6. | főreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
 
@@ -240,18 +244,20 @@
 
 ## Ha a tűzoltás vezetői jogosultság megszerzése az a) pont szerint történt, akkor a beosztást betöltő személynek a tűzoltás vezetői jogosultság megszerzésétől számított 5 éven belül meg kell szereznie a legalább középszintű (tűzoltó szerparancsnok) szakképesítést. Ha a szakképesítés, szakmai képesítés megszerzésére határidőben nem kerül sor, a beosztást betöltő személy a továbbiakban a tűzoltás, műszaki mentés vezetési jogosultsághoz kötött beosztást nem töltheti be.
 
-3. melléklet az 56/2012. (XI. 22.) BM rendelethez
+3. melléklet az 56/2012. (XI. 22.) BM rendelethez[^242]
 
-## Az Országgyűlési Őrségnél idegennyelv-tudást igénylő beosztások
+## Az Országgyűlési Őrségnél idegennyelv-tudási pótlékra jogosító szolgálati beosztások
 
-1. Országgyűlési Őrség parancsnoka és helyettesei,
+1. az Országgyűlési Őrség parancsnoka és helyettesei
 
-2.[^221] az igazgató, a főosztályvezető,
+2. az igazgató
 
-3. a főosztályvezető-helyettes,
+3. a főosztályvezető
 
-4. az osztályvezető,
+4. a főosztályvezető-helyettes
 
-5. az állományilletékes parancsnok által meghatározott egyéb beosztások, ahol az idegen nyelv használata a szolgálat ellátásához nélkülözhetetlen.
+5. az osztályvezető
 
-[^221]: A 3. melléklet 2. pontja a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés r) pontjával megállapított szöveg.
+6. az Országgyűlési Őrség parancsnoka által meghatározott egyéb szolgálati beosztások, ahol az idegen nyelv használata a szolgálat ellátásához szükséges
+
+[^242]: A 3. melléklet a 9/2018. (IV. 25.) BM rendelet 17. § (3) bekezdésével megállapított szöveg.

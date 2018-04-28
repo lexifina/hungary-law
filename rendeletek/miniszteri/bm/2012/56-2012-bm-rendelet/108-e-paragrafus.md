@@ -1,4 +1,4 @@
-108/E. §[^178] (1) Az Országgyűlési Őrség parancsnoka a szabályszerűen előterjesztett kérelem megérkezését követő három munkanapon belül kijelöli a névjegyzékből a Becsületbíróság tagjait és a Becsületbíróság elnökének kijelölése céljából megkeresi a Magyar Rendvédelmi Kar Elnökségét. A megkeresésnek tartalmaznia kell a kérelmező nevét, rendfokozatát, szolgálati helyét és szolgálati beosztását, azt, hogy milyen ügyben kérte a Becsületbíróság összehívását, valamint a Becsületbíróság Országgyűlési Őrség parancsnoka által kijelölt két tagjának nevét, szolgálati helyét és szolgálati beosztását.
+108/E. §[^195] (1) Az Országgyűlési Őrség parancsnoka a szabályszerűen előterjesztett kérelem megérkezését követő három munkanapon belül kijelöli a névjegyzékből a Becsületbíróság tagjait és a Becsületbíróság elnökének kijelölése céljából megkeresi a Magyar Rendvédelmi Kar Elnökségét. A megkeresésnek tartalmaznia kell a kérelmező nevét, rendfokozatát, szolgálati helyét és szolgálati beosztását, azt, hogy milyen ügyben kérte a Becsületbíróság összehívását, valamint a Becsületbíróság Országgyűlési Őrség parancsnoka által kijelölt két tagjának nevét, szolgálati helyét és szolgálati beosztását.
 
 (2) A Magyar Rendvédelmi Kar Elnöksége – a Hszt. 227. § (3) bekezdésében meghatározott módon – a megkeresés megérkezését követő tíz napon belül kijelöli a Becsületbíróság elnökét és erről írásban tájékoztatja az Országgyűlési Őrség parancsnokát, aki a Becsületbíróság kijelölt elnökének és tagjainak az adott ügyre szóló eseti megbízólevelet ad ki.
 
@@ -8,4 +8,4 @@
 
 (5) A Becsületbíróság elnöke, illetve tagja elleni kifogást – az eseti megbízásról szóló értesítés kézhezvételét követő három munkanapon belül – a jelölő személynél kell előterjeszteni.
 
-[^178]: A 108/E. §-t a 67/2015. (XII. 16.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^195]: A 108/E. §-t a 67/2015. (XII. 16.) BM rendelet 2. § (2) bekezdése iktatta be.

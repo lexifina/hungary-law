@@ -1,4 +1,4 @@
-43. §[^89] (1) A hivatásos állomány tagja szolgálati beosztásától függően az Országgyűlési Őrség jogszabályban meghatározott feladatainak folyamatos ellátása érdekében
+43. §[^98] (1) A hivatásos állomány tagja szolgálati beosztásától függően az Országgyűlési Őrség jogszabályban meghatározott feladatainak folyamatos ellátása érdekében
 
 a) hivatali,
 
@@ -22,4 +22,4 @@ d) kombinált
 
 (7) A váltásos szolgálati időrendszerben dolgozó – ha a napi szolgálatteljesítési ideje a 24 órát eléri – a Hszt. 136. § (2) bekezdésében meghatározott munkaközi szüneten felül – halaszthatatlan intézkedést igénylő esetet kivéve – 4 órát a szolgálatteljesítési idő terhére pihenéssel tölthet.
 
-[^89]: A 43. § a 47/2016. (XI. 23.) BM rendelet 3. §-ával megállapított szöveg.
+[^98]: A 43. § a 47/2016. (XI. 23.) BM rendelet 3. §-ával megállapított szöveg.

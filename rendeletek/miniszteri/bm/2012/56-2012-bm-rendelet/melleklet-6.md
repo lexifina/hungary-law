@@ -1,4 +1,22 @@
-6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^224]
+## Az Országgyűlési Őrségnél rendszeresített azon szolgálati beosztások, amelyek esetében kötelező védőoltás elrendelésének van helye
+
+|  | A | B | C | D | E | F |
+
+| 1. | Szolgálati beosztás | Hepatitis-A | Hepatitis-B | Kullancs-encephalitis | Diftéria elleni védőoltás (40 év felett) | Tetanus elleni védőoltás (40 év felett) |
+
+| 2. | kiemelt biztonsági főtiszt | + | + | + | + | + |
+
+| 3. | biztonsági főtiszt | + | + | + | + | + |
+
+| 4. | helyszínbiztosító | + | + | + | + | + |
+
+| 5. | lakásbiztosító |  | + |  |  |  |
+
+| 6. | biztonsági gépkocsivezető | + | + | + | + | + |
+
+| 7. | objektumőr |  | + |  |  |  |
+
+6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^247]
 
 ## Az Országgyűlési Őrség hivatásos állományú tagjai szolgálati jelvényének leírása:
 
@@ -8,7 +26,7 @@
 
 ## A kör alakú jelvény mezőben – amelyet a nemzeti színek szegélyeznek – az Országház sziluettje, az „Országgyűlési Őrség” felirat, valamint a négy számjegyű egyedi azonosító olvasható és látható arany és bordó színnel megjelenítve.
 
-6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^225]
+6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^248]
 
 A 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást betöltő hivatásos állomány vonatkozásában az illetményemelkedés szempontjából az Országgyűlési Őrség alapfeladatába tartozó szolgálati beosztások
 
@@ -54,5 +72,5 @@ A 2015. június 30-án szolgálati viszonyban álló, nem vezetői beosztást be
 
 | 20. | IV. | beosztott tűzoltó |
 
-[^224]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2015. (VI. 16.) BM rendelet 10. §-a iktatta be.
-[^225]: A újabb 6. mellékletet a 38/2015. (VI. 18.) BM rendelet 15. §-a iktatta be.
+[^247]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2015. (VI. 16.) BM rendelet 10. §-a iktatta be.
+[^248]: A újabb 6. mellékletet a 38/2015. (VI. 18.) BM rendelet 15. §-a iktatta be.

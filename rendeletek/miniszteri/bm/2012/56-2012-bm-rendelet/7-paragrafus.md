@@ -1,8 +1,8 @@
-7. § (1)[^31] Az Országgyűlési Őrség parancsnoka a szolgálati beosztásra kiírt pályázat elbírálására háromtagú bírálóbizottságot hoz létre, amelynek tagjai:
+7. § (1)[^32] Az Országgyűlési Őrség parancsnoka a szolgálati beosztásra kiírt pályázat elbírálására háromtagú bírálóbizottságot hoz létre, amelynek tagjai:
 
 a) az Országgyűlési Őrség parancsnokának megbízottja,
 
-b)[^32] a betöltendő szolgálati beosztás közvetlen irányítását ellátó szolgálati elöljáró, valamint
+b)[^33] a betöltendő szolgálati beosztás közvetlen irányítását ellátó szolgálati elöljáró, valamint
 
 c) az erre kijelölt személyügyi munkatárs.
 
@@ -12,5 +12,5 @@ c) az erre kijelölt személyügyi munkatárs.
 
 (4) A pályázatok elbírálását követően a bírálóbizottság vezetője az Országgyűlési Őrség parancsnokának nevében minden pályázót írásban értesít a pályázatának értékeléséről, annak egyidejű visszaküldésével. A pályázat nyertesének pályázatát a személyi anyagban kell elhelyezni és kezelni.
 
-[^31]: A 7. § (1) bekezdés nyitó szövegrésze a 38/2015. (VI. 18.) BM rendelet 17. § 12. pontja szerint módosított szöveg.
-[^32]: A 7. § (1) bekezdés b) pontja a 38/2015. (VI. 18.) BM rendelet 17. § 8. pontja szerint módosított szöveg.
+[^32]: A 7. § (1) bekezdés nyitó szövegrésze a 38/2015. (VI. 18.) BM rendelet 17. § 12. pontja szerint módosított szöveg.
+[^33]: A 7. § (1) bekezdés b) pontja a 38/2015. (VI. 18.) BM rendelet 17. § 8. pontja szerint módosított szöveg.
