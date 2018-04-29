@@ -1,1 +1,3 @@
-## „(8) Ha szolgálati feladat végrehajtása miatt a hivatásos állomány tagjának szabadságról történő visszarendelése válik szükségessé, a visszarendelést követően teljesített szolgálat – az eredetileg kiadott szabadság későbbi időpontban történő ismételt igénybevétele mellett – szolgálatteljesítési időnek minősül.”
+## 2–5. §[^2]
+
+[^2]: A 2–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

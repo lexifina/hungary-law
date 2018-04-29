@@ -1,1 +1,0 @@
-## „(3a) Az Országgyűlési Őrség parancsnoka jogosult a részére személyi felszerelésként kiadott maroklőfegyver és annak lőszere szolgálati helyen kívüli tárolására, ha a biztonságos tárolás (5) bekezdés szerinti feltételei biztosítottak.”
