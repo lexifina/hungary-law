@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-173-00-00
 | --- | --- | --- |
 | 2017-12-12 | 2017. évi CLXXIII. törvény | 2017-173-00-00.0 (közlönyállapot) |
 | 2017-12-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-173-00-00.1 |
+| 2018-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-173-00-00.2 |
