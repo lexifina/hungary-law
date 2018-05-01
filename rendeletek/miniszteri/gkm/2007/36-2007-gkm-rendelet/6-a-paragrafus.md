@@ -1,6 +1,6 @@
-## Részleges díjmentesség[^38]
+## Részleges díjmentesség[^39]
 
-6/A. §[^39] (1) A D2 díjkategóriába tartozó személygépkocsi üzembentartója – azonos időszakra és kizárólag egy forgalmi rendszám után – a D1 díjkategóriájú jogosultság megváltása esetén a D2 és a D1 díjkategória díjmérték különbözetének megfizetése alól mentesül és így úthasználati jogosultságot szerez (a továbbiakban: részleges díjmentesség), ha
+6/A. §[^40] (1) A D2 díjkategóriába tartozó személygépkocsi üzembentartója – azonos időszakra és kizárólag egy forgalmi rendszám után – a D1 díjkategóriájú jogosultság megváltása esetén a D2 és a D1 díjkategória díjmérték különbözetének megfizetése alól mentesül és így úthasználati jogosultságot szerez (a továbbiakban: részleges díjmentesség), ha
 
 a) a családok támogatásáról szóló 1998. évi LXXXIV. törvény szerint legalább 3 gyermek után családi pótlékban részesülő személynek – ideértve a gyermekvédelmi nevelőszülőt –,
 
@@ -16,5 +16,5 @@ c) az a) vagy a b) pontban szereplő személy Polgári Törvénykönyvről szól
 
 (5) Mentesül a pótdíj megfizetésének kötelezettsége alól az, aki az (1) bekezdés a), b) vagy c) pontja alapján jogosult a (2) bekezdés szerinti bejelentést követően a részleges díjmentesség igénybevételére, amennyiben a (2) bekezdés szerinti bejelentési kötelezettségének nem tett eleget, de ezen kötelezettségének legkésőbb a 7/A. § (1) bekezdése alapján megállapított pótdíjfizetési kötelezettségének teljesítéséről szóló felszólítás kézhezvételét követő 90 napon belül eleget tesz, és erről okirati úton tájékoztatja a NÚSZ Zrt.-t, valamint ugyanezen határidőn belül megfizeti a 8. § (9) bekezdése szerinti szolgáltatási díjat.
 
-[^38]: A 6/A. §-t megelőző alcímet a 75/2015. (XII. 29.) NFM rendelet 13. §-a iktatta be.
-[^39]: A 6/A. §-t a 75/2015. (XII. 29.) NFM rendelet 13. §-a iktatta be, szövege az 58/2017. (XII. 29.) NFM rendelet 7. §-ával megállapított szöveg.
+[^39]: A 6/A. §-t megelőző alcímet a 75/2015. (XII. 29.) NFM rendelet 13. §-a iktatta be.
+[^40]: A 6/A. §-t a 75/2015. (XII. 29.) NFM rendelet 13. §-a iktatta be, szövege az 58/2017. (XII. 29.) NFM rendelet 7. §-ával megállapított szöveg.

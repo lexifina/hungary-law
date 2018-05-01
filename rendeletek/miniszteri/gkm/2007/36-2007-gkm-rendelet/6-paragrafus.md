@@ -32,13 +32,14 @@ d) U díjkategória: a D2 és a B2 díjkategóriába tartozó járművek által 
 
 | 5 | B2 | 13 385 | 21 975 | 199 975 | 20 000 |
 
-(7) A motorkerékpár után fizetendő heti úthasználati jogosultság általános forgalmi adóval terhelt ára 1470 forint.
+(7)[^37] A motorkerékpár után fizetendő heti úthasználati jogosultság általános forgalmi adóval terhelt ára 1470 forint, a havi úthasználati jogosultság általános forgalmi adóval terhelt ára 2500 forint.
 
-(8)[^37]
+(8)[^38]
 
 [^32]: A 6. § az 57/2014. (XII. 30.) NFM rendelet 3. §-ával megállapított szöveg.
 [^33]: A 6. § (1) bekezdése az 58/2017. (XII. 29.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^34]: A 6. § (2) bekezdését az 58/2017. (XII. 29.) NFM rendelet 14. § (1) bekezdés b) pontja hatályon kívül helyezte.
 [^35]: A 6. § (3) bekezdése a 3/2015. (I. 29.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^36]: A 6. § (4) bekezdését a 75/2015. (XII. 29.) NFM rendelet 19. § b) pontja hatályon kívül helyezte.
-[^37]: A 6. § (8) bekezdését a 3/2015. (I. 29.) NFM rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte az 58/2017. (XII. 29.) NFM rendelet 14. § (1) bekezdés b) pontja.
+[^37]: A 6. § (7) bekezdése az 58/2017. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^38]: A 6. § (8) bekezdését a 3/2015. (I. 29.) NFM rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte az 58/2017. (XII. 29.) NFM rendelet 14. § (1) bekezdés b) pontja.

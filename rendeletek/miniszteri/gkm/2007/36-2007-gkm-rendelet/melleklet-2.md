@@ -20,6 +20,6 @@
 
 | 3. | D1, D2, U | B2 | 52 050 forint | 208 200 forint |
 
-2. melléklet a 36/2007. (III. 26.) GKM rendelethez[^75]
+2. melléklet a 36/2007. (III. 26.) GKM rendelethez[^76]
 
-[^75]: A 2. mellékletet az 58/2017. (XII. 29.) NFM rendelet 14. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^76]: A 2. mellékletet az 58/2017. (XII. 29.) NFM rendelet 14. § (1) bekezdés c) pontja hatályon kívül helyezte.

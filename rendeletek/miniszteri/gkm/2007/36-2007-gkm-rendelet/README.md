@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-36-20-0
 | 2016-01-01 | 2007-36-20-0L.19 | 75/2015. (XII. 29.) NFM rendelet |
 | 2017-01-03 | 2007-36-20-0L.20 | 1/2017. (I. 3.) NFM rendelet |
 | 2018-01-01 | 2007-36-20-0L.21 | 58/2017. (XII. 29.) NFM rendelet |
+| 2018-05-01 | 2007-36-20-0L.22 | 58/2017. (XII. 29.) NFM rendelet |
