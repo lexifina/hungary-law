@@ -1,4 +1,4 @@
-3/A. melléklet az 56/2012. (XI. 22.) BM rendelethez[^243]
+3/A. melléklet az 56/2012. (XI. 22.) BM rendelethez[^249]
 
 ## Az Országgyűlési Őrség őrszolgálati, folyamatos ügyeleti szolgálat ellátására szervezett és készenléti jellegű szolgálati beosztásai
 
@@ -38,4 +38,4 @@ szolgálati beosztása,
 
 b) a Személyvédelmi Igazgatóság Személybiztosító Osztály valamennyi szolgálati beosztása, az osztályvezető szolgálati beosztás kivételével.
 
-[^243]: A 3/A. mellékletet a 9/2018. (IV. 25.) BM rendelet 17. § (4) bekezdése iktatta be.
+[^249]: A 3/A. mellékletet a 9/2018. (IV. 25.) BM rendelet 17. § (4) bekezdése iktatta be.

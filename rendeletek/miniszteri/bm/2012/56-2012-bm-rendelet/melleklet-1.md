@@ -1,4 +1,4 @@
-1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^240]
+1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^246]
 
 ## Az Országgyűlési Őrség szolgálati beosztásai
 
@@ -52,4 +52,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^240]: Az 1. melléklet a 34/2015. (VI. 16.) BM rendelet 3. § (1) bekezdésével megállapított, a 47/2016. (XI. 23.) BM rendelet 6. § (1) bekezdése, a 9/2018. (IV. 25.) BM rendelet 17. § (1) bekezdése szerint módosított szöveg.
+[^246]: Az 1. melléklet a 34/2015. (VI. 16.) BM rendelet 3. § (1) bekezdésével megállapított, a 47/2016. (XI. 23.) BM rendelet 6. § (1) bekezdése, a 9/2018. (IV. 25.) BM rendelet 17. § (1) bekezdése szerint módosított szöveg.

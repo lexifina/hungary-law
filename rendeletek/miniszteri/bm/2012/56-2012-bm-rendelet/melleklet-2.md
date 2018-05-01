@@ -32,6 +32,6 @@
 
 | 15. |  | beosztott tűzoltó II. | 350 |  |
 
-2. melléklet az 56/2012. (XI. 22.) BM rendelethez[^241]
+2. melléklet az 56/2012. (XI. 22.) BM rendelethez[^247]
 
-[^241]: A 2. melléklet a 47/2016. (XI. 23.) BM rendelet 6. § (2) bekezdésével megállapított, a 9/2018. (IV. 25.) BM rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^247]: A 2. melléklet a 47/2016. (XI. 23.) BM rendelet 6. § (2) bekezdésével megállapított, a 9/2018. (IV. 25.) BM rendelet 17. § (2) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 12/A. [^131] Rendfokozati vizsga
+## 12/A. [^137] Rendfokozati vizsga
 
 57/A. § (1) A hivatásos állomány tagja rendfokozati vizsgát tesz
 
@@ -38,4 +38,4 @@ c) alacsonyabb rendfokozattal járó szolgálati beosztásba helyezést követő
 
 (8) Nem kell rendfokozati vizsgát tenni hivatásos szolgálati jogviszony létesítése esetén, továbbá az első tiszti rendfokozatba történő kinevezéskor.
 
-[^131]: A 12/A. alcímet (57/A–57/G. §) a 9/2018. (IV. 25.) BM rendelet 11. §-a iktatta be.
+[^137]: A 12/A. alcímet (57/A–57/G. §) a 9/2018. (IV. 25.) BM rendelet 11. §-a iktatta be.
