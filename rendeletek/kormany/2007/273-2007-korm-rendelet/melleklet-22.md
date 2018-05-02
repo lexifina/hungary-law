@@ -1,4 +1,4 @@
-22. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^530]
+22. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^531]
 
 Az erőművi főberendezések adatai
 
@@ -10,7 +10,7 @@ A 4–6. és 9. számú mellékletben meghatározott adatszolgáltatás esetén,
 
 1.2. gyártó,
 
-1.3.[^531] gyári szám, ha az rendelkezésre áll,
+1.3.[^532] gyári szám, ha az rendelkezésre áll,
 
 1.4. gyártási év,
 
@@ -120,9 +120,5 @@ c) frissgőz nyomás (bar).
 
 9.2. névleges hő teljesítőképesség (MW),
 
-9.3. hőcserélő névleges teljesítőképessége (MW)
-
-a) keverék hűtő,
-
-[^530]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.
-[^531]: A Vhr 22. számú melléklete a 497/2017. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^531]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.
+[^532]: A Vhr 22. számú melléklete a 497/2017. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
