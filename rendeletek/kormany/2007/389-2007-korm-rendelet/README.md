@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-389-20-
 | 2017-10-01 | 2007-389-20-22.27 | 232/2017. (VIII. 14.) Korm. rendelet |
 | 2018-01-01 | 2007-389-20-22.28 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-02-07 | 2007-389-20-22.29 | 4/2018. (II. 2.) Korm. rendelet |
+| 2018-05-02 | 2007-389-20-22.30 | 92/2018. (IV. 27.) Korm. rendelet |

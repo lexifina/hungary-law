@@ -38,6 +38,8 @@ b) erőműegység megvásárlásán alapuló, változatlan kötelező átvételi
 
 c) a kötelező átvételi jogosultság megállapítása során figyelembe vett egyéb állami támogatás mértékének megváltozása miatti módosításra
 
+d)[^9] a kötelező átvételi jogosultság mint vagyoni értékű jog nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított beruházáshoz kapcsolódó területet bármilyen jogcímen birtokló személyre történő átruházásán alapuló, legfeljebb a telephely tekintetében módosított kötelező átvételi jogosultság bejegyzésére
+
 [^1]: Az 1. § (1) bekezdés záró szövegrésze a 393/2016. (XII. 5.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés c) pontját a 166/2011. (VIII. 24.) Korm. rendelet 3. § 1. pontja hatályon kívül helyezte.
 [^3]: Az 1. § (1a) bekezdését a 166/2011. (VIII. 24.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 309/2013. (VIII. 16.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
@@ -46,3 +48,4 @@ c) a kötelező átvételi jogosultság megállapítása során figyelembe vett 
 [^6]: Az 1. § (4) bekezdését a 166/2011. (VIII. 24.) Korm. rendelet 3. § 2. pontja hatályon kívül helyezte.
 [^7]: Az 1. § (5) bekezdése a 166/2011. (VIII. 24.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^8]: Az 1. § (6) bekezdését a 312/2016. (X. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^9]: Az 1. § (6) bekezdés d) pontját a 92/2018. (IV. 27.) Korm. rendelet 2. §-a iktatta be.

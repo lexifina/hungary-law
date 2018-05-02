@@ -1,4 +1,4 @@
-6/A. §[^59] (1) A napelemes erőműre vonatkozó, e rendelet szerinti KÁT jogosultsággal rendelkező, nem engedélyköteles KÁT termelő köteles a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet módosításáról szóló 4/2018. (II. 2.) Korm. rendelet hatálybalépését követő 15. napig a Hivatalhoz benyújtani az alábbi dokumentumokat:
+6/A. §[^60] (1) A napelemes erőműre vonatkozó, e rendelet szerinti KÁT jogosultsággal rendelkező, nem engedélyköteles KÁT termelő köteles a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet módosításáról szóló 4/2018. (II. 2.) Korm. rendelet hatálybalépését követő 15. napig a Hivatalhoz benyújtani az alábbi dokumentumokat:
 
 a) a beruházás helyszínéül szolgáló terület feletti rendelkezési jog igazolását vagy a tulajdonos hozzájáruló nyilatkozatát napelemes erőmű megvalósításához;
 
@@ -28,4 +28,4 @@ f) aki a 6. § (2) bekezdés szerinti határidőig nem kezdte meg a termelést, 
 
 (5) Amennyiben az érintett KÁT termelő telephely-módosítás iránt kérelmet nyújtott be, amelynek elbírálása folyamatban van, az (1)–(4) bekezdésben foglaltak tekintetében a módosítási kérelemben megjelölt új helyszínt kell figyelembe venni.
 
-[^59]: A 6/A. §-t újonnan a 4/2018. (II. 2.) Korm. rendelet 2. §-a iktatta be.
+[^60]: A 6/A. §-t újonnan a 4/2018. (II. 2.) Korm. rendelet 2. §-a iktatta be.
