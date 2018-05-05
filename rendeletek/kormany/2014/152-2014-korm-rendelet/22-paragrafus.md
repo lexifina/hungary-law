@@ -1,4 +1,4 @@
-22. §[^41] (1) A Kormány a minisztert jelöli ki:
+22. §[^42] (1) A Kormány a minisztert jelöli ki:
 
 1. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerinti polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervként;
 
@@ -36,4 +36,4 @@
 
 (2) A kezelésében lévő nyilvántartások tekintetében a miniszter ellátja az Európai Unió rendszereivel való információcserét lebonyolító nemzeti kapcsolattartó pont (EUCARIS, RESPER), illetve központi hatóság (ECRIS) hatáskörébe utalt, a publikus kulcsú információs rendszer (PKI) koordinátor, az úti okmányok szenzitív adatainak vizsgálatához kapcsolódó (SPOC) rendszer, valamint a Schengeni Információs Rendszer (SIS II) keretében megvalósuló információcserével kapcsolatos, külön jogszabályban meghatározott feladatait, valamint a foglalkoztatás mobilitás és álláskeresés hatékonyságát növelő egységes adatcserét biztosító (EURES) portál működtetését és fejlesztését.
 
-[^41]: A 22. § a 379/2016. (XII. 2.) Korm. rendelet 272. § (5) bekezdésével megállapított szöveg.
+[^42]: A 22. § a 379/2016. (XII. 2.) Korm. rendelet 272. § (5) bekezdésével megállapított szöveg.

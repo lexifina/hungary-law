@@ -2,9 +2,9 @@
 
 ## 21. § A belügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
-1.[^36]
+1.[^37]
 
-2.[^37]
+2.[^38]
 
 3. bűncselekmények megelőzéséért,
 
@@ -50,13 +50,13 @@
 
 24. személyiadat- és lakcímnyilvántartásért,
 
-25.[^38]
+25.[^39]
 
 26. terrorizmus elleni küzdelemért,
 
-27.[^39]
+27.[^40]
 
-28.[^40] településüzemeltetésért, kéményseprő-ipari tevékenységért,
+28.[^41] településüzemeltetésért, kéményseprő-ipari tevékenységért,
 
 29. vízgazdálkodásért,
 
@@ -66,8 +66,8 @@
 
 felelős tagja.
 
-[^36]: A 21. § 1. pontját a 379/2016. (XII. 2.) Korm. rendelet 272. § (10) bekezdés a) pontja hatályon kívül helyezte.
-[^37]: A 21. § 2. pontját a 379/2016. (XII. 2.) Korm. rendelet 272. § (10) bekezdés a) pontja hatályon kívül helyezte.
-[^38]: A 21. § 25. pontját a 186/2016. (VII. 13.) Korm. rendelet 12. §-a hatályon kívül helyezte.
-[^39]: A 21. § 27. pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.
-[^40]: A 21. § 28. pontja a 99/2016. (V. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.
+[^37]: A 21. § 1. pontját a 379/2016. (XII. 2.) Korm. rendelet 272. § (10) bekezdés a) pontja hatályon kívül helyezte.
+[^38]: A 21. § 2. pontját a 379/2016. (XII. 2.) Korm. rendelet 272. § (10) bekezdés a) pontja hatályon kívül helyezte.
+[^39]: A 21. § 25. pontját a 186/2016. (VII. 13.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^40]: A 21. § 27. pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.
+[^41]: A 21. § 28. pontja a 99/2016. (V. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.

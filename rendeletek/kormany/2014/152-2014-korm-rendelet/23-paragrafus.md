@@ -1,3 +1,3 @@
-23. §[^42]
+23. §[^43]
 
-[^42]: A 23. §-t a 379/2016. (XII. 2.) Korm. rendelet 272. § (10) bekezdés b) pontja hatályon kívül helyezte.
+[^43]: A 23. §-t a 379/2016. (XII. 2.) Korm. rendelet 272. § (10) bekezdés b) pontja hatályon kívül helyezte.

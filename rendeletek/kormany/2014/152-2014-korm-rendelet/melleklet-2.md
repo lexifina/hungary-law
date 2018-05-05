@@ -174,4 +174,6 @@
 
 |  | 4 | Szerencsejáték Felügyelet | irányítás |
 
-2. melléklet a 152/2014. (VI. 6.) Korm. rendelethez
+2. melléklet a 152/2014. (VI. 6.) Korm. rendelethez[^179]
+
+[^179]: A 2. mellékletet a 93/2018. (V. 4.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.

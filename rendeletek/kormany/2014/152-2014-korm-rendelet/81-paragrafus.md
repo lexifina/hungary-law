@@ -16,11 +16,11 @@ e) – a külpolitikáért felelős miniszterrel együttműködve – a nemzetk�
 
 f) a személyek jogára, a dologi jogra, a családjogra, a családjogi jogsegélyre, a kötelmi jogra, az öröklésre, a polgári peres és nemperes eljárásokra, a bírósági végrehajtásra, a nemzetközi magánjogra, a polgári jogi jogsegélyre, a közvetítői tevékenységre, a jogi segítségnyújtásra, a szakfordításra és tolmácsolásra és a pártfogó felügyelői tevékenységre,
 
-g)[^77] a cégnyilvánosságra, a bírósági cégeljárásra, a csődeljárásra, a természetes személyek adósságrendezésére, az egyéni vállalkozásra és az egyéni cégre, a koncesszióra, a kisajátításra,
+g)[^78] a cégnyilvánosságra, a bírósági cégeljárásra, a csődeljárásra, a természetes személyek adósságrendezésére, az egyéni vállalkozásra és az egyéni cégre, a koncesszióra, a kisajátításra,
 
-h)[^78] a bírósági szervezetre, a bírák és az igazságügyi alkalmazottak jogállására, szolgálati jogviszonyára, a bírósági igazgatásra és ügyvitelre, a választottbíráskodásra, a bírósági végrehajtásra és a bírósági végrehajtói szervezetre, a közjegyzőkre, az ügyvédi tevékenységet gyakorlókra, az igazságügyi szakértőkre és a jogi szakvizsgára,
+h)[^79] a bírósági szervezetre, a bírák és az igazságügyi alkalmazottak jogállására, szolgálati jogviszonyára, a bírósági igazgatásra és ügyvitelre, a választottbíráskodásra, a bírósági végrehajtásra és a bírósági végrehajtói szervezetre, a közjegyzőkre, az ügyvédi tevékenységet gyakorlókra, az igazságügyi szakértőkre és a jogi szakvizsgára,
 
-i)[^79] – a közigazgatás-szervezésért felelős miniszterrel együttműködve – a közigazgatási hatósági eljárás és szolgáltatás általános szabályaira,
+i)[^80] – a közigazgatás-szervezésért felelős miniszterrel együttműködve – a közigazgatási hatósági eljárás és szolgáltatás általános szabályaira,
 
 j) a szerzői jogra, az iparjogvédelemre, a tisztességtelen piaci magatartásra, a versenykorlátozás tilalmára, a magyar formatervezési díjra és az iparjogvédelmi támogatásokra,
 
@@ -30,6 +30,6 @@ l) az ügyészségre, az ügyészek jogállására, a bűncselekményekre, a bü
 
 vonatkozó jogszabályokat.
 
-[^77]: A 81. § (2) bekezdés g) pontja a 218/2015. (VIII. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^78]: A 81. § (2) bekezdés h) pontja a 393/2017. (XII. 13.) Korm. rendelet 61. § a) pontja szerint módosított szöveg.
-[^79]: A 81. § (2) bekezdés i) pontja a 221/2014. (IX. 4.) Korm. rendelet 835. § c) pontja szerint módosított szöveg.
+[^78]: A 81. § (2) bekezdés g) pontja a 218/2015. (VIII. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^79]: A 81. § (2) bekezdés h) pontja a 393/2017. (XII. 13.) Korm. rendelet 61. § a) pontja szerint módosított szöveg.
+[^80]: A 81. § (2) bekezdés i) pontja a 221/2014. (IX. 4.) Korm. rendelet 835. § c) pontja szerint módosított szöveg.

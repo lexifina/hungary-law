@@ -20,6 +20,6 @@ i) biztosítja az európai uniós fejlesztési programok összehangolt végrehaj
 
 j) gondoskodik a hazai források és az európai uniós források tekintetében az Európai Unió működéséről szóló Szerződés 107. cikk (1) bekezdésének hatálya alá tartozó állami támogatások versenyszempontú vizsgálatáról,
 
-k)[^25] ellátja az Európai Unió közös agrárpolitikájának finanszírozásával kapcsolatos illetékes hatósági feladatokat.
+k)[^26] ellátja az Európai Unió közös agrárpolitikájának finanszírozásával kapcsolatos illetékes hatósági feladatokat.
 
-[^25]: A 12. § k) pontját a 328/2016. (X. 28.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^26]: A 12. § k) pontját a 328/2016. (X. 28.) Korm. rendelet 19. § (1) bekezdése iktatta be.

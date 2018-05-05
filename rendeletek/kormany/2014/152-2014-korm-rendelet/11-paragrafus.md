@@ -1,4 +1,4 @@
-11. §[^19] (1) A miniszter a helyi önkormányzatok törvényességi felügyeletéért való felelőssége keretében előkészíti a helyi önkormányzatok törvényességi felügyeletére és a területszervezési eljárásra vonatkozó jogszabályokat.
+11. §[^20] (1) A miniszter a helyi önkormányzatok törvényességi felügyeletéért való felelőssége keretében előkészíti a helyi önkormányzatok törvényességi felügyeletére és a területszervezési eljárásra vonatkozó jogszabályokat.
 
 (2) A miniszter a helyi önkormányzatok törvényességi felügyeletéért való felelőssége keretében a helyi önkormányzatokért felelős miniszterrel egyetértésben
 
@@ -12,4 +12,4 @@ bb) az önkormányzati rendelet Alaptörvénnyel való összhangjának megvizsg�
 
 c) előkészíti az ország területének közigazgatási tagozódásával, illetve a területszervezéssel kapcsolatos, az Országgyűlés vagy a köztársasági elnök hatáskörébe tartozó döntéseket.
 
-[^19]: A 11. § a 221/2014. (IX. 4.) Korm. rendelet 818. §-ával megállapított szöveg.
+[^20]: A 11. § a 221/2014. (IX. 4.) Korm. rendelet 818. §-ával megállapított szöveg.

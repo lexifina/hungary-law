@@ -1,4 +1,4 @@
-6. § (1)[^9] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében a Kormány általános politikája megvalósításának – az állam tevékenységének kormányzati, valamint a Kormány társadalompolitikai tevékenységének összehangolásával összefüggő – stratégiai irányítása tekintetében
+6. § (1)[^10] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében a Kormány általános politikája megvalósításának – az állam tevékenységének kormányzati, valamint a Kormány társadalompolitikai tevékenységének összehangolásával összefüggő – stratégiai irányítása tekintetében
 
 a) érvényesíti a kormányzati döntés-előkészítés, az Európai Unió döntéshozatali tevékenysége és a Kormány döntéseinek végrehajtása során az összkormányzati szempontokat, ennek érdekében szervezi és működteti a döntés-előkészítés és a végrehajtás egységes folyamatát, szükség esetén kezdeményezi a Kormány feladatkörében érintett tagjának vagy a Kormánynak az intézkedését,
 
@@ -8,9 +8,9 @@ c) közreműködik a döntések megvalósulásának értékelésében, a végreh
 
 d) összehangolja és biztosítja a Kormány informatikával és e-közigazgatással kapcsolatos politikájának egységes megvalósítását,
 
-e)[^10]
+e)[^11]
 
-f)[^11]
+f)[^12]
 
 (2) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében a kormányzati munka tervezése tekintetében
 
@@ -18,7 +18,7 @@ a) kijelöli a Kormány képviseletéért felelős minisztert az Európai Unió 
 
 b) javaslatot tesz a Kormány munkatervére és törvényalkotási programjára, gondoskodik azok végrehajtásáról,
 
-c)[^12] az állam kormányzati, illetve társadalompolitikai tevékenysége szempontjából átfogó megközelítést igénylő ügyekben javaslatot, illetve előterjesztést tesz a Kormány részére, kezdeményezi és szervezi a Kormány feladatkörében érintett tagjai összehangolt tevékenységét, szakpolitikai előterjesztések és jelentések elkészítését, illetve összkormányzati projekt indítását,
+c)[^13] az állam kormányzati, illetve társadalompolitikai tevékenysége szempontjából átfogó megközelítést igénylő ügyekben javaslatot, illetve előterjesztést tesz a Kormány részére, kezdeményezi és szervezi a Kormány feladatkörében érintett tagjai összehangolt tevékenységét, szakpolitikai előterjesztések és jelentések elkészítését, illetve összkormányzati projekt indítását,
 
 d) koordinálja a közigazgatási egyeztetéseket, ennek során gondoskodik a Kormány döntéseiben meghatározott követelmények érvényesítéséről, valamint ellenőrzi, hogy a javasolt döntés végrehajtásának feltételei teljes körűen biztosíthatóak-e,
 
@@ -50,21 +50,21 @@ d) gondoskodik a Kormány által elfogadott törvényalkotási program, törvén
 
 e) ellátja a napirenden kívüli felszólalások, valamint az országgyűlési képviselői interpellációk, kérdések és azonnali kérdések megválaszolásával kapcsolatos szervezési feladatokat, ennek keretében javaslatot tesz a válaszadó személyére, illetve a miniszterelnök megbízása alapján kijelöli a válaszadót.
 
-(4)[^13]
+(4)[^14]
 
 (5) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében segíti a miniszterelnök tevékenységét, e tekintetben
 
-a)[^14]
+a)[^15]
 
-b)[^15] a miniszterelnök részére – feladat- és hatáskörében – soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői közreműködést kér, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek felé,
+b)[^16] a miniszterelnök részére – feladat- és hatáskörében – soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői közreműködést kér, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek felé,
 
-c)[^16]
+c)[^17]
 
-[^9]: A 6. § (1) bekezdés nyitó szövegrésze a 306/2015. (X. 26.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^10]: A 6. § (1) bekezdése e) pontját a 167/2014. (VII. 17.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 236/2016. (VII. 29.) Korm. rendelet 8. § b) pontja.
-[^11]: A 6. § (1) bekezdés f) pontját a 122/2015. (V. 26.) Korm. rendelet 44. § (1) bekezdése iktatta be, hatályon kívül helyezte a 236/2016. (VII. 29.) Korm. rendelet 8. § b) pontja.
-[^12]: A 6. § (2) bekezdés c) pontja a 306/2015. (X. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^13]: A 6. § (4) bekezdését a 306/2015. (X. 26.) Korm. rendelet 14. §-a hatályon kívül helyezte.
-[^14]: A 6. § (5) bekezdés a) pontját a 306/2015. (X. 26.) Korm. rendelet 14. §-a hatályon kívül helyezte.
-[^15]: A 6. § (5) bekezdés b) pontja a 306/2015. (X. 26.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^16]: A 6. § (5) bekezdés c) pontját a 306/2015. (X. 26.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^10]: A 6. § (1) bekezdés nyitó szövegrésze a 306/2015. (X. 26.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^11]: A 6. § (1) bekezdése e) pontját a 167/2014. (VII. 17.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 236/2016. (VII. 29.) Korm. rendelet 8. § b) pontja.
+[^12]: A 6. § (1) bekezdés f) pontját a 122/2015. (V. 26.) Korm. rendelet 44. § (1) bekezdése iktatta be, hatályon kívül helyezte a 236/2016. (VII. 29.) Korm. rendelet 8. § b) pontja.
+[^13]: A 6. § (2) bekezdés c) pontja a 306/2015. (X. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^14]: A 6. § (4) bekezdését a 306/2015. (X. 26.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^15]: A 6. § (5) bekezdés a) pontját a 306/2015. (X. 26.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^16]: A 6. § (5) bekezdés b) pontja a 306/2015. (X. 26.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^17]: A 6. § (5) bekezdés c) pontját a 306/2015. (X. 26.) Korm. rendelet 14. §-a hatályon kívül helyezte.

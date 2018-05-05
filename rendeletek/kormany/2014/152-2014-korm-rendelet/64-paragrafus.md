@@ -1,10 +1,10 @@
-64. § (1)[^66] A miniszter a társadalmi felzárkózásért való felelőssége keretében előkészíti a hátrányos helyzetű személyek helyzetére, felzárkózásuk biztosítására és oktatási esélyteremtésére vonatkozó jogszabályokat.
+64. § (1)[^67] A miniszter a társadalmi felzárkózásért való felelőssége keretében előkészíti a hátrányos helyzetű személyek helyzetére, felzárkózásuk biztosítására és oktatási esélyteremtésére vonatkozó jogszabályokat.
 
 (2) A miniszter a társadalmi felzárkózásért való felelőssége keretében
 
-a)[^67] felel a gyermekek esélyteremtéséért, a hátrányos helyzetű gyermekek oktatási esélyegyenlőségének biztosításáért,
+a)[^68] felel a gyermekek esélyteremtéséért, a hátrányos helyzetű gyermekek oktatási esélyegyenlőségének biztosításáért,
 
-b)[^68]
+b)[^69]
 
 c) felel a hátrányos térségekben élők társadalmi felzárkózásáért,
 
@@ -12,9 +12,9 @@ d) kidolgozza a roma társadalmi integrációs kormányzati politika koncepciój
 
 e) felel az alacsony végzettségűek foglalkoztathatóságát javító komplex szolgáltatások biztosításáért,
 
-f)[^69]
+f)[^70]
 
-[^66]: A 64. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 826. §-ával megállapított szöveg.
-[^67]: A 64. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 836. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^68]: A 64. § (2) bekezdés b) pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.
-[^69]: A 64. § (2) bekezdés f) pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.
+[^67]: A 64. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 826. §-ával megállapított szöveg.
+[^68]: A 64. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 836. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^69]: A 64. § (2) bekezdés b) pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.
+[^70]: A 64. § (2) bekezdés f) pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.

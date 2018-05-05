@@ -1,6 +1,6 @@
-## 4/A. §[^7] A miniszter kormányzati tevékenység összehangolásáért való feladat- és hatásköre e rendeletben meghatározottak szerint az állam tevékenységének kormányzati, valamint a Kormány társadalompolitikai tevékenységének összehangolására terjed ki.
+## 4/A. §[^8] A miniszter kormányzati tevékenység összehangolásáért való feladat- és hatásköre e rendeletben meghatározottak szerint az állam tevékenységének kormányzati, valamint a Kormány társadalompolitikai tevékenységének összehangolására terjed ki.
 
-## 5. §[^8] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében
+## 5. §[^9] A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében
 
 a) felel a Kormány általános politikája megvalósításának – az állam tevékenységének kormányzati, valamint a Kormány társadalompolitikai tevékenységének összehangolásával összefüggő – stratégiai irányításáért,
 
@@ -12,5 +12,5 @@ d) felel a miniszterelnöki döntésekkel kapcsolatos igazgatási feladatok ell�
 
 e) koordinálja az alkotmányos szervek, az önálló szabályozó szervek és az autonóm államigazgatási szervek vezetőivel való kapcsolattartást.
 
-[^7]: A 4/A. §-t a 306/2015. (X. 26.) Korm. rendelet 5. §-a iktatta be.
-[^8]: Az 5. § a 306/2015. (X. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^8]: A 4/A. §-t a 306/2015. (X. 26.) Korm. rendelet 5. §-a iktatta be.
+[^9]: Az 5. § a 306/2015. (X. 26.) Korm. rendelet 6. §-ával megállapított szöveg.

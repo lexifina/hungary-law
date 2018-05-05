@@ -6,6 +6,6 @@ b) meghatározza a gyermek- és ifjúságpolitikához tartozó területek szakma
 
 c) koordinálja a határon túli ifjúsággal való együttműködés rendszerét,
 
-d)[^59] ellátja az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogramból fakadó feladatait, amelynek ellátásához és az ifjúsági szolgáltatások szervezetrendszerének működtetéséhez a miniszter az Új Nemzedék Központ Nonprofit Közhasznú Kft. szolgáltatásait veszi igénybe.
+d)[^60] ellátja az Új Nemzedék Jövőjéért ifjúságpolitikai keretprogramból fakadó feladatait, amelynek ellátásához és az ifjúsági szolgáltatások szervezetrendszerének működtetéséhez a miniszter az Új Nemzedék Központ Nonprofit Közhasznú Kft. szolgáltatásait veszi igénybe.
 
-[^59]: Az 55. § d) pontja a 221/2014. (IX. 4.) Korm. rendelet 835. § b) pontja szerint módosított szöveg.
+[^60]: Az 55. § d) pontja a 221/2014. (IX. 4.) Korm. rendelet 835. § b) pontja szerint módosított szöveg.
