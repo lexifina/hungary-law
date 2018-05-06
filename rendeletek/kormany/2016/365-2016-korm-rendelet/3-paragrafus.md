@@ -1,6 +1,6 @@
 ## 3. Kereskedelmi hatóság kijelölése
 
-3. § (1) A Kormány a (2) és (3) bekezdésben meghatározott körben Budapest Főváros Kormányhivatalát kereskedelmi hatóságként jelöli ki.
+3. § (1)[^10] A Kormány a (2) és (3) bekezdésben meghatározott körben Budapest Főváros Kormányhivatalát országos illetékességű kereskedelmi hatóságként jelöli ki.
 
 (2) Budapest Főváros Kormányhivatala kereskedelmi hatóságként jár el:
 
@@ -39,3 +39,5 @@ a) az idegenvezetői szolgáltatást ténylegesen végző személy idegenvezető
 b) az idegenvezetői szolgáltatást ténylegesen végző személy nyelvismeretét tanúsító nyelvvizsga-bizonyítvány másolata vagy azzal egyenértékű nyelvismeretet igazoló okirat másolata.
 
 (6) A lovas szolgáltatók bejelentésére és nyilvántartásba vételére irányuló, illetve az azzal kapcsolatos ellenőrzési eljárásokban bizonyítási eszköznek minősül a szolgáltatás igénybevevőjének lovagoltatásával járó lovas szolgáltató tevékenység esetén a szakmai tevékenységért felelős személy szakképesítését igazoló okirat.
+
+[^10]: A 3. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.

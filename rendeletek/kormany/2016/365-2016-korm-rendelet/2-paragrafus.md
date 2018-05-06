@@ -1,6 +1,6 @@
 ## 2. A nemzeti külkereskedelmi államigazgatási szerv, valamint a hadiipari gyártás- és szolgáltatásfelügyelet kijelölése
 
-2. § (1) A Kormány
+2. § (1)[^9] A Kormány országos illetékességgel eljáró
 
 a) nemzeti külkereskedelmi államigazgatási szervként, valamint
 
@@ -23,3 +23,5 @@ d) eljár az uniós jogi aktusokból, a nemzetközi gazdasági egyezményekből,
 (4) A Kormány a (2) és (3) bekezdésben meghatározott tevékenységek tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Budapest Főváros Kormányhivatalát jelöli ki.
 
 (5) A nemzeti külkereskedelmi államigazgatási szervként eljáró Budapest Főváros Kormányhivatala a (2) bekezdés d) pontja kapcsán jogosult az importengedélyezéshez, illetve a kedvezményes import vámkontingensekhez kapcsolódó biztosíték elkülönített számlán történő kezelésére.
+
+[^9]: A 2. § (1) bekezdés nyitó szövegrésze a 80/2018. (IV. 20.) Korm. rendelet 20. § c) pontjával megállapított szöveg.
