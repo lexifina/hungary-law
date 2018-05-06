@@ -1,4 +1,4 @@
-3. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^107]
+3. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^110]
 
 Új adalékanyag dohánytermék-gyártásban való felhasználásával kapcsolatos bejelentés tartalma
 
@@ -50,4 +50,4 @@
 
 | I.O.F.I.: | International Organization of the Flavour Industry (Aromaipari Nemzetközi Szervezet) |
 
-[^107]: A 3. melléklet a 239/2016. (VIII. 16.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^110]: A 3. melléklet a 239/2016. (VIII. 16.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
