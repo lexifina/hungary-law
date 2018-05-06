@@ -1,8 +1,10 @@
 5. melléklet a 31/2014. (II. 12.) Korm. rendelethez
 
-## Műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala és a területi mérésügyi és műszaki biztonsági hatóságok építésügyi hatósági engedélye nélkül végezhető építési tevékenységek, ha azok nem nukleáris létesítmény és radioaktívhulladék-tároló biztonsági övezetében történnek[^57]
+## Műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala és a területi mérésügyi és műszaki biztonsági hatóságok építésügyi hatósági engedélye nélkül végezhető építési tevékenységek, ha azok nem nukleáris létesítmény és radioaktívhulladék-tároló biztonsági övezetében történnek[^58]
 
 1. Nem közforgalmú autógáz-töltőállomás, -töltőhely technológiai berendezéseivel egybeépített, vagy a berendezés elhelyezését vagy védelmét közvetlenül szolgáló műtárgy építésével, bővítésével, elmozdításával és bontásával összefüggő építési tevékenységek.
+
+1a.[^59] Meglévő közforgalmú üzemanyag-töltőállomáson közforgalmú autógáz töltőállomás, -töltőhely technológiai berendezéseivel egybeépített, vagy a berendezés elhelyezését vagy védelmét közvetlenül szolgáló műtárgy építésével, bővítésével, elmozdításával és bontásával összefüggő építési tevékenységek.
 
 2. Nem közforgalmú üzemanyag-töltőállomás technológiai berendezéseivel egybeépített, vagy a berendezés elhelyezését vagy védelmét közvetlenül szolgáló műtárgy építésével, bővítésével, elmozdításával és bontásával összefüggő építési tevékenységek.
 
@@ -24,4 +26,5 @@
 
 11. A rendelet hatálya alá tartozó sajátos építménnyel kapcsolatos építési tevékenység végzéséhez szükséges, annak befejezését követően elbontandó állványzat építése mérethatár nélkül, az építési tevékenység végzéséhez szükséges állványzat elbontása, a nettó 50 m3 térfogatot meg nem haladó felvonulási építmény építése, bontása.
 
-[^57]: Az 5. melléklet címe a 379/2016. (XII. 2.) Korm. rendelet 265. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^58]: Az 5. melléklet címe a 379/2016. (XII. 2.) Korm. rendelet 265. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^59]: Az 5. melléklet 1a. pontját a 80/2018. (IV. 20.) Korm. rendelet 14. §-a iktatta be.

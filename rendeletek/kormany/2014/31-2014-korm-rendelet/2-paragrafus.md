@@ -1,4 +1,4 @@
-## 1. §[^1] A rendelet hatálya műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárásaira és az azok lefolytatásához szükséges műszaki dokumentáció tartalmi követelményeire terjed ki.
+## 1. §[^1] A rendelet hatálya a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra – ide nem értve a villamosenergia-ipari építményeket – vonatkozó építésügyi hatósági engedélyezési eljárásokra és az azok lefolytatásához szükséges műszaki dokumentáció tartalmi követelményeire terjed ki.
 
 ## 2. Értelmező rendelkezések
 
@@ -42,7 +42,7 @@
 
 14. veszélyes folyadékok, olvadékok tároló létesítménye: az éghető folyadékok és olvadékok tárolótartályairól szóló miniszteri rendeletben meghatározott, nyomástartó edénynek nem minősülő, helyhez kötött, az éghető, a gyújtó hatású, a maró és a mérgező folyadékok- és olvadékok tárolására szolgáló tárolótartályok elhelyezését vagy védelmét közvetlenül szolgáló sajátos építmény a tárolótartályokkal együtt.
 
-[^1]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 265. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § a 80/2018. (IV. 20.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^2]: A 2. § 8a. pontját a 122/2015. (V. 26.) Korm. rendelet 39. § (1) bekezdése iktatta be.
 [^3]: A 2. § 10a. pontját a 122/2015. (V. 26.) Korm. rendelet 39. § (2) bekezdése iktatta be.
 [^4]: A 2. § 12a. pontját a 122/2015. (V. 26.) Korm. rendelet 39. § (3) bekezdése iktatta be.
