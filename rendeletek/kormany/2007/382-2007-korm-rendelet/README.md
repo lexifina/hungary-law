@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-382-20-
 | 2017-09-01 | 2007-382-20-22.35 | 218/2017. (VII. 31.) Korm. rendelet |
 | 2017-12-01 | 2007-382-20-22.36 | 70/2015. (III. 30.) Korm. rendelet |
 | 2018-01-01 | 2007-382-20-22.37 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2018-05-06 | 2007-382-20-22.38 | 80/2018. (IV. 20.) Korm. rendelet |
