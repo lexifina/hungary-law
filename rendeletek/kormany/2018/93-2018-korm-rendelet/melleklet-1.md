@@ -1,3 +1,5 @@
+## 13. §[^1]
+
 1. melléklet a 93/2018. (V. 4.) Korm. rendelethez
 
 ## Átadás-átvételi jegyzőkönyv
@@ -139,3 +141,5 @@ IV. További nyilatkozatok, dokumentumok
 3. Az átadás-átvétellel érintett szerv információtechnológiai infrastruktúrája, rendszerei, ideértve a feladatainak ellátásához, illetve működésének biztosításához szükséges valamennyi alkalmazást, és az általa kezelt adatvagyonról szóló nyilatkozat.
 
 V. Teljességi nyilatkozat
+
+[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
