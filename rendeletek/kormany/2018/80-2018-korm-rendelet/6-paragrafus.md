@@ -1,0 +1,1 @@
+## „(1) Az üzembe helyezési eljárás lefolytatásáról szóló bejelentésben foglaltakat a Hatóság tizenöt nap elteltével hallgatással tudomásul veszi, a tudomásulvételt a hiányzó feltételek teljesítéséhez kötheti, vagy a tudomásulvétellel egyidejűleg határidő megjelölésével az esetlegesen hiányzó munkálatok elvégzésére kötelezi a bejelentőt.”
