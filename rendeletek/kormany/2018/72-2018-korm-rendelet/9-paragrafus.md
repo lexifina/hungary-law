@@ -1,4 +1,4 @@
-## 8. §[^9]
+## 8. §[^5]
 
 ## 3. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 4. §, az 5. § (2) és (3) bekezdése, a 6. §, a 7. § (2) és (3) bekezdése, valamint a 8. § 2019. május 20-án lép hatályba.
 
-[^9]: A 8. § a 9. § (3) bekezdése alapján 2019. május 20-án lép hatályba.
+[^5]: A 8. § a 9. § (3) bekezdése alapján 2019. május 20-án lép hatályba.
