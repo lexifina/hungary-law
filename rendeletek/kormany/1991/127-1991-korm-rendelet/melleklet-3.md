@@ -1,4 +1,4 @@
-## 6K81942M_0
+## 8K03119M_0
 
 | Sor- szám | Megnevezés | A hitelesítés hatálya (év) |
 
@@ -26,11 +26,7 @@
 
 | 4. | Hőfogyasztás-mérők | 4 |
 
-| 5. | Víztől eltérő folyadékok mennyiségének folyamatos és dinamikus mérésére szolgáló mérőrendszerek |  |
-
-|  | a) ásványolajtermék, sör, pezsgő és köztes termék, LPG, alkoholtermék, tej | 1 |
-
-|  | b) |  |
+| 5. | Víztől eltérő folyadékok mennyiségének folyamatos és dinamikus mérésére szolgáló mérőrendszerek ásványolajtermék, sör, pezsgő és köztes termék, LPG, cseppfolyósított kriogén gáz üzemanyag, alkoholtermék, tej mérésére | 1 |
 
 | 6. | Automatikus mérlegek | 2 |
 
@@ -72,11 +68,7 @@
 
 | 15. | Gépjármű-gumiabroncsnyomás mérők | 2 |
 
-| 16. | Sűrűségmérő eszközök |  |
-
-|  | – | aerométerek ásványolaj, ásványolaj-származékok, must, szeszes ital és tej sűrűségének mérésére, piknométerek | korlátlan |
-
-|  | – | folyamatos sűrűségmérők és sűrűség távadók | 2 |
+| 16. | folyamatos sűrűségmérők és sűrűség távadók | 2 |
 
 | 17. | Sugárvédelmi és gyógyászati alkalmazású dózismérők és felületi szennyezettségmérők | 2 |
 
@@ -100,7 +92,7 @@
 
 | 22. | Légzési alkoholmérők | 1 |
 
-| 23. |  | 2 |
+| 23. | Az I/5. pontba nem tartozó üzemanyagmérők | 1 |
 
 ## 4 A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény.
 
