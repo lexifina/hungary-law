@@ -1,8 +1,8 @@
-2. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^71]
+2. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^75]
 
-I. A berendezések létesítésének műszaki-biztonsági engedélyezési dokumentációja
+I. A berendezések létesítésének műszaki-biztonsági dokumentációja
 
-Építmény építési engedélyezési tervdokumentációjához a berendezésekre vonatkozóan, továbbá ezen berendezések létesítésének, áthelyezésének, felújításának, átalakításának és cseréjének engedélyezési dokumentációjához a 4. § (1) bekezdésében meghatározott adatokon túlmenően az alábbi terveket kell csatolni:
+Építmény építési engedélyezési tervdokumentációjához a berendezésekre vonatkozóan, továbbá ezen berendezések létesítésének, áthelyezésének, felújításának, átalakításának és cseréjének műszaki-biztonsági dokumentációjához az alábbi dokumentumokat kell csatolni a kérelem, bejelentés részeként:
 
 1. Felvonók esetében:
 
@@ -10,7 +10,7 @@ I. A berendezések létesítésének műszaki-biztonsági engedélyezési dokume
 
 1.2. az akna alaprajzát (vízszintes metszetét), az akna és a fülke méreteinek, a fülke- és az aknaajtók szabad nyílásának és tűzállósági határértékének feltüntetésével, legalább 1:25 méretarányban;
 
-1.3. az akna függőleges metszetét, az emelőmagasság, a süllyeszték mélysége, a fejmagasság, a fülke, az aknaajtók szabad-nyílás méretének feltüntetésével, legalább 1:50 méretarányban;
+1.3. az akna függőleges metszetét, az emelőmagasság, a süllyeszték mélysége, a fejmagasság, a fülke, az aknaajtók szabadnyílás-méretének feltüntetésével, legalább 1:50 méretarányban;
 
 1.4. a gép-, illetve (ha van) kerékhelyiség fő méreteit és az aknához viszonyított elhelyezkedését legalább 1:50 méretarányban;
 
@@ -32,28 +32,32 @@ I. A berendezések létesítésének műszaki-biztonsági engedélyezési dokume
 
 2.4. a forgalomszámítást (valamennyi személyszállító berendezés figyelembevételével).
 
+3. Minden esetben a 24. § (3) bekezdésében meghatározott tevékenységi körök végzésére jogosultsággal rendelkező tervező 6. melléklet szerinti nyilatkozatát.
+
 II. A berendezések műszaki-biztonsági használatbavételi dokumentációja
 
-## A berendezések műszaki-biztonsági használatbavételi dokumentációja a következőket tartalmazza:
+## A berendezések műszaki-biztonsági használatbavételi dokumentációjához a következő dokumentumokat kell csatolni a kérelem, bejelentés részeként:
 
-1. felvonó esetében a biztonsági berendezést gyártó és a felvonószerelő-vállalkozás nevét és címét, mozgólépcső, mozgójárda esetében a gyártó vagy a felelős forgalmazó nevét és címét;
+1. felvonó esetében a biztonsági berendezést gyártó és a felvonószerelő-vállalkozás nevét és címét, mozgólépcső, mozgójárda esetében a gyártó vagy a felelős forgalmazó nevét és címét tartalmazó dokumentumot;
 
 2. a gyártó vagy a felelős forgalmazó nyilatkozatát arról, hogy az általa szállított és felszerelt (felszereltetett) berendezés megfelel az engedélyezett terveknek, továbbá a szükséges beállításokat és a legalább 24 órás próbaüzemeltetést elvégezte, és a berendezés a rendeltetésszerű és biztonságos használatra alkalmas;
 
-3. az üzemeltető (tulajdonos) nyilatkozatát arról, hogy a berendezés karbantartását, és – ha szükséges – vezetését hogyan oldja meg;
+3. az üzemeltető (tulajdonos) nyilatkozatát arról, hogy a berendezés karbantartását és – ha szükséges – vezetését hogyan oldja meg;
 
-4. a berendezés kivitelezési dokumentációját.
+4. a berendezés kivitelezési dokumentációját;
+
+5. a használatbavételi alkalmassági nyilatkozatot.
 
 III. A berendezések megszüntetésének műszaki-biztonsági dokumentációja
 
-1. Amennyiben a felvonó bontásánál épület-statikai, állékonysági hatást is kell vizsgálni (például felvonótorony bontása), akkor a berendezés megszüntetésének dokumentációját az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az adott építményfajtára vonatkozó építésügyi hatósági eljárások szabályairól szóló kormányrendeletben meghatározottak szerinti tartalommal kell összeállítani.
+1. Amennyiben a felvonó bontásánál épületstatikai, állékonysági hatást is kell vizsgálni (például felvonótorony bontása), akkor a berendezés megszüntetésének dokumentációját az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az adott építményfajtára vonatkozó építésügyi hatósági eljárások szabályairól szóló kormányrendeletben meghatározottak szerinti tartalommal kell összeállítani.
 
-2. Az 1. pontban meghatározott esetektől eltérő esetben a berendezések megszüntetési dokumentációjához a 4. § (4) bekezdésében meghatározott adatokon túlmenően az alábbi terveket kell csatolni:
+2. Az 1. pontban meghatározott esetektől eltérő esetben a berendezések megszüntetési dokumentációjához az alábbi terveket kell csatolni a kérelem, bejelentés részeként:
 
-2.1. Az építmény legalább 1:500 léptékű alaprajza, azonosíthatóan az összes elbontandó és megmaradó berendezéssel, valamint megjelölve azokat, amelyek helyére új berendezés kerül (amennyiben értelmezhető).
+2.1. Az építmény legalább 1:500 léptékű alaprajzát, azonosíthatóan az összes elbontandó és megmaradó berendezéssel, valamint megjelölve azokat, amelyek helyére új berendezés kerül (amennyiben értelmezhető).
 
-2.2. Forgalomelemzési számítás abban az esetben, ha az építmény továbbra is fennmarad, és rendelkezik további működő felvonóval, mozgólépcsővel, mozgójárdával.
+2.2. Forgalomelemzési számítást abban az esetben, ha az építmény továbbra is fennmarad, és rendelkezik további működő felvonóval, mozgólépcsővel, mozgójárdával.
 
 2.3. A bontáshoz tervezett technológiai leírást, amely tartalmazza a bontáshoz felhasználandó eszközöket, segédszerkezeteket, a műveletek sorrendjét, a közművezetékek leválasztási módját, a munkavédelmi és környezetvédelmi előírásokat, valamint az elbontásra kerülő szerkezetek, anyagok további sorsának meghatározását.
 
-[^71]: A 2. melléklet a 280/2015. (IX. 22.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^75]: A 2. melléklet a 80/2018. (IV. 20.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.

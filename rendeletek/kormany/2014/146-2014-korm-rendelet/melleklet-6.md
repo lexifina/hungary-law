@@ -58,26 +58,6 @@
 
 | (a szervezet felelős vezetője) |
 
-6. melléklet a 146/2014. (V. 5.) Korm. rendelethez
+6. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^78]
 
-Tervezői nyilatkozat a 4. § szerint kérelemre indult engedélyezési eljárásban
-
-1. A tervező neve:
-
-2. A tervező címe (telefonszáma):
-
-3. A tervezett létesítmény megnevezése és címe:
-
-4. E nyilatkozathoz tartozó munkához a ............................. rajzszámú dokumentáció tartozik.
-
-5. Alulírott nyilatkozom, hogy tervezésre jogosultsággal rendelkezem, névjegyzéki (nyilvántartási) számom:
-
-6. Nyilatkozom továbbá, hogy a tervezett műszaki megoldás megfelel a vonatkozó jogszabályoknak és hatósági előírásoknak. A tervezett műszaki megoldás biztosítja az élet- és vagyonbiztonság, az egészség, a környezet és a kulturális örökség védelmét.
-
-6.1. A felvonókra és mozgólépcsőkre vonatkozó műszaki előírásoktól való eltérés nem vált szükségessé.
-
-6.2. A felvonókra és mozgólépcsőkre vonatkozó műszaki előírásoktól való eltérés esetében az alkalmazott eltérés megfelelőségét és egyenértékűségét igazoló tanúsítvány megjelölését a mellékelt dokumentum tartalmazza.
-
-.................................
-
-aláírás
+[^78]: A 6. mellékletet a 80/2018. (IV. 20.) Korm. rendelet 18. §-a hatályon kívül helyezte.

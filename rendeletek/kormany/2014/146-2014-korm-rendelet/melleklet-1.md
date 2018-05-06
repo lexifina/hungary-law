@@ -1,4 +1,4 @@
-1. melléklet a 146/2014. (V. 5.) Korm. rendelethez
+1. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^74]
 
 A berendezés kivitelezési dokumentációja
 
@@ -24,4 +24,24 @@ A kivitelezési dokumentációnak az engedélyezési terveken és adatokon túl 
 
 3. villamos kapcsolási rajzot és tervjelmagyarázatot;
 
-4. műszaki leírást, mely megadja a berendezés főbb műszaki adatait, megengedett óránkénti indításainak, illetve hidraulikus ciklusainak számát, névleges és indítási áramfelvételét és a berendezésből származó elvezetendő hőteljesítményt.
+4. műszaki leírást, mely tartalmazza:
+
+a) a berendezés főbb műszaki adatait, megengedett óránkénti indításainak, illetve hidraulikus ciklusainak számát, névleges és indítási áramfelvételét és a berendezésből származó elvezetendő hőteljesítményt,
+
+b) a 24. § (3) bekezdésében meghatározott tevékenységi körök végzésére jogosultsággal rendelkező tervező nevét, címét, aláírását, az aláíró lapon a tervező névjegyzéki számát szakmagyakorlási jogosultságának igazolásaként, az általa tervezett dokumentáció(rész) megnevezését,
+
+c) annak tervező általi kinyilvánítását, hogy:
+
+ca) az általa tervezett műszaki megoldás megfelel a vonatkozó jogszabályoknak és hatósági előírásoknak; biztosítja az élet- és vagyonbiztonság, az egészség, a környezet és a kulturális örökség védelmét;
+
+cb) a felvonókra és mozgólépcsőkre (mozgójárdára) vonatkozó műszaki előírásoktól való eltérés nem vált szükségessé;
+
+cc) a vonatkozó szabványtól eltérő műszaki megoldás alkalmazása esetén a szerkezet, eljárás vagy számítási módszer a szabványossal legalább egyenértékű;
+
+cd) a létesítési terv és a kivitelezési terv összhangban van;
+
+ce) műemléki védettség esetén az örökségvédelmi hatósági engedély rendelkezésre áll; valamint
+
+d) annak ismertetését, ha a létesítési dokumentációtól a kivitelezési dokumentáció eltér.
+
+[^74]: Az 1. melléklet a 80/2018. (IV. 20.) Korm. rendelet 17. § (1) bekezdése szerint módosított szöveg.
