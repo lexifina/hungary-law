@@ -14,8 +14,8 @@ c) az a) pont szerinti haditechnikai termék gyártásához, a gyártó létesí
 
 (4) A műszaki segítségnyújtásra vonatkozó (1) bekezdés szerinti előírások nem alkalmazhatóak:
 
-a)[^52] ha a műszaki segítségnyújtás a 428/2009/EK tanácsi rendelet IIa. mellékletének második részében felsorolt országok bármelyikében kerül alkalmazásra, vagy
+a)[^58] ha a műszaki segítségnyújtás a 428/2009/EK tanácsi rendelet IIa. mellékletének második részében felsorolt országok bármelyikében kerül alkalmazásra, vagy
 
 b) ha a műszaki segítségnyújtás – átadott információ formájában – a nemzetközi exportellenőrzési rezsimekben, szervezetekben és szerződésekben meghatározott nyilvános körben vagy tudományos alapkutatásban kerül alkalmazásra.
 
-[^52]: A 20. § (4) bekezdés a) pontja a 209/2012. (VII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^58]: A 20. § (4) bekezdés a) pontja a 209/2012. (VII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
