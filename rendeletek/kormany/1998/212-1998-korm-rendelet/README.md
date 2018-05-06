@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-212-20-
 | 2012-01-01 | 1998-212-20-22.9 | 282/2011. (XII. 21.) Korm. rendelet |
 | 2012-10-29 | 1998-212-20-22.10 | 280/2012. (IX. 28.) Korm. rendelet |
 | 2017-01-01 | 1998-212-20-22.11 | 280/2012. (IX. 28.) Korm. rendelet |
+| 2018-05-06 | 1998-212-20-22.12 | 80/2018. (IV. 20.) Korm. rendelet |
