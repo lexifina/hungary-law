@@ -414,12 +414,6 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 
 6. A Magyarországi nemzetiségek bizottságának megbízatása 2018. május 9-én kezdődik.
 
-7. Hatályát veszti
+7.[^2]
 
-a) az Országgyűlés bizottságainak létrehozásáról, tisztségviselőinek és tagjainak megválasztásáról szóló 13/2014. (V. 6.) OGY határozat;
-
-b) az Országgyűlés bizottságainak létrehozásáról, tisztségviselőinek és tagjainak megválasztásáról szóló 13/2014. (V. 6.) OGY határozat módosításáról szóló 15/2014. (V. 27.) OGY határozat;
-
-c) az Alkotmánybíróság tagjait jelölő eseti bizottság létrehozásáról szóló 31/2014. (VII. 8.) OGY határozat;
-
-d) az Alkotmánybíróság tagjait jelölő eseti bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 32/2014. (VII. 8.) OGY határozat.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
