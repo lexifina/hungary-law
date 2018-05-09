@@ -44,4 +44,6 @@ Tordai Bence (Párbeszéd)
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3. Hatályát veszti az Országgyűlés tisztségviselőinek megválasztásáról szóló 11/2014. (V. 6.) OGY határozat.
+3.[^2]
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
