@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-166-00-00
 | 2017-01-01 | 2016. évi CXVI. törvény | 2012-166-00-00.6 |
 | 2017-11-01 | 2017. évi CXXI. törvény | 2012-166-00-00.7 |
 | 2018-01-01 | 2017. évi L. törvény | 2012-166-00-00.8 |
+| 2018-05-10 | 2017. évi CXXXIV. törvény | 2012-166-00-00.9 |
