@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-360-20-
 | 2017-01-01 | 2013-360-20-22.5 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-10-06 | 2013-360-20-22.6 | 275/2017. (IX. 21.) Korm. rendelet |
 | 2018-01-01 | 2013-360-20-22.7 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2018-05-10 | 2013-360-20-22.8 | 394/2017. (XII. 13.) Korm. rendelet |
