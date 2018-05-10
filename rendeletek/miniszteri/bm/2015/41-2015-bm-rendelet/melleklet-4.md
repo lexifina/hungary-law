@@ -1,6 +1,566 @@
+## B) 3.2. FIZIKAI VÉDELMI INTÉZKEDÉSEK
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Sorszám | Intézkedés típusa | Biztonsági osztály |
+
+| 2. |  | 1 | 2 | 3 | 4 | 5 |
+
+| 3. | 3.2.1.2. | Fizikai védelmi eljárásrend | 0 | X | X | X | X |
+
+| 4. | 3.2.1.3. | Fizikai belépési engedélyek | 0 | X | X | X | X |
+
+| 5. | 3.2.1.4. | A fizikai belépés ellenőrzése | 0 | X | X | X | X |
+
+| 6. | 3.2.1.4.2. | Hozzáférés az információs rendszerhez | 0 | 0 | 0 | 0 | X |
+
+| 7. | 3.2.1.5. | Hozzáférés az adatátviteli eszközökhöz és csatornákhoz | 0 | 0 | 0 | X | X |
+
+| 8. | 3.2.1.6. | A kimeneti eszközök hozzáférés ellenőrzése | 0 | 0 | 0 | X | X |
+
+| 9. | 3.2.1.7. | A fizikai hozzáférések felügyelete | 0 | 0 | X | X | X |
+
+| 10. | 3.2.1.7.2. | Behatolás riasztás, felügyeleti berendezések | 0 | 0 | 0 | X | X |
+
+| 11. | 3.2.1.7.3. | Az elektronikus információs rendszerekhez való hozzáférés felügyelete | 0 | 0 | 0 | 0 | X |
+
+| 12. | 3.2.1.8. | A látogatók ellenőrzése | 0 | 0 | X | X | X |
+
+| 13. | 3.2.1.8.2. | Automatizált látogatói információkezelés | 0 | 0 | 0 | 0 | X |
+
+| 14. | 3.2.1.9. | Áramellátó berendezések és kábelezés | 0 | 0 | 0 | X | X |
+
+| 15. | 3.2.1.9.1. | Tartalék áramellátás | 0 | 0 | 0 | X | X |
+
+| 16. | 3.2.1.9.2. | Hosszú távú tartalék áramellátás a minimálisan elvárt működési képességhez | 0 | 0 | 0 | 0 | X |
+
+| 17. | 3.2.1.10. | Vészkikapcsolás | 0 | 0 | 0 | X | X |
+
+| 18. | 3.2.1.11. | Vészvilágítás | 0 | 0 | X | X | X |
+
+| 19. | 3.2.1.12. | Tűzvédelem | 0 | 0 | X | X | X |
+
+| 20. | 3.2.1.12.2. | Automatikus tűzelfojtás | 0 | 0 | 0 | X | X |
+
+| 21. | 3.2.1.12.3. | Észlelő berendezések, rendszerek | 0 | 0 | 0 | 0 | X |
+
+| 22. | 3.2.1.12.4. | Tűzelfojtó berendezések, rendszerek | 0 | 0 | 0 | 0 | X |
+
+| 23. | 3.2.1.13. | Hőmérséklet és páratartalom ellenőrzés | 0 | 0 | X | X | X |
+
+| 24. | 3.2.1.14. | Víz-, és más, csővezetéken szállított anyag okozta kár elleni védelem | 0 | 0 | X | X | X |
+
+| 25. | 3.2.1.14.2. | Automatizált védelem | 0 | 0 | 0 | 0 | X |
+
+| 26. | 3.2.1.15. | Be- és kiszállítás | 0 | 0 | X | X | X |
+
+| 27. | 3.2.1.16. | Az elektronikus információs rendszer elemeinek elhelyezése | 0 | 0 | 0 | X | X |
+
+| 28. | 3.2.1.17. | Ellenőrzés | 0 | 0 | 0 | X | X |
+
+| 29. | 3.2.1.18. | Szállítási felügyelet | 0 | 0 | 0 | 0 | X |
+
+| 30. | 3.2.1.19. | Karbantartók | 0 | 0 | X | X | X |
+
+| 31. | 3.2.1.19.2. | Karbantartás fokozott biztonsági intézkedésekkel | 0 | 0 | 0 | 0 | X |
+
+| 32. | 3.2.1.19.3. | Időben történő javítás | 0 | 0 | 0 | X | X |
+
+## C) 3.3. LOGIKAI VÉDELMI INTÉZKEDÉSEK
+
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N |
+
+| 1. | Sorszám | Intézkedés típusa | Alapelvek |
+
+| 2. |  |  | Bizalmasság | Sértetlenség | Rendelkezésre állás |
+
+| 3. |  |  | Biztonsági osztályok |
+
+| 4. |  |  | 2 | 3 | 4 | 5 | 2 | 3 | 4 | 5 | 2 | 3 | 4 | 5 |
+
+| 5. | 3.3.1. | Általános védelmi intézkedések |
+
+| 6. | 3.3.1.3. | Az elektronikus információs rendszer kapcsolódásai | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 7. | 3.3.1.3.2. | Belső rendszer kapcsolatok | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 8. | 3.3.1.3.3. | Külső kapcsolódásokra vonatkozó korlátozások | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 9. | 3.3.1.4. | Személybiztonság | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 10. | 3.3.2. | Tervezés |
+
+| 11. | 3.3.2.1. | Biztonságtervezési szabályzat | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 12. | 3.3.2.2. | Rendszerbiztonsági terv | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 13. | 3.3.2.3. | Cselekvési terv | X | X | X | X | X | X | X | X | 0 | 0 | 0 | 0 |
+
+| 14. | 3.3.2.4. | Személyi biztonság | X | X | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 15. | 3.3.2.5. | Információbiztonsági architektúra leírás | 0 | 0 | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 16. | 3.3.3. | Rendszer és szolgáltatás beszerzés |
+
+| 17. | 3.3.3.2. | A rendszer fejlesztési életciklusa | X | X | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 18. | 3.3.3.3. | Funkciók, portok, protokollok, szolgáltatások | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 19. | 3.3.3.4. | Fejlesztői változáskövetés | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 20. | 3.3.3.5. | Fejlesztői biztonsági tesztelés | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 21. | 3.3.3.6 | Fejlesztési folyamat, szabványok és eszközök | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 22. | 3.3.3.7. | Fejlesztői oktatás | 0 | 0 | 0 | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 23. | 3.3.3.8. | Fejlesztői biztonsági architektúra és tervezés | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 24. | 3.3.4. | Biztonsági elemzés |
+
+| 25. | 3.3.4.1. | Biztonságelemzési eljárásrend | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 26. | 3.3.4.2. | Biztonsági értékelések | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 27. | 3.3.4.3. | Speciális értékelés | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 28. | 3.3.4.4. | A biztonsági teljesítmény mérése | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 29. | 3.3.5. | Tesztelés, képzés és felügyelet |
+
+| 30. | 3.3.5.1.1. | Tesztelési, képzési és felügyeleti eljárások | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 31. | 3.3.5.2. | A biztonsági teljesítmény mérése | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 32. | 3.3.5.3. | Sérülékenység teszt | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 33. | 3.3.5.3.2. | Frissítési képesség | 0 | X | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 34. | 3.3.5.3.3. | Frissítés időközönként, új vizsgálat előtt vagy új sérülékenység feltárását követően | 0 | X | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 35. | 3.3.5.3.4. | Privilegizált hozzáférés | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 36. | 3.3.5.3.5. | Felfedhető információk | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 37. | 3.3.6. | Konfigurációkezelés |
+
+| 38. | 3.3.6.1. | Konfigurációkezelési eljárásrend | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 39. | 3.3.6.2. | Alap konfiguráció | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 40. | 3.3.6.2.2. | Áttekintések és frissítések | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 41. | 3.3.6.2.3. | Korábbi konfigurációk megőrzése | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 42. | 3.3.6.2.4. | Magas kockázatú területek konfigurálása | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 43. | 3.3.6.2.5. | Automatikus támogatás | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 44. | 3.3.6.3. | A konfigurációváltozások felügyelete (változáskezelés) | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 45. | 3.3.6.3.2. | Előzetes tesztelés és megerősítés | 0 | 0 | X | X | 0 | 0 | X | X | 0 | X | X | X |
+
+| 46. | 3.3.6.3.3. | Automatikus támogatás | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 47. | 3.3.6.4. | Biztonsági hatásvizsgálat | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 48. | 3.3.6.4.2. | Elkülönített teszt környezet | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 49. | 3.3.6.5. | A változtatásokra vonatkozó hozzáférés korlátozások | 0 | 0 | 0 | 0 | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 50. | 3.3.6.5.2. | Automatikus támogatás | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X | 0 | 0 | 0 | 0 |
+
+| 51. | 3.3.6.5.3. | Felülvizsgálat | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X | 0 | 0 | 0 | 0 |
+
+| 52. | 3.3.6.5.4. | Aláírt elemek | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X | 0 | 0 | 0 | 0 |
+
+| 53. | 3.3.6.6. | Konfigurációs beállítások | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 54. | 3.3.6.6.2. | Automatikus támogatás | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 55. | 3.3.6.6.3. | Reagálás jogosulatlan változásokra | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 56. | 3.3.6.7. | Legszűkebb funkcionalitás | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 57. | 3.3.6.7.2. | Rendszeres felülvizsgálat | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 58. | 3.3.6.7.3. | Nem futtatható szoftverek | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 59. | 3.3.6.7.4. | Futtatható szoftverek | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 60. | 3.3.6.8. | Elektronikus információs rendszerelem leltár | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 61. | 3.3.6.8.2. | Frissítés | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 62. | 3.3.6.8.3. | Jogosulatlan elemek automatikus észlelése | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | X | X |
+
+| 63. | 3.3.6.8.4. | Duplikálás elleni védelem | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | X | X |
+
+| 64. | 3.3.6.8.5. | Automatikus támogatás | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 65. | 3.3.6.8.6. | Naplózás | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 66. | 3.3.6.9. | Konfigurációkezelési terv | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 67. | 3.3.6.10. | A szoftver használat korlátozásai | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 68. | 3.3.6.11. | A felhasználó által telepített szoftverek | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 69. | 3.3.7. | Karbantartás |
+
+| 70. | 3.3.7.1. | Rendszer karbantartási eljárásrend | 0 | 0 | 0 | 0 | X | X | X | X | X | X | X | X |
+
+| 71. | 3.3.7.2. | Rendszeres karbantartás | 0 | 0 | 0 | 0 | X | X | X | X | X | X | X | X |
+
+| 72. | 3.3.7.2.2. | Automatikus támogatás | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 73. | 3.3.7.3. | Karbantartási eszközök | 0 | 0 | 0 | 0 | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 74. | 3.3.7.3.2. | Adathordozó ellenőrzés | 0 | 0 | 0 | 0 | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 75. | 3.3.7.4. | Távoli karbantartás | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 76. | 3.3.7.4.2. | Dokumentálás | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 77. | 3.3.7.4.3. | Összehasonlítható biztonság | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 78. | 3.3.8. | Adathordozók védelme |
+
+| 79. | 3.3.8.1. | Adathordozók védelmére vonatkozó eljárásrend | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 80. | 3.3.8.2. | Hozzáférés az adathordozókhoz | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 81. | 3.3.8.3. | Adathordozók címkézése | 0 | 0 | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 82. | 3.3.8.4. | Adathordozók tárolása | 0 | 0 | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 83. | 3.3.8.5. | Adathordozók szállítása | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 84. | 3.3.8.5.2. | Kriptográfiai védelem | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 85. | 3.3.8.6. | Adathordozók törlése | X | X | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 86. | 3.3.8.6.2. | Ellenőrzés | 0 | 0 | 0 | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 87. | 3.3.8.6.3. | Tesztelés | 0 | 0 | 0 | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 88. | 3.3.8.6.4. | Törlés megsemmisítés nélkül | 0 | 0 | 0 | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 89. | 3.3.8.7. | Adathordozók használata | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 90. | 3.3.8.7.2. | Ismeretlen tulajdonos | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 91. | 3.3.9. | Azonosítás és hitelesítés |
+
+| 92. | 3.3.9.1. | Azonosítási és hitelesítési eljárásrend | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 93. | 3.3.9.2. | Azonosítás és hitelesítés | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 94. | 3.3.9.2.2. | Hálózati hozzáférés privilegizált fiókokhoz | 0 | X | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 95. | 3.3.9.2.3. | Hálózati hozzáférés nem privilegizált fiókokhoz | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 96. | 3.3.9.2.4. | Helyi hozzáférés privilegizált fiókokhoz | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 97. | 3.3.9.2.5. | Visszajátszás-védelem | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 98. | 3.3.9.2.6. | Távoli hozzáférés – külön eszköz | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 99. | 3.3.9.2.7. | Helyi hozzáférés nem privilegizált fiókokhoz | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | X | X |
+
+| 100. | 3.3.9.2.8. | Visszajátszás ellen védett hálózati hozzáférés nem privilegizált fiókokhoz | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | X | X |
+
+| 101. | 3.3.9.3. | Eszközök azonosítása és hitelesítése | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 102. | 3.3.9.4. | Azonosító kezelés | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 103. | 3.3.9.5. | A hitelesítésre szolgáló eszközök kezelése | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 104. | 3.3.9.5.2. | Jelszó (tudás) alapú hitelesítés | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 105. | 3.3.9.5.3. | Birtoklás alapú hitelesítés | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 106. | 3.3.9.5.4. | Tulajdonság alapú hitelesítés | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 107. | 3.3.9.5.5. | Személyes vagy megbízható harmadik fél általi regisztráció | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 108. | 3.3.9.6. | A hitelesítésre szolgáló eszköz visszacsatolása | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 109. | 3.3.9.7. | Hitelesítés kriptográfiai modul esetén | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 110. | 3.3.9.8. | Azonosítás és hitelesítés (szervezeten kívüli felhasználók) | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 111. | 3.3.9.8.2. | Hitelesítés szolgáltatók tanúsítványának elfogadása | 0 | X | X | X | X | X | X | X | X | X | X | X |
+
+| 112. | 3.3.10. | Hozzáférés ellenőrzése |
+
+| 113. | 3.3.10.1. | Hozzáférés ellenőrzési eljárásrend | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 114. | 3.3.10.2. | Felhasználói fiókok kezelése | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 115. | 3.3.10.2.2. | Automatikus kezelés | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 116. | 3.3.10.2.3. | Ideiglenes fiókok eltávolítása | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 117. | 3.3.10.2.4. | Inaktív fiókok letiltása | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 118. | 3.3.10.2.5. | Automatikus naplózás | 0 | 0 | X | X | 0 | 0 | 0 | X | 0 | 0 | X | X |
+
+| 119. | 3.3.10.2.6. | Kiléptetés | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 120. | 3.3.10.2.7. | Szokatlan használat | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 121. | 3.3.10.2.8. | Letiltás | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 122. | 3.3.10.3. | Hozzáférés ellenőrzés érvényesítése | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 123. | 3.3.10.4. | Információáramlás ellenőrzés érvényesítése | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 124. | 3.3.10.5. | A felelősségek szétválasztása | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 125. | 3.3.10.6. | Legkisebb jogosultság elve | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 126. | 3.3.10.6.2. | Jogosult hozzáférés a biztonsági funkciókhoz | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 127. | 3.3.10.6.3. | Nem privilegizált hozzáférés a biztonsági funkciókhoz | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 128. | 3.3.10.6.4. | Privilegizált fiókok | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 129. | 3.3.10.6.5. | Privilegizált funkciók használatának naplózása | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 130. | 3.3.10.6.6. | Privilegizált funkciók tiltása nem privilegizált felhasználóknak | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 131. | 3.3.10.6.7. | Hálózati hozzáférés a privilegizált parancsokhoz | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 132. | 3.3.10.7. | Sikertelen bejelentkezési kísérletek | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 133. | 3.3.10.8. | A rendszerhasználat jelzése | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 134. | 3.3.10.9. | Egyidejű munkaszakasz kezelés | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 135. | 3.3.10.10. | A munkaszakasz zárolása | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 136. | 3.3.10.10.2. | Képernyőtakarás | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 137. | 3.3.10.11. | A munkaszakasz lezárása | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 138. | 3.3.10.12. | Azonosítás vagy hitelesítés nélkül engedélyezett tevékenységek | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 139. | 3.3.10.13. | Távoli hozzáférés | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 140. | 3.3.10.13.2. | Ellenőrzés | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 141. | 3.3.10.13.3. | Titkosítás | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 142. | 3.3.10.13.4. | Hozzáférés ellenőrzési pontok | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 143. | 3.3.10.13.5. | Privilegizált parancsok elérése | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 144. | 3.3.10.14. | Vezeték nélküli hozzáférés | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 145. | 3.3.10.14.2. | Hitelesítés és titkosítás | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 146. | 3.3.10.14.3. | Felhasználó konfigurálás tiltása | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 147. | 3.3.10.14.4. | Antennák | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 148. | 3.3.10.15. | Mobil eszközök hozzáférés ellenőrzése | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 149. | 3.3.10.15.2. | Titkosítás | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 150. | 3.3.10.16. | Külső elektronikus információs rendszerek használata | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 151. | 3.3.10.16.2. | Korlátozott használat | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 152. | 3.3.10.16.3. | Hordozható adattároló eszközök | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 153. | 3.3.10.17. | Információ megosztás | 0 | 0 | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 154. | 3.3.10.18. | Nyilvánosan elérhető tartalom | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 155. | 3.3.11. | Rendszer és információ sértetlenség |
+
+| 156. | 3.3.11.2. | Rendszer és információ sértetlenségre vonatkozó eljárásrend | 0 | 0 | 0 | 0 | X | X | X | X | 0 | 0 | 0 | 0 |
+
+| 157. | 3.3.11.3. | Hibajavítás | 0 | 0 | 0 | 0 | X | X | X | X | 0 | 0 | 0 | 0 |
+
+| 158. | 3.3.11.3.2. | Automatizált hibajavítási állapot | 0 | 0 | 0 | 0 | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 159. | 3.3.11.3.3. | Központi kezelés | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X | 0 | 0 | 0 | 0 |
+
+| 160. | 3.3.11.4. | Kártékony kódok elleni védelem | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 161. | 3.3.11.4.2. | Központi kezelés | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 162. | 3.3.11.4.3. | Automatikus frissítés | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 163. | 3.3.11.5. | Az elektronikus információs rendszer felügyelete | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 164. | 3.3.11.5.2. | Automatizálás | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 165. | 3.3.11.5.3. | Felügyelet | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 166. | 3.3.11.5.4. | Riasztás | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 167. | 3.3.11.6. | Biztonsági riasztások és tájékoztatások | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 168. | 3.3.11.6.2. | Automatikus riasztások | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 169. | 3.3.11.7. | A biztonsági funkcionalitás ellenőrzése | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | 0 |
+
+| 170. | 3.3.11.8. | Szoftver és információ sértetlenség | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 171. | 3.3.11.8.2. | Sértetlenség ellenőrzés | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 172. | 3.3.11.8.3. | Észlelés és reagálás | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 173. | 3.3.11.8.4. | Automatikus értesítés | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 174. | 3.3.11.8.5. | Automatikus reagálás | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 175. | 3.3.11.8.6. | Végrehajtható kód | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 176. | 3.3.11.9. | Kéretlen üzenetek elleni védelem | 0 | 0 | 0 | 0 | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 177. | 3.3.11.9.2. | Központi kezelés | 0 | 0 | 0 | 0 | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 178. | 3.3.11.9.3. | Frissítés | 0 | 0 | 0 | 0 | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 179. | 3.3.11.10. | Bemeneti információ ellenőrzés | 0 | 0 | 0 | 0 | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 180. | 3.3.11.11. | Hibakezelés | 0 | 0 | 0 | 0 | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 181. | 3.3.11.12. | A kimeneti információ kezelése és megőrzése | X | X | X | X | X | X | X | X | 0 | 0 | 0 | 0 |
+
+| 182. | 3.3.11.13. | Memória védelem | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 183. | 3.3.12. | Naplózás és elszámoltathatóság |
+
+| 184. | 3.3.12.1. | Naplózási eljárásrend | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 185. | 3.3.12.2. | Naplózható események | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 186. | 3.3.12.2.2. | Felülvizsgálat | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 187. | 3.3.12.3. | Naplóbejegyzések tartalma | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 188. | 3.3.12.3.2. | Kiegészítő információk | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 189. | 3.3.12.3.3. | Központi kezelés | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 190. | 3.3.12.4. | Napló tárkapacitás | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 191. | 3.3.12.5. | Naplózási hiba kezelése | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 192. | 3.3.12.5.2. | Naplózási tárhely ellenőrzés | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 193. | 3.3.12.5.3. | Valósidejű riasztás | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 194. | 3.3.12.6. | Naplóvizsgálat és jelentéskészítés | 0 | X | X | X | 0 | X | X | X | 0 | X | X | X |
+
+| 195. | 3.3.12.6.2. | Folyamatba illesztés | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | X | X |
+
+| 196. | 3.3.12.6.3. | Összegzés | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | X | X |
+
+| 197. | 3.3.12.6.4. | Felügyeleti képességek integrálása | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 198. | 3.3.12.6.5. | Összekapcsolás a fizikai hozzáférési információkkal | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 199. | 3.3.12.7. | Naplócsökkentés és jelentéskészítés | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 200. | 3.3.12.7.2. | Automatikus feldolgozás | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 201. | 3.3.12.8. | Időbélyegek | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 202. | 3.3.12.8.2. | Szinkronizálás | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 203. | 3.3.12.9. | A naplóinformációk védelme | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 204. | 3.3.12.9.2. | Hozzáférés korlátozás | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X | 0 | 0 | X | X |
+
+| 205. | 3.3.12.9.3. | Fizikailag elkülönített mentés | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 206. | 3.3.12.9.4. | Kriptográfiai védelem | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X | 0 | 0 | 0 | 0 |
+
+| 207. | 3.3.12.10. | Letagadhatatlanság | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 208. | 3.3.12.11. | A naplóbejegyzések megőrzése | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 209. | 3.3.12.12. | Naplógenerálás | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 210. | 3.3.12.12.2. | Rendszerszintű időalap napló | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 211. | 3.3.12.12.3. | Változtatások | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 212. | 3.3.13. | Rendszer- és kommunikáció védelem |
+
+| 213. | 3.3.13.1. | Rendszer- és kommunikáció védelmi eljárásrend | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 214. | 3.3.13.2. | Alkalmazás szétválasztás | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | X | X |
+
+| 215. | 3.3.13.3. | Biztonsági funkciók elkülönítése | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 216. | 3.3.13.4. | Információmaradványok | 0 | 0 | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 217. | 3.3.13.5. | Túlterhelés – szolgáltatás megtagadás alapú támadás – elleni védelem | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X | X | X |
+
+| 218. | 3.3.13.6. | A határok védelme | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 219. | 3.3.13.6.2. | Hozzáférési pontok | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | X | X |
+
+| 220. | 3.3.13.6.3. | Külső kommunikációs szolgáltatások | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | X | X |
+
+| 221. | 3.3.13.6.4. | Alapeseti visszautasítás | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | X | X |
+
+| 222. | 3.3.13.6.5. | Távoli készülékek megosztott csatornahasználatának tiltása | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | X | X |
+
+| 223. | 3.3.13.6.6. | Hitelesített proxy kiszolgálók | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 224. | 3.3.13.6.7. | Biztonsági hibaállapot | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 225. | 3.3.13.6.8. | Rendszerelemek elkülönítése | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 226. | 3.3.13.7. | Az adatátvitel bizalmassága | 0 | 0 | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 227. | 3.3.13.7.2. | Kriptográfiai vagy egyéb védelem | 0 | 0 | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 228. | 3.3.13.8. | Az adatátvitel sértetlensége | 0 | 0 | 0 | 0 | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 229. | 3.3.13.8.2. | Kriptográfiai vagy egyéb védelem | 0 | 0 | 0 | 0 | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 230. | 3.3.13.9. | A hálózati kapcsolat megszakítása | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | X | X |
+
+| 231. | 3.3.13.10. | Kriptográfiai kulcs előállítása és kezelése | X | X | X | X | X | X | X | X | X | X | X | X |
+
+| 232. | 3.3.13.10.2. | Rendelkezésre állás | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 233. | 3.3.13.11. | Kriptográfiai védelem | X | X | X | X | X | X | X | X | 0 | 0 | 0 | 0 |
+
+| 234. | 3.3.13.12. | Együttműködésen alapuló számítástechnikai eszközök | X | X | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 235. | 3.3.13.13. | Nyilvános kulcsú infrastruktúra tanúsítványok | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 236. | 3.3.13.14. | Mobilkód korlátozása | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 237. | 3.3.13.15. | Elektronikus Információs rendszeren keresztüli hangátvitel (úgynevezett VoIP) | 0 | 0 | X | X | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 238. | 3.3.13.16. | Biztonságos név/cím feloldó szolgáltatások (úgynevezett hiteles forrás) | 0 | 0 | 0 | 0 | 0 | X | X | X | 0 | 0 | 0 | 0 |
+
+| 239. | 3.3.13.17. | Biztonságos név/cím feloldó szolgáltatás (úgynevezett rekurzív vagy gyorsító tárat használó feloldás) | 0 | 0 | 0 | 0 | 0 | X | X | X | 0 | 0 | 0 | 0 |
+
+| 240. | 3.3.13.18. | Architektúra és tartalékok név/cím feloldási szolgáltatás esetén | 0 | 0 | 0 | 0 | 0 | X | X | X | 0 | 0 | 0 | 0 |
+
+| 241. | 3.3.13.19. | Munkaszakasz hitelessége | 0 | 0 | 0 | 0 | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 242. | 3.3.13.20. | Hibát követő ismert állapot | 0 | 0 | 0 | X | 0 | 0 | 0 | X | 0 | 0 | 0 | X |
+
+| 243. | 3.3.13.21. | A maradvány információ védelme | 0 | 0 | X | X | 0 | 0 | X | X | 0 | 0 | 0 | 0 |
+
+| 244. | 3.3.13.22. | A folyamatok elkülönítése | X | X | X | X | X | X | X | X | 0 | 0 | 0 | 0 |
+
 4. melléklet a 41/2015. (VII. 15.) BM rendelethez
 
-## AZ ADMINISZTRATÍV, FIZIKAI ÉS LOGIKAI BIZTONSÁGI KÖVETELMÉNYEK
+AZ ADMINISZTRATÍV, FIZIKAI ÉS LOGIKAI BIZTONSÁGI KÖVETELMÉNYEK
 
 1. ELTÉRÉSEK
 
@@ -48,7 +608,7 @@ Az érintett szervezetnek az alábbi lehetséges eltérésekkel és helyettesít
 
 1.2.7.1.4. nem befolyásolja a biztonsági szempontból fontos információkat az elektronikus információs rendszeren belül.
 
-1.2.7.2.[^2] Az elektronikus információs rendszer dokumentáltan elkülönített, informatikai biztonsági szempontból önállóan értékelhető elemei tekintetében a biztonsági intézkedések a szervezet által elfogadott kockázatelemzési és kockázatkezelési eljárásrendben rögzített vizsgálatot követően, külön-külön egyedi eltérésekkel is alkalmazhatóak, ha az elkülönített elemek közötti határvédelemről gondoskodtak. A határvédelem megfelelőségét, valamint az egyedi eltérések okát és mértékét dokumentálni és meghatározott gyakorisággal felülvizsgálni szükséges.
+1.2.7.2.[^4] Az elektronikus információs rendszer dokumentáltan elkülönített, informatikai biztonsági szempontból önállóan értékelhető elemei tekintetében a biztonsági intézkedések a szervezet által elfogadott kockázatelemzési és kockázatkezelési eljárásrendben rögzített vizsgálatot követően, külön-külön egyedi eltérésekkel is alkalmazhatóak, ha az elkülönített elemek közötti határvédelemről gondoskodtak. A határvédelem megfelelőségét, valamint az egyedi eltérések okát és mértékét dokumentálni és meghatározott gyakorisággal felülvizsgálni szükséges.
 
 2. HELYETTESÍTŐ BIZTONSÁGI INTÉZKEDÉSEK
 
@@ -1604,918 +2164,4 @@ Kriptográfiai mechanizmusokat kell alkalmazni a digitális adathordozókon tár
 
 3.3.8.6.1.2. a törlési mechanizmusokat az információ minősítési kategóriájával arányos erősségnek és sértetlenségnek megfelelően alkalmazza.
 
-3.3.8.6.2. Ellenőrzés
-
-Az érintett szervezet felülvizsgálja, jóváhagyja, nyomon követi, dokumentálja, és ellenőrzi az adathordozók törlésével és megsemmisítésével kapcsolatos tevékenységeket.
-
-3.3.8.6.3. Tesztelés
-
-A törlésre alkalmazott eszközöket és eljárásokat meghatározott gyakorisággal tesztelni kell.
-
-3.3.8.6.4. Törlés megsemmisítés nélkül
-
-Nem romboló törlési technikák alkalmazhatók a meghatározott hordozható tárolóeszközökre, mielőtt ilyen eszközöket az elektronikus információs rendszerhez csatolnak.
-
-3.3.8.7. Adathordozók használata
-
-3.3.8.7.1. Az érintett szervezet engedélyezi, korlátozza, vagy tiltja egyes, vagy bármely adathordozó típusok használatát a meghatározott elektronikus információs rendszereken vagy rendszerelemeken működő biztonsági intézkedések használatával.
-
-3.3.8.7.2. Ismeretlen tulajdonos
-
-Az érintett szervezet megtiltja az olyan hordozható adathordozók használatát az elektronikus információs rendszerben, melyek tulajdonosa nem azonosítható.
-
-3.3.9. AZONOSÍTÁS ÉS HITELESÍTÉS
-
-3.3.9.1. Azonosítási és hitelesítési eljárásrend
-
-3.3.9.1.1. Az érintett szervezet:
-
-3.3.9.1.1.1. megfogalmazza, és az érintett szervezetre érvényes követelmények szerint dokumentálja, valamint az érintett szervezeten belül kihirdeti az azonosítási és hitelesítésre vonatkozó eljárásrendet, mely az azonosítási és hitelesítési szabályzat és az ahhoz kapcsolódó ellenőrzések megvalósítását segíti elő;
-
-3.3.9.1.1.2. az azonosítási és hitelesítésre vonatkozó eljárásrendben vagy más belső szabályozásában meghatározott gyakorisággal felülvizsgálja és frissíti az azonosítási és hitelesítésre vonatkozó eljárásrendet.
-
-3.3.9.2. Azonosítás és hitelesítés
-
-3.3.9.2.1. Az elektronikus információs rendszer egyedileg azonosítja és hitelesíti a szervezet felhasználóit, a felhasználók által végzett tevékenységet.
-
-3.3.9.2.2. Hálózati hozzáférés privilegizált fiókokhoz
-
-Az elektronikus információs rendszer többtényezős hitelesítést alkalmaz a különleges jogosultsághoz kötött - úgynevezett privilegizált - felhasználói fiókokhoz való hálózaton keresztüli hozzáféréshez.
-
-3.3.9.2.3. Hálózati hozzáférés nem privilegizált fiókokhoz
-
-Az elektronikus információs rendszer többtényezős hitelesítést alkalmaz a nem privilegizált felhasználói fiókokhoz való hálózaton keresztüli hozzáféréshez.
-
-3.3.9.2.4. Helyi hozzáférés privilegizált fiókokhoz
-
-Az elektronikus információs rendszer többtényezős hitelesítést alkalmaz a privilegizált felhasználói fiókokhoz való helyi hozzáféréshez.
-
-3.3.9.2.5. Visszajátszás-védelem
-
-Az elektronikus információs rendszer visszajátszás elleni védelmet biztosító hitelesítési mechanizmusokat alkalmaz a privilegizált felhasználói fiókokhoz való hálózaton keresztüli hozzáféréshez.
-
-3.3.9.2.6. Távoli hozzáférés - külön eszköz
-
-Az elektronikus információs rendszer többtényezős hitelesítést alkalmaz a felhasználói fiókokhoz való távoli hozzáféréshez, és az egyik hozzáférést megelőző tényező egy, az elektronikus információs rendszertől elkülönülő olyan eszköz, amelyen a meghatározott biztonsági követelmények teljesülnek.
-
-3.3.9.2.7. Helyi hozzáférés nem privilegizált fiókokhoz
-
-Az elektronikus információs rendszer többtényezős hitelesítést alkalmaz a nem privilegizált felhasználói fiókokhoz való helyi hozzáféréshez.
-
-3.3.9.2.8. Visszajátszás ellen védett hálózati hozzáférés nem privilegizált fiókokhoz
-
-Az elektronikus információs rendszer visszajátszás elleni védelmet biztosító hitelesítési mechanizmusokat alkalmaz a nem privilegizált felhasználói fiókokhoz való hálózaton keresztüli hozzáféréshez.
-
-3.3.9.3. Eszközök azonosítása és hitelesítése
-
-Az elektronikus információs rendszer egyedileg azonosítja és hitelesíti a meghatározott eszközöket, vagy eszköz típusokat mielőtt helyi vagy távoli hálózati kapcsolatot létesítene velük.
-
-3.3.9.4. Azonosító kezelés
-
-3.3.9.4.1. Az érintett szervezet:
-
-3.3.9.4.1.1. az egyéni-, csoport-, szerepkör- vagy eszközazonosítók kijelölését a szervezet által meghatározott személyek vagy szerepkörök jogosultságához köti;
-
-3.3.9.4.1.2. hozzárendeli az azonosítót a kívánt egyénhez, csoporthoz, szerepkörhöz vagy eszközhöz;
-
-3.3.9.4.1.3. meghatározott időtartamig megakadályozza az azonosítók ismételt felhasználását;
-
-3.3.9.4.1.4. meghatározott időtartamú inaktivitás esetén letiltja az azonosítót.
-
-3.3.9.5. A hitelesítésre szolgáló eszközök kezelése
-
-3.3.9.5.1. Az érintett szervezet:
-
-3.3.9.5.1.1. ellenőrzi a hitelesítésre szolgáló eszközök kiosztásakor az eszközt átvevő egyén, csoport, szerepkör vagy eszköz jogosultságát;
-
-3.3.9.5.1.2. meghatározza a hitelesítésre szolgáló eszköz kezdeti tartalmát;
-
-3.3.9.5.1.3. biztosítja a hitelesítésre szolgáló eszköz tervezett felhasználásának megfelelő jogosultságokat;
-
-3.3.9.5.1.4. dokumentálja a hitelesítésre szolgáló eszközök kiosztását, visszavonását, cseréjét, az elvesztett, vagy a kompromittálódott, vagy a sérült eszközöket;
-
-3.3.9.5.1.5. megváltoztatja a hitelesítésre szolgáló eszközök alapértelmezés szerinti értékét az elektronikus információs rendszer telepítése során;
-
-3.3.9.5.1.6. meghatározza a hitelesítésre szolgáló eszközök minimális és maximális használati idejét, valamint ismételt felhasználhatóságának feltételeit;
-
-3.3.9.5.1.7. a hitelesítésre szolgáló eszköz típusra meghatározott időnként megváltoztatja vagy frissíti a hitelesítésre szolgáló eszközöket;
-
-3.3.9.5.1.8. megvédi a hitelesítésre szolgáló eszközök tartalmát a jogosulatlan felfedéstől és módosítástól;
-
-3.3.9.5.1.9. megköveteli a hitelesítésre szolgáló eszközök felhasználóitól, hogy védjék eszközeik bizalmasságát, sértetlenségét;
-
-3.3.9.5.1.10. lecseréli a hitelesítésre szolgáló eszközt az érintett fiókok megváltoztatásakor.
-
-3.3.9.5.2. Jelszó (tudás) alapú hitelesítés
-
-3.3.9.5.2.1. Az érintett szervezet:
-
-3.3.9.5.2.1.1. a jelszóra a következő elvárásokat érvényesíti: kis- és nagybetűk megkülönböztetése; a karakterek számának meghatározása; a kisbetűk, nagybetűk, számok és speciális karakterek, és minimális jelszóhosszúság;
-
-3.3.9.5.2.1.2. meghatározott szám karakterváltozást kényszerít ki új jelszó létrehozásakor;
-
-3.3.9.5.2.1.3. a jelszavakat nem tárolja (ide nem értve az irreverzibilis kriptográfiai hasító függvénnyel a jelszóból képzett hasító érték tárolást), és nem továbbítja;
-
-3.3.9.5.2.1.4. a jelszavakra minimális és maximális élettartam korlátozást juttat érvényre úgy, hogy meghatározott számú új jelszóig megtiltja a jelszavak ismételt felhasználását, és a rendszerbe első lépést lehetővé tevő ideiglenes jelszó lecserélésére kötelez.
-
-3.3.9.5.3. Birtoklás alapú hitelesítés
-
-3.3.9.5.3.1. Az érintett szervezet:
-
-3.3.9.5.3.1.1. az elektronikus információs rendszer hardver token alapú hitelesítése esetén olyan mechanizmusokat alkalmaz, amely megfelel az érintett szervezet által meghatározott minőségi követelményeknek, vagy
-
-3.3.9.5.3.1.2. az elektronikus információs rendszer nyilvános kulcsú infrastruktúra alapú hitelesítés esetén:
-
-3.3.9.5.3.1.2.1. ellenőrzi a tanúsítványokat egy elfogadott megbízható pontig tartó tanúsítványlánc felépítésével és ellenőrzésével, beleértve a tanúsítvány állapot információ ellenőrzését is;
-
-3.3.9.5.3.1.2.2. kikényszeríti a megfelelő magánkulcshoz való jogosult hozzáférést;
-
-3.3.9.5.3.1.2.3. összekapcsolja a hitelesített azonosságot az egyéni vagy csoport fiókkal;
-
-3.3.9.5.3.1.2.4. megvalósítja a visszavonási adatok helyi tárolását a tanúsítványlánc felépítésének és ellenőrzésének támogatására arra az esetre, amikor a visszavonási információk a hálózaton keresztül nem elérhetők.
-
-3.3.9.5.4. Tulajdonság alapú hitelesítés
-
-Az érintett szervezet a felhasználó egyedi azonosítást lehetővé tevő tulajdonságai alapján végzi el az azonosítást.
-
-3.3.9.5.5. Személyes vagy megbízható harmadik fél általi regisztráció
-
-Az érintett szervezet meghatározott hitelesítő eszköz átvételéhez megkövetel egy olyan regisztrációs eljárást, melyet meghatározott regisztrációs szervezet folytat le az érintett szervezet által meghatározott személyek vagy szerepkörök jóváhagyása mellett.
-
-3.3.9.6. A hitelesítésre szolgáló eszköz visszacsatolása
-
-Az elektronikus információs rendszer fedett visszacsatolást biztosít a hitelesítési folyamat során, hogy megvédje a hitelesítési információt jogosulatlan személyek esetleges felfedésétől, felhasználásától.
-
-3.3.9.7. Hitelesítés kriptográfiai modul esetén
-
-Az elektronikus információs rendszer egy adott kriptográfiai modulhoz való hitelesítésre olyan mechanizmusokat használ, amelyek megfelelnek a kriptográfiai modul hitelesítési útmutatójának.
-
-3.3.9.8. Azonosítás és hitelesítés (szervezeten kívüli felhasználók)
-
-3.3.9.8.1. Az elektronikus információs rendszer egyedileg azonosítja és hitelesíti az érintett szervezeten kívüli felhasználókat és tevékenységüket.
-
-3.3.9.8.2. Hitelesítésszolgáltatók tanúsítványának elfogadása
-
-Az elektronikus információs rendszer csak a Nemzeti Média- és Hírközlési Hatóság elektronikus aláírással kapcsolatos nyilvántartásában szereplő hitelesítésszolgáltatók által kibocsátott tanúsítványokat fogadhatja el az érintett szervezeten kívüli felhasználók hitelesítéséhez.
-
-3.3.10. HOZZÁFÉRÉS ELLENŐRZÉSE
-
-3.3.10.1. Hozzáférés ellenőrzési eljárásrend
-
-3.3.10.1.1. Az érintett szervezet:
-
-3.3.10.1.1.1. megfogalmazza, és az érintett szervezetre érvényes követelmények szerint dokumentálja, valamint az érintett szervezeten belül kihirdeti a hozzáférés ellenőrzési eljárásrendet, mely a hozzáférés ellenőrzési szabályzat és az ahhoz kapcsolódó ellenőrzések megvalósítását segíti elő;
-
-3.3.10.1.1.2. a hozzáférés védelmére vonatkozó eljárásrendben vagy más belső szabályozásában meghatározott gyakorisággal felülvizsgálja és frissíti a hozzáférések védelmére vonatkozó eljárásrendet.
-
-3.3.10.2. Felhasználói fiókok kezelése
-
-3.3.10.2.1. Az érintett szervezet:
-
-3.3.10.2.1.1. meghatározza és azonosítja az elektronikus információs rendszer felhasználói fiókjait és ezek típusait;
-
-3.3.10.2.1.2. kijelöli a felhasználói fiókok fiókkezelőit;
-
-3.3.10.2.1.3. kialakítja a csoport- és szerepkör tagsági feltételeket;
-
-3.3.10.2.1.4. meghatározza az elektronikus információs rendszer jogosult felhasználóit, a csoport- és szerepkör tagságot és a hozzáférési jogosultságokat, valamint (szükség esetén) az egyes felhasználói fiókok további jellemzőit;
-
-3.3.10.2.1.5. létrehozza, engedélyezi, módosítja, letiltja, és eltávolítja a felhasználói fiókokat a meghatározott eljárásokkal vagy feltételekkel összhangban;
-
-3.3.10.2.1.6. ellenőrzi a felhasználói fiókok használatát;
-
-3.3.10.2.1.7. értesíti a fiókkezelőket, ha:
-
-3.3.10.2.1.7.1. a felhasználói fiókokra már nincsen szükség,
-
-3.3.10.2.1.7.2. a felhasználók kiléptek vagy áthelyezésre kerültek,
-
-3.3.10.2.1.7.3. az elektronikus információs rendszer használata vagy az ehhez szükséges ismeretek megváltoztak;
-
-3.3.10.2.1.8. feljogosít az elektronikus információs rendszerhez való hozzáférésre:
-
-3.3.10.2.1.8.1. az érvényes hozzáférési engedély,
-
-3.3.10.2.1.8.2. a tervezett rendszerhasználat,
-
-3.3.10.2.1.8.3. az alapfeladatok és funkcióik alapján;
-
-3.3.10.2.1.9. meghatározott gyakorisággal felülvizsgálja a felhasználói fiókokat, a fiókkezelési követelményekkel való összhangot;
-
-3.3.10.2.1.10. kialakít egy folyamatot a megosztott vagy csoport felhasználói fiókokhoz tartozó hitelesítő eszközök vagy adatok újra kibocsátására (ha ilyet alkalmaznak), a csoport tagjainak változása esetére.
-
-3.3.10.2.2. Automatikus kezelés
-
-Az elektronikus információs rendszer automatizált mechanizmusokat alkalmaz az elektronikus információs rendszer fiókjainak kezeléséhez.
-
-3.3.10.2.3. Ideiglenes fiókok eltávolítása
-
-Meghatározott időtartam letelte után az elektronikus információs rendszer automatikusan eltávolítja vagy letiltja az ideiglenes vagy kényszerhelyzetben létrehozott felhasználói fiókokat vagy egyes kijelölt felhasználói fiók típusokat.
-
-3.3.10.2.4. Inaktív fiókok letiltása
-
-Az elektronikus információs rendszer automatikusan letiltja az inaktív fiókokat meghatározott időtartam letelte után.
-
-3.3.10.2.5. Automatikus naplózás
-
-Az elektronikus információs rendszer automatikusan naplózza a fiókok létrehozásával, módosításával, engedélyezésével, letiltásával és eltávolításával kapcsolatos tevékenységeket, és értesíti ezekről a meghatározott személyeket vagy szerepköröket.
-
-3.3.10.2.6. Kiléptetés
-
-Meghatározott időtartamú várható inaktivitás vagy egyéb előre meghatározott esetekben ki kell léptetni a felhasználót.
-
-3.3.10.2.7. Szokatlan használat
-
-Figyelni kell az elektronikus információs rendszer fiókjait az érintett szervezet által meghatározott szokatlan használat szempontjából, és meghatározott személyeknek vagy szerepköröknek jelenteni kell azt.
-
-3.3.10.2.8. Letiltás
-
-Azonnal le kell tiltani a kockázatot jelentő felhasználók fiókjait.
-
-3.3.10.3. Hozzáférés ellenőrzés érvényesítése
-
-Az elektronikus információs rendszer a megfelelő szabályzatokkal összhangban érvényesíti a jóváhagyott jogosultságokat az információkhoz és a rendszer erőforrásaihoz való logikai hozzáféréshez.
-
-3.3.10.4. Információáramlás ellenőrzés érvényesítése
-
-Az elektronikus információs rendszer a megfelelő szabályzatokkal összhangban érvényesíti a jóváhagyott jogosultságokat a rendszeren belüli és a kapcsolódó rendszerek közötti információáramlás ellenőrzéséhez az érintett szervezet által meghatározott információáramlás ellenőrzési szabályoknak megfelelően.
-
-3.3.10.5. A felelősségek szétválasztása
-
-3.3.10.5.1. Az érintett szervezet:
-
-3.3.10.5.1.1. szétválasztja az egyéni felelősségeket;
-
-3.3.10.5.1.2. dokumentálja az egyéni felelősségek szétválasztását;
-
-3.3.10.5.1.3. meghatározza az elektronikus információs rendszer hozzáférés jogosultságait az egyéni felelősségek szétválasztása érdekében.
-
-3.3.10.6. Legkisebb jogosultság elve
-
-3.3.10.6.1. Az elektronikus információs rendszer a legkisebb jogosultság elvét alkalmazza, azaz a felhasználók - vagy a felhasználók tevékenysége - számára csak a számukra kijelölt feladatok végrehajtásához szükséges hozzáféréseket engedélyezi.
-
-3.3.10.6.2. Jogosult hozzáférés a biztonsági funkciókhoz
-
-Az érintett szervezet hozzáférési jogosultságokat biztosít a meghatározott biztonsági funkciókhoz és biztonságkritikus információkhoz.
-
-3.3.10.6.3. Nem privilegizált hozzáférés a biztonsági funkciókhoz
-
-Az érintett szervezet kötelezővé teszi, hogy a szervezet meghatározott biztonsági funkciókhoz vagy biztonságkritikus információkhoz hozzáférési jogosultsággal rendelkező felhasználói a nem biztonsági funkciók használatához nem a különleges jogosultsághoz kötött - úgynevezett privilegizált - fiókjukat vagy szerepkörüket használják.
-
-3.3.10.6.4. Privilegizált fiókok
-
-Az érintett szervezet az elektronikus információs rendszer privilegizált fiókjait meghatározott személyekre vagy szerepkörökre korlátozza.
-
-3.3.10.6.5. Privilegizált funkciók használatának naplózása
-
-Az elektronikus információs rendszer naplózza a privilegizált funkciók végrehajtását.
-
-3.3.10.6.6. Privilegizált funkciók tiltása nem privilegizált felhasználóknak
-
-Az elektronikus információs rendszer megakadályozza, hogy a nem privilegizált felhasználók privilegizált funkciókat hajtsanak végre, ideértve a biztonsági ellenintézkedések kikapcsolását, megkerülését, vagy megváltoztatását.
-
-3.3.10.6.7. Hálózati hozzáférés a privilegizált parancsokhoz
-
-A meghatározott privilegizált parancsok hálózaton keresztüli elérését csak meghatározott üzemeltetési szükséghelyzetben lehet engedélyezni, és az ilyen hozzáférések indoklását dokumentálni kell a rendszerbiztonsági tervben. Privilegizált parancsok csak meghatározott munkaállomásokról, terminálokról, szegmensekről és IP címekről adhatóak ki, mely munkaállomások/terminálok helyiségei fizikai hozzáférés szempontjából normáltól eltérő szintű besorolást kapnak.
-
-3.3.10.7. Sikertelen bejelentkezési kísérletek
-
-3.3.10.7.1. Az elektronikus információs rendszer:
-
-3.3.10.7.1.1. az érintett szervezet által meghatározott esetszám korlátot alkalmaz a felhasználó meghatározott időtartamon belül egymást követő sikertelen bejelentkezési kísérleteire;
-
-3.3.10.7.1.2. ha a sikertelen bejelentkezési kísérletekre felállított esetszám korlátot a felhasználó túllépi, automatikusan zárolja a felhasználói fiókot, vagy csomópontot meghatározott időtartamig, vagy meghatározott módon késlelteti a következő bejelentkezési kísérletet.
-
-3.3.10.8. A rendszerhasználat jelzése
-
-3.3.10.8.1. Az érintett szervezet az elektronikus információs rendszer felhasználásával:
-
-3.3.10.8.1.1. az érintett szervezet által meghatározott rendszer használatra vonatkozó figyelmeztető üzenetet vagy jelzést küld a felhasználó számára a rendszerhez való hozzáférés engedélyezése előtt, mely jelzi, hogy:
-
-3.3.10.8.1.1.1. a felhasználó az érintett szervezet elektronikus információs rendszerét használja;
-
-3.3.10.8.1.1.2. a rendszer használatot figyelhetik, rögzíthetik, naplózhatják;
-
-3.3.10.8.1.1.3. a rendszer jogosulatlan használata tilos, és büntetőjogi vagy polgárjogi felelősségre vonással jár;
-
-3.3.10.8.1.1.4. a rendszer használata egyben a felhasználó előbbiekbe történő beleegyezését is jelenti.
-
-3.3.10.8.2. Az elektronikus információs rendszer a figyelmeztető üzenetet vagy jelzést mindaddig a képernyőn tartja, amíg a felhasználó közvetlen műveletet nem végez az elektronikus információs rendszerbe való bejelentkezéshez vagy további rendszer hozzáféréshez.
-
-3.3.10.8.3. Az elektronikus információs rendszer a nyilvánosan elérhető rendszerek esetén:
-
-3.3.10.8.3.1. kijelzi a rendszer használat feltételeit, mielőtt további hozzáférést biztosít;
-
-3.3.10.8.3.2. ha felügyelet, adatrögzítés vagy naplózás történik, kijelzi, hogy ezek megfelelnek az adatvédelmi szabályoknak;
-
-3.3.10.8.3.3. leírást biztosít a rendszer engedélyezett felhasználásáról.
-
-3.3.10.9. Egyidejű munkaszakasz kezelés
-
-Az érintett szervezet az elektronikus információs rendszerben meghatározott számra korlátozza az egyidejű munkaszakaszok számát, a meghatározott fiókok vagy fiók típusok számára külön-külön.
-
-3.3.10.10. A munkaszakasz zárolása
-
-3.3.10.10.1. Az érintett szervezet:
-
-3.3.10.10.1.1. meghatározott időtartamú inaktivitás után, vagy a felhasználó erre irányuló lépése esetén a munkaszakasz zárolásával megakadályozza az elektronikus információs rendszerhez való további hozzáférést;
-
-3.3.10.10.1.2. megtartja a munkaszakasz zárolását mindaddig, amíg a felhasználó a megfelelő eljárások alkalmazásával nem azonosítja és hitelesíti magát újra.
-
-3.3.10.10.2. Képernyőtakarás
-
-A munkaszakasz zárolásakor a képernyőn korábban látható információt egy nyilvánosan látható képpel (vagy üres képernyővel), vagy a bejelentkezési felülettel - ami a zároló személy nevét is tartalmazhatja - kell eltakarni.
-
-3.3.10.11. A munkaszakasz lezárása
-
-Az elektronikus információs rendszer automatikusan lezárja a munkaszakaszt az érintett szervezet által meghatározott feltételek vagy munkaszakasz szétkapcsolást igénylő események megtörténte után.
-
-3.3.10.12. Azonosítás vagy hitelesítés nélkül engedélyezett tevékenységek
-
-3.3.10.12.1. Az érintett szervezet:
-
-3.3.10.12.1.1. kijelöli azokat a felhasználói tevékenységeket, amelyeket az elektronikus információs rendszerben azonosítás vagy hitelesítés nélkül is végre lehet hajtani;
-
-3.3.10.12.1.2. dokumentálja és indokolja a rendszerbiztonsági tervben, vagy más szabályzatban az azonosítás vagy hitelesítés nélkül is végrehajtható felhasználói tevékenységeket.
-
-3.3.10.13. Távoli hozzáférés
-
-3.3.10.13.1. Az érintett szervezet:
-
-3.3.10.13.1.1. kidolgozza és dokumentálja minden engedélyezett távoli hozzáférés típusra a felhasználásra vonatkozó korlátozásokat, a konfigurálási vagy a kapcsolódási követelményeket és a megvalósítási útmutatókat;
-
-3.3.10.13.1.2. engedélyezési eljárást folytat le az elektronikus információs rendszerhez történő távoli hozzáférés feltételeként.
-
-3.3.10.13.2. Ellenőrzés
-
-Az elektronikus információs rendszer figyeli és ellenőrzi a távoli hozzáféréseket.
-
-3.3.10.13.3. Titkosítás
-
-Kriptográfiai mechanizmusokat kell alkalmazni a távoli hozzáférés munkaszakaszok bizalmasságának és sértetlenségének a védelmére.
-
-3.3.10.13.4. Hozzáférés ellenőrzési pontok
-
-Minden távoli hozzáférést felügyelt hozzáférés ellenőrzési ponton keresztül kell irányítani az elektronikus információs rendszerben.
-
-3.3.10.13.5. Privilegizált parancsok elérése
-
-3.3.10.13.5.1. Az érintett szervezet:
-
-3.3.10.13.5.1.1. privilegizált parancsok végrehajtásához és biztonságkritikus információk eléréséhez távoli hozzáférést csak meghatározott és elfogadott igény esetén engedélyez;
-
-3.3.10.13.5.1.2. dokumentálja és indokolja a 3.3.10.13.5.1.1. pont szerinti hozzáféréseket a rendszerbiztonsági tervben.
-
-3.3.10.14. Vezeték nélküli hozzáférés
-
-3.3.10.14.1. Az érintett szervezet:
-
-3.3.10.14.1.1. belső szabályozásában felhasználási korlátozásokat, konfigurálásra és kapcsolódásra vonatkozó követelményeket, valamint technikai útmutatót ad ki a vezeték nélküli technológiák kapcsán;
-
-3.3.10.14.1.2. engedélyezési eljárást folytat le a vezeték nélküli hozzáférés feltételeként.
-
-3.3.10.14.2. Hitelesítés és titkosítás
-
-Az érintett szervezet az elektronikus információs rendszerben titkosítással, és a felhasználók, vagy eszközök hitelesítésével védi a vezeték nélküli hozzáférést.
-
-3.3.10.14.3. Felhasználó konfigurálás tiltása
-
-Az érintett szervezet azonosítja a felhasználókat, és csak közvetlen jogosultság birtokában, a védett hálózaton kialakított vezetékes kapcsolaton keresztül teszi lehetővé számukra a vezeték nélküli hálózat független konfigurálását.
-
-3.3.10.14.4. Antennák
-
-Az érintett szervezet olyan karakterisztikájú és teljesítményszintű antennákat és árnyékolási megoldásokat üzemeltet, vagy egyéb technikákat alkalmaz, amelyekkel csökkenti az érintett szervezet fizikai védelmi határain kívül a jelek észlelésének a valószínűségét.
-
-3.3.10.15. Mobil eszközök hozzáférés ellenőrzése
-
-3.3.10.15.1. Az érintett szervezet:
-
-3.3.10.15.1.1. belső szabályozásában felhasználási korlátozásokat, konfigurálásra és kapcsolódásra vonatkozó követelményeket, valamint technikai útmutatót ad ki az általa ellenőrzött mobil eszközökre;
-
-3.3.10.15.1.2. engedélyhez köti az elektronikus információs rendszereihez mobil eszközökkel megvalósított kapcsolódást.
-
-3.3.10.15.2. Titkosítás
-
-Az érintett szervezet teljes eszköztitkosítást, tároló alapú titkosítást, vagy más technológiai eljárást alkalmaz az általa meghatározott mobil eszközökön tárolt információk bizalmasságának és sértetlenségének a védelmére, vagy az információk hozzáférhetetlenné tételére.
-
-3.3.10.16. Külső elektronikus információs rendszerek használata
-
-3.3.10.16.1. Az érintett szervezet:
-
-3.3.10.16.1.1. meghatározza, hogy milyen feltételek és szabályok betartása mellett jogosult a felhasználó egy külső rendszerből hozzáférni az elektronikus információs rendszerhez;
-
-3.3.10.16.1.2. meghatározza, hogy külső elektronikus információs rendszerek segítségével hogyan jogosult a felhasználó feldolgozni, tárolni vagy továbbítani az érintett szervezet által ellenőrzött információkat.
-
-3.3.10.16.2. Korlátozott használat
-
-3.3.10.16.2.1. Az érintett szervezet csak abban az esetben engedélyezi jogosult felhasználóknak egy külső elektronikus információs rendszer felhasználását az elektronikus információs rendszerhez való hozzáférésre, az által ellenőrzött információk feldolgozására, tárolására vagy továbbítására, ha:
-
-3.3.10.16.2.1.1. előzetesen ellenőrzi a szükséges biztonsági intézkedések meglétét a külső rendszeren saját szabályzóinak megfelelő módon; vagy
-
-3.3.10.16.2.1.2. jóváhagyott kapcsolat van az elektronikus információs rendszerek között, vagy megállapodás született a külső elektronikus információs rendszert befogadó szervezettel.
-
-3.3.10.16.3. Hordozható adattároló eszközök
-
-Az érintett szervezet korlátozza vagy megtiltja az ellenőrzött hordozható tárolóeszközök használatát külső elektronikus információs rendszerben is jogosultsággal rendelkező személyek számára.
-
-3.3.10.17. Információmegosztás
-
-3.3.10.17.1. Az érintett szervezet:
-
-3.3.10.17.1.1. elősegíti az információmegosztást azzal, hogy engedélyezi a jogosult felhasználóknak eldönteni, hogy a megosztásban résztvevő partnerhez rendelt jogosultságok megfelelnek-e az információra vonatkozó hozzáférési korlátozásoknak, olyan meghatározott információmegosztási körülmények esetén, amikor felhasználói megítélés szóba jöhet;
-
-3.3.10.17.1.2. automatizált mechanizmusokat vagy kézi folyamatokat alkalmaz arra, hogy segítséget nyújtson a felhasználóknak az információmegosztási vagy együttműködési döntések meghozatalában.
-
-3.3.10.18. Nyilvánosan elérhető tartalom
-
-3.3.10.18.1. Az érintett szervezet:
-
-3.3.10.18.1.1. kijelöli azokat a személyeket, akik jogosultak a nyilvánosan hozzáférhető elektronikus információs rendszeren az érintett szervezettel kapcsolatos bármely információ közzétételére;
-
-3.3.10.18.1.2. a 3.3.10.18.1.1. pont szerinti kijelölt személyeket képzésben részesíti annak biztosítása érdekében, hogy a nyilvánosan hozzáférhető információk ne tartalmazzanak nem nyilvános információkat;
-
-3.3.10.18.1.3. közzététel előtt átvizsgálja a javasolt tartalmat;
-
-3.3.10.18.1.4. meghatározott gyakorisággal átvizsgálja a nyilvánosan hozzáférhető elektronikus információs rendszertartalmat a nem nyilvános információk tekintetében, és eltávolítja azokat.
-
-3.3.11. RENDSZER- ÉS INFORMÁCIÓSÉRTETLENSÉG
-
-3.3.11.1. Ezeket a rendelkezéseket egy adott elektronikus információs rendszer tekintetében abban az esetben kell alkalmazni, ha az adott elektronikus információs rendszert az érintett szervezet üzemelteti. Üzemeltetési szolgáltatási szerződés esetén szerződéses kötelemként kell érvényesíteni a 3.3.11. pontban és alpontjaiban foglaltakat, és azokat a szolgáltatónak kell biztosítania.
-
-3.3.11.2. Rendszer- és információsértetlenségre vonatkozó eljárásrend
-
-3.3.11.2.1. Az érintett szervezet:
-
-3.3.11.2.1.1. megfogalmazza, és az érintett szervezetre érvényes követelmények szerint dokumentálja, valamint az érintett szervezeten belül kihirdeti a rendszer- és információsértetlenségre vonatkozó eljárásrendet, mely a szervezet informatikai biztonsági szabályzatának részét képező, rendszer- és információsértetlenségre vonatkozó szabályzat és az ahhoz kapcsolódó ellenőrzések megvalósítását segíti elő;
-
-3.3.11.2.1.2. a rendszer- és információsértetlenségre vonatkozó eljárásrendben vagy más belső szabályozásában meghatározott gyakorisággal felülvizsgálja, és frissíti a rendszer- és információsértetlenségre vonatkozó eljárásrendet.
-
-3.3.11.3. Hibajavítás
-
-3.3.11.3.1. Az érintett szervezet:
-
-3.3.11.3.1.1. azonosítja, belső eljárásrendje alapján jelenti és kijavítja vagy kijavíttatja az elektronikus információs rendszer hibáit;
-
-3.3.11.3.1.2. telepítés előtt teszteli a hibajavítással kapcsolatos szoftverfrissítéseket az érintett szervezet feladatellátásának hatékonysága, a szóba jöhető következmények szempontjából;
-
-3.3.11.3.1.3. a biztonságkritikus szoftvereket a frissítésük kiadását követő meghatározott időtartamon belül telepíti vagy telepítteti;
-
-3.3.11.3.1.4. beépíti a hibajavítást a konfigurációkezelési folyamatba.
-
-3.3.11.3.2. Automatizált hibajavítási állapot
-
-Az érintett szervezet automatizált mechanizmusokat alkalmaz az elektronikus információs rendszer elemei hibajavítási állapotának meghatározására.
-
-3.3.11.3.3. Központi kezelés
-
-Az érintett szervezet központilag kezeli a hibajavítás folyamatát.
-
-3.3.11.4. Kártékony kódok elleni védelem
-
-3.3.11.4.1. Az érintett szervezet:
-
-3.3.11.4.1.1. az elektronikus információs rendszerét annak belépési és kilépési pontjain védi a kártékony kódok ellen, felderíti és megsemmisíti azokat;
-
-3.3.11.4.1.2. frissíti a kártékony kódok elleni védelmi mechanizmusokat a konfigurációkezelési szabályaival és eljárásaival összhangban minden olyan esetben, amikor kártékony kódirtó rendszeréhez frissítések jelennek meg;
-
-3.3.11.4.1.3. konfigurálja a kártékony kódok elleni védelmi mechanizmusokat úgy, hogy a védelem eszköze:
-
-3.3.11.4.1.3.1. rendszeres ellenőrzéseket hajtson végre az elektronikus információs rendszeren, és hajtsa végre a külső forrásokból származó fájlok valós idejű ellenőrzését a végpontokon, a hálózati belépési vagy kilépési pontokon, a biztonsági szabályzatnak megfelelően, amikor a fájlokat letöltik, megnyitják, vagy elindítják,
-
-3.3.11.4.1.3.2. a kártékony kód észlelése esetén blokkolja vagy helyezze karanténba azt, és riassza a rendszeradminisztrátort és az érintett szervezet által meghatározott további személy(eke)t;
-
-3.3.11.4.1.4. ellenőrzi a téves riasztásokat a kártékony kód észlelése és megsemmisítése során, valamint figyelembe veszi ezek lehetséges kihatását az elektronikus információs rendszer rendelkezésre állására.
-
-3.3.11.4.2. Központi kezelés
-
-Az elektronikus információs rendszer központilag kezeli a kártékony kódok elleni védelmi mechanizmusokat.
-
-3.3.11.4.3. Automatikus frissítés
-
-Az elektronikus információs rendszer automatikusan frissíti a kártékony kódok elleni védelmi mechanizmusokat.
-
-3.3.11.5. Az elektronikus információs rendszer felügyelete
-
-3.3.11.5.1. Az érintett szervezet:
-
-3.3.11.5.1.1. felügyeli az elektronikus információs rendszert, hogy észlelje a kibertámadásokat, vagy a kibertámadások jeleit a meghatározott figyelési céloknak megfelelően, és feltárja a jogosulatlan lokális, hálózati és távoli kapcsolatokat;
-
-3.3.11.5.1.2. azonosítja az elektronikus információs rendszer jogosulatlan használatát;
-
-3.3.11.5.1.3. felügyeleti eszközöket alkalmaz a meghatározott alapvető információk gyűjtésére, és a rendszer ad hoc területeire a potenciálisan fontos, speciális típusú tranzakcióknak a nyomon követésére;
-
-3.3.11.5.1.4. védi a behatolás-felügyeleti eszközökből nyert információkat a jogosulatlan hozzáféréssel, módosítással és törléssel szemben;
-
-3.3.11.5.1.5. erősíti az elektronikus információs rendszer felügyeletét minden olyan esetben, amikor fokozott kockázatra utaló jelet észlel;
-
-3.3.11.5.1.6. meghatározott gyakorisággal biztosítja az elektronikus információs rendszer felügyeleti információkat a meghatározott személyeknek vagy szerepköröknek.
-
-3.3.11.5.2. Automatizálás
-
-Automatizált eszközöket kell alkalmazni az események közel valós idejű vizsgálatának támogatására.
-
-3.3.11.5.3. Felügyelet
-
-Az elektronikus információs rendszer felügyelje a beérkező és kimenő adatforgalmat a szokatlan vagy jogosulatlan tevékenységekre vagy körülményre tekintettel.
-
-3.3.11.5.4. Riasztás
-
-Az elektronikus információs rendszer riassza az érintett szervezet illetékes személyeit, csoportjait, amikor veszélyeztetés vagy lehetséges veszélyeztetés előre meghatározott jeleit észleli.
-
-3.3.11.6. Biztonsági riasztások és tájékoztatások
-
-3.3.11.6.1. Az érintett szervezet:
-
-3.3.11.6.1.1. folyamatosan figyeli a kormányzati eseménykezelő központ által a kritikus hálózatbiztonsági eseményekről és sérülékenységekről közzétett figyelmeztetéseket;
-
-3.3.11.6.1.2. folyamatosan figyelemmel kíséri a Nemzeti Elektronikus Információbiztonsági Hatóságtól érkező értesítéseket;
-
-3.3.11.6.1.3. szükség esetén belső biztonsági riasztást és figyelmeztetést ad ki;
-
-3.3.11.6.1.4. a belső biztonsági riasztást és figyelmeztetést eljuttatja az illetékes személyekhez;
-
-3.3.11.6.1.5. kialakítja és működteti a jogszabályban meghatározott esemény bejelentési kötelezettség rendszerét, és kapcsolatot tart az érintett, külön jogszabályban meghatározott szervekkel;
-
-3.3.11.6.1.6. megfelelő ellenintézkedéseket és válaszlépéseket tesz.
-
-3.3.11.6.2. Automatikus riasztások
-
-Mechanizmusokat kell kialakítani a biztonsági riasztások és figyelmeztetések szervezeten belüli elérhetőségének biztosítására.
-
-3.3.11.7. A biztonsági funkcionalitás ellenőrzése
-
-3.3.11.7.1. Az elektronikus információs rendszer:
-
-3.3.11.7.1.1. ellenőrzi a beállított biztonsági funkciókat az ellenőrzésre jogosult felhasználó utasítására, vagy időszakosan;
-
-3.3.11.7.1.2. értesítést küld az érintett szervezet által meghatározott személyeknek vagy szerepköröknek, ha az ellenőrzés hibát tár fel;
-
-3.3.11.7.1.3. rendellenesség észlelése esetén leállítja a rendszert, az érintett szerv által alkalmazott döntése szerint újraindítja a rendszert, vagy egyéb ellenintézkedést valósít meg.
-
-3.3.11.8. Szoftver- és információsértetlenség
-
-3.3.11.8.1. Az érintett szervezet sértetlenség ellenőrző eszközt alkalmaz a szoftverek és információk jogosulatlan módosításának észlelésére.
-
-3.3.11.8.2. Sértetlenség ellenőrzés
-
-Az elektronikus információs rendszer sértetlenség ellenőrzést hajt végre a meghatározott szoftverekre és információkra, a rendszer újraindításakor, vagy biztonsági esemény bekövetkezését követően, vagy meghatározott gyakorisággal.
-
-3.3.11.8.3. Észlelés és reagálás
-
-Az érintett szervezet beépíti az elektronikus információs rendszer jogosulatlan változtatásainak észlelését a biztonsági eseményekre reagáló eljárásaiba.
-
-3.3.11.8.4. Automatikus értesítés
-
-Az érintett szervezet automatizált eszközöket alkalmaz a meghatározott személyek vagy szerepkörök értesítésére, ha a sértetlenség ellenőrzés rendellenességet tár fel.
-
-3.3.11.8.5. Automatikus reagálás
-
-Az elektronikus információs rendszer automatikusan leállítja vagy újraindítja a rendszert, vagy egyéb intézkedést valósít meg, ha a sértetlenség ellenőrzés rendellenességet tár fel.
-
-3.3.11.8.6. Végrehajtható kód
-
-Az elektronikus információs rendszer megtiltja az olyan bináris vagy gépi kód használatát, amely nem ellenőrzött forrásból származik, vagy amelynek forráskódjával nem rendelkezik.
-
-3.3.11.9. Kéretlen üzenetek elleni védelem
-
-3.3.11.9.1. Az érintett szervezet:
-
-3.3.11.9.1.1. kéretlen üzenetek - úgynevezett levélszemét - elleni védelmet valósít meg az elektronikus információs rendszer belépési és kilépési pontjain, a levélszemét észlelése és kiszűrése érdekében;
-
-3.3.11.9.1.2. új verziók elérhetővé válásakor frissíti a levélszemét elleni védelmi mechanizmusokat, összhangban a konfigurációkezelési szabályzattal és eljárásrenddel.
-
-3.3.11.9.2. Központi kezelés
-
-Az érintett szervezet központi beállításokkal irányítja a levélszemét elleni védelmet.
-
-3.3.11.9.3. Frissítés
-
-Az elektronikus információs rendszer automatikusan frissíti a levélszemét elleni védelmi mechanizmusokat azok újabb verzióival.
-
-3.3.11.10. Bemeneti információ ellenőrzés
-
-Az elektronikus információs rendszer ellenőrzi a meghatározott információ belépési pontok érvényességét.
-
-3.3.11.11. Hibakezelés
-
-3.3.11.11.1. Az elektronikus információs rendszer:
-
-3.3.11.11.1.1. hibajelzéseket generál a hibajavításhoz szükséges információkat biztosítva, ugyanakkor nem nyújt semmi olyan információt, amelyet a támadók kihasználhatnak;
-
-3.3.11.11.1.2. a hibajelzéseket kizárólag a meghatározott személyek vagy szerepkörök számára teszi elérhetővé.
-
-3.3.11.12. A kimeneti információ kezelése és megőrzése
-
-Az érintett szervezet az elektronikus információs rendszer kimeneti információit a jogszabályokkal, szabályzatokkal és az üzemeltetési követelményekkel összhangban kezeli és őrzi meg.
-
-3.3.11.13. Memóriavédelem
-
-Az elektronikus információs rendszerben biztonsági beállításokat kell alkalmazni azért, hogy védje a memóriát a jogosulatlan kódok végrehajtásától.
-
-3.3.12. NAPLÓZÁS ÉS ELSZÁMOLTATHATÓSÁG
-
-3.3.12.1. Naplózási eljárásrend
-
-3.3.12.1.1. Az érintett szervezet:
-
-3.3.12.1.1.1. megfogalmazza, és az érintett szervezetre érvényes követelmények szerint dokumentálja, valamint az érintett szervezeten belül a szabályozásában meghatározott személyek vagy szerepkörök számára kihirdeti a naplózási eljárásrendet, mely a naplózásra és elszámoltathatóságra vonatkozó szabályzat és az ehhez kapcsolódó ellenőrzések megvalósítását segíti elő;
-
-3.3.12.1.1.2. a naplózásra és elszámoltathatóságra vonatkozó eljárásrendben vagy más belső szabályozásában meghatározott gyakorisággal felülvizsgálja, és frissíti a naplózási eljárásrendet.
-
-3.3.12.2. Naplózható események
-
-3.3.12.2.1. Az érintett szervezet:
-
-3.3.12.2.1.1. meghatározza a naplózható és naplózandó eseményeket, és felkészíti erre az elektronikus információs rendszerét;
-
-3.3.12.2.1.2. egyezteti a biztonsági napló funkciókat a többi, naplóval kapcsolatos információt igénylő szervezeti egységgel, hogy növelje a kölcsönös támogatást, és hogy iránymutatással segítse a naplózható események kiválasztását;
-
-3.3.12.2.1.3. megvizsgálja, hogy a naplózható események megfelelőnek tekinthetők-e a biztonsági eseményeket követő tényfeltáró vizsgálatok támogatásához.
-
-3.3.12.2.2. Felülvizsgálat
-
-Az érintett szervezet meghatározott gyakorisággal felülvizsgálja, és aktualizálja a naplózandó eseményeket.
-
-3.3.12.3. Naplóbejegyzések tartalma
-
-3.3.12.3.1. Az elektronikus információs rendszer a naplóbejegyzésekben gyűjtsön be elegendő információt ahhoz, hogy ki lehessen mutatni, hogy milyen események történtek, miből származtak ezek az események, és mi volt ezen események kimenetele.
-
-3.3.12.3.2. Kiegészítő információk
-
-Az elektronikus információs rendszer a naplóbejegyzésekben további, az érintett szervezet által meghatározott kiegészítő, részletesebb információkat is rögzít.
-
-3.3.12.3.3. Központi kezelés
-
-Az elektronikus információs rendszer biztosítja a meghatározott rendszerelemek által generált naplóbejegyzések tartalmának központi kezelését és konfigurálását.
-
-3.3.12.4. Napló tárkapacitás
-
-Az érintett szervezet a naplózásra elegendő méretű tárkapacitást biztosít, a biztonsági osztályba sorolásból következő naplózási funkciók figyelembevételével.
-
-3.3.12.5. Naplózási hiba kezelése
-
-3.3.12.5.1. Az elektronikus információs rendszer:
-
-3.3.12.5.1.1. naplózási hiba esetén riasztást küld a meghatározott személyeknek vagy szerepköröknek;
-
-3.3.12.5.1.2. elvégzi a meghatározott végrehajtandó tevékenységeket, így például a rendszer leállítását, a legrégebbi naplóbejegyzések felülírását, a naplózási folyamat leállítását.
-
-3.3.12.5.2. Naplózási tárhely ellenőrzés
-
-Az elektronikus információs rendszer figyelmezteti a meghatározott személyeket, szerepköröket és helyszíneket, ha a lefoglalt naplózási tárhely eléri a beállított maximális naplózási tárhely előre meghatározott részét.
-
-3.3.12.5.3. Valósidejű riasztás
-
-Az elektronikus információs rendszer riasztást küld, ha a meghatározott, valós idejű riasztást igénylő hibaesemények listája szerint valamely esemény megtörténik.
-
-3.3.12.6. Naplóvizsgálat és jelentéskészítés
-
-3.3.12.6.1. Az érintett szervezet:
-
-3.3.12.6.1.1. rendszeresen felülvizsgálja és elemzi a naplóbejegyzéseket nem megfelelő vagy szokatlan működésre utaló jelek keresése céljából;
-
-3.3.12.6.1.2. jelenti ezeket a meghatározott személyeknek vagy szerepköröknek.
-
-3.3.12.6.2. Folyamatba illesztés
-
-Az érintett szervezet automatikus mechanizmusokat használ a naplóbejegyzések vizsgálatának, elemzésének és jelentésének átfogó folyamattá integrálására, amely a veszélyes vagy tiltott tevékenységekre és történésekre reagál.
-
-3.3.12.6.3. Összegzés
-
-Az érintett szervezet megvizsgálja és összefüggésbe hozza a különböző adattárakban található naplóbejegyzéseket, a teljes érintett szervezetre kiterjedő helyzetfelmérés érdekében.
-
-3.3.12.6.4. Felügyeleti képességek integrálása
-
-Az érintett szervezet egyesíti a naplóbejegyzések vizsgálatát a sebezhetőség ellenőrzési információkkal, a teljesítmény adatokkal, az elektronikus információs rendszer felügyeletéből származó információkkal, vagy egyéb forrásokból begyűjtött adatokkal vagy információkkal.
-
-3.3.12.6.5. Összekapcsolás a fizikai hozzáférési információkkal
-
-Az érintett szervezet összefüggésbe hozza a naplóbejegyzésekből származó információkat a fizikai hozzáférés felügyeletéből nyert információkkal.
-
-3.3.12.7. Naplócsökkentés és jelentéskészítés
-
-3.3.12.7.1. Az elektronikus információs rendszer:
-
-3.3.12.7.1.1. lehetőséget biztosít naplócsökkentésre és jelentés készítésére, amely támogatja az igény esetén végzendő naplóáttekintési, naplóvizsgálati és jelentéskészítési követelményeket és a biztonsági eseményeket követő tényfeltáró vizsgálatait;
-
-3.3.12.7.1.2. nem változtathatja meg a naplóbejegyzések eredeti tartalmát és időrendjét.
-
-3.3.12.7.2. Automatikus feldolgozás
-
-Az elektronikus információs rendszer biztosítja, hogy a fontos naplóbejegyzéseket automatikusan fel lehessen dolgozni.
-
-3.3.12.8. Időbélyegek
-
-3.3.12.8.1. Az elektronikus információs rendszer:
-
-3.3.12.8.1.1. belső rendszerórákat használ a naplóbejegyzések időbélyegeinek előállításához;
-
-3.3.12.8.1.2. időbélyegeket rögzít a naplóbejegyzésekben a koordinált világidőhöz - úgynevezett UTC - vagy a Greenwichi középidőhöz - úgynevezett GMT - rendelhető módon, megfelelve az érintett szervezet által meghatározott időmérési pontosságnak.
-
-3.3.12.8.2. Szinkronizálás
-
-Az elektronikus információs rendszer meghatározott gyakorisággal összehasonlítja a belső rendszerórákat egy hiteles külső időforrással, és ha az időeltérés nagyobb, mint a meghatározott időtartam, szinkronizálja a belső rendszerórákat a hiteles külső időforrással.
-
-3.3.12.9. A naplóinformációk védelme
-
-3.3.12.9.1. Az elektronikus információs rendszer megvédi a naplóinformációt és a napló kezelő eszközöket a jogosulatlan hozzáféréssel, módosítással és törléssel szemben.
-
-3.3.12.9.2. Hozzáférés korlátozása
-
-A naplófunkciók kezelésére csak az érintett szervezet által meghatározott, privilegizált felhasználók jogosultak.
-
-3.3.12.9.3. Fizikailag elkülönített mentés
-
-Az elektronikus információs rendszer a naplóbejegyzéseket meghatározott gyakorisággal elmenti, egy a keletkezési helyétől fizikailag elkülönülő rendszerre vagy rendszerelemre.
-
-3.3.12.9.4. Kriptográfiai védelem
-
-Kriptográfiai mechanizmusokat kell alkalmazni a naplóinformáció és a napló kezelő eszköz sértetlenségének védelmére.
-
-3.3.12.10. Letagadhatatlanság
-
-Az elektronikus információs rendszer védelmet biztosít az ellen, hogy egy adott személy az általa használt alkalmazás tekintetében letagadhassa, hogy elvégzett-e egy, a letagadhatatlanság követelménye alá sorolt tevékenységet.
-
-3.3.12.11. A naplóbejegyzések megőrzése
-
-Az érintett szervezet a naplóbejegyzéseket meghatározott - a jogszabályi és az érintett szervezeten belüli információ megőrzési követelményeknek megfelelő - időtartamig megőrzi a biztonsági események utólagos kivizsgálásának biztosítása érdekében.
-
-3.3.12.12. Naplógenerálás
-
-3.3.12.12.1. Az elektronikus információs rendszer:
-
-3.3.12.12.1.1. biztosítja a naplóbejegyzés generálási lehetőségét a 3.3.12.2. pontban meghatározott naplózható eseményekre;
-
-3.3.12.12.1.2. lehetővé teszi meghatározott személyeknek vagy szerepköröknek, hogy kiválasszák, hogy mely naplózható események legyenek naplózva az elektronikus információs rendszer egyes elemeire;
-
-3.3.12.12.1.3. naplóbejegyzéseket állít elő a 3.3.12.2. pont szerinti eseményekre a 3.3.12.3. pontban meghatározott tartalommal.
-
-3.3.12.12.2. Rendszerszintű időalap napló
-
-Az elektronikus információs rendszer a naplóbejegyzéseiből rendszerszintű (logikai vagy fizikai) felülvizsgálati naplót állít össze, amely - a felülvizsgálati napló egyedi bejegyzéseinek időbélyegei közötti kapcsolat tekintetében meghatározott tűréshatáron túli - időviszonyokat is tartalmazza.
-
-3.3.12.12.3. Változtatások
-
-Az elektronikus információs rendszer biztosítja a lehetőséget a meghatározott személyeknek vagy szerepköröknek arra, hogy megváltoztassák az egyes rendszerelemekre végrehajtandó naplózást a kiválasztott esemény kritériumok alapján, meghatározott időtartamon belül.
-
-3.3.13. RENDSZER- ÉS KOMMUNIKÁCIÓVÉDELEM
-
-3.3.13.1. Rendszer- és kommunikációvédelmi eljárásrend
-
-3.3.13.1.1. Az érintett szervezet:
-
-3.3.13.1.1.1. megfogalmazza, és az érintett szervezetre érvényes követelmények szerint dokumentálja, valamint az érintett szervezeten belüli szabályozásában meghatározott személyek vagy szerepkörök számára kihirdeti a rendszer- és kommunikációvédelmi eljárásrendet, mely a rendszer- és kommunikációvédelmi szabályzat és az ahhoz kapcsolódó ellenőrzések megvalósítását segíti elő;
-
-3.3.13.1.1.2. a rendszer- és kommunikációvédelmi eljárásrendben vagy más belső szabályozásában meghatározott gyakorisággal felülvizsgálja, és frissíti a rendszer- és kommunikációvédelmére vonatkozó eljárásrendet.
-
-3.3.13.2. Alkalmazás szétválasztás
-
-Az elektronikus információs rendszer elkülöníti a felhasználók által elérhető funkcionalitást (beleértve a felhasználói felület szolgáltatásokat) az elektronikus információs rendszer irányítási funkcionalitásától.
-
-3.3.13.3. Biztonsági funkciók elkülönítése
-
-Az elektronikus információs rendszer elkülöníti a biztonsági funkciókat a nem biztonsági funkcióktól.
-
-3.3.13.4. Információmaradványok
-
-Az elektronikus információs rendszer meggátolja a megosztott rendszererőforrások útján történő jogosulatlan vagy véletlen információáramlást.
-
-3.3.13.5. Túlterhelés - szolgáltatás megtagadás alapú támadás - elleni védelem
-
-Az elektronikus információs rendszer véd a túlterheléses (úgynevezett szolgáltatás megtagadás) jellegű támadásokkal szemben, vagy korlátozza azok kihatásait a megtagadás jellegű támadások listája alapján, a meghatározott biztonsági intézkedések bevezetésével.
-
-3.3.13.6. A határok védelme
-
-3.3.13.6.1. Az elektronikus információs rendszer:
-
-3.3.13.6.1.1. felügyeli és ellenőrzi a külső határain történő, valamint a rendszer kulcsfontosságú belső határain történő kommunikációt;
-
-3.3.13.6.1.2. a nyilvánosan hozzáférhető rendszerelemeket fizikailag vagy logikailag alhálózatokban helyezi el, elkülönítve a belső szervezeti hálózattól;
-
-3.3.13.6.1.3. csak az érintett szervezet biztonsági architektúrájával összhangban elhelyezett határvédelmi eszközökön felügyelt interfészeken keresztül kapcsolódik külső hálózatokhoz vagy külső elektronikus információs rendszerekhez.
-
-3.3.13.6.2. Hozzáférési pontok
-
-Az érintett szervezet korlátozza az elektronikus információs rendszer külső hálózati kapcsolatainak a számát.
-
-3.3.13.6.3. Külső kommunikációs szolgáltatások
-
-3.3.13.6.3.1. Az érintett szervezet:
-
-3.3.13.6.3.1.1. felügyelt interfészt működtet minden külső infokommunikációs szolgáltatáshoz;
-
-3.3.13.6.3.1.2. minden felügyelt interfészhez forgalomáramlási szabályokat alakít ki;
-
-3.3.13.6.3.1.3. védi az összes interfésznél az átvitelre kerülő információk bizalmasságát és sértetlenségét;
-
-3.3.13.6.3.1.4. dokumentál minden kivételt a forgalomáramlási szabályok alól, a kivételt alátámasztó alapfeladattal és az igényelt kivétel időtartamával együtt;
-
-3.3.13.6.3.1.5. meghatározott gyakorisággal áttekinti a forgalomáramlási szabályok alóli kivételeket, és eltávolítja azokat a kivételeket, amelyeket közvetlen alapfeladat már nem indokol.
-
-3.3.13.6.4. Alapeseti visszautasítás
-
-Az elektronikus információs rendszer a felügyelt kapcsolódási pontjain tilt, és csak kivételként engedélyez hálózati forgalmat.
-
-3.3.13.6.5. Távoli készülékek megosztott csatornahasználatának tiltása
-
-A távoli készülékkel kapcsolatban álló elektronikus információs rendszer meggátolja, hogy a készülék egyidejűleg helyi kapcsolatokat létesítsen a rendszerrel.
-
-3.3.13.6.6. Hitelesített proxy kiszolgálók
-
-Az elektronikus információs rendszer hitelesített proxy - olyan szerver, számítógép vagy szerveralkalmazás, amely a kliensek kéréseit köztes elemként más szerverekhez továbbítja - kiszolgálók segítségével irányítja a belső kommunikációs forgalmat a felügyelt interfészeken a meghatározott külső hálózatokhoz.
-
-3.3.13.6.7. Biztonsági hibaállapot
-
-Az elektronikus információs rendszer hibaállapotba kerül a határvédelmi eszköz működési hibája esetén.
-
-3.3.13.6.8. Rendszerelemek elkülönítése
-
-Az érintett szervezet határvédelmi mechanizmusokat alkalmaz azoknak az elektronikus információs rendszerelemeknek az elkülönítésére, amelyek a meghatározott alapfeladatokat és alapfunkciókat támogatják.
-
-3.3.13.7. Az adatátvitel bizalmassága
-
-3.3.13.7.1. Az elektronikus információs rendszer védje meg a továbbított információk bizalmasságát.
-
-3.3.13.7.2. Kriptográfiai vagy egyéb védelem
-
-Az elektronikus információs rendszer kriptográfiai mechanizmusokat alkalmaz az adatátvitel során az információk jogosulatlan felfedése ellen, kivéve, ha az átvitel más, az érintett szervezet által meghatározott alternatív fizikai ellenintézkedéssel védett.
-
-3.3.13.8. Az adatátvitel sértetlensége
-
-3.3.13.8.1. Az elektronikus információs rendszer megvédi a továbbított információk sértetlenségét.
-
-3.3.13.8.2. Kriptográfiai vagy egyéb védelem
-
-Az elektronikus információs rendszer kriptográfiai mechanizmusokat alkalmaz az adatátvitel során az információk megváltozásának észlelésére, ha az átvitel nincsen más alternatív fizikai intézkedésekkel védve.
-
-3.3.13.9. A hálózati kapcsolat megszakítása
-
-Az elektronikus információs rendszer megszakítja a hálózati kapcsolatot egy munkaszakaszra épülő kétirányú adatcsere befejezésekor, meghatározott időtartamú inaktivitás után.
-
-3.3.13.10. Kriptográfiai kulcs előállítása és kezelése
-
-3.3.13.10.1. Az érintett szervezet előállítja és kezeli az elektronikus információs rendszerben alkalmazott kriptográfiához szükséges kriptográfiai kulcsokat a kulcsok előállítására, szétosztására, tárolására, hozzáférésére és megsemmisítésére vonatkozó belső szabályozásnak megfelelően.
-
-3.3.13.10.2. Rendelkezésre állás
-
-Az érintett szervezet előállítja, biztosítja az információk rendelkezésre állását abban az esetben is, amikor a kriptográfiai kulcsok elérhetetlenné válnak (elvesztés, sérülés, megsemmisülés).
-
-3.3.13.11. Kriptográfiai védelem
-
-Az elektronikus információs rendszer szabványos, egyéb jogszabályokban biztonságosnak minősített kriptográfiai műveleteket valósít meg.
-
-3.3.13.12. Együttműködésen alapuló számítástechnikai eszközök
-
-Az elektronikus információs rendszer meggátolja az együttműködésen alapuló számítástechnikai eszközök (pl. kamerák, mikrofonok) távoli aktiválását, kivéve, ha az érintett szervezet engedélyezte azt, és közvetlen kijelzést nyújt a távoli aktivitásról azoknak a felhasználóknak, akik fizikailag jelen vannak az eszköznél.
-
-3.3.13.13. Nyilvános kulcsú infrastruktúra tanúsítványok
-
-Az érintett szervezet nyilvános kulcsú tanúsítványokat állít ki a belső hitelesítési rend szerint, vagy a nyilvános kulcsú tanúsítványokat beszerzi a Nemzeti Média- és Hírközlési Hatóság elektronikus aláírással kapcsolatos nyilvántartásában szereplő hitelesítésszolgáltatótól.
-
-3.3.13.14. Mobilkód korlátozása
-
-3.3.13.14.1. Az érintett szervezet:
-
-3.3.13.14.1.1. meghatározza az elfogadható és a nem elfogadható mobilkódokat és mobilkód technológiákat;
-
-3.3.13.14.1.2. használati korlátozásokat vezet be vagy megvalósítási útmutatót bocsát ki az elfogadható mobilkódokra és mobilkód technológiákra;
-
-3.3.13.14.1.3. engedélyezi, felügyeli és ellenőrzi a mobilkódok használatát az elektronikus információs rendszeren belül.
-
-3.3.13.15. Elektronikus információs rendszeren keresztüli hangátvitel (úgynevezett VoIP)
-
-3.3.13.15.1. Az érintett szervezet:
-
-3.3.13.15.1.1. használati korlátozásokat vezet be vagy megvalósítási útmutatót ad a VoIP technológiákhoz, felmérve a rosszindulatú használat esetén az elektronikus információs rendszerben okozható károkat;
-
-3.3.13.15.1.2. engedélyezi, felügyeli, és ellenőrzi a VoIP használatát az elektronikus információs rendszeren belül.
-
-3.3.13.16. Biztonságos név/cím feloldó szolgáltatások (úgynevezett hiteles forrás)
-
-Az elektronikus információs rendszer a név/cím feloldási kérésekre a hiteles adatokon kívül az információ eredetére és sértetlenségére vonatkozó kiegészítő adatokat is biztosít, és ha egy elosztott, hierarchikus névtár részeként működik, akkor jelzi az utódtartományok biztonsági állapotát is, és (ha azok támogatják a biztonságos feloldási szolgáltatásokat) hitelesíti az utód- és elődtartományok közötti bizalmi láncot.
-
-3.3.13.17. Biztonságos név/cím feloldó szolgáltatás (úgynevezett rekurzív vagy gyorsító tárat használó feloldás)
-
-Az elektronikus információs rendszer eredethitelesítést és adatsértetlenség ellenőrzést kér, és hajt végre a hiteles forrásból származó név/cím feloldó válaszokra.
-
-3.3.13.18. Architektúra és tartalékok név/cím feloldási szolgáltatás esetén
-
-Azok az elektronikus információs rendszerek, amelyek együttesen biztosítanak név/cím feloldási szolgáltatást egy szervezet számára, hibatűrők és belső/külső szerepkör szétválasztást valósítanak meg.
-
-3.3.13.19. Munkaszakasz hitelessége
-
-Az elektronikus információs rendszer védje meg a munkaszakaszok hitelességét.
-
-3.3.13.20. Hibát követő ismert állapot
-
-Meghatározott hibatípusokhoz tartozó hibát követően az elektronikus információs rendszer a kijelölt, vagy utolsó ismert állapotba kerül, amely a hiba esetén is megőrzi a rendszerállapot információkat.
-
-3.3.13.21. A maradvány információ védelme
-
-Az elektronikus információs rendszer védi az érintett szervezet által meghatározott maradvány információk (pl.: átmeneti fájlok) bizalmasságát, sértetlenségét.
-
-3.3.13.22. A folyamatok elkülönítése
-
-Az elektronikus információs rendszer elkülönített végrehajtási tartományt tart fenn minden végrehajtó folyamat számára.
-
-[^2]: A 4. melléklet 1.2.7. pont 1.2.7.2. alpontját az 58/2016. (XII. 22.) BM rendelet 52. §-a iktatta be.
+[^4]: A 4. melléklet 1.2.7. pont 1.2.7.2. alpontját az 58/2016. (XII. 22.) BM rendelet 52. §-a iktatta be.

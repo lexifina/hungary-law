@@ -1,6 +1,6 @@
 2. melléklet a 41/2015. (VII. 15.) BM rendelethez
 
-## Az elektronikus információs rendszerrel rendelkező szervezetek, vagy szervezeti egységek biztonsági szintbe sorolása
+Az elektronikus információs rendszerrel rendelkező szervezetek, vagy szervezeti egységek biztonsági szintbe sorolása
 
 1. Az érintett szervezet biztonsági szintje 1., ha a szervezet nem üzemeltet és nem fejleszt elektronikus információs rendszert, és saját hatáskörben erre más szervezetet, vagy szolgáltatót (ide nem értve a telekommunikációs szolgáltatót) sem vesz igénybe. Az adatfeldolgozás módját nem maga határozza meg, az adatkezelés tekintetében technikai, vagy információtechnológiai döntést nem hoz, a használt elektronikus információs infrastruktúra kialakítása tekintetében döntési jogköre - ide nem értve a szervezet munkavégzését érintő informatikai rendszerelemek elhelyezését - nincs, egyedi adatokat és információkat kezel, vagy dolgoz fel, és kritikus adatot nem kezel. A szervezet információbiztonsági tevékenysége elsődlegesen az elektronikus információs rendszerrel kapcsolatba kerülő személyek információbiztonsággal kapcsolatos kötelezettségeinek szabályozására, számonkérésére terjed ki, addig a mértékig, ameddig a szervezet, vagy az egyes személyek tevékenysége az elektronikus információs rendszerre hatást tud gyakorolni.
 

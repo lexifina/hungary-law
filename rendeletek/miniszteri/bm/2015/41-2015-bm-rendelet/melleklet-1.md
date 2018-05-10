@@ -1,6 +1,8 @@
+## 7. §[^3] Ez a rendelet a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-ai (EU) 2016/1148 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
 1. melléklet a 41/2015. (VII. 15.) BM rendelethez
 
-## Az elektronikus információs rendszerek biztonsági osztályba sorolása
+Az elektronikus információs rendszerek biztonsági osztályba sorolása
 
 1. Általános irányelvek
 
@@ -73,3 +75,5 @@
 2.6.6. az érintett szervezet üzlet- vagy ügymenete szempontjából nagy értékű üzleti titkot, vagy kiemelten érzékeny folyamatokat kezelő elektronikus információs rendszer, vagy információt képező adat tömegesen vagy jelentősen sérülhet;
 
 2.6.7. a közvetlen és közvetett anyagi kár eléri az érintett szervezet költségvetésének 15%-át.
+
+[^3]: A 7. §-t a 40/2017. (XII. 29.) BM rendelet 14. §-a iktatta be.
