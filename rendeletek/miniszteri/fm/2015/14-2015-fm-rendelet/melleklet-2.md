@@ -344,4 +344,6 @@
 
 | 45. |  | A genetikai erőforrás vagy genetikai erőforrásokhoz kapcsolódó hagyományos tudáshoz kapcsolódó eljárás [a genetikai erőforrásokhoz való hozzáféréssel és a hasznosításukból származó hasznok igazságos és méltányos megosztásával kapcsolatos nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 3/2016. (I. 20.) Korm. rendelet 6. § (1) bekezdés] | 8000/nyilatkozat |
 
+| 46. |  | Bejelentési eljárás | 50 000 |
+
 2. melléklet a 14/2015. (III. 31.) FM rendelethez

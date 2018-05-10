@@ -12,7 +12,7 @@ d)[^3] 34. pont 1. és 3. alpontja és
 
 e) az a)–d) pontokhoz kapcsolódóan 37. és 38. pontja
 
-alá tartozó tevékenységekre terjed ki.
+## alá tartozó tevékenységekre terjed ki.
 
 (2) A területi vízügyi igazgatóságoknak, valamint az Országos Vízügyi Főigazgatóságnak a vízgazdálkodásról szóló 1995. évi LVII. törvényben biztosított díjfizetési mentessége az 1. melléklet
 
