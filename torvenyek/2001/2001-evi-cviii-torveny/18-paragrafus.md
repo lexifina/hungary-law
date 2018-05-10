@@ -6,7 +6,9 @@ b) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.
 
 c) az Európai Parlament és a Tanács 2002/58/EK irányelve (2002. július 12.) a személyes adatoknak az elektronikus hírközlési ágazatban történő feldolgozásáról és magánjellegének védelméről, 13. cikk 1. és 2. bekezdése;
 
-d) az Európai Parlament és a Tanács 524/2013/EU rendelete (2013. május 21.) a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról, 14. cikk (1) és (2) bekezdése. [16/A. § (1) bekezdés].
+d) az Európai Parlament és a Tanács 524/2013/EU rendelete (2013. május 21.) a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról, 14. cikk (1) és (2) bekezdése. [16/A. § (1) bekezdés];
+
+e) az Európai Parlament és a Tanács (EU) 2016/1148 irányelve (2016. július 6.) a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről.
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Hatóság feladatkörében és eljárásában:
 
