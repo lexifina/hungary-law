@@ -28,4 +28,8 @@
 
 13. webes vizsgálat: olyan biztonsági vizsgálati eljárás, amely során automatizált és kézi vizsgálatok útján kerülnek feltárásra a webes alkalmazások sérülékenységei;
 
-14. vezeték nélküli hálózat informatikai biztonsági vizsgálat: olyan biztonsági vizsgálati eljárás, amelynek során a vezeték nélküli hozzáférési és kapcsolódási pontok keresése, feltérképezése, titkosítási eljárások elemzése, titkosítási kulcsok visszafejthetőségének ellenőrzése célszoftverek és kézi vizsgálat útján történik.
+14. vezeték nélküli hálózat informatikai biztonsági vizsgálat: olyan biztonsági vizsgálati eljárás, amelynek során a vezeték nélküli hozzáférési és kapcsolódási pontok keresése, feltérképezése, titkosítási eljárások elemzése, titkosítási kulcsok visszafejthetőségének ellenőrzése célszoftverek és kézi vizsgálat útján történik;
+
+15.[^2] CSIRT: számítógép-biztonsági eseményekre reagáló csoport. E rendelet 2. és 6. §-ai szerinti eseménykezelő központok CSIRT-nek minősülnek.
+
+[^2]: Az 1. § 15. pontját a 394/2017. (XII. 13.) Korm. rendelet 6. § (1) bekezdése iktatta be.

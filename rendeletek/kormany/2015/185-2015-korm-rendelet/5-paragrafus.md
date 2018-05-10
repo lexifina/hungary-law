@@ -24,4 +24,8 @@ b) a biztonsági események kezelésére irányuló tájékoztatót tarthat, ré
 
 c) kormányzati információtechnológiai, hálózatbiztonsági, és biztonságiesemény-kezelési együttműködési fórumot működtethet, valamint
 
-d) részt vesz az infokommunikációs biztonságra vonatkozó stratégiák és szabályozások előkészítésében.
+d) részt vesz az infokommunikációs biztonságra vonatkozó stratégiák és szabályozások előkészítésében,
+
+e)[^7] a hatáskörébe tartozó elektronikus információs rendszerek tekintetében részt vesz a CSIRT-ek hálózatának tevékenységében, amelynek keretében ellátja a többi eseménykezelő központ képviseletét.
+
+[^7]: Az 5. § (4) bekezdés e) pontját a 394/2017. (XII. 13.) Korm. rendelet 6. § (5) bekezdése iktatta be.
