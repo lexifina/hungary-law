@@ -8,7 +8,9 @@ a) a vizsgált lehetséges létfontosságú rendszerelem megnevezését, a kock�
 
 b) az üzemeltetőnek az azonosítási jelentés teljességére vonatkozó nyilatkozatát, valamint
 
-c) az azonosítási eljárás kezdő- és zárónapját.
+c) az azonosítási eljárás kezdő- és zárónapját,
+
+d)[^1] a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény (a továbbiakban: Lrtv.) 2/A. § (2) bekezdésében meghatározott szempontrendszerre vonatkozó elemzést, ha a lehetséges rendszerelem tekintetében megállapítható, hogy az Lrtv. 1–3. mellékletében meghatározott azon alágazatba tartozik, amely az Lrtv. 4. melléklet alapján megfeleltethető a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-ai (EU) 2016/1148 európai parlamenti és tanácsi irányelv szerinti valamely ágazatnak vagy alágazatnak.
 
 (3) Ha az üzemeltető az azonosítási jelentés elkészítésére és benyújtására vonatkozó kötelezettségének nem tesz eleget, a Kormány által rendeletben kijelölt, ágazati felelősséggel rendelkező kijelölő hatóság (a továbbiakban: kijelölő hatóság) határidő tűzésével felszólítja az üzemeltetőt az azonosítási jelentés elkészítésére és benyújtására.
 
@@ -16,11 +18,12 @@ c) az azonosítási eljárás kezdő- és zárónapját.
 
 (5) A Kormány által rendeletben kijelölt ágazati javaslattevő hatóság (a továbbiakban: javaslattevő hatóság) részére a kijelölő hatóság köteles megküldeni véleményezés céljából az azonosítási jelentést. A javaslattevő hatóság az azonosítási jelentés beérkezésétől számított 30 napon belül megvizsgálja az azonosítási jelentést, és a kockázatelemzéssel kapcsolatos javaslatait megküldi a kijelölő hatóságnak.
 
-(6)[^1] A javaslattevő hatóság kezdeményezheti, hogy a kijelölő hatóság döntsön az üzemeltető (3) bekezdés szerinti kötelezéséről.
+(6)[^2] A javaslattevő hatóság kezdeményezheti, hogy a kijelölő hatóság döntsön az üzemeltető (3) bekezdés szerinti kötelezéséről.
 
 (7) Az üzemeltető 8 napon belül írásban értesíti a kijelölő hatóságot a tevékenységében bekövetkezett minden olyan változásról, amely érinti a létfontosságú rendszerelem azonosítását.
 
-(8)[^2] A kijelölt létfontosságú rendszerelem üzemeltetőjének új azonosítási jelentést kell készítenie a kijelölő hatóságnak a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény (a továbbiakban: Lrtv.) 2. § (3) bekezdése szerinti döntésének jogerőre emelkedésétől vagy véglegessé válásától számított 5 év elteltével.
+(8)[^3] A kijelölt létfontosságú rendszerelem üzemeltetőjének új azonosítási jelentést kell készítenie a kijelölő hatóságnak az Lrtv. 2. § (3) bekezdése szerinti döntésének véglegessé válásától számított 5 év elteltével.
 
-[^1]: A 2. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 194. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^2]: A 2. § (8) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 440. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^1]: A 2. § (2) bekezdés d) pontját a 394/2017. (XII. 13.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^2]: A 2. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 194. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^3]: A 2. § (8) bekezdése a 394/2017. (XII. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
