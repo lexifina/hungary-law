@@ -90,6 +90,8 @@ Tagok: Ágh Péter (Fidesz)
 
 Bíró Márk (Fidesz)
 
+Hubay György (Fidesz)[^2]
+
 dr. Harangozó Tamás (MSZP)
 
 e) Igazságügyi bizottság (13 fő)
@@ -196,6 +198,8 @@ dr. Zsigmond Barna Pál (Fidesz)
 
 Nacsa Lőrinc (KDNP)
 
+dr. Brenner Koloman (Jobbik)[^3]
+
 Gyöngyösi Márton (Jobbik)
 
 i) Mentelmi bizottság (6 fő)
@@ -242,7 +246,7 @@ Elnök: Mirkóczki Ádám (Jobbik)
 
 Alelnök: Németh Zsolt (Fidesz)
 
-Tagok: Bartos Mónika (Fidesz)
+Tagok: Halász János (Fidesz)[^4]
 
 Lezsák Sándor (Fidesz)
 
@@ -297,6 +301,8 @@ dr. Tapolczai Gergely (Fidesz)
 Nacsa Lőrinc (KDNP)
 
 Ander Balázs (Jobbik)
+
+Rig Lajos (Jobbik)[^5]
 
 dr. László Imre (DK)
 
@@ -356,6 +362,8 @@ Hadházy Sándor (Fidesz)
 
 Herczeg Tamás (Fidesz)
 
+Héjj Dávid Ádám (Fidesz)[^6]
+
 Hirt Ferenc (Fidesz)
 
 Horváth László (Fidesz)
@@ -414,6 +422,11 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 
 6. A Magyarországi nemzetiségek bizottságának megbízatása 2018. május 9-én kezdődik.
 
-7.[^2]
+7.[^7]
 
-[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7/2018. (V. 11.) OGY határozat 1. pontja iktatta be.
+[^3]: A 7/2018. (V. 11.) OGY határozat 1. pontja iktatta be.
+[^4]: A 7/2018. (V. 11.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 7/2018. (V. 11.) OGY határozat 1. pontja iktatta be.
+[^6]: A 7/2018. (V. 11.) OGY határozat 2. pontja iktatta be.
+[^7]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
