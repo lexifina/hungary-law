@@ -1,1 +1,0 @@
-## 1. § A környezetvédelmi és természetvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló 14/2015. (III. 31.) FM rendelet [a továbbiakban: 14/2015. (III. 31.) FM rendelet] 1. melléklete az 1. melléklet szerint módosul.
