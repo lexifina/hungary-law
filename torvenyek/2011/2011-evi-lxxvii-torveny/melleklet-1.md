@@ -42,7 +42,7 @@ Budapest – a Duna-partok, a Budai Várnegyed és az Andrássy út
 
 |
 
-építésügyért felelős miniszter
+építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter
 
 |
 
@@ -110,7 +110,7 @@ agrárpolitikáért felelős miniszter
 
 |
 
-építésügyért felelős miniszter
+építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter
 
 |
 
@@ -222,7 +222,7 @@ Az ezeréves Pannonhalmi Bencés Főapátság és természeti környezete
 
 |
 
-építésügyért felelős miniszter
+építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter
 
 |
 
@@ -290,7 +290,7 @@ agrárpolitikáért felelős miniszter
 
 |
 
-építésügyért felelős miniszter
+építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter
 
 |
 
@@ -350,7 +350,7 @@ Pécs (Sopianae) ókeresztény temetője
 
 |
 
-építésügyért felelős miniszter
+építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter
 
 |
 
@@ -412,7 +412,7 @@ agrárpolitikáért felelős miniszter
 
 |
 
-építésügyért felelős miniszter
+építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter
 
 |
 
@@ -480,7 +480,7 @@ agrárpolitikáért felelős miniszter
 
 |
 
-építésügyért felelős miniszter
+építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter
 
 |
 
