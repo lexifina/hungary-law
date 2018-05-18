@@ -6,8 +6,10 @@ Kádár Andrea Beatrix helyettes államtitkár e megbízatása a közszolgálati
 
 megszűnik, egyidejűleg
 
-Kádár Andrea Beatrixet a Nemzeti Fejlesztési Minisztérium helyettes államtitkárává
+Kádár Andrea Beatrixet a Nemzeti Fejlesztési Minisztérium helyettes államtitkárává[^1]
 
 – 2014. július 1-jei hatállyal –
 
 kinevezem.
+
+[^1]: A 85/2018. (VI. 22.) ME határozat alapján Kádár Andrea Beatrix tekintetében akként módosul, hogy a „Nemzeti Fejlesztési Minisztérium” megnevezés helyett az „Innovációs és Technológiai Minisztérium” megnevezést kell érteni.
