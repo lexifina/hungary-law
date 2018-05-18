@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés j) pontja, valamint a honvédek jogállásáról szóló 2012. évi CCV. törvény 4/A. § (2) bekezdés c) pontja, 59. § (1) bekezdés b) pontja és 68. § (1) bekezdés d) pontja alapján – a honvédelmi miniszter előterjesztésére – megállapítom, hogy dr. Benkő Tibor vezérezredes hivatásos szolgálati viszonya 2018. május 17-ei hatállyal, a törvény erejénél fogva megszűnik, egyúttal őt az Alaptörvény 9. cikk (4) bekezdés j) pontja, valamint a honvédek jogállásáról szóló 2012. évi CCV. törvény 4/A. § (2) bekezdés f) pontja és 76. §-a alapján – a honvédelmi miniszter előterjesztésére – a Magyar Honvédség szolgálaton kívüliek állományába 2018. május 18-ai hatállyal felveszem.
+
+KEH ügyszám: KEH/02276-3/2018.
