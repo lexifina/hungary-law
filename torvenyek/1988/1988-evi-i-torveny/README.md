@@ -63,3 +63,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2017-09-19 | 2017. évi LXIII. törvény | 1988-1-00-00.94 |
 | 2017-12-12 | 2017. évi CLXXXII. törvény | 1988-1-00-00.95 |
 | 2018-01-01 | 2017. évi L. törvény | 1988-1-00-00.96 |
+| 2018-05-18 | 2018. évi V. törvény | 1988-1-00-00.97 |
