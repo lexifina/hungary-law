@@ -1,7 +1,9 @@
 A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 220. § (2) bekezdése alapján, a nemzeti fejlesztési miniszter javaslatára
 
-dr. Solymár Károly Balázst a Nemzeti Fejlesztési Minisztérium helyettes államtitkárává
+dr. Solymár Károly Balázst a Nemzeti Fejlesztési Minisztérium helyettes államtitkárává[^1]
 
 – 2013. július 1-jei hatállyal –
 
 kinevezem.
+
+[^1]: A 85/2018. (VI. 22.) ME határozat alapján dr. Solymár Károly Balázs tekintetében akként módosul, hogy a „Nemzeti Fejlesztési Minisztérium” megnevezés helyett az „Innovációs és Technológiai Minisztérium” megnevezést kell érteni.
