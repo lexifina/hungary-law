@@ -96,4 +96,4 @@ Amennyiben a szakiskolai közismereti kerettanterv 2012. augusztus 15-ig nem ker
 
 (36) A 4/A. § (1) bekezdés b) pontjában meghatározott szakképző iskola fenntartója a 2013/2014-es tanév előtt indult képzéseket és a 2013/2014-es tanévre 2013. szeptember 1-je előtt beiskolázott tanulókat érintő képzéseket a szakképző iskola fenntartói jogainak az agrárpolitikáért felelős miniszternek történő átadása és szakképzési megállapodás megkötése nélkül is befejezheti.
 
-(37)
+(37) E törvénynek a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvénnyel megállapított 4/A. § (1), (2a) és (2b) bekezdését, 34/A. §-át, 84. § (6) bekezdését a 2018/2019. tanévtől kell alkalmazni.

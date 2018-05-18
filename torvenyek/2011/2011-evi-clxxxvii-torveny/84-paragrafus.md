@@ -32,7 +32,7 @@ c) költségvetési hozzájárulást korlátozott keretszámok alapján igényel
 
 (5d) A Kormány (5) bekezdés c) pontja szerinti, a keretszámok fenntartónkénti elosztására vonatkozóan megyénként és a fővárosra tekintettel hozott döntését az iskolai rendszerű szakképzés tekintetében az (5a)–(5c) bekezdés alapján tett javaslatok alapján hozza meg az érintett tanévet megelőző év szeptember utolsó munkanapjáig. A Kormány (5) bekezdés szerinti döntése nem terjed ki a honvédelemért felelős miniszter hatáskörébe tartozó szakképesítésekre.
 
-(6) A nem állami fenntartó a szakképzésért és felnőttképzésért felelős miniszterrel – az OKJ-ban meghatározott, agrárágazathoz tartozó szakképesítések és az azokat megalapozó szakgimnáziumi ágazatok esetében a 4/A. § (2) bekezdése szerinti miniszter egyetértésével – kötött szakképzési megállapodás alapján vehet részt az iskolai rendszerű szakképzési állami feladatok megvalósításában.
+(6) A nem állami fenntartó a szakképzésért és felnőttképzésért felelős miniszterrel – az OKJ-ban meghatározott, Agrár-, az Egészségügy és az Egészségügyi technika ágazathoz tartozó szakképesítések és az azokat megalapozó szakgimnáziumi ágazatok esetében a 4/A. § (2) és (2b) bekezdése szerinti miniszter egyetértésével – kötött szakképzési megállapodás alapján vehet részt az iskolai rendszerű szakképzési állami feladatok megvalósításában.
 
 (7) Az iskolai rendszerű szakképzésben ellátott feladatok után a szakképző iskola nem állami fenntartója akkor jogosult költségvetési hozzájárulásra, ha az adott feladatra szakképzési megállapodást kötött, vagy ha a fővárosban vagy a megyében e törvény vagy a nemzeti köznevelésről szóló törvény alapján szakképzési feladatellátási kötelezettsége van.
 
