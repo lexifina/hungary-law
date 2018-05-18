@@ -24,7 +24,7 @@ Az állami kitüntetésekre és adományozásuk előkészítésére vonatkozó a
 
 11. A jelölt állami kitüntetésre való érdemessége megállapítása céljából az előkészítésért felelős szerv vagy az előterjesztő a külön törvényben meghatározott bűntettesek nyilvántartásából vagy a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából adatot igényelhet, amely kizárólag arra irányulhat, hogy a jelölt megfelel-e a 18. § (5) bekezdésében meghatározott feltételeknek. Az ellenőrzést követően a bűnügyi nyilvántartásból kapott adatot haladéktalanul törölni kell, és az előkészítő iratban a kizáró ok fennállásának tényét vagy annak hiányát kell feltüntetni.
 
-12. Az e törvénnyel alapított állami kitüntetések adományozásáról a kormányzati tevékenység összehangolásáért felelős miniszter nyilvántartást vezet. A nyilvántartás a kitüntetett személy nevét, születési helyét és idejét, az adományozott kitüntetési osztály megjelölését, valamint az adományozás rövid indokolását, az átadás időpontját tartalmazza.
+12. Az e törvénnyel alapított állami kitüntetések adományozásáról a nemzetpolitikáért felelős miniszter nyilvántartást vezet. A nyilvántartás a kitüntetett személy nevét, születési helyét és idejét, az adományozott kitüntetési osztály megjelölését, valamint az adományozás rövid indokolását, az átadás időpontját tartalmazza.
 
 13. Az e törvénnyel alapított állami kitüntetés adományozására irányuló előterjesztésben a megalapozott döntéshez szükséges részletességgel be kell mutatni a jelölt személy életútját, valamint az állami kitüntetés alapjául szolgáló érdemeket.
 

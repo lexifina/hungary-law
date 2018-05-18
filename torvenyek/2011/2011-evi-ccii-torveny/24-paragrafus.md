@@ -30,7 +30,7 @@ a) az 1. § (3) bekezdésében megjelölt költségvetési szervek címerhaszná
 
 b) a nem állami szervek által feladatkörükben kiadott okiratokon a címer és a címeres körbélyegző kötelező használatát.
 
-(4) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy rendeletben szabályozza a címert vagy a zászlót tartalmazó védjegy és formatervezési minta oltalmának megadásához szükséges engedély megadásának részletes feltételeit és az engedélyezés különös eljárási szabályait.
+(4) Felhatalmazást kap a nemzetpolitikáért felelős miniszter, hogy rendeletben szabályozza a címert vagy a zászlót tartalmazó védjegy és formatervezési minta oltalmának megadásához szükséges engedély megadásának részletes feltételeit és az engedélyezés különös eljárási szabályait.
 
 (5) Felhatalmazást kap a települési önkormányzat – Budapesten a fővárosi önkormányzat – képviselő-testülete, hogy a közterületeknek a nemzeti ünnepeken történő fellobogózását rendeletben szabályozza.
 
