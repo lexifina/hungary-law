@@ -6,8 +6,10 @@ Hevesi Zoltán Ajtonyt, a Nemzeti Fejlesztési Minisztérium helyettes államtit
 
 felmentem, és
 
-dr. Makai Martinát a Nemzeti Fejlesztési Minisztérium helyettes államtitkárává
+dr. Makai Martinát a Nemzeti Fejlesztési Minisztérium helyettes államtitkárává[^1]
 
 – 2015. augusztus 1-jei hatállyal –
 
 kinevezem.
+
+[^1]: A 85/2018. (VI. 22.) ME határozat alapján dr. Makai Martina tekintetében akként módosul, hogy a „Nemzeti Fejlesztési Minisztérium” megnevezés helyett az „Innovációs és Technológiai Minisztérium” megnevezést kell érteni.
