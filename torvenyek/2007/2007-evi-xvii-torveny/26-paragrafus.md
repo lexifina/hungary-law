@@ -80,7 +80,7 @@ h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakb
 
 28. a rendezett munkaügyi kapcsolati adatokat tartalmazó adatbázisokból,
 
-29. az építésügyért felelős miniszter által működtetett az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerből,
+29. az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter által működtetett az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerből,
 
 30. a családi gazdálkodókról vezetett nyilvántartásból,
 

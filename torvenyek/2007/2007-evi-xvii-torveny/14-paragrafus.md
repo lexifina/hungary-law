@@ -1,6 +1,6 @@
 ## Az irányító hatósági jogkör gyakorlása
 
-14. § (1) Az agrár-vidékfejlesztésért felelős miniszter irányító hatósági jogkörének gyakorlása során:
+14. § (1) A miniszter irányító hatósági jogkörének gyakorlása során:
 
 a) a közösségi jogi aktusok, valamint az Európai Unió vonatkozó programjai alapján dönt a technikai segítségnyújtás céljaira rendelkezésre álló közösségi források felhasználásáról;
 
@@ -32,10 +32,10 @@ g) felel a partnerség elvének közösségi jogszabályok szerinti érvényesü
 
 h) működteti a monitoringrendszert, valamint átveszi és kezeli az 1698/2005/EK rendeletben, valamint az 1198/2006/EK rendeletben foglalt adatszolgáltatási, jelentéstételi és értékelési kötelezettségek teljesítésére, a mezőgazdasági és vidékfejlesztési támogatási szerv által gyűjtött és összesített, az integrált igazgatási és ellenőrzési rendszerben nyilvántartott monitoringadatokat.
 
-(1a) Az agrárpolitikáért felelős miniszter kormányrendeletben meghatározottak szerint szakmailag irányítja a mezőgazdasági és vidékfejlesztési támogatási szervet.
+(1a) A miniszter kormányrendeletben meghatározottak szerint szakmailag irányítja a mezőgazdasági és vidékfejlesztési támogatási szervet.
 
-(2) Az agrár-vidékfejlesztésért felelős miniszter (1) bekezdés szerinti irányító hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében az Áht. 9. § e), h) és i) pontjában meghatározott hatásköröket gyakorolja.
+(2) A miniszter (1) bekezdés szerinti irányító hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében az Áht. 9. § e), h) és i) pontjában meghatározott hatásköröket gyakorolja.
 
 (3)
 
-(4) Az (1) bekezdés c) pontja szerinti közleményeket az agrár-vidékfejlesztésért felelős miniszter által vezetett minisztérium hivatalos lapjában, internetes honlapján, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv internetes honlapján kell közzétenni.
+(4) Az (1) bekezdés c) pontja szerinti közleményeket a miniszter által vezetett minisztérium hivatalos lapjában, internetes honlapján, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv internetes honlapján kell közzétenni.

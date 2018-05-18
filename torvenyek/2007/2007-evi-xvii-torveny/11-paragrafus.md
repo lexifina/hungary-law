@@ -14,7 +14,7 @@ hozott intézkedésekben való részvétellel kapcsolatos, az irányítási, val
 
 (1a) Az (1) bekezdés a) és c) pontja tekintetében e törvényt – a 9. § (1) bekezdés 10. pontja, a 11. § (10) bekezdése, a 13. §-a, 14. § (1) bekezdés f) pontja, a III. Fejezete, a 36. § (3) bekezdése, a 43/A. §, a 44. § (7) bekezdése, a 45. § (3) és (9) bekezdése, a 81. § (1) bekezdés c)–g) pontja, a 81. § (1a) és (2) bekezdése, a 81. § (3) bekezdés b)–d), j) és k) pontja kivételével – a 2007–2013. programozási időszak intézkedései tekintetében kell alkalmazni.
 
-(2) E törvény végrehajtásáért az EMVA, az EHA vagy az ETHA terhére nyújtott támogatás tekintetében az agrár-vidékfejlesztésért felelős miniszter, az EMGA terhére nyújtott támogatás és a tagállami hatáskörben hozott intézkedés tekintetében az agrárpolitikáért felelős miniszter felel, amelynek keretében:
+(2) E törvény végrehajtásáért a miniszter felel, amelynek keretében:
 
 a) az államháztartás működési rendjére vonatkozó jogszabályok rendelkezései szerint gondoskodik a belső kontrollrendszerek kialakításáról, azok folyamatos és hatékony működtetéséről, valamint
 
@@ -52,7 +52,7 @@ gyakorolja.
 
 (9) A (4) bekezdés szerinti ellenőrzés lefolytatása nem érinti az államháztartásra vonatkozó jogszabályok rendelkezései szerinti független belső ellenőrzés keretében lefolytatott ellenőrzési tevékenységet.
 
-(10) Ha az tanúsító szerv, az igazoló hatóság, a közreműködő szervezet, az ellenőrző hatóság, az átruházott feladatot ellátó szervezet, az együttműködő szervezet és a nemzeti vidékfejlesztési hálózat titkársága kijelöléséhez a közbeszerzésekről szóló törvény alapján nem kell közbeszerzési eljárást lefolytatni, e szervek, illetve szervezetek kijelöléséről a Kormány rendeletben intézkedik. A Kormány rendeletben intézkedik a nem közigazgatási feladat ellátására létrehozott szervezet, köztestület vagy személy átruházott feladatot ellátó vagy együttműködő szervezetként való kijelöléséről, valamint az általuk ellátandó hatósági feladatok köréről. A helyi akciócsoportot az agrár-vidékfejlesztésért felelős miniszter jelöli ki.
+(10) Ha az tanúsító szerv, az igazoló hatóság, a közreműködő szervezet, az ellenőrző hatóság, az átruházott feladatot ellátó szervezet, az együttműködő szervezet és a nemzeti vidékfejlesztési hálózat titkársága kijelöléséhez a közbeszerzésekről szóló törvény alapján nem kell közbeszerzési eljárást lefolytatni, e szervek, illetve szervezetek kijelöléséről a Kormány rendeletben intézkedik. A Kormány rendeletben intézkedik a nem közigazgatási feladat ellátására létrehozott szervezet, köztestület vagy személy átruházott feladatot ellátó vagy együttműködő szervezetként való kijelöléséről, valamint az általuk ellátandó hatósági feladatok köréről. A helyi akciócsoportot a miniszter jelöli ki.
 
 (11) E törvény hatálya nem terjed ki a Közös Agrárpolitika hatálya alá tartozó termékek importjának engedélyezésére.
 

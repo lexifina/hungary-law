@@ -1,6 +1,6 @@
 ## Felügyeleti eljárás
 
-57/D. § (1) Ha jogszabály másként nem rendelkezik, felügyeleti szervként az agrárpolitikáért felelős miniszter jár el.
+57/D. § (1) Ha jogszabály másként nem rendelkezik, felügyeleti szervként a miniszter jár el.
 
 (2) Ha a mezőgazdasági és vidékfejlesztési támogatási szerv döntése jogszabályt sért, a felügyeleti szerv a hivatalbóli döntés-felülvizsgálati eljárása során azt megváltoztatja. Ha a felügyeleti szerv megváltoztató döntéséhez a tényállás a felügyeleti eljárásban nem tisztázható, a felügyeleti szerv a jogszabálysértő döntést végzésben megsemmisíti, és új eljárásra utasítja a mezőgazdasági és vidékfejlesztési támogatási szervet. A döntést közölni kell azzal, akivel a jogszabálysértő döntést közölték.
 

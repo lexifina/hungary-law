@@ -2,9 +2,9 @@
 
 57/A. § (1) A jogorvoslati eljárás során a törvény rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(1a) A mezőgazdasági és vidékfejlesztési támogatási szerv döntései ellen irányuló fellebbezést – az (1b) bekezdésben foglaltak kivételével – kormányrendeletben meghatározottak szerint az agrárpolitikáért felelős miniszter bírálja el.
+(1a) A mezőgazdasági és vidékfejlesztési támogatási szerv döntései ellen irányuló fellebbezést kormányrendeletben meghatározottak szerint a miniszter bírálja el.
 
-(1b) A mezőgazdasági és vidékfejlesztési támogatási szervnek az EMVA-ból és az EHA-ból finanszírozott intézkedésekkel kapcsolatos döntése ellen irányuló fellebbezést kormányrendeletben meghatározottak szerint az agrár-vidékfejlesztésért felelős miniszter bírálja el.
+(1b)
 
 (1c) A fellebbezést a döntés közlésétől számított 15 napon belül lehet előterjeszteni a mezőgazdasági és vidékfejlesztési támogatási szervnél. Ha a fellebbezést a fellebbezés elbírálására jogosult szervnél nyújtják be, akkor a fellebbezés elbírálására jogosult szerv a fellebbezést megküldi a mezőgazdasági és vidékfejlesztési támogatási szerv részére. Elkésettség címén a fellebbezés nem utasítható el, ha a fellebbezésre jogosult a fellebbezési határidőben a fellebbezést az elbírálására jogosult szervnél terjeszti elő.
 
@@ -40,4 +40,4 @@ f) a (2) bekezdés megsértésével benyújtott fellebbezést.
 
 (6) A fellebbezési eljárás során eljárási, valamint mulasztási bírság is kiszabható.
 
-(7) Nincs helye fellebbezésnek, ha a döntést első fokon a mezőgazdasági és vidékfejlesztési támogatási szervként történő eljárásában az agrárpolitikáért vagy az agrár-vidékfejlesztésért felelős miniszter hozza meg.
+(7) Nincs helye fellebbezésnek, ha a döntést első fokon a mezőgazdasági és vidékfejlesztési támogatási szervként történő eljárásában a miniszter hozza meg.

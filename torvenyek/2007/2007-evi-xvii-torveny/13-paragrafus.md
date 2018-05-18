@@ -6,7 +6,7 @@
 
 ## Az illetékes hatósági jogkör gyakorlása
 
-13. § (1) Az agrár-vidékfejlesztésért felelős miniszter illetékes hatósági jogkörének gyakorlása során:
+13. § (1) A miniszter illetékes hatósági jogkörének gyakorlása során:
 
 a) felelős a kifizető ügynökség akkreditációjáért, e feladatkörében – a közösségi jogi aktusokban foglaltak szerint – jogosult az akkreditáció megadására, illetve szükség esetén annak megvonására;
 
@@ -16,7 +16,7 @@ c)
 
 d)
 
-(2) Az agrár-vidékfejlesztésért felelős miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § e), h) és i) pontjában meghatározott hatásköröket gyakorolja.
+(2) A miniszter (1) bekezdés szerinti illetékes hatósági feladatai ellátása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv tekintetében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § e), h) és i) pontjában meghatározott hatásköröket gyakorolja.
 
 (3)
 

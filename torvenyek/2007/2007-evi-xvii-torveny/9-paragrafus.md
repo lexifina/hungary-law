@@ -20,11 +20,11 @@
 
 9. igazoló hatóság: az 1198/2006/EK tanácsi rendelet 58. cikk (1) bekezdés b) pontja szerinti szervezet;
 
-10. illetékes hatóság: a 885/2006/EK bizottsági rendelet 1. cikk (2) bekezdése, valamint a 908/2014/EU bizottsági végrehajtási rendelet 1. cikk (1) bekezdése alapján az agrár-vidékfejlesztésért felelős miniszter;
+10. illetékes hatóság: a 885/2006/EK bizottsági rendelet 1. cikk (2) bekezdése, valamint a 908/2014/EU bizottsági végrehajtási rendelet 1. cikk (1) bekezdése alapján az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter);
 
 11. irat: a polgári perrendtartásról szóló törvény szerinti irat, okirat, közokirat és magánokirat;
 
-12. irányító hatóság: az agrár-vidékfejlesztésért felelős miniszter mint
+12. irányító hatóság: a miniszter mint
 
 a) az 1698/2005/EK tanácsi rendelet 75. cikke és az 1198/2006/EK tanácsi rendelet 58. cikk (1) bekezdés a) pontja,
 

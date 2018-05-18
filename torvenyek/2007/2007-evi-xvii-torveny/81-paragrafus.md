@@ -22,7 +22,7 @@ rendeletben állapítsa meg.
 
 (1b) Felhatalmazást kap a Kormány, hogy az EMVA, az EHA és az ETHA tekintetében rendeletben állapítsa meg a III. Fejezet végrehajtásával kapcsolatos részletes szabályokat.
 
-(1c) Felhatalmazást kap a Kormány, hogy az agrárpolitikáért felelős miniszternek és az agrár-vidékfejlesztésért felelős miniszternek a mezőgazdasági és vidékfejlesztési támogatási szerv szakmai irányítására vonatkozó szabályait rendeletben állapítsa meg.
+(1c)
 
 (2) Felhatalmazást kap a Kormány, hogy
 
@@ -32,7 +32,7 @@ b) a gazdasági elemzésekkel foglalkozó intézményt
 
 rendeletben kijelölje.
 
-(3) Felhatalmazást kap az agrár-vidékfejlesztésért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel egyetértésben
+(3) Felhatalmazást kap az a miniszter, hogy
 
 a) az e törvény hatálya alá tartozó, az EMVA-ból és az EHA-ból támogatott intézkedések igénybevételével, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes, valamint az intézkedésekben való részvétellel kapcsolatos általános szabályokat,
 
@@ -58,7 +58,7 @@ k) az EMVA-ból finanszírozott támogatások esetén a kedvezményezett mezőga
 
 rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az agrár-vidékfejlesztésért felelős miniszterrel egyetértésben
+(4) Felhatalmazást kap a miniszter, hogy
 
 a) a (3) bekezdés a) pontja alá nem tartozó egyes intézkedések igénybevételével, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes, valamint az intézkedésekben való részvétellel kapcsolatos általános szabályokat,
 
@@ -94,4 +94,4 @@ p) a tevékenységihely-nyilvántartás módját és feltételeit, továbbá a t
 
 rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az agrár-vidékfejlesztésért felelős miniszterrel egyetértésben a nemzeti hatáskörbe tartozó mezőgazdasági, halászati, erdészeti és agrár-vidékfejlesztési állami támogatás igénybevételére vonatkozó, törvényben vagy kormányrendeletben nem szabályozott feltételeket rendeletben állapítsa meg.
+(5) Felhatalmazást kap a miniszter, hogy a nemzeti hatáskörbe tartozó mezőgazdasági, halászati, erdészeti és agrár-vidékfejlesztési állami támogatás igénybevételére vonatkozó, törvényben vagy kormányrendeletben nem szabályozott feltételeket rendeletben állapítsa meg.
