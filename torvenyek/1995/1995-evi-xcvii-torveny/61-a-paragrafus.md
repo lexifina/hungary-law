@@ -8,7 +8,7 @@ b) székhelye: H-1185 Budapest, Igló u. 33–35.;
 
 c) alapítója és egyedüli részvényese: a Magyar Állam;
 
-d) az alapítói és részvényesi jogok gyakorlója: a közlekedésért felelős miniszter.
+d) az alapítói és részvényesi jogok gyakorlója: az állami vagyon felügyeletéért felelős miniszter.
 
 (3) A Társaság feladatai:
 
