@@ -30,7 +30,7 @@ a) az egészségügyért felelős miniszter, hogy rendeletben hirdesse ki a kép
 
 b) az élelmiszerlánc-felügyeletért felelős miniszter, hogy rendeletben hirdesse ki az állatorvosi oklevelek megnevezését, az ezen okiratok birtokosaival azonos jogállású személyek körét, valamint rendeletben állapítsa meg az elismerési eljárás részletes szabályait,
 
-c) az építésügyért felelős miniszter, hogy rendeletben hirdesse ki az okleveles építészmérnöki oklevelek megnevezését, az előző okirat birtokosaival azonos jogállás alá tartozó személyek körét, valamint rendeletben állapítsa meg az elismerési eljárás részletes szabályait.
+c) az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, hogy rendeletben hirdesse ki az okleveles építészmérnöki oklevelek megnevezését, az előző okirat birtokosaival azonos jogállás alá tartozó személyek körét, valamint rendeletben állapítsa meg az elismerési eljárás részletes szabályait.
 
 (4) A hatáskörébe tartozó szabályozott szakmák esetében felhatalmazást kap a miniszter, hogy meghatározza az elismerhető vagy figyelembe vehető szakmai gyakornoki időszak időtartamát és az elismerés vagy figyelembevétel feltételeit.
 
