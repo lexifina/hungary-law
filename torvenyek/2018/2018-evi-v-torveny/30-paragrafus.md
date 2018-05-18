@@ -1,0 +1,1 @@
+30. § Az államháztartásról szóló 2011. évi CXCV. törvény 8/A. § (2) bekezdésében a „minisztérium és a kormányhivatal” szövegrész helyébe a „minisztérium, a Miniszterelnöki Kormányiroda és a kormányhivatal” szöveg lép.

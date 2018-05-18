@@ -1,0 +1,1 @@
+3. § Az 1. és 2. § szerinti központi államigazgatási szervek és a Magyarország minisztériumainak felsorolásáról szóló 2014. évi XX. törvény szerinti minisztériumok közötti jogutódlást a Kormány eredeti jogalkotói hatáskörben kiadott rendelete állapítja meg.

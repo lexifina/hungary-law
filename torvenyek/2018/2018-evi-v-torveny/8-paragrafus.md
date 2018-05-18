@@ -1,0 +1,1 @@
+8. § A légiközlekedésről szóló 1995. évi XCVII. törvény 61/A. § (2) bekezdés d) pontjában az „a közlekedésért felelős miniszter” szövegrész helyébe az „az állami vagyon felügyeletéért felelős miniszter” szöveg lép.

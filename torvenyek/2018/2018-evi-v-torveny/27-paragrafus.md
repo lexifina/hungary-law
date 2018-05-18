@@ -1,0 +1,1 @@
+27. § A világörökségről szóló 2011. évi LXXVII. törvény 1. mellékletében foglalt táblázat B:3., B:11., B:24., B:32., B:39., B:46. és B:54. mezőjében az „építésügyért felelős” szövegrész helyébe az „építésügyi szabályozásért és építéshatósági ügyekért felelős” szöveg lép.

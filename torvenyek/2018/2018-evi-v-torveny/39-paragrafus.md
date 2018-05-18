@@ -1,0 +1,1 @@
+39. § A Magyarország Kormánya és a Török Köztársaság Kormánya között a kulturális központok nyitásáról, működtetéséről és tevékenységéről szóló Egyezmény kihirdetéséről szóló 2013. évi CCXI. törvény 4. § (4) bekezdésében a „kormányzati tevékenység összehangolásáért” szövegrész helyébe a „külpolitikáért” szöveg lép.

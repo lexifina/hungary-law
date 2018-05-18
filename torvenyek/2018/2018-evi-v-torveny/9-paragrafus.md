@@ -1,0 +1,1 @@
+9. § A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 15. § (16) bekezdésében az „a kormányzati tevékenység összehangolásáért” szövegrész helyébe az „az általános politikai koordinációért” szöveg lép.

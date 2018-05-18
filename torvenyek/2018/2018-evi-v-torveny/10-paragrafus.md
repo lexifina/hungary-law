@@ -1,0 +1,1 @@
+10. § A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 38. § (1) bekezdésében az „építésügyért felelős” szövegrész helyébe az „építésügyi szabályozásért és építéshatósági ügyekért felelős” szöveg lép.

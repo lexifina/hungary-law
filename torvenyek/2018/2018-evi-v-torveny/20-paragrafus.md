@@ -1,0 +1,1 @@
+20. § Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 6. § (1) bekezdésében a „kormányzati tevékenység összehangolásáért” szövegrész helyébe a „közigazgatás-szervezésért” szöveg lép.

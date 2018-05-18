@@ -1,0 +1,1 @@
+42. § A Nemzeti Ménesbirtok és Tangazdaságról szóló 2016. évi XCI. törvény 5. § (2) bekezdésében az „a kormányzati tevékenység összehangolásáért” szövegrész helyébe az „az állami vagyon felügyeletéért” szöveg lép.

@@ -1,0 +1,1 @@
+14. § A víziközlekedésről szóló 2000. évi XLII. törvény 88. § (2) bekezdés 24. pontjában az „építésügyért felelős” szövegrész helyébe az „építésügyi szabályozásért és építéshatósági ügyekért felelős” szöveg lép.

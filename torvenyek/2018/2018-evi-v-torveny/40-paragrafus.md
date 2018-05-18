@@ -1,0 +1,1 @@
+40. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 182. § (2) bekezdés c) pontjában az „építésügyért felelős miniszter által” szövegrész helyébe az „építésügyi szabályozásért és építés-hatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter által együttesen” szöveg lép.

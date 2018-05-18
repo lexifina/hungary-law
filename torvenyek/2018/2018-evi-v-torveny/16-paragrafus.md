@@ -1,0 +1,1 @@
+16. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 67. § (3) bekezdés c) pontjában az „építésügyért felelős” szövegrész helyébe az „építésügyi szabályozásért és építéshatósági ügyekért felelős” szöveg lép.

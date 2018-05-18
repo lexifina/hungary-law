@@ -1,0 +1,1 @@
+17. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 182. § (3) bekezdés 23. pontjában az „építésügyért és” szövegrész helyébe az „építésügyi szabályozásért és építéshatósági ügyekért, valamint” szöveg lép.

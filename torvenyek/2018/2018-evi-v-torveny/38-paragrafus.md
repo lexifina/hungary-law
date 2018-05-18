@@ -1,0 +1,1 @@
+38. § A Magyarország Kormánya és a Kínai Népköztársaság Kormánya között kulturális központok kölcsönös létesítéséről szóló Megállapodás kihirdetéséről szóló 2013. évi CXXXVI. törvény 4. § (4) bekezdésében a „kormányzati tevékenység összehangolásáért” szövegrész helyébe a „külpolitikáért” szöveg lép.
