@@ -1,1 +1,0 @@
-3. § Felhatalmazást kap a Kormány, hogy a 2. § (2) bekezdése szerinti szervek átadás-átvételének módját, időpontját és eljárási szabályait, valamint az átadás-átvétel felelősét rendeletben állapítsa meg.
