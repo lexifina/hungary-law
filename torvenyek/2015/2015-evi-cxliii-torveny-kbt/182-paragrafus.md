@@ -8,7 +8,7 @@ a) a gazdaságpolitikáért felelős miniszter által kijelölt személy;
 
 b) a közbeszerzésekért felelős miniszter által kijelölt személy;
 
-c) az építésügyért felelős miniszter által kijelölt személy;
+c) az építésügyi szabályozásért és építés-hatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter által együttesen kijelölt személy;
 
 d) az állami vagyon felügyeletéért felelős miniszter által kijelölt személy;
 
