@@ -48,7 +48,7 @@ d) az új munkahely és a lakóhely között – tömegközlekedési eszközzel 
 
 Az a) pont alkalmazása szempontjából akkor is a kormánytisztviselő besorolása szerinti illetményt kell figyelembe venni, ha besorolása szerinti illetményénél magasabb illetményben, címadományozásban részesült, főtanácsadói, tanácsadói munkakört töltött be.
 
-(8) A végkielégítést a felmentési idő utolsó napján kell kifizetni.
+(8) A végkielégítést a felmentési idő utolsó napján kell kifizetni. Amennyiben a kormánytisztviselő a jogviszonya megszűnését követő 30 napon belül újabb kormányzati szolgálati jogviszonyt létesít, a kormányzati szolgálati jogviszonyt folyamatosnak kell tekinteni, és a végkielégítés összegének az új jogviszony létesítéséig a 30 napból hátralévő idővel arányos mértékét vissza kell fizetnie. A kifizetett végkielégítés összegét fel kell tüntetni a közszolgálati igazoláson.
 
 (9) Végkielégítésre nem jogosult a kormánytisztviselő, ha
 

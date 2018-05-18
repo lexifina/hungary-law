@@ -1,10 +1,10 @@
 ## Politikai tanácsadó, politikai főtanácsadó
 
-203. § (1) A kormányzati tevékenység összehangolásáért felelős miniszter kormány-főtanácsadói és kormánytanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet a miniszterelnök tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
+203. § (1) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter kormány-főtanácsadói és kormánytanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet a miniszterelnök tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
 
 (1a) Az általános politikai koordinációért felelős miniszter miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet a miniszterelnök tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
 
-(2) A kormányzati tevékenység összehangolásáért felelős miniszter kormány-főtanácsadói és kormánytanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet az általa vezetett minisztériumban a Kormány döntéseinek előkészítéséhez közvetlenül kapcsolódó feladatok ellátására.
+(2) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter kormány-főtanácsadói és kormánytanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet az általa vezetett minisztériumban a Kormány döntéseinek előkészítéséhez közvetlenül kapcsolódó feladatok ellátására.
 
 (2a) Az általános politikai koordinációért felelős miniszter miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet az általa vezetett minisztériumban a Kormány döntéseinek előkészítéséhez közvetlenül kapcsolódó feladatok ellátására.
 
@@ -22,11 +22,11 @@
 
 (9) A politikai főtanácsadó, politikai tanácsadó felett a munkáltatói jogokat
 
-a) az (1) bekezdés esetében a kormányzati tevékenység összehangolásáért felelős miniszter,
+a) az (1) bekezdés esetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter,
 
 b) az (1a) bekezdés esetében az általános politikai koordinációért felelős miniszter,
 
-c) a (2) bekezdés esetében a kormányzati tevékenység összehangolásáért felelős miniszter,
+c) a (2) bekezdés esetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter,
 
 d) a (2a) bekezdés esetében az általános politikai koordinációért felelős miniszter,
 

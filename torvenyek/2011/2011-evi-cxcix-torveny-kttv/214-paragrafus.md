@@ -1,6 +1,6 @@
 214. § (1) A szakmai vezető végkielégítésre nem jogosult.
 
-(2) A szakmai vezetőt minden naptári évben negyven munkanap szabadság illeti meg. A szabadság igénybevételét a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárának előzetesen be kell jelenteni. A 103. § (4) bekezdését azzal az eltéréssel kell alkalmazni a szakmai vezetőre, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni a szakmai vezető által kért időpontban. A 108. § szerint kiadott, illetve kivett szabadságot azzal az eltéréssel kell alkalmazni a szakmai vezetőre, hogy az nem haladhatja meg a huszonnégy munkanapot.
+(2) A szakmai vezetőt minden naptári évben negyven munkanap szabadság illeti meg. A szabadság igénybevételét a Miniszterelnöki Kormányiroda közigazgatási államtitkárának előzetesen be kell jelenteni. A 103. § (4) bekezdését azzal az eltéréssel kell alkalmazni a szakmai vezetőre, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni a szakmai vezető által kért időpontban. A 108. § szerint kiadott, illetve kivett szabadságot azzal az eltéréssel kell alkalmazni a szakmai vezetőre, hogy az nem haladhatja meg a huszonnégy munkanapot.
 
 (3) A fegyelmi vétséget elkövető szakmai vezetővel szemben kiszabható fegyelmi büntetések:
 

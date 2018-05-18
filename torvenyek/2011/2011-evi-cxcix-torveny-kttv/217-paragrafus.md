@@ -1,4 +1,4 @@
-217. § (1) A közigazgatási államtitkár e tisztségéről a miniszterelnök útján a köztársasági elnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat. A nyilatkozatot a közigazgatási államtitkár a miniszterhez juttatja el, aki azt haladéktalanul továbbítja a miniszterelnöknek.
+217. § (1) A közigazgatási államtitkár e tisztségéről a miniszterelnök útján a köztársasági elnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat. A nyilatkozatot a minisztérium közigazgatási államtitkára a miniszterhez juttatja el, aki azt haladéktalanul továbbítja a miniszterelnöknek. A Miniszterelnöki Kormányiroda közigazgatási államtitkára e nyilatkozatát közvetlenül juttatja el a miniszterelnök számára.
 
 (2) A közigazgatási államtitkár lemondása esetén a megbízatás megszűnésének időpontját a miniszterelnök javaslatára a köztársasági elnök határozza meg azzal, hogy az nem lehet későbbi a lemondásnak a köztársasági elnökkel történő közlését követő harmincadik napnál. A lemondási idő a megbízatás megszűnését követő napon kezdődik.
 

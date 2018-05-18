@@ -24,7 +24,7 @@ b) kidolgozza a közigazgatási személyzetpolitika irányait és elveit és gon
 
 (7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki a Közszolgálati Döntőbizottság elnökét és helyettesét, valamint tagjait.
 
-(8) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter dönt az 55. §-ban meghatározott kormányzati kirendelés elrendeléséről.
+(8)
 
 (9) A közszolgálati életpálya kidolgozásáért felelős miniszter irányítja a kormányzati szolgálati, illetve közszolgálati jogviszonyban állók képzését, továbbképzését, átképzését, ellátja a közigazgatási vezetőképzéssel kapcsolatos feladatokat.
 

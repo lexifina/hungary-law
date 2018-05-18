@@ -6,6 +6,6 @@
 
 (4) A közigazgatási államtitkár alapilletményét a miniszter át nem ruházható hatáskörében legfeljebb 30%-kal megemelheti.
 
-(5) A közigazgatási államtitkár jutalmazásáról a tevékenységét irányító miniszter és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter együttes javaslata alapján a miniszterelnök dönt.
+(5) A közigazgatási államtitkár jutalmazásáról a tevékenységét irányító miniszter és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter együttes javaslata alapján, a Miniszterelnöki Kormányiroda közigazgatási államtitkára esetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter véleményének kikérésével és egyetértésével a miniszterelnök dönt.
 
-(6) A közigazgatási államtitkár részére a tevékenységét irányító miniszter és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter együttes javaslata alapján a miniszterelnök célprémiumot állapíthat meg.
+(6) A közigazgatási államtitkár részére a tevékenységét irányító miniszter és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter együttes javaslata alapján, a Miniszterelnöki Kormányiroda közigazgatási államtitkára esetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter véleményének kikérésével és egyetértésével a miniszterelnök célprémiumot állapíthat meg.
