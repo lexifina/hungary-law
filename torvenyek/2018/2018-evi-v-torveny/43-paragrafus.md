@@ -31,11 +31,3 @@ e) 68. § (5) bekezdésében az „A 65. § (2) bekezdése szerinti helyettes á
 (7) Hatályát veszti a Kttv. 26. § (8) bekezdése.
 
 (8) Hatályát veszti a Magyarország minisztériumainak felsorolásáról szóló 2014. évi XX. törvény.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
