@@ -12,7 +12,7 @@ d) a szakmagyakorlók és az a)–c) pontba nem tartozó egyéb szervek és szem
 
 ismerhetik meg.
 
-(3) A miniszter e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint
+(3) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint
 
 a) a településfejlesztési, -rendezési és építésügyi dokumentációk országos központi tervtárának működtetéséről, fenntartásáról, fejlesztéséről, valamint a dokumentációk megőrzéséről és közérdekű hasznosításáról,
 

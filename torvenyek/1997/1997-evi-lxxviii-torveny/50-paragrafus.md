@@ -1,4 +1,4 @@
-50. § (1) A miniszter által vezetett minisztérium költségvetési fejezetében az épített környezet alakításának és védelmének pénzügyi eszközökkel történő támogatására külön előirányzat szolgál.
+50. § (1) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter által vezetett minisztérium költségvetési fejezetében az épített környezet alakításának és védelmének pénzügyi eszközökkel történő támogatására külön előirányzat szolgál.
 
 (2) Az (1) bekezdésben meghatározott pénzügyi eszközök – jogszabályban meghatározott módon és mértékben – az alábbi építésügyi feladatok támogatására és finanszírozására használhatók fel:
 

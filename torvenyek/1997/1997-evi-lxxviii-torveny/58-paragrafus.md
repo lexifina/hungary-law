@@ -60,7 +60,7 @@ Az a) és b) pontokban meghatározott eljárások, illetve azokkal összefüggé
 
 (5)
 
-(6) A miniszter – kormányrendeletben meghatározott módon – a Nyilvántartás keretében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottak szerint építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszert (ÉTDR) működtet. A miniszter a szabálytalan építési tevékenység feltárására irányuló építésfelügyeleti tevékenységet támogató elektronikus építésügyi monitoring rendszert (ÉMO) működtet.
+(6) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter – kormányrendeletben meghatározott módon – a Nyilvántartás keretében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottak szerint építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszert (ÉTDR) működtet, azzal, hogy annak igénybevételére az építésgazdaságért felelős miniszter is jogosult. Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter a szabálytalan építési tevékenység feltárására irányuló építésfelügyeleti tevékenységet támogató elektronikus építésügyi monitoring rendszert (ÉMO) működtet, azzal, hogy annak igénybevételére az építésgazdaságért felelős miniszter is jogosult.
 
 (7) A Nyilvántartás adatai megismerhetők és hozzáférhetők a külön törvényekben foglaltak figyelembevételével.
 
@@ -72,7 +72,7 @@ b) az építmények és telkek állapotának, az építési folyamat végzésén
 
 c) az egyéb szakmai feladatok ellátásához, kötelezettségek teljesítéséhez, építésügyi érdekérvényesítéshez szükséges adatok és információk szolgáltatása.
 
-(9) Az építésügyért felelős állami vezető mint adatkezelő, kormányrendeletben meghatározottak szerint a Nyilvántartás keretein belül az építési folyamat alábbi résztvevőinek személyes adatait kezeli:
+(9) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter mint adatkezelő, kormányrendeletben meghatározottak szerint a Nyilvántartás keretein belül az építési folyamat alábbi résztvevőinek személyes adatait kezeli, azzal, hogy a Nyilvántartás igénybevételére az építésgazdaságért felelős miniszter is jogosult:
 
 a) építtető, kötelezett,
 

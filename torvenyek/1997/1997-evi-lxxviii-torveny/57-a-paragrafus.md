@@ -4,7 +4,7 @@
 
 (2) Az épített környezet alakításával és védelmével kapcsolatos feladatok ellátása során az állami és a helyi önkormányzati szervek együttműködnek az érintett szakmai kamarákkal és a társadalom más szervezeteivel.
 
-(3) A miniszter – jogszabályban felsorolt és részletezett – szakmai díjakat adományoz különösen az alábbi területeken:
+(3) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter – jogszabályban felsorolt és részletezett – szakmai díjakat adományoz különösen az alábbi területeken:
 
 a) a kiemelkedő építészeti-műszaki alkotótevékenység, továbbá
 
@@ -14,6 +14,6 @@ c) a településrendezési és az építésügyi igazgatási tevékenység kimag
 
 (4) A kulturális örökség védelméért felelős miniszter, valamint a sajátos építményfajták szerinti miniszterek külön jogszabályban meghatározott szakmai díjakat adományoznak.
 
-(5) Az e törvényben megállapított szakmagyakorlási tevékenységeket érintő feladatok ellátása során a miniszter együttműködik a felsőoktatásban folyó képzési és fejlesztési kérdésekben az állami hatáskörök ellátásában közreműködő testületekkel – különösen a Magyar Felsőoktatási Akkreditációs Bizottsággal, a Felsőoktatási Tervezési Testülettel, a Magyar Rektori Konferenciával –, az egyéb civil vagy érdekképviseleti szervezetekkel és a műszaki tudományos egyesületekkel.
+(5) Az e törvényben megállapított szakmagyakorlási tevékenységeket érintő feladatok ellátása során az építésgazdaságért felelős miniszter az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter bevonásával együttműködik a felsőoktatásban folyó képzési és fejlesztési kérdésekben az állami hatáskörök ellátásában közreműködő testületekkel – különösen a Magyar Felsőoktatási Akkreditációs Bizottsággal, a Felsőoktatási Tervezési Testülettel, a Magyar Rektori Konferenciával –, az egyéb civil vagy érdekképviseleti szervezetekkel és a műszaki tudományos egyesületekkel.
 
 (6) A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény (a továbbiakban: Kamtv.) 11. § (2) bekezdés j) pontjában meghatározott eseteken túl a Magyar Építész Kamara, illetve a Magyar Mérnöki Kamara jogosult a Kamtv. 1. § (1) bekezdésében meghatározott körben, valamint az építésügyi és építésfelügyeleti hatósági feladatot ellátó köztisztviselők és kormánytisztviselők, valamint állami tisztviselők esetében a külön kormányrendeletben meghatározott módon a felsőfokú végzettséget igazoló oklevél szakirányú kredittartalmának a megállapítására, ha az oklevélből a külön kormányrendeletben meghatározott munkakört megalapozó képzettségi szint – a kormányrendelet alapján – nem állapítható meg.

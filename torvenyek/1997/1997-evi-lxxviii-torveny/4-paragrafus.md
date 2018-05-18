@@ -16,4 +16,10 @@ d) az országos kutatási, műszaki fejlesztési programok kialakításáról é
 
 (3a) A magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, valamint az országos jelentőségű kulturális és sport rendeltetésű építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan az ott megvalósítandó közérdekű beruházás érdekében, valamint a nemzetbiztonsági célú építmények telkére vonatkozóan a Kormány rendeletben megállapíthatja a beépítés szabályait.
 
-(4) A Kormány az építésügy központi irányítását, összehangolását – ideértve a sajátos építményfajták és a műemlékek tekintetében az összehangoló feladatokat is – az építésügyért felelős miniszter (a továbbiakban: miniszter) útján gyakorolja.
+(4) A Kormány az építésügy központi irányítását, összehangolását – ideértve a sajátos építményfajták és a műemlékek tekintetében az összehangoló feladatokat is –
+
+a) a szabályozás, valamint a hatósági ügyek kapcsán az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter,
+
+b) az építőipar fejlődésének elősegítése és támogatása érdekében az építésgazdaságért felelős miniszter
+
+útján gyakorolja.
