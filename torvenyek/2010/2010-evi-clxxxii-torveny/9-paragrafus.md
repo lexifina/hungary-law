@@ -2,7 +2,7 @@
 
 (1a) Ha az Alapból nyújtott támogatás kedvezményezettje az Alap kezelő szerve, a támogatás felhasználásának ellenőrzésével kapcsolatos feladatokat a Bizottság látja el.
 
-(2) Az Alap kezelő szerve felett a tulajdonosi jogokat a magyar állam nevében a kormányzati tevékenység összehangolásáért felelős miniszter gyakorolja.
+(2) Az Alap kezelő szerve felett a tulajdonosi jogokat a magyar állam nevében a nemzetpolitikáért felelős miniszter gyakorolja.
 
 (3) Az Alap kezelő szerve feladatainak hatékony ellátása érdekében a pályáztatási feladatok vagy azok egy részének ellátása érdekében más szervezetet is létrehozhat vagy megbízhat.
 
