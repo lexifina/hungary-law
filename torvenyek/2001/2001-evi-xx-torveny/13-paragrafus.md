@@ -1,6 +1,6 @@
 ## A tulajdonosi jogok gyakorlója
 
-13. § (1) Az MFB Zrt.-ben az államot mint egyszemélyes tulajdonost a miniszter képviseli.
+13. § (1)
 
 (2)
 
