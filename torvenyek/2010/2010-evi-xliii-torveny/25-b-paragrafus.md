@@ -12,7 +12,7 @@ e) hivatalos külföldi kiküldetése idején kíséretre, az állami vezetők t
 
 f) külföldre utazás és külföldről történő hazautazás esetén, illetve hivatalos külföldi küldöttség fogadása, kísérése céljából jogosult a repülőtéri kormányváró helyiségek használatára,
 
-g) – a szolgáltatást nyújtó egészségügyi intézmény és a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium megállapodása szerint – valamennyi egészségügyi ellátás térítésmentes igénybevételére
+g) – a szolgáltatást nyújtó egészségügyi intézmény és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium megállapodása szerint – valamennyi egészségügyi ellátás térítésmentes igénybevételére
 
 h)
 

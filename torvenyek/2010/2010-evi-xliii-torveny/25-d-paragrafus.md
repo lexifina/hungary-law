@@ -1,4 +1,4 @@
-25/D. § (1) A miniszterelnök közcélú felajánlásai, adományai költségeinek fedezetéül a központi költségvetésről szóló törvényben a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium és az általános politikai koordinációért felelős miniszter által vezetett minisztérium költségvetési fejezetén belül külön előirányzat szolgálhat, amely felett a miniszterelnök rendelkezik.
+25/D. § (1) A miniszterelnök közcélú felajánlásai, adományai költségeinek fedezetéül a központi költségvetésről szóló törvényben a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium és az általános politikai koordinációért felelős miniszter által vezetett minisztérium költségvetési fejezetén belül külön előirányzat szolgálhat, amely felett a miniszterelnök rendelkezik.
 
 (2) Az (1) bekezdés szerinti előirányzatból pályázat útján vagy pályáztatás nélkül, egyedi döntés alapján nyújtható közcélú felajánlás, adomány.
 

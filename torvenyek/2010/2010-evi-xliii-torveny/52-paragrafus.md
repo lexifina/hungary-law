@@ -2,7 +2,7 @@
 
 52. § (1) Államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető.
 
-(2) Az államtitkárt a miniszterelnöknek a miniszter véleménye kikérését követően tett javaslatára a köztársasági elnök nevezi ki. A miniszter véleményét a kormányzati tevékenység összehangolásáért felelős miniszter útján terjeszti a miniszterelnök elé. A kormányzati tevékenység összehangolásáért felelős miniszter a véleményre észrevételt tehet.
+(2) Az államtitkárt a miniszterelnöknek a miniszter véleménye kikérését követően tett javaslatára a köztársasági elnök nevezi ki.
 
 (3) Az államtitkár a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
 

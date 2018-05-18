@@ -2,7 +2,7 @@
 
 60. § (1)
 
-(2) A minisztérium szervezeti és működési szabályzatát, illetve annak módosítását e törvény keretei között a miniszter – a miniszterelnök és a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban adja ki.
+(2) A minisztérium szervezeti és működési szabályzatát, illetve annak módosítását e törvény keretei között a miniszter – a miniszterelnök jóváhagyását követően – normatív utasításban adja ki.
 
 (3)
 

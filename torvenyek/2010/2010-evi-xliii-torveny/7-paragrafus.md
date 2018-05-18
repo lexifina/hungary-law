@@ -4,7 +4,7 @@
 
 (3) A szakmai vezető kormányzati szolgálati jogviszonyban áll.
 
-(4) Az állami vezetők személyi anyagának nyilvántartását a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium vezeti.
+(4) Az állami vezetők személyi anyagának nyilvántartását a Miniszterelnöki Kormányiroda vezeti.
 
 (5)
 

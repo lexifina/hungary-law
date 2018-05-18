@@ -1,4 +1,4 @@
-71. § (1) A kormányhivatal szervezeti és működési szabályzatát a kormányhivatal vezetője készít elő, és a kormányhivatalt felügyelő miniszter – a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban ad ki.
+71. § (1) A kormányhivatal szervezeti és működési szabályzatát a kormányhivatal vezetője készít elő, és a kormányhivatalt felügyelő miniszter – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter jóváhagyását követően – normatív utasításban ad ki.
 
 (2)
 

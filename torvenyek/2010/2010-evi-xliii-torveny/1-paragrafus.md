@@ -12,9 +12,9 @@ a) a Kormány,
 
 b) a kormánybizottság,
 
-c)
+c) a minisztérium,
 
-d) a minisztérium,
+d) a Miniszterelnöki Kormányiroda,
 
 e) az autonóm államigazgatási szerv,
 

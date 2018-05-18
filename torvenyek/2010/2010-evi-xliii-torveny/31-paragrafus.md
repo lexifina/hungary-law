@@ -1,6 +1,6 @@
 ## A kormánybiztos
 
-31. § (1) A Kormány – normatív határozatával – miniszter vagy kormányhivatal feladatkörébe nem tartozó vagy kiemelt fontosságú feladat ellátására kormánybiztost nevezhet ki. A kormánybiztos személyére a kormányzati tevékenység összehangolásáért felelős miniszter tesz javaslatot.
+31. § (1) A Kormány – normatív határozatával – miniszter vagy kormányhivatal feladatkörébe nem tartozó vagy kiemelt fontosságú feladat ellátására kormánybiztost nevezhet ki. A kormánybiztos személyére a miniszterelnök tesz javaslatot.
 
 (2) Kormánybiztossá
 
@@ -20,9 +20,15 @@ a Kormány feladatkörébe tartozó feladat ellátására nevezhető ki.
 
 (7) A (2) bekezdés b) pontjában meghatározott kormánybiztos államtitkári illetménynek megfelelő összegű díjazásra és kormányrendeletben meghatározott juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
 
-(8) A kormánybiztost tevékenységének ellátásában a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
+(8) A kormánybiztost tevékenységének ellátásában a Kormány (1) bekezdés szerinti normatív határozatában meghatározottak szerint kijelölt minisztériumban vagy a Miniszterelnöki Kormányirodán működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
-(8a) A (8) bekezdéstől eltérően a kormánybiztost tevékenységének ellátásában a (2) bekezdés a) pontjában meghatározott esetben a kinevezése szerinti minisztériumban, miniszter irányítása alatt, illetve ha a kormánybiztos tevékenységét – a feladattól függően – a miniszterelnök és a miniszter is irányítja, az irányítást ellátó miniszter irányítása alatt álló minisztériumban működő titkárság segíti, amelyre mindkét esetben az államtitkár titkárságának szabályai az irányadóak.
+(8a) A kormánybiztost tevékenységének ellátásában a (2) bekezdés a) pontjában meghatározott esetben – a (8) bekezdéstől eltérően –
+
+a) a kinevezése szerinti minisztériumban, a miniszter irányítása alatt működő titkárság, vagy
+
+b) a kinevezése szerinti Miniszterelnöki Kormányirodán működő titkárság
+
+segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
 (9) A Kormány az (1) bekezdés szerinti normatív határozatában
 
