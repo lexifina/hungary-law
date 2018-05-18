@@ -16,7 +16,7 @@ d) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű más
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a jogszabályszerkesztés részletes szabályait.
 
-(3) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy rendeletben határozza meg az előzetes és az utólagos hatásvizsgálat részletes szabályait.
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg az előzetes és az utólagos hatásvizsgálat részletes szabályait.
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 
