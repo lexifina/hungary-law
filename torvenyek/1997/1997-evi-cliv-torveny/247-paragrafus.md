@@ -90,7 +90,7 @@ d) a népegészségügyi feladatok végrehajtása érdekében
 
 da) az egyes szolgáltató tevékenységek folytatásának feltételei, valamint az ezek során felhasználásra kerülő anyagok és termékek gyártásával, forgalmazásával és felhasználásával kapcsolatos közegészségügyi követelményeket,
 
-db) az építésügyért felelős, valamint a sajátos építményfajták szerint illetékes miniszterrel egyetértésben az építmények, egyéb létesítmények létesítésének, üzemeltetésének közegészségügyi és egészségvédelmi követelményeit,
+db) az építésgazdaságért felelős, valamint a sajátos építményfajták szerint illetékes miniszterrel egyetértésben az építmények, egyéb létesítmények létesítésének, üzemeltetésének közegészségügyi és egészségvédelmi követelményeit,
 
 dc) a lakosság egészségvédelmét biztosító egészségügyi határértékeket,
 
