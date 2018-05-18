@@ -1,3 +1,3 @@
-24. § (1) Az építésügyért felelős miniszter jogszabályban meghatározott módon látja el az építőanyagok gyártásához felhasznált, illetve a külföldről behozott alapanyagok, továbbá a kereskedelmi forgalomba kerülő építőanyagok és egyéb termékek radioaktivitásának ellenőrzését.
+24. § (1) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter jogszabályban meghatározott módon látja el az építőanyagok gyártásához felhasznált, illetve a külföldről behozott alapanyagok, továbbá a kereskedelmi forgalomba kerülő építőanyagok és egyéb termékek radioaktivitásának ellenőrzését.
 
 (2)
