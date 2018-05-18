@@ -17,3 +17,5 @@ d) hivatásos állományba való visszavétele esetén szolgálati viszonyát fo
 e) hivatásos állományba való visszavétele esetén rendfokozata az előmeneteli feltételek teljesítése esetén legfeljebb egy rendfokozattal lehet magasabb, mint az a rendfokozat, amelyet szolgálati viszonya megszűnését közvetlenül megelőzően viselt, és
 
 f) hivatásos állományba való visszavétele esetén próbaidőt nem kell kikötni.
+
+(4) A köztársasági elnök által szolgálaton kívüli állományba felvett személy a Honvédség szociális gondoskodási körébe tartozik, valamint a 132. § szerint jubileumi jutalomra jogosult. Nem jogosult jubileumi jutalomra az a szolgálaton kívüli állományba felvett személy, aki azt másik foglalkoztatási jogviszonyban már megkapta, illetve akinek szolgálaton kívüli jogállása megszűnt vagy megszüntetésre került. A jubileumi jutalomra való jogosultságra jogosító szolgálati időkre alkalmazni kell a 92. §-t. A jubileumi jutalmat a szolgálati viszony megszűnését megelőző napon érvényes távolléti díj alapján a központi személyügyi szerv vezetője állapítja meg.

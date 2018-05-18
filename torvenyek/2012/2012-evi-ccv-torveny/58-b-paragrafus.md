@@ -1,0 +1,1 @@
+58/B. § A szolgálati viszony 58–58/A. § szerinti szünetelésének időtartama alatt az állomány tagját – a lakbértámogatás (kiegészítés), a lakásüzemeltetési hozzájárulás és az albérletidíj-hozzájárulás, továbbá a szállóbérlet kivételével – a már megszerzett lakhatási támogatás továbbra is megilleti.

@@ -8,7 +8,7 @@ b) a jogszabályban előírt képzési kötelezettség önhibából történő n
 
 c) országgyűlési képviselővé, európai parlamenti képviselővé, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, társadalmi megbízatású polgármesterré, alpolgármesterré, helyi önkormányzati képviselővé és nemzetiségi önkormányzati képviselővé történt megválasztásakor,
 
-d) politikai vezetővé történő kinevezésével,
+d) – az 58/A. §-ban foglaltak kivételével – állami vezetővé történő kinevezésével,
 
 e) a magyar állampolgárság megszűnésével,
 

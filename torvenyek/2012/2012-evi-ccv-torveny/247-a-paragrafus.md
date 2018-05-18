@@ -1,1 +1,1 @@
-247/A. §
+247/A. § E törvénynek a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvénnyel megállapított 76. § (4) bekezdését a hatálybalépésekor a köztársasági elnök által szolgálaton kívüli állományba helyezett személyekre is alkalmazni kell.
