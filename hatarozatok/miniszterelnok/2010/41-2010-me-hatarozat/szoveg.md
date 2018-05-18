@@ -108,7 +108,7 @@ Vályi-Nagy Vilmost
 
 a Nemzeti Fejlesztési Minisztérium helyettes államtitkárává,
 
-dr. Bognár Lajost,
+dr. Bognár Lajost,[^3]
 
 Búsi Lajost,
 
@@ -130,3 +130,4 @@ kinevezem.
 
 [^1]: A 61/2012. (V. 22.) ME határozat alapján dr. Latorcai Csaba tekintetében a „Közigazgatási és Igazságügyi Minisztérium” megnevezés helyett „Emberi Erőforrások Minisztériuma” megnevezést kell érteni.
 [^2]: A 110/2010. (XII. 14.) ME határozat alapján Olajos Péter tekintetében a „Nemzetgazdasági Minisztérium” megnevezés helyett „Nemzeti Fejlesztési Minisztérium”-ot kell érteni.
+[^3]: A 93/2018. (VII. 4.) ME határozat alapján dr. Bognár Lajos tekintetében akként módosul, hogy a „Vidékfejlesztési Minisztérium” megnevezés helyett az „Agrárminisztérium” megnevezést kell érteni.
