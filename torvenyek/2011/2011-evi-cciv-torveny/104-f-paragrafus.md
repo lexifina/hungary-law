@@ -1,0 +1,1 @@
+104/F. § A miniszter a felsőoktatási intézmények működésével kapcsolatos eljárásaiban az agrártudományok és a műszaki tudományok tudományterületen, valamint az agrár, gazdaságtudományok, informatika, műszaki képzési területen folytatott felsőoktatási tevékenység vonatkozásában a tudománypolitika koordinációjáért felelős miniszter közreműködésével dönt.

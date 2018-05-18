@@ -21,19 +21,3 @@
 ## h) a személyiadat- és lakcímnyilvántartásból való kikerülésének oka és időpontja,
 
 ## i) megváltozott munkaképességre, tartós betegségre, balesetre, valamint ennek időtartamára vonatkozó adatai,
-
-## j) állampolgársága,
-
-## k) telefonszáma, elektronikus levelezési címe,
-
-## l) felsőoktatási képzésére, a hallgatói jogviszonyára vonatkozó adatai,
-
-## m) ügyfélkapus kapcsolati kódja,
-
-## n) a már teljesített és a még fennálló kötelezettségére, a kötelezettség keletkezésére és megszűnésére vonatkozó adatai.
-
-## 1/A. E törvény által a felsőoktatási felvételre jelentkezőkről nyilvántartott adatok
-
-## a) a jelentkező természetes személyazonosító adatai, felsőoktatási képzésének költségviselési formája, lakcímre vonatkozó adatai, telefonszáma, elektronikus levelezési címe,
-
-## b) a jelentkező hallgatói azonosítója,

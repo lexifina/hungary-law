@@ -42,7 +42,9 @@ hb) éves képzési tevékenységének – különösen az indított szakok, a k
 
 i) a felsőoktatási intézmény működése, gazdálkodása ellenőrzése céljából jogosult az intézmény tanulmányi, gazdálkodási, illetve egyéb nyilvántartási adataihoz való hozzáférésre a 3. mellékletben foglaltak szerint;
 
-j) jóváhagyásával határozza meg a felsőoktatási intézmény az intézményben folytatott képzés költségét.
+j) jóváhagyásával határozza meg a felsőoktatási intézmény az intézményben folytatott képzés költségét;
+
+k) gyakorolja az állami felsőoktatási intézményben a konzisztórium tagjainak delegálásával, megbízásával, visszahívásával, a megbízás megszüntetésével kapcsolatos döntési hatásköröket.
 
 (4) A fenntartó a szervezeti és működési szabályzat egységességét, teljességét, törvényességét, hatékonyságnak való megfelelőségét vizsgálja.
 

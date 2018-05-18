@@ -12,7 +12,7 @@ ab) a vagyon valós piaci értékének megfelelő ellenérték fejében,
 
 ac) az állami vagyon felügyeletéért felelős miniszter előzetes hozzájárulásával,
 
-ad) a miniszter előzetes értesítése mellett,
+ad) a fenntartó előzetes értesítése mellett,
 
 ae) ingatlan esetén az ingatlan fekvése szerinti települési – fővárosban az ingatlan fekvése szerinti kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi – önkormányzat elővásárlási jogának biztosításával, vagy
 

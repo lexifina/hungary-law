@@ -28,7 +28,7 @@ e) hallgatói kompetenciamérést rendel el,
 
 f) a külföldi magyar nyelvű felsőoktatás támogatása céljából felsőoktatási együttműködési programot hirdet meg.
 
-(3) A miniszter felsőoktatás-fejlesztéssel kapcsolatos feladatai:
+(3) A miniszter felsőoktatás-fejlesztéssel kapcsolatos – a tudománypolitika koordinációjáért felelős miniszter közreműködésével ellátott – feladatai:
 
 a) a felsőoktatás rendszere fejlesztési terveinek elkészíttetése, beleértve a középtávú fejlesztési tervet,
 
