@@ -4,4 +4,4 @@
 
 (3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
-(4) E törvény végrehajtásához szükséges intézkedésekről a kormányzati tevékenység összehangolásáért felelős miniszter gondoskodik.
+(4) E törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik.
