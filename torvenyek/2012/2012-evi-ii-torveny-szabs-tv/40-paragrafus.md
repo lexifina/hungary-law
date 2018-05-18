@@ -12,7 +12,7 @@
 
 a) járási hivatal esetén a fővárosi és megyei kormányhivatal, rendőrkapitányság esetén a megyei (fővárosi) rendőr-főkapitányság, Nemzeti Adó- és Vámhivatal területi szerve esetén a Központi Irányítás,
 
-b) fővárosi és megyei, vagy több megyei kormányhivatal illetékességi területe esetén a kormányzati tevékenység összehangolásáért felelős miniszter, több rendőr-főkapitányság illetékességi területe esetén az Országos Rendőr-főkapitányság,
+b) fővárosi és megyei, vagy több megyei kormányhivatal illetékességi területe esetén a közigazgatás-szervezésért felelős miniszter, több rendőr-főkapitányság illetékességi területe esetén az Országos Rendőr-főkapitányság,
 
 c) az a) és b) pontban foglaltak hiányában a szabálysértési szabályozásért felelős miniszter
 

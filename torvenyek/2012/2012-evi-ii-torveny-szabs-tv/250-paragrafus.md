@@ -24,7 +24,7 @@ b) a szabálysértési nyilvántartások részére történő adatközlés form�
 
 c) a szabálysértési nyilvántartó szerv által teljesített adatszolgáltatás rendjének,
 
-d) az adópolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter, a közlekedésért felelős miniszter, a halgazdálkodásért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a természetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter egyetértésével a helyszíni bírságolás végrehajtásának, a helyszíni bírságolást igazoló nyomtatvány kialakításának,
+d) az adópolitikáért felelős miniszter, a közigazgatás-szervezésért felelős miniszter, a közlekedésért felelős miniszter, a halgazdálkodásért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a természetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter egyetértésével a helyszíni bírságolás végrehajtásának, a helyszíni bírságolást igazoló nyomtatvány kialakításának,
 
 e)
 
