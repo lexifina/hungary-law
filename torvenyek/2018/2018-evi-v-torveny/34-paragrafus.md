@@ -1,1 +1,0 @@
-34. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 40. § (5) bekezdés b) pontjában, valamint a 250. § (2) bekezdés d) pontjában a „kormányzati tevékenység összehangolásáért” szövegrész helyébe a „közigazgatás-szervezésért” szöveg lép.

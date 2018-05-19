@@ -1,1 +1,0 @@
-7. § A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 53. § (9) bekezdésében a „kormányzati tevékenység összehangolásáért” szövegrész helyébe a „közigazgatás-szervezésért” szöveg lép.

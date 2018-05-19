@@ -1,1 +1,0 @@
-22. § Az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés a) pontjában az „az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság, a Magyar” szövegrész helyébe az „a Magyar” szöveg lép.
