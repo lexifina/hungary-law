@@ -1,1 +1,0 @@
-## 12. § Az elveszett, ellopott vagy megrongálódott kártyák pótlása esetén az intézmény a kártya-előállítás és kézbesítés költségét a munkavállalóra háríthatja. Ennek mértéke nem haladhatja meg kártyánként az 1500 forintot.
