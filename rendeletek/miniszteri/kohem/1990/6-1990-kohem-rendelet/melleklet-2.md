@@ -798,6 +798,6 @@
 
 ## ** A gyermekülésnek/gyermek visszatartó rendszernek a 44. számú, vagy a 129 számú ENSZ-EGB előírás szerint kell jóváhagyottnak lennie.
 
-2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^284]
+2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^286]
 
-[^284]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
+[^286]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.

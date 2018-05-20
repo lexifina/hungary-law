@@ -26,6 +26,6 @@ g) ha a járművön önjárást biztosító berendezés van, annak lehetővé ke
 
 h) a jármű elektromos fékrendszerének olyannak kell lenni, hogy automatikusan biztosítsa a visszatáplálásról az ellenállás fékezésre való áttérést abban az esetben, ha a hálózat a visszatáplálást nem teszi lehetővé; ellenállás-fékezés esetén a fékezést egészen kis (kb. 5 km/h) sebességig biztosítani kell,
 
-i)[^217] a jármű villamos berendezéseinek teljesítenie kell az érintésvédelemre, a túlterhelés elleni védelemre, a zárlatvédelemre, a túlfeszültség elleni védelemre, a feszültség-kimaradásra, a szigetelésre, valamint a földelésre vonatkozó biztonsági követelményeket.
+i)[^219] a jármű villamos berendezéseinek teljesítenie kell az érintésvédelemre, a túlterhelés elleni védelemre, a zárlatvédelemre, a túlfeszültség elleni védelemre, a feszültség-kimaradásra, a szigetelésre, valamint a földelésre vonatkozó biztonsági követelményeket.
 
-[^217]: A 109. § (4) bekezdés i) pontja a 63/2011. (XI. 29.) NFM rendelet 5. §-ával megállapított szöveg.
+[^219]: A 109. § (4) bekezdés i) pontja a 63/2011. (XI. 29.) NFM rendelet 5. §-ával megállapított szöveg.

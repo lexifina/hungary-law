@@ -2,43 +2,47 @@
 
 ## 1. Gépkocsi
 
-## 0M16478M_0
+## 8K00359M_0
 
-| A beépített belsőégésű motor jellege | Gyártási időpont / környezetvédelmi osztály jelzés (kód) | Szénmonoxid alapjáraton és emelt fordulatszámon1 ( CO [tf%] ) | Szénhidrogén (CH [ppm] ) és/vagy lambda alapjáraton |
+|  | A | B | C | D | E | F | G |
 
-| Otto- rend- szerű | Kipufogó- gáz utó- kezelés nélkül | Négy- ütemű | 1969. július 1. előtt gyártott | 0 | 6,0 | - |
+| 1. | A beépített belsőégésű motor jellege | Gyártási időpont / környezetvédelmi osztály jelzés (kód) | Szénmonoxid alapjáraton és emelt fordulatszámon5 (CO [tf%]) | Szénhidrogén (CH [ppm]), vagy lambda alapjáraton |
 
-| 1969. július 1. és 1986. október 1. között gyártott | 0 | 4,5 | 1000 |
+| 2. | Otto- rendszerű | Kipufogógáz utókezelés nélkül | Négyütemű |  |  |  | - |
 
-| 1986. október 1. után gyártott | 0 | 3,5 | 1000 |
+| 3. | 1992. január 1. előtt gyártott | 0 | 4,5 |  |
 
-| Kétütemű | 0 | 2,5 | 20002 |
+| 4. | 1992. január 1. után gyártott | 0 | 3,5 |  |
 
-| Kipufogógáz utókezeléssel | 3 komponensre ható katalitikus utó- kezelő berendezés, szabályozott keverékképzéssel | 2, 4 | 0,5 / 0,3 | 0,97<λ<1,03 |
+| 5. | Kétütemű | 0 | 2,5 | 20006 |
 
-| 5, 6, 9, 14, 15 | 0,3 / 0,2 |
+| 6. | Kipufogógáz utókezeléssel | 3 komponensre ható katalitikus utókezelő berendezés, szabályozott keverékképzéssel | 2, 4 | 0,5 / 0,3 | 0,97< λ <1,03 |
 
-| egyéb után- égető | négyütemű motornál | 1 | 1,0 | 400 és λ>1,00 |
+| 7. | 5, 6, 9, 14, 15 | 0,3 / 0,2 |
 
-| kétütemű motornál | 1 | 1,5 | 2000 |
+| 8. | egyéb után- égető | négyütemű motornál | 1 | 1,0 | λ >1,00 |
 
-| Dízel- rend- szerű |  |  | Szabadgyorsításos füstkibocsátás [K (m-1)]3 |
+| 9. | kétütemű motornál | 1 | 1,5 | 2000 |
 
-|  | 0, 3 | normál (szívó) motor: 2,5 |
+| 10. | Dízel- rendszerű |  |  | Szabadgyorsításos füstkibocsátás [K (m-1)]7 |
 
-|  | feltöltött, füstkorlátozó nélkül: 3,0 |
+| 11. |  | 0, 3 | normál (szívó) motor: 2,5 |
 
-|  | 4, 5 | 2,0 |
+| 12. |  | feltöltött, füstkorlátozó nélkül: 3,0 |
 
-|  | 7, 8, 10, 11, 12, 13 | 1,5 |
+| 13. |  | 4, 5 | 2,0 |
 
-|  | 14, 15 | 0,5 |
+| 14. |  | 7, 8, 10, 11, 12, 13 | 1,5 |
 
-## 1 „emelt fordulatszám” az M1 és N1 kategóriába tartozó gépkocsik esetében nmin = 2500 min-1 és nmax = 3000 min-1 értékek közötti, az M2, M3, N2 és N3 kategóriába tartozó gépkocsik esetében nmin = 2000 min-1 és nmax = 2500 min-1 értékek közötti fordulatszámot jelent.
+| 15. |  | 14, 15 | 0,5 |
 
-## 2 A közúti közlekedési szolgáltatáshoz nem használt, kétütemű motorral ellátott gépkocsi esetében a szénhidrogén (CH) kibocsátási határértéket 2020. december 31-éig teljesítettnek kell tekinteni, ha a gépkocsi motorjának beszabályozása – a közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló együttes miniszteri rendeletben meghatározott jellemzők tekintetében – megfelel a gyári beállítási adatoknak.
+## A táblázathoz tartozó megjegyzések:
 
-## 3 A szabadgyorsításos füstkibocsátás [K (m-1)] értéke 0,9 s < t90 < 1,1 s elektromos időállandójú műszerrel (B-módus) mérve.
+## 5 „emelt fordulatszám” az M1 és N1 kategóriába tartozó gépkocsik esetében nmin = 2500 min-1 és nmax = 3000 min-1 értékek közötti, az M2, M3, N2 és N3 kategóriába tartozó gépkocsik esetében nmin = 2000 min-1 és nmax = 2500 min-1 értékek közötti fordulatszámot jelent.
+
+## 6 A közúti közlekedési szolgáltatáshoz nem használt, kétütemű motorral ellátott gépkocsi esetében a szénhidrogén (CH) kibocsátási határértéket 2020. december 31-éig teljesítettnek kell tekinteni, ha a gépkocsi motorjának beszabályozása – a közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló együttes miniszteri rendeletben meghatározott jellemzők tekintetében – megfelel a gyári beállítási adatoknak.
+
+## 7 A szabadgyorsításos füstkibocsátás [K (m-1)] értéke 0,9 s<t90<1,1 s elektromos időállandójú műszerrel (B-módus) mérve.
 
 ## 2. Motorkerékpár és segédmotoros kerékpár Otto-rendszerű motorral
 
@@ -54,15 +58,19 @@
 
 ## 3. Mezőgazdasági vontató és lassú jármű
 
-| A beépített motor jellege | Szén-monoxid | Szénhidrogén alapjáraton és a névleges legnagyobb fordulatszám 60%-án (ppm) |
+|  | A | B | C | D |
 
-| alapjáraton (tf%) | a névleges legnagyobb fordulatszám 60%-án (tf%) |
+|  |  | Szén-monoxid |  |
 
-| Otto-rendszerű motorral | 3,5 | 2,5 | 500 |
+| 1. | A beépített motor jellege | alapjáraton (tf%) | a névleges legnagyobb fordulatszám 60%-án (tf%) | Szénhidrogén alapjáraton és a névleges legnagyobb fordulatszám 60%-án (ppm) |
 
-|  | Szabadgyorsításos füstkibocsátás (m-1) |
+| 2. | Otto-rendszerű motorral | 3,5 | 2,5 | 500 |
 
-| Dízel-rendszerű motorral | 3,5 |
+| 3. |  | Szabadgyorsításos füstkibocsátás (m-1) |
+
+| 4. | T1-T4 járműkategóriába tartozó és a kizárólag belföldön üzemeltetett T5 járműkategóriába tartozó jármű dízel-rendszerű motorral | 3,5 |
+
+| 5. | Minden egyéb T5 járműkategóriába tartozó jármű dízel-rendszerű motorral | 3,0 |
 
 ## II. A gépjárművek környezetvédelmi osztályba sorolása
 
@@ -142,6 +150,6 @@
 
 ## (12) Az Euro-VI. kibocsátási határértéket az 582/2011/EU bizottsági rendelet XV. mellékletével (2011.06.25. L167/163) módosított, a nehéz tehergépjárművek kibocsátásai (Euro-VI) tekintetében a gépjárművek és motorok típusjóváhagyásáról, a járművek javítására és karbantartására vonatkozó információkhoz való hozzáférésről szóló 595/2009/EK európai parlamenti és tanácsi rendelet I. melléklete határozza meg.
 
-6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^291]
+6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^293]
 
-[^291]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+[^293]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
