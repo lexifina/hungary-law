@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-5-20-5E
 | 2018-01-26 | 1990-5-20-5E.85 | 1/2018. (I. 18.) NFM rendelet |
 | 2018-02-10 | 1990-5-20-5E.86 | 2/2018. (II. 5.) NFM rendelet |
 | 2018-03-31 | 1990-5-20-5E.87 | 53/2017. (XII. 22.) NFM rendelet |
+| 2018-05-20 | 1990-5-20-5E.88 | 2/2018. (II. 5.) NFM rendelet |

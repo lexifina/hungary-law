@@ -1,6 +1,6 @@
 ## Forgalomba helyezés előtti vizsgálat eredményén alapuló intézkedések
 
-11. § (1)[^121] Ha a forgalomba helyezés előtti vizsgálat eredménye szerint a jármű a közúti forgalomban való részvételre műszaki, közlekedésbiztonsági és környezetvédelmi szempontból alkalmasnak minősül, illetve a 10. § (4) bekezdésben meghatározott esetben ki kell adni a megfelelt minősítésű „Műszaki adatlapot”, amely tartalmazza:
+11. § (1)[^124] Ha a forgalomba helyezés előtti vizsgálat eredménye szerint a jármű a közúti forgalomban való részvételre műszaki, közlekedésbiztonsági és környezetvédelmi szempontból alkalmasnak minősül, illetve a 10. § (4) bekezdésében meghatározott esetben ki kell adni a vizsgálatot kezdeményező részére a megfelelt minősítésű „Műszaki vizsgálati bizonyítványt” és „Műszaki adatlapot”, amely tartalmazza:
 
 a) a jármű forgalomba helyezéséhez szükséges műszaki és környezetvédelmi adatokat,
 
@@ -8,13 +8,13 @@ b) a jármű közlekedésbiztonsági és környezetvédelmi megfelelőségének 
 
 c) a forgalmi engedély időbeli hatályaként a következő időszakos vizsgálat határidejét, valamint – gépjárművek esetén – a kilométer-számláló műszer által jelzett értéket és a rögzítés időpontját (dátumát) is.
 
-(2)[^122] A „Műszaki adatlap” a jármű forgalomba helyezéséhez a forgalomba helyezés előtti vizsgálatot követő hat hónapig, de legfeljebb a forgalomba helyezési engedély időbeli hatályának lejártáig használható fel.
+(2)[^125] A „Műszaki adatlap” a jármű forgalomba helyezéséhez a forgalomba helyezés előtti vizsgálatot követő hat hónapig, de legfeljebb a forgalomba helyezési engedély időbeli hatályának lejártáig használható fel.
 
-(3)[^123] Az időszakos vizsgálat határidejét új jármű esetén a forgalomba helyezés napjától, használt jármű esetén a forgalomba helyezés előtti vizsgálat napjától számított
+(3)[^126] Az időszakos vizsgálat határidejét új jármű esetén a forgalomba helyezés napjától, használt jármű esetén a forgalomba helyezés előtti vizsgálat napjától számított
 
-a)[^124] az autóbusznál, a trolibusznál a b) pont alá be nem sorolt 3500 kg megengedett legnagyobb össztömeget meghaladó gépkocsinál és pótkocsinál, valamint a személytaxinál és a személymentő gépkocsinál egy évben,
+a)[^127] az autóbusznál, a trolibusznál a b) pont alá be nem sorolt 3500 kg megengedett legnagyobb össztömeget meghaladó gépkocsinál és pótkocsinál, valamint a személytaxinál és a személymentő gépkocsinál egy évben,
 
-b)[^125] a motorkerékpárnál, a T1b, T2b, T3b, T4b és T5 járműkategóriába tartozó mezőgazdasági vontatónál, a 3500 kg megengedett legnagyobb össztömeget meg nem haladó gépkocsinál, a „méhesházas” különleges felépítményű gépkocsinál és ilyen felépítményű pótkocsinál, továbbá a motorkerékpár, a személygépkocsi és a T5 járműkategóriába tartozó mezőgazdasági vontató pótkocsijánál
+b)[^128] a motorkerékpárnál, a T1b, T2b, T3b, T4b és T5 járműkategóriába tartozó mezőgazdasági vontatónál, a 3500 kg megengedett legnagyobb össztömeget meg nem haladó gépkocsinál, a „méhesházas” különleges felépítményű gépkocsinál és ilyen felépítményű pótkocsinál, továbbá a motorkerékpár, a személygépkocsi és a T5 járműkategóriába tartozó mezőgazdasági vontató pótkocsijánál
 
 ba) új jármű esetében négy évben,
 
@@ -28,23 +28,23 @@ da) 4 naptári éven belül két évben,
 
 db) 4 naptári éven túl egy évben,
 
-e)[^126] „OT” betűjelű különleges rendszámmal üzemeltetett muzeális jellegű jármű, valamint a T1, T1a, T2, T2a, T3, T3a, T4 és T4a járműkategóriába tartozó mezőgazdasági vontató és a kizárólag e járműkategóriákba tartozó mezőgazdasági vontatóval vagy lassú járművel vontatható pótkocsi esetében öt évben,
+e)[^129] „OT” betűjelű különleges rendszámmal üzemeltetett muzeális jellegű jármű, valamint a T1, T1a, T2, T2a, T3, T3a, T4 és T4a járműkategóriába tartozó mezőgazdasági vontató és a kizárólag e járműkategóriákba tartozó mezőgazdasági vontatóval vagy lassú járművel vontatható pótkocsi esetében öt évben,
 
-f)[^127] versenyjármű esetében 1 évben
+f)[^130] versenyjármű esetében 1 évben
 
 kell meghatározni.
 
-(3a)[^128] Ha az időszakos vizsgálatot a forgalmi engedély időbeli hatályának (műszaki érvényességi idejének) lejárta előtt legfeljebb 30 napon belül végzik, a forgalmi engedély hatályának megállapításánál a (3) bekezdésben meghatározott időtartamot nem az időszakos vizsgálat napjától, hanem a forgalmi engedély időbeli hatályának lejárta napjától kell számítani.
+(3a)[^131] Ha az időszakos vizsgálatot a forgalmi engedély időbeli hatályának (műszaki érvényességi idejének) lejárta előtt legfeljebb 30 napon belül végzik, a forgalmi engedély hatályának megállapításánál a (3) bekezdésben meghatározott időtartamot nem az időszakos vizsgálat napjától, hanem a forgalmi engedély időbeli hatályának lejárta napjától kell számítani.
 
-(4)[^129] Ha az (1) bekezdésben említett jármű a forgalomba helyezés előtti, vagy az időszakos vizsgálat időpontját követően hatályba lépő – az MR.-ben meghatározott – üzemeltetési műszaki feltételnek nem felel meg, akkor a következő időszakos vizsgálat határidejeként az MR.-ben meghatározott új követelmény hatálybalépési időpontját kell megállapítani.
+(4)[^132] Ha az (1) bekezdésben említett jármű a forgalomba helyezés előtti, vagy az időszakos vizsgálat időpontját követően hatályba lépő – az MR.-ben meghatározott – üzemeltetési műszaki feltételnek nem felel meg, akkor a következő időszakos vizsgálat határidejeként az MR.-ben meghatározott új követelmény hatálybalépési időpontját kell megállapítani.
 
-(5)[^130] Ha a járműnek a típusbizonyítványban rögzített vagy a forgalomba helyezés előtti vizsgálata során megállapított tulajdonságai indokolják, a forgalomban való részvételt korlátozni kell, illetőleg külön feltételekhez kell kötni. A korlátozást, illetőleg a feltételeket a jármű forgalmi engedélyében fel kell tüntetni.
+(5)[^133] Ha a járműnek a típusbizonyítványban rögzített vagy a forgalomba helyezés előtti vizsgálata során megállapított tulajdonságai indokolják, a forgalomban való részvételt korlátozni kell, illetőleg külön feltételekhez kell kötni. A korlátozást, illetőleg a feltételeket a jármű forgalmi engedélyében fel kell tüntetni.
 
-(6)[^131] A forgalomban való részvétel korlátozása és az (5) bekezdés alapján megállapított feltételek kiterjedhetnek a jármű:
+(6)[^134] A forgalomban való részvétel korlátozása és az (5) bekezdés alapján megállapított feltételek kiterjedhetnek a jármű:
 
 a) megengedett sebességére,
 
-b)[^132]
+b)[^135]
 
 c) konstrukciós jellemzői által meghatározott használati korlátozásra, így különösen:
 
@@ -52,21 +52,27 @@ ca) a kiegyenlítőmű nélküli hajtott tengellyel rendelkező L7e kategóriáj
 
 cb) a járműgyártó által előírt üzemeltetési korlátozásra,
 
-cc)[^133] a versenyjárművek használatára.
+cc)[^136] a versenyjárművek használatára.
 
-(7)[^134] Ha a jármű a forgalomba helyezés előtti vizsgálat során a műszaki, közlekedésbiztonsági, vagy környezetvédelmi követelményeknek nem felel meg, a forgalomban való részvételt a közlekedési hatóság nem engedélyezi.
+(7)[^137] Ha a jármű a forgalomba helyezés előtti vizsgálat során a műszaki, közlekedésbiztonsági, vagy környezetvédelmi követelményeknek nem felel meg, a forgalomban való részvételt a közlekedési hatóság nem engedélyezi.
 
-[^121]: A 11. § (1) bekezdése a 62/2011. (XI. 29.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^122]: A 11. § (2) bekezdését a 12/1998. (V. 22.) KHVM rendelet 20. §-ának (5) bekezdése hatályon kívül helyezte, újonnan a 83/2005. (X. 11.) GKM rendelet 5. § (1) bekezdése iktatta be, szövege a 27/2010. (III. 31.) KHEM rendelet 4. §-ával megállapított szöveg.
-[^123]: A 11. § új (3) bekezdését a 12/1998. (V. 22.) KHVM rendelet 8. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. A (3) bekezdés a 66/2009. (XI. 27.) KHEM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^124]: A 11. § (3) bekezdés a) pontja a 62/2011. (XI. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^125]: A 11. § (3) bekezdés b) pontja a 26/2016. (VII. 22.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^126]: A 11. § (3) bekezdés e) pontja a 26/2016. (VII. 22.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^127]: A 11. § (3) bekezdés f) pontját a 22/2012. (V. 8.) NFM rendelet 4. § (1) bekezdése iktatta be.
-[^128]: A 11. § (3a) bekezdését a 22/2012. (V. 8.) NFM rendelet 4. § (2) bekezdése iktatta be.
-[^129]: A 11. § új (4) bekezdését a 43/2001. (XII. 18.) KöViM rendelet 4. §-a iktatta a szövegbe, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva.
-[^130]: A 11. § (4) – eredeti (3) – bekezdésének számozását (5) bekezdésre változtatta a 43/2001. (XII. 18.) KöViM rendelet 4. §-a, szövege a 14/2009. (III. 31.) KHEM rendelet 2. §-ával megállapított szöveg.
-[^131]: A 11. § (6) bekezdését a 105/2007. (XII. 23.) GKM rendelt 5. §-a iktatta be, szövege a 14/2009. (III. 31.) KHEM rendelet 2. §-ával megállapított szöveg.
-[^132]: A 11. § (6) bekezdés b) pontját a 22/2012. ( V. 8.) NFM rendelet 13. §-a hatályon kívül helyezte.
-[^133]: A 11. § (6) bekezdés c) pont cc) alpontját a 22/2012. (V. 8.) NFM rendelet 4. § (3) bekezdése iktatta be.
-[^134]: A 11. § (7) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 9. § (3) bekezdése iktatta be.
+(8)[^138] A „Műszaki vizsgálati bizonyítvány” adatait elektronikus úton továbbítani kell a közlekedésért felelős miniszter részére. Ezeket az adatokat legalább három évig meg kell őrizni.
+
+(9)[^139] A „Műszaki vizsgálati bizonyítvány” az EGT-tagállam által kiállított olyan bizonyítvány, amely a közúti forgalomban részt vevő jármű műszaki alkalmasságát igazolja.
+
+[^124]: A 11. § (1) bekezdése a 2/2018. (II. 5.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^125]: A 11. § (2) bekezdését a 12/1998. (V. 22.) KHVM rendelet 20. §-ának (5) bekezdése hatályon kívül helyezte, újonnan a 83/2005. (X. 11.) GKM rendelet 5. § (1) bekezdése iktatta be, szövege a 27/2010. (III. 31.) KHEM rendelet 4. §-ával megállapított szöveg.
+[^126]: A 11. § új (3) bekezdését a 12/1998. (V. 22.) KHVM rendelet 8. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. A (3) bekezdés a 66/2009. (XI. 27.) KHEM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^127]: A 11. § (3) bekezdés a) pontja a 62/2011. (XI. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^128]: A 11. § (3) bekezdés b) pontja a 26/2016. (VII. 22.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^129]: A 11. § (3) bekezdés e) pontja a 26/2016. (VII. 22.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^130]: A 11. § (3) bekezdés f) pontját a 22/2012. (V. 8.) NFM rendelet 4. § (1) bekezdése iktatta be.
+[^131]: A 11. § (3a) bekezdését a 22/2012. (V. 8.) NFM rendelet 4. § (2) bekezdése iktatta be.
+[^132]: A 11. § új (4) bekezdését a 43/2001. (XII. 18.) KöViM rendelet 4. §-a iktatta a szövegbe, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva.
+[^133]: A 11. § (4) – eredeti (3) – bekezdésének számozását (5) bekezdésre változtatta a 43/2001. (XII. 18.) KöViM rendelet 4. §-a, szövege a 14/2009. (III. 31.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^134]: A 11. § (6) bekezdését a 105/2007. (XII. 23.) GKM rendelt 5. §-a iktatta be, szövege a 14/2009. (III. 31.) KHEM rendelet 2. §-ával megállapított szöveg.
+[^135]: A 11. § (6) bekezdés b) pontját a 22/2012. ( V. 8.) NFM rendelet 13. §-a hatályon kívül helyezte.
+[^136]: A 11. § (6) bekezdés c) pont cc) alpontját a 22/2012. (V. 8.) NFM rendelet 4. § (3) bekezdése iktatta be.
+[^137]: A 11. § (7) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 9. § (3) bekezdése iktatta be.
+[^138]: A 11. § (8) bekezdését a 2/2018. (II. 5.) NFM rendelet 4. § (2) bekezdése iktatta be.
+[^139]: A 11. § (9) bekezdését a 2/2018. (II. 5.) NFM rendelet 4. § (2) bekezdése iktatta be.

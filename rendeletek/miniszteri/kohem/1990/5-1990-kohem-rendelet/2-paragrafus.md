@@ -66,25 +66,27 @@ k)[^25] tesztvezető: olyan járművezető, aki úgy felügyeli valamely fejlesz
 
 l)[^26] fejlesztési célú autonóm jármű tesztje: a fejlesztési célú autonóm jármű közforgalom elől elzárt úton, zárt tesztpályán vagy a közúti közlekedésben való részvétele, a járműfejlesztő által meghatározott vizsgálatok elvégzésére, a benne járművezetőként helyet foglaló tesztvezető irányításával és felügyeletével,
 
-m)[^27] e-segélyhívó rendszer: a járműbe épített érzékelők révén automatikusan vagy manuálisan bekapcsolódó vészhelyzeti rendszer, amely fedélzeti berendezésből, valamint az e-segélyhíváshoz szükséges adattovábbítás indítására, kezelésére és lebonyolítására szolgáló eszközökből áll, és amely nyilvános, mobil, vezeték nélküli hírközlési hálózatok segítségével minimálisan előírt adatokat továbbít, és a 112-es segélyhívó számon alapuló hangátviteli csatornát hoz létre a jármű utasai és egy e-segélyhívási közbiztonsági válaszpont (KBVP) között.
+m)[^27] e-segélyhívó rendszer: a járműbe épített érzékelők révén automatikusan vagy manuálisan bekapcsolódó vészhelyzeti rendszer, amely fedélzeti berendezésből, valamint az e-segélyhíváshoz szükséges adattovábbítás indítására, kezelésére és lebonyolítására szolgáló eszközökből áll, és amely nyilvános, mobil, vezeték nélküli hírközlési hálózatok segítségével minimálisan előírt adatokat továbbít, és a 112-es segélyhívó számon alapuló hangátviteli csatornát hoz létre a jármű utasai és egy e-segélyhívási közbiztonsági válaszpont (KBVP) között,
+
+n)[^28] „hiányosság”: műszaki hiba és a meg nem felelés egyéb esetei, amelyet az időszakos vizsgálat vagy közúti műszaki ellenőrzés során tártak fel.
 
 (5) A rendelet alkalmazásában pótalkatrész az az alkatrész, amelyet nem a gyártás (gyári szerelés) során építettek a járműbe.
 
-(6)[^28] A rendelet alkalmazásában ,,gázüzemű jármű'': az MR. 2. §-ának (4) bekezdésében meghatározott jármű.
+(6)[^29] A rendelet alkalmazásában ,,gázüzemű jármű'': az MR. 2. §-ának (4) bekezdésében meghatározott jármű.
 
 (7) A rendelet alkalmazásában ,,járműtípus'': az azonos járműkategóriába tartozó olyan járművek összessége, amelyeket ugyanaz a gyártó gyárt, ugyanolyan alvázuk van és gyártójuk a járműveket ugyanazzal a típusjellel látja el. E rendelet A., B. és C. Függelékei (a továbbiakban: Függelékek), valamint az MR. a járműtípusra további feltételeket határozhat meg. A járműkategória fogalmát az A. Függelékének A/2. számú melléklete és a B. Függelék 1. Cikke határozza meg. Egy járműtípus különböző jármű-változatokat és jármű-kiviteleket tartalmazhat.
 
-(7a)[^29] E rendelet alkalmazásában „típuscsalád”: olyan járműtípusok összessége, amelyek gyártmánya megegyezik, és a közlekedési hatóság eljárása során vizsgálandó műszaki jellemzőik tekintetében nem térnek el egymástól.
+(7a)[^30] E rendelet alkalmazásában „típuscsalád”: olyan járműtípusok összessége, amelyek gyártmánya megegyezik, és a közlekedési hatóság eljárása során vizsgálandó műszaki jellemzőik tekintetében nem térnek el egymástól.
 
-(8)[^30] A rendeletben a járművekkel kapcsolatos fogalmakra – az a)–j) pontban foglalt eltéréssel, illetőleg kiegészítésekkel – a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendeletben foglaltakat kell alkalmazni. Annak megítélése szempontjából, hogy a jármű sík úton önerejéből milyen sebességgel képes haladni, a jármű tervezési sebessége az irányadó. A rendelet alkalmazásában:
+(8)[^31] A rendeletben a járművekkel kapcsolatos fogalmakra – az a)–j) pontban foglalt eltéréssel, illetőleg kiegészítésekkel – a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendeletben foglaltakat kell alkalmazni. Annak megítélése szempontjából, hogy a jármű sík úton önerejéből milyen sebességgel képes haladni, a jármű tervezési sebessége az irányadó. A rendelet alkalmazásában:
 
-a)[^31] „traktor”: a 167/2013/EU európai parlamenti és tanácsi rendelet 3. cikk 8. pontjában meghatározott fogalom.
+a)[^32] „traktor”: a 167/2013/EU európai parlamenti és tanácsi rendelet 3. cikk 8. pontjában meghatározott fogalom.
 
 b) ,,munkagép'': a közúti forgalomban időszakosan részt vevő olyan önjáró vagy vontatott gép, amely nem szállítás vagy vontatás, hanem egyéb munkavégzés céljából készült,
 
-ba)[^32] „mezőgazdasági erőgép”: a tervezési sebessége alapján lassú járműnek minősülő, vagy a 29. § (3) bekezdésében foglalt eljárás alkalmazásával lassú járműnek minősített önjáró munkagép, amely kizárólag mezőgazdasági, erdészeti feladatú berendezések, gépek vontatására, hordozására, tolására, működtetésére alkalmas, és nem alkalmas közúti teherszállításra (ide nem értve a saját munkaeszközeit és adaptereit), valamint közúton pótkocsit nem vontat;
+ba)[^33] „mezőgazdasági erőgép”: a tervezési sebessége alapján lassú járműnek minősülő, vagy a 29. § (3) bekezdésében foglalt eljárás alkalmazásával lassú járműnek minősített önjáró munkagép, amely kizárólag mezőgazdasági, erdészeti feladatú berendezések, gépek vontatására, hordozására, tolására, működtetésére alkalmas, és nem alkalmas közúti teherszállításra (ide nem értve a saját munkaeszközeit és adaptereit), valamint közúton pótkocsit nem vontat;
 
-bb)[^33] „mezőgazdasági vontatmány”: olyan pótkocsinak nem minősülő vontatott munkagép, amely – a működéséhez szükséges eszközöket ide nem értve – teherszállításra nem alkalmas, és amelyet a közúti forgalomban mezőgazdasági erőgéppel, mezőgazdasági vontatóval vagy lassú járművel vontatnak,
+bb)[^34] „mezőgazdasági vontatmány”: olyan pótkocsinak nem minősülő vontatott munkagép, amely – a működéséhez szükséges eszközöket ide nem értve – teherszállításra nem alkalmas, és amelyet a közúti forgalomban mezőgazdasági erőgéppel, mezőgazdasági vontatóval vagy lassú járművel vontatnak,
 
 c) ,,üres tömeg'': a rendeltetésszerű használatra alkalmas jármű tömege, amely magába foglalja a jármű, annak alkatrészei és önálló műszaki egységei (ideértve a gyártó által biztosított világító és fényjelző berendezéseket is) tökéletes működését biztosító mennyiségű folyadékokat (pl. akkumulátorsav, hidraulikafolyadék, motorolaj) is, – az üzemanyag, illetve az üzemanyag-olaj keverék tömege azonban nem számít az ,,üres tömeg''-be,
 
@@ -96,19 +98,19 @@ f) ,,műszakilag megengedett legnagyobb terhelés'': az a tömeg, amely a műsza
 
 g) ,,menetkész tömeg'': a jármű saját tömege, valamint – 75 kg-mal figyelembe véve – a vezető tömege,
 
-h)[^34] ,,muzeális jellegű jármű'': a muzeális jellegre vonatkozóan külön jogszabályban[^35] meghatározott feltételeknek megfelelő jármű.
+h)[^35] ,,muzeális jellegű jármű'': a muzeális jellegre vonatkozóan külön jogszabályban[^36] meghatározott feltételeknek megfelelő jármű.
 
-i)[^36] „versenyjármű”: a sportról szóló 2004. évi I. törvény szerinti versenyrendszernek megfelelően versenyzési célra használt gépkocsi,
+i)[^37] „versenyjármű”: a sportról szóló 2004. évi I. törvény szerinti versenyrendszernek megfelelően versenyzési célra használt gépkocsi,
 
-j)[^37] csuklós lassújármű: csuklós szerkezettel állandóan összekapcsolt két vagy több merev részből álló lassújármű, ahol a merev részek szétválasztása csak műhelyben, erre használt eszközökkel lehetséges; a több merev tagból álló személyszállító lassújármű abban az esetben is csuklós járműnek tekinthető, ha az utasterek nem átjárhatók és a járműegységek pótkocsi kapcsoló berendezéssel vannak összekapcsolva.
+j)[^38] csuklós lassújármű: csuklós szerkezettel állandóan összekapcsolt két vagy több merev részből álló lassújármű, ahol a merev részek szétválasztása csak műhelyben, erre használt eszközökkel lehetséges; a több merev tagból álló személyszállító lassújármű abban az esetben is csuklós járműnek tekinthető, ha az utasterek nem átjárhatók és a járműegységek pótkocsi kapcsoló berendezéssel vannak összekapcsolva.
 
-(9)[^38] A rendelet alkalmazásában a gépkocsik és a pótkocsik a következő járműkategóriák egyikébe sorolhatóak:
+(9)[^39] A rendelet alkalmazásában a gépkocsik és a pótkocsik a következő járműkategóriák egyikébe sorolhatóak:
 
 a) ,,M1 járműkategória'': személygépkocsik,
 
 b) ,,M2 járműkategória'': legfeljebb 5 t megengedett legnagyobb össztömegű autóbuszok,
 
-c)[^39] „M3 járműkategória”: több, mint 5 t megengedett legnagyobb össztömegű autóbuszok és trolibuszok,
+c)[^40] „M3 járműkategória”: több, mint 5 t megengedett legnagyobb össztömegű autóbuszok és trolibuszok,
 
 d) ,,N1 járműkategória'': legfeljebb 3,5 t megengedett legnagyobb össztömegű tehergépkocsik és vontatók,
 
@@ -124,7 +126,7 @@ i) ,,O3 járműkategória'': több, mint 3,5 t, de legfeljebb 10 t megengedett l
 
 j) ,,O4 járműkategória'': több, mint 10 t megengedett legnagyobb össztömegű pótkocsik.
 
-(10)[^40] A rendelet alkalmazásában járműsorozatnak kell tekinteni az – alvázszámaival egyedileg azonosított – azonos járműtípushoz tartozó
+(10)[^41] A rendelet alkalmazásában járműsorozatnak kell tekinteni az – alvázszámaival egyedileg azonosított – azonos járműtípushoz tartozó
 
 a) kis sorozatú gyártással létrehozott,
 
@@ -134,21 +136,51 @@ c) külföldről újként, meghatározott számban együttesen behozott
 
 ## járműveket azzal a feltétellel, hogy összeépítésük, illetőleg forgalomba helyezésük engedélyezését egy kérelmező közös eljárásban kezdeményezi.
 
-(11)[^41] E rendelet alkalmazásában „EK típusbizonyítvánnyal ellátott jármű”: az a jármű, amelynek típusára vonatkozóan az Európai Gazdasági Térség tagállamának jóváhagyó hatósága
+(11)[^42] E rendelet alkalmazásában „EK típusbizonyítvánnyal ellátott jármű”: az a jármű, amelynek típusára vonatkozóan az Európai Gazdasági Térség tagállamának jóváhagyó hatósága
 
 a) a gépjárművek és pótkocsijaik típusjóváhagyására vonatkozó tagállami jogszabályok közelítéséről szóló 70/156/EGK tanácsi irányelv vagy a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkatrészeinek és önálló műszaki egységeinek jóváhagyásáról szóló 2007/46/EK európai parlamenti és tanácsi irányelv („keretirányelv”), illetve e rendelet A. Függeléke alapján, továbbá
 
-b)[^42] a B. Függelék, illetve a 168/2013/EU európai parlamenti és tanácsi rendelet alapján, vagy
+b)[^43] a B. Függelék, illetve a 168/2013/EU európai parlamenti és tanácsi rendelet alapján, vagy
 
-c)[^43] a C. Függelék, illetve a 167/2013/EU európai parlamenti és tanácsi rendelet alapján
+c)[^44] a C. Függelék, illetve a 167/2013/EU európai parlamenti és tanácsi rendelet alapján
 
 ## „EK típusjóváhagyó okmány”-t adott ki.
 
-(12)[^44] A rendelet alkalmazásában ,,bontási információk'': azoknak az ismereteknek az összessége, amelyek biztosítják az elhasználódott jármű szakszerű, a hulladékkezelési szempontokat előnyben részesítő, a környezetvédelmi előírásoknak megfelelő szétszerelését, bontását, különös tekintettel a jármű gyártásakor felhasznált veszélyes anyagokra.
+(12)[^45] A rendelet alkalmazásában ,,bontási információk'': azoknak az ismereteknek az összessége, amelyek biztosítják az elhasználódott jármű szakszerű, a hulladékkezelési szempontokat előnyben részesítő, a környezetvédelmi előírásoknak megfelelő szétszerelését, bontását, különös tekintettel a jármű gyártásakor felhasznált veszélyes anyagokra.
 
-(13)[^45] A két-, három- és négykerekű segédmotoros kerékpár (L1e, L2e és L6e járműkategória), a kétkerekű motorkerékpár (L3e járműkategória), az oldalkocsis motorkerékpár (L4e járműkategória), valamint a három- és négykerekű motoros tricikli (L5e és L7e járműkategória) járműkategóriába sorolásának műszaki feltételeit a B. függelék 1. cikk (2) és (3) bekezdése határozza meg.
+(13)[^46] A két-, három- és négykerekű segédmotoros kerékpár (L1e, L2e és L6e járműkategória), a kétkerekű motorkerékpár (L3e járműkategória), az oldalkocsis motorkerékpár (L4e járműkategória), valamint a három- és négykerekű motoros tricikli (L5e és L7e járműkategória) járműkategóriába sorolásának műszaki feltételeit a B. függelék 1. cikk (2) és (3) bekezdése határozza meg.
 
-(14)[^46] A mezőgazdasági vontatók, valamint egyes mezőgazdasági célú lassú járművek T1.–T5. járműkategóriába sorolásának műszaki feltételeit a C. Függelék C/2. számú melléklet A. Fejezete határozza meg.
+(14)[^47] A mezőgazdasági vontatók, valamint egyes mezőgazdasági célú lassú járművek T1.–T5. járműkategóriába sorolásának műszaki feltételeit a C. Függelék C/2. számú melléklet A. Fejezete határozza meg.
+
+(15)[^48] A közúti ellenőrzéshez kapcsolódó egyes fogalmak:
+
+a) „ellenőr”: az elsődleges vagy részletes közúti műszaki ellenőrzések elvégzésére az illetékes hatóság által feljogosított személy,
+
+b) „haszonjármű”: elsődlegesen árufuvarozásra vagy személyszállításra kereskedelmi célokból – például ellenszolgáltatás fejében vagy saját számlára végzett szállításra – vagy üzletszerűen használt gépjármű és pótkocsija vagy félpótkocsija,
+
+c) „illetékes hatóság”: a gépjárműfenntartó szervezetek, a műszaki vizsgáló állomások és műszaki vizsgabiztosok tevékenységének, a közúti közlekedésben részt vevők, valamint a közúti közlekedési szolgáltatást végzők ellenőrzéséért felelős hatóság,
+
+d) „kijelölt közúti ellenőrzési létesítmény”: esetlegesen állandó vizsgálati berendezésekkel felszerelt, rögzített helyszín elsődleges vagy részletes közúti műszaki ellenőrzések elvégzésére,
+
+e) „közút”: általános közforgalmú út, például helyi, regionális vagy országos közút, főút, gyorsforgalmi út vagy autópálya,
+
+f) „közúti műszaki ellenőrzés”: a jármű közlekedésre való alkalmasságának váratlan, az illetékes hatóságok vagy közvetlenül e hatóságok felügyelete alatt álló szervek általi műszaki ellenőrzése,
+
+g) „mobil ellenőrzési egység”: a részletes közúti műszaki ellenőrzés elvégzéséhez szükséges vizsgálati berendezések szállítható rendszere, a részletes közúti műszaki ellenőrzések elvégzésére jogosult ellenőrökkel,
+
+h) „műszaki vizsgálat”: a 2014/45/EU európai parlamenti és tanácsi rendelet 3. cikk 9. pontja szerinti vizsgálat,
+
+i) „műszaki vizsgálati bizonyítvány”: az illetékes hatóság vagy egy műszaki vizsgálóállomás által kiállított bizonyítvány, amely tartalmazza a műszaki vizsgálat eredményét,
+
+j) „tagállami nyilvántartásba vett gépjármű”: egy tagállamban nyilvántartásba vett vagy forgalomba helyezett gépjármű,
+
+k) „üzembentartó”: az a személy, aki vagy amely a járművet tulajdonosként üzemelteti, vagy aki számára a tulajdonos engedélyezte a jármű üzemeltetését,
+
+l) „vállalkozás”: az 1071/2009/EK rendelet 2. cikk 4. pontjában meghatározott vállalkozás,
+
+m) „rakomány”: teherszállításra tervezett járműben vagy annak részén szokásosan elhelyezett, a járműhöz állandó jelleggel nem rögzített valamennyi áru, beleértve a teherszállító egységekben, például a járművön található rekeszekben, csereszekrényekben vagy konténerekben elhelyezett tárgyakat is,
+
+n) „összehangolt közúti műszaki ellenőrzés”: két vagy több tagállam illetékes hatósága által együttesen végzett közúti műszaki ellenőrzés.
 
 [^5]: A 2. § (1) bekezdése a 83/2005. (X. 11.) GKM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdés a) pontja a 66/2009. (XI. 27.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -173,22 +205,24 @@ c)[^43] a C. Függelék, illetve a 167/2013/EU európai parlamenti és tanácsi 
 [^25]: A 2. § (4) bekezdés k) pontját a 11/2017. (IV. 12.) NFM rendelet 2. § (2) bekezdése iktatta be.
 [^26]: A 2. § (4) bekezdés l) pontját a 11/2017. (IV. 12.) NFM rendelet 2. § (2) bekezdése iktatta be.
 [^27]: A 2. § (4) bekezdés m) pontját az 53/2017. (XII. 22.) NFM rendelet 1. §-a iktatta be.
-[^28]: A 2. § (6)–(8) bekezdése a 11/2000. (V. 24.) KHVM rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
-[^29]: A 2. § (7a) bekezdését a 71/2013. (XII. 2.) NFM rendelet 1. § (1) bekezdése iktatta be.
-[^30]: A 2. § (8) bekezdésének bevezető rendelkezése a 39/2002. (XII. 28.) GKM rendelet 1. § (2) bekezdésével megállapított, a 22/2012. (V. 8.) NFM rendelet 12. §-a szerint módosított szöveg.
-[^31]: A 2. § (8) bekezdés a) pontja a 26/2016. (VII. 22.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^32]: A 2. § (8) bekezdés b) pontjának ba) alpontját a 83/2005. (X. 11.) GKM rendelet 1. § (3) bekezdése iktatta be.
-[^33]: A 2. § (8) bekezdés b) pontjának bb) alpontját a 83/2005. (X. 11.) GKM rendelet 1. § (3) bekezdése iktatta be.
-[^34]: A 2. § (8) bekezdésének h) pontját a 39/2002. (XII. 28.) GKM rendelet 1. § (2) bekezdése iktatta be.
-[^35]: Lásd a gépjárműadóról szóló 1991. évi LXXXII. törvény 18. § 14. pontjában foglalt meghatározást.
-[^36]: A 2. § (8) bekezdés i) pontját a 22/2012. (V. 8.) NFM rendelet 1. § (2) bekezdése iktatta be.
-[^37]: A 2. § (8) bekezdés j) pontját a 22/2012. (V. 8.) NFM rendelet 1. § (2) bekezdése iktatta be, szövege a 71/2013. (XII. 2.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^38]: A 2. § új (9) bekezdését a 39/2002. (XII. 28.) GKM rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti (9) bekezdés számozását (10) bekezdésre változtatva.
-[^39]: A 2. § (9) bekezdés c) pontja a 62/2011. (XI. 29. )NFM rnedelet 2. §-ával megállapított szöveg.
-[^40]: A 2. § eredeti (9) bekezdésének számozását (10) bekezdésre változtatta a 39/2002. (XII. 28.) GKM rendelet 1. § (3) bekezdése, szövegét a 83/2005. (X. 11.) GKM rendelet 1. § (4) bekezdése állapította meg.
-[^41]: A 2. § (11) bekezdését a 34/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be, szövege a 14/2009. (III. 31.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^42]: A 2. § (11) bekezdés b) pontja a 26/2016. (VII. 22.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^43]: A 2. § (11) bekezdés c) pontja a 26/2016. (VII. 22.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^44]: A 2. § (12) bekezdését a 34/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be.
-[^45]: A 2. § (13) bekezdését a 14/2009. (III. 31.) KHEM rendelet 1. § (2) bekezdése iktatta be.
-[^46]: A 2. § (14) bekezdését a 18/2013. (V. 9.) NFM rendelet 1. §-a iktatta be.
+[^28]: A 2. § (4) bekezdés n) pontját a 2/2018. (II. 5.) NFM rendelet 2. § (1) bekezdése iktatta be.
+[^29]: A 2. § (6)–(8) bekezdése a 11/2000. (V. 24.) KHVM rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
+[^30]: A 2. § (7a) bekezdését a 71/2013. (XII. 2.) NFM rendelet 1. § (1) bekezdése iktatta be.
+[^31]: A 2. § (8) bekezdésének bevezető rendelkezése a 39/2002. (XII. 28.) GKM rendelet 1. § (2) bekezdésével megállapított, a 22/2012. (V. 8.) NFM rendelet 12. §-a szerint módosított szöveg.
+[^32]: A 2. § (8) bekezdés a) pontja a 26/2016. (VII. 22.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^33]: A 2. § (8) bekezdés b) pontjának ba) alpontját a 83/2005. (X. 11.) GKM rendelet 1. § (3) bekezdése iktatta be.
+[^34]: A 2. § (8) bekezdés b) pontjának bb) alpontját a 83/2005. (X. 11.) GKM rendelet 1. § (3) bekezdése iktatta be.
+[^35]: A 2. § (8) bekezdésének h) pontját a 39/2002. (XII. 28.) GKM rendelet 1. § (2) bekezdése iktatta be.
+[^36]: Lásd a gépjárműadóról szóló 1991. évi LXXXII. törvény 18. § 14. pontjában foglalt meghatározást.
+[^37]: A 2. § (8) bekezdés i) pontját a 22/2012. (V. 8.) NFM rendelet 1. § (2) bekezdése iktatta be.
+[^38]: A 2. § (8) bekezdés j) pontját a 22/2012. (V. 8.) NFM rendelet 1. § (2) bekezdése iktatta be, szövege a 71/2013. (XII. 2.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^39]: A 2. § új (9) bekezdését a 39/2002. (XII. 28.) GKM rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti (9) bekezdés számozását (10) bekezdésre változtatva.
+[^40]: A 2. § (9) bekezdés c) pontja a 62/2011. (XI. 29. )NFM rnedelet 2. §-ával megállapított szöveg.
+[^41]: A 2. § eredeti (9) bekezdésének számozását (10) bekezdésre változtatta a 39/2002. (XII. 28.) GKM rendelet 1. § (3) bekezdése, szövegét a 83/2005. (X. 11.) GKM rendelet 1. § (4) bekezdése állapította meg.
+[^42]: A 2. § (11) bekezdését a 34/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be, szövege a 14/2009. (III. 31.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^43]: A 2. § (11) bekezdés b) pontja a 26/2016. (VII. 22.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^44]: A 2. § (11) bekezdés c) pontja a 26/2016. (VII. 22.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^45]: A 2. § (12) bekezdését a 34/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be.
+[^46]: A 2. § (13) bekezdését a 14/2009. (III. 31.) KHEM rendelet 1. § (2) bekezdése iktatta be.
+[^47]: A 2. § (14) bekezdését a 18/2013. (V. 9.) NFM rendelet 1. §-a iktatta be.
+[^48]: A 2. § (15) bekezdését a 2/2018. (II. 5.) NFM rendelet 2. § (2) bekezdése iktatta be.
