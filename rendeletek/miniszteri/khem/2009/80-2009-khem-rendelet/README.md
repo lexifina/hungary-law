@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-80-20-2
 | 2017-01-03 | 2009-80-20-2M.7 | 2017: CLXXIX. törvény |
 | 2018-01-01 | 2009-80-20-2M.8 | 55/2017. (XII. 27.) NFM rendelet |
 | 2018-01-26 | 2009-80-20-2M.9 | 1/2018. (I. 18.) NFM rendelet |
+| 2018-05-20 | 2009-80-20-2M.10 | 2017: CLXXIX. törvény |

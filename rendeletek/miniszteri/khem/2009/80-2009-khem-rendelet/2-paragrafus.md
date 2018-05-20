@@ -96,7 +96,7 @@ l)[^19] 20. § (1) bekezdés f) pontja alapján a 156/2009. (VII. 29.) Korm. ren
 
 m)[^20] 20. § (1) bekezdés g) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 7. mellékletében foglalt esetekben,
 
-n)[^21] 20. § (1) bekezdés h) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 8. mellékletében foglalt esetekben,
+n)[^21] 20. § (1) bekezdés h) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 8. mellékletében és a 14. mellékletében foglalt esetekben,
 
 o)[^22] 20. § (1) bekezdés i) pontja alapján a 156/2009. (VII. 29.) Korm. rendelet 9. mellékletében foglalt esetben,
 
@@ -140,7 +140,7 @@ van helye.
 [^18]: A 2. § (5) bekezdés k) pontját a 31/2013. (VI. 18.) NFM rendelet 5. § (1) bekezdése iktatta be.
 [^19]: A 2. § (5) bekezdés l) pontját az 1/2018. (I. 18.) NFM rendelet 9. § (3) bekezdése iktatta be.
 [^20]: A 2. § (5) bekezdés m) pontját az 1/2018. (I. 18.) NFM rendelet 9. § (3) bekezdése iktatta be.
-[^21]: A 2. § (5) bekezdés n) pontját az 1/2018. (I. 18.) NFM rendelet 9. § (3) bekezdése iktatta be.
+[^21]: A 2. § (5) bekezdés n) pontját az 1/2018. (I. 18.) NFM rendelet 9. § (3) bekezdése iktatta be, szövege az 1/2018. (I. 18.) NFM rendelet 10. §-a szerint módosított szöveg.
 [^22]: A 2. § (5) bekezdés o) pontját az 1/2018. (I. 18.) NFM rendelet 9. § (3) bekezdése iktatta be.
 [^23]: A 2. § (5) bekezdés p) pontját az 1/2018. (I. 18.) NFM rendelet 9. § (3) bekezdése iktatta be.
 [^24]: A 2. § (6) bekezdés a) pontja az 1/2017. (I. 3.) NFM rendelet 57. §-a szerint módosított szöveg.
