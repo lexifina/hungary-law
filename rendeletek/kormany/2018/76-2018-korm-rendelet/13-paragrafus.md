@@ -1,0 +1,3 @@
+13. § (1) A társkártya előállítási és kézbesítési költségeit a pénzforgalmi szolgáltató a munkavállalóra háríthatja. A munkavállalóra hárított költség nem haladhatja meg társkártyánként az 1500 forintot.
+
+(2) A társkártya használatával és a Széchenyi Pihenő Kártya juttatások igénybevételével, valamint a társkártya visszavonásával kapcsolatban – a társkártya előállítási, kézbesítési költségeitől és az elveszett, ellopott vagy megrongálódott társkártyák pótlásától eltekintve, továbbá a 12. § (5) bekezdésében meghatározott esetkör kivételével – a munkavállalónak díjat, egyéb költséget a pénzforgalmi szolgáltató semmilyen jogcímen nem számíthat fel.
