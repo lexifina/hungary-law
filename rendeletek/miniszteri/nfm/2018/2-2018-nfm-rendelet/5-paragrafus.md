@@ -1,3 +1,3 @@
-## 1–4. §[^1]
+## „(8) A „Műszaki vizsgálati bizonyítvány” adatait elektronikus úton továbbítani kell a közlekedésért felelős miniszter részére. Ezeket az adatokat legalább három évig meg kell őrizni.
 
-[^1]: Az 1–4. § a 24. § (2) bekezdése alapján 2018. május 20-án lép hatályba.
+## (9) A „Műszaki vizsgálati bizonyítvány” az EGT-tagállam által kiállított olyan bizonyítvány, amely a közúti forgalomban részt vevő jármű műszaki alkalmasságát igazolja.”
