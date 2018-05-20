@@ -1,3 +1,5 @@
+## A „Környezetvédelmi adatlap” tartalma
+
 ## A Környezetvédelmi adatlap az alábbi adatokat tartalmazza:
 
 ## Kiállító hatóság
@@ -124,25 +126,25 @@
 
 ## Aláírás
 
-5. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez
+5. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez[^18]
 
-A környezetvédelmi felülvizsgálat ellenőrzése, nyilvántartások
+## A környezetvédelmi felülvizsgálat ellenőrzése, nyilvántartások
 
 1. Általános előírások
 
-1.1. A környezetvédelmi felülvizsgálattal kapcsolatos tevékenység eredményességét, a gépjárműfenntartó szervezetek, a vizsgáló állomások, a környezetvédelmi vizsgáló állomások, a környezetvédelmi vizsgabiztosok és ügyintézők munkáját, az oktatásra feljogosított szervezetek tevékenységét, a tevékenységre előírt feltételek teljesítését a közlekedési hatóság egységes feltételek alapján ellenőrzi, ennek érdekében nyilvántartásokat vezet.
+1.1. A környezetvédelmi felülvizsgálattal kapcsolatos tevékenység eredményességét, a gépjárműfenntartó szervezetek, a vizsgáló állomások, a környezetvédelmi vizsgáló állomások, a vizsgabiztosok munkáját, az oktatásra feljogosított szervezetek tevékenységét, a tevékenységre előírt feltételek teljesítését a közlekedési hatóság egységes feltételek alapján ellenőrzi, ennek érdekében nyilvántartásokat vezet.
 
-1.2. A közlekedési hatóság a környezetvédelmi felülvizsgálói létszámhoz igazodó ellenőrzési rendszert köteles működtetni. A közlekedési hatóság a belső ellenőrzés keretében rendszeresen, véletlenszerűen, valamint – a közúti és telephelyi műszaki ellenőrzés tapasztalatai alapján – célirányosan ellenőrzi, hogy a környezetvédelmi felülvizsgáló a tevékenységének végzése során megtartja-e a jogszabályi előírásokat és a megbízási szerződésben foglaltakat.
+1.2. A közlekedési hatóság a környezetvédelmi felülvizsgálói létszámhoz igazodó ellenőrzési rendszert köteles működtetni. A közlekedési hatóság az ellenőrzés keretében rendszeresen, véletlenszerűen, valamint – a közúti és telephelyi műszaki ellenőrzés tapasztalatai alapján – célirányosan ellenőrzi, hogy a környezetvédelmi felülvizsgáló a tevékenységének végzése során megtartja-e a jogszabályi előírásokat.
 
-2. A vizsgálóállomások szennyezőanyag-kibocsátásának ellenőrzése
+2. A járművek szennyezőanyag-kibocsátásának ellenőrzése
 
-2.1. A közlekedési hatóság a közúton és telephelyen, valamint időszakos vizsgán végzett mérésekkel ellenőrzi a járművek szennyezőanyag-kibocsátását.
+2.1. A közlekedési hatóság a közúton és telephelyen, valamint forgalomba helyezés előtti és időszakos vizsgálaton végzett mérésekkel ellenőrzi a járművek szennyezőanyag-kibocsátását.
 
-2.2. A közlekedési hatóság a 2.1. pont szerinti ellenőrzések alapján nyilvántartást vezet a meg nem felelő járművekről és az azok műszaki adatlapját, vagy környezetvédelmi adatlapját, kiállító felülvizsgáló helyekről.
+2.2. A közlekedési hatóság a 2.1. pont szerinti ellenőrzések alapján nyilvántartást vezet a meg nem felelő járművekről és az azok műszaki adatlapját vagy környezetvédelmi adatlapját kiállító felülvizsgáló helyekről.
 
 2.3. A 2.2. pont szerinti nyilvántartásban foglalt adatokat a közlekedési hatóság negyedévenként összesíti és értékeli, az ellenőrzések tervezésénél figyelembe veszi.
 
-3. A környezetvédelmi felülvizsgálat végzésére feljogosított környezetvédelmi és műszaki vizsgabiztosok, illetve ügyintézők ellenőrzése.
+3. A környezetvédelmi felülvizsgálat végzésére feljogosított vizsgabiztosok ellenőrzése.
 
 3.1. A közlekedési hatóság a vizsgabiztosokról névjegyzéket vezet.
 
@@ -154,9 +156,9 @@ A környezetvédelmi felülvizsgálat ellenőrzése, nyilvántartások
 
 3.2.3. a vizsgabiztos vizsgálati jogosultságát az adott jármű környezetvédelmi felülvizsgálatára,
 
-3.2.4. a vizsgabiztos által a felülvizsgálat időpontjában használt eszközök megfelelőségét (hitelesítés, pontosságellenőrzés, adatbázis stb.), és azok szakszerű kezelését,
+3.2.4. a vizsgabiztos által a felülvizsgálat időpontjában használt eszközök megfelelőségét (hitelesítés, pontosságellenőrzés, adatbázis stb.) és azok szakszerű kezelését,
 
-3.2.5.[^8] a műszaki adatlapok, környezetvédelmi adatlapok, kezelésére vonatkozó ügyviteli szabályok megtartását,
+3.2.5. a műszaki adatlapok, környezetvédelmi adatlapok kezelésére vonatkozó ügyviteli szabályok megtartását,
 
 3.2.6. a hatósági díj alkalmazásának szabályszerűségét, a díj és az elvégzett felülvizsgálat összhangját.
 
@@ -178,11 +180,10 @@ c) a környezetvédelmi felülvizsgálaton minősített járművek esetenkénti 
 
 d) a környezetvédelmi felülvizsgálat során végrehajtott technológiai folyamatokra kiterjedő ellenőrzésként,
 
-e)[^9] a felkért állampolgárok vagy társhatóságok (különösen a környezetvédelmi hatóságok és a fogyasztóvédelmi hatóságok) közreműködésével a járműnek mesterségesen előidézett hibával (hibákkal) környezetvédelmi felülvizsgálatra állítása révén,
+e) a felkért állampolgárok vagy társhatóságok (különösen a környezetvédelmi hatóságok és a fogyasztóvédelmi hatóságok) közreműködésével a járműnek mesterségesen előidézett hibával (hibákkal) környezetvédelmi felülvizsgálatra állítása révén,
 
-f) a felülvizsgáló állomás nem megfelelő munkavégzésének alapos gyanúja esetén a kiállított műszaki adatlapok, környezetvédelmi adatlapok és a forgalmi engedély alapján a felülvizsgált járművek a felülvizsgálattól számított egy héten belüli utóellenőrzésével a külön jogszabály szerinti vizsgára rendelés, vagy a jármű tulajdonosával (üzemben tartójával) folytatott előzetes egyeztetés utáni, mozgó mérőegységgel végzett mérésekkel.
+f) a felülvizsgáló állomás nem megfelelő munkavégzésének alapos gyanúja esetén a kiállított műszaki adatlapok, környezetvédelmi adatlapok és a forgalmi engedély alapján a felülvizsgált járművek utóellenőrzésével a külön jogszabály szerinti vizsgára rendelés vagy a jármű tulajdonosával (üzemben tartójával) folytatott előzetes egyeztetés utáni, mozgó mérőegységgel végzett mérésekkel.
 
-4.1.3. A közlekedési hatóság az éves ellenőrzés eredményéről és javaslatairól összefoglaló értékelést készít. Az ellenőrzés során megállapított hiányosságok felszámolása, a jelentésben foglalt javaslatok megvalósítása érdekében tett intézkedésekről a felülvizsgáló helynek 30 napon belül tájékoztatni kell az ellenőrzést végző a közlekedési hatóságot.
+4.1.3. A közlekedési hatóság az éves ellenőrzés eredményéről és javaslatairól összefoglaló értékelést készít a közlekedésért felelős miniszter részére. Az ellenőrzés során megállapított hiányosságok felszámolása, a jelentésben foglalt javaslatok megvalósítása érdekében tett intézkedésekről a felülvizsgáló helynek 30 napon belül tájékoztatni kell az ellenőrzést végző közlekedési hatóságot.
 
-[^8]: Az 5. melléklet 3.2.5. pontja a 72/2015. (XII. 29.) NFM rendelet 15. § d) pontja szerint módosított szöveg.
-[^9]: Az 5. melléklet 4.1.2. pont e) alpontja a 15/2015. (III. 31.) NFM rendelet 17. §-a szerint módosított szöveg.
+[^18]: Az 5. melléklet a 2/2018. (II. 5.) NFM rendelet 22. § (3) bekezdésével megállapított szöveg.

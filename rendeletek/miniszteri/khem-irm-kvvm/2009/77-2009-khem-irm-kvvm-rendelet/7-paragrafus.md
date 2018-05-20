@@ -1,34 +1,6 @@
-7. § (1) Környezetvédelmi vizsgabiztosi (a továbbiakban: vizsgabiztos) tevékenységet a közlekedési hatóság köztisztviselője vagy a vizsgáló állomással foglalkoztatási jogviszonyban álló személy végezhet, aki megfelel a (2) bekezdésben meghatározott követelményeknek, és rendelkezik e rendelet 6. mellékletében meghatározott adattartalmú engedéllyel. Az engedély időbeli hatálya korlátlan.
+7. §[^10] (1) A vizsgabiztosi tevékenységet a közlekedési hatóság állami tisztviselő vagy a vizsgáló állomással foglalkoztatási jogviszonyban álló személy végezhet, aki megfelel ER.-ben meghatározott követelményeknek.
 
-(2) Vizsgabiztosi tevékenység folytatását a közlekedési hatóság annak engedélyezi, aki
-
-a) autószerelő, illetve technikus, vagy
-
-b) autóvillamossági szerelő, illetve technikus, vagy
-
-c) autóelektronikai műszerész, vagy
-
-d) gázautószerelő (kötelező, ha gázautóra kér feljogosítást), vagy
-
-e) közlekedésgépészeti technikus, közútijármű-gépész, vagy
-
-f) katonai gépjárműszerelő, vagy
-
-g) katonai gépjárműtechnikus, vagy
-
-h) harcjárműszerelő, vagy
-
-i) harcjárműtechnikus, vagy
-
-j) az autószerelő, autóvillamossági szerelő, autóelektronikai szerelő végzettséggel egyenértékűnek tekinthető más gépészeti szakirányú középfokú végzettség és a felsorolt szakmák szerinti mestervizsgával rendelkezik,
-
-k) a fentieknek megfelelő szakirányú felsőfokú végzettséggel rendelkezik,
-
-l) szakmunkás, illetve más középfokú végzettség esetén legalább három, felsőfokú végzettség esetén legalább egy év szakirányú szakmai gyakorlattal rendelkezik, és
-
-m) az e rendeletben szabályozott vizsgabiztosi alaptanfolyamot eredményesen elvégezte.
-
-(3) A környezetvédelmi vizsgabiztosi engedély iránti kérelemnek tartalmaznia kell a kérelmező
+(2) A vizsgabiztosi engedély iránti kérelemnek tartalmaznia kell a kérelmező
 
 a) nevét,
 
@@ -44,45 +16,19 @@ f) felső- vagy középfokú iskolai végzettséget, szakképzettséget,
 
 g) vezetői engedély számát,
 
-h) a vezetői engedélybe bejegyzett járműkategória(ák) megjelölését,
+h) a vezetői engedélybe bejegyzett járműkategóriák megjelölését,
 
 i) jelenlegi beosztását (munkakörét),
 
 j) munkáltatójának megnevezését és címét.
 
-(4) A környezetvédelmi vizsgabiztosi engedély iránti kérelmet a közlekedési hatósághoz írásban kell benyújtani.
+(3) A vizsgabiztosi engedély iránti kérelmet a közlekedési hatósághoz írásban kell benyújtani.
 
-(5) A kérelemhez mellékelni kell:
+(4) A kérelemhez mellékelni kell az ER.-ben előírt okiratokat és igazolásokat.
 
-a) az előírt iskolai végzettséget, szakképesítést igazoló okirat hitelesített másolatát,
+(5) A (2) bekezdésben meghatározott adatokban bekövetkezett változásokat a vizsgabiztos a változás bekövetkezését követő öt munkanapon belül köteles írásban bejelenteni a közlekedési hatóságnak.
 
-b) a szakirányú szakmai gyakorlati időről kiállított munkáltatói igazolást.
-
-(6) A közlekedési hatóság által a környezetvédelmi vizsgabiztosokról vezetett, a közúti közlekedésről szóló törvényben meghatározott nyilvántartás (a továbbiakban: Nyilvántartás) tartalmazza a környezetvédelmi vizsgabiztos
-
-a) nevét,
-
-b) születési helyét, idejét,
-
-c) anyja nevét,
-
-d) állampolgárságát,
-
-e) lakcímét, egyéb elérhetőségét (telefonszám, faxszám, e-mail cím),
-
-f) munkahelyének megnevezését és címét,
-
-g) az iskolai végzettséget, szakképesítést, illetve a vizsgabiztosi alaptanfolyam eredményes elvégzését igazoló okirat számát, kiállításának keltét,
-
-h) a szakmai gyakorlat időtartamát,
-
-i) a továbbképzésen történt részvétel időpontját,
-
-j) a vizsgabiztosi tevékenység felfüggesztéséről, az engedély visszavonásáról rendelkező határozat számát, időpontját, a felfüggesztés megszüntetésének időtartamát.
-
-(7) A (3) bekezdésben meghatározott adatokban bekövetkezett változásokat a vizsgabiztos a változás bekövetkezését követő öt munkanapon belül köteles írásban bejelenteni a közlekedési hatóságnak.
-
-(8) A közlekedési hatóság visszavonja az engedélyt és törli a vizsgabiztost a Nyilvántartásból, ha
+(6) A közlekedési hatóság visszavonja az engedélyt és törli a vizsgabiztost a Nyilvántartásból, ha
 
 a) azt a vizsgabiztos kéri,
 
@@ -92,20 +38,44 @@ c) az engedély kiadásának feltételei már nem állnak fenn,
 
 d) az engedély iránti kérelmében a vizsgabiztos valótlan adatokat szerepeltetett,
 
-e) e rendeletben előírt továbbképzési kötelezettségét határidőn belül nem teljesítette, és a határidő elmulasztása esetén igazolási kérelmet nem nyújtott be, vagy azt a közlekedési hatóság elutasította,
+e) az ER.-ben előírt továbbképzési kötelezettségét határidőn belül nem teljesítette, és a határidő elmulasztása esetén igazolási kérelmet nem nyújtott be, vagy azt a közlekedési hatóság elutasította,
 
 f) a rendeletben meghatározott kötelezettségeit ismételten vagy súlyosan megszegte.
 
-(9) A közlekedési hatóság felfüggeszti a vizsgabiztos tevékenységét, ha
+(7) A közlekedési hatóság felfüggeszti a vizsgabiztos környezetvédelmi felülvizsgáló
 
-a)[^4]
+tevékenységét, ha
 
-b) az e rendeletben foglalt előírásokat megszegte,
+a) az e rendeletben foglalt előírásokat megszegte,
 
-c) a (7) bekezdésben előírt bejelentési kötelezettség teljesítését elmulasztotta.
+b) az (5) bekezdésben előírt bejelentési kötelezettség teljesítését elmulasztotta.
 
-(10) A felfüggesztés a (9) bekezdés c) pontban meghatározott esetben a felfüggesztést megalapozó okok megszüntetéséig, de legfeljebb hat hónapig tarthat.
+(8) A vizsgabiztos részére a Nyilvántartásba vételt követően a közlekedési hatóság igazolványt állít ki.
 
-(11) A vizsgabiztosok szakmai képzésének szabályait a 6. melléklet tartalmazza.
+(9) Az igazolvány tartalmazza:
 
-[^4]: A 7. § (9) bekezdés a) pontja a 302/2009. (XII. 22.) Korm. rendelet 5. § (2) bekezdése alapján nem lépett hatályba.
+a) az igazolvány és az igazolvány kiállítójának megnevezését,
+
+b) az igazolvány érvényességét,
+
+c) az igazolvány számát,
+
+d) a vizsgabiztos nevét, valamint
+
+e) a vizsgabiztos azonosító számát.
+
+(10) A közlekedési hatóság
+
+a) az igazolvány megrongálódása, megsemmisülése vagy elvesztése esetén,
+
+b) ha a műszaki vizsgabiztos teljesítette a továbbképzési vizsgakötelezettségét,
+
+kérelemre igazolást állít ki.
+
+(11) A műszaki vizsgabiztos vizsgáztatás közben köteles magánál tartani a műszaki vizsgabiztosi igazolványát.
+
+(12) A felfüggesztés a (7) bekezdés b) pontjában meghatározott esetben a felfüggesztést megalapozó okok megszüntetéséig, de legfeljebb hat hónapig tarthat.
+
+(13) A vizsgabiztosok szakmai képzésének szabályait az ER. tartalmazza.
+
+[^10]: A 7. § a 2/2018. (II. 5.) NFM rendelet 19. §-ával megállapított szöveg.

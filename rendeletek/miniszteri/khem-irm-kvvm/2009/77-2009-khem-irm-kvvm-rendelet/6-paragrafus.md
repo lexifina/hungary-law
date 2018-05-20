@@ -6,8 +6,9 @@ b) megfelel a gépjárműfenntartó szervezetre vonatkozó külön jogszabályba
 
 c) rendelkezik a jármű kategória környezetvédelmi felülvizsgálatához szükséges e rendelet szerint meghatározott vizsgálati célra alkalmas eszközökkel és technológiákkal,
 
-d) a közlekedési hatóság által vezetett környezetvédelmi vizsgabiztosi nyilvántartásban szereplő környezetvédelmi vizsgabiztost alkalmaz,
+d)[^8] a közlekedési hatóság által vezetett vizsgabiztosi nyilvántartásban szereplő vizsgabiztost alkalmaz.
 
-e)[^3]
+e)[^9]
 
-[^3]: A 6. § e) pontját a 62/2011. (XI. 29.) NFM rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^8]: A 6. § d) pontja a 2/2018. (II. 5.) NFM rendelet 18. §-ával megállapított szöveg.
+[^9]: A 6. § e) pontját a 62/2011. (XI. 29.) NFM rendelet 17. § (2) bekezdése hatályon kívül helyezte.
