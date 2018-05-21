@@ -1,4 +1,4 @@
-## 18. § Hatályát veszti a vizsgáló állomás engedélyezésének részletes eljárási szabályairól és a vizsgáló állomással kötendő hatósági szerződés tartalmáról szóló 302/2009. (XII. 22.) Korm. rendelet.
+## 18. §[^7]
 
 1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez
 
@@ -157,3 +157,5 @@ MUND (Undort keltő anyag szállítására alkalmasság minősítése)
 GAZ (Gáz-benzin kettős üzemű járművek vizsgálata)
 
 * (Kivéve az első minősítő vizsgálat)
+
+[^7]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
