@@ -6,8 +6,10 @@ dr. Odrobina Lászlót, a Nemzetgazdasági Minisztérium helyettes államtitkár
 
 felmentem, egyidejűleg
 
-Pölöskei Gábornét a Nemzetgazdasági Minisztérium helyettes államtitkárává
+Pölöskei Gábornét a Nemzetgazdasági Minisztérium helyettes államtitkárává[^1]
 
 – 2017. január 16-ai hatállyal –
 
 kinevezem.
+
+[^1]: A 85/2018. (VI. 22.) ME határozat alapján Pölöskei Gáborné tekintetében akként módosul, hogy a „Nemzetgazdasági Minisztérium” megnevezés helyett az „Innovációs és Technológiai Minisztérium” megnevezést kell érteni.
