@@ -6,6 +6,8 @@ dr. Boros Anitának, a Nemzeti Fejlesztési Minisztérium helyettes államtitká
 
 egyidejűleg a Kttv. 220. § (2) bekezdése alapján – a nemzeti fejlesztési miniszter javaslatára –
 
-dr. Juhász Rolandot a Nemzeti Fejlesztési Minisztérium helyettes államtitkárává
+dr. Juhász Rolandot[^1] a Nemzeti Fejlesztési Minisztérium helyettes államtitkárává
 
 – 2017. november 16-ai hatállyal – kinevezem.
+
+[^1]: A 37/2018. (VI. 5.) ME határozat alapján dr. Juhász Roland tekintetében akként módosul, hogy a „Nemzeti Fejlesztési Minisztérium” megnevezés helyett a „Miniszterelnöki Kormányiroda” megnevezést kell érteni.
