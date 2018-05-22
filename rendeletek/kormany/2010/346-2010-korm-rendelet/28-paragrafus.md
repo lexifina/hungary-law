@@ -8,8 +8,8 @@
 
 (4) A kormányzati célú elkülönült hírközlő hálózat hozzáférési pontja honvédelmi, nemzetbiztonsági, külügyi tevékenységgel összefüggésben külső felhasználónál is létesíthető.
 
-(5)[^107] A minisztériumok, a területi közigazgatás, védelmi igazgatás vezető beosztású személyei által használt végberendezések a (4) bekezdésben foglaltak alapján kapcsolódhatnak a kormányzati célú elkülönült hírközlő hálózathoz.
+(5)[^107] A minisztériumok, a Miniszterelnöki Kormányiroda, a területi közigazgatás, védelmi igazgatás vezető beosztású személyei által használt végberendezések a (4) bekezdésben foglaltak alapján kapcsolódhatnak a kormányzati célú elkülönült hírközlő hálózathoz.
 
 [^105]: A 28. § (1) bekezdése a 169/2013. (V. 29.) Korm. rendelet 32. § (30) bekezdése szerint módosított szöveg.
 [^106]: A 28. § (2) bekezdése a 169/2013. (V. 29.) Korm. rendelet 32. § (30) bekezdése és 33. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^107]: A 28. § (5) bekezdése a 169/2013. (V. 29.) Korm. rendelet 32. § (30) bekezdése szerint módosított szöveg.
+[^107]: A 28. § (5) bekezdése a 169/2013. (V. 29.) Korm. rendelet 32. § (30) bekezdése, a 95/2018. (V. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
