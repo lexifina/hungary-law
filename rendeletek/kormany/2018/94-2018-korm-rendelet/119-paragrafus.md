@@ -1,0 +1,1 @@
+## 118. § A miniszter az állami infrastruktúra-beruházásokért való felelőssége keretében összehangolja az olyan állami infrastruktúra-beruházások előkészítését és megvalósítását, amelyeket a Kormány más miniszter vagy a Kormány által kinevezett más személy hatáskörébe nem utal.

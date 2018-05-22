@@ -1,0 +1,1 @@
+## 149. § A miniszter a szerencsejáték-szervezés állami felügyeletéért való felelőssége keretében előkészíti szerencsejátékra és a szerencsejáték-szervezés állami felügyeletére vonatkozó jogszabályokat.

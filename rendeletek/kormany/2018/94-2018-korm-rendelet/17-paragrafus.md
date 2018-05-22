@@ -1,0 +1,21 @@
+## 16. § A miniszter az állampolgársági ügyekért való felelőssége körében előkészíti a magyar állampolgárságra vonatkozó jogszabályokat.
+
+17. § (1) A miniszter Budapest és a fővárosi agglomeráció fejlesztéséért való felelőssége keretében Budapest főpolgármesterével együttműködve
+
+a) koordinálja – a turisztikai fejlesztések tekintetében a miniszterelnök kabinetfőnökével egyetértésben – a Kormány egységes budapesti városfejlesztési – állami-kormányzati, nem önkormányzati hatáskörbe tartozó fejlesztésekre vonatkozó várostervezési, magasépítési, közlekedésfejlesztési, köztér-, közpark-, közút-, egyéb közterület-fejlesztési – tevékenységét, erre vonatkozóan előterjesztéseket készít a Kormány számára, és irányítja a Kormány döntéseinek végrehajtását,
+
+b) a közlekedésért felelős miniszterrel együttműködésben elkészíti és a Kormány részére benyújtja a Budapestet és a Budapesti Agglomeráció Területrendezési Tervéről szóló törvény szerinti más budapesti agglomerációhoz tartozó településeket érintő állami, nem önkormányzati hatáskörbe tartozó közlekedési infrastruktúra-fejlesztésekre vonatkozó előterjesztéseket, valamint a jogerős építési vagy létesítési engedélyek megszerzéséig, a kivitelezési tervek elkészültéig és a kivitelezés megindításáról és a kivitelezéshez szükséges források biztosításáról szóló kormánydöntés meghozataláig összehangolja és irányítja e fejlesztések előkészítését, tervezését és engedélyeztetését,
+
+c) irányítja – a sportpolitikáért felelős miniszterrel együttműködésben – a budapesti kiemelt nemzetközi sportesemények megpályázásával és sikeres pályázat vagy jelentkezés esetén a megrendezésre vonatkozó, a nemzetközi sportesemények jogtulajdonosaival való szerződéskötéssel kapcsolatos kormányzati feladatokat,
+
+d) a c) pontban meghatározott tevékenység keretében a Kormány nevében kapcsolatot tart és együttműködik Budapest Főváros Önkormányzatával, a Magyar Olimpiai Bizottsággal, a Nemzetközi Olimpiai Bizottsággal, a hazai és nemzetközi sportági szakszövetségekkel, külföldi kiemelt nemzetközi sportesemények házigazdáival és szervezőbizottságaival, valamint a kiemelt nemzetközi sportesemények jogtulajdonosaival és szervezőivel,
+
+e) az a)–d) pontokban meghatározott tevékenységek tekintetében a Kormány részéről összehangolja a Kormány és Budapest Főváros Önkormányzata együttműködését,
+
+f) előkészíti az a)–e) pontok szerinti tevékenységek ellátásához szükséges jogszabályokat.
+
+(2) Amennyiben a nemzeti vagyon felügyeletéért felelős miniszter tulajdonosi jogkörgyakorlásába tartozó állami tulajdonú gazdasági társaság érintett az (1) bekezdésben meghatározott feladatok végrehajtásában, úgy a miniszter az (1) bekezdésben meghatározott feladatait a nemzeti vagyon felügyeletéért felelős miniszterrel együttműködésben végzi.
+
+(3) A miniszter a Budapest és a fővárosi agglomeráció fejlesztéséért való felelőssége keretében a jogerős építési vagy létesítési engedélyek megszerzéséig, a kivitelezési tervek elkészültéig és a kivitelezés megindításáról és a kivitelezéshez szükséges források biztosításáról szóló kormánydöntés meghozataláig – az egészségüggyel összefüggő építési beruházások kivételével – felügyeli a Budapesten megvalósuló valamennyi állami-kormányzati városfejlesztési beruházást.
+
+(4) Az (1)–(2) bekezdésben meghatározott tárgykörökben a Kormány részére előterjesztés kizárólag a miniszter előterjesztésében vagy a miniszter kifejezett és részletes véleményének ismertetésével nyújtható be.

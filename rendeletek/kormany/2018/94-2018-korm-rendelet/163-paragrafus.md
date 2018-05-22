@@ -1,0 +1,11 @@
+163. § (1) Az e rendelet alapján a miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a feladat- és hatáskört a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet e rendelet hatálybalépését megelőző napon hatályos rendelkezései szerint ellátó miniszter által vezetett minisztérium, illetve a tárca nélküli miniszter munkáját segítő minisztérium jogutódja a feladat- és hatáskört átvevő miniszter által vezetett minisztérium, tárca nélküli miniszter esetén a tárca nélküli miniszter munkáját segítő minisztérium vagy a Miniszterelnöki Kormányiroda.
+
+(2) Az (1) bekezdés szerinti jogutódlás kiterjed különösen a következő jogviszonyokra:
+
+a) az átkerülő feladatokhoz kapcsolódó vagyoni jogok és kötelezettségek,
+
+b) az átkerülő feladatokhoz tartozó ingó és ingatlan eszköz- és infrastruktúra-állomány,
+
+c) az (1) bekezdésben meghatározott feladatokat ellátó kormánytisztviselők, kormányzati ügykezelők, más kormányzati szolgálati jogviszonyban állók, illetve munkavállalók feletti munkáltatói jogok, valamint a munkavégzésre irányuló egyéb jogviszonyban foglalkoztatottakkal kapcsolatos jogok gyakorlása és kötelezettségek teljesítése, valamint kormányzati szolgálati jogviszonyuk, munkajogviszonyuk, valamint munkavégzésre irányuló egyéb jogviszonyuk,
+
+d) a c) pontban megjelölt kormánytisztviselőkkel, kormányzati ügykezelőkkel, más kormányzati szolgálati jogviszonyban állókkal, munkavállalókkal, valamint munkavégzésre irányuló egyéb jogviszonyban foglalkoztatottakkal összefüggő funkcionális feladatokat – ideértve különösen az iratkezelési, személyügyi feladatokat, továbbá a költségvetés tervezésével, az előirányzatok módosításának, átcsoportosításának és felhasználásának végrehajtásával, a finanszírozási, adatszolgáltatási, beszámolási és a pénzügyi, számviteli rend betartásával, a költségvetési szerv működtetésével, a költségvetési szerv használatában lévő vagyon használatával, védelmével összefüggő feladatokat – ellátó kormánytisztviselők, kormányzati ügykezelők, illetve munkavállalók feletti munkáltatói jogok gyakorlása és kötelezettségek teljesítése, valamint a kormányzati szolgálati jogviszonyuk és munkajogviszonyuk.
