@@ -1,3 +1,6 @@
-## 12. [^71] A belső ellenőrzési tevékenység végzésére jogosult személyekről vezetett nyilvántartáshoz kapcsolódó bizonyítási eszközök
+## 12. [^72] A belső ellenőrzési tevékenység végzésére jogosult személyekről vezetett nyilvántartáshoz kapcsolódó bizonyítási eszközök
 
-[^71]: A 12. alcím címe a 441/2015. (XII. 28.) Korm. rendelet 164. § b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+24. §[^73]
+
+[^72]: A 12. alcím címe a 441/2015. (XII. 28.) Korm. rendelet 164. § b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^73]: A 24. §-t a 441/2015. (XII. 28.) Korm. rendelet 165. § a) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

@@ -16,7 +16,7 @@
 
 (4b)[^47] Az a belső ellenőr, aki a (4) vagy a (4a) bekezdés alapján a gazdasági szervezettel nem rendelkező központi vagy önkormányzati költségvetési szerv belső ellenőrzését is ellátja, ennél a szervnél az irányító (vagy az általa kijelölt) szerv vagy a közös hivatal irányítói jogkörben eljáró belső ellenőreként ugyanarra a területre vonatkozóan az előző vizsgálatot követő egy éven belül vizsgálatvezetőként nem végezhet ellenőrzést.
 
-(5)[^48] A gazdasági szervezettel rendelkező központi költségvetési szervek esetén legalább 1 fő belső ellenőrt kell foglalkoztatásra irányuló jogviszonyban alkalmazni. Ettől eltérni csak a fejezetet irányító szerv vezetőjének írásos jóváhagyásával lehet, amihez minisztérium esetében a Hivatal elnökének előzetes véleményét is ki kell kérni.
+(5)[^48] A gazdasági szervezettel rendelkező központi költségvetési szervek esetén legalább 1 fő belső ellenőrt kell foglalkoztatásra irányuló jogviszonyban alkalmazni. Ettől eltérni csak a fejezetet irányító szerv vezetőjének írásos jóváhagyásával lehet, amihez minisztérium, valamint a Miniszterelnöki Kormányiroda esetében a Hivatal elnökének előzetes véleményét is ki kell kérni.
 
 (6)[^49] A költségvetési szerv belső ellenőrzési egysége írásbeli megállapodás alapján belső ellenőrzési feladatot a költségvetési szerv vezetőjének irányítása alá tartozó költségvetési szervnél is elláthat.
 
@@ -36,7 +36,7 @@ b) a társulás által foglalkoztatásra irányuló jogviszonyban alkalmazott va
 [^45]: A 15. § (4) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 35. § (1) bekezdés 2. pontja hatályon kívül helyezte, újonnan a 187/2016. (VII. 13.) korm. rendelet 7. § (1) bekezdése iktatta be.
 [^46]: A 15. § (4a) bekezdését a 187/2016. (VII. 13.) korm. rendelet 7. § (1) bekezdése iktatta be.
 [^47]: A 15. § (4b) bekezdését a 187/2016. (VII. 13.) korm. rendelet 7. § (1) bekezdése iktatta be.
-[^48]: A 15. § (5) bekezdése a 99/2015. (IV. 20.) Korm. rendelet 3. §-ával megállapított, a 187/2016. (VII. 13.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^48]: A 15. § (5) bekezdése a 99/2015. (IV. 20.) Korm. rendelet 3. §-ával megállapított, a 187/2016. (VII. 13.) Korm. rendelet 17. § b) pontja, a 95/2018. (V. 22.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.
 [^49]: A 15. § (6) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 66. §-ával megállapított szöveg.
 [^50]: A 15. § (7) bekezdés nyitó szövegrésze a 187/2016. (VII. 13.) Korm. rendelet 16. § m) pontja szerint módosított szöveg.
 [^51]: A 15. § (7) bekezdés a) pontja a 264/2013. (VII. 11.) Korm. rendelet 3. §-ával megállapított szöveg.

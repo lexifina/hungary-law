@@ -2,7 +2,7 @@
 
 45. § (1) Az intézkedési terv elkészítéséért, végrehajtásáért és a megtett intézkedésekről történő beszámolásért az ellenőrzött, valamint a javaslattal érintett szerv, illetve szervezeti egység vezetője felelős.
 
-(2)[^105] Az intézkedési tervet a szükséges intézkedések végrehajtásáért felelős személyek és a vonatkozó határidők megjelölésével kell elkészíteni. Az intézkedési tervben az egyes feladatokhoz kapcsolódó határidőket úgy kell meghatározni, hogy azok számon kérhetőek legyenek. Ha a feladat jellege egy éven túl mutat, akkor részfeladatokat, illetve részhatáridőket kell meghatározni, ahol értelmezhető.
+(2)[^106] Az intézkedési tervet a szükséges intézkedések végrehajtásáért felelős személyek és a vonatkozó határidők megjelölésével kell elkészíteni. Az intézkedési tervben az egyes feladatokhoz kapcsolódó határidőket úgy kell meghatározni, hogy azok számon kérhetőek legyenek. Ha a feladat jellege egy éven túl mutat, akkor részfeladatokat, illetve részhatáridőket kell meghatározni, ahol értelmezhető.
 
 (3) Az intézkedési tervet a lezárt ellenőrzési jelentés kézhezvételétől számított 8 napon belül kell elkészíteni és megküldeni a költségvetési szerv vezetője és a belső ellenőrzési vezetője részére. Indokolt esetben a belső ellenőrzési vezető javaslatára a költségvetési szerv vezetője ennél hosszabb, legfeljebb 30 napos határidőt is megállapíthat.
 
@@ -12,4 +12,4 @@
 
 (6) Az (5) bekezdésben meghatározott kérelem elbírálásának jogát a költségvetési szerv vezetője átruházhatja a belső ellenőrzési vezetőre, aki rendszeresen beszámol a határidő módosítási kérelmekről és azok elfogadásáról vagy elutasításáról.
 
-[^105]: A 45. § (2) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
+[^106]: A 45. § (2) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.

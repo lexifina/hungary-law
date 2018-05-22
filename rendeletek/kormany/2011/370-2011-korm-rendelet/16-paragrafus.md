@@ -4,7 +4,7 @@ a) ideiglenes kapacitás kiegészítés vagy
 
 b) speciális szakértelem szükségessége esetén
 
-## külső szolgáltató bevonására javaslatot tenni a költségvetési szerv vezetőjének.
+külső szolgáltató bevonására javaslatot tenni a költségvetési szerv vezetőjének.
 
 (2) Ha a költségvetési szerv nem foglalkoztat belső ellenőrt, a költségvetési szerv vezetője köteles gondoskodni a költségvetési szerv belső ellenőrzési tevékenységének külső szolgáltató bevonásával történő megszervezéséről és ellátásáról.
 
@@ -18,11 +18,11 @@ b) speciális szakértelem szükségessége esetén
 
 (7)[^58] Ha a költségvetési szerv a belső ellenőrzési tevékenység során külső szolgáltatót is igénybe vesz, a költségvetési szerv belső ellenőrei kötelesek a külső szolgáltatóval és a külső szolgáltató által rendelkezésre bocsátott személyekkel együttműködni. A külső szolgáltató vezetője a költségvetési szerv belső ellenőrei felett utasítási joggal nem rendelkezik.
 
-(8)[^59] Ha a minisztériumi belső ellenőrzéseket külső szolgáltató bevonásával végzik, az ezzel kapcsolatos szerződés megkötéséhez ki kell kérni a Hivatal elnökének előzetes véleményét. A Hivatal elnöke a szerződéstervezet kézhezvételét követő 8 napon belül értesíti álláspontjáról a minisztériumot. Ha a Hivatal elnökétől a fenti határidő alatt nem érkezik észrevétel, ezt akként kell tekinteni, hogy a Hivatal elnöke a szerződés megkötésével egyetért.
+(8)[^59] Ha a minisztérium, valamint a Miniszterelnöki Kormányiroda belső ellenőrzéseit külső szolgáltató bevonásával végzik, az ezzel kapcsolatos szerződés megkötéséhez ki kell kérni a Hivatal elnökének előzetes véleményét. A Hivatal elnöke a szerződéstervezet kézhezvételét követő 8 napon belül értesíti álláspontjáról a minisztériumot, valamint a Miniszterelnöki Kormányirodát. Ha a Hivatal elnökétől a fenti határidő alatt nem érkezik észrevétel, ezt akként kell tekinteni, hogy a Hivatal elnöke a szerződés megkötésével egyetért.
 
 [^54]: A 16. § (3) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 465/2015. (XII. 29.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
 [^55]: A 16. § (4) bekezdése a 264/2013. (VII. 11.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^56]: A 16. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 164. § a) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^57]: A 16. § (6) bekezdése a 264/2013. (VII. 11.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^58]: A 16. § (7) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 34. § 3. pontja, 35. § (2) bekezdés 4. pontja szerint módosított szöveg.
-[^59]: A 16. § (8) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 30. §-a iktatta be.
+[^59]: A 16. § (8) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 30. §-a iktatta be, szövege a 95/2018. (V. 22.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
