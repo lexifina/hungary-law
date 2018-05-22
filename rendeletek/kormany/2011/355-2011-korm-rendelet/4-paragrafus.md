@@ -2,11 +2,11 @@
 
 ## 2. A Hivatal szervezete, vezetői
 
-4. § (1)[^2] A Hivatalt elnök vezeti, akit a miniszter javaslatára a miniszterelnök nevez ki és ment fel.
+4. § (1)[^2] A Hivatalt elnök vezeti, akit a miniszterelnök nevez ki és ment fel.
 
-(2)[^3] A Hivatal elnökét feladatai ellátásában elnökhelyettesek segítik, akiket a Hivatal elnökének javaslatára a miniszter nevez ki és ment fel.
+(2)[^3] A Hivatal elnökét feladatai ellátásában elnökhelyettesek segítik, akiket a Hivatal elnökének javaslatára a miniszterelnök nevez ki és ment fel.
 
 (3) A Hivatal elnökévé és elnökhelyettesévé állam- és jogtudományi doktori vagy okleveles közgazdász képesítéssel és legalább öt év közigazgatási gyakorlattal, valamint öt év vezetői tapasztalattal rendelkező magyar állampolgár nevezhető ki.
 
-[^2]: A 4. § (1) bekezdése a 167/2014. (VII. 17.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^3]: A 4. § (2) bekezdése a 167/2014. (VII. 17.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdése a 95/2018. (V. 22.) Korm. rendelet 5. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^3]: A 4. § (2) bekezdése a 95/2018. (V. 22.) Korm. rendelet 5. § (1) bekezdés 3. pontja szerint módosított szöveg.

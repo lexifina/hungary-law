@@ -1,13 +1,18 @@
-## 6/A.[^6] A minisztériumi belső ellenőrzések támogatása
+## 6/A.[^6] A minisztériumok, valamint a Miniszterelnöki Kormányiroda belső ellenőrzésének támogatása
 
-## 10/A. § A Hivatal ellátja a minisztériumi belső ellenőrzések támogatásával kapcsolatos feladatokat. Ennek keretében a Hivatal elnöke a külön jogszabályban foglaltak szerint előzetesen véleményezi:
+## 10/A. §[^7] A Hivatal ellátja a minisztériumok, valamint a Miniszterelnöki Kormányiroda belső ellenőrzésének támogatásával kapcsolatos feladatokat. Ennek keretében a Hivatal elnöke a külön jogszabályban foglaltak szerint előzetesen véleményezi:
 
-a) a minisztérium éves ellenőrzési tervét, illetve annak módosítását, továbbá a soron kívüli minisztériumi belső ellenőrzés elrendelésére vonatkozó intézkedést,
+a)[^8] a minisztériumok, valamint a Miniszterelnöki Kormányiroda éves ellenőrzési tervét, illetve annak módosítását, továbbá a minisztériumok, valamint a Miniszterelnöki Kormányiroda soron kívüli belső ellenőrzésének elrendelésére vonatkozó intézkedést,
 
-b) a minisztériumi belső ellenőrzési vezető kinevezését, felmentését, illetve áthelyezését,
+b)[^9] a minisztériumok, valamint a Miniszterelnöki Kormányiroda belső ellenőrzési vezetőjének kinevezését, felmentését, illetve áthelyezését,
 
-c) a minisztériumi belső ellenőrzésre vonatkozó polgári jogi szerződés megkötését,
+c)[^10] a minisztériumok, valamint a Miniszterelnöki Kormányiroda belső ellenőrzésére vonatkozó polgári jogi szerződés megkötését,
 
-d) a minisztériumi belső ellenőrzésre vonatkozó jogszabályok tervezeteit.
+d)[^11] a minisztériumok, valamint a Miniszterelnöki Kormányiroda belső ellenőrzésére vonatkozó jogszabályok tervezeteit.
 
-[^6]: A 6/A. alcímet (10/A. §) a 99/2015. (IV. 20.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 6/A. alcímet (10/A. §) a 99/2015. (IV. 20.) Korm. rendelet 1. §-a iktatta be. A 6/A. alcím címe a 95/2018. (V. 22.) Korm. rendelet 5. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^7]: A 10/A. § nyitó szövegrésze a 95/2018. (V. 22.) Korm. rendelet 5. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^8]: A 10/A. § a) pontja a 95/2018. (V. 22.) Korm. rendelet 5. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^9]: A 10/A. § b) pontja a 95/2018. (V. 22.) Korm. rendelet 5. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^10]: A 10/A. § c) pontja a 95/2018. (V. 22.) Korm. rendelet 5. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^11]: A 10/A. § d) pontja a 95/2018. (V. 22.) Korm. rendelet 5. § (1) bekezdés 7. pontja szerint módosított szöveg.
