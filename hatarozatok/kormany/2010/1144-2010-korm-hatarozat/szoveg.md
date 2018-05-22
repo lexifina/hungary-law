@@ -1,88 +1,90 @@
-I.
-
-A KORMÁNY MŰKÖDÉSE
+I. A KORMÁNY MŰKÖDÉSE[^1]
 
 1. A Kormány a feladat- és hatáskörét a miniszterelnök vezetésével, testületként gyakorolja.
 
-1/A.[^1] A kormányzati döntéshozatal
+2. (1) A kormányzati döntéshozatal általános hatáskörű szakmai döntés-előkészítő fóruma a Közigazgatási Államtitkári Értekezlet.
 
-a) szakmai előkészítő fórumai:
+(2) A kormányzati döntéshozatal különös hatáskörű szakmai döntés-előkészítő fóruma
 
-aa) a közigazgatási államtitkári értekezlet és
+a) a Fejlesztéspolitikai Koordinációs Bizottság,
 
-ab) a Fejlesztéspolitikai Koordinációs Bizottság;
+b) a Nemzetbiztonsági Munkacsoport.
 
-b) politikai döntéshozó szervei:
+(3) A kormányzati döntéshozatal általános hatáskörű politikai döntéshozó fóruma a Kormány.
 
-ba) a Kormány,
+(4) A kormányzati döntéshozatal különös hatáskörű politikai döntéshozó fóruma
 
-bb) a Stratégiai Kabinet,
+a) a Stratégiai és Családügyi Kabinet,
 
-bc) a Gazdasági Kabinet és
+b) a Gazdasági Kabinet,
 
-bd) a Nemzetbiztonsági Kabinet.
+c) a Nemzetbiztonsági Kabinet, valamint
 
-2.[^2] A Kormány rendszeresen tart ülést.
+d) a Nemzetpolitikai Kabinet.
 
-3.[^3] A Kormány törvényalkotási programja és a Kormány féléves időtartamra szóló, havi ütemezésű munkaterve egymással összehangolt tervezetét a Miniszterelnökséget vezető miniszter a Kormány társadalompolitikai célkitűzéseihez illeszkedve – a miniszterek, a kormánybiztosok, a kormánybizottságok, a kormányhivatalok, az autonóm államigazgatási szervek, valamint az önálló szabályozó szervek vezetői javaslatainak figyelembevételével – készíti el.
+3. A Kormány rendszeresen tart ülést.
 
-4.[^4] A Kormány munkatervét – a Miniszterelnökség közigazgatási államtitkárának előterjesztése alapján – a közigazgatási államtitkári értekezlet áttekinti.
+4. A Kormány törvényalkotási programja és a Kormány féléves időtartamra szóló, havi ütemezésű munkaterve egymással összehangolt tervezetét a miniszterelnök – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – a Kormány társadalompolitikai célkitűzéseihez illeszkedve – a miniszterek, a kormánybiztosok, a kormánybizottságok, a kormányhivatalok, az autonóm államigazgatási szervek, valamint az önálló szabályozó szervek vezetői javaslatainak figyelembevételével – készíti el.
 
-5.[^5]
+5. A Kormány törvényalkotási programját és a munkatervét a Kormány döntése előtt – a Miniszterelnöki Kormányiroda közigazgatási államtitkára előterjesztése alapján – a Közigazgatási Államtitkári Értekezlet áttekinti.
 
-6.[^6]
-
-II.
-
-A KORMÁNY DÖNTÉSEINEK ELŐKÉSZÍTÉSE
+II. A KORMÁNY DÖNTÉSEINEK ELŐKÉSZÍTÉSE[^2]
 
 Az előterjesztés tartalmi feltételei
 
-7. A Kormányhoz benyújtott előterjesztés célja a testület döntésének kezdeményezése.
+6. A Kormányhoz benyújtott előterjesztés célja a testület döntésének kezdeményezése.
 
-8. A nagyobb jelentőségű kormányzati döntések (pl. átfogó törvényjavaslatok, fontosabb kormányrendeletek, programok) előkészítése és a döntéshozatal kétszakaszos eljárásban történik. Az elvi természetű, főbb tartalmi kérdésekben való döntést követő második szakasz a részleteiben kidolgozott szabályozási és egyéb döntések előkészítésére és meghozatalára irányul.
+7. A nagyobb jelentőségű kormányzati döntések (pl. átfogó törvényjavaslatok, fontosabb kormányrendeletek, programok) előkészítése és a döntéshozatal kétszakaszos eljárásban történik. Az elvi természetű, főbb tartalmi kérdésekben való döntést követő második szakasz a részleteiben kidolgozott szabályozási és egyéb döntések előkészítésére és meghozatalára irányul.
 
-9.[^7] A törvényjavaslatokról, országgyűlési határozati javaslatokról szóló előterjesztések előkészítését, benyújtását úgy kell ütemezni, hogy azok az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat (a továbbiakban: HHSZ) szerinti eljárási rendben a tervezett hatálybalépés időpontjára figyelemmel időben elfogadhatóak legyenek. Az európai uniós tagságból fakadó jogalkotási kötelezettségekkel kapcsolatos előterjesztések előkészítését úgy kell ütemezni, hogy azok a kötelezettség teljesítésére meghatározott határidőn belül elfogadhatóak legyenek.
+8. A törvénytervezetekről, az országgyűlési határozattervezetekről szóló előterjesztések előkészítését, benyújtását úgy kell ütemezni, hogy azok az egyes házszabályi rendelkezésekről szóló 10/2014. (II. 24.) OGY határozat (a továbbiakban: HHSZ) szerinti eljárási rendben a tervezett hatálybalépés időpontjára figyelemmel időben elfogadhatóak legyenek. Az európai uniós tagságból fakadó jogalkotási kötelezettségekkel kapcsolatos előterjesztések előkészítését úgy kell ütemezni, hogy azok a kötelezettség teljesítésére meghatározott határidőn belül elfogadhatóak legyenek.
 
-10. a)[^8] Az előterjesztésben – a szakmai részletkérdések mellőzésével – röviden be kell mutatni a megalapozott döntéshez szükséges információkat, így különösen a javasolt intézkedésnek a Kormány társadalompolitikai célkitűzéseihez való illeszkedését, indokait, lényegét, főbb tartalmi jellemzőit, költségkihatását, valamint várható gazdasági, költségvetési, társadalmi, igazgatási, államháztartási, nemzetközi és egyéb hatásait – szükség szerint példákkal és számításokkal alátámasztva –, illetve következményeit (hatásvizsgálati lap), jogszabály esetében ezen túlmenően az alkalmazhatóság feltételeit, a természetes személyek és a vállalkozások adminisztratív terhei csökkentését, ezek növekedése esetén az azt elkerülhetetlenül szükségessé tevő szempontokat, valamint hatósági eljárás esetén az elektronizálás ütemezését. Az előterjesztésnek tartalmaznia kell a döntés kommunikációjára vonatkozó javaslatot is.
+9. Az előterjesztésben
 
-b)[^9] Ha jogszabály vagy nemzetközi szerződés az Európai Unió jogából eredő tagállami kötelezettségeket érint, az előterjesztésben tájékoztatást kell adni arról, hogy a javasolt szabályozás összeegyeztethető-e az Európai Unió jogával. Az európai uniós jogi aktusok átültetését vagy végrehajtását szolgáló jogszabálytervezetekre vonatkozó előterjesztésekhez részletes táblázatot kell csatolni, amelyben fel kell tüntetni, hogy az uniós jogi aktus egyes rendelkezéseinek a tervezet mely rendelkezései felelnek meg (megfelelési táblázat). Ha a jogszabálytervezetet az európai uniós jog szerint előzetesen meg kell küldeni véleményezésre az Európai Bizottságnak, az Európai Központi Banknak, illetve az Európai Unió tagállamainak, a megküldési kötelezettség teljesítésére vonatkozó nyilatkozatot csatolni kell a tervezethez.
+a) vezetői összefoglalóban kell bemutatni – az előterjesztés jelentőségéhez és jellegéhez igazodva – az előterjesztés szerinti ügy és a döntési javaslat lényegét;
 
-c) Az előterjesztésnek tartalmaznia kell a tárgyra vonatkozó főbb megállapítások és javaslatok összefoglalását, továbbá a pontosan megfogalmazott döntési javaslatot.
+b) a szakmai részletkérdések mellőzésével röviden be kell mutatni a megalapozott döntéshez szükséges információkat, így különösen a javasolt intézkedésnek a Kormány társadalompolitikai célkitűzéseihez való illeszkedését, indokait, lényegét, főbb tartalmi jellemzőit, költségkihatását, valamint várható gazdasági, költségvetési, társadalmi, igazgatási, államháztartási, nemzetközi és egyéb hatásait – szükség szerint példákkal és számításokkal alátámasztva –, illetve következményeit (hatásvizsgálati lap), jogszabály esetében – ezen túlmenően – az alkalmazhatóság feltételeit, a természetes személyek és a vállalkozások adminisztratív terheinek csökkentését, ezek növekedése esetén az azt elkerülhetetlenül szükségessé tevő szempontokat, valamint hatósági eljárás esetén az elektronizálás ütemezését;
 
-d) Az előterjesztésnek indokolt esetben tartalmaznia kell a végrehajtási jogszabály tervezetét is.
+c) javaslatot kell tenni az előterjesztés szerinti döntés kommunikációjára;
 
-11. Azokat a vitás kérdéseket, amelyekben nem alakult ki egyetértés, az előterjesztésben – az eltérő vélemények ismertetésével – döntéshozatalra alkalmas módon be kell mutatni. Ha a megalapozott állásfoglalás ezt szükségessé teszi, két vagy több azonos részletességgel kidolgozott változatot kell ismertetni.
+d) szükség szerint tájékoztatást kell adni arról, hogy a javasolt szabályozás összeegyeztethető-e az Európai Unió jogával;
 
-12.[^10]
+e) az európai uniós jogi aktusok átültetését vagy végrehajtását szolgáló jogszabálytervezet esetén részletesen – táblázat segítségével – be kell mutatni, hogy az uniós jogi aktus egyes rendelkezéseinek a tervezet mely rendelkezései felelnek meg (megfelelési táblázat);
 
-13.[^11]
+f) ha az előterjesztés szerinti jogszabálytervezetet az európai uniós jog szerint előzetesen meg kell küldeni véleményezésre az Európai Bizottságnak, az Európai Központi Banknak, illetve az Európai Unió tagállamainak, a megküldési kötelezettség teljesítéséről nyilatkozni kell;
 
-14.[^12] Törvénytervezet vagy országgyűlési határozattervezet esetében az előterjesztésnek tartalmaznia kell az előterjesztőnek az országgyűlési tárgyalási módra vonatkozó javaslatát, valamint ennek indokait.
+g) be kell mutatni a tárgyra vonatkozó főbb megállapítások és javaslatok összefoglalását;
 
-15. A nem jogszabály alkotására irányuló előterjesztésben meg kell jelölni az adott kérdéssel kapcsolatos döntési hatáskör jogalapját. Az előterjesztésnek pontosan megfogalmazott, a többféle értelmezés lehetőségét kizáró és a végrehajtás szempontjából ellenőrizhető határozati javaslatot kell tartalmaznia, szükség esetén rögzítve az ellenőrzés módját és felelőseit is.
+h) meg kell fogalmazni a határozott döntési javaslatot;
 
-16.[^13] Az előterjesztőnek javaslatot kell tennie a döntés, illetve az előterjesztés egyes részeinek minősített adattá nyilvánítására, közzétételének módjára, valamint más jogszabályoknak és határozatoknak a döntés következtében szükségessé váló módosítására, továbbá a feleslegessé váló korábbi jogszabályok és határozatok hatályon kívül helyezésére is.
+i) – indokolt esetben – szükséges bemutatni a végrehajtási jogszabály tervezetét is;
 
-17.[^14] Az előterjesztéshez vezetői összefoglalót kell csatolni, amely az előterjesztés jelentőségéhez és jellegéhez igazodva tartalmazza az ügy és a döntési javaslat lényegét.
+j) ismertetni kell azon vitás kérdéseket, amelyekben nem alakult ki egyetértés, és azokat – az eltérő vélemények ismertetésével – döntéshozatalra alkalmas módon be kell mutatni;
 
-18.[^15] A Miniszterelnökséget vezető miniszter kötelezően alkalmazandó előterjesztés-mintát bocsát ki.
+k) amennyiben a megalapozott állásfoglalás ezt szükségessé teszi, két vagy több azonos részletességgel kidolgozott változatot kell ismertetni;
 
-19.[^16] Ha miniszteri rendeletet más miniszterrel együttesen vagy vele egyetértésben kell kiadni, és az érintettek között véleményeltérés van, a vitatott kérdésről a Miniszterelnökséget vezető miniszter előterjesztése alapján – a közigazgatási államtitkári értekezlet álláspontjának figyelembevételével – a Kormány dönt.
+l) törvénytervezet vagy országgyűlési határozattervezet elfogadására irányuló javaslat esetében ismertetni kell az előterjesztőnek az országgyűlési tárgyalási módra vonatkozó javaslatát, valamint ennek indokait;
+
+m) – amennyiben a javaslat nem jogszabály megalkotására irányul –, meg kell jelölni az adott kérdéssel kapcsolatos döntési hatáskör jogalapját;
+
+n) pontosan megfogalmazott, a többféle értelmezés lehetőségét kizáró és a végrehajtás szempontjából ellenőrizhető határozati javaslatot kell megfogalmazni, szükség esetén rögzítve az ellenőrzés módját és felelőseit is;
+
+o) az előterjesztőnek javaslatot kell tennie a döntés, illetve az előterjesztés egyes részeinek minősített adattá nyilvánítására, közzétételének módjára, valamint más jogszabályoknak és határozatoknak a döntés következtében szükségessé váló módosítására, továbbá a feleslegessé váló korábbi jogszabályok és határozatok hatályon kívül helyezésére is.
+
+10. A Miniszterelnöki Kormányiroda közigazgatási államtitkára kötelezően alkalmazandó előterjesztés-mintát bocsát ki.
+
+11. Ha a miniszteri rendeletet más miniszterrel együttesen vagy vele egyetértésben kell kiadni, és az érintettek között véleményeltérés van, a vitatott kérdésről a miniszterelnök előterjesztése alapján – a Közigazgatási Államtitkári Értekezlet álláspontjának figyelembevételével – a Kormány dönt.
 
 Az előterjesztés véleményezése
 
-20.[^17] Az előterjesztés és a miniszteri rendelet tervezetét – ha törvény vagy e határozat eltérően nem rendelkezik – egyeztetés céljából határidő megjelölésével meg kell küldeni a közigazgatási államtitkároknak, a feladatkörében érintett kormánybiztosnak és kormányhivatal vezetőjének, akik a tervezetre észrevételt tehetnek.
+12. Az előterjesztés és a miniszteri rendelet tervezetét – ha törvény vagy e határozat eltérően nem rendelkezik – egyeztetés céljából határidő megjelölésével meg kell küldeni a közigazgatási államtitkároknak, a feladatkörében érintett kormánybiztosnak és kormányhivatal vezetőjének, akik a tervezetre észrevételt tehetnek.
 
-21.[^18] A bíróságok és az ügyészségek feladatkörét érintő tervezetet az Országos Bírósági Hivatal elnökével és a legfőbb ügyésszel, az Alkotmánybíróságot, az Állami Számvevőszéket, a Magyar Nemzeti Bankot, az autonóm államigazgatási szerveket, illetve az önálló szabályozó szerveket érintő tervezetet az adott szerv elnökével is egyeztetni kell.
+13. A bíróságok és az ügyészségek feladatkörét érintő tervezetet az Országos Bírósági Hivatal elnökével és a legfőbb ügyésszel, az Alkotmánybíróságot, az Állami Számvevőszéket, a Magyar Nemzeti Bankot, az autonóm államigazgatási szerveket, illetve az önálló szabályozó szerveket érintő tervezetet az adott szerv elnökével is egyeztetni kell.
 
-22.[^19] Ha az előterjesztés a helyi vagy nemzetiségi önkormányzatok feladatkörét érinti, a tervezetet véleménynyilvánításra a meghatározó országos önkormányzati érdek-képviseleti szerveknek meg kell küldeni. A fővárost vagy a megyei önkormányzat hatáskörét érintő kormányzati döntések előkészítésébe a főpolgármestert vagy a megyei közgyűlés elnökét is be kell vonni.
+14. Ha az előterjesztés a helyi vagy nemzetiségi önkormányzatok feladatkörét érinti, a tervezetet véleménynyilvánításra a meghatározó országos önkormányzati érdekképviseleti szerveknek meg kell küldeni. A fővárosi vagy a megyei önkormányzat hatáskörét érintő kormányzati döntések előkészítésébe a főpolgármestert vagy a megyei közgyűlés elnökét is be kell vonni.
 
-23.[^20]
+15. Minden előterjesztés és miniszteri rendelet tervezetét a 12–14. pontban írt egyeztetést megelőzően legalább öt munkanapos véleményezési határidő biztosításával meg kell küldeni a Miniszterelnöki Kormányiroda közigazgatási államtitkára részére (előzetes egyeztetés). A kísérőlevélben tájékoztatást kell adni arról, hogy az előterjesztő mely közigazgatási, társadalmi és egyéb szervezetekkel fogja egyeztetni a tervezetet. Az előterjesztés, illetve miniszteri rendelet tervezetének a 12–14. pontban írt egyeztetésre bocsáthatóságáról a Miniszterelnöki Kormányiroda közigazgatási államtitkára dönt.
 
-24.[^21] Minden előterjesztés és miniszteri rendelet tervezetét a 20–22. pontban írt egyeztetést megelőzően legalább öt munkanapos véleményezési határidő biztosításával meg kell küldeni a Miniszterelnökség közigazgatási államtitkára részére (előzetes egyeztetés). A kísérőlevélben tájékoztatást kell adni arról, hogy az előterjesztő mely közigazgatási, társadalmi és egyéb szervezetekkel fogja egyeztetni a tervezetet. Az előterjesztés, illetve miniszteri rendelet tervezetének a 20–22. pontban írt egyeztetésre bocsáthatóságáról a Miniszterelnökség közigazgatási államtitkára dönt.
-
-24/A.[^22] A Miniszterelnökség közigazgatási államtitkára a 24. pont szerinti döntés megalapozása céljából vizsgálja, hogy
+16. A Miniszterelnöki Kormányiroda közigazgatási államtitkára a 15. pont szerinti döntés megalapozása céljából vizsgálja, hogy
 
 a) az előterjesztés vagy a miniszteri rendelet tervezete összhangban áll-e a Kormány általános politikájával,
 
@@ -90,179 +92,217 @@ b) az előterjesztő jogilag alkalmas megoldást választott-e a szabályozási 
 
 c) ha az előterjesztés vagy a miniszteri rendelet tervezete költségvetési hatással rendelkezik, az megalapozott-e.
 
-24/B.[^23] A Miniszterelnökség közigazgatási államtitkára
+17. (1) A Miniszterelnöki Kormányiroda közigazgatási államtitkára
 
-a) a 24/A. pont b) alpontja vonatkozásában minden esetben az Igazságügyi Minisztérium közigazgatási államtitkára,
+a) a 16. pont b) alpontja vonatkozásában minden esetben az Igazságügyi Minisztérium közigazgatási államtitkára,
 
-b) költségvetési hatás fennállása esetén a 24/A. pont c) alpontja vonatkozásában a Nemzetgazdasági Minisztérium közigazgatási államtitkára
+b) költségvetési hatás fennállása esetén a 16. pont c) alpontja vonatkozásában a Pénzügyminisztérium közigazgatási államtitkára,
 
-állásfoglalását kéri. A megkeresett közigazgatási államtitkárok a megkeresésre a megjelölt határidőben kötelesek válaszolni.
+c) a társadalmi egyeztetési kötelezettségre figyelemmel a Miniszterelnöki Kabinetiroda közigazgatási államtitkára
 
-24/C.[^24] Az előterjesztés vagy a miniszteri rendelet tervezete tekintetében a 24. pont szerinti egyeztetés lefolytatásának kötelezettsége alól az előterjesztő írásbeli kérelmére a Miniszterelnökség közigazgatási államtitkára adhat felmentést.
+állásfoglalását kéri.
 
-25.[^25] Az előterjesztés és a miniszteri rendelet tervezetére a 20–22. pont szerint tett észrevételeket az előterjesztő köteles egyeztetni.
+(2) Az állásfoglalásra jogosult közigazgatási államtitkárok a megjelölt határidőben kötelesek válaszolni.
 
-26. Az észrevételezési jogot
+18. Az előterjesztés vagy a miniszteri rendelet tervezete tekintetében a 15. pont szerinti egyeztetés lefolytatásának kötelezettsége alól az előterjesztő írásbeli kérelmére, a Miniszterelnöki Kormányiroda közigazgatási államtitkára felmentést adhat.
 
-a) a minisztérium szervezeti és működési szabályzata szerint a miniszter, az államtitkár, a közigazgatási államtitkár vagy az erre feljogosított helyettes államtitkár,
+19. Az előterjesztés és a miniszteri rendelet tervezetére a 12–14. pont szerint tett észrevételeket az előterjesztő köteles egyeztetni.
+
+20. Az észrevételezési jogot
+
+a) a minisztérium és a Miniszterelnöki Kormányiroda szervezeti és működési szabályzata szerint a miniszter, az államtitkár, a közigazgatási államtitkár vagy az erre feljogosított helyettes államtitkár,
 
 b) a kormánybiztos vagy
 
-c)[^26] a kormányhivatal vezetője, akadályoztatása esetén az erre kijelölt helyettese
+c) a kormányhivatal vezetője, akadályoztatása esetén az erre kijelölt helyettese
 
 gyakorolja.
 
-27. A Kormány tagjainak és a kormányhivatalok vezetőinek tevékenységéről szóló országgyűlési beszámoló esetén az előterjesztő a Kormány érintett tagjaitól (kormányhivatalok vezetőitől) köteles véleményt kérni.
+21. A Kormány tagjainak és a kormányhivatalok vezetőinek tevékenységéről szóló országgyűlési beszámoló esetén az előterjesztő a Kormány érintett tagjaitól (kormányhivatalok vezetőitől) köteles véleményt kérni.
 
-28.[^27] A 20–22. és a 27. pont szerinti véleményt az előterjesztés megérkezésétől számított tíz munkanapon belül kell az előterjesztővel közölni. Ha az előterjesztés jelentősége vagy más szempont indokolja, a véleményadásra tíz munkanapnál hosszabb időtartamot kell biztosítani. Átfogó jogszabályalkotásra irányuló előterjesztés, valamint testületi állásfoglalás kérése esetén a véleményezési határidő harminc munkanap.
+22. A 12–14. és a 21. pont szerinti véleményt az előterjesztés megérkezésétől számított tíz munkanapon belül kell az előterjesztővel közölni. Ha az előterjesztés jelentősége vagy más szempont indokolja, a véleményadásra tíz munkanapnál hosszabb időtartamot kell biztosítani. Átfogó jogszabályalkotásra irányuló előterjesztés, valamint testületi állásfoglalás kérése esetén a véleményezési határidő harminc munkanap.
 
-29. A Kormány által meghatározott esetben, vagy ha ezt fontos ok feltétlenül szükségessé teszi, a határidők öt munkanapnál nem rövidebb tartamban is megállapíthatók (soronkívüliség). Az előterjesztést ebben az esetben a miniszter, vagy a miniszter felhatalmazása alapján közvetlenül az államtitkár, a közigazgatási államtitkár, a kormánybiztos vagy a kormányhivatal vezetője bocsátja véleményezésre.
+23. A Kormány által meghatározott esetben, vagy ha ezt fontos ok feltétlenül szükségessé teszi, a határidők öt munkanapnál nem rövidebb tartamban is megállapíthatók (soronkívüliség). Az előterjesztést ebben az esetben a miniszter vagy a miniszter felhatalmazása alapján közvetlenül az államtitkár, a közigazgatási államtitkár, a kormánybiztos vagy a kormányhivatal vezetője bocsátja véleményezésre.
 
-30.[^28] Az előterjesztő az észrevételezővel a véleményeltérést egyezteti. Az egyetértés és az egyet nem értés tényét, valamint azt, hogy a véleményező az észrevételt fenntartotta, az előterjesztésen a szerv megnevezésével és a nyilatkozattétel dátumának megjelölésével fel kell tüntetni. Ha az érintett határidőben nem nyilvánított véleményt, az előterjesztésben ennek tényére kell utalni.
+24. (1) Az előterjesztő az észrevételezővel a véleményeltérést egyezteti. Az egyetértés és az egyet nem értés tényét, valamint azt, hogy a véleményező az észrevételt fenntartotta, az előterjesztésen a szerv megnevezésével és a nyilatkozattétel dátumának megjelölésével fel kell tüntetni. Ha az érintett határidőben nem nyilvánított véleményt, az előterjesztésben ennek tényére utalni kell.
 
-Az észrevétel elfogadása vagy a vitás kérdésben való megegyezés esetén az eredetileg észrevételt tevőt egyetértőként kell feltüntetni. A fennmaradó vitás kérdésekben, különösen a kívánt közpolitikai cél elérését veszélyeztető észrevétel fenntartása esetén a Miniszterelnökség közigazgatási államtitkára a közigazgatási államtitkári értekezletre való benyújtást megelőzően egyeztetést folytat, vagy arról gondoskodik és javaslatot tesz a vita megoldásának módjára.
+(2) Az észrevétel elfogadása vagy a vitás kérdésben való megegyezés esetén az eredetileg észrevételt tevőt egyetértőként kell feltüntetni.
 
-31. Az észrevételekről folytatott közigazgatási egyeztetés keretében minden szakmai, jogi és közigazgatási kérdést lehetőség szerint le kell zárni és egyetértésre kell jutni. Több változat fennmaradása esetén külön változatnak minősül az előterjesztés szükségességével vagy jogszerűségével való egyet nem értés is.
+(3) A fennmaradó vitás kérdésekben, különösen a kívánt közpolitikai cél elérését veszélyeztető észrevétel fenntartása esetén a Miniszterelnöki Kormányiroda közigazgatási államtitkára a Közigazgatási Államtitkári Értekezletre való benyújtást megelőzően egyeztetést folytat, vagy arról gondoskodik, és javaslatot tesz a vita megoldásának módjára.
+
+25. Az észrevételekről folytatott közigazgatási egyeztetés keretében minden szakmai, jogi és közigazgatási kérdést lehetőség szerint le kell zárni, és egyetértésre kell jutni. Több változat fennmaradása esetén külön változatnak minősül az előterjesztés szükségességével vagy jogszerűségével való egyet nem értés is.
 
 Az előterjesztés benyújtása
 
-32.[^29] A Kormányhoz előterjesztést nyújthat be a Kormány tagja, feladatkörében a kormánybiztos, továbbá a Kormány döntése alapján vagy a miniszterelnök előzetes hozzájárulásával más szervek és személyek. A kormányhivatal által előkészített előterjesztést a kormányhivatal felügyeletét ellátó miniszter nyújtja be és képviseli a Kormány előtt. Az autonóm államigazgatási szerv és az önálló szabályozó szerv által előkészített előterjesztést a Miniszterelnökséget vezető miniszter vagy az előterjesztés szabályozási tárgyköre alapján feladat- és hatáskör szerint érintett miniszter nyújtja be és képviseli a Kormány előtt.
+26. (1) A Kormányhoz előterjesztést nyújthat be a Kormány tagja, feladatkörében a kormánybiztos, továbbá a Kormány döntése alapján vagy a miniszterelnök előzetes hozzájárulásával más szervek és személyek.
 
-33.[^30] Elektronikus úton, a Miniszterelnökség közigazgatási államtitkára részére kell megküldeni
+(2) A kormányhivatal által előkészített előterjesztést a kormányhivatal felügyeletét ellátó miniszter nyújtja be és képviseli a Kormány előtt.
 
-a) a minősített adatot nem tartalmazó előterjesztéseket a közigazgatási államtitkári értekezlet általi megtárgyalás esetén legkésőbb a közigazgatási államtitkári értekezlet időpontját megelőző munkanapon,
+(3) Az autonóm államigazgatási szerv és az önálló szabályozó szerv által előkészített előterjesztést a Miniszterelnöki Kormányiroda közigazgatási államtitkára vagy az előterjesztés szabályozási tárgyköre alapján feladat- és hatáskör szerint érintett miniszter nyújtja be és képviseli a Kormány előtt.
 
-b) a minősített adatot nem tartalmazó előterjesztés átdolgozott változatát, illetve írásbeli kiegészítését az előterjesztés Kormány általi megtárgyalása esetén legkésőbb a kormányülés időpontját megelőző második munkanapon.
+27. Elektronikus úton, a Miniszterelnöki Kormányiroda közigazgatási államtitkára részére kell megküldeni
 
-33/A.[^31] A Kormány tagjának előterjesztését elektronikus úton az adott minisztérium közigazgatási államtitkára vagy az általa kijelölt személy küldheti meg a Miniszterelnökség közigazgatási államtitkára részére a közigazgatási államtitkári értekezlet vagy a Kormány általi megtárgyalás céljából.
+a) a minősített adatot nem tartalmazó előterjesztéseket – a Közigazgatási Államtitkári Értekezlet általi megtárgyalás esetén – legkésőbb a Közigazgatási Államtitkári Értekezlet időpontját megelőző munkanapon,
 
-33/B.[^32] A minősített adatot tartalmazó előterjesztést a 33. pont a), illetve b) alpontjában meghatározott határidőn belül, papíralapon, egy eredeti aláírt példányban és a Miniszterelnökség közigazgatási államtitkára által meghatározott számú másolati példányban kell megküldeni a Miniszterelnökség közigazgatási államtitkára részére.
+b) a minősített adatot nem tartalmazó előterjesztés átdolgozott változatát, illetve írásbeli kiegészítését – a Kormány általi megtárgyalás esetén – legkésőbb a kormányülés időpontját megelőző második munkanapon.
 
-34.[^33] A 33. pontban írt határidőn túl a Miniszterelnökség közigazgatási államtitkárának engedélyével nyújthatóak be a halaszthatatlanul sürgős döntést igénylő ügyekben készült előterjesztések.
+28. A Kormány tagjának előterjesztését elektronikus úton az adott minisztérium közigazgatási államtitkára vagy az általa kijelölt személy küldheti meg a Miniszterelnöki Kormányiroda közigazgatási államtitkára részére a Közigazgatási Államtitkári Értekezlet vagy a Kormány általi megtárgyalás céljából.
 
-35.[^34] A Miniszterelnökség közigazgatási államtitkára megvizsgálja, hogy a közigazgatási államtitkári értekezletre benyújtott előterjesztés megfelel-e az e határozatban foglalt követelményeknek. Az e határozat előírásainak nem megfelelő előterjesztés tekintetében dönt a közigazgatási államtitkári értekezletre történő benyújthatóság tárgyában, ennek keretében szükség esetén javaslatot tesz az előterjesztőnek az előterjesztés kijavítására vagy kiegészítésére.
+29. A minősített adatot tartalmazó előterjesztést a 27. pontjában meghatározott határidőn belül, papír alapon, egy eredeti aláírt példányban és a Miniszterelnöki Kormányiroda közigazgatási államtitkára által meghatározott számú másolati példányban kell megküldeni a Miniszterelnöki Kormányiroda közigazgatási államtitkára részére.
 
-36.[^35] Az előterjesztőnek – ha a döntés kommunikációjára sor kerül – legkésőbb a Kormány ülését megelőző munkanapon el kell juttatnia a kormányszóvivő részére az előterjesztéssel kapcsolatos sajtóközleményre vonatkozó szövegjavaslatát és a további felmerülő kérdésekkel kapcsolatos felkészítőt.
+30. A 27. pontban írt határidőn túl a Miniszterelnöki Kormányiroda közigazgatási államtitkára engedélyével nyújthatóak be a halaszthatatlanul sürgős döntést igénylő ügyekben készült előterjesztések.
 
-37.[^36]
+31. A Miniszterelnöki Kormányiroda közigazgatási államtitkára megvizsgálja, hogy a Közigazgatási Államtitkári Értekezletre benyújtott előterjesztés megfelel-e az e határozatban foglalt követelményeknek. Az e határozat előírásainak nem megfelelő előterjesztés tekintetében dönt a Közigazgatási Államtitkári Értekezletre történő benyújthatóság tárgyában, ennek keretében szükség esetén javaslatot tesz az előterjesztőnek az előterjesztés kijavítására vagy kiegészítésére.
 
-A nem kormányzati önálló és nem önálló indítványokkal kapcsolatos kormányzati álláspont kialakítása[^37]
+32. Az előterjesztőnek – ha a döntés kommunikációjára sor kerül – legkésőbb a Kormány ülését megelőző munkanapon el kell juttatnia a kormányszóvivő részére az előterjesztéssel kapcsolatos sajtóközleményre vonatkozó szövegjavaslatát és a további felmerülő kérdésekkel kapcsolatos felkészítőt.
 
-38.[^38] (1) A nem a Kormány által benyújtott, tárgysorozatra került törvényjavaslatokkal és országgyűlési határozati javaslatokkal, valamint a törvényjavaslatokhoz és az országgyűlési határozati javaslatokhoz benyújtott módosító javaslatokkal kapcsolatos kormányzati álláspontról – ha a módosító javaslatok a szabályozás lényeges tartalmát érintik – a miniszterelnök eltérő döntése hiányában a feladatkörrel rendelkező miniszter a Miniszterelnökséget vezető miniszterrel együttesen a közigazgatási államtitkári értekezlet ülésére előterjesztést nyújt be. Az Országgyűlés Törvényalkotási bizottsága részéről benyújtandó módosító javaslat kormányoldali kezdeményezése esetén előterjesztést kell készíteni, amelyet a közigazgatási államtitkári értekezlet megtárgyal.
+A nem kormányzati önálló és nem önálló indítványokkal kapcsolatos kormányzati álláspont kialakítása
 
-(2) Az Országgyűlés bizottságának ülésein a feladatkörrel rendelkező miniszter – az (1) bekezdésben foglaltak megvalósulásáig – a Miniszterelnökséget vezető miniszterrel való egyeztetés alapján képviseli a Kormány álláspontját.
+33. (1) A miniszterelnök eltérő döntése hiányában a feladatkörrel rendelkező miniszter a Közigazgatási Államtitkári Értekezlet ülésére előterjesztést nyújt be
 
-(3) A törvényjavaslatokhoz és az országgyűlési határozati javaslatokhoz benyújtott részletes vitát lezáró módosító javaslatokkal kapcsolatban a HHSZ 46. § (1) bekezdése szerinti előterjesztői tájékoztatást a Miniszterelnökséget vezető miniszter adja meg.
+a) a nem a Kormány által benyújtott, tárgysorozatra került törvényjavaslatokkal és országgyűlési határozati javaslatokkal,
 
-(4) A zárószavazást előkészítő, valamint a zárószavazás előtti módosító javaslatokkal kapcsolatos kormányzati álláspontot a feladatkörrel rendelkező miniszter – a Miniszterelnökséget vezető miniszterrel való egyeztetés alapján – képviseli. A zárószavazással összefüggő, a HHSZ 51. § (1) bekezdése szerinti nyilatkozatot a Miniszterelnökséget vezető miniszter teszi meg.
+b) a törvényjavaslatokhoz és az országgyűlési határozati javaslatokhoz benyújtott – a szabályozás lényeges tartalmát érintő – módosító javaslatokkal
+
+kapcsolatos kormányzati álláspontról.
+
+(2) Az Országgyűlés Törvényalkotási bizottsága részéről benyújtandó módosító javaslat kormányoldali kezdeményezése esetén az indítvány tárgya szerint illetékes, vagy a miniszterelnök által erre kijelölt miniszter előterjesztést készít, amelyet a Közigazgatási Államtitkári Értekezlet megtárgyal.
+
+(3) Az (1) bekezdésben foglaltak megvalósulásáig a feladatkörrel rendelkező miniszter az Országgyűlés bizottságainak ülésein – a Miniszterelnöki Kormányiroda közigazgatási államtitkárával, valamint a Miniszterelnöki Kabinetiroda közigazgatási államtitkárával történő egyeztetés alapján – képviseli a tárca álláspontját.
+
+(4) A törvényjavaslatokhoz és az országgyűlési határozati javaslatokhoz benyújtott részletes vitát lezáró bizottsági módosító javaslatokkal kapcsolatban a HHSZ 46. § (1) bekezdése szerinti előterjesztői tájékoztatást – a Miniszterelnöki Kormányiroda közigazgatási államtitkára javaslatára – a miniszterelnök adja meg.
+
+(5) Az Országgyűlés Törvényalkotási bizottságának ülésén a Kormány álláspontját a feladatkörrel rendelkező miniszter képviseli. Amennyiben a Kormány döntésére nem kerül sor, a feladatkörrel rendelkező miniszter – a Miniszterelnöki Kormányiroda közigazgatási államtitkárával, valamint a Miniszterelnöki Kabinetiroda közigazgatási államtitkárával történő egyeztetés alapján – a tárca álláspontját képviseli.
+
+(6) Az egységes javaslattervezetet, valamint az egységes költségvetési javaslatot a feladatkörrel rendelkező miniszter javaslata alapján a miniszterelnök küldi meg a Törvényalkotási bizottság elnökének, illetve a Törvényalkotási bizottság feladatkörében eljáró költségvetési ügyekkel foglalkozó bizottság elnökének.
+
+(7) A zárószavazást előkészítő, valamint a zárószavazás előtti módosító javaslatokkal kapcsolatos kormányzati álláspontot a feladatkörrel rendelkező miniszter – a Miniszterelnöki Kormányiroda közigazgatási államtitkárával való egyeztetés alapján – képviseli. A zárószavazással összefüggő, a HHSZ 51. § (1) bekezdése szerinti nyilatkozatot a miniszterelnök – a Miniszterelnöki Kormányiroda közigazgatási államtitkára javaslatára – teszi meg.
 
 A jelentés
 
-39. A Kormányhoz benyújtott jelentés célja döntést nem igénylő ügyben a testület tájékoztatása.
+34. A Kormányhoz benyújtott jelentés célja döntést nem igénylő ügyben a testület tájékoztatása.
 
-40.[^39] A 32. pontban felsoroltak, továbbá a Kormány képviseletére kapott megbízás alapján eljáró más személyek hivatalos külföldi tárgyalásaikról, a Kormány képviseletében külföldön történt eljárásukról és külföldiekkel belföldön folytatott hivatalos tárgyalásaikról a befejezést követő egy héten belül a Miniszterelnökség közigazgatási államtitkára részére jelentést nyújtanak be, azzal, hogy szükség szerint kezdeményezhetik a jelentés közigazgatási államtitkári értekezlet általi megtárgyalását.
+35. A 26. pontban felsoroltak, továbbá a Kormány képviseletére kapott megbízás alapján eljáró más személyek hivatalos külföldi tárgyalásaikról, a Kormány képviseletében külföldön történt eljárásukról és külföldiekkel belföldön folytatott hivatalos tárgyalásaikról – a befejezést követő egy héten belül – a Miniszterelnöki Kormányiroda közigazgatási államtitkára részére jelentést nyújtanak be, azzal, hogy szükség szerint kezdeményezhetik a jelentés Közigazgatási Államtitkári Értekezlet általi megtárgyalását.
 
-41.[^40] A Központi Statisztikai Hivatal elnöke a Miniszterelnökséget vezető miniszter útján a Kormánynak jelentésben ad tájékoztatást a statisztikai adatokból következtethető fontosabb társadalmi-gazdasági változásokról.
+36. A Központi Statisztikai Hivatal elnöke a Miniszterelnökséget vezető miniszter útján a Kormánynak jelentésben ad tájékoztatást a statisztikai adatokból következtethető fontosabb társadalmi-gazdasági változásokról.
 
-42.[^41] A Miniszterelnökséget vezető miniszter rendszeresen – általában hetenként – írásbeli jelentést készít az európai uniós tagsággal összefüggő aktuális kül- és Európa-politikai kérdésekről, valamint az azokból eredő hazai feladatokról, amelyet a közigazgatási államtitkári értekezlet megtárgyal.
+37. (1) A Miniszterelnökséget vezető miniszter rendszeresen – általában hetenként – írásbeli jelentést készít az európai uniós tagsággal összefüggő aktuális kül- és Európa-politikai kérdésekről, valamint az azokból eredő hazai feladatokról, amelyet a Közigazgatási Államtitkári Értekezlet megtárgyal.
 
-43.[^42] A jelentésre az előterjesztésre vonatkozó előírások értelemszerűen irányadók azzal, hogy a feladatok végrehajtásáról szóló jelentést nem kell egyeztetni, ha a jelentés tartalma alapján a Miniszterelnökség közigazgatási államtitkára eltérően nem rendelkezik.
+(2) A Kormány az aktuális Európa-politikai kérdéseket rendszeresen áttekinti.
 
-A közigazgatási államtitkári értekezlet
+38. A jelentésre az előterjesztésre vonatkozó előírások értelemszerűen irányadók azzal, hogy a feladatok végrehajtásáról szóló jelentést nem kell egyeztetni, kivéve abban az esetben, ha – a jelentés tartalma alapján – a Miniszterelnöki Kormányiroda közigazgatási államtitkára eltérően nem rendelkezik.
 
-44.[^43] A Stratégiai Kabinet, a Gazdasági Kabinet és a Kormány ülésére benyújtott minden előterjesztést és jelentést – ideértve a kormánybiztosok előterjesztéseit (jelentéseit) is – előzetesen a közigazgatási államtitkári értekezleten kell megtárgyalni, amely a Kormány általános hatáskörű döntés-előkészítő testületeként a Stratégiai Kabinet, a Gazdasági Kabinet és a Kormány ülései előkészítésének általános szakmai, szervező, egyeztető és ellenőrző fórumaként működik.
+A Közigazgatási Államtitkári Értekezlet
 
-45.[^44] A közigazgatási államtitkári értekezlet feladata a Stratégiai Kabinet, a Gazdasági Kabinet és a Kormány üléseinek előkészítése. A közigazgatási államtitkári értekezlet ennek keretében állást foglal az előterjesztések és jelentések döntésre való alkalmasságáról, a Stratégiai Kabinet, a Gazdasági Kabinet vagy a Kormány ülésének napirendjére vételéről, a további egyeztetések, valamint az előterjesztés átdolgozásának, kiegészítésének szükségességéről. Ha a közigazgatási államtitkári értekezlet ülésén az előterjesztéssel (jelentéssel) kapcsolatban – előkészítési vagy egyeztetési hiányosságokból adódóan – jelentősebb új elem merülne fel, a közigazgatási államtitkári értekezlet az előterjesztést (jelentést) leveheti a napirendjéről és újabb egyeztetést írhat elő.
+39. A Stratégiai és Családügyi Kabinet, a Gazdasági Kabinet és a Nemzetpolitikai Kabinet (ezen alcím alkalmazásában a továbbiakban együtt: kabinet) és a Kormány ülésére benyújtott minden előterjesztést és jelentést – ideértve a kormánybiztosok előterjesztéseit (jelentéseit) is – előzetesen a Közigazgatási Államtitkári Értekezleten kell megtárgyalni, amely a Kormány általános hatáskörű döntés-előkészítő testületeként a kabinet és a Kormány ülései előkészítésének általános szakmai, szervező, egyeztető és a Kormány által hozott döntések végrehajtását ellenőrző fórumaként működik. E szabály alkalmazása alól a Kormány vonatkozásában a miniszterelnök, a kabinet vonatkozásában a kabinet elnöke – a Miniszterelnöki Kormányiroda közigazgatási államtitkára javaslatára – kivételt tehet.
 
-46.[^45] A közigazgatási államtitkári értekezletet a Miniszterelnökség közigazgatási államtitkára hívja össze, szervezi és vezeti. A közigazgatási államtitkári értekezlet rendszeresen – általában hetenként – tart ülést.
+40. A Közigazgatási Államtitkári Értekezlet feladata a kabinet és a Kormány üléseinek előkészítése. A Közigazgatási Államtitkári Értekezlet döntés-előkészítő feladata keretében
 
-47.[^46] A közigazgatási államtitkári értekezlet napirendjét a Miniszterelnökség közigazgatási államtitkára legkésőbb az ülést megelőző munkanapon állapítja meg.
+a) állást foglal az előterjesztések és jelentések döntésre való alkalmasságáról, a kabinet vagy a Kormány ülésének napirendjére vételéről, a kabinet, illetve a Kormány részére javaslatokat tesz;
 
-48.[^47] A közigazgatási államtitkári értekezlet napirendjére kizárólag előzetesen egyeztetett, az e határozatban foglalt követelmények megtartásával benyújtott előterjesztés és jelentés vehető fel. E szabály alkalmazása alól a Miniszterelnökség közigazgatási államtitkára indokolt esetben kivételt tehet.
+b) állást foglal a további egyeztetések, valamint az előterjesztés átdolgozásának, kiegészítésének szükségességéről, további egyeztetések lefolytatása céljából eseti munkacsoport felállításáról rendelkezhet;
 
-49.[^48] A közigazgatási államtitkári értekezlet résztvevői:
+c) amennyiben az ülésén az előterjesztéssel (jelentéssel) kapcsolatban – előkészítési vagy egyeztetési hiányosságokból adódóan – jelentősebb új elem merülne fel, az előterjesztést (jelentést) leveheti a napirendjéről, és újabb egyeztetést írhat elő;
 
-a) a minisztériumok közigazgatási államtitkárai,
+d) javasolhatja továbbá, hogy az általa megtárgyalt előterjesztésben foglalt kormányrendelet vagy kormányhatározat két ülés között a 77. pont szerint kerüljön kiadásra, a politikai döntéshozó szervek által történő megtárgyalás nélkül;
 
-b) a Miniszterelnökség stratégiai ügyekért felelős államtitkára és
+e) az általa tárgyalt előterjesztéssel (jelentéssel) kapcsolatban kikérheti a Kormány tanácsadó szervének a véleményét;
 
-c) a Miniszterelnökség Kormányirodát irányító helyettes államtitkára.
+f) az előterjesztőt felhívhatja arra, hogy a kabinet, illetve a Kormány ülésére az értekezlet állásfoglalásának megfelelő – lehetőség szerint egyeztetett –, kiegészítő vagy alternatív előterjesztést nyújtson be;
 
-49/A.[^49] A közigazgatási államtitkári értekezleten
+g) ha az előterjesztés átdolgozása szükséges, a Közigazgatási Államtitkári Értekezlet új, e határozat követelményeinek megfelelő előterjesztés benyújtását írhatja elő.
+
+41. A Közigazgatási Államtitkári Értekezletet a Miniszterelnöki Kormányiroda közigazgatási államtitkára hívja össze, szervezi és vezeti. A Közigazgatási Államtitkári Értekezlet rendszeresen – általában hetenként – tart ülést.
+
+42. A Közigazgatási Államtitkári Értekezlet napirendjét a Miniszterelnöki Kormányiroda közigazgatási államtitkára legkésőbb az ülést megelőző munkanapon állapítja meg.
+
+43. A Közigazgatási Államtitkári Értekezlet napirendjére kizárólag az előzetesen egyeztetett, az e határozatban foglalt követelmények megtartásával benyújtott előterjesztés és jelentés vehető fel. E szabály alkalmazása alól a Miniszterelnöki Kormányiroda közigazgatási államtitkára indokolt esetben kivételt tehet.
+
+44. A Közigazgatási Államtitkári Értekezlet résztvevői:
+
+a) a Miniszterelnöki Kormányiroda közigazgatási államtitkára,
+
+b) a minisztériumok közigazgatási államtitkárai,
+
+c) a Miniszterelnöki Kormányiroda helyettes államtitkára.
+
+45. (1) A Közigazgatási Államtitkári Értekezleten
 
 a) a Kormányzati Ellenőrzési Hivatal elnöke,
 
-b) a Központi Statisztikai Hivatal elnöke és
+b) a Központi Statisztikai Hivatal elnöke,
 
-c) a Nemzeti Hírközlési és Informatikai Tanács elnöke
+c) a Nemzeti Hírközlési és Informatikai Tanács elnöke,
 
-állandó meghívottként vesz részt. A Miniszterelnökség közigazgatási államtitkára a közigazgatási államtitkári értekezletre más személyt is meghívhat.
+d) a tárca nélküli miniszter munkájának segítésére kijelölt valamely államtitkár
 
-50. A közigazgatási államtitkári értekezleten a 49. pontban felsoroltak kötelesek személyesen részt venni. Akadályoztatásuk esetén a közigazgatási államtitkárt helyettes államtitkár, a helyettes államtitkárokat, valamint a meghívottakat a jogszabályban vagy szervezeti és működési szabályzatban meghatározott, helyettesítésükre jogosult vezető, a Központi Statisztikai Hivatal és a Kormányzati Ellenőrzési Hivatal elnökét az általa kijelölt elnökhelyettes helyettesítheti.
+állandó meghívottként vesz részt.
 
-51.[^50] A közigazgatási államtitkári értekezlet a napirendjére tűzött előterjesztéseket és jelentéseket megvitatja, azok tekintetében állást foglal, és a Stratégiai Kabinet, a Gazdasági Kabinet, illetve a Kormány részére javaslatokat tesz.
+(2) A Miniszterelnöki Kormányiroda közigazgatási államtitkára a Közigazgatási Államtitkári Értekezletre más személyt is meghívhat.
 
-51/A.[^51] A közigazgatási államtitkári értekezlet javaslatot tehet kormányrendeletnek és kormányhatározatnak a 77. pontban foglaltak szerinti kiadására.
+46. A Közigazgatási Államtitkári Értekezleten a 44. pontban felsoroltak kötelesek személyesen részt venni. Akadályoztatásuk esetén a közigazgatási államtitkárt helyettes államtitkár, a helyettes államtitkárokat, valamint a meghívottakat a jogszabályban vagy szervezeti és működési szabályzatban meghatározott, helyettesítésükre jogosult vezető, a Központi Statisztikai Hivatal és a Kormányzati Ellenőrzési Hivatal elnökét az általa kijelölt elnökhelyettes helyettesítheti.
 
-52.[^52] A közigazgatási államtitkári értekezlet az általa tárgyalt előterjesztéssel (jelentéssel) kapcsolatban kikérheti a kormánybizottság véleményét.
+47. A Közigazgatási Államtitkári Értekezletről emlékeztető készül, melynek összeállításáról a Miniszterelnöki Kormányiroda közigazgatási államtitkára legkésőbb az ülést követő második munkanapon gondoskodik.
 
-53.[^53] Az előterjesztőt a közigazgatási államtitkári értekezlet felhívhatja arra, hogy a Stratégiai Kabinet, a Gazdasági Kabinet, illetve a Kormány ülésére az értekezlet állásfoglalásának megfelelő, – lehetőség szerint egyeztetett – kiegészítő vagy alternatív előterjesztést nyújtson be.
+48. Az előterjesztő – a kabinet, illetve a Kormány ülését megelőzően – személyes egyeztetés útján megkíséreli – a Közigazgatási Államtitkári Értekezletet követően – az esetlegesen fennmaradt nézetkülönbségek tisztázását és a viták lezárását. Az eljárásáról a Miniszterelnöki Kormányiroda közigazgatási államtitkárát tájékoztatja, illetve a személyes egyeztetésre a Miniszterelnöki Kormányiroda közigazgatási államtitkára képviselőjét meghívja.
 
-54. Ha az előterjesztés átdolgozása szükséges, a közigazgatási államtitkári értekezlet új, e határozat követelményeinek megfelelő előterjesztés benyújtását írhatja elő.
+49. A Közigazgatási Államtitkári Értekezlet ellátja a Nemzeti Fenntartható Fejlődés Keretstratégiáról szóló 18/2013. (III. 28.) OGY határozat 3. pontjában foglalt, a Nemzeti Fenntartható Fejlődés Keretstratégia érvényesítését, megvalósítását elősegítő, a fenntartható fejlődés ügyét érintő kormányzati döntésekkel kapcsolatos koordinációs feladatokat.
 
-55.[^54] A közigazgatási államtitkári értekezletről emlékeztető készül, melynek összeállításáról a Miniszterelnökség közigazgatási államtitkára legkésőbb az ülést követő második munkanapon gondoskodik.
+50. (1) A Közigazgatási Államtitkári Értekezlet állandó és eseti munkabizottságokat hozhat létre.
 
-56.[^55] Az előterjesztőnek a Stratégiai Kabinet, a Gazdasági Kabinet, illetve a Kormány ülését megelőzően további személyes egyeztetés útján kell megkísérelnie a közigazgatási államtitkári értekezletet követően esetlegesen még fennmaradt nézetkülönbségek tisztázását és a viták lezárását, amely eljárásáról tájékoztatnia szükséges a Miniszterelnökség közigazgatási államtitkárát, aki dönthet a Miniszterelnökség képviselőjének az egyeztetésben történő részvételéről.
+(2) Az állandó munkabizottságok közvetlenül javasolhatják az általuk tárgyalt előterjesztés politikai döntéshozó fórumon történő megtárgyalását.
 
-56/A.[^56] A közigazgatási államtitkári értekezlet ellátja a Nemzeti Fenntartható Fejlődés Keretstratégiáról szóló 18/2013. (III. 28.) OGY határozat 3. pontjában foglalt, a Nemzeti Fenntartható Fejlődés Keretstratégia érvényesítését, megvalósítását elősegítő, a fenntartható fejlődés ügyét érintő kormányzati döntésekkel kapcsolatos koordinációs feladatokat.
+(3) Az eseti munkabizottság feladata lehet:
 
-56/B.[^57] Ezen alcím rendelkezéseit és az 57. pont első mondatában foglaltakat nem kell alkalmazni a Fejlesztéspolitikai Koordinációs Bizottság (a továbbiakban: FKB) feladat- és hatáskörébe tartozó előterjesztések és jelentések tekintetében.
+a) a 48. pontban foglalt egyeztetési folyamat lezárása,
 
-A Fejlesztéspolitikai Koordinációs Bizottság[^58]
+b) több tárca feladatkörét érintő, vagy nagyobb jelentőségű szabályozási javaslatok előkészítése.
 
-56/C.[^59] Az FKB a Kormány – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján létrehozott és működtetett – fejlesztéspolitikai javaslattevő, véleményező, döntés-előkészítő és koordináló szerve.
+A Fejlesztéspolitikai Koordinációs Bizottság
 
-56/D.[^60] Az FKB feladata az európai uniós forrásból megvalósuló fejlesztéspolitika végrehajtásának összehangolása, a fejlesztéspolitika területén hozandó kormányzati döntések előkészítése és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium központi koordinációs tevékenységének elősegítése. Az FKB ennek érdekében különösen
+51. A Fejlesztéspolitikai Koordinációs Bizottság (a továbbiakban: FKB) a Kormány – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján létrehozott és működtetett – fejlesztéspolitikai javaslattevő, véleményező, döntés-előkészítő és koordináló szerve.
 
-a) javaslatot dolgoz ki, állást foglal a Kormány számára a hosszú- és középtávú fejlesztési és tervezési feladatokról, az Európai Unió pénzügyi támogatásainak igénybevételéhez szükséges tervekről, a programokról, azok végrehajtásáról, a támogatások felhasználásához szükséges intézményrendszer kialakításáról, valamint e témakörökben indokolt szabályozásról,
+52. Az FKB feladata az európai uniós forrásból megvalósuló fejlesztéspolitika végrehajtásának összehangolása, a fejlesztéspolitika területén hozandó kormányzati döntések előkészítése és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium központi koordinációs tevékenységének elősegítése. Az FKB ennek érdekében különösen
 
-b) összehangolja az európai uniós források – ideértve az európai uniós agrár- és vidékfejlesztési alapokat is – eredményes felhasználásával kapcsolatos feladatokat,
+a) javaslatot dolgoz ki, állást foglal a Kormány számára a hosszú és középtávú fejlesztési és tervezési feladatokról, az Európai Unió pénzügyi támogatásainak igénybevételéhez szükséges tervekről, a programokról, azok végrehajtásáról, a támogatások felhasználásához szükséges intézményrendszer kialakításáról, valamint e témakörökben indokolt szabályozásról;
 
-c) megtárgyalja és véleményezi a Kormány döntését nem igénylő ágazati fejlesztési tervet, programot, stratégiát a fejlesztéspolitikával való összhang megteremtése és a központi koordináció biztosítása érdekében,
+b) összehangolja az európai uniós források – ideértve az európai uniós agrár- és vidékfejlesztési alapokat is – eredményes felhasználásával kapcsolatos feladatokat;
 
-d) megtárgyalja a Kormány döntését igénylő fejlesztéspolitikai tárgyú, illetve azzal összefüggő fejlesztési, tervezési és végrehajtási dokumentumokat, és döntési javaslatot tesz azokra,
+c) megtárgyalja és véleményezi a Kormány döntését nem igénylő ágazati fejlesztési tervet, programot, stratégiát a fejlesztéspolitikával való összhang megteremtése és a központi koordináció biztosítása érdekében;
 
-e) döntési javaslatot tesz a program, az azzal összefüggő stratégiai dokumentumok – így különösen az akcióterv és az éves fejlesztési keret –, valamint az irányító hatóság munkatervének elfogadásáról és módosításáról szóló tervezetre vonatkozóan, ennek keretében véleményezi az akcióterv, az éves fejlesztési keret és a munkaterv intézkedéseivel elérni kívánt célokat, azok mérhető indikátorait, a lehetséges kedvezményezettek körét, a támogatás formáját, mértékét, a támogatható tevékenységet, a támogatni tervezett projektek számát és a támogatási értéket, valamint ezek éves ütemezését,
+d) megtárgyalja a Kormány döntését igénylő fejlesztéspolitikai tárgyú, illetve azzal összefüggő fejlesztési, tervezési és végrehajtási dokumentumokat, és döntési javaslatot tesz azokra;
 
-f) megtárgyalja a kiemelt projektről szóló előterjesztést, és döntési javaslatot tesz arra,
+e) döntési javaslatot tesz a program, az azzal összefüggő stratégiai dokumentumok – így különösen az akcióterv és az éves fejlesztési keret –, valamint az irányító hatóság munkatervének elfogadásáról és módosításáról szóló tervezetre vonatkozóan, ennek keretében véleményezi az akcióterv, az éves fejlesztési keret és a munkaterv intézkedéseivel elérni kívánt célokat, azok mérhető indikátorait, a lehetséges kedvezményezettek körét, a támogatás formáját, mértékét, a támogatható tevékenységet, a támogatni tervezett projektek számát és a támogatási értéket, valamint ezek éves ütemezését;
 
-g)[^61] megtárgyalja a hárommilliárd forintot meghaladó támogatási igényű projektjavaslatokat – ideértve azt is, ha a projekt elszámolható összköltsége a költségnövekménnyel együtt a hárommilliárd forintot meghaladja –, és döntési javaslatot tesz azokra,
+f) megtárgyalja a kiemelt projektről szóló előterjesztést, és döntési javaslatot tesz arra;
 
-h) véleményezi a nagyprojektekre vonatkozóan az Európai Bizottság számára benyújtandó javaslatokat,
+g) megtárgyalja a hárommilliárd forintot meghaladó támogatási igényű projektjavaslatokat – ideértve azt is, ha a projekt elszámolható összköltsége a költségnövekménnyel együtt a hárommilliárd forintot meghaladja –, és döntési javaslatot tesz azokra;
 
-i) véleményezi a fejlesztéspolitikai szempontból kiemelt jelentőségű ügyeket, projekteket és a komplex programokat,
+h) véleményezi a nagyprojektekre vonatkozóan az Európai Bizottság számára benyújtandó javaslatokat;
 
-j) véleményezi a projektkiválasztás elbírálási szempontjait, az a) pontban meghatározottakon kívüli eljárásrendi szabályokról és utasításokról szóló dokumentumokat, és javaslatot tesz azokra,
+i) véleményezi a fejlesztéspolitikai szempontból kiemelt jelentőségű ügyeket, projekteket és a komplex programokat;
 
-k) nyomon követi az irányító hatóságok munkatervének megvalósulását, azok végrehajtásáról tájékoztatást kérhet,
+j) véleményezi a projektkiválasztás elbírálási szempontjait, az a) pontban meghatározottakon kívüli eljárásrendi szabályokról és utasításokról szóló dokumentumokat, és javaslatot tesz azokra;
 
-l) részt vesz a fejlesztéspolitikai célok teljesülése érdekében a fejlesztéspolitikát érintő jogszabályok előkészítésében,
+k) nyomon követi az irányító hatóságok munkatervének megvalósulását, azok végrehajtásáról tájékoztatást kérhet;
 
-m) a fejlesztések végrehajtásáért felelős szervezetektől beszámolót kérhet és intézkedést javasolhat,
+l) részt vesz a fejlesztéspolitikai célok teljesülése érdekében a fejlesztéspolitikát érintő jogszabályok előkészítésében;
 
-n) az európai uniós fejlesztési forrásokból megvalósuló fejlesztések összehangolása érdekében adatot kérhet a hazai fejlesztési forrásokból megvalósuló fejlesztésekre vonatkozóan,
+m) a fejlesztések végrehajtásáért felelős szervezetektől beszámolót kérhet, és intézkedést javasolhat;
 
-o) véleményezi a közreműködő szervezetek kialakításának, kiválasztásának módszerét, feltételrendszerét, nyomon követi tevékenységüket, e szervezetektől rendszeresen beszámolót, tájékoztatót kérhet,
+n) az európai uniós fejlesztési forrásokból megvalósuló fejlesztések összehangolása érdekében adatot kérhet a hazai fejlesztési forrásokból megvalósuló fejlesztésekre vonatkozóan;
 
-p) véleményezi az EU Önerő Alapból történő támogatás céljából benyújtott kérelmek elbírálásáról szóló, döntésre előkészített dokumentumot,
+o) véleményezi a közreműködő szervezetek kialakításának, kiválasztásának módszerét, feltételrendszerét, nyomon követi tevékenységüket, e szervezetektől rendszeresen beszámolót, tájékoztatót kérhet;
+
+p) véleményezi az EU Önerő Alapból történő támogatás céljából benyújtott kérelmek elbírálásáról szóló, döntésre előkészített dokumentumot;
 
 q) nyomon követi a Támogatásokat Vizsgáló Iroda munkáját.
 
-56/E.[^62] Az 56/D. pontban meghatározott tárgykörbe tartozó előterjesztés és jelentés a Stratégiai Kabinet napirendjére csak akkor vehető fel, ha azt az FKB előzetesen megtárgyalta vagy azt az előterjesztő az FKB-val előzetesen egyeztette. E szabály alkalmazása alól indokolt esetben és kizárólag akkor lehet eltérni, ha ahhoz a miniszterelnök, az európai uniós források felhasználásáért felelős miniszter vagy az FKB elnöke hozzájárul.
+53. Az 52. pontban meghatározott tárgykörbe tartozó előterjesztés és jelentés a Stratégiai és Családügyi Kabinet napirendjére csak akkor vehető fel, ha azt az FKB előzetesen megtárgyalta, vagy azt az előterjesztő az FKB-val előzetesen egyeztette. E szabály alkalmazása alól indokolt esetben és kizárólag akkor lehet eltérni, ha ahhoz a miniszterelnök, az európai uniós források felhasználásáért felelős miniszter vagy az FKB elnöke hozzájárul.
 
-56/F.[^63] Ha az FKB a feladatkörébe tartozó előterjesztést megvitatta és a Stratégiai Kabinet általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Stratégiai Kabinet ülésére.
+54. Ha az FKB a feladatkörébe tartozó előterjesztést megvitatta, és a Stratégiai és Családügyi Kabinet általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Stratégiai és Családügyi Kabinet ülésére.
 
-56/G.[^64] (1) Az FKB elnökből és tagokból álló testület.
+55. (1) Az FKB elnökből és tagokból álló testület.
 
 (2) Az FKB elnökét a miniszterelnök jelöli ki és menti fel.
 
@@ -272,33 +312,33 @@ a) az irányító hatóságot vezető államtitkár vagy helyettes államtitkár
 
 b) az európai uniós források felhasználásáért felelős miniszter által kijelölt személyek,
 
-c) a miniszter által kijelölt államtitkár vagy helyettes államtitkár, ha a miniszter által vezetett minisztériumban irányító hatóság nem működik,
+c) a miniszter által kijelölt államtitkár vagy helyettes államtitkár, ha a miniszter által vezetett minisztériumban irányító hatóság nem működik, vagy a tárca nélküli miniszter által kijelölt államtitkár vagy helyettes államtitkár,
 
-d) az igazoló hatóság vezetője,
+d) a Miniszterelnöki Kormányiroda közigazgatási államtitkára,
 
-e)[^65]
+e) az igazoló hatóság vezetője,
 
 f) a Magyar Turisztikai Ügynökség vezérigazgatója.
 
 (4) Az FKB ülésének állandó meghívottjai:
 
-a) az európai uniós források felhasználásáért felelős miniszter által fejlesztéspolitikai ügyekkel összefüggő feladatok ellátására kinevezett miniszteri biztos,
+a) az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium
 
-b) az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium
+aa) állami támogatások uniós versenyjogi szempontú vizsgálatával foglalkozó szervezeti egységének vezetőjét irányító helyettes államtitkár,
 
-ba) állami támogatások uniós versenyjogi szempontú vizsgálatával foglalkozó szervezeti egységének vezetője,
+ab) európai uniós forrásokkal összefüggő közbeszerzési dokumentumai közbeszerzési-jogi minőségellenőrzésével foglalkozó szervezeti egységének vezetőjét irányító helyettes államtitkár,
 
-bb) európai uniós forrásokkal összefüggő közbeszerzési dokumentumai közbeszerzési-jogi minőségellenőrzésével foglalkozó szervezeti egységének vezetője,
+ac) európai uniós és hazai fejlesztéspolitikai szabályozásával foglalkozó szervezeti egységének vezetőjét irányító helyettes államtitkár,
 
-bc) európai uniós és hazai fejlesztéspolitikai szabályozásával foglalkozó szervezeti egységének vezetője,
+ad) európai uniós projektek monitoringjával és értékelésével foglalkozó szervezeti egységének vezetőjét irányító helyettes államtitkár,
 
-bd) európai uniós projektek monitoringjával és értékelésével foglalkozó szervezeti egységének vezetője,
+b) a Miniszterelnökség közbeszerzési ügyekért felelős állami vezetője,
 
 c) az FKB titkárságának vezetője.
 
 (5) Az FKB ülésére az elnök a tagon és az állandó meghívotton kívül más személyt is meghívhat.
 
-56/H.[^66] (1) Az FKB elnöke, tagja, állandó meghívottja és meghívottja személyesen vesz részt az FKB munkájában. Az FKB elnöke, tagja, állandó meghívottja és meghívottja helyettesíthető.
+56. (1) Az FKB elnöke, tagja, állandó meghívottja és meghívottja személyesen vesz részt az FKB munkájában. Az FKB elnöke, tagja, állandó meghívottja és meghívottja helyettesíthető.
 
 (2) Az FKB elnökét az FKB elnöke által kijelölt FKB-tag helyettesíti. Az FKB elnöke helyettesítés céljából esetileg az FKB tagján kívüli személyt is kijelölhet.
 
@@ -310,7 +350,7 @@ c) az FKB titkárságának vezetője.
 
 (6) A helyettesítés további szabályait az FKB ügyrendje állapítja meg.
 
-56/I.[^67] (1) Az FKB elnöke állapítja meg az FKB ülésének napirendjét.
+57. (1) Az FKB elnöke állapítja meg az FKB ülésének napirendjét.
 
 (2) Az FKB üléséről összefoglaló készül, amelynek összeállításáról az FKB titkársága gondoskodik. Az FKB ülésének összefoglalóját az FKB elnöke hagyja jóvá.
 
@@ -318,113 +358,153 @@ c) az FKB titkárságának vezetője.
 
 (4) A FKB működésének feltételeiről, valamint titkársági és ügyviteli feladatainak ellátásáról az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium szervezetén belül működő szervezeti egység gondoskodik.
 
-III.
+A Nemzetbiztonsági Munkacsoport
 
-A KORMÁNY ÜLÉSE
+58. (1) A Nemzetbiztonsági Munkacsoport (a továbbiakban: Munkacsoport) a Nemzetbiztonsági Kabinet döntés-előkészítő testülete.
 
-57.[^68] Az előterjesztés vagy jelentés a kormányülés napirendjére akkor vehető fel, ha azt a közigazgatási államtitkári értekezlet megtárgyalta. E szabály alkalmazása alól a Miniszterelnökséget vezető miniszter kivételt tehet. A Kormányt az előterjesztés lényegéről az előterjesztő, a közigazgatási államtitkári értekezlet állásfoglalásáról a Miniszterelnökséget vezető miniszter tájékoztatja.
+(2) A Munkacsoport:
 
-57/A.[^69]
+a) javaslatot tesz a Nemzetbiztonsági Kabinetnek a közbiztonság és a nemzetbiztonság védelme, továbbá az élet- és vagyonvédelem érdekében szükséges feladatokra és intézkedésekre, valamint figyelemmel kíséri azok végrehajtását;
 
-57/B.[^70] Ha a nemzetbiztonság, a közbiztonság védelmével, valamint az élet- és vagyonvédelemmel összefüggő előterjesztést a Nemzetbiztonsági Kabinet megvitatta és a Kormány általi megtárgyalásra javasolta, az előterjesztés közvetlenül benyújtható a Kormány ülésére.
+b) biztosítja az összehangolt, késedelem nélküli és szükséges intézkedések és a végrehajtásért felelős szerv gyors megállapítását lehetővé tevő információcserét a közbiztonság és a nemzetbiztonság védelmével, valamint a haza védelmével és a szövetségi kötelezettségek teljesítésével összefüggésben az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Nemzetbiztonsági Szolgálat, az Információs Hivatal, az Országos Rendőr-főkapitányság, a Terrorelhárítási Központ, a Nemzeti Védelmi Szolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Bevándorlási és Menekültügyi Hivatal, a BM Országos Katasztrófavédelmi Főigazgatóság, a Nemzeti Adó- és Vámhivatal, a Honvéd Vezérkar, a Miniszterelnökség, valamint az érintett minisztériumok között;
 
-57/C.[^71]
+c) javaslatot tesz a b) pontban felsorolt szervek tevékenységével kapcsolatos szakfeladatok ellátására, azok összehangolására, a felelősség rendjére;
 
-58.[^72] Az ülés napirendjének javaslatát – a közigazgatási államtitkári értekezlet, a Stratégiai Kabinet, a Gazdasági Kabinet és a Nemzetbiztonsági Kabinet állásfoglalásainak figyelembevételével – a Miniszterelnökség közigazgatási államtitkárának javaslatára a Miniszterelnökséget vezető miniszter hagyja jóvá és a Miniszterelnökség közigazgatási államtitkára küldi ki legkésőbb az ülést megelőző második munkanapon az ülés résztvevőinek. A végleges napirendről a Kormány dönt. A miniszterelnök engedélyével a halaszthatatlanul sürgős ügyek szakmailag egyeztetett dokumentumai az ülés megkezdése előtt a helyszínen is szétoszthatók a Miniszterelnökség útján.
+d) biztosítja a b) pontban felsorolt szervek által feladat- és hatáskörükben szerzett, a közbiztonság és a nemzetbiztonság védelmével, valamint az élet- és vagyonvédelemmel összefüggő műveleti, valamint műveleti, bűnmegelőzési, bűnüldözési, felderítési és elhárítási célból hasznosítható információk közvetlen, koordinált cseréjét és összegzését, az operatív együttműködést;
 
-59.[^73] A Kormány ülésén részt vesznek a Kormány tagjai, tanácskozási joggal az állandó meghívottak, az előterjesztők és a miniszterelnök által meghívott személyek. A meghívás személyre szólóan történik, az ülésen kizárólag a meghívott vehet részt.
+e) szükség esetén információs igényt fogalmaz meg a b) pontban felsorolt szervek felé, valamint együttműködésre kéri fel a Kormány irányítása alá nem tartozó állami szerveket;
 
-60.[^74] A Kormány ülésére állandó meghívottak:
+f) összehangolja a b) pontban felsorolt szervek felderítő és műveleti, valamint hatósági intézkedéseit, továbbá a műveleti helyzetnek megfelelően javaslatot tesz a szükséges intézkedésekre;
 
-a) a Miniszterelnökség közigazgatási államtitkára,
+g) a Nemzetbiztonsági Kabinet átruházott hatáskörében dönt az alapvető biztonsági érdeket érintő beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló Korm. rendelet, valamint a minősített beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló Korm. rendelet szerinti mentesítési kérelmek megalapozottságáról.
 
-b) a Miniszterelnökség Kormányirodát irányító helyettes államtitkára,
+(3) A Munkacsoport tagjai:
 
-c) a miniszterelnök kabinetfőnökének miniszterhelyettese,
+a) a belügyminiszter által delegált személy,
 
-d) a Miniszterelnöki Kabinetiroda kormányzati kommunikációért felelős államtitkára,
+b) a honvédelmi miniszter által delegált személy,
 
-e) a kormányszóvivő.
+c) a külgazdasági és külügyminiszter által delegált személy,
 
-61.[^75] A feladatkörét érintő napirendi pont tárgyalásához a Kormány ülésére meg kell hívni azt, aki tekintetében törvény ekként rendelkezik.
+d) a Miniszterelnöki Kormányiroda nemzeti információs államtitkára,
 
-62.[^76] A Kormány ülését a miniszterelnök akadályoztatása esetén a Miniszterelnökséget vezető miniszter vezeti, aki gyakorolja mindazon hatásköröket, amelyeket e határozat a miniszterelnök hatáskörébe utal.
+e) a Honvéd Vezérkar főnöke,
 
-63. Kormány tagjai a Kormány ülésén személyesen kötelesek részt venni. E kötelezettség alól a miniszterelnök adhat felmentést.
+f) az Információs Hivatal főigazgatója,
 
-64.[^77] A Kormány ülésén a minisztert akadályoztatása esetén a miniszterhelyettese, a miniszter és a miniszterhelyettese egyidejű akadályoztatása esetén a miniszter által erre kijelölt államtitkár helyettesíti. A miniszter – eseti jelleggel – más miniszter részére megbízást adhat a Kormány ülésén történő képviseletére. Az állandó meghívottat a Kormány ülésén a Miniszterelnökség, illetve a Miniszterelnöki Kabinetiroda szervezeti és működési szabályzata szerint helyettesítésre jogosult vezető helyettesítheti.
+g) az Alkotmányvédelmi Hivatal főigazgatója,
 
-65.[^78] Ha az előterjesztést nem a Kormány tagja, hanem más jogosult nyújtotta be, akadályoztatása esetén az általa kijelölt helyettes hiányában a miniszterelnök által kijelölt személy vesz részt a napirendi pont tárgyalásán.
+h) a Nemzetbiztonsági Szakszolgálat főigazgatója,
 
-66.[^79] A Kormány ülésén jelenlévők az előterjesztésről, illetve az egyéb döntést igénylő kérdésről tanácskozást folytatnak, melyet követően a miniszterelnök összefoglalja a tanácskozás során elhangzottakat és kimondja a Kormány döntését.
+i) a Katonai Nemzetbiztonsági Szolgálat főigazgatója,
 
-67.[^80]
+j) az országos rendőrfőkapitány,
 
-68.[^81]
+k) a Terrorelhárítási Központ főigazgatója,
 
-69.[^82] A Kormány ülése a benyújtott előterjesztések, jelentések megtárgyalásából, döntések meghozatalából, szóbeli eszmecseréből, eligazításból, bejelentésekből, valamint – a miniszterelnök egyedi felhívása esetén – a Kormány tagja által adott tájékoztatásból áll.
+l) a Nemzeti Védelmi Szolgálat főigazgatója,
 
-70.[^83]
+m) a Terrorelhárítási Információs és Bűnügyi Elemző Központ főigazgatója,
 
-71.[^84] Rendkívüli vagy azonnali intézkedést igénylő esetben a Kormány – ülésen kívül – úgy is hozhat döntést, hogy az adott ügyben tagjai írásban vagy távbeszélő útján közlik állásfoglalásukat. Ennek megszervezéséről és dokumentálásáról a Miniszterelnökség közigazgatási államtitkára gondoskodik.
+n) a BM Országos Katasztrófavédelmi Főigazgatóság főigazgatója,
 
-IV.
+o) az állami adó- és vámhatóság vezetője,
 
-A KORMÁNY DÖNTÉSEI
+p) a Bevándorlási és Menekültügyi Hivatal főigazgatója.
 
-72. A Kormány a feladatkörében rendeletet bocsát ki, határozatot hoz, irányelvet vagy elvi állásfoglalást fogad el.
+(4) A Munkacsoport vezetője a Belügyminisztérium közbiztonsági főigazgatója.
 
-73.[^85] A Kormány döntései szövegének véglegesítéséről az ülés összefoglalója alapján a Miniszterelnökség közigazgatási államtitkára gondoskodik és azt a Miniszterelnökséget vezető miniszter felterjesztésében a miniszterelnök – akadályoztatása esetén a miniszterelnököt a Kormány adott ülésének vezetésében helyettesítő miniszter – írja alá.
+III. A KORMÁNY ÜLÉSE[^3]
 
-74.[^86] Ha a Kormány az előterjesztett javaslatot érdemben megváltoztatta, a szükséges utóegyeztetéseket a 73. pont szerinti eljárást megelőzően a Miniszterelnökséget vezető miniszter által kijelölt állami vezető koordinálja.
+59. Az előterjesztés vagy jelentés a kormányülés napirendjére – a Fejlesztéspolitikai Koordinációs Bizottság és a Nemzetbiztonsági Munkacsoport által tárgyal előterjesztések és jelentések kivételével – akkor vehető fel, ha azt a Közigazgatási Államtitkári Értekezlet megtárgyalta. E szabály alkalmazása alól a Miniszterelnöki Kormányiroda közigazgatási államtitkára javaslatára a miniszterelnök kivételt tehet. A Kormányt az előterjesztés lényegéről az előterjesztő, a Közigazgatási Államtitkári Értekezlet állásfoglalásáról a Miniszterelnöki Kormányiroda közigazgatási államtitkára tájékoztatja.
 
-75.[^87] A Kormánynak az Országgyűlés elé terjesztendő önálló indítványait a miniszterelnök – a Miniszterelnökséget vezető miniszter előterjesztése alapján – küldi meg az Országgyűlés elnöke részére. A benyújtólevelet a miniszterelnök akadályoztatása esetén a miniszterelnök-helyettes kiadmányozza. A benyújtásra megfelelően előkészített javaslatot papír formátumban és elektronikusan a Miniszterelnökség közigazgatási államtitkára részére kell eljuttatni. A benyújtott önálló indítványnak az Országgyűléshez történő, a tárgyaláshoz szükséges példányszámban való eljuttatásáról az előadó miniszter gondoskodik.
+60. Az ülés napirendjének javaslatát – a Közigazgatási Államtitkári Értekezlet a kabinet állásfoglalásainak figyelembevételével – a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára a miniszterelnök hagyja jóvá, és a Miniszterelnöki Kormányiroda közigazgatási államtitkára küldi ki legkésőbb az ülést megelőző második munkanapon az ülés résztvevőinek. A végleges napirendről a Kormány dönt. A miniszterelnök engedélyével a halaszthatatlanul sürgős ügyek szakmailag egyeztetett dokumentumai az ülés megkezdése előtt a helyszínen is szétoszthatók a Miniszterelnöki Kormányiroda útján.
 
-76.[^88] A Kormány a közigazgatási államtitkári értekezlet, a Stratégiai Kabinet, a Gazdasági Kabinet, illetve a Nemzetbiztonsági Kabinet javaslata alapján az előterjesztés elfogadásáról vita nélkül határozhat, ha vitás kérdés nem maradt fenn.
+61. (1) A Kormány ülésén részt vesznek a Kormány tagjai.
 
-77.[^89] A miniszterelnök a Kormány ülései között – kivételesen indokolt esetben – feladatok kijelölése, nemzetközi tárgyalások lebonyolítása és megállapodások aláírása, jóváhagyása, látogatások szervezése, egyes kinevezések és felmentések ügyében, kitüntetések adományozása céljából kormányhatározatot, továbbá más esetben a Kormány felhatalmazása alapján kormányrendeletet és kormányhatározatot adhat ki. Az így hozott rendeletekről és határozatokról szóló jelentést utólagos jóváhagyásra a Miniszterelnökséget vezető miniszter nyújtja be a Kormányhoz.
+(2) A Kormány ülésén a minisztert akadályoztatása esetén a miniszterhelyettese, a miniszter és a miniszterhelyettese egyidejű akadályoztatása esetén a miniszter által erre kijelölt államtitkár helyettesíti. A miniszter – eseti jelleggel – más miniszter részére megbízást adhat a Kormány ülésén történő képviseletére.
 
-77/A.[^90]
+62. (1) A Kormány ülésén tanácskozási joggal vesz részt az előterjesztő és az állandó meghívott.
 
-78.[^91] A Kormány rendeleteit, határozatait, elvi állásfoglalásait és irányelveit az üléstől számított nyolc munkanapon belül kell kihirdetni (közzétenni), illetve az érdekeltek részére megküldeni, kivéve, ha a miniszterelnök más határidőt állapít meg.
+(2) A Kormány ülésén állandó meghívott:
 
-79. a) A Kormány határozatait a Magyar Közlöny Határozatok Tárában kell közzétenni.
+a) a Miniszterelnöki Kormányiroda közigazgatási államtitkára,
 
-b)[^92] A Kormány döntése alapján a Miniszterelnökség sokszorosított formában az érdekelteknek közvetlenül küldi meg
+b) a kormányszóvivő.
 
-– a minősített adatot tartalmazó,
+(3) Ha az előterjesztést nem a Kormány tagja, hanem más jogosult nyújtotta be, akadályoztatása esetén az általa kijelölt helyettes hiányában a miniszterelnök által kijelölt személy vesz részt a napirendi pont tárgyalásán.
 
-– a kizárólag a Kormány tagjai, a kormánybiztosok, a kormányhivatalok és a rendvédelmi szervek vezetői számára feladatot kijelölő és pénzügyi kötelezettségvállalással nem járó
+63. A Kormány ülésén tanácskozási joggal vesznek részt a miniszterelnök által meghívott személyek. A meghívás személyre szólóan történik, az ülésen kizárólag a meghívott vehet részt.
+
+64. A feladatkörét érintő napirendi pont tárgyalásához a Kormány ülésére meg kell hívni azt, aki tekintetében törvény ekként rendelkezik.
+
+65. A Kormány ülését a miniszterelnök akadályoztatása esetén a miniszterelnök általános helyettese vezeti, aki gyakorolja mindazon hatásköröket, amelyeket e határozat a miniszterelnök hatáskörébe utal.
+
+66. A Kormány ülésén jelen lévők az előterjesztésről, illetve az egyéb döntést igénylő kérdésről tanácskozást folytatnak, amelyet követően a miniszterelnök összefoglalja a tanácskozás során elhangzottakat, és kimondja a Kormány döntését.
+
+67. A Kormány ülése a benyújtott előterjesztések, jelentések megtárgyalásából, döntések meghozatalából, szóbeli eszmecseréből, eligazításból, bejelentésekből, valamint – a miniszterelnök egyedi felhívása esetén – a Kormány tagja által adott tájékoztatásból áll.
+
+68. Rendkívüli vagy azonnali intézkedést igénylő esetben a Kormány – ülésen kívül – úgy is hozhat döntést, hogy az adott ügyben tagjai írásban vagy távbeszélő útján közlik állásfoglalásukat.
+
+69. A Kormány 68. pont szerinti ülése megszervezéséről és dokumentálásáról a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik.
+
+IV. [^4] A KORMÁNY DÖNTÉSEI
+
+70. A Kormány a feladatkörében rendeletet bocsát ki, határozatot hoz, irányelvet vagy elvi állásfoglalást fogad el.
+
+71. A Kormány döntései szövegének véglegesítéséről az ülés összefoglalója alapján a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik, és felterjesztésében azt a miniszterelnök – akadályoztatása esetén a miniszterelnök helyettese – írja alá.
+
+72. Ha a Kormány az előterjesztett javaslatot érdemben megváltoztatta, a szükséges utóegyeztetéseket – a 71. pont szerinti eljárást megelőzően – a Kormány, ennek hiányában a Miniszterelnöki Kormányiroda által kijelölt állami vezető koordinálja.
+
+73. A Kormánynak az Országgyűlés elé terjesztendő önálló indítványait a miniszterelnök – a Miniszterelnöki Kormányiroda közigazgatási államtitkára előterjesztése alapján – küldi meg az Országgyűlés elnöke részére.
+
+74. A 73. pont szerinti intézkedéshez szükséges benyújtólevelet a miniszterelnök akadályoztatása esetén a miniszterelnök-helyettes kiadmányozza.
+
+75. A benyújtásra megfelelően előkészített javaslatot papír alapon és elektronikusan a Miniszterelnöki Kormányiroda közigazgatási államtitkára részére kell eljuttatni. A benyújtott önálló indítványnak az Országgyűléshez történő, a tárgyaláshoz szükséges példányszámban való eljuttatásáról az előadó miniszter gondoskodik.
+
+76. A Kormány a Közigazgatási Államtitkári Értekezlet, illetve a kabinet javaslata alapján az előterjesztés elfogadásáról vita nélkül határozhat, ha vitás kérdés nem maradt fenn.
+
+77. A miniszterelnök a Kormány ülései között – kivételesen indokolt esetben – feladatok kijelölése, nemzetközi tárgyalások lebonyolítása és megállapodások aláírása, jóváhagyása, látogatások szervezése, egyes kinevezések és felmentések ügyében, kitüntetések adományozása céljából kormányhatározatot, továbbá más esetben a Kormány felhatalmazása alapján kormányrendeletet és kormányhatározatot adhat ki.
+
+78. A 77. pont szerinti eljárásban hozott rendeletekről és határozatokról szóló jelentést utólagos jóváhagyásra a miniszterelnök nyújtja be a Kormányhoz.
+
+79. A Kormány rendeleteit, határozatait, elvi állásfoglalásait és irányelveit az üléstől számított nyolc munkanapon belül kell kihirdetni (közzétenni), illetve az érdekeltek részére megküldeni, kivéve, ha a miniszterelnök más határidőt állapít meg.
+
+80. (1) A Kormány határozatait a Magyar Közlöny Határozatok Tárában kell közzétenni.
+
+(2) A Kormány döntése alapján a Miniszterelnöki Kormányiroda sokszorosított formában az érdekelteknek közvetlenül küldi meg
+
+a) a minősített adatot tartalmazó,
+
+b) a kizárólag a Kormány tagjai, a Miniszterelnöki Kormányiroda közigazgatási államtitkára, a kormánybiztosok, a kormányhivatalok és a rendvédelmi szervek vezetői számára feladatot kijelölő és pénzügyi kötelezettségvállalással nem járó
 
 határozatokat.
 
-80.[^93] A külön határozatba foglalást vagy intézkedést nem igénylő döntést az összefoglalóban kell rögzíteni. Erről a Miniszterelnökség közigazgatási államtitkára szükséges esetén emlékeztetőt ad ki és azt a 86. pontban felsoroltaknak megküldi.
+81. A külön határozatba foglalást vagy intézkedést nem igénylő döntést az összefoglalóban kell rögzíteni. Erről a Miniszterelnöki Kormányiroda közigazgatási államtitkára szükséges esetén emlékeztetőt ad ki, és azt a 86. pontban felsoroltaknak megküldi.
 
-81.[^94] A kormányülés dokumentumainak kezeléséről és őrzéséről, valamint a Kormány döntéseinek nyilvántartásáról a Miniszterelnökség közigazgatási államtitkára gondoskodik.
-
-82.[^95]
+82. A kormányülés dokumentumainak kezeléséről és őrzéséről, valamint a Kormány döntéseinek nyilvántartásáról a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik.
 
 V.
 
 A KORMÁNY ÜLÉSÉRŐL KÉSZÜLT ÖSSZEFOGLALÓ ÉS HANGFELVÉTEL
 
-83.[^96] A Kormány üléséről összefoglaló és a Kormány tagjának kérésére, indokolt esetben és a miniszterelnök engedélyével rögtön, továbbá az ülés végén az összefoglaló elkészítésére alkalmas hangfelvétel készül. Az összefoglaló elkészítéséről – az ülést követő három munkanapon belül – a Miniszterelnökség közigazgatási államtitkára gondoskodik.
+83.[^5] A Kormány üléséről összefoglaló és a Kormány tagjának kérésére, indokolt esetben és a miniszterelnök engedélyével rögtön, továbbá az ülés végén az összefoglaló elkészítésére alkalmas hangfelvétel készül. Az összefoglaló elkészítéséről – az ülést követő három munkanapon belül – a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik.
 
-84.[^97] Az összefoglaló elkészítéséről – az ülést követő három munkanapon belül – a Miniszterelnökség közigazgatási államtitkára gondoskodik. Az összefoglalót a Miniszterelnökséget vezető miniszter írja alá.
+84.[^6] Az összefoglaló elkészítéséről – az ülést követő három munkanapon belül – a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik. Az összefoglalót a miniszterelnök írja alá.
 
-85.[^98] Az aláírt összefoglaló mellékleteként a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározottakat kell megőrizni.
+85.[^7] Az aláírt összefoglaló mellékleteként a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározottakat kell megőrizni.
 
-86.[^99] Az összefoglaló egy-egy példányát a közigazgatási államtitkárok kapják meg. A Miniszterelnökség közigazgatási államtitkára az összefoglaló megküldését másnak is engedélyezheti.
+86.[^8] Az összefoglaló egy-egy példányát a közigazgatási államtitkárok kapják meg. A Miniszterelnöki Kormányiroda közigazgatási államtitkára az összefoglaló megküldését másnak is engedélyezheti.
 
-87.[^100] A hangfelvétel a Kormány tagjai és az állandó meghívottak személyes használatára a Miniszterelnökségen rendelkezésre áll. A Kormány tagjainak, a kormányülés állandó meghívottainak megbízottja a Miniszterelnökség közigazgatási államtitkárának engedélyével a felvételt meghallgathatja. Ha folyamatban lévő feladat végrehajtásához szükséges, az érdekeltnek a hangfelvétel alapján készített kivonat adható.
+87.[^9] A hangfelvétel a Kormány tagjai és az állandó meghívottak személyes használatára a Miniszterelnöki Kormányirodán rendelkezésre áll. A Kormány tagjainak, a kormányülés állandó meghívottainak megbízottja a Miniszterelnöki Kormányiroda közigazgatási államtitkárának engedélyével a felvételt meghallgathatja. Ha folyamatban lévő feladat végrehajtásához szükséges, az érdekeltnek a hangfelvétel alapján készített kivonat adható.
 
 VI.
 
 A KORMÁNY DÖNTÉSEI VÉGREHAJTÁSÁNAK ELLENŐRZÉSE
 
-88.[^101] A Miniszterelnökséget vezető miniszter rendszeresen előterjesztést készít a Kormány számára a Kormány határozataiban és munkatervében előírt határidős feladatok végrehajtásáról. A végrehajtásért felelős írásban számot ad a határidő elmulasztásának okairól. A Kormány határozataiban előírt feladatok teljesítési határidejének módosítására vonatkozó javaslatokat is tartalmazó előterjesztést a Miniszterelnökséget vezető miniszter nyújtja be a Kormányhoz.
+88.[^10] A Miniszterelnöki Kormányiroda közigazgatási államtitkára rendszeresen előterjesztést készít a Kormány számára a Kormány határozataiban és munkatervében előírt határidős feladatok végrehajtásáról. A végrehajtásért felelős írásban számot ad a határidő elmulasztásának okairól. A Kormány határozataiban előírt feladatok teljesítési határidejének módosítására vonatkozó javaslatokat is tartalmazó előterjesztést a miniszterelnök – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – nyújtja be a Kormányhoz.
 
-89.[^102] A miniszterelnök, illetve a Miniszterelnökséget vezető miniszter felhívhatja a minisztert, a kormánybiztost és a kormányhivatal vezetőjét a Kormány által elrendelt feladat végrehajtásáról való beszámolásra.
+89.[^11] A miniszterelnök felhívhatja a minisztert, a kormánybiztost és a kormányhivatal vezetőjét a Kormány által elrendelt feladat végrehajtásáról való beszámolásra.
 
 VII.
 
@@ -432,275 +512,464 @@ A KORMÁNY EGYES FELADATAINAK ELLÁTÁSA
 
 90. Az Európai Unió döntéshozatali tevékenységében való részvételről és az ehhez kapcsolódó koordinációs eljárásrendről, valamint az európai uniós tagságból eredő jogharmonizációs feladatok meghatározásának, programozásának és teljesítésük ellenőrzésének rendjéről külön kormányhatározat rendelkezik.
 
-VII/A. A STRATÉGIAI KABINET ÉS A GAZDASÁGI KABINET[^103]
+VII/A. A KABINETEK[^12]
 
-A Stratégiai Kabinet és a Gazdasági Kabinet jogállása
-
-90/A. (1) A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 28. § (1) bekezdése alapján létrehozza a Stratégiai Kabinetet és a Gazdasági Kabinetet (a továbbiakban együtt: kabinet).
+90/A. (1) A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 28. § (1) bekezdése alapján létrehozza a Stratégiai és Családügyi Kabinetet, a Gazdasági Kabinetet, a Nemzetbiztonsági Kabinetet, valamint a Nemzetpolitikai Kabinetet (e fejezet alkalmazásában a továbbiakban együtt: kabinet).
 
 (2) A kabinet működésének célja a Kormány döntéseinek előkészítése, valamint döntés a Kormány hatáskörébe tartozó ügyekben.
 
-A Stratégiai Kabinet feladat- és hatásköre, valamint a Stratégiai Kabinet tagjai
+A Stratégiai és Családügyi Kabinet feladat- és hatásköre, valamint a tagjai
 
-90/B. A Stratégiai Kabinet feladat- és hatásköre a Kormány vagy a miniszterelnök által meghatározott, így különösen
+90/B. (1) A Stratégiai és Családügyi Kabinet feladatai a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
-a) a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet
+1. az anyakönyvi ügyekért,
 
-aa) 4. § 3., 4., 6., 7., 14., 15. és 16. pontja szerinti,
+2. az áldozatsegítésért,
 
-ab) 21. § 1., 5., 8., 9., 13. és 14. pontja szerinti,
+3. az általános politikai koordinációért,
 
-ac) 48. § 1., 3., 4., 9., 10. és 15. pontja szerinti,
+4. a családpolitikáért,
 
-ad) 65. § 1., 8. és 9. pontja szerinti,
+5. az e-közigazgatásért,
 
-ae) 79. § 1. pontja szerinti,
+6. az egészségügyért,
 
-af) 85. § 3. pontja szerinti,
+7. az európai uniós források felhasználásáért,
 
-ag) 90. § 17. és 18. pontja szerinti,
+8. az európai uniós ügyek koordinációjáért,
 
-ah) 109. § 2., 6., 7., 9., 10., 13. és 16. pontja szerinti,
+9. az építésügyi szabályozásért és építéshatósági ügyekért,
 
-b) az Egyesült Királyság Európai Unióból történő kilépésével összefüggő kormányzati álláspont kialakításával kapcsolatos,
+10. a gyermekek és az ifjúság védelméért,
 
-c) a bürokráciacsökkentéssel kapcsolatos, valamint
+11. a gyermek- és ifjúságpolitikáért,
 
-d) a Paksi Atomerőmű kapacitásának fenntartásával összefüggő beruházással kapcsolatos
+12. a helyi önkormányzatok törvényességi felügyeletéért,
 
-tárgykörökbe tartozó előterjesztésekre és jelentésekre terjed ki.
+13. a helyi önkormányzatokért,
 
-90/C. (1) A Stratégiai Kabinet elnöke a Miniszterelnökséget vezető miniszter.
+14. az igazságügyért,
 
-(2) A Stratégiai Kabinet tagja
+15. az ingatlan-nyilvántartásért,
 
-a) a nemzetgazdasági miniszter,
+16. kárpótlásért,
 
-b) az igazságügyi miniszter és
+17. a kormányzati kommunikációért,
 
-c) a tárgyalt napirendi pont tekintetében az előterjesztő (jelentés esetén benyújtó) miniszter vagy miniszterek.
+18. a kormányzati társadalmi kapcsolatok összehangolásáért,
 
-(3) A Stratégiai Kabinet ülésén állandó meghívottként részt vesz a miniszterelnök kabinetfőnöke.
+19. a közbeszerzésekért,
 
-A Gazdasági Kabinet feladat- és hatásköre, valamint a Gazdasági Kabinet tagjai
+20. a közigazgatás-fejlesztésért,
 
-90/D. A Gazdasági Kabinet feladat- és hatásköre a Kormány vagy a miniszterelnök által meghatározott, így különösen
+21. a közigazgatás-szervezésért,
 
-a) a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet
+22. a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért,
 
-aa) 4. § 9. pontja szerinti,
+23. a közigazgatási minőségpolitikáért és személyzetpolitikáért,
 
-ab) 21. § 29. pontja szerinti,
+24. a köziratok kezelésének szakmai irányításáért,
 
-ac) 48. § 13. pontja szerinti,
+25. a közszolgálati életpálya kidolgozásáért,
 
-ad) 65. § 3. pontja szerinti,
+26. a kulturális örökség védelméért,
 
-ae) 85. § 2. pontja szerinti,
+27. a kultúráért,
 
-af) 90. § 1., 2., 3., 5., 6., 7., 9., 10., 11. és 14. pontja szerinti,
+28. a külpolitikáért,
 
-ag) 109. § 3., 4., 5., 11., 14., 18., 19. és 20. pontja szerinti,
+29. az oktatásért,
 
-b) az állami beruházásokkal összefüggő döntésekkel kapcsolatos,
+30. a sportpolitikáért,
 
-c) a gazdasági növekedés ösztönzésével kapcsolatos, valamint
+31. a személyiadat- és lakcímnyilvántartásért,
 
-d) az adósságcsökkentéssel kapcsolatos
+32. a társadalmi és civil kapcsolatok fejlesztéséért,
 
-tárgykörökbe tartozó előterjesztésekre és jelentésekre terjed ki.
+33. a társadalmi felzárkózásért,
 
-90/E. (1) A Gazdasági Kabinet elnöke a nemzetgazdasági miniszter.
+34. a társadalmi párbeszédért,
 
-(2) A Gazdasági Kabinet tagja
+35. a társadalompolitika összehangolásáért,
 
-a) a Miniszterelnökséget vezető miniszter,
+36. a természetvédelemért,
 
-b) az igazságügyi miniszter és
+37. a területrendezésért,
 
-c) a tárgyalt napirendi pont tekintetében az előterjesztő (jelentés esetén benyújtó) miniszter vagy miniszterek.
+38. a térképészetért,
 
-(3) A Gazdasági Kabinet ülésén állandó meghívottként részt vesz a miniszterelnök kabinetfőnöke.
+39. a választójogi és népszavazási szabályozásért,
 
-A Stratégiai Kabinet és a Gazdasági Kabinet működése
+40. a vízgazdálkodásért,
 
-90/F. (1) A kabinet tagja a kabinet ülésén személyesen köteles részt venni.
+41. a víziközmű-szolgáltatásért,
 
-(2) A 60. pont a) és b) alpontjában, valamint a 61. pontban foglaltak a kabinet ülése tekintetében is irányadóak, azzal, hogy a kabinet elnöke a kabinet ülésére más személyt is meghívhat.
+42. a vízügyi igazgatási szervek irányításáért,
 
-(3) Az Államreform Bizottság feladat- és hatáskörét érintő napirendi pont tárgyalása esetén a kabinet elnöke kikéri az Államreform Bizottság elnökének a véleményét.
+43. a vízvédelemért
 
-(4) A kabinet szükség szerint ülésezik. A kabinet ülését a kabinet elnöke hívja össze. Rendkívüli ülés összehívását bármely tag kezdeményezheti.
+való felelősségi körökbe tartozó előterjesztésekre és jelentésekre terjednek ki.
 
-(5) A kabinet működésének részletes szabályait a kabinet elnöke által megállapított ügyrend határozza meg.
+(2) A Stratégiai és Családügyi Kabinet elnöke a Miniszterelnökséget vezető miniszter.
 
-90/G. (1) Előterjesztés vagy jelentés a kabinet ülésének napirendjére akkor vehető fel, ha
+(3) A Stratégiai és Családügyi Kabinet tagja
 
-a) a Stratégiai Kabinet esetében a közigazgatási államtitkári értekezlet vagy a Fejlesztéspolitikai Koordinációs Bizottság,
+a) a miniszterelnök kabinetfőnöke,
 
-b) a Gazdasági Kabinet esetében a közigazgatási államtitkári értekezlet
+b) az emberi erőforrások minisztere,
 
-megtárgyalta és napirendre tűzését javasolta.
+c) az igazságügyi miniszter és
 
-(2) A kabinet ülése napirendjének javaslatát
+d) a tárgyalt napirendi pont tekintetében az előterjesztő (jelentés esetén a benyújtó) miniszter vagy miniszterek.
 
-a) a Stratégiai Kabinet esetében a közigazgatási államtitkári értekezlet és a Fejlesztéspolitikai Koordinációs Bizottság állásfoglalásainak figyelembevételével a Miniszterelnökség közigazgatási államtitkárának javaslatára a Miniszterelnökséget vezető miniszter hagyja jóvá,
+(4) A Stratégiai és Családügyi Kabinet ülésén az európai uniós források felhasználását érintő napirendi pont megtárgyalása során tagként részt vesz az innovációért és technológiáért felelős miniszter.
 
-b) a Gazdasági Kabinet esetében a közigazgatási államtitkári értekezlet állásfoglalásainak figyelembevételével a Miniszterelnökség közigazgatási államtitkárának javaslatára a nemzetgazdasági miniszter hagyja jóvá,
+(5) A Stratégiai és Családügyi Kabinet ülésén állandó meghívottként részt vesz az Emberi Erőforrások Minisztériumának család- és ifjúságügyért felelős államtitkára, valamint a Miniszterelnöki Kormányiroda közigazgatási államtitkára.
 
-amelyet a Miniszterelnökség közigazgatási államtitkára küld ki legkésőbb az ülést megelőző második munkanapon az ülés résztvevőinek. A végleges napirendről a kabinet dönt.
+A Gazdasági Kabinet feladat- és hatásköre, valamint a tagjai
 
-90/H. (1) Elektronikus úton, a 33/A. pontban foglaltak szerint, a Miniszterelnökség közigazgatási államtitkára részére kell megküldeni a minősített adatot nem tartalmazó előterjesztés vagy jelentés átdolgozott változatát, illetve írásbeli kiegészítését legkésőbb a kabinet ülésének időpontját megelőző második munkanapon.
+90/C. (1) A Gazdasági Kabinet feladatai a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
-(2) A minősített adatot tartalmazó előterjesztést vagy jelentést az (1) bekezdésben meghatározott határidőn belül, papíralapon, egy eredeti aláírt példányban és a Miniszterelnökség közigazgatási államtitkára által meghatározott számú másolati példányban kell megküldeni a Miniszterelnökség közigazgatási államtitkára részére.
+1. az adópolitikáért,
 
-(3) Az (1) bekezdésben írt határidőn túl a Miniszterelnökség közigazgatási államtitkárának engedélyével nyújthatóak be a halaszthatatlanul sürgős döntést igénylő ügyekben készült előterjesztések.
+2. az agrár-vidékfejlesztésért,
 
-90/I. A kabinet ülésén jelenlévők az előterjesztésről, illetve az egyéb döntést igénylő kérdésről tanácskozást folytatnak, melyet követően a kabinet elnöke összefoglalja a tanácskozás során elhangzottakat és kimondja a kabinet döntését.
+3. az agrárpolitikáért,
 
-90/J. A kabinet a feladatkörében javaslatot tesz kormányrendeletnek és kormányhatározatnak a 77. pontban foglaltak szerinti kiadására, valamint a Kormány nevében irányelvet vagy elvi állásfoglalást fogad el.
+4. az audiovizuális politikáért,
 
-90/K. (1) A Kabinet javasolhatja, hogy az általa megtárgyalt előterjesztésről vagy jelentésről a Kormány döntsön.
+5. az államháztartásért,
 
-(2) A kabinet az általa megtárgyalt előterjesztés további közigazgatási egyeztetését rendelheti el.
+6. az állami infrastruktúra-beruházásokért,
+
+7. az állami vagyon felügyeletéért,
+
+8. az állami vagyonnal való gazdálkodás szabályozásáért,
+
+9. a bányászati ügyekért,
+
+10. a belgazdaságért,
+
+11. a Budapest és a fővárosi agglomeráció fejlesztéseiért,
+
+12. az egészségbiztosításért,
+
+13. az egészségbiztosítási járulékfizetés szabályozásáért,
+
+14. az e-közigazgatási és informatikai fejlesztések egységesítéséért,
+
+15. az elektronikus hírközlésért,
+
+16. az energiapolitikáért,
+
+17. az élelmiszeriparért,
+
+18. az élelmiszerlánc-felügyeletért,
+
+19. az építésgazdaságért,
+
+20. az erdőgazdálkodásért,
+
+21. a fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért,
+
+22. a foglalkoztatáspolitikáért,
+
+23. a fogyasztóvédelemért,
+
+24. a földügyért,
+
+25. a gazdaságfejlesztésért,
+
+26. a gazdaságpolitikáért,
+
+27. a gazdaságpolitika makrogazdasági szabályozásáért,
+
+28. a halgazdálkodásért,
+
+29. a hulladékgazdálkodási közszolgáltatásért,
+
+30. a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért,
+
+31. az informatikáért,
+
+32. az iparügyekért,
+
+33. a kereskedelemért,
+
+34. a kormányzati tudománypolitikáért,
+
+35. a környezetvédelemért,
+
+36. a közfoglalkoztatásért,
+
+37. a közlekedésért,
+
+38. a külgazdasági ügyekért,
+
+39. a lakásgazdálkodásért és lakáspolitikáért,
+
+40. a nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért,
+
+41. a nemzeti közműszolgáltatásokért,
+
+42. a nemzeti pénzügyi szolgáltatásokért,
+
+43. a nemzetközi pénzügyi kapcsolatokért,
+
+44. a nyugdíjjárulék- és nyugdíjbiztosításijárulék-fizetés szabályozásáért,
+
+45. a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért,
+
+46. a pénz-, tőke- és biztosítási piac szabályozásáért,
+
+47. a postaügyért,
+
+48. a sportlétesítmény-fejlesztésért és gazdálkodásért,
+
+49. a szakképzésért és felnőttképzésért,
+
+50. a számviteli szabályozásért,
+
+51. a szerencsejáték-szervezés állami felügyeletéért,
+
+52. a szociál- és nyugdíjpolitikáért,
+
+53. a településfejlesztésért és településrendezésért,
+
+54. a település-üzemeltetésért, kéményseprő-ipari tevékenységért,
+
+55. a területfejlesztés stratégiai tervezéséért,
+
+56. a területfejlesztésért,
+
+57. a tudománypolitika koordinációjáért,
+
+58. a turizmusért,
+
+59. az űrkutatásért,
+
+60. a vadgazdálkodásért,
+
+61. a vendéglátásért
+
+való felelősségi körökbe tartozó előterjesztésekre és jelentésekre terjednek ki.
+
+(2) A Gazdasági Kabinet elnöke a pénzügyminiszter.
+
+(3) A Gazdasági Kabinet tagja
+
+a) a miniszterelnök kabinetfőnöke,
+
+b) a Miniszterelnökséget vezető miniszter,
+
+c) az innovációért és technológiáért felelős miniszter,
+
+d) a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter,
+
+e) a tárgyalt napirendi pont tekintetében az előterjesztő (jelentés esetén a benyújtó) miniszter vagy miniszterek.
+
+(4) A Gazdasági Kabinet ülésén állandó meghívottként részt vesz a Miniszterelnöki Kormányiroda közigazgatási államtitkára.
+
+A Nemzetbiztonsági Kabinet feladat- és hatásköre, valamint a tagjai
+
+90/D. (1) A Nemzetbiztonsági Kabinet feladatai a Kormány vagy a miniszterelnök által meghatározott, így különösen
+
+1. a bűncselekmények megelőzéséért,
+
+2. a büntetés-végrehajtásért,
+
+3. az élet- és vagyonbiztonság védelméért,
+
+4. a határrendészetért,
+
+5. a honvédelemért,
+
+6. az idegenrendészetért és menekültügyért,
+
+7. a katasztrófák elleni védekezésért,
+
+8. a kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért,
+
+9. a közbiztonságért,
+
+10. a közlekedés-rendészetért,
+
+11. a közterület-felügyelet szabályozásáért,
+
+12. a külföldiek társadalmi beilleszkedésének elősegítéséért,
+
+13. a külföldre utazás szabályozásáért,
+
+14. a minősített adatok védelmének szakmai felügyeletéért,
+
+15. a polgári nemzetbiztonsági szolgálatok irányításáért,
+
+16. a polgári hírszerzési tevékenység irányításáért,
+
+17. a rendészetért,
+
+18. a szabálysértési szabályozásért,
+
+19. a terrorizmus elleni küzdelemért
+
+való felelősségi körökbe tartozó előterjesztésekre és jelentésekre terjednek ki.
+
+(2) A Nemzetbiztonsági Kabinet elnöke a belügyminiszter.
+
+(3) A Nemzetbiztonsági Kabinet tagja
+
+a) a miniszterelnök kabinetfőnöke,
+
+b) a honvédelmi miniszter,
+
+c) a külgazdasági és külügyminiszter.
+
+(4) A Nemzetbiztonsági Kabinet ülésén állandó meghívottként részt vesz a Miniszterelnöki Kormányiroda közigazgatási államtitkára, valamint a Miniszterelnöki Kormányiroda nemzeti információs államtitkára.
+
+(5) A Nemzetbiztonsági Kabinet – a 90/F. pont figyelembevételével – akkor határozatképes, ha négy tagja közül legalább három jelen van.
+
+(6) A Kabinet szükség szerint, de általában kéthetente ülésezik, ülését a Kabinet elnöke hívja össze. Rendkívüli ülés összehívását bármely tag kezdeményezheti.
+
+(7) A Kabinet munkáját kormányhatározatban meghatározott Terrorellenes Koordinációs Bizottság segíti. A Terrorellenes Koordinációs Bizottság koordinálja a terrorizmus elleni küzdelemmel összefüggő kormányzati feladatokat.
+
+A Nemzetpolitikai Kabinet feladat- és hatásköre, valamint a tagjai
+
+90/E. (1) A Nemzetpolitikai Kabinet feladatai a Kormány vagy a miniszterelnök által meghatározott, így különösen
+
+1. az állampolgársági ügyekért,
+
+2. az egyházakkal való kapcsolattartás koordinációjáért,
+
+3. a nemzetiségpolitikáért,
+
+4. a nemzetpolitikáért
+
+való felelősségi körökbe tartozó előterjesztésekre és jelentésekre terjednek ki.
+
+(2) A Nemzetpolitikai Kabinet elnöke a miniszterelnök általános helyettese.
+
+(3) A Nemzetpolitikai Kabinet tagjai
+
+a) a miniszterelnök kabinetfőnöke,
+
+b) a Miniszterelnökséget vezető miniszter,
+
+c) az emberi erőforrások minisztere,
+
+d) a külgazdasági és külügyminiszter,
+
+e) a tárgyalt napirendi pont tekintetében az előterjesztő (jelentés esetén benyújtó) miniszter vagy miniszterek.
+
+(4) A Nemzetpolitikai Kabinet ülésén állandó meghívottként részt vesz a Miniszterelnöki Kormányiroda közigazgatási államtitkára.
+
+A kabinet működése
+
+90/F. (1) A kabinet elnöke és tagja a kabinet ülésén személyesen köteles részt venni.
+
+(2) A kabinet tagja – a Nemzetbiztonsági Kabinet kivételével – a kabinetet vezető miniszter engedélyével és a miniszterelnök egyidejű tájékoztatásával helyettesíthető.
+
+(3) A miniszterelnök kabinetfőnöke – a Nemzetbiztonsági Kabinet kivételével – a kabinet ülésén helyettesíthető. A miniszterelnök kabinetfőnökét államtitkár helyettesítheti.
+
+(4) A Nemzetbiztonsági Kabinet ülésén a külgazdasági és külügyminiszter helyettesíthető. A külgazdasági és külügyminisztert államtitkár helyettesítheti.
+
+(5) A kabinet ülésére más személyt a kabinet elnöke hívhat meg.
+
+(6) A kabinet szükség szerint ülésezik. A kabinet ülését a kabinet elnöke hívja össze. Rendkívüli ülés összehívását bármely tag kezdeményezheti.
+
+90/G. (1) Előterjesztés vagy jelentés a kabinet ülésének napirendjére akkor vehető fel, ha a Közigazgatási Államtitkári Értekezlet, illetve annak állandó vagy eseti munkabizottsága megtárgyalta és napirendre tűzését javasolta. E szabály alkalmazása alól a Miniszterelnöki Kormányiroda közigazgatási államtitkára javaslatára a kabinet vezetője kivételt tehet.
+
+(2) A kabinet ülésének napirendi javaslatát
+
+a) a Stratégiai és Családügyi Kabinet esetében a Közigazgatási Államtitkári Értekezlet, valamint annak állandó vagy eseti munkabizottsága állásfoglalásainak figyelembevételével a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára a Miniszterelnökséget vezető miniszter hagyja jóvá,
+
+b) a Gazdasági Kabinet esetében a Közigazgatási Államtitkári Értekezlet, valamint annak állandó vagy eseti munkabizottsága állásfoglalásainak figyelembevételével a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára a pénzügyminiszter hagyja jóvá,
+
+c) a Nemzetbiztonsági Kabinet esetében a Közigazgatási Államtitkári Értekezlet, valamint annak állandó vagy eseti munkabizottsága állásfoglalásainak figyelembevételével a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára a belügyminiszter hagyja jóvá,
+
+d) a Nemzetpolitikai Kabinet esetében a Közigazgatási Államtitkári Értekezlet, valamint annak állandó vagy eseti munkabizottsága állásfoglalásainak figyelembevételével a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára a miniszterelnök általános helyettese hagyja jóvá,
+
+amelyet a Miniszterelnöki Kormányiroda közigazgatási államtitkára küld ki legkésőbb az ülést megelőző második munkanapon az ülés résztvevőinek. A végleges napirendről a kabinet dönt.
+
+(3) A kabinet napirendjén szereplő előterjesztést és jelentést – a Nemzetbiztonsági Kabinet által tárgyalt előterjesztések és jelentések kivételével – valamennyi miniszter részére szükséges eljuttatni.
+
+90/H. (1) Elektronikus úton a 28. pontban foglaltak szerint a Miniszterelnöki Kormányiroda közigazgatási államtitkára részére kell megküldeni a minősített adatot nem tartalmazó előterjesztés vagy jelentés átdolgozott változatát, illetve írásbeli kiegészítését legkésőbb a kabinet ülésének időpontját megelőző második munkanapon.
+
+(2) A minősített adatot tartalmazó előterjesztést vagy jelentést az (1) bekezdésben meghatározott határidőn belül, papír alapon, egy eredeti aláírt példányban és a Miniszterelnöki Kormányiroda közigazgatási államtitkára által meghatározott számú másolati példányban kell megküldeni a Miniszterelnöki Kormányiroda közigazgatási államtitkára részére.
+
+(3) Az (1) bekezdésben írt határidőn túl a Miniszterelnöki Kormányiroda közigazgatási államtitkárának engedélyével nyújthatóak be a halaszthatatlanul sürgős döntést igénylő ügyekben készült előterjesztések.
+
+90/I. A kabinet ülésén jelen lévők az előterjesztésről, illetve az egyéb döntést igénylő kérdésről tanácskozást folytatnak, amelyet követően a kabinet elnöke összefoglalja a tanácskozás során elhangzottakat, és kimondja a kabinet döntését. Ha a kabinet valamely tagja a kabinet elnöke által az előbbiek szerint kimondott döntéssel nem ért egyet, arról szavazás megtartását kezdeményezheti. A szavazás megtartása ebben az esetben kötelező. A döntés meghozatalára szavazattöbbséggel kerül sor, szavazategyenlőség esetén a kabinet elnökének szavazata dönt.
+
+90/J. (1) A kabinet a feladatkörében javaslatot tesz kormányrendeletnek és kormányhatározatnak a 77. pontban foglaltak szerinti kiadására, valamint a Kormány nevében irányelvet vagy elvi állásfoglalást fogad el.
+
+(2) A kabinet a következő döntéseket hozhatja:
+
+a) elfogadja az előterjesztést, amely a 77. pont szerint miniszterelnöki aláírásra történő felterjesztésre vagy az Országgyűlés számára benyújtásra kerül, illetve tudomásul veszi a jelentést,
+
+b) a kabinet javasolhatja, hogy az általa megtárgyalt előterjesztésről vagy jelentésről a Kormány döntsön, ha az ügy politikai jelentősége indokolja,
+
+c) nem fogadja el az előterjesztést, nem veszi tudomásul a jelentést.
+
+90/K. A kabinet az általa megtárgyalt előterjesztés további közigazgatási egyeztetését rendelheti el.
 
 90/L. (1) Ha a kabinet az előterjesztett javaslatot érdemben megváltoztatta, a szükséges utóegyeztetéseket
 
-a) a Stratégiai Kabinet esetében a Miniszterelnökséget vezető miniszter által kijelölt állami vezető,
+a) a Stratégiai és Családügyi Kabinet esetében a Miniszterelnökséget vezető miniszter által kijelölt állami vezető,
 
-b) a Gazdasági Kabinet esetében a nemzetgazdasági miniszter
+b) a Gazdasági Kabinet esetében a pénzügyminiszter,
+
+c) a Nemzetbiztonsági Kabinet esetében a belügyminiszter,
+
+d) a Nemzetpolitikai Kabinet esetében a miniszterelnök általános helyettese
 
 koordinálja.
 
-(2) A kabinet döntései szövegének véglegesítéséről az ülés összefoglalója alapján a Miniszterelnökség közigazgatási államtitkára gondoskodik és azt
+(2) A kabinet döntéseit, annak véglegesítése előtt a kabinet vezetője a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – tájékoztatás céljából – minden kormánytag részére megküldi.
 
-a) a Stratégiai Kabinet esetében a Miniszterelnökséget vezető miniszter felterjesztésében,
+(3) A kabinet döntései szövegének véglegesítéséről az ülés összefoglalója alapján a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik, és azt
 
-b) a Gazdasági Kabinet esetében a nemzetgazdasági miniszter és a Miniszterelnökséget vezető miniszter együttes felterjesztésében
+a) a Stratégiai és Családügyi Kabinet esetében a Miniszterelnökséget vezető miniszter,
 
-a miniszterelnök írja alá.
+b) a Gazdasági Kabinet esetében a pénzügyminiszter,
 
-(3) Ha a miniszterelnök a kabinet aláírásra felterjesztett döntésével nem ért egyet, az előterjesztésnek a Stratégiai Kabinet általi (vagy a Stratégiai Kabinet általi ismételt), a Gazdasági Kabinet általi (vagy a Gazdasági Kabinet általi ismételt), illetve a Kormány általi megtárgyalását rendelheti el.
+c) a Nemzetbiztonsági Kabinet esetében a belügyminiszter,
 
-(4) A 75. pontban foglaltakat a kabinet döntése alapján az Országgyűlés elé terjesztendő önálló indítványok tekintetében is alkalmazni kell.
+d) a Nemzetpolitikai Kabinet esetében a miniszterelnök általános helyettese
 
-90/M. (1) A kabinet dokumentumainak kezeléséről és őrzéséről, valamint a kabinet döntéseinek nyilvántartásáról a Miniszterelnökség közigazgatási államtitkára gondoskodik.
+felterjesztésében a miniszterelnök írja alá.
 
-(2) A kabinet üléséről összefoglaló készül. Az összefoglaló elkészítéséről – az ülést követő három munkanapon belül – a Miniszterelnökség közigazgatási államtitkára gondoskodik.
+(4) A (3) bekezdés szerinti felterjesztés a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján kerül a miniszterelnök részére megküldésre.
+
+(5) Ha a miniszterelnök a kabinet aláírásra felterjesztett döntésével nem ért egyet, az előterjesztésnek a kabinet általi (vagy ismételt), illetve a Kormány általi megtárgyalását rendelheti el.
+
+(6) A 73–75. pontban foglaltakat a kabinet döntése alapján az Országgyűlés elé terjesztendő önálló indítványok tekintetében is alkalmazni kell.
+
+90/M. (1) A kabinet dokumentumainak kezeléséről és őrzéséről, valamint a kabinet döntéseinek nyilvántartásáról a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik.
+
+(2) A kabinet üléséről összefoglaló készül. Az összefoglaló elkészítéséről – az ülést követő három munkanapon belül – a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik.
 
 (3) Az összefoglalót a kabinet elnöke írja alá.
 
 (4) Az összefoglaló mellékleteként meg kell őrizni a kabinet ülésére megtárgyalás céljából megküldött előterjesztés, jelentés, valamint a kabinet döntése alapján kiadott kormányrendelet, kormányhatározat egy-egy példányát.
 
-(5) Az összefoglaló egy-egy példányát a közigazgatási államtitkárok kapják meg. A Miniszterelnökség közigazgatási államtitkára az összefoglaló megküldését másnak is engedélyezheti.
+(5) Az összefoglaló egy-egy példányát a közigazgatási államtitkárok kapják meg. A Miniszterelnöki Kormányiroda közigazgatási államtitkára az összefoglaló megküldését másnak is engedélyezheti.
 
 VIII.
 
 ZÁRÓ RENDELKEZÉSEK
 
-91.[^104] Ez a határozat a közzétételét követő napon lép hatályba.
+91.[^13] Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: Az 1/A. pontot az 1399/2016. (VII. 21) Korm. határozat 1. pontja iktatta be.
-[^2]: A 2. pont az 1399/2016. (VII. 21.) Korm. határozat 29. pont 1. alpontja szerint módosított szöveg.
-[^3]: A 3. pont az 1399/2016. (VII. 21) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: A 4. pont az 1399/2016. (VII. 21) Korm. határozat 2. pontjával megállapított szöveg.
-[^5]: Az 5. pontot az 1399/2016. (VII. 21.) Korm. határozat 28. pontja hatályon kívül helyezte.
-[^6]: A 6. pontot az 1399/2016. (VII. 21.) Korm. határozat 28. pontja hatályon kívül helyezte.
-[^7]: A 9. pont az 1399/2016. (VII. 21) Korm. határozat 3. pontjával megállapított szöveg.
-[^8]: A 10. pont a) alpontja az 1399/2016. (VII. 21) Korm. határozat 4. pontjával megállapított szöveg.
-[^9]: A 10. pont b) alpontja az 1399/2016. (VII. 21) Korm. határozat 4. pontjával megállapított szöveg.
-[^10]: A 12. pontot az 1399/2016. (VII. 21.) Korm. határozat 28. pontja hatályon kívül helyezte.
-[^11]: A 13. pontot az 1399/2016. (VII. 21.) Korm. határozat 28. pontja hatályon kívül helyezte.
-[^12]: A 14. pont az 1399/2016. (VII. 21.) Korm. határozat 29. pont 2. alpontja szerint módosított szöveg.
-[^13]: A 16. pont az 1399/2016. (VII. 21.) Korm. határozat 29. pont 3. alpontja szerint módosított szöveg.
-[^14]: A 17. pont az 1399/2016. (VII. 21.) Korm. határozat 29. pont 4. alpontja szerint módosított szöveg.
-[^15]: A 18. pont az 1399/2016. (VII. 21) Korm. határozat 5. pontjával megállapított szöveg.
-[^16]: A 19. pont az 1399/2016. (VII. 21) Korm. határozat 5. pontjával megállapított szöveg.
-[^17]: A 20. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 1. alpontja szerint módosított szöveg.
-[^18]: A 21. pont az 1399/2016. (VII. 21) Korm. határozat 6. pontjával megállapított szöveg.
-[^19]: A 22. pont az 1399/2016. (VII. 21) Korm. határozat 6. pontjával megállapított szöveg.
-[^20]: A 23. pontot az 1654/2015. (IX. 14.) Korm. határozat 2. pontja hatályon kívül helyezte.
-[^21]: A 24. pont az 1399/2016. (VII. 21) Korm. határozat 7. pontjával megállapított szöveg.
-[^22]: A 24/A. pontot az 1399/2016. (VII. 21) Korm. határozat 7. pontja iktatta be.
-[^23]: A 24/B. pontot az 1399/2016. (VII. 21) Korm. határozat 7. pontja iktatta be.
-[^24]: A 24/C. pontot az 1399/2016. (VII. 21) Korm. határozat 7. pontja iktatta be.
-[^25]: A 25. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 2. alpontja szerint módosított szöveg.
-[^26]: A 26. pont c) alpontja az 1399/2016. (VII. 21.) Korm. határozat 27. pont 3. alpontja szerint módosított szöveg.
-[^27]: A 28. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 4. alpontja szerint módosított szöveg.
-[^28]: A 30. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 5. és 6. alpontja szerint módosított szöveg.
-[^29]: A 32. pont az 1399/2016. (VII. 21) Korm. határozat 8. pontjával megállapított szöveg.
-[^30]: A 33. pont az 1399/2016. (VII. 21) Korm. határozat 8. pontjával megállapított szöveg.
-[^31]: A 33/A. pontot az 1399/2016. (VII. 21) Korm. határozat 8. pontja iktatta be.
-[^32]: A 33/B. pontot az 1399/2016. (VII. 21) Korm. határozat 8. pontja iktatta be.
-[^33]: A 34. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 7. alpontja szerint módosított szöveg.
-[^34]: A 35. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 8. alpontja szerint módosított szöveg.
-[^35]: A 36. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 9. alpontja szerint módosított szöveg.
-[^36]: A 37. pontot és a megelőző alcímet az 1399/2016. (VII. 21.) Korm. határozat 28. pontja hatályon kívül helyezte.
-[^37]: A 38. pontot megelőző cím az 1399/2016. (VII. 21) Korm. határozat 9. pontjával megállapított szöveg.
-[^38]: A 38. pont az 1399/2016. (VII. 21) Korm. határozat 9. pontjával megállapított szöveg.
-[^39]: A 40. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 10. alpontja szerint módosított szöveg.
-[^40]: A 41. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 11. alpontja és 29. pont 5. alpontja szerint módosított szöveg.
-[^41]: A 42. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 12. alpontja szerint módosított szöveg.
-[^42]: A 43. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 6. alpontja szerint módosított szöveg.
-[^43]: A 44. pont az 1399/2016. (VII. 21) Korm. határozat 10. pontjával megállapított szöveg.
-[^44]: A 45. pont az 1399/2016. (VII. 21) Korm. határozat 10. pontjával megállapított szöveg.
-[^45]: A 46. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 6. alpontja szerint módosított szöveg.
-[^46]: A 47. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 6. alpontja és 29. pont 6. alpontja szerint módosított szöveg.
-[^47]: A 48. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 6. és 13. alpontja szerint módosított szöveg.
-[^48]: A 49. pont az 1399/2016. (VII. 21) Korm. határozat 11. pontjával megállapított szöveg.
-[^49]: A 49/A. pontot az 1399/2016. (VII. 21) Korm. határozat 11. pontja iktatta be.
-[^50]: Az 51. pont az 1399/2016. (VII. 21) Korm. határozat 12. pontjával megállapított szöveg.
-[^51]: Az 51/A. pontot az 1399/2016. (VII. 21) Korm. határozat 12. pontja iktatta be.
-[^52]: Az 52. pont az 1399/2016. (VII. 21) Korm. határozat 13. pontjával megállapított szöveg.
-[^53]: Az 53. pont az 1399/2016. (VII. 21) Korm. határozat 13. pontjával megállapított szöveg.
-[^54]: Az 55. pont az 1399/2016. (VII. 21) Korm. határozat 14. pontjával megállapított szöveg.
-[^55]: Az 56. pont az 1399/2016. (VII. 21) Korm. határozat 14. pontjával megállapított szöveg.
-[^56]: Az 56/A. pontot a 2037/2013. (XII. 30.) Korm. határozat 3. pontja iktatta be.
-[^57]: Az 56/B. pontot az 1399/2016. (VII. 21) Korm. határozat 15. pontja iktatta be.
-[^58]: Az 56/C. pontot megelőző címet az 1399/2016. (VII. 21) Korm. határozat 16. pontja iktatta be.
-[^59]: Az 56/C. pontot az 1399/2016. (VII. 21) Korm. határozat 16. pontja iktatta be.
-[^60]: Az 56/D. pontot az 1399/2016. (VII. 21) Korm. határozat 16. pontja iktatta be.
-[^61]: Az 56/D. pont g) alpontja az 1606/2017. (IX. 5.) Korm. határozat 1. pontja szerint módosított szöveg.
-[^62]: Az 56/E. pontot az 1399/2016. (VII. 21) Korm. határozat 16. pontja iktatta be.
-[^63]: Az 56/F. pontot az 1399/2016. (VII. 21) Korm. határozat 16. pontja iktatta be.
-[^64]: Az 56/G. pontot az 1399/2016. (VII. 21) Korm. határozat 16. pontja iktatta be.
-[^65]: Az 56/G. pont (3) bekezdés e) pontját az 1076/2017. (II. 13.) Korm. határozat 3. pont a) alpontja hatályon kívül helyezte.
-[^66]: Az 56/H. pontot az 1399/2016. (VII. 21) Korm. határozat 16. pontja iktatta be.
-[^67]: Az 56/I. pontot az 1399/2016. (VII. 21) Korm. határozat 16. pontja iktatta be.
-[^68]: Az 57. pont az 1399/2016. (VII. 21) Korm. határozat 17. pontjával megállapított szöveg.
-[^69]: Az 57/A. §-t az 1054/2011. (III. 22.) Korm. határozat 6. pontja iktatta be, hatályon kívül helyezte az 1399/2016. (VII. 21.) Korm. határozat 28. pontja.
-[^70]: Az 57/B. pontot az 1308/2011. (IX. 6.) Korm. határozat 17. pontja iktatta be.
-[^71]: Az 57/C. pontot az 1669/2013. (IX. 25.) Korm. határozat 11. pontja iktatta be, hatályon kívül helyezte az 1399/2016. (VII. 21.) Korm. határozat 28. pontja.
-[^72]: Az 58. pont az 1399/2016. (VII. 21) Korm. határozat 18. pontjával megállapított szöveg.
-[^73]: Az 59. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 13. alpontja szerint módosított szöveg.
-[^74]: A 60. pont az 1399/2016. (VII. 21) Korm. határozat 19. pontjával megállapított szöveg.
-[^75]: A 61. pont az 1399/2016. (VII. 21) Korm. határozat 19. pontjával megállapított szöveg.
-[^76]: A 62. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 11. alpontja szerint módosított szöveg.
-[^77]: A 64. pont az 1399/2016. (VII. 21) Korm. határozat 20. pontjával megállapított szöveg.
-[^78]: A 65. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 14. alpontja szerint módosított szöveg.
-[^79]: A 66. pont az 1399/2016. (VII. 21) Korm. határozat 21. pontjával megállapított szöveg.
-[^80]: A 67. pontot az 1399/2016. (VII. 21.) Korm. határozat 28. pontja hatályon kívül helyezte.
-[^81]: A 68. pontot az 1399/2016. (VII. 21.) Korm. határozat 28. pontja hatályon kívül helyezte.
-[^82]: A 69. pont az 1399/2016. (VII. 21) Korm. határozat 22. pontjával megállapított szöveg.
-[^83]: A 70. pontot az 1399/2016. (VII. 21.) Korm. határozat 28. pontja hatályon kívül helyezte.
-[^84]: A 71. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 6. alpontja szerint módosított szöveg.
-[^85]: A 73. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 6., 11. és 15. alpontja szerint módosított szöveg.
-[^86]: A 74. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 11. alpontja szerint módosított szöveg.
-[^87]: A 75. pont az 1399/2016. (VII. 21) Korm. határozat 23. pontjával megállapított szöveg.
-[^88]: A 76. pont az 1399/2016. (VII. 21) Korm. határozat 23. pontjával megállapított szöveg.
-[^89]: A 77. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 11. alpontja szerint módosított szöveg.
-[^90]: A 77/A. pontot az 1251/2012. (VII. 19.) Korm. határozat 1. pontja iktatta be, hatályon kívül helyezte az 1399/2016. (VII. 21.) Korm. határozat 28. pontja.
-[^91]: A 78. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 16. alpontja szerint módosított szöveg.
-[^92]: A 79. pont b) alpontja az 1399/2016. (VII. 21.) Korm. határozat 27. pont 6. alpontja szerint módosított szöveg.
-[^93]: A 80. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 6. alpontja szerint módosított szöveg.
-[^94]: A 81. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 17. alpontja szerint módosított szöveg.
-[^95]: A 82. pontot az 1399/2016. (VII. 21.) Korm. határozat 28. pontja hatályon kívül helyezte.
-[^96]: A 83. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 6. alpontja szerint módosított szöveg.
-[^97]: A 84. pont az 1399/2016. (VII. 21) Korm. határozat 24. pontjával megállapított szöveg.
-[^98]: A 85. pont az 1399/2016. (VII. 21) Korm. határozat 24. pontjával megállapított szöveg.
-[^99]: A 86. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 6. és 18. alpontja szerint módosított szöveg.
-[^100]: A 87. pont az 1399/2016. (VII. 21) Korm. határozat 25. pontjával megállapított szöveg.
-[^101]: A 88. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 19. alpontja szerint módosított szöveg.
-[^102]: A 89. pont az 1399/2016. (VII. 21.) Korm. határozat 27. pont 11. alpontja szerint módosított szöveg.
-[^103]: A VII/A. címet (90/A–90/M. pont) az 1399/2016. (VII. 21) Korm. határozat 26. pontja iktatta be.
-[^104]: A 91. pont az 1399/2016. (VII. 21.) Korm. határozat 29. pont 7. alpontja szerint módosított szöveg.
+[^1]: Az I. fejezet (1–5. pont) az 1243/2018. (V. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A II. fejezet (6–58. pont) az 1243/2018. (V. 22.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A III. fejezet (59–69. pont) az 1243/2018. (V. 22.) Korm. határozat 3. pontjával megállapított szöveg.
+[^4]: A IV. fejezet (70–82. pont) az 1243/2018. (V. 22.) Korm. határozat 4. pontjával megállapított szöveg.
+[^5]: A 83. pont az 1243/2018. (V. 22.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
+[^6]: A 84. pont az 1399/2016. (VII. 21) Korm. határozat 24. pontjával megállapított, az 1243/2018. (V. 22.) Korm. határozat 6. pont a) és b) alpontja szerint módosított szöveg.
+[^7]: A 85. pont az 1399/2016. (VII. 21) Korm. határozat 24. pontjával megállapított szöveg.
+[^8]: A 86. pont az 1243/2018. (V. 22.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
+[^9]: A 87. pont az 1399/2016. (VII. 21) Korm. határozat 25. pontjával megállapított, az 1243/2018. (V. 22.) Korm. határozat 6. pont a) és c) alpontja szerint módosított szöveg.
+[^10]: A 88. pont az 1243/2018. (V. 22.) Korm. határozat 6. pont d) és e) alpontja szerint módosított szöveg.
+[^11]: A 89. pont az 1243/2018. (V. 22.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^12]: A VII/A. fejezetet az 1399/2016. (VII. 21) Korm. határozat 26. pontja iktatta be, szövege az 1243/2018. (V. 22.) Korm. határozat 5. pontjával megállapított szöveg.
+[^13]: A 91. pont az 1399/2016. (VII. 21.) Korm. határozat 29. pont 7. alpontja szerint módosított szöveg.
