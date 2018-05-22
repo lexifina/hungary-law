@@ -1,13 +1,13 @@
-## [Az Áht. 33. §-ához][^141]
+## [Az Áht. 33. §-ához][^142]
 
-38. §[^142] A fejezetet irányító szerv új fejezeti kezelésű előirányzatot vagy elkülönített állami pénzalap előirányzataként új előirányzatot hozhat létre, ha
+38. §[^143] A fejezetet irányító szerv új fejezeti kezelésű előirányzatot vagy elkülönített állami pénzalap előirányzataként új előirányzatot hozhat létre, ha
 
 a) év közben előre nem tervezett, az egységes rovatrend B1. Működési célú támogatások államháztartáson belülről, B2. Felhalmozási célú támogatások államháztartáson belülről, B6. Működési célú átvett pénzeszközök és B7. Felhalmozási célú átvett pénzeszközök rovatain elszámolandó bevételhez jut, vagy
 
-b)[^143] az általa irányított fejezetbe sorolt központi költségvetési szerv előirányzatán, fejezeti kezelésű előirányzaton vagy elkülönített állami pénzalap kiadási előirányzatán megtakarítás keletkezik,
+b)[^144] az általa irányított fejezetbe sorolt központi költségvetési szerv előirányzatán, fejezeti kezelésű előirányzaton vagy elkülönített állami pénzalap kiadási előirányzatán megtakarítás keletkezik,
 
 és a fejezeti kezelésű előirányzatok, elkülönített állami pénzalap előirányzatai között a tervezett új fejezeti kezelésű előirányzattal, elkülönített állami pénzalap előirányzatával azonos kiadási cél nem került jóváhagyásra.
 
-[^141]: Az Ávr. 38. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 19. §- ával megállapított szöveg.
-[^142]: Az Ávr. 38. §-a a 397/2014. (XII. 31.) Korm. rendelet 19. §- ával megállapított szöveg.
-[^143]: Az Ávr. 38. § b) pontja a 46/2017. (III. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^142]: Az Ávr. 38. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 19. §- ával megállapított szöveg.
+[^143]: Az Ávr. 38. §-a a 397/2014. (XII. 31.) Korm. rendelet 19. §- ával megállapított szöveg.
+[^144]: Az Ávr. 38. § b) pontja a 46/2017. (III. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.

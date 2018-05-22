@@ -22,11 +22,11 @@ kell alkalmazni, kivéve ha az önkormányzati hivatal, illetve a társulási ta
 
 (5)[^45] E rendelet gazdasági vezetőre vonatkozó rendelkezéseit a 9. § (6) és (7) bekezdése esetén a kezelő szervnél a kezelt központi kezelésű előirányzatokkal, fejezeti kezelésű előirányzatokkal, elkülönített állami pénzalapokkal vagy társadalombiztosítás pénzügyi alapjaival kapcsolatban a tervezési, gazdálkodási, finanszírozási, adatszolgáltatási és beszámolási feladatok ellátásáért felelős szervezeti egységek vezetőire nézve is alkalmazni kell.
 
-(6)[^46] A gazdasági vezető a feladatait a költségvetési szerv vezetőjének közvetlen vezetése és ellenőrzése mellett látja el. A gazdasági vezető az általa ellátott feladatok tekintetében a költségvetési szerv vezetőjének helyettese abban az esetben is, ha munkaköri elnevezése, beosztása ezt nem jelöli. Ezek a rendelkezések nem vonatkoznak a Legfőbb Ügyészség, az önkormányzati hivatal, a kormányhivatal, az autonóm államigazgatási szerv, valamint – a (7) bekezdésben foglaltak kivételével – a minisztérium gazdasági vezetőjére, akik a szervezeti és működési szabályzatban megjelölt személy vezetése és ellenőrzése alatt látják el feladataikat.
+(6)[^46] A gazdasági vezető a feladatait a költségvetési szerv vezetőjének közvetlen vezetése és ellenőrzése mellett látja el. A gazdasági vezető az általa ellátott feladatok tekintetében a költségvetési szerv vezetőjének helyettese abban az esetben is, ha munkaköri elnevezése, beosztása ezt nem jelöli. Ezek a rendelkezések nem vonatkoznak a Legfőbb Ügyészség, az önkormányzati hivatal, a kormányhivatal, az autonóm államigazgatási szerv, valamint – a (7) bekezdésben foglaltak kivételével – a minisztérium és a Miniszterelnöki Kormányiroda gazdasági vezetőjére, akik a szervezeti és működési szabályzatban megjelölt személy vezetése és ellenőrzése alatt látják el feladataikat.
 
-(7) A minisztérium gazdasági ügyekkel megbízott állami vezetője e rendelet alkalmazásában abban az esetben minősül gazdasági vezetőnek, ha az (1) bekezdés szerinti feladatokat kivétel nélkül ellátja.
+(7)[^47] A minisztérium és a Miniszterelnöki Kormányiroda gazdasági ügyekkel megbízott állami vezetője e rendelet alkalmazásában abban az esetben minősül gazdasági vezetőnek, ha az (1) bekezdés szerinti feladatokat kivétel nélkül ellátja.
 
-(8)[^47] A gazdasági vezető átmeneti vagy tartós akadályoztatása esetén a költségvetési szerv vezetője haladéktalanul köteles gondoskodni helyettesítéséről, a gazdasági vezetői álláshely megüresedése esetén annak betöltéséről. Az álláshely betöltéséig tartó átmeneti időszakra a költségvetési szerv vezetője írásban az 55. § (3) bekezdése szerinti végzettségű alkalmazottat jelöl ki a gazdasági vezetői feladatok ellátására a gazdasági vezető kinevezésére jogosult személy egyetértésével.
+(8)[^48] A gazdasági vezető átmeneti vagy tartós akadályoztatása esetén a költségvetési szerv vezetője haladéktalanul köteles gondoskodni helyettesítéséről, a gazdasági vezetői álláshely megüresedése esetén annak betöltéséről. Az álláshely betöltéséig tartó átmeneti időszakra a költségvetési szerv vezetője írásban az 55. § (3) bekezdése szerinti végzettségű alkalmazottat jelöl ki a gazdasági vezetői feladatok ellátására a gazdasági vezető kinevezésére jogosult személy egyetértésével.
 
 [^38]: Az Ávr. 11. § (1) bekezdés a) pontja a 465/2015. (XII. 29.) Korm. rendelet 24. § 1. pontja szerint módosított szöveg.
 [^39]: Az Ávr. 11. § (1) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 7. pontja szerint módosított szöveg.
@@ -36,5 +36,6 @@ kell alkalmazni, kivéve ha az önkormányzati hivatal, illetve a társulási ta
 [^43]: Az Ávr. 11. § (4) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 40. § (1) bekezdés 5. pontja hatályon kívül helyezte.
 [^44]: Az Ávr. 11. § (4a) bekezdését az 56/2012. (III. 30.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 5. pontja.
 [^45]: Az Ávr. 11. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (2) bekezdésével megállapított szöveg.
-[^46]: Az Ávr. 11. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (2) bekezdésével megállapított szöveg.
-[^47]: Az Ávr. 11. § (8) bekezdése a 20/2015. (II. 17.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^46]: Az Ávr. 11. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (2) bekezdésével megállapított, a 95/2018. (V. 22.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^47]: Az Ávr. 11. § (7) bekezdése a 95/2018. (V. 22.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^48]: Az Ávr. 11. § (8) bekezdése a 20/2015. (II. 17.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.

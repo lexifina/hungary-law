@@ -1,4 +1,4 @@
-1. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^705]
+1. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^706]
 
 Az irányító szerv, a fejezetet irányító szerv, valamint annak vezetője
 
@@ -6,7 +6,7 @@ I. Az államháztartás központi alrendszerében
 
 1. a központi költségvetés I. fejezeténél – az a)–g) alpontban meghatározott kivétellel – az Országgyűlés Hivatala és annak főigazgatója,
 
-a)[^706] a 8–11. cím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet (a továbbiakban: Ktfr.) 90. §-a szerinti tagja,
+a)[^707] a 8–11. cím tekintetében a Nemzetgazdasági Minisztérium és a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet (a továbbiakban: Ktfr.) 90. §-a szerinti tagja,
 
 b) a Közbeszerzési Hatóság tekintetében a Közbeszerzési Hatóság és annak elnöke,
 
@@ -28,5 +28,5 @@ g) a Nemzeti Emlékezet Bizottságának Hivatala tekintetében a Nemzeti Emléke
 
 5. a központi költségvetés V. fejezeténél az Állami Számvevőszék és annak elnöke,
 
-[^705]: Az Ávr. 1. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 1. pontjával megállapított szöveg.
-[^706]: Az Ávr. 1. melléklet I. pont 1. alpont a) pontja a 475/2017. (XII. 28.) Korm. rendelet 47. § 8. pontja szerint módosított szöveg.
+[^706]: Az Ávr. 1. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 1. pontjával megállapított szöveg.
+[^707]: Az Ávr. 1. melléklet I. pont 1. alpont a) pontja a 475/2017. (XII. 28.) Korm. rendelet 47. § 8. pontja szerint módosított szöveg.

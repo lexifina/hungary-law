@@ -1,4 +1,4 @@
-115/F. §[^422] (1) A Kincstár a kincstári ellenőrzésről jelentést (a továbbiakban: ellenőrzési jelentés) készít.
+115/F. §[^423] (1) A Kincstár a kincstári ellenőrzésről jelentést (a továbbiakban: ellenőrzési jelentés) készít.
 
 (2) Az ellenőrzési jelentés tartalmazza
 
@@ -10,7 +10,7 @@ c) a kincstári ellenőrzésre vonatkozó jogszabályi felhatalmazás megjelöl�
 
 d) a kincstári ellenőrzés során alkalmazott ellenőrzési módszereket és eljárásokat,
 
-e)[^423] az ellenőrzési megállapításokat és javaslatokat,
+e)[^424] az ellenőrzési megállapításokat és javaslatokat,
 
 f) az ellenőrzési jelentés elkészítésének dátumát és a Kincstár elnökének aláírását.
 
@@ -20,22 +20,22 @@ f) az ellenőrzési jelentés elkészítésének dátumát és a Kincstár elnö
 
 (5) Ha az egyeztetéssel érintett ellenőrzött szerv vagy az, akire az ellenőrzési jelentés vagy annak kivonatának tervezete megállapításokat vagy javaslatokat tartalmaz, az ellenőrzési jelentés vagy annak kivonatának tervezetében szereplő megállapításokat vagy javaslatokat vitatja, az azokkal kapcsolatos észrevételeit az ellenőrzési jelentés vagy annak kivonata tervezetének kézhezvételétől számított 8 napon belül a Kincstárnak írásban nyújthatja be. Az észrevételben meg kell jelölni azokat a jogszabályhelyeket vagy mellékelni kell azokat a dokumentumokat, amelyek az észrevételben foglaltakat alátámasztják. Ha az e bekezdésben meghatározott határidőben az ellenőrzött szerv részéről nem érkezik az ellenőrzési jelentésre észrevétel, azt akként kell tekintetni, hogy az ellenőrzött szerv az ellenőrzési jelentés vagy annak kivonatának tervezetében szereplő megállapításokkal és javaslatokkal egyetért.
 
-(6)[^424] Az észrevétel elfogadása esetén a Kincstár az ellenőrzési jelentés vagy annak kivonatának tervezetét az elfogadott észrevételnek megfelelően, az észrevétel benyújtásától számított 8 napon belül módosítja, és erről vagy az észrevétel elutasításáról az ellenőrzött szervet haladéktalanul tájékoztatja.
+(6)[^425] Az észrevétel elfogadása esetén a Kincstár az ellenőrzési jelentés vagy annak kivonatának tervezetét az elfogadott észrevételnek megfelelően, az észrevétel benyújtásától számított 8 napon belül módosítja, és erről vagy az észrevétel elutasításáról az ellenőrzött szervet haladéktalanul tájékoztatja.
 
 (7) A Kincstár a lezárt ellenőrzési jelentést a kincstári ellenőrzés befejezésétől számított három munkanapon belül megküldi az ellenőrzött szerv vezetőjének, az államháztartásért felelős miniszternek és az Állami Számvevőszéknek.
 
-(8)[^425] Az ellenőrzési jelentés alapján az ellenőrzött szerv vezetője a végrehajtásért felelős személyeket kijelölő és a végrehajtás határidejét feltüntető intézkedési tervet készít, és azt az ellenőrzési jelentés kézhezvételétől számított harminc napon belül megküldi a Kincstár részére.
+(8)[^426] Az ellenőrzési jelentés alapján az ellenőrzött szerv vezetője a végrehajtásért felelős személyeket kijelölő és a végrehajtás határidejét feltüntető intézkedési tervet készít, és azt az ellenőrzési jelentés kézhezvételétől számított harminc napon belül megküldi a Kincstár részére.
 
-(9)[^426] Ha az intézkedési tervben foglalt intézkedések hiányosak vagy más okból nem elfogadhatóak, a Kincstár az intézkedési tervet indokolással és tizenöt munkanap póthatáridő tűzésével visszaküldi kijavításra, kiegészítésre az ellenőrzött szerv vezetőjének.
+(9)[^427] Ha az intézkedési tervben foglalt intézkedések hiányosak vagy más okból nem elfogadhatóak, a Kincstár az intézkedési tervet indokolással és tizenöt munkanap póthatáridő tűzésével visszaküldi kijavításra, kiegészítésre az ellenőrzött szerv vezetőjének.
 
-(10)[^427] Az ellenőrzött szerv vezetője az intézkedési terv szerinti intézkedéseket köteles az abban meghatározott határidőre végrehajtani és arról a Kincstárt írásban tájékoztatni.
+(10)[^428] Az ellenőrzött szerv vezetője az intézkedési terv szerinti intézkedéseket köteles az abban meghatározott határidőre végrehajtani és arról a Kincstárt írásban tájékoztatni.
 
-(11)[^428] Az intézkedési tervben foglaltak megvalósítását a Kincstár utóellenőrzés keretében ellenőrizheti.
+(11)[^429] Az intézkedési tervben foglaltak megvalósítását a Kincstár utóellenőrzés keretében ellenőrizheti.
 
-[^422]: Az Ávr. 115/F. §-át a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be.
-[^423]: Az Ávr. 115/F. § (2) bekezdés e) pontja a 243/2015. (IX. 8.) Korm. rendelet 12. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^424]: Az Ávr. 115/F. § (6) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 21. pontja szerint módosított szöveg.
-[^425]: Az Ávr. 115/F. § (8) bekezdését a 243/2015. (IX. 8.) Korm. rendelet 8. §-a iktatta be, szövege a 264/2016. (VIII. 31.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^426]: Az Ávr. 115/F. § (9) bekezdését a 264/2016. (VIII. 31.) Korm. rendelet 18. § (2) bekezdése iktatta be.
-[^427]: Az Ávr. 115/F. § (10) bekezdését a 264/2016. (VIII. 31.) Korm. rendelet 18. § (2) bekezdése iktatta be.
-[^428]: Az Ávr. 115/F. § (11) bekezdését a 264/2016. (VIII. 31.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^423]: Az Ávr. 115/F. §-át a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be.
+[^424]: Az Ávr. 115/F. § (2) bekezdés e) pontja a 243/2015. (IX. 8.) Korm. rendelet 12. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^425]: Az Ávr. 115/F. § (6) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 21. pontja szerint módosított szöveg.
+[^426]: Az Ávr. 115/F. § (8) bekezdését a 243/2015. (IX. 8.) Korm. rendelet 8. §-a iktatta be, szövege a 264/2016. (VIII. 31.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^427]: Az Ávr. 115/F. § (9) bekezdését a 264/2016. (VIII. 31.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^428]: Az Ávr. 115/F. § (10) bekezdését a 264/2016. (VIII. 31.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^429]: Az Ávr. 115/F. § (11) bekezdését a 264/2016. (VIII. 31.) Korm. rendelet 18. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-41. §[^146] (1)[^147] A Kormány hatáskörében elrendelt új alcím, jogcím-csoport, jogcím létrehozásáról, a fejezetrend, a címrend és a címrend alá rendezett alcímek, jogcímcsoportok módosításáról, kiegészítéséről, továbbá előirányzat-átcsoportosításról rendelkező határozatra a 23. § (3) bekezdését kell alkalmazni.
+41. §[^147] (1)[^148] A Kormány hatáskörében elrendelt új alcím, jogcím-csoport, jogcím létrehozásáról, a fejezetrend, a címrend és a címrend alá rendezett alcímek, jogcímcsoportok módosításáról, kiegészítéséről, továbbá előirányzat-átcsoportosításról rendelkező határozatra a 23. § (3) bekezdését kell alkalmazni.
 
 (2) Ha az előirányzat-átcsoportosításhoz az államháztartásért felelős miniszter előzetes hozzájárulására van szükség, annak megadását az egyoldalú jognyilatkozatba, megállapodásba foglaltan kell megtenni, vagy a külön dokumentumban megadott előzetes hozzájárulást az egyoldalú jognyilatkozathoz, megállapodáshoz mellékletként kell csatolni.
 
@@ -6,5 +6,5 @@
 
 (4) A fejezetet irányító szerv Áht. 33. § (3) bekezdése szerinti intézkedésének elrendelésére a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt, a fejezetet irányító szerv állományába tartozó személy jogosult, és az intézkedést az 55. § szerint kijelölt pénzügyi ellenjegyző ellenjegyzi.
 
-[^146]: Az Ávr. 41. §-a a 397/2014. (XII. 31.) Korm. rendelet 19. §- ával megállapított szöveg.
-[^147]: Az Ávr. 41. § (1) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 24. § 6. pontja, a 89/2016. (IV. 29.) Korm. rendelet 4. § 2. pontja szerint módosított szöveg.
+[^147]: Az Ávr. 41. §-a a 397/2014. (XII. 31.) Korm. rendelet 19. §- ával megállapított szöveg.
+[^148]: Az Ávr. 41. § (1) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 24. § 6. pontja, a 89/2016. (IV. 29.) Korm. rendelet 4. § 2. pontja szerint módosított szöveg.

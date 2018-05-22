@@ -4,6 +4,6 @@
 
 (3) A (2) bekezdésben foglaltakat meghaladó eltérést (e § alkalmazásában a továbbiakban: előrehozást) a Kincstár engedélyezhet. Az előrehozás időarányos visszapótlás mellett történik, kivéve, ha a Kincstár a rendelkezésére álló adatok alapján ettől eltérő módon rendelkezik.
 
-(4)[^469] Az előrehozást a fejezetet irányító szervnek kell kérnie a Kincstártól. Az előrehozást a következő havi keretnyitások során időarányosan, az időarányos havi ütemezéstől eltérően folyósítandó előrehozást havi részletezésben veszi figyelembe a Kincstár. A Kincstár a kérelem beérkezését követő öt munkanapon belül tájékoztatja a fejezetet irányító szervet az előrehozás nyilvántartásba vételéről vagy annak elutasításáról és az elutasítás indokairól.
+(4)[^470] Az előrehozást a fejezetet irányító szervnek kell kérnie a Kincstártól. Az előrehozást a következő havi keretnyitások során időarányosan, az időarányos havi ütemezéstől eltérően folyósítandó előrehozást havi részletezésben veszi figyelembe a Kincstár. A Kincstár a kérelem beérkezését követő öt munkanapon belül tájékoztatja a fejezetet irányító szervet az előrehozás nyilvántartásba vételéről vagy annak elutasításáról és az elutasítás indokairól.
 
-[^469]: Az Ávr. 130. § (4) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 25. § 21. pontja szerint módosított szöveg.
+[^470]: Az Ávr. 130. § (4) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 25. § 21. pontja szerint módosított szöveg.

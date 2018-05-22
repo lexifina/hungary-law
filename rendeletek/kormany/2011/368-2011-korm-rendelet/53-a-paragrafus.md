@@ -1,4 +1,4 @@
-53/A. §[^193] (1) A pénzügyi ellenjegyzőnek az Áht. 37. § (1) bekezdése szerinti pénzügyi fedezet vizsgálata során arról kell meggyőződnie, hogy a tervezett kifizetési időpontokban megfelelő mennyiségű pénzeszköz (likvid fedezet) áll rendelkezésére. A Kormány egyedi határozatán alapuló, több év előirányzatait terhelő kötelezettségvállalás esetén a pénzügyi fedezetet külön vizsgálat nélkül biztosítottnak kell tekinteni, ha a 46. § (2) bekezdés b) pontja, valamint (3) és (4) bekezdése szerinti feltételek teljesülnek.
+53/A. §[^194] (1) A pénzügyi ellenjegyzőnek az Áht. 37. § (1) bekezdése szerinti pénzügyi fedezet vizsgálata során arról kell meggyőződnie, hogy a tervezett kifizetési időpontokban megfelelő mennyiségű pénzeszköz (likvid fedezet) áll rendelkezésére. A Kormány egyedi határozatán alapuló, több év előirányzatait terhelő kötelezettségvállalás esetén a pénzügyi fedezetet külön vizsgálat nélkül biztosítottnak kell tekinteni, ha a 46. § (2) bekezdés b) pontja, valamint (3) és (4) bekezdése szerinti feltételek teljesülnek.
 
 (2) Az Áht. 32. §-a szerinti előirányzatok terhére történő kötelezettségvállalás és az Áht. 36. § (2) bekezdése szerinti kötelezettségvállalás esetén a pénzügyi ellenjegyzés során kizárólag arról kell meggyőződni, hogy
 
@@ -8,4 +8,4 @@ b) a több év előirányzatait terhelő kötelezettségvállalás esetén a kö
 
 c) az Áht. 32. § d) pontja szerinti esetben a kötelezettségvállalás megfelel a Kormány egyedi határozatában foglaltaknak.
 
-[^193]: Az Ávr. 53/A. §-át a 497/2013. (XII. 29.) Korm. rendelet 23. §-a iktatta be, szövege a 224/2017. (VIII. 11.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^194]: Az Ávr. 53/A. §-át a 497/2013. (XII. 29.) Korm. rendelet 23. §-a iktatta be, szövege a 224/2017. (VIII. 11.) Korm. rendelet 4. §-ával megállapított szöveg.
