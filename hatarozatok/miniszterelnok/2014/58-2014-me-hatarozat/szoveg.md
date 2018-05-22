@@ -6,8 +6,10 @@ dr. Bordás Gábor és dr. Zöld-Nagy Viktória helyettes államtitkárok e megb
 
 megszűnik, egyidejűleg
 
-dr. Bordás Gábort és dr. Zöld-Nagy Viktóriát a Miniszterelnökség helyettes államtitkáraivá
+dr. Bordás Gábort[^1] és dr. Zöld-Nagy Viktóriát a Miniszterelnökség helyettes államtitkáraivá
 
 – 2014. június 25-ei hatállyal –
 
 kinevezem.
+
+[^1]: A 37/2018. (VI. 5.) ME határozat alapján dr. Bordás Gábor tekintetében akként módosul, hogy a „Miniszterelnökség” megnevezés helyett a „Miniszterelnöki Kormányiroda” megnevezést kell érteni.
