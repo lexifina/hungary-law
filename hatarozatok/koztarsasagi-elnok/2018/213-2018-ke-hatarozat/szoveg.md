@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés j) pontja, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 216. § (1) bekezdés d) pontja és 218. § (7) bekezdése alapján – a miniszterelnök javaslatára – megállapítom, hogy dr. Czepek Gábornak, – a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvény 1. § f) pontja szerint – az Innovációs és Technológiai Minisztérium közigazgatási államtitkárának e tisztsége politikai vezetővé történő kinevezésére tekintettel 2018. május 21-ei hatállyal megszűnik.
+
+KEH ügyszám: KEH/02282-2/2018.
