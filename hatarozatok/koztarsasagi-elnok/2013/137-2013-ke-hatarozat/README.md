@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-137-30-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-03-14 | 2013-137-30-76.1 | 137/2013. (III. 14.) KE határozat |
+| 2018-05-22 | 2013-137-30-76.2 | 218/2018. (V. 22.) KE határozat |
