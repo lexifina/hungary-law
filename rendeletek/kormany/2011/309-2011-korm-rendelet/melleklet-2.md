@@ -138,28 +138,30 @@
 
 2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^23]
 
-## A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek
+A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek
 
-1. Miniszterelnökség
+1. Agrárminisztérium
 
-2. Miniszterelnöki Kabinetiroda
+2. Belügyminisztérium
 
-3. Belügyminisztérium
+3. Emberi Erőforrások Minisztériuma
 
-4. Emberi Erőforrások Minisztériuma
+4. Igazságügyi Minisztérium
 
-5. Földművelésügyi Minisztérium
+5. Innovációs és Technológiai Minisztérium
 
-6. Igazságügyi Minisztérium
+6. Külgazdasági és Külügyminisztérium
 
-7. Közbeszerzési és Ellátási Főigazgatóság
+7. Miniszterelnöki Kabinetiroda
 
-8. Külgazdasági és Külügyminisztérium
+8. Miniszterelnökség
 
-9. Nemzetgazdasági Minisztérium
+9. Pénzügyminisztérium
 
-10. Nemzeti Fejlesztési Minisztérium.
+10. Miniszterelnöki Kormányiroda
+
+11. Közbeszerzési és Ellátási Főigazgatóság
 
 [^21]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^22]: Az 1. melléklet C) pont 4. alpontját a 16/2017. (I. 31.) Korm. rendelet 1. §-a iktatta be.
-[^23]: A 2. melléklet a 325/2016. (X. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^23]: A 2. melléklet a 95/2018. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
