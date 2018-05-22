@@ -1,8 +1,6 @@
-## 7. §[^11]
+1. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^17]
 
-1. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^12]
-
-## Alapfeladatként nyújtott szolgáltatások
+Alapfeladatként nyújtott szolgáltatások
 
 I. ÜZEMELTETÉSI SZOLGÁLTATÁSOK
 
@@ -208,5 +206,4 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
 2.1. Speciális igény esetén bérelt gépjármű biztosítása
 
-[^11]: A 7. §-t a 293/2017. (X. 10.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
-[^12]: Az 1. melléklet a 293/2017. (X. 10.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^17]: Az 1. melléklet a 293/2017. (X. 10.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.

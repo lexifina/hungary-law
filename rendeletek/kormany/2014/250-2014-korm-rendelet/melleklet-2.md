@@ -1,6 +1,6 @@
-2. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^13]
+2. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^18]
 
-## Külön igénylés vagy egyedi feladatátadás alapján nyújtott szolgáltatások
+Külön igénylés vagy egyedi feladatátadás alapján nyújtott szolgáltatások
 
 1. Nem irodafunkciójú ingatlanok üzemeltetése
 
@@ -12,4 +12,4 @@
 
 5. Protokoll ajándékbeszerzés, készletraktározás
 
-[^13]: A 2. mellékletet a 293/2017. (X. 10.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^18]: A 2. mellékletet a 293/2017. (X. 10.) Korm. rendelet 3. § (2) bekezdése iktatta be.
