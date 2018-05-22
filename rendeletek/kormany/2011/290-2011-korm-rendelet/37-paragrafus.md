@@ -1,5 +1,8 @@
-## VIII. Fejezet[^95]
+## VIII. Fejezet[^94]
 
 ## A MINISZTER IRÁNYÍTÁSA ALATT ÁLLÓ KÖZPONTI HIVATALOK
 
-[^95]: A VIII. fejezet (37–38. §) a 111/2015. (IV. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+37. §[^95]
+
+[^94]: A VIII. fejezet (37–38. §) a 111/2015. (IV. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^95]: A 37. §-t a 259/2016. (VIII. 31.) Korm. rendelet 64. § c) pontja hatályon kívül helyezte.

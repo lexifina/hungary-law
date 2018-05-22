@@ -50,13 +50,13 @@
 
 ## – mellékhelyiségek (WC, piszoár).
 
-## G)[^154] Légijármű karbantatás,
+## G)[^160] Légijármű karbantatás,
 
-## H)[^155] Légijármű földi kiszolgálás,
+## H)[^161] Légijármű földi kiszolgálás,
 
-## I)[^156] Légijármű üzemeltetés,
+## I)[^162] Légijármű üzemeltetés,
 
-## J)[^157] Légiközlekedési szakszemélyzet oktatás,
+## J)[^163] Légiközlekedési szakszemélyzet oktatás,
 
 ## hajózó személyzet képzés,
 
@@ -64,7 +64,7 @@
 
 ## légijármű karbantartó képzés.
 
-## K)[^158] Légiforgalmi szolgáltatás
+## K)[^164] Légiforgalmi szolgáltatás
 
 ## repüléstájékoztatás,
 
@@ -72,8 +72,8 @@
 
 6. melléklet a 290/2011. (XII. 22.) Korm. rendelethez
 
-[^154]: Az 5. melléklet II. rész H) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^155]: Az 5. melléklet II. rész H) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^156]: Az 5. melléklet II. rész I) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^157]: Az 5. melléklet II. rész J) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^158]: Az 5. melléklet II. rész K) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^160]: Az 5. melléklet II. rész H) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^161]: Az 5. melléklet II. rész H) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^162]: Az 5. melléklet II. rész I) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^163]: Az 5. melléklet II. rész J) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^164]: Az 5. melléklet II. rész K) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.

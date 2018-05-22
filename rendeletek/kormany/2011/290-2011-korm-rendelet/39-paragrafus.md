@@ -1,5 +1,3 @@
-## 38. §[^97]
-
 ## IX. Fejezet
 
 ## A HONVÉDELMI FELKÉSZÍTÉS KÖLTSÉGEI, A KORMÁNY VALAMINT A HONVÉDELMI TANÁCS SPECIÁLIS MŰKÖDÉSÉNEK FELTÉTELEI, A POLGÁRI VESZÉLYHELYZETI TERVEZÉS
@@ -13,5 +11,3 @@
 (3) A miniszterek felelősek a speciális működés ágazati feladatainak megvalósításáért, ennek során együttműködnek a honvédelemért felelős miniszterrel.
 
 (4) A speciális működés infokommunikációs támogatását a K–600/KTIR Hírközlési és Informatikai Rendszer biztosítja.
-
-[^97]: A 38. §-t a 259/2016. (VIII. 31.) Korm. rendelet 64. § c) pontja hatályon kívül helyezte.

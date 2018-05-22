@@ -1,12 +1,11 @@
-8. § (1)[^40] A jogi és igazgatási ügyekért felelős helyettes államtitkár felelősségi körébe tartozik a 6. § (1) bekezdés 10–11., 13–17. és 36–43. pontjában meghatározott szakterületek szakmai irányítása.
+8. §[^42] (1) A jogi és igazgatási ügyekért felelős helyettes államtitkár felelősségi körébe tartozik a 6. § (1) bekezdés 11., 13–17. és 36–43. pontjában meghatározott szakterületek szakmai irányítása.
 
-(2)[^41] A védelempolitikáért felelős helyettes államtitkár felelősségi körébe tartozik a 6. § (1) bekezdés 18., 19–21. pontjában meghatározott szakterületek szakmai irányítása.
+(2) A védelempolitikáért felelős helyettes államtitkár felelősségi körébe tartozik a 6. § (1) bekezdés 18., 19–21. pontjában meghatározott szakterületek szakmai irányítása.
 
-(3)[^42] A védelemgazdaságért felelős helyettes államtitkár felelősségi körébe tartozik a 6. § (1) bekezdés 6., 18a., 22–32. és 34. pontjában meghatározott szakterületek szakmai irányítása.
+(3) A védelemgazdaságért felelős helyettes államtitkár felelősségi körébe tartozik a 6. § (1) bekezdés 6., 18a., 22–32. és 34. pontjában meghatározott szakterületek szakmai irányítása.
 
-(4)[^43] Az (1)–(3) bekezdésen túl a helyettes államtitkárok gyakorolják a jogszabályokban, a közjogi szervezetszabályozó eszközökben és a belső rendelkezésekben hatáskörükbe utalt feladatköröket, továbbá ellátják mindazokat a feladatokat, amelyekkel őket a miniszter és a közigazgatási államtitkár eseti jelleggel megbízza.
+(4) A humánpolitikáért felelős helyettes államtitkár felelősségi körébe tartozik a 6. § (1) bekezdés 9–10. pontjában meghatározott szakterületek szakmai irányítása.
 
-[^40]: A 8. § (1) bekezdése a 273/2017. (IX. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^41]: A 8. § (2) bekezdése a 273/2017. (IX. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^42]: A 8. § (3) bekezdése a 273/2017. (IX. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^43]: A 8. § (4) bekezdése a 111/2015. (IV. 30.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+(5) Az (1)–(4) bekezdésen túl a helyettes államtitkárok gyakorolják a jogszabályokban, a közjogi szervezetszabályozó eszközökben és a belső rendelkezésekben hatáskörükbe utalt feladatköröket, továbbá ellátják mindazokat a feladatokat, amelyekkel őket a miniszter és a közigazgatási államtitkár eseti jelleggel megbízza.
+
+[^42]: A 8. § a 96/2018. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.

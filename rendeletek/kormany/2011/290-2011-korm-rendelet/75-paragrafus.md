@@ -2,7 +2,7 @@
 
 a) hatáskörében közreműködik a légiriasztási rendszer működtetésével, fenntartásával, korszerűsítésével kapcsolatos tervezési és szervezési feladatokban,
 
-b)[^139] együttműködik a minisztériummal, a BM OKF-fel, és az MTVA-val,
+b)[^138] együttműködik a minisztériummal, a BM OKF-fel, és az MTVA-val,
 
 c) az MTVA-val egyeztetve szervezi és felügyeli a műsorszóró hálózatra telepített átkapcsoló rendszer üzempróbáit,
 
@@ -12,4 +12,4 @@ e) kezdeményezi a légiriasztás honvédelmi feladataiban résztvevő műsorszo
 
 f) javaslatot tesz az átkapcsoló rendszer fejlesztésére.
 
-[^139]: A 75. § b) pontja a 273/2017. (IX. 20.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^138]: A 75. § b) pontja a 273/2017. (IX. 20.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

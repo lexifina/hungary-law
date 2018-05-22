@@ -8,11 +8,11 @@
 
 4. irányítja a Honvédelmi Katasztrófavédelmi Rendszer feladatkörébe utalt részeit,
 
-5.[^49] a Hvt. 37. § (3) bekezdésében meghatározott létszámnak megfelelően engedélyezi a Honvédségnek a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdése szerinti feladatok végrehajtására történő igénybevételét, továbbá meghatározza a kirendelt erők eszközeit, fegyverzetét és az erőalkalmazás szabályait,
+5.[^48] a Hvt. 37. § (3) bekezdésében meghatározott létszámnak megfelelően engedélyezi a Honvédségnek a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdése szerinti feladatok végrehajtására történő igénybevételét, továbbá meghatározza a kirendelt erők eszközeit, fegyverzetét és az erőalkalmazás szabályait,
 
-5a.[^50] a Hvt. 37. § (3a) bekezdésében meghatározott létszámnak megfelelően meghatározza a Hvt. 36. § (1) bekezdés i) pontja és a rendőrségről szóló 1994. évi XXXIV. törvény 7/E. § (6) bekezdése szerinti feladatban résztvevő erőket, továbbá a kirendelt erők eszközeit, fegyverzetét és az erőalkalmazás szabályait,
+5a.[^49] a Hvt. 37. § (3a) bekezdésében meghatározott létszámnak megfelelően meghatározza a Hvt. 36. § (1) bekezdés i) pontja és a rendőrségről szóló 1994. évi XXXIV. törvény 7/E. § (6) bekezdése szerinti feladatban résztvevő erőket, továbbá a kirendelt erők eszközeit, fegyverzetét és az erőalkalmazás szabályait,
 
-6.[^51] irányítja a híradó, informatikai és információvédelmi stratégia és szolgáltatási rendszer kialakítását, a Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózata, valamint a Magyar Honvédség Vezetési Információs Rendszere tervezését, fejlesztését, a szolgáltatások folyamatos biztosítását, üzemeltetését, fenntartását, a minisztériumot érintő elektronikus ügyintézéshez és a bizalmi szolgáltatásokhoz kapcsolódó közigazgatási és a honvédségi kötelezettségekből származó informatikai, a Honvédség elektronikus ügyintézését támogató infokommunikációs szolgáltatások kialakítását, működtetését, a kormányzati informatikai integráció biztosításával kapcsolatos fejlesztési és koordinációs feladatokat,
+6.[^50] irányítja a híradó, informatikai és információvédelmi stratégia és szolgáltatási rendszer kialakítását, a Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózata, valamint a Magyar Honvédség Vezetési Információs Rendszere tervezését, fejlesztését, a szolgáltatások folyamatos biztosítását, üzemeltetését, fenntartását, a minisztériumot érintő elektronikus ügyintézéshez és a bizalmi szolgáltatásokhoz kapcsolódó közigazgatási és a honvédségi kötelezettségekből származó informatikai, a Honvédség elektronikus ügyintézését támogató infokommunikációs szolgáltatások kialakítását, működtetését, a kormányzati informatikai integráció biztosításával kapcsolatos fejlesztési és koordinációs feladatokat,
 
 7. felelős a Honvédség Műveleti Vezetési Rendszere működtetéséért, működési feltételei biztosításával kapcsolatos feladatok végrehajtásáért, az ehhez szükséges infrastruktúra és infokommunikációs rendszer üzemeltetéséért,
 
@@ -30,7 +30,7 @@
 
 14. gyakorolja a védelmi tervezéssel, a központi gazdálkodással és az ágazati beszerzésekkel kapcsolatban hatáskörébe tartozó jogköröket,
 
-14a.[^52] a parlamenti államtitkár 4. § b) pontja szerinti irányítási hatáskörét nem érintve ellátja a katonai szervezeteket érintő végrehajtási feladatok előkészítésével és koordinációjával kapcsolatban hatáskörébe tartozó feladatokat, így végzi különösen az önkéntes tartalékos rendszer tiszt- és altisztképzésével, szakkiképzési és távoktatási rendszerével, motivációs és ösztöndíjrendszerével, a kadétrendszerhez kapcsolódó képzésekkel, a hadtudományi kutatás-fejlesztéssel összefüggő katonai követelmények meghatározásával és a katonai szervezetek tudományos tevékenységével, valamint a katonai pályára irányítással, a honvédelmi neveléssel, a katonai emlékhely- és hadisírgondozással, a Honvédelmi Sportszövetséggel és más társadalmi szervezetekkel összefüggő feladatokat,
+14a.[^51] a parlamenti államtitkár 4. § b) pontja szerinti irányítási hatáskörét nem érintve ellátja a katonai szervezeteket érintő végrehajtási feladatok előkészítésével és koordinációjával kapcsolatban hatáskörébe tartozó feladatokat, így végzi különösen az önkéntes tartalékos rendszer tiszt- és altisztképzésével, szakkiképzési és távoktatási rendszerével, motivációs és ösztöndíjrendszerével, a kadétrendszerhez kapcsolódó képzésekkel, a hadtudományi kutatás-fejlesztéssel összefüggő katonai követelmények meghatározásával és a katonai szervezetek tudományos tevékenységével, valamint a katonai pályára irányítással, a honvédelmi neveléssel, a katonai emlékhely- és hadisírgondozással, a Honvédelmi Sportszövetséggel és más társadalmi szervezetekkel összefüggő feladatokat,
 
 15. vezeti a Honvédség fogyasztói logisztikai rendszerét, tervezi és szervezi a katonai szervezetek logisztikai és egészségügyi biztosítását, javaslatokat tesz a személyi állomány megfelelő élet-, szolgálati és munkakörülményeinek biztosítására,
 
@@ -62,12 +62,12 @@ d) engedélyezi az objektumok névhasználatát és a csapatkarjelzés használa
 
 e) vezeti a humánszolgálat kiépítésével, működési feltételei megteremtésével és fejlesztésével összefüggő tevékenységet.
 
-(2a)[^53] A Honvéd Vezérkar főnöke jóváhagyja – a Magyar Honvédség Összhaderőnemi Parancsnokság és a Honvédség hadrendje szerinti nem katona diplomáciai tevékenységet ellátó más magasabb szintű parancsnokságok kivételével – a neki közvetlenül alárendelt katonai szervezetek, valamint a köznevelési feladatokat ellátó katonai szervezet szervezeti és működési szabályzatát. E jogkörét másra nem ruházhatja át.
+(2a)[^52] A Honvéd Vezérkar főnöke jóváhagyja – a Magyar Honvédség Összhaderőnemi Parancsnokság és a Honvédség hadrendje szerinti nem katona diplomáciai tevékenységet ellátó más magasabb szintű parancsnokságok kivételével – a neki közvetlenül alárendelt katonai szervezetek, valamint a köznevelési feladatokat ellátó katonai szervezet szervezeti és működési szabályzatát. E jogkörét másra nem ruházhatja át.
 
 (3) A Honvéd Vezérkar főnöke a feladat- és hatáskörébe tartozó ügyekben képviseli a Honvédséget, gyakorolja a jogszabályokban és a közjogi szervezetszabályozó eszközökben hatáskörébe utalt jogköröket, továbbá ellátja mindazokat a feladatokat, amelyekkel a miniszter eseti jelleggel megbízza.
 
-[^49]: A 11. § (1) bekezdés 5. pontja a 273/2015. (IX. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^50]: A 11. § (1) bekezdés 5a. pontját a 489/2016. (XII. 28.) Korm. rendelet 13. § (1) bekezdése iktatta be.
-[^51]: A 11. § (1) bekezdés 6. pontja a 273/2017. (IX. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^52]: A 11. § (1) bekezdés 14a. pontját a 273/2017. (IX. 20.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^53]: A 11. § (2a) bekezdését a 489/2016. (XII. 28.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^48]: A 11. § (1) bekezdés 5. pontja a 273/2015. (IX. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^49]: A 11. § (1) bekezdés 5a. pontját a 489/2016. (XII. 28.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^50]: A 11. § (1) bekezdés 6. pontja a 273/2017. (IX. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^51]: A 11. § (1) bekezdés 14a. pontját a 273/2017. (IX. 20.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^52]: A 11. § (2a) bekezdését a 489/2016. (XII. 28.) Korm. rendelet 13. § (2) bekezdése iktatta be.

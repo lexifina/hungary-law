@@ -46,11 +46,11 @@
 
 ## 10. a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szervek,
 
-## 11.[^149] a fővárosi és megyei kormányhivatalok,
+## 11.[^155] a fővárosi és megyei kormányhivatalok,
 
 ## 12. a körjegyzőség, a polgármesteri hivatalok (a képviselő-testület hivatala, a megyei jogú város kerületi hivatala, a fővárosi kerületi képviselő-testület hivatala), a megyei közgyűlés hivatala, a főpolgármesteri hivatal (a fővárosi közgyűlés hivatala), az önkormányzati hatósági igazgatási társulások,
 
-## 13.[^150] a Médiaszolgáltatás Támogató- és Vagyonkezelő Alap, a Magyar Rádió Zártkörűen Működő Részvénytársaság, a Duna Televízió Zártkörűen Működő Részvénytársaság, a Magyar Távirati Iroda Zártkörűen Működő Részvénytársaság, a Magyar Televízió Zártkörűen Működő Részvénytársaság,
+## 13.[^156] a Médiaszolgáltatás Támogató- és Vagyonkezelő Alap, a Magyar Rádió Zártkörűen Működő Részvénytársaság, a Duna Televízió Zártkörűen Működő Részvénytársaság, a Magyar Távirati Iroda Zártkörűen Működő Részvénytársaság, a Magyar Televízió Zártkörűen Működő Részvénytársaság,
 
 ## 14. Nemzeti Média- és Hírközlési Hatóság,
 
@@ -62,9 +62,9 @@
 
 ## 18. jogszabály, a miniszterek által honvédelmi feladat ellátására kijelölt, honvédelemben közreműködő szervek,
 
-## 19.[^151] az egyházi jogi személyek,
+## 19.[^157] az egyházi jogi személyek,
 
-## 20.[^152] a lakosság részére alapvető közüzemi szolgáltatást nyújtó szervek.
+## 20.[^158] a lakosság részére alapvető közüzemi szolgáltatást nyújtó szervek.
 
 ## III. kategória
 
@@ -72,7 +72,7 @@
 
 2. melléklet a 290/2011. (XII. 22.) Korm. rendelethez
 
-## Meghagyási jegyzék
+Meghagyási jegyzék
 
 A meghagyási jegyzék elkészítése két formátumban történhet:
 
@@ -128,7 +128,7 @@ a) Minta az Excel formátumú adatszolgáltatásra:
 
 – Bírósági határozat száma:
 
-[^149]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 11. pontja a 174/2012. (VII. 26.) Korm. rendelet 87. § (17) bekezdésével megállapított szöveg.
-[^150]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 13. pontja a 267/2013. (VII. 11.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^151]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 19. pontja a 297/2013. (VII. 29.) Korm. rendelet 69. §-ával megállapított szöveg.
-[^152]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 20. pontját a 174/2012. (VII. 26.) Korm. rendelet 87. § (18) bekezdése iktatta be.
+[^155]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 11. pontja a 174/2012. (VII. 26.) Korm. rendelet 87. § (17) bekezdésével megállapított szöveg.
+[^156]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 13. pontja a 267/2013. (VII. 11.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^157]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 19. pontja a 297/2013. (VII. 29.) Korm. rendelet 69. §-ával megállapított szöveg.
+[^158]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 20. pontját a 174/2012. (VII. 26.) Korm. rendelet 87. § (18) bekezdése iktatta be.

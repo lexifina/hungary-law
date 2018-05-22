@@ -6,7 +6,7 @@ a) a Honvéd Egészségpénztár jogutódja (a továbbiakban ezen alcím alkalma
 
 b) a (3) bekezdés szerinti meghatalmazás útján
 
-## igazolhatja.
+igazolhatja.
 
 (3) A jogosult a HM központi pénzügyi feladatok ellátásáért felelős szerve (ezen alcím alkalmazásában a továbbiakban: eljáró szerv) részére – e célból rendszeresített formanyomtatvány útján – meghatalmazást adhat arra, hogy a jogutódot az értékvesztésként elszámolt összegről történő hivatalos tájékoztatáskérés érdekében megkeresse. A meghatalmazás tartalmazza a jogosult (4) bekezdés a) pontja szerinti tartalmú adatkezelési nyilatkozatát is.
 
