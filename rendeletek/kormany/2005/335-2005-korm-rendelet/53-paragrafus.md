@@ -26,7 +26,7 @@ a) hiteles papír alapú, illetve
 
 b) hiteles elektronikus
 
-## másolatot is kiadni.
+másolatot is kiadni.
 
 (6)[^103] Ha jogszabály a kiadmányozó aláírását, illetve bélyegzőlenyomatát követeli meg, úgy az elektronikus iratról készült hiteles papír alapú iraton ez úgy teljesíthető, hogy az irat utolsó lapján, vagy külön lapon – a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló Korm. rendeletben előírt záradékon felül – az 1. mellékletben felsorolt szervek által elhelyezett záradékként szerepelnie kell
 

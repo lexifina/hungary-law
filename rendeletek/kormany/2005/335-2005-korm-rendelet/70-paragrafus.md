@@ -8,7 +8,7 @@ a) érkeztető rendszere, valamint az 58. § szerinti elektronikus úton törté
 
 b) elektronikus irat hiteles papír alapú irattá alakítására irányuló szolgáltatása az (1a) bekezdés szerinti jogszabályban meghatározott alkalmazási időpontig
 
-## próbaüzemmódban működik.
+próbaüzemmódban működik.
 
 (3)[^163] E rendelet Módr. 1.-gyel és Módr. 2.-vel megállapított rendelkezéseit a próbaüzemmód időszakára is alkalmazni kell. Az érkeztető rendszer működtetője írásban értesíti:
 
@@ -16,7 +16,7 @@ a) a postai szolgáltatót az 1. mellékletben felsorolt szervek érkeztető ren
 
 b) az 1. mellékletben felsorolt szerveket a postai szolgáltató írásbeli jelzése alapján az elektronikus irat papír alapú irattá alakítására irányuló szolgáltatás próbaüzemmódjába
 
-## történő bevonásának ütemezéséről.
+történő bevonásának ütemezéséről.
 
 (4) Az 1. mellékletben felsorolt közfeladatot ellátó szervnek a Módr. 1. hatálybalépésekor érvényben lévő iratkezelési szabályzatát 2015. április 30-ig kell módosítani – 2015. május 1-jétől történő alkalmazással – az e rendeletnek a Módr. 1.-gyel és Módr 2.-vel megállapított rendelkezéseinek megfelelően.
 

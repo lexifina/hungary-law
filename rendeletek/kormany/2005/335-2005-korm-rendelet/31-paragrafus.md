@@ -36,7 +36,7 @@ b) ennek hiányában, ha a küldő közölte a válaszadási elektronikus postaf
 
 c) egyéb esetben papír alapon
 
-## értesíti.
+értesíti.
 
 (8) A küldemény (1)–(6) bekezdés szerinti ellenőrzését külön jogszabály vagy megállapodás alapján a Ket. 169/A. § (3) bekezdése alapján meghatározott szervezet vagy a kézbesítési szolgáltatást nyújtó személy vagy szervezet is elvégezheti. Ez esetben a szolgáltató a közfeladatot ellátó szerv adatfeldolgozójaként jár el.
 
