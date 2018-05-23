@@ -1,5 +1,3 @@
-## 161. § Hatályát veszti a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet.
-
 ## 22. Átmeneti rendelkezés
 
 162. § (1) A Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvény szerinti
