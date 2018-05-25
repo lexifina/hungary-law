@@ -6,6 +6,6 @@
 
 (1)–(3)
 
-(4)
+(4) Hatályát veszti a 29. § (5) és (6) bekezdése.
 
 (5)

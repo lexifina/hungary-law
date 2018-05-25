@@ -72,9 +72,7 @@ s) a közlekedési hatóságot a Vámkódex 39. cikk e) pontja szerinti biztons�
 
 (4) A vámtitok körébe tartozó adatok harmadik ország hatósága részére a vonatkozó, közigazgatási hatóságok közötti kölcsönös vámügyi segítségnyújtás tekintetében irányadó nemzetközi szerződésekben, valamint az e törvényben foglaltak alapján adhatók át.
 
-(5) A vámhatóságok együttműködésére vonatkozó nemzetközi szerződések alapján harmadik országba továbbított, természetes személlyel kapcsolatba hozható egyedi adatok kizárólag az információs önrendelkezési jogról és az információszabadságról szóló törvényben foglaltak betartásával továbbíthatók.
-
-(6) Az adatok átadásáról az érintettet kérelmére az információs önrendelkezési jogról és az információszabadságról szóló törvény szabályai szerint tájékoztatni kell.
+(5)–(6)
 
 (7) A vámtitkot képező, személyes adatnak nem minősülő egyedi adatok adatfeldolgozási technikával kezelhetők és továbbíthatók, ha az adatbiztonság feltételeinek a fogadó állam eleget tesz.
 
