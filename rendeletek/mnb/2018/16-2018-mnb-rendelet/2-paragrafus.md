@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 30,8 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján, a középmezőben építőkockákból kirakott szívforma ábrázolása látható. Az emlékérme szélén, félköriratban, fent a „2000” értékjelzés és a „FORINT” felirat, lent a „MAGYARORSZÁG” felirat, bal oldalon a „2018” verési évszám, jobb oldalon a „BP.” verdejel olvasható. A verdejelben legalább tízszeres nagyítás esetén látható, a verdejel adott betűjével megegyező betűket ábrázoló mikroírás került elhelyezésre. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben a Családok éve logó fő motívumának ábrázolása látható, melyet – vízszintes vonalon álló, épületet megformázó – építőkockák vesznek körbe. A vonal alatt, középen, két vízszintes sorban a „CSALÁDOK ÉVE” és a „2018” felirat olvasható. A vonal fölött, bal oldalon Endrődy Zoltán tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
