@@ -72,36 +72,40 @@
 
 | 33. | Pécs, székesegyház, püspöki palota és a középkori egyetem | Pécs, Szent István tér 23. és a székesegyház, valamint az Aradi vértanúk útja közötti terület |
 
-| 34. | Recsk, egykori munkatábor | Recsk, Kőbányai út |
+| 34. | Pócspetri, Polgármesteri Hivatal épülete | Pócspetri, Iskola u. 13. |
 
-| 35. | Sárospatak, vár, református kollégium és nagykönyvtár | Sárospatak, Szent Erzsébet út 19. és Rákóczi u. 1. |
+| 35. | Recsk, egykori munkatábor | Recsk, Kőbányai út |
 
-| 36. | Sárvár, vár | Sárvár, Várkerület u. 1. |
+| 36. | Salgótarján, December 8. tér | Salgótarján, December 8. tér |
 
-| 37. | Sopron, Tűztorony | Sopron, Fő tér |
+| 37. | Sárospatak, vár, református kollégium és nagykönyvtár | Sárospatak, Szent Erzsébet út 19. és Rákóczi u. 1. |
 
-| 38. | Sóly, református templom | Sóly, Árpád köz 1. |
+| 38. | Sárvár, vár | Sárvár, Várkerület u. 1. |
 
-| 39. | Szarvas, a történelmi Magyarország földrajzi középpontja és Trianon-emlékhely | Szarvas, Malom u. |
+| 39. | Sopron, Tűztorony | Sopron, Fő tér |
 
-| 40. | Szatmárcseke, Kölcsey-kúria helye | Szatmárcseke, Kölcsey-kúria helye |
+| 40. | Sóly, református templom | Sóly, Árpád köz 1. |
 
-| 41. | Sátoraljaújhely-Széphalom, Kazinczy Emlékcsarnok | Sátoraljaújhely-Széphalom, Kazinczy u. 275. |
+| 41. | Szarvas, a történelmi Magyarország földrajzi középpontja és Trianon-emlékhely | Szarvas, Malom u. |
 
-| 42. | Szeged, Dóm tér | Szeged, Dóm tér |
+| 42. | Szatmárcseke, Kölcsey-kúria helye | Szatmárcseke, Kölcsey-kúria helye |
 
-| 43. | Szécsény, Forgách-kastély és a ferences kolostor | Szécsény, Ady Endre út 7. és Haynald u. 9. |
+| 43. | Sátoraljaújhely-Széphalom, Kazinczy Emlékcsarnok | Sátoraljaújhely-Széphalom, Kazinczy u. 275. |
 
-| 44. | Tatabánya, Turul emlékmű | Tatabánya, Kő-hegy |
+| 44. | Szeged, Dóm tér és a Szegedi Tudományegyetem Auditórium Maximum épülete | Szeged, Dóm tér és Egyetem u. 2. |
 
-| 45. | Tihany, bencés apátság | Tihany, I. András tér 1. |
+| 45. | Szécsény, Forgách-kastély és a ferences kolostor | Szécsény, Ady Endre út 7. és Haynald u. 9. |
 
-| 46. | Vác, Hétkápolna és honvédemlékmű | Vác, Derecske dűlő 2. és a Szent László út – Gödöllői út kereszteződése |
+| 46. | Tatabánya, Turul emlékmű | Tatabánya, Kő-hegy |
 
-| 47. | Veszprém, Vár utca | Veszprém, Vár u. |
+| 47. | Tihany, bencés apátság | Tihany, I. András tér 1. |
 
-| 48. | Visegrád, vár | Visegrád, Várhegy és Fő u. 23–43. |
+| 48. | Vác, Hétkápolna és honvédemlékmű | Vác, Derecske dűlő 2. és a Szent László út – Gödöllői út kereszteződése |
 
-| 49. | Vizsoly, református templom | Vizsoly, Szent János u. 80. |
+| 49. | Veszprém, Vár utca | Veszprém, Vár u. |
 
-[^1]: Az 1. melléklet a 313/2016. (X. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+| 50. | Visegrád, vár | Visegrád, Várhegy és Fő u. 23–43. |
+
+| 51. | Vizsoly, református templom | Vizsoly, Szent János u. 80. |
+
+[^1]: Az 1. melléklet a 97/2018. (V. 25.) Korm. rendelet 1. §-ával megállapított szöveg.

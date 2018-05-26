@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-303-20-
 | 2015-03-12 | 2011-303-20-22.4 | 104/2014. (III. 25.) Korm. rendelet |
 | 2016-07-10 | 2011-303-20-22.5 | 173/2016. (VII. 1.) Korm. rendelet |
 | 2016-10-23 | 2011-303-20-22.6 | 313/2016. (X. 19.) Korm. rendelet |
+| 2018-05-26 | 2011-303-20-22.7 | 97/2018. (V. 25.) Korm. rendelet |
