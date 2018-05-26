@@ -6,11 +6,13 @@
 
 ## 4. Ha a gyakorlat jellege azt indokolja, az engedély az 1. mellékletben meghatározott időtartamokon belül, a résztvevők – a vonatkozó összlétszám kereteit meg nem haladó – váltása érdekében történő, többszöri határátlépésére is vonatkozik.
 
+## 4/A.[^1] A Kormány hozzájárul ahhoz, hogy az 1. melléklet 2. pontjában foglalt táblázat 23. sora szerinti nemzetközi gyakorlat [European Tactical Airlift Program – Training (ETAP-T)] és 34. sora szerinti nemzetközi gyakorlat (BLACK SWAN/JACKAL CAVE különleges műveleti kiképzés és gyakorlat) Magyarország területén a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
+
 ## 5. Ez a határozat 2018. január 1-jén lép hatályba.
 
-## 6.[^1]
+## 6.[^2]
 
-1. melléklet az 1964/2017. (XII. 19.) Korm. határozathoz
+1. melléklet az 1964/2017. (XII. 19.) Korm. határozathoz[^3]
 
 A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -28,7 +30,7 @@ A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 5. | NATO CMX válságkezelési gyakorlat | HM VIF | NATO tagállamok | I-IV. n. é. | 70 |
 
-| 6. | BRILLIANT JUMP VJTF stratégiai telepítési gyakorlata | MH ÖHP | NATO és EU tagállamok | I-II. n. é. | 50 |
+| 6. | BRILLIANT JUMP VJTF stratégiai telepítési gyakorlata | HVK HDMCSF/MH ÖHP | NATO és EU tagállamok | II–IV. n. é. | 250 |
 
 | 7. | BRILLIANT JOUST NATO Force Structure parancsnokságok minősítő gyakorlata | MH ÖHP | NATO és EU tagállamok | I-II. n. é. | 50 |
 
@@ -36,7 +38,7 @@ A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 9. | TRIDENT JAGUAR NFS parancsnokságok minősítő gyakorlata | MH ÖHP | Norvégia, Németország, Magyarország | I-II. n. é. | 40 |
 
-| 10. | CETATEA HUMINT együttműködési gyakorlat | MH ÖHP | Románia | III-IV. n. é. | 50 |
+| 10. | CETATEA híradó-, informatikai és információvédelmi rendszergyakorlat | MH ÖHP | Románia | III–IV. n. é. | 50 |
 
 | 11. | STEADFAST INTEREST felderítési gyakorlat | MH ÖHP | Románia | III-IV. n. é. | 50 |
 
@@ -92,7 +94,7 @@ A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 37. | NSHQ/SOCEUR/V4 Különleges Műveleti (KM) felkészítések | MH ÖHP | NATO és EU tagállamok | I-IV. n. é. | 300 |
 
-| 38. | CWIX szimulációs rendszergyakorlat | MH ÖHP | Lengyelország | II. n. é. | 20 |
+| 38. | CWIX híradó-informatikai rendszergyakorlat | MH ÖHP | Lengyelország | II. n. é. | 50 |
 
 | 39. | CYBER COALITION kibervédelmi gyakorlat | HVK HIICSF | NATO tagállamok, Magyarország | I-IV. n. é. | 50 |
 
@@ -136,9 +138,9 @@ A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 59. | KFOR LMT felkészítés | MH ÖHP | Szlovákia | I-IV. n. é. | 5 |
 
-| 60. | CIMIC/PSYOPS COOPERATION V. gyakorlat | MH ÖHP | Szlovákia | II. n. é. | 5 |
+| 60. | CIMIC/PSYOPS COOPERATION V. gyakorlat | MH ÖHP | Szlovákia | II. n. é. | 10 |
 
-| 61. | Multinational CIMIC Team Training | MH ÖHP | Szlovákia | III-IV. n. é. | 5 |
+| 61. | Multinational CIMIC Team Training | MH ÖHP | Németország, Szlovákia | III–IV. n. é. | 10 |
 
 | 62. | Multinational CIMIC Reach-back Network | MH ÖHP | Németország | I-IV. n. é. | 5 |
 
@@ -157,6 +159,20 @@ A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 69. | LORD MOUNTAIN magas hegyvidéki helikopteres gyakorlat | MH ÖHP | Horvátország, Szlovénia | I-IV. n. é. | 60 |
 
 | 70. | NCISG/3 NSB (DCM-E) híradó század (Nemzeti telepíthető híradó század) rendezvényei | MH ÖHP | NATO és EU tagállamok | I–IV. n. é. | 250 |
+
+| 71. | UNIFIED VISION 2018 (NATO JISR) gyakorlás | KNBSZ FCSF | Németország | II–III. n. é. | 10 |
+
+| 72. | EURETEX 2018 (Eurocorps Engineer Training Exercise) | MH ÖHP | Spanyolország | III–IV. n. é. | 10 |
+
+| 73. | TORREJON ADVANTAGE 2018 gyakorlat | MH ÖHP | Spanyolország, Németország, Magyarország | III–IV. n. é. | 60 |
+
+| 74. | UEDEM AWAKENING 2018 gyakorlat | MH ÖHP | Spanyolország, Németország, Magyarország | III–IV. n. é. | 60 |
+
+| 75. | KALKAR SKY JFAC gyakorlás NRF/VJTF részeként | HVK HDMCSF/MH ÖHP | NATO és EU tagállamok | III–IV. n. é. | 10 |
+
+| 76. | BROKEN WING 2018 Vészhelyzeti gyakorlat | HM ÁLF | Szlovénia | II. n. é. | 10 |
+
+| 77. | NATO Weapons Intelligence Team (WIT) kiképzés | MH HFKP/ MH AA | Magyarország | III. n. é. | 40 |
 
 2. A Magyar Honvédség és külföldi fegyveres erők részvételével tervezett két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések.
 
@@ -202,7 +218,7 @@ A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 20. | CJPRSC (repülő személyi állomány mentési gyakorlat) (APROC) | MH ÖHP | NATO és EU tagállamok | I-IV. n. é. | 40 |
 
-| 21. | HUN-Colorado-New York -Ohio NG felkészítési rendezvények | MH ÖHP | NATO és EU tagállamok | I-IV. n. é. | 1020 |
+| 21. | HUN-Colorado-New York -Ohio National Guard felkészítési rendezvények | MH ÖHP | Magyarország, NATO és EU tagállamok | I–IV. n. é. | 1500 |
 
 | 22. | Air to Air Refueling felkészítés | MH ÖHP | NATO és EU tagállamok | I-IV. n. é. | 32 |
 
@@ -228,7 +244,7 @@ A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 33. | NRF logisztikai felkészítések | MH ÖHP | NATO és EU tagállamok | I-IV. n. é. | 10 |
 
-| 34. | BLACK SWAN KM kiképzés és gyakorlat | MH ÖHP | Magyarország, NATO és EU tagállamok | I-IV. n. é. | 825 |
+| 34. | BLACK SWAN/JACKAL CAVE különleges műveleti kiképzés és gyakorlat | MH ÖHP | Magyarország, NATO és EU tagállamok | III–IV. n. é. | 500 |
 
 | 35. | Horvát-magyar búvár különleges műveleti kiképzés | MH ÖHP | Horvátország, Magyarország | I-IV. n. é. | 50 |
 
@@ -250,11 +266,11 @@ A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 44. | SÁRARANY MEZŐ vegyivédelmi felkészítés és gyakorlat | MH ÖHP | Szlovákia | III-IV. n. é. | 70 |
 
-| 45. | JFO tüzérségi megfigyelők felkészítése | MH ÖHP | Németország, Szlovénia | I-IV. n. é. | 10 |
+| 45. | Joint Fire Observer tüzérségi megfigyelők felkészítése (SABER STRIKE18, DYNAMIC FRONT18 a NATO tagországok/USAREUR összfegyvernemi tűztámogató gyakorlata) | MH ÖHP | Németország, Szlovénia | I–IV. n. é. | 50 |
 
-| 46. | HUN-USA közös kiképzések WARPAINT RIDE/BUFFALO RIDE/ LONG KNIFE | MH ÖHP | Magyarország | I-IV. n. é. | 3000 |
+| 46. | HUN-USA közös kiképzések STEPPE ARCHER (WARPAINT RIDE/BUFFALO RIDE/LONG KNIFE) | MH ÖHP | Magyarország | II–IV. n. é. | 3000 |
 
-| 47. | Hajózó állomány túlélő kiképzése | MH ÖHP | Svédország | I. n. é. | 20 |
+| 47. | Hajózó állomány kiképzése, kiegészítő felkészítése | MH ÖHP | Svédország, Csehország | I–IV. n. é. | 150 |
 
 | 48. | LÉGI FÖLÉNY Gripen éleslövészet végrehajtása | MH ÖHP | Svédország | I-III. n. é. | 100 |
 
@@ -318,6 +334,10 @@ A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 78. | NORTHERN STRIKE 2018 | MH ÖHP | USA | II-III. n. é. | 15 |
 
+| 79. | PLATINUM WOLF 2018 gyakorlat | MH ÖHP | Szerbia | II–III. n. é. | 30 |
+
+| 80. | SABER STRIKE 2018 gyakorlat | MH ÖHP | NATO és EU tagállamok | II–III. n. é. | 15 |
+
 3. Magyarország területén és légterén történő áthaladások és átrepülések
 
 | Fsz. | A tevékenység megnevezése | A feladat tervezett időpontja | Engedélyezett létszám |
@@ -362,4 +382,8 @@ A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 20. | NFIU HUN csapatmozgások | I–IV. n. é. | egyidejűleg legfeljebb 50 |
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+| 21. | Very High Readiness Joint Task Force– VJTF áthaladási gyakorlatok | I–IV. n. é. | egyidejűleg legfeljebb 500 fő |
+
+[^1]: A 4/A. pontot az 1245/2018. (V. 25.) Korm. határozat 1. pontja iktatta be.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléket az 1245/2018. (V. 25.) Korm. határozat 2. pontja szerint módosított szöveg.
