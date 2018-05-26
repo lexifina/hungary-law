@@ -4,4 +4,6 @@ a) dr. Vitályos Eszter Zsuzsannát a Fejlesztéspolitikai Koordinációs Bizott
 
 b) Schanda Tamás Jánost, az Innovációs és Technológiai Minisztérium államtitkárát a Fejlesztéspolitikai Koordinációs Bizottság elnökévé – 2018. május 28-ai hatállyal – kijelölöm.
 
-2. Visszavonom a Fejlesztéspolitikai Koordinációs Bizottság elnökének felmentéséről és új elnökének kijelöléséről szóló 6/2017. (I. 6.) ME határozatot.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
