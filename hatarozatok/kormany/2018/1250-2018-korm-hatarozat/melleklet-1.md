@@ -54,7 +54,7 @@
 
 ## 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 13. Hatályát veszti az egyes kiemelt budapesti beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1329/2016. (VII. 1.) Korm. határozat.
+## 13.[^1]
 
 1. melléklet az 1250/2018. (V. 25.) Korm. határozathoz
 
@@ -87,3 +87,5 @@ A kormánybiztos feladatkörébe utalt beruházások
 13. a 2020-ban Tokióban megrendezésre kerülő XXXII. nyári olimpiai és XVI. paralimpiai játékok helyszínén esetlegesen kialakításra kerülő olimpiai látogatóközpont – magyar ház – előkészítése és megvalósítása,
 
 14. további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
+
+[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
