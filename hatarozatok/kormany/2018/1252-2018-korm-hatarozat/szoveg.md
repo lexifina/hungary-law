@@ -26,4 +26,6 @@ f) a szabadtéri sportparkok fejlesztésével
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8. Hatályát veszti a kerékpározásért és az aktív kikapcsolódásért felelős kormánybiztos kinevezéséről és feladatairól szóló 1293/2016. (VI. 13.) Korm. határozat.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
