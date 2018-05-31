@@ -1,0 +1,1 @@
+## „281. vezetéknélküli audio- és multimédia-streaming alkalmazás: kombinált hang- vagy képátvitelre és audio- vagy videoszinkronizációs jelek átvitelére szolgáló, magánhasználatú, vezetéknélküli, folyamatos adatátvitelt biztosító audio- és multimédiás rendszerrel megvalósított rádióalkalmazás;”
