@@ -2,7 +2,7 @@
 
 a) az egyes alkalmazások sávhasználatának frekvenciagazdálkodási követelményeit és feltételeit a 3. melléklet,
 
-b)[^36] a nemzetközi frekvenciakoordinációs szabályokat a 4. melléklet,
+b)[^50] a nemzetközi frekvenciakoordinációs szabályokat a 4. melléklet,
 
 c) a harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek jegyzékét az 5. melléklet.
 
@@ -10,4 +10,4 @@ c) a harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezés
 
 (3) Az alkalmazott betűszók, rövidítések jegyzékét a 7. melléklet, a hivatkozott dokumentumok jegyzékét a 8. melléklet tartalmazza.
 
-[^36]: A 10. § (1) bekezdés b) pontja a 8/2017. (VII. 28.) NMHH rendelet 21. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^50]: A 10. § (1) bekezdés b) pontja a 8/2017. (VII. 28.) NMHH rendelet 21. § (1) bekezdés d) pontja szerint módosított szöveg.

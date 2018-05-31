@@ -8,8 +8,11 @@ c) a csak vételre szolgáló állomások az egyedi engedélyezési kötelezetts
 
 d) az adott frekvenciasáv elektronikus hírközlési szolgáltatás nyújtására nem használható;
 
-e) a másodlagos kereskedelem nem megengedett.
+e) a másodlagos kereskedelem nem megengedett;
 
-(2)[^35]
+f)[^48] az alkalmazás állomásai egyedi engedélyezési kötelezettség alóli mentesítésének megszűnése esetén, a mentesítés megszűnésének időpontjáig forgalomba hozott rádióberendezéssel létesített állomás a berendezés élettartamának végéig üzemben tartható.
 
-[^35]: A 9. § (2) bekezdését a 2/2017. (I. 17.) NMHH rendelet 26. § (8) bekezdés b) pontja hatályon kívül helyezte.
+(2)[^49]
+
+[^48]: A 9. § (1) bekezdés f) pontját az 1/2018. (V. 29.) NMHH rendelet 2. §-a iktatta be.
+[^49]: A 9. § (2) bekezdését a 2/2017. (I. 17.) NMHH rendelet 26. § (8) bekezdés b) pontja hatályon kívül helyezte.

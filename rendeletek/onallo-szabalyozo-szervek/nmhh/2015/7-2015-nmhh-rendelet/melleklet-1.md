@@ -1,6 +1,6 @@
-## 16. §[^50]
+## 16. §[^67]
 
-1. melléklet a 7/2015. (XI. 13.) NMHH rendelethez[^51]
+1. melléklet a 7/2015. (XI. 13.) NMHH rendelethez[^68]
 
 ## Nemzetközi felosztás
 
@@ -14,7 +14,7 @@
 
 2.1. Általános leírás
 
-2.1.1. A 2.2. pontban foglalt táblázat AC oszlopa az RR alapján közzéteszi az 1. pont szerinti Körzetekre érvényes felosztást. Ennek keretében meghatározza a felosztott rádiószolgálatokat szolgálati kategóriáiknak megfelelően frekvenciasávonként, valamint a frekvenciafelhasználás feltételeit – különösen a helyettesítő és a járulékos felosztást, az eltérő szolgálati kategóriát, a korlátozásokat, a műszaki követelményeket, az eljárási és rádióforgalmazási szabályokat – tartalmazó lábjegyzetek hivatkozási sorszámait. A lábjegyzeteket – az RR szerinti számozással megegyezően, 5.53 sorszámtól kezdődően – a 3. pont tartalmazza.
+2.1.1. A 2.2. pontban foglalt táblázat A-C oszlopa az RR alapján közzéteszi az 1. pont szerinti Körzetekre érvényes felosztást. Ennek keretében meghatározza a felosztott rádiószolgálatokat szolgálati kategóriáiknak megfelelően frekvenciasávonként, valamint a frekvenciafelhasználás feltételeit – különösen a helyettesítő és a járulékos felosztást, az eltérő szolgálati kategóriát, a korlátozásokat, a műszaki követelményeket, az eljárási és rádióforgalmazási szabályokat – tartalmazó lábjegyzetek hivatkozási sorszámait. A lábjegyzeteket – az RR szerinti számozással megegyezően, 5.53 sorszámtól kezdődően – a 3. pont tartalmazza.
 
 2.1.2. A táblázat D oszlopa meghatározza a Magyarország számára felosztott rádiószolgálatokat szolgálati kategóriáiknak megfelelően, valamint a magyarországi frekvenciafelhasználásra vonatkozó, lábjegyzetekben foglalt feltételeket az RR alapján.
 
@@ -28,5 +28,5 @@
 
 2.1.5. Amennyiben a rádiószolgálat megnevezése mellett zárójeles kiegészítés szerepel, akkor a rádiószolgálatra vonatkozó felosztás az így megjelölt működési típusra, alkalmazásra, frekvenciára korlátozódik.
 
-[^50]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^51]: Az 1. melléklet a 8/2017. (VII. 28.) NMHH rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^67]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: Az 1. melléklet a 8/2017. (VII. 28.) NMHH rendelet 21. § (2) bekezdése, az 1/2018. (V. 29.) NMHH rendelet 4. § (1) bekezdése és az 5. § (2) bekezdése szerint módosított szöveg.
