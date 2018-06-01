@@ -1,3 +1,0 @@
-4. § (1) A tanítási év első féléve 2017. január 20-ig tart. Az iskolák 2017. január 27-ig értesítik a tanulókat, kiskorú tanuló esetén a szülőket az első félévben elért tanulmányi eredményekről. A 3. §-ban meghatározott esetekben az első félév utolsó napját az igazgató állapítja meg. Az értesítést ettől a naptól számított öt munkanapon belül kell megküldeni.
-
-(2) Az első félév és a tanítási év utolsó napját követő tizenöt napon belül az iskoláknak nevelőtestületi értekezleten el kell végezniük a pedagógiai munka elemzését, értékelését, hatékonyságának vizsgálatát. A nevelőtestületi értekezletről készített jegyzőkönyvet tájékoztatás céljából meg kell küldeni az iskolaszéknek, az intézményi tanácsnak és a fenntartónak.
