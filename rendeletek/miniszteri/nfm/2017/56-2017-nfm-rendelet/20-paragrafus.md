@@ -1,3 +1,1 @@
-## 19. §[^14]
-
-[^14]: A 19. § a 22. § (3) bekezdése alapján 2018. június 1-jén lép hatályba.
+## 19. § Az R. a 2. melléklet szerinti 3. melléklettel egészül ki.

@@ -1,9 +1,8 @@
-## 8–10. §[^5]
+## 8–10. §[^4]
 
-11. § (1)[^6]
+11. § (1)[^5]
 
-(2)[^7]
+(2) Az R. 16. §-a a következő (1a) bekezdéssel egészül ki:
 
-[^5]: A 8–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 11. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 11. § (2) bekezdése a 22. § (3) bekezdése alapján 2018. június 1-jén lép hatályba.
+[^4]: A 8–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 11. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

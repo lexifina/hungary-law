@@ -1,9 +1,8 @@
-## 12–13. §[^8]
+## 12–13. §[^6]
 
-14. § (1)[^9]
+14. § (1)[^7]
 
-(2)[^10]
+(2) Az R. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^8]: A 12–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 14. § (2) bekezdése a 22. § (3) bekezdése alapján 2018. június 1-jén lép hatályba.
+[^6]: A 12–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

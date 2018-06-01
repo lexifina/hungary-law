@@ -1,0 +1,1 @@
+## „(1) Ha a hozzájárulás több közútkezelő által kezelt közutat érint – és a túlsúlyos, illetve túlméretes jármű közlekedése túlsúlydíj, illetve túlméretdíj megfizetéséhez kötött –, a túlsúlydíjat, illetve túlméretdíjat az érintett közútkezelők között meg kell osztani az adott közútkezelő által kezelt úton megtett út arányában.”
