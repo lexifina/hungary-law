@@ -6,7 +6,7 @@ a) a munkahelyi gyűjtőhelyen gyűjtött hulladékot a munkahelyi gyűjtőhelyr
 
 b) a munkahelyi gyűjtőhely üzemeltetője a hulladékgazdálkodási kötelezettségeit másképp nem tudja ellátni;
 
-c)[^4] a telephelyi jellemzők, a képződött hulladék fajtája, jellege, típusa, továbbá a hulladék elhelyezésének módja alapján az indokolt; valamint
+c)[^10] a telephelyi jellemzők, a képződött hulladék fajtája, jellege, típusa, továbbá a hulladék elhelyezésének módja alapján az indokolt; valamint
 
 d) azt kormányrendelet vagy miniszteri rendelet előírja.
 
@@ -24,4 +24,4 @@ d) azt kormányrendelet vagy miniszteri rendelet előírja.
 
 (8) Ha az üzemi gyűjtőhelyet üzemeltető gazdálkodó szervezet több telephelyet üzemeltet, üzemi gyűjtőhelyet több telephelyen is létesíthet.
 
-[^4]: A 14. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 255. § (1) bekezdésével megállapított szöveg.
+[^10]: A 14. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 255. § (1) bekezdésével megállapított szöveg.

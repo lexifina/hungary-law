@@ -20,7 +20,7 @@ g) a végrehajtott karbantartások (javítások) ideje és időtartama; valamint
 
 h) a hatósági ellenőrzések megállapításai és az ezek hatására tett intézkedések.
 
-(4)[^12] A komposztáló telep üzemeltetője a telep részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. Az üzemeltető az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolva a környezetvédelmi hatóságnak megküldi. A komposztáló telep csak az üzemeltetési szabályzat környezetvédelmi hatóság általi jóváhagyását követően üzemeltethető.
+(4)[^18] A komposztáló telep üzemeltetője a telep részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. Az üzemeltető az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolva a környezetvédelmi hatóságnak megküldi. A komposztáló telep csak az üzemeltetési szabályzat környezetvédelmi hatóság általi jóváhagyását követően üzemeltethető.
 
 (5) A komposztáló telep üzemeltetési szabályzata legalább
 
@@ -58,4 +58,4 @@ vonatkozó kötelezettségeket tartalmazza.
 
 (11) Komposztáló telepen biológiailag lebomló hulladék kizárólag komposztálás céljából tárolható.
 
-[^12]: A 23. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) és e) pontja szerint módosított szöveg.
+[^18]: A 23. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) és e) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 (2) Hulladéktároló hely kizárólag a hulladékgazdálkodási engedély tárolásra vonatkozó előírásai szerint üzemeltethető.
 
-(3)[^10] A hulladéktároló helyen csak annyi hulladék tárolható, amennyi a hulladék zavartalan és biztonságos tárolása érdekében lehetséges, figyelemmel a hulladéktároló hely tárolókapacitására. Ezt a hulladékmennyiséget, valamint a tárolás lehetséges leghosszabb időtartamát a környezetvédelmi hatóság a hulladékgazdálkodási engedélyben határozza meg.
+(3)[^16] A hulladéktároló helyen csak annyi hulladék tárolható, amennyi a hulladék zavartalan és biztonságos tárolása érdekében lehetséges, figyelemmel a hulladéktároló hely tárolókapacitására. Ezt a hulladékmennyiséget, valamint a tárolás lehetséges leghosszabb időtartamát a környezetvédelmi hatóság a hulladékgazdálkodási engedélyben határozza meg.
 
 (4) Hulladéktároló helyen hulladék – az (5) bekezdésben meghatározott kivétellel – csak a hulladék fajtájának biztonságos elhelyezésére alkalmas, a hulladék mennyiségétől és minőségétől függő méretű és kialakítású, zárt rendszerű konténerben tárolható. A konténerek kiválasztása során gondoskodni kell arról, hogy azok a biztonságos elszállításra vagy szállítási eszközbe történő ürítésre alkalmasak legyenek.
 
@@ -18,4 +18,4 @@
 
 (10) A hulladéktároló hely üzemeltetője gondoskodik a hely őrzéséről és az illetéktelen személyek behatolása elleni védelemről.
 
-[^10]: A 19. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^16]: A 19. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) pontja szerint módosított szöveg.

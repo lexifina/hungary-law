@@ -1,3 +1,5 @@
+## helyezhető el.
+
 12. § (1) A gyártó, a forgalmazó, a nevelési-oktatási intézmény az átvételi helyen átvett hulladék elszállításáról vagy elszállíttatásáról rendszeres időközönként, és a gyűjtővel, illetve a szállítóval kötött megállapodásban rögzített feltételeknek megfelelően gondoskodik.
 
 (2) Ha az átvételi hellyel azonos telephelyen üzemi gyűjtőhely is van, az átvett hulladékot az üzemi gyűjtőhelyre kell szállítani.
