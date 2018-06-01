@@ -16,9 +16,9 @@
 
 | 7. | Az úthálózat-hozzáférési hozzájárulás esetében | 45 000 |
 
-2. melléklet a 36/2017. (IX. 18.) NFM rendelethez
+2. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^66]
 
-## A túlsúlydíj mértéke az egyedi elbírálás alapján kiadott hozzájárulással közlekedő túlsúlyos, illetve túlméretes járművek, valamint az egyszerűsített eljárás keretében megadott hozzájárulással közlekedő túlsúlyos, illetve túlméretes járművek esetén
+## A túlsúlydíj, illetve túlméretdíj mértéke az egyedi elbírálás alapján kiadott hozzájárulással közlekedő túlsúlyos, illetve túlméretes járművek, valamint az egyszerűsített eljárás keretében megadott hozzájárulással közlekedő túlsúlyos, illetve túlméretes járművek esetén
 
 1. táblázat: 0% ≤ … < 30% között
 
@@ -32,6 +32,12 @@
 
 | 4. | Tengelycsoport (t) | 100 | 190 | 440 | 830 |
 
+| 5. | Magasság (m) | 4 | 6 | 8 | 10 |
+
+| 6. | Szélesség (m) | 4 | 6 | 8 | 10 |
+
+| 7. | Hosszúság (m) | 4 | 6 | 8 | 10 |
+
 2. táblázat: 30% ≤ … < 70% között
 
 |  | A | B | C | D | E |
@@ -44,6 +50,12 @@
 
 | 4. | Tengelycsoport (t) | 1210 | 1900 | 2160 | 2410 |
 
+| 5. | Magasság (m) | 14 | 18 | 20 | 25 |
+
+| 6. | Szélesség (m) | 14 | 18 | 20 | 25 |
+
+| 7. | Hosszúság (m) | 14 | 18 | 20 | 25 |
+
 3. táblázat: 70% ≤ … < 100% között, valamint 100% ≤ … (10%-onként)
 
 |  | A | B | C | D | E |
@@ -55,3 +67,11 @@
 | 3. | Tengelyterhelés (t) | 3300 | 3560 | 3810 | 250 |
 
 | 4. | Tengelycsoport (t) | 2670 | 2920 | 3175 | 250 |
+
+| 5. | Magasság (m) | 30 | 35 | 40 | 20 |
+
+| 6. | Szélesség (m) | 30 | 35 | 40 | 20 |
+
+| 7. | Hosszúság (m) | 30 | 35 | 40 | 20 |
+
+[^66]: A 2. melléklet a 28. § (3) bekezdésével megállapított szöveg.

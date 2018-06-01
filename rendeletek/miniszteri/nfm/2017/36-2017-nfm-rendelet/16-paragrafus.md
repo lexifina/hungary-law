@@ -1,6 +1,16 @@
 ## 6. Egyszerűsített eljárásban megadott hozzájárulás
 
-16. § (1)[^40] Egyszerűsített eljárás – az (1a) bekezdésben meghatározott kivétellel – csak a 3. § (3) bekezdésében megadott értékeknél kisebb eltérés esetén alkalmazható.
+16. § (1)[^45] Egyszerűsített eljárás – az (1a) bekezdésben meghatározott kivétellel – csak a 3. § (3) bekezdésében megadott értékeknél kisebb eltérés esetén alkalmazható.
+
+(1a)[^46] Egyszerűsített eljárás alkalmazható az (1) bekezdésben megadott értékeken felül legfeljebb
+
+a) a magasság vonatkozásában 4,50 méter magasságig
+
+b) a szélesség vonatkozásában 3,50 méter szélességig, valamint
+
+c) a hosszúság vonatkozásában 26,00 méter hosszúságig
+
+## ha a járművet, illetve járműszerelvényt, annak műszaki paramétereit az MK NZrt. – szemle keretén belül – megismerte és az alapján az egyszerűsített eljárás alkalmazhatóságáról meggyőződött.
 
 (2) Az egyszerűsített eljárásban megadott hozzájárulás
 
@@ -22,4 +32,5 @@ b) egyéb esetben a hozzájárulást megadó szerv által meghatározottak szeri
 
 (3) A (2) bekezdés szerint igényelt hozzájárulás a kérelem benyújtását követően azonnal létrejön.
 
-[^40]: A 16. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^45]: A 16. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^46]: A 16. § (1a) bekezdését az 56/2017. (XII. 27.) NFM rendelet 11. § (2) bekezdése iktatta be.

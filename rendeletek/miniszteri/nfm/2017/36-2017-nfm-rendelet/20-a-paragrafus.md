@@ -1,4 +1,4 @@
-20/A. §[^46] (1) Azon jármű esetében, amely
+20/A. §[^54] (1) Azon jármű esetében, amely
 
 a) össztömeg vonatkozásában rendkívüli mértékben túlsúlyos,
 
@@ -18,4 +18,4 @@ b) a járművel az úthálózat-hozzáférési hozzájárulás birtokában igén
 
 (4) Az úthálózat-hozzáférési hozzájárulás birtokában a túlsúlyos közlekedéshez szükséges hozzájárulás azonnali megadással is kérhető, amelyet 6 órán belül ki kell adni, amennyiben a jármű kérelemben szereplő – össztömegre, tengelykiosztásra, tengely- és tengelycsoport-terhelésre vonatkozó – adatai megegyeznek az úthálózat-hozzáférési hozzájárulásban szereplő adatokkal és a kérelemben szereplő útvonal része az úthálózat-hozzáférési hozzájárulásban szereplő közúthálózatnak. Ebben az esetben az azonnali díj mértéke megegyezik az eljárási díj mértékével.
 
-[^46]: A 20/A. §-t az 56/2017. (XII. 27.) NFM rendelet 14. § (1) bekezdése iktatta be.
+[^54]: A 20/A. §-t az 56/2017. (XII. 27.) NFM rendelet 14. § (1) bekezdése iktatta be.

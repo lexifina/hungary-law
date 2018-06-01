@@ -1,23 +1,28 @@
 ## 10. Módosító rendelkezések
 
-28. § (1)[^50]
+28. § (1)[^59]
 
-(2)[^51]
+(2)[^60]
 
-(3)–(4)[^52]
+(3) A 2. melléklet helyébe az 5. melléklet lép.
 
-(5)–(6)[^53]
+(4) A 10. § (9) bekezdésében a „túlsúlydíj mértékét” szövegrész helyébe a „túlsúlydíj és túlméretdíj mértékét” szöveg lép.
 
-(7)–(10)[^54]
+(5)–(6)[^61]
 
-(11)[^55]
+(7) A 11. § (1) bekezdésében és a 22. §-ban a „túlsúlydíj” szövegrész helyébe a „túlsúlydíj, illetve a túlméretdíj” szöveg lép.
 
-(12)[^56]
+(8) A 11. § (4) bekezdésében és a 20. §-ban a „túlsúlydíj” szövegrészek helyébe a „túlsúlydíj, illetve túlméretdíj” szöveg lép.
 
-[^50]: A 28. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
-[^51]: A 28. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^52]: A 28. § (3)–(4) bekezdése – az 56/2017. (XII. 27.) NFM rendelet 17. §-ával megállapított – 26. § (3) bekezdése alapján 2018. június 1-jén lép hatályba.
-[^53]: A 28. § (5)–(6) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
-[^54]: A 28. § (7)–(10) bekezdése – az 56/2017. (XII. 27.) NFM rendelet 17. §-ával megállapított – 26. § (3) bekezdése alapján 2018. június 1-jén lép hatályba.
-[^55]: A 28. § (11) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
-[^56]: A 28. § (12) bekezdése – az 56/2017. (XII. 27.) NFM rendelet 17. §-ával megállapított – 26. § (3) bekezdése alapján 2018. június 1-jén lép hatályba.
+(9) A 11. § (3) bekezdésében és (6) bekezdésében a „túlsúlydíj,” szövegrész helyébe a „túlsúlydíj, illetve túlméretdíj,” szöveg lép.
+
+(10) Az 5. alcím címében és a 14. § (5) bekezdésében a „túlsúlydíj,” szövegrész helyébe a „túlsúlydíj, illetve a túlméretdíj,” szöveg lép.
+
+(11)[^62]
+
+(12) A 17. §-ban a „túlsúlydíj” szövegrész helyébe a „túlsúlydíj, illetve túlméretdíj” szöveg lép.
+
+[^59]: A 28. § (1) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
+[^60]: A 28. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 28. § (5)–(6) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
+[^62]: A 28. § (11) bekezdése az 56/2017. (XII. 27.) NFM rendelet 23. §-a alapján nem lép hatályba.
