@@ -10,9 +10,9 @@ c) a csomagolásról és a csomagolási hulladékról szóló 94/62/EK irányelv
 
 d) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-i 2008/98/EK európai parlamenti és tanácsi irányelvnek
 
-e)[^33] a csomagolásról és a csomagolási hulladékról szóló 94/62/EK európai parlamenti és tanácsi irányelv I. mellékletének módosításáról szóló, 2013. február 7-i 2013/2/EU bizottsági irányelvnek
+e)[^37] a csomagolásról és a csomagolási hulladékról szóló 94/62/EK európai parlamenti és tanácsi irányelv I. mellékletének módosításáról szóló, 2013. február 7-i 2013/2/EU bizottsági irányelvnek
 
-f)[^34] a 94/62/EK irányelvnek a könnyű műanyag hordtasakok felhasználásának csökkentése tekintetében történő módosításáról szóló, 2015. április 29-i 2015/720/EU európai parlamenti és tanácsi irányelvnek
+f)[^38] a 94/62/EK irányelvnek a könnyű műanyag hordtasakok felhasználásának csökkentése tekintetében történő módosításáról szóló, 2015. április 29-i 2015/720/EU európai parlamenti és tanácsi irányelvnek
 
 ## való megfelelést szolgálja.
 
@@ -34,5 +34,5 @@ g) a csomagolásról és a csomagolási hulladékról szóló 94/62/EK európai 
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^33]: A 17. § (1) bekezdés e) pontját az 534/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
-[^34]: A 17. § (1) bekezdés f) pontját a 30/2017. (II. 13.) Korm. rendelet 3. §-a iktatta be.
+[^37]: A 17. § (1) bekezdés e) pontját az 534/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^38]: A 17. § (1) bekezdés f) pontját a 30/2017. (II. 13.) Korm. rendelet 3. §-a iktatta be.
