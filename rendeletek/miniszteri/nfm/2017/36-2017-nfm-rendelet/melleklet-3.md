@@ -1,4 +1,4 @@
-3. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^67]
+3. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^70]
 
 ## A túlméretdíj mértéke az egyszerűsített eljárás keretében megadott (időszakra szóló) túlméretes járművek közlekedéséhez
 
@@ -26,4 +26,4 @@
 
 | 4. | Hosszúság (m) | 1100 | 1200 | 1300 |
 
-[^67]: A 3. mellékletet az 56/2017. (XII. 27.) NFM rendelet 19. §-a iktatta be.
+[^70]: A 3. mellékletet az 56/2017. (XII. 27.) NFM rendelet 19. §-a iktatta be.

@@ -16,7 +16,7 @@
 
 | 7. | Az úthálózat-hozzáférési hozzájárulás esetében | 45 000 |
 
-2. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^66]
+2. melléklet a 36/2017. (IX. 18.) NFM rendelethez[^69]
 
 ## A túlsúlydíj, illetve túlméretdíj mértéke az egyedi elbírálás alapján kiadott hozzájárulással közlekedő túlsúlyos, illetve túlméretes járművek, valamint az egyszerűsített eljárás keretében megadott hozzájárulással közlekedő túlsúlyos, illetve túlméretes járművek esetén
 
@@ -74,4 +74,4 @@
 
 | 7. | Hosszúság (m) | 30 | 35 | 40 | 20 |
 
-[^66]: A 2. melléklet a 28. § (3) bekezdésével megállapított szöveg.
+[^69]: A 2. melléklet a 28. § (3) bekezdésével megállapított szöveg.
