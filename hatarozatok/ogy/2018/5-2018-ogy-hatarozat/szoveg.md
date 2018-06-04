@@ -52,11 +52,11 @@ Manninger Jenő (Fidesz)
 
 Witzmann Mihály (Fidesz)
 
-dr. Latorcai János (KDNP)
+dr. Seszták Miklós (KDNP)[^2]
 
 Tóth Csaba (MSZP)
 
-Bősz Anett (Párbeszéd)
+dr. Mellár Tamás (Párbeszéd)[^3]
 
 Tagok: Bencsik János (Fidesz)
 
@@ -70,13 +70,13 @@ Törő Gábor (Fidesz)
 
 Volner János (Jobbik)
 
-Molnár Gyula (MSZP)
+Bangóné Borbély Ildikó (MSZP)[^4]
 
 Székely Sándor (DK)
 
 d) Honvédelmi és rendészeti bizottság (9 fő)
 
-Elnök: Kocsis Máté (Fidesz)
+Elnök: Kósa Lajos (Fidesz)[^5]
 
 Alelnök: dr. Simon Miklós (Fidesz)
 
@@ -90,7 +90,7 @@ Tagok: Ágh Péter (Fidesz)
 
 Bíró Márk (Fidesz)
 
-Hubay György (Fidesz)[^2]
+Hubay György (Fidesz)[^6]
 
 dr. Harangozó Tamás (MSZP)
 
@@ -110,6 +110,8 @@ dr. Becsó Károly (Fidesz)
 
 Demeter Zoltán (Fidesz)
 
+dr. Kovács Zoltán (Fidesz)[^7]
+
 Vigh László (Fidesz)
 
 dr. Apáti István (Jobbik)
@@ -124,7 +126,7 @@ f) Költségvetési bizottság (15 fő)
 
 Elnök: Varju László (DK)
 
-Alelnök: Bartos Mónika (Fidesz)
+Alelnök: V. Németh Zsolt (Fidesz)[^8]
 
 dr. Szűcs Lajos (Fidesz)
 
@@ -140,13 +142,15 @@ Bodó Sándor (Fidesz)
 
 Boldog István (Fidesz)
 
-dr. Zsigmond Barna Pál (Fidesz)
+Szabó Zsolt (Fidesz)[^9]
+
+Horváth István (Fidesz)[^10]
 
 dr. Varga-Damm Andrea (Jobbik)
 
 Mesterházy Attila (MSZP)
 
-dr. Mellár Tamás (független)
+Bősz Anett (független)[^11]
 
 Ritter Imre (nemzetiségi képviselő)
 
@@ -154,13 +158,13 @@ g) Kulturális bizottság (15 fő)
 
 Elnök: dr. Pósán László (Fidesz)
 
-Alelnök: Barcza Attila (Fidesz)
+Alelnök: dr. Hoppál Péter (Fidesz)[^12]
 
 dr. Kállai Mária (Fidesz)
 
 L. Simon László (Fidesz)
 
-dr. Vinnai Győző (Fidesz)
+Simon Róbert Balázs (Fidesz)[^13]
 
 Dúró Dóra (Jobbik)
 
@@ -198,9 +202,11 @@ dr. Zsigmond Barna Pál (Fidesz)
 
 Nacsa Lőrinc (KDNP)
 
-dr. Brenner Koloman (Jobbik)[^3]
+dr. Brenner Koloman (Jobbik)[^14]
 
 Gyöngyösi Márton (Jobbik)
+
+dr. Gurmai Zita (MSZP)[^15]
 
 i) Mentelmi bizottság (6 fő)
 
@@ -220,7 +226,7 @@ j) Mezőgazdasági bizottság (11 fő)
 
 Elnök: Font Sándor (Fidesz)
 
-Alelnök: Bóna Zoltán (Fidesz)
+Alelnök: Czerván György (Fidesz)[^16]
 
 Győrffy Balázs (Fidesz)
 
@@ -228,11 +234,11 @@ Magyar Zoltán (Jobbik)
 
 Tagok: Dankó Béla (Fidesz)
 
-Jakab István (Fidesz)
+dr. Fazekas Sándor (Fidesz)[^17]
 
 Pócs János (Fidesz)
 
-Vécsey László (Fidesz)
+Lázár János (Fidesz)[^18]
 
 dr. Apáti István (Jobbik)
 
@@ -244,9 +250,9 @@ k) Nemzetbiztonsági bizottság (7 fő)
 
 Elnök: Mirkóczki Ádám (Jobbik)
 
-Alelnök: Németh Zsolt (Fidesz)
+Alelnök: Vargha Tamás (Fidesz)[^19]
 
-Tagok: Halász János (Fidesz)[^4]
+Tagok: Halász János (Fidesz)[^20]
 
 Lezsák Sándor (Fidesz)
 
@@ -302,7 +308,7 @@ Nacsa Lőrinc (KDNP)
 
 Ander Balázs (Jobbik)
 
-Rig Lajos (Jobbik)[^5]
+Rig Lajos (Jobbik)[^21]
 
 dr. László Imre (DK)
 
@@ -323,6 +329,8 @@ Tagok: Becsó Zsolt (Fidesz)
 Gelencsér Attila (Fidesz)
 
 Ovádi Péter (Fidesz)
+
+Tasó László (Fidesz)[^22]
 
 dr. Tiba István (Fidesz)
 
@@ -358,11 +366,13 @@ Dunai Mónika (Fidesz)
 
 Farkas Flórián (Fidesz)
 
+dr. Fazekas Sándor (Fidesz)[^23]
+
 Hadházy Sándor (Fidesz)
 
 Herczeg Tamás (Fidesz)
 
-Héjj Dávid Ádám (Fidesz)[^6]
+Héjj Dávid Ádám (Fidesz)[^24]
 
 Hirt Ferenc (Fidesz)
 
@@ -382,7 +392,7 @@ dr. Szűcs Lajos (Fidesz)
 
 dr. Tapolczai Gergely (Fidesz)
 
-Nacsa Lőrinc (KDNP)
+dr. Aradszki András (KDNP)[^25]
 
 dr. Vejkey Imre (KDNP)
 
@@ -390,11 +400,13 @@ dr. Fülöp Erik (Jobbik)
 
 Jakab Péter (Jobbik)
 
+Potocskáné Kőrösi Anita (Jobbik)[^26]
+
 Stummer János (Jobbik)
 
 Szilágyi György (Jobbik)
 
-Bangóné Borbély Ildikó (MSZP)
+dr. Varga László (MSZP)[^27]
 
 Hiszékeny Dezső (MSZP)
 
@@ -422,11 +434,32 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 
 6. A Magyarországi nemzetiségek bizottságának megbízatása 2018. május 9-én kezdődik.
 
-7.[^7]
+7.[^28]
 
-[^2]: A 7/2018. (V. 11.) OGY határozat 1. pontja iktatta be.
-[^3]: A 7/2018. (V. 11.) OGY határozat 1. pontja iktatta be.
-[^4]: A 7/2018. (V. 11.) OGY határozat 1. pontjával megállapított szöveg.
-[^5]: A 7/2018. (V. 11.) OGY határozat 1. pontja iktatta be.
-[^6]: A 7/2018. (V. 11.) OGY határozat 2. pontja iktatta be.
-[^7]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^4]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^6]: A 7/2018. (V. 11.) OGY határozat 1. pontja iktatta be.
+[^7]: A 10/2018. (VI. 5.) OGY határozat 1. pontja iktatta be.
+[^8]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^9]: A 10/2018. (VI. 5.) OGY határozat 1. pontja iktatta be.
+[^10]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^11]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^12]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^13]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^14]: A 7/2018. (V. 11.) OGY határozat 1. pontja iktatta be.
+[^15]: A 10/2018. (VI. 5.) OGY határozat 1. pontja iktatta be.
+[^16]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^17]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^18]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^19]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^20]: A 7/2018. (V. 11.) OGY határozat 1. pontjával megállapított szöveg.
+[^21]: A 7/2018. (V. 11.) OGY határozat 1. pontja iktatta be.
+[^22]: A 10/2018. (VI. 5.) OGY határozat 1. pontja iktatta be.
+[^23]: A 10/2018. (VI. 5.) OGY határozat 2. pontja ikattta be.
+[^24]: A 7/2018. (V. 11.) OGY határozat 2. pontja iktatta be.
+[^25]: A 10/2018. (VI. 5.) OGY határozat 2. pontjával megállapított szöveg.
+[^26]: A 10/2018. (VI. 5.) OGY határozat 2. pontja iktatta be.
+[^27]: A 10/2018. (VI. 5.) OGY határozat 2. pontjával megállapított szöveg.
+[^28]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
