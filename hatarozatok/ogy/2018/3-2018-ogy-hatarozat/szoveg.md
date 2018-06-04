@@ -28,6 +28,8 @@ Földi László (KDNP)
 
 Móring József Attila (KDNP)
 
+dr. Simicskó István (KDNP)[^2]
+
 Szávay István (Jobbik)
 
 Szilágyi György (Jobbik)
@@ -44,6 +46,7 @@ Tordai Bence (Párbeszéd)
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3.[^2]
+3.[^3]
 
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 9/2018. (VI. 5.) OGY határozat iktatta be.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
