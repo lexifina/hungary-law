@@ -1,7 +1,7 @@
-## 4. §[^1] A miniszter felelősségi körébe tartozó feladatok ellátásához szükséges nyomdai, lap- és könyvkiadási tevékenységet, ideértve a magyar kulturális értékek megőrzése és fejlesztése ügyével összefüggő feladatokkal megbízott miniszterelnöki megbízott tevékenységével összefüggő nyomdai, lap- és könyvkiadási tevékenységeket is, valamint a Nemzeti Könyvtár kiadványsorozat kiadásával és értékesítésével összefüggő feladatokat a Magyar Közlöny Lap- és Könyvkiadó Kft., a fordítási tevékenységet az Országos Fordító- és Fordításhitelesítő Iroda Zrt. végzi.
+## 4. §[^2] A miniszter felelősségi körébe tartozó feladatok ellátásához szükséges nyomdai, lap- és könyvkiadási tevékenységet a Magyar Közlöny Lap- és Könyvkiadó Kft., a fordítási és lektorálási tevékenységet az Országos Fordító és Fordításhitelesítő Iroda Zrt. végzi.
 
 ## II. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-[^1]: A 4. § a 36/2015. (XI. 19.) IM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 4. § a 8/2018. (VI. 4.) IM rendelet 2. §-ával megállapított szöveg.
