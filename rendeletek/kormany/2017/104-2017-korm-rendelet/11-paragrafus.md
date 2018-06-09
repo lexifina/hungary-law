@@ -1,4 +1,4 @@
-## 10/A. §[^11] A Tvtv. 18. §-ában meghatározott szervezetek által elhelyezett vagy elhelyeztetett reklám esetén 2018. június 1. napjáig nem kell alkalmazni e rendelet 4. §-ában foglaltakat.
+## 10/B. §[^12] E rendeletnek a Nemzeti Kommunikációs Hivatal feladataival, valamint a településkép védelmével összefüggő egyes kormányrendeletek módosításáról szóló 99/2018. (VI. 8.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését[^13] követően indult eljárásokban kell alkalmazni.
 
 ## 5. Az Európai Unió jogának való megfelelés
 
@@ -8,4 +8,5 @@
 
 (3) E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-[^11]: A 10/A. §-t a 16/2018. (II. 13.) Korm. rendelet 16. §-a iktatta be.
+[^12]: A 10/B. §-t a 99/2018. (VI. 8.) Korm. rendelet 18. §-a iktatta be.
+[^13]: A hatálybalépés időpontja 2018. június 9.
