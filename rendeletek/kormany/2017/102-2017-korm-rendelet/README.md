@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-102-20-
 | 2017-04-30 | 2017-102-20-22.2 | 2010: CXXX. törvény |
 | 2017-09-15 | 2017-102-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-09-16 | 2017-102-20-22.4 | 2010: CXXX. törvény |
+| 2018-06-09 | 2017-102-20-22.5 | 99/2018. (VI. 8.) Korm. rendelet |

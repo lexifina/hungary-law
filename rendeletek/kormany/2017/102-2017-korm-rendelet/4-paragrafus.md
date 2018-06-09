@@ -1,3 +1,3 @@
-## 3. §[^3]
+## 3. §[^4]
 
-[^3]: A 3. § a 9. § (3) bekezdése alapján 2018. július 1-jén lép hatályba.
+[^4]: A 3. § a 99/2018. (VI. 8.) Korm. rendelet 16. § b) pontja alapján nem lép hatályba.

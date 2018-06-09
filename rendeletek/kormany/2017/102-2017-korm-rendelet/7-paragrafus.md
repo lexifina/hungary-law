@@ -1,3 +1,3 @@
-## 6. §[^6]
+## 6. §[^7]
 
-[^6]: A 6. § a 9. § (3) bekezdése alapján 2018. július 1-jén lép hatályba.
+[^7]: A 6. § a 99/2018. (VI. 8.) Korm. rendelet 16. § c) pontja alapján nem lép hatályba.

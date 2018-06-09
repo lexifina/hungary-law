@@ -1,3 +1,3 @@
-## 1. §[^1]
+## 1. §[^2]
 
-[^1]: Az 1. § a 9. § (3) bekezdése alapján 2018. július 1-jén lép hatályba.
+[^2]: Az 1. § a 99/2018. (VI. 8.) Korm. rendelet 16. § a) pontja alapján nem lép hatályba.
