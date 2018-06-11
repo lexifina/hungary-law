@@ -1,0 +1,125 @@
+## 1. egyetért azzal, hogy Magyarország hosszú távú külpolitikai stratégiájának részeként a mezőgazdasági és környezetügyi szakdiplomáciai feladatok ellátása, valamint az agrár- és élelmiszerpiaci, környezettechnológiai üzleti, oktatási, tudományos együttműködések fejlesztése, valamint megerősítése céljából az asztanai, berlini, bukaresti, madridi, moszkvai, párizsi, pekingi, podgoricai, római, illetve washingtoni mezőgazdasági és környezetügyi szakdiplomata állomáshelyek működése mellett Belgrád, London, Varsó, Tokió és Sanghaj állomáshelyeken is legyen biztosított szakdiplomata;
+
+## Felelős: agrárminiszter
+
+## pénzügyminiszter
+
+## külgazdasági és külügyminiszter
+
+## Határidő: azonnal
+
+## 2. engedélyezi, hogy a külgazdasági és külügyminiszter Magyarország podgoricai nagykövetségén jelenleg is működő egy fő mezőgazdasági és környezetügyi szakdiplomata állomáshelyet 2018. június 1-jével áthelyezze Belgrádba a szakdiplomata feladatkörének Szerbiára való kiterjesztésével párhuzamosan, úgy, hogy az áthelyezésből adódó többletkiadásokat a Külgazdasági és Külügyminisztérium saját költségvetése terhére gazdálkodja ki;
+
+## Felelős: külgazdasági és külügyminiszter
+
+## Határidő: azonnal
+
+## 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 2018. június 1-jétől a varsói szakdiplomata állomáshely egy fővel történő létesítéséhez szükséges 21 306 200 forint, a tokiói szakdiplomata állomáshely egy fővel történő létesítéséhez szükséges 32 955 085 forint, továbbá a sanghaji szakdiplomata állomáshely egy fővel történő létesítéséhez szükséges 27 580 256 forint, illetve 2018. augusztus 1-jétől a londoni szakdiplomata állomáshely egy fővel történő létesítéséhez szükséges 22 699 556 forint, összesen 104 541 097 forint egyszeri átcsoportosítását rendeli el a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Agrár célelőirányzatok alcím, 25. Nemzetközi szervezetek tagsági díjai jogcímcsoport terhére, a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím javára, az 1. melléklet szerint;
+
+## Felelős: agrárminiszter
+
+## pénzügyminiszter
+
+## külgazdasági és külügyminiszter
+
+## Határidő: azonnal
+
+## 4. felkéri a pénzügyminisztert és a külgazdasági és külügyminisztert, hogy az asztanai, berlini, bukaresti, madridi, moszkvai, párizsi, pekingi, római mezőgazdasági és környezetügyi szakdiplomata állomáshelyek működése mellett, a folyamatos működés érdekében 2019. január 1-jétől a Külgazdasági és Külügyminisztérium költségvetésében folyamatosan kerüljön biztosításra Belgrád és Washington, továbbá London, Tokió és Varsó magyar nagykövetségein, illetve a sanghaji magyar főkonzulátuson egy-egy fővel a mezőgazdasági és környezetügyi szakdiplomata állomáshelyek működésének 266 626 602 forint összegű fedezete beépülő előirányzatként, valamint a 2019. évben 5 324 889 forint egyszeri jelleggel;
+
+## Felelős: pénzügyminiszter
+
+## külgazdasági és külügyminiszter
+
+## Határidő: a 2019. évi költségvetési tervezés során
+
+## 5. tekintettel az aktuális agrár- és környezetügyi, külgazdasági prioritásokra engedélyezi, hogy az Agrárminisztérium és a Külgazdasági és Külügyminisztérium kölcsönös egyetértése mellett egy fővel Londonban és további egy fővel Afrikában kerüljenek létrehozásra mezőgazdasági és környezetügyi állomáshelyek valamelyik jelenleg működő, de ismételt betöltésre nem kerülő állomáshelyek meglévő forrása terhére;
+
+## Felelős: agrárminiszter
+
+## pénzügyminiszter
+
+## külgazdasági és külügyminiszter
+
+## Határidő: a madridi és párizsi állomáshelyeket jelenleg betöltő szakdiplomaták megbízatási idejének lejártával összefüggésben
+
+## 6. felhívja a külgazdasági és külügyminisztert a 3. pont szerinti szakdiplomata állomáshelyek létesítéséhez kapcsolódó feladatok teljesítése érdekében a szükséges beszerzési eljárások lefolytatására azzal, hogy a beszerzések mentesülnek a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozatban elrendelt beszerzési tilalom alól.
+
+## Felelős: külgazdasági és külügyminiszter
+
+## Határidő: azonnal
+
+1. melléklet az 1261/2018. (VI. 11.) Korm. határozathoz
+
+8K04201_0
+
+| XII. Földművelésügyi Minisztérium XVIII. Külgazdasági és Külügyminisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2018. forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XII. |  |  |  |  |  | Földművelésügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 3 |  |  |  |  |  | Agrár célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 270945 |  |  |  | 25 |  |  |  |  |  | Nemzetközi szervezetek tagsági díjai |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -104 541 097 |  |  |  |
+
+|  | XVIII. |  |  |  |  |  | Külgazdasági és Külügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004118 |  | 2 |  |  |  |  |  | Külképviseletek igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K1 |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | 87 614 129 |  |  |  |
+
+|  |  |  |  |  |  | K2 |  |  |  |  |  | Munkaadókat terhelő járulékok és szociális hozzájárulási adó |  |  |  |  |  |  |  |  | 10 126 968 |  |  |  |
+
+|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 5 200 000 |  |  |  |
+
+|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 1 600 000 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XII. |  |  |  |  |  | Földművelésügyi Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 3 |  |  |  |  |  | Agrár célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 270945 |  |  |  | 25 |  |  |  |  |  | Nemzetközi szervezetek tagsági díjai |  |  |  |  |  |  |  |  | -104 541 097 |  |  |  |
+
+|  | XVIII. |  |  |  |  |  | Külgazdasági és Külügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 004118 |  | 2 |  |  |  |  |  | Külképviseletek igazgatása |  |  |  |  |  |  |  |  |  |  | 104 541 097 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki |  |  |  | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezetet irányító szerv | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  | 104 541 097 |  |  |  |  |  |  |  |  |  | 104 541 097 |  |  |
+
+| Pénzügyminisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
