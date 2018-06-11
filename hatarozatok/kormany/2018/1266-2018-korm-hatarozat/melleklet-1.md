@@ -1,0 +1,77 @@
+## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 66. Vajszló Nagyközség infrastruktúra fejlesztése támogatása címmel történő kiegészítését;
+
+## Felelős: pénzügyminiszter
+
+## belügyminiszter
+
+## Határidő: azonnal
+
+## 2. az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva 2 400 000 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap cím terhére, az 1. melléklet szerint;
+
+## Felelős: pénzügyminiszter
+
+## Határidő: azonnal
+
+## 3. egyetért azzal, hogy a belügyminiszter
+
+## a) a 2. pont szerint átcsoportosított összeg terhére külön pályázat és kérelem benyújtása nélkül, támogatási előlegként, egy vagy több összegben, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján nyújtson legfeljebb 400 000 000 forint támogatást Vajszló Nagyközség Önkormányzata részére az ipartelepének teljes körű felújítása érdekében, valamint legfeljebb 2 000 000 000 forint támogatást Vajszló központtal szennyvízelvezetési beruházás támogatása érdekében,
+
+## b) az a) alpont szerinti költségvetési támogatást a támogatói okirat kiadását követően folyósítsa Vajszló Nagyközség Önkormányzata számára;
+
+## 4. felhívja az emberi erőforrások miniszterét, hogy vizsgálja meg a vajszlói tanuszoda 33 méteres medenceként történő megépítésének feltételeit.
+
+## Felelős: emberi erőforrások minisztere
+
+## Határidő: azonnal
+
+1. melléklet az 1266/2018. (VI. 11.) Korm. határozathoz
+
+| IX. Helyi önkormányzatok támogatásai XLII. A költségvetés közvetlen bevételei és kiadásai ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2018. forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | IX. |  |  |  |  |  | Helyi önkormányzatok támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 375728 |  | 66 |  |  |  |  |  | Vajszló nagyközség infrastruktúra fejlesztése |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 2 400 000 000 |  |  |  |
+
+|  | XLII. |  |  |  |  |  | A költségvetés közvetlen bevételei és kiadásai fejezet |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 374873 |  | 43 |  |  |  |  |  | Központi Maradványelszámolási Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -2 400 000 000 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki |  |  | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I. n.év | II. n.év | III. n.év | IV. n.év |
+
+| Fejezetet irányító szerv | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  | 2 400 000 000 |  |  |  |  |  |  |  |  |  | 2 400 000 000 |  |  |
+
+| Pénzügyminisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
