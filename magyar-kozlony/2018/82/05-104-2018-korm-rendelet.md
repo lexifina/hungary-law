@@ -1,0 +1,168 @@
+# A Kormány 104/2018. (VI. 11.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 82. szám, 2018. június 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8b92f8bc060b2adb0ce729aa7a048a508a1fcb6a/dokumentumok/868548b9f8f681d05d84070e88459112d4802402/letoltes)
+
+---
+
+A Kormány 104/2018. (VI. 11.) Korm. rendelete
+az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól
+szóló 92/2010. (III. 31.) Korm. rendelet, valamint a kormányzati célú hálózatokról szóló
+346/2010. (XII. 28.) Korm. rendelet módosításáról
+A Kormány
+a minősített adat védelméről szóló 2009. évi CLV. törvény 37. § e) pontjában kapott felhatalmazás alapján,
+a 2. alcím tekintetében az elektronikus hírközlésről szóló 2003. évi C. törvény 182. § (1) bekezdés d) pontjában kapott
+felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól
+szóló 92/2010. (III. 31.) Korm. rendelet módosítása
+1. §
+Az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló
+92/2010. (III. 31.) Korm. rendelet (a továbbiakban: R.) 2. alcím címe helyébe a következő cím lép:
+„A telephely biztonsági tanúsítvány kiadására irányuló eljárás általános szabályai”
+
+2. §
+Az R. 3. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) A minősített adatot kezelő szerv vagy a gazdálkodó szervezet a„Szigorúan titkos!”, a„Titkos!”, illetve a„Bizalmas!”
+minősítési szintű adatok kezelésére jogosító telephely biztonsági tanúsítvány kiadására irányuló eljárás
+megindítását az 1. mellékletben meghatározott adattartalommal a Nemzeti Biztonsági Felügyelet (a továbbiakban:
+NBF) elnöke által rendszeresített és az NBF-et irányító miniszter által vezetett minisztérium honlapján közzétett
+Cég-adatlap megküldésével kezdeményezi az NBF-nél. Telephely biztonsági tanúsítvány kizárólag olyan gazdálkodó
+szervezetnek adható ki, amelynek alapítása és a Cég-adatlap benyújtása között legalább két év eltelt.
+(2) A minősített adatot kezelő szerv vagy a gazdálkodó szervezet – ha a gazdálkodó szervezet nyilatkozik arról,
+hogy nem kívánja megteremteni a minősített adat fizikai, adminisztratív és elektronikus biztonsági feltételeit –
+a „Szigorúan titkos!”, a „Titkos!”, illetve a „Bizalmas!” minősítési szintű adatok kezelésére jogosító egyszerűsített
+telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását a 2. mellékletben meghatározott
+adattartalommal az NBF elnöke által rendszeresített és az NBF-et irányító miniszter által vezetett minisztérium
+honlapján közzétett Cég-adatlap megküldésével kezdeményezi az NBF-nél. Telephely biztonsági tanúsítvány
+kizárólag olyan gazdálkodó szervezetnek adható ki, amelynek alapítása és a Cég-adatlap benyújtása között legalább
+két év eltelt.”
+3. § (1) Az R. 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az I. vagy II. osztályú biztonsági terület, továbbá az elektronikus adatkezelő rendszer kialakítása csak
+jóváhagyott helyszínrajz és a rendszerre vonatkozó jóváhagyott dokumentáció alapján kezdhető meg. A gazdálkodó
+szervezet a jóváhagyás kézhezvételétől számított 15 napon belül alakítja ki az I. vagy II. osztályú biztonsági területet,
+valamint a rendszert. Egyéb tekintetben a fizikai, adminisztratív és elektronikus biztonsági feltételek kialakítására
+vonatkozó eljárás a Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről
+szóló kormányrendeletben és a minősített adat elektronikus biztonságának, valamint a rejtjeltevékenység
+engedélyezésének és hatósági felügyeletének részletes szabályairól szóló kormányrendeletben foglaltak szerint
+történik. A gazdálkodó szervezet az Engedély és a Rendszerengedély kiadásához szükséges dokumentumokat
+a jóváhagyott helyszínrajz és a rendszerre vonatkozó jóváhagyott dokumentáció kézhezvételét követő 15 napon
+belül küldi meg az NBF-nek.”
+(2) Az R. 5. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) Az NBF eljárásában két ízben van helye hiánypótlásnak.”
+4. §
+Az R. 6. §-a a következő (7) és (8) bekezdéssel egészül ki:
+„(7) Ha a telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet a továbbiakban nem kívánja
+fenntartani a minősített adat fizikai, adminisztratív és elektronikus biztonsági feltételeit, a gazdálkodó szervezet
+kérelmére az NBF a telephely biztonsági tanúsítványt, valamint a kiadott Engedélyt és Rendszerengedélyt
+visszavonja, és a 6. § (4) bekezdésében meghatározott feltételek teljesülése esetén – ha a gazdálkodó szervezet
+cégellenőrzésére a kérelem benyújtását megelőző egy éven belül került sor – a gazdálkodó szervezet részére
+egyszerűsített telephely biztonsági tanúsítványt ad ki.
+(8) Ha a telephely biztonsági tanúsítvány, valamint az egyszerűsített telephely biztonsági tanúsítvány kiadására
+irányuló eljárás megindításakor a gazdálkodó szervezet rendelkezik a kérelem benyújtását megelőző egy éven
+belül elvégzett kockázatmentes cégellenőrzéssel, az NBF az eljárás megindításakor a cégellenőrzés elrendelését
+mellőzheti.”
+5. § (1) Az R. 7. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+(A telephely biztonsági tanúsítvány érvényessége alatt)
+„g) a biztonsági vezető intézkedik a nemzeti minősített adatok kezelésére jogosító telephely biztonsági tanúsítvány
+kiállítását követő minden ötödik évben a kiállítás hónapjának utolsó napjáig az ismételten kitöltött Cég-adatlap
+NBF részére történő megküldéséről, amely alapján az NBF elnökének megkeresésére a nemzetbiztonsági szolgálat
+elvégzi a gazdálkodó szervezet újbóli cégellenőrzését.”
+(2) Az R. 7. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(Az egyszerűsített telephely biztonsági tanúsítvány érvényessége alatt)
+„e) a biztonsági vezető intézkedik a nemzeti minősített adatok kezelésére jogosító egyszerűsített telephely
+biztonsági tanúsítvány kiállítását követő minden ötödik évben a kiállítás hónapjának utolsó napjáig az ismételten
+kitöltött Cég-adatlap NBF részére történő megküldéséről, amely alapján az NBF elnökének megkeresésére
+a nemzetbiztonsági szolgálat elvégzi a gazdálkodó szervezet újbóli cégellenőrzését.”
+
+(3) Az R. 7. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Ha a biztonsági vezető az (1)–(3) bekezdésben foglalt kötelezettségeinek nem tesz eleget, az NBF
+kezdeményezheti a biztonsági vezető kinevezésének visszavonását.”
+6. §
+Az R. 10. §-a helyébe a következő rendelkezés lép:
+„10. § (1) Az NBF a telephely biztonsági tanúsítványt, valamint a telephely biztonsági tanúsítvány kiadására irányuló
+eljárás során kiadott Engedélyt és Rendszerengedélyt visszavonja, ha
+a) a 6. § (2) bekezdésében meghatározott feltételek már nem állnak fenn,
+b) a gazdálkodó szervezet a 7. § (1) bekezdésében meghatározott biztonsági követelményeket nem teljesíti,
+c) a cégellenőrzésről készült szakvélemény kockázati tényezőt tartalmaz,
+d) a 7. § (3) bekezdés a) pontja, valamint a 12. § (3) bekezdése szerinti bejelentési kötelezettségének a gazdálkodó
+szervezet biztonsági vezetője nem tesz eleget, vagy
+e) a gazdálkodó szervezet 7. § (1) bekezdés g) pontja szerint kezdeményezett cégellenőrzése nem történt meg.
+(2) Az NBF az egyszerűsített telephely biztonsági tanúsítványt visszavonja, ha
+a) a 6. § (4) bekezdésében meghatározott feltételek már nem állnak fenn,
+b) a gazdálkodó szervezet a 7. § (2) bekezdésében meghatározott biztonsági követelményeket nem teljesíti,
+c) a cégellenőrzésről készült szakvélemény kockázati tényezőt tartalmaz,
+d) a 7. § (3) bekezdés a) pontja, valamint a 12. § (3) bekezdése szerinti bejelentési kötelezettségének a gazdálkodó
+szervezet biztonsági vezetője nem tesz eleget, vagy
+e) a gazdálkodó szervezet 7. § (2) bekezdés e) pontja szerint kezdeményezett cégellenőrzése nem történt meg.”
+7. §
+Az R. 2/A. alcíme helyébe a következő alcím lép:
+„2/A. A telephely biztonsági tanúsítvány kiadására irányuló eljárás speciális szabályai
+10/A. § (1) A Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel
+kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény (a továbbiakban: 2015. évi VII. törvény)
+3. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvány esetében – az ezen alcím szerinti eltérésekkel –
+e rendelet egyszerűsített telephely biztonsági tanúsítványra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+(2) Az (1) bekezdés szerinti telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását a gazdálkodó
+szervezet a 2. mellékletben meghatározott adattartalommal az NBF elnöke által rendszeresített és az NBF-et irányító
+miniszter által vezetett minisztérium honlapján közzétett Cég-adatlap megküldésével kezdeményezi az NBF-nél.
+Az (1) bekezdés szerinti telephely biztonsági tanúsítvány kizárólag olyan gazdálkodó szervezetnek adható ki,
+amelynek alapítása és a Cég-adatlap benyújtása között legalább két év eltelt.
+(3) Az (1) bekezdésben foglalt eljárás alapján kiadott telephely biztonsági tanúsítvány alapján
+a) a gazdálkodó szervezet székhelyén, telephelyén és fióktelepén minősített adatot nem kezelhet,
+b) a telephely biztonsági tanúsítvány a gazdálkodó szervezetet a 2015. évi VII. törvény 3. § (1) bekezdésében
+meghatározott szerződés, illetve alvállalkozói szerződés (a továbbiakban együtt: végrehajtási szerződés)
+megkötésére feljogosítja.
+10/B. § (1) A 10/A. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvány érvényessége alatt
+a) a gazdálkodó szervezet a 7. § (2) bekezdés a), b) és d) pontja, valamint a 7. § (3) bekezdésében foglaltak szerint jár el,
+b) a gazdálkodó szervezet vezetője kötelezi magát arra, hogy végrehajtási szerződést csak olyan gazdálkodó
+szervezettel köt, amely a 10/A. § (1) bekezdésében meghatározott érvényes telephely biztonsági tanúsítvánnyal
+rendelkezik,
+c) a biztonsági vezető intézkedik a 10/A. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvány
+kiállítását követő minden ötödik évben a kiállítás hónapjának utolsó napjáig az ismételten kitöltött Cég-adatlap
+NBF részére történő megküldéséről, amely alapján az NBF elnökének megkeresésére a nemzetbiztonsági szolgálat
+elvégzi a gazdálkodó szervezet újbóli cégellenőrzését.
+(2) A 10/A. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet
+az (1) bekezdés c) pontja szerinti kötelezettségének, ha
+a) telephely biztonsági tanúsítvánnyal is rendelkezik, akkor a 7. § (1) bekezdés g) pontjában,
+b) egyszerűsített telephely biztonsági tanúsítvánnyal is rendelkezik, akkor a 7. § (2) bekezdés e) pontjában
+foglaltak teljesítésével tesz eleget.
+(3) Ha a gazdálkodó szervezet rendelkezik érvényes telephely biztonsági tanúsítvánnyal, illetve egyszerűsített
+telephely biztonsági tanúsítvánnyal, a 6. § (2) és (4) bekezdésében meghatározott feltételek teljesülése esetén – ha
+a gazdálkodó szervezet cégellenőrzésére a kérelem benyújtását megelőző egy éven belül került sor – a gazdálkodó
+
+szervezet kérelmére az NBF új eljárás lefolytatása nélkül kiadja a 10/A. § (1) bekezdése szerinti telephely biztonsági
+tanúsítványt.
+(4) Végrehajtási szerződés megkötését megelőzően a szerződés szerinti megbízó a 10/A. § (1) bekezdésében
+meghatározott telephely biztonsági tanúsítvány meglétéről igazolás kiállítását kéri az NBF-től.
+(5) Az NBF a 10/A. § (1) bekezdésben meghatározott telephely biztonsági tanúsítványt visszavonja, ha
+a) a 6. § (4) bekezdésében meghatározott feltételek már nem állnak fenn,
+b) a gazdálkodó szervezet az (1) bekezdésben meghatározott biztonsági követelményeket nem teljesíti,
+c) a cégellenőrzésről készült szakvélemény kockázati tényezőt tartalmaz,
+d) a 7. § (3) bekezdés a) pontja szerinti bejelentési kötelezettségének a gazdálkodó szervezet biztonsági vezetője
+nem tesz eleget vagy
+e) a gazdálkodó szervezet (1) bekezdés c) pontja szerint kezdeményezett cégellenőrzése nem történt meg.”
+8. §
+Az R. a következő 16. §-sal egészül ki:
+„16. § A 2013. január 1-jét megelőzően kiadott telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet
+– a 7. § (1) bekezdés g) pontjában foglaltakra figyelemmel – 2018. december 31. napjáig megküldi az NBF részére
+a Cég-adatlapot a nemzetbiztonsági szolgálat által lefolytatandó ismételt cégellenőrzés érdekében.”
+9. §
+Az R.
+a) 5. § (2) bekezdésében a„15”szövegrész helyébe az„5”szöveg,
+b) 7. § (3) bekezdésében az „Az iparbiztonsági ellenőrzés folyamán” szövegrész helyébe az „A telephely
+biztonsági tanúsítvány kiadására irányuló eljárás során”szöveg
+lép.
+10. §
+Hatályát veszti az R.
+a) 3/A. §-a,
+b) 4. § (2) bekezdése.
+2. A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet módosítása
+11. §
+A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 34. § (2) bekezdésében
+a„2017. december 31-ig”szövegrész helyébe a„2018. december 31-ig”szöveg lép.
+3. Záró rendelkezések
+12. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
