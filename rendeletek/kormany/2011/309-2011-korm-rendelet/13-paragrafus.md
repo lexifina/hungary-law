@@ -1,0 +1,1 @@
+## rendeletben állapítsa meg.

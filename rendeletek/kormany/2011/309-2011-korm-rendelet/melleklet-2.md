@@ -138,7 +138,7 @@
 
 2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^23]
 
-A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek
+## A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek
 
 1. Agrárminisztérium
 

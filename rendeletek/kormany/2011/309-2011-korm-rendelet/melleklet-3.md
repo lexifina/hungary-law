@@ -1,6 +1,6 @@
 3. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^25]
 
-Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kötelezően biztosítandó központosított alkalmazás-üzemeltetési és e rendszereket érintő alkalmazás-fejlesztési szolgáltatások
+## Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kötelezően biztosítandó központosított alkalmazás-üzemeltetési és e rendszereket érintő alkalmazás-fejlesztési szolgáltatások
 
 1. az önkormányzati ASP rendszer keretében működő gazdálkodási szakrendszer
 

@@ -1,6 +1,6 @@
 2/A. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^24]
 
-A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervekre vonatkozó szolgáltatási kivételek
+## A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervekre vonatkozó szolgáltatási kivételek
 
 1. A Miniszterelnökség
 

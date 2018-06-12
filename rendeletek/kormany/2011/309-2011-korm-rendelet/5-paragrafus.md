@@ -8,9 +8,9 @@ a) javaslatot tesz a központi szolgáltatási megállapodás tartalmára,
 
 b) rendszeresen vizsgálja a központi szolgáltatási megállapodásban foglaltak teljesülését, és erről jelentést készít a miniszter részére.
 
-(3)[^7] A központi szolgáltatási megállapodás a Munkacsoportnak a kormányzati tevékenység összehangolásáért felelős miniszter által kijelölt tagja egyetértésével hozható létre.
+(3)[^7] A központi szolgáltatási megállapodás a Munkacsoportnak az általános politikai koordinációért felelős miniszter által kijelölt tagja egyetértésével hozható létre.
 
 (4) A központi szolgáltatási megállapodás rögzíti az igénybe vételre kötelezett szervezet részvételének módját és feltételeit a központi szolgáltatási megállapodásban foglalt informatikai biztonsági követelmények teljesülésének ellenőrzésében.
 
 [^6]: A 4. § a 300/2012. (X. 26.) Korm. rendelet 9. §-ával megállapított, a 306/2015. (X. 26.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^7]: Az 5. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 600. §-ával megállapított szöveg.
+[^7]: Az 5. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 600. §-ával megállapított, a 101/2018. (VI. 11.) Korm. rendelet 13. §-a szerint módosított szöveg.
