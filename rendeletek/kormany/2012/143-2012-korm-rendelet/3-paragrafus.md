@@ -2,4 +2,6 @@
 
 (2) A helyi önkormányzatokért felelős miniszter legkésőbb tárgyév május 15-éig megküldi a javaslattal kapcsolatos írásbeli véleményét a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszternek.
 
-(3) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter legkésőbb tárgyév június 1-jéig felterjeszti a miniszterelnöknek a címzetes főjegyzői cím adományozására vonatkozó javaslatát a helyi önkormányzatokért felelős miniszter véleményével együtt.
+(3)[^1] A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter legkésőbb tárgyév június 1-jéig felterjeszti – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – a miniszterelnöknek a címzetes főjegyzői cím adományozására vonatkozó javaslatát a helyi önkormányzatokért felelős miniszter véleményével együtt.
+
+[^1]: A 3. § (3) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
