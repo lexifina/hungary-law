@@ -1,4 +1,4 @@
-6. §[^31] (1) A szakpolitikai felelős a kedvezményezett által a projekt keretében megvalósítani tervezett tevékenységekről, feladatokról, a végrehajtást szolgáló beszerzésekről, a projekt céljáról, hatásairól, valamint a megvalósítás és a finanszírozás tervezett ütemezéséről, a szükséges forrásigényről, az elszámolni kívánt költségekről a kedvezményezettel egyeztetett előterjesztést nyújt be a Bizottság részére.
+6. §[^33] (1) A szakpolitikai felelős a kedvezményezett által a projekt keretében megvalósítani tervezett tevékenységekről, feladatokról, a végrehajtást szolgáló beszerzésekről, a projekt céljáról, hatásairól, valamint a megvalósítás és a finanszírozás tervezett ütemezéséről, a szükséges forrásigényről, az elszámolni kívánt költségekről a kedvezményezettel egyeztetett előterjesztést nyújt be a Bizottság részére.
 
 (2) Az előterjesztéshez csatolni kell
 
@@ -26,4 +26,4 @@ d) a saját és a Kormány más érintett tagjának az előterjesztésre vonatko
 
 (5) E §-t kell alkalmazni a Kormány részére benyújtásra kerülő előterjesztésekre is azzal, hogy az MVP támogatásról a Kormány a szakpolitikai felelős és a miniszter közös előterjesztése alapján dönt.
 
-[^31]: A 6. § a 436/2017. (XII. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^33]: A 6. § a 436/2017. (XII. 22.) Korm. rendelet 12. §-ával megállapított szöveg.

@@ -54,7 +54,7 @@
 
 ## aláírás
 
-2. melléklet a 250/2016. (VIII. 24.) Korm. rendelethez[^108]
+2. melléklet a 250/2016. (VIII. 24.) Korm. rendelethez[^110]
 
 A beszámoló – Ávr.-ben meghatározottakon túli – tartalmi és formai követelményei
 
@@ -72,4 +72,4 @@ A beszámoló – Ávr.-ben meghatározottakon túli – tartalmi és formai kö
 
 2.2. A szakmai beszámolónak tartalmaznia kell továbbá a támogatott tevékenység megvalósításához szükséges hatósági engedélyek másolatát, ha a tevékenység engedélyköteles.
 
-[^108]: A 2. mellékletet a 390/2016. (XII. 5) Korm. rendelet 10. §-a iktatta be, szövege a 436/2017. (XII. 22.) Korm. rendelet 25. § b) pontjával megállapított szöveg.
+[^110]: A 2. mellékletet a 390/2016. (XII. 5) Korm. rendelet 10. §-a iktatta be, szövege a 436/2017. (XII. 22.) Korm. rendelet 25. § b) pontjával megállapított szöveg.

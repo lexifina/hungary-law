@@ -1,12 +1,12 @@
-## 8/A. §[^44] A kedvezményezett köteles az MVP támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
+## 8/A. §[^46] A kedvezményezett köteles az MVP támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
 
-8/B. §[^45] (1)[^46] Nem ítélhető meg a 8/F–8/Z. § szerinti támogatás – a 8/T. § szerinti támogatás kivételével –
+8/B. §[^47] (1)[^48] Nem ítélhető meg a 8/F–8/Z. § szerinti támogatás – a 8/T. § szerinti támogatás kivételével –
 
 a) azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatának nem tett eleget,
 
 b) nehéz helyzetben lévő vállalkozás részére.
 
-(2)[^47] A 8/F–8/Z. § alapján nem ítélhető meg
+(2)[^49] A 8/F–8/Z. § alapján nem ítélhető meg
 
 a) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) meghatározott halászati és akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez,
 
@@ -24,10 +24,10 @@ e) támogatás, ha azt import áru helyett hazai áru használatától teszik f�
 
 f) támogatás olyan feltétellel, amely az európai uniós jog megsértését eredményezi,
 
-g)[^48] 8/F–8/S. § és 8/W–8/Z. § szerinti támogatás a 2010/787/EU tanácsi határozat hatálya alá tartozó versenyképtelen szénbányák részére.
+g)[^50] 8/F–8/S. § és 8/W–8/Z. § szerinti támogatás a 2010/787/EU tanácsi határozat hatálya alá tartozó versenyképtelen szénbányák részére.
 
-[^44]: A 8/A. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be, szövege a 436/2017. (XII. 22.) Korm. rendelet 26. § 10. pontja szerint módosított szöveg.
-[^45]: A 8/B. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
-[^46]: A 8/B. § (1) bekezdés nyitó szövegrésze a 436/2017. (XII. 22.) Korm. rendelet 26. § 11. pontja szerint módosított szöveg.
-[^47]: A 8/B. § (2) bekezdés nyitó szövegrésze a 436/2017. (XII. 22.) Korm. rendelet 26. § 11. pontja szerint módosított szöveg.
-[^48]: A 8/B. § (2) bekezdés g) pontja a 436/2017. (XII. 22.) Korm. rendelet 26. § 12. pontja szerint módosított szöveg.
+[^46]: A 8/A. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be, szövege a 436/2017. (XII. 22.) Korm. rendelet 26. § 10. pontja szerint módosított szöveg.
+[^47]: A 8/B. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^48]: A 8/B. § (1) bekezdés nyitó szövegrésze a 436/2017. (XII. 22.) Korm. rendelet 26. § 11. pontja szerint módosított szöveg.
+[^49]: A 8/B. § (2) bekezdés nyitó szövegrésze a 436/2017. (XII. 22.) Korm. rendelet 26. § 11. pontja szerint módosított szöveg.
+[^50]: A 8/B. § (2) bekezdés g) pontja a 436/2017. (XII. 22.) Korm. rendelet 26. § 12. pontja szerint módosított szöveg.
