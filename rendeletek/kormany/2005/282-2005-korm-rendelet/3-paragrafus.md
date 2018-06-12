@@ -4,7 +4,7 @@
 
 (3) A külföldi testület elnöke és tagjai e megbízatásuk keretében kifejtett tevékenységük ellátásáért tiszteletdíjban részesíthetők, továbbá igényt tarthatnak a testületi munkavégzéssel és a díj adományozásával összefüggően felmerült igazolt utazási és szállásköltség megtérítésére, továbbá az állami vezetőket az ideiglenes külszolgálat teljesítése során megillető napidíj összegének megfelelő juttatásra.
 
-(4)[^4] A külföldi testület működési feltételeiről, valamint a (3) bekezdés szerinti költségek elszámolásáról és kifizetéséről külföldön a Magyar Köztársaság Európai Unió mellett működő Állandó Képviselete (a továbbiakban: Állandó Képviselet), belföldön a kormányzati tevékenység összehangolásáért felelős miniszter gondoskodik.
+(4)[^4] A külföldi testület működési feltételeiről, valamint a (3) bekezdés szerinti költségek elszámolásáról és kifizetéséről külföldön a Magyar Köztársaság Európai Unió mellett működő Állandó Képviselete (a továbbiakban: Állandó Képviselet), belföldön az európai uniós ügyek koordinációjáért felelős miniszter gondoskodik.
 
 [^3]: A 3. § a 299/2008. (XII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 3. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 305. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (4) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 7. §-a szerint módosított szöveg.
