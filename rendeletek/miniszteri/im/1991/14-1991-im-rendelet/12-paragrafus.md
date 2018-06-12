@@ -4,7 +4,7 @@
 
 ## 12. §
 
-(1)[^6] A tevékenységre fordított időhöz igazodó munkadíj összege minden megkezdett óráért 1500 Ft.
+(1)[^7] A tevékenységre fordított időhöz igazodó munkadíj összege minden megkezdett óráért 1500 Ft.
 
 (2) Az (1) bekezdés szerint megállapítható munkadíjnak
 
@@ -16,4 +16,4 @@ c) a négyszerese számítható fel jognyilatkozat, végrendelet okiratba foglal
 
 d) az ötszöröse számítható fel két- vagy többoldalú szerződés okiratba foglalásáért.
 
-[^6]: A 12. § (1) bekezdése a 9/2001. (VI. 8.) IM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 12. § (1) bekezdése a 9/2001. (VI. 8.) IM rendelet 2. §-ával megállapított szöveg.

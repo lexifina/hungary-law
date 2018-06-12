@@ -1,4 +1,4 @@
-## 9. §[^3]
+## 9. §[^4]
 
 ## Az ügyértékhez igazodó munkadíj összege:
 
@@ -38,10 +38,10 @@
 
 (2) Egyoldalú jogügylet vagy jognyilatkozat okiratba foglalásáért a 9. § szerinti munkadíj fele jár.
 
-(3)[^4] Az (1) és (2) bekezdésben nem említett közjegyzői tevékenységért – eltérő rendelkezés hiányában – a 9. § szerinti munkadíj negyedrésze, de legalább 2000 Ft jár.
+(3)[^5] Az (1) és (2) bekezdésben nem említett közjegyzői tevékenységért – eltérő rendelkezés hiányában – a 9. § szerinti munkadíj negyedrésze, de legalább 2000 Ft jár.
 
-(4)[^5] A jelzálog-hitelintézetek által kötött jelzálog-hitelszerződések – kivéve a 30/A. §-ban foglalt ügyleteket – közokiratba foglalásáért a 9. § szerinti munkadíj negyedrésze jár azzal, hogy a munkadíj megállapítása során a 7. §-ban foglalt rendelkezések nem alkalmazhatóak.
+(4)[^6] A jelzálog-hitelintézetek által kötött jelzálog-hitelszerződések – kivéve a 30/A. §-ban foglalt ügyleteket – közokiratba foglalásáért a 9. § szerinti munkadíj negyedrésze jár azzal, hogy a munkadíj megállapítása során a 7. §-ban foglalt rendelkezések nem alkalmazhatóak.
 
-[^3]: A 9. § a 12/1996. (XII. 13.) IM rendelet 1. §-a szerint módosított szöveg.
-[^4]: A 10. § (3) bekezdése a 9/2001. (VI. 8.) IM rendelet 1. §-ával megállapított szöveg.
-[^5]: A 10. § (4) bekezdése a 39/2003. (XII. 19.) IM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 5. §-ának (1) bekezdése alapján rendelkezéseit a 2004. január 1. napján folyamatban lévő ügyekben is alkalmazni kell.
+[^4]: A 9. § a 12/1996. (XII. 13.) IM rendelet 1. §-a szerint módosított szöveg.
+[^5]: A 10. § (3) bekezdése a 9/2001. (VI. 8.) IM rendelet 1. §-ával megállapított szöveg.
+[^6]: A 10. § (4) bekezdése a 39/2003. (XII. 19.) IM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 5. §-ának (1) bekezdése alapján rendelkezéseit a 2004. január 1. napján folyamatban lévő ügyekben is alkalmazni kell.

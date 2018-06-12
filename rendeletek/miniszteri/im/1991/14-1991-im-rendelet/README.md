@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-14-20-0
 | 2015-02-01 | 1991-14-20-06.19 | 20/2014. (XII. 23.) IM rendelet |
 | 2017-08-12 | 1991-14-20-06.20 | 10/2017. (VIII. 1.) IM rendelet |
 | 2018-02-01 | 1991-14-20-06.21 | 33/2017. (XII. 27.) IM rendelet |
+| 2018-06-12 | 1991-14-20-06.22 | 22/2018. (VIII. 23.) IM rendelet |
