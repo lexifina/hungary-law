@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-492-20-
 | 2016-06-09 | 2015-492-20-22.2 | 133/2016. (VI. 8.) Korm. rendelet |
 | 2016-08-01 | 2015-492-20-22.3 | 225/2016. (VII. 29.) Korm. rendelet |
 | 2017-02-14 | 2015-492-20-22.4 | 29/2017. (II. 13.) Korm. rendelet |
+| 2018-06-12 | 2015-492-20-22.5 | 101/2018. (VI. 11.) Korm. rendelet |

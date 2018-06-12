@@ -8,7 +8,7 @@ b) az államháztartásról szóló törvény értelmében a Kormány irányít�
 
 c) a Kormány irányítása alatt nem álló szervezet esetében ahhoz a miniszterhez, akinek a szakpolitikai vagy ágazati feladatkörébe tartozik a szervezet által ellátott közfeladat,
 
-d) az a) és c) alpontok szerinti feladatkörrel rendelkező miniszter hiányában a kormányzati tevékenység összehangolásáért felelő miniszterhez
+d)[^2] az a) és c) alpontok szerinti feladatkörrel rendelkező miniszter hiányában a közbeszerzésekért felelő miniszterhez
 
 ## [a továbbiakban az a)–d) pontban felsorolt miniszterek együtt: miniszter] kell benyújtani.
 
@@ -31,3 +31,5 @@ f) a (2) bekezdés szerinti javaslat és az ajánlatkérő által adott részlet
 (4) Az atomenergia békés célú alkalmazásával összefüggő nukleáris biztonságot érintő beszerzések esetében a kérelemhez az Országos Atomenergia Hivatal szakmai véleményét is csatolni kell.
 
 (5) A (3) és (4) bekezdés szerinti szakmai állásfoglalást, illetve véleményt az ajánlatkérő erre irányuló megkeresésének kézhezvételétől számított 8 napon belül kell megadni.
+
+[^2]: A 2. § (1) bekezdés d) pontja a 101/2018. (VI. 11.) Korm. rendelet 34. §-a szerint módosított szöveg.
