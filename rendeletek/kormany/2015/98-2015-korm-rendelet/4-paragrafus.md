@@ -12,7 +12,7 @@ c) ellenőrzi az ösztöndíjas által
 
 ca) elkészített havi jelentést,
 
-cb)[^2] a befogadó intézmény részére megküldött szakmai beszámolót,
+cb)[^4] a befogadó intézmény részére megküldött szakmai beszámolót,
 
 d) beszámolót készít a miniszter számára az ösztöndíjprogram végrehajtásáról,
 
@@ -20,4 +20,4 @@ e) végzi az ösztöndíjasok és a mentorok tevékenységével kapcsolatos fela
 
 f) ellátja az ösztöndíjas szerződés megkötésével, módosításával, megszüntetésével kapcsolatos feladatokat.
 
-[^2]: A 4. § c) pont cb) alpontja a 12/2016. (II. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 4. § c) pont cb) alpontja a 12/2016. (II. 9.) Korm. rendelet 2. §-ával megállapított szöveg.

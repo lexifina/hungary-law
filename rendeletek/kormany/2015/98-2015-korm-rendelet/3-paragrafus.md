@@ -24,8 +24,8 @@ d) megállapítja
 
 da) az ösztöndíjprogramba felvehető ösztöndíjasok számát,
 
-db)[^1] az ösztöndíj havi összegét,
+db)[^3] az ösztöndíj havi összegét,
 
 e) dönt a pályázat eredményéről.
 
-[^1]: A 3. § d) pont db) alpontja a 12/2016. (II. 9.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § d) pont db) alpontja a 12/2016. (II. 9.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

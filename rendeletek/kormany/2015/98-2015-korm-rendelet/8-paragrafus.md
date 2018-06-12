@@ -10,9 +10,9 @@ a) a felek nevét, illetve megnevezését és a szerződés megkötése szempont
 
 b) a Szerződés keletkezésének és megszűnésének időpontját,
 
-c)[^3] az ösztöndíj havi összegét, valamint annak kifizetése időpontját, módját,
+c)[^5] az ösztöndíj havi összegét, valamint annak kifizetése időpontját, módját,
 
-d)[^4]
+d)[^6]
 
 e) a célország megnevezését,
 
@@ -22,5 +22,5 @@ g) az ösztöndíjasnak a befogadó intézmény számára adott engedélyét az 
 
 h) a Szerződés megszűnésére, illetve megszüntetésére vonatkozó szabályokat.
 
-[^3]: A 8. § (4) bekezdés c) pontja a 12/2016. (II. 9.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^4]: A 8. § (4) bekezdés d) pontját a 12/2016. (II. 9.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
+[^5]: A 8. § (4) bekezdés c) pontja a 12/2016. (II. 9.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^6]: A 8. § (4) bekezdés d) pontját a 12/2016. (II. 9.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
