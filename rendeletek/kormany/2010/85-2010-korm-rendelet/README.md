@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-85-20-2
 | --- | --- | --- |
 | 2010-03-26 | 2010-85-20-22.1 | 85/2010. (III. 25.) Korm. rendelet |
 | 2014-03-15 | 2010-85-20-22.2 | 56/2014. (III. 4.) Korm. rendelet |
+| 2018-06-12 | 2010-85-20-22.3 | 56/2014. (III. 4.) Korm. rendelet |
