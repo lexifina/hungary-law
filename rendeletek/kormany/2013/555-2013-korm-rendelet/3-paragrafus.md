@@ -1,4 +1,4 @@
-3. § (1)[^5] A minisztérium
+3. § (1)[^6] A minisztérium
 
 a) kidolgozza és a miniszter jóváhagyását követően közzéteszi a pályázati felhívást és az Ösztöndíjprogram működési szabályzatát a Hivatalos Értesítőben,
 
@@ -26,19 +26,19 @@ i) monitoring tevékenységet végez az Ösztöndíjprogram hallgató általi te
 
 j) gondoskodik az Ösztöndíjprogram részét képező képzések megszervezéséről,
 
-k)[^6] ellátja a hallgatók ösztöndíjas szerződésének megkötésével, módosításával, megszüntetésével kapcsolatos feladatokat,
+k)[^7] ellátja a hallgatók ösztöndíjas szerződésének megkötésével, módosításával, megszüntetésével kapcsolatos feladatokat,
 
-l)[^7] ellátja az Ösztöndíjprogrammal kapcsolatos pénzügyi-ügyviteli feladatokat,
+l)[^8] ellátja az Ösztöndíjprogrammal kapcsolatos pénzügyi-ügyviteli feladatokat,
 
-m)[^8] ellátja az Ösztöndíjprogram megvalósítása kapcsán felmerülő rendezvényszervezési feladatokat.
+m)[^9] ellátja az Ösztöndíjprogram megvalósítása kapcsán felmerülő rendezvényszervezési feladatokat.
 
-(2)[^9] Az Ösztöndíjprogrammal kapcsolatos, az (1) bekezdés b), c) és e) pontjaiban foglalt feladatokban a minisztérium együttműködik a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt szervezettel.
+(2)[^10] Az Ösztöndíjprogrammal kapcsolatos, az (1) bekezdés b), c) és e) pontjaiban foglalt feladatokban a minisztérium együttműködik a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt szervezettel.
 
-(3)[^10]
+(3)[^11]
 
-[^5]: A 3. § (1) bekezdése a 377/2014. (XII. 31.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^6]: A 3. § (1) bekezdés k) pontját a 251/2016. (VIII. 24.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^7]: A 3. § (1) bekezdés l) pontját a 251/2016. (VIII. 24.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^8]: A 3. § (1) bekezdés m) pontját a 251/2016. (VIII. 24.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^9]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 797. §-a, a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^10]: A 3. § (3) bekezdését a 377/2014. (XII. 31.) Korm. rendelet 20. § (3) bekezdése iktatta be, hatályon kívül helyezte a 251/2016. (VIII. 24.) Korm. rendelet 10. § (1) bekezdése.
+[^6]: A 3. § (1) bekezdése a 377/2014. (XII. 31.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. § (1) bekezdés k) pontját a 251/2016. (VIII. 24.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^8]: A 3. § (1) bekezdés l) pontját a 251/2016. (VIII. 24.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^9]: A 3. § (1) bekezdés m) pontját a 251/2016. (VIII. 24.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^10]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 797. §-a, a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^11]: A 3. § (3) bekezdését a 377/2014. (XII. 31.) Korm. rendelet 20. § (3) bekezdése iktatta be, hatályon kívül helyezte a 251/2016. (VIII. 24.) Korm. rendelet 10. § (1) bekezdése.
