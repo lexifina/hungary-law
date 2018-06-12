@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1084-30
 | 2017-12-29 | 2016-1084-30-22.28 | 1717/2016. (XII. 5.) Korm. határozat |
 | 2018-02-21 | 2016-1084-30-22.29 | 1323/2016. (VII. 1.) Korm. határozat |
 | 2018-03-14 | 2016-1084-30-22.30 | 1717/2016. (XII. 5.) Korm. határozat |
+| 2018-06-12 | 2016-1084-30-22.31 | 1625/2017. (IX. 11.) Korm. határozat |
