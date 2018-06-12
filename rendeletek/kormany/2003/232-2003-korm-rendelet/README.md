@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-232-20-
 | 2015-04-10 | 2003-232-20-22.12 | 299/2010. (XII. 23.) Korm. rendelet |
 | 2015-08-31 | 2003-232-20-22.13 | 215/2015. (VII. 31.) Korm. rendelet |
 | 2018-04-04 | 2003-232-20-22.14 | 60/2018. (III. 27.) Korm. rendelet |
+| 2018-06-12 | 2003-232-20-22.15 | 221/2014. (IX. 4.) Korm. rendelet |
