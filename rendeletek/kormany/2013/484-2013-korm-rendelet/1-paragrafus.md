@@ -1,6 +1,6 @@
 ## 1. Nemzeti Kiberbiztonsági Koordinációs Tanács
 
-1. § (1)[^1] A Nemzeti Kiberbiztonsági Koordinációs Tanács (a továbbiakban: Tanács) az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) 21. § (1) bekezdése szerinti elnökét (a továbbiakban: a Tanács elnöke) akadályoztatása esetén a kormányzati tevékenység összehangolásáért felelős miniszter által delegált kiberkoordinátor (a továbbiakban: kiberkoordinátor) helyettesíti.
+1. § (1)[^1] A Nemzeti Kiberbiztonsági Koordinációs Tanács (a továbbiakban: Tanács) az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) 21. § (1) bekezdése szerinti elnökét (a továbbiakban: a Tanács elnöke) akadályoztatása esetén az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter által delegált kiberkoordinátor (a továbbiakban: kiberkoordinátor) helyettesíti.
 
 (2) A Tanács tagjai:
 
@@ -44,7 +44,7 @@ f) a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke
 
 (6) A Tanács elnöke a Tanács munkájáról legalább félévente beszámol a miniszterelnöknek.
 
-[^1]: Az 1. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 787. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés a 101/2018. (VI. 11.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 787. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 787. § c) pontjával megállapított szöveg.
 [^4]: Az 1. § (2) bekezdés h) pontja a 221/2014. (IX. 4.) Korm. rendelet 787. § d) pontja szerint módosított szöveg.
