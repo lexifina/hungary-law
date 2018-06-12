@@ -1,4 +1,4 @@
-## 3. §[^1] E rendelet hatálya a Kormányra, a minisztériumokra, a kormányhivatalokra, a központi hivatalokra, a rendvédelmi szervekre és a fővárosi és megyei kormányhivatalokra terjed ki.
+## 3. §[^1] E rendelet hatálya a Kormányra, a minisztériumokra, a Miniszterelnöki Kormányirodára, a kormányhivatalokra, a központi hivatalokra, a rendvédelmi szervekre és a fővárosi és megyei kormányhivatalokra terjed ki.
 
 4. § (1) Ha törvény vagy az Országgyűlés normatív határozata alapján valamely stratégia, program vagy egyéb hasonló tartalmú dokumentum elkészítése az e rendelet hatálya alá tartozó szerv feladata, akkor a stratégia, program vagy egyéb hasonló tartalmú dokumentum előkészítésére, társadalmi véleményezésére, elfogadására, közzétételére, megvalósítására, nyomon követésére és értékelésére, valamint felülvizsgálatára is az e rendeletben meghatározott rendelkezéseket kell alkalmazni a törvényben vagy normatív határozatban foglaltakkal összhangban.
 
@@ -6,4 +6,4 @@
 
 (3) Az önálló szabályozó szerv vagy az autonóm államigazgatási szerv vezetőjének döntése alapján az általa vezetett szerv által elkészítendő stratégiára, programra vagy egyéb hasonló tartalmú dokumentumra is alkalmazni lehet az e rendeletben meghatározott, az egyes stratégiai tervdokumentumok elnevezésére, valamint a III. és IV. Fejezetben meghatározott tartalmi követelményekre vonatkozó rendelkezéseket.
 
-[^1]: A 3. § a 221/2014. (IX. 4.) Korm. rendelet 647. §-ával megállapított szöveg.
+[^1]: A 3. § a 221/2014. (IX. 4.) Korm. rendelet 647. §-ával megállapított, a 101/2018. (VI. 11.) Korm. rendelet 17. § (2) bekezdés a) pontja szerint módosított szöveg.

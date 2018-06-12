@@ -4,6 +4,6 @@
 
 (3) A miniszteri programot, illetve annak módosítását a miniszter a Kormány jóváhagyását követően teszi közé.
 
-(4)[^5] A 28. § c) pontja nem alkalmazandó a fővárosi és megyei kormányhivatalokra és a járási (fővárosi kerületi) hivatalokra a szakmai irányító miniszter által elfogadott miniszteri program tekintetében. A fővárosi és megyei kormányhivatalokra és a járási (fővárosi kerületi) hivatalokra vonatkozó működési és fejlesztési célokat a közigazgatás-szervezésért felelős miniszter által elfogadott miniszteri program tartalmazza.
+(4)[^8] A 28. § c) pontja nem alkalmazandó a fővárosi és megyei kormányhivatalokra és a járási (fővárosi kerületi) hivatalokra a szakmai irányító miniszter által elfogadott miniszteri program tekintetében. A fővárosi és megyei kormányhivatalokra és a járási (fővárosi kerületi) hivatalokra vonatkozó működési és fejlesztési célokat a közigazgatás-szervezésért felelős miniszter által elfogadott miniszteri program tartalmazza.
 
-[^5]: A 29. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 193. § (1) bekezdésével megállapított szöveg.
+[^8]: A 29. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 193. § (1) bekezdésével megállapított szöveg.

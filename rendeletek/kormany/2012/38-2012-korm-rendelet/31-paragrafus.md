@@ -8,4 +8,6 @@ c) az adott minisztériumot vezető miniszter fogadja el;
 
 d) elfogadását követően a minisztérium belső honlapján elérhetővé kell tenni; valamint
 
-e) nyomon követése során készített beszámolót a kormányzati tevékenység összehangolásáért felelős miniszternek a tárgyévet követő január 15-ig meg kell küldeni.
+e)[^9] nyomon követése során készített beszámolót a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszternek a tárgyévet követő január 15-ig meg kell küldeni.
+
+[^9]: A 31. § e) pontja a 101/2018. (VI. 11.) Korm. rendelet 17. § (2) bekezdés b) pontja szerint módosított szöveg.
