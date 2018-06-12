@@ -8,7 +8,7 @@
 
 (3) A minisztérium a hivatalos honlapján közzéteszi a nyilvántartásba vett együttes végrehajtási projekt megnevezését, valamint a projekt 2. melléklet 1.1., 1.2. és 5–7. pontjaiban szereplő adatait.
 
-(4)[^29] A miniszter a kérelem hiánytalan beérkezésétől számított 30 napon belül megküldi a Projektleírást az agrárpolitikáért felelős miniszternek, a gazdaságpolitikáért felelős miniszternek, a környezetvédelemért felelős miniszternek, a területfejlesztésért felelős miniszternek, a külpolitikáért felelős miniszternek, az államháztartásért felelős miniszternek és a kormányzati tevékenység összehangolásáért felelős miniszternek (a továbbiakban együtt: érintett miniszterek) 10 napos véleményezési határidővel. Amennyiben határidőben nem érkezik vélemény, azt megadottnak és egyetértőnek kell tekinteni.
+(4)[^29] A miniszter a kérelem hiánytalan beérkezésétől számított 30 napon belül megküldi a Projektleírást az agrárpolitikáért felelős miniszternek, a gazdaságpolitikáért felelős miniszternek, a környezetvédelemért felelős miniszternek, a területfejlesztésért felelős miniszternek, a külpolitikáért felelős miniszternek, az államháztartásért felelős miniszternek (a továbbiakban együtt: érintett miniszterek) 10 napos véleményezési határidővel. Amennyiben határidőben nem érkezik vélemény, azt megadottnak és egyetértőnek kell tekinteni.
 
 (5) A miniszter – az érintett miniszterek véleményének figyelembevételével – a kérelem hiánytalan benyújtásától számított 45 napon belül a Projektleírás alapján támogató nyilatkozatot (a továbbiakban: Támogató Nyilatkozat) ad ki az együttes végrehajtási projektre, vagy elutasítja azt.
 
@@ -57,7 +57,7 @@ c) a Nemzeti Környezetvédelmi Programmal, a Nemzeti Éghajlatváltozási Strat
 [^26]: A 9. § a 410/2012. (XII. 28.) Korm. rendelet 28. §-ával megállapított szöveg.
 [^27]: A 10. §-t megelőző alcím a 304/2011. (XII. 23.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
 [^28]: A 10. § (1) bekezdése a 410/2012. (XII. 28.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^29]: A 10. § (4) bekezdése a 225/2014. (IX. 4.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^29]: A 10. § (4) bekezdése a 225/2014. (IX. 4.) Korm. rendelet 8. § b) pontja, a 101/2018. (VI. 11.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^30]: A 10. § (7) bekezdés h) pontját a 410/2012. (XII. 28.) Korm. rendelet 33. § b) pontja hatályon kívül helyezte.
 [^31]: A 10. § (7) bekezdésének i) pontja a 163/2009. (VIII. 6.) Korm. rendelet 9. § (1) bekezdésével megállapított, nyitó szövegrésze a 475/2017. (XII. 28.) Korm. rendelet 28. §-a szerint módosított szöveg.
 [^32]: A 10. § (7) bekezdés k) pontja a 121/2009. (VI. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
