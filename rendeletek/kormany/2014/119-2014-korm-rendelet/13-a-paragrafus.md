@@ -1,4 +1,4 @@
-13/A. §[^13] (1) A védett várakozási övezetbe – a (2)–(4) bekezdésben meghatározott kivétellel – nem lehet behajtani.
+13/A. §[^14] (1) A védett várakozási övezetbe – a (2)–(4) bekezdésben meghatározott kivétellel – nem lehet behajtani.
 
 (2) A védett várakozási övezetbe
 
@@ -16,4 +16,4 @@ d) az Országgyűlési Őrség, a terrorizmust elhárító szerv és a nemzetbiz
 
 (4) A védett várakozási övezetbe behajtáshoz – a kiemelt nemzeti emlékhely fenntartásának és működtetésének zavartalan biztosítása érdekében – a vagyonkezelő hozzájárulása szükséges.
 
-[^13]: A 13/A. §-t a 447/2016. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^14]: A 13/A. §-t a 447/2016. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
