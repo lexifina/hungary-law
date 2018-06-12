@@ -4,7 +4,7 @@
 
 a) 1 tagját a miniszter,
 
-b)[^100] 1 tagját a kormányzati tevékenység összehangolásáért felelős miniszter,
+b)[^100] 1 tagját a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter,
 
 c) 1 tagját a foglalkoztatáspolitikáért felelős miniszter,
 
@@ -54,7 +54,7 @@ b) elutasított pályázat esetén az elutasítás indokát.
 
 [^98]: A 27. § (1) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^99]: A 27. § (2) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja, nyitó szövegrésze e módosító rendelet 212. § (5) bekezdés e) pontja szerint módosított szöveg.
-[^100]: A 27. § (2) bekezdés b) pontja a 261/2014. (X. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^100]: A 27. § (2) bekezdés b) pontja a 101/2018. (VI. 11.) Korm. rendelet 20. §-a szerint módosított szöveg.
 [^101]: A 27. § (2) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés e) pontja szerint módosított szöveg.
 [^102]: A 27. § (3) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § f) pontja szerint módosított szöveg.
 [^103]: A 27. § (6) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § g) pontja, a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés f) pontja szerint módosított szöveg.
