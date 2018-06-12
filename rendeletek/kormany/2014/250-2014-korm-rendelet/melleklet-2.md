@@ -1,6 +1,6 @@
 2. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^18]
 
-Külön igénylés vagy egyedi feladatátadás alapján nyújtott szolgáltatások
+## Külön igénylés vagy egyedi feladatátadás alapján nyújtott szolgáltatások
 
 1. Nem irodafunkciójú ingatlanok üzemeltetése
 
