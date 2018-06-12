@@ -18,7 +18,7 @@ g) a katasztrófák elleni védekezésért felelős miniszter,
 
 h) az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter,
 
-i)[^1] a kormányzati tevékenység összehangolásáért felelős miniszter,
+i)[^1] a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter,
 
 j)[^2] a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke,
 
@@ -50,7 +50,7 @@ h)[^10] az oktatásért felelős miniszter.
 
 (5) A KNPA Szakbizottság elnöke az ülésére tanácskozási joggal más személyeket is meghívhat.
 
-[^1]: Az 1. § (2) bekezdés i) pontja a 294/2014. (XI. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (2) bekezdés i) pontja a 294/2014. (XI. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 101/2018. (VI. 11.) Korm. rendelet 22. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés j) pontja a 381/2014. (XII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés k) pontját a 294/2014. (XI. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^4]: Az 1. § (2) bekezdés l) pontját a 294/2014. (XI. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 162/2017. (VI. 28.) Korm. rendelet 54. §-a szerint módosított szöveg.
