@@ -12,4 +12,6 @@
 
 5. személygépkocsi-kategória: a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló kormányrendelet felhatalmazása alapján kiadott, az országosan kiemelt termékekre vonatkozó állami normatívákról szóló miniszteri utasítás szerinti személygépkocsi, amely lehet felső-közép 8. kategóriájú, felső-közép 7. kategóriájú, valamint miniszteri használat céljára beszerzett személygépjármű,
 
-6. szervezeti egységhez kirendelt személygépkocsi: olyan, kizárólag hivatalos célú használatra, tételes menetlevél vezetésével igénybe vehető személygépkocsi, melynek használatát a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter engedélyezheti az e rendeletben meghatározott szervezeti egységek számára.
+6.[^1] szervezeti egységhez kirendelt személygépkocsi: olyan, kizárólag hivatalos célú használatra, tételes menetlevél vezetésével igénybe vehető személygépkocsi, melynek használatát a Miniszterelnöki Kormányiroda közigazgatási államtitkára engedélyezheti az e rendeletben meghatározott szervezeti egységek számára.
+
+[^1]: Az 1. § 6. pontja a 101/2018. (VI. 11.) Korm. rendelet 31. § (4) bekezdés a) pontja szerint módosított szöveg.

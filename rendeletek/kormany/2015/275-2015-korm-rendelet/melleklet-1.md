@@ -1,4 +1,4 @@
-## 15–17. §[^3]
+## 16–17. §[^19]
 
 1. melléklet a 275/2015. (IX. 21.) Korm. rendelethez
 
@@ -38,4 +38,4 @@
 
 * Megjegyzés: A négy óra repülési időt meghaladó tengerentúli utazásnál, valamint más hosszú távú járatoknál magasabb komfortosztálynak megfelelő árú repülőjegy vásárolható.
 
-[^3]: A 15–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 16–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

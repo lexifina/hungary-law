@@ -1,6 +1,6 @@
 ## 4. Hivatali lakás használata
 
-6. § (1) A miniszter, az államtitkár és a közigazgatási államtitkár részére hivatali lakás használatát lehet biztosítani az 5. § (1) bekezdése alapján, ha a saját és a vele közös háztartásban élő házastársa, élettársa lakásviszonyait is figyelembe véve
+6. § (1)[^9] A miniszter, az államtitkár és a közigazgatási államtitkár részére hivatali lakás használatát lehet biztosítani az 5. § (1) és (2) bekezdése alapján, ha a saját és a vele közös háztartásban élő házastársa, élettársa lakásviszonyait is figyelembe véve
 
 a) miniszter esetében az általa vezetett minisztérium székhelye szerinti,
 
@@ -29,3 +29,5 @@ c) esetében a lakásbérleti jogviszony a jogosult halálával megszűnik.
 (8) A jogosult személy köteles a hivatali lakást rendeltetésszerű használatra alkalmas állapotban visszaszolgáltatni a jogosultság megszűnésekor.
 
 (9) A juttatás keretében létrejövő lakásbérleti jogviszonyra egyebekben a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló törvény rendelkezései megfelelően irányadók.
+
+[^9]: A 6. § (1) bekezdés nyitó szövegrésze a 101/2018. (VI. 11.) Korm. rendelet 31. § (4) bekezdés c) pontja szerint módosított szöveg.

@@ -6,14 +6,15 @@
 
 (3) A juttatások költségvetési fedezetét – ha törvény, kormányrendelet vagy e rendelet eltérően nem rendelkezik – annak a szervnek a költségvetési fejezetében kell tervezni, amelyben a jogosult a tisztségéből, megbízatásából adódó feladatait teljesíti (a továbbiakban: munkáltató).
 
-(4)[^1] A miniszterelnök külföldi kiküldetésével kapcsolatos kiadások költségvetési fedezetét az általános politikai koordinációért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell tervezni.
+(4)[^2] A miniszterelnök külföldi kiküldetésével kapcsolatos kiadások költségvetési fedezetét az általános politikai koordinációért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell tervezni.
 
 (5) Az állami vezető a juttatásokat a Ksztv. 7/A. §-a szerint kiállított igazolvánnyal veheti igénybe.
 
 (6) Az állami vezető a Ksztv. 7/A. §-a szerint kiállított igazolvány felmutatásával – állami vezetői tevékenységével összefüggésben – valamennyi közigazgatási szervhez, közintézethez és közintézményhez beléphet. Az állami vezető a feladatkörrel rendelkező miniszter által szabályozott módon léphet be a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszervei és nyomozóhatósági szervei épületébe, valamint a Magyar Honvédség működésére szolgáló területre. E jogosultság gyakorlása nem eredményezheti az érintett szervek rendeltetésszerű működésének aránytalan sérelmét.
 
-(7) A miniszterelnök egyéni elbírálás alapján, egyedileg is engedélyezheti az e rendelet szerinti juttatásokat a 2. és 3. §-ban meghatározott személyeknek, valamint a Kormány által felügyelt, a Kormány vagy a Kormány tagja irányítása alá tartozó államigazgatási szervnél foglalkoztatott vezetői munkakört betöltő kormánytisztviselő, politikai főtanácsadó és politikai tanácsadó részére. Ebben az esetben nem kell az 5. § szerinti engedélyt beszerezni.
+(7)[^3] A miniszterelnök – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – egyéni elbírálás alapján, egyedileg is engedélyezheti az e rendelet szerinti juttatásokat a 2. és 3. §-ban meghatározott személyeknek, valamint a Kormány által felügyelt, a Kormány vagy a Kormány tagja irányítása alá tartozó államigazgatási szervnél foglalkoztatott vezetői munkakört betöltő kormánytisztviselő, politikai főtanácsadó és politikai tanácsadó részére. Ebben az esetben nem kell az 5. § szerinti engedélyt beszerezni.
 
 (8) Ha a 2. §-ban, a 3. §-ban vagy a (7) bekezdésben meghatározott jogosult személy az e rendelet szerinti juttatást jogalap nélkül vette fel, gondoskodni kell a jogalap nélkül felvett juttatás törvény szerinti visszatérítésének a kezdeményezéséről.
 
-[^1]: A 4. § (4) bekezdése a 306/2015. (X. 26.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^2]: A 4. § (4) bekezdése a 306/2015. (X. 26.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^3]: A 4. § (7) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 31. § (4) bekezdés b) pontja szerint módosított szöveg.
