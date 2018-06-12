@@ -66,3 +66,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2018-01-01 | 2011-368-20-22.58 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-01-05 | 2011-368-20-22.59 | 476/2017. (XII. 28.) Korm. rendelet |
 | 2018-05-22 | 2011-368-20-22.60 | 70/2015. (III. 30.) Korm. rendelet |
+| 2018-06-12 | 2011-368-20-22.61 | 101/2018. (VI. 11.) Korm. rendelet |
