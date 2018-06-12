@@ -10,7 +10,7 @@ b) az államháztartásról szóló törvény értelmében a Kormány irányít�
 
 c) a Kormány irányítása alatt nem álló szervezetnek minősülő ajánlatkérő esetében ahhoz a miniszterhez, akinek a szakpolitikai vagy ágazati feladatkörébe tartozik a szervezet által ellátott közfeladat vagy
 
-d) a c) pont szerinti feladatkörrel rendelkező miniszter hiányában, vagy ha nem állapítható meg, hogy a c) pont szerint melyik miniszter jogosult eljárni, a kormányzati tevékenység összehangolásáért felelős miniszterhez
+d)[^1] a c) pont szerinti feladatkörrel rendelkező miniszter hiányában, vagy ha nem állapítható meg, hogy a c) pont szerint melyik miniszter jogosult eljárni, a közbeszerzésekért felelős miniszterhez
 
 ## [az a)–d) pontban felsorolt miniszterek a továbbiakban együtt: előterjesztő miniszter] kell benyújtani.
 
@@ -24,6 +24,7 @@ d) a c) pont szerinti feladatkörrel rendelkező miniszter hiányában, vagy ha 
 
 (6) Az atomenergia békés célú alkalmazásával összefüggő nukleáris biztonságot, nukleáris védettséget és a nukleáris biztosítéki területet érintő beszerzések esetében a kérelemhez az Országos Atomenergia Hivatal szakmai véleményét is csatolni kell, amelyben az Országos Atomenergia Hivatal az ajánlatkérő erre irányuló megkeresésének kézhezvételétől számított 8 napon belül nyilatkozik arról, hogy a beszerzés érinti-e a nukleáris biztonságot.
 
-(7)[^1] Ha az 1. § szerinti, Vbt. szerinti beszerzési eljárás lefolytatása alól mentesíteni kívánt szerződést nemzetbiztonsági szolgálat – ide nem értve a Terrorelhárítási Információs és Bűnügyi Elemző Központot – kívánja megvalósítani, akkor külön szakmai állásfoglalást nem kell beszereznie, hanem a (4) és (5) bekezdésben meghatározott körülményeket a mentesítési kérelemben ismerteti.
+(7)[^2] Ha az 1. § szerinti, Vbt. szerinti beszerzési eljárás lefolytatása alól mentesíteni kívánt szerződést nemzetbiztonsági szolgálat – ide nem értve a Terrorelhárítási Információs és Bűnügyi Elemző Központot – kívánja megvalósítani, akkor külön szakmai állásfoglalást nem kell beszereznie, hanem a (4) és (5) bekezdésben meghatározott körülményeket a mentesítési kérelemben ismerteti.
 
-[^1]: A 2. § (7) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdés d) pontja a 101/2018. (VI. 11.) Korm. rendelet 35. §-a szerint módosított szöveg.
+[^2]: A 2. § (7) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 2. §-a szerint módosított szöveg.
