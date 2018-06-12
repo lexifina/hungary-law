@@ -6,9 +6,9 @@ a) tartalmazza a munkáltatók állománytábláit;
 
 b) tartalmazza a foglalkoztatottaknak a közszolgálati alapnyilvántartás szerinti adatait;
 
-c)[^5] tartalmazza a szakmai vezetők és a kormánytisztviselők melléklet szerinti önéletrajzait;
+c)[^6] tartalmazza a szakmai vezetők és a kormánytisztviselők melléklet szerinti önéletrajzait;
 
-d)[^6] a felhasználók utasításának megfelelően vagy automatikusan feladatokat, műveleteket hajt végre a KSzSzR-ben kezelt személyes és szervezeti adatok és az ezekre vonatkozó intézkedések, folyamatok vonatkozásában.
+d)[^7] a felhasználók utasításának megfelelően vagy automatikusan feladatokat, műveleteket hajt végre a KSzSzR-ben kezelt személyes és szervezeti adatok és az ezekre vonatkozó intézkedések, folyamatok vonatkozásában.
 
 (2) A dokumentumtár modul biztosítja:
 
@@ -40,5 +40,5 @@ d) nyilvántartja a tanulmányi szerződésekkel kapcsolatos adatokat.
 
 (5) A vezetői információs modul a vezetői feladatok támogatása céljából a KSzSzR-ben tárolt adatokról információkat szolgáltat, kimutatásokat készít. A lekérdezés történhet automatikusan vagy kezdeményezésre, illetve előre meghatározott vagy egyedi igény alapján.
 
-[^5]: Az 5. § (1) bekezdés c) pontját a 126/2011. (VII. 18.) Korm. rendelet 9. § (1) bekezdése iktatta be, egyidejűleg az eredeti c) pont megjelölését d) pontra változtatta.
-[^6]: Az 5. § (1) bekezdés eredeti c) pontjának megjelölését d) pontra változtatta a 126/2011. (VII. 18.) Korm. rendelet 9. § (1) bekezdése.
+[^6]: Az 5. § (1) bekezdés c) pontját a 126/2011. (VII. 18.) Korm. rendelet 9. § (1) bekezdése iktatta be, egyidejűleg az eredeti c) pont megjelölését d) pontra változtatta.
+[^7]: Az 5. § (1) bekezdés eredeti c) pontjának megjelölését d) pontra változtatta a 126/2011. (VII. 18.) Korm. rendelet 9. § (1) bekezdése.

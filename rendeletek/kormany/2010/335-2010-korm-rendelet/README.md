@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-335-20-
 | 2014-09-05 | 2010-335-20-22.7 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-01-01 | 2010-335-20-22.8 | 323/2014. (XII. 15.) Korm. rendelet |
 | 2016-09-01 | 2010-335-20-22.9 | 227/2016. (VII. 29.) Korm. rendelet |
+| 2018-06-12 | 2010-335-20-22.10 | 101/2018. (VI. 11.) Korm. rendelet |

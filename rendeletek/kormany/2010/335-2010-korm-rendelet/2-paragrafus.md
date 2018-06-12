@@ -1,4 +1,4 @@
-## 1/A. §[^2] A Kormány a közszolgálati tisztviselőkről szóló törvény szerinti személyügyi központként a közszolgálati életpálya kidolgozásáért felelős minisztert (a továbbiakban: miniszter) jelöli ki.
+## 1/A. §[^3] A Kormány a közszolgálati tisztviselőkről szóló törvény szerinti személyügyi központként a közszolgálati életpálya kidolgozásáért felelős minisztert (a továbbiakban: miniszter) jelöli ki.
 
 ## Értelmező rendelkezések
 
@@ -14,7 +14,7 @@
 
 5. Interfész: két funkcionális egység összekapcsolhatóságát és együttműködését biztosító előírások összessége, a KSzSzR azon eleme, amely biztosítja a külső informatikai rendszerekkel történő kommunikációt (elektronikus adatátadás–átvétel);
 
-6.[^3] Munkáltató: a minisztériumok;
+6.[^4] Munkáltató: a minisztériumok, valamint a Miniszterelnöki Kormányiroda;
 
 7. Állománytábla: a munkáltató szervezeti felépítéséhez igazodó, az egyes szervezeti egységekhez rendelt álláshelyek és az álláshelyekhez szükséges ismérvek összessége;
 
@@ -30,12 +30,12 @@
 
 13. Szerepkör: a meghatározott feladatkörrel és annak ellátásához szükséges jogosultsággal felruházott felhasználói pozíció;
 
-14.[^4] Külső informatikai rendszerek működtetői: a Magyar Államkincstár és a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.;
+14.[^5] Külső informatikai rendszerek működtetői: a Magyar Államkincstár és a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.;
 
 15. Jogosultság: egy adott szerepkört betöltő felhasználó számára biztosított, a KSzSzR használatát lehetővé tévő egyes jogok (felhatalmazások) összessége;
 
 16. Értékkészlet: a KSzSzR-ben rögzítendő egyes adatokra jellemző, választható elemek halmaza.
 
-[^2]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 523. §-a iktatta be, szövege a 227/2016. (VII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § 6. pontja a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 527. §-a, a 227/2016. (VII. 29.) Korm. rendelet 2. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^4]: A 2. § 14. pontja a 221/2014. (IX. 4.) Korm. rendelet 526. § a) pontja szerint módosított szöveg.
+[^3]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 523. §-a iktatta be, szövege a 227/2016. (VII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 6. pontja a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 527. §-a, a 227/2016. (VII. 29.) Korm. rendelet 2. § (5) bekezdés b) pontja, a 101/2018. (VI. 11.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § 14. pontja a 221/2014. (IX. 4.) Korm. rendelet 526. § a) pontja szerint módosított szöveg.
