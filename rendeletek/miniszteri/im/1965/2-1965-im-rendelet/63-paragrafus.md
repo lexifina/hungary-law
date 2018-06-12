@@ -18,6 +18,6 @@
 
 9. szükséges-e a megtérítési igény fenntartásához óvás vagy azonos értelmű nyilatkozat az átruházókkal, a kibocsátóval és a többi csekk-kötelezettel szemben.
 
-(2)[^3] Az elveszett csekk hirdetményi határideje egy hónap, s a megsemmisítési eljárásra, a 105/1952. (XII. 20.) MT rendeletnek az értékpapírok megsemmisítésére vonatkozó szabályait kell alkalmazni.
+(2)[^4]
 
-[^3]: A 63. § (2) bekezdését a 10/1974. (IX. 25.) IM rendelet 2. §-a iktatta be a rendeletbe. Lásd a 105/1952. (XII. 20.) MT rendelet 40–45. §-át.
+[^4]: A 63. § (2) bekezdését a 10/1974. (IX. 25.) IM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 10/2018. (VI. 11.) IM rendelet 1. § (3) bekezdés b) pontja.

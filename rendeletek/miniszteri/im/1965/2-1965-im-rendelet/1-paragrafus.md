@@ -20,6 +20,6 @@
 
 6. a kibocsátó aláírását.
 
-(2)[^1] A gazdálkodó szervezetek egymás közötti belföldi forgalmában használt különleges csekkre (így a készpénzcsekkre és az átutalási csekkre – ideértve a postai fedezeti csekket is –) a csekktörvény rendelkezései csak annyiban alkalmazhatók, amennyiben nem ellentétesek a rájuk vonatkozó külön rendelkezésekkel.
+(2)[^1]
 
-[^1]: Az 1. § (2) bekezdésének szövege nem tartalmazza az időközben hatályon kívül helyezett 12/1963. (VII. 10.) PM rendelet 22. és 28. §-ára való hivatkozást.
+[^1]: Az 1. § (2) bekezdését a 10/2018. (VI. 11.) IM rendelet 1. § (3) bekezdés a) pontja hatályon kívül helyezte.

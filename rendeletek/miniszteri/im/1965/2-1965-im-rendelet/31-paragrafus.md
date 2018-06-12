@@ -2,6 +2,6 @@
 
 31. § (1) A csekknek valamely leszámolóhelyen történő bemutatása fizetés végett történő bemutatásnak számít.
 
-(2)[^2] A Magyar Nemzeti Bankot – ha a csekk címzettjével kötött szerződés alapján a leszámolóhely teendőit végzi – az (1) bekezdés alkalmazása szempontjából leszámolóhelynek kell tekinteni.
+(2)[^2] Leszámolóhely az a hitelintézet, amely a csekk címzettjével létrejött megállapodása alapján a csekk fizetés végett történő bemutatásakor a csekk címzettje nevében fizetést teljesít.
 
-[^2]: A 31. § (2) bekezdése a 10/1974. (IX. 25.) IM rendelet 1. § -ával megállapított szöveg.
+[^2]: A 31. § (2) bekezdése a 10/2018. (VI. 11.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
