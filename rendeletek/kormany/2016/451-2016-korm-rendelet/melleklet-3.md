@@ -4,31 +4,33 @@ I. Az önhibán kívüli akadályozottság hatálya alatt álló szervek
 
 |  | A | B |
 
-|  | Elektronikus ügyintézést biztosító szerv megnevezése | Az önhibán kívüli akadályozottság időtartama |
+| 1. | Elektronikus ügyintézést biztosító szerv megnevezése | Az önhibán kívüli akadályozottság időtartama |
 
-| 1. | Nemzeti Választási Iroda | 2018. 01. 01. – 2018. 06. 30. |
+| 2. | Nemzeti Választási Iroda | 2018. 01. 01. – 2018. 06. 30. |
 
-| 2. | NKM Áramszolgáltató Zrt. | 2018. 01. 01. – 2018. 05. 31. |
+| 3. | NKM Áramszolgáltató Zrt. | 2018. 01. 01. – 2018. 05. 31. |
 
-| 3. | NKM Földgázszolgáltató Zrt. | 2018. 01. 01. – 2018. 05. 31. |
+| 4. | NKM Földgázszolgáltató Zrt. | 2018. 01. 01. – 2018. 05. 31. |
 
-| 4. | Dunántúli Regionális Vízmű Zrt. | 2018. 01. 01. – 2018. 05. 31. |
+| 5. | Dunántúli Regionális Vízmű Zrt. | 2018. 01. 01. – 2018. 05. 31. |
 
-| 5. | Északmagyarországi Regionális Vízművek Zrt. | 2018. 01. 01. – 2018. 05. 31. |
+| 6. | Északmagyarországi Regionális Vízművek Zrt. | 2018. 01. 01. – 2018. 05. 31. |
 
-| 6. | Tiszamenti Regionális Vízművek Zrt. | 2018. 01. 01. – 2018. 05. 31. |
+| 7. | Tiszamenti Regionális Vízművek Zrt. | 2018. 01. 01. – 2018. 05. 31. |
 
-| 7. | Miniszterelnöki Kabinetiroda | 2018. 01. 01. – 2018. 07. 31. |
+| 8. | Miniszterelnöki Kabinetiroda | 2018. 01. 01. – 2018. 07. 31. |
 
-| 8. | Magyar Államkincstár (a II. pontban megjelölt ügyek tekintetében) | 2018. 01. 01. – 2018. 07. 31. |
+| 9. | Miniszterelnöki Kormányiroda | 2018. 05. 22. – 2018. 12. 31. |
 
-| 9. | Emberi Erőforrások Támogatáskezelő | 2018. 01. 01. – 2018. 07. 31. |
+| 10. | Magyar Államkincstár (a II. pontban megjelölt ügyek tekintetében) | 2018. 01. 01. – 2018. 07. 31. |
 
-| 10. | Szerencsejáték Felügyelet | 2018. 01. 01. – 2018. 05. 31. |
+| 11. | Emberi Erőforrások Támogatáskezelő | 2018. 01. 01. – 2018. 07. 31. |
 
-| 11. | Emberi Erőforrások Minisztériuma (a II. pontban megjelölt ügyek tekintetében) | 2018. 01. 01. – 2018. 06. 30. |
+| 12. | Szerencsejáték Felügyelet | 2018. 01. 01. – 2018. 05. 31. |
 
-| 12. | Látvány-csapatsport országos sportági szakszövetsége (a II. pontban megjelölt ügyek tekintetében) | 2018. 01. 01. – 2018. 06. 30. |
+| 13. | Emberi Erőforrások Minisztériuma (a II. pontban megjelölt ügyek tekintetében) | 2018. 01. 01. – 2018. 06. 30. |
+
+| 14. | Látvány-csapatsport országos sportági szakszövetsége (a II. pontban megjelölt ügyek tekintetében) | 2018. 01. 01. – 2018. 06. 30. |
 
 II. Az önhibán kívüli akadályozottság hatálya az I. pontban meghatározott egyes szervek esetében kizárólag a következő ügyekben áll fenn
 
@@ -42,4 +44,4 @@ II. Az önhibán kívüli akadályozottság hatálya az I. pontban meghatározot
 
 | 3. | Látvány-csapatsport országos sportági szakszövetsége | A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 22/C. § (1) bekezdés a)–e) pontjaiban meghatározott támogatással kapcsolatos hatáskörök szerinti ügyek |
 
-[^102]: A 3. mellékletet az 521/2017. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^102]: A 3. mellékletet az 521/2017. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 101/2018. (VI. 11.) Korm. rendelet 38. §-a szerint módosított szöveg.
