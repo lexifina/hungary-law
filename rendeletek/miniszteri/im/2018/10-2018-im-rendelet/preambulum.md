@@ -1,0 +1,7 @@
+A Genfben, 1931. március 19-én megkötött csekkjogi egyezmények kihirdetéséről szóló 1965. évi 2. törvényerejű rendelet 5. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjaink feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 109. § 1. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 10. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben –;
+
+a 2. alcím tekintetében a közjegyzőkről szóló 1991. évi XLI. törvény 183. § e) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 109. § 1. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben –;
+
+a 3. alcím tekintetében az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 206. § e) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 109. § 1. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben –
+
+a következőket rendelem el:
