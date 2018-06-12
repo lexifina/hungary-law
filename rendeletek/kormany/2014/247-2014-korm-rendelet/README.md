@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-247-20-
 | 2017-04-29 | 2014-247-20-22.13 | 102/2017. (IV. 28.) Korm. rendelet |
 | 2017-09-15 | 2014-247-20-22.14 | 102/2017. (IV. 28.) Korm. rendelet |
 | 2018-01-01 | 2014-247-20-22.15 | 481/2017. (XII. 28.) Korm. rendelet |
+| 2018-06-12 | 2014-247-20-22.16 | 101/2018. (VI. 11.) Korm. rendelet |
