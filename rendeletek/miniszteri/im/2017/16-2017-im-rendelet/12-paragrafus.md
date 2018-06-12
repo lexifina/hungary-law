@@ -1,3 +1,5 @@
+## iránti kamarai hatósági eljárás díja 1000 Ft.
+
 ## 3. A díj megfizetése, visszatérítése és nyilvántartása
 
 12. § (1) A díjat a kérelem nem elektronikus előterjesztését, valamint a nem elektronikus kapcsolattartási módra való áttérést megelőzően
