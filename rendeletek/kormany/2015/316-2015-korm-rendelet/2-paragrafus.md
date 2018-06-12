@@ -56,7 +56,7 @@ a) az 1. pont a)–j) alpontja vonatkozásában az ajánlatkérő szervet irány
 
 b) az 1. pont k)–t) alpontja vonatkozásában az a miniszter, akinek a szakpolitikai vagy ágazati feladatkörébe tartozik az ajánlatkérő szervezet által ellátott közfeladat;
 
-c) amennyiben a b) alpont szerinti feladatkörrel rendelkező miniszter nem állapítható meg, a kormányzati tevékenység összehangolásáért felelős miniszter;
+c)[^6] amennyiben a b) alpont szerinti feladatkörrel rendelkező miniszter nem állapítható meg, a közbeszerzésekért felelős miniszter;
 
 7. minősített adat: a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pontjában meghatározott adat;
 
@@ -67,3 +67,4 @@ c) amennyiben a b) alpont szerinti feladatkörrel rendelkező miniszter nem áll
 [^3]: A 2. § 1. pont i) alpontját a 379/2016. (XII. 2.) Korm. rendelet 306. § (2) bekezdése hatályon kívül helyezte.
 [^4]: A 2. § 1. pont n) alpontját a 379/2016. (XII. 2.) Korm. rendelet 306. § (2) bekezdése hatályon kívül helyezte.
 [^5]: A 2. § 1. pont t) alpontja a 379/2016. (XII. 2.) Korm. rendelet 306. § (1) bekezdés b) pontjával megállapított szöveg.
+[^6]: A 2. § 6. pont c) alpontja a 101/2018. (VI. 11.) Korm. rendelet 32. §-a szerint módosított szöveg.
