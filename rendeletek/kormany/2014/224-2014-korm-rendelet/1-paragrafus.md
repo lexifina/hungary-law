@@ -6,4 +6,6 @@ a) elnöke a miniszterelnök helyettesítésére első helyen jogosult miniszter
 
 b) tagjai a miniszterek és a Köztársasági Elnöki Hivatal által delegált egy fő,
 
-c) titkára a kormányzati tevékenység összehangolásáért felelős miniszter.
+c)[^1] titkára a nemzetpolitikáért felelős miniszter.
+
+[^1]: Az 1. § (2) bekezdés c) pontja a 101/2018. (VI. 11.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
