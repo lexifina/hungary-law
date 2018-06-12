@@ -1,21 +1,31 @@
-10/B. § (1) A 10/A. § (1) bekezdése szerinti telephely biztonsági tanúsítvány kiadásához szükséges iparbiztonsági ellenőrzést a gazdálkodó szervezet a 2. mellékletben meghatározott adattartalommal az NBF elnöke által rendszeresített és az NBF honlapján közzétett Cég-adatlap megküldésével kezdeményezi az NBF-nél. A kérelemhez a gazdálkodó szervezet csatolja a kérelem benyújtását megelőző két teljes gazdasági év mérlegét és eredmény-kimutatását.
+10/B. § (1) A 10/A. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvány érvényessége alatt
 
-(2) Az NBF elnökének megkeresésére a nemzetbiztonsági szolgálat elvégzi a (4)–(6) bekezdésében meghatározott feladatokat.
+a) a gazdálkodó szervezet a 7. § (2) bekezdés a), b) és d) pontja, valamint a 7. § (3) bekezdésében foglaltak szerint jár el,
 
-(3) Az NBF az iparbiztonsági ellenőrzés megkezdéséről írásban tájékoztatja a gazdálkodó szervezet vezetőjét, aki az (5) bekezdésben meghatározott személyeket haladéktalanul értesíti a nemzetbiztonsági ellenőrzésük szükségességéről.
+b) a gazdálkodó szervezet vezetője kötelezi magát arra, hogy végrehajtási szerződést csak olyan gazdálkodó szervezettel köt, amely a 10/A. § (1) bekezdésében meghatározott érvényes telephely biztonsági tanúsítvánnyal rendelkezik,
 
-(4) A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § f) pontjában meghatározott cégellenőrzés során a nemzetbiztonsági szolgálat a gazdálkodó szervezet által kitöltött Cég-adatlapban foglalt adatok valóságtartalmát ellenőrzi annak megítélése érdekében, hogy sérülnek-e Magyarország nemzetbiztonsági érdekei végrehajtási szerződésnek a gazdálkodó szervezettel való megkötése esetén. A nemzetbiztonsági szolgálat szakvéleményben foglal állást az ellenőrzött gazdálkodó szervezet esetében a nemzetbiztonsági szempontú biztonsági kockázati tényező fennállásáról vagy annak hiányáról. A nemzetbiztonsági szolgálat a gazdálkodó szervezet cégellenőrzését az NBF elnökének megkeresését követően soron kívül folytatja le.
+c) a biztonsági vezető intézkedik a 10/A. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvány kiállítását követő minden ötödik évben a kiállítás hónapjának utolsó napjáig az ismételten kitöltött Cég-adatlap NBF részére történő megküldéséről, amely alapján az NBF elnökének megkeresésére a nemzetbiztonsági szolgálat elvégzi a gazdálkodó szervezet újbóli cégellenőrzését.
 
-(5) A nemzetbiztonsági szolgálat végrehajtja a gazdálkodó szervezet vezető tisztségviselőinek, a kijelölésre kerülő biztonsági vezetőnek, valamint a gazdálkodó szervezet kérelmében megjelölt személyeknek a nemzetbiztonsági ellenőrzését.
+(2) A 10/A. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet az (1) bekezdés c) pontja szerinti kötelezettségének, ha
 
-(6)[^36] Az (5) bekezdésben meghatározott személyek a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 2. számú mellékletében szereplő kérdőívet a nemzetbiztonsági ellenőrzés és a felülvizsgálati eljárás során a biztonsági kérdőív kitöltésének eljárási szabályairól, valamint a nemzetbiztonsági ellenőrzéssel összefüggésben a lényeges adatokban bekövetkezett változás bejelentésének rendjéről szóló kormányrendeletben foglaltak szerint töltik ki a következő eltérésekkel:
+a) telephely biztonsági tanúsítvánnyal is rendelkezik, akkor a 7. § (1) bekezdés g) pontjában,
 
-a) biztonsági megbízott alatt az NBF kijelölt munkatársát kell érteni,
+b) egyszerűsített telephely biztonsági tanúsítvánnyal is rendelkezik, akkor a 7. § (2) bekezdés e) pontjában
 
-b) a biztonsági kérdőív kitöltésének határideje 8 nap,
+foglaltak teljesítésével tesz eleget.
 
-c) a nemzetbiztonsági ellenőrzést az NBF elnöke kezdeményezi.
+(3) Ha a gazdálkodó szervezet rendelkezik érvényes telephely biztonsági tanúsítvánnyal, illetve egyszerűsített telephely biztonsági tanúsítvánnyal, a 6. § (2) és (4) bekezdésében meghatározott feltételek teljesülése esetén – ha a gazdálkodó szervezet cégellenőrzésére a kérelem benyújtását megelőző egy éven belül került sor – a gazdálkodó szervezet kérelmére az NBF új eljárás lefolytatása nélkül kiadja a 10/A. § (1) bekezdése szerinti telephely biztonsági tanúsítványt.
 
-(7) Az NBF elnöke a (4) bekezdés szerinti cégellenőrzést és a (6) bekezdésben foglaltak szerint kézhez vett biztonsági kérdőívek beérkezését követően az (5) bekezdésben megjelölt személyek nemzetbiztonsági ellenőrzését egyszerre kezdeményezi a nemzetbiztonsági szolgálatnál.
+(4) Végrehajtási szerződés megkötését megelőzően a szerződés szerinti megbízó a 10/A. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvány meglétéről igazolás kiállítását kéri az NBF-től.
 
-[^36]: A 10/B. § (6) bekezdése a 418/2016. (XII. 14.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+(5) Az NBF a 10/A. § (1) bekezdésben meghatározott telephely biztonsági tanúsítványt visszavonja, ha
+
+a) a 6. § (4) bekezdésében meghatározott feltételek már nem állnak fenn,
+
+b) a gazdálkodó szervezet az (1) bekezdésben meghatározott biztonsági követelményeket nem teljesíti,
+
+c) a cégellenőrzésről készült szakvélemény kockázati tényezőt tartalmaz,
+
+d) a 7. § (3) bekezdés a) pontja szerinti bejelentési kötelezettségének a gazdálkodó szervezet biztonsági vezetője nem tesz eleget vagy
+
+e) a gazdálkodó szervezet (1) bekezdés c) pontja szerint kezdeményezett cégellenőrzése nem történt meg.

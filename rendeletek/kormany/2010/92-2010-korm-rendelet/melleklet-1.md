@@ -1,4 +1,4 @@
-1. melléklet a 92/2010. (III. 31.) Korm. rendelethez[^57]
+1. melléklet a 92/2010. (III. 31.) Korm. rendelethez[^61]
 
 Az NBF elnöke a telephely biztonsági tanúsítvány kiadásához a Cég-adatlapot az alábbi adattartalommal rendszeresíti:
 
@@ -68,4 +68,4 @@ a gazdálkodó szervezet minősített szerződésben történő részvétele
 
 5. NYILATKOZATOK
 
-[^57]: Az 1. melléklet a 441/2016. (XII. 16.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^61]: Az 1. melléklet a 441/2016. (XII. 16.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.

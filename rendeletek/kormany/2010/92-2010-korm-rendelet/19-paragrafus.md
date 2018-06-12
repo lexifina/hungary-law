@@ -1,3 +1,3 @@
-19. §[^54]
+19. §[^58]
 
-[^54]: A 19. §-t a 441/2016. (XII. 16.) Korm. rendelet 40. § (2) bekezdése hatályon kívül helyezte.
+[^58]: A 19. §-t a 441/2016. (XII. 16.) Korm. rendelet 40. § (2) bekezdése hatályon kívül helyezte.

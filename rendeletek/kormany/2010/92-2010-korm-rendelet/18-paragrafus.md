@@ -1,3 +1,3 @@
-18. §[^53]
+18. §[^57]
 
-[^53]: A 18. §-t a 441/2016. (XII. 16.) Korm. rendelet 40. § (2) bekezdése hatályon kívül helyezte.
+[^57]: A 18. §-t a 441/2016. (XII. 16.) Korm. rendelet 40. § (2) bekezdése hatályon kívül helyezte.
