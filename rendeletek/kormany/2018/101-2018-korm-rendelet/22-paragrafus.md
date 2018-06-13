@@ -1,3 +1,5 @@
-## 21. § A Nemzeti Humanitárius Koordinációs Tanácsról szóló 178/2013. (VI. 4.) Korm. rendelet 12. §-ában a „kormányzati tevékenység összehangolásáért” szövegrész helyébe a „közigazgatás-szervezésért” szöveg lép.
+## 21. §[^21]
 
 ## 22. A Központi Nukleáris Pénzügyi Alap Szakbizottságról szóló 213/2013. (VI. 21.) Korm. rendelet módosítása
+
+[^21]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

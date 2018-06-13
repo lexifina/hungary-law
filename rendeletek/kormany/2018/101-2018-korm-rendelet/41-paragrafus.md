@@ -1,3 +1,5 @@
-## 40. § A dohánytermékek nyomonkövethetőségéről és biztonsági eleméről szóló 72/2018. (IV. 16.) Korm. rendelet 2. §-ában az „a kormányzati tevékenység összehangolásáért” szövegrész helyébe az „az állami vagyonnal való gazdálkodás szabályozásáért” szöveg lép.
+## 40. §[^39]
 
 ## 41. Záró rendelkezések
+
+[^39]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

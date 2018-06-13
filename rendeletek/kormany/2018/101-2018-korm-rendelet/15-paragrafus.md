@@ -1,3 +1,5 @@
-## 14. § Hatályát veszti a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény szerinti stratégiailag kiemelt jelentőségű gazdálkodó szervezetté nyilvánítás eljárási szabályairól szóló 359/2011. (XII. 30.) Korm. rendelet 1. § (1) bekezdésében az „a kormányzati tevékenység összehangolásáért felelős miniszter,” szövegrész.
+## 14. §[^14]
 
 ## 15. Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosítása
+
+[^14]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
