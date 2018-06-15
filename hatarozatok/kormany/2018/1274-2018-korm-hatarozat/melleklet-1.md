@@ -1,0 +1,131 @@
+## 1. A Kormány – figyelemmel a Nemzeti Energiastratégiáról szóló 77/2011. (X. 14.) OGY határozat 4. pont w) és z) alpontjában foglaltakra – megvizsgálta a Nemzeti Energiastratégia energiafelhasználásra vonatkozó előrejelzéseit, és a Nemzeti Energiastratégia energiafelhasználási előrejelzései című melléklete szerinti adatokat az 1. mellékletben közzéteszi.
+
+## 2. A Kormány a Nemzeti Energiastratégia energiafelhasználás-előrejelzéseinek frissítéséről szóló 1160/2015. (III. 20.) Korm. határozatot visszavonja.
+
+1. melléklet az 1274/2018. (VI. 15.) Korm. határozathoz
+
+## A Nemzeti Energiastratégia energiafelhasználási előrejelzései
+
+| Mértékegység: PJ | 2015 | 2020 | 2030 |
+
+| Tényadat | „Ölbe tett kéz” | „Közös erőfeszítés” | „Ölbe tett kéz” | „Közös erőfeszítés” |
+
+| 1. | Primerenergia-felhasználás* | 1055 | 1187 | 1110 | 1411 | 1217 |
+
+| 2. | Végső energiafogyasztás** | 725 | 822 | 761 | 929 | 775 |
+
+| 2.a) | Ipari szektor | 177 | 219 | 201 | 248 | 218 |
+
+| 2.b) | Közlekedés | 182 | 222 | 210 | 277 | 247 |
+
+| 2.c) | Lakosság | 249 | 264 | 243 | 278 | 210 |
+
+| 2.d) | Kereskedelem és szolgáltatás | 91 | 90 | 81 | 94 | 70 |
+
+| 2.e) | Mezőgazdaság | 24 | 27 | 26 | 32 | 30 |
+
+| 3. | Nem energetikai célú felhasználás | 83 | 97 | 97 | 118 | 118 |
+
+| 4. | Villamosenergia- felhasználás*** | 158 | 172 | 164 | 191 | 176 |
+
+* Primerenergia-felhasználás hálózati veszteségre és erőművi önfogyasztásra vonatkozó előrejelzései:
+
+|  | 2015 | 2020 | 2030 |
+
+|  | Tényadat | „Ölbe tett kéz” | „Közös erőfeszítés” | „Ölbe tett kéz” | „Közös erőfeszítés” |
+
+| hálózati veszteség | 21 | 23 | 21 | 23 | 20 |
+
+| erőművi önfogyasztás | 8 | 9 | 8 | 13 | 11 |
+
+** A kerekítések miatt a részösszegek nem adják ki a végső energiafogyasztási adatot.
+
+*** A megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv szerinti bruttó végső villamosenergia-felhasználás erőművi önfogyasztással és hálózati veszteséggel, valamint az energiaszektor saját fogyasztásával együtt.
+
+Az előrejelzés a 2015. évi eurostat módszertan szerint számított tényértékekből kiindulva készült a jelenlegi trendek, a legfrissebb kormányzati GDP-előrejelzés, a prognosztizált demográfiai folyamatok, a meglévő, illetve tervezett uniós és hazai szakpolitikai intézkedések, az ágazati szereplők tervei és várakozásai, a valószínűsíthetően megvalósuló termelő, szolgáltató és energiahatékonysági beruházások, valamint az energiahatékonyság és a megújulóenergia-hasznosítás növelését célzó pénzügyi keretek figyelembevételével.
+
+Két forgatókönyv frissítése készült el: az „Ölbe tett kéz” (BAU) forgatókönyv és a „Közös erőfeszítés” (Policy) forgatókönyv, amely az uniós kötelezettségeinkből fakadó és az azon felül reálisnak tekinthető energiahatékonysági és megújulóenergia-hasznosítási intézkedések végrehajtásával számol. A Közös erőfeszítés forgatókönyv mindkét szakpolitikai területen az állami szerepvállalás növekedését feltételezi.
+
+A két forgatókönyv közötti különbséget az energiahatékonysági színvonal, illetve a megújulóenergia-felhasználás eltérő mértéke képezi. Ebből következően a szcenáriók a gazdasági növekedést, a gazdaság szerkezetét és az energiahordozók árát tekintve azonos feltételezésekre épülnek. Az előrejelzés 2020-ig a konvergenciaprogramban előrevetített 3,98%-os átlagos GDP-bővüléssel számol, amelynek mértéke 2021-től átlagosan 2,82%. A nyersolajár tekintetében a prognózis a 2016–2017 folyamán kialakult ársáv (50–60 dollár/hordó) hosszú távú tartósságát feltételezi, az időjárás változásának energiafogyasztásra gyakorolt hatását pedig a 2006–2015 közötti időszak átlagos hőmérsékleti viszonyainak figyelembevételével szűri ki.
+
+A 2017-ben készült előrejelzés az adatgyűjtési, illetve -képzési módszertant érintő jelentős változások miatt közvetlenül nem hasonlítható össze a 2015-ben készített prognózissal. A lakossági biomassza-felhasználás értékének felülvizsgálata következtében a háztartások energiafelhasználásának (ebből kifolyólag a végső és primerenergia-felhasználás) bázisértéke jelentősen megnőtt. Továbbá az adatgyűjtés teljes körűvé tétele rávilágított az ipari szektor korábban számítottnál magasabb, illetve a kereskedelem és szolgáltató szektor alacsonyabb súlyára az energiafelhasználásban. Kiemelendő, hogy bár hosszú távon mindkét forgatókönyv a primerenergia-felhasználás jelentős bővülésével számol, a „Közös erőfeszítés” szcenárió esetében ez döntően abból ered, hogy a villamosenergia-importot hazai termelés váltja ki, aminek következtében az átalakítási veszteség megnövekszik.
+
+Az „Ölbe tett kéz” (BAU) forgatókönyv az alábbi feltételezésekkel számol:
+
+1. Lakosság esetében:
+
+1.1. Nem valósulnak meg energiahatékonysági és szemléletformálási programok, az energetikai szabványok nem szigorodnak.
+
+1.2. Az energiaigényt az épület- és háztartásigép-állomány rendkívül lassú megújulása, a készülékellátottság növekedése, az épületek műszaki színvonalának romlása, a nem energiatudatos szemléletmód, illetve a demográfiai trend alakítja.
+
+1.3. Az energiafogyasztás rövid és hosszú távon is mérsékelten emelkedik.
+
+2. Ipari szektor és mezőgazdaság esetében:
+
+2.1. A termelővállalatok csak részben használják ki a beruházásokkal és a folyamatok racionalizálásával elérhető energiahatékonysági potenciált, energiafelhasználásuk csökkentését az állam nem ösztönzi.
+
+2.2. Az energiaigényt az újraiparosítás üteme és a termelés szerkezete határozza meg.
+
+2.3. Az energiafogyasztás rövid és hosszú távon is meredeken emelkedik.
+
+3. Kereskedelmi és szolgáltató szektor esetében:
+
+3.1. A középületek és a közszolgáltatási infrastruktúra energetikai korszerűsítése nem történik meg, a piaci szolgáltatások gyorsan fejlődnek, de energiahatékonyságuk színvonala csak kismértékben javul.
+
+3.2. Az energiaigényt a középületek növekvő műszaki ellátottsága, a piaci szolgáltatások gyors fejlődése és mérsékelten javuló energiahatékonysága alakítja.
+
+3.3. Az energiafogyasztást rövid és hosszú távon is stagnálás jellemzi.
+
+4. Közlekedés esetében:
+
+4.1. Nem történnek szakpolitikai intézkedések a közúti energiafogyasztás csökkentése, valamint az elektromobilitás fejlesztése érdekében.
+
+4.2. Az energiaigényt a GDP és a jövedelem növekedési üteme, valamint az üzemanyagár alakulása határozza meg.
+
+4.3. Az energiafogyasztás rövid és hosszú távon is rendkívül nagymértékben emelkedik.
+
+5. A villamosenergia-fogyasztás átlagosan évi 1,3%-kal növekszik.
+
+6. A megújulóenergia-hasznosítás végsőenergia-fogyasztáshoz viszonyított részaránya kismértékben emelkedik.
+
+7. Rövid és hosszú távon is a végsőenergia-fogyasztás nagymértékben növekszik.
+
+A „Közös erőfeszítés” (Policy) forgatókönyv az alábbi feltevésekkel számol:
+
+1. Lakosság esetében:
+
+1.1. Átfogó energiahatékonysági és szemléletformálási programok valósulnak meg, az épületállomány megújulása dinamikus, az energetikai szabványok pedig szigorodnak.
+
+1.2. Az energiaigényt az épületállomány jelentős mértékű energetikai korszerűsítése és megújulása, a háztartásigép-állomány és világítás nagyütemű modernizációja, a készülékellátottság növekedése, az energiatudatos attitűd és a demográfiai trend alakítja.
+
+1.3. Az energiafogyasztás rövid távon kismértékben, hosszú távon jelentősen csökken.
+
+2. Ipari szektor és a mezőgazdaság esetében:
+
+2.1. A termelővállalatok végrehajtják a gazdaságilag megtérülő energiahatékonysági beruházásokat, energiafelhasználásuk csökkentését az állam ösztönzi.
+
+2.2. Az energiaigényt az újraiparosítás üteme és a termelési szerkezet mellett a kapacitások energetikai korszerűsítése, a termelési folyamatok racionalizálása, valamint a mérethatékonyságból eredő energiahatékonysági potenciál kiaknázása határozza meg.
+
+2.3. Az energiafogyasztás rövid és hosszú távon is emelkedik.
+
+3. Kereskedelmi és szolgáltató szektor esetében:
+
+3.1. A középületek és a közszolgáltatási infrastruktúra átfogó korszerűsítése valósul meg, a piaci szolgáltatások esetében az energiahatékonyság nagymértékben javul, az új infrastruktúra-elemek technológiai színvonala pedig kiemelkedően magas.
+
+3.2. Az energiaigényt a közszolgáltatási infrastruktúra kiépítettsége, műszaki ellátottsága és a piaci szolgáltatások gyors fejlődése mellett elsősorban az épületek energiafelhasználásának mérséklődése határozza meg.
+
+3.3. Az energiafogyasztás rövid és hosszú távon is számottevően csökken.
+
+4. Közlekedés esetében:
+
+4.1. A közúti energiafogyasztás csökkentése, illetve az elektromobilitás kiterjesztése érdekében eredményes szakpolitikai intézkedések valósulnak meg.
+
+4.2. Az energiaigényt a GDP és a jövedelem növekedési üteme, illetve az üzemanyagár alakulása mellett a hagyományos meghajtású járművek növekvő hatékonysága, a szállítás racionalizálása, valamint az elektromobilitás és más környezetbarát közlekedési módok terjedése alakítja.
+
+4.3. Az energiafogyasztás rövid és hosszú távon is jelentős mértékben emelkedik.
+
+5. A villamosenergia-fogyasztás átlagosan évi 0,7%-kal növekszik.
+
+6. A megújulóenergia-hasznosítás végső energiafogyasztáshoz viszonyított részaránya emelkedik, ami döntően a napelem-kapacitás és a megújuló alapú távhőtermelés növekedéséből ered.
+
+7. Rövid távon a végsőenergia-fogyasztás mérsékelten, illetve lassuló ütemben növekszik.
