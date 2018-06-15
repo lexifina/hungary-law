@@ -4,4 +4,6 @@ A Kormány
 
 2. egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat 1. pont b) alpontjában a Korm. határozat 2. pont a) alpontja megvalósítására a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára biztosított 180 000 000 forint forrás tekintetében az elszámolási és visszatérítési határidő 2018. december 31. napjában kerüljön meghatározásra;
 
-3. a 2016. évi budapesti IRONMAN 70.3 nemzetközi triatlonversennyel kapcsolatosan megítélt állami támogatás felhasználása kapcsán szükséges kormányzati intézkedésekről szóló 1675/2017. (IX. 21.) Korm. határozatot visszavonja.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

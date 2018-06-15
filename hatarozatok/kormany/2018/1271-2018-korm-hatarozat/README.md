@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1271-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-06-14 | 2018-1271-30-22.1 | 1271/2018. (VI. 14.) Korm. határozat |
+| 2018-06-15 | 2018-1271-30-22.2 | 2010: CXXX. törvény |
