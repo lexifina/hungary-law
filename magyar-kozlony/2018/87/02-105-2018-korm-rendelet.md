@@ -1,0 +1,118 @@
+# A Kormány 105/2018. (VI. 15.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 87. szám, 2018. június 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/47c241c1bd8ba80305bb012c7546553784fd7573/dokumentumok/ed7f5753fe2b1f91973a72b9a66bdba07167e6f7/letoltes)
+
+---
+
+A Kormány 105/2018. (VI. 15.) Korm. rendelete
+a hulladékgazdálkodási közszolgáltatással összefüggő egyes kormányrendeletek módosításáról
+A Kormány
+a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 17. pontjában,
+a 2. alcím tekintetében az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi
+CXXXIV. törvény 4. § b) pontjában,
+a 3. alcím tekintetében a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 1. és 31. pontjában,
+a 4. alcím tekintetében a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 34. pontjában,
+az 5. alcím tekintetében a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 33. és 35. pontjában, valamint az egyes
+közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény 4. § b) pontjában
+kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A települési hulladékkezelési közszolgáltatási díj megállapításának részletes szakmai szabályairól
+szóló 64/2008. (III. 28.) Korm. rendelet módosítása
+1. §
+Hatályát veszti a települési hulladékkezelési közszolgáltatási díj megállapításának részletes szakmai szabályairól
+szóló 64/2008. (III. 28.) Korm. rendelet 3. § (5) bekezdése.
+2. A nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről
+szóló 292/2013. (VII. 26.) Korm. rendelet módosítása
+2. §
+A nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről szóló 292/2013.
+(VII. 26.) Korm. rendelet 13/A. § (1) bekezdésében a „tizenöt napos fizetési határidővel” szövegrész helyébe
+a„legalább tizenöt napos fizetési határidővel”szöveg lép.
+3. A hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló
+385/2014. (XII. 31.) Korm. rendelet módosítása
+3. § (1) A hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló 385/2014. (XII. 31.) Korm. rendelet
+(a továbbiakban: Kr.1.) 6. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(Az elkülönített gyűjtéssel kapcsolatos széleskörű lakossági tájékoztatás, valamint az elkülönített gyűjtés ösztönzése és
+hatékonyságának növelése érdekében a közszolgáltató az ingatlanhasználót folyamatosan tájékoztatja)
+„a) a vegyes, az elkülönítetten gyűjtött, a zöldhulladék, a biohulladék, a lomhulladék, valamint, ha arra
+a közszolgáltatási szerződés kiterjed, a háztartásban képződő veszélyes hulladék elszállításának rendjéről,
+időpontjáról, módjáról, feltételeiről,”
+(2) A Kr.1. 6. § (1) bekezdése a következő f) ponttal egészül ki:
+(Az elkülönített gyűjtéssel kapcsolatos széleskörű lakossági tájékoztatás, valamint az elkülönített gyűjtés ösztönzése és
+hatékonyságának növelése érdekében a közszolgáltató az ingatlanhasználót folyamatosan tájékoztatja)
+„f) a zöldhulladék házi komposztálásának lehetőségéről, esetleges feltételeiről a települési és lakókörnyezeti
+jellemzőktől függően.”
+4. §
+A Kr.1. 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A közszolgáltató az elkülönítetten gyűjtött települési hulladékot szükség szerinti gyakorisággal, a vegyes,
+továbbá más fajtájú, jellegű vagy típusú hulladéktól elkülönítve szállítja el, elkerülve azok keveredését.”
+
+5. §
+A Kr.1.
+a) 2. § (1) bekezdés 2. pontjában az„a)–d) pontjában”szövegrész helyébe az„a)–e) pontjában”szöveg,
+b) 3. § (2) bekezdésében a„szilárd halmazállapotú veszélyes hulladék”szövegrész helyébe a„veszélyes hulladék”
+szöveg,
+c) 6. § (1) bekezdés d) pontjában az„elérhetőségéről, valamint”szövegrész helyébe az„elérhetőségéről,”szöveg,
+d) 6. § (1) bekezdés e) pontjában a„rendjéről.”szövegrész helyébe a„rendjéről, valamint”szöveg
+lép.
+6. §
+Hatályát veszti a Kr.1. 3. § (1) és (3) bekezdése.
+4. Az Országos Hulladékgazdálkodási Közszolgáltatási Tervre vonatkozó részletes szabályokról szóló
+68/2016. (III. 31.) Korm. rendelet módosítása
+7. §
+Az Országos Hulladékgazdálkodási Közszolgáltatási Tervre vonatkozó részletes szabályokról szóló 68/2016.
+(III. 31.) Korm. rendelet 3. § (1) bekezdésében a „hulladékgazdálkodási közszolgáltatási díj” szövegrész helyébe
+a„hulladékgazdálkodási közszolgáltatási és szolgáltatási díj”szöveg lép.
+5. Az állami hulladékgazdálkodási közfeladat ellátására létrehozott szervezet kijelöléséről,
+feladatköréről, az adatkezelés módjáról, valamint az adatszolgáltatási kötelezettségek részletes
+szabályairól szóló 69/2016. (III. 31.) Korm. rendelet módosítása
+8. §
+Az állami hulladékgazdálkodási közfeladat ellátására létrehozott szervezet kijelöléséről, feladatköréről,
+az adatkezelés módjáról, valamint az adatszolgáltatási kötelezettségek részletes szabályairól szóló 69/2016. (III. 31.)
+Korm. rendelet (a továbbiakban: Kr.2.) 7. § (9) bekezdése helyébe a következő rendelkezés lép, és a § a következő
+(10) bekezdéssel egészül ki:
+„(9) A megfelelőségi vélemény visszavonásig, de legfeljebb egy évig hatályos. A közszolgáltató a megfelelőségi
+vélemény hatályának lejártát megelőző legkésőbb 30 nappal kezdeményezheti a megfelelőségi vélemény további
+legfeljebb egy évig történő meghosszabbítását.
+(10) Azon gazdálkodó szervezet megfelelőségének megállapítására, amely a (3) bekezdésben foglaltak szerint
+egyedi adatszolgáltatást teljesít, a (2) bekezdés, valamint a (4)–(8) bekezdés rendelkezéseit kell alkalmazni azzal
+az eltéréssel, hogy a (2) bekezdésben meghatározott határidő az egyedi adatszolgáltatás benyújtását követő naptól
+kezdődik.”
+9. §
+A Kr.2. 8. §-a helyébe a következő rendelkezés lép:
+„8. § (1) Ha a Koordináló szerv megállapítja, hogy a közszolgáltató a megfelelőségi vélemény kiadásának feltételeit
+a Koordináló szerv felhívása ellenére sem teljesítette, úgy a Koordináló szerv a megfelelőségi véleményét
+visszavonja, és a közszolgáltató adatait törli a 7. § (4) bekezdésben meghatározott nyilvántartásból.
+(2) A megfelelőségi vélemény visszavonásáról a Koordináló szerv az ellátásért felelőst azonnal értesíti.
+(3) Az OHKT módosítása esetén a közszolgáltató az OHKT megváltozott követelményeinek való megfelelést
+a módosított OHKT-ról szóló kormányhatározat közzétételét követő 7. hónaptól biztosítja.”
+10. §
+A Kr.2. 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A közszolgáltatási díjról a Koordináló szerv – a nem rendszeres, eseti közszolgáltatási tevékenység, valamint
+a 26. § (3) bekezdése szerinti eset kivételével – negyedévente állít ki számlát legalább 15 napos fizetési határidővel.”
+11. §
+A Kr.2. 26. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A közszolgáltató azon közszolgáltatási területén, ahol a számlázásra, díjbeszedésre és a kintlévőség komplex
+módon történő kezelésére a közszolgáltató olyan szerződést kötött, amelynek keretében a másik szerződő fél
+a kockázatok átvállalása mellett ezen feladatok teljes körű ellátását a kiszámlázott közszolgáltatási díj meghatározott
+százalékának megfizetése mellett vállalta, és a szerződésbe a Koordináló szerv belépett, a közszolgáltatási
+díj számlázása olyan gyakorisággal történik, amilyen gyakorisággal a Koordináló szerv szerződésbe történő
+belépésekor történt.”
+
+12. §
+A Kr.2. a következő 29. §-sal egészül ki:
+„29. § E rendeletnek a hulladékgazdálkodási közszolgáltatással összefüggő egyes kormányrendeletek módosításáról
+szóló 105/2018. (VI. 15.) Korm. rendelet (a továbbiakban: Mód. Kr. 2.) 8. §-ával megállapított 7. § (10) bekezdését
+a Mód. Kr. 2. hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.”
+13. §
+A Kr.2.
+a) 3. § (2) bekezdés b) pontjában a „közszolgáltatási díj” szövegrész helyébe a „hulladékgazdálkodási
+közszolgáltatási és szolgáltatási díj”szöveg,
+b) 6. § (14) bekezdésében a„köteles kifizetni”szövegrész helyébe a„köteles viselni, kifizetni”szöveg,
+c) 7. § (7) bekezdésében a„kérelem”szövegrész helyébe a„tájékoztatás”szöveg,
+d) 23. §-ában az„évente”szövegrész helyébe a„minden év május 31. napjáig”szöveg
+lép.
+6. Záró rendelkezések
+14. §
+Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
