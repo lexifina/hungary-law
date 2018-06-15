@@ -16,4 +16,6 @@ pénzügyminiszter
 
 Határidő: folyamatos
 
-4. visszavonja a budapesti 4. számú metróvonal I. szakasz (Kelenföldi pályaudvar – Keleti pályaudvar) és kapcsolódó felszíni beruházásai című projekt befejezéséhez szükséges állami finanszírozás meghatározásáról szóló 1444/2016. (VIII. 17.) Korm. határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
