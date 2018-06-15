@@ -1,12 +1,12 @@
-## A 8. § (4) bekezdés szerinti, a kapacitásdíjból származó előzetes havi kiegyenlítő fizetések mértéke
+## A 8. § (4) bekezdése szerinti, a kapacitásdíjból származó előzetes havi kiegyenlítő fizetések mértéke
 
-|  |  | A) | B) |
+|  | A | B | C |
 
 | 1. |  | A 2. § (4) bekezdés a) pontja szerint befizetésre kötelezett | A 2. § (4) bekezdés b) pontja szerint kifizetésre jogosult |
 
 | 2. | Engedélyes megnevezése | FGSZ Földgázszállító Zrt. | Magyar Gáz Tranzit Zrt. |
 
-| 3. | Kiegyenlítő összeg mértéke, Ft | 324 825 000 | –324 825 000 |
+| 3. | Kiegyenlítő összeg mértéke, Ft | 350 061 000 | – 350 061 000 |
 
 3. melléklet az 1/2015. (II. 13.) MEKH rendelethez[^32]
 
