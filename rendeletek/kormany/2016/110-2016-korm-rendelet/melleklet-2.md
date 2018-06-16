@@ -72,7 +72,7 @@ Következő vagyonnyilatkozat-tétel esedékessége: …… év ……….……
 
 Ezt az igazolást fent nevezett munkatársunk részére az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény 2. § 1. pontja, valamint a 3. § (2) bekezdés c) pontja alapján állami projektértékelői jogviszony létesítése céljából állítottam ki.
 
-Vállalom, hogy a fenti adatokban történő változásról – különösen a foglalkoztatási jogviszony megszűnésének, megszüntetésének tényéről – a Miniszterelnökséget haladéktalanul tájékoztatom.
+Vállalom, hogy a fenti adatokban történő változásról – különösen a foglalkoztatási jogviszony megszűnésének, megszüntetésének tényéről – az Innovációs és Technológiai Minisztériumot haladéktalanul tájékoztatom.
 
 Kelt: …………………………… (hely), …… év …………………… hó … napján.
 
@@ -88,4 +88,4 @@ P. H.
 
 * A megfelelő részt kérjük kitölteni, jelölni.
 
-[^9]: A 2. melléklet a 199/2016. (VII. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 4. §-át.
+[^9]: A 2. melléklet a 199/2016. (VII. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 106/2018. (VI. 15.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.

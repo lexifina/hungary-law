@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-110-20-
 | 2016-07-16 | 2016-110-20-22.3 | 199/2016. (VII. 15.) Korm. rendelet |
 | 2017-11-11 | 2016-110-20-22.4 | 328/2017. (XI. 8.) Korm. rendelet |
 | 2017-12-15 | 2016-110-20-22.5 | 387/2017. (XII. 12.) Korm. rendelet |
+| 2018-06-16 | 2016-110-20-22.6 | 199/2016. (VII. 15.) Korm. rendelet |
