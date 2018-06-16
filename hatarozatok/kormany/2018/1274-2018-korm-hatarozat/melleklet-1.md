@@ -1,6 +1,6 @@
 ## 1. A Kormány – figyelemmel a Nemzeti Energiastratégiáról szóló 77/2011. (X. 14.) OGY határozat 4. pont w) és z) alpontjában foglaltakra – megvizsgálta a Nemzeti Energiastratégia energiafelhasználásra vonatkozó előrejelzéseit, és a Nemzeti Energiastratégia energiafelhasználási előrejelzései című melléklete szerinti adatokat az 1. mellékletben közzéteszi.
 
-## 2. A Kormány a Nemzeti Energiastratégia energiafelhasználás-előrejelzéseinek frissítéséről szóló 1160/2015. (III. 20.) Korm. határozatot visszavonja.
+## 2.[^1]
 
 1. melléklet az 1274/2018. (VI. 15.) Korm. határozathoz
 
@@ -129,3 +129,5 @@ A „Közös erőfeszítés” (Policy) forgatókönyv az alábbi feltevésekkel
 6. A megújulóenergia-hasznosítás végső energiafogyasztáshoz viszonyított részaránya emelkedik, ami döntően a napelem-kapacitás és a megújuló alapú távhőtermelés növekedéséből ered.
 
 7. Rövid távon a végsőenergia-fogyasztás mérsékelten, illetve lassuló ütemben növekszik.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
