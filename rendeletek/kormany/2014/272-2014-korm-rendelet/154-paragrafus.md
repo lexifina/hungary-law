@@ -1,4 +1,4 @@
-154. § (1)[^778] A kifogás 153. § (3) bekezdése szerinti felterjesztéséig az irányító hatóság, a kifizető ügynökség, a közreműködő szervezet, az alapok alapját végrehajtó szervezet, a pénzügyi közvetítő vagy közösségvezérelt helyi fejlesztés esetén – ha a kifogást a HACS döntése ellen nyújtották be – a HACS is, a felterjesztést követően az európai uniós források felhasználásáért felelős miniszter a kifogás elbírálására irányuló eljárást megszünteti, ha a kifogást elbíráló döntés meghozataláig
+154. § (1)[^802] A kifogás 153. § (3) bekezdése szerinti felterjesztéséig az irányító hatóság, a kifizető ügynökség, a közreműködő szervezet, az alapok alapját végrehajtó szervezet, a pénzügyi közvetítő vagy közösségvezérelt helyi fejlesztés esetén – ha a kifogást a HACS döntése ellen nyújtották be – a HACS is, a felterjesztést követően az európai uniós források felhasználásáért felelős miniszter a kifogás elbírálására irányuló eljárást megszünteti, ha a kifogást elbíráló döntés meghozataláig
 
 a) a kifogást annak benyújtója erre irányuló írásbeli nyilatkozatával visszavonta,
 
@@ -18,7 +18,7 @@ h) a kedvezményezett, a pénzügyi közvetítő vagy a végső kedvezményezett
 
 i) a kifogás benyújtója jogutód nélkül megszűnt.
 
-(2)[^779] Ha a támogatási kérelmet vagy a pénzügyi eszköz igénybevételére vonatkozó kérelmet forráshiány miatti elutasító döntésben az szerepel, hogy a támogatási kérelem vagy a pénzügyi eszköz igénybevételére vonatkozó kérelem költségcsökkentéssel, illetve feltételekkel támogatható, és a kifogás a költségcsökkentés, illetve szerződéskötési feltételek ellen is irányul, a kifogás elbírálására irányuló eljárás megszüntetésének az (1) bekezdés b) pontjára történő hivatkozással nincs helye.
+(2)[^803] Ha a támogatási kérelmet vagy a pénzügyi eszköz igénybevételére vonatkozó kérelmet forráshiány miatti elutasító döntésben az szerepel, hogy a támogatási kérelem vagy a pénzügyi eszköz igénybevételére vonatkozó kérelem költségcsökkentéssel, illetve feltételekkel támogatható, és a kifogás a költségcsökkentés, illetve szerződéskötési feltételek ellen is irányul, a kifogás elbírálására irányuló eljárás megszüntetésének az (1) bekezdés b) pontjára történő hivatkozással nincs helye.
 
-[^778]: A 154. § (1) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 20. §-ával megállapított, szitó szövegrésze az 59/2018. (III. 26.) Korm. rendelet 12. § (1) bekezdés 19. pontja szerint módosított szöveg.
-[^779]: A 154. § (2) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 34. pontja szerint módosított szöveg.
+[^802]: A 154. § (1) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 20. §-ával megállapított, szitó szövegrésze az 59/2018. (III. 26.) Korm. rendelet 12. § (1) bekezdés 19. pontja szerint módosított szöveg.
+[^803]: A 154. § (2) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 34. pontja szerint módosított szöveg.

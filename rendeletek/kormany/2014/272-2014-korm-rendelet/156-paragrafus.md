@@ -1,8 +1,10 @@
+## 155/A. §[^805] A Vidékfejlesztési Program és a Magyar Halgazdálkodási Operatív Program esetén ahol e fejezet és az 1. melléklet VII. fejezete európai uniós források felhasználásáért felelős minisztert említ, az agrár-vidékfejlesztésért felelős minisztert kell érteni.
+
 ## XXI. Fejezet
 
 ## SZABÁLYTALANSÁGKEZELÉS
 
-156. § (1)[^781] Szabálytalansági eljárás megindítására, szabálytalanság megállapítására kizárólag
+156. § (1)[^806] Szabálytalansági eljárás megindítására, szabálytalanság megállapítására kizárólag
 
 a) a támogatási szerződés megkötését,
 
@@ -18,7 +20,7 @@ e) kezességvállalás esetén a kezességvállalási nyilatkozat kiadását
 
 (2) A szabálytalansági eljárást az irányító hatóság folytatja le, abban az esetben is, ha közreműködő szervezet kerül kijelölésre.
 
-(2a)[^782] Pénzügyi eszköz esetén ahol e Fejezet és – az 57. alcím kivételével – a XXII. Fejezet
+(2a)[^807] Pénzügyi eszköz esetén ahol e Fejezet és – az 57. alcím kivételével – a XXII. Fejezet
 
 a) kedvezményezettet említ, azon végső kedvezményezettet vagy pénzügyi közvetítőt is,
 
@@ -26,12 +28,6 @@ b) támogatási szerződést vagy támogatási jogviszonyt említ, azon végső 
 
 c) irányító hatóságot említ, azon a pénzügyi közvetítő és a végső kedvezményezett tevékenysége körében felmerült szabálytalanság esetén az alapok alapját végrehajtó szervezetet,
 
-d) irányító hatóság vezetőjét említ, azon a pénzügyi közvetítő és a végső kedvezményezett tevékenysége körében felmerült szabálytalanság esetén az alapok alapját végrehajtó szervezet szabálytalansági döntéshozó testületét
-
-kell érteni.
-
-(2b)[^783] Vidékfejlesztési program esetén, ha a szabálytalansági eljárás megindítására okot adó körülmény a támogatási szerződés megkötését megelőzően következett be, de a támogatási szerződés megkötését követően jut a kifizető ügynökség tudomására, a szabálytalansági eljárást az irányító hatóság, egyéb esetekben a kifizető ügynökség folytatja le.
-
-[^781]: A 156. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 43. §-ával megállapított szöveg.
-[^782]: A 156. § (2a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 86. § (2) bekezdése iktatta be.
-[^783]: A 156. § (2b) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 86. § (2) bekezdése iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 56. pontja szerint módosított szöveg.
+[^805]: A 155/A. § a 106/2018. (VI. 15.) Korm. rendelet 18. §-a iktatta be.
+[^806]: A 156. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^807]: A 156. § (2a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 86. § (2) bekezdése iktatta be.

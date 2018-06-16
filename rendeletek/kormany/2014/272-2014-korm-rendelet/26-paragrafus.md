@@ -1,4 +1,4 @@
-## 25/A. §[^156] A szakmai támogató feladatait az agrárpolitikáért felelős miniszter látja el.
+## 25/A. §[^159]
 
 ## 14. A kifizető ügynökség feladatai
 
@@ -14,7 +14,7 @@ d) törvényben, illetve kormányrendeletben meghatározott egyéb feladatok ell
 
 (2) A kifizető ügynökség a feladatkörébe tartozó intézkedésekkel kapcsolatos jogok és kötelezettségek teljesítésének módjára vonatkozóan tájékoztatókat, közleményeket ad ki, illetve nyomtatványokat rendszeresít.
 
-(3)[^157] A kifizető ügynökség különösen
+(3)[^160] A kifizető ügynökség különösen
 
 a) a kifizetés engedélyezése előtt ellenőrzi a kérelmek elfogadhatóságának és a támogatások odaítélésére irányuló eljárásnak, valamint a kérelmek uniós szabályoknak való megfelelését,
 
@@ -26,19 +26,19 @@ d) ellátja a KAP rendelet 116. cikkében megjelölt uniós munkacsoportban a ta
 
 e) elkészíti a kiadásigazoló nyilatkozatot és a finanszírozási igények előrejelzését és elküldi az Európai Bizottság részére,
 
-f)[^158] az Európai Bizottság által a 908/2014/EU bizottsági végrehajtási rendelet 23. cikke szerint a kifizető ügynökség számlájára visszatérített összeget elszámolja,
+f)[^161] az Európai Bizottság által a 908/2014/EU bizottsági végrehajtási rendelet 23. cikke szerint a kifizető ügynökség számlájára visszatérített összeget elszámolja,
 
-g)[^159] ellátja a 908/2014/EU bizottsági végrehajtási rendelet 29. cikke szerinti éves számla-elszámolási és a 33. cikke szerinti pénzügyi záró elszámolás feladatokat,
+g)[^162] ellátja a 908/2014/EU bizottsági végrehajtási rendelet 29. cikke szerinti éves számla-elszámolási és a 33. cikke szerinti pénzügyi záró elszámolás feladatokat,
 
 h) visszatartás útján levonja a kedvezményezett tartozását a kedvezményezett javára végrehajtandó jövőbeli kifizetés összegéből.
 
-(4)[^160] A kifizető ügynökség a 20. § 16. és 22. pontjában foglalt feladat ellátásában együttműködik az EMVA irányító hatóságával.
+(4)[^163] A kifizető ügynökség a 20. § 16. és 22. pontjában foglalt feladat ellátásában együttműködik az EMVA irányító hatóságával.
 
-(5)[^161] A 20. § 23. pontjában meghatározott feladatokat EMVA esetében a kifizető ügynökség látja el.
+(5)[^164] A 20. § 23. pontjában meghatározott feladatokat EMVA esetében a kifizető ügynökség látja el.
 
-[^156]: A 25/A. §-t a 347/2015. (XI. 20.) Korm. rendelet 10. §-a iktatta be.
-[^157]: A 26. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^158]: A 26. § (3) bekezdés f) pontja a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^159]: A 26. § (3) bekezdés g) pontja a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^160]: A 26. § (4) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^161]: A 26. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 40. pontja, a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^159]: A 25/A. §-t a 347/2015. (XI. 20.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 106/2018. (VI. 15.) Korm. rendelet 24. § f) pontja.
+[^160]: A 26. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^161]: A 26. § (3) bekezdés f) pontja a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^162]: A 26. § (3) bekezdés g) pontja a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^163]: A 26. § (4) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^164]: A 26. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 40. pontja, a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 2. pontja szerint módosított szöveg.

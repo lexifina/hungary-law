@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2017-12-15 | 2014-272-20-22.42 | 387/2017. (XII. 12.) Korm. rendelet |
 | 2018-01-01 | 2014-272-20-22.43 | 358/2014. (XII. 29.) Korm. rendelet |
 | 2018-04-03 | 2014-272-20-22.44 | 59/2018. (III. 26.) Korm. rendelet |
+| 2018-06-16 | 2014-272-20-22.45 | 106/2018. (VI. 15.) Korm. rendelet |

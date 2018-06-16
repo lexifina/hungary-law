@@ -1,5 +1,5 @@
 ## 40. §
 
-## 18.[^220]
+## 18.[^226]
 
-[^220]: A 18. alcímet (40/A–40/C. §) a 347/2015. (XI. 20.) Korm. rendelet 50. § 11. pontja hatályon kívül helyezte.
+[^226]: A 18. alcímet (40/A–40/C. §) a 347/2015. (XI. 20.) Korm. rendelet 50. § 11. pontja hatályon kívül helyezte.
