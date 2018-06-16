@@ -1,0 +1,3 @@
+## 5. § A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 5/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter és az európai uniós források felhasználásáért felelős miniszter az általa vezetett minisztérium szervezeti és működési szabályzatában meghatározza a 6. § szerinti ágazati feladatainak ellátása tekintetében feladatkörrel rendelkező szervezeti egységeknek az irányító hatósággal való kapcsolattartásának rendjét.”
