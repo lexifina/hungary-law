@@ -20,7 +20,7 @@ c) az akciótervben szereplő konstrukciók és tartalék támogatási konstrukc
 
 2. Az akcióterv elkészítése és jóváhagyása
 
-2.1. A Miniszterelnökségen működő központi koordinációs szervezeti egység (a továbbiakban: központi koordinációs szerv) akcióterv sablont, és ahhoz tartozó kitöltési útmutatót készít.
+2.1. Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztériumban működő központi koordinációs szervezeti egység (a továbbiakban: központi koordinációs szerv) akcióterv sablont, és ahhoz tartozó kitöltési útmutatót készít.
 
 2.2. Az akcióterv koncepcióját és első tervezetét a 2.1. pont szerinti sablon és útmutató alapján az adott irányító hatóság (a továbbiakban: IH) a beérkező igények alapján – szükség esetén a minisztériumok, a közreműködő szervezetek (a továbbiakban: KSZ) bevonásával – készíti el az ágazati stratégiák alapján.
 
@@ -156,7 +156,7 @@ A pályázati felhívások elkészítése, meghirdetése
 
 9. A pályázati felhívás elkészítése
 
-16.1. A pályázati felhívást az IH a központi koordinációs szerv, valamint a Miniszterelnökség, mint a XIX. Uniós fejlesztések költségvetési fejezetet irányító szerv által kiadott és a www.szechenyi2020.hu honlapon közzétett, a központi koordinációs szervre, az IH-ra, a KSZ-re és a kedvezményezettre vonatkozó
+16.1. A pályázati felhívást az IH az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium által kiadott és a www.szechenyi2020.hu honlapon közzétett, a központi koordinációs szervre, az IH-ra, a KSZ-re és a kedvezményezettre vonatkozó
 
 a) arculati kézikönyv,
 
@@ -2696,7 +2696,7 @@ c) a projektátadó és a projektátvevő kedvezményezettek költségvetéséne
 
 119. Intézményi konszolidáció kapcsán bekövetkező feladatátadás különös szabályai
 
-258.1. Azon projektek esetében, melyek jogszabály alapján jogosultak az önerő Miniszterelnökség általi finanszírozására, a jogutódlás időpontját követően a projektátvevő vagy jogutód kedvezményezett költségvetési szerv saját forrása a központi költségvetésből kerül biztosításra.
+258.1. Azon projektek esetében, melyek jogszabály alapján jogosultak az önerő európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium általi finanszírozására, a jogutódlás időpontját követően a projektátvevő vagy jogutód kedvezményezett költségvetési szerv saját forrása a központi költségvetésből kerül biztosításra.
 
 258.2. Ha a projektátadó vagy jogelőd kedvezményezett által támogatási előleg igénylésére került sor, a projektátadó vagy jogelőd kedvezményezett az előleg általa számlákkal lefedett és elszámolt költségekre jutó részén felül fennmaradó, el nem számolt összegét átadhatja a projektátvevő vagy jogutód kedvezményezettnek. A támogatási előleg átadását a projektátvevő vagy jogutód kedvezményezettel kötött támogatási szerződésben rögzíteni kell. Az át nem adott, el nem számolt előleget vissza kell követelni.
 
@@ -3474,7 +3474,7 @@ A közbeszerzés
 
 329.2. A kedvezményezett az ajánlatok elbírálásáról szóló írásbeli összegezés megküldését követő 3 napon belül a monitoring és információs rendszeren keresztül megküldi a közbeszerzési eljárás során keletkezett összes dokumentumot – jogorvoslati eljárás esetén a Közbeszerzési Döntőbizottság döntését tartalmazó dokumentumot is – a KSZ részére.
 
-329.3. A KSZ a kedvezményezett által megküldött dokumentumokat az egységes működési kézikönyvvel, valamint a központi koordinációs szerv szakmai útmutatójával összhangban közbeszerzési-jogi, támogathatósági és elszámolhatósági, valamint műszaki szempontú utóellenőrzésnek veti alá.
+329.3. A KSZ a kedvezményezett által megküldött dokumentumokat az egységes működési kézikönyvvel, valamint a közbeszerzésekért felelős miniszter szakmai útmutatójával összhangban közbeszerzési-jogi, támogathatósági és elszámolhatósági, valamint műszaki szempontú utóellenőrzésnek veti alá.
 
 330.1. A KSZ elektronikus úton tájékoztatja a kedvezményezettet arról, ha az utóellenőrzés elvégzéséhez hiánypótlás vagy a tényállás tisztázása szükséges. A KSZ a tájékoztatásban megjelöli
 
@@ -3488,7 +3488,7 @@ b) a dokumentumok megküldésének – legfeljebb 7 napos – határidejét.
 
 332.1. Az ellenőrzés eredményétől függően a KSZ szabálytalansági eljárást folytat le a Rendelet 34. alcímében meghatározott szabályok szerint, illetve a Kbt. alapján jogorvoslati eljárást kezdeményez.
 
-332.2. A KSZ köteles haladéktalanul értesíteni a központi koordinációs szervet és az IH-t a szabálytalansági eljárás megindításáról. A központi koordinációs szerv és az IH kérésére a KSZ köteles teljes körűen adatot szolgáltatni a központi koordinációs szerv részére a felkérést követő 3 napon belül.
+332.2. A KSZ köteles haladéktalanul értesíteni a közbeszerzésekért felelős minisztert és az IH-t a szabálytalansági eljárás megindításáról. A közbeszerzésekért felelős miniszter és az IH kérésére a KSZ köteles teljes körűen adatot szolgáltatni a közbeszerzésekért felelős miniszter részére a felkérést követő 3 napon belül.
 
 332.3. Ha a Kbt. szerinti jogorvoslati eljárás megindítására a Rendelet 39. § (2) bekezdése szerinti határidőt követően, de még a Rendelet 39. § (3) bekezdése szerinti értesítés megküldése előtt kerül sor, a KSZ az ellenőrzést a jogorvoslati eljárás lezárásáról szóló döntés Kbt. szerinti kézbesítése, illetve közzététele napjáig felfüggeszti. Az ellenőrzés felfüggesztése vonatkozásában a korábbi időpont az irányadó.
 
@@ -3502,13 +3502,13 @@ b) a dokumentumok megküldésének – legfeljebb 7 napos – határidejét.
 
 334.1. A kedvezményezett a közbeszerzési eljárás megindítását megelőzően legalább 40 nappal a közbeszerzési dokumentumokat támogathatósági, elszámolhatósági, valamint műszaki szempontú minőségellenőrzés céljából a KSZ-nél nyújtja be a monitoring és információs rendszeren keresztül.
 
-334.2. A KSZ a részére nem elektronikus úton megküldött közbeszerzési dokumentumokat, a rögzítés elmaradásáról szóló kedvezményezett által készített indokolással együtt, haladéktalanul továbbítja a központi koordinációs szerv részére.
+334.2. A KSZ a részére nem elektronikus úton megküldött közbeszerzési dokumentumokat, a rögzítés elmaradásáról szóló kedvezményezett által készített indokolással együtt, haladéktalanul továbbítja a közbeszerzésekért felelős miniszter részére.
 
 335.1. A KSZ az ellenőrzött dokumentumok tekintetében a kedvezményezett részére a beérkezéstől számított legfeljebb 7 napon belül megküldi a támogathatósági, elszámolhatósági tekintetben tett észrevételeit.
 
 335.2. A kedvezményezett ellenőrzi, javítja az észrevételeknek megfelelően a közbeszerzési dokumentumokat, majd az észrevételek kézhezvételét követő legfeljebb 5 napon belül – saját észrevételeivel együtt – visszaküldi a KSZ részére a monitoring és információs rendszeren keresztül.
 
-335.3. A KSZ a visszaküldött dokumentumokat ismételten ellenőrzi és a módosított dokumentumok beérkezését követő 5 napon belül megküldi a kedvezményezettnek és a központi koordinációs szervnek az ellenőrzésről szóló nyilatkozatát.
+335.3. A KSZ a visszaküldött dokumentumokat ismételten ellenőrzi és a módosított dokumentumok beérkezését követő 5 napon belül megküldi a kedvezményezettnek és a közbeszerzésekért felelős miniszternek az ellenőrzésről szóló nyilatkozatát.
 
 336.1. A KSZ által a kedvezményezett részére megküldött műszaki, szakmai ellenőrzésről szóló nyilatkozatnak tartalmaznia kell, hogy
 
@@ -3536,9 +3536,9 @@ c) az ellenőrzés megtörtént és az ellenőrzés időpontjában meghatározot
 
 158. Közbeszerzési-jogi minőségellenőrzés
 
-338.1. A központi koordinációs szerv abban az esetben fogadhatja be a kedvezményezett által – a Rendelet 39/B. § (5) bekezdésének megfelelően – a közbeszerzési-jogi minőségellenőrzés céljából a közbeszerzési eljárás megindítását megelőzően – a monitoring és információs rendszeren keresztül – megküldött közbeszerzési dokumentumokat, ha a kedvezményezett a KSZ-nek a műszaki, szakmai tartalommal kapcsolatban kiállított, elfogadó tartalmú nyilatkozatát is csatolta.
+338.1. A közbeszerzésekért felelős miniszter abban az esetben fogadhatja be a kedvezményezett által – a Rendelet 39/B. § (5) bekezdésének megfelelően – a közbeszerzési-jogi minőségellenőrzés céljából a közbeszerzési eljárás megindítását megelőzően – a monitoring és információs rendszeren keresztül – megküldött közbeszerzési dokumentumokat, ha a kedvezményezett a KSZ-nek a műszaki, szakmai tartalommal kapcsolatban kiállított, elfogadó tartalmú nyilatkozatát is csatolta.
 
-338.2. A központi koordinációs szervnek a közbeszerzési dokumentumok megküldésével egyidejűleg a következő információkat kell bekérnie a kedvezményezettől a monitoring és információs rendszeren keresztül:
+338.2. A közbeszerzésekért felelős miniszternek a közbeszerzési dokumentumok megküldésével egyidejűleg a következő információkat kell bekérnie a kedvezményezettől a monitoring és információs rendszeren keresztül:
 
 a) a kedvezményezett neve, székhelye (címe),
 
@@ -3564,19 +3564,19 @@ k) iratjegyzék,
 
 l) adott esetben a kapcsolódó közbeszerzési eljárás monitoring és információs rendszer azonosítójának megjelölése.
 
-338.3. A 338.2. c) pontja szerinti kapcsolattartóként elsősorban a közbeszerzési dokumentumok összeállításáért felelős személyt kell megnevezni. Az ellenőrzés során a központi koordinációs szerv a kapcsolattartó személyén keresztül tájékoztatja a kedvezményezettet.
+338.3. A 338.2. c) pontja szerinti kapcsolattartóként elsősorban a közbeszerzési dokumentumok összeállításáért felelős személyt kell megnevezni. Az ellenőrzés során a közbeszerzésekért felelős miniszter a kapcsolattartó személyén keresztül tájékoztatja a kedvezményezettet.
 
-338.4. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzési eljárás megindulásától számított 5 napon belül kerül sor. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén a központi koordinációs szerv a rendelkezésre álló dokumentumok alapján bírálja el a közbeszerzéseket.
+338.4. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzési eljárás megindulásától számított 5 napon belül kerül sor. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén a közbeszerzésekért felelős miniszter a rendelkezésre álló dokumentumok alapján bírálja el a közbeszerzéseket.
 
-339.1. A kedvezményezett által megküldött dokumentumokat a központi koordinációs szerv az ellenőrzési módszertan figyelembe vételével közbeszerzési-jogi minőségellenőrzésnek veti alá, erről minőségellenőrzési jelentést állít ki. A központi koordinációs szerv a minőségellenőrzési jelentést a kérelem beérkezésétől számított 7 napon belül megküldi a kedvezményezett részére.
+339.1. A kedvezményezett által megküldött dokumentumokat a közbeszerzésekért felelős miniszter az ellenőrzési módszertan figyelembe vételével közbeszerzési-jogi minőségellenőrzésnek veti alá, erről minőségellenőrzési jelentést állít ki. A közbeszerzésekért felelős miniszter a minőségellenőrzési jelentést a kérelem beérkezésétől számított 7 napon belül megküldi a kedvezményezett részére.
 
-339.2. A központi koordinációs szerv a 339.1. pont szerinti 7 napos határidőt indokolt esetben, legfeljebb 7 nappal meghosszabbíthatja. A központi koordinációs szerv a határidő meghosszabbításáról legkésőbb a kérelem beérkezésétől számított 7. napon hivatali időben értesíti a kedvezményezettet. A minőségellenőrzésre rendelkezésre álló határidőbe nem számít bele a hiánypótlás, a tényállás tisztázásának ideje (a hiánypótlási felhívás megküldésétől a hiánypótlás teljes körű teljesítéséig tartó idő).
+339.2. A közbeszerzésekért felelős miniszter a 339.1. pont szerinti 7 napos határidőt indokolt esetben, legfeljebb 7 nappal meghosszabbíthatja. A közbeszerzésekért felelős miniszter a határidő meghosszabbításáról legkésőbb a kérelem beérkezésétől számított 7. napon hivatali időben értesíti a kedvezményezettet. A minőségellenőrzésre rendelkezésre álló határidőbe nem számít bele a hiánypótlás, a tényállás tisztázásának ideje (a hiánypótlási felhívás megküldésétől a hiánypótlás teljes körű teljesítéséig tartó idő).
 
-340. A kedvezményezett a központi koordinációs szerv minőségellenőrzési jelentése alapján módosított közbeszerzési dokumentumokat, illetve, ha a minőségellenőrzési jelentés megállapításaival nem ért egyet, a minőségellenőrzési jelentés megállapításaival kapcsolatos részletes indokolását a minőségellenőrzési jelentés kézhezvételétől számított 5 napon belül a monitoring és információs rendszeren keresztül megküldi a központi koordinációs szerv részére.
+340. A kedvezményezett a közbeszerzésekért felelős miniszter minőségellenőrzési jelentése alapján módosított közbeszerzési dokumentumokat, illetve, ha a minőségellenőrzési jelentés megállapításaival nem ért egyet, a minőségellenőrzési jelentés megállapításaival kapcsolatos részletes indokolását a minőségellenőrzési jelentés kézhezvételétől számított 5 napon belül a monitoring és információs rendszeren keresztül megküldi a közbeszerzésekért felelős miniszter részére.
 
-341.1. A központi koordinációs szerv a kedvezményezett által megküldött módosított közbeszerzési dokumentumokat ismételten ellenőrzi és közbeszerzési minőségellenőrzési tanúsítványt állít ki a módosított közbeszerzési dokumentumok kézhezvételét követő 5 napon belül, melyet megküld a kedvezményezett és a KSZ részére.
+341.1. A közbeszerzésekért felelős miniszter a kedvezményezett által megküldött módosított közbeszerzési dokumentumokat ismételten ellenőrzi és közbeszerzési minőségellenőrzési tanúsítványt állít ki a módosított közbeszerzési dokumentumok kézhezvételét követő 5 napon belül, melyet megküld a kedvezményezett és a KSZ részére.
 
-341.2. A központi koordinációs szerv minőségellenőrzési tanúsítványa tartalmazza legalább
+341.2. A közbeszerzésekért felelős miniszter minőségellenőrzési tanúsítványa tartalmazza legalább
 
 a) az „A közbeszerzési eljárás megindítását a vizsgált dokumentumok alapján – figyelemmel a ....../...... számú minőségellenőrzési jelentésben foglaltakra – támogatjuk.” vagy az „A közbeszerzési eljárás megindítását a vizsgált dokumentumok alapján – figyelemmel a ....../...... számú minőségellenőrzési jelentésben foglaltakra – nem támogatjuk.” vagy az „A közbeszerzési eljárás megindítását a vizsgált dokumentumok alapján – figyelemmel a ....../...... számú minőségellenőrzési jelentésben és a ....../...... számú tanúsítványban foglaltakra a következő feltételekkel támogatjuk.” szöveget,
 
@@ -3584,25 +3584,25 @@ b) azt, hogy a tanúsítvány a Rendelet alapján a közbeszerzési eljárás er
 
 c) azt, hogy a tanúsítvány a közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló 92/2011. (XII. 30.) NFM rendelet 9. § (1) bekezdése szerinti tanúsítványnak felel meg, de nem zárja ki a hirdetményellenőrzés kérésének lehetőségét, és
 
-d) a központi koordinációs szerv nyilatkozatát arról, hogy a minőségellenőrzési tanúsítvány kiállítása az ajánlatkérő Kbt.-ben meghatározott felelősségét az eljárás szabályosságáért nem érinti.
+d) a közbeszerzésekért felelős miniszter nyilatkozatát arról, hogy a minőségellenőrzési tanúsítvány kiállítása az ajánlatkérő Kbt.-ben meghatározott felelősségét az eljárás szabályosságáért nem érinti.
 
-342.1. A kedvezményezett a központi koordinációs szerv minőségellenőrzési tanúsítványának és a KSZ támogathatósági nyilatkozatának megfelelően véglegesíti a közbeszerzési dokumentumokat. A kedvezményezett a közbeszerzési eljárását akkor indíthatja meg, ha a központi koordinációs szerv a közbeszerzési dokumentumokat ellenőrizte és erről támogató tartalmú minőségellenőrzési tanúsítványt állított ki figyelembe véve a Rendelet 37. § (3) bekezdése, valamint a támogatási szerződés rendelkezéseit.
+342.1. A kedvezményezett a közbeszerzésekért felelős miniszter minőségellenőrzési tanúsítványának és a KSZ támogathatósági nyilatkozatának megfelelően véglegesíti a közbeszerzési dokumentumokat. A kedvezményezett a közbeszerzési eljárását akkor indíthatja meg, ha a közbeszerzésekért felelős miniszter a közbeszerzési dokumentumokat ellenőrizte és erről támogató tartalmú minőségellenőrzési tanúsítványt állított ki figyelembe véve a Rendelet 37. § (3) bekezdése, valamint a támogatási szerződés rendelkezéseit.
 
-342.2. A kedvezményezett a közbeszerzési eljárás megindításával egyidejűleg köteles a monitoring és információs rendszerben rögzíteni, illetve a KSZ-nek és a központi koordinációs szervnek elektronikusan megküldeni az eljárást megindító végleges közbeszerzési dokumentumokat.
+342.2. A kedvezményezett a közbeszerzési eljárás megindításával egyidejűleg köteles a monitoring és információs rendszerben rögzíteni, illetve a KSZ-nek és a közbeszerzésekért felelős miniszternek elektronikusan megküldeni az eljárást megindító végleges közbeszerzési dokumentumokat.
 
-343. Ha a kedvezményezett a minőségellenőrzési jelentés kézhezvételétől számított 5 napos határidőt elmulasztja és a minőségellenőrzési jelentés kézhezvétele óta 30 nap eltelt, a központi koordinációs szerv az ellenőrzést minőségellenőrzési tanúsítvány kibocsátása nélkül lezárhatja. A kedvezményezett ebben az esetben új kérelem benyújtásával a minőségbiztosítás ismételt megindítását kezdeményezheti.
+343. Ha a kedvezményezett a minőségellenőrzési jelentés kézhezvételétől számított 5 napos határidőt elmulasztja és a minőségellenőrzési jelentés kézhezvétele óta 30 nap eltelt, a közbeszerzésekért felelős miniszter az ellenőrzést minőségellenőrzési tanúsítvány kibocsátása nélkül lezárhatja. A kedvezményezett ebben az esetben új kérelem benyújtásával a minőségbiztosítás ismételt megindítását kezdeményezheti.
 
-344.1. A kedvezményezett írásban vagy elektronikus úton haladéktalanul tájékoztatja a központi koordinációs szervet, valamint a KSZ-t a végleges dokumentumokban történt esetleges változásokról. A dokumentumokban történt változás tekintetében, annak jelentősége, jellege és tartalma alapján a KSZ és a központi koordinációs szerv mérlegeli az új ellenőrzés lefolytatásának szükségességét. Új ellenőrzés lefolytatásának szükségtelensége esetén a változtatást a KSZ, illetve a központi koordinációs szerv tudomásul veszi.
+344.1. A kedvezményezett írásban vagy elektronikus úton haladéktalanul tájékoztatja a közbeszerzésekért felelős minisztert, valamint a KSZ-t a végleges dokumentumokban történt esetleges változásokról. A dokumentumokban történt változás tekintetében, annak jelentősége, jellege és tartalma alapján a KSZ és a közbeszerzésekért felelős miniszter mérlegeli az új ellenőrzés lefolytatásának szükségességét. Új ellenőrzés lefolytatásának szükségtelensége esetén a változtatást a KSZ, illetve a közbeszerzésekért felelős miniszter tudomásul veszi.
 
-344.2. A központi koordinációs szerv a végleges dokumentumok megküldését követően – a jogorvoslati határidők figyelembevételével – jelzi az IH felé a Rendeletben foglalt szabálytalansági eljárás, illetve a Kbt. szerinti jogorvoslati eljárás lefolytatásának szükségességét.
+344.2. A közbeszerzésekért felelős miniszter a végleges dokumentumok megküldését követően – a jogorvoslati határidők figyelembevételével – jelzi az IH felé a Rendeletben foglalt szabálytalansági eljárás, illetve a Kbt. szerinti jogorvoslati eljárás lefolytatásának szükségességét.
 
 159. A közbeszerzési eljárás lefolytatása (folyamatba épített helyszíni vagy dokumentum alapú ellenőrzés)
 
-345.1. A kedvezményezett a Kbt. szerinti bontási eljárás előtt 10 nappal tájékoztatja a központi koordinációs szervet a bontás időpontjáról a monitoring és információs rendszeren keresztül.
+345.1. A kedvezményezett a Kbt. szerinti bontási eljárás előtt 10 nappal tájékoztatja a közbeszerzésekért felelős minisztert a bontás időpontjáról a monitoring és információs rendszeren keresztül.
 
-345.2. A kedvezményezett az eljárást megindító iratokat és az addig keletkezett valamennyi dokumentumot (kiegészítő tájékoztatás, az ajánlati/ajánlattételi határidő esetleges módosítása, összeférhetetlenségi és titoktartási nyilatkozatok, helyszíni bejárásról készült jegyzőkönyv, jelenléti ív) megküldi a központi koordinációs szerv részére a monitoring és információs rendszeren keresztül.
+345.2. A kedvezményezett az eljárást megindító iratokat és az addig keletkezett valamennyi dokumentumot (kiegészítő tájékoztatás, az ajánlati/ajánlattételi határidő esetleges módosítása, összeférhetetlenségi és titoktartási nyilatkozatok, helyszíni bejárásról készült jegyzőkönyv, jelenléti ív) megküldi a közbeszerzésekért felelős miniszter részére a monitoring és információs rendszeren keresztül.
 
-346.1. A központi koordinációs szerv a közbeszerzési eljárásba megfigyelőt delegál. A központi koordinációs szerv az iratok beérkezését követően tájékoztatja a kedvezményezettet
+346.1. A közbeszerzésekért felelős miniszter a közbeszerzési eljárásba megfigyelőt delegál. A közbeszerzésekért felelős miniszter az iratok beérkezését követően tájékoztatja a kedvezményezettet
 
 a) a delegált megfigyelő személyéről és elérhetőségéről, valamint arról, hogy
 
@@ -3610,19 +3610,19 @@ b) a delegált megfigyelő az ellenőrzést személyesen vagy dokumentum alapon 
 
 346.2. A kedvezményezett az eljárás során keletkezett iratokat folyamatosan küldi a monitoring és információs rendszeren keresztül, szükség esetén elektronikus úton a delegált megfigyelőnek, különös tekintettel a részvételi/ajánlati/ajánlattételi felhívás módosítását tartalmazó hirdetményekre. A kedvezményezett a megfigyelőt a közbeszerzési eljárás lefolytatása során valamennyi eljárási cselekményről megfelelő időben, folyamatosan, elektronikus úton tájékoztatja, illetve az eljárás során keletkezett dokumentumokat (különösen a felvett jegyzőkönyveket, az egyes eljárási cselekményekhez kapcsolódó dokumentumokat, jogorvoslat esetén az azzal összefüggésben keletkezett dokumentumokat, valamint az ajánlatkérői döntéseket, döntési javaslatokat tartalmazó dokumentumokat) a megfigyelő részére megfelelő időben megküldi.
 
-347.1. A központi koordinációs szerv a folyamatba épített ellenőrzés lezárásaként valamennyi, az ellenőrzés elvégzéséhez szükséges dokumentum kézhezvételét követő 15 napon belül – több szakaszból álló eljárás esetén valamennyi eljárási szakasz vonatkozásban – közbeszerzési szabályossági tanúsítványt állít ki, melyet az eljárást lezáró döntést, illetve az összegezés megküldését megelőzően megküld a kedvezményezett, illetve a KSZ részére.
+347.1. A közbeszerzésekért felelős miniszter a folyamatba épített ellenőrzés lezárásaként valamennyi, az ellenőrzés elvégzéséhez szükséges dokumentum kézhezvételét követő 15 napon belül – több szakaszból álló eljárás esetén valamennyi eljárási szakasz vonatkozásban – közbeszerzési szabályossági tanúsítványt állít ki, melyet az eljárást lezáró döntést, illetve az összegezés megküldését megelőzően megküld a kedvezményezett, illetve a KSZ részére.
 
-347.2. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzés lefolytatásához szükséges dokumentumok monitoring és információs rendszerbe történő feltöltésétől számított 5 napon belül kerül sor azzal, hogy a központi koordinációs szerv az ellenőrzés lefolytatása során – szükség esetén – további dokumentumok bekérését is kezdeményezheti. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén a központi koordinációs szerv a rendelkezésre álló dokumentumok alapján bírálja el a közbeszerzéseket.
+347.2. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzés lefolytatásához szükséges dokumentumok monitoring és információs rendszerbe történő feltöltésétől számított 5 napon belül kerül sor azzal, hogy a közbeszerzésekért felelős miniszter az ellenőrzés lefolytatása során – szükség esetén – további dokumentumok bekérését is kezdeményezheti. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén a közbeszerzésekért felelős miniszter a rendelkezésre álló dokumentumok alapján bírálja el a közbeszerzéseket.
 
-348.1. A kedvezményezett az eljárást lezáró döntését abban az esetben hozhatja meg, ha a központi koordinációs szerv az eljárás szabályosságát ellenőrizte és az eljárás szabályosságáról tanúsítványt állított ki. A kedvezményezettnek az eljárást lezáró döntése meghozatala során figyelembe kell vennie a közbeszerzési szabályossági tanúsítványban foglaltakat. A kedvezményezett az összegzés megküldésével egyidejűleg az írásbeli összegezést, valamint – eltérő vélemény esetén – a közbeszerzési szabályossági tanúsítványban foglaltakkal kapcsolatos álláspontját a központi koordinációs szerv részére megküldi. A központi koordinációs szerv az eljárást lezáró döntés és a kedvezményezett álláspontjának ismeretében dönt arról, hogy szükséges-e az eljárással kapcsolatban szabálytalansági vagy jogorvoslati eljárást kezdeményeznie.
+348.1. A kedvezményezett az eljárást lezáró döntését abban az esetben hozhatja meg, ha a közbeszerzésekért felelős miniszter az eljárás szabályosságát ellenőrizte és az eljárás szabályosságáról tanúsítványt állított ki. A kedvezményezettnek az eljárást lezáró döntése meghozatala során figyelembe kell vennie a közbeszerzési szabályossági tanúsítványban foglaltakat. A kedvezményezett az összegzés megküldésével egyidejűleg az írásbeli összegezést, valamint – eltérő vélemény esetén – a közbeszerzési szabályossági tanúsítványban foglaltakkal kapcsolatos álláspontját a közbeszerzésekért felelős miniszter részére megküldi. A közbeszerzésekért felelős miniszter az eljárást lezáró döntés és a kedvezményezett álláspontjának ismeretében dönt arról, hogy szükséges-e az eljárással kapcsolatban szabálytalansági vagy jogorvoslati eljárást kezdeményeznie.
 
-348.2. Ha a kedvezményezett az eljárásra vonatkozó, Kbt. szerinti jogorvoslati eljárás megindításáról tájékoztatja a központi koordinációs szervet, a központi koordinációs szerv a folyamatba épített szabályossági ellenőrzést a jogorvoslati eljárás lezárásáról szóló döntés Kbt. szerinti kézbesítése, illetve közzététele napjáig felfüggeszti. Az ellenőrzés felfüggesztése vonatkozásában a korábbi időpont az irányadó.
+348.2. Ha a kedvezményezett az eljárásra vonatkozó, Kbt. szerinti jogorvoslati eljárás megindításáról tájékoztatja a közbeszerzésekért felelős minisztert, a közbeszerzésekért felelős miniszter a folyamatba épített szabályossági ellenőrzést a jogorvoslati eljárás lezárásáról szóló döntés Kbt. szerinti kézbesítése, illetve közzététele napjáig felfüggeszti. Az ellenőrzés felfüggesztése vonatkozásában a korábbi időpont az irányadó.
 
 348.3. A szerződés megkötését követően a kedvezményezett az aláírt szerződést haladéktalanul benyújtja a KSZ-hez.
 
 160. A támogatás folyósításának feltételei
 
-349. A támogatást igénylő, illetve a kedvezményezett részére támogatás csak a központi koordinációs szerv támogató tartalmú minőségellenőrzési tanúsítványának, támogató tartalmú szabályossági tanúsítványának, valamint a KSZ 337.1.-337.4. pont szerinti támogató nyilatkozatának a megléte esetén folyósítható.
+349. A támogatást igénylő, illetve a kedvezményezett részére támogatás csak a közbeszerzésekért felelős miniszter támogató tartalmú minőségellenőrzési tanúsítványának, támogató tartalmú szabályossági tanúsítványának, valamint a KSZ 337.1.-337.4. pont szerinti támogató nyilatkozatának a megléte esetén folyósítható.
 
 161. Az uniós értékhatárokat el nem érő értékű, valamint az építési beruházás, építési koncesszió esetén a 300 millió forintot el nem érő értékű közbeszerzési eljárás alapján megkötött szerződések módosítására vonatkozó szabályok
 
@@ -3654,27 +3654,27 @@ d) az indokolást alátámasztó valamennyi dokumentum.
 
 162. Az uniós értékhatárokat elérő vagy meghaladó értékű közbeszerzési eljárás, továbbá építési beruházás, építési koncesszió esetén a 300 millió forintot elérő vagy meghaladó értékű közbeszerzési eljárás alapján megkötött szerződések módosítására vonatkozó szabályok
 
-352.1. A támogatást igénylő, illetve a kedvezményezett a megkötött szerződés módosításával kapcsolatban – a módosítást 45 nappal megelőzően – a KSZ és azt követően a központi koordinációs szerv írásbeli véleményét kéri a monitoring és információs rendszeren keresztül. A támogatást igénylő, illetve a kedvezményezett a szerződést, a módosítás tervezetét, a módosítás indokolását, az indokolást alátámasztó valamennyi dokumentumot megküldi a KSZ részére a monitoring és információs rendszeren keresztül. A dokumentumok kézhezvételét követő 10 napon belül a KSZ megküldi a módosítás-tervezet támogathatósági, elszámolhatósági, valamint műszaki szempontú indokoltságára vonatkozó nyilatkozatát a támogatást igénylő, illetve a kedvezményezett, valamint a központi koordinációs szerv részére.
+352.1. A támogatást igénylő, illetve a kedvezményezett a megkötött szerződés módosításával kapcsolatban – a módosítást 45 nappal megelőzően – a KSZ és azt követően a közbeszerzésekért felelős miniszter írásbeli véleményét kéri a monitoring és információs rendszeren keresztül. A támogatást igénylő, illetve a kedvezményezett a szerződést, a módosítás tervezetét, a módosítás indokolását, az indokolást alátámasztó valamennyi dokumentumot megküldi a KSZ részére a monitoring és információs rendszeren keresztül. A dokumentumok kézhezvételét követő 10 napon belül a KSZ megküldi a módosítás-tervezet támogathatósági, elszámolhatósági, valamint műszaki szempontú indokoltságára vonatkozó nyilatkozatát a támogatást igénylő, illetve a kedvezményezett, valamint a közbeszerzésekért felelős miniszter részére.
 
-352.2. A támogatást igénylő, illetve a kedvezményezett a 352.1. pont szerinti nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a monitoring és információs rendszeren keresztül a szerződésmódosítással összefüggő dokumentumok központi koordinációs szerv általi, közbeszerzési-jogi szempontú véleményezését. A központi koordinációs szerv a szerződés módosításával összefüggésben további dokumentumok benyújtását is kérheti.
+352.2. A támogatást igénylő, illetve a kedvezményezett a 352.1. pont szerinti nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a monitoring és információs rendszeren keresztül a szerződésmódosítással összefüggő dokumentumok közbeszerzésekért felelős miniszter általi, közbeszerzési-jogi szempontú véleményezését. A közbeszerzésekért felelős miniszter a szerződés módosításával összefüggésben további dokumentumok benyújtását is kérheti.
 
-352.3. Ha a központi koordinációs szervnek további dokumentumokra is szüksége van, azt a kedvezményezettől hiánypótlás keretében kéri be. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzési eljárás megindulásától számított 5 napon belül kerül sor. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén a központi koordinációs szerv a rendelkezésre álló dokumentumok alapján bírálja el a szerződésmódosítást.
+352.3. Ha a közbeszerzésekért felelős miniszternek további dokumentumokra is szüksége van, azt a kedvezményezettől hiánypótlás keretében kéri be. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzési eljárás megindulásától számított 5 napon belül kerül sor. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén a közbeszerzésekért felelős miniszter a rendelkezésre álló dokumentumok alapján bírálja el a szerződésmódosítást.
 
-353. A központi koordinációs szerv a részére megküldött dokumentumok alapján a szerződésmódosítás tekintetében tett észrevételeit a dokumentumok kézhezvételét követő 15 napon belül megküldi a kedvezményezett részére.
+353. A közbeszerzésekért felelős miniszter a részére megküldött dokumentumok alapján a szerződésmódosítás tekintetében tett észrevételeit a dokumentumok kézhezvételét követő 15 napon belül megküldi a kedvezményezett részére.
 
-354.1. A kedvezményezett a központi koordinációs szerv észrevételei alapján módosítja a szerződésmódosítással összefüggő dokumentumokat, illetve, ha nem ért egyet a központi koordinációs szerv észrevételeivel, részletes indokolást is készít erről, melyet az észrevételek kézhezvételét követő 7 napon belül megküld a központi koordinációs szerv részére a monitoring és információs rendszeren keresztül.
+354.1. A kedvezményezett a közbeszerzésekért felelős miniszter észrevételei alapján módosítja a szerződésmódosítással összefüggő dokumentumokat, illetve, ha nem ért egyet a közbeszerzésekért felelős miniszter észrevételeivel, részletes indokolást is készít erről, melyet az észrevételek kézhezvételét követő 7 napon belül megküld a közbeszerzésekért felelős miniszter részére a monitoring és információs rendszeren keresztül.
 
-354.2. A központi koordinációs szerv a további észrevételeiről a módosított dokumentumok kézhezvételét követő 7 napon belül tájékoztatja a kedvezményezettet.
+354.2. A közbeszerzésekért felelős miniszter a további észrevételeiről a módosított dokumentumok kézhezvételét követő 7 napon belül tájékoztatja a kedvezményezettet.
 
-354.3. A kedvezményezett a központi koordinációs szerv észrevételeinek kézhezvételét követő 5 napon belül megküldi a módosított szerződést a központi koordinációs szerv részére a monitoring és információs rendszeren keresztül.
+354.3. A kedvezményezett a közbeszerzésekért felelős miniszter észrevételeinek kézhezvételét követő 5 napon belül megküldi a módosított szerződést a közbeszerzésekért felelős miniszter részére a monitoring és információs rendszeren keresztül.
 
-355. A központi koordinációs szerv a módosított szerződést megvizsgálja, és, ha nem ért egyet a szerződésmódosításban foglaltakkal, jelzi az IH-nak a Rendeletben meghatározott szabálytalansági eljárás, illetve jogorvoslati eljárás kezdeményezésének szükségességét.
+355. A közbeszerzésekért felelős miniszter a módosított szerződést megvizsgálja, és, ha nem ért egyet a szerződésmódosításban foglaltakkal, jelzi az IH-nak a Rendeletben meghatározott szabálytalansági eljárás, illetve jogorvoslati eljárás kezdeményezésének szükségességét.
 
-356.1. A kedvezményezett részére a szerződés-módosítással érintett támogatási összeg csak a KSZ és a központi koordinációs szerv adott szerződés-módosításra vonatkozó támogató tartalmú nyilatkozata, és véleménye alapján folyósítható.
+356.1. A kedvezményezett részére a szerződés-módosítással érintett támogatási összeg csak a KSZ és a közbeszerzésekért felelős miniszter adott szerződés-módosításra vonatkozó támogató tartalmú nyilatkozata, és véleménye alapján folyósítható.
 
-356.2. Ha a kedvezményezett a szerződés-módosítására vonatkozó, Kbt. szerinti jogorvoslati eljárás megindításáról tájékoztatja a központi koordinációs szervet, a központi koordinációs szerv az ellenőrzést a jogorvoslati eljárás lezárásáról szóló döntés Kbt. szerinti kézbesítése, illetve közzététele napjáig felfüggeszti. Az ellenőrzés felfüggesztése vonatkozásában a korábbi időpont az irányadó.
+356.2. Ha a kedvezményezett a szerződés-módosítására vonatkozó, Kbt. szerinti jogorvoslati eljárás megindításáról tájékoztatja a közbeszerzésekért felelős minisztert, a közbeszerzésekért felelős miniszter az ellenőrzést a jogorvoslati eljárás lezárásáról szóló döntés Kbt. szerinti kézbesítése, illetve közzététele napjáig felfüggeszti. Az ellenőrzés felfüggesztése vonatkozásában a korábbi időpont az irányadó.
 
-357. Ha a közbeszerzési eljárásban, valamint a szerződés-módosítás kapcsán utólagos ellenőrzés szükséges, a dokumentumokat támogathatósági, elszámolhatósági, valamint műszaki szempontból a KSZ, közbeszerzés-jogi szempontból a központi koordinációs szerv ellenőrzi az ellenőrzés lefolytatásához szükséges valamennyi dokumentum kézhezvételét követő 20 napon belül.
+357. Ha a közbeszerzési eljárásban, valamint a szerződés-módosítás kapcsán utólagos ellenőrzés szükséges, a dokumentumokat támogathatósági, elszámolhatósági, valamint műszaki szempontból a KSZ, közbeszerzés-jogi szempontból a közbeszerzésekért felelős miniszter ellenőrzi az ellenőrzés lefolytatásához szükséges valamennyi dokumentum kézhezvételét követő 20 napon belül.
 
 163. A központosított közbeszerzés
 
@@ -4868,13 +4868,5 @@ g) az IH döntése vagy intézkedése elleni kifogás esetén annak megjelölés
 
 469.3. A kifogás elbírálásának határidejét a felterjesztést követően a Rendelet 82. § (2) bekezdése szerint a központi koordinációs szerv meghosszabbíthatja.
 
-469.4. A központi koordinációs szerv döntését a monitoring és információs rendszerben 3 napon belül rögzíti és a kifogás kezelését lezárja.
-
-XIV. Fejezet
-
-Szabálytalanságkezelés
-
-209. Értelmező rendelkezések
-
 [^6]: A 7. §-t a 477/2016. (XII. 27.) Korm. rendelet 73. § (1) bekezdése iktatta be.
-[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a, a 106/2018. (VI. 15.) Korm. rendelet 9. §-a szerint módosított szöveg.
