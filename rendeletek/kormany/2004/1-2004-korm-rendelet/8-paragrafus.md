@@ -16,13 +16,13 @@ f) a Közösségi Támogatási Keret végrehajtására vonatkozó éves és zár
 
 g) a Közösségi Támogatási Keret megvalósítását elősegítő szakmai irányelvek, módszertani anyagok kidolgozása,
 
-h) gyakorlati útmutató és nyomtatványgyűjtemény kibocsátása az Európai Unió strukturális alapjai és Kohéziós Alapjának támogatásaival megvalósuló projektek közbeszerzési eljárásainak lebonyolításához,
+h)[^13]
 
 i) a Közösségi Támogatási Keret végrehajtásában érintett intézményrendszer folyamatos továbbfejlesztése érdekében képzési programok szervezése,
 
 j) az operatív program irányító hatóságok rendszeres, illetve előzetes tájékoztatása az Európai Bizottsággal folytatott, illetve folytatandó tárgyalásokról,
 
-k)[^13] a Közösségi Támogatási Keret Irányító Bizottságával történt egyeztetést követően javaslat kidolgozása a strukturális alapok felhasználásának általános eljárási szabályaira különös tekintettel
+k)[^14] a Közösségi Támogatási Keret Irányító Bizottságával történt egyeztetést követően javaslat kidolgozása a strukturális alapok felhasználásának általános eljárási szabályaira különös tekintettel
 
 ka) a pályázati kiírások szerkezetére és kötelező elemeire,
 
@@ -30,8 +30,9 @@ kb) a programok és központi projektek végrehajtását megalapozó, a teljesí
 
 kc) a strukturális alapok végrehajtásában résztvevő intézmények által az intézkedések végrehajtása során alkalmazandó eljárások kötelező elemeinek meghatározására közös eljárási kézikönyv formájában;
 
-l)[^14] az operatív programok irányító hatóságai által készítendő, az egyes operatív programok végrehajtására vonatkozó stratégiai és éves munkatervek jóváhagyása, különös tekintettel a kötelezettségvállalásra, támogatási szerződések megkötésére és kifizetésekre vonatkozó éves irányszámokra.
+l)[^15] az operatív programok irányító hatóságai által készítendő, az egyes operatív programok végrehajtására vonatkozó stratégiai és éves munkatervek jóváhagyása, különös tekintettel a kötelezettségvállalásra, támogatási szerződések megkötésére és kifizetésekre vonatkozó éves irányszámokra.
 
 [^12]: A 7. § az 53/2005. (III. 26.) Korm. rendelet 1. §-ával megállapított, a 304/2011. (XII. 23.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^13]: A 8. § k) pontját az 53/2005. (III. 26.) Korm. rendelet 2. §-a iktatta a szövegbe.
-[^14]: A 8. § l) pontját az 53/2005. (III. 26.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^13]: A 8. § h) pontját a 106/2018. (VI. 15.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^14]: A 8. § k) pontját az 53/2005. (III. 26.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^15]: A 8. § l) pontját az 53/2005. (III. 26.) Korm. rendelet 2. §-a iktatta a szövegbe.

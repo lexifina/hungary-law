@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-1-20-22
 | 2014-04-15 | 2004-1-20-22.18 | 96/2014. (III. 25.) Korm. rendelet |
 | 2014-09-05 | 2004-1-20-22.19 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2017-07-13 | 2004-1-20-22.20 | 163/2017. (VI. 28.) Korm. rendelet |
+| 2018-06-16 | 2004-1-20-22.21 | 106/2018. (VI. 15.) Korm. rendelet |

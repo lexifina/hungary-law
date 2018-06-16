@@ -1,4 +1,4 @@
-1. melléklet az 1/2004. (I. 5.) Korm. rendelethez[^69]
+1. melléklet az 1/2004. (I. 5.) Korm. rendelethez[^71]
 
 ## E rendeletben meghatározott egyes intézmények működtetéséért felelős személyek
 
@@ -14,10 +14,11 @@
 
 6. a Regionális Fejlesztési Operatív Program Irányító Hatóság tekintetében a területfejlesztés stratégiai tervezéséért felelős miniszter,
 
-7. az INTERREG Közösségi Kezdeményezés Irányító Hatóság tekintetében az európai uniós források felhasználásáért felelős miniszter,
+7.[^72] az INTERREG Közösségi Kezdeményezés Irányító Hatóság tekintetében a külgazdasági ügyekért felelős miniszter,
 
 8. a Kohéziós Alap Irányító Hatóság tekintetében a közlekedésért felelős miniszter és az energiapolitikáért felelős miniszter,
 
 9. a Kifizető Hatóság tekintetében az államháztartásért felelős miniszter.
 
-[^69]: Az 1. melléklet a 221/2014. (IX. 4.) Korm. rendelet 257. §-ával megállapított szöveg.
+[^71]: Az 1. melléklet a 221/2014. (IX. 4.) Korm. rendelet 257. §-ával megállapított szöveg.
+[^72]: Az 1. melléklet 7. pontja a 106/2018. (VI. 15.) Korm. rendelet 3. § g) pontja szerint módosított szöveg.

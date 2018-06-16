@@ -4,6 +4,6 @@
 
 (2) A strukturális alap közreműködő szervezet feladatait másra nem ruházhatja át.
 
-(3)[^46] Ha támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon az irányító hatóságot kell érteni. Ez esetben az operatív program lebonyolításának e rendeletben szabályozott közreműködő szervezeti feladatait az irányító hatóság vezetője által kijelölt szervezeti egység látja el.
+(3)[^48] Ha támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon az irányító hatóságot kell érteni. Ez esetben az operatív program lebonyolításának e rendeletben szabályozott közreműködő szervezeti feladatait az irányító hatóság vezetője által kijelölt szervezeti egység látja el.
 
-[^46]: A 22. § (3) bekezdését a 96/2014. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^48]: A 22. § (3) bekezdését a 96/2014. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.

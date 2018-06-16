@@ -32,6 +32,6 @@ h) a fejlesztési társulásoknál gondoskodik a közbeszerzési eljárásokkal 
 
 i) az EQUAL Közösségi Kezdeményezés keretében finanszírozott tevékenységek szabályozottságának és szabályszerűségének biztosítása.
 
-(3) A közreműködő bevonására a 20. § rendelkezéseit kell megfelelően alkalmazni.[^29]
+(3) A közreműködő bevonására a 20. § rendelkezéseit kell megfelelően alkalmazni.[^32]
 
-[^29]: Lásd a 9/2004. (IV. 7.) FMM rendeletet.
+[^32]: Lásd a 9/2004. (IV. 7.) FMM rendeletet.

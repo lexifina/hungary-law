@@ -2,13 +2,12 @@
 
 27. § (1) A Kohéziós Alap irányító hatóság a Kohéziós Alap keretstratégia megvalósításába a közlekedési projektek tekintetében, illetve a környezetvédelmi projektek tekintetében egy-egy közreműködő szervezetet vonhat be.
 
-(2)[^50] A Kohéziós Alap közreműködő szervezetet a fejlesztéspolitikáért felelős miniszter a Kohéziós Alap közreműködő szervezet működtetéséért – ezen belül a Kohéziós Alap támogatásainak hatékony és jogszabályoknak megfelelő felhasználásáért – felelős, az 1. mellékletben meghatározott miniszter egyetértésével kiadott rendeletben határozza meg.[^51]
+(2)[^52]
 
-(3)[^52] A Kohéziós Alap közreműködő szervezet vezetőjének kinevezését és felmentését a Kohéziós Alap közreműködő szervezet felállításáért és működtetéséért felelős miniszter a Kohéziós Alap irányító hatóság vezetőjével egyetértésben kezdeményezi.
+(3)[^53] A Kohéziós Alap közreműködő szervezet vezetőjének kinevezését és felmentését az európai uniós források felhasználásáért felelős miniszter a Kohéziós Alap irányító hatóság vezetőjével egyetértésben kezdeményezi.
 
-(4)[^53] Ha támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon az irányító hatóságot kell érteni. Ez esetben az operatív program lebonyolításának e rendeletben szabályozott közreműködő szervezeti feladatait az irányító hatóság vezetője által kijelölt szervezeti egység látja el.
+(4)[^54] Ha támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon az irányító hatóságot kell érteni. Ez esetben az operatív program lebonyolításának e rendeletben szabályozott közreműködő szervezeti feladatait az irányító hatóság vezetője által kijelölt szervezeti egység látja el.
 
-[^50]: A 27. § (2) bekezdése a 86/2011. (V. 31.) Korm. rendelet 7. § (1) bekezdésével megállapított, az 550/2013. (XII. 30.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^51]: Lásd a 2/2004. (IV. 21.) TNM–KvVM együttes rendeletet, a 3/2004. (IV. 21.) TNM–KvVM együttes rendeletet.
-[^52]: A 27. § (3) bekezdése az 53/2005. (III. 26.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^53]: A 27. § (4) bekezdését a 96/2014. (III. 25.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^52]: A 27. § (2) bekezdését a 106/2018. (VI. 15.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
+[^53]: A 27. § (3) bekezdése az 53/2005. (III. 26.) Korm. rendelet 9. §-ával megállapított, a 106/2018. (VI. 15.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^54]: A 27. § (4) bekezdését a 96/2014. (III. 25.) Korm. rendelet 3. § (2) bekezdése iktatta be.
