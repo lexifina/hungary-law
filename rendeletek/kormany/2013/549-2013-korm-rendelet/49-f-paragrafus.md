@@ -1,8 +1,8 @@
-49/F. §[^206] (1) A Vidékfejlesztési Program (XIX. fejezet 2. cím 12. alcím 1. jogcímcsoport) vonatkozásában
+49/F. §[^227] (1) A Vidékfejlesztési Program (XIX. fejezet 2. cím 12. alcím 1. jogcímcsoport) vonatkozásában
 
 a) kötelezettségvállaló: a Program IH vezetője vagy az általa írásban kijelölt személy,
 
-b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+b)[^228] pénzügyi ellenjegyző: a Program IH gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 c) teljesítés igazoló: a kifizető ügynökség vezetője vagy az általa írásban kijelölt személy,
 
@@ -14,11 +14,11 @@ e) utalványozó: a kifizető ügynökség vezetője vagy az általa írásban k
 
 a) kötelezettségvállaló: a Program IH vezetője vagy az általa írásban kijelölt személy,
 
-b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+b)[^229] pénzügyi ellenjegyző: a Program IH gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 c) teljesítés igazoló: a Program IH vezetője vagy az általa írásban kijelölt személy, vagy a közreműködő szervezet vezetője vagy az általa írásban kijelölt személy,
 
-d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy, vagy a közreműködő szervezet gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^230] érvényesítő: a Program IH gazdasági vezetője vagy az általa írásban kijelölt személy, vagy a közreműködő szervezet gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: a Program IH vezetője vagy az általa írásban kijelölt személy, vagy a közreműködő szervezet vezetője vagy az általa írásban kijelölt személy.
 
@@ -34,4 +34,7 @@ d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az �
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-[^206]: A 49/F. § a 401/2016. (XII. 5.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^227]: A 49/F. § a 401/2016. (XII. 5.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^228]: A 49/F. § (1) bekezdés b) pontja a 106/2018. (VI. 15.) Korm. rendelet 10. § 27. pontja szerint módosított szöveg.
+[^229]: A 49/F. § (2) bekezdés b) pontja a 106/2018. (VI. 15.) Korm. rendelet 10. § 28. pontja szerint módosított szöveg.
+[^230]: A 49/F. § (2) bekezdés d) pontja a 106/2018. (VI. 15.) Korm. rendelet 10. § 29. pontja szerint módosított szöveg.

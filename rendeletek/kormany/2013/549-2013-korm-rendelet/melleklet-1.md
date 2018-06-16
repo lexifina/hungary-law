@@ -1,6 +1,6 @@
-## 56. §[^218] E rendeletnek a Széchenyi Programirodákról szóló 68/2011. (IV. 28.) Korm. rendelet és az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 253/2017. (IX. 5.) Korm. rendelettel [a továbbiakban: 253/2017. (IX. 5.) Korm. rendelet] megállapított rendelkezéseit a 253/2017. (IX. 5.) Korm. rendelet hatálybalépésekor[^219] folyamatban lévő ügyekben is alkalmazni kell.
+## 56. §[^242] E rendeletnek a Széchenyi Programirodákról szóló 68/2011. (IV. 28.) Korm. rendelet és az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 253/2017. (IX. 5.) Korm. rendelettel [a továbbiakban: 253/2017. (IX. 5.) Korm. rendelet] megállapított rendelkezéseit a 253/2017. (IX. 5.) Korm. rendelet hatálybalépésekor[^243] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^220]
+1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^244]
 
 Kezelő szervi kijelölés
 
@@ -28,35 +28,35 @@ Kezelő szervi kijelölés
 
 | 11. | Közép-Magyarországi Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 12. | Társadalmi Megújulás Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
+| 12. | Társadalmi Megújulás Operatív Program | társadalmi felzárkózásért felelős miniszter |
 
-| 13. | Társadalmi Infrastruktúra Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
+| 13. | Társadalmi Infrastruktúra Operatív Program | társadalmi felzárkózásért felelős miniszter |
 
-| 14. | Végrehajtás Operatív Program | európai uniós források felhasználásáért felelős miniszter |
+| 14. | Végrehajtás Operatív Program | közigazgatás-fejlesztésért felelős miniszter |
 
-| 15. | Államreform Operatív Program | európai uniós források felhasználásáért felelős miniszter |
+| 15. | Államreform Operatív Program | közigazgatás-fejlesztésért felelős miniszter |
 
-| 16. | Elektronikus Közigazgatás Operatív Program | európai uniós források felhasználásáért felelős miniszter |
+| 16. | Elektronikus Közigazgatás Operatív Program | közigazgatás-fejlesztésért felelős miniszter |
 
 | 17. | EGT Finanszírozási Mechanizmus és Norvég Finanszírozási Mechanizmus | európai uniós források felhasználásáért felelős miniszter |
 
 | 18. | Svájci-Magyar Együttműködési Program | európai uniós források felhasználásáért felelős miniszter |
 
-| 19. | ETE határmenti programok 2014–2020 | európai uniós források felhasználásáért felelős miniszter |
+| 19. | ETE határmenti programok 2014–2020 | külgazdasági ügyekért felelős miniszter |
 
-| 20. | Területi Együttműködés | európai uniós források felhasználásáért felelős miniszter |
+| 20. | Területi Együttműködés | külgazdasági ügyekért felelős miniszter |
 
 | 21. | Regionális Fejlesztés Operatív Program | gazdaságpolitikáért felelős miniszter |
 
 | 22. | Gazdasági Versenyképesség Operatív Program | gazdaságpolitikáért felelős miniszter |
 
-| 23. | Környezetvédelem és Infrastruktúra Operatív Program | fejlesztési célelőirányzatok kezeléséért, szabályozásáért és ellenőrzéséért felelős miniszter |
+| 23. | Környezetvédelem és Infrastruktúra Operatív Program | energiapolitikáért felelős miniszter |
 
-| 24. | Humánerőforrás-fejlesztési Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
+| 24. | Humánerőforrás-fejlesztési Operatív Program | társadalmi felzárkózásért felelős miniszter |
 
 | 25. | Agrár- és Vidékfejlesztési Operatív Program | agrár-vidékfejlesztésért felelős miniszter |
 
-| 26. | Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program | európai uniós források felhasználásáért felelős miniszter |
+| 26. | Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program | közigazgatás-fejlesztésért felelős miniszter |
 
 | 27. | Gazdaságfejlesztési és Innovációs Operatív Program | gazdaságpolitikáért felelős miniszter |
 
@@ -68,9 +68,9 @@ Kezelő szervi kijelölés
 
 | 31. | Környezeti és Energiahatékonysági Operatív Program | energiapolitikáért felelős miniszter |
 
-| 32. | Rászoruló Személyeket Támogató Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
+| 32. | Rászoruló Személyeket Támogató Operatív Program | társadalmi felzárkózásért felelős miniszter |
 
-| 33. | Emberi Erőforrás Fejlesztési Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
+| 33. | Emberi Erőforrás Fejlesztési Operatív Program | társadalmi felzárkózásért felelős miniszter |
 
 | 34. |  |  |
 
@@ -88,9 +88,9 @@ Kezelő szervi kijelölés
 
 | 41. | SAPARD-támogatásból megvalósuló programok | agrár-vidékfejlesztésért felelős miniszter |
 
-| 42. | EQUAL Közösségi kezdeményezés | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
+| 42. | EQUAL Közösségi kezdeményezés | társadalmi felzárkózásért felelős miniszter |
 
-| 43. | INTERREG Közösségi kezdeményezés programjai | európai uniós források felhasználásáért felelős miniszter |
+| 43. | INTERREG Közösségi kezdeményezés programjai | külgazdasági ügyekért felelős miniszter |
 
 | 44. | ISPA/KA Kohéziós Alap támogatásból megvalósuló közlekedési projektek | közlekedésért felelős miniszter |
 
@@ -102,6 +102,6 @@ Kezelő szervi kijelölés
 
 | 48. | Alapok alapja EFOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-[^218]: Az 56. §-t a 253/2017. (IX. 5.) Korm. rendelet 4. §-a iktatta be.
-[^219]: A hatálybalépés időpontja 2017. szeptember 6.
-[^220]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a, a 427/2017. (XII. 19.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^242]: Az 56. §-t a 253/2017. (IX. 5.) Korm. rendelet 4. §-a iktatta be.
+[^243]: A hatálybalépés időpontja 2017. szeptember 6.
+[^244]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a, a 427/2017. (XII. 19.) Korm. rendelet 9. §-a, a 106/2018. (VI. 15.) Korm. rendelet 10. § 30–43. pontja szerint módosított szöveg.

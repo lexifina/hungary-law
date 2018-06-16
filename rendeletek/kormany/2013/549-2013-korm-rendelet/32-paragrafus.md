@@ -30,27 +30,17 @@ d)[^142] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vag
 
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
 
-(3)[^143] A Végrehajtás Operatív Program előirányzat (XIX. fejezet 2. cím 4. alcím 22. jogcímcsoport) vonatkozásában
-
-a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
-
-b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
-
-c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
-
-d)[^144] érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
-
-e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
+(3)[^143]
 
 (4) Az Agrár- és Vidékfejlesztési Operatív Program előirányzat-maradványa (XIX. fejezet 2. cím 1. alcím 2. jogcímcsoport) vonatkozásában
 
 a) kötelezettségvállaló: az OP IH vezetője vagy az általa írásban kijelölt személy,
 
-b) pénzügyi ellenjegyző: az OP IH pénzügyi vezetője vagy az általa írásban kijelölt személy,
+b)[^144] pénzügyi ellenjegyző: az OP IH gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 c) teljesítés igazoló: az OP IH vezetője vagy az általa írásban kijelölt személy,
 
-d) érvényesítő: az OP IH vezetője vagy az általa írásban kijelölt személy,
+d)[^145] érvényesítő: az OP IH gazdasági vezetője vagy az általa írásban kijelölt személy,
 
 e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személy.
 
@@ -59,5 +49,6 @@ e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személ
 [^140]: A 32. § (1) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^141]: A 32. § (1a) bekezdését a 347/2015. (XI. 20.) Korm. rendelet 1. §-a iktatta be.
 [^142]: A 32. § (2) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^143]: A 32. § (3) bekezdés nyitó szövegrésze a 287/2015. (X. 6.) Korm. rendelet 31. § 14. pontja szerint módosított szöveg.
-[^144]: A 32. § (3) bekezdés d) pontja a 27/2014. (II. 7.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^143]: A 32. § (3) bekezdését a 106/2018. (VI. 15.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^144]: A 32. § (4) bekezdés b) pontja a 106/2018. (VI. 15.) Korm. rendelet 10. § 3. pontja szerint módosított szöveg.
+[^145]: A 32. § (4) bekezdés d) pontja a 106/2018. (VI. 15.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.

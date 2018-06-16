@@ -20,7 +20,7 @@ h)[^42] a 2007–2013 programozási időszakban az Európai Regionális Fejleszt
 
 (1a)[^43] Az európai uniós forrást tartalmazó előirányzatok társfinanszírozáson felüli felhasználása az (1) bekezdésben meghatározottakon túl lehetséges a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap és az Előcsatlakozási Támogatási Eszköz pénzügyi alapok egyes, határon átnyúló együttműködéshez kapcsolódó programjai esetében is az uniós támogatást a Területi Együttműködés előirányzatból történő – a 126/2016 (VI. 7.) Korm. rendelet szerinti – megelőlegezéssel.
 
-(1b)[^44] Az európai uniós forrást tartalmazó előirányzatok társfinanszírozáson felüli felhasználása az (1) és (1a) bekezdésben meghatározottakon túl lehetséges a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap és az Előcsatlakozási Támogatási Eszköz egyes, határon átnyúló együttműködési programjainak végrehajtásáról szóló 126/2016. (VI. 7.) Korm. rendelet 4. § (9) bekezdésében meghatározott esetekben is.
+(1b)[^44] Az európai uniós forrást tartalmazó előirányzatok társfinanszírozáson felüli felhasználása az (1) és (1a) bekezdésben meghatározottakon túl lehetséges a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap és az Előcsatlakozási Támogatási Eszköz egyes, határon átnyúló együttműködési programjainak végrehajtásáról szóló 126/2016. (VI. 7.) Korm. rendelet 4. § (9) bekezdésében meghatározott esetekben, valamint a 83/2018. (IV. 20.) Korm. rendelet 24. §-ában meghatározott esetben is.
 
 (2)[^45] Az előirányzatoknak az (1) bekezdés b)–e) pontja szerinti felhasználásáról a fejezetet irányító szerv vezetője dönt. Ha az előirányzat-felhasználás összege az (1) bekezdés b) és c) pontja szerinti esetekben projektenként eléri az 50 millió forintot, azok felhasználásához az államháztartásért felelős miniszter jóváhagyása szükséges.
 
@@ -34,6 +34,6 @@ h)[^42] a 2007–2013 programozási időszakban az Európai Regionális Fejleszt
 [^41]: A 6. § (1) bekezdés g) pontját a 427/2017. (XII. 19.) Korm. rendelet 11. § 4. pontja hatályon kívül helyezte.
 [^42]: A 6. § (1) bekezdés h) pontját a 89/2017. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
 [^43]: A 6. § (1a) bekezdését a 401/2016. (XII. 5.) Korm. rendelet 3. §-a iktatta be, szövege a 427/2017. (XII. 19.) Korm. rendelet 10. § 10. pontja szerint módosított szöveg.
-[^44]: A 6. § (1b) bekezdését a 427/2017. (XII. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^44]: A 6. § (1b) bekezdését a 427/2017. (XII. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 106/2018. (VI. 15.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
 [^45]: A 6. § (2) bekezdése a 287/2015. (X. 6.) Korm. rendelet 31. § 2. pontja, a 427/2017. (XII. 19.) Korm. rendelet 10. § 11. pontja szerint módosított szöveg.
 [^46]: A 6. § (3) bekezdése a 427/2017. (XII. 19.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

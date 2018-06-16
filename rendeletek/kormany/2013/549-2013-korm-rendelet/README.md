@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-549-20-
 | 2017-09-23 | 2013-549-20-22.22 | 287/2017. (IX. 22.) Korm. rendelet |
 | 2017-12-20 | 2013-549-20-22.23 | 427/2017. (XII. 19.) Korm. rendelet |
 | 2018-01-01 | 2013-549-20-22.24 | 427/2017. (XII. 19.) Korm. rendelet |
+| 2018-06-16 | 2013-549-20-22.25 | 106/2018. (VI. 15.) Korm. rendelet |

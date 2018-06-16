@@ -1,27 +1,35 @@
-35. § (1)[^147] A Területi Együttműködés előirányzatai (XIX. fejezet 2. cím 5. alcím) vonatkozásában
+35. § (1)[^153] A Területi Együttműködés előirányzatai (XIX. fejezet 2. cím 5. alcím) vonatkozásában
 
-a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
+a)[^154] kötelezettségvállaló: az irányító hatóság vezetője vagy az általa írásban kijelölt személy vagy a nemzeti hatóság vezetője vagy az általa írásban kijelölt személy,
 
-b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+b)[^155] pénzügyi ellenjegyző: az irányító hatóság gazdasági vezetője vagy az általa írásban kijelölt személy vagy a nemzeti hatóság gazdasági vezetője vagy az általa írásban kijelölt személy,
 
-c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
+c)[^156] teljesítés igazoló: az irányító hatóság vezetője vagy az általa írásban kijelölt személy vagy a nemzeti hatóság vezetője vagy az általa írásban kijelölt személy,
 
-d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^157] érvényesítő: az irányító hatóság gazdasági vezetője vagy az általa írásban kijelölt személy vagy a nemzeti hatóság gazdasági vezetője vagy az általa írásban kijelölt személy,
 
-e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
+e)[^158] utalványozó: az irányító hatóság vezetője vagy az általa írásban kijelölt személy vagy a nemzeti hatóság vezetője vagy az általa írásban kijelölt személy.
 
 (2) Az Európai Területi Együttműködés előirányzatai (2014-2020) (XIX. fejezet 2. cím 10. alcím) vonatkozásában
 
-a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
+a)[^159] kötelezettségvállaló: a nemzeti hatóság vezetője vagy az általa írásban kijelölt személy,
 
-b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+b)[^160] pénzügyi ellenjegyző: a nemzeti hatóság gazdasági vezetője vagy az általa írásban kijelölt személy,
 
-c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
+c)[^161] teljesítés igazoló: a nemzeti hatóság vezetője vagy az általa írásban kijelölt személy,
 
-d)[^148] érvényesítő: az SZPI gazdasági vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetén a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^162] érvényesítő: az SZPI gazdasági vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetén a nemzeti hatóság gazdasági vezetője vagy az általa írásban kijelölt személy,
 
-e)[^149] utalványozó: az SZPI vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetén a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.
+e)[^163] utalványozó: az SZPI vezetője vagy az általa írásban kijelölt személy, a technikai segítségnyújtás prioritások esetén a nemzeti hatóság vezetője vagy az általa írásban kijelölt személy.
 
-[^147]: A 35. § (1) bekezdése a 27/2014. (II. 7.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^148]: A 35. § (2) bekezdés d) pontja a 287/2015. (X. 6.) Korm. rendelet 22. §-ával megállapított, a 401/2016. (XII. 5.) Korm. rendelet 11. § 14. pontja szerint módosított szöveg.
-[^149]: A 35. § (2) bekezdés e) pontja a 287/2015. (X. 6.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^153]: A 35. § (1) bekezdése a 27/2014. (II. 7.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^154]: A 35. § (1) bekezdés a) pontja a 106/2018. (VI. 15.) Korm. rendelet 10. § 10. pontja szerint módosított szöveg.
+[^155]: A 35. § (1) bekezdés b) pontja a 106/2018. (VI. 15.) Korm. rendelet 10. § 11. pontja szerint módosított szöveg.
+[^156]: A 35. § (1) bekezdés c) pontja a 106/2018. (VI. 15.) Korm. rendelet 10. § 12. pontja szerint módosított szöveg.
+[^157]: A 35. § (1) bekezdés d) pontja a 106/2018. (VI. 15.) Korm. rendelet 10. § 13. pontja szerint módosított szöveg.
+[^158]: A 35. § (1) bekezdés e) pontja a 106/2018. (VI. 15.) Korm. rendelet 10. § 14. pontja szerint módosított szöveg.
+[^159]: A 35. § (2) bekezdés a) pontja a 106/2018. (VI. 15.) Korm. rendelet 10. § 15. pontja szerint módosított szöveg.
+[^160]: A 35. § (2) bekezdés b) pontja a 106/2018. (VI. 15.) Korm. rendelet 10. § 16. pontja szerint módosított szöveg.
+[^161]: A 35. § (2) bekezdés c) pontja a 106/2018. (VI. 15.) Korm. rendelet 10. § 17. pontja szerint módosított szöveg.
+[^162]: A 35. § (2) bekezdés d) pontja a 287/2015. (X. 6.) Korm. rendelet 22. §-ával megállapított, a 401/2016. (XII. 5.) Korm. rendelet 11. § 14. pontja, a 106/2018. (VI. 15.) Korm. rendelet 10. § 18. pontja szerint módosított szöveg.
+[^163]: A 35. § (2) bekezdés e) pontja a 287/2015. (X. 6.) Korm. rendelet 22. §-ával megállapított, a 106/2018. (VI. 15.) Korm. rendelet 10. § 19. pontja szerint módosított szöveg.
