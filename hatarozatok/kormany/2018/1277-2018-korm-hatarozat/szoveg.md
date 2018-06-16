@@ -1,16 +1,6 @@
-1. A 2017–2019. évekre vonatkozó oltóanyag-beszerzésekről szóló 1289/2016. (VI. 13.) Korm. határozat (a továbbiakban: Korm. határozat) a következő d) és e) ponttal egészül ki:
+1.[^2]
 
-(A Kormány)
-
-„d) felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a második életév folyamán esedékes bárányhimlő elleni, kötelező védőoltás bevezetéséről és az oltóanyag 2019. évre szükséges mennyiségének közbeszerzési eljárás keretében történő beszerzéséről;
-
-Felelős: emberi erőforrások minisztere
-
-Határidő: 2018. július 31. a közbeszerzési pályázat kiírására
-
-e) az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 16. Országos Közegészségügyi Intézet cím kiadási előirányzat terhére – az a), b) és d) ponttal összefüggő feladatok megvalósítása céljából – vállalható kötelezettségeknek a 2019. évre vonatkozó felső korlátját 10 909 500 000 forintban állapítja meg.”
-
-2. A Korm. határozat b) pontjában az „az a) pont szerinti közbeszerzés” szövegrész helyébe az „az a) és d) pont szerinti közbeszerzés” szöveg lép.
+2.[^3]
 
 3. A Kormány felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon a Korm. határozatban rögzítettek végrehajtása céljából a 2018. évi költségvetésben rendelkezésre álló összegen felül legfeljebb 700 000 000 forint biztosításáról a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 16. Országos Közegészségügyi Intézet cím javára.
 
@@ -37,3 +27,6 @@ Felelős: emberi erőforrások minisztere
 pénzügyminiszter
 
 Határidő: a felmerülés ütemében
+
+[^2]: Az 1–2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1–2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
