@@ -1,5 +1,5 @@
-## 124–125. §[^596]
+## 124–125. §[^605]
 
 ## 52. Hatályon kívül helyező rendelkezések
 
-[^596]: A 124–125. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^605]: A 124–125. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

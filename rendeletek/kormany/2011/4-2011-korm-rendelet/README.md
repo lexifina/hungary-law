@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-22
 | 2017-01-01 | 2011-4-20-22.39 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2018-01-01 | 2011-4-20-22.40 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2018-04-03 | 2011-4-20-22.41 | 297/2013. (VII. 29.) Korm. rendelet |
+| 2018-06-16 | 2011-4-20-22.42 | 106/2018. (VI. 15.) Korm. rendelet |

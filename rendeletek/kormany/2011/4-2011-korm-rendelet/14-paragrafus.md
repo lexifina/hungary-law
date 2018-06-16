@@ -8,32 +8,32 @@ c) a szervezet tagja, vagy aki abban közvetlen vagy közvetett tulajdoni része
 
 d) az értékelésre, a minőség-ellenőrzésre vagy a bírálatra benyújtott dokumentumok előkészítésében vagy kidolgozásában bármilyen formában részt vett,
 
-e)[^78] az a)–d) pont szerinti személynek a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója,
+e)[^80] az a)–d) pont szerinti személynek a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója,
 
-f)[^79] tekintetében az irányító hatósághoz érkezett bejelentés alapján vagy hivatalból az irányító hatóság megállapítja, hogy a pártatlan és objektív közreműködése nem biztosítható.
+f)[^81] tekintetében az irányító hatósághoz érkezett bejelentés alapján vagy hivatalból az irányító hatóság megállapítja, hogy a pártatlan és objektív közreműködése nem biztosítható.
 
-(2)[^80] A támogatásra vonatkozó döntés előkészítésében és meghozatalában nem vehet részt politikai párt vezető tisztségviselője vagy alkalmazottja, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, európai parlamenti képviselő.
+(2)[^82] A támogatásra vonatkozó döntés előkészítésében és meghozatalában nem vehet részt politikai párt vezető tisztségviselője vagy alkalmazottja, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, európai parlamenti képviselő.
 
-(3)[^81] A támogatásra vonatkozó döntés előkészítésében és meghozatalában részt vevő személy vagy szervezet képviseletére jogosult személy a döntés-előkészítési eljárás megkezdésekor az adott pályázati felhívásra vonatkozó teljes bizonyító erejű magánokiratban nyilatkozatot tesz arról, hogy az (1) és (2) bekezdés szerinti összeférhetetlenség vele szemben nem áll fenn, a támogatásra vonatkozó döntés előkészítése és meghozatala során tudomására jutott minősített adatot, üzleti vagy fizetési titkot megőrzi.
+(3)[^83] A támogatásra vonatkozó döntés előkészítésében és meghozatalában részt vevő személy vagy szervezet képviseletére jogosult személy a döntés-előkészítési eljárás megkezdésekor az adott pályázati felhívásra vonatkozó teljes bizonyító erejű magánokiratban nyilatkozatot tesz arról, hogy az (1) és (2) bekezdés szerinti összeférhetetlenség vele szemben nem áll fenn, a támogatásra vonatkozó döntés előkészítése és meghozatala során tudomására jutott minősített adatot, üzleti vagy fizetési titkot megőrzi.
 
-(4)[^82] Ha a támogatásra vonatkozó döntés előkészítése és meghozatala során olyan tény merül fel, amely alapján az (1) és (2) bekezdés szerinti összeférhetetlenség fennáll, az összeférhetetlenséggel érintett személy vagy szervezet ezt az irányító hatóságnak haladéktalanul írásban bejelenti. Az összeférhetetlenséggel érintett személy vagy szervezet azon dokumentum tekintetében, amellyel kapcsolatban az összeférhetetlenség felmerült, a továbbiakban nem járhat el.
+(4)[^84] Ha a támogatásra vonatkozó döntés előkészítése és meghozatala során olyan tény merül fel, amely alapján az (1) és (2) bekezdés szerinti összeférhetetlenség fennáll, az összeférhetetlenséggel érintett személy vagy szervezet ezt az irányító hatóságnak haladéktalanul írásban bejelenti. Az összeférhetetlenséggel érintett személy vagy szervezet azon dokumentum tekintetében, amellyel kapcsolatban az összeférhetetlenség felmerült, a továbbiakban nem járhat el.
 
-(5)[^83] Ha az összeférhetetlenséget az összeférhetetlenséggel érintett személy vagy szervezet nem jelenti be, a támogatásra vonatkozó döntés előkészítése során bárki jogosult az összeférhetetlenség megállapítását az irányító hatóságnál kezdeményezni. Ha az irányító hatóság az összeférhetetlenséget megállapítja, az összeférhetetlenséggel érintett személy vagy szervezet azon dokumentum tekintetében, amellyel kapcsolatban az összeférhetetlenség felmerült, a továbbiakban nem járhat el, és az erre a dokumentumra vonatkozó addigi eljárását érvénytelennek kell tekinteni.
+(5)[^85] Ha az összeférhetetlenséget az összeférhetetlenséggel érintett személy vagy szervezet nem jelenti be, a támogatásra vonatkozó döntés előkészítése során bárki jogosult az összeférhetetlenség megállapítását az irányító hatóságnál kezdeményezni. Ha az irányító hatóság az összeférhetetlenséget megállapítja, az összeférhetetlenséggel érintett személy vagy szervezet azon dokumentum tekintetében, amellyel kapcsolatban az összeférhetetlenség felmerült, a továbbiakban nem járhat el, és az erre a dokumentumra vonatkozó addigi eljárását érvénytelennek kell tekinteni.
 
-(6)[^84] A projektek folyamatba épített dokumentum alapú ellenőrzését, helyszíni ellenőrzését és a kifizetés engedélyezését nem végezheti olyan személy, akivel szemben az (1) és (2) bekezdés szerinti kizáró ok fennáll.
+(6)[^86] A projektek folyamatba épített dokumentum alapú ellenőrzését, helyszíni ellenőrzését és a kifizetés engedélyezését nem végezheti olyan személy, akivel szemben az (1) és (2) bekezdés szerinti kizáró ok fennáll.
 
-(7)[^85] Az (1)–(6) bekezdést nem kell alkalmazni az ágazati fejlesztésért felelős miniszter által vezetett minisztérium részéről benyújtott és megvalósított projektek esetében, ha az ágazati fejlesztésért felelős miniszter által vezetett minisztérium szervezetén belül az adott projekt vonatkozásában a projekt elkészítéséhez, benyújtásához, megvalósításához, valamint a döntés előkészítéséhez, meghozatalához kapcsolódó feladatok szervezetileg elkülönülnek.
+(7)[^87] Az (1)–(6) bekezdést nem kell alkalmazni az ágazati fejlesztésért felelős miniszter által vezetett minisztérium részéről benyújtott és megvalósított projektek esetében, ha az ágazati fejlesztésért felelős miniszter által vezetett minisztérium szervezetén belül az adott projekt vonatkozásában a projekt elkészítéséhez, benyújtásához, megvalósításához, valamint a döntés előkészítéséhez, meghozatalához kapcsolódó feladatok szervezetileg elkülönülnek.
 
-(8)[^86] A kutatás-fejlesztési és innovációs projektek támogatására irányuló támogatási konstrukciók esetében az (1) bekezdés a) pontja alól az irányító hatóság felmentést adhat.
+(8)[^88] A kutatás-fejlesztési és innovációs projektek támogatására irányuló támogatási konstrukciók esetében az (1) bekezdés a) pontja alól az irányító hatóság felmentést adhat.
 
 (9) A támogatásra vonatkozó döntés előkészítésében és meghozatalában részt vevő személy vagy szervezet a feladat ellátására vonatkozó jogviszonyban alkalmazandó felelősségi szabályok szerint felelősséggel tartozik a pártatlan, semleges és szakmai követelményeknek megfelelő feladatellátásáért.
 
-[^78]: A 14. § (1) bekezdés e) pontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 5. pontja szerint módosított szöveg.
-[^79]: A 14. § (1) bekezdés f) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 11. pontja szerint módosított szöveg.
-[^80]: A 14. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^81]: A 14. § (3) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^82]: A 14. § (4) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 9. pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 12. pontja szerint módosított szöveg.
-[^83]: A 14. § (5) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 10. pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 13. pontja szerint módosított szöveg.
-[^84]: A 14. § (6) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 11. pontja szerint módosított szöveg.
-[^85]: A 14. § (7) bekezdése a 548/2013. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^86]: A 14. § (8) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 14. pontja szerint módosított szöveg.
+[^80]: A 14. § (1) bekezdés e) pontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 5. pontja szerint módosított szöveg.
+[^81]: A 14. § (1) bekezdés f) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 11. pontja szerint módosított szöveg.
+[^82]: A 14. § (2) bekezdése a 25/2012. (II. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^83]: A 14. § (3) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^84]: A 14. § (4) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 9. pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 12. pontja szerint módosított szöveg.
+[^85]: A 14. § (5) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 10. pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 13. pontja szerint módosított szöveg.
+[^86]: A 14. § (6) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 11. pontja szerint módosított szöveg.
+[^87]: A 14. § (7) bekezdése a 548/2013. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^88]: A 14. § (8) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 14. pontja szerint módosított szöveg.

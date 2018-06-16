@@ -1,4 +1,4 @@
-## VII/A. Fejezet[^512]
+## VII/A. Fejezet[^515]
 
 ## AZ OPERATÍV PROGRAMOK ZÁRÁSA
 
@@ -6,4 +6,4 @@
 
 ## az operatív programok zárása során alkalmazandó eltérő szabályok
 
-[^512]: A VII/A. fejezetet (114/A–114/H. §) a 69/2015. (III. 30.) Korm. rendelet 7. §-a iktatta be.
+[^515]: A VII/A. fejezetet (114/A–114/H. §) a 69/2015. (III. 30.) Korm. rendelet 7. §-a iktatta be.

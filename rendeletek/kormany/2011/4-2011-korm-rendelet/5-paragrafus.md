@@ -48,11 +48,11 @@ hm) ellátja az egyes operatív programok végrehajtására vonatkozó ellenőrz
 
 hn) elbírálja az irányító hatóság döntése ellen benyújtott kifogásokat, valamint a szabálytalansági eljárásban az irányító hatóság vagy a közreműködő szervezet által hozott döntések ellen benyújtott jogorvoslati kérelmeket, melynek keretében biztosítja a fejlesztési források szabályszerű felhasználására kialakított szabálytalanság és kifogás-kezelési eljárások során hozott döntések egységességét,
 
-ho) ellátja az operatív programok keretében biztosított támogatások felhasználása során lefolytatott közbeszerzési eljárások szabályosságának ellenőrzését,
+ho)[^53]
 
 hp) a technikai segítségnyújtás projektjei esetében – az irányító hatóság érintettsége esetén azzal együttműködve – dönt a projektjavaslatok támogatásáról vagy elutasításáról, megköti a kedvezményezettel a támogatási szerződést, kibocsátja a támogatási okiratot, gondoskodik a támogatások kifizetéséről és szabályszerű felhasználásáról,
 
-hq)[^53] az irányító hatósággal egyetértésben javaslatot tesz a Kormány részére a közreműködő szervezet, a forráskezelő szervezet és az alapkezelő szervezet kijelölésére,
+hq)[^54] az irányító hatósággal egyetértésben javaslatot tesz a Kormány részére a közreműködő szervezet, a forráskezelő szervezet és az alapkezelő szervezet kijelölésére,
 
 hr) működteti és fejleszti az operatív programok végrehajtását támogató monitoring és információs rendszert,
 
@@ -76,4 +76,5 @@ hv) ellátja az operatív programok zárásának koordinációs feladatait.
 [^50]: Az 5. § h) pont hh) alpontját a 4/2016. (I. 20.) Korm. rendelet 2. §-a iktatta be.
 [^51]: Az 5. § h) pont hi) alpontja a 4/2016. (I. 20.) Korm. rendelet 5. § 7. pontja szerint módosított szöveg.
 [^52]: Az 5. § h) pont hj) alpontja a 4/2016. (I. 20.) Korm. rendelet 5. § 8. pontja szerint módosított szöveg.
-[^53]: Az 5. § h) pont hq) alpontja a 4/2016. (I. 20.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^53]: Az 5. § h) pont ho) alpontját a 106/2018. (VI. 15.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^54]: Az 5. § h) pont hq) alpontja a 4/2016. (I. 20.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.

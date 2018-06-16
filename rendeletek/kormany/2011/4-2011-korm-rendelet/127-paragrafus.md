@@ -1,3 +1,3 @@
-## 126. §[^597]
+## 126. §[^606]
 
-[^597]: A 126. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^606]: A 126. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

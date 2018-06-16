@@ -1,4 +1,4 @@
-## 122/C. §[^594] A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások visszafizetésének biztosításaként felajánlott bankgarancia tekintetében a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 50. § (1) bekezdése irányadó. A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet és az egységes működési kézikönyvről szóló 547/2013. (XII. 30.) Korm. rendelet módosításáról szóló 203/2014. (VIII. 14.) Korm. rendelet hatálybalépését[^595] megelőzően a támogatás visszafizetésének biztosítékaként felajánlott bankgarancia az abban foglaltak szerint felhasználható.
+## 122/C. §[^603] A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások visszafizetésének biztosításaként felajánlott bankgarancia tekintetében a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 50. § (1) bekezdése irányadó. A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet és az egységes működési kézikönyvről szóló 547/2013. (XII. 30.) Korm. rendelet módosításáról szóló 203/2014. (VIII. 14.) Korm. rendelet hatálybalépését[^604] megelőzően a támogatás visszafizetésének biztosítékaként felajánlott bankgarancia az abban foglaltak szerint felhasználható.
 
 ## 50. Az Európai Unió jogának való megfelelés
 
@@ -18,5 +18,5 @@ f) a 800/2008/EK bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^594]: A 122/C. §-t a 203/2014. (VIII. 14.) Korm. rendelet 8. §-a iktatta be.
-[^595]: A hatálybalépés időpontja 2014. augusztus 15.
+[^603]: A 122/C. §-t a 203/2014. (VIII. 14.) Korm. rendelet 8. §-a iktatta be.
+[^604]: A hatálybalépés időpontja 2014. augusztus 15.

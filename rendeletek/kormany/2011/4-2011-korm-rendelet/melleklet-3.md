@@ -12,7 +12,7 @@
 
 |  | Prioritás | Többletkötelezettség- vállalás összege (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett EU része (Mrd Ft) | Többletkötelezettség- vállalás összegének tervezett Hazai része (Mrd Ft) | Hazai részből tervezett public saját erő (Mrd Ft) | Többletkötelezettség- vállalás összegéből tervezett kifizetése – éves bontásban– 2012–2015 |
 
-3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^600]
+3. melléklet a 4/2011. (I. 28.) Korm. rendelethez[^609]
 
 Az irányító hatóság és a közreműködő szervezet kijelölése
 
@@ -20,17 +20,17 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 1 | Operatív program | Prioritás | Intézkedés | A Kormánynak az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja | Közreműködő szervezet |
 
-| 2 | Államreform Operatív Program | az európai uniós források felhasználásáért felelős miniszter | – |
+| 2 | Államreform Operatív Program | közigazgatás-fejlesztésért felelős miniszter | – |
 
-| 3 | Elektronikus Közigazgatás Operatív Program | az európai uniós források felhasználásáért felelős miniszter | – |
+| 3 | Elektronikus Közigazgatás Operatív Program | közigazgatás-fejlesztésért felelős miniszter | – |
 
-| 4 | Gazdaságfejlesztési Operatív Program | nemzetgazdasági miniszter | – |
+| 4 | Gazdaságfejlesztési Operatív Program | gazdaságpolitikáért felelős miniszter | – |
 
-| 5 | Környezet és Energia Operatív Program | nemzeti fejlesztési miniszter | – |
+| 5 | Környezet és Energia Operatív Program | energiapolitikáért felelős miniszter | – |
 
-| 6 | Közlekedés Operatív Program | nemzeti fejlesztési miniszter | – |
+| 6 | Közlekedés Operatív Program | közlekedésért felelős miniszter | – |
 
-| 7 | Dél-alföldi Operatív Program | Regionális gazdaságfejlesztés | nemzetgazdasági miniszter | Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
+| 7 | Dél-alföldi Operatív Program | Regionális gazdaságfejlesztés | területfejlesztés stratégiai tervezéséért felelős miniszter | Dél-alföldi Regionális Fejlesztési Ügynökség Nonprofit Kft., átadás-átvételt követően a Magyar Államkincstár |
 
 | 8 | Turisztikai célú fejlesztések |
 
@@ -122,6 +122,6 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 52 | Társadalmi Infrastruktúra Operatív Program | emberi erőforrások minisztere | – |
 
-| 53 | Végrehajtás Operatív Program | az európai uniós források felhasználásáért felelős miniszter | – |
+| 53 | Végrehajtás Operatív Program | közigazgatás-fejlesztésért felelős miniszter | – |
 
-[^600]: A 3. melléklet a 96/2014. (III. 25.) Korm. rendelet 3. § (5) bekezdésével megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 9. § 9. pontja, a 397/2015. (XII. 12.) Korm. rendelet 1. §-a, a 410/2016. (XII. 13.) Korm. rendelet 1. §-a szerint módosított szöveg. [A 127/2014. (IV. 10.) Korm. rendelet 4. § (2) bekezdésével elrendelt módosítás nem volt átvezethető.]
+[^609]: A 3. melléklet a 96/2014. (III. 25.) Korm. rendelet 3. § (5) bekezdésével megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 9. § 9. pontja, a 397/2015. (XII. 12.) Korm. rendelet 1. §-a, a 410/2016. (XII. 13.) Korm. rendelet 1. §-a, a 106/2018. (VI. 15.) Korm. rendelet 7. § 29–35. pontja szerint módosított szöveg. [A 127/2014. (IV. 10.) Korm. rendelet 4. § (2) bekezdésével elrendelt módosítás nem volt átvezethető.]
