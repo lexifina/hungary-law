@@ -1,6 +1,6 @@
 ## 4. §
 
-## 5. [^6] Az európai uniós források felhasználásáért felelős miniszter feladatai
+## 5. [^6] A miniszter feladatai
 
 5. § (1)[^7] A miniszter
 
@@ -20,7 +20,7 @@ f)[^10] szakmai szempontból előkészíti a Kormány üléseit.
 
 (3)[^12] A monitoring felelős gondoskodik az alkalmazásgazda feladatainak ellátásáról.
 
-[^6]: Az 5. alcím címe a 221/2014. (IX. 4.) Korm. rendelet 813. §-ával megállapított szöveg.
+[^6]: Az 5. alcím címe a 221/2014. (IX. 4.) Korm. rendelet 813. §-ával megállapított, a 106/2018. (VI. 15.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^7]: Az 5. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 814. § a) pontjával megállapított, a 183/2015. (VII. 10.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^8]: Az 5. § (1) bekezdés c) pontja a 4/2016. (I. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^9]: Az 5. § (1) bekezdés d) pontja a 4/2016. (I. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
