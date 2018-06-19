@@ -14,7 +14,7 @@ b) egyesített telekalakítási eljárás.
 
 a) a telekalakítás engedélyezésére, és
 
-b)[^12] a telekalakítási engedély véglegessé válását követően a földrészlet adataiban, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában a telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetésére (e fejezet alkalmazásában a továbbiakban: változásátvezetési eljárás)
+b)[^14] a telekalakítási engedély véglegessé válását követően a földrészlet adataiban, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában a telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetésére (e fejezet alkalmazásában a továbbiakban: változásátvezetési eljárás)
 
 ## irányuló eljárás indul meg.
 
@@ -34,7 +34,7 @@ f) az a személy, aki a telekalakításról a tulajdonossal írásban megállapo
 
 (4) Egyesített telekalakítási eljárás iránti kérelmet az – a (3) bekezdés szerinti kérelem benyújtására jogosult – nyújthat be, aki az ingatlan-nyilvántartásról szóló törvényben foglaltak szerint az ingatlan-nyilvántartási eljárás megindítására egyébként jogosult.
 
-(5)[^13] A telekalakítási eljárás megindítása iránti kérelemnek az Ákr.-ben meghatározottakon túl a következő adatokat kell tartalmaznia:
+(5)[^15] A telekalakítási eljárás megindítása iránti kérelemnek az Ákr.-ben meghatározottakon túl a következő adatokat kell tartalmaznia:
 
 a) természetes személy kérelmező esetén a természetes személyazonosító adatokat;
 
@@ -72,5 +72,8 @@ b) az a) pont hatálya alá nem tartozó, de a földmérési és térképészeti
 
 (10) Azokra az ingatlanokra, amelyek a kisajátítást kérő tulajdonában vannak és a kisajátítási tervben szerepelnek, az (1) bekezdés szerinti telekalakítási eljárás helyett a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott eljárásrendet kell alkalmazni és e kormányrendelet szerint záradékolt változási vázrajz alapján kerül sor a változás ingatlan-nyilvántartási átvezetésére.
 
-[^12]: A 21. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^13]: A 21. § (5) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 594. § c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+(11)[^16] Több mező- és erdőgazdasági hasznosítású földnek minősülő, önálló helyrajzi számú ingatlant érintő telekalakítás ingatlan-nyilvántartási átvezetésekor, ha a telekalakítás következtében valamelyik tulajdonos tulajdoni hányadát képező földterület(ek) nagysága meghaladja az ingatlan-nyilvántartásban a kiinduló állapot szerinti tulajdoni hányadból számítható területnagyságot, igazolni kell, hogy a többlet terület megszerzésére vonatkozóan a Földforgalmi tv. szerinti hatósági jóváhagyás megtörtént
+
+[^14]: A 21. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^15]: A 21. § (5) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 594. § c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^16]: A 21. § (11) bekezdését a 103/2018. (VI. 11.) Korm. rendelet 25. §-a iktatta be.
