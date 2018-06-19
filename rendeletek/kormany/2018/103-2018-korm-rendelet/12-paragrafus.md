@@ -1,0 +1,5 @@
+## 11. § A 38/2014. (II. 24.) Korm. rendelet 6. § (3a) és (3b) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(3a) Az állam, települési és a fővárosi önkormányzat (a továbbiakban együtt: önkormányzat) vagy költségvetési szerv 100%-os tulajdonában álló szervezet esetében a (3) bekezdés b) pontjában foglaltak helyett igazolni kell, hogy az adott szervezet az állam, az önkormányzat, illetve a költségvetési szerv 100%-os tulajdonában áll, ezért a Földforgalmi tv. 5. § 19. pont a) pont ac) alpontja szerinti feltételt nem kell vizsgálni. A (3) bekezdés c) pontja vagy a (3) bekezdés d) pontja szerinti igazolással a szervezet valamely vezető tisztségviselőjének vagy a cégvezetőjének kell rendelkeznie.
+
+## (3b) A Polgári törvénykönyvről szóló 2013. évi V. törvény 3:39. §-a szerinti átalakulással létrejött szervezet esetében a (3) bekezdés a) pontjában foglaltak meglétét a jogelőd és jogutód szervezet vonatkozásában is vizsgálni kell. Egyéb jogutódlás folytán létrejött jogi személy esetében a (3) bekezdés a) pontjában foglalt feltétel a jogelőd szervezet vonatkozásában nem vizsgálható.”

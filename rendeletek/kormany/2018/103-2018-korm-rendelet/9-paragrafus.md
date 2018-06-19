@@ -1,0 +1,3 @@
+## 8. § A 474/2013. (XII. 12.) Korm. rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A jegyző a (3) bekezdésben meghatározott tartalmú iratjegyzékkel együtt a hozzá benyújtott adás-vételi szerződéseket, és az elővásárlásra jogosultak jognyilatkozatait a Földforgalmi tv. 22. § (1) bekezdésében meghatározott határidőben, az ott meghatározottak részére megküldi. Ha az adás-vételi szerződés a mezőgazdasági igazgatási szerv jóváhagyásához kötött, a jegyző a közzétételi kérelem másolati példányát is megküldi a mezőgazdasági igazgatási szerv részére. Az iratoknak a mezőgazdasági igazgatási szerv részére történő megküldése esetén a jegyző az irattovábbítás tényéről – azzal egyidejűleg – értesíti az eladót.”

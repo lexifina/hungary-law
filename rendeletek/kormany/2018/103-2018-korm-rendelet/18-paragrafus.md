@@ -1,0 +1,5 @@
+## 17. § A 38/2014. (II. 24.) Korm. rendelet a következő 17/A. §-sal egészül ki:
+
+## „17/A. § (1) Az adatlapon az újonnan alapított mezőgazdasági termelőszervezet státuszra való utalást bejelentésre törölni kell, ha a mezőgazdasági termelőszervezet a Földforgalmi tv. 42. § (5) bekezdésében meghatározott mezőgazdasági üzemközpont létesítésére vonatkozó kötelezettségét akként teljesíti, hogy a földhasználati jogosultságot a már bejegyzett mezőgazdasági üzemközpontja fekvése szerinti településen szerzi meg.
+
+## (2) Az (1) bekezdés szerinti bejelentést a földhasználati jogosultságnak a földhasználati nyilvántartásba történő bejegyzésétől számított 15 napon belül kell megtenni. Ha az újonnan alapított mezőgazdasági termelőszervezet a Földforgalmi tv. szerinti földhasználati jogosultságot szerez, és határidőben nem jelenti be a járási hivatalnak az (1) bekezdésben foglaltakat, de arról a járási hivatal hivatalból tudomást szerez, akkor hivatalból törli az újonnan alapított mezőgazdasági termelőszervezet státuszra való utalást.”
