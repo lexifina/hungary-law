@@ -26,13 +26,28 @@ f) a bejelentést nem a 2. § (1b) bekezdésében meghatározott adatlapon nyúj
 
 g) a bejelentés benyújtására a Fétv. 95. § (1) bekezdésben meghatározott időpont előtt kerül sor; vagy
 
-h) a használatba adó a Földforgalmi tv. 13. §-a szerinti saját használatra vonatkozó kötelezettséget vállalt.
+h)[^44] az adatlaphoz csatolt földhasználati szerződés szerinti használatba adónak
 
-(4)[^44] Azokban az esetekben, amikor a bejelentésre induló földhasználati nyilvántartásbavételi eljárás során a bejelentést hiánypótlási felhívás kibocsátása nélkül vissza kell utasítani, a hivatalból induló eljárást meg kell szüntetni.
+ha) a földrészlet tulajdonjogának megszerzéséhez a Földforgalmi tv. 13. § (1) bekezdése alapján kötelezettséget kellett vállalnia a földrészlet saját használatára, kivéve a (3a) bekezdésben meghatározott esetet; vagy
+
+hb) a földrészlet földhasználati jogosultságának megszerzéséhez a Földforgalmi tv. 42. § (1) bekezdése alapján kötelezettséget kellett vállalnia a földrészlet saját használatára, kivéve a (3b) bekezdésében meghatározott eseteket
+
+(3a)[^45] Nem utasítható vissza a bejelentés a (2) bekezdés h) pont ha) alpontja alapján, ha a földhasználati szerződés alapján a használat átengedésére a Földforgalmi tv. 13. § (2) bekezdésében meghatározott természetes személy vagy gazdálkodó szervezet javára, illetve az ott meghatározott célból, valamint a Fétv. 5. §-ában meghatározott célból került sor.
+
+(3b)[^46] Nem utasítható vissza a bejelentés a (2) bekezdés h) pont hb) alpontja alapján, ha
+
+a) a földhasználati szerződés alapján a használat átengedésére a Földforgalmi tv. 42. § (2) bekezdésében meghatározott természetes személy vagy gazdálkodó szervezet javára, illetve az ott meghatározott célból, valamint a Fétv. 5. §-ában meghatározott célból került sor, vagy
+
+b) a földhasználati szerződés a Fétv. 65. §-a alapján alhaszonbérletnek minősül.
+
+(4)[^47] Azokban az esetekben, amikor a bejelentésre induló földhasználati nyilvántartásbavételi eljárás során a bejelentést hiánypótlási felhívás kibocsátása nélkül vissza kell utasítani, a hivatalból induló eljárást meg kell szüntetni.
 
 [^39]: A 8. §-t a 45/2016. (III. 10.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte, újonnan a 440/2016. (XII. 16.) Korm. rendelet 14. § (4) bekezdése iktatta be.
 [^40]: A 9. § a 23/2012. (II. 29.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
 [^41]: A 9. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 95. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 209. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^42]: A 9. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 95. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 209. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^43]: A 9. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 208. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^44]: A 9. § (4) bekezdését újonnan a 440/2016. (XII. 16.) Korm. rendelet 14. § (5) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 209. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^44]: A 9. § (3) bekezdés h) pontja a 103/2018. (VI. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^45]: A 9. § (3a) bekezdését a 103/2018. (VI. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^46]: A 9. § (3b) bekezdését a 103/2018. (VI. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^47]: A 9. § (4) bekezdését újonnan a 440/2016. (XII. 16.) Korm. rendelet 14. § (5) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 209. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

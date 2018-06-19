@@ -14,13 +14,7 @@
 
 (5)[^23] A föld használatát az adatlap, illetve az adatlap és az ahhoz csatolt okirat, hivatalból indult eljárás esetén a jóváhagyó záradékkal ellátott szerződés, az eljárás során tett nyilatkozat és csatolt okirat alapján kell nyilvántartásba venni a 9/A. §-ban meghatározott eltéréssel.
 
-(6)[^24] Az (1) bekezdés szerint megindított földhasználati nyilvántartási eljárás akkor folytatható le, ha
-
-a) a bejelentést a 2. § (1b) bekezdésében meghatározott adatlapon nyújtották be,
-
-b) a bejelentés benyújtására a használat megkezdése után kerül sor, vagy
-
-c) a használatba adó a Földforgalmi tv. 13. §-a szerinti saját használatra vonatkozó kötelezettséget nem vállalt.
+(6)[^24]
 
 [^17]: A 6. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 599. § (6) bekezdése iktatta be.
 [^18]: A 6. § a 45/2016. (III. 10.) Korm. rendelet 4. §-ával megállapított szöveg.
@@ -29,4 +23,4 @@ c) a használatba adó a Földforgalmi tv. 13. §-a szerinti saját használatra
 [^21]: A 6. § (2) bekezdése 457/2017. (XII. 28.) Korm. rendelet 209. § b) és c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^22]: A 6. § (2a) bekezdését a 440/2016. (XII. 16.) Korm. rendelet 14. § (2) bekezdése iktatta be.
 [^23]: A 6. § (5) bekezdése a 440/2016. (XII. 16.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
-[^24]: A 6. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 208. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^24]: A 6. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 208. § (2) bekezdése iktatta be, hatályon kívül helyezte a 103/2018. (VI. 11.) Korm. rendelet 5. §-a.

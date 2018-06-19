@@ -60,7 +60,15 @@
 
 ## a) adatai a valóságnak megfelelnek,
 
-## b) a földhasználata a törvényben meghatározott korlátozásokat nem sérti.
+## b) a földhasználata a törvényben meghatározott korlátozásokat nem sérti,
+
+## c) a használat átengedésére a Földforgalmi tv. 13. § (2) bekezdése, a 42. § (2) bekezdése, illetve a Fétv. 5. §-a alapján
+
+## ca) mint a használatba adó földművesnek minősülő közeli hozzátartozója, illetve a használatba adó vagy a használatba adó közeli hozzátartozója legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet részére, vagy
+
+## cb) társult erdőgazdálkodást folytatása, vetőmagtermeléshez, valamint vetőgumó és vegetatív szaporítóanyag előállításához szükséges terület biztosítása céljából
+
+## került sor.
 
 ## 5. Szívességi földhasználat jogcímén bejelentett földhasználat esetén a természetes személy földhasználó nyilatkozata arról, hogy a használatba adóval közeli hozzátartozói viszonyban áll.
 
@@ -92,6 +100,6 @@
 
 ## 7. Az ügyintéző aláírása.
 
-2. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^114]
+2. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^118]
 
-[^114]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 599. § (16) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^118]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 599. § (16) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

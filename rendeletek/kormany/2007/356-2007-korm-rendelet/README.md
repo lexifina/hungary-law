@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-356-20-
 | 2017-01-01 | 2007-356-20-22.26 | 440/2016. (XII. 16.) Korm. rendelet |
 | 2017-01-02 | 2007-356-20-22.27 | 473/2016. (XII. 27.) Korm. rendelet |
 | 2018-01-01 | 2007-356-20-22.28 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2018-06-19 | 2007-356-20-22.29 | 103/2018. (VI. 11.) Korm. rendelet |
