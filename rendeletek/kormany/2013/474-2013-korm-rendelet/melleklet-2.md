@@ -1,4 +1,4 @@
-2. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^25]
+2. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^26]
 
 ## A haszonbérleti szerződés hirdetményi úton történő közlésére irányuló közzétételi kérelem tartalma
 
@@ -58,4 +58,6 @@ II. A jegyző által feltüntetendő tartalmi elemek:
 
 3. A jegyző aláírása, bélyegzője és az aláírás dátuma.
 
-[^25]: A 2. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § c)–e) pontja, a 477/2016. (XII. 27.) Korm. rendelet 72. § (3) bekezdése szerint módosított szöveg.
+4. A tárgyi kérelem, amennyiben a haszonbérleti szerződés a mezőgazdasági igazgatási szerv jóváhagyásához kötött, hatósági jóváhagyás iránti kérelemnek is minősül.
+
+[^26]: A 2. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § c)–e) pontja, a 477/2016. (XII. 27.) Korm. rendelet 72. § (3) bekezdése, a 103/2018. (VI. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.

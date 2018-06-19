@@ -1,4 +1,4 @@
-3. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^26]
+3. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^27]
 
 ## Tulajdonostársanként külön okiratba foglalt haszonbérleti szerződés esetében a kifüggesztésre kerülő közzétételi közlemény tartalma
 
@@ -58,4 +58,4 @@ d) a haszonbérlet kezdetének és befejezésének időpontja.
 
 6. A kérelmező haszonbérbeadó tulajdonostárs nyilatkozata arról, hogy a közleményben feltüntetett adatok a valóságnak és a haszonbérleti szerződésben foglaltaknak megfelelnek.
 
-[^26]: A 3. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.
+[^27]: A 3. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.
