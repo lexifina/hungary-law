@@ -42,6 +42,6 @@
 
 ## 3. Adatváltozással érintett adat megjelölése és az adatváltozás megnevezése.
 
-6. számú melléklet a 38/2014. (II. 24.) Korm. rendelethez[^77]
+6. számú melléklet a 38/2014. (II. 24.) Korm. rendelethez[^78]
 
-[^77]: A 6. mellékletet a 341/2016. (XI. 17.) Korm. rendelet 21. § b) pontja iktatta be, a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^78]: A 6. mellékletet a 341/2016. (XI. 17.) Korm. rendelet 21. § b) pontja iktatta be, a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

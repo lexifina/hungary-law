@@ -1,6 +1,8 @@
+## 13. §[^43]
+
 ## 5. A nyilvántartásból való törléssel kapcsolatos eljárási szabályok
 
-14. § (1)[^42] A járási hivatal
+14. § (1)[^44] A járási hivatal
 
 a) a (4) bekezdésben meghatározott esetekben hivatalból, vagy
 
@@ -8,11 +10,11 @@ b) kérelemre
 
 ## törli a földművest a nyilvántartásból.
 
-(2)[^43] A földművesnek a nyilvántartásból való törlése iránti kérelmét a földügyért felelős miniszter által vezetett minisztérium, valamint a járási hivatalok hivatalos honlapján közzétett formanyomtatványon kell benyújtania. A kérelem adattartalmát az 5. melléklet határozza meg. A földművesnek a nyilvántartásból való törlése iránti kérelmét nem kell megindokolnia.
+(2)[^45] A földművesnek a nyilvántartásból való törlése iránti kérelmét a földügyért felelős miniszter által vezetett minisztérium, valamint a járási hivatalok hivatalos honlapján közzétett formanyomtatványon kell benyújtania. A kérelem adattartalmát az 5. melléklet határozza meg. A földművesnek a nyilvántartásból való törlése iránti kérelmét nem kell megindokolnia.
 
-(3)[^44] A földművesnek a nyilvántartásból való törlését a földműves elhalálozásának a tényére való hivatkozással bárki kérelmezheti. A kérelemhez nem kell okiratot csatolni, amennyiben a földműves elhalálozása a személyiadat- és lakcímnyilvántartásban szereplő adatokból kétségtelenül megállapítható.
+(3)[^46] A földművesnek a nyilvántartásból való törlését a földműves elhalálozásának a tényére való hivatkozással bárki kérelmezheti. A kérelemhez nem kell okiratot csatolni, amennyiben a földműves elhalálozása a személyiadat- és lakcímnyilvántartásban szereplő adatokból kétségtelenül megállapítható.
 
-(4)[^45] A járási hivatal hivatalból törli a földművest a nyilvántartásból, ha
+(4)[^47] A járási hivatal hivatalból törli a földművest a nyilvántartásból, ha
 
 a) utóbb megállapításra kerül, hogy már a nyilvántartásba vétel időpontjában sem álltak fenn a bejegyzés jogszabályi feltételei, vagy
 
@@ -24,7 +26,7 @@ c) a járási hivatal a személyiadat- és lakcímnyilvántartásban szereplő a
 
 a) a) pontjában meghatározott esetben a jogellenes bejegyzés megállapítását követően haladéktalanul, de legkésőbb 5 napon
 
-b)[^46] b) pontjában meghatározott esetben
+b)[^48] b) pontjában meghatározott esetben
 
 ba) a tulajdonjognak, haszonélvezeti jognak vagy vagyonkezelői jognak az ingatlan-nyilvántartásból való törlésétől,
 
@@ -34,16 +36,17 @@ bc) – a ba) és bb) pontban foglalt eset kivételével – a mezőgazdasági �
 
 számított, a mezőgazdasági üzemközpontként más ingatlan bejelentésére nyitva álló 30 napos határidő eredménytelen elteltét követő 30 napon
 
-c)[^47] c) pontjában meghatározott esetben az elhalálozás tényéről való tudomásszerzéstől számított 8 napon
+c)[^49] c) pontjában meghatározott esetben az elhalálozás tényéről való tudomásszerzéstől számított 8 napon
 
 ## belül kell törölni a földművest a nyilvántartásból.
 
-(6)[^48]
+(6)[^50]
 
-[^42]: A 14. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
-[^43]: A 14. § (2) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 19. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 489. § g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^44]: A 14. § (3) bekezdése a 60/2017. (III. 20.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
-[^45]: A 14. § (4) bekezdése a 60/2017. (III. 20.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
-[^46]: A 14. § (5) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 487. § (11) bekezdésével megállapíott szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^47]: A 14. § (5) bekezdés c) pontját a 136/2016. (VI. 13.) Korm. rendelet 13. § d) pontja hatályon kívül helyezte, újonnan a 60/2017. (III. 20.) Korm. rendelet 25. § (5) bekezdése iktatta be.
-[^48]: A 14. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 490. § e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^43]: A 13. §-t a 103/2018. (VI. 11.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
+[^44]: A 14. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^45]: A 14. § (2) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 19. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 489. § g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^46]: A 14. § (3) bekezdése a 60/2017. (III. 20.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^47]: A 14. § (4) bekezdése a 60/2017. (III. 20.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^48]: A 14. § (5) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 487. § (11) bekezdésével megállapíott szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^49]: A 14. § (5) bekezdés c) pontját a 136/2016. (VI. 13.) Korm. rendelet 13. § d) pontja hatályon kívül helyezte, újonnan a 60/2017. (III. 20.) Korm. rendelet 25. § (5) bekezdése iktatta be.
+[^50]: A 14. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 490. § e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
