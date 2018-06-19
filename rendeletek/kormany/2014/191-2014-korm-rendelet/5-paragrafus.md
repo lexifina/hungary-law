@@ -8,7 +8,7 @@ b) a licitdíjat megfizette,
 
 c) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) 35. § (3) bekezdés harmadik mondata szerinti körülmények fennállásáról szóló hatósági bizonyítványt és a Földforgalmi törvény 13–15. §-a szerinti – az ott előírt alakszerűségi előírásoknak megfelelő – nyilatkozatokat csatolja,
 
-d)[^15] a Földforgalmi törvény 18. § (1) bekezdés e) pontja szerinti feltételeknek megfelel, és azt – az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet 27. §-a szerinti hatósági bizonyítvánnyal – igazolja.
+d)[^15] a Földforgalmi törvény 18. § (1) bekezdés e) pontja szerinti, legfeljebb 20 km-es távolságra vonatkozó feltételnek megfelel, és azt – az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet 27. §-a szerinti hatósági bizonyítvánnyal – igazolja.
 
 (1a)[^16] A földre a Nemzeti Földalapkezelő Szervezet is árverezhet azzal, hogy a Nemzeti Földalapkezelő Szervezetre az (1)–(2) és (6) bekezdésben foglaltakat nem kell alkalmazni.
 
@@ -35,7 +35,7 @@ e) az (1) bekezdésben foglaltaknak meg nem felelő személy.
 (7) Az árverésen az árverést lefolytatón, a megkeresőn és a megkereső eljárásában szereplő feleken kívül az árverezők vehetnek részt.
 
 [^14]: Az 5. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés g) pontja szerint módosított szöveg.
-[^15]: Az 5. § (1) bekezdés d) pontját az 523/2017. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^15]: Az 5. § (1) bekezdés d) pontját az 523/2017. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 103/2018. (VI. 11.) Korm. rendelet 21. §-ával megállapított szöveg.
 [^16]: Az 5. § (1a) bekezdését az 523/2017. (XII. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^17]: Az 5. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés i) pontja, a 457/2017. (XII. 28.) Korm. rendelet 501. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^18]: Az 5. § (4) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés h) pontja szerint módosított szöveg.
