@@ -110,7 +110,7 @@ a javaslattételre: 2017. augusztus 31.
 
 6. A Kormány a város sportéletének élénkítése, a helyi és térségi társadalmi igények kielégítése céljából támogatja Szegeden sportcélú beruházások megvalósítását, ennek keretében
 
-a) felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy gondoskodjanak a város által tervezett új fedett versenyuszoda megvalósításához szükséges intézkedések megtételéről;
+a)[^1] felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy gondoskodjanak a város által tervezett új fedett versenyuszoda megvalósításához szükséges intézkedések megtételéről;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -118,7 +118,7 @@ emberi erőforrások minisztere
 
 Határidő: az előkészítésre: azonnal
 
-a megvalósításra: 2019. augusztus 31.
+a megvalósításra: 2019. december 31.
 
 b) felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy az Önkormányzattal együttműködve gondoskodjanak új kézilabdacsarnok megvalósítására irányuló beruházási program kidolgozásáról, és tegyenek javaslatot a beruházás támogatására;
 
@@ -153,3 +153,5 @@ b) felhívja az 1–6. pontban felelősként megjelölt minisztereket, hogy – 
 Felelős: az 1–6. pontban felelősként megjelölt miniszterek
 
 Határidő: azonnal
+
+[^1]: A 6. pont a) alpontja az 1281/2018. (VI. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
