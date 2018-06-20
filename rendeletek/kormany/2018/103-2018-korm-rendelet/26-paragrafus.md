@@ -1,3 +1,0 @@
-## 25. § A 384/2016. (XII. 2.) Korm. rendelet 21. §-a a következő (11) bekezdéssel egészül ki:
-
-## „(11) Több mező- és erdőgazdasági hasznosítású földnek minősülő, önálló helyrajzi számú ingatlant érintő telekalakítás ingatlan-nyilvántartási átvezetésekor, ha a telekalakítás következtében valamelyik tulajdonos tulajdoni hányadát képező földterület(ek) nagysága meghaladja az ingatlan-nyilvántartásban a kiinduló állapot szerinti tulajdoni hányadból számítható területnagyságot, igazolni kell, hogy a többlet terület megszerzésére vonatkozóan a Földforgalmi tv. szerinti hatósági jóváhagyás megtörtént”.
