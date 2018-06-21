@@ -34,6 +34,9 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a támogatói okirat kiadásakor
 
-1.7. visszavonja a Modern Városok Program keretében a szegedi sportfejlesztések megvalósítása érdekében támogatás biztosításáról szóló 2014/2017. (XII. 22.) Korm. határozat 1. pont a) alpontját és 2–5. pontját.
+1.7.[^1]
 
-2. A Magyarország Kormánya és Szeged Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1151/2017. (III. 20.) Korm. határozat 6. pont a) alpontjában a „2019. augusztus 31.” szövegrész helyébe a „2019. december 31.” szöveg lép.
+2.[^2]
+
+[^1]: Az 1. pont 1.7. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
