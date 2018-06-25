@@ -16,7 +16,7 @@
 
 ## 5. külföldi partnerkapcsolat-fejlesztés.
 
-## A 2016. évi zöldség-gyümölcs termékmarketing-program kiemelt tevékenységelemei a következők:
+## A zöldség-gyümölcs termékmarketing-program kiemelt tevékenységelemei a következők:
 
 ## A) Nemzetközi termékpromóció:
 
@@ -56,6 +56,6 @@
 
 ## 8. a megvalósításban részt vevő személyek felsorolása.
 
-3. melléklet az 53/2016. (VII. 21.) FM rendelethez[^8]
+3. melléklet az 53/2016. (VII. 21.) FM rendelethez[^10]
 
-[^8]: A 3. mellékletet az 50/2017. (X. 10.) FM rendelet 38. §-a hatályon kívül helyezte.
+[^10]: A 3. mellékletet az 50/2017. (X. 10.) FM rendelet 38. §-a hatályon kívül helyezte.

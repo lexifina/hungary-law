@@ -30,4 +30,6 @@
 
 ## Az intézkedés keretében elszámolható költségek: termelői és feldolgozói kapacitások felmérésének költsége, termékpálya elemzéseken alapuló értéklánc-menedzsment modellek kidolgozása, a végrehajtáshoz szükséges fejlesztési és beruházási költségek (válogatás, osztályozás és csomagolás gépesítettségének növelése, tárolás feltételeinek bővítése első szintű feldolgozás eszközeinek beszerzése, kapacitásuk növelése, informatikai rendszerek fejlesztése). A nyomon követéshez, illetve a kapacitás és értéklánc-menedzsment modellek működéséhez szükséges szoftver- és eszközbeszerzés, részvételi költségek, ahol a bérleti költség nem haladja meg az adott időszakra elszámolt amortizáció mértékét.
 
-2. melléklet az 53/2016. (VII. 21.) FM rendelethez
+2. melléklet az 53/2016. (VII. 21.) FM rendelethez[^9]
+
+[^9]: A 2. melléklet a 6/2018. (VI. 22.) AM rendelet 2. §-a szerint módosított szöveg.

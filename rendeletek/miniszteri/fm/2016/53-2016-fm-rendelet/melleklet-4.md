@@ -24,8 +24,8 @@ A működési alap kiegészítő nemzeti támogatása és az 1308/2013/EU európ
 
 7. A kérelmező nyilatkozata arról, hogy a kérelemben és a mellékletekben feltüntetett adatok a valóságnak megfelelnek.
 
-8.[^9] Csatolt dokumentumok [az értékesített termék értékét alátámasztó számlák, illetve a bérköltségek főbb adatait tartalmazó, a Magyar Államkincstár általa honlapján közzétett nyomtatványok; a 50/2017. (X. 10.) FM rendelet 26. § (2) bekezdése szerinti tájékoztatás; a megvalósított intézkedések kapcsán a szerződések, teljesítésigazolások, számlák, a megvalósítást igazoló dokumentumok, kifizetést igazoló dokumentumok másolatai].
+8.[^11] Csatolt dokumentumok [az értékesített termék értékét alátámasztó számlák, illetve a bérköltségek főbb adatait tartalmazó, a Magyar Államkincstár általa honlapján közzétett nyomtatványok; a 50/2017. (X. 10.) FM rendelet 26. § (2) bekezdése szerinti tájékoztatás; a megvalósított intézkedések kapcsán a szerződések, teljesítésigazolások, számlák, a megvalósítást igazoló dokumentumok, kifizetést igazoló dokumentumok másolatai].
 
 9. Keltezés, a kérelmező (cégszerű) aláírása.
 
-[^9]: A 4. melléklet 8. pontja a 88/2016. (XII. 29.) FM rendelet 118. §-a, az 50/2017. (X. 10.) FM rendelet 37. §-a szerint módosított szöveg.
+[^11]: A 4. melléklet 8. pontja a 88/2016. (XII. 29.) FM rendelet 118. §-a, az 50/2017. (X. 10.) FM rendelet 37. §-a szerint módosított szöveg.
