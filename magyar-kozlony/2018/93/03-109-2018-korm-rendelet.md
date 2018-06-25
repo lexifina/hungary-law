@@ -1,0 +1,256 @@
+# A Kormány 109/2018. (VI. 25.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 93. szám, 2018. június 25. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/0db23e7fad70ee8505ecdcf45a53163b9b3db5c1/dokumentumok/40385af82942c344e3582740fd890aa89a1d0760/letoltes)
+
+---
+
+A Kormány 109/2018. (VI. 25.) Korm. rendelete
+egyes igazságügyi tárgyú kormányrendeleteknek a büntetőeljárásról szóló
+2017. évi XC. törvénnyel összefüggő módosításáról
+A Kormány
+az Országos Ítélőtábla székhelyének és illetékességi területének megállapításáról, valamint az igazságszolgáltatás működését
+érintő egyes törvények módosításáról szóló 1999. évi CX. törvény 164. § (4) bekezdésében és a büntetőeljárásról szóló 2017. évi
+XC. törvény 866. § (1) bekezdés a) pontjában kapott felhatalmazás alapján,
+a 2. alcím tekintetében a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 74. § b) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A bírósági ügyintézők által ellátható egyes feladatokról szóló 56/2008. (III. 26.) Korm. rendelet
+módosítása
+1. § (1) A bírósági ügyintézők által ellátható egyes feladatokról szóló 56/2008. (III. 26.) Korm. rendelet (a továbbiakban: Bür.)
+17. §-át megelőző alcím címe helyébe a következő alcím cím lép:
+„A büntetőeljárásban és a büntetés-végrehajtási ügyekben ellátható feladatok”
+(2) A Bür. 17–36. §-a helyébe a következő rendelkezések lépnek:
+„17. § (1) A bírósági ügyintéző a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 46. §
+(1) bekezdése alapján védőt rendelhet ki, és a védő személyének kijelölése céljából a határozatot megküldi
+
+a kirendelő bíróság székhelye szerint illetékes területi ügyvédi kamarának. A bírósági ügyintéző a kirendelt
+védő személyéről és elérhetőségéről értesíti a terheltet, valamint a Be. 42. § (5) bekezdése szerint a fogva tartást
+végrehajtó intézetet.
+(2) A bírósági ügyintéző a meghatalmazott védőt tájékoztathatja a korábban eljárt kirendelt védő személyéről és
+elérhetőségéről a Be. 48. § (3) bekezdése szerint.
+18. § A bírósági ügyintéző tájékoztathatja
+a) a sértettet a Be. 51. § (5) bekezdésében foglalt események bekövetkeztéről, ha ez iránt a sértett előzetes kérelmet
+terjesztett elő,
+b) a távoltartással érintett személyt a távoltartás megszűnéséről, illetve megszüntetéséről a Be. 280. § (6) bekezdése
+szerint, illetve
+c) a fogva lévő terhelt által megjelölt személyt a fogva tartásról a Be. 39. § (2) bekezdés b) pontja szerint.
+19. § A bírósági ügyintéző a Be. 77. § (1) bekezdése szerint a költségkedvezmény engedélyezése iránt a bíróságra
+előterjesztett kérelmet megküldheti az elbírálásra jogosult jogi segítségnyújtó szolgálatnak.
+20. § A bírósági ügyintéző, ha a különösen védett tanú részvételét igénylő eljárási cselekményen
+jegyzőkönyvvezetőként vett részt, elkészítheti a különösen védett tanú részvételével végzett eljárási cselekményen
+felvett jegyzőkönyv kivonatát a Be. 92. § (7)–(9) bekezdése szerint.
+21. § (1) A bírósági ügyintéző a Be. 135. § (1) bekezdése szerint az ismeretlen helyen tartózkodó terheltnek, illetve
+az elektronikus adat felett rendelkezni jogosult ismeretlen vagyoni érdekeltnek szóló ügyirat hirdetményi úton
+történő kézbesítése iránt intézkedhet.
+(2) A bírósági ügyintéző a Be. 130. § (1) bekezdés c) pontja és (2) bekezdése szerint az ügyiratot a címzett részére
+személyesen is kézbesítheti, illetve a címzett az ügyiratot a bírósági ügyintézőtől a bíróságon is átveheti.
+22. § A bírósági ügyintéző a folyamatban lévő ügyet a Be. 147. § (4) bekezdése szerint az egyesítés megfontolása
+céljából megküldheti az egyesítés kérdésében határozathozatalra jogosult bíróságnak.
+23. § (1) A bírósági ügyintéző bármely szervtől, jogi személytől vagy jogi személyiséggel nem rendelkező
+szervezettől a Be. 261. § (1) és (3) bekezdése szerinti adatszolgáltatást kérhet.
+(2) A bírósági ügyintéző adatkérése a Be. 261. § (4) bekezdése szerint állami vagy helyi önkormányzati szerv
+nyilvántartásában kezelt adat továbbítására, illetve átvételére is irányulhat. Ha törvény ezt lehetővé teszi, a bírósági
+ügyintéző a Be. 263. §-a szerint a nyilvántartásból vagy az adatállományból közvetlen hozzáféréssel veszi át
+a szükséges adatokat.
+(3) A bírósági ügyintéző jogosult a Be. 498. § (3) bekezdése szerint a vádlottra vonatkozó bűnügyi nyilvántartás
+és a központi szabálysértési nyilvántartás adatait, valamint a jogszabállyal rendszeresített egyéb közhiteles
+nyilvántartásnak a vádlottra, illetve a vád tárgyára vonatkozó adatait beszerezni.
+(4) A bírósági ügyintéző a Be. 498. § (1) bekezdése szerint intézkedhet aziránt, hogy a bizonyítási eszközök
+a tárgyaláson rendelkezésre álljanak, e körben − az ügyészség megkeresésének kivételével – más szerveket
+megkereshet, illetve adatszolgáltatást kérhet.
+(5) A bírósági ügyintéző a bírósági ügyvitel szabályai szerint jogosult az ügyiratok megküldésére más bíróság,
+ügyészség, nyomozó hatóság és más hatóság számára. A bírósági ügyintéző megkeresheti a bíróságot,
+az ügyészséget, a nyomozó hatóságot és más hatóságot iratok megküldése és a megküldött ügyiratok visszaküldése
+iránt.
+24. § (1) A bírósági ügyintéző az ismeretlen helyen tartózkodó terhelt vagy tanú felkutatása érdekében a terhelt
+vagy a tanú lakcímének, illetve tényleges tartózkodási helyének a megállapítása iránt intézkedhet. A bírósági
+ügyintéző a körözés elrendelésére és az elfogatóparancs kibocsátására nem jogosult.
+(2) A bírósági ügyintéző a terhelt vagy a tanú lakcímének és tényleges tartózkodási helyének megállapítása iránt
+a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet keresi meg.
+25. § (1) A bírósági ügyintéző jogosult
+a) az elővezetési költséget megállapító végzés, valamint
+b) a tolmács és fordító kirendelésére vonatkozó, a tolmácsdíjat és fordítási díjat megállapító végzés
+meghozatalára.
+(2) A bírósági ügyintéző a Be. 453. §-a szerinti eljárásban az általa hozott határozatokat kijavíthatja.
+26. § (1) A bírósági ügyintéző a jogerő megállapításáról tájékoztathatja azokat a személyeket, akik a jogerőssé vált
+határozat ellen fellebbezés benyújtására, valamint büntetővégzés esetében a Be. 742. §-a szerinti tárgyalás tartása
+iránti indítvány benyújtására voltak jogosultak a Be. 459. § (3) bekezdése szerint.
+(2) A bírósági ügyintéző az ügyiratok felterjesztése után a bírósághoz a Be. 586. § (1) bekezdése szerint benyújtott
+fellebbezésre tett észrevételt felterjesztheti a fellebbezés elbírálására jogosult bírósághoz.
+
+27. § A bírósági ügyintéző a másodfokú bírósági eljárásban jogosult
+a) a Be. 596. § (1) bekezdés b) pontja szerint az ügyiratokat visszaküldeni az elsőfokú bíróságnak, ha
+a fellebbezéseket visszavonták,
+b) a vádlottnak és a védőnek kézbesíteni a más által bejelentett fellebbezést, valamint a másodfokú bíróság mellett
+működő ügyészség indítványát a Be. 596. § (1) bekezdés c) pontja szerint,
+c) a vádlott vagy a védő fellebbezésének indokolását − ha azt a másodfokú bíróság előtt terjesztették elő −
+megküldeni a másodfokú bíróság mellett működő ügyészségnek a Be. 596. § (1) bekezdés d) pontja szerint.
+28. § A bírósági ügyintéző a harmadfokú bírósági eljárásban jogosult
+a) a Be. 596. § (1) bekezdés b) pontja szerint az ügyiratokat visszaküldeni a másodfokú bíróságnak, ha
+a fellebbezéseket visszavonták,
+b) a vádlottnak és a védőnek kézbesíteni a más által bejelentett fellebbezést, valamint a harmadfokú bíróság mellett
+működő ügyészség indítványát a Be. 596. § (1) bekezdés c) pontja szerint,
+c) a vádlott vagy a védő fellebbezésének indokolását − ha azt a harmadfokú bíróság előtt terjesztették elő −
+megküldeni a harmadfokú bíróság mellett működő ügyészségnek a Be. 596. § (1) bekezdés d) pontja szerint.
+29. § A bírósági ügyintéző a perújítási eljárásban jogosult
+a) az alapügy ügyiratainak beszerzése iránt intézkedni, ha az ügyészség az ügyiratokat nem csatolta a perújítási
+indítványhoz a Be. 643. § (3) bekezdése szerint,
+b) az ügyészségnek észrevételezésre megküldeni a perújítási indítványt és az alapügy bírósági ügyiratait a Be. 643. §
+(4) bekezdése szerint,
+c) az indítvány előterjesztőjének kézbesíteni az ügyészség perújítási indítványra tett nyilatkozatát, valamint
+a terheltnek és a védőnek kézbesíteni a más által előterjesztett perújítási indítványt és az arra tett ügyészségi
+nyilatkozatot a Be. 643. § (5) bekezdése szerint.
+30. § A bírósági ügyintéző a felülvizsgálati eljárásban jogosult
+a) a felülvizsgálati indítvány előterjesztőjének, valamint a terheltnek és védőjének észrevételezésre megküldeni
+a felülvizsgálati indítványt, valamint az ügyészség, a magánvádló vagy a pótmagánvádló nyilatkozatát [a Be. 657. §
+(3) bekezdése, a Be. 784. § (4) bekezdése vagy a 815. § (4) bekezdése szerint],
+b) a terhelt és védője részére észrevételezésre megküldeni a más által benyújtott felülvizsgálati indítványt és az arra
+tett ügyészségi nyilatkozatot a Be. 657. § (3) bekezdése szerint,
+c) a magánvádas vagy pótmagánvádas eljárásban hozott határozat ellen benyújtott felülvizsgálati indítványt
+a magánvádlónak, illetve a pótmagánvádlónak nyilatkozattétel érdekében megküldeni a Be. 784. § (2) bekezdése
+vagy a 815. § (2) bekezdése szerint.
+31. § A bírósági ügyintéző a törvényesség érdekében bejelentett jogorvoslati eljárásban jogosult a terheltnek és
+a védőnek észrevételezésre megküldeni a törvényesség érdekében bejelentett jogorvoslati indítványt a Be. 668. §
+(3) bekezdése szerint.
+32. § (1) A bírósági ügyintéző a távollévő terhelttel szemben folytatott eljárásban jogosult az ügyészséget
+tájékoztatni, ha
+a) az ügyészség távollévő terhelttel szemben emelt vádat, és a vádlott elérhetősége a tárgyalás megkezdése előtt
+ismertté válik a Be. 750. § (1) bekezdése szerint,
+b) a vádlottal szemben kibocsátott körözés vagy az elfogatóparancs a kibocsátásától számított tizenöt napon belül
+nem vezetett eredményre a Be. 750. § (2) bekezdése szerint.
+(2) A bírósági ügyintéző a külföldön tartózkodó terhelt távollétében folytatott eljárásban a Be. 750. § (1) bekezdése
+szerint tájékoztathatja az ügyészséget, ha az ügyészség a külföldön ismert helyen tartózkodó terhelt távollétében
+emelt vádat és a külföldön tartózkodó terhelt hazatért.
+33. § (1) A bírósági ügyintéző megküldheti az ügyiratokat a magasabb hatáskörű elsőfokú bíróságnak, illetve
+a katonai büntetőeljárást lefolytató bíróságnak az összbüntetési eljárás lefolytatására a Be. 839. § (1) és
+(2) bekezdése szerint.
+(2) A bírósági ügyintéző jogosult a foglalási jegyzőkönyv megküldése iránt a bírósági végrehajtót megkeresni
+a Be. 443. § (1) bekezdése és a Be. 843. § (1) bekezdése szerint.
+34. § (1) A bírósági ügyintéző a kártalanítási eljárásban jogosult
+a) beszerezni a terhelttel szemben alkalmazott szabadságkorlátozásra vonatkozó adatokat és iratokat, amelyek
+a kártalanítási igény elbírálásához szükségesek,
+b) az egyszerűsített kártalanítás tárgyában hozandó döntéshez szükséges adatokat tartalmazó ügyiratokat
+és az e célból beszerzett egyéb iratokat, valamint az egyszerűsített kártalanítási eljárásra irányuló kérelmet
+az igazságügyért felelős miniszternek megküldeni a Be. 851. § (3) bekezdés szerint, vagy
+
+c) a kártalanítási igény elbírálásához szükséges adatokat tartalmazó ügyiratokat és az e célból beszerzett
+egyéb iratokat, valamint a kártalanítási per iránti keresetlevelet az igazságügyért felelős miniszter által vezetett
+minisztérium székhelye szerint illetékes, a perre hatáskörrel rendelkező bíróságnak megküldeni a Be. 854. §
+(4) bekezdése szerint.
+(2) A bírósági ügyintéző a kegyelmi eljárásban jogosult
+a) beszerezni azokat a terheltre vonatkozó adatokat és iratokat, amelyek a kegyelmi eljárás lefolytatásához és
+a kegyelmi kérelem vagy a kegyelmi kezdeményezés elbírálásához szükségesek a Be. 859. § (2) bekezdése szerint,
+b) a kegyelmi döntéshez szükséges adatokat tartalmazó ügyiratokat és az e célból beszerzett egyéb iratokat,
+valamint a kegyelmi kérelmet vagy a kegyelmi kezdeményezést az igazságügyért felelős miniszterhez felterjeszteni
+a Be. 859. § (4) bekezdés b) pontja szerint.
+(3) A bírósági ügyintéző az államot megillető bűnügyi költség és a rendbírság mérséklésére vagy elengedésére
+irányuló eljárásban jogosult
+a) beszerezni azokat a fizetésre kötelezettre vonatkozó adatokat és iratokat, amelyek az eljárás lefolytatásához és
+a kérelem elbírálásához szükségesek a Be. 864. § (1) és (2) bekezdése szerint,
+b) az államot megillető bűnügyi költség és a rendbírság mérséklése vagy elengedése tárgyában hozandó döntéshez
+szükséges adatokat tartalmazó ügyiratokat és az e célból beszerzett egyéb iratokat, valamint a fizetésre kötelezett
+kérelmét az igazságügyért felelős miniszterhez felterjeszteni a Be. 864. § (3) bekezdése szerint.
+35. § (1) A bírósági ügyintéző jogosult az ismeretlen helyen tartózkodó elítélt, illetve kényszergyógykezelt tényleges
+tartózkodási helyének felkutatása iránt intézkedni a büntetések, az intézkedések, egyes kényszerintézkedések és
+a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 19. § (1) bekezdése
+szerint azzal, hogy a bírósági ügyintéző a körözés elrendelésére és az elfogatóparancs kibocsátására nem jogosult.
+(2) A bírósági ügyintéző jogosult a szabadságvesztés végrehajtásának elhalasztására irányuló eljárásban a Büntetés-
+végrehajtás Országos Parancsnoksága egészségügyi szakterület vezetőjének − az elítélt egészségügyi állapotának
+büntetés-végrehajtás keretei között való kezelhetőségére vonatkozó − nyilatkozatának beszerzése iránt intézkedni
+a Bv. tv. 39. § (4) bekezdése szerint.
+(3) A bírósági ügyintéző a büntetett előélethez fűződő hátrányok alóli utólagos bírósági mentesítésre irányuló
+eljárásban a Bv. tv. 44/A. § (3) bekezdése szerint az ügyészség nyilatkozatának beszerzése iránt intézkedhet.
+(4) A bírósági ügyintéző a Bv. tv. 69/B. § (8) bekezdése szerint a kényszergyógykezelés felülvizsgálata előtt
+beszerezheti az elmeorvos-szakértői véleményt.
+(5) A bírósági ügyintéző a végleges hatályú foglalkozástól és járművezetéstől eltiltás, valamint a végleges
+hatályú kiutasítás alóli mentesítésre irányuló eljárásban a Bv. tv. 69/C. § (3) bekezdése szerint az ügyészség és
+az idegenrendészeti hatóság nyilatkozatának beszerzése iránt intézkedhet.
+36. § (1) A bírósági ügyintéző jogosult a fogva tartott személy esetében a büntetőeljárás lefolytatása, továbbá
+a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokról
+szóló 9/2018. (VI. 11.) IM rendelet szerinti értesítőlapok kiállítására és aláírására, valamint a büntetés-végrehajtási
+előadó hatáskörébe utalt feladatok ellátására. A bírósági ügyintéző az értesítőlapra bírói rendelvényt nem vezethet.
+(2) A bírósági ügyintéző jogosult a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai
+által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti
+biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény alapján a bűnügyi nyilvántartási rendszer egyes
+nyilvántartásai részére történő adatközlés szabályairól szóló 20/2009. (VI. 19.) IRM rendeletben meghatározott,
+a bűnügyi nyilvántartás részére történő bírósági adatközléshez szükséges adatlapok kiállítására és aláírására.”
+2. §
+A Bür. 38. §-ában a „Be. 172. § (2) bekezdése és a Be. 497. § (1) bekezdése” szövegrész helyébe a „Be. 377. §
+(1) bekezdése és a Be. 765. § (2) bekezdése”szöveg lép.
+2. A jogi segítségnyújtás keretében nyújtott szolgáltatások engedélyezése, folyósítása és visszatérítése
+iránti eljárások részletes szabályairól szóló 421/2017. (XII. 19.) Korm. rendelet módosítása
+3. §
+A jogi segítségnyújtás keretében nyújtott szolgáltatások engedélyezése, folyósítása és visszatérítése iránti eljárások
+részletes szabályairól szóló 421/2017. (XII. 19.) Korm. rendelet [a továbbiakban: 421/2017. (XII. 19.) Korm. rendelet]
+1. § 1. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„1. büntetőeljárásban biztosított támogatás: büntetőeljárásban pártfogó ügyvédi képviselet biztosítása,
+a pártfogó ügyvéd díjának és költségeinek (a továbbiakban együtt: pártfogó ügyvédi díj) állam általi előlegezése
+
+és − jogszabályban meghatározott esetben − viselése a sértett, a magánvádló, a pótmagánvádló, a magánfél,
+a vagyoni érdekelt és az egyéb érdekelt esetében, továbbá a kirendelt védő díjának és költségeinek állam általi
+előlegezése és viselése a terhelt esetében;”
+4. §
+A 421/2017. (XII. 19.) Korm. rendelet 70. §-a helyébe a következő rendelkezés lép:
+„70. § (1) A területi hivatal pártfogó ügyvédként elsősorban a bíróság, az ügyészség vagy a nyomozó hatóság
+székhelyén vagy ha ezt a fél körülményei indokolják, a fél lakcímén vagy tényleges tartózkodási helyén működő,
+a szolgáltatási szerződésben büntetőügyek szakterületet vállalt jogi segítőt rendel ki.
+(2) Az (1) bekezdés szerinti jogi segítő hiányában a területi hivatal
+a) a bíróság, az ügyészség vagy a nyomozó hatóság székhelyéhez közeli, azonos megyén belüli településen működő,
+a szolgáltatási szerződésben büntetőügyek szakterületet vállalt jogi segítőt,
+b) kivételesen indokolt esetben a bíróság, az ügyészség vagy a nyomozó hatóság székhelye szerinti megyén kívül
+működő, a szolgáltatási szerződésben büntetőügyek szakterületet vállalt jogi segítőt vagy
+c) ha a bíróság, az ügyészség vagy a nyomozó hatóság székhelyéhez legközelebbi jogi segítő is aránytalanul messze
+működik, a bíróság, az ügyészség vagy a nyomozó hatóság székhelyén működő, az ügyvédi kamara nyilvántartása
+szerint kirendelhető ügyvédet, ügyvédi irodát
+rendel ki.”
+5. §
+A 421/2017. (XII. 19.) Korm. rendelet 71. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A támogatás megvonása esetén az erről szóló véglegessé vált határozatról a területi hivatal haladéktalanul értesíti)
+„a) az eljáró bíróságot, ügyészséget, nyomozó hatóságot,”
+6. §
+A 421/2017. (XII. 19.) Korm. rendelet 73. §-a helyébe a következő rendelkezés lép:
+„73. § (1) A pártfogó ügyvéd díjának megállapítására és kifizetésére a polgári perben képviseletet ellátó pártfogó
+ügyvéd díjának megállapítására és kifizetésére vonatkozó rendelkezéseket megfelelően alkalmazni kell azzal,
+hogy ha a büntetőeljárásban vádemelésre nem kerül sor, akkor a támogatás engedélyezése iránti ügyben eljárt
+területi hivatal a pártfogó ügyvédi díj viseléséről az ügyészség vagy a nyomozó hatóság eljárást megszüntető vagy
+az ügyészség feltételes ügyészi felfüggesztésről szóló határozatában foglalt költségviselési rendelkezés alapján
+határoz.
+(2) Ha a büntetőeljárásban vádemelésre nem kerül sor, akkor a pártfogó ügyvéd a pártfogó ügyvédi díj
+megállapítása iránti kérelmével egyidejűleg megküldi a területi hivatalnak az ügyészség vagy a nyomozó hatóság
+eljárást megszüntető vagy az ügyészség feltételes ügyészi felfüggesztésről szóló határozatát.”
+7. §
+A 421/2017. (XII. 19.) Korm. rendelet 74. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) Ha a büntetőeljárásban vádemelésre kerül sor, a pártfogó ügyvéd az addig végzett pártfogó ügyvédi
+tevékenységéért − kérelmére − eljárási előlegre jogosult.
+(2) A felet a büntetőeljárás vádemelésig terjedő szakaszában képviselő pártfogó ügyvéd részére a vádemelést
+követően előterjesztett kérelmére a jogi segítségnyújtó szolgálat eljárási előleget fizet. Az eljárási előleg
+megállapítására a 43. § (1) bekezdését, mérséklésére a 45. § (3) bekezdését megfelelően alkalmazni kell.”
+8. §
+A 421/2017. (XII. 19.) Korm. rendelet 77. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Pótmagánvádló, illetve magánvádló fellépése esetén, ha a terhelt nem köteles a pótmagánvádlót, illetve
+a magánvádlót képviselő pártfogó ügyvédi díj viselésére, a területi hivatal a pótmagánvádlót, illetve a magánvádlót
+határozattal kötelezi a pártfogó ügyvédi díj visszatérítésére.”
+9. §
+A 421/2017. (XII. 19.) Korm. rendelet
+a) 1. § 2. pontjában az „1998. évi XIX. törvény (a továbbiakban: Be.) 340. § (3) bekezdésében megjelölt”
+szövegrész helyébe a„2017. évi XC. törvény 577. § (1) bekezdése szerinti”szöveg,
+b) 4. § (1) bekezdésében az„Az ügyfél és az ügyféllel”szövegrész helyébe az„A fél és a féllel”szöveg,
+c) 17. § (1) bekezdésében az„az ügyfelet”szövegrész helyébe az„a felet”szöveg,
+d) 24. § (2) bekezdésében az„ügyfelet”szövegrész helyébe a„felet”szöveg,
+e) 65. §-ában a„nyomozó hatóság, az ügyész és a büntetőügyben eljáró bíróság” szövegrész helyébe a„bíróság,
+az ügyészség, a nyomozó hatóság”szöveg,
+
+f) 68. §-ában a„jogi szakvizsgával nem rendelkező, személyes költségmentességben részesülő pótmagánvádló,
+továbbá a kiskorú sértett és magánfél fél”szövegrész helyébe a„kiskorú sértett és magánfél”szöveg,
+g) 69. § (2) bekezdésében a „nyomozó hatóságot vagy ügyészt” szövegrész helyébe a „bíróságot, ügyészséget
+vagy nyomozó hatóságot”szöveg,
+h) 69. § (3) bekezdésében a „nyomozó hatóságnak vagy az ügyésznek” szövegrész helyébe a „bíróságnak,
+az ügyészségnek vagy a nyomozó hatóságnak”szöveg,
+i) 75. §-ában a „bírósági eljárás jogerős lezárását” szövegrész helyébe a „büntetőeljárásnak a bíróság jogerős
+ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését”szöveg
+lép.
+3. Záró rendelkezések
+10. §
+Ez a rendelet 2018. július 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
