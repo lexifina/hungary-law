@@ -9,3 +9,7 @@ A Kormány
 Felelős: honvédelmi miniszter
 
 Határidő: a felmerülés ütemében
+
+4.[^1] egyetért azzal, hogy a 1. pont szerinti program részét képező feladatok végrehajtása érdekében szükséges beszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
+
+[^1]: A 4. pontot az 1287/2018. (VI. 25.) Korm. határozat iktatta be.
