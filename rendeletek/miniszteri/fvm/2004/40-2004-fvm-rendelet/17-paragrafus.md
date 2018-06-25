@@ -1,26 +1,10 @@
-## 16. §[^56] A növényfajta-oltalmi eljárás céljára külön vagy az állami elismeréssel együtt benyújtott kérelem alapján elvégzett DUS-vizsgálatról a NÉBIH időközi illetve végleges DUS-vizsgálati jelentést készít. A NÉBIH a végleges jelentésben nyilatkozik arról, hogy a fajta megkülönböztethető, egyöntetű (egynemű) és állandó-e. Ha a NÉBIH a fajtát megkülönböztethetőnek, egyöntetűnek (egyneműnek) és állandónak minősíti, a jelentéshez mellékeli a fajtaleírást, amit egyúttal a bejelentőnek is megküld.
+## 16. §[^59] A növényfajta-oltalmi eljárás céljára külön vagy az állami elismerés céljából végzett fajtavizsgáltra történő bejelentés alapján elvégzett DUS-vizsgálatról a NÉBIH időközi illetve végleges DUS-vizsgálati jelentést készít. A NÉBIH a végleges jelentésben nyilatkozik arról, hogy a fajta megkülönböztethető, egyöntetű (egynemű) és állandó-e. Ha a NÉBIH a fajtát megkülönböztethetőnek, egyöntetűnek (egyneműnek) és állandónak minősíti, a jelentéshez mellékeli a fajtaleírást, amit egyúttal a bejelentőnek is megküld.
 
-## A növényfajták állami elismerése, annak elutasítása
+## A növényfajták állami elismerése, az állami elismerés elutasítása, visszavonása és megújítása[^60]
 
-## és visszavonása
+17. § (1)[^61] A fajtavizsgálatok eredményei alapján a NÉBIH – a csak DUS-vizsgálatra kötelezett fajták kivételével – a fajta állami elismerhetőségére vonatkozó vizsgálati jelentést megküldi a Fajtaminősítő Bizottságnak.
 
-17. § (1)[^57] A kísérleti vizsgálatok eredményei alapján a NÉBIH előterjesztést készít a Fajtaminősítő Bizottság részére, és egyúttal javaslatot tesz
-
-a) a növényfajta állami elismerésére,
-
-b) a növényfajta vizsgálatának megszüntetésére,
-
-c) a növényfajta állami elismerésének visszavonására, illetve
-
-d) a növényfajta állami elismerésének meghosszabbítására,
-
-e) a mezőgazdasági növényfajok és zöldségfajok fajtaelnevezéseinek alkalmasságára vonatkozó végrehajtási szabályok megállapításáról szóló, a Bizottság 930/2000/EK rendeletében foglaltak szerint másik fajtanév bejegyzésére, vagy
-
-f) újabb fajtafenntartó bejegyzésére,
-
-g)[^58] gyümölcsfajták új fajtakísérlet nélküli állami elismerésére.
-
-(2) Az előterjesztésnek – a bejelentésre vonatkozó kérelemben foglaltak alapján – tartalmaznia kell:
+(2)[^62] A vizsgálati jelentésnek – a bejelentésben foglaltak alapján – tartalmaznia kell:
 
 a) a faj nevét,
 
@@ -34,7 +18,7 @@ e) a fajta származását, előállításának módját (keresztezési képlet),
 
 f) a fajta géntechnológiával módosított szervezet-e.
 
-(3) Az előterjesztésnek a vizsgálatok alapján tartalmaznia kell:
+(3)[^63] A vizsgálati jelentésnek a vizsgálatok alapján tartalmaznia kell:
 
 a) a fajta kísérleti vizsgálatának időtartamát,
 
@@ -42,21 +26,27 @@ b) a fajta termesztési és hasznosítási célját,
 
 c) a fajta DUS-vizsgálati eredményét (szántóföldi növények hibridjei esetében a komponenseket is),
 
-d) a fajta leírását a CPVO-, UPOV- vagy nemzeti irányelvek alapján (hibridek esetén a komponenseket is),
+d) a fajta gazdasági értékvizsgálatának eredményeit,
 
-e) a fajta gazdasági értékvizsgálatának eredményeit az arra kötelezett fajok esetében,
+e) a NÉBIH által ellenőrzött végleges fajtanevet,
 
-f) a 9. § (4) bekezdése szerinti tulajdonságokat,
+f) a fajta leírását a CPVO-, UPOV- vagy nemzeti irányelvek alapján (hibridek esetén a komponenseket is) és
 
-g)[^59] a javasolt és a NÉBIH által ellenőrzött fajtanevet,
+g) a vizsgálatok alapján a fajta állami elismerhetőségére vonatkozó javaslatot és annak indokolását.
 
-h) a döntési javaslatot és annak indoklását.
+(3a)[^64] A Fajtaminősítő Bizottság a vizsgálati jelentés és a fajta bejelentőjének észrevételei alapján szakmai javaslatot tesz a NÉBIH részére a fajta állami elismerhetősége vonatkozásában. A NÉBIH a csak DUS-vizsgálatra kötelezett fajok esetén a vizsgálati jelentés alapján, egyéb fajok esetén a Fajtaminősítő Bizottság szakmai javaslata és a vizsgálati jelentés alapján elkészíti a fajta állami elismerhetőségére vonatkozó értékelést.
 
-(4) Az Európai Unió valamely tagállamában vagy harmadik országban már regisztrált fajták esetén az eredeti fajtanevet kell alkalmazni, de indokolt esetben – a mezőgazdasági növényfajok és zöldségfajok fajtaelnevezéseinek alkalmasságára vonatkozó végrehajtási szabályok megállapításáról szóló, a Bizottság 930/2000/EK rendeletében foglaltak szerint – szinonim név adható.
+(3b)[^65] A fajta állami elismerése iránti eljárásban a miniszter megkeresésére a NÉBIH átadja a fajtavizsgálat összefoglalását, a fajta állami elismerhetőségére vonatkozó értékelést, valamint a vizsgálati jelentés bejelentő általi kézhezvételi időpontjára vonatkozó adatot.
+
+(4)[^66] Az Európai Unió valamely tagállamában vagy harmadik országban már regisztrált fajták esetén az eredeti fajtanevet kell alkalmazni, de indokolt esetben – a mezőgazdasági növényfajok és zöldségfajok fajtaelnevezéseinek alkalmasságára vonatkozó végrehajtási szabályok megállapításáról szóló, 2009. július 22-i, 637/2009/EK bizottsági rendeletben foglaltak szerint – szinonim név adható.
 
 (5) Az állami elismerés időpontját legalább 90 nappal megelőzően a javasolt fajtanevet az Európai Unió tagállamai hatóságainak tudomására kell hozni, biztosítva a felszólalás lehetőségét.
 
-[^56]: A 16. § a 105/2012. (X. 11.) VM rendelet 5. § (2) és (3) bekezdése, a 24/2016. (IV. 8.) FM rendelet 9. § g) pontja szerint módosított szöveg.
-[^57]: A 17. § (1) bekezdése a 105/2012. (X. 11.) VM rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^58]: A 17. § (1) bekezdés g) pontját a 68/2010. (V. 12.) FVM rendelet 5. §-a iktatta be.
-[^59]: A 17. § (3) bekezdés g) pontja a 42/2011. (V. 26.) VM rendelet 5. § (2) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 9. § h) pontja szerint módosított szöveg.
+[^59]: A 16. § a 105/2012. (X. 11.) VM rendelet 5. § (2) és (3) bekezdése, a 24/2016. (IV. 8.) FM rendelet 9. § g) pontja, a 3/2018. (VI. 22.) AM rendelet 15. § o) pontja szerint módosított szöveg.
+[^60]: Az „A növényfajták állami elismerése, az állami elismerés elutasítása, visszavonása és megújítása” alcím címe a 3/2018. (VI. 22.) AM rendelet 7. §-ával megállapított szöveg.
+[^61]: A 17. § (1) bekezdése a 3/2018. (VI. 22.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^62]: A 17. § (2) bekezdés nyitó szövegrésze a 3/2018. (VI. 22.) AM rendelet 15. § p) pontja szerint módosított szöveg.
+[^63]: A 17. § (3) bekezdése a 3/2018. (VI. 22.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^64]: A 17. § (3a) bekezdését a 3/2018. (VI. 22.) AM rendelet 8. § (2) bekezdése iktatta be.
+[^65]: A 17. § (3b) bekezdését a 3/2018. (VI. 22.) AM rendelet 8. § (2) bekezdése iktatta be.
+[^66]: A 17. § (4) bekezdése a 3/2018. (VI. 22.) AM rendelet 15. § q) pontja szerint módosított szöveg.
