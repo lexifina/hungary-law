@@ -1,4 +1,4 @@
-## 33. § E rendelet rendelkezéseit a hatálybalépését megelőzően benyújtott, de el nem bírált elismerési kérelmekre és működési program módosítására vonatkozó kérelmekre is alkalmazni kell.
+## 33/A. §[^23] E rendeletnek a zöldség-gyümölcs termelői szervezetek kiegészítő nemzeti támogatásáról szóló 53/2016. (VII. 21.) FM rendelet és a zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelet módosításáról szóló 6/2018. (VI. 22.) AM rendelettel [a továbbiakban: 6/2018. (VI. 22.) AM rendelet] megállapított 16. § (1) bekezdését a 6/2018. (VI. 22.) AM rendelet hatálybalépését[^24] követően megkezdett tevékenységek tekintetében kell alkalmazni.
 
 ## 21. Az Európai Unió jogának való megfelelés
 
@@ -17,3 +17,6 @@ e) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcs-, z
 f) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcs- és zöldség-, valamint a feldolgozottgyümölcs- és feldolgozottzöldség-ágazatra történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2017. március 13-i 892/2017/EU bizottsági végrehajtási rendelet,
 
 g) az egyes gyümölcsfélék termelőinek nyújtandó ideiglenes rendkívüli támogatási intézkedések megállapításáról szóló, 2017. április 20-i 2017/1165/EU felhatalmazáson alapuló bizottsági rendelet
+
+[^23]: A 33/A. §-t a 6/2018. (VI. 22.) AM rendelet 16. §-a iktatta be.
+[^24]: A hatálybalépés időpontja 2018. június 25.

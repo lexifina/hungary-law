@@ -16,4 +16,8 @@ f) nem termelő tag: a termelői szervezetnek az a természetes vagy jogi szemé
 
 g) termelő tag: az a természetes vagy jogi személy, aki vagy amely a 891/2017/EU bizottsági rendelet 2. cikk a) pontjában meghatározott terméket állít elő, valamint az ugyanazon a – földhasználati nyilvántartásba vagy az ingatlan-nyilvántartásba bejegyzett vagy a terület adott hányadának használatára jogosító írásbeli megállapodásban vagy hatósági bizonyítványban feltüntetett – területen a 891/2017/EU bizottsági rendelet 2. cikk a) pontjában meghatározott terméket előállító valamennyi természetes vagy jogi személy összessége;
 
-h) termelői szervezet: az 1308/2013/EU európai parlamenti és tanácsi rendelet 152. cikke szerinti, a gyümölcs és zöldségágazatban – a 154. és 160. cikkben meghatározott feltételekkel – elismert szervezet.
+h) termelői szervezet: az 1308/2013/EU európai parlamenti és tanácsi rendelet 152. cikke szerinti, a gyümölcs és zöldségágazatban – a 154. és 160. cikkben meghatározott feltételekkel – elismert szervezet;
+
+i)[^1] szokásos piaci ár: az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 255. §-a szerinti pénzösszeg.
+
+[^1]: Az 1. § i) pontját a 6/2018. (VI. 22.) AM rendelet 4. §-a iktatta be.
