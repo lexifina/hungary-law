@@ -4,7 +4,7 @@
 
 ## 2. Nyilatkozni kell arról, hogy a felszámoló szervezet névjegyzékbe vételétől számítva volt-e olyan jogerős bírósági határozat, amely csődeljárásban, felszámolási eljárásban, végelszámolási eljárásban, kényszer-végelszámolási eljárásban, önkormányzati adósságrendezési eljárásban vagy vagyonrendezési eljárásban jogerősen felmentette jogszabálysértés vagy a jogszabályi kötelezettségek elmulasztása miatt, ha igen, ezek száma, ügyszáma
 
-## 3. Nyilatkozni kell arról, hogy az e melléklet szerinti tárgyidőszakban a 2. melléklet II. pont 3–4. és 6–12. alpont szerinti jogerős határozatok száma a felszámoló szervezet által ellátott összes ügyszámhoz képest milyen arányt képviselt
+## 3.[^85] Nyilatkozni kell arról, hogy az e melléklet szerinti tárgyidőszakban a 2. melléklet II. pont 3–4. és 6–12. alpont szerinti jogerős vagy végleges határozatok száma a felszámoló szervezet által ellátott összes ügyszámhoz képest milyen arányt képviselt
 
 ## 4. A pályázat benyújtását megelőző öt éves időszakra nyilatkozni kell a 2. melléklet III–VI. pontja szerinti adatokról
 
@@ -20,7 +20,7 @@
 
 ## 2. Csatolni kell a 2. melléklet I. pont 1–7. alpontja szerinti adatokat, nyilatkozatokat, okiratokat
 
-## 3. Ha a névjegyzékből való törlés a pályázat benyújtásától számított öt éven belül történt, a 2. melléklet szerinti tartalommal szakmai és gazdasági beszámolót kell benyújtani azzal, hogy a 2. melléklet II–VI. pontja szerinti tájékoztatást a névjegyzékből való törlés előtti 5 éves tárgyidőszakra kell megadni, és erre az időszakra kell nyilatkozni arról, hogy a 2. melléklet II. pont 3–4. és 6–12. alpont szerinti jogerős határozatok száma az összes ügyszámhoz képest milyen arányt képviselt
+## 3.[^86] Ha a névjegyzékből való törlés a pályázat benyújtásától számított öt éven belül történt, a 2. melléklet szerinti tartalommal szakmai és gazdasági beszámolót kell benyújtani azzal, hogy a 2. melléklet II–VI. pontja szerinti tájékoztatást a névjegyzékből való törlés előtti 5 éves tárgyidőszakra kell megadni, és erre az időszakra kell nyilatkozni arról, hogy a 2. melléklet II. pont 3–4. és 6–12. alpont szerinti jogerős vagy végleges határozatok száma az összes ügyszámhoz képest milyen arányt képviselt
 
 ## 4. Nyilatkozni kell arról, hogy a névjegyzékben való nyilvántartás időszakában volt-e olyan jogerős bírósági határozat, amely csődeljárásban, felszámolási eljárásban, végelszámolási eljárásban, kényszer-végelszámolási eljárásban, önkormányzati adósságrendezési eljárásban vagy vagyonrendezési eljárásban – jogszabálysértés vagy a jogszabályi kötelezettségek elmulasztása miatt – jogerősen felmentette, ha igen, ezek számát, ügyszámát is közölni kell
 
@@ -32,7 +32,7 @@
 
 ## 8. Csatolni kell a pályázat benyújtását megelőző öt éves időszakban az éves árbevétel legalább 20%-át kitevő megrendelők (vásárlók) számára vonatkozó adatot, az említett üzleti partnerek hozzájárulása esetén továbbá az üzleti kapcsolataikat ismertető referencia adatokat is
 
-## 9. Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben olyan jogerős, elmarasztaló bírósági vagy hatósági döntés, amely a pályázó vagy jogelődje szakmai vagy gazdasági tevékenységével függött össze, ha igen, ezek száma, tárgya, ügyszáma
+## 9.[^87] Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben olyan jogerős vagy végleges, elmarasztaló bírósági vagy hatósági döntés, amely a pályázó vagy jogelődje szakmai vagy gazdasági tevékenységével függött össze, ha igen, ezek száma, tárgya, ügyszáma
 
 ## 10. Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben olyan hatósági döntés, amely a pályázó vagy jogelődje gazdasági tevékenysége végzéséhez szükséges engedélyt felfüggesztette vagy visszavonta, ha igen, a határozat(ok) száma, ügyszáma
 
@@ -46,13 +46,13 @@
 
 ## III. Az e melléklet I–II. pontjának hatálya alá nem tartozó pályázó esetében
 
-## 1.[^78]
+## 1.[^88]
 
 ## 2. Nyilatkozni kell arról, hogy szerepel-e a köztartozásmentes adózói adatbázisban
 
-## 3.[^79]
+## 3.[^89]
 
-## 4.[^80]
+## 4.[^90]
 
 ## 5. Nyilatkozni kell arról, hogy van-e ISO minősítése, és ennek érvényessége
 
@@ -66,7 +66,7 @@
 
 ## 10. Csatolni kell a pályázat benyújtását megelőző öt éves időszakban az éves árbevétel legalább 20%-át kitevő megrendelők (vásárlók) számára vonatkozó adatot, az említett üzleti partnerek hozzájárulása esetén továbbá az üzleti kapcsolataikat ismertető referencia adatokat is
 
-## 11. Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben olyan jogerős, elmarasztaló bírósági vagy hatósági döntés, amely a pályázó vagy jogelődje szakmai vagy gazdasági tevékenységével függött össze, ha igen, ezek száma, tárgya, ügyszáma
+## 11.[^91] Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben olyan jogerős vagy végleges, elmarasztaló bírósági vagy hatósági döntés, amely a pályázó vagy jogelődje szakmai vagy gazdasági tevékenységével függött össze, ha igen, ezek száma, tárgya, ügyszáma
 
 ## 12. Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben olyan hatósági döntés, amely a pályázó vagy jogelődje gazdasági tevékenysége végzéséhez szükséges engedélyt felfüggesztette vagy visszavonta, ha igen, a határozat(ok) száma, ügyszáma
 
@@ -74,15 +74,19 @@
 
 ## 14. Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben olyan jogerős bírósági ítélet, amely a pályázó vagy jogelődje kártérítési felelősségét állapította meg, ha igen, ezek száma, tárgya, ügyszáma
 
-## 15.[^81] Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben olyan jogerős bírósági ítélet, amely a pályázó vagy jogelődje vezető tisztségviselőjének, kizárólagos vagy többségi tulajdonos tagjának büntetőjogi felelősségét állapította meg olyan – gazdasági, vagyon elleni, közélet tisztasága elleni, igazságszolgáltatás elleni vagy közbizalom elleni – szándékos bűncselekmény miatt, amelyet a pályázó vagy jogelődje képviselőjeként, foglalkoztatottjaként vagy megbízottjaként követett el, és amely cselekmény miatt még nem mentesült a büntetett előélethez fűződő hátrányok alól. Az ilyen esetekben nyilatkozni kell a jogerős büntető ítéletek számáról, a bírósági ügyszámról, a bűncselekményekről, az elmarasztalt személyek azonosítását lehetővé tévő megjelöléséről.
+## 15.[^92] Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben olyan jogerős bírósági ítélet, amely a pályázó vagy jogelődje vezető tisztségviselőjének, kizárólagos vagy többségi tulajdonos tagjának büntetőjogi felelősségét állapította meg olyan – gazdasági, vagyon elleni, közélet tisztasága elleni, igazságszolgáltatás elleni vagy közbizalom elleni – szándékos bűncselekmény miatt, amelyet a pályázó vagy jogelődje képviselőjeként, foglalkoztatottjaként vagy megbízottjaként követett el, és amely cselekmény miatt még nem mentesült a büntetett előélethez fűződő hátrányok alól. Az ilyen esetekben nyilatkozni kell a jogerős büntető ítéletek számáról, a bírósági ügyszámról, a bűncselekményekről, az elmarasztalt személyek azonosítását lehetővé tévő megjelöléséről.
 
-## 16.[^82] Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben a pályázó szervezettel vagy jogelődjével szemben a szakmai testületben olyan lezárt etikai eljárás, amely elmarasztalást tartalmazott, ha igen, ezek száma, tárgya, ügyszáma.
+## 16.[^93] Nyilatkozni kell arról, hogy volt-e a pályázat benyújtását megelőző öt évben a pályázó szervezettel vagy jogelődjével szemben a szakmai testületben olyan lezárt etikai eljárás, amely elmarasztalást tartalmazott, ha igen, ezek száma, tárgya, ügyszáma.
 
-4. számú melléklet a 114/2006. (V. 12.) Korm. rendelethez[^83]
+4. számú melléklet a 114/2006. (V. 12.) Korm. rendelethez[^94]
 
-[^78]: A 3. melléklet III. pont 1. alpontját a 113/2013. (IV. 12.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
-[^79]: A 3. melléklet III. pont 3. alpontját a 113/2013. (IV. 12.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
-[^80]: A 3. melléklet III. pont 4. alpontját a 113/2013. (IV. 12.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
-[^81]: A 3. melléklet III. pont 15. alpontja a 113/2013. (IV. 12.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^82]: A 3. melléklet III. pont 16. alpontja a 113/2013. (IV. 12.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
-[^83]: A 4. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^85]: A 3. melléklet I. 3. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^86]: A 3. melléklet II. 3. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^87]: A 3. melléklet II. 9. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^88]: A 3. melléklet III. pont 1. alpontját a 113/2013. (IV. 12.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^89]: A 3. melléklet III. pont 3. alpontját a 113/2013. (IV. 12.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^90]: A 3. melléklet III. pont 4. alpontját a 113/2013. (IV. 12.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^91]: A 3. melléklet III. 11. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^92]: A 3. melléklet III. pont 15. alpontja a 113/2013. (IV. 12.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^93]: A 3. melléklet III. pont 16. alpontja a 113/2013. (IV. 12.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
+[^94]: A 4. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.

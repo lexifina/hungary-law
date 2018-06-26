@@ -1,6 +1,6 @@
-6. § (1)[^59]
+6. § (1)[^61]
 
-(2)[^60] A felszámolók névjegyzékében, illetve a 6/B. § szerinti hatósági nyilvántartásban szereplő adatokról az illetékekről szóló törvény általános tételű eljárási illeték illetékbélyegben történő lerovása ellenében hatósági bizonyítvány kiállítása kérhető.
+(2)[^62] A felszámolók névjegyzékében, illetve a 6/B. § szerinti hatósági nyilvántartásban szereplő adatokról hatósági bizonyítvány kiállítása kérhető.
 
-[^59]: A 6. § (1) bekezdését a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
-[^60]: A 6. § (2) bekezdése a 68/2014. (III. 13.) Korm. rendelet 4. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^61]: A 6. § (1) bekezdését a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^62]: A 6. § (2) bekezdése a 108/2018. (VI. 25.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

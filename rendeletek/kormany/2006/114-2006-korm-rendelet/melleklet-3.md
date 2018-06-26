@@ -48,7 +48,7 @@
 
 ## 5. Volt-e a tárgybeli időszakban olyan jogerős bírósági döntés, amely jogerősen megállapította a felszámoló szervezet jogszabálysértő tevékenységét vagy mulasztását, ha igen, ezek száma, ügyszáma, a bírósági határozat szerint megszegett jogszabályhely(ek) felsorolásával.
 
-## 6. Volt-e a tárgybeli időszakban – az 5. pontban foglaltakon kívül – olyan jogerős, elmarasztaló bírósági vagy hatósági döntés, amely a felszámoló szervezet szakmai vagy gazdasági tevékenységével függött össze, ha igen, ezek száma, tárgya, ügyszáma.
+## 6.[^80] Volt-e a tárgybeli időszakban – az 5. pontban foglaltakon kívül – olyan jogerős vagy végleges, elmarasztaló bírósági vagy hatósági döntés, amely a felszámoló szervezet szakmai vagy gazdasági tevékenységével függött össze, ha igen, ezek száma, tárgya, ügyszáma.
 
 ## 7. A hitelezői igények befogadásával, besorolásával vagy más jogi kérdésekkel összefüggésben a felszámoló intézkedését megváltoztató bírósági döntések száma, ügyszáma.
 
@@ -82,11 +82,11 @@
 
 ## 22. A tárgybeli időszakban jogerősen megszüntetett csődeljárások esetén a csődegyezség elmaradása okainak felsorolása (összesített adatok).
 
-## 23. A tárgybeli időszakban volt-e a felszámoló szervezetnél jogerősen lezárt adóhatósági vagy más hatósági, törvényességi felügyeleti eljárás, ha igen, ezek megállapítottak-e jogszabálysértést, ezek száma, és az ügyek jellege.
+## 23.[^81] A tárgybeli időszakban volt-e a felszámoló szervezetnél jogerősen vagy véglegesen lezárt adóhatósági vagy más hatósági, törvényességi felügyeleti eljárás, ha igen, ezek megállapítottak-e jogszabálysértést, ezek száma, és az ügyek jellege.
 
-## 24. A tárgybeli időszakban az állami adóhatóság jogerős határozattal megállapította-e a foglalkoztatási jogviszony létesítésével összefüggő bejelentési kötelezettség elmulasztását (fel kell tüntetni a jogerős határozat számát és a határozatban kiszabott mulasztási bírság összegét, illetve egyéb adóhatósági intézkedés tényét).
+## 24.[^82] A tárgybeli időszakban az állami adóhatóság végleges határozattal megállapította-e a foglalkoztatási jogviszony létesítésével összefüggő bejelentési kötelezettség elmulasztását (fel kell tüntetni a jogerős határozat számát és a határozatban kiszabott mulasztási bírság összegét, illetve egyéb adóhatósági intézkedés tényét).
 
-## 25. Volt-e a tárgybeli időszakban olyan jogsértés, ami miatt munkaügyi hatóság jogerős határozattal pénzbírsággal sújtotta, vagy a Nemzeti Foglalkoztatási Alapba történő befizetésre kötelezte (fel kell tüntetni a jogerős határozat számát is).
+## 25.[^83] Volt-e a tárgybeli időszakban olyan jogsértés, ami miatt munkaügyi hatóság végleges határozattal pénzbírsággal sújtotta, vagy a Nemzeti Foglalkoztatási Alapba történő befizetésre kötelezte (fel kell tüntetni a végleges határozat számát is).
 
 ## 26. A tárgybeli időszakban folyamatban lévő csődeljárásokban, felszámolási eljárásokban, kényszervégelszámolási eljárásokban a felszámoló szervezet által a fedezetelvonó ügyletek megtámadása érdekében, csődbűncselekmény vagy más, a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény gyanúja miatt, illetőleg az adós volt vezetői, tulajdonosai ellen indított vagy kezdeményezett eljárások (eljárás típusonként csoportosítva).
 
@@ -124,6 +124,10 @@
 
 ## 6. Van-e ISO minősítése, és ennek érvényessége.
 
-3. melléklet a 114/2006. (V. 12.) Korm. rendelethez[^77]
+3. melléklet a 114/2006. (V. 12.) Korm. rendelethez[^84]
 
-[^77]: A 3. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte. A 3. számú melléklet korábbi megjelölését 3. mellékletre változtatta, és újonnan a 169/2012. (VII. 20.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^80]: A 2. melléklet II. 6. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^81]: A 2. melléklet II. 23. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^82]: A 2. melléklet II. 24. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^83]: A 2. melléklet II. 25. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^84]: A 3. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte. A 3. számú melléklet korábbi megjelölését 3. mellékletre változtatta, és újonnan a 169/2012. (VII. 20.) Korm. rendelet 9. § (3) bekezdése iktatta be.

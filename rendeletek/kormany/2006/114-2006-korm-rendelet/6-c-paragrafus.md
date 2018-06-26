@@ -1,4 +1,4 @@
-6/C. §[^63] (1) A felszámolóbiztosi kijelölés feltételeként a Cstv. 27/A. § (3) bekezdésében előírt legalább egy év időtartamú szakmai gyakorlati idő elismeréséhez annak igazolása szükséges, hogy a felszámolóbiztos – akár a felszámolási és vagyonfelügyeleti szakirányú szakképzettség megszerzését megelőzően – egyidejűleg legfeljebb három felszámoló szervezetnél közreműködött a felszámolási tevékenységben:
+6/C. §[^65] (1) A felszámolóbiztosi kijelölés feltételeként a Cstv. 27/A. § (3) bekezdésében előírt legalább egy év időtartamú szakmai gyakorlati idő elismeréséhez annak igazolása szükséges, hogy a felszámolóbiztos – akár a felszámolási és vagyonfelügyeleti szakirányú szakképzettség megszerzését megelőzően – egyidejűleg legfeljebb három felszámoló szervezetnél közreműködött a felszámolási tevékenységben:
 
 a) jogi szakvizsgához kötött jogász, vagy közgazdász, vagy könyvvizsgáló munkakörben,
 
@@ -10,4 +10,4 @@ b) más, a vállalkozások reorganizációjának elősegítéséhez, a csődelj�
 
 (3) A szakmai gyakorlat időtartamába csak a legalább heti 15 óra időtartamot elérő – munkaviszonyban, személyes közreműködési kötelezettséggel járó tagsági jogviszonyban, illetve a társasággal kötött tartós polgári jogi szerződés alapján fennálló jogviszonyban történő – foglalkoztatás számítható be.
 
-[^63]: A 6/C. §-t a 343/2015. (XI. 13.) Korm. rendelet 11. §-a iktatta be.
+[^65]: A 6/C. §-t a 343/2015. (XI. 13.) Korm. rendelet 11. §-a iktatta be.
