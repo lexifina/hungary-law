@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-160-20-
 | 2014-09-05 | 1996-160-20-22.30 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-01 | 1996-160-20-22.31 | 83/2015. (III. 31.) Korm. rendelet |
 | 2017-07-01 | 1996-160-20-22.32 | 165/2017. (VI. 28.) Korm. rendelet |
+| 2018-06-26 | 1996-160-20-22.33 | 108/2018. (VI. 25.) Korm. rendelet |

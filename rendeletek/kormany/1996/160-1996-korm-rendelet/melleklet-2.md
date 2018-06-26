@@ -32,15 +32,17 @@
 
 ## i) az Emberi Erőforrások Minisztériumának a miniszter elhelyezését biztosító épülete,
 
-## j) a Földművelésügyi Minisztériumnak a miniszter elhelyezését biztosító épülete,
+## j) az Agrárminisztériumnak a miniszter elhelyezését biztosító épülete,
 
 ## k) az Igazságügyi Minisztériumnak a miniszter elhelyezését biztosító épülete,
 
 ## l) a Külgazdasági és Külügyminisztériumnak a miniszter elhelyezését biztosító épülete,
 
-## m) a Nemzeti Fejlesztési Minisztériumnak a miniszter elhelyezését biztosító épülete,
+## m) az Innovációs és Technológiai Minisztériumnak a miniszter elhelyezését biztosító épülete,
 
-## n) az Információs Hivatal központi objektuma.
+## n) a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter elhelyezését biztosító épület,
+
+## o) az Információs Hivatal központi objektuma.
 
 2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^99]
 
@@ -180,5 +182,5 @@
 [^95]: Az 1. melléklet 1. pont 2. alpontját a 102/2012. (V. 18.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
 [^96]: Az 1. melléklet 1. pont 5. alpontja a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^97]: Az 1. melléklet 1. pont 6. alpontját a 376/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
-[^98]: Az 1. melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 169. §-ával megállapított szöveg.
+[^98]: Az 1. melléklet 2. pontja a 108/2018. (VI. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^99]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
