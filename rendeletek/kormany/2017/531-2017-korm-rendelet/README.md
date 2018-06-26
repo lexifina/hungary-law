@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-531-20-
 | 2018-01-01 | 2017-531-20-22.1 | 531/2017. (XII. 29.) Korm. rendelet |
 | 2018-03-14 | 2017-531-20-22.2 | 42/2018. (III. 13.) Korm. rendelet |
 | 2018-06-19 | 2017-531-20-22.3 | 103/2018. (VI. 11.) Korm. rendelet |
+| 2018-06-26 | 2017-531-20-22.4 | 103/2018. (VI. 11.) Korm. rendelet |

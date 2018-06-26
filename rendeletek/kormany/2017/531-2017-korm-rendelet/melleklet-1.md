@@ -1264,4 +1264,8 @@
 
 | 69. | Igazságügyi szakértői névjegyzékbe történő felvételi eljárás. | A kérelmező szakmai és gyakorlati felkészültségének vizsgálata. | Ha az igazságügyi szakértői névjegyzékbe történő felvételi kérelme a bányászat és a szénhidrogén-termelés, kutatási, szállítási szakterületre irányul. | Bányafelügyeleti hatáskörében eljáró megyei kormányhivatal | - | - |
 
-[^1]: Az 1. melléklet a 103/2018. (VI. 11.) Korm. rendelet 27. §-a szerint módosított szöveg.
+| 70. | a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 27/C. § (4) bekezdése, 27/A. § (6a) bekezdése, valamint a 66. § (6) bekezdése szerinti hatósági nyilvántartásba vétellel és a hatósági nyilvántartás vezetésével kapcsolatos eljárások | a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 27/C. § (1) bekezdése szerinti szakirányú szakképzettség és a 83/B. § szerinti felsőfokú végzettség és más, felsőoktatásban szerzett szakképesítés vagy szakképzés tartalma, külföldi végzettségi szint, szakképesítés és szakképzés tartalma | Amennyiben a kérelem elbírálásához a felszámolási és vagyonfelügyeleti szakirányú szakképzettség, más felsőfokú végzettség vagy egyéb szakképzettség tartalmának meghatározása szükséges. | Oktatási Hivatal | – | – |
+
+| 71. | a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 27/C. § (4) bekezdése, 27/A. § (6a) bekezdése, valamint a 66. § (6) bekezdése szerinti hatósági nyilvántartásba vétellel és a hatósági nyilvántartás vezetésével kapcsolatos eljárások | egyéb, a 70. pontba nem tartozó szakképzés tartalma | Amennyiben a kérelem elbírálásához a 70. pontba nem tartozó, egyéb szakképzettség tartalmának meghatározása szükséges. | Nemzeti Szakképzési és Felnőttképzési Hivatal | – | – |
+
+[^1]: Az 1. melléklet a 103/2018. (VI. 11.) Korm. rendelet 27. §-a, a 108/2018. (VI. 25.) Korm. rendelet 7. §-a szerint módosított szöveg.
