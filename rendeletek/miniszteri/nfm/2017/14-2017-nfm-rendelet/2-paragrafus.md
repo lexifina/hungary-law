@@ -1,1 +1,0 @@
-## 1. § Az NGM Beruházásszervező Nonprofit Korlátolt Felelősségű Társaság felett az államot megillető tulajdonosi jogok és kötelezettségek összessége gyakorlójának 2020. december 31-ig a Nemzetgazdasági Minisztériumot jelölöm ki.
