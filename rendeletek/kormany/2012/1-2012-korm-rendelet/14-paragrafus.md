@@ -34,7 +34,7 @@ b)[^24] kötött felhasználású hitel igénybevétele esetén a teljes hitelta
 
 (11)[^30] A Diákhitel szervezet által a hitelfelvevő részére a (10) bekezdés szerint engedélyezett mérsékelt összegű törlesztő részlet összege nem lehet kevesebb a (4)–(5) bekezdés és a 33. § figyelembevételével meghatározott minimális törlesztő részlet összegénél.
 
-[^23]: A 14. § (1) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 49. §-ával megállapított, a 290/2017. (IX. 28.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^23]: A 14. § (1) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 49. §-ával megállapított, a 290/2017. (IX. 28.) Korm. rendelet 8. § a ) pontja szerint módosított szöveg.
 [^24]: A 14. § (5) bekezdés b) pontja a 224/2012. (VIII. 15.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 290/2017. (IX. 28.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^25]: A 14. § (5a) bekezdését a 224/2012. (VIII. 15.) Korm. rendelet 6. § (2) bekezdése iktatta be.
 [^26]: A 14. § (7) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 50. § 2. pontja szerint módosított szöveg.
