@@ -6,15 +6,15 @@
 
 ## A JELÖLÉS ÁLTALÁNOS SZABÁLYAI
 
-## A palackozott borászati termékek címkézése[^187]
+## A palackozott borászati termékek címkézése[^188]
 
 ## 48. § A 607/2009/EK bizottsági rendelet szerinti címkézési kötelezettség nem vonatkozik:
 
 a) olyan késztermékre, amelyet ugyanazon vállalkozás különböző telephelyei között, legfeljebb 70 km-es körzetben szállítanak,
 
-b)[^188] a nem eladásra szánt, tételenként 90 litert meg nem haladó szőlőmust- és bormennyiségre,
+b)[^189] a nem eladásra szánt, tételenként 90 litert meg nem haladó szőlőmust- és bormennyiségre,
 
 c) a termelő saját fogyasztására szánt szőlőmust- és bormennyiségre.
 
-[^187]: A 48. §-t megelőző alcím a 128/2012. (XII. 14.) VM rendelet 30. § (14) bekezdése szerint módosított szöveg.
-[^188]: A 48. § b) pontja a 128/2012. (XII. 14.) VM rendelet 21. §-ával megállapított szöveg.
+[^188]: A 48. §-t megelőző alcím a 128/2012. (XII. 14.) VM rendelet 30. § (14) bekezdése szerint módosított szöveg.
+[^189]: A 48. § b) pontja a 128/2012. (XII. 14.) VM rendelet 21. §-ával megállapított szöveg.

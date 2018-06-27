@@ -6,16 +6,17 @@
 
 (3) A HBB titkára az érzékszervi bírálat eredményét a származási bizonyítványra záradékként rájegyzi.
 
-(4) A HBB érzékszervi bírálatán „nem felelt meg” minősítést kapott tétel forgalomba hozója kérelmezheti, hogy a borászati termék érzékszervi vizsgálatát a 36. §-ban meghatározott bizottság végezze el.
+(4)[^136] A HBB érzékszervi bírálatán „nem felelt meg” minősítést kapott tétel forgalomba hozója kérelmezheti, hogy a borászati termék érzékszervi vizsgálatát a 36. §-ban meghatározott bizottság végezze el. A bírálat eredményéről a NÉBIH értesíti a HBB titkárát.
 
-(5)[^136] A NÉBIH a hozzá a (2) bekezdés alapján megküldött határozatok alapján kiválasztja azokat a tételeket, melyeket a 36. §-ban meghatározott bizottság elé terjeszt érzékszervi vizsgálatra. E vizsgálat kizárólag a tétel forgalomba hozhatóságára terjed ki.
+(5)[^137] A NÉBIH a hozzá a (2) bekezdés alapján megküldött határozatok alapján kiválasztja azokat a tételeket, melyeket a 36. §-ban meghatározott bizottság elé terjeszt érzékszervi vizsgálatra. E vizsgálat kizárólag a tétel forgalomba hozhatóságára terjed ki.
 
-(6)[^137] Ugyanazon tétel bírálatát legfeljebb két alkalommal lehet kérelmezni a HBB-nél.
+(6)[^138] Ugyanazon tétel bírálatát legfeljebb két alkalommal lehet kérelmezni a HBB-nél.
 
-(7)[^138] A HBB által elutasított tételek tekintetében a borászati termék származási bizonyítványt be kell vonni, és új bor származási bizonyítványt kell kiadni.
+(7)[^139] A HBB által elutasított tételek tekintetében a borászati termék származási bizonyítványt be kell vonni, és új bor származási bizonyítványt kell kiadni.
 
 [^134]: A 34. § (1) bekezdése a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^135]: A 34. § (2) bekezdése a 128/2012. (XII. 14.) VM rendelet 16. § (1) bekezdésével megállapított, a 20/2014. (X. 31.) FM rendelet 32. § i) pontja szerint módosított szöveg.
-[^136]: A 34. § (5) bekezdése a 128/2012. (XII. 14.) VM rendelet 16. § (2) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 132. § d) pontja szerint módosított szöveg.
-[^137]: A 34. § (6) bekezdését a 128/2012. (XII. 14.) VM rendelet 16. § (3) bekezdése iktatta be.
-[^138]: A 34. § (7) bekezdését a 20/2014. (X. 31.) FM rendelet 22. §-a iktatta be, szövege a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^136]: A 34. § (4) bekezdése a 7/2018. (VI. 26.) AM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^137]: A 34. § (5) bekezdése a 128/2012. (XII. 14.) VM rendelet 16. § (2) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 132. § d) pontja szerint módosított szöveg.
+[^138]: A 34. § (6) bekezdését a 128/2012. (XII. 14.) VM rendelet 16. § (3) bekezdése iktatta be.
+[^139]: A 34. § (7) bekezdését a 20/2014. (X. 31.) FM rendelet 22. §-a iktatta be, szövege a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja szerint módosított szöveg.

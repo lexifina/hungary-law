@@ -4,7 +4,7 @@
 
 ## A SZŐLŐ ÉS A BORÁSZATI TERMÉK SZÁRMAZÁSI BIZONYÍTVÁNYOK KIADÁSÁNAK RENDJE[^54]
 
-13. § (1)[^55] A HEGYIR-ben nyilvántartott ültetvényhasználó november 30-ig, de legkésőbb a szüret befejezését követő 8 napon belül a 8. számú melléklet szerinti adatok megadásával igényelheti a szőlő származási bizonyítványt a HNT által rendszeresített és a HNT honlapján közzétett nyomtatványon, vagy elektronikus úton a HNT honlapján közzétett módon. A szüret évét követő év április 15. napját követően szőlő származási bizonyítvány nem igényelhető.
+13. § (1)[^55] A HEGYIR-ben nyilvántartott ültetvényhasználó november 30-ig, de legkésőbb a szüret befejezését követő 8 napon belül a 8. számú melléklet szerinti adatok megadásával igényelheti a szőlő származási bizonyítványt a HNT által rendszeresített és a HNT honlapján közzétett nyomtatványon, vagy elektronikus úton a HNT honlapján közzétett módon. A határidő elmulasztását követően szőlő származási bizonyítvány a Hktv. 41. §-ában foglaltak figyelembevételével kérelmezhető legkésőbb a szüret évét követő év április 15. napjáig.
 
 (2)[^56] A szőlő származási bizonyítvány iránti kérelemhez mellékelni kell a mérlegjegyet, a felvásárlási jegyet vagy átvételi elismervényt vagy ezek másolatát, vagy a kérelem aláírásával nyilatkozni kell a saját feldolgozásról.
 
@@ -12,7 +12,7 @@
 
 (4)[^58] A Jöt. 133. § (1) bekezdés a)–c) pontjai szerinti adómentes bor (a továbbiakban: adómentes bor) előállításához szükséges szőlő származási bizonyítvány papír alapon történő kiadása esetén annak csak a második példányát kell kiadni, az első példány a hegybírónál marad. A második példány a vonatkozó adómentességi feltételek teljesülésének és az adómentes bor előállítására felhasznált szőlő igazolására szolgál.
 
-(5)[^59] Szőlő származási bizonyítvány elvesztését vagy megsemmisülését az azt kiállító hegybíró részére kell bejelenteni, aki ennek tényéről jegyzőkönyvet vesz fel. A bejelentés alapján a hegybíró a HEGYIR-ben rögzített adatok alapján a szőlő származási bizonyítvány másodpéldányát adja ki. A szőlő származási bizonyítvány másodpéldányának megjegyzés rovatában kötelező feltüntetni a másodpéldány kiállításának az okát. A másodpéldány kiadásáról a hegybíró jegyzőkönyvet vesz fel.
+(5)[^59] A szőlő származási bizonyítvány elvesztését vagy megsemmisülését az azt kiállító hegybíró részére kell bejelenteni, aki ennek tényéről jegyzőkönyvet vesz fel. A bejelentés alapján a hegybíró a HEGYIR-ben rögzített adatok alapján a szőlő származási bizonyítvány másodpéldányát adja ki. A másodpéldány kiadásáról a hegybíró jegyzőkönyvet vesz fel.
 
 (6) A szőlő származási bizonyítvány hiteles másolatát az eredeti származási bizonyítvány kérelmezője kérheti.
 
@@ -20,9 +20,9 @@
 
 [^53]: A 12. § a 20/2014. (X. 31.) FM rendelet 7. §-ával megállapított szöveg.
 [^54]: Az Első Rész III. fejezet címe a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^55]: A 13. § (1) bekezdése az 59/2017. (XII. 18.) FM rendelet 5. §-ával megállapított szöveg.
+[^55]: A 13. § (1) bekezdése a 7/2018. (VI. 26.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^56]: A 13. § (2) bekezdése a 21/2016. (III. 31.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^57]: A 13. § (3) bekezdése a 21/2016. (III. 31.) FM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^58]: A 13. § (4) bekezdése a 21/2016. (III. 31.) FM rendelet 1. § (3) bekezdésével megállapított, az 59/2017. (XII. 18.) FM rendelet 13. § f) pontja szerint módosított szöveg.
-[^59]: A 13. § (5) bekezdése a 20/2014. (X. 31.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^59]: A 13. § (5) bekezdése a 7/2018. (VI. 26.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^60]: A 13. § (7) bekezdését a 128/2012. (XII. 14.) VM rendelet 4. § (4) bekezdése iktatta be, szövege a 21/2016. (III. 31.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.

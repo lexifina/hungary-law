@@ -96,6 +96,6 @@
 
 ## 7. Borász-italtechnológus szakmérnök
 
-13. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^245]
+13. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^248]
 
-[^245]: A 13. számú melléklet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése, a 60/2015. (X. 8.) FM rendelet 10. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^248]: A 13. számú melléklet a 134/2009. (X. 14.) FVM rendelet 18. § (2) bekezdése, a 60/2015. (X. 8.) FM rendelet 10. § (4) bekezdés c) pontja szerint módosított szöveg.
