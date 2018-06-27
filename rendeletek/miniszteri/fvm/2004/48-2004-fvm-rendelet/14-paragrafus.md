@@ -2,29 +2,23 @@
 
 14. § (1)[^47] A vetőmag-előállítónak a vetőmag-szaporítást vetőmag-minősítés céljából
 
-a) őszi vetésű növények esetében a hibrid repce és az őszi vetésű évelő növények kivételével december 15-ig,
+a) az őszi vetésű növények és őszi telepítésű évelő növények esetében a vetést, telepítést követő év február 28-ig,
 
-b) a dugványozással, palántázással szaporított növények és a rizs esetében június 1-jéig,
+b) a szareptai mustár, a fehér mustár, a fekete mustár, a borsó, a tavaszi káposztarepce, a tavaszi réparepce, a tavaszi vetésű gabonafélék, az olajretek, a mézontófű, valamint a fűfélék esetében április 30-ig,
 
-c) a szareptai mustár, fehér mustár, fekete mustár, borsó, tavaszi káposztarepce, tavaszi réparepce, olajretek és mézontófű esetében április 15-ig,
+c) a dugványozással vagy palántázással szaporított növények, a tavaszi telepítésű évelő növények, a b) ponton kívüli egyéb tavaszi vetésű növények és a rizs esetében június 10-ig,
 
-d) az egyéb tavaszi vetésű növények esetében május 20-ig,
+d) a másodvetésű vetőmagok előállítása esetében július 30-ig
 
-e) az évelő növények esetében a fűfélék kivételével első ízben a tavaszi telepítés takarmánytermő évében, a továbbiakban minden évben május 20-ig, függetlenül a hasznosítási céltól,
+## be kell jelentenie szuperelit szaporítási fok esetében a NÉBIH-nek, egyéb esetben a járási hivatalnak az általuk rendszeresített és honlapjukon közzétett nyomtatványon.
 
-f) a hibrid repce és az őszi vetésű évelő növények esetében október 31-ig,
+(2)[^48]
 
-g) a fűfélék és őszi telepítésű évelő herefélék esetében minden évben április 15-ig
-
-## írásban be kell jelentenie szuperelit szaporítási fok esetén a NÉBIH-nek, egyéb esetben a járási hivatalnak.
-
-(2)[^48] Pótbejelentésre őszi vetésű növényeknél április 1-jéig, egyéb növényeknél az (1) bekezdés szerinti bejelentési határidőt követő 30 napig van lehetőség. A bejelentést módosítani, illetve visszavonni az első szántóföldi ellenőrzés várható időpontjáig lehet.
-
-(3)[^49] A NÉBIH, illetve a járási hivatal a bejelentést követő 30 napon belül, illetve a pótbejelentést követő 15 napon belül értesíti a vetőmag-előállítót, ha valamilyen okból a vetésbejelentést nem fogadja el.
+(3)[^49] A NÉBIH, illetve a járási hivatal a bejelentést követő 30 napon belül értesíti a vetőmag-előállítót, ha valamilyen okból a vetésbejelentést nem fogadja el.
 
 (4)[^50] A vetőmag-előállító a bejelentett adatokban történt bármely változásról köteles nyolc napon belül írásban tájékoztatni a NÉBIH-et, illetve a járási hivatalt.
 
-[^47]: A 14. § (1) bekezdése a 24/2016. (IV. 8.) FM rendelet 13. §-ával megállapított, záró szövegrésze a 42/2017. (VIII. 17.) FM rendelet 61. § c) pontja szerint módosított szöveg.
-[^48]: A 14. § (2) bekezdése a 16/2011. (III. 2.) VM rendelet 8. § (4) bekezdésével megállapított szöveg.
-[^49]: A 14. § (3) bekezdése a 183/2009. (XII. 30.) FVM rendelet 3. § (1) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (4) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 61. § d) pontja szerint módosított szöveg.
+[^47]: A 14. § (1) bekezdése a 4/2018. (VI. 22.) AM rendelet 1. §-ával megállapított szöveg.
+[^48]: A 14. § (2) bekezdését a 4/2018. (VI. 22.) AM rendelet 5. § a) pontja hatályon kívül helyezte.
+[^49]: A 14. § (3) bekezdése a 183/2009. (XII. 30.) FVM rendelet 3. § (1) bekezdésével megállapított, az 1/2011. (I. 11.) VM rendelet 1. § (4) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 61. § d) pontja, a 4/2018. (VI. 22.) AM rendelet 5. § b) pontja szerint módosított szöveg.
 [^50]: A 14. § (4) bekezdése a 24/2016. (IV. 8.) FM rendelet 24. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 61. § e) pontja szerint módosított szöveg.
