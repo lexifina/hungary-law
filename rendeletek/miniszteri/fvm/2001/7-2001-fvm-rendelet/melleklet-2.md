@@ -432,6 +432,8 @@
 
 |  | syn.: Apricot chlorotic leafroll phytoplasma |
 
+| 2.1. | Candidatus Phytoplasma ulmi |
+
 | 3. | Pear decline mycoplasma |
 
 |  | syn.: Pear decline phytoplasma |
