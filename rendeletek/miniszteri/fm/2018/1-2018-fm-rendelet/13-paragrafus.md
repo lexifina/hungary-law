@@ -1,5 +1,3 @@
-## 12. § A benyújtott egyéni terveket a Kincstár a 3. mellékletben meghatározott szempontok szerint összefüggő területenként pontozza, majd az összesített pontszám alapján rangsorolja az egyéni tervet. A rangsor kialakítása során az összefüggő területenként a 3. melléklet alapján meghatározott pontszámokat az összefüggő területenként megjelölt területnagyságokkal súlyozva átlagolni kell egy egyéni tervre vonatkozóan.
-
 ## 6. A szerkezetátalakítási terv
 
 13. § (1) A 7. § (1) bekezdés a) pontja alapján benyújtott egyéni terv esetében szerkezetátalakítási tervnek a szőlőültetvények szerkezetátalakításához és -átállításához a 2012/2013 borpiaci évtől igényelhető támogatás feltételeiről szóló 142/2012. (XII. 27.) VM rendelet 6. § (4) bekezdése alapján jóváhagyott és közzétett borvidéki tervet kell tekinteni.

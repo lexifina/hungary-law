@@ -128,11 +128,11 @@
 
 | 3. | Az ültetvény kora legalább 15 év | 5 | 5 |
 
-| 4. | A termés minősége (az ültetvényről az egyéni terv benyújtását megelőzően leadott utolsó négy, nem nullás szüreti jelentésben foglalt adatok alapján a szüretelt szőlő cukortartalma és hozama egy évben sem) | 15 |  |
+| 4. | A termés minősége (az ültetvényről az egyéni terv benyújtását megelőzően leadott utolsó négy, nem nullás szüreti jelentésben foglalt adatok alapján a szüretelt szőlő cukortartalma és hozama mindegyik évben) | 15 |  |
 
-| 5. | a) legalább 20° MM cukortartalom, legfeljebb 6000 kg/ha |  | 15 |
+| 5. | a) legalább 20 MM cukortartalom, legfeljebb 6000 kg/ha |  | 15 |
 
-| 6. | b) legalább 18° MM cukortartalom, legfeljebb 8000 kg/ha |  | 14 |
+| 6. | b) legalább 18 MM cukortartalom, legfeljebb 8000 kg/ha |  | 14 |
 
 | 7. | B. A kérelmező háttere |
 

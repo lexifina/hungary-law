@@ -6,7 +6,7 @@ b) a 2. § a)–c) pontjai szerinti intézkedések esetén a 2018/2019 borpiaci 
 
 ## lehet.
 
-(2) Egyéni tervet nyújthat be az a természetes személy vagy gazdálkodó szervezet, aki vagy amely az egyéni tervben megjelölt terület használója.
+(2)[^1] Egyéni tervet nyújthat be az a természetes személy vagy gazdálkodó szervezet, aki vagy amely az egyéni tervben megjelölt terület használója vagy családi gazdaság tagja, és a terület a családi gazdaság valamely tagjának használatában van.
 
 (3) Az egyéni tervet a Kincstár által rendszeresített és honlapján közzétett, az adott borpiaci évre vonatkozó közlemény szerinti nyomtatványon kell benyújtani a Kincstár részére. Egy benyújtási időszakban egy kérelmező kizárólag egy egyéni tervet nyújthat be.
 
@@ -38,9 +38,9 @@ c) az újratelepítési engedély vagy az átváltott telepítési engedély má
 
 d) a hegybíró igazolását a tevékenységgel érintett terület termőhelyi kataszteri osztályáról és pontértékéről, ha az újratelepítési engedély vagy az átváltott telepítési engedély nem tartalmazza a tevékenységgel érintett terület termőhelyi kataszteri osztályát és pontértékét;
 
-e) a hegybíró igazolását a 3. melléklet A rész A oszlop 15. és 20. soraiban , a 3. melléklet B rész A oszlop 14. és 19. soraiban, valamint a 3. melléklet C rész A oszlop 3. sorában, A oszlop 4. sorában, A oszlop 10. és 15. soraiban foglaltak teljesüléséről (ha az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja);
+e)[^2] a hegybíró igazolását a 3. melléklet A rész A oszlop 15. és 20. soraiban, valamint a 3. melléklet C rész A oszlop 3. sorában, A oszlop 4. sorában foglaltak teljesüléséről (ha az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja);
 
-f) a 3. melléklet A rész A oszlop 13. sorában, a 3. melléklet B rész, A oszlop 12. sorában, valamint a 3. melléklet C rész A oszlop 8. sorában foglaltaknak való megfelelést hitelt érdemlően igazoló iratok másolatát (ha az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja);
+f)[^3] a 3. melléklet A rész A oszlop 13. sorában, a 3. melléklet B rész A oszlop 11. sorában, valamint a 3. melléklet C rész A oszlop 8. sorában foglaltaknak való megfelelést igazoló iratok másolatát (ha az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja);
 
 g) a 3. melléklet A rész A oszlop 11. sorában, a 3. melléklet B rész A oszlop 9. sorában foglaltaknak való megfelelést bor előállítására vonatkozó érvényes borászati üzem működési engedély másolatával, valamint kapcsolt vállalkozás esetén arra vonatkozó irat másolatával, hogy a bor előállítására vonatkozó érvényes borászati üzem működési engedéllyel rendelkező kapcsolt vállalkozás a kérelmező kapcsolt vállalkozása (ha az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja);
 
@@ -51,3 +51,7 @@ i) a szőlőültetvény termesztéstechnológiai módszereinek javítása eseté
 j) a szőlőültetvény termesztéstechnológiai módszereinek javítása esetén a meglévő támberendezésről készített vázrajzot.
 
 (6) A szőlőültetvény termesztéstechnológiai módszereinek javítása esetén a meglévő támberendezésről készített vázrajzban fel kell tüntetni az oszlopok és karók méretét, egymástól mért távolságát, a huzalok átmérőjét és talajtól mért távolságukat, valamint a végoszlop rögzítésmódját.
+
+[^1]: A 7. § (2) bekezdése a 7/2018. (VI. 26.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^2]: A 7. § (5) bekezdés e) pontja a 7/2018. (VI. 26.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^3]: A 7. § (5) bekezdés f) pontja a 7/2018. (VI. 26.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.

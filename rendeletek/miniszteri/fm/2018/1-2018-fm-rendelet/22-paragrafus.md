@@ -4,7 +4,7 @@
 
 22. § (1) A támogatással érintett ültetvényt a támogatás kifizetésétől számított 10. borpiaci év végéig művelési kötelezettség terheli.
 
-(2) A támogatást igénylő nyilatkozatban vállalja, hogy az (1) bekezdés alapján meghatározott időpontig az ültetvényt rendeltetésszerűen műveli. A művelési kötelezettség ideje alatt az ültetvény beállottságának az első öt borpiaci évben el kell érnie a 90%-ot, az ezt követő öt borpiaci éves időszakban a 85%-ot, valamint a támberendezés tekintetében meg kell felelnie az 1. § (1) bekezdés o) pontja szerinti követelménynek. Ha ennek nem tesz eleget, úgy az a támogatás jogosulatlan igénybevételének minősül.
+(2)[^11] A támogatást igénylő nyilatkozatban vállalja, hogy az (1) bekezdés alapján meghatározott időpontig az ültetvényt rendeltetésszerűen műveli. A művelési kötelezettség ideje alatt az ültetvény beállottságának az első öt borpiaci évben el kell érnie a 90%-ot, az ezt követő öt borpiaci éves időszakban a 85%-ot, valamint a támberendezés tekintetében meg kell felelnie az 1. § (1) bekezdés p) pontja szerinti követelménynek. Ha a támogatást igénylő ennek nem tesz eleget, úgy az az intézkedésben való jogosulatlan részvételnek minősül.
 
 (3) Valamennyi művelési kötelezettséggel terhelt ültetvény esetében, ha az ültetvény használója bármilyen okból változik, az (1) bekezdés szerinti művelési kötelezettség átadását a Kincstár részére be kell jelenteni.
 
@@ -13,3 +13,5 @@
 (5) Ha a művelési kötelezettség átadása a (3) bekezdés szerint történik, abban az esetben a kötelezettség átadása nem minősül a művelési kötelezettség megszegésének.
 
 (6) A (3) bekezdés szerinti bejelentés elmulasztása esetén az (1) bekezdés szerinti kötelezettség elmulasztásából fakadó jogkövetkezmények a támogatást igénylőt terhelik.
+
+[^11]: A 22. § (2) bekezdése a 7/2018. (VI. 26.) AM rendelet 4. § (10) bekezdésével megállapított szöveg.
