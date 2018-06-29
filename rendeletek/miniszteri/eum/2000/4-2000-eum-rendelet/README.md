@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-4-20-0B
 | 2017-01-01 | 2000-4-20-0B.25 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2017-04-01 | 2000-4-20-0B.26 | 22/2012. (IX. 14.) EMMI rendelet |
 | 2017-10-30 | 2000-4-20-0B.27 | 28/2017. (X. 25.) EMMI rendelet |
+| 2018-06-29 | 2000-4-20-0B.28 | 40/2004. (IV. 26.) ESZCSM rendelet |
