@@ -1,5 +1,3 @@
-## 14. § Átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni. A negyedéves szállítási kapacitásdíj mértéke az éves szállítási kapacitásdíj 5. melléklet I. pont I.1. alpontjában meghatározott százaléka.
+15. § (1) Napi és napon belüli szállítási kapacitás-lekötés esetén átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni.
 
-## 5. [^39] Szállítási kapacitásdíj az átadási-átvételi pontokon történő havi szállítási kapacitás-lekötés esetén
-
-[^39]: Az 5. alcím (15. §) a 7/2017. (VII. 13.) MEKH rendelet 9. §-ával megállapított szöveg.
+(2) A napi és napon belüli szállítási kapacitásdíj mértéke az éves szállítási kapacitásdíj 5. melléklet I. pont I. 3. alpontjában meghatározott százaléka.

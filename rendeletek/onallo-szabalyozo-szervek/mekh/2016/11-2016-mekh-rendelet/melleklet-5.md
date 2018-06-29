@@ -1,44 +1,50 @@
-## Téli fogyasztási időszakon kívüli kapacitás igazolásához szükséges adatszolgáltatás formai és tartalmi követelményei-sablon
+## Nem téli fogyasztási időszaki kapacitás igazolásához szükséges adatszolgáltatás formai és tartalmi követelményei – sablon
 
-## A rendszerhasználó írásban nyújtja be az igazolás iránti kérelmét a Hivatalhoz az alábbi táblázat elektronikus úton történő egyidejű megküldésével.
+## A rendszerhasználó elektronikusan nyújtja be az igazolás iránti kérelmét a Hivatalhoz az alábbi táblázat egyidejű megküldésével.
 
 ## Földgázelosztó* 1
 
-| 1. | 2. | 3. | 4. | 5. | 6. |
+|  | A | B | C | D | E | F |
 
-| Gázátadó állomás kódja | Tervezett nem téli fogyasztási időszaki kapacitás lekötés** maximális mértéke*** | Felhasználási hely kódja (POD) | Tervezett nem téli fogyasztási időszaki kapacitás lekötés maximális mértéke (kWh/h)**** | A 4. pont szerinti kapacitást igénybe vevő fogyasztási berendezés(ek) névleges (össz)teljesítménye (kW) | Felhasználó nem téli fogyasztási időszaki tevékenységének megnevezése***** |
+| 1. | Gázátadó állomás kódja | Tervezett nem téli fogyasztási időszaki kapacitás-lekötés** maximális mértéke*** | Felhasználási hely kódja (POD) | Tervezett nem téli fogyasztási időszaki kapacitás-lekötés maximális mértéke (kWh/h)**** | A D oszlop szerinti kapacitást igénybe vevő fogyasztási berendezés(ek) névleges (össz)teljesítménye (kW) | Felhasználó nem téli fogyasztási időszaki kapacitáshoz kapcsolódó tevékenységének megnevezése***** |
 
-| Átadó 1 |  | POD 1 |  |  |  |
+| 2. | Átadó 1 |  | POD 1 |  |  |  |
 
-| Átadó 1 |  | POD 2 |  |  |  |
+| 3. | Átadó 1 |  | POD 2 |  |  |  |
 
-| Átadó 1 |  | POD 3 |  |  |  |
+| 4. | Átadó 1 |  | POD 3 |  |  |  |
 
-| Átadó 2 |  | POD 4 |  |  |  |
+| 5. | Átadó 2 |  | POD 4 |  |  |  |
 
-| Átadó 2 |  | POD 5 |  |  |  |
+| 6. | Átadó 2 |  | POD 5 |  |  |  |
 
-| Átadó 2 |  | POD 6 |  |  |  |
+| 7. | Átadó 2 |  | POD 6 |  |  |  |
 
-| Átadó 3 |  | POD 7 |  |  |  |
+| 8. | Átadó 3 |  | POD 7 |  |  |  |
 
-| … |  | … |  |  |  |
+| … | … |  | … |  |  |  |
 
 ## Magyarázat:
 
-## Szürke cella nem kitöltendő
+## A szürke cella nem kitöltendő
 
 ## * Földgázelosztónként külön adatlapon
 
 ## ** Égéshő alapú kWh/h mértékegységben kifejezett kapacitás
 
-## *** A 4. oszlopban POD-onként feltüntetett kapacitások gázátadó állomásonként esetleges egyidejűséggel számított összesített kapacitásértéke
+## *** A D oszlopban POD-onként feltüntetett kapacitások gázátadó állomásonként esetleges egyidejűséggel
 
-## **** Az 5. oszlopban POD-onként feltüntetett teljesítményekhez az adott gázévben szükséges kapacitásérték, melynek fűtőérték alapon számított mértéke nem lehet magasabb az 5. oszlopban POD-onként feltüntetett maximális értéknél
+## számított összesített kapacitásértéke
+
+## **** Az E oszlopban POD-onként feltüntetett teljesítményekhez az adott gázévben szükséges kapacitásérték,
+
+## melynek fűtőérték alapon számított mértéke nem lehet magasabb az E oszlopban POD-onként feltüntetett
+
+## maximális értéknél
 
 ## ***** Tájékoztató jellegű felsorolás (egy cellában felsorolva)
 
-5. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^99]
+5. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^105]
 
 I. Az éven belüli kapacitáslekötés esetében alkalmazandó szorzószámok a szállítási kapacitásdíjak esetén
 
@@ -164,32 +170,4 @@ II. 2. Havi lekötés esetén
 
 II. 3. Napi és napon belüli lekötés esetén
 
-|  | A | B |
-
-| 1. | Hónap (az adott naptári nap reggel 6:00:00-étől a naptári napot követő nap 5:59:59-éig) | az 1. § (1) bekezdés a) pont ab) alpontja esetén |
-
-| 2. | január | 1,23% |
-
-| 3. | február | 0,91% |
-
-| 4. | március | 0,69% |
-
-| 5. | április | 0,16% |
-
-| 6. | május | 0,16% |
-
-| 7. | június | 0,16% |
-
-| 8. | július | 0,16% |
-
-| 9. | augusztus | 0,16% |
-
-| 10. | szeptember | 0,16% |
-
-| 11. | október | 0,48% |
-
-| 12. | november | 0,80% |
-
-| 13. | december | 1,17% |
-
-[^99]: Az 5. mellékletet a 7/2017. (VII. 13.) MEKH rendelet 21. §-a iktatta be.
+[^105]: Az 5. mellékletet a 7/2017. (VII. 13.) MEKH rendelet 21. §-a iktatta be.

@@ -10,10 +10,10 @@
 
 (2) A szállítási rendszerüzemeltető, a földgázelosztó és a földgáztárolói engedélyes a részére fizetett rendszerhasználati díjakat elkülönítve, díjtételenként köteles nyilvántartani, elszámolni és a rendszerhasználó (fizető) számláján megjeleníteni.
 
-(3)[^20] A rendszerhasználati díjak megállapítása és megfizetése során a gáztechnikai normálállapotra való átszámítás a 41. § szabályai szerint történik, a földgázminőségi jellemzők tekintetében az érintett gázévben érvényes, a földgázszállító rendszer átadási-átvételi pontjainak földgázminőségi elszámolási rendjében (a továbbiakban: MER) szereplő adatok az alkalmazandóak.
+(3)[^24] A rendszerhasználati díjak megállapítása és megfizetése során a gáztechnikai normálállapotra való átszámítás a 41. § szabályai szerint történik, a földgázminőségi jellemzők tekintetében az érintett gázévben érvényes, a földgázszállító rendszer átadási-átvételi pontjainak földgázminőségi elszámolási rendjében (a továbbiakban: MER) szereplő adatok az alkalmazandóak.
 
 (4) A rendszerhasználati díjakat – egyéb megállapodás hiányában – a teljesített szolgáltatás alapján átadási-átvételi pontonként havonta egy alkalommal kell megfizetni.
 
 (5) A részletes áralkalmazási feltételeket a 8–43. § tartalmazza.
 
-[^20]: A 2. § (3) bekezdése a 7/2017. (VII. 13.) MEKH rendelet 3. §-ával megállapított szöveg.
+[^24]: A 2. § (3) bekezdése a 7/2017. (VII. 13.) MEKH rendelet 3. §-ával megállapított szöveg.

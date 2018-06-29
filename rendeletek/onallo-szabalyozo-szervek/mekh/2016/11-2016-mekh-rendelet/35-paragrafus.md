@@ -1,3 +1,3 @@
-## 18.[^71]
+## 18.[^74]
 
-[^71]: A 18. alcímet (35. §) a 7/2017. (VII. 13.) MEKH rendelet 20. § e) pontja hatályon kívül helyezte.
+[^74]: A 18. alcímet (35. §) a 7/2017. (VII. 13.) MEKH rendelet 20. § e) pontja hatályon kívül helyezte.

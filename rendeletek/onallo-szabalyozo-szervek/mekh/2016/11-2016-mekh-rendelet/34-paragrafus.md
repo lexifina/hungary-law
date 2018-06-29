@@ -1,6 +1,10 @@
-## 33. § Átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni. A napi és napon belüli elosztási kapacitásdíj mértéke az éves elosztási kapacitásdíj 5. melléklet II. pont II. 3. alpontjában meghatározott százaléka.
+## 14.[^70]
 
-## 17. [^70] Elosztási kapacitásdíj az átadási-átvételi pontokon, megszakítható kapacitáslekötés-típusonként
+## 15.[^71]
+
+## 16.[^72]
+
+## 17. [^73] Elosztási kapacitásdíj az átadási-átvételi pontokon, megszakítható kapacitáslekötés-típusonként
 
 34. § (1) Azokon a hálózati pontokon, amelyek vonatkozásában a földgázelosztó – az ÜKSZ-ben meghatározott módon – megszakítható kapacitás-lekötést tesz lehetővé, a megszakítható kapacitás díja az egyes kapacitástermékek (éves, negyedéves, havi és napi kapacitás) esetén megegyezik a 30–33. §-ban meghatározott, az adott kapacitástermékre vonatkozó elosztási kapacitásdíjjal.
 
@@ -18,4 +22,7 @@ d) napi kapacitás megszakítása esetén a megszakítással érintett órákra,
 
 (4) A földgázelosztó az ÜKSZ-ben rögzített szabályok szerint, az 1. § (1) bekezdés r) pontjában rögzített szerződési időszakban, az elosztási kapacitásdíj 100%-kal történő csökkentése esetén is köteles a 24. §-ban rögzítettek szerint megszakítható kapacitást biztosítani.
 
-[^70]: A 17. alcím címe a 7/2017. (VII. 13.) MEKH rendelet 19. § p) pontja és 20. § d) pontja szerint módosított szöveg.
+[^70]: A 14. alcímet (31. §) a 4/2018. (VI. 14.) MEKH rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^71]: A 15. alcímet (32. §) a 4/2018. (VI. 14.) MEKH rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^72]: A 16. alcímet (33. §) a 4/2018. (VI. 14.) MEKH rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^73]: A 17. alcím címe a 7/2017. (VII. 13.) MEKH rendelet 19. § p) pontja és 20. § d) pontja szerint módosított szöveg.

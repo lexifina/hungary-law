@@ -1,3 +1,3 @@
-## 4. [^38] Szállítási kapacitásdíj az átadási-átvételi pontokon történő negyedéves szállítási kapacitás-lekötés esetén
+14. § (1) Havi szállítási kapacitás-lekötés esetén átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni.
 
-[^38]: A 4. alcím (14. §) a 7/2017. (VII. 13.) MEKH rendelet 9. §-ával megállapított szöveg.
+(2) A havi szállítási kapacitásdíj mértéke az éves szállítási kapacitásdíj 5. melléklet I. pont I. 2. alpontjában meghatározott százaléka.

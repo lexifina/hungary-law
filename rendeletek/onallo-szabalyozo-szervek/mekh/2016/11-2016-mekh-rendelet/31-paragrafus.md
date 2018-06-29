@@ -1,3 +1,3 @@
-## 14. [^67] Elosztási kapacitásdíj az átadási-átvételi pontokon történő negyedéves elosztási kapacitás-lekötés esetén
+31. § (1) Negyedéves elosztási kapacitás-lekötés esetén átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni.
 
-[^67]: A 14. alcím (31. §) a 7/2017. (VII. 13.) MEKH rendelet 15. §-ával megállapított szöveg.
+(2) A negyedéves elosztási kapacitásdíj mértéke az éves elosztási kapacitásdíj 5. melléklet II. pont II. 1. alpontjában meghatározott százaléka.
