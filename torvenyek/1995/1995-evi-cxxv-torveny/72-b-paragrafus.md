@@ -18,7 +18,7 @@ c) a 71/D. § alapján a nemzetbiztonsági ellenőrzés alapjául szolgáló jog
 
 d) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személy a nemzetbiztonsági ellenőrzéssel kapcsolatos változás-bejelentési kötelezettsége teljesítését elmulasztotta vagy a bejelentett változás jellege ezt indokolja,
 
-e) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személlyel kapcsolatban a nemzetbiztonsági ellenőrzés kezdeményezésére jogosult vagy a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatója nemzetbiztonsági kockázatra utaló körülményről, így különösen az alábbiakról szerez tudomást:
+e) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személlyel kapcsolatban a nemzetbiztonsági ellenőrzés kezdeményezésére jogosult nemzetbiztonsági kockázatra utaló körülményről, az alábbiakról szerez tudomást:
 
 ea) az ellenőrzött személy vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója ellen indult büntetőeljárás vagy elzárással büntethető szabálysértés miatt indult szabálysértési eljárás,
 

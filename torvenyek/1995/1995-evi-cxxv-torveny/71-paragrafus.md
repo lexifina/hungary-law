@@ -10,7 +10,7 @@ c) a 70. § § (2) bekezdés c), d) és e) pontjában meghatározott személy es
 
 d) a 70. § (2) bekezdés f) pontjában meghatározott személy esetében az állomány szerint illetékes főigazgató által vezetett nemzetbiztonsági szolgálatot irányító miniszter,
 
-e) bíró, igazságügyi alkalmazott esetében a munkáltatói jogkör gyakorlója feletti kinevezési jogkört gyakorló bírósági vezető, ennek hiányában az Országos Bírósági Hivatal elnöke,
+e) igazságügyi alkalmazott esetében a munkáltatói jogkör gyakorlója feletti kinevezési jogkört gyakorló bírósági vezető, ennek hiányában az Országos Bírósági Hivatal elnöke,
 
 f) ügyészségi szolgálati viszonyban álló személyek esetében a legfőbb ügyész
 
