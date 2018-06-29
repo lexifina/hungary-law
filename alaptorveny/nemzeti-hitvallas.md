@@ -38,6 +38,8 @@ Valljuk, hogy népuralom csak ott van, ahol az állam szolgálja polgárait, üg
 
 Tiszteletben tartjuk történeti alkotmányunk vívmányait és a Szent Koronát, amely megtestesíti Magyarország alkotmányos állami folytonosságát és a nemzet egységét.
 
+Valljuk, hogy a történeti alkotmányunkban gyökerező önazonosságunk védelmezése az állam alapvető kötelessége.
+
 Nem ismerjük el történeti alkotmányunk idegen megszállások miatt bekövetkezett felfüggesztését. Tagadjuk a magyar nemzet és polgárai ellen a nemzetiszocialista és a kommunista diktatúra uralma alatt elkövetett embertelen bűnök elévülését.
 
 Nem ismerjük el az 1949. évi kommunista alkotmányt, mert egy zsarnoki uralom alapja volt, ezért kinyilvánítjuk érvénytelenségét.

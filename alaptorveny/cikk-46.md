@@ -2,7 +2,7 @@
 
 46. cikk
 
-(1) A rendőrség alapvető feladata a bűncselekmények megakadályozása, felderítése, a közbiztonság, a közrend és az államhatár rendjének védelme.
+(1) A rendőrség alapvető feladata a bűncselekmények megakadályozása, felderítése, a közbiztonság, a közrend és az államhatár rendjének védelme. A rendőrség részt vesz a jogellenes bevándorlás megakadályozásában.
 
 (2) A rendőrség működését a Kormány irányítja.
 

@@ -1,6 +1,6 @@
 XXII. cikk
 
-(1) Magyarország törekszik arra, hogy az emberhez méltó lakhatás feltételeit és a közszolgáltatásokhoz való hozzáférést mindenki számára biztosítsa.
+(1) Az állam jogi védelemben részesíti az otthont. Magyarország törekszik arra, hogy az emberhez méltó lakhatás feltételeit és a közszolgáltatásokhoz való hozzáférést mindenki számára biztosítsa.
 
 (2) Az emberhez méltó lakhatás feltételeinek a megteremtését az állam és a helyi önkormányzatok azzal is segítik, hogy törekszenek valamennyi hajlék nélkül élő személy számára szállást biztosítani.
 
