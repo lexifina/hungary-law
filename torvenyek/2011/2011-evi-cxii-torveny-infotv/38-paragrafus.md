@@ -6,9 +6,11 @@
 
 38. § (1) A Hatóság autonóm államigazgatási szerv.
 
-(2) A Hatóság feladata a személyes adatok védelméhez, valamint a közérdekű és a közérdekből nyilvános adatok megismeréséhez való jog érvényesülésének ellenőrzése és elősegítése.
+(2) A Hatóság feladata a személyes adatok védelméhez, valamint a közérdekű és a közérdekből nyilvános adatok megismeréséhez való jog érvényesülésének ellenőrzése és elősegítése, továbbá a személyes adatok Európai Unión belüli szabad áramlásának elősegítése.
 
-(3) A Hatóság a (2) bekezdés szerinti feladatkörében az e törvényben meghatározottak szerint
+(2a) Az (EU) 2016/679 európai parlamenti és tanácsi rendeletben (a továbbiakban: általános adatvédelmi rendelet) a felügyeleti hatóság részére megállapított feladat- és hatásköröket a Magyarország joghatósága alá tartozó jogalanyok tekintetében az általános adatvédelmi rendeletben, valamint az e fejezetben és a VI. Fejezetben meghatározottak szerint a Hatóság gyakorolja.
+
+(3) A Hatóság a (2) és (2a) bekezdés szerinti feladatkörében az e törvényben meghatározottak szerint különösen
 
 a) bejelentés alapján vizsgálatot folytat;
 
@@ -22,7 +24,7 @@ e) a más által indított perbe beavatkozhat;
 
 f) adatvédelmi nyilvántartást vezet.
 
-(4) A Hatóság a (2) bekezdés szerinti feladatkörében
+(4) A Hatóság a (2) és (2a) bekezdés szerinti feladatkörében különösen
 
 a) javaslatot tehet a személyes adatok kezelését, valamint a közérdekű adatok és a közérdekből nyilvános adatok megismerését érintő jogszabályok megalkotására, illetve módosítására, véleményezi a feladatkörét érintő jogszabályok tervezetét;
 
