@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösségek és azok tagállamai, másrészről az Orosz Föderáció közötti partnerség létrehozásáról szóló partnerségi és együttműködési megállapodáshoz a Horvát Köztársaság Európai Unióhoz történő csatlakozásának figyelembevétele céljából készült Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
