@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösségek és azok tagállamai, másrészről az Üzbég Köztársaság közötti partnerséget létrehozó partnerségi és együttműködési megállapodáshoz a Horvát Köztársaság Európai Unióhoz történő csatlakozásának figyelembevétele céljából készült jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
