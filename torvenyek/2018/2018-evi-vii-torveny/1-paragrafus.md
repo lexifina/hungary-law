@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Unió és tagállamai, másrészről Grúzia között a közös légtér létrehozásáról szóló megállapodásnak a Horvát Köztársaság Európai Unióhoz való csatlakozása figyelembevétele céljából történő módosításáról szóló Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
