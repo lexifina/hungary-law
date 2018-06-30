@@ -18,6 +18,8 @@ g)[^8] a Közbeszerzési és Ellátási Főigazgatóság, a Honvédelmi Miniszt�
 
 h)[^9] a Kormány által kijelölt országos illetékességgel közúti közlekedési hatósági ellenőrzést végző közlekedési hatóság meghatározott engedélyhez és meghatározott okmány meglétéhez kötött belföldi vagy nemzetközi közúti közlekedési szolgáltatás, valamint az útdíjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra vonatkozó szabályok ellenőrzésére rendszeresített gépjárműveire.
 
+i)[^10] a Magyar Honvédség speciális tűzszerész feladatot ellátó szervezeti egysége részére rendszeresített gépjárműveire.
+
 (2) Az (1) bekezdésben meghatározottakon kívül nem kell hatósági engedély a megkülönböztető fényjelzést adó készülék felszereléséhez, a védett személyeket szállító és azt kísérő, zárt csoportban közlekedő (közrefogott) gépjárművekre. Az e feladatra is rendszeresen használt gépjárművekben a megkülönböztető fényjelzést adó készülék engedély nélkül tárolható.
 
 [^4]: A 3. § (1) bekezdés b) pontja a 60/2016. (XII. 29.) BM rendelet 2. §-ával megállapított szöveg.
@@ -26,3 +28,4 @@ h)[^9] a Kormány által kijelölt országos illetékességgel közúti közleke
 [^7]: A 3. § (1) bekezdésének f) pontját a 41/2009. (IX. 15.) IRM rendelet 46. §-a iktatta be. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^8]: A 3. § (1) bekezdés g) pontját a 62/2011. (XII. 29.) BM rendelet iktatta be, szövege a 2/2015. (II. 3.) BM rendelet 5. § b) pontja szerint módosított szöveg.
 [^9]: A 3. § (1) bekezdés h) pontját a 30/2016. (VII. 20.) BM rendelet 1. §-a iktatta be.
+[^10]: A 3. § (1) bekezdés i) pontját a 20/2018. (VI. 29.) BM rendelet 1. § (1) bekezdése iktatta be.
