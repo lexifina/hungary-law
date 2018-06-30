@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Unió és tagállamai, másrészről a Jordán Hásimita Királyság között létrejött euromediterrán légi közlekedési megállapodásnak a Horvát Köztársaság Európai Unióhoz történő csatlakozása figyelembevétele érdekében történő módosításáról szóló Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
