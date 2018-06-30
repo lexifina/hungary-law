@@ -8,4 +8,4 @@
 
 (4)
 
-(5)
+(5) Hatályát veszti a 213. § (1) bekezdés 20. pontja.
