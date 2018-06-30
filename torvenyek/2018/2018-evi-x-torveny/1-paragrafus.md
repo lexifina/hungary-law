@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Kínai Népköztársaság Kormánya között a diplomáciai célú ingatlanok vásárlásáról szóló Egyetértési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
