@@ -1,1 +1,3 @@
-## 3. § Az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 28/2017. (X. 25.) EMMI rendelet 31. § (2) bekezdésében a „2018. július 1-jén” szövegrész helyébe a „2019. január 1-jén” szöveg lép.
+## 3. §[^2]
+
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
