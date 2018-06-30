@@ -1,0 +1,3 @@
+## 3. § Az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezések üzemeltetői számára az Automata Felügyeleti Egység beszerzéséhez nyújtandó támogatásról szóló 20/2017. (VII. 31.) NGM rendelet (a továbbiakban: Támogatási rendelet) 5. §-a a következő (7a) bekezdéssel egészül ki:
+
+## „(7a) Ha a támogatás összegének egy része felügyeleti szolgáltatási díjra kerül elszámolásra, az ezt dokumentáló számviteli bizonylat abban az esetben is elfogadható a támogatás elszámolásának alátámasztásaként, ha a bizonylat a (3) bekezdés b) pontjában meghatározott határidőt követően, de legkésőbb 2018. december 31-ig kerül kiállításra.”

@@ -1,0 +1,3 @@
+## 1. § Az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automaták műszaki követelményeiről, az automaták üzemeltetéséről és szervizeléséről, valamint az automatákban rögzített adatoknak az állami adó- és vámhatóság felé történő szolgáltatásáról szóló 31/2016. (IX. 2.) NGM rendelet (a továbbiakban: Automata rendelet) 72. §-a a következő (5a) bekezdéssel egészül ki:
+
+## „(5a) A (4) bekezdéstől eltérően az az automataberendezés, amely kizárólag nyerstejet értékesít, és amely vonatkozásában az üzemeltető a felügyeleti szolgáltatóval 2018. június 30-ig megkötött szerződéssel rendelkezik vagy rendelkezett, és amelyről a felügyeleti szolgáltató megállapította, hogy az AFE nem szerelhető be, elavulásáig üzemeltethető.”
