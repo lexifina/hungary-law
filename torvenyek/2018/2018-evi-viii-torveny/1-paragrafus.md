@@ -1,0 +1,1 @@
+1. § Az Országgyűlés Európai Unió és tagállamai, valamint a Moldovai Köztársaság között a közös légtér létrehozásáról létrejött megállapodásnak a Horvát Köztársaság Európai Unióhoz való csatlakozásának figyelembevétele céljából történő módosításáról szóló Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
