@@ -380,7 +380,7 @@
 
 | 16. | HSH | Ellenőrző kód | 64 HEXA karakter |
 
-5. melléklet a 31/2016. (IX. 2.) NGM rendelethez[^24]
+5. melléklet a 31/2016. (IX. 2.) NGM rendelethez[^27]
 
 Igazgatási szolgáltatási díjak
 
@@ -394,4 +394,4 @@ Igazgatási szolgáltatási díjak
 
 | 4. | 3. | Felügyeleti szolgáltatói engedély módosítása [egy éven belül a második, vagy az azt követő módosítás(ok)] | módosításonként 400 000 Ft |
 
-[^24]: Az 5. melléklet a 7/2018. (III. 19.) NGM rendelet 3. §-ával megállapított szöveg.
+[^27]: Az 5. melléklet a 7/2018. (III. 19.) NGM rendelet 3. §-ával megállapított szöveg.

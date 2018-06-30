@@ -16,10 +16,17 @@ b) bejelentett szüneteltetés esetén az automataberendezés kizárólag AFE-ve
 
 (5) A (4) bekezdéstől eltérően az az automataberendezés, amely tekintetében a felügyeleti szolgáltató a Mód. rendelet hatálybalépését[^22] megelőzően tette meg a Kormányrendelet 2. § (3) bekezdés b) pontja szerinti nyilatkozatot, a Mód. rendelet hatálybalépését követő 30. napig üzemeltethető.
 
-(6) A 40. § (1b) bekezdés a) pontjában meghatározott időpont foglalási rendszert a Mód. rendelet hatálybalépését[^23] követő 15. naptól kezdődően 2018. június 15-ig kell működtetni.
+(5a)[^23] A (4) bekezdéstől eltérően az az automataberendezés, amely kizárólag nyerstejet értékesít, és amely vonatkozásában az üzemeltető a felügyeleti szolgáltatóval 2018. június 30-ig megkötött szerződéssel rendelkezik vagy rendelkezett, és amelyről a felügyeleti szolgáltató megállapította, hogy az AFE nem szerelhető be, elavulásáig üzemeltethető.
+
+(6) A 40. § (1b) bekezdés a) pontjában meghatározott időpont foglalási rendszert a Mód. rendelet hatálybalépését[^24] követő 15. naptól kezdődően 2018. június 15-ig kell működtetni.
+
+(7)[^25] E rendeletnek az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automaták műszaki követelményeiről, az automaták üzemeltetéséről és szervizeléséről, valamint az automatákban rögzített adatoknak az állami adó- és vámhatóság felé történő szolgáltatásáról szóló 31/2016. (IX. 2.) NGM rendelet és az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezések üzemeltetői számára az Automata Felügyeleti Egység beszerzéséhez nyújtandó támogatásról szóló 20/2017. (VII. 31.) NGM rendelet módosításáról szóló 5/2018. (VI. 29.) PM rendelettel (a továbbiakban: Mód2. rendelet) megállapított 72. § (5a) bekezdését a Mód2. rendelet hatálybalépésekor[^26] folyamatban lévő jogviszonyokra és eljárásokra is alkalmazni kell.
 
 [^19]: A 72. § a 7/2018. (III. 19.) NGM rendelet 2. §-ával megállapított szöveg.
 [^20]: A hatálybalépés időpontja 2018. április 3.
 [^21]: A hatálybalépés időpontja 2018. április 3.
 [^22]: A hatálybalépés időpontja 2018. április 3.
-[^23]: A hatálybalépés időpontja 2018. április 3.
+[^23]: A 72. § (5a) bekezdését az 5/2018. (VI. 29.) PM rendelet 1. §-a iktatta be.
+[^24]: A hatálybalépés időpontja 2018. április 3.
+[^25]: A 72. § (7) bekezdését az 5/2018. (VI. 29.) PM rendelet 2. §-a iktatta be.
+[^26]: A hatálybalépés időpontja 2018. június 30.
