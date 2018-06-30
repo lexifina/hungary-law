@@ -1,3 +1,5 @@
+## 23. §[^20] E rendeletnek az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automaták műszaki követelményeiről, az automaták üzemeltetéséről és szervizeléséről, valamint az automatákban rögzített adatoknak az állami adó- és vámhatóság felé történő szolgáltatásáról szóló 31/2016. (IX. 2.) NGM rendelet és az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezések üzemeltetői számára az Automata Felügyeleti Egység beszerzéséhez nyújtandó támogatásról szóló 20/2017. (VII. 31.) NGM rendelet módosításáról szóló 5/2018. (VI. 29.) PM rendelettel (a továbbiakban: Mód2. rendelet) megállapított 5. § (7a) bekezdését, 8. § (2) és (3) bekezdését, 11. § (2), (5a) és (5b) bekezdését a Mód2. rendelet hatálybalépésekor[^21] folyamatban lévő jogviszonyokra és eljárásokra is alkalmazni kell.
+
 1. melléklet a 20/2017. (VII. 31.) NGM rendelethez
 
 Nyilatkozat a csekély összegű támogatás igénybevételéhez
@@ -24,11 +26,11 @@ Nyilatkozat a csekély összegű támogatás igénybevételéhez
 
 (jelölje X-szel; legalább egy lehetőséget meg kell jelölni)
 
-a) A kedvezményezett elsődleges mezőgazdasági termeléssel[^15] foglalkozik, és az AFE-t e tevékenységéhez kapcsolódóan (is) fel fogja használni.
+a) A kedvezményezett elsődleges mezőgazdasági termeléssel[^22] foglalkozik, és az AFE-t e tevékenységéhez kapcsolódóan (is) fel fogja használni.
 
 Az AFE e tevékenység körében való felhasználásának becsült aránya: ___%
 
-b) A kedvezményezett halászati és akvakultúra-ágazathoz[^16] sorolható tevékenységet folytat, és az AFE-t e tevékenységéhez kapcsolódóan (is) fel fogja használni.
+b) A kedvezményezett halászati és akvakultúra-ágazathoz[^23] sorolható tevékenységet folytat, és az AFE-t e tevékenységéhez kapcsolódóan (is) fel fogja használni.
 
 Az AFE e tevékenység körében való felhasználásának becsült aránya: ___%
 
@@ -66,11 +68,13 @@ Ezúton nyilatkozom a kedvezményezett nevében, hogy a folyó pénzügyi évben
 
 Nyilatkozatom arra is kiterjed, hogy a kedvezményezett, továbbá az olyan vállalkozások, amelyekkel a kedvezményezett egy és ugyanazon vállalkozásnak minősül, milyen csekély összegű támogatás(ok)ra nyújtottak be támogatási kérelmet (az elutasított kérelmekről nem kell nyilatkozni, csak azokról, amelyek elbírálása folyamatban van).
 
-Nyilatkozatom az 1407/2013/EU bizottsági rendelet 3. cikk (8)–(9) bekezdéseiben írtak betartásához szükséges adatokat is tartalmazza.[^17]
+Nyilatkozatom az 1407/2013/EU bizottsági rendelet 3. cikk (8)–(9) bekezdéseiben írtak betartásához szükséges adatokat is tartalmazza.[^24]
 
-Csekély összegű támogatások[^18]
+Csekély összegű támogatások[^25]
 
-[^15]: Az Európai Unió működéséről szóló Szerződés I. mellékletében felsorolt növények vagy állati eredetű termék előállítása, ide nem értve bármely, azok lényegi tulajdonságát megváltoztató tevékenységet.
-[^16]: Az 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott termékek előállítása, feldolgozása és forgalmazása.
-[^17]: Az egyesülés által érintett vállalkozásoknak nyújtott valamennyi korábbi csekély összegű támogatást bele kell számítani az egyesülés révén létrejövő, vagy jogutód pályázó csekély összegű támogatási keretébe. Az egyesülést megelőzően jogszerűen odaítélt csekély összegű támogatás később is jogszerű marad. Ha egy vállalkozás két vagy több vállalkozásra válik szét, a szétválást megelőzően nyújtott csekély összegű támogatást az eredetileg a támogatásban részesülő azon vállalkozásnak kell betudni, amely a csekély összegű támogatással támogatott tevékenységet átvállalta. Ha ennek meghatározására nincs lehetőség, a csekély összegű támogatást a saját tőkének a szétválás tényleges időpontjában érvényes könyv szerinti értéke alapján arányosan el kell osztani a szétválás által érintett vállalkozások között.
-[^18]: Az egyesülésre és szétválásra vonatkozó szabályok, valamint és az egy és ugyanazon vállalkozás fogalma által érintett vállalkozások tekintetében is ki kell tölteni.
+[^20]: A 23. §-t az 5/2018. (VI. 29.) PM rendelet 7. §-a iktatta be.
+[^21]: A hatálybalépés időpontja 2018. június 30.
+[^22]: Az Európai Unió működéséről szóló Szerződés I. mellékletében felsorolt növények vagy állati eredetű termék előállítása, ide nem értve bármely, azok lényegi tulajdonságát megváltoztató tevékenységet.
+[^23]: Az 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott termékek előállítása, feldolgozása és forgalmazása.
+[^24]: Az egyesülés által érintett vállalkozásoknak nyújtott valamennyi korábbi csekély összegű támogatást bele kell számítani az egyesülés révén létrejövő, vagy jogutód pályázó csekély összegű támogatási keretébe. Az egyesülést megelőzően jogszerűen odaítélt csekély összegű támogatás később is jogszerű marad. Ha egy vállalkozás két vagy több vállalkozásra válik szét, a szétválást megelőzően nyújtott csekély összegű támogatást az eredetileg a támogatásban részesülő azon vállalkozásnak kell betudni, amely a csekély összegű támogatással támogatott tevékenységet átvállalta. Ha ennek meghatározására nincs lehetőség, a csekély összegű támogatást a saját tőkének a szétválás tényleges időpontjában érvényes könyv szerinti értéke alapján arányosan el kell osztani a szétválás által érintett vállalkozások között.
+[^25]: Az egyesülésre és szétválásra vonatkozó szabályok, valamint és az egy és ugyanazon vállalkozás fogalma által érintett vállalkozások tekintetében is ki kell tölteni.

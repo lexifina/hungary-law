@@ -2,7 +2,7 @@
 
 (2) A kérelmet
 
-a)[^4] 2017. november 17-ig elektronikusan az eAdaton keresztül és
+a)[^5] 2017. november 17-ig elektronikusan az eAdaton keresztül és
 
 b) az a) pont szerinti elektronikus kérelem benyújtását követő 7 napon belül – az 5. § (8) bekezdés c) pontja szerinti aláírással ellátva – papír alapon
 
@@ -20,4 +20,4 @@ kell a kezelő szerv részére benyújtani.
 
 (8) A kezelő szerv a támogatói okirat kiállítását követő 5 napon belül folyósítja a támogatást.
 
-[^4]: A 7. § (2) bekezdés a) pontja a 36/2017. (X. 31.) NGM rendelet 7. § 1. pontja szerint módosított szöveg.
+[^5]: A 7. § (2) bekezdés a) pontja a 36/2017. (X. 31.) NGM rendelet 7. § 1. pontja szerint módosított szöveg.

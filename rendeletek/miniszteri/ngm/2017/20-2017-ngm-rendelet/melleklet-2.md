@@ -20,7 +20,7 @@
 
 ## Nyilatkozom, hogy a kedvezményezett aláírásra jogosult képviselője vagyok, és a fent megadott adatok helyesek. Hozzájárulok ahhoz, hogy a fenti adatokat a tárgyban illetékes szerveknek az adatkezelő átadja.
 
-## Tudomásul veszem, hogy amennyiben a nyilatkozat kelte és a támogatás odaítélése[^19] közötti időszakban egyéb csekély összegű vagy a támogatáshalmozás szempontjából figyelembe veendő más támogatást ítélnek oda a kedvezményezett számára, a kedvezményezett erről haladéktalanul – még a jelen nyilatkozat szerinti támogatás odaítélése előtt – értesíteni köteles a felügyeleti szolgáltatót, és köteles megfelelően módosított adattartalommal újból kiállítani a jelen nyilatkozatot.
+## Tudomásul veszem, hogy amennyiben a nyilatkozat kelte és a támogatás odaítélése[^26] közötti időszakban egyéb csekély összegű vagy a támogatáshalmozás szempontjából figyelembe veendő más támogatást ítélnek oda a kedvezményezett számára, a kedvezményezett erről haladéktalanul – még a jelen nyilatkozat szerinti támogatás odaítélése előtt – értesíteni köteles a felügyeleti szolgáltatót, és köteles megfelelően módosított adattartalommal újból kiállítani a jelen nyilatkozatot.
 
 ## Kelt: 2017.
 
@@ -54,5 +54,5 @@ I. Igazolás csekély összegű támogatásról
 
 II. Kötelezettségvállalás
 
-[^19]: A csekély összegű támogatást akkor kell odaítéltnek tekinteni, amikor az alkalmazandó nemzeti jogrendszer értelmében a támogatás igénybevételének jogát a kedvezményezett vállalkozásra ruházzák, függetlenül a csekély összegű támogatás folyósításának időpontjától.
+[^26]: A csekély összegű támogatást akkor kell odaítéltnek tekinteni, amikor az alkalmazandó nemzeti jogrendszer értelmében a támogatás igénybevételének jogát a kedvezményezett vállalkozásra ruházzák, függetlenül a csekély összegű támogatás folyósításának időpontjától.
 [^10.]: A forintban meghatározott összegek euróra történő átszámításánál az e Rendelet kihirdetésének napján érvényes, a Magyar Nemzeti Bank által közzétett, két tizedesjegy pontossággal meghatározott devizaárfolyam alkalmazandó.

@@ -8,6 +8,6 @@
 
 ## (aláírás, pecsét)
 
-3. melléklet a 20/2017. (VII. 31.) NGM rendelethez[^20]
+3. melléklet a 20/2017. (VII. 31.) NGM rendelethez[^27]
 
-[^20]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

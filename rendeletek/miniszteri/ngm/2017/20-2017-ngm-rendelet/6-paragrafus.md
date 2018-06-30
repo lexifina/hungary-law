@@ -1,3 +1,3 @@
-6. §[^3]
+6. §[^4]
 
-[^3]: A 6. §-t a 36/2017. (X. 31.) NGM rendelet 8. §-a hatályon kívül helyezte.
+[^4]: A 6. §-t a 36/2017. (X. 31.) NGM rendelet 8. §-a hatályon kívül helyezte.

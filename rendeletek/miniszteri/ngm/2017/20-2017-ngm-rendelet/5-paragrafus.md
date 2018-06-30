@@ -28,13 +28,16 @@ c) azt a pénzforgalmi bankszámlaszámát, amelyre a támogatás folyósítás�
 
 (7) A támogatás mértéke AFE-nként százhúszezer forint, amely magában foglalja az AFE árát és a telepítéssel összefüggő valamennyi díjat és költséget. Ha az AFE ára, valamint a telepítéssel összegfüggő valamennyi díj és költség együttes összege nem éri el a százhúszezer forintot, a fennmaradó rész a felügyeleti szolgáltatás díjára is elszámolható. A felügyeleti szolgáltató által a telepítéssel összefüggésben felszámított valamennyi díj és költség legfeljebb az AFE ára és a támogatás mértéke közötti különbözetnek megfelelő összeg lehet.
 
+(7a)[^2] Ha a támogatás összegének egy része felügyeleti szolgáltatási díjra kerül elszámolásra, az ezt dokumentáló számviteli bizonylat abban az esetben is elfogadható a támogatás elszámolásának alátámasztásaként, ha a bizonylat a (3) bekezdés b) pontjában meghatározott határidőt követően, de legkésőbb 2018. december 31-ig kerül kiállításra.
+
 (8) A felügyeleti szolgáltató a kérelem benyújtásával egyidejűleg
 
 a) nyilatkozik az Ávr. 75. § (2) bekezdésében foglaltakról,
 
-b)[^2] az igényelt támogatás összegével megegyező mértékű biztosítékot nyújtja a kezelő szerv részére az Ávr. 84. § (2) bekezdés a) pontjában foglalt biztosíték vagy pénzügyi intézmény által vállalt garancia formájában, és
+b)[^3] az igényelt támogatás összegével megegyező mértékű biztosítékot nyújtja a kezelő szerv részére az Ávr. 84. § (2) bekezdés a) pontjában foglalt biztosíték vagy pénzügyi intézmény által vállalt garancia formájában, és
 
 c) 30 napnál nem régebbi cégkivonatát és a cégjegyzésre jogosult képviselője aláírási címpéldányát vagy ügyvéd által ellenjegyzett aláírásmintáját benyújtja a kezelő szerv részére.
 
 [^1]: Az 5. § (3) bekezdés b) pontja a 36/2017. (X. 31.) NGM rendelet 2. §-ával megállapított szöveg.
-[^2]: Az 5. § (8) bekezdés b) pontja a 36/2017. (X. 31.) NGM rendelet 3. §-ával megállapított szöveg.
+[^2]: Az 5. § (7a) bekezdését az 5/2018. (VI. 29.) PM rendelet 3. §-a iktatta be.
+[^3]: Az 5. § (8) bekezdés b) pontja a 36/2017. (X. 31.) NGM rendelet 3. §-ával megállapított szöveg.
