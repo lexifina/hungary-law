@@ -1,0 +1,9 @@
+# 2/2018. (VI. 22.) AM rendelet
+
+a cukorágazat szabályozásának egyes kérdéseiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-2-20-7R
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-06-30 | 2018-2-20-7R.1 | 2/2018. (VI. 22.) AM rendelet |

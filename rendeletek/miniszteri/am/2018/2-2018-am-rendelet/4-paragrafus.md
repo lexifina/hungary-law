@@ -1,0 +1,5 @@
+4. § (1) A jelentéseket a Kincstár részére az általa erre a célra létrehozott elektronikus felületen keresztül kell ügyfélkapus azonosítással benyújtani. E rendelet alapján a Kincstár részére teljesített adatszolgáltatások alapján a Bizottság részére a jelentéseket a Kincstár küldi meg.
+
+(2) A jelentéseket az AKI részére az általa üzemeltetett központi elektronikus rendszeren keresztül kell benyújtani. Ha technikai okok miatt az elektronikus rendszeren keresztül nincs lehetőség adatszolgáltatásra, akkor az AKI által rendszeresített és a honlapján közzétett adatlap kitöltésével és az adatlapon feltüntetett telefaxszámra történő elküldésével kell teljesíteni az adatszolgáltatást. E rendelet alapján az AKI részére teljesített adatszolgáltatások alapján a Bizottság részére a jelentéseket az AKI küldi meg.
+
+(3) A közösségi jogszabályok alapján a Bizottságnak továbbított adatokhoz a Kincstár hozzáférést biztosít a minisztériumnak. Az adatokat a Kincstár, az AKI és a minisztérium kezeli, azok kizárólag a cukorágazat piacszabályozása körében használhatóak fel.
