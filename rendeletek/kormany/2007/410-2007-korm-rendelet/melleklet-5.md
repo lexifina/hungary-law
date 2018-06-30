@@ -20,6 +20,6 @@
 
 | 4. | A tengelysúlymérő rendszer keretében végzett mérés eredménye befolyásolásának tilalmára vonatkozó rendelkezések megsértése esetén. | 100 000 | a közúti közlekedésről szóló 1988. évi I. törvény 21/K. § (1a) bekezdés | üzemben tartó |
 
-5. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^59]
+5. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^61]
 
-[^59]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 3. § (9) bekezdésével megállapított, a 10. § (4) bekezdése szerint módosított szöveg.
+[^61]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 3. § (9) bekezdésével megállapított, a 10. § (4) bekezdése szerint módosított szöveg.
