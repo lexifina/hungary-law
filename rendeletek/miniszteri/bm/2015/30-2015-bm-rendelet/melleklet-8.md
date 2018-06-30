@@ -96,7 +96,7 @@
 
 | 4. | C | segédelőadó | 100 | 100 |
 
-## B) A rendészeti szakközépiskolák szolgálati beosztásai
+## B) A rendészeti szakgimnáziumok szolgálati beosztásai
 
 ## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
@@ -168,7 +168,7 @@
 
 ## D)
 
-8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^14]
+8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^15]
 
 ## A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, azok besorolási kategóriája
 
@@ -262,4 +262,4 @@ II. Oktatói, nevelői és képzést támogató beosztások
 
 III. Kiképzői beosztások
 
-[^14]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a, az 55/2016. (XII. 22.) BM rendelet 10. §-a szerint módosított szöveg.
+[^15]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a, az 55/2016. (XII. 22.) BM rendelet 10. §-a szerint módosított szöveg.

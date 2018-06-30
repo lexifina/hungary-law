@@ -54,6 +54,8 @@
 
 | 10. | ügyeletvezető | 500 |  |
 
+| 10a. | főorvos |  | 400 |
+
 | 11. | C | biztonsági főtiszt | 650 |  |
 
 | 12. | főmérnök | 650 |  |
@@ -148,7 +150,7 @@
 
 ## 500** A TEK Ügyeleti és Objektumvédelmi Igazgatóságon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 500%.
 
-5. melléklet a 30/2015. (VI. 16.) BM rendelethez[^11]
+5. melléklet a 30/2015. (VI. 16.) BM rendelethez[^12]
 
 ## A hivatásos katasztrófavédelmi szerv szolgálati beosztásai
 
@@ -342,4 +344,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^11]: Az 5. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § d) pontja, a 40/2017. (XII. 29.) BM rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^12]: Az 5. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § d) pontja, a 40/2017. (XII. 29.) BM rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.

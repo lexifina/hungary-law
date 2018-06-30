@@ -6,9 +6,9 @@ a)[^2] a Belügyminisztériumnál: 170 fő,
 
 b)[^3]
 
-c) a rendészeti szakközépiskoláknál: 250 fő,
+c)[^4] a rendészeti szakgimnáziumoknál: 250 fő,
 
-d)–e)[^4]
+d)–e)[^5]
 
 ## lehet.
 
@@ -16,4 +16,5 @@ d)–e)[^4]
 
 [^2]: A 8. § (2) bekezdés a) pontja a 37/2016. (IX. 1.) BM rendelet 17. § (2) bekezdése szerint módosított szöveg.
 [^3]: A 8. § (2) bekezdés b) pontját a 29/2016. (VII. 15.) BM rendelet 38. § a) pontja hatályon kívül helyezte.
-[^4]: A 8. § (2) bekezdés d)–e) pontját a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^4]: A 8. § (2) bekezdés c) pontja a 20/2018. (VI. 29.) BM rendelet 5. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 8. § (2) bekezdés d)–e) pontját a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés a) pontja hatályon kívül helyezte.
