@@ -12,7 +12,7 @@ c) a KÁT mérlegkör működtetéséhez kötődő pénzforgalmi szaldóját.
 
 (3) A KÁT pénzeszköz mértékének meghatározása során a Befogadó a következő tételeket köteles előjelhelyesen figyelembe venni:
 
-a)[^2] a KÁT termelőnek a kereskedelmi szabályzatban meghatározott elszámolási mérési adatok előzetes szolgáltatása és a vonatkozó Korm. rendelet alapján kalkulált tárgyhavi tény termelése zónaidőnkénti bontásban és a vonatkozó kormányrendeletben meghatározott, a KÁT termelőre vonatkozó hatósági ár szorzatainak összegét;
+a)[^3] a KÁT termelőnek a kereskedelmi szabályzatban meghatározott elszámolási mérési adatok előzetes szolgáltatása és a vonatkozó Korm. rendelet alapján kalkulált tárgyhavi tény termelése zónaidőnkénti bontásban és a vonatkozó kormányrendeletben meghatározott, a KÁT termelőre vonatkozó hatósági ár szorzatainak összegét;
 
 b) a KÁT termelőtől tárgyhónapban befolyt pótdíjak, valamint a jogosulatlanul értékesített villamos energia után fizetett visszatérítések összegét;
 
@@ -30,4 +30,4 @@ h) a tárgyhónapot megelőző termelési időszak a) és c) pont szerint meghat
 
 i) a tárgyhónapot megelőző termelési időszakban a KÁT és Prémium pénzeszköz fizetésére kötelezettek tény értékesítési adatának módosulása miatti, a KÁT pénzeszköz korábban megfizetett összegének még figyelembe nem vett módosulásai szerint befolyó többletbevételeket vagy visszatérítéseket.
 
-[^2]: Az 5. § (3) bekezdés a) pontja a 43/2017. (XI. 8.) NFM rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 5. § (3) bekezdés a) pontja a 43/2017. (XI. 8.) NFM rendelet 29. § (1) bekezdésével megállapított szöveg.

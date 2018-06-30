@@ -6,6 +6,6 @@
 
 (3) A Befogadó – a KÁT mérlegkör költségeinek csökkentése érdekében – jogosult limitárakat meghatározni arra az esetre, ha a kötelező átvétel alá eső villamos energiára vonatkozóan a szervezett villamosenergia-piacon történő ügyletkötéséből származó hátrány meghaladná az ügyletkötésből származó előnyöket. A limitárak mértékét a kereskedelmi szabályzat határozza meg.
 
-(4)[^3] A KÁT hatálya alá tartozó villamos energiára vonatkozó szervezett villamosenergia-piacon történő ügyletkötés részletes szabályait a kereskedelmi szabályzat tartalmazza, azzal a kivétellel, hogy a Befogadó által a napon belüli piacon alkalmazott kereskedési és limitár-meghatározási logikát a Hivatal külön hagyja jóvá, a piaci szereplők részére nem tehető közzé. A kereskedési és limitár-meghatározási logika jóváhagyására a Hivatal a kereskedelmi szabályzat jóváhagyására vonatkozó szabályokat alkalmazza.
+(4)[^4] A KÁT hatálya alá tartozó villamos energiára vonatkozó szervezett villamosenergia-piacon történő ügyletkötés részletes szabályait a kereskedelmi szabályzat tartalmazza, azzal a kivétellel, hogy a Befogadó által a napon belüli piacon alkalmazott kereskedési és limitár-meghatározási logikát a Hivatal külön hagyja jóvá, a piaci szereplők részére nem tehető közzé. A kereskedési és limitár-meghatározási logika jóváhagyására a Hivatal a kereskedelmi szabályzat jóváhagyására vonatkozó szabályokat alkalmazza.
 
-[^3]: A 7. § (4) bekezdése a 43/2017. (XI. 8.) NFM rendelet 30. §-ával megállapított szöveg.
+[^4]: A 7. § (4) bekezdése a 43/2017. (XI. 8.) NFM rendelet 30. §-ával megállapított szöveg.

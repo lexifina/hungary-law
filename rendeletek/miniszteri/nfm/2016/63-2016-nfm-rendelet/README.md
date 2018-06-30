@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-63-20-2
 | --- | --- | --- |
 | 2017-01-01 | 2016-63-20-2W.1 | 63/2016. (XII. 28.) NFM rendelet |
 | 2017-11-09 | 2016-63-20-2W.2 | 43/2017. (XI. 8.) NFM rendelet |
+| 2018-06-30 | 2016-63-20-2W.3 | 43/2017. (XI. 8.) NFM rendelet |
