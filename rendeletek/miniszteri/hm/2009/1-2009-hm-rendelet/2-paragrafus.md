@@ -1,47 +1,51 @@
-## 2. § E rendelet alkalmazásában:
+## 2. §[^3] E rendelet alkalmazásában
 
-a) alkalmazó: a HM azon szervének vezetője, aki felelős a beszerzésre, rendszeresítésre tervezett hadfelszerelési anyaggal, katonai védőeszközzel szemben támasztott – a rendszeresítésért, és az üzemeltetésért felelőssel egyeztetett – hadműveleti, harcászati és műszaki követelmények (a továbbiakban: HMK) meghatározásáért, az alkalmazási elvek tervezéséért, a kiképzési, hadműveleti-harcászati alkalmazás irányításáért;
+1. alkalmazó: a HM azon szervének vezetője, aki felelős a beszerzésre, rendszeresítésre tervezett hadfelszereléssel, katonai védőeszközzel szemben támasztott – a rendszeresítésért és az üzemeltetésért felelőssel egyeztetett – hadműveleti, harcászati és műszaki követelmények (a továbbiakban: HMK) meghatározásáért, az alkalmazási elvek tervezéséért, a kiképzési, hadműveleti-harcászati alkalmazás irányításáért,
 
-b)[^3] állományilletékes parancsnok: a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet (a továbbiakban: Hjtvhr.) 3. §-ában ekként meghatározott személy,
+2. állományilletékes parancsnok: az MH önálló állománytáblával vagy munkaköri jegyzékkel rendelkező szervezetét, valamint – ha azt a szervezet alapító okirata rögzíti – a más helyőrségben települt kikülönített alegységeket közvetlenül vezető parancsnok, vezető, a HM tekintetében a szakirányításra jogosult vezető, aki gyakorolja mindazon munkáltatói jogokat, és teljesíti azokat az Mvt. szerinti kötelezettségeket, amelyeket jogszabály nem határoz meg más parancsnok, vezető részére,
 
-c) befogadó honvédelmi szervezet: az MH létesítményben (közös laktanyai elhelyezésben) települt több honvédelmi szervezet közül – a honvédelmi szervezetek közös elöljárója által kijelölt – a laktanya (objektum) parancsnoki feladatok ellátására kötelezett honvédelmi szervezet;
+3. befogadó honvédelmi szervezet: összevont laktanyai elhelyezés esetén az ugyanazon MH létesítményt használó, több honvédelmi szervezet közül a laktanya-gazdálkodási jogkört gyakorló honvédelmi szervezet,
 
-d) csapatpróba: olyan vizsgálat, amely annak megállapítására irányul, hogy a rendszeresítésre tervezett hadfelszerelési anyag megfelel-e a tervezett szolgálati feladatok szerinti alkalmazási követelményeknek;
+4. csapatpróba: olyan vizsgálat, amely annak megállapítására irányul, hogy a rendszeresítésre tervezett hadfelszerelés megfelel-e a tervezett szolgálati feladatok szerinti alkalmazási követelményeknek,
 
-e) egyéni védőeszköz: az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 18/2008. (XII. 3.) SZMM rendelet 2. § (1) bekezdésében meghatározott védőeszköz;
+5. egyéni védőeszköz: az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2016/425 európai parlamenti és tanácsi (EU) rendelet I. Fejezet 3. cikk 1. pontjában meghatározott védőeszköz,
 
-f)[^4] elöljáró parancsnok: a Hjtvhr. 1. § 3. pontjában ekként meghatározott fogalom,
+6. elöljáró parancsnok: az MH hadrendje szerint közös parancsnokság szolgálati alárendeltségébe tartozó katonai szervezeteket irányító középszintű vezető szerv vagy az MH Katonai Képviselő Hivatalának vezetője kivételével más magasabb szintű parancsnokság élén álló parancsnok azzal, hogy azon honvédelmi szervezetek vonatkozásában, melyeknél az állományilletékes parancsnok egyidejűleg elöljáró parancsnok is, az e rendeletben az elöljáró parancsnok részére meghatározott munkavédelmi feladatok ellátása a HM szakirányításra jogosult vezetője útján valósul meg,
 
-g) hadfelszerelési anyag: a honvédelmi szervezetek tevékenységéhez szükséges valamennyi anyag és felszerelési tárgy, amelyet az ipar és a kereskedelem kifejezetten katonai célokra gyárt, illetve szállít, továbbá polgári kereskedelmi forgalomba nem, vagy csak külön engedéllyel kerülhet és beszerzését külön jogszabály szabályozza;
+7. gazdálkodó szervezetek: az 1. § (1) bekezdés f) és g) pontja szerinti szervezetek,
 
-h) haditechnikai ellenőrző vizsgálat: olyan vizsgálat, amely annak megállapítására irányul, hogy az alkalmazó által meghatározott, és szerződésben rögzített HMK-nak a rendszeresítésre tervezett hadfelszerelési anyag megfelel-e;
+8. hadfelszerelés: a honvédelmi szervezetek tevékenységéhez szükséges valamennyi olyan termék, amelyet az ipar és a kereskedelem katonai célokra gyárt vagy szállít, beszerzését jogszabály szabályozza, és polgári kereskedelmi forgalomba nem, vagy csak külön engedéllyel kerülhet,
 
-i) haditechnikai eszköz: a hadfelszerelési anyagok részét képező, a honvédelmi szervezet állománytáblájában (munkaköri jegyzékében) szükségletként előírt katonai rendeltetésű eszköz, amely a felkészítéshez, kiképzéshez, a katonai műveletek végrehajtásához, támogatásához, kiszolgálásához szükséges;
+9. haditechnikai ellenőrző vizsgálat: olyan vizsgálat, amely annak megállapítására irányul, hogy az alkalmazó által meghatározott és szerződésben rögzített HMK-nak a rendszeresítésre tervezett hadfelszerelés megfelel-e,
 
-j)[^5] használó honvédelmi szervezet: honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 42. § (2) bekezdése alapján ingatlant használó honvédelmi szervezet;
+10. haditechnikai eszköz: a honvédelmi szervezet állománytáblájában (munkaköri jegyzékében) szükségletként előírt hadfelszerelés, katonai rendeltetésű eszköz, amely a felkészítéshez, kiképzéshez, a katonai műveletek végrehajtásához, támogatásához, kiszolgálásához szükséges,
 
-k) katonai védőeszköz: kizárólag, illetve elsődlegesen katonai célra kifejlesztett, gyártott, hazai, illetve külföldi forrásból beszerzett és külön eljárással rendszeresített, a veszélyforrás kiküszöbölésére vagy annak károsító hatása csökkentésére szolgáló, a személyi állomány szolgálati, kiképzési feladatainak ellátásához használt, alkalmazott egyéni vagy kollektív védő funkciójú felszerelés, hadfelszerelési anyag, tárgy, eszköz (a honvédségi tűzoltó alegységek védőfelszerelésének a kivételével);
+11. használó honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 42. § (2) bekezdése alapján ingatlant használó honvédelmi szervezet,
 
-l) kötött szolgálati és munkahely: az a kijelölt szolgálati vagy munkahely (terület, körlet, útvonal), amelyet az oda beosztott, vezényelt személy, kizárólag szolgálati elöljárója vagy az adott tevékenységet közvetlenül irányító személy, munkahelyi vezető engedélyével, illetőleg a váltás végrehajtását követően hagyhat el;
+12. honvédelmi szervezetek: az 1. § (1) bekezdés a)–e) pontja szerinti szervezetek,
 
-m)[^6] munkavédelmi hatóság: a munkavédelmi hatósági feladatokat ellátó egyes szervek kijelöléséről szóló 373/2011. (XII. 31.) Korm. rendelet 3. §-ában kijelölt személyek (szervezet), akik a Magyar Honvédség, valamint a Katonai Nemzetbiztonsági Szolgálat vonatkozásában munkabiztonsági, illetve munkaegészségügyi hatósági hatáskört látnak el;
+13. katonai védőeszköz: kizárólag, illetve elsődlegesen katonai célra kifejlesztett, gyártott, hazai, illetve külföldi forrásból beszerzett és külön eljárással rendszeresített, a veszélyforrás kiküszöbölésére vagy annak károsító hatása csökkentésére szolgáló, a személyi állomány szolgálati, kiképzési feladatainak ellátásához használt, alkalmazott egyéni vagy kollektív védő funkciójú felszerelés, hadfelszerelés, tárgy, eszköz (a honvédségi tűzoltó alegységek védőfelszerelésének a kivételével),
 
-n)[^7] rendkívüli munkavégzési körülmények: minden olyan helyzetben történő szolgálatteljesítés, munkavégzés, amelyben az adott tevékenység végrehajtása az általánosan jellemző körülményektől, veszélyhelyzettől, ismert veszélyforrások hatóképességétől eltérő körülmények – így különösen a Hvt. 36. § (1) és (2) bekezdésében meghatározott feladatok ellátása, a Hvt. 80. §-a szerinti alkalmazás, állomásozás, békefenntartás, külföldi területen végzett humanitárius és (had)műveleti területen végzett tevékenység, továbbá mentési, műszaki mentési, veszélyes anyag kárelhárítási, katasztrófa- és kárelhárítási tevékenység, közvetlen baleseti veszély elhárítása, ismeretlen veszélyforrás esetében történő beavatkozás – között történik;
+14. kötött szolgálatteljesítési és munkahely: az a kijelölt szolgálatteljesítési vagy munkahely (terület, körlet, útvonal), amelyet az oda beosztott, vezényelt személy a szolgálati elöljáró, vagy az adott tevékenységet közvetlenül irányító személy, munkahelyi vezető engedélyével, illetve a váltás végrehajtását követően hagyhat el,
 
-o) rendszeresítés: olyan szabályozott eljárás, amelynek eredményeként a munkaeszköz, hadfelszerelési anyag, katonai védőeszköz felvételre kerül az MH rendszerébe;
+15. laktanya- vagy objektumparancsnok: összevont laktanyai elhelyezés esetén az MH létesítményben ingatlant használó honvédelmi szervezetek közül a laktanya- vagy objektumparancsnoki feladatok ellátására kijelölt parancsnok, vezető,
 
-p) rendszeresítésért felelős: a HM felső szintű logisztikai gazdálkodása irányításáért, valamint szakmai felelősként a termelői logisztikai feladatokért felelős szervezetének vezetője;
+16. munkavállaló: a honvédelmi szervezetnél tényleges szolgálatot teljesítő katona, valamint a foglalkoztatott kormánytisztviselő, kormányzati ügykezelő, közalkalmazott és a munka törvénykönyvének hatálya alá tartozó személy,
 
-q) üzembe helyezés: az a munkavédelmi eljárás, amelynek keretében az állományilletékes parancsnok meggyőződik arról, hogy az MH létesítmény, technológia, munkahely, rendszeresített hadfelszerelési anyag a munkavédelmi követelményeket a tervezett használati körülmények között kielégíti, és annak használatát – dokumentált módon – elrendeli;
+17. munkavédelmi hatóság: a katonai munkavédelmi hatóság kijelöléséről, valamint sajátos feladatairól és hatásköreinek ellátásáról szóló 502/2017. (XII. 29.) Korm. rendelet 2. §-a szerint kijelölt hatóság,
 
-r) üzemelés-biztonsági terv: az építési engedélyezési eljárásokhoz kötött beruházások esetén az engedélyezési tervdokumentáció kötelező része;
+18. rendkívüli munkavégzési körülmények: minden olyan helyzetben történő szolgálatteljesítés, munkavégzés, amelyben az adott tevékenység végrehajtása az általánosan jellemző körülményektől, veszélyhelyzettől, ismert veszélyforrások hatóképességétől eltérő körülmények között történik,
 
-s) veszélyes haditechnikai eszköz: olyan haditechnikai eszköz, amely használata során az állomány egészsége, testi épsége – megfelelő védelem hiányában – károsító hatásnak lehet kitéve;
+19. rendszeresítés: olyan szabályozott eljárás, amelynek eredményeként a munkaeszköz, hadfelszerelés, katonai védőeszköz felvételre kerül az MH rendszerébe,
 
-t) üzemeltetésért felelős: az építmények, munkahelyek vonatkozásában az üzemeltetési és fenntartási tevékenység ellenőrzéséért felelős honvédelmi szervezet vezetője, a munkaeszközök, hadfelszerelési anyagok és a katonai védőeszközök vonatkozásában az MH fogyasztói logisztikai feladatai ellátásáért felelős honvédelmi szervezet vezetője.
+20. rendszeresítésért felelős: a hadfelszerelés rendszerbe kerülésének és rendszeresítésének kezdeményezéséért, valamint a kezdeményezésre vonatkozó javaslat kidolgozásáért felelős HM szerv,
 
-[^3]: A 2. § b) pontja a 19/2015. (XII. 22.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § f) pontja a 19/2015. (XII. 22.) HM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^5]: A 2. § j) pontja a 23/2012. (XII. 18.) HM rendelet 67. § d) pontja szerint módosított szöveg.
-[^6]: A 2. § m) pontja a 23/2012. (XII. 18.) HM rendelet 67. § e) és f) pontja szerint módosított szöveg.
-[^7]: A 2. § n) pontja a 23/2012. (XII. 18.) HM rendelet 67. § g) pontja szerint módosított szöveg.
+21. üzembe helyezés: az a munkavédelmi eljárás, amelynek keretében az állományilletékes parancsnok meggyőződik arról, hogy az MH létesítmény, technológia, munkahely, rendszeresített hadfelszerelés, veszélyes munkaeszköz a munkavédelmi követelményeket a tervezett használati körülmények között kielégíti, és annak használatát – dokumentált módon – elrendeli,
+
+22. üzemelés-biztonsági terv: az építési engedélyezési eljárásokhoz kötött beruházások esetén az engedélyezési tervdokumentáció kötelező része,
+
+23. üzemeltetésért felelős: a hadfelszerelés, a központi ellátás körébe tartozó munkaeszköz, a tábori elhelyezési eszköz és a katonai védőeszköz használatának, technikai kiszolgálásának, valamint felülvizsgálati rendjének meghatározására kijelölt szakmai felelős,
+
+24. veszélyes haditechnikai eszköz: olyan haditechnikai eszköz, amely használata során az állomány egészsége, testi épsége – megfelelő védelem hiányában – károsító hatásnak lehet kitéve.
+
+[^3]: A 2. § a 9/2018. (VI. 29.) HM rendelet 2. §-ával megállapított szöveg.

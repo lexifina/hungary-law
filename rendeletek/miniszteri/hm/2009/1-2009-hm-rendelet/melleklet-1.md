@@ -10,7 +10,7 @@
 
 2.2. A beosztott parancsnokok, munkahelyi vezetők munkavédelemmel kapcsolatos feladat- és hatásköre.
 
-2.3.[^22] A munkavédelmi feladatok ellátásáért felelősök feladat- és hatásköre.
+2.3.[^52] A munkavédelmi feladatok ellátásáért felelősök feladat- és hatásköre.
 
 2.4. A munkáltatói munkavédelmi szabályozás tartalma.
 
@@ -84,10 +84,11 @@
 
 7.7. Balesetek, foglalkozási megbetegedések, fokozott expozíciós esetek.
 
-7.8. MH létesítmények, építmények, munkaeszközök, hadfelszerelési anyagok üzembe helyezése.
+7.8.[^53] MH létesítmények, építmények, munkaeszközök, hadfelszerelés üzembe helyezése.
 
 8. Záró rendelkezések
 
 9. Mellékletek, függelékek
 
-[^22]: Az 1. melléklet 2. pont 2.3. alpontja a 19/2015. (XII. 22.) HM rendelet 3. § c) pontja szerint módosított szöveg.
+[^52]: Az 1. melléklet 2. pont 2.3. alpontja a 19/2015. (XII. 22.) HM rendelet 3. § c) pontja szerint módosított szöveg.
+[^53]: Az 1. melléklet 7. pont 7.8. alpontja a 9/2018. (VI. 29.) HM rendelet 7. § a) pontja szerint módosított szöveg.
