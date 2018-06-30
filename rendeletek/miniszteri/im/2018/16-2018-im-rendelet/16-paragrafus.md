@@ -1,0 +1,5 @@
+## 15. §[^6]
+
+## 7. A jogi segítségnyújtás keretében igénybe vehető támogatások iránti kérelem tartalmára és a támogatások igénybevételére vonatkozó részletes szabályokról szóló 28/2017. (XII. 27.) IM rendelet módosítása
+
+[^6]: A 15. § a 19. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
