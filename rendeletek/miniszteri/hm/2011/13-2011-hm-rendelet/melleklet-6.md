@@ -80,40 +80,6 @@
 
 ## Ügyintéző (🕿)
 
-6. melléklet a 13/2011. (X. 20.) HM rendelethez
+6. melléklet a 13/2011. (X. 20.) HM rendelethez[^7]
 
-Kárigény előterjesztése
-
-(a munkavállaló részéről)
-
-| ................................................................. |  |
-
-| (katonai szervezet) |  |
-
-| ................................................................. |  |
-
-A 20...... ........................ hó ...... napján kelt ................................... Nyt. számú felhívására, a
-
-....................................................történt balesetemmel kapcsolatban kártérítési igényemet a következők szerint terjesztem elő:
-
-1. Kártérítési igényem a következő:
-
-a) Vagyoni kár:
-
-– elmaradt jövedelem:
-
-– dologi kár:
-
-– indokolt költség:
-
-b) Nem vagyoni kár: ......................................................................................., melyet a következő körülmények támasztanak alá:
-
-2. Bejelentem, hogy a fenti eseményekkel kapcsolatban várhatóan további károk bekövetkezése várható, a következőkre tekintettel:
-
-A fentiek bizonyítására mellékelten csatolom:
-
-Kelt: ....................... 20...... ............... hó .... nap
-
-.......................................................
-
-munkavállaló
+[^7]: A 6. mellékletet a 9/2018. (VI. 29.) HM rendelet 11. §-a hatályon kívül helyezte.

@@ -28,347 +28,567 @@
 
 | A bejelentés módjai: |
 
-3. melléklet a 13/2011. (X. 20.) HM rendelethez[^3]
+3. melléklet a 13/2011. (X. 20.) HM rendelethez[^5]
 
-Nyt. szám:
+Nyt. szám: sorszám
 
 HONVÉDELMI BALESETI JEGYZŐKÖNYV
 
-| (A) A honvédelmi szervezet adatai. | .számú példány |
+. sz. példány
+
+| (A) A honvédelmi szervezet adatai |  |
 
 | 1. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Megnevezése:.......................................................................................................................................................................................... |
+| Megnevezése: .......................................................................................................................................................................................... |
 
-| Székhelye:............................................................................................. | Szervezet kódja: |  |  |  |  |  |  |  |
+| Székhelye: ............................................................................................. | Szervezet kódja: |  |  |  |  |  |  |  |
 
 | Összlétszám kategória: |  |  | Adatszolgáltatás jellege: |  |  |  |  | Helyi egység létszám kategória: |  |  |
 
 | 2. | Címe: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| ................................................................................................ | Telefon:............................................. | HM:......................... |  |
+| ............................................................................................ | Telefon: .......................................... | HM: ....................... |  |
 
-| ................................................................................................ | Fax:..................................................... | HM:......................... |  |
+| ............................................................................................ | Fax: .................................................. | HM: ....................... |  |
 
-| ................................................................................................ | E-mail:.................................................................................... |  |
+| ............................................................................................ | E-mail: ............................................................................... |  |
 
 | (B) A sérült (munkavállaló) adatai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 3. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Neve, rendfokozata, állománykategóriája:......................................................................................................................... |  |  |  |
+| Neve, rendfokozata, állománykategóriája: ..........................................................................................................……. |  |  |  |
 
-| Születési neve:............................................................................ | Anyja neve:................................................................................... |  |
+| Születési neve: ....................................................................…. | Anyja neve: ........................................................................….. |  |
 
-| Beosztása (munkaköre):.......................................................................................................................................................................... |  |
+| Beosztása (munkaköre): .....................................................................................................................................................……… |  |
 
-| Tajszám: |  |  |  |  |  |  |  |  |  |  |
+| TAJ szám: |  |  |  |  |  |  |  |  |  |  |
 
-| Születési helye, ideje:....................................................................................................... |  |  |  |  |  |  |  |  |  |
+| Születési helye, ideje: .......................................................................................... |  |  |  |  |  |  |  |  |  |
 
-| Lakcím:.......................................................................................................................................................... | Irsz: |  |  |  |  |  |
+| Lakcím: ......................................................................................................................................... | Irsz: |  |  |  |  |  |
 
-| Levelezési cím:............................................................................................................................................ | Irsz: |  |  |  |  |  |
+| Levelezési cím: ............................................................................................................................. | Irsz: |  |  |  |  |  |
 
-| 4. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Elektronikus elérhetőség: ………………………………………………………………………. |  |  |
 
-| A balesetkor végzett tevékenység/feladat ellátásához előírt szakképzettség, illetve ennek megléte, gyakorlati ideje: | A baleset körülményeinek meghatározása |  |  |  |  |  |  |
+| 4. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| .................................................................... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| A balesetkor végzett tevékenység/feladat ellátásához előírt szakképzettség, illetve ennek megléte, gyakorlati ideje: |  | A baleset körülményeinek meghatározása: |  |  |  |  |  |  |
 
-| (C) A honvédelmi baleset részletes leírása |  |  |  |  |  |  |  |  |  |  |  |
+| ……………………………………… |  |  |  |  |  | …………………………………………… |  |  |  |
 
-| 5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| (C) A baleset időpontja és részletes leírása |  |  |  |  |  |  |  |  |  |  |  |
 
-| (a baleset leírása, fénykép, helyszinrajz, tanumeghallgatási jegyzőkönyv külön lapon is csatolható) |  | Baleset jellege: |  |  |
+| 5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| (D) A honvédelmi baleset adatai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| A baleset időpontja (év, hónap, nap, óra, perc, hét napja): |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 6. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A sérülés időpontja, időjellemzője: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| (a baleset leírása, fénykép, helyszínrajz, tanúmeghallgatási jegyzőkönyv külön lapon is csatolható) | Baleset jellege: |  |  |
+
+| (D) A baleset adatai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 7. |  |  |
 
-| A baleset helye:...................................................................................................................................................................... |  |  |  |
+| A baleset helye: ..................................................................................................................................................... |  |  |  |
 
 | 8. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A sérülés megnevezése (magyarul), BNO kódja:............................................................................................. |  |  |  |  |  |
+| A sérülés megnevezése (magyarul), BNO kódja: ……………………………………………….………… |  |  |  |  |  |
 
-| A baleset súlyossága: |  |  |  |  |  |  |  |  |  |  |
+| A sérült testrész: ……………………………………………………………………………….…….. |  |  |  |  |  |  |
 
-| Munkaképtelenség időtartama (nap): |  |  |  | Szolgálatképességcsökkenés időtartama (nap): |  |  |  |  |
+| A baleset súlyossága: ……………………………………………………..…………………………. |  |  |  |  |  |  |
 
-| (E) A honvédelmi balesettel kapcsolatos egyéb információk |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Munkaképtelenség időtartama (nap): |  |  |  |  | Szolgálatképesség-csökkenés időtartama (nap): |  |  |  |  |
+
+| (E) A balesettel kapcsolatos egyéb információk |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 9. |  |  |  |  |  |  |  |  |  |
 
-| A baleset fajtája:................................................................................................................................... |  |  |  |
+| A baleset fajtája: ................................................................................................................................... |  |  |  |
 
 | 10. |  |  |  |  |  |  |  |  |  |
 
-| A sérült tevékenysége a baleset idején:..................................................................................................... |  |  |  |
+| A sérült tevékenysége a baleset idején: ..................................................................................................... |  |  |  |
 
 | 11. |  |  |  |  |  |  |  |  |  |
 
-| A baleset fő, illetve elsődleges oka:.......................................................................................................... |  |  |  |
+| A baleset fő, illetve elsődleges oka: .......................................................................................................... |  |  |  |
 
 | 12. |  |  |  |  |  |  |  |  |  |  |
 
-| A baleset további okai:............................................................................................................................ |  |  |  |
+| A baleset további okai: ............................................................................................................................ |  |  |  |
 
 | 13. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A baleset eszköze:............................................ |  |  | A baleset természete:....................................... |  |  |  |
+| A baleset anyaga, eszköze: ....…….. .............. |  |  | A baleset természete: ....................................... |  |  |  |
 
 | 14. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A biztonsági- és jelzőberendezések, védőeszközök, egyéb védelmi megoldások alkalmassága |  |  | Védőburkolat: |  |  |
+| A biztonsági- és jelzőberendezések, védőeszközök, egyéb védelmi megoldások alkalmassága: |  | Védőburkolat: |  |  |
 
 | Védőberendezés: |  | Jelzőberendezés: |  | Egyéni védőeszk. |  | Katonai védőeszk. |  | Egyéb: |  |  |
 
-| 15. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 15. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A baleset idején végzett tevékenységre készült-e kockázatértékelés: |  |  |
+| Munkavédelmi képviselő: |  | * | * (1) Egyetért / (2) Nem ért egyet / (3) Nem vett részt / (4) Nincs |  |
 
-| A baleset fő, illetve elsődleges oka azonosított-e a kockázatértékelésben: |  |  |
+| Név, rendfokozat: ……………………………………………………………………….……………… |  |
+
+| Dátum: |  |  |  |  |  |  |  |  |  | Aláírás: ………………..………………………………………… |
 
 | 16. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Munkavédelmi képviselő |  | A kivizsgálással: (1) Egyetért / (2) Nem ért egyet / (3) Nem vett részt / (4) Nincs képviselő |  |
+| Egészségügyi szolgálat orvosa: |  |  | * |  | Pecsétszám: ……………… |  |  |  |  |  |  |  |  |
 
-| Név, rendfokozat:................................................................ | Dátum: |  |  |  |  |  |  |  |  |  |  |  |  |
+| Név, rendfokozat: ……………………………………………………. |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  |  |  |  |  |  |  | Aláírás:.................................................................................. |  |  |
+| Dátum: |  |  |  |  |  |  |  |  |  | Aláírás:……………………………………………………………. |
 
 | 17. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A balesetvizsgálatot végezte: | MV. képesítő irat száma:............................................................. |  |
+| A balesetvizsgálatot végezte: | MV. képesítő irat száma: ............................................................. |  |
 
-| Név, rendfokozat:................................................................ | Dátum: |  |  |  |  |  |  |  |  |  |  |  |  |
+| Név, rendfokozat: .......................................................... | Dátum: |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  | Aláírás:......................................................................................... |  |  |
+|  |  |  | Aláírás: .................................................................................. |  |  |
 
 | 18. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az állományilletékes parancsnok döntése és intézkedései: |  |  |  |  |  |  |  |  |  |  | Bélyegző helye |  |
 
-| Név, rendfokozat:................................................................ |  |  |  |  |  |  |  |  |  |  |  |
+| Név, rendfokozat: .......................................................... |  |  |  |  |  |  |  |  |  |  |  |
 
-| Dátum: |  |  |  |  |  |  |  |  |  | Aláírás:........................................................................................... |  |
+| Dátum: |  |  |  |  |  |  |  |  |  | Aláírás: ......................................................................................... |  |
 
 | Készült: | példányban |  |  |  |  |  |  |  | Felügyelői észrevételek, intézkedés: |  |
 
 | Egy példány: |  | lap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Ügyintéző (🕿):............................................................................... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ügyintéző (🕿): ........................................................................ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| Kapják: | 1. számú példány:.......................................................... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Kapják: | 1. számú példány: ................................................. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | 2. számú példány:.......................................................... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 2. számú példány: ................................................. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | 3. számú példány:.......................................................... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 3. számú példány: ................................................. |  | Dátum: | Dátum: |  |
 
-|  |  | 4. számú példány:.......................................................... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 4. számú példány: ................................................. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | 5. számú példány:.......................................................... |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | rögzítette |  |  | ellenőrizte |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ellenőrizte, rögzítette |  |  | látta |  |  |
 
 KITÖLTÉSI ÚTMUTATÓ
 
 A HONVÉDELMI BALESETI JEGYZŐKÖNYVHÖZ
 
-A nyomtatvány valamennyi, szöveges rovatát számítógéppel vagy nyomtatott betűvel kell kitölteni.
+A nyomtatvány valamennyi szöveges rovatát számítógéppel vagy nyomtatott betűvel kell kitölteni.
 
-A baleseti jegyzőkönyvet gyűjtőívben kell nyilvántartani és nyilvántartási számmal ellátni.
+A honvédelmi baleseti jegyzőkönyvet gyűjtőívben kell nyilvántartani, és nyilvántartási számmal kell ellátni.
 
-A jegyzőkönyv jobb felső sarkában a példányszámot fel kell tüntetni.
+A honvédelmi baleseti jegyzőkönyv jobb felső sarkában a példányszámot fel kell tüntetni.
 
 (A)
 
 A honvédelmi szervezet adatai
 
-1. Katonai szervezet megnevezése, székhelye: a honvédelmi szervezet alapító okiratában szereplő adatok alkalmazásával kell kitölteni.
+1. Megnevezése, székhelye: a honvédelmi szervezet alapító okiratában, a gazdasági társaság cégbírósági bejegyzésében szereplő adatok alkalmazásával kell kitölteni.
 
-Adatszolgáltatás jellege: rovatba alapértelmezésben az 1 szám kerül.
+Adatszolgáltatás jellege: a rovatba alapértelmezésben az 1-es szám kerül.
 
-Amennyiben a balesettel kapcsolatban új adatok, tények merülnek fel, vagy a meglévő adatokban bármilyen változás áll be, úgy a honvédelmi baleseti jegyzőkönyvet kiegészíteni, módosítani kell. Ebben az esetben az adatszolgáltatás jellege rovatba a 2-es szám kerül. A módosított jegyzőkönyvön csak az 1. pontot és a módosítással érintett pontot kell kitölteni. A módosítást a 17-es pontban az állományilletékes parancsnok aláírásával és bélyegzőlenyomatával igazolja.
+Ha a balesettel kapcsolatban új adat, tény merül fel, illetve a meglévő adatokban bármilyen változás áll be, a honvédelmi baleseti jegyzőkönyvet kiegészíteni, módosítani kell. Ebben az esetben az adatszolgáltatás jellege rovatba a 2-es szám kerül. A módosított honvédelmi baleseti jegyzőkönyvön az 1-3. pontot és a módosítással érintett pontot kell kitölteni. A módosított honvédelmi baleseti jegyzőkönyvön a baleset részletes leírása rovatban kell jelölni, hogy mely rovatok változtak és milyen okból. A módosítást a 18. pontban az állományilletékes parancsnok az aláírásával és bélyegzőlenyomatával igazolja.
 
-Szervezet kódja: a munkabiztonsági hatóság által kiadott szervezetekre vonatkozó 6 számjegyű kódot kell beírni.
+Szervezet kódja: a munkavédelmi hatóság által kiadott, a honvédelmi szervezetekre vonatkozó 6 számjegyű kódot kell feltüntetni.
 
-| Összlétszám kategória: |  | Helyi egység létszám kategória: |
+|  | Összlétszám kategória: |  | Helyi egység létszám kategória: |
 
-| 1–100 főig | 1 |  | 1–100 főig | 1 |
+|  | 1–100 főig | 1 |  | 1–100 főig | 1 |
 
-| 101–500 főig | 2 |  | 101–500 főig | 2 |
+|  | 101–500 főig | 2 |  | 101–500 főig | 2 |
 
-| 501–1000 főig | 3 |  | 501–1000 főig | 3 |
+|  | 501–1000 főig | 3 |  | 501–1000 főig | 3 |
 
-| 1001–2000 főig | 4 |  |  |  |
+|  | 1001–2000 főig | 4 |  | 1001–2000 főig | 4 |
 
-| 2001–3000 főig | 5 |  |  |  |
+|  | 2001–3000 főig | 5 |  | 2001–3000 főig | 5 |
 
-| 3000 főtől | 6 |  |  |  |
+|  | 3000 főtől | 6 |  | 3000 főtől | 6 |
 
-2. Címe, telefon, Fax, E-mail: a honvédelmi szervezet alapító okiratában szereplő adatok felhasználásával kell kitölteni.
+Összlétszám kategória: a honvédelmi szervezet állománytáblája alapján rendszeresített létszám szerinti besorolás.
+
+Helyi egység létszám kategória: a sérült vonatkozásában a legkisebb helyi egység létszáma szerinti besorolás.
+
+2. Címe, Telefon, Fax, E-mail: a honvédelmi szervezet alapító okiratában, a gazdasági társaság cégbírósági bejegyzésében szereplő adatok felhasználásával kell kitölteni.
 
 (B)
 
 A sérült (munkavállaló) adatai
 
-3. A sérült
+3. – Neve, rendfokozata, állománykategóriája
 
-– Neve, rendfokozata, állománykategóriája
+rendfokozat:
 
-| tábornok | 01 |  | kormánytisztviselő, közalkalmazott | 08 |
+|  | Kód | Megnevezés |
 
-| hivatásos tiszt | 02 |  | munkavégzésre irányuló jogviszonyban lévő | 09 |
+|  | 1 | rendfokozat nélkül |
 
-| hivatásos zászlós | 03 |  | hallgató (tisztjelölt) | 10 |
+|  | 11 | közkatona |
 
-| hivatásos tiszthelyettes | 04 |  | hallgató (tiszthelyettes jelölt) | 11 |
+|  | 12 | őrvezető |
 
-| szerződéses tiszt | 05 |  | önkéntes védelmi tartalékos, önkéntes területvédelmi tartalékos | 12 |
+|  | 13 | tizedes |
 
-| szerződéses tiszthelyettes | 06 |  | önkéntes műveleti tartalékos | 13 |
+|  | 14 | szakaszvezető |
 
-| szerződéses tisztes, honvéd | 07 |  | kiképzett tartalékos | 14 |
+|  | 21 | pályakezdő altiszt |
 
-– Születési neve: személyazonosításra szolgáló okmány alapján
+|  | 22 | őrmester |
+
+|  | 23 | törzsőrmester |
+
+|  | 24 | főtörzsőrmester |
+
+|  | 25 | zászlós |
+
+|  | 26 | törzszászlós |
+
+|  | 27 | főtörzszászlós |
+
+|  | 31 | pályakezdő tiszt |
+
+|  | 32 | hadnagy |
+
+|  | 33 | főhadnagy |
+
+|  | 34 | százados |
+
+|  | 35 | őrnagy |
+
+|  | 36 | alezredes |
+
+|  | 37 | ezredes |
+
+|  | 41 | dandártábornok |
+
+|  | 42 | vezérőrnagy |
+
+|  | 43 | altábornagy |
+
+|  | 44 | vezérezredes |
+
+|  | 51 | kormánytisztviselő |
+
+|  | 52 | kormányzati ügykezelő |
+
+|  | 53 | közalkalmazott |
+
+|  | 61 | közfoglalkoztatott |
+
+|  | 62 | munkavállaló |
+
+|  | 63 | egyéb munkavégzésre irányuló jogviszonyban lévő |
+
+|  | 71 | miniszter |
+
+|  | 72 | államtitkár |
+
+|  | 73 | helyettes államtitkár |
+
+állománykategória:
+
+|  | Kód | Megnevezés |
+
+|  | 1 | altisztjelölt |
+
+|  | 2 | tisztjelölt |
+
+|  | 3 | legénységi állomány |
+
+|  | 4 | szerződéses altiszt |
+
+|  | 5 | hivatásos altiszt |
+
+|  | 6 | szerződéses tiszt |
+
+|  | 7 | hivatásos tiszt |
+
+|  | 8 | tábornok |
+
+|  | 9 | önkéntes védelmi tartalékos, önkéntes területvédelmi tartalékos |
+
+|  | 10 | önkéntes műveleti tartalékos |
+
+|  | 11 | kiképzett tartalékos |
+
+|  | 12 | közszolgálati tisztviselő, közalkalmazott |
+
+|  | 13 | egyéb szervezett munkavégzés |
+
+|  | 14 | állami vezető |
+
+A rubrikában ezt kell feltüntetni!
+
+– Születési neve: személyazonosításra szolgáló okmány alapján.
 
 – Anyja neve: személyazonosításra szolgáló okmány alapján.
 
-– Beosztása (munkaköre): munkaköri leírás szerint kell kitölteni.
+– Beosztása (munkaköre): munkaköri leírás szerint.
 
-– Taj száma: hivatalos okmány alapján
+– TAJ szám: hivatalos okmány alapján.
 
 – Születési helye, ideje: személyazonosításra szolgáló okmány alapján.
 
-– Lakcíme: személyazonosításra szolgáló okmány alapján.
+– Lakcím: személyazonosításra szolgáló okmány alapján.
 
-– Levelezési cím: a munkavállaló adatszolgáltatása alapján
+– Levelezési cím: a munkavállaló adatszolgáltatása alapján.
+
+– Elektronikus elérhetőség: a munkavállaló adatszolgáltatása alapján.
 
 4. A balesetkor végzett tevékenység/feladat ellátásához előírt szakképzettség, illetve ennek megléte (az első négyzetben):
 
-| igen | 1 |
+|  | igen | 1 |
 
-| nem | 2 |
+|  | nem | 2 |
 
-| nem szükséges | 3 |
+|  | nem szükséges | 3 |
 
 Szakképzettség szükségessége esetén a végzett tevékenységben szerzett gyakorlat ideje (a második négyzetben):
 
-| 0–3 hónap | 1 |
+|  | 0–3 hónap | 1 |
 
-| 3–6 hónap | 2 |
+|  | 3–6 hónap | 2 |
 
-| 6 hónapon túl | 3 |
+|  | 6 hónapon túl | 3 |
 
-A baleset körülményeinek meghatározása
+A baleset körülményeinek meghatározása:
 
-| Munkavégzés közben | 1 |
+|  | Szervezett munkavégzés során (pl. beosztással kapcsolatos feladatok, kiképzések, honvédek esetében szolgálati időben történő fizikai állapot fenntartása érdekében végzett, elrendelt sporttevékenység) | 01 |
 
-| Nem munkavégzés közben, de azzal közvetlenül összefüggő tevékenység során (pl. anyag-, szerszámvételezés, fizikai állapot fejlesztés) | 2 |
+|  | Szervezett munkavégzéssel összefüggésben (pl. anyag-, szerszámvételezés, tisztálkodás, étkezés, honvédek esetében a szolgálati időben történő nem elrendelt, szolgálati helyen végzett sporttevékenység) | 02 |
 
-| Nem munkavégzés közben és azzal nem közvetlenül összefüggő tevékenység során (pl. tisztálkodás, étkezés, szabadidős sporttevékenység szolgálati helyen) | 3 |
+|  | Szolgálatra való felkészülés során [pl. honvédek esetében a szolgálati időn túl történő fizikai állapot fenntartása érdekében végzett sporttevékenység (futás) a szolgálati helyen] | 03 |
 
-| Nem munkavégzés közben és nem azzal összefüggésben folytatott tevékenység során (pl. verekedés) | 4 |
+|  | Szolgálatra való felkészüléssel összefüggésben folytatott tevékenység során [pl. honvédek esetében a szabadidős sporttevékenység (foci) szolgálati helyen] | 04 |
 
-| Telephelyen kívüli munkaterület(ek) megközelítése közben – a munkakezdést követően – a munkáltató saját vagy általa bérelt, a munkavállaló saját, engedéllyel használt járművével. A telephelyen kívüli munkaterület(ek)ről a telephely megközelítése közben a munkáltató saját vagy általa bérelt, a munkavállaló saját, engedéllyel használt járművével. A szállás, lakás és a munkahely közötti közlekedés közben, a munkáltató saját vagy általa bérelt, a munkavállaló saját, engedéllyel használt járművével. | 5 |
+|  | A szállás, lakás és a munkahely közötti közlekedés közben (kivéve a munkáltató saját vagy általa bérelt, a munkavállaló saját, engedéllyel használt járművével) | 05 |
 
 (C)
 
-A honvédelmi baleset részletes leírása
+A baleset időpontja és részletes leírása
 
-5. A honvédelmi baleset részletes leírása részt a baleseti kivizsgálás megállapításai alapján – a 13. § (2) bekezdés előírására is figyelemmel – kell kitölteni.
+5. A baleset időpontja (év, hónap, nap, óra, perc, hét napja):
+
+év, hónap (01-től 12-ig), nap (01-től 31-ig)
+
+óra, perc (24 órás időszámítás szerint kell kódolni 01-től 24 óráig)
+
+hétfő – H
+
+kedd – K
+
+szerda – SZ
+
+csütörtök – CS
+
+péntek – P
+
+szombat – SO
+
+vasárnap – V
+
+6. A baleset részletes leírása részt a baleseti kivizsgálás megállapításai alapján – a honvédelmi ágazatban bekövetkezett baleseti veszélyt jelentő rendellenességek és a balesetek bejelentéséről, kivizsgálásáról és nyilvántartásáról szóló 13/2011. (X. 20.) HM rendelet 13. § (2) bekezdésére is figyelemmel – kell kitölteni.
 
 Itt kell a baleset tényleges lefolyását leírni (hogyan történt maga a baleset), tömören és egyértelműen rögzíteni a balesettel kapcsolatos valamennyi tényt, körülményt, cselekvést, így különösen:
 
-– a baleset helyszínét (pl. szakipari műhelyek; közlekedés, szállítás, tárolás területei; munkahelyek pályához kötött járműveken; gyakorlóterek, sportkombinátok részei; lakóterület, mint munkahely),
+– a baleset helyszínét (pl. szakipari műhelyek; közlekedés, szállítás, tárolás területei; munkahelyek pályához kötött járműveken; gyakorlóterek, sportkombinátok részei; lakóterület mint munkahely),
 
 – a sérült tevékenységét a baleset idején (pl. fűrészelés, öntözés, takarítás, úttisztítás, kézi anyagmozgatás, lövészet, közelharc kiképzés, repülési feladat, vezetési gyakorlat),
 
-– valamint azt, hogy volt-e – ha igen, akkor milyen mértékben – szerepe a baleset bekövetkezésében munkaeszköznek (pl. gép, biztonsági berendezés, fegyver, harcjármű, kéziszerszám, stb.),
+– valamint azt, hogy volt-e – ha igen, akkor milyen mértékben – szerepe a baleset bekövetkezésében
 
-– anyagnak (pl. fa, műanyag, textília, lőszer, robbanóanyag),
+= munkaeszköznek (pl. gép, biztonsági berendezés, fegyver, harcjármű, kéziszerszám),
 
-– környezeti tényezőnek (összefüggött-e a munkavégzéssel vagy attól független volt, miben nyilvánult meg, pl. hibás lépcső, robbanás, világítás, zaj hatása, elektromos áram, kőomlás, oxigénhiány), vagy
+= anyagnak (pl. fa, műanyag, textília, lőszer, robbanóanyag),
 
-– személyi tényezőnek (szakképzetlenség, kioktatás hiánya, gyakorlatlanság, egészségi alkalmatlanság, alkoholos befolyásoltság, gyógyszer, kábítószer hatása, egyéb abnormális élettani hatás, figyelmetlenség, fegyelmezetlenség, szabályszegő magatartás).
+= környezeti tényezőnek [összefüggött-e a munkavégzéssel vagy attól független volt, miben nyilvánult meg (pl. hibás lépcső, robbanás, világítás, zaj hatása, elektromos áram, kőomlás, oxigénhiány)] vagy
 
-A baleset részletes leírása rovathoz:
+= személyi tényezőnek (szakképzetlenség, kioktatás hiánya, gyakorlatlanság, egészségi alkalmatlanság, alkoholos befolyásoltság, gyógyszer, kábítószer hatása, egyéb abnormális élettani hatás, figyelmetlenség, fegyelmezetlenség, szabályszegő magatartás).
 
-A baleset jellegét jelölő kódnégyzetbe, amennyiben
+A baleset jellegét jelölő kódnégyzetbe, ha
 
-| honvédelmi baleset | 1 |
+|  | honvédelmi baleset | 1 |
 
-| munkába, lakásra (szállásra) menet (honvédelmi úti) | 8 |
+|  | munkába, lakásra (szállásra) menet (honvédelmi úti) | 8 |
 
-| az állami egészségügyi és a társadalombiztosítás keretében járó ellátás igénybevétele során | 9 |
+|  | az állami egészségügyi és a társadalombiztosítás keretében járó ellátás igénybevétele során | 9 |
 
 kódszám kerül.
 
-b) honvédelmi úti baleset esetén a baleset részletes leírása rovatban fel kell tüntetni a munkaidő kezdetét és végét. Tartalmaznia kell az útvonalat a lakástól a munkahelyig, megnevezve azt a pontos helyet, ahol a baleset bekövetkezett. Ki kell térni arra, hogy a közlekedés során indokoltan megszakította-e a sérült az utazást.
+Honvédelmi úti baleset esetén a baleset részletes leírása rovatban fel kell tüntetni az állományilletékes parancsnok által igazolt munkaidő kezdetét és végét. Tartalmaznia kell az útvonalat a lakástól a munkahelyig, megnevezve azt a pontos helyet, ahol a baleset bekövetkezett. Ki kell térni arra, hogy a közlekedés során indokoltan megszakította-e a sérült az utazást.
 
-c) Társadalombiztosítási ellátás igénybevételével összefüggőnek kell tekinteni azt a balesetet, amely a biztosítottat keresőképtelenségének vagy rokkantságának, továbbá az egészségkárosodás mértékének rehabilitálhatóságának az elbírálása céljából elrendelt, illetőleg a keresőképessé váláshoz szükséges egyéb vizsgálaton vagy kezelésen történt megjelenésével összefüggésben érte.
+Az állami egészségügyi és a társadalombiztosítás keretében járó ellátás igénybevétele során bekövetkezettnek kell tekinteni azt a balesetet, amely a biztosítottat keresőképtelenségének vagy rokkantságának, továbbá az egészségkárosodás mértékének rehabilitálhatóságának az elbírálása céljából elrendelt, illetve a keresőképessé váláshoz szükséges egyéb vizsgálaton vagy kezelésen történt megjelenésével összefüggésben érte.
 
 A baleset leírása külön lapon folytatható!
 
 (D)
 
-A honvédelmi baleset adatai
-
-6. A sérülés időpontja: év, hónap (01-től 12-ig), nap (01-től 31-ig)
-
-óra, perc (24 órás időszámítás szerint kell kódolni 01-től 24 óráig).
+A baleset adatai
 
 7. A baleset helye:
 
-| objektumban, épületben | 01 |
+|  | Kód | Hely megnevezése |
 
-| objektum területén (épületen kívül) | 02 |
+|  | 1 | iroda jellegű épületben |
 
-| kiképző bázison | 03 |
+|  | 2 | szállás jellegű épületben |
 
-| gyakorló-, lőtéren | 04 |
+|  | 3 | műhely/karbantartó, javító jellegű épületben |
 
-| terepen, földúton | 05 |
+|  | 4 | raktár jellegű épületben |
 
-| közúton | 06 |
+|  | 5 | konyha/éttermi jellegű épületben |
 
-| közterületen épületen belül | 07 |
+|  | 6 | sportobjektum (tornaterem, -csarnok, uszoda stb.) épületében |
 
-| közterületen épületen kívül | 08 |
+|  | 7 | lőtér (pincelőtér) |
 
-| egyéb helyen (vasúton, vízen) | 09 |
+|  | 8 | egészségügyi létesítményben |
 
-8. A sérülés megnevezése (magyarul) BNO kódja: a jegyzék alapján:
+|  | 9 | egyéb épületben |
 
-A sérülés súlyossága: a kódnégyzetbe a baleset súlyosságának mértékét jelölő kódszámot kell beírni:
+|  | 21 | kiképzési létesítményben épületen kívül (akadálypálya stb.) |
 
-| Nem súlyos baleset, a munkaképtelenség/szolgálatképesség csökkenés időtartama 1–3 nap | 0 |
+|  | 22 | közlekedési útvonalon |
 
-| Nem súlyos baleset, a munkaképtelenség/szolgálatképesség csökkenés időtartama meghaladja a 3 napot | 1 |
+|  | 23 | felvezetési, járőrözési útvonalon |
 
-| Nem súlyos csonkulással járó baleset | 2 |
+|  | 24 | alakuló téren |
 
-| Súlyos csonkulásos baleset | 3 |
+|  | 25 | sportpályán |
 
-| Halálos baleset | 4 |
+|  | 30 | kiképző bázison |
 
-| Önálló életvezetést gátló maradandó károsodás | 5 |
+|  | 40 | gyakorló-, lőtéren |
 
-| Valamely érzékszerv, érzékelő képesség, illetve a reprodukciós képesség elvesztésével, illetve jelentős mértékű károsodásával járó baleset | 6 |
+|  | 50 | terepen, földúton |
 
-| Orvosi vélemény szerint életveszélyes sérüléssel, károsodással járó baleset | 7 |
+|  | 60 | közúton |
 
-| A beszélő képesség elvesztésével, feltűnő torzulással, bénulással, elmezavarral járó baleset | 8 |
+|  | 70 | közterületen épületen belül |
 
-– Munkaképtelenség időtartama (nap): a kiesett napok számát az ambuláns napló, illetve a táppénzes papír adatai alapján kell beírni. Abban az esetben, ha a munkaképtelenség időtartama a jegyzőkönyv beküldési határidejéig nem állapítható meg, a harmadik kódnégyzetbe "A" betűjelzést kell beírni. A munkaképtelenség időtartamának ismertté válását követően haladéktanul gondoskodni kell a munkaképtelen napok számát közlő módosított honvédelmi baleseti jegyzőkönyv megküldéséről.
+|  | 80 | közterületen épületen kívül |
 
-– Szolgálatképesség csökkenés időtartama (nap): a katonai szolgálat ellátását kizáró vagy hátrányosan befolyásoló egészségi állapot időtartamát kell beírni, amelynek alapján az állományilletékes parancsnok a beteg, sérült katona részére a szolgálati kötelezettségek alóli részleges felmentést engedélyez.
+|  | 90 | egyéb helyen (vasúton, vízen) |
+
+8. A 8. pont adatait a honvédelmi szervezet egészségügyi szolgálat jelentése alapján kell kitölteni!
+
+A sérülés megnevezése (magyarul): a végtagok esetében a bal/jobb, illetve ujjsérülésnél a sérült ujj konkrét megnevezése szükséges pl.: bal kéz III. ujj.
+
+– A sérülés BNO kódja: a jegyzék alapján.
+
+– A sérült testrész:
+
+|  | Kód | Megnevezés |
+
+|  | 00 | A sérült testrész nem határozható meg |
+
+|  | 11 | Fej, agy és agyidegek, agyi erek, véredények |
+
+|  | 12 | Arc |
+
+|  | 13 | Szem(ek) |
+
+|  | 14 | Fül(ek) |
+
+|  | 15 | Fog(ak) |
+
+|  | 18 | Többszörös fejsérülés |
+
+|  | 19 | Fej fent nem említett egyéb részeinek sérülése (pl. homlok, orr, állkapocs, halánték, tarkó, fej izmai) |
+
+|  | 21 | Nyak, a nyaki gerinccel és csigolyákkal együtt |
+
+|  | 29 | A nyak fent nem említett egyéb részei (pl. nyakszirt, a nyak izmai) |
+
+|  | 31 | Hát a hátgerinccel és hátcsigolyákkal együtt |
+
+|  | 39 | A hát fent nem említett egyéb részei |
+
+|  | 41 | Mellkas, bordák az ízületekkel és a lapockákkal együtt |
+
+|  | 42 | Mellkasi terület a belső szervekkel |
+
+|  | 43 | Medence és has a belső szervekkel |
+
+|  | 48 | Törzs több helyen sérült |
+
+|  | 49 | A törzs fent nem említett részei |
+
+|  | 51 | Váll és vállízület (vállcsúcs, kulcscsont) |
+
+|  | 52 | Kar a könyökkel együtt (felkar és alkar is) |
+
+|  | 53 | Kéz (benne tenyér, kézfej) |
+
+|  | 54 | Ujj(ak) |
+
+|  | 55 | Csukló |
+
+|  | 58 | Felső végtagok több helyen sérültek |
+
+|  | 59 | A felső végtagok fent nem említett egyéb részei |
+
+|  | 61 | Csípő és csípőízület |
+
+|  | 62 | Láb a térdekkel (benne comb és alsólábszár) |
+
+|  | 63 | Boka |
+
+|  | 64 | Lábfej (talp is) |
+
+|  | 65 | Lábujj(ak) |
+
+|  | 68 | Alsó végtagok több helyen sérültek |
+
+|  | 69 | Az alsó végtagok fent nem említett egyéb részei (pl. farizom, az alsó végtag izmai, Achilles-ín) |
+
+|  | 71 | Egész test (általános szervezeti hatások) (A test jelentős része sérülést szenvedett pl. égési, fagyás sérülés) |
+
+|  | 78 | A test több része sérült |
+
+|  | 99 | A test fent nem említett egyéb részei |
+
+– A baleset súlyossága:
+
+|  | Kód | Megnevezés |
+
+|  | 1 | Nem súlyos szolgálatképesség csökkenést okozó baleset, a munkaképtelenség időtartama 0 nap |
+
+|  | 2 | Nem súlyos baleset, a munkaképtelenség időtartama 1–3 nap |
+
+|  | 3 | Nem súlyos baleset, a munkaképtelenség időtartama meghaladja a 3 napot |
+
+|  | 4 | Nem súlyos csonkulással járó baleset |
+
+|  | 10 | Súlyos csonkulásos baleset |
+
+|  | 11 | Önálló életvezetést gátló maradandó károsodás |
+
+|  | 12 | Valamely érzékszerv, érzékelő képesség, illetve a reprodukciós képesség elvesztésével, illetve jelentős mértékű károsodásával járó baleset |
+
+|  | 13 | Orvosi vélemény szerint életveszélyes sérüléssel, károsodással járó baleset |
+
+|  | 14 | A beszélőképesség elvesztésével, feltűnő torzulással, bénulással, elmezavarral járó baleset |
+
+|  | 15 | Halálos baleset |
+
+– Munkaképtelenség időtartama (nap): a kiesett napok számát az ambuláns napló, illetve a táppénzes papír adatai alapján kell beírni, alapvetően az egészségügyi szabadságon töltött napok számát jelenti. Ha a munkaképtelenség időtartama a honvédelmi baleseti jegyzőkönyv beküldési határidejéig nem állapítható meg, a harmadik kódnégyzetbe „A” betűjelzést kell beírni. A munkaképtelenség időtartamának ismertté válását követően haladéktanul gondoskodni kell a munkaképtelen napok számát közlő módosító honvédelmi baleseti jegyzőkönyv megküldéséről.
+
+– Szolgálatképesség csökkenés időtartama (nap): A honvédelmi ágazatban bekövetkezett baleseti veszélyt jelentő rendellenességek és a balesetek bejelentéséről, kivizsgálásáról és nyilvántartásáról szóló 13/2011. (X. 20.) HM rendelet 2. § 14. pontja alapján kizárólag a felmentésre vonatkozó napok számát kell rögzíteni, az egészségügyi szabadság napjainak számát nem kell itt megjeleníteni.
 
 (E)
 
@@ -376,310 +596,472 @@ A balesettel kapcsolatos egyéb információk
 
 9. A baleset fajtája:
 
-| általános katonai kiképzés | 01 |
+|  | általános katonai kiképzés | 1 |
 
-| szakkiképzés | 02 |
+|  | szakkiképzés | 2 |
 
-| szolgálati tevékenység | 03 |
+|  | munka/szolgálati tevékenység | 3 |
 
-| honvédelmi | 04 |
+|  | közlekedés | 4 |
 
-| közlekedés | 05 |
+|  | sport | 5 |
 
-| sport | 06 |
+|  | egyéb | 6 |
 
-| egyéb | 07 |
+|  | úti | 7 |
 
-| úti | 08 |
+Szövegesen is kitöltendő!
 
-10. A sérült tevékenysége a baleset idején
+10. A sérült tevékenysége a baleset idején:
 
-| alaki kiképzés | 01 |
+|  | Kód | Megnevezés |
 
-| általános harcászati kiképzés | 02 |
+|  | 11 | alaki kiképzés |
 
-| általános lőkiképzés | 03 |
+|  | 12 | általános harcászati kiképzés |
 
-| harc- és gépjármű-vezetési kiképzés | 11 |
+|  | 13 | általános lőkiképzés |
 
-| lőkiképzés | 12 |
+|  | 14 | egyéb általános kiképzés |
 
-| szakharcászat | 13 |
+|  | 21 | harc- és gépjármű-vezetési kiképzés |
 
-| fegyvernemi szakkiképzés | 14 |
+|  | 22 | lőkiképzés |
 
-| ejtőernyő, repülő szakkiképzés | 15 |
+|  | 23 | szakharcászat |
 
-| komplex összfegyvernemi gyakorlat | 16 |
+|  | 24 | fegyvernemi szakkiképzés |
 
-| 24 órás szolgálat | 21 |
+|  | 25 | ejtőernyő, repülő szakkiképzés |
 
-| beosztással járó feladatok | 22 |
+|  | 26 | komplex összfegyvernemi gyakorlat |
 
-| fegyverkarbantartás | 23 |
+|  | 27 | egyéb szakkiképzés |
 
-| kár, katasztrófa, mentés | 24 |
+|  | 31 | 24 órás szolgálat |
 
-| karbantartás | 25 |
+|  | 32 | fegyverkarbantartás |
 
-| bemutató foglalkozás | 26 |
+|  | 33 | mentés, műszaki mentés, katasztrófa- és kárelhárítás |
 
-| gép, berendezés karbantartása | 31 |
+|  | 34 | bemutató foglalkozás |
 
-| gép, berendezés technikai kiszolgálás | 32 |
+|  | 35 | munkaeszköz telepítése, felállítása, bontása |
 
-| szakmunka (nyomdai, vegyészeti, famegmunkálás, építő munkák, stb.) | 33 |
+|  | 36 | hadfelszerelés telepítése, felállítása, bontása |
 
-| gépi megmunkálás | 34 |
+|  | 37 | munkaeszköz használata |
 
-| egyéb műhely munkák | 35 |
+|  | 38 | hadfelszerelés használata |
 
-| javító munkák | 36 |
+|  | 39 | munkaeszköz karbantartása, technikai javítása |
 
-| irodai munkák | 37 |
+|  | 40 | hadfelszerelés karbantartása, technikai javítása |
 
-| oktató, nevelő munka | 38 |
+|  | 41 | munkaeszköz technikai kiszolgálása |
 
-| gyógyító munka | 39 |
+|  | 42 | hadfelszerelés technikai kiszolgálása |
 
-| konyhai munka | 41 |
+|  | 43 | kézi megmunkálás |
 
-| őrzés védelem | 42 |
+|  | 44 | javítás |
 
-| anyagmozgatás | 43 |
+|  | 45 | nyomdai szakmunka |
 
-| takarítás (külső, belső körlet) | 44 |
+|  | 46 | vegyészeti szakmunka |
 
-| munkával kapcsolatos helyváltoztatás | 45 |
+|  | 47 | építőipari szakmunka |
 
-| harcjármű közlekedés | 51 |
+|  | 48 | irodai munkák |
 
-| szolgálati gépjármű közlekedés | 52 |
+|  | 49 | gyógyító munka |
 
-| egyéb járműközlekedés | 53 |
+|  | 50 | konyhai munka |
 
-| polgári tömegközlekedés | 54 |
+|  | 51 | egyéb munka |
 
-| polgári személyi járműközlekedés | 55 |
+|  | 52 | kézi anyagmozgatás |
 
-| gyalog közlekedés | 56 |
+|  | 53 | gépi anyagmozgatás |
 
-| egyéb (vasúti, vízi, légi közlekedés) | 57 |
+|  | 54 | őrzés-védelem |
 
-| előírt sportfoglalkozás | 61 |
+|  | 55 | takarítás (külső, belső körlet) |
 
-| kiképzési sport | 62 |
+|  | 56 | parkápolás |
 
-| tömegsport | 63 |
+|  | 57 | beosztással járó feladatok |
 
-| igazolt versenysport (edzés) | 64 |
+|  | 58 | munkával kapcsolatos gyalogos helyváltoztatás |
 
-| honvédségi szervezésű sportversenyek | 65 |
+|  | 71 | harcjármű közlekedés |
 
-| szabadidős sport (egyéni edzés) | 66 |
+|  | 72 | szolgálati gépjármű közlekedés |
 
-| objektumon, épületen belüli helyváltoztatás | 71 |
+|  | 73 | egyéb jármű közlekedés |
 
-| létfenntartó tevékenység (étkezés, tisztálkodás stb.) | 72 |
+|  | 74 | közösségi közlekedés |
 
-| egészségügyi ellátásban való részvétel | 73 |
+|  | 75 | polgári jármű közlekedés |
 
-| pihenés egyéni szórakozás | 74 |
+|  | 76 | gyalogos közlekedés |
 
-| egyéb tevékenység | 75 |
+|  | 77 | egyéb (vasúti, vízi, légi) közlekedés |
 
-11. A baleset fő, illetve elsődleges oka: (szövegesen is)
+|  | 81 | előírt sportfoglalkozás |
 
-| előírás, szabály megszegése | 01 |
+|  | 82 | kiképzési sport |
 
-| ittasság | 02 |
+|  | 83 | tömegsport |
 
-| fáradtság | 03 |
+|  | 84 | igazolt versenysport (edzés) |
 
-| kábult, bódult állapot | 04 |
+|  | 85 | honvédségi szervezésű sportversenyek |
 
-| sietség, kapkodás | 05 |
+|  | 86 | szabadidős sport (egyéni edzés) |
 
-| gyorshajtás | 06 |
+|  | 91 | objektumon belüli helyváltoztatás |
 
-| elsőbbségadás elmulasztása | 07 |
+|  | 92 | létfenntartó tevékenység (étkezés, tisztálkodás stb.) |
 
-| egyéb járművezetői hiba | 08 |
+|  | 93 | egészségügyi ellátásban való részvétel |
 
-| anyag, szerszám hibája | 09 |
+|  | 94 | pihenés, egyéni szórakozás |
 
-| csúszós, nedves járófelület | 10 |
+|  | 95 | egyéb tevékenység |
 
-| havas, síkos járófelület | 11 |
+|  | 96 | társadalombiztosítási ellátás igénybevétele |
 
-| egyenetlen járófelület | 12 |
+|  | 101 | gyalogos közlekedés |
 
-| terep | 13 |
+|  | 102 | polgári személyi jármű közlekedés |
 
-| gyakorlatlanság, képzetlenség | 14 |
+|  | 103 | közösségi közlekedés |
 
-| túlterhelés | 15 |
+|  | 104 | magán gépjármű közlekedés |
 
-| géphiba | 16 |
+Szövegesen is kitöltendő!
 
-| védőeszköz mellőzése | 17 |
+11. A baleset fő, illetve elsődleges oka:
 
-| környezeti hiba | 18 |
+|  | Megnevezés | Kód |
 
-| túlzott rutin, monotónia | 19 |
+|  | előírás, szabály (technológia) megsértése | 1 |
 
-| zajhatás | 20 |
+|  | alkoholos befolyásoltság | 2 |
 
-| megerőltetés | 21 |
+|  | kábult, bódult állapot | 3 |
 
-| technológia megsértése | 22 |
+|  | egyéb abnormális élettani hatás | 4 |
 
-| szervezési hiba | 23 |
+|  | sietség, kapkodás | 5 |
 
-| fényviszonyok megváltozása | 24 |
+|  | gyorshajtás | 6 |
 
-| egyéb ok, figyelmetlenség | 25 |
+|  | elsőbbségadás elmulasztása | 7 |
 
-| más személy közrehatása | 26 |
+|  | egyéb járművezetői hiba | 8 |
 
-12. A baleset további okai: (szövegesen is be kell írni a 11-es rovat kódszámainak felhasználásával)
+|  | más személy közrehatása | 9 |
 
-13. A baleset eszköze:
+|  | személyi alkalmatlanság | 10 |
 
-| fegyver | 01 |
+|  | munkavédelmi oktatás hiánya | 11 |
 
-| lőszer, robbanó anyag | 02 |
+|  | munkavédelmi vizsgáztatás hiánya | 12 |
 
-| harcjármű | 03 |
+|  | szakképzetlenség | 13 |
 
-| haditechnikai eszköz | 04 |
+|  | gyakorlatlanság | 14 |
 
-| repülő, ejtőernyő | 05 |
+|  | fegyelmezetlenség | 15 |
 
-| szolgálati gépjármű | 06 |
+|  | helytelen testtartás | 16 |
 
-| egyéb jármű | 07 |
+|  | hibás vezetői döntés | 17 |
 
-| gép, berendezés | 08 |
+|  | hibás munkavállalói döntés/figyelmetlenség | 18 |
 
-| konyhai eszköz | 09 |
+|  | emberi mulasztás, felelőtlenség | 19 |
 
-| kézi szerszám | 10 |
+|  | egyéb személyi hiba | 20 |
 
-| akkumulátor | 11 |
+|  | anyag hiba | 31 |
 
-| nyílászáró szerkezet | 12 |
+|  | nem megfelelő munkaeszköz, hadfelszerelés használata | 32 |
 
-| bútor, épület berendezés, felszerelés | 13 |
+|  | szigeteletlen munkaeszköz használata | 33 |
 
-| sport-eszköz | 14 |
+|  | alkalmatlan munkaeszköz használata | 34 |
 
-| lépcső, járófelület | 15 |
+|  | egyenetlen járófelület | 35 |
 
-| terep | 16 |
+|  | csúszós járófelület | 36 |
 
-| veszélyes anyag | 17 |
+|  | nedves járófelület | 37 |
 
-| gyógyszer, kábítószer | 18 |
+|  | havas, síkos járófelület | 38 |
 
-| gőz, forró víz, jég | 19 |
+|  | egyéni vagy katonai védőeszköz mellőzése | 39 |
 
-| alacsony vagy magas hőmérsékletű tárgy | 20 |
+|  | egyéni vagy katonai védőeszköz alkalmatlansága | 40 |
 
-| éles, hegyes tárgy | 21 |
+|  | jelzőberendezés hiánya | 41 |
 
-| súlyos tárgy | 22 |
+|  | jelzőberendezés működésképtelensége | 42 |
 
-| egyéb tárgy, anyag | 23 |
+|  | vészjelző/-leállító berendezés hiánya | 43 |
 
-| rovarcsípés | 24 |
+|  | vészkikapcsoló berendezés működésképtelensége | 44 |
 
-| állat harapás | 25 |
+|  | biztonsági berendezés hiánya | 45 |
 
-| eszköz nélkül | 26 |
+|  | biztonsági berendezés működésképtelensége | 46 |
 
-| egyéb | 27 |
+|  | (vész)kijárat lezárása, eltorlaszolása | 47 |
 
-A baleset természete:
+|  | közlekedési útvonal szűkítése | 48 |
 
-| lövés, robbanás | 01 |
+|  | közlekedési útvonal eltorlaszolása | 49 |
 
-| járművek ütközése | 02 |
+|  | zaj, rezgés | 50 |
 
-| jármű felborulás | 03 |
+|  | nem megfelelő megvilágítottság | 51 |
 
-| gázolás | 04 |
+|  | munkahely, munkaeszköz instabilitása | 52 |
 
-| kiesés, leesés | 05 |
+|  | nem megfelelő munkahely-kialakítás | 53 |
 
-| elesés, elcsúszás | 06 |
+|  | környezeti hiba | 54 |
 
-| összenyomás, becsípődés | 07 |
+|  | tisztálkodási feltételek hiánya | 55 |
 
-| szúrás, vágás | 08 |
+|  | nem megfelelő tisztálkodási feltételek | 56 |
 
-| maró anyag hatása (marás) | 09 |
+|  | elsősegélynyújtás tárgyi feltételeinek hiánya | 57 |
 
-| mérgezés | 10 |
+|  | étkezési feltételek hiánya | 58 |
 
-| fulladás | 11 |
+|  | étkezési feltételek nem megfelelősége | 59 |
 
-| áramütés | 12 |
+|  | egyéb tárgyi hiba | 60 |
 
-| hideg vagy meleg ártalom | 13 |
+|  | munkafeladat pontatlan meghatározása | 71 |
 
-| megerőltetés | 14 |
+|  | túlzott rutin, monotónia | 72 |
 
-| ütés, ütődés | 15 |
+|  | egyenetlen terhelés | 73 |
 
-| csípés, harapás | 16 |
+|  | túlterhelés | 74 |
 
-| gyűrű (ékszer) beakadás | 17 |
+|  | alulterhelés | 75 |
 
-| zajhatás | 18 |
+|  | megerőltetés | 76 |
 
-| egyéb esemény | 19 |
+|  | fáradtság | 77 |
+
+|  | időkényszer | 78 |
+
+|  | munkahelyi rend hiánya | 79 |
+
+|  | takarítás hiánya | 80 |
+
+|  | hulladék-elszállítás hiánya | 81 |
+
+|  | csoportos tevékenység szervezetlensége | 82 |
+
+|  | egyéb szervezési hiba | 83 |
+
+|  | időjárási körülmények | 91 |
+
+|  | terepviszonyok | 92 |
+
+Szövegesen is kitöltendő!
+
+12. A baleset további okai: A 11-es rovat kódszámainak felhasználásával. Szövegesen is kitöltendő!
+
+A baleset további oka nem lehet azonos az 11-es rovatban megjelölt, a baleset fő, illetve elsődleges okával.
+
+13. – A baleset anyaga, eszköze:
+
+|  | Megnevezés | Kód |
+
+|  | fegyver | 1 |
+
+|  | lőszer, robbanó anyag | 2 |
+
+|  | harcjármű | 3 |
+
+|  | haditechnikai eszköz | 4 |
+
+|  | repülő, ejtőernyő | 5 |
+
+|  | szolgálati gépjármű | 6 |
+
+|  | egyéb jármű | 7 |
+
+|  | hadfelszerelés | 8 |
+
+|  | gép | 9 |
+
+|  | készülék | 10 |
+
+|  | szerszám | 11 |
+
+|  | berendezés | 12 |
+
+|  | részegység, alkatrész, fődarab | 13 |
+
+|  | nyílászáró szerkezet | 14 |
+
+|  | bútor, épület berendezés, felszerelés | 15 |
+
+|  | sporteszköz | 16 |
+
+|  | lépcső, járófelület | 17 |
+
+|  | terep | 18 |
+
+|  | súlyos tárgy | 19 |
+
+|  | éles, hegyes tárgy | 20 |
+
+|  | gőz, forró víz, jég | 21 |
+
+|  | alacsony vagy magas hőmérsékletű tárgy | 22 |
+
+|  | veszélyes anyagok és keverékek | 31 |
+
+|  | mikroorganizmus | 41 |
+
+|  | rovarcsípés | 42 |
+
+|  | állat harapása, támadása | 43 |
+
+|  | növény általi szúrás, vágás, horzsolás | 44 |
+
+|  | eszköz nélkül | 51 |
+
+Szövegesen is kitöltendő!
+
+– A baleset természete:
+
+|  | Megnevezés | Kód |
+
+|  | lövés | 01 |
+
+|  | robbanás | 02 |
+
+|  | járművek ütközése | 03 |
+
+|  | jármű felborulás | 04 |
+
+|  | gázolás | 05 |
+
+|  | kivetés/kifröcskölés | 06 |
+
+|  | zúzódás | 07 |
+
+|  | vágás vagy levágás | 08 |
+
+|  | behúzás vagy befogás | 09 |
+
+|  | összenyomás, becsípődés | 10 |
+
+|  | súrlódás vagy dörzsölés | 11 |
+
+|  | ütés/lökés | 12 |
+
+|  | injektálás | 13 |
+
+|  | nyírás | 14 |
+
+|  | szúrás vagy átszúrás | 15 |
+
+|  | fojtás/fulladás | 16 |
+
+|  | gyűrű- (ékszer-) beakadás | 17 |
+
+|  | áramütés | 18 |
+
+|  | megolvadt részecskék kidobása/kilövése | 19 |
+
+|  | kiesés, leesés | 20 |
+
+|  | csúszás, (el)esés | 21 |
+
+|  | botlás | 22 |
+
+|  | égés | 23 |
+
+|  | fagyás | 24 |
+
+|  | hideg vagy meleg hatás | 25 |
+
+|  | hőforrások sugárzása miatti sérülések | 26 |
+
+|  | leforrázás | 27 |
+
+|  | maró anyag hatása (marás) | 28 |
+
+|  | mérgezés | 29 |
+
+|  | halláscsökkenés | 30 |
+
+|  | fülzúgás | 31 |
+
+|  | légzési nehézségek, fulladás | 32 |
+
+|  | tűz | 33 |
+
+|  | érzékenységnövekedés | 34 |
+
+|  | kiszáradás, tudatvesztés | 35 |
+
+|  | egyensúlyvesztés | 36 |
+
+|  | sokk | 37 |
+
+|  | megerőltetés | 38 |
+
+|  | csípés, harapás | 39 |
+
+|  | egyéb esemény | 40 |
+
+Szövegesen is kitöltendő!
 
 14. A biztonsági- és jelzőberendezések, egyéni és katonai védőeszközök, egyéb védelmi megoldások alkalmassága:
 
-| Alkalmas, rendeltetésszerűen használták | 1 |
+|  | Megnevezés | Kód |
 
-| Alkalmas, nem rendeltetésszerűen használták | 2 |
+|  | Alkalmas, rendeltetésszerűen használták | 01 |
 
-| Alkalmas, nem használták | 3 |
+|  | Alkalmas, nem rendeltetésszerűen használták | 02 |
 
-| Alkalmatlan, rendeltetésszerűen használták | 4 |
+|  | Alkalmas, nem használták | 03 |
 
-| Alkalmatlan nem rendeltetésszerűen használták | 5 |
+|  | Alkalmatlan, rendeltetésszerűen használták | 04 |
 
-| Alkalmatlan, nem használták | 6 |
+|  | Alkalmatlan, nem rendeltetésszerűen használták | 05 |
 
-| Szükséges, de nem volt | 7 |
+|  | Alkalmatlan, nem használták | 06 |
 
-| Nem szükséges | 8 |
+|  | Szükséges, nem volt | 07 |
 
-15. A baleset idején végzett tevékenységre készült-e kockázatértékelés:
+|  | Nem szükséges | 08 |
 
-|  | igen | 1 |
+|  | Nem szükséges, volt | 09 |
 
-|  | nem | 2 |
+15–17. Értelemszerűen kitöltendő.
 
-A baleset fő, illetve elsődleges oka azonosított-e a kockázatértékelésben:
+18. Az állományilletékes parancsnok döntése és intézkedései szövegesen kerül kitöltésre. Állományilletékes parancsnok döntése minden esetben tartalmazza, hogy a balesetet honvédelmi/honvédelmi úti balesetnek tekinti. A baleset leírása, a baleseti ok, okok megállapításai alapján – a későbbi balesetek megelőzése érdekében – a tett intézkedést, intézkedéseket kell beírni, megkülönböztetve a személyi, szervezési és tárgyi intézkedéseket. A meghatározott intézkedések mellé a konkrét feladat egyértelmű megnevezése, a végrehajtásért felelős és a határidő feltüntetése szükséges.
 
-|  | igen | 1 |
+A név, rendfokozat rovatot – az azonosíthatóság miatt – olvashatóan kell kitölteni.
 
-|  | nem | 2 |
+A záradékot értelemszerűen, az ügyviteli szabályok és honvédelmi ágazatban bekövetkezett baleseti veszélyt jelentő rendellenességek és a balesetek bejelentéséről, kivizsgálásáról és nyilvántartásáról szóló 13/2011. (X. 20.) HM rendelet
 
-16. A Munkavédelmi képviselőre vonatkozó adatokat értelemszerűen kell kitölteni.
+15. § (2) bekezdése szerint kell kitölteni.
 
-17. A balesetvizsgáló értelemszerűen tölti ki.
+A felügyelői észrevételek, intézkedés rovatot a munkavédelmi hatóság tölti ki.
 
-18. Az állományilletékes parancsnok döntése és intézkedése szövegesen kerül kitöltésre. A baleset leírása, a baleseti ok, okok megállapításai alapján – a későbbi balesetek megelőzése érdekében – a tett intézkedést, intézkedéseket kell beírni.
-
-A név, rendfokozat rovatot – az azonosíthatóság miatt – olvashatóan kell beírni.
-
-A záradékot értelemszerűen, az ügyviteli szabályok és e rendelet 15. § (2) bekezdésének megfelelően kell kitölteni.
-
-A felügyelői észrevételek, intézkedés rovatot a munkabiztonsági hatóság tölti ki.
-
-[^3]: A 3. melléklet a 25/2016. (XII. 22.) HM rendelet 12. §-a szerint módosított szöveg.
+[^5]: A 3. melléklet a 9/2018. (VI. 29.) HM rendelet 10. §-ával megállapított szöveg.
