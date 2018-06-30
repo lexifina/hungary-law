@@ -1,4 +1,4 @@
-9. §[^7] (1) A közúti forgalomban részt vevő N1 járműkategóriájú (legfeljebb 3,5 t megengedett legnagyobb össztömegű tehergépkocsik és vontatók) kényszerszállító járműre vonatkozóan a (2)–(5) bekezdésben meghatározott eltéréseket kell alkalmazni.
+9. §[^8] (1) A közúti forgalomban részt vevő N1 járműkategóriájú (legfeljebb 3,5 t megengedett legnagyobb össztömegű tehergépkocsik és vontatók) kényszerszállító járműre vonatkozóan a (2)–(5) bekezdésben meghatározott eltéréseket kell alkalmazni.
 
 (2) A fogvatartotti utastérben elhelyezett oldalra néző ülések tekintetében
 
@@ -24,4 +24,4 @@ vonatkozóan meghatározott követelményeket a 2. mellékletben meghatározott 
 
 (5) A kényszerszállító járműben a járművezető helyén kívüli ülőhelyek száma nem haladhatja meg a nyolcat.
 
-[^7]: A 9. § a 9/2016. (III. 17.) BM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 9. § a 9/2016. (III. 17.) BM rendelet 3. §-ával megállapított szöveg.
