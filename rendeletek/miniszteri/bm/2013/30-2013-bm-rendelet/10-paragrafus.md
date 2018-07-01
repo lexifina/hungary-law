@@ -1,1 +1,0 @@
-## 9. § A nyomozótiszt a nyomozás során a parancsnok utasítása szerint jár el, aki irányítja a nyomozást és maga is ellenőrzi annak törvényességét. A nyomozótiszt köteles a parancsnokot a nyomozás minden lényeges körülményéről tájékoztatni.
