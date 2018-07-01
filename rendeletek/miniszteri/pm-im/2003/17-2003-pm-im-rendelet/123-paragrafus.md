@@ -1,3 +1,0 @@
-123. § (1) Ha a fogva tartott gyanúsított ittassága, vagy más ok miatt olyan állapotban van, amely gátolja a vallomástételben, illetve védekezésének előterjesztésében, erről jelentést kell készíteni, és a gyanúsítottat az akadályoztatás megszűnését követően kell haladéktalanul kihallgatni.
-
-(2) Ha felmerül annak gyanúja, hogy a fogva tartott gyanúsított ittassága, vagy más ok miatt olyan állapotban van, amely gátolja a vallomástételben, illetve védekezésének előterjesztésében, haladéktalanul meg kell vizsgáltatni orvossal. Ha az orvosi vélemény szerint a fogva tartott gyanúsított ittas, vagy kábítószer hatása alatt áll, intézkedni kell a szakértői vizsgálathoz szükséges vér-, illetve vizeletminta vételére.

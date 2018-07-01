@@ -1,1 +1,0 @@
-## 37. § A szemléről készült jegyzőkönyvnek a Be. 166. §-ában meghatározottakon kívül részletesen tartalmaznia kell a tárgyi bizonyítási eszközök felkutatásának, összegyűjtésének menetét, módját, helyét is.
