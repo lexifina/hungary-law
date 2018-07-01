@@ -1,8 +1,8 @@
 ## 12. Visszatérítendő támogatásra vonatkozó különös szabályok
 
-14. § (1)[^66] A Civil tv. 57. § (1) bekezdése szerinti éves összes bevételre vonatkozó értékhatár ötvenmillió forint.
+14. § (1)[^67] A Civil tv. 57. § (1) bekezdése szerinti éves összes bevételre vonatkozó értékhatár ötvenmillió forint.
 
-(2)[^67] A visszafizetés végső határideje nem lehet későbbi azon költségvetési évet követő második év utolsó napjánál, amelyben a költségvetési támogatás kifizetésre került.
+(2)[^68] A visszafizetés végső határideje nem lehet későbbi azon költségvetési évet követő második év utolsó napjánál, amelyben a költségvetési támogatás kifizetésre került.
 
 (3) Az e § rendelkezései szerint tárgyévben visszatérített összeg további felhasználásáról az a döntéshozó jogosult dönteni, amely a visszatérített összeghez kapcsolódó támogatási szerződés alapjául szolgáló döntést meghozta.
 
@@ -10,5 +10,5 @@
 
 (5) Visszatérítendő támogatás visszafizetése esetén az elszámolással érintett bizonylatok záradékainak feloldását az Alapkezelő az elszámolás elfogadásával egyidejűleg, a bizonylat sorszámát feltüntetve, egyoldalú jognyilatkozattal végzi.
 
-[^66]: A 14. § (1) bekezdése a 31/2014. (IV. 14.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^67]: A 14. § (2) bekezdése a 35/2016. (XI. 30.) EMMI rendelet 12. § h) pontja szerint módosított szöveg.
+[^67]: A 14. § (1) bekezdése a 31/2014. (IV. 14.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^68]: A 14. § (2) bekezdése a 35/2016. (XI. 30.) EMMI rendelet 12. § h) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 27. §[^97] A Civil tv. 64. §-a szerinti alapkezelő az Emberi Erőforrás Támogatáskezelő.
+## 27. §[^99] A Civil tv. 64. §-a szerinti alapkezelő az Emberi Erőforrás Támogatáskezelő.
 
 28. § (1) Az Alapkezelő feladata különösen:
 
@@ -6,9 +6,9 @@ a) az informatikai rendszer üzemeltetése, fejlesztése, adatainak folyamatos k
 
 b) a támogatási igények fogadása, érkeztetése, kezelése;
 
-c)[^98] a Tanács és a kollégiumok üléseinek, döntéseinek előkészítése, dokumentálása és végrehajtása;
+c)[^100] a Tanács és a kollégiumok üléseinek, döntéseinek előkészítése, dokumentálása és végrehajtása;
 
-d)[^99] szerződéskötés a kedvezményezettekkel, támogatói okirat kibocsátása;
+d)[^101] szerződéskötés a kedvezményezettekkel, támogatói okirat kibocsátása;
 
 e) az Alappal összefüggő pénzügyi és számviteli feladatok ellátása;
 
@@ -30,11 +30,11 @@ m) a Tanács és a kollégiumok működési feltételeinek biztosítása;
 
 n) testületei tagok költségátalánya és költségtérítése adminisztrációja, kiutalása, valamint az ezzel összefüggő feladatok ellátása;
 
-o)[^100] az Alap pályázati kiírásaival, testületek működésével kapcsolatos tájékoztatás, információ szolgáltatás, a Civil Információs Centrumokkal kapcsolatos feladatok ellátása, valamint az Alap kezelésével összefüggő egyéb feladatok ellátása.
+o)[^102] az Alap pályázati kiírásaival, testületek működésével kapcsolatos tájékoztatás, információ szolgáltatás, a Civil Információs Centrumokkal kapcsolatos feladatok ellátása, valamint az Alap kezelésével összefüggő egyéb feladatok ellátása.
 
 (2) Az Alapkezelő feladata, hogy folyamatosan biztosítsa az Alappal kapcsolatos nyilvántartások és a hivatalos honlap adatainak koherenciáját.
 
-[^97]: A 27. § a 28/2012. (IX. 18.) EMMI rendelet 5. §-a szerint módosított szöveg.
-[^98]: A 28. § (1) bekezdés c) pontja az 56/2012. (XII. 29.) EMMI rendelet 15. §-ával megállapított szöveg.
-[^99]: A 28. § (1) bekezdés d) pontja a 74/2013. (XII. 2.) EMMI rendelet 7. § e) pontja szerint módosított szöveg.
-[^100]: A 28. § (1) bekezdés o) pontja az 52/2015. (XI. 18.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^99]: A 27. § a 28/2012. (IX. 18.) EMMI rendelet 5. §-a szerint módosított szöveg.
+[^100]: A 28. § (1) bekezdés c) pontja az 56/2012. (XII. 29.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^101]: A 28. § (1) bekezdés d) pontja a 74/2013. (XII. 2.) EMMI rendelet 7. § e) pontja szerint módosított szöveg.
+[^102]: A 28. § (1) bekezdés o) pontja az 52/2015. (XI. 18.) EMMI rendelet 8. §-ával megállapított szöveg.
