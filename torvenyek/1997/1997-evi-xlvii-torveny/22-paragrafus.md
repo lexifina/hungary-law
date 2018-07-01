@@ -20,6 +20,6 @@ a) az egészségügyi szolgáltató, az egészségügyi szolgáltatást igénybe
 
 b) az a) pontban foglaltakon túl az egészségügyi szolgáltatást igénybe vevő TAJ számát, közgyógyellátásra való jogosultság esetén a közgyógyellátási igazolvány számát,
 
-c) az egészségügyi szolgáltatást igénybe vevő diagnózisának, a részére nyújtott egészségügyi szolgáltatásnak (ideértve a különleges táplálkozási igényt kielégítő tápszereket) a megnevezését, kódját.
+c) az egészségügyi szolgáltatást igénybe vevő diagnózisának, a részére nyújtott egészségügyi szolgáltatásnak (ideértve a különleges táplálkozási igényt kielégítő tápszereket, valamint a vényköteles készítményeket) a megnevezését, kódját, az igénybevett egészségügyi szolgáltatáshoz kapcsolódó egészségügyi adatát.
 
 (6) Az (5) bekezdés szerinti adatokat az egészségbiztosítási szerv nyilvántartásába való bekerüléstől számított 30 évig, amennyiben az adatkezeléssel érintett ügyben bírósági eljárás indult, akkor az ügy lezárásának időpontjáig lehet kezelni. Ezt követően az adatokat meg kell fosztani a személyes azonosítás lehetőségétől.
