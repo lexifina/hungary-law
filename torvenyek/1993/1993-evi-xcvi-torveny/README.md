@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-96-00-00
 | 2017-06-26 | 2017. évi LII. törvény | 1993-96-00-00.63 |
 | 2017-07-01 | 2017. évi LXIX. törvény | 1993-96-00-00.64 |
 | 2018-01-01 | 2017. évi L. törvény | 1993-96-00-00.65 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 1993-96-00-00.66 |
