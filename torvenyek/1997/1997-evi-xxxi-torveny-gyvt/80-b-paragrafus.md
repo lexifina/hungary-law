@@ -24,7 +24,7 @@ b) kollégiumban van,
 
 c) tanulmányai folytatása, illetve üdülés céljából harminc napot meghaladóan külföldön tartózkodik,
 
-d) előzetes letartóztatásban van, illetve szabadságvesztését vagy egyéb büntetését tölti, vagy
+d) letartóztatásban van, illetve szabadságvesztését vagy egyéb büntetését tölti, vagy
 
 e) a gyermek örökbefogadásának előkészítése során a szülő-gyermek kapcsolat kialakulása érdekében a kötelező gondozásba kihelyezést megelőzően az örökbe fogadni szándékozóknál tartózkodik.
 

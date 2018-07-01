@@ -50,7 +50,7 @@ f) a kincstár és az állami támogatást megállapító, folyósító vagy ell
 
 g) a minisztérium a gyermekvédelmi ágazati irányítási tevékenység ellátása céljából,
 
-h) a rendőrség, az ügyészség, a bíróság és az igazságügyi szakértő bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából.
+h) a rendőrség, a nyomozó hatóság, az ügyészség, a bíróság és az igazságügyi szakértő bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából.
 
 (8)
 

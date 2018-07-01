@@ -48,7 +48,7 @@ h) az utógondozói ellátás elrendelése,
 
 i) a megelőző pártfogás elrendelése.
 
-(5) A gyermekvédelmi rendszer része a bíróság által javítóintézeti nevelésre utalt, illetve előzetes letartóztatásba helyezett fiatalkorúak javítóintézeti ellátása. A fiatalkorúak javítóintézeti neveléséről külön törvény rendelkezik.
+(5) A gyermekvédelmi rendszer része a bíróság által javítóintézeti nevelésre utalt, illetve letartóztatásba helyezett fiatalkorúak javítóintézeti ellátása. A fiatalkorúak javítóintézeti neveléséről külön törvény rendelkezik.
 
 (6) A gyermekjóléti és gyermekvédelmi rendszerben foglalkoztatottakat – a külön jogszabályban meghatározott munkakörükkel összefüggésben – megilleti az a jog, hogy személyüket megbecsüljék, emberi méltóságukat és személyiségi jogaikat tiszteletben tartsák, tevékenységüket értékeljék és elismerjék.
 

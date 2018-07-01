@@ -12,7 +12,7 @@ c) a fiatalkorú és a vele együttesen elhelyezett gyermeke ügyében eljáró 
 
 d) a kincstár részére, a finanszírozásának ellenőrzése céljából.
 
-(3a) A bíróság vagy az ügyész értesítése alapján a javítóintézet nyilvántartja a sértettnek, illetve a büntetőeljárásról szóló 1998. évi XIX. törvény 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személynek a sértettet érintő bűncselekménnyel összefüggésben, a javítóintézetben ellátott fiatalkorú szabadulásáról vagy szökéséről történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
+(3a) A bíróság vagy az ügyészség értesítése alapján a javítóintézet nyilvántartja a sértettnek, illetve a büntetőeljárásról szóló 2017. évi XC. törvény 52. §-a alapján a sértett jogait gyakorló személynek a sértettet érintő bűncselekménnyel összefüggésben, a javítóintézetben ellátott fiatalkorú szabadulásáról vagy szökéséről történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
 
 (3b) A (3a) bekezdés alapján a következő személyes adatokat kell nyilvántartani:
 

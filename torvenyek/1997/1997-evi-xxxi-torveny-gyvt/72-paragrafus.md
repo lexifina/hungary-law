@@ -14,7 +14,7 @@ ab) ha az aa) alpontban foglaltak alkalmazására nincs lehetőség,
 
 2. a tizenkettedik életévét betöltött gyermek esetén lehetőség szerint a legközelebbi ideiglenes hatállyal elhelyezett gyermekek ellátását is biztosító nevelőszülőnél, vagy ha erre nincs lehetőség vagy azt a gyermek egészségi vagy személyiségállapota, ön- és közveszélyes magatartása indokolja vagy más okból szükséges az intézményes elhelyezés biztosítása, – az ideiglenes hatályú elhelyezés biztosítására is kijelölt – gyermekotthonban, gyermekotthon speciális csoportjában, speciális lakásotthonban, fogyatékos személyek vagy pszichiátriai betegek otthonában helyezi el; vagy
 
-b) érdekében áll az anya előzetes letartóztatásának elrendelése esetén az anyával történő együttes elhelyezése, az előzetes letartóztatás elrendeléséről szóló határozat meghozatalakor a bíróság a gyermeket azonnal végrehajtható határozatával, ideiglenesen, az anya fogvatartásának helye szerint a büntetés-végrehajtási intézet anya-gyermek részlegén vagy a javítóintézet fiatalkorú és gyermeke együttes elhelyezését biztosító részlegén helyezi el.
+b) érdekében áll az anya letartóztatásának elrendelése esetén az anyával történő együttes elhelyezése, a letartóztatás elrendeléséről szóló határozat meghozatalakor a bíróság a gyermeket ideiglenesen, az anya fogvatartásának helye szerint a büntetés-végrehajtási intézet anya-gyermek részlegén vagy a javítóintézet fiatalkorú és gyermeke együttes elhelyezését biztosító részlegén helyezi el.
 
 (1a) A beutaló szerv a gyermek ideiglenes hatályú elhelyezéséről haladéktalanul értesíti a gyámhatóságot vagy külföldi állampolgárságú gyermek esetében – ide nem értve a 4. § (1) bekezdés b) pontja szerinti személyt – a Kormány által kijelölt gyámhatóságot.
 

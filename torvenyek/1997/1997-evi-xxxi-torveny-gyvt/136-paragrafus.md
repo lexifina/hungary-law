@@ -10,7 +10,7 @@ továbbíthatók.
 
 a) a szociális hatáskört gyakorló szervnek a szociális ellátás megállapítása,
 
-b) a rendőrségnek, az ügyészségnek, a bíróságnak, az igazságügyi szakértőnek a bűnüldözés és bűnmegelőzés, valamint bírósági eljárás lefolytatása, továbbá a pártfogó felügyelőnek a büntetőeljárásról szóló törvény szerinti környezettanulmány, pártfogó felügyelői vélemény és összefoglaló pártfogó felügyelői vélemény elkészítése,
+b) a rendőrségnek, a nyomozó hatóságnak, az ügyészségnek, a bíróságnak, az igazságügyi szakértőnek a bűnüldözés és bűnmegelőzés, valamint bírósági eljárás lefolytatása, továbbá a pártfogó felügyelőnek a büntetőeljárásról szóló törvény szerinti környezettanulmány, pártfogó felügyelői vélemény és összefoglaló pártfogó felügyelői vélemény elkészítése,
 
 c) a külföldi hatóságnak, illetve bíróságnak családi jogállás, gyermektartás, kapcsolattartás, gyámság, örökbefogadás, a gyermek érdekében tett ideiglenes intézkedés, valamint a gyermek jogellenes külföldre vitelének megszüntetése
 
@@ -34,7 +34,7 @@ továbbíthatók.
 
 (5) A gyámhatóság és a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szervezet alkalmazottja és vezetője, a gyermek és az őt nevelő szülő vagy a gyermek törvényes képviselője tartózkodási helyére vonatkozóan megtagadhatja a szülő tájékoztatását, illetve korlátozhatja a szülő iratbetekintési jogát, ha
 
-a) a szülő ellen gyermeke vagy a gyermeket nevelő másik szülő sérelmére elkövetett bűncselekmény miatt büntetőeljárás van folyamatban, annak jogerős befejezéséig,
+a) a szülő a gyermeke vagy a gyermeket nevelő másik szülő sérelmére elkövetett bűncselekmény miatt büntetőeljárás hatálya alatt áll,
 
 b) a szülő ellen gyermeke vagy a gyermeket nevelő másik szülő sérelmére elkövetett külön törvényben meghatározott hozzátartozók közötti erőszak miatt alkalmazható ideiglenes megelőző távoltartó határozat vagy megelőző távoltartó határozat iránti eljárás van folyamatban, a távoltartás időtartamáig.
 

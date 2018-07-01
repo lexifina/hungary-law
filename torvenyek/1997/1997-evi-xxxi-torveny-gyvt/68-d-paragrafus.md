@@ -1,6 +1,6 @@
 ## A megelőző pártfogás elrendelése
 
-68/D. § (1) A gyámhatóság a bűncselekmény vagy az elzárással is sújtható szabálysértés elkövetése miatt indult védelembe vétel iránti eljárásban, vagy a már fennálló védelembe vétel mellett a nyomozó hatóságnak a bűncselekmény vagy a szabálysértési hatóságnak a szabálysértés elkövetéséről tájékoztató, a gyámhatóság felé tett jelzését követően megkeresi a pártfogó felügyelői szolgálatot környezettanulmány és a gyermek veszélyeztetettségének bűnmegelőzési szempontú kockázatértékelése (a továbbiakban: kockázatértékelés) beszerzése céljából.
+68/D. § (1) A gyámhatóság a bűncselekmény vagy az elzárással is sújtható szabálysértés elkövetése miatt indult védelembe vétel iránti eljárásban, vagy a már fennálló védelembe vétel mellett az ügyészségnek, a nyomozó hatóságnak a bűncselekmény vagy a szabálysértési hatóságnak a szabálysértés elkövetéséről tájékoztató, a gyámhatóság felé tett jelzését követően megkeresi a pártfogó felügyelői szolgálatot környezettanulmány és a gyermek veszélyeztetettségének bűnmegelőzési szempontú kockázatértékelése (a továbbiakban: kockázatértékelés) beszerzése céljából.
 
 (2) A gyámhatóság a megkereséssel egyidejűleg megküldi a pártfogó felügyelői szolgálatnak a már fennálló védelembe vétel elrendeléséről szóló határozatot és a gyermekjóléti központ megelőző pártfogás elrendelésére vonatkozó javaslatát.
 
@@ -36,7 +36,7 @@ a) a pártfogó felügyelői szolgálatnak a megelőző pártfogó felügyelő k
 
 b) tájékoztatásul
 
-ba) a bűncselekmény elkövetése miatt a fiatalkorúval szemben indult büntetőeljárásban eljáró és jelzést tevő nyomozó hatóságnak, vagy
+ba) a bűncselekmény elkövetése miatt a büntetőeljárásban eljáró és jelzést tevő ügyészségnek, nyomozó hatóságnak, vagy
 
 bb) az elzárással is sújtható szabálysértés elkövetéséről jelzést tevő szabálysértési hatóságnak.
 

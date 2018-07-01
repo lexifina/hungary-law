@@ -98,7 +98,7 @@ adatainak a kezelésére.
 
 (4) A gyermekjóléti központ, a gyámhatóság, a pártfogó felügyelői szolgálat, a megelőző pártfogó felügyelő a 15. § (2)–(4) bekezdésében meghatározott ellátások nyújtása vagy intézkedések alkalmazása során a (2) bekezdésben meghatározott adatokon túl
 
-a) a gyermek által megvalósított, a fiatalkorú által elkövetett bűncselekményre és szabálysértésre,
+a) a gyermek, a fiatalkorú által elkövetett bűncselekményre és szabálysértésre,
 
 b) a szülő vagy más törvényes képviselő által a gyermek sérelmére elkövetett bűncselekményre,
 

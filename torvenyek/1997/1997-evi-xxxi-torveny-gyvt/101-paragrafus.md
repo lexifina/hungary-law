@@ -46,6 +46,6 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
 
 (4) A miniszter a Kormány rendeletében kijelölt szerv útján megszervezi a szülői felügyelet nélkül Magyarországon tartózkodó külföldi állampolgárságú gyermek ellátását, és ennek érdekében – ha számára kötelező tartózkodási helyként gyermekvédelmi intézményt kell kijelölni – a Kormány rendeletében kijelölt szerv gyermekotthont, kizárólag menekültként, oltalmazottként vagy menedékesként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthont, ideiglenes befogadó férőhelyet, tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhelyet tart fenn, vagy a feladat biztosítása érdekében ellátási szerződést köt.
 
-(5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda előzetes letartóztatásba helyezett fiatalkorú bűnelkövetők nevelésének feltételeiről, a javítóintézeteknek a Kormány rendeletében kijelölt szerv központi szerve útján történő fenntartásáról. A miniszter – a büntetés-végrehajtásért felelős miniszterrel együttesen – ellátja a javítóintézetek felügyeletével kapcsolatos feladatokat.
+(5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda letartóztatásba helyezett fiatalkorú terhelt nevelésének feltételeiről, a javítóintézeteknek a Kormány rendeletében kijelölt szerv központi szerve útján történő fenntartásáról. A miniszter – a büntetés-végrehajtásért felelős miniszterrel együttesen – ellátja a javítóintézetek felügyeletével kapcsolatos feladatokat.
 
 (6)

@@ -10,7 +10,7 @@
 
 a) javítóintézetben nevelt fiatalkorú: a bíróság ítélete alapján javítóintézeti nevelés intézkedés hatálya alatt álló fiatalkorú,
 
-b) javítóintézetben ellátott fiatalkorú: az a) pont szerinti, valamint az előzetes letartóztatás végrehajtása érdekében javítóintézetben elhelyezett fiatalkorú.
+b) javítóintézetben ellátott fiatalkorú: az a) pont szerinti, valamint a letartóztatás végrehajtása érdekében javítóintézetben elhelyezett fiatalkorú.
 
 (3) A javítóintézetben a fiatalkorúak nevelését, ellátását legfeljebb tizenkettő fős csoportokban kell biztosítani. Az értelmi fogyatékossággal élő, szenvedélybeteg vagy súlyos beilleszkedési zavarokkal, személyiségzavarokkal küzdő fiatalkorúak számára létrehozott speciális csoportokban legfeljebb nyolc fő helyezhető el.
 
