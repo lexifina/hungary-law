@@ -6,4 +6,6 @@
 
 (4) Az ülnök megválasztására jogosult képviselő-testület a (2) bekezdésben meghatározott személyes adatokat a jelölt ülnökké történő megválasztásáról meghozott döntésig kezeli.
 
-(5) Egy jelölt kizárólag egy bírósághoz választható meg ülnökké.
+(5) Egy jelölt – a (6) bekezdésben meghatározott kivétellel – kizárólag egy bírósághoz választható meg ülnökké.
+
+(6) A tábornoki rendfokozatú katonai ülnökjelölt, függetlenül attól, hogy hol van a szolgálati helye, több bírósághoz is megválasztható katonai ülnökké.
