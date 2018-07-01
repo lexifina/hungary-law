@@ -10,7 +10,7 @@ c) közérdekű munka helyébe lépő szabadságvesztést töltő,
 
 d) pénzbüntetés helyébe lépő szabadságvesztést töltő,
 
-e) előzetesen letartóztatott,
+e)[^1] letartóztatott,
 
 f) rendbírság helyébe lépő elzárást töltő és
 
@@ -19,3 +19,5 @@ g) szabálysértési elzárást töltő
 ## (a továbbiakban együtt: fogvatartott) fegyelmi felelősségének az elbírálását szabályozza.
 
 (2) A szándékosságra, a kísérletre, a felbujtóra, a bűnsegédre, valamint a büntethetőséget kizáró okokra a Büntető Törvénykönyvről szóló törvény által meghatározottakat a fegyelmi felelősségre vonatkozóan is alkalmazni kell.
+
+[^1]: Az 1. § (1) bekezdés e) pontja a 14/2018. (VI. 15.) IM rendelet 10. § a) pontja szerint módosított szöveg.

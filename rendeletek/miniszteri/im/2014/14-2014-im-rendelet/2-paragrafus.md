@@ -6,7 +6,7 @@ a) megsérti a büntetés-végrehajtás rendjére és biztonságára, a fogvatar
 
 b) megszegi a büntetés-végrehajtási intézet házirendjét,
 
-c) nem tartja be a büntetés-végrehajtási szervezet (a továbbiakban: bv. szervezet) személyi állománya tagjának, előzetesen letartóztatott esetében továbbá a rendelkezési jogkör gyakorlójának az utasításait,
+c)[^2] nem tartja be a büntetés-végrehajtási szervezet (a továbbiakban: bv. szervezet) személyi állománya tagjának, letartóztatott esetében továbbá a rendelkezési jogkör gyakorlójának az utasításait,
 
 d) az előállításakor vagy egészségügyi intézménybe való szállítása esetén nem tartja be az előállítást elrendelő szerv vagy az egészségügyi intézmény rendjére vonatkozó szabályokat,
 
@@ -27,3 +27,5 @@ a) önkéntes elállása miatt marad el a cselekmény befejezése,
 b) az eredmény bekövetkezését önként elhárította.
 
 (4) Ha a (2) bekezdés szerinti cselekmény önmagában is fegyelemsértésnek minősül, a fegyelmi eljárást meg kell indítani.
+
+[^2]: A 2. § (2) bekezdés c) pontja a 14/2018. (VI. 15.) IM rendelet 10. § a) pontja szerint módosított szöveg.
