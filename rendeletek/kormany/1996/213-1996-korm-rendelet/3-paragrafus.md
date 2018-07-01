@@ -1,3 +1,5 @@
+## 2/A. §[^15] Utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenységet Magyarországon csak az folytathat, aki a Kertv., valamint az e rendeletben előírt feltételeknek megfelel, és e tevékenységét a Kormányhivatalnál bejelentette.
+
 3. § (1)–(2)[^16]
 
 (3)[^17] A Kormányhivatal az utazási vállalkozó nyilvántartását – az adatigénylő által meghatározott módon és rendszerességgel – statisztikai célokra a Központi Statisztikai Hivatal rendelkezésére bocsátja.
@@ -18,6 +20,7 @@ f)[^21] az utazási vállalkozó által végzett tevékenységek (utazásszervez
 
 g)[^22] az utazási vállalkozó nyilvántartásból történt törlésének és tevékenység megtiltásának ténye.
 
+[^15]: A 2/A. §-t a 473/2017. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
 [^16]: A 3. § (1)–(2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 97. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^17]: A 3. § (3) bekezdése a 20/2007. (II. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 97. §-a, a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^18]: A 3. § (4) bekezdését a 78/2005. (IV. 28.) Korm. rendelet 3. §-a iktatta be, nyitó szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 97. §-a, a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.

@@ -1,6 +1,11 @@
-1. §[^1] (1)[^2] E rendelet hatálya Magyarország területén utazásszervezői vagy utazásközvetítői tevékenységet folytatókra (a továbbiakban együtt: utazási vállalkozó) terjed ki.
+1. §[^1] (1) E rendelet hatálya a Magyarország területén utazásszervezői vagy utazásközvetítői tevékenységet folytatókra, valamint az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedőkre (a továbbiakban együtt: utazási vállalkozó) terjed ki.
 
-(2) E rendelet alkalmazásában utazási csomag az utazási szerződésről szóló 281/2008. (XI. 28.) Korm. rendelet 1. § c) pontjában meghatározott fogalom.
+(2) E rendelet alkalmazásában:
 
-[^1]: Az 1. § a 182/2009. (IX. 10.) Korm. rendelet 95. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^2]: Az 1. § (1) bekezdése a 144/2012. (VII. 3.) Korm. rendelet 1. §-a szerint módosított szöveg.
+a) utazási csomag: az utazási szolgáltatásra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 2. § 6. pontjában meghatározott fogalom a 13. §-ban meghatározott kivétellel;
+
+b) utazási szolgáltatásegyüttes: az utazási szolgáltatásra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 2. § 10. pontjában meghatározott fogalom a 28. §-ban meghatározott kivétellel;
+
+c) utazó: a a kereskedelemről szóló 2005. évi CLXIV. törvényben (a továbbiakban: Kertv.), 2. § 37. pontjában meghatározott személy.
+
+[^1]: Az 1. § a 473/2017. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
