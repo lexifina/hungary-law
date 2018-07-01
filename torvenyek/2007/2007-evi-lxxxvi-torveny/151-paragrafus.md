@@ -18,7 +18,7 @@ b) a számlázási és forgalmazási jogviták rendezésére jogszabály alapjá
 
 c) a Hivatalnak,
 
-d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságoknak, az ügyésznek, valamint a bíróságnak,
+d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, bíróságnak, az ügyészségnek, a nyomozó hatóságnak,
 
 e) a bírósági végrehajtásról szóló törvény előírásai szerint a bírósági végrehajtónak,
 
