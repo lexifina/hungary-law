@@ -1,3 +1,0 @@
-181. § (1) Katonával szemben kiszabott közügyektől eltiltásról, lefokozásról, szolgálati viszony megszüntetéséről, rendfokozatban visszavetésről, várakozási idő meghosszabbításáról, vagy elrendelt pártfogó felügyeletről – közügyektől eltiltás esetén a 3. § szerinti értesítőlap mellett – külön értesítőlapot kell kiállítani, és azt a katona állományilletékes parancsnokának három napon belül meg kell megküldeni.
-
-(2) A közügyektől eltiltásról, a katonai büntetésről vagy közügyektől eltiltásról szóló külön értesítőlapot a katona volt állományilletékes parancsnokának akkor is meg kell küldeni, ha az elítélt szolgálati viszonya a büntetőeljárás jogerős befejezése előtt megszűnt.

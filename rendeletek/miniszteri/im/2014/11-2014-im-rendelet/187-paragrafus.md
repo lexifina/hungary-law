@@ -1,5 +1,0 @@
-187. §[^163] (1) A Bv. tv. 10/A. § (5) bekezdése szerinti kérelemben megtett, az Emberi Jogok Európai Bírósága (a továbbiakban: EJEB) eljárására vonatkozó nyilatkozatok valóságtartalmának az ellenőrzése érdekében az Igazságügyi Minisztérium – az EJEB-nek Magyarországot kártérítésre kötelező nyilvános ítéletei alapján – jegyzéket készít a magyarországi fogvatartási körülményekkel kapcsolatban megítélt kártérítésekről. A jegyzék tartalmazza az EJEB által vizsgált kérelem számát, a kártérítésre jogosult nevét és egyéb ismert természetes személyazonosító adatát, a kártérítés megítélésekor figyelembe vett fogvatartási időszakokat az érintett bv. intézetek megjelölésével.
-
-(2) Az (1) bekezdés szerinti jegyzéket az Igazságügyi Minisztérium – az Országos Bírósági Hivatal, a Legfőbb Ügyészség és a BVOP útján – 2017. január 15. napjáig a bv. bírák és a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészek, valamint a bv. intézetek rendelkezésére bocsátja.
-
-[^163]: A 187. §-t a 24/2016. (XII. 23.) IM rendelet 9. §-a iktatta be.

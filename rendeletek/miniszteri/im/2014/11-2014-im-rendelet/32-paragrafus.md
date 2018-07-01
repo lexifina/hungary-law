@@ -1,5 +1,0 @@
-## 31. § Ha a fiatalkorú elítélt a szabadságvesztést kiszabó ítélet jogerőre emelkedése után, de a szabadságvesztés megkezdése előtt betölti a huszonegyedik életévet, a bv. bíró a Bv. tv. 54. § (1) bekezdése szerint jár el. A megállapított büntetés-végrehajtási fokozatot az értesítőlapon feltünteti, azt keltezéssel, az aláírásával és a bíróság bélyegzőjével látja el. A bv. bíró a határozatát megküldi az első fokon eljárt bíróságnak.
-
-32. § (1) Ha a bv. bíró a Bv. tv. 27. §-a szerint szabadságvesztés végrehajtását kizáró okot észlel, a Bv. tv. 48. § (6) bekezdése szerint jár el. Ezt követően azonnal értesíti a BVOP-t, hogy az elítélt részére a büntetés megkezdésére a felhívást ne küldjék ki, vagy – ha az elítélt nem jelent meg a megjelölt napon a bv. intézetnél – a kibocsátott elővezető parancsot, elfogatóparancsot visszavonja.
-
-(2) Az elítélt halála esetén a bv. bíró beszerzi a halotti anyakönyvi kivonatot, majd a halál tényéről értesíti a BVOP-t. Ilyenkor a szabadságvesztés végrehajthatatlanságáról a bv. bíró nem hoz határozatot.
