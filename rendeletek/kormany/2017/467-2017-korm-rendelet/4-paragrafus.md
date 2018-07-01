@@ -4,4 +4,6 @@
 
 4. § (1) Az adatközponti szolgáltatások igénybevétele a különböző működési esetekhez tartozó kötelező vagy önkéntes igénybevételi formában történhet.
 
-(2) A 2. mellékletben meghatározott KÖFOP projektek keretében fejlesztett szakrendszerek esetében a szakrendszert adatgazdaként működtető szervezet számára kötelező a Kormányzati Adatközpont igénybevétele.
+(2)[^1] A 2. mellékletben meghatározott KÖFOP projektek keretében fejlesztett szakrendszerek és a 3. mellékletben meghatározott szakrendszerek esetében a szakrendszerek működéséért felelős szervezet számára kötelező a Kormányzati Adatközpont igénybevétele.
+
+[^1]: A 4. § (2) bekezdése a 112/2018. (VI. 25.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

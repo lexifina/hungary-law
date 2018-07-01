@@ -74,6 +74,14 @@
 
 | 35 | KÖFOP- 1.0.0- VEKOP- 15- 2015- 00005 | NISZ Zrt. | Közigazgatás informatikai infrastruktúrájának konszolidálása a költségek csökkentése érdekében |
 
-3. melléklet a 467/2017. (XII. 28.) Korm. rendelethez[^2]
+3. melléklet a 467/2017. (XII. 28.) Korm. rendelethez[^4]
 
-[^2]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban működő egyéb központi és szakrendszerek
+
+| A | B | C |
+
+| Sorszám | A rendszer elnevezése | A rendszer jellege |
+
+| 1 | Központi Médiatár informatikai rendszer | központi rendszer |
+
+[^4]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be.
