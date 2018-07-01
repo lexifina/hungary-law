@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1986-3-20-06
 | 2016-06-30 | 1986-3-20-06.22 | 65/2007. (XII. 23.) IRM rendelet |
 | 2017-01-01 | 1986-3-20-06.23 | 27/2016. (XII. 27.) IM rendelet |
 | 2018-01-01 | 1986-3-20-06.24 | 20/2017. (XII. 21.) IM rendelet |
+| 2018-07-01 | 1986-3-20-06.25 | 17/2018. (VI. 27.) IM rendelet |
