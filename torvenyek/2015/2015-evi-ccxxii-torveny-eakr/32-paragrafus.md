@@ -36,7 +36,7 @@ c) az ügyészségnek az ügyészségről szóló törvényben meghatározott k�
 
 d) a nemzetbiztonsági szolgálatnak a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 
-e) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnek a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából.
+e) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnek a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
 
 (8) A természetes személy adatait az ügyfél-regisztrációs szerv a regisztráció megszűnését követő 5 év elteltével zárolja, ezt követően azokat kizárólag az elektronikus azonosítás hitelességének visszavezethetősége, a polgárok jogai és jogos érdekeinek védelme érdekében, az általános szerződési feltételeiben meghatározott időpontig, de legalább a regisztráció megszűnését követő 10 évig, legfeljebb a regisztráció megszűnését követő 20 évig kezelheti.
 
