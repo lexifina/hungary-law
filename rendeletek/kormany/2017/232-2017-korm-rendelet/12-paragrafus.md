@@ -1,9 +1,9 @@
-## 11. §[^14]
+12. § (1)[^9]
 
-12. § (1)[^15]
+(2) Hatályát veszti az R.
 
-(2)[^16]
+a) 3. § (12a) bekezdése,
 
-[^14]: A 11. § a 15. § (3) bekezdése alapján 2018. július 1-jén lép hatályba.
-[^15]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 12. § (2) bekezdése a 15. § (3) bekezdése alapján 2018. július 1-jén lép hatályba.
+b) 7. § (8a) bekezdése.
+
+[^9]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
