@@ -4,7 +4,7 @@
 
 a) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési eljárások lefolytatása céljából az e szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
 
-b) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a nyomozó hatóság, az ügyészség és a bíróság, valamint
+b) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv valamint
 
 c) a közúti közlekedésről szóló 1988. évi I. törvény 20. és 21. §-ában meghatározott közigazgatási bírságot kiszabó hatóság.
 

@@ -14,7 +14,7 @@ e) átvezeti a nyilvántartáson az a)–c), i) és j) pontokban megjelölt adat
 
 f) továbbítja az okmánytár részére a nyilvántartásba történő bejegyzés és az okmányok kitöltésének alapját képező, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló jogszabály mellékletében csatolandóként meghatározott iratokat;
 
-g)
+g) továbbítja az okmánytár részére az ideiglenes rendszámtáblák nyilvántartásába történő bejegyzés és az okmányok kiállításának alapját képező, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben az ideiglenes rendszámtábla kiadásához szükséges bemutatandó és csatolandó okiratokról készült másolatot;
 
 h) visszavonja (bevonja) az engedélyt, a parkolási igazolványt, a járművet forgalomból kivonja, és gondoskodik az ezekkel összefüggő adatok nyilvántartásba történő bevezetéséről;
 

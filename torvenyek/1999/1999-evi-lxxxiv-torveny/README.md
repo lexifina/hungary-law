@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2017-07-01 | 2016. évi XCVII. törvény | 1999-84-00-00.59 |
 | 2017-09-19 | 2017. évi LXIII. törvény | 1999-84-00-00.60 |
 | 2018-01-01 | 2017. évi L. törvény | 1999-84-00-00.61 |
+| 2018-07-01 | 2016. évi CXLIV. törvény | 1999-84-00-00.62 |

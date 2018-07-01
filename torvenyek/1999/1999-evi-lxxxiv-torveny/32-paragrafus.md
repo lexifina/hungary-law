@@ -12,7 +12,7 @@ d) az adatszolgáltatás alanyának nevét.
 
 (3) Az érintett személy az adattovábbítási nyilvántartásból – törvény eltérő rendelkezése hiányában – jogosult megismerni, hogy mely adatszolgáltatások alanya volt.
 
-(4) Az adattovábbítási nyilvántartásba – ha törvény eltérően nem rendelkezik – feladatkörében betekinthet, abból adatot kérhet a Nemzeti Adatvédelmi és Információszabadság Hatóság, a közlekedésrendészetért felelős miniszter, az általa ellenőrzésre kijelölt köztisztviselő, a nyomozó hatóság és törvényben feljogosított szerv.
+(4) Az adattovábbítási nyilvántartásba – ha törvény eltérően nem rendelkezik – feladatkörében betekinthet, abból adatot kérhet a Nemzeti Adatvédelmi és Információszabadság Hatóság, a közlekedésrendészetért felelős miniszter, az általa ellenőrzésre kijelölt köztisztviselő, a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv és törvényben feljogosított szerv.
 
 (5) Az e törvény 27/A–27/C. §-a alapján teljesített adatátvételről és adattovábbításról, a találatról és annak hiányáról nyilvántartást kell vezetni, amely tartalmazza:
 
