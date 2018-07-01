@@ -20,7 +20,7 @@ ismerheti meg. A felsorolt szervezetek személyes adatot csak feladataik ellát�
 
 (2) A nyilvántartásban szereplő adatokat a szükséges mértékben, az eljárás tárgyát képező ügyre vonatkozóan, törvényben vagy törvény felhatalmazása alapján megalkotott jogszabályban meghatározott feladatai ellátása érdekében
 
-a) a feladatkörében eljáró ügyészség, továbbá a folyamatban lévő büntetőeljárás, a feljelentés kiegészítése keretében a nyomozó hatóság,
+a) a feladatkörében eljáró ügyészség, továbbá a büntetőeljárás során a nyomozó hatóság,
 
 b) a büntető-, valamint polgári ügyben a bíróság,
 
@@ -32,4 +32,4 @@ e) az európai uniós támogatások felhasználásának szabályszerűségét el
 
 ismerheti meg. A felsorolt szervezetek személyes adatot csak feladataik ellátásához szükséges mértékben és ideig kezelhetnek.
 
-(3) A (2) bekezdésben foglaltak alapján annak a szervnek szolgáltatható adat a nyilvántartásból, amely törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat megismerésére. Az adatigénylőnek a megkeresésben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
+(3) A (2) bekezdésben foglaltak alapján annak a szervnek szolgáltatható adat a nyilvántartásból, amely törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat megismerésére. Az adatigénylőnek a megkeresésben, illetve adatkérésben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.

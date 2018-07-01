@@ -20,7 +20,7 @@ szemben. A felsorolt szervezetek személyes adatot csak feladataik ellátásáho
 
 (2) A titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn a törvényben vagy törvény felhatalmazása alapján megalkotott jogszabályban meghatározott feladatai ellátása érdekében
 
-a) a feladatkörében eljáró ügyészséggel, továbbá a folyamatban lévő büntetőeljárás, a feljelentés kiegészítése keretében a nyomozó hatósággal,
+a) a feladatkörében eljáró ügyészséggel, továbbá a büntetőeljárás során a nyomozó hatósággal,
 
 b) a büntető-, polgári, valamint közigazgatási ügyben a bírósággal,
 
@@ -32,4 +32,4 @@ e) az európai uniós támogatások felhasználásának szabályszerűségét el
 
 szemben. A felsorolt szervezetek személyes adatot csak feladataik ellátásához szükséges mértékben és ideig kezelhetnek.
 
-(3) A (2) bekezdésben foglaltak alapján annak a szervnek adható át a bizalmi vagyonkezelő vállalkozás titoktartási kötelezettségébe tartozó adat, amely törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat megismerésére. Az adatigénylőnek a megkeresésben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
+(3) A (2) bekezdésben foglaltak alapján annak a szervnek adható át a bizalmi vagyonkezelő vállalkozás titoktartási kötelezettségébe tartozó adat, amely törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat megismerésére. Az adatigénylőnek a megkeresésben, illetve adatkérésben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
