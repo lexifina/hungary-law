@@ -1,3 +1,0 @@
-57. § (1) A 18 hónapot meghaladó időtartamban külföldi képzésben részt vevő kiküldött családi ellátmánypótlékra jogosult. A 18 hónapos időtartamba nem számítható bele a külföldi képzés érdemi részéhez közvetlenül nem kapcsolódó nyelvi vagy egyéb felkészítés, vagy más jogcímen történő külföldön tartózkodás időtartama, ha 1 hónapnál hosszabb idő telik el a külföldi tartózkodások között.
-
-(2) Ha a külföldi képzés összességében 18 hónapnál hosszabb időtartamra meghosszabbításra kerül, akkor a kiküldött családi ellátmánypótlékra a meghosszabbításról szóló vezénylési okmány kiadása napjától jogosult.

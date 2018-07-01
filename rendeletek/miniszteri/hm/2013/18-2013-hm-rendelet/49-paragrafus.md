@@ -1,9 +1,0 @@
-## 27. Utazási költségtérítés
-
-49. § (1) A kiküldött a Magyarországgal szomszédos országokba, valamint a Cseh Köztársaságba történő utazások alkalmával vonat, autóbusz, hajó, szolgálati gépjármű vagy saját gépjármű igénybevételére jogosult.
-
-(2)[^119] Ukrajnába, Romániába és a Cseh Köztársaságba történő utazásnál a kiküldő az (1) bekezdés helyett indokolt esetben repülőgép igénybevételét engedélyezheti.
-
-(3) Az (1) és a (2) bekezdésben fel nem sorolt országokban végrehajtott ideiglenes külföldi szolgálat alkalmával repülőgép vehető igénybe, vagy ha költségmegtakarítás érhető el, és a szolgálati feladat végrehajtását nem akadályozza, a kiküldő dönthet úgy, hogy más közlekedési eszközzel történjen az utazás.
-
-[^119]: A 49. § (2) bekezdése a 6/2017. (VI. 8.) HM rendelet 1. §-a szerint módosított szöveg.
