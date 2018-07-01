@@ -1,10 +1,10 @@
 28. § (1) A büntetőeljárásban történő lefoglalás vagy büntetőeljárásban történő bizonyítékként való felhasználás céljából körözött tárgyra elhelyezett figyelmeztető jelzés alapján elért találat esetén a megtalált tárgyat az általános rendőrségi feladatok ellátására létrehozott szerv, vagy a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatot ellátó szervezeti egysége és vámszerve (e § alkalmazásában a továbbiakban együtt: hatóság) a büntetőeljárásról szóló törvény alapján lefoglalja. Ebben az esetben a figyelmeztető jelzést a tárgy lefoglalására irányuló eljárási jogsegély iránti megkeresésnek kell tekinteni, és a lefoglalásról értesíteni kell a jogsegély teljesítésére jogosult ügyészséget.
 
-(2) Az (1) bekezdés alapján a 10. § (1) bekezdés a)–c) pontjában meghatározott tárgy lefoglalása esetén a lefoglalást elrendelő hatóság az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 71/E. §-ában foglaltak alapján a lefoglalást megszünteti, ha a rendelkezésre álló vagy a 27. § (3) bekezdése alapján beszerzett adatok alapján megállapítható, hogy a lefoglalás a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 155. § (1) bekezdése alapján megszüntethető és a lefoglalt dolog
+(2) Az (1) bekezdés alapján a 10. § (1) bekezdés a)–c) pontjában meghatározott tárgy lefoglalása esetén a lefoglalást elrendelő hatóság az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 71/E. §-ában foglaltak alapján a lefoglalást megszünteti, ha a rendelkezésre álló vagy a 27. § (3) bekezdése alapján beszerzett adatok alapján megállapítható, hogy a lefoglalás a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 320. § (1) bekezdése alapján megszüntethető és a lefoglalt dolog
 
-a) a Be. 155. § (2) bekezdése alapján a dolog tulajdonosának, vagy
+a) a Be. 321. § (1) bekezdése alapján a dolog tulajdonosának, vagy
 
-b) tagállami hatóság rendelkezése szerint, a Be. 155. § (3) bekezdés alapján a dolog kiadása iránt alapos igényt bejelentő részére
+b) tagállami hatóság rendelkezése szerint, a Be. 321. § (2) bekezdése alapján a dolog kiadása iránt alapos igényt bejelentő részére
 
 kiadható.
 

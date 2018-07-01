@@ -2,9 +2,9 @@
 
 a) akit eltűnés miatt köröznek,
 
-b) akit a büntetőeljárásban terheltként vagy tanúként kívánnak idézni, vagy akinek büntetőeljárásban okiratot kívánnak kézbesíteni, de lakó- vagy tartózkodási helye ismeretlen, vagy
+b) akit a büntetőeljárásban elérhetőségének megállapítása érdekében tanúként vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személyként köröznek, vagy
 
-c) aki szabadságvesztés büntetésének letöltését vagy a vele szemben elrendelt kényszergyógykezelés végrehajtását nem kezdte meg és emiatt tartózkodási helyének megállapítása érdekében körözését rendelték el, de az európai elfogatóparancs vagy a nemzetközi elfogatóparancs kibocsátásának törvényi feltételei nem állnak fenn.
+c) aki szabadságvesztés vagy elzárás büntetésének, illetve javítóintézeti nevelésének letöltését vagy a vele szemben elrendelt kényszergyógykezelés végrehajtását nem kezdte meg és emiatt körözését rendelték el, de az európai elfogatóparancs vagy a nemzetközi elfogatóparancs kibocsátásának törvényi feltételei nem állnak fenn.
 
 (2) Az (1) bekezdés a) pontja szerinti figyelmeztető jelzés elhelyezésekor azt is jelezni kell, hogy megtalálása esetén
 
