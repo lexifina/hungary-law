@@ -1,1 +1,0 @@
-A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 101. §-a (1) bekezdésének h) pontjában, valamint a határőrizetről és a Határőrségről szóló 1997. évi XXXII. törvény 83. §-a (4) bekezdésének e) pontjában kapott felhatalmazás alapján a következőket rendelem el:

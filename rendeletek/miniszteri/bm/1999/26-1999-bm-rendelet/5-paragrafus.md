@@ -1,1 +1,0 @@
-## 4. § Az alkalmazásra vagy a meghosszabbításra irányuló kérelmet az alkalmazás javasolt időpontja, illetve az engedély lejárta előtt legalább 5 munkanappal kell benyújtani. Sürgősségi elrendelés esetén az engedélyezés iránti kérelmet az elrendeléssel egyidejűleg be kell nyújtani.
