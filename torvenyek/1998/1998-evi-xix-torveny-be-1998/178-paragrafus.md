@@ -1,9 +1,0 @@
-## A nyomozó hatóság egyéb adatszerző tevékenysége
-
-178. § (1) A nyomozó hatóság a büntetőeljárás megindítása után annak megállapítására, hogy vannak-e bizonyítási eszközök, és ezek hol találhatók, adatszerzést végezhet, ennek során igénybe veheti a bűnüldöző szervek külön törvényben meghatározott bűnüldözési adatkezelési adatbázisait, a megkeresésre (71. §) vonatkozó szabályok szerint bárkitől okiratok és adatok rendelkezésre bocsátását, valamint felvilágosítás adását, a feljelentő vagy a sértett állami, helyi önkormányzati szerv, köztestület, gazdálkodó szervezet, alapítvány, közalapítvány vagy egyesület vezetőjétől, illetőleg a vizsgálatra jogosult szervtől vizsgálat tartását és a kár megállapítását kérheti, a bűncselekmény helyszínét megtekintheti, szaktanácsadót vehet igénybe, és a megszerzett adatokat ellenőrizheti. A nyomozó hatóság az adatszerzés során fénykép vagy más adathordozón rögzített kép bemutatásával személyt vagy tárgyat kiválasztathat, illetőleg a bemutatott személyről vagy tárgyról felvilágosítást kérhet.
-
-(2) A nyomozó hatóság az adatszerző tevékenysége során az ügyész engedélyével a nyomozó hatóság olyan tagját is igénybe veheti, aki e minőségét leplezi (fedett nyomozó), valamint a reá irányadó törvény szerint más, bírói engedélyhez nem kötött titkos információgyűjtést is végezhet.
-
-(3) A nyomozó hatóságnak az a tagja, aki az adatszerzést végezte, erről jelentést készít. A jelentés tartalmára a 168. § (2) és (3) bekezdésének rendelkezései az irányadók. A (2) bekezdés szerinti adatszerző tevékenységről szóló jelentést a nyomozó hatóság vezetője írja alá.
-
-(4) Ha az ügyész a nyomozó hatóság adatszerző tevékenységének eredményét bizonyítékként kívánja felhasználni, az arról készített jelentést csatolja a nyomozás irataihoz. A nyomozó hatóság adatszerző tevékenységéről készített jelentés a nyomozás irataihoz történő csatolást követően az okiratra (116. §) vonatkozó szabályok szerint használható fel bizonyítékként.

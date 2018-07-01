@@ -1,3 +1,0 @@
-254. § (1) Az eljárási cselekményen jelen volt ügyész, vádlott, védő és az eljárásban részt vevő más személy a jegyzőkönyv elkészítésétől számított tizenöt napon belül annak kiegészítését vagy kijavítását indítványozhatja. Erről a bíróság szükség esetén az eljárási cselekményen jelen voltak meghallgatása után határoz, az indítványt – annak elutasítása esetén – a jegyzőkönyvben fel kell tüntetni. A kiegészítést és a kijavítást a tanács elnöke és a jegyzőkönyvvezető aláírja.
-
-(2) Nyilvánvaló név- vagy számelírás és más hasonló elírás esetén a bíróság a jegyzőkönyv kijavítását mind indítványra, mind hivatalból elrendelheti.

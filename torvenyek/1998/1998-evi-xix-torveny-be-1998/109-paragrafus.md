@@ -1,1 +1,0 @@
-109. § Ha a szakvélemény hiányos, homályos, önmagával ellentétben álló vagy az egyébként szükséges, a bíróság, az ügyész, illetőleg a nyomozó hatóság felhívására a szakértő köteles a kért felvilágosítást megadni, illetve a szakvéleményt kiegészíteni.

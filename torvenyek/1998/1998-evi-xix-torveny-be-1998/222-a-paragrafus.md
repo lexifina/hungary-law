@@ -1,1 +1,0 @@
-222/A. § Különös méltánylást érdemlő esetben a vádemelés ötévi szabadságvesztésnél nem súlyosabban büntetendő bűncselekmény miatt is elhalasztható. Ez esetben a vádelhalasztás tartama a törvényben meghatározott büntetési tétellel azonos.

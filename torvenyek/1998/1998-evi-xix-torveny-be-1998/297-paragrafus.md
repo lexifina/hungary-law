@@ -1,3 +1,0 @@
-297. § (1) A tanács elnöke az ügyész, a vádlott vagy a védő indítványára, illetőleg hivatalból ismertetheti a tanú korábbi vallomásának részeit, ha a tanú a történtekre nem emlékszik, vagy ha a tárgyaláson tett és a korábbi tanúvallomása között ellentét van. Az ismertetés – a 296. § (3) bekezdésében meghatározott keretek között – kiterjedhet a tanúnak az eljárás korábbi szakaszában vagy más eljárásban gyanúsítottként vagy vádlottként tett vallomására is.
-
-(2) A korábbi vallomás részeinek ismertetésére csak akkor kerülhet sor, ha az ismertetésben foglalt tényekre és körülményekre a tanúhoz kérdést intéztek, illetve a tanú e tényekre és körülményekre nyilatkozott. A tanács elnöke gondoskodik arról, hogy az ismertetés a tényállás megállapításához szükséges mértékű legyen.

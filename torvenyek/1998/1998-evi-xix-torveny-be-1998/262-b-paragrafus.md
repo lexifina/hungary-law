@@ -1,9 +1,0 @@
-262/B. § (1) Az ügyben eljáró bíróság a kifogást – a (2) bekezdés esetét kivéve – nyolc napon belül közvetlenül felterjeszti a kifogás elbírálására hatáskörrel rendelkező bírósághoz. A felterjesztésben számot ad arról, hogy a hiányolt eljárási cselekmény elvégzése vagy határozat meghozatala – megítélése szerint – milyen okból nem volt lehetséges.
-
-(2) Ha az ügyben eljáró bíróság a kifogást alaposnak tartja, a kifogásnak a bírósághoz való érkezését követő harminc napon belül meghozza, illetőleg elrendeli a kifogásban sérelmezett helyzet megszüntetése érdekében szükséges intézkedést. A bíróság a kifogás elintézéséről a kifogás előterjesztőjét értesíti.
-
-(3) A járásbíróság mulasztásával szemben benyújtott kifogást a törvényszék három hivatásos bíróból álló tanácsa, a törvényszék mulasztásával szemben benyújtott kifogást az ítélőtábla, az ítélőtábla mulasztásával szemben benyújtott kifogást a Kúria, a Kúria mulasztásával szemben benyújtott kifogást a Kúria másik tanácsa az iratok felterjesztésétől számított tizenöt napon belül tanácsülésen bírálja el.
-
-(4) Ha a kifogást elbíráló bíróság a kifogásban foglaltaknak helyt ad, a mulasztó bíróságot határidő tűzésével a 262/A. § (2) bekezdésének a) pontjában foglalt esetekben az ügy továbbviteléhez szükséges intézkedés megtételére, a 262/A. § (2) bekezdésének b) pontjában foglalt esetben pedig a megfelelő intézkedés megválasztására hívja fel. A felhívásban – a 262/A. § (2) bekezdésének a) pontjában foglalt esetet kivéve – a kifogást elbíráló bíróság az eljáró bíróságot meghatározott eljárási cselekmény lefolytatására nem utasíthatja. A kifogás alaptalansága esetén azt indokolt határozattal elutasítja. A határozat ellen további jogorvoslatnak nincs helye.
-
-(5) A kifogás elintézésére a végzés elleni fellebbezés elbírálására vonatkozó rendelkezéseket kell megfelelően alkalmazni.

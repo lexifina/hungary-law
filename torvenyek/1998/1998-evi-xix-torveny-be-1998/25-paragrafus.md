@@ -1,1 +1,0 @@
-25. § Ha a terhelt, a védő, a sértett, a magánvádló, a pótmagánvádló, a magánfél vagy a képviselőjük az ügyben ugyanazon bíró ellen ismételten alaptalanul jelent be kizárási okot, a kizárást megtagadó határozatban rendbírsággal sújtható.

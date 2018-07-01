@@ -1,1 +1,0 @@
-542/B. § Ha az ügyész a nyilvános ülést az 538. § (10) bekezdése alapján indítványozta, és a bíróság a nyilvános ülésen az ügyet tárgyalásra utalta – feltéve, hogy a tárgyalás megtartásának nincs akadálya –, a bíróság a tárgyalást nyomban megtartja. A tárgyalásra a XIII. Fejezet rendelkezései az irányadók.

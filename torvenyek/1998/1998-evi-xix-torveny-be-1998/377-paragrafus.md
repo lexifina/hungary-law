@@ -1,1 +1,0 @@
-377. § A másodfokú bíróság az első fokú bíróság ítéletét hatályon kívül helyezi, és az eljárást megszünteti az olyan bűncselekmény miatt, amelynek a vádlott felelősségre vonása szempontjából nincs jelentősége.

@@ -1,1 +1,0 @@
-520. § Az ügyész a vádlottat a nyomozó hatóság közreműködésével vagy egyéb módon a bíróság elé állítja, a védőt rövid úton megidézi, és biztosítja, hogy a bizonyítási eszközök a tárgyaláson rendelkezésre álljanak. Gondoskodik továbbá arról, hogy a tárgyaláson jelen legyenek, akiknek a részvétele kötelező, illetve jelen lehessenek, akiknek a részvétele nem kötelező.

@@ -1,5 +1,0 @@
-154. § (1) A lefoglalt dolgot letétbe kell helyezni; ha a dolog letétbe helyezésre nem alkalmas, vagy azt más fontos ok indokolja, a megőrzéséről egyéb módon kell gondoskodni. Ez utóbbi esetben a lefoglalt dolognak a bűncselekménnyel kapcsolatos egyedi tulajdonságait rögzítő iratot vagy fényképet kell az ügy irataihoz csatolni. Az érdekelt őrizetében hagyott vagy más szerv őrizetébe adott dolog a lefoglalást elrendelő bíróság, ügyész, illetve nyomozó hatóság hozzájárulása hiányában más birtokába, kezelésébe nem adható. A bíróság, az ügyész, illetve a nyomozó hatóság hozzájárulása esetén a lefoglalt dolog megőrzésére az új birtokost, kezelőt kötelezi.
-
-(2) A lefoglalt dolgokat jegyzőkönyvben vagy más okiratban a mennyiségük, értékük, minőségi állapotuk feltüntetésével, egyedi azonosításra alkalmas módon fel kell sorolni.
-
-(3) A lefoglalt dolgot úgy kell őrizni, hogy az változatlanul maradjon, a bűncselekmény esetleges nyomai el ne tűnjenek, a lefoglalt dolgot ne lehessen kicserélni, és az azonossága könnyen megállapítható legyen.

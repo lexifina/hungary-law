@@ -1,7 +1,0 @@
-185. § (1) A gyanúsított, a védő és a sértett jelen lehet a szakértő meghallgatásánál, a szemlénél, a bizonyítási kísérletnél és a felismerésre bemutatásnál, továbbá indítványt terjeszthet elő, észrevételt tehet, valamint a szakértőhöz kérdéseket intézhet. A felsoroltaknak a nyomozási cselekményről való értesítése kivételesen mellőzhető, ha ezt a nyomozási cselekmény sürgőssége indokolja. Az értesítést mellőzni kell, ha az eljárásban részt vevő személy védelme más módon nem biztosítható.
-
-(2) A gyanúsított a szemlére és a bizonyítási kísérletre idézhető, ebben az esetben a nyomozási cselekmény a gyanúsított távollétében nem tartható meg.
-
-(3) Az ügyész és a nyomozó hatóság a nyomozási cselekmény helyszínéről eltávolíthatja azt, akinek a jelenléte az eljárást akadályozza, aki a nyomozási cselekményen nem lehet jelen, vagy akinek az értesítését az (1) bekezdés alapján mellőzni kell. Az ügyész és a nyomozó hatóság a nyomozás elősegítése érdekében bárkit a nyomozási cselekmény helyszínén való tartózkodásra kötelezhet. Aki az eljárás rendjét zavarja, vagy a helyszínen tartózkodási kötelezettségének nem tesz eleget, rendbírsággal sújtható.
-
-(4) Az (1) bekezdésben meghatározott esetben az ügyész vagy a nyomozó hatóság a gyanúsítottat és védőjét az értesítés mellőzéséről utólag tájékoztatja. Ha a gyanúsított vagy a védő a tájékoztatástól számított három napon belül indítványozza, az ügyész vagy a nyomozó hatóság az értesítés mellőzését utólag határozatba foglalja, és azt közli az indítvány előterjesztőjével.

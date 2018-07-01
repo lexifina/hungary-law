@@ -1,1 +1,0 @@
-350. § Az ítélet megalapozatlansága esetén az első fokú bíróságot a 349. § (2) bekezdésének alkalmazásával akkor lehet új eljárásra utasítani, ha ez a fellebbezéssel nem érintett vádlott felmentését, a bűncselekmény enyhébb minősítése folytán a törvénysértően súlyos büntetés enyhítését, vagy az eljárás megszüntetését eredményezheti.

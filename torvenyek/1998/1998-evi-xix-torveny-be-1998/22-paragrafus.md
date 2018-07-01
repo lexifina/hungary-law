@@ -1,1 +1,0 @@
-22. § Nem járhat el az ügyben – a Kúria kivételével – az a bíróság, amelynek elnökével, illetőleg elnökhelyettesével szemben a 21. § (1) bekezdésének a)–c) pontjában meghatározott kizárási ok merült fel.

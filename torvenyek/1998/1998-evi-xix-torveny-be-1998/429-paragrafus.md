@@ -1,3 +1,0 @@
-429. § (1) A felülvizsgálati eljárás során felmerült bűnügyi költséget, ideértve a felülvizsgálati indítvány megfogalmazására kirendelt védő díját is, a felülvizsgálati indítvány elutasítása esetén – az ügyész által kezdeményezett felülvizsgálat esetét kivéve – az indítvány előterjesztője viseli. Más esetekben a bűnügyi költséget az állam viseli.
-
-(2) A felülvizsgálati indítvány elintézése után a Kúria a határozatát kézbesíti, és az ügy iratait a határozatával és az ülésről készült jegyzőkönyvvel együtt visszaküldi annak a bíróságnak, amely a felülvizsgálati indítvánnyal megtámadott határozatot hozta, vagy amelyet új eljárásra, illetőleg az eljárás lefolytatására utasított.

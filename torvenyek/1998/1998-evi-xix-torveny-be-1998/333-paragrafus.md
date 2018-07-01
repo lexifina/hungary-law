@@ -1,1 +1,0 @@
-333. § Ha az ügyész a vádat elejtette és pótmagánvádnak lehet helye, az eljárás megszüntetésének nem akadálya, hogy a sértettnek azért nem lehetett az ügyész vádelejtését tartalmazó nyilatkozatát kézbesíteni, mert ismeretlen helyen tartózkodott.

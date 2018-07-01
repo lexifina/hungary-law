@@ -1,3 +1,0 @@
-261. § (1) Nyilvánvaló név-, számelírás, számítási hiba és más hasonló elírás esetén a bíróság a határozat kijavítását mind indítványra, mind hivatalból elrendelheti. A kijavítást elrendelő végzés ellen az ügyész és az élhet fellebbezéssel, akire a határozat vagy kijavítása rendelkezést tartalmaz, a vádlott esetén a védő is.
-
-(2) A kijavítást a határozatra fel kell jegyezni. Elektronikus irat kijavítását a kijavítandó rész megjelölésével külön elektronikus iratban kell elkészíteni. Ha a határozatot a kijavítását megelőzően már kézbesítették, a kijavító végzést azoknak kell kézbesíteni, akiknek a részére a bíróság a kijavítással érintett határozatot megküldte.

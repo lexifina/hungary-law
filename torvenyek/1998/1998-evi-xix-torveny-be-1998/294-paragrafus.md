@@ -1,1 +1,0 @@
-294. § A különösen védett tanú a tárgyaláson nem hallgatható ki. Ha a tanú kihallgatására a 207. § (4) bekezdése alapján került sor, a tanú csak akkor hallgatható ki, ha a tárgyalás időpontjában tizennegyedik életévét betöltötte, és a tárgyaláson történő kihallgatása különösen indokolt.

@@ -1,7 +1,0 @@
-375. § (1) A másodfokú bíróság az első fokú bíróság ítéletét hatályon kívül helyezi, és az első fokú bíróságot új eljárásra utasítja, ha a 373. § (1) bekezdésének II. pontjában fel nem sorolt, és a másodfokú eljárásban nem orvosolható olyan eljárási szabálysértés történt, amely lényeges hatással volt az eljárás lefolytatására, illetőleg a bűnösség megállapítására, a bűncselekmény minősítésére, illetőleg a büntetés kiszabására vagy intézkedés alkalmazására. Ilyennek kell tekinteni különösen, ha a bizonyítás törvényességére vonatkozó szabályokat megsértették, az eljárásban részt vevő személyek a törvényes jogaikat nem gyakorolhatták, vagy ezek gyakorlását korlátozták.
-
-(2) A felmentő ítéletet, illetőleg az ítélet felmentő rendelkezését nem kell hatályon kívül helyezni, ha az (1) bekezdés szerinti eljárási szabálysértés a vádlott vagy a védő törvényes jogainak gyakorlását korlátozta.
-
-(3) Az ítéletet az (1) bekezdés alapján nem kell hatályon kívül helyezni, ha a bíróság a törvény kötelező rendelkezése ellenére nem tartott előkészítő ülést.
-
-(4) Ha az elsőfokú bíróság a lefoglalt dologról, az elkobzásról, a vagyonelkobzásról, illetve az elektronikus adat végleges hozzáférhetetlenné tételéről a törvény rendelkezése ellenére nem rendelkezett, és a döntéshez szükséges adatok a másodfokú eljárás során bizonyítás felvétele keretében nem tisztázhatóak, a másodfokú bíróság az elsőfokú bíróságot az 569. § (1) bekezdésében írt különleges eljárás lefolytatására utasítja.

@@ -1,1 +1,0 @@
-382. § A másodfokú bíróság eljárása során hozott olyan, nem ügydöntő végzés elleni jogorvoslatra, amely ellen az első fokú eljárásban fellebbezésnek lenne helye, a 326. §-t és az I–III. Címben foglaltakat az e Címben meghatározott eltérésekkel kell alkalmazni.

@@ -1,1 +1,0 @@
-524. § A vád kiterjesztésének akkor van helye, ha a bíróság elé állítás feltételei a kiterjesztett vád szerinti bűncselekményre is fennállnak. Egyébként a bíróság az iratokat visszaküldi az ügyésznek.

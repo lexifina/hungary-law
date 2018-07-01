@@ -1,1 +1,0 @@
-542/E. § A tömeges bevándorlás okozta válsághelyzet idején, annak területén elkövetett, az 542/D. §-ban meghatározott bűncselekmények miatt minden más ügyet megelőzően kell a büntetőeljárást lefolytatni.

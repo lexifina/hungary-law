@@ -1,1 +1,0 @@
-429/C. § Az ügyben első fokon eljárt bíróság a jogerős ügydöntő határozat végrehajtását az Alkotmánybíróság felhívására felfüggeszti vagy félbeszakítja, és erről értesíti az Alkotmánybíróságot. A végzés ellen nincs helye fellebbezésnek.
