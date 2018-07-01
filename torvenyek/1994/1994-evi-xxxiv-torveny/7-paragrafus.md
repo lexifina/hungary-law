@@ -22,7 +22,7 @@ be) a Kormány által a központi államigazgatási szervekről, valamint a Korm
 
 (a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
 
-c) felderíti a b) pontban megjelölt védett állománnyal összefüggő, külön jogszabályban meghatározott bűncselekményeket.
+c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését.
 
 (1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő, továbbá állami tisztviselő és állami ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
 
@@ -40,6 +40,20 @@ f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, v
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
 
-(3) Ha a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv feladatai ellátása során bűncselekmény elkövetésének gyanúját észleli, haladéktalanul feljelentést tesz a nyomozás teljesítésére hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál vagy az ügyésznél és átadja az általa összegyűjtött adatokat.
+(3) Ha a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a feladatai ellátása során
 
-(4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv az általa tett feljelentés miatt indított büntetőeljárás során felkérésre – a rendelkezésre álló erőkkel és eszközökkel – közreműködik a büntetőeljárásról szóló törvény rendelkezései alapján a bíró által engedélyezett, a nyomozás teljesítésére hatáskörrel és illetékességgel rendelkező nyomozó hatóság vagy az ügyész által végzett titkos adatszerzésben.
+a) bűncselekmény gyanúját – ideértve a kísérlet, valamint ha a törvény az előkészületet büntetni rendeli, az előkészület gyanúját is – észleli, haladéktalanul feljelentést tesz a nyomozás lefolytatására hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál vagy ügyészségnél és átadja az általa összegyűjtött adatokat;
+
+b) olyan információt szerez meg, amely alapján a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás lefolytatásának lehet helye,
+
+ba) a hatáskörébe tartozó bűncselekmény esetén előkészítő eljárást indíthat, illetve
+
+bb) a nem a hatáskörébe tartozó bűncselekmény esetén előkészítő eljárást kezdeményezhet a hatáskörrel és illetékességgel rendelkező ügyészségnél, nyomozó hatóságnál, illetve a terrorizmust elhárító szervnél, és átadja az általa összegyűjtött adatokat.
+
+(4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a büntetőeljárásról szóló törvényben meghatározottak szerint
+
+a) előkészítő eljárást folytathat,
+
+b) a rendelkezésre álló erőkkel és eszközökkel közreműködhet a büntetőeljárásról szóló törvényben meghatározott leplezett eszközök (a továbbiakban: leplezett eszközök) alkalmazásának végrehajtásában, illetve
+
+c) közreműködhet eljárási cselekmény végrehajtásában.

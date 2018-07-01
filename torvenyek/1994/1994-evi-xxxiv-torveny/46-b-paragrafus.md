@@ -1,6 +1,6 @@
 ## Rejtett ellenőrzés elrendelése
 
-46/B. § A rendőrség bűnmegelőzési, bűnüldözési és bűnfelderítési célból rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
+46/B. § A rendőrség e törvényben meghatározott bűnmegelőzési feladatai ellátása céljából, illetve a büntetőeljárásról szóló törvény alapján rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
 
 a) arra a személyre, akiről
 

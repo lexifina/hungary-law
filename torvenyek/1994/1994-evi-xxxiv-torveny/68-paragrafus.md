@@ -1,17 +1,11 @@
-## Adatkérés
+68. § (1) A rendőrség a 64. §-ban meghatározott célból, valamint a leplezett eszközök alkalmazása során a saját személyi állománya, a vele titkosan együttműködő személy védelme céljából, illetve a rendőri jelleg leplezése érdekében
 
-68. § (1) A rendőrség titkos információgyűjtésre felhatalmazott nyomozó szervének vezetője az ügyész jóváhagyásával a kétévi vagy ennél súlyosabb szabadságvesztéssel büntetendő, szándékos bűncselekmény felderítése, valamint a bűncselekményből származó vagyon visszaszerzése érdekében az üggyel összefüggő adatok szolgáltatását igényelheti az adóhatóságtól, valamint a vámhatóságtól; a szolgáltatást nyújtó postai szolgáltatótól, elektronikus hírközlési szolgáltatótól; az egészségügyi és a hozzá kapcsolódó adatot kezelő szervtől; továbbá a banktitoknak, fizetési titoknak, értékpapírtitoknak, pénztártitoknak, a biztosítási titoknak és az üzleti titoknak minősülő adatot kezelő szervtől. A nyomozó szerv az adatszolgáltatás teljesítésére határidőt jelölhet meg. Az adatszolgáltatás ingyenes és nem tagadható meg. Az így kapott információ csak a megjelölt célra használható fel.
+a) valótlan adatot, tényt vagy nyilatkozatot tartalmazó okiratot vagy közokiratot (a továbbiakban: fedőokirat) készíthet vagy használhat fel, illetve
 
-(1a) A rendőrség
+b) fedőintézményt hozhat létre és tarthat fenn.
 
-a) belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a 7. § (1) bekezdés c) pontjában, valamint
+(2) A rendőrség a titkos információgyűjtés, valamint a leplezett eszközök alkalmazása során a saját személyi állománya, a vele titkosan együttműködő személy védelme céljából, illetve a rendőri jelleg leplezése érdekében, valamint a fedőokirat és a fedőintézmény védelme érdekében a közhiteles nyilvántartásokba valótlan adatot (a továbbiakban: fedőadat) jegyeztethet be.
 
-b) terrorizmust elhárító szerve a 7/E. § (1) bekezdés a) pont aa)-ac) alpontjában és c) pontjában
+(3) Fedőintézményként költségvetési szerv nem hozható létre. Rendvédelmi szerv, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség és a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatait ellátó szerve fedőintézményként, okmánya fedőokmányként csak a szervet irányító miniszter és az érintett szervezet országos vezetőjének, az Országgyűlési Őrség esetében a parancsnok és az Országgyűlés elnökének tájékoztatásával alkalmazható.
 
-meghatározott feladatai ellátása során, a kétévi, vagy ennél súlyosabb szabadságvesztéssel büntetendő, szándékos bűncselekmény felderítése érdekében az ügyész jóváhagyásával adatok szolgáltatását igényelheti az (1) bekezdésben meghatározott adatkezelő szervektől.
-
-(1b) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a terrorizmust elhárító szerv az adatszolgáltatás teljesítésére határidőt jelölhet meg. Az adatszolgáltatás ingyenes és nem tagadható meg. Az így kapott információ csak a megjelölt célra használható fel.
-
-(2) Halaszthatatlan intézkedésként, ha a késedelem veszéllyel jár és az ügy kábítószer-kereskedelemmel, terrorizmussal, illegális fegyverkereskedelemmel, pénzmosással vagy szervezett bűnözéssel függ össze, az adatigényléshez az ügyész előzetes jóváhagyása nem kell, és azt haladéktalanul teljesíteni kell. Ez esetben a megkeresést ,,halaszthatatlan intézkedés'' jelzéssel kell ellátni. Az ügyész jóváhagyása iránt a megkereséssel egyidejűleg intézkedni kell. Ha az ügyész a jóváhagyását megtagadja, a rendőrség az így beszerzett adatokat haladéktalanul megsemmisíti.
-
-(3) A biztonsági követelmények érvényesítése érdekében a társadalombiztosítási, egészségügyi, adóelszámolási, költségvetési, pénzügyi, statisztikai adatszolgáltatással, a maradandó irat védelme érdekében végzett levéltári ellenőrzéssel, valamint a speciális működési költségek körébe tartozó valutafelhasználással kapcsolatos eljárási szabályokat – a törvényi előírások keretei között – a rendőrség és a tárgykör szerint illetékes szervezetek külön megállapodásban rögzíthetik.
+(4) A fedőokiratot meg kell semmisíteni, illetve a közhiteles nyilvántartásokból a fedőadatot törölni kell, ha arra a továbbiakban már nincs szükség.

@@ -2,12 +2,24 @@
 
 ## TITKOS INFORMÁCIÓGYŰJTÉS
 
-63. § (1) A rendőrség bűncselekmény elkövetésének megelőzése, megakadályozása, felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, körözött személy felkutatása, tartózkodási helyének megállapítása, bizonyítékok megszerzése, a bűncselekményből származó vagyon visszaszerzése, valamint a büntetőeljárásban részt vevők és az eljárást folytató hatóság tagjainak, az igazságszolgáltatással együttműködő személyek védelme, valamint az e törvényben meghatározott költségvetési szervek bűnmegelőzési, bűnfelderítési célú ellenőrzése érdekében – törvény keretei között – titokban információt gyűjthet.
+## Általános rendelkezések
 
-(2)
+63. § (1) Az e törvény alapján végzett titkos információgyűjtés olyan, a magánlakás sérthetetlenségéhez, valamint a magántitok, a levéltitok és a személyes adatok védelméhez fűződő alapvető jogok korlátozásával járó, a rendőrség által végzett különleges tevékenység, amelyet a rendőrség erre feljogosított szervei az érintett tudta nélkül végeznek.
 
-(3) Az (1)—(2) bekezdés alapján tett intézkedések, az abban érintett természetes és jogi személyek, valamint jogi személyiséggel nem rendelkező szervezetek adatai nem hozhatók nyilvánosságra.
+(2) A rendőrség a titkos információgyűjtés során az e törvényben meghatározott
 
-(4)
+a) bírói engedélyhez nem kötött eszközöket és
 
-(5) A rendőrség erre felhatalmazott szerve, valamint a beszerzett adat és az információgyűjtés ténye tekintetében az ügyész és a bíró a titkos információgyűjtés során külön engedély nélkül megismerheti a minősített adat tartalmát. A (2) bekezdésben meghatározott adatok és információk nemzetközi egyezmény, nemzetközi szerződés vagy megállapodás, ennek hiányában viszonosság alapján, ha a továbbítás súlyos és közvetlen veszély elhárításához, vagy súlyos bűncselekmény megelőzéséhez szükséges – amennyiben a személyes adatok kezelésének feltételei a külföldi adatkezelőnél minden egyes adat tekintetében teljesülnek – nemzetközi és külföldi bűnüldöző, igazságszolgáltatási szervek részére átadhatók.
+b) bírói engedélyhez kötött eszközöket
+
+alkalmazhatja.
+
+(3) A titkos információgyűjtés során a 15. §-ban meghatározott arányosság követelményét fokozott körültekintéssel kell érvényesíteni.
+
+(4) A rendőrség bűncselekmény felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, bizonyítékok megszerzése, illetve a bűncselekményből származó vagyon visszaszerzése érdekében kizárólag a büntetőeljárásról szóló törvényben meghatározottak szerint alkalmazhat leplezett eszközöket.
+
+(5) Az általános rendőrségi feladatok ellátására létrehozott szerv és a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a 64. §-ban meghatározott célokból titkos információgyűjtést kizárólag az e törvényben meghatározott szabályok alapján folytathat.
+
+(6) A terrorizmust elhárító szerv a 7/E. § (1) bekezdés a) pont aa) alpontjában meghatározott, bűncselekmények megelőzésével kapcsolatos feladatai, illetve a 7/E. § (1) bekezdés b) pont ba) alpontjában, valamint c) pontjában meghatározott feladatai ellátása érdekében titkos információgyűjtést kizárólag az e törvényben meghatározott szabályok alapján folytathat.
+
+(7) A terrorizmust elhárító szerv a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátása érdekében az Nbtv. 53–60. §-ának megfelelő alkalmazásával folytathat titkos információgyűjtést, amelynek ellátása során az Nbtv. 38–52. §-a szerint jogosult adatok igénylésére és kezelésére. Az Nbtv. 56. § a)–e) pontjában meghatározott titkos információgyűjtést az igazságügyért felelős miniszter engedélyezi.

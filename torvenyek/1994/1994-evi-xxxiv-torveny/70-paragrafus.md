@@ -1,11 +1,21 @@
-70. § (1) A különleges eszköz alkalmazása iránti kérelmet a rendőrség hatáskörrel és illetékességgel rendelkező felderítő szervének vagy nyomozó hatóságának vezetője (a továbbiakban: nyomozó hatóság) terjeszti elő.
+## Bírói engedélyhez kötött eszközök
 
-(2) A kérelemnek tartalmaznia kell
+70. § (1) Bírói engedélyhez kötött eszköz akkor alkalmazható, ha
 
-a) a különleges eszköz alkalmazásának helyét, az alkalmazással érintett nevét, illetőleg az azonosításra alkalmas — rendelkezésre álló — adatot,
+a) megalapozottan feltehető, hogy a megszerezni kívánt információ a 64. §-ban meghatározott cél eléréséhez elengedhetetlenül szükséges és más módon nem szerezhető meg,
 
-b) az alkalmazni kívánt különleges eszköz megnevezését,
+b) annak alkalmazása nem jár az azzal érintett vagy más személy alapvető jogának az elérendő célhoz képest aránytalan korlátozásával, és
 
-c) az alkalmazás tervezett kezdetét és végét napban és órában meghatározva,
+c) annak alkalmazásával a 64. §-ban meghatározott cél eléréséhez szükséges információ megszerzése valószínűsíthető.
 
-d) az alkalmazás törvényi feltételeinek meglétére vonatkozó indokolást.
+(2) A titkos információgyűjtés során a következő bírói engedélyhez kötött eszközök alkalmazhatók:
+
+a) titkos kutatás,
+
+b) hely titkos megfigyelése,
+
+c) küldemény titkos megismerése,
+
+d) lehallgatás,
+
+e) információs rendszer titkos megfigyelése.

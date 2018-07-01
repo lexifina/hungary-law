@@ -1,6 +1,6 @@
 91/C. § (1) A rendőrség bűnüldözési célból és körözési eljárás során jogosult átvenni és az egyedi ügyhöz kapcsolódóan kezelni a 84. § (2) bekezdés h) pontja szerinti nyilvántartásban szereplő adatokat, valamint a hatáskörébe tartozó üggyel összefüggésben a 84. § (2) bekezdésében foglaltakon túlmenően egyéb, általa jogszerűen kezelhető adatot igényelhet bármely adatkezelő szervtől. A rendőrség az adatszolgáltatás teljesítésére határidőt jelölhet meg. A megkeresett adatkezelő szerv – ha törvény eltérően nem rendelkezik – köteles a rendőrség jogszerű adatszolgáltatás iránti igényét teljesíteni.
 
-(2) A rendőrség a bűnüldözési feladatai ellátása céljából – körözési eljárás során, illetőleg lakhelyelhagyási tilalom, házi őrizet elrendelése vagy biztosíték letétbe helyezésének engedélyezése esetén, továbbá nemzetközi kötelezettségvállalás alapján – jelzés elhelyezését rendelheti el az alábbi nyilvántartásokban:
+(2) A rendőrség a körözési eljárás során, illetve az olyan bűnügyi felügyelet elrendelése esetén, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, vagy biztosíték letétbe helyezésével folyó eljárás során, továbbá nemzetközi kötelezettségvállalás alapján jelzés elhelyezését rendelheti el az alábbi nyilvántartásokban:
 
 a) a polgárok személyi adatainak és lakcímének nyilvántartása,
 
@@ -17,6 +17,8 @@ g)
 h) az ingatlan-nyilvántartás, és
 
 i) a cégnyilvántartás.
+
+(2a) A rendőrség a 68. § (2) bekezdése alapján bejegyezett fedőadat esetén jelzés elhelyezését rendelheti el a közhiteles nyilvántartásban és értesítést kérhet a fedőadatra vagy az eredeti adatra vonatkozó adattovábbítási vagy adathozzáférési kérelemről.
 
 (3) A jelzés elrendelésekor a kért intézkedés vagy adatszolgáltatás célját meg kell jelölni. A jelzésben a rendőri szerv az érintett feltartóztatását vagy adatváltozás esetén értesítés adását kérheti. A jelzéssel érintett nyilvántartást kezelő szerv a rendőrség megkeresésében foglaltakat köteles teljesíteni.
 

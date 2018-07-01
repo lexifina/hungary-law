@@ -14,7 +14,7 @@ f) a rendőrség feladatait a polgárőrséggel és más önvédelmi szervezetek
 
 g) a rendőrségi adatok kezelésére jogosult szervek feladatait, az adatok kezelésének és feldolgozásának technikai szabályait, valamint a bűnüldözési adatok helyessége, megbízhatósága és felhasználhatósága jelölésének módját,
 
-h) a különleges eszközök és módszerek engedélyezésével, igénybevételével kapcsolatos szabályokat,
+h) a bírói engedélyhez kötött eszközök alkalmazása indítványozásával, engedélyezésével, illetve igénybevételével kapcsolatos szabályokat,
 
 i) az állam működése, illetőleg a lakosság ellátása szempontjából kiemelten fontos létesítmények körét,
 
@@ -48,6 +48,6 @@ f) az igazságügyért felelős miniszter egyetértésével kiadott rendeletben 
 
 g) az igazságügyért felelős miniszterrel, a büntetés-végrehajtásért felelős miniszterrel, a gyermekek és az ifjúság védelméért felelős miniszterrel és a szabálysértési szabályozásért felelős miniszterrel egyetértésben, a legfőbb ügyész véleményének kikérésével, rendeletben állapítsa meg a törvény alapján rendőrségi fogdán végrehajtható fogvatartások végrehajtásának részletes szabályait, valamint a rendőrségi fogdák rendjét.
 
-(3) A VII. Fejezet szerinti titkos információgyűjtés eszközei, módszerei alkalmazásának részletes szabályait a miniszter utasításban állapítja meg.
+(3) A VII. Fejezet szerinti titkos információgyűjtés eszközei, módszerei, illetve a leplezett eszközök rendőrség általi alkalmazásának, valamint a speciális kiadások felhasználásának részletes szabályait a miniszter utasításban állapítja meg.
 
-(4) A terrorizmust elhárító szerv főigazgatója a miniszter jóváhagyásával utasításban meghatározza a 7/E. § (3) bekezdése szerinti titkos információgyűjtés belső eljárási és engedélyezési szabályait.
+(4) A terrorizmust elhárító szerv főigazgatója a miniszter jóváhagyásával utasításban meghatározza a 63. § (7) bekezdése szerinti titkos információgyűjtés belső eljárási és engedélyezési szabályait.

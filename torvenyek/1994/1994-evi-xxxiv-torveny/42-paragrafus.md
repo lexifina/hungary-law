@@ -26,7 +26,7 @@ a) (1), (2), (5) és (5e) bekezdésben foglaltak alapján készített felvétel,
 
 aa) bűncselekmény, szabálysértés vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során,
 
-ab) titkos információgyűjtés keretében,
+ab) a rendőrség, illetve a Nemzeti Adó- és Vámhivatal olyan feladatellátása során, amely céljából titkos információgyűjtésnek van helye, illetve a nemzetbiztonsági szolgálatok törvényben meghatározott feladatainak ellátása érdekében,
 
 ac) körözött személy vagy tárgy azonosítása érdekében,
 

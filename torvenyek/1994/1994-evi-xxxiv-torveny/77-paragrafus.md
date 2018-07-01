@@ -2,7 +2,7 @@
 
 77. § (1) A rendőrség feladatai ellátása során
 
-a) bűnmegelőzési, felderítési, bűnüldözési (a továbbiakban együtt: bűnüldözési) feladatai ellátásához szükséges személyes adatokat,
+a) bűnmegelőzési és bűnüldözési (a továbbiakban együtt: bűnüldözési) feladatai ellátásához szükséges személyes adatokat,
 
 b) rendészeti és határrendészeti feladatainak ellátásához szükséges személyes adatokat,
 
@@ -10,7 +10,9 @@ c) az általa lefolytatott közigazgatási eljárásban részt vevők személyes
 
 d) a segélyhívások fogadása keretében megismert személyes adatokat,
 
-e) a körözési eljárás lefolytatásához szükséges adatokat
+e) a körözési eljárás lefolytatásához szükséges adatokat,
+
+f) a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat
 
 kezeli.
 

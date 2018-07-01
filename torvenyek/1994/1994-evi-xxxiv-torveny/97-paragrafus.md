@@ -12,9 +12,9 @@ d) csoportosulás: 3—10 főből álló, egységes akaratelhatározással fell�
 
 e) tömeg: 10 főt meghaladó csoportosulás;
 
-f) automatizált keresés: másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely során a válasz is teljesen automatizált módon érkezik.
+f) automatizált keresés: másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely során a válasz is teljesen automatizált módon érkezik;
 
-g)
+g) fedett nyomozó: a rendőrséghez tartozását, illetve kilétét tartósan leplező, kifejezetten ilyen feladat ellátása érdekében foglalkoztatott rendőr;
 
 h) fogvatartott: akit törvény, illetőleg törvény alapján kiadott hatósági határozat alapján a szabad mozgáshoz és a tartózkodási hely szabad megválasztásához való jogában korlátoznak (őrizetbe vett, előzetesen letartóztatott, közbiztonsági őrizetben lévő, elfogott és előállított, elővezetett);
 
@@ -32,6 +32,8 @@ n) tömeges méretű migráció: a szomszéd állam területéről személyek t�
 
 o) tranzitterület: egyes nemzetközi határátkelőhelyen az üzemeltető által – a rendőrség, valamint a vámhatóság egyetértésével – kijelölt terület, amely a személyek várakozására szolgál;
 
-p) légifuvarozó: az, aki a légiközlekedésről szóló törvényben meghatározott gazdasági célú légi közlekedési tevékenység végzésére jogosult.
+p) légifuvarozó: az, aki a légiközlekedésről szóló törvényben meghatározott gazdasági célú légi közlekedési tevékenység végzésére jogosult;
+
+q) információs rendszer: az adatok automatikus feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés, vagy az egymással kapcsolatban lévő ilyen berendezések összessége.
 
 (2)

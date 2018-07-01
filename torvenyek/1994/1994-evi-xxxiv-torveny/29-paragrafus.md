@@ -20,7 +20,7 @@ c) amennyiben a 24/A. § (1) bekezdésében meghatározott személy felkérése 
 
 (5) A igazoltatás vagy a személyazonosság megállapításának sikertelensége esetén az előállítás csak a személyazonosság megállapításához szükséges ideig tarthat.
 
-(6) A rendőr az igazoltatott személy ruházatát, járművét átvizsgálhatja, ha azt a személyazonosság megállapítása, a közrendet, a közbiztonságot fenyegető veszély elhárítása, bűncselekmény vagy szabálysértés elkövetésének gyanúja szükségessé teszi.
+(6) A rendőr az igazoltatott személy ruházatát, járművét átvizsgálhatja, ha azt a személyazonosság megállapítása, a közrendet, a közbiztonságot fenyegető veszély elhárítása, bűncselekmény vagy szabálysértés gyanúja szükségessé teszi.
 
 (7) Az igazoltatás során rögzített adatokat – kivéve, ha ezek büntető- vagy szabálysértési eljárásban kerülnek felhasználásra – az intézkedés befejezését követő száznyolcvanadik napon meg kell semmisíteni. Ez a rendelkezés nem vonatkozik a 24. § (4) bekezdése szerinti igazoltatás során rögzített adatok 24. § (5) bekezdésében meghatározott törlési idejére.
 
