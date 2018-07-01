@@ -34,7 +34,7 @@ c) az egyszerűsített kártalanítási eljárás keretében kifizethető össze
 
 10. a tanú költségeire vonatkozó szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 
-11. a szakértő és a szaktanácsadó díjára és költségeire vonatkozó szabályokat az államháztartásért felelős miniszterrel egyetértésben,
+11. a szaktanácsadó díjára és költségeire vonatkozó szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 
 12. a tolmács és a fordító díjára és költségeire vonatkozó szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 
@@ -72,12 +72,12 @@ c) az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai ren
 
 rendeletben megállapítsa.
 
-(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tekintetében, valamint a rendvédelmi feladatokat ellátó szervet irányító miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében
+(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében
 
-a) a nyomozásra illetékes parancsnokokat, hatáskörüket és a parancsnoki nyomozás szabályait, az Országgyűlési Őrség tekintetében az Országgyűlés elnöke véleményének kikérésével,
+a) a parancsnoki nyomozásra jogosult vezetőket, hatáskörüket és a parancsnoki nyomozás szabályait, illetve
 
 b) a katonával szemben elrendelt bűnügyi felügyelet ellenőrzésének szabályait
 
-az igazságügyért felelős miniszterrel egyetértésben, rendeletben megállapítsa.
+az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési Őrség tekintetében az Országgyűlés elnöke véleményének kikérésével, rendeletben megállapítsa.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kábítószer-függőséget gyógyító kezelés, kábítószer-használatot kezelő más ellátás vagy megelőző-felvilágosító szolgáltatás szabályait a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszterrel, a rendészetért felelős miniszterrel és az igazságügyért felelős miniszterrel egyetértésben rendeletben meghatározza.

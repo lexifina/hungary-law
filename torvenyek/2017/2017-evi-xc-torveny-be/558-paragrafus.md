@@ -1,6 +1,6 @@
 ## A polgári jogi igény közlése
 
-558. § (1) Ha az előterjesztett polgári jogi igény alkalmas az elintézésre, a polgári perrendtartásról szóló törvénynek a kereset közlésére vonatkozó rendelkezéseit kell alkalmazni.
+558. § (1) Ha az előterjesztett polgári jogi igény alkalmas az elintézésre, azt a terhelttel közölni kell.
 
 (2) A polgári jogi igény érvényesítésére és elintézésére – a (3) bekezdésben meghatározott kivétellel – a polgári perrendtartásról szóló törvénynek a keresetlevél előterjesztéséhez fűződő joghatásokra, valamint a perindítás joghatásainak beállására vonatkozó rendelkezéseit kell alkalmazni.
 

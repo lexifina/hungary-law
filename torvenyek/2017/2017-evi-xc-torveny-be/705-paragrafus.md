@@ -1,6 +1,6 @@
 ## A kényszerintézkedések
 
-705. § (1) Ha a katonai büntetőeljárás hatálya alá tartozó bűncselekmény miatt a katona őrizetbe vételét nem katonai nyomozó hatóság rendelte el, a terheltet huszonnégy órán belül át kell adni az illetékes ügyészségnek.
+705. § (1) Ha a katonai büntetőeljárás hatálya alá tartozó bűncselekmény miatt a katona őrizetét nem katonai nyomozó hatóság rendelte el, a terheltet huszonnégy órán belül át kell adni az illetékes ügyészségnek.
 
 (2) A parancsnoki nyomozás során elrendelt őrizetet rendőrségi fogdában kell végrehajtani.
 

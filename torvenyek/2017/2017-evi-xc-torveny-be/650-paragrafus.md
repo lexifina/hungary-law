@@ -6,9 +6,7 @@ a) a büntető anyagi jog szabályainak megsértése miatt a harmadfokú bírós
 
 b) a Kúria jogegységi eljárása alapján, felülvizsgálat során vagy a törvényesség érdekében bejelentett jogorvoslat alapján hozott határozata ellen,
 
-c) ha a törvénysértés egyszerűsített felülvizsgálati eljárás lefolytatása útján orvosolható,
-
-d) a 608. § (1) bekezdés c)–d) pontjában meghatározott okból, ha az eljárási szabálysértés az eljárás lefolytatására, a bűnösség megállapítására, a bűncselekmény minősítésére, illetve a büntetés kiszabására vagy intézkedés alkalmazására nem volt lényeges hatással.
+c) ha a törvénysértés egyszerűsített felülvizsgálati eljárás lefolytatása útján orvosolható.
 
 (2) A felülvizsgálati indítványban a jogerős ügydöntő határozat által megállapított tényállás nem támadható.
 

@@ -8,7 +8,7 @@ b) a bűncselekményt nem a vádlott követte el,
 
 c) nem bizonyított a bűncselekmény elkövetése vagy az, hogy a bűncselekményt a vádlott követte el, vagy
 
-d) a vádlott javára a büntethetőségét kizáró gyermekkor, kóros elmeállapot, kényszer, fenyegetés, tévedés, jogos védelem, illetve végszükség állapítható meg, vagy a büntethetőségét a jogszabály engedélye zárja ki.
+d) a vádlott büntethetőségét, illetve a cselekmény büntetendőségét kizáró ok állapítható meg.
 
 (2) A felmentő ítélet rendelkező része tartalmazza a bíróság döntését arról, hogy a vádlottat a vád alól felmenti.
 

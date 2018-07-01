@@ -8,9 +8,9 @@
 
 (4) A gyanúsított, a tanú és a tolmács a jegyzőkönyv minden oldalát aláírja. Ha a gyanúsított, a tanú vagy a tolmács a jegyzőkönyv aláírását megtagadja, a megtagadás tényét és annak közölt vagy ismert indokát a jegyzőkönyvben fel kell tüntetni.
 
-(5) Folyamatos hangfelvétel vagy kép- és hangfelvétel esetén a felvételt az ügyiratok közé kell csatolni.
+(5) Folyamatos hangfelvétel vagy kép- és hangfelvétel esetén a felvételt az ügyiratok között kell kezelni.
 
-(6) Az ügyészség vagy a nyomozó hatóság elrendelheti, hogy a folyamatos hangfelvételről vagy a kép- és hangfelvételről a különleges bánásmódot igénylő személy személyazonosságának megállapítására alkalmas egyedi tulajdonságait – így különösen alakját, arcképét, hangját – technikai úton torzító másolat készüljön. Ebben az esetben az ügyiratok közé a torzított egyedi tulajdonságokat tartalmazó másolatot kell csatolni és a folyamatos hangfelvételt vagy kép- és hangfelvételt zártan kell kezelni.
+(6) Az ügyészség vagy a nyomozó hatóság elrendelheti, hogy a folyamatos hangfelvételről vagy a kép- és hangfelvételről a különleges bánásmódot igénylő személy személyazonosságának megállapítására alkalmas egyedi tulajdonságait – így különösen alakját, arcképét, hangját – technikai úton torzító másolat készüljön. Ebben az esetben az ügyiratok között a torzított egyedi tulajdonságokat tartalmazó másolatot kell kezelni és a folyamatos hangfelvételt vagy kép- és hangfelvételt zártan kell kezelni.
 
 (7) Folyamatos hangfelvétel vagy kép- és hangfelvétel esetén tájékoztatni kell az eljárási cselekményen jelen lévő személyeket, hogy a felvételt – az eljárási cselekmény befejezésétől számított nyolc napon belül – mikor és hol hallgathatják, illetve tekinthetik meg.
 
@@ -20,4 +20,4 @@
 
 (10) Az eljárási cselekményt, illetve – ha ez később történt meg – a folyamatos hangfelvétel vagy a kép- és hangfelvétel megismerését követő nyolc napon belül a jegyzőkönyv kijavítását vagy kiegészítését indítványozhatják, akik az eljárási cselekményen jelen voltak.
 
-(11) A kijavítást a jegyzőkönyvben a kijavítás dátumának megjelölésével fel kell jegyezni, vagy az indítvány elutasítását az ügyiratokban fel kell tüntetni. A kijavítást és a kiegészítést az eljárási cselekményt végző ügyész vagy a nyomozó hatóság tagja aláírja.
+(11) A kijavítást a jegyzőkönyvben a kijavítás dátumának megjelölésével fel kell jegyezni, arról új jegyzőkönyvet kell készíteni, vagy az indítvány elutasítását az ügyiratokban fel kell tüntetni. A kijavítást és a kiegészítést az eljárási cselekményt végző ügyész vagy a nyomozó hatóság tagja aláírja.

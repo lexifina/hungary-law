@@ -20,7 +20,7 @@ a) az ellentétes döntést, illetve
 
 b) kizárólag a másodfokú bíróság ítéletének azon rendelkezését vagy részét, amelyet az elsőfokú bíróság ítéletének az ellentétes döntéssel összefüggő felülbírálata eredményezett.
 
-(4) A másodfokú bíróság ítélete ellen fellebbezésnek kizárólag a (3) bekezdés b) pontja alapján van helye, ha
+(4) A másodfokú bíróság ítélete elleni fellebbezésben az ellentétes döntés alapját képező tényállás nem támadható, ha
 
 a) az elsőfokú bíróság ítélete ellen kizárólag az 583. § (3) bekezdése alapján jelentettek be fellebbezést, vagy
 

@@ -14,7 +14,7 @@ szükséges.
 
 (4) A megőrzésre kötelezett a határozat vele történő közlésének időpontjától köteles a határozatban megjelölt elektronikus adatot változatlanul megőrizni és – szükség esetén más adatállománytól elkülönítve – biztosítani annak biztonságos tárolását. A megőrzésre kötelezett köteles az elektronikus adat megváltoztatását, törlését, megsemmisülését, továbbítását, az elektronikus adatról másolat jogosulatlan készítését vagy az ahhoz való jogosulatlan hozzáférést megakadályozni.
 
-(5) A megőrzésre kötelezést elrendelő a megőrzéssel érintett elektronikus adatot törvényben vagy kormányrendeletben meghatározott feltételeknek megfelelő, minősített vagy legalább minősített tanúsítványon alapuló elektronikus aláírással vagy elektronikus bélyegzővel láthatja el.
+(5) A megőrzésre kötelezést elrendelő a megőrzéssel érintett elektronikus adatot minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel láthatja el.
 
 (6) Ha az elektronikus adat eredeti helyen történő megőrzése az érintettnek az elektronikus adat feldolgozásával, kezelésével, tárolásával vagy továbbításával kapcsolatos tevékenységét jelentősen akadályozná, az elrendelő engedélyével az elektronikus adat megőrzéséről annak más információs rendszerbe vagy adathordozóra történő átmásolásával gondoskodhat. Az átmásolást követően a megőrzésre kötelezést elrendelő az eredeti elektronikus adatot tartalmazó információs rendszerre vagy adathordozóra a korlátozásokat részlegesen vagy teljesen feloldhatja.
 

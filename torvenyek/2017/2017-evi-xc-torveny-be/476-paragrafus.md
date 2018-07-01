@@ -1,6 +1,6 @@
 ## A bíróság eljárása az ügyiratok alapján
 
-476. § (1) Ha az indítványt az ügyészség terjesztette elő, az indítvány megküldésével egyidejűleg átadja a bíróságnak a nyomozás ügyiratait.
+476. § (1) Ha az indítványt az ügyészség terjesztette elő, az indítvány megküldésével egyidejűleg átadja a bíróságnak a nyomozás ügyiratait. Ha az indítvány tárgya a letartóztatás meghosszabbítása, az indítvány megküldését követően a gyanúsított és a védő számára biztosítani kell azoknak az ügyiratoknak a megismerését is, amelyekre az indítványban hivatkoznak és amelyek a letartóztatás tárgyában hozott legutóbbi döntést követően keletkeztek.
 
 (2) Ha az indítványt nem az ügyészség terjesztette elő és e törvény eltérően nem rendelkezik, a bíróság az indítványt megküldi az ügyészségnek és az ügyészség részére indítványának vagy észrevételeinek előterjesztésére, illetve a nyomozás ügyiratainak átadására határidőt állapít meg.
 

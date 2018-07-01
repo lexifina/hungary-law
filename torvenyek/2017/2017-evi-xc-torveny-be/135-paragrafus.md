@@ -12,7 +12,7 @@ c) az értesítést, ha ezt az érdekeltek jelentős száma indokolttá teszi.
 
 (3) A hirdetményt tizenöt napra közzé kell tenni
 
-a) a kézbesítést elrendelő bíróság, ügyészség, nyomozó hatóság elektronikus tájékoztatásra szolgáló honlapján, és
+a) a kézbesítést elrendelő bíróság, ügyészség, nyomozó hatóság elektronikus tájékoztatásra szolgáló honlapján, illetve hirdetőtábláján és
 
 b) a Kormány által rendeletben meghatározott közzétételi felületen.
 

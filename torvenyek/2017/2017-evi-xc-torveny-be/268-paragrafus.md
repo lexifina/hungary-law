@@ -14,7 +14,7 @@ e) holttest, holttestrész azonosítása érdekében annak a holttestnek, holtte
 
 (2) A körözést vissza kell vonni, ha az elrendelés oka megszűnt. Az (1) bekezdés a), c) és d) pontja alapján elrendelt körözést vissza kell vonni az eljárás megszüntetését, illetve jogerős befejezését követően.
 
-(3) A körözés visszavonásról vagy módosításáról az a bíróság, ügyészség vagy nyomozó hatóság határoz, amely előtt az eljárás folyamatban van. A vádemelés előtt a nyomozó hatóság által elrendelt körözést az ügyészség is visszavonhatja vagy módosíthatja.
+(3) A körözés visszavonásáról vagy módosításáról az a bíróság, ügyészség vagy nyomozó hatóság határoz, amely előtt az eljárás folyamatban van. A vádemelés előtt a nyomozó hatóság által elrendelt körözést az ügyészség is visszavonhatja vagy módosíthatja.
 
 (4) Ha az eljárás nem a körözést elrendelő bíróság, ügyészség vagy nyomozó hatóság előtt van folyamatban vagy az eljárás során változik az ügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, és a körözés feltételei továbbra is fennállnak, a körözés visszavonása helyett az eljáró bíróság, ügyészség vagy nyomozó hatóság indokolt esetben e körülmény körözési nyilvántartási rendszerben történő rögzítése érdekében intézkedik.
 

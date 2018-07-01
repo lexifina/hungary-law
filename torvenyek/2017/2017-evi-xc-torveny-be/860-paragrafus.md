@@ -10,7 +10,9 @@ c) polgárok személyi, lakcím és értesítési cím adatait tartalmazó nyilv
 
 d) közúti közlekedési nyilvántartás,
 
-e) központi idegenrendészeti nyilvántartás.
+e) központi idegenrendészeti nyilvántartás,
+
+f) körözési nyilvántartási rendszer.
 
 (3) A büntetőeljárás megszüntetésére vonatkozó kegyelem iránti előterjesztést a vádemelés előtt a legfőbb ügyész, a vádemelés után az igazságügyért felelős miniszter tehet a köztársasági elnökhöz.
 

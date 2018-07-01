@@ -8,6 +8,6 @@
 
 (4) A vádlott és a védő előadhatja a védekezés alapjául szolgáló tényeket és ezek bizonyítékait, valamint bizonyítás lefolytatására és egyéb eljárási cselekményekre vonatkozó indítványt, továbbá a bizonyíték kirekesztésére vonatkozó indítványt terjeszthet elő.
 
-(5) A vádlott és a védő a (4) bekezdésben meghatározott indítványában egyedileg meg kell jelölni az indítvány előterjesztésének okát és célját. Ennek megfelelően a bizonyíték kirekesztésére vonatkozó indítványnak tartalmaznia kell, hogy a más által előterjesztett bizonyíték milyen okból nem fogadható el, míg a bizonyítás felvételére vonatkozó indítványban meg kell jelölni, hogy az indítványozott bizonyítás mely tény igazolására irányul.
+(5) A vádlottnak és a védőnek a (4) bekezdésben meghatározott indítványában egyedileg meg kell jelölnie az indítvány előterjesztésének okát és célját. Ennek megfelelően a bizonyíték kirekesztésére vonatkozó indítványnak tartalmaznia kell, hogy a más által előterjesztett bizonyíték milyen okból nem fogadható el, míg a bizonyítás felvételére vonatkozó indítványban meg kell jelölnie, hogy az indítványozott bizonyítás mely tény igazolására irányul.
 
 (6) A vádlott, illetve a védő indítványára az ügyész észrevételt tehet és az (5) bekezdésben meghatározottak szerint indítványt terjeszthet elő, valamint tizenöt napon belül megjelöli a vádlott és a védő által előadott azon tényeket, amelyek valódiságát elfogadja.

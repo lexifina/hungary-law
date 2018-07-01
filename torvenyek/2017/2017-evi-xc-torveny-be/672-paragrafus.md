@@ -6,7 +6,7 @@
 
 (3) Az egyszerűsített felülvizsgálati eljárás hivatalból vagy az ügyészség, a terhelt, a védő vagy az egyéb érdekelt indítványára indul meg. A bíróság az eljárást megszüntetheti, ha az indítványozó az indítványt visszavonta.
 
-(4) A terhelt vagy az egyéb érdekelt hátrányára egyszerűsített felülvizsgálati eljárásra indítvány az ügydöntő határozat jogerőre emelkedését követően hat hónapon belül terjeszthető elő, illetve a terhelt vagy az egyéb érdekelt hátrányára egyszerűsített felülvizsgálati eljárás hivatalból hat hónapon belül indítható.
+(4) A terhelt, a vagyoni érdekelt vagy az egyéb érdekelt hátrányára egyszerűsített felülvizsgálati eljárásra indítvány az ügydöntő határozat közlésétől számított hat hónapon belül terjeszthető elő, illetve a terhelt, a vagyoni érdekelt vagy az egyéb érdekelt hátrányára egyszerűsített felülvizsgálati eljárás hivatalból – az ügydöntő határozat közlésétől számított – hat hónapon belül indítható.
 
 (5) Az egyszerűsített felülvizsgálati eljárást a megindításától számított hat hónapon belül le kell folytatni, ezt követően – a (6) bekezdésben foglaltak kivételével – nem hozható a terheltre vagy az egyéb érdekeltre hátrányosabb döntés.
 

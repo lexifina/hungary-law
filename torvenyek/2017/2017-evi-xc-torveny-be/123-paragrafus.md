@@ -10,7 +10,7 @@ c) a nyomozó hatóság tagja, az ügyész, az alügyész, az ügyészségi foga
 
 d) fogva tartott személy esetében a fogva tartást végrehajtó intézetnek a fogva tartott személy személyazonosságának megállapítására feljogosított dolgozója,
 
-e) fogva tartott személy esetében a terhelt őrzését ellátó személy,
+e) fogva tartott személy esetében az őrzését ellátó személy,
 
 f) a szakértő,
 

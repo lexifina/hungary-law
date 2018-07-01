@@ -1,6 +1,6 @@
 ## A viszonvád
 
-763. § (1) Kölcsönösen elkövetett könnyű testi sértés, rágalmazás vagy becsületsértés esetén a vádlott a magánvádló ellen vádat emelhet (a továbbiakban: viszonvád). A vádlott kérheti azt is, hogy a bíróság viszonvád keretében bírálja el az e bűncselekményekkel kölcsönösen elkövetett becsületsértés szabálysértését.
+763. § (1) Kölcsönösen elkövetett könnyű testi sértés, rágalmazás vagy becsületsértés esetén a vádlott a magánvádló ellen vádat emelhet (a továbbiakban: viszonvád). A vádlott indítványozhatja azt is, hogy a bíróság viszonvád keretében bírálja el az e bűncselekményekkel kölcsönösen elkövetett becsületsértés szabálysértését.
 
 (2) Viszonvádnak az ügydöntő határozat meghozataláig van helye, abban az esetben is, ha a magánindítvány előterjesztésének határideje lejárt, feltéve, hogy a büntethetőség nem évült el.
 

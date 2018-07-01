@@ -8,6 +8,6 @@
 
 (4) Az ügyészség a gyanúsított azonosításra alkalmas személyes adatait, a bíróság elé állítás tárgyát képező cselekmény leírását, annak Btk. szerinti minősítését és a bizonyítási eszközök felsorolását tartalmazó feljegyzést készít.
 
-(5) Az ügyészség a (4) bekezdés szerinti feljegyzés egy-egy kiadmányát legkésőbb a tárgyalás megkezdésekor kézbesíti a gyanúsított és a védő részére.
+(5) Az ügyészség a (4) bekezdés szerinti feljegyzést legkésőbb a tárgyalás megkezdésekor kézbesíti a gyanúsított és a védő részére.
 
 (6) Az ügyészség az eljárás ügyiratainak megismerését a 100. § alkalmazásával, legkésőbb a bírósági tárgyalás megkezdéséig biztosítja.

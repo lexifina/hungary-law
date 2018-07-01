@@ -30,9 +30,11 @@ b) feltételes ügyészi felfüggesztésnek van helye,
 
 c) az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvényben meghatározott konzultációs eljárás kezdődik,
 
-d) nemzetközi elfogatóparancs, illetve európai elfogatóparancs alapján más állam hatósága az elkövető átadását vagy kiadatását elhalasztotta, vagy
+d) nemzetközi elfogatóparancs, illetve európai elfogatóparancs alapján más állam hatósága az elkövető átadását vagy kiadatását elhalasztotta,
 
-e) nemzetközi büntetőbíróság a joghatósága alá tartozó ügyben a magyar hatóságot a büntetőeljárás átadása érdekében megkeresi.
+e) nemzetközi büntetőbíróság a joghatósága alá tartozó ügyben a magyar hatóságot a büntetőeljárás átadása érdekében megkeresi,
+
+f) a külföldi ítélet elismerését vagy a tagállami megfeleltetését kezdeményezte, és további, Magyarországon elvégzendő eljárási cselekmény már nincs, valamint az eljárás a külföldi ítélet elismerése vagy a tagállami ítélet megfeleltetése nélkül nem folytatható.
 
 (5) Az eljárás felfüggesztésének a (2) bekezdés, valamint a (4) bekezdés a) és b) pontja alapján a nyomozás során egy alkalommal van helye.
 

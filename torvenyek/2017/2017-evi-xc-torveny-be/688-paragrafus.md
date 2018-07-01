@@ -12,6 +12,6 @@ eléri, kivéve az ügydöntő határozat kihirdetése után elrendelt vagy fenn
 
 (3) A bíróság a fiatalkorú személyiségére és a terhére rótt bűncselekmény jellegére tekintettel törvényben meghatározottak szerint dönt a letartóztatás végrehajtási helyéről.
 
-(4) A fiatalkorú rendőrségi fogdában történő ideiglenes elhelyezéséről az ügyészség indítványára a bíróság dönt, e határozat ellen fellebbezésnek helye nincs. A tizennegyedik életévét be nem töltött fiatalkorú rendőrségi fogdában nem helyezhető el.
+(4) A fiatalkorú törvényben meghatározottak szerinti ideiglenes elhelyezéséről az ügyészség indítványára a bíróság dönt, e határozat ellen fellebbezésnek helye nincs. A tizennegyedik életévét be nem töltött fiatalkorú ideiglenesen nem helyezhető el.
 
 (5) A letartóztatás tartama alatt a bíróság a letartóztatás végrehajtásának helyét az ügyészség, a terhelt vagy a védő indítványára, vádemelés után hivatalból is megváltoztathatja.

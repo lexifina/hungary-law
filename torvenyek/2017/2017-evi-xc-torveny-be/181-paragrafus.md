@@ -6,7 +6,7 @@
 
 a) saját kezűleg leírja és aláírja,
 
-b) minősített vagy legalább minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásával látja el,
+b) minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásával látja el,
 
 c) elektronikus kapcsolattartás útján teszi meg, vagy
 

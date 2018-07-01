@@ -18,16 +18,14 @@ c) az ügyészség a vádat ejtette.
 
 a) a feljelentett vagy a terhelt fiatalkorú,
 
-b) a feljelentett vagy a terhelt katona,
+b) az elkövető büntethetőségét, illetve a cselekmény büntetendőségét gyermekkor vagy kóros elmeállapot zárja ki,
 
-c) az elkövető büntethetőségét, illetve a cselekmény büntetendőségét gyermekkor vagy kóros elmeállapot zárja ki,
+c) a bűncselekmény a sértett jogát vagy jogos érdekét közvetlenül nem sértette vagy veszélyeztette,
 
-d) a bűncselekmény a sértett jogát vagy jogos érdekét közvetlenül nem sértette vagy veszélyeztette,
+d) a sértett az állam vagy közhatalmat gyakorló szerv,
 
-e) a sértett az állam vagy közhatalmat gyakorló szerv,
+e) a bűncselekmény elkövetésével fedett nyomozó, a leplezett eszközök alkalmazására feljogosított szerv tagja vagy titkosan együttműködő személy gyanúsítható megalapozottan, és az ügyészség a 224. § (1) bekezdése alapján a feljelentést elutasította vagy az eljárást megszüntette,
 
-f) a bűncselekmény elkövetésével fedett nyomozó, a leplezett eszközök alkalmazására feljogosított szerv tagja vagy titkosan együttműködő személy gyanúsítható megalapozottan, és az ügyészség a 224. § (1) bekezdése alapján a feljelentést elutasította vagy az eljárást megszüntette,
+f) az ügyészség a feljelentést a 382. § (1) bekezdése alapján utasította el, vagy az eljárást a 399. § (1) bekezdése alapján szüntette meg, vagy
 
-g) az ügyészség a feljelentést a 382. § (1) bekezdése alapján utasította el, vagy az eljárást a 399. § (1) bekezdése alapján szüntette meg, vagy
-
-h) az ügyészség a 398. § (2) bekezdés e) pontja alapján az eljárást azért szüntette meg, mert a terhelttel a 411. § (3) bekezdése szerint egyezséget kötött.
+g) az ügyészség a 398. § (2) bekezdés e) pontja alapján az eljárást azért szüntette meg, mert a terhelttel a 411. § (3) bekezdése szerint egyezséget kötött.

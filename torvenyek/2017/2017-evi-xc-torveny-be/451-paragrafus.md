@@ -20,7 +20,7 @@ d) a határozathozatal helyét és idejét.
 
 (6) A záró rész tartalmazza a határozathozatal helyének és idejének megfelelő keltezést, továbbá az egyesbíró vagy a tanács elnöke, illetve a tanács minden tagja nevét és aláírását.
 
-(7) A vádemelést követően a személyi szabadságot érintő kényszerintézkedésről rendelkező határozat tartalmára az 561. § (2) bekezdés a) és b), továbbá a (3) bekezdés a) és b) pontjában foglaltak is irányadók.
+(7) A vádemelést követően a személyi szabadságot érintő kényszerintézkedésről rendelkező határozat tartalmára az 561. § (2) bekezdés a) és b) pontjában, továbbá a (3) bekezdés a) és b) pontjában foglaltak is irányadók.
 
 (8) Ha a nem ügydöntő végzés elleni fellebbezésnek e törvény alapján halasztó hatálya van, az erről való tájékoztatást a végzés jogorvoslati része tartalmazza.
 

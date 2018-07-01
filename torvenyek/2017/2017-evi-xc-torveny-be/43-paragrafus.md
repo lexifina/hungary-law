@@ -10,7 +10,7 @@ c) aki a terhelt érdekével ellentétes magatartást tanúsított, vagy akinek 
 
 d) aki az ügyben szakértőként vagy szaktanácsadóként vesz vagy vett részt,
 
-e) aki az ügyben tanúként vesz vagy vett részt, kivéve, ha a 170. § (1) bekezdésének a) pontja alapján nem volt kihallgatható, illetve ha a 173. § alapján a tanúvallomást megtagadta,
+e) aki az ügyben tanúként vesz vagy vett részt, kivéve, ha a 170. § (1) bekezdés a) pontja alapján nem volt kihallgatható, illetve ha a 173. § alapján a tanúvallomást megtagadta,
 
 f) aki az ügyben tanúként részt vett, vagy részt vevő – a terhelttől különböző – személy segítőjeként vesz vagy vett részt,
 

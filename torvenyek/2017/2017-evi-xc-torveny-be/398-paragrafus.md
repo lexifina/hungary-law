@@ -18,7 +18,7 @@ e) halál, elévülés vagy kegyelem folytán a büntethetőség megszűnt,
 
 f) a cselekményt már jogerősen elbírálták,
 
-g) a feljelentés vagy a legfőbb ügyésznek a Btk. 3. § (3) bekezdésében meghatározott rendelkezése hiányzik,
+g) a feljelentés vagy a legfőbb ügyésznek a 4. § (9) bekezdésében vagy a Btk. 3. § (3) bekezdésében meghatározott rendelkezése hiányzik,
 
 h) a magánindítvány hiányzik, és az a 378. § (4) bekezdése alapján már nem pótolható,
 

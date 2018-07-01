@@ -1,6 +1,6 @@
 661. § (1) A nyilvános ülésen a védő, valamint ha a vádat az ügyészség képviselte, a legfőbb ügyész vagy képviselőjének jelenléte kötelező.
 
-(2) A nyilvános ülésről a terheltet, illetve a 651. § (2) bekezdés c)–f) pontjában felsorolt jogosultakat értesíteni kell.
+(2) A nyilvános ülésről a terheltet és a 651. § (2) bekezdés d)–f) pontjában felsorolt jogosultakat értesíteni kell.
 
 (3) Az értesítést olyan időben kell kiadni, hogy a kézbesítés legalább nyolc nappal a nyilvános ülés előtt megtörténjen. A nyilvános ülés megtartásának nem akadálya, ha az értesítést azért nem lehetett kézbesíteni, mert a címzett ismeretlen helyen tartózkodik.
 

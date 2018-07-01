@@ -1,3 +1,3 @@
 ## Adatkezelés
 
-157. § Az Országos Bírósági Hivatal, a bíróság, az ügyészség és a nyomozó hatóság jogosult az elektronikus úton kapcsolatot tartóknak az elektronikus kapcsolattartás biztosítása céljából hozzá érkezett adatainak kezelésére.
+157. § A büntetőeljárás során az Országos Bírósági Hivatal és az egyéb elektronikus ügyintézést biztosító szervek jogosultak az elektronikus úton kapcsolatot tartóknak az elektronikus kapcsolattartás biztosítása céljából hozzájuk érkezett adatainak kezelésére.

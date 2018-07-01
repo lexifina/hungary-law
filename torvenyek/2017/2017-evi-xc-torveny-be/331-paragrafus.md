@@ -16,6 +16,6 @@ g) a magánfél visszavonta a polgári jogi igényt, és két hónapon belül ne
 
 (2) Az (1) bekezdés a) pontja esetén a zár alá vett vagyon feletti rendelkezési jogot magának követelő személy a követelése érdekében két hónapon belül a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróságnál polgári eljárást indíthat. Ha polgári eljárás indul, a zár alá vételt akkor kell feloldani, ha a polgári eljárás során a bíróság a zár alá vett vagyon feletti rendelkezési jogról döntést hozott vagy a polgári eljárást megszüntette. Ha senki sem indít polgári eljárást, a zár alá vétel feloldását az annak elrendelését követő két hónap elteltével kell végrehajtani.
 
-(3) Az (1) bekezdés a)–b), e) és f) pontja szerinti határidőt a zár alá vételt feloldó, a nyomozást megszüntető, a polgári jogi igény megítélésére, illetve az egyéb törvényes útra utasítására vonatkozó határozat közlésétől kell számítani.
+(3) Az (1) bekezdés a)–b), e) és f) pontja szerinti határidőt a zár alá vételt feloldó, az eljárást megszüntető, a polgári jogi igény megítélésére, illetve az egyéb törvényes útra utasítására vonatkozó határozat közlésétől kell számítani.
 
 (4) Az 557. § szerinti polgári jogi igénynek a polgári perrendtartásról szóló törvény szerint határkörrel és illetékességgel rendelkező bíróságnak történő megküldése esetén a zár alá vételt nem kell feloldani.

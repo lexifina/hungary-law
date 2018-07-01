@@ -4,7 +4,7 @@
 
 (2) A kijavítás nem változtathat a kijavított határozat érdemén. Nincs helye kijavításnak az ügyészség, illetve a nyomozó hatóság ténybeli tévedése miatt.
 
-(3) A kijavító határozatot a kijavított határozatra és lehetőleg annak kiadmányaira is fel kell jegyezni. A kijavító határozattal egyidejűleg a kijavítást feltüntető határozatkiadmányt is kézbesíteni kell.
+(3) A kijavítást a határozatra fel kell jegyezni vagy arról új határozatot kell készíteni. A kijavító határozattal egyidejűleg a kijavított határozatot is kézbesíteni kell.
 
 (4) A kijavítás tárgyában hozott határozat ellen panasznak nincs helye, kivéve, ha az ügyészség, illetve a nyomozó hatóság
 

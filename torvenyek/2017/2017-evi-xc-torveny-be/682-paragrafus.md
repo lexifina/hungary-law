@@ -16,4 +16,4 @@ e) bizonyítási kísérleten, valamint
 
 f) a személyi szabadságot érintő bírói engedélyes kényszerintézkedéssel kapcsolatos eljárásban tartott ülésen.
 
-(3) A (2) bekezdésben meghatározott eseteken kívül a fiatalkorú részvételével végzett eljárási cselekményről a védőt utólag tájékoztatni kell, ha azon a védő nem volt jelen.
+(3) A (2) bekezdésben meghatározott eseteken kívül a fiatalkorú részvételével végzett eljárási cselekményről a védőt utólag tájékoztatni kell, ha azon a védő nem volt jelen, és értesítésére sem került sor.

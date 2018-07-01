@@ -1,6 +1,6 @@
 ## Az elektronikus adathoz való hozzáférés ideiglenes megakadályozása
 
-337. § (1) A kábítószer-kereskedelem, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, új pszichoaktív anyaggal visszaélés, gyermekpornográfia, állam elleni bűncselekmény, terrorcselekmény vagy terrorizmus finanszírozása miatt folyamatban lévő büntetőeljárásban a bíróság elrendeli a felsorolt bűncselekménnyel összefüggő elektronikus adathoz való hozzáférés ideiglenes megakadályozását, ha
+337. § (1) A kábítószer-kereskedelem, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, új pszichoaktív anyaggal visszaélés, gyermekpornográfia, állam elleni bűncselekmény, terrorcselekmény, terrorizmus finanszírozása vagy háborús uszítás miatt folyamatban lévő büntetőeljárásban a bíróság elrendeli a felsorolt bűncselekménnyel összefüggő elektronikus adathoz való hozzáférés ideiglenes megakadályozását, ha
 
 a) az eltávolításra kötelezett az elektronikus adat ideiglenes eltávolítására vonatkozó kötelezettséget nem teljesítette,
 
@@ -24,7 +24,7 @@ a) a tárhelyszolgáltató teljesíti az elektronikus adat ideiglenes eltávolí
 
 b) az elrendelésének oka egyébként megszűnt, vagy
 
-c) a nyomozást megszüntették, kivéve, ha a Btk. 77. § (2) bekezdése alapján az elektronikus adat végleges hozzáférhetetlenné tétele elrendelésének lehet helye.
+c) az eljárást megszüntették, kivéve, ha a Btk. 77. § (2) bekezdése alapján az elektronikus adat végleges hozzáférhetetlenné tétele elrendelésének lehet helye.
 
 (7) Az elektronikus adathoz való hozzáférés ideiglenes megakadályozása a büntetőeljárás jogerős befejezésével megszűnik.
 

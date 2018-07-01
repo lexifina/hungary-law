@@ -20,7 +20,7 @@ h) olyan bűncselekmény miatt van folyamatban, amelynek a vád tárgyává tett
 
 (2) A bíróság az eljárást nem ügydöntő végzéssel megszünteti, ha
 
-a) a feljelentés, vagy a legfőbb ügyésznek a Btk. 3. § (3) bekezdésében meghatározott rendelkezése hiányzik,
+a) a feljelentés, vagy a legfőbb ügyésznek a 4. § (9) bekezdésében vagy a Btk. 3. § (3) bekezdésében meghatározott rendelkezése hiányzik,
 
 b) a magánindítvány hiányzik és az a 378. § (4) bekezdése alapján már nem pótolható,
 

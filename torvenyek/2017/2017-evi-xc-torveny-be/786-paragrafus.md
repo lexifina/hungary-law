@@ -12,7 +12,7 @@ a) a végzés meghozatalára meghatározott egy hónapos határidőt a személye
 
 b) a magánvádló a büntetővégzés kézbesítésétől számított nyolc napon belül tárgyalás tartását kérheti,
 
-c) a magánvádló tárgyalás tartása iránti kérelme alapján a bíróság az eljárást az e Fejezetben foglalt eltérésekkel a XCVIII. Fejezet szerint folytatja.
+c) a magánvádló tárgyalás tartása iránti kérelme alapján a bíróság az eljárást az e Fejezetben foglalt eltérésekkel a C. Fejezet szerint folytatja.
 
 (5) A magánvádló a távollévő terhelttel szembeni, illetve a külföldön tartózkodó terhelt távollétében történő bírósági eljárást nem indítványozhat.
 

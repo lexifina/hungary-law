@@ -16,7 +16,7 @@
 
 (8) Az írásbeli jegyzőkönyv, a jegyzőkönyv írásbeli kivonata, valamint a folyamatos hangfelvétel vagy a kép- és hangfelvétel megismerését követő nyolc napon belül az írásbeli jegyzőkönyv vagy a jegyzőkönyv írásbeli kivonata kijavítását vagy kiegészítését indítványozhatják azok a büntetőeljárásban részt vevő személyek, akik az eljárási cselekményen jelen voltak. A kijavítás vagy kiegészítés az írásbeli jegyzőkönyv vagy a jegyzőkönyv írásbeli kivonata elkészítésétől számított tizenöt nap elteltével nem indítványozható.
 
-(9) A kijavítást és a kiegészítést az írásbeli jegyzőkönyvben vagy a jegyzőkönyv írásbeli kivonatán a kijavítás dátumának megjelölésével fel kell jegyezni, vagy az indítvány elutasítását az ügyiratokban fel kell tüntetni.
+(9) A kijavítást és a kiegészítést az írásbeli jegyzőkönyvben vagy a jegyzőkönyv írásbeli kivonatán a kijavítás dátumának megjelölésével fel kell jegyezni, arról új jegyzőkönyvet kell készíteni, vagy az indítvány elutasítását az ügyiratokban fel kell tüntetni.
 
 (10) A bíróság az írásbeli jegyzőkönyv vagy a jegyzőkönyv írásbeli kivonata kijavítását hivatalból is elrendelheti.
 

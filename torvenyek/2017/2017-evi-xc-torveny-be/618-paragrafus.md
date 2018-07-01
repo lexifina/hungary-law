@@ -14,7 +14,7 @@ arra tekintet nélkül bírálja felül, hogy ki, milyen okból fellebbezett.
 
 (2) A harmadfokú bíróság hivatalból dönt az egyszerűsített felülvizsgálat tárgyát képező kérdésekben, valamint a szülői felügyeleti jogra és a polgári jogi igényre vonatkozó rendelkezésekről is.
 
-(3) Ha a harmadfokú bíróság a 615. § (3) bekezdése szerinti fellebbezést alaposnak találja, a fellebbezéssel nem érintett bűncselekmény tekintetében is felülbírálja
+(3) Ha a harmadfokú bíróság a 615. § (3) bekezdése szerinti fellebbezést alaposnak találja, az ítélet fellebbezéssel nem érintett része tekintetében is felülbírálja
 
 a) az 590. § (5) bekezdés a)–c) pontjában meghatározottakat,
 

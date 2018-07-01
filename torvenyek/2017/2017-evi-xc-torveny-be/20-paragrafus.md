@@ -24,7 +24,7 @@
 
 12. a nemzetközileg védett személy elleni erőszak,
 
-13. a terrorcselekmény, a terrorcselekmény feljelentésének elmulasztása, a terrorizmus finanszírozása, a jármű hatalomba kerítése, a bűnszervezetben részvétel, a Btk. 322. § (2) bekezdés b) pontja szerinti közveszély okozása, a Btk. 323. § (2) bekezdés c) pontja és (3) bekezdés c) pontja szerinti közérdekű üzem működésének megzavarása,
+13. a terrorcselekmény, a terrorcselekmény feljelentésének elmulasztása, a terrorizmus finanszírozása, a háborús uszítás, a jármű hatalomba kerítése, a bűnszervezetben részvétel, a Btk. 322. § (2) bekezdés b) pontja szerinti közveszély okozása, a Btk. 323. § (2) bekezdés c) pontja és (3) bekezdés c) pontja szerinti közérdekű üzem működésének megzavarása,
 
 14. a nemzetközi gazdasági tilalom megszegése, a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása, a haditechnikai termékkel vagy szolgáltatással visszaélés, a kettős felhasználású termékkel visszaélés,
 

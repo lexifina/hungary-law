@@ -1,6 +1,6 @@
 ## A pótmagánvádló fellépése a vád ejtése esetén
 
-796. § (1) Ha az ügyészség a vádat ejtette, a sértett pótmagánvádlóként léphet fel, ha a 787. § (3) bekezdés a)–e) pontjában foglalt kizáró ok nem áll fenn.
+796. § (1) Ha az ügyészség a vádat ejtette, a sértett pótmagánvádlóként léphet fel, ha a 787. § (3) bekezdés a)–d) pontjában foglalt kizáró ok nem áll fenn.
 
 (2) A sértett az 539. § (3) bekezdésében megjelölt nyilatkozat kézhezvételétől számított tizenöt napon belül léphet fel pótmagánvádlóként.
 

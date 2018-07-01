@@ -26,7 +26,7 @@ bc) a cselekményt már jogerősen elbírálták;
 
 c) az eljárást véglegessé vált nem ügydöntő végzésében azért szüntette meg, mert
 
-ca) a magánindítvány, a feljelentés, vagy a legfőbb ügyésznek a Btk. 3. § (3) bekezdésében meghatározott rendelkezése hiányzott,
+ca) a magánindítvány, a feljelentés, vagy a legfőbb ügyésznek a 4. § (9) bekezdésében vagy a Btk. 3. § (3) bekezdésében meghatározott rendelkezése hiányzott,
 
 cb) a vádat nem az arra jogosult emelte, vagy
 

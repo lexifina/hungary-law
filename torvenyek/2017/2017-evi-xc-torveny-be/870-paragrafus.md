@@ -7,3 +7,7 @@
 (4) E törvénynek az igazolási kérelem előterjesztésének határidejére vonatkozó szabályát e törvény hatálybalépését követően történt mulasztás esetében kell alkalmazni.
 
 (5) A korábbi jogszabály alapján felfüggesztett eljárást e törvény hatálybalépését követően e törvény szerint kell lefolytatni.
+
+(6) E törvény elektronikus kapcsolattartásra vonatkozó rendelkezéseit – a (7) bekezdésben meghatározott kivétellel – a 2018. január 1-jét követően indult büntetőeljárásokban kell alkalmazni.
+
+(7) Az összbüntetési eljárás iránti indítványt, valamint ezen indítvány visszavonását az elítélt védője a 2018. január 1-je előtt indult büntetőeljárások esetében is benyújthatja elektronikus úton a bírósághoz.

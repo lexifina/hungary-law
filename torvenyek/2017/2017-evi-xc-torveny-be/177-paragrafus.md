@@ -6,4 +6,4 @@
 
 (4) A tanúnak az ügyben korábban, vagy más ügyben tett tanúvallomása bizonyítási eszközként akkor is felhasználható, ha a tanú a vallomástételt a későbbiekben megtagadja. Ennek feltétele, hogy a tanúvallomásról készült jegyzőkönyvből a tanúzási figyelmeztetés és az arra adott válasz egyértelműen kitűnjön.
 
-(5) Ha a tanút az ügyben korábban vagy más ügyben terheltként hallgatták ki, a terheltként tett vallomása bizonyítási eszközként akkor használható fel, ha a vallomásról készült jegyzőkönyvből a terhelti figyelmeztetés és az erre adott válasz egyértelműen kitűnik.
+(5) Ha a tanút az ügyben korábban vagy más ügyben terheltként hallgatták ki, a terheltként tett vallomása bizonyítási eszközként akkor használható fel, ha a vallomásról készült jegyzőkönyvből a terhelti figyelmeztetés és az erre adott válasz egyértelműen kitűnik. Ebben az esetben a tanú korábban terheltként tett vallomása akkor is felhasználható, ha a tanú a vallomástételt a későbbiekben megtagadja.

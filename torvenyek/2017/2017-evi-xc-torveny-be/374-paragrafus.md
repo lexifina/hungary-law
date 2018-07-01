@@ -12,7 +12,7 @@ d) a lefoglalt dolog értékesítésének elrendelése ellen, ha azt az ügyész
 
 e) ha az ügyészség, illetve a felettes ügyészség elutasította azt a panaszt, amely
 
-ea) a házkutatás,
+ea) a kutatás,
 
 eb) a motozás,
 
@@ -28,12 +28,12 @@ f) ha az ügyészség, illetve a felettes ügyészség elutasította a gyanúsí
 
 g) a 402. § (3) és (4) bekezdése szerint az eljárást megszüntető határozatnak a 402. § (2) bekezdése alapján hozott rendelkezése ellen.
 
-(2) A felülbírálati indítványt az (1) bekezdés szerinti határozat kézbesítésétől számított nyolc napon belül, a bíróságnál kell két példányban előterjeszteni. A felülbírálati indítványban meg kell jelölni azt a határozatot, amely ellen a felülbírálati indítvány irányul, továbbá az indítvány előterjesztésének okát és célját.
+(2) A felülbírálati indítványt az (1) bekezdés szerinti határozat kézbesítésétől számított nyolc napon belül, a bíróságnál kell előterjeszteni. A felülbírálati indítványban meg kell jelölni azt a határozatot, amely ellen a felülbírálati indítvány irányul, továbbá az indítvány előterjesztésének okát és célját.
 
 (3) Az (1) bekezdés d) pontja szerinti határozat ellen előterjesztett felülbírálati indítványnak a határozat végrehajtására halasztó hatálya van.
 
 (4) A bíróság a felülbírálati indítványt az ügyiratok és az ügyészség észrevételének beszerzése nélkül is elbírálhatja, ha ez a felülbírálati indítvány tartalma alapján lehetséges.
 
-(5) Ha a felülbírálati indítványról a (4) bekezdés alapján nem lehet dönteni, a bíróság a felülbírálati indítvány egy példányának kézbesítésével együtt az ügyészségtől beszerzi az ügyiratokat.
+(5) Ha a felülbírálati indítványról a (4) bekezdés alapján nem lehet dönteni, a bíróság a felülbírálati indítvány kézbesítésével együtt az ügyészségtől beszerzi az ügyiratokat.
 
 (6) Az ügyészség az ügyiratokat a bíróságnak öt munkanapon belül megküldi és e határidőn belül a felülbírálati indítványra észrevételt vagy azzal összefüggő indítványt tehet.

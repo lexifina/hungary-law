@@ -2,7 +2,7 @@
 
 (2) Az előkészítő eljárás során körözés nem rendelhető el.
 
-(3) Az előkészítő eljárás során a leplezett eszközök alkalmazására feljogosított szerv adatkérés keretében adatszolgáltatást kizárólag
+(3) Az előkészítő eljárás során adatkérés keretében adatszolgáltatás kizárólag
 
 1. az adóhatóságtól,
 
@@ -46,8 +46,14 @@
 
 21. az Élettársi Nyilatkozatok Nyilvántartásából,
 
-22. a hitelbiztosítéki nyilvántartásból, és
+22. a hitelbiztosítéki nyilvántartásból,
 
-23. a házassági és élettársi vagyonjogi szerződések országos nyilvántartásából
+23. a házassági és élettársi vagyonjogi szerződések országos nyilvántartásából,
 
-kérhet.
+24. a lőfegyverek központi nyilvántartásából,
+
+25. az autópályák, autóutak és főutak használatának megtett úttal arányos díjáról szóló törvény szerinti adatbázisból,
+
+26. a központi közlekedési közigazgatási és ellenőrzési bírság nyilvántartásból
+
+kérhető.

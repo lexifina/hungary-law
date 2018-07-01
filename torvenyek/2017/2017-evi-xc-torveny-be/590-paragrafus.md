@@ -8,7 +8,7 @@
 
 (4) Ha az elsőfokú bíróság ítélete több bűncselekményről rendelkezett, a másodfokú bíróság az ítéletnek csak a fellebbezéssel érintett bűncselekményre vonatkozó rendelkezését, illetve részét bírálja felül.
 
-(5) A másodfokú bíróság a (3) és a (4) bekezdésben meghatározott esetben a fellebbezéssel nem érintett bűncselekmény vonatkozásában is felülbírálja
+(5) A másodfokú bíróság a (3) és a (4) bekezdésben meghatározott esetben az ítélet fellebbezéssel nem érintett része tekintetében is felülbírálja
 
 a) az elsőfokú bírósági eljárást és ennek során vizsgálja azon eljárási szabályok megtartását, amelyek megsértése esetén a 607. § (1) bekezdése, valamint a 608. § (1) bekezdése alapján az ítéletet hatályon kívül kell helyezni,
 

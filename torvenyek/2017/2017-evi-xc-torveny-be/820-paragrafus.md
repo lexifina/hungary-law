@@ -12,7 +12,7 @@ bb) a lefoglalt dolog állami tulajdonba vétele tárgyában nem lehet érdemben
 
 (2) A 819. § (2) bekezdése esetén a bíróság jogerős ügydöntő határozatát követően az ügyészség vagyonkutatást rendel el
 
-a) a bűncselekmény elkövetéséből eredő vagyonvisszaszerzés érdekében, ha a jogerős ügydöntő határozattal elrendelt, pénzösszegben kifejezett vagyonelkobzás esetén
+a) a bűncselekmény elkövetéséből eredő vagyon visszaszerzése érdekében, ha a jogerős ügydöntő határozattal elrendelt, pénzösszegben kifejezett vagyonelkobzás esetén
 
 aa) a vagyonelkobzás végrehajtása a bírósági végrehajtó tájékoztatása alapján nem vezetett eredményre, vagy
 

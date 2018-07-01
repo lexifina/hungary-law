@@ -8,4 +8,4 @@ a) a sértett esetében határozatot hoz,
 
 b) a tanú esetében határozat hozatala nélkül dönt.
 
-(3) A nyomozó hatóság a (2) bekezdés b) pontja esetén az indítvány elutasításáról haladéktalanul tájékoztatja az ügyészséget.
+(3) A nyomozó hatóság a (2) bekezdés b) pontja esetén haladéktalanul tájékoztatja az ügyészséget.

@@ -1,20 +1,20 @@
 ## A polgári jogi igény előterjesztése és visszavonása
 
-556. § (1) A sértett a polgári jogi igényt az elsőfokú bíróságnál a tárgyalás előkészítése során, de legkésőbb azon tárgyalási határnapon terjesztheti elő, amelyen jelen volt, vagy e törvény rendelkezései szerint jelen lehetett. A határidő elmulasztása esetén igazolásnak nincs helye.
+556. § (1) A sértett a polgári jogi igényt az elsőfokú bíróságnál legkésőbb azon az eljárási cselekményen terjesztheti elő, amelyen e törvény rendelkezései szerint először jelen lehetett. A határidő elmulasztása esetén igazolásnak nincs helye.
 
 (2) A polgári jogi igénynek tartalmaznia kell
 
-a) az eljáró bíróság vagy az ügyészség, illetve a nyomozó hatóság megnevezését és az ügy számát,
+a) azon terhelt megjelölését, akivel szemben a sértett polgári jogi igényt érvényesít,
 
-b) azon terhelt ismert természetes személyazonosító adatait, akivel szemben a sértett polgári jogi igényt érvényesít,
+b) a bíróság ítéleti rendelkezésére irányuló határozott kérelmet, különösen a követelés összegét vagy mennyiségét,
 
-c) a bíróság ítéleti rendelkezésére irányuló határozott kérelmet, különösen a követelés összegét vagy mennyiségét,
+c) a polgári jogi igénnyel érvényesíteni kívánt jogot,
 
-d) a polgári jogi igénnyel érvényesíteni kívánt jogot,
+d) az érvényesíteni kívánt jogot és az ítéleti rendelkezésre irányuló kérelmet megalapozó tényeket és
 
-e) az érvényesíteni kívánt jogot és az ítéleti rendelkezésre irányuló kérelmet megalapozó tényeket.
+e) a polgári jogi igény érdemi elbírálása esetére a teljesítés módját és helyét.
 
-(3) A magánfél az eljárás folyamán bármikor, a terhelt hozzájárulása nélkül is visszavonhatja az előterjesztett polgári jogi igényt.
+(3) A magánfél az eljárás folyamán bármikor visszavonhatja az előterjesztett polgári jogi igényt.
 
 (4) A polgári jogi igény visszavonása esetén a polgári perrendtartásról szóló törvényben a keresettől elállásra meghatározott következményeket kell alkalmazni, kivéve, ha a magánfél
 

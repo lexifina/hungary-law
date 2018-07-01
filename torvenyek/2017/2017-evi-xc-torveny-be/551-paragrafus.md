@@ -1,8 +1,8 @@
 ## A jogorvoslati nyilatkozatok
 
-551. § (1) Az ítélet rendelkező részének kézbesítése után az egyesbíró vagy a tanács elnöke nyilatkoztatja a jelen lévő fellebbezésre jogosultat, hogy
+551. § (1) Az ügydöntő határozat rendelkező részének kézbesítése után az egyesbíró vagy a tanács elnöke nyilatkoztatja a jelen lévő fellebbezésre jogosultat, hogy
 
-a) az ítéletet tudomásul veszi-e,
+a) az ügydöntő határozatot tudomásul veszi-e,
 
 b) fellebbezést jelent-e be, vagy
 

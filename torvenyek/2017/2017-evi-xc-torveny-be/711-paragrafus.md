@@ -1,6 +1,6 @@
 711. § (1) A megfenyített vagy védője a fegyelmi eljárásra utalt bűncselekmény miatt a panasszal nem támadható, vagy panasz alapján hozott fegyelmi fenyítést kiszabó határozat vagy parancs bírósági felülvizsgálatát indítványozhatja. A bírósági felülvizsgálat iránti indítvány a határozat vagy parancs közlését követő három napon belül terjeszthető elő. Az indítvány elbírálásáig a fenyítés nem hajtható végre.
 
-(2) Az indítványt a fenyítést kiszabó fegyelmi jogkör gyakorlójánál kell előterjeszteni, aki azt az ügyiratokkal együtt egy napon belül megküldi a területileg illetékes törvényszék katonai tanácsának. Az indítvány a tárgyalás megkezdéséig visszavonható.
+(2) Az indítványt a fenyítést kiszabó fegyelmi jogkör gyakorlójánál kell előterjeszteni, aki azt az ügyiratokkal együtt egy napon belül megküldi az illetékes törvényszék katonai tanácsának. Az indítvány a tárgyalás megkezdéséig visszavonható.
 
 (3) A bíróság
 

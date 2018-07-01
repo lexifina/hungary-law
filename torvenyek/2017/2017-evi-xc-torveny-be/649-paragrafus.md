@@ -22,7 +22,7 @@ c) a Btk. 86. § (1) bekezdésében foglalt kizáró ok ellenére függesztette 
 
 a) joghatóság hiányában,
 
-b) a magánindítvány, a feljelentés, vagy a legfőbb ügyésznek a Btk. 3. § (3) bekezdésében meghatározott rendelkezése hiányában,
+b) a magánindítvány, a feljelentés, vagy a legfőbb ügyésznek a 4. § (9) bekezdésében vagy a Btk. 3. § (3) bekezdésében meghatározott rendelkezése hiányában,
 
 c) nem az arra jogosult által emelt vád alapján,
 

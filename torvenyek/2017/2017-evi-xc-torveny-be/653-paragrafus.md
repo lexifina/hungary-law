@@ -2,7 +2,7 @@
 
 653. § (1) A felülvizsgálati eljárás lefolytatására a harmadfokú bírósági eljárás szabályait az e Fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(2) A 651. § (2) bekezdés b)–f) pontjában meghatározott személyek a felülvizsgálati indítványt az alapügyben elsőfokon eljárt bíróságnál, vagy annál a bíróságnál terjeszthetik elő, amelynek az eljárását a felülvizsgálati indítvány sérelmezi.
+(2) A felülvizsgálati indítvány az alapügyben elsőfokon eljárt bíróságnál, vagy annál a bíróságnál terjeszthető elő, amelynek az eljárását a felülvizsgálati indítvány sérelmezi.
 
 (3) A bíróság a felülvizsgálati indítványt az alapügy ügyirataival együtt egy hónapon belül felterjeszti a Kúriához.
 

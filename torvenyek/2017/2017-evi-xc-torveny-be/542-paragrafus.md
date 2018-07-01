@@ -6,7 +6,7 @@ b) milyen büntetést szabjon ki, illetve intézkedést alkalmazzon,
 
 c) milyen egyéb rendelkezést tegyen.
 
-(2) Az ügyész a perbeszédében a büntetés, illetve az intézkedés meghatározott mértékére nem tehet indítványt.
+(2) Az ügyész a perbeszédében a büntetés, illetve az intézkedés meghatározott mértékére, illetve tartamára nem tehet indítványt.
 
 (3) Ha a bíróság az előkészítő ülésen fogadta el a bűnösséget elismerő nyilatkozatot, az ügyész a perbeszédében a büntetés kiszabására, illetve az intézkedés alkalmazására vonatkozó indítványát a vádlott terhére nem változtathatja meg.
 

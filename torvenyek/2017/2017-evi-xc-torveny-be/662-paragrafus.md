@@ -12,7 +12,7 @@ a) a büntető anyagi jog szabályainak megsértése miatt állapította meg a t
 
 b) a bűncselekmény törvénysértő minősítése, illetve a Btk. más szabályának megsértése miatt szabott ki törvénysértő büntetést, alkalmazott törvénysértő intézkedést,
 
-c) a Btk. 86. §-ában foglalt kizáró ok ellenére függesztette fel a büntetés végrehajtását, vagy
+c) a Btk. 86. § (1) bekezdésében foglalt kizáró ok ellenére függesztette fel a büntetés végrehajtását, vagy
 
 d) a súlyosítási tilalom megsértésével hozta meg a határozatát.
 

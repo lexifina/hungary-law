@@ -8,6 +8,6 @@ b) a jóvátételi munka igazolása határidejének meghosszabbításáról, ha 
 
 c) a jóvátételi munka végrehajthatósága megszűnésének megállapításáról, ha az elítélt egészségi állapotában olyan tartós változás következett be, amely a jóvátételi munka végrehajtását nem teszi lehetővé.
 
-(2) A bíróság az (1) bekezdés a) pontja esetén ítélettel, egyébként nem ügydöntő végzéssel határoz.
+(2) A bíróság az (1) bekezdés a) pontja esetén ítélettel, b) pontja esetén nem ügydöntő végzéssel, c) pontja esetén ügydöntő végzéssel határoz.
 
 (3) A bűnügyi költséget az elítélt viseli, ha a bíróság a jóvátételi munka végzését előíró rendelkezés hatályon kívül helyezéséről és büntetés kiszabásáról rendelkezik.

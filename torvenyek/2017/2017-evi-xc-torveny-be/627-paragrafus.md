@@ -6,7 +6,9 @@ a) a 608. § (1) bekezdésében meghatározott eljárási szabálysértés,
 
 b) a 609. § (1) bekezdésében meghatározott eljárási szabálysértés, vagy
 
-c) az 592. § (1) bekezdésében meghatározott okból teljes megalapozatlanság
+c) az 592. § (1) bekezdésében meghatározott okból teljes megalapozatlanság,
+
+d) a 625. § (4) bekezdésében meghatározott ok
 
 miatt került sor.
 

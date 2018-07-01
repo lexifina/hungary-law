@@ -20,10 +20,10 @@ c) a gyanúsított a pártfogó felügyelet szabályait vagy a vádemelés elhal
 
 a) a gyanúsított a büntethetőség megszűnését eredményező magatartást nem tanúsítja, és az nem is várható, vagy
 
-b) a gyanúsítottat a feltételes ügyészi felfüggesztés tartama alatt elkövetett ugyanolyan bűncselekmény miatt gyanúsítottként hallgatják ki, vagy ez a gyanúsított ismeretlen helyen vagy külföldön tartózkodása miatt nem lehetséges.
+b) a gyanúsítottat a vádemelés elhalasztásának tartama alatt elkövetett ugyanolyan bűncselekmény miatt gyanúsítottként hallgatják ki, vagy ez a gyanúsított ismeretlen helyen vagy külföldön tartózkodása miatt nem lehetséges.
 
 (8) A bíróság nem szüntetheti meg az eljárást,
 
 a) amiatt, hogy a korábbi jogszabály alapján benyújtott vádirat nem tartalmazza az ügyészségnek a büntetés kiszabására vagy intézkedés alkalmazására, illetve ezek nemére vonatkozó indítványát, vagy
 
-b) ha a korábbi jogszabály alapján benyújtott a vádirat korábbi jogszabály szerinti hiányosságainak pótlása nem történt meg, de a vádirat e törvényben foglaltaknak megfelel.
+b) ha a korábbi jogszabály alapján benyújtott vádirat korábbi jogszabály szerinti hiányosságainak pótlása nem történt meg, de a vádirat e törvényben foglaltaknak megfelel.

@@ -2,16 +2,8 @@
 
 (2) A meghatalmazást – a (3) és (4) bekezdésben foglalt kivétellel – közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni.
 
-(3) A rendelkezési nyilvántartásban a meghatalmazásra vonatkozó nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes.
+(3) A rendelkezési nyilvántartásban a meghatalmazásra vonatkozó nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes. A rendelkezési nyilvántartásba vett meghatalmazás az eljáró bíróságnak, ügyészségnek, illetve nyomozó hatóságnak történő bejelentéstől hatályos.
 
 (4) Az ügyvédnek adott meghatalmazás igazolásáról jogszabály eltérően rendelkezhet.
 
 (5) A meghatalmazás korlátozása csak annyiban hatályos, amennyiben az magából a meghatalmazásból kitűnik.
-
-(6) Ha a meghatalmazás rendelkezési nyilvántartásba vételére, vagy a rendelkezési nyilvántartásba vett meghatalmazás módosítására
-
-a) a sértett, a vagyoni érdekelt vagy az egyéb érdekelt első nyilatkozatának előterjesztése, vagy
-
-b) a sértett, a vagyoni érdekelt vagy az egyéb érdekelt első idézése vagy értesítése
-
-után kerül sor, e nyilatkozatok az eljáró bírósággal, ügyészséggel és nyomozó hatósággal szemben a bíróságnak, az ügyészségnek, illetve a nyomozó hatóságnak történő bejelentéstől hatályosak.

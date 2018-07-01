@@ -1,6 +1,6 @@
 ## A tárgyalás előkészítése
 
-727. § (1) Bíróság elé állítás esetén a LXXV. és a LXXVII. Fejezet rendelkezései nem alkalmazhatók.
+727. § (1) Bíróság elé állítás esetén a LXXV–LXXVII. Fejezet rendelkezései nem alkalmazhatók.
 
 (2) Ha az ügyészség tájékoztatja a bíróságot arról, hogy a gyanúsítottat bíróság elé kívánja állítani, a bíróság nyomban kitűzi a tárgyalás határnapját.
 

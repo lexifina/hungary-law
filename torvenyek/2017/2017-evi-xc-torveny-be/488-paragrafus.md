@@ -10,9 +10,13 @@ d) az eljárás lefolytatásához előzetes kérdésben hozott döntést kell be
 
 e) az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvényben meghatározott konzultációs eljárás kezdődik,
 
-f) nemzetközi elfogatóparancs, illetve európai elfogatóparancs alapján más állam hatósága a vádlott átadását vagy kiadatását elhalasztotta, vagy
+f) nemzetközi elfogatóparancs, illetve európai elfogatóparancs alapján más állam hatósága a vádlott átadását vagy kiadatását elhalasztotta,
 
-g) nemzetközi büntetőbíróság a joghatósága alá tartozó ügyben a magyar hatóságot a büntetőeljárás átadása érdekében megkeresi.
+g) nemzetközi büntetőbíróság a joghatósága alá tartozó ügyben a magyar hatóságot a büntetőeljárás átadása érdekében megkeresi,
+
+h) ha a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését kezdeményezte, vagy
+
+i) a külföldi igazságügyi hatóság a vádlott kiadatásának vagy átadásának a végrehajtását a külföldön folyamatban lévő büntetőeljárás lefolytatására vagy a külföldön kiszabott szabadságvesztés, illetve szabadságelvonással járó intézkedés végrehajtására tekintettel elhalasztotta.
 
 (2) A bíróság egy évre felfüggesztheti az eljárást, ha
 
@@ -24,4 +28,4 @@ b) a büntethetőség megszűnését eredményező magatartás várható.
 
 a) az ügyészség feltételes ügyészi felfüggesztést alkalmazott, vagy
 
-b) a 416. § (3) bekezdésében meghatározott ok áll fenn.
+b) a 417. § (2) bekezdésében meghatározott ok áll fenn.
