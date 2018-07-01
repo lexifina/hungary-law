@@ -2,7 +2,7 @@
 
 a) a tartózkodási jog gyakorlásának feltételeit már nem teljesíti,
 
-b) a tartózkodási jogot igazoló okmány megszerzése érdekében olyan hamis adatot, valótlan tényt közölt, amelyre vonatkozóan a büntetőjogi felelősségét jogerős bírósági ítélet megállapította, vagy
+b) a tartózkodási jogot igazoló okmány megszerzése érdekében olyan hamis adatot, valótlan tényt közölt, amelyre vonatkozóan a büntetőjogi felelősségét a bíróság jogerős ügydöntő határozata megállapította, vagy
 
 c) beutazási és tartózkodási tilalom elrendelése esetén.
 

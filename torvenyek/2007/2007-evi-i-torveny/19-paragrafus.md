@@ -8,7 +8,7 @@ b) beutazási és tartózkodási tilalom elrendelése esetén;
 
 c) ha a családi kapcsolat létesítése a tartózkodási jog megszerzése érdekében történt, vagy
 
-d) ha az állandó tartózkodási jogot igazoló okmány megszerzése érdekében olyan hamis adatot, valótlan tényt közölt, amelyre vonatkozóan a büntetőjogi felelősségét jogerős bírósági ítélet megállapította.
+d) ha az állandó tartózkodási jogot igazoló okmány megszerzése érdekében olyan hamis adatot, valótlan tényt közölt, amelyre vonatkozóan a büntetőjogi felelősségét a bíróság jogerős ügydöntő határozata megállapította.
 
 (2) Az (1) és az (1a) bekezdésben foglalt esetekben az állandó tartózkodási jog megszűnését az eljáró idegenrendészeti hatóság határozattal állapítja meg.
 
