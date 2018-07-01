@@ -1,3 +1,3 @@
-## 28–30. §[^9]
+## 30. § A Tszr. 4. §-a a következő (1b) bekezdéssel egészül ki:
 
-[^9]: A 28–30. § az 57. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+## „(1b) A minősített kötelező és a minősített munkakörhöz kötött továbbképzési programok meghirdetését és közzétételét a szociál- és nyugdíjpolitikáért felelős miniszter hagyja jóvá.”

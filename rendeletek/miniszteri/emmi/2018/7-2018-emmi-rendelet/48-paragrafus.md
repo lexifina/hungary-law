@@ -1,3 +1,1 @@
-## 47. §[^21]
-
-[^21]: A 47. § az 57. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+## 47. § A Vr. 4. § (1) bekezdésében a „történő megküldésével” szövegrész helyébe az „elektronikusan történő benyújtásával” szöveg lép.

@@ -1,3 +1,3 @@
-## 34. §[^11]
+## 34. § A Tszr. 4/A. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-[^11]: A 34. § az 57. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+## „(4) A továbbképzés szervezőjének legalább egy alkalommal, legkésőbb a továbbképzés végén – elektronikus kérdőív formájában – lehetőséget kell biztosítania a minősített továbbképzés résztvevői számára a továbbképzés értékelésére a résztvevők azonosítására alkalmatlan módon. A résztvevők által kitöltött kérdőívet a továbbképzés szervezője elektronikusan nyilvántartja.”
