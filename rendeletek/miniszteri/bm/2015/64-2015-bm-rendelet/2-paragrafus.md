@@ -1,3 +1,0 @@
-2. § (1) Ha a feljelentést a sértett teszi, a rendőrség a feljelentés megtételekor az 1. melléklet szerinti adatlap segítségével megvizsgálja (a továbbiakban: egyéni értékelés), hogy a sértett a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 62/C. § szerinti különleges bánásmódot igénylő sértett-e. Az egyéni értékelés szükség szerint megismételhető.
-
-(2) Ha az egyéni értékelésre az eljárás megindulásakor nem kerül sor, azt a rendőrség legkésőbb akkor megteszi, amikor a sértettet első alkalommal tanúként kihallgatja. Nem szükséges annak a sértettnek az egyéni értékelése, aki a büntetőeljárásban nem vesz részt.
