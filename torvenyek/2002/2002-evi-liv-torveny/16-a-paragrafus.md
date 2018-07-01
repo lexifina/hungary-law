@@ -4,7 +4,7 @@
 
 (2) Az 1. melléklet szerinti formanyomtatványban foglaltaknak megfelelően a magyar bűnüldöző szerv az információcsere iránti megkeresés teljesítése végett az Európai Unió tagállamának bűnüldöző szerve számára tizennégy napos határidőt határoz meg.
 
-(3) Az 1. melléklet szerinti formanyomtatványban foglaltaknak megfelelően, ha az információcsere iránti megkeresés az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény (a továbbiakban: 2003. évi CXXX. törvény) 1. számú mellékletében meghatározott bűncselekmények valamelyikére vonatkozik, a magyar bűnüldöző szerv az információcsere iránti megkeresés teljesítése végett
+(3) Az 1. melléklet szerinti formanyomtatványban foglaltaknak megfelelően, ha az információcsere iránti megkeresés az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény (a továbbiakban: EUtv.) 1. számú mellékletében meghatározott bűncselekmények valamelyikére vonatkozik, a magyar bűnüldöző szerv az információcsere iránti megkeresés teljesítése végett
 
 a) hét napos,
 

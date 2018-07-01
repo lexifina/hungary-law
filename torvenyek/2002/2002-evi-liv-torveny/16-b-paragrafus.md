@@ -2,7 +2,7 @@
 
 (2) Az információcsere iránti megkeresést a megkeresésnek a magyar bűnüldöző szervhez érkezésétől számított tizennégy napon belül kell teljesíteni.
 
-(3) Ha az információcsere iránti megkeresés a 2003. évi CXXX. törvény 1. számú mellékletében meghatározott bűncselekményfajták valamelyikére vonatkozik, és a kért információ a magyar bűnüldöző szerv számára közvetlenül hozzáférhető nyilvántartásban megtalálható, a megkeresést – a magyar bűnüldöző szervhez érkezésétől számítva – hét napon belül teljesíteni kell.
+(3) Ha az információcsere iránti megkeresés az EUtv. 1. számú mellékletében meghatározott bűncselekményfajták valamelyikére vonatkozik, és a kért információ a magyar bűnüldöző szerv számára közvetlenül hozzáférhető nyilvántartásban megtalálható, a megkeresést – a magyar bűnüldöző szervhez érkezésétől számítva – hét napon belül teljesíteni kell.
 
 (4) A (3) bekezdés szerinti feltételek fennállása esetén, ha a megkeresés sürgős, azt a magyar bűnüldöző szervhez érkezéstől számított nyolc órán belül teljesíteni kell.
 
@@ -16,7 +16,7 @@ a) a teljesítés
 
 aa) Magyarország alapvető nemzetbiztonsági érdekét sérti, vagy
 
-ab) folyamatban lévő nyomozást vagy bűnüldözési, bűnmegelőzési feladatok ellátását, illetve a természetes személyek biztonságát veszélyezteti, vagy
+ab) folyamatban lévő büntetőeljárást vagy bűnüldözési, bűnmegelőzési feladatok ellátását, illetve a természetes személyek biztonságát veszélyezteti, vagy
 
 b) a kért információ
 

@@ -4,7 +4,7 @@ a) a különleges szakértelemmel rendelkező személy felkutatására,
 
 b) a bűnügyi nyilvántartási rendszerben, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásában szereplő adatok szolgáltatására,
 
-c) az Rtv. 68. §-ának (1) bekezdésében meghatározott adatok szolgáltatására,
+c) az Rtv. 69. § (1) bekezdésében meghatározott adatok szolgáltatására,
 
 d) gépjármű esetében az egyedi azonosító adatok szolgáltatására (rendszám, alvázszám, motorszám),
 
@@ -18,7 +18,7 @@ h) lőfegyvertartási-engedély meglétének, érvényességének, illetőleg ko
 
 i) a személyazonosság, tartózkodási hely és lakcím megállapítására, illetőleg igazolására,
 
-j) távközlési eszköz tulajdonosának, előfizetőjének, illetőleg használójának megállapítására,
+j) az elektronikus hírközlési eszköz tulajdonosának, előfizetőjének, illetőleg használójának megállapítására,
 
 k) tárgyak, minták utáni tudakozódásra
 

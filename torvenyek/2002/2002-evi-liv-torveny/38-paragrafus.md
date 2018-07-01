@@ -6,16 +6,16 @@ b) annak megerősítését, hogy a titkos információgyűjtést a megkereső á
 
 c) a titkos információgyűjtés célszemélyének és tárgyának azonosítására szolgáló adatokat,
 
-d) a bűnügyi felderítés alapjául szolgáló bűncselekmény megnevezését,
+d) a titkos információgyűjtés folytatása törvényi feltételeinek fennállását megalapozó részletes indokolást és
 
 e) a titkos információgyűjtés végrehajtásához elengedhetetlenül szükséges technikai és adminisztrációs adatokat.
 
-(2) A titkos lehallgatásra irányuló megkeresésnek – az (1) bekezdésben foglaltakon kívül – tartalmaznia kell
+(2) Az Rtv. 71. § d) és e) pontjában, illetve a NAV tv. 60. § d) és e) pontjában meghatározott bírói engedélyhez kötött eszköz alkalmazására irányuló megkeresésnek – az (1) bekezdésben foglaltakon kívül – tartalmaznia kell
 
-a) a titkos lehallgatással érintett távközlési eszköz vagy módszer megnevezését,
+a) az alkalmazni kívánt eszköz vagy módszer megnevezését,
 
-b) a továbbítandó adatok körét,
+b) a továbbítandó adatok körét és
 
-c) a titkos lehallgatás időtartamát.
+c) az alkalmazás időtartamát.
 
-(3) Ha a titkos lehallgatás célszemélye nem Magyarország területén tartózkodik, de lehallgatásához, vagy az érintett távközléshez kötődő járulékos és kísérő adatok rögzítéséhez, továbbításához a magyar hatóságok közreműködése szükséges, a megkeresésnek – az (1)–(2) bekezdésben foglaltak mellett – tartalmaznia kell a tényállás rövid ismertetését is.
+(3)

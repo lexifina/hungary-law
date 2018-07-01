@@ -4,7 +4,7 @@
 
 a) azzal gyanúsítható, hogy a külföldi állam területén a 29. §-ban meghatározott bűncselekményt követett el vagy kísérelt meg, és e cselekménye közben tetten érték,
 
-b) őrizetből, előzetes letartóztatásból vagy szabadságvesztés büntetés végrehajtása elől megszökött,
+b) őrizetből, letartóztatásból vagy szabadságvesztés büntetés végrehajtása elől megszökött,
 
 és a magyar bűnüldöző szerv értesítésével járó késedelem az elkövető elfogását jelentősen megnehezítené, illetve a külföldi állam bűnüldözési érdekeit súlyosan veszélyeztetné, és valószínűsíthető, hogy a magyar bűnüldöző szerv az üldözést megfelelő időben nem tudja átvenni.
 

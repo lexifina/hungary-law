@@ -1,6 +1,6 @@
 ## Jogharmonizációs záradék
 
-52. § (1) E törvény – az a)–d) pont tekintetében a 2003. évi CXXX. törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
+52. § (1) E törvény – az a)–d) pont tekintetében az EUtv.-nyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 2002/465/IB kerethatározata (2002. június 13.) a közös nyomozócsoportokról;
 
