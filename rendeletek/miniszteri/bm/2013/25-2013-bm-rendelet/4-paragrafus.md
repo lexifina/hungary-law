@@ -2,15 +2,15 @@
 
 4. § (1) A nyomozó hatóság a hatáskörét és az illetékességét hivatalból vizsgálja.
 
-(2) Ha a nyomozó hatóság a hatáskörének vagy illetékességének a hiányát észleli, az ügyet – az eljárásban résztvevők értesítése mellett – átteszi a hatáskörrel és illetékességgel rendelkező nyomozó hatósághoz vagy ügyészhez. Az áttételt követő, a Rendőrség nyomozó hatóságai között felmerülő hatásköri vagy illetékességi összeütközés esetén a (3)–(5) bekezdésben foglaltak szerint kell eljárni.
+(2)[^6] Ha a nyomozó hatóság a hatáskörének vagy illetékességének a hiányát észleli, az ügyet – az eljárásban résztvevők értesítése mellett – átteszi a hatáskörrel és illetékességgel rendelkező nyomozó hatósághoz vagy ügyészséghez. Az áttételt követő, a Rendőrség nyomozó hatóságai között felmerülő hatásköri vagy illetékességi összeütközés esetén a (3)–(5) bekezdésben foglaltak szerint kell eljárni.
 
 (3) Az ORFK dönt
 
-a)[^4] a rendőr-főkapitányság és az RRI vagy a KR;
+a)[^7] a rendőr-főkapitányság és az RRI vagy a KR;
 
-b)[^5] a rendőrkapitányság és az RRI vagy a KR; továbbá
+b)[^8] a rendőrkapitányság és az RRI vagy a KR; továbbá
 
-c)[^6] a vízirendészeti rendőrkapitányság és a KR
+c)[^9] a vízirendészeti rendőrkapitányság és a KR
 
 közötti hatásköri összeütközés esetén az eljáró nyomozó hatóság kijelöléséről.
 
@@ -36,6 +36,7 @@ c) a rendőr-főkapitányság illetékességi területén lévő rendőrkapitán
 
 összeütközés esetén az eljáró nyomozó hatóság kijelöléséről.
 
-[^4]: A 4. § (3) bekezdés a) pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 3. pontja szerint módosított szöveg.
-[^5]: A 4. § (3) bekezdés b) pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 3. pontja szerint módosított szöveg.
-[^6]: A 4. § (3) bekezdés c) pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^6]: A 4. § (2) bekezdése a 21/2018. (VI. 29.) BM rendelet 12. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § (3) bekezdés a) pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^8]: A 4. § (3) bekezdés b) pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^9]: A 4. § (3) bekezdés c) pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 3. pontja szerint módosított szöveg.

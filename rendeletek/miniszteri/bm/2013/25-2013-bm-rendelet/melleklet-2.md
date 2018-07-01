@@ -66,23 +66,19 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 10.1. Btk. 282. § (1) és (2) bekezdés, valamint (3) bekezdés a) és b) pont – Bűnpártolás vétsége és bűntette, ha azt az e mellékletben felsorolt bűncselekményekkel összefüggésben követték el
 
-11. Btk. XXVII. fejezet – a korrupciós bűncselekmények
+10.2.[^44] Btk. 289. § – Nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény
 
-11.1. Btk. 290. § (2) bekezdés – Vesztegetés bűntette, ha az elkövető az (1) bekezdésben meghatározott bűncselekményt gazdálkodó szervezet részére vagy érdekében tevékenységet végző, önálló intézkedésre jogosult személlyel kapcsolatban követi el, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője, vagy annak tagja
+11.[^45] Btk. XXVII. fejezet – a korrupciós bűncselekmények
 
-11.2. Btk. 290. § (3) bekezdés – Vesztegetés bűntette, ha az elkövető az (1), vagy (2) bekezdésben foglalt bűncselekményt bűnszövetségben vagy üzletszerűen követi el, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője vagy annak tagja
+11.1. Btk. 290. § (2) bekezdés – Vesztegetés bűntette, ha az elkövető az (1) bekezdésben meghatározott bűncselekményt gazdálkodó szervezet részére vagy érdekében tevékenységet végző, önálló intézkedésre jogosult személlyel kapcsolatban követi el, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője vagy annak tagja
+
+11.2. Btk. 290. § (3) bekezdés – Vesztegetés bűntette, ha az elkövető az (1) vagy (2) bekezdésben foglalt bűncselekményt bűnszövetségben vagy üzletszerűen követi el, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője vagy annak tagja
 
 11.3. Btk. 290. § (4) bekezdés – Vesztegetés bűntette, ha az elkövető az (1)–(3) bekezdés szerint büntetendő cselekményeket külföldi gazdálkodó részére vagy érdekében tevékenységet végző személlyel kapcsolatban követi el, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője vagy annak tagja
 
-11.4. Btk. 291. § (1)–(4) bekezdés – Vesztegetés elfogadásának bűntette, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője, vagy annak tagja
+11.4. Btk. 291. § (1)–(4) bekezdés – Vesztegetés elfogadásának bűntette, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője vagy annak tagja
 
-11.5. Btk. 293. § (1)–(3) bekezdés – Hivatali vesztegetés bűntette, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője, vagy annak tagja
-
-11.6. Btk. 294. § (1)–(4) bekezdés – Hivatali vesztegetés elfogadásának bűntette, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője, vagy annak tagja
-
-11.7. Btk. 295. § (1)–(2) bekezdés – Vesztegetés bírósági vagy hatósági eljárásban bűntette, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője, vagy annak tagja
-
-11.8. Btk. 296. § (1)–(2) bekezdés – Vesztegetés elfogadása bírósági vagy hatósági eljárásban bűntette, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője, vagy annak tagja
+11.5. Btk. 296. § (1)–(2) bekezdés – Vesztegetés elfogadása bírósági vagy hatósági eljárásban bűntette, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője vagy annak tagja
 
 12. Btk. XXVIII. fejezet – a hivatali bűncselekmények
 
@@ -158,9 +154,9 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 20.1. Btk. 389. § (2) bekezdés a) pont – Különösen nagy vagy azt meghaladó értékű pénzre elkövetett pénzhamisítás bűntette
 
-20.2.[^36] Btk. 389. § (3) bekezdés – Pénzhamisítás előkészülete, ha az a KR kizárólagos hatáskörébe tartozó bűncselekmény elkövetésére irányul
+20.2.[^46] Btk. 389. § (3) bekezdés – Pénzhamisítás előkészülete, ha az a KR kizárólagos hatáskörébe tartozó bűncselekmény elkövetésére irányul
 
-20.3.[^37] Btk. 390. § (1) bekezdés – Pénzhamisítás elősegítésének vétsége, ha az a KR kizárólagos hatáskörébe tartozó bűncselekménnyel összefüggésben valósul meg
+20.3.[^47] Btk. 390. § (1) bekezdés – Pénzhamisítás elősegítésének vétsége, ha az a KR kizárólagos hatáskörébe tartozó bűncselekménnyel összefüggésben valósul meg
 
 20.4. Btk. 391. § (3) bekezdés a) pont – Különösen nagy vagy azt meghaladó értékű bélyegre elkövetett bélyeghamisítás bűntette
 
@@ -178,5 +174,7 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 22.3. Btk. 424. § – Közérdekű üzem ellen elkövetett információs rendszer védelmét biztosító technikai intézkedés kijátszásának vétsége, kivéve az RRI hatáskörébe tartozó eseteket
 
-[^36]: A 2. melléklet 20. pont 20.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.
-[^37]: A 2. melléklet 20. pont 20.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.
+[^44]: A 2. melléklet 10.2. pontját a 21/2018. (VI. 29.) BM rendelet 14. §-a iktatta be.
+[^45]: A 2. melléklet 11. pontja a 21/2018. (VI. 29.) BM rendelet 14. §-ával megállapított szöveg.
+[^46]: A 2. melléklet 20. pont 20.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.
+[^47]: A 2. melléklet 20. pont 20.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.

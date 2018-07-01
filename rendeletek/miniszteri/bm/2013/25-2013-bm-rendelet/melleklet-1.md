@@ -1,10 +1,12 @@
+## 14. §[^16] Az egyes belügyi tárgyú miniszteri rendeletek büntetőeljárásról szóló 2017. évi XC. törvénnyel összefüggő módosításáról szóló 21/2018. (VI. 29.) BM rendelettel módosított 1–3. mellékletet a büntetőeljárásról szóló 2017. évi XC. törvény hatálybalépését[^17] követően indult büntetőeljárásokban kell alkalmazni.
+
 1. melléklet a 25/2013. (VI. 24. ) BM rendelethez
 
 ## A megyei (fővárosi) rendőr-főkapitányságok hatáskörébe tartozó bűncselekmények
 
 1. Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XV. Fejezet – az élet, a testi épség és az egészség elleni bűncselekmények
 
-1.1.[^11] Btk. 160. § (1)–(5) bekezdés – Emberölés bűntette és vétsége, kivéve a KR hatáskörébe tartozó eseteket
+1.1.[^18] Btk. 160. § (1)–(5) bekezdés – Emberölés bűntette és vétsége, kivéve a KR hatáskörébe tartozó eseteket
 
 1.2. Btk. 161. § – Erős felindulásban elkövetett emberölés bűntette
 
@@ -40,7 +42,7 @@
 
 3. Btk. XVII. Fejezet – az egészséget veszélyeztető bűncselekmények
 
-3.1.[^12] Btk. 176. § (2)–(4) bekezdés – Bűnszövetségben, hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva, vagy a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal létesítményében elkövetett kábítószer-kereskedelem bűntette, jelentős mennyiségű kábítószerre elkövetett kábítószer-kereskedelem bűntette, illetve e bűncselekmények elkövetéséhez anyagi eszközök szolgáltatásával megvalósított kábítószer-kereskedelem bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+3.1.[^19] Btk. 176. § (2)–(4) bekezdés – Bűnszövetségben, hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva, vagy a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal létesítményében elkövetett kábítószer-kereskedelem bűntette, jelentős mennyiségű kábítószerre elkövetett kábítószer-kereskedelem bűntette, illetve e bűncselekmények elkövetéséhez anyagi eszközök szolgáltatásával megvalósított kábítószer-kereskedelem bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
 
 3.2. Btk. 177. § (1) bekezdés b) pont, valamint (2)–(3) bekezdés – Tizennyolcadik életévet betöltött személy által tizennyolcadik életévét be nem töltött személy felhasználásával elkövetett kábítószer forgalomba hozatala vagy azzal való kereskedés, jelentős mennyiségű kábítószerre elkövetett, bűnszövetségben elkövetett, hivatalos vagy közfeladatot ellátó személyként e minőséget felhasználva elkövetett kábítószer-kereskedelem bűntette; illetve e bűncselekmények elkövetéséhez anyagi eszközök szolgáltatatásával megvalósított kábítószer-kereskedelem bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
@@ -72,11 +74,11 @@
 
 4. Btk. XVIII. Fejezet – az emberi szabadság elleni bűncselekmények
 
-4.1.[^13] Btk. 190. § – Emberrablás bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+4.1.[^20] Btk. 190. § – Emberrablás bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
 
-4.2.[^14] Btk. 191. § – Emberrablás feljelentésének elmulasztása bűntett, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+4.2.[^21] Btk. 191. § – Emberrablás feljelentésének elmulasztása bűntett, kivéve a KR és az RRI hatáskörébe tartozó eseteket
 
-4.3.[^15] Btk. 192. § – Emberkereskedelem bűntette és vétsége, kivéve a KR vagy az RRI hatáskörébe tartozó eseteket
+4.3.[^22] Btk. 192. § – Emberkereskedelem bűntette és vétsége, kivéve a KR vagy az RRI hatáskörébe tartozó eseteket
 
 4.4. Btk. 193. § (2) bekezdés – A sértett sanyargatásával, jelentős érdeksérelmet okozva, illetve tizennyolcadik életévét be nem töltött személy sérelmére elkövetett kényszermunka bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
@@ -88,9 +90,9 @@
 
 5.2. Btk. 197. § (2)–(5) bekezdés – Szexuális erőszak bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
-5.3.[^16] Btk. 200. § (3)–(5) bekezdés – Kerítés bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+5.3.[^23] Btk. 200. § (3)–(5) bekezdés – Kerítés bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
 
-5.4.[^17] Btk. 200. § (6) bekezdés – Üzletszerű kerítés elkövetésében megállapodás bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+5.4.[^24] Btk. 200. § (6) bekezdés – Üzletszerű kerítés elkövetésében megállapodás bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
 
 5.5. Btk. 201. § (2)–(3) bekezdés – Prostitúció elősegítése bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
@@ -136,13 +138,43 @@
 
 Az e fejezetben felsorolt valamennyi bűncselekmény.
 
-9. Btk. XXVI. Fejezet – az igazságszolgáltatás elleni bűncselekmények
+9.[^25] Btk. XXVI. Fejezet – Az igazságszolgáltatás elleni bűncselekmények
 
-9.1. Btk. 284. § (1)–(5) – Fogolyzendülés bűntette
+9.1. Btk. 268–270. § – Hamis vád
 
-10.[^18] Btk. XXVII. Fejezet – a korrupciós bűncselekmények
+9.2. Btk. 271. § – Hatóság félrevezetése
 
-Az e fejezetben felsorolt valamennyi bűncselekmény, kivéve a KR és az RRI hatáskörébe tartozó eseteket.
+9.3. Btk. 272–275. § – Hamis tanúzás
+
+9.4. Btk. 276. § – Hamis tanúzásra felhívás
+
+9.5. Btk. 277. § – Tanúvallomás jogosulatlan megtagadása
+
+9.6. Btk. 278. § – Kényszerítés hatósági eljárásban
+
+9.7. Btk. 279. § – Hatósági eljárás megzavarása
+
+9.8. Btk. 281. § – Mentő körülmény elhallgatása
+
+9.9. Btk. 282. § (3) bekezdés d) pont – Hivatalos, külföldi hivatalos személy által hivatali eljárása során, hivatali kötelessége megszegésével vagy közfeladatot ellátó személy eljárása során elkövetett bűnpártolás
+
+9.10. Btk. 284. § (1)–(5) bekezdés – Fogolyzendülés bűntette
+
+9.11. Btk. 285. § – Ügyvédi visszaélés
+
+9.12. Btk. 286. § – Zugírászat
+
+10.[^26] Btk. XXVII. Fejezet – A korrupciós bűncselekmények
+
+10.1. Btk. 290. § – Vesztegetés, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+
+10.2. Btk. 291. § – Vesztegetés elfogadása, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+
+10.3. Btk. 296. § – Vesztegetés elfogadása bírósági vagy hatósági eljárásban, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+
+10.4. Btk. 298. § – Befolyás vásárlása, ha azt nem hivatalos személy vagy külföldi hivatalos személy vonatkozásában követik el, kivéve az RRI hatáskörébe tartozó eseteket
+
+10.5. Btk. 299. § – Befolyással üzérkedés, ha azt nem hivatalos személy vagy külföldi hivatalos személy vonatkozásában követik el, kivéve az RRI hatáskörébe tartozó eseteket
 
 11. Btk. XXVIII. Fejezet – a hivatali bűncselekmények
 
@@ -164,7 +196,7 @@ Az e fejezetben felsorolt valamennyi bűncselekmény, kivéve a KR és az RRI ha
 
 12.1. Btk. 316. § – Terrorcselekménnyel fenyegetés bűntette, kivéve az RRI hatáskörébe tartozó esetet
 
-12.2.[^19] Btk. 321. § – Bűnszervezetben részvétel bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+12.2.[^27] Btk. 321. § – Bűnszervezetben részvétel bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
 
 12.3. Btk. 322. § (2) bekezdés b) pont, valamint (3) bekezdés – Különösen nagy vagy ezt meghaladó kárt okozó, illetve halált okozó közveszély okozása bűntette, kivéve az RRI hatáskörébe tartozó esetet
 
@@ -172,9 +204,9 @@ Az e fejezetben felsorolt valamennyi bűncselekmény, kivéve a KR és az RRI ha
 
 12.5. Btk. 323. § (1)–(5) bekezdés – Közérdekű üzem működése megzavarásának vétsége és bűntette, kivéve az RRI hatáskörébe tartozó esetet
 
-12.6.[^20] Btk. 324. § – Robbanóanyaggal vagy robbantószerrel visszaélés bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+12.6.[^28] Btk. 324. § – Robbanóanyaggal vagy robbantószerrel visszaélés bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
 
-12.7.[^21] Btk. 325. § (1) bekezdés c) pont, valamint (2) bekezdés c) pont és (3) bekezdés – Lőfegyverrel vagy lőszerrel visszaélés bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+12.7.[^29] Btk. 325. § (1) bekezdés c) pont, valamint (2) bekezdés c) pont és (3) bekezdés – Lőfegyverrel vagy lőszerrel visszaélés bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
 
 13. Btk. XXXII. Fejezet – a köznyugalom elleni bűncselekmények
 
@@ -192,7 +224,7 @@ Az e fejezetben felsorolt valamennyi bűncselekmény, kivéve a KR és az RRI ha
 
 15.1. Btk. 350. § – A választás, a népszavazás, a népi kezdeményezés és az európai polgári kezdeményezés rendje elleni bűntett
 
-15.2.[^22] Btk. 353. § (1)–(3) bekezdés – Embercsempészés bűntette, kivéve a KR és az RRI hatáskörébe tartozó esetet
+15.2.[^30] Btk. 353. § (1)–(3) bekezdés – Embercsempészés bűntette, kivéve a KR és az RRI hatáskörébe tartozó esetet
 
 15.3. Btk. 353. § (4) bekezdés – Embercsempészés előkészületének vétsége, ha az az e mellékletben meghatározott embercsempészés bűntettének elkövetésére irányul
 
@@ -206,9 +238,9 @@ Az e fejezetben felsorolt valamennyi bűncselekmény, kivéve a KR és az RRI ha
 
 16.3. Btk. 365. § (4) bekezdés a) pont – Különösen nagy vagy ezt meghaladó értékre elkövetett rablás bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
-16.4.[^23] Btk. 365. § (4) bekezdés b) pont – Jelentős értékre fegyveresen, felfegyverkezve, csoportosan vagy bűnszövetségben elkövetett rablás bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+16.4.[^31] Btk. 365. § (4) bekezdés b) pont – Jelentős értékre fegyveresen, felfegyverkezve, csoportosan vagy bűnszövetségben elkövetett rablás bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
 
-16.5.[^24] Btk. 365. § (4) bekezdés c) pont – Hivatalos személy, külföldi hivatalos személy vagy közfeladatot ellátó személy sérelmére, hivatalos eljárása, illetve feladata teljesítése során fegyveresen, felfegyverkezve, csoportosan vagy bűnszövetségben elkövetett rablás bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+16.5.[^32] Btk. 365. § (4) bekezdés c) pont – Hivatalos személy, külföldi hivatalos személy vagy közfeladatot ellátó személy sérelmére, hivatalos eljárása, illetve feladata teljesítése során fegyveresen, felfegyverkezve, csoportosan vagy bűnszövetségben elkövetett rablás bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
 
 16.6. Btk. 366. § (3) bekezdés a) pont – Különösen nagy vagy ezt meghaladó értékre elkövetett kifosztás bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
@@ -218,21 +250,21 @@ Az e fejezetben felsorolt valamennyi bűncselekmény, kivéve a KR és az RRI ha
 
 17. Btk. XXXVI. Fejezet – a vagyon elleni bűncselekmények
 
-17.1.[^25] Btk. 370. § (5) bekezdés a) pont – Különösen nagy értékre elkövetett lopás bűntette, kivéve a KR vagy az RRI hatáskörébe tartozó eseteket
+17.1.[^33] Btk. 370. § (5) bekezdés a) pont – Különösen nagy értékre elkövetett lopás bűntette, kivéve a KR vagy az RRI hatáskörébe tartozó eseteket
 
 17.2. Btk. 370. § (5) bekezdés b) pontja szerinti – Jelentős értékre bűnszövetségben elkövetett lopás bűntette, kivéve a vízirendészeti rendőrkapitányság hatáskörébe tartozó eseteket
 
-17.3.[^26] Btk. 370. § (6) bekezdés a) pont – Különösen jelentős értékre elkövetett lopás bűntette, kivéve a KR hatáskörébe tartozó eseteket
+17.3.[^34] Btk. 370. § (6) bekezdés a) pont – Különösen jelentős értékre elkövetett lopás bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
 17.4. Btk. 370. § (6) bekezdés b) pont – Különösen nagy értékre bűnszövetségben, közveszély színhelyén, üzletszerűen, dolog elleni erőszakkal, zsebtolvajlás útján elkövetett lopás bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
-17.5.[^27] Btk. 371. § (5) és (6) bekezdés – Különösen nagy vagy különösen jelentős kárt okozó rongálás bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
+17.5.[^35] Btk. 371. § (5) és (6) bekezdés – Különösen nagy vagy különösen jelentős kárt okozó rongálás bűntette, kivéve a KR és az RRI hatáskörébe tartozó eseteket
 
 17.6. Btk. 372. § (5) bekezdés a) pont – Különösen nagy értékre elkövetett sikkasztás bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
 17.7. Btk. 372. § (5) bekezdés b) pontja szerinti – Jelentős értékre bűnszövetségben elkövetett sikkasztás bűntette, kivéve a vízirendészeti rendőrkapitányság hatáskörébe tartozó eseteket
 
-17.8.[^28] Btk. 372. § (6) bekezdés a) pont – Különösen jelentős értékre elkövetett sikkasztás bűntette, kivéve a KR hatáskörébe tartozó eseteket
+17.8.[^36] Btk. 372. § (6) bekezdés a) pont – Különösen jelentős értékre elkövetett sikkasztás bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
 17.9. Btk. 372. § (6) bekezdés b) pont – Különösen nagy értékre bűnszövetségben, közveszély színhelyén vagy üzletszerűen elkövetett sikkasztás bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
@@ -240,7 +272,7 @@ Az e fejezetben felsorolt valamennyi bűncselekmény, kivéve a KR és az RRI ha
 
 17.11. Btk. 373. § (5) bekezdés b) pontja szerinti – Jelentős kárt okozó, bűnszövetségben elkövetett csalás bűntette
 
-17.12.[^29] Btk. 373. § (6) bekezdés a) pont – Különösen jelentős kárt okozó csalás bűntette, kivéve a KR hatáskörébe tartozó esetet
+17.12.[^37] Btk. 373. § (6) bekezdés a) pont – Különösen jelentős kárt okozó csalás bűntette, kivéve a KR hatáskörébe tartozó esetet
 
 17.13. Btk. 373. § (6) bekezdés b) pont – Különösen nagy kárt okozó, bűnszövetségben, közveszély színhelyén, üzletszerűen elkövetett csalás bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
@@ -248,7 +280,7 @@ Az e fejezetben felsorolt valamennyi bűncselekmény, kivéve a KR és az RRI ha
 
 17.15. Btk. 374. § (5) bekezdés b) pontja szerinti – Jelentős vagyoni hátrányt okozó, bűnszövetségben elkövetett gazdasági csalás bűntette
 
-17.16.[^30] Btk. 374. § (6) bekezdés a) pont – Különösen jelentős vagyoni hátrányt okozó gazdasági csalás bűntette, kivéve a KR hatáskörébe tartozó eseteket
+17.16.[^38] Btk. 374. § (6) bekezdés a) pont – Különösen jelentős vagyoni hátrányt okozó gazdasági csalás bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
 17.17. Btk. 374. § (6) bekezdés b) pont – Különösen nagy vagyoni hátrányt okozó, bűnszövetségben vagy üzletszerűen elkövetett gazdasági csalás bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
@@ -256,21 +288,21 @@ Az e fejezetben felsorolt valamennyi bűncselekmény, kivéve a KR és az RRI ha
 
 17.19. Btk. 375. § (3) bekezdés b) pontja szerinti – Jelentős kárt okozó, bűnszövetségben, információs rendszer felhasználásával elkövetett csalás bűntette
 
-17.20.[^31] Btk. 375. § (4) bekezdés a) pont – Különösen jelentős kárt okozó, információs rendszer felhasználásával elkövetett csalás bűntette, kivéve a KR hatáskörébe tartozó esetet
+17.20.[^39] Btk. 375. § (4) bekezdés a) pont – Különösen jelentős kárt okozó, információs rendszer felhasználásával elkövetett csalás bűntette, kivéve a KR hatáskörébe tartozó esetet
 
 17.21. Btk. 375. § (4) bekezdés b) pont – Különösen nagy kárt okozó, bűnszövetségben vagy üzletszerűen információs rendszer felhasználásával elkövetett csalás bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
 17.22. Btk. 376. § (5) bekezdés a) pont – Különösen nagy vagyoni hátrányt okozó hűtlen kezelés bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
-17.23.[^32] Btk. 376. § (6) bekezdés a) pont – Különösen jelentős vagyoni hátrányt okozó hűtlen kezelés bűntette, kivéve a KR hatáskörébe tartozó esetet
+17.23.[^40] Btk. 376. § (6) bekezdés a) pont – Különösen jelentős vagyoni hátrányt okozó hűtlen kezelés bűntette, kivéve a KR hatáskörébe tartozó esetet
 
 17.24. Btk. 376. § (6) bekezdés b) pont – Különösen nagy vagyoni hátrányt okozó hűtlen kezelés bűntette, amennyiben azt gyám vagy gondnok e minőségében követi el
 
-17.25.[^33] Btk. 377. § (2) bekezdés – Különösen nagy vagy azt meghaladó vagyoni hátrányt okozó hanyag kezelés vétsége, kivéve a KR vagy az RRI hatáskörébe tartozó esetet
+17.25.[^41] Btk. 377. § (2) bekezdés – Különösen nagy vagy azt meghaladó vagyoni hátrányt okozó hanyag kezelés vétsége, kivéve a KR vagy az RRI hatáskörébe tartozó esetet
 
 17.26. Btk. 379. § (5) bekezdés a) pont – Különösen nagy értékre elkövetett orgazdaság bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
-17.27.[^34] Btk. 379. § (6) bekezdés a) pont – Különösen jelentős értékre elkövetett orgazdaság bűntette, kivéve a KR hatáskörébe tartozó esetet
+17.27.[^42] Btk. 379. § (6) bekezdés a) pont – Különösen jelentős értékre elkövetett orgazdaság bűntette, kivéve a KR hatáskörébe tartozó esetet
 
 17.28. Btk. 379. § (6) bekezdés b) pont – Különösen nagy értékre, üzletszerűen elkövetett orgazdaság bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
@@ -278,7 +310,7 @@ Az e fejezetben felsorolt valamennyi bűncselekmény, kivéve a KR és az RRI ha
 
 18.1. Btk. 389. § (2) bekezdés b) pont – Bűnszövetségben elkövetett pénzhamisítás bűntette, kivéve az RRI hatáskörébe tartozó eseteket
 
-18.2.[^35] Btk. 389. § (3) bekezdés – Pénzhamisítás előkészülete, ha az bűnszövetségben elkövetett pénzhamisítás bűntettével összefüggésben valósul meg, kivéve a KR és az RRI hatáskörébe tartozó esetet
+18.2.[^43] Btk. 389. § (3) bekezdés – Pénzhamisítás előkészülete, ha az bűnszövetségben elkövetett pénzhamisítás bűntettével összefüggésben valósul meg, kivéve a KR és az RRI hatáskörébe tartozó esetet
 
 18.3. Btk. 390. § (2) bekezdés – Bűnszövetségben vagy üzletszerűen elkövetett pénzhamisítás elősegítésének bűntette
 
@@ -316,28 +348,31 @@ Az e fejezetben felsorolt valamennyi bűncselekmény, kivéve a KR és az RRI ha
 
 21.3. Btk. 420. § – Versenyt korlátozó megállapodás közbeszerzési és koncessziós eljárásban bűntette és vétsége
 
-[^11]: Az 1. melléklet 1. pont 1.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 5. pontja szerint módosított szöveg.
-[^12]: Az 1. melléklet 3. pont 3.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 6. pontja szerint módosított szöveg.
-[^13]: Az 1. melléklet 4. pont 4.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 7. pontja szerint módosított szöveg.
-[^14]: Az 1. melléklet 4. pont 4.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 7. pontja szerint módosított szöveg.
-[^15]: Az 1. melléklet 4. pont 4.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 7. pontja szerint módosított szöveg.
-[^16]: Az 1. melléklet 5. pont 5.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 8. pontja szerint módosított szöveg.
-[^17]: Az 1. melléklet 5. pont 5.4. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 8. pontja szerint módosított szöveg.
-[^18]: Az 1. melléklet 10. pontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 9. pontja szerint módosított szöveg.
-[^19]: Az 1. melléklet 12. pont 12.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 10. pontja szerint módosított szöveg.
-[^20]: Az 1. melléklet 12. pont 12.6. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 10. pontja szerint módosított szöveg.
-[^21]: Az 1. melléklet 12. pont 12.7. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 10. pontja szerint módosított szöveg.
-[^22]: Az 1. melléklet 15. pont 15.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 11. pontja szerint módosított szöveg.
-[^23]: Az 1. melléklet 16. pont 16.4. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 12. pontja szerint módosított szöveg.
-[^24]: Az 1. melléklet 16. pont 16.5. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 12. pontja szerint módosított szöveg.
-[^25]: Az 1. melléklet 17. pont 17.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
-[^26]: Az 1. melléklet 17. pont 17.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
-[^27]: Az 1. melléklet 17. pont 17.5. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
-[^28]: Az 1. melléklet 17. pont 17.8. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
-[^29]: Az 1. melléklet 17. pont 17.12. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
-[^30]: Az 1. melléklet 17. pont 17.16. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
-[^31]: Az 1. melléklet 17. pont 17.20. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
-[^32]: Az 1. melléklet 17. pont 17.23. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
-[^33]: Az 1. melléklet 17. pont 17.25. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
-[^34]: Az 1. melléklet 17. pont 17.27. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
-[^35]: Az 1. melléklet 17. pont 18.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 14. pontja szerint módosított szöveg.
+[^16]: A 14. §-t a 21/2018. (VI. 29.) BM rendelet 11. §-a iktatta be.
+[^17]: A hatálybalépés időpontja 2018. július 1.
+[^18]: Az 1. melléklet 1. pont 1.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 5. pontja szerint módosított szöveg.
+[^19]: Az 1. melléklet 3. pont 3.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 6. pontja szerint módosított szöveg.
+[^20]: Az 1. melléklet 4. pont 4.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 7. pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet 4. pont 4.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 7. pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet 4. pont 4.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 7. pontja szerint módosított szöveg.
+[^23]: Az 1. melléklet 5. pont 5.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 8. pontja szerint módosított szöveg.
+[^24]: Az 1. melléklet 5. pont 5.4. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 8. pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet 9. pontja a 21/2018. (VI. 29.) BM rendelet 13. §-ával megállapított szöveg.
+[^26]: Az 1. melléklet 10. pontja a 21/2018. (VI. 29.) BM rendelet 13. §-ával megállapított szöveg.
+[^27]: Az 1. melléklet 12. pont 12.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 10. pontja szerint módosított szöveg.
+[^28]: Az 1. melléklet 12. pont 12.6. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 10. pontja szerint módosított szöveg.
+[^29]: Az 1. melléklet 12. pont 12.7. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 10. pontja szerint módosított szöveg.
+[^30]: Az 1. melléklet 15. pont 15.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 11. pontja szerint módosított szöveg.
+[^31]: Az 1. melléklet 16. pont 16.4. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 12. pontja szerint módosított szöveg.
+[^32]: Az 1. melléklet 16. pont 16.5. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 12. pontja szerint módosított szöveg.
+[^33]: Az 1. melléklet 17. pont 17.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^34]: Az 1. melléklet 17. pont 17.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^35]: Az 1. melléklet 17. pont 17.5. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^36]: Az 1. melléklet 17. pont 17.8. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^37]: Az 1. melléklet 17. pont 17.12. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^38]: Az 1. melléklet 17. pont 17.16. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^39]: Az 1. melléklet 17. pont 17.20. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^40]: Az 1. melléklet 17. pont 17.23. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^41]: Az 1. melléklet 17. pont 17.25. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^42]: Az 1. melléklet 17. pont 17.27. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^43]: Az 1. melléklet 17. pont 18.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 14. pontja szerint módosított szöveg.
