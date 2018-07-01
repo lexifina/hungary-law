@@ -10,4 +10,4 @@ c) vizsgálhatja a gazdasági események valódiságát;
 
 d) adatokat gyűjthet az ellenőrzési tevékenysége támogatása érdekében, így különösen becslési adatbázis létrehozásához, karbantartásához.
 
-(2) Az adóhatóság az állami adó- és vámhatóság nyomozóhatósági hatáskörrel felruházott szerve által feltárt adatok és bizonyítékok alapján bűncselekmény elkövetési értékének megállapítása céljából is vizsgálhatja gazdasági események valódiságát jogkövetési vizsgálat keretében.
+(2) Az adóhatóság az állami adó- és vámhatóság nyomozó hatósági hatáskörrel felruházott szerve által feltárt adatok és bizonyítékok alapján bűncselekmény elkövetési értékének megállapítása céljából is vizsgálhatja gazdasági események valódiságát jogkövetési vizsgálat keretében.

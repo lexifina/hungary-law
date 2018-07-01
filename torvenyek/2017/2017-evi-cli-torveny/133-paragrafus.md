@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni
 
-a) a bíróság jogerős ítéletében megállapított költségvetési csalás, adócsalás, munkáltatással összefüggésben elkövetett adócsalás, illetve az adókötelezettség teljesítésével összefüggésben elkövetett csalás esetén,
+a) a bíróság jogerős ügydöntő határozatában megállapított költségvetési csalás, adócsalás, munkáltatással összefüggésben elkövetett adócsalás, illetve az adókötelezettség teljesítésével összefüggésben elkövetett csalás esetén,
 
 b) a bíróság által elrendelt új eljárás esetén,
 

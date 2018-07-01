@@ -6,9 +6,9 @@
 
 a) – az ideiglenes intézkedést kivéve – az ügy nem tartozik az eljáró adóhatóság hatáskörébe,
 
-b) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ítélet megállapította, vagy ilyen ítélet meghozatalát nem a bizonyítottság hiánya zárja ki,
+b) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ügydöntő határozat megállapította, vagy ilyen határozat meghozatalát nem a bizonyítottság hiánya zárja ki,
 
-c) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy az ügyész a vádemelést elhalasztotta és annak tartama eredményesen telt el,
+c) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy az ügyészség feltételes ügyészi felfüggesztést alkalmazott, és annak tartama eredményesen telt el,
 
 d) a tartalma a közigazgatási bíróság adott ügyben hozott jogerős határozatával ellentétes, vagy
 
