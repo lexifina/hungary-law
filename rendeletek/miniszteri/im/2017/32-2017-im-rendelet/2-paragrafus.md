@@ -1,9 +1,11 @@
-2. § (1) Az ügyvéd költségtérítés címén a készkiadásainak megtérítésére jogosult. A készkiadások magukban foglalják a postai, távbeszélő, utazási, parkolási, szállás-, leírási, másolási és egyéb indokolt és szükséges költségeket is.
+2. §[^2] (1) Az ügyvéd költségtérítés címén
 
-(2) Az ügyvédet útiköltség és szállásköltség illeti meg, ha olyan tárgyaláson vagy más eljárási cselekményen vesz részt, amelyet nem az irodájának székhelyén vagy lakóhelyén tartanak.
+a) az eljárási cselekményeken való megjelenésével kapcsolatos úti- és szállásköltség, illetve parkolási díj, valamint
 
-(3) Útiköltségként azon költség téríthető meg, amely az ügyvéd lakóhelyéről vagy az ügyvédi iroda székhelyéről a tárgyalásra utazással és a visszautazással kapcsolatban merült fel. Az ügyvéd a helyi viszonyoknak megfelelően – célszerűen és indokoltan – igénybe vehető menetrend szerinti tömegközlekedési eszköz viteldíjának megtérítésére jogosult. Vasúti közlekedés esetén a másodosztályú menetjegy, autóbusszal történő utazásnál az autóbusz viteldíjának megtérítésére van lehetőség.
+b) a telefon, telefax, postai, leírási, másolási és egyéb indokolt és szükséges költségek
 
-(4) Ha az ügyvéd saját személygépkocsiján utazik a tárgyalásra, a tanúk költségtérítéséről szóló jogszabály gépjármű igénybevétele esetére irányadó szabályának megfelelő költség megtérítésére jogosult.
+## megtérítésére jogosult.
 
-(5) Az ügyvéd nem kötelezhető arra, hogy a tárgyalás helyére a nap huszonharmadik és ötödik órája között utazzon. Ha az ügyvéd a közlekedési viszonyok miatt a tárgyalást megelőző napon érkezett a tárgyalás helyére, az elszállásoláshoz indokoltan igénybe vehető szálloda vagy más szállás igazolt díjának megtérítésére jogosult. Ezt a rendelkezést kell alkalmazni akkor is, ha az ügyvéd visszautazására a tárgyalás napján már nincs lehetőség.
+(2) Az ügyvéd úti- és szállásköltségének megtérítésére a tanúk költségtérítéséről szóló 14/2008. (VI. 27.) IRM rendelet 2. és 4. §-ában foglalt rendelkezéseket kell megfelelően alkalmazni azzal, hogy útiköltség akkor illeti meg, ha olyan eljárási cselekményen vesz részt, amelyet nem az irodájának, alirodájának vagy fiókirodájának székhelyén tartanak.
+
+[^2]: A 2. § a 18/2018. (VI. 28.) IM rendelet 1. §-ával megállapított szöveg.
