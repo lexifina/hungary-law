@@ -10,9 +10,9 @@ a) a 46. § (1) bekezdés n) vagy o) pontja szerinti rendelkezési állományba 
 
 b) a szolgálati beosztásból történő felfüggesztés,
 
-c) az előzetes letartóztatás, a lakhelyelhagyási tilalom,
+c) az olyan bűnügyi felügyelet időtartamát, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, illetve a letartóztatás
 
-d) az ideiglenes kényszergyógykezelés, valamint
+d) az előzetes kényszergyógykezelés, valamint
 
 e) a katonai fogdán végrehajtani rendelt szabadságvesztés büntetés
 

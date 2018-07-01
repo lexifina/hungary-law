@@ -22,7 +22,7 @@ e) aki próbára bocsátás intézkedés hatálya alatt áll,
 
 f) akinek lefokozására vagy szolgálati viszonyának megszüntetésére fegyelmi fenyítésként vagy méltatlanság megállapítása miatt került sor, a jogerőre emelkedéstől számított 5 évig, vagy
 
-g) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős befejezéséig.
+g) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll.
 
 (3) Az öregségi nyugdíjban, korhatár előtti ellátásban vagy szolgálati járandóságban részesülő személy állományba vételéről a munkáltatói jogkört gyakorló – az öregségi nyugdíjnak, korhatár előtti ellátásnak vagy a szolgálati járandóságnak a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny. tv.) 83/C. § (1) bekezdése, illetve a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény (a továbbiakban: Kenytv.) 11. § (1) bekezdése szerint történő szüneteltetés érdekében, az érintett személy nevének és társadalombiztosítási azonosító jelének megküldésével – haladéktalanul értesíti a nyugdíjfolyósító szervet.
 

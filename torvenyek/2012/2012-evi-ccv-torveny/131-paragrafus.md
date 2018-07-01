@@ -6,9 +6,9 @@ a) a 46. § (1) bekezdés n) vagy o) pontja szerinti rendelkezési állományba 
 
 b) a szolgálati beosztásból történő felfüggesztés,
 
-c) az előzetes letartóztatás, a lakhelyelhagyási tilalom,
+c) az olyan bűnügyi felügyelet időtartama alatt, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, illetve a letartóztatás
 
-d) az ideiglenes kényszergyógykezelés, valamint
+d) az előzetes kényszergyógykezelés, valamint
 
 e) a katonai fogdán végrehajtani rendelt szabadságvesztés büntetés
 
@@ -16,7 +16,7 @@ időtartama alatt.
 
 (2) A munkáltatói jogkört gyakorló az (1) bekezdésben meghatározott esetekben az illetmény 50%-ot meghaladó mértékű, de legfeljebb az öregségi nyugdíj jogszabályban meghatározott mindenkori legkisebb összegét (a továbbiakban: nyugdíjminimum) meghaladó részének visszatartásáról is dönthet, ha
 
-a) az állomány tagjának előzetes letartóztatását, lakhelyelhagyási tilalmát vagy ideiglenes kényszergyógykezelését a bíróság meghosszabbítja,
+a) az állomány tagjának letartóztatását, olyan bűnügyi felügyeletét, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el vagy előzetes kényszergyógykezelését a bíróság meghosszabbítja,
 
 b) az állomány tagjával szemben vádemelésre kerül sor,
 
@@ -30,7 +30,7 @@ a) a szolgálatra méltatlanság megállapítását megalapozó határozat kézb
 
 b) a szolgálati viszony megszüntetését vagy lefokozást kimondó fegyelmi határozat kézbesítésétől vagy
 
-c) a szolgálati viszony megszüntetését, a közügyektől eltiltást vagy a lefokozást kimondó bírósági ítélet kihirdetésétől.
+c) a szolgálati viszony megszüntetését, a közügyektől eltiltást vagy a lefokozást kimondó bírósági ügydöntő határozat kihirdetésétől.
 
 (4) Az (1)–(3) bekezdésben meghatározott időtartamok alatt az állomány tagja nem jogosult a 73. § (1) bekezdése szerinti szerződés-hosszabbítási díjra.
 

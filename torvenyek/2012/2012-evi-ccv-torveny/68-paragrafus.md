@@ -24,7 +24,7 @@ j) a katonai szolgálatra fizikai okból alkalmatlansága esetén,
 
 k) a 147. § (1) bekezdés f) vagy g) pontja szerinti fenyítést kiszabó határozat jogerőre emelkedésével,
 
-l) a 162. § (1) bekezdés a) vagy b) pontja szerinti bírósági ítélet jogerőre emelkedésével, a 162. § (2) bekezdése kivételével,
+l) a 162. § (1) bekezdés a) vagy b) pontja szerinti bírósági ügydöntő határozat jogerőre emelkedésével, a 162. § (2) bekezdése kivételével,
 
 m) a 162. § (1) bekezdés c) pontja szerinti katonai szolgálatra méltatlanság megállapítása esetén,
 

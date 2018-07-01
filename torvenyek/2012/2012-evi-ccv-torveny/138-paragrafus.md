@@ -8,7 +8,7 @@ a) akinek a szolgálati viszonyban töltött ideje meghaladta a 3 évet,
 
 b) akivel szemben nem folyik fegyelmi eljárás,
 
-c) akivel szemben nem folyik – a magánindítvány vagy pótmagánvádló vádindítványa alapján indult eljárás kivételével – büntetőeljárás,
+c) akivel szemben nem folyik – a magánvádas vagy pótmagánvádas eljárás kivételével – büntetőeljárás,
 
 d) akinek nincs folyamatban a hivatásos szolgálati viszonyának megszűnése vagy megszüntetése,
 

@@ -4,9 +4,9 @@ a) a 46. § (1) bekezdés n) vagy o) pontja szerinti rendelkezési állomány,
 
 b) a szolgálati beosztásból való felfüggesztés,
 
-c) az előzetes letartóztatás,
+c) a letartóztatás,
 
-d) az ideiglenes kényszergyógykezelés,
+d) az előzetes kényszergyógykezelés,
 
 e) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 132. § (1) bekezdése szerinti szabadságvesztés, és
 
