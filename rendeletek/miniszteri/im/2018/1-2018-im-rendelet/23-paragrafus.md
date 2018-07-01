@@ -28,8 +28,11 @@ l) előkészíti az országos listás megbízólevelek átadását,
 
 m) gondoskodik a választás eredményének a Magyar Közlönyben történő közzétételéről,
 
-n) a választási iratokat a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy jogerős lezárása után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti, továbbá
+n)[^4] a választási iratokat a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti, továbbá
 
-o) a jegyzőkönyvek első példányát a szavazást követő kilencvenedik nap elteltével, illetve büntetőeljárás esetén az ügy jogerős lezárása után átadja a Magyar Nemzeti Levéltárnak.
+o)[^5] a jegyzőkönyvek első példányát a szavazást követő kilencvenedik nap elteltével, illetve büntetőeljárás esetén az ügy befejezése után átadja a Magyar Nemzeti Levéltárnak.
 
 (2) Az NVI elnöke utasítást ad az adatfeldolgozási feladatok elvégzésének, valamint a számítógépes rendszer működtetésének befejezésére.
+
+[^4]: A 23. § (1) bekezdés n) pontja a 16/2018. (VI. 22.) IM rendelet 17. §-a szerint módosított szöveg.
+[^5]: A 23. § (1) bekezdés o) pontja a 16/2018. (VI. 22.) IM rendelet 17. §-a szerint módosított szöveg.
