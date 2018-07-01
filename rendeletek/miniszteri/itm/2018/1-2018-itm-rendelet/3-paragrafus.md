@@ -1,0 +1,3 @@
+3. § (1) A megőrzésre kötelezett a megőrzési kötelezettség lejártáig folyamatosan köteles biztosítani, hogy az elektronikus dokumentum megőrzése olyan módon történjen, amely védi az elektronikus dokumentumot a törlés, a megsemmisítés, a véletlen megsemmisülés, az utólagos módosítás és sérülés, valamint a jogosulatlan hozzáférés ellen.
+
+(2) A megőrzésre kötelezett köteles biztosítani, hogy az őrzött elektronikus dokumentum értelmezhetősége, olvashatósága – például a dokumentum megjeleníthetőségét lehetővé tevő szoftver- és hardverkörnyezet biztosításával – a megőrzési kötelezettség időtartama alatt megmaradjon.
