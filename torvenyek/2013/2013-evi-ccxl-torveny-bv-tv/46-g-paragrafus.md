@@ -4,4 +4,4 @@
 
 (3) Az igazságügyért felelős miniszter a felterjesztést az elítéltet fogva tartó bv. intézet útján megküldi az elítéltnek is.
 
-(4) A kegyelmi döntésről szóló határozat kézbesítésére a 46. § (6)–(8) bekezdését megfelelően alkalmazni kell.
+(4) A kegyelmi döntésről szóló határozattal kapcsolatosan az ellenjegyzési jog gyakorlására és a kegyelmi döntésről szóló határozat, illetve a kegyelmi eljárás befejezéséről szóló tájékoztatás kézbesítésére a 46. § (4)–(11) bekezdését megfelelően alkalmazni kell.

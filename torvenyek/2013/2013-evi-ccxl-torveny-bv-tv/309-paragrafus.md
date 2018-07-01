@@ -2,7 +2,7 @@
 
 ## A JÓVÁTÉTELI MUNKA VÉGREHAJTÁSA
 
-309. § (1) A jóvátételi munka elvégzését a határozat jogerőre emelkedésének napjától számított egy éven belül kell igazolni az ügyben első fokon eljárt bíróságnál.
+309. § (1) A jóvátételi munka elvégzését az ügydöntő határozat jogerőre emelkedésének napjától számított egy éven belül kell igazolni az ügyben elsőfokon eljárt bíróságnál.
 
 (2) A jóvátételi munkát a bíróság által megállapított munkaórák szerinti tartamban kell elvégezni, az elítélt és a munkavégzés helyét biztosító szervezet vagy intézmény megegyezése szerinti feltételekkel. Az elítélt köteles a jóvátételi munkavégzés helyét biztosító szervezet vagy intézmény munkabiztonságra vonatkozó rendelkezéseit megtartani.
 

@@ -2,7 +2,7 @@
 
 88. § A bv. intézet az elítéltet
 
-a) a jogerős bírósági ítéletről szóló értesítőlap,
+a) a jogerős ügydöntő határozatról szóló értesítőlap,
 
 b) az elővezetésről szóló rendelkezés,
 

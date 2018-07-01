@@ -4,4 +4,4 @@
 
 (2) A bűnügyi költséget az állam viseli.
 
-(3) Az (1)–(2) bekezdésben foglaltak az előzetes letartóztatottak esetén is irányadók.
+(3) Az (1)–(2) bekezdésben foglaltak a letartóztatottak esetén is irányadók.

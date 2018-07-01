@@ -22,7 +22,7 @@ b) egy évesnél fiatalabb gyermekét gondozza.
 
 (6) Az (1)–(3) bekezdésben meghatározott feltételek esetén sincs helye a szabadságvesztés végrehajtása elhalasztásának, ha az súlyosan veszélyeztetné a közbiztonságot vagy a közrendet, illetve ha az elítélt szökésétől vagy elrejtőzésétől kell tartani.
 
-(7) Ha az igazságügyért felelős miniszter a 46. § (2) bekezdése szerint a büntetés végrehajtását elhalasztotta vagy félbeszakította, a bíróság az ezt követően a halasztás iránt benyújtott kérelem tárgyában a döntés meghozatalát mindaddig felfüggeszti, ameddig a 46. § (2) bekezdése szerinti halasztás vagy félbeszakítás tart.
+(7) Ha az igazságügyért felelős miniszter a 45. § (9) bekezdése szerint a büntetés végrehajtását elhalasztotta vagy félbeszakította, a bíróság az ezt követően a halasztás iránt benyújtott kérelem tárgyában a döntés meghozatalát mindaddig felfüggeszti, ameddig a 45. § (9) bekezdése szerinti halasztás vagy félbeszakítás tart.
 
 (8) A katona szabadságvesztése végrehajtásának elhalasztásáról az elítélt munkáltatói jogkört gyakorló parancsnokát (vezetőjét) értesíteni kell.
 

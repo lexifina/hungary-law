@@ -17,3 +17,5 @@ e) a határozathozatal helyét és idejét, a határozatot hozó nevét és beos
 (3) A határozatot az ügyiratra kell feljegyezni vagy jegyzőkönyvbe kell foglalni. Külön íven kell megszövegezni a határozatot, ha azt kézbesítés útján közlik. Ez esetben a határozatot a meghozatalára előírt határidőn belül kell írásba foglalni. Az ügyiratra feljegyzett vagy jegyzőkönyvbe foglalt határozat esetén az (1) bekezdés a) és b) pontjában foglalt adatokat nem kell feltüntetni, ha azok az iratból kitűnnek.
 
 (4) A határozatot azzal kell közölni, aki a kérelmet vagy panaszt benyújtotta, illetve akire nézve az rendelkezést tartalmaz. A határozatot kihirdetés vagy kézbesítés útján kell közölni. A határozat kihirdetését írásban kell igazolni. A határozat közlésének napja az a nap, amelyen azt kihirdették vagy kézbesítették.
+
+(5) Ha a határozattal szemben bírósági felülvizsgálatnak van helye, a határozatot a jogorvoslatra jogosultnak is kézbesíteni kell.

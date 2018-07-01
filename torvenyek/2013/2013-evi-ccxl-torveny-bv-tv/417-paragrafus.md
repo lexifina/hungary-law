@@ -1,1 +1,1 @@
-417. § Az előzetesen letartóztatott fiatalkorú javítóintézeten kívüli oktatásban, képzésben, munkafoglalkoztatásban nem vehet részt.
+417. § A letartóztatott fiatalkorú javítóintézeten kívüli oktatásban, képzésben, munkafoglalkoztatásban nem vehet részt.

@@ -1,10 +1,10 @@
 ## Az anyanyelv használata és a tájékoztatáshoz való jog
 
-12. § (1) A magyar nyelv nem tudása miatt az elítéltet vagy az egyéb jogcímen fogvatartottat nem érheti hátrány. A végrehajtás során az elítélt és az egyéb jogcímen fogvatartott mind szóban, mind írásban anyanyelvét, törvénnyel kihirdetett nemzetközi szerződés alapján, az abban meghatározott körben regionális vagy nemzetiségi nyelvét, vagy – ha a magyar nyelvet nem ismeri – az általa ismert más nyelvet használhatja.
+12. § (1) A magyar nyelv nem tudása miatt az elítéltet vagy az egyéb jogcímen fogvatartottat nem érheti hátrány. A végrehajtás során az elítélt és az egyéb jogcímen fogvatartott mind szóban, mind írásban nem magyar anyanyelvét, nemzetiségi anyanyelvét vagy törvénnyel kihirdetett nemzetközi szerződésben meghatározott egyéb anyanyelvét, vagy – ha a magyar nyelvet nem ismeri – az általa ismert más nyelvet használhatja.
 
-(2) A büntetés-végrehajtási ügyben, valamint a fogvatartással kapcsolatos egyéb ügyben a végrehajtásért felelős szerv kellő nyelvismerettel rendelkező tagja eseti tolmácsként eljárhat. A büntetés-végrehajtási ügyben, valamint a fogvatartással kapcsolatos ügyben a határozatot akkor kell írásban lefordítani az elítélt vagy az egyéb jogcímen fogvatartott anyanyelvére, törvénnyel kihirdetett nemzetközi szerződés alapján, az abban meghatározott körben regionális vagy nemzetiségi nyelvre, vagy az általa ismert más nyelvre, ha ezt a határozat közlésekor tett nyilatkozatában kifejezetten kéri. Ezen jogára az elítéltet figyelmeztetni kell.
+(2) A büntetés-végrehajtási ügyben, valamint a fogvatartással kapcsolatos egyéb ügyben a végrehajtásért felelős szerv kellő nyelvismerettel rendelkező tagja eseti tolmácsként eljárhat. A büntetés-végrehajtási ügyben, valamint a fogvatartással kapcsolatos ügyben a határozatot akkor kell írásban lefordítani az elítélt vagy az egyéb jogcímen fogvatartott nem magyar anyanyelvére, nemzetiségi anyanyelvére vagy törvénnyel kihirdetett nemzetközi szerződésben meghatározott egyéb anyanyelvére, vagy az általa ismert más nyelvre, ha ezt a határozat közlésekor tett nyilatkozatában kifejezetten kéri. Ezen jogára az elítéltet figyelmeztetni kell.
 
-(3) A végrehajtásért felelős szervnek az elítélt vagy az egyéb jogcímen fogvatartott részére az anyanyelvén, törvénnyel kihirdetett nemzetközi szerződés alapján, az abban meghatározott körben regionális vagy nemzetiségi nyelven, vagy az általa ismert más nyelven a végrehajtás rendjére, a végrehajtással összefüggő jogaira és kötelezettségeire vonatkozó jogszabályi rendelkezések lényegi elemeiről, valamint a fogvatartást foganatosító szerv házirendjéről tájékoztatást kell adnia.
+(3) A végrehajtásért felelős szervnek az elítélt vagy az egyéb jogcímen fogvatartott részére az nem magyar anyanyelvén, nemzetiségi anyanyelvén vagy törvénnyel kihirdetett nemzetközi szerződésben meghatározott egyéb anyanyelvén, vagy az általa ismert más nyelven a végrehajtás rendjére, a végrehajtással összefüggő jogaira és kötelezettségeire vonatkozó jogszabályi rendelkezések lényegi elemeiről, valamint a fogvatartást foganatosító szerv házirendjéről tájékoztatást kell adnia.
 
 (4) Az elítélt vagy az egyéb jogcímen fogvatartott részére írásban, az általa értett nyelven egyszerűen, közérthető módon kell a tájékoztatást megadni
 
@@ -14,7 +14,7 @@ b) a büntetés-végrehajtási ügyben őt megillető védelemhez való jogról,
 
 c) a végrehajtás során az őt megillető anyanyelv használatához való jogról,
 
-d) a büntetés-végrehajtási ügy irataiba és az egészségügyi dokumentációba való betekintéshez való jogról,
+d) a büntetés-végrehajtási ügy iratai és az egészségügyi dokumentáció megismeréséhez való jogról,
 
 e) a kapcsolattartás formáiról,
 
@@ -36,17 +36,17 @@ l) a betegjogok érvényesüléséről.
 
 a) a védelemhez való jogról,
 
-b) a személyes költségmentesség kérelmezéséhez való jogról és annak feltételeiről,
+b) a költségkedvezmény kérelmezéséhez való jogról és annak feltételeiről,
 
 c) a gyanúsítás, illetve a vádemelés alapjául szolgáló cselekmény lényegének, valamint ezek változásának a megismeréséhez való jogról,
 
 d) az anyanyelv használatához való jogról,
 
-e) a büntetőügy irataiba való betekintéshez való jogról,
+e) a büntető ügyiratok megismeréséhez való jogról,
 
 f) a vallomástétel megtagadásához való jogról,
 
-g) a kényszerintézkedésnek az elrendeléséről szóló határozat szerinti, illetve a törvényben meghatározott lehetséges végső tartamáról, továbbá a kényszerintézkedés meghosszabbításának és felülvizsgálatának szabályairól, valamint az e határozatokkal szembeni jogorvoslatról, illetve a szabadlábra helyezési kérelem benyújtásához való jogról,
+g) a kényszerintézkedésnek az elrendeléséről szóló határozat szerinti, illetve a törvényben meghatározott lehetséges végső tartamáról, továbbá a kényszerintézkedés meghosszabbításának és felülvizsgálatának szabályairól, valamint az e határozatokkal szembeni jogorvoslatról, illetve a kényszerintézkedés megszüntetése iránti indítvány benyújtásához való jogról,
 
 h) a kényszerintézkedés elrendelése, meghosszabbítása vagy fenntartása esetén az általa megjelölt hozzátartozó vagy az általa megjelölt más személy értesítéséhez való jogról.
 

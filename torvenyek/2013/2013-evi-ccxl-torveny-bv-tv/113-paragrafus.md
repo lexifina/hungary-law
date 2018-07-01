@@ -14,14 +14,16 @@ f) az Országgyűlés nemzetbiztonsággal foglalkozó állandó bizottsága ált
 
 idézik.
 
-(2) Az (1) bekezdés a) pontja esetén az elítéltet nem kell előállítani, ha törvény lehetőséget ad arra, hogy a terhelt nyilatkozzon részvételi szándékáról, és az elítélt nemleges nyilatkozatot tesz.
+(2) Az (1) bekezdés a) pontja esetén az elítéltet nem kell előállítani, ha törvény lehetőséget ad arra, hogy a terhelt nyilatkozzon jelenléti szándékáról, és az elítélt nemleges nyilatkozatot tesz.
 
-(3) Az elítéltet – kivéve, ha írásban tett nyilatkozata szerint a közvetítői megbeszélésen nem kíván megjelenni – az intézet előállítja, ha a büntető ügyekben alkalmazandó közvetítői tevékenységet végző közvetítő idézi.
+(2a) A bv. intézet az elítéltet kérelmére előállítja, ha a büntetőügyben az ügyiratok Be. 100. §-a és a 352. §-a szerinti megismerési jogának biztosítása érdekében – a bíróság, az ügyészség vagy a nyomozó hatóság az előállítás elrendelésével – annak helyéről és időpontjáról az elítéltet értesíti.
+
+(3) A bv. intézet az elítéltet kérelmére előállítja, ha a büntetőügyekben alkalmazandó közvetítői tevékenységet végző közvetítő sértettként, terheltként vagy ezek törvényes képviselőjeként a közvetítői megbeszélés vagy a megállapodás aláírásának helyéről és időpontjáról értesíti.
 
 (4) Az elítéltet – amennyiben a tárgyaláson meg kíván jelenni – elő kell állítani, ha félként a személyes megjelenés kötelezettségével idézik.
 
 (5) Az (1), (3) és (4) bekezdésben foglaltakon kívül az intézet akkor állítja elő az elítéltet, ha az az előállítást kéri, és annak költségeit megelőlegezi.
 
-(6) Ha az elítélt az előállítás költségeit nem tudja megelőlegezni, az intézet tájékoztatja, hogy költségmentességet, illetve pártfogó ügyvéd kirendelését kérheti. Az intézet az előállítás költségeit az elítélt írásbeli kérelmére kivételesen megelőlegezheti, ha a kérelemben a költségek visszafizetését vállalja.
+(6) Ha az elítélt az előállítás költségeit nem tudja megelőlegezni, az intézet tájékoztatja, hogy közigazgatási hatósági ügyben költségmentesség engedélyezését, polgári ügyben a polgári perrendtartás szabályai szerint költségmentesség, költségfeljegyzési jog engedélyezését, illetve pártfogó ügyvéd kirendelését kérheti. Az intézet az előállítás költségeit az elítélt írásbeli kérelmére kivételesen megelőlegezheti, ha a kérelemben a költségek visszafizetését vállalja.
 
 (7) A bírósági ügyekben való előállításra vonatkozó szabályokat a közjegyzői eljárásra is megfelelően alkalmazni kell.

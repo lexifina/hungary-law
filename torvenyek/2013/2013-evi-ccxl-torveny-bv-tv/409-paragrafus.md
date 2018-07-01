@@ -1,4 +1,4 @@
-409. § (1) Az előzetesen letartóztatottal szemben alkalmazható fenyítések:
+409. § (1) A letartóztatottal szemben alkalmazható fenyítések:
 
 a) feddés,
 
@@ -8,6 +8,6 @@ c) a fogva tartó intézet által szervezett rendezvényektől, szabadidős és 
 
 d) tizenöt napig terjedő magánelzárás.
 
-(2) Ha az előzetesen letartóztatott dolgozik, a magánelzárás tíz napig terjedhet.
+(2) Ha a letartóztatott dolgozik, a magánelzárás tíz napig terjedhet.
 
-(3) A fenyítés végrehajtása nem akadályozhatja az előzetesen letartóztatottat a büntetőeljárási jogainak gyakorlásában és kötelezettségeinek teljesítésében.
+(3) A fenyítés végrehajtása nem akadályozhatja a letartóztatottat a büntetőeljárási jogainak gyakorlásában és kötelezettségeinek teljesítésében.

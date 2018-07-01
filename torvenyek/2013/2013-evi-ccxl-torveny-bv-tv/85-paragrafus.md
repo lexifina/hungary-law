@@ -2,7 +2,7 @@
 
 a) a kiszabott szabadságvesztés tartamát és végrehajtási fokozatát,
 
-b) az elítélt állandó lakóhelyét,
+b) az elítélt lakcímét,
 
 c) azt, hogy az elítélt visszaeső-e, és
 

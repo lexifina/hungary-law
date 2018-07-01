@@ -4,7 +4,7 @@
 
 ## Általános szabályok
 
-273. § (1) Az elzárás a bíróság jogerős határozata alapján hajtható végre. Az elzárás végrehajtásának megkezdése érdekében a bv. csoport intézkedik.
+273. § (1) Az elzárás a bíróság jogerős ügydöntő határozata alapján hajtható végre. Az elzárás végrehajtásának megkezdése érdekében a bv. csoport intézkedik.
 
 (2) Az elzárást a külön jogszabályban kijelölt bv. intézetben hajtják végre.
 
@@ -14,7 +14,7 @@
 
 (5) Az elzárás végrehajtása során el kell különíteni
 
-a) az elzárásra ítélteket a szabadságvesztésre ítéltektől és az előzetesen letartóztatottaktól,
+a) az elzárásra ítélteket a szabadságvesztésre ítéltektől és a letartóztatottaktól,
 
 b) a férfiakat a nőktől,
 

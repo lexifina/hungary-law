@@ -1,6 +1,6 @@
-274. § (1) Az elzárást kiszabó határozat jogerőre emelkedésekor szabadságvesztést vagy javítóintézeti nevelést töltő vagy más ügyben előzetes letartóztatásban levő elítélten az elzárást a szabadságvesztés kitöltését, a javítóintézetből történő elbocsátás vagy az előzetes letartóztatás megszüntetését követően kell végrehajtani.
+274. § (1) Az elzárást kiszabó ügydöntő határozat jogerőre emelkedésekor szabadságvesztést vagy javítóintézeti nevelést töltő vagy más ügyben letartóztatásban levő elítélten az elzárást a szabadságvesztés kitöltését, a javítóintézetből történő elbocsátás vagy a letartóztatás megszüntetését követően kell végrehajtani.
 
-(2) Az elzárás végrehajtásának elévülését félbeszakítja, ha az elzárásra ítélttel szemben szabadságvesztést, javítóintézeti nevelést vagy előzetes letartóztatást vesznek foganatba. Ezeknek a körülményeknek a megszűnéséig az elévülés nyugszik.
+(2) Az elzárás végrehajtásának elévülését félbeszakítja, ha az elzárásra ítélttel szemben szabadságvesztést, javítóintézeti nevelést vagy letartóztatást vesznek foganatba. Ezeknek a körülményeknek a megszűnéséig az elévülés nyugszik.
 
 (3) Az elzárásra ítélt köteles
 

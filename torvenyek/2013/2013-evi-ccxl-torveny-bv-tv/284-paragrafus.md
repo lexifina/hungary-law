@@ -1,4 +1,4 @@
-284. § (1) A munkahely kijelöléséről – a határozat előkészítése során a munkahellyel való kapcsolatfelvétel alapján –, továbbá a bírósági felülvizsgálat folytán a kijelölés módosításáról haladéktalanul értesíteni kell az elítélt lakóhelye, ennek hiányában vagy az elítélt kérelmére a tartózkodási helye szerint illetékes állami foglalkoztatási szervet, ha a munkahely a foglalkoztatói nyilvántartásban szerepel.
+284. § (1) A munkahely kijelöléséről – a határozat előkészítése során a munkahellyel való kapcsolatfelvétel alapján –, továbbá a bírósági felülvizsgálat folytán a kijelölés módosításáról haladéktalanul értesíteni kell az elítélt lakcíme, vagy az elítélt kérelmére a tényleges tartózkodási helye szerint illetékes állami foglalkoztatási szervet, ha a munkahely a foglalkoztatói nyilvántartásban szerepel.
 
 (2) A munkahely kijelöléséről szóló jogerős határozatot a pártfogó felügyelő kézbesíti az elítéltnek, és egyben a munkavégzés megkezdésére hívja fel az elítéltet. A felhívásban
 

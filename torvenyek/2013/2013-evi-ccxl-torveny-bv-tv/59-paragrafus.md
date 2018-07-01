@@ -2,7 +2,7 @@
 
 (2) Ha a büntetés-végrehajtási bíró a szabadlábon lévő elítéltet nem bocsátotta feltételes szabadságra, az elítélt kérelmére, a szabadságvesztés megkezdésére a 39. § szerint halasztást engedélyezhet.
 
-(3) Ha a feltételes szabadságra bocsátást elrendelő végzés ellen az ügyész fellebbezést nyújt be, ennek a feltételes szabadság megkezdésére halasztó hatálya van. Az ügyész a fellebbezésről – a fellebbezés benyújtásával egy időben – értesíti a bv. intézetet.
+(3) Ha a feltételes szabadságra bocsátást elrendelő végzés ellen az ügyészség fellebbezést nyújt be, ennek a feltételes szabadság megkezdésére halasztó hatálya van. Az ügyészség a fellebbezésről – a fellebbezés benyújtásával egy időben – értesíti a bv. intézetet.
 
 (4) Ha a másodfokú bíróság a végzést helyben hagyja, haladéktalanul értesíti a bv. intézetet a szabadítás érdekében.
 

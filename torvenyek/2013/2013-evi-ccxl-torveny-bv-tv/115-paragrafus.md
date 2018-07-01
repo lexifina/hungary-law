@@ -4,9 +4,9 @@
 
 (2) Enyhébb végrehajtási fokozat nem jelölhető ki, ha
 
-a) az elítélt a szabadságvesztésből – az előzetes fogvatartásban és a házi őrizetben töltött időt is beszámítva – a feltételes szabadságra bocsátásig esedékes időtartam felét nem töltötte le,
+a) az elítélt a szabadságvesztésből – a Btk. 92–92/B. §-a alapján beszámított időt is figyelembe véve – a feltételes szabadságra bocsátásig esedékes időtartam felét nem töltötte le,
 
-b) az elítélt feltételes szabadságra nem bocsátható és a szabadságvesztés tartamának – az előzetes fogvatartásban és a házi őrizetben töltött időt is beszámítva – fegyházfokozatban a felét, börtönfokozatban az egyharmadát nem töltötte le,
+b) az elítélt feltételes szabadságra nem bocsátható és a szabadságvesztés tartamának – a Btk. 92–92/B. §-a alapján beszámított időt is figyelembe véve – fegyházfokozatban a felét, börtönfokozatban az egyharmadát nem töltötte le,
 
 c) az elítélt a szabadságvesztésből fegyházfokozatban legalább egy évet, börtönfokozatban legalább hat hónapot nem töltött le,
 

@@ -1,6 +1,6 @@
 ## A szabadságvesztés végrehajtásának rendje
 
-97. § (1) A szabadságvesztést a büntetés-végrehajtási szervezet hajtja végre. A szabadságvesztést a bíróság által meghatározott fokozatban – fegyházban, börtönben vagy fogházban –, a büntetés-végrehajtási szervezet által – a jogszabály, illetve az országos parancsnok intézkedése alapján – kijelölt, lehetőleg az elítélt lakóhelyéhez legközelebb eső bv. intézetben hajtják végre. A fegyház a börtönnél, a börtön a fogháznál szigorúbb végrehajtási mód.
+97. § (1) A szabadságvesztést a büntetés-végrehajtási szervezet hajtja végre. A szabadságvesztést a bíróság által meghatározott fokozatban – fegyházban, börtönben vagy fogházban –, a büntetés-végrehajtási szervezet által – a jogszabály, illetve az országos parancsnok intézkedése alapján – kijelölt, lehetőleg az elítélt lakcíméhez legközelebb eső bv. intézetben hajtják végre. A fegyház a börtönnél, a börtön a fogháznál szigorúbb végrehajtási mód.
 
 (2) A szabadságvesztés-büntetés végrehajtásának rendjét az elítélt egyéni körülményeinek figyelembevételével – személyiségére, előéletére, életvitelére, családi körülményeire, a szabadságvesztés során tanúsított magatartására, az elkövetett bűncselekményre, a szabadságvesztés fokozatára és tartamára tekintettel – kell kialakítani.
 

@@ -1,10 +1,10 @@
-## Az előzetesen letartóztatott jogai és kötelezettségei
+## A letartóztatott jogai és kötelezettségei
 
-394. § (1) Az előzetesen letartóztatott jogosult
+394. § (1) A letartóztatott jogosult
 
 a) büntetőeljárási jogainak korlátozás nélküli gyakorlására, ennek során védőjével – és ha nem magyar állampolgár, államának konzuli tisztviselőjével – szóban, írásban, telefonon ellenőrzés nélkül érintkezhet;
 
-b) hozzátartozóival és más személyekkel – a rendelkezési jogkör gyakorlójának 390. § (1) bekezdés a) pontja szerinti rendelkezését figyelembe véve – kapcsolattartásra, ennek keretében
+b) a rendelkezési jogkör gyakorlójának korlátozó vagy tiltó rendelkezése hiányában a hozzátartozójával, más személlyel a rendelkezési jogkör gyakorlójának engedélyével kapcsolattartásra, ennek keretében
 
 ba) levelezésre, a levelezés gyakorisága és terjedelme – ha a rendelkezési jogkör gyakorlója másként nem rendelkezik – nem korlátozott,
 
@@ -18,18 +18,20 @@ c) kérelmére – a fogva tartó intézet lehetőségei szerint – munkavégz�
 
 d) kérelmére – a fogva tartó intézet lehetőségei szerint – általános iskolai, illetve középfokú iskolai oktatásban vagy szakképzésben való részvételre,
 
-e) választójoga gyakorlására a fogva tartó intézetben; ennek során az előzetesen letartóztatott személyazonossága a fogva tartó intézet nyilvántartása alapján állapítható meg.
+e) választójoga gyakorlására a fogva tartó intézetben; ennek során a letartóztatott személyazonossága a fogva tartó intézet nyilvántartása alapján állapítható meg.
 
-(2) Ha az előzetesen letartóztatott ellen a Btk. XIX. Fejezete alá tartozó bűncselekmény elkövetése miatt indult meg a büntetőeljárás, részére – önkéntes részvételi alapon – fel kell ajánlani megfelelő a visszaesés valószínűségét csökkentő pszichoterápián vagy más foglalkozáson való részvételt.
+(2) Ha a letartóztatott ellen a Btk. XIX. Fejezete alá tartozó bűncselekmény elkövetése miatt indult meg a büntetőeljárás, részére – önkéntes részvételi alapon – fel kell ajánlani megfelelő a visszaesés valószínűségét csökkentő pszichoterápián vagy más foglalkozáson való részvételt.
 
-(3) Az előzetesen letartóztatott – a rendelkezési jogkör gyakorlójának engedélyével – őrzéssel meglátogathatja orvos által igazoltan súlyos beteg közeli hozzátartozóját, és részt vehet a közeli hozzátartozója temetésén. Az erre irányuló kérelemről a fogva tartó intézet – véleményének csatolásával – a rendelkezési jogkör gyakorlóját haladéktalanul, indokolt esetben rövid úton értesíti.
+(2a) Ha a letartóztatottal szemben kábítószer birtoklása miatt megindult más büntetőügyben feltételes ügyészi felfüggesztést rendeltek el, a fogvatartást foganatosító szerv biztosítja, hogy a letartóztatott kábítószer-függőséget gyógyító kezelésen vegyen részt, vagy kábítószer-használatot kezelő más ellátásban vagy megelőző-felvilágosító szolgáltatásban részesüljön.
 
-(4) A (3) bekezdésben meghatározott előállítás költségeit az előzetesen letartóztatott viseli.
+(3) A letartóztatott – a rendelkezési jogkör gyakorlójának engedélyével – őrzéssel meglátogathatja orvos által igazoltan súlyos beteg közeli hozzátartozóját, és részt vehet a közeli hozzátartozója temetésén. Az erre irányuló kérelemről a fogva tartó intézet – véleményének csatolásával – a rendelkezési jogkör gyakorlóját haladéktalanul, indokolt esetben rövid úton értesíti.
 
-(5) A parancsnok a 154. § (1) bekezdésében meghatározott okok fennállásának az idejére – az ott meghatározott időtartamban – az előzetesen letartóztatottak meghatározott csoportjára nézve elrendelheti az (1) bekezdés b) és d) pontjában foglalt jogok gyakorlásának teljes vagy részleges felfüggesztését. Az országos parancsnok az intézkedés időtartamát további öt nappal meghosszabbíthatja.
+(4) A (3) bekezdésben meghatározott előállítás költségeit a letartóztatott viseli.
 
-(6) Az (5) bekezdés szerinti intézkedéssel kapcsolatban a 154. § (2) bekezdésében foglaltakat kell alkalmazni. Az előzetesen letartóztatott részére a járványügyi intézkedés kivételével az (5) bekezdés szerinti időtartam alatt is engedélyezhető, hogy orvos által igazoltan súlyos beteg közeli hozzátartozóját őrzéssel meglátogassa, részt vegyen közeli hozzátartozója temetésén, vagy hogy részére a bírósági, hatósági eljárásokban való részvételhez szükséges iratok kézbesítésre kerüljenek.
+(5) A parancsnok a 154. § (1) bekezdésében meghatározott okok fennállásának az idejére – az ott meghatározott időtartamban – a letartóztatottak meghatározott csoportjára nézve elrendelheti az (1) bekezdés b) és d) pontjában foglalt jogok gyakorlásának teljes vagy részleges felfüggesztését. Az országos parancsnok az intézkedés időtartamát további öt nappal meghosszabbíthatja.
 
-(7) Ha az előzetesen letartóztatott a temetésen nem vett részt, a rendelkezési jogkör gyakorlója a temetést követő harminc napon belül – a (6) bekezdés szerinti feltételekkel – engedélyezheti, hogy az előzetesen letartóztatott lerója kegyeletét a közeli hozzátartozója temetési helyénél.
+(6) Az (5) bekezdés szerinti intézkedéssel kapcsolatban a 154. § (2) bekezdésében foglaltakat kell alkalmazni. A letartóztatott részére a járványügyi intézkedés kivételével az (5) bekezdés szerinti időtartam alatt is engedélyezhető, hogy orvos által igazoltan súlyos beteg közeli hozzátartozóját őrzéssel meglátogassa, részt vegyen közeli hozzátartozója temetésén, vagy hogy részére a bírósági, hatósági eljárásokban való részvételhez szükséges iratok kézbesítésre kerüljenek.
 
-(8) Az előzetesen letartóztatott a (7) bekezdésben meghatározott esetben az előállítás költségét köteles megtéríteni.
+(7) Ha a letartóztatott a temetésen nem vett részt, a rendelkezési jogkör gyakorlója a temetést követő harminc napon belül – a (6) bekezdés szerinti feltételekkel – engedélyezheti, hogy a letartóztatott lerója kegyeletét a közeli hozzátartozója temetési helyénél.
+
+(8) A letartóztatott a (7) bekezdésben meghatározott esetben az előállítás költségét köteles megtéríteni.

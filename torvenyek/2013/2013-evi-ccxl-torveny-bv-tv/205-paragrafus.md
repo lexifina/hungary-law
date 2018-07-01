@@ -8,7 +8,7 @@
 
 (4) A szabadságvesztés végrehajtása alatt a különböző állománycsoportú elítélteket el kell különíteni egymástól. Az elítéltek katonai érdekből is csoportosíthatók.
 
-(5) A katonai fogdában büntetésüket töltő elítéltek szolgálati kötelezettségei és jogai annyiban szünetelnek, illetőleg korlátozottak, amennyiben erről az ítélet vagy jogszabály rendelkezik, illetve amennyiben ezek érvényesülése a büntetés céljával ellentétes.
+(5) A katonai fogdában büntetésüket töltő elítéltek szolgálati kötelezettségei és jogai annyiban szünetelnek, illetőleg korlátozottak, amennyiben erről az ügydöntő határozat vagy jogszabály rendelkezik, illetve amennyiben ezek érvényesülése a büntetés céljával ellentétes.
 
 (6) Az elítéltek a szabadságvesztés végrehajtása alatt elöljárói és feljebbvalói joggal nem rendelkeznek, fegyvert nem viselhetnek, és szolgálatot nem láthatnak el.
 

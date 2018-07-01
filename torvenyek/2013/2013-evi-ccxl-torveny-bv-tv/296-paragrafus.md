@@ -2,9 +2,9 @@
 
 ## A FOGLALKOZÁSTÓL ELTILTÁS VÉGREHAJTÁSA
 
-296. § (1) A foglalkozástól eltiltás tartama az ítélet jogerőre emelkedésével kezdődik. Ha a foglalkozástól eltiltást szabadságvesztés vagy elzárás mellett szabják ki, tartamába be kell számítani
+296. § (1) A foglalkozástól eltiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. Ha a foglalkozástól eltiltást szabadságvesztés vagy elzárás mellett szabják ki, tartamába be kell számítani
 
-a) az ítélet jogerőre emelkedése és a szabadságvesztés, illetve az elzárás megkezdése között eltelt időt,
+a) az ügydöntő határozat jogerőre emelkedése és a szabadságvesztés, illetve az elzárás megkezdése között eltelt időt,
 
 b) a szabadságvesztés, illetve az elzárás félbeszakításának tartamát,
 

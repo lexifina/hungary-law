@@ -2,11 +2,11 @@
 
 84. § (1) A szabadságvesztés végrehajtása iránt azonnal intézkedni kell, ha
 
-a) a szabadságvesztést kiszabó határozat jogerőre emelkedésekor a terhelt akár az adott ügyben, akár más ügyben előzetes fogvatartásban van,
+a) a szabadságvesztést kiszabó ügydöntő határozat jogerőre emelkedésekor a terhelt akár az adott ügyben, akár más ügyben előzetes fogvatartásban van,
 
 b) a bíróság a szabadságvesztés végrehajtásának azonnali foganatba vételét rendelte el.
 
-(2) Ha a szabadságvesztést kiszabó határozat jogerőre emelkedésekor a terhelt más ügyben kiszabott szabadságvesztést, elzárást, javítóintézeti nevelést vagy szabálysértési elzárást tölt, a szabadságvesztés végrehajtását a 14. §-ban meghatározott végrehajtási sorrend érvényesítésével kell foganatba venni.
+(2) Ha a szabadságvesztést kiszabó ügydöntő határozat jogerőre emelkedésekor a terhelt más ügyben kiszabott szabadságvesztést, elzárást, javítóintézeti nevelést vagy szabálysértési elzárást tölt, a szabadságvesztés végrehajtását a 14. §-ban meghatározott végrehajtási sorrend érvényesítésével kell foganatba venni.
 
 (3) Az (1)–(2) bekezdés esetein kívül a szabadságvesztés végrehajtásának a megkezdésére az elítéltet a BVOP hívja fel.
 

@@ -1,18 +1,18 @@
 ## Intézkedés ismeretlen helyen tartózkodó elítélt és kényszergyógykezelt felkutatására és az elfogatóparancs
 
-19. § (1) Az ismeretlen helyen tartózkodó elítélt, illetve kényszergyógykezelt tartózkodási helyének felkutatására
+19. § (1) Az ismeretlen helyen tartózkodó elítélt, illetve kényszergyógykezelt felkutatása érdekében
 
-a) a Be. 73. §-át,
+a) a lakcímének megállapítása érdekében a személyiadat- és lakcímnyilvántartásból adat kérhető, illetve
 
-b) a 2012. évi CLXXX. törvény 25. § (1) és (2) bekezdését, valamint
+b) a körözése rendelhető el, és
 
-c) az Nbjt. 32. § (2) bekezdését
+c) az e törvényben meghatározott esetben elfogatóparancsot lehet kibocsátani, ideértve a 2012. évi CLXXX. törvény 25. § (1) és (2) bekezdésének, valamint az Nbjt. 32. § (2) bekezdésének az alkalmazását
 
-kell alkalmazni azzal, hogy körözés elrendelésére és elfogatóparancs kibocsátására kizárólag a bíróság jogosult.
+azzal, hogy körözés elrendelésére és elfogatóparancs kibocsátására kizárólag a bíróság jogosult.
 
-(2) A szabadságvesztés, a közérdekű munka és a pártfogó felügyelet végrehajtása körében a végrehajtásért felelős szerv is jogosult az elítélt lakó- és tartózkodási helyének megállapítása iránt [Be. 73. § (2) bekezdés] intézkedni.
+(2) A szabadságvesztés, a közérdekű munka és a pártfogó felügyelet végrehajtása körében a végrehajtásért felelős szerv is jogosult az elítélt lakcímének megállapítása iránt intézkedni.
 
-(3) Ha az elítélt vagy a kényszergyógykezelt tartózkodási helyének felkutatása iránt megtett intézkedés, vagy a végrehajtás foganatosítása érdekében elrendelt elővezetés nem vezetett eredményre, a bíróság elfogatóparancsot bocsát ki annak az ismeretlen helyen tartózkodó elítéltnek vagy kényszergyógykezeltnek a felkutatása érdekében, aki
+(3) Ha az elítélt vagy a kényszergyógykezelt lakcímének, tényleges tartózkodási helyének felkutatása iránt megtett intézkedés, vagy a végrehajtás foganatosítása érdekében elrendelt elővezetés nem vezetett eredményre, a bíróság elfogatóparancsot bocsát ki annak az ismeretlen helyen tartózkodó elítéltnek vagy kényszergyógykezeltnek a felkutatása érdekében, aki
 
 a) a jogerősen kiszabott szabadságvesztés vagy elzárás, illetve a jogerősen elrendelt javítóintézeti nevelés vagy kényszergyógykezelés letöltését nem kezdte meg,
 

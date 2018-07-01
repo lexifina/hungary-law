@@ -1,4 +1,4 @@
-29. § (1) A büntetés és az intézkedés elévülésének határideje a büntetést kiszabó, vagy az intézkedést elrendelő határozat jogerőre emelkedésének napjával, ha a szabadságvesztés végrehajtását felfüggesztik, a próbaidő leteltének a napjával kezdődik.
+29. § (1) A büntetés és az intézkedés elévülésének határideje a büntetést kiszabó, vagy az intézkedést elrendelő ügydöntő határozat jogerőre emelkedésének napjával, ha a szabadságvesztés végrehajtását felfüggesztik, a próbaidő leteltének a napjával kezdődik.
 
 (2) Ha az elítélt a szabadságvesztés vagy a javítóintézeti nevelés végrehajtása alatt megszökik, az elévülés határideje a szökés napjával ismét elkezdődik.
 

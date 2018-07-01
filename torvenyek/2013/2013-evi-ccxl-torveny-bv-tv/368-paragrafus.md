@@ -20,4 +20,4 @@ c) szökés vagy bűncselekmény megakadályozása érdekében szükséges.
 
 (7) A kényszerítő eszköz alkalmazását az igazgatónak haladéktalanul jelenteni kell. A kényszerítő eszköz alkalmazásának a jogszerűségét az igazgató köteles megvizsgálni.
 
-(8) A jogszerűtlennek minősített kényszerítő eszköz használatáról a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészt nyolc napon belül, ha a kényszerítő eszköz használata testi sérülést vagy halált okozott, haladéktalanul értesíteni kell.
+(8) A jogszerűtlennek minősített kényszerítő eszköz használatáról a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészséget nyolc napon belül, ha a kényszerítő eszköz használata testi sérülést vagy halált okozott, haladéktalanul értesíteni kell.

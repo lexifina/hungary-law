@@ -2,9 +2,9 @@
 
 ## A KÖZÜGYEKTŐL ELTILTÁS VÉGREHAJTÁSA
 
-304. § (1) A közügyektől eltiltás tartama az ítélet jogerőre emelkedésével kezdődik, tartamába be kell számítani:
+304. § (1) A közügyektől eltiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik, tartamába be kell számítani:
 
-a) az ítélet jogerőre emelkedése és a szabadságvesztés – előírt időben történő – megkezdése között eltelt időt,
+a) az ügydöntő határozat jogerőre emelkedése és a szabadságvesztés – előírt időben történő – megkezdése között eltelt időt,
 
 b) a szabadságvesztés félbeszakításának idejét,
 

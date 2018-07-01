@@ -16,7 +16,7 @@ e) a bv. intézet tisztántartásában, karbantartásában és ellátásában d�
 
 f) alávetni magát a jogszabályban előírt kötelező vagy egészségi állapotának megítéléséhez szükséges orvosi vizsgálatnak és a jogszabály szerint kötelező, gyógykezelésnek,
 
-g) fegyelemsértés, illetve bűncselekmény elkövetésének megalapozott gyanúja esetén vizsgálati anyagot szolgáltatni az alkohol, bódító-, illetve kábítószer fogyasztás ellenőrzéséhez,
+g) fegyelemsértés, illetve bűncselekmény gyanúja esetén vizsgálati anyagot szolgáltatni az alkohol, bódító-, illetve kábítószer fogyasztás ellenőrzéséhez,
 
 h) a végrehajtási fokozatnak és rezsimszabályoknak megfelelően előírt forma- és egyéb ruházatot viselni,
 

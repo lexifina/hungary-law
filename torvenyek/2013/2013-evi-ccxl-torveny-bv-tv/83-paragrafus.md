@@ -1,8 +1,8 @@
 ## A szabadságvesztés végrehajtásának célja és elvei
 
-83. § (1) A szabadságvesztés végrehajtásának célja az ítéletben meghatározott joghátrány érvényesítése, valamint a végrehajtás alatti reintegrációs tevékenység eredményeként annak elősegítése, hogy az elítélt szabadulása után a társadalomba sikeresen visszailleszkedjen és a társadalom jogkövető tagjává váljon.
+83. § (1) A szabadságvesztés végrehajtásának célja az ügydöntő határozatban meghatározott joghátrány érvényesítése, valamint a végrehajtás alatti reintegrációs tevékenység eredményeként annak elősegítése, hogy az elítélt szabadulása után a társadalomba sikeresen visszailleszkedjen és a társadalom jogkövető tagjává váljon.
 
-(2) A feltételes szabadságra bocsátás lehetőségének kizárásával kiszabott életfogytig tartó szabadságvesztés végrehajtásának célja a társadalom védelme érdekében az ítéletben meghatározott joghátrány érvényesítése.
+(2) A feltételes szabadságra bocsátás lehetőségének kizárásával kiszabott életfogytig tartó szabadságvesztés végrehajtásának célja a társadalom védelme érdekében az ügydöntő határozatban meghatározott joghátrány érvényesítése.
 
 (3) Az elítéltek társadalmi beilleszkedését elősegítő reintegrációs tevékenységet a végrehajtásért felelős szerv – önállóan vagy más szervezetekkel együttműködve – az elítéltek munkáltatása, munkaterápiás foglalkoztatása, továbbá általános iskolai, illetve középfokú iskolai oktatása, felsőfokú tanulmányok végzése, szakképzése, szakmai gyakorlat megszerzése, valamint egyéb reintegrációs programok által biztosítja. A végrehajtásért felelős szerv a reintegrációs tevékenységet az elítélt személyéhez igazodó szakmai módszerekkel végzi.
 

@@ -2,7 +2,7 @@
 
 a) az elítélttel szemben a félbeszakítás tartama alatt elkövetett bűncselekmény miatt büntetőeljárás indult, vagy olyan újabb szabadságvesztés végrehajtásáról érkezik értesítőlap, amely a végrehajtás sorrendjére kihatással van,
 
-b) az elítéltet más ügyben előzetes letartóztatásba helyezték,
+b) az elítéltet más ügyben letartóztatásba helyezték,
 
 c) a félbeszakítás indoka az engedélyezett határidő letelte előtt megszűnt,
 

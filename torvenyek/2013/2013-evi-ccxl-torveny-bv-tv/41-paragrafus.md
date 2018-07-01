@@ -24,6 +24,6 @@ a) az elítélt gyermeke halva született, utóbb meghalt, vagy a gyermek végle
 
 b) az elítélt részére a gyermekgondozási díj, gyermekgondozást segítő ellátás vagy gyermeknevelési támogatás folyósítását egy év eltelte előtt megszüntetik,
 
-c) az elítélt fogvatartása vagy házi őrizete megszűnik, kivéve ha a közérdekű munka végrehajtásának e törvény szerinti végrehajtási akadálya áll fenn.
+c) az elítélt fogvatartása vagy olyan bűnügyi felügyelete, amelynek keretében a bíróság a terhelt számára előírta, hogy lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhatja el, megszűnik, kivéve ha a közérdekű munka végrehajtásának e törvény szerinti végrehajtási akadálya áll fenn.
 
 (7) A (6) bekezdés a) pontja szerinti szülés utáni egészségi állapotról az igazságügyi orvos-szakértő vagy a szülést levezető egészségügyi intézmény főorvosa nyilatkozik.

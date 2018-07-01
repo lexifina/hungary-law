@@ -1,6 +1,6 @@
 ## Rendkívüli események
 
-339. § (1) A kényszergyógykezelés végrehajtása során bekövetkezett rendkívüli eseményről haladéktalanul értesíteni kell a törvényességi felügyeletet ellátó ügyészt.
+339. § (1) A kényszergyógykezelés végrehajtása során bekövetkezett rendkívüli eseményről haladéktalanul értesíteni kell a törvényességi felügyeletet ellátó ügyészséget.
 
 (2) Az (1) bekezdés alkalmazásában rendkívüli eseménynek minősül minden olyan esemény, amely az IMEI rendjét súlyosan sérti vagy veszélyezteti, így különösen az intézet területén megvalósult bűncselekmény, a beteg engedély nélküli távozása, öngyilkossági kísérlete, balesete vagy halála.
 

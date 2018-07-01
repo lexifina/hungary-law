@@ -2,9 +2,11 @@
 
 312. § (1) A pártfogó felügyelet
 
-a) próbára bocsátás és szabadságvesztés végrehajtásának felfüggesztése esetén, vagy jóvátételi munka elrendelése mellett a pártfogó felügyeletet elrendelő határozat jogerőre emelkedésével,
+a) próbára bocsátás és szabadságvesztés végrehajtásának felfüggesztése esetén, vagy jóvátételi munka elrendelése mellett a pártfogó felügyeletet elrendelő ügydöntő határozat jogerőre emelkedésével,
 
-b) feltételes szabadságra bocsátás esetén a szabadságvesztésből való szabadulás napjával
+b) feltételes szabadságra bocsátás esetén a szabadságvesztésből való szabadulás napjával,
+
+c) az elsőfokon eljárt bíróságnak a kegyelmi döntés alapján a 46. § (7) bekezdése szerint meghozott nem ügydöntő végzésének véglegessé válása napjával
 
 kezdődik.
 
@@ -20,6 +22,8 @@ c) a próbára bocsátást vagy a feltételes szabadságot megszüntetik, vagy a
 
 d) ha a pártfogolt a jóvátételi munka elvégzését egy éven belül megfelelően igazolja [Btk. 68. § (1) bekezdés],
 
-e) a pártfogó felügyelet tartama alatt a pártfogolton szabadságvesztés büntetést vesznek foganatba, a Btk. 40. § (4) bekezdésében és 86. § (2)–(3) bekezdésében szabályozott eset kivételével.
+e) a pártfogó felügyelet tartama alatt a pártfogolton szabadságvesztés büntetést vesznek foganatba, a Btk. 40. § (4) bekezdésében és 86. § (2)–(3) bekezdésében szabályozott eset kivételével,
+
+f) a köztársasági elnök azt a büntetést vagy intézkedést, amellyel összefüggésben az elítélt pártfogó felügyelet alatt áll, kegyelemből elengedte.
 
 (4) A pártfogó felügyelet végrehajtása a Btk. 40. § (4) bekezdésében és 86. § (2)–(3) bekezdésében meghatározott esetben a szabadságvesztés, az elzárás vagy a közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztés végrehajtása alatt szünetel.

@@ -10,13 +10,13 @@ c) a b) pontban szabályozottnál hosszabb időre a büntetés-végrehajtásért
 
 dönt.
 
-(2) Kivételesen engedélyezhető a szabadságvesztés félbeszakítása, ha az elítélt ellen szabadságvesztéssel büntetendő bűncselekmény miatt újabb büntetőeljárás van folyamatban. Ebben az esetben az eljárás szakaszától függően az ügyész vagy a bíróság véleményét be kell szerezni.
+(2) Kivételesen engedélyezhető a szabadságvesztés félbeszakítása, ha az elítélt ellen szabadságvesztéssel büntetendő bűncselekmény miatt újabb büntetőeljárás van folyamatban. Ebben az esetben az eljárás szakaszától függően az ügyészség vagy a bíróság véleményét be kell szerezni.
 
-(3) Nem engedélyezhető a szabadságvesztés félbeszakítása, ha a bíróság az életfogytig tartó szabadságvesztést kimondó ítéletben a feltételes szabadságra bocsátás lehetőségét kizárta.
+(3) Nem engedélyezhető a szabadságvesztés félbeszakítása, ha a bíróság az életfogytig tartó szabadságvesztést kimondó ügydöntő határozatban a feltételes szabadságra bocsátás lehetőségét kizárta.
 
 (4) Ha az elítélt nő a várandósság tizenkettedik hetét elérte, és a szülés várható időpontja megelőzné a szabadulás napját, nyilatkoztatni kell arról, hogy kéri-e a szabadságvesztés félbeszakítását. A várandósság alatt vagy közvetlenül a szülés után benyújtott büntetés-félbeszakítási kérelmek elbírálása során elsősorban a gyermek érdekét kell figyelembe venni.
 
-(5) A szabadságvesztés félbeszakítására irányuló kérelem indokoltságának ellenőrzése céljából a bv. intézet az elítélt által megjelölt tartózkodási hely szerint illetékes büntetés-végrehajtási pártfogó felügyelő útján környezettanulmány elkészítését rendelheti el, illetve megkeresheti a rendőri szervet a környezettanulmány készítése céljából.
+(5) A szabadságvesztés félbeszakítására irányuló kérelem indokoltságának ellenőrzése céljából a bv. intézet az elítélt által megjelölt lakcím, illetve tényleges tartózkodási hely szerint illetékes büntetés-végrehajtási pártfogó felügyelő útján környezettanulmány elkészítését rendelheti el, illetve megkeresheti a rendőri szervet a környezettanulmány készítése céljából.
 
 (6) A kérelem elutasítását indokolt határozatba kell foglalni.
 

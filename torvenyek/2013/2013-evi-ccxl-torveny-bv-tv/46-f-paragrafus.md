@@ -8,7 +8,7 @@ b) az elítélt személyi vagy családi körülményeire, valamint az egészség
 
 alaposan feltehető-e, hogy a büntetés célja további szabadságelvonás nélkül is elérhető.
 
-(3) A Kegyelmi Bizottság a 17. § szerinti megkeresés szabályai szerint, illetve a 46. § (4) bekezdése alkalmazásával a kötelező kegyelmi eljárás lefolytatásához szükséges további adatokat és iratokat szerezhet be.
+(3) A Kegyelmi Bizottság a 17. § szerinti megkeresés szabályai szerint, illetve a 46. § (2) bekezdése alkalmazásával a kötelező kegyelmi eljárás lefolytatásához szükséges további adatokat és iratokat szerezhet be.
 
 (4) A Kegyelmi Bizottság eljárása során bármely, a vizsgálat során lényegesnek minősülő szakkérdésben megfelelő szakértelemmel rendelkező személy közreműködését veheti igénybe vagy meghatározott szakkérdésben állásfoglalást kérhet. Az elítélt mentális állapotára vonatkozóan a Kegyelmi Bizottság köteles szakorvos vagy pszichológus szakértő közreműködését igénybe venni. A felkért szakértő az eljárás során beszerzett iratokat, adatokat megismerheti. A felkért szakértő eljárásának a költségeit az állam viseli.
 

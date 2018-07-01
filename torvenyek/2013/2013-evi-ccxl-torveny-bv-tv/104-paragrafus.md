@@ -2,11 +2,11 @@
 
 104. § (1) A fogház, illetve a börtön végrehajtásának általános szabályainál enyhébb végrehajtási szabályok akkor alkalmazhatók, ha – különösen az elítélt személyiségére, előéletére, életvitelére, családi körülményeire, a szabadságvesztés során tanúsított magatartására, az elkövetett bűncselekményre, a szabadságvesztés tartamára tekintettel – a szabadságvesztés célja az enyhébb végrehajtási szabályok alkalmazásával is elérhető, és az enyhébb büntetés-végrehajtási szabályok alkalmazása a büntetés-végrehajtás biztonságát nem veszélyezteti.
 
-(1a) Az enyhébb végrehajtási szabályok alkalmazása iránti előterjesztés, illetve az elítélt vagy védője által benyújtott kérelem megalapozottságának ellenőrzése céljából a bv. intézet az elítélt által eltávozásra megjelölt lakó- vagy tartózkodási hely szerint illetékes büntetés-végrehajtási pártfogó felügyelő útján környezettanulmány elkészítését rendelheti el.
+(1a) Az enyhébb végrehajtási szabályok alkalmazása iránti előterjesztés, illetve az elítélt vagy védője által benyújtott kérelem megalapozottságának ellenőrzése céljából a bv. intézet az elítélt által eltávozásra megjelölt lakcím, illetve tényleges tartózkodási hely szerint illetékes büntetés-végrehajtási pártfogó felügyelő útján környezettanulmány elkészítését rendelheti el.
 
 (2) Enyhébb végrehajtási szabályok nem alkalmazhatók, ha
 
-a) az elítélt a szabadságvesztésből – az előzetes fogvatartásban és a házi őrizetben töltött időt is beszámítva – a feltételes szabadságra bocsátásig esedékes időtartam felét nem töltötte le,
+a) az elítélt a szabadságvesztésből – a Btk. 92–92/B. §-a alapján beszámított időt is figyelembe véve – a feltételes szabadságra bocsátásig esedékes időtartam felét nem töltötte le,
 
 b) az elítélt a szabadságvesztésből börtönfokozatban legalább hat hónapot, fogházfokozatban legalább három hónapot nem töltött le,
 
@@ -16,9 +16,9 @@ d)
 
 e)
 
-f) a bíróság jogerős ítéletében fegyházbüntetésre ítélt elítélt a szabadságvesztés fokozatának enyhítésével [115. § (1) bekezdés] tölti a büntetését,
+f) a bíróság jogerős ügydöntő határozatában fegyházbüntetésre ítélt elítélt a szabadságvesztés fokozatának enyhítésével [115. § (1) bekezdés] tölti a büntetését,
 
-g) az elítélt ellen szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyész, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa,
+g) az elítélt ellen szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa,
 
 h) az elítélttel szemben egyidejűleg több szabadságvesztés végrehajtására érkezik értesítés, és a büntetések nincsenek összbüntetésbe foglalva.
 

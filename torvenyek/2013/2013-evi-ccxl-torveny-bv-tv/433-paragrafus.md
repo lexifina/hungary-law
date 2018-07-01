@@ -18,7 +18,7 @@
 
 (3) A szabálysértési elzárás nem hajtható végre, ha
 
-a) az elkövető a szabálysértési elzárást kiszabó határozat jogerőre emelkedését követően egy évet meghaladó időt töltött szabadságvesztésben, elzárásban, javítóintézeti nevelésben vagy előzetes letartóztatásban,
+a) az elkövető a szabálysértési elzárást kiszabó határozat jogerőre emelkedését követően egy évet meghaladó időt töltött szabadságvesztésben, elzárásban, javítóintézeti nevelésben vagy letartóztatásban,
 
 b) a szabálysértési elzárás kiszabását kizáró körülmény következett be,
 

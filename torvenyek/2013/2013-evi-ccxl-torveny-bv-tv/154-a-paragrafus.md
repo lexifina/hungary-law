@@ -10,6 +10,6 @@ d) a magánál tartható tárgyainak körét
 
 korlátozhatja.
 
-(2) Az (1) bekezdés szerinti intézkedés elrendeléséről az ügyészt haladéktalanul értesíteni kell.
+(2) Az (1) bekezdés szerinti intézkedés elrendeléséről az ügyészséget haladéktalanul értesíteni kell.
 
 (3) Az (1) bekezdés szerinti terrorfokozat megszüntetését követően az elítéltek elmaradt jogainak gyakorlását utólag lehetővé kell tenni.

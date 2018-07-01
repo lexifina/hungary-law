@@ -4,6 +4,6 @@
 
 (2) A pénzbüntetés megfizetésére adott halasztás fontos okból egy alkalommal, legfeljebb további három hónappal meghosszabbítható.
 
-(3) A részletfizetés olyan, havonta fizetendő összegben engedélyezhető, amely osztható a pénzbüntetés esetén az ítéletben megállapított napi tétel összegével.
+(3) A részletfizetés olyan, havonta fizetendő összegben engedélyezhető, amely osztható a pénzbüntetés esetén az ügydöntő határozatban megállapított napi tétel összegével.
 
 (4) A pénzbüntetés szabadságvesztésre történő átváltoztatását követően halasztás vagy részletfizetés nem engedélyezhető.

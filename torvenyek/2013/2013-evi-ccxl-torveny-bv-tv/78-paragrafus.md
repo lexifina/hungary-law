@@ -2,7 +2,7 @@
 
 a) a Be. szerinti őrizet,
 
-b) ha az előzetes letartóztatást, a szabálysértési elzárást rendőrségi fogdában hajtják végre, az előzetes letartóztatás, a szabálysértési elzárás,
+b) ha a letartóztatást, a szabálysértési elzárást rendőrségi fogdában hajtják végre, a letartóztatás, a szabálysértési elzárás,
 
 c) a pártfogó felügyelet,
 

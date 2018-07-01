@@ -8,13 +8,13 @@
 
 (4) Az ideiglenes elbocsátás véglegessé válik, ha a fiatalkorú annak tartama alatt betölti a huszonegyedik életévét.
 
-(5) A javítóintézet a fiatalkorú ideiglenes elbocsátásának várható időpontjáról legalább két hónappal korábban értesíti a fiatalkorú lakóhelye, ennek hiányában tartózkodási helye szerint illetékes pártfogó felügyelői szolgálatot, és a pártfogó felügyelővel együttműködve előkészíti az ideiglenes elbocsátást.
+(5) A javítóintézet a fiatalkorú ideiglenes elbocsátásának várható időpontjáról legalább két hónappal korábban értesíti a fiatalkorú lakcíme, illetve tényleges tartózkodási helye szerint illetékes pártfogó felügyelői szolgálatot, és a pártfogó felügyelővel együttműködve előkészíti az ideiglenes elbocsátást.
 
 (6) Az ideiglenes elbocsátás előkészítése során
 
 a) a javítóintézet annak esedékessége előtt legalább három hónappal a külön magatartási szabályok előírása érdekében a büntetés-végrehajtási bírónál pártfogó felügyelői vélemény beszerzésére javaslatot tehet,
 
-b) a fiatalkorú családját, gondozóját fel kell készíteni a fiatalkorú visszafogadására, vagy ha a családba való visszatérés nem lehetséges, megfelelő elhelyezéséről kell gondoskodni, nagykorúsága elérése esetén elő kell segíteni, hogy – legalább – lakhatása biztosítva legyen,
+b) a fiatalkorú családját, gondozását ellátó nagykorú személyt fel kell készíteni a fiatalkorú visszafogadására, vagy ha a családba való visszatérés nem lehetséges, megfelelő elhelyezéséről kell gondoskodni, nagykorúsága elérése esetén elő kell segíteni, hogy – legalább – lakhatása biztosítva legyen,
 
 c) elő kell segíteni továbbá azt, hogy a fiatalkorú folytathassa tanulmányait vagy munkába álljon.
 

@@ -6,7 +6,7 @@
 
 a) az ügy számát,
 
-b) az elítélt természetes személyazonosító adatait, lakóhelyének, tartózkodási helyének címét, és egyéb elérhetőségét,
+b) az elítélt természetes személyazonosító adatait, lakcímét, kézbesítési címét, tényleges tartózkodási helyének címét, és egyéb elérhetőségét,
 
 c) a munkahelyen történő megjelenések időpontját,
 
@@ -28,7 +28,7 @@ e) a pártfogó felügyelővel együttműködni és számára a szükséges táj
 
 (4) A közérdekű munka végrehajtása során a munkahely kötelességei:
 
-a) az elítéltet az ítélet és a kijelölésről szóló határozat szerinti közérdekű munkával, hetente legalább egy napon, napi legalább négy és legfeljebb tizenkét óra közötti tartamban foglalkoztatni,
+a) az elítéltet az ügydöntő határozat és a kijelölésről szóló határozat szerinti közérdekű munkával, hetente legalább egy napon, napi legalább négy és legfeljebb tizenkét óra közötti tartamban foglalkoztatni,
 
 b) az egészséget nem veszélyeztető és biztonságos munkavégzés feltételeit biztosítani,
 

@@ -2,7 +2,7 @@
 
 313. § (1) A pártfogó felügyelet tartama alatt a pártfogolt köteles
 
-a) a bíróság határozatában előírt külön magatartási szabályokat és az e törvényben meghatározott kötelezettségeket (a továbbiakban együtt: magatartási szabályok) megtartani,
+a) a bíróság ügydöntő határozatában előírt külön magatartási szabályokat és az e törvényben meghatározott kötelezettségeket (a továbbiakban együtt: magatartási szabályok) megtartani,
 
 b) a pártfogó felügyelőnek vagy a büntetés-végrehajtási pártfogó felügyelőnek és a rendőrségnek a magatartási szabályok megtartására és ellenőrzésére vonatkozó rendelkezéseit teljesíteni, a kért felvilágosítást megadni,
 
@@ -22,4 +22,4 @@ d) kérheti csoportos foglalkozáson való részvételét.
 
 (4) A magatartási szabályok megtartását a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő ellenőrzi, abban a rendőrség a 310. § (4) bekezdése szerint vagy a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő megkeresésére közreműködik.
 
-(5) Ha a pártfogó felügyelet eredményes végrehajtása érdekében a külön magatartási szabály módosítása vagy mellőzése indokoltnak tűnik, a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő az ellenőrzési tapasztalatai, vagy a rendőrség kezdeményezése vagy a pártfogolt kérelme alapján a külön magatartási szabály megváltoztatásának indítványozására az ügyésznek javaslatot tesz.
+(5) Ha a pártfogó felügyelet eredményes végrehajtása érdekében a külön magatartási szabály módosítása vagy mellőzése indokoltnak tűnik, a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő az ellenőrzési tapasztalatai, vagy a rendőrség kezdeményezése vagy a pártfogolt kérelme alapján a külön magatartási szabály megváltoztatásának indítványozására az ügyészségnek javaslatot tesz.

@@ -12,7 +12,7 @@
 
 (4) A közérdekű munka végrehajtása során a napi munkaidő legalább négy óra, legfeljebb tizenkét óra. A közérdekű munkavégzés heti időtartama legalább négy óra, de a negyvennyolc órát nem haladhatja meg. A letöltött közérdekű munkát órákban kell nyilvántartani.
 
-(5) A közérdekű munkát az első munkahely kijelöléséről szóló határozat jogerőre emelkedésétől számított két éven belül végre kell hajtani. Ha két éven belül a közérdekű munkát az elítélt önhibájából nem végzi el, a pártfogó felügyelő jelentést készít, és a 290. § (2) bekezdése szerint kezdeményezi az ügyésznél a közérdekű munka szabadságvesztésre való átváltoztatásának indítványozását.
+(5) A közérdekű munkát az első munkahely kijelöléséről szóló határozat jogerőre emelkedésétől számított két éven belül végre kell hajtani. Ha két éven belül a közérdekű munkát az elítélt önhibájából nem végzi el, a pártfogó felügyelő jelentést készít, és a 290. § (2) bekezdése szerint kezdeményezi az ügyészségnél a közérdekű munka szabadságvesztésre való átváltoztatásának indítványozását.
 
 (5a) Az (5) bekezdésben meghatározott határidőbe nem számít be
 
@@ -34,4 +34,4 @@ b) munkahelyi vagy üzemi baleset esetén a külön törvény szerinti baleseti 
 
 (8) A közérdekű munka végrehajtása során az elítéltnek az általa okozott kárért való felelősségére, vagy az elítéltet ért kárért a munkahely felelősségére az Mt. rendelkezéseit kell alkalmazni azzal, hogy az elítélt anyagi felelősségének a mértékét a hasonló munkakörben foglalkoztatott munkavállalók távolléti díjának figyelembevételével kell megállapítani.
 
-(9) A közérdekű munka végrehajtásának elévülését félbeszakítja, ha az elítélttel szemben szabadságvesztést, elzárást, közérdekű munka vagy pénzbüntetés helyébe lépő szabadságvesztést vagy előzetes letartóztatást vesznek foganatba. Ezeknek a körülményeknek a megszűnéséig az elévülés nyugszik.
+(9) A közérdekű munka végrehajtásának elévülését félbeszakítja, ha az elítélttel szemben szabadságvesztést, elzárást, közérdekű munka vagy pénzbüntetés helyébe lépő szabadságvesztést vagy letartóztatást vesznek foganatba. Ezeknek a körülményeknek a megszűnéséig az elévülés nyugszik.

@@ -6,7 +6,7 @@ a) biztonsági ellenőrzés, vizsgálat és szemle, személyes használati tárg
 
 b) biztonsági elkülönítése rendelhető el.
 
-(2) A biztonsági elkülönítést a fiatalkorú felügyeletét ellátó dolgozó kezdeményezésére, az igazgató vagy távollétében az ügyeletes vezető írásban rendelheti el. Az elrendelésről értesíteni kell a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészt.
+(2) A biztonsági elkülönítést a fiatalkorú felügyeletét ellátó dolgozó kezdeményezésére, az igazgató vagy távollétében az ügyeletes vezető írásban rendelheti el. Az elrendelésről értesíteni kell a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészséget.
 
 (3) A biztonsági elkülönítés elrendelésével egyidejűleg intézkedni kell a fiatalkorú haladéktalan orvosi vizsgálatáról. A biztonsági elkülönítés az orvos által szükségesnek tartott ideig, de legfeljebb huszonnégy óráig tarthat. Ha a fiatalkorú magatartása ezt követően sem rendeződik, a pszichiátriai kezelését a pszichiáter szakorvos rendelkezése szerint a biztonsági elkülönítőben vagy az intézet egészségügyi részlegén vagy fekvőbeteg-ellátó intézményben folytatni kell.
 

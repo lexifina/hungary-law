@@ -8,7 +8,7 @@
 
 a) rendszeres kapcsolattartás útján figyelemmel kíséri a pártfogolt életvitelét, munkáját és magatartását,
 
-b) szolgálati és lakóhelyén ellenőrzi, hogy a pártfogolt betartja-e a magatartási szabályokat, szükség esetén utasítja azok betartására,
+b) szolgálati helyén és lakcímén vagy tényleges tartózkodási helyén ellenőrzi, hogy a pártfogolt betartja-e a magatartási szabályokat, szükség esetén utasítja azok betartására,
 
 c) munkáltatói jogkört gyakorló parancsnoka útján kezdeményezi a külön magatartási szabályok módosítását, vagy a magatartási szabályok megszegése esetén a területileg illetékes ügyészség tájékoztatását.
 
@@ -20,6 +20,6 @@ a) az előírt magatartási szabályokat megtartani,
 
 b) a pártfogó felügyelő utasításait teljesíteni.
 
-(6) Ha a pártfogó felügyelet alá helyezett katona szolgálati viszonya a pártfogó felügyelet tartama alatt szűnik meg, köteles jelentkezni a lakóhelye szerint illetékes pártfogó felügyelőnél.
+(6) Ha a pártfogó felügyelet alá helyezett katona szolgálati viszonya a pártfogó felügyelet tartama alatt szűnik meg, köteles jelentkezni a lakcíme szerint illetékes pártfogó felügyelőnél.
 
-(7) A szolgálati viszony megszűnéséről a munkáltatói jogkört gyakorló parancsnok haladéktalanul értesíti a pártfogolt lakóhelye, ennek hiányában tartózkodási helye szerint illetékes pártfogó felügyelői szolgálatot és rendőrkapitányságot, egyidejűleg közli a megállapított külön magatartási szabályokat. A továbbiakban a pártfogó felügyelet végrehajtására az általános szabályokat kell alkalmazni.
+(7) A szolgálati viszony megszűnéséről a munkáltatói jogkört gyakorló parancsnok haladéktalanul értesíti a pártfogolt lakcíme, illetve tényleges tartózkodási helye szerint illetékes pártfogó felügyelői szolgálatot és rendőrkapitányságot, egyidejűleg közli a megállapított külön magatartási szabályokat. A továbbiakban a pártfogó felügyelet végrehajtására az általános szabályokat kell alkalmazni.

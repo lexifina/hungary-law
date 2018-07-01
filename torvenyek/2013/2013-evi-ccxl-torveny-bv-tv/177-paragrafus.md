@@ -6,7 +6,7 @@
 
 (3) Ha a bv. intézet biztonsága indokolja, a bv. intézet parancsnoka elrendelheti, hogy az elítélt biztonsági beszélő fülkében, vagy rácson keresztül beszélhet a látogatóval.
 
-(4) A látogatásból ki kell zárni azt, akit az ügyész vagy a bíróság a folyamatban lévő büntetőeljárás eredményessége érdekében attól eltiltott, illetve azt, akinek a magatartása a bv. intézet, valamint a fogvatartás biztonságára veszélyt jelent.
+(4) A látogatásból ki kell zárni azt, akit az ügyészség vagy a bíróság a folyamatban lévő büntetőeljárás eredményessége érdekében attól eltiltott, illetve azt, akinek a magatartása a bv. intézet, valamint a fogvatartás biztonságára veszélyt jelent.
 
 (5) A látogatás félbeszakítható, ha az elítélt vagy a látogató a látogatás rendjét megsérti, és azt figyelmeztetés ellenére sem hagyja abba.
 

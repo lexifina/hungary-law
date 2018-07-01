@@ -4,7 +4,7 @@
 
 (3) A Kegyelmi Bizottság eseti jelleggel, tagjainak kijelölésétől a Kegyelmi Bizottság állásfoglalásának az igazságügyért felelős miniszternek történő megküldéséig működik.
 
-(4) A Kegyelmi Bizottság tagjait az (1) bekezdés szerinti értesítést követően haladéktalanul a Kúria elnöke jelöli ki a Kúria büntető kollégiumának javaslata alapján. A Kegyelmi Bizottság tagjává a Kúrián vagy az ítélőtáblán büntető ügyekben eljáró bíró jelölhető ki. A kijelöléshez a bíró hozzájárulása szükséges.
+(4) A Kegyelmi Bizottság tagjait az (1) bekezdés szerinti értesítést követően haladéktalanul a Kúria elnöke jelöli ki a Kúria büntető kollégiumának javaslata alapján. A Kegyelmi Bizottság tagjává a Kúrián vagy az ítélőtáblán büntetőügyekben eljáró bíró jelölhető ki. A kijelöléshez a bíró hozzájárulása szükséges.
 
 (5) A Kegyelmi Bizottság tagjává nem jelölhető ki olyan bíró, aki
 

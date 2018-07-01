@@ -4,4 +4,4 @@
 
 (2) A bűnügyi költséget az állam viseli.
 
-(3) Az (1)–(2) bekezdés irányadó az elzárásra ítéltnek és a szabálysértési elzárást töltő elkövetőnek, valamint az előzetesen letartóztatottnak és a rendbírság helyébe lépő elzárásra kötelezettnek a magánelzárás fenyítést kiszabó határozat elleni bírósági felülvizsgálati kérelme elbírálására.
+(3) Az (1)–(2) bekezdés irányadó az elzárásra ítéltnek és a szabálysértési elzárást töltő elkövetőnek, valamint a letartóztatottnak és a rendbírság helyébe lépő elzárásra kötelezettnek a magánelzárás fenyítést kiszabó határozat elleni bírósági felülvizsgálati kérelme elbírálására.

@@ -6,4 +6,4 @@
 
 (3) A bűnügyi költséget az állam viseli.
 
-(4) Az (1)–(3) bekezdést alkalmazni kell – a kényszergyógykezelt, illetve az ideiglenesen kényszergyógykezelt kivételével – az egyéb jogcímen fogvatartott vagy védője kérelmének elbírálására is.
+(4) Az (1)–(3) bekezdést alkalmazni kell – a kényszergyógykezelt, illetve az előzetes kényszergyógykezelt kivételével – az egyéb jogcímen fogvatartott vagy védője kérelmének elbírálására is.

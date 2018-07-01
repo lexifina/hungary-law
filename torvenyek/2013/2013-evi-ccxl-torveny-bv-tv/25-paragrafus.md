@@ -6,6 +6,6 @@ a) a határozat ellen bírósági felülvizsgálati kérelmet nem nyújtottak be
 
 b) a bírósági felülvizsgálati kérelem benyújtásáról a jogosult lemondott, vagy a kérelmet visszavonták, a határozat a lemondás, illetve a visszavonás napján,
 
-c) a büntetés-végrehajtási bíró a benyújtott bírósági felülvizsgálati kérelmet jogerősen elbírálta, a határozat a jogerő beállta napján
+c) a büntetés-végrehajtási bíró a benyújtott bírósági felülvizsgálati kérelmet jogerősen elbírálta, a határozat a büntetés-végrehajtási bíró határozatának véglegessé válása napján
 
 hajtható végre.

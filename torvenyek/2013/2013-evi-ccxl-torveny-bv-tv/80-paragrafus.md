@@ -4,7 +4,7 @@ a) a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak b
 
 b) a Bnytv. 16. § (1) bekezdés c)–l) pontjában és (2) bekezdés m) pontjában meghatározott adatokat, ha az érintettel szemben kényszergyógykezelést rendeltek el,
 
-c) a Bnytv. 23. § c) és h) pontjában meghatározott adatokat, ha a terhelttel szemben előzetes letartóztatást, lakhelyelhagyási tilalmat, házi őrizetet vagy ideiglenes kényszergyógykezelést rendeltek el.
+c) a Bnytv. 23. § c) és h) pontjában meghatározott adatokat, ha a terhelttel szemben letartóztatást, bűnügyi felügyeletet vagy előzetes kényszergyógykezelést rendeltek el.
 
 (2) Az (1) bekezdés alapján átvett adatokat törölni kell, ha
 
@@ -12,4 +12,4 @@ a) azokat a bűnügyi nyilvántartásból törölték,
 
 b) ha a közérdekű munkát vagy a pártfogó felügyeletet végrehajtották, vagy
 
-c) a közérdekű munka a pártfogó felügyelet végrehajtása megszűnt.
+c) a közérdekű munka végrehajthatósága, illetve a pártfogó felügyelet végrehajtása megszűnt.

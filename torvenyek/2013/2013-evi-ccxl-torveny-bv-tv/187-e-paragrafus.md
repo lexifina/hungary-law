@@ -1,6 +1,6 @@
 187/E. § (1) A bv. szerv vezetője a reintegrációs őrizet megszüntetéséről haladéktalanul előterjesztést tesz a büntetés-végrehajtási bírónál, ha annak tartama alatt
 
-a) végrehajtandó szabadságvesztésről, új büntető ügyről érkezik értesítés,
+a) végrehajtandó szabadságvesztésről, új büntetőügyről érkezik értesítés,
 
 b) az elítélt a magatartási, illetve az elektronikus távfelügyeleti eszköz vállalt alkalmazási szabályait megszegi, az elektronikus távfelügyeleti eszközt megrongálja vagy használhatatlanná teszi,
 

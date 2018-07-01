@@ -1,10 +1,10 @@
 419. § (1) Kapcsolattartásra jogosult a fiatalkorú a hozzátartozójával, szülői felügyeleti jogát gyakorló szülőjével, más törvényes képviselőjével, ha a kapcsolattartást kizáró ok nem merült fel.
 
-(2) Az ellenőrzés nélküli érintkezés lehetőségét kell biztosítani – az intézet házirendje szerint – az előzetesen letartóztatott fiatalkorú és
+(2) Az ellenőrzés nélküli érintkezés lehetőségét kell biztosítani – az intézet házirendje szerint – a letartóztatott fiatalkorú és
 
 a) védője,
 
-b) a jogszabályok által az alapvető jogok védelmére feljogosított szervezet tagja, a nemzeti megelőző mechanizmus feladatainak teljesítésére felhatalmazott munkatársa, továbbá a karitatív tevékenységet végző egyházi jogi személy vagy civil szervezet tagja,
+b) a jogszabályok által az alapvető jogok védelmére feljogosított szervezet tagja, a nemzeti megelőző mechanizmus feladatainak teljesítésére felhatalmazott munkatársa,
 
 c) nevelésbe vett fiatalkorú esetén a gyermekvédelmi gyámja,
 

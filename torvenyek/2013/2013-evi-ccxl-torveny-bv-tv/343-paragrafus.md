@@ -10,7 +10,7 @@
 
 (3) A törvényes képviselőt és a szülőt tájékoztatni kell az őket érintő szabályokról, különösen a levelezés, a csomagküldés, a telefonbeszélgetés, a látogatás rendjéről, valamint a fiatalkorú eltávozásra, szabadságra menetelének lehetőségéről.
 
-(4) A törvényes képviselő, a szülő vagy a fiatalkorú gondozója a fiatalkorú nevelése, gondozása érdekében együttműködésre köteles a javítóintézettel. Ennek keretében köteles tájékoztatni a javítóintézetet a fiatalkorú esetleges egészségügyi problémájáról, korábbi gyógykezeléséről.
+(4) A törvényes képviselő, a szülő vagy a fiatalkorú gondozását ellátó nagykorú személy a fiatalkorú nevelése, gondozása érdekében együttműködésre köteles a javítóintézettel. Ennek keretében köteles tájékoztatni a javítóintézetet a fiatalkorú esetleges egészségügyi problémájáról, korábbi gyógykezeléséről.
 
 (5) A fiatalkorú neveléséhez és a társadalomba való beilleszkedésének elősegítéséhez igénybe kell venni a gyámhatóságnak, a pártfogó felügyelőnek, az erre szakosodott szociális, karitatív és öntevékeny szervezeteknek, valamint a fiatalkorú szülőjének, gyámjának vagy más hozzátartozójának a közreműködését.
 

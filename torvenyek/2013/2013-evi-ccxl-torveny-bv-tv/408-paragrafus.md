@@ -1,3 +1,3 @@
-## Az előzetesen letartóztatott jutalmazása és fenyítése
+## A letartóztatott jutalmazása és fenyítése
 
-408. § Az előzetesen letartóztatott számára adható jutalmak közül a 165. § (2) bekezdés h)–j) pontja nem alkalmazható.
+408. § A letartóztatott számára adható jutalmak közül a 165. § (2) bekezdés h)–j) pontja nem alkalmazható.

@@ -2,7 +2,7 @@
 
 ## A PRÓBÁRA BOCSÁTÁS VÉGREHAJTÁSA
 
-308. § (1) A próbaidő a próbára bocsátást elrendelő határozat jogerőre emelkedésével kezdődik.
+308. § (1) A próbaidő a próbára bocsátást elrendelő ügydöntő határozat jogerőre emelkedésével kezdődik.
 
 (2) Ha a bíróság a próbaidőt meghosszabbítja, a meghosszabbítás a próbaidő korábbi határidejének elteltével kezdődik. Ilyen esetben a próbaidő tartama a három évet meghaladhatja.
 

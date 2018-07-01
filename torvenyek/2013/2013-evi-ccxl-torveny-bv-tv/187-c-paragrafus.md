@@ -2,7 +2,7 @@
 
 a) az elítélttel szemben további szabadságvesztést kell végrehajtani,
 
-b) az elítélttel szemben folyamatban lévő büntetőügyben elrendelt előzetes letartóztatását a szabadságvesztés végrehajtásának idejére megszakították,
+b) az elítélttel szemben folyamatban lévő büntetőügyben elrendelt letartóztatását a szabadságvesztés végrehajtásának idejére megszakították,
 
 c) a fogvatartása során engedélyezett reintegrációs őrizetet az elítéltnek felróható okból megszüntették,
 
