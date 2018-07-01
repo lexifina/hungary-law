@@ -1,4 +1,4 @@
-59. § (1) A fegyelmi eljárás alá vont a munkaköréből felfüggeszthető, ha a szolgálati helyén való jelenléte a tényállás megállapítását gátolná, ha büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – hatálya alatt áll, a büntetőeljárás jogerős bejezéséig, továbbá ha a fegyelemsértés jellege egyébként azt indokolja.
+59. § (1) A fegyelmi eljárás alá vont a munkaköréből felfüggeszthető, ha a szolgálati helyén való jelenléte a tényállás megállapítását gátolná, ha büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll, továbbá ha a fegyelemsértés jellege egyébként azt indokolja.
 
 (2) A felfüggesztés legfeljebb a fegyelmi határozat jogerőre emelkedéséig tarthat. A hivatalvesztés, illetve az elbocsátás fegyelmi büntetéssel – az erről szóló határozat jogerőre emelkedéséig – a felfüggesztés együtt jár. A felfüggesztést haladéktalanul meg kell szüntetni, ha annak indoka már nem áll fenn.
 
