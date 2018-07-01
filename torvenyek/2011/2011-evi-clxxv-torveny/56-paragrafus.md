@@ -16,7 +16,7 @@ f) civil szférával kapcsolatos szolgáltató, tanácsadó, oktatási, fejleszt
 
 g) civil szférát bemutató kiadványok, elektronikus és írott szakmai sajtó támogatása;
 
-h) civil szervezetek pályázati önrészeinek támogatása;
+h) helyi vagy területi hatókörű civil szervezetek egyszerűsített támogatása, amelyet a civil szervezet alapcél szerinti tevékenységéhez kapcsolódó költségeinek fedezésére fordít.
 
 i) adományosztó szervezeteknek szóló juttatás a Nemzeti Együttműködési Alap Tanácsa (továbbiakban: Tanács), illetve a kollégiumok egységes elvek mentén meghatározott, forrásautomatizmus biztosításáról szóló döntései alapján;
 
