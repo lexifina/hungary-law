@@ -20,7 +20,7 @@ bc) olyan bűntett miatt, amelyet bűnszervezet keretében követett el,
 
 szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
 
-c) bűntett vagy háromévi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség elkövetésének megalapozott gyanúja miatt büntetőeljárás alatt áll, a büntetőeljárás jogerős befejezéséig,
+c) bűntett vagy háromévi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség miatt büntetőeljárás hatálya alatt áll,
 
 d) ellen a tervezett alkalmazását megelőző két évben ipari robbantóanyaggal és pirotechnikai termékekkel, lőfegyverrel, közbiztonságra különösen veszélyes eszközzel kapcsolatos szabálysértés, rendzavarás, számszeríj vagy szigonypuska jogellenes használata, veszélyes fenyegetés, jogosulatlan vadászat, természetvédelmi szabálysértés elkövetése miatt büntetést szabtak ki vagy intézkedést alkalmaztak.
 
