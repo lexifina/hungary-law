@@ -8,7 +8,7 @@ b) a pénzügyi intézmény a banktitokról,
 
 c) a kezelést végző orvos az orvosi titokról,
 
-d) a nyomozó hatóság, az ügyész, illetve a bíróság a büntetőeljárás állásáról,
+d) a bíróság, az ügyészség és a nyomozó hatóság a büntetőeljárás állásáról,
 
 e) a szabálysértési hatóság, illetve a bíróság a szabálysértési eljárás állásáról,
 

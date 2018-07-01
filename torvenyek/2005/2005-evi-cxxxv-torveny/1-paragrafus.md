@@ -24,7 +24,7 @@ f) az állampolgársága szerinti államnak Magyarországgal kötött nemzetköz
 
 a) bűncselekmény esetén
 
-aa) a feljelentés elutasítására, a nyomozás megszüntetésére, az eljárás megszüntetésére, illetve a vádlott felmentésére gyermekkor, kóros elmeállapot, kényszer vagy fenyegetés, tévedés, jogos védelem, végszükség vagy elöljáró parancsa,
+aa) a feljelentés elutasítására, az eljárás megszüntetésére, illetve a vádlott felmentésére gyermekkor, kóros elmeállapot, kényszer vagy fenyegetés, tévedés, jogos védelem, végszükség vagy elöljáró parancsa,
 
 ab) a feljelentés elutasítására, illetve az eljárás megszüntetésére a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 25. §-ában – illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 32. §-ában – meghatározott büntethetőséget megszüntető ok,
 

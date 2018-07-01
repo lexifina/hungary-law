@@ -38,4 +38,4 @@ nyújt a sérelem rendezéséhez.
 
 (7) A szolgáltatások a rászorultság vizsgálata nélkül, térítésmentesen járnak az áldozatnak.
 
-(8) Amennyiben az áldozat az (1) bekezdés a) vagy e) pontjában foglalt szolgáltatás iránt fordul az áldozatsegítő szolgálathoz, az áldozatsegítő szolgálat nevében eljáró hivatalos személy mentesül a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 171. § (2) bekezdésében foglalt kötelezettség alól.
+(8) Amennyiben az áldozat az (1) bekezdés a) vagy e) pontjában foglalt szolgáltatás iránt fordul az áldozatsegítő szolgálathoz, az áldozatsegítő szolgálat nevében eljáró hivatalos személy mentesül a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 376. § (2)–(3) bekezdésében foglalt kötelezettség alól.
