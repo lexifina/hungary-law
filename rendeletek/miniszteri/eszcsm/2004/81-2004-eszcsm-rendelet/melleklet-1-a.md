@@ -2,17 +2,21 @@
 
 ## szociális szolgáltatásokat végzők képzésére
 
+## (elektronikusan nyújtható be)
+
 ## 1. Személyes adatok:
 
-## Jelentkező neve:
+## 1.1. Jelentkező neve:
 
-## Születési hely:
+## 1.2. Születési hely:
 
-## Születési idő: ............ év .............................. hónap ...... nap
+## 1.3. Születési idő: ....................... év ................................................. hónap ........ nap
 
-## Anyja neve:
+## 1.4. Anyja neve:
 
-## Értesítési cím, telefonszám:
+## 1.5. Postai levelezési cím:
+
+## 1.6. Elektronikus levelezési cím, telefonszám:
 
 ## 2. A képzések közül az alábbira jelentkezem:
 
@@ -34,19 +38,19 @@
 
 ## 3. A képzést az alábbi képzőhelyen kívánom elvégezni:
 
-| Ha vállalja, hogy a jelentkezését átirányítsák, amennyiben a választott helyszínen az adott időszakban nem indul képzés, adja meg alkalmassági sorrendben az átirányítás helyszíneit: |
+## Ha vállalja, hogy a jelentkezését átirányítsák, amennyiben a választott helyszínen az adott időszakban nem indul képzés, adja meg alkalmassági sorrendben az átirányítás helyszíneit:
 
-|  | 1. |
+## 1.
 
-|  | 2. |
+## 2.
 
-|  | 3. |
+## 3.
 
-## Kelt ........................, ........... év .............. hónap ........ napján.
+## Kelt: ..........................................................., ........... év ................................ hónap ....... napján.
 
-|  | ...................................... |
+## ........................................................................
 
-|  | jelentkező aláírása |
+## jelentkező aláírása
 
 1/A. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^29]
 

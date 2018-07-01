@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-81-20-0
 | 2015-10-29 | 2004-81-20-0M.9 | 48/2015. (X. 28.) EMMI rendelet |
 | 2017-01-01 | 2004-81-20-0M.10 | 43/2016. (XII. 27.) EMMI rendelet |
 | 2018-02-06 | 2004-81-20-0M.11 | 7/2018. (II. 5.) EMMI rendelet |
+| 2018-07-01 | 2004-81-20-0M.12 | 43/2016. (XII. 27.) EMMI rendelet |

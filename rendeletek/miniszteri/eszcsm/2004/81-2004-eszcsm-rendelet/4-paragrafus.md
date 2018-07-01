@@ -1,6 +1,6 @@
 ## 3. §[^6] A Főigazgatóság a képzésekkel kapcsolatosan minden év februárjában közleményt jelentet meg a honlapján és a Szociális Ágazati Portálon, amely tartalmazza a jelentkezéssel és a képzéssel kapcsolatos tudnivalókat, így különösen a képzés helyét, időpontját, a jelentkezési díjat és a képzési térítési díjat.
 
-4. § (1)[^7] A jelentkező a képzésen való részvételi szándékát az 1. számú melléklet szerinti jelentkezési lapnak a Főigazgatósághoz történő megküldésével jelzi.
+4. § (1)[^7] A jelentkező a képzésen való részvételi szándékát az 1. számú melléklet szerinti jelentkezési lapnak a Főigazgatósághoz elektronikusan történő benyújtásával jelzi.
 
 (2) A jelentkezés elfogadásának feltétele a jelentkezési díj megfizetése.
 
@@ -11,7 +11,7 @@
 (5)[^10] A Főigazgatóság a jelentkezőket – az 1. számú melléklet 3. pontjának figyelembevételével – úgy osztja el a képzést végző intézmények (a továbbiakban: képzőhely) között, hogy a képzőhely és a jelentkező lakóhelye egymáshoz a lehető legközelebb legyen.
 
 [^6]: A 3. § a 43/2016. (XII. 27.) EMMI rendelet 17. §-ával megállapított szöveg.
-[^7]: A 4. § (1) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 19. § c) pontja szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 19. § c) pontja, a 7/2018. (II. 5.) EMMI rendelet 47. §-a szerint módosított szöveg.
 [^8]: A 4. § (3) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 19. § d) pontja szerint módosított szöveg.
 [^9]: A 4. § (4) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 19. § d) pontja szerint módosított szöveg.
 [^10]: A 4. § (5) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 19. § d) pontja szerint módosított szöveg.
