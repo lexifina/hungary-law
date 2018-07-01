@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-120-00-00
 | 2017-11-21 | 2017. évi CXLV. törvény | 2001-120-00-00.69 |
 | 2018-01-01 | 2017. évi L. törvény | 2001-120-00-00.70 |
 | 2018-01-03 | 2017. évi LXIX. törvény | 2001-120-00-00.71 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2001-120-00-00.72 |

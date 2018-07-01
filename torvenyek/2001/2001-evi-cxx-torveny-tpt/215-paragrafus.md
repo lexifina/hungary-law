@@ -28,6 +28,6 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (2) Az (1) bekezdés k)–l) pontjában meghatározott ok akkor zárja ki a kártalanítást, ha az a kártalanítási igény alapjául szolgáló szerződés megkötésétől a kártalanítási igény benyújtásáig terjedő időszakban, vagy annak egy része alatt fennállt az Alap azon tagjánál, amellyel kapcsolatban kártalanítási eljárásra kerül sor.
 
-(3) Az Alap által nyújtott biztosítás nem terjed ki az olyan ügyletből eredő követelésre sem, amely esetében a bíróság jogerős határozata megállapította, hogy a befektetés forrása bűncselekményből származott.
+(3) Az Alap által nyújtott biztosítás nem terjed ki az olyan ügyletből eredő követelésre sem, amely esetében a bíróság jogerős ügydöntő határozata megállapította, hogy a befektetés forrása bűncselekményből származott.
 
 (4) Az Alap által nyújtott biztosítás nem terjed ki az olyan ügyletekből eredő pénzkövetelésre sem, amely nem euróban, vagy az Európai Unió, illetve az OECD tagállamának törvényes fizetőeszközében áll fenn.
