@@ -6,6 +6,6 @@
 
 (4) Az (1) és (2) bekezdésben meghatározott egészségi okokat az országos szakintézet vagy kollégium módszertani útmutatói alapján kell megállapítani.
 
-(5) Ha a terhesség bűncselekmény következménye, a bűncselekmény elkövetését, illetőleg annak alapos gyanúját a büntető ügyben eljáró szerv által kiadott igazolás igazolja.
+(5) Ha a terhesség bűncselekmény következménye, a bűncselekmény elkövetését, illetőleg annak gyanúját a büntető ügyben eljáró szerv által kiadott igazolás igazolja.
 
 (6) A súlyos válsághelyzet fennállását az állapotos nő, illetve – cselekvőképtelensége esetén – törvényes képviselője a kérelem aláírásával igazolja. Az állapotos nő cselekvőképtelensége esetén a terhességmegszakítással kapcsolatos véleményének kifejtésére a családvédelmi szolgálat eljárásában lehetőséget kell biztosítani.
