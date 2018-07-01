@@ -16,7 +16,7 @@ c) az átvett utasadatokról nyilvántartást vezet.
 
 (6) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (4) bekezdés b) pontja szerinti kockázatelemzés ellátása során elsőként automatizált kockázatelemzést végez. Ha az automatizált kockázatelemzésből találat származik, a Terrorelhárítási Információs és Bűnügyi Elemző Központ a találatot nem automatizált eszközökkel, emberi tényező bevonásával történő egyedi felülvizsgálat alá vonja.
 
-(7) Ha a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekmény elkövetésének lehetséges gyanúját észleli, a bűncselekmény megelőzésére, felderítésére, nyomozására hatáskörrel rendelkező szervet az utasadat átadásával egyidejűleg értesíti.
+(7) Ha a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, a 8/A. § (3) bekezdés i) pontjában meghatározottak szerint jár el.
 
 (8) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az átvett utasadatot a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz érkezést követő öt évig kezeli.
 

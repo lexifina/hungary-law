@@ -1,7 +1,11 @@
-55. § (1) A nemzetbiztonsági szolgálatok a legfőbb ügyész által kijelölt ügyész előzetes jóváhagyásával a nyomozás megtagadásának vagy megszüntetésének kilátásba helyezésével információszolgáltatásban állapodhatnak meg bűncselekmény elkövetésével alaposan gyanúsítható személlyel, ha az érintett személlyel történő együttműködéshez fűződő nemzetbiztonsági érdek jelentősebb, mint az állam büntetőjogi igényének érvényesítéséhez fűződő érdek.
+55. § (1) A nemzetbiztonsági szolgálatok a legfőbb ügyész által kijelölt ügyész engedélyével bűncselekmény elkövetőjével megállapodást köthetnek, amelyben számára kilátásba helyezik, hogy vele szemben büntetőeljárást nem indítanak, illetve a folyamatban lévő büntetőeljárást megszüntetik, ha az érintett személlyel történő együttműködéshez fűződő nemzetbiztonsági érdek jelentősebb, mint az állam büntetőjogi igényének érvényesítéséhez fűződő érdek.
 
-(2) Nem köthető megállapodás azzal a személlyel, aki olyan bűncselekményt követett el, amellyel más életét szándékosan kioltotta.
+(2) Nem köthető megállapodás, ha az elkövetővel szemben olyan bűncselekmény miatt kell büntetőeljárást folytatni, amellyel más életét szándékosan kioltotta vagy amellyel szándékosan maradandó fogyatékosságot vagy súlyos egészségromlást okozott. A megállapodást fel kell bontani, ha a nemzetbiztonsági szolgálatok arról szereznek tudomást, hogy az információt szolgáltató személy ilyen bűncselekményt követett el.
 
-(3) Az (1) bekezdésben meghatározott jogosultság a Nemzetbiztonsági Szakszolgálatot nem illeti meg.
+(3) Ha a bűncselekmény elkövetője a megállapodásban foglaltakat teljesíti, vele szemben büntetőeljárás nem indítható, illetve a folyamatban lévő büntetőeljárást meg kell szüntetni.
 
-(4) A megállapodás létrejötte esetén a nemzetbiztonsági szolgálatok megtérítik azt a kárt, amely az elkövetőt a polgári jog szerint terheli. A kártérítési igény tekintetében az államot az igazságügyért felelős miniszter képviseli.
+(4) Az (1) bekezdésben meghatározott jogosultság a Nemzetbiztonsági Szakszolgálatot és a Terrorelhárítási Információs és Bűnügyi Elemző Központot nem illeti meg.
+
+(5) Ha a megállapodás teljesítésére tekintettel az elkövetővel szemben nem indul büntetőeljárás vagy azt megszüntetik, az állam téríti meg azt a kárt, illetve sérelemdíjat, amelynek megtérítésére az elkövető a polgári jog szerint köteles, amennyiben azt az elkövető nem térítette meg. A kár megtérítése, illetve a sérelemdíj megfizetése érdekében a nemzetbiztonsági szolgálatok a sértettel titoktartási megállapodás megkötését kezdeményezhetik, illetve az ehhez szükséges iratokat elkészíthetik.
+
+(6) Ha a kártérítésről, illetve a sérelemdíj megfizetéséről polgári perben kell határozni, az ezek iránti igény jogalapját vélelmezni kell. A polgári perben az államot az igazságügyért felelős miniszter képviseli. A polgári perben eljáró bíróság a kereset elbírálása előtt beszerzi a nemzetbiztonsági szolgálat nyilatkozatát a felperes sérelmére elkövetett cselekményről, a cselekménnyel okozott kárról, illetve személyiségi jogsértésről. A nyilatkozat nem terjedhet ki olyan tényre, amelynek alapján a titkosan együttműködő személyre lehet következtetni.

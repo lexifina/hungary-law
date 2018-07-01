@@ -1,4 +1,4 @@
-## A titkos információgyűjtéssel kapcsolatos sajátos gazdálkodási szabályok
+## A titkosszolgálati tevékenységgel kapcsolatos sajátos gazdálkodási szabályok
 
 63. § (1) A nemzetbiztonsági szolgálatok költségvetésükben az alaptevékenységgel összefüggő speciális működési kiadásaik fedezésére elkülönített előirányzatot szerepeltethetnek. A speciális működési kiadásokat összevontan – az általános számviteli szabályoktól eltérően – egy összegben kell szerepeltetni.
 

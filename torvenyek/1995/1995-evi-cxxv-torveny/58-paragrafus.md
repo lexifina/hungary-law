@@ -9,3 +9,5 @@
 (5) A bíró a határidő meghosszabbítására vonatkozó döntése kialakításánál megismerheti az adott ügyben általa engedélyezett titkos információgyűjtés során szerzett és rögzített adatokat.
 
 (6) Az engedélyező eljárásáról, illetve a titkos információgyűjtés tényéről az érintettet nem tájékoztatja.
+
+(7) A bírói engedélyhez kötött eszköz alkalmazásának tényét igazoló, a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 257. § (2) bekezdése szerinti igazolás beszerzéséről a titkos információgyűjtést folytató szerv vezetője a büntetőeljárás kezdeményezését megelőzően gondoskodik. A törvényszék elnöke a Be. 257. § (2) bekezdése szerinti igazolást az erre irányuló kérelem érkezésétől számított három munkanapon belül állítja ki, amelyet a titkos információgyűjtést folytató szerv vezetője megküld a büntetőeljárás megindítására jogosult szervnek.

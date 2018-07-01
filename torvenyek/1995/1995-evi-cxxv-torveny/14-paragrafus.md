@@ -20,7 +20,7 @@ e) ha valamely nemzetbiztonsági szolgálat jogszabályellenes működését és
 
 f) ha bármely módon valamely nemzetbiztonsági szolgálat jogszabályellenes vagy nem rendeltetésszerű működését észleli, felhívhatja a minisztert a szükséges intézkedés megtételére, és kezdeményezheti a felelősség megvizsgálását; a miniszter a vizsgálat eredményéről tájékoztatja a Bizottságot;
 
-g) véleményezi a nemzetbiztonsági szolgálatok költségvetésének részletes tervezetét, a titkos információgyűjtésre jogosult egyéb szervezetek költségvetésének e tevékenységgel kapcsolatos tételeit, illetve az éves költségvetési törvény végrehajtásáról szóló részletes beszámoló tervezetét, a törvényjavaslatok tárgyalása során az elfogadásra vonatkozóan javaslatot tesz az Országgyűlésnek;
+g) véleményezi a nemzetbiztonsági szolgálatok költségvetésének részletes tervezetét, a titkos információgyűjtés folytatására feljogosított egyéb szervek költségvetésének e tevékenységgel kapcsolatos tételeit, illetve az éves költségvetési törvény végrehajtásáról szóló részletes beszámoló tervezetét, a törvényjavaslatok tárgyalása során az elfogadásra vonatkozóan javaslatot tesz az Országgyűlésnek;
 
 h) kinevezésük előtt meghallgatja a főigazgatói tisztségre jelölt személyeket, alkalmasságukról állást foglal;
 

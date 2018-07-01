@@ -16,12 +16,12 @@ f) a saját személyi állományuk és a velük együttműködő természetes sz
 
 g) fedőintézményt hozhatnak létre és tarthatnak fenn;
 
-h) a feladataik által érintett személyt, valamint azzal kapcsolatba hozható helyiséget, épületet és más objektumot, terep- és útvonalszakaszt, járművet, eseményt megfigyelhetik, az észlelteket technikai eszközzel rögzíthetik;
+h) a feladataik által érintett személyt, valamint az azzal kapcsolatba hozható lakást, egyéb helyiséget, bekerített helyet, továbbá nyilvános vagy a közönség részére nyitva álló helyet, illetve járművet titokban megfigyelhetnek, a történtekről információt gyűjthetnek, valamint az észlelteket technikai eszközzel rögzíthetik;
 
-i) az 56. §-ban foglaltakon kívül beszélgetést lehallgathatnak, az észlelteket technikai eszközökkel rögzíthetik;
+i) az 56. §-ban foglaltakon kívül beszélgetést lehallgathatnak, az észlelteket technikai eszközzel rögzíthetik;
 
-j) hírközlési rendszerekből és egyéb adattároló eszközökből információkat gyűjthetnek.
+j) elektronikus hírközlési eszközön vagy információs rendszeren folytatott kommunikáció tényének a megállapításához, az elektronikus hírközlési eszköz vagy információs rendszer azonosításához, illetve hollétének megállapításához szükséges adatokat megszerezhetik.
 
 (1a) Az (1) bekezdés f) és g) pontjában meghatározott feladat ellátása céljából a nemzetbiztonsági szolgálatok a 41. § (1) bekezdésben meghatározott nyilvántartásokban adatot helyezhetnek el.
 
-(2) Rendvédelmi szerv és a Nemzeti Adó- és Vámhivatal fedőintézményként, okmánya fedőokmányként csak az illetékes miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.
+(2) Rendvédelmi szerv, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség és a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatait ellátó szerve fedőintézményként, okmánya fedőokmányként csak az illetékes miniszter és az érintett szervezet országos vezetőjének, az Országgyűlési Őrség esetében a parancsnok és az Országgyűlés elnökének tájékoztatásával alkalmazható.

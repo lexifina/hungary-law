@@ -1,8 +1,8 @@
 8. § (1) A Nemzetbiztonsági Szakszolgálat
 
-a) a jogszabályok keretei között a titkos információgyűjtés, illetve a titkos adatszerzés eszközeivel és módszereivel – írásbeli megkeresésre – szolgáltatást végez a titkos információgyűjtésre, illetve a titkos adatszerzésre feljogosított szervek titkos információgyűjtő, valamint titkos adatszerző tevékenységéhez,
+a) a jogszabályok keretei között eszközeivel és módszereivel – írásbeli megkeresésre – szolgáltatást végez a titkos információgyűjtés, illetve a büntetőeljárásról szóló törvény szerinti leplezett eszközök (a továbbiakban: leplezett eszközök) alkalmazásának végrehajtásához a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek részére,
 
-b) törvény által titkos információgyűjtésre, valamint titkos adatszerzésre feljogosított szervek igényei alapján biztosítja az e tevékenységhez szükséges különleges technikai eszközöket és anyagokat,
+b) a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek igényei alapján biztosítja az e tevékenységhez szükséges különleges technikai eszközöket és anyagokat,
 
 c) speciális távközlési összeköttetést biztosít a Kormány által meghatározott felhasználók részére,
 
@@ -14,7 +14,7 @@ f) ellátja az objektumai műveleti védelmének és személyi állománya, vala
 
 g) elvégezheti a saját minősített beszerzései tekintetében a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést,
 
-h) törvény által titkos adatszerzésre, titkos információgyűjtésre jogosult szervek erre vonatkozó megkeresésére – az adatkezelő megjelölésével – segítséget nyújthat a titkos adatszerzésre, titkos információgyűjtésre jogosult adatkezelő szervtől történő, az adatkérő által jogszerűen kezelhető adat igényléséhez,
+h) a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek erre vonatkozó megkeresésére – az adatkezelő megjelölésével – segítséget nyújthat a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított adatkezelő szervtől történő, az adatkérő által jogszerűen kezelhető adat igényléséhez,
 
 i) jogszabály rendelkezései szerint ellátja az állami és önkormányzati szervek elektronikus információbiztonságával kapcsolatos információbiztonsági feladatokat.
 
@@ -26,6 +26,6 @@ i) jogszabály rendelkezései szerint ellátja az állami és önkormányzati sz
 
 (5) A Nemzetbiztonsági Szakszolgálat által teljesített szolgáltatások – az (1) bekezdés e) pontjában meghatározott igazságügyi szakértői tevékenységet kivéve – térítésmentesek.
 
-(6) A titkos információgyűjtésre, illetve a titkos adatszerzésre felhatalmazott szervek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.
+(6) A titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.
 
 (7)
