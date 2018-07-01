@@ -1,4 +1,4 @@
-8. melléklet a 26/2013. (VI. 26.) BM rendelethez[^66]
+8. melléklet a 26/2013. (VI. 26.) BM rendelethez[^67]
 
 Szervezeti működés teljesítménymutatói
 
@@ -130,29 +130,33 @@ III. Az általános rendőrségi feladatok ellátására létrehozott szerv szak
 
 3. bűnügyi terület
 
-3.1. nyomozás-eredményesség, valamint felderítési eredményesség összességében
+3.1. előkészítő eljárások szakszerűsége és színvonala
 
-3.2. kiemelt bűncselekmények (közterületi kiemelt, élet- és testi épség elleni, gazdasági és vagyonelleni) nyomozásának, valamint felderítésének eredményessége
+3.2. nyomozás eredményessége, a felderítési és vizsgálati tevékenység eredményessége összességében
 
-3.3. a nyomozás szakszerűségének és időszerűségének színvonala
+3.3. kiemelt bűncselekmények (közterületi kiemelt, élet és testi épség elleni, gazdasági és vagyon elleni) nyomozásának, valamint a felderítési és vizsgálati tevékenység eredményessége
 
-3.4. nyomozás szervezés és vezetés színvonala
+3.4. a nyomozás szakszerűségének és időszerűségének színvonala
 
-3.5. az elsődleges bűnügyi intézkedések – így különösen a forró nyomon üldözés és az elvégzett helyszíni szemlék –, valamint a helyszíni bűnügyi tevékenység irányításának színvonala
+3.5. nyomozásszervezés és -vezetés színvonala
 
-3.6. bűnügyi-technikai tevékenység színvonala
+3.6. halaszthatatlan eljárási cselekmények – így különösen a forró nyomon üldözés és a helyszíni szemlék –, valamint a helyszíni bűnügyi tevékenység irányításának színvonala
 
-3.7. bűnmegelőzési tevékenység színvonala
+3.7. bűnügyi technikai tevékenység színvonala
 
-3.8. titkos együttműködőkkel összefüggő szakmai tevékenységek eredménye
+3.8. bűnmegelőzési tevékenység színvonala
 
-3.9. a titkos információgyűjtő tevékenység eredményessége
+3.9. a titkosan együttműködő személyekkel összefüggő szakmai tevékenységek eredménye
 
-3.10. a keletkezett bűnügyi információk operatív értéke, valamint az operatív értékelő-elemző tevékenység hasznosulása
+3.10. a titkos információgyűjtő tevékenység eredményessége
 
-3.11. a gazdaságvédelmi tevékenység szakszerűsége és hatékonysága
+3.11. a titkos információgyűjtés során beszerzett adatok és információk, valamint az ahhoz kapcsolódó elemző-értékelő tevékenység hasznosulása
 
-3.12. a bűnügyi szakirányítási tevékenység színvonala, valamint a helyszíni bűnügyi tevékenység irányítása
+3.12. a gazdaságvédelmi tevékenység szakszerűsége
+
+3.13. a bűnügyi szakirányítási tevékenység színvonala
+
+3.14. a leplezett eszközök alkalmazásának eredményessége
 
 4. igazgatásrendészeti terület
 
@@ -204,13 +208,15 @@ IV. A Terrorelhárítási Központ szakmai tevékenységét értékelő teljesí
 
 1. felderítési terület
 
-1.1. titkos együttműködőkkel összefüggő szakmai tevékenységek eredményessége
+1.1. a titkosan együttműködő személyekkel összefüggő szakmai tevékenységek eredményessége
 
 1.2. titkos információgyűjtő tevékenység eredményessége
 
 1.3. külső engedélyhez kötött eszközök alkalmazásának eredményessége
 
 1.4. a szervezeten belüli, társszolgálati, közigazgatási, partnerszolgálati koordináció és együttműködés szintje
+
+1.5. az előkészítő eljárások szakszerűsége és színvonala
 
 2. műveleti terület
 
@@ -242,7 +248,7 @@ IV. A Terrorelhárítási Központ szakmai tevékenységét értékelő teljesí
 
 5. ügyeleti és objektumvédelmi terület
 
-5.1. a szolgálati helyen végrehajtott személy- és gépjármű-beléptetések szakszerűsége, biztonsági szintje, valamint a gépjárművek érkeztetése, indítása és a szállítási feladatok végrehajtásának eredményessége
+5.1. a szolgálati helyen végrehajtott személy- és gépjármű-beléptetések szakszerűsége, biztonsági szintje, valamint a gépjárművek érkeztetése, indítása, és a szállítási feladatok végrehajtásának eredményessége
 
 5.2. a Terrorelhárítási Központ műveleti egységeinek az ügyelet által történő riasztása hatékonysága, szakszerűsége
 
@@ -250,7 +256,7 @@ V. A Nemzeti Védelmi Szolgálat szakmai tevékenységét értékelő teljesítm
 
 1. a végrehajtott kifogástalan életvitel ellenőrzések szakszerűsége és színvonala
 
-2. a végrehajtott megbízhatósági vizsgálatok szakszerűsége és szinvonala
+2. a végrehajtott megbízhatósági vizsgálatok szakszerűsége és színvonala
 
 3. a társszervekkel és partnerszolgálatokkal történő együttműködés eredményessége, hasznosulása
 
@@ -260,7 +266,9 @@ V. A Nemzeti Védelmi Szolgálat szakmai tevékenységét értékelő teljesítm
 
 6. a külső engedélyhez nem kötött eszköz-alkalmazás szakmai eredményessége
 
-7. a titkos információgyűjtések szakszerűsége és szinvonala
+7. a titkos információgyűjtések szakszerűsége és színvonala
+
+8. az előkészítő eljárások szakszerűsége és színvonala
 
 VI. A büntetés-végrehajtási szervezet szakmai tevékenységét értékelő teljesítménymutatók
 
@@ -330,4 +338,4 @@ VII. A hivatásos katasztrófavédelmi szerv szakmai tevékenységét értékel�
 
 5.3. az iparbiztonsági szakterületi gyakorlatok megfelelősége
 
-[^66]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja, a 76/2015. (XII. 22.) BM rendelet 17. § g) pontja, a 40/2017. (XII. 29.) BM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^67]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja, a 76/2015. (XII. 22.) BM rendelet 17. § g) pontja, a 40/2017. (XII. 29.) BM rendelet 7. § (3) bekezdése, a 21/2018. (VI. 29.) BM rendelet 16. § (2) bekezdése szerint módosított szöveg.
