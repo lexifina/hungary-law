@@ -18,8 +18,11 @@ g) adatokat szolgáltat az NVB részére az eredmény megállapítása, illetve 
 
 h) gondoskodik a népszavazás eredményének a Magyar Közlönyben történő közzétételéről,
 
-i) a választási iratokat a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy jogerős lezárása után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti, valamint
+i)[^7] a választási iratokat a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti, valamint
 
-j) a jegyzőkönyvek első példányát a szavazást követő kilencvenedik nap elteltével, illetve büntetőeljárás esetén az ügy jogerős lezárása után átadja a Magyar Nemzeti Levéltárnak.
+j)[^8] a jegyzőkönyvek első példányát a szavazást követő kilencvenedik nap elteltével, illetve büntetőeljárás esetén az ügy befejezése után átadja a Magyar Nemzeti Levéltárnak.
 
 (2) Az NVI elnöke utasítást ad az adatfeldolgozási feladatok elvégzésének, valamint a számítógépes rendszer működtetésének befejezésére.
+
+[^7]: A 24. § (1) bekezdés i) pontja a 16/2018. (VI. 22.) IM rendelet 15. §-a szerint módosított szöveg.
+[^8]: A 24. § (1) bekezdés j) pontja a 16/2018. (VI. 22.) IM rendelet 15. §-a szerint módosított szöveg.

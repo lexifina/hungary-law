@@ -10,4 +10,6 @@ c) a szavazást követő három napon keresztül biztosítja a szavazóköri jeg
 
 d) a szavazóköri jegyzőkönyvek első példányait a TVI vezetője által meghatározottak szerint továbbítja az országgyűlési egyéni választókerületi választási irodához (a továbbiakban: OEVI), a fővárosi kerületi HVI az NVI-hez, valamint
 
-e) a szavazólapokat és egyéb választási iratokat a polgármesteri hivatalban a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy jogerős lezárása után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti.
+e)[^4] a szavazólapokat és egyéb választási iratokat a polgármesteri hivatalban a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti.
+
+[^4]: A 12. § e) pontja a 16/2018. (VI. 22.) IM rendelet 15. §-a szerint módosított szöveg.
