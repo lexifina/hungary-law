@@ -1,1 +1,0 @@
-## 19. § A büntetés-végrehajtási szerv a Szolgálattól kapott, az érintett biztonsága érdekében alkalmazott különleges óvintézkedések módosításáról vagy megszüntetéséről szóló értesítés alapján a szükséges intézkedéseket haladéktalanul megteszi.
