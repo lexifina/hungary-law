@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2017-12-19 | 2017. évi CLXXXVIII. törvény | 1997-154-00-00.84 |
 | 2018-01-01 | 2017. évi L. törvény | 1997-154-00-00.85 |
 | 2018-05-18 | 2018. évi V. törvény | 1997-154-00-00.86 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 1997-154-00-00.87 |

@@ -46,7 +46,7 @@ a) büntetlen előéletű,
 
 b) nem áll egészségügyi tevékenységet kizáró foglalkozástól eltiltás alatt,
 
-c) nem áll büntetőeljárás hatálya alatt, a magánvádas és a pótmagánvádló vádindítványa alapján indult eljárást kivéve,
+c) nem áll büntetőeljárás hatálya alatt, a magánvádas és a pótmagánvádas eljárást kivéve,
 
 d) megfelel a halottvizsgálati szaktanácsadókról, valamint a halottvizsgálati szaktanácsadói névjegyzékről szóló miniszteri rendeletben meghatározott egyéb feltételeknek.
 

@@ -14,7 +14,7 @@ bd) fogvatartott elhalálozása esetén.
 
 (2) A személyazonosság megállapításáig a rendkívüli halál esetén követendő eljárást kell alkalmazni, ha az elhunyt személyazonossága ismeretlen.
 
-(3) Ha a halál oka és körülményei vizsgálatánál bűncselekmény elkövetésének gyanúja merül fel, a büntetőeljárás szabályai szerint igazságügyi orvosi boncolást kell elrendelni.
+(3) Ha a halál oka és körülményei vizsgálatánál bűncselekmény gyanúja merül fel, a büntetőeljárás szabályai szerint igazságügyi orvosi boncolást kell elrendelni.
 
 (4) Rendkívüli halál esetén rendkívüli halállal kapcsolatos hatósági eljárást kell lefolytatni, kormányrendeletben meghatározottak szerint hatósági boncolást kell elrendelni.
 
