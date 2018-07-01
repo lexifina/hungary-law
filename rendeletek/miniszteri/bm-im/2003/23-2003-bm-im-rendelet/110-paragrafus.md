@@ -1,3 +1,0 @@
-## IV. Fejezet
-
-## MÁS NYOMOZÓ SZERV MEGKERESÉSE

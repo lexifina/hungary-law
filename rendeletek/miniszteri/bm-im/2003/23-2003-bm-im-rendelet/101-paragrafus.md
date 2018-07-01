@@ -1,1 +1,0 @@
-## 100. § Feljelentés minden olyan, formához nem kötött – a büntetőeljárás megindítására vagy lefolytatására jogosult szerv vagy más hatóság, illetve a bíróság tudomására hozott – közlés, amely meghatározott vagy ismeretlen személy által elkövetett bűncselekmény gyanújára utaló tényállítást, illetve adatot tartalmaz.

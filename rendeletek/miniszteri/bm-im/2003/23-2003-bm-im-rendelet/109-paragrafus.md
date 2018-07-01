@@ -1,5 +1,0 @@
-109. § (1) A nyomozó szerv vezetője a nyomozás határidejének lejárta előtt olyan időpontban köteles a nyomozás teljesítését ellenőrizni, hogy elegendő időtartam álljon rendelkezésre a még szükséges nyomozási cselekmények elvégzésére. Az ellenőrzés megállapításairól készített feljegyzést a nyomozási iratok irattári példányában kell elhelyezni.
-
-(2) Ha a nyomozás határidejének meghosszabbítása indokolt, a nyomozó szervnek olyan időpontban kell előterjesztést tennie a határidő meghosszabbítására, hogy az előterjesztés a nyomozásról rendelkező ügyészhez a nyomozás határidejének lejárta előtt legalább tíz – ha a hosszabbításra felettes ügyész jogosult, tizenöt – nappal megérkezzen.
-
-(3) A nyomozó szerv a nyomozás határidejének meghosszabbítására tett – a cselekmény tényállását, minősítését, a beszerzett bizonyítékokat, a meghosszabbítani kért határidőt, a tervezett eljárási cselekményeket tényszerűen tartalmazó, a teljesítésük addigi elmaradásának okát is megjelölő – előterjesztésben indokolja meg, hogy a nyomozás határidejének meghosszabbítását milyen okok és körülmények, milyen időtartamra teszik szükségessé.
