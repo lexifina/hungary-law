@@ -8,4 +8,6 @@ c) korábban engedélyezett támogatásból eredő, lejárt határidejű, de meg
 
 d) a Jst. 3. § (1) bekezdésének i) pontja alá tartozó fél korábban átmeneti vagy tartós nevelés alatt állt,
 
-e) büntetőeljárásban érdekelt egyéb fél, és a pártfogó ügyvédi képviseletre milyen igényének érvényesítése céljából van szüksége.
+e)[^1] büntetőeljárásban egyéb érdekelt, és a pártfogó ügyvédi képviseletre milyen igényének érvényesítése céljából van szüksége.
+
+[^1]: A 10. § e) pontja a 16/2018. (VI. 22.) IM rendelet 16. § (2) bekezdése szerint módosított szöveg.

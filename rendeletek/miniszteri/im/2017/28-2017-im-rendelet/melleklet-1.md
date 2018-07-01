@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 28/2017. (XII. 27.) IM rendelethez
+1. melléklet a 28/2017. (XII. 27.) IM rendelethez[^2]
 
 ## A jogi segítségnyújtás keretében nyújtott támogatások iránti kérelem benyújtására szolgáló nyomtatvány adattartalma
 
@@ -210,6 +210,18 @@
 
 8.2.2.6. igényelt támogatás pontos megnevezése
 
+8.3. Terhelt részére biztosított költségkedvezmény
+
+8.3.1. eljáró bíróság, ügyészség, nyomozó hatóság
+
+8.3.2. a büntetőügy
+
+8.3.2.1. száma
+
+8.3.2.2. tárgya
+
+8.3.3. nyilatkozat arról, hogy a fél korábban részesült-e támogatásban
+
 9. Mellékletek felsorolása
 
 10. Közlemény, benne nyilatkozat
@@ -221,3 +233,5 @@
 11. Tájékoztató
 
 11.1. a fél tájékoztatása arról, hogy az 1.9., 6.1., 6.2. és 6.5. pont szerinti adatokat nem köteles feltüntetni kérelmén
+
+[^2]: Az 1. melléklet a 16/2018. (VI. 22.) IM rendelet 16. § (1) bekezdése szerint módosított szöveg.
