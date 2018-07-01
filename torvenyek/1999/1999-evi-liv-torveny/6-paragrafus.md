@@ -2,7 +2,7 @@
 
 (2) A magyar együttműködő szervnek a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerhez (a továbbiakban: Vízuminformációs Rendszer) betekintés céljából történő hozzáférésre irányuló, a NEBEK útján történő adatszolgáltatást kezdeményező indokolt írásos vagy elektronikus úton továbbított kezdeményezésében az (1) bekezdésben foglaltak mellett fel kell tüntetnie
 
-a) a konkrét ügy ügyiratszámát, amelyben szükséges a Büntető Törvénykönyvben meghatározott terrorcselekmény vagy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. számú melléklete által meghatározott bűncselekmények megelőzése, felderítése és nyomozása érdekében az adatszolgáltatás;
+a) a konkrét ügy ügyiratszámát, amelyben szükséges a Büntető Törvénykönyvben meghatározott terrorcselekmény vagy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. számú melléklete által meghatározott bűncselekmények megelőzése, felderítése és nyomozása érdekében az adatszolgáltatás;
 
 b) azokat a körülményeket, amelyek alapján valószínűsíthető, hogy a Vízuminformációs Rendszerből történő adatszolgáltatás jelentősen hozzájárulhat az adott bűncselekmények megelőzéséhez, felderítéséhez vagy nyomozásához;
 

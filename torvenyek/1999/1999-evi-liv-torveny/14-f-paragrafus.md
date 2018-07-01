@@ -10,11 +10,11 @@
 
 (5) A találat érvényességének megerősítése esetén találatot elérő szerv a jármű lefoglalásáról, a NEBEK útján azzal tájékoztatja az adatokat elhelyező ország külföldi központi hatóságát, hogy a jármű lefoglalására, illetve a további eljárási cselekményekre irányuló eljárási jogsegély iránti megkeresés előterjesztésére hatvan nap áll rendelkezésére.
 
-(6) Ha nemzetközi szerződés lehetővé teszi a találatot elérő szerv a nemzetközi bűnügyi együttműködésről szóló 1996. évi XXXVIII. törvény 73. §-ában foglaltak alapján a lefoglalást megszünteti, ha az adatokat elhelyező ország külföldi központi hatósága által rendelkezésre bocsátott adatok alapján megállapítható, hogy a lefoglalás a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 155. § (1) bekezdése alapján megszüntethető és a lefoglalt dolog
+(6) Ha nemzetközi szerződés lehetővé teszi a találatot elérő szerv a nemzetközi bűnügyi együttműködésről szóló 1996. évi XXXVIII. törvény 73. §-ában foglaltak alapján a lefoglalást megszünteti, ha az adatokat elhelyező ország külföldi központi hatósága által rendelkezésre bocsátott adatok alapján megállapítható, hogy a lefoglalás a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 320. § (1) bekezdése alapján megszüntethető és a lefoglalt dolog
 
-a) a Be. 155. § (2) bekezdése alapján a dolog tulajdonosának, vagy
+a) a Be. 321. § (1) bekezdése alapján a dolog tulajdonosának, vagy
 
-b) külföldi hatóság rendelkezése szerint, a Be. 155. § (3) bekezdése alapján a dolog kiadása iránt alapos igényt bejelentő részére
+b) külföldi hatóság rendelkezése szerint, a Be. 321. § (2) bekezdése alapján a dolog kiadása iránt alapos igényt bejelentő részére
 
 kiadható.
 
