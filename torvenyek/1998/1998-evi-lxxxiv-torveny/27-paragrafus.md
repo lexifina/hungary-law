@@ -10,6 +10,6 @@ b) olyan gyermek után igényli a támogatást, akit a Gyvt. alapján ideiglenes
 
 c)
 
-d) előzetes letartóztatásban van, illetve szabadságvesztés büntetését tölti.
+d) letartóztatásban van, illetve szabadságvesztést tölt.
 
 (2)

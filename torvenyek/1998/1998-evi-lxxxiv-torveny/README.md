@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-84-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 1998-84-00-00.51 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 1998-84-00-00.52 |
 | 2018-01-01 | 2017. évi L. törvény | 1998-84-00-00.53 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 1998-84-00-00.54 |
