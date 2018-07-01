@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-28-20-2
 | 2018-02-28 | 2017-28-20-2C.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-03-01 | 2017-28-20-2C.5 | 2010: CXXX. törvény |
 | 2018-04-01 | 2017-28-20-2C.6 | 9/2018. (III. 23.) MNB rendelet |
+| 2018-07-01 | 2017-28-20-2C.7 | 22/2018. (VI. 27.) MNB rendelet |

@@ -26,6 +26,6 @@ c) a 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 17. sor�
 
 ## meghatározott éves felügyeleti jelentést első alkalommal 2017. évre mint tárgyidőszakra vonatkozóan, 2018. január 29-ig teljesíti.
 
-(5)[^1] Az adatszolgáltató a 10. melléklet I. pontjában foglalt „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–19., 21. és 22. sora szerinti felügyeleti jelentést első alkalommal 2018. június 29-ei állapotra vonatkozóan, 2018. június 28-ig teljesíti.
+(5)[^2] Az adatszolgáltató a 10. melléklet I. pontjában foglalt „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–19., 21. és 22. sora szerinti felügyeleti jelentést első alkalommal 2018. június 29-ei állapotra vonatkozóan, 2018. június 28-ig teljesíti.
 
-[^1]: A 15. § (5) bekezdése a 9/2018. (III. 23.) MNB rendelet 3. §-ával megállapított szöveg.
+[^2]: A 15. § (5) bekezdése a 9/2018. (III. 23.) MNB rendelet 3. §-ával megállapított szöveg.
