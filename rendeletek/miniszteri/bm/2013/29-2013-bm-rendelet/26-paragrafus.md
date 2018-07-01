@@ -8,6 +8,6 @@ b) a nem sürgősségi ellátás céljából történő szállításról a menek
 
 (3) A fekvőbeteg-intézeti ellátás esetén az elismerését kérő őrzését a Rendőrség a menekültügyi hatóság felkérése esetén biztosítja.
 
-(4)–(5)[^7]
+(4)–(5)[^8]
 
-[^7]: A 26. § (4)–(5) bekezdését a 8/2015. (III. 24.) BM rendelet 16. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^8]: A 26. § (4)–(5) bekezdését a 8/2015. (III. 24.) BM rendelet 16. § (2) bekezdés b) pontja hatályon kívül helyezte.
