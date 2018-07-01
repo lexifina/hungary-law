@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti személyekről vezetett belső nyilvántartásba a befektetési vállalkozás, az árutőzsdei szolgáltató vagy a közvetítő azt a személyt jegyzi be, aki
 
-a) büntetlen előéletű; és nem áll foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt,
+a) büntetlen előéletű; és nem áll foglalkozástól eltiltó jogerős ügydöntő határozat hatálya alatt,
 
 b) ellene a Felügyelet öt éven belül nem alkalmazott végleges nyilvános határozatban megállapított, figyelmeztetésnél súlyosabb szankciót;
 

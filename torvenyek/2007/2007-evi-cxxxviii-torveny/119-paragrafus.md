@@ -1,4 +1,4 @@
-119. § (1) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot az általa lebonyolított ügyletről és a nála vezetett számláról, ha adat merül fel arra, hogy az ügylet vagy a számla
+119. § (1) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató a nemzetbiztonsági szolgálat, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv adatkérésére vagy írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot az általa lebonyolított ügyletről és a nála vezetett számláról, ha adat merül fel arra, hogy az ügylet vagy a számla
 
 a) kábítószerrel való visszaéléssel,
 

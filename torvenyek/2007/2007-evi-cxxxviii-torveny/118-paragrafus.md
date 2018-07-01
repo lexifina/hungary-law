@@ -18,11 +18,11 @@ c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében elj�
 
 d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, végrehajtóval, illetve végelszámolóval,
 
-e) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését folytató nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel,
+e) a büntetőeljárás során eljáró ügyészséggel, nyomozó hatósággal, valamint az előkészítő eljárást folytató szervvel,
 
 f) a büntető-, valamint polgári ügyben, továbbá csőd-, felszámolási eljárás, illetve az önkormányzatok adósságrendezési eljárása keretében a bírósággal,
 
-g) külön törvényben meghatározott feltételek teljesülése esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
+g) külön törvényben meghatározott feltételek teljesülése esetén a titkos információgyűjtés folytatására feljogosított szervvel,
 
 h) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 
@@ -36,7 +36,7 @@ l) a természetes személyek adósságrendezési eljárásában eljáró főhite
 
 m) a csődeljárásról és a felszámolási eljárásról szóló törvényben meghatározott felszámoló szervezetek nyilvántartásával és hatósági ellenőrzésével összefüggő feladatai során eljáró, a felszámoló szervezeteket nyilvántartó hatósággal
 
-szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsdei szolgáltatóhoz intézett írásbeli megkeresése esetén.
+szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsdei szolgáltatóhoz intézett adatkérése vagy írásbeli megkeresése esetén.
 
 (4) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn abban az esetben sem, ha
 

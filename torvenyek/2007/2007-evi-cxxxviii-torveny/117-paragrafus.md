@@ -40,9 +40,9 @@ szemben.
 
 (2a) Nem jelenti az (1) bekezdésben foglalt titoktartási kötelezettség sérelmét a Hpt. 164/B. §-a szerinti adattovábbítás.
 
-(3) Az (1) bekezdésben meghatározott titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn a hatáskörében eljáró,
+(3) Az (1) bekezdésben meghatározott titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn
 
-a) a folyamatban lévő büntetőeljárás, a feljelentés kiegészítése keretében a nyomozó hatósággal és a feladatkörében eljáró ügyészséggel,
+a) a büntetőeljárás során eljáró ügyészséggel, nyomozó hatósággal, valamint az előkészítő eljárást folytató szervvel,
 
 b) büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá csőd-, illetve felszámolási eljárás, kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal és
 
