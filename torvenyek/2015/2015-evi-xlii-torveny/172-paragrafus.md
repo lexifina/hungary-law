@@ -8,7 +8,7 @@ b) akinek nincs folyamatban a szolgálati viszonyának megszüntetése,
 
 c) aki ellen nem folyik fegyelmi eljárás,
 
-d) aki ellen nem folyik – a magánindítvány vagy pótmagánvádló vádindítványa alapján indult eljárás kivételével – büntetőeljárás, és
+d) akivel szemben nem folyik – a magánvádas vagy pótmagánvádas eljárás kivételével – büntetőeljárás, és
 
 e) aki az (1) bekezdés szerinti kezességvállalással biztosított hitelrész kiegyenlítésére kötelezettséget vállal, továbbá a vele közös háztartásban élő házas- vagy élettársa – az igénylés időpontjában – állami kezességvállalással biztosított lakáscélú hitel törlesztésére nem kötelezett.
 

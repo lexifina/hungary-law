@@ -208,7 +208,7 @@ b) hatályos fenyítés neme, hatálya, mentesülés időpontja,
 
 c) korábbi fenyítések neme, mentesülés időpontja,
 
-d) folyamatban levő büntetőeljárás, valamint korábbi büntetőügyben hozott jogerős döntések adatai,
+d) folyamatban levő büntetőeljárás, valamint korábbi büntetőügyben a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának adatai,
 
 e) kártérítési kötelezettség mértéke, a teljesítésre vonatkozó adatok,
 

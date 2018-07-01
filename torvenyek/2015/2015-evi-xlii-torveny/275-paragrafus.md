@@ -14,6 +14,6 @@ f) a teljesítményértékelést vagy minősítést végző személy,
 
 g) a törvényességi ellenőrzéssel megbízott személy,
 
-h) a feladatkörében eljárva az ügyész és a nyomozó hatóság tagja, valamint
+h) a bíróság, az ügyészség és a nyomozó hatóság, valamint
 
 i) az illetmény-számfejtést végző szerv az illetményszámfejtéshez szükséges mértékig.

@@ -26,7 +26,7 @@ d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszer
 
 e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
 
-f) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős bejezéséig,
+f) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
 
 g) aki korábban már állt szolgálati viszonyban és szolgálati viszonya a 80. § (1) bekezdés f) vagy g) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján szűnt meg, a szolgálati viszony megszűnését, továbbá – ha az később telik le – a büntetőjogi jogkövetkezmények megszűnését követő öt évig.
 

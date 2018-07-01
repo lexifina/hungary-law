@@ -36,7 +36,7 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 
 (7) A (4) bekezdésben írt feltételek ellenőrzését – ha törvény másként nem rendelkezik – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi. A polgári nemzetbiztonsági szolgálatok a saját munkatársaikra vonatkozóan végzett, a nemzetbiztonsági szolgálatokról szóló törvény szerinti biztonsági ellenőrzés alkalmával adatszolgáltatás végett e szervet megkeresik. A megkeresett szerv a biztonsági ellenőrzéssel érintett körben adatszolgáltatásra köteles.
 
-(8) A (4) bekezdés b) pontjában meghatározott büntetésről vagy kényszergyógykezelés elrendeléséről a jogerős döntést hozó bíróság haladéktalanul értesíti az állományilletékes parancsnokot, aki – a kifogástalan életvitel-ellenőrzés lefolytatása nélkül – a bíróság ítéletének jogerőre emelkedését követő nappal megállapítja, hogy a hivatásos állomány tagjának életvitele kifogásolható, és e törvény szerint intézkedik a szolgálati viszony megszüntetése érdekében.
+(8) A (4) bekezdés b) pontjában meghatározott büntetésről vagy kényszergyógykezelés elrendeléséről a jogerős ügydöntő határozatot hozó bíróság haladéktalanul értesíti az állományilletékes parancsnokot, aki – a kifogástalan életvitel-ellenőrzés lefolytatása nélkül – a bíróság ügydöntő határozatának jogerőre emelkedését követő nappal megállapítja, hogy a hivatásos állomány tagjának életvitele kifogásolható, és e törvény szerint intézkedik a szolgálati viszony megszüntetése érdekében.
 
 (9) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv annak ellenőrzése érdekében, hogy a (4) bekezdésben foglalt, az életvitel kifogásolhatóságát megalapozó körülmények fennállnak-e, a kifogástalan életvitel ellenőrzése során
 
