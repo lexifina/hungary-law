@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-164-00-00
 | 2016-04-16 | 2016. évi XXIII. törvény | 2005-164-00-00.30 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2005-164-00-00.31 |
 | 2018-01-01 | 2017. évi L. törvény | 2005-164-00-00.32 |
+| 2018-07-01 | 2017. évi CXCIV. törvény | 2005-164-00-00.33 |

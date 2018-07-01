@@ -60,9 +60,9 @@
 
 24. tartós szálláshasználati szolgáltatási tevékenység: üzletszerű gazdasági tevékenység keretében éjszakai ott-tartózkodást, pihenést is magában foglaló tartózkodás céljára szolgáló szállás rendszeres időközönként ismétlődő, meghatározott, nem huzamos időtartamra történő használata jogának (üdülési jog) biztosítása;
 
-25. utazásszervezői tevékenység: üzletszerű gazdasági tevékenység keretében személyszállítási, szállás- és egyéb turisztikai szolgáltatások (így különösen étkezés, idegenvezetés, szórakoztató, illetve kulturális program) közül legalább kettőnek az együttesét tartalmazó szolgáltatás (a továbbiakban: utazási szolgáltatás) összeállítása és nyújtása;
+25. utazásszervezői tevékenység: az utazó részére nyújtott, olyan kereskedelmi tevékenység, amelynek során az utazásszervezői tevékenységet végző közvetlenül vagy másik kereskedő közreműködésével üzletszerű gazdasági tevékenység keretében, személyszállítási, szállás- és egyéb turisztikai szolgáltatásokat (így különösen étkezés, idegenvezetés, szórakoztató, illetve kulturális program) állít össze, és értékesít, vagy kínál értékesítésre, valamint az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló kormányrendelet szerint adatokat továbbít más kereskedőnek;
 
-26. utazásközvetítői tevékenység: üzletszerű gazdasági tevékenység keretében utazási szolgáltatás nyújtására az utazásszervező megbízása alapján, annak nevében szerződések kötése;
+26. utazásközvetítői tevékenység: olyan üzletszerű gazdasági tevékenység, amelynek keretében az utazásközvetítő az utazásszervezői tevékenységet végző megbízása alapján az utazó részére utazási szolgáltatást kínál, valamint az utazásszervező nevében szerződést köt;
 
 27. üzlet: kereskedelmi tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség, ideértve az elsődlegesen raktározás, tárolás célját szolgáló olyan épületet vagy épületrészt is, amelyben kereskedelmi tevékenységet folytatnak;
 
@@ -88,4 +88,8 @@ b) amelyet az üzemeltetőtől, a foglalkoztatottól elvárható, a rendes üzle
 
 35. diszkont: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 400 négyzetméternél nagyobb bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet, amely nem rendelkezik friss hús, húskészítmény és tejtermékek kimérésére szolgáló pulttal;
 
-36. fogyasztó: a fogyasztóvédelemről szóló törvény szerinti fogyasztó.
+36. fogyasztó: a fogyasztóvédelemről szóló törvény szerinti fogyasztó;
+
+37. utazó: az utazásszervezői, -közvetítői, valamint az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység vonatkozásában, minden olyan személy, akinek szándékában áll utazási szolgáltatásra, vagy azok összeállítására vonatkozó szerződés megkötése, vagy ilyen szerződés alapján utazásra jogosult;
+
+38. utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység: olyan tevékenység, amelynek keretében az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló kormányrendeletben meghatározott utazási szolgáltatást kínál, értékesít.

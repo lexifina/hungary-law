@@ -12,4 +12,8 @@ d) – az utazásközvetítő kivételével – rendelkezik a külön jogszabál
 
 (3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a határon átnyúló szolgáltatásnyújtás keretében történő utazásszervezői vagy utazásközvetítői tevékenység folytatására irányuló szándékát köteles a kereskedelmi hatóságnak bejelenteni.
 
-(4)–(6)
+(4) Az utazásszervezői tevékenységet végző köteles egy biztosítóval, az olyan utazási szolgáltatások összeállítása esetében, amely személyszállítást is tartalmaz, az utazásszervező és -közvetítő tevékenységről szóló kormányrendeletben meghatározott feltételeknek megfelelő biztosítást kötni az utazó javára.
+
+(5) Az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő az utazásszervező és -közvetítő tevékenységről szóló kormányrendeletben meghatározottak szerinti vagyoni biztosítékkal rendelkezik.
+
+(6)
