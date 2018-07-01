@@ -74,7 +74,7 @@ h) testi, szellemi fogyatékossága, személyiségzavara,
 
 i) szenvedélybetegsége,
 
-j) az előzetes letartóztatás, házi őrizet, illetőleg lakhelyelhagyási tilalom elrendelésének, valamint e kényszerintézkedések megszüntetésének időpontja,
+j) a letartóztatás, a bíróság által a terhelt számára előírt meghatározott terület, lakás, egyéb helyiség, intézmény, vagy ahhoz tartozó bekerített hely engedély nélküli el nem hagyására vonatkozó bűnügyi felügyelet elrendelésének, valamint e kényszerintézkedések megszüntetésének időpontja,
 
 k) a vele szemben folyamatban lévő büntetőeljárás, a kiszabott fő- és mellékbüntetés,
 

@@ -10,7 +10,7 @@ c) a fegyelmi, a szabálysértési és a büntetőeljárást elrendelő, felfüg
 
 d) a fegyelemsértés, a szabályszegés, a szabálysértés, a bűncselekmény megnevezése, minősítése,
 
-e) a jogerős határozatban megállapított tényállás rövid leírása,
+e) a jogerős határozatban, illetve ügydöntő határozatban megállapított tényállás rövid leírása,
 
 f) a jogkövetkezmény neme és mértéke, a jogkövetkezmény alkalmazásának mellőzése esetén annak oka,
 
