@@ -30,6 +30,6 @@ a) pénzügyi intézménynél igazgatósági taggá, felügyelőbizottsági tagg
 
 b) vállalkozásban befolyásoló részesedést szerez, vagy az ilyen befolyását megszünteti;
 
-c) ellene a 2013. június 30-ig hatályban volt 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében vagy a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. vagy XXXV–XLIII. Fejezetében meghatározott bűncselekmény miatt az ügyész vádat emelt, illetve külföldön vagyon elleni vagy gazdasági bűncselekmény miatt az illetékes hatóság vádat emelt.
+c) ellene a 2013. június 30-ig hatályban volt 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében vagy a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. vagy XXXV–XLIII. Fejezetében meghatározott bűncselekmény miatt az ügyészség vádat emelt, illetve külföldön vagyon elleni vagy gazdasági bűncselekmény miatt az illetékes hatóság vádat emelt.
 
 (7) A (6) bekezdés szerinti bejelentésről az Integrációs Szervezet igazgatósága a közgyűlést annak soron következő ülésén tájékoztatja.
