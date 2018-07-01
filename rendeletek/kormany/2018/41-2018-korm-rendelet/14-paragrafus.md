@@ -1,0 +1,1 @@
+## 13. § Ha a fenyegetett helyzetben lévő elítélt szabadul a bv. intézetből, és személyi védelmének elrendelése vagy fenntartása indokolt, a fogvatartást foganatosító bv. intézet parancsnoka a 6. § (1) bekezdésének megfelelő alkalmazásával kérelmet terjeszthet elő a személyi védelem elrendelésére.

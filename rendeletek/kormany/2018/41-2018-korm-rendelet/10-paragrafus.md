@@ -1,0 +1,3 @@
+10. § (1) A személyi védelmi feladatok ellátásának eszközei a személyi védelmet ellátó szerv – a veszélyeztetettség mértékét mérlegelve, a fenyegetett helyzetben lévő személy, illetve a személyi védelmet kezdeményező és elrendelő szerv véleményét is figyelembe véve – határozza meg. A személyi védelmi feladatok ellátásának eszközei közül egyidejűleg több is alkalmazható.
+
+(2) A fenyegetett helyzetben lévő személy biztonságát közvetlenül fenyegető és másként el nem hárítható veszély esetét kivéve nem alkalmazható a személyi védelmi feladatok ellátásának olyan eszköze, amely ellen a fenyegetett helyzetben lévő személy szóban vagy írásban tiltakozik. A szóban tett nyilatkozatról a személyi védelmet ellátó szerv írásbeli feljegyzést készít.

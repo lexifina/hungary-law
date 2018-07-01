@@ -1,0 +1,1 @@
+## 21. § A személyi védelmet ellátó szerv a fenyegetett helyzetben lévő személy veszélyeztetettségét – a fenyegetett helyzetben lévő személy, illetve a személyi védelmet kezdeményező, elrendelő szerv véleményét is figyelembe véve – folyamatosan értékeli, és javaslatot tehet a személyi védelem megszüntetésére.
