@@ -1,5 +1,0 @@
-Az adózás rendjéről szóló 2017. évi CL. törvény 269. § (8) bekezdés a) és c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörömben eljárva,
-
-a 2. alcím tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. alcím 14. pontjában és a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 2. pontjában meghatározott feladatkörömben eljárva
-
-a következőket rendelem el:
