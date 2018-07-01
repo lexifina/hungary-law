@@ -1,0 +1,1 @@
+25/P. § A bírói engedélyhez kötött eszköz alkalmazása során igénybe vett technikai eszközt vagy információs rendszerben elhelyezett elektronikus adatot az alkalmazás befejezését követően haladéktalanul el kell távolítani. Ha az eltávolítás akadályba ütközik, a technikai eszközt vagy elektronikus adatot az akadály megszűnését követően kell haladéktalanul eltávolítani.

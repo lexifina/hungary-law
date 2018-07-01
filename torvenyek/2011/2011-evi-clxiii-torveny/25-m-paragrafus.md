@@ -1,0 +1,1 @@
+25/M. § Egy adott leplezett eszköz alkalmazásához szükséges technikai eszköz vagy adat elhelyezése vagy eltávolítása érdekében a 25/B. § a) pontja alapján a bírói engedélyhez kötött eszközök alkalmazása legfeljebb kilencven napig engedélyezhető.

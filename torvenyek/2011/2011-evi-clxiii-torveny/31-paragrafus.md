@@ -2,7 +2,7 @@
 
 ## AZ ÜGYÉSZSÉGI ADATKEZELÉS
 
-31. § (1) Az ügyészség törvényben szabályozott büntetőjogi, közérdekvédelmi, valamint ügyviteli, statisztikai és tudományos kutatási célú feladatainak ellátásához – az ügyészi szervezetben kijelölt központi, területi és helyi adatkezelő szervein keresztül, legfőbb ügyészi utasításban felsorolt adatkörben – személyes és különleges adatokat kezelhet.
+31. § (1) Az ügyészség törvényben szabályozott büntetőjogi, közérdekvédelmi, valamint ügyviteli, statisztikai és tudományos kutatási célú feladatainak ellátásához – az ügyészi szervezetben kijelölt központi, területi és helyi adatkezelő szervein keresztül, legfőbb ügyészi utasításban felsorolt adatkörben – személyes, különleges és bűnügyi személyes adatokat kezelhet.
 
 (2) Az ügyészségi adatot kezelő szerv vezetője informatikus ügyészségi alkalmazott közreműködésével gondoskodik a személyes adatok körében a jogosulatlan hozzáférés, közlés, megváltoztatás vagy törlés megelőzéséről, illetve a törlés szabályozását biztosító technikai és logikai védelemről.
 

@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-163-00-00
 | 2015-07-01 | 2015. évi LXXI. törvény | 2011-163-00-00.9 |
 | 2016-11-26 | 2016. évi CXXI. törvény | 2011-163-00-00.10 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2011-163-00-00.11 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2011-163-00-00.12 |
