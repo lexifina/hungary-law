@@ -1,0 +1,21 @@
+## 3. Alapelvek
+
+3. § (1) Költségtérítés elszámolására számla, számlát helyettesítő bizonylat (a továbbiakban együtt: számla), az 55. § (2) bekezdés b) pontja szerinti bérleti szerződés vagy a 73. § (9) bekezdése szerinti bérleti díjat megalapozó bérleti szerződés benyújtása ellenében kerülhet sor.
+
+(2) Az e rendelet szerinti különféle átalány-költségtérítések összege az állomány tagja által, elszámolási kötelezettség nélkül, tetszőlegesen meghatározott arányban és mértékben használható fel a külföldi szolgálat során felmerülő költségeinek fedezésére.
+
+(3) A 28. § (1) bekezdés d) pontja kivételével térítésmentes élelmezés hiányában a külföldi szolgálat során felmerült étkezési költségeket az állomány tagjának a Honvédség nem téríti meg.
+
+(4) Az állomány tagja részére a Honvédségtől a külföldi szolgálattal összefüggő jogcímen az e rendeletben foglaltakon kívül egyéb pénzbeli juttatás nem kerülhet kifizetésre.
+
+(5) Az 57. § és a 77. § kivételével e rendelet alkalmazása során a kiküldő által érvényesítendő elv, hogy a fogadó fél által biztosított ellátás, illetve költségtérítés igénybevételéből adódóan az állomány tagja nem kerülhet előnyösebb helyzetbe, összességében nem részesülhet több juttatásban annál, mint amennyit e rendelet lehetővé tesz.
+
+(6) Ha az e rendeletben foglalt valamely juttatás vagy a Honvédség felé fennálló tartozás esetében a megállapítás, a folyósítás, a kifizetés, a benyújtott számla vagy bérleti szerződés, illetve a beszámításra kerülő jövedelem, jövedelempótló juttatás vagy a fogadó fél által nyújtott juttatás pénzneme, továbbá a tartozás és a visszafizetés pénzneme eltér egymástól, – e rendelet eltérő rendelkezése hiányában – a folyósítást, a kifizetést, a visszafizetést vagy a beszámítást megelőző hónap 15. napján érvényes, a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett hivatalos devizaárfolyamon kell az átszámítást végrehajtani.
+
+(7) E rendelet alkalmazásában nem minősül foglalkoztatási jogviszonyból származó jövedelemnek a csecsemőgondozási díj és a gyermekgondozási díj.
+
+(8) Az élettárs után e rendelet alapján megállapítható juttatások igénybevételéhez az élettársi kapcsolatban élés tényét a HM rendelet2 18/A. §-a szerint kell igazolni.
+
+(9) Házastársak egyazon állomáshelyen teljesített külföldi szolgálata, illetve külföldi képzése esetén a családi ellátmánypótlékra vagy családi átalány-költségtérítésre jogosító hozzátartozók után, illetve a lakhatással összefüggésben megállapítható juttatások csak a házastársak egyikét illetik meg. Ebben az esetben a házastársak a juttatás igénylésével egyidejűleg közös nyilatkozatot kötelesek tenni az illetékes személyügyi szerv részére arra vonatkozóan, hogy a juttatást melyik fél kívánja igénybe venni a külföldi szolgálat vagy a külföldi képzés időtartama alatt.
+
+(10) A pénzbeli juttatások állomány tagja részére történő átutalásának – az MNB vagy a Magyar Államkincstár üzletszabályzata, illetve üzleti feltételei szerint – az átutalási megbízás megadása során az indító banknál felmerülő, valamint az állomány tagja számlavezető bankjának üzletszabályzatában, illetve kondíciós listáiban nem szereplő, bankközi műveletekből adódó költségeit a Honvédség viseli. Az esetlegesen az állomány tagjától levont bankközi, levelezőbanki költségek megtérítését az állomány tagjának a Honvédség pénzügyi feladatokat ellátó központi szervezete felé benyújtott írásbeli kérelmére, a bankközi költséglevonást bizonyító folyószámla-kivonatok csatolásával lehet végrehajtani. A devizában történő folyósítás miatt felmerülő esetleges átváltási és egyéb pénzintézeti költségek az állomány tagját terhelik.

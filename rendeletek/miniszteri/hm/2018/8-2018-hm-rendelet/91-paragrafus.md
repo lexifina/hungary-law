@@ -1,0 +1,47 @@
+## 56. A II. Fejezethez kapcsolódó rendelkezések
+
+91. § (1) A Hjt. 196. § (2) bekezdése alapján beosztásba helyezett állomány az e rendeletben meghatározott juttatásokra és költségtérítésekre jogosult. A jogosultsági feltételek megállapítását követően részére költségtérítés, illetve a külszolgálati ellátmány részeként kiegészítő juttatás állapítható meg, ha elmarad a betöltött beosztás alapján megállapított havi nettó juttatása, illetve költségtérítése e rendelet szerinti járandóságaitól. A kiegészítő juttatás és költségtérítés megállapításának és folyósításának rendjét a KNBSZ főigazgatója intézkedésben határozza meg.
+
+(2) Az állomány 2. § (2) bekezdés b) pontja szerinti tagja és a KNBSZ közalkalmazotti jogviszonyban álló tagja esetében
+
+1. a 14. § (7) bekezdése szerinti igazolást a KNBSZ egészségügyi szervezeti egységének vezetője állítja ki,
+
+2. a 14. § (1) bekezdés a)–f) pont szerinti utazások esetében a KNBSZ főigazgatója intézkedésben szabályozza az utazási jegy, az utazási átalány-költségtérítés vagy a 61. § és a 64. § szerinti költségtérítési forma alkalmazási rendjét,
+
+3. a 16. § c) pontja szerinti utazási átalány-költségtérítés átutalásának határidejét a KNBSZ főigazgatója határozza meg,
+
+4. a KNBSZ főigazgatója engedélyezhet a 19. § (4) bekezdésében foglaltaktól eltérést,
+
+5. a 20. § (2) bekezdés d) pontja szerinti állomáshelyektől eltérő állomáshelyen történő bútorbeszerzésről a KNBSZ főigazgatója dönt,
+
+6. a berendezett és berendezés nélküli lakhatási átalány-költségtérítés mértékét a 20. § (3) bekezdésétől eltérően a KNBSZ főigazgatója határozza meg,
+
+7. a 21. § (1) bekezdés c) pontja szerinti vegyes átalány-költségtérítés mértékét a KNBSZ főigazgatója a jogos lakásigény mértékén felüli reprezentációs feladatok miatt arányosan, de legfeljebb 25%-os mértékben megemelheti,
+
+8. a technikai biztosítás költsége megtérítésének 21. § (2) bekezdés a) pontja szerinti szükségességét a KNBSZ főigazgatója állapítja meg,
+
+9. a Honvédség megtéríti a vezetékes telefon bekötésének, valamint a kommunikációs szolgáltatások díját, ha azt az engedélyező elöljáró döntése szerint szolgálati érdek indokolja,
+
+10. a 19–26. §-ban foglaltakhoz kapcsolódó eljárásrendet a KNBSZ főigazgatója intézkedésben határozza meg,
+
+11. a KNBSZ állományának (3) bekezdés szerinti tagja esetén a 24. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a 24. § (1) bekezdés d) pontja tekintetében is lehet a képviselet-vezető az illetékes logisztikai ellátó szerv által kijelölt személy,
+
+12. a 30. § szerinti kifizetéseknél a KNBSZ főigazgatója engedélyezheti az állomáshelyen a készpénzben történő kifizetést,
+
+13. a 31. § (3) bekezdése szerinti engedélyezési jogkört a KNBSZ főigazgatója gyakorolja,
+
+14. a tandíjköltséghez történő hozzájárulásról a KNBSZ főigazgatója dönt,
+
+15. a 35. §-ban foglaltak helyett az ellátmányelőleg kifizetésének rendjét a KNBSZ főigazgatója határozza meg,
+
+16. a 35. § (3) bekezdése nem alkalmazható, azonban a 35. § (1) bekezdése alapján folyósítható ellátmányelőlegek összege együttesen nem haladhatja meg a kiküldött kiküldetésének időtartamára összességében folyósított nettó ellátmány 50%-át,
+
+17. a 37. §-t azzal az eltéréssel kell alkalmazni, hogy az utazási előleg kérelem alapján folyósítható, amelyet a kiutazást megelőző 8 napon belül kell kifizetni, és
+
+18. a gépjárműhasználat és gépjárműbérlés engedélyezésére és elszámolására a 39. § (6) bekezdésétől eltérően a KNBSZ főigazgatójának intézkedését kell alkalmazni.
+
+(3) A katonadiplomáciai tevékenységet ellátó, az 1. melléklet szerinti
+
+a) katonai, légügyi, véderő attasék és
+
+b) ezredes vagy alezredes rendszeresített rendfokozatú beosztást betöltő kiküldöttek

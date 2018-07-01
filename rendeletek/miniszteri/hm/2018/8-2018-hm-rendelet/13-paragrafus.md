@@ -1,0 +1,3 @@
+13. § (1) Az állomány tagja külszolgálati ellátmányát a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja. törvény), továbbá a járulékfizetésre kötelezetteknél a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény szerinti munkaerő-piaci járulék-, egészségbiztosítási járulék- és nyugdíjjárulék-fizetési szabályok alapulvételével bruttósítani kell.
+
+(2) A bruttó külszolgálati ellátmányt az Szja. törvény által meghatározott módon kell forintra átszámítani, és az azután fennálló, a magánszemélyt terhelő, (1) bekezdés szerinti közterheket az állomány tagjánál el kell számolni.
