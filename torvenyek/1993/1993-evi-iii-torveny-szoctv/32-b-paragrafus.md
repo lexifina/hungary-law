@@ -16,7 +16,7 @@ c) az egyedülálló, 75. életévét betöltött személyt, akinek havi jövede
 
 (4) Nem állapítható meg az időskorúak járadéka, illetve az ellátásra való jogosultságot meg kell szüntetni, ha a személy
 
-a) előzetes letartóztatásban van, elzárás büntetését vagy szabadságvesztés büntetését tölti,
+a) letartóztatásban van, vagy szabadságvesztést, illetve elzárást tölt,
 
 b) 3 hónapot meghaladó időtartamban külföldön tartózkodik,
 
