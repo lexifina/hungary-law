@@ -1,4 +1,4 @@
-47/F. §[^116] (1) A Becsületbíróság munkáját a Becsületbíróság elnöke hangolja össze és szervezi meg. Ennek keretében az eseti megbízólevél kézhezvételét követően haladéktalanul beszerzi az ügy iratait és a döntéshez szükséges egyéb iratokat, amelyeket az alakuló ülésen ismertet a Becsületbíróság tagjaival.
+47/F. §[^119] (1) A Becsületbíróság munkáját a Becsületbíróság elnöke hangolja össze és szervezi meg. Ennek keretében az eseti megbízólevél kézhezvételét követően haladéktalanul beszerzi az ügy iratait és a döntéshez szükséges egyéb iratokat, amelyeket az alakuló ülésen ismertet a Becsületbíróság tagjaival.
 
 (2) Az alakuló ülést az ügy iratainak kézhezvételét követő öt munkanapon belül össze kell hívni, amelyen a Becsületbíróság tagjain kívül csak a Becsületbíróság elnöke által jóváhagyott jegyzőkönyvvezető lehet jelen.
 
@@ -12,4 +12,4 @@
 
 (7) A Becsületbíróság a meghallgatásokat a kérelmező állományilletékes parancsnoka szervezeti egységének székhelyén folytatja le.
 
-[^116]: A 47/F. §-t a 68/2015. (XII. 16.) BM rendelet 3. §-a iktatta be.
+[^119]: A 47/F. §-t a 68/2015. (XII. 16.) BM rendelet 3. §-a iktatta be.
