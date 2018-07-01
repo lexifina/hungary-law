@@ -12,7 +12,7 @@ b) a hibás termékekért való felelősségre vonatkozó tagállami törvényi,
 
 c) a tagállamok önálló vállalkozóként működő kereskedelmi ügynökökre vonatkozó jogszabályainak összehangolásáról szóló 1986. december 18-i 86/653/EGK tanácsi irányelvnek;
 
-d) a szervezett utazási formákról szóló 1990. június 13-i 90/314/EGK tanácsi irányelvnek;
+d) az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i 2015/2302/EU európai parlamenti és tanácsi irányelvnek;
 
 e) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló 1993. április 5-i 93/13/EGK tanácsi irányelvnek;
 
