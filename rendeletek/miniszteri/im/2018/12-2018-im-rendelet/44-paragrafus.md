@@ -1,0 +1,5 @@
+44. § (1) Ha a tárgyalásról a médiatartalom-szolgáltató vagy egyéb, az információs társadalommal összefüggő szolgáltatást nyújtó személy (a továbbiakban: szolgáltató) felvételt készít, a bíróság a felvétel készítését megelőzően figyelmezteti a szolgáltatót a személyiségi jogok védelmére.
+
+(2) Ha a bíróság, az ügyészség és a nyomozó hatóság a nyilvánosságot szolgáltatón keresztül nyilatkozat közzétételével tájékoztatja, a nyilatkozat megküldése során szükség esetén kéri a szolgáltatótól a nyilvános közlésre készített nyilatkozat nyilvánosságra hozatalát megelőző megmutatását. A bíróság, az ügyészség és a nyomozó hatóság nem járul hozzá a nyilatkozat közzétételéhez, ha megállapítja, hogy a szolgáltató a nyilatkozatot érdemben megváltoztatta vagy eltorzította.
+
+(3) Ha a bíróság, az ügyészség és a nyomozó hatóság észleli, hogy a nyilatkozatát a szolgáltató valótlan tény állításával, vagy való tényeket hamis színben feltüntetve közli, szükség esetén kéri helyreigazító közlemény közzétételét.
