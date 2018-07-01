@@ -1,4 +1,4 @@
-11/A. §[^48] (1) A Főigazgatóság a továbbképzések szakmai felügyelete keretében nyomon követi a minősített továbbképzési programok megvalósítását. Ha a továbbképzés megvalósítása a minősített továbbképzési programtól eltér, vagy a továbbképző szervezet az e rendeletben foglalt kötelezettségeit nem teljesíti, a Főigazgatóság határidő tűzése mellett felhívja a továbbképző szervezetet az eltérés megszüntetésére, illetve az e rendeletben foglalt kötelezettségeinek teljesítésére.
+11/A. §[^57] (1) A Főigazgatóság a továbbképzések szakmai felügyelete keretében nyomon követi a minősített továbbképzési programok megvalósítását. Ha a továbbképzés megvalósítása a minősített továbbképzési programtól eltér, vagy a továbbképző szervezet az e rendeletben foglalt kötelezettségeit nem teljesíti, a Főigazgatóság határidő tűzése mellett felhívja a továbbképző szervezetet az eltérés megszüntetésére, illetve az e rendeletben foglalt kötelezettségeinek teljesítésére.
 
 (2) Ha a továbbképző szervezet az (1) bekezdés szerinti felhívásnak határidőben nem tesz eleget, és
 
@@ -24,7 +24,7 @@ d) a továbbképzési programon való részvételről kiadott 1. számú mellék
 
 e) a továbbképzési program a minősítés érvényességi idejét meghaladóan kerül megszervezésre,
 
-f) a továbbképzés szervezője a minősítési kérelemben feltüntetett adatainak változásáról legkésőbb 30 napon belül nem tesz írásbeli bejelentést a Főigazgatóságnak, vagy
+f)[^58] a továbbképzés szervezője a minősítési kérelemben feltüntetett adatainak változásáról legkésőbb 30 napon belül nem tesz elektronikusan bejelentést a Főigazgatóságnak, vagy
 
 g) a továbbképzés szervezője a 4. § (7), illetve (8) bekezdésében előírt bejelentési, beszámolási kötelezettségének nem tesz eleget,
 
@@ -34,4 +34,5 @@ a Főigazgatóság a folyamatban lévő továbbképzések befejezését követő
 
 (4) A továbbképző szervezet a Főigazgatóság jogsértő intézkedése esetén panaszt nyújthat be a szociál- és nyugdíjpolitikáért felelős miniszterhez.
 
-[^48]: A 11/A. §-t a 41/2012. (XI. 28.) EMMI rendelet 6. §-a iktatta be, szövege a 7/2018. (II. 5.) EMMI rendelet 36. §-ával megállapított szöveg.
+[^57]: A 11/A. §-t a 41/2012. (XI. 28.) EMMI rendelet 6. §-a iktatta be, szövege a 7/2018. (II. 5.) EMMI rendelet 36. §-ával megállapított szöveg.
+[^58]: A 11/A. § (2) bekezdés f) pontja a 7/2018. (II. 5.) EMMI rendelet 39. § (2) bekezdés k) pontja szerint módosított szöveg.

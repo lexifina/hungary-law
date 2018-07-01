@@ -1,35 +1,67 @@
 ## Adatlap a minősített továbbképzési program közzétételéhez
 
-| 1. A továbbképzést szervező szervezet megnevezése és címe, vagy a továbbképzést szervező természetes személy neve és címe: |  |
+## 1. A továbbképzési program fajtája:
 
-| 2. A program címe: |  |
+## 1.1. Szociális és Gyermekvédelmi Főigazgatóság által szervezett továbbképzések esetén:
 
-| 3. A program minősítése érvényes: |  |
+## 1.1.1. kötelező továbbképzés
 
-| 4. A program célja, tartalma: |  |
+## 1.1.2. munkakörhöz kötött továbbképzés
 
-| 5. A program célcsoportja: |  |
+## 1.1.3. választható továbbképzés
 
-| 6. A program által közvetlenül érintett ellátotti csoport(ok): |  |
+## 1.2. Családbarát Ország Nonprofit Közhasznú Kft. által szervezett továbbképzések esetén:
 
-| 7. A szerezhető továbbképzési pontérték: |  |
+## 1.2.1. munkakörhöz kötött továbbképzés
 
-| 8. A program indításának tervezett időpontja: |  |
+## 1.2.2. választható továbbképzés
 
-| 9. A program időtartama (óra/előadás/nap/fórum/e-learning/szakmai terepgyakorlat): |  |
+## 1.3. Egyéb továbbképzést szervező által szervezett továbbképzések esetén:
 
-| 10. A program indításának tervezett helyszíne: |  |
+## 1.3.1. választható továbbképzés
 
-| 11. A résztvevő által fizetendő részvételi díj: |  |
+## (A megfelelő rész aláhúzandó.)
 
-| 12. A továbbképzést szervező természetes személy neve, telefonszáma és e-mail-címe, vagy a továbbképzést szervező szervezet kapcsolattartójának neve, telefonszáma és e-mail-címe: |  |
+## 2. A továbbképzést szervező szervezet megnevezése és címe, vagy a továbbképzést szervező természetes személy neve és címe:
 
-| 13. A program engedélyszáma: |  |
+## (Kötelező továbbképzés esetén a Szociális és Gyermekvédelmi Főigazgatóság tüntetendő fel. Munkakörhöz kötött továbbképzés esetén a Szociális és Gyermekvédelmi Főigazgatóság vagy Családbarát Ország Nonprofit Közhasznú Kft. tüntethető fel.)
 
-| 14. A pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló 277/1997. (XII. 22.) Korm. rendelet alapján pedagógus-továbbképzésként akkreditált: |  |
+## 3. A program címe:
 
-| 15. Az egészségügyi szakdolgozók továbbképzésének szabályairól szóló 63/2011. (XI. 29.) NEFMI rendelet alapján egészségügyi továbbképzésként nyilvántartásba vett: |  |
+## 4. A program célja, tartalma, részletes tematikája:
 
-2/A. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^71]
+## 5. A program célcsoportja:
 
-[^71]: A 2/A. számú mellékletet a 41/2012. (XI. 28.) EMMI rendelet 11. § (2) bekezdése iktatta be.
+## 6. A program által közvetlenül érintett munkakörök:
+
+## (Munkakörhöz kötött továbbképzés esetén töltendő ki.)
+
+## 7. A program által közvetlenül érintett ellátotti csoport, csoportok:
+
+## 8. A szerezhető továbbképzési pontérték:
+
+## 9. A program indításának tervezett időpontja:
+
+## 10. A program időtartama (óra/előadás/nap/fórum/e-learning/szakmai terepgyakorlat):
+
+## 11. A program tervezett helyszíne:
+
+## 12. A résztvevő által fizetendő részvételi díj:
+
+## 13. A továbbképzést szervező kapcsolattartójának neve, telefonszáma és e-mail-címe:
+
+## 14. A program engedélyszáma:
+
+## 15. A program minősítése érvényes:
+
+## 16. A program tartalmának felülvizsgálati dátuma:
+
+## (Kötelező és munkakörhöz kötött továbbképzés esetén töltendő ki.)
+
+## 17. A pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló kormányrendelet alapján pedagógus-továbbképzésként akkreditált:
+
+## 18. Az egészségügyi szakdolgozók továbbképzésének szabályairól szóló miniszteri rendelet alapján egészségügyi továbbképzésként nyilvántartásba vett:
+
+2/A. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^85]
+
+[^85]: A 2/A. számú mellékletet a 41/2012. (XI. 28.) EMMI rendelet 11. § (2) bekezdése iktatta be.

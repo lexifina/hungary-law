@@ -1,6 +1,6 @@
-## 10. §[^46]
+## 10. §[^55]
 
-## 11. §[^47] A Főigazgatóság feladatai a következők:
+## 11. §[^56] A Főigazgatóság feladatai a következők:
 
 a) a továbbképzések szakmai követelményrendszerének a kidolgozása,
 
@@ -10,5 +10,5 @@ c) a továbbképzések szakmai felügyelete,
 
 d) a továbbképzésekkel, illetve a továbbképzésekhez kapcsolódó számonkérésekkel kapcsolatos bejelentések, panaszok kivizsgálása.
 
-[^46]: A 10. §-t a 24/2010. (XII. 30.) NEFMI rendelet 6. § (3) bekezdése hatályon kívül helyezte.
-[^47]: A 11. § a 25/2017. (X. 18.) EMMI rendelet 23. § (13) bekezdésével megállapított szöveg.
+[^55]: A 10. §-t a 24/2010. (XII. 30.) NEFMI rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+[^56]: A 11. § a 25/2017. (X. 18.) EMMI rendelet 23. § (13) bekezdésével megállapított szöveg.
