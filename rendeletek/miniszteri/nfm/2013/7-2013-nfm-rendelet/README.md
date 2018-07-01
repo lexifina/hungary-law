@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-7-20-2W
 | 2017-12-30 | 2013-7-20-2W.22 | 37/2017. (XII. 27.) BM rendelet |
 | 2018-01-01 | 2013-7-20-2W.23 | 37/2017. (XII. 27.) BM rendelet |
 | 2018-03-31 | 2013-7-20-2W.24 | 8/2018. (III. 29.) BM rendelet |
+| 2018-07-01 | 2013-7-20-2W.25 | 19/2018. (VI. 28.) BM rendelet |
