@@ -1,4 +1,4 @@
-## 48. §[^1]
+## 48. §[^13]
 
 1. melléklet az 56/2014. (XII. 5.) BM rendelethez
 
@@ -44,4 +44,4 @@ e) szemetes lapát, felmosóruha;
 
 f) lehetőség szerint WC-fülke.
 
-[^1]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
