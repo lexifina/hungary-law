@@ -30,7 +30,7 @@ b) az (1) bekezdés c) pontjában meghatározott esetben az érintett természet
 
 (6) E törvény felhatalmazása alapján az adatkezelésre jogosult szerv (közlekedési hatóság) a kezelt adatokat személyazonosító adatok nélkül statisztikai célokra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
 
-(7) Az (1) bekezdésben meghatározott adatok a rendőrségnek, az ügyészségnek, a bíróságnak, az igazságügyi szakértőnek bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából továbbíthatók.
+(7) Az (1) bekezdésben meghatározott adatok a rendőrségnek, a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az előkészítő eljárást folytató szervnek és az igazságügyi szakértőnek bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából továbbíthatók.
 
 (8) A vasúti igazgatási szerv a működési engedéllyel kapcsolatos eljárásával összefüggésben, az üzleti jóhírnév vizsgálata körében jogosult a működési engedélyt kérelmező szervezet, illetve a vasúti társaság ügyvezetését ellátó személy büntetett előéletére vonatkozó különleges adatokat kezelni.
 
