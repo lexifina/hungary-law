@@ -1,0 +1,1 @@
+## 1. § A Rendszerváltás Történetét Kutató Intézet és Archívum létrehozásáról szóló 83/2013. (III. 21.) Korm. rendelet 1. §-ában az „a kormányzati társadalmi kapcsolatok összehangolásáért felelős miniszter” szövegrész helyébe az „az emberi erőforrások minisztere” szöveg lép.
