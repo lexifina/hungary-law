@@ -1,10 +1,9 @@
-## 27. § A bírósági ügyintéző a törvényesség érdekében bejelentett jogorvoslati eljárásban jogosult a terheltnek és a védőnek észrevételezésre megküldeni a törvényesség érdekében bejelentett jogorvoslati indítványt a Be. 434. § (3) bekezdése szerint.
+## 28. §[^67] A bírósági ügyintéző a harmadfokú bírósági eljárásban jogosult
 
-28. § (1)[^65] A bírósági ügyintéző a Be. 528. § (2) bekezdése és a Be. 532. § (5) bekezdése alapján értesítheti az ügyészt, ha az ügyész a tárgyalásnak a vádlott távollétében való megtartását indítványozta, és a vádlott tartózkodási helye a tárgyalás megkezdése előtt ismertté vált, illetőleg a külföldön tartózkodó vádlott hazatért.
+a) a Be. 596. § (1) bekezdés b) pontja szerint az ügyiratokat visszaküldeni a másodfokú bíróságnak, ha a fellebbezéseket visszavonták,
 
-(2)[^66] A bírósági ügyintéző a Be. 529. § (2) bekezdése és a Be. 532. § (5) bekezdése alapján tájékoztathatja az ügyészt, ha a vádlottal szemben az elfogatóparancs kibocsátása nem vezetett eredményre.
+b) a vádlottnak és a védőnek kézbesíteni a más által bejelentett fellebbezést, valamint a harmadfokú bíróság mellett működő ügyészség indítványát a Be. 596. § (1) bekezdés c) pontja szerint,
 
-(3) A bírósági ügyintéző a Be. 532. § (2) bekezdése alapján felhívhatja az ügyészt, hogy kívánja-e indítványozni a tárgyalásnak a vádlott távollétében történő folytatását, ha a bírósági eljárásban állapítják meg, hogy a külföldön tartózkodó vádlott kiadatásának vagy az európai elfogatóparancs alapján történő átadásának nincs helye, illetőleg kiadatását vagy az európai elfogatóparancs alapján történő átadását megtagadták, és a bíróság a büntetőeljárás felajánlását nem tartja indokoltnak.
+c) a vádlott vagy a védő fellebbezésének indokolását – ha azt a harmadfokú bíróság előtt terjesztették elő – megküldeni a harmadfokú bíróság mellett működő ügyészségnek a Be. 596. § (1) bekezdés d) pontja szerint.
 
-[^65]: A 28. § (1) bekezdése a 62/2017. (III. 20.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
-[^66]: A 28. § (2) bekezdése a 62/2017. (III. 20.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^67]: A 28. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

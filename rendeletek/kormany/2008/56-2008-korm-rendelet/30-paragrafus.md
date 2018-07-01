@@ -1,1 +1,9 @@
-## 29. § A bírósági ügyintéző a végleges hatályú foglalkozástól és járművezetéstől eltiltás, valamint a végleges hatályú kiutasítás alóli mentesítésre irányuló eljárásban a Be. 565. § (2) és (4) bekezdése alapján az ügyész és az idegenrendészeti hatóság nyilatkozatának beszerzése iránt intézkedhet.
+## 30. §[^69] A bírósági ügyintéző a felülvizsgálati eljárásban jogosult
+
+a) a felülvizsgálati indítvány előterjesztőjének, valamint a terheltnek és védőjének észrevételezésre megküldeni a felülvizsgálati indítványt, valamint az ügyészség, a magánvádló vagy a pótmagánvádló nyilatkozatát [a Be. 657. § (3) bekezdése, a Be. 784. § (4) bekezdése vagy a 815. § (4) bekezdése szerint],
+
+b) a terhelt és védője részére észrevételezésre megküldeni a más által benyújtott felülvizsgálati indítványt és az arra tett ügyészségi nyilatkozatot a Be. 657. § (3) bekezdése szerint,
+
+c) a magánvádas vagy pótmagánvádas eljárásban hozott határozat ellen benyújtott felülvizsgálati indítványt a magánvádlónak, illetve a pótmagánvádlónak nyilatkozattétel érdekében megküldeni a Be. 784. § (2) bekezdése vagy a 815. § (2) bekezdése szerint.
+
+[^69]: A 30. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

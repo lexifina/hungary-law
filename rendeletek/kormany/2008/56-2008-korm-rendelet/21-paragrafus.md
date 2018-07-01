@@ -1,19 +1,8 @@
-21. § (1) A bírósági ügyintéző az ismeretlen helyen tartózkodó terhelt vagy tanú tartózkodási helyének felkutatása érdekében a Be. 73. § alapján a terhelt vagy a tanú lakóhelyének, illetőleg tartózkodási helyének a megállapítása iránt intézkedhet. A bírósági ügyintéző a körözés elrendelésére és az elfogatóparancs kibocsátására nem jogosult.
+## 20. §[^59] A bírósági ügyintéző, ha a különösen védett tanú részvételét igénylő eljárási cselekményen jegyzőkönyvvezetőként vett részt, elkészítheti a különösen védett tanú részvételével végzett eljárási cselekményen felvett jegyzőkönyv kivonatát a Be. 92. § (7)–(9) bekezdése szerint.
 
-(2) A bírósági ügyintéző a lakóhely és a tartózkodási hely megállapítása iránt a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet keresi meg. A bírósági ügyintéző a terhelt vagy a tanú tartózkodási helyének felderítése végett jogosult a rendőrség megkeresésére.
+21. §[^60] (1) A bírósági ügyintéző a Be. 135. § (1) bekezdése szerint az ismeretlen helyen tartózkodó terheltnek, illetve az elektronikus adat felett rendelkezni jogosult ismeretlen vagyoni érdekeltnek szóló ügyirat hirdetményi úton történő kézbesítése iránt intézkedhet.
 
-(3)[^58] A bírósági ügyintéző jogosult a Be. 162. § (7) bekezdése alapján az elővezetési költséget megállapító végzés meghozatalára.
+(2) A bírósági ügyintéző a Be. 130. § (1) bekezdés c) pontja és (2) bekezdése szerint az ügyiratot a címzett részére személyesen is kézbesítheti, illetve a címzett az ügyiratot a bírósági ügyintézőtől a bíróságon is átveheti.
 
-(4)[^59] A bírósági ügyintéző a Be. 268. § (1) és (2) bekezdése alapján intézkedhet aziránt, hogy a bizonyítási eszközök a tárgyaláson rendelkezésre álljanak, e körben – az ügyész megkeresésének kivételével – megkeresést teljesíthet, adatszolgáltatást igényelhet és adatok beszerzése iránt intézkedhet.
-
-(5)[^60] A bírósági ügyintéző a Be. 566. § (4) bekezdése alapján, felülvizsgálat előtt, beszerezheti az elmeorvos-szakértői véleményt.
-
-(6)[^61] A bírósági ügyintéző jogosult a tolmács kirendelésére vonatkozó, a tolmácsdíjat és fordítási díjat megállapító végzés, valamint a Be. 588. § (7) bekezdése szerinti értesítés kiadására.
-
-(7)[^62] A bírósági ügyintéző a Be. 593. § (1) bekezdése alapján jogosult a foglalási jegyzőkönyv megküldése iránt a bírósági végrehajtót megkeresni.
-
-[^58]: A 21. § (3) bekezdését a 62/2017. (III. 20.) Korm. rendelet 11. §-a iktatta be.
-[^59]: A 21. § (4) bekezdését a 62/2017. (III. 20.) Korm. rendelet 11. §-a iktatta be.
-[^60]: A 21. § (5) bekezdését a 62/2017. (III. 20.) Korm. rendelet 11. §-a iktatta be.
-[^61]: A 21. § (6) bekezdését a 62/2017. (III. 20.) Korm. rendelet 11. §-a iktatta be.
-[^62]: A 21. § (7) bekezdését a 62/2017. (III. 20.) Korm. rendelet 11. §-a iktatta be.
+[^59]: A 20. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^60]: A 21. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

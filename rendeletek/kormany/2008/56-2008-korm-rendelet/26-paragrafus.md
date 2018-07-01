@@ -1,9 +1,5 @@
-## 25. § A bírósági ügyintéző a perújítási eljárásban jogosult az alapügy iratainak beszerzése iránt intézkedni a Be. 412. § (1) bekezdése alapján.
+26. §[^65] (1) A bírósági ügyintéző a jogerő megállapításáról tájékoztathatja azokat a személyeket, akik a jogerőssé vált határozat ellen fellebbezés benyújtására, valamint büntetővégzés esetében a Be. 742. §-a szerinti tárgyalás tartása iránti indítvány benyújtására voltak jogosultak a Be. 459. § (3) bekezdése szerint.
 
-## 26. § A bírósági ügyintéző a felülvizsgálati eljárásban jogosult
+(2) A bírósági ügyintéző az ügyiratok felterjesztése után a bírósághoz a Be. 586. § (1) bekezdése szerint benyújtott fellebbezésre tett észrevételt felterjesztheti a fellebbezés elbírálására jogosult bírósághoz.
 
-a) a felülvizsgálati indítvány előterjesztőjének és a jogosultnak észrevételezésre megküldeni a felülvizsgálati indítványt, valamint az ügyész nyilatkozatát a Be. 422. § (4) bekezdése alapján,
-
-b) a terhelt és védője részére észrevételezésre megküldeni a más által benyújtott felülvizsgálati indítványt és az arra tett ügyészi nyilatkozatot a Be. 422. § (4) bekezdése alapján,
-
-c) a magánvádas eljárásban vagy pótmagánvád alapján folytatott eljárásban hozott határozat ellen benyújtott felülvizsgálati indítványt a magánvádlónak, illetőleg a pótmagánvádlónak észrevételezésre megküldeni a Be. 422. § (2) és (4) bekezdése alapján.
+[^65]: A 26. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

@@ -1,7 +1,5 @@
-## 24. § A bírósági ügyintéző a harmadfokú bírósági eljárásban jogosult
+24. §[^63] (1) A bírósági ügyintéző az ismeretlen helyen tartózkodó terhelt vagy tanú felkutatása érdekében a terhelt vagy a tanú lakcímének, illetve tényleges tartózkodási helyének a megállapítása iránt intézkedhet. A bírósági ügyintéző a körözés elrendelésére és az elfogatóparancs kibocsátására nem jogosult.
 
-a) a Be. 390. § (1) bekezdés c) pontja alapján az iratokat visszaküldeni a másodfokú bíróságnak, ha a fellebbezéseket visszavonták,
+(2) A bírósági ügyintéző a terhelt vagy a tanú lakcímének és tényleges tartózkodási helyének megállapítása iránt a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet keresi meg.
 
-b) a vádlottnak és a védőnek kézbesíteni a más által bejelentett fellebbezést, valamint a harmadfokú bíróság mellett működő ügyész indítványát a Be. 390. § (1) bekezdés d) pontja alapján,
-
-c) a vádlott vagy a védő fellebbezésének indokolását – ha azt a harmadfokú bíróság előtt terjesztették elő – megküldeni a harmadfokú bíróság mellett működő ügyésznek a Be. 390. § (1) bekezdés e) pontja alapján.
+[^63]: A 24. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

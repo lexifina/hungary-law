@@ -1,9 +1,14 @@
-## 22. § A bírósági ügyintéző a folyamatban lévő ügyet az egyesítés kérdésében határozathozatalra jogosult bíróságnak az egyesítés megfontolása érdekében megküldheti a Be. 265. § (1) bekezdése alapján.
+## 22. §[^61] A bírósági ügyintéző a folyamatban lévő ügyet a Be. 147. § (4) bekezdése szerint az egyesítés megfontolása céljából megküldheti az egyesítés kérdésében határozathozatalra jogosult bíróságnak.
 
-## 23. § A bírósági ügyintéző a másodfokú bírósági eljárásban jogosult
+23. §[^62] (1) A bírósági ügyintéző bármely szervtől, jogi személytől vagy jogi személyiséggel nem rendelkező szervezettől a Be. 261. § (1) és (3) bekezdése szerinti adatszolgáltatást kérhet.
 
-a) a Be. 358. § (1) bekezdés c) pontja alapján az iratokat visszaküldeni az első fokú bíróságnak, ha a fellebbezéseket visszavonták,
+(2) A bírósági ügyintéző adatkérése a Be. 261. § (4) bekezdése szerint állami vagy helyi önkormányzati szerv nyilvántartásában kezelt adat továbbítására, illetve átvételére is irányulhat. Ha törvény ezt lehetővé teszi, a bírósági ügyintéző a Be. 263. §-a szerint a nyilvántartásból vagy az adatállományból közvetlen hozzáféréssel veszi át a szükséges adatokat.
 
-b) a vádlottnak és a védőnek kézbesíteni a más által bejelentett fellebbezést, valamint a másodfokú bíróság mellett működő ügyész indítványát a Be. 358. § (1) bekezdés d) pontja alapján,
+(3) A bírósági ügyintéző jogosult a Be. 498. § (3) bekezdése szerint a vádlottra vonatkozó bűnügyi nyilvántartás és a központi szabálysértési nyilvántartás adatait, valamint a jogszabállyal rendszeresített egyéb közhiteles nyilvántartásnak a vádlottra, illetve a vád tárgyára vonatkozó adatait beszerezni.
 
-c) a vádlott vagy a védő fellebbezésének indokolását – ha azt a másodfokú bíróság előtt terjesztették elő – megküldeni a másodfokú bíróság mellett működő ügyésznek a Be. 358. § (1) bekezdés e) pontja alapján.
+(4) A bírósági ügyintéző a Be. 498. § (1) bekezdése szerint intézkedhet aziránt, hogy a bizonyítási eszközök a tárgyaláson rendelkezésre álljanak, e körben – az ügyészség megkeresésének kivételével – más szerveket megkereshet, illetve adatszolgáltatást kérhet.
+
+(5) A bírósági ügyintéző a bírósági ügyvitel szabályai szerint jogosult az ügyiratok megküldésére más bíróság, ügyészség, nyomozó hatóság és más hatóság számára. A bírósági ügyintéző megkeresheti a bíróságot, az ügyészséget, a nyomozó hatóságot és más hatóságot iratok megküldése és a megküldött ügyiratok visszaküldése iránt.
+
+[^61]: A 22. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^62]: A 23. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
