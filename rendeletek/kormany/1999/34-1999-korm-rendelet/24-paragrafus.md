@@ -1,1 +1,0 @@
-## 23. § A hatóság tagja, illetve a személyére tekintettel más személy védelmének módjára, a személyi védelmet ellátó és az érintett jogaira és kötelezettségeire, valamint a személyi védelem megszüntetésére a 11–18. §-okban foglaltakat kell megfelelően alkalmazni.
