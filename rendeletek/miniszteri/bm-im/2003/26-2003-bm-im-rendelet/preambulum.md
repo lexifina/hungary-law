@@ -1,1 +1,0 @@
-A sajtóról szóló 1986. évi II. törvény (a továbbiakban: Stv.) 21. §-a (3) bekezdésének a) pontjában, valamint a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 604. §-ának (3) bekezdésében foglalt felhatalmazás alapján – a legfőbb ügyésszel egyetértésben – a következőket rendeljük el:
