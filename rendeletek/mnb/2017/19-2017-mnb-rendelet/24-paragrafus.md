@@ -1,3 +1,7 @@
-## 8–9.[^2]
+## 8. A belső ellenőrző és információs rendszer működtetése
 
-[^2]: A 8–9. alcím (24–33. §) a 40. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+## 24. § Ezen alcím alkalmazásában:
+
+a) automatikus szűrőrendszer: ügyfél és ügylet pénzmosás és terrorizmus finanszírozása szempontjából előzetes paraméterezés alapján történő, emberi beavatkozást nem igénylő leválogatására alkalmas informatikai rendszer,
+
+b) manuális szűrés: ügyfél és ügylet pénzmosás és terrorizmus finanszírozása szempontjából történő, emberi beavatkozást igénylő leválogatása.

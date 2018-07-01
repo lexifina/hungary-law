@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-19-20-2
 | --- | --- | --- |
 | 2017-07-20 | 2017-19-20-2C.1 | 19/2017. (VII. 19.) MNB rendelet |
 | 2017-12-28 | 2017-19-20-2C.2 | 39/2017. (XII. 27.) MNB rendelet |
+| 2018-07-01 | 2017-19-20-2C.3 | 45/2018. (XII. 17.) MNB rendelet |

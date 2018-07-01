@@ -1,6 +1,6 @@
 ## 4. Az egyszerűsített és a fokozott ügyfél-átvilágítás esetkörei és azok felügyeleti jóváhagyásának szabályai
 
-11. §[^1] (1) A szolgáltató a Pmt.-ben meghatározottakon kívül egyszerűsített ügyfél-átvilágítást alkalmazhat, amennyiben ügyfele
+11. §[^2] (1) A szolgáltató a Pmt.-ben meghatározottakon kívül egyszerűsített ügyfél-átvilágítást alkalmazhat, amennyiben ügyfele
 
 1. a Pmt. 1. § (1) bekezdés a)–e) pontjában meghatározott, az Európai Unió területén székhellyel rendelkező szolgáltató vagy olyan, harmadik országban székhellyel rendelkező – a Pmt. 1. § (1) bekezdés a)–e) pontjában meghatározott – szolgáltató, amelyre a Pmt.-ben meghatározottakkal egyenértékű követelmények vonatkoznak, és amely ezek betartása tekintetében felügyelet alatt áll,
 
@@ -34,4 +34,4 @@ b) olyan elektronikus pénz terhére vagy más olyan jellegű forrás felhaszná
 
 (2) A Pmt. 3. § 25. pontjában meghatározott Posta Elszámolási Központot működtető intézmény a Pmt.-ben és az (1) bekezdésben meghatározottakon kívül egyszerűsített ügyfél-átvilágítást alkalmazhat, amennyiben ügyfele nem stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országban rendelkezik lakhellyel vagy székhellyel, és kettőmillió-ötszázezer forintot el nem érő összegű, belföldön kezdeményezett és belföldön teljesítendő áru- vagy szolgáltatásnyújtás ellenértékének teljesítésére irányulóan ad ügyleti megbízást.
 
-[^1]: A 11. § a 39/2017. (XII. 27.) MNB rendelet 1. §-ával megállapított szöveg.
+[^2]: A 11. § a 39/2017. (XII. 27.) MNB rendelet 1. §-ával megállapított szöveg.

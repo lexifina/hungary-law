@@ -1,5 +1,3 @@
-## 24–33. §
-
 ## 10. A képzési program
 
 34. § (1) A szolgáltató a pénzmosás és a terrorizmus finanszírozása megelőzésével és megakadályozásával, valamint az Európai Unió és az ENSZ BT által elrendelt pénzügyi és vagyoni korlátozó intézkedésekkel összefüggő tevékenység ellátásában részt vevő szolgáltató vezetőjét, foglalkoztatottját és segítő családtagját a belépést követő 30 napon belül általános ügyintézői képzésben részesíti, és részére évente legalább egy alkalommal továbbképzést (a továbbiakban együtt: általános ügyintézői képzés) szervez.
