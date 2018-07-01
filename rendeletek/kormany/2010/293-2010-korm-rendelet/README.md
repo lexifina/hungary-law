@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-293-20-
 | 2015-07-01 | 2010-293-20-22.9 | 157/2015. (VI. 25.) Korm. rendelet |
 | 2016-10-01 | 2010-293-20-22.10 | 187/2016. (VII. 13.) Korm. rendelet |
 | 2017-06-10 | 2010-293-20-22.11 | 134/2017. (VI. 9.) Korm. rendelet |
+| 2018-07-01 | 2010-293-20-22.12 | 77/2018. (IV. 20.) Korm. rendelet |

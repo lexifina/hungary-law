@@ -1,3 +1,3 @@
-## 12/C. §[^32] Ha a vizsgálat határidejének meghosszabbítására kerül sor, a vizsgálat határidejének meghosszabbításáról szóló határozat tartalmazza azokat a körülményeket, amelyek a vizsgálat határidejének meghosszabbítását indokolják, valamint a vizsgálat meghosszabbított határidejét.
+## 12/C. §[^36] Ha a vizsgálat határidejének meghosszabbítására kerül sor, a vizsgálat határidejének meghosszabbításáról szóló határozat tartalmazza azokat a körülményeket, amelyek a vizsgálat határidejének meghosszabbítását indokolják, valamint a vizsgálat meghosszabbított határidejét.
 
-[^32]: A 12/C. §-t a 134/2017. (VI. 9.) Korm. rendelet 3. § (5) bekezdése iktatta be.
+[^36]: A 12/C. §-t a 134/2017. (VI. 9.) Korm. rendelet 3. § (5) bekezdése iktatta be.
