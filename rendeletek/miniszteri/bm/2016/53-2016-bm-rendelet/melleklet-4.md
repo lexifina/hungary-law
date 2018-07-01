@@ -18,26 +18,20 @@
 
 | 8. | Gépkocsivezető | Alapfokú iskolai végzettség és B vagy C kategóriás vezetői engedély és pályaalkalmassági vizsgálat I. |
 
-4. melléklet az 53/2016. (XII. 16.) BM rendelethez
+4. melléklet az 53/2016. (XII. 16.) BM rendelethez[^7]
 
-Az igazságügyi szakértői intézmény vezetői munkakörei
+Az Iasz. 104. § (1) bekezdésében fel nem sorolt vezetői munkakörök megfeleltetése
 
-|  | A | B | C |
+|  | A | B |
 
-| 1. | vezetői szint | vezetői kategória | vezetői munkakör |
+| 1. | Vezetői munkakör | az Iasz. 7. melléklete szerinti fizetési fokozat |
 
-| 2. | magasabb vezető | egyéb igazságügyi szerv vezetője | főigazgató |
+| 2. | hivatalvezető | főosztályvezető |
 
-| 3. | magasabb vezető | egyéb igazságügyi szerv vezetőjének helyettese | főigazgató-helyettes |
+| 3. | intézetvezető | osztályvezető |
 
-| 4. | vezető | főosztályvezető | főosztályvezető |
+| 4. | szolgálatvezető | osztályvezető |
 
-| 5. | vezető | igazgató | intézetvezető |
+| 5. | laboratóriumvezető | csoportvezető |
 
-| 6. | vezető | igazgatóhelyettes | intézetvezető-helyettes |
-
-| 7. | vezető | osztályvezető | osztályvezető |
-
-| 8. | vezető | osztályvezető-helyettes | osztályvezető-helyettes |
-
-| 9. | vezető | csoportvezető | laboratóriumvezető, csoportvezető |
+[^7]: A 4. melléklet a 17/2018. (VI. 12.) BM rendelet 3. § c) pontjával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 1. § Az igazságügyi szakértői intézménynél az igazságügyi alkalmazottak által ellátható munkaköröket, azok fizetési osztályait, valamint a veszélyességi pótlékra jogosultságot az 1. melléklet tartalmazza.
+## 1. §[^1] Az igazságügyi szakértői intézménynél az igazságügyi alkalmazottak által ellátható munkakörök megnevezését az 1. melléklet tartalmazza. Azon munkaköröket, ahol az igazságügyi alkalmazott tárgyévre vonatkozó alapilletményének módosításakor a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelés szempontjának figyelembevétele nem mellőzhető, az 1/A. melléklet tartalmazza.
 
 2. § (1) Az igazságügyi szakértői intézmény igazságügyi szakértőjének és szakértőjelöltjének képesítési követelményei vonatkozásában az igazságügyi szakértői szakterületekről, valamint az azokhoz kapcsolódó képesítési és egyéb szakmai feltételekről szóló miniszteri rendelet (a továbbiakban: Iszr.) rendelkezései az irányadók.
 
@@ -12,4 +12,7 @@
 
 (6) A (4) és (5) bekezdésben megjelölt igazságügyi alkalmazottak részére – ide nem értve a gazdasági vezető, a belső ellenőr és a jogtanácsos munkakört – a kinevezési (munkáltatói) jogkör gyakorlója a képesítés megszerzésére, kivételesen indokolt esetben – határidő megjelölésével, de legfeljebb 3 évre – halasztást engedélyezhet.
 
-(7) Az igazságügyi szakértői intézmény vezetői munkaköreit a 4. melléklet tartalmazza.
+(7)[^2] Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény (a továbbiakban: Iasz.) 104. § (1) bekezdésében fel nem sorolt vezetői munkaköröknek az Iasz. 7. melléklete szerinti fizetési fokozatokba sorolását a 4. melléklet határozza meg.
+
+[^1]: Az 1. § a 17/2018. (VI. 12.) BM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (7) bekezdése a 17/2018. (VI. 12.) BM rendelet 2. §-ával megállapított szöveg.
