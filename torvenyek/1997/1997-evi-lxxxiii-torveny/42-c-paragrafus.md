@@ -8,7 +8,7 @@ c) a gyermeket ideiglenes hatállyal elhelyezték, nevelésbe vették, továbbá
 
 d) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, mini bölcsőde, munkahelyi bölcsőde, családi bölcsőde, napközbeni gyermekfelügyelet) helyezték el, kivéve ha a jogosult keresőtevékenységet folytat, továbbá ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
 
-e) a jogosult előzetes letartóztatásban van vagy szabadságvesztés-, elzárásbüntetését tölti;
+e) a jogosult letartóztatásban van, vagy szabadságvesztést, elzárást tölt;
 
 f)
 

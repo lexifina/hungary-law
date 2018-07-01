@@ -8,7 +8,7 @@ b) a keresőképtelenségnek arra a tartamára, amelyre a biztosított a teljes 
 
 c) a gyermekgondozást segítő ellátás folyósításának az idejére, ide nem értve a segély mellett végzett munka alapján járó táppénzt,
 
-d) az előzetes letartóztatás és a szabadságvesztés tartamára.
+d) a letartóztatás és a szabadságvesztés tartamára,
 
 e) a saját jogú nyugdíj folyósításának időtartamára.
 
