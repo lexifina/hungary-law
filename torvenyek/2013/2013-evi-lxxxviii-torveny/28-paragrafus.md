@@ -1,17 +1,15 @@
-28. § (1) A körözési eljárást lefolytató szerv az eltűnt személy bejelentés alapján, valamint az Eütv. 9/A. § alapján elrendelt körözés végrehajtása során
+28. § (1) A körözési eljárást lefolytató szerv az eltűnt személy bejelentés alapján, valamint az Eütv. 9/A. §-a alapján elrendelt körözés végrehajtása során
 
-a) az Rtv. 27. §, 29. §, 30. §, 32. §, 35/A. §, 35/B. §, 41. §, 42. § (1) bekezdése, 58. § (1) bekezdés e) pontja, 63–74. §, valamint a 91/C. § (1)–(2) bekezdése,
+a) az Rtv. 27. §-a, 29–30. §-a, 32. §-a, 35/A. §-a, 35/B. §-a, 41. §-a, 42. § (1) bekezdése, 58. § (1) bekezdés e) pontja, valamint a 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja,
 
-b) a 26. § (1) bekezdés b) pontja
+b) az Rtv. szerinti titkos információgyűjtést folytathat, illetve
 
-szerinti intézkedést alkalmazhatja.
+c) nemzetközi körözést rendelhet el.
 
 (2) A körözési eljárást lefolytató szerv az ismeretlen személyazonosságú holttest, holttestrész azonosítása érdekében elrendelt körözés végrehajtása során
 
-a) az Rtv. 30. §, 32. §, 39–41. §, 42. § (1) bekezdése,
+a) az Rtv. 30. §-a, 32. §-a, 39–41. §-a és 42. § (1) bekezdése szerinti intézkedést alkalmazhatja, illetve
 
-b) az 26. § (1) bekezdés b) pontja
+b) nemzetközi körözést rendelhet el.
 
-szerinti intézkedést alkalmazhatja.
-
-(3) Az ismeretlen személyazonosságú holttest, holttestrész nemzetközi körözése végrehajtása során körözési eljárást lefolytató szerv az (1) bekezdés a) pontjában, valamint a (2) bekezdés a) pontjában meghatározott intézkedést alkalmazhatja.
+(3) Az ismeretlen személyazonosságú holttest, holttestrész nemzetközi körözése végrehajtása során a körözési eljárást lefolytató szerv az Rtv. 27. §-a, 29–30. §-a, 32. §-a, 35/A. §-a, 35/B. §-a, 39–41. §-a, 42. § (1) bekezdése, 58. § (1) bekezdés e) pontja, valamint a 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja.

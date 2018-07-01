@@ -82,7 +82,9 @@ c) a körözött közokirat érvényességi idejének lejártától számított 
 
 d) az a)–c) pontok alá nem tartozó olyan esetben, amikor a körözés elrendelésének oka elvesztés, 5 évig,
 
-e) lőfegyver esetén a körözés elrendelésétől számított 90 évig
+e) lőfegyver esetén a körözés elrendelésétől számított 90 évig,
+
+f) olyan dolog esetén, amely elkobozható, vagy amelyre vagyonelkobzás rendelhető el, a körözés elrendelésétől számított 90 évig
 
 kezeli.
 

@@ -16,19 +16,21 @@ f) a rendőrségről szóló törvényben meghatározott általános rendőrség
 
 g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv bűnüldözési feladatai ellátása céljából,
 
-h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából,
+h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
 
 i) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából,
 
-j) a Nemzeti Adó- és Vámhivatal nyomozó hatósági és vámellenőrzési feladatai ellátása céljából.
+j) a Nemzeti Adó- és Vámhivatal vámellenőrzési feladatai ellátása céljából,
 
-(2) Az igazságügyért felelős miniszter a kegyelmi ügyek intézése céljából, valamint az igazságügyért felelős miniszter és az ügyészség a jogsegélykérelem elintézése céljából, továbbá a nemzetközi szerződésekben meghatározott és a viszonossági gyakorlatból eredő feladatai teljesítése céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából, a körözött dolgok nyilvántartásából, valamint az ismeretlen holttestek, holttestrészek nyilvántartásából.
+k) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából.
+
+(2) Az igazságügyért felelős miniszter és az ügyészség a kegyelmi ügyek intézése és a jogsegélykérelem elintézése céljából, továbbá a nemzetközi szerződésekben meghatározott és a viszonossági gyakorlatból eredő feladatai teljesítése céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából, a körözött dolgok nyilvántartásából, valamint az ismeretlen holttestek, holttestrészek nyilvántartásából.
 
 (3) A menekültügyi hatóság, az állampolgársági ügyben eljáró szerv és az idegenrendészeti hatóság a személyazonosság megállapítása céljából közvetlen hozzáféréssel jogosult átvenni adatot – a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével – a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a körözött okmányokra vonatkozóan.
 
-(4) Az Országgyűlési Őrség az Országgyűlésről szóló törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
+(4) Az Országgyűlési Őrség az Országgyűlésről szóló törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
-(4a) A rendőrségről szóló törvényben meghatározott, az általános rendőrségi feladatok ellátására létrehozott szerv a törvényben meghatározott személy- és létesítménybiztosítási feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
+(4a) A rendőrségről szóló törvényben meghatározott, az általános rendőrségi feladatok ellátására létrehozott szerv a törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
 (5) A bíróság a holttá nyilvánítási eljárása során közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 

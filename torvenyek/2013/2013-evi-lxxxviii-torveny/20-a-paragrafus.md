@@ -22,4 +22,4 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (2) Akinek az (1) bekezdés szerinti eljárási cselekmény végrehajtása alapvető jogát sértette, a végrehajtástól számított nyolc napon belül panasszal fordulhat a végrehajtást elrendelő rendőri szerv vezetőjéhez.
 
-(3) A körözési eljárást lefolytató szerv az eltűnt személy felkutatása céljából – a tizennyolcadik életévét meg nem haladott tanú kivételével – a tanúként kihallgatott személy által elmondottak valóságtartalmának ellenőrzése érdekében az érintett előzetes, írásos hozzájárulásával poligráfot alkalmazhat.
+(3) A körözési eljárást lefolytató szerv az eltűnt személy felkutatása céljából – a tizennyolcadik életévét meg nem haladott tanú kivételével – a tanúként kihallgatott személy által elmondottak valóságtartalmának ellenőrzése érdekében az érintett előzetes, írásos hozzájárulásával műszeres vallomásellenőrzést alkalmazhat.

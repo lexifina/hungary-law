@@ -26,19 +26,27 @@ bc) körülményeire vonatkozó adatokat,
 
 c) az 3. § (2) bekezdés j) pontjában meghatározott adatokat,
 
-d) a körözési eljárás során megtett intézkedés
+d) a körözés elrendelésének
 
-da) megnevezését,
+da) okát,
 
-db) elrendelésének időpontját,
+db) jogalapját a jogszabályhely megjelölésével, a bűncselekménnyel összefüggésben elrendelt körözés esetén a bűncselekmény megnevezését, a Büntető Törvénykönyv szerinti minősítését,
 
-dc) befejezésének időpontját, valamint
+dc) időpontját,
 
-dd) tartalmi leírását.
+e) a körözési eljárás során megtett intézkedés
 
-(3) Az ismeretlen holttestek, holttestrészek nyilvántartásában a (2) bekezdés a)–c) pontjában foglalt adatot a körözést elrendelő rögzíti.
+ea) megnevezését,
 
-(4) Az ismeretlen holttestek, holttestrészek nyilvántartásában a körözési eljárás során ismertté vált, a (2) bekezdés a) pont ad) alpontjában, b) pont bc) alpontjában c) pontjában és d) pontjában meghatározott adatokat a körözési eljárást lefolytató szerv vagy az intézkedést végrehajtó szerv rögzíti.
+eb) elrendelésének időpontját,
+
+ec) befejezésének időpontját, valamint
+
+ed) tartalmi leírását.
+
+(3) Az ismeretlen holttestek, holttestrészek nyilvántartásában a (2) bekezdés a)–d) pontjában foglalt adatot a körözést elrendelő rögzíti.
+
+(4) Az ismeretlen holttestek, holttestrészek nyilvántartásában a körözési eljárás során ismertté vált, a (2) bekezdés a) pont ad) alpontjában, b) pont bc) alpontjában c) pontjában és e) pontjában meghatározott adatokat a körözési eljárást lefolytató szerv vagy az intézkedést végrehajtó szerv rögzíti.
 
 (5) Az ismeretlen holttestek, holttestrészek nyilvántartásában található adatokat a nyilvántartó
 
