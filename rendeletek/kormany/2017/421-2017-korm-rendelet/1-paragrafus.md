@@ -8,9 +8,9 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-1. büntetőeljárásban biztosított támogatás: büntetőeljárásban személyes költségmentesség a pótmagánvádló részére, valamint pártfogó ügyvédi képviselet a sértett, magánvádló, magánfél, egyéb érdekelt és a pótmagánvádló részére;
+1.[^1] büntetőeljárásban biztosított támogatás: büntetőeljárásban pártfogó ügyvédi képviselet biztosítása, a pártfogó ügyvéd díjának és költségeinek (a továbbiakban együtt: pártfogó ügyvédi díj) állam általi előlegezése és – jogszabályban meghatározott esetben – viselése a sértett, a magánvádló, a pótmagánvádló, a magánfél, a vagyoni érdekelt és az egyéb érdekelt esetében, továbbá a kirendelt védő díjának és költségeinek állam általi előlegezése és viselése a terhelt esetében;
 
-2. értesítés: a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 101. § (3) bekezdésében foglalt adatokat, büntetőügyben nyújtott támogatás esetében a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 340. § (3) bekezdésében megjelölt adatokat tartalmazó irat vagy a jogerős bírósági határozatnak a hivatkozott adatokat tartalmazó másolata;
+2.[^2] értesítés: a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 101. § (3) bekezdésében foglalt adatokat, büntetőügyben nyújtott támogatás esetében a büntetőeljárásról szóló 2017. évi XC. törvény 577. § (1) bekezdése szerinti adatokat tartalmazó irat vagy a jogerős bírósági határozatnak a hivatkozott adatokat tartalmazó másolata;
 
 3. fél: a jogi segítségnyújtás engedélyezése érdekében a jogi segítségnyújtó szolgálatnál kérelmet előterjesztő személy vagy szervezet, ideértve azt a felet is, akinek a határon átnyúló tartási ügyében pártfogó ügyvéd kirendelése érdekében a központi hatóság keresi meg a jogi segítségnyújtó szolgálatot;
 
@@ -37,3 +37,6 @@
 14. területi hivatal: a jogi segítségnyújtási feladatkörében eljáró fővárosi és megyei kormányhivatal támogatást engedélyező szerve;
 
 15. tolmács: az a jogi segítségnyújtó szolgálattal szerződött természetes vagy jogi személy, aki a kiutasított külföldi számára biztosított peren kívüli támogatás igénybevétele során a kiutasított külföldi fél és a jogi szolgáltatást nyújtó jogi segítő közötti kommunikáció során nyelvi segítséget nyújt.
+
+[^1]: Az 1. § 1. pontja a 109/2018. (VI. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^2]: Az 1. § 2. pontja a 109/2018. (VI. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

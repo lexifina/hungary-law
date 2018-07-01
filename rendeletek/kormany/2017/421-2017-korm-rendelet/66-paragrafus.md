@@ -1,3 +1,5 @@
-## 65. § A nyomozó hatóság, az ügyész és a büntetőügyben eljáró bíróság, valamint a jogi segítségnyújtó szolgálat a büntetőeljárásban biztosított támogatással (a továbbiakban e részben: támogatás) kapcsolatos ügyben e rendelet szerint jár el.
+## 65. §[^6] A bíróság, az ügyészség, a nyomozó hatóság, valamint a jogi segítségnyújtó szolgálat a büntetőeljárásban biztosított támogatással (a továbbiakban e részben: támogatás) kapcsolatos ügyben e rendelet szerint jár el.
 
 ## 34. A nyomtatványok használata
+
+[^6]: A 65. § a 109/2018. (VI. 25.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
