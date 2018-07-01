@@ -30,13 +30,13 @@ szemben.
 
 (4) A (2) bekezdésben előírt titoktartási kötelezettség az eljárás alapját képező ügyre vonatkozóan nem áll fenn a feladatkörében eljáró
 
-a) nyomozó hatósággal, ügyészséggel szemben a folyamatban lévő büntetőeljárás, valamint a feljelentés kiegészítése keretében,
+a) nyomozó hatósággal, ügyészséggel szemben,
 
 b) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal szemben,
 
-c) a törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel szemben.
+c) a törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel szemben.
 
-(5) A pénzügyi intézmény a nyomozó hatóságot, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a „halaszthatatlan intézkedés” jelzéssel ellátott, önálló jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak minősülő adatokról.
+(5)
 
 (6) Nem jelenti az üzleti titok sérelmét az MNB által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása
 

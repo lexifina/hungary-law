@@ -16,11 +16,11 @@ b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a felad
 
 c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
 
-d) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését végző nyomozó hatósággal, ügyészséggel,
+d) a büntetőeljárás során az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
 
 e) a büntető-, valamint polgári ügyben, a csőd-, illetve felszámolási eljárás, továbbá kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 
-f) a külön törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
+f) a külön törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel,
 
 g) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 
@@ -48,7 +48,7 @@ r) a szociális rászorultságtól függő pénzbeli és természetbeni ellátá
 
 s) a csődeljárásról és a felszámolási eljárásról szóló törvényben meghatározott felszámoló szervezetek nyilvántartásával és hatósági ellenőrzésével összefüggő feladatai során eljáró, a felszámoló szervezeteket nyilvántartó hatósággal
 
-szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresése esetén.
+szemben e szerveknek a pénzügyi intézményhez intézett adatkérése, illetve írásbeli megkeresése esetén.
 
 (3) A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
 
@@ -68,7 +68,9 @@ g) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghat
 
 (4) Az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró Felügyelet helyszíni ellenőrzést folytat.
 
-(4a) Ha törvény másként nem rendelkezik, akkor a (2) bekezdésben meghatározott esetben a pénzügyi intézmény a nyomozó hatóság és az ügyészség írásbeli megkeresésére tizenöt munkanapon belül, a nemzetbiztonsági szolgálat írásbeli megkeresésére kettő munkanapon belül szolgáltatja a kért adatot.
+(4a) Ha törvény másként nem rendelkezik, akkor a (2) bekezdésben meghatározott esetben a pénzügyi intézmény rendőrség és a Nemzeti Adó- és Vámhivatal titkos információgyűjtés folytatására feljogosított szerve, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv adatkérésére tizenöt munkanapon belül, a nemzetbiztonsági szolgálat írásbeli megkeresésére kettő munkanapon belül szolgáltatja a kért adatot.
+
+(4b) A pénzügyi intézmény a büntetőeljárásról szóló törvényben meghatározott fizetési műveletek megfigyelésének elrendelése esetén az elrendelésről szóló határozatban megjelölt adatokat az abban meghatározott módon és határidőben köteles rögzíteni és továbbítani.
 
 (5) Nem kell a (4) bekezdés szerinti adatokat az írásbeli megkeresésében megjelölni, ha a Gazdasági Versenyhivatal előzetes értesítés nélkül helyszíni szemlét vagy helyszíni kutatást tart. Ezekben az esetekben a Gazdasági Versenyhivatal megkeresését a helyszínen közli.
 

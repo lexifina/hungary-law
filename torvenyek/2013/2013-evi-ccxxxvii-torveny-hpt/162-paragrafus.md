@@ -1,4 +1,4 @@
-162. § (1) A pénzügyi intézmény a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul, de legkésőbb kettő munkanapon belül kiszolgáltatja a kért adatot a nála vezetett bankszámláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a bankszámla vagy az ügylet
+162. § (1) A pénzügyi intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul, de legkésőbb kettő munkanapon belül kiszolgáltatja a kért adatot a nála vezetett bankszámláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a bankszámla vagy az ügylet
 
 a) kábítószerrel visszaéléssel (1978. évi IV. törvény 282–282/C. §), kábítószer-kereskedelemmel (Btk. 176–177. §), kábítószer birtoklásával (Btk. 178–79. §), kóros szenvedélykeltéssel (Btk. 181. §), kábítószer készítésének elősegítésével (Btk. 182. §) vagy új pszichoaktív anyaggal visszaéléssel [1978. évi IV. törvény 283/B. §, illetve Btk. 184. § (1) bekezdés b) pont],
 
@@ -22,4 +22,6 @@ van összefüggésben.
 
 (3) A pénzügyi intézmény a megkeresések teljesítése során a minősített adat védelméről szóló törvényben és egyéb, a minősített adat kezelésére vonatkozó jogszabályokban előírt követelmények betartásával jár el.
 
-(4) Ha a pénzügyi intézmény a nyomozó hatóság, a nemzetbiztonsági szolgálat vagy az ügyészség írásbeli megkeresésére határidőn belül az adatszolgáltatást nem teljesíti és a mulasztását a megkereső szerv felé írásban sem menti ki, a megkereső szerv erről tájékoztatja a Felügyeletet.
+(4) Ha a pénzügyi intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség vagy a bíróság adatkérésére, illetve írásbeli megkeresésére határidőn belül az adatszolgáltatást nem teljesíti és a mulasztását a megkereső szerv felé írásban sem menti ki, a megkereső szerv erről tájékoztatja a Felügyeletet.
+
+(5) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény 262. § (3) bekezdésében meghatározottak szerinti adatkérés esetén a pénzügyi intézmény az ügyészség engedélye nélkül is köteles az általa kezelt, banktitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.

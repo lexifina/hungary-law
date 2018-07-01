@@ -20,7 +20,7 @@
 
 (10) A hitelintézetek egyesülése vagy fiókteleppé alakulása, valamint a betétállomány átruházása esetén az (1)–(3) bekezdés szerinti összeghatár szempontjából 3 hónapig külön betétnek minősülnek egyazon betétesnek az egyesülés, átruházás, illetve a fiókteleppé alakulás előtt az összeolvadó, beolvadó, átadó, átvevő vagy átalakuló hitelintézetnél elhelyezett betétei.
 
-(11) Az olyan betétre, amellyel kapcsolatban pénzmosás alapos gyanúja miatt büntetőeljárás van folyamatban, az eljárás jogerős befejezéséig kártalanítás nem fizethető ki.
+(11) Az olyan betétre, amellyel kapcsolatban pénzmosás miatt büntetőeljárás van folyamatban, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig kártalanítás nem fizethető ki.
 
 (12)
 
