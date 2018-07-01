@@ -1,4 +1,4 @@
-## 20122V20000010_6
+## 20122V20000010_7
 
 2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^13]
 
@@ -1380,6 +1380,8 @@ G6100 Guillain-Barré-syndroma
 
 G7000 Myasthenia gravis
 
+G6180 Egyéb gyulladásos polyneuropathiák
+
 ÉS BEAVATKOZÁSOK (LEGALÁBB 5 NAPON ÁT)
 
 92255 Human immunglobulin adása (ellátási napban)
@@ -1392,7 +1394,69 @@ G6100 Guillain-Barré-syndroma
 
 G7000 Myasthenia gravis
 
+G6180 Egyéb gyulladásos polyneuropathiák
+
 ÉS BEAVATKOZÁSOK (LEGALÁBB 2 NAPON ÁT)
+
+92255 Human immunglobulin adása (ellátási napban)
+
+**** 01 013E Neuroimmunológiai betegség kezelése humán immunglobulin terápiával, 10-18 év között
+
+BETEGSÉGEK
+
+G0481 Autoimmun encephalitis
+
+G2531 Opsoclonus myoclonus
+
+G35H0 Sclerosis multiplex
+
+G3680 Egyéb meghatározott heveny disszeminált demyelinisatio
+
+G3690 Heveny, disszeminált demyelinisatio, k.m.n.
+
+G4051 Autoimmun eredetű speciális epilepsziás szindrómák
+
+G4081 Autoimmun eredetű epilepszia
+
+G4181 Autoimmun eredetű status epilepticus
+
+G6100 Guillain-Barré-syndroma
+
+G6180 Egyéb gyulladásos polyneuropathiák
+
+G7000 Myasthenia gravis
+
+ÉS BEAVATKOZÁSOK
+
+92255 Human immunglobulin adása (ellátási napban)
+
+**** 01 013F Neuroimmunológiai betegség kezelése humán immunglobulin terápiával, 10 év alatt
+
+BETEGSÉGEK
+
+G0481 Autoimmun encephalitis
+
+G2531 Opsoclonus myoclonus
+
+G35H0 Sclerosis multiplex
+
+G3680 Egyéb meghatározott heveny disszeminált demyelinisatio
+
+G3690 Heveny, disszeminált demyelinisatio, k.m.n.
+
+G4051 Autoimmun eredetű speciális epilepsziás szindrómák
+
+G4081 Autoimmun eredetű epilepszia
+
+G4181 Autoimmun eredetű status epilepticus
+
+G6100 Guillain-Barré-syndroma
+
+G6180 Egyéb gyulladásos polyneuropathiák
+
+G7000 Myasthenia gravis
+
+ÉS BEAVATKOZÁSOK
 
 92255 Human immunglobulin adása (ellátási napban)
 
@@ -5808,6 +5872,24 @@ A főcsoportba tartozó bármely betegség
 
 01203 Hajlítható műlencse
 
+**** 02 0682 Szürkehályogműtét phakoemulsificatios módszerrel, tórikus műlencse biztosításával
+
+BETEGSÉGEK
+
+A főcsoportba tartozó bármely betegség
+
+ÉS TÁRSULT BETEGSÉGEK
+
+H5220 Astigmatizmus
+
+ÉS BEAVATKOZÁSOK
+
+51477 Szürkehályog műtét phacoemulsificatios módszerrel, tórikus műlencse-beültetéssel
+
+ÉS ESZKÖZÖK
+
+01205 Tórikus műlencse
+
 **** 02 069A Pars plana vitrectomia műlencse-beültetéssel
 
 BETEGSÉGEK
@@ -7464,82 +7546,4 @@ C0300 Felső fogíny rosszindulatú daganata
 
 C0301 Felső fogíny rosszindulatú daganata I. stádium
 
-C0302 Felső fogíny rosszindulatú daganata II. stádium
-
-C0303 Felső fogíny rosszindulatú daganata III. stádium
-
-C0304 Felső fogíny rosszindulatú daganata IV. stádium
-
-C0310 Alsó fogíny rosszindulatú daganata
-
-C0311 Alsó fogíny rosszindulatú daganata I. stádium
-
-C0312 Alsó fogíny rosszindulatú daganata II. stádium
-
-C0313 Alsó fogíny rosszindulatú daganata III. stádium
-
-C0314 Alsó fogíny rosszindulatú daganata IV. stádium
-
-C0390 Fogíny rosszindulatú daganata, k.m.n.
-
-C0391 Fogíny rosszindulatú daganata, k.m.n. I. stádium
-
-C0392 Fogíny rosszindulatú daganata, k.m.n. II. stádium
-
-C0393 Fogíny rosszindulatú daganata, k.m.n. III. stádium
-
-C0394 Fogíny rosszindulatú daganata, k.m.n. IV. stádium
-
-C0400 A szájfenék első részének rosszindulatú daganata
-
-C0401 A szájfenék első részének rosszindulatú daganata I. stádium
-
-C0402 A szájfenék első részének rosszindulatú daganata II. stádium
-
-C0403 A szájfenék első részének rosszindulatú daganata III. stádium
-
-C0404 A szájfenék első részének rosszindulatú daganata IV. stádium
-
-C0410 A szájfenék oldalsó részének rosszindulatú daganata
-
-C0411 A szájfenék oldalsó részének rosszindulatú dag. I. stádium
-
-C0412 A szájfenék oldalsó részének rosszindulatú dag. II. stádium
-
-C0413 A szájfenék oldalsó részének rosszindulatú dag. III. stádium
-
-C0414 A szájfenék oldalsó részének rosszindulatú dag. IV. stádium
-
-C0480 A szájfenék határt átfedő elváltozása, rosszindulatú daganata
-
-C0481 A szájfenék határt átfedő elváltozása, rossz. dag. I. stádium
-
-C0482 A szájfenék határt átfedő elváltozása, rossz. dag. II. stádium
-
-C0483 A szájfenék határt átfedő elváltozása, rossz. dag. III. stádium
-
-C0484 A szájfenék határt átfedő elváltozása, rossz. dag. IV. stádium
-
-C0490 Szájfenék rosszindulatú daganata, k.m.n.
-
-C0491 Szájfenék rosszindulatú daganata, k.m.n. I. stádium
-
-C0492 Szájfenék rosszindulatú daganata, k.m.n. II. stádium
-
-C0493 Szájfenék rosszindulatú daganata, k.m.n. III. stádium
-
-C0494 Szájfenék rosszindulatú daganata, k.m.n. IV. stádium
-
-C0500 Kemény szájpad rosszindulatú daganata
-
-C0501 Kemény szájpad rosszindulatú daganata I. stádium
-
-C0502 Kemény szájpad rosszindulatú daganata II. stádium
-
-C0503 Kemény szájpad rosszindulatú daganata III. stádium
-
-C0504 Kemény szájpad rosszindulatú daganata IV. stádium
-
-C0510 Lágy szájpad rosszindulatú daganata
-
-[^13]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 8. § (1) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 3. § (3)–(4) bekezdése szerint módosított szöveg.
+[^13]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 8. § (1) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 3. § (3)–(4) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 7. § (2) bekezdése szerint módosított szöveg.
