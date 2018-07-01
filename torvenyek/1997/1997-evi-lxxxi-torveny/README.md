@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-81-00-00
 | 2017-01-01 | 2016. évi CLXVII. törvény | 1997-81-00-00.66 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 1997-81-00-00.67 |
 | 2018-01-01 | 2017. évi L. törvény | 1997-81-00-00.68 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 1997-81-00-00.69 |
