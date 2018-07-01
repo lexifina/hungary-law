@@ -2,7 +2,7 @@
 
 a)–b)
 
-c)
+c) 54. § (2) bekezdés a) pont aa) alpontjában a „településen” szövegrész helyébe a „településen vagy településrészen” szöveg,
 
 d)
 
