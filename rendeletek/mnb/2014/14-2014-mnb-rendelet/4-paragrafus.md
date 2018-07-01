@@ -1,16 +1,13 @@
 4. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2014. július 1-jén lép hatályba.
 
-(2)[^3] A 3. § (1) bekezdése 2016. január 1-jén lép hatályba.
+(2)[^10] A 3. § (1) bekezdése 2016. január 1-jén lép hatályba.
 
 (3) A hitelintézet devizafinanszírozás megfelelési mutatójának mindenkor el kell érnie
 
-a) 2014. július 1. és 2014. december 31. között legalább a 0,75-ös,
+a)–c)[^11]
 
-b) 2015. január 1. és 2015. június 30. között legalább a 0,80-as,
+d)–e)[^12]
 
-c) 2015. július 1. és 2015. december 31. között legalább a 0,85-ös,
-
-d)–e)[^4]
-
-[^3]: A 4. § (2) bekezdése a 26/2015. (VII. 30.) MNB rendelet 2. § b) pontja szerint módosított szöveg.
-[^4]: A 4. § (3) bekezdés d)–e) pontját a 26/2015. (VII. 30.) MNB rendelet 3. § (1) bekezdése hatályon kívül helyezte.
+[^10]: A 4. § (2) bekezdése a 26/2015. (VII. 30.) MNB rendelet 2. § b) pontja szerint módosított szöveg.
+[^11]: A 4. § (3) bekezdés a)–c) pontját a 22/2018. (VI. 27.) MNB rendelet 6. §-a hatályon kívül helyezte.
+[^12]: A 4. § (3) bekezdés d)–e) pontját a 26/2015. (VII. 30.) MNB rendelet 3. § (1) bekezdése hatályon kívül helyezte.

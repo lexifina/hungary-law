@@ -8,6 +8,7 @@ b) a Magyar Fejlesztési Bank Zrt.-re,
 
 c) a Magyar Export-Import Bank Zrt.-re és
 
-d) a Központi Elszámolóház és Értéktár (Budapest) Zrt.-re.
+d)[^2] a KELER Zrt.-re.
 
 [^1]: Az 1. § (1) bekezdése a 26/2015. (VII. 30.) MNB rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés d) pontja a 22/2018. (VI. 27.) MNB rendelet 1. §-ával megállapított szöveg.

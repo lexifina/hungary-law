@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-14-20-2
 | 2014-07-02 | 2014-14-20-2C.2 | 2010: CXXX. törvény |
 | 2015-07-31 | 2014-14-20-2C.3 | 26/2015. (VII. 30.) MNB rendelet |
 | 2016-01-01 | 2014-14-20-2C.4 | 26/2015. (VII. 30.) MNB rendelet |
+| 2018-07-01 | 2014-14-20-2C.5 | 22/2018. (VI. 27.) MNB rendelet |
