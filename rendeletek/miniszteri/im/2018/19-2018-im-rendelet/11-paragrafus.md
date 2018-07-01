@@ -1,0 +1,1 @@
+11. § Hatályát veszti a terhelt és a meghatalmazott védő készkiadása, illetve a meghatalmazott védő díja megtérítésének szabályairól, valamint a büntetőeljárásban részt vevő személyek és képviselőik költségéről és díjáról szóló 25/2016. (XII. 23.) IM rendelet.

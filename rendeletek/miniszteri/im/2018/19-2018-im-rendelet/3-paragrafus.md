@@ -1,0 +1,5 @@
+## 2. § A Be. 576. § (2) bekezdésében, 782. § (2) bekezdésében és 813. § (2) bekezdésében meghatározott esetben a meghatalmazott védő az 1. § (1) és (2) bekezdésében meghatározott költségek megtérítésére jogosult azzal, hogy útiköltség akkor illeti meg, ha olyan eljárási cselekményen vett részt, amelyet nem az irodájának, alirodájának vagy fiókirodájának székhelyén tartottak.
+
+3. § (1) A Be. 576. § (2) bekezdésében, 782. § (2) bekezdésében és 813. § (2) bekezdésében meghatározott esetben a meghatalmazott védő a pártfogó ügyvéd, az ügygondnok és a kirendelt védő részére megállapítható díjról szóló 32/2017. (XII. 27.) IM rendelet (a továbbiakban: 32/2017. IM rendelet) 7. §-a szerint megállapított díj megtérítésére jogosult.
+
+(2) Ha a bíróság a terheltet csak egyes bűncselekmények miatt menti fel, vagy az ügyészség vádejtése miatt csak egyes bűncselekmények miatt szünteti meg az eljárást, az (1) bekezdés alapján a meghatalmazott védőnek járó díj összegét a bíróság arányosan, az általa indokoltnak tartott mértékben csökkentheti.
