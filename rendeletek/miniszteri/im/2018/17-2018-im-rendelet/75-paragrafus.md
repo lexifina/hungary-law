@@ -1,0 +1,1 @@
+## „(2) Az (1) bekezdés b) pontjában megjelölt időpontot legkésőbb a kezdőirat kormányhivatalhoz történő érkeztetésétől számított harmincadik napra kell kitűzni. Az (1) bekezdés c) pontja alapján hivatalból vagy a pártfogolt kérelmére intézkedik a tolmács biztosításáról.”
