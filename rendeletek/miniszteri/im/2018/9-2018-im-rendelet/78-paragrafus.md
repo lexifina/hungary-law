@@ -1,0 +1,3 @@
+## XIII. Fejezet
+
+## A KATONÁKRA VONATKOZÓ RENDELKEZÉSEK

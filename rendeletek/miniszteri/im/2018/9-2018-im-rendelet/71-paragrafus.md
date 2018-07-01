@@ -1,0 +1,13 @@
+## 70. § Ha a bíróság az elektronikus adat végleges hozzáférhetetlenné tételét az elektronikus adat eltávolításával rendeli el, a 15. melléklet szerinti végrehajtási értesítőlap két papíralapú példányát eredeti bírói aláírással látja el és a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 32. §-a szerint illetékes törvényszéki végrehajtói ügykezelő irodának küldi meg, továbbá az értesítőlapot a bíróság székhelye szerint illetékes bv. csoportnak is megküldi.
+
+71. § (1) A bv. csoport a végrehajtási értesítőlapot határidős nyilvántartásba helyezi.
+
+(2) A törvényszéki végrehajtó a végrehajtási cselekményről készült jegyzőkönyvet három napon belül megküldi a székhelye szerint illetékes bv. csoportnak. A jegyzőkönyvhöz mellékelni kell a végrehajtási értesítőlapnak a törvényszéki végrehajtói ügykezelő iroda által érkeztetett példányáról készült másolatát. Ha a tárhelyszolgáltató a kötelezettséget teljesítette, a bv. csoport a végrehajtás iránti előírást törli a nyilvántartásból.
+
+(3) Ha a tárhelyszolgáltató a kötelezettségének nem tett eleget vagy a teljesítést megtagadta, a bv. bíró a pénzbírság kiszabásáról szóló véglegessé válási záradékkal ellátott határozatának kiadmányát megküldi a törvényszéki végrehajtónak, egyebekben a rendbírság behajtására vonatkozó szabályok szerint jár el.
+
+(4) A törvényszéki végrehajtó a pénzbírság kiszabásáról szóló határozat alapján elvégzett, a kötelezettség teljesítésének ismételt ellenőrzéséről készült jegyzőkönyvet három napon belül megküldi a bv. csoportnak. Ha a kötelezett továbbra sem teljesítette az elektronikus adat eltávolítását, a bv. bíró lefolytatja a Bv. tv. 69/A. §-a szerinti eljárást, és erről értesíti az ügyben elsőfokon eljárt bíróságot.
+
+(5) Ha a kötelezett a kiszabott pénzbírság ellenére sem teljesít és a bv. bíró a pénzbírságot kiszabó határozat jogerőre emelkedését követő naptól számított három hónap elteltével újból pénzbírságot szab ki a kötelezettel szemben, a bíróság a továbbiakban a (3) bekezdés ismételt alkalmazásával jár el. A végrehajtási értesítőlap törvényszéki végrehajtó általi átvételét követő három év elteltével a végrehajtás iránti előírást a bv. csoport törli a nyilvántartásból.
+
+(6) Ha a bv. bíró az elektronikus adathoz való hozzáférés végleges megakadályozását rendelte el és a kötelezett vagy a törvényszéki végrehajtó tájékoztatása szerint a tárhelyszolgáltató a pénzbírság kiszabását követően utóbb mégis eleget tesz a kötelezettségének, a bv. bíró a Bv. tv. 69/A. § (3) bekezdése alapján beszerzi az ügyészség indítványát az elektronikus adathoz való hozzáférés végleges megakadályozásának megszüntetése tárgyában.

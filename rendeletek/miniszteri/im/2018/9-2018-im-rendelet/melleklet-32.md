@@ -1,0 +1,93 @@
+## .................................................. Törvényszék/Ítélőtábla/Kúria
+
+## ............................................. szám
+
+## ....................................... fogva tartó szerv Vezetője!
+
+## Utasítás előállításra
+
+## A .............................................. büntette/vétsége miatt ....................................... ellen indított büntetőügyben a törvényszék/ítélőtábla/Kúria a nyilvános ülést
+
+## 20..... ..... hó .... napján .... óra ..... percre
+
+## tűzte ki a bíróság hivatalos helyiségébe (...................................., ........................................ utca ................. házszám ............. emelet .......... ajtószám).
+
+## Az elsőfokú bíróság megnevezése: …………………………………………
+
+## Ügyszáma: …………………………………………..
+
+## Kérem, hogy a mellékelt értesítést az ott fogva lévő
+
+## név: ........................................................................ (születési név: ............................... születési helye: .........,................... születési ideje: ..... év ...... hó ..... nap, anyja neve: .................................., nyilvántartási száma:...................) terheltnek kézbesítse, és ha a terhelt vagy védője kéri, a terheltet a nyilvános ülésre állítsa elő.
+
+## Amennyiben az előállítás végrehajtásával kapcsolatosan bármely akadály felmerül, arról az elrendelő bíróság a ................................ telefonszámon értesítendő.
+
+## A kézbesítési ívet aláírás után, a fenti ügyszámra hivatkozással haladéktalanul küldje vissza a bíróságnak.
+
+## ......................., 20.......... év ................. hó ...... nap.
+
+## ............................................sk.
+
+## a tanács elnöke – bíró
+
+## A kiadmány hiteléül:
+
+## P. H.
+
+## .........................................
+
+## tisztviselő – írnok
+
+32. melléklet a 9/2018. (VI. 11.) IM rendelethez
+
+## JELENTKEZÉSKOR VIGYE MAGÁVAL!
+
+Az elítélt felhívása a szabadságvesztés megkezdésére
+
+Büntetés-végrehajtás Országos Parancsnoksága
+
+A Büntetés-végrehajtás Országos Parancsnoksága felhívja .................................................. elítéltet (aki ....................-n .......... évi ................ hó ... napján született, anyja neve: ..................................), hogy a ………................................................................ Járásbíróság/Törvényszék ...................../20...../................ számú ítéletével, a ……………............................................................. Törvényszék/ Ítélőtábla mint másodfokú bíróság, és az Ítélőtábla/Kúria a ........................./20............./............. számú határozatával ................................................ miatt jogerősen kiszabott ..................................................... szabadságvesztésének megkezdése végett .............................................................. Büntetés-végrehajtási Intézetben – Országos Büntetés-végrehajtási Intézetben – Fegyház és Börtönben (........................................... település ................................ utca ............... szám)
+
+20........ évi ........................................ hó ........ napján ............ órakor jelentkezzék.
+
+A jelentkezés elmulasztása esetén a Büntetés-végrehajtás Országos Parancsnoksága elővezetés elrendelése iránt fog intézkedni. Elővezetés esetén a költségtérítés:
+
+– szolgálati gépkocsi igénybevétele esetén legkevesebb 10 500 forint, amely a 26. kilométertől kilométerenként 50 forinttal, illetve a 3. órától óránként a foganatosításban részt vevő hatósági személyek számától függően 2000 forinttal tovább növekedhet,
+
+– szolgálati gépkocsi igénybevétele nélkül történő foganatosítás esetén a foganatosításban részt vevő hatósági személyek számától függően óránként 2000 forint.
+
+.................................., 20........ évi ..................... hó ....... napján.
+
+...................................................
+
+főosztályvezető aláírása
+
+Címzett: ............................................
+
+...........................................................
+
+FIGYELMEZTETÉS
+
+1. Nem bocsátható feltételes szabadságra, aki a szabadságvesztés letöltését önhibájából nem kezdte meg.
+
+2. A szabadságvesztés megkezdésére nem jelenhet meg ittas vagy bódult állapotban.
+
+3. Hozza magával a személyi igazolványát, útlevelét, az adóigazolványát, a taj-számát tartalmazó hatósági bizonyítványát és a nyugdíjfolyósítási törzsszámát, közgyógyellátási igazolványát, továbbá a rendelkezésére álló iskolai végzettséget igazoló okmányainak másolatait, valamint a kábítószer-függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban vagy megelőző-felvilágosító szolgáltatáson való részvételről szóló nyomozó hatósági tanúsítványt, az ügyészségi határozatot, illetve a bírósági végzést.
+
+4. A személyes használatára a következőket hozhatja magával: egy napi hideg élelem, eldobható, egyszer használatos borotva, fogápoló szerek, mosdószappan és egészségügyi papír, készpénz, papír, írószer, hozzátartozójának küldhető felbélyegzett boríték, vallásgyakorlathoz szükséges kegytárgyak, elemmel működtethető zsebrádió, fülhallgató, orvosa által igazoltan engedélyezett gyógyszerek kizárólag eredeti csomagolásban.
+
+A magánál nem tartható tárgyakat a büntetés-végrehajtási intézet vagy az elítélt letétjébe helyezi, vagy az elítélt költségére a megjelölt személynek elküldi, vagy jegyzőkönyv egyidejű felvétele mellett megsemmisíti.
+
+5. Gondoskodjon kiskorú gyermeke, vagy az Ön által gondozott más személy elhelyezéséről, felügyeletéről, továbbá vagyonának, ingatlanának biztonságba helyezéséről. Ha nem sikerül az elhelyezésről, felügyeletről gondoskodni, és így kiskorú gyermeke, vagy más, Ön által gondozott személy a szabadságvesztés végrehajtása alatt felügyelet nélkül maradna, ezt a körülményt a jelen felhívásra hivatkozva – a felügyelet nélkül maradó személy nevének, korának, lakó- vagy tartózkodási helyének megjelölésével – minél előbb jelentse a Büntetés-végrehajtás Országos Parancsnokságának.
+
+6. Ha Ön egy évnél fiatalabb gyermekét gondozza, kérelmezheti, hogy a szabadságvesztés büntetését a büntetés-végrehajtási intézet anya-gyermek részlegén tölthesse le a gyermek egyéves koráig. Az anya-gyermek részlegen való együttes elhelyezés iránti kérelmét a felhívás kézhezvételétől számított nyolc napon belül köteles írásban benyújtani a kijelölt bv. intézet vagy a Büntetés-végrehajtás Országos Parancsnoksága felé. A kérelemhez csatolja a gyermek születési anyakönyvi kivonatának másolatát. Kérelmének elbírálásáról a kérelem beérkezésétől számított 15 napon belül a Büntetés-végrehajtás Országos Parancsnoksága határozattal dönt. A döntéstől függően újabb felhívás kerül kibocsátásra. Jelentkezési kötelezettségének az újonnan kiadott felhívásban foglaltaknak megfelelően köteles eleget tennie.
+
+7. A Magyarországon élő elítélt köteles a lakóhelye vagy a tartózkodási helye címében (a továbbiakban:lakcím) bekövetkező változást a változás bekövetkeztétől számított három munkanapon belül a végrehajtásáért felelős szervnek, ha ez nem ismert, az érdemi határozatot hozó, elsőfokú bíróság székhelye szerint illetékes büntetés-végrehajtási bírónak bejelenteni.
+
+A kötelezettség elmulasztása miatt a büntetés-végrehajtási bíró hivatalból vagy a végrehajtásért felelős szerv kezdeményezésére rendbírságot szab ki.
+
+A rendbírság kiszabására a Be. 127. § (1)–(4) bekezdését kell alkalmazni.
+
+8. Felhívom a figyelmét, hogy a szabadságvesztés büntetés megkezdésével összefüggésben előterjesztett halasztás iránti kérelemnek, illetve az ilyen kérelmet elutasító végzés ellen bejelentett fellebbezésnek nincs halasztó hatálya. Jogerős halasztást engedélyező határozat meghozataláig a felhívásban megjelölt időpontban és helyen meg kell jelennie.
+
+Az elítélt felhívása a szabadságvesztés megkezdésére.

@@ -1,0 +1,7 @@
+## kiadmányát annak a pártfogó felügyelői feladatkörében eljáró fővárosi és megyei kormányhivatalnak küldi meg, amely a pártfogó felügyeletet végrehajtja.
+
+## XI. Fejezet
+
+## AZ ELKOBZÁS, A VAGYONELKOBZÁS ÉS AZ ELEKTRONIKUS ADAT HOZÁFÉRHETETLENNÉ TÉTELE VÉGREHAJTÁSA
+
+## 36. Az elkobzás végrehajtása

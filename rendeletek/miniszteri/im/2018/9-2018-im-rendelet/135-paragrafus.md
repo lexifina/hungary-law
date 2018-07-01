@@ -1,0 +1,3 @@
+135. § (1) Ha a bv. bíró a javítóintézetből való ideiglenes elbocsátást megszüntette, a fiatalkorúnak a javítóintézetbe történő szállítása iránt a határozat átadásával, illetve megküldésével intézkedik, és egyidejűleg felhívja a fiatalkorú törvényes képviselőjét, hogy a megjelölt határnapon – kézbesítés esetén a kézhezvételtől számított nyolc napon belül – a fiatalkorú beszállításáról gondoskodjon, és erről értesíti azt a javítóintézetet, ahol a javítóintézeti nevelést végrehajtják.
+
+(2) Ha a javítóintézet tájékoztatása szerint a fiatalkorút a megjelölt időpontban a törvényes képviselő nem szállította be, a bv. bíró a rendőrség útján intézkedik a fiatalkorú javítóintézetbe szállításáról.
