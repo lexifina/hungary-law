@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-2-00-00
 | 2017-04-01 | 2016. évi CLXIII. törvény | 2004-2-00-00.40 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2004-2-00-00.41 |
 | 2018-01-01 | 2017. évi L. törvény | 2004-2-00-00.42 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2004-2-00-00.43 |
