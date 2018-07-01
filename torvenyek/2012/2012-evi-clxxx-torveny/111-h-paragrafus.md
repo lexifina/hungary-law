@@ -1,4 +1,4 @@
-111/H. § (1) A bíróság a megfeleltetésről szóló határozatot hivatalból, illetve az eljáró bíróság, az ügyész, a terhelt vagy a védő indítványára kiegészítheti vagy megváltoztathatja, ha
+111/H. § (1) A bíróság a megfeleltetésről szóló határozatot hivatalból, illetve az eljáró bíróság, az ügyészség, a terhelt vagy a védő indítványára kiegészítheti vagy megváltoztathatja, ha
 
 a) egy újabb büntetőeljárásban a tagállami ítélet olyan rendelkezésének a megfeleltetése indokolt, amelyről a megfeleltetésről hozott korábbi határozat nem vagy nem a törvénynek megfelelően rendelkezett,
 
@@ -10,4 +10,4 @@ d) a tagállami ítéletet az ítélethozatal szerinti tagállamban megváltozta
 
 (2) A bíróság a megfeleltetésről szóló határozat kiegészítéséről vagy megváltoztatásáról hozott határozatát megküldi a bűnügyi nyilvántartó szerv részére is.
 
-(3) Ha az (1) bekezdésben foglaltakra figyelemmel a megfeleltetésről szóló határozat kiegészítésének vagy megváltozatásának indokoltságát a bűnügyi nyilvántartó szerv észleli, a megfeleltetés kiegészítését vagy megváltozatását az ügyész útján kezdeményezheti.
+(3) Ha az (1) bekezdésben foglaltakra figyelemmel a megfeleltetésről szóló határozat kiegészítésének vagy megváltozatásának indokoltságát a bűnügyi nyilvántartó szerv észleli, a megfeleltetés kiegészítését vagy megváltozatását az ügyészség útján kezdeményezheti.

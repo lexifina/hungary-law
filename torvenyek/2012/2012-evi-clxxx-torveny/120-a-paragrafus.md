@@ -8,7 +8,7 @@ b) a tanúsítvány miniszterhez történő érkezésekor az elítélt letölten
 
 (3) A tagállami ítéletben kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása az elítélt hozzájárulása nélkül átvehető, ha
 
-a) az elítélt Magyarországon lakóhellyel rendelkező magyar állampolgár,
+a) az elítélt Magyarországon lakcímmel rendelkező magyar állampolgár,
 
 b) az elítélt a tagállamban történt elítélését követően vagy az ellene a tagállamban folyamatban lévő eljárásra tekintettel Magyarországra szökött vagy ide más módon visszatért,
 

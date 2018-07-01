@@ -12,7 +12,7 @@ e) a tagállami igazságügyi hatóság által megküldött tanúsítvány nyilv
 
 f) a hiánypótlásra, kijavításra tűzött határidő eredménytelenül eltelt, illetve a 96. § (2) bekezdésére figyelemmel kiegészített tagállami határozat végrehajtása továbbra sem lehetséges;
 
-g) a biztosítási intézkedést elrendelő tagállami határozat közjogi tisztség betöltésén alapuló mentességet, illetve nemzetközi jogon alapuló mentességet élvező személy birtokában lévő bizonyítási eszközre, elkobzás alá eső dologra vagy vagyonelkobzás alá eső vagyonra vonatkozik, és a mentelmi jogot, illetve a nemzetközi jogon alapuló mentességet nem függesztették fel;
+g) a biztosítási intézkedést elrendelő tagállami határozat mentelmi jogon vagy nemzetközi jogon alapuló mentességet élvező személy birtokában lévő bizonyítási eszközre, elkobzás alá eső dologra vagy vagyonelkobzás alá eső vagyonra vonatkozik, és a mentelmi jogot, illetve a mentességet nem függesztették fel;
 
 h) a végrehajtást magyar törvény kizárja.
 

@@ -2,7 +2,7 @@
 
 106. § (1) Ha a 104–105. § szerinti információcsere alapján vagy más módon megállapítható, hogy párhuzamos eljárások vannak folyamatban, és a párhuzamos eljárások következtében kialakult joghatósági összeütközés más módon nem oldható fel, a legfőbb ügyész az arra jogosult tagállami igazságügyi hatósággal konzultációt folytat a párhuzamos eljárások következményeinek elkerülése érdekében.
 
-(2) A konzultáció megkezdésekor az ügyész a nyomozást, illetve a bíróság az eljárást határozattal felfüggesztheti.
+(2) A konzultáció megkezdésekor az ügyészség a nyomozást, illetve a bíróság az eljárást határozattal felfüggesztheti.
 
 (3) A legfőbb ügyész a büntetőeljárás felfüggesztéséről tájékoztatja a tagállami hatóságot. A konzultáció során a legfőbb ügyész a tagállami igazságügyi hatósággal a büntetőeljárásról, a büntetőeljárás állásáról, az abban érintett személyekről egyeztetést folytathat. Az egyeztetés során a kért információ átadása megtagadható, ha az sértené Magyarország alapvető nemzetbiztonsági érdekét.
 

@@ -1,6 +1,6 @@
 135/D. § (1) A bíróság haladéktalanul tájékoztatja a tagállami hatóságot, ha
 
-a) a végrehajtás megkezdése akadályba ütközik, különösen, ha az elítélt Magyarország területén lakóhellyel vagy tartózkodási hellyel már nem rendelkezik,
+a) a végrehajtás megkezdése akadályba ütközik, különösen, ha az elítélt Magyarország területén tényleges tartózkodási hellyel már nem rendelkezik,
 
 b) a végrehajtás során a megfeleltetett alternatív szankció vagy a próbaidő alatti magatartási szabály módosítására került sor,
 

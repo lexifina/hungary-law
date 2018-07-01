@@ -12,7 +12,7 @@ ac) arra vonatkozó tilalom, hogy a terhelt meghatározott személyt meghatároz
 
 b) távoltartást rendelt el,
 
-akkor a határozatában megjelölt személy védelme érdekében európai védelmi határozat bocsátható ki, ha a veszélyeztetett személy lakóhelye vagy tartózkodási helye egy másik tagállam területén van, vagy a veszélyeztetett személy egy másik tagállamban kíván lakni vagy tartózkodni.
+akkor a határozatában megjelölt személy védelme érdekében európai védelmi határozat bocsátható ki, ha a veszélyeztetett személy tényleges tartózkodási helye egy másik tagállam területén van, vagy a veszélyeztetett személy egy másik tagállamban kíván lakni vagy tartózkodni.
 
 (2) Az európai védelmi határozat a veszélyeztetett személy, a veszélyeztetett személy jogi képviselője vagy meghatalmazott nagykorú hozzátartozója írásbeli indítványa alapján bocsátható ki. Az indítvány elbírálása során figyelembe kell venni
 
@@ -32,4 +32,4 @@ b) a veszélyeztetett személy számára olyan technikai eszköz áll rendelkez�
 
 c) az V. Fejezet vagy a IX. Fejezet szerint az európai védelmi határozatban megjelölt magatartási szabály vagy kényszerintézkedés végrehajtása egy harmadik tagállam részére továbbításra került.
 
-(6) Az európai védelmi határozat végrehajtását a bíróság a 148. § (1) bekezdésében meghatározott iratoknak a veszélyeztetett személy lakóhelye vagy tartózkodási helye, vagy tervezett lakó vagy tartózkodási helye szerinti tagállamba történő megküldésével kezdeményezi.
+(6) Az európai védelmi határozat végrehajtását a bíróság a 148. § (1) bekezdésében meghatározott ügyiratoknak a veszélyeztetett személy tényleges tartózkodási helye, vagy tervezett lakó vagy tartózkodási helye szerinti tagállamba történő megküldésével kezdeményezi.

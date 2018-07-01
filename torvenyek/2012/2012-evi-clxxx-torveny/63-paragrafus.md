@@ -1,10 +1,10 @@
-63. § (1) A tagállamban fogva tartott személynek a Magyarország területén elvégzendő eljárási cselekményen való jelenléte érdekében történő ideiglenes átadásáról a tagállami hatósággal az a bíróság vagy ügyész köt megállapodást, amely az európai nyomozási határozatot kibocsátotta.
+63. § (1) A tagállamban fogva tartott személynek a Magyarország területén elvégzendő eljárási cselekményen való jelenléte érdekében történő ideiglenes átadásáról a tagállami hatósággal az a bíróság vagy ügyészség köt megállapodást, amely az európai nyomozási határozatot kibocsátotta.
 
 (2) A megállapodás tartalmára a 62/B. § (6) bekezdését megfelelően alkalmazni kell.
 
-(3) Az érintett személy fogvatartását a bíróság vagy az ügyész rendelkezése alapján, a fogva tartás jellegének leginkább megfelelő módon, a magyar büntetés-végrehajtási szabályok szerint kell biztosítani Magyarországon.
+(3) Az érintett személy fogvatartását a bíróság vagy az ügyészség rendelkezése alapján, a fogva tartás jellegének leginkább megfelelő módon, a magyar büntetés-végrehajtási szabályok szerint kell biztosítani Magyarországon.
 
-(4) Ha a tagállami hatóság tájékoztatása alapján az szükséges, a bíróság vagy az ügyész a megállapodásban foglaltak vagy a tagállami hatósággal történt egyeztetés alapján a tagállami jogszabályoknak megfelelően biztosítja a fogvatartott személy részvételét a fogva tartás meghosszabbításával kapcsolatos döntésben.
+(4) Ha a tagállami hatóság tájékoztatása alapján az szükséges, a bíróság vagy az ügyészség a megállapodásban foglaltak vagy a tagállami hatósággal történt egyeztetés alapján a tagállami jogszabályoknak megfelelően biztosítja a fogvatartott személy részvételét a fogva tartás meghosszabbításával kapcsolatos döntésben.
 
 (5) Ha a tagállami hatóság tájékoztatása alapján a tagállamban a fogvatartás oka megszűnt, a fogvatartott személyt haladéktalanul szabadon kell bocsátani.
 
@@ -14,7 +14,7 @@
 
 a) a fogvatartott személy ideiglenes átvételére terheltként került sor az európai nyomozási határozat alapjául szolgáló bűncselekmény vonatkozásában,
 
-b) a bíróság vagy az ügyész újabb európai nyomozási határozatot bocsátott ki az érintett személy terheltként történő ideiglenes átvétele iránt, és annak végrehajtását a tagállam elrendelte,
+b) a bíróság vagy az ügyészség újabb európai nyomozási határozatot bocsátott ki az érintett személy terheltként történő ideiglenes átvétele iránt, és annak végrehajtását a tagállam elrendelte,
 
 c) az érintett személy a szabadon bocsátását követő tizenöt napon belül nem hagyta el – bár erre lehetősége lett volna – Magyarország területét, vagy
 

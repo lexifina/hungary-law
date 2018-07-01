@@ -1,4 +1,4 @@
-146/C. § (1) A miniszter, a bíróság vagy az ügyész által előterjesztett, e törvényben meghatározott jogsegély teljesítése érdekében, Magyarországon vagy valamely tagállamban fogvatartott személynek egy másik tagállam területén történő átmenő átszállítására irányuló kérelmet a miniszter terjeszti elő.
+146/C. § (1) A miniszter, a bíróság vagy az ügyészség által előterjesztett, e törvényben meghatározott jogsegély teljesítése érdekében, Magyarországon vagy valamely tagállamban fogvatartott személynek egy másik tagállam területén történő átmenő átszállítására irányuló kérelmet a miniszter terjeszti elő.
 
 (2) Nem szükséges az átmenő átszállításra irányuló kérelem előterjesztése engedélyezésének kezdeményezése a légi úton, leszállás nélkül tervezett átmenő átszállítás esetén.
 

@@ -8,7 +8,7 @@
 
 (3) A miniszter az átmenő átszállítást akkor engedélyezheti, ha tájékoztatást kapott
 
-a) a fogvatartott személy személyi adatairól, ideértve az állampolgárságát is,
+a) a fogvatartott személy személyes adatairól, ideértve az állampolgárságát is,
 
 b) az átmenő átszállítás alapját képező jogsegélyről,
 

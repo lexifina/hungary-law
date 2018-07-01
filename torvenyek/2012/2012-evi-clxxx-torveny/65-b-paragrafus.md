@@ -1,14 +1,14 @@
-65/B. § (1) Az ügyész európai nyomozási határozatot bocsáthat ki az elektronikus hírközlési szolgáltatás útján, vagy számítástechnikai eszköz vagy rendszer útján továbbított kommunikációnak az érintett személy tudta nélkül, leplezett módon történő megismerésének és rögzítésének a tagállamban történő végrehajtása iránt.
+65/B. § (1) Az ügyészség európai nyomozási határozatot bocsáthat ki az elektronikus hírközlési szolgáltatás útján, illetve információs rendszeren folytatott kommunikációnak az érintett személy tudta nélkül, leplezett módon történő megismerésének és rögzítésének a tagállamban történő végrehajtása iránt.
 
-(2) Ha az (1) bekezdés szerinti eljárási cselekményt több tagállam is el tudja végezni, az európai nyomozási határozatot csak a megjelölt eljárási cselekményt leghatékonyabban elvégezni képes – lehetőség szerint az érintett személy tartózkodási helye szerinti – tagállamba lehet továbbítani.
+(2) Ha az (1) bekezdés szerinti eljárási cselekményt több tagállam is el tudja végezni, az európai nyomozási határozatot csak a megjelölt eljárási cselekményt leghatékonyabban elvégezni képes – lehetőség szerint az érintett személy tényleges tartózkodási helye szerinti – tagállamba lehet továbbítani.
 
-(3) Az (1) bekezdésben meghatározott, bírói engedélyhez kötött titkos adatszerzés végrehajtása iránt kibocsátott európai nyomozási határozat esetén a Be. bírói engedélyhez kötött titkos adatszerzés engedélyezésére vonatkozó szabályait kell alkalmazni.
+(3) Az (1) bekezdésben meghatározott, bírói engedélyhez kötött leplezett eszközök alkalmazása iránt kibocsátott európai nyomozási határozat esetén a Be. bírói engedélyhez kötött leplezett eszközök alkalmazására vonatkozó szabályait kell alkalmazni.
 
-(4) Az európai nyomozási határozatnak a Be. 203. § (2) bekezdésében foglaltakat kell tartalmaznia.
+(4) Az európai nyomozási határozatnak a Be. 236. § (2) bekezdésében foglaltakat kell tartalmaznia.
 
-(5) Az ügyész az európai nyomozási határozatban megjelöli azokat az okokat, amelyek alapján megalapozottan feltehető, hogy a megjelölt eljárási cselekmény alkalmazásával elérni kívánt bizonyíték beszerzése más módon kilátástalan, vagy aránytalanul nagy nehézséggel járna.
+(5) Az ügyészség az európai nyomozási határozatban megjelöli azokat az okokat, amelyek alapján megalapozottan feltehető, hogy a megjelölt eljárási cselekmény alkalmazásával elérni kívánt bizonyíték beszerzése más módon kilátástalan, vagy aránytalanul nagy nehézséggel járna.
 
-(6) Az ügyész az európai nyomozási határozatban megjelöli, hogy a végrehajtás eredményének, illetve a rögzített adatoknak a továbbítását
+(6) Az ügyészség az európai nyomozási határozatban megjelöli, hogy a végrehajtás eredményének, illetve a rögzített adatoknak a továbbítását
 
 a) az eljárási cselekmény elvégzését követően, vagy
 
@@ -16,9 +16,9 @@ b) közvetlen továbbítással, a megfigyelés eredményének a végrehajtásban
 
 kéri.
 
-(7) A (6) bekezdés b) pontja esetén az ügyész a végrehajtás módját és alkalmazhatóságát a végrehajtásban közreműködő magyar szerv álláspontjának figyelembevételével egyezteti a tagállami hatósággal.
+(7) A (6) bekezdés b) pontja esetén az ügyészség a végrehajtás módját és alkalmazhatóságát a végrehajtásban közreműködő magyar szerv álláspontjának figyelembevételével egyezteti a tagállami hatósággal.
 
-(8) Az ügyész indokolt esetben kérheti
+(8) Az ügyészség indokolt esetben kérheti
 
 a) az eljárási cselekmény elvégzése során rögzített adatok írásba foglalását,
 
@@ -28,4 +28,4 @@ c) az adat minősítésének megszüntetését.
 
 (9) Ha a tagállam kéri a (8) bekezdés alkalmazása kapcsán felmerülő költség megtérítését, azt a magyar állam előlegezi. Az így felmerült költség bűnügyi költség.
 
-(10) Az (1) bekezdésben meghatározottól eltérő célból bírói engedélyhez kötött titkos adatszerzés vagy az egyéb adatszerző tevékenység során végezhető titkos információgyűjtés tagállamban történő végrehajtása iránt európai nyomozási határozat a (2)–(9) bekezdés megfelelő alkalmazásával bocsátható ki.
+(10) Az (1) bekezdésben meghatározottól eltérő célból leplezett eszközök tagállamban történő alkalmazása iránt európai nyomozási határozat a (2)–(9) bekezdés megfelelő alkalmazásával bocsátható ki.

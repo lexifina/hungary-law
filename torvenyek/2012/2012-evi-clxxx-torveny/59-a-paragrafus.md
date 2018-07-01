@@ -10,8 +10,8 @@ c) fogvatartott személy ideiglenes átadása az európai nyomozási határozato
 
 d) fogvatartott személy ideiglenes átadása az európai nyomozási határozatot végrehajtó tagállamba,
 
-e) kihallgatás zártcélú távközlő hálózat útján,
+e) kihallgatás telekommunikációs eszköz útján,
 
-f) kihallgatás távbeszélő-készülék útján,
+f)
 
-g) a titkos adatszerzés és a titkos információgyűjtés egyes intézményei.
+g) leplezett eszközök alkalmazása.

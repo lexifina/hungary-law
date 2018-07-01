@@ -1,6 +1,6 @@
 ## 52/A. A végrehajtás átvétele
 
-138. § (1) A hetven eurót meghaladó összegű tagállami pénzbüntetés végrehajtása átvehető, ha a terhelt Magyarországon lakóhellyel, tartózkodási hellyel, a jogi személy Magyarországon székhellyel vagy telephellyel, a terhelt, vagy a jogi személy Magyarországon vagyonnal vagy jövedelemmel rendelkezik, és a tagállami hatóság megküldi
+138. § (1) A hetven eurót meghaladó összegű tagállami pénzbüntetés végrehajtása átvehető, ha a terhelt Magyarországon tényleges tartózkodási hellyel, a jogi személy Magyarországon székhellyel vagy telephellyel, a terhelt, vagy a jogi személy Magyarországon vagyonnal vagy jövedelemmel rendelkezik, és a tagállami hatóság megküldi
 
 a) a pénzbüntetést kiszabó tagállami határozatot, valamint
 

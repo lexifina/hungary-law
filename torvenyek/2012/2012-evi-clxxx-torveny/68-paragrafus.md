@@ -6,6 +6,6 @@ a) a tagállamban büntetőeljárás alatt álló természetes vagy jogi személ
 
 b) a Magyarország területén működő banknál vagy egyéb pénzügyi intézménynél vezetett valamely számlával kapcsolatban, meghatározott időszakban végrehajtott fizetési műveletekre vonatkozó, a számlavezető bank vagy egyéb pénzügyi intézmény birtokában lévő adatok – ideértve az adott művelettel érintett valamennyi számla adatainak – átadása, illetve a Magyarország területén működő bank vagy egyéb pénzügyi intézmény birtokában lévő számlaadatok átadása iránt
 
-terjesztette elő, az eljárási jogsegély iránti megkeresést a számlát vezető bankfiók helye vagy egyéb pénzügyi intézmény telephelye szerint illetékes ügyész teljesíti.
+terjesztette elő, az eljárási jogsegély iránti megkeresést a számlát vezető bankfiók helye vagy egyéb pénzügyi intézmény telephelye szerint illetékes ügyészség teljesíti.
 
 (2) Az eljárási jogsegély iránti megkeresést abban az esetben teljesíti a bíróság, ha azt a tagállami igazságügyi hatóság kifejezetten kéri. Ebben az esetben az eljárási jogsegély iránti megkeresés teljesítése során a számlavezető bank vagy egyéb pénzügyi intézmény székhelye szerint illetékes bíróság jár el.

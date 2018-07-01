@@ -6,12 +6,12 @@ a) adatszolgáltatás pénzügyi intézmény által vezetett számláról és sz
 
 b) fogvatartott személy ideiglenes átadása az eljárási jogsegély iránti megkeresést teljesítő tagállamba,
 
-c) kihallgatás zártcélú távközlő hálózat útján,
+c) kihallgatás telekommunikációs eszköz útján,
 
-d) kihallgatás távbeszélő-készülék útján,
+d)
 
 e) ellenőrzött szállítás,
 
 f) fedett nyomozó alkalmazása,
 
-g) bírói engedélyhez kötött titkos adatszerzés.
+g) bírói engedélyhez kötött leplezett eszközök alkalmazása.

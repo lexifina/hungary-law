@@ -2,7 +2,7 @@
 
 143. § A vagyonelkobzást elrendelő tagállami határozat végrehajtása akkor vehető át, ha
 
-a) alappal feltehető, hogy a vagyonelkobzást elrendelő tagállami határozattal érintett vagyon vagy dolog, az érintett természetes vagy jogi személy vagyona, illetve jövedelme, vagy az érintett természetes vagy jogi személy lakóhelye, tartózkodási helye, illetve székhelye, telephelye Magyarországon van, és
+a) alappal feltehető, hogy a vagyonelkobzást elrendelő tagállami határozattal érintett vagyon vagy dolog, az érintett természetes vagy jogi személy vagyona, illetve jövedelme, vagy az érintett természetes vagy jogi személy tényleges tartózkodási helye, illetve székhelye, telephelye Magyarországon van, és
 
 b) a tagállami hatóság megküldi
 

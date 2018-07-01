@@ -1,6 +1,6 @@
 23. § (1) A Fővárosi Törvényszék az átadás végrehajtásának elhalasztása esetén– a kibocsátó tagállami igazságügyi hatósággal írásban történt közös megállapodásban meghatározott feltételek szerint – elrendelheti a terhelt ideiglenes átadását a kibocsátó tagállami igazságügyi hatóság részére.
 
-(2) A Fővárosi Törvényszék az ideiglenes átadásról az iratok alapján határoz.
+(2) A Fővárosi Törvényszék az ideiglenes átadásról az ügyiratok alapján határoz.
 
 (3) A Fővárosi Törvényszék megállapodásának legalább az alábbiakat kell tartalmaznia:
 

@@ -1,8 +1,8 @@
 ## 54/C. A végrehajtás átadása
 
-146. § (1) A Btk. 72. § (1) bekezdés a)–c) pontja vagy a Btk. 72. § (2) bekezdése alapján elrendelt elkobzásának, a Btk. 74. §-a alapján elrendelt vagyonelkobzásnak, a Btk. 74/A. §-a alapján elrendelt kiterjesztett vagyonelkobzásnak, vagy a Btk. 75. §-a alapján pénzösszegben kifejezve elrendelt vagyonelkobzásnak a végrehajtása átadható annak a tagállamnak, amellyel kapcsolatban megalapozottan feltehető, hogy a területén a vagyonelkobzással vagy elkobzással érintett vagyontárgy, illetve dolog, a vagyonelkobzással érintett természetes vagy jogi személy vagyona, jövedelme, vagy a vagyonelkobzással érintett természetes vagy jogi személy lakóhelye, tartózkodási helye, illetve székhelye, telephelye található.
+146. § (1) A Btk. 72. § (1) bekezdés a)–c) pontja vagy a Btk. 72. § (2) bekezdése alapján elrendelt elkobzásának, a Btk. 74. §-a alapján elrendelt vagyonelkobzásnak, a Btk. 74/A. §-a alapján elrendelt kiterjesztett vagyonelkobzásnak, vagy a Btk. 75. §-a alapján pénzösszegben kifejezve elrendelt vagyonelkobzásnak a végrehajtása átadható annak a tagállamnak, amellyel kapcsolatban megalapozottan feltehető, hogy a területén a vagyonelkobzással vagy elkobzással érintett vagyontárgy, illetve dolog, a vagyonelkobzással érintett természetes vagy jogi személy vagyona, jövedelme, vagy a vagyonelkobzással érintett természetes vagy jogi személy tényleges tartózkodási helye, illetve székhelye, telephelye található.
 
-(2) A bíróság a végrehajtás átadását a 143. § b) pontjában meghatározott iratok végrehajtó tagállam részére történő megküldésével kezdeményezi.
+(2) A bíróság a végrehajtás átadását a 143. § b) pontjában meghatározott ügyiratok végrehajtó tagállam részére történő megküldésével kezdeményezi.
 
 (3) A tanúsítvány egyidejűleg több tagállam illetékes hatóságához is továbbítható, ha megalapozottan feltételezhető, hogy
 

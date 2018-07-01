@@ -14,7 +14,7 @@ c) a bíróság a tagállam tájékoztatására tekintettel a magyar bíróság 
 
 a) a bíróság a tanúsítványt az (1) bekezdés szerint visszavonta, és erről a tagállami hatóságot tájékoztatta
 
-b) a tagállami hatóság a végrehajtást megszüntette, mert az elítélt a végrehajtás megkezdése után a tagállam területén nem volt található és a felkutatására tett intézkedések nem vezettek eredményre, vagy lakóhellyel, illetve tartózkodási hellyel a tagállamban már nem rendelkezik,
+b) a tagállami hatóság a végrehajtást megszüntette, mert az elítélt a végrehajtás megkezdése után a tagállam területén nem volt található és a felkutatására tett intézkedések nem vezettek eredményre, vagy tényleges tartózkodási hellyel a tagállamban már nem rendelkezik,
 
 c) a végrehajtás átvétele során a tagállami hatóság a magatartási szabályok megszegése miatt a felfüggesztett szabadságvesztés végrehajtását, a feltételes szabadság megszüntetését, a próbára bocsátás megszüntetése és büntetés kiszabása vagy a közérdekű munka végzésére vonatkozó kötelezettség megszegése miatt a kiszabott közérdekű munka átváltoztatását, a sportrendezvények látogatásától való eltiltás szabályainak megszegése miatt a büntetés kiszabását vagy intézkedés alkalmazását, illetve jóvátételi munka előírása esetén a büntetés kiszabását megtagadta.
 

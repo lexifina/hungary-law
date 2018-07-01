@@ -18,9 +18,9 @@ f) arra vonatkozó korlátozás, hogy a terhelt Magyarország területét elhagy
 
 a) a terhelt
 
-aa) lakóhelye vagy tartózkodási helye Magyarországon van és a terhelt a felügyeleti intézkedésről való tájékoztatást követően Magyarországra történő visszatéréséhez hozzájárult, vagy
+aa) tényleges tartózkodási helye Magyarországon van és a terhelt a felügyeleti intézkedésről való tájékoztatást követően Magyarországra történő visszatéréséhez hozzájárult, vagy
 
-ab) a Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező terhelt a felügyeleti intézkedés magyar hatóság általi végrehajtását kéri és igazolja, hogy Magyarországhoz családi, kulturális vagy gazdasági kapcsolataira tekintettel szorosan kötődik,
+ab) a Magyarországon tényleges tartózkodási hellyel nem rendelkező terhelt a felügyeleti intézkedés magyar hatóság általi végrehajtását kéri és igazolja, hogy Magyarországhoz családi, kulturális vagy gazdasági kapcsolataira tekintettel szorosan kötődik,
 
 b) a tagállami igazságügyi hatóság megküldi
 

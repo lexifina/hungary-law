@@ -1,8 +1,8 @@
 ## 4. Őrizet, tárgyalás
 
-7. § (1) A Magyarország területén elfogott terheltet őrizetbe kell venni és a bíróság elé kell állítani, ha vele szemben európai elfogatóparancsot bocsátottak ki, illetve, ha ellene valamely tagállam nemzetközi körözést rendelt el. Az őrizet hetvenkét óráig tarthat.
+7. § (1) A Magyarország területén elfogott terhelt őrizetét kell elrendelni és a bíróság elé kell állítani, ha vele szemben európai elfogatóparancsot bocsátottak ki, illetve, ha ellene valamely tagállam nemzetközi körözést rendelt el. Az őrizet hetvenkét óráig tarthat.
 
-(2) Ha a terheltnek nincs meghatalmazott védője, az őrizetbe vételt foganatosító szerv a terhelt elfogását követően haladéktalanul védőt rendel ki.
+(2) Ha a terheltnek nincs meghatalmazott védője, az őrizetet foganatosító szerv a terhelt elfogását követően haladéktalanul védőt rendel ki.
 
 (3) A foganatosító szerv – ha a terhelt a magyar nyelvet nem ismeri, tolmács közreműködésével – a Schengeni Információs Rendszerben elhelyezett figyelmeztető jelzés tartalmáról a terheltet tájékoztatja. A tájékoztatásról a védőt értesíteni kell. A foganatosító szerv az intézkedéséről jegyzőkönyvet készít.
 

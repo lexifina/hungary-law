@@ -10,9 +10,9 @@ d) a felügyeleti intézkedés tartama vagy határideje fenntartás vagy meghoss
 
 e) a 83. § (2) bekezdése alapján meghatározott határidő eredménytelenül eltelt,
 
-f) a 83. § (3) bekezdése alapján kibocsátott európai elfogatóparancs alapján a terhelt őrizetbe vételére került sor,
+f) a 83. § (3) bekezdése alapján kibocsátott európai elfogatóparancs alapján a terhelt őrizetét elrendelték,
 
-g) a terhelttel szemben más ügyben személyi szabadságot elvonó vagy korlátozó szigorúbb, a felügyeleti intézkedés végrehajtását kizáró kényszerintézkedés elrendelésére került sor, vagy a terhelt szabadságvesztést, elzárást vagy javítóintézeti nevelést tölt.
+g) a terhelttel szemben más ügyben személyi szabadságot érintő szigorúbb, a felügyeleti intézkedés végrehajtását kizáró kényszerintézkedés elrendelésére került sor, vagy a terhelt szabadságvesztést, elzárást vagy javítóintézeti nevelést tölt.
 
 (2) Ha a felügyeleti intézkedés megszüntetésének az (1) bekezdésben meghatározott indoka felmerül, a bíróság a megszüntetés elkerülése érdekében a tagállami igazságügyi hatósággal egyeztetést folytathat.
 

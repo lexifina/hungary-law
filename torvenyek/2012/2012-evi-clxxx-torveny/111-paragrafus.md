@@ -9,3 +9,5 @@
 (4) Ha e törvény alapján a tagállami ítéletben kiszabott büntetés vagy alkalmazott intézkedés végrehajtásának átvételét kezdeményezték, a megfeleltetést a végrehajtás átvétele tárgyában hatáskörrel és illetékességgel rendelkező bíróság végzi.
 
 (5) A (4) bekezdés alapján hatáskörrel és illetékességgel rendelkező bíróság az ügyeket egyesíti, ha a megfeleltetési eljárás megindulását követően a végrehajtás átvételére irányuló jogsegély érkezik.
+
+(6) A megfeleltetési eljárásban – a büntetőügyekben hozott szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó ítéletek végrehajtása kivételével – bírósági titkár is eljárhat.

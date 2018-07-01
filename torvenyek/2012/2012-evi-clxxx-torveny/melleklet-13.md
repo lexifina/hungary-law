@@ -5,3 +5,5 @@
 13. számú melléklet a 2012. évi CLXXX. törvényhez
 
 TANÚSÍTVÁNY
+
+## A kölcsönös elismerés elvének a pénzbüntetésekre való alkalmazásáról szóló 2005/214/IB tanácsi kerethatározat

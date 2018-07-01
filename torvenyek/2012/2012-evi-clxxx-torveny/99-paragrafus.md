@@ -2,4 +2,4 @@
 
 (2) A biztosítási intézkedést elrendelő tagállami határozat végrehajtásáról a magyar igazságügyi hatóság a tagállami igazságügyi hatóságot tájékoztatja.
 
-(3) Egyebekben az e fejezetben foglalt határozatok végrehajtása során a lefoglalásra, az információs rendszerben tárolt adatok megőrzésére kötelezésre, illetve a zár alá vételre vonatkozó eljárási és végrehajtási szabályokat kell megfelelően alkalmazni.
+(3) Egyebekben az e fejezetben foglalt határozatok végrehajtása során a lefoglalásra, az elektronikus adat megőrzésére kötelezésre, illetve a zár alá vételre vonatkozó eljárási és végrehajtási szabályokat kell megfelelően alkalmazni.

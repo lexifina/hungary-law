@@ -34,7 +34,7 @@ c) sportrendezvények látogatásától való eltiltást szab ki,
 
 d) a büntetés kiszabását egy évre elhalasztja, és jóvátételi munka végzését írja elő,
 
-akkor e próbaidő alatti magatartási szabályok vagy alternatív szankciók végrehajtása átadható az elítélt személy lakóhelye vagy tartózkodási helye szerinti tagállamnak, ha az elítélt e tagállamba visszatért, oda vissza kíván térni vagy ott kíván tartózkodni.
+akkor e próbaidő alatti magatartási szabályok vagy alternatív szankciók végrehajtása átadható az elítélt személy tényleges tartózkodási helye szerinti tagállamnak, ha az elítélt e tagállamba visszatért, oda vissza kíván térni vagy ott kíván tartózkodni.
 
 (2) A végrehajtás az elítélt kezdeményezésére – ha családi, kulturális vagy gazdasági kapcsolataira tekintettel a társadalomba való beilleszkedésének elősegítését szolgálja – az (1) bekezdésben meghatározottól eltérő tagállamba is továbbítható, ha ahhoz a tagállami hatóság hozzájárult.
 
@@ -42,4 +42,4 @@ akkor e próbaidő alatti magatartási szabályok vagy alternatív szankciók v�
 
 (4) Különösen indokolt esetben, a végrehajtó tagállammal történt előzetes egyeztetés alapján a hat hónapot el nem érő próbaidő alatti magatartási szabályok és alternatív szankciók végrehajtása is átadható.
 
-(5) Az elítélt kezdeményezését, illetve arra vonatkozó nyilatkozatát, hogy vissza kíván térni a lakóhelye vagy tartózkodási helye szerinti tagállamba vagy ott kíván tartózkodni, a bíróság jegyzőkönyvbe foglalja.
+(5) Az elítélt kezdeményezését, illetve arra vonatkozó nyilatkozatát, hogy vissza kíván térni a tényleges tartózkodási helye szerinti tagállamba vagy ott kíván tartózkodni, a bíróság jegyzőkönyvbe foglalja.

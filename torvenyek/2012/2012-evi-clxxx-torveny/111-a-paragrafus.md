@@ -1,4 +1,4 @@
-111/A. § (1) Az ügyben eljáró bíróság, ügyész a figyelembe vehető tagállami ítélet megfeleltetését indítványozza, ha megalapozottan feltehető, hogy
+111/A. § (1) Az ügyben eljáró bíróság, ügyészség a figyelembe vehető tagállami ítélet megfeleltetését indítványozza, ha megalapozottan feltehető, hogy
 
 a) az újabb büntetőeljárásban a tagállami ítélet a Btk. visszaesésre, különös visszaesésre, többszörös visszaesésre vagy erőszakos többszörös visszaesésre vonatkozó rendelkezéseinek alkalmazását indokolja,
 

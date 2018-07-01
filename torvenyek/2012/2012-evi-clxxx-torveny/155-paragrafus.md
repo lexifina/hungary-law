@@ -4,7 +4,7 @@
 
 a) a tagállami hatóság az európai védelmi határozat visszavonásáról értesíti a bíróságot,
 
-b) a veszélyeztetett személy a végrehajtás megkezdése után Magyarország területén nem található, vagy a veszélyeztetett személy lakóhellyel, illetve tartózkodási hellyel Magyarországon már nem rendelkezik,
+b) a veszélyeztetett személy a végrehajtás megkezdése után Magyarország területén nem található, vagy a veszélyeztetett személy tényleges tartózkodási hellyel Magyarországon már nem rendelkezik,
 
 c) az előírt kötelezettség vagy tilalom időtartama letelt,
 

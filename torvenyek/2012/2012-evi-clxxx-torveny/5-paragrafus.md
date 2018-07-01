@@ -10,7 +10,7 @@ c) a terhelt gyermekkor miatt nem büntethető,
 
 d) a 3. § (3) és (4) bekezdése alapján a kettős büntethetőséget vizsgálni kell, és az európai elfogatóparancs alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény,
 
-e) a terhelt olyan magyar állampolgár, aki Magyarország területén lakóhellyel rendelkezik, és a kibocsátó tagállami igazságügyi hatóság nem nyújt megfelelő jogi garanciát arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a terhelt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére, vagy
+e) a terhelt olyan magyar állampolgár, aki Magyarország területén lakcímmel rendelkezik, és a kibocsátó tagállami igazságügyi hatóság nem nyújt megfelelő jogi garanciát arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a terhelt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére, vagy
 
 f) az európai elfogatóparancs végrehajtása súlyosan sértené a büntetőeljárás során a terheltet megillető, nemzetközi szerződésben vagy európai uniós jogi aktusban rögzített alapvető jogokat.
 
@@ -28,7 +28,7 @@ e) az európai elfogatóparancs olyan bűncselekményre vonatkozik, amelyet egé
 
 (3) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság az európai elfogatóparancs végrehajtását megtagadja, ha az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a terhelt ideiglenes végrehajtási letartóztatását rendeli el, vagy a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtását elrendeli.
 
-(4) Ha a terhelt olyan magyar állampolgár, aki Magyarország területén lakóhellyel rendelkezik, és az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság megtagadja az európai elfogatóparancs végrehajtását, ha a terhelt az átadásába nem egyezik bele.
+(4) Ha a terhelt olyan magyar állampolgár, aki Magyarország területén lakcímmel rendelkezik, és az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság megtagadja az európai elfogatóparancs végrehajtását, ha a terhelt az átadásába nem egyezik bele.
 
 (5) Az európai elfogatóparancs végrehajtását a bíróság megtagadja, ha azt olyan határozat végrehajtása céljából bocsátották ki, amelyet a terhelt távollétében hoztak.
 
@@ -48,10 +48,10 @@ c) a határozat kézbesítése megtörtént, a terhelt tájékoztatást kapott a
 
 d) a határozatot nem kézbesítették a terheltnek, de az átadását követően haladéktalanul kézbesítik számára, tájékoztatják a jogorvoslati lehetőségekről, és az erre rendelkezésre álló határidőről.
 
-(7) Ha az európai elfogatóparancsot a (6) bekezdés d) pontjában meghatározottak szerint bocsátották ki, az európai elfogatóparancs tartalmáról való tájékoztatás alkalmával a terhelt kérheti, hogy az átadásának végrehajtását megelőzően bocsássák rendelkezésére a kibocsátó tagállami határozatot. Ezt a bíróság a kézhezvételt követően haladéktalanul továbbítja – kizárólag tájékoztatás céljából – a terheltnek. A terhelt kérésének nincs halasztó hatálya az európai elfogatóparancs végrehajtására.
+(7) Ha az európai elfogatóparancsot a (6) bekezdés d) pontjában meghatározottak szerint bocsátották ki, az európai elfogatóparancs tartalmáról való tájékoztatás alkalmával a terhelt indítványozhatja, hogy az átadásának végrehajtását megelőzően bocsássák rendelkezésére a kibocsátó tagállami határozatot. Ezt a bíróság a kézhezvételt követően haladéktalanul továbbítja – kizárólag tájékoztatás céljából – a terheltnek. A terhelt indítványának nincs halasztó hatálya az európai elfogatóparancs végrehajtására.
 
 (8) Nem tagadható meg az európai elfogatóparancs végrehajtása a (2) bekezdés a) vagy e) pontja alapján, ha az ügyben Magyarország részvételével közös nyomozócsoport alakult, és a tagállami igazságügyi hatóság az európai elfogatóparancsot a közös nyomozó csoportban részt vevők megállapodása alapján bocsátotta ki. A bíróság a közös nyomozó csoport megállapodására nézve a közös nyomozó csoport magyar vezetőjének nyilatkozatát szerzi be.
 
-(9) A (2) bekezdés a) pontjában meghatározott megtagadási ok esetén, a bíróság az európai elfogatóparancs végrehajtásáról a magyar büntetőeljárást folytató bíróság vagy ügyész álláspontjának figyelembevételével dönt. A terhelt átadása ahhoz a feltételhez köthető, hogy a tagállam a magyar büntetőeljárást vegye át. A bíróság az európai elfogatóparancs végrehajtása tárgyában hozott döntéséről a magyar büntetőeljárást folytató bíróságot vagy ügyészt is tájékoztatja.
+(9) A (2) bekezdés a) pontjában meghatározott megtagadási ok esetén, a bíróság az európai elfogatóparancs végrehajtásáról a magyar büntetőeljárást folytató bíróság vagy ügyészség álláspontjának figyelembevételével dönt. A terhelt átadása ahhoz a feltételhez köthető, hogy a tagállam a magyar büntetőeljárást vegye át. A bíróság az európai elfogatóparancs végrehajtása tárgyában hozott döntéséről a magyar büntetőeljárást folytató bíróságot vagy ügyészséget is tájékoztatja.
 
 (10) Ha az európai elfogatóparancs megtagadására a (2) bekezdés e) pontja alapján kerül sor, a bíróság megteszi a szükséges intézkedést a büntetőeljárás Magyarországon történő lefolytatása végett.

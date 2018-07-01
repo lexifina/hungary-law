@@ -2,7 +2,7 @@
 
 (2) A végrehajtási jogsegély alapjául szolgáló ítéletet vagy határozatot, illetve annak lényeges részét csak akkor kell lefordítani, ha azt e törvény előírja.
 
-(3) Ha e törvény eltérően nem rendelkezik, a végrehajtási jogsegély iratai a tagállami igazságügyi hatóság számára közvetlenül és bármely olyan dokumentálható módon továbbíthatók, amely lehetővé teszi a végrehajtó tagállam számára az iratok hitelességének megállapítását.
+(3) Ha e törvény eltérően nem rendelkezik, a végrehajtási jogsegély ügyiratai a tagállami igazságügyi hatóság számára közvetlenül és bármely olyan dokumentálható módon továbbíthatók, amely lehetővé teszi a végrehajtó tagállam számára az ügyiratok hitelességének megállapítását.
 
 (4) Ha arra a végrehajtási jogsegély előterjesztése során nem került sor, a tagállami hatóság kérelemére a tanúsítvány eredeti példányát, illetve az ítélet vagy határozat eredeti példányát vagy hitelesített másolatát is meg kell küldeni a tagállami hatóság számára.
 

@@ -14,8 +14,8 @@ a) a büntetőügyekben kibocsátott európai nyomozási határozatról szóló,
 
 b) az irányelv rendelkezéseit nemzeti jogába nem ültette át,
 
-az eljárási jogsegély iránti megkeresést a bíróság vagy az ügyész a IV/A. Fejezet szerint teljesíti.
+az eljárási jogsegély iránti megkeresést a bíróság vagy az ügyészség a IV/A. Fejezet szerint teljesíti.
 
-(3) A (2) bekezdésben megjelölt valamely tagállam által a bizonyítási eszközök biztosítására irányuló eljárási jogsegély iránti megkeresés esetén a megkeresést a jogsegély formájától függően a bíróság vagy az ügyész a IV/A. Fejezet vagy a VI. Fejezet szerint teljesíti.
+(3) A (2) bekezdésben megjelölt valamely tagállam által a bizonyítási eszközök biztosítására irányuló eljárási jogsegély iránti megkeresés esetén a megkeresést a jogsegély formájától függően a bíróság vagy az ügyészség a IV/A. Fejezet vagy a VI. Fejezet szerint teljesíti.
 
-(4) A bíróság vagy az ügyész csak az Európai Unió (2) bekezdés a) pontjában meghatározott tagállamai tekintetében terjeszthet elő a IV/A. Fejezet szerint eljárási jogsegély iránti megkeresést.
+(4) A bíróság vagy az ügyészség csak az Európai Unió (2) bekezdés a) pontjában meghatározott tagállamai tekintetében terjeszthet elő a IV/A. Fejezet szerint eljárási jogsegély iránti megkeresést.

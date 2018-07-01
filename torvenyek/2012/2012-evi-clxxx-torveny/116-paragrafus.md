@@ -10,6 +10,6 @@ b) a tagállami ítélet végrehajtási jogsegélyben megjelölt büntetésének
 
 (3) A bíróság a tagállami ítélet megfeleltetését mellőzi, ha arra korábban már oly módon került sor, hogy a büntetés vagy intézkedés végrehajtásának átvételéhez a korábbi megfeleltetés kiegészítése sem szükséges.
 
-(4) A bíróság a végrehajtás átvételének megtagadásáról minden esetben indokolt határozatot hoz.
+(4) A bíróság a végrehajtás átvételének megtagadásáról minden esetben indokolt ügydöntő végzést hoz.
 
-(5) A bíróság döntéséről, valamint a határozat jogerőre emelkedésének időpontjáról tájékoztatja a tagállami hatóságot is. A bíróság tájékoztatja a tagállami hatóságot a tagállami ítélet megfeleltetésének eredményéről is, különösen, ha a megfeleltetés során a tagállami ítéletben kiszabott büntetés vagy intézkedés átalakítására vagy ezzel összefüggésben a tagállami ítélet kiegészítésére került sor.
+(5) A bíróság döntéséről, valamint az ügydöntő végzés jogerőre emelkedésének időpontjáról tájékoztatja a tagállami hatóságot is. A bíróság tájékoztatja a tagállami hatóságot a tagállami ítélet megfeleltetésének eredményéről is, különösen, ha a megfeleltetés során a tagállami ítéletben kiszabott büntetés vagy intézkedés átalakítására vagy ezzel összefüggésben a tagállami ítélet kiegészítésére került sor.

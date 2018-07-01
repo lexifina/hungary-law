@@ -1,6 +1,6 @@
 ## 14. Eljárás halmazati és összbüntetés esetén
 
-27. § (1) Szabadságvesztés végrehajtására irányuló átadás esetén, ha halmazati büntetést szabtak ki, és a tagállami igazságügyi hatóság nem valamennyi cselekmény alapján kiszabott büntetés végrehajtására engedélyezi az átadást, az első fokon eljárt bíróság határozatot hoz az arra a cselekményre eső büntetésrészről, amellyel kapcsolatban az átadást a tagállami igazságügyi hatóság engedélyezi. Az eljárásra a büntetőeljárásról szóló törvénynek a különleges eljárásokra vonatkozó szabályait kell megfelelően alkalmazni.
+27. § (1) Szabadságvesztés végrehajtására irányuló átadás esetén, ha halmazati büntetést szabtak ki, és a tagállami igazságügyi hatóság nem valamennyi cselekmény alapján kiszabott büntetés végrehajtására engedélyezi az átadást, az elsőfokon eljárt bíróság határozatot hoz az arra a cselekményre eső büntetésrészről, amellyel kapcsolatban az átadást a tagállami igazságügyi hatóság engedélyezi. Az eljárásra a Be.-nek a különleges eljárásokra vonatkozó szabályait kell megfelelően alkalmazni.
 
 (2) Az (1) bekezdésben írt büntetésrészt a halmazati büntetés alapját képező bűncselekmények büntetési tételei felső határának egymáshoz viszonyított arányából kiindulva kell megállapítani.
 

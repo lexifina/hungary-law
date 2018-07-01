@@ -1,6 +1,6 @@
-## 31. A titkos adatszerzés és a titkos információgyűjtés egyes intézményei
+## 31. Leplezett eszközök alkalmazása
 
-64/B. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt kibocsátott európai nyomozási határozat végrehajtására a megyei főügyészség rendelkezik hatáskörrel.
+64/B. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt kibocsátott európai nyomozási határozat végrehajtására a megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel.
 
 (2) Az ellenőrzött szállítás végrehajtására a tagállami hatósággal kötött eseti megállapodás alapján kerülhet sor. Az eseti megállapodást a rendőrség vagy a Nemzeti Adó- és Vámhivatal ellenőrzött szállítás végrehajtására jogszabályban kijelölt szerve készíti elő.
 
@@ -24,8 +24,8 @@ h) az elfogás esetén alkalmazandó intézkedésekről,
 
 i) a váratlan esemény esetén alkalmazandó intézkedésekről.
 
-(4) Késedelmet nem tűrő esetben – ha az eseti megállapodás megkötése vagy ügyészi jóváhagyása az ellenőrzött szállítás eredményes végrehajtását veszélyeztetné vagy meghiúsítaná – az ellenőrzött szállítás engedélyezésére huszonnégy óra időtartamra a rendőrségnek vagy a Nemzeti Adó- és Vámhivatalnak az európai nyomozási határozat alapjául szolgáló bűncselekményre figyelemmel hatáskörrel rendelkező, az ellenőrzött szállítás végrehajtására jogszabályban kijelölt szervének vezetője is jogosult. Ebben az esetben az ellenőrzött szállítás ideiglenes engedélyezéséről azzal egyidejűleg tájékoztatni kell az ügyészt. Az ügyész a tájékoztatást követően haladéktalanul dönt az ellenőrzött szállítás engedélyezéséről. Ha az ügyész az ellenőrzött szállítást nem engedélyezi, az ideiglenes engedélyezés alapján végzett ellenőrzött szállítás eredménye bizonyítékként nem használható fel.
+(4) Késedelmet nem tűrő esetben – ha az eseti megállapodás megkötése vagy ügyészségi jóváhagyása az ellenőrzött szállítás eredményes végrehajtását veszélyeztetné vagy meghiúsítaná – az ellenőrzött szállítás engedélyezésére huszonnégy óra időtartamra a rendőrségnek vagy a Nemzeti Adó- és Vámhivatalnak az európai nyomozási határozat alapjául szolgáló bűncselekményre figyelemmel hatáskörrel rendelkező, az ellenőrzött szállítás végrehajtására jogszabályban kijelölt szervének vezetője is jogosult. Ebben az esetben az ellenőrzött szállítás ideiglenes engedélyezéséről azzal egyidejűleg tájékoztatni kell az ügyészséget. Az ügyészség a tájékoztatást követően haladéktalanul dönt az ellenőrzött szállítás engedélyezéséről. Ha az ügyészség az ellenőrzött szállítást nem engedélyezi, az ideiglenes engedélyezés alapján végzett ellenőrzött szállítás eredménye bizonyítékként nem használható fel.
 
 (5) Az ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása során – ideértve annak irányítását, ellenőrzését – a magyar jogszabályok irányadók. Az ellenőrzött szállításban közreműködő szerv a tagállami hatósággal és az ellenőrzött szállításban részt vevő más szervekkel együttműködik. Az ellenőrzött szállítást kezdeményező vagy az abban részt vevő szerv ellenőrzött szállítás végrehajtását érintő kérése akkor teljesíthető, ha az nem ellentétes a magyar jogrendszer alapelveivel.
 
-(6) Az ellenőrzött szállítmány kísérésében az ügyész engedélyével a tagállami hatóság tagja is részt vehet. Az ellenőrzött szállítmány kísérésében fedett nyomozó a fedett nyomozó alkalmazására vonatkozó szabályok szerint vehet részt.
+(6) Az ellenőrzött szállítmány kísérésében az ügyészség engedélyével a tagállami hatóság tagja is részt vehet. Az ellenőrzött szállítmány kísérésében fedett nyomozó a fedett nyomozó alkalmazására vonatkozó szabályok szerint vehet részt.

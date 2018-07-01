@@ -4,7 +4,7 @@
 
 (2) Az elítélt a kezdeményezését a büntetés-végrehajtási intézetben is előterjesztheti. A büntetés-végrehajtási intézet az elítélt kezdeményezését a miniszter részére továbbítja.
 
-(3) Az elítélt a hozzájárulásáról a büntetés-végrehajtási bíró előtt nyilatkozhat, amelyet jegyzőkönyvbe kell foglalni. A jegyzőkönyvet a büntetés-végrehajtási bírónak és a nyilatkozattevőnek alá kell írnia. A nyilatkozatban fel kell tüntetni az elítélt személy tagállamban található lakóhelyét vagy állandó tartózkodási helyét, és a büntetés vagy intézkedés tagállami végrehajtásával kapcsolatban megfogalmazott indokait is.
+(3) Az elítélt a hozzájárulásáról a büntetés-végrehajtási bíró előtt nyilatkozhat, amelyet jegyzőkönyvbe kell foglalni. A jegyzőkönyvet a büntetés-végrehajtási bírónak és a nyilatkozattevőnek alá kell írnia. A nyilatkozatban fel kell tüntetni az elítélt személy tagállamban található tényleges tartózkodási helyét, és a büntetés vagy intézkedés tagállami végrehajtásával kapcsolatban megfogalmazott indokait is.
 
 (4) Az elítélt meghallgatása során, a nyilatkozattételt megelőzően a büntetés-végrehajtási bíró az elítéltet tájékoztatja
 

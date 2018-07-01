@@ -2,9 +2,9 @@
 
 (2) Az (1) bekezdés szerinti eseti megállapodás tartalmára a 68/B. § (2) bekezdését kell megfelelően alkalmazni.
 
-(3) A fogvatartott személy ideiglenes átadására csak az érintett erre vonatkozó előzetes hozzájárulása esetén kerülhet sor. A fogvatartott személy hozzájáruló nyilatkozatát tartalmazó iratot és annak fordítását csatolni kell az eljárási jogsegély iránti megkereséshez.
+(3) A fogvatartott személy ideiglenes átadására csak az érintett erre vonatkozó előzetes hozzájárulása esetén kerülhet sor. A fogvatartott személy hozzájáruló nyilatkozatát tartalmazó ügyiratot és annak fordítását csatolni kell az eljárási jogsegély iránti megkereséshez.
 
-(4) Az eljárási jogsegély iránti megkeresés teljesítéséből eredő külföldi fogvatartás teljes időtartamát a Btk.-nak az előzetes fogvatartás beszámítására vonatkozó szabályai szerint kell beszámítani az elrendelt előzetes letartóztatásba, a kiszabott büntetésbe vagy az alkalmazott szabadságelvonással járó intézkedésbe.
+(4) Az eljárási jogsegély iránti megkeresés teljesítéséből eredő külföldi fogvatartás teljes időtartamát a Btk.-nak az előzetes fogvatartás beszámítására vonatkozó szabályai szerint kell beszámítani az elrendelt letartóztatásba, a kiszabott büntetésbe vagy az alkalmazott szabadságelvonással járó intézkedésbe.
 
 (5) Ha a fogvatartás oka megszűnt, a magyar igazságügyi hatóság a fogvatartott személy szabadon bocsátása végett erről haladéktalanul tájékoztatja a tagállamot.
 

@@ -6,7 +6,7 @@ a) az eljárási cselekményeken jelen lehet, azokról a tagállam joga szerint 
 
 b) a tagállam joga szerint és hivatalos nyelvén – a 66/F. § (3) bekezdés rendelkezéseire figyelemmel – tanút vagy terheltet hallgathat ki és erről jegyzőkönyvet készíthet.
 
-(3) A (2) bekezdésben meghatározott esetekben, ha a közös nyomozócsoport Magyarország területén eljáró tagállami tagja az eljárási cselekmény során a tagállam hivatalos nyelvét használja, az ügyész vagy a nyomozó hatóság – szükség esetén – tolmácsot rendel ki.
+(3) A (2) bekezdésben meghatározott esetekben, ha a közös nyomozócsoport Magyarország területén eljáró tagállami tagja az eljárási cselekmény során a tagállam hivatalos nyelvét használja, az ügyészség vagy a nyomozó hatóság – szükség esetén – tolmácsot rendel ki.
 
 (4) A közös nyomozócsoport létrehozásáról szóló megállapodásban vagy a közös nyomozócsoport működése során a tagállami igazságügyi hatósággal kötött eseti megállapodás alapján a tagállami hatóság Magyarország területén eljáró tagállami tagja
 

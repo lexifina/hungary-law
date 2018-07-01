@@ -1,4 +1,4 @@
-40. § (1) A bíróság vagy az ügyész az európai nyomozási határozat végrehajtását megtagadhatja, ha
+40. § (1) A bíróság vagy az ügyészség az európai nyomozási határozat végrehajtását megtagadhatja, ha
 
 a) az súlyosan sértené a büntetőeljárás során a terheltet megillető, nemzetközi szerződésben vagy európai uniós jogi aktusban rögzített alapvető jogokat,
 
@@ -12,10 +12,10 @@ e) az európai nyomozási határozatban megjelölt eljárási cselekmény a magy
 
 f) az európai nyomozási határozat alapjául szolgáló cselekményt Magyarországon vagy egy másik tagállamban jogerősen elbírálták, vagy a cselekmény érdeméről olyan határozatot hoztak, amely – a határozatot hozó tagállam joga alapján – azonos cselekmény vonatkozásában újabb büntetőeljárás megindításának akadályát képezi,
 
-g) az eljárási cselekménnyel érintett személy Magyarországon mentelmi joggal rendelkezik vagy nemzetközi jogon alapuló mentességet élvez, és mentelmi jogát, illetve mentességét az arra jogosult nem függesztette fel,
+g) az eljárási cselekménnyel érintett személy Magyarországon mentelmi jogon vagy nemzetközi jogon alapuló mentességet élvez, és mentelmi jogát, illetve mentességét az arra jogosult nem függesztette fel,
 
 h) az európai nyomozási határozatot nem szabályszerűen vagy nem magyar, angol, német vagy francia nyelven terjesztették elő,
 
 i) az európai nyomozási határozat oly mértékben hiányos, pontatlan, hogy erre figyelemmel nem hajtható végre, és a kiegészítésre, illetve kijavításra tűzött határidő eredménytelenül telt el, vagy az európai nyomozási határozat a kiegészítést, illetve a kijavítást követően sem hajtható végre.
 
-(2) A bíróság vagy az ügyész az európai nyomozási határozat végrehajtásának megtagadásáról a tagállami hatóságot a megtagadás indokainak megjelölésével, haladéktalanul tájékoztatja.
+(2) A bíróság vagy az ügyészség az európai nyomozási határozat végrehajtásának megtagadásáról a tagállami hatóságot a megtagadás indokainak megjelölésével, haladéktalanul tájékoztatja.

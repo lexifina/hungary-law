@@ -12,7 +12,7 @@ e) a végrehajtás átvételének a 73. §-ban meghatározott feltételei nem á
 
 f) a megküldött tanúsítvány nyilvánvalóan nem a mellékelt tagállami határozatra vonatkozik, vagy oly mértékben hiányos, pontatlan, hogy erre figyelemmel nem hajtható végre, és a kiegészítésre, illetve kijavításra tűzött határidő eredménytelenül telt el, vagy a felügyeleti intézkedés a kiegészítést, illetve a kijavítást követően sem hajtható végre,
 
-g) a terhelt Magyarországon mentelmi joggal rendelkezik vagy nemzetközi jogon alapuló mentességet élvez, és mentelmi jogát, illetve mentességét az arra jogosult nem függesztette fel,
+g) a terhelt Magyarországon mentelmi jogon vagy nemzetközi jogon alapuló mentességet élvez, és mentelmi jogát, illetve mentességét az arra jogosult nem függesztette fel,
 
 h) a felügyeleti intézkedés megsértése miatt kibocsátott európai elfogatóparancs végrehajtása az 5. §-ban meghatározott okból megtagadható lenne.
 

@@ -24,6 +24,6 @@ b) büntetés kiszabása vagy intézkedés alkalmazása esetén a tagállami ít
 
 szerint határozza meg.
 
-(5) A bíróság indokolt esetben kezdeményezheti a veszélyeztetett személy Be. 98. § szerinti védelmét.
+(5) A bíróság indokolt esetben kezdeményezheti a veszélyeztetett személy Be. 94. § szerinti védelmét.
 
-(6) A veszélyeztetett személy kérheti személyi adatainak zártan történő kezelését, kivéve azokra az adatokra nézve, amelyek az európai védelmi határozat végrehajtásához elengedhetetlenül szükségesek.
+(6) A veszélyeztetett személy indítványozhatja személyes adatainak zárt kezelését, kivéve azokra az adatokra nézve, amelyek az európai védelmi határozat végrehajtásához elengedhetetlenül szükségesek.

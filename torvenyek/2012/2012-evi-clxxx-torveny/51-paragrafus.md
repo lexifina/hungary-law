@@ -1,1 +1,1 @@
-51. § A bíróság vagy az ügyész az európai nyomozási határozat végrehajtásáról a Be. rendelkezései alapján a tagállami hatóság előzetes tájékoztatását és a tagállami hatóság álláspontjának figyelembevételét követően adhat felvilágosítást.
+51. § A bíróság vagy az ügyészség az európai nyomozási határozat végrehajtásáról a Be. 101. § (1) bekezdése és 264. § (7) bekezdése alapján a tagállami hatóság előzetes tájékoztatását és a tagállami hatóság álláspontjának figyelembevételét követően adhat felvilágosítást.

@@ -6,7 +6,7 @@
 
 (3) Az (1) bekezdés szerinti döntéshez a bíróság – szükség esetén – beszerzi az Európai Unió Működéséről szóló Szerződés 85. cikke szerinti Európai Igazságügyi Együttműködési Egység (a továbbiakban: Eurojust) véleményét.
 
-(4) Ha egy európai elfogatóparancs és egy harmadik ország kiadatási kérelme ütközik, az eljárásra a nemzetközi bűnügyi jogsegélyről szóló törvény rendelkezései az irányadóak.
+(4) Ha egy európai elfogatóparancs és egy harmadik ország kiadatási kérelme ütközik, az eljárásra az Nbjt. rendelkezései az irányadóak.
 
 (5) A (4) bekezdésben meghatározott esetben az európai elfogatóparancs végrehajtása feltételei vonatkozásában e törvény rendelkezéseit megfelelően alkalmazni kell.
 

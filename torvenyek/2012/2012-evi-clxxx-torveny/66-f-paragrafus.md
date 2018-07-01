@@ -1,6 +1,6 @@
 66/F. § (1) Az eljárási jogsegély iránti megkeresésben megjelölt eljárási cselekmény elvégzése során – a (2) és (3) bekezdés kivételével – a magyar jogszabályok szerint kell eljárni.
 
-(1a) Az ügyész rendelkezése alapján a nyomozó hatóság az eljárási jogsegély iránti megkeresés teljesítése során a megkeresésben kért eljárási cselekményt elvégezheti, illetve az eljárási jogsegély iránti megkeresés teljesítésében egyéb módon is közreműködhet.
+(1a) Az ügyészség rendelkezése alapján a nyomozó hatóság az eljárási jogsegély iránti megkeresés teljesítése során a megkeresésben kért eljárási cselekményt elvégezheti, illetve az eljárási jogsegély iránti megkeresés teljesítésében egyéb módon is közreműködhet.
 
 (2) A magyar igazságügyi hatóság az eljárási cselekmény elvégzése során a tagállami igazságügyi hatóság által kifejezetten kért és megjelölt szabályok szerint, illetve technikai módszert alkalmazva jár el, ha ez nem összeegyeztethetetlen a magyar jogrendszer alapelveivel. Ha a magyar igazságügyi hatóság a tagállami igazságügyi hatóság által megjelölt szabályok és technikai módszerek alkalmazását nem tudja teljesíteni, erről a tagállami igazságügyi hatóságot haladéktalanul tájékoztatja, és megjelöli azokat a feltételeket, amelyekkel a megkeresés teljesíthető.
 

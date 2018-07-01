@@ -1,6 +1,6 @@
 ## 55/C. Megtagadási okok
 
-150. § A bíróság vagy az ügyész az európai védelmi határozat végrehajtását megtagadhatja, ha
+150. § A bíróság vagy az ügyészség az európai védelmi határozat végrehajtását megtagadhatja, ha
 
 a) a 148. § (1) bekezdésében meghatározott feltételek nem teljesülnek,
 

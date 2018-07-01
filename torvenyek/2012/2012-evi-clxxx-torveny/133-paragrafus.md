@@ -26,7 +26,7 @@ k) gyógykezelésen vagy elvonókúrán való részvételi kötelezettség.
 
 (2) Az alternatív szankció vagy próbaidő alatti magatartási szabály végrehajtásának átvételére akkor kerülhet sor, ha
 
-a) az elítélt lakóhelye, tartózkodási helye Magyarországon van, vagy az elítélt Magyarországhoz kötődő családi, kulturális vagy gazdasági kapcsolata a társadalomba való beilleszkedésének elősegítését szolgálná, és az elítélt Magyarországra visszatért, vissza kíván térni, vagy itt kíván tartózkodni,
+a) az elítélt tényleges tartózkodási helye Magyarországon van, vagy az elítélt Magyarországhoz kötődő családi, kulturális vagy gazdasági kapcsolata a társadalomba való beilleszkedésének elősegítését szolgálná, és az elítélt Magyarországra visszatért, vissza kíván térni, vagy itt kíván tartózkodni,
 
 b) az alternatív szankció vagy próbaidő alatti magatartási szabály tartama eléri a hat hónapot, és
 

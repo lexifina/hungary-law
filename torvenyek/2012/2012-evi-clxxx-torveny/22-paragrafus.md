@@ -1,10 +1,10 @@
 22. § (1) A bíróság az átadásról szóló határozatában elhalaszthatja a terhelt átadásának végrehajtását annak érdekében, hogy ellene Magyarország területén a büntetőeljárást lefolytathassák, vagy ha már elítélték, az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekménytől különböző bűncselekmény miatt kiszabott szabadságvesztés vagy elzárás büntetését, illetve szabadságelvonással járó intézkedését végrehajthassák.
 
-(2) Ha a terhelt az átadás elrendelésekor előzetes letartóztatásban van, ideiglenes kényszergyógykezelés alatt áll, szabadságvesztését vagy elzárását tölti, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, a bíróság a terhelt átadásának végrehajtását elhalasztja.
+(2) Ha a terhelt az átadás elrendelésekor letartóztatásban van, előzetes kényszergyógykezelés alatt áll, szabadságvesztését vagy elzárását tölti, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, a bíróság a terhelt átadásának végrehajtását elhalasztja.
 
-(3) A bíróság az (1) bekezdésben meghatározott átadás végrehajtását elhalasztó határozatot az átadásról szóló határozatot követően is meghozhatja. A bíróság az átadás végrehajtásának elhalasztásáról az iratok alapján határoz.
+(3) A bíróság az (1) bekezdésben meghatározott átadás végrehajtását elhalasztó határozatot az átadásról szóló határozatot követően is meghozhatja. A bíróság az átadás végrehajtásának elhalasztásáról az ügyiratok alapján határoz.
 
-(4) Ha a terheltnek – az átadási letartóztatás elrendelését követően – az előzetes letartóztatását, az ideiglenes kényszergyógykezelését rendelik el, vagy a terhelt szabadságvesztés vagy elzárás letöltését kezdi meg, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, a bíróság a (3) bekezdés alapján a terhelt átadásának végrehajtását elhalasztja.
+(4) Ha a terheltnek – az átadási letartóztatás elrendelését követően – a letartóztatását, az előzetes kényszergyógykezelését rendelik el, vagy a terhelt szabadságvesztés vagy elzárás letöltését kezdi meg, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, a bíróság a (3) bekezdés alapján a terhelt átadásának végrehajtását elhalasztja.
 
 (5) Ha a bíróság a terhelt átadásának végrehajtását elhalasztotta, az elhalasztás indokoltságát
 
@@ -12,7 +12,7 @@ a) a (2) bekezdésben meghatározott esetben az átadási letartóztatás végre
 
 b) az a) pontban meghatározottaktól eltérő esetben az átadási letartóztatás elrendelését követő három hónap múlva
 
-az iratok alapján hivatalból felülvizsgálja.
+az ügyiratok alapján hivatalból felülvizsgálja.
 
 (5a) Ha az átadás végrehajtásának elhalasztása a hat hónapot meghaladja, a bíróság az elhalasztás indokoltságát a hatodik hónaptól kezdődően három havonta ülésen vizsgálja felül, amelyen az ügyész részvétele kötelező.
 
@@ -22,11 +22,11 @@ a) a (2) bekezdésben meghatározott esetben az átadási letartóztatás végre
 
 b) az a) pontban meghatározottaktól eltérő esetben az átadási letartóztatás elrendelését
 
-követően az ügyész, a terhelt, illetve a védője is indítványozhatja. Ha a terhelt, illetve a védő az elhalasztás felülvizsgálatára irányuló ismételt indítványban új körülményre nem hivatkozik, a bíróság az indítványt érdemi indokolás nélkül elutasíthatja.
+követően az ügyészség, a terhelt, illetve a védője is indítványozhatja. Ha a terhelt, illetve a védő az elhalasztás felülvizsgálatára irányuló ismételt indítványban új körülményre nem hivatkozik, a bíróság az indítványt érdemi indokolás nélkül elutasíthatja.
 
 (7) A bíróság az elhalasztás indokoltságának felülvizsgálata során
 
-a) megkeresi azt a bíróságot, illetve ügyészséget, amely előtt az elhalasztás alapjául szolgáló büntetőeljárás folyamatban van annak érdekében, hogy a büntetőeljárás állásáról vagy a tervezett eljárási cselekményekről tájékoztatást kérjen,
+a) adatszolgáltatást kér az elhalasztás alapjául szolgáló büntetőeljárás állásáról vagy a tervezett eljárási cselekményekről a büntetőeljárást folytató bíróságtól, illetve ügyészségtől,
 
 b) tájékozódik az elhalasztás alapjául szolgáló szabadságvesztés vagy elzárás büntetés, illetve szabadságelvonással járó intézkedés végrehajtásának állásáról.
 

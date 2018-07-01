@@ -4,11 +4,11 @@
 
 ## 45. Figyelembevétel
 
-109. § (1) Ha e törvény nem tesz kivételt, a büntetőügyben hozott tagállami ítélet a magyar bíróság ítéletével azonos érvényű, és azt a tagállami ítélet meghozatalát követően indult büntetőeljárásban az eljáró bíróság, ügyész és nyomozó hatóság figyelembe veszi.
+109. § (1) Ha e törvény nem tesz kivételt, a büntetőügyben hozott tagállami ítélet a magyar bíróság ítéletével azonos érvényű, és azt a tagállami ítélet meghozatalát követően indult büntetőeljárásban az eljáró bíróság, ügyészség és nyomozó hatóság figyelembe veszi.
 
-(2) Ha a tagállami ítélet megfeleltetésére nem került sor, az eljáró bíróságot, ügyészt és nyomozó hatóságot nem köti
+(2) Ha a tagállami ítélet megfeleltetésére nem került sor, az eljáró bíróságot, ügyészséget és nyomozó hatóságot nem köti
 
-a) az, hogy a tagállami ítéletet más bíróság, ügyész vagy nyomozó hatóság már figyelembe vette, illetve
+a) az, hogy a tagállami ítéletet más bíróság, ügyészség vagy nyomozó hatóság már figyelembe vette, illetve
 
 b) a figyelembevétel tartalma.
 

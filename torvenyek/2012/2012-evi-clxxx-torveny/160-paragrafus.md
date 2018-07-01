@@ -1,6 +1,6 @@
 160. § (1) A veszélyeztetett személyt tájékoztatni kell arról, hogy a 156. § és a 159. § alapján az európai védelmi határozat kibocsátására jogosult szervnél európai védelmi határozat kibocsátását indítványozhatja.
 
-(2) A cselekvőképtelen, korlátozottan cselekvőképes kiskorú vagy cselekvőképességében részlegesen korlátozott nagykorú veszélyeztetett személy esetében a indítványt a törvényes képviselő, az eseti gyám vagy az eseti gondnok nyújthatja be.
+(2) A cselekvőképtelen vagy korlátozottan cselekvőképes veszélyeztetett személy esetében az indítványt a törvényes képviselő vagy az ügygondnok nyújthatja be.
 
 (3) A veszélyeztetett személy indítványa alapján a bíróság a 151. § (1) bekezdésében meghatározottak figyelembevételével, legkésőbb az indítvány megérkezéstől számított harminc napon belül dönt
 

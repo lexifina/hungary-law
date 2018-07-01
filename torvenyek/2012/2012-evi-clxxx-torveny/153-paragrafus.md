@@ -1,6 +1,6 @@
 153. § (1) A végrehajtást elrendelő határozatban megjelölt kötelezettség vagy tilalom megsértése esetén
 
-a) a tetten ért veszélyeztető személy őrizetbe vehető, ha a magatartása szabadságvesztéssel büntetendő bűncselekményt valósít meg,
+a) a tetten ért veszélyeztető személy őrizete elrendelhető, ha a magatartása szabadságvesztéssel büntetendő bűncselekményt valósít meg,
 
 b) büntetőeljárást kell indítani, ha a veszélyeztető személy magatartása bűncselekményt valósít meg,
 

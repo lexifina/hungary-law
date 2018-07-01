@@ -2,9 +2,9 @@
 
 a) a bíróság,
 
-b) az ügyész,
+b) az ügyészség,
 
-c) a nyomozó hatóság az ügyész útján, vagy
+c) a nyomozó hatóság az ügyészség útján, vagy
 
 d) a bűnügyi nyilvántartó szerv a Fővárosi Főügyészség útján
 
