@@ -1,0 +1,1 @@
+## 6. § A nyomozó hatóságnál, illetve az ügyészségnél statisztikai feladatot ellátó személy az 5. §-ban foglalt ellenőrzést követően az egyazon büntetőeljáráshoz tartozó statisztikai adatfelvételt időállapot szerint véglegesíti.
