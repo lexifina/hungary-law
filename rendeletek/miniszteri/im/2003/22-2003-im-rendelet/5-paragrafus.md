@@ -1,5 +1,0 @@
-5. § (1) A zártcélú távközlő hálózat útján tartott tárgyaláson a bíróság igazságügyi alkalmazottak, illetőleg a kihallgatáshoz elkülönített helyiséget biztosító, a tanú vagy a terhelt fogva tartását végrehajtó szerv személyzetének segítségével gondoskodhat a közvetítésről. Ha a zártcélú távközlő hálózat működtetéséhez megfelelően képzett igazságügyi alkalmazottak nem állnak rendelkezésre, akkor szakképzett külső személyzet segítsége igénybe vehető, akikre az igazságügyi alkalmazottakra irányadó titoktartási szabályok vonatkoznak.
-
-(2) A zártcélú távközlő hálózat útján tartott tárgyalás technikai és személyi feltételeit, az ahhoz szükséges eszközöket és berendezéseket a zártcélú távközlő hálózat útján történő kihallgatást elrendelő bíróság, vagy a kihallgatáshoz elkülönített helyiséget biztosító bíróság, illetőleg a tanú vagy a terhelt fogva tartását végrehajtó szerv biztosítja.
-
-(3) A külön jogszabály alapján tanúvédelmi programban részt vevő tanú vagy terhelt kihallgatása esetén a zártcélú távközlő hálózat működését biztosító személyzetet a Tanúvédelmi Szolgálat útján kell biztosítani.
