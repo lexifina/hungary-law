@@ -1,5 +1,3 @@
-## Az államháztartásról szóló 2011. évi CXCV. törvény 11. § (3b) bekezdés a) pontja szerinti beolvadásos kiválással érintett tankerületek és a befogadó tankerületi központok
-
 | 1 | MEGYE | TANKERÜLETI KÖZPONT | BEOLVADÓ TANKERÜLET |
 
 | 2 | BÁCS-KISKUN | Kecskeméti | Kecskeméti tankerület |
@@ -414,6 +412,6 @@
 
 | Letenyei tankerület |
 
-3. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^20]
+3. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^26]
 
-[^20]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

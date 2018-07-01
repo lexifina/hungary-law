@@ -8,7 +8,7 @@ b) legalább ötéves vezetői gyakorlattal, és
 
 c)[^10] pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel vagy jogi szakvizsgával
 
-## rendelkezik.
+rendelkezik.
 
 (3) Az igazgatót és a tankerületi központ gazdasági vezetőjét a Klebelsberg Központ elnöke javaslatára az oktatásért felelős miniszter nevezi ki, menti fel, bízza meg, illetve vonja vissza megbízását. Az igazgatóval és a tankerületi központ gazdasági vezetőjével kapcsolatos egyéb munkáltatói jogokat a Klebelsberg Központ elnöke gyakorolja.
 

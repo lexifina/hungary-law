@@ -8,7 +8,7 @@ b) legalább ötéves vezetői gyakorlattal, és
 
 c) pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel vagy jogi szakvizsgával vagy intézményirányítási területen szerzett legalább kétéves vezetői gyakorlattal
 
-## rendelkezik.
+rendelkezik.
 
 (3) Az elnököt távolléte vagy akadályoztatása, továbbá a tisztség ideiglenes betöltetlensége esetén a szakmai elnökhelyettes helyettesíti.
 
@@ -18,7 +18,7 @@ a) a központi vagy a területi közigazgatásban szerzett legalább ötéves ve
 
 b)[^12] pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel vagy jogi szakvizsgával
 
-## rendelkezik.
+rendelkezik.
 
 (5) A Klebelsberg Központ szakmai elnökhelyettesét az elnök, gazdasági elnökhelyettesét – az elnök javaslatára – az oktatásért felelős miniszter nevezi ki és menti fel.
 

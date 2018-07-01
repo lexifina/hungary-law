@@ -1,0 +1,68 @@
+## 19/B. §[^16] A Mezőkovácsházai járás mint feladatellátási terület 2017. február 1-jével a Gyulai Tankerületi Központtól a Békéscsabai Tankerületi Központhoz kerül.
+
+19/C. §[^17] (1) Az Esztergomi Tankerületi Központ a Tatabányai Tankerületi Központból történő kiválás útján 2018. július 1-jén jön létre. Az Esztergomi Tankerületi Központ fenntartásába kerülnek a feladatellátási területén székhellyel rendelkező, 2018. július 1-jét megelőzően a Tatabányai Tankerületi Központ fenntartásában lévő köznevelési intézmények.
+
+(2) A következő európai uniós forrásból finanszírozott projektek megvalósítása és fenntartása tekintetében a Tatabányai Tankerületi Központ jogutóda az Esztergomi Tankerületi Központ:
+
+1. TÁMOP-3.1.4.C-14-2015-0080 „Kompenzáció és Innováció” című projekt,
+
+2. TÁMOP-3.1.4.C-14-2015-0087 „»A jövő kezdete« – Innovatív oktatás a Hegyeskő Általános Iskolában” című projekt,
+
+3. TÁMOP-3.1.4.C-14-2015-0088 „Innovatív oktatás az Esztergomi Montágh Imre EGYMI, Óvoda, Általános Iskola és Speciális Szakiskolában” című projekt,
+
+4. TÁMOP-3.1.4.C-14-2015-0092 „Új utakon – Innovatív oktatás az Arany János Általános Iskolában” című projekt,
+
+5. TÁMOP-3.1.4.C-14-2015-0199 „Kapaszkodót kínálunk” című projekt,
+
+6. TÁMOP-3.1.4-08/2-2008-0042 „A kompetencia alapú oktatás bevezetése Dorog város közoktatási intézményeibe” című projekt,
+
+7. TÁMOP-3.1.4-08/2-2009-0225 „A kompetencia alapú oktatás elterjesztése a pilismaróti Bozóky Mihály Általános Iskolában”című projekt,
+
+8. TÁMOP-3.1.5-09/A-2-2010-0297 „Pedagógusképzés a Petőfi iskolában” című projekt,
+
+9. TÁMOP-3.1.5-09/A-2-2010-0328 „Pedagógusképzés az Eötvös iskolában” című projekt,
+
+10. TÁMOP-3.1.5-09/A-2-2010-0349 „Furulya és Zenetörténet tantárgyak magas szintű oktatása a nyergesújfalui Szabolcsi Bence Zeneiskolában” című projekt,
+
+11. TÁMOP-3.1.5-09/A-2-2010-0384 „TÁMOP-3.1.5-09/A/2 – Pedagógusképzések (a pedagógiai kultúra korszerűsítése, pedagógusok új szerepben) (konvergencia) Zsolt Nándor Zene – és Művészeti Iskola 2 pedagógusának szakmai továbbképzése” című projekt,
+
+12. TÁMOP-3.1.7-11/2-2011-0122 „Bajnai általános iskola a referencia-intézmények országos hálózatában” című projekt,
+
+13. TÁMOP-3.1.7-11/2-2011-0375 „Referencia-intézmény a DOKI-ban” című projekt,
+
+14. TÁMOP-3.3.14.A-12/1-2013-0111 „Hazai testvériskolai kapcsolatok kialakítása a Montágh Imre EGYMI Óvoda, Általános Iskola és Speciális Szakiskola vezetésével” című projekt,
+
+15. TÁMOP-3.3.8-12/2-2012-0091 „Lépésről lépésre az esélyegyenlőség útján” című projekt,
+
+16. TIOP-1.1.1-07/1-2008-0671 „A pedagógiai, módszertani reformot támogató informatikai infrastruktúra fejlesztése a Csolnok és Környéke Körzeti Általános Iskolában” című projekt,
+
+17. TIOP-1.1.1-07/1-2008-0750 „Informatikai fejlesztés a Kincses József Általános Iskolában Kesztölcön” című projekt,
+
+18. TIOP-1.1.1-07/1-2008-1000 „Informatikai infrastruktúrafejlesztés a Bozóky Mihály Általános Iskolában” című projekt,
+
+19. TIOP-1.1.1-07/1-2008-1011 „Az informatikai infrastruktúra fejlesztése a Bajna–Epöl–Nagysáp iskolatársulásban” című projekt,
+
+20. TIOP-1.2.3-11/1-2012-0089 „»Zenesziget« – Zsolt Nándor Zeneiskola könyvtári szolgáltatásainak összehangolt infrastruktúra fejlesztése a zeneoktatás szolgálatában” című projekt,
+
+21. TIOP-1.2.3-11/1-2012-0232 „Informatikai infrastruktúra fejlesztés a lábatlani Arany János Általános Iskola könyvtárában” című projekt,
+
+22. TÁMOP-3.1.4-12/2-2012-0069 „ó...ió...ció...áció...váció...ováció...INNOVÁCIÓ!” című projekt,
+
+23. TÁMOP-3.1.5-09/A-2-2010-0385 „Pedagógusképzés a Zrínyi Iskolában” című projekt,
+
+24. TIOP-1.2.3-11/1-2012-0103 „A tokodaltárói iskolai könyvtár fejlesztése” című projekt,
+
+25. EFOP-1.3.9-17-2017-00016 „Iskolaközpontú helyi együttműködések támogatása a Pilismaróti Bozóky Mihály Általános Iskolában” című projekt,
+
+26. EFOP-4.1.2-17-2017-00082 „A Nyergesújfalui Kernstok Károly Általános Iskola infrastrukturális fejlesztése” című projekt,
+
+27. EFOP-4.1.3-17-2017-00063 „A Dorogi Magyar–Angol Két Tanítási Nyelvű és Sportiskolai Általános Iskola infrastrukturális fejlesztése” című projekt,
+
+28. EFOP-4.1.3-17-2017-00064 „A Dorogi Zsigmondy Vilmos Gimnázium infrastrukturális fejlesztése” című projekt,
+
+29. EFOP-4.1.3-17-2017-00066 „Az Esztergomi Babits Mihály Általános Iskola infrastrukturális fejlesztése” című projekt,
+
+30. EFOP-4.1.3-17-2017-00067 „Az Esztergomi Arany János Általános Iskola infrastrukturális fejlesztése” című projekt.
+
+[^16]: A 19/B. §-t a 486/2016. (XII. 28.) Korm. rendelet 21. §-a iktatta be.
+[^17]: A 19/C. §-t a 64/2018. (IV. 3.) Korm. rendelet 1. §-a iktatta be.

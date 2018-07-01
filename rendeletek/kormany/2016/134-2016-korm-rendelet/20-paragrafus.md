@@ -1,3 +1,3 @@
-## 19/B. §[^16] A Mezőkovácsházai járás mint feladatellátási terület 2017. február 1-jével a Gyulai Tankerületi Központtól a Békéscsabai Tankerületi Központhoz kerül.
+20. §[^18]
 
-[^16]: A 19/B. §-t a 486/2016. (XII. 28.) Korm. rendelet 21. §-a iktatta be.
+[^18]: A 20–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -6,7 +6,7 @@ a) 9. § b) és g)–j) pontjában meghatározott irányítási, valamint
 
 b) 9. § e) pontja és 9/A. § (3) bekezdése szerinti hatékonysági, pénzügyi ellenőrzési
 
-## hatásköröket.
+hatásköröket.
 
 (2) Az (1) bekezdésben meghatározott feladatai ellátása során a Klebelsberg Központ
 

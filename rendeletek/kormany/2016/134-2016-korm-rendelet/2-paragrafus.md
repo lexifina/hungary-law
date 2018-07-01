@@ -22,7 +22,7 @@ gb) az oktatásért felelős miniszter által meghirdetett és támogatott orsz�
 
 gc) a középfokú beiskolázás központi írásbeli felvételi vizsgái megszervezésének
 
-## lebonyolításában,
+lebonyolításában,
 
 h) közreműködik valamennyi, az Országos Képzési Jegyzékben szereplő szakképesítéssel kapcsolatos szakmai vizsga központi írásbeli tételeinek, központi gyakorlati feladatainak, valamint azok megoldásainak szétosztásában,
 

@@ -4,6 +4,6 @@ a) a köznevelési intézményben pedagógus munkakörben, a nevelő-oktató mun
 
 b) a köznevelési intézmény fenntartásával és működtetésével összefüggő feladatokat a KLIK területi szervében ellátó személyek a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 58. §-a szerint
 
-## kerülnek az illetékes tankerületi központ állományába 2017. január 1-jén.
+kerülnek az illetékes tankerületi központ állományába 2017. január 1-jén.
 
 (2) Az (1) bekezdés szerint az illetékes tankerületi központ állományába kerülő foglalkoztatottak 2016. december havi, 2017. január hónapban esedékes illetményét, munkabérét és egyéb járandóságát, valamint azok közterheit a Klebelsberg Központ fizeti meg, e kifizetés a Klebelsberg Központ költségvetését terheli.

@@ -1,6 +1,5 @@
-## 20–25. §[^17]
+1. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^24]
 
-1. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^18]
+Az állami köznevelési közfeladat ellátásában fenntartóként részt vevő tankerületi központok feladatellátási területe
 
-[^17]: A 20–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: Az 1. melléklet a 486/2016. (XII. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^24]: Az 1. melléklet a 64/2018. (IV. 3.) Korm. rendelet 2. §-ával megállapított szöveg.
