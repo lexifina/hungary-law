@@ -20,7 +20,7 @@ g) összeférhetetlenségének megállapításával;
 
 h) elbocsátás fegyelmi büntetést kiszabó jogerős fegyelmi határozattal;
 
-i) a bíróságnak vele szemben végrehajtandó szabadságvesztést kiszabó jogerős határozatával, továbbá ha büntetőeljárás során kényszergyógykezelését rendelték el;
+i) a bíróságnak vele szemben végrehajtandó szabadságvesztést kiszabó jogerős ítéletével, továbbá ha büntetőeljárás során kényszergyógykezelését rendelték el;
 
 j) halálával;
 
@@ -32,7 +32,7 @@ l) vagyonnyilatkozat-tételi kötelezettségének megszegésével.
 
 (3) A tisztviselő ügyészségi szolgálati viszonya az (1) bekezdésben említetteken túl megszűnik, ha a 122. § (1) bekezdésében meghatározott feltételek valamelyike már nem áll fenn.
 
-(4) Az ügyészségi megbízott ügyészségi szolgálati viszonya az (1), (3) bekezdésben említetteken túl megszűnik a bíróságnak vele szemben szándékos bűncselekmény miatt felfüggesztett szabadságvesztést, közérdekű munkát kiszabó jogerős határozatával.
+(4) Az ügyészségi megbízott ügyészségi szolgálati viszonya az (1), (3) bekezdésben említetteken túl megszűnik a bíróságnak vele szemben szándékos bűncselekmény miatt felfüggesztett szabadságvesztést, közérdekű munkát kiszabó jogerős ügydöntő határozatával.
 
 (5) A tisztviselő, az írnok és a fizikai alkalmazott esetében a közös megegyezésre, a felmentésre, a lemondásra, a rendkívüli lemondásra, a 17. § kivételével a határozott időre szóló ügyészségi szolgálati viszony megszüntetésére, a végkielégítésre és az ügyészségi szolgálati viszony jogellenes megszüntetésére e törvénynek az ügyészekre vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal az eltéréssel, hogy
 

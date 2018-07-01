@@ -14,7 +14,7 @@ f) a tagságról való lemondással;
 
 g) a tagságból való felmentéssel;
 
-h) az ügyész büntető, illetve fegyelmi felelősségét megállapító határozat jogerőre emelkedésével.
+h) az ügyész büntető, illetve fegyelmi felelősségét megállapító határozat jogerőre emelkedésével, illetve a büntetőeljárásnak feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló további jogorvoslattal nem támadható határozat meghozatalával.
 
 (2) A tagságból történő felmentésről az összügyészi értekezlet dönt titkos szavazással. A felmentéshez a leadott érvényes szavazatok több mint fele szükséges.
 
