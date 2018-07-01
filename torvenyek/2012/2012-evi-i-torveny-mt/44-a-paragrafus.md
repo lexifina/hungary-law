@@ -10,7 +10,7 @@ ab) tiltott toborzás [a Büntető Törvénykönyvről szóló 2012. évi C. tö
 
 bűncselekmény elkövetése miatt szerepel,
 
-b) az a) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a büntetőeljárás jogerős befejezéséig,
+b) az a) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll,
 
 c) a Btk. 52. § (3) bekezdése szerinti foglalkozástól eltiltás hatálya alatt áll, vagy
 
