@@ -4,7 +4,7 @@
 
 a) legalább egy, felnőttek és gyermekek fogadására egyaránt alkalmas fogadóhelyiséget,
 
-b)[^71] legalább egy, 20 négyzetméteres, természetes fénnyel megvilágított, a (3) bekezdésben foglaltak szerint kialakított játszószobát,
+b)[^73] legalább egy, 20 négyzetméteres, természetes fénnyel megvilágított, a (3) bekezdésben foglaltak szerint kialakított játszószobát,
 
 c) legalább egy, fejlesztő foglalkozások megtartására, a szülőkkel való beszélgetésre, csoportmegbeszélésre alkalmas helyiséget,
 
@@ -34,4 +34,4 @@ d) pihenésre, alvásra alkalmas pihenőhelyet könnyű matracokkal és takaróv
 
 (4) A Biztos Kezdet Gyerekház helyiségei – a játszószoba, a WC, a fürdőszoba és a konyha kivételével – többfunkciósak is lehetnek.
 
-[^71]: Az 5/C. § (2) bekezdés c) pontja a 2/2018. (I. 18.) EMMI rendelet 30. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^73]: Az 5/C. § (2) bekezdés c) pontja a 2/2018. (I. 18.) EMMI rendelet 30. § (1) bekezdés b) pontja szerint módosított szöveg.

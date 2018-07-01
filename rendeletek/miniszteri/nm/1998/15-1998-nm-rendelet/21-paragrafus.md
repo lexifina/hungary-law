@@ -4,11 +4,11 @@ a) havi rendszerességgel esetmegbeszélést tart a szolgálatok számára és s
 
 b) tájékoztatja a szolgálatokat az általa nyújtott szolgáltatásokról, az azt érintő változásokról, illetve a járás területén elérhető, más személy, illetve szervezet által nyújtott, közvetíthető szolgáltatásokról, ellátásokról,
 
-c)[^85] a családsegítő munkatárs szakmai felkészülését alkalmazásának első évében kétheti rendszerességgel támogatja, ha az egyedül látja el a szolgálat feladatait, és a képesítési előírások teljesítése alól felmentést kapott.
+c)[^87] a családsegítő munkatárs szakmai felkészülését alkalmazásának első évében kétheti rendszerességgel támogatja, ha az egyedül látja el a szolgálat feladatait, és a képesítési előírások teljesítése alól felmentést kapott.
 
 (2) Ha a család- és gyermekjóléti központ a család- és gyermekjóléti szolgálat feladatkörébe tartozó szolgáltatás szükségességét észleli, a Gyvt. 40/A. § (2) bekezdés b) pontja szerinti esetben bevonja a család- és gyermekjóléti szolgálatot a szolgáltatás nyújtásába, egyéb esetben felhívja a család- és gyermekjóléti szolgálatot a szolgáltatás nyújtására.
 
-(3)[^86] Ha a kórházi vagy az iskolai szociális munka helye, valamint a gyermek tényleges tartózkodási helye különböző család- és gyermekjóléti központok ellátási területén található, a kórházi vagy az iskolai szociális munkát végző család- és gyermekjóléti központ értesíti a tartózkodási hely szerinti család- és gyermekjóléti központot a gyermek veszélyeztetettségéről.
+(3)[^88] Ha a kórházi vagy az iskolai szociális munka helye, valamint a gyermek tényleges tartózkodási helye különböző család- és gyermekjóléti központok ellátási területén található, a kórházi vagy az iskolai szociális munkát végző család- és gyermekjóléti központ értesíti a tartózkodási hely szerinti család- és gyermekjóléti központot a gyermek veszélyeztetettségéről.
 
-[^85]: A 21. § (1) bekezdés c) pontját 1/2017. (II. 14.) EMMI rendelet 7. §-a iktatta be.
-[^86]: A 21. § (3) bekezdését a 2/2018. (I. 18.) EMMI rendelet 8. §-a iktatta be.
+[^87]: A 21. § (1) bekezdés c) pontját 1/2017. (II. 14.) EMMI rendelet 7. §-a iktatta be.
+[^88]: A 21. § (3) bekezdését a 2/2018. (I. 18.) EMMI rendelet 8. §-a iktatta be.

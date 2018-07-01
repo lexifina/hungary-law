@@ -20,7 +20,7 @@ h) a beérkezett jelzésekről és az azok alapján megtett intézkedésekről h
 
 i) a jelzőrendszeri szereplők együttműködésének koordinálása érdekében esetmegbeszélést szervez, az elhangzottakról feljegyzést készít,
 
-j)[^79] egy gyermek, egyén vagy család ügyében, az esetmenedzser, esettől függően a kijelölt járási jelzőrendszeri tanácsadó részvételével, lehetőség szerint az érintetteteket – beleértve az ítélőképessége birtokában lévő gyermeket – és a velük foglalkozó szakembereket is bevonva esetkonferenciát szervez,
+j)[^81] egy gyermek, egyén vagy család ügyében, az esetmenedzser, esettől függően a kijelölt járási jelzőrendszeri tanácsadó részvételével, lehetőség szerint az érintetteteket – beleértve az ítélőképessége birtokában lévő gyermeket – és a velük foglalkozó szakembereket is bevonva esetkonferenciát szervez,
 
 k) éves szakmai tanácskozást tart és éves jelzőrendszeri intézkedési tervet készít, és
 
@@ -34,7 +34,7 @@ b) a pártfogó felügyelői szolgálatot, ha olyan gyermek ügyét tárgyalják
 
 c) a gyermekvédelmi rendszerhez kapcsolódó más személyeket, illetve intézmények képviselőit indokolt esetben, különösen akkor, ha részvételük a gyermekkel kapcsolatos probléma megoldásához szükséges, és
 
-d)[^80] az esetmegbeszélés témájától, céljától függően a járási jelzőrendszeri tanácsadót vagy a család- és gyermekjóléti központ esetmenedzserét (a továbbiakban: esetmenedzser).
+d)[^82] az esetmegbeszélés témájától, céljától függően a járási jelzőrendszeri tanácsadót vagy a család- és gyermekjóléti központ esetmenedzserét (a továbbiakban: esetmenedzser).
 
 (3) A család- és gyermekjóléti szolgálat és a jelzőrendszer tagjainak képviselői között, előre meghatározott témakörben, évente legalább hat alkalommal szakmaközi megbeszélést kell szervezni. A szakmaközi megbeszélésre meg kell hívni a gyermekvédelmi jelzőrendszer azon tagjait, akik részvétele a gyermekek nagyobb csoportját érintő veszélyeztető tényezők megszüntetését célzó cselekvési terv kidolgozásához szükséges.
 
@@ -68,5 +68,5 @@ g) a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és meg
 
 (7) Ha a család- és gyermekjóléti szolgálat a jelzőrendszer működtetése körében a család- és gyermekjóléti központ feladatkörébe tartozó vagy szakmai támogatását igénylő esetről szerez tudomást, haladéktalanul megkeresi a család- és gyermekjóléti központot.
 
-[^79]: A 9. § (1) bekezdés j) pontja az 1/2017. (II. 14.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.
-[^80]: A 9. § (2) bekezdés d) pontja az 1/2017. (II. 14.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^81]: A 9. § (1) bekezdés j) pontja az 1/2017. (II. 14.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.
+[^82]: A 9. § (2) bekezdés d) pontja az 1/2017. (II. 14.) EMMI rendelet 5. §-ával megállapított szöveg.

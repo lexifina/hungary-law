@@ -8,9 +8,9 @@ b) a gyámhivatal által nevelésbe vett
 
 gyermeket, ha a határozatban a gyermek gondozási helyeként a gyermekotthont jelölték meg.
 
-(2)[^278] Az (1) bekezdés a) pontja szerint kijelölt intézmény befogadó gyermekotthonként is működik.
+(2)[^280] Az (1) bekezdés a) pontja szerint kijelölt intézmény befogadó gyermekotthonként is működik.
 
-(3)[^279] A befogadásról a gyermekotthon haladéktalanul értesíti a 4. számú melléklet szerinti adatlapon
+(3)[^281] A befogadásról a gyermekotthon haladéktalanul értesíti a 4. számú melléklet szerinti adatlapon
 
 a) a beutaló szervet, illetve a gyámhivatalt,
 
@@ -24,8 +24,8 @@ e) a szülő lakóhelye szerinti család- és gyermekjóléti központot és
 
 f) a pártfogó felügyelet, megelőző pártfogás alatt álló gyermek, fiatal felnőtt pártfogó felügyelőjét.
 
-(4)[^280] A gyermekotthon haladéktalanul értesíti a nevelésbe vételt elrendelő gyámhivatalt és a gyermekvédelmi gyámot, ha a gondozott gyermek a határozatban megjelölt időpontig nem érkezett meg a gyermekotthonba.
+(4)[^282] A gyermekotthon haladéktalanul értesíti a nevelésbe vételt elrendelő gyámhivatalt és a gyermekvédelmi gyámot, ha a gondozott gyermek a határozatban megjelölt időpontig nem érkezett meg a gyermekotthonba.
 
-[^278]: A 113. § új (2) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 65. § (1) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatva.
-[^279]: A 113. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 65. § (1) bekezdése. A 113. § (3) bekezdése az 1/2017. (II. 14.) EMMI rendelet 15. §-ával megállapított szöveg.
-[^280]: A 113. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 65. § (1) bekezdése, szövege a 26/2013. (III. 29.) EMMI rendelet 37. § 8. pontja szerint módosított szöveg.
+[^280]: A 113. § új (2) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 65. § (1) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatva.
+[^281]: A 113. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 65. § (1) bekezdése. A 113. § (3) bekezdése az 1/2017. (II. 14.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^282]: A 113. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 65. § (1) bekezdése, szövege a 26/2013. (III. 29.) EMMI rendelet 37. § 8. pontja szerint módosított szöveg.

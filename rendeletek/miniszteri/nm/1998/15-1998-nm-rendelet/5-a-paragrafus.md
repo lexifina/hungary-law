@@ -42,15 +42,17 @@ i)[^57] segítheti a várandós anyákat a gyermek fogadására való felkészü
 
 a) évente öt munkanapot a munkatervében meghatározott feladatok végrehajtása érdekében, és
 
-b) a Biztos Kezdet Gyerekház működését ellehetetlenítő vis maior eset elhárításának időtartama alatt.
+b) a Biztos Kezdet Gyerekház működését ellehetetlenítő vis maior eset elhárításának időtartama alatt,
 
-(8)[^63] A fenntartó a Biztos Kezdet Gyerekház zárvatartásáról – a (7) bekezdés b) pontja szerinti eset kivételével – a zárvatartást megelőzően legalább tíz nappal tájékoztatja a szolgáltatást igénybe vevőket és a helyi közösséget.
+c)[^63] a foglalkoztatottaknak a Biztos Kezdet Alapképzésen való részvételének időtartama alatt.
 
-(9)[^64] A Biztos Kezdet Gyerekház nyújtotta szolgáltatás rendszeres igénybe vevőjének számít az a 0–3 éves korú gyermek, aki szülőjével az adott hónap nyitvatartási napjainak legalább negyven százalékában látogatja a Biztos Kezdet Gyerekházat.
+(8)[^64] A fenntartó a Biztos Kezdet Gyerekház zárvatartásáról – a (7) bekezdés b) pontja szerinti eset kivételével – a zárvatartást megelőzően legalább tíz nappal tájékoztatja a szolgáltatást igénybe vevőket és a helyi közösséget.
 
-(10)[^65] A Biztos Kezdet Gyerekház nyújtotta szolgáltatást rendszeresen igénybe vevő gyermekek legalább felének rendszeres gyermekvédelmi kedvezményben részesülő gyermeknek kell lennie, azzal, hogy a rendszeres gyermekvédelmi kedvezményben részesülő gyermekek legalább felének egyúttal hátrányos vagy halmozottan hátrányos helyzetűnek is kell minősülnie.
+(9)[^65] A Biztos Kezdet Gyerekház nyújtotta szolgáltatás rendszeres igénybe vevőjének számít az a 0–3 éves korú gyermek, aki szülőjével az adott hónap nyitvatartási napjainak legalább negyven százalékában látogatja a Biztos Kezdet Gyerekházat.
 
-(11)[^66] A Biztos Kezdet Gyerekház nyújtotta szolgáltatást rendszeresen igénybe vevő gyermekek létszámának havi átlagban el kell érnie az öt főt.
+(10)[^66] A Biztos Kezdet Gyerekház nyújtotta szolgáltatást rendszeresen igénybe vevő gyermekek legalább felének rendszeres gyermekvédelmi kedvezményben részesülő gyermeknek kell lennie, azzal, hogy a rendszeres gyermekvédelmi kedvezményben részesülő gyermekek legalább felének egyúttal hátrányos vagy halmozottan hátrányos helyzetűnek is kell minősülnie.
+
+(11)[^67] A Biztos Kezdet Gyerekház nyújtotta szolgáltatást rendszeresen igénybe vevő gyermekek létszámának havi átlagban el kell érnie az öt főt.
 
 (12) A Biztos Kezdet Gyerekház által nyújtott szolgáltatás igénybevételéről a 13. számú melléklet szerinti jelenléti ívet kell vezetni.
 
@@ -64,7 +66,8 @@ b) a Biztos Kezdet Gyerekház működését ellehetetlenítő vis maior eset elh
 [^60]: Az 5/A. § (5) bekezdése a 2/2018. (I. 18.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^61]: Az 5/A. § (6) bekezdését a 2/2018. (I. 18.) EMMI rendelet 2. § (4) bekezdése iktatta be.
 [^62]: Az 5/A. § (7) bekezdését a 2/2018. (I. 18.) EMMI rendelet 2. § (4) bekezdése iktatta be.
-[^63]: Az 5/A. § (8) bekezdését a 2/2018. (I. 18.) EMMI rendelet 2. § (4) bekezdése iktatta be.
-[^64]: Az 5/A. § (9) bekezdését a 2/2018. (I. 18.) EMMI rendelet 2. § (4) bekezdése iktatta be.
-[^65]: Az 5/A. § (10) bekezdését a 2/2018. (I. 18.) EMMI rendelet 2. § (4) bekezdése iktatta be.
-[^66]: Az 5/A. § (11) bekezdését a 2/2018. (I. 18.) EMMI rendelet 2. § (4) bekezdése iktatta be.
+[^63]: Az 5/A. § (7) bekezdés c) pontját a 2/2018. (I. 18.) EMMI rendelet 3. §-a iktatta be.
+[^64]: Az 5/A. § (8) bekezdését a 2/2018. (I. 18.) EMMI rendelet 2. § (4) bekezdése iktatta be.
+[^65]: Az 5/A. § (9) bekezdését a 2/2018. (I. 18.) EMMI rendelet 2. § (4) bekezdése iktatta be.
+[^66]: Az 5/A. § (10) bekezdését a 2/2018. (I. 18.) EMMI rendelet 2. § (4) bekezdése iktatta be.
+[^67]: Az 5/A. § (11) bekezdését a 2/2018. (I. 18.) EMMI rendelet 2. § (4) bekezdése iktatta be.

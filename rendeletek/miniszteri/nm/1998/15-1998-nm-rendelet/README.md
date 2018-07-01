@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-15-20-3
 | 2018-01-01 | 1998-15-20-3D.41 | 9/2000. (VIII. 4.) SZCSM rendelet |
 | 2018-02-01 | 1998-15-20-3D.42 | 2/2018. (I. 18.) EMMI rendelet |
 | 2018-02-02 | 1998-15-20-3D.43 | 19/2014. (III. 13.) EMMI rendelet |
+| 2018-07-01 | 1998-15-20-3D.44 | 2/2018. (I. 18.) EMMI rendelet |
