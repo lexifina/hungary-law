@@ -20,7 +20,7 @@ ga) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szól
 
 gb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott
 
-bűncselekmény elkövetése miatt nem áll jogerős ítélet hatálya alatt vagy mentesült a büntetett előélethez fűződő hátrányos következmények alól.
+bűncselekmény elkövetése miatt nem áll jogerős ügydöntő határozat hatálya alatt vagy mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
 (2) Az engedély legfeljebb öt évre adható, amely az engedélyezés feltételeinek fennállása esetén újabb öt évre meghosszabbítható.
 
