@@ -2,7 +2,7 @@
 
 a) a feladatkörében eljáró Felügyelettel,
 
-b) a nyomozás elrendelését követően a nyomozó hatósággal és az ügyészséggel,
+b) az előkészítő eljárást folytató szervvel, a nyomozó hatósággal és az ügyészséggel,
 
 c) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási perben eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, a csődeljárásban eljáró vagyonfelügyelővel, a felszámolási eljárásban eljáró ideiglenes vagyonfelügyelővel, rendkívüli vagyonfelügyelővel, felszámolóval, a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 
@@ -18,7 +18,7 @@ h) a feladatkörében eljáró gyámhatósággal,
 
 i) az egészségügyről szóló 1997. évi CLIV. törvény 108. § (2) bekezdésében foglalt esetben az egészségügyi államigazgatási szervvel,
 
-j) törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
+j) törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel,
 
 k) a viszontbiztosítóval, a csoport másik vállalkozásával, valamint együttbiztosítás esetén a kockázatvállaló biztosítókkal,
 
@@ -42,7 +42,7 @@ t) a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást 
 
 u) a felszámoló szervezeteket nyilvántartó hatósággal,
 
-szemben, ha az a)–j), n), s), t) és u) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a p)–s) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
+szemben, ha az a)–j), n), s), t) és u) pontban megjelölt szerv vagy személy adatkéréssel, illetve írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a p)–s) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
 
 (2) Az (1) bekezdés e) pontja alapján a biztosítási titok megtartásának kötelezettsége abban az esetben nem áll fenn, ha adóügyben, az adóhatóság felhívására a biztosítót törvényben meghatározott körben nyilatkozattételi kötelezettség, vagy ha biztosítási szerződésből eredő adókötelezettség alá eső kifizetésről törvényben meghatározott adatszolgáltatási kötelezettség terheli.
 
@@ -56,7 +56,7 @@ szemben, ha az a)–j), n), s), t) és u) pontban megjelölt szerv vagy személy
 
 (5) A biztosítási titoktartási kötelezettség az eljárás keretén kívül az (1) bekezdésben meghatározott szervek alkalmazottaira is kiterjed.
 
-(6) A biztosító vagy a viszontbiztosító a nemzetbiztonsági szolgálat, az ügyészség, továbbá az ügyész jóváhagyásával a nyomozó hatóság írásbeli megkeresésére akkor is köteles haladéktalanul, írásban tájékoztatást adni, ha adat merül fel arra, hogy a biztosítási ügylet
+(6) A biztosító vagy a viszontbiztosító a nemzetbiztonsági szolgálat, az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség, továbbá a bíróság adatkérésére, illetve írásbeli megkeresésére akkor is köteles haladéktalanul, írásban tájékoztatást adni, ha adat merül fel arra, hogy a biztosítási ügylet
 
 a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvényben foglaltak szerinti kábítószerrel visszaéléssel, új pszichoaktív anyaggal visszaéléssel, terrorcselekménnyel, robbanóanyaggal vagy robbantószerrel visszaéléssel, lőfegyverrel vagy lőszerrel visszaéléssel, pénzmosással, bűnszövetségben vagy bűnszervezetben elkövetett bűncselekménnyel,
 

@@ -12,8 +12,8 @@ a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény XV. fejezetén
 
 b) a Btk. XXVII. vagy XXXV–XLIII. Fejezetében
 
-meghatározott bűncselekmény miatt vádemelésre került sor, vagy külföldön az illetékes hatóság részéről vádemelésre került sor olyan bűncselekmény miatt, amely az 1978. évi IV. törvény XVII. vagy XVIII. fejezete szerint 2013. június 30-ig büntetendő volt, vagy a Btk. XXXV–XLIII. Fejezetében foglaltak szerint büntetendő a büntetőeljárás jogerős befejezéséig vezető állású tisztségéhez kapcsolódó feladatai általa történő ellátását fel kell függeszteni.
+meghatározott bűncselekmény miatt vádemelésre került sor, vagy külföldön az illetékes hatóság részéről vádemelésre került sor olyan bűncselekmény miatt, amely az 1978. évi IV. törvény XVII. vagy XVIII. fejezete szerint 2013. június 30-ig büntetendő volt, vagy a Btk. XXXV–XLIII. Fejezetében foglaltak szerint büntetendő a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig vezető állású tisztségéhez kapcsolódó feladatai általa történő ellátását fel kell függeszteni.
 
-(5) Az a személy, akivel szemben a (4) bekezdésben meghatározott bűncselekmény miatt vádemelésre került sor, a büntetőeljárás jogerős befejezéséig vezető állású személynek nem nevezhető ki és nem választható meg.
+(5) Az a személy, akivel szemben a (4) bekezdésben meghatározott bűncselekmény miatt vádemelésre került sor, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig vezető állású személynek nem nevezhető ki és nem választható meg.
 
 (6) Ha a vezető állású személy megsérti a működésére vonatkozó jogszabályok előírásait, a Felügyelet a kötelezettségszegés súlyának figyelembevételével kezdeményezheti a vezető állású személy felmentését. A biztosító és a viszontbiztosító a kezdeményezés alapján köteles megtenni a felmentéshez szükséges intézkedéseket.

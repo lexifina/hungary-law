@@ -24,7 +24,7 @@ szemben.
 
 (4) A 144. §-ban előírt titoktartási kötelezettség nem áll fenn
 
-a) a nyomozás elrendelését követően a nyomozó hatósággal és ügyészséggel,
+a) a nyomozó hatósággal és ügyészséggel,
 
 b) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási perben eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, valamint az önkormányzati adósságrendezési eljárás keretében a bírósággal szemben.
 
