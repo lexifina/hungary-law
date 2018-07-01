@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-168-00-00
 | 2017-04-15 | 2017. évi XVI. törvény | 2011-168-00-00.11 |
 | 2017-06-15 | 2017. évi XVI. törvény | 2011-168-00-00.12 |
 | 2018-01-01 | 2017. évi CCV. törvény | 2011-168-00-00.13 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2011-168-00-00.14 |
