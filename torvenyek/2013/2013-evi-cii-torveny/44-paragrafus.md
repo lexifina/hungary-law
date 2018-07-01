@@ -16,7 +16,7 @@ együtt jogosít halászatra vagy horgászatra.
 
 (4) A területi jegyen a halgazdálkodásra jogosultnak fel kell tüntetnie a halgazdálkodási tervében a hatóság által jóváhagyott korlátozásokat, amelyek betartása a feljogosított személy számára kötelező. A területi jegy részletes tartalmi követelményeit az e törvény végrehajtására kiadott rendelet határozza meg.
 
-(5) A halgazdálkodásra jogosult a feljogosított személytől a halászati őr intézkedésével összefüggésben átadott területi jegyet a halvédelmi bírság kiszabása iránt kezdeményezett hatósági, a halászattal, horgászattal, továbbá hal fogásával összefüggésben lefolytatott szabálysértési vagy büntetőeljárás végleges, illetve jogerős befejezéséig visszatarthatja, és azt az eljárás eredményétől függően visszaadja vagy visszavonja.
+(5) A halgazdálkodásra jogosult a feljogosított személytől a halászati őr intézkedésével összefüggésben átadott területi jegyet a halvédelmi bírság kiszabása iránt kezdeményezett hatósági, a halászattal, horgászattal, továbbá hal fogásával összefüggésben lefolytatott szabálysértési eljárás végleges, illetve jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig visszatarthatja, és azt az eljárás eredményétől függően visszaadja vagy visszavonja.
 
 (6) A halgazdálkodásra jogosult köteles nyilvántartást vezetni az általa kiadott területi jegyekről, továbbá köteles
 

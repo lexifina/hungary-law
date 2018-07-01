@@ -4,7 +4,7 @@
 
 (3) Az Adattár részét képezik
 
-a) a 33. és 34. §-ban meghatározott nyilvántartások,
+a) a halgazdálkodási vízterületek és a halgazdálkodásra jogosultak nyilvántartása,
 
 b) a halászati őrök és társadalmi halőrök nyilvántartása,
 

@@ -32,6 +32,8 @@ h) az állami horgászjegy, turista állami horgászjegy, állami halászjegy, h
 
 (3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés h) pontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
+(3a) A halgazdálkodási hatóság az (1) bekezdés szerinti nyilvántartás adatai alapján a halfogási tevékenységet végző jogosult adatairól, kérelmére, hatósági bizonyítványt állít ki automatikus döntéshozatal keretében.
+
 (4) A halgazdálkodási hatóság országos illetékességű szerve a területi szervek által bejegyzett adatokat – a halfogási tevékenységek országos nyomon követhetősége céljából – összesíti.
 
 (5) A (2) bekezdésben meghatározott adatok a halászati engedély, a halászjegy, a horgászjegy, turista állami horgászjegy hatályának lejáratától számított öt évig kezelhetők.
