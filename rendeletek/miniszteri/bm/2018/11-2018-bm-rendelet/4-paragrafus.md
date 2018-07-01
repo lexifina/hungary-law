@@ -1,0 +1,1 @@
+## 3. § Ha a bűncselekményt a vezénylés ideje alatt követték el, a belügyminiszter irányítása alá tartozó, másik rendvédelmi feladatokat ellátó szervhez vezényelt katona vonatkozásában a vezénylés helye szerinti parancsnok jogosult eljárni.
