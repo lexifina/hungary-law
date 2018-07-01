@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-26-00-00
 | --- | --- | --- |
 | 1990-03-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 1990-26-00-00.1 |
 | 2012-01-01 | 2011. évi CL. törvény | 1990-26-00-00.2 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 1990-26-00-00.3 |
