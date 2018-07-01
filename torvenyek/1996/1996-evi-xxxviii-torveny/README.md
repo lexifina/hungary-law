@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-38-00-00
 | 2014-01-01 | 2013. évi CLXXXVI. törvény | 1996-38-00-00.18 |
 | 2017-01-01 | 2016. évi CIII. törvény | 1996-38-00-00.19 |
 | 2018-01-01 | 2017. évi CXLIV. törvény | 1996-38-00-00.20 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 1996-38-00-00.21 |

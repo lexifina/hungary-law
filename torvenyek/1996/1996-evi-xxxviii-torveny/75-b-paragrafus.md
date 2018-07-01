@@ -14,7 +14,7 @@
 
 (6) Magyarország területén az átmenő átszállításról a NEBEK a rendőrség közreműködésével gondoskodik. Az átmenő átszállítás tartama alatt az érintett személy a rendőrség őrizete alatt áll.
 
-(7) Az érintett személyt őrizetbe kell venni, ha
+(7) Az érintett személy őrizetét kell elrendelni, ha
 
 a) az átmenő átszállítást légi úton, leszállás nélkül tervezik, és Magyarország területén előre nem látott leszállás történik, vagy
 

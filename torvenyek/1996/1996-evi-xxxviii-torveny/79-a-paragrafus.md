@@ -8,7 +8,7 @@ c) az elektronikus adat forrásának azonosítására szolgáló egyéb adatokat
 
 d) a megkeresés teljesítésére nyitva álló határidőt.
 
-(2) Az (1) bekezdésben meghatározott megkeresésekhez mellékelni kell a bíróság elrendelő határozatának kiadmányát vagy hiteles másolatát.
+(2) Az (1) bekezdésben meghatározott megkereséshez az (1) bekezdésben meghatározottakon túl mellékelni kell a bíróság elrendelő határozatának kiadmányát vagy hiteles másolatát.
 
 (3) Ha nemzetközi szerződés lehetővé teszi, az (1) bekezdésben meghatározott megkereséseket sürgős esetben a miniszter vagy a legfőbb ügyész
 

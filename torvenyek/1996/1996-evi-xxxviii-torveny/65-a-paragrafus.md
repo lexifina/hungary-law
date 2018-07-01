@@ -2,11 +2,11 @@
 
 (2) A megkeresett államban fogvatartott személy ideiglenes átvételére a megkeresett állammal kötött megállapodás alapján kerülhet sor, amelyet a megkereső állam arra jogosult hatóságával a miniszter köt meg.
 
-(3) Az eljárási jogsegély iránti megkeresés előterjesztése érdekében az eljárást folytató bíróság vagy ügyész tesz előterjesztést a miniszterhez.
+(3) Az eljárási jogsegély iránti megkeresés előterjesztése érdekében az eljárást folytató bíróság vagy ügyészség tesz előterjesztést a miniszterhez.
 
 (4) Az érintett személy fogvatartását a miniszter rendelkezése alapján, a fogvatartás jellegének leginkább megfelelő módon, a magyar büntetés-végrehajtási szabályok szerint kell biztosítani Magyarországon.
 
-(5) Ha a megkeresett állam igazságügyi hatósága tájékoztatása alapján szükséges, az eljárást folytató bíróság vagy ügyész a megállapodásban foglaltak vagy a megkeresett állam igazságügyi hatóságával történt egyeztetés alapján biztosítja a fogvatartott személy részvételét a fogvatartás meghosszabbításával kapcsolatos döntésben.
+(5) Ha a megkeresett állam igazságügyi hatósága tájékoztatása alapján szükséges, az eljárást folytató bíróság vagy ügyészség a megállapodásban foglaltak vagy a megkeresett állam igazságügyi hatóságával történt egyeztetés alapján biztosítja a fogvatartott személy részvételét a fogvatartás meghosszabbításával kapcsolatos döntésben.
 
 (6) Ha a megkeresett állam tájékoztatása alapján a fogvatartás oka megszűnt, a fogvatartott személyt haladéktalanul szabadon kell bocsátani.
 

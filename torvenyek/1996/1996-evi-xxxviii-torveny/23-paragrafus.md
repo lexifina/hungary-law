@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdésben meghatározott hozzájárulás nem vonható vissza.
 
-(3) Ha a kiadni kért személy hozzájárul a kiadatáshoz, a bíróság az ideiglenes kiadatási letartóztatást elrendelő jogerős végzést az iratokkal együtt felterjeszti a miniszternek.
+(3) Ha a kiadni kért személy hozzájárul a kiadatáshoz, a bíróság az ideiglenes kiadatási letartóztatást elrendelő véglegessé vált végzését az ügyiratokkal együtt felterjeszti a miniszternek.

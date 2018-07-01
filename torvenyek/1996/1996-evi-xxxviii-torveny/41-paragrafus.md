@@ -1,8 +1,8 @@
 41. § (1) A büntetőeljárás átadására irányuló jogsegélykérelem előterjesztését követően a büntetőeljárás folytatható, de nem kerülhet sor
 
-a) a nyomozás megszüntetésére,
+a) az eljárás megszüntetésére,
 
-b) vádemelésre, a vádemelés elhalasztására,
+b) vádemelésre, feltételes ügyészi felfüggesztés elrendelésére,
 
 c) az ügy közvetítői eljárásra utalására, vagy
 

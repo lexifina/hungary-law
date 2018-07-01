@@ -1,1 +1,1 @@
-10. § E törvény eltérő rendelkezésének hiányában a Büntető Törvénykönyvet (a továbbiakban: Btk.) és a büntetőeljárásról szóló törvényt (a továbbiakban: Be.) a nemzetközi bűnügyi jogsegélyforgalomban is megfelelően alkalmazni kell.
+10. § E törvény eltérő rendelkezésének hiányában a Büntető Törvénykönyvről szóló 2012. évi C. törvényt (a továbbiakban: Btk.) és a büntetőeljárásról szóló 2017. évi XC. törvényt (a továbbiakban: Be.) a nemzetközi bűnügyi jogsegélyforgalomban is megfelelően alkalmazni kell.

@@ -4,4 +4,4 @@ a) ha a büntetést részben már végrehajtották, az arra vonatkozó adatokat,
 
 b) az elítélt hozzájáruló nyilatkozatát.
 
-(2) Csatolni kell a jogerős bírósági határozatot vagy annak hiteles másolatát.
+(2) A megkereséshez csatolni kell a bíróság jogerős ügydöntő határozatát vagy annak hiteles másolatát.

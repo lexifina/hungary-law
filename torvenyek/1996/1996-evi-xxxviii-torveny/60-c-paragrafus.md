@@ -1,6 +1,6 @@
 60/C. § (1) A bíróság e törvény vonatkozó rendelkezései, valamint a nemzetközi szerződések alapján megvizsgálja, hogy a vagyonelkobzás vagy az elkobzás végrehajtásának átadása iránti megkeresés teljesítésének feltételei fennállnak-e, és ennek alapján rendelkezik a külföldi bíróság vagyonelkobzásra vagy elkobzásra vonatkozó határozatának elismeréséről és a végrehajtás átvételéről.
 
-(2) A bíróság a jogerős határozatot a külföldi bíróság értesítése végett megküldi a miniszternek. A határozatról a miniszter értesíti a megkereső külföldi államot.
+(2) A bíróság a jogerős ügydöntő végzést a külföldi bíróság értesítése végett megküldi a miniszternek. A végzésről a miniszter értesíti a megkereső külföldi államot.
 
 (3) A külföldi bíróság határozata alapján elrendelt végrehajtást haladéktalanul meg kell szüntetni, ha a külföldi bíróság határozatának végrehajthatósága megszűnt.
 

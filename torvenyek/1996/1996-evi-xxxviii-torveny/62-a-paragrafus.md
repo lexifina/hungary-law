@@ -4,7 +4,7 @@
 
 (3) A jogi személy vonatkozásában előterjesztett eljárási jogsegély iránti megkeresés teljesítésére – ha a megkeresésből más nem következik – a jogi személy székhelye vagy telephelye szerint illetékes magyar igazságügyi hatóság jogosult.
 
-(4) A legfőbb ügyész vagy a felettes ügyész rendelkezése alapján az eljárási jogsegély iránti megkeresés hatékony teljesítése érdekében az (1)–(3) bekezdés alapján hatáskörrel és illetékességgel nem rendelkező ügyészség is eljárhat.
+(4) A legfőbb ügyész vagy a felettes ügyészség rendelkezése alapján az eljárási jogsegély iránti megkeresés hatékony teljesítése érdekében az (1)–(3) bekezdés alapján hatáskörrel és illetékességgel nem rendelkező ügyészség is eljárhat.
 
 (5) Ha a magyar hatósághoz olyan eljárási jogsegély iránti megkeresés érkezik, amelynek teljesítésére nincs hatásköre, vagy nem rendelkezik illetékességgel, a megkeresést a hatáskörrel és illetékességgel rendelkező miniszterhez vagy magyar igazságügyi hatósághoz továbbítja.
 

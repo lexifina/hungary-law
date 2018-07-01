@@ -4,7 +4,7 @@
 
 a) a 82. § alapján felmerült költség,
 
-b) a kirendelt védő díja,
+b) a kirendelt védő díja és költsége,
 
 c) a Magyarországról történő kiadatás esetén a kiadatási eljárás során felmerült költség,
 

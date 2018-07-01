@@ -1,1 +1,1 @@
-55. § A külföldi ítéletnek a Fővárosi Törvényszék határozatával elrendelt végrehajtását haladéktalanul meg kell szüntetni, ha a külföldi ítélet végrehajthatósága megszűnt, vagy azt felfüggesztették, illetve félbeszakították.
+55. § A külföldi ítéletnek a Fővárosi Törvényszék ügydöntő végzésével elrendelt végrehajtását haladéktalanul meg kell szüntetni, ha a külföldi ítélet végrehajthatósága megszűnt, vagy azt felfüggesztették, illetve félbeszakították.

@@ -12,7 +12,7 @@ b) a megkeresés tárgyát,
 
 c) az eljárás tárgyát képező bűncselekmény leírását és a bűncselekmény jogi minősítését,
 
-d) a terhelt vagy az elítélt személyi adatait, beleértve állampolgárságát is.
+d) a terhelt vagy az elítélt személyes adatait, beleértve állampolgárságát is.
 
 (3) A külföldi államtól származó megkeresés esetén csak akkor követelhető meg, hogy a megkeresést és mellékleteit magyar nyelvű fordítással lássák el, ha a megkeresett állam nem fogadja el a magyar nyelven előterjesztett azonos jellegű megkereséseket.
 

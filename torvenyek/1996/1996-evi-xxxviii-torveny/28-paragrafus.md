@@ -1,1 +1,1 @@
-28. § Ha a kiadatást a miniszter megtagadta, vagy a kiadott személyt a megkereső állam nem vette át, a büntetőeljárás megindításának vagy egyéb intézkedésnek a megfontolása céljából a miniszter az iratokat megküldi a legfőbb ügyésznek.
+28. § Ha a kiadatást a miniszter megtagadta, vagy a kiadott személyt a megkereső állam nem vette át, a büntetőeljárás megindításának vagy egyéb intézkedésnek a megfontolása céljából a miniszter az ügyiratokat megküldi a legfőbb ügyésznek.

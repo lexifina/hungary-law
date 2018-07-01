@@ -16,13 +16,13 @@ d) ellenőrzött szállítás esetén,
 
 e) fedett nyomozó alkalmazása esetén,
 
-f) titkos adatszerzés esetén,
+f) bírói engedélyhez kötött leplezett eszközök alkalmazása esetén,
 
 g) közös nyomozócsoport létrehozása esetén,
 
 h) tárgy visszaadása esetén.
 
-(2) Az eljárási jogsegély iránti megkeresést a 76. § (1) bekezdésére figyelemmel a legfőbb ügyész fogadja, és – ha a jogsegély teljesítésének e törvényben meghatározott előfeltételei fennállnak – gondoskodik azoknak az általa a jogsegély teljesítésére kijelölt ügyészhez történő eljuttatásáról.
+(2) Az eljárási jogsegély iránti megkeresést a 76. § (1) bekezdésére figyelemmel a legfőbb ügyész fogadja, és – ha a jogsegély teljesítésének e törvényben meghatározott előfeltételei fennállnak – gondoskodik azoknak az általa a jogsegély teljesítésére kijelölt ügyészséghez történő eljuttatásáról.
 
 (3) Az eljárási jogsegély iránti megkeresés teljesítésére a bíróság csak abban az esetben jogosult, ha azt a megkereső igazságügyi hatóság kifejezetten kéri, vagy a kért eljárási cselekmény végrehajtására a magyar jogszabályok alapján a bíróság jogosult.
 

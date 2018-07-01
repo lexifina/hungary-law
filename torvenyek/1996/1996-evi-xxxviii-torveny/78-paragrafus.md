@@ -10,4 +10,4 @@ d) magánindítványra üldözendő bűncselekmény esetén a magánindítványt
 
 e) a polgári jogi igényt, ha ilyet előterjesztettek.
 
-(2) Mindazt mellékelni lehet, amit az ügy megalapozott elbírálásához a hatóság szükségesnek tart.
+(2) A megkereséshez az (1) bekezdésben foglaltakon túl mindazt mellékelni lehet, amit az ügy megalapozott elbírálásához a hatóság szükségesnek tart.

@@ -6,9 +6,9 @@ a) fogvatartott személy ideiglenes átadása az eljárási jogsegély iránti m
 
 b) fogvatartott személy ideiglenes átadása az eljárási jogsegély iránti megkeresést teljesítő államba,
 
-c) kihallgatás zártcélú távközlő hálózat útján,
+c) kihallgatás telekommunikációs eszköz útján,
 
-d) kihallgatás távbeszélő-készülék útján,
+d)
 
 e) ellenőrzött szállítás,
 

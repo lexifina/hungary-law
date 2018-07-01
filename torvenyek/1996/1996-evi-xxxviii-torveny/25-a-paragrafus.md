@@ -1,6 +1,6 @@
-25/A. § (1) Az ideiglenes kiadatási letartóztatás és a kiadatási letartóztatás helyett más személyi szabadságot korlátozó kényszerintézkedés – a (2) bekezdésben meghatározott eset kivételével – nem alkalmazható. A kiadatási eljárás során óvadék alkalmazásának nincs helye.
+25/A. § (1) Az ideiglenes kiadatási letartóztatás és a kiadatási letartóztatás helyett más személyi szabadságot érintő kényszerintézkedés – a (2) bekezdésben meghatározott eset kivételével – nem alkalmazható. A kiadatási eljárás során óvadék alkalmazásának nincs helye.
 
-(2) Az ideiglenes kiadatási letartóztatás helyett ideiglenes kiadatási házi őrizet vagy ideiglenes kiadatási lakhelyelhagyási tilalom rendelhető el, ha a kiadatási kérelmet Magyarország területén lakóhellyel rendelkező személy ellen
+(2) Az ideiglenes kiadatási letartóztatás helyett olyan ideiglenes kiadatási bűnügyi felügyelet rendelhető el, amelynek során a bíróság a terhelt számára előírja, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül ne hagyjon el, ha a kiadatási kérelmet Magyarország területén lakcímmel rendelkező személy ellen
 
 a) olyan bűncselekmény miatt terjesztették elő, amelynél a megkereső állam törvénye szerint a büntetési tétel felső határa legfeljebb öt év szabadságvesztés vagy szabadságelvonással járó intézkedés, vagy
 
