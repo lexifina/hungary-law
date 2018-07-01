@@ -10,7 +10,7 @@ c) a 3. § (4) bekezdésében meghatározott kötelezettség megsértése eseté
 
 a) ha a fémkereskedelmi hatóság a 11. § (2) bekezdés a) pontja szerinti bírságot nem szabott ki,
 
-b) ha a jogsértéssel összefüggésben indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a büntetőügyben eljáró hatóság jár el,
+b) ha a jogsértéssel összefüggésben indult büntetőeljárásban a bíróság, az ügyészség vagy a nyomozó hatóság lefoglalást rendelt el,
 
 c) a szállításra használt, nem a jogsértés elkövetőjének tulajdonában lévő eszközre, ha a tulajdonos írásban nyilatkozik arról, hogy a jogsértés időpontjában nem volt tudomása arról, hogy az eszközt jogsértés céljából használják fel,
 

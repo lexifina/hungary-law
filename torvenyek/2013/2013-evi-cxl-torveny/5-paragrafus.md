@@ -28,9 +28,9 @@ törli.
 
 (6) Kohászatilag tömbösített formában fémkereskedelmi engedélyköteles anyag átvételét meg kell tagadni, kivéve, ha a felajánlást tevő személy hitelt érdemlő módon bizonyítja az anyag jogszerű szerzését.
 
-(7) A nyilvántartásában szereplő (3) bekezdés b), c) és f) pontok szerinti adatokról a fémkereskedelmi hatóság megkeresésre tájékoztatja
+(7) A nyilvántartásában szereplő (3) bekezdés b), c) és f) pontok szerinti adatokról a fémkereskedelmi hatóság megkeresésre, illetve adatkérésre tájékoztatja
 
-a) a nyomozóhatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása,
+a) bíróságot, az ügyészséget vagy a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása,
 
 b) a környezetvédelmi hatóságot, ha a tájékoztatás a hulladékgazdálkodási hatósági engedélyezési eljárás lefolytatása, a hulladékgazdálkodási tevékenység ellenőrzése, a hulladékgazdálkodási bírság kiszabása,
 
