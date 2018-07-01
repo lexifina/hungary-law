@@ -20,7 +20,7 @@ a) a vámigazgatási ügyben közölt vámok és egyéb terhek összegét, tová
 
 b) a lefoglalt, szállításra használt eszköz nem a jogsértést elkövető tulajdona, és a tulajdonos írásban nyilatkozik arról, hogy a szóban forgó jogsértés időpontjában nem volt tudomása arról, hogy az eszközt vámjogszabályok megsértése céljából használják fel, és ezt követően a tényállás a lefoglalás fenntartása nélkül is tisztázható.
 
-(6) A 20. § (1) bekezdés d) pontja szerinti eset kivételével a gyorsított eljárás esetén a lefoglalt áru és eszköz kiadása kapcsán a 20. § (3) bekezdését alkalmazni kell. A lefoglalt áru és eszköz visszaadásának feltétele az, hogy az e törvény végrehajtási rendelete alapján megállapított raktárdíjat megfizetik. A 20. § (1) bekezdés d) pontja szerinti esetben a lefoglalt dolgot a büntetőeljárást lefolytató hatóságnak kell átadni a lefoglalás megszüntetésével egyidejűleg.
+(6) A 20. § (1) bekezdés d) pontja szerinti eset kivételével a gyorsított eljárás esetén a lefoglalt áru és eszköz kiadása kapcsán a 20. § (3) bekezdését alkalmazni kell. A lefoglalt áru és eszköz visszaadásának feltétele az, hogy az e törvény végrehajtási rendelete alapján megállapított raktárdíjat megfizetik. A 20. § (1) bekezdés d) pontja szerinti esetben a lefoglalt dolgot a bíróságnak, ügyészségnek vagy nyomozó hatóságnak kell átadni a lefoglalás megszüntetésével egyidejűleg.
 
 (7) A 20. § (3) bekezdés szerinti személyek részére visszaadni rendelt, nem uniós árut és eszközt a lefoglalás megszüntetéséről rendelkező döntés közlését követő 30 napon belül vámeljárás alá kell vonni, vagy ki kell szállítani az Európai Unió vámterületéről.
 

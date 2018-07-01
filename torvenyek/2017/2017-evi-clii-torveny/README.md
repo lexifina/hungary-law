@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-152-00-00
 | 2018-05-25 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-152-00-00.3 |
 | 2018-05-26 | 2010. évi CXXX. törvény | 2017-152-00-00.4 |
 | 2018-06-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-152-00-00.5 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2017-152-00-00.6 |

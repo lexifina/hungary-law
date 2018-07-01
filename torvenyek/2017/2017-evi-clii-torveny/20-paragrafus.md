@@ -8,7 +8,7 @@ b) a vámhatóság a vámigazgatási eljárást megszüntette,
 
 c) a vámigazgatási ügy érdemében döntést hozott, vagy
 
-d) a vámjogszabályok megsértésével összefüggésben indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a büntetőügyben eljáró hatóság a vámhatóságot megkereste.
+d) a vámjogszabályok megsértésével összefüggésben indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a bíróság, ügyészség, vagy nyomozó hatóság a vámhatóságot megkereste.
 
 (2) Eltérő rendelkezés hiányában a tényállás tisztázásához a továbbiakban már nem szükséges lefoglalt árut és eszközt a lefoglalás megszüntetéséről rendelkező döntés közlését követő 30 napon belül ki kell adni annak, akitől azt lefoglalták, feltéve, hogy a lefoglalással kapcsolatos költségeket megfizeti. Ha a vámhatóság más szerv hatáskörébe tartozó eljárást kezdeményez, az eljárás lefolytatásához szükséges lefoglalt iratokat és tárgyi bizonyítékokat át kell adni a megkeresett szervnek.
 

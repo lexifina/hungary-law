@@ -1,12 +1,12 @@
 ### 29. § [Tájékoztatás vámtitokról és összesített adatokról]
 
-(1) E § alkalmazásában a vámhatóság megkeresés esetén annak beérkezésétől számított 30 napon belül, illetve hivatalból tájékoztatja a vámtitokról
+(1) E § alkalmazásában a vámhatóság megkeresés, illetve adatkérés esetén annak beérkezésétől számított 30 napon belül, illetve hivatalból tájékoztatja a vámtitokról
 
 a) a nemzetbiztonsági szolgálatokat törvényben meghatározott feladataik ellátása céljából,
 
 b) a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet és a terrorizmust elhárító szervet törvényben meghatározott feladatai ellátása érdekében,
 
-c) az ügyészt, valamint a nyomozó hatóságot törvényben meghatározott feladatai ellátása céljából,
+c) az ügyészséget, a nyomozó hatóságot, valamint az előkészítő eljárást folytató szervet törvényben meghatározott feladatai ellátása céljából,
 
 d) a bíróságot az igazságszolgáltatási tevékenysége ellátása céljából,
 
