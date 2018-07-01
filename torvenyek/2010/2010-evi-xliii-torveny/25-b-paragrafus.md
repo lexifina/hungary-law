@@ -1,6 +1,6 @@
 25/B. § (1) A miniszterelnök
 
-a) – hivatalos és magánprogramokra is kiterjedően – személyi védelemre,
+a) – hivatalos és magánprogramokra is kiterjedően – személyvédelemre,
 
 b) rezidencia használatára,
 
