@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-11-20-5
 | 2017-11-14 | 2017-11-20-5Z.3 | 12/2017. (XI. 6.) MEKH rendelet |
 | 2018-01-01 | 2017-11-20-5Z.4 | 17/2017. (XII. 21.) MEKH rendelet |
 | 2018-04-01 | 2017-11-20-5Z.5 | 1/2018. (III. 29.) MEKH rendelet |
+| 2018-07-01 | 2017-11-20-5Z.6 | 5/2018. (VI. 29.) MEKH rendelet |
