@@ -1,6 +1,6 @@
 14. § (1) Nemzeti minősített adatnak büntetőeljárásban történő felhasználására a büntetőeljárásról szóló törvény rendelkezéseit kell alkalmazni.
 
-(2) A büntetőeljárás során – ha törvény másként nem rendelkezik – az eljárást folytató, illetve az eljárásban részt vevő ügyész, a büntetőeljárásban kirendelt vagy bevont igazságügyi szakértő nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül használhatja fel a rendelkezésére bocsátott nemzeti minősített adatot.
+(2)
 
 (3) A büntetőeljárásban fel nem használt nemzeti minősített adat felhasználására a minősítő adhat felhasználói engedélyt.
 

@@ -20,6 +20,6 @@ b) a kiadott személyi biztonsági tanúsítvány száma, kelte, érvényességi
 
 (3) Ha az érintett személy részére személyi biztonsági tanúsítvány kiadására nem kerül sor, a Nemzeti Biztonsági Felügyelet az (1) bekezdés a) pontjában meghatározott adatokat az eljárás befejezését követően köteles törölni.
 
-(4) A nyomozó hatóságok, a bíróság, az ügyészség és a nemzetbiztonsági szolgálatok megkeresésére – a rájuk vonatkozó törvényben meghatározott feladataik ellátásához, az ott meghatározott körben – a Nemzeti Biztonsági Felügyelet adatot szolgáltat.
+(4) A bíróság, az ügyészség, a nyomozó hatóság és a nemzetbiztonsági szolgálatok megkeresésére vagy adatkérésére – a rájuk vonatkozó törvényben meghatározott feladataik ellátásához, az ott meghatározott körben – a Nemzeti Biztonsági Felügyelet adatot szolgáltat.
 
 (5) A Nemzeti Biztonsági Felügyelet az (1) bekezdés a) pont aa)–ad) alpontjában és b) pontjában szereplő adatokat – a nemzetközi kötelezettségvállalások alapján – továbbíthatja a külföldi adatkezelők részére.
