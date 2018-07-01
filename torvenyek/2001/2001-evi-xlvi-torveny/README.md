@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-46-00-00
 | 2017-06-02 | 2017. évi XLV. törvény | 2001-46-00-00.15 |
 | 2017-07-01 | 2017. évi XCII. törvény | 2001-46-00-00.16 |
 | 2018-01-01 | 2017. évi L. törvény | 2001-46-00-00.17 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2001-46-00-00.18 |
