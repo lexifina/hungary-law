@@ -2,7 +2,7 @@
 
 a)–j)
 
-k)
+k) 79. § (3) bekezdés d) pontjában a „hat” szövegrész helyébe a „két” szöveg,
 
 l)–n)
 
