@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-82-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 1997-82-00-00.68 |
 | 2017-06-26 | 2017. évi LII. törvény | 1997-82-00-00.69 |
 | 2018-01-01 | 2017. évi L. törvény | 1997-82-00-00.70 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 1997-82-00-00.71 |

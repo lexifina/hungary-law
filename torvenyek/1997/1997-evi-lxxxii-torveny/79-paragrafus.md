@@ -8,7 +8,7 @@ c) az Állami Számvevőszékkel,
 
 d) a pénztárak törvényességi felügyeletét ellátó ügyészséggel,
 
-e) a folyamatban levő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését végző nyomozó hatósággal, ügyészséggel,
+e) a folyamatban levő büntetőeljárás során eljáró ügyészséggel, nyomozó hatósággal, illetve pénztártitok esetén az előkészítő eljárást folytató szervvel,
 
 f) külön törvényben meghatározott feltételek megléte esetén a titkos információ gyűjtésre felhatalmazott szervvel,
 
@@ -32,7 +32,7 @@ o) alapvető jogok biztosával,
 
 p) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 
-szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
+szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megkeresése esetén.
 
 (2) A pénztártitok csak akkor adható ki harmadik személynek, ha
 
@@ -44,6 +44,6 @@ c) a pénztár érdeke ezt a pénztártaggal szemben fennálló követelése beh
 
 (3) Aki üzleti titok vagy pénztártitok birtokába jut, nem használhatja fel arra, hogy annak révén saját maga vagy más személy részére közvetlen vagy közvetett módon előnyt szerezzen, továbbá, hogy a pénztárnak vagy a pénztártagoknak hátrányt okozzon.
 
-(4) A pénztár a nyomozó hatóságot a ,,halaszthatatlan intézkedés'' jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak vagy pénztártitoknak minősülő adatokról.
+(4) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény 262. § (3) bekezdésében meghatározottak szerinti adatkérés esetén a pénztár az ügyészség engedélye nélkül is köteles az általa kezelt, pénztártitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
 
 (5)–(7)

@@ -12,7 +12,7 @@ a) aki 10 százalékot elérő vagy azt meghaladó részesedéssel rendelkezik, 
 
 b) aki vezető tisztségviselő volt olyan önkéntes kölcsönös biztosító pénztárban, pénztárban, biztosítóintézetben, pénzügyi intézményben vagy befektetési vállalkozásban, amely öt éven belül fizetésképtelenné vált, illetve amelynek tevékenységi engedélyét állami felügyelete visszavonta,
 
-c) aki súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben 5 évnél nem régebben az illetékes felügyelet, más hatóság a legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott, illetve a bíróság jogerős ítéletével büntetőjogi felelősségét megállapította. E tekintetben súlyos szankciónak minősül, ha a Felügyelet, más hatóság végleges határozatban a kiszabható legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott.
+c) aki súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben 5 évnél nem régebben az illetékes felügyelet, más hatóság a legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott, illetve a bíróság jogerős ügydöntő határozatával büntetőjogi felelősségét megállapította. E tekintetben súlyos szankciónak minősül, ha a Felügyelet, más hatóság végleges határozatban a kiszabható legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott.
 
 d) aki vezető tisztségviselője volt olyan, a Ptk. hatálya alá tartozó gazdasági társaságnak vagy szövetkezetnek, amelyben 5 éven belül csőd- vagy felszámolási eljárást kellett lefolytatni,
 
