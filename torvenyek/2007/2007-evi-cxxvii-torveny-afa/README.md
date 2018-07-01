@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-127-00-00
 | 2017-06-20 | 2017. évi LXXVII. törvény | 2007-127-00-00.50 |
 | 2017-07-01 | 2016. évi LXVIII. törvény | 2007-127-00-00.51 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 2007-127-00-00.52 |
+| 2018-07-01 | 2017. évi CLIX. törvény | 2007-127-00-00.53 |
