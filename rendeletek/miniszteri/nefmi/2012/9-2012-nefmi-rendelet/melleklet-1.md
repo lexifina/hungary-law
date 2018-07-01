@@ -76,7 +76,7 @@ Ha az elszámolhatósági feltételek a 3. mellékletben nem kerülnek feltünte
 
 | 18. | Az adott egészségügyi eljárásból egy megjelenés során elszámolható darabszám baktériumonként, gombánként | baktériumonként, gombánként |
 
-| 19. | Az adott egészségügyi eljárásból egy megjelenés során elszámolható darabszám egységet jelent (vérkészítményeknél) | egységenként |
+| 19. | Az adott vérkészítményből vagy egészségügyi eljárásból egy megjelenés során elszámolható darabszám kiszerelési egységet jelent | kiszerelési egységenként |
 
 | 20. | Az adott egészségügyi eljárásból egy megjelenés során elszámolható darabszám alosztályonként | alosztályonként |
 
@@ -512,6 +512,16 @@ a meghatározás a mintában valamely anyag mennyiségének, koncentrációjána
 
 6.3.12. Laborvizsgálatok elszámolása során az ismételhetőséget időhatárral korlátozó szabályozás esetén csak annak a vizsgálatnak a finanszírozása tagadható meg, melyet az időhatáron belül ugyanaz a szolgáltató jelent.
 
+6.4. Vér és vérkészítmény felhasználás kódolása
+
+6.4.1. A beteg számára beadott valamennyi vér, vérkészítmény mennyiségét egységben (1 E = 450 + 10% ml teljes vér feldolgozásából származó mennyiség) kell jelenteni.
+
+6.4.2. Besugárzott vérkészítmény esetén a „98002 Kiegészítő pont besugárzott vér adásakor” kód jelenthető kiszerelési egységenként (vérzsákonként).
+
+6.4.3. Választott vér esetén a „98001 Kiegészítő pont választott vér adásakor” kód jelenthető kiszerelési egységenként (vérzsákonként).
+
+6.4.4. Külön kóddal kell megadni a beadott vérkészítmény kiszerelési egységével (vérzsákonként) azonos mennyiségben a „88135 Transzfúzió során végzett tevékenység” kódot.
+
 7. Vizsgálat elszámolási szabályai szakmák szerint
 
 A „11041 Vizsgálat” és „11042 Vizsgálat a rendelőn kívül” egészségügyi eljárások meghatározása szakmánként részletezve:
@@ -563,4 +573,4 @@ A „11041 Vizsgálat” és „11042 Vizsgálat a rendelőn kívül” egészs�
 | 22. | Urológia | Részletes anamnézis felvétele mellett teljeskörű fizikális vizsgálat, mely a következőkből áll: a vesék, a hólyag, a herék, a mellékherék vizsgálata, a prosztata vizsgálata. A vizsgálattal egyidejűleg a rectalis vizsgálat (13200) nem számolható el. |
 
 [^9]: A 16. §-t a 7/2015. (II. 2.) EMMI rendelet 4. §-a iktatta be.
-[^10]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 82. § b) pontja szerint módosított szöveg.
+[^10]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (1) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 82. § b) pontja, a 15/2018. (VI. 28.) EMMI rendelet 6. § (1) bekezdése szerint módosított szöveg.
