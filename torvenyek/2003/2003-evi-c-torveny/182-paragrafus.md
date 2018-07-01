@@ -6,7 +6,7 @@ a) a Hatóság általi, az e-közműt üzemeltető szervezet számára történ�
 
 b) az elektronikus hírközlés különleges jogrend idejére irányuló felkészítésének rendszerét, az államigazgatási szervek feladatait, működésük feltételeinek biztosítását;
 
-c) az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos információgyűjtéssel, illetve titkos adatszerzéssel felhatalmazott szervezetek együttműködésének rendjét;
+c) az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos információgyűjtés folytatására, illetve leplezett eszközök alkalmazására feljogosított szervezetek együttműködésének rendjét;
 
 d) a kormányzati célú hálózatokra és az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenységre vonatkozó, e törvénytől eltérő szabályokat;
 

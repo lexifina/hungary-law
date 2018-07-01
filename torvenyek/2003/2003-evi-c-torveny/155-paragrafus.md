@@ -8,6 +8,6 @@
 
 (5) A nyomozó hatóságok és a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv (a továbbiakban együtt: nyomozó hatóságok), valamint a nemzetbiztonsági szolgálatok a törvényben foglaltak szerint, továbbá a Hivatal – a 11. § (3) bekezdésében előírt jogkör gyakorlása során – a közléseket megfigyelhetik, lehallgathatják, tárolhatják vagy a küldeménybe, közlésbe azok megfigyelése érdekében más módokon beavatkozhatnak.
 
-(6) A szolgáltató – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 42. §-ában meghatározott adatszolgáltatás és adatbetekintés kivételével – köteles tájékoztatni az érintett nemzetbiztonsági szolgálatot a szolgálat minősített adatot képező, védett telefonszámait érintő adatszolgáltatási megkeresésekről.
+(6) A szolgáltató – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 42. §-ában meghatározott adatszolgáltatás és adatbetekintés kivételével – köteles tájékoztatni az érintett nemzetbiztonsági szolgálatot a szolgálat minősített adatot képező, védett telefonszámait érintő adatszolgáltatási megkeresésekről vagy adatkérésről.
 
-(7) Az életet, a testi épséget, a vagyont veszélyeztető fenyegetés, zsarolás alapos gyanúja esetén a nyomozóhatóság külön törvényben foglaltak szerint az előfizető vagy a felhasználó írásbeli kérelmére az előfizető vagy a felhasználó használatában lévő végberendezésen folytatott beszélgetés, üzenetküldés, e-mail levelezés útján vagy más módon továbbított közlést lebonyolítók személyes adatait a kérelemben foglalt időhatáron belül megismerheti és rögzítheti.
+(7)

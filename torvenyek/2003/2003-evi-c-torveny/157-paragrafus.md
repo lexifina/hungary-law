@@ -60,7 +60,7 @@ d) ha az érintett elháríthatatlan okból nem képes hozzájárulását megadn
 
 e) a fogyasztóvédelemről szóló törvény előírásai szerint a fogyasztóvédelmi hatóságnak.
 
-(10) Az elektronikus hírközlési szolgáltató – az adatkérésre külön törvény szerint jogosult nyomozó hatóság, ügyészség, bíróság, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából – kérelemre köteles átadni vagy hozzáférhetővé tenni a (2) bekezdés alapján az elektronikus hírközlési szolgáltatónál rendelkezésre álló adatokat.
+(10) Az elektronikus hírközlési szolgáltató – az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából – kérelemre köteles átadni vagy hozzáférhetővé tenni a (2) bekezdés alapján az elektronikus hírközlési szolgáltatónál rendelkezésre álló adatokat.
 
 (11) Az elektronikus hírközlési szolgáltató – ha az a rendelkezésére áll – a szabálysértési hatóság kérelmére a segélyhívó számok rendeltetéstől eltérő igénybevétele szabálysértés elkövetőjének azonosítása céljából köteles átadni a segélyhívószámra kezdeményezett hívó telefonszám vonatkozásában
 

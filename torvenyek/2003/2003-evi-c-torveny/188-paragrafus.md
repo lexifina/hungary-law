@@ -200,7 +200,7 @@ c)
 
 63. Készülék: a rádióberendezés és az elektronikus hírközlő végberendezés.
 
-64. Kilépési pont: a titkos információgyűjtés, illetve titkos adatszerzés során az elektronikus hírközlési szolgáltató rendszeréből a monitoring alrendszerrel, alrendszerekkel kinyert közlések és kísérőadatok fizikai átadási pontja, pontjai a Nemzetbiztonsági Szakszolgálat felé, amelyet az elektronikus hírközlési szolgáltató a 92. § (4) bekezdésében meghatározottak szerint egyeztetetten, adott földrajzi helyen és formában, az elektronikus hírközlési szolgáltató területén biztosít.
+64. Kilépési pont: a titkos információgyűjtés, illetve leplezett eszközök alkalmazása során az elektronikus hírközlési szolgáltató rendszeréből a monitoring alrendszerrel, alrendszerekkel kinyert közlések és kísérőadatok fizikai átadási pontja, pontjai a Nemzetbiztonsági Szakszolgálat felé, amelyet az elektronikus hírközlési szolgáltató a 92. § (4) bekezdésében meghatározottak szerint egyeztetetten, adott földrajzi helyen és formában, az elektronikus hírközlési szolgáltató területén biztosít.
 
 64/a. Kis és középvállalkozás: a kis és középvállalkozások támogatásáról szóló törvényben ekként meghatározott vállalkozások.
 
@@ -261,5 +261,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 84. Nettó elkerülhető költség: az a költség, amelyet a hatékony szolgáltató az egyetemes szolgáltatási kötelezettség hiányában el tudna kerülni. A nettó elkerülhető költség számításakor figyelembe kell venni azokat a bevételeket és egyéb (közvetett) hasznokat, amelyeket az egyetemes szolgáltatás nyújtásának megszüntetésével a szolgáltató elveszítene.
 
 84/a. Nyilvános adatkicserélő szolgáltatás: természetes vagy jogi személy nyilvános adatkicserélő szolgáltató által nyilvános adatkicserélő központ útján nyújtott olyan elektronikus hírközlési szolgáltatás, amelyet nyilvánosan hozzáférhető feltételrendszer szerint, megkülönböztetéstől mentesen vehetnek igénybe az elektronikus hírközlési szolgáltatók, médiaszolgáltatók és az információs társadalommal összefüggő szolgáltatást nyújtó szolgáltatók.
-
-84/b. Nyilvános adatkicserélő központ: a nyilvános adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
