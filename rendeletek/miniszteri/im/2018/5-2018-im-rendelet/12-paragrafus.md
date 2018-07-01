@@ -1,0 +1,3 @@
+12. § (1) A vizsgázó a közjegyzői vizsga során segédanyagot nem használhat, informatikai és telekommunikációs eszközt nem tarthat magánál. Ha a vizsgabizottság észleli, hogy a vizsgázó segédanyagot, informatikai vagy telekommunikációs eszközt tart magánál, a vizsgázót kizárja a közjegyzői vizsgáról.
+
+(2) A vizsgabiztos a közjegyzői vizsgát rendkívüli körülmény bekövetkezte esetén felfüggeszti. A közjegyzői vizsga folytatásáról a vizsgabizottság az eset összes körülményére figyelemmel dönt. Ha a felfüggesztett közjegyzői vizsgát nem lehet folytatni, az valamennyi vizsgázó tekintetében érvénytelennek minősül. Ez esetben a vizsgázók a díj ismételt megfizetése nélkül újabb közjegyzői vizsgát tehetnek.
