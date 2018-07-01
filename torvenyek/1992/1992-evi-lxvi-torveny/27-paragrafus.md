@@ -8,4 +8,4 @@
 
 a) sorkatonai vagy tartalékos katonai szolgálat teljesítése, illetve gyógyintézeti kezelés miatt nem tartózkodik lakóhelyén;
 
-b) előzetes letartóztatásban van, vagy szabadságvesztés büntetését tölti.
+b) letartóztatásban van, vagy szabadságvesztés büntetését tölti.

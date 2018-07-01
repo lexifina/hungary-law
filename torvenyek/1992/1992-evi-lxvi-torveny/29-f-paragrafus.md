@@ -10,7 +10,7 @@ d) a használatára jogosult meghalt,
 
 e) a személyazonosság megállapítására alkalmatlan, megrongálódott,
 
-f) elvesztését, megsemmisülését vagy eltulajdonítását bejelentették, valamint ha azt a hatóság bevonta vagy szabálysértési, illetve büntetőeljárásban tárgyi bizonyítási eszközként lefoglalta,
+f) elvesztését, megsemmisülését vagy eltulajdonítását bejelentették, valamint ha azt bevonták vagy szabálysértési, illetve büntetőeljárásban lefoglalták,
 
 g) jogosulatlan felhasználása okán szabálysértési vagy büntetőeljárás indult.
 

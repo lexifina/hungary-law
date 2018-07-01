@@ -16,7 +16,7 @@ f) a személyiadat- és lakcímnyilvántartásért felelős miniszter (a tovább
 
 g) a polgárnak a személyazonosító igazolványban szereplő adatai alapján történő azonosítása, illetőleg azok igazolása céljából a személyazonosító igazolvány nyilvántartásban kezeli a 29. § (2) bekezdése szerinti adatokat, továbbá a személyazonosító igazolvány elvesztésére, illetve találására utaló adatokat, valamint a személyazonosító igazolvány elvételének vagy bevonásának tényét és következő indokait:
 
-ga) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyettesítő elzárás letöltésének megkezdését, az őrizetbe vagy előzetes letartóztatásba vételt,
+ga) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyettesítő elzárás letöltésének megkezdését, az őrizet vagy letartóztatás elrendelését,
 
 gb) nem magyar állampolgár esetén Magyarország területének külföldi letelepedés szándékával történő elhagyását,
 
@@ -58,4 +58,4 @@ d) a 2015. január 1. napját megelőzően keletkezett területszervezési, köz
 
 (4) A (3) bekezdés a) pontja szerinti, 1993. június 1-je előtt keletkezett iratokat és fényképeket a Központi Okmánytár elkülönítetten, zárt archívumként kezeli. Ebben az adatállományban csak a passziválás okát és időpontját, továbbá a magyar állampolgárság megszűnésének tényét és időpontját lehet átvezetni.
 
-(5) A (4) bekezdés szerinti adatállományból adatot szolgáltatni az érintetten kívül a bíróság, a nemzetbiztonsági szolgálatok, a rendőrség, a nyomozó hatóságok, az ügyészség, valamint állampolgársági ügyekért felelős miniszter, az állampolgársági ügyekben eljáró szerv, a névváltoztatási ügyeket intéző szerv, a hagyatéki ügyeket intéző szerv és az anyakönyvi ügyekért felelős miniszter által rendeletben kijelölt szerv részére, törvényben előírt feladatainak ellátásához, továbbá a 17. § (2) bekezdés a)–c) pontja szerinti adatok felhasználásának célját és jogalapját igazoló adatigénylő részére lehet, feltéve, ha az adatszolgáltatást a történeti adatállományból nem lehet teljesíteni.
+(5) A (4) bekezdés szerinti adatállományból adatot szolgáltatni az érintetten kívül a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a nemzetbiztonsági szolgálatok, a rendőrség, valamint állampolgársági ügyekért felelős miniszter, az állampolgársági ügyekben eljáró szerv, a névváltoztatási ügyeket intéző szerv, a hagyatéki ügyeket intéző szerv és az anyakönyvi ügyekért felelős miniszter által rendeletben kijelölt szerv részére, törvényben előírt feladatainak ellátásához, továbbá a 17. § (2) bekezdés a)–c) pontja szerinti adatok felhasználásának célját és jogalapját igazoló adatigénylő részére lehet, feltéve, ha az adatszolgáltatást a történeti adatállományból nem lehet teljesíteni.
