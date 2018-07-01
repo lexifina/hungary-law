@@ -6,7 +6,7 @@
 
 (4) Ha a szakértő költségelőleget kért és az eljárásban külön jogszabály alapján a szakértői díj letétjének kiegészítése volt szükséges, a hatóság a költségelőleget a kiegészítés teljesítését követő nyolc napon belül megfizeti.
 
-(5) Ha a szakértő költségelőleget kért és a költségelőleget a (3) vagy (4) bekezdésben meghatározott határidőben nem kapta meg, – törvényben meghatározott kiemelt jelentőségű ügyek vagy peres eljárások kivételével – a kirendelés alóli felmentését kérheti.
+(5) Ha a szakértő költségelőleget kért és a költségelőleget a (3) vagy (4) bekezdésben meghatározott határidőben nem kapta meg, – törvényben meghatározott kiemelt jelentőségű peres eljárások kivételével – a kirendelés alóli felmentését kérheti.
 
 (6) Ha a szakértőt a hatóság a kirendelés alól bármely okból felmenti, az erről szóló döntésben – ha a költségelőleg megfizetésre került – a szakértőt a költségelőleg visszafizetésére is kötelezi.
 

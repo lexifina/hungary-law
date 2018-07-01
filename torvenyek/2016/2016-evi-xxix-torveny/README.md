@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-29-00-00
 | 2017-03-16 | 2017. évi II. törvény | 2016-29-00-00.6 |
 | 2018-01-01 | 2017. évi L. törvény | 2016-29-00-00.7 |
 | 2018-01-02 | 2017. évi CXXX. törvény | 2016-29-00-00.8 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2016-29-00-00.9 |

@@ -2,7 +2,7 @@
 
 69. § (1) Az igazságügyi szakértő kamarai tagságát fel kell függeszteni, ha
 
-a) az igazságügyi szakértő ellen közvádra üldözendő szándékos bűncselekmény miatt emel vádat az ügyész vagy
+a) az igazságügyi szakértő ellen közvádra üldözendő szándékos bűncselekmény miatt emel vádat az ügyészség vagy
 
 b) a kötelező szakmai kamarai tagsággal rendelkező igazságügyi szakértő szakmai kamarai tagsága felfüggesztésre került.
 

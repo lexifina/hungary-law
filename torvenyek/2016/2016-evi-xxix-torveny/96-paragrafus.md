@@ -10,4 +10,4 @@ b) a cselekmény befejezése vagy a mulasztás megszűnése óta öt év eltelt.
 
 (3) A bűncselekmény törvényi tényállását megvalósító fegyelmi vétség a bűncselekménnyel együtt évül el.
 
-(4) Ha a fegyelmi vétségnek is minősülő cselekmény miatt büntető, szabálysértési vagy szakmai kamara hatáskörébe tartozó fegyelmi eljárás indult, az eljárás jogerős befejezésétől számított három hónapon belül a fegyelmi eljárás akkor is megindítható, ha a (3) bekezdésben meghatározott határidő eltelt.
+(4) Ha a fegyelmi vétségnek is minősülő cselekmény miatt büntető, szabálysértési vagy szakmai kamara hatáskörébe tartozó fegyelmi eljárás indult, az eljárás jogerős befejezésétől, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától számított három hónapon belül a fegyelmi eljárás akkor is megindítható, ha a (3) bekezdésben meghatározott határidő eltelt.
