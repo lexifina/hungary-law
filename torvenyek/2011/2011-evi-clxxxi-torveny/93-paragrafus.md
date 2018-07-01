@@ -14,7 +14,19 @@ f) az egyszerűsített törlési eljárás megindítását, megszüntetését, �
 
 g) a szervezet elleni végrehajtás – ideértve a biztosítási intézkedést is – elrendelését és megszüntetését,
 
-h) ha a jogi személy ellen olyan eljárás van folyamatban, amelyben büntetőjogi intézkedés alkalmazásának lehet helye, a nyomozás elrendelését, megszüntetését, annak megállapítását, hogy intézkedés alkalmazásának a feltételei nem állnak fenn, az eljárás befejezését, valamint az eljáró hatóság megnevezését, a határozat számát és keltét, továbbá, ha a bíróság a jogi személlyel szemben büntetőjogi intézkedésként tevékenységének korlátozását rendelte el, a határozat jogerőre emelkedésének napját, a korlátozás időtartamát és azt, hogy a korlátozás a jogi személy mely tevékenységére vagy jogosítványára terjed ki,
+h) ha a jogi személy ellen olyan eljárás van folyamatban, amelyben büntetőjogi intézkedés alkalmazásának lehet helye,
+
+ha) annak megállapítását, hogy a jogi személlyel szemben büntetőjogi intézkedés alkalmazásának lehet helye, illetve hogy a jogi személlyel szemben már nem állnak fenn az intézkedés alkalmazásának feltételei,
+
+hb) a büntetőeljárás felfüggesztését, megszüntetését és folytatását,
+
+hc) a jogi személlyel szemben alkalmazott zár alá vétel elrendelését és annak feloldását,
+
+hd) ha az ügyészség a jogi személlyel szemben intézkedés alkalmazását indítványozta, akkor ennek tényét,
+
+he) az eljárás befejezését, továbbá, ha a bíróság a jogi személlyel szemben büntetőjogi intézkedésként tevékenységének korlátozását rendelte el, a korlátozás időtartamát és azt, hogy a korlátozás a jogi személy mely tevékenységére vagy jogosítványára terjed ki, valamint
+
+hf) a ha)–he) alpontban megjelölt döntést hozó bíróság, ügyészség vagy nyomozó hatóság megnevezését, az ügy számát vagy a határozat számát, keltét és a jogerőre emelkedésének vagy véglegessé válásának napját,
 
 i) ha a szervezetet a bíróság megszünteti, vagy megállapítja, hogy a szervezet megszűnt, a határozat számát, jogerőre emelkedésének napját.
 
