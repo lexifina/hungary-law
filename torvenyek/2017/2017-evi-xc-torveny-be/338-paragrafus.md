@@ -1,0 +1,3 @@
+## Felhívás az elektronikus adat önkéntes eltávolítása érdekében
+
+338. § Ha a büntetőeljárás érdekeit nem sérti, az ügyészség vagy a nyomozó hatóság az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelését megelőzően felhívhatja az elektronikus adat önkéntes eltávolítása érdekében a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti azon médiatartalom-szolgáltatót, illetve azon tárhelyszolgáltatót vagy tárhelyszolgáltatást is végző közvetítő szolgáltatót, amelyik képes megakadályozni az elektronikus adathoz való hozzáférést. A felhívás teljesítése nem kötelező, annak célja az elektronikus adathoz való hozzáférés megakadályozásának a gyorsabbá tétele.

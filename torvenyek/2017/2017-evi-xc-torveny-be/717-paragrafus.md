@@ -1,0 +1,1 @@
+717. § A másodfokú bíróság nem ügydöntő végzésével hatályon kívül helyezi az elsőfokú bíróság ítéletét és az elsőfokú bíróságot új eljárásra utasítja akkor is, ha a bíróság katonai büntetőeljárásra nem tartozó ügyben e Fejezet szerint járt el.

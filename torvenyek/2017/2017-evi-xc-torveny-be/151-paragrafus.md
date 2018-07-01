@@ -1,0 +1,11 @@
+## Elektronikus kapcsolattartás a szakértővel
+
+151. § (1) Az E-ügyintézési törvény alapján elektronikus kapcsolattartásra nem kötelezett szakértő az igazságügyi szakértői névjegyzékbe történő bejelentéssel, az igazságügyi szakértői névjegyzékben nem szereplő, szakértői tevékenységre jogszabályban feljogosított szakértő a bíróság, az ügyészség és a nyomozó hatóság részére történő bejelentéssel vállalhatja az elektronikus kapcsolattartást.
+
+(2) Ha a szakértő az E-ügyintézési törvény alapján elektronikus kapcsolattartásra köteles vagy azt az (1) bekezdés szerint vállalja – a (3) és (4) bekezdésben foglaltak kivételével – a szakvéleményét és egyéb beadványát az E-ügyintézési törvényben és végrehajtási rendeleteiben meghatározott módon, elektronikus úton nyújthatja be a bírósághoz, az ügyészséghez és a nyomozó hatósághoz és a bíróság, az ügyészség és a nyomozó hatóság is valamennyi ügyiratot elektronikus úton kézbesít a részére.
+
+(3) A bíróság, az ügyészség és a nyomozó hatóság a szakértő indokolt indítványára kivételesen elektronikus kapcsolattartás esetén is engedélyt adhat a szakvélemény vagy annak egy részének papíralapú benyújtására.
+
+(4) A bíróság, az ügyészség és a nyomozó hatóság papíralapon vagy egyéb adathordozón bocsátja rendelkezésre a szakértő részére az ügyiratokat, ha annak papíralapú vagy egyéb adathordozó útján történő bemutatása, megtekintése szükséges, erre különösen akkor kerülhet sor, ha az ügyiratok nagy mennyisége miatt vagy az adathordozó jellegéből adódóan a digitalizálás aránytalan nehézséggel járna vagy lehetetlen, valamint ha a bizonyítási eszköz valódisága vitás. Ha a szakértő részére elektronikus úton kézbesített ügyirathoz e bekezdés szerinti ügyirat kapcsolódik, a határidő számításának alapja a papíralapú vagy egyéb adathordozón rendelkezésre bocsátott ügyirat kézhezvételének időpontja.
+
+(5) A bíróság, az ügyészség és a nyomozó hatóság felhívhatja a papíralapú kapcsolattartással eljáró szakértőt, hogy a szakvéleményt adathordozón is nyújtsa be, ha azt elektronikus kapcsolattartással eljáró büntetőeljárásban részt vevő személy részére kell kézbesítenie. A szakértő, illetve a szakértői tevékenységet végző szerv felel azért, hogy a papíralapú szakvélemény tartalma megegyezzen az adathordozón benyújtott dokumentum tartalmával.

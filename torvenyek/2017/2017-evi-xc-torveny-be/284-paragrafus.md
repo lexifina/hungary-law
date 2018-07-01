@@ -1,0 +1,1 @@
+284. § Az óvadék a bíróság által meghatározott pénzösszeg, amelynek célja a bíróság által elrendelt távoltartás, illetve bűnügyi felügyelet magatartási szabályai megtartásának, és a terhelt eljárási cselekményeken való jelenlétének elősegítése.

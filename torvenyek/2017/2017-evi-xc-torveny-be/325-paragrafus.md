@@ -1,0 +1,5 @@
+325. § (1) Polgári jogi igény biztosítása érdekében zár alá vételnek a magánfél indítványára, az általa megjelölt, a terhelt tulajdonában álló vagy őt illető vagyonra van helye. A zár alá vétel akkor is elrendelhető, ha az 557. § szerinti polgári jogi igényt a bíróság a polgári perrendtartásról szóló törvény szerint hatáskörrel és illetékességgel rendelkező bíróságnak küldte meg.
+
+(2) A polgári jogi igény biztosítása céljából zár alá vételnek a vádemelés előtt a sértett indítványára akkor van helye, ha a sértett a polgári jogi igény érvényesítésének szándékát bejelentette és a bejelentés – a terhelt személyazonosító adatainak kivételével – az 556. § (2) bekezdésben foglaltakat tartalmazza. Az eljáró bíróság, ügyészség vagy nyomozó hatóság – hiányos indítvány esetén – a sértettet erről a zár alá vétel elrendelése iránti indítvány előterjesztésekor tájékoztatja.
+
+(3) Ha a bíróság a nem jogerős ügydöntő határozatában vagyonelkobzást rendelt el vagy a polgári jogi igénynek helyt adott, ennek biztosítására – a polgári jogi igény esetében a magánfél indítványára, egyébként hivatalból is – az eljárás jogerős befejezéséig zár alá vételt rendelhet el.

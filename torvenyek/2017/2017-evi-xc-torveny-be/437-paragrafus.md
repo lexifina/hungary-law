@@ -1,0 +1,7 @@
+437. § (1) A zárt tárgyalás tárgyában hozott határozatot a bíróság nyilvános tárgyaláson hirdeti ki. A zárt tárgyalás tárgyában hozott határozat ellen nincs helye fellebbezésnek.
+
+(2) A bíróság a zárt tárgyalás elrendelése esetén is engedélyezheti, hogy az igazságszolgáltatással összefüggő feladatokat ellátó hivatalos személyek a tárgyaláson jelen legyenek. A külföldi állampolgár vádlott ellen, illetve a külföldi állampolgár sértett sérelmére elkövetett bűncselekmény miatt indult eljárás során lehetővé kell tenni, hogy a tárgyaláson a külföldi állampolgár államának konzuli tisztviselője, illetve törvénnyel kihirdetett nemzetközi szerződés rendelkezése alapján a külföldi állam hatóságának tagja jelen lehessen.
+
+(3) Zárt tárgyalás elrendelése esetén a sértett, ha nincs képviselője, illetve a vádlott, ha nincs védője, indítványozhatja, hogy a tárgyalás helyszínén tartózkodó, általa megnevezett személy – kivéve a tárgyaláson kihallgatandó személyt – legyen jelen a tárgyaláson. Ha a bíróság a zárt tárgyalást minősített adat védelme érdekében rendelte el, ilyen indítvány nem terjeszthető elő. Az indítvány tárgyában hozott határozat ellen nincs helye fellebbezésnek.
+
+(4) Ha a bíróság zárt tárgyalást rendel el, figyelmezteti a jelenlévőket arra, hogy a tárgyaláson elhangzottakról tájékoztatást nem adhatnak, szükség esetén figyelmezteti őket a minősített adattal visszaélés büntetőjogi következményeire. A figyelmeztetést a jegyzőkönyvben fel kell tüntetni.

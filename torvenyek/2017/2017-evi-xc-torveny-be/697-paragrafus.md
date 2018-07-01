@@ -1,0 +1,7 @@
+## A bíróság
+
+697. § (1) A katonai büntetőeljárásra tartozó ügyben elsőfokon a bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló törvényben kijelölt törvényszék katonai tanácsa jár el.
+
+(2) Ha e törvény eltérően nem rendelkezik, a katonai büntetőeljárásra tartozó ügyben másodfokon a Fővárosi Ítélőtábla katonai tanácsa jár el. A perújítás megengedhetőségének kérdésében, valamint perújítás elrendelése esetén a perújítási eljárásban hozott ítélet felülbírálata során másodfokon a Fővárosi Ítélőtábla más tanácsa is eljárhat.
+
+(3) A katonai bíró a nem katonai büntetőeljárásra tartozó ügyekben is eljárhat.

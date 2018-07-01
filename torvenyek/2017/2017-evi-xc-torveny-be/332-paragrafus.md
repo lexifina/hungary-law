@@ -1,0 +1,1 @@
+332. § A zár alá vételt a vádemelés előtt az elrendelő, azt követően a bíróság oldhatja fel. A nyomozó hatóság által elrendelt zár alá vételt a vádemelés előtt az ügyészség vagy a bíróság is feloldhatja. A bíróság által elrendelt zár alá vételt a vádemelés előtt az ügyészség is feloldhatja.

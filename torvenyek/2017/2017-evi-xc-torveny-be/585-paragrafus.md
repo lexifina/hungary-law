@@ -1,0 +1,1 @@
+585. § A magánfél a polgári jogi igényt az elsőfokú bíróság ítéletének a polgári jogi igényt érdemben elbíráló rendelkezése elleni fellebbezésben és a másodfokú bírósági eljárás során a polgári perrendtartásról szóló törvénynek a perorvoslatok és az azzal összefüggő eljárások során történő keresetváltoztatásra vonatkozó rendelkezései szerint változtathatja meg.

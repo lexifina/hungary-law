@@ -1,0 +1,3 @@
+528. § (1) Az egyesbíró vagy a tanács elnöke az ügyész, a vádlott vagy a védő indítványára, vagy hivatalból ismertetheti a tanú korábban tett vallomásának részeit, ha a tanú a történtekre nem emlékszik, vagy ha a tárgyaláson tett és a korábban tett tanúvallomása között ellentét van.
+
+(2) A korábban tett vallomás részeinek ismertetésére csak akkor kerülhet sor, ha az ismertetésben foglalt tényekre és körülményekre a tanúhoz kérdést intéztek, illetve a tanú e tényekre és körülményekre a tárgyaláson vallomást tett. Az egyesbíró vagy a tanács elnöke gondoskodik arról, hogy az ismertetés a tényállás megállapításához szükséges mértékű legyen.

@@ -1,0 +1,5 @@
+403. § (1) Kérelemre a bűnügyi költség megfizetésére halasztás, illetve részletfizetés engedélyezhető a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 42. § (1) bekezdésében meghatározott feltételek mellett és keretek között. Az ötvenezer forintot meghaladó bűnügyi költség esetében a halasztás, illetve a részletfizetés a bírósági végrehajtó által foganatosított foglalás után engedélyezhető, ha a foglalási jegyzőkönyvet a végrehajtó az ügyészséghez beterjesztette. Az ötvenezer forintot meg nem haladó bűnügyi költség esetén az ügyészség foglalási cselekmény bevárása nélkül, a rendelkezésre álló adatok alapján legfeljebb két hónapi halasztást, illetve három hónapi részletfizetést engedélyezhet.
+
+(2) A halasztás, illetve a részletfizetés iránti kérelemnek nincs halasztó hatálya.
+
+(3) A kérelemről a bűnügyi költség megfizetésére kötelezésről rendelkező ügyészség határoz. E határozat ellen nincs helye panasznak.

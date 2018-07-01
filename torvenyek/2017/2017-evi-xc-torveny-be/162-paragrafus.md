@@ -1,0 +1,7 @@
+## Áttérés papíralapú kapcsolattartásra
+
+162. § (1) Ha a terhelt, illetve a jogi képviselő nélkül eljáró büntetőeljárásban részt vevő személy vagy jogi képviselőnek nem minősülő meghatalmazott képviselője vállalta, hogy a kapcsolatot elektronikus úton tartja, utóbb, beadványának papíralapú benyújtásával egyidejűleg indítványozhatja az eljáró bíróságnál, ügyészségnél, vagy nyomozó hatóságnál a papíralapú eljárásra való áttérés engedélyezését. Az indítványban valószínűsíteni kell, hogy az indítványozó körülményeiben olyan változás következett be, amely miatt az elektronikus úton történő eljárás a továbbiakban számára aránytalan megterhelést jelentene.
+
+(2) A bíróság, az ügyészség és a nyomozó hatóság a papíralapú kapcsolattartásra való áttérést határozat meghozatala nélkül is engedélyezheti, az áttérés iránti indítvány elutasításáról rendelkező határozatát az indítványozónak papíralapon kézbesíti. E határozat elleni jogorvoslat papíralapon is előterjeszthető. A papíralapon benyújtott, az (1) bekezdés szerinti beadványt az áttérés iránti indítvány elutasítása esetén is szabályszerűen benyújtottnak kell tekinteni, azt – az ismételten alaptalan áttérés iránti indítvány előterjesztésének esetét kivéve – elektronikus úton nem kell benyújtani.
+
+(3) A bíróság, az ügyészség és a nyomozó hatóság papíralapon tartja a kapcsolatot a büntetőeljárásban részt vevő személlyel, illetve papíralapú kapcsolattartásra tér át, ha a büntetőeljárásban részt vevő személy elektronikus ügyintézéshez való joga szünetel.

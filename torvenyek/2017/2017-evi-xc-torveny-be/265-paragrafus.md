@@ -1,0 +1,3 @@
+265. § (1) Ha az adatkérés keretében megkeresett szervezet a kérelemben foglaltakat a megállapított határidőn belül nem teljesíti, annak teljesítését alaptalanul megtagadja, vagy a 264. § (7) bekezdésében foglalt kötelezettségét megszegi, rendbírsággal sújtható. Ha annak feltételei fennállnak, a rendbírság kiszabása mellett az e törvényben meghatározott kényszerintézkedés is elrendelhető.
+
+(2) Ha az adatkérés keretében megkeresett szervezet a kérelemben foglaltakat azért nem teljesíti, mert azt törvény kizárja, a megkeresett szervezet birtokában lévő adat megszerzése érdekében a megkeresett szervezetet érintő további eljárási cselekmény nem végezhető.

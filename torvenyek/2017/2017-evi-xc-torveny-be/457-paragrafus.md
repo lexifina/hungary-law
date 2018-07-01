@@ -1,0 +1,1 @@
+457. § A fellebbezés az ügydöntő határozat jogerőre emelkedését abban a részben függeszti fel, amelyet a fellebbezés folytán eljáró bíróság felülbírál. Az ügydöntő határozat részlegesen emelkedik jogerőre, ha van olyan rendelkezése, amelyet a fellebbezés folytán eljáró bíróság nem bírál felül.

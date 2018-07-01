@@ -1,0 +1,1 @@
+60. § A segítő jogosult arra, hogy a saját, valamint az általa segített személy büntetőeljárási jogairól és kötelességeiről a bíróságtól, az ügyészségtől és a nyomozó hatóságtól felvilágosítást kapjon.

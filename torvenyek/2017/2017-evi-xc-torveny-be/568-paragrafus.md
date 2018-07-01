@@ -1,0 +1,1 @@
+568. § Ha az ügyészség ejtette a vádat és pótmagánvádnak lehet helye, az eljárás megszüntetésének nem akadálya, hogy a sértettnek azért nem lehetett az ügyész vádejtését tartalmazó nyilatkozatát kézbesíteni, mert ismeretlen helyen tartózkodott.

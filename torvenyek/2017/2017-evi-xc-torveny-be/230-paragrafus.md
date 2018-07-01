@@ -1,0 +1,1 @@
+230. § Az ügyészség által folytatott előkészítő eljárás, illetve ügyészségi nyomozás során az ügyészi engedélyhez kötött leplezett eszközök engedélyezésével kapcsolatos feladatokat a felettes ügyészség látja el.

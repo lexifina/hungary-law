@@ -1,0 +1,5 @@
+101. § (1) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, pártfogó felügyelő, megelőző pártfogó felügyelő, nyomozó hatóság, közigazgatási hatóság, kormányzati ellenőrzési szerv, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Védelmi Szolgálat, a katona terhelt állományilletékes parancsnoka a törvényben meghatározott feladata ellátásához szükséges mértékben és időtartamban megismerheti az eljárás ügyiratait. A megismerési jog a nyomozás befejezéséig az eljárás érdekeire figyelemmel korlátozható. A megismerés korlátozása ellen nincs helye jogorvoslatnak.
+
+(2) Törvénnyel kihirdetett nemzetközi szerződéssel vagy európai uniós jogi aktussal létrehozott szerv, a szerv ilyen jogforrásban meghatározott feladatainak ellátásához szükséges mértékben és időtartamban az (1) bekezdésben foglaltak szerint ismerheti meg az eljárás ügyiratait.
+
+(3) Az (1) és (2) bekezdésben meghatározott megismerési jog nem érinti az eljárás zártan kezelt ügyirataira vonatkozó külön rendelkezéseket, a minősített adatok kezelésével kapcsolatos rendelkezéseket, valamint az adatok zártan kezelésének kötelezettségét.

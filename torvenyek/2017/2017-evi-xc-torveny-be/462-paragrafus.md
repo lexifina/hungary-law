@@ -1,0 +1,1 @@
+462. § A bíróság a jogerősítési záradékot és a véglegessé válási záradékot indítványra vagy hivatalból kijavíthatja vagy pontosíthatja, ha ezt az utóbb felmerült körülmények szükségessé teszik. Az így kijavított vagy pontosított határozatot azoknak kell kézbesíteni, akiknek a részére a bíróság a hibás kiadmányt megküldte.

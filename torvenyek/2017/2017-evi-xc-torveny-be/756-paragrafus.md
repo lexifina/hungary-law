@@ -1,0 +1,5 @@
+756. § (1) Ha a vádemelést követően állapítható meg, hogy a terhelt külföldön tartózkodik, és a 755. § (1) bekezdésében meghatározott feltételek fennállnak, erről a bíróság az ügyészséget tájékoztatja. Ha az ügyészség a tájékoztatás kézhezvételétől számított tizenöt napon belül nem tesz indítványt arra, hogy a tárgyalást a terhelt távollétében folytassák, az egyesbíró vagy a tanács elnöke az eljárást felfüggeszti. Az eljárás felfüggesztése nem akadálya annak, hogy az ügyészség az indítványát utóbb előterjessze.
+
+(2) Ha a vádemelést követően állapítható meg, hogy a távollévő terhelt külföldön tartózkodik, és a 755. § (1) bekezdésében meghatározott feltételek fennállnak, a bíróság az ügyészség felhívása nélkül folytatja az eljárást.
+
+(3) Ha a terhelt külföldön fogva van, a külföldön tartózkodó terhelttel szembeni eljárás lefolytatásának a vádemelést követően csak a terhelt hozzájárulásával van helye. Ha a terhelt az eljárás folytatásához nem járul hozzá, a bíróság az eljárást felfüggeszti.
