@@ -24,7 +24,7 @@ c) bejelentő által alkalmazandó – a postai szolgáltató azonosítására a
 
 d) annak a központi ügyfélszolgálatnak az elérhetőségét (különösen: cím, telefonszám és internet), ahol a felhasználók a szolgáltatásokkal kapcsolatosan érdeklődhetnek, panaszt tehetnek, és ahol kártérítési igényüket bejelenthetik;
 
-e) a titkos információgyűjtésre, illetve titkos adatszerzésre felhatalmazott szervezetekkel való együttműködés teljesítésére vonatkozó nyilatkozatot;
+e) a titkos információgyűjtés folytatására, illetve leplezett eszközök alkalmazására feljogosított szervezetekkel való együttműködés teljesítésére vonatkozó nyilatkozatot;
 
 f) a postai szolgáltatás normál üzemmenetéhez szükséges technológiai folyamatok leírását, különös tekintettel a bejelentő által nyújtani kívánt szolgáltatások –értelmező rendelkezésekben foglalt technológiai elemek részletes bemutatására;
 

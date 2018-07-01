@@ -14,7 +14,7 @@ e) a postai szolgáltatások különleges jogrend időszaki felkészítésének 
 
 f) a postai szolgáltatót, alkalmazottját, tagját, megbízottját és a postai közreműködőt terhelő adatvédelmi és titoktartási kötelezettséget, az adatkezelés részletes szabályait, a titokvédelemre vonatkozó különleges feltételeket;
 
-g) a postai szolgáltatók, a postai közreműködők és a titkos információ gyűjtésére, illetve a titkos adatszerzésre felhatalmazott szervezetek együttműködésének részletes szabályait.
+g) a postai szolgáltatók, a postai közreműködők és a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervezetek együttműködésének részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg:
 
