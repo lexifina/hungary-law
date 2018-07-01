@@ -1,0 +1,1 @@
+## 101. § Ha az előkészítő eljárást a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve folytatja, a szerv szervezeti elemének székhelye szerint illetékességgel rendelkező ügyészséghez tesz előterjesztést, illetve küld tájékoztatást.

@@ -1,0 +1,3 @@
+153. § (1) Ha a nyomozó hatóság az eljárás valamennyi ügyiratának a megismerhetőségét a 152. § alapján az eljárás során biztosította, a Be. 352. § (1) bekezdésében meghatározott időközt a 152. § (3) bekezdése szerinti tájékoztatás időpontjától kell számítani.
+
+(2) Ha a nyomozó hatóság a 152. § alapján az ügyiratok megismerhetőségét nem másolat kézbesítésével teljesítette, a gyanúsítottat és a védőt értesíteni kell, hogy az ügyiratok másolatának kézbesítését indítványozhatja. Ebben az esetben a nyomozó hatóság az ügyiratok másolatát az indítványt követő tíz napon belül kézbesíti, és a Be. 352. § (1) bekezdésében meghatározott időközt az értesítés időpontjától kell számítani.

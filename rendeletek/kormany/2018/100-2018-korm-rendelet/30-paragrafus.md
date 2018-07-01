@@ -1,0 +1,3 @@
+30. § (1) A nyomozó hatóság a rendészeti intézkedés során, szükség esetén a rendészeti intézkedést végrehajtó szerv megfelelő tájékoztatásával gondoskodik arról, hogy a rendészeti intézkedéssel érintett, büntetőeljárásban részt vevő személy – különösen a bűncselekmény elkövetésével megalapozottan gyanúsítható személy és a terhelt – büntetőeljárási jogait is megfelelően gyakorolhassa.
+
+(2) A rendészeti intézkedés befejezését követően a nyomozó hatóság feladata a büntetőeljárásban részt vevő személy megfelelő közreműködésének, jelenlétének biztosítása, amely érdekében a Be. szabályai szerint jár el.

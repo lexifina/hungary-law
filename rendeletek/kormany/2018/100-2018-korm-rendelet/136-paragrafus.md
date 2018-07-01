@@ -1,0 +1,3 @@
+136. § (1) Ha a titkos információgyűjtést folytató szerv a titkos információgyűjtés eredményének felhasználását a nyomozás során kezdeményezi, a nyomozó hatóság megvizsgálja, hogy a kezdeményezés a Be. 259–260. §-ában meghatározott határidőn belül történt-e. A határidő megsértése esetén erről a nyomozó hatóság feljegyzést készít.
+
+(2) Bírói vagy külső engedélyhez kötött titkos információgyűjtés esetén a nyomozó hatóság az (1) bekezdés szerinti vizsgálatról, illetve a titkos információgyűjtés büntetőeljárásban történő felhasználásáról a feljegyzést az érkezéstől számított három munkanapon belül készíti el.

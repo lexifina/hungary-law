@@ -1,0 +1,1 @@
+## 131. § Ha a nyomozás megindításakor rendészeti vagy más hatósági intézkedés van folyamatban, annak korlátozása vagy megszakítása érdekében a nyomozó hatóság abban az esetben intézkedhet, ha az intézkedés a nyomozás érdekeit sérti.

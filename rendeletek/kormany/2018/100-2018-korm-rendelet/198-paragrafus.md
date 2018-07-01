@@ -1,0 +1,3 @@
+198. § (1) Ha az alkalmazó szerv álvásárlás érdekében tagját vagy titkosan együttműködő személyt alkalmaz, a (2) bekezdésben meghatározott kivétellel, a 197. § rendelkezéseit kell megfelelően alkalmazni.
+
+(2) Ha az alkalmazó szerv az álvásárlás végrehajtása során titkosan együttműködő személy vagy az alkalmazó szerv tagjának igénybevételét tartja indokoltnak, az alkalmazási tervhez minden esetben csatolni kell a fedett nyomozót foglalkoztató szerv állásfoglalását arról, hogy a leplezett eszköz végrehajtásához biztosítani tudják-e fedett nyomozó közreműködését. Késedelmet nem tűrő esetben a fedett nyomozót foglalkoztató szerv állásfoglalása rövid úton is beszerezhető.

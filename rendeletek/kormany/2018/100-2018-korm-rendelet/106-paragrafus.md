@@ -1,0 +1,1 @@
+## 105. § A nyomozó hatóság a tényállás tisztázásához szükséges megalapozott bizonyítási indítványt teljesíti. Ha az indítvány nem megalapozott, a nyomozó hatóság az indítvány előterjesztőjét kérelemre tájékoztatja a megalapozatlanság indokairól.

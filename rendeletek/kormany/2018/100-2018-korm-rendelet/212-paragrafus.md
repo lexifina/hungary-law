@@ -1,0 +1,5 @@
+## 109. A nyomozó hatóság, a rendőrség belső bűnmegelőzési és bűnüldözési feladatokat ellátó szervének, valamint a rendőrség terrorizmust elhárító szervének közreműködése a leplezett eszközök alkalmazása során
+
+212. § (1) Az ügyészség megkeresése alapján a nyomozó hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, illetve a rendőrség terrorizmust elhárító szerve az ügyészség rendelkezése szerint közreműködik a leplezett eszköz alkalmazása során. A közreműködésre a 205. § és a 211. § rendelkezéseit kell megfelelően alkalmazni.
+
+(2) Az (1) bekezdés irányadó abban az esetben is, ha a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, illetve a rendőrség terrorizmust elhárító szerve közreműködésére a Be. 244. § (4) bekezdése alapján, az ügyészség erre irányuló megkeresése nélkül kerül sor. A megkeresett szerv ebben az esetben akkor is eljárhat, ha a nyomozás tárgyát képező bűncselekmény a rendőrségről szóló törvény szerint nem tartozik a hatáskörébe.

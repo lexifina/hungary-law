@@ -1,0 +1,3 @@
+125. § (1) A nyomozó hatóság a szóban tett feljelentés során és annak jegyzőkönyvbe vételekor törekszik a gyanú fennállásának megítéléséhez szükséges tények minél részletesebb tisztázására. Ennek érdekében a nyomozó hatóság a feljelentőt a szükséges részletességgel nyilatkoztatja különösen a bűncselekmény tényállási elemeire, az elkövetés körülményeire, az elkövető személyére, az általa ismert bizonyítási eszközökre és azok helyére.
+
+(2) A nyomozó hatóság a feljelentőt felszólítja, hogy a birtokában levő bizonyítási eszközöket a nyomozó hatóságnak adja át. A feljelentő által átadott bizonyítási eszközöket a nyomozó hatóság az ügyiratok között kezeli, vagy ha a büntetőeljárás megindításának feltételei fennállnak, szükség esetén lefoglalja azokat.

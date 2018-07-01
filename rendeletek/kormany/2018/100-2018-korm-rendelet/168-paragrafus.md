@@ -1,0 +1,1 @@
+## 167. § Ha a távoltartás elrendelésére, a távoltartás magatartási szabályainak megváltoztatására vagy a távoltartás megszüntetésére a sértett tesz indítványt, azt a nyomozó hatóság az álláspontjának kifejtésével az ügyiratok megküldésével haladéktalanul továbbítja a bíróságnak, és erről tájékoztatja az ügyészséget.
