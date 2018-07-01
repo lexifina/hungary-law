@@ -1,1 +1,0 @@
-32. § A Be. 514. § (1) bekezdésében foglaltak szerint a 74. § (1) bekezdés a) pontjában meghatározott bűnügyi költséget az állam viseli akkor is, ha a büntetőeljárást az 1978. évi IV. törvény 32. § a) vagy c) pontja szerinti büntethetőséget megszüntető okból szüntették meg.

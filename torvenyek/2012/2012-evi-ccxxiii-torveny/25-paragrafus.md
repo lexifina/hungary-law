@@ -1,17 +1,1 @@
-25. § A Be. 354. § (4) bekezdése alapján a súlyosítási tilalom folytán a másodfokú bíróság a vádlott terhére bejelentett fellebbezés hiányában nem szabhat ki
-
-a) büntetést azzal szemben, akinek az ügyét első fokon önállóan alkalmazott intézkedéssel bírálták el,
-
-b) közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kiutasítás helyett szabadságvesztést annak felfüggesztése vagy részbeni felfüggesztése mellett sem,
-
-c) felfüggesztett szabadságvesztés helyett részben felfüggesztett szabadságvesztést, végrehajtandó szabadságvesztést,
-
-d) végrehajtandó szabadságvesztés helyett hosszabb tartamú szabadságvesztést, annak felfüggesztése vagy részbeni felfüggesztése mellett sem,
-
-e) részben felfüggesztett szabadságvesztés helyett hosszabb tartamú részben felfüggesztett szabadságvesztést, a részben felfüggesztett szabadságvesztés végrehajtandó részénél hosszabb tartamú végrehajtandó szabadságvesztést,
-
-f) az elsőfokú bíróság által alkalmazott büntetések számát meghaladó további büntetéseket, ide nem értve a szabadságvesztés helyett alkalmazott büntetéseket,
-
-g) az elsőfokú bíróság által nem alkalmazott mellékbüntetést,
-
-h) lefokozás, szolgálati viszony megszüntetése helyett szabadságvesztést, annak felfüggesztése vagy részbeni felfüggesztése mellett sem.
+25. § A Be. 662. § (2) bekezdés c) pontjának alkalmazásában a Kúria a felülvizsgálati indítvánnyal megtámadott határozatot akkor is megváltoztatja, és a törvénynek megfelelő határozatot hoz, ha az alapügyben a bíróság az 1978. évi IV. törvény 91. § (1) bekezdésében foglalt kizáró ok ellenére függesztette fel a büntetés végrehajtását.

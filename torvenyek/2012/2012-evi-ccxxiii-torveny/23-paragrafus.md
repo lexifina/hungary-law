@@ -1,3 +1,11 @@
-23. § (1) A Be. 267. § (1) bekezdés h) pontja, a 274. § (2) bekezdése, illetve a 276. § (4) bekezdése alkalmazása során a bíróság a vádlottat az 1978. évi IV. törvény 71. § szerint is megrovásban részesítheti.
+23. § A Be. 595. § (4) bekezdése alapján a súlyosítási tilalom folytán a másodfokú bíróság a vádlott terhére bejelentett fellebbezés hiányában nem szabhat ki
 
-(2) A Be. 267. § (1) bekezdés l) pontja alkalmazása során a bíróság az eljárást az 1978. évi IV. törvény 36. § (1) bekezdés szerinti tevékeny megbánás esetén is megszüntetheti.
+a) közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kiutasítás helyett szabadságvesztést annak felfüggesztése vagy részbeni felfüggesztése mellett sem,
+
+b) felfüggesztett szabadságvesztés helyett részben felfüggesztett szabadságvesztést, végrehajtandó szabadságvesztést,
+
+c) végrehajtandó szabadságvesztés helyett hosszabb tartamú szabadságvesztést, annak felfüggesztése vagy részbeni felfüggesztése mellett sem,
+
+d) részben felfüggesztett szabadságvesztés helyett hosszabb tartamú részben felfüggesztett szabadságvesztést, a részben felfüggesztett szabadságvesztés végrehajtandó részénél hosszabb tartamú végrehajtandó szabadságvesztést,
+
+e) lefokozás, szolgálati viszony megszüntetése helyett szabadságvesztést, annak felfüggesztése vagy részbeni felfüggesztése mellett sem.

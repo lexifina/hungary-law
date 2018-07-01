@@ -1,1 +1,1 @@
-28. § A Be. 446. § alkalmazásában fiatalkorú az 1978. évi IV. törvény 107. § (1) bekezdésében meghatározott személy is.
+28. § A Be. 714. §-ának alkalmazásában a vádemelés előtt az ügyészség, a vádemelés után a bíróság megszünteti az eljárást az 1978. évi IV. törvény 124. §-ában meghatározott büntethetőséget megszüntető ok miatt is.

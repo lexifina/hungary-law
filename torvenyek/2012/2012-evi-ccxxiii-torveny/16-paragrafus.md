@@ -1,1 +1,1 @@
-16. § A Be. 191. § (2) bekezdésében foglaltak szerint jár el az ügyész akkor is, ha a gyanúsítottat az 1978. évi IV. törvény 71. §-a alapján részesítették megrovásban.
+16. § A Be. 381. § (1) bekezdés f) pontjának alkalmazásában az ügyészség és a nyomozó hatóság a feljelentést elutasítja akkor is, ha a rendelkezésére álló adatokból kitűnik, hogy a legfőbb ügyésznek az 1978. évi IV. törvény 4. § (3) bekezdésében meghatározott rendelkezése hiányzik.

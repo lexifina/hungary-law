@@ -1,1 +1,1 @@
-29. § A Be. 470. § alkalmazásában katonai büntetőeljárásnak van helye az 1978. évi IV. törvény 122. § (1) bekezdésében meghatározott katona által a tényleges szolgálati viszonyának tartama alatt elkövetett, az 1978. évi IV. törvény XX. Fejezete szerinti katonai bűncselekmény esetén is.
+29. § A Be. 845. § (2) bekezdés c) pont ca) alpontjának alkalmazásában kártalanítás jár akkor is, ha a bíróság az eljárást azért szüntette meg, mert a legfőbb ügyésznek az 1978. évi IV. törvény 4. § (3) bekezdésében meghatározott rendelkezése hiányzott.

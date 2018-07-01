@@ -1,1 +1,1 @@
-14. § A Be. 179. § (5) bekezdésében meghatározottak szerint jár el a nyomozó hatóság abban az esetben is, ha a nyomozás adatai alapján az 1978. évi IV. törvény 283. §-ában meghatározott büntethetőséget megszüntető okból lehet helye az eljárás megszüntetésének.
+14. § A Be. 354. § (5) bekezdése alkalmazásában zár alá vételt elsősorban a terhelt rendelkezése alatt álló vagyonra kell elrendelni akkor is, ha az 1978. évi IV. törvény 77/C. § (1) bekezdés alkalmazásának lehet helye.

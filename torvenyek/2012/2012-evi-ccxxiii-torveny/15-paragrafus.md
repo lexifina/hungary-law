@@ -1,1 +1,1 @@
-15. § A Be. 190. § (2) bekezdésében meghatározott esetben a nyomozás megszüntetésére a nyomozó hatóság akkor is jogosult, ha a büntethetőséget az 1978. évi IV. törvény 22. § a) pontjában meghatározott gyermekkor zárja ki.
+15. § A Be. 380. § (3) bekezdése alkalmazásában az ügyészség, illetve a nyomozó hatóság a feljelentés kiegészítése során gondoskodik a legfőbb ügyész döntésének beszerzéséről akkor is, ha a büntetőeljárás megindítását az 1978. évi IV. törvény 4. § (3) bekezdése alapján a legfőbb ügyész jogosult elrendelni.

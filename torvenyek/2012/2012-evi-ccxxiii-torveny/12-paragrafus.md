@@ -1,1 +1,1 @@
-12. § A Be. 170. § (6) bekezdése az 1978. évi IV. törvény 274. § szerinti közokirat-hamisítás esetén is alkalmazandó.
+12. § A Be. 82. § c) pontja alkalmazásában külön döntés nélkül különleges bánásmódot igénylő személynek minősül az 1978. évi IV. törvény szerinti nemi erkölcs elleni bűncselekmény sértettje is.
