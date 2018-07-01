@@ -1,1 +1,0 @@
-## 18. § Ez a rendelet a kihirdetését követő harmincadik napon lép hatályba; rendelkezéseit a hatálybalépését követően kiadott programfüzetekre, illetve a hatálybalépését követően kötött szerződésekre kell alkalmazni.
