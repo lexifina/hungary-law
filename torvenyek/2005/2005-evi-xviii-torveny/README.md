@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-18-00-00
 | 2017-12-22 | 2017. évi CCVIII. törvény | 2005-18-00-00.36 |
 | 2018-01-01 | 2017. évi L. törvény | 2005-18-00-00.37 |
 | 2018-05-18 | 2018. évi V. törvény | 2005-18-00-00.38 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2005-18-00-00.39 |
