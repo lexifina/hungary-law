@@ -1,19 +1,13 @@
-114. § (1) A közkereseti társaság, a betéti társaság és az egyéni cég végelszámolásának cégbejegyzése egyszerűsített módon történhet, ha a cég a végelszámolása kezdő időpontjától számított százötven napon belül a végelszámolást befejezi. Az egyszerűsített végelszámolás esetén a végelszámolás megindulásáról szóló közlemény Cégközlönyben történő közzétételét a végelszámoló a végelszámolás kezdő időpontjától számított nyolc napon belül köteles kezdeményezni. A végelszámoló jogállására, a feladataira, illetve az egyszerűsített végelszámolásra a 99–113. § rendelkezéseit megfelelően alkalmazni kell.
+114. § (1) A cég végelszámolása egyszerűsített módon történhet, ha
 
-(2) A cég a végelszámoló személyét a végelszámolás befejezésével és a törlési kérelemmel együtt jelenti be a cégbíróságnak, amely rendelkezik a törlés bejegyzéséről és közzétételéről, ennek keretében feltüntetve a végelszámoló személyét és lakóhelyét (székhelyét), utalva arra is, hogy a végelszámolás egyszerűsített módon folyt le.
+a) a számvitelről szóló 2000. évi C. törvény 155. §-a szerinti könyvvizsgálatra nem kötelezett, és
 
-(2a) Ha a legfőbb szerv vagy az egyéni cég tagja az egyszerűsített végelszámolás megszüntetését és a cég működésének folytatását határozta el, a cég a határozat meghozatalától számított nyolc napon belül köteles erről a Cégközlönyben közleményt közzétenni. A közleményben meg kell jelölni a végelszámolás megszüntetésének időpontját, valamint azt a tényt, hogy a végelszámolás megszüntetésére a cég működésének továbbfolytatásával kerül sor.
+b) végelszámolása kezdő időpontjától számított százötven napon belül a végelszámolást befejezi.
 
-(3) A végelszámoló egyszerűsített végelszámolás helyett a végelszámolásra vonatkozó általános szabályok szerint jár el, ha
+(2) Egyszerűsített végelszámolás esetén végelszámoló választására nem kerül sor, a végelszámolót terhelő feladatokat a cég vezető tisztségviselői látják el.
 
-a) a végelszámolás során valamely hitelező igényét vitatja, illetve
+(3) A cég az egyszerűsített végelszámolásának megindítását az adójogi szabályoknak megfelelően jelenti be az állami adó- és vámhatósághoz (e cím alkalmazásában a továbbiakban: adóhatóság). A cégbíróság az adóhatóság elektronikus értesítése alapján automatikusan jegyzi be a cégjegyzékbe a cégnévnek (rövidített névnek) végelszámolásra utaló toldattal való módosítását és az egyszerűsített végelszámolás kezdő időpontját.
 
-b) a vitatott igénye miatt a hitelező a cég ellen peres eljárást indít, vagy
+(4) A cégbíróság az adóhatóság értesítését követően automatikus intézkedéssel a Cégközlönyben közleményt tesz közzé az egyszerűsített végelszámolás megindításáról, amely tartalmazza a 102. § (2) bekezdés a) és c) pontjában meghatározott tartalmi elemeket, az egyszerűsített végelszámolás kezdő időpontját, és azt a tényt, hogy a cég egyszerűsített végelszámolás lefolytatásáról határozott.
 
-c) az egyszerűsített végelszámolás lefolytatására előírt határidő az eljárás folyamatban léte alatt lejárt. Az áttérés időpontja a kérelem benyújtásának napja.
-
-(4) Nincs helye a végelszámolás egyszerűsített módon történő befejezésének, ha végelszámolási kifogással kapcsolatos eljárás van folyamatban.
-
-(5) A (3) bekezdés c) pontjában foglaltak szerint kell eljárni akkor is, ha az egyszerűsített végelszámolás alatt előreláthatóvá válik, hogy az egyszerűsített végelszámolás befejezése határidőben nem történhet meg.
-
-(6) A (3)–(5) bekezdésben foglalt szabályok megszegése esetében kényszertörlésnek van helye.
+(5) Az egyszerűsített végelszámolásra e címben foglalt eltérésekkel a 99–113. § rendelkezéseit megfelelően alkalmazni kell.

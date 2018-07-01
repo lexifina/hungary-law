@@ -1,0 +1,5 @@
+131/J. § (1) E törvénynek a közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljárások egyszerűsítésével összefüggő törvények módosításáról szóló 2017. évi CLXXXVI. törvénnyel (a továbbiakban: Módtv4.) megállapított 30. § (4) bekezdését és 50. § (6) és (7) bekezdését a rendelkezések hatálybalépését követően benyújtott változásbejegyzési kérelmekre kell alkalmazni.
+
+(2) E törvénynek a Módtv4. rendelkezésével megállapított 64/A. §-ának szabályait a rendelkezés hatálybalépését követően benyújtott kijavítási kérelmekre kell alkalmazni. A Módtv4. rendelkezésével megállapított 64/A. § (4) bekezdésében meghatározott intézkedést a cégbíróság kijavítási kérelemre indult, a rendelkezések hatálybalépésének napján már folyamatban lévő nemperes eljárásban is alkalmazhatja, ha az eljárás adatai alapján megállapítható, hogy a bejegyzés céljából továbbított adat hibás.
+
+(3) E törvénynek a Módtv4. rendelkezésével megállapított 114–115/A. §-át a rendelkezések hatálybalépését követően az adóhatósághoz bejelentett egyszerűsített végelszámolásra kell alkalmazni.

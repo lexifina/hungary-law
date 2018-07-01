@@ -46,7 +46,7 @@ v) azt a tényt, ha a cég tagja, képviseletére jogosult személy eltiltás ha
 
 z) azt a tényt, hogy a cég tagja e jogállását bizalmi vagyonkezelőként szerezte meg.
 
-(2) A cégbíróság az adóhatóság elektronikus értesítése alapján, hivatalból jegyzi be a cég közösségi adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
+(2) A cégbíróság az adóhatóság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be a cég közösségi adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
 
 (3) A cégbíróság az (1) bekezdés p) pontjában meghatározott adatot – az elismert vállalatcsoport uralkodó tagjának a vállalatcsoport létrehozására vonatkozó bejelentése alapján – hivatalból jegyzi be a többi érintett cég (ellenőrzött társaság) cégjegyzékébe.
 

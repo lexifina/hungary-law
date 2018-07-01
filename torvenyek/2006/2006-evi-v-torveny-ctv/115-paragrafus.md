@@ -1,11 +1,5 @@
-115. § (1) A 114. § (3)–(5) bekezdésében meghatározott esetben a végelszámoló a változásbejegyzési kérelméhez – ha a közzététel már megtörtént – köteles csatolni a végelszámolási közlemény megjelenését igazoló okiratot. Ebben az esetben a cégbíróság a változásbejegyzési végzésében hitelezői felhívást már nem tesz közzé, de a bírósági közleményben utal arra, hogy a végelszámolás egyszerűsített módon indult meg, és a korábban megjelent közlemény megjelenési időpontját is feltünteti. Ha az áttérés olyan időben történt meg, amikor a végelszámoló még nem tett közzé közleményt, akkor a végelszámoló bejelentése alapján a cégbíróság végzésében kerül sor a hitelezői felhívásra.
+115. § (1) Ha a legfőbb szerv vagy az egyéni cég tagja az egyszerűsített végelszámolás megszüntetését és a cég működésének folytatását határozta el, a cég a határozat meghozatalától számított nyolc napon belül köteles ezt az adóhatóságnak bejelenteni, amelyről az adóhatóság a cégbíróságot elektronikus úton értesíti. A cégbíróság az egyszerűsített végelszámolás megszűnésének időpontját, és a cégnévből (rövidített névből) a végelszámolásra utaló toldat törlését – az adóhatóság értesítése alapján – automatikus végzéssel jegyzi be a cégjegyzékbe.
 
-(2) A hitelezők igénybejelentésére, a követelések jegyzékének elkészítésére vonatkozó és egyéb, a végelszámolási hirdetményhez kapcsolódó határidők számítása és kötelezettségek teljesítése áttérés esetén is – ha volt ilyen – a végelszámoló által közzétett közlemény megjelenési időpontjához kötődik.
+(2) Az egyszerűsített végelszámolás befejezését a cég – az egyszerűsített végelszámolás lefolytatására nyitva álló határidő alatt – az adóhatóságnak jelentheti be, amelyről az adóhatóság elektronikus úton értesíti a cégbíróságot. Az adóhatóság a cég bejelentésétől számított harminc napon belül elektronikus úton értesíti a cégbíróságot, ha a cég törlésének adóigazgatási és társadalombiztosítási szempontból akadálya nincs. A cég az adóhatósági bejelentéssel egyidejűleg köteles elektronikus úton, az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon megküldeni a cégbíróság részére a 111. § (1) bekezdése szerint elfogadott vagyonfelosztási javaslatot, továbbá a 111. § (3) bekezdésében megjelölt határozatot. A vagyonfelosztási javaslat és a 111. § (3) bekezdésében megjelölt határozat kizárólag a jogszabályban meghatározott iratminta megfelelő kitöltésével készíthető el.
 
-## VIII/A. Fejezet
-
-## KÉNYSZERTÖRLÉSI ELJÁRÁS
-
-1. CÍM
-
-A KÉNYSZERTÖRLÉS ELRENDELÉSE
+(3) A (2) bekezdésben foglalt értesítés és a cég általi iratbenyújtás megtörténte esetén a cégbíróság – a végelszámolás szabályszerű befejezése esetén – törli a céget a cégjegyzékből.

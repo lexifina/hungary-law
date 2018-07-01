@@ -1,6 +1,6 @@
-109. § (1) A végelszámoló jogszabálysértő intézkedése vagy mulasztása miatt a sérelmet szenvedett fél a végelszámoló eljárásának időtartama alatt a tudomásszerzéstől számított nyolc napon belül, de legfeljebb az intézkedéstől vagy a mulasztás bekövetkezésétől számított hatvan napon belül a cégbíróságnál végelszámolási kifogással élhet.
+109. § (1) A végelszámoló jogszabálysértő intézkedése vagy mulasztása miatt a sérelmet szenvedett fél a végelszámoló eljárásának időtartama alatt a tudomásszerzéstől számított harminc napon belül, de legfeljebb az intézkedéstől vagy a mulasztás bekövetkezésétől számított hatvan napon belül a cégbíróságnál végelszámolási kifogással élhet.
 
-(2) Végelszámolási kifogásnak van helye akkor is, ha a végelszámoló a cég bármely hitelezőjének kérésére a hitelezői igénybejelentés határidejének lejártától számított harminc napon belül nem ad tájékoztatást arról, hogy követelését elismeri-e, illetve, hogy a kifizetés mikorra várható.
+(2) Végelszámolási kifogásnak van helye akkor is, ha a végelszámoló a cég bármely hitelezőjének kérésére a hitelezői igénybejelentés határidejének lejártától számított hatvan napon belül nem ad tájékoztatást arról, hogy követelését elismeri-e, illetve, hogy a kifizetés mikorra várható.
 
 (3) A cégbíróság a végelszámolási kifogás felől – a végelszámoló észrevételének beszerzését követően – soron kívül határoz. Ha a kifogás elbírálása során a felek meghallgatása vagy bizonyítás felvétele szükséges, a cégbíróság a kifogásolt intézkedés végrehajtásának felfüggesztését is elrendelheti.
 

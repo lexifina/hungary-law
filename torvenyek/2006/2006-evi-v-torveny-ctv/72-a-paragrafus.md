@@ -8,4 +8,4 @@
 
 (5) Ha a kérelmező vagy a cég, amellyel szemben a törvényességi felügyeleti eljárás folyik, jogi képviselővel jár el, kérelmét kizárólag elektronikus úton nyújthatja be. A jogi képviselő eljárására a 36. § (2) bekezdése és a 37. § megfelelően irányadó.
 
-(6) A 77. § (1) bekezdés a) és b) pontja szerinti kérelmező elektronikus kapcsolattartása során a kérelmet elektronikus bélyegzőjével és időbélyegzővel is elláthatja, egyéb esetben a kérelmet minősített elektronikus aláírással és időbélyegzővel kell ellátni.
+(6) A 77. § (1) bekezdés a) és b) pontja szerinti kérelmező elektronikus kapcsolattartásra kötelezett, amelynek során a kérelmet elektronikus bélyegzőjével és időbélyegzővel is elláthatja, egyéb esetben a kérelmet minősített elektronikus aláírással és időbélyegzővel kell ellátni.

@@ -1,0 +1,3 @@
+131/K. § (1) A cégbíróság a Módtv4. hatálybalépését követő hat hónapon belül a cégjegyzékbe bejegyzett természetes személyek adatainak ellenőrzése, kapcsolati kód képzése és a bűnügyi nyilvántartási rendszerből történő adatigényléshez szükséges adatok beszerzése céljából adatot igényel a természetes személyek nyilvántartásából.
+
+(2) Az e § szerinti adatigénylésre automatikusan, az erre a célra létrehozott elektronikus rendszer útján kerül sor. Az informatikai rendszer – a természetes személy cégjegyzékből való törlésének időpontjáig – tárolja a természetes személyek nyilvántartása által szolgáltatott, a cégjegyzék adattartalmát meghaladó természetes személyazonosító adatokat és a kapcsolati kódot.

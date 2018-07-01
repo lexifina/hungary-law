@@ -2,7 +2,7 @@
 
 (2) Ingyenes céginformációként a céginformációs szolgálat honlapján keresztül ismerhető meg valamely jogi személy vagy egyéb szervezet cégtulajdonosi minőségére, képviseleti jogosultságára vonatkozó vagy természetes személy tekintetében arra vonatkozó adat, hogy mely cégeknél lát el vezető tisztséget vagy felügyelőbizottsági tagságot.
 
-(3) A céginformációs szolgálat a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő cégadatokról.
+(3)
 
 (4)–(5)
 

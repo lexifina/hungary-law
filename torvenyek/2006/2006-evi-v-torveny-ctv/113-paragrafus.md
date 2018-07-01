@@ -2,4 +2,4 @@
 
 6. CÍM
 
-Az egyszerűsített végelszámolás
+AZ EGYSZERŰSÍTETT VÉGELSZÁMOLÁS

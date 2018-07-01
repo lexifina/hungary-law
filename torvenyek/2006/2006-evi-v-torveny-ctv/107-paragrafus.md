@@ -1,3 +1,1 @@
-107. § (1) A végelszámoló a cég korábbi tisztségviselője által készített, a tevékenységet lezáró, a számviteli törvény szerinti beszámoló mérlegének adataiból végelszámolási nyitó mérleget készít, majd a hitelezők igénybejelentésére nyitva álló határidő elteltét követően – legfeljebb hetvenöt napon belül – a hitelezői követelések jegyzékéből kiindulva – szükség szerint – korrigálja a végelszámolási nyitó mérleget (korrigált végelszámolási nyitó mérleget készít), amelyet a cég legfőbb szerve elé terjeszt.
-
-(2) A végelszámoló a korrigált végelszámolási nyitó mérleg összeállítása előtt a kárelhárítás körében felmerülő és más halaszthatatlanul szükséges, valamint a 104. § (2) bekezdésében foglaltakra tekintettel a működés fenntartásával kapcsolatos költségek kivételével kifizetést nem teljesíthet.
+### 107. §

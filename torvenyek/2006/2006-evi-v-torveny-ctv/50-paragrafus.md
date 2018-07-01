@@ -14,6 +14,10 @@
 
 (5) Változásbejegyzési kérelem esetén – törvény eltérő rendelkezése hiányában – a kérelem benyújtásának határideje a változás bekövetkezésétől számított harminc nap.
 
+(6) Ha e törvény rendelkezése alapján a cég jogosult az érintett adat változásának időpontját meghatározni, akkor a kérelem már a változás bekövetkezte előtt benyújtható, azonban a kérelem benyújtásának napja ebben az esetben sem lehet korábbi, mint a változásról hozott döntés napja, és – e törvény eltérő rendelkezése hiányában – legfeljebb harminc nappal előzheti meg az adat kérelemben megjelölt változásának időpontját.
+
+(7) Ha e törvény rendelkezései alapján a cégadat változásának időpontja a bejegyzés napját követő időpont, nem nyújtható be olyan változásbejegyzési kérelem, amely a cégadatot a változás időpontjának bekövetkezte előtti időponttal úgy kéri törölni a cégjegyzékből, hogy az mint törölt adat se legyen megismerhető.
+
 11. CÍM
 
 A létesítő okirat módosítása

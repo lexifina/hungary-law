@@ -1,8 +1,8 @@
 106. § (1) A cég hitelezői a követeléseiket a végelszámolás megindításának közzétételét követő negyven napon belül jelenthetik be a végelszámolónak. A bejelentés akkor is szükséges, ha a céggel szemben a követeléssel kapcsolatban hatósági vagy bírósági eljárás van folyamatban. A bejelentés elmulasztása vagy késedelmes teljesítése nem jár jogvesztéssel, de a zárómérleg és a vagyonfelosztási határozat elfogadását követően hitelezői igényt már csak a megszűnt cég tartozásaiért történő helytállásra vonatkozó szabályok szerint lehet érvényesíteni.
 
-(2) A végelszámoló a hitelezői igénybejelentési határidő elteltét követő tizenöt napon belül a követelésekről jegyzéket készít, ezen belül külön kimutatja az elismert és a vitatott hitelezői igényeket. A követelések jegyzékét a végelszámoló további tizenöt napon belül benyújtja a cégbírósághoz a nyilvános cégiratok közé történő elhelyezés céljából. A vitatott hitelezői igények hitelezőit a végelszámoló a követelésük ilyen minősítéséről ugyanezen időtartam alatt értesíti.
+(2) A végelszámoló a hitelezői igénybejelentési határidő elteltét követő tizenöt napon belül a követelésekről jegyzéket készít, ezen belül külön kimutatja az elismert és a vitatott hitelezői igényeket. A végelszámoló a hitelezőket a követelésük minősítéséről a hitelezői igénybejelentési határidő elteltét követő negyvenöt napon belül értesíti.
 
-(3) A cég tagja, hitelezője, illetve az, aki a jogi érdekét valószínűsíti, törvényességi felügyeleti eljárást kezdeményezhet a cégbíróságnál, ha azt észleli, hogy a végelszámoló a (2) bekezdésben megjelölt követelések jegyzékét a cégiratokhoz nem csatolta be. Ilyen esetben a bíróság a végelszámolót
+(3) A cég tagja, hitelezője, illetve az, aki a jogi érdekét valószínűsíti, törvényességi felügyeleti eljárást kezdeményezhet a cégbíróságnál, ha azt észleli, hogy a végelszámoló a (2) bekezdés szerinti kötelezettségét nem teljesítette. Ilyen esetben a bíróság a végelszámolót
 
 a) határidő tűzésével és pénzbírság terhe mellett felhívja a mulasztás pótlására, vagy ennek eredménytelensége esetén
 

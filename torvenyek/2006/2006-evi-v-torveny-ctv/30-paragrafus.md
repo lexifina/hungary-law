@@ -14,7 +14,7 @@ is fel kell tüntetni a cégjegyzékben.
 
 (3) A cégjegyzék valamennyi cégadat esetében tartalmazza a változás időpontját.
 
-(4) A cég a változásbejegyzési kérelemben meghatározhatja a 24. § (1) bekezdésének b)–e) és g)–h) pontjában, a 25. § (1) bekezdésének a)–e), h), i) és l) pontjában, továbbá n) és p)–q), s) és t) pontjában foglalt adatok változásának időpontját. A változás időpontja azonban nem lehet korábbi, mint a változás alapjául szolgáló határozat meghozatalának napja. Ennek hiányában vagy ellentmondásos okiratok esetén a változás időpontja az alapul szolgáló határozat meghozatalának a napja.
+(4) A cég a változásbejegyzési kérelemben meghatározhatja a 24. § (1) bekezdés b)–d), g) és h) pontjában, a 25. § (1) bekezdés a)–e), h), i), l), n), p), q), s) és t) pontjában foglalt adatok változásának időpontját. A változás időpontja azonban nem lehet korábbi, mint a változás alapjául szolgáló határozat meghozatalának napja. A változás időpontjának feltüntetése hiányában vagy ellentmondásos okiratok esetén az e bekezdés szerinti adatok változásának időpontja az alapul szolgáló határozat meghozatalának a napja.
 
 (5) Ha jogszabály másként nem rendelkezik és a cég bejegyzésére irányuló cégeljárásban a pénzbeli hozzájárulás befizetésének igazolására e törvény rendelkezései alapján sor kerülhet ügyvéd vagy kamarai jogtanácsos által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozattal, az ügyvezető a cég bejegyzését követő nyolc napon belül köteles a cég pénzforgalmi számláját megnyitni és a rendelkezésre bocsátott, a pénzforgalmi számla megnyitásáig a cég működése során fel nem használt pénzbeli vagyoni hozzájárulás összegét a számlára befizetni.
 
@@ -22,6 +22,6 @@ is fel kell tüntetni a cégjegyzékben.
 
 (5b) Ha a cég jegyzett tőkéjének emelése során a pénzbeli vagyoni hozzájárulás rendelkezésre bocsátására sor kerülhet a jegyzett tőke emeléséről hozott határozatban meghatározott feltételek szerint harmadik személynek történő fizetéssel is, a változásbejegyzési kérelemhez ügyvéd vagy kamarai jogtanácsos által ellenjegyzett vagy közjegyző által közokiratba foglalt vezető tisztségviselői nyilatkozatot kell csatolni a változás bejegyzéséhez szükséges pénzbeli vagyoni hozzájárulás megfizetésének megtörténtéről.
 
-(6) Az állami adóhatóság a cég adószámával, közösségi adószámával kapcsolatos elektronikus értesítését, illetve határozatát fokozott biztonságú elektronikus aláírással és időbélyegzővel köteles ellátni.
+(6)
 
 (7) A cégjegyzékben szereplő külföldi adójogi illetőségű magánszemély vagy szervezet esetén az állami adóhatósághoz történt bejelentkezés hiányában a külföldinek az illetősége szerinti állam hatósága által megállapított adóazonosító számát kell feltüntetni.

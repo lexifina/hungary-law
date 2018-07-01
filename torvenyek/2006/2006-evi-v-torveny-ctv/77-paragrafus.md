@@ -14,6 +14,8 @@ c) az kéri, akinek az eljárás lefolytatásához jogi érdeke fűződik és e 
 
 (3) A cégbíróság a kérelmet visszautasítja, ha a kérelem nem felel meg az (1) bekezdésben foglalt feltételeknek.
 
+(3a) Nincs helye törvényességi felügyeleti eljárás kezdeményezésének, ha a cég felszámolási vagy kényszertörlési eljárás alatt áll; ezekben az esetekben a cégbíróság a kérelmet elutasítja. Ha a törvényességi felügyeleti eljárás alatt a cég felszámolás alá kerül, vagy más törvényességi felügyeleti eljárásban a cégbíróság vele szemben kényszertörlési eljárás megindítását jogerősen elrendeli, a törvényességi felügyeleti eljárást meg kell szüntetni azzal, hogy az eljárás megszüntetésével egyidejűleg a 81. § (1) bekezdés b) pontja szerinti intézkedés alkalmazására még sor kerülhet.
+
 (4) Az eljárás során a kérelmező a kérelmét bármikor visszavonhatja. Ilyen esetben az eljárást meg kell szüntetni. Az eljárás során felmerült költségeket a Pp. általános szabályai szerint a kérelmező viseli. Az eljárás megszüntetésére fogalmazó vagy bírósági ügyintéző is önállóan, önálló aláírási joggal jogosult.
 
 (5) A (4) bekezdésben meghatározott esetben, illetve ha a kérelem visszautasítására került sor, a cégbíróság az eljárást hivatalból megindíthatja, ha a törvényességi felügyeleti eljárásnak hivatalból is helye van.

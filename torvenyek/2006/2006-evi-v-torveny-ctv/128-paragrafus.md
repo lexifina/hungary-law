@@ -22,11 +22,11 @@ j) a számviteli szabályozásért felelős miniszterrel egyetértésben a szám
 
 k) az államháztartásért felelős miniszterrel egyetértésben a céginformációs szolgálattal kapcsolatos bevételek beszedésére
 
-l) a bűnügyi nyilvántartó szervtől történő adatigénylésre és ezzel összefüggésben a bűnügyi nyilvántartó szerv és a cégbíróság közötti kapcsolattartásra
+l) az e-közigazgatásért, az idegenrendészetért és menekültügyért, a személyiadat- és lakcímnyilvántartásért felelős miniszterrel egyetértésben a természetes személyek nyilvántartását vezető szervtől történő adatigénylésre, és ezzel összefüggésben a természetes személyek nyilvántartását vezető szerv, valamint a cégbíróság közötti kapcsolattartásra,
 
 m) a cégbejegyzési (változásbejegyzési) kérelem céginformációs szolgálat által végzett informatikai és formai szempontú vizsgálatára
 
-n) a szerződésminták alkalmazásának feltételeire, a szerződésminták tartalmi és formai követelményeire,
+n) a szerződésminták, iratminták alkalmazásának feltételeire, a szerződésminták, iratminták tartalmi és formai követelményeire,
 
 o) az EUID képzésére, külföldi cégek vagy egyéb szervezetek EUID-jának adatkezelésére, a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül továbbított adatszolgáltatásért fizetendő költségtérítésre, a fizetés módjára,
 

@@ -6,7 +6,7 @@
 
 (4) Mentesül a felelősség alól a vezető tisztségviselő, ha bizonyítja, hogy a fizetésképtelenséggel fenyegető helyzet nem a vezető tisztségviselői jogviszonya alatt vagy ügyvezetési tevékenysége miatt következett be, a fizetésképtelenséggel fenyegető helyzet bekövetkeztét követően pedig az adott helyzetben az ilyen tisztséget betöltő személytől elvárható valamennyi intézkedést megtette a hitelezői veszteségek elkerülése, csökkentése, továbbá a cég legfőbb szerve intézkedéseinek kezdeményezése érdekében.
 
-(5) Ha a vezető tisztségviselő a kényszertörlés elrendelését megelőzően vagy a kényszertörlési eljárás alatt neki felróhatóan nem tett eleget a számviteli beszámoló letétbe helyezési és közzétételi kötelezettségének, vagy – végelszámolás esetén – nem vagy nem teljeskörűen teljesítette a 98. § (3) bekezdés a), c) és d) pontja szerinti kötelezettségét, bizonyítania kell azt is, hogy a vezető tisztségviselői jogviszonya, illetve a végelszámolói tevékenysége alatt nem következett be vagyonvesztés.
+(5) Ha a vezető tisztségviselő a kényszertörlés elrendelését megelőzően vagy a kényszertörlési eljárás alatt neki felróhatóan nem tett eleget a számviteli beszámoló letétbe helyezési és közzétételi kötelezettségének, vagy – végelszámolás esetén – nem vagy nem teljeskörűen teljesítette a 98. § (3) bekezdése szerinti kötelezettségét, bizonyítania kell azt is, hogy a vezető tisztségviselői jogviszonya, illetve a végelszámolói tevékenysége alatt nem következett be vagyonvesztés.
 
 (6) Az (5) bekezdésben foglaltak irányadók akkor is, ha a kényszertörlési eljárást végelszámolás előzte meg és a végelszámoló nem tett eleget a 104. § (3) és (4) bekezdésében foglalt kötelezettségének.
 

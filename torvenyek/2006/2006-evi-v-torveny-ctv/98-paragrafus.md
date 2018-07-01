@@ -4,9 +4,9 @@
 
 (3) A végelszámolás kezdő időpontját követő harminc napon belül a cég korábbi vezető tisztségviselője
 
-a) a végelszámolás kezdő időpontját megelőző nappal a számviteli törvény alapján a cég tevékenységét lezáró beszámolót készít, elvégzi mindazon feladatokat, melyeket számára a számviteli, az adóügyi vagy egyéb jogszabályok előírnak, és ezeket az okiratokat, valamint a cég iratanyagát a végelszámolónak legkésőbb a végelszámolás kezdő időpontjától számított harmincadik napon átadja,
+a) elvégzi mindazon feladatokat, melyeket számára a számviteli, az adóügyi vagy egyéb jogszabályok előírnak, és ezeket az okiratokat, valamint a cég iratanyagát a végelszámolónak legkésőbb a végelszámolás kezdő időpontjától számított harmincadik napon átadja,
 
-b) a végelszámoló díjazása esetén a végelszámoló díjának és költségtérítésének kifizetéséhez előre láthatóan szükséges összegre tartalékot képez, és azt a pénzforgalmi számlájára befizeti, ott elkülönítetten tartja nyilván;
+b)
 
 c) a folyamatban lévő ügyekről a végelszámolót tájékoztatja,
 

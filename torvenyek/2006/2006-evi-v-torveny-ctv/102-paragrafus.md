@@ -2,7 +2,7 @@
 
 (2) A közleménynek tartalmaznia kell:
 
-a) a végelszámolás alá került cég nevét, székhelyét, adószámát, cégjegyzékszámát, ha a jogutód nélküli megszűnés elhatározását megelőző két éven belül jogutódlás következett be, a jogelőd(ök) nevét, székhelyét és cégjegyzékszámát,
+a) a végelszámolás alá került cég nevét a végelszámolásra utaló toldattal, székhelyét, adószámát, cégjegyzékszámát, ha a jogutód nélküli megszűnés elhatározását megelőző két éven belül jogutódlás következett be, a jogelőd(ök) nevét, székhelyét és cégjegyzékszámát,
 
 b) a 101. § (1) bekezdésében foglalt adatokat,
 
