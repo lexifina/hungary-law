@@ -8,7 +8,7 @@
 
 a) az adatszolgáltatás vagy közvetlen hozzáférés biztosítása;
 
-aa) folyamatban lévő nyomozás, titkos információgyűjtés vagy titkos adatszerzés érdekét sérti;
+aa) folyamatban lévő büntetőeljárás vagy titkos információgyűjtés érdekét sérti;
 
 ab) nemzetbiztonsági érdeket sért;
 

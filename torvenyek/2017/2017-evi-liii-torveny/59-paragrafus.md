@@ -12,19 +12,19 @@ d) azoknak a bejelentéseknek a számát valamint az összes pénzügyi informá
 
 e) a pénzügyi információs egység által a 49. § alapján külföldi pénzügyi információs egységnek küldött megkeresések és tájékoztatások számára és a külföldi pénzügyi információs egység megkeresésének teljesítésére vonatkozó adatokat;
 
-f) a pénzmosás, az 1978. évi IV. törvény 261. §-a szerinti terrorcselekmény, illetve a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és a terrorizmus finanszírozása (Btk. 318. §) bűncselekmények gyanúja alapján indult büntetőeljárások számát, külön feltüntetve a pénzügyi információs egység által küldött információtovábbítások alapján indított büntetőeljárások számát, valamint azon büntetőeljárások számát, amelyekben a pénzügyi információs egység által továbbított információ hasznosult, a büntetendő alapcselekmények megnevezését, valamint a nyomozás befejezésének módját;
+f) a pénzmosás, az 1978. évi IV. törvény 261. §-a szerinti terrorcselekmény, illetve a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és a terrorizmus finanszírozása (Btk. 318. §) bűncselekmények gyanúja alapján indult büntetőeljárások számát, külön feltüntetve a pénzügyi információs egység által küldött információtovábbítások alapján indított büntetőeljárások számát, valamint azon büntetőeljárások számát, amelyekben a pénzügyi információs egység által továbbított információ hasznosult, a büntetendő alapcselekmények megnevezését, valamint az eljárás befejezésének módját;
 
 g) az f) pontban meghatározott büntetőeljárásokban
 
 ga) a vádemelések és a vádlottak számát;
 
-gb) a jogerős ítéletek és a jogerősen elítéltek számát;
+gb) a jogerős ügydöntő határozatok és a jogerősen elítéltek számát;
 
 h) az f) pontban meghatározott büntetőeljárások során alkalmazott lefoglalások számát, a lefoglalt tárgy értékét, továbbá a lefoglalt vagyon forintban és euróban meghatározott értékét, a zár alá vételek számát és a zár alá vett vagyon forintban és euróban meghatározott értékét, illetve az elkobzások, a vagyonelkobzások számát, az elkobzott tárgy értékét, továbbá az elkobzott vagyon forintban és euróban meghatározott értékét, valamint a vagyonelkobzás alá vont vagyon forintban és euróban meghatározott értékét;
 
 i) az e törvény hatálya alá tartozó ágazatok méretére és gazdasági jelentőségére vonatkozó, az 5. §-ban meghatározott felügyeletet ellátó szervek által nyilvántartott adatokat.
 
-(3) A nyomozó hatóság a (2) bekezdés f) és h) pontjában, a Legfőbb Ügyészség a (2) bekezdés f) pontjában, g) pont ga) alpontjában és h) pontjában meghatározott adatot, az Országos Bírósági Hivatal a jogerős bírósági határozatoknak a (2) bekezdés c) pontjában meghatározott elrendelt zárlatok számára, az elrendelt zárlat alá vont pénzeszköz vagy gazdasági erőforrás forintban meghatározott értékére vonatkozó adatait és a (2) bekezdés g) pont gb) alpontjában meghatározott adatait, valamint az 5. §-ban meghatározott felügyeletet ellátó szerv a (2) bekezdés i) pontjában meghatározott adatokat negyedévente megküldi a pénzügyi információs egységnek. Az adatközlést a nyomozó hatóság, a Legfőbb Ügyészség, az Országos Bírósági Hivatal és az 5. §-ban meghatározott felügyeletet ellátó szerv elektronikus úton is teljesítheti.
+(3) A nyomozó hatóság a (2) bekezdés f) és h) pontjában, a Legfőbb Ügyészség a (2) bekezdés f) pontjában, g) pont ga) alpontjában és h) pontjában meghatározott adatot, az Országos Bírósági Hivatal a jogerős vagy véglegessé vált bírósági határozatoknak a (2) bekezdés c) pontjában meghatározott elrendelt zárlatok számára, az elrendelt zárlat alá vont pénzeszköz vagy gazdasági erőforrás forintban meghatározott értékére vonatkozó adatait és a (2) bekezdés g) pont gb) alpontjában meghatározott adatait, valamint az 5. §-ban meghatározott felügyeletet ellátó szerv a (2) bekezdés i) pontjában meghatározott adatokat negyedévente megküldi a pénzügyi információs egységnek. Az adatközlést a nyomozó hatóság, a Legfőbb Ügyészség, az Országos Bírósági Hivatal és az 5. §-ban meghatározott felügyeletet ellátó szerv elektronikus úton is teljesítheti.
 
 (4) A (2) bekezdés – i) pontjában meghatározott adatokat szakma szerinti bontásban kell nyilvántartani.
 

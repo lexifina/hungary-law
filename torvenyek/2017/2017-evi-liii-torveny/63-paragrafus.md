@@ -2,7 +2,7 @@
 
 63. § (1) A szolgáltató – az e törvény szerinti tevékenységének ellátásában részt vevő foglalkoztatottjai vonatkozásában – köteles a pénzmosást vagy a terrorizmus finanszírozását lehetővé tevő, illetve megvalósító üzleti kapcsolat, ügylet megakadályozása érdekében az ügyfél-átvilágítást, a bejelentés teljesítését és a nyilvántartás vezetését elősegítő belső ellenőrző és információs rendszer működtetéséről gondoskodni.
 
-(2) Az (1) bekezdésben meghatározott rendszernek biztosítania kell, hogy a szolgáltató teljeskörűen és gyorsan teljesíthesse a pénzügyi információs egységtől, az 5. §-ban meghatározott felügyeletet ellátó szervtől vagy bűnüldöző szervektől érkező megkereséseket.
+(2) Az (1) bekezdésben meghatározott rendszernek biztosítania kell, hogy a szolgáltató teljeskörűen és gyorsan teljesíthesse a pénzügyi információs egységtől, az 5. §-ban meghatározott felügyeletet ellátó szervtől vagy bűnmegelőzési, bűnüldözési feladatot ellátó szervektől érkező megkereséseket vagy adatkéréseket.
 
 (3) Az (1) bekezdésben előírt belső ellenőrzési és információs rendszer ezenfelül kiterjed a szolgáltató vezetője, foglalkoztatottja és segítő családtagja által az e törvény rendelkezéseinek a szolgáltató általi megsértése esetén küldhető értesítés teljesítése érdekében – a szolgáltató típusára és méretére tekintettel – kialakított és névtelenséget biztosító belső rendszer működtetésére is.
 
