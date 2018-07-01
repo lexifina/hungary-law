@@ -1,12 +1,18 @@
-1. § (1)[^1]
+1. § (1)[^2]
 
-(2)[^2]
+(2) Az R. 3. § (4) bekezdése a következő t) ponttal egészül ki:
+
+[A Kormány]
+
+## „t) az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 34. §-ában foglaltak”
+
+## [tekintetében fogyasztóvédelmi hatóságként a megyeszékhely szerinti járási hivatalt jelöli ki.]
 
 (3)[^3]
 
-(4)[^4]
+(4) Az R. 8. § (1) bekezdése a következő g) ponttal egészül ki:
 
-[^1]: Az 1. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. § (2) bekezdése a 3. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+[E rendelet]
+
+[^2]: Az 1. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: Az 1. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. § (4) bekezdése a 3. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
