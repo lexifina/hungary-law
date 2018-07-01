@@ -6,7 +6,7 @@
 
 2. egyéni vállalkozó: a személyi jövedelemadóról szóló törvény szerint egyéni vállalkozónak minősülő természetes személy (az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni vállalkozói nyilvántartásban szereplő természetes személy akkor is, ha a nyilvántartásban rögzített tevékenysége ingatlan-bérbeadás vagy egyéb szálláshely-szolgáltatás), valamint a gyógyszerészeti magántevékenységet, falugondnoki tevékenységet, tanyagondnoki tevékenységet végző természetes személy, a szociális szolgáltató tevékenység folytatásához szükséges engedéllyel rendelkező természetes személy;
 
-3. Fogvatartott: az őrizetbe vett, házi őrizetbe rendelt, előzetesen letartóztatott, elzárásra utalt, szabadságvesztés vagy elzárás büntetést töltő személy, a kényszergyógykezelés, ideiglenes kényszergyógykezelés alatt álló személy;
+3. fogvatartott: akinek őrizetét rendelték el; az a személy, aki olyan bűnügyi felügyelet alatt áll, amelynek során a bíróság előírta számára, hogy lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el; a letartóztatott; az elzárást, a szabadságvesztést töltő személy; valamint a kényszergyógykezelés vagy előzetes kényszergyógykezelés alatt álló személy;
 
 4. harmadik állam: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben ilyenként meghatározott állam;
 
