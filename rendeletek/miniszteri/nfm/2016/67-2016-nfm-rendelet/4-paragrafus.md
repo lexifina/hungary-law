@@ -6,8 +6,8 @@
 
 (4) Amennyiben a termelő nem tudja a 4. mellékletben foglalt földgáz mennyiséget az adott időszakban az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkből átadni, a más forrásból származó, nem hatósági áron átadott földgázmennyiség árának megfizetéséből származó többletköltséget a Hivatal az árszabályozás során a negyedévet követő negyedik negyedév végéig ugyanezen forrás árában figyelembe veszi.
 
-(5)[^8] A hazai termelésű földgáz legalacsonyabb súlyozott éves átlagárára vonatkozó, a GET 141/I. § (7) bekezdése szerinti előírással összhangban, a hazai termelésű földgáz átlagárában kizárólag a (4) bekezdés szerinti jogcímen keletkező, valamint a hazai termelés árában részben vagy egészben finanszírozott, a termelés fenntarthatóságát célzó beruházások elmaradása esetén a már finanszírozott beruházási költség, mint többletköltség számolható el veszteségként.
+(5)[^9] A hazai termelésű földgáz legalacsonyabb súlyozott éves átlagárára vonatkozó, a GET 141/I. § (7) bekezdése szerinti előírással összhangban, a hazai termelésű földgáz átlagárában kizárólag a (4) bekezdés szerinti jogcímen keletkező, valamint a hazai termelés árában részben vagy egészben finanszírozott, a termelés fenntarthatóságát célzó beruházások elmaradása esetén a már finanszírozott beruházási költség, mint többletköltség számolható el veszteségként.
 
 (6) A (4) bekezdés szerinti többletköltség Hivatal által elismert mértékéről, valamint a veszteség-elszámolásnak az érintett elszámolási időszakokban jelentkező számszakilag bemutatott adatairól a Hivatal tájékoztatja a termelőt és a volt közüzemi nagykereskedőt.
 
-[^8]: A 4. § (5) bekezdése a 7/2017. (III. 30.) NFM rendelet 7. §-a szerint módosított szöveg.
+[^9]: A 4. § (5) bekezdése a 7/2017. (III. 30.) NFM rendelet 7. §-a szerint módosított szöveg.

@@ -1,3 +1,3 @@
-1. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^22]
+1. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^23]
 
-[^22]: Az 1. melléklet a 8/2018. (III. 28.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^23]: Az 1. melléklet a 3/2018. (VI. 29.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.

@@ -4,6 +4,6 @@
 
 (3) Ha az e § alapján átvett földgázforrás árán az egyetemes szolgáltatónak vagy a volt közüzemi nagykereskedőnek többlete vagy vesztesége keletkezik, annak indokolt mértékét az árszabályozás során a Hivatal a negyedévet követő nyolcadik negyedév végéig figyelembe veszi.
 
-(4)[^18] A Hivatal az árszabályozással összefüggésben az energiapolitikáért felelős miniszter kérésére e rendelet tárgyi hatálya alá tartozó árszabályozással összefüggő részletes adatokat szolgáltat.
+(4)[^19] A Hivatal az árszabályozással összefüggésben az energiapolitikáért felelős miniszter kérésére e rendelet tárgyi hatálya alá tartozó árszabályozással összefüggő részletes adatokat szolgáltat.
 
-[^18]: A 10. § (4) bekezdését a 38/2017. (IX. 29.) NFM rendelet 10. §-a iktatta be.
+[^19]: A 10. § (4) bekezdését a 38/2017. (IX. 29.) NFM rendelet 10. §-a iktatta be.

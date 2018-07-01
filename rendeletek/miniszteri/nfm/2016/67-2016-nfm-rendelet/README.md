@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-67-20-2
 | 2018-01-01 | 2016-67-20-2W.7 | 59/2017. (XII. 29.) NFM rendelet |
 | 2018-03-31 | 2016-67-20-2W.8 | 8/2018. (III. 28.) NFM rendelet |
 | 2018-04-01 | 2016-67-20-2W.9 | 8/2018. (III. 28.) NFM rendelet |
+| 2018-07-01 | 2016-67-20-2W.10 | 3/2018. (VI. 29.) ITM rendelet |

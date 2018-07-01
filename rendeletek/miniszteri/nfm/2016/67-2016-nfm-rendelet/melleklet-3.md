@@ -1,4 +1,4 @@
-3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^24]
+3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^25]
 
 ## A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mértékének meghatározásakor figyelembe vett elismert fajlagos földgázár
 
@@ -28,19 +28,21 @@ Elismert ár = (QFedezett * PFedezett import ár + QHazai termelés_tervezett * 
 
 3. Elismert ár meghatározása kitárolási hónapban (kivéve december hónapot):
 
-3.1. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és az aktuális kitárolási ciklusból az eddig eltelt kitárolási hónapokra és a tárgyhónapra vonatkozó Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import <= QHidegre elkülönített tárolói készlet, akkor
+3.1. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) <= QHidegre elkülönített tárolói készlet, akkor
 
 Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár + QTervezett import * PAktuális import ár + (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) * PFedezett tárolói ár + CEGY) / QTény
 
-3.2. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és az aktuális kitárolási ciklusból az eddig eltelt kitárolási hónapokra vonatkozó Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) >= QHidegre elkülönített tárolói készlet, akkor
+3.2. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és QHidegre elkülönített tárolói készlet = 0, akkor
 
-Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár + (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett) * PAktuális import ár + CEGY) / QTény
+Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár + (QTény –
 
-3.3. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és az aktuális kitárolási ciklusból az eddig eltelt kitárolási hónapokra vonatkozó Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) < QHidegre elkülönített tárolói készlet, de az aktuális kitárolási ciklusból az eddig eltelt kitárolási hónapokra és a tárgyhónapra vonatkozó Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) > QHidegre elkülönített tárolói készlet, akkor
+QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett) * PAktuális import ár + CEGY) / QTény
 
-Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár + (QHidegre elkülönített tárolói készlet – Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import)) * PFedezett tárolói ár + (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – (QHidegre elkülönített tárolói készlet – Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import))) * PAktuális import ár + CEGY) / QTény,
+3.3. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) > QHidegre_elkülönített tárolói készlet, de QHidegre_elkülönített tárolói készlet > 0, akkor
 
-ahol Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) az aktuális kitárolási ciklusból az eddig eltelt kitárolási hónapokra vonatkozó összeg
+Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár +
+
+QHidegre_elkülönített tárolói készlet * PFedezett tárolói ár + (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QHidegre_elkülönített tárolói készlet) * PAktuális import ár + CEGY) / QTény,
 
 3.4. Ha QTény < (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és QTény > (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett), akkor
 
@@ -56,19 +58,27 @@ Elismert ár = (QHazai termelés_tervezett * PHazai termelés + (QTény – QHaz
 
 4. Elismert ár meghatározása december hónapban:
 
-4.1. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és az aktuális kitárolási ciklusból az eddig eltelt kitárolási hónapokra és a tárgyhónapra vonatkozó Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) <= QHidegre elkülönített tárolói készlet, akkor
+4.1. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és (QTény – QHazai termelés_tervezett –
 
-Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár + QTervezett import * PAktuális import ár + (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) * PFedezett tárolói ár + Σ((QHazai termelés_negyedéves tény – QHazai termelés_negyedéves tervezett) * (PHazai termelés_negyedéves átlag – PAktuális import ár_negyedéves átlag)) – (MtMt – MtMt-1) + CEGY) / QTény
+QAllokált tárolói fedezés – QFedezett – QTervezett import) <= QHidegre elkülönített tárolói készlet, akkor
 
-4.2. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és az aktuális kitárolási ciklusból az eddig eltelt kitárolási hónapokra vonatkozó Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) >= QHidegre elkülönített tárolói készlet, akkor
+4.2. Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár +
 
-Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár + (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett) * PAktuális import ár + Σ((QHazai termelés_negyedéves tény – QHazai termelés_negyedéves tervezett) * (PHazai termelés_negyedéves átlag – PAktuális import ár_negyedéves átlag)) – (MtMt – MtMt-1) + CEGY) / QTény
+QTervezett import * PAktuális import ár + (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) * PFedezett tárolói ár + Σ((QHazai termelés_negyedéves tény – QHazai termelés_negyedéves tervezett) * (PHazai termelés_negyedéves átlag – PAktuális import ár_negyedéves átlag)) – (MtMt – MtMt-1) + CEGY) / QTény
 
-4.3. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és az aktuális kitárolási ciklusból az eddig eltelt kitárolási hónapokra vonatkozó Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) < QHidegre elkülönített tárolói készlet, de az aktuális kitárolási ciklusból az eddig eltelt kitárolási hónapokra és a tárgyhónapra vonatkozó Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) > QHidegre elkülönített tárolói készlet, akkor
+Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és QHidegre elkülönített tárolói készlet = 0, akkor
 
-Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár + (QHidegre elkülönített tárolói készlet – Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import)) * PFedezett tárolói ár + (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – (QHidegre elkülönített tárolói készlet – Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import))) * PAktuális import ár + Σ((QHazai termelés_negyedéves tény – QHazai termelés_negyedéves tervezett) * (PHazai termelés_negyedéves átlag – PAktuális import ár_negyedéves átlag)) – (MtMt – MtMt-1) + CEGY) / QTény,
+Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár + (QTény –
 
-ahol Σ(QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) az aktuális kitárolási ciklusból az eddig eltelt kitárolási hónapokra vonatkozó összeg
+QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett) * PAktuális import ár + Σ((QHazai termelés_negyedéves tény – QHazai termelés_negyedéves tervezett) * (PHazai termelés_negyedéves átlag – PAktuális import ár_negyedéves átlag)) – (MtMt – MtMt-1) + CEGY) / QTény
+
+4.3. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és (QTény – QHazai termelés_tervezett –
+
+QAllokált tárolói fedezés – QFedezett – QTervezett import) > QHidegre elkülönített tárolói készlet, de QHidegre elkülönített tárolói készlet > 0, akkor
+
+Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár +
+
+QHidegre elkülönített tárolói készlet * PFedezett tárolói ár + (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QHidegre elkülönített tárolói készlet) * PAktuális import ár + Σ((QHazai termelés_negyedéves tény – QHazai termelés_negyedéves tervezett) * (PHazai termelés_negyedéves átlag – PAktuális import ár_negyedéves átlag)) – (MtMt – MtMt-1) + CEGY) / QTény
 
 4.4. Ha QTény < (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és QTény > (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett), akkor
 
@@ -112,7 +122,7 @@ CEGY_ESZ = min (QNOM – QALL , QALL * 0,05) * (PAktuális import ár – Pme + 
 
 6.7. QTárolói fedezés (tárolói fedezett mennyiség): a betárolási időszak egyes hónapjaiban a volt közüzemi nagykereskedő által fedezett mennyiség (QFedezett), valamint a hazai termelésből beszerzett tervezett havi mennyiség (QHazai termelés_tervezett) összegének és a tény értékesített mennyiségnek (QTény) a különbsége, amennyiben ez pozitív;
 
-6.8. QNyitókészlet: 2018. április 1-jén a volt közüzemi nagykereskedő által megadott, a tárolóban fizikailag bennlevő földgázkészlet kWh-ban. A 2018-os naptári évet követő betárolási időszakok kezdetén értéke megegyezik a hidegre elkülönített tárolói készlet (QHidegre elkülönített tárolói készlet) tárgyév március 31-i maradványkészlet mennyiségével;
+6.8. QNyitókészlet: 2018. április 1-jén a volt közüzemi nagykereskedő által megadott, a tárolóban fizikailag bennlevő földgázkészlet kWh-ban. A 2018-as naptári évet követő betárolási időszakok kezdetén értéke megegyezik a hidegre elkülönített tárolói készlet mennyiségből a március 31-ére megmaradt maradványkészlettel;
 
 6.9. PNyitókészlet: 2018. április 1-jén értéke a betárolási időszakot megelőző kitárolási időszak hónapjaiban érvényes import földgáz árak (PAktuális import ár) számtani átlaga, HUF/kWh-ban kifejezve; a 2018-as naptári évet követő betárolási időszakok kezdetén értéke a betárolási időszakot közvetlen megelőző kitárolási időszakban érvényes tárolói földgáz fedezett ára HUF/kWh-ban kifejezve (PFedezett tárolói ár);
 
@@ -152,11 +162,11 @@ CEGY_ESZ = min (QNOM – QALL , QALL * 0,05) * (PAktuális import ár – Pme + 
 
 6.18.1. nem kevesebb, mint a betárolási időszak végi egyetemes szolgáltatási célú fizikai készlet (QTárolói_ténykészlet), akkor:
 
-PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) * EURHUFFedezett tároló / 1000 + fk * EURHUF / 1000 + QNyitókészlet * PNyitókészlet) / (ΣQTárolói fedezés + QNyitókészlet),
+PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) * EURHUFFedezett tároló / 1000 + fk * ΣQTárolói fedezés * EURHUF / 1000 + QNyitókészlet * PNyitókészlet) / (ΣQTárolói fedezés + QNyitókészlet),
 
 6.18.2. kevesebb, mint a betárolási időszak végi egyetemes szolgáltatási célú fizikai készlet (QTárolói_ténykészlet), akkor:
 
-PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) * EURHUFFedezett tároló / 1000 + fk * EURHUF / 1000 + QNyitókészlet * PNyitókészlet + (QTárolói_ténykészlet – ΣQTárolói fedezés – QNyitókészlet) * (fgSNem_fedezett_tároló + sp) * EURHUFNem_fedezett_tároló / 1000) / QTárolói_ténykészlet.
+PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) * EURHUFFedezett tároló / 1000 + fk * ΣQTárolói fedezés * EURHUF / 1000 + QNyitókészlet * PNyitókészlet + (QTárolói_ténykészlet – ΣQTárolói fedezés – QNyitókészlet) * (fgSNem_fedezett_tároló + sp) * EURHUFNem_fedezett_tároló / 1000) / QTárolói_ténykészlet
 
 6.18.3. Ahol:
 
@@ -200,8 +210,10 @@ PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) *
 
 6.31. QTárolói_ténykészlet: a betárolási időszak végi egyetemes szolgáltatási célú fizikai készlet;
 
-6.32. QHidegre elkülönített tárolói készlet (hidegre elkülönített tárolói készlet mennyisége): azon kitárolási hónapokban felhasználásra kerülő tárolói készlet, mely tárgyhónapok tény értékesített mennyisége (QTény) nagyobb az adott tárgyhónapra vonatkozó tervezett értékesítési mennyiségnél (QTerv); értéke: QHidegre elkülönített tárolói készlet = QTárolói_ténykészlet – QProfilozott tárolói összmennyiség, de legalább 0];
+6.32. QHidegre_elkülönített tárolói készlet (hidegre elkülönített tárolói készlet maradvány mennyisége): a betárolási időszak végi egyetemes szolgáltatási célú fizikai készlet (QTárolói_ténykészlet), és a felprofilozott tárolói készlet (QProfilozott tárolói összmennyiség) pozitív különbségéből az adott hónapig fel nem használt mennyiség;
 
 6.33. QTervezett import (tervezett import mennyiség): a kitárolási hónapokban a volt közüzemi nagykereskedő által, az egyetemes szolgáltató ellátása céljából az adott tárgyhónapra a fedezett mennyiségeken (QFedezett) felül importálni tervezett, a kitárolási időszakot megelőzően meghatározandó mennyiség; értéke tárgyhónapban: QTervezett import = QTerv – QHazai termelés_tervezett – Qallokált tárolói fedezés – QFedezett, de legalább 0.
 
-[^24]: A 3. melléklet a 38/2017. (IX. 29.) NFM rendelet 11. § (3) bekezdésével megállapított, a 8/2018. (III. 28.) NFM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+6.34. ΣQTárolói fedezés: a havi tárolói fedezett mennyiségek összege;
+
+[^25]: A 3. melléklet a 38/2017. (IX. 29.) NFM rendelet 11. § (3) bekezdésével megállapított, a 8/2018. (III. 28.) NFM rendelet 7. § (3) bekezdése, a 3/2018. (VI. 29.) ITM rendelet 2. § (3) bekezdése szerint módosított szöveg.
