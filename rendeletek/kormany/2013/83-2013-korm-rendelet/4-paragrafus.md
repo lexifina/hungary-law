@@ -1,6 +1,6 @@
 ## 2. A Rendszerváltás Történetét Kutató Intézet és Archívum feladatai
 
-4. § (1)[^4] Az Intézet a közösségi emlékezet, a reális, jól megalapozott nemzeti történelmi tudat kialakulásának támogatása és a nemzeti összetartozás erősítése érdekében a következő feladatokat látja el:
+4. § (1)[^5] Az Intézet a közösségi emlékezet, a reális, jól megalapozott nemzeti történelmi tudat kialakulásának támogatása és a nemzeti összetartozás erősítése érdekében a következő feladatokat látja el:
 
 a) feltárja és számba veszi a rendszerváltás eszmei, politikai és történelmi előzményeit;
 
@@ -16,11 +16,11 @@ f) elemzéseket készít a rendszerváltás hatásairól, továbbá megvizsgálj
 
 g) a Kormány által normatív határozatban meghatározott egyéb, a rendszerváltás történetének kutatása körébe tartozó feladatot végez;
 
-h)[^5] felkutatja, összegyűjti és gondoskodik a rendszerváltás történetének és a hozzá kapcsolódó korszakoknak az a)–f) ponthoz kapcsolódó forrásainak, különös értékű magániratainak megőrzéséről.
+h)[^6] felkutatja, összegyűjti és gondoskodik a rendszerváltás történetének és a hozzá kapcsolódó korszakoknak az a)–f) ponthoz kapcsolódó forrásainak, különös értékű magániratainak megőrzéséről.
 
 (2) Az Intézet tevékenységét nemzeti működési körben látja el.
 
 (3) Az Intézet főigazgatója feladatkörében meghatározott célból, feladatkörében eljárva az állami szervektől, szervezetektől adatokat, információkat, elemzéseket kérhet, a kapcsolódó dokumentumokba – a vonatkozó jogszabályi rendelkezéseknek megfelelően – betekinthet, azokról másolatot kérhet.
 
-[^4]: A 4. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 726. § b) pontjával megállapított szöveg.
-[^5]: A 4. § (1) bekezdés h) pontját a 221/2014. (IX. 4.) Korm. rendelet 725. §-a iktatta be.
+[^5]: A 4. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 726. § b) pontjával megállapított szöveg.
+[^6]: A 4. § (1) bekezdés h) pontját a 221/2014. (IX. 4.) Korm. rendelet 725. §-a iktatta be.
