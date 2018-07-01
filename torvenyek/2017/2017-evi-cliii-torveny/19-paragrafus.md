@@ -10,7 +10,7 @@
 
 (5) Nyugszik a tartozás végrehajtásához való jog elévülése a végrehajtási eljárás felfüggesztésének, illetve a 16. § (1) bekezdés c), d) és e) pontja szerinti szünetelésének, az adós vagyonának egészére elrendelt bűnügyi zárlatnak, továbbá törvényben biztosított fizetési kedvezménynek vagy feltételhez kötött adómentességnek az időtartama alatt. Az 52. § (5) bekezdés szerinti jelzálogjog bejegyzése az elévülés nyugvása szempontjából a végrehajtási eljárás felfüggesztésével esik egy tekintet alá.
 
-(6) Az adó végrehajtásához való jog elévülése az Art. szerint az adómegállapításhoz való jog elévülésének meghosszabbodását eredményező bűncselekmények miatt indult büntetőeljárás esetében a büntetőeljárás kezdő időpontjától annak jogerős befejezéséig nyugszik.
+(6) Az adó végrehajtásához való jog elévülése az Art. szerint az adómegállapításhoz való jog elévülésének meghosszabbodását eredményező bűncselekmények miatt indult büntetőeljárás esetében a büntetőeljárás kezdő időpontjától a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig nyugszik.
 
 (7) Ha a gazdálkodó szervezet, a polgári jogi társaság adótartozásának a tag (részvényes), vezető tisztségviselő által történő megfizetésére kötelezését meg kell előznie a korlátlan felelősség megállapítása iránti polgári peres eljárásnak, a polgári peres eljárás kezdő időpontjától annak jogerős befejezéséig nyugszik a végrehajtáshoz való jog elévülése.
 
