@@ -16,7 +16,7 @@ bc) olyan bűntett miatt, amelyet bűnszervezet keretében követett el,
 
 elítélték, és a (4) bekezdésben meghatározott időtartam még nem telt el;
 
-c) aki ellen kétévi vagy ennél hosszabb tartamú szabadságvesztéssel fenyegetett szándékos bűncselekmény elkövetésének gyanúja miatt büntetőeljárás folyik, a büntetőeljárás jogerős befejezéséig.
+c) aki kétévi vagy ennél hosszabb tartamú szabadságvesztéssel fenyegetett szándékos bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 (4) Nem lehet fegyveres biztonsági őr, akivel szemben a (3) bekezdés b) pontjában meghatározott
 
@@ -48,4 +48,4 @@ a) az ellenőrzés befejezéséig kezelheti, az ellenőrzést követően az adat
 
 b) ha a fegyveres biztonsági őr hatósági szolgálati igazolványának visszavonására eljárást indított, az eljárás jogerős befejezéséig kezelheti.
 
-(9) Ha a fegyveres biztonsági őrrel szemben szándékos bűncselekmény miatt büntetőeljárás indul, a rendőrség a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet vezetőjénél kezdeményezheti a fegyveres biztonsági őr szolgálatellátás alóli ideiglenes – a büntetőeljárás jogerős befejezéséig tartó – felfüggesztését.
+(9) Ha a fegyveres biztonsági őrrel szemben szándékos bűncselekmény miatt büntetőeljárás indul, a rendőrség a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet vezetőjénél kezdeményezheti a fegyveres biztonsági őr szolgálatellátás alóli ideiglenes – a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig tartó – felfüggesztését.
