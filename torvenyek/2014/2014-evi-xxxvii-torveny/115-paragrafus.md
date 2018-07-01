@@ -68,11 +68,11 @@ ac) a rendőrségről szóló törvényben meghatározott terrorizmust elhárít
 
 b) az eljárás alapját képező ügyre vonatkozóan a feladatkörében eljáró
 
-ba) nyomozó hatósággal, ügyészséggel szemben a folyamatban lévő büntetőeljárás, valamint a feljelentés kiegészítése keretében,
+ba) nyomozó hatósággal, ügyészséggel és banktitok, értékpapírtitok, fizetési titok esetén az előkészítő eljárást folytató szervvel szemben,
 
 bb) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal szemben,
 
-bc) a törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel szemben.
+bc) a törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel szemben.
 
 (6) E törvény vonatkozásában titoknak minősül a banktitok, az értékpapírtitok, fizetési titok és az üzleti titok.
 
