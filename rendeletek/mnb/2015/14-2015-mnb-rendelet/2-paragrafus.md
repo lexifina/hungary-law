@@ -4,7 +4,7 @@ a) alapítása engedélyezésére irányuló – a tevékenység megkezdéséhez
 
 b) egyesülése, szétválása, átalakítása engedélyezésére irányuló eljárásért 700 000 forint
 
-## az igazgatási szolgáltatási díj.
+az igazgatási szolgáltatási díj.
 
 (2) Pénzügyi vállalkozásban történő befolyásoló részesedésszerzés engedélyezésére irányuló eljárásért – a (3) bekezdésben foglaltak kivételével – az igazgatási szolgáltatási díj 400 000 forint.
 

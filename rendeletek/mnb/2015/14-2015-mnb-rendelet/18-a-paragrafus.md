@@ -1,4 +1,4 @@
-18/A. §[^2] (1) A zárt végű befektetési alapok befektetési jegyeinek kivételével a sorozatban kibocsátott értékpapír szabályozott piacra történő bevezetésére vagy multilaterális kereskedési rendszerbe történő regisztrálására irányuló eljárásért az igazgatási szolgáltatási díj 1 100 000 forint.
+18/A. §[^16] (1)[^17] A zárt végű befektetési alapok befektetési jegyeinek kivételével a sorozatban kibocsátott értékpapír forgalomba hozatalához, illetve szabályozott piacra történő bevezetésére vagy multilaterális kereskedési rendszerbe történő regisztrálásához szükséges tájékoztató vagy alaptájékoztató és hirdetmény közzétételének engedélyezésére irányuló eljárásért az igazgatási szolgáltatási díj 1 100 000 forint.
 
 (2) A sorozatban kibocsátott értékpapír nyilvános forgalomba hozatalával kapcsolatos tájékoztatási kötelezettség megszüntetésére irányuló eljárásért az igazgatási szolgáltatási díj 50 000 forint.
 
@@ -12,4 +12,7 @@ b) kezelési szabályzatának jóváhagyására irányuló eljárásért befekte
 
 c) kezelési szabályzata módosításának engedélyezésére irányuló eljárásért befektetési alaponként 50 000 forint
 
-[^2]: A 18/A. §-t a 2/2016. (I. 29.) MNB rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 6. §-át.
+az igazgatási szolgáltatási díj.
+
+[^16]: A 18/A. §-t a 2/2016. (I. 29.) MNB rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 6. §-át.
+[^17]: A 18/A. § (1) bekezdése a 18/2018. (V. 31.) MNB rendelet 7. §-ával megállapított szöveg.

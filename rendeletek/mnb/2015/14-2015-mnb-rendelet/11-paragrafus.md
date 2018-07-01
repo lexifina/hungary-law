@@ -7,3 +7,5 @@ b) egyesülése, szétválása engedélyezésére irányuló eljárásért 300 0
 c) szabályzatának jóváhagyására irányuló eljárásban szabályzatonként 200 000 forint,
 
 d) szabályzata módosításának jóváhagyására irányuló eljárásban szabályzatonként 200 000 forint
+
+az igazgatási szolgáltatási díj.

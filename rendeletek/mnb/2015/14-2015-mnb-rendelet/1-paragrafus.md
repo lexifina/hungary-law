@@ -10,7 +10,7 @@ d) szabályzatának jóváhagyására irányuló eljárásban szabályzatonként
 
 e) szabályzata módosításának jóváhagyására irányuló eljárásban szabályzatonként 100 000 forint
 
-## az igazgatási szolgáltatási díj.
+az igazgatási szolgáltatási díj.
 
 (2) Bankban és szakosított hitelintézetben történő befolyásoló részesedésszerzés engedélyezése iránti eljárásért – a (3) bekezdésben foglaltak kivételével – az igazgatási szolgáltatási díj 500 000 forint.
 
@@ -28,7 +28,7 @@ d) szabályzata jóváhagyására irányuló eljárásban szabályzatonként 200
 
 e) szabályzata módosításának jóváhagyására irányuló eljárásban szabályzatonként 100 000 forint
 
-## az igazgatási szolgáltatási díj.
+az igazgatási szolgáltatási díj.
 
 (5) Szövetkezeti hitelintézetben történő befolyásoló részesedésszerzés engedélyezésére irányuló eljárásért – a (6) bekezdésben foglaltak kivételével – az igazgatási szolgáltatási díj 200 000 forint.
 
@@ -48,6 +48,6 @@ c) szabályzata jóváhagyására irányuló eljárásban szabályzatonként 200
 
 d) szabályzata módosításának jóváhagyására irányuló eljárásban szabályzatonként 100 000 forint
 
-## az igazgatási szolgáltatási díj.
+az igazgatási szolgáltatási díj.
 
 (10) Külföldi székhelyű hitelintézet magyarországi bankképviseletének nyilvántartásba vételére irányuló eljárásért az igazgatási szolgáltatási díj 300 000 forint.

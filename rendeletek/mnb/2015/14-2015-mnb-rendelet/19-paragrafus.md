@@ -1,1 +1,0 @@
-## az igazgatási szolgáltatási díj.

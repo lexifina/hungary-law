@@ -6,7 +6,7 @@ b) szabályzatának jóváhagyására (engedélyezésére) irányuló eljárásb
 
 c) szabályzata módosításának jóváhagyására irányuló eljárásban szabályzatonként 100 000 forint
 
-## az igazgatási szolgáltatási díj.
+az igazgatási szolgáltatási díj.
 
 (2) Befektetési vállalkozásban történő minősített befolyásszerzés engedélyezésére irányuló eljárásért – a (3) bekezdésben foglaltak kivételével – az igazgatási szolgáltatási díj 400 000 forint.
 
