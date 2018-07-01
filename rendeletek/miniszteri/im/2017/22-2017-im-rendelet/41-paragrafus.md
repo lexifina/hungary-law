@@ -1,12 +1,12 @@
-## 39–40. §[^9]
+## 39–40. §[^10]
 
-41. § (1)[^10]
+41. § (1) A 16/2014. (XII. 19.) IM rendelet 103. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A Bv. tv. 176. § (7) és (8) bekezdése szerinti csomag az öt kg-ot is meghaladhatja.”
 
 (2)[^11]
 
-(3)[^12]
+(3) A 16/2014. (XII. 19.) IM rendelet 103. §-a a következő (7) és (8) bekezdéssel egészül ki:
 
-[^9]: A 39–40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 41. § (1) bekezdése a 47. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+[^10]: A 39–40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^11]: A 41. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 41. § (3) bekezdése a 47. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
