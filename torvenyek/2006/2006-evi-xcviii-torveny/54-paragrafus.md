@@ -14,7 +14,7 @@ vonatkozó előírásokat ismételten és súlyosan megsérti.
 
 a) fiókgyógyszertár esetén
 
-aa) a működési engedélyében megjelölt településen közforgalmú gyógyszertár kezdi meg működését,
+aa) a működési engedélyében megjelölt településen vagy településrészen közforgalmú gyógyszertár kezdi meg működését,
 
 ab) a létesítési engedélye jogerőre emelkedését követő 6 hónapon belül nem kezdte meg működését;
 

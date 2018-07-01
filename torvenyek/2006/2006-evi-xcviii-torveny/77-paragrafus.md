@@ -16,7 +16,7 @@ g) az egészségbiztosítási szerv által működtetett internetes gyógyászat
 
 h) a gyógyszertárak részére nyújtandó szolgáltatási díj folyósítására és mértékére vonatkozó részletes szabályokat,
 
-i) gyógyszertár-létesítési és működési engedélyezési eljárásra, új közforgalmú gyógyszertár létesítésére irányuló pályázat kiírására, pályázat elbírálására vonatkozó részletes szabályokat,
+i) a gyógyszertár-létesítési és működési engedélyezési eljárásra, valamint az új közforgalmú gyógyszertár létesítésére irányuló pályázat kiírására és elbírálására vonatkozó részletes szabályokat, továbbá a 49/B. § (1)–(3) bekezdése szerinti eljárás részletes szabályait,
 
 j) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható számítógépes program minősítésének eljárási szabályait,
 
