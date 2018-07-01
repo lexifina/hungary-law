@@ -30,7 +30,7 @@ m) a körözést elrendelő, a körözési eljárást lefolytató és a köröz�
 
 n) a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 
-o) a nyomozó hatóságok a bűnüldözési célú feladataik ellátásához;
+o) az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv büntetőeljárás lefolytatása érdekében;
 
 p) a közúti közlekedési nyilvántartást vezető szerv a nyilvántartási eljáráshoz;
 

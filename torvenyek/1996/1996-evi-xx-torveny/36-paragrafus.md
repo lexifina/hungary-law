@@ -18,9 +18,9 @@ g) a polgármester (főpolgármester) a népiülnök-választási eljárásban, 
 
 h) a választójoggal nem rendelkezők nyilvántartását vezető szerv a népiülnök-választási eljáráshoz a polgármesternek (főpolgármesternek) teljesített adatszolgáltatáskor;
 
-i) az idegenrendészeti szervek, a törvényben meghatározott feladataik ellátásához egymás között, valamint a nyomozó hatóság részére;
+i) az idegenrendészeti szervek, a törvényben meghatározott feladataik ellátásához egymás között, valamint a bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
 
-j) a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljárást lefolytató rendőrségi szervek egymás között, valamint a nyomozó hatóság részére;
+j) a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, a kábítószerekkel és pszichotrop anyagokkal kapcsolatos engedélyezési és nyilvántartási eljárást lefolytató rendőrségi szervek egymás között, valamint a bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
 
 k) a 32. § f) pontjában felsorolt szervek egymás között az ott meghatározott feladataik ellátásához;
 
@@ -34,7 +34,7 @@ o) a jelöltajánlást gyűjtő szerv és személy, az ajánlásoknak vagy alá�
 
 p) a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 
-r) a nyomozó hatóságok a bűnüldözési célú feladataik ellátásához;
+r) az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv büntetőeljárás lefolytatása érdekében;
 
 s) az érintett előzetes, írásbeli hozzájárulása szerint a továbbításra feljogosított adatkezelő;
 

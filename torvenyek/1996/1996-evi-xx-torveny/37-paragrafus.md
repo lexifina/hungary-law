@@ -32,6 +32,8 @@ i) a nyilvántartást vezető szervnek a bírósági peres és nemperes eljárá
 
 (1e) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – rendszeres adatátadást teljesít a közúti közlekedési nyilvántartás járműnyilvántartását vezető szervnek a személyiadat- és lakcímnyilvántartásban nyilvántartott polgár családi és utónevének, születési nevének, anyja születési, családi és utónevének, születési helyének és időpontjának, állampolgárságának, lakcímének változásáról, külföldön történő letelepedéséről, valamint az érintett elhalálozásáról.
 
+(1f) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – rendszeres adatátadást teljesít a cégbíróságnak a személyiadat- és lakcímnyilvántartásban nyilvántartott polgár családi és utónevének, születési nevének, anyja születési családi és utónevének, születési helyének és időpontjának, lakcímének változásáról, valamint az érintett elhalálozásának tényéről és időpontjáról.
+
 (2) A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:
 
 a) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervének a katonai nyilvántartásban szereplő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről, továbbá a honvédelmi kötelezettséggel érintett polgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, személyi azonosítójáról, családi állapotáról, lakóhelyéről, tartózkodási helyéről;
