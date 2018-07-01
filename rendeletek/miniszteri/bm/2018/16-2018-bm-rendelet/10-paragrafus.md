@@ -1,0 +1,1 @@
+## 9. § A felnőtt korú elzárásra ítélt személy elzárását az elzárásra ítélt személy lakcíme vagy szálláshelye szerint illetékes, a 4. mellékletben meghatározott büntetés-végrehajtási intézetben kell végrehajtani.
