@@ -1,0 +1,7 @@
+## 14. § A Korm. Rend. 12. §-a a következő (3)–(5) bekezdéssel egészül ki:
+
+## „(3) A fizetésképtelenséggel szembeni védelem terén zajló igazgatási együttműködés, valamint a különböző tagállamokban működő utazásszervezők és adott esetben utazásközvetítők felügyeletének megkönnyítése érdekében központi kapcsolattartó pont feladatait a Kormányhivatal látja el.
+
+## (4) A Kormányhivatalnak rendelkezésére kell bocsátania az összes szükséges információt a fizetésképtelenséggel szemben nyújtott védelemre vonatkozó nemzeti követelmények vonatkozásában, valamint a Magyarországon letelepedett utazásszervezők számára a fizetésképtelenséggel szembeni védelem nyújtásáért felelős biztosítókat vagy hitelintézeteket illetően. A Kormányhivatal hozzáférést biztosít a többi tagállam illetékes hatóságai számára valamennyi olyan rendelkezésre álló jegyzékhez, amely azokat az utazásszervezőket tartalmazza, akik eleget tesznek a fizetésképtelenséggel szembeni védelemre vonatkozó kötelezettségeiknek. Ezen jegyzékeket nyilvánosan – így az interneten is – elérhetővé kell tenni.
+
+## (5) A Kormányhivatal egy tagállamtól beérkező, valamely utazásszervezői tevékenységet végző fizetésképtelenségével szemben nyújtott védelemre vonatkozó megkeresést – a kérdés sürgősségének és összetettségének figyelembevételével – a lehető leghamarabb, de legkésőbb a kérelem kézhezvételétől számított tizenöt munkanapon belül megválaszolja.”
