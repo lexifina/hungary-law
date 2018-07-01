@@ -38,4 +38,4 @@ a) tisztségére méltatlanná vált,
 
 b) munkaköri feladatait egészségi okból 90 napon túl folyamatosan nem tudja ellátni.
 
-(8) Tisztségére méltatlannak kell tekinteni a főigazgatót (főigazgató-helyettest), ha a bíróság jogerős ítéletével szándékos bűncselekmény elkövetésében bűnösségét megállapította, illetőleg feladatainak neki felróható okból nem tesz eleget.
+(8) Tisztségére méltatlannak kell tekinteni a főigazgatót (főigazgató-helyettest), ha a bíróság jogerős ügydöntő határozatával szándékos bűncselekmény elkövetésében bűnösségét megállapította, illetőleg feladatainak neki felróható okból nem tesz eleget.
