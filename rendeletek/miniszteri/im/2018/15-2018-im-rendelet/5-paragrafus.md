@@ -1,0 +1,13 @@
+## 4. § Távoltartás elrendelése esetén a távoltartással érintett személyt tájékoztatni kell arról, hogy ha a terhelt a távoltartás keretében előírt magatartási szabályokat megszegi, a távoltartással érintett személy a terhelt jogsértő magatartását a rendőrség általános rendőrségi feladatok ellátására létrehozott szervénél, a vádemelés előtt az ügyészségnél vagy a nyomozó hatóságnál is, a vádemelés után a bíróságnál is bejelentheti.
+
+## 3. A bűnügyi felügyelet, illetve a távoltartás keretében előírt magatartási szabályok megtartásának ellenőrzése
+
+5. § (1) A bűnügyi felügyelet, illetve a távoltartás keretében előírt magatartási szabályok megtartásának ellenőrzését – ha e rendelet eltérően nem rendelkezik – a terhelt tényleges tartózkodási helye szerint illetékes rendőrkapitányság, vagy ha a terhelt életkörülményei vagy az előírt magatartási szabályok ezt indokolttá teszik, akkor a bíróság által a határozatában kijelölt más rendőrkapitányság (a továbbiakban: az előírt magatartási szabályok megtartásának ellenőrzését végző rendőrkapitányság) végzi, szükség esetén a magatartási szabállyal érintett más rendőrkapitányság közreműködésével.
+
+(2) A bíróság vagy az ügyészség a bűnügyi felügyelet, illetve a távoltartás elrendeléséről, meghosszabbításáról, fenntartásáról, megszűnéséről, megszüntetéséről, részleges feloldásáról, módosításáról, a terhelt számára enyhébb vagy hátrányosabb magatartási szabályok megállapításáról hozott döntéséről a határozat vagy a határozat rendelkező részének megküldésével tájékoztatja az előírt magatartási szabályok megtartásának ellenőrzését végző rendőrkapitányságot.
+
+(3) Ha a bíróság vagy az ügyészség határozata több terheltről rendelkezik, a bíróság vagy az ügyészség a határozat vagy a határozat rendelkező része megküldésével egyidejűleg tájékoztatja az előírt magatartási szabályok megtartásának ellenőrzését végző rendőrkapitányságot, hogy az ellenőrzést mely terhelt vagy terheltek tekintetében kell végrehajtania, illetve megszüntetnie.
+
+(4) Ha a bíróság vagy az ügyészség a bűnügyi felügyelet, illetve a távoltartás megszűnéséről nem hoz határozatot, akkor a büntetőeljárást folytató bíróság, ügyészség vagy nyomozó hatóság az előírt magatartási szabályok megtartásának ellenőrzését végző rendőrkapitányságot a bűnügyi felügyelet, illetve a távoltartás megszűnéséről tájékoztatja.
+
+(5) Az előírt magatartási szabályok megtartásának ellenőrzését végző rendőrkapitányságot a bűnügyi felügyelet, illetve a távoltartás elrendeléséről, meghosszabbításáról, fenntartásáról, megszűnéséről, megszüntetéséről, részleges feloldásáról, módosításáról, valamint a terhelt számára enyhébb vagy hátrányosabb magatartási szabályok megállapításáról haladéktalanul tájékoztatni kell.
