@@ -10,11 +10,11 @@ A zárjegy fekvő téglalap alakú, színe kékeszöld összhatású, kék és z
 
 1.2. Méret (választék) és alkalmazhatóság:
 
-45×12 mm: 0,5 literig
+45×12 mm: 0,5 literig (+/- 0,1 mm)
 
-80×16 mm: 0,2–1,00 liter között
+80×16 mm: 0,2-1,00 liter között (+/- 0,1mm)
 
-100×16 mm: 1,5 litertől
+100×16 mm: 1,5 litertől (+/- 0,1 mm)
 
 1.3. Technológia:
 
@@ -48,11 +48,11 @@ A zárjegy fekvő téglalap alakú, színe vörösesnarancs összhatású, rózs
 
 2.2. Méret (választék) és alkalmazhatóság:
 
-45×12 mm: 0,5 literig
+45×12 mm: 0,5 literig (+/-0,1 mm)
 
-80×16 mm: 0,2–1,00 liter között
+80×16 mm: 0,2-1,00 liter között (+/- 0,1 mm)
 
-100×16 mm: 1,5 litertől
+100×16 mm: 1,5 litertől (+/- 0,1 mm)
 
 2.3. Technológia:
 
@@ -86,7 +86,7 @@ A zárjegy fekvő téglalap alakú, színe zöldes összhatású, zöld biztons�
 
 3.2. Méret:
 
-80×16 mm
+80×16 mm ( +/- 0,1 mm)
 
 3.3. Technológia:
 
@@ -108,9 +108,19 @@ A sorszámot követő karakter.
 
 4.1. Leírása: A zárjegy téglalap alakú. A zárjegy egy sorszámot (vonalkód formájában is) tartalmaz.
 
-4.2. Mérete: 44×20 mm.
+4.2. Méret (választék):
 
-4.3. Anyaga: Speciális, kizárólag erre a célra gyártott papír.
+16x32 mm(+/-0,1 mm),
+
+12x32mm (+/- 0,1 mm),
+
+44×20 mm (+/- 0,1 mm)
+
+4.3. Anyaga: Speciális, kizárólag erre a célra gyártott papír, amely
+
+legalább 56, legfeljebb 90 g/m2 tömegű és
+
+legalább 70, legfeljebb 85µm vastag.
 
 4.4. Sorszám: Egyszer háromkarakteres és egyszer kétkarakteres betűjelből és hét számból álló sorszám (XXX0000000XX).
 
@@ -124,9 +134,9 @@ A sorszámot követő karakter.
 
 5.1. Leírása: A zárjegy két téglalap alakú füllel ellátott, fekvő ellipszis alakú, kizárólag erre a célra gyártott, egyedi arculattal és védelmi elemekkel ellátott hologramfólia. A zárjegyen a „Szivar” szöveg az ellipszis felső vonalán, az ellipszis közepén a sorszám található.
 
-5.2. Mérete: A zárjegy teljes hossza 72 mm, az ellipszis hossza 42 mm, legnagyobb szélessége 18 mm, a fül szélessége 11 mm.
+5.2. Mérete: A zárjegy teljes hossza 72 mm (+/- 0,1 mm) az ellipszis hossza 42 mm (+/-0,1 mm), legnagyobb szélessége 18 mm (+/- 0,1 mm), a fül szélessége 11 mm (+/- 0,1 mm).
 
-5.3. Anyaga: Speciális, kizárólag erre a célra gyártott öntapadós hologramfólia.
+5.3. Anyaga: Speciális, kizárólag erre a célra gyártott.
 
 5.4. Sorszám: Egyszer háromkarakteres és egyszer kétkarakteres betűjelből és hét számból álló sorszám (XXX0000000XX).
 
@@ -134,4 +144,4 @@ A sorszámot követő karakter.
 
 5.6. Csomagolási egység: 50 darab ív, ívenként 30 darab zárjegy, dobozba rakva.
 
-[^105]: A 21. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (8) bekezdésével megállapított szöveg.
+[^105]: A 21. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (8) bekezdésével megállapított és a 47/2017. (XII. 27.) NGM rendelet 12. § (4) bekezdése szerint módosított szöveg.
