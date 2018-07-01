@@ -1,1 +1,0 @@
-## 7. § A szabadságvesztés az intézet-fenntartási munkák elvégzése érdekében, a büntetés hátralévő tartamára és az elhelyezési lehetőségekre tekintettel, foglalkoztatási, illetve reintegrációs célból, valamint biztonsági és egyéb fontos okból megyei (fővárosi) büntetés-végrehajtási intézetben is végrehajtható.
