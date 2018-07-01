@@ -1,0 +1,3 @@
+12. § (1) A bírói engedélyhez kötött eszköz alkalmazásának megszüntetését követően a Nemzeti Adó- és Vámhivatal titkos információgyűjtés folytatására feljogosított szervének vezetője megvizsgálja, hogy az engedélyben szereplő személy – a NAV tv. 65/C. § (4) bekezdésére figyelemmel – a bírói engedélyhez kötött eszköz alkalmazásának tényéről tájékoztatható-e, ennek érdekében szükség esetén megkeresi az alkalmazás végrehajtásával érintett szerveket, és álláspontjuk ismeretében dönt a tájékoztatásról.
+
+(2) Az engedélyben szereplő személy tájékoztatása esetén a tájékoztatás kizárólag az alkalmazott, bírói engedélyhez kötött eszköz NAV tv. szerinti megnevezését és az érintettel szembeni alkalmazásának tényét tartalmazza.

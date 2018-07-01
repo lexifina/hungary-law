@@ -1,0 +1,3 @@
+7. § (1) Ha a bírói engedélyhez kötött eszköz alkalmazásának végrehajtásához közreműködő szerv bevonása szükséges, a Nemzeti Adó- és Vámhivatal titkos információgyűjtés folytatására feljogosított szervének vezetője – a 9. § (5) bekezdése szerinti tartalommal, az engedélyező végzés másolati példányának egyidejű csatolásával – megkeresi a közreműködő szervet (a továbbiakban: megkeresés).
+
+(2) A megkeresést két példányban kell elkészíteni, amelyek közül az egyik példány a titkos információgyűjtés iratanyagának részét képezi, a másik példányt a Nemzeti Adó- és Vámhivatal titkos információgyűjtésre feljogosított szervének vezetője megküldi a közreműködő szerv részére.
