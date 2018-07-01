@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-48-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 1996-48-00-00.28 |
 | 2017-07-01 | 2016. évi LXVIII. törvény | 1996-48-00-00.29 |
 | 2018-01-01 | 2017. évi L. törvény | 1996-48-00-00.30 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 1996-48-00-00.31 |
