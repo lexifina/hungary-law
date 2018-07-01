@@ -1,0 +1,15 @@
+## 2. § Az R. a következő 9/A. §-sal egészül ki:
+
+## „9/A. § (1) Ha az utazási csomagnak, illetve az utazási szolgáltatásegyüttesnek az utazók szállítása is részét képezi, akkor az utazásszervező, illetve az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő köteles az utazási csomagra vonatkozó szerződés, illetve az utazási szolgáltatásegyüttesre vonatkozó szerződés megkötésekor a Kertv. 6/F. § (4) bekezdésében foglalt, az utazóra mint kedvezményezett részére megkötött kötelező biztosítással rendelkezni.
+
+## (2) A kedvezményezett részére kötött biztosításnak fedezetet kell nyújtania az utazáskor, az utazási vállalkozó fizetésképtelensége miatt szükséghelyzetbe került utazók érdekében teendő intézkedések, így a hazaszállítás és a kényszerű kint tartózkodás költségeinek fedezésére.
+
+## (3) Az (1) bekezdésben meghatározott biztosítási szerződés tartalmazza azt a kikötést, hogy a biztosítás fedezetének a kárenyhítést végző biztosító általi igénybevételéről a biztosító a Kormányhivatalt két munkanapon belül írásban tájékoztatni köteles.
+
+## (4) Az (1) bekezdésben meghatározott biztosításra vonatkozó szerződés akkor felel meg e rendelet rendelkezéseinek, ha rendelkezik arról, hogy abban az esetben, ha az utazási vállalkozó nem gondoskodik a kedvezményezett hazautaztatásáról, illetve a kényszerű kint tartózkodás költségeinek fedezéséről, az ezekre vonatkozó szükséges intézkedéseket a vállalkozó helyett a biztosító megteszi. Ezen intézkedések megtétele érdekében az utazási vállalkozó köteles írásban vagy elektronikus úton a biztosító rendelkezésére bocsátani az intézkedéshez szükséges valamennyi adatot, különösen az érintett utazók azonosító adatait, az utazásukra, szálláshelyükre, elérhetőségükre vonatkozó adatokat. A kárenyhítés módjáról a biztosító dönt.
+
+## (5) A biztosító az e §-ban foglalt szerződések esetében a (2) bekezdés szerint köteles fedezetet nyújtani azzal, hogy évente helytáll a 8. § (3) bekezdésében foglalt vagyoni biztosíték legalább 10%-ának, a nem menetrendszerinti repülőjárattal (charterjárattal) történő személyszállítás esetén, legalább 20%-ának megfelelő összegben.
+
+## (6) Amennyiben az utazási vállalkozó a 10. § (3) bekezdés c) pontja szerint neki felróható okból nem bocsátja a biztosító rendelkezésére a kárenyhítéshez szükséges valamennyi adatot, a Kormányhivatal – a bírság alkalmazásának lehetőségére való figyelmeztetés mellett – 5 napos határidő megállapításával végzésben kötelezi az utazási vállalkozót a jogszabályban előírt adatszolgáltatás maradéktalan teljesítésére. A Kormányhivatal az érintett biztosítót valamennyi ilyen intézkedéséről, a külpolitikáért felelős minisztert pedig az utazók hazautaztatásával, kényszerű kint tartózkodásával kapcsolatos intézkedésekről tájékoztatja.
+
+## (7) Az utazó az utazási vállalkozó kötelezettségeinek elmulasztásából eredő igényeit közvetlenül a biztosítóval szemben érvényesítheti. A biztosítási szerződésből eredő kifogásokat a biztosító az utazóval szemben nem érvényesítheti. Ha a biztosító az utazó számára teljesített, az utazónak az utazási vállalkozóval szemben fennálló jogai a teljesítés erejéig átszállnak a biztosítóra.”

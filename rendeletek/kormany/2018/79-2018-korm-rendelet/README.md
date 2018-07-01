@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-79-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-06-30 | 2018-79-20-22.1 | 79/2018. (IV. 20.) Korm. rendelet |
+| 2018-07-01 | 2018-79-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
