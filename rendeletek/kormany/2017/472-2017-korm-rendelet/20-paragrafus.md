@@ -1,0 +1,5 @@
+20. § (1) Az utazó jogosult az utazási csomagra vonatkozó szerződésből fakadó jogait és kötelezettségeit olyan személyre átruházni, aki a szerződésben foglalt valamennyi feltételnek megfelel, feltéve, ha az utazásszervezőt erről az utazási csomag megkezdése előtt észszerű időn belül, tartós adathordozón értesíti. Az utazási csomag megkezdése előtt legalább hét nappal történő értesítést minden esetben észszerű időn belüli értesítésnek kell tekinteni.
+
+(2) Az utazási szerződésből kilépő és a szerződésbe belépő fél egyetemlegesen felel a szerződés szerinti részvételi díj, valamint a szerződés átruházásából eredő további illetékek, díjak és egyéb költségek megfizetéséért. Az utazásszervezőnek tájékoztatnia kell a szerződésből kilépő felet az átruházás tényleges költségeiről. Ezek a költségek nem lehetnek aránytalanok és nem haladhatják meg az utazásszervezőnek az utazási csomagra vonatkozó szerződés átruházásából eredő tényleges költségeit.
+
+(3) Az utazási szerződés átruházásából eredő további illetékekre, díjakra és egyéb költségekre vonatkozó bizonylatokat az utazásszervező a szerződésből kilépő fél rendelkezésére bocsátja.

@@ -1,0 +1,3 @@
+5. § (1) Az utazási szolgáltatásra vonatkozó szerződés megkötésekor előleg címén a részvételi díj legfeljebb negyven százalékának befizetése követelhető. Ettől a rendelkezéstől el lehet térni, ha a közreműködővel kötött szerződés ennél szigorúbb kötelezettséget ró az utazásszervezőre.
+
+(2) Az utazási szolgáltatásra vonatkozó szerződés alapján fizetendő teljes díj – részvételi díj, valamint a 4. § (1) bekezdés j) pontja szerinti adó, illeték és egyéb kötelező terhek – összegének megfizetését az utazásszervező, közvetítő, legkorábban az utazás megkezdése előtt harminc nappal igényelheti, kivéve, ha a közreműködővel kötött szerződés alapján ennél korábbi teljesítésre van szükség.
