@@ -1,9 +1,9 @@
-75. § (1)[^97] A bűnjelkezelő az általa őrzött jövedéki terméket vagy nem közösségi árut elkobzása esetében az értékesítés, a jogosult részére való visszaadása esetében e határozat végrehajtása érdekében a NAV-nak átadja.
+75. § (1)[^173] A bűnjelkezelő az általa őrzött jövedéki terméket vagy nem uniós árut elkobzása esetében az értékesítés, a jogosult részére való visszaadása esetében e határozat végrehajtása érdekében a NAV-nak átadja.
 
-(2)[^98] Ha a hatóság a bűnjelet vagy annak ellenértékét a jogosultnak visszaadni rendelte, azt a NAV – nem közösségi áru esetében a vámjogszabály rendelkezéseinek megfelelően – közvetlenül a jogosultnak adja ki.
+(2)[^174] Ha a hatóság a bűnjelet vagy annak ellenértékét a jogosultnak visszaadni rendelte, azt a NAV – nem uniós áru esetében a vámjogszabály rendelkezéseinek megfelelően – közvetlenül a jogosultnak adja ki.
 
-(3)[^99] Ha a hatóság a lefoglalást megszüntette, de a jövedéki termék a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény valamely rendelkezése alapján elkobzás alá esik, továbbá a jövedéki termék megsemmisítése esetében a NAV eljárására külön rendelkezések az irányadók.
+(3)[^175] Ha a hatóság a lefoglalást megszüntette, de a jövedéki adóról szóló törvény vagy az uniós vámjog végrehajtásáról szóló törvény valamely rendelkezése alapján a dolog elkobzás alá esik, továbbá a jövedéki termék vagy nem uniós áru megsemmisítése esetében a NAV eljárására külön rendelkezések az irányadók.
 
-[^97]: A 75. § (1) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (3) bekezdése, a 18/2011. (VI. 24.) KIM rendelet 8. § (1) bekezdése szerint módosított szöveg.
-[^98]: A 75. § (2) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (3) bekezdése, a 18/2011. (VI. 24.) KIM rendelet 8. § (1) bekezdése szerint módosított szöveg.
-[^99]: A 75. § (3) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (3) bekezdése, a 18/2011. (VI. 24.) KIM rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^173]: A 75. § (1) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (3) bekezdése, a 18/2011. (VI. 24.) KIM rendelet 8. § (1) bekezdése, a 17/2018. (VI. 27.) IM rendelet 44. § 40. pontja szerint módosított szöveg.
+[^174]: A 75. § (2) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (3) bekezdése, a 18/2011. (VI. 24.) KIM rendelet 8. § (1) bekezdése, a 17/2018. (VI. 27.) IM rendelet 44. § 36. pontja szerint módosított szöveg.
+[^175]: A 75. § (3) bekezdése a 17/2018. (VI. 27.) IM rendelet 40. §-ával megállapított szöveg.

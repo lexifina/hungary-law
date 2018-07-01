@@ -1,6 +1,6 @@
-## Kábítószer, kábítószer-prekurzor és új pszichoaktív anyag[^109]
+## Kábítószer, kábítószer-prekurzor és új pszichoaktív anyag[^185]
 
-78. §[^110] (1) A következő anyagok szállítása, tárolása és őrzése a jelen alcímben foglalt szabályok szerint történhet:
+78. §[^186] (1) A következő anyagok szállítása, tárolása és őrzése a jelen alcímben foglalt szabályok szerint történhet:
 
 a) a Btk. 459. § (1) bekezdés 18. pontjában meghatározott, kábítószernek minősülő anyag;
 
@@ -12,5 +12,5 @@ d) az a)–c) pontokban felsoroltak gyanúját keltő anyag, illetve készítmé
 
 (2) Az (1) bekezdés a)–d) pontjában felsorolt anyag vagy készítmény eredeti csomagolóanyaga esetében a lefoglalás általános szabályai szerint kell eljárni.
 
-[^109]: A 78. §-t megelőző alcím a 35/2013. (XII. 23.) KIM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^110]: A 78. § a 35/2013. (XII. 23.) KIM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^185]: A 78. §-t megelőző alcím a 35/2013. (XII. 23.) KIM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^186]: A 78. § a 35/2013. (XII. 23.) KIM rendelet 10. § (3) bekezdésével megállapított szöveg.

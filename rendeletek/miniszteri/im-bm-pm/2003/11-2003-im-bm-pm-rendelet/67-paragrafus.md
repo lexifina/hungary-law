@@ -1,11 +1,27 @@
 ## Elektronikus adat
 
-67. § (1)[^82] Az elektronikus úton rögzített adatot a hatóság adathordozóra történő rögzítés (átmásolás) útján foglalja le, vagy a helyszínen lefoglalt adathordozóról az adatokat szakértő vagy szaktanácsadó bevonásával menti le.
+67. §[^152] (1) Az elektronikus adat lefoglalását másolat készítésével kell végrehajtani, ha
 
-(2)[^83] Az (1) bekezdésben meghatározott lefoglaláskor az átmásolás utólag meg nem változtatható adathordozóra történhet. Az átmásolást megelőzően a lefoglalás helyszínén ellenőrizni kell, hogy a hatóság által az átmásoláshoz biztosított adathordozó adatokat nem tartalmaz. Az átmásolás során biztosítani kell azt, hogy az eredeti adatok ne változzanak meg. A hatóság a jegyzőkönyvben a rögzítésre használt adathordozó típusát, gyártási számát, illetőleg a rajta tárolt adat jellegét és tartalmát feltünteti.
+a) ha a lefoglalt dolog érintett őrizetében hagyásának feltételei fennállnak, és
 
-(3)[^84] Ha a hatóság a Be. 158/A. §-ának (4) bekezdése alapján az információs rendszer útján rögzített adat megőrzésére kötelezte az adat birtokosát, illetőleg kezelőjét, a (2) bekezdésben írtakat megfelelően alkalmazni kell.
+b) a másolat készítését követően az adat eredeti helyen való további tárolása a büntetőeljárás érdekeit nem veszélyezteti.
 
-[^82]: A 67. § (1) bekezdése a 17/2014. (XII. 19.) IM rendelet 20. §-ával megállapított szöveg.
-[^83]: A 67. § (2) bekezdése a 17/2014. (XII. 19.) IM rendelet 20. §-ával megállapított szöveg.
-[^84]: A 67. § (3) bekezdése a 35/2013. (XII. 23.) KIM rendelet 11. § 3. pontja szerint módosított szöveg.
+(2) Az elektronikus adat lefoglalását áthelyezéssel kell végrehajtani, ha az adat eredeti helyen történő további tárolása a büntetőeljárás érdekeit veszélyezteti.
+
+(3) Az (1) és a (2) bekezdés rendelkezései helyett az elektronikus adat ideiglenes hozzáférhetetlenné tétele vagy az elektronikus adat ideiglenes eltávolítása érdekében kell intézkedni, ha annak feltételei fennállnak.
+
+(4) Az elektronikus adat lefoglalását az azt tartalmazó adathordozó vagy információs rendszer teljes tartalmáról történő másolat készítésével kell végrehajtani, ha
+
+a) az (1) bekezdésben meghatározott feltételek fennállnak, és
+
+b) a bizonyítás szempontjából az adatot tartalmazó információs rendszer vagy adathordozó teljes tartalmának jelentősége van, ideértve azt is, ha a bizonyítás érdekében az információs rendszerben tárolt, előre nem meghatározható vagy jelentős mennyiségű adat átvizsgálására van szükség.
+
+(5) Az elkobzás vagy vagyonelkobzás alá eső fizetésre használt elektronikus adat lefoglalását az új Be. 315. § (2) bekezdésében meghatározott művelet elvégzésével, a fizetésre használt elektronikus adat áthelyezésével vagy az azt tartalmazó információs rendszer vagy adathordozó lefoglalásával kell végrehajtani, ha
+
+a) az adat vagyonelkobzás alá esik, és a zár alá vétel feltételei nem állnak fenn, vagy az nem lenne végrehajtható, illetve
+
+b) az adat elkobzás alá esik, és az elektronikus adat ideiglenes hozzáférhetetlenné tételének vagy az elektronikus adat ideiglenes eltávolításának a feltételei nem állnak fenn.
+
+(6) Az új Be. 315. § (2) bekezdésében meghatározott művelet elvégzése végrehajtható olyan művelettel is, amely alapján a fizetésre használt elektronikus adat értéke a bűnjelkezelő e célból rendszeresített számláján kerül jóváírásra.
+
+[^152]: A 67. § a 17/2018. (VI. 27.) IM rendelet 36. §-ával megállapított szöveg.

@@ -1,7 +1,8 @@
-36. § (1)[^53] A terhelttel szemben megállapított pénzbüntetés, vagyonelkobzás, bűnügyi költség (a továbbiakban együtt: igazságügyi követelés) vagy polgári jogi igény biztosítására a részére kiadandó bűnjelet a bíróság az ügydöntő határozatában visszatarthatja [Be. 157. § (1) bekezdés].
+36. § (1)[^108]
 
-(2) Ha a visszatartott bűnjel pénz, és meghaladja az (1) bekezdés szerinti követelést, akkor a követelés teljes kiegyenlítése után fennmaradó különbözetet utalja ki a jogosult részére a bíróság.
+(2)[^109] Ha az új Be. 323. § alapján visszatartott bűnjel pénz, és meghaladja az új Be. 323. § alapján megállapított követelést, akkor a követelés teljes kiegyenlítése után fennmaradó különbözetet utalja ki a jogosult részére a bíróság.
 
 (3) A visszatartott bűnjeltárgy értékesítése esetén a bírósági végrehajtás szabályai szerint kell eljárni.
 
-[^53]: A 36. § (1) bekezdése a 8/2010. (III. 25.) IRM–PM együttes rendelet 5. §-a szerint módosított szöveg.
+[^108]: A 36. § (1) bekezdését a 17/2018. (VI. 27.) IM rendelet 45. § 4. pontja hatályon kívül helyezte.
+[^109]: A 36. § (2) bekezdése a 17/2018. (VI. 27.) IM rendelet 44. § 23. pontja szerint módosított szöveg.

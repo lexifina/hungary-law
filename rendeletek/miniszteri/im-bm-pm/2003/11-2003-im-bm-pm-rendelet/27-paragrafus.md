@@ -1,14 +1,13 @@
-27. § (1)[^42] Ha
+27. §[^83] (1) Ha
 
-a) a hatóság azt az ügyet, amelyben bűnjelet foglaltak le, átteszi más hatósághoz, és a bűnjel kezelésére nem illetékes, vagy
+a) a hatóság az ügyet véglegessé vált, illetve további jogorvoslattal nem támadható határozattal átteszi más hatósághoz, és a bűnjel kezelésére nem jogosult, vagy
 
 b) valamely hatóság kizárása miatt az eljáró hatóság kijelölésére kerül sor,
 
-az áttételről, illetve a kijelölésről a hatóság azzal értesíti a bűnjelkezelőt, hogy az üggyel kapcsolatos bűnjelet az áttételről, illetve a kijelölésről szóló határozat jogerőre emelkedésétől számított tizenöt napon belül az illetékes, illetve a kijelölt hatósághoz szállíttassa, ha pedig a bűnjel magyar pénz, azt tizenöt napon belül utalja át. A határozat jogerőre emelkedésének időpontjáról a hatóság értesíti a bűnjelkezelőt.
+## az áttételről, illetve a kijelölésről a hatóság azzal értesíti a bűnjelkezelőt, hogy az üggyel kapcsolatos bűnjelet tizenöt napon belül az illetékes, illetve a kijelölt hatósághoz szállíttassa, ha pedig a bűnjel magyar pénz, azt tizenöt napon belül utalja át. A bíróság a véglegessé vált, a nyomozó hatóság és az ügyészség a további jogorvoslattal nem támadható, áttételről rendelkező határozatának véglegessé válása időpontjáról értesíti a bűnjelkezelőt.
 
-(2) Az (1) bekezdésben szabályozott esetben a bűnjelkezelő a nála lévő bűnjeljegyzék alapján három példányban újabb bűnjeljegyzéket állít ki és azt a bűnjellel együtt az illetékes hatósághoz továbbítja. A bűnjeljegyzéknek az átvevő hatóság bűnjelkezelője által aláírt és nyilvántartási tételszámmal ellátott egyik példánya az átvevő hatóság bűnjelkezelőjénél marad, a második példányát visszaküldi az átadó hatóság bűnjelkezelőjének, a harmadik példányt pedig az ügyirathoz csatolja.
+(2) Az (1) bekezdésben meghatározott esetben a bűnjelkezelő a nála lévő bűnjeljegyzék alapján kísérő bűnjeljegyzéket állít ki, és azt a bűnjellel együtt az illetékes hatósághoz továbbítja. Az átvevő hatóság bűnjelkezelője a kísérő bűnjeljegyzékre feljegyzi annak átvételét és a nyilvántartási tételszámot, és a kísérő bűnjeljegyzéket visszaküldi az átadó hatóság bűnjelkezelőjének, valamint annak egy papíralapú példányát vagy egy másolatát megőrzi.
 
-(3)[^43] Ha az áttett ügyben lefoglalt bűnjelet előzetesen értékesítették, illetőleg az érdekelt vagy egyes szerv őrizetében hagyták, az átadó a bűnjelre vonatkozó átvételi elismervényt (az őrzéssel kapcsolatban felvett jegyzőkönyvet, egyéb iratot) a bűnjeljegyzéknek az átvevő hatóság bűnjelkezelőjénél maradó példányához csatolja. Az átvevő hatóság bűnjelkezelője az említett iratok átvételét a bűnjeljegyzéknek az átadó hatóság bűnjelkezelője részére visszaadásra kerülő példányán elismeri.
+(3) Ha az áttett ügyben lefoglalt bűnjelet előzetesen értékesítették, illetve az érintett vagy egyes szerv őrizetében hagyták, az átadó a bűnjelre vonatkozó átvételi elismervényt, (az őrzéssel kapcsolatban felvett jegyzőkönyvet, egyéb ügyiratot) az átvevő hatóság bűnjelkezelőjéhez megküldött kísérő bűnjeljegyzékkel együtt kezeli. Az átvevő hatóság bűnjelkezelője az ügyiratok átvételét a kísérő bűnjeljegyzékre feljegyzi, és azt visszaküldi az átadó hatóság bűnjelkezelőjének, valamint annak egy papíralapú példányát vagy egy másolatát megőrzi.
 
-[^42]: A 27. § (1) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 9. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^43]: A 27. § (3) bekezdése a 47/2009. (IX. 28.) IRM–PM együttes rendelet 30. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^83]: A 27. § a 17/2018. (VI. 27.) IM rendelet 22. §-ával megállapított szöveg.

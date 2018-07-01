@@ -1,11 +1,10 @@
-## 33. §[^49] A bűnjel előzetes értékesítéséről határozó bíróság a Be. 156. § (1) bekezdésében foglalt valamely feltétel megállapítása érdekében az előzetes értékesítés elrendelése előtt szakértőt alkalmazhat, valamint – ha ez a további eljárás érdekében szükséges – az előzetes értékesítésre kerülő bűnjelről a bűnjelkezelővel színes fénykép- vagy videofelvételt, valamint részletes leírást tartalmazó jegyzőkönyvet készíttethet.
-
 ## Az előzetes értékesítésből eredő összeg
 
 ## kezelése
 
-34. § (1) A bűnjel előzetes értékesítése során befolyt összeget a bírósági bűnjelkezelői letéti számlára kell befizetni (átutalni).
+34. § (1)[^101] A bűnjel előzetes értékesítése során befolyt összeget a bűnjelkezelői letéti számlára kell befizetni (átutalni).
 
-(2) A bírósági bűnjelkezelő a bűnjel előzetes értékesítésének megtörténtét a bűnjeljegyzéken és a bűnjelnyilvántartó könyvben feljegyzi.
+(2)[^102] A bűnjelkezelő a bűnjel előzetes értékesítésének megtörténtét a bűnjeljegyzéken és a bűnjelnyilvántartó könyvben feljegyzi.
 
-[^49]: A 33. § a 17/2014. (XII. 19.) IM rendelet 15. §-ával megállapított szöveg.
+[^101]: A 34. § (1) bekezdése a 17/2018. (VI. 27.) IM rendelet 45. § 3. pontja szerint módosított szöveg.
+[^102]: A 34. § (2) bekezdése a 17/2018. (VI. 27.) IM rendelet 45. § 3. pontja szerint módosított szöveg.

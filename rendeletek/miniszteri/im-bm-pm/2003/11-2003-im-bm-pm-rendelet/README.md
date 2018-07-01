@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-11-20-0
 | 2015-11-15 | 2003-11-20-06.13 | 33/2015. (XI. 6.) IM rendelet |
 | 2017-01-01 | 2003-11-20-06.14 | 26/2016. (XII. 27.) IM rendelet |
 | 2017-04-01 | 2003-11-20-06.15 | 26/2016. (XII. 27.) IM rendelet |
+| 2018-07-01 | 2003-11-20-06.16 | 17/2018. (VI. 27.) IM rendelet |
