@@ -12,9 +12,9 @@ d) pénzbüntetés helyébe lépő szabadságvesztést töltő,
 
 e) kényszergyógykezelt,
 
-f) előzetesen letartóztatott,
+f)[^1] letartóztatott,
 
-g) ideiglenes kényszergyógykezelt,
+g)[^2] előzetes kényszergyógykezelt,
 
 h) rendbírság helyébe lépő elzárást töltő és
 
@@ -29,3 +29,6 @@ i) szabálysértési elzárást töltő
 2. konvertibilis pénznem: a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvényben meghatározott fogalom,
 
 3. külföldi fizetőeszköz: a valuta és a deviza.
+
+[^1]: Az 1. § (1) bekezdés f) pontja a 14/2018. (VI. 15.) IM rendelet 11. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés g) pontja a 14/2018. (VI. 15.) IM rendelet 11. § b) pontja szerint módosított szöveg.
