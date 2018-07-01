@@ -40,15 +40,15 @@ b) a költségvetési támogatásnak a köztartozás megfizetéséig történő 
 
 (13) Az örökös kérelmére, az örökös tájékoztatása érdekében az elhunyt adózó hagyatéki ügyében eljáró közjegyző a hagyatéki ügyben való eljárásának igazolása esetén tájékoztatást kérhet az adóhatóságtól az elhunyt adózó adóhatóságnál nyilvántartott adótartozásának vagy túlfizetésének mértékéről. Az adóhatóság a tájékoztatást a tájékoztatás kiadmányozásának napján fennálló állapotnak megfelelő adattartalommal adja meg.
 
-(14) Az adóhatóság megkeresésre tájékoztatja az adótitokról
+(14) Az adóhatóság megkeresésre vagy adatkérésre tájékoztatja az adótitokról
 
 a) a bíróságot;
 
-b) a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
+b) az ügyészséget, a nyomozó hatóságot és az előkészítő eljárást folytató szervet, ha a tájékoztatás a büntetőeljárás lefolytatása érdekében szükséges;
 
 c) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
 
-d) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szervet a törvényben meghatározott feladatai ellátása érdekében, az abban kapott felhatalmazás körében;
+d) a rendőrségről szóló törvényben és a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott titkos információgyűjtésre feljogosított szervet, ha a tájékoztatás a titkos információgyűjtés elrendelése vagy folytatása érdekében szükséges;
 
 e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, az Európai Csalás Elleni Hivatalt, az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezetet, valamint az Európai Támogatásokat Auditáló Főigazgatóságot, ha a tájékoztatás az ellenőrzéshez szükséges;
 
@@ -68,7 +68,7 @@ l) az online pénztárgép forgalmazót, valamint a mobilszolgáltatót, ha a t�
 
 m) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
 
-(15) Az állami adó- és vámhatóság tájékoztatja az állami adó- és vámhatóság nyomozó hatóságát az adótitokról a bűncselekmények megelőzése, az adott bűncselekmény felderítése és nyomozása során a bűnüldözési feladatok teljesítése érdekében, valamint a büntető eljárás megindítása vagy lefolytatása céljából.
+(15) Az állami adó- és vámhatóság tájékoztatja az állami adó- és vámhatóság nyomozó hatóságát az adótitokról a bűncselekmények megelőzése, az adott bűncselekmény felderítése és nyomozása során a bűnüldözési feladatok teljesítése érdekében, valamint a büntetőeljárás megindítása vagy lefolytatása céljából.
 
 (16) Az állami adó- és vámhatóság az államháztartásról szóló törvény felhatalmazása alapján az államháztartási szervek és a közvállalkozások közötti pénzügyi kapcsolatok átláthatóságáról, valamint az egyes vállalkozásokon belüli pénzügyi átláthatóságról szóló kormányrendeletben meghatározott adatokat, dokumentumokat az Európai Bizottságnak megküldi, illetve az Európai Bizottság rendelkezésére bocsátja.
 

@@ -22,11 +22,11 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 (5) A (4) bekezdésben foglaltakat kell alkalmazni akkor is, ha
 
-a) az elkövető azért nem büntethető, vagy büntetése korlátlanul enyhíthető, mert tartozását a vádirat benyújtásáig az adóhatóság által megjelölt számlára kiegyenlítette, és vele szemben az eljárást ez okból megszüntették, vagy
+a) az elkövető azért nem büntethető, vagy büntetése korlátlanul enyhíthető, mert tartozását a vádemelés előtt az adóhatóság által megjelölt számlára kiegyenlítette, és vele szemben az eljárást ez okból megszüntették, vagy
 
 b) az eljárást az elkövetővel szemben a Btk. 64. §-ában, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 71. §-ában meghatározott megrovás alkalmazásával szüntették meg.
 
-(6) Az adó megállapításához való jog elévülése a (4) és az (5) bekezdés szerinti büntetőeljárás esetében a büntetőeljárás kezdő időpontjától annak jogerős befejezéséig nyugszik.
+(6) Az adó megállapításához való jog elévülése a (4) és az (5) bekezdés szerinti büntetőeljárás esetében a büntetőeljárás kezdő időpontjától a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig nyugszik.
 
 (7) Az adó megállapításához való jog elévülése egy alkalommal tizenkettő hónappal meghosszabbodik, ha
 
