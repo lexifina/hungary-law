@@ -1,4 +1,4 @@
-12. §[^7] (1) A szakértői testület a tagok által elfogadott és a miniszter által jóváhagyott ügyrend szerint működik.
+12. §[^8] (1) A szakértői testület a tagok által elfogadott és a miniszter által jóváhagyott ügyrend szerint működik.
 
 (2) A jogi személy szakértői testület éves számviteli beszámolóját legkésőbb az adott üzleti év mérlegfordulónapját követő ötödik hónap utolsó napjáig kell elkészíteni és a teljes ülésnek jóváhagyni. A teljes ülés által jóváhagyott éves számviteli beszámolót az elnök írja alá.
 
@@ -6,4 +6,4 @@
 
 (4) A szakértői testület tagjainak névsorát, ügyrendjét, az éves munkáról szóló beszámolót és az éves számviteli beszámolót a miniszter a kormányzati portálon közzéteszi.
 
-[^7]: A 12. § a 35/2017. (XII. 27.) IM rendelet 8. §-ával megállapított szöveg.
+[^8]: A 12. § a 35/2017. (XII. 27.) IM rendelet 8. §-ával megállapított szöveg.

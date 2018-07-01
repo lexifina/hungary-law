@@ -1,4 +1,4 @@
-## 20. §[^14]
+## 20. §[^15]
 
 ## II. Fejezet
 
@@ -6,4 +6,4 @@
 
 ## Az Agrárgazdasági Igazságügyi Szakértői Testület
 
-[^14]: A 20. § a 35/2017. (XII. 27.) IM rendelet 11. §-a alapján hatályát vesztette.
+[^15]: A 20. § a 35/2017. (XII. 27.) IM rendelet 11. §-a alapján hatályát vesztette.

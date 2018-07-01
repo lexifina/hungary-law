@@ -2,7 +2,7 @@
 
 (2) A szakértői testületet az elnök képviseli és irányítja. Távolléte, akadályoztatása, összeférhetetlensége vagy az eseti bizottságban való részvétele esetén feladatait az elnökhelyettes látja el.
 
-(3)[^3] Az elnök
+(3)[^4] Az elnök
 
 a) összehívja és vezeti a szakértői testület teljes ülését, javaslatot tesz a napirendre és előkészíti a teljes ülés hatáskörébe tartozó döntések meghozatalát,
 
@@ -24,4 +24,4 @@ i) munkáltatói jogokat gyakorol a szakértői testület munkavállalói felett
 
 j) évente tájékoztatja a szakértői testület működéséről a minisztert.
 
-[^3]: A 7. § (3) bekezdését a 35/2017. (XII. 27.) IM rendelet 4. §-a iktatta be.
+[^4]: A 7. § (3) bekezdését a 35/2017. (XII. 27.) IM rendelet 4. §-a iktatta be.

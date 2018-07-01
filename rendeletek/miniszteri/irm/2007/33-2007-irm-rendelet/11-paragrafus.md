@@ -1,6 +1,6 @@
 ## A szakértői testület működése
 
-11. §[^6] (1) A szakértői testület évente legalább egyszer teljes ülést tart a tárgyév május 31. napjáig. A teljes ülést a szakértői testület elnöke hívja össze és vezeti.
+11. §[^7] (1) A szakértői testület évente legalább egyszer teljes ülést tart a tárgyév május 31. napjáig. A teljes ülést a szakértői testület elnöke hívja össze és vezeti.
 
 (2) A teljes ülés
 
@@ -18,4 +18,4 @@ e) ellátja az ügyrendben meghatározott egyéb feladatokat.
 
 (4) A teljes ülés a szakértői testület éves munkájáról szóló beszámoló jóváhagyására vonatkozó döntését elektronikus hírközlő eszköz útján is meghozhatja az ügyrendben részletezettek szerint. Az ügyrendben meg kell határozni az igénybe vehető elektronikus hírközlő eszközöket, valamint azok alkalmazásának feltételeit és módját akként, hogy a tagok azonosítása és a tagok közötti kölcsönös és befolyásmentes kommunikáció biztosított legyen.
 
-[^6]: A 11. § a 35/2017. (XII. 27.) IM rendelet 7. §-ával megállapított szöveg.
+[^7]: A 11. § a 35/2017. (XII. 27.) IM rendelet 7. §-ával megállapított szöveg.
