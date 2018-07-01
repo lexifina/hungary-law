@@ -1,8 +1,8 @@
-9. § (1) Ha a magánnyomozói tevékenységet folytató vállalkozás tulajdonosa, vezető tisztségviselője nyomozóhatósági jogkörrel rendelkező szervezet tagjaként teljesített szolgálatot, a szolgálati viszonya megszűnésétől számított két éven belül a vállalkozást nem ellenőrizheti a rendőrségnek az ellenőrzésre jogosult azon szerve, amelynek illetékességi területén az érintett – szolgálati viszonya megszűnéséig – szolgálatot teljesített.
+9. § (1) Ha a magánnyomozói tevékenységet folytató vállalkozás tulajdonosa, vezető tisztségviselője nyomozó hatósági jogkörrel rendelkező szervezet tagjaként teljesített szolgálatot, a szolgálati viszonya megszűnésétől számított két éven belül a vállalkozást nem ellenőrizheti a rendőrségnek az ellenőrzésre jogosult azon szerve, amelynek illetékességi területén az érintett – szolgálati viszonya megszűnéséig – szolgálatot teljesített.
 
 (2) A rendőrségnek a magánnyomozói tevékenység ellenőrzésére jogosult szerve a magánnyomozói tevékenységet végző személy (a továbbiakban: magánnyomozó) tevékenységét nem ellenőrizheti, ha
 
-a) az érintett – szolgálati viszonya megszűnésekor – a rendőri szerv illetékességi területén működő nyomozóhatósági jogkörrel rendelkező szervezet tagjaként teljesített szolgálatot vagy – munkaviszonya megszűnésekor e szervezet nem hivatásos állományú tagjaként – a rendőrségi feladatok ellátásában való közreműködés munkakörébe tartozott; és
+a) az érintett – szolgálati viszonya megszűnésekor – a rendőri szerv illetékességi területén működő nyomozó hatósági jogkörrel rendelkező szervezet tagjaként teljesített szolgálatot vagy – munkaviszonya megszűnésekor e szervezet nem hivatásos állományú tagjaként – a rendőrségi feladatok ellátásában való közreműködés munkakörébe tartozott; és
 
 b) szolgálati, illetve munkaviszonya megszűnésétől két év még nem telt el.
 

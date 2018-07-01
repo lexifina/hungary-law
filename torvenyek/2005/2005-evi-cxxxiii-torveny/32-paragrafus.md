@@ -16,6 +16,6 @@ b) alkalmi belépés esetén a távozástól számított huszonnégy óra eltelt
 
 meg kell semmisíteni.
 
-(4) A belépési adatbázis adatai csak a megbízó részére, illetve bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés alapján a nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.
+(4) A belépési adatbázis adatai csak a megbízó részére, illetve bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés vagy adatkérés alapján a bíróságnak, ügyészségnek, nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.
 
 (5) A távfelügyeleti rendszer és az adat- és informatikai védelemre irányuló elektronikai vagyonvédelmi rendszer működése körében rögzített adatok felhasználása és kezelése során a 30. § (1) bekezdésében, valamint a 31. § (2) bekezdésében foglaltak szerint kell eljárni.

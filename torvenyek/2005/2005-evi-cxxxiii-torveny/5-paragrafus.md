@@ -16,4 +16,4 @@ a) az egyéni vállalkozónak, aki, vagy annak az egyéni cégnek, illetve gazda
 
 b) az egyéni vállalkozónak, akivel, vagy annak az egyéni cégnek, illetve gazdasági társaságnak, amelynek természetes személy tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg, és
 
-c) a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ítélet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a személy- és vagyonvédelmi tevékenység gyakorlásától eltiltott.
+c) a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ügydöntő határozat a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a személy- és vagyonvédelmi tevékenység gyakorlásától eltiltott.

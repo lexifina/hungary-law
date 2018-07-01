@@ -18,7 +18,7 @@ bc) olyan bűntett miatt, amelyet bűnszervezet keretében követett el,
 
 elítéltek, és a (4) bekezdésben meghatározott időtartam még nem telt el;
 
-c) aki ellen kétévi vagy ennél hosszabb tartamú szabadságvesztéssel fenyegetett szándékos bűncselekmény elkövetésének gyanúja miatt büntetőeljárás folyik, a büntetőeljárás jogerős befejezéséig.
+c) aki kétévi vagy ennél hosszabb tartamú szabadságvesztéssel fenyegetett szándékos bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 (4) E törvény hatálya alá tartozó tevékenységet nem végezhet, akivel szemben a (3) bekezdés b) pontjában meghatározott
 
