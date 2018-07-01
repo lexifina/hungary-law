@@ -1,1 +1,3 @@
-161. §
+161. § Az Art. 31/B. § a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Az általános forgalmi adó alanya külön jogszabályban meghatározott elektronikus módon adatszolgáltatást teljesít az állami adó- és vámhatóság részére azon számlázási funkcióval rendelkező programmal kibocsátott számlák külön jogszabályban meghatározott adattartalmáról, amelyekben egy másik, belföldön nyilvántartásba vett adóalanyra áthárított adó összege a 100 000 forintot eléri vagy meghaladja. Az adóalany ezen számlákat érintő módosításról vagy érvénytelenítésről is külön jogszabályban meghatározott módon elektronikus adatszolgáltatást teljesít.”
