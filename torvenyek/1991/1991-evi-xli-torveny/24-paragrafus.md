@@ -4,7 +4,7 @@ a) a 22. § (1) bekezdés a) és c) pontjában meghatározott esetekben, valamin
 
 b) attól az időponttól kezdődően, amelytől a 17. § (1) bekezdés a) vagy b) pontjában foglalt feltételeknek már nem felel meg,
 
-c) a 17. § (3) bekezdés b), c) vagy d) pontjában meghatározott körülmény bekövetkezését megállapító bírósági ítélet jogerőre emelkedésének napjától kezdődően,
+c) a 17. § (3) bekezdés b), c) vagy d) pontjában meghatározott körülmény bekövetkezését megállapító bírósági ügydöntő határozat jogerőre emelkedésének napjától kezdődően,
 
 d) az azt követő naptól kezdődően, amelyen az összeférhetetlenség megszüntetésére irányuló kötelezettségét még – a mulasztás jogkövetkezményeinek alkalmazása nélkül – teljesíthette volna és
 

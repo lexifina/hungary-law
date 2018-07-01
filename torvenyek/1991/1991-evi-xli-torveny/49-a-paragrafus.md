@@ -86,7 +86,7 @@ a) a közjegyzőnél fennálló munkaviszonya megszűnt,
 
 b) a 17. § (1) bekezdés a) vagy b) pontjában foglalt feltételeknek már nem felel meg,
 
-c) a jogi képesítéshez kötött foglalkozás gyakorlásától a bíróság jogerős ítélettel eltiltotta,
+c) a jogi képesítéshez kötött foglalkozás gyakorlásától a bíróság jogerős ügydöntő határozattal eltiltotta,
 
 d) vele szemben a 17. § (3) bekezdés b)–d) pontjában meghatározott körülmény fennáll,
 

@@ -30,7 +30,7 @@ a) aki büntetett előéletű,
 
 b) aki jogi képesítéshez kötött foglalkozástól eltiltás hatálya alatt áll,
 
-c) akinek a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ítéletben megállapította, függetlenül attól, hogy mentesült-e az elítéléshez fűződő hátrányos jogkövetkezmények alól,
+c) akinek a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ügydöntő határozatban megállapította, függetlenül attól, hogy mentesült-e az elítéléshez fűződő hátrányos jogkövetkezmények alól,
 
 ca) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tizenkét évig,
 
