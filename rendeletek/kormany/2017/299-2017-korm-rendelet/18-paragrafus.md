@@ -24,6 +24,6 @@ d) határidőt a kereskedelmi üzem megkezdésére.
 
 (6) A prémium típusú támogatásra vonatkozó jogosultság a támogatásra meghatározott időtartam leteltével vagy a támogatásra jogosult maximális villamosenergia-mennyiség értékesítésével megszűnik.
 
-(7)[^1] Kötelező átvételi jogosultság megállapítására irányuló kérelem a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 81/2018. (IV. 20.) Korm. rendelet hatálybalépését követő 5. napig nyújtható be a Hivatal részére.
+(7)[^14] Kötelező átvételi jogosultság megállapítására irányuló kérelem a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 81/2018. (IV. 20.) Korm. rendelet hatálybalépését követő 5. napig nyújtható be a Hivatal részére.
 
-[^1]: A 18. § (7) bekezdését a 81/2018. (IV. 20.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A 18. § (7) bekezdését a 81/2018. (IV. 20.) Korm. rendelet 1. §-a iktatta be.

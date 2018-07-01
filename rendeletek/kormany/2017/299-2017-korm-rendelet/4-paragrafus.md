@@ -12,8 +12,10 @@
 
 (7) Ha az elszámolási mérés nem a közcélú csatlakozási ponton történik, a villamos energia mért mennyiségét a mérési és a csatlakozási pont közötti szakasz hatásos veszteségével korrigálni kell. E korrekciót az elszámolási ponti képletnek is tartalmaznia kell.
 
-(8) A KÁT termelő és a premizált termelő a tény mérési adatainak villamosenergia-ellátási, illetve -elosztói szabályzat szerinti korrekciója esetén köteles a módosított adatoknak megfelelően a befogadóval elszámolni.
+(8)[^4]
 
 (9) A Hivatal minden évben elvégzi a 2. mellékletben meghatározott számítást, és a honlapján a tárgyév január hónapjának 10. munkanapjáig közzéteszi a tárgyévre vonatkozóan alkalmazandó fogyasztói árindexet, az 1. melléklet szerinti árak aktuálisan alkalmazandó értékeit és az aktuálisan alkalmazandó kötelező átvételi árak időben egyenletes termelés feltételezésével számított átlagát.
 
 (10) Ha az (5) bekezdés szerinti mérés nem hitelesített mérőberendezéssel történik, akkor a kötelező átvételben értékesített villamos energia mennyiség tekintetében a 19. §-t kell alkalmazni.
+
+[^4]: A 4. § (8) bekezdését a 27. § hatályon kívül helyezte.

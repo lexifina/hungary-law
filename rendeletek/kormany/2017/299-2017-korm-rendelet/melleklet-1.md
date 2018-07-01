@@ -1,4 +1,4 @@
-## 28. §[^3]
+## 28. §[^15]
 
 1. melléklet a 299/2017. (X. 17.) Korm. rendelethez
 
@@ -30,4 +30,4 @@
 
 3. A pályázati eljárás alá nem tartozó zöld prémium típusú támogatás támogatott bázisára 31,77 Ft/kWh.
 
-[^3]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,6 +1,6 @@
 ## 4. Az áralkalmazás általános feltételei
 
-8. § (1) A fizetéseket a befogadó és a KÁT termelő vagy a premizált termelő viszonylatában a 4. § (5) bekezdése szerinti villamos energia vagy a 15. § (5) bekezdése szerinti prémium típusú támogatás vonatkozásában a villamosenergia-ellátási szabályzatokkal összhangban végzett mérések alapján, az adott elszámolási pontra meghatározott villamosenergia-mennyiségen alapuló számla vagy számviteli bizonylat, továbbá a 9. § (1) bekezdésén alapuló módosító számla vagy számviteli bizonylat és a 12. § (1)–(4) bekezdés szerinti szabályozási pótdíj esetében számviteli bizonylat alapján kell teljesíteni.
+8. § (1)[^5] A fizetéseket a befogadó és a KÁT termelő vagy a premizált termelő viszonylatában a 4. § (5) bekezdése szerinti villamos energia vagy a 15. § (5) bekezdése szerinti prémium típusú támogatás vonatkozásában a villamosenergia-ellátási szabályzatokkal összhangban végzett mérések alapján, az adott elszámolási pontra meghatározott villamosenergia-mennyiségen alapuló számla vagy számviteli bizonylat, továbbá a 9. § (1) bekezdésén alapuló módosító számla vagy számviteli bizonylat és a 12. § (1)–(3) bekezdése szerinti szabályozási pótdíj esetében számviteli bizonylat, valamint a 12. § (6) bekezdése szerinti szabályozási bónusz vonatkozásában számla alapján kell teljesíteni.
 
 (2) A jogosult köteles a számláját, illetve egyéb számviteli bizonylatát a kötelezett részére úgy benyújtani, hogy azt a kötelezett a számlában, számviteli bizonylatban feltüntetett esedékesség időpontját legalább hat munkanappal megelőzően kézhez vehesse.
 
@@ -10,4 +10,7 @@
 
 (5) Ha a jogosult és a kötelezett ugyanazon társaság részét képezi, akkor az elszámolásokat – számla helyett – a társaság számviteli szabályozása szerint kötött belső megállapodás, illetve az ennek megfelelő, mérésen alapuló belső bizonylatok alapján kell lebonyolítani.
 
-(6) A KÁT termelő a mérlegkör-tagsági szerződésben meghatározottak szerint pénzügyi biztosítékot nyújt. A pénzügyi biztosítékot a befogadó jogosult a KÁT termelő lejárt fizetési kötelezettsége kielégítése céljából lehívni.
+(6)[^6] A KÁT termelő a mérlegkör-tagsági szerződésben, a menetrend-csoport képviselő az összevont menetrendadásra vonatkozó megállapodásban meghatározottak szerint pénzügyi biztosítékot nyújt. A pénzügyi biztosítékot a befogadó jogosult a KÁT termelő vagy a menetrend-csoport képviselő lejárt fizetési kötelezettsége kielégítése céljából lehívni.
+
+[^5]: A 8. § (1) bekezdése a 23. § (1) bekezdésével megállapított szöveg.
+[^6]: A 8. § (6) bekezdése a 23. § (2) bekezdésével megállapított szöveg.

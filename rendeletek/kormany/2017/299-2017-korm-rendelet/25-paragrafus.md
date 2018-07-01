@@ -1,0 +1,5 @@
+## „(8) A KÁT termelő vagy összevont menetrend esetén a menetrend-csoport képviselő a befogadó részére havonta a tárgyhónapot követő hónap nyolcadik munkanapjától egy számlát állít ki a szabályozási bónuszról. A menetrend-csoport képviselő által kiállított számlának a közvetített szolgáltatások kapcsán tartalmaznia kell a közvetítés tényét.
+
+## (9) Ha a kiegyenlítő energia alapegységár az 5. melléklet 1. pontjában meghatározott korrekciója a szabályozási pótdíj vagy a szabályozásipótdíj-csökkentés összegét módosítja, úgy a számviteli bizonylatot kiállító fél köteles a korrekciónak megfelelően módosító számviteli bizonylatot kiállítani.
+
+## (10) A KÁT termelő vagy összevont menetrend esetén a menetrend-csoport képviselő, illetve a premizált termelő a tény mérési adatok villamosenergia-ellátási, illetve -elosztói szabályzat szerinti korrekciója esetén köteles a módosított adatoknak megfelelően az (1), (6) és (8) bekezdés szerinti számla vagy számviteli bizonylat tekintetében a befogadóval elszámolni.”
