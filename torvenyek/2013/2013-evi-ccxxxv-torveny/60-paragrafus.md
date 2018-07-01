@@ -16,11 +16,11 @@ b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a felad
 
 c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
 
-d) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését végző nyomozó hatósággal, ügyészséggel,
+d) a büntetőeljárás során az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
 
 e) a büntető-, valamint polgári ügyben, a csőd-, illetve felszámolási eljárás, továbbá a kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 
-f) a külön törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
+f) a külön törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel,
 
 g) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 
@@ -44,7 +44,7 @@ p) az eltűnt vagy az elfogatóparancs, európai elfogatóparancs, nemzetközi e
 
 q) a szociális rászorultságtól függő pénzbeli és természetbeni ellátások jogosultsági feltételeinek vizsgálatával összefüggő feladatkörében eljáró, szociális hatáskört gyakorló szervvel
 
-szemben e szerveknek a pénzforgalmi intézményhez, elektronikuspénz-kibocsátó intézményhez intézett írásbeli megkeresése esetén.
+szemben e szerveknek a pénzforgalmi intézményhez, elektronikuspénz-kibocsátó intézményhez intézett adatkérése, illetve írásbeli megkeresése esetén.
 
 (3) A fizetési titok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha az adóhatóság és a Magyar Nemzeti Bank nemzetközi szerződés, illetve együttműködési megállapodás alapján, külföldi hatóság írásbeli megkeresésének teljesítése érdekében írásban kér adatot a pénzforgalmi intézménytől, elektronikuspénz-kibocsátó intézménytől, ha a megkeresés tartalmazza a külföldi hatóság által aláírt titoktartási záradékot.
 
@@ -66,7 +66,7 @@ c) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghat
 
 (9) A fizetési titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
 
-(10) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot a nála vezetett fizetési számláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a fizetési számla vagy az ügylet
+(10) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot a nála vezetett fizetési számláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a fizetési számla vagy az ügylet
 
 a) kábítószerrel visszaéléssel (1978. évi IV. törvény 282–282/C. §), kábítószer-kereskedelemmel (Btk. 176–177. §), kábítószer birtoklásával (Btk. 178–179. §), kóros szenvedélykeltéssel (Btk. 181. §), kábítószer készítésének elősegítésével (Btk. 182. §) vagy új pszichoaktív anyaggal visszaéléssel [1978. évi IV. törvény 283/B. §, illetve Btk. 184. § (1) bekezdés b) pont],
 
@@ -91,3 +91,5 @@ van összefüggésben.
 (12) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az (1)–(3) és (7)–(10) bekezdésben foglalt esetekben az adatok kiszolgáltatását – titoktartási kötelezettségére hivatkozva – nem tagadhatja meg.
 
 (13) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a megkeresések teljesítése során köteles a minősített adat védelméről szóló törvényben és egyéb, a minősített adat kezelésére vonatkozó jogszabályokban előírt követelmények betartásával eljárni.
+
+(14) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény 262. § (3) bekezdésében meghatározottak szerinti adatkérés esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyészség engedélye nélkül is köteles az általa kezelt, fizetési titoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
