@@ -2,24 +2,22 @@
 
 15. § (1) A közvetítői eljárás azon a napon fejeződik be, amikor
 
-a) a megállapodás alapján, vagy a közvetítői eljárás megindítását megelőzően, de a megállapodásban jóváhagyott módon a terhelt a bűncselekménnyel okozott kárt a sértettnek megtérítette vagy a bűncselekmény káros következményeit egyéb módon jóvátette,
+a) a gyanúsított a bűncselekménnyel okozott kárt a sértettnek a megállapodásban jóváhagyott módon megtérítette vagy a bűncselekmény káros következményeit a megállapodásban jóváhagyott módon jóvátette,
 
-b) a terhelt a megállapodás alapján a kár megtérítését részletekben történő fizetéssel vagy egyéb módon nyújtandó jóvátétellel az első részlet tekintetében teljesítette, ha a megállapodás értelmében a teljesítés a felfüggesztés határidején belül nem fejeződhet be,
+b) a közvetítő igazolt módon tudomást szerez arról, hogy a gyanúsított a megállapodásban foglaltakat nem teljesítette,
 
-c) a terhelt a megállapodás alapján a részletekben történő fizetés vagy más módon nyújtandó jóvátétel utolsó részletét a felfüggesztés határidején belül teljesítette,
+c) a sértett vagy a gyanúsított részére küldött értesítés kézbesítésének abból eredő eredménytelenségéről szerez tudomást a közvetítő, hogy a címzett ismeretlen helyen tartózkodik,
 
-d) a sértett vagy a terhelt részére küldött idézés kézbesítésének abból eredő eredménytelenségéről szerez tudomást a közvetítő, hogy a címzett ismeretlen helyen tartózkodik,
+d) a sértett vagy a gyanúsított haláláról a közvetítő hivatalos tudomást szerez,
 
-e) a sértett vagy a terhelt haláláról a közvetítő hivatalos tudomást szerez,
+e) a sértett vagy a gyanúsított kijelenti a közvetítő előtt, hogy kéri a közvetítői eljárás befejezését,
 
-f) a sértett vagy a terhelt kijelenti a közvetítő előtt, hogy kéri a közvetítői eljárás befejezését,
+f) a sértett vagy a gyanúsított a hozzájárulását visszavonta, vagy távolmaradását e törvény értelmében a hozzájárulás visszavonásának kell tekinteni,
 
-g) a sértett vagy a terhelt a hozzájárulását visszavonta, vagy mulasztását e törvény értelmében a hozzájárulás visszavonásának kell tekinteni,
+g) a gyanúsított nyilatkozatából vagy magatartásából egyértelműen megállapítható, hogy a Be. 412. § (2) bekezdés a), b) pontjában vagy c) pont ca) alpontjában írt feltételek nem állnak fenn,
 
-h) a terhelt nyilatkozatából vagy magatartásából egyértelműen megállapítható, hogy a Be. 221/A. § (3) bekezdésének b) vagy c) pontjában írt feltételek nem állnak fenn,
+h) az első közvetítői megbeszéléstől számított három hónap eredménytelenül eltelt.
 
-i) az első közvetítői megbeszéléstől számított három hónap eredménytelenül eltelt.
+(2) A megállapodás teljesítését a közvetítő ellenőrzi.
 
-(2) A megállapodás teljesítését a közvetítői eljárásban a közvetítő, azt követően a pártfogó felügyelői szolgálat ellenőrzi.
-
-(3) Ha a terhelt nem teljesít, vagy a megállapodás a sértett magatartása miatt nem teljesíthető, az eljáró közvetítő erről tájékoztatja az ügyészt, illetve a bíróságot.
+(3) Ha a gyanúsított a megállapodásban vállalt kötelezettségeinek teljesítését megkezdte, de a közvetítői eljárás a büntetőeljárás felfüggesztésének eredeti tartama alatt nem fejezhető be, a közvetítő tájékoztatja az ügyészséget a befejezés várható idejéről.

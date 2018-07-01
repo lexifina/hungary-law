@@ -1,3 +1,3 @@
 ## A törvény hatálya
 
-1. § Ezt a törvényt azokban az ügyekben kell alkalmazni, amelyeket a büntetőeljárásról szóló 1998. évi XIX. törvény (Be.) alapján az ügyész, illetőleg a bíróság közvetítői eljárásra utalt.
+1. § Ezt a törvényt azokban az ügyekben kell alkalmazni, amelyekben a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) alapján az ügyészség a büntetőeljárást közvetítői eljárás céljából felfüggesztette.
