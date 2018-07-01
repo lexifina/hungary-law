@@ -94,7 +94,7 @@ f) Saját jogú nyugdíjas: az a természetes személy, aki
 
 3. az egyéni vagy társas vállalkozó e) pont szerinti jogállását nem érinti, ha az 1–2. alpontokban említett nyugdíj folyósítása szünetel.
 
-g) Fogvatartott: az őrizetbe vett, házi őrizetbe rendelt, előzetesen letartóztatott, elzárásra utalt, szabadságvesztés, vagy elzárás büntetést töltő személy, a kényszergyógykezelés, ideiglenes kényszergyógykezelés alatt álló személy.
+g) Fogvatartott: akinek őrizetét rendelték el; az a személy, aki olyan bűnügyi felügyelet alatt áll, amelynek során a bíróság előírta számára, hogy lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el; a letartóztatott; a szabadságvesztést, vagy elzárást töltő; valamint a kényszergyógykezelés vagy előzetes kényszergyógykezelés alatt álló személy.
 
 h) Megbízási jogviszony, munkaviszony: a magyar jog hatálya alá tartozó megbízási jogviszony és munkaviszony, továbbá a külföldi jog hatálya alá tartozó olyan megbízási jogviszony és munkaviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik.
 
