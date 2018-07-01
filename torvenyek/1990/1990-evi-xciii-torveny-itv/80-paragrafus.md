@@ -26,7 +26,9 @@ ka) a kérelem visszautasításának lett volna helye, vagy
 
 kb) az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, és törvény nem biztosít lehetőséget az eljárás felfüggesztésére;
 
-l) ha a hatóság arról rendelkezik, hogy a kérelmező ügyfél mentesül az eljárási költségek megfizetése alól.
+l) ha a hatóság arról rendelkezik, hogy a kérelmező ügyfél mentesül az eljárási költségek megfizetése alól;
+
+m) ha a magánvádas eljárásban a vád képviseletét az ügyészség átveszi, továbbá ha a bíróság a vádlott bűnösségét megállapítja vagy az eljárást büntethetőséget megszüntető okból megszünteti, illetve, ha a magánvádló a vádat legkésőbb az elsőfokú bíróság ügydöntő határozatának meghozataláig ejti.
 
 (2) Az (1) bekezdés d)—e) pontjában meghatározott esetekben a vagyoni értékű jog tényleges ideje után számított illetéket meghaladó részt kell törölni, illetve visszatéríteni.
 

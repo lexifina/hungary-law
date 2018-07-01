@@ -8,4 +8,4 @@
 
 (2) Nem tárgya a bírósági eljárási illetéknek az olyan bírósági eljárási cselekmény (szolgáltatás), amelyért a 67. §-ban említett módon megállapított díjat kell fizetni.
 
-(3) A bíróság, valamint büntető ügyben a nyomozó hatóság által készített iratmásolat illetékére — ha e törvény másként nem rendelkezik — a melléklet IV. címében foglaltak az irányadók.
+(3) A bíróság, valamint büntetőügyben az ügyészség és a nyomozó hatóság által készített másolat illetékére — ha e törvény másként nem rendelkezik — a melléklet IV. címében foglaltak az irányadók.

@@ -62,11 +62,13 @@ IV. A másolat és kivonat illetéke
 
 2. Illetékmentes az adóbevallás másolata.
 
-3. Illetékmentes a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolatának, az írásban tett feljelentés megtételét igazoló irat másolatának, továbbá a sértett részére a kihallgatásáról, valamint a sértett lakóhelyén, tartózkodási helyén, továbbá a bűncselekmény, szabálysértés helyszínén folytatott helyszíni szemléről készült jegyzőkönyv másolatának egyszeri kiadása.
+3.
 
 4. Illetékmentes az a hitelesített vagy nem hitelesített másolat, amely illetékmentes eljáráshoz szükséges.
 
 5. A már egyszer hitelesített másolatra, kivonatra vezetett olyan záradék, amely azt bizonyítja, hogy az eredeti iraton változás nem történt, vagy azt kiegészítik, 1000 forint illeték alá esik.
+
+6. Büntetőügy ügyiratáról, büntetés-végrehajtási ügyben, büntetés vagy intézkedés végrehajtása, illetve kényszerintézkedés foganatosítása során keletkezett iratról készített hitelesített vagy hitelesítetlen másolat vagy kivonat illetéke oldalanként 100 forint. Elektronikus formában rendelkezésre álló ügyirat másolatának a bíróság, ügyészség, nyomozó hatóság által biztosított optikai adathordozón történő továbbítása esetén a továbbítás illetéke optikai adathordozónként 500 forint. Elektronikus formában rendelkezésre álló ügyirat másolatának a bíróság, ügyészség, nyomozó hatóság által biztosított, optikai adathordozótól eltérő tartós adathordozón történő továbbítása esetén a továbbítás illetéke tartós adathordozónként 2000 forint.
 
 V. A fordítás illetéke
 

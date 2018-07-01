@@ -22,7 +22,7 @@ j) a találmány és a használati minta feltalálója, az újító, az ipari mi
 
 k) a lakásszövetkezetet a tagjával és a nem tag tulajdonosával, valamint a társasház közösséget a tulajdonossal szemben üzemeltetési és felújítási, illetve közös költség megtérítése iránt indított eljárásban;
 
-l) a büntetőeljárással összefüggésben az állammal szemben felmerült kártalanítási igény érvényesítése iránt indított perben;
+l) a büntetőeljárással összefüggésben az alaptalanul alkalmazott szabadságkorlátozásért járó kártalanítás iránti perben;
 
 m) az olyan kártérítési perben, amelyet a fél a per tisztességes lefolytatásához, illetve ésszerű időn belül történő befejezéséhez fűződő alapvető jogai megsértése miatt indít;
 
@@ -36,7 +36,7 @@ r)
 
 s) a választási bizottság határozatának felülvizsgálatára irányuló nemperes eljárásban,
 
-t) a szabálysértéssel okozott kár megfizetésére kötelező végrehajtási eljárásban;
+t) a bűncselekménnyel vagy szabálysértéssel okozott kár megfizetésére kötelező végrehajtási eljárásban;
 
 u) a hallgatói hitelből eredő követelés érvényesítése és behajtása iránti peres és nemperes eljárásban;
 

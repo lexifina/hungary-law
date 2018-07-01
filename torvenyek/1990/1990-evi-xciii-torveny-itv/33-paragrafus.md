@@ -114,7 +114,7 @@ d)
 
 50. a vállalkozói igazolvánnyal és az üzlet működési engedélyével kapcsolatos eljárás;
 
-51. az állandó személyazonosító igazolvány és a lakcímet igazoló hatósági igazolvány kiadására irányuló eljárás;
+51. évente egy alkalommal az állandó személyazonosító igazolvány és a lakcímet igazoló hatósági igazolvány kiadására irányuló eljárás;
 
 52. a családi állapot változásból eredő névváltozás miatt indult eljárás;
 
@@ -152,6 +152,8 @@ d)
 
 69. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti belső szabályzat jóváhagyására irányuló eljárás;
 
-71. az első sikeres nyelvvizsga és az első emelt szintű idegen nyelvből tett érettségi vizsga díjához nyújtott támogatás megállapítására irányuló hatósági eljárás.
+71. az első sikeres nyelvvizsga és az első emelt szintű idegen nyelvből tett érettségi vizsga díjához nyújtott támogatás megállapítására irányuló hatósági eljárás;
+
+72. a fiatalok „B” kategóriás közúti járművezetői engedélyének megszerzéséhez nyújtott támogatás megállapítására irányuló hatósági eljárás.
 
 (3) A 18. életévét be nem töltött személy mentesül a 29. § (1) bekezdés szerinti illeték megfizetése alól.
