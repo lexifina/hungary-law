@@ -1,0 +1,5 @@
+41. § Az Ütv. 11. alcíme a következő 41/B. §-sal egészül ki:
+
+„41/B. § (1) E törvénynek a titkos információgyűjtésre vonatkozó 2018. június 30-ig hatályban volt rendelkezéseit a folyamatban lévő titkos információgyűjtésekre 2019. január 1-ig alkalmazni kell.
+
+(2) A titkos információgyűjtés szabályainak az új büntetőeljárási törvénnyel összefüggő, továbbá a bírósági végrehajtás során a sértettnek megítélt polgári jogi követelések kielégítési sorrendjére vonatkozó rendelkezések módosításáról szóló 2017. évi XCIII. törvény hatálybalépésekor folyamatban lévő, az e törvény 2018. június 30-ig hatályban volt rendelkezései alapján végzett titkos információgyűjtés esetén a titkos információgyűjtést folytató ügyészség 2019. január 1-ig döntést hoz arról, hogy a büntetőeljárásról szóló törvény szerinti előkészítő eljárást kezdeményez-e vagy feljelentést tesz-e.”
