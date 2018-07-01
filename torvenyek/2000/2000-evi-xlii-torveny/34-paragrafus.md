@@ -12,7 +12,7 @@
 
 a) büntetett előéletű,
 
-b) büntetlen előéletű, de akinek büntetőjogi felelősségét a bíróság jogerős ítéletében megállapította
+b) büntetlen előéletű, de akinek büntetőjogi felelősségét a bíróság jogerős ügydöntő határozatában megállapította
 
 ba) a 2011. december 31-ig hatályban volt csempészet,
 
@@ -24,7 +24,7 @@ bd) olyan bűntett miatt, amelyet bűnszervezet keretében követett el,
 
 szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig, szándékos bűncselekmény miatt kiszabott foglalkozástól eltiltás vagy járművezetéstől eltiltás végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított öt évig, gondatlan bűncselekmény miatt kiszabott foglalkozástól eltiltás vagy járművezetéstől eltiltás végrehajtása befejezésétől vagy végrehajthatóságának megszűnésétől számított három évig,
 
-c) aki bűntett vagy háromévi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll,
+c) aki bűntett vagy háromévi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség miatt büntetőeljárás hatálya alatt áll,
 
 d) vízi jármű vezetésétől eltiltás hatálya alatt áll.
 
