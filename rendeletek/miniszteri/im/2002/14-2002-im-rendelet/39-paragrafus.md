@@ -2,7 +2,7 @@
 
 39. § (1) Befejezett az az ügy, amelyben a bíróság ügydöntő határozatot hozott.
 
-(2)[^66] Az (1) bekezdésben említett ügyön kívül befejezett az az ügy is (befejezettként kezelendő ügy), amelyben:
+(2)[^84] Az (1) bekezdésben említett ügyön kívül befejezett az az ügy is (befejezettként kezelendő ügy), amelyben:
 
 a) a keresetlevelet visszautasították,
 
@@ -16,7 +16,7 @@ e) megszüntették az eljárást,
 
 f) a fizetési meghagyásos eljárás iratait, illetve a keresetet tartalmazó iratot a közjegyző felhívása szerinti bíróságnak küldik meg,
 
-g) tárgyalás mellőzésével hoztak büntetést kiszabó vagy intézkedést alkalmazó végzést,
+g)[^85]
 
 h) más ügyhöz való egyesítésről rendelkeztek,
 
@@ -30,6 +30,8 @@ l) a közigazgatási perrendtartásról szóló törvény alapján, a tévesen a
 
 m) az eljárás elhúzódása miatt benyújtott, felterjesztett kifogást bíráltak el.
 
+(2a)[^86] Az ügy több vádlott esetén akkor kezelendő befejezettként, ha a bíróság valamennyi vádlottal szemben meghozta az (1), illetve a (2) bekezdésében meghatározott döntést.
+
 (3) A szabálysértési eljárásban befejezettként kezelendő ügy továbbá, amelyben
 
 a) a bíróság a becsületsértési ügyben érkezett panaszt, kifogással kapcsolatos igazolási kérelmet elbírálta,
@@ -42,4 +44,6 @@ d) döntött a szabálysértési hatóság előtti eljárásban jogerősen kisza
 
 e) a szabálysértési hatóság előtti eljárásban jogerősen kiszabott pénzbírságot helyettesítő elzárás elhalasztására, félbeszakítására irányuló kérelemről.
 
-[^66]: A 39. § (2) bekezdése a 20/2017. (XII. 21.) IM rendelet 8. § (12) bekezdésével megállapított szöveg.
+[^84]: A 39. § (2) bekezdése a 20/2017. (XII. 21.) IM rendelet 8. § (12) bekezdésével megállapított szöveg.
+[^85]: A 39. § (2) bekezdés g) pontját a 17/2018. (VI. 27.) IM rendelet 6. § c) pontja hatályon kívül helyezte.
+[^86]: A 39. § (2a) bekezdését a 17/2018. (VI. 27.) IM rendelet 4. § (7) bekezdése iktatta be.
