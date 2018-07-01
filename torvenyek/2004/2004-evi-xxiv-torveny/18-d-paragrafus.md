@@ -4,7 +4,7 @@ a) a vállalkozásnak, amelynek tagja, tulajdonosa, vezető tisztségviselője b
 
 b) a vállalkozásnak, amelynek tagja vagy tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg,
 
-c) a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ítélet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a robbanóanyaggal vagy pirotechnikai termékkel kapcsolatos tevékenység gyakorlásától eltiltott.
+c) a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ügydöntő határozat a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a robbanóanyaggal vagy pirotechnikai termékkel kapcsolatos tevékenység gyakorlásától eltiltott.
 
 (2) Nem foglalkoztatható pirotechnikusként, valamint nem gyakorolhat polgári célú pirotechnikai tevékenységet, továbbá nem végezheti polgári célú pirotechnikai tevékenység irányítását az, aki
 
@@ -20,7 +20,7 @@ bc) olyan bűntett miatt, amelyet bűnszervezet keretében követett el,
 
 szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított hét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított három évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított két évig,
 
-c) a b) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a büntetőeljárás jogerős befejezéséig.
+c) a b) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 (3)
 

@@ -18,7 +18,7 @@ bc) olyan bűntett miatt, amelyet bűnszervezet keretében követett el,
 
 szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított nyolc évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított öt évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltáig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított négy évig,
 
-c) a b) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a büntetőeljárás jogerős befejezéséig,
+c) a b) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll,
 
 d) szabálysértési felelősségét polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértés, lőfegyverrel kapcsolatos szabálysértés, a közbiztonságra különösen veszélyes eszközzel kapcsolatos szabálysértés, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 169. § (2) bekezdés a) pontja szerinti rendzavarás, közbiztonsági tevékenység jogosulatlan végzése, számszeríj, szigonypuska jogellenes használata, veszélyes fenyegetés vagy jogosulatlan vadászat elkövetése miatt a szabálysértési hatóság jogerősen megállapította, a határozat jogerőre emelkedését követő hat hónapig,
 

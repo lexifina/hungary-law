@@ -1,6 +1,6 @@
 6. § (1) Az 5. § (2) bekezdésében meghatározott adatok az alábbi szervezeteknek továbbíthatók:
 
-a) a bíróság, az ügyészség és a nyomozó hatóságok;
+a) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv;
 
 b) a nemzetbiztonsági szolgálatok a törvényben meghatározott feladataik ellátásához;
 
