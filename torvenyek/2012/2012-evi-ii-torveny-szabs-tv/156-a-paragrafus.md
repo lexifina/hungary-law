@@ -30,6 +30,6 @@ ge) hozzáférési jogosultságának terjedelmét és körét, keletkezésének 
 
 gf) egyedi azonosítóit.
 
-(3) Az adatkezelés jogszerűségének ellenőrzése céljából a szabálysértési nyilvántartási rendszer használatára jogosultak nyilvántartásában kezelt adatok teljes körét a szabálysértési nyilvántartó szerv, a törvényességi felügyeletet ellátó ügyész, az Alkotmányvédelmi Hivatal, valamint a nyomozó hatóság közvetlen adathozzáféréssel történő adatátvétellel jogosult átvenni.
+(3) Az adatkezelés jogszerűségének ellenőrzése céljából a szabálysértési nyilvántartási rendszer használatára jogosultak nyilvántartásában kezelt adatok teljes körét a szabálysértési nyilvántartó szerv, a törvényességi felügyeletet ellátó ügyész, az Alkotmányvédelmi Hivatal, a büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv közvetlen adathozzáféréssel történő adatátvétellel jogosult átvenni.
 
 (4) A szabálysértési nyilvántartási rendszer használatára jogosultak nyilvántartásában kezelt adatokat a jogosultság törlésétől számított öt évig kell megőrizni.

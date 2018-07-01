@@ -4,4 +4,4 @@
 
 (3) Ha a bizonyítás felvétele a tárgyaláson jelentős nehézségbe ütközne, a bíróság kiküldött bíró vagy megkeresett bíróság útján jár el.
 
-(4) Amennyiben a tárgyalás adataiból bűncselekmény elkövetésének gyanújára lehet következtetni, a bíróság az ügyet haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező ügyészséghez.
+(4) Amennyiben a tárgyalás adataiból bűncselekmény gyanújára lehet következtetni, a bíróság az ügyet haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező ügyészséghez.

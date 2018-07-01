@@ -10,7 +10,7 @@ c) a rendőrség, az e törvényben foglalt feladatai ellátása, valamint törv
 
 d) a szabálysértési hatóság, illetve a helyszíni bírság kiszabására jogosult szerv vagy személy, az állami foglalkoztatási szerv, a büntetés-végrehajtási szerv, valamint a szabálysértési szabályozásért felelős miniszter a szabálysértési méltányossági eljárás során az e törvényben foglalt feladataik ellátása céljából,
 
-e) a nyomozó hatóság, az ügyészség és a bíróság büntetőeljárás lefolytatása céljából,
+e) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából,
 
 f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés céljából, valamint
 
