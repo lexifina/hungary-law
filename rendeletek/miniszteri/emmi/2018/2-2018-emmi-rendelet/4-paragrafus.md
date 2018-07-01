@@ -1,3 +1,5 @@
-## 3. §[^2]
+## 3. § Az Nmr. 5/A. § (7) bekezdése a következő c) ponttal egészül ki:
 
-[^2]: A 3. § a 31. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+## (A Biztos Kezdet Gyerekház zárva tarthat)
+
+## „c) a foglalkoztatottaknak a Biztos Kezdet Alapképzésen való részvételének időtartama alatt.”
