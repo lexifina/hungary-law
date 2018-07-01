@@ -38,7 +38,7 @@ g)
 
 (6) A közösségi felsőoktatási képzési központ működésének felülvizsgálatára és a diákotthon működési feltételeinek felülvizsgálatára az (5) bekezdés b) pontjában foglalt határidőt kell alkalmazni.
 
-(7) Az e törvény szerinti hatósági eljárásokat az eljáró hatóság a büntetőeljárás jogerős befejezéséig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
+(7) Az e törvény szerinti hatósági eljárásokat az eljáró hatóság a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
 
 (8) Az oktatási hivatal 67. § (3) bekezdés c), e) és f) pontja szerinti eljárásában első fokon hozott döntésével szemben – kormányrendeletben meghatározott hatósághoz – fellebbezésnek van helye.
 

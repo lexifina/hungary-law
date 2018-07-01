@@ -13,11 +13,3 @@
 ## d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra vonatkozó adatai,
 
 ## e) csecsemőgondozási díj folyósításának időtartamára vonatkozó adatai,
-
-## f) gyermekgondozást segítő ellátás folyósításának időtartamára vonatkozó adatai,
-
-## g) gyermekgondozási díj folyósításának időtartamára vonatkozó adatai, a gyermeknevelésre, szülésre vonatkozó adatai,
-
-## h) a személyiadat- és lakcímnyilvántartásból való kikerülésének oka és időpontja,
-
-## i) megváltozott munkaképességre, tartós betegségre, balesetre, valamint ennek időtartamára vonatkozó adatai,
