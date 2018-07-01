@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-53-00-00
 | 2017-06-02 | 2017. évi XLIV. törvény | 1995-53-00-00.67 |
 | 2017-07-01 | 2017. évi LIV. törvény | 1995-53-00-00.68 |
 | 2018-01-01 | 2017. évi L. törvény | 1995-53-00-00.69 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 1995-53-00-00.70 |
