@@ -2,7 +2,7 @@
 
 73. § (1) A szakképesítésért felelős miniszter az ágazatába tartozó szakképesítések tekintetében meghatározza
 
-a) a szakképesítés szakmai és vizsgakövetelményeit,
+a) a szakképesítés szakmai és vizsgakövetelményeit az illetékes ágazati készségtanács véleményének kikérésével,
 
 b) a szakmai vizsgáztatás és a komplex szakmai vizsga szakmai ellenőrzésének részletes szabályait,
 

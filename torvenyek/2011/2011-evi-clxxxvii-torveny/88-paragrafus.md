@@ -36,6 +36,8 @@ h) a pályakövetési rendszer működtetésének részletes szabályait, a pál
 
 i) a szakmai vizsgaszabályzatnak a választható mellék-szakképesítés megszerzésével összefüggő speciális szabályait,
 
+j) az ágazati készségtanácsok számát, az általuk képviselt ágazatokat, valamint működésük szabályait.
+
 (4) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
 a) a vizsgaszervezési engedély megszerzésére irányuló engedélyezési eljárás részletes szabályait, és kijelölje a komplex szakmai vizsga szervezését engedélyező hivatalt,

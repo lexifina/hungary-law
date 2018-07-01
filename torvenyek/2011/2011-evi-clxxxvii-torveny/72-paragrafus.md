@@ -12,7 +12,7 @@ c) a komplex szakmai vizsga szervezésére vonatkozó vizsgaszervezési engedél
 
 a) ellátja a képzési alaprésszel kapcsolatban a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben meghatározott feladatokat,
 
-b) létrehozza és működteti a Nemzeti Képesítési Bizottságot,
+b)
 
 c) az állami szakképzési és felnőttképzési szerv vezetője útján összeállíttatja a szakképesítésért felelős miniszter ágazatába tartozó szakképesítések modultérképei alapján az országos modultérképet (a továbbiakban: országos modultérkép) és gondoskodik annak nyilvánosságra hozataláról,
 

@@ -1,6 +1,6 @@
 79. § (1) A Tanács tagjainak megbízatása hároméves időtartamra szól.
 
-(2) A Tanács huszonegy tagból áll.
+(2)
 
 (3) A Tanács
 
@@ -8,9 +8,9 @@ a) a szakképzésért és felnőttképzésért felelős miniszter képviselőjé
 
 b) az ágazati készségtanácsok elnökeiből,
 
-c) a szakképzés, a felnőttképzés és a felsőoktatás területén elismert egy-egy (összesen három) szakértőből,
+c)
 
-d) a szakképzés és felnőttképzés területén működő szakmai társadalmi és érdek-képviseleti szervezetek összesen hat képviselőjéből,
+d) a szakképzés és felnőttképzés területén működő szakmai társadalmi és érdek-képviseleti szervezetek összesen két képviselőjéből,
 
 e) az NGTT-ben képviselettel rendelkező országos munkaadói és munkavállalói szövetségek egy-egy (összesen kettő) képviselőjéből,
 
