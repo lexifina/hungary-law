@@ -4,11 +4,11 @@
 
 (2) A közlekedésbiztonsági szerv az őrizetébe került bizonyítékokat erre alkalmas módon berendezett, elkülönített és az illetéktelenek elől elzárt helyen őrzi meg, és a megőrzés során gondoskodik a bizonyítékok azonosíthatóságáról és megváltoztathatatlanságáról.
 
-(3) A nyomozó hatóság és a szabálysértési hatóság által lefoglalt bizonyítékoknak a vizsgálóbizottság által szükségesnek ítélt vizsgálata iránt – az érintett hatóságokkal egyeztetett módon – a vizsgálóbizottság vezetője intézkedik.
+(3) A bíróság, az ügyészség, a nyomozó hatóság és a szabálysértési hatóság által lefoglalt bizonyítékoknak a vizsgálóbizottság által szükségesnek ítélt vizsgálata iránt – az érintett hatóságokkal egyeztetett módon – a vizsgálóbizottság vezetője intézkedik.
 
 (4) A közlekedési esemény szakmai vizsgálata során átvett vagy lefoglalt bármely járművet, berendezést és egyéb dolgot, ha arra a vizsgálat lefolytatásához már nincs szükség, át kell adni
 
-a) a további vizsgálatot végző nyomozó vagy más hatóság részére, ha e hatóság azt szükségesnek tartja,
+a) a további vizsgálatot végző bíróság, ügyészség, nyomozó hatóság vagy más hatóság részére, ha e szerv vagy hatóság azt szükségesnek tartja,
 
 b) egyéb esetben a tulajdonosának, üzemben tartójának vagy az általuk kijelölt szervezet, személy részére, illetve amennyiben ezek nem ismertek, annak, akitől az lefoglalásra került.
 
