@@ -10,7 +10,9 @@ c) a kérelmezőt valamely harmadik ország menekültként ismerte el, feltéve,
 
 d) a kérelem ismételt, és nem merült fel olyan új körülmény vagy tény, amely arra utalna, hogy a kérelmező menekültkénti vagy oltalmazottkénti elismerésének lenne helye; vagy
 
-e) a kérelmező vonatkozásában van olyan harmadik ország, amely rá nézve biztonságos harmadik országnak minősül.
+e) a kérelmező vonatkozásában van olyan harmadik ország, amely rá nézve biztonságos harmadik országnak minősül,
+
+f) a kérelmező olyan országon keresztül érkezett, ahol a 6. § (1) bekezdése szerinti üldözésnek vagy a 12. § (1) bekezdése szerinti súlyos sérelem veszélyének nincs kitéve, vagy ha abban az országban, amin keresztül Magyarországra érkezett, a megfelelő szintű védelem biztosított.
 
 (3) A (2) bekezdés d) pontjának alkalmazása során azok a körülmények vagy tények számítanak újnak, amiket a kérelmező az előző eljárása során rajta kívül álló ok miatt nem tudott igazolni vagy valószínűsíteni.
 
@@ -63,3 +65,5 @@ j) súlyos okból veszélyt jelenthet Magyarország nemzetbiztonságára vagy k�
 (10) Amennyiben a kérelem alapját részben vagy egészében a 6. § (2) bekezdésében vagy a 12. § (2) bekezdésében foglalt körülmények jelentik, a (7) bekezdés h) pontjában foglalt ésszerű időt e körülmények beálltától kell számolni.
 
 (11) A (2) bekezdés e) pontjának vagy a (7) bekezdés b) pontjának alkalmazása esetében a kérelmező az e tény vele való közlését követően haladéktalanul, de legkésőbb a közlést követő 3 napon belül nyilatkozhat arra vonatkozóan, hogy az ő egyéni esetében adott ország miért nem minősül biztonságos származási,- vagy biztonságos harmadik országnak.
+
+(12) A (2) bekezdés f) pontjának alkalmazása esetén a kérelmező az e tény vele való közlését követően haladéktalanul, de legkésőbb a közlést követő 3 napon belül nyilatkozhat arra vonatkozóan, hogy az ő egyéni esetében adott ország vonatkozásában a (2) bekezdés f) pontja szerinti feltételek nem álltak fenn.

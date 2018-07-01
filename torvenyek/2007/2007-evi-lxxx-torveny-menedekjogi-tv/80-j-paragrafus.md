@@ -1,6 +1,6 @@
 80/J. § (1) Menedékjog iránti kérelmet a menekültügyi hatóság előtt személyesen, kizárólag a tranzitzónában lehet benyújtani, kivéve, ha az elismerését kérő
 
-a) személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, hatálya alatt áll,
+a) személyi szabadságot érintő kényszerintézkedés, intézkedés vagy büntetés, hatálya alatt áll,
 
 b) a menekültügyi hatóság által elrendelt menekültügyi őrizet hatálya alatt áll, vagy
 

@@ -1,6 +1,6 @@
 ## A visszaküldési tilalom vizsgálata és a menekültügyi hatóság által elrendelt kiutasítás
 
-45. § (1) A visszaküldés tilalma fennáll, ha az elismerését kérő származási országában faji, illetve vallási okok, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, avagy politikai meggyőződése miatt üldöztetés veszélyének vagy az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve, és nincs olyan biztonságos harmadik ország, amely befogadja.
+45. § (1) A visszaküldés tilalma fennáll, ha az elismerését kérő származási országában faji, illetve vallási okok, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, avagy politikai meggyőződése miatt üldöztetés veszélyének vagy az Alaptörvény XIV. cikk (3) bekezdésében meghatározott magatartásnak lenne kitéve, és nincs olyan biztonságos harmadik ország, amely befogadja.
 
 (2) A kísérő nélküli kiskorú esetében a visszaküldés tilalma akkor is fennáll, ha a család egyesítése, illetve az állami vagy más intézményi gondoskodás sem a származási országában, sem az őt befogadó más államban nem biztosított.
 

@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-80-00-00
 | 2017-03-28 | 2017. évi XX. törvény | 2007-80-00-00.26 |
 | 2017-12-01 | 2017. évi XXXIII. törvény | 2007-80-00-00.27 |
 | 2018-01-01 | 2017. évi CXLIII. törvény | 2007-80-00-00.28 |
+| 2018-07-01 | 2018. évi VI. törvény | 2007-80-00-00.29 |

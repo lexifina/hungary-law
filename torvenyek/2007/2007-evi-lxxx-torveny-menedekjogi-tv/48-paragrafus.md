@@ -1,6 +1,6 @@
 48. § (1) A menekültügyi hatóság a menekültkénti vagy oltalmazottkénti elismerését kérő külföldi (e fejezet alkalmazásában a továbbiakban: kérelmező) részére a jogorvoslattal tovább nem támadható döntés vagy a 49. § (4) bekezdése alapján a kérelmező átadásáról hozott végzés végrehajthatóvá válásáig szálláshelyként vagy a feltételek fennállása esetében kijelölt tartózkodási helyként – kérelmére – magánszálláshelyet, ennek hiányában befogadó állomást, közösségi szállást, szerződés alapján fenntartott más szálláshelyet vagy meghatározott megye közigazgatási területét jelöli ki, kivéve, ha
 
-a) a kérelmező személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, vagy idegenrendészeti eljárásban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll,
+a) a kérelmező személyi szabadságot érintő kényszerintézkedés, intézkedés vagy büntetés, vagy idegenrendészeti eljárásban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll,
 
 b) fennállnak a menekültügyi őrizet elrendelésének feltételei, vagy
 

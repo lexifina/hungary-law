@@ -2,7 +2,7 @@
 
 ## A MENEKÜLT
 
-6. § (1) Magyarország menekültként ismeri el azt a külföldit, akinek az esetében az Alaptörvény XIV. cikk (3) bekezdésében meghatározott feltételek fennállnak.
+6. § (1) Magyarország menekültként ismeri el azt a külföldit, akinek az esetében az Alaptörvény XIV. cikk (4) bekezdés első mondatában meghatározott feltételek fennállnak.
 
 (2) Az üldözéstől való megalapozott félelem alapulhat olyan eseményeken is, amelyek azt követően következtek be, hogy a külföldi a származási országát elhagyta, vagy a külföldi olyan tevékenységén, amelyet a származási országa elhagyását követően fejtett ki.
 

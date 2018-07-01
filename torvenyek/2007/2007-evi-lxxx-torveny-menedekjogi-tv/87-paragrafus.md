@@ -4,7 +4,7 @@ a) a bíróság,
 
 b) az ügyészség,
 
-c) a nyomozó hatóság,
+c) a nyomozó hatóság és az előkészítő eljárást folytató szerv,
 
 d) a nemzetbiztonsági szolgálat,
 
@@ -36,6 +36,8 @@ igényelhetnek adatot.
 
 (1a) Az e fejezetben meghatározott nyilvántartásokból a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából igényelhet adatot.
 
+(1b) A menekültügyi hatóság a menekültügyi nyilvántartáshoz a Magyar igazolvány, illetve a Magyar hozzátartozói igazolvány kiadása iránti kérelmet elbíráló hatóság részére a kérelem elbírálására irányuló eljárás során a jogosultsági feltételek vizsgálatához, továbbá az igazolvány visszavonására irányuló eljárás során a visszavonási ok fennállásának vizsgálatához a menekült vagy menedékes jogállás fennállására vonatkozó adatok tekintetében az eljáró hatóság részére közvetlen hozzáférést biztosít.
+
 (2) A menekültügyi hatóság – a személyiadat- és lakcímnyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából az érintett személy törvényben meghatározott adatainak közlésével – a menekültként vagy oltalmazottként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes járási hivatalt.
 
 (3) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és az azokat tartalmazó nyilvántartásokból személyazonosításra alkalmatlan módon statisztikai célra adatok szolgáltathatók.
@@ -46,7 +48,7 @@ a) a 83. § (1) bekezdés a) pontjában meghatározott adatok közül az e törv
 
 b) a 83. § (1) bekezdés f), valamint j)–l) pontjában meghatározott adatok.
 
-(5) A 83. § (1) bekezdés m) pontjában meghatározott adat csak a nyomozó hatóság és az ügyészség, továbbá törvényben meghatározottak szerint a bíróság és a nemzetbiztonsági szolgálat részére adható át.
+(5) A 83. § (1) bekezdés m) pontjában meghatározott adat csak az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, továbbá törvényben meghatározottak szerint a bíróság és a nemzetbiztonsági szolgálat részére adható át.
 
 (6) A menekültügyi hatóság az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a menekültügyi nyilvántartás hatálya alá tartozó személyek arcképmását, valamint az arcképmáshoz rendelt technikai kapcsoló számot átadja.
 

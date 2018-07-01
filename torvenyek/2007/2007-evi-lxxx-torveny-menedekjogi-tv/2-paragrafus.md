@@ -24,7 +24,7 @@ ia) az életét és a szabadságát nem fenyegeti veszély faji, vallási okból
 
 ib) a genfi egyezménnyel összhangban tiszteletben tartják a visszaküldés tilalmának elvét;
 
-ic) elismerik és alkalmazzák a nemzetközi jog azon szabályát, amely szerint a kérelmező olyan ország területére nem utasítható ki, ahol az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve; és
+ic) elismerik és alkalmazzák a nemzetközi jog azon szabályát, amely szerint a kérelmező olyan ország területére nem utasítható ki, ahol az Alaptörvény XIV. cikk (3) bekezdésében meghatározott magatartásnak lenne kitéve; és
 
 id) a menekültkénti elismerés kérelmezésének lehetősége biztosított, és a menekültkénti elismerés esetén biztosított a genfi egyezménnyel összhangban álló védelem;
 
