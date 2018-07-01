@@ -1,4 +1,4 @@
-200. § (1) A befektetési alapkezelő a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot az általa lebonyolított ügyletről és a nála vezetett számláról, ha adat merül fel arra, hogy az ügylet vagy a számla
+200. § (1) A befektetési alapkezelő az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot az általa lebonyolított ügyletről és a nála vezetett számláról, ha adat merül fel arra, hogy az ügylet vagy a számla
 
 a) kábítószerrel való visszaéléssel,
 

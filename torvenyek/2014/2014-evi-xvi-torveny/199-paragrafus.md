@@ -8,11 +8,11 @@ c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében elj�
 
 d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, végrehajtóval, illetve végelszámolóval,
 
-e) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését folytató nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel,
+e) a büntetőeljárás során az előkészítő eljárást folytató szervvel és a nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel,
 
 f) a büntető-, valamint polgári ügyben, továbbá csőd-, felszámolási eljárás, illetve az önkormányzatok adósságrendezési eljárása keretében a bírósággal,
 
-g) külön törvényben meghatározott feltételek teljesülése esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
+g) külön törvényben meghatározott feltételek teljesülése esetén a titkos információgyűjtésre felhatalmazott szervvel,
 
 h) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 
@@ -22,7 +22,7 @@ j) a feladatkörében eljáró országgyűlési biztossal,
 
 k) a Nemzeti Adatvédelmi és Információszabadság Hatósággal
 
-szemben, e szerveknek a befektetési alapkezelőhöz intézett írásbeli megkeresése esetén.
+szemben, e szerveknek a befektetési alapkezelőhöz intézett adatkérése, illetve írásbeli megkeresése esetén.
 
 (2) A 198. § (1) bekezdésében meghatározott titoktartási kötelezettség nem áll fenn abban az esetben sem, ha
 

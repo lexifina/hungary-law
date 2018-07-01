@@ -38,7 +38,7 @@ szemben.
 
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn a hatáskörében eljáró,
 
-a) a folyamatban lévő büntetőeljárás, a feljelentés kiegészítése keretében a nyomozó hatósággal és a feladatkörében eljáró ügyészséggel,
+a) nyomozó hatósággal és a feladatkörében eljáró ügyészséggel,
 
 b) büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 
