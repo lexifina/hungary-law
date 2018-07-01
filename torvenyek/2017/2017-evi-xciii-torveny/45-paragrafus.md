@@ -5,11 +5,3 @@ a) 1–10. §-a, 11. § (6)–(10) bekezdése, 13. § a)–f), l) és m) pontja,
 b) 39. §-a, 41. §-a és 43. § a) pontja az Alaptörvény 29. cikk (7) bekezdése és 46. cikk (6) bekezdése
 
 alapján sarkalatosnak minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

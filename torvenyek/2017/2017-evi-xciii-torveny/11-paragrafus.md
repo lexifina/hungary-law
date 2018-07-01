@@ -2,7 +2,7 @@
 
 (A rendőrség feladatai ellátása során)
 
-„f) a személybiztosítási és létesítményvédelmi feladatai ellátásához szükséges adatokat”
+„f) a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat”
 
 (kezeli.)
 

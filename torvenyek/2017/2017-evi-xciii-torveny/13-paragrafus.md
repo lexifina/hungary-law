@@ -18,7 +18,7 @@ h) 91/A. § (1) bekezdés j) pontjában az „a rendőrséggel” szövegrész h
 
 i) 91/A. § (2) bekezdésében az „(1) bekezdés” szövegrész helyébe az „(1)–(1b) bekezdés”,
 
-j) 91/C. § (2) bekezdésében az „a bűnüldözési feladatai ellátása céljából – körözési eljárás során, illetőleg lakhelyelhagyási tilalom, házi őrizet elrendelése vagy biztosíték letétbe helyezésének engedélyezése esetén, továbbá nemzetközi kötelezettségvállalás alapján – jelzés” szövegrész helyébe a „körözési eljárás során, illetve lakhelyelhagyási tilalom, házi őrizet elrendelése vagy biztosíték letétbe helyezésével folyó eljárás során, továbbá nemzetközi kötelezettségvállalás alapján jelzés”,
+j)
 
 k) 91/M. § (3a) bekezdésében a „bűncselekmény elkövetésének lehetséges gyanúja” szövegrész helyébe a „bűncselekményre vonatkozó információ feltárása”,
 
