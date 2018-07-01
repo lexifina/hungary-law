@@ -4,13 +4,15 @@
 
 53/A. § (1) Közérdekben okozott sérelem megszüntetése érdekében az ügyész a Ptk. hatálybalépését megelőzően kötött szerződések tekintetében is a Ptk. 6:88. § (4) bekezdésében biztosított keresetindítási jogával élhet.
 
-(2) A Ptk. 6:88. § (4) bekezdése szerinti keresetindítási jog a közérdekben olyan szerződés megkötésével okozott sérelmek esetén is alkalmazható, amely szerződéssel a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 159/A. § (1) bekezdésében meghatározott értékre elkövetett, illetve ilyen mértékű kárt, vagyoni hátrányt vagy vagyoncsökkenést (ezek együttes összegét számítva is) okozó bűncselekmény
+(2) A Ptk. 6:88. § (4) bekezdése szerinti keresetindítási jog a közérdekben olyan szerződés megkötésével okozott sérelmek esetén is alkalmazható, amely szerződéssel ötvenmillió forintot meghaladó értékre elkövetett, illetve ilyen mértékű kárt, vagyoni hátrányt vagy vagyoncsökkenést (ezek együttes összegét számítva is) okozó bűncselekmény
 
 a) miatt indult büntetőeljárás terheltjének vagyontárgyát,
 
-b) elkövetéséhez felhasznált szervezet vagy olyan szervezet vagyontárgyát, amely szervezet javára a bűncselekmény elkövetése előny szerzését eredményezte, továbbá e szervezet vonatkozásában a Be. 159/A. § (3)–(5) bekezdés alapján és a (7) bekezdésben foglaltak figyelembevételével érintett vagyontárgyat
+b) elkövetéséhez felhasznált szervezet vagyontárgyát, vagy
 
-[az a)–b) pont szerinti vagyontárgy a továbbiakban együtt: érintett vagyontárgy] a büntetőeljárás vagy a büntetőeljárás megindításának alapjául szolgáló hatósági eljárás megindulását megelőző egy éven belül feltűnő értékaránytalansággal, ingyenesen, vagy hozzátartozó javára ruházták át.
+c) elkövetésével összefüggésben előnyt szerző szervezet vagyontárgyát
+
+[az a)–c) pont szerinti vagyontárgy a továbbiakban együtt: érintett vagyontárgy] a büntetőeljárás vagy a büntetőeljárás megindításának alapjául szolgáló hatósági eljárás megindulását megelőző egy éven belül feltűnő értékaránytalansággal, ingyenesen, vagy hozzátartozó javára ruházták át.
 
 (3) A (2) bekezdés olyan szerződések esetében is irányadó, amellyel az érintett vagyontárgy feletti rendelkezési vagy hasznosítási jogot a (2) bekezdés szerinti módon, illetve személy javára a vagyontárgy értékének jelentős csökkenését eredményező módon korlátozták.
 

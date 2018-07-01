@@ -18,7 +18,7 @@ d) a fogyasztó és vállalkozás közötti szerződések részletes szabályait
 
 e) azokat a szerződéseket, amelyek esetén a jótállás kötelező, valamint az ilyen jótállás feltételeit;
 
-f) az utazási szerződések kötelező tartalmi elemeit, a díj megfizetésének, emelésének és az utazásban való részvétel jogának engedményezésére vonatkozó szabályokat, az elállás szabályait, az utazási szerződésben vállalt kötelezettségek teljesítéséért való felelősségre vonatkozó különös rendelkezéseket, továbbá egyes utazási szerződések tekintetében a szerződéskötést megelőző tájékoztatás kötelező tartalmi elemeit és formáját, valamint a szerződés teljesítése keretében alkalmazandó különös tájékoztatási szabályokat;
+f) az utazási szolgáltatásokra, valamint az utazási csomagra vonatkozó szerződések kötelező tartalmi elemeit, a szerződés teljesítésére, ideértve a díj megfizetésére vonatkozó szabályokat, az egyoldalú szerződésmódosításra, a szerződés egyoldalú jognyilatkozattal történő megszüntetésére, a szerződésátruházásra, valamint – az utazási szolgáltatásegyüttesre vonatkozó szerződések tekintetében is – a szerződésben vállalt kötelezettségek teljesítéséért való felelősségre, illetve az utazási vállalkozók fizetésképtelenséggel szembeni védelmét szolgáló vagyoni biztosítékokra vonatkozó különös rendelkezéseket, továbbá az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződések tekintetében a szerződéskötést megelőző tájékoztatás kötelező tartalmi elemeit és formáját.
 
 g) a részvénytársaságok részvénykönyvének vezetésével megbízható személyek körét, a részvénykönyvbe történő bejelentés módját, határidejét, a bejelentő személyét és a részvényesi minőség igazolásának eljárására és határidejére vonatkozó szabályokat;
 

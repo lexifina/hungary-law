@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-177-00-00
 | 2017-01-01 | 2016. évi CLXXIX. törvény | 2013-177-00-00.10 |
 | 2017-06-23 | 2017. évi LXI. törvény | 2013-177-00-00.11 |
 | 2018-01-01 | 2017. évi CXXX. törvény | 2013-177-00-00.12 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2013-177-00-00.13 |
