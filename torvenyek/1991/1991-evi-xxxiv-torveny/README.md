@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-34-00-00
 | 2017-06-26 | 2017. évi LIII. törvény | 1991-34-00-00.76 |
 | 2017-07-01 | 2017. évi LXXII. törvény | 1991-34-00-00.77 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 1991-34-00-00.78 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 1991-34-00-00.79 |
