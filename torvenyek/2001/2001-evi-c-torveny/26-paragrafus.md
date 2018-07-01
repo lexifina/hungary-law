@@ -10,4 +10,4 @@
 
 (8)–(9)
 
-(10) Megalapozott kétség esetén az eljáró hatóság megkeresi a származási tagállam illetékes hatóságát annak tisztázása érdekében, hogy a kérelmezővel szemben a szakmagyakorlásával összefüggésben fegyelmi büntetést szabtak-e ki, hoztak-e rá nézve a büntetőjogi felelősségét megállapító jogerős ítéletet, vagy hogy tudomást szerezzen bármely egyéb olyan körülményről, amely az e törvény alapján gyakorolt tevékenységek tekintetében következményekkel járhat.
+(10) Megalapozott kétség esetén az eljáró hatóság megkeresi a származási tagállam illetékes hatóságát annak tisztázása érdekében, hogy a kérelmezővel szemben a szakmagyakorlásával összefüggésben fegyelmi büntetést szabtak-e ki, hoztak-e rá nézve a büntetőjogi felelősségét megállapító jogerős ügydöntő határozatot, vagy hogy tudomást szerezzen bármely egyéb olyan körülményről, amely az e törvény alapján gyakorolt tevékenységek tekintetében következményekkel járhat.

@@ -12,7 +12,7 @@ c) a felfüggesztő vagy eltiltó döntést meghozó hazai hatóság vagy bíró
 
 d) a felfüggesztés vagy eltiltás időbeli hatályát.
 
-(4) A külön jogszabályban kijelölt hatóság azon személy természetes személyazonosító adatait, akiről bíróság megállapította, hogy e törvény szerinti elismerési eljárás során közokirat-hamisítás bűncselekményét követte el, a belső piaci információs rendszeren keresztül a közokirat-hamisítást megállapító ítélet jogerőre emelkedésétől számított három napon belül megküldi a többi tagállam illetékes hatóságának.
+(4) A külön jogszabályban kijelölt hatóság azon személy természetes személyazonosító adatait, akiről bíróság megállapította, hogy e törvény szerinti elismerési eljárás során közokirat-hamisítás bűncselekményét követte el, a belső piaci információs rendszeren keresztül a közokirat-hamisítást megállapító ügydöntő határozat jogerőre emelkedésétől számított három napon belül megküldi a többi tagállam illetékes hatóságának.
 
 (5) A riasztási mechanizmusban közreműködő hatóság a (3) bekezdés szerinti adatok megadásával a belső piaci információs rendszeren keresztül a többi tagállam illetékes hatóságát haladéktalanul tájékoztatja arról, ha a szakma gyakorlásától eltiltó vagy a szakmagyakorlási jogot felfüggesztő döntés időtartama letelt, vagy ha a felfüggesztő döntés időtartama megváltozott.
 
