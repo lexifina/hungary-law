@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-7-00-00
 | 2014-05-03 | 2010. évi CXXX. törvény | 2014-7-00-00.4 |
 | 2017-09-01 | 2017. évi LVI. törvény | 2014-7-00-00.5 |
 | 2018-01-01 | 2017. évi CXXX. törvény | 2014-7-00-00.6 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2014-7-00-00.7 |

@@ -6,6 +6,8 @@
 
 (3) A perben viszontkereset indításának nincs helye.
 
-(4)–(5)
+(4)
+
+(5)
 
 (6) Az ítélet ellen perújításnak nincs helye.

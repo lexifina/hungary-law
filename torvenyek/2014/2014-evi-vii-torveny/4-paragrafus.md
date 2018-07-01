@@ -38,4 +38,4 @@ b) az 5. § szerinti peres eljárás befejezéséig, perindítás hiányában az
 
 (5) Ha a (2)–(4) bekezdés másként nem rendelkezik, az ügyész az átvett és az adatlekérdezés, illetve adatfeldolgozás során keletkezett adatokat az Ütv. ügyészségi adatkezelésre irányadó szabályai szerint kezeli.
 
-(6) Az 1. § szerinti semmis jogügylettel összefüggő büntetőeljárásban keletkezett iratokat a büntetőeljárásról szóló 1998. évi XIX. törvény 71/B. § (1) bekezdése alapján az ott megjelölt szervek az ügyész megkeresésére szolgáltatják. Az ügyész az így beszerzett adatokat az 5. § szerinti perben bizonyítékként felhasználhatja.
+(6) Az 1. § szerinti semmis jogügylettel összefüggő büntetőeljárásban keletkezett ügyiratok megismerését a büntetőeljárásról szóló 2017. évi XC. törvény 101. § (1) bekezdése alapján az ott megjelölt szervek az ügyész számára biztosítják. Az ügyész az így beszerzett adatokat az 5. § szerinti perben bizonyítékként felhasználhatja.
