@@ -6,13 +6,15 @@
 
 (3) Az (1) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat kizárólag
 
-a) a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés, továbbá a vámhatóság feladatait meghatározó jogszabályok vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során, vagy
+a) a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés, továbbá a vámhatóság feladatait meghatározó jogszabályok vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során,
 
-b) körözött személy vagy tárgy azonosítása céljából, vagy
+b) a rendőrség, illetve a Nemzeti Adó- és Vámhivatal olyan feladatellátása során, amely céljából titkos információgyűjtésnek van helye, illetve a nemzetbiztonsági szolgálatok törvényben meghatározott feladatainak ellátása érdekében,
 
-c) az intézkedés, illetve kényszerítő eszköz alkalmazása jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, vagy
+c) körözött személy vagy tárgy azonosítása céljából,
 
-d) az érintett személy jogainak gyakorlása érdekében
+d) az intézkedés, illetve kényszerítő eszköz alkalmazása jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, vagy
+
+e) az érintett személy jogainak gyakorlása érdekében
 
 használható fel.
 

@@ -1,33 +1,25 @@
-## Bírói engedélyhez nem kötött titkos információgyűjtés
+53. § (1) Bűncselekmény elkövetésének megelőzése céljából akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a bűnözésre vonatkozó olyan információk megszerzése várható, amelyek elemzése és értékelése révén feltárhatók a bűncselekmények elkövetésére irányuló törekvések és lehetővé válik a bűncselekmények megelőzése, illetve megakadályozása.
 
-53. § (1) A felhatalmazott szervek a bűnmegelőzési, bűnüldözési, felderítési és nyomozási (a továbbiakban: bűnüldözési) feladataik teljesítése érdekében
+(2) A személyi védelem ellátása érdekében akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a fenyegetett helyzetben lévő személy veszélyeztetettségére vonatkozó, illetve az ellene irányuló személy elleni erőszakos vagy közveszélyt okozó bűncselekmény megelőzését szolgáló információ várható.
 
-a) informátort, bizalmi személyt vagy a NAV-val titkosan együttműködő más személyt vehetnek igénybe,
+(3) Az Európai Unió tagállamával vagy harmadik országgal a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény vagy nemzetközi szerződés alapján folytatott együttműködés érdekében az Európai Unió tagállama vagy harmadik ország megkeresése alapján akkor folytatható titkos információgyűjtés, ha a megkeresésben megjelölt bírói engedélyhez kötött vagy bírói engedélyhez nem kötött eszköz alkalmazását törvény lehetővé teszi.
 
-b) az eljárás céljának leplezésével (puhatolás) vagy a kilétét leplező fedett nyomozó igénybevételével információt gyűjthetnek, adatot ellenőrizhetnek,
+(4) A bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása érdekében akkor folytatható titkos információgyűjtés, ha a technikai eszköz vagy elektronikus adat leplezett elhelyezéséhez vagy eltávolításához elengedhetetlenül szükséges.
 
-c) saját személyi állományuk, valamint a velük együttműködő személy és a pénzügyi nyomozói jelleg leplezésére, védelmére fedőokiratot állíthatnak ki, használhatnak fel, fedőintézményt hozhatnak létre, és tarthatnak fenn,
+(5) A fedett nyomozó, illetve a fedőintézmény védelme érdekében akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól
 
-d) a bűncselekmény elkövetésével gyanúsítható és vele kapcsolatban lévő személyt, valamint a bűncselekménnyel kapcsolatba hozható helyiséget, épületet és más objektumot, terep- és útvonalszakaszt, járművet, eseményt megfigyelhetnek, arról információt gyűjthetnek, az észlelteket hang, kép, egyéb jel vagy nyom rögzítésére szolgáló technikai eszközzel (a továbbiakban: technikai eszköz) rögzíthetik,
+a) a fedett nyomozó lelepleződésének megelőzését, vagy az ellene irányuló személy elleni erőszakos bűncselekmény megelőzését, vagy
 
-e) a bűncselekmény elkövetőjének leleplezésére vagy a bizonyítás érdekében, indokolt esetben – sérülést vagy egészségkárosodást nem okozó – csapdát alkalmazhatnak,
+b) a fedőintézmény lelepleződésének megelőzését
 
-f) mintavásárlás végzése érdekében informátort, bizalmi személyt, a felhatalmazott szervekkel titkosan együttműködő más személyt vagy fedett nyomozót, továbbá – az ügyész engedélyével – álvásárlás, bizalmi vásárlás, bűnszervezetbe való beépülés, illetve – a 37. § rendelkezéseinek figyelembevételével – ellenőrzött szállítás folytatása érdekében fedett nyomozót alkalmazhatnak,
+szolgáló információ várható.
 
-g) ha a bűncselekmény megelőzésére, megakadályozására, felderítésére, az elkövető elfogására, kilétének megállapítására nincs más lehetőség, a sértettet szerepkörében – életének, testi épségének megóvása érdekében – pénzügyi nyomozó – ide nem értve a nem hivatásos pénzügyi nyomozót – igénybevételével helyettesíthetik.
+(6) A NAV-val titkosan együttműködő személy védelme, bevonása és ellenőrzése érdekében akkor folytatható titkos információgyűjtés, ha az attól várt információk
 
-h) hírközlési rendszerekből és egyéb adattároló eszközökből információt gyűjthetnek.
+a) a NAV-val titkosan együttműködő személy lelepleződésének megelőzése, vagy az ellene irányuló személy elleni erőszakos bűncselekmény megelőzése érdekében,
 
-(2) Az (1) bekezdésben foglaltak teljesítésére a NAV a természetes személyekkel, a jogi személyekkel vagy a jogi személyiséggel nem rendelkező szervezetekkel titkos együttműködési megállapodást köthet. Ennek keretében a NAV kezdeményezheti a bűnüldözés szempontjából különleges fontosságú ilyen szervezetek munkatársával hivatásos szolgálati, kormányzati szolgálati jogviszony, állami szolgálati jogviszony, közszolgálati jogviszony, illetve munkaviszony létesítését.
+b) az együttműködés lehetősége, az együttműködés fenntartása, illetve a titkos együttműködési megállapodás megkötésének kérdésében való döntéshez, vagy
 
-(3) Az e törvényben meghatározott feladatok ellátása érdekében a NAV – külön megállapodás alapján meghatározott időtartamra – a (2) bekezdés szerinti jogviszony létesítését kezdeményezheti a (2) bekezdés hatálya alá tartozó szervezeteknél.
+c) a NAV-val titkosan együttműködő személyre vonatkozó információ ellenőrzése érdekében
 
-(4) A NAV nem kezdeményezheti a (2) bekezdés szerinti jogviszony létesítését bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosának Hivatalánál, a Köztársasági Elnöki Hivatalnál és az Országgyűlés Hivatalánál.
-
-(5) A foglalkoztatás pénzügyi nyomozói jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a NAV és az érintett szervezet külön megállapodása tartalmazza.
-
-(6) Rendvédelmi szerv és nemzetbiztonsági szolgálat fedőintézményként, okmánya fedőokmányként csak az illetékes miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.
-
-(7) A felhatalmazott szervek az informátor, a bizalmi személy, a NAV-val titkosan együttműködő más személy, a fedett nyomozó, valamint a fedőokirat és a fedőintézmény védelme érdekében a közigazgatási nyilvántartásokban, így különösen a személyiadat- és lakcímnyilvántartásban, a személyi igazolvány nyilvántartásban, az anyakönyvben, az úti okmány nyilvántartásban, a gépjárművezetői engedély és gépjármű nyilvántartásban, az ingatlan-nyilvántartásban, a cégnyilvántartásban fedőadatokat helyezhetnek el. A fedőadatokat törölni kell, ha az elhelyezés alapjául szolgáló bűnüldözési érdek megszűnt.
-
-(8) Az informátor, a bizalmi személy, a NAV-val titkosan együttműködő más személy által a titkos információgyűjtés keretében másnak okozott kár megtérítésére, valamint személyiségi jogsértés esetén a sérelemdíj érvényesítésére az 57. § (2) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
+szükségesek.

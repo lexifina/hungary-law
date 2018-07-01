@@ -6,9 +6,9 @@ a) akit szándékos bűncselekmény elkövetésén tetten értek,
 
 b) aki ellen elfogatóparancsot, nemzetközi elfogatóparancsot, illetve európai elfogatóparancsot adtak ki,
 
-c) akinek őrizetbe vételét rendelték el,
+c) akinek őrizetét rendelték el,
 
-d) aki az őrizetbe vétel végrehajtása során megszökött.
+d) aki az őrizet végrehajtása során megszökött.
 
 (2) A pénzügyőr a hatáskörrel és illetékességgel rendelkező hatóság elé állíthatja azt,
 

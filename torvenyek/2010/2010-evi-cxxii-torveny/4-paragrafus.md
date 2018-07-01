@@ -6,10 +6,10 @@ a) a megyei (fővárosi) adó- és vámigazgatóságok (a továbbiakban: megyei 
 
 b) a Fellebbviteli Igazgatóság,
 
-c) a NAV nyomozóhatósági feladatait ellátó területi szervei és
+c) a NAV nyomozó hatósági feladatait ellátó területi szervei és
 
 d) a Kormány rendeletében meghatározott igazgatóságok, illetve intézetek.
 
-(3) A NAV nyomozóhatósági feladatait a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szervei látják el.
+(3) A NAV nyomozó hatósági feladatait a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szervei látják el.
 
 (4) A megyei igazgatóságok kirendeltségeket működtethetnek.

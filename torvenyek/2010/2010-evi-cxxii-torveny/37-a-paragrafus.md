@@ -1,6 +1,6 @@
 ## Rejtett ellenőrzés elrendelése
 
-37/A. § A NAV nyomozó hatósága a 13. § (7) bekezdésében meghatározott célból rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
+37/A. § A NAV nyomozó hatósága a 13. § (7) bekezdés a) pont aa) alpontjában meghatározott célból, illetve a büntetőeljárásról szóló törvény alapján rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
 
 a) arra a személyre, akiről
 

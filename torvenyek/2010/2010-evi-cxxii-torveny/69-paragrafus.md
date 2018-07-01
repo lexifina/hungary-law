@@ -1,6 +1,6 @@
 ## Bűnügyi adatkezelés
 
-69. § (1) A NAV által bűnüldözési célból gyűjtött és tárolt adatokat, továbbá a különleges adatokat – ha törvény eltérően nem rendelkezik – csak bűnüldözési célra lehet felhasználni.
+69. § (1) A NAV által a 13. § (7) bekezdés a) pontja alapján bűnüldözési célból (a továbbiakban: bűnüldözési cél) gyűjtött és tárolt adatokat, továbbá a különleges adatokat – ha törvény eltérően nem rendelkezik – csak bűnüldözési célra lehet felhasználni.
 
 (2) A NAV bűnüldözési feladatainak ellátásához szükséges bűnüldözési adatokat a NAV nyomozó hatósága kezeli.
 

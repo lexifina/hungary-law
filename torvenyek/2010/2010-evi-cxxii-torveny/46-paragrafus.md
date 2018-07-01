@@ -4,7 +4,7 @@ a) az élet elleni közvetlen fenyegetés vagy támadás elhárítására,
 
 b) a testi épséget súlyosan veszélyeztető közvetlen támadás elhárítására,
 
-c) a Be. által a NAV nyomozóhatósági hatáskörébe utalt bűncselekmény lőfegyverrel, robbanóanyaggal vagy az élet kioltására alkalmas más eszközzel való elkövetésének megakadályozására,
+c) a Be. által a NAV nyomozó hatósági hatáskörébe utalt bűncselekmény lőfegyverrel, robbanóanyaggal vagy az élet kioltására alkalmas más eszközzel való elkövetésének megakadályozására,
 
 d) lőfegyver, illetve robbanóanyag jogosulatlan, erőszakos megszerzésére irányuló cselekmény megakadályozására,
 

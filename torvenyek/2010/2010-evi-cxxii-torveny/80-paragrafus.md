@@ -20,4 +20,4 @@ b) az elkövetett jogsértés megnevezését,
 
 c) alkalmazott szankciót.
 
-(3) Az EU váminformációs rendszeréből a nemzeti hatóság által rögzített személyes adatokat a 72. § (1) bekezdésében meghatározott törlési határidők alapján, de legfeljebb húsz év elteltével törölni kell.
+(3) Az EU váminformációs rendszeréből a nemzeti hatóság által rögzített személyes adatokat a 72 § (1)–(1b) bekezdésében meghatározott törlési határidők alapján, de legfeljebb húsz év elteltével törölni kell.

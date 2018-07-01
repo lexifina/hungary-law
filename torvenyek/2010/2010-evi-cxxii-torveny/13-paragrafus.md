@@ -86,13 +86,21 @@ b) a jövedéki jogszabályokban meghatározott jövedéki ügyekkel
 
 kapcsolatos feladatokat.
 
-(7) A NAV a bűnüldözési és nyomozóhatósági jogkörében végzi a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) által hatáskörébe utalt bűncselekmények megelőzését, felderítését, megszakítását és nyomozását, valamint nem nyomozóhatósági jogkörében eljárva ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
+(7) A NAV bűnmegelőzési és bűnüldözési jogkörében
+
+a) a büntetőeljárásról szóló törvény által hatáskörébe utalt bűncselekmények vonatkozásában
+
+aa) végzi a bűncselekmények megelőzését, amelynek során figyelemmel kíséri Magyarország bűnügyi helyzetét, feltárja a bűncselekmények elkövetésének kockázatait, a bűncselekmények elkövetésére irányuló törekvéseket, továbbá megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a bűnözéshez kapcsolódó, a bűncselekmények megelőzése, illetve megakadályozása céljából szükséges információkat,
+
+ab) nyomozó hatósági jogkört gyakorol, a büntetőeljárásról szóló törvényben meghatározottak szerint végzi a bűncselekmények felderítését, valamint a bűncselekményből származó vagyon visszaszerzését,
+
+b) ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
 
 (8) A NAV rendészeti és igazgatási jogkörében
 
 a) végzi a külön jogszabály által hatáskörébe utalt szabálysértések felderítését és elbírálását,
 
-b) ellátja a NAV nyomozó hatósága által elrendelt személyi védelmet a vonatkozó jogszabályok keretei között,
+b) ellátja a NAV nyomozó hatósága által elrendelt, a büntetőeljárással összefüggésben a jogszabályban meghatározott személyi kört érintő személyi védelmi feladatokat (a továbbiakban: személyi védelem),
 
 c) végzi meghatározott körben anyagi javak, értékek őrzését, kísérését,
 

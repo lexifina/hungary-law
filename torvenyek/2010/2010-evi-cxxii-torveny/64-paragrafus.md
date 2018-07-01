@@ -1,17 +1,13 @@
-64. § (1) A különleges eszköz alkalmazása iránti kérelmet a hatáskörrel és illetékességgel rendelkező felhatalmazott szervek vezetői terjesztik elő.
+64. § (1) A bíróság a kérelem benyújtásától számított hetvenkét órán belül indokolt végzéssel határoz. A bíróság a kérelem alapján az engedélyt megadja, vagy a kérelmet a törvényi feltételek hiánya miatt elutasítja.
 
-(2) A kérelemnek tartalmaznia kell:
+(2) Ha a bíróság a bírói engedélyhez kötött eszköz alkalmazását engedélyezi, az erről szóló végzésben meg kell jelölni
 
-a) a különleges eszköz alkalmazásának helyét, az alkalmazással érintett nevét, illetve az azonosításra alkalmas – rendelkezésre álló – adatot,
+a) a rendelkezésre álló, az érintett személy azonosítására szolgáló adatokat,
 
-b) az alkalmazni kívánt különleges eszköz megnevezését,
+b) a bírói engedélyhez kötött eszköz alkalmazásának kezdő és befejező időpontját napban és órában meghatározva,
 
-c) az alkalmazás tervezett kezdetét és végét napban és órában meghatározva,
+c) az 53. §-ra figyelemmel a bírói engedélyhez kötött eszköz alkalmazásának célját,
 
-d) az alkalmazás törvényi feltételeinek meglétére vonatkozó indokolást.
+d) a bírói engedélyhez kötött eszköz megnevezését és
 
-(3) A különleges eszköz alkalmazását a felhatalmazott szerv székhelye szerint illetékes járásbíróságnak a törvényszék elnöke által kijelölt bírája (a továbbiakban: bíró) engedélyezi.
-
-(4) A bíró a különleges eszköz engedélyezése iránti kérelem benyújtásától számított 72 órán belül indokolt végzéssel határoz, a kérelemnek helyt ad, vagy azt a törvényi feltételek hiánya miatt elutasítja.
-
-(5) A bíró a különleges eszköz alkalmazását, illetve az eszköz igénybevételét esetenként legfeljebb 90 napra engedélyezheti, illetve – a (2) bekezdés szerinti kérelemre – 90 nappal ismételten meghosszabbíthatja.
+e) a 63. § (2) bekezdés f) pontjában meghatározott adatokat.

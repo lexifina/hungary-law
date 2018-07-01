@@ -59,7 +59,3 @@ Minősítési lap
 ## k) szorgalom, igyekezet,
 
 ## továbbá pénzügyőr esetében:
-
-## l) fizikai állóképesség, terhelhetőség,
-
-## m) pszichikai állapot, tűrőképesség,

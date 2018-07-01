@@ -1,7 +1,19 @@
-## A feljelentés elutasítása vagy a nyomozás megszüntetése a fedett nyomozóval szemben
+58. § (1) A NAV titkos információgyűjtés folytatására feljogosított szervének a vezetője az 52. §-ban meghatározott célból az ügyészség jóváhagyásával
 
-58. § (1) Bűncselekmény megalapozott gyanúja esetén az ügyész a Be. 175. §-ának (2) bekezdése alapján a feljelentést határozattal elutasítja, vagy a Be. 192. §-ának (2) bekezdése alapján a nyomozást megszünteti, ha az 53. § (1) bekezdésének f) pontja szerint a fedett nyomozó által a szolgálati feladata teljesítése közben elkövetett bűncselekmény bűnüldözési érdeket szolgál, és az jelentősen meghaladja az állam büntetőjogi igényének érvényesítéséhez fűződő érdeket.
+a) átvehet adatot a NAV adóztatási és vámszerveitől, illetve
 
-(2) A Be. 175. §-ának (3) és (4) bekezdése alapján a fedett nyomozó által a sértettnek okozott kár megtérítésére, illetve a személyiségi jogsértésért járó sérelemdíj megfizetésére, az ehhez szükséges fedőokirat elkészítésére, illetve a titoktartási megállapodás megkötésének kezdeményezésére az 57. § (2) bekezdésében írt rendelkezést kell alkalmazni.
+b) adatok szolgáltatását igényelheti
 
-(3) A Be. 175. §-ának (6), valamint a 192. §-ának (3) bekezdése alapján az (1) bekezdésben foglaltak nem alkalmazhatók, ha a fedett nyomozó más életének szándékos kioltásával járó bűncselekmény elkövetésével megalapozottan gyanúsítható.
+ba) az elektronikus hírközlési szolgáltatótól,
+
+bb) a postai szolgáltatótól, illetve a postai közreműködői tevékenységet végző személytől vagy szervezettől,
+
+bc) a banktitoknak, fizetési titoknak, értékpapírtitoknak, pénztártitoknak vagy biztosítási titoknak minősülő adatot kezelő szervezettől,
+
+bd) az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározott egészségügyi és személyes adatot kezelő szervezettől, illetve
+
+be) az önkormányzati adóhatóságtól.
+
+(2) A NAV titkos információgyűjtés folytatására feljogosított szerve az adatszolgáltatás teljesítésére határidőt jelölhet meg. Az adatszolgáltatás ingyenes és nem tagadható meg. Az így kapott információ csak a megjelölt célra használható fel.
+
+(3) Ha az adatkérés engedélyezése olyan késedelemmel járna, amely az adatkéréssel elérni kívánt célt jelentősen veszélyeztetné, az ügyészség engedélye nélkül is kérhető az adatszolgáltatás. Az adatszolgáltatás nem tagadható meg az ügyészségi engedély hiánya miatt. Ilyen esetben az ügyészség engedélyét utólag haladéktalanul be kell szerezni. Ha az adatkérést az ügyészség nem engedélyezi, az így beszerzett adatokat haladéktalanul törölni kell.

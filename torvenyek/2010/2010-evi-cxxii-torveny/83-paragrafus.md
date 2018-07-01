@@ -1,1 +1,1 @@
-83. § A kijelölt miniszter utasításban állapítja meg a NAV felhatalmazott szervei által végzett titkos információgyűjtés eszközei, módszerei alkalmazásának szabályait.
+83. § A kijelölt miniszter utasításban állapítja meg a IV. Fejezet szerinti titkos információgyűjtés eszközei, módszerei, illetve a leplezett eszközök NAV általi alkalmazásának, valamint a speciális kiadások felhasználásának részletes szabályait.

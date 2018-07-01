@@ -1,13 +1,15 @@
-52. § E fejezet alkalmazásában:
+52. § A NAV titkos információgyűjtés folytatására feljogosított szerve
 
-1. álvásárlás: a fedett nyomozó színlelt vételi szándékán alapuló, a bűncselekmény elkövetőjének elfogása, továbbá a bűncselekmény tárgyi bizonyítékának biztosítása érdekében e dolog vételére irányuló leplezett megállapodás, és annak teljesítése;
+a) a NAV nyomozó hatósági jogkörébe tartozó bűncselekmények elkövetésének megelőzése céljából,
 
-2. bizalmi vásárlás: a fedett nyomozónak jogellenes kereskedelmi ügyletként megjelenő olyan leplezett tevékenysége, amelynek során a bűncselekmény tárgyi bizonyítási eszközét képező dolgot vásárol az eladó bizalmának erősítése, a későbbi álvásárlás elősegítése érdekében;
+b) a személyi védelem ellátása során,
 
-3. ellenőrzött szállítás: a felhatalmazott szervek olyan leplezett tevékenysége, amelynek során – a nemzetközi együttműködés keretében, folyamatos és fokozott ellenőrzés mellett – lehetővé teszik a megfigyelés alatt álló elkövető számára az általa birtokolt, a bűncselekménye tárgyi bizonyítási eszközét képező dolognak az ország területére történő behozatalát, más ország területére irányuló kivitelét, az ország területén történő átszállítását annak érdekében, hogy a bűncselekmény elkövetői a lehető legszélesebb körben felderíthetők legyenek, a nemzetközi bűncselekmény tényállása megállapíthatóvá váljék;
+c) az Európai Unió tagállamával vagy harmadik országgal a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény vagy nemzetközi szerződés alapján folytatott együttműködés keretében,
 
-4. fedett nyomozó: a titkos információgyűjtés keretében eljáró – kilétét leplező – pénzügyi nyomozó;
+d) bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása érdekében,
 
-5. mintavásárlás: az informátor, a bizalmi személy, a felhatalmazott szervekkel titkosan együttműködő más személy vagy a fedett nyomozó által végrehajtott olyan leplezett ügylet, amelynek célja, hogy a bűncselekmény felderítése érdekében a bűncselekménnyel összefüggésbe hozható anyagok, tárgyak, eszközök vagy ezek mintái, alkatrészei további vizsgálat céljából a felhatalmazott szervek birtokába kerüljenek, illetve a bűncselekmény történeti tényállása megismerhető legyen;
+e) a NAV-hoz tartozását, illetve kilétét tartósan leplező, kifejezetten ilyen feladat ellátása érdekében foglalkoztatott pénzügyi nyomozó (a továbbiakban: fedett nyomozó), illetve a valódi céljának leplezésével működő szervezet (a továbbiakban: fedőintézmény) védelme érdekében, valamint
 
-6. súlyos bűncselekmény: az a NAV nyomozóhatósági hatáskörébe tartozó bűntett, amelyet a törvény ötévi, vagy ennél súlyosabb szabadságvesztéssel fenyeget.
+f) a NAV-val titkosan együttműködő személy védelme, bevonása és ellenőrzése érdekében
+
+az e törvényben meghatározott szabályok alapján folytathat titkos információgyűjtést.

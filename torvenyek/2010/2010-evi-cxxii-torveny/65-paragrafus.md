@@ -1,19 +1,15 @@
-65. § (1) Ha a különleges eszköz alkalmazásának engedélyezése olyan késedelemmel járna, amely az adott ügyben nyilvánvalóan sértené a bűnüldözés eredményességéhez fűződő érdeket, a felhatalmazott szervek vezetői legfeljebb a bírói döntésig engedélyezhetik a különleges eszköz alkalmazását (sürgősségi elrendelés).
+65. § (1) Ha a bírói engedélyhez kötött eszköz alkalmazásának engedélyezése olyan késedelemmel járna, amely a titkos információgyűjtéssel elérni kívánt célt nyilvánvalóan veszélyeztetné, a NAV titkos információgyűjtés folytatására feljogosított szervének a vezetője elrendelheti a titkos kutatást, illetve a bíróság döntéséig, de legfeljebb hetvenkét órára más bírói engedélyhez kötött eszköz alkalmazását.
 
-(2) A sürgősségi elrendelés esetén az engedélyezés iránti kérelmet egyidejűleg be kell nyújtani. A kérelem elutasítása esetén sürgősségi elrendelésnek ugyanabból a célból, változatlan indok vagy tényállás alapján ismételten nincs helye.
+(2) A bírói engedélyhez kötött eszköz (1) bekezdés alapján elrendelt alkalmazásának esetén a NAV titkos információgyűjtés folytatására feljogosított szervének a vezetője az elrendeléssel egyidejűleg előterjeszti a kérelmet a bíróságnak az utólagos engedélyezés érdekében.
 
-(3) A felhatalmazott szerv vezetője haladéktalanul elrendeli a különleges eszköz alkalmazásának megszüntetését, ha:
+(3) A (2) bekezdésben meghatározott kérelem tartalmazza az (1) bekezdésben meghatározott feltételek fennállását megalapozó körülményeket is, továbbá az elrendelés időpontját órában meghatározva.
 
-a) az engedélyben meghatározott célját elérte,
+(4) A bíróság a kérelmet akkor is elutasítja, ha
 
-b) az engedélyben megállapított határidő lejárt,
+a) a kérelem elkésett, vagy
 
-c) nyilvánvaló, hogy további alkalmazásától nem várható eredmény,
+b) az engedély az alkalmazás (1) bekezdés alapján történő elrendelése előtt is beszerezhető lett volna.
 
-d) a sürgősséggel elrendelt alkalmazást a bíró nem engedélyezte.
+(5) Ha a bíróság a (2) bekezdésben meghatározott kérelmet elutasítja, ugyanabból a célból, változatlan indok alapján bírói engedélyhez kötött eszköz alkalmazása az (1) bekezdés alapján ismételten nem rendelhető el.
 
-(4) A (3) bekezdés d) pontja esetében a különleges eszköz alkalmazásával rögzített információt haladéktalanul meg kell semmisíteni.
-
-(5) A különleges eszközzel végzett megfigyelés befejezését követő 8 napon belül meg kell semmisíteni a megfigyelés célja szempontjából érdektelen rögzített információt vagy az ügyben nem érintett személy adatait.
-
-(6) A külön engedélyhez kötött titkos információgyűjtés során szerzett és rögzített adatokat az engedélyező bíró bármikor megismerheti.
+(6) A bírói engedélyhez kötött eszköz alkalmazásának engedélyezése esetén az alkalmazás kezdő időpontját az (1) bekezdés szerinti elrendelés időpontjától kell számítani.

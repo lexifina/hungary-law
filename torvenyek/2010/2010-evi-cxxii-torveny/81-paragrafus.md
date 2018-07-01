@@ -18,7 +18,7 @@ a) a Központi Irányítást és a területi szerveket,
 
 b)–c)
 
-d) a Bűnügyi Főigazgatóságot és a NAV nyomozóhatósági feladatait ellátó területi szerveit,
+d) a Bűnügyi Főigazgatóságot és a NAV nyomozó hatósági feladatait ellátó területi szerveit,
 
 e)
 

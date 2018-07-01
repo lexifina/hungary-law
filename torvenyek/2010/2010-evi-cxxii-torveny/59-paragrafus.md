@@ -1,7 +1,21 @@
-## Adatkérés
+## Bírói engedélyhez kötött eszközök
 
-59. § (1) A felhatalmazott szervek vezetői az ügyész jóváhagyásával a kétévi vagy ennél súlyosabb szabadságvesztéssel büntetendő, szándékos bűncselekmény felderítése érdekében az üggyel összefüggő adatok szolgáltatását igényelhetik az önkormányzati adóhatóságtól, a szolgáltatást nyújtó postai szolgáltatótól, elektronikus hírközlési szolgáltatótól, az egészségügyi és a hozzá kapcsolódó adatot kezelő szervtől, továbbá a banktitoknak, fizetési titoknak, értékpapírtitoknak, pénztártitoknak, biztosítási titoknak és egyéb üzleti titoknak minősülő adatot kezelő szervtől. A felhatalmazott szervek az adatszolgáltatás teljesítésére határidőt jelölhetnek meg. Az adatszolgáltatás ingyenes és nem tagadható meg. Az így kapott információ csak a megkeresésben megjelölt célra használható fel.
+59. § (1) Bírói engedélyhez kötött eszköz akkor alkalmazható, ha
 
-(2) A felhatalmazott szervek vezetői az (1) bekezdés szerinti bűncselekmény felderítése érdekében az ügyész jóváhagyásával vehetnek át adatot a NAV adóztatási szerveitől, illetve vámszerveitől.
+a) megalapozottan feltehető, hogy a megszerezni kívánt információ az 52. §-ban meghatározott cél eléréséhez elengedhetetlenül szükséges és más módon nem szerezhető meg,
 
-(3) A „halaszthatatlan intézkedés” jelzéssel ellátott, előzetes ügyészi jóváhagyást nélkülöző megkeresést haladéktalanul teljesíteni kell. „Halaszthatatlan intézkedés” jelzéssel ellátott megkeresés abban az esetben bocsátható ki, ha a késedelem veszéllyel jár és az ügy szervezett bűnözéssel függ össze. Az ügyész jóváhagyása iránt a megkereséssel egyidejűleg intézkedni kell. Ha az ügyész a jóváhagyását megtagadja, a felhatalmazott szervek az így beszerzett adatokat haladéktalanul megsemmisítik.
+b) annak alkalmazása nem jár az azzal érintett vagy más személy alapvető jogának az elérendő célhoz képest aránytalan korlátozásával, és
+
+c) annak alkalmazásával az 52. §-ban meghatározott cél eléréséhez szükséges információ megszerzése valószínűsíthető.
+
+(2) A titkos információgyűjtés során a következő bírói engedélyhez kötött eszközök alkalmazhatók:
+
+a) titkos kutatás,
+
+b) hely titkos megfigyelése,
+
+c) küldemény titkos megismerése,
+
+d) lehallgatás,
+
+e) információs rendszer titkos megfigyelése.

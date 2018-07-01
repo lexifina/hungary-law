@@ -4,7 +4,7 @@ a) állampolgár bejelentése, kérelme, valamint feljelentés, panasz,
 
 b) DNS- és ujjnyomat minta elemzése,
 
-c) bíróság, ügyészség, más hatóság vagy egyéb szerv értesítése,
+c) bíróság, ügyészség, nyomozó hatóság, más hatóság vagy egyéb szerv értesítése,
 
 d) törvény alapján más szervek által vagy külföldről továbbított adatok átvétele,
 

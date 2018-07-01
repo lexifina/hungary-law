@@ -2,9 +2,9 @@
 
 (2) A NAV nyomozó hatósága a bűnüldözési feladatok teljesítése érdekében az adott bűncselekmény felderítése és nyomozása során, illetve a 77. § szerinti feladatok ellátása érdekében a bűnüldözési rendszereit és a NAV egyéb rendszereit – a (4) bekezdés szerinti eltéréssel – egymással összekapcsolva egyedi adatkezelést végezhet.
 
-(3) Az 59. § (2) bekezdés szerinti esetben az adóztatási, illetve vámigazgatási feladatainak ellátása céljából vezetett nyilvántartásból csak ügyészi jóváhagyással vehető át adótitoknak, vámtitoknak minősülő adat, irat.
+(3) Az 58. § (1) bekezdés a) pontja szerinti esetben az adóztatási, illetve vámigazgatási feladatainak ellátása céljából vezetett nyilvántartásból csak ügyészségi jóváhagyással vehető át adótitoknak, vámtitoknak minősülő adat, irat.
 
-(4) Az 59. § (2) bekezdés szerinti esetben a NAV egyéb rendszereiből csak ügyészi jóváhagyással vehető át adat, illetve végezhető összekapcsolt egyedi adatkezelés.
+(4) Az 58. § (1) bekezdés a) pontja szerinti esetben a NAV egyéb rendszereiből csak ügyészségi jóváhagyással vehető át adat, illetve végezhető összekapcsolt egyedi adatkezelés.
 
 (5) A NAV nyomozó hatósága a bűnüldözési feladatok teljesítése érdekében – ha az adatvédelem feltételei biztosítottak – az adott bűncselekmény felderítése, nyomozása során a bűnüldözési adatkezelési rendszereket más nyomozó hatóság adatkezelési rendszerével összekapcsolva egyedi adatkezelést végezhet.
 

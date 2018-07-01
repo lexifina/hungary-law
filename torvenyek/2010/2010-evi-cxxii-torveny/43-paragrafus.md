@@ -12,4 +12,4 @@ b) a NAV nyomozó hatósága hatáskörébe tartozó, súlyos bűncselekmény el
 
 c) a személye ellen intézett támadás vagy az életét, testi épségét közvetlenül fenyegető magatartás elhárítására.
 
-(4) A (3) bekezdés b) pontjának alkalmazásában súlyos bűncselekmény az a NAV nyomozóhatósági hatáskörébe tartozó bűntett, amelyet a törvény ötévi vagy ennél súlyosabb szabadságvesztéssel fenyeget.
+(4) A (3) bekezdés b) pontjának alkalmazásában súlyos bűncselekmény az a NAV nyomozó hatósági hatáskörébe tartozó bűntett, amelyet a törvény ötévi vagy ennél súlyosabb szabadságvesztéssel fenyeget.

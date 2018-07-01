@@ -18,7 +18,7 @@ a) ha szakértői vizsgálat szükséges, a szakvélemény elkészítéséig;
 
 b) ha az eljárás alá vont külföldön tartózkodik, a 33/P. § (4) bekezdésben meghatározott időpontig;
 
-c) ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult – legfeljebb az eljárás jogerős befejezéséig;
+c) ha a kötelezettségszegés miatt szabálysértési eljárás indult, az eljárás jogerős befejezéséig, illetve ha büntetőeljárás indult, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig;
 
 d) ha a cselekmény elbírálása olyan előzetes kérdéstől függ, amelynek eldöntése bíróság vagy más hatóság hatáskörébe tartozik, annak a jogerős vagy végleges döntéséig.
 

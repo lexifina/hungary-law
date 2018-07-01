@@ -1,7 +1,11 @@
-## A feljelentés elutasításának, vagy a nyomozás megszüntetésének kilátásba helyezése
+57. § (1) A NAV az 52. §-ban meghatározott célból, valamint a leplezett eszközök alkalmazása során a saját személyi állománya, a vele titkosan együttműködő személy védelme céljából, illetve a pénzügyi nyomozói jelleg leplezése érdekében
 
-57. § (1) A felhatalmazott szervek az ügyész hozzájárulásával a Be. 175. §-ának (1) bekezdése alapján a feljelentés elutasításának, vagy a Be. 192. §-ának (1) bekezdése alapján a nyomozás megszüntetésének kilátásba helyezésével információszolgáltatásban állapodhatnak meg a bűncselekmény elkövetőjével, ha a megállapodással elérhető bűnüldözési célhoz fűződő érdek jelentősebb, mint az állam büntetőjogi igényének érvényesítéséhez fűződő érdek.
+a) valótlan adatot, tényt vagy nyilatkozatot tartalmazó okiratot vagy közokiratot (a továbbiakban: fedőokirat) készíthet vagy használhat fel, illetve
 
-(2) Az (1) bekezdés szerinti megállapodás létrejötte esetén a Be. 175. §-ának (3)–(4) bekezdése alapján a NAV az elkövető által a sértettnek okozott kárt megtéríti, illetve személyiségi jogsértés esetén a sérelemdíjat megfizeti, az ehhez szükséges fedőokiratot elkészítheti, illetve titoktartási megállapodás megkötését kezdeményezheti.
+b) fedőintézményt hozhat létre és tarthat fenn.
 
-(3) Nem köthető a Be. 175. §-ának (6), valamint a 192. §-ának (3) bekezdése alapján megállapodás azzal a személlyel, aki más életének szándékos kioltásával járó bűncselekmény elkövetésével megalapozottan gyanúsítható.
+(2) A NAV a titkos információgyűjtés, valamint a leplezett eszközök alkalmazása során a saját személyi állománya, a vele titkosan együttműködő személy védelme céljából, illetve a pénzügyi nyomozói jelleg leplezése érdekében, valamint a fedőokirat és a fedőintézmény védelme érdekében a közhiteles nyilvántartásokba valótlan adatot (a továbbiakban: fedőadat) jegyeztethet be.
+
+(3) Fedőintézményként költségvetési szerv nem hozható létre. Rendvédelmi szerv, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség és a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatait ellátó szerve fedőintézményként, okmánya fedőokmányként csak a szervet irányító miniszter és az érintett szervezet országos vezetőjének, az Országgyűlési Őrség esetében a parancsnok és az Országgyűlés elnökének tájékoztatásával alkalmazható.
+
+(4) A fedőokiratot meg kell semmisíteni, illetve a közhiteles nyilvántartásokból a fedőadatot törölni kell, ha arra a továbbiakban már nincs szükség.

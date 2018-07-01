@@ -10,4 +10,4 @@
 
 (6) Ahol jogszabály vámhatóságot említ, azon – a (7) bekezdés kivételével – 2011. január 1-jétől a Nemzeti Adó- és Vámhivatal – mint állami adó- és vámhatóság – vámszervét kell érteni.
 
-(7) Ahol jogszabály vámhatóságot a bűnmegelőzési, bűnüldözési, bűnfelderítési, nyomozóhatósági feladatokkal összefüggésben említ, azon 2011. január 1-jétől a Nemzeti Adó- és Vámhivatal bűnügyi főigazgatóságát és a bűnügyi főigazgatóság középfokú szerveit valamint a Nemzeti Adó- és Vámhivatal vámszerveinek az Európai Unió külső vámhatárán működő, nyomozóhatósági hatáskörrel felruházott, e jogkörükben eljáró kirendeltségeit kell érteni.
+(7) Ahol jogszabály vámhatóságot a bűnmegelőzési, bűnüldözési, bűnfelderítési, nyomozó hatósági feladatokkal összefüggésben említ, azon 2011. január 1-jétől a Nemzeti Adó- és Vámhivatal bűnügyi főigazgatóságát és a bűnügyi főigazgatóság középfokú szerveit valamint a Nemzeti Adó- és Vámhivatal vámszerveinek az Európai Unió külső vámhatárán működő, nyomozó hatósági hatáskörrel felruházott, e jogkörükben eljáró kirendeltségeit kell érteni.

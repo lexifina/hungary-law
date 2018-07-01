@@ -1,9 +1,13 @@
-61. § (1) A NAV feladatai teljesítése érdekében – a fedésül szolgáló intézmény típusára vonatkozó jogszabályok előírásai szerint – fedőintézményt hozhat létre, és tarthat fenn. Fedőintézményként költségvetési szerv nem hozható létre.
+61. § (1) Bűncselekmény elkövetésének megelőzése céljából akkor lehet bírói engedélyhez kötött titkos információgyűjtést folytatni, ha megalapozottan feltehető, hogy attól a szervezett bűnözéssel kapcsolatos, illetve szervezett bűnözői csoportok azonosítását lehetővé tevő információk megszerzése várható.
 
-(2) A fedőintézmény létrehozása és – szükség esetén – fenntartása a NAV bűnügyi főigazgatósága költségvetéséből történik. Az ehhez szükséges kiadások speciális működési kiadásnak minősülnek. A szükséges pénzügyi eszközök forrását a titkosság megtartása mellett kell biztosítani.
+(2) Az 52. § c) pontjában meghatározott célból bírói engedélyhez kötött eszköz akkor alkalmazható, ha a külföldi hatóság igazolja, hogy a megkeresésben megjelölt bírói engedélyhez kötött eszköz alkalmazása a külföldi hatóság saját államának joga szerint törvényes.
 
-(3) Ha a fedőintézmény megszűnik, vagyona a NAV bűnügyi főigazgatóságát illeti.
+(3) Az 52. § c) pontjában meghatározott célból a 60. § d) és e) pontjában meghatározott bírói engedélyhez kötött eszköz akkor alkalmazható, ha a külföldi hatóság megkeresésében megjelölt személy
 
-(4) Az államháztartásról szóló törvény rendelkezései a fedőintézményre nem vonatkoznak.
+a) Magyarország területén tartózkodik, vagy
 
-(5) A felhatalmazott szervek a 60. § (2) bekezdésében meghatározott körben külön korlátozás nélkül valutát kezelhetnek.
+b) harmadik állam területén tartózkodik, azonban
+
+ba) a titkos lehallgatás Magyarország területén működő elektronikus hírközlési szolgáltatást végző szervezet, illetve az információs rendszerben tárolt adatok továbbítását, feldolgozását, kezelését végző szervezet közreműködését igényli, vagy
+
+bb) a bírói engedélyhez kötött eszköz alkalmazásához szükséges technikai eszköz Magyarország területén található.
