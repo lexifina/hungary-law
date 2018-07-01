@@ -4,11 +4,11 @@
 
 ## 30. Általános szabályok
 
-38. § (1)[^60] A testi kényszert, bilincset, vegyi eszközt, elektromos sokkoló eszközt, rendőrbotot, kardlapot, illetve szolgálati kutyát alkalmazó rendőr – az ellenszegülés megtörését, illetve a támadás megakadályozását követően – szóban köteles haladéktalanul jelentést tenni a közvetlen szolgálati elöljárójának, illetve értesíteni az ügyeletet vagy a tevékenység-irányítási központot. A kísérés során, a kizárólag annak végrehajtása érdekében történő bilincsalkalmazás kivételével a kényszerítő eszközt alkalmazó rendőr, valamint a csapaterőt, útzár alkalmazását, továbbá tömegoszlatást elrendelő parancsnok a helyszíni intézkedések után köteles írásos jelentést készíteni. Ha a kényszerítő eszköz alkalmazását személyi szabadságot korlátozó intézkedés követi, a kényszerítő eszközt alkalmazó rendőrnek a jelentést a személyi szabadságot korlátozó intézkedésről szóló írásos jelentésben kell megtennie.
+38. § (1)[^70] A testi kényszert, bilincset, vegyi eszközt, elektromos sokkoló eszközt, rendőrbotot, kardlapot, illetve szolgálati kutyát alkalmazó rendőr – az ellenszegülés megtörését, illetve a támadás megakadályozását követően – szóban köteles haladéktalanul jelentést tenni a közvetlen szolgálati elöljárójának, illetve értesíteni az ügyeletet vagy a tevékenység-irányítási központot. A kísérés során, a kizárólag annak végrehajtása érdekében történő bilincsalkalmazás kivételével a kényszerítő eszközt alkalmazó rendőr, valamint a csapaterőt, útzár alkalmazását, továbbá tömegoszlatást elrendelő parancsnok a helyszíni intézkedések után köteles írásos jelentést készíteni. Ha a kényszerítő eszköz alkalmazását személyi szabadságot korlátozó intézkedés követi, a kényszerítő eszközt alkalmazó rendőrnek a jelentést a személyi szabadságot korlátozó intézkedésről szóló írásos jelentésben kell megtennie.
 
 (2) A kényszerítő eszköz alkalmazásáról készített jelentés tartalmazza:
 
-a)[^61] az alkalmazás alapjául szolgáló magatartás eseményhű bemutatása mellett annak leírását, hol, mikor, kivel szemben, mennyi ideig, milyen kényszerítő eszköz alkalmazására került sor, és ennek mi volt az indoka,
+a)[^71] az alkalmazás alapjául szolgáló magatartás eseményhű bemutatása mellett annak leírását, hol, mikor, kivel szemben, mennyi ideig, milyen kényszerítő eszköz alkalmazására került sor, és ennek mi volt az indoka,
 
 b) a jogellenes magatartás abbahagyására történt-e felszólítás, ha nem, ennek mi volt az oka,
 
@@ -36,5 +36,5 @@ c) ha az intézkedés alá vont, valamint az eseménynél jelen levő személy a
 
 (5) A szolgálati elöljáró a megállapításait írásban rögzíti, amelyben állást foglal a szakszerűség, szükségesség, jogszerűség, arányosság követelményének megtartásáról. Ha megállapítása szerint a kényszerítő eszközök alkalmazására jogszabálysértő módon került sor, – ha annak jogszabályi feltételei fennállnak – az intézkedő rendőr ellen kártérítési, fegyelmi vagy kártérítési, fegyelmi és büntetőeljárást kezdeményez.
 
-[^60]: A 38. § (1) bekezdése a 18/2013. (V. 9.) BM rendelet 8. §-ával megállapított szöveg.
-[^61]: A 38. § (2) bekezdés a) pontja a 61/2015. (XI. 24.) BM rendelet 8. §-ával megállapított szöveg.
+[^70]: A 38. § (1) bekezdése a 18/2013. (V. 9.) BM rendelet 8. §-ával megállapított szöveg.
+[^71]: A 38. § (2) bekezdés a) pontja a 61/2015. (XI. 24.) BM rendelet 8. §-ával megállapított szöveg.
