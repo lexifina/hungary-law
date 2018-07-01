@@ -44,7 +44,7 @@ a) aki büntetett előéletű,
 
 b) az a külföldi állampolgár, aki a magyarországi tartózkodás szabályait megszegi, magyarországi tartózkodásának jogszerűségét hitelt érdemlően nem tudja igazolni, illetve aki a schengeni információs rendszerben körözés hatálya alatt áll,
 
-c) aki bűntett vagy háromévi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség elkövetésének megalapozott gyanúja miatt büntetőeljárás alatt áll, a büntetőeljárás jogerős befejezéséig,
+c) aki bűntett vagy háromévi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség miatt büntetőeljárás hatálya alatt áll,,
 
 d) aki ezzel nemzetbiztonsági érdeket sért,
 

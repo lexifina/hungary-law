@@ -54,7 +54,7 @@ c) az idegenrendészeti hatóságnak;
 
 d) a vámhatóságnak;
 
-e) a nyomozó hatóságoknak;
+e) a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, illetve az előkészítő eljárást folytató szervnek;
 
 f) a nemzetbiztonsági szerveknek;
 
