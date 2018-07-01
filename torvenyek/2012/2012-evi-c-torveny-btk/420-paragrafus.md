@@ -6,7 +6,7 @@
 
 (3) A büntetés vétség miatt két évig terjedő szabadságvesztés, ha az (1) vagy (2) bekezdésben meghatározott bűncselekményt jelentős értéket meg nem haladó közbeszerzési értékre követik el.
 
-(4) Nem büntethető az (1)–(3) bekezdésben meghatározott bűncselekmény elkövetője, ha a cselekményt, mielőtt az a büntető ügyekben eljáró hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.
+(4) Nem büntethető az (1)–(3) bekezdésben meghatározott bűncselekmény elkövetője, ha a cselekményt, mielőtt az a büntetőügyekben eljáró hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.
 
 (5) Nem büntethető az (1)–(3) bekezdésben meghatározott bűncselekmény elkövetője, ha a cselekmény elkövetésekor olyan vállalkozás vezető tisztségviselője, tagja, felügyelő bizottságának tagja, alkalmazottja vagy ezek megbízottja, amely – mielőtt a versenyfelügyeleti ügyekben eljáró hatóság az ügyben vizsgálatot indított volna – a cselekményre kiterjedően a versenykorlátozás tilalmáról szóló törvény szerinti bírság mellőzésére alapot adó kérelmet nyújtott be, és az elkövetés körülményeit feltárja.
 

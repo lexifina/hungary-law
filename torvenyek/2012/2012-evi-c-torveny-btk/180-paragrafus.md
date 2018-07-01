@@ -1,8 +1,8 @@
-180. § (1) Nem büntethető, aki csekély mennyiségű kábítószert saját használatra termeszt, előállít, megszerez vagy tart, illetve aki kábítószert fogyaszt, ha a bűncselekmény elkövetését beismeri, és az elsőfokú ítélet meghozataláig okirattal igazolja, hogy legalább hat hónapig folyamatos, kábítószer-függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban részesült, vagy megelőző-felvilágosító szolgáltatáson vett részt.
+180. § (1) Nem büntethető, aki csekély mennyiségű kábítószert saját használatra termeszt, előállít, megszerez vagy tart, illetve aki kábítószert fogyaszt, ha a bűncselekmény elkövetését beismeri, és az elsőfokú ügydöntő határozat meghozataláig okirattal igazolja, hogy legalább hat hónapig folyamatos, kábítószer-függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban részesült, vagy megelőző-felvilágosító szolgáltatáson vett részt.
 
-(2) Az (1) bekezdés nem alkalmazható, ha a bűncselekmény elkövetését megelőzően két éven belül
+(2) Az (1) bekezdés nem alkalmazható, ha a bűncselekmény elkövetését megelőző két éven belül
 
-a) az elkövetővel szemben a vádemelést azért halasztották el, illetve a nyomozást vagy az eljárást azért függesztették fel, mert vállalta a kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvételt, vagy
+a) az elkövetővel szemben az eljárást az (1) bekezdésben meghatározott büntethetőséget megszüntető okra figyelemmel függesztették fel, vagy
 
 b) az elkövető büntetőjogi felelősségét kábítószer-kereskedelem vagy kábítószer birtoklása miatt megállapították.
 

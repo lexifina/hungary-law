@@ -2,7 +2,7 @@
 
 308. § (1) Az a hivatalos személy, aki megbízhatósági vizsgálatot
 
-a) ügyészi jóváhagyás nélkül végez, vagy a jóváhagyás kereteit túllépi,
+a) ügyészségi jóváhagyás nélkül végez, vagy a jóváhagyás kereteit túllépi,
 
 b) jogosulatlanul jóváhagy,
 

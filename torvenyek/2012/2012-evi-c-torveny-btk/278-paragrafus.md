@@ -2,7 +2,7 @@
 
 278. § (1) Aki mást erőszakkal vagy fenyegetéssel arra kényszerít, hogy hatósági eljárásban a törvényes jogait ne gyakorolja, vagy a kötelezettségeit ne teljesítse, a kényszerítés hatósági eljárásban bűncselekményt követi el.
 
-(2) Aki a bűncselekményt büntető ügyben követi el, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő. Ha a bűncselekményt olyan büntető ügyben követik el, amely életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény miatt folyik, a büntetés két évtől nyolc évig terjedő szabadságvesztés.
+(2) Aki a bűncselekményt büntetőügyben követi el, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő. Ha a bűncselekményt olyan büntetőügyben követik el, amely életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény miatt folyik, a büntetés két évtől nyolc évig terjedő szabadságvesztés.
 
 (3) Aki a bűncselekményt polgári ügyben követi el, három évig terjedő szabadságvesztéssel büntetendő. Ha a polgári ügy tárgya különösen nagy vagyoni érték vagy különösen jelentős egyéb érdek, a büntetés egy évtől öt évig terjedő szabadságvesztés.
 

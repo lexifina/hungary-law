@@ -2,9 +2,9 @@
 
 100. § (1) E törvény erejénél fogva áll be a mentesítés
 
-a) elzárás, pénzbüntetés és közérdekű munka esetén az ítélet jogerőre emelkedésének napján,
+a) elzárás, pénzbüntetés és közérdekű munka esetén az ügydöntő határozat jogerőre emelkedésének napján,
 
-b) foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás és sportrendezvények látogatásától való eltiltás esetén az ítélet jogerőre emelkedése napján,
+b) foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás és sportrendezvények látogatásától való eltiltás esetén az ügydöntő határozat jogerőre emelkedése napján,
 
 c) kiutasítás esetén a büntetés végrehajtásának befejezése vagy végrehajthatóságának megszűnése napján,
 

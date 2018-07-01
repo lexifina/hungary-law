@@ -4,4 +4,4 @@
 
 (2) Aki jogszabályon alapuló és végrehajtható hatósági határozatban előírt tartási kötelezettségét önhibájából nem teljesíti, és ezzel a jogosultat súlyos nélkülözésnek teszi ki, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) Az (1) bekezdés alapján az elkövető nem büntethető, a (2) bekezdés esetén büntetése korlátlanul enyhíthető, ha kötelezettségének az elsőfokú ítélet meghozataláig eleget tesz.
+(3) Az (1) bekezdés alapján az elkövető nem büntethető, a (2) bekezdés esetén büntetése korlátlanul enyhíthető, ha kötelezettségének az elsőfokú ügydöntő határozat meghozataláig eleget tesz.

@@ -1,6 +1,6 @@
 ## Feltételes szabadságra bocsátás a határozott ideig tartó szabadságvesztésből
 
-38. § (1) Határozott ideig tartó szabadságvesztés kiszabása esetén a bíróság az ítéletében megállapítja a feltételes szabadságra bocsátás legkorábbi időpontját, vagy – a (4) bekezdésben meghatározott esetekben – azt, hogy a feltételes szabadságra bocsátás lehetősége kizárt.
+38. § (1) Határozott ideig tartó szabadságvesztés kiszabása esetén a bíróság az ügydöntő határozatában megállapítja a feltételes szabadságra bocsátás legkorábbi időpontját, vagy – a (4) bekezdésben meghatározott esetekben – azt, hogy a feltételes szabadságra bocsátás lehetősége kizárt.
 
 (2) Ha a feltételes szabadságra bocsátás lehetősége nem kizárt, annak legkorábbi időpontja
 
@@ -10,7 +10,7 @@ b) visszaeső esetén háromnegyed
 
 részének, de legkevesebb három hónapnak a kitöltését követő nap.
 
-(3) Öt évet meg nem haladó szabadságvesztés kiszabása esetén – különös méltánylást érdemlő esetben – a bíróság ítéletében akként rendelkezhet, hogy az elítélt a büntetés fele részének letöltése után feltételes szabadságra bocsátható. Ez a rendelkezés nem alkalmazható, ha az elítélt többszörös visszaeső.
+(3) Öt évet meg nem haladó szabadságvesztés kiszabása esetén – különös méltánylást érdemlő esetben – a bíróság az ügydöntő határozatában akként rendelkezhet, hogy az elítélt a büntetés fele részének letöltése után feltételes szabadságra bocsátható. Ez a rendelkezés nem alkalmazható, ha az elítélt többszörös visszaeső.
 
 (4) Nem bocsátható feltételes szabadságra
 

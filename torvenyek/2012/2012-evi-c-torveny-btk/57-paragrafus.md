@@ -4,4 +4,4 @@
 
 (2) A kitiltás legrövidebb tartama egy év, leghosszabb tartama öt év.
 
-(3) A kitiltás tartama az ítélet jogerőre emelkedésével kezdődik. Ha a kitiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a kitiltás tartamába be kell számítani.
+(3) A kitiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. Ha a kitiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a kitiltás tartamába be kell számítani.

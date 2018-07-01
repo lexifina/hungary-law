@@ -22,4 +22,4 @@ h) nem viselhet tisztséget köztestületben, közalapítványban, és
 
 i) nem lehet civil szervezetnek a civil szervezetekről szóló törvényben megjelölt vezető tisztségviselője.
 
-(3) A közügyektől eltiltott az ítélet jogerőre emelkedésével elveszti mindazon tagságát, állását, tisztségét, katonai rendfokozatát, megbízatását és kitüntetését, amelynek elnyerését a (2) bekezdés kizárja, valamint címzetes rendfokozatát.
+(3) A közügyektől eltiltott az ügydöntő határozat jogerőre emelkedésével elveszti mindazon tagságát, állását, tisztségét, katonai rendfokozatát, megbízatását és kitüntetését, amelynek elnyerését a (2) bekezdés kizárja, valamint címzetes rendfokozatát.

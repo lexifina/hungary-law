@@ -2,7 +2,7 @@
 
 126. § (1) A fiatalkorú elítélt a törvény erejénél fogva mentesül
 
-a) az ítélet jogerőre emelkedésének napján, ha a kiszabott szabadságvesztés végrehajtását felfüggesztik,
+a) az ügydöntő határozat jogerőre emelkedésének napján, ha a kiszabott szabadságvesztés végrehajtását felfüggesztik,
 
 b) a büntetés kitöltésének vagy végrehajthatósága megszűnésének napján, ha szándékos bűncselekmény miatt egy évet meg nem haladó tartamú szabadságvesztésre ítélték,
 

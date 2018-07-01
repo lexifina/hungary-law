@@ -1,15 +1,7 @@
-## A büntetés kiszabása tárgyalásról lemondás esetén
+## A büntetés kiszabása egyezség esetén
 
-83. § (1) Tárgyalásról lemondás esetén – a (2) bekezdésben meghatározottak kivételével – a büntetés kiszabásakor a 82. § (2) bekezdésében meghatározott enyhébb büntetési tételek alsó határát kell alapul venni.
+83. § (1) A büntetőeljárásról szóló 2017. évi XC. törvény XCIX. Fejezete szerinti eljárásban az egyezség (a továbbiakban: egyezség) jóváhagyása esetén a büntetés kiszabásakor a 82. § (2) bekezdésében meghatározott enyhébb büntetési tételek alsó határát kell alapul venni.
 
-(2) Együttműködő terhelt tárgyalásról lemondása esetén a szabadságvesztés mértéke
+(2) Ha az egyezség jóváhagyására olyan terhelt esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a büntetést a 82. § (2) bekezdés soron következő pontja alapján is ki lehet szabni.
 
-a) nyolc évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt a három évet,
-
-b) öt évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt a két évet,
-
-c) három évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt a hat hónapot
-
-nem haladhatja meg.
-
-(3) Ha a tárgyalásról lemondásnak nyolcévi szabadságvesztésnél súlyosabban büntetendő bűncselekmény miatt van helye, a bűnszervezetben elkövetett bűncselekményre előírt szigorúbb rendelkezések nem alkalmazhatóak, a büntetést a bűncselekményre az e törvény által előírt büntetési tételkeretek között kell kiszabni.
+(3)

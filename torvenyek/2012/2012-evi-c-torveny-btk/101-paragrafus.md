@@ -4,6 +4,6 @@
 
 (2) Felfüggesztett szabadságvesztés esetén a bíróság az elítéltet kérelemre utólag mentesítésben részesítheti, ha erre érdemes, és a próbaidő fele része, de legalább egy év már eltelt.
 
-(3) Az érdemesség elbírálásánál figyelembe kell venni az elítéltnek a büntetés kitöltése, felfüggesztett szabadságvesztés esetén az ítélet jogerőre emelkedése óta folytatott életmódját, továbbá azt, hogy – ha erre módja volt – jóvátette-e a bűncselekménnyel okozott sérelmet.
+(3) Az érdemesség elbírálásánál figyelembe kell venni az elítéltnek a büntetés kitöltése, felfüggesztett szabadságvesztés esetén az ügydöntő határozat jogerőre emelkedése óta folytatott életmódját, továbbá azt, hogy – ha erre módja volt – jóvátette-e a bűncselekménnyel okozott sérelmet.
 
 (4) Felfüggesztett szabadságvesztés esetén az utólagos mentesítés hatályát veszti, ha a felfüggesztett szabadságvesztés végrehajtását elrendelik.

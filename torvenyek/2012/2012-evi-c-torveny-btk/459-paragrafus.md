@@ -30,7 +30,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 
 8. gazdálkodó szervezet: a polgári perrendtartás szerinti gazdálkodó szervezeten kívül az a szervezet is, amelynek gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira a polgári perrendtartás szerint a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni;
 
-9. hatóság a bíróság és az ügyész is;
+9. hatóság a bíróság és az ügyészség is;
 
 10. háború:
 
@@ -224,7 +224,7 @@ b) többszörös visszaeső az, akit a szándékos bűncselekmény elkövetésé
 
 c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el;
 
-32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló egyéb mentességet élvez.
+32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló mentességet élvez.
 
 (2) Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni kell.
 

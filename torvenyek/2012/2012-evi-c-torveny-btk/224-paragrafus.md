@@ -4,7 +4,7 @@
 
 a) másnak közlést tartalmazó zárt küldeményét megsemmisíti, a tartalmának megismerése végett felbontja, megszerzi, vagy ilyen célból illetéktelen személynek átadja, illetve
 
-b) elektronikus hírközlő hálózat útján másnak továbbított közleményt kifürkész,
+b) elektronikus hírközlő hálózat – ideértve az információs rendszert is – útján másnak továbbított közleményt kifürkész,
 
 ha súlyosabb bűncselekmény nem valósul meg, vétség miatt elzárással büntetendő.
 

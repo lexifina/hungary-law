@@ -10,7 +10,7 @@ c) a szabadságvesztés felfüggesztésének próbaideje,
 
 d) a javítóintézetből történő ideiglenes elbocsátás tartama,
 
-e) a vádemelés elhalasztásának tartama
+e) a feltételes ügyészi felfüggesztés tartama
 
 alatt pártfogó felügyelet alatt áll.
 

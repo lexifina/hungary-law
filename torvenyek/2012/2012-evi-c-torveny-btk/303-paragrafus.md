@@ -6,4 +6,4 @@
 
 (3) Aki a kényszervallatásra irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(4) Korlátlanul enyhíthető annak a büntetése, aki (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádirat benyújtásáig a hatóság előtt feltárja.
+(4) Korlátlanul enyhíthető annak a büntetése, aki (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádemelés előtt a hatóság előtt feltárja.

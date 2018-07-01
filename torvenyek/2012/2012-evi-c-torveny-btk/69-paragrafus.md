@@ -2,7 +2,7 @@
 
 69. § (1) Pártfogó felügyelet rendelhető el
 
-a) a vádemelés elhalasztásának tartamára,
+a) a feltételes ügyészi felfüggesztés tartamára,
 
 b) a feltételes szabadság tartamára,
 

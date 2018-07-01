@@ -6,4 +6,4 @@
 
 (3) A pénzbüntetés legkisebb mértéke harminc, legnagyobb mértéke ötszáznegyven napi tétel. Egynapi tétel összegét legalább ezer, legfeljebb ötszázezer forintban kell meghatározni.
 
-(4) A bíróság ítéletében – az elkövető vagyoni, jövedelmi viszonyaira tekintettel – rendelkezhet úgy, hogy az elkövető a pénzbüntetést legfeljebb két éven belül havi részletekben fizetheti meg.
+(4) A bíróság az ügydöntő határozatában – az elkövető vagyoni, jövedelmi viszonyaira tekintettel – rendelkezhet úgy, hogy az elkövető a pénzbüntetést legfeljebb két éven belül havi részletekben fizetheti meg.

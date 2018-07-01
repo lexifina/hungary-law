@@ -6,4 +6,4 @@
 
 (3) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha (2) bekezdésben meghatározott bűncselekményt különösen nagy vagy azt meghaladó értékre követik el.
 
-(4) Tartozás fedezetének elvonása miatt az elkövető nem büntethető, ha a tartozást a vádirat benyújtásáig kiegyenlíti.
+(4) Tartozás fedezetének elvonása miatt az elkövető nem büntethető, ha a tartozást a vádemelés előtt kiegyenlíti.

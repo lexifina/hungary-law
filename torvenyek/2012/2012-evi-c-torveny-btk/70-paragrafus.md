@@ -6,7 +6,7 @@ b) a próbára bocsátás próbaidejével,
 
 c) a szabadságvesztés felfüggesztésének próbaidejével,
 
-d) a vádemelés elhalasztásának tartamával,
+d) a feltételes ügyészi felfüggesztés tartamával,
 
 de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett feltételes szabadság esetén legfeljebb tizenöt év.
 
