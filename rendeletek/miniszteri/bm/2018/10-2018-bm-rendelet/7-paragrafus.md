@@ -1,0 +1,1 @@
+## 6. § Ha a parancsnok az általános megelőzés, a katonai rend és fegyelem megszilárdítása érdekében indokoltnak tartja, hogy a bíróság a tárgyalást a Be. 509. § (2) bekezdése alapján ne a bíróság hivatalos helyiségében, hanem az Országgyűlési Őrség hivatalos helyiségében tartsa meg, ennek indítványozására az ügyésznek javaslatot tesz.
