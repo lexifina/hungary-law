@@ -1,4 +1,4 @@
-6. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^97]
+6. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^112]
 
 6. adatlap
 
@@ -34,11 +34,11 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ELISMERÉSÉRŐL, TAGÁLLAMI ÍTÉLET MEGFELELT
 
 | 1.8. Neme: ⬜ férfi ⬜ nő 1.9. Állampolgárság: ............................................. 1.10. Előző állampolgárság: .................................. |
 
-| 1.11. Lakóhely: |
+| 1.11. Lakcím: |
 
 | ............................................................................................................................................................... |
 
-| 1.12. Előző lakóhely: |
+| 1.12. Előző lakcím: |
 
 | .............................................................................................................................................................. |
 
@@ -46,7 +46,7 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ELISMERÉSÉRŐL, TAGÁLLAMI ÍTÉLET MEGFELELT
 
 | 3. A határozat és az eljáró szerv adatai: 3.1. A külföldi vagy a tagállami ítélet jogerőre emelkedésének napja: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜nap. 3.2. Külföldi bíróság(ok) adatai: megnevezése: .............................................................................................................................................................. határozatának száma: ......................................................................... kelte: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. megnevezése: ............................................................................................................................................................... határozatának száma: ......................................................................... kelte: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. megnevezése: ............................................................................................................................................................... határozatának száma: ......................................................................... kelte: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
 
-| 3.3. Az elismerés vagy a megfeleltetés során első fokon eljárt bíróság megnevezése: határozatának száma: ......................................................................... kelte: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
+| 3.3. Az elismerés vagy a megfeleltetés során elsőfokon eljárt bíróság megnevezése: határozatának száma: ......................................................................... kelte: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
 
 | 3.4. Az elismerés vagy a megfeleltetés során másodfokon eljárt bíróság megnevezése: határozatának száma: ......................................................................... kelte: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. jogerőre emelkedésének napja: ⬜⬜⬜⬜ év ⬜⬜ hó ⬜⬜ nap. |
 
@@ -140,4 +140,4 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ELISMERÉSÉRŐL, TAGÁLLAMI ÍTÉLET MEGFELELT
 
 |  | Intézkedés nyilvántartási ideje: |  |
 
-[^97]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 22/2017. (XII. 22.) IM rendelet 8. §-ával megállapított szöveg.
+[^112]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 22/2017. (XII. 22.) IM rendelet 8. §-ával megállapított, a 16/2018. (VI. 22.) IM rendelet 13. § 18–19. és 23. pontja szerint módosított szöveg.

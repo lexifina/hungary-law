@@ -1,4 +1,4 @@
-5. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^96]
+5. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^111]
 
 5. adatlap
 
@@ -34,7 +34,7 @@ ADATKÖZLÉS ÖSSZBÜNTETÉSI ÍTÉLETRŐL, EGYSÉGES INTÉZKEDÉS ELRENDELÉSÉ
 
 | 1.8. Neme: □ férfi □ nő 1.9. Állampolgárság: ............................................. 1.10. Előző állampolgárság: .................................. |
 
-| 1.11. Lakóhely: ............................................................................................................................................................…………………… 1.12. Előző lakóhely: |
+| 1.11. Lakcím: ............................................................................................................................................................…………………… 1.12. Előző lakcím: |
 
 | ............................................................................................................................................................…………………… |
 
@@ -42,7 +42,7 @@ ADATKÖZLÉS ÖSSZBÜNTETÉSI ÍTÉLETRŐL, EGYSÉGES INTÉZKEDÉS ELRENDELÉSÉ
 
 | 2.1. Jogerőre emelkedésének napja: □□□□ év □□ hó □□ nap. |
 
-| 2.2. Első fokon eljárt bíróság megnevezése: |
+| 2.2. Elsőfokon eljárt bíróság megnevezése: |
 
 | ............................................................................................................................................................…………………… |
 
@@ -118,4 +118,4 @@ ADATKÖZLÉS ÖSSZBÜNTETÉSI ÍTÉLETRŐL, EGYSÉGES INTÉZKEDÉS ELRENDELÉSÉ
 
 | Intézkedés nyilvántartási ideje: |  |
 
-[^96]: Az 5. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.
+[^111]: Az 5. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított, a 16/2018. (VI. 22.) IM rendelet 13. § 18–19. és 22. pontja szerint módosított szöveg.

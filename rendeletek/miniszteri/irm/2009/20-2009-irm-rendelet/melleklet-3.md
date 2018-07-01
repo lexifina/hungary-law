@@ -1,4 +1,4 @@
-3. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^94]
+3. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^109]
 
 Eljáró hatóság megnevezése:
 
@@ -24,9 +24,9 @@ ADATKÖZLÉS ÜGYÉSZI MEGROVÁS ALKALMAZÁSÁRÓL
 
 | 1.6. Anyja születési családi és utóneve: |
 
-| 1.7. Anyja előző születési családi és utóneve: 1.8. Neme: □ férfi □ nő 1.9. Állampolgárság: ................................................................. 1.10. Előző állampolgárság: ...................................................... 1.11. Lakóhely: |
+| 1.7. Anyja előző születési családi és utóneve: 1.8. Neme: □ férfi □ nő 1.9. Állampolgárság: ................................................................. 1.10. Előző állampolgárság: ...................................................... 1.11. Lakcím: |
 
-| 1.11. Előző lakóhely: |
+| 1.11. Előző lakcím: |
 
 | 2. Az eljáró ügyészség adatai és az ügy alapadatai: |
 
@@ -58,4 +58,4 @@ ADATKÖZLÉS ÜGYÉSZI MEGROVÁS ALKALMAZÁSÁRÓL
 
 | Nyilvántartási ideje: |
 
-[^94]: A 3. melléklet a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.
+[^109]: A 3. melléklet a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított, , a 16/2018. (VI. 22.) IM rendelet 13. § 18–19. pontja szerint módosított szöveg.

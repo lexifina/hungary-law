@@ -1,71 +1,115 @@
-7. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^98]
+7. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^113]
 
 7. adatlap
 
-ADATKÖZLÉS A BÍRÓSÁG KÜLÖNLEGES ELJÁRÁSBAN ÉS A BÜNTETÉS-VÉGREHAJTÁS SORÁN HOZOTT DÖNTÉSEIRŐL
+ADATKÖZLÉS A BÍRÓSÁG KÜLÖNLEGES ELJÁRÁSBAN, EGYSZERŰSÍTETT FELÜLVIZSGÁLATI
 
-| □ PÓTLAP IGÉNYBEVÉTELE |
+ELJÁRÁSÁBAN ÉS A
+
+BÜNTETÉS-VÉGREHAJTÁS SORÁN HOZOTT DÖNTÉSEIRŐL
+
+□ PÓTLAP IGÉNYBEVÉTELE
 
 | 1. Terhelt személyazonosító adatai: |
 
-| 1.1. Személyi azonosító: □□□□□□□□□□ |
+| 1.1. Személyi azonosító: □□□□□□□□□□□ |
 
-| 1.2. Családi és utónév: ..........................................................................................................................................................……………………... |
+| 1.2. Családi és utónév: |
 
-| 1.3. Születési családi és utónév: ..........................................................................................................................................................……………………... |
+| .................................................................................................................................................................................. |
 
-| 1.4. Előző születési családi és utónév: ..........................................................................................................................................................……………………... |
+| 1.3. Születési családi és utónév: |
 
-| 1.5. Születési hely: ......................................................................... idő: □□□□ év □□ hó □□ nap. |
+| .................................................................................................................................................................................. |
 
-| 1.6. Anyja születési családi és utóneve: ..........................................................................................................................................................……………………... |
+| 1.4. Előző születési családi és utónév: |
 
-| 1.7. Anyja előző születési családi és utóneve: ..........................................................................................................................................................……………………... |
+| .................................................................................................................................................................................. |
 
-| 1.8. Neme: □ férfi vagy □ nő 1.9. Állampolgárság: ........................................... 1.10. Előző állampolgárság: ................................ |
+| 1.5. Születési hely: .............................................................................................................. idő: □□□□év □□hó □□nap. |
 
-| 1.11. Lakóhely: ..........................................................................................................................................................……………………... |
+| 1.6. Anyja születési családi és utóneve: |
 
-| 1.12. Előző lakóhely: ..........................................................................................................................................................……………………... |
+| .................................................................................................................................................................................. |
 
-| 2. A terhelt érvényes úti okmánnyal rendelkezik (kitöltése kötelező): | □ IGEN □ NEM |
+| 1.7. Anyja előző születési családi és utóneve: |
 
-| 3. A különleges eljárás tárgya: |
+| .................................................................................................................................................................................. |
 
-| □ próbára bocsátás meghosszabbítása | □ pártfogó felügyelet változása |
+| 1.8. Neme: □férfi vagy □nő |
 
-| □ elévülés megállapítása | □ pénzbüntetés vagy közérdekű munka átváltoztatás |
+| 1.9. Állampolgárság: ............................................ |
 
-| □ szabadságvesztés utólagos elrendelése | □ átváltoztatás miatt próbaidő meghosszabbodása |
+| 1.10. Előző állampolgárság: .................................. |
 
-| □ utólagos elkobzás, vagyonelkobzás vagy elektronikus adat végleges hozzáférhetetlenné tétele | □ bírósági mentesítés |
+| 1.11. Lakcím: |
 
-| 4. Az eljáró bíróság adatai és az ügy alapadatai: |  |
+| .................................................................................................................................................................................. |
 
-| 4.1. Az első fokon eljáró bíróság megnevezése: ......................................................................................................................... |  |
+| 1.12. Előző lakcím: |
 
-| határozatának száma: ......................................................................................... kelte: | □□□□ év □□ hó □□ nap. |
+| .................................................................................................................................................................................. |
 
-| Jogerős határozatot hozó bíróság megnevezése: ......................................................................................................................... |  |
+| 2. A terhelt érvényes úti okmánnyal rendelkezik (kitöltése kötelező): □IGEN □NEM |
 
-| határozatának száma: ......................................................................................... kelte: | □□□□ év □□ hó □□ nap. |
+| 3. Az eljárás tárgya: |  |
 
-| jogerőre emelkedés napja: | □□□□ év □□ hó □□ nap. |
+| □próbára bocsátás meghosszabbítása | □pártfogó felügyelet változása |
 
-| 4.2. Alapügyben első fokon eljárt bíróság megnevezése: ...................................................................................................................... |  |
+| □elévülés megállapítása | □pénzbüntetés vagy közérdekű munka átváltoztatás |
 
-| határozatának száma: ......................................................................................... kelte: | □□□□ év □□ hó □□ nap. |
+| □szabadságvesztés utólagos elrendelése | □átváltoztatás miatt próbaidő meghosszabbodása |
 
-| Az alapügyben jogerős határozatot hozó bíróság megnevezése: ...................................................................................................................... |  |
+| □utólagos elkobzás, vagyonelkobzás vagy elektronikus adat végleges hozzáférhetetlenné tétele | □bírósági mentesítés |
 
-| határozatának száma: ......................................................................................... kelte: jogerőre emelkedés napja: | □□□□ év □□ hó □□ nap. □□□□ év □□ hó □□ nap. |
+| 4. Az eljáró bíróság adatai és az ügy alapadatai: |
 
-| 5. A különleges eljárásra vonatkozó adatok:5.1. Próbára bocsátás meghosszabbítása esetén a próbára bocsátás leteltének napja: □□□□ év □□ hó □□ nap. 5.2. Pártfogó felügyelet utólagos elrendelése vagy meghosszabbítása esetén a pártfogó felügyelet kezdőnapja: □□□□ év □□ hó □□ nap és letelte □□□□ év □□ hó □□ nap. 5.3. Büntetés vagy közügyektől eltiltás végrehajthatóságának elévülése esetén az elévülés napja: □□□□ év □□ hó □□ nap. 5.4. A pénzbüntetés vagy a közérdekű munka szabadságvesztésre történő átváltoztatása során megállapított szabadságvesztés időtartama: ..........................................................................................................................................................……………………... 5.5. A pénzbüntetés közérdekű munkára történő átváltoztatása során megállapított közérdekű munka időtartama: ..........................................................................................................................................................……………………... 5.6. Próbaidő meghosszabbodása esetén a korábbi felfüggesztett szabadságvesztést kiszabó bíróság megnevezése: .........................................................határozatának száma: ............................................ jogerőre emelkedésének napja: □□□□ év □□ hó □□ nap. A meghosszabbodott próbaidő leteltének napja: □□□□ év □□ hó □□ nap 5.7. A mentesítés időpontja: □□□□ év □□ hó □□ nap. |
+| 4.1. Az elsőfokon eljáró bíróság megnevezése: ......................................................................................................................... |
 
-| Kelt: ................................, ........... év .......... hó ........ nap. |
+| határozatának száma: ..................................................................................... kelte: □□□□év □□hó □□nap. |
+
+| Jogerős határozatot hozó bíróság megnevezése: ......................................................................................................................... |
+
+| határozatának száma: ..................................................................................... kelte: □□□□év □□hó □□nap. |
+
+| jogerőre emelkedés napja: □□□□év □□hó □□nap. |
+
+| 4.2. Alapügyben elsőfokon eljárt bíróság megnevezése: ........................................................................................................... |
+
+| határozatának száma: ..................................................................................... kelte: □□□□év □□hó □□nap. |
+
+| Az alapügyben jogerős határozatot hozó bíróság megnevezése: ................................................................................................. |
+
+| határozatának száma: ..................................................................................... kelte: □□□□év □□hó □□nap. |
+
+| jogerőre emelkedés napja: □□□□év □□hó □□nap. |
+
+| 5. Az eljárásra vonatkozó adatok: |
+
+| 5.1. Próbára bocsátás meghosszabbítása esetén a próbára bocsátás leteltének napja: □□□□év □□hó □□nap. |
+
+| 5.2. Pártfogó felügyelet utólagos elrendelése vagy meghosszabbítása esetén a pártfogó felügyelet kezdőnapja: □□□□év □□hó □□nap és letelte □□□□év □□hó □□nap. |
+
+| 5.3. Büntetés vagy közügyektől eltiltás végrehajthatóságának elévülése esetén az elévülés napja: □□□□év □□hó □□nap. |
+
+| 5.4. A pénzbüntetés vagy a közérdekű munka szabadságvesztésre történő átváltoztatása során megállapított szabadságvesztés időtartama: |
+
+| ............................................................................................................................................................................................. |
+
+| 5.5. A pénzbüntetés közérdekű munkára történő átváltoztatása során megállapított közérdekű munka időtartama: |
+
+| ............................................................................................................................................................................................. |
+
+| 5.6. Próbaidő meghosszabbodása esetén a korábbi felfüggesztett szabadságvesztést kiszabó bíróság megnevezése: ...................................................................................... határozatának száma: ...................................................................... jogerőre emelkedésének napja: □□□□év □□hó □□nap. |
+
+| A meghosszabbodott próbaidő leteltének napja: □□□□év □□hó □□nap. |
+
+| 5.7. A mentesítés időpontja: □□□□év □□hó □□nap. |
+
+| Kelt: ................................, ........... év .......... hó ........ nap |
 
 | P. H. |
 
 |  | ........................................................ Az eljáró szerv képviselője |
 
-[^98]: A 7. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.
+[^113]: A 7. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 16/2018. (VI. 22.) IM rendelet 12. § (3) bekezdésével megálapított szöveg.

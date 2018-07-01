@@ -6,6 +6,8 @@ a) a büntetőügyek egyesítéséről, elkülönítéséről hozott határozat 
 
 b) a büntetőügy áttétele esetén
 
-ba) a 6. § a) pontjában meghatározott esetben az áttételről hozott határozattal szembeni jogorvoslatra nyitva álló idő elteltének,
+ba)[^19] a 6. § a) pontjában meghatározott esetben az áttételről hozott határozat keltének,
 
 bb) a 6. § b) pontjában meghatározott esetben az átvétel
+
+[^19]: A 7. § b) pont ba) alpontja a 16/2018. (VI. 22.) IM rendelet 13. § 5. pontja szerint módosított szöveg.

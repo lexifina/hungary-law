@@ -1,4 +1,4 @@
-10. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^101]
+10. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^116]
 
 10. adatlap
 
@@ -24,9 +24,9 @@ ADATKÖZLÉS A KÜLFÖLDRE UTAZÁSI KORLÁTOZÁS HATÁLYA ALATT ÁLLÓK NYILVÁN
 
 | 1.8. Neme: □ férfi □ nő 1.9. Állampolgárság: ........................................................ 1.10. Előző állampolgárság: ............................................. |
 
-| 1.11. Lakóhely: |
+| 1.11. Lakcím: |
 
-| 1.12. Előző lakóhely: |
+| 1.12. Előző lakcím: |
 
 | 2. Az érintett személy érvényes úti okmánnyal rendelkezik (kitöltése kötelező): | □ IGEN □ NEM |
 
@@ -76,4 +76,4 @@ ADATKÖZLÉS A KÜLFÖLDRE UTAZÁSI KORLÁTOZÁS HATÁLYA ALATT ÁLLÓK NYILVÁN
 
 | Az eljáró szerv képviselője |
 
-[^101]: A 10. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.
+[^116]: A 10. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított, a 16/2018. (VI. 22.) IM rendelet 13. § 18–19. pontja szerint módosított szöveg.

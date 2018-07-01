@@ -2,10 +2,13 @@
 
 ## 21. § A 18–20. §-ban meghatározott adatközlést
 
-a) a büntetőügyek egyesítéséről, elkülönítéséről hozott határozat esetén a jogorvoslatra nyitva álló idő elteltének,
+a)[^82] a büntetőügyek egyesítéséről, elkülönítéséről hozott határozat esetén a határozat keltének,
 
 b) a büntetőügy áttétele esetén
 
-ba) a 20. § a) pontjában meghatározott esetben az áttételről hozott határozattal szembeni jogorvoslatra nyitva álló idő elteltének,
+ba)[^83] a 20. § a) pontjában meghatározott esetben az áttételről hozott határozat keltének,
 
 bb) a 20. § b) pontjában meghatározott esetben az átvétel
+
+[^82]: A 21. § a) pontja a 16/2018. (VI. 22.) IM rendelet 13. § 16. pontja szerint módosított szöveg.
+[^83]: A 21. § b) pont ba) alpontja a 16/2018. (VI. 22.) IM rendelet 13. § 17. pontja szerint módosított szöveg.

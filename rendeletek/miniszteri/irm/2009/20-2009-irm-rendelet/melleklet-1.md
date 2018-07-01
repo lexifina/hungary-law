@@ -1,6 +1,6 @@
-## 29–33. §[^91]
+## 30–33. §[^106]
 
-1. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^92]
+1. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^107]
 
 Eljáró hatóság megnevezése:
 
@@ -32,9 +32,9 @@ ADATKÖZLÉS A BÜNTETŐELJÁRÁSI CSELEKMÉNYEKRŐL
 
 | 1.8. Neme: □ férfi □ nő 1.9. Állampolgárság: ............................................. 1.10. Előző állampolgárság: .................................. |
 
-| 1.11. Lakóhely: |
+| 1.11. Lakcím: |
 
-| 1.12. Előző lakóhely: |
+| 1.12. Előző lakcím: |
 
 | 2. A bűncselekmény adatai: (kitöltése kötelező) |
 
@@ -90,7 +90,7 @@ ADATKÖZLÉS A BÜNTETŐELJÁRÁSI CSELEKMÉNYEKRŐL
 
 | 6.5. Az alapügyben vagy a büntetőeljárás folytatását megelőzően eljáró szerv határozatának száma: …................................................................................................................... |
 
-| 7. A nyomozás vagy a büntetőeljárás megszüntetésére vonatkozó adatok: |
+| 7. Az eljárás vagy a büntetőeljárás megszüntetésére vonatkozó adatok: |
 
 | 7.1. Az eljáró szerv kódja és megnevezése: □□□□□□□ |
 
@@ -100,9 +100,9 @@ ADATKÖZLÉS A BÜNTETŐELJÁRÁSI CSELEKMÉNYEKRŐL
 
 | ................................................................................................................................. |
 
-| 7.3. A nyomozás megszüntetésének napja: □□□□ év □□ hó □□ nap |
+| 7.3. Az eljárás megszüntetésének napja: □□□□ év □□ hó □□ nap |
 
-| 7.4. A bírósági határozat jogerőre emelkedésének napja: □□□□ év □□ hó □□ nap 7.5 A megszüntetésre a Bnytv. 25. § c) pontjában meghatározott okok miatt került sor □ Igen □ Nem |
+| 7.4. A bírósági határozat jogerőre emelkedésének vagy véglegessé válásának napja: □□□□ év □□ hó □□ nap 7.5 A megszüntetésre a Bnytv. 25. § c) pontjában meghatározott okok miatt került sor □ Igen □ Nem |
 
 | (kitöltése kötelező) |
 
@@ -118,5 +118,5 @@ ADATKÖZLÉS A BÜNTETŐELJÁRÁSI CSELEKMÉNYEKRŐL
 
 | Nyilvántartási ideje: |
 
-[^91]: A 29–33. § a 33. § (2) bekezdése alapján hatályát vesztette.
-[^92]: Az 1. melléklet a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.
+[^106]: A 30–33. § a 33. § (2) bekezdése alapján hatályát vesztette.
+[^107]: Az 1. melléklet a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított, a 16/2018. (VI. 22.) IM rendelet 13. § 18–21. pontja szerint módosított szöveg.
