@@ -4,11 +4,11 @@
 
 a) a kényszergyógykezelt betegek pszichiátriai kezelését és rehabilitációját,
 
-b) az ideiglenes kényszergyógykezelt betegek pszichiátriai kivizsgálását és kezelését,
+b)[^4] az előzetes kényszergyógykezelt betegek pszichiátriai kivizsgálását és kezelését,
 
 c) azon kóros elmeállapotú szabadságvesztésre ítéltek kezelését és rehabilitációját, akiknek a szabadságvesztés végrehajtási helyeként a büntetés-végrehajtási bíró az IMEI-t jelölte ki,
 
-d) azon előzetesen letartóztatottak pszichiátriai kivizsgálását és kezelését, akiknek az előzetes letartóztatás helyeként a bíróság az IMEI-t jelölte ki,
+d)[^5] azon letartóztatottak pszichiátriai kivizsgálását és kezelését, akiknek a letartóztatás helyeként a bíróság az IMEI-t jelölte ki,
 
 e) az elmeállapot megfigyelésre beutaltak kivizsgálását, megfigyelését és szükség esetén kezelését,
 
@@ -29,3 +29,6 @@ d) kábítószer birtoklásával összefüggésben engedélyezett elterelése es
 (3) Az IMEI a kegyelmi eljárás során elvégzi az igazságügyért felelős miniszter rendelkezésének megfelelően, az elítélt szakorvosi vizsgálatát és véleményezését.
 
 (4) Az IMEI ellátja a bv. intézetekben végrehajtott pszichiátriai-terápiás programok szakmai módszertani irányítását.
+
+[^4]: A 2. § (1) bekezdés b) pontja a 14/2018. (VI. 15.) IM rendelet 9. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés d) pontja a 14/2018. (VI. 15.) IM rendelet 9. § c) és d) pontja szerint módosított szöveg.

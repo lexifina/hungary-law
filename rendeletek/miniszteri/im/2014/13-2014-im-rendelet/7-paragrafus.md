@@ -4,9 +4,9 @@
 
 a) az elrendelő bíróságot,
 
-b) a beteg lakóhelye (tartózkodási helye) szerint illetékes rendőrkapitányságot,
+b)[^7] a beteg lakcíme szerint illetékes rendőrkapitányságot,
 
-c)[^1] a bűnügyi nyilvántartó szervet (a továbbiakban: KEKKH),
+c)[^8] a bűnügyi nyilvántartó szervet (a továbbiakban: KEKKH),
 
 d) pártfogó felügyelet alatt álló beteg esetén a pártfogó felügyelőt, illetve a büntetés-végrehajtási pártfogó felügyelőt,
 
@@ -18,4 +18,5 @@ e) fiatalkorú esetén a fiatalkorú lakóhelye szerint illetékes gyámhatósá
 
 (4) A Magyar Honvédség hivatásos vagy szerződéses állományú, valamint a rendvédelmi szervek hivatásos állományú tagja szolgálati igazolványát a beteg befogadásától számított három munkanapon belül meg kell küldeni az azt kiállító szervnek.
 
-[^1]: A 7. § (1) bekezdés c) pontja a 28/2016. (XII. 27.) IM rendelet 11. §-a szerint módosított szöveg.
+[^7]: A 7. § (1) bekezdés b) pontja a 14/2018. (VI. 15.) IM rendelet 9. § e) pontja szerint módosított szöveg.
+[^8]: A 7. § (1) bekezdés c) pontja a 28/2016. (XII. 27.) IM rendelet 11. §-a szerint módosított szöveg.
