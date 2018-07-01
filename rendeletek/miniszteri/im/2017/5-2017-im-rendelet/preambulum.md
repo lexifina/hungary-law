@@ -1,1 +1,0 @@
-A büntetőeljárásról szóló 1998. évi XIX. törvény 604. § (2) bekezdés n) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
