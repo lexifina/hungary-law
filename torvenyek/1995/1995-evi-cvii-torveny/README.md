@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-107-00-00
 | 2015-07-01 | 2015. évi XLII. törvény | 1995-107-00-00.24 |
 | 2015-11-01 | 2015. évi CLI. törvény | 1995-107-00-00.25 |
 | 2017-01-01 | 2016. évi CX. törvény | 1995-107-00-00.26 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 1995-107-00-00.27 |

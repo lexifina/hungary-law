@@ -4,7 +4,7 @@
 
 (2a) Az intézkedésnek passzívan ellenszegülő személlyel szemben csak testi kényszer alkalmazható.
 
-(3) Csak korlátozott testi kényszer (megfogás, lefogás) alkalmazható a kényszergyógykezelttel, az ideiglenes kényszergyógykezelttel és a kóros elmeállapotúvá vált fogvatartottal szemben.
+(3) Csak korlátozott testi kényszer (megfogás, lefogás) alkalmazható a kényszergyógykezelttel, az előzetes kényszergyógykezelttel és a kóros elmeállapotúvá vált fogvatartottal szemben.
 
 (4) Nincs helye kényszerítő eszköz további alkalmazásának, ha az ellenszegülés megtört vagy az intézkedés eredményessége enélkül is biztosítható.
 
@@ -14,4 +14,4 @@
 
 (7) A jogszerűtlennek minősített kényszerítő eszköz használatáról az ügyészt nyolc napon belül, ha pedig a kényszerítő eszköz használata testi sérülést vagy halált okozott, haladéktalanul értesíteni kell.
 
-(8) Ha a kényszerítő eszközt kényszergyógykezelttel vagy ideiglenes kényszergyógykezelttel szemben alkalmazták, a 16. § (6) bekezdés szerint kialakított állásfoglalásról az érintett személyen kívül értesíteni kell a betegjogi képviselőt, a beteg törvényes vagy meghatalmazott képviselőjét és a törvényességi felügyeletet ellátó ügyészt is.
+(8) Ha a kényszerítő eszközt kényszergyógykezelttel vagy előzetes kényszergyógykezelttel szemben alkalmazták, a 16. § (6) bekezdés szerint kialakított állásfoglalásról az érintett személyen kívül értesíteni kell a betegjogi képviselőt, a beteg törvényes vagy meghatalmazott képviselőjét és a törvényességi felügyeletet ellátó ügyészt is.

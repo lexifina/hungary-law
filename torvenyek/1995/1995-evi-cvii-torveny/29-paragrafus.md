@@ -6,7 +6,7 @@ b) a bíróság,
 
 c) az ügyészség,
 
-d) a rendőrség és az egyéb nyomozó hatóságok,
+d) a rendőrség, a nyomozó hatóság és az előkészítő eljárást folytató szerv,
 
 e) a nemzetbiztonsági szolgálatok,
 

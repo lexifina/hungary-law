@@ -18,4 +18,4 @@ d) a bv. szerv vagyonát rongálja, és azt felhívás ellenére sem hagyja abba
 
 e) a 13. § (4) bekezdésében meghatározott magatartást tanúsít.
 
-(3) Az intézkedéssel érintett személynek, továbbá ha az intézkedést kényszergyógykezelttel, ideiglenes kényszergyógykezelttel szemben alkalmazták, a betegjogi képviselőnek, a beteg törvényes vagy meghatalmazott képviselőjének – függetlenül a 16. § (6) bekezdése szerinti állásfoglalástól – joga van az intézkedéssel kapcsolatban feljelentést, keresetet, bejelentést vagy panaszt tenni az illetékes hatóságnál vagy szervnél.
+(3) Az intézkedéssel érintett személynek, továbbá ha az intézkedést kényszergyógykezelttel, előzetes kényszergyógykezelttel szemben alkalmazták, a betegjogi képviselőnek, a beteg törvényes vagy meghatalmazott képviselőjének – függetlenül a 16. § (6) bekezdése szerinti állásfoglalástól – joga van az intézkedéssel kapcsolatban feljelentést, keresetet, bejelentést vagy panaszt tenni az illetékes hatóságnál vagy szervnél.
