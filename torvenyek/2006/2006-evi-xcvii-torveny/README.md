@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-97-00-00
 | 2016-12-20 | 2016. évi CLXXII. törvény | 2006-97-00-00.18 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2006-97-00-00.19 |
 | 2018-01-01 | 2017. évi L. törvény | 2006-97-00-00.20 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2006-97-00-00.21 |

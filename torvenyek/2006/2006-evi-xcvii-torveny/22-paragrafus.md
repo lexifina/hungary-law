@@ -2,8 +2,10 @@
 
 (2) Nem indítható meg az etikai eljárás, ha a cselekménynek a területi szervezet etikai bizottságának tudomására jutásától 6 hónap, vagy a cselekmény elkövetése óta 3 év eltelt.
 
-(3) Ha az etikai vétségnek is minősülő ügyben büntető- vagy szabálysértési eljárás indult, az eljárás jogerős befejezésétől számított 3 hónapon belül az etikai eljárás akkor is megindítható, ha a (2) bekezdésben meghatározott határidő eltelt. A 3 hónapos határidőt a területi szervezet etikai bizottságának a jogerős határozatról való tudomásszerzésétől kell számítani.
+(3) Ha az etikai vétségnek is minősülő ügyben büntető- vagy szabálysértési eljárás indult, szabálysértési eljárás esetén az eljárás jogerős befejezésétől, büntetőeljárás esetén a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától számított 3 hónapon belül az etikai eljárás akkor is megindítható, ha a (2) bekezdésben meghatározott határidő eltelt. A 3 hónapos határidőt a területi szervezet etikai bizottságának a határozatról való tudomásszerzésétől kell számítani.
 
 (4) Az etikai eljárást a (2) bekezdésben meghatározott időpont bekövetkezésén túl is meg kell indítani, ha annak lefolytatását az egészségügyi dolgozó maga ellen kéri.
 
-(5) A bíróság vagy a szabálysértési hatóság határozatát a kamara kérelmére, vagy – amennyiben az érintett személy kamarai tagsága a bíróság, eljáró hatóság előtt ismert – hivatalból, a jogerőre emelkedést követő 30 napon belül megküldi az illetékes kamarai szervnek.
+(5) A bíróság vagy a szabálysértési hatóság határozatát a kamara kérelmére, vagy – amennyiben az érintett személy kamarai tagsága a bíróság, eljáró hatóság előtt ismert – hivatalból, a jogerőre emelkedést vagy a véglegessé válást követő 30 napon belül megküldi az illetékes kamarai szervnek.
+
+(5a) Az ügyészség vagy a nyomozó hatóság a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve a további jogorvoslattal nem támadható eljárást megszüntető határozatát az (5) bekezdés szerint a határozathozatalt követő 30 napon belül küldi meg az illetékes kamarai szervnek.

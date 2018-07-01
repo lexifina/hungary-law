@@ -2,7 +2,7 @@
 
 a)
 
-b) akit a kamarai tagságának alapjául szolgáló foglalkozástól jogerős ítélettel határozott időre eltiltottak, az eltiltás időtartamára, ha a kamarából a 25. § (1) bekezdés e) pontjában szereplő etikai büntetésként nem zárták ki,
+b) akit a kamarai tagságának alapjául szolgáló foglalkozástól jogerős ügydöntő határozattal határozott időre eltiltottak, az eltiltás időtartamára, ha a kamarából a 25. § (1) bekezdés e) pontjában szereplő etikai büntetésként nem zárták ki,
 
 c)
 
