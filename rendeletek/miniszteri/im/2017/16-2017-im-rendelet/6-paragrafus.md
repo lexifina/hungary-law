@@ -1,4 +1,4 @@
-## 5. §[^2] Az ügyvéd, az európai közösségi jogász és a külföldi jogi tanácsadó ügyvédi tevékenység szüneteltetésének engedélyezése iránti eljárás díjának összege 15 000 Ft.
+## 5. §[^1] Az ügyvéd, az európai közösségi jogász és a külföldi jogi tanácsadó ügyvédi tevékenység szüneteltetésének engedélyezése iránti eljárás díjának összege 15 000 Ft.
 
 6. § (1) Az ügyvédi iroda és az európai közösségi jogászi iroda (a továbbiakban együtt: ügyvédi iroda) nyilvántartásba vétele iránti eljárás díja 30 000 Ft.
 
@@ -10,4 +10,4 @@
 
 (5) Az ügyvédi iroda székhelyváltoztatása, valamint az aliroda vagy fiókiroda nyilvántartásba vétele iránti eljárás díja 15 000 Ft.
 
-[^2]: Az 5. § a 10/2018. (VI. 11.) IM rendelet 4. §-a szerint módosított szöveg.
+[^1]: Az 5. § a 10/2018. (VI. 11.) IM rendelet 4. §-a szerint módosított szöveg.

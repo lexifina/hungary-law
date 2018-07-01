@@ -4,7 +4,7 @@
 
 (2) Ha az ügyfél az eljárás során nem elektronikus kapcsolattartási módra tér át, a díjat az (1) bekezdés alkalmazása nélküli összegre egészíti ki.
 
-(3)[^4] Elektronikus kapcsolattartás esetén
+(3)[^3] Elektronikus kapcsolattartás esetén
 
 a) az ügyvédi kamarai nyilvántartás adatáról hatósági bizonyítvány kiadása,
 
@@ -12,4 +12,4 @@ b) az ügyvédi tevékenységet gyakorló természetes személy nevében vagy m�
 
 c) az irodagondnoki tevékenység folytatására való jogosultság bejegyzése
 
-[^4]: A 11. § (3) bekezdését a 10/2018. (VI. 11.) IM rendelet 3. § (1) bekezdése iktatta be.
+[^3]: A 11. § (3) bekezdését a 10/2018. (VI. 11.) IM rendelet 3. § (1) bekezdése iktatta be.

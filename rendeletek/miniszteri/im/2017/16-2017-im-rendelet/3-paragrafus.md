@@ -6,6 +6,4 @@
 
 (3) Az ügyvédjelölt és a jogi előadó ügyvédi kamarai nyilvántartásba vétele iránti eljárás díjának összege az (1) bekezdésben meghatározott díj 50%-a.
 
-(4)[^1]
-
-[^1]: A 3. § (4) bekezdése a 15. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+(4) Az ügyvédasszisztens ügyvédi kamarai nyilvántartásba vétele iránti eljárás díja 10 000 Ft.
