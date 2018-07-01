@@ -18,7 +18,7 @@ g) kétéves bírósági végrehajtó-helyettesi gyakorlatot szerzett.
 
 a) aki büntetett előéletű,
 
-b) akinek a bíróság büntetőjogi felelősségét bűncselekmény elkövetése miatt jogerős ítéletben megállapította, függetlenül attól, hogy mentesült-e az elítéléshez fűződő hátrányos jogkövetkezmények alól,
+b) akinek a bíróság büntetőjogi felelősségét jogerős ügydöntő határozatban megállapította, függetlenül attól, hogy mentesült-e az elítéléshez fűződő hátrányos jogkövetkezmények alól,
 
 ba) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tizenkét évig,
 

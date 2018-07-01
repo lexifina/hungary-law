@@ -1,0 +1,1 @@
+137/B. § Nem terheli az ingatlant megszerző tulajdonos tulajdonjogát a bűnügyi zárlat ténye, ha a bűnügyi zárlat tényével terhelt ingatlan értékesítése iránt a 139. § (5)–(7) bekezdése alapján intézkedni lehet.

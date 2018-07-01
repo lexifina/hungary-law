@@ -10,6 +10,6 @@
 
 (4) Az ingatlanügyi hatóság a végrehajtási jog bejegyzéséről szóló határozatát a végrehajtónak, a feleknek és azoknak kézbesíti, akiknek – az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § e)–f) pontjában meghatározott jogok kivételével – az ingatlanra vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van, egyúttal megadja a végrehajtónak a (2) bekezdés szerinti tájékoztatást.
 
-(5) Halasztó hatályú igényper indításának a végrehajtási jog bejegyzéséről szóló első fokú ingatlan-nyilvántartási határozat alapján van helye.
+(5) Halasztó hatályú igényper indításának a végrehajtási jog bejegyzéséről szóló elsőfokú ingatlan-nyilvántartási határozat alapján van helye.
 
 (6) A lefoglalt ingatlanra vonatkozólag jogot csak azzal a feltétellel lehet szerezni, hogy az a végrehajtást kérő végrehajtási jogát nem sérti, és a végrehajtás célját nem hiúsítja meg.

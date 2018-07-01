@@ -6,4 +6,4 @@ a) a feljelentő a cselekménynek a tudomására jutásától, vagy ha van a feg
 
 b) a cselekmény befejezése óta 5 év eltelt.
 
-(2) A bűncselekmény törvényi tényállását megvalósító fegyelmi vétség a bűncselekménnyel együtt évül el.
+(2) A bűncselekményt megvalósító fegyelmi vétség a bűncselekménnyel együtt évül el.

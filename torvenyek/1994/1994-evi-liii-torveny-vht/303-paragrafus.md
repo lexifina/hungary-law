@@ -26,7 +26,7 @@ b) a lakóingatlan kiürítésére kötelezett vagy az ő jogán a lakóingatlan
 
 a végrehajtást foganatosító bíróság végzéssel a kiürítés foganatosítására utasítja a végrehajtót; a kiürítési kötelezettség a kötelezettnek az ingatlanban önálló jogcímen lakó hozzátartozójára is kiterjed.
 
-(7) A végrehajtó a (6) bekezdésben foglalt döntés meghozatala érdekében bármely fél, érdekelt vagy az ügyész erre irányuló, a bűncselekményt elkövető személy személyazonosító adatait is tartalmazó indítványára keresi meg a bíróságot.
+(7) A végrehajtó a (6) bekezdésben foglalt döntés meghozatala érdekében bármely fél, érdekelt vagy az ügyészség erre irányuló, a bűncselekményt elkövető személy személyazonosító adatait is tartalmazó indítványára keresi meg a bíróságot.
 
 (8) A bíróság adatigényléssel fordul a bűnügyi nyilvántartó szervhez annak megállapítása érdekében, hogy az indítványban megjelölt személlyel szemben hoztak-e büntetőügyben határozatot, a büntetőügyben eljárt bíróságot pedig megkeresi annak közlése érdekében, hogy hozott-e a (6) bekezdés a) vagy b) pontja szerinti határozatot. A bíróság a beszerzett személyes adatokat a végzés jogerőre emelkedéséig kezeli.
 

@@ -1,6 +1,6 @@
 ## Intézkedések az Európai Unió tagállamaiban történő végrehajtás érdekében
 
-31/C. § (1) Az első fokon eljárt bíróság kérelemre kiállítja
+31/C. § (1) Az elsőfokon eljárt bíróság kérelemre kiállítja
 
 a) a 44/2001/EK tanácsi rendelet V. melléklete szerinti tanúsítványt,
 
@@ -36,7 +36,7 @@ f) a 650/2012/EU európai parlamenti és tanácsi rendelet 46. cikke (3) bekezd�
 
 g) a 650/2012/EU európai parlamenti és tanácsi rendelet 60. cikkének (2) bekezdése szerinti tanúsítványt az 1329/2014/EU bizottsági végrehajtási rendelet 2. mellékletében közzétett formanyomtatvány felhasználásával.
 
-(3) A 2201/2003/EK tanácsi rendelet III. és IV. melléklete szerinti, a láthatási jogokra és a gyermek visszavitelét elrendelő határozatokra vonatkozó igazolást az első fokon eljárt bíróság állítja ki:
+(3) A 2201/2003/EK tanácsi rendelet III. és IV. melléklete szerinti, a láthatási jogokra és a gyermek visszavitelét elrendelő határozatokra vonatkozó igazolást az elsőfokon eljárt bíróság állítja ki:
 
 a) hivatalból vagy bármelyik fél kérelmére a rendelet 41. cikkének (1) bekezdésében foglaltak alapján (III. melléklet),
 

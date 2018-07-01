@@ -7,3 +7,9 @@
 (3) A végrehajtó az ingatlan árveréséről szóló hirdetményt a becsérték megállapításától, végrehajtási kifogás előterjesztése esetén a becsérték tárgyában hozott jogerős bírósági határozat kézhezvételétől számított 30 napon belül köteles közzétenni az elektronikus árverési hirdetmények nyilvántartásában.
 
 (4) Ha az ingatlan a közfoglalkoztatáshoz nyújtható támogatásokról szóló kormányrendeletben meghatározott közfoglalkoztatási programban használt ingatlan, becsértékének megállapítása iránt csak a támogatási időszak befejezése után lehet intézkedni.
+
+(5) Ha az ingatlan nem pénzfizetésre irányuló bűnügyi követelést vagy ilyen polgári jogi igényt, illetve ilyen vagyonelkobzást biztosító bűnügyi zárlat tényével terhelt, az ingatlan értékesítése iránt a bűnügyi zárlat tényének törlését követően lehet intézkedni.
+
+(6) Ha az ingatlan pénzfizetésre irányuló bűnügyi követelést vagy ilyen polgári jogi igényt, illetve ilyen vagyonelkobzást biztosító bűnügyi zárlat tényével terhelt, és a bűnügyi zárlat bejegyzésére a végrehajtási jogot követően került sor, az ingatlan értékesítése iránt lehet intézkedni. Sikeres értékesítést követően pedig az adósnak visszajáró összeget a bűnügyi zárlat jogosultja részére nem lehet kiutalni, azt a végrehajtói letéti számlán kell kezelni.
+
+(7) Ha az ingatlan pénzfizetésre irányuló bűnügyi követelést vagy ilyen polgári jogi igényt, illetve ilyen vagyonelkobzást biztosító bűnügyi zárlat tényével terhelt, és a bűnügyi zárlat bejegyzésére a végrehajtási jogot megelőzően került sor, az ingatlan értékesítése iránt kizárólag abban az esetben lehet intézkedni, ha a végrehajtási jog, a bűnügyi zárlat ténye jogosultjainak a követelései és a végrehajtási költségek várhatóan megtérülnek. Sikeres értékesítést követően a bűnügyi zárlattal biztosított összeget a jogosult részére nem lehet kiutalni, azt a végrehajtói letéti számlán kell kezelni.

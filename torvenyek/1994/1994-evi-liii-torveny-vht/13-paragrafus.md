@@ -4,7 +4,7 @@
 
 a) kötelezést (marasztalást) tartalmaz,
 
-b) jogerős vagy előzetesen végrehajtható, és
+b) jogerős, végleges vagy előzetesen végrehajtható, valamint az ügyészség, illetve a nyomozó hatóság határozata további jogorvoslattal nem támadható, és
 
 c) a teljesítési határidő letelt.
 

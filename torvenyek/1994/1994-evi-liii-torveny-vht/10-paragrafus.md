@@ -14,10 +14,38 @@ c) a bíróság végrehajtást elrendelő, letiltó, illetőleg átutalási vég
 
 d) a bíróság pénzbüntetésről, pénzbírságról, rendbírságról, vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszegről, valamint az Európai Unió tagállamai közé nem tartozó államban (a továbbiakban: külföldi állam) vagy az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzásról szóló értesítése,
 
-e) a bíróság bűnügyi költségről, elővezetési és kísérési költségről, fegyelmi eljárásban a végrehajtóval, végrehajtó-helyettessel és végrehajtójelölttel szemben kiszabott pénzbírságról, valamint az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítése, továbbá a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról, az ügyészség által kiszabott rendbírságról, megállapított bűnügyi költségről, az ügyészség és a nyomozó hatóság által megállapított elővezetési és kísérési költségről, valamint a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítése,
+e) a büntetőeljárásról szóló törvény alapján
 
-f) a bűnügyi zárlatot elrendelő, az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról, valamint az információs rendszerben tárolt adatok megőrzésére kötelezésről szóló határozat,
+ea) elrendelt elővezetés vagy előállítás költségének,
 
-g) az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés,
+eb) a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyészség, illetve nyomozó hatóság vagy végrehajtásért felelős szerv elé állítása költségének,
 
-h) a 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés.
+ec) az ügyészség, illetve a nyomozó hatóság által kiszabott rendbírságnak,
+
+ed) a bíróság vagy az ügyészség által a bűnügyi költségnek
+
+a megállapításáról szóló értesítés,
+
+f) a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvény alapján
+
+fa) elrendelt elővezetés költségének,
+
+fb) az elítélt vagy a kényszergyógykezelt elfogása és megtalálása esetén meghatározott bíróság, ügyészség vagy végrehajtásért felelős szerv elé állítása költségének, továbbá
+
+fc) az elítélt vagy az egyéb jogcímen fogvatartott kérelmére és költségére történő előállítás során felmerült költségnek
+
+a megállapításáról szóló értesítés,
+
+g) fegyelmi eljárásban a végrehajtóval, végrehajtó-helyettessel és végrehajtójelölttel szemben kiszabott pénzbírságról szóló értesítés,
+
+h) az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítés,
+
+i) a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról szóló értesítése,
+
+j) a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítés,
+
+k) a bűnügyi zárlatot elrendelő, az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról, valamint az elektronikus adat megőrzésére kötelezésről szóló határozat,
+
+l) az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés, valamint
+
+m) a 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés.
