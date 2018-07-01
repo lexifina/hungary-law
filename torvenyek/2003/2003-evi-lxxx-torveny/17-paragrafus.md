@@ -4,10 +4,10 @@
 
 ## A támogatás formái
 
-17. § (1) Az állam a jogi segítségnyújtás keretében büntetőeljárásokban a 18–20. §-ban foglalt feltételek fennállása esetén a következő támogatásokat nyújtja:
+17. § (1) Az állam a büntetőeljárásban jogi segítségnyújtás keretében a 18. §-ban és a 19. §-ban foglalt feltételek fennállása esetén a következő támogatásokat nyújtja:
 
-a) személyes költségmentesség a pótmagánvádló részére [a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 343. § (3) bek.],
+a) a sértett, a magánvádló, a pótmagánvádló, a magánfél, a vagyoni érdekelt és az egyéb érdekelt részére a pártfogó ügyvéd díjának és költségeinek (a továbbiakban: pártfogó ügyvédi díj) állam általi előlegezése és jogszabályban meghatározott esetben viselése,
 
-b) pártfogó ügyvédi képviselet a sértett, a magánvádló, a magánfél, és az egyéb érdekeltek [Be. 57. § (3) bek.], valamint a pótmagánvádló [Be. 343. § (3) bek.] részére (a továbbiakban e Fejezetben együtt: támogatás).
+b) a terhelt részére a kirendelt védő díjának és költségeinek állam általi előlegezése és viselése.
 
-(2) A személyes költségmentesség és a pártfogó ügyvédi képviselet tartalmát a Be. határozza meg.
+(2) Az (1) bekezdésben foglalt támogatás tartalmát a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) határozza meg.

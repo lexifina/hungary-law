@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-80-00-00
 | 2016-12-23 | 2016. évi CLVIII. törvény | 2003-80-00-00.27 |
 | 2017-01-01 | 2016. évi CXXVII. törvény | 2003-80-00-00.28 |
 | 2018-01-01 | 2017. évi L. törvény | 2003-80-00-00.29 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2003-80-00-00.30 |

@@ -1,6 +1,6 @@
 34. § A nyilvántartás a következő adatokat tartalmazza:
 
-a) a fél nevét, születési időpontját, anyja nevét és lakóhelyét,
+a) a fél nevét, születési helyét és idejét, anyja nevét és lakóhelyét,
 
 b) a kérelem elbírálására vonatkozó következő adatokat:
 

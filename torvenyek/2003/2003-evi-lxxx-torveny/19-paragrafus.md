@@ -1,4 +1,4 @@
-19. § (1) A támogatásra a sértett, a magánvádló, a magánfél, az egyéb érdekelt és a pótmagánvádló – a (3) bekezdésben foglalt kivétellel – akkor tekintendő rászorultnak, ha
+19. § (1) A támogatásra a sértett, a magánvádló, a pótmagánvádló, a magánfél, a vagyoni érdekelt, az egyéb érdekelt és a terhelt – a (3) bekezdésben foglalt kivétellel – akkor tekintendő rászorultnak, ha
 
 a) jövedelmi és vagyoni viszonyai alapján megfelel az 5. §-ban és a 7–9. §-ban foglalt feltételeknek, vagy
 
