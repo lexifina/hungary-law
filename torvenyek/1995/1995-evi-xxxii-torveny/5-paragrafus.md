@@ -4,7 +4,7 @@
 
 a) arról írásban lemondott;
 
-b) a közügyektől vagy a szabadalmi ügyvivői foglalkozástól a bíróság jogerős ítéletével eltiltja;
+b) a közügyektől vagy a szabadalmi ügyvivői foglalkozástól a bíróság jogerős ügydöntő határozatával eltiltja;
 
 c) büntetett előéletű,
 

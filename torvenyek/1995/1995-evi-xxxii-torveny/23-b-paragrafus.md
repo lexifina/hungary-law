@@ -10,7 +10,7 @@ c) a Kamara elnöke, alelnöke, elnökségi tagja;
 
 d) akinek a tanúkénti meghallgatása az eljárásban szükségessé válhat;
 
-e) aki ellen fegyelmi vagy büntetőeljárás van folyamatban, ennek jogerős befejezéséig;
+e) aki fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll;
 
 f) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
 
