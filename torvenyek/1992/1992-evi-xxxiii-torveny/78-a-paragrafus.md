@@ -10,7 +10,7 @@ c) felmentési vagy lemondási idejét nem tölti;
 
 d)
 
-e) nem áll – a magánindítvány vagy pótmagánvádló vádindítványa alapján indult eljárás kivételével – büntetőeljárás hatálya alatt, és
+e) nem áll – a magánvádas vagy pótmagánvádas eljárás kivételével – büntetőeljárás hatálya alatt, és
 
 f) az (1) bekezdés szerinti kezességvállalással biztosított hitelrészt a hitelintézetnek kiegyenlítette, illetve a vele közös háztartásban élő házas vagy élettárs – az igénylés időpontjában – állami kezességvállalással biztosított lakáscélú hitel törlesztésére nem kötelezett;
 
