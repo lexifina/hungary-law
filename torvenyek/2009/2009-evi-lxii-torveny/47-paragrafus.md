@@ -22,7 +22,7 @@ g) a 46. § (2) bekezdésében foglalt adatok tekintetében – törvényben meg
 
 h) a 46. § (2) bekezdésében foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása, törvényességi felügyeleti eljárásának lefolytatása céljából – az ügyészség, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 
-i) a 46. § (2) bekezdésében foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása céljából – a nyomozó hatóság, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
+i) a 46. § (2) bekezdésében foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása céljából – a nyomozó hatóság és az előkészítő eljárást folytató szerv, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 
 j) a 46. § (2) bekezdésében foglalt adatok tekintetében – nemzetbiztonsági védelem, felderítés vagy elhárítás, információszerzés, illetve a nemzetbiztonsági vagy iparbiztonsági ellenőrzés céljából – a nemzetbiztonsági szolgálatok, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 

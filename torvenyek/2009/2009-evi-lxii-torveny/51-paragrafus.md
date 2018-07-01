@@ -52,7 +52,7 @@ d) a (4) bekezdésben foglalt adatok tekintetében – törvényben meghatározo
 
 e) a (4) bekezdésben foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása, törvényességi felügyeleti eljárásának lefolytatása céljából – az ügyészség;
 
-f) a (4) bekezdésben foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása céljából – a nyomozó hatóság;
+f) a (4) bekezdésben foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása céljából – a nyomozó hatóság és az előkészítő eljárást folytató szerv;
 
 g) a (4) bekezdésben foglalt adatok tekintetében – nemzetbiztonsági védelem, felderítés vagy elhárítás, információszerzés, illetve a nemzetbiztonsági vagy iparbiztonsági ellenőrzés céljából – a nemzetbiztonsági szolgálatok;
 
