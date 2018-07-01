@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-86-00-00
 | 2015-01-02 | 2010. évi CXXX. törvény | 2012-86-00-00.10 |
 | 2016-06-18 | 2016. évi LXVII. törvény | 2012-86-00-00.11 |
 | 2017-01-01 | 2016. évi LXVII. törvény | 2012-86-00-00.12 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2012-86-00-00.13 |
