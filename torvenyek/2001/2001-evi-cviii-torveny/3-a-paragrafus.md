@@ -18,4 +18,4 @@ c) az érdeksérelemmel, illetve a veszélyeztetéssel arányos.
 
 (3) Sürgős esetben a hatóság eltekinthet a (2) bekezdésben foglalt kötelezettségektől. Ez esetben a foganatosított intézkedést haladéktalanul közli az Európai Bizottsággal, valamint az Európai Gazdasági Térség tagállamának hatóságával a sürgősséget megalapozó körülmények közlése mellett.
 
-(4) A (2)–(3) bekezdés rendelkezései nem alkalmazhatók a bírósági eljárásokban, ideértve a peres eljárást kezdeményező irat benyújtását megelőzően megindítható eljárásokat és a büntetőeljárás keretében végzett nyomozás során, illetve a nyomozás befejezését követően az ügyész által a vádirat benyújtásáig végrehajtott cselekményeket is.
+(4) A (2)–(3) bekezdés rendelkezései nem alkalmazhatók a bírósági eljárásokban, ideértve a peres eljárást kezdeményező irat benyújtását megelőzően megindítható eljárásokat és a nyomozás során végrehajtott eljárási cselekményeket is.

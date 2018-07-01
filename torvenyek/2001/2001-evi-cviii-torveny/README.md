@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-108-00-00
 | 2016-07-17 | 2016. évi LXIX. törvény | 2001-108-00-00.23 |
 | 2018-01-01 | 2017. évi L. törvény | 2001-108-00-00.24 |
 | 2018-05-10 | 2017. évi CXXXIV. törvény | 2001-108-00-00.25 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2001-108-00-00.26 |

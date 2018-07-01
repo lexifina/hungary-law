@@ -28,7 +28,7 @@ b) indokolt nyilatkozatot arról, hogy az igénybevevő által biztosított info
 
 (9) Ha a jogosult a (7) bekezdés szerinti értesítés átvételétől számított 10 munkanapon belül az értesítés szerinti jogsértéssel kapcsolatos igényét abbahagyás és eltiltás iránti ideiglenes intézkedés iránti kérelmet is tartalmazó kereset vagy fizetési meghagyás iránti kérelem benyújtása útján érvényesíti vagy büntető feljelentést tesz, a szolgáltató a bíróság erre vonatkozó, ideiglenes intézkedést elrendelő határozatának kézhezvételétől számított 12 órán belül a (4) bekezdésben foglaltak megfelelő alkalmazásával a (2) bekezdés szerinti értesítésben megjelölt információhoz való hozzáférést ismételten nem biztosítja, illetve az információt ismételten eltávolítja. A szolgáltató intézkedéséről a bírósági határozat másolatának megküldésével az érintett igénybe vevőt az intézkedés megtételétől számított 1 munkanapon belül értesíti.
 
-(10) A jogosult köteles a (9) bekezdés szerinti eljárásban hozott jogerős érdemi határozatokról – ideértve az ideiglenes intézkedés elrendelését vagy a kérelem elutasítását is – a szolgáltatót haladéktalanul értesíteni. Az érdemi határozatban foglaltaknak a szolgáltató haladéktalanul köteles eleget tenni.
+(10) A jogosult köteles a (9) bekezdés szerinti eljárásban hozott, a bíróság jogerős vagy véglegessé vált határozatáról, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható határozatáról – ideértve az ideiglenes intézkedés elrendelését vagy a kérelem elutasítását is – a szolgáltatót haladéktalanul értesíteni. A határozatban foglaltaknak a szolgáltató haladéktalanul köteles eleget tenni.
 
 (11) A jogosult és a szolgáltató szerződést köthet az (1)–(10) bekezdésekben meghatározott eljárás alkalmazásáról. A szerződésben a felek a törvénytől nem térhetnek el, de a törvényben nem rendezett kérdésekben megállapodhatnak. A felek szerződésükben hatályos írásbeli közlésnek tekinthetik a nekik vagy általuk harmadik személyhez címzett írásbeli magánokirat hű másolatát, továbbá az elektronikus úton tett közlést is, ha annak megérkezését a címzett elektronikus úton igazolja. Ebben az esetben a felek kötelesek az egymástól származó elektronikus küldemények megérkezését visszaigazolni.
 
@@ -42,7 +42,7 @@ a) a szolgáltatónak az érintett igénybe vevőt a kiskorú jogosultnak, illet
 
 b) a szolgáltató az információ eltávolításának hatályát köteles fenntartani akkor is, ha a beazonosításához szükséges adatok hiányában az érintett igénybe vevő értesítése nem lehetséges,
 
-c) a szolgáltató az információhoz való hozzáférést akkor is köteles a (9) bekezdés rendelkezéseinek megfelelően meggátolni, illetve az információt ismételten eltávolítani, ha a kiskorú jogosult vagy törvényes képviselője megküldi részére a nyomozóhatóság az értesítés szerinti jogsértéssel kapcsolatos nyomozást elrendelő határozatát,
+c) a szolgáltató az információhoz való hozzáférést akkor is köteles a (9) bekezdés rendelkezéseinek megfelelően meggátolni, illetve az információt ismételten eltávolítani, ha a kiskorú jogosult vagy törvényes képviselője értesíti a jogsértéssel kapcsolatos nyomozás elrendeléséről,
 
 d) a szolgáltató nem köteles feltüntetni, hogy az eltávolítás mely jogosult jogsértést állító értesítése alapján történt,
 
