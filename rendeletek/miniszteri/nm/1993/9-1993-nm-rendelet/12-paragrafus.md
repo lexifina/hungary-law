@@ -1,4 +1,4 @@
-12. §[^87] (1) Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet, valamint az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet módosításáról szóló 29/2010. (XII. 30.) NEFMI rendelet (a továbbiakban: Módr2.)
+12. §[^89] (1) Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet, valamint az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet módosításáról szóló 29/2010. (XII. 30.) NEFMI rendelet (a továbbiakban: Módr2.)
 
 a) 3. § (3) bekezdésével módosított 2. számú mellékletet, kivéve a Módr2. 3 melléklet 1. és 19. pontjával megállapított részét,
 
@@ -14,7 +14,7 @@ f) 3. § (8) bekezdésével módosított 9. számú mellékletet,
 
 g) 3. § (9) bekezdésével módosított 10. számú mellékletet,
 
-h)[^88]
+h)[^90]
 
 i) 3. § (11) bekezdésével módosított 14. számú mellékletet,
 
@@ -38,5 +38,5 @@ f) 3. § (7) bekezdésével módosított 8. számú mellékletnek a Módr2. 7. m
 
 a 2011. április 1-jei teljesítményektől kell alkalmazni.
 
-[^87]: A 12. §-t a 29/2010. (XII. 30.) NEFMI rendelet 4. §-a iktatta be.
-[^88]: A 12. § (1) bekezdés h) pontját a 32/2016. (X. 27.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.
+[^89]: A 12. §-t a 29/2010. (XII. 30.) NEFMI rendelet 4. §-a iktatta be.
+[^90]: A 12. § (1) bekezdés h) pontját a 32/2016. (X. 27.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.

@@ -34,11 +34,11 @@
 
 ## 2734 Zala Megyei Kórház
 
-## 2877 Heim Pál Gyermekkórház
+## 2877 Heim Pál Országos Gyermekgyógyászati Intézet
 
 ## 2880 Szent János Kórház és Észak-budai Egyesített Kórházak
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -82,11 +82,11 @@
 
 ## 2734 Zala Megyei Kórház
 
-## 2877 Heim Pál Gyermekkórház
+## 2877 Heim Pál Országos Gyermekgyógyászati Intézet
 
 ## 2880 Szent János Kórház és Észak-budai Egyesített Kórházak
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -110,7 +110,9 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Gyermekkori súlyos, aktív luminális Crohn-betegség (6 éves kortól betöltött 18 éves korig) kezelésére (PCDAI>30), - amennyiben legalább három hónapig alkalmazott hagyományos gyógykezelés (szteroid és immunszuppresszív terápia együttes alkalmazása) ellenére a betegség aktivitása igazoltan nem csökken, vagy a hagyományos gyógykezelés dokumentált toxicitás miatt nem alkalmazható - három hónapig, ezt követően megfelelő válaszkészség esetén (PCDAI 50%-os csökkenése) további kilenc hónapig (panaszmentes időszakot követő relapszus fellépésekor ismételt terápia megkísérelhető) - a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján.
+## Gyermekkori súlyos, aktív luminális Crohn-betegség (6 éves kortól betöltött 18 éves korig) kezelésére (PCDAI>30) – amennyiben legalább három hónapig alkalmazott hagyományos gyógykezelés (szteroid és immunszuppresszív terápia együttes alkalmazása) ellenére a betegség aktivitása igazoltan nem csökken, vagy a hagyományos gyógykezelés dokumentált toxicitás miatt nem alkalmazható – három hónapig, ezt követően megfelelő válaszkészség esetén (PCDAI 50%-os csökkenése) a kezelés kezdetétől számított egy évig (mellékhatás, hatásvesztés vagy progresszió esetében a készítményváltás lehetséges), ezt követően a teljes klinikai remissziót elérő betegekben, évente ismételt vizsgálómódszerekkel igazolt hatékonyság megtartásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási eljárásrend alapján.
+
+## Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó), stabil remisszió esetén a kezelés felfüggeszthető.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -130,11 +132,11 @@
 
 ## 2872 Magyarországi Református Egyház Bethesda Gyermekkórháza
 
-## 2877 Heim Pál Gyermekkórház
+## 2877 Heim Pál Országos Gyermekgyógyászati Intézet
 
 ## 2880 Szent János Kórház és Észak-budai Egyesített Kórházak
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -156,7 +158,9 @@
 
 ## TÁMOGATOTT INDIKÁCIÓK:
 
-## Súlyos aktív fisztulázó gyermekkori Crohn-betegségben (6 éves kortól betöltött 18 éves korig) - amennyiben az életminőséget nagymértékben rontó fisztula/fisztulák a hagyományos gyógykezelés (antibiotikum és immunszuppresszív terápia) ellenére nem javulnak - három hónapig, ezt követően megfelelő válaszkészség esetén (fisztula záródás, illetve fisztulák számának csökkenése esetén) további kilenc hónapig (panaszmentes időszakot követő relapszus fellépésekor ismételt terápia megkísérelhető) - a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján.
+## Súlyos aktív fisztulázó gyermekkori Crohn-betegségben (6 éves kortól betöltött 18 éves korig) – amennyiben az életminőséget nagymértékben rontó fisztula/fisztulák a hagyományos gyógykezelés (antibiotikum és immunszuppresszív terápia) ellenére nem javulnak – három hónapig, ezt követően megfelelő válaszkészség esetén (fisztula záródás, illetve fisztulák számának csökkenése esetén) további kilenc hónapig (panaszmentes időszakot követő relapszus fellépésekor ismételt terápia megkísérelhető) – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási eljárásrend alapján. Ezt követően a teljes klinikai remissziót elérő betegekben, évente ismételt vizsgálómódszerekkel igazolt hatékonyság megtartásáig – a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási eljárásrend alapján.
+
+## Folyamatos, egy éven túli kezelés alatt álló betegek esetén a betegség súlyosságát legkésőbb 12 havonta újra szükséges értékelni, tartós (legalább 6 hónapja tartó), stabil remisszió esetén a kezelés felfüggeszthető.
 
 ## OENO KÓD ÉS GYÓGYSZER HATÓANYAGÁNAK NEVE:
 
@@ -176,11 +180,11 @@
 
 ## 2872 Magyarországi Református Egyház Bethesda Gyermekkórháza
 
-## 2877 Heim Pál Gyermekkórház
+## 2877 Heim Pál Országos Gyermekgyógyászati Intézet
 
 ## 2880 Szent János Kórház és Észak-budai Egyesített Kórházak
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -222,11 +226,11 @@
 
 ## 2734 Zala Megyei Kórház
 
-## 2877 Heim Pál Gyermekkórház
+## 2877 Heim Pál Országos Gyermekgyógyászati Intézet
 
 ## 2880 Szent János Kórház és Észak-budai Egyesített Kórházak
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -298,11 +302,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 4.
 
@@ -356,11 +360,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 5.
 
@@ -386,7 +390,7 @@
 
 ## 2137 Somogy Megyei Kaposi Mór Oktató Kórház
 
-## 2877 Heim Pál Gyermekkórház
+## 2877 Heim Pál Országos Gyermekgyógyászati Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -462,11 +466,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 6/a2.
 
@@ -514,11 +518,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 6/b.
 
@@ -576,11 +580,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 6/c.
 
@@ -630,11 +634,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 6/d.
 
@@ -692,9 +696,9 @@
 
 | 2734 Zala Megyei Kórház |
 
-| 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
-| 2886 Péterfy Sándor utcai Kórház – Rendelőintézet és Baleseti Központ |
+| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -750,9 +754,9 @@
 
 ## 2734 Zala Megyei Kórház
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -808,11 +812,11 @@
 
 ## 2734 Zala Megyei Kórház
 
-## 2877 Heim Pál Gyermekkórház
+## 2877 Heim Pál Országos Gyermekgyógyászati Intézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -868,9 +872,9 @@
 
 ## 2734 Zala Megyei Kórház
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -910,7 +914,7 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -936,7 +940,7 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -962,7 +966,7 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -988,7 +992,7 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -1026,7 +1030,7 @@
 
 | 2734 Zala Megyei Kórház |
 
-| 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -1066,7 +1070,7 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-| 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1568 Fejér Megyei Szent György Kórház, Székesfehérvár 1640 Petz Aladár Megyei Oktató Kórház, Győr 1876 Szent Borbála Kórház, Tatabánya 2137 Kaposi Mór Oktató Kórház, Kaposvár 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok 2425 Tolna Megyei Balassa János Kórház 2734 Zala Megyei Kórház, Zalaegerszeg 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet 2894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet, Budapest 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem, Budapest 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ K403 Magyar Honvédség Egészségügyi Központ N511 Szent Margit Kórház, Budapest N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger N594 Csolnoky Ferenc Kórház, Veszprém N595 Markusovszky Egyetemi Oktatókórház, Szombathely N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház R464 Békés Megyei Központi Kórház, Gyula R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1568 Fejér Megyei Szent György Kórház, Székesfehérvár 1640 Petz Aladár Megyei Oktató Kórház, Győr 1876 Szent Borbála Kórház, Tatabánya 2137 Kaposi Mór Oktató Kórház, Kaposvár 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, Szolnok 2425 Tolna Megyei Balassa János Kórház 2734 Zala Megyei Kórház, Zalaegerszeg 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet 2894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet, Budapest 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem, Budapest 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ K403 Magyar Honvédség Egészségügyi Központ N511 Szent Margit Kórház, Budapest N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger N594 Csolnoky Ferenc Kórház, Veszprém N595 Markusovszky Egyetemi Oktatókórház, Szombathely N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház R464 Békés Megyei Központi Kórház, Gyula R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
 ## 7/b10. pont
 
@@ -1096,7 +1100,7 @@
 
 | 2734 Zala Megyei Kórház, Zalaegerszeg |
 
-| 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -1138,7 +1142,7 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-| 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -1196,9 +1200,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -1206,7 +1210,7 @@
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
-## 2897 Országos Korányi Tbc és Pulmonológiai Intézet
+## 2897 Országos Korányi Pulmonológiai Intézet
 
 ## 2899 Mátrai Gyógyintézet
 
@@ -1278,9 +1282,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -1288,7 +1292,7 @@
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
-## 2897 Országos Korányi Tbc és Pulmonológiai Intézet
+## 2897 Országos Korányi Pulmonológiai Intézet
 
 ## 2899 Mátrai Gyógyintézet
 
@@ -1360,9 +1364,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -1370,7 +1374,7 @@
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
-## 2897 Országos Korányi Tbc és Pulmonológiai Intézet
+## 2897 Országos Korányi Pulmonológiai Intézet
 
 ## 2899 Mátrai Gyógyintézet
 
@@ -1446,9 +1450,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -1456,7 +1460,7 @@
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
-## 2897 Országos Korányi Tbc és Pulmonológiai Intézet
+## 2897 Országos Korányi Pulmonológiai Intézet
 
 ## 2899 Mátrai Gyógyintézet
 
@@ -1528,9 +1532,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -1538,7 +1542,7 @@
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
-## 2897 Országos Korányi Tbc és Pulmonológiai Intézet
+## 2897 Országos Korányi Pulmonológiai Intézet
 
 ## 2899 Mátrai Gyógyintézet
 
@@ -1610,9 +1614,9 @@
 
 | 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
-| 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet |
+| 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
-| 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ |
+| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
 | 2889 Szent Imre Kórház |
 
@@ -1620,7 +1624,7 @@
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
-| 2897 Országos Korányi Tbc és Pulmonológiai Intézet |
+| 2897 Országos Korányi Pulmonológiai Intézet |
 
 | 2899 Mátrai Gyógyintézet |
 
@@ -1692,9 +1696,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -1702,7 +1706,7 @@
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
-## 2897 Országos Korányi Tbc és Pulmonológiai Intézet
+## 2897 Országos Korányi Pulmonológiai Intézet
 
 ## 2899 Mátrai Gyógyintézet
 
@@ -1770,9 +1774,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -1800,11 +1804,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 8/c2.
 
@@ -1842,9 +1846,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -1872,11 +1876,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 8/c3.
 
@@ -1914,9 +1918,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -1944,11 +1948,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 8/d1.
 
@@ -1986,9 +1990,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -2016,11 +2020,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 8/d2.
 
@@ -2058,9 +2062,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -2088,11 +2092,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 8/e2.1.
 
@@ -2170,9 +2174,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -2200,11 +2204,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 8/e2.2.
 
@@ -2280,9 +2284,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -2310,11 +2314,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 8/e2.3.
 
@@ -2406,9 +2410,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -2436,11 +2440,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 8/e3.1.
 
@@ -2518,9 +2522,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -2548,11 +2552,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 8/e3.2.
 
@@ -2628,9 +2632,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -2658,11 +2662,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 8/e3.3.
 
@@ -2754,9 +2758,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -2784,11 +2788,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 8/f.
 
@@ -2826,9 +2830,9 @@
 
 ## 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2889 Szent Imre Kórház
 
@@ -2856,11 +2860,11 @@
 
 ## N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház
 
-## N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen
-
 ## R464 Békés Megyei Központi Kórház, Gyula
 
 ## R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház
+
+## R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház
 
 ## 9/a.
 
@@ -2990,11 +2994,11 @@
 
 ## 2872 Magyarországi Református Egyház Bethesda Gyermekkórháza
 
-## 2877 Heim Pál Gyermekkórház
+## 2877 Heim Pál Országos Gyermekgyógyászati Intézet
 
 ## 2880 Szent János Kórház és Észak-budai Egyesített Kórházak
 
-## 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ
+## 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -3032,9 +3036,9 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-## 2877 Heim Pál Gyermekkórház
+## 2877 Heim Pál Országos Gyermekgyógyászati Intézet
 
-## 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet
+## 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet
 
 ## 2894 Debreceni Egyetem Klinikai Központ
 
@@ -3070,7 +3074,7 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-| 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet 2894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet |
+| 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet 2894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet |
 
 | 2912 Pécsi Tudományegyetem Klinikai Központ |
 
@@ -3094,13 +3098,13 @@
 
 ## KOMPETENCIA: INDIKÁLHAT/ALKALMAZHAT
 
-| 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1487 Dr. Bugyi István Kórház, Szentes 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár 1640 Petz Aladár Megyei Oktató Kórház, Győr 1876 Szent Borbála Kórház, Tatabánya 1928 Szent Lázár Megyei Kórház, Salgótarján 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa 2137 Somogy Megyei Kaposi Mór Oktató Kórház 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2425 Tolna Megyei Balassa János Kórház 2734 Zala Megyei Kórház 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet 2878 Egyesített Szent István és Szent László Kórház-Rendelőintézet 2886 Péterfy Sándor utcai Kórház-Rendelőintézet és Baleseti Központ 2889 Szent Imre Kórház 2891 Uzsoki utcai Kórház 2894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem Klinikai Központ 2915 Semmelweis Egyetem, Budapest |
+| 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1487 Dr. Bugyi István Kórház, Szentes 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár 1640 Petz Aladár Megyei Oktató Kórház, Győr 1876 Szent Borbála Kórház, Tatabánya 1928 Szent Lázár Megyei Kórház, Salgótarján 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa 2137 Somogy Megyei Kaposi Mór Oktató Kórház 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2425 Tolna Megyei Balassa János Kórház 2734 Zala Megyei Kórház 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet 2889 Szent Imre Kórház 2891 Uzsoki utcai Kórház 2894 Debreceni Egyetem Klinikai Központ 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem Klinikai Központ 2915 Semmelweis Egyetem, Budapest |
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 | K403 Magyar Honvédség Egészségügyi Központ N511 Szent Margit Kórház, Budapest N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger N594 Csolnoky Ferenc Kórház, Veszprém N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-| N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház N600 Kenézy Gyula Kórház és Rendelőintézet, Debrecen R464 Békés Megyei Központi Kórház, Gyula R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház R464 Békés Megyei Központi Kórház, Gyula R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház |
 
 ## 15/b. pont
 
@@ -3122,8 +3126,8 @@
 
 | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^99]
+2. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^101]
 
 A járóbeteg-szakellátás tevékenységi kódjai
 
-[^99]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (3) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 3. § e) pontja, a 31/2015. (VI. 12.) EMMI rendelet 1. § (1) bekezdése, a 36/2015. (VII. 15.) EMMI rendelet 1. §-a, az 59/2015. (XII. 30.) EMMI rendelet 1. § (3) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 1. § (3) és (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 2. § i) és j) pontja, a 15/2017. (VI. 22.) EMMI rendelet 1. § (3) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^101]: A 2. számú melléklet a 3/2004. (I. 15.) ESZCSM rendelet 4. § (1) bekezdésével megállapított, a 70/2004. (VIII. 6.) ESZCSM rendelet 2. §-a és a 7. § (2) bekezdésének b)–c) pontja, a 79/2004. (VIII. 27.) ESZCSM rendelet 1. §-a, a 26/2005. (VII. 13.) EüM rendelet 3. §-a, a 31/2005. (VIII. 2.) EüM rendelet 1. §-a, valamint a 38/2005. (IX. 13.) EüM rendelet 1. §-a szerint módosított és a Magyar Közlöny 2005. évi 135. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 48/2005. (XI. 8.) EüM rendelet 3. §-a, a 26/2006. (VI. 26.) EüM rendelet 4. §-a és 11. § (3)–(4) bekezdése, a 37/2006. (IX. 27.) EüM rendelet 1. §-a, a 13/2007. (III. 7.) EüM rendelet 2. § (1) bekezdése, a 33/2007. (VI. 28.) EüM rendelet 4. § (1) bekezdése, a 44/2007. (IX. 29.) EüM rendelet 3. § (1) bekezdése, a 62/2007. (XII. 29.) EüM rendelet 2. § (3)–(4) bekezdése szerint módosított, a Magyar Közlöny 2008. évi 6. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 22/2008. (V. 26.) EüM rendelet 4. § (2)–(3) bekezdése, a 35/2008. (IX. 16.) EüM rendelet 1. § (1) bekezdése, a 48/2008. (XII. 31.) EüM rendelet 1. § (2) bekezdése, a 29/2009. (VIII. 14.) EüM rendelet 2. § (2) bekezdése, a 35/2009. (X. 29.) EüM rendelet 2. § (2) bekezdése, a 35/2010. (V. 14.) EüM rendelet 6. § (3) bekezdése, a 29/2010. (XII. 30.) NEFMI rendelet 3. § (3)–(4) bekezdése, a 70/2011. (XII. 23.) NEFMI rendelet 4. § (2) bekezdése, az 55/2012. (XII. 28.) EMMI rendelet 2. § (2) és (10) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 1. § (3) bekezdése és 2. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (3)–(4) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (3) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 3. § e) pontja, a 31/2015. (VI. 12.) EMMI rendelet 1. § (1) bekezdése, a 36/2015. (VII. 15.) EMMI rendelet 1. §-a, az 59/2015. (XII. 30.) EMMI rendelet 1. § (3) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 1. § (3) és (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 2. § i) és j) pontja, a 15/2017. (VI. 22.) EMMI rendelet 1. § (3) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 2. §-a, a 15/2018. (VI. 28.) EMMI rendelet 3. § (3) bekezdése szerint módosított szöveg.

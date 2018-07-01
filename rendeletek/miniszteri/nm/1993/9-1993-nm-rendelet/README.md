@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2017-08-01 | 1993-9-20-3D.106 | 17/2016. (VII. 22.) EMMI rendelet |
 | 2017-12-13 | 1993-9-20-3D.107 | 17/2016. (VII. 22.) EMMI rendelet |
 | 2018-01-01 | 1993-9-20-3D.108 | 36/2017. (XII. 27.) EMMI rendelet |
+| 2018-07-01 | 1993-9-20-3D.109 | 15/2018. (VI. 28.) EMMI rendelet |
