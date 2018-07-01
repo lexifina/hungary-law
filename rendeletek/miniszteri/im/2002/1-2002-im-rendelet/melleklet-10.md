@@ -1,4 +1,4 @@
-10. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^168]
+10. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^177]
 
 ## A végrehajtási lap kiállítása helyetti átutalási végzés kibocsátása iránti kérelem nyomtatványának adattartalma
 
@@ -208,7 +208,7 @@
 
 7. Tájékoztatások, figyelmeztetések:
 
-7.1. a kézbesítés vélelem megdöntésének lehetősége és módja
+7.1.[^178] a kézbesítési kifogás előterjesztésének lehetősége és módja
 
 7.2. a végrehajtást kérőnek a követelés megszűnése vagy csökkenése esetén fennálló bejelentési és a végrehajtási költség kielégítési kötelezettsége
 
@@ -248,4 +248,5 @@
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a cím és a kamatkövetelés adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^168]: A 10. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^177]: A 10. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^178]: A 10. számú melléklet 7. pont 7.1. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § c) pontja szerint módosított szöveg.

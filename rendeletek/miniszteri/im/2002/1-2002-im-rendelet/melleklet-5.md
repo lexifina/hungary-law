@@ -1,4 +1,4 @@
-5. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^163]
+5. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^167]
 
 ## A pénzkövetelés behajtására szolgáló, törvényben meghatározott okirat végrehajtási záradékkal történő ellátása iránti kérelem nyomtatványának adattartalma
 
@@ -516,7 +516,7 @@
 
 12.2. a végrehajtás megszüntetés, korlátozása iránti per indításának feltételei
 
-12.3. a kézbesítési vélelem megdöntésének lehetősége és módja
+12.3.[^168] a kézbesítési kifogás előterjesztésének lehetősége és módja
 
 12.4. a végrehajtást kérőnek a követelés megszűnése vagy csökkenése esetén fennálló bejelentési és a végrehajtási költség kielégítési kötelezettsége
 
@@ -556,4 +556,5 @@
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^163]: Az 5. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^167]: Az 5. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^168]: Az 5. számú melléklet 12. pont 12.3. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § b) pontja szerint módosított szöveg.

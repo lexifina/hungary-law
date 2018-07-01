@@ -1,4 +1,4 @@
-6. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^164]
+6. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^169]
 
 ## A meghatározott cselekmény végrehajtására szolgáló, törvényben meghatározott okiratok végrehajtási záradékkal történő ellátása iránti kérelem nyomtatványának adattartalma
 
@@ -502,7 +502,7 @@
 
 12.2. a végrehajtást kérőnek a meghatározott cselekmény teljesítésére vagy elmaradására (ha pénzköveteléssel együtt érvényesíti, ennek csökkenésére és megszűnésére) vonatkozó bejelentési kötelezettsége és tájékoztatás arról, hogy további intézkedésre csak e közlés után kerül sor
 
-12.3. a kézbesítés vélelem megdöntésének lehetősége és módja
+12.3.[^170] a kézbesítési kifogás előterjesztésének lehetősége és módja
 
 12.4. a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és jogtanácsos díja, valamint ezek előlegezése és viselése
 
@@ -540,4 +540,5 @@
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^164]: A 6. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^169]: A 6. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^170]: A 6. számú melléklet 12. pont 12.3. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § c) pontja szerint módosított szöveg.

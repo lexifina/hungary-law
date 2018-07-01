@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-1-20-06
 | 2015-04-15 | 2002-1-20-06.25 | 27/2010. (V. 11.) IRM rendelet |
 | 2016-03-09 | 2002-1-20-06.26 | 5/2016. (III. 8.) IM rendelet |
 | 2017-01-01 | 2002-1-20-06.27 | 5/2016. (III. 8.) IM rendelet |
+| 2018-07-01 | 2002-1-20-06.28 | 16/2018. (VI. 22.) IM rendelet |

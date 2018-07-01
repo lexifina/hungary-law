@@ -1,4 +1,4 @@
-4. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^162]
+4. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^165]
 
 ## A meghatározott cselekmény végrehajtására szolgáló végrehajtási lap kiállítása iránti kérelem nyomtatványának adattartalma
 
@@ -498,7 +498,7 @@
 
 11.2. a végrehajtást kérőnek a meghatározott cselekmény teljesítésére vagy elmaradására (ha pénzköveteléssel együtt érvényesíti, ennek csökkenésére és megszűnésére) vonatkozó bejelentési kötelezettsége és tájékoztatás arról, hogy további intézkedésre csak e közlés után kerül sor
 
-11.3. a kézbesítés vélelem megdöntésének lehetősége és módja
+11.3.[^166] a kézbesítési kifogás előterjesztésének lehetősége és módja
 
 11.4. a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és jogtanácsos díja, valamint ezek előlegezése és viselése
 
@@ -538,4 +538,5 @@
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^162]: A 4. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^165]: A 4. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^166]: A 4. számú melléklet 11. pont 11.3. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § c) pontja szerint módosított szöveg.

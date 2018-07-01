@@ -24,7 +24,7 @@
 
 | 11 | Tartásra kötelezett adatainak beszerzésére irányuló ügy | 5 | 0 |
 
-3. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^161]
+3. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^163]
 
 ## A pénzkövetelés behajtására szolgáló végrehajtási lap kiállítása iránti kérelem nyomtatványának adattartalma
 
@@ -544,7 +544,7 @@
 
 12.2. a végrehajtást kérőnek a követelés megszűnése vagy csökkenése esetén fennálló bejelentési és a végrehajtási költség kielégítési kötelezettsége
 
-12.3. a kézbesítési vélelem megdöntésének lehetősége és módja
+12.3.[^164] a kézbesítési kifogás előterjesztésének lehetősége és módja
 
 12.4. a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és jogtanácsos díja, valamint ezek előlegezése és viselése
 
@@ -584,4 +584,5 @@
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^161]: A 3. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^163]: A 3. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^164]: A 3. számú melléklet 12. pont 12.3. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § b) pontja szerint módosított szöveg.
