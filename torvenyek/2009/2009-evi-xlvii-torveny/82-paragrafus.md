@@ -8,17 +8,17 @@
 
 (4) Az (1) bekezdés szerinti összehasonlítás kezdeményezésére és adatátvételre
 
-a) a nyomozó hatóság és az ügyészség a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása,
+a) az előkészítő eljárást folytató szerv, a nyomozó hatóság és az ügyészség a bűncselekmények felderítése, illetve büntetőeljárás lefolytatása,
 
 b) a nemzetbiztonsági szolgálatok a külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzés,
 
-c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv felderítés, elhárítás és információszerzés,
+c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, továbbá elhárítás és információszerzés,
 
 d) az igazságügyi szakértői tevékenységről szóló törvény szerint szakvélemény adására jogosult szerv szakvélemény elkészítése, valamint
 
 e) a rendőrség a rendkívüli haláleset miatt folyó közigazgatási hatósági eljárásban az ismeretlen személyazonosságú elhunyt személy azonosítása,
 
-f) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése
+f) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése
 
 céljából jogosult.
 

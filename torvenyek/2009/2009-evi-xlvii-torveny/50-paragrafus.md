@@ -1,4 +1,4 @@
-50. § (1) Ha az ujj- és tenyérnyomatot e törvény alapján a büntetőeljárás során nyilvántartásba vették, és a büntetőeljárás alapjául szolgáló ügyben a 44. § (1) bekezdésében meghatározott bűncselekmény miatt a bíróság jogerős, bűnösséget megállapító ítéletet hozott, a szakértői nyilvántartó szerv az ujj- és tenyérnyomatot az ítélet jogerőre emelkedését követően haladéktalanul
+50. § (1) Ha az ujj- és tenyérnyomatot e törvény alapján a büntetőeljárás során nyilvántartásba vették, és a büntetőeljárás alapjául szolgáló ügyben a 44. § (1) bekezdésében meghatározott bűncselekmény miatt a bíróság jogerős, bűnösséget megállapító ügydöntő határozatot hozott, a szakértői nyilvántartó szerv az ujj- és tenyérnyomatot az ügydöntő határozat jogerőre emelkedését követően haladéktalanul
 
 a) nyilvántartásba veszi a bűncselekmény elkövetése miatt jogerősen elítélt személyek ujj- és tenyérnyomatainak nyilvántartásában, és ezzel egyidejűleg
 

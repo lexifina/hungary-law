@@ -4,13 +4,13 @@
 
 a) a bíróság büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
 
-b) a nyomozó hatóság és az ügyészség bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
+b) az előkészítő eljárást folytató szerv, a nyomozó hatóság és az ügyészség bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
 
 c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 
-d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából,
+d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi feladatai ellátása céljából,
 
-e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából,
+e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából,
 
 f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából,
 
@@ -34,7 +34,11 @@ ba) a 11. § (1) bekezdés c), e), h), i) pontjában, a 11. § (2) bekezdés e) 
 
 bb) a 16. § (1) bekezdés c), f), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok;
 
-c) a közrendvédelmi, valamint határrendészeti feladatainak ellátása során a kényszerintézkedések végrehajtása ellenőrzése céljából a 23. § c) és h) pontjában meghatározott adatok;
+c) a közrendvédelmi, valamint határrendészeti feladatainak ellátása során
+
+ca) a kényszerintézkedések végrehajtása ellenőrzése céljából a 23. § c) és h) pontjában meghatározott adatok,
+
+cb) a határbiztosítási távoltartás szabályai betartásának ellenőrzése céljából a 23. § c) pontjában meghatározott adatok, amennyiben az érintettet a határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §), embercsempészés (Btk. 353. §), jogellenes tartózkodás elősegítése (Btk. 354. §), jogellenes bevándorlás elősegítése, támogatása (Btk. 353/A. §) bűncselekmény megalapozott gyanúja miatt büntetőeljárás alá vontak;
 
 d) a vagyonvédelmi rendszert tervező és szerelő tevékenység, valamint a magánnyomozói tevékenység hatósági engedélyezése és ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
 
@@ -150,7 +154,7 @@ ca) a 11. § (1) bekezdés c)–l) pontjában és (2) bekezdésében meghatároz
 
 cb) ha az érintett személlyel szemben kényszergyógykezelést rendeltek el, a 16. § (1) bekezdés c)–l) pontjában és (2) bekezdés m) pontjában meghatározott adatok,
 
-cc) ha az érintett személlyel szemben előzetes letartóztatást, lakhelyelhagyási tilalmat, házi őrizetet vagy ideiglenes kényszergyógykezelést rendeltek el, a 23. § c) és h) pontjában meghatározott adatok.
+cc) ha az érintett személlyel szemben letartóztatást, bűnügyi felügyeletet, távoltartást vagy előzetes kényszergyógykezelést rendeltek el, a 23. § c) és h) pontjában meghatározott adatok.
 
 (8a) A pártfogó felügyelői szolgálat a közérdekű munka és a pártfogó felügyelet végrehajtása céljából jogosult közvetlen hozzáféréssel átvenni a közérdekű munka, illetve pártfogó felügyelet hatálya alatt álló személy következő adatait:
 
@@ -158,13 +162,13 @@ a) a 11. § (1) bekezdés c)–l) pontjában és (2) bekezdésében meghatározo
 
 b) ha az érintett személlyel szemben kényszergyógykezelést rendeltek el, a 16. § (1) bekezdés c)–l) pontjában és (2) bekezdés m) pontjában meghatározott adatok,
 
-c) ha az érintett személlyel szemben előzetes letartóztatást, lakhelyelhagyási tilalmat, házi őrizetet vagy ideiglenes kényszergyógykezelést rendeltek el, a 23. § c) és h) pontjában meghatározott adatok.
+c) ha az érintett személlyel szemben letartóztatást, bűnügyi felügyeletet, távoltartást vagy előzetes kényszergyógykezelést rendeltek el, a 23. § c) és h) pontjában meghatározott adatok.
 
 (9) Az útlevélhatóság a külföldre utazás jogát korlátozó feltételek fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult átvenni a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
 
 (10) A szakértői nyilvántartó szerv az e törvényben meghatározott találati adattovábbítás és automatikus találati adathozzáférést követő adattovábbítás teljesítése, valamint szakvélemény elkészítése céljából közvetlen hozzáféréssel jogosult a 4. § (2) bekezdés a) pontjában foglalt adatokat átvenni.
 
-(11) Az Országgyűlési Őrség törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátásához közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
+(11) Az Országgyűlési Őrség törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátásához közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
 a) a 11. § (1) bekezdés c), e), f), h) és i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 

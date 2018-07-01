@@ -12,6 +12,6 @@ c) az elítéltet befogadó büntetés-végrehajtási intézet
 
 erre feljogosított tagja jogosult.
 
-(4) A testi kényszer alkalmazására egyebekben a Rendőrségről szóló 1994. évi XXXIV. törvény rendelkezéseit kell megfelelően alkalmazni.
+(4) A testi kényszer alkalmazására egyebekben a Rendőrségről szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (5) Az (1)–(4) bekezdésben meghatározott mintavételi szabályokat az arcképmás rögzítésére is megfelelően alkalmazni kell.

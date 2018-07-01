@@ -2,13 +2,13 @@
 
 a) akinek az adatait a bűntettesek nyilvántartásából a mentesítés folytán törölték,
 
-b) akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, és az ítélet jogerőre emelkedésének napján mentesült,
+b) akivel szemben a bíróság bűnösséget megállapító jogerős ügydöntő határozatot hozott, és annak jogerőre emelkedésének napján mentesült,
 
-c) akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, de büntetés kiszabását mellőzte,
+c) akivel szemben a bíróság bűnösséget megállapító jogerős ügydöntő határozatot hozott, de büntetés kiszabását mellőzte,
 
 d) akivel szemben a bíróság megrovás, próbára bocsátás, jóvátételi munka vagy kényszergyógykezelés intézkedést, illetve akivel szemben a bíróság terheltként elkobzás, vagyonelkobzás vagy elektronikus adat végleges hozzáférhetetlenné tétele intézkedést alkalmazott, valamint
 
-e) akit az ügyész megrovásban részesített.
+e) akivel szemben az ügyészség megrovást alkalmazott.
 
 f)
 

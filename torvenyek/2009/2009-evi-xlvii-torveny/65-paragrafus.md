@@ -1,4 +1,4 @@
-65. § (1) Ha az elítélthez tartozó DNS-profilnak és a szájnyálkahártya-törletnek a büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásában történő nyilvántartásának a feltételei fennálltak, és a büntetőeljárás alapjául szolgáló ügyben az 59. §-ban meghatározott bűncselekmény miatt a bíróság jogerős, bűnösséget megállapító ítéletet hozott, a szakértői nyilvántartó szerv a DNS-profilt és a szájnyálkahártya-törletet az ítélet jogerőre emelkedését követően haladéktalanul
+65. § (1) Ha az elítélthez tartozó DNS-profilnak és a szájnyálkahártya-törletnek a büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásában történő nyilvántartásának a feltételei fennálltak, és a büntetőeljárás alapjául szolgáló ügyben az 59. §-ban meghatározott bűncselekmény miatt a bíróság jogerős, bűnösséget megállapító ügydöntő határozatot hozott, a szakértői nyilvántartó szerv a DNS-profilt és a szájnyálkahártya-törletet az ügydöntő határozat jogerőre emelkedését követően haladéktalanul
 
 a) nyilvántartásba veszi a bűncselekmény elkövetése miatt jogerősen elítélt személyek DNS-profiljainak nyilvántartásában, és ezzel egyidejűleg
 

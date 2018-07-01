@@ -1,6 +1,6 @@
 20. § A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat
 
-a) megrovás alkalmazása esetén az ítélet jogerőre emelkedésétől, ügyészi megrovás esetén a határozat kihirdetésétől,
+a) megrovás alkalmazása esetén az ügydöntő határozat jogerőre emelkedésétől, ügyészi megrovás esetén a határozat kihirdetésétől,
 
 b) próbára bocsátás alkalmazása esetén a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől,
 
@@ -10,6 +10,6 @@ d) kényszergyógykezelést megszüntető végzés, elkobzás, vagyonelkobzás, 
 
 e) javítóintézeti nevelés esetén az intézkedés végrehajtásának befejezésétől,
 
-f) büntetés kiszabásának mellőzésével hozott, bűnösséget megállapító jogerős ítélet esetén az ítélet jogerőre emelkedésétől
+f) büntetés kiszabásának mellőzésével hozott, bűnösséget megállapító jogerős ügydöntő határozat esetén annak jogerőre emelkedésétől
 
 számított három évig kell nyilvántartani.

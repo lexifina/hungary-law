@@ -6,6 +6,6 @@
 
 a) a tagállamok közötti – az Európai Unió tagállamaival folytatott bűnügyi együttműködés keretében folytatott – kölcsönös cseréjének elősegítése,
 
-b) az elítélttel szemben más bűncselekmény elkövetésének megalapozott gyanúja miatt folytatott büntetőeljárásban való figyelembevétele, illetve
+b) az elítélttel szemben más bűncselekmény megalapozott gyanúja miatt folytatott büntetőeljárásban való figyelembevétele, illetve
 
 c) a büntetett előélet igazolásának, illetve a hátrányos jogkövetkezmények végrehajtásának az elősegítése.

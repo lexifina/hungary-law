@@ -1,1 +1,1 @@
-46. § A büntetőeljárás alá vont személy ujj- és tenyérnyomatát – a nyilvántartásba vétel kezdeményezésével egyidejűleg – az a nyomozó hatóság vagy ügyészség küldi meg a szakértői nyilvántartó szervnek, amely a terheltet büntetőeljárás alá vonta.
+46. § A büntetőeljárás alá vont személy ujj- és tenyérnyomatát – a nyilvántartásba vétel kezdeményezésével egyidejűleg – az a nyomozó hatóság vagy ügyészség küldi meg a szakértői nyilvántartó szervnek, amely a terhelttel szemben a megalapozott gyanút közölte.

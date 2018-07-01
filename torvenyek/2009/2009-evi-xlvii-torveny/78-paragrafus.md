@@ -1,10 +1,10 @@
-78. § (1) A bűnügyi nyilvántartó szerv késedelem nélkül tájékoztatja az Európai Unió más tagállama központi hatóságát a bűntettesek nyilvántartásába, valamint – a 15. § a) és e) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, az érintett tagállam állampolgáraira vonatkozó bűnösséget megállapító jogerős ítéletben szereplő alábbi adatokról és azok későbbi változásáról vagy módosulásáról:
+78. § (1) A bűnügyi nyilvántartó szerv késedelem nélkül tájékoztatja az Európai Unió más tagállama központi hatóságát a bűntettesek nyilvántartásába, valamint – a 15. § a) és e) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, az érintett tagállam állampolgáraira vonatkozó bűnösséget megállapító jogerős ügydöntő határozatban szereplő alábbi adatokról és azok későbbi változásáról vagy módosulásáról:
 
 a) az elítélt személyazonosító adatai,
 
-b) az ítélet kelte, jogerőre emelkedésének időpontja, az ítéletet hozó bíróság megnevezése,
+b) az ügydöntő határozat kelte, jogerőre emelkedésének időpontja, az azt meghozó bíróság megnevezése,
 
-c) az ítélet alapjául szolgáló bűncselekmény elkövetésének helye, időpontja, a bűncselekmény megnevezése vagy jogi minősítése, valamint azokra a rendelkezésekre való hivatkozás, amelyeken a bűncselekmény elbírálása alapult,
+c) az ügydöntő határozat alapjául szolgáló bűncselekmény elkövetésének helye, időpontja, a bűncselekmény megnevezése vagy jogi minősítése, valamint azokra a rendelkezésekre való hivatkozás, amelyeken a bűncselekmény elbírálása alapult,
 
 d) a büntetésekre, az intézkedésekre és azok végrehajtására vonatkozó adatok.
 

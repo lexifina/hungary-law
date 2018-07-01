@@ -4,7 +4,7 @@ a) a kapcsolati kódot;
 
 b)
 
-c) bűnösséget megállapító jogerős ítéletben a bíróság által megállapított
+c) bűnösséget megállapító jogerős ügydöntő határozatban a bíróság által megállapított
 
 ca) bűncselekmény megnevezését,
 
@@ -18,7 +18,7 @@ ce) azt a tényt, hogy az elítélt visszaeső, különös visszaeső, többszö
 
 cf) azt a tényt, hogy a bűncselekményt az elítélt bűnszervezet tagjaként követte el;
 
-d) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
+d) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében bejelentett jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
 
 e) a kiszabott büntetés nemét, mértékét és végrehajtási fokozatát (foglalkozástól eltiltás esetén a foglalkozás vagy tevékenység megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát, kitiltás esetén a település, országrész megnevezését, sportrendezvények látogatásától való eltiltás esetén a sportrendezvény, valamint a sportlétesítmény megnevezését); a kiszabott mellékbüntetés nemét és mértékét; a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját; a korábbi felfüggesztett vagy részben felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett vagy részben felfüggesztett büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját; a korábbi felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetés próbaideje meghosszabbodása esetén ennek tényét, a meghosszabbodott próbaidő tartamát és leteltének napját, a felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját; a javítóintézeti nevelés hátralévő részének szabadságvesztésre történő átváltoztatása esetén a javítóintézeti nevelést alkalmazó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 
@@ -48,7 +48,7 @@ kf) a szabadságvesztés büntetés vagy szabadságelvonással járó intézked�
 
 kg) a törvényi mentesítés várható időpontját;
 
-l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját;
+l) a nyilvántartásba vételt követően lefolytatott egyszerűsített felülvizsgálati eljárás, különleges eljárás vagy a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) szerinti bírósági eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját;
 
 m)
 

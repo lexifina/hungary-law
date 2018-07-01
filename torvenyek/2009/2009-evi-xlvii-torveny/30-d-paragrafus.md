@@ -10,7 +10,7 @@ teljesítendő adatközlésre köteles.
 
 (2) A kiadatási letartóztatás, ideiglenes kiadatási letartóztatás, átadási letartóztatás, ideiglenes átadási letartóztatás, valamint ideiglenes végrehajtási letartóztatás elrendelésével kapcsolatos adatokat a határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
-(3) A kényszerintézkedés és egyéb korlátozás megszüntetését – a (3a) bekezdésében meghatározott kivétellel – a határozatot hozó bíróság vagy ügyész közli a bűnügyi nyilvántartó szervvel.
+(3) A kényszerintézkedés és egyéb korlátozás megszüntetését – a (3a) bekezdésében meghatározott kivétellel – a határozatot hozó bíróság vagy ügyészség közli a bűnügyi nyilvántartó szervvel.
 
 (3a) Ha a kiadatási letartóztatás, az ideiglenes kiadatási letartóztatás, az átadási letartóztatás vagy az ideiglenes átadási letartóztatás azért szűnik meg, mert az érintettet Magyarország kiadta vagy átadta, az átadás időpontját a Nemzetközi Bűnügyi Együttműködési Központ közli a bűnügyi nyilvántartó szervvel.
 

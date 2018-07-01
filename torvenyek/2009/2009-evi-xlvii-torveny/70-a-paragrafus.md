@@ -42,7 +42,7 @@ ac) a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban
 
 ad) a törvényességi felügyelet gyakorlása során a legfőbb ügyész;
 
-b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság;
+b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, illetve az előkészítő eljárást lefolytató szerv;
 
 c) törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 

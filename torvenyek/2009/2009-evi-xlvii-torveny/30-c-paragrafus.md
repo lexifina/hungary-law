@@ -24,7 +24,7 @@ i) a határozattal és a határozatot hozó bírósággal kapcsolatban:
 
 ia) a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról határozatot hozó, valamint az egyéb korlátozás elrendeléséről és az egyéb korlátozás elrendelésekor meghatározott időtartamot befolyásoló későbbi határozatot hozó bíróság megnevezését, határozatának számát és keltét,
 
-ib) a szabadságvesztés büntetést kiszabó, a felfüggesztett vagy részben felfüggesztett szabadságvesztés végrehajtását elrendelő, illetve a kényszergyógykezelést, valamint a javítóintézeti nevelést és a javítóintézetből történő ideiglenes elbocsátást elrendelő első, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját,
+ib) a szabadságvesztés büntetést kiszabó, a felfüggesztett vagy részben felfüggesztett szabadságvesztés végrehajtását elrendelő, illetve a kényszergyógykezelést, valamint a javítóintézeti nevelést és a javítóintézetből történő ideiglenes elbocsátást elrendelő első, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében bejelentett jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját,
 
 ic) a szabadságvesztés büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját,
 
@@ -34,4 +34,4 @@ j) a szabadságvesztés előjegyzett utolsó napját,
 
 k) a javítóintézeti nevelésből elbocsátás napját, a javítóintézetből történő ideiglenes elbocsátás napját, az ideiglenes elbocsátás leteltének napját, valamint
 
-l) a 30/B. § a), b), c), d) és e) pontjában meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelése vagy kiszabása esetén annak tényét, hogy a terhelt vagy az elítélt a jogerős ítélet vagy határozat meghozatalakor érvényes úti okmánnyal rendelkezett.
+l) a 30/B. § a), b), c), d) és e) pontjában meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelése vagy kiszabása esetén annak tényét, hogy a terhelt vagy az elítélt a jogerős ügydöntő határozat vagy a véglegessé vált nem ügydöntő végzés meghozatalakor érvényes úti okmánnyal rendelkezett.

@@ -1,4 +1,4 @@
-4/A. § (1) Ha a bűnügyi nyilvántartási rendszer részére történő adatközlés alapján megállapítható, hogy olyan bűncselekmény miatt indult vagy folyik az érintettel szemben eljárás, illetve olyan jogerős ítéletet hoztak vele szemben, amely miatt ujj- és tenyérnyomat, illetve DNS-profil nyilvántartásba vétele érdekében mintavételnek van helye, a bűnügyi nyilvántartó szerv
+4/A. § (1) Ha a bűnügyi nyilvántartási rendszer részére történő adatközlés alapján megállapítható, hogy olyan bűncselekmény miatt indult vagy folyik az érintettel szemben eljárás, illetve olyan jogerős ügydöntő határozatot hoztak vele szemben, amely miatt ujj- és tenyérnyomat, illetve DNS-profil nyilvántartásba vétele érdekében mintavételnek van helye, a bűnügyi nyilvántartó szerv
 
 a) az ujj- és tenyérnyomat, illetve a DNS-profil nyilvántartásba vétele szükségességének tényéről,
 
@@ -18,7 +18,7 @@ c) a büntetőüggyel kapcsolatban
 
 ca) folyamatban lévő büntetőeljárás esetén az eljáró bíróság, ügyészség, nyomozó hatóság megnevezéséről, a büntetőeljárás alapjául szolgáló bűncselekmény megalapozott gyanú szerinti megnevezéséről és a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) vagy a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti minősítéséről, a megalapozott gyanú közlésének időpontjáról, valamint a büntetőügy iktatószámáról, vagy
 
-cb) jogerős, bűnösséget megállapító ítélet esetén az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezéséről, határozatának számáról és keltéről, a határozat jogerőre emelkedésének napjáról, a jogerős ítéletben a bíróság által megállapított bűncselekmény megnevezéséről és a bűncselekménynek az 1978. évi IV. törvény vagy a Btk. szerinti minősítéséről,
+cb) jogerős, bűnösséget megállapító ügydöntő határozat esetén az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében bejelentett jogorvoslat során eljárt bíróság megnevezéséről, határozatának számáról és keltéről, a határozat jogerőre emelkedésének napjáról, a jogerős ügydöntő határozatban a bíróság által megállapított bűncselekmény megnevezéséről és a bűncselekménynek az 1978. évi IV. törvény vagy a Btk. szerinti minősítéséről,
 
 d) a kapcsolati kódról, és
 

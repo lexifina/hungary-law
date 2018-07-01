@@ -4,11 +4,11 @@
 
 (1b) Ha a 11. § (1) bekezdés k) pont ke) alpontjában meghatározott, a külföldi ítéletben vagy a tagállami ítéletben kiszabott szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtására vonatkozó adat nem áll az elismerő vagy a megfeleltetésről szóló határozatot hozó magyar bíróság rendelkezésére, a bűnügyi nyilvántartó szerv a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését követően a külföldi hatóságtól adatközlés útján megkapott, illetve a külföldi hatóságtól származó, hiteles irattal igazolt végrehajtási adatokat bejegyzi a nyilvántartásba. Ha a foganatba vétel időpontja nem ismert, a külföldi ítélet vagy a tagállami ítélet jogerőre emelkedésének a napját kell a foganatba vétel időpontjának tekinteni.
 
-(2) A 11. § (1) bekezdés h) pontjában meghatározott adatokat az alapügyben első fokon eljárt bíróság közli a bűnügyi nyilvántartó szervvel.
+(2) A 11. § (1) bekezdés h) pontjában meghatározott adatokat az alapügyben elsőfokon eljárt bíróság közli a bűnügyi nyilvántartó szervvel.
 
 (2a) A 11. § (1) bekezdés i) pontjában, valamint, ha az elítélt beszámítással kitöltötte a feltételes szabadságra bocsátáshoz szükséges időtartamot, feltételes szabadságra bocsátás esetén a 11. § (2) bekezdés b) pontjában meghatározott adatokat a büntetés-végrehajtási bíró közli a bűnügyi nyilvántartó szervvel.
 
-(3) A 11. § (1) bekezdés l) pontjában meghatározott adatokat, valamint a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját a különleges eljárásban jogerős határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
+(3) A 11. § (1) bekezdés l) pontjában meghatározott adatokat, valamint a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját az egyszerűsített felülvizsgálati eljárásban, különleges eljárásban vagy a Bv. tv. szerinti bírósági eljárásban jogerős határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
 (4) A 11. § (2) bekezdés a)–d) pontjában meghatározott adatokat, valamint ha a bíróság a bűnügyi nyilvántartó szervvel korábban nem közölte, a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját a büntetés-végrehajtási intézet közli a bűnügyi nyilvántartó szervvel.
 

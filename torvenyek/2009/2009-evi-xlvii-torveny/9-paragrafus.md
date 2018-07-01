@@ -2,7 +2,7 @@
 
 9. § A bűntettesek nyilvántartásában szereplő adatok kezelésének célja:
 
-a) a büntetőügyben eljáró bíróság ítéletében foglalt büntetés és intézkedés végrehajtásának elősegítése,
+a) a büntetőügyben eljáró bíróság ügydöntő határozatában foglalt büntetés és intézkedés végrehajtásának elősegítése,
 
 b) a büntetett előélet tényének igazolása
 

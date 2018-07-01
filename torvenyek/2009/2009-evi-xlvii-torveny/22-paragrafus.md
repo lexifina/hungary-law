@@ -1,9 +1,9 @@
-22. § (1) A büntetőeljárás hatálya alatt állók nyilvántartásában annak adatait kell nyilvántartani, akivel szemben büntetőeljárás indult.
+22. § (1) A büntetőeljárás hatálya alatt állók nyilvántartásában annak adatait kell nyilvántartani, akivel a büntetőeljárásban megalapozott gyanút közöltek.
 
 (2) Nem kell nyilvántartani annak az adatait,
 
-a) akivel szemben a büntetőeljárás magánvádas bűncselekmény miatt előterjesztett magánindítvány alapján indult, függetlenül attól, hogy az ügyész átvette-e a vád képviseletét,
+a) akivel szemben magánvádas eljárás indult, függetlenül attól, hogy az ügyészség átvette-e a vád képviseletét,
 
 b) akivel szemben pótmagánvádló vádindítványa alapján indult eljárás, továbbá
 
-c) akinek katonai bűncselekménye miatt a katonai ügyész a feljelentést elutasította, és az elbírálást fegyelmi eljárásra utalta.
+c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta.

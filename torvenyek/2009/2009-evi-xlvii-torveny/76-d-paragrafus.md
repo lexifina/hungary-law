@@ -4,7 +4,7 @@
 
 76/D. § A tagállami ítéletek nyilvántartásának adatállományából közvetlen hozzáféréssel jogosult átvenni
 
-a) a nyomozó hatóság, az ügyészség vagy a bíróság arra a magyar állampolgárságú, bűncselekmény elkövetésével megalapozottan gyanúsítható személyre, illetve
+a) az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség vagy a bíróság arra a magyar állampolgárságú, bűncselekménnyel megalapozottan gyanúsítható személyre, illetve
 
 b) a nemzetbiztonsági szolgálatok arra a felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladata ellátása során érintett magyar állampolgárságú személyre
 

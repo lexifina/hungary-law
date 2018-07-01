@@ -2,7 +2,7 @@
 
 14. § A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyekre vonatkozó adatok nyilvántartásának célja:
 
-a) a büntetőügyben eljáró bíróság ítéletében foglalt büntetés és intézkedés végrehajtásának elősegítése;
+a) a büntetőügyben eljáró bíróság ügydöntő határozatában foglalt büntetés és intézkedés végrehajtásának elősegítése;
 
 b) a hátrányos jogkövetkezmények végrehajtásának biztosítása
 
