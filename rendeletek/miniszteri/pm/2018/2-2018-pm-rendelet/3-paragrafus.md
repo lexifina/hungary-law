@@ -1,0 +1,1 @@
+## „(6) A számlázó programmal előállított számla, számlával egy tekintet alá eső okirat az (1) bekezdés d) pontja alkalmazásában abban az időpontban minősül kiállítottnak, amely időponttal a számlázó program az előállított számla, számlával egy tekintet alá eső okirat adatait lezárja.”
