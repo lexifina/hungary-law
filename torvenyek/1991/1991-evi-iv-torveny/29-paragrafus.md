@@ -2,7 +2,7 @@
 
 a) terhességi-gyermekágyi segélyre, csecsemőgondozási díjra, gyermekgondozási díjra vagy gyermekgondozási segélyre, gyermekgondozást segítő ellátásra való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély, csecsemőgondozási díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély, gyermekgondozást segítő ellátás esetén a jogosultság megállapításának napjától,
 
-b) előzetes letartóztatásban van, szabadságvesztés, elzárás büntetését tölti, kivéve, ha a szabadságvesztés-büntetést pénzbüntetés átváltoztatása miatt állapították meg, a büntetés megkezdésének napjától,
+b) letartóztatásban van, szabadságvesztést – kivéve, ha a szabadságvesztés büntetést pénzbüntetés átváltoztatása miatt állapították meg –, valamint elzárást tölt, a kényszerintézkedés vagy büntetés megkezdésének napjától,
 
 c) a 25. § (5) bekezdésében meghatározott közfoglalkoztatás alatt, a közfoglalkoztatási jogviszony kezdő napjától,
 

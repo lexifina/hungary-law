@@ -66,7 +66,7 @@ k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű
 
 1. terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban részesül,
 
-2. előzetes letartóztatásban van, szabadságvesztés, illetve elzárás büntetését tölti,
+2. letartóztatásban van, szabadságvesztést, valamint elzárást tölt,
 
 3. sor- vagy tartalékos katonai szolgálatot, továbbá polgári szolgálatot teljesít,
 

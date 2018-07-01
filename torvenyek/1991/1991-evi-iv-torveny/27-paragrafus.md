@@ -12,7 +12,7 @@ d) a terhességi-gyermekágyi segély, csecsemőgondozási díj, a gyermekgondoz
 
 e) a megváltozott munkaképességű személyek ellátásai, a rokkantsági és a baleseti rokkantsági nyugdíj, a rendszeres szociális járadék, az átmeneti járadék, a bányászok egészségkárosodási járadéka folyósításának,
 
-f) az előzetes letartóztatás, valamint a szabadságvesztés- és az elzárásbüntetés,
+f) a letartóztatás, a szabadságvesztés, valamint az elzárás,
 
 g) az ápolási díj és a gyermeknevelési támogatás folyósítása,
 
