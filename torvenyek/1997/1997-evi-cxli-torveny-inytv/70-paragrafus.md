@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés szerinti rendelkezés nem vonatkozik arra az esetre, ha az adatszolgáltatást vagy lekérdezést a tulajdonos valamennyi ingatlanáról
 
-a) a bíróság, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat vagy a nyomozó hatóság törvényben meghatározott feladatai ellátása céljából,
+a) a bíróság, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat, a nyomozó hatóság vagy az előkészítő eljárást folytató szerv törvényben meghatározott feladatai ellátása céljából,
 
 b) az ügyészség a közérdekvédelmi feladatai ellátásához,
 
