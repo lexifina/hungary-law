@@ -4,7 +4,7 @@
 
 (2) A 3. § (3) bekezdés a) pontjában meghatározott célból jogosult
 
-a) az általa folytatott büntetőeljárásban a nyomozó hatóság, az ügyészség a feltételezett elkövetőről,
+a) az általa folytatott büntetőeljárásban az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség a feltételezett elkövetőről,
 
 b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 7. § (1) bekezdés c) pontjában meghatározott feladatának ellátása során,
 
@@ -22,7 +22,7 @@ az általa kezelt arcképmás felhasználásával az arcképelemző tevékenysé
 
 a) a nemzetbiztonsági szolgálat titkos információgyűjtő tevékenységének,
 
-b) a törvényben meghatározott titkos információgyűjtő, valamint titkos adatszerző tevékenység folytatására feljogosított szervek titkos információgyűjtő és titkos adatszerző tevékenységének
+b) a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek ezen tevékenységének
 
 támogatása során a rendelkezésére álló arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni személyazonosság ellenőrzése és ismeretlen személy azonosítása érdekében.
 

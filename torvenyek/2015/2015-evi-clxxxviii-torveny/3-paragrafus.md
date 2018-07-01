@@ -18,7 +18,7 @@ c) a körözési nyilvántartási rendszerről és a személyek, dolgok felkutat
 
 d) a személyazonosság igazolására alkalmas hatósági igazolvány kiadására irányuló közigazgatási hatósági eljárásokban a kérelmező azonosítása,
 
-e) a nemzetbiztonsági szolgálatok, valamint törvényben meghatározott titkos információgyűjtő, valamint titkos adatszerző tevékenység folytatására feljogosított szervek titkos információgyűjtő és titkos adatszerző tevékenységének támogatása,
+e) a nemzetbiztonsági szolgálatok, illetve a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek ezen tevékenységének támogatása,
 
 f) a nemzetbiztonsági szolgálatok által végzett nemzetbiztonsági ellenőrzés, valamint törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladataik támogatása és az objektumok műveleti védelme,
 
