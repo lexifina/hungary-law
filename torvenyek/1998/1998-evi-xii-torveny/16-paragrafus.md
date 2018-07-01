@@ -4,9 +4,9 @@
 
 16. § (1) Nem utazhat külföldre
 
-a) aki előzetes letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, vagy ideiglenes kényszergyógykezelés alatt áll,
+a) aki letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, vagy előzetes kényszergyógykezelés alatt áll,
 
-b) aki lakhelyelhagyási tilalom, illetve házi őrizet hatálya alatt áll,
+b) az a személy, aki olyan bűnügyi felügyelet alatt áll, amelynek során a bíróság előírta számára, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el,
 
 c) akit végrehajtandó szabadságvesztésre ítéltek, illetve akinek felfüggesztett vagy részben felfüggesztett szabadságvesztése végrehajtását utóbb elrendelték, az ítélet jogerőre emelkedésétől
 
@@ -24,17 +24,17 @@ f) akinek az Európai Unió tagállamaival folytatott bűnügyi együttműködé
 
 a) az ügyész vagy
 
-b) ha nincs ügyész jelen, illetve az (1) bekezdés f) pontjában meghatározott esetben a bíró
+b) ha nincs ügyész jelen, illetve az (1) bekezdés f) pontjában meghatározott esetben a bíróság
 
 elveszi az úti okmányt annak visszatartása érdekében.
 
-(3) Amennyiben az úti okmányt az (1) bekezdésben meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelésekor vagy kiszabásakor nem lehetett elvenni, az ügyész a büntetőeljárás során gondoskodik annak későbbi elvételéről.
+(3) Amennyiben az úti okmányt az (1) bekezdésben meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelésekor vagy kiszabásakor nem lehetett elvenni, az ügyészség a büntetőeljárás során gondoskodik annak későbbi elvételéről.
 
-(4) Az elvett úti okmányt az ügyész vagy bíró továbbítja az (5) bekezdésben meghatározott, az úti okmány visszatartását végrehajtó szervnek.
+(4) Az elvett úti okmányt az ügyészség vagy bíróság továbbítja az (5) bekezdésben meghatározott, az úti okmány visszatartását végrehajtó szervnek.
 
 (5) Külföldre utazási korlátozás esetén az úti okmány visszatartását
 
-a) az (1) bekezdés a), b) pontjában meghatározott esetben a személyi szabadságot elvonó vagy korlátozó kényszerintézkedést vagy egyéb korlátozást foganatosító vagy annak ellenőrzését végrehajtó szerv,
+a) az (1) bekezdés a), b) pontjában meghatározott esetben a személyi szabadságot érintő kényszerintézkedést vagy egyéb korlátozást foganatosító vagy annak ellenőrzését végrehajtó szerv,
 
 b) az (1) bekezdés c), d) és e) pontjában meghatározott esetben a szabadságvesztést foganatosító büntetés-végrehajtási intézet, a kényszergyógykezelést foganatosító igazságügyi megfigyelő és elmeorvosi intézet, vagy a javítóintézeti nevelést végrehajtó szerv,
 

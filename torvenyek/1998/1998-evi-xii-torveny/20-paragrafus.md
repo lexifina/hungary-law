@@ -1,6 +1,6 @@
 20. § (1) Érvénytelen az úti okmány, ha
 
-a) elvesztését, megsemmisülését vagy eltulajdonítását bejelentették, valamint ha azt a hatóság elvette, illetve bevonta vagy szabálysértési, illetve büntetőeljárásban tárgyi bizonyítási eszközként lefoglalta,
+a) elvesztését, megsemmisülését vagy eltulajdonítását bejelentették, valamint ha azt elvették, illetve bevonták vagy szabálysértési, illetve büntetőeljárásban lefoglalták,
 
 b) személyazonosság megállapítására alkalmatlan, betelt, megrongálódott,
 
