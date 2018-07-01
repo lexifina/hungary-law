@@ -1,9 +1,9 @@
-## 208. §[^84]
+## 208. §[^220]
 
-209. § (1)[^85]
+209. § (1)[^221]
 
-(2)[^86]
+(2)[^222]
 
-[^84]: A 208. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^85]: A 209. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^86]: A 209. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^220]: A 208. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^221]: A 209. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^222]: A 209. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

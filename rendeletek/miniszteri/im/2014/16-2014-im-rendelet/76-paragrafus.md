@@ -6,6 +6,8 @@
 
 (3) Ha az orvos veszélyeztetett terhességet állapít meg, az elítéltet haladéktalanul a Központi Kórházba kell szállítani, és nyilatkoztatni kell, hogy kéri-e a szabadságvesztés félbeszakítását. A veszélyeztetett terhesség ideje alatt a szabadságvesztés félbeszakítására – bv. orvosi javaslat alapján – bármikor sor kerülhet.
 
-(4) Ha a szabadságvesztés végrehajtásának félbeszakítását engedélyezték, a bv. intézet a szülés várható időpontját követő két hónapon belül megkeresi az elítélt állandó lakó- vagy tartózkodási helye szerint illetékes önkormányzatot és tájékozódik a szülést követő körülményekről.
+(4)[^60] Ha a szabadságvesztés végrehajtásának félbeszakítását engedélyezték, a bv. intézet a szülés várható időpontját követő két hónapon belül megkeresi az elítélt lakcíme vagy tényleges tartózkodási helye szerint illetékes önkormányzatot és tájékozódik a szülést követő körülményekről.
 
 (5) Ha a gyermek halva született vagy meghalt, illetve nem az elítélt gondozásában van, a bv. intézet a félbeszakítás megszüntetésére tesz javaslatot.
+
+[^60]: A 76. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 14. vagy 16. pontja szerint módosított szöveg.

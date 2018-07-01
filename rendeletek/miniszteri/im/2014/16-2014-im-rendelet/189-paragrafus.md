@@ -1,8 +1,8 @@
-189. § (1) A szigorúbb rezsimbe sorolt előzetesen letartóztatott
+189. § (1)[^177] A szigorúbb rezsimbe sorolt letartóztatott
 
 a) látogatót alkalmanként hatvan percben fogadhat,
 
-b)[^79] kapcsolattartójával hetente hetven percet telefonálhat,
+b)[^178] kapcsolattartójával hetente hetven percet telefonálhat,
 
 c) a személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 70%-os mértékig elköltheti,
 
@@ -10,7 +10,8 @@ d) birtokában tartható tárgyainak köre az 1. melléklet 2.2., 3.4–3.5., 5.
 
 e) kérésére részt vehet a bv. intézeten belüli munkáltatásban, oktatásban.
 
-(2)[^80] Ha a rendelkezési jogkör gyakorlója az előzetesen letartóztatott fokozott őrzését rendelte el, a BFB az érintettet magas biztonsági kockázati szintre sorolja.
+(2)[^179] Ha a rendelkezési jogkör gyakorlója a letartóztatott fokozott őrzését rendelte el, a BFB az érintettet magas biztonsági kockázati szintre sorolja.
 
-[^79]: A 189. § (1) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 36. §-ával megállapított szöveg.
-[^80]: A 189. § (2) bekezdése a 24/2016. (XII. 23.) IM rendelet 37. §-ával megállapított szöveg.
+[^177]: A 189. § (1) bekezdés nyitó szövegrésze a 14/2018. (VI. 15.) IM rendelet 20. § d) pontja szerint módosított szöveg.
+[^178]: A 189. § (1) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 36. §-ával megállapított szöveg.
+[^179]: A 189. § (2) bekezdése a 24/2016. (XII. 23.) IM rendelet 37. §-ával megállapított, a 14/2018. (VI. 15.) IM rendelet 19. § 54. pontja szerint módosított szöveg.

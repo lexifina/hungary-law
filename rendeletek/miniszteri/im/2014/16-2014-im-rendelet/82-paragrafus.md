@@ -1,3 +1,5 @@
-82. § (1) A bírósághoz, az ügyészhez vagy a közvetítői eljárásra előállítást végrehajtó köteles tájékoztatást adni az elítélt rezsimbe és biztonsági kockázati besorolásáról, továbbá a bv. intézet által a fogvatartás biztonsága szempontjából jelentősnek tartott egyéb körülményekről.
+82. § (1) A bírósághoz, az ügyészséghez, a nyomozó hatósághoz vagy a közvetítői eljárásra előállítást végző köteles tájékoztatást adni az elítélt rezsimbe és biztonsági kockázati besorolásáról, továbbá a fogvatartás biztonsága szempontjából jelentősnek tartott egyéb körülményekről.
 
-(2) Ha az ügyben eljáró bíróság, ügyész vagy közvetítő az elítéltet az előállítást végző jelenléte nélkül kéri meghallgatni, azt az eljárást lefolytató bíróság, ügyész vagy közvetítő írásbeli rendelkezésére és saját felelősségére kell biztosítani.
+(2) Ha az ügyben eljáró bíróság, ügyészség, nyomozó hatóság vagy közvetítő kezdeményezi az elítéltnek az előállítást végző jelenléte nélküli meghallgatását, azt az eljárást lefolytató bíróság, ügyészség, nyomozó hatóság vagy közvetítő írásbeli rendelkezése alapján és saját felelősségére kell biztosítani.
+
+(3) Ha a bíróság a tárgyaláson újabb tárgyalási határnapot tűz ki, és az új idézést, értesítést és előállító utasítást az előállítást végzőnek átadja, az előállítást végző bv. intézet köteles gondoskodni az új idézés, értesítés és előállítás iránti utasítás továbbításáról a végrehajtást foganatosító bv. intézet felé.

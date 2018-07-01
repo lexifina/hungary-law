@@ -1,8 +1,8 @@
-8. melléklet a 16/2014. (XII. 19.) IM rendelethez[^89]
+8. melléklet a 16/2014. (XII. 19.) IM rendelethez[^226]
 
 | Kártalanítás iránti kérelem |
 
-| Személyi adatok: Név: Születési hely és idő: Anyja születési neve: |
+| Természetes személyazonosító adatok: Név: Születési hely és idő: Anyja születési neve: |
 
 | Igénypontok: 1. Bv. intézet megnevezése: A jogszabályban előírt élettér hiánya miatt kifogásolt időszak megjelölése dátumszerűen: Egyéb, alapvető jogot sértő elhelyezési körülmény fennállt-e ? (aláhúzással jelölje) Igen Nem Ha igen, mely körülmény és milyen időszakban állt fenn: 2. Bv. intézet megnevezése: A jogszabályban előírt élettér hiánya miatt kifogásolt időszak megjelölése dátumszerűen: Egyéb, alapvető jogot sértő elhelyezési körülmény fennállt-e ? (aláhúzással jelölje) Igen Nem Ha igen, mely körülmény és milyen időszakban állt fenn: 3. Bv. intézet megnevezése: A jogszabályban előírt élettér hiánya miatt kifogásolt időszak megjelölése dátumszerűen: Egyéb, alapvető jogot sértő elhelyezési körülmény fennállt-e ? (aláhúzással jelölje) Igen Nem Ha igen, mely körülmény és milyen időszakban állt fenn: □ A további igények megjelenítése külön mellékleten. (jelölje X-szel, ha mellékletet csatol) |
 
@@ -14,4 +14,4 @@
 
 | Kelt: .............................................................. aláírás |
 
-[^89]: A 8. mellékletet a 24/2016. (XII. 23.) IM rendelet 40. §-a iktatta be.
+[^226]: A 8. mellékletet a 24/2016. (XII. 23.) IM rendelet 40. §-a iktatta be, szövege a 14/2018. (VI. 15.) IM rendelet 19. § 40. pontja szerint módosított szöveg.

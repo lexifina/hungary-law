@@ -4,7 +4,7 @@
 
 a) aki szabadságvesztését kitöltötte, annak utolsó napján,
 
-b) akit feltételes szabadságra bocsátottak, annak esedékessége napján, kivéve, ha a nem jogerős végzés ellen az ügyész az esedékesség napjáig fellebbezést jelentett be,
+b)[^113] akit feltételes szabadságra bocsátottak, annak esedékessége napján, kivéve, ha a nem jogerős végzés ellen az ügyészség az esedékesség napjáig fellebbezést jelentett be,
 
 c) akinek szabadságvesztését félbeszakították, a határozat megérkezésének napján vagy a határozatban megjelölt napon,
 
@@ -14,10 +14,12 @@ e) akinek ügyében a Kúria felülvizsgálati eljárás, illetve a törvényess
 
 ## szabadon kell bocsátani.
 
-(2)[^64] Az (1) bekezdésben meghatározott esetekben sem szabadítható az elítélt, a félbeszakítás engedélyezése kivételével, ha további szabadságvesztés, elzárás, közérdekű munka vagy pénzbüntetés helyébe lépő szabadságvesztés, előzetes letartóztatás, kiadatási letartóztatás, ideiglenes kiadatási letartóztatás átadási letartóztatás, ideiglenes átadási letartóztatás, ideiglenes végrehajtási letartóztatás, szabálysértési elzárás vagy idegenrendészeti őrizet vár végrehajtásra.
+(2)[^114] Az (1) bekezdésben meghatározott esetekben sem szabadítható az elítélt, a félbeszakítás engedélyezése kivételével, ha további szabadságvesztés, elzárás, közérdekű munka vagy pénzbüntetés helyébe lépő szabadságvesztés, letartóztatás, kiadatási letartóztatás, ideiglenes kiadatási letartóztatás átadási letartóztatás, ideiglenes átadási letartóztatás, ideiglenes végrehajtási letartóztatás, szabálysértési elzárás vagy idegenrendészeti őrizet vár végrehajtásra.
 
 (3) A szabadon bocsátást megelőző szabadítási eljárás legfeljebb két munkanapig tarthat.
 
-(4) Az elítéltet olyan időpontban kell szabadítani, hogy – az utazási körülményeket figyelembe véve – lehetőleg még ugyanazon a napon a lakó- vagy tartózkodási helyére megérkezzék.
+(4)[^115] Az elítéltet olyan időpontban kell szabadítani, hogy – az utazási körülményeket figyelembe véve – lehetőleg még ugyanazon a napon a lakcímére vagy tényleges tartózkodási helyére megérkezzék.
 
-[^64]: A 140. § (2) bekezdése a 6/2015. (III. 30.) IM rendelet 12. § b) pontja szerint módosított szöveg.
+[^113]: A 140. § (1) bekezdés b) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 8. pontja szerint módosított szöveg.
+[^114]: A 140. § (2) bekezdése a 6/2015. (III. 30.) IM rendelet 12. § b) pontja, a 14/2018. (VI. 15.) IM rendelet 20. § c) pontja szerint módosított szöveg.
+[^115]: A 140. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 35. pontja szerint módosított szöveg.

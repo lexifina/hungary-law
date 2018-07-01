@@ -1,5 +1,5 @@
-## 51. Az elítélt előállításának közös szabályai
+## miatt nem tudja teljesíteni, erről a bíróságot, illetve a közjegyzőt haladéktalanul – indokolt esetben rövid úton is – értesíti.
 
-84. § (1) Ha a bv. intézet az elítéltet egészségi állapota miatt nem tudja előállítani, erről a tényről a bíróságot, az ügyészt, a büntetőügyben eljáró közvetítőt, illetve a közjegyzőt haladéktalanul – indokolt esetben rövid úton is – értesíti.
+## 51.[^67]
 
-(2) Ha büntetés-félbeszakítást engedélyeznek az elítélt részére, erről az eljáró bíróságot, az ügyészt, a büntetőügyben eljáró közvetítőt, illetve a közjegyzőt írásban értesíteni kell.
+[^67]: Az 51. alcímet (84. §) a 14/2018. (VI. 15.) IM rendelet 20. § b) pontja hatályon kívül helyezte.

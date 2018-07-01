@@ -28,4 +28,6 @@ h) az utazást nem vállalja, vagy alapos okkal feltehető, hogy a jelentkezési
 
 i) a (2) bekezdés szerinti aláírást megtagadja,
 
-j) a bíróság vagy az ügyész a szabadságvesztés ideiglenes foganatba vételét rendelte el.
+j)[^15] a bíróság vagy az ügyészség a szabadságvesztés ideiglenes foganatba vételét rendelte el.
+
+[^15]: A 14. § (4) bekezdés j) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 8. pontja szerint módosított szöveg.

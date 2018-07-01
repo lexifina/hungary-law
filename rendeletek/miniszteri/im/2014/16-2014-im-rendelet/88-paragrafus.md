@@ -1,4 +1,4 @@
-## 87. § Az elítéltet kivételesen, a kiadást kérő hatóság erre irányuló kérelmére a hatóság székhelye szerint illetékes legközelebbi bv. intézetbe kell megőrzésre szállítani. Az elítéltet a megőrző intézet adja át a hatóságnak a nyomozati cselekmények lefolytatása céljából és fogadja vissza.
+## 87. §[^71] Az elítéltet kivételesen, a kiadást kérő hatóság erre irányuló kérelmére a hatóság székhelye szerint illetékes legközelebbi bv. intézetbe kell megőrzésre szállítani. Az elítéltet a megőrző intézet adja át a hatóságnak az eljárási cselekmények lefolytatása céljából és fogadja vissza.
 
 ## 54. Házasságkötés a bv. intézetben
 
@@ -15,3 +15,5 @@
 (6) A beszélgetés nem csökkenti a havonta engedélyezhető látogató fogadások számát.
 
 (7) A bejegyzett élettársi kapcsolat létesítése esetén az (1)–(6) bekezdés rendelkezéseit kell értelemszerűen alkalmazni.
+
+[^71]: A 87. § a 14/2018. (VI. 15.) IM rendelet 19. § 25. pontja szerint módosított szöveg.

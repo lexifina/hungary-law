@@ -4,8 +4,9 @@
 
 ## 78. § A bv. intézet a szabadságvesztés végrehajtásának félbeszakítására
 
-a)[^40] a bíróságnak a Be. 413. § (1) bekezdése, vagy a Be. 423. § (6) bekezdése alapján hozott határozata, vagy
+a)[^61] a bíróságnak a Be. 644. § (5) bekezdése, vagy a Be. 659. § (7) bekezdése alapján hozott határozata, vagy
 
-b) az igazságügyért felelős miniszternek a Be. 598. § (2) bekezdése alapján hozott döntése
+b)[^62] az igazságügyért felelős miniszternek a Bv. tv. 45. § (9) bekezdése alapján hozott döntése
 
-[^40]: A 78. § a) pontja a 31/2015. (X. 30.) IM rendelet 5. §-a szerint módosított szöveg.
+[^61]: A 78. § a) pontja a 31/2015. (X. 30.) IM rendelet 5. §-a, a 14/2018. (VI. 15.) IM rendelet 19. § 18. pontja szerint módosított szöveg.
+[^62]: A 78. § b) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 19. pontja szerint módosított szöveg.

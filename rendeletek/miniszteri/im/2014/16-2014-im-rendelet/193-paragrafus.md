@@ -1,3 +1,21 @@
-193. § (1) Az előzetesen letartóztatottat – a rendelkezési jogkör gyakorlójának intézkedése alapján – a bv. intézet irattanulmányozásra előállítja.
+193. §[^192] (1) Ha a letartóztatott a büntető ügyiratokról készült másolatot terjedelme miatt nem tarthatja magánál, vagy a büntető ügyiratok elektronikus eszközön rendelkezésre álló másolatának megismerése számítástechnikai eszközt igényel, a bv. intézetnek a betekintést
 
-(2) A bv. intézetben történő irattanulmányozást az iratok megérkezését követően, haladéktalanul lehetővé kell tenni. A bv. intézetben történő irattanulmányozásra ellenőrzés mellett kerülhet sor. A bv. intézet a büntetőügy iratait az eljáró szerv rendelkezésének megfelelően küldi vissza.
+a) az erre irányuló kérelem benyújtását követő munkanapon,
+
+b) a védővel való kapcsolattartás során, ha az erre vonatkozó kérelmet a kapcsolattartást megelőző munkanapon az elítélt vagy a védő bejelentette, vagy
+
+c) a jogorvoslati jog gyakorlása érdekében soron kívül
+
+## biztosítania kell.
+
+(2) A büntető ügyiratok bv. intézetben történő megismerését – az erre kijelölt helyen – az ügyiratok megérkezését követően haladéktalanul lehetővé kell tenni. A bv. intézet a büntető ügyiratokat az eljáró szerv rendelkezésének megfelelően küldi vissza.
+
+(3) A büntető ügyiratok bv. intézetben történő megismerése során a bv. intézet biztosítja
+
+a) a papíralapú ügyirat épségének védelmét,
+
+b) az elektronikus ügyirat biztonságos kezelését, tartalmába való beavatkozás megakadályozását, a megismerést biztosító számítástechnikai eszköz épségének védelmét és kizárólag az engedélyezett célra történő használatát.
+
+(4) A bv. intézet a büntető ügyiratok megismerésének biztosításáról – annak időpontja, időtartama megjelölésével – és az esetlegesen beavatkozást igénylő eseményekről jegyzőkönyvet készít. A jegyzőkönyvet a letartóztatott is aláírja és azt a visszaküldendő ügyiratokhoz kell csatolni.
+
+[^192]: Az 193. § a 14/2018. (VI. 15.) IM rendelet 17. §-ával megállapított szöveg.

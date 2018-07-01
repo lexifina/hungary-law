@@ -1,4 +1,4 @@
-184. § (1) Az előzetesen letartóztatottat megőrzésre kell befogadni, ha
+184. § (1)[^165] A letartóztatottat megőrzésre kell befogadni, ha
 
 a) egészségügyi okból,
 
@@ -17,3 +17,5 @@ g) súlyos beteg közeli hozzátartozó meglátogatása céljából
 ## más bv. intézetbe történő szállítása szükséges.
 
 (2) A megőrzés időtartama alatt az általános rezsimszabályokat kell alkalmazni, kivéve, ha azt a fogvatartás biztonsága érdekében módosítani szükséges.
+
+[^165]: A 184. § (1) bekezdés nyitó szövegrésze a 14/2018. (VI. 15.) IM rendelet 19. § 52. pontja szerint módosított szöveg.

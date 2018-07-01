@@ -1,3 +1,5 @@
+## követő három munkanapon belül adja át.
+
 ## 62. A távbeszélő használata
 
 104. § (1) A telefonbeszélgetést az elítélt fogvatartás rendjére és biztonságára jelentett kockázatának figyelembevételével kell ellenőrizni.
