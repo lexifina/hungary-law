@@ -8,4 +8,6 @@ b) a támogatással megszerzett ingatlant a tulajdonába kerülő másik ingatla
 
 c) még a Program hatálya alatt áll, és az elidegenítés vagy megterhelés a védelem érdekeit nem sérti.
 
-(3) Egy összegben kell visszafizetni a támogatást, ha a támogatásban részesített véglegesen külföldre távozik, ide nem értve azt az esetet, amikor az érintett védelmére nemzetközi együttműködés alapján külföldön kerül sor (Tvdt. 34. §).
+(3)[^14] Egy összegben kell visszafizetni a támogatást, ha a támogatásban részesített véglegesen külföldre távozik, ide nem értve azt az esetet, amikor az érintett védelmére nemzetközi együttműködés alapján külföldön kerül sor.
+
+[^14]: A 22. § (3) bekezdése a 77/2018. (IV. 20.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
