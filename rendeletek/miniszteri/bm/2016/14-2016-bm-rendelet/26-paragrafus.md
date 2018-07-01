@@ -18,7 +18,7 @@ c) – szükség esetén – ruházati egységfelszerelés
 
 (2) Az igényjogosultat nagyfokú szennyeződéssel vagy a ruházat jelentős mértékű kopásával járó munkakörökben munkaruházat illeti meg.
 
-(2a)[^25] Ha e rendelet szerint a hivatásos állomány tagja formaruházatban látja el szolgálati feladatait, őt formaruházattal kell ellátni. Egyebekben a formaruházattal való ellátásra a munkaruházattal való ellátás szabályait kell alkalmazni.
+(2a)[^26] Ha e rendelet szerint a hivatásos állomány tagja formaruházatban látja el szolgálati feladatait, őt formaruházattal kell ellátni. Egyebekben a formaruházattal való ellátásra a munkaruházattal való ellátás szabályait kell alkalmazni.
 
 (3) Az igényjogosultat az egészséget, testi épséget veszélyeztető munkakörökben vagy közegészségügyi, illetve szolgálati érdekből egyéni védőfelszerelés illeti meg.
 
@@ -28,4 +28,4 @@ c) – szükség esetén – ruházati egységfelszerelés
 
 (6) Ruházati ellátási normában szereplő termék munkaruházatként nem adható ki.
 
-[^25]: A 26. § (2a) bekezdését a 29/2017. (XI. 6.) BM rendelet 8. §-a iktatta be.
+[^26]: A 26. § (2a) bekezdését a 29/2017. (XI. 6.) BM rendelet 8. §-a iktatta be.

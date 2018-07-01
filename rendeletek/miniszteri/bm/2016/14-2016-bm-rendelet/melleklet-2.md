@@ -58,7 +58,7 @@
 
 ## * Az egyenruházati cikkeknél és a ruházati felszereléseknél meghatározott tervezett viselési idők azt az időtartamot határozzák meg, aminek elteltét követően az állománynak a ruházati termékeket – ha a szolgálati feladatokat kizárólag adott ruházatban látja el – pótolni indokolt. Az azonos funkciójú (szolgálati, gyakorló-, speciális vagy munkaruházati) termékek vegyes használata mellett a ruházati cikkek tervezett viselési ideje meghosszabbodik. A ruházati szemléken a pótlandó termékek körét a termékek használtsági foka alapján kell meghatározni, figyelembe véve a ruházati utánpótlási ellátmány összegét, terhelhetőségét. A szolgálati feladatok ellátása során megsérült ruházat – az önálló szerv költségvetése terhére történő – kártérítésénél a tervezett viselési időket figyelembe kell venni.
 
-2. melléklet a 14/2016. (V. 10.) BM rendelethez[^40]
+2. melléklet a 14/2016. (V. 10.) BM rendelethez[^42]
 
 ## Az általános rendőrségi feladatok ellátására létrehozott szerv hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -718,4 +718,4 @@ a) Megjegyzés:
 
 | 18 | Fonott kardtartó, rejtett | db | 1 | 5 év |
 
-[^40]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^42]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése szerint módosított szöveg.

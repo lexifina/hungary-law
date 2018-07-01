@@ -1,4 +1,4 @@
-4. melléklet a 14/2016. (V. 10.) BM rendelethez[^42]
+4. melléklet a 14/2016. (V. 10.) BM rendelethez[^44]
 
 ## A Büntetés-végrehajtási szervezet hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -198,4 +198,4 @@ bi) T2: Tábornoki alapellátási norma (férfi)
 
 3. A hivatásos állomány részére, a szolgálati feladatok függvényében, – alegységkészletként – szolgálati, csapadék ellen védő kabátot kell biztosítani.
 
-[^42]: A 4. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^44]: A 4. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (3) bekezdése szerint módosított szöveg.

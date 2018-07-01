@@ -1,4 +1,4 @@
-7. melléklet a 14/2016. (V. 10.) BM rendelethez[^45]
+7. melléklet a 14/2016. (V. 10.) BM rendelethez[^47]
 
 ## A rendvédelmi oktatási intézmények hallgatói és tanulói állományára vonatkozó ruházati ellátási normák
 
@@ -92,4 +92,4 @@ Nemzeti Közszolgálati Egyetem Rendészettudományi Karra és a rendészeti sza
 
 | 11 | Téli ing | 2018. március 31 |
 
-[^45]: A 7. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (6) bekezdése szerint módosított szöveg.
+[^47]: A 7. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (6) bekezdése szerint módosított szöveg.
