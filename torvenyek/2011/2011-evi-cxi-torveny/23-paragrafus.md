@@ -46,11 +46,11 @@ d) a rendőrség által védett objektumok, valamint a rendőrség által védet
 
 e) a rendőrséggel titkosan együttműködő magánszemélyek azonosítását lehetővé tevő iratba, kivéve ha a jogsérelem az együttműködő személyt érte, és a kivizsgálást maga kéri,
 
-f) a rendőrség által titkos információgyűjtésre használt eszközök és módszerek működésének és működtetésének műszaki-technikai adatait tartalmazó vagy az azokat alkalmazó személyek azonosítását lehetővé tevő dokumentumba,
+f) a rendőrség által titkos információgyűjtés folytatása vagy leplezett eszközök alkalmazása érdekében használt eszközök és módszerek működésének és működtetésének műszaki-technikai adatait tartalmazó vagy az azokat alkalmazó személyek azonosítását lehetővé tevő dokumentumba,
 
 g) a rendőrség rejtjeles híradásával kapcsolatos iratba, valamint a kormányzati célú frekvencia nyilvántartásával kapcsolatos összesített adatokat tartalmazó iratba,
 
-h) a tanú személyi adataiba, ha azok zárt kezelését a büntetőeljárásról szóló törvény alapján elrendelték, valamint
+h) a büntetőeljárásról szóló törvény alapján zártan kezelt ügyiratokba, valamint
 
 i) a Magyar Honvédséggel, a nemzetbiztonsági szolgálatokkal kötött együttműködési megállapodásba, amelyet a felek „Szigorúan titkos!” minősítési szintű adatnak minősítettek.
 
@@ -68,7 +68,7 @@ e) a rejtjeles híradással kapcsolatos iratba, valamint a kormányzati célú f
 
 f) a Nemzeti Adó- és Vámhivatal érintett szervével titkosan együttműködő magánszemélyek azonosítását lehetővé tevő iratba, kivéve, ha a jogsérelem az együttműködő személyt érte, és a kivizsgálást maga kéri,
 
-g) a Nemzeti Adó- és Vámhivatal érintett szerve által titkos információgyűjtésre használt eszközök és módszerek működésének és működtetésének műszaki-technikai adatait tartalmazó vagy az azokat alkalmazó személyek azonosítását lehetővé tevő iratba,
+g) a Nemzeti Adó- és Vámhivatal érintett szerve által titkos információgyűjtés folytatása vagy leplezett eszközök alkalmazása érdekében használt eszközök és módszerek működésének és működtetésének műszaki-technikai adatait tartalmazó vagy az azokat alkalmazó személyek azonosítását lehetővé tevő iratba,
 
 h) a Nemzeti Adó- és Vámhivatal érintett szerve által végzett felderítés eszközeire, működésére vonatkozó összesített adatokat tartalmazó iratba, valamint
 
@@ -76,11 +76,11 @@ i) az adóügyi jelzések védelmével kapcsolatban a Nemzeti Adó- és Vámhiva
 
 (5) Az alapvető jogok biztosa az ügyészség nyomozást végző szervét érintő vizsgálata során nem tekinthet be
 
-a) a tanú személyi adataiba, ha azok zárt kezelését a büntetőeljárásról szóló törvény alapján elrendelték,
+a) a büntetőeljárásról szóló törvény alapján zártan kezelt ügyiratokba,
 
 b) az ügyészség nyomozást végző szervének titkos információgyűjtése során keletkezett iratba,
 
-c) az ügyészség nyomozást végző szervének a titkos információgyűjtést végző szervekkel történő együttműködésével kapcsolatos, és az abból származó vagy arra vonatkozó minden, a (2)–(4) bekezdésben a titkos információgyűjtést végző szervekkel kapcsolatban meghatározott iratba,
+c) az ügyészség nyomozást végző szervének a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervekkel történő együttműködésével kapcsolatos, és az abból származó vagy arra vonatkozó minden, a (2)–(4) bekezdésben a titkos információgyűjtést folytató, illetve leplezett eszközt alkalmazó szervekkel kapcsolatban meghatározott iratba,
 
 d) a rendőrséggel titkosan együttműködő magánszemélyek azonosítását lehetővé tevő iratba, kivéve, ha a jogsérelem az együttműködő személyt érte, és a kivizsgálást maga kéri.
 
