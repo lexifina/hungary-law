@@ -108,7 +108,7 @@ a) a bíróság, a közigazgatási bírság bírósági felülvizsgálatával ka
 
 b) az ügyészség, az ügyész közigazgatási eljárásban történő részvételével összefüggő feladatok ellátása érdekében,
 
-c) a nyomozó hatóságok, a hatáskörükbe tartozó bűncselekmények nyomozásával összefüggő feladatok ellátása érdekében,
+c) a bíróság, az ügyészség és a nyomozó hatóság büntetőeljárás lefolytatása érdekében,
 
 d) a nemzetbiztonsági szolgálatok törvényben meghatározott feladataik ellátása érdekében,
 
