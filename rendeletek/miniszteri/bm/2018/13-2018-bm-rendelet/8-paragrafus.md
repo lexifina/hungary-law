@@ -1,0 +1,3 @@
+8. § (1) Ha a bírói engedélyhez kötött eszköz alkalmazásának végrehajtásához a közreműködő szerv bevonása szükséges, a titkos információgyűjtés folytatására feljogosított szerv vezetője – a 9. § (4) bekezdése szerinti tartalommal, az engedélyező végzés másolati példányának egyidejű csatolásával – megkeresi a közreműködő szervet (a továbbiakban: megkeresés).
+
+(2) A megkeresést két példányban kell elkészíteni, amelyekből az egyik példány a titkos információgyűjtés iratanyagának részét képezi, a másik példányt a titkos információgyűjtésre feljogosított szerv vezetője megküldi a közreműködő szerv részére.

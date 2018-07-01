@@ -1,0 +1,3 @@
+11. § (1) A bírói engedélyhez kötött eszköz alkalmazásának megszüntetését követően a titkos információgyűjtést folytató szerv vezetője megvizsgálja, hogy az engedélyben szereplő személy – az Rtv. 75/D. § (5) bekezdésére figyelemmel – az alkalmazás tényéről tájékoztatható-e, ennek érdekében szükség esetén megkeresi az alkalmazás végrehajtásával érintett szerveket, és álláspontjuk ismeretében dönt a tájékoztatásról.
+
+(2) Az engedélyben szereplő személy tájékoztatása esetén a tájékoztatás kizárólag az alkalmazott, bírói engedélyhez kötött eszköz Rtv. szerinti megnevezését és az érintettel szembeni alkalmazásának tényét tartalmazza.
