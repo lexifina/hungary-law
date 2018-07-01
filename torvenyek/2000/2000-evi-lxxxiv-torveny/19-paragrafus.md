@@ -12,7 +12,7 @@ d) aki két hónapot meghaladóan felszólítás ellenére nem fizet tagdíjat �
 
 a) jogerősen egy évet meghaladó végrehajtandó szabadságvesztésre ítéltek;
 
-b) a bíróság jogerős ítélettel a növényvédelmi szakirányú tevékenység folytatását kizáró foglalkozástól végleges hatállyal eltiltott.
+b) a bíróság jogerős ügydöntő határozattal a növényvédelmi szakirányú tevékenység folytatását kizáró foglalkozástól végleges hatállyal eltiltott.
 
 (3) Kizárható a Kamarából az, aki kirívóan súlyos fegyelmi vétséget követ el.
 

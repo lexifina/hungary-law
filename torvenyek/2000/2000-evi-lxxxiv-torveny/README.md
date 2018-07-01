@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-84-00-00
 | 2016-07-01 | 2016. évi LXIV. törvény | 2000-84-00-00.15 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2000-84-00-00.16 |
 | 2018-01-01 | 2017. évi L. törvény | 2000-84-00-00.17 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2000-84-00-00.18 |
