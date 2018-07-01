@@ -6,6 +6,6 @@
 
 (3) Ha a cég az átalakulása során az átalakulás időpontját meghatározza [Ctv. 57. § (2) bekezdés], a jogelőd cég (cégek) cégjegyzékében is fel kell tüntetni azt az időpontot, amely a jogutód cég (cégek) cégjegyzékében az átalakulás időpontjaként szerepel.
 
-(4)[^31]
+(4)[^34]
 
-[^31]: A 13. § (4) bekezdését a 39/2015. (XII. 21.) IM rendelet 1. § (12) bekezdés a) pontja hatályon kívül helyezte.
+[^34]: A 13. § (4) bekezdését a 39/2015. (XII. 21.) IM rendelet 1. § (12) bekezdés a) pontja hatályon kívül helyezte.

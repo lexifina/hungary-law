@@ -430,7 +430,7 @@
 
 ## ................................................................................................................................................
 
-12. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^60]
+12. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^63]
 
 ## AZ EGYSZEMÉLYES VÉGREHAJTÓI IRODA ALAPÍTÓ OKIRAT MINTÁJA
 
@@ -762,7 +762,7 @@ Ellenjegyezte/közokiratba foglalta:[^107.]
 [^70.]: Szervezet esetén kell kitölteni.
 [^71Név:]: Bővíthető.
 [^72.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
-[^60]: A 12. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 7. § j) pontja szerint módosított szöveg.
+[^63]: A 12. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 7. § j) pontja szerint módosított szöveg.
 [^73.]: Az alapító okirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott végrehajtói iroda esetében nem volt szükség.
 [^74.]: Aláhúzással jelölendő.
 [^75:]: Amennyiben a központi ügyintézés helye nem azonos a székhellyel, a központi ügyintézés helyének megjelölése kötelező.

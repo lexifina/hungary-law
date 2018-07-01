@@ -1,4 +1,4 @@
-8. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^56]
+8. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^59]
 
 ## A ZÁRTKÖRŰEN MŰKÖDŐ RÉSZVÉNYTÁRSASÁG ALAPSZABÁLYMINTÁJA
 
@@ -504,7 +504,7 @@ Ellenjegyezte/közokiratba foglalta:[^89.]
 
 ….................................................................................................................................
 
-[^56]: A 8. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés e) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés g) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § e)–g) pontja szerint módosított szöveg.
+[^59]: A 8. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés e) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés g) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § e)–g) pontja szerint módosított szöveg.
 [^1.]: Az alapszabály szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség esetén kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
