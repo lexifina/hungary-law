@@ -1,3 +1,3 @@
-## 59. §[^22]
+## 59. § A 9. § (11) bekezdése helyébe a következő rendelkezés lép:
 
-[^22]: Az 59. § az 56. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+## „(11) Beszedés visszautasítása esetén a fizető fél pénzforgalmi szolgáltatója a fizető fél felé a (7) bekezdésben foglaltaknak legkésőbb a Pft. szerinti utólagos tájékoztatással egyidejűleg tesz eleget.”
