@@ -1,5 +1,3 @@
-## 17. §[^8]
+## 17. § Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet 11. § f) pontjában, 14. § c) pontjában, 17. § s) pontjában, valamint 23. § (1) bekezdés n) és o) pontjában a „jogerős lezárása” szövegrész helyébe a „befejezése” szöveg lép.
 
 ## 9. Az egyes büntetőeljárási cselekményekre és a büntetőeljárásban részt vevő személyekre vonatkozó szabályokról szóló 12/2018. (VI. 12.) IM rendelet eltérő szöveggel történő hatályba léptetése
-
-[^8]: A 17. § a 19. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
