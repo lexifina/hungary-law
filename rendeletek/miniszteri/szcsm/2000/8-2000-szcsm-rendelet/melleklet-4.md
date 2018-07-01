@@ -34,6 +34,6 @@
 
 |  |  | ..................................................................... a bejelentésre kötelezett aláírása |
 
-4. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^20]
+4. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^21]
 
-[^20]: A 4. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 22. § (8) bekezdésével megállapított szöveg.
+[^21]: A 4. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 22. § (8) bekezdésével megállapított, a 7/2018. (II. 5.) EMMI rendelet 21. §-a szerint módosított szöveg.

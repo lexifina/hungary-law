@@ -18,7 +18,7 @@
 
 ## 1. A személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló 9/2000. (VIII. 4.) SZCSM rendelet alapján a szociális és gyermekvédelmi területen minősített továbbképzések:
 
-|  | A továbbképzés engedélyszáma | A továbbképzés megnevezése, címe | A továbbképzést szervező intézmény neve, címe | A továbbképzési pont megszerzésének időpontja | Megszerzett pontérték |
+|  | A továbbképzés engedélyszáma | A továbbképzés megnevezése, címe | A továbbképzés formája (kötelező, munkakörhöz kötött, választható) | A továbbképzést szervező megnevezése/neve, címe | A továbbképzési pontérték megszerzésének időpontja | Megszerzett pontérték |
 
 ## (A továbbképzési kötelezettség teljesítését igazoló dokumentumok másolatát kérjük csatolni!)
 
@@ -66,6 +66,6 @@
 
 ## a bejelentésre kötelezett aláírása
 
-5. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^21]
+5. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^22]
 
-[^21]: Az 5. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 22. § (9) bekezdésével megállapított szöveg.
+[^22]: Az 5. számú melléklet a 25/2017. (X. 18.) EMMI rendelet 22. § (9) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-7. §[^13] (1) A nyilvántartó az 5. számú melléklet szerint igazolást állít ki
+7. §[^14] (1) A nyilvántartó az 5. számú melléklet szerint igazolást állít ki
 
 a) a működési nyilvántartásba vételről,
 
@@ -30,4 +30,4 @@ b) – ha a személyes gondoskodást végző személyek továbbképzéséről sz
 
 (6) Ha a munkavállaló nem tett eleget a továbbképzési kötelezettségének, a nyilvántartó erről értesíti a munkáltatót.
 
-[^13]: A 7. § a 25/2017. (X. 18.) EMMI rendelet 22. § (4) bekezdésével megállapított szöveg.
+[^14]: A 7. § a 25/2017. (X. 18.) EMMI rendelet 22. § (4) bekezdésével megállapított szöveg.

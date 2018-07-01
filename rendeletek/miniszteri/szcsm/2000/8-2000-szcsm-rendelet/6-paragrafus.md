@@ -2,7 +2,7 @@
 
 6. §[^12] (1) A munkáltató
 
-a) a továbbképzésre kötelezett munkavállaló továbbképzési kötelezettségének teljesítését a tárgyévet követő év február 28-áig,
+a)[^13] a továbbképzésre kötelezett munkavállaló kötelező, munkakörhöz kötött és választható továbbképzési kötelezettségének teljesítését a tárgyévet követő év február 28-áig,
 
 b) a vezetőképzésre kötelezett munkavállaló vezetőképzési kötelezettségének teljesítését az arról szóló tanúsítvány bemutatását követő harminc napon belül
 
@@ -15,3 +15,4 @@ jelenti a nyilvántartónak a 4. számú melléklet szerinti adatlapon.
 (4) Az önbejelentésre kötelezett továbbképzési és vezetőképzési kötelezettségének bejelentésére az (1)–(3) bekezdésben foglaltak megfelelően irányadóak.
 
 [^12]: A 6. § a 25/2017. (X. 18.) EMMI rendelet 22. § (3) bekezdésével megállapított szöveg.
+[^13]: A 6. § (1) bekezdés a) pontja a 7/2018. (II. 5.) EMMI rendelet 20. §-ával megállapított szöveg.
