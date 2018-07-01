@@ -4,9 +4,9 @@
 
 (2) A döntést az ügyfél terhére a bűncselekmény büntethetőségének elévüléséig lehet módosítani, ha:
 
-a) a bíróság a büntetőügyben hozott jogerős ítéletével megállapította, hogy az ügyfél az intézkedéssel összefüggésben bűncselekményt követett el,
+a) a bíróság a büntetőügyben hozott jogerős ügydöntő határozatával megállapította, hogy az ügyfél az intézkedéssel összefüggésben bűncselekményt követett el,
 
-b) a mezőgazdasági és vidékfejlesztési támogatási szerv döntést hozó ügyintézője a hivatali kötelességét a büntető törvénybe ütköző módon szegte meg úgy, hogy ez a döntés meghozatalát befolyásolta, és ezt a bíróság büntetőügyben hozott jogerős ítélete megállapította.
+b) a mezőgazdasági és vidékfejlesztési támogatási szerv döntést hozó ügyintézője a hivatali kötelességét a büntető törvénybe ütköző módon szegte meg úgy, hogy ez a döntés meghozatalát befolyásolta, és ezt a bíróság büntetőügyben hozott jogerős ügydöntő határozata megállapította.
 
 (3) A döntés ügyfél terhére történő módosítására, visszavonására vagy a támogatási jogosultság megszüntetésére közvetlenül alkalmazandó közösségi jogi aktus, valamint annak hiányában e törvény elévülésre vonatkozó rendelkezéseiben meghatározott elévülési időn belül van lehetőség, amennyiben az ügyfél az intézkedésben jogosulatlanul vett részt.
 

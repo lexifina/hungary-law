@@ -18,7 +18,7 @@ a) a bíróságot;
 
 b) az ügyészséget;
 
-c) az ügyész által jóváhagyott megkeresésre a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
+c) a nyomozó hatóságot;
 
 d) az illetékes nemzetbiztonsági szerv által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
 
