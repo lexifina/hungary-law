@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-57-00-00
 | 2017-06-13 | 2016. évi CLXI. törvény | 1996-57-00-00.48 |
 | 2017-06-17 | 2017. évi LXXII. törvény | 1996-57-00-00.49 |
 | 2018-01-01 | 2017. évi CXXIX. törvény | 1996-57-00-00.50 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 1996-57-00-00.51 |
