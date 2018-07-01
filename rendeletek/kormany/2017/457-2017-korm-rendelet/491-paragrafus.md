@@ -1,5 +1,5 @@
-## 487–490. §[^243]
+## 487–490. §[^242]
 
 ## 233. Az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezetek tevékenységéről és működésük engedélyezéséről szóló 72/2014. (III. 13.) Korm. rendelet módosítása
 
-[^243]: A 487–490. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^242]: A 487–490. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
