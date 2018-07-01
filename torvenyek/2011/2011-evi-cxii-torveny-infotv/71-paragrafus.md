@@ -18,7 +18,7 @@ c) titokfelügyeleti hatósági eljárásban
 
 szükséges.
 
-(3b) A Hatóság a (3) bekezdésre tekintet nélkül megismerheti az Ajbtv. 23. § (3) bekezdés f) pontjában és (4) bekezdés g) pontjában meghatározott, a titkos információgyűjtésre használt eszközöket és módszereket alkalmazó személyek azonosítását lehetővé tevő adatot, ha az e személyek személyes adatainak védelmével kapcsolatban indult
+(3b) A Hatóság a (3) bekezdésre tekintet nélkül megismerheti az Ajbtv. 23. § (3) bekezdés f) pontjában és (4) bekezdés g) pontjában meghatározott, a titkos információgyűjtés folytatása vagy a leplezett eszközök alkalmazása érdekében használt eszközöket és módszereket alkalmazó személyek azonosítását lehetővé tevő adatot, ha az e személyek személyes adatainak védelmével kapcsolatban indult
 
 a) vizsgálati eljárásban,
 

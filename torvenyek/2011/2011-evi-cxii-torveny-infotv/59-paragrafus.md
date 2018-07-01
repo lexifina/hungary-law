@@ -6,6 +6,6 @@
 
 (3) A Hatóság jelentése nyilvános. A minősített adatot tartalmazó jelentést a Hatóság elnöke minősíti, vagy a minősítési jelölést megismétli. A minősített adatot vagy törvény által védett titkot tartalmazó jelentést úgy kell nyilvánosságra hozni, hogy a minősített adat vagy a törvény által védett egyéb titok ne legyen megismerhető.
 
-(4) A Hatóságnak a titkosszolgálati eszközök és módszerek alkalmazására jogosult szervek e tevékenységével kapcsolatos vizsgálatáról készült jelentése nem tartalmazhat olyan adatot, amelyből a szerv adott ügyben folytatott titkos információgyűjtő tevékenységére lehetne következtetni.
+(4) A Hatóságnak a titkos információgyűjtés folytatására vagy a leplezett eszközök alkalmazására feljogosított szervek e tevékenységével kapcsolatos vizsgálatáról készült jelentése nem tartalmazhat olyan adatot, amelyből az adott ügyben folytatott titkos információgyűjtésre vagy a leplezett eszközök alkalmazására lehetne következtetni.
 
 (5) A Hatóság jelentése bíróság vagy más hatóság előtt nem támadható meg.
