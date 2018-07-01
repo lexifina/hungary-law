@@ -1,8 +1,8 @@
-## 3. A kormányzati kommunikációs feladatok koordinálását biztosító eljárás
+## 3. [^18] A kommunikációs beszerzéssel, a rendezvényszervezéssel és szponzorációval összefüggő feladatok koordinálását biztosító eljárás
 
-5. §[^14] (1) A kormányzati kommunikációs feladatok ellátását biztosító kommunikációs szolgáltatások beszerzése során e rendelet előírásai szerint köteles eljárni
+5. §[^19] (1)[^20] A kommunikációs beszerzések, a rendezvényszervezéssel vagy szponzorációval összefüggő feladatok beszerzése során e rendelet előírásai szerint köteles eljárni
 
-a)[^15] a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, a Miniszterelnöki Kormányiroda,
+a)[^21] a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, a Miniszterelnöki Kormányiroda,
 
 b) az a) pontban szabályozott költségvetési szerv irányítása vagy felügyelete alá tartozó központi, területi és helyi költségvetési szerv vagy intézmény,
 
@@ -16,5 +16,7 @@ f) az a)–e) pontokba nem tartozó olyan szervezet, amely a csatlakozást önk�
 
 (2) A központosított közbeszerzési rendszerbe való önkéntes csatlakozásra a Hivatal engedélyével akkor van lehetőség, ha az nem veszélyezteti az (1) bekezdés a)–e) pontjai alapján központosított közbeszerzésre kötelezett szervezetek folyamatos ellátását. Ennek érdekében a Hivatal az (1) bekezdés f) pontja szerinti szervezet központosított közbeszerzési rendszerbe való belépését megtagadhatja vagy feltételhez kötheti.
 
-[^14]: Az 5. § a 48/2017. (III. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^15]: Az 5. § (1) bekezdés a) pontja a 101/2018. (VI. 11.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^18]: A 3. alcím címe a 99/2018. (VI. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^19]: Az 5. § a 48/2017. (III. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^20]: Az 5. § (1) bekezdés nyitó szövegrésze a 99/2018. (VI. 8.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^21]: Az 5. § (1) bekezdés a) pontja a 101/2018. (VI. 11.) Korm. rendelet 27. §-a szerint módosított szöveg.

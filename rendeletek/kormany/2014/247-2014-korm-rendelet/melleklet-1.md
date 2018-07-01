@@ -1,6 +1,6 @@
-1. melléklet a 247/2014. (X. 1.) Korm. rendelethez[^42]
+1. melléklet a 247/2014. (X. 1.) Korm. rendelethez[^53]
 
-Kormányzati kommunikációs feladatokhoz tartozó szolgáltatások
+Kormányzati kommunikációs feladatok
 
 |  | A | B |
 
@@ -20,8 +20,8 @@ Kormányzati kommunikációs feladatokhoz tartozó szolgáltatások
 
 | 8 | Médiatervezés és vásárlás | Teljes körű médiatervezés és vásárlás |
 
-| 9. | Szponzoráció | Olyan eseti vagy rendszeres – pénzbeli vagy új eszköz, termék útján nyújtott nem pénzbeli – hozzájárulás valamely rendezvényhez, tevékenységhez, illetve személy számára, amelyet az érintett szervezet kommunikációs célból, piaci helyzetének javítása, vagy társadalmi szerepvállalás érdekében nyújt. |
+| 9. |  |  |
 
-| 10. | Rendezvényszervezés | Kizárólag az integrált kommunikációs kampányok keretében, az 1–9. pontokban foglalt feladatokkal együttesen megvalósuló, előre meghatározott célból (társadalmi, tudományos, szakmai, kulturális, sport stb.) adott helyen és időben tartott összejövetellel kapcsolatos teljes körű előkészítő, szervező, összehangoló munka. Magában foglalja az esemény megvalósításával kapcsolatos infrastruktúra (helyszín, technika, tolmácsolás stb.), valamint a catering biztosítását. |
+| 10. |  |  |
 
-[^42]: Az 1. melléklet a 475/2015. (XII. 29.) Korm. rendelet 21. §-a, a 189/2016. (VII. 13.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^53]: Az 1. melléklet a 475/2015. (XII. 29.) Korm. rendelet 21. §-a, a 189/2016. (VII. 13.) Korm. rendelet 11. §-a, a 99/2018. (VI. 8.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.
