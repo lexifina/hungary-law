@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-165-00-00
 | 2014-05-06 | 2014. évi XIV. törvény | 2011-165-00-00.8 |
 | 2015-06-21 | 2015. évi LVIII. törvény | 2011-165-00-00.9 |
 | 2017-05-05 | 2017. évi XXXIII. törvény | 2011-165-00-00.10 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2011-165-00-00.11 |
