@@ -1,3 +1,5 @@
 ## 112. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-311. §
+311. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 63/J. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Ha az etikai vétségnek is minősülő ügyben büntető- vagy szabálysértési eljárás indult, szabálysértési eljárásban az eljárás jogerős befejezésétől, illetve büntetőeljárásban a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától számított három hónapon belül az etikai eljárás akkor is megindítható, ha a (4) bekezdésben meghatározott határidő eltelt. A három hónapos határidőt a Területi Etikai Bizottságnak szabálysértési eljárásban a jogerős határozatról, illetve büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatáról, vagy az ügyészségnek, illetve a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható határozatáról való tudomásszerzésétől kell számítani.”

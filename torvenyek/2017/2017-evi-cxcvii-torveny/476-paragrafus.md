@@ -1,3 +1,3 @@
 ## 144. A termőföld tulajdonjogának megszerzését vagy használatát korlátozó jogszabályi rendelkezések kijátszására irányuló jogügyletek feltárásáról és megakadályozásáról szóló 2014. évi VII. törvény módosítása
 
-476. §
+476. § A termőföld tulajdonjogának megszerzését vagy használatát korlátozó jogszabályi rendelkezések kijátszására irányuló jogügyletek feltárásáról és megakadályozásáról szóló 2014. évi VII. törvény 4. § (6) bekezdésében az „iratokat a büntetőeljárásról szóló 1998. évi XIX. törvény 71/B. § (1) bekezdése alapján az ott megjelölt szervek az ügyész megkeresésére szolgáltatják” szövegrész helyébe az „ügyiratok megismerését a büntetőeljárásról szóló 2017. évi XC. törvény 101. § (1) bekezdése alapján az ott megjelölt szervek az ügyész számára biztosítják” szöveg lép.

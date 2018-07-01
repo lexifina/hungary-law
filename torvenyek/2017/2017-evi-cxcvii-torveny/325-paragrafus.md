@@ -1,3 +1,3 @@
 ## 120. A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény módosítása
 
-325. §
+325. § Hatályát veszti a közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény 19/D. §-ában és 19/M. §-ában az „elkövetésének megalapozott gyanúja” szövegrész.

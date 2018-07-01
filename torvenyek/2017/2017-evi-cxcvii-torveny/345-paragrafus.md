@@ -1,3 +1,9 @@
 ## 125. A Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény módosítása
 
-345. §
+345. § (1) A Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény (a továbbiakban: MÁOK tv.) 27. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha az etikai vétségnek is minősülő ügyben az etikai eljárás megindítása előtt büntető- vagy szabálysértési eljárás indult, a kilencvennapos határidő a szabálysértési eljárásban hozott jogerős határozat, illetve a büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának a területi szervezettel történt közlésétől, a hároméves határidő pedig a szabálysértési eljárás jogerős befejezésétől, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától számít.”
+
+(2) A MÁOK tv. 27. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha az etikai vétségnek is minősülő ügyben etikai eljárás folyik, és eközben büntető- vagy szabálysértési eljárás indul, az etikai eljárást a szabálysértési eljárásban hozott jogerős határozat, illetve a büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészségnek, illetve a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható határozatának területi szervezettel történő közléséig fel kell függeszteni.”

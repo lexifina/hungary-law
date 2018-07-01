@@ -1,3 +1,3 @@
 ## 147. A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény módosítása
 
-480–481. §
+480. § A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény (a továbbiakban: Szan. tv.) 115. § (5) bekezdés b) pont ba) alpontjában a „szemben a folyamatban lévő büntetőeljárás, valamint a feljelentés kiegészítése keretében” szövegrész helyébe az „és banktitok, értékpapírtitok, fizetési titok esetén az előkészítő eljárást folytató szervvel szemben” szöveg lép.
