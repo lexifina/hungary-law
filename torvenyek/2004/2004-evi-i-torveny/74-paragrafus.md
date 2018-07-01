@@ -8,6 +8,6 @@
 
 (4) Amennyiben a rendőrség a kamerák által rögzített valamely adatot igényli, ennek a szervező haladéktalanul köteles eleget tenni.
 
-(5) Az (1) bekezdés szerint rögzített felvételekből a jogszabályban meghatározott nemzetbiztonsági, bűnüldözési, szabálysértési, illetve igazságszolgáltatási feladatai ellátása céljából a nemzetbiztonsági szolgálat, a rendőrség, a szabálysértési hatóság, az ügyészség és a bíróság, valamint az érintett személy igényelhet adatot.
+(5) Az (1) bekezdés szerint rögzített felvételekből a jogszabályban meghatározott nemzetbiztonsági, bűnüldözési, szabálysértési, illetve igazságszolgáltatási feladatai ellátása céljából a nemzetbiztonsági szolgálat, a rendőrség, a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóság, valamint az érintett személy igényelhet adatot.
 
 (6) A kamerával felvett adatokat a sportrendezvény területén erre a célra létesített helyiségben a szervező, a rendező, illetve a rendező szerv képviselője egyidejűleg és folyamatosan figyelemmel kíséri. A rendőrség, illetve a nemzetbiztonsági szolgálat e feladattal megbízott képviselője ennek során jelen lehet. Amennyiben a rendőrség, illetve a nemzetbiztonsági szolgálat igényli, a szervező, a rendező, valamint a rendező szerv képviselője a sportrendezvény ideje alatt köteles biztosítani a hozzáférést a kamerával történő megfigyeléshez.

@@ -20,7 +20,7 @@ b) a járadékra jogosult
 
 azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
-(7) A sportpolitikáért felelős miniszter törli a járadékra jogosultnak az 59. § (10) bekezdése alapján megismert személyes adatait, ha a büntetőeljárásban a jogosulttal szemben a nyomozást megszüntették, vagy a büntetőeljárást jogerősen befejezték, és a jogosult nem vált érdemtelenné. A járadék továbbfolyósításáról szóló döntésben a felfüggesztésre okot adó körülmény megszűnését kell feltüntetni.
+(7) A sportpolitikáért felelős miniszter törli a járadékra jogosultnak az 59. § (10) bekezdése alapján megismert személyes adatait, ha a jogosulttal szemben folytatott büntetőeljárást a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével befejezte, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatot hozott, és a jogosult nem vált érdemtelenné. A járadék továbbfolyósításáról szóló döntésben a felfüggesztésre okot adó körülmény megszűnését kell feltüntetni.
 
 (8) A sportpolitikáért felelős miniszter a jogosulttal szemben az 59. § (7), (8) és (10) bekezdése szerinti bejelentési kötelezettség elmulasztása miatt eljárási bírságot szabhat ki.
 

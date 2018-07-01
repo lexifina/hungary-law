@@ -22,4 +22,4 @@ b) a szervező által megbízott, sportesemény-szervező tevékenységet folyta
 
 (4) Az (1) és (2) bekezdésben foglaltak alapján kiadott belépőjegy, bérlet, valamint klubkártya, illetve az ezekhez hozzárendelt, a (2) bekezdés a)–d) pontjában meghatározott személyes adat a sportrendezvény helyszínén vagy a sportrendezvény helyszínének megközelítése, illetve az onnan való távozás során elkövetett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás, továbbá a sportrendezvényen történő részvételből való kizárás céljából használható fel.
 
-(5) A (2) bekezdésben meghatározott határidőn belül a (4) bekezdés szerinti személyes adatot megkeresésre a nyomozó hatóság, az ügyészség, illetve a bíróság részére büntető- vagy szabálysértési eljárásban bizonyítási eszközként való felhasználás céljából továbbítani lehet.
+(5) A (2) bekezdésben meghatározott határidőn belül a (4) bekezdés szerinti személyes adatot megkeresésre vagy adatkérésre a bíróság, az ügyészség, a nyomozó hatóság vagy a szabálysértési hatóság részére büntető- vagy szabálysértési eljárásban bizonyítási eszközként való felhasználás céljából továbbítani lehet.
