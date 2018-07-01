@@ -43,9 +43,3 @@ E törvény
 20. a polgári és kereskedelmi ügyekben az Európai Igazságügyi Hálózat létrehozásáról szóló, 2001/470/EK tanácsi határozat módosításáról szóló, 2009. június 18-i 568/2009/EK európai parlamenti és tanács határozatnak,
 
 21. a fizetésképtelenségi eljárásról szóló, 2000. május 29-i 1346/2000/EK tanácsi rendeletnek,
-
-22. a polgári és kereskedelmi ügyekben a bizonyítás-felvétel tekintetében történő, a tagállamok bíróságai között együttműködéséről szóló, 2001. május 28-i 1206/2001/EK tanácsi rendeletnek,
-
-23. a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendeletnek,
-
-24. a nem vitatott követelésekre vonatkozó európai végrehajtó okirat létrehozásáról szóló, 2004. április 21-i 805/2004/EK európai parlamenti és tanács rendeletnek,
