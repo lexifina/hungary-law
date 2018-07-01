@@ -34,7 +34,7 @@ e) a fegyelmi eljárást lefolytató testület vagy személy,
 
 f) közszolgálati jogvita kapcsán az eljáró bíróság,
 
-g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a nyomozó hatóság, az ügyész és a bíróság,
+g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
 
 h) az ügyészi törvényességi feladatkörében eljárva az ügyész.
 
