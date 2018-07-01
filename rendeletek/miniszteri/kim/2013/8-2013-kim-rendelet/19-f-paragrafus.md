@@ -1,6 +1,6 @@
 ## 8/B. A megelőző pártfogás végrehajtásának előkészítése
 
-19/F. § (1) A megelőző pártfogó felügyelő a gyámhatóság megelőző pártfogást elrendelő határozatának kézhezvétele után haladéktalanul
+19/F. § (1)[^61] A megelőző pártfogó felügyelő a gyámhatóság megelőző pártfogást elrendelő határozatának véglegessé válásáról szóló értesítés kézhezvétele után haladéktalanul
 
 a) értesíti a megelőző pártfogás alá helyezett gyermekkorút vagy fiatalkorút és szülőjét vagy más törvényes képviselőjét
 
@@ -12,7 +12,7 @@ ac) a megelőző pártfogó felügyelő személyéről és elérhetőségéről,
 
 b) felhívja a megelőző pártfogás alá helyezett gyermekkorút vagy fiatalkorút, illetve szülőjét vagy más törvényes képviselőjét, hogy a megjelölt időpontban és helyen keresse fel.
 
-(2)[^34] Az (1) bekezdés b) pontjában megjelölt időpontot legkésőbb a határozat kormányhivatalhoz történő érkeztetésétől számított tizenötödik napra kell kitűzni.
+(2)[^62] Az (1) bekezdés b) pontjában megjelölt időpontot legkésőbb a határozat véglegessé válásáról szóló értesítés kormányhivatalhoz történő érkeztetésétől számított tizenötödik napra kell kitűzni.
 
 (3) Az egyéni meghallgatáson a megelőző pártfogó felügyelő a megelőző pártfogás alá helyezett gyermekkorút vagy fiatalkorút, illetve szülőjét vagy más törvényes képviselőjét tájékoztatja
 
@@ -24,4 +24,5 @@ c) a megállapított magatartási szabályok megszegésének következményeirő
 
 d) a kapcsolattartás gyakoriságáról és módjáról.
 
-[^34]: A 19/F. § (2) bekezdése a 8/2015. (IV. 14.) IM rendelet 20. § g) pontja szerint módosított szöveg.
+[^61]: A 19/F. § (1) bekezdés nyitó szövegrésze a 17/2018. (VI. 27.) IM rendelet 78. § 17. pontja szerint módosított szöveg.
+[^62]: A 19/F. § (2) bekezdése a 8/2015. (IV. 14.) IM rendelet 20. § g) pontja, a 17/2018. (VI. 27.) IM rendelet 78. § 18. pontja szerint módosított szöveg.

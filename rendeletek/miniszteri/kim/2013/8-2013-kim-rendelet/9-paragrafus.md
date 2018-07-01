@@ -1,35 +1,17 @@
-9. § (1) A pártfogó felügyelői vélemény III. része a terhelt személyére, viselkedésére, életviszonyaira és életvitelére jellemző szakmai ténymegállapításokat tartalmazza, különösen
+9. §[^18] (1) A pártfogó felügyelői vélemény III. része a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 203. § (1) bekezdésében foglaltakon túl a terhelt személyére, viselkedésére, életviszonyaira és életvitelére jellemző szakmai ténymegállapításokat tartalmazza, különösen
 
-a) családi körülményei,
+a) a baráti és kisközösségi kapcsolatai,
 
-b) baráti és kisközösségi kapcsolatai,
+b) a munkaviszony vagy az iskolarendszerű tanulói jogviszony adatai, iskolai végzettsége, szakképzettsége, a tanintézmény megnevezése, címe, illetve munkahelye megnevezése, továbbá a munkáltató, illetve a terhelt tényleges munkavégzésének helye, beosztása, munkaköre, foglalkozása,
 
-c) egészségi állapota,
+c) a szabadidő-eltöltési szokásai,
 
-d) esetleges káros szenvedélyei,
+d) a cselekmény elkövetésekor jellemző és az azóta az a)–c) pont szerinti körülményekben bekövetkezett változások,
 
-e) lakhatási körülményei és lakókörnyezete,
-
-f) iskolai végzettsége, szaktudása,
-
-g) munkahelye, ennek hiányában foglalkoztatása vagy tanulmányai folytatása,
-
-h) szabadidő-eltöltési szokásai,
-
-i) jövedelmi, vagyoni viszonyai,
-
-j) a cselekmény elkövetésekor jellemző és az azóta a)–i) pontban bekövetkezett változások adatai,
-
-k) a korábbi pártfogó felügyelői tapasztalatok
+e) a korábbi pártfogó felügyelői tapasztalatok
 
 ## vonatkozásában.
 
-(2) A szakmai ténymegállapítások körében a pártfogó felügyelő szükség szerint bemutatja különösen
+(2) A szakmai ténymegállapítások körében a pártfogó felügyelő a terhelt személyére és viselkedésére, életviszonyaira és életvitelére vonatkozó tényezőkre tekintettel feltárja a bűnismétlési kockázatokat, valamint a terhelt szükségleteit, és javaslatot tesz a bűnismétlési kockázatok hatását enyhítő beavatkozások alkalmazására. A pártfogó felügyelő a külön magatartási szabályokra és kötelezettségekre, a terhelt adottságainak megfelelő ellátási és intézményi lehetőségek figyelembevételével teszi meg a javaslatát, bemutatva azoknak a bűnismétlési kockázatokat enyhítő hatását.
 
-a) a feltárt tények, körülmények és a bűncselekmény elkövetése között fennálló kapcsolatot,
-
-b) a terhelt adottságainak megfelelő munkalehetőségeket,
-
-c) a terhelt egészségügyi, illetve szociális intézményi ellátásának lehetőségeit,
-
-d) a bűnismétlésre vonatkozó kockázatelemzés vagy kockázatértékelés eredményét, a bűnmegelőzésre vonatkozó javaslatokat.
+[^18]: A 9. § a 17/2018. (VI. 27.) IM rendelet 52. §-ával megállapított szöveg.

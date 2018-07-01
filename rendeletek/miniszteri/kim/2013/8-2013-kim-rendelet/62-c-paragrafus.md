@@ -1,4 +1,4 @@
-62/C. §[^132] (1) A büntetés-végrehajtási pártfogó felügyelő a reintegrációs őrizet végrehajtására az elítélt által megjelölt lakással kapcsolatosan az elektronikus távfelügyeleti eszköz működését biztosító rendszer létesítésének és üzemeltetésének, az elektronikus távfelügyeleti eszköz alkalmazásának, továbbá a büntetés-végrehajtási szervezet, valamint a rendőri szerv ezzel kapcsolatos feladatának részletes szabályairól szóló 10/2015. (III. 30.) BM rendelet 4. §-ában meghatározott, az elektronikus távfelügyeleti eszköz alkalmazhatóságának a feltételeit a helyszínen ellenőrzi.
+62/C. §[^208] (1) A büntetés-végrehajtási pártfogó felügyelő a reintegrációs őrizet végrehajtására az elítélt által megjelölt lakással kapcsolatosan az elektronikus távfelügyeleti eszköz működését biztosító rendszer létesítésének és üzemeltetésének, az elektronikus távfelügyeleti eszköz alkalmazásának, továbbá a büntetés-végrehajtási szervezet, valamint a rendőri szerv ezzel kapcsolatos feladatának részletes szabályairól szóló 10/2015. (III. 30.) BM rendelet 4. §-ában meghatározott, az elektronikus távfelügyeleti eszköz alkalmazhatóságának a feltételeit a helyszínen ellenőrzi.
 
 (2) Az elektronikus távfelügyeleti eszköz alkalmazhatóságának az (1) bekezdés szerinti felmérését a bv. intézet vezetője által kijelölt büntetés-végrehajtási pártfogó felügyelő végzi. A felmérés időpontját a büntetés-végrehajtási pártfogó felügyelő az elítélt által megjelölt személlyel vagy a befogadó nyilatkozatot tevővel előzetesen egyezteti. Szükség esetén a büntetés-végrehajtási pártfogó felügyelő a folyamatos áramellátás meglétének a vizsgálata körében az előbb felsorolt személyektől kérheti a legutolsó fogyasztói számlakivonat bemutatását. A felmérés eredményéről jegyzőkönyvet kell felvenni. Ha a felmérés elvégzése akadályba ütközött, ennek tényét és körülményeit kell a jegyzőkönyvbe foglalni.
 
@@ -54,7 +54,7 @@ k) az elítélt visszailleszkedését célzó segítségnyújtási-támogatási 
 
 (7) Ha a reintegrációs őrizet elrendelését az elítélt vagy védője kezdeményezte, a büntetés-végrehajtási pártfogó felügyelőnek a környezettanulmány elkészítésekor azt is vizsgálnia kell, hogy a kérelemben foglaltak megfelelnek-e a valóságnak.
 
-(8)[^133] A reintegrációs őrizet hatálya alatt álló elítélt magatartását, valamint a társadalmi reintegrációs folyamat előrehaladását a szabadon bocsátó bv. intézet büntetés-végrehajtási pártfogó felügyelője legalább havonta ellenőrzi és értékeli. Az ellenőrzésről a büntetés-végrehajtási pártfogó felügyelő jelentést készít.
+(8)[^209] A reintegrációs őrizet hatálya alatt álló elítélt magatartását, valamint a társadalmi reintegrációs folyamat előrehaladását a szabadon bocsátó bv. intézet büntetés-végrehajtási pártfogó felügyelője legalább havonta ellenőrzi és értékeli. Az ellenőrzésről a büntetés-végrehajtási pártfogó felügyelő jelentést készít.
 
 (9) A büntetés-végrehajtási pártfogó felügyelő ellenőrzési feladata körében
 
@@ -90,5 +90,5 @@ b) amelyben javaslatot tehet az elítélttel szemben külön magatartási szabá
 
 bemutatja, hogy az elítélt a kilátásba helyezett külön magatartási szabályok teljesítését vállalja-e és képes-e teljesíteni.
 
-[^132]: A 62/C. § a 6/2015. (III. 30.) IM rendelet 3. §-ával megállapított szöveg.
-[^133]: A 62/C. § (8) bekezdése a 24/2016. (XII. 23.) IM rendelet 2. §-ával megállapított szöveg.
+[^208]: A 62/C. § a 6/2015. (III. 30.) IM rendelet 3. §-ával megállapított szöveg.
+[^209]: A 62/C. § (8) bekezdése a 24/2016. (XII. 23.) IM rendelet 2. §-ával megállapított szöveg.

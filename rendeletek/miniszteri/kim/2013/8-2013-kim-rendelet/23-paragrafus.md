@@ -1,23 +1,22 @@
-23. § (1)[^48] Közvetítői eljárás során felmerült költség a közvetítői eljárás megindításától annak befejezéséig a felek érdekkörében felmerült, igazolt, a tevékeny megbánást megalapozó megegyezés létrejöttéhez szükséges költség, így különösen:
+23. §[^82] (1) Közvetítői eljárás során felmerült költség a közvetítői eljárás megindításától annak befejezéséig a felek érdekkörében felmerült, igazolt, a tevékeny megbánást megalapozó megegyezés létrejöttéhez szükséges költség, így különösen
 
-a)[^49] a sértettnek, az eljárás alá vont személynek, illetve a terheltnek, ezek törvényes képviselőinek, illetve a Bkt. 7. § (3) bekezdésében meghatározott segítőinek készkiadása,
+a) a sértettnek, az eljárás alá vont személynek, illetve a terheltnek, ezek törvényes képviselőinek költsége,
 
-b) a sértett és a terhelt meghatalmazott jogi képviselőjének készkiadása és díja,
+b) a sértett és a terhelt meghatalmazott jogi képviselőjének költsége és díja,
 
-c) a kirendelt védő készkiadása és díja,
+c) a kirendelt védő költsége és díja,
 
-d) a tolmács költségtérítése és díja.
+d) a tolmács költsége és díja
 
-(2)[^50] Azokat a költségeket és díjakat, amelyeket a Bkt. 17. § (2) bekezdése, illetve a Szabs. tv. 82/K. § (2) bekezdése alapján az állam visel, a minisztérium fizeti meg.
+## abban az esetben is, ha azt nem az állam előlegezi.
 
-(3)[^51] A közvetítői eljárás során felmerült azon költségekről, amelyeket a minisztérium fizet meg vagy előlegez, a közvetítő tételes költségjegyzéket vezet. A további költségeket a közvetítő feljegyzésben rögzíti. A közvetítő úti- és szállásköltségének megállapításánál a pártfogó ügyvéd, az ügygondnok és a kirendelt védő részére megállapítható díjról és költségekről szóló rendelet (a továbbiakban: R.) foglalt rendelkezéseket kell megfelelően alkalmazni.
+(2) A minisztérium előlegezi a Bkt. 17. § (2) bekezdésében meghatározott költségeket.
 
-(4) Az R. rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a kirendelt védőnek a közvetítői eljárás során felmerült készkiadásait az ügyvéd által benyújtott tételes kimutatás alapján a közvetítő állapítja meg.
+(3) A közvetítői eljárás során felmerült költségekről a közvetítő tételes költségjegyzéket vezet. A közvetítő úti- és szállásköltségének megállapításánál a pártfogó ügyvéd, az ügygondnok és a kirendelt védő részére megállapítható díjról és költségekről szóló rendelet (a továbbiakban: R.) foglalt rendelkezéseket kell megfelelően alkalmazni.
 
-(5)[^52] A közvetítői eljárás során felmerült, a minisztérium által fizetett vagy előlegezett költségeket a közvetítői eljárás befejezésekor a közvetítő a költségjegyzék lezárásával és összegzésével állapítja meg.
+(4)[^83] A kirendelt védő költségének, illetve díjának számítása tekintetében az R., a közvetítői eljárásban részt vevő más személy költségének, illetve díjának tekintetében a terhelt és a meghatalmazott védő, valamint a büntetőeljárásban részt vevő egyéb személyek díjáról és költségéről szóló rendelet rendelkezéseit kell megfelelően alkalmazni. A kirendelt védő, illetve a közvetítői eljárásban részt vevő más személy költségét és a díját a benyújtott tételes kimutatás alapján a közvetítő állapítja meg.
 
-[^48]: A 23. § (1) bekezdése a 19/2014. (XII. 22.) IM rendelet 37. § c) pontja szerint módosított szöveg.
-[^49]: A 23. § (1) bekezdés a) pontja a 19/2014. (XII. 22.) IM rendelet 34. § 8. pontja szerint módosított szöveg.
-[^50]: A 23. § (2) bekezdése a 19/2014. (XII. 22.) IM rendelet 17. §-ával megállapított, a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés i) pontja szerint módosított szöveg.
-[^51]: A 23. § (3) bekezdése a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés i) pontja, a 20/2017. (XII. 21.) IM rendelet 39. §-a szerint módosított szöveg.
-[^52]: A 23. § (5) bekezdése a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés i) pontja szerint módosított szöveg.
+(5) A közvetítői eljárás során felmerült, az állam által viselt költségeket a közvetítői eljárás befejezésekor a közvetítő a költségjegyzék lezárásával és összegzésével állapítja meg. A Bkt. 18. §-a alapján a közvetítő azokat a költségeket állapítja meg, amelyeket nem az előlegező személy köteles viselni, és erről értesíti a költség viselésére kötelezettet. A közvetítő az értesítésben felszólítja a költség viselésére kötelezettet, hogy harminc napon belül térítse meg a más által előlegezett költségeket.
+
+[^82]: A 23. § a 17/2018. (VI. 27.) IM rendelet 61. §-ával megállapított szöveg.
+[^83]: [A 17/2018. (VI. 27.) IM rendelet 78. § 22. pontjával elrendelt módosítás, amely szerint a „készkiadásait” szövegrész helyébe a „költségét” szöveg lép, nem vezethető át.]

@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-8-20-2T
 | 2015-04-15 | 2013-8-20-2T.6 | 8/2015. (IV. 14.) IM rendelet |
 | 2017-01-01 | 2013-8-20-2T.7 | 26/2016. (XII. 27.) IM rendelet |
 | 2018-01-01 | 2013-8-20-2T.8 | 22/2017. (XII. 22.) IM rendelet |
+| 2018-07-01 | 2013-8-20-2T.9 | 17/2018. (VI. 27.) IM rendelet |

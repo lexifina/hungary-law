@@ -2,7 +2,7 @@
 
 ## 17. A közérdekű munka átváltoztatása szabadságvesztésre
 
-## 36. § A pártfogó felügyelő összefoglaló jelentést tesz az ügyésznek a közérdekű munka vagy annak hátralévő része szabadságvesztésre történő átváltoztatásának indítványozására, ha
+## 36. §[^134] A pártfogó felügyelő összefoglaló jelentést tesz az ügyészségnek a közérdekű munka vagy annak hátralévő része szabadságvesztésre történő átváltoztatásának indítványozására, ha
 
 a) az elítélt a számára meghatározott munka elvégzését megtagadja,
 
@@ -20,4 +20,7 @@ eb) a munkavégzési kötelezettségének az arra való felhívás ellenére nem
 
 ec) a munkafegyelmet súlyosan sértő magatartást tanúsított,
 
-ed) a kijelölő határozat jogerőre emelkedésétől számított két éven belül a közérdekű munkát az elítélt hibájából nem lehetett végrehajtani.
+ed)[^135] az első munkahely kijelölő határozat jogerőre emelkedésétől számított két éven belül a közérdekű munkát nem lehetett végrehajtani.
+
+[^134]: A 36. § nyitó szövegrésze a 17/2018. (VI. 27.) IM rendelet 78. § 27. pontja szerint módosított szöveg.
+[^135]: A 36. § e) pont ed) alpontja a 17/2018. (VI. 27.) IM rendelet 71. §-ával megállapított szöveg.

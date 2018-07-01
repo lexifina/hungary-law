@@ -6,6 +6,6 @@
 
 (3) A fiatalkorú ügyében a munkahely kijelölésénél a fiatal munkavállalókra vonatkozó munkajogi szabályokra és az elítélt életkori sajátosságaira is figyelemmel kell lenni.
 
-(4)[^87] A meg nem fizetett pénzbüntetés helyébe lépő közérdekű munkát a Bv. tv. 292. § (5)–(6) bekezdésére és 293. §-ára figyelemmel kell szervezni és végrehajtani.
+(4)[^136] A meg nem fizetett pénzbüntetés helyébe lépő közérdekű munkát a Bv. tv. 292. § (5)–(6) bekezdésére és 293. §-ára figyelemmel kell szervezni és végrehajtani.
 
-[^87]: A 37. § (4) bekezdése a 19/2014. (XII. 22.) IM rendelet 34. § 22. pontja szerint módosított szöveg.
+[^136]: A 37. § (4) bekezdése a 19/2014. (XII. 22.) IM rendelet 34. § 22. pontja szerint módosított szöveg.

@@ -2,13 +2,13 @@
 
 | Az elítélt neve: | Születési helye, ideje: |
 
-| Anyja neve: | Lakóhelye: |
+| Anyja neve: | Lakcíme/tényleges tartózkodási helye: |
 
 | A végrehajtásra kijelölt munkahely: Kijelölt új munkahely: | Meghatározott munkakör: Meghatározott új munkakör: |
 
-| -t a Járásbíróság/Törvényszék a 20................... évi ............................................. hó ............. napján kelt B. /20................/............... számú ítéletével, a .................................................................................................. Törvényszék/Ítélőtábla mint másodfokú bíróság, illetve az Ítélőtábla/Kúria a 20........évi ............................................................. hó ......... napján kelt Bf. /20.........../...............számú határozatával ......................................miatt....................óra közérdekű munkára ítélte, melyet .................................................. munkakörben kell eltölteni. Egy napi közérdekű munkának .................. munkavégzés felel meg. A határozat 20.......... évi .................................................. hó ............................... napján jogerőre emelkedett és végrehajtható. |
+| Az elítéltet a .................................................................................................. Járásbíróság/Törvényszék a B. ............................/ 20................/............... számú ügydöntő határozatával, a ....................................................................... Törvényszék/Ítélőtábla másodfokú Bf. ....................../20.........../............... számú határozatával, a .............................................................................. Ítélőtábla/Kúria harmadfokú Bf. ....................../20.........../............... számú határozatával ...................................... miatt ................... óra közérdekű munkára ítélte, illetve .............................................................................. Törvényszék bv. bírája a Bv. .........................../20................/............... számú, pénzbüntetést átváltoztató végzésével .................... óra közérdekű munkát állapított meg, melyet ........................................................... munkakörben kell eltölteni. Egynapi közérdekű munkának 4 óra munkavégzés felel meg, a napi munkaidő legalább 4 óra, legfeljebb 12 óra, pénzbüntetés átváltoztatása esetén legalább 2 óra, legfeljebb 8 óra lehet, a heti munkaidő legalább 4 óra, legfeljebb 48 óra. A munkahelyet/új munkahelyet kijelölő határozat 20.......... év ....................................... hó ............................... napján jogerőre emelkedett. |
 
-| A közérdekű munka megkezdésének ideje: ................... évi ....................................... hó .......... nap | A büntetés befejezésének várható ideje: ................... évi ....................................... hó .......... nap |
+| A közérdekű munka megkezdésének ideje: ................... év ....................................... hó .......... nap | A büntetés befejezésének várható ideje: ................... év ....................................... hó .......... nap |
 
 | A büntetés letöltésének ideje: |
 
@@ -18,88 +18,98 @@
 
 | Megjegyzés: |
 
-4. melléklet a 8/2013. (VI. 29.) KIM rendelethez
+## ”
+
+4. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^228]
 
 A közérdekű munkára ítéltre vonatkozó jelenléti ív
 
-| Sorszám | Dátum | Kezdés – befejezés | Ledolgozott óra | Km-re ítélt aláírása | Elvégzett munka igazolása |
+| ........................................... Megyei/Fővárosi Kormányhivatal .................../Km/20... . szám |
 
-| 1. |  | - |  |  |  |
+| Az elítélt neve: |
 
-| 2. |  | - |  |  |  |
+| A közérdekű munka tartama: ........................................... óra |
 
-| 3. |  | - |  |  |  |
+| Munka-, tűz-, baleset- és környezetvédelmi oktatásban részesültem ........................................... elítélt aláírása |
 
-| 4. |  | - |  |  |  |
+| Sorszám | Dátum | Kezdés – befejezés | Ledolgozott óra | Elítélt aláírása | Elvégzett munkát igazoló neve és aláírása |
 
-| 5. |  | - |  |  |  |
+| 1. |  | – |  |  |  |
 
-| 6. |  | - |  |  |  |
+| 2. |  | – |  |  |  |
 
-| 7. |  | - |  |  |  |
+| 3. |  | – |  |  |  |
 
-| 8. |  | - |  |  |  |
+| 4. |  | – |  |  |  |
 
-| 9. |  | - |  |  |  |
+| 5. |  | – |  |  |  |
 
-| 10. |  | - |  |  |  |
+| 6. |  | – |  |  |  |
 
-| 11. |  | - |  |  |  |
+| 7. |  | – |  |  |  |
 
-| 12. |  | - |  |  |  |
+| 8. |  | – |  |  |  |
 
-| 13. |  | - |  |  |  |
+| 9. |  | – |  |  |  |
 
-| 14. |  | - |  |  |  |
+| 10. |  | – |  |  |  |
 
-| 15. |  | - |  |  |  |
+| 11. |  | – |  |  |  |
 
-| 16. |  | - |  |  |  |
+| 12. |  | – |  |  |  |
 
-| 17. |  | - |  |  |  |
+| 13. |  | – |  |  |  |
 
-| 18. |  | - |  |  |  |
+| 14. |  | – |  |  |  |
 
-| 19. |  | - |  |  |  |
+| 15. |  | – |  |  |  |
 
-| 20. |  | - |  |  |  |
+| 16. |  | – |  |  |  |
 
-| 21. |  | - |  |  |  |
+| 17. |  | – |  |  |  |
 
-| 22. |  | - |  |  |  |
+| 18. |  | – |  |  |  |
 
-| 23. |  | - |  |  |  |
+| 19. |  | – |  |  |  |
 
-| 24. |  | - |  |  |  |
+| 20. |  | – |  |  |  |
 
-| 25. |  | - |  |  |  |
+| 21. |  | – |  |  |  |
 
-| 26. |  | - |  |  |  |
+| 22. |  | – |  |  |  |
 
-| 27. |  | - |  |  |  |
+| 23. |  | – |  |  |  |
 
-| 28. |  | - |  |  |  |
+| 24. |  | – |  |  |  |
 
-| 29. |  | - |  |  |  |
+| 25. |  | – |  |  |  |
 
-| 30. |  | - |  |  |  |
+| 26. |  | – |  |  |  |
 
-| 31. |  | - |  |  |  |
+| 27. |  | – |  |  |  |
 
-| 32. |  | - |  |  |  |
+| 28. |  | – |  |  |  |
 
-| 33. |  | - |  |  |  |
+| 29. |  | – |  |  |  |
 
-| 34. |  | - |  |  |  |
+| 30. |  | – |  |  |  |
 
-| 35. |  | - |  |  |  |
+| 31. |  | – |  |  |  |
 
-| Ténylegesen ledolgozott munkanapok (órák) száma: | ……… nap (……. óra) |
+| 32. |  | – |  |  |  |
 
-A jelenléti ívet a mai napon lezártam, és a pártfogó felügyelőnek megküldtem.
+| 33. |  | – |  |  |  |
 
-…………………………………………………..
+| 34. |  | – |  |  |  |
 
-........................................................
+| 35. |  | – |  |  |  |
 
-munkahely cégszerű aláírása
+| Ténylegesen ledolgozott munkanapok/órák száma: | .................... nap/.................... óra |
+
+A jelenléti ívet a mai napon lezártam és a pártfogó felügyelőnek megküldtem.
+
+Kelt: ..........................................................
+
+| .......................................................................................................... munkahelyet biztosító gazdálkodó szervezet cégszerű aláírása/egyéb szervezet képviseletére jogosult aláírása |
+
+[^228]: A 4. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (4) bekezdésével megállapított szöveg.

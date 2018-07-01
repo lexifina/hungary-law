@@ -1,6 +1,6 @@
 ## 4. A közérdekű munkával és a jóvátételi munkával kapcsolatos pártfogó felügyelői vélemény elkészítése
 
-12. § (1) Ha az ügyész a közérdekű munka vagy a jóvátételi munka alkalmazására vonatkozó indítvány megtétele előtt vagy a bíróság a büntetéskiszabás körében az ilyen büntetés vagy intézkedés eredményes alkalmazhatósága kérdésében pártfogó felügyelői vélemény beszerzését rendeli el, a pártfogó felügyelő a szakmai ténymegállapítások körében elsősorban a terhelt munkára való alkalmasságát és személyes adottságait mutatja be, így különösen
+12. § (1)[^27] Ha az ügyészség a közérdekű munka vagy a jóvátételi munka alkalmazására vonatkozó indítvány megtétele előtt vagy a bíróság a büntetéskiszabás körében az ilyen büntetés vagy intézkedés eredményes alkalmazhatósága kérdésében pártfogó felügyelői vélemény beszerzését rendeli el, a pártfogó felügyelő a szakmai ténymegállapítások körében elsősorban a terhelt munkára való alkalmasságát és személyes adottságait mutatja be, így különösen
 
 a) egészségi állapotát,
 
@@ -15,3 +15,5 @@ e) azt, hogy a közérdekű munka vagy a jóvátételi munka teljesítését vá
 f) a terhelt személyes adottságaira és a büntetőeljárás alapjául szolgáló bűncselekmény jellegére figyelemmel a társadalmi jóvátételt is szolgáló munkalehetőségeket.
 
 (2) A pártfogó felügyelői vélemény elkészítése során a közvetlen lakókörnyezet megtekintésétől el lehet tekinteni, de a terhelt meghallgatása nem mellőzhető.
+
+[^27]: A 12. § (1) bekezdés nyitó szövegrésze a 17/2018. (VI. 27.) IM rendelet 78. § 9. pontja szerint módosított szöveg.

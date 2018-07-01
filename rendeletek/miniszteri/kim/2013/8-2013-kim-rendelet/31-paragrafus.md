@@ -8,14 +8,26 @@ b) a kijelölt munkahely megnevezését,
 
 c) az ügy számát, az összesen ledolgozandó órák számát.
 
-(3) A jelenléti ív tartalmazza:
+(3)[^119] A jelenléti ív tartalmazza
 
-a) a munkanapok időpontját, az adott munkanapon ledolgozott órák számát,
+a) az elítélt nevét,
 
-b) az elítélt és a munkahely képviselőjének, csoportos letöltés esetén a pártfogó felügyelői asszisztens, munkafelügyelő megnevezését, aláírását.
+b) közérdekű munka végrehajtási ügyszámát,
+
+c) a letöltendő büntetés tartamát,
+
+d) a munkanapok időpontját, az adott munkanapon ledolgozott órák számát,
+
+e) az elítélt aláírását és
+
+f) a munkahely képviselőjének, csoportos letöltés esetén a pártfogó felügyelői asszisztens, munkafelügyelő megnevezését és aláírását.
 
 (4) A jelenléti ívet folyamatosan kell vezetni.
 
-(5)[^76] A munkahely a Bv. tv. 287. § (4) bekezdés h) pontja szerinti esetekben a nyilvántartó lapot és a jelenléti ívet a letöltött munkaórák összegzését követően cégszerű aláírásával lezárja, és a pártfogó felügyelőnek megküldi.
+(4a)[^120] A munkahely a munka-, tűz-, baleset- és környezetvédelmi oktatás megtörténtét a jelenléti íven vagy külön okiratban – amely az elítélt aláírását is tartalmazza – igazolja a pártfogó felügyelő felé.
 
-[^76]: A 31. § (5) bekezdése a 19/2014. (XII. 22.) IM rendelet 34. § 16. pontja szerint módosított szöveg.
+(5)[^121] A munkahely a Bv. tv. 287. § (4) bekezdés h) pont hb) és hc) alpontja szerinti esetben, ha erre a pártfogó felügyelő felhívja, továbbá a Bv. tv. 287. § (4) bekezdés h) pont he) alpontja szerinti esetben a nyilvántartó lapot és a jelenléti ívet a letöltött munkaórák összegzését követően cégszerű aláírásával lezárja, és a pártfogó felügyelőnek megküldi.
+
+[^119]: A 31. § (3) bekezdése a 17/2018. (VI. 27.) IM rendelet 69. § (1) bekezdésével megállapított szöveg.
+[^120]: A 31. § (4a) bekezdését a 17/2018. (VI. 27.) IM rendelet 69. § (2) bekezdése iktatta be.
+[^121]: A 31. § (5) bekezdése a 17/2018. (VI. 27.) IM rendelet 69. § (3) bekezdésével megállapított szöveg.
