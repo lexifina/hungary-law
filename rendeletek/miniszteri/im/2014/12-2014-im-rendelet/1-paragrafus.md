@@ -10,7 +10,7 @@ c) közérdekű munka helyébe lépő szabadságvesztést töltő,
 
 d) pénzbüntetés helyébe lépő szabadságvesztést töltő,
 
-e) előzetesen letartóztatott,
+e)[^1] letartóztatott,
 
 f) a rendbírság helyébe lépő elzárást töltő és
 
@@ -25,3 +25,5 @@ a) a bv. szerv határozatának a meghozatala előtt szabadul, vagy
 b) elhalálozott.
 
 (3) E rendelet alkalmazásában a munka törvénykönyvéről szóló törvényben használt munkabér kifejezés alatt a fogvatartott munkadíját, munkaviszony alatt a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 3. § 13. pontjában meghatározott munkáltatást kell érteni.
+
+[^1]: Az 1. § (1) bekezdés e) pontja a 14/2018. (VI. 15.) IM rendelet 7. § a) pontja szerint módosított szöveg.

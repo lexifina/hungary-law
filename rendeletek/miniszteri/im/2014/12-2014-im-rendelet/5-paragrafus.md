@@ -16,6 +16,8 @@ e) aki az eljárásban, mint tanú vesz vagy vett részt,
 
 f) aki az eljárásban, mint szakértő jár vagy járt el,
 
-g) akitől ügy elfogulatlan megítélése egyéb okból nem várható el.
+g)[^2] akitől az ügy elfogulatlan megítélése egyéb okból nem várható el.
 
 (4) A kártérítési eljárásban nem járhat el az a bv. szerv, amelynek vezetőjével szemben a (3) bekezdés b) és c) pontjában meghatározott kizáró ok áll fen. Ebben az esetben az eljáró bv. szerv kijelöléséről az országos parancsnok dönt, az eljárásra a 2. § (5)–(6) bekezdést alkalmazni kell.
+
+[^2]: Az 5. § (3) bekezdés g) pontja a 14/2018. (VI. 15.) IM rendelet 7. § b) pontja szerint módosított szöveg.
