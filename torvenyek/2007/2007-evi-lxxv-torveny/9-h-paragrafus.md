@@ -2,7 +2,7 @@
 
 a) aki büntetett előéletű,
 
-b) aki büntetlen előéletű, de akinek a büntetőjogi felelősségét a bíróság jogerős ítéletében megállapította,
+b) aki büntetlen előéletű, de akinek a büntetőjogi felelősségét a bíróság jogerős ügydöntő határozatában megállapította,
 
 ba) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig,
 

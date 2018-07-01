@@ -4,4 +4,4 @@
 
 (3) A fegyelmi eljárás alá vont az eljárás során a bizonyítékokat megismerheti, az eljárásra, valamint a bizonyítékokra nyilatkozatot tehet, az eljárási cselekményeken részt vehet, a fegyelmi eljárásban eljáró személyekkel szemben kifogást terjeszthet elő, az eljárás résztvevőihez kérdést intézhet, bizonyítási indítványt terjeszthet elő, az eljárás alatt keletkezett iratokba betekinthet és azokról kérésre – költségtérítéssel – másolatot kaphat.
 
-(4) A büntetőeljárás alatt indult fegyelmi eljárást – az ítélet jogerőre emelkedéséig – a fegyelmi bizottság felfüggesztheti.
+(4) A büntetőeljárás alatt indult fegyelmi eljárást – az ügydöntő határozat jogerőre emelkedéséig – a fegyelmi bizottság felfüggesztheti.
