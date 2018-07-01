@@ -2,7 +2,7 @@
 
 a) megtiltja a tevékenység végzését,
 
-b) büntetőeljárást kezdeményez az illetékes nyomozó hatóságnál, ha megítélése szerint a tevékenység a Büntető Törvénykönyvről szóló törvény alapján bűncselekménynek minősül,
+b) büntetőeljárást kezdeményez, ha megítélése szerint a tevékenység a Büntető Törvénykönyvről szóló törvény alapján bűncselekménynek minősül,
 
 c) intézkedést, kivételes intézkedést alkalmaz, illetve
 
