@@ -8,7 +8,7 @@
 
 (4) A lefoglalt dolog annak adható ki, aki a tulajdonjogát minden kétséget kizáróan igazolja vagy annak, akitől azt az állami adó- és vámhatóság lefoglalta feltéve, hogy az illető a jogszerű birtoklás tényét igazolta. Ha a lefoglalás megszüntetéséről rendelkező végzés közlését követő 3 munkanapon belül nem történt meg a kiadni rendelt dolog átvétele, a kiadás feltétele, hogy a lefoglalás megszüntetéséről rendelkező végzés közlésének napját követő nap és a kiadni rendelt termék, dolog és eszköz kiadásának napja közötti időtartamra eső tárolási költséget az állami adó- és vámhatóság részére igazoltan megtérítsék.
 
-(5) Az (4) bekezdéstől eltérően, ha a jövedéki kötelezettségszegéssel összefüggésben indult büntetőeljárásban lefoglalásnak van helye és ennek érdekében a büntetőügyben eljáró hatóság az állami adó- és vámhatóságot megkereste, a lefoglalt dolgot a büntetőeljárást lefolytató hatóságnak kell kiadni.
+(5) A (4) bekezdéstől eltérően, ha a jövedéki kötelezettségszegéssel összefüggésben indult büntetőeljárásban lefoglalásnak van helye és ennek érdekében a bíróság, ügyészség vagy nyomozó hatóság az állami adó- és vámhatóságot megkereste, a lefoglalt dolgot a bíróságnak, ügyészségnek vagy nyomozó hatóságnak kell kiadni.
 
 (6) Ha a kiadni rendelt dolgot a lefoglalás megszüntetéséről rendelkező végzés közlését követő 60 napon belül a (4) bekezdésben meghatározott személy nem veszi át, azt az állami adó- és vámhatóság értékesítheti. Az értékesítésből befolyt ellenérték a kiadni rendelt, de át nem vett dolog helyébe lép. Az értékesítés meghiúsulása esetén az állami adó- és vámhatóság a kiadni rendelt dolgot megsemmisítheti.
 

@@ -12,7 +12,7 @@ c) a jogosulatlanul megszerzett és lefoglalt adóügyi jelzést.
 
 a) a jövedéki jogsértés elkövetője az adó kivetését kifejezetten kéri, vagy
 
-b) a jövedéki jogsértést megvalósító személy ezzel a magatartásával a Btk. 396. §-a szerinti költségvetési csalás bűncselekményt követett el és – a büntetés korlátlan enyhítése érdekében – a bűncselekménnyel okozott vagyoni hátrány összegével megegyező összeget az Art. szerinti elkülönített számlára fizetett meg vagy a nyomozás elrendelésétől a büntetőeljárás jogerős befejezéséig a vagyoni hátrány megtérítése érdekében – a büntetés enyhítését eredményezően – az Art. szerinti elkülönített számlára befizetést teljesített.
+b) a jövedéki jogsértést megvalósító személy ezzel a magatartásával a Btk. 396. §-a szerinti költségvetési csalás bűncselekményt követett el és – a büntetés korlátlan enyhítése érdekében – a bűncselekménnyel okozott vagyoni hátrány összegével megegyező összeget az Art. szerinti elkülönített számlára fizetett meg vagy a büntetőeljárás során a vagyoni hátrány megtérítése érdekében – a büntetés enyhítését eredményezően – az Art. szerinti elkülönített számlára befizetést teljesített.
 
 (4) Ha a lefoglalt dolog nem uniós áru, elkobzására is e törvényt kell alkalmazni.
 
