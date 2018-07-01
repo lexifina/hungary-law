@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-104-00-00
 | 2014-01-01 | 2013. évi CLXXXVI. törvény | 2001-104-00-00.12 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2001-104-00-00.13 |
 | 2018-01-01 | 2017. évi CXLIV. törvény | 2001-104-00-00.14 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2001-104-00-00.15 |

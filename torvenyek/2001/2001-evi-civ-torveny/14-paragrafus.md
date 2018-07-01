@@ -1,3 +1,3 @@
 ## A pótmagánvádló fellépésének kizárása
 
-14. § Az ügyésznek az e törvényben meghatározott jogait a pótmagánvádló nem gyakorolhatja.
+14. § Az ügyészségnek az e törvényben meghatározott jogait a pótmagánvádló nem gyakorolhatja.

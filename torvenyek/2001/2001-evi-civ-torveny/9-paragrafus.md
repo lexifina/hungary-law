@@ -1,21 +1,27 @@
-## A jogi személy képviselője
+## A jogi személy érdekében eljáró ügyvéd
 
-9. § (1) Ha a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, a jogi személy érdekében – annak képviselőjeként – meghatalmazás vagy kirendelés alapján ügyvéd vagy meghatalmazás alapján kamarai jogtanácsos jár el. A bíróság, az ügyész, illetve a nyomozó hatóság ügyvédet rendel ki, ha a jogi személynek nincs meghatalmazott képviselője.
+9. § (1) Ha a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, a jogi személy érdekében meghatalmazás vagy kirendelés alapján ügyvéd vagy meghatalmazás alapján kamarai jogtanácsos (a továbbiakban együtt: jogi személy érdekében eljáró ügyvéd) jár el.
 
-(2) A jogi személy (1) bekezdés szerinti képviseletére – a (3) bekezdésben foglalt kivétellel – meghatalmazást a jogi személy törvényes képviselője adhat.
+(2) Ha a jogi személy nem hatalmaz meg jogi személy érdekében eljáró ügyvédet, akkor a bíróság, az ügyészség, vagy a nyomozó hatóság rendel ki jogi személy érdekében eljáró ügyvédet. Ebben az esetben a jogi személy érdekében eljáró ügyvéd kijelölése az eljáró bíróság, ügyészség vagy nyomozó hatóság székhelye szerint illetékes területi ügyvédi kamara feladata.
 
-(3) A terhelt, a terhelt hozzátartozója, illetve védője a jogi személynek az (1) bekezdés szerinti képviseletére meghatalmazást nem adhat. A terhelt védője nem lehet a jogi személy (1) bekezdés szerinti képviselője.
+(3) A jogi személy érdekében eljáró ügyvéd részére meghatalmazást – a (4) bekezdésben foglalt kivétellel – a jogi személy törvényes képviselője adhat.
 
-(4) A jogi személynek az (1) bekezdés szerinti képviselőjére – az (5) bekezdésben meghatározott eltérésekkel – a védőre vonatkozó szabályok irányadók.
+(4) A terhelt, a terhelt hozzátartozója, illetve védője a jogi személy érdekében eljáró ügyvéd részére meghatalmazást nem adhat. A terhelt védője nem lehet a jogi személy érdekében eljáró ügyvéd.
 
-(5) A jogi személy (1) bekezdés szerinti képviselője
+(5) A jogi személy érdekében eljáró ügyvédre – a (6) bekezdésben meghatározott eltérésekkel – a védőre vonatkozó szabályok értelemszerűen irányadók.
 
-a) a nyomozási cselekményeknél akkor lehet jelen, ha a tanú kihallgatása, a szakértő meghallgatása, a szemle, a bizonyítási kísérlet vagy a felismerésre bemutatás a jogi személy üggyel összefüggő kapcsolatának a tisztázására irányul, vagy a házkutatást a jogi személy használatában lévő területen foganatosítják,
+(6) A jogi személy érdekében eljáró ügyvéd
 
-b) a jogi személyt érintő iratokat a nyomozás elvégzése után tekintheti meg,
+a) a vádemelés előtt jelen lehet
 
-c) a tárgyaláson jelen lehet, a jogi személyt érintő körben indítványokat és észrevételeket tehet, a kihallgatottakhoz kérdést intézhet és felszólalhat.
+aa) az általa, illetve a jogi személy törvényes képviselője által indítványozott tanú kihallgatásán, és az ilyen tanú részvételével tartott bizonyítási cselekményen, valamint a szakértő meghallgatásán, a szemlén, a helyszíni kihallgatáson, a bizonyítási kísérleten, a felismerésre bemutatáson, és szembesítésen, ha az a jogi személy üggyel összefüggő kapcsolatának a tisztázására irányul,
 
-(6) Az (5) bekezdés b)–c) pontjában meghatározott jogokat a jogi személynek a reá irányadó jogszabályok szerinti törvényes képviselője is gyakorolhatja.
+ab) a kutatáson, ha azt a jogi személy használatában lévő területen foganatosítják,
 
-(7) A jogi személy az egyéb érdekelt (Be. 55. §) jogait az e törvény alapján folytatott büntetőeljárásban nem gyakorolhatja.
+b) az eljárás jogi személyt érintő ügyiratait megismerheti,
+
+c) a jogi személyt érintő körben bizonyítékot terjeszthet elő, indítványokat és észrevételeket tehet, és a bírósági eljárásban felszólalhat.
+
+(7) A jogi személy törvényes képviselője a tárgyaláson jelen lehet, valamint gyakorolhatja a (6) bekezdés b) és c) pontjában meghatározott jogokat.
+
+(8) A jogi személy törvényes képviselője személyesen vagy – ha törvény személyes eljárási kötelezettséget nem ír elő – meghatalmazott képviselője útján is eljárhat.

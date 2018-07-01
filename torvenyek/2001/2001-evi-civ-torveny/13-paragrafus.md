@@ -1,15 +1,15 @@
-## Intézkedés az iratok ismertetése után
+## A vádemelés
 
-13. § (1) Ha a nyomozás adatai alapján a jogi személlyel szemben e törvény szerint intézkedés alkalmazásának lehet helye, az ügyész a jogi személlyel szemben intézkedés alkalmazását – ha e törvény másként nem rendelkezik – a vádiratban indítványozza.
+13. § (1) Ha a nyomozás adatai alapján a jogi személlyel szemben e törvény szerint intézkedés alkalmazásának lehet helye, az ügyészség a jogi személlyel szemben intézkedés alkalmazását – ha e törvény másként nem rendelkezik – a vádiratban indítványozza.
 
 (2) A vádiratnak tartalmaznia kell
 
 a) a jogi személynek a bírósági nyilvántartásban történő azonosítására alkalmas adatait,
 
-b) a jogi személy 9. § (1) bekezdés szerinti, valamint a törvényes képviselőjének adatait,
+b) a jogi személy érdekében eljáró ügyvéd, valamint a törvényes képviselő adatait,
 
-c) az indítványt arra, hogy a bíróság a jogi személlyel szemben alkalmazzon az e törvény szerinti intézkedést.
+c) a vád tárgyát képező bűncselekmény és a jogi személlyel szembeni intézkedés alkalmazhatóságát alátámasztó körülmények pontos leírását, valamint
 
-(3)
+d) indítványt arra, hogy a bíróság a jogi személlyel szemben – e törvény szerinti – intézkedést alkalmazzon.
 
-(4) A vádiratot annyi példányban kell benyújtani, hogy a jogi személy 9. § (1) bekezdés szerinti képviselőjének is jusson egy példány.
+(3) Ha az ügyészség a vádiratban a jogi személlyel szemben intézkedés alkalmazását indítványozza, erről értesíti a jogi személyt, a jogi személy érdekében eljáró ügyvédet, a jogi személyt nyilvántartó bíróságot, valamint a jogi személy felett törvényességi, illetve szakmai felügyeletet gyakorló szervet is, amennyiben ez nem azonos a jogi személyt nyilvántartó bírósággal.
