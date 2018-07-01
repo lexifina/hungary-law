@@ -10,7 +10,7 @@ ba) a szabadságvesztésre ítélt,
 
 bb) az elzárásra ítélt,
 
-bc) az előzetesen letartóztatott,
+bc)[^1] a letartóztatott,
 
 bd) a szabálysértési elzárást töltő személy,
 
@@ -20,8 +20,11 @@ bf) a pénzbírság, a helyszíni bírság és közérdekű munka helyébe lép�
 
 bg) a kényszergyógykezelt,
 
-bh) az ideiglenes kényszergyógykezelt és
+bh)[^2] az előzetes kényszergyógykezelt és
 
 bi) a rendbírság helyébe lépő elzárást töltő személy;
 
 c) gyógyászati segédeszköz: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 3. § 6. pontja szerinti eszköz.
+
+[^1]: Az 1. § b) pont bc) alpontja a 14/2018. (VI. 15.) IM rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § b) pont bh) alpontja a 14/2018. (VI. 15.) IM rendelet 1. § b) pontja szerint módosított szöveg.
