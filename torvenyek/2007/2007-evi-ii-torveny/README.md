@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-2-00-00
 | 2017-06-17 | 2017. évi LXXII. törvény | 2007-2-00-00.49 |
 | 2017-12-01 | 2017. évi XXXIII. törvény | 2007-2-00-00.50 |
 | 2018-01-01 | 2017. évi CXLIII. törvény | 2007-2-00-00.51 |
+| 2018-07-01 | 2017. évi CXCVII. törvény | 2007-2-00-00.52 |

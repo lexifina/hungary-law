@@ -4,7 +4,7 @@ a) a nemzetbiztonság vagy a közbiztonság súlyos és tényleges megsértése 
 
 b) a határozatot hozó állam törvénye alapján legalább egyévi szabadságvesztés büntetéssel fenyegetett szándékos bűncselekmény elkövetéséért kiszabott bírósági ítélet,
 
-c) súlyos bűncselekmény elkövetésének gyanúja, vagy
+c) súlyos bűncselekmény gyanúja, vagy
 
 d) a külföldiek beutazására vagy tartózkodására vonatkozó jogszabályok súlyos megsértése
 
