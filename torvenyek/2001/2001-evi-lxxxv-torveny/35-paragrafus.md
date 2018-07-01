@@ -2,8 +2,6 @@
 
 35. § (1) A Szolgálat az érintett társadalmi beilleszkedésének elősegítése érdekében – ha arra más jogszabály szerint nem jogosult – az áldozatokat segítő egyesületekkel együttműködve gondoskodik a védelem alatt álló mentális, szociális, gazdasági, humán támogatásáról, a jogi segítségnyújtás biztosításáról. A Szolgálat által nyújtott ellátások és támogatások biztosításának szabályait a Kormány rendeletben állapítja meg.
 
-(2) Az érintett szociális és gazdasági támogatása a vagyoni gyarapodását nem szolgálhatja, az csak a létfenntartásához, társadalmi beilleszkedéséhez elengedhetetlenül szükséges mértékig terjedhet.
+(2) A Szolgálat a szociális és gazdasági támogatást az érintett – megállapodás megkötését megelőző két évben elért, munkavégzésre irányuló jogviszonyból, illetve egyéb jövedelemszerző tevékenységéből származó – adózott bevételének átlagára is figyelemmel állapítja meg azzal, hogy a támogatás az érintett vagyoni gyarapodását nem szolgálhatja. Adózott bevétel hiányában a támogatásnak el kell érnie a létfenntartáshoz, társadalmi beilleszkedéshez elengedhetetlenül szükséges mértéket.
 
-(3) Az (1) bekezdésben meghatározott támogatásban az érintett hozzátartozója – a 11. § (4) bekezdésében írt kivétellel – akkor részesülhet, ha őt a 3. § szerint a Programba felvették.
-
-(4) Az érintettnek munkavégzésre irányuló jogviszonyból, illetve más jövedelemszerző tevékenység folytatásából, továbbá más forrásból származó bevételét a Program által nyújtandó szociális és gazdasági támogatás mértékének megállapításánál figyelembe kell venni.
+(3)–(4)

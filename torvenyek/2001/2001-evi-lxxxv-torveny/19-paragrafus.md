@@ -2,4 +2,4 @@
 
 (2) Az érintett tájékoztatása a sürgősségi intézkedések megtételét nem késleltetheti.
 
-(3) Ha az érintett kiskorú, illetve korlátozottan cselekvőképes vagy cselekvőképtelen személy, a Szolgálat az érintetten kívül a törvényes képviselőt, illetve a gondnokot vagy gyámot is köteles értesíteni az (1) bekezdésben írt körülményekről.
+(3)

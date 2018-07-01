@@ -1,0 +1,1 @@
+2/A. § Fedett nyomozóval akkor is köthető megállapodás, ha a büntetőeljárásban vallomást nem tett, de az abban való közreműködése megfelel a 2. § (2) bekezdés a)–d) pontjában meghatározott követelményeknek, és hivatásos szolgálati jogviszonya a megállapodás megkötéséig megszűnt.

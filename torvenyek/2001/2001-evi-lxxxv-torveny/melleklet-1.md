@@ -108,7 +108,7 @@ iskolai végzettsége:
 
 szakképzettsége:
 
-D) Kiskorú érintett esetén a szülő (örökbefogadó, nevelő szülő vagy a gyermek állandó felügyeletével megbízott személy adatai:
+D) Kiskorú érintett esetén a szülő (örökbefogadó, nevelő szülő adatai:
 
 neve:
 
@@ -420,6 +420,6 @@ az érintett aláírása
 
 ....................
 
-kiskorú, valamint korlátozottan cselekvőképes
+korlátozottan cselekvőképes
 
-vagy cselekvőképtelen érintett esetén a törvényes képviselő, gondnok vagy gyám aláírása
+vagy cselekvőképtelen érintett esetén a törvényes képviselő, vagy ha ügygondnok jár el, az ügygondnok aláírása

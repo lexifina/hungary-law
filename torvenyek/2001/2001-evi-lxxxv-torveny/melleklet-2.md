@@ -20,13 +20,7 @@ c) az érintettet a védelemhez szükséges utasításokkal, ajánlásokkal és 
 
 d) az érintett szociális, gazdasági, mentális támogatásáról, valamint a jogi segítségnyújtásról a törvényben meghatározott, illetve a törvény felhatalmazása alapján a rendőrség és az érintett szervek között megkötött együttműködési megállapodásokban szabályozott módon gondoskodik;
 
-6. rendelkezést arról, hogy a Szolgálat jogosult
-
-a) az érintett személyes kapcsolatait ellenőrizni, azokkal kapcsolatban – a védelem céljai érdekében – korlátozásokat elrendelni,
-
-b) bűnmegelőzési célzattal, illetve a Program biztonsága érdekében az érintett biztonsági ellenőrzését elvégezni,
-
-c) az érintett vagyoni helyzetét ellenőrizni;
+6.
 
 7. az érintett kötelezettségei körében rendelkezést arról, hogy
 

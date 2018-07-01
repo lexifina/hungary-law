@@ -1,12 +1,10 @@
-38. § (1) A Szolgálat az érintett védelmének biztosítása céljából a Program elrendelése esetén
+38. § (1) A Szolgálat az érintett védelmének biztosítása céljából a Program elrendelése esetén jogosult kezelni
 
-a) a Programba felvett személy személyazonosító adatairól, valamint a tartózkodási helyére, a személyazonosság megváltoztatásának tényére vonatkozó, továbbá e törvényben foglalt rendelkezések végrehajtása során keletkezett adatokról, illetve
+a) a Programba felvett személy személyazonosító adatait, valamint a tartózkodási helyére, a személyazonosság megváltoztatásának tényére vonatkozó, továbbá e törvényben foglalt rendelkezések végrehajtása során keletkezett adatokat, illetve
 
-b) az 1. számú melléklet szerinti adattartalommal
+b) az 1. számú melléklet szerinti adatokat.
 
-nyilvántartást vezet.
-
-(2) A bíróság, az ügyészség, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtási szerv és a nemzetbiztonsági szolgálatok a konkrét cél megjelölésével – a rájuk vonatkozó törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a Szolgálattól adatok igénylésére jogosultak.
+(2) A bíróság, az ügyészség, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtási szerv és a nemzetbiztonsági szolgálatok a – törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a Szolgálattól adatok igénylésére jogosultak.
 
 (3) A Szolgálat adatközlése nem sértheti a védelem érdekeit. Az érintett védelme érdekében az átadott adat felhasználására vonatkozóan a Szolgálat korlátokat határozhat meg.
 
@@ -18,22 +16,22 @@ a) az adatigénylési kérelmet;
 
 b) az adatkérő nyilvántartási azonosítóját;
 
-c) az adattovábbítás idejét;
+c) az adattovábbítás időpontját;
 
 d) az adatszolgáltatást tartalmazó iratok és egyéb dokumentumok másodpéldányát.
 
-(6) Az (1) bekezdésben meghatározott adatok a büntetőeljárásban résztvevők védelme tárgyában létrehozott nemzetközi szerződés, vagy a 34. § (3) bekezdésében meghatározott esetben viszonosság alapján – ha a továbbítás súlyos és közvetlen veszély elhárításához vagy súlyos bűncselekmény megelőzéséhez szükséges – nemzetközi és külföldi bűnüldöző, igazságszolgáltatási szervek részére átadhatók, amennyiben a személyes adatok kezelésének feltételei a külföldi adatkezelőnél minden egyes adat tekintetében teljesülnek.
+(6) Az (1) bekezdésben meghatározott adatok a büntetőeljárásban résztvevők védelme tárgyában létrehozott nemzetközi szerződés, vagy a 34. § (5) bekezdésében meghatározott esetben viszonosság alapján – ha a továbbítás súlyos és közvetlen veszély elhárításához vagy súlyos bűncselekmény megelőzéséhez szükséges – nemzetközi és külföldi bűnüldöző, igazságszolgáltatási szervek részére átadhatók, amennyiben a személyes adatok kezelésének feltételei a külföldi adatkezelőnél minden egyes adat tekintetében teljesülnek.
 
 (7) A (6) bekezdésben meghatározott adattovábbítás esetén – amennyiben az minősített adatot érint – a minősített adat védelmére vonatkozó jogszabályok előírásai szerint kell eljárni.
 
-(8) A hatósági adatkezelést végző, illetve közokirat kiállítására jogosult szerv a 17. § szerinti megkeresések teljesítésére kizárólagosan jogosult személyt köteles kijelölni. A minősített adatot érintő megkereséseket a titokvédelemre vonatkozó jogszabályok által meghatározott, a titkos ügykezelőkre vonatkozó követelményeknek megfelelő személy teljesítheti.
+(8) Az adatkezelést végző, illetve közokirat kiállítására jogosult szerv a 17. § szerinti megkeresések teljesítésére kizárólagosan jogosult személyt köteles kijelölni.
 
-(9) A védelmet ellátó szerv az (1) és az (5) bekezdés szerinti nyilvántartásban
+(9) A védelmet ellátó szerv
 
-a) a Program elrendelése esetén e törvényben foglalt rendelkezések végrehajtása során keletkezett adatokat, a Programba felvett személy személyazonosító adatait, valamint a fedő-, valamint új adatait a személyazonosság megváltoztatása esetén annak időtartamáig, de legkésőbb az érintett élete végéig, illetőleg harmadik személyeknek a vele szemben fennálló hagyatéki igényének érvényesíthetőségéig,
+a) a Program végrehajtása során keletkezett adatokat, a Programba felvett személy személyazonosító adatait, valamint új személyazonosító adatait a személyazonosság megváltoztatása esetén annak időtartama alatt, de legkésőbb az érintett élete végéig, illetve harmadik személyeknek a vele szemben fennálló hagyatéki igényének érvényesíthetőségéig,
 
 b) az érintett egyéb adatait és harmadik személyek adatait a védelem megszűnéséig,
 
-c) az adatszolgáltatást kérő más szerv részére továbbított személyes adatokat érintően az (5) bekezdés szerint nyilvántartott adatokat a védelem megszűnéséig
+c) az adattovábbítási nyilvántartásban kezelt adatokat a védelem megszűnéséig
 
 kezelheti.

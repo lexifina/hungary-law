@@ -1,3 +1,1 @@
-8. § (1) Ha az 5. § (1)–(2) bekezdésében meghatározott jogosult a megállapodás megkötését kiskorú, korlátozottan cselekvőképes vagy cselekvőképtelen személy Programba való felvétele érdekében kezdeményezi, a Szolgálat a törvényes képviselővel, a gondnokkal, illetve a gyámmal köt megállapodást.
-
-(2) Ha a védelemre a törvényes képviselő, a gondnok, illetve a gyám cselekménye szolgáltatott okot, vagy egyébként a fenyegetett helyzetben lévő és a törvényes képviselője, a gondnoka, illetve a gyámja között érdekellentét áll fenn, a megállapodást – ha erre lehetőség van – más törvényes képviselővel, gondnokkal vagy gyámmal kell megkötni. Más törvényes képviselő, gondnok, gyám hiányában eseti gondnok kirendelése iránt kell intézkedni.
+8. §

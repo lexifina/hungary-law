@@ -1,4 +1,4 @@
-29. § (1) Kiskorú, illetve korlátozottan cselekvőképes vagy cselekvőképtelen személy személyazonosságának megváltoztatásához a törvényes képviselő, illetve a gondnok vagy a gyám hozzájárulása szükséges.
+29. § (1)
 
 (2) A védelem alatt álló külföldi számára magyar állampolgárságot igazoló okirat nem állítható ki, tartózkodására nézve a külföldiek beutazásáról és tartózkodásáról szóló törvény rendelkezéseit – e törvény rendelkezéseit figyelembe véve – kell alkalmazni.
 

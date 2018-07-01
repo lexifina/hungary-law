@@ -1,0 +1,3 @@
+36/A. § (1) Ha a 2. § (2) bekezdésében megjelölt személlyel megkötött megállapodás a 36. § (1) bekezdés b) pontja vagy (2) bekezdés b)–e) pontja alapján szűnik meg, úgy a rá tekintettel védelemben részesített személy vonatkozásában – kérelmére – a Szolgálat 60 napon belül új biztonsági kockázatot felmérő vizsgálatot folytat le. A vizsgálat alapján a Szolgálat dönt arról, hogy a program fenntartása az érintett személy vonatkozásában – a megszűnt megállapodásra tekintet nélkül – lehetséges-e.
+
+(2) Az (1) bekezdés szerinti biztonsági kockázatot felmérő vizsgálat időtartama alatt a program kizárólag a 36. § (1) bekezdése alapján szűnhet meg.
