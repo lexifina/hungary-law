@@ -1,0 +1,3 @@
+## 7. § Az R2. 34. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) El kell állni az elővezetéstől, ha azt a meg nem fizetett pénzbüntetés, pénzbírság vagy helyszíni bírság helyébe lépő szabadságvesztés büntetés, elzárás, illetve szabálysértési elzárás végrehajtása céljából rendelték el, és az elővezetendő személy hitelt érdemlően igazolja a pénzbüntetés, pénzbírság vagy helyszíni bírság megfizetését. El kell állni az elővezetéstől akkor is, ha az elővezetendő személy az elővezetés közben a kiszabott bírságot befizeti, ebben az esetben azonban az elővezetéssel kapcsolatban felmerült költségek megtérítését kezdeményezni kell.”
