@@ -4,4 +4,4 @@
 
 a)–c)
 
-d)
+d) e törvény 206. § f) pontja.

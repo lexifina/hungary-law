@@ -2,7 +2,7 @@
 
 117. § (1) A fegyelmi tanács tagjaként, fegyelmi biztosként és országos fegyelmi főbiztosként nem járhat el,
 
-a) aki ellen fegyelmi vagy közvádra üldözendő bűncselekmény miatt büntetőeljárás van folyamatban, ennek jogerős befejezéséig,
+a) aki fegyelmi eljárás vagy közvádra üldözendő bűncselekmény miatt büntetőeljárás hatálya alatt áll,
 
 b) aki a bejelentő vagy az eljárás alá vont személy Polgári Törvénykönyv szerinti hozzátartozója,
 

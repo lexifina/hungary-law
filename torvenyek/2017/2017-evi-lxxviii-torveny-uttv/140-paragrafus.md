@@ -1,6 +1,6 @@
 ## 62. Az eljárás felfüggesztése
 
-140. § (1) Az eljárás alá vont személy elleni büntetőeljárás jogerős befejezéséig a fegyelmi eljárást fel lehet függeszteni.
+140. § (1) A fegyelmi eljárást fel lehet függeszteni az eljárás alá vont személy elleni büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig.
 
 (2) A büntetőeljárást folytató bíróság, ügyészség vagy nyomozó hatóság az ügyvédi tevékenységet gyakorló személy elleni büntetőeljárásról, a vádemelésről és a büntetőeljárás befejezéséről tájékoztatja a területi kamara elnökét.
 

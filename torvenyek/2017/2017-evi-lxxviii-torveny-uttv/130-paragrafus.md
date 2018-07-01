@@ -2,7 +2,7 @@
 
 130. § (1) Az elsőfokú fegyelmi tanács az ügyvédi tevékenység gyakorlását felfüggesztheti, ha
 
-a) az ügyvédi tevékenységet gyakorló személy szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult büntetőeljárást – hatálya alatt áll, vagy
+a) az ügyvédi tevékenységet gyakorló személy szándékos bűncselekmény miatt büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll, vagy
 
 b) az ügyvédi tevékenység folytatása az ügyfelek jogai, jogos érdekei vagy az ügyvédségbe vetett közbizalom olyan mértékű sérelmével vagy veszélyeztetésével járna, amely meghaladja az ügyvédi tevékenység gyakorlása felfüggesztéséből fakadó egyéni érdeksérelmet.
 
