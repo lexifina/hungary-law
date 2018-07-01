@@ -12,7 +12,7 @@
 
 a) a jogerős bírósági határozattal megállapított tartásdíjnak, szüléssel járó költségnek és tartásra irányuló járadékszerű szolgáltatásnak (a továbbiakban együtt: tartásdíj) a bírósági adósságrendezés elrendelését követően esedékessé váló összegeit, tartásra jogosultanként legfeljebb havonta az öregségi nyugdíj legkisebb mértékének másfélszeresét nem haladó összegig,
 
-b) a magánszemély részére jogerős bírósági határozattal megállapított és járadékszerűen fizetendő kártérítésnek, sérelemdíjnak, továbbá a bűncselekményből eredő polgári jogi igény rendezésének – havi lebontásban, a bírósági adósságrendezés elrendelését követően esedékessé váló – részleteit, mindkét esetben jogosultanként legfeljebb havonta az öregségi nyugdíj legkisebb mértéke másfélszeresét meg nem haladó összeghatárig, amennyiben azok privilegizált követelésnek minősülnek,
+b) a magánszemély részére jogerős bírósági határozattal vagy ügydöntő határozattal megállapított és járadékszerűen fizetendő kártérítésnek, sérelemdíjnak, továbbá a bűncselekményből eredő polgári jogi igény rendezésének – havi lebontásban, a bírósági adósságrendezés elrendelését követően esedékessé váló – részleteit, mindkét esetben jogosultanként legfeljebb havonta az öregségi nyugdíj legkisebb mértéke másfélszeresét meg nem haladó összeghatárig, amennyiben azok privilegizált követelésnek minősülnek,
 
 c) a bírósági adósságrendezés elrendelését követően esedékessé váló társasházi közös költséget és a lakásszövetkezeti fenntartási-üzemeltetés célú befizetési kötelezettséget, legfeljebb havi 15 000 forint összegig – ha pedig ezekben közműszolgáltatások díját is meg kell fizetni, akkor 30 000 forint összeghatárig –
 
