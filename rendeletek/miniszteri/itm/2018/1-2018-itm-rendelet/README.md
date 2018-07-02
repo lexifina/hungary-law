@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1-20-7Q
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-07-01 | 2018-1-20-7Q.1 | 1/2018. (VI. 29.) ITM rendelet |
+| 2018-07-02 | 2018-1-20-7Q.2 | 2010: CXXX. törvény |
