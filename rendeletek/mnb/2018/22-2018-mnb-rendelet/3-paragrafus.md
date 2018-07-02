@@ -1,1 +1,0 @@
-## „21. stabil devizabetét: az a devizabetét, amely az 575/2013/EU európai parlamenti és tanácsi rendeletnek a hitelintézetekre vonatkozó likviditásfedezeti követelmények tekintetében történő kiegészítéséről szóló, 2014. október 10-i (EU) 2015/61 felhatalmazáson alapuló bizottsági rendelet 24. cikke szerinti jellemzőkkel bír;”
