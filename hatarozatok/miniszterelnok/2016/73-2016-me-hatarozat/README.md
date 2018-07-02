@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-73-30-6
 | --- | --- | --- |
 | 2016-07-04 | 2016-73-30-63.1 | 73/2016. (VII. 4.) ME határozat |
 | 2016-07-05 | 2016-73-30-63.2 | 2010: CXXX. törvény |
+| 2018-07-02 | 2016-73-30-63.3 | 90/2018. (VII. 2.) ME határozat |
