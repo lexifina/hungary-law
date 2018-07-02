@@ -1,3 +1,5 @@
 ## 14. § Ez a rendelet 2018. július 1-jén lép hatályba.
 
-15. § Hatályát veszti a házi őrizet végrehajtásáról szóló 6/2003. (IV. 4.) IM–BM együttes rendelet.
+15. §[^1]
+
+[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
