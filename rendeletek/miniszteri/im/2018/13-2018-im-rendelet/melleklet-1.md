@@ -1,4 +1,4 @@
-## 8. § Hatályát veszti a tizennegyedik életévét be nem töltött terhelt vagy tanú, valamint a különleges bánásmódot igénylő sértett meghallgatására szolgáló rendőrségi helyiség kialakításáról és ellenőrzéséről szóló 34/2015. (XI. 10.) IM rendelet.
+## 8. §[^1]
 
 1. melléklet a 13/2018. (VI. 12.) IM rendelethez
 
@@ -15,3 +15,5 @@
 5. A különleges helyiség bejáratát – ha a szoba olyan épületrészben van, illetve olyan folyosóról nyílik, ami az ügyfélforgalom számára nyitott, vagy ahol terheltek akár átmenetileg tartózkodhatnak – hangszigeteléssel kell ellátni.
 
 6. Az 1. § (3) bekezdése szerinti követelményeknek való megfelelést berendezési tárgyak, bútorok, függöny, valamint játszósarok kialakításával kell biztosítani. Ennek során úgy kell eljárni, hogy a helyiség falszíne, a függönyök és bútorok színe nyugtató, otthonos hatást keltsen, és nélkülözze a figyelmet elvonó díszítéseket, képeket, mintákat. A bútorzat tartalmazzon egy, a jegyzőkönyvvezetéshez munkaállomásként használt íróasztalt a hozzá tartozó irodai székkel, egy legalább 2 személyes kanapét, dohányzóasztalt és legalább egy gyermekszéket. A játszósarokban elhelyezhető játszószőnyeg, valamint egy darab nyitott szekrény a gyermekek életkori sajátosságaihoz és mindkét nem igényeihez igazodó játékokkal, foglalkoztató eszközökkel. Biztosítani kell a környezet balesetmentességét és a veszélyforrások kiküszöbölését.
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
