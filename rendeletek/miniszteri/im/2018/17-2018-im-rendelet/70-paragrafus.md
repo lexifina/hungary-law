@@ -1,1 +1,0 @@
-## „(5) A munkahely a Bv. tv. 287. § (4) bekezdés h) pont hb) és hc) alpontja szerinti esetben, ha erre a pártfogó felügyelő felhívja, továbbá a Bv. tv. 287. § (4) bekezdés h) pont he) alpontja szerinti esetben a nyilvántartó lapot és a jelenléti ívet a letöltött munkaórák összegzését követően cégszerű aláírásával lezárja, és a pártfogó felügyelőnek megküldi.”

@@ -1,1 +1,0 @@
-## „(4) A fiatalkorú egyéni értékelése érdekében a fiatalkorú terhelt sajátos szükségleteit ismertetni kell. Ennek keretében ki kell térni a fiatalkorú vonatkozásában fennálló veszélyeztető tényezőkre, a fiatalkorú oktatási, képzési szükségleteire és a társadalmi beilleszkedéséhez szükséges beavatkozásokra.”
