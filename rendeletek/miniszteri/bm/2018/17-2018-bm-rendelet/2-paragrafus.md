@@ -1,3 +1,0 @@
-## 1. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvénynek az igazságügyi szakértői intézmény igazságügyi alkalmazotti állományát érintő végrehajtásáról szóló 53/2016. (XII. 16.) BM rendelet [a továbbiakban: 53/2016. (XII. 16.) BM rendelet] 1. §-a helyébe a következő rendelkezés lép:
-
-## „1. § Az igazságügyi szakértői intézménynél az igazságügyi alkalmazottak által ellátható munkakörök megnevezését az 1. melléklet tartalmazza. Azon munkaköröket, ahol az igazságügyi alkalmazott tárgyévre vonatkozó alapilletményének módosításakor a munkakör ellátásához kapcsolódó fizikai, pszichés és munkakörnyezetből adódó terhelés szempontjának figyelembevétele nem mellőzhető, az 1/A. melléklet tartalmazza.”
