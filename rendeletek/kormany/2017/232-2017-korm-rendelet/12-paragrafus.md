@@ -1,9 +1,9 @@
-12. § (1)[^9]
+## 11. §[^14]
 
-(2) Hatályát veszti az R.
+12. § (1)[^15]
 
-a) 3. § (12a) bekezdése,
+(2)[^16]
 
-b) 7. § (8a) bekezdése.
-
-[^9]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 12. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
