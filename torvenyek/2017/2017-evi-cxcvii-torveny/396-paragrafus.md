@@ -1,1 +1,1 @@
-396. § Az MNB tv. 23. § (9) bekezdésében a „bűnüldöző szervek vizsgálatának lezárultáig” szövegrész helyébe a „büntetőeljárás befejezéséig” szöveg és a „büntetőeljárást lefolytató, illetve bűnüldözési feladatokat ellátó” szövegrész helyébe a „büntetőeljárás során eljáró” szöveg lép.
+### 396. §

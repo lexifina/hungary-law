@@ -1,3 +1,1 @@
-142. § Az Etv. 68/B. §-a helyébe a következő rendelkezés lép:
-
-„68/B. § Ha a bíróság, illetve az ügyész az eljárása során megállapítja, hogy az Ákr. 123. § (1) bekezdés d) és e) pontja alapján a közigazgatási határozat megsemmisítésének van helye, a bíróság a jogerős ügydöntő határozatról, illetve az ügyészség a feltételes ügyészi felfüggesztésről szóló határozatról a közigazgatási határozatot meghozó eljáró hatóságot haladéktalanul tájékoztatja.”
+### 142. §

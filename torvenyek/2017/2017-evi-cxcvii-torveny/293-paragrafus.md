@@ -1,1 +1,1 @@
-293. § Az Infotv. 71. § (3b) bekezdésében a „titkos információgyűjtésre használt eszközöket” szövegrész helyébe a „titkos információgyűjtés folytatása vagy a leplezett eszközök alkalmazása érdekében használt eszközöket” szöveg lép.
+### 293. §

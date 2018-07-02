@@ -1,1 +1,1 @@
-273. § A Mavtv. 22. § (4) bekezdésében a „nyomozó hatóságok, a bíróság, az ügyészség” szövegrész helyébe a „bíróság, az ügyészség, a nyomozó hatóság” szöveg és a „megkeresésére” szövegrész helyébe a „megkeresésére vagy adatkérésére” szöveg lép.
+### 273. §

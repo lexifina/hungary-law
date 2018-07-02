@@ -1,3 +1,3 @@
 ## 124. Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény módosítása
 
-344. § Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 17. § (1) bekezdésében a „büntetőeljárásáról” szövegrész helyébe a „büntetőeljárásról” szöveg és a „vagy az eljáró” szövegrész helyébe az „az eljáró bíróságnak, ügyészségnek, nyomozó hatóságnak vagy más” szöveg lép.
+### 344. §

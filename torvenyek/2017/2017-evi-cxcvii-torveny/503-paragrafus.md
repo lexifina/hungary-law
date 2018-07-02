@@ -10,8 +10,4 @@ b) ha az a) pontban meghatározott személy nem állapítható meg, vagy a terü
 
 terheli.”
 
-(2) Az Ügyvédi tv. 117. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A fegyelmi tanács tagjaként, fegyelmi biztosként és országos fegyelmi főbiztosként nem járhat el,)
-
-„a) aki fegyelmi eljárás vagy közvádra üldözendő bűncselekmény miatt büntetőeljárás hatálya alatt áll,”
+(2)

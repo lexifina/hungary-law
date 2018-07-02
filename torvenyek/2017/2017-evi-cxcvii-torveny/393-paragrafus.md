@@ -1,3 +1,3 @@
 ## 135. A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény módosítása
 
-393. § A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 44. § (5) bekezdésében a „szabálysértési vagy büntetőeljárás végleges, illetve jogerős befejezéséig” szövegrész helyébe a „szabálysértési eljárás végleges, illetve jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig” szöveg lép.
+### 393. §

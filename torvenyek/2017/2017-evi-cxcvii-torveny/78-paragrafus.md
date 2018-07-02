@@ -1,5 +1,3 @@
 ## 32. Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény módosítása
 
-78. § Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 23. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha az etikai vétségnek is minősülő ügyben szabálysértési eljárás is indult, a kilencvennapos határidőt a jogerős határozat, ha büntetőeljárás is indult, a jogerős ügydöntő határozat vagy véglegessé vált nem ügydöntő végzés, vagy az eljárás feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló határozat, illetve további jogorvoslattal nem támadható eljárást megszüntető határozat területi szervezettel történt közlésétől kell számítani. Az egyéves határidőt a szabálysértési eljárásban az eljárás jogerős befejezésétől, büntetőeljárásban pedig a jogerős ügydöntő határozattal vagy véglegessé vált nem ügydöntő végzéssel, vagy az eljárás feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló határozattal, illetve további jogorvoslattal nem támadható eljárást megszüntető határozattal történő befejezésétől kell számítani.”
+### 78. §

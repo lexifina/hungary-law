@@ -1,3 +1,1 @@
-281. § A NAV tv. 34/K. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A leltárhiányért fennálló felelősség megállapítására a (2)–(4) bekezdésben foglaltak azzal az eltéréssel irányadók, hogy a felelősséget a leltárfelvétel befejezését követő 60 napon belül el kell bírálni. Büntetőeljárás esetén e határidő a bíróság jogerős vagy véglegessé vált határozatáról, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatáról való NAV általi tudomásszerzést követő nappal kezdődik. A határidő eltelte után a leltárhiányért a 34/H. § (2) bekezdés szerinti okirat alapján felelőst kártérítésre nem lehet kötelezni.”
+### 281. §

@@ -1,5 +1,3 @@
 ## 46. A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény módosítása
 
-107. § A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény (a továbbiakban: 1999. évi LXXV. törvény) 6. §-a helyébe a következő rendelkezés lép:
-
-„6. § Ha a működési engedély visszavonását, illetve az üzlet bezáratását az 5. § (1) bekezdésében meghatározott jogsértés miatt büntető- vagy szabálysértési eljárást folytató szerv indokoltnak tartja, az eljárás megindításáról, illetve szabálysértési eljárásban a jogerős végzésről, továbbá büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatáról, valamint az ügyészségnek, illetve a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható határozatáról értesíti az üzlet működési helye szerint illetékes jegyzőt. Az 5. § (2) bekezdésében meghatározott esetekben a bírósági ügydöntő határozatról az ügyben eljáró hatóságot is értesíteni kell.”
+### 107. §

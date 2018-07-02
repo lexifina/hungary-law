@@ -1,3 +1,1 @@
-192. § Az Stv. 61. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A sportpolitikáért felelős miniszter törli a járadékra jogosultnak az 59. § (10) bekezdése alapján megismert személyes adatait, ha a jogosulttal szemben folytatott büntetőeljárást a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével befejezte, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatot hozott, és a jogosult nem vált érdemtelenné. A járadék továbbfolyósításáról szóló döntésben a felfüggesztésre okot adó körülmény megszűnését kell feltüntetni.”
+### 192. §

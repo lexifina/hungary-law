@@ -1,3 +1,1 @@
-471. § A Bv. tv. 424. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az előzetes kényszergyógykezelt a védőjével és állama konzuli tisztségviselőjével a letartóztatottra vonatkozó szabályok szerint jogosult kapcsolatot tartani. A törvényes képviselet ellátása érdekében a törvényes képviselő az előzetes kényszergyógykezelt személlyel – a fogvatartást foganatosító szerv rendjének a megtartásával – mind szóban, mind írásban és személyesen ellenőrzés mellett tarthat kapcsolatot. Ez esetben a telefonon történő és a személyes kapcsolattartás nem számítható be a rezsimszabályokhoz igazodó kapcsolattartásként. Az előzetes kényszergyógykezelés meghosszabbítása tárgyában tartandó ülésen, ha azt a bíróság az IMEI-ben tartja a védő, a konzuli tisztviselője és a törvényes képviselő részére a belépést biztosítani kell.”
+### 471. §

@@ -1,1 +1,1 @@
-171. § Az Ektv. 13. § (14) bekezdés c) pontjában a „megküldi részére a nyomozóhatóság az értesítés szerinti jogsértéssel kapcsolatos nyomozást elrendelő határozatát” szövegrész helyébe az „értesíti a jogsértéssel kapcsolatos nyomozás elrendeléséről” szöveg lép.
+### 171. §

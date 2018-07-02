@@ -1,3 +1,1 @@
-183. § A Jst. 68. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Pártfogó ügyvédi képviseletet a névjegyzékben szereplő ügyvéd és – a (3) bekezdésben foglalt kivétellel – jogi segítő szervezet láthat el, amennyiben rendelkezik a bíróságokkal való elektronikus kapcsolattartáshoz szükséges technikai feltételekkel. A névjegyzékben szereplő jogi segítő szervezet büntetőeljárásban akkor láthatja el a sértett, a magánvádló, a pótmagánvádló és a magánfél pártfogó ügyvédi képviseletét, ha megfelel a Be. 61. § (3) bekezdés e) pontja szerinti feltételeknek, egyéb személyek pártfogó ügyvédjeként büntetőeljárásban nem járhat el.”
+### 183. §
