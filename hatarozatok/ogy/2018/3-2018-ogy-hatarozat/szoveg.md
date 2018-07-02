@@ -16,7 +16,7 @@ Törvényalkotásért felelős alelnök:
 
 Hende Csaba (Fidesz)
 
-Jegyző: Bodó Sándor (Fidesz)
+Jegyző: dr. Vinnai Győző (Fidesz)[^2]
 
 Gelencsér Attila (Fidesz)
 
@@ -28,7 +28,7 @@ Földi László (KDNP)
 
 Móring József Attila (KDNP)
 
-dr. Simicskó István (KDNP)[^2]
+dr. Simicskó István (KDNP)[^3]
 
 Szávay István (Jobbik)
 
@@ -46,7 +46,8 @@ Tordai Bence (Párbeszéd)
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3.[^3]
+3.[^4]
 
-[^2]: A 9/2018. (VI. 5.) OGY határozat iktatta be.
-[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 12/2018. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 9/2018. (VI. 5.) OGY határozat iktatta be.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
