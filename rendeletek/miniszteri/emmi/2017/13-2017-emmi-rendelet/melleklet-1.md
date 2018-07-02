@@ -1,3 +1,5 @@
-## 13. § Hatályát veszti a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi követelményekről szóló 16/2002. (IV. 10.) EüM rendelet.
+## 13. §[^2]
 
 1. melléklet a 13/2017. (VI. 12.) EMMI rendelethez
+
+[^2]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
