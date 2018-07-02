@@ -2,7 +2,7 @@
 
 ## 112. Hatályon kívül helyező rendelkezés
 
-216. § Hatályát veszti a közös nyomozócsoportok létrehozásáról és működéséről szóló 31/2004. (BK 21.) BM–PM együttes utasítás.
+216. §[^1]
 
 Melléklet a 100/2018. (VI. 8.) Korm. rendelethez
 
@@ -59,3 +59,5 @@ Az eljárás ügyiratainak sorrendje
 10. Eljárást megszüntető vagy felfüggesztő határozat, ha az eljárást nem folytatták
 
 11. Mellékletek (olyan, a büntetőeljárás során beszerzett nagy mennyiségű ügyirat, amelynek külön kezelése indokolt, így különösen: adatkérés során beszerzett iratok, fényképmelléklet). A mellékletre és annak tartalmára az eljárás ügyiratai között megfelelő helyen utalni kell.
+
+[^1]: A 216. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
