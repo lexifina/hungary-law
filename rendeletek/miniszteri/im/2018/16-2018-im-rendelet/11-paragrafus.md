@@ -1,1 +1,0 @@
-## „(2) Az (1) bekezdésben meghatározott adatközlést a kényszerintézkedést elrendelő határozat keltének vagy a kényszerintézkedést megszüntető határozat véglegessé válásának napjától számított három munkanapon belül kell teljesíteni.”

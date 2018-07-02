@@ -1,1 +1,0 @@
-## „(3a) A büntetőeljárásról szóló 2017. évi XC. törvény 327. § (5) bekezdése szerinti esetben a zár alá vétel elrendelése esetében az ügyészség vagy a nyomozó hatóság, illetve a bíróság döntésével kapcsolatos, a (3) bekezdésben meghatározott adatokat is fel kell tüntetni.”

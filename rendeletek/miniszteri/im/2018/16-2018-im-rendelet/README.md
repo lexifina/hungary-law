@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-16-20-0
 | --- | --- | --- |
 | 2018-06-30 | 2018-16-20-06.1 | 16/2018. (VI. 22.) IM rendelet |
 | 2018-07-01 | 2018-16-20-06.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2018-07-02 | 2018-16-20-06.3 | 2010: CXXX. törvény |
