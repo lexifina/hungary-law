@@ -1,9 +1,7 @@
-35. § Az Szt.
+35. §
 
 a)–j)
 
-k) 79. § (3) bekezdés d) pontjában a „hat” szövegrész helyébe a „két” szöveg,
+k)
 
 l)–n)
-
-lép.
