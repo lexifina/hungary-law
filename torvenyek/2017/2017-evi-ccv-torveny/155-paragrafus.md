@@ -1,3 +1,3 @@
 ## 13. A hegyközségekről szóló 2012. évi CCXIX. törvény módosítása
 
-155–156. §
+### 155. §
