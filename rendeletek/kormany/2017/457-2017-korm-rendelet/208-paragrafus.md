@@ -1,5 +1,5 @@
-## 205–207. §[^106]
+## 205–207. §[^107]
 
 ## 97. A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet módosítása
 
-[^106]: A 205–207. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 205–207. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

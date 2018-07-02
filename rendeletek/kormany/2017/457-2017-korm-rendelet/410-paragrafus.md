@@ -1,5 +1,5 @@
-## 407–409. §[^204]
+## 407–409. §[^205]
 
 ## 195. Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet módosítása
 
-[^204]: A 407–409. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^205]: A 407–409. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

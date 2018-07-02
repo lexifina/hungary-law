@@ -1,3 +1,3 @@
-16–40. melléklet a 457/2017. (XII. 28.) Korm. rendelethez[^315]
+16–40. melléklet a 457/2017. (XII. 28.) Korm. rendelethez[^316]
 
-[^315]: A 16–40. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^316]: A 16–40. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

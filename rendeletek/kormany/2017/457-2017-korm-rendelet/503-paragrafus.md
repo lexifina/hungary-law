@@ -1,5 +1,5 @@
-## 501–502. §[^249]
+## 501–502. §[^250]
 
 ## 240. Az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről szóló 197/2014. (VIII. 1.) Korm. rendelet módosítása
 
-[^249]: Az 501–502. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^250]: Az 501–502. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 484–486. §[^241]
+## 484–486. §[^242]
 
 ## 232. A földművesekről, a mezőgazdasági termelőszervezetekről, valamint a mezőgazdasági üzemközpontokról vezetett nyilvántartás részletes szabályairól szóló 38/2014. (II. 24.) Korm. rendelet módosítása
 
-[^241]: A 484–486. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^242]: A 484–486. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 211–214. §[^108]
+## 211–214. §[^109]
 
 ## 99. A megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia,
 
@@ -6,4 +6,4 @@
 
 ## 389/2007. (XII. 23.) Korm. rendelet módosítása
 
-[^108]: A 211–214. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: A 211–214. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
