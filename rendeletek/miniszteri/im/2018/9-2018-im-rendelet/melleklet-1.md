@@ -1,4 +1,4 @@
-## 146. § Hatályát veszti a fogvatartott személy esetében a büntetőeljárás lefolytatása során, továbbá a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokról szóló 11/2014. (XII. 13.) IM rendelet.
+## 146. §[^1]
 
 1. melléklet a 9/2018. (VI. 11.) IM rendelethez
 
@@ -219,3 +219,5 @@
 16.1. A büntetés-végrehajtási intézet parancsnokának felhívása a szabadságvesztés végrehajtására
 
 16.2. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bírói/bv. bírói tisztség megjelölése
+
+[^1]: A 146. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
