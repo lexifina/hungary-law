@@ -1,5 +1,0 @@
-## 13. § A Korm. Rend. 11/A. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-## „(4) Ha az utazási vállalkozó a 8. § (6), (8) és (9) bekezdése, valamint 8/A. §-a szerinti igazolási, jelentéstételi kötelezettségét utólag, de legkésőbb a határidőt követő 8 napon belül teljesíti, a Kormányhivatal végzésben figyelmezteti az utazási vállalkozót a jogkövető magatartás tanúsítására. Ha az utazási vállalkozó az ezt követő két éven belül ismételten elköveti a jogsértést, a Kormányhivatal a (3) bekezdés szerint megállapított bírságot szab ki.
-
-## (5) Ha az utazási vállalkozó a 8. § (6), (8), (9) bekezdés, valamint 8/A. § szerinti igazolási, jelentéstételi kötelezettségét a határidőt követő 8 napon belül nem, vagy nem megfelelően teljesíti, a Kormányhivatal az utazási vállalkozót a kötelezettségének 8 napon belüli teljesítésére hívja fel és egyidejűleg a (4) bekezdés szerint megállapított bírságot szab ki. Amennyiben az utazási vállalkozó a kötelezettségének felhívásra sem tesz eleget, a Kormányhivatal a 11. § (1) bekezdés j) pontját alkalmazza.”
