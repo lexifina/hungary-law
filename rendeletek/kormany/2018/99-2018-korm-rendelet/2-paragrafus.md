@@ -1,1 +1,0 @@
-## „9. szponzoráció: olyan eseti vagy rendszeres – pénzbeli vagy új eszköz, termék útján nyújtott nem pénzbeli – hozzájárulás valamely rendezvényhez, tevékenységhez, illetve személy számára, amelyet az érintett szervezet kommunikációs célból, piaci helyzetének javítása vagy társadalmi szerepvállalás érdekében nyújt.”

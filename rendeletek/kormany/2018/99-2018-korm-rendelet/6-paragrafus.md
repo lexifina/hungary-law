@@ -1,1 +1,0 @@
-## „(2) Ha a Hivatal a rendkívüli sürgősségű eljárást az eset összes körülményei alapján nem tartja indokoltnak, a beszerzési igényt elutasítja. Az elutasítás nem akadálya a beszerzési igény (1) bekezdés a)–c) pontja szerinti ismételt előterjesztésének.”

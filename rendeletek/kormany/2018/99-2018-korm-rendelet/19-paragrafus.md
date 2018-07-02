@@ -1,4 +1,4 @@
-## 17–18. §[^3]
+## 17–18. §[^6]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 8. § (2) bekezdése 2018. augusztus 1. napján lép hatályba.
 
-[^3]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
