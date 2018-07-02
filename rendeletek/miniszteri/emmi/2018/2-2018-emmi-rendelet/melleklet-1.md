@@ -1,3 +1,3 @@
-1. melléklet a 2/2018. (I. 18.) EMMI rendelethez[^13]
+1. melléklet a 2/2018. (I. 18.) EMMI rendelethez[^16]
 
-[^13]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

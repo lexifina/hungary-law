@@ -1,5 +1,3 @@
-## 3. § Az Nmr. 5/A. § (7) bekezdése a következő c) ponttal egészül ki:
+## 3. §[^2]
 
-## (A Biztos Kezdet Gyerekház zárva tarthat)
-
-## „c) a foglalkoztatottaknak a Biztos Kezdet Alapképzésen való részvételének időtartama alatt.”
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
