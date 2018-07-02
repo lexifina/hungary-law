@@ -1,0 +1,1 @@
+A Kormány a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 19. § (1) bekezdés a) pontjában és az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva elrendeli az önkormányzati és az állami feladatellátásban bekövetkező változásokkal összefüggésben
