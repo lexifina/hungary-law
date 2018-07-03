@@ -1,0 +1,1 @@
+5. § Az Országgyűlés az egyrészről az Európai Közösségek és azok tagállamai, másrészről Macedónia Volt Jugoszláv Köztársaság közötti stabilizációs és társulási megállapodáshoz a Bolgár Köztársaság és Románia Európai Unióhoz való csatlakozásának figyelembevétele céljából csatolt jegyzőkönyvet (a továbbiakban: 2. Jegyzőkönyv) e törvénnyel kihirdeti.

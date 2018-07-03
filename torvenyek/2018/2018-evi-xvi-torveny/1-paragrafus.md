@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösségek és tagállamaik, másrészről Macedónia Volt Jugoszláv Köztársaság közötti stabilizációs és társulási megállapodást (a továbbiakban: Megállapodás) e törvénnyel kihirdeti.
