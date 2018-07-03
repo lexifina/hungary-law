@@ -4,7 +4,7 @@
 
 ## 12. A támogatás igénylése és a támogatási döntés
 
-21. §[^62] (1) A támogatás igénylése a kezelő szerv részére megküldött, cégszerűen aláírt támogatási kérelem benyújtásával történik.
+21. §[^65] (1)[^66] A támogatás igénylése a lebonyolító szerv részére megküldött, cégszerűen aláírt támogatási kérelem benyújtásával történik.
 
 (2) A támogatási kérelem
 
@@ -28,6 +28,8 @@ tartalmazza.
 
 (4) A támogatási kérelem befogadásáról a támogató a beruházót írásban értesíti.
 
-(5) A támogatási eljárásban a beruházónak határidőben a kezelő szerv rendelkezésére kell bocsátania a támogatáshoz szükséges valamennyi adat, tény és információ igazolásához szükséges okiratot és dokumentumot.
+(5)[^67] A támogatási eljárásban a beruházónak határidőben a lebonyolító szerv rendelkezésére kell bocsátania a támogatáshoz szükséges valamennyi adat, tény és információ igazolásához szükséges okiratot és dokumentumot.
 
-[^62]: A 21. § a 426/2016. (XII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^65]: A 21. § a 426/2016. (XII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^66]: A 21. § (1) bekezdése a 118/2018. (VII. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^67]: A 21. § (5) bekezdése a 118/2018. (VII. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
