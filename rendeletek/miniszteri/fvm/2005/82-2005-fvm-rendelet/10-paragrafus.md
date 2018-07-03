@@ -2,7 +2,7 @@
 
 10. § (1)[^22] Az egyéni támogatási felső határ kihasználását jelenti, ha adott támogatási évben a termelő az 1. § (1) bekezdésében megjelölt támogatás szerinti támogatható állattal rendelkezik. A kihasználás mértékét a támogatásra jogosult állatlétszám és az egyéni támogatási felsőhatár hányadosa alapján a Kincstár állapítja meg.
 
-(2)[^23] Az országos támogatási felső határt, annak előző évi kihasználtságának szintjét és az adott évre vonatkozó országos tartalék mértékét a Kincstár az egységes területalapú támogatásokhoz kapcsolódó nemzeti kiegészítő támogatások (top up) igénybevételének feltételeit szabályozó miniszteri rendeletben az adott jogcímre, adott támogatási évre, a támogatási döntések meghozatalára megállapított határidő lejártát követő harminc napon belül honlapján közzéteszi.
+(2)[^23] Az országos támogatási felső határt, annak előző évi kihasználtságának szintjét és az adott évre vonatkozó országos tartalék mértékét a Kincstár az egységes területalapú támogatásokhoz kapcsolódó átmeneti nemzeti támogatások igénybevételének feltételeit szabályozó miniszteri rendeletben az adott jogcímre, adott támogatási évre, a támogatási döntések meghozatalára megállapított határidő lejártát követő harminc napon belül honlapján közzéteszi.
 
 (3)[^24] Ha a termelő adott támogatási évben az egyéni támogatási felsőhatár száz százaléka alatt használja ki támogatási jogosultságát, akkor az összes ki nem használt egyéni támogatási jogosultság az országos tartalék javára ellenérték nélkül megvonásra kerül, függetlenül attól, hogy a termelő saját vagy használatba vett támogatási jogosultságát érinti.
 
@@ -24,7 +24,7 @@ b) anyatehéntartás támogatási jogosultság esetén csak az első tizedesjegy
 
 [^21]: A 9. § a 88/2016. (XII. 29.) FM rendelet 8. § c) pontja szerint módosított szöveg.
 [^22]: A 10. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 8. § b) pontja szerint módosított szöveg.
-[^23]: A 10. § (2) bekezdése a 117/2011. (XII. 15.) VM rendelet 5. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 8. § b) pontja szerint módosított szöveg.
+[^23]: A 10. § (2) bekezdése a 117/2011. (XII. 15.) VM rendelet 5. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 8. § b) pontja, a 9/2018. (VII. 2.) AM rendelet 2. §-a szerint módosított szöveg.
 [^24]: A 10. § (3) bekezdése a 16/2015. (IV. 9.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^25]: A 10. § (4) bekezdés záró szövegrésze a 28/2006. (IV. 7.) FVM rendelet 5. § (2) bekezdésével megállapított, a 16/2015. (IV. 9.) FM rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^26]: A 10. § (4) bekezdésének b) pontja a 28/2006. (IV. 7.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg.
