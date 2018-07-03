@@ -168,17 +168,13 @@ ahol azon növénykultúrák esetében, amelyeknél a tárgyévben ársáv közz
 
 4.1. Károsodott növénykultúrára számított kárenyhítő juttatás maximális összege
 
-| növénykultúrára számított kárenyhítő juttatás maximális összege (Ft) | = | 0,8 × |  | növénykultúra hozamérték- csökkenésének összege (Ft) | – | növénykultúra hozamérték- csökkenéséből levonásra kerülő tételek (Ft) |  |
+| károsodott növény- kultúrára számított kárenyhítő juttatás maximális összege (Ft) | = 0,8 × | [növénykultúra hozamérték- csökkenésének összege (Ft) | – | növénykultúra hozamérték- csökkenéséből levonásra kerülő tételek (Ft)] | – | biztosító által a kárenyhítő juttatás iránti kérelemben szereplő káresemény miatt a károsodott növénykultúrára kifizetett kártérítés összege (Ft) | – | ugyanazon elszámolható költségek tekintetében megállapított bármely egyéb (állami vagy európai uniós társfinanszírozású) támogatás összege (Ft) |
 
 4.2. Üzemi szintű kárenyhítő juttatás maximális összege
 
 a) az Mkk. tv. 11. § (5) bekezdése szerinti mezőgazdasági biztosítás megléte esetén
 
-| üzemi szintű kárenyhítő juttatás maximális összege (Ft) | = Σ | károsodott növénykultúrára számított kárenyhítő juttatás maximális összege (Ft) | – | biztosító által a kárenyhítő juttatás iránti kérelemben szereplő káresemény miatt kifizetett kártérítés összege (Ft) |
-
 b) az Mkk. tv. 11. § (5) bekezdése szerinti mezőgazdasági biztosítás hiányában
-
-| üzemi szintű kárenyhítő juttatás maximális összege (Ft) | = Σ | károsodott növénykultúrára számított kárenyhítő juttatás maximális összege (Ft) | ÷ | 2 |
 
 4.3. Károsodott növénykultúra hozamérték-csökkenéséből levonásra kerülő tételek
 
@@ -232,4 +228,4 @@ c) Földbérlet esetén a bérletidíj-csökkenés összege:
 
 | Bérletidíj-csökkenés összege (Ft) | = | növénykultúra tárgyévi vetésterülete (ha) | × | [piaci bérleti díj (Ft/ha) – kedvezményes bérleti díj (Ft/ha)] |
 
-[^44]: A 3. melléklet a 35/2017. (VII. 6.) FM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^44]: A 3. melléklet a 35/2017. (VII. 6.) FM rendelet 16. § (2) bekezdésével megállapított, a 9/2018. (VII. 2.) AM rendelet 9. §-a szerint módosított szöveg.
