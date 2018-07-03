@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-65-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-12-23 | 2017-65-20-11.1 | 65/2017. (XII. 22.) FM rendelet |
+| 2018-07-03 | 2017-65-20-11.2 | 9/2018. (VII. 2.) AM rendelet |
