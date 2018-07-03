@@ -6,8 +6,8 @@
 
 (3) Az ügyfél a tárgyévi egységes kérelmét az (1) bekezdés szerinti megállapításoknak megfelelően a 10. § (2) bekezdésében meghatározott határnapot követő 35 napon belül jogkövetkezmények nélkül módosíthatja, valamint egyéb adatváltozást jelenthet be.
 
-(4)[^39] Ha a (3) bekezdés szerinti határidőt az ügyfél elmulasztja, a Kincstár az ügyfél által később benyújtott, az érintett területre vagy állategyedre vonatkozó adatváltozás bejelentése tekintetében a 809/2014/EU bizottsági végrehajtási rendelet 3., illetve 15. cikke, valamint a 640/2014/EU felhatalmazáson alapuló bizottsági rendelet 15. cikke szerint jár el.
+(4)[^39] Az előzetes ellenőrzésről szóló felszólító végzésre adott válasz benyújtási időpontjának a tárgyév június 20-áig utoljára történt elektronikus feltöltés napja minősül. A 18. § (2) bekezdésében foglalt határidőn túl benyújtott válasz nem eredményezheti a 18. § (2) bekezdésében foglalt határnapig benyújtott kérelem módosítását az addig bejelentett terület, illetve állategyedek tekintetében.
 
 [^37]: A 19. § (1) bekezdése a 13/2017. (III. 17.) FM rendelet 50. § (1) bekezdésével megállapított szöveg.
 [^38]: A 19. § (2) bekezdése a 13/2017. (III. 17.) FM rendelet 50. § (1) bekezdésével megállapított szöveg.
-[^39]: A 19. § (4) bekezdése a 13/2017. (III. 17.) FM rendelet 50. § (2) bekezdésével megállapított szöveg.
+[^39]: A 19. § (4) bekezdése a 9/2018. (VII. 2.) AM rendelet 20. §-ával megállapított szöveg.

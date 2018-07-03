@@ -48,6 +48,8 @@ b) a mérési tűréshatárral számolt referenciaterületet meghaladó túligé
 
 (16)[^58] Az adategyeztetés során az ügyfél által csökkentett területet jogosulatlanul igényelt területként kell figyelembe venni.
 
+(17)[^59] A (4) bekezdés a) pontja szerinti felhívásra adott válasz benyújtási időpontjának az adategyeztetésre történő felszólításban megjelölt határidőn belül utoljára feltöltött elektronikus válasz benyújtásának időpontja minősül, azzal, hogy ezen pontosítás során megjelölt objektum területnagysága nem haladhatja meg az adategyeztető elektronikus űrlapkitöltő felületre történő első belépéskori állapotnak megfelelő területnagyságot.
+
 [^46]: A 23. § (3) bekezdése a 8/2018. (III. 29.) FM rendelet 47. § (1) bekezdésével megállapított szöveg.
 [^47]: A 23. § (4) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 109. § b) pontja szerint módosított szöveg.
 [^48]: A 23. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 109. § c) pontja szerint módosított szöveg.
@@ -61,3 +63,4 @@ b) a mérési tűréshatárral számolt referenciaterületet meghaladó túligé
 [^56]: A 23. § (14) bekezdését a 13/2017. (III. 17.) FM rendelet 52. § (3) bekezdése iktatta be.
 [^57]: A 23. § (15) bekezdését a 13/2017. (III. 17.) FM rendelet 52. § (3) bekezdése iktatta be.
 [^58]: A 23. § (16) bekezdését a 8/2018. (III. 29.) FM rendelet 47. § (3) bekezdése iktatta be.
+[^59]: A 23. § (17) bekezdését a 9/2018. (VII. 2.) AM rendelet 21. §-a iktatta be.
