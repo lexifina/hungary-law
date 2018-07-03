@@ -4,14 +4,14 @@ a) a 7. § (1) bekezdés c) és e) pontja szerinti támogatási jogcímek eseté
 
 b) termeléstől elválasztott támogatási jogcím esetén
 
-ba)[^8] a Kincstár nyilvántartása szerint történelmi bázis, illetve kiegészítő történelmi bázis jogosultsággal rendelkezik, vagy
+ba)[^9] a Kincstár nyilvántartása szerint történelmi bázis, illetve kiegészítő történelmi bázis jogosultsággal rendelkezik, vagy
 
-bb)[^9] családi gazdaság esetében – amennyiben a történelmi bázis, illetve kiegészítő történelmi bázis jogosultság a családi gazdaság tagjának a nevén szerepel a nyilvántartásban – a támogatásra a családi gazdálkodó akkor jogosult, ha megfelel a termeléstől elválasztott támogatásra vonatkozó egyéb feltételeknek, valamint a tárgyév szeptember 30-ig a családi gazdaság vezetője igazolja a Kincstár részére, hogy a bázis jogosultsággal rendelkező személy a családi gazdaság tagja.
+bb)[^10] családi gazdaság esetében – amennyiben a történelmi bázis, illetve kiegészítő történelmi bázis jogosultság a családi gazdaság tagjának a nevén szerepel a nyilvántartásban – a támogatásra a családi gazdálkodó akkor jogosult, ha megfelel a termeléstől elválasztott támogatásra vonatkozó egyéb feltételeknek, valamint a tárgyév szeptember 30-ig a családi gazdaság vezetője igazolja a Kincstár részére, hogy a bázis jogosultsággal rendelkező személy a családi gazdaság tagja.
 
-(2)[^10] A 7. § (1) bekezdés a), b), d) és f) pontja szerinti támogatási jogcím esetén történelmi bázis jogosultság és a 7. § (1) bekezdés a) pontja szerinti támogatási jogcím esetében kiegészítő történelmi bázis jogosultság alapján a termeléstől elválasztott támogatásra az a mezőgazdasági termelő jogosult, aki a tárgyévre vonatkozóan legalább 1 hektár támogatható területtel rendelkezik és a TIR-ben – a TIR-ben feltüntetett, az Eljárási tv. szerinti ügyfél-azonosítójával – állattartóként van nyilvántartva.
+(2)[^11] A 7. § (1) bekezdés a), b), d) és f) pontja szerinti támogatási jogcím esetén történelmi bázis jogosultság és a 7. § (1) bekezdés a) pontja szerinti támogatási jogcím esetében kiegészítő történelmi bázis jogosultság alapján a termeléstől elválasztott támogatásra az a mezőgazdasági termelő jogosult, aki a tárgyévre vonatkozóan legalább 1 hektár támogatható területtel rendelkezik és a TIR-ben – a TIR-ben feltüntetett, az Eljárási tv. szerinti ügyfél-azonosítójával – állattartóként van nyilvántartva.
 
 (3) A 7. § (1) bekezdés g) és h) pontja szerinti támogatási jogcímek esetén a támogatás a történelmi bázis jogosultság alapján, az egységes területalapú támogatás tekintetében a mezőgazdasági termelő részére megállapított támogatható terület mértékéig vehető igénybe.
 
-[^8]: A 8. § (1) bekezdés b) pont ba) alpontja a 88/2016. (XII. 29.) FM rendelet 77. § b) pontja szerint módosított szöveg.
-[^9]: A 8. § (1) bekezdés b) pont bb) alpontja a 88/2016. (XII. 29.) FM rendelet 77. § b) pontja szerint módosított szöveg.
-[^10]: A 8. § (2) bekezdése a 76/2015. (XI. 24.) FM rendelet 4. §-ával megállapított szöveg.
+[^9]: A 8. § (1) bekezdés b) pont ba) alpontja a 88/2016. (XII. 29.) FM rendelet 77. § b) pontja szerint módosított szöveg.
+[^10]: A 8. § (1) bekezdés b) pont bb) alpontja a 88/2016. (XII. 29.) FM rendelet 77. § b) pontja szerint módosított szöveg.
+[^11]: A 8. § (2) bekezdése a 76/2015. (XI. 24.) FM rendelet 4. §-ával megállapított szöveg.
