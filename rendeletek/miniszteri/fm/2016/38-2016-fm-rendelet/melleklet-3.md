@@ -1,4 +1,4 @@
-## A 2016. tárgyévre vonatkozó támogatási keret nagysága
+## A tárgyévre vonatkozó támogatási keret nagysága
 
 |  | A | B |
 

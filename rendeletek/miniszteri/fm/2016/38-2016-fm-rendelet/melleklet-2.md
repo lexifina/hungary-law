@@ -14,4 +14,4 @@
 
 2. melléklet a 38/2016. (VI. 6.) FM rendelethez[^18]
 
-[^18]: A 2. melléklet az 55/2017. (XI. 6.) FM rendelet 35. §-ával megállapított szöveg.
+[^18]: A 2. melléklet a 9/2018. (VII. 2.) AM rendelet 23. §-ával megállapított szöveg.
