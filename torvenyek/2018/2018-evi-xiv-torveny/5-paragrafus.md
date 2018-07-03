@@ -1,0 +1,1 @@
+5. § Az Országgyűlés az egyrészről az Európai Közösség és tagállamai, másrészről a Chilei Köztársaság közötti társulási megállapodáshoz a Bolgár Köztársaság és Románia Európai Unióhoz való csatlakozásának figyelembevétele céljából csatolt jegyzőkönyvet (a továbbiakban: 2. Jegyzőkönyv) e törvénnyel kihirdeti.
