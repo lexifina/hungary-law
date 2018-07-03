@@ -10,9 +10,9 @@ b) 2 hektáros vagy annál nagyobb területű táblák esetében az adott tábl�
 
 a)[^14] másodvetés hiányában nem megengedett
 
-aa) a tökre oltott dinnye két évig történő termesztése esetén a dinnye termesztése vagy a dinnye két évig történő termesztése esetén a tökre oltott dinnye termesztése, illetve
+aa) a tökre oltott dinnye két évig történő termesztését követően dinnye termesztése vagy a dinnye termesztését követően tökre oltott dinnye termesztése, illetve
 
-ab) a kukorica termesztésekor a vetőmagcélú hibridkukorica termesztése vagy vetőmagcélú hibridkukorica termesztésekor a kukorica termesztése;
+ab) a kukorica három évig történő termesztését követően vetőmagcélú hibridkukorica termesztése vagy a vetőmagcélú hibridkukorica négy évig történő termesztését követően kukorica termesztése;
 
 b)[^15] a vetésváltási szabályok teljesítése során a másodvetést is figyelembe kell venni, ha az egyazon területen valósult meg és a kedvezményezett a másodvetést az egységes kérelem rendelet szerint bejelentette;
 
@@ -37,7 +37,7 @@ d)[^17] a tökre oltott dinnye termesztése esetén a vetésváltási szabályok
 [^11]: Az 5. § (1) bekezdése a 80/2009. (VII. 3.) FVM rendelet 2. §-ával megállapított, nyitó szövegrésze a 13/2015. (III. 30.) FM rendelet 7. § e) pontja szerint módosított szöveg.
 [^12]: Az 5. § (2) bekezdését a 80/2009. (VII. 3.) FVM rendelet 5. § (3) bekezdése hatályon kívül helyezte.
 [^13]: Az 5. § (3) bekezdése a 32/2010. (III. 30.) FVM rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 29/2011. (IV. 22.) VM rendelet 7. §-a, a 13/2015. (III. 30.) FM rendelet 7. § f) pontja szerint módosított szöveg.
-[^14]: Az 5. § (3) bekezdés a) pontját a 13/2015. (III. 30.) FM rendelet 8. § a) pontja hatályon kívül helyezte, újonnan a 8/2018. (III. 29.) FM rendelet 2. §-a iktatta be.
+[^14]: Az 5. § (3) bekezdés a) pontját újonnan a 8/2018. (III. 29.) FM rendelet 2. §-a iktatta be, szövege a 9/2018. (VII. 2.) AM rendelet 4. §-ával megállapított szöveg.
 [^15]: Az 5. § (3) bekezdés b) pontja a 13/2015. (III. 30.) FM rendelet 3. §-ával megállapított szöveg.
 [^16]: Az 5. § (3) bekezdés c) pontja a 13/2015. (III. 30.) FM rendelet 3. §-ával megállapított szöveg.
 [^17]: Az 5. § (3) bekezdés d) pontját a 121/2011. (XII. 21.) VM rendelet 3. §-a iktatta be.
