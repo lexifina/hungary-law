@@ -1,6 +1,6 @@
 ## 15. Ipari zöldségnövény termesztés támogatása
 
-18. §[^102] (1) Az ipari feldolgozás céljára termesztett zöldségnövény termesztés támogatásának igénybevételére az a mezőgazdasági termelő jogosult, aki vagy amely
+18. §[^107] (1) Az ipari feldolgozás céljára termesztett zöldségnövény termesztés támogatásának igénybevételére az a mezőgazdasági termelő jogosult, aki vagy amely
 
 a) a 4., illetve a 4/a. melléklet szerinti növényt termeszt,
 
@@ -12,4 +12,4 @@ c) – a sóska és a spenót kivételével – a növényállományt rendes nö
 
 (3) Ha a mezőgazdasági termelő az étkezési célra termesztetett burgonya igénylése során olyan szaporítóanyagot használ, amely méretkategóriáját tekintve nem rendelhető hozzá a 4/a. melléklet szerinti táblázat 2–4. sorában szereplő egyes kategóriákhoz, akkor a 4/a. melléklet szerinti táblázat 5–7. sorában szereplő méretkategóriákat kell figyelembe venni.
 
-[^102]: A 18. § a 13/2017. (III. 17.) FM rendelet 25. §-ával megállapított szöveg.
+[^107]: A 18. § a 13/2017. (III. 17.) FM rendelet 25. §-ával megállapított szöveg.

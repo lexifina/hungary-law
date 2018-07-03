@@ -1,4 +1,4 @@
-## 22/I. §[^142] E rendelet 11. § (1a) bekezdését a 2016. szeptember 22-én folyamatban lévő eljárásokban is alkalmazni kell.
+## 22/I. §[^147] E rendelet 11. § (1a) bekezdését a 2016. szeptember 22-én folyamatban lévő eljárásokban is alkalmazni kell.
 
 ## 20. Az Európai Unió jogának való megfelelés
 
@@ -12,9 +12,9 @@ c) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján 
 
 d) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló, 2014. március 11-ei 640/2014/EU bizottsági felhatalmazáson alapuló rendelet,
 
-e)[^143] az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-ei 809/2014/EU bizottsági végrehajtási rendelet
+e)[^148] az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-ei 809/2014/EU bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^142]: A 22/I. §-t a 9/2018. (IV. 3.) FM rendelet 2. §-a iktatta be.
-[^143]: A 23. § e) pontja a 72/2016. (XI. 3.) FM rendelet 6. § e) pontja szerint módosított szöveg.
+[^147]: A 22/I. §-t a 9/2018. (IV. 3.) FM rendelet 2. §-a iktatta be.
+[^148]: A 23. § e) pontja a 72/2016. (XI. 3.) FM rendelet 6. § e) pontja szerint módosított szöveg.

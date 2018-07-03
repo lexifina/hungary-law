@@ -1,4 +1,4 @@
-## 16/A. [^115] Intenzív gyümölcstermesztés támogatása
+## 16/A. [^120] Intenzív gyümölcstermesztés támogatása
 
 19/A. § (1) Gyümölcstermesztés támogatása igénybevételére az a mezőgazdasági termelő jogosult,
 
@@ -16,7 +16,7 @@ cc) ültetvény esetében legalább 85%-os tőszámbeállottság, és
 
 d) aki vagy amely a b)–c) pontban foglalt feltételek teljesítéséről nyilatkozik.
 
-(2)[^116] A megyeszékhely szerinti járási hivatal a mezőgazdasági termelő megkeresésére vagy a mezőgazdasági termelő egységes kérelme alapján a Kincstár megkeresésére, a megkereséstől számított hatvan napon belül az (1) bekezdés b) és c) pontjában foglaltakról hatósági bizonyítványt állít ki, és azt egyidejűleg megküldi a mezőgazdasági termelő és a Kincstár részére.
+(2)[^121] A megyeszékhely szerinti járási hivatal a mezőgazdasági termelő megkeresésére vagy a mezőgazdasági termelő egységes kérelme alapján a Kincstár megkeresésére, a megkereséstől számított hatvan napon belül az (1) bekezdés b) és c) pontjában foglaltakról hatósági bizonyítványt állít ki, és azt egyidejűleg megküldi a mezőgazdasági termelő és a Kincstár részére.
 
 (3) A (2) bekezdésben foglalt megkeresést legkésőbb tárgyév június 30-áig lehet megtenni.
 
@@ -34,10 +34,10 @@ d) a kötelezően elvégzendő helyszíni szemle adatait, ha a szükséges adato
 
 (6) A megyeszékhely szerinti járási hivatal – az agrárigazgatási hatósági feladatai körében – az (5) bekezdés d) pontjában meghatározott helyszíni szemle lefolytatásához a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara falugazdász-hálózatának közreműködését is igénybe veheti.
 
-(7)[^117]
+(7)[^122]
 
 (8) A hektáronkénti minimális tőszám meghatározásánál a telepítési engedélyben meghatározott tőszámot kell figyelembe venni. Ha ez az adat nem áll rendelkezésre, akkor a (2) bekezdés szerinti hatósági bizonyítvány kiállításakor a területen meghatározó térállás szerint számított tőszámot kell figyelembe venni.
 
-[^115]: A 16/A. alcímet (19/A. §) a 13/2017. (III. 17.) FM rendelet 28. §-a iktatta be.
-[^116]: A 19/A. § (2) bekezdése a 8/2018. (III. 29.) FM rendelet 16. §-a szerint módosított szöveg.
-[^117]: A 19/A. § (7) bekezdését a 8/2018. (III. 29.) FM rendelet 17. §-a hatályon kívül helyezte.
+[^120]: A 16/A. alcímet (19/A. §) a 13/2017. (III. 17.) FM rendelet 28. §-a iktatta be.
+[^121]: A 19/A. § (2) bekezdése a 8/2018. (III. 29.) FM rendelet 16. §-a szerint módosított szöveg.
+[^122]: A 19/A. § (7) bekezdését a 8/2018. (III. 29.) FM rendelet 17. §-a hatályon kívül helyezte.
