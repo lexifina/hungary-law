@@ -20,22 +20,6 @@ c) Weingartner Balázs Józsefet, az Innovációs és Technológiai Minisztériu
 
 elnökévé – 2018. június 4-ei hatállyal – kinevezem.
 
-3. A 2014–2020 programozási időszak egyes operatív programjai monitoring bizottsági elnökeinek kinevezéséről szóló 21/2015. (III. 12.) ME határozat [a továbbiakban: 21/2015. (III. 12.) ME határozat]
+3–5.[^1]
 
-a) 4. pontjában a „Nemzetgazdasági Minisztérium európai uniós források felhasználásáért felelős” szövegrész helyébe a „Pénzügyminisztérium” szöveg,
-
-b) 5. pontjában a „Nemzetgazdasági Minisztérium parlamenti” szövegrész helyébe a „Pénzügyminisztérium” szöveg,
-
-c) 8. pont nyitó szövegrészében az „a Miniszterelnökség agrár-vidékfejlesztésért felelős” szövegrész helyébe az „az Agrárminisztérium” szöveg
-
-lép.
-
-4. A Versenyképes Közép-Magyarország Operatív Program monitoring bizottsága elnökének felmentéséről és a monitoring bizottság elnökének kinevezéséről szóló 73/2016. (VII. 4.) ME határozat [a továbbiakban: 73/2016. (VII. 4.) ME határozat] 1. pont b) alpontjában az „a Nemzetgazdasági Minisztérium munkaerőpiacért és képzésért felelős” szövegrész helyébe az „az Innovációs és Technológiai Minisztérium” szöveg lép.
-
-5. Visszavonom
-
-a) a 21/2015. (III. 12.) ME határozat 1. pontjában a „parlamenti” szövegrészt, 3. és 7. pontját, 8. pont b) alpontjában az „és” szövegrészt, valamint a 8. pont c) alpontját,
-
-b) a 73/2016. (VII. 4.) ME határozat 1. pont a) alpontját,
-
-c) az Integrált Közlekedésfejlesztési Operatív Program monitoring bizottsága elnökének felmentéséről és a monitoring bizottság elnökének kinevezéséről szóló 69/2017. (VI. 28.) ME határozatot.
+[^1]: A 3–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
