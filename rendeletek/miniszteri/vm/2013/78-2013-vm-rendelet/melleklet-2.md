@@ -1,4 +1,4 @@
-2. melléklet a 78/2013. (IX. 10.) VM rendelethez[^45]
+2. melléklet a 78/2013. (IX. 10.) VM rendelethez[^46]
 
 A támogatás maximális mértéke
 
@@ -112,4 +112,4 @@ A támogatás maximális mértéke
 
 | 50. | Elektronikus füljelző leolvasó | 1 000 000 |
 
-[^45]: A 2. melléklet a 22/2014. (XI. 3.) FM rendelet 8. § (2) bekezdésével megállapított, az 51/2016. (VII. 21.) FM rendelet 13. §-a szerint módosított szöveg.
+[^46]: A 2. melléklet a 22/2014. (XI. 3.) FM rendelet 8. § (2) bekezdésével megállapított, az 51/2016. (VII. 21.) FM rendelet 13. §-a szerint módosított szöveg.

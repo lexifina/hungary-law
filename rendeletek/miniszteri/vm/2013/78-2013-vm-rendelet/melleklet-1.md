@@ -12,7 +12,7 @@ A beszerzésre kerülő tenyészsertés és a sperma donor kan fajtája nagyfeh�
 
 Közvetlenül a gyártótól vagy forgalmazótól beszerzett új mérleg, amely a Sertés Teljesítményvizsgálati Kódex sajátteljesítmény-vizsgálat fejezetében előírtaknak megfelelő, rögzített vagy mobil, elektronikus, saját belső akkumulátorról is működtethető kiértékelő műszerrel ellátott 1 kg-os pontosságú állatmérleg.
 
-3. Telepi számítógép
+3.[^45] Telepi számítógép
 
 Közvetlenül a gyártótól vagy forgalmazótól beszerzett új számítógép és új nyomtató, amelyek megfelelnek az alább meghatározottaknak, azokkal egyenértékűek, azonos vagy nagyobb teljesítményre képesek.
 
@@ -21,8 +21,6 @@ Közvetlenül a gyártótól vagy forgalmazótól beszerzett új számítógép 
 – Memória: 4GB/1333 MHz DDR3
 
 – Winchester: 500 GB HDD
-
-– Optikai meghajtó: DVD író/olvasó
 
 – Monitor: 19” LCD monitor (hordozható számítógép esetében legalább 15”)
 
@@ -47,3 +45,4 @@ Közvetlenül a gyártótól vagy forgalmazótól beszerzett új eszközök a 2.
 [^42]: A 13. §-t az 55/2017. (XI. 6.) FM rendelet 10. §-a iktatta be.
 [^43]: A hatálybalépés időpontja 2017. november 7.
 [^44]: Az 1. melléklet a 22/2014. (XI. 3.) FM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^45]: Az 1. számú melléklet 3 pontja a 9/2018. (VII. 2.) AM rendelet 7. §-a szerint módosított szöveg.
