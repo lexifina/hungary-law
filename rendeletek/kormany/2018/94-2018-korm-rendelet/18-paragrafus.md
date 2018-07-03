@@ -1,4 +1,4 @@
-18. § (1) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében felel az európai politikák kialakításáért és koordinációjáért, továbbá – a külgazdasági és külügyminiszter e rendeletben meghatározott feladat- és hatáskörébe tartozó ügyek kivételével – az európai uniós kapcsolatokért.
+18. § (1)[^1] A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében felel az európai politikák kialakításáért és koordinációjáért, továbbá – a külgazdasági és külügyminiszter, valamint a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter e rendeletben meghatározott feladat- és hatáskörébe tartozó ügyek kivételével – az európai uniós kapcsolatokért.
 
 (2) A miniszter az európai uniós ügyek koordinációjáért való felelőssége keretében előkészíti az európai uniós tagsággal összefüggő kormányzati koordinációhoz kapcsolódó jogszabályokat.
 
@@ -37,3 +37,5 @@ b) ellátja az európai uniós relevanciájú külkapcsolati kérdésekkel össz
 c) elősegíti az európai uniós döntésekben érintett magyar társadalmi és gazdasági szereplők magyar kormányzati állásponttal összeegyeztethető érdekeinek képviseletét az európai uniós intézményi döntéshozatalban,
 
 d) összehangolja, illetve ellátja az európai uniós ügyekben folytatott regionális együttműködésekkel összefüggő feladatokat.
+
+[^1]: A 18. § (1) bekezdése a 115/2018. (VII. 2.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
