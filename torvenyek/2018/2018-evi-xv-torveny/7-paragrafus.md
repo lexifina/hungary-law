@@ -1,0 +1,1 @@
+7. § Az Országgyűlés az egyrészről az Európai Közösségek és azok tagállamai, másrészről az Egyiptomi Arab Köztársaság közötti társulást létrehozó euromediterrán megállapodáshoz a Horvát Köztársaság Európai Unióhoz való csatlakozásának figyelembevétele céljából csatolt jegyzőkönyvet (a továbbiakban: 3. Jegyzőkönyv) e törvénnyel kihirdeti.

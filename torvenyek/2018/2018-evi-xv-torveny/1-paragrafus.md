@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösségek és azok tagállamai, másrészről az Egyiptomi Arab Köztársaság közötti társulást létrehozó Euro-Mediterrán Megállapodást (a továbbiakban: Megállapodás) e törvénnyel kihirdeti.
