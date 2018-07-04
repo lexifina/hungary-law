@@ -1,1 +1,0 @@
-A Kormány a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény 76. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
