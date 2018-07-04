@@ -1,4 +1,4 @@
-## 1. A támogatott, a nem támogatott és a korlátozottan támogatott szakképesítések a 2018/2019-es tanévtől az iskolai rendszerű képzésben megyénként és a fővárosra lebontva
+## 1. A támogatott, a nem támogatott és a korlátozottan támogatott szakképesítések a 2018/2019. tanévtől az iskolai rendszerű képzésben megyénként és a fővárosra lebontva
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U |
 
@@ -10,7 +10,7 @@
 
 | 4 | Agrár áruforgalmazó szaktechnikus (55-621-01) | N | N | N | K | N | N | K | N | N | N | K | N | N | K | N | K | N | N | N | N |
 
-| 5 | Államháztartási mérlegképes könyvelő (55-344-02) | K | N | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N | K | N |
+| 5 | Államháztartási mérlegképes könyvelő (55-344-02) | K | N | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N |
 
 | 6 | Államháztartási ügyintéző (54-344-04) | K | N | K | K | K | K | K | K | K | K | K | K | K | K | K | N | K | K | K | N |
 
@@ -18,7 +18,7 @@
 
 | 8 | Állattenyésztő és állategészségügyi technikus (54-621-01) | K | N | K | K | N | K | K | K | N | N | K | N | N | K | K | K | K | N | N | N |
 
-| 9 | Alternatív gépjárműhajtási technikus (55-525-03) | N | N | K | K | K | K | K | K | K | K | N | N | N | K | N | N | N | N | N | N |
+| 9 | Alternatív gépjárműhajtási technikus (55-525-03) | K | N | K | K | K | K | K | K | K | K | N | N | N | K | N | N | N | N | N | N |
 
 | 10 | Ápoló (55-723-01) | K | K | T | T | K | K | T | K | K | T | T | T | T | K | T | K | T | K | T | T |
 
@@ -32,7 +32,7 @@
 
 | 15 | Audio- és vizuáltechnikai műszerész (35-522-01) | N | K | N | N | K | K | N | K | K | K | N | N | T | K | K | N | N | N | N | N |
 
-| 16 | Audiológiai asszisztens és hallásakusztikus (54-725-02) | N | N | N | K | K | K | N | N | K | N | K | N | K | K | K | K | N | K | N | N |
+| 16 | Audiológiai asszisztens és hallásakusztikus (54-725-02) | N | K | N | K | K | K | N | N | K | N | K | N | K | K | K | K | N | K | N | N |
 
 | 17 | Autóbuszvezető (35-841-01) | K | N | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
@@ -40,7 +40,7 @@
 
 | 19 | Autógyártó (34-521-01) | N | N | N | K | N | N | N | K | K | K | T | T | T | K | N | N | N | N | N | N |
 
-| 20 | Automatikai berendezés karbantartó (35-523-01) | N | N | N | K | K | K | N | K | K | K | T | N | T | K | N | N | N | K | N | K |
+| 20 | Automatikai berendezés karbantartó (35-523-01) | K | N | N | K | K | K | N | K | K | K | T | N | T | K | N | N | N | K | N | K |
 
 | 21 | Automatikai technikus (54-523-01) | K | K | K | K | K | T | K | K | K | K | T | T | T | K | K | K | N | T | N | K |
 
@@ -74,7 +74,7 @@
 
 | 36 | CAD-CAM informatikus (54-481-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 37 | Cipőkészítő (34-542-02) | T | K | N | K | T | K | N | N | K | N | K | N | T | K | K | K | K | K | N | N |
+| 37 | Cipőkészítő (34-542-02) | T | K | N | K | T | K | K | N | K | N | K | N | T | K | K | K | K | K | N | N |
 
 | 38 | CNC gépkezelő (35-521-01) | K | K | T | T | K | T | K | T | T | K | T | T | T | K | T | K | T | T | T | T |
 
@@ -90,7 +90,7 @@
 
 | 44 | Demencia gondozó (35-762-01) | N | N | K | K | K | K | N | K | K | K | K | K | K | N | K | K | N | K | N | K |
 
-| 45 | Diétás szakács (35-811-03) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N | K | K | K | N |
+| 45 | Diétás szakács (35-811-03) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N |
 
 | 46 | Díszítő festő (55-211-03) | N | K | K | K | K | N | N | K | K | N | N | N | N | K | N | K | N | K | K | N |
 
@@ -156,9 +156,9 @@
 
 | 77 | Faipari technikus (54-543-01) | K | K | N | K | K | K | K | K | K | K | K | K | T | K | K | K | N | T | T | K |
 
-| 78 | Fegyverműszerész (54-863-01) | N | N | N | N | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
+| 78 | Fegyverműszerész (54-863-01) | K | N | N | N | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
 
-| 79 | Fehérnemű-készítő és kötöttáru összeállító (34-542-03) | K | K | K | N | K | K | K | N | K | N | K | N | K | N | K | K | K | N | N | N |
+| 79 | Fehérnemű-készítő és kötöttáru összeállító (34-542-03) | K | K | K | K | K | K | K | N | K | N | K | N | K | N | K | K | K | N | N | N |
 
 | 80 | Férfiszabó (34-542-04) | K | K | K | K | K | K | K | N | K | K | K | N | T | K | T | K | T | K | N | K |
 
@@ -204,7 +204,7 @@
 
 | 101 | Gépi forgácsoló (34-521-03) | T | K | T | K | K | T | T | T | T | K | T | T | T | T | T | T | T | T | T | T |
 
-| 102 | Gépjármű mechatronikus (34-525-02) | T | N | K | K | K | K | N | K | K | K | K | T | T | K | K | N | N | N | N | N |
+| 102 | Gépjármű mechatronikus (34-525-02) | T | N | K | K | K | K | N | K | K | K | K | T | T | K | K | N | K | N | N | N |
 
 | 103 | Gépjármű-építési, szerelési logisztikus (34-841-01) | T | N | N | K | K | K | N | K | K | N | K | N | N | K | N | N | N | N | N | N |
 
@@ -214,11 +214,11 @@
 
 | 106 | Gerontológiai gondozó (55-762-02) | N | N | K | K | K | K | K | K | K | N | K | K | K | K | K | K | K | N | N | N |
 
-| 107 | Grafikus (54-211-04) | K | K | K | K | K | K | K | K | K | K | K | K | N | K | K | K | N | K | K | N |
+| 107 | Grafikus (54-211-04) | K | K | K | K | K | K | K | K | K | K | K | K | N | K | K | K | K | K | K | N |
 
 | 108 | Gumiipari technikus (54-543-02) | N | N | N | K | K | K | K | K | K | K | N | K | N | K | N | K | N | N | N | N |
 
-| 109 | Gyakorlatos színész (a szakmairány megjelölésével) (54-212-03) | N | N | K | N | K | N | N | N | N | N | N | N | N | N | N | K | N | N | N | N |
+| 109 | Gyakorlatos színész (a szakmairány megjelölésével) (54-212-03) | K | N | K | N | K | N | N | N | N | N | N | N | N | N | N | K | N | N | N | N |
 
 | 110 | Gyakorló ápoló (54-723-02) | K | K | T | K | K | K | T | K | K | T | K | K | T | K | T | K | T | K | T | T |
 
@@ -276,7 +276,7 @@
 
 | 137 | Hűtő-, klíma- és hőszivattyú berendezés-szerelő (35-582-03) | K | K | K | K | K | K | K | K | T | K | K | T | K | K | K | K | N | K | K | K |
 
-| 138 | Idegenvezető (54-812-01) | K | K | N | K | K | K | K | K | K | K | K | K | K | K | K | N | K | N | K | K |
+| 138 | Idegenvezető (54-812-01) | K | K | N | K | K | K | K | K | K | K | K | K | K | K | K | N | K | K | K | K |
 
 | 139 | Idegennyelvű ipari és kereskedelmi ügyintéző (54-347-01) | N | N | K | K | K | K | K | K | K | K | K | N | K | K | K | K | N | N | N | N |
 
@@ -298,7 +298,7 @@
 
 | 148 | Járműipari fémalkatrész-gyártó (34-521-07) | N | N | K | K | K | N | K | K | T | N | N | K | T | K | N | K | N | K | N | N |
 
-| 149 | Járműipari karbantartó technikus (55-523-07) | N | N | K | K | K | N | K | K | K | N | K | K | N | K | N | K | N | K | N | N |
+| 149 | Járműipari karbantartó technikus (55-523-07) | N | N | K | K | K | N | K | K | K | K | K | K | N | K | N | K | N | K | N | N |
 
 | 150 | Járműkarosszéria előkészítő, felületbevonó (34-525-04) | T | N | N | K | K | N | N | K | K | N | K | K | T | K | N | K | N | N | N | N |
 
@@ -312,7 +312,7 @@
 
 | 155 | Jelmeztervező (55-211-05) | N | N | N | K | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
 
-| 156 | Kardiológiai és angiológiai asszisztens (54-725-06) | N | N | K | K | K | K | K | K | K | N | K | K | K | K | K | K | N | K | N | N |
+| 156 | Kardiológiai és angiológiai asszisztens (54-725-06) | N | K | K | K | K | K | K | K | K | N | K | K | K | K | K | K | N | K | N | N |
 
 | 157 | Karosszérialakatos (34-525-06) | T | K | K | K | K | K | K | K | K | T | T | T | T | K | T | K | T | K | K | T |
 
@@ -322,7 +322,7 @@
 
 | 160 | Kerámiaműves (54-211-05) | N | K | K | K | K | K | K | N | K | N | N | N | N | K | K | K | N | N | N | N |
 
-| 161 | Kereskedelmi képviselő (54-341-02) | K | N | N | K | K | K | K | K | K | N | K | K | K | K | N | K | N | N | N | N |
+| 161 | Kereskedelmi képviselő (54-341-02) | K | N | N | K | K | K | K | K | K | N | K | K | K | K | N | K | N | K | N | N |
 
 | 162 | Kereskedő (54-341-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
@@ -332,9 +332,9 @@
 
 | 165 | Kiadványszerkesztő technikus (54-213-06) | K | N | K | K | K | K | N | K | K | K | N | N | K | K | K | N | N | N | N | N |
 
-| 166 | Kis- és középvállalkozások ügyvezetője I (35-345-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 166 | Kis- és középvállalkozások ügyvezetője I. (35-345-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 167 | Kis- és középvállalkozások ügyvezetője II (55-345-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 167 | Kis- és középvállalkozások ügyvezetője II. (55-345-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
 | 168 | Kisgyermekgondozó, -nevelő (54-761-02) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
@@ -346,9 +346,9 @@
 
 | 172 | Klasszikus zenész II. (a szakmairány megnevezésével) (54-212-05) | K | K | K | K | K | K | K | K | K | N | N | N | N | K | N | K | N | K | K | N |
 
-| 173 | Klinikai fogászati higiénikus (55-725-11) | N | N | N | N | K | N | K | N | K | N | K | N | N | N | K | N | N | N | N | N |
+| 173 | Klinikai fogászati higiénikus (55-725-11) | N | N | N | K | K | N | K | N | K | N | K | N | N | N | K | N | N | N | N | N |
 
-| 174 | Klinikai laboratóriumi szakasszisztens (55-725-18) | N | K | N | N | K | K | N | K | K | K | K | K | K | K | K | N | N | K | N | K |
+| 174 | Klinikai laboratóriumi szakasszisztens (55-725-18) | N | K | N | K | K | K | N | K | K | K | K | K | K | K | K | N | N | K | N | K |
 
 | 175 | Klinikai neurofiziológiai asszisztens (54-725-07) | N | N | N | N | K | K | N | K | K | N | K | K | K | K | K | N | N | N | N | N |
 
@@ -360,7 +360,7 @@
 
 | 179 | Kozmetikus (54-815-02) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 180 | Kőfaragó, műköves és épületszobrász (34-582-07) | N | N | K | K | K | N | K | K | K | K | K | K | K | K | K | N | N | K | N | N |
+| 180 | Kőfaragó, műköves és épületszobrász (34-582-07) | N | K | K | K | K | N | K | K | K | K | K | K | K | K | K | N | N | K | N | N |
 
 | 181 | Kőműves (34-582-14) | K | K | K | K | K | T | K | K | K | T | T | T | T | K | T | K | T | T | T | K |
 
@@ -382,7 +382,7 @@
 
 | 190 | Látszerész és optikai árucikk-kereskedő (54-725-08) | N | N | N | N | K | N | N | K | K | N | N | K | N | K | N | K | N | N | N | N |
 
-| 191 | Légi közlekedésüzemvitel-ellátó (54-841-03) | N | N | N | N | K | N | N | K | K | N | N | N | N | N | N | N | N | N | N | N |
+| 191 | Légi közlekedésüzemvitel-ellátó (54-841-03) | N | N | N | N | K | N | N | K | K | N | N | N | N | K | N | N | N | N | N | N |
 
 | 192 | Létesítményi energetikus (55-582-01) | N | N | K | K | K | K | K | K | K | N | K | N | N | K | N | K | K | N | N | K |
 
@@ -402,259 +402,261 @@
 
 | 200 | Mentálhigiénés asszisztens (55-762-03) | N | N | K | N | K | K | N | K | K | N | K | K | K | N | K | K | K | N | N | N |
 
-| 201 | Mentőápoló (55-723-11) | K | K | K | T | K | K | K | K | K | K | K | K | T | K | T | T | K | K | N | K |
+| 201 | Mentésirányító (55-723-17) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 202 | Mezőgazdasági gépész (34-521-08) | K | K | K | K | N | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N |
+| 202 | Mentőápoló (55-723-11) | K | K | K | T | K | K | K | K | K | K | K | K | T | K | T | T | K | K | N | K |
 
-| 203 | Mezőgazdasági gépésztechnikus (54-521-05) | K | K | K | K | N | K | K | K | K | K | K | N | K | K | K | K | K | K | K | N |
+| 203 | Mezőgazdasági gépész (34-521-08) | K | K | K | K | N | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N |
 
-| 204 | Mezőgazdasági gépjavító (35-521-02) | K | K | K | K | N | K | K | K | K | K | K | T | T | K | K | K | K | K | K | N |
+| 204 | Mezőgazdasági gépésztechnikus (54-521-05) | K | K | K | K | N | K | K | K | K | K | K | N | K | K | K | K | K | K | K | N |
 
-| 205 | Mezőgazdasági technikus (54-621-02) | K | K | K | K | N | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N |
+| 205 | Mezőgazdasági gépjavító (35-521-02) | K | K | K | K | N | K | K | K | K | K | K | T | T | K | K | K | K | K | K | N |
 
-| 206 | Mobilalkalmazás fejlesztő (55-213-04) | N | N | K | K | K | K | N | K | K | K | K | N | N | K | K | N | N | N | N | N |
+| 206 | Mezőgazdasági technikus (54-621-02) | K | K | K | K | N | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N |
 
-| 207 | Molnár (34-541-04) | N | N | N | N | N | N | K | N | N | N | K | N | N | N | N | N | N | N | N | N |
+| 207 | Mobilalkalmazás fejlesztő (55-213-04) | N | N | K | K | K | K | N | K | K | K | K | N | N | K | K | N | N | N | N | N |
 
-| 208 | Motorkerékpár-szerelő (34-525-07) | K | N | K | K | K | K | N | K | K | N | K | K | K | K | N | N | K | N | N | K |
+| 208 | Molnár (34-541-04) | N | N | N | N | N | N | K | N | N | N | K | N | N | N | N | N | N | N | N | N |
 
-| 209 | Mozgókép- és animációkészítő (54-213-03) | N | N | N | K | K | N | K | N | K | K | N | N | N | K | K | N | N | K | N | N |
+| 209 | Motorkerékpár-szerelő (34-525-07) | K | N | K | K | K | K | N | K | K | N | K | K | K | K | N | N | K | N | N | K |
 
-| 210 | Multimédia-alkalmazásfejlesztő (55-213-05) | N | N | K | K | K | K | N | K | K | K | K | N | K | K | K | N | N | N | N | N |
+| 210 | Mozgókép- és animációkészítő (54-213-03) | N | N | N | K | K | N | K | N | K | K | N | N | N | K | K | N | N | K | N | N |
 
-| 211 | Műanyagfeldolgozó (34-521-09) | K | T | K | K | K | K | K | K | K | T | T | T | T | K | T | K | N | K | K | N |
+| 211 | Multimédia-alkalmazásfejlesztő (55-213-05) | N | N | K | K | K | K | N | K | K | K | K | N | K | K | K | N | N | N | N | N |
 
-| 212 | Műanyagfeldolgozó technikus (54-521-06) | N | K | N | K | K | K | K | K | K | N | T | T | T | K | K | K | N | N | K | N |
+| 212 | Műanyagfeldolgozó (34-521-09) | K | T | K | K | K | K | K | K | K | T | T | T | T | K | T | K | N | K | K | N |
 
-| 213 | Műbútorasztalos (35-543-01) | N | N | N | N | K | K | K | K | K | N | K | K | K | K | K | N | N | K | K | N |
+| 213 | Műanyagfeldolgozó technikus (54-521-06) | N | K | N | K | K | K | K | K | K | N | T | T | T | K | K | K | N | N | K | N |
 
-| 214 | Műemlékfenntartó technikus (55-582-02) | N | K | N | N | K | K | N | K | K | N | N | N | N | N | K | K | N | N | K | N |
+| 214 | Műbútorasztalos (35-543-01) | N | N | N | N | K | K | K | K | K | N | K | K | K | K | K | K | K | K | K | N |
 
-| 215 | Műemléki díszítőszobrász (35-582-04) | N | N | N | N | K | N | K | K | K | N | N | N | N | N | K | N | N | N | N | N |
+| 215 | Műemlékfenntartó technikus (55-582-02) | N | K | N | N | K | K | N | K | K | N | N | N | N | N | K | K | N | N | K | N |
 
-| 216 | Műemléki helyreállító (35-582-05) | N | K | N | N | K | N | N | K | K | N | N | N | N | N | K | N | N | N | N | N |
+| 216 | Műemléki díszítőszobrász (35-582-04) | N | N | N | N | K | N | K | K | K | N | N | N | N | N | K | N | N | N | N | N |
 
-| 217 | Műszaki informatikus (54-481-05) | K | N | K | K | K | K | K | K | K | T | T | K | T | K | T | K | N | K | T | K |
+| 217 | Műemléki helyreállító (35-582-05) | N | K | N | N | K | N | N | K | K | N | N | N | N | N | K | N | N | N | N | N |
 
-| 218 | Műszeres analitikus (55-524-03) | N | N | N | N | K | K | N | N | K | N | K | N | N | K | N | K | N | N | K | N |
+| 218 | Műszaki informatikus (54-481-05) | K | N | K | K | K | K | K | K | K | T | T | K | T | K | T | K | N | K | T | K |
 
-| 219 | Művészeti és médiafotográfus (54-211-10) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 219 | Műszeres analitikus (55-524-03) | N | N | N | N | K | K | N | N | K | N | K | N | N | K | N | K | N | N | K | N |
 
-| 220 | Népi kézműves (a szakmairány megjelölésével) (34-215-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 220 | Művészeti és médiafotográfus (54-211-10) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 221 | Népzenész I. (a szakmairány megjelölésével) (55-212-06) | N | N | K | K | K | N | K | N | K | N | N | N | N | K | N | K | N | K | N | N |
+| 221 | Népi kézműves (a szakmairány megjelölésével) (34-215-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 222 | Népzenész II. (a szakmairány megjelölésével) (54-212-06) | N | N | K | K | K | N | K | N | K | N | N | N | N | K | N | K | N | K | N | N |
+| 222 | Népzenész I. (a szakmairány megjelölésével) (55-212-06) | N | N | K | K | K | N | K | N | K | N | N | N | N | K | N | K | N | K | N | N |
 
-| 223 | Női szabó (34-542-06) | K | T | T | K | K | T | K | K | K | K | T | T | T | T | T | K | T | T | T | K |
+| 223 | Népzenész II. (a szakmairány megjelölésével) (54-212-06) | N | N | K | K | K | N | K | N | K | N | N | N | N | K | N | K | N | K | N | N |
 
-| 224 | Növényvédelmi szaktechnikus (55-621-02) | N | N | K | K | N | K | N | N | K | N | K | N | N | K | K | K | K | N | K | N |
+| 224 | Női szabó (34-542-06) | K | T | T | K | K | T | K | K | K | K | T | T | T | T | T | K | T | T | T | K |
 
-| 225 | Nukleáris környezetvédelmi szaktechnikus (55-850-03) | N | N | N | N | N | N | N | N | N | N | N | N | N | N | K | N | N | N | N | N |
+| 225 | Növényvédelmi szaktechnikus (55-621-02) | N | N | K | K | N | K | N | N | K | N | K | N | N | K | K | K | K | N | K | N |
 
-| 226 | Nyomdaipari technikus (54-213-07) | K | N | T | K | K | K | N | N | T | K | N | N | K | K | N | N | T | N | N | K |
+| 226 | Nukleáris környezetvédelmi szaktechnikus (55-850-03) | N | N | N | N | N | N | N | N | N | N | N | N | N | N | K | N | N | N | N | N |
 
-| 227 | Optikai üvegcsiszoló (34-725-01) | N | N | N | N | K | N | N | N | K | N | N | N | N | N | N | K | N | N | N | N |
+| 227 | Nyomdaipari technikus (54-213-07) | K | N | T | K | K | K | N | N | T | K | N | N | K | K | N | N | T | N | N | K |
 
-| 228 | Ortopédiai műszerész (54-726-02) | K | N | N | N | K | N | N | N | K | N | N | N | N | N | K | N | N | K | N | N |
+| 228 | Optikai üvegcsiszoló (34-725-01) | N | N | N | N | K | N | N | N | K | N | N | N | N | N | N | K | N | N | N | N |
 
-| 229 | Orvosi elektronikai technikus (55-523-04) | N | N | N | N | K | K | K | N | K | N | N | N | N | N | K | N | N | N | N | N |
+| 229 | Ortopédiai műszerész (54-726-02) | K | N | N | N | K | N | N | N | K | N | N | N | N | N | K | N | N | K | N | N |
 
-| 230 | Ötvös (54-211-06) | N | K | N | K | K | N | N | K | K | N | N | N | N | N | N | K | N | K | N | N |
+| 230 | Orvosi elektronikai technikus (55-523-04) | N | N | N | N | K | K | K | N | K | N | N | N | N | N | K | N | N | N | N | N |
 
-| 231 | Pantomimes (54-212-07) | N | N | N | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
+| 231 | Ötvös (54-211-06) | N | K | N | K | K | N | N | K | K | N | N | N | N | N | N | K | N | K | N | N |
 
-| 232 | Papíripari technikus (55-524-04) | N | N | N | K | K | N | N | N | K | N | K | T | K | K | N | N | N | N | N | N |
+| 232 | Pantomimes (54-212-07) | N | N | N | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
 
-| 233 | Parképítő és fenntartó technikus (54-581-02) | K | K | K | K | K | K | K | K | K | N | K | K | N | K | N | K | N | K | K | N |
+| 233 | Papíripari technikus (55-524-04) | N | N | N | K | K | N | N | N | K | N | K | T | K | K | N | N | N | N | N | N |
 
-| 234 | Patkolókovács (35-521-03) | K | N | K | N | N | N | N | N | N | N | N | K | N | N | N | N | N | N | N | N |
+| 234 | Parképítő és fenntartó technikus (54-581-02) | K | K | K | K | K | K | K | K | K | N | K | K | N | K | N | K | N | K | K | N |
 
-| 235 | Pedagógiai- és családsegítő munkatárs (54-140-02) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 235 | Patkolókovács (35-521-03) | K | N | K | N | N | N | N | N | N | N | N | K | N | N | N | N | N | N | N | N |
 
-| 236 | Pék (34-541-05) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 236 | Pedagógiai- és családsegítő munkatárs (54-140-02) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 237 | Pénzügyi termékértékesítő (bank, befektetés, biztosítás) (54-343-01) | N | N | K | K | K | K | K | K | K | K | N | N | K | K | K | N | K | K | N | N |
+| 237 | Pék (34-541-05) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 238 | Pénzügyi-számviteli ügyintéző (54-344-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 238 | Pénzügyi termékértékesítő (bank, befektetés, biztosítás) (54-343-01) | N | N | K | K | K | K | K | K | K | K | N | N | K | K | K | N | K | K | N | N |
 
-| 239 | Perioperatív asszisztens (54-720-04) | K | N | N | K | K | K | K | K | K | N | N | N | K | K | K | K | K | N | N | N |
+| 239 | Pénzügyi-számviteli ügyintéző (54-344-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 240 | Pincér (34-811-03) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 240 | Perioperatív asszisztens (54-720-04) | K | N | N | K | K | K | K | K | K | N | N | N | K | K | K | K | K | N | N | N |
 
-| 241 | Postai üzleti ügyintéző (54-841-09) | K | K | K | K | K | K | N | K | K | N | K | N | K | K | K | K | K | K | N | N |
+| 241 | Pincér (34-811-03) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 242 | Pszichiátriai gondozó (55-762-04) | N | N | K | N | K | K | N | N | K | N | K | N | K | N | K | K | N | N | N | N |
+| 242 | Postai üzleti ügyintéző (54-841-09) | K | K | K | K | K | K | N | K | K | N | K | N | K | K | K | K | K | K | N | N |
 
-| 243 | Radiográfiai asszisztens (54-725-09) | K | N | K | N | K | K | N | K | K | N | K | N | K | K | K | K | K | K | N | N |
+| 243 | Pszichiátriai gondozó (55-762-04) | N | N | K | N | K | K | N | N | K | N | K | N | K | N | K | K | N | N | N | N |
 
-| 244 | Rehabilitációs nevelő, segítő (54-762-01) | N | N | N | K | K | K | N | K | K | N | K | N | K | K | K | K | K | N | N | N |
+| 244 | Radiográfiai asszisztens (54-725-09) | K | K | K | K | K | K | N | K | K | N | K | N | K | K | K | K | K | K | N | N |
 
-| 245 | Rekonstrukciós és műemléki festő, mázoló (35-582-06) | N | K | N | N | K | N | N | K | K | N | N | N | N | K | K | N | N | K | N | N |
+| 245 | Rehabilitációs nevelő, segítő (54-762-01) | N | N | N | K | K | K | N | K | K | N | K | N | K | K | K | K | K | N | N | N |
 
-| 246 | Rendészeti őr (34-861-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 246 | Rekonstrukciós és műemléki festő, mázoló (35-582-06) | N | K | N | N | K | N | N | K | K | N | N | N | N | K | K | N | N | K | N | N |
 
-| 247 | Repülőgép-szerelő (54-525-10) | K | N | N | N | K | N | N | N | K | N | K | N | N | K | N | N | N | N | N | N |
+| 247 | Rendészeti őr (34-861-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 248 | Ruhaipari technikus (54-542-02) | K | N | N | K | K | K | K | N | K | N | K | N | T | N | K | K | K | T | K | N |
+| 248 | Repülőgép-szerelő (54-525-10) | K | N | N | N | K | N | N | N | K | N | K | N | N | K | N | N | N | N | N | N |
 
-| 249 | Sommelier (35-811-01) | N | K | K | K | K | N | N | K | N | N | N | N | N | N | N | N | N | N | N | N |
+| 249 | Ruhaipari technikus (54-542-02) | K | N | N | K | K | K | K | N | K | N | K | N | T | N | K | K | K | T | K | N |
 
-| 250 | Speciális állatfeldolgozó (35-541-01) | N | N | N | N | K | N | N | N | K | N | N | N | N | N | K | N | N | N | N | N |
+| 250 | Sommelier (35-811-01) | N | K | K | K | K | N | N | K | N | N | N | N | N | N | N | N | N | N | N | N |
 
-| 251 | Sportedző (a sportág megjelölésével) (54-813-02) | K | N | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N | N | K |
+| 251 | Speciális állatfeldolgozó (35-541-01) | N | N | N | N | K | N | N | N | K | N | N | N | N | N | K | N | N | N | N | N |
 
-| 252 | Sportmasszőr (55-726-02) | K | N | K | K | K | K | K | K | N | K | K | K | K | K | K | K | K | K | N | N |
+| 252 | Sportedző (a sportág megjelölésével) (54-813-02) | K | N | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N | N | K |
 
-| 253 | Sütő- és cukrászipari szaktechnikus (55-541-06) | K | N | N | N | K | K | K | N | N | N | K | K | N | K | K | K | N | K | N | N |
+| 253 | Sportmasszőr (55-726-02) | K | N | K | K | K | K | K | K | N | K | K | K | K | K | K | K | K | K | N | N |
 
-| 254 | Szakács (34-811-04) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 254 | Sütő- és cukrászipari szaktechnikus (55-541-06) | K | N | N | N | K | K | K | N | N | N | K | K | N | K | K | K | N | K | N | N |
 
-| 255 | Szakközépiskolában folyó kétéves érettségi vizsgára felkészítő kétéves képzés | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T |
+| 255 | Szakács (34-811-04) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 256 | Számítógép-szerelő, karbantartó (34-523-02) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 256 | Szakközépiskolában folyó kétéves érettségi vizsgára felkészítő kétéves képzés | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T | T |
 
-| 257 | Szárazépítő (34-582-10) | K | K | K | K | K | K | K | K | K | K | K | T | T | K | K | K | K | K | N | K |
+| 257 | Számítógép-szerelő, karbantartó (34-523-02) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 258 | Szenvedélybeteg gondozó (55-762-05) | N | N | K | N | K | K | N | N | K | N | K | N | K | N | K | K | N | N | N | N |
+| 258 | Szárazépítő (34-582-10) | K | K | K | K | K | K | K | K | K | K | K | T | T | K | K | K | K | K | N | K |
 
-| 259 | Szerszámkészítő (34-521-10) | K | N | T | K | T | T | T | K | T | K | T | T | T | K | T | K | T | T | T | T |
+| 259 | Szenvedélybeteg gondozó (55-762-05) | N | N | K | N | K | K | N | N | K | N | K | N | K | N | K | K | N | N | N | N |
 
-| 260 | Színész (55-212-01) | N | N | K | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
+| 260 | Szerszámkészítő (34-521-10) | K | N | T | K | T | T | T | K | T | K | T | T | T | K | T | K | T | T | T | T |
 
-| 261 | Színháztechnikus, szcenikus (54-521-07) | N | N | K | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
+| 261 | Színész (55-212-01) | K | N | K | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
 
-| 262 | Színpad- és porond technikus (54-521-08) | N | N | K | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
+| 262 | Színháztechnikus, szcenikus (54-521-07) | N | N | K | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
 
-| 263 | Színpadi fénytervező (55-521-02) | N | N | K | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
+| 263 | Színpad- és porond technikus (54-521-08) | N | N | K | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
 
-| 264 | Színpadi magasépítő (55-521-03) | N | N | K | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
+| 264 | Színpadi fénytervező (55-521-02) | N | N | K | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
 
-| 265 | Szobrász (54-211-07) | N | K | N | N | K | K | K | K | K | N | N | N | N | N | K | N | N | K | N | N |
+| 265 | Színpadi magasépítő (55-521-03) | N | N | K | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
 
-| 266 | Szociális asszisztens (54-762-02) | K | N | N | K | K | K | N | K | K | K | K | K | K | K | K | K | K | N | K | N |
+| 266 | Szobrász (54-211-07) | N | K | N | N | K | K | K | K | K | N | N | N | N | N | K | N | N | K | N | N |
 
-| 267 | Szociális gondozó és ápoló (34-762-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 267 | Szociális asszisztens (54-762-02) | K | K | K | K | K | K | N | K | K | K | K | K | K | K | K | K | K | N | K | N |
 
-| 268 | Szociális szakgondozó (54-762-03) | N | K | K | K | K | K | N | K | K | N | K | K | K | K | K | K | K | K | N | N |
+| 268 | Szociális gondozó és ápoló (34-762-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 269 | Szociális, gyermek- és ifjúságvédelmi ügyintéző (55-762-06) | N | N | K | K | K | K | K | K | K | N | K | K | K | K | K | K | K | N | N | N |
+| 269 | Szociális szakgondozó (54-762-03) | N | K | K | K | K | K | N | K | K | N | K | K | K | K | K | K | K | K | N | N |
 
-| 270 | Szoftverfejlesztő (54-213-05) | K | K | K | K | K | K | T | K | K | K | K | T | T | K | T | K | T | K | K | K |
+| 270 | Szociális, gyermek- és ifjúságvédelmi ügyintéző (55-762-06) | N | N | K | K | K | K | K | K | K | N | K | K | K | K | K | K | K | N | N | N |
 
-| 271 | Szórakoztató zenész I. (a szakmairány megjelölésével) (55-212-07) | N | N | K | N | K | N | N | K | N | N | N | N | N | N | N | N | N | N | N | N |
+| 271 | Szoftverfejlesztő (54-213-05) | K | K | K | K | K | K | T | K | K | K | K | T | T | K | T | K | T | K | K | K |
 
-| 272 | Szórakoztató zenész II. (a szakmairány megjelölésével) (54-212-08) | N | N | K | N | K | N | N | K | N | N | N | N | N | N | N | N | N | N | N | N |
+| 272 | Szórakoztató zenész I. (a szakmairány megjelölésével) (55-212-07) | N | N | K | N | K | N | N | K | N | N | N | N | N | N | N | N | N | N | N | N |
 
-| 273 | Szőlész-borász (34-541-06) | K | K | N | K | K | N | N | K | N | K | N | N | N | N | K | N | K | N | K | N |
+| 273 | Szórakoztató zenész II. (a szakmairány megjelölésével) (54-212-08) | N | N | K | N | K | N | N | K | N | N | N | N | N | N | N | N | N | N | N | N |
 
-| 274 | Szövettani szakasszisztens (55-725-21) | N | N | K | K | K | K | N | N | K | N | N | N | N | K | K | N | N | N | N | N |
+| 274 | Szőlész-borász (34-541-06) | K | K | N | K | K | N | N | K | N | K | N | N | N | N | K | N | K | N | K | N |
 
-| 275 | Táncos I. (a szakmairány megjelölésével) (55-212-08) | K | K | K | K | K | K | K | K | K | N | N | N | N | K | N | K | N | N | N | N |
+| 275 | Szövettani szakasszisztens (55-725-21) | N | N | K | K | K | K | N | N | K | N | N | N | N | K | K | N | N | N | N | N |
 
-| 276 | Táncos II. (a szakmairány megjelölésével) (54-212-09) | K | K | K | K | K | K | K | K | K | N | N | N | N | K | N | K | N | N | N | N |
+| 276 | Táncos I. (a szakmairány megjelölésével) (55-212-08) | K | K | K | K | K | K | K | K | K | N | N | N | N | K | N | K | N | N | N | N |
 
-| 277 | Tartósítóipari szakmunkás (34-541-09) | K | N | K | K | K | K | N | N | N | N | N | N | N | K | N | K | N | N | N | N |
+| 277 | Táncos II. (a szakmairány megjelölésével) (54-212-09) | K | K | K | K | K | K | K | K | K | N | N | N | N | K | N | K | N | N | K | N |
 
-| 278 | Tartósítóipari szaktechnikus (55-541-07) | N | N | N | N | K | N | N | N | N | N | N | N | N | K | N | N | N | N | N | N |
+| 278 | Tartósítóipari szakmunkás (34-541-09) | K | N | K | K | K | K | N | N | N | N | N | N | N | K | N | K | N | N | N | N |
 
-| 279 | Távközlési technikus (54-523-05) | N | N | N | K | K | K | K | N | K | N | K | N | K | K | K | N | N | N | N | K |
+| 279 | Tartósítóipari szaktechnikus (55-541-07) | N | N | N | N | K | N | N | N | N | N | N | N | N | K | N | N | N | N | N | N |
 
-| 280 | Tehergépkocsi-vezető (35-841-02) | K | N | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 280 | Távközlési technikus (54-523-05) | N | N | N | K | K | K | K | N | K | N | K | N | K | K | K | N | N | N | N | K |
 
-| 281 | Tejipari szakmunkás (34-541-10) | K | N | K | K | K | K | K | K | N | K | N | N | T | K | K | K | K | K | N | N |
+| 281 | Tehergépkocsi-vezető (35-841-02) | K | N | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 282 | Tejipari szaktechnikus (55-541-08) | N | N | N | N | K | N | N | N | T | N | N | N | N | N | N | N | N | N | N | N |
+| 282 | Tejipari szakmunkás (34-541-10) | K | N | K | K | K | K | K | K | N | K | N | N | T | K | K | K | K | K | N | N |
 
-| 283 | Települési környezetvédelmi szaktechnikus (55-850-04) | K | N | N | K | K | N | N | N | K | N | K | N | T | N | K | N | N | N | N | N |
+| 283 | Tejipari szaktechnikus (55-541-08) | N | N | N | N | K | N | N | N | T | N | N | N | N | N | N | N | N | N | N | N |
 
-| 284 | Térinformatikus (55-481-01) | N | N | K | K | K | K | N | N | K | N | K | N | N | K | K | K | N | N | N | N |
+| 284 | Települési környezetvédelmi szaktechnikus (55-850-04) | K | N | N | K | K | N | N | N | K | N | K | N | T | N | K | N | N | N | N | N |
 
-| 285 | Térképész szaktechnikus (55-581-03) | N | N | N | N | K | N | N | N | K | N | N | N | N | K | K | N | N | K | N | N |
+| 285 | Térinformatikus (55-481-01) | N | N | K | K | K | K | N | N | K | N | K | N | N | K | K | K | N | N | N | N |
 
-| 286 | Természetvédelmi szaktechnikus (55-850-05) | K | N | N | K | K | N | N | K | K | N | N | N | T | N | K | N | N | N | N | N |
+| 286 | Térképész szaktechnikus (55-581-03) | N | N | N | N | K | N | N | N | K | N | N | N | N | K | K | N | N | K | N | N |
 
-| 287 | Tetőfedő (34-582-15) | K | K | K | K | K | K | K | K | K | K | K | T | T | K | K | K | N | K | K | K |
+| 287 | Természetvédelmi szaktechnikus (55-850-05) | K | N | N | K | K | N | N | K | K | N | N | N | T | N | K | N | N | N | N | N |
 
-| 288 | Textilipari technikus (54-542-03) | K | N | N | K | K | N | N | N | K | N | K | N | T | K | K | N | N | N | N | N |
+| 288 | Tetőfedő (34-582-15) | K | K | K | K | K | K | K | K | K | K | K | T | T | K | K | K | N | K | K | K |
 
-| 289 | Textilműves (54-211-08) | N | K | K | K | K | K | K | K | K | K | N | N | N | K | K | K | N | K | N | N |
+| 289 | Textilipari technikus (54-542-03) | K | N | N | K | K | N | N | N | K | N | K | N | T | K | K | N | N | N | N | N |
 
-| 290 | Turisztikai szervező, értékesítő (54-812-03) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 290 | Textilműves (54-211-08) | N | K | K | K | K | K | K | K | K | K | N | N | N | K | K | K | N | K | N | N |
 
-| 291 | Útépítő (34-582-11) | N | N | K | K | T | K | K | K | K | K | T | K | T | K | K | N | N | N | N | N |
+| 291 | Turisztikai szervező, értékesítő (54-812-03) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 292 | Útépítő és -fenntartó technikus (54-582-05) | N | N | K | K | K | N | K | K | K | N | K | N | T | K | N | K | N | N | N | N |
+| 292 | Útépítő (34-582-11) | N | N | K | K | T | K | K | K | K | K | T | K | T | K | K | N | N | N | N | N |
 
-| 293 | Üvegműves (54-211-09) | N | N | N | N | K | N | N | K | N | N | N | N | N | N | K | K | N | N | K | N |
+| 293 | Útépítő és -fenntartó technikus (54-582-05) | N | N | K | K | K | N | K | K | K | N | K | N | T | K | N | K | N | N | N | N |
 
-| 294 | Üzleti szolgáltatási munkatárs (54-340-01) | N | N | K | K | K | K | N | K | K | N | K | N | K | K | K | N | N | N | N | N |
+| 294 | Üvegműves (54-211-09) | N | N | N | N | K | N | N | K | N | N | N | N | N | N | K | K | N | N | K | N |
 
-| 295 | Vadászpuska műves (55-863-02) | N | N | N | N | K | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
+| 295 | Üzleti szolgáltatási munkatárs (54-340-01) | K | N | K | K | K | K | N | K | K | N | K | N | K | K | K | N | N | N | N | N |
 
-| 296 | Vadgazdálkodási technikus (54-625-01) | N | N | N | N | N | K | N | N | K | K | N | N | N | K | K | K | N | K | N | N |
+| 296 | Vadászpuska műves (55-863-02) | N | N | N | N | K | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
 
-| 297 | Vállalkozási és bérügyintéző (54-344-02) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N | K | K | K | N |
+| 297 | Vadgazdálkodási technikus (54-625-01) | N | N | N | N | N | K | N | N | K | K | N | N | N | K | K | K | N | K | N | N |
 
-| 298 | Vállalkozási mérlegképes könyvelő (55-344-07) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N | K | K |
+| 298 | Vállalkozási és bérügyintéző (54-344-02) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N | K | K | K | N |
 
-| 299 | Vám-, jövedéki- és termékdíj ügyintéző (54-344-03) | N | K | K | K | K | K | K | K | K | N | K | N | K | K | K | K | N | N | N | N |
+| 299 | Vállalkozási mérlegképes könyvelő (55-344-07) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 300 | Vasútépítő és -fenntartó technikus (54-582-06) | N | N | K | K | K | N | K | K | K | N | N | N | N | N | N | K | N | K | N | N |
+| 300 | Vám-, jövedéki- és termékdíj ügyintéző (54-344-03) | N | K | K | K | K | K | K | K | K | N | K | N | K | K | K | K | K | N | N | N |
 
-| 301 | Vasútforgalmi szolgálattevő (54-841-05) | N | N | N | K | K | K | K | K | K | N | T | N | N | N | N | K | K | N | N | N |
+| 301 | Vasútépítő és -fenntartó technikus (54-582-06) | N | N | K | K | K | N | K | K | K | N | N | N | N | N | N | K | N | K | N | N |
 
-| 302 | Vasúti árufuvarozási ügyintéző (54-841-06) | N | N | N | N | K | K | K | K | K | N | T | N | N | K | N | K | N | N | N | N |
+| 302 | Vasútforgalmi szolgálattevő (54-841-05) | N | N | N | K | K | K | K | K | K | N | T | N | N | N | N | K | K | N | N | N |
 
-| 303 | Vasúti jármű dízelmotor- és hajtásszerelő (54-525-11) | N | N | N | K | K | N | K | K | K | N | T | N | N | K | N | N | N | K | N | N |
+| 303 | Vasúti árufuvarozási ügyintéző (54-841-06) | N | N | N | N | K | K | K | K | K | N | T | N | N | K | N | K | N | N | N | N |
 
-| 304 | Vasúti jármű szerkezeti és fékrendszer szerelője (54-525-12) | N | N | N | K | K | N | K | K | K | N | T | N | N | N | N | N | N | K | N | N |
+| 304 | Vasúti jármű dízelmotor- és hajtásszerelő (54-525-11) | N | N | N | K | K | N | K | K | K | N | T | N | N | K | N | N | N | K | N | N |
 
-| 305 | Vasúti jármű villamos rendszereinek szerelője (54-525-13) | N | N | K | K | K | N | K | K | K | N | T | N | N | K | N | N | T | N | N | N |
+| 305 | Vasúti jármű szerkezeti és fékrendszer szerelője (54-525-12) | N | N | N | K | K | N | K | K | K | N | T | N | N | N | N | N | N | K | N | N |
 
-| 306 | Vasútijármű-technikus és diagnosztikus (55-525-04) | N | N | K | K | K | N | N | K | K | N | N | N | N | N | N | K | K | N | N | N |
+| 306 | Vasúti jármű villamos rendszereinek szerelője (54-525-13) | N | N | K | K | K | N | K | K | K | N | T | N | N | K | N | N | T | N | N | N |
 
-| 307 | Vegyész technikus (54-524-03) | N | K | N | K | K | K | K | N | T | N | T | T | N | K | N | K | N | N | T | T |
+| 307 | Vasútijármű-technikus és diagnosztikus (55-525-04) | N | N | K | K | K | N | N | K | K | N | N | N | N | N | N | K | K | N | N | N |
 
-| 308 | Vegyipari rendszerkezelő (34-524-02) | N | N | N | K | K | K | K | N | K | N | K | K | N | K | N | K | N | N | N | N |
+| 308 | Vegyész technikus (54-524-03) | N | K | N | K | K | K | K | N | T | N | T | T | N | K | N | K | N | K | T | T |
 
-| 309 | Vegyipari rendszerüzemeltető szaktechnikus (55-524-06) | N | N | N | K | K | N | N | N | K | N | K | K | N | K | N | K | N | N | N | N |
+| 309 | Vegyipari rendszerkezelő (34-524-02) | N | N | N | K | K | K | K | N | K | N | K | K | N | K | N | K | N | N | N | N |
 
-| 310 | Vendéglátásszervező (54-811-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
+| 310 | Vegyipari rendszerüzemeltető szaktechnikus (55-524-06) | N | N | N | K | K | N | N | N | K | N | K | K | N | K | N | K | N | N | N | N |
 
-| 311 | Vendéglátó-üzletvezető (35-811-02) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N | K | N |
+| 311 | Vendéglátásszervező (54-811-01) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K |
 
-| 312 | Vésnök (55-211-08) | N | N | N | K | K | N | N | K | N | N | N | N | N | K | N | N | N | N | N | N |
+| 312 | Vendéglátó-üzletvezető (35-811-02) | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | K | N | K | K |
 
-| 313 | Vidékfejlesztési szaktechnikus (55-581-04) | N | N | N | K | N | N | N | N | K | N | K | T | N | K | K | N | K | N | K | N |
+| 313 | Vésnök (55-211-08) | N | N | N | K | K | N | N | K | N | N | N | N | N | K | N | N | N | N | N | N |
 
-| 314 | Villanyszerelő (34-522-04) | T | K | T | K | K | K | T | T | K | K | T | T | T | K | T | K | T | T | T | K |
+| 314 | Vidékfejlesztési szaktechnikus (55-581-04) | N | N | N | K | N | N | N | N | K | N | K | T | N | K | K | N | K | N | K | N |
 
-| 315 | Virágdekoratőr (35-215-02) | K | N | N | N | K | N | N | K | N | N | N | N | N | N | N | N | N | K | N | N |
+| 315 | Villanyszerelő (34-522-04) | T | K | T | K | K | K | T | T | K | K | T | T | T | K | T | K | T | T | T | K |
 
-| 316 | Virágkötő és virágkereskedő (34-215-04) | K | K | K | K | K | K | K | K | N | K | K | K | N | K | K | K | K | K | K | N |
+| 316 | Virágdekoratőr (35-215-02) | K | N | N | N | K | N | N | K | N | N | N | N | N | N | N | N | N | K | N | N |
 
-| 317 | Víz-, csatorna- és közmű-rendszerszerelő (34-582-12) | K | T | T | K | K | K | T | K | T | K | K | K | T | K | T | K | N | T | T | T |
+| 317 | Virágkötő és virágkereskedő (34-215-04) | K | K | K | K | K | K | K | K | N | K | K | K | N | K | K | K | K | K | K | N |
 
-| 318 | Vízépítő szaktechnikus (55-853-01) | N | N | K | K | K | K | N | K | K | N | K | T | T | K | N | K | N | N | N | N |
+| 318 | Víz-, csatorna- és közmű-rendszerszerelő (34-582-12) | K | T | T | K | K | K | T | K | T | K | K | K | T | K | T | K | N | T | T | T |
 
-| 319 | Vízgazdálkodó technikus (54-853-02) | K | N | K | K | K | K | K | K | K | N | K | N | T | K | K | K | N | N | N | N |
+| 319 | Vízépítő szaktechnikus (55-853-01) | N | N | K | K | K | K | N | K | K | N | K | T | T | K | N | K | N | N | N | N |
 
-| 320 | Vízgépészeti és technológiai berendezésszerelő (35-582-08) | N | N | K | K | K | T | N | N | T | K | K | N | T | K | K | K | N | N | N | N |
+| 320 | Vízgazdálkodó technikus (54-853-02) | K | N | K | K | K | K | K | K | K | N | K | N | T | K | K | K | N | N | N | N |
 
-| 321 | Vízgépészeti technikus (54-853-03) | N | N | K | K | K | T | K | N | K | K | K | N | T | K | K | K | N | K | N | T |
+| 321 | Vízgépészeti és technológiai berendezésszerelő (35-582-08) | N | N | K | K | K | T | N | N | T | K | K | N | T | K | K | K | N | N | N | N |
 
-| 322 | Vizi sportmotor-szerelő (35-525-01) | K | N | N | N | K | N | N | K | N | N | N | N | N | K | N | N | N | N | N | N |
+| 322 | Vízgépészeti technikus (54-853-03) | N | N | K | K | K | T | K | N | K | K | K | N | T | K | K | K | N | K | N | T |
 
-| 323 | Víziközmű technikus (54-853-04) | K | N | T | K | K | K | T | K | K | N | K | N | N | N | K | K | N | K | N | N |
+| 323 | Vizi sportmotor-szerelő (35-525-01) | K | N | N | N | K | N | N | K | N | N | N | N | N | K | N | N | N | N | N | N |
 
-| 324 | Vízminőség-védelmi szaktechnikus (55-853-02) | N | N | K | K | K | K | T | N | K | N | K | T | N | K | N | K | N | K | N | N |
+| 324 | Víziközmű technikus (54-853-04) | K | N | T | K | K | K | T | K | K | N | K | N | N | N | K | K | N | K | N | N |
 
-| 325 | Vízügyi szakmunkás (34-853-02) | T | N | K | K | T | T | K | N | K | K | K | T | T | K | K | K | N | K | N | T |
+| 325 | Vízminőség-védelmi szaktechnikus (55-853-02) | N | N | K | K | K | K | T | N | K | N | K | T | N | K | N | K | N | K | N | N |
 
-| 326 | Webfejlesztő (55-213-02) | K | N | K | K | K | K | N | K | K | K | K | N | K | K | K | K | N | N | K | N |
+| 326 | Vízügyi szakmunkás (34-853-02) | T | N | K | K | T | T | K | N | K | K | K | T | T | K | K | K | N | K | N | T |
 
-| 327 | Zöldség- és gyümölcstermesztő (35-622-02) | K | K | N | K | K | K | K | K | K | K | K | N | N | K | N | K | K | K | N | N |
+| 327 | Webfejlesztő (55-213-02) | K | N | K | K | K | K | N | K | K | K | K | N | K | K | K | K | N | N | K | N |
+
+| 328 | Zöldség- és gyümölcstermesztő (35-622-02) | K | K | N | K | K | K | K | K | K | K | K | N | N | K | N | K | K | K | N | N |
 
 ## 2. Jelmagyarázat az 1. melléklet táblázatához
 
@@ -664,302 +666,318 @@
 
 ## K: korlátozottan támogatott [1. § (2) bekezdés c) pontja szerint]
 
-2. melléklet a 353/2017. (XI. 29.) Korm. rendelethez
+2. melléklet a 353/2017. (XI. 29.) Korm. rendelethez[^4]
 
 1. A korlátozottan támogatott szakképesítések keretszámai fenntartónként és megyénként
 
 1. táblázat: A korlátozottan támogatott szakképesítések keretszámai fenntartónként Bács-Kiskun megyében
 
-|  | A | B | C | D | E | F | G | H | I | J | K |
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M |
 
-| 1 | Szakképesítés megnevezése (száma) | Keretszám | NGM | FM | TK16 | EJSZ13 | EJSZ15 | EJSZ20 | EJSZ5 | EJSZ9 | KA8 |
+| 1 | Szakképesítés megnevezése (száma) | Keretszám | ITM | AM | TK16 | EJSZ13 | EJSZ15 | EJSZ20 | EJSZ5 | EJSZ9 | KA8 | MF249 | MF70 |
 
-| 2 | Államháztartási mérlegképes könyvelő (55-344-02) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 2 | Államháztartási mérlegképes könyvelő (55-344-02) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 3 | Államháztartási ügyintéző (54-344-04) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 3 | Államháztartási ügyintéző (54-344-04) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 4 | Állattartó szakmunkás (34-621-03) | 66 |  | 66 |  |  |  |  |  |  |  |
+| 4 | Állattartó szakmunkás (34-621-03) | 66 |  | 66 |  |  |  |  |  |  |  |  |  |
 
-| 5 | Állattenyésztő és állategészségügyi technikus (54-621-01) | 40 |  | 40 |  |  |  |  |  |  |  |
+| 5 | Állattenyésztő és állategészségügyi technikus (54-621-01) | 40 |  | 40 |  |  |  |  |  |  |  |  |  |
 
-| 6 | Ápoló (55-723-01) | 240 | 240 |  |  |  |  |  |  |  |  |
+| 6 | Alternatív gépjárműhajtási technikus (55-525-03) | 30 | 30 |  |  |  |  |  |  |  |  |  |  |
 
-| 7 | Autóbuszvezető (35-841-01) | 120 | 120 |  |  |  |  |  |  |  |  |
+| 7 | Ápoló (55-723-01) | 240 | 240 |  |  |  |  |  |  |  |  |  |  |
 
-| 8 | Automatikai technikus (54-523-01) | 52 | 40 |  |  | 12 |  |  |  |  |  |
+| 8 | Autóbuszvezető (35-841-01) | 200 | 200 |  |  |  |  |  |  |  |  |  |  |
 
-| 9 | Bádogos (34-582-02) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 9 | Automatikai berendezés karbantartó (35-523-01) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 10 | Biogazdálkodó (35-621-02) | 66 |  | 66 |  |  |  |  |  |  |  |
+| 10 | Automatikai technikus (54-523-01) | 52 | 40 |  |  | 12 |  |  |  |  |  |  |  |
 
-| 11 | Burkoló (34-582-13) | 120 | 120 |  |  |  |  |  |  |  |  |
+| 11 | Bádogos (34-582-02) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 12 | CAD-CAM informatikus (54-481-01) | 114 | 80 |  |  |  |  |  |  | 34 |  |
+| 12 | Biogazdálkodó (35-621-02) | 66 |  | 66 |  |  |  |  |  |  |  |  |  |
 
-| 13 | CNC gépkezelő (35-521-01) | 144 | 120 |  |  | 24 |  |  |  |  |  |
+| 13 | Burkoló (34-582-13) | 120 | 120 |  |  |  |  |  |  |  |  |  |  |
 
-| 14 | Cukor- és édesipari szaktechnikus (55-541-02) | 40 |  | 40 |  |  |  |  |  |  |  |
+| 14 | CAD-CAM informatikus (54-481-01) | 114 | 80 |  |  |  |  |  |  | 34 |  |  |  |
 
-| 15 | Cukrász (34-811-01) | 200 | 200 |  |  |  |  |  |  |  |  |
+| 15 | CNC gépkezelő (35-521-01) | 144 | 120 |  |  | 24 |  |  |  |  |  |  |  |
 
-| 16 | Családi gazdálkodó (34-814-01) | 66 |  | 66 |  |  |  |  |  |  |  |
+| 16 | Cukor- és édesipari szaktechnikus (55-541-02) | 40 |  | 40 |  |  |  |  |  |  |  |  |  |
 
-| 17 | Csecsemő és gyermekápoló (55-723-02) | 120 | 120 |  |  |  |  |  |  |  |  |
+| 17 | Cukrász (34-811-01) | 260 | 260 |  |  |  |  |  |  |  |  |  |  |
 
-| 18 | Dekoratőr (54-211-01) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 18 | Családi gazdálkodó (34-814-01) | 66 |  | 66 |  |  |  |  |  |  |  |  |  |
 
-| 19 | Diétás szakács (35-811-03) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 19 | Csecsemő és gyermekápoló (55-723-02) | 120 | 120 |  |  |  |  |  |  |  |  |  |  |
 
-| 20 | Díszműkovács (34-211-01) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 20 | Dekoratőr (54-211-01) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 21 | Dísznövénykertész (34-622-01) | 99 |  | 99 |  |  |  |  |  |  |  |
+| 21 | Diétás szakács (35-811-03) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 22 | Édesipari termékgyártó (34-541-01) | 33 |  | 33 |  |  |  |  |  |  |  |
+| 22 | Díszműkovács (34-211-01) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 23 | Egyéb szervezeti mérlegképes könyvelő (55-344-03) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 23 | Dísznövénykertész (34-622-01) | 99 |  | 99 |  |  |  |  |  |  |  |  |  |
 
-| 24 | Eladó (34-341-01) | 280 | 280 |  |  |  |  |  |  |  |  |
+| 24 | Édesipari termékgyártó (34-541-01) | 33 |  | 33 |  |  |  |  |  |  |  |  |  |
 
-| 25 | Elektromechanikai műszerész (34-522-01) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 25 | Egyéb szervezeti mérlegképes könyvelő (55-344-03) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 26 | Elektromos gép- és készülékszerelő (34-522-02) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 26 | Eladó (34-341-01) | 280 | 280 |  |  |  |  |  |  |  |  |  |  |
 
-| 27 | Elektronikai technikus (54-523-02) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 27 | Elektromechanikai műszerész (34-522-01) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 28 | Élelmiszeripari technikus (54-541-02) | 92 |  | 80 |  |  | 12 |  |  |  |  |
+| 28 | Elektromos gép- és készülékszerelő (34-522-02) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 29 | Építő-szállító- és munkagép-szerelő (34-521-11) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 29 | Elektronikai technikus (54-523-02) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 30 | Épület- és szerkezetlakatos (34-582-03) | 230 | 200 |  |  |  |  |  | 30 |  |  |
+| 30 | Élelmiszeripari technikus (54-541-02) | 92 |  | 80 |  |  | 12 |  |  |  |  |  |  |
 
-| 31 | Erdészeti gépésztechnikus (54-521-02) | 40 |  | 40 |  |  |  |  |  |  |  |
+| 31 | Építő-szállító- és munkagép-szerelő (34-521-11) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 32 | Ergoterapeuta (54-726-03) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 32 | Épület- és szerkezetlakatos (34-582-03) | 230 | 200 |  |  |  |  |  | 30 |  |  |  |  |
 
-| 33 | Faipari technikus (54-543-01) | 120 | 120 |  |  |  |  |  |  |  |  |
+| 33 | Erdészeti gépésztechnikus (54-521-02) | 40 |  | 40 |  |  |  |  |  |  |  |  |  |
 
-| 34 | Fehérnemű-készítő és kötöttáru összeállító (34-542-03) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 34 | Ergoterapeuta (54-726-03) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 35 | Férfiszabó (34-542-04) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 35 | Faipari technikus (54-543-01) | 120 | 120 |  |  |  |  |  |  |  |  |  |  |
 
-| 36 | Festő, mázoló, tapétázó (34-582-04) | 230 | 200 |  |  |  |  |  | 30 |  |  |
+| 36 | Fegyverműszerész (54-863-01) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 37 | Fitness-wellness instruktor (54-813-01) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 37 | Fehérnemű-készítő és kötöttáru összeállító (34-542-03) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 38 | Fizioterápiás asszisztens (54-725-03) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 38 | Férfiszabó (34-542-04) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 39 | Fodrász (54-815-01) | 120 | 120 |  |  |  |  |  |  |  |  |
+| 39 | Festő, mázoló, tapétázó (34-582-04) | 230 | 200 |  |  |  |  |  | 30 |  |  |  |  |
 
-| 40 | Fogadós (34-811-06) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 40 | Fitness-wellness instruktor (54-813-01) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 41 | Fogászati asszisztens (54-720-02) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 41 | Fizioterápiás asszisztens (54-725-03) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 42 | Fotográfus és fotótermék-kereskedő (54-810-01) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 42 | Fodrász (54-815-01) | 120 | 120 |  |  |  |  |  |  |  |  |  |  |
 
-| 43 | Gáz- és hőtermelő berendezés-szerelő (35-582-01) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 43 | Fogadós (34-811-06) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 44 | Gazda (34-621-01) | 166 |  | 166 |  |  |  |  |  |  |  |
+| 44 | Fogászati asszisztens (54-720-02) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 45 | Gazdasági informatikus (54-481-02) | 140 | 120 |  |  |  |  |  |  | 20 |  |
+| 45 | Fotográfus és fotótermék-kereskedő (54-810-01) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 46 | Grafikus (54-211-04) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 46 | Gáz- és hőtermelő berendezés-szerelő (35-582-01) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 47 | Gyakorló ápoló (54-723-02) | 417 | 400 |  |  |  |  | 17 |  |  |  |
+| 47 | Gazda (34-621-01) | 166 |  | 166 |  |  |  |  |  |  |  |  |  |
 
-| 48 | Gyakorló csecsemő- és gyermekápoló (54-723-03) | 120 | 120 |  |  |  |  |  |  |  |  |
+| 48 | Gazdasági informatikus (54-481-02) | 140 | 120 |  |  |  |  |  |  | 20 |  |  |  |
 
-| 49 | Gyakorló klinikai laboratóriumi asszisztens (54-725-04) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 49 | Grafikus (54-211-04) | 104 | 80 |  |  |  |  |  |  |  |  |  | 24 |
 
-| 50 | Gyakorló szövettani asszisztens (54-725-05) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 50 | Gyakorlatos színész (a szakmairány megjelölésével) (54-212-03) | 30 | 30 |  |  |  |  |  |  |  |  |  |  |
 
-| 51 | Gyógy- és fűszernövénytermesztő (35-622-01) | 99 |  | 99 |  |  |  |  |  |  |  |
+| 51 | Gyakorló ápoló (54-723-02) | 417 | 400 |  |  |  |  | 17 |  |  |  |  |  |
 
-| 52 | Gyógymasszőr (54-726-04) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 52 | Gyakorló csecsemő- és gyermekápoló (54-723-03) | 120 | 120 |  |  |  |  |  |  |  |  |  |  |
 
-| 53 | Gyógypedagógiai segítő munkatárs (54-140-01) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 53 | Gyakorló klinikai laboratóriumi asszisztens (54-725-04) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 54 | Gyógyszertári asszisztens (54-720-03) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 54 | Gyakorló szövettani asszisztens (54-725-05) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 55 | Halász, haltenyésztő (34-624-01) | 33 |  | 33 |  |  |  |  |  |  |  |
+| 55 | Gyógy- és fűszernövénytermesztő (35-622-01) | 99 |  | 99 |  |  |  |  |  |  |  |  |  |
 
-| 56 | Hulladékgazdálkodó szaktechnikus (55-850-01) | 40 |  | 40 |  |  |  |  |  |  |  |
+| 56 | Gyógymasszőr (54-726-04) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 57 | Húsipari termékgyártó (34-541-03) | 66 |  | 66 |  |  |  |  |  |  |  |
+| 57 | Gyógypedagógiai segítő munkatárs (54-140-01) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 58 | Hűtő- és légtechnikai rendszerszerelő (34-582-05) | 120 | 120 |  |  |  |  |  |  |  |  |
+| 58 | Gyógyszertári asszisztens (54-720-03) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 59 | Hűtő-, klíma- és hőszivattyú berendezés-szerelő (35-582-03) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 59 | Halász, haltenyésztő (34-624-01) | 33 |  | 33 |  |  |  |  |  |  |  |  |  |
 
-| 60 | Idegenvezető (54-812-01) | 105 | 80 |  |  |  |  |  |  |  | 25 |
+| 60 | Hulladékgazdálkodó szaktechnikus (55-850-01) | 40 |  | 40 |  |  |  |  |  |  |  |  |  |
 
-| 61 | Infokommunikációs hálózatépítő és üzemeltető (54-481-03) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 61 | Húsipari termékgyártó (34-541-03) | 66 |  | 66 |  |  |  |  |  |  |  |  |  |
 
-| 62 | Informatikai rendszerüzemeltető (54-481-06) | 161 | 120 |  |  | 24 |  |  |  | 17 |  |
+| 62 | Hűtő- és légtechnikai rendszerszerelő (34-582-05) | 120 | 120 |  |  |  |  |  |  |  |  |  |  |
 
-| 63 | Irodai titkár (54-346-03) | 200 | 200 |  |  |  |  |  |  |  |  |
+| 63 | Hűtő-, klíma- és hőszivattyú berendezés-szerelő (35-582-03) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 64 | Kárpitos (34-542-05) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 64 | Idegenvezető (54-812-01) | 105 | 80 |  |  |  |  |  |  |  | 25 |  |  |
 
-| 65 | Kereskedelmi képviselő (54-341-02) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 65 | Infokommunikációs hálózatépítő és üzemeltető (54-481-03) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 66 | Kereskedő (54-341-01) | 160 | 160 |  |  |  |  |  |  |  |  |
+| 66 | Informatikai rendszerüzemeltető (54-481-06) | 161 | 120 |  |  | 24 |  |  |  | 17 |  |  |  |
 
-| 67 | Kertész (34-622-02) | 99 |  | 99 |  |  |  |  |  |  |  |
+| 67 | Irodai titkár (54-346-03) | 200 | 200 |  |  |  |  |  |  |  |  |  |  |
 
-| 68 | Kiadványszerkesztő technikus (54-213-06) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 68 | Kárpitos (34-542-05) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 69 | Kis- és középvállalkozások ügyvezetője I (35-345-01) | 120 | 120 |  |  |  |  |  |  |  |  |
+| 69 | Kereskedelmi képviselő (54-341-02) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 70 | Kis- és középvállalkozások ügyvezetője II (55-345-01) | 120 | 120 |  |  |  |  |  |  |  |  |
+| 70 | Kereskedő (54-341-01) | 160 | 160 |  |  |  |  |  |  |  |  |  |  |
 
-| 71 | Kisgyermekgondozó, -nevelő (54-761-02) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 71 | Kertész (34-622-02) | 99 |  | 99 |  |  |  |  |  |  |  |  |  |
 
-| 72 | Kishajóépítő, -karbantartó (34-543-05) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 72 | Kiadványszerkesztő technikus (54-213-06) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 73 | Kistermelői élelmiszerelőállító, falusi vendéglátó (34-541-08) | 89 |  | 66 |  |  |  |  | 23 |  |  |
+| 73 | Kis- és középvállalkozások ügyvezetője I. (35-345-01) | 120 | 120 |  |  |  |  |  |  |  |  |  |  |
 
-| 74 | Klasszikus zenész I. (a szakmairány megnevezésével) (55-212-05) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 74 | Kis- és középvállalkozások ügyvezetője II. (55-345-01) | 120 | 120 |  |  |  |  |  |  |  |  |  |  |
 
-| 75 | Klasszikus zenész II. (a szakmairány megnevezésével) (54-212-05) | 24 |  |  | 24 |  |  |  |  |  |  |
+| 75 | Kisgyermekgondozó, -nevelő (54-761-02) | 120 | 120 |  |  |  |  |  |  |  |  |  |  |
 
-| 76 | Kozmetikus (54-815-02) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 76 | Kishajóépítő, -karbantartó (34-543-05) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 77 | Kőműves (34-582-14) | 230 | 200 |  |  |  |  |  | 30 |  |  |
+| 77 | Kistermelői élelmiszerelőállító, falusi vendéglátó (34-541-08) | 89 |  | 66 |  |  |  |  | 23 |  |  |  |  |
 
-| 78 | Könyvkötő-nyomtatványfeldolgozó (34-543-06) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 78 | Klasszikus zenész I. (a szakmairány megnevezésével) (55-212-05) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 79 | Környezetvédelmi technikus (54-850-01) | 52 |  | 40 |  |  |  | 12 |  |  |  |
+| 79 | Klasszikus zenész II. (a szakmairány megnevezésével) (54-212-05) | 24 |  |  | 24 |  |  |  |  |  |  |  |  |
 
-| 80 | Környezetvédelmi-mérés szaktechnikus (55-850-02) | 40 |  | 40 |  |  |  |  |  |  |  |
+| 80 | Kozmetikus (54-815-02) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 81 | Közművelődési és közönségkapcsolati szakember (a szakmairány megnevezésével) (54-345-02) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 81 | Kőműves (34-582-14) | 230 | 200 |  |  |  |  |  | 30 |  |  |  |  |
 
-| 82 | Központifűtés- és gázhálózat rendszerszerelő (34-582-09) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 82 | Könyvkötő-nyomtatványfeldolgozó (34-543-06) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 83 | Közszolgálati ügyintéző (54-345-01) | 95 | 80 |  |  |  |  | 15 |  |  |  |
+| 83 | Környezetvédelmi technikus (54-850-01) | 52 |  | 40 |  |  |  | 12 |  |  |  |  |  |
 
-| 84 | Logisztikai és szállítmányozási ügyintéző (54-841-11) | 234 | 200 |  |  |  |  |  |  | 34 |  |
+| 84 | Környezetvédelmi-mérés szaktechnikus (55-850-02) | 40 |  | 40 |  |  |  |  |  |  |  |  |  |
 
-| 85 | Lovász (34-621-02) | 33 |  | 33 |  |  |  |  |  |  |  |
+| 85 | Közművelődési és közönségkapcsolati szakember (a szakmairány megnevezésével) (54-345-02) | 60 | 60 |  |  |  |  |  |  |  |  |  |  |
 
-| 86 | Mechatronikai technikus (54-523-04) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 86 | Központifűtés- és gázhálózat rendszerszerelő (34-582-09) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 87 | Mechatronikus-karbantartó (34-523-01) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 87 | Közszolgálati ügyintéző (54-345-01) | 95 | 80 |  |  |  |  | 15 |  |  |  |  |  |
 
-| 88 | Mentőápoló (55-723-11) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 88 | Logisztikai és szállítmányozási ügyintéző (54-841-11) | 234 | 200 |  |  |  |  |  |  | 34 |  |  |  |
 
-| 89 | Mezőgazdasági gépész (34-521-08) | 205 | 40 | 165 |  |  |  |  |  |  |  |
+| 89 | Lovász (34-621-02) | 43 |  | 33 |  |  |  |  |  |  |  | 10 |  |
 
-| 90 | Mezőgazdasági gépésztechnikus (54-521-05) | 80 |  | 80 |  |  |  |  |  |  |  |
+| 90 | Mechatronikai technikus (54-523-04) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 91 | Mezőgazdasági gépjavító (35-521-02) | 66 |  | 66 |  |  |  |  |  |  |  |
+| 91 | Mechatronikus-karbantartó (34-523-01) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 92 | Mezőgazdasági technikus (54-621-02) | 64 |  | 40 |  |  |  |  |  | 24 |  |
+| 92 | Mentésirányító (55-723-17) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 93 | Motorkerékpár-szerelő (34-525-07) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 93 | Mentőápoló (55-723-11) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 94 | Műanyagfeldolgozó (34-521-09) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 94 | Mezőgazdasági gépész (34-521-08) | 205 | 40 | 165 |  |  |  |  |  |  |  |  |  |
 
-| 95 | Műszaki informatikus (54-481-05) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 95 | Mezőgazdasági gépésztechnikus (54-521-05) | 80 |  | 80 |  |  |  |  |  |  |  |  |  |
 
-| 96 | Művészeti és médiafotográfus (54-211-10) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 96 | Mezőgazdasági gépjavító (35-521-02) | 66 |  | 66 |  |  |  |  |  |  |  |  |  |
 
-| 97 | Népi kézműves (a szakmairány megjelölésével) (34-215-01) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 97 | Mezőgazdasági technikus (54-621-02) | 64 |  | 40 |  |  |  |  |  | 24 |  |  |  |
 
-| 98 | Női szabó (34-542-06) | 230 | 200 |  |  |  |  |  | 30 |  |  |
+| 98 | Motorkerékpár-szerelő (34-525-07) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 99 | Nyomdaipari technikus (54-213-07) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 99 | Műanyagfeldolgozó (34-521-09) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 100 | Ortopédiai műszerész (54-726-02) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 100 | Műszaki informatikus (54-481-05) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 101 | Parképítő és fenntartó technikus (54-581-02) | 80 |  | 80 |  |  |  |  |  |  |  |
+| 101 | Művészeti és médiafotográfus (54-211-10) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 102 | Patkolókovács (35-521-03) | 33 |  | 33 |  |  |  |  |  |  |  |
+| 102 | Népi kézműves (a szakmairány megjelölésével) (34-215-01) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 103 | Pedagógiai- és családsegítő munkatárs (54-140-02) | 160 | 160 |  |  |  |  |  |  |  |  |
+| 103 | Női szabó (34-542-06) | 250 | 220 |  |  |  |  |  | 30 |  |  |  |  |
 
-| 104 | Pék (34-541-05) | 113 | 80 | 33 |  |  |  |  |  |  |  |
+| 104 | Nyomdaipari technikus (54-213-07) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 105 | Pénzügyi-számviteli ügyintéző (54-344-01) | 420 | 400 |  |  |  |  |  |  | 20 |  |
+| 105 | Ortopédiai műszerész (54-726-02) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 106 | Perioperatív asszisztens (54-720-04) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 106 | Parképítő és fenntartó technikus (54-581-02) | 80 |  | 80 |  |  |  |  |  |  |  |  |  |
 
-| 107 | Pincér (34-811-03) | 240 | 240 |  |  |  |  |  |  |  |  |
+| 107 | Patkolókovács (35-521-03) | 33 |  | 33 |  |  |  |  |  |  |  |  |  |
 
-| 108 | Postai üzleti ügyintéző (54-841-09) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 108 | Pedagógiai- és családsegítő munkatárs (54-140-02) | 160 | 160 |  |  |  |  |  |  |  |  |  |  |
 
-| 109 | Radiográfiai asszisztens (54-725-09) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 109 | Pék (34-541-05) | 146 | 80 | 66 |  |  |  |  |  |  |  |  |  |
 
-| 110 | Rendészeti őr (34-861-01) | 120 | 120 |  |  |  |  |  |  |  |  |
+| 110 | Pénzügyi-számviteli ügyintéző (54-344-01) | 433 | 400 |  |  |  | 13 |  |  | 20 |  |  |  |
 
-| 111 | Repülőgép-szerelő (54-525-10) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 111 | Perioperatív asszisztens (54-720-04) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 112 | Ruhaipari technikus (54-542-02) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 112 | Pincér (34-811-03) | 240 | 240 |  |  |  |  |  |  |  |  |  |  |
 
-| 113 | Sportedző (a sportág megjelölésével) (54-813-02) | 66 | 40 | 26 |  |  |  |  |  |  |  |
+| 113 | Postai üzleti ügyintéző (54-841-09) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 114 | Sportmasszőr (55-726-02) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 114 | Radiográfiai asszisztens (54-725-09) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 115 | Sütő- és cukrászipari szaktechnikus (55-541-06) | 40 |  | 40 |  |  |  |  |  |  |  |
+| 115 | Rendészeti őr (34-861-01) | 120 | 120 |  |  |  |  |  |  |  |  |  |  |
 
-| 116 | Szakács (34-811-04) | 240 | 240 |  |  |  |  |  |  |  |  |
+| 116 | Repülőgép-szerelő (54-525-10) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 117 | Számítógép-szerelő, karbantartó (34-523-02) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 117 | Ruhaipari technikus (54-542-02) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 118 | Szárazépítő (34-582-10) | 120 | 120 |  |  |  |  |  |  |  |  |
+| 118 | Sportedző (a sportág megjelölésével) (54-813-02) | 66 | 40 | 26 |  |  |  |  |  |  |  |  |  |
 
-| 119 | Szerszámkészítő (34-521-10) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 119 | Sportmasszőr (55-726-02) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 120 | Szociális asszisztens (54-762-02) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 120 | Sütő- és cukrászipari szaktechnikus (55-541-06) | 40 |  | 40 |  |  |  |  |  |  |  |  |  |
 
-| 121 | Szociális gondozó és ápoló (34-762-01) | 175 | 160 |  |  |  |  |  | 15 |  |  |
+| 121 | Szakács (34-811-04) | 280 | 280 |  |  |  |  |  |  |  |  |  |  |
 
-| 122 | Szoftverfejlesztő (54-213-05) | 120 | 120 |  |  |  |  |  |  |  |  |
+| 122 | Számítógép-szerelő, karbantartó (34-523-02) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 123 | Szőlész-borász (34-541-06) | 45 |  | 33 |  |  | 12 |  |  |  |  |
+| 123 | Szárazépítő (34-582-10) | 120 | 120 |  |  |  |  |  |  |  |  |  |  |
 
-| 124 | Táncos I. (a szakmairány megjelölésével) (55-212-08) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 124 | Szerszámkészítő (34-521-10) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 125 | Táncos II. (a szakmairány megjelölésével) (54-212-09) | 10 |  |  | 10 |  |  |  |  |  |  |
+| 125 | Színész (55-212-01) | 30 | 30 |  |  |  |  |  |  |  |  |  |  |
 
-| 126 | Tartósítóipari szakmunkás (34-541-09) | 33 |  | 33 |  |  |  |  |  |  |  |
+| 126 | Szociális asszisztens (54-762-02) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 127 | Tehergépkocsi-vezető (35-841-02) | 280 | 280 |  |  |  |  |  |  |  |  |
+| 127 | Szociális gondozó és ápoló (34-762-01) | 175 | 160 |  |  |  |  |  | 15 |  |  |  |  |
 
-| 128 | Tejipari szakmunkás (34-541-10) | 33 |  | 33 |  |  |  |  |  |  |  |
+| 128 | Szoftverfejlesztő (54-213-05) | 120 | 120 |  |  |  |  |  |  |  |  |  |  |
 
-| 129 | Települési környezetvédelmi szaktechnikus (55-850-04) | 40 |  | 40 |  |  |  |  |  |  |  |
+| 129 | Szőlész-borász (34-541-06) | 45 |  | 33 |  |  | 12 |  |  |  |  |  |  |
 
-| 130 | Természetvédelmi szaktechnikus (55-850-05) | 40 |  | 40 |  |  |  |  |  |  |  |
+| 130 | Táncos I. (a szakmairány megjelölésével) (55-212-08) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 131 | Tetőfedő (34-582-15) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 131 | Táncos II. (a szakmairány megjelölésével) (54-212-09) | 10 |  |  | 10 |  |  |  |  |  |  |  |  |
 
-| 132 | Textilipari technikus (54-542-03) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 132 | Tartósítóipari szakmunkás (34-541-09) | 33 |  | 33 |  |  |  |  |  |  |  |  |  |
 
-| 133 | Turisztikai szervező, értékesítő (54-812-03) | 105 | 80 |  |  |  |  |  |  |  | 25 |
+| 133 | Tehergépkocsi-vezető (35-841-02) | 360 | 360 |  |  |  |  |  |  |  |  |  |  |
 
-| 134 | Vállalkozási és bérügyintéző (54-344-02) | 289 | 240 |  |  |  |  |  | 15 | 34 |  |
+| 134 | Tejipari szakmunkás (34-541-10) | 33 |  | 33 |  |  |  |  |  |  |  |  |  |
 
-| 135 | Vállalkozási mérlegképes könyvelő (55-344-07) | 120 | 120 |  |  |  |  |  |  |  |  |
+| 135 | Települési környezetvédelmi szaktechnikus (55-850-04) | 40 |  | 40 |  |  |  |  |  |  |  |  |  |
 
-| 136 | Vendéglátásszervező (54-811-01) | 160 | 160 |  |  |  |  |  |  |  |  |
+| 136 | Természetvédelmi szaktechnikus (55-850-05) | 40 |  | 40 |  |  |  |  |  |  |  |  |  |
 
-| 137 | Vendéglátó-üzletvezető (35-811-02) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 137 | Tetőfedő (34-582-15) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 138 | Virágdekoratőr (35-215-02) | 34 |  | 34 |  |  |  |  |  |  |  |
+| 138 | Textilipari technikus (54-542-03) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
 
-| 139 | Virágkötő és virágkereskedő (34-215-04) | 99 |  | 99 |  |  |  |  |  |  |  |
+| 139 | Turisztikai szervező, értékesítő (54-812-03) | 105 | 80 |  |  |  |  |  |  |  | 25 |  |  |
 
-| 140 | Víz-, csatorna- és közmű-rendszerszerelő (34-582-12) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 140 | Üzleti szolgáltatási munkatárs (54-340-01) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 141 | Vízgazdálkodó technikus (54-853-02) | 105 | 80 |  |  |  |  | 25 |  |  |  |
+| 141 | Vállalkozási és bérügyintéző (54-344-02) | 289 | 240 |  |  |  |  |  | 15 | 34 |  |  |  |
 
-| 142 | Vizi sportmotor-szerelő (35-525-01) | 40 | 40 |  |  |  |  |  |  |  |  |
+| 142 | Vállalkozási mérlegképes könyvelő (55-344-07) | 120 | 120 |  |  |  |  |  |  |  |  |  |  |
 
-| 143 | Víziközmű technikus (54-853-04) | 105 | 80 |  |  |  |  | 25 |  |  |  |
+| 143 | Vendéglátásszervező (54-811-01) | 160 | 160 |  |  |  |  |  |  |  |  |  |  |
 
-| 144 | Webfejlesztő (55-213-02) | 80 | 80 |  |  |  |  |  |  |  |  |
+| 144 | Vendéglátó-üzletvezető (35-811-02) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
 
-| 145 | Zöldség- és gyümölcstermesztő (35-622-02) | 33 |  | 33 |  |  |  |  |  |  |  |
+| 145 | Virágdekoratőr (35-215-02) | 34 |  | 34 |  |  |  |  |  |  |  |  |  |
+
+| 146 | Virágkötő és virágkereskedő (34-215-04) | 99 |  | 99 |  |  |  |  |  |  |  |  |  |
+
+| 147 | Víz-, csatorna- és közmű-rendszerszerelő (34-582-12) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
+
+| 148 | Vízgazdálkodó technikus (54-853-02) | 105 | 80 |  |  |  |  | 25 |  |  |  |  |  |
+
+| 149 | Vizi sportmotor-szerelő (35-525-01) | 40 | 40 |  |  |  |  |  |  |  |  |  |  |
+
+| 150 | Víziközmű technikus (54-853-04) | 105 | 80 |  |  |  |  | 25 |  |  |  |  |  |
+
+| 151 | Webfejlesztő (55-213-02) | 80 | 80 |  |  |  |  |  |  |  |  |  |  |
+
+| 152 | Zöldség- és gyümölcstermesztő (35-622-02) | 33 |  | 33 |  |  |  |  |  |  |  |  |  |
 
 2. táblázat: A korlátozottan támogatott szakképesítések keretszámai fenntartónként Baranya megyében
+
+[^4]: A 2. melléklet a 114/2018. (VI. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
