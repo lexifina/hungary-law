@@ -1,1 +1,0 @@
-## „(3b) A mezőgazdasági termelőnek az (3) bekezdés c) pontja szerinti regisztrációs kötelezettségét a Nemzeti Élelmiszerlánc-biztonsági Hivatalhoz a Termékenyítési Rendszerben erre a célra rendszeresített bizonylaton történő hibátlan bejelentéssel kell teljesítenie.”

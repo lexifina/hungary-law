@@ -1,3 +1,0 @@
-## 20. § Az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet [a továbbiakban: 22/2016. (IV. 5.) FM rendelet] 19. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Az előzetes ellenőrzésről szóló felszólító végzésre adott válasz benyújtási időpontjának a tárgyév június 20-áig utoljára történt elektronikus feltöltés napja minősül. A 18. § (2) bekezdésében foglalt határidőn túl benyújtott válasz nem eredményezheti a 18. § (2) bekezdésében foglalt határnapig benyújtott kérelem módosítását az addig bejelentett terület, illetve állategyedek tekintetében.”
