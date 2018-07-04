@@ -16,16 +16,12 @@ Határidő: azonnal
 
 4. egyetért azzal, hogy a 3. pont szerinti forrásbiztosítás 274 000 000 forint összegben a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 22. Egészségügyi ágazati előirányzatok alcím, 25. Egészséges Budapest Program jogcímcsoport terhére történjen;
 
-5. felhívja a nemzeti fejlesztési minisztert, hogy az emberi erőforrások minisztere bevonásával tegye meg a szükséges intézkedéseket annak érdekében, hogy a társaságban fennálló részesedés tekintetében a tulajdonosi jogok és kötelezettségek összességének gyakorlójaként az emberi erőforrások minisztere kerüljön kijelölésre;
-
-Felelős: nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-Határidő: a társaság megalapítását követően azonnal
+5.[^1]
 
 6. felhívja a nemzeti fejlesztési minisztert, hogy – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján és a Dél-budai Centrum létrehozásával összefüggő koordinációs feladatok ellátásáért felelős miniszterelnöki megbízott bevonásával – tegye meg a szükséges intézkedéseket annak érdekében, hogy a Dél-budai Centrum beruházás megvalósításához szükséges állami tulajdonban álló ingatlanok a társaság vagyonkezelésébe kerüljenek.
 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a társaság megalapítását követően azonnal
+
+[^1]: Az 5. pontot az 1298/2018. (VII. 4.) Korm. határozat 3. pontja visszavonta.
