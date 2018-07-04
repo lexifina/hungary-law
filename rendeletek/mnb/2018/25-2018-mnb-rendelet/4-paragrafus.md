@@ -1,0 +1,7 @@
+4. § (1) A bankjegy hátoldala többszínű, az oldal széléig kifutó alapnyomattal és bordó színű képnyomattal készült, amelynek összhatása piros. Az alapnyomat részeként a bankjegy alsó és felső szélén piros sáv látható, az alapnyomat többi része piros és zöld színhatású. Az alapnyomat bal oldali részén, a képnyomat hátterében II. Rákóczi Ferenc 1703-ban írt manifesztumának latin nyelvű szövegrészlete jelenik meg, amelyet egy szőlőfürtökkel díszített indamotívum foglal keretbe. A vízjelmező mellett, balra 1 mm átmérőjű sárga színű körök láthatók. A bankjegy bal felső sarkában a piros és sárga színű illeszkedőjel hátoldali eleme található.
+
+(2) A bankjegy felső szélével párhuzamos sávban a mikroírással nyomtatott „500 FORINT” értékjelzés, valamint az „MNB” felirat ismétlődik, és a nagyobb számjegyekkel, illetve betűkkel nyomtatott „500” értékjelzés, illetve „MNB” felirat olvasható. A bankjegy alsó szélével párhuzamos sávban a mikroírással nyomtatott „500 FORINT” és „MNB” felirat ismétlődik, és a nagyobb betűkkel, illetve számjegyekkel nyomtatott „ÖTSZÁZ FORINT”, illetve „500” értékjelzés olvasható.
+
+(3) A képnyomat fő motívuma a Sárospataki várat ábrázoló – múlt századi rézkarc alapján készült – metszet. A metszettől jobbra, lent II. Rákóczi Ferenc ezüst féltallérjának ábrázolása látható, amelyben a rátekintés szögétől függően egy „H” betű jelenik meg. A metszet fölött, balra az „A SÁROSPATAKI VÁR” felirat, jobbra az „500” értékjelzés olvasható, melyek színe bordó.
+
+(4) A bankjegy hátoldalának képét a 2. melléklet tartalmazza.
