@@ -1,4 +1,4 @@
-## 71/A. [^122] Szolgálati lőfegyverek és lőszerek szolgálati célból történő külföldre vitele, behozatala és átszállítása
+## 71/A. [^123] Szolgálati lőfegyverek és lőszerek szolgálati célból történő külföldre vitele, behozatala és átszállítása
 
 97/A. § (1) Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában a rendőri szerv szolgálati lőfegyvereinek és lőszereinek szolgálati célból történő külföldre vitelét – beleértve a más rendvédelmi szervtől vezényeltek személyi felszerelését képező lőfegyvernek és lőszernek a külföldre vitelét is – (a továbbiakban: kivitel)
 
@@ -36,4 +36,4 @@ b) a kivitel és a visszahozatal időpontját, továbbá
 
 c) a kiszállított, illetve a visszaszállított szolgálati lőfegyverek, lőszerek közt mutatkozó esetleges hiányokat vagy eltéréseket, valamint ezek okairól készült jelentést.
 
-[^122]: A 71/A. alcímet (97/A–97/E. §) az 50/2016. (XII. 14.) BM rendelet 16. §-a iktatta be.
+[^123]: A 71/A. alcímet (97/A–97/E. §) az 50/2016. (XII. 14.) BM rendelet 16. §-a iktatta be.

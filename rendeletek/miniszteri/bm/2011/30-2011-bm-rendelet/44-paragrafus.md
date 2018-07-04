@@ -10,17 +10,17 @@
 
 (5) Az útzár alkalmazását
 
-a)[^76] az országos rendőrfőkapitány, a rendészeti országos rendőrfőkapitány-helyettes, a bűnügyi országos rendőrfőkapitány-helyettes, a műveleti országos rendőrfőkapitány-helyettes, vagy – a Terrorelhárítási Központ által védett létesítmények vagy biztosított rendezvények, továbbá a Terrorelhárítási Központ által védett személyek programhelyszíneinek vonatkozásában, illetve a hatásköre szerint ellátott speciális feladatok végrehajtása során – a Terrorelhárítási Központ főigazgatója, továbbá
+a)[^77] az országos rendőrfőkapitány, a rendészeti országos rendőrfőkapitány-helyettes, a bűnügyi országos rendőrfőkapitány-helyettes, a műveleti országos rendőrfőkapitány-helyettes, vagy – a Terrorelhárítási Központ által védett létesítmények vagy biztosított rendezvények, továbbá a Terrorelhárítási Központ által védett személyek programhelyszíneinek vonatkozásában, illetve a hatásköre szerint ellátott speciális feladatok végrehajtása során – a Terrorelhárítási Központ főigazgatója, továbbá
 
-b)[^77] illetékességi területén – az autópálya és az autóút kivételével – a megyei (fővárosi) rendőrfőkapitány, a rendőrkapitány vagy a határrendészeti kirendeltség vezetője
+b)[^78] illetékességi területén – az autópálya és az autóút kivételével – a megyei (fővárosi) rendőrfőkapitány, a rendőrkapitány vagy a határrendészeti kirendeltség vezetője
 
 rendeli el.
 
-(6)[^78] Az útzár autópályán, autóúton történő alkalmazását az országos rendőrfőkapitány, a rendészeti országos rendőrfőkapitány-helyettes, a bűnügyi országos rendőrfőkapitány-helyettes, a műveleti országos rendőrfőkapitány-helyettes, vagy – a hatásköre szerint ellátott speciális feladatok végrehajtása során – a Terrorelhárítási Központ főigazgatója rendeli el.
+(6)[^79] Az útzár autópályán, autóúton történő alkalmazását az országos rendőrfőkapitány, a rendészeti országos rendőrfőkapitány-helyettes, a bűnügyi országos rendőrfőkapitány-helyettes, a műveleti országos rendőrfőkapitány-helyettes, vagy – a hatásköre szerint ellátott speciális feladatok végrehajtása során – a Terrorelhárítási Központ főigazgatója rendeli el.
 
-(7)[^79] Ha az útzár telepítésének elrendelésére jogosult szolgálati elöljáró döntésének meghozatala indokolatlan késedelemmel járna, az útzár telepítésének engedélyezésére a feladat- és hatáskörrel rendelkező ügyeletvezető is jogosult.
+(7)[^80] Ha az útzár telepítésének elrendelésére jogosult szolgálati elöljáró döntésének meghozatala indokolatlan késedelemmel járna, az útzár telepítésének engedélyezésére a feladat- és hatáskörrel rendelkező ügyeletvezető is jogosult.
 
-[^76]: A 44. § (5) bekezdés a) pontja a 61/2015. (XI. 24.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^77]: A 44. § (5) bekezdés b) pontja a 18/2013. (V. 9.) BM rendelet 10. §-ával megállapított, a 61/2015. (XI. 24.) BM rendelet 18. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^78]: A 44. § (6) bekezdése a 61/2015. (XI. 24.) BM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^79]: A 44. § (7) bekezdése a 61/2015. (XI. 24.) BM rendelet 17. § h) pontja szerint módosított szöveg.
+[^77]: A 44. § (5) bekezdés a) pontja a 61/2015. (XI. 24.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^78]: A 44. § (5) bekezdés b) pontja a 18/2013. (V. 9.) BM rendelet 10. §-ával megállapított, a 61/2015. (XI. 24.) BM rendelet 18. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^79]: A 44. § (6) bekezdése a 61/2015. (XI. 24.) BM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^80]: A 44. § (7) bekezdése a 61/2015. (XI. 24.) BM rendelet 17. § h) pontja szerint módosított szöveg.

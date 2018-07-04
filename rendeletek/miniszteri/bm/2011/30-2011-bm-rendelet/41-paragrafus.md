@@ -1,6 +1,6 @@
 ## 32. Bilincs alkalmazása
 
-41. § (1)[^72] A bilincs alkalmazása kizárólag az Rtv. 48. §-ában meghatározott esetekben, a kényszerítő eszköz alkalmazásának az Rtv.-ben és az e rendeletben meghatározott követelményei teljesülése esetén, különösen azzal szemben lehet indokolt,
+41. § (1)[^73] A bilincs alkalmazása kizárólag az Rtv. 48. §-ában meghatározott esetekben, a kényszerítő eszköz alkalmazásának az Rtv.-ben és az e rendeletben meghatározott követelményei teljesülése esetén, különösen azzal szemben lehet indokolt,
 
 a) aki erőszakos, garázda magatartást tanúsít, és ennek abbahagyására testi kényszerrel nem késztethető,
 
@@ -16,7 +16,7 @@ f) akinek fogvatartása során kísérését rendelték el, illetve – az őrz�
 
 g) akit egyedül intézkedő rendőr állít elő.
 
-(2)[^73]
+(2)[^74]
 
 (3) Bilincselést az erre a célra rendszeresített eszközzel kell végrehajtani. Ennek hiányában vagy ezek meghibásodása, megrongálódása esetén más, ilyen célra megfelelő eszköz is alkalmazható, de tilos vékony fém- vagy műanyag huzalt, a jellegénél fogva sérülést okozó eszközt alkalmazni.
 
@@ -54,5 +54,5 @@ c) tárgyhoz bilincselésnek – az (5) bekezdésben meghatározott korlátozás
 
 (9) A bilincset a rendőr szolgálaton kívül nem tarthatja magánál.
 
-[^72]: A 41. § (1) bekezdése a 61/2015. (XI. 24.) BM rendelet 9. §-ával megállapított szöveg.
-[^73]: A 41. § (2) bekezdését a 61/2015. (XI. 24.) BM rendelet 18. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^73]: A 41. § (1) bekezdése a 61/2015. (XI. 24.) BM rendelet 9. §-ával megállapított szöveg.
+[^74]: A 41. § (2) bekezdését a 61/2015. (XI. 24.) BM rendelet 18. § (1) bekezdés a) pontja hatályon kívül helyezte.

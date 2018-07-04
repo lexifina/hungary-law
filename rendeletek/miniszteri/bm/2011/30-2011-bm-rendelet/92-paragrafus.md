@@ -8,7 +8,7 @@
 
 a) a Himnusz, a Szózat és az Európai Unió himnusza elhangzása alatt, továbbá rendezvényeken más államok himnuszának elhangzásakor,
 
-b)[^118] Magyarország állami zászlajának,
+b)[^119] Magyarország állami zászlajának,
 
 c) síremlékek, emlékművek előtt, ha ott díszőrség áll,
 
@@ -34,4 +34,4 @@ e) járművezetés közben, valamint
 
 f) az alaki szabályzatban meghatározott egyéb esetekben.
 
-[^118]: A 92. § (3) bekezdés b) pontja a 68/2011. (XII. 30.) BM rendelet 35. § (2) bekezdése szerint módosított szöveg.
+[^119]: A 92. § (3) bekezdés b) pontja a 68/2011. (XII. 30.) BM rendelet 35. § (2) bekezdése szerint módosított szöveg.

@@ -18,6 +18,6 @@ a) a területileg illetékes rendőrkapitányságtól gépjárművet kér az el�
 
 b) a területileg illetékes rendőrkapitányságon elkészíti a szükséges jelentéseket, okiratokat.
 
-(4)[^113] A vonatkísérő intézkedéseinek jogszerűségét, szakszerűségét a helyi általános rendőrségi feladatok ellátására létrehozott szerv vezetője vagy szolgálatparancsnoka minősíti.
+(4)[^114] A vonatkísérő intézkedéseinek jogszerűségét, szakszerűségét a helyi általános rendőrségi feladatok ellátására létrehozott szerv vezetője vagy szolgálatparancsnoka minősíti.
 
-[^113]: A 82. § (4) bekezdése a 61/2015. (XI. 24.) BM rendelet 17. § m) pontja szerint módosított szöveg.
+[^114]: A 82. § (4) bekezdése a 61/2015. (XI. 24.) BM rendelet 17. § m) pontja szerint módosított szöveg.
