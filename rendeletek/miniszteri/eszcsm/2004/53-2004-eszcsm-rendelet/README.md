@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-53-20-0
 | 2015-10-20 | 2004-53-20-0M.20 | 47/2015. (X. 19.) EMMI rendelet |
 | 2016-04-01 | 2004-53-20-0M.21 | 47/2015. (X. 19.) EMMI rendelet |
 | 2018-02-14 | 2004-53-20-0M.22 | 8/2018. (II. 13.) EMMI rendelet |
+| 2018-07-05 | 2004-53-20-0M.23 | 5/2005. (III. 3.) EüM rendelet |

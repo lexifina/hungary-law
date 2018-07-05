@@ -1,4 +1,4 @@
-## 20/A. §[^72] Az egyes alapvető gyógyszerek kereskedelmének Európai Unióba történő eltérítésének elkerüléséről szóló 953/2003/EK rendelet alapján a többszintű árképzés alá vont gyógyszerek Európai Közösségbe történő behozatala esetén a magyarországi hatáskörrel és illetékességgel rendelkező nemzeti hatóságra háruló feladatokat az OGYÉI látja el.
+## 20/A. §[^72] Az egyes alapvető gyógyszerek kereskedelme Európai Unióba történő eltérítésének elkerüléséről szóló, 2016. május 11-i (EU) 2016/793 európai parlamenti és tanácsi rendelet alapján a többszintű árképzés alá vont gyógyszerek Európai Unióba történő behozatala esetén a magyarországi hatáskörrel és illetékességgel rendelkező nemzeti hatóságra háruló feladatokat az OGYÉI látja el.
 
 ## Gyógyszerközvetítés[^73]
 
@@ -12,7 +12,7 @@
 
 (5)[^77] A gyógyszerközvetítő tevékenysége során köteles figyelembe venni az Európai Bizottság helyes forgalmazási gyakorlatról szóló iránymutatásában foglaltakat, valamint a felelősségi köröket, a folyamatokat és a kockázatkezelési intézkedéseket meghatározó minőségbiztosítási rendszerrel kell rendelkeznie.
 
-[^72]: A 20/A. §-t az 5/2005. (III. 3.) EüM rendelet 1. §–a iktatta be, szövege a 38/2009. (XI. 6.) EüM rendelet 5. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 64. § b) pontja szerint módosított szöveg.
+[^72]: A 20/A. §-t az 5/2005. (III. 3.) EüM rendelet 1. §–a iktatta be, szövege a 18/2018. (VII. 4.) EMMI rendelet 2. §-ával megállapított szöveg.
 [^73]: A 20/B. §-t megelőző alcímet az 53/2012. (XII. 28.) EMMI rendelet 6. §-a iktatta be.
 [^74]: A 20/B. §-t az 53/2012. (XII. 28.) EMMI rendelet 6. §-a iktatta be.
 [^75]: A 20/B. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 64. § b) és f) pontja szerint módosított szöveg.
