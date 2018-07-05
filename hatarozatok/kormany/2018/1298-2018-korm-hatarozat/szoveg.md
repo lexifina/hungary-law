@@ -14,4 +14,6 @@ emberi erőforrások minisztere
 
 Határidő: folyamatos
 
-3. visszavonja az Egészséges Budapest Program Dél-budai Centruma megvalósításával kapcsolatos feladatokról szóló 1238/2018. (IV. 25.) Korm. határozat 5. pontját.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
