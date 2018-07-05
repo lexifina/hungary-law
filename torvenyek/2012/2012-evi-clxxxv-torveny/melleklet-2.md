@@ -6,7 +6,7 @@
 
 ## 1. táblázat
 
-## 5K22888_0 | Veszélyességi osztályok és kategóriák kódjai: | Figyelmeztető mondatok kódjai: | instabil robbanóanyagok | H 200 | robbanóanyagok 1.1 | H 201 | robbanóanyagok 1.2 | H 202 | robbanóanyagok 1.3 | H 203 | robbanóanyagok 1.4 | H 204 | önreaktív anyagok A | H 240 | szerves peroxidok A | önreaktív anyagok B | H 241 | szerves peroxidok B
+## 7K34096M_0 | Veszélyességi osztályok és kategóriák kódjai: | Figyelmeztető mondatok kódjai: | instabil robbanóanyagok | H 200 | robbanóanyagok 1.1 | H 201 | robbanóanyagok 1.2 | H 202 | robbanóanyagok 1.3 | H 203 | robbanóanyagok 1.4 | H 204 | önreaktív anyagok A | H 240 | szerves peroxidok A | önreaktív anyagok B | H 241 | szerves peroxidok B
 
 ## 2. HP 2 „Oxidáló”: Olyan hulladék, amely – általában azzal, hogy oxigént biztosít – más anyag égését okozza vagy elősegíti.
 
@@ -16,7 +16,7 @@
 
 ## 2. táblázat
 
-## 5K22888_1 | Veszélyességi osztályok és kategóriák kódjai: | Figyelmeztető mondatok kódjai: | oxidáló gázok 1 | H 270 | oxidáló folyadékok 1 | H 271 | oxidáló szilárd anyagok 1 | oxidáló folyadékok 2 | H 272 | oxidáló folyadékok 3 | oxidáló szilárd anyagok 2 | oxidáló szilárd anyagok 3
+## 7K34096M_1 | Veszélyességi osztályok és kategóriák kódjai: | Figyelmeztető mondatok kódjai: | oxidáló gázok 1 | H 270 | oxidáló folyadékok 1 | H 271 | oxidáló szilárd anyagok 1 | oxidáló folyadékok 2 | H 272 | oxidáló folyadékok 3 | oxidáló szilárd anyagok 2 | oxidáló szilárd anyagok 3
 
 ## 3. HP 3 „Tűzveszélyes”:
 
@@ -38,7 +38,7 @@
 
 ## 3. táblázat
 
-## 5K22888_2 | Veszélyességi osztályok és kategóriák kódjai: | Figyelmeztető mondatok kódjai: | tűzveszélyes gázok 1 | H 220 | tűzveszélyes gázok 2 | H 221 | aerosol 1 | H 222 | aerosol 2 | H 223 | tűzveszélyes folyadékok 1 | H 224 | tűzveszélyes folyadékok 2 | H 225 | tűzveszélyes folyadékok 3 | H 226 | tűzveszélyes szilárd anyagok 1 | H 228 | tűzveszélyes szilárd anyagok 2 | önreaktív anyagok CD | H 242 | önreaktív anyagok EF | szerves peroxidok CD | szerves peroxidok EF | öngyulladó folyadékok 1 | H 250 | öngyulladó szilárd anyagok 1 | önmelegedő anyagok 1 | H 251 | önmelegedő anyagok 2 | H 252 | vízzel reakcióba lépő anyagok 1 | H 260 | vízzel reakcióba lépő anyagok 2 | H 261 | vízzel reakcióba lépő anyagok 3
+## 7K34096M_2 | Veszélyességi osztályok és kategóriák kódjai: | Figyelmeztető mondatok kódjai: | tűzveszélyes gázok 1 | H 220 | tűzveszélyes gázok 2 | H 221 | aerosol 1 | H 222 | aerosol 2 | H 223 | tűzveszélyes folyadékok 1 | H 224 | tűzveszélyes folyadékok 2 | H 225 | tűzveszélyes folyadékok 3 | H 226 | tűzveszélyes szilárd anyagok 1 | H 228 | tűzveszélyes szilárd anyagok 2 | önreaktív anyagok CD | H 242 | önreaktív anyagok EF | szerves peroxidok CD | szerves peroxidok EF | öngyulladó folyadékok 1 | H 250 | öngyulladó szilárd anyagok 1 | önmelegedő anyagok 1 | H 251 | önmelegedő anyagok 2 | H 252 | vízzel reakcióba lépő anyagok 1 | H 260 | vízzel reakcióba lépő anyagok 2 | H 261 | vízzel reakcióba lépő anyagok 3
 
 ## 4. HP 4 „Irritáló” – bőrirritáció és szemkárosodás: Olyan hulladék, amely a bőrrel vagy szemmel érintkezve bőrirritációt vagy szemkárosodást okozhat.
 
@@ -64,7 +64,7 @@
 
 ## 4. táblázat
 
-## 5K22888_3 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek | STOT SE 1 | H 370 | 1% | STOT SE 2 | H 371 | 10% | STOT SE 3 | H 335 | 20% | STOT RE 1 | H 372 | 1% | STOT RE 2 | H 373 | 10% | Asp. tox. 1 | H 304 | 10%
+## 7K34096M_3 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek | STOT SE 1 | H 370 | 1% | STOT SE 2 | H 371 | 10% | STOT SE 3 | H 335 | 20% | STOT RE 1 | H 372 | 1% | STOT RE 2 | H 373 | 10% | Asp. tox. 1 | H 304 | 10%
 
 ## 6. HP 6 „Akut toxicitás”: Olyan hulladék, amely szájon át vagy bőrön át kapott dózis, illetve belélegzés folytán akut toxicitást okozhat.
 
@@ -80,7 +80,7 @@
 
 ## 5. táblázat
 
-## 5K22888_4 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek | Akut toxicitást okozó anyagok (szájon át) 1 | H 300 | 0,1% | Akut toxicitást okozó anyagok (szájon át) 2 | H 300 | 0,25% | Akut toxicitást okozó anyagok (szájon át) 3 | H 301 | 5% | Akut toxicitást okozó anyagok (szájon át) 4 | H 302 | 25% | Akut toxicitást okozó anyagok (bőrön keresztül) 1 | H 310 | 0,25% | Akut toxicitást okozó anyagok (bőrön keresztül) 2 | H 310 | 2,5% | Akut toxicitást okozó anyagok (bőrön keresztül) 3 | H 311 | 15% | Akut toxicitást okozó anyagok (bőrön keresztül) 4 | H 312 | 55% | Akut toxicitást okozó anyagok (belélegzés útján) 1 | H 330 | 0,1% | Akut toxicitást okozó anyagok (belélegzés útján) 2 | H 330 | 0,5% | Akut toxicitást okozó anyagok (belélegzés útján) 3 | H 331 | 3,5% | Akut toxicitást okozó anyagok (belélegzés útján) 4 | H 332 | 22,5%
+## 7K34096M_4 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek | Akut toxicitást okozó anyagok (szájon át) 1 | H 300 | 0,1% | Akut toxicitást okozó anyagok (szájon át) 2 | H 300 | 0,25% | Akut toxicitást okozó anyagok (szájon át) 3 | H 301 | 5% | Akut toxicitást okozó anyagok (szájon át) 4 | H 302 | 25% | Akut toxicitást okozó anyagok (bőrön keresztül) 1 | H 310 | 0,25% | Akut toxicitást okozó anyagok (bőrön keresztül) 2 | H 310 | 2,5% | Akut toxicitást okozó anyagok (bőrön keresztül) 3 | H 311 | 15% | Akut toxicitást okozó anyagok (bőrön keresztül) 4 | H 312 | 55% | Akut toxicitást okozó anyagok (belélegzés útján) 1 | H 330 | 0,1% | Akut toxicitást okozó anyagok (belélegzés útján) 2 | H 330 | 0,5% | Akut toxicitást okozó anyagok (belélegzés útján) 3 | H 331 | 3,5% | Akut toxicitást okozó anyagok (belélegzés útján) 4 | H 332 | 22,5%
 
 ## 7. HP 7 „Rákkeltő (karcinogén)”: Olyan hulladék, amely rákot okoz vagy növeli annak incidenciáját.
 
@@ -90,7 +90,7 @@
 
 ## 6. táblázat
 
-## 5K22888_5 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek | karcinogén anyagok 1A | H 350 | 0,1% | karcinogén anyagok 1B | karcinogén anyagok 2 | H 351 | 1,0%
+## 7K34096M_5 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek | karcinogén anyagok 1A | H 350 | 0,1% | karcinogén anyagok 1B | karcinogén anyagok 2 | H 351 | 1,0%
 
 ## 8. HP 8 „Maró”: Olyan hulladék, amely a bőrrel érintkezve bőrirritációt okozhat.
 
@@ -110,7 +110,7 @@
 
 ## 7. táblázat
 
-## 5K22888_6 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek | reprodukciót károsító anyagok 1A | H 360 | 0,3% | reprodukciót károsító anyagok 1B | reprodukciót károsító anyagok 2 | H 361 | 3,0%
+## 7K34096M_6 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek | reprodukciót károsító anyagok 1A | H 360 | 0,3% | reprodukciót károsító anyagok 1B | reprodukciót károsító anyagok 2 | H 361 | 3,0%
 
 ## 11. HP 11 „Mutagén”: Olyan hulladék, amely mutációt, vagyis a sejt genetikai anyagának végleges mennyiségi vagy szerkezeti változását okozhatja.
 
@@ -120,7 +120,7 @@
 
 ## 8. táblázat
 
-## 5K22888_7 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek | mutagén anyagok 1A | H 340 | 0,1% | mutagén anyagok 1B | mutagén anyagok 2 | H 341 | 1,0%
+## 7K34096M_7 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek | mutagén anyagok 1A | H 340 | 0,1% | mutagén anyagok 1B | mutagén anyagok 2 | H 341 | 1,0%
 
 ## 12. HP 12 „Akut mérgező gázokat fejlesztő”: Olyan hulladék, amely vízzel vagy savval érintkezve akut mérgező gázokat fejleszt (Acute tox. 1, 2 vagy 3).
 
@@ -130,7 +130,27 @@
 
 ## 13.1. Ha a hulladék allergén besorolású anyagot tartalmaz, amelyhez hozzárendelték a H 317 vagy H 334 figyelmeztető mondatok egyikének kódját, és valamely anyag koncentrációja eléri vagy túllépi a 10%-os koncentrációs határértéket, a hulladékot a HP 13 veszélyességi kategóriába kell sorolni.
 
-## 14. HP 14 „Környezetre veszélyes (ökotoxikus)”: Olyan hulladék, amely közvetlenül vagy közvetve veszélyt jelent vagy jelenthet egy vagy több környezeti elemre.
+## 14. HP 14 »környezetre veszélyes (ökotoxikus)«: olyan hulladék, amely azonnal vagy késleltetve veszélyt jelent vagy jelenthet egy vagy több környezeti elemre.
+
+## Az alábbi feltételek bármelyikének megfelelő hulladékot a HP 14 veszélyességi kategóriába kell sorolni:
+
+## 14.1. a hulladék »ózonkárosító« besorolású anyagot tartalmaz, amelyhez az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1272/2008/EK rendelet) értelmében a H420 figyelmeztető mondat van hozzárendelve, és ezen anyag koncentrációja eléri vagy túllépi a 0,1%-os koncentrációs határértéket.
+
+## [c(H420) ≥ 0,1%];
+
+## 14.2. a hulladék egy vagy több »vízi, akut« besorolású anyagot tartalmaz, amelyhez az 1272/2008/EK rendelet értelmében a H400 figyelmeztető mondat van hozzárendelve, és ezen anyag koncentrációja eléri vagy túllépi a 25%-os koncentrációs határértéket. Az ilyen anyagokra 0,1%-os küszöbértéket kell figyelembe venni.
+
+## [Σ c (H400) ≥ 25%];
+
+## 14.3. a hulladék egy vagy több »vízi, krónikus 1«, »vízi, krónikus 2« vagy »vízi, krónikus 3« besorolású anyagot tartalmaz, amelyekhez az 1272/2008/EK rendelet értelmében a H410, H411, illetve H412 figyelmeztető mondat van hozzárendelve, és az összes »vízi, krónikus 1« (H410) besorolású anyag koncentrációjának összegét százzal szorozva, hozzáadva az összes »vízi, krónikus 2« (H411) besorolású anyag koncentrációjának tízzel szorzott összegét, valamint az összes »vízi, krónikus 3« (H412) besorolású anyag koncentrációjának összegét, az eredmény eléri vagy túllépi a 25%-os koncentrációs határértéket. A H410 besorolású anyagokra 0,1%-os küszöbértéket, a H411 vagy H412 besorolású anyagokra pedig 1%-os küszöbértéket kell figyelembe venni.
+
+## [100 × Σc (H410) + 10 × Σc (H411) + Σc (H412) ) ≥ 25%];
+
+## 14.4. a hulladék egy vagy több »vízi, krónikus 1«, »vízi, krónikus 2«, »vízi, krónikus 3« vagy »vízi, krónikus 4« besorolású anyagot tartalmaz, amelyekhez az 1272/2008/EK rendelet értelmében a H410, H411, H412, illetve H413 figyelmeztető mondat van hozzárendelve, és az összes »vízi, krónikus« besorolású anyag koncentrációjának összege eléri vagy túllépi a 25%-os koncentrációs határértéket. A H410 besorolású anyagokra 0,1%-os küszöbértéket, a H411, H412, illetve H413 besorolású anyagokra pedig 1%-os küszöbértéket kell figyelembe venni.
+
+## [Σ c H410 + Σ c H411 + Σ c H412 + Σ c H413 ≥ 25%].
+
+## ahol: Σ = az összeg és c = az anyagok koncentrációja.
 
 ## 15. HP 15 „Olyan hulladék, amely képes a HP 1–14-ben felsorolt olyan veszélyességi tulajdonságot mutatni, amellyel az eredeti hulladék nem rendelkezik”:
 
@@ -140,13 +160,11 @@
 
 ## 9. táblázat
 
-## 5K22888_8 | Figyelmeztető mondatok/kiegészítő figyelmeztetések: | Tűz hatására a teljes tömeg felrobbanhat | H 205 | Száraz állapotban robbanásveszélyes | EUH001 | Robbanásveszélyes peroxidokat képezhet | EUH019 | Zárt térben hő hatására robbanhat | EUH044
+## 7K34096M_8 | Figyelmeztető mondatok/kiegészítő figyelmeztetések: | Tűz hatására a teljes tömeg felrobbanhat | H 205 | Száraz állapotban robbanásveszélyes | EUH001 | Robbanásveszélyes peroxidokat képezhet | EUH019 | Zárt térben hő hatására robbanhat | EUH044
 
 ## 15.2. A hulladék más alkalmazható kritérium alapján is a HP 15 veszélyességi kategóriába sorolható, mint például a csurgalékvíz értékelése alapján.
 
-## 16. Megjegyzés:
-
-## A HP 14 veszélyességi tulajdonságúnak minősítés a veszélyes anyagok osztályozására, csomagolására és címkézésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló, 1967. június 27-i 67/548/EGK tanácsi irányelv VI. mellékletében meghatározott feltételeknek megfelelően történik.
+## 16.
 
 ## 17. Vizsgálati módszerek:
 
