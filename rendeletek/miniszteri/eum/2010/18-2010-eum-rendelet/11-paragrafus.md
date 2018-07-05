@@ -12,5 +12,14 @@ c) az in vitro diagnosztikai orvostechnikai eszközökről szóló 1998. októbe
 
 (3)[^13] Ez a rendelet a kijelölt szervezeteknek az aktív beültethető orvostechnikai eszközökről szóló 90/385/EGK tanácsi irányelv és az orvostechnikai eszközökről szóló 93/42/EGK irányelv alapján történő kijelöléséről és felügyeletéről szóló 2013. szeptember 24-i 920/2013/EU bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(4)[^14] Ez a rendelet a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
+
+a) az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet,
+
+b) az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet,
+
+c) az (EU) 2017/745 európai parlamenti és tanácsi rendelet szerint az orvostechnikai eszközök, valamint az (EU) 2017/746 európai parlamenti és tanácsi rendelet szerint az in vitro diagnosztikai orvostechnikai eszközök területén bejelentett szervezetként való kijelölés alapján végezhető tevékenységek körének meghatározása érdekében összeállítandó kódok és kapcsolódó eszköztípusok jegyzékéről szóló, 2017. november 23-i (EU) 2017/2185 bizottsági végrehajtási rendelet.
+
 [^12]: A 10. §-t a 8/2018. (II. 13.) EMMI rendelet 70. § e) pontja hatályon kívül helyezte.
 [^13]: A 11. § (3) bekezdését a 3/2014. (I. 16.) EMMI rendelet 39. §-a iktatta be.
+[^14]: A 11. § (4) bekezdését a 17/2018. (VII. 4.) EMMI rendelet 6. §-a iktatta be.
