@@ -1,4 +1,4 @@
-2. melléklet az 1612/2016. (XI. 8.) Korm. határozathoz
+2. melléklet az 1612/2016. (XI. 8.) Korm. határozathoz[^3]
 
 1. A megyei jogú városi integrált területi programok megnevezése, forráskerete és a kapcsolódó tematikus célkitűzés adatai:
 
@@ -198,7 +198,7 @@
 
 | 6. | Győr Megyei Jogú Város Önkormányzata | 6,143 | 1,677 | 4,321 | 2,736 | 2,107 | 1,168 | 0,850 | 1,803 | 0,800 |
 
-| 7. | Hódmezővásárhely Megyei Jogú Város Önkormányzata | 2,934 | 0,764 | 1,831 | 0,876 | 1,556 | 0,532 | 0,233 | 0,821 | 0,290 |
+| 7. | Hódmezővásárhely Megyei Jogú Város Önkormányzata | 2,934 | 0,764 | 1,831 | 0,876 | 1,558 | 0,532 | 0,233 | 0,821 | 0,290 |
 
 | 8. | Kaposvár Megyei Jogú Város Önkormányzata | 4,400 | 0,601 | 3,535 | 1,313 | 2,240 | 0,798 | 0,200 | 1,231 | 0,435 |
 
@@ -236,50 +236,52 @@
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U |
 
-| 1. | Területi szereplő megnevezése | A fejlesztett vagy újonnan létesített iparterületek és ipari parkok területe (ha) | A felújított vagy korszerűsített utak teljes hossza (km) | Fejlesztett, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | Városi területeken létrehozott vagy helyreállított nyitott terek (m2) | Kialakított kerékpárforgalmi létesítmények hossza (km) | Üvegházhatású gázok becsült éves csökkenése (tonna CO2 egyenérték) | Fejlesztéssel érintett egészségügyi alapellátást nyújtó szolgálatok száma (db) | Helyreállított lakóegységek városi területeken (lakóegység) | A foglalkoztatási paktumok keretében munkaerőpiaci programokban résztvevők száma (fő) | Helyi társadalmi akciókban résztvevők száma (fő) |
+| 1. | Területi szereplő megnevezése | A fejlesztett vagy újonnan létesített iparterületek és ipari parkok területe (ha) | A felújított vagy korszerűsített utak teljes hossza (km) | Fejlesztett, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | Városi területeken létrehozott vagy helyreállított nyitott terek (m2) | Kialakított kerékpárforgalmi létesítmények hossza (km) | Üvegházhatású gázok becsült éves csökkenése (tonna CO2-egyenérték) | Fejlesztéssel érintett egészségügyi alapellátást nyújtó szolgálatok száma (db) | Helyreállított lakóegységek városi területeken (lakóegység) | A foglalkoztatási paktumok keretében munkaerőpiaci programokban részt vevők száma (fő) | Helyi társadalmi akciókban részt vevők száma (fő) |
 
-| 2. | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonat- kozó részcél | Végső cél (2023) | 2018-ra vonat- kozó részcél | Végső cél (2023) | 2018-ra vonat- kozó részcél | Végső cél (2023) | 2018-ra vonat- kozó részcél | Végső cél (2023) | 2018-ra vonat- kozó részcél | Végső cél (2023) | 2018-ra vonat- kozó részcél | Végső cél (2023) | 2018-ra vonat- kozó részcél | Végső cél (2023) | 2018-ra vonat- kozó részcél | Végső cél (2023) | 2018-ra vonat- kozó részcél | Végső cél (2023) |
+| 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) |
 
-| 3. | Békéscsaba Megyei Jogú Város Önkormányzata | 3,99 | 19,91 | 0,75 | 3,73 | 25,00 | 125,00 | 4 118,26 | 20 591,29 | 2,30 | 11,42 | 1 838,62 | 9 193,16 | 4,00 | 18,00 | 11,00 | 51,00 | 152,00 | 756,00 | 2 410,00 | 12 049,00 |
+| 2. | Békéscsaba Megyei Jogú Város Önkormányzata | 3,99 | 19,91 | 0,75 | 2,63 | 25,00 | 125,00 | 4 118,26 | 20 591,29 | 2,30 | 11,42 | 524,04 | 2 620,00 | 4,00 | 18,00 | 11,00 | 51,00 | 152,00 | 756,00 | 2 410,00 | 12 049,00 |
 
-| 4. | Debrecen Megyei Jogú Város Önkormányzata | 84,00 | 84,00 | 4,00 | 16,00 | 290,00 | 665,00 | 20 000,00 | 79 467,76 | 15,00 | 37,38 | 4 105,90 | 20 529,68 | 15,00 | 61,00 | 12,00 | 30,00 | 620,00 | 2 474,00 | 9 248,00 | 46 239,00 |
+| 3. | Debrecen Megyei Jogú Város Önkormányzata | 84,00 | 84,00 | 3,40 | 11,08 | 290,00 | 665,00 | 20 000,00 | 79 467, 76 | 9,10 | 37,38 | 1 158,56 | 5 793,00 | 15,00 | 61,00 | 6,00 | 30,00 | 620,00 | 2 474,00 | 9 248,00 | 46 239,00 |
 
-| 5. | Dunaújváros Megyei Jogú Város Önkormányzata | 3,50 | 15,20 | 0,60 | 3,00 | 110,00 | 110,00 | 2 800,00 | 14 000,00 | 1,50 | 7,00 | 704,20 | 3 521,05 | 3,00 | 11,00 | 0,00 | 0,00 | 85,00 | 425,00 | 1 585,00 | 7 924,00 |
+| 4. | Dunaújváros Megyei Jogú Város Önkormányzata | 3,05 | 15,20 | 0,57 | 2,01 | 110,00 | 110,00 | 2 800,00 | 14 000,00 | 1,50 | 7,00 | 200,67 | 1 003,00 | 3,00 | 11,00 | 0,00 | 0,00 | 85,00 | 425,00 | 1 585,00 | 7 924,00 |
 
-| 6. | Eger Megyei Jogú Város Önkormányzata | 4,30 | 21,45 | 0,81 | 4,01 | 31,00 | 151,00 | 4 067,00 | 20 335,00 | 1,92 | 9,57 | 1 050,72 | 5 253,66 | 4,00 | 16,00 | 3,00 | 14,00 | 127,00 | 633,00 | 2 367,00 | 11 832,00 |
+| 5. | Eger Megyei Jogú Város Önkormányzata | 4,30 | 21,45 | 0,81 | 2,83 | 56,00 | 151,00 | 4950,00 | 20 325,48 | 4,00 | 9,57 | 276,09 | 1 380,00 | 4,00 | 16,00 | 3,00 | 14,00 | 127,00 | 633,00 | 2 367,00 | 11 832,00 |
 
-| 7. | Győr Megyei Jogú Város Önkormányzata | 19,00 | 40,00 | 2,00 | 8,00 | 150,00 | 294,00 | 8 518,43 | 42 592,12 | 5,33 | 27,00 | 1 261,47 | 6 307,39 | 16,00 | 31,00 | 9,00 | 43,00 | 247,00 | 1 234,00 | 5 789,00 | 28 945,00 |
+| 6. | Győr Megyei Jogú Város Önkormányzata | 19,00 | 40,00 | 1,49 | 5,27 | 150,00 | 294,00 | 8 518,43 | 42 592,12 | 5,33 | 27,00 | 389,53 | 1 948,00 | 16,00 | 31,00 | 9,00 | 43,00 | 247,00 | 1 234,00 | 5 789,00 | 28 945,00 |
 
-| 8. | Hódmezővásárhely Megyei Jogú Város Önkormányzata | 20,00 | 20,00 | 4,00 | 4,00 | 133,00 | 133,00 | 20 000,00 | 20 000,00 | 8,00 | 8,00 | 4 663,00 | 4 663,00 | 14,00 | 14,00 | 12,00 | 12,00 | 562,00 | 562,00 | 10 500,00 | 10 500,00 |
+| 7. | Hódmezővásárhely Megyei Jogú Város Önkormányzata | 3,82 | 20,00 | 0,72 | 4,00 | 134,00 | 134,00 | 20 000,00 | 20 000,00 | 8,00 | 14,00 | 39,83 | 40,00 | 3,00 | 14,00 | 3,00 | 12,00 | 113,00 | 562,00 | 2099,00 | 10 500,00 |
 
-| 9. | Kaposvár Megyei Jogú Város Önkormányzata | 5,72 | 28,56 | 5,00 | 5,34 | 105,00 | 106,00 | 17 420,00 | 34 844,51 | 13,00 | 13,00 | 1 341,09 | 6 705,53 | 21,00 | 21,00 | 5,00 | 10,00 | 200,00 | 843,00 | 5 080,00 | 15 739,00 |
+| 8. | Kaposvár Megyei Jogú Város Önkormányzata | 5,72 | 28,56 | 5,00 | 5,34 | 105,00 | 106,00 | 17 420,00 | 34 844,51 | 13,00 | 13,00 | 382,24 | 1 911,00 | 21,00 | 21,00 | 5,00 | 10,00 | 200,00 | 843,00 | 5 080,00 | 15 739,00 |
 
-| 10. | Kecskemét Megyei Jogú Város Önkormányzata | 8,96 | 45,00 | 1,68 | 8,36 | 63,00 | 314,00 | 8 479,00 | 42 394,00 | 4,00 | 20,00 | 2 190,05 | 10 952,00 | 7,00 | 33,00 | 6,00 | 28,00 | 264,00 | 1 320,00 | 4 936,00 | 24 676,00 |
+| 9. | Kecskemét Megyei Jogú Város Önkormányzata | 8,96 | 45,00 | 1,68 | 5,91 | 63,00 | 314,00 | 8 479,00 | 42 394,00 | 4,00 | 20,00 | 624,11 | 3 121,00 | 7,00 | 33,00 | 6,00 | 28,00 | 264,00 | 1 320,00 | 4 936,00 | 24 676,00 |
 
-| 11. | Miskolc Megyei Jogú Város Önkormányzata | 15,00 | 71,49 | 2,80 | 13,37 | 96,00 | 392,00 | 13 000,00 | 64 692,00 | 6,29 | 30,43 | 3 500,00 | 16 713,00 | 10,00 | 50,00 | 9,00 | 42,00 | 403,00 | 2 014,00 | 7 526,00 | 37 628,00 |
+| 10. | Miskolc Megyei Jogú Város Önkormányzata | 15,00 | 71,49 | 2,67 | 9,45 | 96,00 | 392,00 | 13 000,00 | 64 691,52 | 6,29 | 30,43 | 677,56 | 3 235,00 | 10,00 | 50,00 | 9,00 | 42,00 | 403,00 | 2 014,00 | 7 526,00 | 37 628,00 |
 
-| 12. | Nagykanizsa Megyei Jogú Város Önkormányzata | 52,00 | 52,00 | 1,10 | 4,00 | 188,00 | 188,00 | 32 200,00 | 32 200,00 | 1,00 | 1,00 | 3 763,00 | 3 919,49 | 7,00 | 8,00 | 0,00 | 0,00 | 91,00 | 454,00 | 1 700,00 | 8 467,00 |
+| 11. | Nagykanizsa Megyei Jogú Város Önkormányzata | 4,25 | 52,00 | 0,79 | 2,80 | 188,00 | 188,00 | 32 200,00 | 32 200,00 | 1,00 | 1,00 | 1 072,27 | 1 117,00 | 7,00 | 8,00 | 0,00 | 0,00 | 91,00 | 454,00 | 1 700,00 | 8 467,00 |
 
-| 13. | Nyíregyháza Megyei Jogú Város Önkormányzata | 9,55 | 47,68 | 1,79 | 9,00 | 67,00 | 335,00 | 9 243,90 | 46 219,50 | 4,27 | 21,26 | 1 496,76 | 7 483,85 | 7,00 | 35,00 | 18,00 | 87,00 | 282,00 | 1 407,00 | 6 368,00 | 31 839,00 |
+| 12. | Nyíregyháza Megyei Jogú Város Önkormányzata | 9,55 | 47,68 | 1,79 | 6,30 | 67,00 | 335,00 | 9 243,90 | 46 219,50 | 4,27 | 21,26 | 426,61 | 2 133,00 | 7,00 | 35,00 | 18,00 | 87,00 | 282,00 | 1 407,00 | 6 368,00 | 31 839,00 |
 
-| 14. | Pécs Megyei Jogú Város Önkormányzata | 12,56 | 62,71 | 2,35 | 12,00 | 86,00 | 426,00 | 10 928,00 | 54 638,00 | 5,81 | 29,00 | 2 820,00 | 14 100,00 | 9,00 | 44,00 | 9,00 | 40,00 | 359,00 | 1 793,00 | 6 817,00 | 34 082,00 |
+| 13. | Pécs Megyei Jogú Város Önkormányzata | 12,56 | 62,71 | 2,35 | 8,29 | 86,00 | 426,00 | 10 928,00 | 54 638,00 | 5,81 | 29,00 | 360,41 | 1 802,00 | 9,00 | 44,00 | 9,00 | 40,00 | 359,00 | 1 793,00 | 6 817,00 | 34 082,00 |
 
-| 15. | Salgótarján Megyei Jogú Város Önkormányzata | 3,12 | 15,58 | 2,39 | 3,00 | 62,00 | 125,00 | 6 298,00 | 16 875,20 | 1,73 | 6,01 | 871,71 | 4 358,59 | 4,00 | 11,00 | 9,00 | 44,00 | 214,00 | 526,00 | 1 961,00 | 9 805,00 |
+| 14. | Salgótarján Megyei Jogú Város Önkormányzata | 3,12 | 15,58 | 1,70 | 2,06 | 62,00 | 125,00 | 3375,04 | 16 875,20 | 1,21 | 6,01 | 221,12 | 1 106,00 | 3,00 | 11,00 | 9,00 | 44,00 | 214,00 | 526,00 | 1 961,00 | 9 805,00 |
 
-| 16. | Sopron Megyei Jogú Város Önkormányzata | 4,69 | 23,39 | 0,88 | 4,38 | 50,00 | 168,00 | 4 000,00 | 19 835,14 | 2,00 | 7,25 | 1 024,45 | 5 122,33 | 4,00 | 18,00 | 0,00 | 0,00 | 124,00 | 618,00 | 1 448,00 | 7 237,00 |
+| 15. | Sopron Megyei Jogú Város Önkormányzata | 4,69 | 23,39 | 0,87 | 3,09 | 50,00 | 168,00 | 4 000,00 | 19 835,14 | 2,00 | 7,25 | 291,97 | 1 460,00 | 4,00 | 18,00 | 0,00 | 0,00 | 124,00 | 618,00 | 1 448,00 | 7 237,00 |
 
-| 17. | Szeged Megyei Jogú Város Önkormányzata | 10,21 | 50,95 | 1,91 | 9,53 | 92,00 | 460,00 | 12 425,74 | 62 132,34 | 7,92 | 39,44 | 4 407,64 | 22 038,42 | 10,00 | 48,00 | 0,00 | 0,00 | 387,00 | 1 934,00 | 7 229,00 | 36 145,00 |
+| 16. | Szeged Megyei Jogú Város Önkormányzata | 10,21 | 50,95 | 1,91 | 6,73 | 92,00 | 460,00 | 12 425,74 | 62 132,34 | 7,92 | 39,44 | 1 256,27 | 6 281,00 | 10,00 | 48,00 | 0,00 | 0,00 | 387,00 | 1 934,00 | 7 229,00 | 36 145,00 |
 
-| 18. | Székesfehérvár Megyei Jogú Város Önkormányzata | 6,62 | 33,02 | 1,24 | 6,18 | 80,00 | 232,00 | 6 259,20 | 31 295,99 | 2,79 | 13,87 | 1 796,71 | 8 983,61 | 6,00 | 29,00 | 0,00 | 0,00 | 195,00 | 975,00 | 3 640,00 | 18 199,00 |
+| 17. | Székesfehérvár Megyei Jogú Város Önkormányzata | 6,62 | 33,02 | 1,24 | 6,18 | 80,00 | 232,00 | 6 259,20 | 31 295,99 | 2,79 | 13,87 | 921,84 | 4 609,00 | 6,00 | 29,00 | 0,00 | 0,00 | 195,00 | 975,00 | 3 640,00 | 18 199,00 |
 
-| 19. | Szekszárd Megyei Jogú Város Önkormányzata | 3,00 | 13,30 | 1,00 | 3,02 | 19,00 | 119,00 | 2 516,85 | 12 587,40 | 1,22 | 6,00 | 650,19 | 3 250,99 | 2,00 | 10,00 | 2,00 | 9,00 | 79,00 | 393,00 | 1 462,00 | 7 309,00 |
+| 18. | Szekszárd Megyei Jogú Város Önkormányzata | 3,00 | 13,30 | 1,00 | 1,76 | 19,00 | 119,00 | 2517,48 | 12 587,40 | 1,22 | 6,00 | 185,32 | 927,00 | 2,00 | 10,00 | 2,00 | 9,00 | 79,00 | 393,00 | 1 462,00 | 7 309,00 |
 
-| 20. | Szolnok Megyei Jogú Város Önkormányzata | 7,39 | 37,00 | 1,38 | 7,00 | 42,00 | 207,00 | 5 573,16 | 27 865,76 | 1,27 | 6,34 | 1 062,22 | 5 310,54 | 6,00 | 26,00 | 4,00 | 18,00 | 174,00 | 868,00 | 3 242,00 | 16 209,00 |
+| 19. | Szolnok Megyei Jogú Város Önkormányzata | 7,39 | 37,00 | 1,38 | 4,87 | 42,00 | 207,00 | 5 573,16 | 27 865,76 | 1,27 | 6,34 | 233,12 | 1 165,00 | 6,00 | 26,00 | 4,00 | 18,00 | 174,00 | 868,00 | 3 242,00 | 16 209,00 |
 
-| 21. | Szombathely Megyei Jogú Város Önkormányzata | 5,48 | 27,36 | 1,02 | 5,11 | 40,00 | 198,00 | 5 332,66 | 26 663,29 | 2,03 | 9,84 | 1 555,44 | 7 777,28 | 10,00 | 21,00 | 10,00 | 23,00 | 415,00 | 830,00 | 3 105,00 | 15 522,00 |
+| 20. | Szombathely Megyei Jogú Város Önkormányzata | 5,48 | 27,36 | 1,02 | 3,62 | 40,00 | 198,00 | 5 332,66 | 26 663,29 | 2,03 | 9,84 | 710,18 | 3 551,00 | 10,00 | 21,00 | 10,00 | 23,00 | 415,00 | 830,00 | 3 105,00 | 15 522,00 |
 
-| 22. | Tatabánya Megyei Jogú Város Önkormányzata | 5,11 | 25,50 | 1,00 | 5,00 | 36,00 | 179,00 | 5 979,26 | 29 896,30 | 2,29 | 11,38 | 908,23 | 4 541,20 | 4,00 | 19,00 | 4,00 | 15,00 | 151,00 | 752,00 | 2 815,00 | 14 075,00 |
+| 21. | Tatabánya Megyei Jogú Város Önkormányzata | 5,11 | 25,50 | 1,00 | 5,00 | 36,00 | 179,00 | 5 979,26 | 29 896,30 | 2,29 | 11,38 | 111,31 | 557,00 | 4,00 | 19,00 | 4,00 | 15,00 | 151,00 | 752,00 | 2 815,00 | 14 075,00 |
 
-| 23. | Veszprém Megyei Jogú Város Önkormányzata | 5,00 | 21,00 | 2,00 | 4,00 | 60,00 | 298,00 | 10 000,00 | 21 172,85 | 4,00 | 10,00 | 1 094,43 | 5 472,23 | 4,00 | 13,00 | 0,00 | 0,00 | 132,00 | 659,00 | 1 332,00 | 6 658,00 |
+| 22. | Veszprém Megyei Jogú Város Önkormányzata | 5,00 | 21,00 | 2,74 | 2,74 | 60,00 | 298,00 | 10 000,00 | 21 172,85 | 4,00 | 10,00 | 311,93 | 1 560,00 | 4,00 | 13,00 | 0,00 | 0,00 | 132,00 | 659,00 | 1 332,00 | 6 658,00 |
 
-| 24. | Zalaegerszeg Megyei Jogú Város Önkormányzata | 30,00 | 130,00 | 1,50 | 5,00 | 31,00 | 152,00 | 1 936,40 | 20 000,00 | 4,00 | 15,00 | 1 446,00 | 7 228,62 | 8,00 | 16,00 | 0,00 | 0,00 | 129,00 | 650,00 | 2 388,00 | 11 940,00 |
+| 23. | Zalaegerszeg Megyei Jogú Város Önkormányzata | 30,00 | 130,00 | 1,00 | 3,53 | 31,00 | 152,00 | 1 936,40 | 20 000,00 | 4,00 | 15,00 | 412,01 | 2 060,00 | 8,00 | 16,00 | 0,00 | 0,00 | 129,00 | 650,00 | 2 388,00 | 11 940,00 |
+
+[^3]: A 2. melléklet az 1304/2018. (VII. 4.) Korm. határozat 2. pontja szerint módosított szöveg.

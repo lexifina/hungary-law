@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1612-30
 | --- | --- | --- |
 | 2016-11-08 | 2016-1612-30-22.1 | 1612/2016. (XI. 8.) Korm. határozat |
 | 2016-11-09 | 2016-1612-30-22.2 | 2010: CXXX. törvény |
+| 2018-07-05 | 2016-1612-30-22.3 | 1304/2018. (VII. 4.) Korm. határozat |
