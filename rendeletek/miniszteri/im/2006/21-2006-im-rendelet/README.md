@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-21-20-0
 | 2017-07-19 | 2006-21-20-06.25 | 10/2012. (II. 29.) KIM rendelet |
 | 2018-01-01 | 2006-21-20-06.26 | 12/2014. (II. 28.) KIM rendelet |
 | 2018-07-01 | 2006-21-20-06.27 | 16/2018. (VI. 22.) IM rendelet |
+| 2018-07-05 | 2006-21-20-06.28 | 21/2018. (VII. 4.) IM rendelet |

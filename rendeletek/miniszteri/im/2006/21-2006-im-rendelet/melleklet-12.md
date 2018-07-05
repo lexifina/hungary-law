@@ -20,7 +20,7 @@
 
 ## 1.4. Az iroda telephelye(i):[^5.]
 
-## 1.5. Az iroda fióktelepe(i): 6
+## 1.5. Az iroda fióktelepe(i):6
 
 ## 2. Az iroda tagjai
 
@@ -114,11 +114,11 @@
 
 ## 7.3.[^28.] A pótbefizetési kötelezettség a tagokat törzsbetéteik arányában terheli.
 
-## 7.4. [^29.] A pótbefizetés legfeljebb33
+## 7.4. A pótbefizetés legfeljebb33
 
 ## a) üzleti évenként egy alkalommal, a számviteli törvény szerinti éves beszámolót jóváhagyó taggyűlésen
 
-## b) üzleti évenként............................... [^30.] alkalommal
+## b) üzleti évenként...............................[^30.]alkalommal
 
 ## írható elő (pótbefizetés gyakorisága).
 
@@ -226,7 +226,7 @@
 
 ## a) székhelyére vagy telephelyére.
 
-## b)[^46.] …………………………………………………………………………………………………… címre.
+## b)[^46.]…………………………………………………………………………………………………… címre.
 
 ## 11.4. Az egyes tagokat megillető szavazatok száma:
 
@@ -340,7 +340,7 @@
 
 ## A megbízatás kezdő időpontja:
 
-## A megbízatás lejárta: [^60.] ………………………………………………………………………………………..
+## A megbízatás lejárta: ………………………………………………………………………………………..
 
 ## Név:
 
@@ -356,7 +356,7 @@
 
 ## A megbízatás kezdő időpontja:
 
-## A megbízatás lejárta: [^63.] ………………………………………………………………………………………..
+## A megbízatás lejárta: ………………………………………………………………………………………..
 
 ## [^64Név:]
 
@@ -372,7 +372,7 @@
 
 ## A megbízatás kezdő időpontja:
 
-## A megbízatás lejárta: [^67.]
+## A megbízatás lejárta:
 
 ## 16. Könyvvizsgáló[^68.]
 
@@ -430,9 +430,9 @@
 
 ## ................................................................................................................................................
 
-12. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^63]
+12. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^76]
 
-## AZ EGYSZEMÉLYES VÉGREHAJTÓI IRODA ALAPÍTÓ OKIRAT MINTÁJA
+AZ EGYSZEMÉLYES VÉGREHAJTÓI IRODA ALAPÍTÓ OKIRAT MINTÁJA
 
 Alapító okirat
 
@@ -442,9 +442,9 @@ Alulírott alapító, szerződésminta[^73.] alkalmazásával, a következők sz
 
 1.1. Az iroda cégneve: ………………………………………………………………………………….
 
-1.2. Az iroda idegen nyelvű cégneve: 2
+1.2. Az iroda idegen nyelvű cégneve:2
 
-Az iroda idegen nyelvű rövidített cégneve: 2
+Az iroda idegen nyelvű rövidített cégneve:2
 
 1.3. Az iroda székhelye: …………………………………………………………………………………………
 
@@ -622,7 +622,7 @@ szól.
 
 A megbízatás kezdő időpontja:
 
-A megbízatás lejárta: [^99.]
+A megbízatás lejárta:
 
 [^100Név:]
 
@@ -638,7 +638,7 @@ szól.
 
 A megbízatás kezdő időpontja:
 
-A megbízatás lejárta: [^103.]
+A megbízatás lejárta:
 
 15. Könyvvizsgáló[^104.]
 
@@ -718,7 +718,6 @@ Ellenjegyezte/közokiratba foglalta:[^107.]
 [^26.]: Aláhúzással jelölendő.
 [^27.]: A 7.1. a) pont választása esetén kell kitölteni.
 [^28.]: A 7.1. a) pont választása esetén kell alkalmazni.
-[^29.]: A 7.1. a) pont választása esetén kell kitölteni.
 [^30.]: Számmal jelölendő.
 [^31.]: Aláhúzással jelölendő.
 [^32.]: További tag esetén bővíthető.
@@ -749,20 +748,17 @@ Ellenjegyezte/közokiratba foglalta:[^107.]
 [^57.]: Aláhúzással jelölendő.
 [^58.]: Aláhúzással jelölendő.
 [^59.]: Legfeljebb 5 évre (Ptk. 3:121. §).
-[^60.]: Az a) pont választása esetén kitöltendő.
 [^61.]: Aláhúzással jelölendő.
 [^62.]: Legfeljebb 5 évre (Ptk. 3:121. §).
-[^63.]: Az a) pont választása esetén kitöltendő.
 [^64Név:]: Bővíthető. Ha a jogi személynél kötelező felügyelőbizottság létrehozása, háromnál kevesebb tagú felügyelőbizottság felállítása semmis.
 [^65.]: Aláhúzással jelölendő.
 [^66.]: Legfeljebb 5 évre (Ptk. 3: 121. §).
-[^67.]: Az a) pont választása esetén kitöltendő.
 [^68.]: A Ptk. 3:38. § és 3:129-131 § esetén.
 [^69.]: Természetes személy esetén kell kitölteni.
 [^70.]: Szervezet esetén kell kitölteni.
 [^71Név:]: Bővíthető.
 [^72.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
-[^63]: A 12. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 7. § j) pontja szerint módosított szöveg.
+[^76]: A 12. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 7. § j) pontja szerint módosított szöveg.
 [^73.]: Az alapító okirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott végrehajtói iroda esetében nem volt szükség.
 [^74.]: Aláhúzással jelölendő.
 [^75:]: Amennyiben a központi ügyintézés helye nem azonos a székhellyel, a központi ügyintézés helyének megjelölése kötelező.
@@ -789,11 +785,9 @@ Ellenjegyezte/közokiratba foglalta:[^107.]
 [^96.]: Az a) pont választása esetén kitöltendő.
 [^97.]: Aláhúzással jelölendő.
 [^98.]: Legfeljebb 5 évre (Ptk. 3:121. §).
-[^99.]: Az a) pont választása esetén kitöltendő.
 [^100Név:]: Bővíthető. Ha a jogi személynél kötelező felügyelőbizottság létrehozása, háromnál kevesebb tagú felügyelőbizottság felállítása semmis.
 [^101.]: Aláhúzással jelölendő.
 [^102.]: Legfeljebb 5 évre (Ptk. 3:121. §).
-[^103.]: Az a) pont választása esetén kitöltendő.
 [^104.]: A Ptk. 3:38. § és 3: 129-131 § esetén.
 [^105.]: Természetes személyesetén kell kitölteni.
 [^106.]: Szervezet esetén kell kitölteni.

@@ -12,7 +12,7 @@
 
 ## 1.2. A társaság idegen nyelvű cégneve:[^3.]
 
-## A társaság idegen nyelvű rövidített cégneve: 3
+## A társaság idegen nyelvű rövidített cégneve:3
 
 ## 1.3. A társaság székhelye:
 
@@ -24,7 +24,7 @@
 
 ## 1.4. A társaság telephelye(i):[^6.]
 
-## 1.5. A társaság fióktelepe(i): 6
+## 1.5. A társaság fióktelepe(i):6
 
 ## 2. A társaság tagjai
 
@@ -42,7 +42,7 @@
 
 ## Lakcím:
 
-## 2.2.[^10.] Név: [^11.]
+## 2.2.[^10.] Név:
 
 ## Lakcím:
 
@@ -130,11 +130,11 @@
 
 ## 7.3.[^35.] A pótbefizetési kötelezettség a tagokat törzsbetéteik arányában terheli.
 
-## 7.4. [^36.] A pótbefizetés legfeljebb33
+## 7.4. A pótbefizetés legfeljebb33
 
 ## a) üzleti évenként egy alkalommal, a számviteli törvény szerinti éves beszámolót jóváhagyó taggyűlésen
 
-## b) üzleti évenként............................... [^37.] alkalommal
+## b) üzleti évenként...............................[^37.]alkalommal
 
 ## írható elő (pótbefizetés gyakorisága).
 
@@ -242,7 +242,7 @@
 
 ## a) székhelyére vagy telephelyére.
 
-## b)[^53.] …………………………………………………………………………………………………… címre.
+## b)[^53.]…………………………………………………………………………………………………… címre.
 
 ## 11.4. Az egyes tagokat megillető szavazatok száma:
 
@@ -264,13 +264,13 @@
 
 ## 12.1.[^55.] A társaság ügyvezetésére és képviseletére jogosult ügyvezetője:
 
-## Név: [^56.]
+## Név:
 
 ## Lakcím:
 
-## Cégnév (név): [^57.]
+## Cégnév (név):
 
-## Cégjegyzékszám (nyilvántartási szám): [^58.]
+## Cégjegyzékszám (nyilvántartási szám):
 
 ## Székhely:
 
@@ -366,7 +366,7 @@
 
 ## A megbízatás kezdő időpontja:
 
-## A megbízatás lejárta: [^72.] ………………………………………………………………………………………..
+## A megbízatás lejárta: ………………………………………………………………………………………..
 
 ## Név:
 
@@ -382,7 +382,7 @@
 
 ## A megbízatás kezdő időpontja:
 
-## A megbízatás lejárta: [^75.] ………………………………………………………………………………………..
+## A megbízatás lejárta: ………………………………………………………………………………………..
 
 ## [^76Név:]
 
@@ -398,7 +398,7 @@
 
 ## A megbízatás kezdő időpontja:
 
-## A megbízatás lejárta: [^79.]
+## A megbízatás lejárta:
 
 ## 16. Könyvvizsgáló[^80.]
 
@@ -464,9 +464,9 @@
 
 ## ................................................................................................................................................
 
-7. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^58]
+7. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^71]
 
-## AZ EGYSZEMÉLYES KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG ALAPÍTÓ OKIRAT MINTÁJA
+AZ EGYSZEMÉLYES KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG ALAPÍTÓ OKIRAT MINTÁJA
 
 Alapító okirat
 
@@ -478,9 +478,9 @@ Alulírott alapító, szerződésminta[^1.] alkalmazásával, a következők sze
 
 A társaság rövidített cégneve: [^2.] Kft.
 
-1.2. A társaság idegen nyelvű cégneve: 2
+1.2. A társaság idegen nyelvű cégneve:2
 
-A társaság idegen nyelvű rövidített cégneve: 2
+A társaság idegen nyelvű rövidített cégneve:2
 
 1.3. A társaság székhelye:
 
@@ -500,7 +500,7 @@ Név:[^6.]
 
 Lakcím:
 
-Cégnév (név): [^7.]
+Cégnév (név):[^7.]
 
 Cégjegyzékszám (nyilvántartási szám):[^8.]
 
@@ -582,13 +582,13 @@ A törzsbetéthez kapcsolódó tagsági jogok és kötelezettségek összessége
 
 11.1.[^19.] A társaság ügyvezetésére és képviseletére jogosult ügyvezetője:
 
-Név: [^20.]
+Név:
 
 Lakcím:
 
-Cégnév (név): [^21.]
+Cégnév (név):
 
-Cégjegyzékszám (nyilvántartási szám): [^22.]
+Cégjegyzékszám (nyilvántartási szám):
 
 Székhely:
 
@@ -618,7 +618,7 @@ a) sor kerülhet.
 
 b) nem kerülhet sor.
 
-12.2.[^28.] Cégvezetőnek kinevezett munkavállaló(k) [^29:]
+12.2.[^28.] Cégvezetőnek kinevezett munkavállaló(k)
 
 Név:
 
@@ -694,7 +694,7 @@ szól.
 
 A megbízatás kezdő időpontja:
 
-A megbízatás lejárta: [^40.]
+A megbízatás lejárta:
 
 [^41Név:]
 
@@ -710,7 +710,7 @@ szól.
 
 A megbízatás kezdő időpontja:
 
-A megbízatás lejárta: [^44.]
+A megbízatás lejárta:
 
 15. Könyvvizsgáló[^45.]
 
@@ -780,7 +780,6 @@ Ellenjegyezte/közokiratba foglalta:[^50.]
 [^8.]: Szervezet esetén kell kitölteni.
 [^9.]: Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén).
 [^10.]: További tag esetén bővíthető.
-[^11.]: Természetes személy tag esetén kell kitölteni.
 [^12.]: Szervezet esetén kell kitölteni.
 [^13.]: Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén).
 [^14.]: A statisztikai nómenklatúrát a tevékenységi kör(ök) vonatkozásában nem kell feltüntetni.
@@ -805,7 +804,6 @@ Ellenjegyezte/közokiratba foglalta:[^50.]
 [^33.]: Aláhúzással jelölendő.
 [^34.]: A 7.1. a) pont választása esetén kell kitölteni.
 [^35.]: A 7.1. a) pont választása esetén kell alkalmazni.
-[^36.]: A 7.1. a) pont választása esetén kell kitölteni.
 [^37.]: Számmal jelölendő.
 [^38.]: Aláhúzással jelölendő.
 [^39.]: További tag esetén bővíthető.
@@ -825,9 +823,6 @@ Ellenjegyezte/közokiratba foglalta:[^50.]
 [^53.]: Pontos címmel jelölendő. Csak belföldi cím adható meg.
 [^54Név]: További tag esetén bővíthető.
 [^55.]: Több ügyvezető esetén bővíthető.
-[^56.]: Természetes személy esetén kell kitölteni.
-[^57.]: Szervezet esetén kell kitölteni
-[^58.]: Cégjegyzékszám vagy egyéb nyilvántartási szám.
 [^59.]: Aláhúzással jelölendő.
 [^60.]: Legfeljebb 5 évig (Ptk. 3:114.§).
 [^61.]: Az a) pont választása esetén kitöltendő.
@@ -841,14 +836,11 @@ Ellenjegyezte/közokiratba foglalta:[^50.]
 [^69.]: Aláhúzással jelölendő.
 [^70.]: Aláhúzással jelölendő.
 [^71.]: Legfeljebb 5 évre (Ptk. 3:121. §).
-[^72.]: Az a) pont választása esetén kitöltendő.
 [^73.]: Aláhúzással jelölendő.
 [^74.]: Legfeljebb 5 évre (Ptk. 3:121. §).
-[^75.]: Az a) pont választása esetén kitöltendő.
 [^76Név:]: Bővíthető. Ha a társaságnál kötelező felügyelőbizottság létrehozása, háromnál kevesebb tagú felügyelőbizottság felállítása semmis.
 [^77.]: Aláhúzással jelölendő.
 [^78.]: Legfeljebb 5 évre (Ptk. 3: 121. §).
-[^79.]: Az a) pont választása esetén kitöltendő.
 [^80.]: A Ptk. 3:38. § és 3:129-131 § esetén.
 [^81.]: Természetes személy esetén kell kitölteni.
 [^82.]: Szervezet esetén kell kitölteni.
@@ -856,7 +848,7 @@ Ellenjegyezte/közokiratba foglalta:[^50.]
 [^84.]: Amennyiben a társaság a közvetlen közzétételi kötelezettségének honlapján tesz eleget, a cégjegyzéknek tartalmaznia kell a társaság honlapjának címét.
 [^85Név:]: Bővíthető.
 [^86.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
-[^58]: A 7. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés d) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés f) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § d) pontja szerint módosított szöveg.
+[^71]: A 7. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés d) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés f) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § d) pontja szerint módosított szöveg.
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
@@ -876,16 +868,12 @@ Ellenjegyezte/közokiratba foglalta:[^50.]
 [^17b)]: Szükség esetén bővíthető.
 [^18.]: Aláhúzással jelölendő.
 [^19.]: Szükség esetén bővíthető.
-[^20.]: Természetes személy tag esetén kell kitölteni.
-[^21.]: Szervezet esetén kell kitölteni.
-[^22.]: Cégjegyzékszám vagy egyéb nyilvántartási szám.
 [^23.]: Aláhúzással jelölendő.
 [^24.]: Legfeljebb 5 évre (Ptk. 3:114. §).
 [^25.]: Az a) pont választása esetén kitöltendő.
 [^26.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^27.]: Aláhúzással jelölendő.
 [^28.]: Kizárólag a 12.1 a) pont aláhúzása esetén tölthető ki.
-[^29:]: Szükség esetén bővíthető.
 [^30Az]: Szükség esetén bővíthető.
 [^31.]: Szükség szerint kitöltendő.
 [^32.]: Szükség szerint bővíthető.
@@ -896,11 +884,9 @@ Ellenjegyezte/közokiratba foglalta:[^50.]
 [^37.]: Az a) pont választása esetén kitöltendő.
 [^38.]: Aláhúzással jelölendő.
 [^39.]: Legfeljebb 5 évre (Ptk. 3:121. §).
-[^40.]: Az a) pont választása esetén kitöltendő.
 [^41Név:]: Bővíthető. Ha a társaságnál kötelező felügyelőbizottság létrehozása, háromnál kevesebb tagú felügyelőbizottság felállítása semmis.
 [^42.]: Aláhúzással jelölendő.
 [^43.]: Legfeljebb 5 évre (Ptk. 3:121. §).
-[^44.]: Az a) pont választása esetén kitöltendő.
 [^45.]: A Ptk. 3:38. § és 3: 129-131 § esetén.
 [^46.]: Természetes személyesetén kell kitölteni.
 [^47.]: Szervezet esetén kell kitölteni.

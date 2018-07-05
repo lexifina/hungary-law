@@ -4,9 +4,9 @@
 
 ## 8M24949
 
-4. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^55]
+4. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^68]
 
-## A KÖZKERESETI TÁRSASÁG SZERZŐDÉSMINTÁJA
+A KÖZKERESETI TÁRSASÁG SZERZŐDÉSMINTÁJA
 
 Társasági szerződés
 
@@ -212,7 +212,7 @@ b) az alábbi tag(ok) időbeli korlátozás nélkül jogosult(ak):[^38.]
 
 Név:[^39.]
 
-A jogi személy tag által kijelölt természetes személy: [^40.]
+A jogi személy tag által kijelölt természetes személy:
 
 Név:
 
@@ -232,9 +232,9 @@ A vezető tisztségviselő a társaság ügyvezetését megbízási jogviszonyba
 
 d) az alábbi tag(ok) határozott ideig jogosult(ak):[^44.] [^45.]
 
-Név: [^46.]
+Név:
 
-A jogi személy tag által kijelölt természetes személy: [^47.]
+A jogi személy tag által kijelölt természetes személy:
 
 Név:
 
@@ -358,7 +358,7 @@ Ellenjegyezte/közokiratba foglalta:[^61.]
 
 ...........................................................................................................................................
 
-[^55]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés a) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés c) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § a) pontja szerint módosított szöveg.
+[^68]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés a) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés c) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § a) pontja szerint módosított szöveg.
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nincs szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
@@ -398,14 +398,11 @@ Ellenjegyezte/közokiratba foglalta:[^61.]
 [^37.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^38.]: Több ügyvezetésre és képviseletre jogosult tag esetén bővíthető.
 [^39.]: Amennyiben a társaság jogi személy tagja az ügyvezetést az általa kijelölt természetes személy útján látja el, e jogi személy tag cégnevét kell megjelölni.
-[^40.]: Szükség esetén kitöltendő.
 [^41.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^42.]: Legfeljebb 5 évig (Ptk. 3:114. §)
 [^43.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^44.]: Legfeljebb 5 évig (Ptk. 3:114. §)
 [^45.]: Több ügyvezetésre és képviseletre jogosult tag esetén bővíthető.
-[^46.]: Amennyiben a társaság jogi személy tagja az ügyvezetést az általa kijelölt természetes személy útján látja el, e jogi személy tag cégnevét kell megjelölni.
-[^47.]: Szükség esetén kitöltendő.
 [^48.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^49.]: 45 Aláhúzással jelölendő
 [^50.]: 46 A 11.1. b) pont esetében kitöltendő.

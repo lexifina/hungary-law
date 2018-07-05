@@ -40,7 +40,7 @@
 
 ## 3.1.Főtevékenység:
 
-## 3.2.Egyéb tevékenységi kör(ök): [^8.]
+## 3.2.Egyéb tevékenységi kör(ök):
 
 ## 4. Az egyéni cég működésének időtartama
 
@@ -174,7 +174,7 @@
 
 ## ………………………………………………………………………………..
 
-11. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^62]
+11. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^75]
 
 [^1.]: Az alapító okiratszövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerinti kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott cég esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
@@ -183,7 +183,6 @@
 [^5:]: Amennyiben a központi ügyintézés helye nem azonos a székhellyel, a központi ügyintézés helyének megjelölése kötelező.
 [^6.]: Szükség esetén kitöltendő, bővíthető.
 [^7.]: A statisztikai nómenklatúrát a tevékenységi kör(ök) vonatkozásában nem kell feltüntetni
-[^8.]: Szükség esetén kitöltendő, bővíthető.
 [^9.]: Aláhúzással jelölendő.
 [^10.]: Kettőszázezer forintig a jegyzett tőke csak pénzbeli hozzájárulás lehet. (Evec tv. 26. § (2) bek.)
 [^11.]: Aláhúzással jelölendő.
@@ -198,4 +197,4 @@
 [^20.]: Természetes személy esetén kell kitölteni.
 [^21.]: Szervezet esetén kell kitölteni.
 [^22.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
-[^62]: A 11. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 7. § i) pontja szerint módosított szöveg.
+[^75]: A 11. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 7. § i) pontja szerint módosított szöveg.

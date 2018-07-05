@@ -1,3 +1,3 @@
-## 20. §[^50] A cégjegyzék a 10. § (7) bekezdés szerinti adatokat az egyes cégjogi tárgyú miniszteri rendeletek módosításáról szóló 39/2015. (XII. 21.) IM rendelet hatálybalépését követően a cégjegyzékbe bejegyzett tevékenységi körök esetében tartalmazza.
+## 20/A. §[^63] Az egyes cégjogi tárgyú miniszteri rendeletek módosításáról szóló 21/2018. (VII. 4.) IM rendelet hatálybalépése napján a cégjegyzékbe bejegyzett cégek fennálló adatai automatikusan egyeztetésre kerülnek azon más cég(ek) fennálló adataival, amely(ek) vonatkozásában a cégjegyzék azokat nyilvántartja. Adateltérés esetén a 10. § (8)–(10) bekezdését kell alkalmazni.
 
-[^50]: A 20. §-t újonnan a 39/2015. (XII. 21.) IM rendelet 1. § (5) bekezdése iktatta be.
+[^63]: A 20/A. §-t a 21/2018. (VII. 4.) IM rendelet 6. §-a iktatta be.

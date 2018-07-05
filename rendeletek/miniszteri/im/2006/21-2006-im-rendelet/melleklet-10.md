@@ -4,21 +4,21 @@
 
 ## A társaság rövidített cégneve:[^2.] Zrt.
 
-## 1.2. A társaság idegen nyelvű cégneve: 2
+## 1.2. A társaság idegen nyelvű cégneve:2
 
 ## A társaság idegen nyelvű rövidített cégneve:2
 
 ## 1.3. A társaság székhelye:
 
-## A társaság székhelye [^3.]
+## A társaság székhelye
 
 ## a) egyben a központi ügyintézés helye is.
 
-## b) [^4.] nem azonos a központi ügyintézés helyével:
+## b)[^4.] nem azonos a központi ügyintézés helyével:
 
-## 1.4. A társaság telephelye(i): [^5.]
+## 1.4. A társaság telephelye(i):[^5.]
 
-## 1.5. A társaság fióktelepe(i): 5
+## 1.5. A társaság fióktelepe(i):5
 
 ## 2. A társaság részvényese
 
@@ -28,7 +28,7 @@
 
 ## Cégnév (név):[^7.]
 
-## Cégjegyzékszám (nyilvántartási szám): [^8.]
+## Cégjegyzékszám (nyilvántartási szám):[^8.]
 
 ## Székhely:
 
@@ -36,11 +36,11 @@
 
 ## Lakcím:
 
-## 3. A társaság tevékenységi köre(i) [^9.]
+## 3. A társaság tevékenységi köre(i)
 
 ## 3.1. Főtevékenység:
 
-## 3.2. Egyéb tevékenységi kör(ök): [^10.]
+## 3.2. Egyéb tevékenységi kör(ök):
 
 ## 4. A társaság működésének időtartama
 
@@ -80,7 +80,7 @@
 
 ## A nem pénzbeli vagyoni hozzájárulás
 
-## [^17megnevezése:] …………………………………….., értéke: ……………………………………………… Ft.
+## …………………………………….., értéke: ……………………………………………… Ft.
 
 ## Részvények száma a nem pénzbeli vagyoni hozzájárulás után: …………………………. db.
 
@@ -96,13 +96,13 @@
 
 ## Cégnév:[^20.]
 
-## Cégjegyzékszám: [^21.]
+## Cégjegyzékszám:
 
 ## Székhely:
 
 ## könyvvizsgáló végezte.
 
-## b) készítésére nem kerül sor. [^22.]
+## b) készítésére nem kerül sor.
 
 ## 5.3. A társaság alaptőkéje …..... darab …....................................... Ft[^23.] névértékű névre szóló törzsrészvényből áll.
 
@@ -190,7 +190,7 @@
 
 ## A megbízatás kezdő időpontja:
 
-## A megbízatás lejárta: 36
+## A megbízatás lejárta:36
 
 ## 8.3.[^39A] vezérigazgató:
 
@@ -310,7 +310,7 @@
 
 ## A megbízatás kezdő időpontja:
 
-## A megbízatás lejárta: [^56.]
+## A megbízatás lejárta:
 
 ## 12. Könyvvizsgáló[^57.]
 
@@ -370,29 +370,23 @@
 
 ## ….................................................................................................................................
 
-10. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^61]
+10. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^74]
 
 [^2.]: Szükség esetén kitöltendő.
-[^3.]: Aláhúzással jelölendő.
 [^4.]: Amennyiben a központi ügyintézés helye nem azonos a székhellyel, a központi ügyintézés helyének megjelölése kötelező.
 [^5.]: Szükség esetén kitöltendő, bővíthető.
 [^6.]: Természetes személy esetén kell kitölteni.
 [^7.]: Szervezet esetén kell kitölteni.
 [^8.]: Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén).
-[^9.]: A statisztikai nómenklatúrát a tevékenységi kör(ök) vonatkozásában nem kell feltüntetni.
-[^10.]: Szükség esetén kitölthető, bővíthető.
 [^11.]: Aláhúzással jelölendő.
 [^12,]: Amennyiben a társaság működésének időtartama határozott, kitöltése kötelező!
 [^13.]: Ptk. 3: 212. § (3) bekezdése szerint a pénzbeli hozzájárulás összege alapításkor nem lehet kevesebb az alaptőke harminc százalékánál.
 [^14.]: Aláhúzással jelölendő figyelemmel az 5.5. pontra is.
 [^15b)]: Szükség esetén kitöltendő.
 [^16.]: Aláhúzással jelölendő.
-[^17megnevezése:]: Szükség esetén bővíthető.
 [^18.]: Aláhúzással jelölendő.
 [^19.]: Természetes személy esetén kitöltendő.
 [^20.]: Szervezet esetén kitöltendő.
-[^21.]: Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén).
-[^22.]: A Ptk. 3:251. § (2) bekezdése esetén alkalmazható.
 [^23.]: Megfelelő kitöltéssel jelölendő.
 [^24.]: Aláhúzással jelölendő.
 [^25.]: Az időpont nem lehet későbbi, mint a cégbejegyzéstől számított egy év.
@@ -426,11 +420,10 @@
 [^53Név:]: Bővíthető. Ha a társaságnál kötelező felügyelőbizottság létrehozása, háromnál kevesebb tagú felügyelőbizottság felállítása semmis.
 [^54.]: Aláhúzással jelölendő.
 [^55.]: Legfeljebb 5 évre (Ptk. 3:121.§).
-[^56.]: Az a) pont választása esetén kitöltendő.
 [^57.]: A Ptk. 3:38. §, 3:129-131. § és 3: 292.§ esetén.
 [^58.]: Természetes személy esetén kell kitölteni.
 [^59.]: Szervezet esetén kell kitölteni.
 [^60.]: Aláhúzással jelölendő.
 [^61.]: Amennyiben a társaság a közvetlen közzétételi kötelezettségének honlapján tesz eleget, a cégjegyzéknek tartalmaznia kell a társaság honlapjának címét.
 [^62.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
-[^61]: A 10. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés g) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés i) pontja szerint módosított szöveg.
+[^74]: A 10. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés g) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés i) pontja szerint módosított szöveg.

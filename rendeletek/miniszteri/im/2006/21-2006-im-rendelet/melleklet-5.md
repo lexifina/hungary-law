@@ -1,6 +1,6 @@
-5. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^56]
+5. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^69]
 
-## A BETÉTI TÁRSASÁG SZERZŐDÉSMINTÁJA
+A BETÉTI TÁRSASÁG SZERZŐDÉSMINTÁJA
 
 Társasági szerződés
 
@@ -10,7 +10,7 @@ Alulírott tagok, szerződésminta[^1.] alkalmazásával, a következők szerint
 
 1.1. A társaság cégneve: Betéti Társaság
 
-A társaság rövidített cégneve: [^2.] Bt.
+A társaság rövidített cégneve: Bt.
 
 1.2. A társaság idegen nyelvű cégneve:2
 
@@ -60,13 +60,13 @@ Lakcím:
 
 3. A társaság kültagja(i)
 
-3.1. Név: [^13.]
+3.1. Név:
 
 Lakcím:
 
-Cégnév (név): [^14.]
+Cégnév (név):
 
-Cégjegyzékszám (nyilvántartási szám): [^15.]
+Cégjegyzékszám (nyilvántartási szám):
 
 Székhely:
 
@@ -74,13 +74,13 @@ Képviseletre jogosult neve:
 
 Lakcím:
 
-3.2.[^16.] Név: [^17.]
+3.2.[^16.] Név:
 
 Lakcím:
 
-Cégnév (név): [^18.]
+Cégnév (név):
 
-Cégjegyzékszám (nyilvántartási szám): [^19.]
+Cégjegyzékszám (nyilvántartási szám):
 
 Székhely:
 
@@ -214,7 +214,7 @@ Név (Cégnév):
 
 szavazat száma:
 
-[^44Név] (Cégnév): ..
+[^44Név] (Cégnév):..
 
 szavazat száma:
 
@@ -250,7 +250,7 @@ A jogviszony vége:
 
 A vezető tisztségviselő a társaság ügyvezetését megbízási jogviszonyban / munkaviszonyban[^52.] látja el.
 
-d) az alábbi beltag(ok) és/vagy kültag(ok) határozott ideig jogosult(ak): 51
+d) az alábbi beltag(ok) és/vagy kültag(ok) határozott ideig jogosult(ak):51
 
 Név:[^53.]
 
@@ -268,7 +268,7 @@ A vezető tisztségviselő a társaság ügyvezetését megbízási jogviszonyba
 
 e) az alábbi, egyetlen ügyvezetésre és képviseletre jogosult tag, időbeli korlátozás nélkül jogosult:
 
-Név: [^56.]
+Név:
 
 A jogi személy tag által kijelölt természetes személy:[^57.]
 
@@ -388,9 +388,8 @@ Ellenjegyezte/közokiratba foglalta:[^71.]
 
 …...........................................................................................................................................
 
-[^56]: Az 5. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés b) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (7) bekezdése és (11) bekezdés d) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § b) pontja szerint módosított szöveg.
+[^69]: Az 5. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés b) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (7) bekezdése és (11) bekezdés d) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § b) pontja szerint módosított szöveg.
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerinti kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nem volt szükség.
-[^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
 [^4.]: Amennyiben a központi ügyintézés helye nem azonos a székhellyel, a központi ügyintézés helyének megjelölése kötelező.
 [^5.]: Szükség esetén kitöltendő, bővíthető.
@@ -401,13 +400,7 @@ Ellenjegyezte/közokiratba foglalta:[^71.]
 [^10.]: Természetes személy tag esetén kell kitölteni.
 [^11.]: Szervezet esetén kell kitölteni.
 [^12.]: Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén).
-[^13.]: Természetes személy tag esetén kell kitölteni.
-[^14.]: Szervezet esetén kell kitölteni.
-[^15.]: Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház stb. esetén).
 [^16.]: További tag esetén bővíthető.
-[^17.]: Természetes személy tag esetén kell kitölteni.
-[^18.]: Szervezet esetén kell kitölteni.
-[^19.]: Cégjegyzékszám vagy egyéb nyilvántartási szám (alapítvány, egyház, stb. esetén).
 [^20.]: A statisztikai nómenklatúrát a tevékenységi kör(ök)vonatkozásában nem kell feltüntetni.
 [^21.]: Szükség esetén kitöltendő, bővíthető.
 [^22:]: Aláhúzással jelölendő.
@@ -444,7 +437,6 @@ Ellenjegyezte/közokiratba foglalta:[^71.]
 [^53.]: Amennyiben a társaság jogi személy tagja az ügyvezetést az általa kijelölt természetes személy útján látja e, e jogi személy tag nevét kell megjelölni.
 [^54.]: Szükség esetén kitöltendő.
 [^55.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
-[^56.]: Amennyiben a társaság jogi személy tagja az ügyvezetést az általa kijelölt természetes személy útján látja e, e jogi személy tag nevét kell megjelölni.
 [^57.]: Szükség esetén kitöltendő.
 [^58.]: Aláhúzással jelölendő. Kitöltése nem kötelező.
 [^59.]: Aláhúzással jelölendő.

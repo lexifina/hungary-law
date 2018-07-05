@@ -1,6 +1,6 @@
-8. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^59]
+8. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^72]
 
-## A ZÁRTKÖRŰEN MŰKÖDŐ RÉSZVÉNYTÁRSASÁG ALAPSZABÁLYMINTÁJA
+A ZÁRTKÖRŰEN MŰKÖDŐ RÉSZVÉNYTÁRSASÁG ALAPSZABÁLYMINTÁJA
 
 Alapszabály
 
@@ -12,7 +12,7 @@ Alulírott részvényesek, szerződésminta[^1.] alkalmazásával, a következő
 
 A társaság rövidített cégneve:[^2.] Zrt.
 
-1.2. A társaság idegen nyelvű cégneve: 2
+1.2. A társaság idegen nyelvű cégneve:2
 
 A társaság idegen nyelvű rövidített cégneve:2
 
@@ -26,7 +26,7 @@ b)[^4.] nem azonos a központi ügyintézés helyével: ……………………
 
 1.4. A társaság telephelye(i):[^5.]
 
-1.5. A társaság fióktelepe(i): 5
+1.5. A társaság fióktelepe(i):5
 
 2. A társaság alapítói (részvényesei)
 
@@ -34,7 +34,7 @@ b)[^4.] nem azonos a központi ügyintézés helyével: ……………………
 
 Lakcím:
 
-Cégnév (név): [^7.]
+Cégnév (név):[^7.]
 
 Cégjegyzékszám (nyilvántartási szám):[^8.]
 
@@ -316,7 +316,7 @@ szól.
 
 A megbízatás kezdő időpontja:
 
-A megbízatás lejárta:59 .
+A megbízatás lejárta:59.
 
 A vezető tisztségviselő a társaság ügyvezetését megbízási jogviszonyban / munkaviszonyban[^63.] látja el.
 
@@ -424,7 +424,7 @@ szól.
 
 A megbízatás kezdő időpontja:
 
-A megbízatás lejárta: [^78.]
+A megbízatás lejárta:
 
 [^79Név:]
 
@@ -440,7 +440,7 @@ szól.
 
 A megbízatás kezdő időpontja:
 
-A megbízatás lejárta: [^82.]
+A megbízatás lejárta:
 
 14. Könyvvizsgáló[^83.]
 
@@ -504,7 +504,7 @@ Ellenjegyezte/közokiratba foglalta:[^89.]
 
 ….................................................................................................................................
 
-[^59]: A 8. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés e) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés g) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § e)–g) pontja szerint módosított szöveg.
+[^72]: A 8. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés e) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés g) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § e)–g) pontja szerint módosított szöveg.
 [^1.]: Az alapszabály szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség esetén kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
@@ -582,11 +582,9 @@ Ellenjegyezte/közokiratba foglalta:[^89.]
 [^75.]: Az a) pont választása esetén kitöltendő.
 [^76.]: Aláhúzással jelölendő.
 [^77.]: Legfeljebb 5 évre (Ptk. 3:121.§).
-[^78.]: Az a) pont választása esetén kitöltendő.
 [^79Név:]: Bővíthető. Ha a társaságnál kötelező felügyelőbizottság létrehozása, háromnál kevesebb tagú felügyelőbizottság felállítása semmis.
 [^80.]: Aláhúzással jelölendő.
 [^81.]: Legfeljebb 5 évre (Ptk. 3:121.§).
-[^82.]: Az a) pont választása esetén kitöltendő.
 [^83.]: A Ptk. 3:38. §, 3:129-131. § és 3:292. § esetén.
 [^84.]: Természetes személy esetén kell kitölteni.
 [^85.]: Szervezet esetén kell kitölteni.
