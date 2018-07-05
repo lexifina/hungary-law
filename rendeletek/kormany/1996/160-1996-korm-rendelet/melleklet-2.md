@@ -1,18 +1,18 @@
-## 1.[^94] Állandó személyvédelemben részesülő személyek
+## 1.[^95] Állandó személyvédelemben részesülő személyek
 
 ## 1. A köztársasági elnök
 
-## 2.[^95]
+## 2. A miniszterelnök
 
-## 3. A miniszterelnök
+## 3. A külpolitikáért felelős miniszter
 
 ## 4. Az Alkotmánybíróság elnöke
 
-## 5.[^96] A Kúria elnöke
+## 5. A Kúria elnöke
 
-## 6.[^97] A legfőbb ügyész
+## 6. A legfőbb ügyész
 
-## 2.[^98] Létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek
+## 2.[^96] Létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek
 
 ## a) a Szent Koronához tartozó jelvények közül a koronázási palást,
 
@@ -44,7 +44,7 @@
 
 ## o) az Információs Hivatal központi objektuma.
 
-2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^99]
+2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^97]
 
 ## A védett személy gyógyintézeti ellátására kijelölhető intézmények
 
@@ -178,9 +178,6 @@
 
 65. Zalaegerszeg, Zala Megyei Szent Rafael Kórház
 
-[^94]: Az 1. melléklet 1. pont nyitó szövegrésze a 83/2015. (III. 31.) Korm. rendelet 2. § (5) bekezdés d) pontja szerint módosított szöveg.
-[^95]: Az 1. melléklet 1. pont 2. alpontját a 102/2012. (V. 18.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
-[^96]: Az 1. melléklet 1. pont 5. alpontja a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^97]: Az 1. melléklet 1. pont 6. alpontját a 376/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
-[^98]: Az 1. melléklet 2. pontja a 108/2018. (VI. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^99]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^95]: Az 1. melléklet 1. pontja a 120/2018. (VII. 4.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^96]: Az 1. melléklet 2. pontja a 108/2018. (VI. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^97]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
