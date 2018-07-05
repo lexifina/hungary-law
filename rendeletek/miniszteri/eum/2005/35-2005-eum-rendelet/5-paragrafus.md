@@ -20,7 +20,9 @@
 
 (10)[^18] A klinikai vizsgálatot végző egészségügyi szolgáltató a nyomtatott sajtó, illetve a saját honlapján közzétett felhívás útján, továbbá a szakmai és a betegszervezetek, valamint a megbízó honlapján cselekvőképes vizsgálati alanyokat toborozhat. A toborzási felhívás nem lehet reklámcélú, nem tartalmazhatja a vizsgálati készítmény kereskedelmi nevét, gyártóját, valamint a forgalomba hozatalra jogosult személy megjelölését.
 
-(11)[^19] A vizsgálati alany részére a klinikai vizsgálatban történő részvétellel kapcsolatos jövedelemkiesésnek, továbbá költségeknek, különösen az utazással összefüggésben ténylegesen felmerült és igazolt költségek megtérítésére térítés fizethető. A vizsgálati alany részére egyéb juttatás vagy díj – a nem-terápiás célú farmakokinetikai vagy interakciós, az I. fázisú, valamint bioegyenértékűségi vizsgálat kivételével – nem adható.
+(10a)[^19] A 7. § szerinti klinikai vizsgálat esetén az egészségügyi szolgáltató az érintettek tájékoztatása céljából, a (10) bekezdésben foglalt követelményeknek való megfelelés mellett nyilvánossá teheti a tervezett klinikai vizsgálatok leírását a saját, továbbá szakmai és betegszervezetek honlapján.
+
+(11)[^20] A vizsgálati alany részére a klinikai vizsgálatban történő részvétellel kapcsolatos jövedelemkiesésnek, továbbá költségeknek, különösen az utazással összefüggésben ténylegesen felmerült és igazolt költségek megtérítésére térítés fizethető. A vizsgálati alany részére egyéb juttatás vagy díj – a nem-terápiás célú farmakokinetikai vagy interakciós, az I. fázisú, valamint bioegyenértékűségi vizsgálat kivételével – nem adható.
 
 (12) A vizsgálati készítményeket és az esetlegesen az azok beadásra használt eszközöket a megbízónak térítésmentesen kell rendelkezésre bocsátania.
 
@@ -28,4 +30,5 @@
 [^16]: Az 5. § (4) bekezdése a 32/2009. (X. 20.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
 [^17]: Az 5. § (8) bekezdése a 16/2014. (III. 12.) EMMI rendelet 11. § c) pontja szerint módosított szöveg.
 [^18]: Az 5. § (10) bekezdése a 8/2018. (II. 13.) EMMI rendelet 27. § (2) bekezdésével megállapított szöveg.
-[^19]: Az 5. § (11) bekezdés második mondata a 32/2009. (X. 20.) EüM rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
+[^19]: Az 5. § (10a) bekezdését a 18/2018. (VII. 4.) EMMI rendelet 4. §-a iktatta be.
+[^20]: Az 5. § (11) bekezdés második mondata a 32/2009. (X. 20.) EüM rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.

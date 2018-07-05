@@ -1,4 +1,4 @@
-## 23. §[^61] A vizsgálat befejezését követő kilencven napon belül a megbízó az EMEA honlapjáról letölthető adatlapon értesítést küld az OGYÉI-nek a vizsgálat befejezéséről. Az OGYÉI a bejelentésről nyolc napon belül tájékoztatja az ETT KFEB-et.
+## 23. §[^62] A vizsgálat befejezését követő kilencven napon belül a megbízó az EMEA honlapjáról letölthető adatlapon értesítést küld az OGYÉI-nek a vizsgálat befejezéséről. Az OGYÉI a bejelentésről nyolc napon belül tájékoztatja az ETT KFEB-et.
 
 ## A vizsgálati dokumentáció megőrzése
 
@@ -10,4 +10,4 @@
 
 (4) Az archiválásra használt hordozóeszközöknek olyanoknak kell lenniük, hogy a dokumentumok teljesek és olvashatók maradjanak.
 
-[^61]: A 23. § a 32/2009. (X. 20.) EüM rendelet 8. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 72. § d) és h) pontja szerint módosított szöveg.
+[^62]: A 23. § a 32/2009. (X. 20.) EüM rendelet 8. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 72. § d) és h) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 8. § Nem vonható be semmilyen klinikai vizsgálatba az, aki korábban, cselekvőképessége birtokában kifejezetten kizárta az ilyen vizsgálatokban való részvételét. Egy adott klinikai vizsgálatba nem vonható be az sem, aki korábban, cselekvőképessége birtokában visszautasította a beleegyezés megadását az adott vizsgálathoz.
 
-## 9. §[^32] Cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen vagy cselekvőképességében teljesen korlátozott, valamint a Polgári Törvénykönyvről szóló 2013. évi V. törvény 2:9. §-a szerint cselekvőképtelen nagykorúak esetében – a sürgős szükségben végzett kutatásnak az Eütv. 160. §-a szerinti esetét kivéve – az Eütv. 159. §-ának (4) bekezdésében és a 4–6. és 8. §-okban foglaltak megfelelő alkalmazásával is csak abban az esetben végezhető klinikai vizsgálat, ha az alábbi feltételek mindegyike teljesül:
+## 9. §[^33] Cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen vagy cselekvőképességében teljesen korlátozott, valamint a Polgári Törvénykönyvről szóló 2013. évi V. törvény 2:9. §-a szerint cselekvőképtelen nagykorúak esetében – a sürgős szükségben végzett kutatásnak az Eütv. 160. §-a szerinti esetét kivéve – az Eütv. 159. §-ának (4) bekezdésében és a 4–6. és 8. §-okban foglaltak megfelelő alkalmazásával is csak abban az esetben végezhető klinikai vizsgálat, ha az alábbi feltételek mindegyike teljesül:
 
 a) a nyilatkozattételre jogosult személy beleegyező nyilatkozatának a vizsgálati alany feltételezett akaratát kell tartalmaznia és az bármikor, a vizsgálati alany sérelme nélkül visszavonható;
 
@@ -20,4 +20,4 @@ h) az ETT KFEB a kérdéses betegségnek és az érintett betegcsoportnak megfel
 
 i) okkal elvárható, hogy a vizsgálati készítmény alkalmazása a kedvezőtlen hatásokat meghaladó kedvező hatásokkal jár a beteg számára, vagy egyáltalán nem jelent kockázatot.
 
-[^32]: A 9. § nyitó szövegrésze a 16/2014. (III. 12.) EMMI rendelet 11. § f) pontja szerint módosított szöveg.
+[^33]: A 9. § nyitó szövegrésze a 16/2014. (III. 12.) EMMI rendelet 11. § f) pontja szerint módosított szöveg.
