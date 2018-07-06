@@ -1,3 +1,0 @@
-## 2. § A gyógyszerekkel folytatott nagykereskedelmi és párhuzamos import tevékenységről szóló 53/2004. (VI. 2.) ESZCSM rendelet (a továbbiakban: 53/2004. ESZCSM R.) 20/A. §-a helyébe a következő rendelkezés lép:
-
-## „20/A. § Az egyes alapvető gyógyszerek kereskedelme Európai Unióba történő eltérítésének elkerüléséről szóló, 2016. május 11-i (EU) 2016/793 európai parlamenti és tanácsi rendelet alapján a többszintű árképzés alá vont gyógyszerek Európai Unióba történő behozatala esetén a magyarországi hatáskörrel és illetékességgel rendelkező nemzeti hatóságra háruló feladatokat az OGYÉI látja el.”
