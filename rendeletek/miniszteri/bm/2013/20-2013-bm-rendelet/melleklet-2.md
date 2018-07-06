@@ -126,7 +126,7 @@
 
 | 62. | 61. | 52 | 582 | 03 | Vízkútfúró | Vízügy |
 
-2. melléklet a 20/2013. (V. 28.) BM rendelethez[^6]
+2. melléklet a 20/2013. (V. 28.) BM rendelethez[^7]
 
 AZ 1. SORSZÁMÚ BALESETI HELYSZÍNELŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
@@ -1024,6 +1024,8 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 7.2.2. | 52 861 02 | Büntetés-végrehajtási felügyelő | Büntetés-végrehajtás Országos Parancsnoksága |
 
+7.3. A kijavított és értékelt írásbeli feladatot, az eredeti írásbeli vizsgafeladat egy példányát, valamint a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt el kell juttatni a vizsgaelnökhöz.
+
 A 5. SORSZÁMÚ BÜNTETÉS-VÉGREHAJTÁSI FŐFELÜGYELŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
 1. Az Országos Képzési Jegyzékben szereplő adatok
@@ -1840,6 +1842,8 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 7.2.2. | 31 861 01 | Büntetés-végrehajtási őr | Büntetés-végrehajtás Országos Parancsnoksága |
 
+7.3. A kijavított és értékelt írásbeli feladatot, az eredeti írásbeli vizsgafeladat egy példányát, valamint a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt el kell juttatni a vizsgaelnökhöz.
+
 A 9. SORSZÁMÚ BÜNTETÉS-VÉGREHAJTÁSI SEGÉDFELÜGYELŐ MEGNEVEZÉSŰ RÉSZSZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
 1. Az Országos Képzési Jegyzékben szereplő adatok
@@ -2069,6 +2073,8 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 − eredményes modulzáró vizsga a 31 861 01 Büntetés-végrehajtási őr részszakképesítésben, amennyiben megszakítás nélkül folytatja tovább a tanulmányokat a büntetés-végrehajtási segédfelügyelő képzésben,
 
 − eredményes komplex vizsga a 31 861 01 Büntetés-végrehajtási őr részszakképesítésben
+
+7.4. A kijavított és értékelt írásbeli feladatot, az eredeti írásbeli vizsgafeladat egy példányát, valamint a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt el kell juttatni a vizsgaelnökhöz.
 
 A 10. SORSZÁMÚ BŰNÜGYI TECHNIKUS MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
@@ -2867,46 +2873,6 @@ A szakképesítés-ráépüléssel rendelkező képes:
 | 3.3.3. | 34 522 03 | Elektronikai műszerész | szakképesítés |
 
 | 3.3.4. | 34 522 01 | Elektromechanikai műszerész | szakképesítés |
-
-| 3.3.5. | 33 523 02 | Távközlési és informatikai hálózatszerelő | szakképesítés |
-
-| 3.3.6. | 34 522 04 | Villanyszerelő megnevezésű | szakképesítés |
-
-| 3.3.7. | 54 523 01 | Automatikai technikus | szakképesítés |
-
-| 3.3.8. | 34 522 02 | Elektromos gép- és készülékszerelő | szakképesítés |
-
-| 3.3.9. | 31 522 01 | Elektronikai gyártósori műszerész | szakképesítés |
-
-| 3.3.10. | 54 523 02 | Elektronikai technikus | szakképesítés |
-
-| 3.3.11. | 54 522 01 | Erősáramú elektrotechnikus | szakképesítés |
-
-| 3.3.12. | 32 521 02 | Kereskedelmi, háztartási és vendéglátóipari gépszerelő | szakképesítés |
-
-| 3.3.13. | 34 523 01 | Mechatronikus-karbantartó | szakképesítés |
-
-| 3.3.14. | 32 521 04 | Órás | szakképesítés |
-
-| 3.3.15. | 51 523 01 | PLC programozó | szakképesítés |
-
-| 3.3.16. | 54 481 03 | Infokommunikációs hálózatépítő és üzemeltető | szakképesítés |
-
-| 3.3.17. | 54 523 05 | Távközlési technikus | szakképesítés |
-
-| 3.3.18. | 51 523 02 | Távközlési üzemeltető | szakképesítés |
-
-| 3.3.19. | 31 523 01 | Távközlési és informatikai hálózatszerelő | szakképesítés |
-
-| 3.3.20. | 35 522 01 | Audio- és vizuáltechnikai műszerész | szakképesítés |
-
-| 3.3.21. | 55 523 05 | Beszédátviteli rendszerüzemeltető technikus | szakképesítés |
-
-| 3.3.22. | 55 523 01 | Elektronikus hozzáférési és magánhálózati rendszerüzemeltető technikus | szakképesítés |
-
-| 3.3.23. | 55 523 02 | Elektronikus műsorközlő és tartalomátviteli rendszerüzemeltető technikus | szakképesítés |
-
-| 3.3.24. | 55 523 03 | Gerinchálózati rendszerüzemeltető | szakképesítés |
 
 4. Szakmai követelmények
 
@@ -3852,10 +3818,6 @@ A részszakképesítéssel rendelkező képes:
 
 | 3.3.3. | 34 853 02 | Vízügyi szakmunkás | szakképesítés |
 
-| 3.3.4. | 31 853 03 | Vízkárelhárító | részszakképesítés |
-
-| 3.3.5. | 31 853 07 | Vízminőség vizsgáló | részszakképesítés |
-
 4. Szakmai követelmények
 
 |  | A | B |
@@ -4240,37 +4202,37 @@ A 19. SORSZÁMÚ KATASZTRÓFAVÉDELMI ELŐADÓ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS SZ
 
 | 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
 
-| 3.1.2. | 5259 | Egyéb személy- és vagyonvédelmi foglalkozású | Polgári szervek, szervezetek, gazdálkodó szervezetek védelmi ügyintézői |
+| 3.1.2. | 5259 | Egyéb személy- és vagyonvédelmi foglalkozású | Önkormányzatok, polgári szervek, szervezetek, gazdálkodó szervezetek védelmi ügyintézői |
 
 3.2. A szakképesítés munkaterületének rövid leírása
 
-Szakmai irányítás és felügyelet mellett, a természeti és civilizációs katasztrófák okozta veszélyekkel szemben a szervezet munkavállalóinak, anyagi javainak és a környezet megóvása érdekében, a polgári védelmi feladatokat előkészíti, szervezi, végrehajtja és ellenőrzi.
+A katasztrófavédelmi előadó feladata: szakmai irányítás és felügyelet mellett, a természeti és civilizációs katasztrófák okozta veszélyekkel szemben a lakosság, a szervezet munkavállalói, anyagi javai és a környezet megóvása érdekében a polgári védelmi feladatok előkészítése, szervezése, végrehajtása és ellenőrzése.
 
-A szakképesítéssel rendelkező képes:
+A szakképesítéssel rendelkező képes
 
-− veszélyazonosítást és veszélyelemzést végezni
+a) veszélyazonosítást és veszélyelemzést végezni,
 
-− terveket készíteni
+b) terveket készíteni,
 
-− polgári védelmi szervezeteket létrehozni és alkalmazni
+c) polgári védelmi szervezeteket létrehozni és alkalmazni,
 
-− részt venni szakmai területének szabályozásában
+d) részt venni a szakmai területének szabályozásában,
 
-− védelemszervezői tevékenységet végezni
+e) védelemszervezői tevékenységet végezni,
 
-− veszélykezelésben részt venni
+f) veszélykezelésben részt venni,
 
-− kapcsolatot tartani és együttműködni más szervezetekkel
+g) kapcsolatot tartani és együttműködni más szervezetekkel,
 
-− részt venni a logisztikai biztosítás megszervezésében
+h) részt venni a logisztikai biztosítás megszervezésében,
 
-− védelmi létesítményeket kezelni
+i) védelmi létesítményeket kezelni,
 
-− megalakított szervezeteket oktatni, felkészíteni
+j) megalakított szervezeteket oktatni, felkészíteni,
 
-− szakmailag tovább képezni magát
+k) szakmailag továbbképezni magát, valamint
 
-− ellenőrzést végezni
+l) ellenőrzést végezni.
 
 3.3. Kapcsolódó szakképesítések
 
@@ -4322,9 +4284,9 @@ Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredmén
 
 A vizsgafeladat megnevezése: Lakosság és anyagi javak védelme
 
-A vizsgafeladat ismertetése: Veszélyhelyzettel kapcsolatos megelőzési feladat végrehajtása (veszélyelemzés, kockázatértékelés, hatásvizsgálat, térképi rögzítés, veszélyhelyzeti tervezés); veszélyhelyzet kezelési feladat megtervezése (riasztás, tájékoztatás, helyi-, távolsági védelem végrehajtása).
+A vizsgafeladat ismertetése: Veszélyhelyzettel kapcsolatos megelőzési feladat végrehajtása (veszélyelemzés, kockázatértékelés, hatásvizsgálat, térképi rögzítés, veszélyhelyzeti tervezés); veszélyhelyzet kezelési feladat megtervezése (riasztás, tájékoztatás, helyi és távolsági védelem végrehajtása).
 
-A vizsgafeladat időtartama: 180 perc
+A vizsgafeladat időtartama: 120 perc
 
 A vizsgafeladat értékelési súlyaránya: 50%
 
@@ -4448,13 +4410,11 @@ A 20. SORSZÁMÚ KATASZTRÓFAVÉDELMI FŐELŐADÓ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS
 
 | 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépüléssel betölthető munkakör(ök) |
 
-| 3.1.2. | 5259 | Egyéb személy és vagyonvédelmi foglalkozású | Polgári szervek, szervezetek, gazdálkodó szervezetek védelmi ügyintézői, védelmi vezetői |
+| 3.1.2. | 5259 | Egyéb személy és vagyonvédelmi foglalkozású | Önkormányzatok, polgári szervek, szervezetek, gazdálkodó szervezetek védelmi ügyintézői |
 
 3.2. A szakképesítés-ráépülés munkaterületének rövid leírása
 
-− a természeti és civilizációs katasztrófák okozta veszélyekkel szemben a szervezet munkavállalóinak, anyagi javainak és a környezet megóvása érdekében a katasztrófavédelmi feladatokat tervezi, szervezi, a végrehajtást irányítja és ellenőrzi
-
-− a közreműködő szervezetek közötti együttműködést megszervezi, koordinálja
+A katasztrófavédelmi főelőadó a természeti és civilizációs katasztrófák okozta veszélyekkel szemben a lakosság, a szervezet munkavállalói, anyagi javai és a környezet megóvása érdekében a katasztrófavédelmi feladatokat tervezi, szervezi, a végrehajtást irányítja és ellenőrzi, a közreműködő szervezetek közötti együttműködést megszervezi, koordinálja.
 
 A szakképesítés-ráépüléssel rendelkező képes:
 
@@ -4538,7 +4498,7 @@ A vizsgafeladat megnevezése: Lakosság és anyagi javak védelme
 
 A vizsgafeladat ismertetése: Veszélyhelyzettel kapcsolatos megelőzési feladat (veszélyelemzés, kockázatértékelés, hatásvizsgálat, térképi rögzítés, veszélyhelyzeti tervezés) végrehajtásának koordinálása, irányítása, veszélyhelyzet kezelési feladatterv (riasztás, tájékoztatás, helyi-, távolsági védelem végrehajtása) értékelése, a feladat végrehajtásának irányítása
 
-A vizsgafeladat időtartama: 180 perc
+A vizsgafeladat időtartama: 120 perc
 
 A vizsgafeladat értékelési súlyaránya: 50%
 
@@ -4972,7 +4932,7 @@ A vizsgafeladat megnevezése: Az állami katasztrófavédelem feladatainak megsz
 
 A vizsgafeladat ismertetése: Feltételezett helyzet alapján a katasztrófavédelmi referens tervezési, szervezési feladatainak megoldása a lakosság és anyagi javak védelme érdekében.
 
-A vizsgafeladat időtartama: 180 perc
+A vizsgafeladat időtartama: 120 perc
 
 A vizsgafeladat értékelési súlyaránya: 60%
 
@@ -5064,9 +5024,9 @@ A 23. SORSZÁMÚ KÉMÉNYSEPRŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSG
 
 2.2. Szakmai előképzettség: –
 
-2.3. Előírt gyakorlat:
+2.3. Előírt gyakorlat: –
 
-2.4. Egészségügyi alkalmassági követelmények: –
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
 
 2.5. Pályaalkalmassági követelmények: –
 
@@ -5158,39 +5118,39 @@ Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi
 
 A modulzáró vizsga akkor eredményes, ha a modulhoz előírt vizsgatevékenység legalább 51%-osra értékelhető.
 
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
 
 5.3.1. Gyakorlati vizsgatevékenység
 
 A) A vizsgafeladat megnevezése: égéstermék-elvezető ellenőrzése, tisztítása, vizsgálata
 
-A vizsgafeladat ismertetése: Az égéstermék-elvezető megközelítése, átvizsgálása, kitisztítása, égéstermék maradéktalan eltávozásának ellenőrzése, égési levegő utánpótlás ellenőrzése, szén-monoxid mérése, égéstermék-elvezető szivárgási érték vizsgálata, szükséges adminisztráció elkészítése
+A vizsgafeladat ismertetése: Az égéstermék-elvezető megközelítése, átvizsgálása, kitisztítása, az égéstermék maradéktalan eltávozásának ellenőrzése, égési levegő utánpótlás ellenőrzése, a tüzeléstechnikai mérés feltételeinek kialakítása, a tüzeléstechnikai mérés, mérési eredmények rögzítése, az égéstermék-elvezető tömörség vizsgálata, ellenőrzése, a szükséges adminisztráció elkészítése.
 
-A vizsgafeladat időtartama: 60 perc
+A vizsgafeladat időtartama: 30 perc
 
 A vizsgafeladat értékelési súlyaránya: 34%
 
-B) A vizsgafeladat megnevezése: tüzelőberendezés égéstermék oldali tisztítása, tüzeléstechnikai mérése
+B) A vizsgafeladat megnevezése: tüzelőberendezés égéstermék oldali tisztítása
 
-A vizsgafeladat ismertetése: A tüzelőberendezés szemrevételezése, tisztítási munkálatok előkészítése, tisztítás, az üzemkész állapot visszaállítása, tüzeléstechnikai mérés feltételeinek kialakítása, tüzeléstechnikai mérés, mérési eredmények kiértékelése.
+A vizsgafeladat ismertetése: A tüzelőberendezés szemrevételezése, tisztítási munkálatok előkészítése, tisztítás, az üzemkész állapot visszaállítása.
 
-A vizsgafeladat időtartama: 20 perc
+A vizsgafeladat időtartama: 15 perc
 
 A vizsgafeladat értékelési súlyaránya: 8%
 
 C) A vizsgafeladat megnevezése: légtechnikai berendezés tisztítása, ellenőrzése, vizsgálata
 
-A vizsgafeladat ismertetése: A légtechnikai berendezés szemrevételezése, tisztítási munkálatok előkészítése, tisztítás, az üzemkész állapot visszaállítása, az eltávolított szennyeződés kezelése, áramló közeg mennyiségének mérése.
+A vizsgafeladat ismertetése: A légtechnikai berendezés, valamint a levegőellátó rendszerek szemrevételezése, tisztítási munkálatok előkészítése, tisztítás, az üzemkész állapot visszaállítása, az eltávolított szennyeződés kezelése, áramló közeg mennyiségének mérése.
 
-A vizsgafeladat időtartama: 20 perc
+A vizsgafeladat időtartama: 15 perc
 
 A vizsgafeladat értékelési súlyaránya: 8%
 
 5.3.2. Központi írásbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése: Égéstermék-elvezetés, tüzelés-, és légtechnikai berendezések ismertetése
+A vizsgafeladat megnevezése: Égéstermék-elvezetés, tüzelés- és légtechnikai berendezések ismertetése
 
-A vizsgafeladat ismertetése: Szakrajz, szakmai számítások, mértékegységek átszámítása, anyagismeret, hő- és áramlástechnika, jogszabályok, szabványok, műszaki előírások, munka-, tűz-, és környezetvédelem
+A vizsgafeladat ismertetése: Szakrajz, szakmai számítások, mértékegységek átszámítása, anyagismeret, hő- és áramlástechnika, jogszabályok, szabványok, műszaki előírások, munka-, tűz- és környezetvédelem.
 
 A vizsgafeladat időtartama: 180 perc
 
@@ -5200,9 +5160,9 @@ A vizsgafeladat értékelési súlyaránya: 30%
 
 A vizsgafeladat megnevezése: Az égéstermék-elvezetők, tüzelő- és légtechnikai berendezések kialakításai, típusai, fajtái, szerkezetük és működésük, tisztítási-, ellenőrzési- és vizsgálati technológiák, munka-, tűz- és környezetvédelmi előírások
 
-A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a IV. Szakmai követelmények fejezetben megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a IV. Szakmai követelmények fejezetben megadott modulokhoz tartozó témakörök mindegyikét tartalmazza.
 
-A vizsgafeladat időtartama: 45 perc (ebből felkészülési idő: 30 perc, válaszadási idő 15 perc)
+A vizsgafeladat időtartama: 30 perc (ebből a felkészülési idő: 15 perc)
 
 A vizsgafeladat értékelési súlyaránya: 20%
 
@@ -5210,9 +5170,9 @@ A vizsgafeladat értékelési súlyaránya: 20%
 
 A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
 
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: a sikeres vizsgához vizsgatevékenységenként 50% feletti teljesítményt kell elérni.
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: a sikeres vizsgához vizsgatevékenységenként 50% feletti teljesítményt kell elérni. A gyakorlati vizsgatevékenység bármely vizsgafeladatának eredménytelensége esetén a gyakorlati vizsgatevékenység eredménye elégtelen (1). Javítóvizsgát csak a sikertelen vizsgarészből kell tenni.
 
-6. Eszköz- és felszerelési jegyzék
+6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
 
 |  | A |
 
@@ -5220,151 +5180,103 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 6.2. | Gumitalpú bakancs |
 
-| 6.3. | Gumicsizma |
+| 6.3. | Kéményseprő alsó és felső munkaruha mint formaruha |
 
-| 6.4. | Kéményseprő alsó-, felső munkaruha (formaruha) |
+| 6.4. | Derékszíj |
 
-| 6.5. | Saválló munkaruha (alsó, felső) |
+| 6.5. | Válltáska |
 
-| 6.6. | Derékszíj |
+| 6.6. | Sapka |
 
-| 6.7. | Válltáska |
+| 6.7. | Védőkesztyű |
 
-| 6.8. | Szájkendő |
+| 6.8. | Védőszemüveg |
 
-| 6.9. | Sapka |
+| 6.9. | Védőálarc |
 
-| 6.10. | Védősisak |
+| 6.10. | Porálarc |
 
-| 6.11. | Térd és könyökvédő |
+| 6.11. | Zuhanásgátló |
 
-| 6.12. | Védőkesztyű |
+| 6.12. | Munkaöv |
 
-| 6.13. | Kapin (fejvédő kámzsa) |
+| 6.13. | Zseblámpa |
 
-| 6.14. | Védőszemüveg |
+| 6.14. | Törpefeszültségű műhelylámpa |
 
-| 6.15. | Védőálarc |
+| 6.15. | Kéménykulcs |
 
-| 6.16. | Porálarc |
+| 6.16. | Kézi kefe |
 
-| 6.17. | Friss-levegős készülék |
+| 6.17. | Kaparóvas |
 
-| 6.18. | Zuhanásgátló |
+| 6.18. | Koromvonó |
 
-| 6.19. | Munkaöv |
+| 6.19. | Ipari porszívó |
 
-| 6.20. | Zseblámpa |
+| 6.20. | Égető kanna (gázolajos vagy PB-s) |
 
-| 6.21. | Törpefeszültségű műhelylámpa |
+| 6.21. | Csőkefe, többféle hosszúságú és anyagú szárak, különböző anyagú és méretű kefefejekkel |
 
-| 6.22. | Kéménykulcs |
+| 6.22. | Tolókefe, többféle hosszúságú és anyagú szárak, különböző anyagú és méretű kefefejekkel |
 
-| 6.23. | Kézi kefe (partvis) |
+| 6.23. | Pumkefe, különböző anyagú és méretű |
 
-| 6.24. | Kaparóvas |
+| 6.24. | Pumkefeszár, hajlékony vagy merev |
 
-| 6.25. | Koromvonó |
+| 6.25. | Golyós-kötél kéménycsigával, különböző anyagú és méretű golyókkal |
 
-| 6.26. | Ipari porszívó |
+| 6.26. | Rugósaparát, különböző méretekben |
 
-| 6.27. | Kéményseprű |
+| 6.27. | Égéstermék-visszaáramlást érzékelő műszer |
 
-| 6.28. | Égető kanna (gázolajos, vagy PB-s) |
+| 6.28. | Helyiséglevegő CO mérőműszer |
 
-| 6.29. | Csőkefe (többféle hosszúságú és anyagú szárak, különböző anyagú és méretű kefefejekkel) |
+| 6.29. | Kéményvizsgáló tükör, páralemez |
 
-| 6.30. | Tolókefe (többféle hosszúságú és anyagú szárak, különböző anyagú és méretű kefefejekkel) |
+| 6.30. | Kéménymérce, mérőszalag |
 
-| 6.31. | Pumkefe (különböző anyagú és méretű) |
+| 6.31. | Kéményvizsgáló ipari kamera |
 
-| 6.32. | Pumkefeszár (hajlékony, vagy merev) |
+| 6.32. | Digitális fényképezőgép |
 
-| 6.33. | Golyós-kötél kéménycsigával (különböző anyagú és méretű golyókkal) |
+| 6.33. | Füstpatron |
 
-| 6.34. | Rugósaparát (különböző méretekben) |
+| 6.34. | Szivacsdugók füstnyomás próbához, különböző méretben és formában |
 
-| 6.35. | Égéstermék-visszaáramlást érzékelő műszer |
+| 6.35. | Szivárgási-érték mérőműszer, tartozékaival |
 
-| 6.36. | Helyiséglevegő CO mérőműszer |
+| 6.36. | Koromszám mérő |
 
-| 6.37. | Helyiséglevegő CH mérőműszer |
+| 6.37. | Felületi hőmérő |
 
-| 6.38. | Kéményvizsgáló tükör, páralemez |
+| 6.38. | Tüzeléstechnikai mérőműszer |
 
-| 6.39. | Kéménymérce, mérőszalag |
+| 6.39. | Kézi elektromos fúrógép, fémfúró szárakkal |
 
-| 6.40. | Kéményvizsgáló ipari kamera |
+| 6.40. | Elektromos hosszabbító |
 
-| 6.41. | Endoszkóp |
+| 6.41. | Kazántisztító kefeszárak, különböző anyagú és hosszúságú |
 
-| 6.42. | Digitális fényképezőgép |
+| 6.42. | Kazántisztító kefefejek, különböző anyagú, méretű és formájú |
 
-| 6.43. | Füstpatron |
+| 6.43. | Drótkefe |
 
-| 6.44. | Szivacsdugók füstnyomás próbához (különböző méretben és formában) |
+| 6.44. | Áramlási sebességmérő |
 
-| 6.45. | Szivárgási-érték mérőműszer, tartozékaival |
+| 6.45. | Elszívó ventilátor |
 
-| 6.46. | Huzatmérő |
+| 6.46. | Csavarhúzókészlet |
 
-| 6.47. | Koromszám mérő |
+| 6.47. | Villáskulcs-, franciakulcs- és imbuszkulcs-készlet |
 
-| 6.48. | Felületi hőmérő |
+| 6.48. | Svéd-, kombinált-, csípő- és laposfogók |
 
-| 6.49. | Tüzeléstechnikai mérőműszer |
+| 6.49. | Tolómérő |
 
-| 6.50. | Kézi elektromos fúrógép, fémfúró szárakkal |
+| 6.50. | Fázisceruza |
 
-| 6.51. | Elektromos hosszabbító |
-
-| 6.52. | Dugulásjelző műszer |
-
-| 6.53. | Rádió adó-vevő |
-
-| 6.54. | Légnyomásmérő |
-
-| 6.55. | Levegőnedvesség-tartalommérő |
-
-| 6.56. | Kazántisztító kefeszárak (különböző anyagú és hosszúságú) |
-
-| 6.57. | Kazántisztító kefefejek (különböző anyagú, méretű és formájú) |
-
-| 6.58. | Drótkefe |
-
-| 6.59. | Szélsebességmérő |
-
-| 6.60. | Áramlási sebességmérő |
-
-| 6.61. | Áramlóközeg mennyiségmérő |
-
-| 6.62. | Légcsatorna tisztító kefefejek (különböző méretben és anyagból) |
-
-| 6.63. | Légcsatorna tisztító kefefejeket meghajtó szárak (bovdenek) |
-
-| 6.64. | Légcsatorna tisztító kefefejeket meghajtó gépi berendezés |
-
-| 6.65. | Elszívóventilátor |
-
-| 6.66. | Szűrőzsák |
-
-| 6.67. | Csavarhúzókészlet |
-
-| 6.68. | Kulcskészletek (villás-, francia-, imbuszkulcs készlet) |
-
-| 6.69. | Fogók (svéd-, kombinált-, csípő-, laposfogó) |
-
-| 6.70. | Csavarlazító |
-
-| 6.71. | Vasfűrész |
-
-| 6.72. | Sarokcsiszoló |
-
-| 6.73. | Tolómérő |
-
-| 6.74. | Fázisceruza |
-
-| 6.75. | Munkavégzéshez szükséges nyomtatványok |
+| 6.51. | Munkavégzéshez szükséges nyomtatványok |
 
 7. Egyebek
 
@@ -5378,7 +5290,15 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 7.2.2. | 32 853 02 | Kéményseprő | Belügyminisztérium |
 
-7.3. Szervezett képzésben való részvétel kötelező. A hiányzás mértéke az órák 20%-át nem haladhatja meg.
+7.3. Szervezett képzésben való részvétel kötelező. A hiányzás mértéke az órák 15%-át nem haladhatja meg.
+
+7.4. A kijavított és értékelt írásbeli feladatot, az eredeti írásbeli vizsgafeladat egy példányát, valamint a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt el kell juttatni a vizsgaelnökhöz.
+
+7.5. A képzésben részt vevők és a vizsgázók részére az egyéni védőfelszerelést, formaruházatot és az egyéni munkaeszközöket a beiskolázó biztosítja.
+
+7.6. A szakmai vizsga 3 napnál hosszabb időtartamra is szervezhető.
+
+7.7. A legalább 3 hónap időtartamú, kéményseprő mester felügyeletével végzett, jogszabály által meghatározott égéstermék elvezető tisztítási tevékenység igazolásával, bemeneti előzetes tudásszint felmérés alapján, a szakképzés területi gyakorlati időtartamába beszámítható legfeljebb 160 gyakorlati óra.
 
 A 24. SORSZÁMÚ KÖRZETI MEGBÍZOTT MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
@@ -5872,4 +5792,78 @@ A szakképesítéssel rendelkező képes
 
 − ellátni a feladatkörébe tartozó irodai készletgazdálkodási, adminisztrációs feladatokat, közigazgatási eljárás keretén belül jogkörében hivatalból vagy kérelemre hatósági eljárást, vagy hatósági ellenőrzést lefolytatni, végezni
 
-[^6]: A 2. melléklet a 36/2016. (VIII. 30.) BM rendelet 4. §-ával megállapított, az 58/2016. (XII. 22.) BM rendelet 38. §-a, a 6/2018. (III. 5.) BM rendelet 4. § b) pontja szerint módosított szöveg.
+− ügyviteli munkafolyamatokat szervezni és irányítani
+
+− irodatechnikai, információs és kommunikációs eszközöket, berendezéseket kezelni, használni
+
+− ügyintézői feladatokat ellátni
+
+− ügyfélszolgálati feladatokat ellátni
+
+− leíró feladatokat végezni
+
+− feladatkörébe tartozó eljárást lefolytatni
+
+− döntés-előkészítést végezni
+
+− tájékoztatást adni, adatszolgáltatást végezni szóban és írásban
+
+− iratkezelési feladatokat és adminisztratív teendőket ellátni
+
+− feladatkörébe tartozó közigazgatási ügyekben döntés-előkészítést és támogató feladatokat végezni
+
+− ellátni a munkakörébe tartozó ügycsoporttal összefüggő feladatokat
+
+− önállóan végezni a hatáskörébe tartozó közigazgatási eljárási ügyeket
+
+− ügyfélfogadást, ügyfélszolgálatot végezni
+
+− végigvinni a munkakörébe tartozó jogi, igazgatási eljárásokat
+
+− kezelni a felmerülő ügyfélkonfliktusokat,
+
+− alkalmazni a hatékony kommunikáció elemeit
+
+− ügyintézést, eljárást lefolytatni különböző ügyek kapcsán, ügyviteli és/vagy érdemi feladatokat ellátni
+
+3.3. Kapcsolódó szakképesítések
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. |  |  |  |
+
+| 3.3.4. | 34 861 01 | Rendészeti őr | szakképesítés |
+
+| 3.3.5. | 54 861 01 | Rendőr tiszthelyettes (a szakmairány megjelölésével) | szakképesítés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | azonosító száma | A szakképesítés szakmai követelménymoduljainak megnevezése |
+
+| 4.2. | 11555-16 | Ügykezelés a közszolgálatban |
+
+| 4.3. | 11632-16 | Közszolgálati ügyintéző alapfeladatok |
+
+| 4.4. | 11559-16 | E-közigazgatási ismeretek |
+
+| 4.5. | 11560-16 | Ügyfélszolgálati kommunikáció magyar és idegen nyelven |
+
+| 4.6. | 11385-12 | Magyar- és idegen nyelvű panaszkezelés |
+
+| 4.7. | 11553-16 | Rendvédelmi szervek és alapfeladatok |
+
+| 4.8. | 11552-16 | Önvédelem és intézkedéstaktika |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+Az utolsó szakképző évfolyam eredményes elvégzése.
+
+[^7]: A 2. melléklet a 36/2016. (VIII. 30.) BM rendelet 4. §-ával megállapított, az 58/2016. (XII. 22.) BM rendelet 38. §-a, a 6/2018. (III. 5.) BM rendelet 4. § b) pontja, a 18/2018. (VI. 28.) BM rendelet 4. §-a szerint módosított szöveg.
