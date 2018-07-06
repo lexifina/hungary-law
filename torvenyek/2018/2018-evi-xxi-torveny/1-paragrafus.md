@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európa Tanács terrorizmus megelőzéséről szóló Egyezménye Kiegészítő Jegyzőkönyve (a továbbiakban: Kiegészítő Jegyzőkönyv) kötelező hatályának elismerésére.
