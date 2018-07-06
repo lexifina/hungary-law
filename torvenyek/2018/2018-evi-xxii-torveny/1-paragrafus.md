@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Jordán Hasemita Királyság Kormánya között a diplomata-útlevéllel rendelkező állampolgáraik vízummentességéről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
