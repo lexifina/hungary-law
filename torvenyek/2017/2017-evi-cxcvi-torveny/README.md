@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-196-00-00
 | 2018-03-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-196-00-00.3 |
 | 2018-03-02 | 2010. évi CXXX. törvény | 2017-196-00-00.4 |
 | 2018-07-05 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-196-00-00.5 |
+| 2018-07-06 | 2010. évi CXXX. törvény | 2017-196-00-00.6 |
