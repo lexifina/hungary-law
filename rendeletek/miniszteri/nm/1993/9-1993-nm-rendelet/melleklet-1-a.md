@@ -1414,6 +1414,6 @@
 
 |  | K403 Magyar Honvédség Egészségügyi Központ, Budapest |
 
-1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^100]
+1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^101]
 
-[^100]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^101]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
