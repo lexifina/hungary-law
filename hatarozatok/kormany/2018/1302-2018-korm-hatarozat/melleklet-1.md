@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:73 mezőjében az „1,90” szövegrész helyébe a „2,13” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1302/2018. (VII. 4.) Korm. határozathoz
 
@@ -21,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó, Ft) | Többlettámogatás legfeljebb (bruttó, Ft) | Megnövelt támogatás legfeljebb (bruttó, Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-1.5.0-15- 2015-00001 | Séd-Nádor-Gaja vízrendszer rehabilitációja I. ütem | Országos Vízügyi Főigazgatóság (konzorciumvezető) Közép-dunántúli Vízügyi Igazgatóság | 1 900 000 000 | 224 383 190 | 2 124 383 190 | A projekt eredményeként lehetőség nyílik a térségben a vízvisszatartásra és állandó vízpótlásra a Séd-Nádor-Gaja vízrendszer mentén. A projekt megvalósításával a hasznos tározótér 6,55 millió m3-re növekszik, és az árvízvédelmi intézkedések előnyeiben részesülő lakosság száma eléri a 109 769 főt. |
+
+[^1]: A 3. pont a 2010: CXXX törvény 12. § (2) bekezdése alapján hatályát vesztette.
