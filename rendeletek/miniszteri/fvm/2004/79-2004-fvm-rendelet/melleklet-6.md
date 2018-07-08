@@ -220,4 +220,4 @@
 
 A VADGAZDÁLKODÁSI ÜZEMTERV TARTALMI KÖVETELMÉNYEI
 
-[^235]: A Vhr. 6. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (2) bekezdésével megállapított szöveg.
+[^235]: A Vhr. 6. számú melléklete a 13/2018. (VII. 3.) AM rendelet 4. §-ával megállapított szöveg.
