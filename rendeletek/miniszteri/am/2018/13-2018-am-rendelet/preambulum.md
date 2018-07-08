@@ -1,0 +1,5 @@
+Az 1–2. § tekintetében a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 100. § (1) bekezdés a) pont 4. alpontjában, valamint c) pont 2. alpontjában,
+
+a 3–4. § tekintetében a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 100. § (1) bekezdés c) pont 2. alpontjában kapott felhatalmazás alapján,
+
+a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 79. § 12. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
