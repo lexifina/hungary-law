@@ -16,11 +16,11 @@ e) a 11. § (1) bekezdés d) pontja szerinti, aktualizált név- és címjegyzé
 
 (3) Forgalom alatti építés esetében a kérelmet a műszaki átadás-átvételt követő legkésőbb 60 napon belül kell benyújtani a hatósághoz. A kérelem benyújtásának elmulasztása esetén a közlekedési építmények közforgalomban való további használata engedély nélküli használatnak minősül.
 
-(4)[^26]
+(4)[^29]
 
 (5) Az eljárás során a szakhatóságoknak arról kell nyilatkozniuk, hogy az építmény az állásfoglalásuknak megfelelően valósult-e meg és hozzájárulnak-e a forgalomba helyezéshez.
 
-(6)[^27] Az építtető a forgalomba helyezés engedélyezése érdekében köteles igazolni
+(6)[^30] Az építtető a forgalomba helyezés engedélyezése érdekében köteles igazolni
 
 a) az elkészült közlekedési építmény jóváhagyott megvalósulási tervnek, továbbá az építési engedélynek megfelelő megépítését,
 
@@ -32,5 +32,5 @@ d) építési engedélyben foglalt erre irányuló előírás esetén annak igaz
 
 (7) A forgalomba helyezés engedélyezése előtt az elkészült építményt a forgalom részére – a forgalom alatti építés kivételével – megnyitni nem szabad.
 
-[^26]: A 18. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 394. § f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^27]: A 18. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 392. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^29]: A 18. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 394. § f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^30]: A 18. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 392. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
