@@ -1,0 +1,3 @@
+7. § (1) A 4. § (1) bekezdésétől eltérően, egyedi, előre nem látható egészségügyi esetek speciális diagnosztikájának vagy kezelésének dokumentált elvégzésére az Egészségügyi Szakmai Kollégium illetékes tagozatának ajánlása alapján az országos tisztifőorvos esetileg jóváhagyhatja a nyilvántartásban nem szereplő ionizáló sugárzással járó orvosi eljárás elvégzését az engedélyes részére egy adott személyt érő egyéni orvosi sugárterhelés vonatkozásában.
+
+(2) Az eseti jellegű ionizáló sugárzással járó orvosi eljárás elvégzésének jóváhagyásához a 4. § (2) bekezdés b) pontja szerinti dokumentumokat kell benyújtani.

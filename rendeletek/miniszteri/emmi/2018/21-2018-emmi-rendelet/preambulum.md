@@ -1,0 +1,1 @@
+Az atomenergiáról szóló 1996. évi CXVI. törvény 68. § (2) bekezdés r) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 92. § 3. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

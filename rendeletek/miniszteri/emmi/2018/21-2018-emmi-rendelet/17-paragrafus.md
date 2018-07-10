@@ -1,0 +1,3 @@
+17. § (1) Az országos tisztifőorvos az Egészségügyi Szakmai Kollégium bevonásával minden év november 30-ig elkészíti a következő évben klinikai audit alá eső engedélyesek jegyzékét (a továbbiakban: auditáló terv), és azt az általa működtetett honlapon elérhetővé teszi.
+
+(2) Az országos tisztifőorvos az OKI és az Egészségügyi Szakmai Kollégium bevonásával a klinikai audit lefolytatásának szempontrendszerére vonatkozóan módszertani útmutatót készít. A módszertani útmutatót az országos tisztifőorvos minden év november 30-ig az előző évben elvégzett klinikai auditok szakmai tapasztalatai és a tudomány mindenkori állásának megfelelően aktualizálja, és azt az általa működtetett honlapon elérhetővé teszi.
