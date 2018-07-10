@@ -36,6 +36,6 @@
 
 ## Lechner Nonprofit Kft.
 
-2. melléklet a 324/2013. (VIII. 29.) Korm. rendelethez[^43]
+2. melléklet a 324/2013. (VIII. 29.) Korm. rendelethez[^62]
 
-[^43]: A 2. melléklet a 369/2016. (XI. 29.) Korm. rendelet 21. § b) pontjával megállapított szöveg.
+[^62]: A 2. melléklet a 369/2016. (XI. 29.) Korm. rendelet 21. § b) pontjával megállapított szöveg.

@@ -1,7 +1,8 @@
-## 8/C. §[^24] Az ÁSZF-et az e-közműt üzemeltető szervezet dolgozza ki és a miniszter hagyja jóvá. Az ÁSZF tartalmazza:
+## 8/C. §[^41] Az ÁSZF-et az e-közműt üzemeltető szervezet dolgozza ki és a miniszter hagyja jóvá. Az ÁSZF tartalmazza:
 
-a) az e-közmű felé történő adatszolgáltatás módjára, gyakoriságára, az adatok kezelésére,
+a)[^42] az e-közmű felé történő adatszolgáltatás módjára, részletes műszaki tartalmára, gyakoriságára, az adatok kezelésére,
 
 b) az e-közműből történő adatszolgáltatásért fizetendő e-közmű rendszerhasználati díj mértékére
 
-[^24]: A 8/C. §-t a 369/2016. (XI. 29.) Korm. rendelet 14. §-a iktatta be.
+[^41]: A 8/C. §-t a 369/2016. (XI. 29.) Korm. rendelet 14. §-a iktatta be.
+[^42]: A 8/C. § a) pontja a 117/2018. (VII. 2.) Korm. rendelet 14. § l) pontja szerint módosított szöveg.

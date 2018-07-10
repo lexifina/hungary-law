@@ -1,3 +1,3 @@
-## 14. §[^39] E rendeletnek a Módr.-ral meghatározott 9/A. §-ában foglaltakat 2017. július 1-jétől kell alkalmazni.
+## 14. §[^58] E rendeletnek a Módr.-ral meghatározott 9/A. §-ában foglaltakat 2017. július 1-jétől kell alkalmazni.
 
-[^39]: A 14. § a 369/2016. (XI. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^58]: A 14. § a 369/2016. (XI. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
