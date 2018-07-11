@@ -1,3 +1,3 @@
-## 6. § Az E-közmű rendelet 5. § (7) bekezdése helyébe a következő rendelkezés lép:
+## 2–6. §[^2]
 
-## „(7) Az (1) bekezdés a) és b) pontja szerinti e-közmű adatszolgáltatóknak rendelkezniük kell Egységes Országos Vetületi Rendszerben (a továbbiakban: EOV rendszerben) vezetett nyilvántartással.”
+[^2]: A 2–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## „(3) E rendeletnek az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről szóló 93/2012. (V. 10.) Korm. rendelet, valamint az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendelet módosításáról szóló 117/2018. (VII. 2.) Korm. rendelet (a továbbiakban: Módr.) 1. §-ával módosított 5. § (1) és (4) bekezdésének és megállapított 5. § (5) bekezdésének rendelkezéseit a Módr. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.”
+## 1. §[^1]
 
 ## 2. Az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendelet módosítása
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
