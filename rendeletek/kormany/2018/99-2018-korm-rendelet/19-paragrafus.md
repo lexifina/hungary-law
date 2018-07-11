@@ -6,6 +6,7 @@
 
 (2) Az 1–7. §, a 8. § (1) bekezdése, a 9–14. § és az 1. melléklet 2018. július 1. napján lép hatályba.
 
-(3) A 8. § (2) bekezdése 2018. augusztus 1. napján lép hatályba.
+(3)[^7]
 
 [^6]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 19. § (3) bekezdését a 124/2018. (VII. 10.) Korm. rendelet 2. §-a hatályon kívül helyezte.
