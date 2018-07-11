@@ -1,8 +1,8 @@
-## 109. §[^87] Az engedély időbeli hatályának meghosszabbításához az állományilletékes parancsnok igazolja, hogy az engedélyesnek a megelőző 24 hónap során hat hónapnál hosszabb folyamatos munkamegszakítása nem volt. Ha a megelőző 24 hónap során a munka folyamatos megszakításának időtartama meghaladta a hat hónapot, akkor az engedélyes a 107. § (3) bekezdés szerinti gyakorlati vizsgát tesz.
+## 109. §[^88] Az engedély időbeli hatályának meghosszabbításához az állományilletékes parancsnok igazolja, hogy az engedélyesnek a megelőző 24 hónap során hat hónapnál hosszabb folyamatos munkamegszakítása nem volt. Ha a megelőző 24 hónap során a munka folyamatos megszakításának időtartama meghaladta a hat hónapot, akkor az engedélyes a 107. § (3) bekezdés szerinti gyakorlati vizsgát tesz.
 
 ## Körzeti irányító szakszolgálati engedély
 
-110. § (1)[^88] A körzeti irányító szakszolgálati engedély kiadásának feltétele, hogy a pályázó a kérelem benyújtását megelőző 12 hónapon belül, tapasztalt légiforgalmi irányító felügyelete mellett legalább 400 óra szakszolgálati feladatot teljesít. Az óraszám teljesítésére a 104. § (2) bekezdés is irányadó.
+110. § (1)[^89] A körzeti irányító szakszolgálati engedély kiadásának feltétele, hogy a pályázó a kérelem benyújtását megelőző 12 hónapon belül, tapasztalt légiforgalmi irányító felügyelete mellett legalább 400 óra szakszolgálati feladatot teljesít. Az óraszám teljesítésére a 104. § (2) bekezdés is irányadó.
 
 (2) A pályázó elméleti vizsgát a 103. § (2) bekezdésben foglaltakon túl a következő tárgyakból tesz:
 
@@ -26,5 +26,5 @@ i) az illetékességi körzetben alkalmazott radarirányítói eljárások móds
 
 (3) A gyakorlati vizsgára a 104. § (4) bekezdés irányadó.
 
-[^87]: A 109. § a 6/2010. (III. 30.) MH–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^88]: A 110. § (1) bekezdése a 6/2010. (III. 30.) MH–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^88]: A 109. § a 6/2010. (III. 30.) MH–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^89]: A 110. § (1) bekezdése a 6/2010. (III. 30.) MH–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

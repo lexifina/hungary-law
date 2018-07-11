@@ -1,12 +1,18 @@
 ## Szállító repülőgép gépparancsnok szakszolgálati engedély
 
-48. § (1) A szállító repülőgép gépparancsnok szakszolgálati engedély kiadásának feltétele, hogy a pályázó
+48. § (1)[^39] A szállító repülőgép gépparancsnok szakszolgálati engedély kiadásának feltétele, hogy a pályázó
 
-a)[^38] rendelkezik hatályos szállító repülőgép másodpilóta szakszolgálati engedéllyel,
+a) rendelkezik hatályos
 
-b) befejezte a parancsnoki kiképzést,
+aa) szállító repülőgép másodpilóta szakszolgálati engedéllyel a pályázott típuson vagy
 
-c) az adott típuson, másodpilótaként legalább 1000 óra repült idővel rendelkezik, ebből legalább 150 órával jobb ülésben, továbbá 100 órával bal ülésben, oktató parancsnokkal a pályázott típuson.
+ab) a pályázott típustól eltérő típusú szállító repülőgép gépparancsnok szakszolgálati engedéllyel,
+
+b) befejezte a szállító repülőgép gépparancsnoki kiképzést a pályázott típuson,
+
+c) az adott kategóriában másodpilótaként vagy gépparancsnokként legalább 1000 óra repült idővel rendelkezik, és
+
+d) szállító repülőgépvezető oktató felügyelete mellett, nemzetközi közforgalomban végrehajtott legalább 20 útvonalszakaszt a pályázott típuson gyakorló gépparancsnokként.
 
 (2) A pályázó elméleti vizsgát a következő tárgyakból tesz:
 
@@ -16,4 +22,4 @@ b) repülésbiztonsági előírások, eljárások.
 
 (3) A gyakorlati vizsgán a pályázónak a 42. § (3) bekezdésben foglaltakon túl számot kell adnia a parancsnoki felkészültségéről, valamint a döntéshozatali képességéről.
 
-[^38]: A 48. § (1) bekezdés a) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^39]: A 48. § (1) bekezdése a 10/2018. (VII. 10.) HM rendelet 2. §-ával megállapított szöveg.

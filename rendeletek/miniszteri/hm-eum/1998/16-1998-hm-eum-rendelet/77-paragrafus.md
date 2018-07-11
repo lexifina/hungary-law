@@ -8,6 +8,6 @@ b) 6 hónapnál több és 12 hónapnál kevesebb időtartamban, akkor a légiüz
 
 c) 12 hónapnál több időtartamban, akkor teljes körű elméleti és gyakorlati vizsgát kell tennie, valamint soron kívüli ROB vizsgálaton kell részt vennie.
 
-(2)[^62] A fedélzeti mérnök, fedélzeti szerelő szakszolgálati engedély időbeli hatályának meghosszabbításához az állományilletékes parancsnok igazolja, hogy az engedélyes a jogosított típuson az elmúlt 12 hónapban jártasságát a légi üzemeltetésben folyamatosan fenntartotta.
+(2)[^63] A fedélzeti mérnök, fedélzeti szerelő szakszolgálati engedély időbeli hatályának meghosszabbításához az állományilletékes parancsnok igazolja, hogy az engedélyes a jogosított típuson az elmúlt 12 hónapban jártasságát a légi üzemeltetésben folyamatosan fenntartotta.
 
-[^62]: A 77. § (2) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^63]: A 77. § (2) bekezdése a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -4,7 +4,7 @@
 
 69. § (1) A helikopter berepülő-gépparancsnok szakszolgálati engedély kiadásának feltétele, hogy a pályázó rendelkezik
 
-a)[^57] hatályos helikopter-gépparancsnok szakszolgálati engedéllyel, továbbá
+a)[^58] hatályos helikopter-gépparancsnok szakszolgálati engedéllyel, továbbá
 
 b) legalább 1000 óra repült idővel.
 
@@ -24,4 +24,4 @@ c) értékelése, továbbá
 
 d) adatainak berepülési jegyzőkönyvben való rögzítése.
 
-[^57]: A 69. § (1) bekezdés a) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^58]: A 69. § (1) bekezdés a) pontja a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
