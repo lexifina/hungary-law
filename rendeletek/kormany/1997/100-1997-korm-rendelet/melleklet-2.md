@@ -2880,6 +2880,8 @@ KÖZÉPSZINT
 
 | Alternatív és szabadidős mozgásrendszerek | Egy választott alternatív, szabadidős, természetben űzhető sportág jellegzetességeinek és legfontosabb szabályainak ismertetése (sí, kerékpár, természetjárás, evezés, görkorcsolya stb.). Alapvető ismeretek a táborozások előnyeiről. |
 
+| Az olimpiai mozgalom létrejötte, célja, feladatai; magyar sportsikerek | Az ókori és az újkori olimpiai játékok kialakulása, története; kiemelkedő események. A legnevesebb magyar olimpiai bajnokok sportágai és eredményei. |
+
 | 2. Gyakorlati ismeretek |
 
 | 1. Gimnasztika | Leányok: kötélmászás állásból teljes magasságig, mászókulcsolással, a részletes követelményekben meghatározott szintidő alatt. Fiúk: függeszkedés állásból teljes magasságig a részletes követelményekben meghatározott szintidő alatt. 48 ütemű szabadgyakorlat bemutatása. |
@@ -3056,7 +3058,7 @@ KÖZÉPSZINT
 
 | Filozófiai problémák |
 
-|  | A probléma lényegének megértése és bemutatása egy-két konkrét filozófiai válasz tükrében: Mi a filozófia? A létre vonatkozó kérdés. Test-lélek probléma. Megismerhetőség, igazság, bizonyosság. Az én problémája. Végesség emberi problémája. Vallási és filozófiai istenképek. Az érték etikai problémája: a jó. Az igazságosság és méltányosság kérdése. A szabadság kérdése. A környezet- és bioetika problémái. Globalizáció és társadalom. Szabadon választható probléma. |
+|  | A probléma lényegének megértése és bemutatása egy-két konkrét filozófiai válasz tükrében: Mi a filozófia? A létre vonatkozó kérdés. Test-lélek probléma. Megismerhetőség, igazság, bizonyosság. Az én problémája. Végesség emberi problémája. Vallási és filozófiai istenképek. Az érték etikai problémája: a jó. Az igazságosság és méltányosság kérdése. A szabadság kérdése. A környezet- és bioetika problémái. Globalizáció és társadalom. Szabadon választható probléma. Az idő filozófiai értelmezése. |
 
 | Filozófusok alapvető gondolatainak ismerete |
 
@@ -3454,4 +3456,4 @@ Ezért a vizsga célja annak megállapítása, hogy a vizsgázó
 [^382]: Az 1. számú melléklet II. Záradékok alcíme a 36/2015. (III. 6.) Korm. rendelet 10. § a) pontjával megállapított, az 5/2016. (I. 22.) Korm. rendelet 17. § a) és b) pontja szerint módosított szöveg.
 [^383]: A 2. számú melléklet a 324/2011. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^384]: A 2. számú melléklet Első Része a 347/2008. (XII. 31.) Korm. rendelet 3. §-ával megállapított, a 172/2011. (VIII. 24.) Korm. rendelet 4. §-a, a 106/2012. (VI. 1.) Korm. rendelet 6–7. §-a, az 5/2016. (I. 22.) Korm. rendelet 17. § c) pontja, a 311/2016. (X. 14.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^385]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja és 8. §-a, a 221/2014. (IX. 4.) Korm. rendelet 172. § c)–s) pontja, az 5/2016. (I. 22.) Korm. rendelet 17. § c) pontja és 19. § f) pontja, a 311/2016. (X. 14.) Korm. rendelet 2. § a) és b) pontja, a 307/2017. (X. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^385]: A 2. számú melléklet Második Része a 233/2004. (VIII. 6.) Korm. rendelet 50. §-ának (5) bekezdése, a 338/2004. (XII. 18.) Korm. rendelet 9–10. §-a és 12. § (1) bekezdésének b) pontja, a 256/2005. (XII. 7.) Korm. rendelet 26. § (3) bekezdése és 28. § (1) bekezdésének c) pontja, a 331/2007. (XII. 13.) Korm. rendelet 1. § 18. pontja és 3. § 9. pontja, a 6/2008. (I. 22.) Korm. rendelet 11. § (4)–(5) bekezdése és 12. § (3) bekezdésének x)–z) pontja, a 347/2008. (XII. 31.) Korm. rendelet 4–22. §-a, a 172/2011. (VIII. 24.) Korm. rendelet 5. §-a, a 106/2012. (VI. 1.) Korm. rendelet 11. § d) pontja és 8. §-a, a 221/2014. (IX. 4.) Korm. rendelet 172. § c)–s) pontja, az 5/2016. (I. 22.) Korm. rendelet 17. § c) pontja és 19. § f) pontja, a 311/2016. (X. 14.) Korm. rendelet 2. § a) és b) pontja, a 307/2017. (X. 27.) Korm. rendelet 2. §-a, a 122/2018. (VII. 10.) Korm. rendelet 2. §-a szerint módosított szöveg.
