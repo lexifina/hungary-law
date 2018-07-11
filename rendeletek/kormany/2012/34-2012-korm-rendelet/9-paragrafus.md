@@ -1,4 +1,4 @@
-## 8. §[^10] A nemzeti szakértőként történő foglalkoztatás időtartama alatt a nemzeti szakértőt – a Kttv., vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti illetményén, továbbá az uniós intézménynek a nemzeti szakértőkre vonatkozó szabályzatában foglaltakon felül – az e rendeletben meghatározott egyéb juttatások illetik meg.
+## 8. §[^11] A nemzeti szakértőként történő foglalkoztatás időtartama alatt a nemzeti szakértőt – a Kttv., vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti illetményén, továbbá az uniós intézménynek a nemzeti szakértőkre vonatkozó szabályzatában foglaltakon felül – az e rendeletben meghatározott egyéb juttatások illetik meg.
 
 9. § (1) A nemzeti szakértőnek a napidíjpótlékra jogosító személyek után napidíjpótlék jár. A napidíjpótlék a nemzeti szakértőként történő foglalkoztatás idejére, az arra jogosító személy tényleges kiutazásától végleges hazautazásának napjáig – az utazási napokat is beleértve – jár.
 
@@ -26,4 +26,4 @@ cb) 12. életév betöltését követően 15%-a, ameddig a gyermek iskolai rends
 
 (6) A napidíjpótlékot havonta utólag, legkésőbb a tárgyhónapot követő hónap 5. napján kell forintban, a nemzeti szakértő számlatulajdonos fizetési számlájára történő átutalással kifizetni. A nemzeti szakértőként történő foglalkoztatás megszűnése esetén a napidíjpótlék kifizethető a hazautazást megelőző öt munkanappal korábban.
 
-[^10]: A 8. § a 157/2015. (VI. 25.) Korm. rendelet 28. § c) pontja szerint módosított szöveg.
+[^11]: A 8. § a 157/2015. (VI. 25.) Korm. rendelet 28. § c) pontja szerint módosított szöveg.
