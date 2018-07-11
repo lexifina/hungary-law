@@ -1,4 +1,4 @@
-17/A. §[^136] (1)[^137] Ha a Mesterpedagógus fokozatba besorolt pedagógus országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként vesz részt vagy szaktanácsadói, illetve pedagógiai-szakmai szolgáltatási feladatokat lát el, munkaidő-kedvezményben részesül. A neveléssel-oktatással lekötött munkaideje nem lehet több
+17/A. §[^140] (1)[^141] Ha a Mesterpedagógus fokozatba besorolt pedagógus országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként vesz részt vagy szaktanácsadói, illetve pedagógiai-szakmai szolgáltatási feladatokat lát el, munkaidő-kedvezményben részesül. A neveléssel-oktatással lekötött munkaideje nem lehet több
 
 a) heti tizennyolc óránál,
 
@@ -14,9 +14,9 @@ a) a gyermekotthoni, utógondozó otthoni, javítóintézeti nevelő, pszicholó
 
 b) gyermekotthoni gyógypedagógus, fejlesztő pedagógus, javítóintézeti gyógypedagógus esetén tizenkilenc óránál,
 
-c)[^138] nevelőszülői tanácsadó, területi gyermekvédelmi szakszolgálati családgondozó, örökbefogadási tanácsadó esetén harminckét óránál.
+c)[^142] nevelőszülői tanácsadó, területi gyermekvédelmi szakszolgálati családgondozó, örökbefogadási tanácsadó esetén harminckét óránál.
 
-(2a)[^139] Az (1) bekezdés szerinti szakértői, szaktanácsadói tevékenységet végző, Mesterpedagógus fokozatba besorolt
+(2a)[^143] Az (1) bekezdés szerinti szakértői, szaktanácsadói tevékenységet végző, Mesterpedagógus fokozatba besorolt
 
 a) bölcsődei kisgyermeknevelő, gyógypedagógus, pszichológus, szaktanácsadó, továbbá
 
@@ -26,15 +26,15 @@ tekintetében a kötött munkaidőből számítandó munkaidő-kedvezmény napi 
 
 (3) Az (1) bekezdés szerinti szakértői, szaktanácsadói tevékenységet végző Mesterpedagógus fokozatba besorolt nevelőszülői hálózat szakmai vezetője, gyermekotthon vezető, javítóintézeti otthonvezető esetében a munkaidő-kedvezmény nyolc óra.
 
-(3a)[^140] Annak a Mesterpedagógus fokozatba besorolt pedagógusnak, aki osztályfőnöki, munkaközösség-vezetői vagy a tanulók önszerveződését segítő feladatot lát el, a neveléssel-oktatással lekötött munkaideje a kerekítés általános szabályai alkalmazásával nem lehet kevesebb, mint a munkaköre szerint rá irányadó neveléssel-oktatással lekötött munkaidő alsó határának hetvenöt százaléka, vezetőpedagógus esetén heti kilenc óra, vezető óvodapedagógus esetén heti húsz óra.
+(3a)[^144] Annak a Mesterpedagógus fokozatba besorolt pedagógusnak, aki osztályfőnöki, munkaközösség-vezetői vagy a tanulók önszerveződését segítő feladatot lát el, a neveléssel-oktatással lekötött munkaideje a kerekítés általános szabályai alkalmazásával nem lehet kevesebb, mint a munkaköre szerint rá irányadó neveléssel-oktatással lekötött munkaidő alsó határának hetvenöt százaléka, vezetőpedagógus esetén heti kilenc óra, vezető óvodapedagógus esetén heti húsz óra.
 
-(4)[^141] A (2)–(3) bekezdés szerinti munkaidő-kedvezményt úgy kell biztosítani, hogy a pedagógust hetenként legalább egy munkanapra a munkahelyén történő munkavégzés alól mentesíteni kell a szakértői, szaktanácsadói feladatok ellátása érdekében.
+(4)[^145] A (2)–(3) bekezdés szerinti munkaidő-kedvezményt úgy kell biztosítani, hogy a pedagógust hetenként legalább egy munkanapra a munkahelyén történő munkavégzés alól mentesíteni kell a szakértői, szaktanácsadói feladatok ellátása érdekében.
 
 (5) Az (1)–(3) bekezdés szerinti munkaidő-kedvezményt az intézmény vezetője az OH-nak – vagy szaktanácsadói feladatok ellátása esetén a pedagógiai-szakmai szolgáltatást nyújtó intézménynek – a szakértői, szaktanácsadói feladatokra az adott minősítési naptári évre szóló megbízása alapján köteles biztosítani.
 
 (6) Az (1)–(3) bekezdésben meghatározott munkaidő-kedvezményben részesülő pedagógus egy tanítási évben legfeljebb huszonöt tanítási napon az OH felkérésére
 
-a)[^142] a minősítő vizsga, minősítési eljárás lebonyolításához kapcsolódó, minősítő bizottságban, bíráló bizottságban való részvétellel összefüggő feladatokat, ideértve azt az esetet is, ha ezt a Nemzeti Pedagógus Kar delegáltjaként,
+a)[^146] a minősítő vizsga, minősítési eljárás lebonyolításához kapcsolódó, minősítő bizottságban, bíráló bizottságban való részvétellel összefüggő feladatokat, ideértve azt az esetet is, ha ezt a Nemzeti Pedagógus Kar delegáltjaként,
 
 b) az országos pedagógiai-szakmai ellenőrzés (tanfelügyelet) lebonyolításában való részvételt,
 
@@ -54,7 +54,7 @@ b) közreműködik az országos pedagógiai-szakmai ellenőrzés részét képez
 
 c) az OH kijelölése alapján közreműködik a minősítő vizsgát, minősítési eljárást követően benyújtott panaszok elbírálásában.
 
-(8)[^143] Az a Mesterpedagógus fokozatba besorolt pedagógus, aki az (1)–(3) bekezdésben meghatározott feladatok ellátásában nem vesz részt, a kötött munkaidőnek neveléssel-oktatással – vagy a Gyvt. hatálya alá tartozó gyermekvédelmi szakellátást vagy javítóintézeti nevelést nyújtó intézmény esetén a neveléssel, fejlesztéssel és vizsgálattal le nem kötött részében, bölcsőde esetén a teljes munkaidő kötött munkaidőn belüli részében – heti két órában
+(8)[^147] Az a Mesterpedagógus fokozatba besorolt pedagógus, aki az (1)–(3) bekezdésben meghatározott feladatok ellátásában nem vesz részt, a kötött munkaidőnek neveléssel-oktatással – vagy a Gyvt. hatálya alá tartozó gyermekvédelmi szakellátást vagy javítóintézeti nevelést nyújtó intézmény esetén a neveléssel, fejlesztéssel és vizsgálattal le nem kötött részében, bölcsőde esetén a teljes munkaidő kötött munkaidőn belüli részében – heti két órában
 
 a) fejlesztő támogató tevékenységet végez, melynek keretében
 
@@ -74,21 +74,21 @@ c) intézményvezetői tevékenységként köznevelési, vagy a Gyvt. hatálya a
 
 (9) A köznevelési intézményben vezetői vagy magasabb vezetői megbízással rendelkező vagy ilyen munkakört betöltő pedagógus szakértői, szaktanácsadói feladatainak ellátásába – legfeljebb öt minősítő vizsgához, minősítési eljáráshoz kapcsolódó alkalom erejéig – be kell számítani azt is, amikor a minősítő bizottságnak az intézményvezető vagy az intézményvezető által megbízott tagjaként jár el.
 
-(10)[^144] A Kutatótanárt a kötött munkaidőnek neveléssel-oktatással le nem kötött részéből heti két óra munkaidő-kedvezmény illeti meg a Kutatóprogramjában foglaltak, valamint az együttműködési megállapodásban vállaltak teljesítése érdekében végzett tevékenység céljára.
+(10)[^148] A Kutatótanárt a kötött munkaidőnek neveléssel-oktatással le nem kötött részéből heti két óra munkaidő-kedvezmény illeti meg a Kutatóprogramjában foglaltak, valamint az együttműködési megállapodásban vállaltak teljesítése érdekében végzett tevékenység céljára.
 
 (11) Ha az e §-ban felsorolt feladatokat ellátó Mesterpedagógus fokozatba besorolt pedagógus neki felróható okból egy éven belül két alkalommal nem tesz eleget a (6) és (7) bekezdésben meghatározott feladatok ellátására vonatkozó felkérésnek, az OH a felróható ok megjelölésével értesíti erről a pedagógus munkáltatóját. A munkáltató a pedagógus Mesterpedagógus besorolását azonnali hatállyal visszavonja, ha az értesítésben foglaltakat megalapozottnak találja.
 
 (12) A (11) bekezdés alkalmazásában a pedagógusnak felróható ok minden olyan esemény, körülmény, amelynek bekövetkezése a pedagógus szándékos vagy gondatlan magatartásával áll közvetlen okozati összefüggésben. A besorolás visszavonásakor a pedagógust Mesterpedagógus fokozatba történt besorolását megelőzően elért legmagasabb fokozatba és a fizetési kategória megállapításához figyelembe vehető jogviszonyának megfelelő kategóriába kell besorolni.
 
-(13)[^145]
+(13)[^149]
 
-[^136]: A 17/A. §-t a 249/2015. (IX. 8.) Korm. rendelet 12. §-a iktatta be.
-[^137]: A 17/A. § (1) bekezdés nyitó szövegrésze a 235/2016. (VII. 29.) Korm. rendelet 37. § 14. pontja szerint módosított szöveg.
-[^138]: A 17/A. § (2) bekezdés c) pontja a 418/2015. (XII. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^139]: A 17/A. § (2a) bekezdését a 418/2015. (XII. 23.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^140]: A 17/A. § (3a) bekezdését a 307/2017. (X. 27.) Korm. rendelet 22. §-a iktatta be.
-[^141]: A 17/A. § (4) bekezdése a 307/2017. (X. 27.) Korm. rendelet 24. § 15. pontja szerint módosított szöveg.
-[^142]: A 17/A. § (6) bekezdés a) pontja a 235/2016. (VII. 29.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^143]: A 17/A. § (8) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
-[^144]: A 17/A. § (10) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
-[^145]: A 17/A. § (13) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 26. § (4) bekezdése iktatta be, hatályon kívül helyezte a 307/2017. (X. 27.) Korm. rendelet 25. § e) pontja.
+[^140]: A 17/A. §-t a 249/2015. (IX. 8.) Korm. rendelet 12. §-a iktatta be.
+[^141]: A 17/A. § (1) bekezdés nyitó szövegrésze a 235/2016. (VII. 29.) Korm. rendelet 37. § 14. pontja szerint módosított szöveg.
+[^142]: A 17/A. § (2) bekezdés c) pontja a 418/2015. (XII. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^143]: A 17/A. § (2a) bekezdését a 418/2015. (XII. 23.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^144]: A 17/A. § (3a) bekezdését a 307/2017. (X. 27.) Korm. rendelet 22. §-a iktatta be.
+[^145]: A 17/A. § (4) bekezdése a 307/2017. (X. 27.) Korm. rendelet 24. § 15. pontja szerint módosított szöveg.
+[^146]: A 17/A. § (6) bekezdés a) pontja a 235/2016. (VII. 29.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^147]: A 17/A. § (8) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^148]: A 17/A. § (10) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
+[^149]: A 17/A. § (13) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 26. § (4) bekezdése iktatta be, hatályon kívül helyezte a 307/2017. (X. 27.) Korm. rendelet 25. § e) pontja.

@@ -1,6 +1,6 @@
 ## 14. A rendkívüli munkavégzés, az ügyelet és a készenlét köznevelési intézményekben történő elrendelésének szabályai
 
-33. § (1)[^171] Az Mt. 110. § (2) bekezdésében meghatározottakon túl ügyelet és készenlét rendelhető el
+33. § (1)[^176] Az Mt. 110. § (2) bekezdésében meghatározottakon túl ügyelet és készenlét rendelhető el
 
 a) a tanulók éjszakai felügyeletének megszervezéséhez a kollégiumban, vagy
 
@@ -20,4 +20,4 @@ b) a pedagógiai, nevelési programban meghatározott tanulmányi kirándulás v
 
 (8) Az e §-ban meghatározott óradíj egy órára eső összege a pedagógus illetményének a következőkben meghatározott osztószámmal megállapított hányada. Az osztószámot az érintett beosztott pedagógus munkakörére előírt neveléssel-oktatással lekötött munkaidő alsó mértékének 4,33-mal történő szorzata adja.
 
-[^171]: A 33. § (1) bekezdés nyitó szövegrésze a 89/2015. (IV. 9.) Korm. rendelet 23. § j) pontja szerint módosított szöveg.
+[^176]: A 33. § (1) bekezdés nyitó szövegrésze a 89/2015. (IV. 9.) Korm. rendelet 23. § j) pontja szerint módosított szöveg.

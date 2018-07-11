@@ -40,7 +40,7 @@ c) a gyermekek és az ifjúság védelméért felelős miniszter igazolása alap
 
 (4) A (3) bekezdés nem alkalmazható abban az esetben, ha a gyakornok legalább egy alkalommal sikertelen minősítő vizsgát tett.
 
-(4a)[^24] Azt a pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott személyt, aki az (1) bekezdés a)–g) pontjában felsorolt jogviszonyokban rendelkezik két év szakmai gyakorlattal, Pedagógus I. fokozatba kell sorolni.
+(4a)[^24] Azt a pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott személyt, aki az (1) bekezdés a)–g) és i) pontjában felsorolt jogviszonyokban rendelkezik két év szakmai gyakorlattal, Pedagógus I. fokozatba kell sorolni.
 
 (5) Ha a pedagógus-munkakörben foglalkoztatott személy korábbi munkáltatója a besoroláskor szakmai gyakorlatként vette figyelembe a (2) bekezdésben szereplő időt, és a pedagógus-munkakörben foglalkoztatott személy ezt követően nem a Gyvt. hatálya alá tartozó intézményben létesít foglalkoztatási jogviszonyt, a korábban figyelembe vett szakmai gyakorlat időtartama emiatt utóbb nem csökkenthető.
 
@@ -49,4 +49,4 @@ c) a gyermekek és az ifjúság védelméért felelős miniszter igazolása alap
 [^21]: A 6. § (1) bekezdés i) pontját a 324/2016. (X. 27.) Korm. rendelet 2. §-a iktatta be.
 [^22]: A 6. § (2) bekezdés záró szövegrésze a 307/2017. (X. 27.) Korm. rendelet 24. § 4. pontja szerint módosított szöveg.
 [^23]: A 6. § (3a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^24]: A 6. § (4a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^24]: A 6. § (4a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja, a 122/2018. (VII. 10.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.

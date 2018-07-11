@@ -2,9 +2,9 @@
 
 ## 16. Vegyes és átmeneti rendelkezések
 
-35. § (1)[^172] Az óvoda kivételével a nevelési-oktatási intézményekben
+35. § (1)[^177] Az óvoda kivételével a nevelési-oktatási intézményekben
 
-a)[^173] alkalmazott vezetők, valamint a gyakorlati oktatásvezetők kötelező létszámát a 3. melléklet,
+a)[^178] alkalmazott vezetők, valamint a gyakorlati oktatásvezetők kötelező létszámát a 3. melléklet,
 
 b) foglalkoztatott nevelő és oktató munkát közvetlenül segítő alkalmazottak körét és finanszírozott létszámát a 4. melléklet
 
@@ -20,7 +20,7 @@ c) a neveléssel-oktatással lekötött munkaidő alsó határa.
 
 (3) A köznevelési intézmény közalkalmazottjának, munkavállalójának a fizetési kategóriák – a Kjt. előmeneteli és illetményrendszere hatálya alá tartozók esetében a fizetési fokozatok – közötti várakozási idejét egy évvel csökkenteni kell, ha törvénnyel alapított kitüntetést vagy díjat, vagy miniszter által alapított díjat kapott.
 
-(4)[^174] A pedagógus-szakvizsgával egyenértékű a munkakör ellátásához szükséges végzettséghez és szakképzettséghez kapcsolódó szakterületen szerzett tudományos fokozat, vagy 1984. szeptember 1-je után szerzett egyetemi tudományos fokozat (dr.univ.). A pedagógus-szakvizsgával egyenértékű továbbá a klinikai, a pedagógiai és tanácsadó szakpszichológusi, a fogyatékosság típusának megfelelő szakorvosi, a gyermekgyógyász, a gyermek neurológus, a pszichiáter szakorvos és a szociális szakvizsga.
+(4)[^179] A pedagógus-szakvizsgával egyenértékű a munkakör ellátásához szükséges végzettséghez és szakképzettséghez kapcsolódó szakterületen szerzett tudományos fokozat, vagy 1984. szeptember 1-je után szerzett egyetemi tudományos fokozat (dr.univ.). A pedagógus-szakvizsgával egyenértékű továbbá a klinikai, a pedagógiai és tanácsadó szakpszichológusi, a fogyatékosság típusának megfelelő szakorvosi, a gyermekgyógyász, a gyermek neurológus, a pszichiáter szakorvos és a szociális szakvizsga.
 
 (5) Az iskolapszichológus kötelező létszámát az iskola tanulólétszáma alapján kell meghatározni oly módon, hogy 500 tanulónként egy, a teljes munkaidő ötven százalékában foglalkoztatott iskolapszichológust kell alkalmazni.
 
@@ -28,6 +28,6 @@ c) a neveléssel-oktatással lekötött munkaidő alsó határa.
 
 (7) A köznevelési intézményben a közalkalmazotti jogviszony létesítésekor nem kell alkalmazni a Kjt. 20. § (2) bekezdés c) pontját.
 
-[^172]: A 35. § (1) bekezdés nyitó szövegrésze a 99/2014. (III. 25.) Korm. rendelet 13. § h) pontjával megállapított szöveg.
-[^173]: A 35. § (1) bekezdés a) pontja a 235/2016. (VII. 29.) Korm. rendelet 37. § 16. pontja szerint módosított szöveg.
-[^174]: A 35. § (4) bekezdése a 99/2014. (III. 25.) Korm. rendelet 13. § i) pontja, a 268/2014. (XI. 3.) Korm. rendelet 20. § l) pontja szerint módosított szöveg.
+[^177]: A 35. § (1) bekezdés nyitó szövegrésze a 99/2014. (III. 25.) Korm. rendelet 13. § h) pontjával megállapított szöveg.
+[^178]: A 35. § (1) bekezdés a) pontja a 235/2016. (VII. 29.) Korm. rendelet 37. § 16. pontja szerint módosított szöveg.
+[^179]: A 35. § (4) bekezdése a 99/2014. (III. 25.) Korm. rendelet 13. § i) pontja, a 268/2014. (XI. 3.) Korm. rendelet 20. § l) pontja szerint módosított szöveg.

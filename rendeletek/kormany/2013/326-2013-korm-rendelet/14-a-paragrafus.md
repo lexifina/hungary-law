@@ -10,11 +10,11 @@ d) a (3) bekezdésben szereplő eljárás alapján megállapítást nyert, hogy 
 
 e) intézményvezetői feladatokkal összefüggő Mester- vagy Kutatóprogram vállalása esetén a vezetői, magasabb vezetői megbízása megszűnik, és a programja módosítását az ettől számított harminc napon belül nem kezdeményezte,
 
-f)[^110] a pedagógiai-szakmai szolgáltatás nyújtásában, az országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként történő részvételre kötelezett Mesterpedagógust az OH az Nkt. 82. § (9) bekezdése alapján törli az Országos szakértői névjegyzékből, vagy a szaktanácsadói névjegyzékből,
+f)[^113] a pedagógiai-szakmai szolgáltatás nyújtásában, az országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként történő részvételre kötelezett Mesterpedagógust az OH az Nkt. 82. § (9) bekezdése alapján törli az Országos szakértői névjegyzékből, vagy a szaktanácsadói névjegyzékből,
 
-g)[^111] a 17/A. § (11) bekezdésében foglalt körülmény áll fenn, vagy,
+g)[^114] a 17/A. § (11) bekezdésében foglalt körülmény áll fenn, vagy,
 
-h)[^112] Mester- vagy Kutatóprogramja módosításának eljárási díját határidőre nem fizette be.
+h)[^115] Mester- vagy Kutatóprogramja módosításának eljárási díját határidőre nem fizette be.
 
 (2) A Mesterpedagógus vagy a Kutatótanár fokozatot szerzett pedagógust foglalkoztató intézmény vezetője, intézményvezetői megbízással rendelkező pedagógus esetében az intézmény fenntartója – a külső szakmai partner bevonásával – évente a szeptember 1. és október 31. közötti időszakban megvizsgálja a Mesterpedagógus, vagy Kutatótanár fokozatot szerzett pedagógus által az átsorolása, vagy az előző vizsgálat óta eltelt idő alatt a Mester- vagy Kutatóprogramja megvalósítása, továbbá az együttműködési megállapodásban foglaltak teljesítése érdekében végzett tevékenységet. Az intézményvezető, fenntartó az OH-t az ok megjelölésével írásban tájékoztatja arról, ha a Mesterpedagógus vagy a Kutatótanár fokozatba besorolt pedagógus a programban vállalt kötelezettségeinek nem tett eleget. Az intézményvezető, fenntartó a Mesterpedagógus, Kutatótanár fokozatot szerzett pedagógus teljesítményének színvonalát ezzel összefüggésben nem értékelheti.
 
@@ -28,7 +28,7 @@ b) az (1) bekezdés b) pontja esetén a sikertelen minősítési eljárásról k
 
 c) az (1) bekezdés c) pontja esetén az OH elutasító határozatának kiadását követő hónap első napjától,
 
-d)[^113] az (1) bekezdés d) és h) pontja esetén a megállapítást követő év január 1-jétől,
+d)[^116] az (1) bekezdés d) és h) pontja esetén a megállapítást követő év január 1-jétől,
 
 e) az (1) bekezdés e) pontjában meghatározott határidőt követő hónap első napjától,
 
@@ -42,7 +42,7 @@ h) a (3) bekezdésben foglalt értesítést követő hónap első napjától
 
 (5) Ha a pedagógus visszasorolására az (1) bekezdés a)–d) pontja alapján kerül sor, a visszasorolás időpontját követő két éven belül a pedagógus a fokozat elérése érdekében nem jelentkezhet a minősítési eljárásra.
 
-[^110]: A 14/A. § (1) bekezdés f) pontja a 307/2017. (X. 27.) Korm. rendelet 24. § 13. pont 13.1. alpontja szerint módosított szöveg.
-[^111]: A 14/A. § (1) bekezdés g) pontja a 307/2017. (X. 27.) Korm. rendelet 24. § 13. pont 13.2. alpontja szerint módosított szöveg.
-[^112]: A 14/A. § (1) bekezdés h) pontját a 307/2017. (X. 27.) Korm. rendelet 19. §-a iktatta be.
-[^113]: A 14/A. § (4) bekezdés d) pontja a 307/2017. (X. 27.) Korm. rendelet 24. § 13. pont 13.3. alpontja szerint módosított szöveg.
+[^113]: A 14/A. § (1) bekezdés f) pontja a 307/2017. (X. 27.) Korm. rendelet 24. § 13. pont 13.1. alpontja szerint módosított szöveg.
+[^114]: A 14/A. § (1) bekezdés g) pontja a 307/2017. (X. 27.) Korm. rendelet 24. § 13. pont 13.2. alpontja szerint módosított szöveg.
+[^115]: A 14/A. § (1) bekezdés h) pontját a 307/2017. (X. 27.) Korm. rendelet 19. §-a iktatta be.
+[^116]: A 14/A. § (4) bekezdés d) pontja a 307/2017. (X. 27.) Korm. rendelet 24. § 13. pont 13.3. alpontja szerint módosított szöveg.

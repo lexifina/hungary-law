@@ -16,11 +16,16 @@ e) a tanulói csoportok, közösségek alakulásának segítése, fejlesztése, 
 
 f) a pedagógiai folyamatok és a tanulók személyiségfejlődésének folyamatos értékelése, elemzése,
 
-g) kommunikáció és szakmai együttműködés, problémamegoldás, valamint
+g)[^27] a környezeti nevelésben mutatott jártasság, a fenntarthatóság értékrendjének hiteles képviselete és a környezettudatossághoz kapcsolódó attitűdök átadásának módja,
 
-h) elkötelezettség és szakmai felelősségvállalás a szakmai fejlődésért.
+h)[^28] kommunikáció és szakmai együttműködés, problémamegoldás, valamint
 
-(3)[^27] A pedagóguskompetenciák adott munkakörre vonatkozó értelmezését a pedagógiai szakszolgálati intézményben és a pedagógiai-szakmai szolgáltató intézményben pedagógus-munkakörben, pedagógiai szakértő, pedagógiai előadó munkakörben, továbbá a Gyvt. hatálya alá tartozó intézménynél foglalkoztatottakra az oktatásért felelős miniszter (a továbbiakban: miniszter) hagyja jóvá és az Oktatási Hivatal (a továbbiakban: OH) közzéteszi a honlapján. Ezen munkakörök esetében a pedagóguskompetenciák értékelésekor a (2) bekezdésben felsorolt kompetenciák közül csak a munkakör ellátásával összefüggésben értelmezhetőket kell figyelembe venni.
+i)[^29] elkötelezettség és szakmai felelősségvállalás a szakmai fejlődésért.
+
+(3)[^30] A pedagóguskompetenciák adott munkakörre vonatkozó értelmezését a pedagógiai szakszolgálati intézményben és a pedagógiai-szakmai szolgáltató intézményben pedagógus-munkakörben, pedagógiai szakértő, pedagógiai előadó munkakörben, továbbá a Gyvt. hatálya alá tartozó intézménynél foglalkoztatottakra az oktatásért felelős miniszter (a továbbiakban: miniszter) hagyja jóvá és az Oktatási Hivatal (a továbbiakban: OH) közzéteszi a honlapján. Ezen munkakörök esetében a pedagóguskompetenciák értékelésekor a (2) bekezdésben felsorolt kompetenciák közül csak a munkakör ellátásával összefüggésben értelmezhetőket kell figyelembe venni.
 
 [^26]: A 3. alcím (7–9/B. §) a 249/2015. (IX. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^27]: A 7. § (3) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 37. § 3. pontja szerint módosított szöveg.
+[^27]: A 7. § (2) bekezdés g) pontja a 122/2018. (VII. 10.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^28]: A 7. § (2) bekezdés h) pontja a 122/2018. (VII. 10.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^29]: A 7. § (2) bekezdés i) pontját a 122/2018. (VII. 10.) Korm. rendelet 21. §-a iktatta be.
+[^30]: A 7. § (3) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 37. § 3. pontja szerint módosított szöveg.
