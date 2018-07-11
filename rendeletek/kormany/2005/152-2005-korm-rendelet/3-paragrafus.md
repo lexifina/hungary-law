@@ -8,7 +8,7 @@ c) az Út a szakmához ösztöndíj esetében szakközépiskola valamely szakké
 
 (2)[^13]
 
-(3)[^14] Az Út a tudományhoz alprogramban – a 4. § (6) bekezdésében meghatározott kutatócsoport tanuló tagjaként – az a magyar állampolgár vagy külföldi állampolgár vehet részt, aki a Magyarország területén működő valamely köznevelési intézménnyel tanulói jogviszonyban, továbbá – amennyiben a pályázó köznevelési intézmény diákotthon vagy kollégium – a pályázó köznevelési intézménnyel kollégiumi tagsági vagy externátusi jogviszonyban áll, és aki a pályázati időszakban, gimnázium, szakközépiskola vagy szakiskola legalább 10. évfolyamán tanul.
+(3)[^14] Az Út a tudományhoz alprogramban – a 4. § (6) bekezdésében meghatározott kutatócsoport tanuló tagjaként – az a magyar állampolgár vagy külföldi állampolgár vehet részt, aki a Magyarország területén működő valamely köznevelési intézménnyel tanulói jogviszonyban, továbbá – amennyiben a pályázó köznevelési intézmény diákotthon vagy kollégium – a pályázó köznevelési intézménnyel kollégiumi tagsági vagy externátusi jogviszonyban áll, és aki a pályázati időszakban, gimnázium, szakgimnázium vagy szakközépiskola legalább 10. évfolyamán tanul.
 
 (4)[^15] E § alkalmazásában külföldi állampolgár az a magyar állampolgársággal nem rendelkező személy, aki érdekében az (1) bekezdésben és a 6. § (1) bekezdés a) pontjában, meghatározott intézkedéseket a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény alapján Magyarországon tették, illetve aki az ott meghatározott ellátásokban a magyar jogszabályok szerint részesül. A (3) bekezdés alkalmazásában külföldi állampolgár a letelepedett vagy bevándorolt jogállású személy, a magyar hatóságok által menekültként elismert személy, valamint a külön törvény alapján a szabad mozgás és a három hónapot meghaladó tartózkodás jogával rendelkező személy.
 
@@ -24,7 +24,7 @@ b) az Út a szakmához ösztöndíj esetében tanárképzésben vagy tanítói k
 
 [^12]: A 3. § (1) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^13]: A 3. § (2) bekezdését a 222/2012. (VIII. 15.) Korm. rendelet 13. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^14]: A 3. § (3) bekezdése a 157/2009. (VII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 7. § (2) bekezdése, a 222/2012. (VIII. 15.) Korm. rendelet 12. § e) pontja, a 207/2013. (VI. 17.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^14]: A 3. § (3) bekezdése a 157/2009. (VII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 7. § (2) bekezdése, a 222/2012. (VIII. 15.) Korm. rendelet 12. § e) pontja, a 207/2013. (VI. 17.) Korm. rendelet 12. § d) pontja, a 122/2018. (VII. 10.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^15]: A 3. § (4) bekezdése a 38/2007. (III. 7.) Korm. rendelet 2. § (2) bekezdésével megállapított és a 207/2013. (VI. 17.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
 [^16]: A 3. § (5) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^17]: A 3. § (6) bekezdése a 155/2008. (VI. 6.) Korm. rendelet 9. § (2) bekezdésének c) pontja, a 222/2012. (VIII. 15.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
