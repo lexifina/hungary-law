@@ -1,3 +1,3 @@
-23–27. §[^33]
+23–27. §[^38]
 
-[^33]: A 23–27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 23–27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

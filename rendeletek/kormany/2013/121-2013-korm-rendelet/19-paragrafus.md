@@ -1,8 +1,8 @@
-## 18/A. §[^28]
+## 18/A. §[^32]
 
 ## 6. A Hivatal végzettség elismerésével kapcsolatos feladatai
 
-19. §[^29] (1) A Hivatal ekvivalencia- és információs központként
+19. §[^33] (1) A Hivatal ekvivalencia- és információs központként
 
 a) hatósági jogkörében
 
@@ -36,10 +36,10 @@ a) azon szakmák jegyzékét, amelyek esetében az európai szakmai kártya lét
 
 b) az előzetes ellenőrzés alá tartozó szakmák jegyzékét,
 
-c)[^30] az Etv. 28. § (6) bekezdés c) pont cc) alpontjának hatálya alá tartozó képzések felsorolását.
+c)[^34] az Etv. 28. § (6) bekezdés c) pont cc) alpontjának hatálya alá tartozó képzések felsorolását.
 
 (3) A Hivatal a szakmai képesítések elismerésével kapcsolatos feladataihoz kapcsolódóan statisztikai adatokat szolgáltat az Európai Bizottság részére.
 
-[^28]: A 18/A. §-t a 268/2014. (XI. 3.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 210/2015. (VII. 23.) Korm. rendelet 11. §-a.
-[^29]: A 19. § a 198/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 8. §-a alapján a 2016. január 1-jén folyamatban levő ügyekben is alkalmazni kell.
-[^30]: A 19. § (2) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 442. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^32]: A 18/A. §-t a 268/2014. (XI. 3.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 210/2015. (VII. 23.) Korm. rendelet 11. §-a.
+[^33]: A 19. § a 198/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 8. §-a alapján a 2016. január 1-jén folyamatban levő ügyekben is alkalmazni kell.
+[^34]: A 19. § (2) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 442. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
