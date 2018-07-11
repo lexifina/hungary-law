@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére – Medveczky Iván rendkívüli és meghatalmazott nagykövetet – Magyarország mexikóvárosi nagykövetségének a vezetésére, valamint Magyarországnak a Guatemalai Köztársaságban, a Costa Rica-i Köztársaságban, a Hondurasi Köztársaságban, az El Salvadori Köztársaságban és Belizében való képviseletére kapott megbízása érintetlenül hagyása mellett – felmentem Magyarországnak a Panamai Köztársaságban való képviseletére kapott megbízása alól, egyúttal megbízom Magyarországnak a Nicaraguai Köztársaságban való képviseletével.
+
+KEH ügyszám: IV-5/04297-2/2017.
