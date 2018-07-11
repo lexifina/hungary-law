@@ -1,0 +1,1 @@
+## 2. § Hatályát veszti a Nemzeti Kommunikációs Hivatal feladataival, valamint a településkép védelmével összefüggő egyes kormányrendeletek módosításáról szóló 99/2018. (VI. 8.) Korm. rendelet 19. § (3) bekezdése.
