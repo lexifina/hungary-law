@@ -1,3 +1,5 @@
-## 29. § Hatályát veszti az egészségügyi szolgáltatások nyújtása során ionizáló sugárzásnak kitett személyek egészségének védelméről szóló 31/2001. (X. 3.) EüM rendelet.
+## 29. §[^1]
 
 1. melléklet a 21/2018. (VII. 9.) EMMI rendelethez
+
+[^1]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
