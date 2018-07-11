@@ -1,3 +1,3 @@
-4–7. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^208]
+4–7. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^213]
 
-[^208]: A 4–7. mellékletet a 143/2015. (VI. 12.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^213]: A 4–7. mellékletet a 143/2015. (VI. 12.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.

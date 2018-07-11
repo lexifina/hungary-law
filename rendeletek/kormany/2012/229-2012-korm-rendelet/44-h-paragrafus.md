@@ -1,4 +1,4 @@
-## V/C. Fejezet[^176]
+## V/C. Fejezet[^181]
 
 ## A PEDAGÓGIAI SZAKSZOLGÁLATI TEVÉKENYSÉG SORÁN ALKALMAZOTT INTEGRÁLT NYOMON KÖVETŐ RENDSZER MŰKÖDTETÉSE, AZ INFORMÁCIÓS RENDSZER RÉSZÉRE TÖRTÉNŐ ADATSZOLGÁLTATÁS RENDJE
 
@@ -12,4 +12,4 @@
 
 (5) A Hivatal a központi szerverén folyamatosan naplózza az INYR-rel kapcsolatos nyilvántartási, adatrögzítési eseményeket, az adatkezeléssel nem járó adatlekérdezéseket, valamint gondoskodik ezek visszakereshetőségéről.
 
-[^176]: Az V/C. Fejezetet (44/H–44/I. §) a 268/2014. (XI. 3.) Korm. rendelet 2. §-a iktatta be.
+[^181]: Az V/C. Fejezetet (44/H–44/I. §) a 268/2014. (XI. 3.) Korm. rendelet 2. §-a iktatta be.
