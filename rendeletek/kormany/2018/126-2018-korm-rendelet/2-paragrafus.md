@@ -1,0 +1,1 @@
+## 1. § A Kormány az IKARUS Egyedi Autóbusz Gyártó Korlátolt Felelősségű Társaságot (cégjegyzékszám: 01-09-866564, székhely: 1165 Budapest, Újszász utca 45.) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. § (3) bekezdés e) pontja alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
