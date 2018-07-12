@@ -1,3 +1,5 @@
-## 8. § Az R2. 8. § (1) bekezdésében a „továbbképzés indítása előtt” szövegrész helyébe a „továbbképzés minden egyes indítása előtt” szöveg lép.
+## 4–8. §[^2]
 
 ## 3. Az Útravaló Ösztöndíjprogramról szóló 152/2005. (VIII. 2.) Korm. rendelet módosítása
+
+[^2]: A 4–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

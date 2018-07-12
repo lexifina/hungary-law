@@ -1,5 +1,0 @@
-## 1. § Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet (a továbbiakban: R1.) 12. § (6a) és (6b) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(6a) A vizsgára jelentkező a szakközépiskolában az érettségi vizsgára felkészítő évfolyamokat követő érettségi vizsgára való jelentkezéskor nyilatkozik arról, hogy kötelezően választandó vizsgatárgyból kíván-e érettségi vizsgát tenni. Ezt a nyilatkozatát az adott vizsgaidőszakban nem változtathatja meg.
-
-## (6b) A vizsgázó, ha rendes érettségi vizsgáját középiskolai tanulmányainak teljes befejezése után, tanulói jogviszonyon kívül teszi, és iskolai rendszerű nevelésben-oktatásban szerzett, államilag elismert szakképesítéssel rendelkezik, a vizsgára való jelentkezéskor igazolja, hogy rendelkezik az Nkt. 6. § (2a) bekezdése szerinti iskolai rendszerű nevelésben-oktatásban szerzett, államilag elismert szakképesítéssel, és nyilatkozik arról, hogy kötelezően választandó vizsgatárgyból kíván-e érettségi vizsgát tenni. Ezt a nyilatkozatát az adott vizsgaidőszakban nem változtathatja meg.”

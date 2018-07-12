@@ -1,3 +1,0 @@
-## 22. § Az R6. 11/A. § (1b) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1b) A portfóliót feltöltöttnek kell tekinteni, ha az tartalmazza – a 9/B. § (1) bekezdés e) pontja kivételével – a 9/B. § (1) bekezdése szerinti kötelező elemeket. A pályázatot feltöltöttnek kell tekinteni, ha az tartalmazza a 9/B. § (4) bekezdése szerinti kötelező elemeket. Ha az (1) bekezdés alapján sikeresen feltöltött portfólió, pályázat tekintetében hiánypótlás szükséges, a minősítő bizottság elnökének felszólítására a pedagógus azt legkésőbb a portfólióvédést, pályázatvédést megelőző huszadik nap előtt megteheti. Ennek hiányában az OH megállapítja a minősítő vizsga, a minősítési eljárás sikertelenségét.”

@@ -1,13 +1,14 @@
-## 24. § Az R6. 16. §-a a következő (10) bekezdéssel egészül ki:
-
-## „(10) Ha az ágazati pótlékot középfokú végzettséggel nem rendelkező munkavállaló vagy közalkalmazott részére kell fizetni, a középfokú végzettséghez kapcsolódó pótlékalappal számolt pótlékra jogosult.”
+## 21–24. §[^7]
 
 ## 25. § Az R6.
 
-a) 6. § (4a) bekezdésében az „a)–g)” szövegrész helyébe az „a)–g) és i)”szöveg,
+a)[^8]
 
-b)[^2]
+b)[^9]
 
-c) 30. § (1) bekezdés c) pontjában a „gyermek- és ifjúságvédelmi felügyelő,” szövegrész helyébe a „gyermek- és ifjúságvédelmi felügyelő, pedagógiai felügyelő,” szöveg
+c)[^10]
 
-[^2]: A 25. § b) pontja a 27. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^7]: A 21–24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 25. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 25. § b) pontja a 27. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^10]: A 25. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
