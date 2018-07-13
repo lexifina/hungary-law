@@ -8,4 +8,7 @@ b) a telephelyen belüli szállításra,
 
 c)[^1] a hiányzó, a talált, valamint a lefoglalt nukleáris és más radioaktív anyagokkal kapcsolatos bejelentésekről és intézkedésekről, továbbá a nukleáris és más radioaktív anyagokkal kapcsolatos egyéb bejelentést követő intézkedésekről szóló kormányrendelet hatálya alá tartozó szállításokra.
 
+(3)[^2] Az a gazdálkodó szervezet, amely – akár csak részben is – 3,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel végzi díj ellenében a közúti árutovábbítási tevékenységet, a díj ellenében végzett közúti árutovábbítási tevékenységéhez használt minden tehergépjárműve tekintetében e rendeletnek a 3,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel végzett tevékenységre vonatkozó szabályait kell alkalmazni.
+
 [^1]: Az 1. § (2) bekezdés c) pontja az 52/2017. (XII. 22.) NFM rendelet 29. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdését a 4/2018. (VII. 5.) ITM rendelet 9. § (1) bekezdése iktatta be.

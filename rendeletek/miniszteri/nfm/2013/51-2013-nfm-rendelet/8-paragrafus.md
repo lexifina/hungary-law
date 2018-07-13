@@ -1,8 +1,8 @@
-## 7. §[^15] Az OAH által jóváhagyott küldeménydarab-minták alapján gyártott minden csomagolás egyedi sorozatszámát – az elkészültétől számított 30 napon belül – a gyártó köteles bejelenteni az OAH-nak.
+## 7. §[^24] Az OAH által jóváhagyott küldeménydarab-minták alapján gyártott minden csomagolás egyedi sorozatszámát – az elkészültétől számított 30 napon belül – a gyártó köteles bejelenteni az OAH-nak.
 
 8. § (1) Azokban az esetekben, amikor a veszélyes áruk szállításáról szóló jogszabályok a szállítást az útvonal teljes hosszára kiterjedő értesítési kötelezettséghez kötik, a nemzetközi értesítéseket az OAH adja meg.
 
-(2)[^16]
+(2)[^25]
 
-[^15]: A 7. § az 52/2017. (XII. 22.) NFM rendelet 29. § e) pontja szerint módosított szöveg.
-[^16]: A 8. § (2) bekezdését az 52/2017. (XII. 22.) NFM rendelet 30. § e) pontja hatályon kívül helyezte.
+[^24]: A 7. § az 52/2017. (XII. 22.) NFM rendelet 29. § e) pontja szerint módosított szöveg.
+[^25]: A 8. § (2) bekezdését az 52/2017. (XII. 22.) NFM rendelet 30. § e) pontja hatályon kívül helyezte.
