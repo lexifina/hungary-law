@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Kazak Köztársaság Kormánya között a diplomata és szolgálati útlevéllel rendelkező állampolgáraik kölcsönös vízummentességéről szóló Megállapodást (a továbbiakban: Megállapodás) e törvénnyel kihirdeti.

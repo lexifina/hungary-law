@@ -1,0 +1,1 @@
+(A Magyar Köztársaság Kormánya és a Kazak Köztársaság Kormánya között a diplomata és szolgálati útlevéllel rendelkező állampolgáraik kölcsönös vízummentességéről szóló Megállapodás 1996. november 6-án nemzetközi jogilag hatályba lépett, a Megállapodás módosításáról szóló Jegyzőkönyv 2018. március 28-án nemzetközi jogilag hatályba lépett.)

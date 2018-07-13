@@ -1,0 +1,1 @@
+7. § A Megállapodás a Jegyzőkönyvben foglalt módosításokkal egységes szerkezetbe foglalt hiteles szövegének a hatálybalépést követő haladéktalan közzétételéről a külpolitikáért felelős miniszter gondoskodik.

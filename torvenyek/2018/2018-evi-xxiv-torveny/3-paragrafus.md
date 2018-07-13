@@ -1,0 +1,1 @@
+3. § Az Országgyűlés a Magyar Köztársaság Kormánya és a Kazak Köztársaság Kormánya között a diplomata és szolgálati útlevéllel rendelkező állampolgáraik kölcsönös vízummentességéről szóló 1996. október 7-én aláírt megállapodás módosításáról szóló Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
