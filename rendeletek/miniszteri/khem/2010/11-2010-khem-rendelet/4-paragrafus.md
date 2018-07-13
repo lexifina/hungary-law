@@ -20,7 +20,7 @@ g) a gyártó által a sugárforráshoz rendelt gyártási szám;
 
 h) termékazonosító (amennyiben ismert);
 
-i) felhasználási idő (amennyiben ismert);
+i)[^9] felhasználási idő (a felhasználási idő hossza eltérő engedély hiányában a gyártó által meghatározott szolgálati idő);
 
 j) aktív hossz, aktív átmérő, teljes hossz, teljes átmérő (amennyiben ismert);
 
@@ -95,3 +95,5 @@ f) mennyiség, mennyiség egysége;
 g) a dokumentum kiállításának dátuma;
 
 h) a dokumentum elkészítőjének neve és cégszerű aláírása.
+
+[^9]: A 4. § (3) bekezdés i) pontja a 4/2018. (VII. 5.) ITM rendelet 8. § b) pontja szerint módosított szöveg.

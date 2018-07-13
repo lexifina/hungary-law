@@ -30,7 +30,7 @@ n) engedély kibocsátóját.
 
 (2) A tulajdonos és a birtokos a 7. § (2) bekezdés a) pontja szerinti, általa nyilvántartott sugárforrások készletében beálló minden változásról köteles a Hivatalnak 15 napon belül adatot szolgáltatni, a központi nyilvántartás által támogatott elektronikus formában.
 
-(3)[^16]
+(3)[^20]
 
 (4) A 7. § (2) bekezdés a) pontja szerinti sugárforrás átadását rögzítő okiratnak a következőket kell tartalmaznia:
 
@@ -70,4 +70,4 @@ e) a tervezett szállítás időpontját magában foglaló időintervallum.
 
 (7) Az értesítés nem helyettesíti a rendeletben előírt további adatszolgáltatási kötelezettségeket.
 
-[^16]: A 11. § (3) bekezdését az 52/2017. (XII. 22.) NFM rendelet 14. § e) pontja hatályon kívül helyezte.
+[^20]: A 11. § (3) bekezdését az 52/2017. (XII. 22.) NFM rendelet 14. § e) pontja hatályon kívül helyezte.

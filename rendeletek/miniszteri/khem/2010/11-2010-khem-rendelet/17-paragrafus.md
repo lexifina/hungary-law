@@ -1,4 +1,4 @@
-## 15–16. §[^18]
+## 15–16. §[^22]
 
 ## IV. Fejezet
 
@@ -6,11 +6,11 @@
 
 17. § (1) Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
 
-(2)–(3)[^19]
+(2)–(3)[^23]
 
-(4) Ez a rendelet a nagy aktivitású zárt radioaktív sugárforrások és a gazdátlan sugárforrások ellenőrzéséről szóló, 2003. december 22-i 2003/122/Euratom tanácsi irányelv 2. cikk b), g), h), l), m) és n) pontjának, 4. cikkének, 5. cikk (1)–(4) bekezdésének, 6. cikk b) és d) pontjának, 7. cikk (1)–(2) bekezdésének, 13. cikk (1) bekezdésének, 14. cikkének, valamint 16. cikk (1) bekezdésének való megfelelést szolgálja.
+(4)[^24] E rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, 2013. december 5-i 2013/59/Euratom tanácsi irányelv 4. cikk 41. pontjának, valamint a III. mellékletének való megfelelést szolgálja.
 
-Melléklet a 11/2010. (III. 4.) KHEM rendelethez
+Melléklet a 11/2010. (III. 4.) KHEM rendelethez[^25]
 
 Radionuklidok veszélyességi skálájának D aktivitásai
 
@@ -762,13 +762,17 @@ Radionuklidok veszélyességi skálájának D aktivitásai
 
 | Am-241/Be-9 | 6 × 10–2 |
 
+| Am-241/Li-7 | 6×10–2 |
+
 Magyarázatok:
 
 – ∞ Az adott radioaktív anyag aktivitásának D-ben kifejezett értéke (az A/D érték) a radioaktív anyag mennyiségétől függetlenül nulla.
 
 – Amennyiben a radioaktív anyag egynél több radionuklidot tartalmaz, minden egyes radionuklid aktivitása és a hozzá tartozó D aktivitás hányadosaiból képzett összeg adja meg az adott anyag aktivitásának D-ben kifejezett értékét.
 
-– Pu-239/Be-9 és Am-241/Be-9 neutronforrások esetében az aktivitás alatt a Pu-239, illetve Am-241 alfa aktivitása értendő.
+– Pu-239/Be-9 és Am-241/Be-9 és Am-241/Li-7 neutronforrások esetében az aktivitás alatt a Pu-239, illetve Am-241 alfa aktivitása értendő.
 
-[^18]: A 15–16. §-t az 52/2017. (XII. 22.) NFM rendelet 14. § f) pontja hatályon kívül helyezte.
-[^19]: A 17. § (2)–(3) bekezdését 77/2015. (XII. 30.) NFM rendelet 4. § f) pontja hatályon kívül helyezte.
+[^22]: A 15–16. §-t az 52/2017. (XII. 22.) NFM rendelet 14. § f) pontja hatályon kívül helyezte.
+[^23]: A 17. § (2)–(3) bekezdését 77/2015. (XII. 30.) NFM rendelet 4. § f) pontja hatályon kívül helyezte.
+[^24]: A 17. § (4) bekezdése a 4/2018. (VII. 5.) ITM rendelet 6. §-ával megállapított szöveg.
+[^25]: A Melléklet a 4/2018. (VII. 5.) ITM rendelet 7. §-a szerint módosított szöveg.
