@@ -1,10 +1,10 @@
-## 27. §[^35]
+## 27. §[^42]
 
 ## Biztosítéki nyilvántartásba vételi eljárások
 
-28. § (1)–(3)[^36]
+28. § (1)–(3)[^43]
 
-(4)[^37] Biztosítéki szempontból jelentőséggel bíró átalakítások közé tartozik
+(4)[^44] Biztosítéki szempontból jelentőséggel bíró átalakítások közé tartozik
 
 a) a nukleáris anyagok helyi nyilvántartási rendszerének átalakítása;
 
@@ -50,11 +50,11 @@ h) a szállítás megkezdésének és a rendeltetési helyre való megérkezés 
 
 i) a szállításért való felelősség átadásának helyét.
 
-(7)[^38]
+(7)[^45]
 
 (8) A felmentési biztosítéki nyilvántartásba vételre irányuló kérelemben a kérelmezőnek be kell mutatni a nukleáris anyagnak a szervezet felelőssége alól való kikerülés módját, a tevékenység végleges felszámolására tett lépéseket, valamint a nukleáris anyagokkal kapcsolatos dokumentációt 5 évre visszamenőleg.
 
-[^35]: A 27. §-t az 52/2017. (XII. 22.) NFM rendelet 6. § h) pontja hatályon kívül helyezte.
-[^36]: A 28. § (1)–(3) bekezdését az 52/2017. (XII. 22.) NFM rendelet 6. § i) pontja hatályon kívül helyezte.
-[^37]: A 28. § (4) bekezdése a 77/2015. (XII. 30.) NFM rendelet 1. § (7) bekezdésével megállapított szöveg.
-[^38]: A 28. § (7) bekezdését az 52/2017. (XII. 22.) NFM rendelet 6. § i) pontja hatályon kívül helyezte.
+[^42]: A 27. §-t az 52/2017. (XII. 22.) NFM rendelet 6. § h) pontja hatályon kívül helyezte.
+[^43]: A 28. § (1)–(3) bekezdését az 52/2017. (XII. 22.) NFM rendelet 6. § i) pontja hatályon kívül helyezte.
+[^44]: A 28. § (4) bekezdése a 77/2015. (XII. 30.) NFM rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^45]: A 28. § (7) bekezdését az 52/2017. (XII. 22.) NFM rendelet 6. § i) pontja hatályon kívül helyezte.

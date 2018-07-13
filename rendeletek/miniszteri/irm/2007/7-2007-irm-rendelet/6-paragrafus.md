@@ -1,4 +1,4 @@
-6. § (1)[^16]
+6. § (1)[^18]
 
 (2) A nukleáris anyaggal rendelkező szervezet a rendelkezése alá eső nukleáris anyagokkal kapcsolatos tevékenységéről üzemeltetési feljegyzéseket vezet. Az üzemeltetési feljegyzéseknek különösen az alábbiakra kell kiterjedniük:
 
@@ -14,7 +14,7 @@ e) a behatárolással és megfigyeléssel kapcsolatos eszközök – különöse
 
 f) a 7. § (2) bekezdése alá tartozó nukleáris anyaggal rendelkező szervezetek kivételével, az aktuális naptári évre vonatkozó tervezett üzemeltetési program.
 
-(3)[^17]
+(3)[^19]
 
 (4) A nyilvántartásokba és az üzemeltetési feljegyzésbe bevezetendő adatok meghatározására szolgáló eljárásokat és méréseket a hatályban lévő magyar, valamint az elfogadott nemzetközi szabványok, a mérőeszközökre vonatkozó mérésügyi jogszabályok, ezek hiányában a tudomány és technika legkorszerűbb eredményeinek figyelembevételével kell meghatározni.
 
@@ -26,5 +26,5 @@ f) a 7. § (2) bekezdése alá tartozó nukleáris anyaggal rendelkező szerveze
 
 (8) E rendelet vonatkozásában a Magyar Honvédség egyetlen helyi nyilvántartási egységet alkot.
 
-[^16]: A 6. § (1) bekezdését az 52/2017. (XII. 22.) NFM rendelet 6. § c) pontja hatályon kívül helyezte.
-[^17]: A 6. § (3) bekezdését az 52/2017. (XII. 22.) NFM rendelet 6. § c) pontja hatályon kívül helyezte.
+[^18]: A 6. § (1) bekezdését az 52/2017. (XII. 22.) NFM rendelet 6. § c) pontja hatályon kívül helyezte.
+[^19]: A 6. § (3) bekezdését az 52/2017. (XII. 22.) NFM rendelet 6. § c) pontja hatályon kívül helyezte.

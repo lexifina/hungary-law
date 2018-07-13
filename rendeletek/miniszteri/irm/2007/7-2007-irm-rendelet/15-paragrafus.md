@@ -1,12 +1,12 @@
-15. § (1)[^24] Új létesítmények esetén az alapvető műszaki jellemzőket a lehető legkorábban:
+15. § (1)[^28] Új létesítmények esetén az alapvető műszaki jellemzőket a lehető legkorábban:
 
-a)[^25] az építésről szóló döntés meghozatalakor vagy az építéshez szükséges felhatalmazás megadásakor, attól függően, hogy melyik történik előbb, illetve hatásvizsgálatköteles tevékenység esetén a környezetvédelmi engedély véglegessé válásakor;
+a)[^29] az építésről szóló döntés meghozatalakor vagy az építéshez szükséges felhatalmazás megadásakor, attól függően, hogy melyik történik előbb, illetve hatásvizsgálatköteles tevékenység esetén a környezetvédelmi engedély véglegessé válásakor;
 
-b) a létesítési engedély kérelem benyújtásakor;
+b)[^30] a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló kormányrendelet szerinti létesítési engedély kérelem benyújtásakor;
 
-c) az építési engedély kérelem benyújtásakor;
+c)[^31]
 
-d) az üzembe helyezési engedély kérelem benyújtásakor;
+d)[^32] a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló kormányrendelet szerinti üzembe helyezési engedély kérelem benyújtásakor;
 
 e) az első biztosítéki nyilvántartásba vételre irányuló kérelem benyújtásakor;
 
@@ -14,11 +14,14 @@ f) az átalakítási biztosítéki nyilvántartásba vételre irányuló kérele
 
 ## kell megadni.
 
-(1a)[^26] Az alapvető műszaki jellemzőkben, illetve az első biztosítéki nyilvántartási kérelemben megadott adatokban bekövetkezett változásokat az (1) bekezdés f) pontjában foglalt kérelem benyújtásakor kell megadni.
+(1a)[^33] Az alapvető műszaki jellemzőkben, illetve az első biztosítéki nyilvántartási kérelemben megadott adatokban bekövetkezett változásokat az (1) bekezdés f) pontjában foglalt kérelem benyújtásakor kell megadni.
 
-(2)[^27] A nukleáris anyaggal rendelkező szervezet adatot szolgáltat a nukleáris és radioaktív anyagok hatósága részére a tevékenységet szolgáló létesítményen kívüli olyan új helyszínekre vonatkozóan, ahova nukleáris anyag kerül szállításra. Az adatokat lehetőség szerint mielőbb, de legalább 7 hónappal az első nukleáris anyagnak a helyszínre érkezése előtt meg kell küldeni a nukleáris és radioaktív anyagok hatósága részére. A létesítményen kívüli helyszínekről korábban közölt adatok változásáról 15 napon belül információt kell szolgáltatni.
+(2)[^34]
 
-[^24]: A 15. § (1) bekezdése a 77/2015. (XII. 30.) NFM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^25]: A 15. § (1) bekezdés a) pontja az 52/2017. (XII. 22.) NFM rendelet 5. § a) pontja szerint módosított szöveg.
-[^26]: A 15. § (1a) bekezdését a 77/2015. (XII. 30.) NFM rendelet 1. § (5) bekezdése iktatta be.
-[^27]: A 15. § (2) bekezdése a 40/2010. (XII. 31.) NFM rendelet 1. §-a szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^28]: A 15. § (1) bekezdése a 77/2015. (XII. 30.) NFM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^29]: A 15. § (1) bekezdés a) pontja az 52/2017. (XII. 22.) NFM rendelet 5. § a) pontja szerint módosított szöveg.
+[^30]: A 15. § (1) bekezdés b) pontja a 4/2018.( VII. 5.) ITM rendelet 2. § d) pontja szerint módosított szöveg.
+[^31]: A 15. § (1) bekezdés c) pontját a 4/2018.( VII. 5.) ITM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^32]: A 15. § (1) bekezdés d) pontja a 4/2018.( VII. 5.) ITM rendelet 2. § e) pontja szerint módosított szöveg.
+[^33]: A 15. § (1a) bekezdését a 77/2015. (XII. 30.) NFM rendelet 1. § (5) bekezdése iktatta be.
+[^34]: A 15. § (2) bekezdését a 4/2018.( VII. 5.) ITM rendelet 3. § b) pontja hatályon kívül helyezte.

@@ -82,7 +82,7 @@ d) minden olyan érc, amely átlagos koncentrációban olyan anyagot tartalmaz, 
 
 19. Környezetbe eltávolított hulladék: olyan nukleáris hulladék, amelyet egy tervezett eltávolítás eredményeként véglegesen távolítottak el a környezetbe.
 
-20.[^3] Nukleáris és radioaktív anyagok hatósága: az Országos Atomenergia Hivatal.
+20.[^4] Nukleáris és radioaktív anyagok hatósága: az Országos Atomenergia Hivatal.
 
 21. Nukleáris tevékenység: e rendelet hatálya alá tartozó nukleáris anyag birtoklása, előállítása, termelése, tárolása, felhasználása, átalakítása, belföldi forgalmazása, exportja, importja, átmeneti, valamint végleges elhelyezése.
 
@@ -106,7 +106,7 @@ g) közepes vagy nagy aktivitású, plutóniumot, nagydúsítású uránt vagy U
 
 23. Stratégiai pont: a létesítményi adatok vizsgálata során kiválasztott hely, ahol normál üzemi feltételek mellett és az összes stratégiai pontból származó információkkal együtt a biztosítéki intézkedésekhez szükséges és elegendő információk adottak és ellenőrzöttek; stratégiai pont lehet bármely hely, ahol az anyagmérleg-nyilvántartásra vonatkozó kulcsfontosságú méréseket végzik, és ahol a területi körülhatárolással kapcsolatos és megfigyelési intézkedéseket végrehajtják.
 
-24.[^4] Telephely: az a terület, amelyet az Európai Atomenergia-közösség (a továbbiakban: a Közösség) és Magyarország meghatározott
+24.[^5] Telephely: az a terület, amelyet az Európai Atomenergia-közösség (a továbbiakban: a Közösség) és Magyarország meghatározott
 
 a) egy létesítmény, beleértve a leállított létesítményeket is vonatkozó létesítményi leírásában;
 
@@ -116,5 +116,8 @@ c) a telephely fogalmába beletartozik minden olyan rendszer is, amely együtt v
 
 25. Telephelyi képviselő: az Európai Unió Bizottságának az Euratom biztosítéki rendelkezéseinek alkalmazásáról szóló, 2005. február 8-i 302/2005/Euratom bizottsági rendelet (a továbbiakban: Euratom rendelet) 3. cikk (2) bekezdésében meghatározott adatszolgáltatásra a nukleáris és radioaktív anyagok hatósága által felelősnek kijelölt személy, vállalkozás vagy szervezet.
 
-[^3]: A 2. § 20. pontja a 46/2009. (IX. 22.) KHEM rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^4]: A 2. § 24. pont nyitó szövegrésze a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja szerint módosított szöveg.
+26.[^6] Leltárkülönbözet: a könyv szerinti készlet és a tényleges leltárkészlet közötti különbség.
+
+[^4]: A 2. § 20. pontja a 46/2009. (IX. 22.) KHEM rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: A 2. § 24. pont nyitó szövegrésze a 91/2011. (XII. 30.) NFM rendelet 56. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § 26. pontját a 4/2018.( VII. 5.) ITM rendelet 1. §-a iktatta be.
