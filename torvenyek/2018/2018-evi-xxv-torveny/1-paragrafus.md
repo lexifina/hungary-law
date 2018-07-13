@@ -1,1 +1,1 @@
-1. § Az Országgyűlés az egyrészről az Európai Unió és tagállamai, és másrészről Mongólia közötti partnerségi és együttműködési keretmegállapodáshoz, a Horvát Köztársaság Európai Unióhoz történő csatlakozásának figyelembevétele céljából készült jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
+1. §
