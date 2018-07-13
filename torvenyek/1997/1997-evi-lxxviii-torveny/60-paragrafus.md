@@ -24,9 +24,9 @@ E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybal�
 
 (7b) A Városligeti építési szabályzat hatálybalépését követően a 14/C. §-ban meghatározott területekre vonatkozóan a Budapest Főváros XIV. kerület Zugló Önkormányzata által elfogadott településrendezési eszközöket nem kell alkalmazni.
 
-(8) A településrendezési eszközök 2013. január 1-je és 2018. december 31-e közötti készítésére és módosítására a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet átmeneti rendelkezéseit kell alkalmazni.
+(8) A településrendezési eszközök 2013. január 1-je és 2019. december 31-e közötti készítésére és módosítására a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet átmeneti rendelkezéseit kell alkalmazni.
 
-(9) 2018. december 31-ét követően a településrendezési eszköz készítése és módosítása során nem alkalmazhatók
+(9) 2019. december 31-ét követően a településrendezési eszköz készítése és módosítása során nem alkalmazhatók
 
 a) e törvény 2012. december 31-én, és
 

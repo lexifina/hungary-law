@@ -87,3 +87,5 @@
 38. Duna-parti építési szabályzat: a Duna főmedrével közvetlenül határos telkek és a Margitsziget területének építési rendjét és rendeltetését a helyi sajátosságoknak megfelelően megállapító és biztosító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket tartalmaz.
 
 39. Városligeti építési szabályzat: a Városliget megújításáról és fejlesztéséről szóló törvény hatálya alá tartozó terület építési rendjét és rendeltetését a helyi sajátosságoknak megfelelően megállapító és biztosító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket tartalmaz.
+
+40. Toronyház: olyan épület, amelynek a terepcsatlakozásához, lejtős terepen a lejtőoldali legalacsonyabb terepcsatlakozásához mért legmagasabb pontja – beleértve minden építményrészt, a kupolát, saroktornyot, tetőfelépítményt, az épület tetőzetén elhelyezett antennát, kéményt, szellőzőt, egyéb tartozékot és műszaki berendezést – a 90 métert meghaladja.
