@@ -1,3 +1,0 @@
-15. § (1) A földrészletek határvonalának helyszíni ellenőrzése során a rendelkezésre álló korábbi mérési adatokat és az állami ingatlan-nyilvántartási térképi adatbázis adataiból számítható méreteket a helyszíni ellenőrző mérések eredményeivel össze kell hasonlítani.
-
-(2) Olyan vonalas jellegű földrészletek (utak, csatornák, vízfolyások, vasutak, egyéb vonalas létesítmények) esetében, amelyek hosszúsága a 250 métert meghaladja, valamint a 10 hektár területet meghaladó földrészletek esetében, ha a változással érintett terület nem haladja meg az összterület 25%-át, akkor a földrészletek határvonalainak azonosítását csak a változással érintett területrészre kell elvégezni.

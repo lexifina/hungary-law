@@ -1,1 +1,0 @@
-## 62. § Azokat az eljárásokat, amelyekben az ingatlan-nyilvántartási célú földmérési és térképészeti munkához szükséges állami alapadatok szolgáltatása a rendelet hatálybalépése előtt már megtörtént, az adatszolgáltatás időpontjában hatályos rendelkezések szerint kell befejezni.
