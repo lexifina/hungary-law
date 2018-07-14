@@ -1,0 +1,3 @@
+15. § (1) A földrészletek határvonalának helyszíni ellenőrzése során a rendelkezésre álló korábbi mérési adatokat és az állami ingatlan-nyilvántartási térképi adatbázis adataiból számítható méreteket a helyszíni ellenőrző mérések eredményeivel össze kell hasonlítani. A helyszíni ellenőrző méréseket a változással érintett vagy a kitűzendő földrészlettel szomszédos földrészletek vonatkozásában is el kell végezni.
+
+(2) Olyan vonalas jellegű földrészletek esetében, amelyek hosszúsága a 250 métert, illetve olyan földrészletek esetében, amelyek területe a 10 hektárt meghaladja, és a változással érintett területrész nem éri el az összterület 25%-át, a földrészletek határvonalainak azonosítását csak a változással érintett területrészre kell elvégezni.

@@ -1,0 +1,3 @@
+36. § (1) Az ingatlan-nyilvántartásba már korábban bejegyzett EÖI-ben történő időközi és építésiengedély-köteles változás, átalakítás átvezetéséhez, valamint az ingatlan-nyilvántartásba bejegyezhető jogok és jogilag jelentős tények ábrázolásához az Fttv. 23. § (1) bekezdés e) pontjában nevesített változási vázrajzot kell készíttetni.
+
+(2) Az (1) bekezdés szerinti változás esetén az alaprajzot csak a változással érintett teljes tulajdonrészek, EÖI-k vonatkozásában kell digitálisan és papír alapon elkészíteni úgy, hogy az adott épületszinten történő beazonosíthatósága (lakásszám, egyedi azonosító) egyértelmű legyen.

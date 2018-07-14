@@ -1,0 +1,9 @@
+## 12. Változási vázrajz a művelési ág változásához
+
+30. § (1) Ha a változási vázrajz művelésiág-változás miatt készül, akkor a földminősítési mintatér elhelyezkedését, a termőföld művelési ágát és minőségét – a minőségi osztályt és a kataszteri tiszta jövedelmet – a földminősítési eljárás eredményének megfelelően kell a vázrajzon feltüntetni. A vázrajzot a 19. melléklet szerinti tartalommal, a honlapon közzétett minta szerinti formában kell elkészíteni.
+
+(2) Ha a változási vázrajz termőföldet érint, akkor a járási hivatal a földminősítési szempontú vizsgálatot követően a következő földminősítési záradékkal látja el a változási vázrajzot: „A művelési ág és a minőségi osztály megjelölése és ábrázolása, a kataszteri tiszta jövedelem számítása helyes, az adatok a földminősítési eljárás eredményének megfelelően kerültek feltüntetésre.” Ez a záradék a területszámításra és a helyrajzi számozásra vonatkozó földmérési záradékkal együtt hatályos.
+
+(3) Ha a változási vázrajz olyan termőföldet érint, amelyen földminősítési mintatér is található, akkor a (2) bekezdésben foglaltak alkalmazása mellett a vizsgálatot követően a járási hivatal a következő földminősítési záradékkal látja el a változási vázrajzot: „A művelési ág és a minőségi osztály megjelölése és ábrázolása, a kataszteri tiszta jövedelem számítása, valamint a földminősítési mintaterek feltüntetése helyes, az adatok a földminősítési eljárás eredményének megfelelően kerültek feltüntetésre.”
+
+(4) Ha a művelésiág-változás a földrészlet vagy adott alrészlet teljes területét érinti, akkor az Inytv. 28. § (2) bekezdésében foglaltak szerint kell eljárni. Az így keletkezett alrészlet nem lehet azonos a szomszédos alrészlet művelési ágával. Az így kialakult, azonos művelési ágba tartozó alrészleteket az ingatlan-nyilvántartás szabályai szerint össze kell vonni, amelyről változási vázrajzot kell készíteni.

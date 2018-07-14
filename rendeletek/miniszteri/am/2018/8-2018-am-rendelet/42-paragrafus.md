@@ -1,0 +1,3 @@
+42. § (1) Az Fttv. 14. § (8) bekezdése esetén közös megegyezéssel történő kitűzés állami ingatlan-nyilvántartási térképi adatbázisban történő átvezetéséhez a vázrajzot a következő záradékszöveggel kell ellátni: „A kitűzés jelenlétünkben megtörtént, a kitűzött határpontokat kölcsönösen elfogadjuk, a térképi határvonal és a nyilvántartott terület módosításának átvezetéséhez hozzájárulunk.” A vázrajzot a kitűzéssel érintett ingatlanok tulajdonosainak alá kell írniuk.
+
+(2) Az (1) bekezdés szerint készült kitűzési vázrajzot a 26. melléklet szerinti tartalommal, a honlapon közzétett minta szerinti formában kell elkészíteni. Szükség esetén az 5. és 6. melléklet szerinti területkimutatás is része a műszaki tartalomnak.
