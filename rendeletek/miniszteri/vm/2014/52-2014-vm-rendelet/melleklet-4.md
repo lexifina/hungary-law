@@ -28,6 +28,6 @@
 
 | Az igazolvány a kiállításától számított 10 évig hatályos. |
 
-4. melléklet az 52/2014. (IV. 29.) VM rendelethez[^39]
+4. melléklet az 52/2014. (IV. 29.) VM rendelethez[^40]
 
-[^39]: A 4. melléklet a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^40]: A 4. melléklet a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés i) pontja szerint módosított szöveg.

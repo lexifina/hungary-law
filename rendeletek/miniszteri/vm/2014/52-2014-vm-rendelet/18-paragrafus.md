@@ -4,7 +4,10 @@
 
 (3)[^34] A kormányhivatal a szakfelügyeleti tevékenységéről készített éves beszámoló jelentését a tárgyévet követő év március 10-ig megküldi a földmérési és térinformatikai államigazgatási szerv részére.
 
-(4)[^35] A földmérési és térinformatikai államigazgatási szerv a szakfelügyeleti tevékenységgel kapcsolatos összesítő beszámolót a tárgyévet követő év április 1-jéig megküldi a miniszter által vezetett minisztérium részére.
+(3a)[^35] A földmérési és térinformatikai államigazgatási szerv ellenőrzi a kormányhivatalok földmérési szakfelügyeleti tevékenységét.
+
+(4)[^36] A földmérési és térinformatikai államigazgatási szerv a szakfelügyeleti tevékenységgel kapcsolatos összesítő beszámolót a tárgyévet követő év április 1-jéig megküldi a miniszter által vezetett minisztérium részére.
 
 [^34]: A 18. § (3) bekezdése a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés f) pontja, a 42/2017. (VIII. 17.) FM rendelet 210. § c) pontja szerint módosított szöveg.
-[^35]: A 18. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 210. § i) pontja szerint módosított szöveg.
+[^35]: A 18. § (3a) bekezdését a 8/2018. (VI. 29.) AM rendelet 71. §-a iktatta be. Alkalmazására lásd e módosító rendelet 67. §-át.
+[^36]: A 18. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 210. § i) pontja szerint módosított szöveg.

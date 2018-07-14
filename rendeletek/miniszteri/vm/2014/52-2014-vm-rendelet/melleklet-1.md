@@ -1,5 +1,5 @@
-## 23. §[^37]
+## 23. §[^38]
 
 1. melléklet az 52/2014. (IV. 29.) VM rendelethez
 
-[^37]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
