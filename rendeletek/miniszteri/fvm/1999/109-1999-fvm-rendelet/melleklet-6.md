@@ -16,11 +16,11 @@
 
 ## 1.8. mellékletek megjelölése;
 
-## 1.9.[^395] díjmentességi körök (tárgyi díjmentes eljárások) megjelölése jogszabályi hivatkozással;
+## 1.9.[^400] díjmentességi körök (tárgyi díjmentes eljárások) megjelölése jogszabályi hivatkozással;
 
-## 1.10.[^396] a kérelem keltének helye és ideje;
+## 1.10.[^401] a kérelem keltének helye és ideje;
 
-## 1.11.[^397] az igénylő aláírása, és – amennyiben annak használatára jogszabály alapján köteles – bélyegzőjének lenyomata.
+## 1.11.[^402] az igénylő aláírása, és – amennyiben annak használatára jogszabály alapján köteles – bélyegzőjének lenyomata.
 
 ## 2. A TakarNet szolgáltatások igénybevétele iránti kérelem jogi személy vagy jogi személyiség nélküli egyéb szervezet kérelmező esetén az alábbi adatokat tartalmazza:
 
@@ -38,13 +38,13 @@
 
 ## 2.7. mellékletek megjelölése;
 
-## 2.8.[^398] díjmentességi körök (tárgyi díjmentes eljárások) megjelölése jogszabályi hivatkozással;
+## 2.8.[^403] díjmentességi körök (tárgyi díjmentes eljárások) megjelölése jogszabályi hivatkozással;
 
-## 2.9.[^399] a kérelem keltének helye és ideje;
+## 2.9.[^404] a kérelem keltének helye és ideje;
 
-## 2.10.[^400] az igénylő szabályszerű aláírása és bélyegzőjének lenyomata.
+## 2.10.[^405] az igénylő szabályszerű aláírása és bélyegzőjének lenyomata.
 
-6. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^401]
+6. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^406]
 
 1. A tv. alapján elektronikus úton benyújtható kérelem természetes személy kérelmező esetén az alábbi adatokat tartalmazza:
 
@@ -52,7 +52,7 @@
 
 1.2. a kérelem tárgyának megjelölése;
 
-1.3.[^402] a kérelemhez kapcsolódó, korábban a járási hivatalhoz benyújtott kérelmek, beadványok iktatószámának megjelölése;
+1.3.[^407] a kérelemhez kapcsolódó, korábban a járási hivatalhoz benyújtott kérelmek, beadványok iktatószámának megjelölése;
 
 1.4. a kérelem keltének helye és ideje.
 
@@ -64,16 +64,16 @@
 
 2.3. a kérelem tárgyának megjelölése;
 
-2.4.[^403] a kérelemhez kapcsolódó, korábban a járási hivatalhoz benyújtott kérelmek, beadványok iktatószámának megjelölése;
+2.4.[^408] a kérelemhez kapcsolódó, korábban a járási hivatalhoz benyújtott kérelmek, beadványok iktatószámának megjelölése;
 
 2.5. a kérelem keltének helye és ideje.
 
-[^395]: Az 5. számú melléklet 1.9. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^396]: Az 5. számú melléklet 1.10. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^397]: Az 5. számú melléklet 1.11. pontját a 148/2012. (XII. 28.) VM rendelet 21. § (1) bekezdése iktatta be.
-[^398]: Az 5. számú melléklet 2.8. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^399]: Az 5. számú melléklet 2.9. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^400]: Az 5. számú melléklet 2.10. pontját a 148/2012. (XII. 28.) VM rendelet 21. § (2) bekezdése iktatta be.
-[^401]: A 6. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 6. számú melléklete iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 91. §-ával megállapított szöveg.
-[^402]: A 6. számú melléklet 1.3. pontja a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 10. pontja szerint módosított szöveg.
-[^403]: A 6. számú melléklet 2.4. pontja a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 10. pontja szerint módosított szöveg.
+[^400]: Az 5. számú melléklet 1.9. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^401]: Az 5. számú melléklet 1.10. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^402]: Az 5. számú melléklet 1.11. pontját a 148/2012. (XII. 28.) VM rendelet 21. § (1) bekezdése iktatta be.
+[^403]: Az 5. számú melléklet 2.8. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^404]: Az 5. számú melléklet 2.9. pontja a 148/2012. (XII. 28.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^405]: Az 5. számú melléklet 2.10. pontját a 148/2012. (XII. 28.) VM rendelet 21. § (2) bekezdése iktatta be.
+[^406]: A 6. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 6. számú melléklete iktatta be, szövege a 48/2010. (IV. 27.) FVM rendelet 91. §-ával megállapított szöveg.
+[^407]: A 6. számú melléklet 1.3. pontja a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 10. pontja szerint módosított szöveg.
+[^408]: A 6. számú melléklet 2.4. pontja a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 10. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-112/C. §[^319] (1)[^320] Az ingatlanügyi hatóság az ingatlan-nyilvántartás adatbázisából – egyedi megállapodás alapján – adatfeldolgozási tevékenységet igénylő esetekben
+112/C. §[^323] (1)[^324] Az ingatlanügyi hatóság az ingatlan-nyilvántartás adatbázisából – egyedi megállapodás alapján – adatfeldolgozási tevékenységet igénylő esetekben
 
 a) országos statisztikai célú adatgyűjtéshez,
 
@@ -32,12 +32,12 @@ e) a költségtérítés mértékét, illetve a kedvezményes költségtéríté
 
 f) az igénylő nyilatkozatát, miszerint a kapott adatokat csak a törvényben vagy kormányrendeletben meghatározott feladatai ellátásához használja fel.
 
-(6)[^321] A számítógépes adatbázisból lekérdezés útján történő részadat-szolgáltatás során a megkeresőnek átadott elektronikus dokumentumért fizetendő költségtérítést úgy kell megállapítani, hogy az egyedi megállapodásban a nem hiteles tulajdoni lap szolgáltatásának díjáról, valamint annak a földmérési és térinformatikai államigazgatási szerv és a kormányhivatal közötti megosztásáról szóló jogszabályokban meghatározott díjat és díjmegosztást, továbbá az ingatlanügyi hatóságnál az adatok leválogatásával és továbbításával kapcsolatban felmerülő költséget is figyelembe kell venni.
+(6)[^325] A számítógépes adatbázisból lekérdezés útján történő részadat-szolgáltatás során a megkeresőnek átadott elektronikus dokumentumért fizetendő költségtérítést úgy kell megállapítani, hogy az egyedi megállapodásban a nem hiteles tulajdoni lap szolgáltatásának díjáról, valamint annak a földmérési és térinformatikai államigazgatási szerv és a kormányhivatal közötti megosztásáról szóló jogszabályokban meghatározott díjat és díjmegosztást, továbbá az ingatlanügyi hatóságnál az adatok leválogatásával és továbbításával kapcsolatban felmerülő költséget is figyelembe kell venni.
 
 (7) A (6) bekezdés szerinti elektronikus dokumentum szolgáltatásának teljes költsége – a (8) bekezdésben foglalt esetet kivéve – a megkeresőt terheli.
 
 (8) Az a megkereső, akinek részére a nem hiteles tulajdoni lap szolgáltatás esetére törvény díjmentességet biztosít, helyrajzi számonként évente egy alkalommal – a kizárólag az adatok leválogatásával és továbbításával kapcsolatban felmerülő költséget tartalmazó – kedvezményes költségtérítés fejében jogosult részadat-szolgáltatásra. E kedvezmény akkor vehető igénybe, ha a megkereső a megkeresésben megjelöli a nem hiteles tulajdoni lap szolgáltatás esetére díjmentességet biztosító törvényi rendelkezést.
 
-[^319]: A 112/C. §-t a 67/2015. (X. 30.) FM rendelet 6. §-a iktatta be.
-[^320]: A 112/C. § (1) bekezdés záró szövegrésze a 42/2017. (VIII. 17.) FM rendelet 22. § b) pontja szerint módosított szöveg.
-[^321]: A 112/C. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 22. § b) pontja szerint módosított szöveg.
+[^323]: A 112/C. §-t a 67/2015. (X. 30.) FM rendelet 6. §-a iktatta be.
+[^324]: A 112/C. § (1) bekezdés záró szövegrésze a 42/2017. (VIII. 17.) FM rendelet 22. § b) pontja szerint módosított szöveg.
+[^325]: A 112/C. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 22. § b) pontja szerint módosított szöveg.
