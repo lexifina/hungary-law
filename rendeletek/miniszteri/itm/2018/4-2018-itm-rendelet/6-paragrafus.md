@@ -1,1 +1,0 @@
-## „(3) Az (1) bekezdésben nem szabályozott fogalmakat az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 2. §-a, az Svr. 4. §-a, valamint a radioaktív hulladékok és a kiégett fűtőelemek országhatáron át történő szállításának engedélyezéséről szóló 34/2009. (II. 20.) Korm. rendelet 2. § 1. és 4. pontja szerint kell értelmezni.”
