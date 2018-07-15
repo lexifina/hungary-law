@@ -42,10 +42,12 @@ b) megállapítja a rendszerelem-fejlesztés OHKT-ben foglalt előírásoknak va
 
 (13) Ha a Koordináló szerv a (11) bekezdés b) pontja szerinti meg nem felelőségre vonatkozó értesítést küld és az ellátásért felelős a fejlesztést ennek ellenére megvalósítja, a fejlesztéssel érintett rendszerelem a hulladékgazdálkodási közszolgáltatásba nem vonható be.
 
-(14) Ha az ellátásért felelős a Koordináló szerv (11) bekezdés a) pontja szerinti megfelelőséget megállapító értesítésének hiányában valósít meg rendszerelem-fejlesztést és azt vagy a (13) bekezdés szerinti rendszerelemet a hulladékgazdálkodási közszolgáltatásba bevonja, az ezen rendszerelemmel kapcsolatos költséget, kiadást, díjat az ellátásért felelős maga köteles kifizetni az üzemeltető szervezet, a fejlesztést hasznosító részére.
+(14)[^3] Ha az ellátásért felelős a Koordináló szerv (11) bekezdés a) pontja szerinti megfelelőséget megállapító értesítésének hiányában valósít meg rendszerelem-fejlesztést és azt vagy a (13) bekezdés szerinti rendszerelemet a hulladékgazdálkodási közszolgáltatásba bevonja, az ezen rendszerelemmel kapcsolatos költséget, kiadást, díjat az ellátásért felelős maga köteles viselni, kifizetni az üzemeltető szervezet, a fejlesztést hasznosító részére.
 
 (15) A közszolgáltató által a (14) bekezdésben foglaltak szerinti rendszerelem üzemeltetése, használata a közszolgáltató megfelelőségi véleményének visszavonását eredményezi.
 
 (16) Az ellátásért felelős a Koordináló szerv (11) bekezdés a) pontja szerinti megfelelőséget megállapító értesítésének hiányában megvalósított rendszerelem-fejlesztése vagyonkezelésbe vételét a Koordináló szerv köteles megtagadni, valamint a már vagyonkezelésbe vett rendszerelem vagyonkezelését azonnali hatállyal megszüntetni.
 
 (17) Az (1)–(16) bekezdések irányadóak arra az esetre is, ha a Koordináló szerv által véleményezett fejlesztéssel kapcsolatos módosítási igény merül fel, ebben az esetben a kérelem benyújtására a módosítási igény felmerülésének az időpontja az irányadó.
+
+[^3]: A 6. § (14) bekezdése a 105/2018. (VI. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

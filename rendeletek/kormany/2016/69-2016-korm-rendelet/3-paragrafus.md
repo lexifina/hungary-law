@@ -6,7 +6,7 @@
 
 a) előkészíti az Országos Hulladékgazdálkodási Közszolgáltatási Tervet (a továbbiakban: OHKT) és nyomon követi az abban foglaltak végrehajtását,
 
-b) javaslatot tesz a közszolgáltatási díj megállapításáért felelős miniszternek (a továbbiakban: miniszter) a szolgáltatási díj, a díjalkalmazási feltételek, a díjmegfizetés rendjének, a közszolgáltatásidíj-felosztás elvének meghatározására vonatkozóan,
+b)[^2] javaslatot tesz a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszternek (a továbbiakban: miniszter) a szolgáltatási díj, a díjalkalmazási feltételek, a díjmegfizetés rendjének, a közszolgáltatásidíj-felosztás elvének meghatározására vonatkozóan,
 
 c) a honlapján közzéteszi azokat az információkat, amelyek nyilvánosságra hozatalát jogszabály elrendeli, valamint amelyeket a feladatellátás érdekében szükségesnek tart,
 
@@ -17,3 +17,5 @@ e) a feladatai ellátásához a személyi adat- és lakcímnyilvántartásból i
 f) a Ht. 32/A. § (3) bekezdés szerinti javaslatát az OHKT elvei és követelményei alapján teszi meg, és
 
 g) ellátja mindazt a feladatot, amelyet jogszabály a feladatkörébe utal.
+
+[^2]: A 3. § (2) bekezdés b) pontja a 105/2018. (VI. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
