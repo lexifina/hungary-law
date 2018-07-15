@@ -20,6 +20,6 @@ e) az a) pont szerinti létesítmények, eszközök elhasználódásából ered�
 
 (4) A (2) bekezdés b) pontja szerinti utógondozási és monitorozási költségek a közszolgáltatási díjban akkor érvényesíthetők, ha a közszolgáltató az utógondozás, illetve a monitorozás körébe tartozó feladatai ellátására tervet készít, amely alapján mennyiségarányosan megállapítja az ennek megvalósításához évente szükséges – a Központi Statisztikai Hivatal által közzétett – hivatalos fogyasztói árindex-alakulás alapján korrigált bevételt.
 
-(5)[^3] Ha a közszolgáltatási díjat az önkormányzat az (1)–(4) bekezdés alapján számított díjnál alacsonyabb mértékben állapítja meg, a különbséget díjkompenzáció formájában köteles a közszolgáltatónak megtéríteni. Abban az esetben, ha az önkormányzat díjkedvezményt, mentességet, vagy ingyenességet állapít meg, a hulladékgazdálkodási közszolgáltatási díj ezáltal meg nem fizetett összegét az állami hulladékgazdálkodási közfeladat ellátására létrehozott szervezet számára az önkormányzat köteles megtéríteni.
+(5)[^4]
 
-[^3]: A 3. § (5) bekezdése a 70/2016. (III. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 3. § (5) bekezdését a 105/2018. (VI. 15.) Korm. rendelet 1. §-a hatályon kívül helyezte.
