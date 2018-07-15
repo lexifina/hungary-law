@@ -1,4 +1,4 @@
-## 72. § Hatályát veszti az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló 25/2013. (IV. 16.) VM rendelet.
+## 69–72. §[^1]
 
 1. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
@@ -79,3 +79,5 @@ c) az adatátvétel dátumát és
 d) az adatátvevő aláírását.
 
 Megjegyzés: az ingatlan-nyilvántartás tartalmában változást eredményező földmérési munkákhoz, valamint a kitűzési munkákhoz igényelt földmérési és térképészeti állami alapadatok csak hitelesítve szolgáltathatók!
+
+[^1]: A 69–72. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

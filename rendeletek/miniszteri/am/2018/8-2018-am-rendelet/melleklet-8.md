@@ -106,6 +106,6 @@
 
 ## R4: azon részletpontok mindegyike, amelyek az előző három rendbe nem sorolhatók be. Különösen a melléképületek sarokpontjai, alrészlethatárok pontjai és a különféle létesítmények előző rendűségekbe be nem sorolható töréspontjai (pl. árok, töltés stb.), amelyeket belterületen legalább ± 8 cm, míg külterületen legalább ± 19 cm pontossággal lehet azonosítani.
 
-8. melléklet a 8/2018. (VI. 29.) AM rendelethez[^1]
+8. melléklet a 8/2018. (VI. 29.) AM rendelethez[^2]
 
-[^1]: A 8. melléklet címe a Magyar Közlöny 2018. évi 104. számában megjelent helyesbítésnek megfelelő szöveg.
+[^2]: A 8. melléklet címe a Magyar Közlöny 2018. évi 104. számában megjelent helyesbítésnek megfelelő szöveg.
