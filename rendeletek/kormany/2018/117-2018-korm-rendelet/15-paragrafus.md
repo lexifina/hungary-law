@@ -2,12 +2,10 @@
 
 ## 15. § Hatályát veszti az E-közmű rendelet
 
-a)[^12]
+a) 8/B. § (1) bekezdésében az „Az e rendeletben foglaltaktól eltérő, hiányzó adatszolgáltatás vagy elmulasztott regisztráció esetén kötelezi a közművezeték-üzemeltetőt a jogszabályoknak megfelelő adatszolgáltatásra.” szövegrész,
 
-b)[^13]
+b)[^8]
 
-c)[^14]
+c) 2. melléklete.
 
-[^12]: A 15. § a) pontja a 16. § (2) bekezdése alapján 2018. július 15-én lép hatályba.
-[^13]: A 15. § b) pontja a 16. § (3) bekezdése alapján 2018. július 18-án lép hatályba.
-[^14]: A 15. § c) pontja a 16. § (2) bekezdése alapján 2018. július 15-én lép hatályba.
+[^8]: A 15. § b) pontja a 16. § (3) bekezdése alapján 2018. július 18-án lép hatályba.

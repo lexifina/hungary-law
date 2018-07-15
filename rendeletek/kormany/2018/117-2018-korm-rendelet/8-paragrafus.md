@@ -1,3 +1,3 @@
-## 7. §[^3]
+## 7. § Az E-közmű rendelet 6. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^3]: A 7. § a 16. § (2) bekezdése alapján 2018. július 15-én lép hatályba.
+## „(1) A közművezeték-üzemeltető naprakész adatot szolgáltat az e-közmű számára. Az adatszolgáltatás műszaki követelményeit az ÁSZF határozza meg.”
