@@ -2,7 +2,7 @@
 
 9. § (1) A hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék elszállítását zárható konténer vagy a kiporzást és kiszóródást megakadályozó, ideiglenes takarású konténer alkalmazásával, és az e feltételeket biztosító, az egyes hulladékfajták átvételére alkalmas felépítménnyel rendelkező célgéppel, szállítójárművel kell végezni a környezet veszélyeztetését, szennyezését, károsítását kizáró módon.
 
-(2) A közszolgáltató az elkülönítetten gyűjtött települési hulladékot szükség szerinti gyakorisággal, a vegyes hulladéktól elkülönítve szállítja el.
+(2)[^14] A közszolgáltató az elkülönítetten gyűjtött települési hulladékot szükség szerinti gyakorisággal, a vegyes, továbbá más fajtájú, jellegű vagy típusú hulladéktól elkülönítve szállítja el, elkerülve azok keveredését.
 
 (3) A közszolgáltató a vegyes hulladékot a települési szilárd és folyékony hulladékkal kapcsolatos közegészségügyi követelményekről szóló miniszteri rendeletben meghatározott gyakorisággal szállítja el.
 
@@ -21,3 +21,5 @@ d) vegyes hulladék.
 (6) Ha a közszolgáltatási területre jellemző speciális területi vagy domborzati viszonyok miatt az adott ingatlan a házhoz menő gyűjtéshez használt céljárművel biztonságosan nem közelíthető meg, a közszolgáltató a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék gyűjtéséhez az ingatlanhasználók részére ideiglenes jelleggel konténeres gyűjtést biztosít. Az áru- vagy hulladékszállítás céljára használatos fémkonténert az érintett ingatlanokhoz legközelebbi és a gyűjtésre leginkább alkalmas közlekedési csomópont mellett kell elhelyezni. Ha a fémkonténer megtelt, azt el kell szállítani.
 
 (7) A (6) bekezdés szerinti konténeren tájékoztató táblát kell elhelyezni annak érdekében, hogy az ingatlanhasználó számára egyértelmű legyen, hogy a fémkonténerben milyen fajtájú hulladék helyezhető el.
+
+[^14]: A 9. § (2) bekezdése a 105/2018. (VI. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
