@@ -24,7 +24,7 @@
 
 9c.[^9] közműnyilatkozat: az e-közmű rendszer által kiadott, elektronikusan hitelesített dokumentum, amely minimálisan az építési munkák által érintett hálózatrészek biztonságos megközelítésének, keresztezésének, védelembe helyezésének, áthelyezésének érdekében szükséges műszaki feltételek előírásait tartalmazó, a közművezeték-üzemeltetők által kiadott, sajátos építményfajták engedélyezési eljárásához szükséges és az általános építményfajták esetében az építőipari kivitelezési tevékenység szakszerűségét megalapozó nyilatkozatokon alapul,
 
-10. közművezeték: gazdálkodási tevékenységet folytató szervezet által üzemeltetett, fogyasztói igények kielégítése céljából térszín felett, térszínen vagy térszín alatt elhelyezett vezetékrendszer és a 2. mellékletben meghatározott kapcsolódó építmények.
+10.[^10] közművezeték: gazdálkodási tevékenységet folytató szervezet által üzemeltetett, közterületen, térszín felett, térszínen vagy térszín alatt elhelyezett vezetékrendszer és az ÁSZF-ben meghatározott kapcsolódó építmények.
 
 [^3]: A 2. § a 369/2016. (XI. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^4]: A 2. § 1. pontja a 117/2018. (VII. 2.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
@@ -33,3 +33,4 @@
 [^7]: A 2. § 9a. pontját a 117/2018. (VII. 2.) Korm. rendelet 3. §-a iktatta be.
 [^8]: A 2. § 9b. pontját a 117/2018. (VII. 2.) Korm. rendelet 3. §-a iktatta be.
 [^9]: A 2. § 9c. pontját a 117/2018. (VII. 2.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A 2. § 10. pontja a a 117/2018. (VII. 2.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.

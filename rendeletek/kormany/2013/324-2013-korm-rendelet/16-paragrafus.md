@@ -1,6 +1,6 @@
-## 15. §[^59]
+## 15. §[^64]
 
-## 8. [^60] Az Európai Unió jogának való megfelelés
+## 8. [^65] Az Európai Unió jogának való megfelelés
 
-[^59]: A 15. §-t a 369/2016. (XI. 29.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
-[^60]: A 8. alcímet (16. §) a 369/2016. (XI. 29.) Korm. rendelet 20. §-a iktatta be.
+[^64]: A 15. §-t a 369/2016. (XI. 29.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^65]: A 8. alcímet (16. §) a 369/2016. (XI. 29.) Korm. rendelet 20. §-a iktatta be.

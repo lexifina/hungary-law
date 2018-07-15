@@ -1,21 +1,13 @@
-9/B. § (1) A közműegyeztetést kérelmező kizárólag a közműegyeztető rendszeren keresztül indíthatja el a közműegyeztetési folyamatot.
+9/B. §[^52] (1) A közműnyilatkozatot vagy közmű-állásfoglalást kérelmező kizárólag a közműegyeztető rendszeren keresztül indíthatja el és folytathatja le az egyeztetési folyamatot.
 
-(2) A közműegyeztetési folyamat elindítása e-közmű rendszerhasználati díj megfizetéséhez kötött. Az ÁSZF-ben meghatározott mértékű rendszerhasználati díjat az e-közmű webes felületén keresztül, a 4. § (5) bekezdésében foglaltaknak megfelelően kell kiegyenlíteni.
+(2) A közműnyilatkozat vagy közmű-állásfoglalás kérelmezése e-közmű rendszerhasználati díj megfizetéséhez kötött. Az ÁSZF-ben meghatározott mértékű rendszerhasználati díjat az e-közmű internetes felületén keresztül, a 4. § (5) bekezdésében foglaltaknak megfelelően kell kiegyenlíteni.
 
-(3) A közműegyeztetést kérelmezőnek az EOV koordináta hálót tartalmazó terv rajzi mellékleteit georeferált képként, a szakági előírásoknak megfelelő rétegkiosztással és annotációval ellátva kell az e-közmű rendszerbe feltöltenie.
+(3) Közműnyilatkozat-kérelemhez tervdokumentációt kell csatolni. A tervdokumentáció felülnézeti rajzi mellékleteire vonatkozó előírásokat az ÁSZF tartalmazza.
 
-(4) Az e-közmű rendszer a működési területük figyelembevételével felkéri az érintett közművezeték-üzemeltetőket a közműegyeztetési eljárás lebonyolítására.
+(4) Közműnyilatkozat kérelmezése esetén az e-közmű rendszer a közművezeték-üzemeltetők által megadott adatok és a 6. § (1) bekezdése szerint szolgáltatott térképi adatszolgáltatások alapján automatikusan megállapítja a közműegyeztetés folyamatában való részvétel szükségességét. Közmű-állásfoglalás kérelmezése esetén az e-közmű rendszer nem állapítja meg automatikusan a közműegyeztetés folyamatában való részvétel szükségességét.
 
-(5) A közművezeték-üzemeltetőnek 8 napon belül nyilatkoznia kell érintettségéről. Amennyiben úgy nyilatkozik, hogy érintett, a további kérdésekről további 22 napon belül nyilatkoznia kell, az adott szakágra vonatkozó előírások szerint. Ha a közművezeték-üzemeltető e határidőkön belül nem ad választ, az e-közműt üzemeltető szervezet jelzi azt a felügyeleti hatóság felé. A felügyeleti hatóság 5 napon belül intézkedik, hogy az érintett közművezeték-üzemeltető a felszólítását követő 5 napon belül adja meg a nyilatkozatát.
+(5) A közműnyilatkozatot kérelmező a (4) bekezdésben foglaltak szerinti automatikus megállapítás eredményét további közművezeték-üzemeltetőkkel bővítheti, a közműegyeztetés folyamatában való részvétel szükségességét indokolási kötelezettség mellett felülbírálhatja.
 
-(6) A közművezeték-üzemeltetők az (5) bekezdésben meghatározott határidőn belül tehetik meg a tervre vonatkozó észrevételeiket, az e-közmű rendszeren keresztül.
+(6) Az e-közmű rendszer a (4) és (5) bekezdésben foglaltak szerint megjelölt közművezeték-üzemeltetőket felkéri a közműegyeztetés lebonyolítására.
 
-(7) A közművezeték-üzemeltető a közműegyeztetési folyamat során egy alkalommal kérhet tervmódosítást.
-
-(8) Ha a közművezeték-üzemeltető tervmódosítást kér, a tervmódosítás idejére, de legfeljebb 30 napra felfüggeszti a közműegyeztetést. A felfüggesztés tényét a közművezeték-üzemeltető köteles rögzíteni az e-közmű rendszerben. Az e-közmű rendszer automatikusan értesíti az eljárásban résztvevő többi közművezeték-üzemeltetőt a közműegyeztetés felfüggesztéséről, valamint rögzíti a felfüggesztés időpontját. A közműegyeztetés a módosított tervek újbóli benyújtásának időpontjától folytatódik. A közműegyeztetési eljárás a felfüggesztés megszűnését követően a rendszerben rögzített időponttól folytatódik. A felfüggesztés megszűnésének tényét a közművezeték-üzemeltető köteles rögzíteni az e-közmű rendszerben. Amennyiben a tervmódosítás miatti felfüggesztés 30 napon belül nem szűnik meg, a közműegyeztetési eljárás megszűnik.
-
-(9) A tervező a módosított terveket térítésmenetesen töltheti fel a közműegyeztető rendszerbe, a (4) bekezdés szerinti eljárás ismételt lefolytatása érdekében.
-
-(10) A közművezeték-üzemeltető a közműegyeztető rendszerben elektronikusan hitelesített dokumentum formájában állítja ki a közműnyilatkozatot, amiről a közműegyeztetést kérelmező elektronikus értesítést kap.
-
-(11) A közműnyilatkozat érvényességi ideje 6 hónap.
+[^52]: A 9/B. § a 117/2018. (VII. 2.) Korm. rendelet 12. §-ával megállapított szöveg.

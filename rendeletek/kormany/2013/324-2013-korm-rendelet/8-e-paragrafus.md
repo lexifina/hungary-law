@@ -1,6 +1,6 @@
-## 8/D. §[^43] Ha a 8/B. § (1) bekezdése szerinti kötelezésnek a kötelezett közművezeték-üzemeltető határidőben nem tesz eleget, a felügyeleti hatóság jogszabályban meghatározott bírságot szabhat ki.
+## 8/D. §[^46] Ha a 8/B. § (1) bekezdése szerinti kötelezésnek a kötelezett közművezeték-üzemeltető határidőben nem tesz eleget, a felügyeleti hatóság jogszabályban meghatározott bírságot szabhat ki.
 
-## 4/A. [^44] Az e-közmű részéről történő adatszolgáltatás
+## 4/A. [^47] Az e-közmű részéről történő adatszolgáltatás
 
 8/E. § (1) Az e-közmű a felügyeleti hatóság számára a jogszabályban meghatározott ellenőrzési feladatainak ellátásához díjmentesen szolgáltat naprakész adatokat
 
@@ -14,5 +14,5 @@ b) az adatszolgáltatási kötelezettségek teljesítésének elmaradásáról.
 
 (4) Az e-közmű az Építésügyi Dokumentációs és Információs Központról, valamint az Országos Építésügyi Nyilvántartásról szóló kormányrendelet szerinti az Országos Építésügyi Nyilvántartás működését elősegítő további elektronikus alkalmazások számára elérhetővé teszi a 9. § (2) bekezdés a) pontja szerinti naprakész adatokat.
 
-[^43]: A 8/D. §-t a 369/2016. (XI. 29.) Korm. rendelet 15. §-a iktatta be.
-[^44]: A 4/A. alcímet (8/E. §) a 117/2018. (VII. 2.) Korm. rendelet 10. §-a iktatta be.
+[^46]: A 8/D. §-t a 369/2016. (XI. 29.) Korm. rendelet 15. §-a iktatta be.
+[^47]: A 4/A. alcímet (8/E. §) a 117/2018. (VII. 2.) Korm. rendelet 10. §-a iktatta be.
