@@ -1,3 +1,3 @@
-## 7. § Az E-közmű rendelet 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^3]
 
-## „(1) A közművezeték-üzemeltető naprakész adatot szolgáltat az e-közmű számára. Az adatszolgáltatás műszaki követelményeit az ÁSZF határozza meg.”
+[^3]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
