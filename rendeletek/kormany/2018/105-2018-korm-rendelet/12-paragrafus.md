@@ -1,3 +1,0 @@
-## 11. § A Kr.2. 26. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) A közszolgáltató azon közszolgáltatási területén, ahol a számlázásra, díjbeszedésre és a kintlévőség komplex módon történő kezelésére a közszolgáltató olyan szerződést kötött, amelynek keretében a másik szerződő fél a kockázatok átvállalása mellett ezen feladatok teljes körű ellátását a kiszámlázott közszolgáltatási díj meghatározott százalékának megfizetése mellett vállalta, és a szerződésbe a Koordináló szerv belépett, a közszolgáltatási díj számlázása olyan gyakorisággal történik, amilyen gyakorisággal a Koordináló szerv szerződésbe történő belépésekor történt.”
