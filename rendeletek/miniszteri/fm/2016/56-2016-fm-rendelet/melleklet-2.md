@@ -174,6 +174,8 @@
 
 | 85. | 34 | 541 | 05 | Pék | Élelmiszeripar |
 
+| 85a. | 34 | 541 | 11 | Pék-cukrász | Élelmiszeripar |
+
 | 86. | 31 | 541 | 07 | Sajtkészítő | Élelmiszeripar |
 
 | 87. | 31 | 541 | 20 | Savanyító | Élelmiszeripar |
@@ -236,7 +238,7 @@
 
 | 116. | 35 | 622 | 02 | Zöldség- és gyümölcstermesztő | Mezőgazdaság |
 
-2. melléklet az 56/2016. (VIII. 19.) FM rendelethez
+2. melléklet az 56/2016. (VIII. 19.) FM rendelethez[^4]
 
 A földművelésügyi miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményei
 
@@ -1189,6 +1191,8 @@ A szakképesítéssel kapcsolatos előírások a http://nive.hu/ weblapon érhet
 | 6.19. | Baromfi, ló, szarvasmarha, sertés, juh tartására alkalmas épület, istálló, ól |
 
 7. EGYEBEK
+
+A Mezőgazdaság ismeretek vagy a Mezőgazdasági ismeretek ágazati szakmai érettségi vizsga szóbeli vizsgarészének sikeres teljesítése mentesíti a vizsgázót a szóbeli vizsgatevékenység 5.3.3. pont B alpontjában foglaltak teljesítése alól. Az ágazati szakmai érettségi vizsga előzőekben meghatározott ágazati szakmai vizsgatárgyának eredményes teljesítését a komplex szakmai vizsga 5.3.3. pont B alpontjában meghatározott vizsgatevékenységébe azonos eredménnyel kell beszámítani.
 
 Az 5. sorszámú Állattenyésztő és állategészségügyi technikus megnevezésű szakképesítés szakmai és vizsgakövetelménye
 
@@ -4886,6 +4890,8 @@ A szakképesítéssel rendelkező képes:
 
 | 3.3.14. | 34 541 10 | Tejipari szakmunkás | azonos ágazat |
 
+| 3.3.15. | 34 541 11 | Pék-cukrász | azonos ágazat |
+
 4. SZAKMAI KÖVETELMÉNYEK
 
 |  | A | B |
@@ -5390,6 +5396,8 @@ A szakképesítéssel rendelkező képes:
 
 | 3.3.13. | 34 541 10 | Tejipari szakmunkás | azonos ágazat |
 
+| 3.3.14. | 34 541 11 | Pék-cukrász | azonos ágazat |
+
 4. SZAKMAI KÖVETELMÉNYEK
 
 |  | A | B |
@@ -5534,9 +5542,9 @@ A 22. sorszámú Élelmiszeripari gépésztechnikus megnevezésű szakképesít�
 
 2.5. Pályaalkalmassági követelmények: -
 
-2.6 Elméleti képzési idő aránya: 60%
+2.6. Elméleti képzési idő aránya: 50%
 
-2.7. Gyakorlati képzési idő aránya: 40%
+2.7. Gyakorlati képzési idő aránya: 50%
 
 2.8. Szintvizsga: –
 
@@ -6000,12 +6008,4 @@ A részszakképesítéssel rendelkező képes:
 
 - alapméréseket végezni,
 
-- laboratóriumi eszközöket használni,
-
-- minták összetételének minőségi meghatározását elvégezni,
-
-- minták összetételének mennyiségi meghatározását elvégezni,
-
-- adminisztrációs munkát végezni.
-
-3.3. Kapcsolódó szakképesítések
+[^4]: A 2. melléklet a 15/2018. (VII. 9.) AM rendelet 1. (2) bekezdése és 2. §-a szerint módosított szöveg.
