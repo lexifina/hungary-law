@@ -1,0 +1,1 @@
+A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 100. § (3) bekezdés c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 92. § (1) bekezdés 7. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
