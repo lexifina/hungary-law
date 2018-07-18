@@ -32,21 +32,21 @@
 
 | 11. | b) Két végén fejelt, általános világítási célra szolgáló fénycsövekben használt higany (fénycsövenként): |
 
-| 12. | Típus | Ø Csőátmérő mm | Maximális megengedett koncentráció | A mentesség határideje |
+| 12. | Típus | ∅ Csőátmérő mm | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 13. | Normál élettartamú fénycső háromsávos fényporral, 9 mm alatti csőátmérővel (pl. T2) | Ø < 9 mm | 5 mg | 2011. december 31-ig |
+| 13. | Normál élettartamú fénycső háromsávos fényporral, 9 mm alatti csőátmérővel (pl. T2) | ∅ < 9 mm | 5 mg | 2011. december 31-ig |
 
 | 4 mg | 2012. január 1-jétől |
 
-| 14. | Normál élettartamú fénycső háromsávos fényporral (pl. T5) | 9 mm < Ø ≤ 17 mm | 5 mg | 2011. december 31-ig |
+| 14. | Normál élettartamú fénycső háromsávos fényporral (pl. T5) | 9 mm < ∅ ≤ 17 mm | 5 mg | 2011. december 31-ig |
 
 | 3 mg | 2012. január 1-jétől |
 
-| 15. | Normál élettartamú fénycső háromsávos fényporral (pl. T8) | 17 mm < Ø ≤ 28 mm | 5 mg | 2011. december 31-ig |
+| 15. | Normál élettartamú fénycső háromsávos fényporral (pl. T8) | 17 mm < ∅ ≤ 28 mm | 5 mg | 2011. december 31-ig |
 
 | 3,5 mg | 2012. január 1-jétől |
 
-| 16. | Normál élettartamú fénycső háromsávos fényporral (pl. T12) | 28 mm < Ø | 5 mg | 2012. december 31-ig |
+| 16. | Normál élettartamú fénycső háromsávos fényporral (pl. T12) | 28 mm < ∅ | 5 mg | 2012. december 31-ig |
 
 | 3,5 mg | 2013. január 1-jétől |
 
@@ -56,13 +56,13 @@
 
 | 18. | c) Egyéb kompakt fénycsövekben használt higany (fénycsövenként): |
 
-| 19. | Típus | Ø Csőátmérő mm | Maximális megengedett koncentráció | A mentesség határideje |
+| 19. | Típus | ∅ Csőátmérő mm | Maximális megengedett koncentráció | A mentesség határideje |
 
-| 20. | Egyenes halofoszfát fénycsövek (pl. T10 és T12) | 28 mm < Ø | 10 mg | 2012. április 13-ig |
+| 20. | Egyenes halofoszfát fénycsövek (pl. T10 és T12) | 28 mm < ∅ | 10 mg | 2012. április 13-ig |
 
-| 21. | Nem egyenes halofoszfát fénycsövek | Bármely Ø | 15 mg | 2016. április 13-ig |
+| 21. | Nem egyenes halofoszfát fénycsövek | Bármely ∅ | 15 mg | 2016. április 13-ig |
 
-| 22. | Nem egyenes fénycsövek háromsávos fényporral, 17 mm feletti csőátmérővel (pl. T9) | 17 mm < Ø | nincs korlátozás | 2011. december 31-ig |
+| 22. | Nem egyenes fénycsövek háromsávos fényporral, 17 mm feletti csőátmérővel (pl. T9) | 17 mm < ∅ | nincs korlátozás | 2011. december 31-ig |
 
 | 15 mg | 2012. január 1-jétől |
 
@@ -156,7 +156,15 @@
 
 | 54. | 125 V AC vagy 250 V DC alatti névleges feszültségű kondenzátorokban használt dielektromos kerámiában lévő ólom | nincs korlátozás | 2013. január 1-jéig, ezt követően a 2013. január 1. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
 
-| 55. | Ólom a fűtő, szellőztető, légkondicionáló és hűtő alkalmazásokban használt, hűtőközeget tartalmazó kompresszorok csapágycsészéiben és -béléseiben | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 55. | Ólom a fűtő-, szellőztető-, légkondicionáló- és hűtőalkalmazásokban használt, hűtőközeget tartalmazó kompresszorok csapágycsészéiben és -béléseiben a 7. melléklet 8., 9. és 11. pontjában szereplő termékcsoportok közül: | nincs korlátozás |  |
+
+| – a 8. termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében | 2023. július 21-ig |
+
+| – a 9. termékcsoportba tartozó ipari felügyeleti és vezérlőeszközök és a 11. termékcsoportba tartozó eszközök esetében | 2024. július 21-ig |
+
+| − a 8. és a 9. termékcsoportokba tartozó eszközök egyéb alkategóriái esetében | 2021. július 21-ig |
+
+| 55a. | Ólom a fűtő-, szellőztető-, légkondicionáló- és hűtőalkalmazásokban használt, legfeljebb 9 kW mért felvett elektromos teljesítményű, hűtőközeget tartalmazó, hermetikus spirálkompresszorok csapágycsészéiben és -béléseiben, kivéve a 7. melléklet 1. pontjában szereplő termékcsoport esetében |  | 2019. július 21-ig |
 
 | 56. | Integrált áramkörök vagy diszkrét félvezetők részét képező kondenzátorokban található ólom-cirkanát-titanát alapú dielektromos kerámiaanyagokban lévő ólom | nincs korlátozás | 2016. július 21-ig |
 
@@ -166,9 +174,27 @@
 
 | 59. | A hővezető modulok tömítőgyűrűjén bevonóanyagként használt ólom | nincs korlátozás | a 2010. szeptember 24. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
 
-| 60. | Optikai alkalmazásokban használt fehér üvegekben lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 60. | Optikai alkalmazásokban használt fehér üvegekben lévő ólom. A mentesség valamennyi termékcsoportra vonatkozik, és a következő időpontokban jár le: | nincs korlátozás |  |
 
-| 61. | Reflexiós tényezőre vonatkozó követelmények céljára használt üveg filterekben és üvegekben használt kadmium és ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+| – a 8. termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében | 2023. július 21-ig |
+
+| – a 9. termékcsoportba tartozó ipari felügyeleti és vezérlőeszközök és a 11. termékcsoportba tartozó eszközök esetében | 2024. július 21-ig |
+
+| − a 8. és a 9. termékcsoportok egyéb alkategóriái esetében | 2021. július 21-ig |
+
+| 61. | Reflexiós tényezőkre vonatkozó követelmények céljára használt üvegfilterekben és üvegekben használt kadmium és ólom. A mentesség a 7. melléklet 8., 9. és 11. pontjában szereplő termékcsoportokra vonatkozik, és a következő időpontokban jár le: | nincs korlátozás |  |
+
+| – a 8. termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében | 2023. július 21-ig |
+
+| – a 9. termékcsoportba tartozó ipari felügyeleti és vezérlőeszközök és a 11. termékcsoportba tartozó eszközök esetében | 2024. július 21-ig |
+
+| − a 8. és a 9. termékcsoportok egyéb alkategóriái esetében | 2021. július 21-ig |
+
+| 61a. | Az ionokkal színezett optikai üvegfilterekben lévő ólom |  | 2021. július 21-ig |
+
+| 61b. | A kolloid szuszpenzióval és hőkezeléssel színezett üvegfilterekben lévő kadmium; kivéve az e melléklet 83. sorának hatálya alá tartozó alkalmazások |  | 2021. július 21-ig |
+
+| 61c. | Reflexiós tényezőre vonatkozó követelmények céljára használt üvegekben lévő kadmium és ólom |  | 2021. július 21-ig |
 
 | 62. | Kettőnél több elemből álló, a mikroprocesszor kivezetései és tokja között kapcsolatot biztosító forrasztóanyagban lévő ólom, ha az ólomtartalom 80 és 85 tömegszázalék között van | nincs korlátozás | a 2011. január 1. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
 
@@ -212,7 +238,7 @@
 
 | 82. | Az alumíniummal ötvözött berillium-oxid hordozókon használt vastag filmpasztában lévő kadmium és kadmium-oxid | nincs korlátozás | mentesség ideje nincs korlátozva |
 
-| 83. | A szilárdtest-világítási vagy -kijelző rendszerekben használt színátalakító LED-ekben lévő kadmium | a fénykibocsátó terület egy négyzetmilliméterére eső kadmiummennyiség < 10 µg | 2014. július 1-jéig |
+| 83. | A kijelzővilágítási alkalmazásokban használt hullámhossz-átalakító („downshifting”) félvezető-nanokristály kvantumpontokban lévő kadmium-szelenid | a kijelzőfelület egy négyzetmilliméterére eső kadmiummennyiség < 0,2 μg | 2019. augusztus 7-ig |
 
 | 84. | A professzionális audioberendezésekben használt analóg optocsatolók fotorezisztoraiban lévő kadmium | nincs korlátozás | 2013. december 31-ig |
 
@@ -224,7 +250,7 @@
 
 | 88. | Abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként a hűtőközegben | ≤ 0,75 m/m % hat vegyértékű króm | mentesség ideje nincs korlátozva |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^23]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^27]
 
 ## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
@@ -408,4 +434,4 @@ lejár.
 
 47. Az olyan ipari ellenőrző és vezérlő eszközökben használt oxigénérzékelők Hersch-celláinak kadmiumanódjai, amelyeknél 10 ppm-nél kisebb mérési érzékenység szükséges. A mentesség 2023. július 15-én lejár.
 
-[^23]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^27]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.

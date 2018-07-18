@@ -64,7 +64,15 @@
 
 32.[^18] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az egyes berendezések hőmérsékletmérő érzékelőinek elektromos összeköttetéseihez használt forraszanyagban lévő ólomra irányuló mentesítés tekintetében, a műszaki fejlődéshez való hozzáigazítás céljából történő módosításáról szóló, 2016. április 19-i 2016/1028/EU bizottsági irányelvnek,
 
-33.[^19] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az ipari felügyeleti és vezérlő eszközökben használt egyes oxigénérzékelők Hersch-celláiban található kadmiumanódok mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2016. április 19-i 2016/1029/EU bizottsági irányelvnek
+33.[^19] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az ipari felügyeleti és vezérlő eszközökben használt egyes oxigénérzékelők Hersch-celláiban található kadmiumanódok mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2016. április 19-i 2016/1029/EU bizottsági irányelvnek,
+
+34.[^20] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a reflexiós tényezőre vonatkozó követelmények céljára használt üveg filterekben és üvegekben használt kadmiumra és ólomra megadott mentesség tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2017. március 13-i, (EU) 2017/1009 felhatalmazáson alapuló bizottsági irányelvnek,
+
+35.[^21] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az egyes hűtőközeget tartalmazó kompresszorok csapágycsészéiben és -béléseiben felhasznált ólomra megadott mentesség tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2017. március 13-i, (EU) 2017/1010 felhatalmazáson alapuló bizottsági irányelvnek,
+
+36.[^22] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az optikai alkalmazásokban használt fehér üvegekben lévő ólomra megadott mentesség tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2017. március 15-i, (EU) 2017/1011 felhatalmazáson alapuló bizottsági irányelvnek,
+
+37.[^23] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a kijelző rendszerekben használt színátalakító fénykibocsátó diódákban (LED-ek) alkalmazott kadmiumra megadott mentesség tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2017. augusztus 7-i, (EU) 2017/1975 felhatalmazáson alapuló bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
@@ -75,3 +83,7 @@ való megfelelést szolgálja.
 [^17]: A 16. § 31. pontját a 307/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
 [^18]: A 16. § 32. pontját a 42/2017. (III. 7.) Korm. rendelet 1. §-a iktatta be.
 [^19]: A 16. § 33. pontját a 42/2017. (III. 7.) Korm. rendelet 1. §-a iktatta be.
+[^20]: A 16. § 34. pontját a 125/2018. (VII. 10.) Korm. rendelet 1. §-a iktatta be.
+[^21]: A 16. § 35. pontját a 125/2018. (VII. 10.) Korm. rendelet 1. §-a iktatta be.
+[^22]: A 16. § 36. pontját a 125/2018. (VII. 10.) Korm. rendelet 1. §-a iktatta be.
+[^23]: A 16. § 37. pontját a 125/2018. (VII. 10.) Korm. rendelet 1. §-a iktatta be.

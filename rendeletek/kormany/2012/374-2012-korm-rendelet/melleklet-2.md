@@ -24,6 +24,6 @@
 
 | 11. | Diizobutil-ftalát (DIBP) | 0,1 |
 
-2. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^22]
+2. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^26]
 
-[^22]: A 2. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^26]: A 2. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 125/2018. (VII. 10.) Korm. rendelet 2. §-a szerint módosított szöveg.

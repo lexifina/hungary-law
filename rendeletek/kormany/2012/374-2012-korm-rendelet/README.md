@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-374-20-
 | 2017-01-01 | 2012-374-20-22.9 | 30/2015. (II. 25.) Korm. rendelet |
 | 2017-04-30 | 2012-374-20-22.10 | 42/2017. (III. 7.) Korm. rendelet |
 | 2017-11-06 | 2012-374-20-22.11 | 258/2014. (X. 10.) Korm. rendelet |
+| 2018-07-18 | 2012-374-20-22.12 | 125/2018. (VII. 10.) Korm. rendelet |
