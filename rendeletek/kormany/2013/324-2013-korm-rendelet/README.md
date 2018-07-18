@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-324-20-
 | 2018-01-01 | 2013-324-20-22.6 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-07-10 | 2013-324-20-22.7 | 117/2018. (VII. 2.) Korm. rendelet |
 | 2018-07-15 | 2013-324-20-22.8 | 117/2018. (VII. 2.) Korm. rendelet |
+| 2018-07-18 | 2013-324-20-22.9 | 369/2016. (XI. 29.) Korm. rendelet |
