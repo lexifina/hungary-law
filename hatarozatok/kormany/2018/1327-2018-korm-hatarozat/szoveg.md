@@ -1,0 +1,25 @@
+A Kormány – figyelemmel a Magyarország Kormánya és Dunaújváros Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1394/2016. (VII. 21.) Korm. határozat 6. pont g) alpontjára –
+
+1. egyetért a Modern Városok Program keretében a dunaújvárosi Fabó Éva Uszoda Dunaújváros Megyei Jogú Város Önkormányzata (a továbbiakban: Önkormányzat) általi megvalósításával (a továbbiakban: Beruházás) és azzal, hogy a Beruházás 2 930 918 275 forint összegű költségvetési támogatással valósuljon meg az alábbi költségvetési évek szerinti bontásban:
+
+a) a 2018. évben 2 340 116 275 forint,
+
+b) a 2019. évben 590 802 000 forint;
+
+2. egyetért azzal, hogy a Beruházás megvalósításához a Miniszterelnökséget vezető miniszter az Önkormányzatnak a Modern Városok Program megvalósításáról szóló 250/2016. (VIII. 24.) Korm. rendelet 6. § (2) bekezdés a) pontja, valamint c) pont ca) alpontja szerinti támogatási kérelme alapján 2 930 918 275 forint költségvetési támogatást biztosítson az Önkormányzat részére az 1. pont szerinti évenkénti ütemezés szerint, és ennek érdekében a költségvetési támogatás felhasználását, valamint az elszámolásának részletes feltételeit meghatározó támogatói okiratot adjon ki, és a támogatói okirat kiadását követően a költségvetési támogatásból 2 340 116 275 forintot a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére az Önkormányzat részére támogatási előlegként folyósítsa;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: felmerülés ütemében
+
+3. felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon a Beruházás megvalósításához a 2019. költségvetési évben szükséges legfeljebb 590 802 000 forint biztosításáról a 2019. évi központi költségvetés XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére az Önkormányzat részére támogatási előlegként;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: felmerülés ütemében
+
+4. felhívja a Miniszterelnökséget vezető minisztert, hogy a Beruházás tekintetében a Beruházást finanszírozó támogatás nyújtása során gondoskodjon arról, hogy az Önkormányzat kötelezettséget vállaljon az állami beruházások központi nyilvántartásáról és ellenőrzéséről szóló 1830/2016. (XII. 23.) Korm. határozat 3. pontjában foglaltak teljesítésére.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: a támogatói okirat kiadásakor
