@@ -1,4 +1,4 @@
-## 1. § A SZEVIÉP Szerkezet- és Vízépítő Zártkörűen Működő Részvénytársaság „felszámolás alatt” (a továbbiakban: SZEVIÉP Zrt.) fizetésképtelensége miatt kárt szenvedett mikro-, kis- vagy középvállalkozásokat megillető ellenszolgáltatás rendkívüli és méltányosságon alapuló, mielőbbi megtérítése érdekében a magyar állam rendkívüli állami kárrendezést (a továbbiakban: állami kárrendezés) nyújt az e rendeletben foglaltak szerint.
+## 1. §[^1] A SZEVIÉP Szerkezet- és Vízépítő Zártkörűen Működő Részvénytársaság „felszámolás alatt”, valamint a Biztonsági Üzem Korlátolt Felelősségű Társaság „f.a.” és a Marosdömper Korlátolt Felelősségű Társaság „f.a.” mint a SZEVIÉP Szerkezet- és Vízépítő Zártkörűen Működő Részvénytársaság „felszámolás alatt” 100 százalékos tulajdonában álló leányvállalatok (a továbbiakban együtt: SZEVIÉP Zrt.) fizetésképtelensége miatt kárt szenvedett természetes, valamint jogi személyeket megillető ellenszolgáltatás rendkívüli és méltányosságon alapuló, mielőbbi megtérítése érdekében a magyar állam rendkívüli állami kárrendezést (a továbbiakban: állami kárrendezés) nyújt az e rendeletben foglaltak szerint.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -9,3 +9,5 @@ b) csekély összegű támogatás: az Atr. 2. § 1. pont a), c) és d) pontja sz
 c) támogatás: az Atr. 2. § 1. pontja szerinti támogatás,
 
 d) támogatástartalom: az Atr. 2. § 19. pontja szerinti összeg.
+
+[^1]: Az 1. § a 128/2018. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.

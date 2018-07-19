@@ -1,3 +1,1 @@
-4. § (1) Ha a követelés azért nem felel meg a 3. § (1) bekezdése szerinti feltételeknek, mert a követelést annak jogosultja harmadik fél részére engedményezte, e jogosult tekintetében az állami kárrendezés legfeljebb a követelés eredeti összegének és a követelés engedményezéséért kapott összegnek a különbözetére terjedhet ki. Ebben az esetben e jogosult állami kárrendezésére egyebekben – a károsultat megillető követelés átszállásának kivételével – a károsultra vonatkozó rendelkezéseket kell alkalmazni.
-
-(2) Az állami kárrendezés nem terjed ki azon követelésre, amelyet üzletszerűen követelésvásárlási tevékenységet folytató harmadik személyre engedményeztek. Ez nem érinti a károsult azon jogát, hogy az (1) bekezdésben foglalt különbözetre nézve állami kárrendezésben részesülhessen.
+## illeti meg a támogatásra jogosult jogállása.

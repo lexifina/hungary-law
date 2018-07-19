@@ -26,8 +26,10 @@ f) hozzájárul ahhoz, hogy a jogosulatlanul igénybe vett támogatás Polgári 
 
 g) sor került-e a követelés engedményezésére, engedményezés esetén mekkora a követelés engedményezéséért kapott összeg,
 
-h) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény alapján mikro-, kis- vagy középvállalkozásnak minősül, valamint
+h)[^10]
 
 i) megfelel az e Korm. rendeletben foglalt egyéb jogosultsági feltételeknek.
 
 (3) A károsult az igénybejelentésben az állami kárrendezés kifizetése érdekében adatot szolgáltat a pénzforgalmi fizetési számlájáról.
+
+[^10]: A 7. § (2) bekezdés h) pontját a 128/2018. (VII. 18.) Korm. rendelet 6. §-a hatályon kívül helyezte.
