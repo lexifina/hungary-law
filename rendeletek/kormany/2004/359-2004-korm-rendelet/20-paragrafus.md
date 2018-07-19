@@ -20,18 +20,18 @@ e) az azokat alátámasztó teljesítésigazolások megfelelőek;
 
 f) a háttérbizonylatok a záró egyenleg Európai Bizottság általi megtérítését követően három évig rendelkezésre állnak;
 
-g)[^41] azok a vonatkozó közösségi politikáknak, versenypolitikai szabályoknak, állami támogatási, államháztartásra vonatkozó jogszabályoknak és a közbeszerzésre, környezetvédelemre, esélyegyenlőségre, tájékoztatásra és nyilvánosságra vonatkozó előírásoknak megfelelően merültek fel;
+g)[^42] azok a vonatkozó közösségi politikáknak, versenypolitikai szabályoknak, állami támogatási, államháztartásra vonatkozó jogszabályoknak és a közbeszerzésre, környezetvédelemre, esélyegyenlőségre, tájékoztatásra és nyilvánosságra vonatkozó előírásoknak megfelelően merültek fel;
 
-h)[^42] a kedvezményezettnek nincs támogatás-halmozódása.
+h)[^43] a kedvezményezettnek nincs támogatás-halmozódása.
 
-(5)[^43] Ha a kedvezményezett nem szerepel a köztartozásmentes adózói adatbázisban, a (4) bekezdés szerinti nyilatkozathoz 30 napnál nem régebben kiállított közokirati igazolást kell mellékelni arról, hogy a kérelmező – a bejegyzés iránti kérelme benyújtásának időpontjában – az adózás rendjéről szóló 2017. évi CL. törvény 260. § szerint köztartozásmentes adózónak minősül.
+(5)[^44] Ha a kedvezményezett nem szerepel a köztartozásmentes adózói adatbázisban, a (4) bekezdés szerinti nyilatkozathoz 30 napnál nem régebben kiállított közokirati igazolást kell mellékelni arról, hogy a kérelmező – a bejegyzés iránti kérelme benyújtásának időpontjában – az adózás rendjéről szóló 2017. évi CL. törvény 260. § szerint köztartozásmentes adózónak minősül.
 
-(6)[^44] Az irányító hatóság gondoskodik a közreműködő szervezet által összeállított hitelesítési jelentések megfelelő iktatásáról és irattározásáról.
+(6)[^45] Az irányító hatóság gondoskodik a közreműködő szervezet által összeállított hitelesítési jelentések megfelelő iktatásáról és irattározásáról.
 
-(7)[^45] Amennyiben az irányító hatóság a kedvezményezettek költségei elszámolhatóságának a benyújtott számlák vagy a gazdasági eseményt hitelesen dokumentáló egyéb bizonylatok ellenőrzésén alapuló megállapítását maga látja el, akkor a kedvezményezettől befogadott számlák ellenőrzését követően az irányító hatóság gondoskodik a (4) bekezdésben leírt hitelesítési jelentés kiállításáról, iktatásáról, valamint irattározásáról.
+(7)[^46] Amennyiben az irányító hatóság a kedvezményezettek költségei elszámolhatóságának a benyújtott számlák vagy a gazdasági eseményt hitelesen dokumentáló egyéb bizonylatok ellenőrzésén alapuló megállapítását maga látja el, akkor a kedvezményezettől befogadott számlák ellenőrzését követően az irányító hatóság gondoskodik a (4) bekezdésben leírt hitelesítési jelentés kiállításáról, iktatásáról, valamint irattározásáról.
 
-[^41]: A 20. § (4) bekezdésének g) pontja a 243/2006. (XII. 5.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^42]: A 20. § (4) bekezdésének h) pontja a 163/2009. (VIII. 6.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^43]: A 20. § új (5) bekezdését a 163/2009. (VIII. 6.) Korm. rendelet 23. § (2) bekezdése iktatta be, egyidejűleg az eredeti (5)–(6) bekezdés számozását (6)–(7) bekezdésre változtatva. A 20. § (5) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^44]: A 20. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 163/2009. (VIII. 6.) Korm. rendelet 23. § (2) bekezdése.
-[^45]: A 20. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 163/2009. (VIII. 6.) Korm. rendelet 23. § (2) bekezdése.
+[^42]: A 20. § (4) bekezdésének g) pontja a 243/2006. (XII. 5.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^43]: A 20. § (4) bekezdésének h) pontja a 163/2009. (VIII. 6.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^44]: A 20. § új (5) bekezdését a 163/2009. (VIII. 6.) Korm. rendelet 23. § (2) bekezdése iktatta be, egyidejűleg az eredeti (5)–(6) bekezdés számozását (6)–(7) bekezdésre változtatva. A 20. § (5) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^45]: A 20. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 163/2009. (VIII. 6.) Korm. rendelet 23. § (2) bekezdése.
+[^46]: A 20. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 163/2009. (VIII. 6.) Korm. rendelet 23. § (2) bekezdése.

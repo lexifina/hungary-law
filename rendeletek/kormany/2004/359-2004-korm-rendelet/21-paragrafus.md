@@ -8,9 +8,9 @@ b) az irányító hatóság és a közreműködő szervezet irányítási és el
 
 c) az irányító hatóságnál, illetve közreműködő szervezeteinél a strukturális alapok keretében nyújtott támogatások irányítási és ellenőrzési rendszerei tekintetében az 1260/1999/EK tanácsi rendelet végrehajtása részletes szabályainak megállapításáról szóló 438/2001/EK bizottsági rendelet I. mellékletével összhangban lévő, az aktuális folyamatoknak megfelelő ellenőrzési nyomvonal került kialakításra;
 
-d)[^46] a költségnyilatkozatban foglalt költségek elszámolhatók, számlák vagy a gazdasági eseményt hitelesen dokumentáló egyéb bizonylatokkal alátámaszthatók, valamint a vonatkozó nemzeti és közösségi szabályokkal összhangban merültek fel.
+d)[^47] a költségnyilatkozatban foglalt költségek elszámolhatók, számlák vagy a gazdasági eseményt hitelesen dokumentáló egyéb bizonylatokkal alátámaszthatók, valamint a vonatkozó nemzeti és közösségi szabályokkal összhangban merültek fel.
 
-(3)[^47] Az irányító hatóság a hitelesítési tevékenységet a kifizető hatóság által összeállított útmutató alapján végzi.
+(3)[^48] Az irányító hatóság a hitelesítési tevékenységet a kifizető hatóság által összeállított útmutató alapján végzi.
 
-[^46]: A 21. § (2) bekezdés d) pontja a 113/2011. (VII. 7.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^47]: A 21. § (3) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 9. §-a iktatta be.
+[^47]: A 21. § (2) bekezdés d) pontja a 113/2011. (VII. 7.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^48]: A 21. § (3) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 9. §-a iktatta be.

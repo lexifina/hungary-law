@@ -6,7 +6,7 @@
 
 a) A programok tervezéséért, lebonyolításáért és ellenőrzéséért felelős intézmények:
 
-aa)[^1] irányító hatóság: az európai uniós források felhasználásáért felelős miniszter;
+aa)[^1] irányító hatóság: a külgazdasági ügyekért felelős miniszter;
 
 ab)[^2] kifizető hatóság: kincstár;
 
@@ -72,7 +72,7 @@ y)[^12] Likviditás-kezelési útmutató: az adatszolgáltatási és bizonylati 
 
 (3)[^14] Az ellenőrzési nyomvonal, a szabálytalanság, a szabálytalanság gyanúja, a négy szem elve a Nemzeti Fejlesztési Terv operatív programjai, az EQUAL Közösségi Kezdeményezés program és a Kohéziós Alap projektek támogatásainak fogadásához kapcsolódó pénzügyi lebonyolítási, számviteli és ellenőrzési rendszerek kialakításáról szóló 360/2004. (XII. 26.) Korm. rendeletben foglaltak szerint értelmezendők.
 
-[^1]: A 2. § (1) bekezdés a) pont aa) alpontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 27/2014. (II. 7.) Korm. rendelet 4. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 292. § a) pontja szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdés a) pont aa) alpontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 27/2014. (II. 7.) Korm. rendelet 4. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 292. § a) pontja, a 127/2018. (VII. 18.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés a) pontjának ab) alpontja az 550/2013. (XII. 30.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdése a) pontjának ac) alpontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdés a) pont ad) alpontja a 161/2014. (VI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
