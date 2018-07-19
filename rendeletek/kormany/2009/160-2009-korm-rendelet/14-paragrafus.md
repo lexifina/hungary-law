@@ -18,7 +18,7 @@ b) ellenőrzi a vezető partner által benyújtott projekt előrehaladási jelen
 
 (7)[^42] Az Irányító Hatóság havi gyakorisággal gondoskodik a magyar partnereknek juttatott közösségi forrásokról a lebonyolítási fizetési számláról történő kiutalás hónapjában érvényes, az Európai Bizottság által meghatározott havi árfolyamon készült – az Áht. 80. § (2) bekezdése szerinti szabályzatban meghatározott – kiegészítő szelvény megküldéséről a kincstárnak.
 
-(8)[^43] Ha valamely operatív program euró programszámlájának egyenlege nem teszi lehetővé a közösségi hozzájárulás utalását, úgy az Irányító Hatóság az európai uniós források felhasználásáért felelős miniszterrel, az államháztartásért felelős miniszterrel és az Igazoló Hatósággal történő konzultációt követően, a körülményeket és a beavatkozás következményeit egyedileg megvizsgálva és elbírálva, elsősorban likviditási szempontok és a vonatkozó jogszabályok figyelembe vételével dönt az átcsoportosítás szükségességéről és kezdeményezi az átcsoportosítást az Igazoló Hatóságnál.
+(8)[^43] Ha valamely operatív program euró programszámlájának egyenlege nem teszi lehetővé a közösségi hozzájárulás utalását, úgy az Irányító Hatóság a külgazdasági ügyekért felelős miniszterrel, az államháztartásért felelős miniszterrel és az Igazoló Hatósággal történő konzultációt követően, a körülményeket és a beavatkozás következményeit egyedileg megvizsgálva és elbírálva, elsősorban likviditási szempontok és a vonatkozó jogszabályok figyelembe vételével dönt az átcsoportosítás szükségességéről és kezdeményezi az átcsoportosítást az Igazoló Hatóságnál.
 
 [^36]: A 14. §-t megelőző alcím a 137/2010. (IV. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^37]: A 14. § (1) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
@@ -27,4 +27,4 @@ b) ellenőrzi a vezető partner által benyújtott projekt előrehaladási jelen
 [^40]: A 14. § (5) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^41]: A 14. § (6) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^42]: A 14. § (7) bekezdése a 313/2013. (VIII. 27.) Korm. rendelet 1. §-ával megállapított, az 550/2013. (XII. 30.) Korm. rendelet 55. § e) pontja szerint módosított szöveg.
-[^43]: A 14. § (8) bekezdését a 313/2013. (VIII. 27.) Korm. rendelet 1. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 449. § d) pontja szerint módosított szöveg.
+[^43]: A 14. § (8) bekezdését a 313/2013. (VIII. 27.) Korm. rendelet 1. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 449. § d) pontja, a 127/2018. (VII. 18.) Korm. rendelet 4. § (1) bekezdés b) pontja szerint módosított szöveg.

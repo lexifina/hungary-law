@@ -58,7 +58,7 @@
 
 25. vezető partner: több jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság által közösen megvalósítandó projekt esetén a projekt megvalósításának egészéért felelősséget viselő, az Alapokból származó közösségi támogatásban részesülő fél;
 
-26.[^9] irányító hatóságot és a nemzeti hatóságot működtető szervezet: az európai uniós források felhasználásáért felelős miniszter.
+26.[^9] irányító hatóságot és a nemzeti hatóságot működtető szervezet: a külgazdasági ügyekért felelős miniszter.
 
 (2) Az (1) bekezdésben meg nem határozott fogalmak a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjaiból származó támogatások hazai felhasználásának intézményeiről szóló 49/2007. (III. 26.) Korm. rendeletben (a továbbiakban: Kijelölő Rendelet), az 1083/2006/EK rendeletben foglaltak szerint értelmezendők.
 
@@ -70,4 +70,4 @@
 [^6]: A 3. § (1) bekezdés 20. pontja a 304/2011. (XII. 23.) Korm. rendelet 37. §-a szerint módosított szöveg.
 [^7]: A 3. § (1) bekezdés 21a. pontját a 341/2015. (XI. 10.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^8]: A 3. § (1) bekezdés 22. pontja a 341/2015. (XI. 10.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^9]: A 3. § (1) bekezdés 26. pontját az 550/2013. (XII. 30.) Korm. rendelet 49. §-a iktatta be, szövege a 27/2013. (II. 7.) Korm. rendelet 7. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 449. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdés 26. pontját az 550/2013. (XII. 30.) Korm. rendelet 49. §-a iktatta be, szövege a 27/2013. (II. 7.) Korm. rendelet 7. §-ával megállapított, a 127/2018. (VII. 18.) Korm. rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg.
