@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-238-20-
 | 2016-06-08 | 2015-238-20-22.2 | 128/2016. (VI. 7.) Korm. rendelet |
 | 2017-04-04 | 2015-238-20-22.3 | 77/2017. (IV. 3.) Korm. rendelet |
 | 2018-04-21 | 2015-238-20-22.4 | 84/2018. (IV. 20.) Korm. rendelet |
+| 2018-07-19 | 2015-238-20-22.5 | 127/2018. (VII. 18.) Korm. rendelet |
