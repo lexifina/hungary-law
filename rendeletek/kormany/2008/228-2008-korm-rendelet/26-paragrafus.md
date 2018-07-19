@@ -1,4 +1,4 @@
-## 25. §[^93] Rendszerjellegű szabálytalanság megállapításáról a szabálytalansági vizsgálatot lefolytató szervezet szabálytalanság-felelőse köteles a szervezet belső ellenőrzések lefolytatásáért felelős szervezeti egységét, a Közös Irányító Hatóságot, a nemzeti hatóságot és a Miniszterelnökséget 5 munkanapon belül értesíteni.
+## 25. §[^93] Rendszerjellegű szabálytalanság megállapításáról a szabálytalansági vizsgálatot lefolytató szervezet szabálytalanság-felelőse köteles a szervezet belső ellenőrzések lefolytatásáért felelős szervezeti egységét, a Közös Irányító Hatóságot, a nemzeti hatóságot és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium felelős szervezeti egységét 5 munkanapon belül értesíteni.
 
 26. §[^94] (1)[^95] A Közös Irányító Hatóság és a nemzeti hatóság köteles gondoskodni a már kifizetett, de szabálytalanul felhasznált támogatási összegeknek a Kedvezményezettektől, illetve a partnerektől történő behajtásáról. A behajtott összeg közösségi hozzájárulási részét a lebonyolítási számlán történő jóváírásról szóló fizetési számla kivonat kézhezvételét követő 5 munkanapon belül a közös programszámlára kell visszautalni. A behajtott összeg hazai társfinanszírozási részét pedig a lebonyolítási számlán történő jóváírásról szóló fizetési számla kivonat kézhezvételét követő 5 munkanapon belül az előirányzat-felhasználási keretszámlára kell visszautalni.
 
@@ -6,7 +6,7 @@
 
 (3) Amennyiben a szabálytalanságban érintett összegeket az operatív program zárásáig nem sikerült behajtani, akkor a behajtásra tett kísérletek és intézkedések valamennyi dokumentációját a Közös Irányító Hatóság és a nemzeti hatóság legalább az operatív program zárását követő hetedik év végéig megőrzi.
 
-[^93]: A 25. § a 160/2009. (VIII. 3.) Korm. rendelet 58. §-ával megállapított, a 312/2013. (VIII. 27.) Korm. rendelet 15. § 21. pontja, az 550/2013. (XII. 30.) Korm. rendelet 37. § l) pontja szerint módosított szöveg.
+[^93]: A 25. § a 160/2009. (VIII. 3.) Korm. rendelet 58. §-ával megállapított, a 312/2013. (VIII. 27.) Korm. rendelet 15. § 21. pontja, az 550/2013. (XII. 30.) Korm. rendelet 37. § l) pontja, a 127/2018. (VII. 18.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^94]: A 26. § a 160/2009. (VIII. 3.) Korm. rendelet 58. §-ával megállapított szöveg. E módosító rendelet 61. § (3) bekezdése alapján a rendelkezést a 2009. augusztus 6. napját követően megindított szabálytalansági vizsgálatokra kell alkalmazni.
 [^95]: A 26. § (1) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 57. § (2) bekezdése, a 312/2013. (VIII. 27.) Korm. rendelet 15. § 22. pontja szerint módosított szöveg.
 [^96]: A 26. § (2) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 57. § (2) bekezdése, a 312/2013. (VIII. 27.) Korm. rendelet 15. § 23. pontja, a 175/2015. (VII. 7.) Korm. rendelet 59. §-a szerint módosított szöveg.
