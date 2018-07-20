@@ -1,4 +1,4 @@
-## 7. § Hatályát veszti a nemzeti fejlesztési miniszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 18/2015. (IV. 10.) NFM rendelet 1. melléklet C) rész 1. pontja.
+## 7. §[^1]
 
 1. melléklet a 2/2018. (VII. 18.) NVTNM rendelethez
 
@@ -21,3 +21,5 @@
 1.6. a személyügyi feladatokat ellátó szervezeti egység valamennyi munkaköre
 
 1.7. az informatikai feladatokat ellátó szervezeti egység valamennyi munkaköre
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
