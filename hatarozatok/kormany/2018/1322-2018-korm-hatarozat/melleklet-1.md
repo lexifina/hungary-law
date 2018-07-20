@@ -10,9 +10,9 @@
 
 ## Határidő: 2018. augusztus 31.
 
-## 2. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:12 mezőjében a „0,40” szövegrész helyébe a „0,68” szöveg lép.
+## 2.[^1]
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat G:12 mezőjében a „szemléletformálási program megvalósítása” szövegrész helyébe a „szemléletformálási program megvalósítása, illetve a Duna Múzeum megújítása” szöveg lép.
+## 3.[^2]
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -23,3 +23,6 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó, Ft) | Többlettámogatás legfeljebb (bruttó, Ft) | Megnövelt támogatás legfeljebb (bruttó, Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-1.2.0-15- 2016-00001 | Klímastratégia kidolgozásához kapcsolódó módszertan- és kapacitásfejlesztés, valamint szemléletformálás | Klímabarát Települések Szövetsége (konzorciumvezető), Országos Vízügyi Főigazgatóság | 399 326 140 | 280 000 000 | 679 326 140 | A projekt célja a klímaváltozás jelentőségének, a térségi és helyi döntéshozói szint felelősségének hangsúlyozása. A projekt keretében szemléletformálás, valamint a megyei és helyi önkormányzatok számára a klímastratégia-készítéshez módszertan kidolgozása és tanácsadás valósul meg, valamint megújul a Duna Múzeum. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
