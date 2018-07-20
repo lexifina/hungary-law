@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Turisztikai Világszervezet és Magyarország Kormánya között a Turizmus Világnap központi rendezvénye Budapesten történő megrendezéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
