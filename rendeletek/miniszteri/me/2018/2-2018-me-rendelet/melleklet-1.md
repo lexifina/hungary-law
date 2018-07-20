@@ -1,5 +1,3 @@
-## 7. § Hatályát veszti a Miniszterelnökséget vezető miniszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 19/2015. (IV. 10.) MvM rendelet 1. melléklet B) rész 3. pontja.
-
 1. melléklet a 2/2018. (VII. 18.) ME rendelethez
 
 ## A nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
