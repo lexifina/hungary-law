@@ -1,0 +1,5 @@
+3. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 1. § és a 2. § a Jegyzőkönyv 4. Cikk 2. bekezdésében meghatározott időpontban lép hatályba.
+
+(3) A Jegyzőkönyv, valamint az 1. § és a 2. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
