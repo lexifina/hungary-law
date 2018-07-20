@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és annak tagállamai, másrészről Ausztrália közötti Keretmegállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
