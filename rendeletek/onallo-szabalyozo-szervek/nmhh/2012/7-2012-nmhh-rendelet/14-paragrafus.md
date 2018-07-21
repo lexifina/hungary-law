@@ -26,7 +26,7 @@ l) a rádióengedély érvényességi idejét;
 
 m) a frekvenciadíj mértékét és fizetési gyakoriságát;
 
-n)[^44] a frekvenciadíj megfizetésére kötelezett természetes személy személyazonosító és lakcím adatait, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetében a szervezet-nyilvántartási adatokat, ha azok eltérőek az engedélyesétől;
+n)[^44] a frekvenciadíj megfizetésére kötelezett természetes személy személyazonosító és lakcím adatait, valamint adóazonosító jelét jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetében a szervezet-nyilvántartási adatokat, ha azok eltérőek az engedélyesétől;
 
 o) az üzemeltetés és a szüneteltetés időtartamát, továbbá
 
@@ -43,6 +43,6 @@ q)[^45] analóg lineáris rádiós médiaszolgáltatáshoz kapcsolódó kiegész
 (5) Az (1) bekezdés a) pontja szerinti adatokban beálló változást annak bekövetkezésétől számított harminc napon belül be kell jelenteni a megváltozott adat egyidejű igazolásával.
 
 [^43]: A 14. § (1) bekezdés a) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 9. pontja szerint módosított szöveg.
-[^44]: A 14. § (1) bekezdés n) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 9. pontja szerint módosított szöveg.
+[^44]: A 14. § (1) bekezdés n) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 9. pontja, a 2/2018. (VI. 21.) NMHH rendelet 8. §-a szerint módosított szöveg.
 [^45]: A 14. § (1) bekezdés q) pontját a 14/2012. (IX. 28.) NMHH rendelet 4. §-a iktatta be.
 [^46]: A 14. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 28. §-ával megállapított szöveg.
