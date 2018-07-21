@@ -8,4 +8,6 @@
 
 (4) Vizsgabizonyítvánnyal nem rendelkező, vizsgára készülő személy CEPT fokozatú amatőr engedéllyel rendelkező oktató közvetlen irányítása mellett, az oktató vagy a közösségi amatőrállomás hívójelét használva, tanulási céllal forgalmazhat.
 
-(5) Egy irányító kezelő – az átjátszó és jeladó állomások kivételével – egyetlen közösségi amatőrállomáson láthat el irányító kezelői feladatot.
+(5)[^3]
+
+[^3]: A 3. § (5) bekezdését a 2/2018. (VI. 21.) NMHH rendelet 7. § a) pontja hatályon kívül helyezte.

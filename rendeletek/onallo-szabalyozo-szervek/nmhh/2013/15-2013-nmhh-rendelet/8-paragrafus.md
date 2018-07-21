@@ -28,7 +28,7 @@ egyéni amatőr engedélyt kaphat.
 
 (7) Az a rádióamatőr, akinek külföldön kiállított amatőr engedélye nem „Entry Licence”, nem „CEPT Novice Licence” és nem „CEPT Licence” fokozatú, évente legfeljebb három hónap időtartamra amatőrállomás üzemben tartására jogosító, CEPT Novice fokozatú egyéni amatőr engedélyt kaphat.
 
-(8)[^4] Az amatőr engedély kiadásához frekvenciakijelölés nem szükséges. Az amatőr engedély fokozata alapján használható frekvenciasávokat és adásjellemzőket az NFFF tartalmazza.
+(8)[^7] Az amatőr engedély kiadásához frekvenciakijelölés nem szükséges. Az amatőr engedély fokozata alapján használható frekvenciasávokat és adásjellemzőket az NFFF tartalmazza.
 
 (9) A külföldön kiállított, „CEPT Novice Licence” és „CEPT Licence” fokozatú amatőr engedéllyel rendelkező rádióamatőr Magyarországon a CEPT Novice, illetve CEPT fokozatú amatőr engedélyre vonatkozó sugárzási feltételekkel üzemeltetheti amatőrállomását.
 
@@ -42,4 +42,4 @@ a) a CEPT T/R 61-01 Ajánlás „A CEPT engedély és a CEPT országok nemzeti e
 
 b) a CEPT ECC/REC/(05)06 Ajánlás „A CEPT Novice engedély és a CEPT országok nemzeti Novice engedélyei közötti megfelelőségi táblázat” című II. függeléke 2. oszlopának tartalmát, valamint „A nem CEPT országok nemzeti Novice engedélyei és a CEPT Novice engedély közötti megfelelőségi táblázat, valamint a CEPT igazgatások által a jelen ajánlásnak megfelelően kibocsátott Novice engedélyek tulajdonosaira érvényes működési jogosultságok nem CEPT országokban” című IV. függeléke 2. és 4. oszlopának tartalmát.
 
-[^4]: A 8. § (8) bekezdése a 2/2016. (II. 26.) NMHH rendelet 34. § b) pontja szerint módosított szöveg.
+[^7]: A 8. § (8) bekezdése a 2/2016. (II. 26.) NMHH rendelet 34. § b) pontja szerint módosított szöveg.

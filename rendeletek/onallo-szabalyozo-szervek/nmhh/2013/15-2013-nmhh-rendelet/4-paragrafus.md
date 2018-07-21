@@ -28,10 +28,10 @@ f) a rádióforgalmi versenyen működtetett amatőrállomás (a továbbiakban: 
 
 g) a nemzeti ünnep, történelmi évforduló, közismert személyről való megemlékezés, vagy egyéb rendezvény alkalmából működtetett amatőrállomás (a továbbiakban együtt: alkalmi amatőrállomás).
 
-(5) Az amatőrállomás vagy annak fő berendezése
+(5)[^4] Az amatőrállomás vagy annak fő berendezése
 
-a)[^3] a rádióberendezésekről szóló NMHH rendeletnek megfelelően kereskedelmi forgalomba hozott rádióberendezés vagy annak része, vagy
+a) a rádióberendezésekről szóló NMHH rendeletnek megfelelően kereskedelmi forgalomba hozott rádióberendezés vagy annak része, vagy
 
-b) rádióamatőr által, rádióamatőr számára épített vagy átalakított berendezés lehet.
+b) CEPT NOVICE vagy CEPT HAREC fokozatú rádióamatőr engedéllyel rendelkező rádióamatőr által vagy rádióamatőr számára épített vagy átalakított berendezés
 
-[^3]: A 4. § (5) bekezdés a) pontja a 2/2017. (I. 17.) NMHH rendelet 25. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 21. §-át.
+[^4]: A 4. § (5) bekezdése a 2/2018. (VI. 21.) NMHH rendelet 3. §-ával megállapított szöveg.

@@ -22,10 +22,13 @@
 
 (11) A megszűnt egyéni amatőr engedélyhez tartozó hívójel más kérelmező számára
 
-a) Kezdő és CEPT Novice fokozatú engedély esetén 5 év,
+a)[^12] Kezdő és CEPT Novice fokozatú engedély esetén 10 év,
 
-b) CEPT fokozatú engedély esetén 5 év
+b)[^13] CEPT fokozatú engedély esetén 10 év
 
 elteltével jelölhető ki újra.
 
 (12) A hívójel karakterei az angol abc karakterkészletéből és számokból állnak.
+
+[^12]: A 12. § (11) bekezdés a) pontja a 2/2018. (VI. 21.) NMHH rendelet 5. § 3. pontja szerint módosított szöveg.
+[^13]: A 12. § (11) bekezdés b) pontja a 2/2018. (VI. 21.) NMHH rendelet 5. § 3. pontja szerint módosított szöveg.
