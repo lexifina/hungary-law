@@ -1,3 +1,5 @@
 ## 11. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-12. § Hatályát veszti a honvédelmi foglalkoztatókkal kapcsolatos munkaügyi hatósági tevékenység sajátos szabályairól szóló 11/2016. (VII. 4.) HM rendelet.
+12. §[^2]
+
+[^2]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

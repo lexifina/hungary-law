@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-11-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-07-20 | 2018-11-20-15.1 | 11/2018. (VII. 19.) HM rendelet |
+| 2018-07-21 | 2018-11-20-15.2 | 117/2021. (III. 10.) Korm. rendelet |
