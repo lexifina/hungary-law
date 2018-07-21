@@ -6,9 +6,9 @@
 
 (3)[^51] Rendszeres díjfizetési kötelezettség esetében – a (4) és a (4a) bekezdésben foglalt kivétellel – havonta történik a számlázás.
 
-(4)[^52] Ha a rádiószolgálatonként havonta fizetendő díj összege a nettó 10 000 Ft-ot nem éri el, a frekvenciadíjról számlát negyedévenként, legkésőbb a tárgynegyedév utolsó napjáig kell kiállítani. A negyedéves frekvenciadíjat az engedély érvényességi idejének első és utolsó negyedévében, valamint az engedély módosításakor, negyedévnél rövidebb számlázási időszak esetén időarányosan kell megfizetni.
+(4)[^52] Ha a rádiószolgálatonként havonta fizetendő díj összege a nettó 50 000 Ft-ot nem éri el, a frekvenciadíjról számlát negyedévenként, legkésőbb a tárgynegyedév utolsó napjáig kell kiállítani. A negyedéves frekvenciadíjat az engedély érvényességi idejének első és utolsó negyedévében, valamint az engedély módosításakor, negyedévnél rövidebb számlázási időszak esetén időarányosan kell megfizetni.
 
-(4a)[^53] Ha a rádiószolgálatonként negyedévente fizetendő frekvenciadíj összege a nettó 12 000 Ft-ot nem haladja meg, a frekvenciadíjról számlát évenként, legkésőbb a tárgyév első hónapjának utolsó napjáig kell kiállítani. Az éves frekvenciadíjat az engedély érvényességi idejének első és utolsó évében, valamint az engedély módosításakor, egy évnél rövidebb számlázási időszak esetén időarányosan kell megfizetni. Az év közben kifizetett frekvenciadíj-többletet a hatóság jóváírja a díjfizetésre kötelezett részére. Ha a módosítás eredményeként a díjfizetésre kötelezettnek nem keletkezik további fizetési kötelezettsége, a frekvenciadíj-többletet a hatóság visszautalja a díjfizetésre kötelezett részére.
+(4a)[^53]
 
 (5)[^54] Rádióengedély módosítása esetén a módosított díjfizetési kötelezettség a rádióengedély módosításában meghatározott időponttól, de legkésőbb a rádióengedély módosításának véglegessé válását követő hónap első napjától terheli a díjfizetésre kötelezettet.
 
@@ -19,7 +19,7 @@
 [^49]: A 20/A. § (1) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 13. pont a) alpontja szerint módosított szöveg.
 [^50]: A 20/A. § (2) bekezdése a 2/2016. (II. 26.) NMHH rendelet 9. § (1) bekezdésével megállapított, a 13/2017. (XII. 29.) NMHH rendelet 1. § b) pontja szerint módosított szöveg.
 [^51]: A 20/A. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 13. pont b) alpontja szerint módosított szöveg.
-[^52]: A 20/A. § (4) bekezdése a 2/2016. (II. 26.) NMHH rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^53]: A 20/A. § (4a) bekezdését a 2/2016. (II. 26.) NMHH rendelet 9. § (3) bekezdése iktatta be.
+[^52]: A 20/A. § (4) bekezdése a 2/2016. (II. 26.) NMHH rendelet 9. § (2) bekezdésével megállapított, a 2/2018. (VI. 21.) NMHH rendelet 9. §-a szerint módosított szöveg.
+[^53]: A 20/A. § (4a) bekezdését a 2/2016. (II. 26.) NMHH rendelet 9. § (3) bekezdése iktatta be, hatályon kívül helyezte a 2/2018. (VI. 21.) NMHH rendelet 10. §-a.
 [^54]: A 20/A. § (5) bekezdése a 2/2016. (II. 26.) NMHH rendelet 11. § 13. pont c) alpontja, a 13/2017. (XII. 29.) NMHH rendelet 1. § c) pontja szerint módosított szöveg.
 [^55]: A 20/A. § (6) bekezdése a 2/2016. (II. 26.) NMHH rendelet 9. § (4) bekezdésével megállapított szöveg.
