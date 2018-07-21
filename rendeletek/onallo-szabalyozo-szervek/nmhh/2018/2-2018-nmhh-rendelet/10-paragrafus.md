@@ -1,0 +1,1 @@
+## 9. § A frekvencialekötés és -használat díjáról szóló 1/2011. (III. 31.) NMHH rendelet (a továbbiakban: R2.) 20/A. § (4) bekezdésében a „10 000 Ft-ot” szövegrész helyébe az „50 000 Ft-ot” szöveg lép.
