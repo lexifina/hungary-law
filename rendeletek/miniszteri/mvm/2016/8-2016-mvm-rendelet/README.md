@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-8-20-6N
 | 2017-11-01 | 2016-8-20-6N.9 | 14/2017. (IV. 18.) MvM rendelet |
 | 2018-02-16 | 2016-8-20-6N.10 | 4/2018. (II. 15.) MvM rendelet |
 | 2018-03-29 | 2016-8-20-6N.11 | 7/2018. (III. 28.) MvM rendelet |
+| 2018-07-21 | 2016-8-20-6N.12 | 9/2018. (VII. 20.) MvM rendelet |

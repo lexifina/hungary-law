@@ -8,7 +8,11 @@
 
 (3)[^3] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet lebonyolító szervek igénybevételével kapcsolatos és egyéb módosításáról szóló 7/2018. (III. 28.) MvM rendelettel (a továbbiakban: Módr1.) módosított rendelkezéseit a Módr1. hatálybalépése[^4] napján folyamatban levő ügyekben is alkalmazni kell.
 
+(4)[^5] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelettel összefüggő módosításáról szóló 9/2018. (VII. 20.) MvM rendelettel (a továbbiakban: Módr2.) módosított rendelkezéseit a Módr2. hatálybalépése[^6] napján folyamatban lévő ügyekben is alkalmazni kell.
+
 [^1]: A 42. § (2) bekezdését a 4/2018. (II. 15.) MvM rendelet 3. §-a iktatta be.
 [^2]: A hatálybalépés időpontja 2018. február 16.
 [^3]: A 42. § (3) bekezdését a 7/2018. (III. 28.) MvM rendelet 1. §-a iktatta be.
 [^4]: A hatálybalépés napja 2018. március 29.
+[^5]: A 42. § (4) bekezdését a 9/2018. (VII. 20.) MvM rendelet 1. §-a iktatta be.
+[^6]: A hatálybalépés időpontja 2018. július 21.
