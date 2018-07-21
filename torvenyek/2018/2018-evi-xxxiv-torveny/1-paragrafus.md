@@ -1,0 +1,1 @@
+1. § Az Országgyűlés a 2016. évi CV. törvénnyel kihirdetett, a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (a továbbiakban: SzMGSz) és az SzMGSz 1., 3., 5. és 6. számú Mellékletének módosításait e törvénnyel kihirdeti.
