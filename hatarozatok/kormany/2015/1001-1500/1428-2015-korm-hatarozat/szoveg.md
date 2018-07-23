@@ -42,9 +42,9 @@ Határidő: azonnal
 
 4.[^1] továbbra is támogatja a verseny- és szabadidősport feltételeit javító, a rekreációs lehetőségek bővítését és az érintett városrész környezetének rehabilitációját szolgáló sport- és rekreációs célú városi fejlesztések megvalósítását, ennek keretében
 
-a) egyetért – a Szolnoki Atlétikai Centrum megvalósítását szolgáló támogatás mellett – további 1 milliárd forint támogatás biztosításával a Véső úti strand- és sporttelep fejlesztésére,
+a)[^2] egyetért – a Szolnoki Atlétikai Centrum megvalósítását szolgáló támogatás mellett – a Véső úti Sporttelep és Strandfürdő fejlesztésével,
 
-b) felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy gondoskodjanak az a) alpont szerinti támogatás biztosításához szükséges intézkedések megtételéről;
+b)[^3] felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy gondoskodjanak az a szükséges támogatás biztosításához szükséges intézkedések megtételéről;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -75,3 +75,5 @@ Miniszterelnökséget vezető miniszter
 Határidő: azonnal
 
 [^1]: A 4. pont az 1734/2015. (X. 8.) Korm. határozat 14. pontja szerint módosított szöveg.
+[^2]: A 4. pont a) alpontja az 1333/2018. (VII. 23.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^3]: A 4. pont b) alpontja az 1333/2018. (VII. 23.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
