@@ -1,0 +1,33 @@
+1. A Kormány – figyelemmel a Magyarország Kormánya és Szolnok Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1428/2015. (VI. 25.) Korm. határozat 4. pontjára –
+
+1.1. egyetért a Modern Városok Program keretében a szolnoki Véső úti sporttelep és strandfürdő fejlesztése Szolnok Megyei Jogú Város Önkormányzata (a továbbiakban: Önkormányzat) általi megvalósításával (a továbbiakban: Beruházás) és azzal, hogy a Beruházás 1 459 318 895 forint összegű költségvetési támogatással valósuljon meg az alábbi költségvetési évek szerinti bontásban:
+
+a) a 2018. évben 750 377 087 forint,
+
+b) a 2019. évben 708 941 808 forint;
+
+1.2. egyetért azzal, hogy a Beruházás megvalósításához a Miniszterelnökséget vezető miniszter az Önkormányzatnak a Modern Városok Program megvalósításáról szóló 250/2016. (VIII. 24.) Korm. rendelet 6. § (2) bekezdés a) pontja, valamint c) pont ca) alpontja szerinti támogatási kérelme alapján 1 459 318 895 forint költségvetési támogatást biztosítson az Önkormányzat részére az 1.1. pont szerinti évenkénti ütemezés szerint, és ennek érdekében a költségvetési támogatás felhasználását, valamint az elszámolásának részletes feltételeit meghatározó támogatói okiratot adjon ki, és a támogatói okirat kiadását követően a költségvetési támogatásból 750 377 087 forintot a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére az Önkormányzat részére támogatási előlegként folyósítson;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: felmerülés ütemében
+
+1.3. felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon a Beruházás megvalósításához a 2019. költségvetési évben szükséges legfeljebb 708 941 808 forint biztosításáról a 2019. évi központi költségvetés XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére az Önkormányzat részére támogatási előlegként;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: felmerülés ütemében
+
+1.4. felhívja a Miniszterelnökséget vezető minisztert, hogy a Beruházás tekintetében a Beruházást finanszírozó támogatás nyújtása során gondoskodjon arról, hogy az Önkormányzat kötelezettséget vállaljon az állami beruházások központi nyilvántartásáról és ellenőrzéséről szóló 1830/2016. (XII. 23.) Korm. határozat 3. pontjában foglaltak teljesítésére.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: a támogatói okirat kiadásakor
+
+2. A Magyarország Kormánya és Szolnok Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1428/2015. (VI. 25.) Korm. határozat
+
+a) 4. pont a) alpontjában a „további 1 milliárd forint támogatás biztosításával a Véső úti strand- és sporttelep fejlesztésére” szövegrész helyébe az „a Véső úti Sporttelep és Strandfürdő fejlesztésével” szöveg,
+
+b) 4. pont b) alpontjában az „a) alpont szerinti” szövegrész helyébe az „a szükséges” szöveg
+
+lép.
