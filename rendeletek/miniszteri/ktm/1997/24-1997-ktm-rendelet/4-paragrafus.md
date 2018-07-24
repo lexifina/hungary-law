@@ -54,9 +54,9 @@ A Megyer-hegyi Tengerszem Természetvédelmi Terület természetvédelmi kezelé
 
 – A területen tilos a táborozás, tüzet gyújtani csak a kijelölt helyen szabad.
 
-3.1.5. Kutatás, vizsgálatok
+3.1.5.[^5] Kutatás, vizsgálatok
 
-– Engedélyezett kutatási tevékenység csak a Bükki Nemzeti Park Igazgatósággal (a továbbiakban: igazgatóság) egyeztetett módon végezhető.
+– Engedélyezett kutatási tevékenység csak az Aggteleki Nemzeti Park Igazgatósággal (a továbbiakban: igazgatóság) egyeztetett módon végezhető.
 
 – A kutatás eredményeit tartalmazó kutatási jelentés egy példányát át kell adni az igazgatóság részére.
 
@@ -77,3 +77,4 @@ A Megyer-hegyi Tengerszem Természetvédelmi Terület természetvédelmi kezelé
 – Gépjárművel való közlekedés csak a természetvédelmi kezeléssel összefüggésben lehetséges a területen.
 
 [^4]: A mellékletet a 29/2008. (XII. 10.) KvVM rendelet 3. §-a iktatta be.
+[^5]: A Melléklet 3.1.5. pontja a 17/2018. (VII. 16.) AM rendelet 2. § (2) bekezdése szerint módosított szöveg.
