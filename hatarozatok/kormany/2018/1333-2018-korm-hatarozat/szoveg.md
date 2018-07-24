@@ -24,10 +24,6 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a támogatói okirat kiadásakor
 
-2. A Magyarország Kormánya és Szolnok Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1428/2015. (VI. 25.) Korm. határozat
+2.[^1]
 
-a) 4. pont a) alpontjában a „további 1 milliárd forint támogatás biztosításával a Véső úti strand- és sporttelep fejlesztésére” szövegrész helyébe az „a Véső úti Sporttelep és Strandfürdő fejlesztésével” szöveg,
-
-b) 4. pont b) alpontjában az „a) alpont szerinti” szövegrész helyébe az „a szükséges” szöveg
-
-lép.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
