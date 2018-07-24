@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás (a továbbiakban: Megállapodás) módosításáról szóló jegyzékváltással létrejött egyezmény (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
