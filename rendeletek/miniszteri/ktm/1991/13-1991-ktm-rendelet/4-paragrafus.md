@@ -62,7 +62,11 @@ természeti emlékek területi lehatárolása és elhelyezkedése
 
 | 23 | Vermek-dombja földtani alapszelvény természeti emlék | Pz-36 | Rakacaszend | 046/1a hrsz.-ból az Y782999,X346626; Y783020,X346670; Y783050,X346561 EOV koordináták által kijelölt vonaltól D-re eső 0,2790 ha kiterjedésű rész | 0,2790 |
 
+| 24 | Rakaca-nyugat földtani alapszelvény természeti emlék | Pz-30-4 | Rakaca | 093/1 hrsz.-ból az Y783930 X347320 Y783927 X347350 Y783977 X347370 Y784012 X347331 Y784000 X347228 EOV koordináták, az Y783963 X347205 Y783930 X347320 EOV koordináták között a földrészlet határa által lehatárolt 1,0319 ha kiterjedésű rész | 1,0319 |
+
+| 25 | Vizsolyi-kőfejtő földtani képződményei természeti emlék | – | Vizsoly | 04/a | 0,6228 |
+
 A mellékletben aláhúzással jelölt ingatlanok az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló 14/2010. (V. 11.) KvVM rendelet alapján európai közösségi jelentőségű természetvédelmi rendeltetésű területek.
 
 [^3]: A 3. § az 55/2015. (IX. 18.) FM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^4]: A Melléklet az 55/2015. (IX. 18.) FM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^4]: A Melléklet az 55/2015. (IX. 18.) FM rendelet 6. § (3) bekezdésével megállapított, a 17/2018. (VII. 16.) AM rendelet 1. §-a szerint módosított szöveg.
