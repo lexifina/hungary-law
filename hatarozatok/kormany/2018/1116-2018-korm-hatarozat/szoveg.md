@@ -2,7 +2,7 @@ A Kormány
 
 1. a Magyarország Kormánya és a Magyarországi Református Egyház közötti Megállapodás megújításáról és az azzal összefüggő feladatokról szóló 1821/2017. (XI. 9.) Korm. határozat alapján vállalja és támogatja
 
-a) hogy a kórházak és egészségügyi intézmények alkalmazásában lelkészi szolgálatot végzők számára a (felsőfokú) végzettségüknek megfelelő valamennyi állami juttatás az intézményekben más, egészségügyi dolgozóként alkalmazásban állóhoz hasonló mértékben biztosítva legyen,
+a)[^1] hogy a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatóknál lelkészi, illetve lelkigondozói szolgálatot végzők számára a (felsőfokú) végzettségüknek megfelelő valamennyi állami juttatás a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatóknál más, nem ágazatspecifikus munkakörben alkalmazott egészségügyben dolgozókhoz hasonló mértékben biztosítva legyen,
 
 b) a külhoni és diaszpórában élő magyarság identitása, valamint kultúrája megőrzésére és fejlesztésére irányuló hitéleti, közösségszervezési, szemléletformáló, illetve tradíciómegtartó és -ápoló tevékenységet,
 
@@ -33,3 +33,5 @@ Felelős: nemzetgazdasági miniszter
 emberi erőforrások minisztere
 
 Határidő: 2018. április 15.
+
+[^1]: Az 1. pont a) alpontja az 1341/2018. (VII. 25.) Korm. határozattal megállapított szöveg.
