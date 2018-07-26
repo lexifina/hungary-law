@@ -12,6 +12,6 @@ d) szervezeti és vezetési ismeretek,
 
 e) számvitel és elemzés,
 
-f) számviteli információs rendszerek,
+f) könyvvizsgálat és ellenőrzés,
 
-g) könyvvizsgálat és ellenőrzés.
+g) pénzügyi és számviteli információs rendszerek.

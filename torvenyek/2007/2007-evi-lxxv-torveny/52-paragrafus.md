@@ -18,4 +18,4 @@ f) a Magyar Nemzeti Bank a tőkepiacról szóló törvény, a biztosítási tev�
 
 (2b) A (2a) bekezdés szerinti felfüggesztésről és a minősítés visszavonásáról a közfelügyeleti hatóság értesíti a kamarát.
 
-(3) A minősítés visszavonása esetén a kamarai nyilvántartásokban szereplő adatokat megfelelően módosítani kell, egyidejűleg vissza kell vonni az 50. § (6) bekezdése szerinti igazolást is.
+(3) A minősítés visszavonása esetén a kamarai nyilvántartásokban szereplő adatokat megfelelően módosítani kell,.

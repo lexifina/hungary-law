@@ -2,7 +2,7 @@
 
 a) a kamarai tagfelvételről és a kamarai tagság megszűnéséről, a kamarai tag könyvvizsgálók nyilvántartásába történő bejegyzésről és a nyilvántartásból történő törlésről,
 
-b) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gazdálkodó szervezetek (szervezetek) számára történő engedélyezéséről és az engedély megszűnéséről, a könyvvizsgáló cégek nyilvántartásába történő felvételről és a nyilvántartásból történő törlésről,
+b) a könyvvizsgáló cégek nyilvántartásába történő felvételről és a nyilvántartásból történő törlésről,
 
 c) a küldöttgyűlésben és a kamara elnökségében a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátását szüneteltető kamarai tag könyvvizsgálókat képviselő személyek választásáról, illetve visszahívásáról,
 

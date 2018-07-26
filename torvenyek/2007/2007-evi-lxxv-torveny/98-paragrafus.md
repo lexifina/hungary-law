@@ -1,6 +1,6 @@
 98. § (1) A könyvvizsgáló jelöltek névjegyzékébe – kérelmére – fel kell venni azt, aki teljesíti az alábbiakat:
 
-a) megfelel a 11. § (1) bekezdésének b) pontjában meghatározott feltételeknek,
+a) rendelkezik okleveles könyvvizsgálói szakképesítéssel,
 
 b) nem esik a 9/H. §-ban meghatározott kizáró ok alá,
 

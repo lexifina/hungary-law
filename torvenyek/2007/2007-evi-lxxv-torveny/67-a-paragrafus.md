@@ -6,7 +6,7 @@
 
 (2) A Rendelet 5. cikk (1) bekezdésében foglaltaktól eltérően az 5. cikk (3) bekezdésben meghatározott szolgáltatások az abban foglalt feltételek fennállása esetén nyújthatóak.
 
-(3) A közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a Rendelet 11. cikk szerinti, audit bizottsághoz címzett kiegészítő jelentést meg kell küldenie a vizsgált gazdálkodó igazgató tanácsa és felügyelő testülete részére.
+(3) A közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a Rendelet 11. cikk szerinti, audit bizottsághoz címzett kiegészítő jelentést meg kell küldenie a vizsgált gazdálkodó igazgató tanácsa, felügyelő testülete részére, valamint a közfelügyeleti hatóság elektronikus elérhetőségére.
 
 (4) A közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló vagy a könyvvizsgáló cég évente december 31-ig tájékoztatja a közfelügyeleti hatóságot a december 31-én hatályban lévő, közérdeklődésre számot tartó gazdálkodóval kötött jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó megbízásairól.
 

@@ -8,7 +8,7 @@ a) a felsőoktatásról szóló törvény szerint Magyarországon államilag eli
 
 b) mérlegképes könyvelői vagy azzal egyenértékű szakképesítéssel rendelkezik és szakképesítését oklevéllel, bizonyítvánnyal igazolja,
 
-c) számviteli, pénzügyi, ellenőrzési szakterületen az a) pont szerinti végzettség megszerzését követően, de a felvételi kérelmének benyújtását megelőző három éven belül teljesített, legalább egy éves, igazolt szakmai gyakorlattal rendelkezik,
+c)
 
 d) nem áll fenn vele szemben a 9/H. § a) pontjában meghatározott kizáró ok,
 

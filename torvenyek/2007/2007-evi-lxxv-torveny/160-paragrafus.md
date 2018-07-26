@@ -10,7 +10,7 @@ d) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenysége te
 
 (2) A minőségellenőrnek rendelkeznie kell a 49. § szerinti megfelelő minősítéssel is, ha olyan gazdálkodó tekintetében ellátott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó kamarai minőségellenőrzésben vesz részt, amely esetében csak minősített kamarai tag könyvvizsgáló vagy könyvvizsgáló cég végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet. Ilyen esetben a minősítés megszerzése és a kamarai minőségellenőrzésben való részvétel között legalább három évnek kell eltelnie.
 
-(3) A minőségellenőrnek az érintett gazdálkodó tevékenységéhez igazodó szakmai képesítéssel és ennek megfelelő, a kamarai minőségellenőrzésben való részvételt megelőzően megszerzett legalább hatéves szakmai gyakorlattal kell rendelkeznie, ha a (2) bekezdés hatálya alá nem tartozó egyéb, sajátos feladatokat végző gazdálkodó tekintetében ellátott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó kamarai minőségellenőrzésben vesz részt.
+(3) A minőségellenőrnek az érintett gazdálkodó tevékenységéhez igazodó, legalább hároméves szakmai gyakorlattal kell rendelkeznie, ha a (2) bekezdés hatálya alá nem tartozó egyéb, sajátos tevékenységet végző gazdálkodó tekintetében ellátott, jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó kamarai minőségellenőrzésben vesz részt.
 
 (4) A bizottság tagjai és a minőségellenőrök nem lehetnek egymásnak közeli hozzátartozói.
 

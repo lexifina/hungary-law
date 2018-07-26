@@ -8,4 +8,6 @@ b) a 35. § szerinti engedélyezési eljárásért, engedély visszavonásáért
 
 c) a 49. § szerinti minősítés visszavonására irányuló kérelem elbírálásáért, és
 
-d) a 68. § (1) bekezdés szerinti engedély kiadásáért, visszavonásáért.
+d) a 68. § (1) bekezdés szerinti engedély kiadásáért, visszavonásáért,
+
+e) az 50. § (2c) bekezdés szerinti igazolás kiadásáért.

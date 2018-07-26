@@ -6,4 +6,6 @@ b) a minőségellenőr a nyilvántartásba vételi követelményeknek a további
 
 c) a minőségellenőrt a bizottság felmenti e feladatköréből,
 
-d) a minőségellenőr elhalálozott.
+d) a 161. § (4) bekezdése szerinti igazolás 5 éves időtartama lejár,
+
+e) a minőségellenőr elhalálozott.

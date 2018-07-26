@@ -4,7 +4,7 @@
 
 (3) A közfelügyeleti hatóság évente nyilvánosságra hozza az éves munkatervének végrehajtásáról szóló beszámolót.
 
-(4) A közfelügyeleti hatóság közfelügyeleti feladataival kapcsolatos éves munkatervét a tárgyévet megelőző év december 31-éig, az éves munkaterv végrehajtásáról szóló beszámolót a tárgyévet követő év március 31-éig az Egységes Kormányzati Portálon hozza nyilvánosságra.
+(4) A közfelügyeleti hatóság közfelügyeleti feladataival kapcsolatos éves munkatervét a tárgyévet megelőző év december 31-éig, az éves munkaterv végrehajtásáról szóló beszámolót a tárgyévet követő év április 30-áig az Egységes Kormányzati Portálon hozza nyilvánosságra.
 
 (5)
 

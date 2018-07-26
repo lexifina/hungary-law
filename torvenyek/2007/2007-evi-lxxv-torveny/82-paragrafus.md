@@ -1,4 +1,4 @@
-82. § A szakképző hely a felnőttképzésről szóló törvényben előírtak figyelembevételével
+82. § A szakképző hely a
 
 a) az okleveles könyvvizsgálói képzést a kamara által meghatározott képzési program alapján köteles szervezni,
 

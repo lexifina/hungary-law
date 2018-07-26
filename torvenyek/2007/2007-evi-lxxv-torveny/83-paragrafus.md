@@ -1,6 +1,6 @@
-83. § (1) A szakképző hely az okleveles könyvvizsgálói képzési programba felvett természetes személlyel – a felnőttképzésről szóló törvény szerinti – képzési szerződést köt.
+83. § (1) A szakképző hely az okleveles könyvvizsgálói képzési programba felvett természetes személlyel képzési szerződést köt.
 
-(2) A képzési szerződésben – a felnőttképzésről szóló törvényben előírtak figyelembevételével – meg kell határozni az alábbiakat:
+(2) A képzési szerződésben meg kell határozni az alábbiakat:
 
 a) a képzéssel megszerezhető szakképesítést, az elsajátítandó ismereteket,
 

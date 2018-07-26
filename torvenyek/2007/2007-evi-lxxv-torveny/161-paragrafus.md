@@ -4,4 +4,4 @@
 
 (3) A pályázati felhívást, valamint a nyilvántartásba vett minőségellenőrök nevét a kamara a honlapján és a lapjában közzé teszi.
 
-(4) A bizottság a minőségellenőrök számára igazolást állít ki a nyilvántartásba vételről.
+(4) A bizottság a minőségellenőrök számára 5 évre szóló igazolást állít ki a nyilvántartásba vételről.

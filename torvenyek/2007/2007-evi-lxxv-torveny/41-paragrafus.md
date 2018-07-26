@@ -4,7 +4,7 @@
 
 a) a könyvvizsgáló cég kérésére,
 
-b) a könyvvizsgáló cég fegyelmi eljárás keretében nyilvántartásból való törlésével,
+b)
 
 c) ha a könyvvizsgáló cég a 35. §-ban foglalt feltételeknek a továbbiakban már nem felel meg,
 
@@ -22,7 +22,9 @@ a) a könyvvizsgáló cég kérésére,
 
 b) ha a közfelügyeleti hatóság a könyvvizsgáló cég 35. § szerinti engedélyét véglegesen visszavonta,
 
-c) ha a könyvvizsgáló cég a 36/A. §-ban foglalt feltételeknek a továbbiakban már nem felel meg.
+c) ha a könyvvizsgáló cég a 36/A. §-ban foglalt feltételeknek a továbbiakban már nem felel meg,
+
+d) a könyvvizsgáló cég nyilvántartásból való törlése fegyelmi eljárás során kiszabott fegyelmi büntetés alkalmazása esetén.
 
 (4) A (3) bekezdés b) pontja alapján a kamara a könyvvizsgáló céget a nyilvántartásból az engedély visszavonásáról szóló döntés véglegessé válásának napjára visszamenőleg törli.
 

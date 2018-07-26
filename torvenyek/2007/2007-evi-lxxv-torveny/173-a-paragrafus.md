@@ -16,7 +16,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (4) A bizottság a vizsgálat befejezéséről határozattal dönt.
 
-(5)
+(5) A vizsgálat során a határozat meghozatalára nyitva álló határidő a vizsgálat megindításától számított 90 nap.
 
 (6) Ha a vizsgálat eredményeként az állapítható meg, hogy a kamarai tag könyvvizsgáló, a könyvvizsgáló cég megszegte a (2) bekezdés szerinti törvényekben vagy az annak végrehajtására kiadott útmutatóban foglalt kötelezettségeit, a bizottság a (2) bekezdés szerinti törvényekben foglalt intézkedések alkalmazásáról dönt. Ha a bizottság intézkedésként eltiltást alkalmaz, az eltiltás időtartama 3 évig terjedhet.
 

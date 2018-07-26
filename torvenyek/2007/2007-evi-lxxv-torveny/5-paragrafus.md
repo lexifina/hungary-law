@@ -1,6 +1,6 @@
 ## Kamarai hatósági eljárások
 
-5. § A közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni – az e törvényben foglaltak figyelembevételével – a következő ügyekben:
+5. § Az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni – az e törvényben foglaltak figyelembevételével – a következő ügyekben:
 
 a) felvétel a kamarába, valamint a kamarai tagság megszűnésének megállapítása,
 
