@@ -1,4 +1,4 @@
-7. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^94]
+7. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^97]
 
 ## A gyártó adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
 
@@ -32,4 +32,4 @@ h) a tárgyévi gyűjtési, kezelési kötelezettség ellátásának módja;
 
 i) a 13. § (1) bekezdés szerinti tárgyévi vagyoni biztosíték összege és típusa.
 
-[^94]: A 7. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^97]: A 7. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.

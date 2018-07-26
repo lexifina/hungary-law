@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-197-20-
 | 2017-12-30 | 2014-197-20-22.8 | 525/2017. (XII. 29.) Korm. rendelet |
 | 2018-01-01 | 2014-197-20-22.9 | 525/2017. (XII. 29.) Korm. rendelet |
 | 2018-01-02 | 2014-197-20-22.10 | 525/2017. (XII. 29.) Korm. rendelet |
+| 2018-07-26 | 2014-197-20-22.11 | 132/2018. (VII. 23.) Korm. rendelet |

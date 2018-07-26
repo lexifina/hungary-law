@@ -1,4 +1,4 @@
-8. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^95]
+8. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^98]
 
 ## A közvetítő szervezet, az állami hulladékgazdálkodást közvetítő szervezet és az átvállaló adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
 
@@ -60,4 +60,4 @@ d) az adatszolgáltatásért felelős neve, beosztása, elérhetősége.
 
 3.2. HEEB-10 adatlap: a tárgyévet megelőző évben átvett, gyűjtött hulladékká vált elektromos és elektronikus berendezés hulladéka (tömeg szerint, berendezéskategóriánként, gyártónként bontva).
 
-[^95]: A 8. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^98]: A 8. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (5) bekezdésével megállapított szöveg.
