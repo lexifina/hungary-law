@@ -54,7 +54,7 @@
 
 ## 7.7. a gépjárművek indokolatlan – álló helyzetben történő – alapjárati üzemeltetésének lehetőség szerinti mérséklésére történő felszólítás.
 
-4. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^99]
+4. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^119]
 
 ## A levegőtisztaság-védelmi alapbejelentés adattartalma (LAL lap)
 
@@ -194,4 +194,4 @@
 
 9.7. Mérőberendezés típusjóváhagyási száma
 
-[^99]: A 4. melléklet a 310/2014. (XII. 11.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^119]: A 4. melléklet a 310/2014. (XII. 11.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.

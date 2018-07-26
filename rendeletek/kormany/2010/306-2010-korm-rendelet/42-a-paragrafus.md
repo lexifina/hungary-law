@@ -1,0 +1,1 @@
+## 42. § E rendelet hatálybalépésekor adatszolgáltatásra köteles légszennyező forrás esetében a levegőtisztaság-védelmi alapbejelentést első alkalommal 2011. március 31-ig, az éves levegőtisztaság-védelmi jelentést 2012. március 31-ig kell megtenni.
