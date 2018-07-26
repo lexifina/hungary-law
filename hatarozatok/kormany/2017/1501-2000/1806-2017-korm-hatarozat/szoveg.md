@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért a Hédervári Kastély és környezetének alkotóházként való megnyitásához szükséges felújításának előkészítésével;
 
-2. az 1. pont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés c)–g) és l)–o) pontja szerinti előkészítési fázisaira összesen 66 500 000 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2018. június 30. napjáig kell megvalósítani;
+2.[^1] az 1. pont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés c)–g) és l)–o) pontja szerinti előkészítési fázisaira összesen 66 500 000 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2018. december 31. napjáig kell megvalósítani;
 
 3. az 1. pont szerinti beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
@@ -37,3 +37,5 @@ b) az előkészítési fázisok eredménye alapján készítsen előterjesztést
 Felelős: emberi erőforrások minisztere
 
 Határidő: a kiviteli tervek rendelkezésre állását követő 60 napon belül
+
+[^1]: A 2. pont az 1347/2018. (VII. 26.) Korm. határozat 29. pontja szerint módosított szöveg.
