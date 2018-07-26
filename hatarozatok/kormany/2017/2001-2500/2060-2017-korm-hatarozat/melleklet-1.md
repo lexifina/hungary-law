@@ -20,11 +20,11 @@
 
 ## Határidő: 2017. december 31.
 
-1. melléklet a 2060/2017. (XII. 27.) Korm. határozathoz
+1. melléklet a 2060/2017. (XII. 27.) Korm. határozathoz[^1]
 
 | A támogatási cél/fejlesztés megnevezése | A támogatás célja | A támogatás összege (Ft) | Kedvezményezett |
 
-| kulturális célú támogatások | Nemzeti Színház épületének felújítása | 2 000 000 000 | NMI Művelődési Intézet Nonprofit Közhasznú Kft. |
+| kulturális célú támogatások | A Nemzeti Színház épületeinek felújítása és infrastrukturális fejlesztése | 2 000 000 000 | NMI Művelődési Intézet Nonprofit Közhasznú Kft. |
 
 | kulturális célú támogatások | média program támogatása | 1 450 000 000 | Erdélyi Médiatér Egyesület |
 
@@ -75,3 +75,5 @@
 | kulturális célú támogatások | Zuglói Filharmónia művészeti tevékenységének támogatása | 25 000 000 | NMI Művelődési Intézet Nonprofit Közhasznú Kft. |
 
 | kulturális célú támogatások | Váci Dunakanyar Színház épületének felújítása | 20 000 000 | NMI Művelődési Intézet Nonprofit Közhasznú Kft. |
+
+[^1]: Az 1. melléklet az 1347/2018. (VII. 26.) Korm. határozat 35. pontja szerint módosított szöveg.
