@@ -1,6 +1,6 @@
 ## 12. A végrehajtáshoz való jog elévülése
 
-19. § (1) A tartozás végrehajtásához való jog az esedékesség naptári évének az utolsó napjától számított 4 év elteltével évül el. Ha az adóhatóság végrehajtási cselekményt foganatosított, az elévülés 6 hónappal meghosszabbodik.
+19. § (1) A tartozás és a meghatározott cselekmény végrehajtásához való jog az esedékesség naptári évének az utolsó napjától számított 4 év elteltével évül el. Ha az adóhatóság végrehajtási cselekményt foganatosított, az elévülés 6 hónappal meghosszabbodik.
 
 (2) Az adóbevallás késedelmes benyújtása esetén az adótartozás végrehajtásához való jog elévülése az adóbevallás benyújtásának időpontjával megszakad, és az elévülés az adóbevallás benyújtását követő napon újból megkezdődik.
 
@@ -15,3 +15,5 @@
 (7) Ha a gazdálkodó szervezet, a polgári jogi társaság adótartozásának a tag (részvényes), vezető tisztségviselő által történő megfizetésére kötelezését meg kell előznie a korlátlan felelősség megállapítása iránti polgári peres eljárásnak, a polgári peres eljárás kezdő időpontjától annak jogerős befejezéséig nyugszik a végrehajtáshoz való jog elévülése.
 
 (8) Nyugszik a végrehajtáshoz való jog elévülése az adózó halálának napjától az adómegállapításról szóló döntés, illetve az örököst az örökhagyó tartozásának megfizetésére kötelező döntés véglegessé válásáig.
+
+(9) A meghatározott cselekmény végrehajtásához való jog elévülését bármely végrehajtási cselekmény megszakítja.

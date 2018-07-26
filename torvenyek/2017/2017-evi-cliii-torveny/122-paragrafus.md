@@ -2,6 +2,8 @@
 
 122. § (1) Ha a döntés meghatározott cselekmény elvégzésére vagy meghatározott magatartásra, tűrésre, abbahagyásra (a továbbiakban: meghatározott cselekményre) irányul, és az adós a meghatározott cselekményt önként nem teljesítette, a behajtást kérő hatóság a végrehajtás érdekében megkeresi az állami adó- és vámhatóságot.
 
+(1a) Az általános közigazgatási rendtartás alapján hozott döntésen alapuló meghatározott cselekmény végrehajtása során az I–V. Fejezet rendelkezéseit a jelen alcímben foglalt eltérésekkel kell alkalmazni.
+
 (2) Az állami adó- és vámhatóság – a (3) bekezdés szerinti eljárási bírság kilátásba helyezése mellett – felhívja az adóst a meghatározott cselekmény önkéntes teljesítésére, továbbá tájékoztatja a teljesítés elmaradásának következményeiről.
 
 (3) Az önkéntes teljesítés elmaradása esetén az állami adó- és vámhatóság a meghatározott cselekmény végrehajtása érdekében az adóssal szemben a 22. § alkalmazásával eljárási bírságot szabhat ki.
