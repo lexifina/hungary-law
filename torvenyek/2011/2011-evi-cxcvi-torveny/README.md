@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-196-00-00
 | 2016-07-01 | 2016. évi LXII. törvény | 2011-196-00-00.29 |
 | 2017-05-27 | 2017. évi XXXI. törvény | 2011-196-00-00.30 |
 | 2017-09-01 | 2017. évi LXXIV. törvény | 2011-196-00-00.31 |
+| 2018-07-26 | 2018. évi XXXVII. törvény | 2011-196-00-00.32 |

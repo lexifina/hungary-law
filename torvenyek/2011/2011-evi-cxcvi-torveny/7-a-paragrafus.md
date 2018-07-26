@@ -4,9 +4,11 @@ a) miniszter,
 
 b) központi költségvetési szerv,
 
-c) az állam 100%-os tulajdonában álló gazdálkodó szervezet vagy
+c) az állam 100%-os tulajdonában álló gazdálkodó szervezet
 
-d) az állam és a c) pontban meghatározott szervezet együttesen 100%-os tulajdonában álló gazdasági társaság
+d) az állam és a c) pontban meghatározott szervezet együttesen 100%-os tulajdonában álló gazdasági társaság vagy
+
+e) az a)–d) pontban nem nevesített, a Kormány egyedi határozatában meghatározott személy
 
 lehet.
 
