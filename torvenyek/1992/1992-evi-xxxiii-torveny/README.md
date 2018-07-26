@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-33-00-00
 | 2017-07-01 | 2017. évi LIV. törvény | 1992-33-00-00.109 |
 | 2018-01-01 | 2017. évi CXXXIV. törvény | 1992-33-00-00.110 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1992-33-00-00.111 |
+| 2018-07-26 | 2018. évi XL. törvény | 1992-33-00-00.112 |

@@ -12,6 +12,6 @@ d) a közalkalmazott a felmentés közlésének, illetőleg legkésőbb a felmen
 
 (3) Ha az (1) bekezdés c) pontjában meghatározott alkalmatlanság a közalkalmazott munkavégzésével vagy magatartásával függ össze, a felmentés előtt lehetőséget kell adni számára a vele szemben felhozott kifogások elleni védekezésre, kivéve, ha az eset összes körülményeiből következően ez a munkáltatótól nem várható el.
 
-(4) A közalkalmazotti jogviszonyt felmentéssel meg kell szüntetni, ha a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltételt legkésőbb a felmentési idő leteltekor teljesítő közalkalmazott kérelmezi.
+(4) A közalkalmazotti jogviszonyt felmentéssel meg kell szüntetni, ha a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltételt legkésőbb a felmentési idő leteltekor teljesítő közalkalmazott kérelmezi.
 
-(5) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv határozatával kell igazolni.
+(5) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv határozatával kell igazolni.
