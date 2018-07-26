@@ -12,7 +12,7 @@ d) a mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okl
 
 e) a nemzeti számviteli standardok készítésének, kidolgozásának feltételeit, a standardok elfogadásának, bevezetésének, hatályba léptetésének követelményeit;
 
-f) a végelszámolás számviteli feladatait;
+f) a végelszámolás, valamint a felszámolás számviteli feladatait;
 
 g) az egyes pénz- és tőkepiaci szolgáltatásokat is végző egyéb vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságait;
 

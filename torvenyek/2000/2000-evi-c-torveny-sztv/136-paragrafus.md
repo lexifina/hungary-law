@@ -6,7 +6,7 @@
 
 (2) Az (1) bekezdés szerinti vagyonmérleget és vagyonleltárt az átalakulás során két alkalommal kell elkészíteni: először az átalakulásról szóló döntés megalapozásához, a cégbírósági eljárás alátámasztására – a gazdasági társaság legfőbb szerve által meghatározott mérlegfordulónapra (vagyonmérleg-tervezet és vagyonleltár-tervezet) –, majd az átalakulás napjával (végleges vagyonmérleg és végleges vagyonleltár).
 
-(3) A vagyonmérleget (a vagyonmérleg-tervezetet és a végleges vagyonmérleget), a vagyonleltárt (a vagyonleltár-tervezetet és a végleges vagyonleltárt) az e törvény szerinti beszámoló mérlegére és az azt alátámasztó leltárra vonatkozó előírások szerint kell elkészíteni a (4)–(9) bekezdésben és a 137–143. §-ban foglaltak figyelembevételével.
+(3) A vagyonmérleget (a vagyonmérleg-tervezetet és a végleges vagyonmérleget), a vagyonleltárt (a vagyonleltár-tervezetet és a végleges vagyonleltárt) az e törvény szerinti beszámoló mérlegére és az azt alátámasztó leltárra vonatkozó előírások szerint kell elkészíteni a (4)–(9) bekezdésben és a 137–141. §-ban foglaltak figyelembevételével.
 
 (4) A (3) bekezdés szerinti vagyonmérleget – ha törvény másként nem rendelkezik – háromoszlopos formában kell elkészíteni oly módon, hogy
 

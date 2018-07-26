@@ -12,4 +12,4 @@
 
 a) IFRS regisztrálási szakterületen szerepel a könyvviteli szolgáltatást végzők nyilvántartásában, vagy
 
-b) IFRS minősítéssel rendelkező kamarai tag könyvvizsgáló.
+b) a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló törvény szerinti IFRS minősítéssel, IFRS minősítéshez kapcsolódó szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolással, vagy IFRS mérlegképes könyvelői szakképesítés-ráépüléssel rendelkező kamarai tag könyvvizsgáló.
