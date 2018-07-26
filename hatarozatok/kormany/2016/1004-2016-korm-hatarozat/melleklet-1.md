@@ -198,7 +198,7 @@
 
 | 37. | KÖFOP-1.2.1-VEKOP-16 | Csatlakoztatási konstrukció az önkormányzati ASP rendszer országos kiterjesztéséhez | 8,50 | egyszerűsített | Meghirdetve: 2016.augusztus |
 
-| 38. | KÖFOP-1.2.2-VEKOP-18 | Az elektronikus ügyintézést biztosító szervezetek elektronikus ügyintézési térbe való integrálásának támogatása | 0,45 | egyszerűsített | 2018. február |
+| 38. | KÖFOP-1.2.2-VEKOP-18 | Az elektronikus ügyintézést biztosító szervezetek elektronikus ügyintézési térbe való integrálásának támogatása | 0,45 | standard | Meghirdetve: 2018. május |
 
 2. A szolgáltatási szemléletnek és az etikus működésnek a közszolgálatban történő megerősítéséről szóló 2. prioritás
 
@@ -256,9 +256,9 @@
 
 | 6. | KÖFOP-3.2.4-15 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Gazdaságfejlesztési és Innovációs Operatív Program, a Terület- és Településfejlesztési Operatív Program, valamint a Versenyképes Közép-Magyarország Operatív Program végrehajtásánál, továbbá az igazoló hatósági feladatok ellátásánál | 9,069 | kiemelt | Meghirdetve: 2016. február |
 
-| 7. | KÖFOP-3.2.5-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program végrehajtásánál | 0,39 | kiemelt | Meghirdetve: 2016. március |
+| 7. | KÖFOP-3.2.5-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program végrehajtásánál | 0,454 | kiemelt | Meghirdetve: 2016. március |
 
-| 8. | KÖFOP-3.2.6-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Miniszterelnökség központi koordinációs feladatainak ellátásánál | 1,77 | kiemelt | Meghirdetve: 2016. március |
+| 8. | KÖFOP-3.2.6-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a központi koordinációs feladatok ellátásánál | 1,706 | kiemelt | Meghirdetve: 2016. március |
 
 | 9. | KÖFOP-3.2.7-15 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Miniszterelnökség közbeszerzés szabályossági ellenőrzési feladatainak ellátásánál | 6,35 | kiemelt | Meghirdetve: 2015. december |
 
@@ -300,4 +300,4 @@
 [^24]: Az 1. pont x) alpontját az 1936/2017. (XII. 8.) Korm. határozat 2. pontja iktatta be, szövege az 1056/2018. (II. 21.) Korm. határozat 1. pontjával megállapított szöveg.
 [^25]: Az 1. pont y) alpontját az 1056/2018. (II. 21.) Korm. határozat 2. pontja iktatta be.
 [^26]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: Az 1. melléklet az 1200/2016. (IV. 15.) Korm. határozat 3. és 5. pontja, az 1369/2016. (VII. 13.) Korm. határozat 2. pont a) alpontja és 3. pont 3.2–3.4. alpontja, az 1585/2016. (X. 25.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3–5.5. alpontja, az 1740/2016. (XII. 13.) Korm. határozat 1. pont a) alpontja, az 1117/2017. (III. 13.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1287/2017. (VI. 2.) Korm. határozat 3. pont a) alpontja és 4. pont 4.3–4.5. alpontja, az 1592/2017. (VIII. 28.) Korm. határozat 3. pont a) alpontja, az 1936/2017. (XII. 8.) Korm. határozat 4. pont a)–b) alpontja, az 1056/2018. (II. 21.) Korm. határozat 3. pont a) alpontja és a 4. pont b)–c) alpontja szerint módosított szöveg.
+[^27]: Az 1. melléklet az 1200/2016. (IV. 15.) Korm. határozat 3. és 5. pontja, az 1369/2016. (VII. 13.) Korm. határozat 2. pont a) alpontja és 3. pont 3.2–3.4. alpontja, az 1585/2016. (X. 25.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3–5.5. alpontja, az 1740/2016. (XII. 13.) Korm. határozat 1. pont a) alpontja, az 1117/2017. (III. 13.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1287/2017. (VI. 2.) Korm. határozat 3. pont a) alpontja és 4. pont 4.3–4.5. alpontja, az 1592/2017. (VIII. 28.) Korm. határozat 3. pont a) alpontja, az 1936/2017. (XII. 8.) Korm. határozat 4. pont a)–b) alpontja, az 1056/2018. (II. 21.) Korm. határozat 3. pont a) alpontja és a 4. pont b)–c) alpontja, az 1340/2018. (VII. 25.) Korm. határozat 1. pont 1.1. és 1.2. alpontja szerint módosított szöveg.
