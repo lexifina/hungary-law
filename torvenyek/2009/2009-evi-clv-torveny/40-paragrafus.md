@@ -2,6 +2,6 @@
 
 (2)
 
-(3) Az e törvény hatálybalépésének időpontjában nemzeti minősített adatot kezelő szervnek vagy jogutódjának a nemzeti minősített adat kezelésére vonatkozó engedélyt, továbbá a nemzeti minősített adat kezelésére szolgáló elektronikus rendszerek használatba vételére vonatkozó engedélyt 2019. december 31-éig kell beszereznie.
+(3) Az e törvény hatálybalépésének időpontjában nemzeti minősített adatot kezelő szervnek vagy jogutódjának a nemzeti minősített adat kezelésére vonatkozó engedélyt, továbbá a nemzeti minősített adat kezelésére szolgáló elektronikus rendszerek használatba vételére vonatkozó engedélyt 2020. december 31-éig kell beszereznie.
 
-(4) A nemzeti minősített adat védelmére vonatkozó fizikai és elektronikus biztonsági feltételeket 2019. december 31-ig kell megteremteni.
+(4) A nemzeti minősített adat védelmére vonatkozó fizikai és elektronikus biztonsági feltételeket 2020. december 31-ig kell megteremteni.
