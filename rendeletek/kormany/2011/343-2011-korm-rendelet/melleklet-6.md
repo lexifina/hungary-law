@@ -1,4 +1,4 @@
-6. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^137]
+6. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^143]
 
 ## Az elektromos, elektronikai berendezések egyes kategóriái alá tartozó termékek tájékoztató jellegű listája
 
@@ -22,4 +22,4 @@ Porszívók, szőnyegseprűk, varrógépek, mikrohullámú sütők, szellőzőbe
 
 Mobiltelefonok, GPS-ek, zsebszámológépek, routerek, személyi számítógépek, nyomtatók, telefonok.
 
-[^137]: A 6. mellékletét a 41/2014. (II. 24.) Korm. rendelet 5. § 16. pontja hatályon kívül helyezte, újonnan a 446/2017. (XII. 27.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^143]: A 6. mellékletét a 41/2014. (II. 24.) Korm. rendelet 5. § 16. pontja hatályon kívül helyezte, újonnan a 446/2017. (XII. 27.) Korm. rendelet 3. § (3) bekezdése iktatta be.

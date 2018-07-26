@@ -1,16 +1,16 @@
 ## A bejelentés teljesítéséhez szükséges adattartalmi követelmények
 
-## I.[^115] Alapadatok
+## I.[^121] Alapadatok
 
 ## A termékdíj-kötelezett adatai
 
-## II.[^116] A termékdíj-kötelezettséggel kapcsolatos bejelentés adatai:
+## II.[^122] A termékdíj-kötelezettséggel kapcsolatos bejelentés adatai:
 
 ## a) kötelezetti státusz megjelölése,
 
 ## b) termékdíjköteles termékek körére vonatkozó kötelezettség,
 
-## c)[^117] egyéni hulladékkezelés választása anyagáramonként, a kibocsátás tényleges vagy tervezett és tárgyévi kezelni tervezett mennyisége,
+## c)[^123] egyéni hulladékkezelés választása anyagáramonként, a kibocsátás tényleges vagy tervezett és tárgyévi kezelni tervezett mennyisége,
 
 ## d) bejelentés érvényességének időpontja,
 
@@ -42,7 +42,7 @@
 
 ## k) az egyéni hulladékkezelő által lekötött kapacitás mértéke HKT kód és EWC szerint.
 
-## IV.[^118] Átvállalási szerződés nyilvántartásba vételi kérelem adattartalma
+## IV.[^124] Átvállalási szerződés nyilvántartásba vételi kérelem adattartalma
 
 ## 1. Átvállalásban érintett felek adatai
 
@@ -62,7 +62,7 @@
 
 ## 7. Az átvállalás jogcíme és pontos jogszabályi helye
 
-3. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^119]
+3. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^125]
 
 ## A Ktdt. 3. § (6) bekezdésében meghatározott nyilatkozat mintája
 
@@ -94,8 +94,8 @@ P. H.
 
 cégszerű aláírás
 
-[^115]: A 2. melléklet I. pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^116]: A 2. melléklet II. pont nyitó szövegrésze a 407/2015. (XII. 15.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
-[^117]: A 2. melléklet II. pont c) pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^118]: A 2. melléklet IV. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^119]: A 3. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^121]: A 2. melléklet I. pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^122]: A 2. melléklet II. pont nyitó szövegrésze a 407/2015. (XII. 15.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^123]: A 2. melléklet II. pont c) pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^124]: A 2. melléklet IV. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^125]: A 3. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
