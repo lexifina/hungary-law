@@ -25,3 +25,5 @@ d) a kirendelhető ügyvédek jegyzékében már nem szerepel, vagy
 e) vele szemben a III. Fejezet szerinti korlátozó okok valamelyike bekövetkezett.
 
 (7) Az eseti gondnok, az eseti gyám és az ügygondnok részére a meghatalmazást a hatóság kirendelő határozata pótolja.
+
+(8) A kirendelt ügyvéd óradíját a központi költségvetésről szóló törvényben az Országgyűlés állapítja meg úgy, hogy annak összege az előző évi összegnél nem lehet alacsonyabb.
