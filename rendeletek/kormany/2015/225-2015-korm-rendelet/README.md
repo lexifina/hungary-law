@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-225-20-
 | 2016-01-01 | 2015-225-20-22.3 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 2015-225-20-22.4 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2015-225-20-22.5 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2018-07-26 | 2015-225-20-22.6 | 132/2018. (VII. 23.) Korm. rendelet |
