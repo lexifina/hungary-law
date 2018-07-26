@@ -2,7 +2,7 @@
 
 23. § (1) A Tanács
 
-a) az Alaptörvény 44. cikk (2) bekezdésében foglaltakkal összhangban véleményt nyilvánít a központi költségvetésről szóló törvény tervezetéről,
+a) az Alaptörvény 44. cikk (2) bekezdésében foglaltakkal összhangban véleményt nyilvánít a központi költségvetésről szóló törvény tervezetéről, ennek keretében külön is vizsgálja a költségvetési hiány mértékét, valamint a 3/A. § (2) bekezdésének való megfelelést,
 
 b) dönt az Alaptörvény 44. cikk (3) bekezdése szerinti előzetes hozzájárulásról,
 

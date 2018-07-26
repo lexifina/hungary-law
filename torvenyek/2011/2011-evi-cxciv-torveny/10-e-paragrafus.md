@@ -11,3 +11,5 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 a) fejlesztési célú ügylet esetében – különösen a megvalósított fejlesztésből származó bevételek révén – biztosított,
 
 b) működési célú ügylet esetében a gazdasági társaságot tulajdonoló önkormányzat támogatása nélkül biztosított.
+
+(3) A Kormány eltekinthet a (2) bekezdésben foglaltak alkalmazásától, amennyiben a szerződés-módosítás vagy az adósságmegújítás során keletkező ügylet az eredetivel megegyező, vagy kedvezőbb kondíciót tartalmaz az ügyletet keletkeztető, kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-os önkormányzati tulajdonban álló gazdasági társaság vagy az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság számára.

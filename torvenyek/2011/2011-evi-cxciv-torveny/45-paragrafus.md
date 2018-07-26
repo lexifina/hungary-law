@@ -16,6 +16,8 @@ d) a 10/E. § (1) bekezdése szerinti gazdasági társaság adósságot keletkez
 
 e) a 3/A. § szerinti feladatok végrehajtásának, valamint a makrogazdasági és költségvetési előrejelzések részletes szabályait és azok közzétételének módját.
 
+f) a kormányzati szektorba sorolt pénzügyi intézmény részére megállapított keretszám betartásának alakulásáról szóló adatszolgáltatás részletes szabályait.
+
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy – a jogalanyok szélesebb körét érintő rendkívüli esemény, elemi csapás esetén indokolt esetben – rendeletben a fizetési kötelezettség megállapítására és teljesítésére vonatkozó kötelezettség mellőzését és az ehhez kapcsolódó eljárási szabályokat meghatározhassa.
 
 (3)
