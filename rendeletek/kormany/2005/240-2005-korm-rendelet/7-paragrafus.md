@@ -72,7 +72,8 @@
 
 (2) E rendelet 1–2. §-a az Egyezmény 17. cikkének 5. pontjában meghatározott időpontban lép hatályba, melynek napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(3) E rendelet végrehajtásához szükséges intézkedésekről a környezetvédelmi és vízügyi miniszter gondoskodik.
+(3)[^34] E rendelet végrehajtásához szükséges intézkedésekről a hulladékgazdálkodásért felelős miniszter gondoskodik.
 
 [^32]: A Benzol[a]pirene koncentrációja nem lehet 50 mg/kg-nál nagyobb.
 [^33]: The concentration level of Benzol[a]pyrene should not be 50 mg/kg or more.
+[^34]: A 7. § (3) bekezdése a 132/2018. (VII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.

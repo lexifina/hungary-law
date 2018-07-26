@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-240-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2005-11-04 | 2005-240-20-22.1 | 240/2005. (X. 27.) Korm. rendelet |
+| 2018-07-26 | 2005-240-20-22.2 | 132/2018. (VII. 23.) Korm. rendelet |
