@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-101-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1996-07-20 | 1996-101-20-22.1 | 101/1996. (VII. 12.) Korm. rendelet |
+| 2018-07-26 | 1996-101-20-22.2 | 132/2018. (VII. 23.) Korm. rendelet |

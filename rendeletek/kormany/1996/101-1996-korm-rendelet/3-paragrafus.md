@@ -966,11 +966,11 @@
 
 ## 3. Bármely olyan vita, amely a felek között az ítélet értelmezése vagy végrehajtása tekintetében keletkezik, bármely fél által az ítéletet hozó döntőbíróság elé terjeszthető, vagy ha az utóbbi azt nem tudja vállalni, akkor egy másik döntőbíróság elé, amelyet e célból ugyanazon módon hoznak létre, ahogyan az elsőt létrehozták.''
 
-3. § (1) Az Egyezmény 4. Cikkében megadott általános kötelezettségek teljesítéséért – az érintett miniszterek bevonásával – a környezetvédelmi és területfejlesztési miniszter[^3] felelős.
+3. § (1)[^3] Az Egyezmény 4. Cikkében megadott általános kötelezettségek teljesítéséért – az érintett miniszterek bevonásával – a hulladékgazdálkodásért felelős miniszter felelős.
 
 (2) Az Egyezmény 5. Cikkének 1. pontja szerinti Tájékoztatási Központ feladatait a Környezetvédelmi és Területfejlesztési Minisztérium Környezetvédelmi Hivatala látja el.
 
 (3) Az Egyezményből adódó hatósági jogköröket – magyarországi Illetékes Hatóságként – a Környezetvédelmi és Területfejlesztési Minisztérium Környezetvédelmi Főfelügyelősége látja el.
 
 [^2]: Összhangban van az Egyesült Nemzetek ,,Recommendations on the Transport of Dangerous Goods ST/SG/AC. 10/1/Rev. 5, UN, New York 1988'' veszélyességi osztályozási rendszerével.
-[^3]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének e) pontját.
+[^3]: A 3. § (1) bekezdése a 132/2018. (VII. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
