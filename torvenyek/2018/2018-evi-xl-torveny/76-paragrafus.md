@@ -10,4 +10,4 @@
 
 ## (6) Az (5) bekezdésben meghatározott azonosítás sikertelensége esetén a hiányzó személyes adatok feltöltését a kincstár hibakezelési eljárás keretében egyedileg hajtja végre a rendelkezésre álló adatok, illetve iratok alapján.”
 
-(3) Az államháztartásról szóló 2011. évi CXCV. törvény 111. §-a a következő (7) bekezdéssel egészül ki:
+(3)

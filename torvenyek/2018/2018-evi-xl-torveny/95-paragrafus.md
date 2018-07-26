@@ -1,3 +1,1 @@
-## „(6a) A képviselői megbízatással nem rendelkező háznagy a 104. § (1) bekezdésében meghatározott összeg kétszeresének megfelelő összegű illetményre, továbbá a miniszter részére jogszabályban biztosított egyéb juttatásra jogosult. A képviselői megbízatással nem rendelkező háznagy jogállására – a megbízatás keletkezése és megszűnése, a vagyon-nyilatkozattételi kötelezettség teljesítése, valamint az összeférhetetlenség kivételével – a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.”
-
-95. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 97. § (3) bekezdése helyébe a következő rendelkezés lép:
+### 95. §

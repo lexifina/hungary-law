@@ -14,10 +14,6 @@
 
 ## (10) Az államháztartásért felelős miniszter a kormányzati szektorba sorolt pénzügyi intézmény vagy a pénzügyi közvetítőrendszer stabilitásának megőrzése érdekében a keretszámtól eltérő adósságot keletkeztető ügyletet is engedélyezhet. A döntés során a miniszter mérlegeli az államadósság-mutató alakulását, a mutatóra vonatkozó követelmény veszélyeztetéséből vagy be nem tartásából eredő hatás összevetését a pénzügyi intézmény vagy a pénzügyi közvetítőrendszer stabilitása megőrzésének hatásával, a pénzügyi intézmény által a működőképessége tekintetében jelzett kockázatok mértékét.”
 
-56. § (1) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 10. § (3) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(Nincs szükség a Kormány hozzájárulására az önkormányzat)
-
-## „d) olyan kezesség- és garanciavállalásához, amely a b) és a c) pont szerinti, önkormányzat által megkötött, valamint az önkormányzati többségi tulajdonban álló gazdasági társaság által a naptári éven belül keletkeztetett és lejáró futamidejű adósságot keletkeztető ügylethez kapcsolódik.”
+56. § (1)
 
 (2) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 10. §-a a következő (9)–(10) bekezdéssel egészül ki:
