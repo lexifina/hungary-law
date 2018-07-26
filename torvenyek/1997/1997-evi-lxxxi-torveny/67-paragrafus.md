@@ -2,4 +2,4 @@
 
 a) a szolgálati idő, illetve a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idő tartamának jogalap nélküli megállapítása az igénylőnek felróható, vagy
 
-b) az adott időtartamot a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendelet vagy szociális biztonsági, szociálpolitikai egyezmény alapján külföldi szerv szolgálati időként figyelembe veszi.
+b) az adott időtartamot a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendeletek (a továbbiakban: uniós rendeletek) vagy szociális biztonsági, szociálpolitikai egyezmény alapján külföldi szerv szolgálati időként figyelembe veszi.

@@ -20,15 +20,9 @@ g) 1957-ben vagy azt követően született, a betöltött 65. életév.
 
 a) a születési évének megfelelő – az (1) bekezdésben meghatározott – öregségi nyugdíjkorhatárt (a továbbiakban: öregségi nyugdíjkorhatár) betöltötte, és
 
-b) legalább húsz év szolgálati idővel rendelkezik, valamint
+b) legalább húsz év szolgálati idővel rendelkezik.
 
-c) azon a napon, amelytől kezdődően az öregségi teljes nyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonyban nem áll.
-
-(2a) Öregségi teljes nyugdíjra életkorától függetlenül jogosult az a nő is, aki
-
-a) legalább negyven év jogosultsági idővel rendelkezik, és
-
-b) azon a napon, amelytől kezdődően az öregségi teljes nyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonyban nem áll.
+(2a) Öregségi teljes nyugdíjra életkorától függetlenül jogosult az a nő is, aki legalább negyven év jogosultsági idővel rendelkezik.
 
 (2b) A (2a) bekezdés tekintetében jogosultsági időnek minősül a kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal, valamint a terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban és a súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekére tekintettel megállapított ápolási díjban eltöltött idővel, vagy ezekkel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati idő.
 
@@ -40,14 +34,6 @@ b) azon a napon, amelytől kezdődően az öregségi teljes nyugdíjat megállap
 
 a) az öregségi nyugdíjkorhatárt betöltötte, és
 
-b) legalább tizenöt év szolgálati idővel rendelkezik, valamint
+b) legalább tizenöt év szolgálati idővel rendelkezik.
 
-c) azon a napon, amelytől kezdődően az öregségi résznyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonyban nem áll.
-
-(4) Nem jogosult öregségi teljes, illetve résznyugdíjra
-
-a) az a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek (a továbbiakban: uniós rendeletek) hatálya alá tartozó személy, aki EGT-államban,
-
-b) az a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy – ha az egyezmény eltérően nem rendelkezik –, aki a szerződő államban
-
-– az igénylő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – azon a napon, amelytől kezdődően az öregségi nyugdíjat megállapítják, a Tbj. 5. §-a (1) bekezdésének a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszonyban áll.
+(4)
