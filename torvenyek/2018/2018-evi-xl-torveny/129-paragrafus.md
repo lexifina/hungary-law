@@ -1,0 +1,7 @@
+## „70/B. § (1) E törvénynek a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított rendelkezéseit a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvény hatálybalépése napján folyamatban lévő azon végrehajtási eljárásokban is alkalmazni kell, amelyekben a földárverések kitűzésére még nem került sor.
+
+## (2) Ha a mezőgazdasági igazgatási szerv a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvény hatálybalépése napjáig már kitűzte árverésre a földet, a mezőgazdasági igazgatási szerv a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított 35. § (6) és (7) bekezdésének megfelelően folytatja le a földek árverését.”
+
+## 37. A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény módosítása
+
+129. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény 20. §-ában a „környezetvédelemért felelős” szövegrész helyébe a „hulladékgazdálkodásért felelős” szöveg lép.

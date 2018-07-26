@@ -1,0 +1,3 @@
+## „(3b) A bíróság a 22. § (1) bekezdés b) pontja szerint, a hitelező kérelmére indult eljárásokban a hitelező hozzájárulása nélkül megszünteti az eljárást, ha az adós a felszámolás kezdő időpontjáig igazolja, hogy a felszámolást elrendelő jogerős végzés alapjául szolgáló teljes követelést (tőke, kamatok, a hitelező eljárással felmerült költségei) megfizette a hitelezőnek. Az eljárás megszüntetéséről az a bíróság intézkedik, amelynél az igazolás benyújtásakor az eljárás folyamatban van. Az eljárást megszüntető végzésben a (3a) bekezdés szerinti tartalmi elemekről is rendelkezni kell.”
+
+5. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény a következő 83/U. §-sal egészül ki:
