@@ -1,1 +1,0 @@
-A Kormány, figyelemmel a nemzetközi terrorizmus elleni harc feltételeinek megteremtését elősegítő széleskörű nemzetközi együttműködésre, az Iraki Köztársaság Kurd Regionális Kormány kérelmére, illetve a Magyar Honvédség rendelkezésre álló és átadható készleteire
