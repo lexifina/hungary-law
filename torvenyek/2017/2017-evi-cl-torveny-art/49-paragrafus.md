@@ -6,7 +6,7 @@
 
 (1) Az adóbevallás az adózó azonosításához, az adóalap, a mentességek, a kedvezmények, az adó, a költségvetési támogatás alapja és összege megállapításához szükséges adatokat tartalmazza. Az adózó az önadózással megállapított adóról – ideértve a közvetett vámjogi képviselőnek az importáló helyett, valamint az Áfa tv. szerinti adóraktár üzemeltetőjének az adófizetésre kötelezett helyett a saját nevében teljesített adóbevallását is, az eljárási illetékek kivételével –, továbbá költségvetési támogatásról adónként, költségvetési támogatásonként az erre a célra rendszeresített nyomtatványon adóbevallást tesz. A költségvetési támogatás előlegének, illetve gyakoribb igénybevételének igénylése nem minősül adóbevallásnak. Az adóhatóság olyan nyomtatványt is rendszeresíthet, amely alkalmas több jogcímen fennálló adókötelezettség, költségvetési támogatásigénylés bevallására, illetve az adókötelezettség bevallása mellett költségvetési támogatás igénylésére.
 
-(2) Az állami adó- és vámhatósághoz benyújtandó adóbevallás időpontjáról a 2. melléklet rendelkezik, kivéve a naptári évtől eltérő üzleti évet választó adózók tekintetében.
+(2) Az állami adó- és vámhatósághoz benyújtandó adóbevallás időpontjáról a 2. melléklet rendelkezik.
 
 (3) Az adózó az adóbevallásban az azonosításához szükséges adatok között feltünteti adóazonosító számát. Az adózó adóazonosító szám birtokában olyan időszakról is tehet adóbevallást, amelyben adóazonosító számmal nem rendelkezett, adóvisszaigénylést, adóvisszatérítést ezen időszakra csak a 16. § (4) bekezdésében foglalt korlátokkal érvényesíthet.
 
