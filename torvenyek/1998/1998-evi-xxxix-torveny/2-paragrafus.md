@@ -2,4 +2,4 @@
 
 (2) Az Egészségbiztosítási Alap kezelésével kapcsolatos költségek fedezetét az Egészségbiztosítási Alap költségvetésében kell meghatározni.
 
-(3) A Nyugdíjbiztosítási Alap kezelésével kapcsolatos költségek, valamint a központi nyugdíjbiztosítási szerv és a nyugdíjfolyósító szerv – a nyugdíjbiztosítási feladatok ellátásával kapcsolatos – egyéb költségeinek fedezetét a Nyugdíjbiztosítási Alap költségvetésében kell meghatározni.
+(3) A Nyugdíjbiztosítási Alap kezelésével kapcsolatos költségeket a központi nyugdíjbiztosítási szerv költségvetésében kell meghatározni.
