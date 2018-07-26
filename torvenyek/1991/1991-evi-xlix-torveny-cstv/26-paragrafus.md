@@ -6,6 +6,8 @@
 
 (3a) A felszámolási eljárás iránti kérelemtől az ellenérdekű fél hozzájárulása nélkül el lehet állni a felszámolás kezdő időpontjáig. Az eljárás megszüntetéséről az a bíróság rendelkezik, amely előtt az eljárás az elállás bejelentésekor folyamatban van. Az eljárást megszüntető végzésben rendelkezni kell az eljárásban hozott, a felszámolást elrendelő, illetve az ideiglenes vagyonfelügyelőt kirendelő korábbi végzések hatályon kívül helyezéséről is.
 
+(3b) A bíróság a 22. § (1) bekezdés b) pontja szerint, a hitelező kérelmére indult eljárásokban a hitelező hozzájárulása nélkül megszünteti az eljárást, ha az adós a felszámolás kezdő időpontjáig igazolja, hogy a felszámolást elrendelő jogerős végzés alapjául szolgáló teljes követelést (tőke, kamatok, a hitelező eljárással felmerült költségei) megfizette a hitelezőnek. Az eljárás megszüntetéséről az a bíróság intézkedik, amelynél az igazolás benyújtásakor az eljárás folyamatban van. Az eljárást megszüntető végzésben a (3a) bekezdés szerinti tartalmi elemekről is rendelkezni kell.
+
 (4) Szünetelésnek kizárólag az adós és a felszámolási eljárás lefolytatását kérő hitelezők együttes kérelmére, a felszámolás elrendeléséről szóló végzés jogerőre emelkedéséig van helye.
 
 (5) Az adós – a felszámolást elrendelő elsőfokú végzés kézhezvételét követően, a végzés jogerőre emelkedéséig – köteles céltartalékot képezni
