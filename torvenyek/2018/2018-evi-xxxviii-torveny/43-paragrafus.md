@@ -1,0 +1,1 @@
+43. § Az Itv. 33. § (2) bekezdés 31. pontjában a „megsértésével kapcsolatban indított eljárás” szövegrész helyébe a „megsértésével, továbbá a személyes adatok védelméhez fűződő jog megsértésével kapcsolatban indított eljárás” szöveg lép.
