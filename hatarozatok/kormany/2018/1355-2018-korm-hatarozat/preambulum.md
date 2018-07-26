@@ -1,0 +1,1 @@
+A Kormány, figyelemmel az Osztrák Köztársaság azon szándékára, hogy osztrák lovas szolgálatot kíván felállítani az Európában tapasztalható biztonságpolitikai helyzetre tekintettel, amelyet Magyarország nagyra értékel és támogatni kíván,
