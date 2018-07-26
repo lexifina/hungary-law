@@ -12,7 +12,7 @@
 
 ## e) a bejelentés kitöltésének dátuma.
 
-2. melléklet a 318/2013. (VIII. 28.) Korm. rendelethez[^20]
+2. melléklet a 318/2013. (VIII. 28.) Korm. rendelethez[^23]
 
 Hulladéklerakási járulék adatszolgáltatási lap
 
@@ -32,11 +32,11 @@ f) az ártalmatlanítási művelet azonosító kódja;
 
 g) hulladékgazdálkodási engedély száma;
 
-h)[^21] a hulladéklerakási járulékfizetési kötelezettséggel érintett hulladékra vonatkozó adatok (hulladékjegyzék szerinti azonosító kód, mennyiség (t), egységár (Ft/t), hulladék lerakási járulék összege (Ft);
+h)[^24] a hulladéklerakási járulékfizetési kötelezettséggel érintett hulladékra vonatkozó adatok (hulladékjegyzék szerinti azonosító kód, mennyiség (t), egységár (Ft/t), hulladék lerakási járulék összege (Ft);
 
 i) az adatszolgáltatás kitöltésének dátuma;
 
 j) fizetendő hulladéklerakási járulék az adott telephelyen összesen (Ft).
 
-[^20]: A 2. melléklet a 310/2014. (XII. 11.) Korm. rendelet 18. § (5) bekezdésével megállapított szöveg.
-[^21]: A 2. melléklet h) pontja a 196/2016. (VII. 13.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^23]: A 2. melléklet a 310/2014. (XII. 11.) Korm. rendelet 18. § (5) bekezdésével megállapított szöveg.
+[^24]: A 2. melléklet h) pontja a 196/2016. (VII. 13.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
