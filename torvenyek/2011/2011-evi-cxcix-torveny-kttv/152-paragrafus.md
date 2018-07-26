@@ -14,6 +14,8 @@ f) tanulmányi ösztöndíj, képzési, továbbképzési, nyelvtanulási támoga
 
 g) üdülési támogatás.
 
+(1a) Az (1) bekezdés szerinti juttatás nem illeti meg a kormánytisztviselőt a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamra.
+
 (2) Az (1) bekezdés a)–f) pontjaiban foglalt juttatás mértékét, feltételeit, az elbírálás és elszámolás rendjét, valamint a visszatérítés szabályait a hivatali szervezet vezetője állapítja meg.
 
 (3) A kormánytisztviselő, a vele közös háztartásban élő házastársa, élettársa, valamint eltartott gyermeke – a kormánytisztviselő teljesítménye alapján, a Kormány által meghatározott rendben – üdülési támogatásban részesíthető. Az üdülési támogatást a kormánytisztviselőt a 151. § szerint megillető cafetéria-juttatás éves összegébe nem kell beszámítani.

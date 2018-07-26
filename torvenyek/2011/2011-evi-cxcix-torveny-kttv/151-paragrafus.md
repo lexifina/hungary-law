@@ -2,4 +2,6 @@
 
 (2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő, az 57. § (1) és (2) bekezdés szerinti szakértői tevékenységet ellátó kormánytisztviselő, továbbá a kormánytisztviselő azon időtartam vonatkozásában, amelyre illetményre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot. A harminc napot meghaladó távollét esetében a kormánytisztviselőt a távollét első napjától kezdve nem illeti meg a juttatás. A távollétek időtartamát – a jogosultság szempontjából – nem lehet összeszámítani.
 
+(2a) Nem jogosult cafetéria-juttatásra a kormánytisztviselő a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamra.
+
 (3) A hivatali szervezet vezetője a közszolgálati szabályzatban rendelkezik a cafetéria-juttatás igénybevételének részletes szabályairól, elszámolásának rendjéről és visszatérítésének szabályairól.

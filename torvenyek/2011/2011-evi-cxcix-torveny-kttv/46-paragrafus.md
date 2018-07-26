@@ -1,4 +1,4 @@
-46. § (1) A kinevezésben – a 41. § (1) bekezdés b) pontjában, a 47. § (4) bekezdésében, az 59. §-ban meghatározott eset, valamint a (4) bekezdés kivételével – a kormányzati szolgálati jogviszony létesítésekor legalább három, de legfeljebb hat hónapig terjedő próbaidőt kell kikötni.
+46. § (1) A kinevezésben – a 41. § (1) bekezdés b) pontjában, a 47. § (4) bekezdésében, az 59. §-ban és a 62/A. §-ban meghatározott eset, valamint a (4) bekezdés kivételével – a kormányzati szolgálati jogviszony létesítésekor legalább három, de legfeljebb hat hónapig terjedő próbaidőt kell kikötni.
 
 (2) A próbaidő nem hosszabbítható meg. A próbaidő tartamát a pályakezdőnél a gyakornoki időbe be kell számítani.
 

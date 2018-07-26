@@ -16,7 +16,7 @@ b) egyéb esetben – törvény eltérő rendelkezésének hiányában – a sze
 
 (7) A kormánytisztviselő év közben történő végleges áthelyezése esetén – eltérő megállapodás hiányában – a korábbi munkáltató által megállapított eltérítés mértékére jogosult az áthelyezést kérő szervnél is.
 
-(8)
+(8) Ha a kormánytisztviselő a 62/A. § szerint év közben létesít új jogviszonyt, a korábbi munkáltató által tárgyévre megállapított eltérítés mértékére az új munkáltatónál a tárgyévben akkor jogosult, ha az új munkáltató a kormánytisztviselő jogviszony létesítését követő legalább 45, legfeljebb 60 napon belüli, soron kívüli teljesítményértékelése alapján azt részére megállapítja.
 
 (9) Az illetmény-összetevők – ide nem értve az illetménypótlékokat – változása esetén, így különösen az illetményalap emelkedése, a besorolási vagy fizetési fokozat változása során a kormánytisztviselő illetményét újra meg kell állapítani.
 

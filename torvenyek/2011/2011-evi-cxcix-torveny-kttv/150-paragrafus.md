@@ -28,7 +28,9 @@ e) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztat
 
 f) az e törvény, a Ktv., Ktjv., illetőleg a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
 
-g) az állami vezetői szolgálati jogviszonyban
+g) a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot, és
+
+h) az állami vezetői szolgálati jogviszonyban
 
 töltött időt kell figyelembe venni.
 

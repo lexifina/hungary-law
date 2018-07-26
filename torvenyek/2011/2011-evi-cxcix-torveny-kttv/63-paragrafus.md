@@ -22,7 +22,7 @@ d) az 48. § (2) bekezdés d) pontjában, valamint az 58. § (6) bekezdésében 
 
 e) a kormánytisztviselő vezetőjének bizalmát elveszti;
 
-f) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltételt a felmentési idő leteltekor teljesítő kormánytisztviselő kérelmezi;
+f) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltételt a felmentési idő leteltekor teljesítő kormánytisztviselő kérelmezi;
 
 g) a foglalkoztatást kizáró ok jut a munkáltató tudomására;
 
@@ -44,6 +44,6 @@ b) ha a foglalkoztatást kizáró és a 42. § (1)–(3) bekezdése alapján viz
 
 (5) Ha az államigazgatási szerv jogutód nélkül szűnik meg, akkor a kormányzati szolgálati jogviszony megszűnésével, valamint a 73. §-ban meghatározott feladatokkal kapcsolatos munkáltatói intézkedéseket – ha jogszabály eltérően nem rendelkezik – az államigazgatási szerv felügyeleti szerve hozza meg.
 
-(6) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv külön jogszabály szerinti határozatával kell igazolni.
+(6) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv külön jogszabály szerinti határozatával kell igazolni.
 
 (7) A munkáltató a határozatlan időtartamú jogviszony felmentéssel történő megszüntetését nem köteles indokolni, ha a kormánytisztviselő nyugdíjasnak minősül.

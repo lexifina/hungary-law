@@ -1,0 +1,1 @@
+62/A. § Ha a kormánytisztviselő a kormányzati szolgálati jogviszonya megszűnését vagy megszüntetését követő 30 napon belül újabb kormányzati szolgálati jogviszonyt létesít, kormányzati szolgálati jogviszonyát folyamatosnak kell tekinteni.
