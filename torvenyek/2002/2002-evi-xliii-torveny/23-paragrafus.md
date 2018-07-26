@@ -11,3 +11,5 @@
 (5) A jogszabályi kötelezettség alapján tárgyévben visszafizetett támogatás összege az egyszerűsített vállalkozói adó alapját csökkenti, ha az a támogatás folyósításakor az egyszerűsített vállalkozó adó alapját képezte.
 
 (6) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 18. § (2) bekezdését a 2017-ben kezdődő adóévben is alkalmazni kell.
+
+(7) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 18. § (8) bekezdését az adózó a 2018-ban kezdődő adóévben választása szerint alkalmazza.
