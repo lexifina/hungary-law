@@ -24,9 +24,11 @@ h) a többletköltségek megtérítésére kötelező,
 
 i) az eljárási költség viselésével kapcsolatos, a költségmentességi kérelmet elutasító,
 
-j) a kézbesítési kifogás tárgyában hozott elutasító, valamint
+j) a kézbesítési kifogás tárgyában hozott elutasító,
 
-k) az áru hatósági felügyelet alá vonását elrendelő
+k) az áru hatósági felügyelet alá vonását elrendelő, valamint
+
+l) a visszatartási jog gyakorlásáról rendelkező
 
 végzés ellen.
 

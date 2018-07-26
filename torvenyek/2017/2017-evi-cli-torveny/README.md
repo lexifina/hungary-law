@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-151-00-00
 | 2018-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-151-00-00.1 |
 | 2018-01-02 | 2010. évi CXXX. törvény | 2017-151-00-00.2 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2017-151-00-00.3 |
+| 2018-07-26 | 2018. évi XLI. törvény | 2017-151-00-00.4 |

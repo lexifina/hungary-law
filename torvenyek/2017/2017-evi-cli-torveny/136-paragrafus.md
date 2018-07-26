@@ -14,4 +14,8 @@ b) az állami adó- és vámhatóság hatáskörének és illetékességének sz
 
 c) az ellenőrzésre vonatkozó részletes szabályokat;
 
-d) a hatósági zár alkalmazásának részletes szabályait.
+d) a hatósági zár alkalmazásának részletes szabályait;
+
+e) az adóigazgatási eljárásban kirendelt ügygondok tevékenységének részletes szabályait,
+
+f) az adóigazgatási eljárásban az eljárási költségek, az iratbetekintéssel összefüggő költségtérítés, a költségek megfizetése, valamint a költségmentesség részletes szabályait.
