@@ -2,7 +2,7 @@
 
 87/O. § (1) Nem természetes személy címzett, vagy az ügyfél meghatalmazott jogi képviselője csak akkor terjeszthet elő kifogást, ha a kézbesítés nem szabályszerűen történt.
 
-(2) A 35/C. § (4) bekezdésében szabályozott esetet kivéve kézbesítési meghatalmazott az idegenrendészeti eljárásban nem járhat el.
+(2) A nemzetgazdasági érdekből nemzeti letelepedési engedéllyel rendelkező harmadik országbeli állampolgárt vagy családtagját érintő idegenrendészeti eljárások kivételével kézbesítési meghatalmazott az idegenrendészeti eljárásban nem járhat el. Kézbesítési meghatalmazottként a jogi képviselő jár el.
 
 4. CÍM
 

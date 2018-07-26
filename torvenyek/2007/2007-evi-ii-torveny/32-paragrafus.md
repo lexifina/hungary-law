@@ -28,4 +28,4 @@ b) a letelepedési, az ideiglenes, a nemzeti és az EK letelepedési engedély v
 
 c) a bevándorlási engedély visszavonásáról.
 
-(6) Az idegenrendészeti hatóság a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv értesítését mellőzi, amennyiben a 35/A. § (1) bekezdése alapján nemzeti letelepedési engedélyt állít ki.
+(6)

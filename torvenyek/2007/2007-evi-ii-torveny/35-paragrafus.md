@@ -22,7 +22,7 @@ e) bevándorolt, letelepedett, illetve menekültként elismert harmadik országb
 
 (5) Nem kaphat nemzeti letelepedési engedélyt az a harmadik országbeli állampolgár, aki büntetett előéletű, és a büntetett előélethez fűződő hátrányok alól nem mentesült.
 
-(6) A nemzeti letelepedési engedély iránti kérelmet – a 35/C. § (1) bekezdésben foglalt kivétellel –
+(6) A nemzeti letelepedési engedély iránti kérelmet
 
 a) az első fokon eljáró hatóság hetven,
 
@@ -30,7 +30,7 @@ b) a másodfokon eljáró hatóság harminc
 
 napon belül bírálja el.
 
-(7) A nemzeti letelepedési engedély kiadása iránti eljárásban a külön jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását – a 35/C. § (2) bekezdésében foglalt kivétellel –
+(7) A nemzeti letelepedési engedély kiadása iránti eljárásban a jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
 
 a) az elsőfokú eljárásban harminc,
 
