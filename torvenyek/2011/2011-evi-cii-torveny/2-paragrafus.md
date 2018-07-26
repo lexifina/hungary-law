@@ -8,7 +8,7 @@
 
 4. vezető állású személy:
 
-a) a vezető tisztségviselő, az igazgatótanács tagja és a felügyelő bizottság tagja, továbbá
+a) a vezető tisztségviselő és a felügyelő bizottság tagja, továbbá
 
 b) minden olyan személy, akit a szabályozott ingatlanbefektetési elővállalkozás vagy társaság létesítő okirata, vagy a működésre vonatkozó bármely belső szabályzat vezető állású személyként határoz meg,
 
