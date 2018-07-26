@@ -166,19 +166,13 @@ A vezetékek alkotórészei:
 
 45. „energetikai és ipari eredetű szén-dioxid föld alatti tárolóhely”: egy földtani szerkezetnek az energetikai és ipari eredetű szén-dioxid föld alatti tárolására használt, meghatározott kiterjedésű térrésze, az ehhez kapcsolódó felszíni és besajtoló berendezésekkel együtt.
 
-46. Biztosítással járó jogviszony:
-
-a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszony,
-
-b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó személy esetén EGT-államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
-
-c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony.
+46.
 
 46.
 
 47. „Bányászati hulladékkezelés”: az ásványi nyersanyagok bányászata, tárolása és feldolgozása során keletkező hulladék – kivéve a nem közvetlenül e tevékenységekből származó hulladék – hulladékkezelő létesítményben történő gyűjtése és tárolása, valamint a hulladék keletkezési helyétől a hulladékkezelő létesítményig történő szállítása.
 
-48. „EGT-állam”: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
+48.
 
 49. „Üzemszerű kitermelés”: az ásványi nyersanyag olyan kitermelése, ahol a tényleges kitermelési mennyiség a bányatelek megállapításától számított 5 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül, a tevékenységre vonatkozó, első, módosítás nélküli műszaki üzemi tervben jóváhagyott legnagyobb kitermelési mennyiségnek legalább a negyedét eléri.
 

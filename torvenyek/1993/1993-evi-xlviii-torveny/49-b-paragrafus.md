@@ -6,9 +6,9 @@ aa) legalább huszonöt év, a társadalombiztosítási nyugellátásról szól�
 
 ab) legalább 5000 – a társadalombiztosítási nyugellátásról szóló törvény szerint szolgálati időként figyelembe vehető – műszakot töltött el azzal, hogy a mecseki ércbányászatban elért műszakszámnak az 1,67-szeresét, a mecseki szénbányászatban elért műszakszámnak pedig az 1,25-szörösét kell a műszakszám meghatározása során figyelembe venni,
 
-b) az öregségi nyugdíjkorhatárt nem töltötte be,
+b) az öregségi nyugdíjkorhatárt nem töltötte be, és
 
-c) azon a napon, amelytől kezdődően az átmeneti bányászjáradékot megállapítják, biztosítással járó jogviszonyban nem áll, és
+c)
 
 d) azon a napon, amelytől kezdődően az átmeneti bányászjáradékot megállapítják, a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontja szerinti rendszeres pénzellátásban – az özvegyi nyugdíj, a baleseti hozzátartozói nyugellátások, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a nemzeti helytállásért elnevezésű pótlék, valamint az uniós rendeletek alapján külföldi szerv által folyósított, ezekkel azonos típusú ellátások kivételével – nem részesül.
 
