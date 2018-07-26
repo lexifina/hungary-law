@@ -1,4 +1,4 @@
-Tbj. 47. § (1) A 46. § (2) bekezdése szerinti nyilvántartást a nyilvántartásra kötelezett havonta lezárja, archiválja és arról Art.-ban meghatározottak szerint az állami adóhatósághoz bevallást, a Tny. 97. §-a (2) bekezdésében előírtak esetén a nyugdíj-biztosítási igazgatási szervhez adatszolgáltatást teljesít.
+Tbj. 47. § (1) A 46. § (2) bekezdése szerinti nyilvántartást a nyilvántartásra kötelezett havonta lezárja, archiválja és arról az Art-ban meghatározottak szerint az állami adóhatósághoz bevallást, a Tny. 97. §-a (2) bekezdésében előírtak esetén a nyugdíj-biztosítási igazgatási szervhez adatszolgáltatást teljesít.
 
 (2)
 

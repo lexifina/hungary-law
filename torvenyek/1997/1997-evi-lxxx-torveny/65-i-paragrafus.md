@@ -1,0 +1,1 @@
+Tbj. 65/I. § A fizetési kötelezettség mértékét befolyásoló rendelkezést (így különösen a járulékmérték, hozzájárulás-mérték változását, új, változó vagy megszűnő kedvezményt, mentességet), továbbá fizetési kötelezettséget előíró vagy azt megszüntető rendelkezést arra a hónapra, adóévre kell először alkalmazni, amely hónapban, adóévben hatályba lép.

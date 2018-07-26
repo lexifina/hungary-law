@@ -2,6 +2,8 @@
 
 Tbj. 50. § (1) A foglalkoztató a biztosítottnak a tárgyhónapban kifizetett (juttatott), járulékalapot képező jövedelem alapján köteles az egészségbiztosítási- és munkaerő-piaci járulékot, a nyugdíjjárulékot megállapítani és a biztosítottat terhelő járulékot levonni. A megállapított tárgyhavi járulékot az Art.-ban meghatározottak szerint kell a tárgyhónapot követő hónap 12-éig bevallani, illetőleg megfizetni az állami adóhatóságnak. A megállapított járulékot csökkenteni kell azzal az összeggel, amelyet a foglalkoztató az adott jogviszonnyal összefüggésben a tárgyévre vonatkozó túlfizetés miatt fizetett vissza a biztosítottnak.
 
+(1a) A foglalkoztató a kiegészítő tevékenységet folytató társas vállalkozó tagjának a tárgyhónapban kifizetett (juttatott), járulékalapot képező jövedelem alapján köteles a nyugdíjjárulékot megállapítani és levonni. A megállapított tárgyhavi nyugdíjjárulékot és a foglalkoztatót terhelő egészségügyi szolgáltatási járulékot az Art.-ban meghatározottak szerint kell a tárgyhónapot követő hónap 12-éig bevallani, illetőleg megfizetni az állami adó- és vámhatóságnak.
+
 (2) Az egyéni vállalkozó az egészségbiztosítási- és munkaerő-piaci járulékot, valamint a nyugdíjjárulékot az Art-ban meghatározottak szerint a tárgyhónapot követő hónap 12-éig vallja be, illetőleg fizeti meg az állami adóhatóságnak. Az eva adózó egyéni vállalkozó a járulékot az Eva tv.-ben meghatározottak szerint fizeti meg és vallja be.
 
 (3)

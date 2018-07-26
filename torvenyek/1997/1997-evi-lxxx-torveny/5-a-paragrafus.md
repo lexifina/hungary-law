@@ -1,0 +1,1 @@
+Tbj. 5/A. § A munkaviszony jogellenes megszűnésétől annak helyreállításáig terjedő időszakot biztosítási jogviszonyban töltött időszaknak kell tekinteni a helyreállítást követően keletkezett társadalombiztosítási ellátások iránti igények elbírálásakor.

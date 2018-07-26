@@ -32,7 +32,7 @@ i) a mezőgazdasági őstermelő, ha a reá irányadó nyugdíjkorhatárig hátr
 
 j) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben meghatározottak szerint a főállású kisadózóként bejelentett személy,
 
-k) az állami projektértékelői jogviszonyban álló személy.
+k) az állami projektértékelői jogviszonyban álló személy, amennyiben az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, illetőleg naptári napokra annak harmincad részét.
 
 (2) Az (1) bekezdés g) pontjában foglaltakon túl, munkavégzésre irányuló egyéb jogviszony keretében munkát végző személynek kell tekinteni azt is, aki: gazdasági társaság társas vállalkozónak nem minősülő vezető tisztségviselője, alapítvány, egyesület, egyesületek szövetsége, társasház közösség, köztestület, kamara, európai részvénytársaság, egyesülés, európai gazdasági egyesülés, európai területi társulás, vízgazdálkodási társulat, erdőbirtokossági társulat, egyéb állami gazdálkodó szerv, egyes jogi személyek vállalata, közös vállalat, egyéni cég, szövetkezet, lakásszövetkezet, európai szövetkezet, állami vállalat, egyes jogi személyek vállalata, vállalatcsoport, Munkavállalói Résztulajdonosi Program szervezeteinek, önkéntes kölcsönös biztosító pénztárak, magánnyugdíjpénztárak tisztségviselője, vezető tisztségviselője, vagy e szervezetek felügyelőbizottságának tagja; a helyi önkormányzati választásokon választott képviselő és tisztségviselők, társadalmi megbízatású polgármester, feltéve, hogy járulékalapot képező jövedelemnek minősülő tiszteletdíja (díjazása) eléri az (1) bekezdés g) pontjában meghatározott összeget.
 
