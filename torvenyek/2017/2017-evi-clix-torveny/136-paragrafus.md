@@ -1,3 +1,3 @@
 ## 53. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-136–150. §
+### 136. §

@@ -1,1 +1,1 @@
-7–8. melléklet a 2017. évi CLIX. törvényhez
+7. melléklet a 2017. évi CLIX. törvényhez

@@ -1,3 +1,3 @@
 ## 76. A szakképzésről szóló 2011. évi CLXXXVII. törvény módosítása
 
-192. §
+### 192. §

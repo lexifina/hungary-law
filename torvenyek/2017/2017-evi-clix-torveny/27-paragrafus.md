@@ -1,3 +1,3 @@
 ## 6. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-27–29. §
+### 27. §

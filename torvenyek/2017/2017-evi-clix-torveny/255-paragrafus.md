@@ -6,4 +6,4 @@
 
 (3) A 109. § (3) bekezdése, a 151. §, a 152. § (2) bekezdése és a 6. melléklet 2018. július 1-jén lép hatályba.
 
-(4) A 154. § 2019. január 1-jén lép hatályba.
+(4)

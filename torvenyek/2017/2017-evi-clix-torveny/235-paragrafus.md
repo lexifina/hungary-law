@@ -1,3 +1,3 @@
 ## 103. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-235–247. §
+### 235. §

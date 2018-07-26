@@ -1,3 +1,3 @@
 ## 54. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
-155–158. §
+### 155. §
