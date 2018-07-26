@@ -20,4 +20,4 @@ i) a társadalombiztosítási nyugdíjrendszerbe történő visszalépés miatt 
 
 (2) A kifizetőt és a bérbeadó természetes személyt nem terheli a 3. § (1) bekezdésében meghatározott egészségügyihozzájárulás-fizetési kötelezettség az ingatlan bérbeadásból származó jövedelem után.
 
-(3) A Tbj. 13. §-ában említett közösségi rendelet hatálya alá tartozó, másik tagállamban biztosított személy jövedelme után nem kell egészségügyi hozzájárulást fizetni. Az egészségügyihozzájárulás-fizetési kötelezettség alóli mentességet a természetes személy az illetékes külföldi hatóság által kiállított, a másik tagállamban fennálló biztosítást tanúsító igazolással igazolja.
+(3) A Tbj. 13. §-ában említett közösségi rendelet hatálya alá tartozó, másik tagállamban vagy az Európai Unió intézményei által biztosított személy jövedelme után nem kell egészségügyi hozzájárulást fizetni. Az egészségügyihozzájárulás-fizetési kötelezettség alóli mentességet a természetes személy az illetékes külföldi hatóság által kiállított, a másik tagállamban vagy az Európai Unió intézményénél fennálló biztosítást tanúsító igazolással igazolja.
