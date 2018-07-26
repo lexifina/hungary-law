@@ -64,7 +64,7 @@ a)
 
 b) az európai uniós operatív programok előfinanszírozásának céljára szolgáló pénzeszközöket,
 
-c) a Társadalmi Megújulás Operatív Program társfinanszírozásra szolgáló pénzeszközöket,
+c)
 
 d) a külön jogszabályban meghatározott közfoglalkoztatás támogatására fordítható pénzeszközöket,
 
@@ -74,7 +74,7 @@ f)
 
 g) a kincstár által terhelt, a számlavezetéssel kapcsolatos működési kiadásokat, valamint a megszűnt jogcímekhez kapcsolódó kifizetéseket,
 
-h)
+h) a költségvetési befizetéseket,
 
 i)
 
