@@ -8,7 +8,7 @@
 
 ## Határidő: azonnal
 
-## b) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 1 676 010 402 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
+## b)[^2] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 1 676 010 402 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -22,9 +22,9 @@
 
 ## emberi erőforrások minisztere
 
-## Határidő: 2018. június 30.
+## Határidő: 2018. június 30., a Bethlen Gábor Alap javára biztosított 67 130 402 forint tekintetében 2019. június 30.
 
-## c) a Kvtv. 19. § (4) bekezdésében és az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 64 579 119 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 2. Országvédelmi Alap alcím terhére, az 1. melléklet szerint;
+## c)[^3] a Kvtv. 19. § (4) bekezdésében és az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 64 579 119 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 2. Országvédelmi Alap alcím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -36,7 +36,7 @@
 
 ## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2018. június 30.
+## Határidő: 2019. június 30.
 
 ## d) a Kvtv. 19. § (6) bekezdésében biztosított jogkörében eljárva 18 562 697 846 forint egyszeri átcsoportosítását rendeli el az 1. melléklet szerint;
 
@@ -54,7 +54,7 @@
 
 ## Határidő: azonnal
 
-## f)[^1] egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 56. Budapest X. kerület, Hős utca 15/A–B szám alatti ingatlan helyzetének rendezése cím javára átcsoportosított 2 100 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy vagy több részletben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján, 2 100 000 000 forint támogatást nyújtson Budapest Főváros X. kerület Kőbányai Önkormányzat részére a támogatási szerződés megkötését vagy a támogatói okirat kiállítását követően;
+## f)[^4] egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 56. Budapest X. kerület, Hős utca 15/A–B szám alatti ingatlan helyzetének rendezése cím javára átcsoportosított 2 100 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy vagy több részletben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján, 2 100 000 000 forint támogatást nyújtson Budapest Főváros X. kerület Kőbányai Önkormányzat részére a támogatási szerződés megkötését vagy a támogatói okirat kiállítását követően;
 
 ## g) egyetért azzal, hogy a belügyminiszter az e) alpont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 57. Budapest VIII. kerület városkép rehabilitáció támogatása cím javára átcsoportosított 300 000 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 300 000 000 forint támogatást nyújtson Budapest Főváros VIII. kerület Józsefvárosi Önkormányzat részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
 
@@ -96,22 +96,33 @@
 
 ## v) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva és az Ávr. 34. § (2) bekezdés b) pontja értelmében felhívja a Nemzeti Foglalkoztatási Alap kezelőjét, hogy a LXIII. Nemzeti Foglalkoztatási Alap fejezet, 8. Start-munkaprogram cím előirányzatról 27 500 000 000 forintot a 3. mellékletben felsorolt előirányzatok javára utaljon át.
 
-## 2–4.[^2]
+## 2.[^5]
+
+## 3.[^6]
+
+## 4.[^7]
 
 ## 5. A Kormány egyetért azzal, hogy a Nagybereki Vadgazdálkodási Egység vadászati joggyakorlásával összefüggő egyes kérdésekről szóló 1546/2017. (VIII. 18.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XII. Földművelésügyi Minisztérium fejezet, 14. Nemzeti park igazgatóságok cím javára átcsoportosított összesen 199 753 900 forintból 2 793 567 forint a K1. Személyi juttatások kiemelt előirányzaton, 614 585 forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 30 268 756 forint a K3. Dologi kiadások kiemelt előirányzaton, 161 076 992 forint a K6. Beruházások kiemelt előirányzaton, 5 000 000 forint a K7. Felújítások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
 ## 6. A Kormány egyetért azzal, hogy a Magyarország Kormánya és Hódmezővásárhely Megyei Jogú Város Önkormányzata közötti együttműködési megállapodásról szóló 1840/2017. (XI. 10.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 18. Hódmezővásárhelyi ágazati fejlesztések jogcímcsoport, K7. Felújítások kiemelt előirányzat javára átcsoportosított 132 300 000 forintból 98 878 500 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton, 33 421 500 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 7.[^3]
+## 7.[^8]
 
 ## 8. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, Országvédelmi Alapból, a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 2001/2017. (XII. 21.) Korm. határozat 4. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 13. Kopp Mária Intézet a Népesedésért és a Családokért cím, K3. Dologi kiadások előirányzat javára átcsoportosított 162 500 000 forint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 16. Szociális szolgáltatások és egyéb szociális feladatok támogatása alcím, 3. Család- és ifjúságügyi fejlesztések, szolgáltatások és programok támogatása jogcímcsoport, K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
-## 9–10.[^4]
+## 9.[^9]
 
-1. melléklet a 2029/2017. (XII. 27.) Korm. határozathoz[^5]
+## 10.[^10]
 
-[^1]: Az 1. pont f) alpontja az 1097/2018. (III. 13.) Korm. határozat 6. pontjával megállapított szöveg.
-[^2]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 9–10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet az 1013/2018. (II. 2.) Korm. határozat 23–24. pontja szerint módosított szöveg.
+1. melléklet a 2029/2017. (XII. 27.) Korm. határozathoz[^11]
+
+[^2]: Az 1. pont b) alpontja az 1347/2018. (VII. 26.) Korm. határozat 34. pont a) alpontja szerint módosított szöveg.
+[^3]: Az 1. pont c) alpontja az 1347/2018. (VII. 26.) Korm. határozat 34. pont b) alpontja szerint módosított szöveg.
+[^4]: Az 1. pont f) alpontja az 1097/2018. (III. 13.) Korm. határozat 6. pontjával megállapított szöveg.
+[^5]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 9–10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9–10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. melléklet az 1013/2018. (II. 2.) Korm. határozat 23–24. pontja szerint módosított szöveg.
