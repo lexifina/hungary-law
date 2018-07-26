@@ -4,6 +4,6 @@
 
 (2) Az 1–20. §, a 22–23. §, a 25. §, és az 1–4. melléklet 2015. január 1-jén lép hatályba.
 
-(3)[^29]
+(3)[^30]
 
-[^29]: A 21. § (3) bekezdését a 374/2016. (XI. 29.) Korm. rendelet 4. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^30]: A 21. § (3) bekezdését a 374/2016. (XI. 29.) Korm. rendelet 4. § (1) bekezdés b) pontja hatályon kívül helyezte.

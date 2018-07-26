@@ -1,3 +1,3 @@
-## 24. §[^30]
+## 24. §[^31]
 
-[^30]: A 24. § a 374/2016. (XI. 29.) Korm. rendelet 4. § (3) bekezdése alapján nem lép hatályba.
+[^31]: A 24. § a 374/2016. (XI. 29.) Korm. rendelet 4. § (3) bekezdése alapján nem lép hatályba.
