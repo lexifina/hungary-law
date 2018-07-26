@@ -28,7 +28,7 @@
 
 14. 38. alcímének címében az „Adatkezelés” szövegrész helyébe az „A Hatóság eljárásaira vonatkozó egyéb szabályok, adatkezelés” szöveg,
 
-15. 72. § (3) bekezdésében az „a kötelező szervezeti szabályozás jóváhagyásáért, az adatvédelmi nyilvántartásba vételért” szövegrész helyébe az „az adatkezelési engedélyezési eljárás lefolytatásáért” szöveg
+15.
 
 lép.
 

@@ -14,11 +14,7 @@ b) az érintett kérelmére és hivatalból adatvédelmi hatósági eljárást f
 
 c) hivatalból titokfelügyeleti hatósági eljárást folytat;”
 
-(3) Az Infotv. 38. § (3) bekezdése a következő g) ponttal egészül ki:
-
-[A Hatóság a (2) bekezdés szerinti feladatkörében az e törvényben meghatározottak szerint]
-
-„g) kérelemre adatkezelési engedélyezési eljárást folytat;”
+(3)
 
 (4) Az Infotv. 38. § (3) bekezdése a következő h) ponttal egészül ki:
 
