@@ -1,18 +1,16 @@
 ## 1. egyetért a tatabányai multifunkcionális csarnok megvalósítására kidolgozott programmal (a továbbiakban: Beruházás) és azzal, hogy a Beruházás építtetője a Nemzeti Sportközpontok (a továbbiakban: NSK) legyen, amellyel összefüggésben – kizárólag a Beruházás megvalósításának tekintetében – a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontjában foglalt tilalom alól mentesíti az NSK-t;
 
-## 2. egyetért azzal, hogy a Beruházás 15 184 581 645 forint összegű központi költségvetési támogatással kerüljön megvalósításra az alábbi költségvetési évek szerinti bontásban:
+## 2.[^2] egyetért azzal, hogy a Beruházás 15 184 581 645 forint összegű központi költségvetési támogatással kerüljön megvalósításra az alábbi költségvetési évek szerinti bontásban:
 
 ## a) a 2017. évben 250 000 000 forint,
 
-## b) a 2018. évben 12 094 099 645 forint,
+## b) a 2018. évben 3 000 000 000 forint,
 
-## c) a 2019. évben 2 840 482 000 forint;
+## c) a 2019. évben 7 956 969 097 forint,
 
-## 3. felhívja a nemzeti fejlesztési minisztert mint a Beruházás szakpolitikai felelősét, hogy a támogatás biztosítása érdekében a teljes Beruházásra nyújtson be előterjesztést a Modern Városok Program Bizottsága részére;
+## d) a 2020. évben 3 977 612 548 forint;
 
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
+## 3.[^3]
 
 ## 4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva elrendeli, hogy – a Modern Városok Program Bizottságnak a Modern Városok Program megvalósításáról szóló 250/2016. (VIII. 24.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4. § (2) bekezdése alapján meghozott erre irányuló döntése esetén – a Beruházás megvalósításához 2017. évben szükséges 250 000 000 forint a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv. 2017.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoporton rendelkezésre álló előirányzatból kerüljön átcsoportosításra a Kvtv. 2017. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 30. Tatabányai multifunkcionális csarnok beruházás jogcímcsoport javára, az 1. melléklet szerint;
 
@@ -20,27 +18,29 @@
 
 ## Határidő: a Modern Városok Program Bizottság döntését követően azonnal, a Modern Városok Program Bizottság által jóváhagyott éves ütemezés szerint
 
-## 5. felhívja a Miniszterelnökséget vezető minisztert, hogy a nemzeti fejlesztési miniszter bevonásával – a Modern Városok Program Bizottságnak a Korm. rendelet 4. § (2) bekezdése alapján meghozott erre irányuló döntése esetén – a Beruházás megvalósításához 2018. évben szükséges 12 094 099 645 forint a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv. 2018.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére a Kvtv. 2018. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 30. Tatabányai multifunkcionális csarnok beruházás jogcímcsoport javára történő átcsoportosítás céljából nyújtson be előterjesztést az Áht. 33. § (2) bekezdése szerinti döntés kezdeményezése érdekében;
+## 5.[^4] felhívja a Miniszterelnökséget vezető minisztert, hogy az emberi erőforrások miniszterének bevonásával a Beruházás megvalósításához 2018. évben szükséges 3 000 000 000 forint a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv. 2018.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére a Kvtv. 2018. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet javára történő átcsoportosítás céljából nyújtson be előterjesztést az Áht. 33. § (2) bekezdése szerinti döntés kezdeményezése érdekében;
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## nemzeti fejlesztési miniszter
+## emberi erőforrások minisztere
 
-## Határidő: a Modern Városok Program Bizottsága által jóváhagyott éves ütemezés szerint, a 2018. évi költségvetési törvény végrehajtása során
+## Határidő: azonnal
 
-## 6. felhívja a nemzetgazdasági minisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a Beruházás megvalósításához a 2019. évben szükséges 2 840 482 000 forint forrás biztosításáról a központi költségvetés XI. Miniszterelnökség fejezetében;
+## 6.[^5] felhívja a Miniszterelnökséget vezető minisztert, hogy az emberi erőforrások miniszterének bevonásával a Beruházás megvalósításához 2019. évben szükséges 7 956 969 097 forint a 2019. évi központi költségvetés XI. Miniszterelnökség fejezet terhére, a 2019. évi központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet javára történő átcsoportosítás céljából nyújtson be előterjesztést az Áht. 33. § (2) bekezdése szerinti döntés kezdeményezése érdekében;
 
-## Felelős: nemzetgazdasági miniszter
+## Felelős: Miniszterelnökséget vezető miniszter
+
+## emberi erőforrások minisztere
+
+## Határidő: a 2019. évi központi költségvetés végrehajtása során a felmerülés ütemében
+
+## 7.[^6] felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a Beruházás megvalósításához a 2020. évben szükséges 3 977 612 548 forint forrás biztosításáról a 2020. évi központi költségvetés XI. Miniszterelnökség fejezetében;
+
+## Felelős: pénzügyminiszter
 
 ## Miniszterelnökséget vezető miniszter
 
-## Határidő: a 2019. évi központi költségvetés tervezése során
-
-## 7. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi a nemzeti fejlesztési miniszter számára, hogy – a Modern Városok Program Bizottságnak a Korm. rendelet 4. § (2) bekezdése alapján meghozott erre irányuló döntése esetén – a Beruházás megvalósítása érdekében a 2018. és 2019. költségvetési évek kiadási előirányzatai terhére összesen legfeljebb 14 934 581 645 forint összeg mértékéig éven túli kötelezettséget vállaljon a 2. pont szerinti éves ütemezéssel;
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: a Modern Városok Program Bizottságának döntését követően
+## Határidő: a 2020. évi központi költségvetés tervezése során
 
 ## 8. egyetért azzal, hogy a tatabányai multifunkcionális csarnok beruházás egyes kérdéseiről, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1566/2014. (X. 2.) Korm. határozat [a továbbiakban: 1566/2014. (X. 2.) Korm. határozat] alapján a Beruházáshoz szükséges előkészítő feladatokhoz és a tervpályázathoz 2014. évben az NSK részére biztosított 36 000 000 forint fel nem használt rész tekintetében visszatérítési kötelezettséggel elszámolás készüljön;
 
@@ -54,7 +54,7 @@
 
 ## Határidő: 2017. december 31.
 
-## 10.[^1]
+## 10.[^7]
 
 1. melléklet az 1644/2017. (IX. 11.) Korm. határozathoz
 
@@ -136,4 +136,9 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont az 1352/2018. (VII. 26.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 3. pontot a Kormány az 1352/2018. (VII. 26.) Korm. határozat 5. pontjával visszavonta.
+[^4]: Az 5. pont az 1352/2018. (VII. 26.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 6. pont az 1352/2018. (VII. 26.) Korm. határozat 3. pontjával megállapított szöveg.
+[^6]: A 7. pont az 1352/2018. (VII. 26.) Korm. határozat 4. pontjával megállapított szöveg.
+[^7]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
