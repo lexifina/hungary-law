@@ -154,7 +154,11 @@ rendelettel állapítsa meg.
 
 a) a 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építményekre vonatkozó különös környezetvédelmi, közlekedési és településfejlesztési követelményeket, az azoktól való eltérés feltételeit, valamint az előzetes engedély iránti kérelem tartalmi követelményeit,
 
-b) az 57/D. § (1) bekezdésében meghatározott Bizottság működésének rendjét, valamint a Bizottság véleményének kialakítása során irányadó részletes szempontrendszert
+b) az 57/D. § (1) bekezdésében meghatározott Bizottság működésének rendjét, valamint a Bizottság véleményének kialakítása során irányadó részletes szempontrendszert,
+
+c) a rendeltetésmódosítási eljárás részletes szabályait, az eljáró hatóság kijelölését és az eljárás során vizsgálandó szempontokat,
+
+d) építmény rendeltetésének engedélyhez kötött, de engedély nélküli kereskedelmi rendeltetésre változtatása vagy átalakítása miatt alkalmazható bírság összegét, a bírság kiszabásának részletes szabályait, valamint a beszedett bírság felhasználását
 
 rendeletben állapítsa meg.
 
