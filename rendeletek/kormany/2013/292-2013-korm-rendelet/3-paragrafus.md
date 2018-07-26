@@ -44,7 +44,7 @@ b) az illetékes környezetvédelmi hatóságot,
 
 c)[^12] országos környezetvédelmi hatóságot, valamint
 
-d) a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős minisztert.
+d)[^13] a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős minisztert.
 
 [^5]: A 2. § a 330/2016. (XI. 4.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdése a 330/2016. (XI. 4.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -54,3 +54,4 @@ d) a hulladékgazdálkodási közszolgáltatási díj megállapításáért fele
 [^10]: A 3. § (4) bekezdés g) pontját a 221/2014. (IX. 4.) Korm. rendelet 745. § (2) bekezdése iktatta be, a 330/2016. (XI. 4.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
 [^11]: A 3. § (5) bekezdését a 330/2016. (XI. 4.) Korm. rendelet 2. § (4) bekezdése iktatta be.
 [^12]: A 3. § (5) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 238. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § (5) bekezdés d) pontja a 132/2018. (VII. 23.) Korm. rendelet 8. §-a szerint módosított szöveg.

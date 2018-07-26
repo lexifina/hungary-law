@@ -1,4 +1,4 @@
-13. § (1)[^17]
+13. § (1)[^18]
 
 (2) A szükségellátás költségeit az ingatlanhasználó a szükségellátás befejezését követően, az egy hónapot meghaladó folyamatos szükségellátás esetén havonta utólag fizeti meg a települési önkormányzat számlájára történő befizetéssel.
 
@@ -6,4 +6,4 @@
 
 (4) A települési önkormányzatot a szükségellátás költségei címén számlájára befolyt összegből a számlázás és a szükségellátás költségei beszedésének költsége a (3) bekezdés szerinti átutalási kötelezettségét követően illeti meg.
 
-[^17]: A 13. § (1) bekezdését a 330/2016. (XI. 4.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
+[^18]: A 13. § (1) bekezdését a 330/2016. (XI. 4.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
