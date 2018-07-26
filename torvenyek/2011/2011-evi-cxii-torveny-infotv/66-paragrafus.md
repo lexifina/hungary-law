@@ -1,7 +1,9 @@
-66. § (1) A személyes adatok kezelésének nyilvántartásba vételét az adatkezelő – a kötelező adatkezelés kivételével az adatkezelés megkezdése előtt – kérelmezi a Hatóságnál. A kötelező adatkezelés, valamint a 68. § (2) bekezdésben foglalt eset kivételével az adatkezelés a nyilvántartásba vételt megelőzően nem kezdhető meg.
+66. § A Hatóság megtagadja a harmadik ország hatóságától vagy nemzetközi szervezettől érkező jogsegélykérelem teljesítését és a megtagadás indokairól tájékoztatja a harmadik ország hatóságát, illetve a nemzetközi szervezetet, ha a jogsegélykérelem teljesítése
 
-(2) A kötelező adatkezelés nyilvántartásba vételét az adatkezelő az adatkezelést elrendelő jogszabály hatálybalépését követő húsz napon belül kérelmezi a Hatóságnál.
+a) nem tartozik a feladat- és hatáskörébe,
 
-(3) A nyilvántartásba vétel szempontjából az eltérő célú adatkezelések önálló adatkezelésnek minősülnek, abban az esetben is, ha a kezelt adatok köre azonos.
+b) sértené Magyarország nemzetbiztonsági érdekeit vagy a közbiztonságot,
 
-(4) A nyilvántartásba vétel iránti kérelemnek tartalmaznia kell a 65. § (1), illetve (2) bekezdése szerinti adatokat.
+c) sértené az ügyben érintett személy alapvető jogát, vagy
+
+d) jogszabályba ütközne.

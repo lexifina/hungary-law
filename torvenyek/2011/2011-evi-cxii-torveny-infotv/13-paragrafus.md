@@ -1,5 +1,3 @@
-## 12. Személyes adatok felhasználása statisztikai célra
+13. § (1) Az EGT-államba, valamint az Európai Unió működéséről szóló szerződés V. címének 4. és 5. fejezete szerint létrehozott ügynökségek, hivatalok és szervek részére irányuló adattovábbítást úgy kell tekinteni, mintha Magyarország területén belüli adattovábbításra kerülne sor.
 
-13. § (1) A kötelező adatkezelés keretében kezelt személyes adatokat – ha törvény eltérően nem rendelkezik – a Központi Statisztikai Hivatal statisztikai célból egyedi azonosításra alkalmas módon átveheti és törvényben meghatározottak szerint kezelheti.
-
-(2) A statisztikai célra felvett, átvett vagy feldolgozott személyes adatok – ha törvény eltérően nem rendelkezik – csak statisztikai célra kezelhetők. A személyes adatok statisztikai célra történő kezelésének részletes szabályait külön törvény határozza meg.
+(2) Nemzetközi adattovábbítás az általános adatvédelmi rendelet 96. cikkében, valamint a 2016/680 (EU) irányelv 61. cikkében meghatározott nemzetközi szerződések alapján az azokban meghatározott célokból, feltételekkel és adatkörben – azok módosításáig, megszüntetéséig, megszűnéséig vagy alkalmazásuk felfüggesztéséig – az e törvényben meghatározott feltételek hiányában is végezhető.

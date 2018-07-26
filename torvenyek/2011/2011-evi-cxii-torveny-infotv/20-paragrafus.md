@@ -1,23 +1,17 @@
-## 14. Az érintett előzetes tájékoztatásának követelménye
+20. § A törléshez való jog érvényesítése érdekében az adatkezelő haladéktalanul törli az érintett személyes adatait, ha
 
-20. § (1) Az érintettel az adatkezelés megkezdése előtt közölni kell, hogy az adatkezelés hozzájáruláson alapul vagy kötelező.
+a) az adatkezelés jogellenes, így különösen, ha az adatkezelés
 
-(2) Az érintettet az adatkezelés megkezdése előtt egyértelműen és részletesen tájékoztatni kell az adatai kezelésével kapcsolatos minden tényről, így különösen az adatkezelés céljáról és jogalapjáról, az adatkezelésre és az adatfeldolgozásra jogosult személyéről, az adatkezelés időtartamáról, arról, ha az érintett személyes adatait az adatkezelő a 6. § (5) bekezdése alapján kezeli, illetve arról, hogy kik ismerhetik meg az adatokat. A tájékoztatásnak ki kell terjednie az érintett adatkezeléssel kapcsolatos jogaira és jogorvoslati lehetőségeire is.
+aa) a 4. §-ban rögzített alapelvekkel ellentétes,
 
-(3) Kötelező adatkezelés esetén a tájékoztatás megtörténhet a (2) bekezdés szerinti információkat tartalmazó jogszabályi rendelkezésekre való utalás nyilvánosságra hozatalával is.
+ab) célja megszűnt, vagy az adatok további kezelése már nem szükséges az adatkezelés céljának megvalósulásához,
 
-(4) Ha az érintettek személyes tájékoztatása lehetetlen vagy aránytalan költséggel járna, a tájékoztatás megtörténhet az alábbi információk nyilvánosságra hozatalával is:
+ac) törvényben, nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusában meghatározott időtartama eltelt, vagy
 
-a) az adatgyűjtés ténye,
+ad) jogalapja megszűnt és az adatok kezelésének nincs másik jogalapja,
 
-b) az érintettek köre,
+b) az érintett az adatkezeléshez adott hozzájárulását visszavonja vagy személyes adatainak törlését kérelmezi, kivéve, ha az adatok kezelése az 5. § (1) bekezdés a) vagy c) pontján vagy (2) bekezdés b) pontján alapul,
 
-c) az adatgyűjtés célja,
+c) az adatok törlését jogszabály, az Európai Unió jogi aktusa, a Hatóság vagy a bíróság elrendelte, vagy
 
-d) az adatkezelés időtartama,
-
-e) az adatok megismerésére jogosult lehetséges adatkezelők személye,
-
-f) az érintettek adatkezeléssel kapcsolatos jogainak és jogorvoslati lehetőségeinek ismertetése, valamint
-
-g) ha az adatkezelés adatvédelmi nyilvántartásba vételének van helye, az adatkezelés nyilvántartási száma, kivéve a 68. § (2) bekezdésében foglalt esetet.
+d) a 19. § (1) bekezdés b)–d) pontjában meghatározott időtartam eltelt.

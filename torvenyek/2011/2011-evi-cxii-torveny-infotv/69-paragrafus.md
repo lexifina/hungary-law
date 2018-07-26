@@ -1,11 +1,13 @@
-## 36. Adatvédelmi audit
+## 36. Tanúsítás
 
-69. § (1) Az adatvédelmi audit a Hatóság olyan szolgáltatása, amelynek célja a végzett vagy tervezett adatkezelési műveletek a Hatóság által meghatározott és közzétett szakmai szempontok szerinti értékelésén keresztül a magas szintű adatvédelem és adatbiztonság megvalósítása. Tervezett adatkezelési műveletek akkor vonhatók audit alá, ha az adatkezelésre vonatkozó koncepció kidolgozottsága ezt lehetővé teszi.
+69. § (1) Az általános adatvédelmi rendelet 42. cikkében meghatározott tanúsítást a Hatóság az adatkezelő, illetve az adatfeldolgozó kezdeményezésére az adatkezelővel, illetve az adatfeldolgozóval kötött megállapodás alapján folytatja le.
 
-(2) Adatvédelmi auditot a Hatóság az adatkezelő kérelmére folytathat le. Az adatvédelmi audit lefolytatása iránti kérelem benyújtását követő tizenöt napon belül az adatvédelmi audit lefolytatásáért fizetendő ellenérték mértékét és az adatvédelmi audit elvégzésének várható időpontját a Hatóság közli az adatkezelővel. A Hatóság az adatvédelmi auditot abban az esetben folytatja le, ha a Hatóság közlését követő tizenöt napon belül az adatkezelő nyilatkozik arról, hogy a Hatóság közlésében megállapított feltételek ismeretében az adatvédelmi audit lefolytatása iránti kérelmét fenntartja.
+(2) A tanúsítás lefolytatására vonatkozó megállapodás megkötésének feltételeit, a tanúsításért nyújtandó ellenszolgáltatást, valamint a tanúsítás lefolytatásának menetét és a tanúsítási szempontokat a Hatóság közzéteszi.
 
-(3) Az adatvédelmi audit lefolytatásáért fizetendő ellenérték mértékét – az elvégzendő tevékenység mértékével arányosan – a Hatóság állapítja meg, az azonban nem haladhatja meg az ötmillió forintot. Az adatvédelmi audit lefolytatásáért fizetendő ellenérték a Hatóság bevétele.
+(3) A tanúsítás lefolytatására vonatkozó megállapodás megkötésének feltételeit, a tanúsításért nyújtandó ellenszolgáltatást – az elvégzendő tevékenység mértékével arányosan – a Hatóság állapítja meg. A tanúsítási eljárás lefolytatásáért nyújtandó ellenszolgáltatás a Hatóság bevétele.
 
-(4) Az adatvédelmi audit eredményét a Hatóság az auditról készített értékelésben rögzíti. Az értékelés javaslatokat fogalmazhat meg az adatkezelő számára. Az értékelés tartalma az üzleti titokra alkalmazandó szabályok szerint ismerhető meg, az adatkezelő erre irányuló kérelmére azonban a Hatóság honlapján – a kérelemnek megfelelően – az értékelést vagy az értékelés összegző megállapításait közzéteszi.
+(4) Ha a Hatóság a tanúsításról tanúsítványt vagy európai adatvédelmi bélyegzőt állít ki, közzéteszi
 
-(5) Az adatvédelmi audit a Hatóság e törvényben rögzített egyéb hatásköreinek gyakorlását nem korlátozza.
+a) az annak használatára jogosult adatkezelő, adatfeldolgozó megnevezését, valamint
+
+b) azon adatkezelési műveleteket, amelyekre a tanúsítvány vagy az európai adatvédelmi bélyegző kiterjed.

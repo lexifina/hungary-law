@@ -1,13 +1,11 @@
-## 19. A belső adatvédelmi felelősök konferenciája
+## 9. A személyes adatokkal összefüggő jogok érvényesítése az érintett halálát követően
 
-25. § (1) A belső adatvédelmi felelősök konferenciája (a továbbiakban: konferencia) a Hatóság és a belső adatvédelmi felelősök rendszeres szakmai kapcsolattartását szolgálja, célja a személyes adatok védelmére és a közérdekű adatok megismerésére vonatkozó jogszabályok alkalmazása során az egységes joggyakorlat kialakítása.
+25. § (1) Az érintett halálát követő öt éven belül a 14. § b)–e) pontjában, illetve – az általános adatvédelmi rendelet hatálya alá tartozó adatkezelési műveletek esetén – az általános adatvédelmi rendelet 15–18. és 21. cikkében meghatározott, az elhaltat életében megillető jogokat az érintett által arra ügyintézési rendelkezéssel, illetve közokiratban vagy teljes bizonyító erejű magánokiratban foglalt, az adatkezelőnél tett nyilatkozattal – ha az érintett egy adatkezelőnél több nyilatkozatot tett, a későbbi időpontban tett nyilatkozattal – meghatalmazott személy jogosult érvényesíteni.
 
-(2) A konferenciát a Hatóság elnöke szükség szerint, de évente legalább egyszer hívja össze, és meghatározza napirendjét.
+(2) Ha az érintett nem tett az (1) bekezdésnek megfelelő jognyilatkozatot, a Polgári Törvénykönyv szerinti közeli hozzátartozója annak hiányában is jogosult a 14. § c) pontjában, az általános adatvédelmi rendelet hatálya alá tartozó adatkezelési műveletek esetén az általános adatvédelmi rendelet 16. és 21. cikkében, valamint – ha az adatkezelés már az érintett életében is jogellenes volt vagy az adatkezelés célja az érintett halálával megszűnt – a 14. § d) és e) pontjában, az általános adatvédelmi rendelet hatálya alá tartozó adatkezelési műveletek esetén az általános adatvédelmi rendelet 17. és 18. cikkében meghatározott, az elhaltat életében megillető jogokat érvényesíteni az érintett halálát követő öt éven belül. Az érintett jogainak e bekezdés szerinti érvényesítésére az a közeli hozzátartozó jogosult, aki ezen jogosultságát elsőként gyakorolja.
 
-(3) A konferencia tagja minden olyan adatkezelő vagy adatfeldolgozó belső adatvédelmi felelőse, amelynél a felelős kinevezése törvény alapján kötelező.
+(3) Az érintett jogait az (1) vagy (2) bekezdés alapján érvényesítő személyt e jogok érvényesítése – így különösen az adatkezelővel szembeni, valamint a Hatóság, illetve bíróság előtti eljárás – során az e törvény által az érintett részére megállapított jogok illetik meg és kötelezettségek terhelik.
 
-(4) A konferencia tagjai lehetnek azon adatkezelők és adatfeldolgozók belső adatvédelmi felelősei, amelyek esetében a kinevezés nem kötelező. E célból a Hatóság által vezetett belső adatvédelmi felelősi nyilvántartásba bejelentkezhetnek.
+(4) Az érintett jogait az (1) vagy (2) bekezdés alapján érvényesítő személy az érintett halálának tényét és idejét halotti anyakönyvi kivonattal vagy bírósági határozattal, valamint saját személyazonosságát – és a (2) bekezdés szerinti esetben közeli hozzátartozói minőségét – közokirattal igazolja.
 
-(5) A Hatóság a kapcsolattartás céljából belső adatvédelmi felelősi nyilvántartást vezet a konferencia tagjairól. A nyilvántartás tartalmazza a belső adatvédelmi felelős nevét, postai és elektronikus levélcímét, továbbá a képviselt adatkezelő vagy adatfeldolgozó megnevezését.
-
-(6) A nyilvántartásban a Hatóság az (5) bekezdés szerinti adatokat a belső adatvédelmi felelős e megbízatásának megszűnéséről való tudomásszerzéséig tartja nyilván.
+(5) Az adatkezelő kérelemre tájékoztatja az érintett Polgári Törvénykönyv szerinti közeli hozzátartozóját az (1), illetve (2) bekezdés alapján megtett intézkedésekről, kivéve, ha azt az érintett az (1) bekezdésben meghatározott nyilatkozatában megtiltotta.

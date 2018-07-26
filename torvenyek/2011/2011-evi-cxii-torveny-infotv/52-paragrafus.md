@@ -1,9 +1,3 @@
-## VI. Fejezet
-
-## A HATÓSÁG ELJÁRÁSAI
-
-## 30. A Hatóság vizsgálata
-
 52. § (1) A Hatóságnál bejelentéssel bárki vizsgálatot kezdeményezhet arra hivatkozással, hogy személyes adatok kezelésével, illetve a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatban jogsérelem következett be, vagy annak közvetlen veszélye fennáll.
 
 (1a) A Hatóság vizsgálata a 31. § (1) bekezdésében meghatározott indokok valamelyikén alapuló bejelentés esetén az igény elutasításának közlésétől, a határidő eredménytelen elteltétől, illetve a költségtérítés megfizetésére vonatkozó határidő lejártától számított egy éven belül kezdeményezhető.

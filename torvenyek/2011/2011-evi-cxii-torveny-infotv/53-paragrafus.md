@@ -16,7 +16,11 @@ c) a bejelentés nyilvánvalóan alaptalan,
 
 d) az ismételten előterjesztett bejelentés érdemben új tényt, adatot nem tartalmaz,
 
-e) a bejelentést az 52. § (1a) bekezdésében meghatározott határidőn túl nyújtották be.
+e) a bejelentést az 52. § (1a) bekezdésében meghatározott határidőn túl nyújtották be,
+
+f) a bejelentés az 51/A. § (2) bekezdésében meghatározott feltételeknek nem felel meg, vagy
+
+g) a bejelentés tárgyában hatósági ellenőrzést végez vagy hatósági eljárást folytat.
 
 (4) Ha a bejelentést az alapvető jogok biztosa tette, a Hatóság a bejelentést érdemi vizsgálat nélkül csak abban az esetben utasíthatja el, ha az adott ügyben bírósági eljárás van folyamatban, vagy az ügyben korábban jogerős bírósági határozat született.
 
@@ -29,3 +33,5 @@ b) a vizsgálat folytatására okot adó körülmény már nem áll fenn.
 (6) A Hatóság a bejelentés érdemi vizsgálatának elutasításáról, a vizsgálat megszüntetéséről és az elutasítás, illetve a megszüntetés indokairól értesíti a bejelentőt.
 
 (7) A Hatóság a hatáskörébe nem tartozó ügyre vonatkozó bejelentést – a bejelentő egyidejű értesítése mellett – a bejelentésben foglaltak tekintetében eljárásra hatáskörrel rendelkező szervhez átteszi, ha a rendelkezésre álló adatok alapján a hatáskörrel rendelkező szerv kiléte megállapítható. Ha a Hatóság hatáskörébe nem tartozó ügyre vonatkozó bejelentés alapján a Hatóság azt állapítja meg, hogy az ügyben bírósági eljárás kezdeményezésének van helye, erről a bejelentőt értesíti.
+
+(8) Ha a vizsgálatban részt vett, a Hatóság az áttételről a vizsgált adatkezelőt, illetve adatfeldolgozót is értesíti.

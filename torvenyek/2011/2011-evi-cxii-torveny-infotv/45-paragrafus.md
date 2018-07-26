@@ -26,15 +26,15 @@ g)
 
 (6a) A miniszterelnök a (3) és (6) bekezdés alapján megtett indítványát a köztársasági elnök és a Hatóság elnöke részére egyidejűleg megküldi.
 
-(6b) A Hatóság elnöke az indítvány megalapozatlanságának megállapítása iránt az indítvány kézhezvételét követő harminc napon belül bírósághoz fordulhat, mely határidő elmulasztása esetén igazolásnak nincs helye. A pert a miniszterelnök ellen kell megindítani. A bíróság eljárására a polgári perrendtartásról szóló törvénynek a munkaviszonyból és a munkaviszony jellegű jogviszonyból származó perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az ügyben a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagos illetékességgel, soron kívül jár el, és a keresetet, valamint az ügy érdemében hozott jogerős döntését a bíróság a köztársasági elnökkel is közli.
+(6b) A Hatóság elnöke az indítvány megalapozatlanságának megállapítása iránt közigazgatási pert indíthat. A keresetindítási határidő elmulasztása esetén igazolásnak nincs helye. A bíróság a közszolgálati jogviszonnyal kapcsolatos per szabályai szerint jár el azzal, hogy a pert a miniszterelnök ellen kell megindítani, és a perre a munkavégzés helye szerinti bíróság kizárólagosan illetékes. A bíróság a keresetlevelet, valamint az ügy érdemében hozott jogerős határozatát a köztársasági elnökkel is közli.
 
 (6c) Ha a Hatóság elnökének a (6b) bekezdés alapján benyújtott keresete alapján a bíróság jogerős ítéletében azt állapítja meg, hogy a miniszterelnök a (3) és (6) bekezdés alapján megtett indítványa megalapozatlan, a köztársasági elnök a Hatóság elnöke megbízatásának megszűnését nem állapítja meg.
 
-(6d) A köztársasági elnök a miniszterelnök a (3) és (6) bekezdés alapján megtett indítványáról
+(6d) A köztársasági elnök a miniszterelnök által a (3) és (6) bekezdés alapján megtett indítványról
 
-a) ha a Hatóság elnöke a (6b) bekezdés szerinti határidőben nem fordul bírósághoz, a határidő lejártát követő tizenöt napon belül,
+a) ha a Hatóság elnöke nem indít közigazgatási pert, a keresetindításra nyitva álló határidő lejártát követő tizenöt napon belül,
 
-b) ha a Hatóság elnöke a (6b) bekezdés szerinti határidőben bírósághoz fordul, az ügy érdemében hozott jogerős döntés kézhezvételét követő tizenöt napon belül
+b) ha a Hatóság elnöke közigazgatási pert indít, az ügy érdemében hozott jogerős határozat kézhezvételét követő tizenöt napon belül
 
 dönt.
 

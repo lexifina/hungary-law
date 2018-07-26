@@ -1,3 +1,9 @@
-18. § (1) A helyesbítésről, a zárolásról, a megjelölésről és a törlésről az érintettet, továbbá mindazokat értesíteni kell, akiknek korábban az adatot adatkezelés céljára továbbították. Az értesítés mellőzhető, ha ez az adatkezelés céljára való tekintettel az érintett jogos érdekét nem sérti.
+18. § (1) A helyesbítéshez való jog érvényesülése érdekében az adatkezelő, ha az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatok pontatlanok, helytelenek vagy hiányosak, azokat – különösen az érintett kérelmére – haladéktalanul pontosítja vagy helyesbíti, illetve ha az az adatkezelés céljával összeegyeztethető, az érintett által rendelkezésére bocsátott további személyes adatokkal vagy az érintett által a kezelt személyes adatokhoz fűzött nyilatkozattal kiegészíti (a továbbiakban együtt: helyesbítés).
 
-(2) Ha az adatkezelő az érintett helyesbítés, zárolás vagy törlés iránti kérelmét nem teljesíti, a kérelem kézhezvételét követő 25 napon belül írásban vagy az érintett hozzájárulásával elektronikus úton közli a helyesbítés, zárolás vagy törlés iránti kérelem elutasításának ténybeli és jogi indokait. A helyesbítés, törlés vagy zárolás iránti kérelem elutasítása esetén az adatkezelő tájékoztatja az érintettet a bírósági jogorvoslat, továbbá a Hatósághoz fordulás lehetőségéről.
+(2) Mentesül az (1) bekezdésben meghatározott kötelezettség alól az adatkezelő, ha
+
+a) a pontos, helytálló, illetve hiánytalan személyes adatok nem állnak rendelkezésére és azokat az érintett sem bocsátja a rendelkezésére, vagy
+
+b) az érintett által rendelkezésére bocsátott személyes adatok valódisága kétséget kizáróan nem állapítható meg.
+
+(3) Ha az adatkezelő az (1) bekezdésben meghatározottak szerint az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatokat helyesbíti, annak tényéről és a helyesbített személyes adatról tájékoztatja azt az adatkezelőt, amely részére a helyesbítéssel érintett személyes adatot továbbította.

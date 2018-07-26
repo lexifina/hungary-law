@@ -1,12 +1,12 @@
 54. § (1) A Hatóság a vizsgálat során
 
-a) a vizsgált adatkezelő kezelésében levő, a vizsgált üggyel összefüggésbe hozható összes iratba betekinthet, illetve azokról másolatot kérhet,
+a) a vizsgált adatkezelő kezelésében levő, a vizsgált üggyel összefüggésbe hozható összes adatot megismerheti, arról másolatot készíthet, és az összes ilyen iratba – ideértve az elektronikus adathordozón tárolt iratokat is – betekinthet, illetve azokról másolatot kérhet,
 
-b) a vizsgált üggyel összefüggésbe hozható adatkezelést megismerheti, az adatkezelés helyszínéül szolgáló helyiségbe beléphet,
+b) a vizsgált üggyel összefüggésbe hozható adatkezelést megismerheti, az adatkezelés helyszínéül szolgáló helyiségbe beléphet, az adatkezelési műveletek végzéséhez használt eszközökhöz hozzáférhet,
 
 c) a vizsgált adatkezelőtől, illetve az adatkezelő bármely munkatársától írásbeli és szóbeli felvilágosítást kérhet,
 
-d) a vizsgált üggyel összefüggésbe hozható bármely szervezettől vagy személytől írásbeli felvilágosítást, illetve a vizsgált üggyel összefüggésbe hozható iratról másolatot kérhet, és
+d) a vizsgált üggyel összefüggésbe hozható bármely szervezettől vagy személytől írásbeli felvilágosítást, illetve a vizsgált üggyel összefüggésbe hozható adatról, iratról – ideértve az elektronikus adathordozón tárolt iratokat is – másolatot kérhet, és
 
 e) az adatkezelő hatóság felügyeleti szervének vezetőjét vizsgálat lefolytatására kérheti fel.
 

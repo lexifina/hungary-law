@@ -1,3 +1,5 @@
+## 17–19.
+
 ## III. Fejezet
 
 ## A KÖZÉRDEKŰ ADATOK MEGISMERÉSE

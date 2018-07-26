@@ -1,25 +1,15 @@
-## 18. Belső adatvédelmi felelős és adatvédelmi szabályzat
+24. § (1) Ha az adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásokat megsérti és ezzel másnak kárt okoz, köteles azt megtéríteni.
 
-24. § (1) Az adatkezelő, illetve az adatfeldolgozó szervezetén belül, közvetlenül a szerv vezetőjének felügyelete alá tartozó – jogi, közigazgatási, informatikai vagy ezeknek megfelelő, felsőfokú végzettséggel rendelkező – belső adatvédelmi felelőst kell kinevezni vagy megbízni
+(2) Ha az adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásokat megsérti és ezzel más személyiségi jogát megsérti, az, akinek személyiségi joga sérelmet szenvedett, az adatkezelőtől, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozótól sérelemdíjat követelhet.
 
-a) az országos hatósági, munkaügyi vagy bűnügyi adatállományt kezelő, illetve feldolgozó adatkezelőnél és adatfeldolgozónál;
+(3) Az adatkezelő mentesül az okozott kárért való felelősség és a sérelemdíj megfizetésének kötelezettsége alól, ha bizonyítja, hogy a kárt vagy a személyiségi jog megsértésével okozott jogsérelmet az adatkezelés körén kívül eső elháríthatatlan ok idézte elő.
 
-b) a pénzügyi szervezetnél;
+(4) Az adatfeldolgozó mentesül az okozott kárért való felelősség és a sérelemdíj megfizetésének kötelezettsége alól, ha bizonyítja, hogy az általa végzett adatkezelési műveletek során a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott, kifejezetten az adatfeldolgozókat terhelő kötelezettségek, valamint az adatkezelő jogszerű utasításainak betartásával járt el.
 
-c) az elektronikus hírközlési és közüzemi szolgáltatónál.
+(5) Az adatkezelő és az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó, továbbá a közös adatkezelők és az általuk megbízott vagy rendelkezésük alapján eljáró adatfeldolgozók a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírások megsértésével okozott
 
-(2) A belső adatvédelmi felelős
+a) kárért az érintettel szemben egyetemlegesen felelnek, valamint
 
-a) közreműködik, illetve segítséget nyújt az adatkezeléssel összefüggő döntések meghozatalában, valamint az érintettek jogainak biztosításában;
+b) személyiségi jogsértés esetén járó sérelemdíjat egyetemlegesen kötelesek megfizetni az érintettnek.
 
-b) ellenőrzi e törvény és az adatkezelésre vonatkozó más jogszabályok, valamint a belső adatvédelmi és adatbiztonsági szabályzatok rendelkezéseinek és az adatbiztonsági követelményeknek a megtartását;
-
-c) kivizsgálja a hozzá érkezett bejelentéseket, jogosulatlan adatkezelés észlelése esetén annak megszüntetésére hívja fel az adatkezelőt vagy az adatfeldolgozót;
-
-d) elkészíti a belső adatvédelmi és adatbiztonsági szabályzatot;
-
-e) vezeti a belső adatvédelmi nyilvántartást;
-
-f) gondoskodik az adatvédelmi ismeretek oktatásáról.
-
-(3) Az (1) bekezdésben meghatározott adatkezelőknek, valamint – az adatvédelmi nyilvántartásba bejelentési kötelezettség alá nem eső adatkezelők kivételével – egyéb állami és önkormányzati adatkezelőknek e törvény végrehajtása érdekében adatvédelmi és adatbiztonsági szabályzatot kell készíteniük.
+(6) Nem kell megtéríteni a kárt és nem követelhető a sérelemdíj annyiban, amennyiben a kár a károsult vagy a személyiségi jog megsértésével okozott jogsérelem a személyiségi jogi jogsérelmet szenvedő személy szándékos vagy súlyosan gondatlan magatartásából származott.

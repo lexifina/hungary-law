@@ -1,19 +1,27 @@
-17. § (1) Ha a személyes adat a valóságnak nem felel meg, és a valóságnak megfelelő személyes adat az adatkezelő rendelkezésére áll, a személyes adatot az adatkezelő helyesbíti.
+17. § (1) A hozzáféréshez való jog érvényesülése érdekében az érintettet kérelmére az adatkezelő tájékoztatja arról, hogy személyes adatait maga az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó kezeli-e.
 
-(2) A személyes adatot törölni kell, ha
+(2) Ha az érintett személyes adatait az adatkezelő vagy a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó kezeli, az adatkezelő az (1) bekezdésben meghatározottakon túl az érintett rendelkezésére bocsátja az érintett általa és a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatait, és közli vele
 
-a) kezelése jogellenes;
+a) a kezelt személyes adatok forrását,
 
-b) az érintett – a 14. § c) pontjában foglaltak szerint – kéri;
+b) az adatkezelés célját és jogalapját,
 
-c) az hiányos vagy téves – és ez az állapot jogszerűen nem orvosolható –, feltéve, hogy a törlést törvény nem zárja ki;
+c) a kezelt személyes adatok körét,
 
-d) az adatkezelés célja megszűnt, vagy az adatok tárolásának törvényben meghatározott határideje lejárt;
+d) a kezelt személyes adatok továbbítása esetén az adattovábbítás címzettjeinek – ideértve a harmadik országbeli címzetteket és nemzetközi szervezeteket – körét,
 
-e) azt a bíróság vagy a Hatóság elrendelte.
+e) a kezelt személyes adatok megőrzésének időtartamát, ezen időtartam meghatározásának szempontjait,
 
-(3) A (2) bekezdés d) pontjában meghatározott esetben a törlési kötelezettség nem vonatkozik azon személyes adatra, amelynek adathordozóját a levéltári anyag védelmére vonatkozó jogszabály értelmében levéltári őrizetbe kell adni.
+f) az érintettet e törvény alapján megillető jogok, valamint azok érvényesítése módjának ismertetését,
 
-(4) Törlés helyett az adatkezelő zárolja a személyes adatot, ha az érintett ezt kéri, vagy ha a rendelkezésére álló információk alapján feltételezhető, hogy a törlés sértené az érintett jogos érdekeit. Az így zárolt személyes adat kizárólag addig kezelhető, ameddig fennáll az az adatkezelési cél, amely a személyes adat törlését kizárta.
+g) profilalkotás alkalmazásának esetén annak tényét és
 
-(5) Az adatkezelő megjelöli az általa kezelt személyes adatot, ha az érintett vitatja annak helyességét vagy pontosságát, de a vitatott személyes adat helytelensége vagy pontatlansága nem állapítható meg egyértelműen.
+h) az érintett személyes adatainak kezelésével összefüggésben felmerült adatvédelmi incidensek bekövetkezésének körülményeit, azok hatásait és az azok kezelésére tett intézkedéseket.
+
+(3) Az érintett hozzáféréshez való jogának érvényesítését az adatkezelő az elérni kívánt céllal arányosan korlátozhatja vagy megtagadhatja, ha ezen intézkedés elengedhetetlenül szükséges a 16. § (3) bekezdés a)–f) pontjában meghatározott valamely érdek biztosításához.
+
+(4) A (3) bekezdésben foglaltak szerinti intézkedés alkalmazása esetén az adatkezelő írásban, haladéktalanul tájékoztatja az érintettet
+
+a) a hozzáférés korlátozásának vagy megtagadásának tényéről, továbbá jogi és ténybeli indokairól, ha ezeknek az érintett rendelkezésére bocsátása a 16. § (3) bekezdés a)–f) pontjában meghatározott valamely érdek érvényesülését nem veszélyezteti, valamint
+
+b) az érintettet e törvény alapján megillető jogokról, valamint azok érvényesítésének módjáról, így különösen arról, hogy az érintett a hozzáféréshez való jogát a Hatóság közreműködésével is gyakorolhatja.

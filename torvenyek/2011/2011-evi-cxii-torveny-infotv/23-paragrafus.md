@@ -1,9 +1,19 @@
-## 17. Kártérítés és sérelemdíj
+23. § (1) Az érintett az adatkezelő, illetve – az adatfeldolgozó tevékenységi körébe tartozó adatkezelési műveletekkel összefüggésben – az adatfeldolgozó ellen bírósághoz fordulhat, ha megítélése szerint az adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó a személyes adatait a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírások megsértésével kezeli.
 
-23. § (1) Ha az adatkezelő az érintett adatainak jogellenes kezelésével vagy az adatbiztonság követelményeinek megszegésével másnak kárt okoz, köteles azt megtéríteni.
+(2) Azt, hogy az adatkezelés a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásoknak – így különösen a 2. § (3) bekezdésének hatálya alá tartozó adatkezelések esetén a 4. § (1)–(4a) bekezdésben meghatározott alapvető követelményeknek – megfelel, az adatkezelő, illetve az adatfeldolgozó köteles bizonyítani.
 
-(2) Ha az adatkezelő az érintett adatainak jogellenes kezelésével vagy az adatbiztonság követelményeinek megszegésével az érintett személyiségi jogát megsérti, az érintett az adatkezelőtől sérelemdíjat követelhet.
+(3) A pert az érintett – választása szerint – a lakóhelye vagy tartózkodási helye szerint illetékes törvényszék előtt is megindíthatja.
 
-(3) Az érintettel szemben az adatkezelő felel az adatfeldolgozó által okozott kárért és az adatkezelő köteles megfizetni az érintettnek az adatfeldolgozó által okozott személyiségi jogsértés esetén járó sérelemdíjat is. Az adatkezelő mentesül az okozott kárért való felelősség és a sérelemdíj megfizetésének kötelezettsége alól, ha bizonyítja, hogy a kárt vagy az érintett személyiségi jogának sérelmét az adatkezelés körén kívül eső elháríthatatlan ok idézte elő.
+(4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége. A perbe a Hatóság az érintett pernyertessége érdekében beavatkozhat.
 
-(4) Nem kell megtéríteni a kárt és nem követelhető a sérelemdíj annyiban, amennyiben a kár a károsult vagy a személyiségi jog megsértésével okozott jogsérelem az érintett szándékos vagy súlyosan gondatlan magatartásából származott.
+(5) Ha a bíróság a keresetnek helyt ad, a jogsértés tényét megállapítja és az adatkezelőt, illetve az adatfeldolgozót
+
+a) a jogellenes adatkezelési művelet megszüntetésére,
+
+b) az adatkezelés jogszerűségének helyreállítására, illetve
+
+c) az érintett jogai érvényesülésének biztosítására pontosan meghatározott magatartás tanúsítására
+
+kötelezi, és szükség esetén egyúttal határoz a kártérítés, sérelemdíj iránti igényről is.
+
+(6) A bíróság elrendelheti ítéletének – az adatkezelő, illetve adatfeldolgozó azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha az ítélet személyek széles körét érinti, ha az alperes adatkezelő, illetve adatfeldolgozó közfeladatot ellátó szerv, vagy ha a bekövetkezett jogsérelem súlya a nyilvánosságra hozatalt indokolja.

@@ -1,25 +1,11 @@
-## 6. Az adatbiztonság követelménye
+7. § (1) Bűnüldözési célú adatkezelés esetén az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó – ha az aránytalan nehézséggel vagy költséggel nem jár – az általa kezelt személyes adatokat annak alapján rendszerezi, hogy azok azon érintettek személyes adatai
 
-7. § (1) Az adatkezelő köteles az adatkezelési műveleteket úgy megtervezni és végrehajtani, hogy az e törvény és az adatkezelésre vonatkozó más szabályok alkalmazása során biztosítsa az érintettek magánszférájának védelmét.
+a) akik tekintetében alapos okkal feltételezhető, hogy bűncselekményt vagy szabálysértést követtek el vagy bűncselekményt készülnek elkövetni,
 
-(2) Az adatkezelő, illetve tevékenységi körében az adatfeldolgozó köteles gondoskodni az adatok biztonságáról, köteles továbbá megtenni azokat a technikai és szervezési intézkedéseket és kialakítani azokat az eljárási szabályokat, amelyek e törvény, valamint az egyéb adat- és titokvédelmi szabályok érvényre juttatásához szükségesek.
+b) akik büntetőjogi vagy szabálysértési felelősségét jogerősen megállapították,
 
-(3) Az adatokat megfelelő intézkedésekkel védeni kell különösen a jogosulatlan hozzáférés, megváltoztatás, továbbítás, nyilvánosságra hozatal, törlés vagy megsemmisítés, valamint a véletlen megsemmisülés és sérülés, továbbá az alkalmazott technika megváltozásából fakadó hozzáférhetetlenné válás ellen.
+c) akik bűncselekmény vagy szabálysértés sértettjei voltak, vagy akikről megalapozottan feltételezhető, hogy bűncselekmény vagy szabálysértés sértettjei lehetnek, vagy
 
-(4) A különböző nyilvántartásokban elektronikusan kezelt adatállományok védelme érdekében megfelelő technikai megoldással biztosítani kell, hogy a nyilvántartásokban tárolt adatok – kivéve ha azt törvény lehetővé teszi – közvetlenül ne legyenek összekapcsolhatók és az érintetthez rendelhetők.
+d) akik az a)–c) pontban meghatározottakon túl bűncselekménnyel vagy szabálysértéssel, vagy azok elkövetőivel kapcsolatba hozhatóak, így különösen, akik a büntetőeljárás során tanúként meghallgathatóak, a bűncselekményről vagy a szabálysértésről információval szolgálhatnak, vagy az a) és b) pontban meghatározott érintettekkel kapcsolatban állnak vagy velük összefüggésbe hozhatóak.
 
-(5) A személyes adatok automatizált feldolgozása során az adatkezelő és az adatfeldolgozó további intézkedésekkel biztosítja
-
-a) a jogosulatlan adatbevitel megakadályozását;
-
-b) az automatikus adatfeldolgozó rendszerek jogosulatlan személyek általi, adatátviteli berendezés segítségével történő használatának megakadályozását;
-
-c) annak ellenőrizhetőségét és megállapíthatóságát, hogy a személyes adatokat adatátviteli berendezés alkalmazásával mely szerveknek továbbították vagy továbbíthatják;
-
-d) annak ellenőrizhetőségét és megállapíthatóságát, hogy mely személyes adatokat, mikor és ki vitte be az automatikus adatfeldolgozó rendszerekbe;
-
-e) a telepített rendszerek üzemzavar esetén történő helyreállíthatóságát és
-
-f) azt, hogy az automatizált feldolgozás során fellépő hibákról jelentés készüljön.
-
-(6) Az adatkezelőnek és az adatfeldolgozónak az adatok biztonságát szolgáló intézkedések meghatározásakor és alkalmazásakor tekintettel kell lenni a technika mindenkori fejlettségére. Több lehetséges adatkezelési megoldás közül azt kell választani, amely a személyes adatok magasabb szintű védelmét biztosítja, kivéve, ha az aránytalan nehézséget jelentene az adatkezelőnek.
+(2) Bűnüldözési célú adatkezelés esetén az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó – ha az aránytalan nehézséggel vagy költséggel nem jár – egyértelműen megkülönbözteti az érintettel kapcsolatba hozható tényeket és az érintettel kapcsolatba hozható szubjektív értékeléseket.

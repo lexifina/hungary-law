@@ -1,4 +1,4 @@
-56. § (1) Ha a Hatóság a személyes adatok kezelésével, illetve a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatos jogsérelem vagy annak közvetlen veszélye fennállását megalapozottnak tartja, az adatkezelőt a jogsérelem orvoslására, illetve annak közvetlen veszélye megszüntetésére szólítja fel.
+56. § (1) Ha a Hatóság a személyes adatok kezelésével, illetve a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatos jogsérelem vagy annak közvetlen veszélye fennállását állapítja meg, az adatkezelőt a jogsérelem orvoslására, illetve annak közvetlen veszélye megszüntetésére szólítja fel.
 
 (2) Az adatkezelő – egyetértése esetén – haladéktalanul megteszi az (1) bekezdés szerinti felszólításban megjelölt szükséges intézkedéseket, és a megtett intézkedéseiről, illetve – egyet nem értése esetén – álláspontjáról a felszólítás kézhezvételétől számított harminc napon belül írásban tájékoztatja a Hatóságot.
 

@@ -2,9 +2,9 @@
 
 (2) Az (1) bekezdés szerinti esetben szükséges további intézkedésként a Hatóság
 
-a) a 60. §-ban foglaltak szerint adatvédelmi hatósági eljárást indíthat,
+a) a 60. §-ban foglaltak szerint adatvédelmi hatósági eljárást indít, illetve indíthat,
 
-b) a 62. §-ban foglaltak szerint titokfelügyeleti hatósági eljárást indíthat,
+b) a 62. §-ban foglaltak szerint titokfelügyeleti hatósági eljárást indít, illetve indíthat,
 
 c) a 64. §-ban foglaltak szerint bírósági eljárást indíthat, vagy
 

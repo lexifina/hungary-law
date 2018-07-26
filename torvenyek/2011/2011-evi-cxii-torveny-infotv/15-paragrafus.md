@@ -1,13 +1,19 @@
-15. § (1) Az érintett kérelmére az adatkezelő tájékoztatást ad az érintett általa kezelt, illetve az általa vagy rendelkezése szerint megbízott adatfeldolgozó által feldolgozott adatairól, azok forrásáról, az adatkezelés céljáról, jogalapjáról, időtartamáról, az adatfeldolgozó nevéről, címéről és az adatkezeléssel összefüggő tevékenységéről, az adatvédelmi incidens körülményeiről, hatásairól és az elhárítására megtett intézkedésekről, továbbá – az érintett személyes adatainak továbbítása esetén – az adattovábbítás jogalapjáról és címzettjéről.
+## 8. Az érintett jogai érvényesülésének biztosítása
 
-(1a) Az adatkezelő – ha belső adatvédelmi felelőssel rendelkezik, a belső adatvédelmi felelős útján – az adatvédelmi incidenssel kapcsolatos intézkedések ellenőrzése, valamint az érintett tájékoztatása céljából nyilvántartást vezet, amely tartalmazza az érintett személyes adatok körét, az adatvédelmi incidenssel érintettek körét és számát, az adatvédelmi incidens időpontját, körülményeit, hatásait és az elhárítására megtett intézkedéseket, valamint az adatkezelést előíró jogszabályban meghatározott egyéb adatokat.
+15. § (1) Az adatkezelő az érintett jogai érvényesülésének elősegítése érdekében megfelelő műszaki és szervezési intézkedéseket tesz, így különösen
 
-(1b) Az elektronikus hírközlésről szóló törvény hatálya alá tartozó adatkezelő az (1a) bekezdésben meghatározott kötelezettségét az elektronikus hírközlésről szóló törvényben meghatározott, a személyes adatok megsértésének eseteit tartalmazó nyilvántartás vezetésével is teljesítheti.
+a) az érintett részére az e törvényben meghatározott esetekben nyújtandó bármely értesítést és tájékoztatást könnyen hozzáférhető és olvasható formában, lényegre törő, világos és közérthetően megfogalmazott tartalommal teljesíti, és
 
-(2) Az adatkezelő az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából adattovábbítási nyilvántartást vezet, amely tartalmazza az általa kezelt személyes adatok továbbításának időpontját, az adattovábbítás jogalapját és címzettjét, a továbbított személyes adatok körének meghatározását, valamint az adatkezelést előíró jogszabályban meghatározott egyéb adatokat.
+b) az érintett által benyújtott, az őt megillető jogosultságok érvényesítésére irányuló kérelmet annak benyújtásától számított legrövidebb idő alatt, de legfeljebb huszonöt napon belül elbírálja és döntéséről az érintettet írásban vagy ha az érintett a kérelmet elektronikus úton nyújtotta be, elektronikus úton értesíti.
 
-(3) Az (1a) és a (2) bekezdés szerinti adatok nyilvántartásban való megőrzésére irányuló – és ennek alapján a tájékoztatási – kötelezettség időtartamát az adatkezelést előíró jogszabály korlátozhatja. E korlátozás körében személyes adatok esetében öt évnél, különleges adatok esetében pedig húsz évnél rövidebb időtartam nem állapítható meg.
+(2) Az adatkezelő a 14. §-ban meghatározott jogok érvényesülésével kapcsolatban az e törvényben meghatározott feladatait – a (3) bekezdésben meghatározott kivétellel – ingyenesen látja el.
 
-(4) Az adatkezelő köteles a kérelem benyújtásától számított legrövidebb idő alatt, legfeljebb azonban 25 napon belül, közérthető formában, az érintett erre irányuló kérelmére írásban megadni a tájékoztatást.
+(3) Ha az érintett
 
-(5) A (4) bekezdésben foglalt tájékoztatás ingyenes, ha a tájékoztatást kérő a folyó évben azonos adatkörre vonatkozóan tájékoztatási kérelmet az adatkezelőhöz még nem nyújtott be. Egyéb esetekben költségtérítés állapítható meg. A költségtérítés mértékét a felek között létrejött szerződés is rögzítheti. A már megfizetett költségtérítést vissza kell téríteni, ha az adatokat jogellenesen kezelték, vagy a tájékoztatás kérése helyesbítéshez vezetett.
+a) a folyó évben, azonos adatkörre vonatkozóan a 14. § b)–e) pontjaiban meghatározott jogai érvényesítése iránt ismételten kérelmet nyújt be, és
+
+b) e kérelme alapján az adatkezelő vagy az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatainak helyesbítését, törlését vagy az adatkezelés korlátozását az adatkezelő jogszerűen mellőzi,
+
+az adatkezelő az érintett jogainak az a) és b) pontban foglaltak szerinti ismételt és megalapozatlan érvényesítésével összefüggésben közvetlenül felmerült költségeinek megtérítését követelheti az érintettől.
+
+(4) Ha megalapozottan feltehető, hogy a 14. § b)–e) pontjában meghatározott jogok érvényesítése iránt kérelmet benyújtó személy az érintettel nem azonos személy, az adatkezelő a kérelmet az azt benyújtó személy személyazonosságának hitelt érdemlő igazolását követően teljesíti.

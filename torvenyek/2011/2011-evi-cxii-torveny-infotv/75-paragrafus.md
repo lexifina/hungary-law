@@ -2,4 +2,10 @@
 
 (2) Az adatvédelmi biztos feladatkörében 2012. január 1-jét megelőzően kezelt adatokat 2012. január 1-jétől a Hatóság kezeli.
 
-(3) A 2012. január 1-jét megelőzően megkezdett, de az adatvédelmi nyilvántartásba 2012. január 1-jét megelőzően be nem jelentett, az e törvény szerinti adatvédelmi nyilvántartás hatálya alá eső adatkezelés nyilvántartásba vételét e törvény szabályai szerint 2012. június 30-ig kérelmezni kell a Hatóságnál, ennek hiányában az adatkezelés 2012. június 30-át követően nem folytatható. Nem folytatható az e bekezdés szerinti adatkezelés akkor sem, ha a nyilvántartásba vételére irányuló, 2011. december 31-ét követően benyújtott kérelem alapján a Hatóság a nyilvántartásba vételt elutasította.
+(3) A 2018. május 25-ét megelőzően megkezdett adatkezelések vonatkozásában az 5. § (5) bekezdésében meghatározott felülvizsgálatot 2021. május 25-ig kell elvégezni.
+
+(4) Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvénynek az Európai Unió adatvédelmi reformjával összefüggő módosításáról, valamint más kapcsolódó törvények módosításáról szóló 2018. évi XXXVIII. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően a Hatóság által megindított vizsgálatot és adatvédelmi hatósági eljárást a Hatóság a VI. Fejezet a Módtv. hatálybalépését megelőző napon hatályos rendelkezéseinek alkalmazásával folytatja le.
+
+(5) A Módtv. hatálybalépését megelőzően az adatvédelmi nyilvántartásban kezelt adatokat a Hatóság zárolja és azokat kizárólag a Módtv. hatálybalépését megelőzően végzett adatkezelési műveletekkel kapcsolatban indult eljárásban használhatja fel.
+
+(6) Ha az adatkezelő valószínűsíti, hogy a 25/F. § (1) bekezdésében meghatározott előírások alkalmazása az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által végzett adatkezelési műveletekhez felhasznált, a 2016/680 (EU) irányelv 63. cikk (2) bekezdésében meghatározottaknak megfelelő automatizált adatkezelési rendszerek vonatkozásában aránytalan nehézséggel vagy költséggel járna, a 25/F. § (1) bekezdésében meghatározott előírások alkalmazása alól 2022. december 31-ig mentesül.
