@@ -122,7 +122,7 @@ haladéktalanul, de legkésőbb két munkanapon belül.
 
 (5) A nyilatkozattevő írásban (postai úton, telefaxon, elektronikus levélben) a Központi Nyilvántartást kezelő pénzügyi vállalkozástól is tájékoztatást igényelhet a róla kezelt nyilatkozatadatokról.
 
-(6) A nyilatkozattevő a nyilatkozatadat-szolgáltatónál a (3) bekezdés szerint, vagy a Központi Nyilvántartást kezelő pénzügyi vállalkozásnál az (5) bekezdés szerint kérheti a nyilatkozatadatok helyesbítését, valamint – ha azok kezelésének jogalapja nem áll fenn – a törlését.””
+(6) A nyilatkozattevő a nyilatkozatadat-szolgáltatónál a (3) bekezdés szerint, vagy a Központi Nyilvántartást kezelő pénzügyi vállalkozásnál az (5) bekezdés szerint kérheti a nyilatkozatadatok helyesbítését, valamint – ha azok kezelésének jogalapja nem áll fenn – a törlését.”
 
 (2) A Kbftv. 281. § (6) bekezdése a következő szöveggel lép hatálya:
 
@@ -134,4 +134,4 @@ haladéktalanul, de legkésőbb két munkanapon belül.
 
 (3) A 2014. december 1-jét megelőzően beérkezett nyilatkozatok tekintetében a Központi Nyilvántartást kezelő pénzügyi vállalkozás a korábban tett nyilatkozatot tekinti hatályosnak és ennek megfelelően értesíti az érintett nyilatkozatadat-szolgáltatókat.
 
-(4) Az azonos nyilatkozattevő által több nyilatkozatadat-szolgáltatónál tett nyilatkozat vagy visszavonó rendelkezés esetén a Központi Nyilvántartást kezelő pénzügyi vállalkozás az (1) bekezdés szerinti adatok tekintetében 2014. december 1-jéig biztosítja a 62/G. § (4) bekezdésében foglaltak teljesülését.””
+(4) Az azonos nyilatkozattevő által több nyilatkozatadat-szolgáltatónál tett nyilatkozat vagy visszavonó rendelkezés esetén a Központi Nyilvántartást kezelő pénzügyi vállalkozás az (1) bekezdés szerinti adatok tekintetében 2014. december 1-jéig biztosítja a 62/G. § (4) bekezdésében foglaltak teljesülését.”

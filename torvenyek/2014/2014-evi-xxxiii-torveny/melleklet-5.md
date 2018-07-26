@@ -1,1 +1,1 @@
-5–6. melléklet a 2014. évi XXXIII. törvényhez
+5. melléklet a 2014. évi XXXIII. törvényhez

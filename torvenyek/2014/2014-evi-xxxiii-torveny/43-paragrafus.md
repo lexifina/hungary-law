@@ -10,4 +10,4 @@
 
 (3) A 9–18. §, a 19. § a)–c) és f) pontjai, a 23. §, 44. § és a 3. melléklet 2015. január 1-jén lép hatályba.
 
-(4) A 19. § d)–e) és g) pontjai és a 29. § 1. pontja 2019. január 1-jén lép hatályba.
+(4)
