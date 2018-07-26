@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1199-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-04-04 | 2018-1199-30-22.1 | 1199/2018. (IV. 4.) Korm. határozat |
+| 2018-07-26 | 2018-1199-30-22.2 | 1347/2018. (VII. 26.) Korm. határozat |

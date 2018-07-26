@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdése alapján az 1. pont szerinti támogatási cél megvalósításához szükséges 310 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím javára, az 1. melléklet szerint.
+## 3.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdése alapján az 1. pont szerinti támogatási cél megvalósításához szükséges 310 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcím javára, az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -18,7 +18,7 @@
 
 ## Felelős: a Kormány nemzetpolitikáért felelős tagja
 
-## Határidő: 2018. december 31.
+## Határidő: 2019. június 30.
 
 1. melléklet az 1199/2018. (IV. 4.) Korm. határozathoz
 
@@ -87,3 +87,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont az 1347/2018. (VII. 26.) Korm. határozat 38. pontja szerint módosított szöveg.
