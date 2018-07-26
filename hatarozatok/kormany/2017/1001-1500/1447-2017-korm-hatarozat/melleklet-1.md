@@ -20,7 +20,7 @@
 
 ## Felelős: belügyminiszter, Miniszterelnökséget vezető miniszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, miniszterelnök kabinetfőnöke, nemzetpolitikáért felelős miniszterelnök-helyettes, a Magyar Tudományos Akadémia elnökének felkérésével
 
-## Határidő: 2018. június 30., a Külképviseletek igazgatása cím javára átcsoportosított 150 000 000 forint és a Nemzetpolitikai célú támogatások cím javára átcsoportosított 1 253 793 000 forint tekintetében és a Kodály-év jogcímcsoport javára átcsoportosított 1 018 510 000 forint tekintetében 2019. június 30.
+## Határidő: 2018. június 30.; az MTA kutatóközpontok, kutatóintézetek cím javára átcsoportosított 55 000 000 forint tekintetében 2018. december 31.; a Külképviseletek igazgatása cím javára átcsoportosított 150 000 000 forint, a Nemzetpolitikai célú támogatások cím javára átcsoportosított 1 253 793 000 forint, a Kodály-év jogcímcsoport javára átcsoportosított 1 018 510 000 forint, az Országos Széchényi Könyvtár részére biztosított 250 000 000 forint, az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára átcsoportosított 3 087 151 050 forintból a Magyar Bencés Kongregáció Szent Mór Perjelség beruházására biztosított 500 000 000 forint, a Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása előirányzat javára átcsoportosított 398 000 000 forint tekintetében 2019. június 30.
 
 ## c) a Kvtv. 17. §-a és 4. melléklet 2. pontja alapján jóváhagyja a Kvtv. 1. melléklet, XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 19. Szociális célú humánszolgáltatások alcím, 8. Szociális humánszolgáltatók részére biztosított szociális- és gyermekvédelmi ágazati pótlék és egyéb ágazati bérrendezéssel összefüggő támogatások jogcímcsoport legfeljebb 6255 millió forint összeggel történő túllépését.
 
@@ -30,7 +30,7 @@
 
 ## Határidő: azonnal
 
-## 2.[^2] A MOB által kiemelt sportágak 2013. évi sportfejlesztési elképzeléseinek támogatásáról, továbbá a 2014–2020. évre vonatkozó sportágfejlesztési igények bemutatásáról szóló 1526/2013. (VIII. 12.) Korm. határozat (a továbbiakban: H1.) 2. pontjától eltérően a H1. 2. pont a) alpontja alapján átcsoportosított előirányzatok tekintetében az elszámolás és a visszatérítés határideje 2018. június 30.
+## 2.[^2] A MOB által kiemelt sportágak 2013. évi sportfejlesztési elképzeléseinek támogatásáról, továbbá a 2014–2020. évre vonatkozó sportágfejlesztési igények bemutatásáról szóló 1526/2013. (VIII. 12.) Korm. határozat (a továbbiakban: H1.) 2. pontjától eltérően a H1. 2. pont a) alpontja alapján átcsoportosított előirányzatok tekintetében az elszámolás és a visszatérítés határideje 2018. december 31.
 
 ## 3.[^3] A fertődi Esterházy-kastély rekonstrukciójához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1542/2013. (VIII. 15.) Korm. határozattól (a továbbiakban: H2.) eltérően a H2. alapján átcsoportosított előirányzat tekintetében az elszámolás és a visszatérítés határideje 2018. június 30.
 
@@ -438,7 +438,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont b) alpontja az 1013/2018. (II. 2.) Korm. határozat 13. pontja, az 1080/2018. (III. 13.) Korm. határozat 7. pontja, az 1133/2018. (III. 26.) Korm. határozat 10. pontja szerint módosított szöveg.
-[^2]: A 2. pont az 1989/2017. (XII. 19.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1347/2018. (VII. 26.) Korm. határozat 24. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1347/2018. (VII. 26.) Korm. határozat 25. pontja szerint módosított szöveg.
 [^3]: A 3. pont a 2029/2017. (XII. 27.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^4]: A 4–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
