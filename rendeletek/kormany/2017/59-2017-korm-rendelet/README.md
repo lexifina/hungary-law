@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-59-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-03-21 | 2017-59-20-22.1 | 59/2017. (III. 20.) Korm. rendelet |
+| 2018-07-26 | 2017-59-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
