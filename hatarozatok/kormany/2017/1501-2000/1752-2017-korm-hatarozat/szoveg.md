@@ -12,7 +12,7 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: 2019. évi költségvetés tervezésekor
 
-c) felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a 2019. évben beépülő költségvetési forrás biztosításáról a VI. Bíróságok fejezet, 1. Bíróságok cím javára 4 048 867 190 forint, a VIII. Ügyészség fejezet, 1. Ügyészségek cím javára 234 517 507 forint, a XIV. Belügyminisztérium fejezet, 5. Büntetés-végrehajtás cím javára 600 318 210 forint, 7. Rendőrség cím javára 2 907 125 870 forint összegben;
+c)[^1] felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a 2019. évben beépülő költségvetési forrás biztosításáról a VI. Bíróságok fejezet, 1. Bíróságok cím javára 1 122 744 189 forint, a VIII. Ügyészség fejezet, 1. Ügyészségek cím javára 863 115 907 forint, a XIV. Belügyminisztérium fejezet, 5. Büntetés-végrehajtás cím javára 76 200 000 forint, 7. Rendőrség cím javára 2 694 172 637 forint, 20. Fejezeti kezelésű előirányzatok cím, 1. Ágazati célfeladatok alcím, 56. Kormányzati infokommunikációs szolgáltatások jogcímcsoport javára 2 039 243 663 forint, a XVI. Nemzeti Adó- és Vámhivatal fejezet, 1. Nemzeti Adó- és Vámhivatal cím javára 163 350 400 forint összegben;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -39,3 +39,5 @@ Országos Bírósági Hivatal elnöke felkérésével
 Határidő: azonnal
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1. pont c) alpontja az 1347/2018. (VII. 26.) Korm. határozat 28. pontja szerint módosított szöveg.
