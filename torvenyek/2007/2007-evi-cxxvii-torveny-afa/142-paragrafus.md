@@ -44,4 +44,4 @@ a (3) bekezdésben említett feltételek teljesüléséről, illetőleg arról i
 
 (8) Az (1) bekezdés i) pontja nem alkalmazható a XIV. Fejezetben szabályozott jogállású, mezőgazdasági tevékenységet folytató adóalanynak e tevékenysége körébe tartozó termékértékesítésére és termékbeszerzésére.
 
-(9) Az adóalany az (1) bekezdés i) és j) pontja alá tartozó termékértékesítéséről a 6/C. számú melléklet szerinti nyilatkozattételre kötelezett.
+(9) Az adóalany az (1) bekezdés i) és j) pontja alá tartozó termékértékesítéséről, illetve az (1) bekezdés i) és j) pontja alá tartozó termékértékesítésnek megfelelő termékbeszerzéséről a 6/C. számú melléklet szerinti nyilatkozattételre kötelezett.

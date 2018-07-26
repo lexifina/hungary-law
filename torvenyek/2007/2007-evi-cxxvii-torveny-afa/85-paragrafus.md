@@ -98,11 +98,11 @@ hc) az (1) és (2) bekezdésben meghatározott bármely tevékenysége keretébe
 
 (5) A (4) bekezdés h) pontjában felsorolt feltételek teljesülésétől függetlenül, az a személy, szervezet, akit (amelyet) a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) rendelkezései alapján, az (1) és (2) bekezdésben meghatározott bármely tevékenységét érintően bírósági vagy más hatósági határozat
 
-a) megállapította a magatartás törvénybe ütközését, elrendelte a megtévesztésre alkalmas tájékoztatással kapcsolatban helyreigazító nyilatkozat közzétételét [Tpvt. 77. §-a (1) bekezdésének d) és h) pontja, illetőleg 86. §-a (2) bekezdésének a) és c) pontja], a határozat jogerőre emelkedésétől vagy véglegessé válásától az azt követő naptári év végéig,
+a) megállapította a magatartás törvénybe ütközését, elrendelte a megtévesztésre alkalmas tájékoztatással kapcsolatban helyreigazító nyilatkozat közzétételét [Tpvt. 76. § (1) bekezdés f) és j) pontjai, illetőleg 86. §-a (2) bekezdésének a) és c) pontja], a határozat jogerőre emelkedésétől vagy véglegessé válásától az azt követő naptári év végéig,
 
-b) elrendelte a törvénybe ütköző állapot megszüntetését, megtiltotta a törvénybe ütköző magatartás további folytatását, a törvénybe ütközés megállapítása esetén kötelezettséget írt elő [Tpvt. 77. §-a (1) bekezdésének e)–g) pontjai, illetőleg 86. §-a (2) bekezdésének b) és d) pontja], a határozat jogerőre emelkedésétől vagy véglegessé válásától az azt követő második naptári év végéig,
+b) elrendelte a törvénybe ütköző állapot megszüntetését, megtiltotta a törvénybe ütköző magatartás további folytatását, a törvénybe ütközés megállapítása esetén kötelezettséget írt elő [Tpvt. 76. § (1) bekezdés f)–i) pontjai, illetőleg 86. §-a (2) bekezdésének b) és d) pontja], a határozat jogerőre emelkedésétől vagy véglegessé válásától az azt követő második naptári év végéig,
 
-c) a fogyasztók széles körét érintő vagy jelentős nagyságú hátrányt okozó törvénybe ütköző tevékenysége miatt, kötelezett az ár leszállítására, az áru kijavítására vagy kicserélésére, illetőleg az ár visszafizetésére [Tpvt. 92. §-a], a határozat jogerőre emelkedésétől vagy véglegessé válásától az azt követő harmadik naptári év végéig
+c) a fogyasztók széles körét érintő vagy jelentős nagyságú hátrányt okozó törvénybe ütköző tevékenysége miatt, kötelezett az ár leszállítására, az áru kijavítására vagy kicserélésére, illetőleg az ár visszafizetésére [Tpvt. 85/A. §], a határozat jogerőre emelkedésétől vagy véglegessé válásától az azt követő harmadik naptári év végéig
 
 nem minősül közszolgáltatónak.
 

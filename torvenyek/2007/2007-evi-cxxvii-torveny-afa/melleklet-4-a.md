@@ -32,7 +32,7 @@ tárgynegyedévre vonatkozó, adó nélkül számított összesített ellenért�
 
 4. Ha a 3. pont szerinti áttérést követő négy naptári negyedévben az adóalany nem haladja meg az ott meghatározott értékhatárt, és a negyedik naptári negyedévet követő adómegállapítási időszakra nem havi bevallásra kötelezett, a negyedik naptári negyedévet követő adómegállapítási időszakra negyedéves gyakoriságú összesítő nyilatkozatot nyújt be.
 
-5. A közösségi adószámmal rendelkező, adóalanynak nem minősülő jogi személy, a 255. § szerint bevallástételi kötelezettség alól mentesülő adóalany az összesítő nyilatkozatot havonta, az ügylet teljesítését követő hó 20. napjáig az 1. és 6. pontban foglaltak szerint nyújtja be.
+5. A közösségi adószámmal rendelkező, adóalanynak nem minősülő jogi személy, a 257. § szerint bevallástételi kötelezettség alól mentesülő adóalany az összesítő nyilatkozatot havonta, az ügylet teljesítését követő hó 20. napjáig az 1. és 6. pontban foglaltak szerint nyújtja be.
 
 6. Az 1. pontban meghatározott ügyletekről (összegekről) arra az időszakra vonatkozóan kell összesítő nyilatkozatot tenni, amelynek során az adófizetési kötelezettség keletkezett. Az 1. pont h) pontjában meghatározott összeget arra az időszakra vonatkozó összesítő nyilatkozatban kell szerepeltetni, amelyben a terméket beszerző, illetve szolgáltatást igénybe vevő a 77. § szerinti utólagos adóalap-csökkenés esetén a korrekció összegéről értesítést kapott. Az 1. pont e) pontjában meghatározott szolgáltatás ellenértékének utólagos módosítása esetén a korrekció összegét arra az időszakra vonatkozó összesítő nyilatkozatban kell szerepeltetni, amelyben a szolgáltatást igénybevevő a korrekció összegéről értesítést kapott.
 
@@ -44,7 +44,7 @@ tárgynegyedévre vonatkozó, adó nélkül számított összesített ellenért�
 
 10. Az összesítő nyilatkozatot az adóalany az erre a célra rendszeresített elektronikus űrlapon, elektronikus úton terjeszti elő az állami adó- és vámhatósághoz.
 
-II. Adatszolgáltatás személygépkocsi Közösségen belüli beszerzéséről
+II. Adatszolgáltatás személygépkocsi Közösségen belüli beszerzéséről, importjáról
 
 Az adóalany az adómegállapítási időszakról benyújtott bevallásában nyilatkozik azon személygépkocsik alvázszámáról, amelyek vonatkozásában termékimport vagy Közösségen belüli termékbeszerzés jogcímén az adott adómegállapítási időszakban adófizetési kötelezettsége keletkezett.
 
