@@ -32,6 +32,6 @@ e) a Tbj. szerinti kiegészítő tevékenységet folytatóként keresőképtelen
 
 kivéve ha a kisadózóként folytatott tevékenységébe tartozó munkát végez.
 
-(10) Nem kell megfizetni a kisadózó után az (1), a (2), valamint a (4a) bekezdés szerinti adót azon hónapokra vonatkozóan sem, amelyben a (9) bekezdés a)–c) pontjai szerinti állapot megszűnik akkor, ha ez az állapot legalább 30 napig fennállt. A 30 nap számítása szempontjából figyelmen kívül kell hagyni azt az időszakot, amelyre vonatkozóan a (9) bekezdés szerint a kisadózó után az adót nem kell megfizetni.
+(10) Nem kell megfizetni a kisadózó után az (1), a (2), valamint a (4a) bekezdés szerinti adót azon hónapokra vonatkozóan sem, amelyben a (9) bekezdés a)–c) és e) pontjai szerinti állapot megszűnik akkor, ha ez az állapot legalább 30 napig fennállt. A 30 nap számítása szempontjából figyelmen kívül kell hagyni azt az időszakot, amelyre vonatkozóan a (9) bekezdés szerint a kisadózó után az adót nem kell megfizetni.
 
 (11) A kisadózó vállalkozás a tárgyhónapot követő hónap 12. napjáig köteles bejelenteni az állami adóhatósághoz azt, ha a tárgyhónapra vonatkozóan a (9)–(10) bekezdés szerint a kisadózó után nem keletkezik tételesadó-fizetési kötelezettsége. Nem kell a bejelentést havonta megismételni a (9) bekezdés d) pont szerinti esetben, azzal, hogy az említett esetben az adóhatóság – figyelemmel a (10) bekezdés rendelkezésére is – a kötelezettség módosítását a rendelkezésére álló adatok alapján hivatalból végzi el.

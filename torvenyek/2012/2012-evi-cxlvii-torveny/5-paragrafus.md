@@ -14,11 +14,11 @@ f) a gazdasági társaság, az ügyvédi iroda bejelentett kisadózó tagjának 
 
 g) a tagsági jogviszony keletkezésének napjával, ha a betéti társaság vagy közkereseti társaság kisadózó vállalkozásnak nem magánszemély tagja lesz;
 
-h) a mulasztási bírságot megállapító határozat véglegessé válása hónapjának utolsó napjával, ha az adóalanyiság időszakában elkövetett jogsértés miatt a kisadózó vállalkozás terhére az adó- vagy vámhatóság számla- vagy nyugtaadás elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért mulasztási bírságot, jövedéki bírságot állapít meg;
+h) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válása hónapjának utolsó napjával, ha az adóalanyiság időszakában elkövetett jogsértés miatt a kisadózó vállalkozás terhére az adó- vagy vámhatóság számla- vagy nyugtaadás elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért mulasztási bírságot, jövedéki bírságot állapít meg;
 
-i) az adószám alkalmazását felfüggesztő vagy törlő határozat véglegessé válása hónapjának utolsó napjával, ha a kisadózó vállalkozás adószámának alkalmazását az adóhatóság az adóalanyiság ideje alatt jogerősen felfüggeszti vagy törli;
+i) az adószám alkalmazását törlő határozat véglegessé válása hónapjának utolsó napjával, ha a kisadózó vállalkozás adószámának alkalmazását az adóhatóság az adóalanyiság ideje alatt véglegessé vált döntéssel törli;
 
-j) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válása hónapjának utolsó napjával, ha a kisadózó vállalkozás állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja a 100 ezer forintot, azzal, hogy az állami adóhatóság visszavonja az adóalanyiság megszűnéséről rendelkező határozatát, ha a kisadózó vállalkozás az adótartozását az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásáig megfizeti és a tartozás megfizetését igazolja;
+j) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válása hónapjának utolsó napjával, ha a kisadózó vállalkozás állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja a 100 ezer forintot, azzal, hogy az állami adóhatóság visszavonja az adóalanyiság megszűnéséről rendelkező határozatát, ha a kisadózó vállalkozás az adótartozását az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásáig megfizeti;
 
 k) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal;
 

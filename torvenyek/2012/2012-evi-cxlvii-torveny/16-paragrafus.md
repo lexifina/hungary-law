@@ -34,7 +34,7 @@ a) az átlagos statisztikai állományi létszáma az adóévet megelőző adó�
 
 b) az adóévet megelőző adóévben elszámolandó bevétele várhatóan nem haladja meg az 500 millió forintot, 12 hónapnál rövidebb adóév esetén az 500 millió forint időarányos részét;
 
-c) az adóévet megelőző két naptári évben adószámát állami adó- és vámhatóság véglegesen nem törölte vagy függesztette fel;
+c) az adóévet megelőző két naptári évben adószámát állami adó- és vámhatóság véglegesen nem törölte;
 
 d) üzleti évének mérlegforduló napja december 31.;
 
