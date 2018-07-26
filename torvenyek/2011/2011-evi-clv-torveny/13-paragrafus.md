@@ -1,4 +1,4 @@
-13. § (1) Az alaprész feletti rendelkezési jogot a szakképzésért és felnőttképzésért felelős miniszter gyakorolja.
+13. § (1) Az alaprész feletti rendelkezési jogot a foglalkoztatás elősegítéséről és a munkanélküliek ellátásról szóló 1991. évi IV. törvény 39/A. § (1) bekezdése határozza meg.
 
 (2) A 12. § szerinti keretösszegek mértékét a szakképzésért és felnőttképzésért felelős miniszter határozza meg.
 

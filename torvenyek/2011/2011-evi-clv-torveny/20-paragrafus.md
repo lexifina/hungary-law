@@ -1,4 +1,4 @@
-20. § (1) Az alaprészből nyújtott támogatások részletes feltételeiről – ha jogszabály másként nem rendelkezik – szerződésben kell megállapodni. A szerződést – a (2) bekezdésben meghatározott kivétellel, az alaprész kezelésére vonatkozó eljárásrendben meghatározottak szerint – az állami szakképzési és felnőttképzési szerv köti meg.
+20. § (1) Az alaprészből nyújtott támogatások részletes feltételeiről támogatási szerződésben – az állami szakképzési és felnőttképzési szerv részére nyújtott támogatások esetében támogatói okiratban – kell rendelkezni. A szerződést az alaprész kezelésére vonatkozó eljárásrendben meghatározottak szerint az állami szakképzési és felnőttképzési szerv köti meg.
 
 (2) A szakképzésért és felnőttképzésért felelős miniszter felügyelete, irányítása alá tartozó költségvetési szerveknek nyújtott támogatásra vonatkozóan – a szakképzésért és felnőttképzésért felelős miniszter döntése alapján – a szakképzésért és felnőttképzésért felelős miniszter által vezetett minisztérium vagy az állami szakképzési és felnőttképzési szerv köti meg a szerződést.
 
