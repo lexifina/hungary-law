@@ -8,6 +8,8 @@
 
 (4a) A cégjegyzék vezetéséhez és a cégnyilvántartás közhitelessége biztosításához kapcsolódó adatigénylés, továbbá az adóregisztrációs eljáráshoz kapcsolódó adatszolgáltatás érdekében a bejegyzési (változásbejegyzési) kérelemben fel kell tüntetni a cégjegyzékbe bejegyzett (bejegyezni kívánt) személy (külföldi vállalkozás magyarországi fióktelepe és külföldiek magyarországi közvetlen kereskedelmi képviselete esetében a külföldi vállalkozás) adóazonosító számát. Ha a külföldi nem rendelkezik az illetősége szerinti állam által megállapított közteherviselési azonosítóval sem, erre a körülményre utalni kell. Az adóazonosító szám a 24. § (1) bekezdés h) pontja szerinti személyek esetében szerepel a cégjegyzékben.
 
+(4b) Az állami adó- és vámhatóság a céginformációs szolgálat, továbbá a cégbíróság megkeresésére átadja a cégnyilvántartásban kezelt adóazonosító jelhez tartozó titkosított összerendelési kapcsolati kódot a (4a) bekezdés, a 23. § (4) bekezdés és a 38. § szerinti feladatellátás céljából.
+
 (5) Ha törvény a cégirat cégbírósághoz történő benyújtására közvetlenül valamely személyt kötelez, e személy a kötelezettségét elektronikus okiratként készített cégirat esetén legalább fokozott biztonságú elektronikus aláírás alkalmazásával elektronikus úton maga is teljesítheti. Ha a cégiratot elektronikus okirati formába kell alakítani, erre, és az elektronikus okirat cégbírósághoz való benyújtására a jogi képviselő vagy a cégirat benyújtására kötelezett személy jogosult. A jogi képviselő eljárására egyebekben a 37. és 38. § rendelkezéseit megfelelően alkalmazni kell.
 
 (6) A 36–40. § rendelkezéseit a jogorvoslati eljárásokban megfelelően alkalmazni kell.

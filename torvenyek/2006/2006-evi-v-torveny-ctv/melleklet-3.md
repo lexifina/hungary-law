@@ -220,7 +220,7 @@
 
 ## a) a legfőbb szervnek a végelszámolás befejezésével kapcsolatos határozatai, ideértve a felügyelőbizottság (ellenőrző bizottság), illetve a cég könyvvizsgálójának jelentését is,
 
-## b) az elfogadott zárójelentés, az utolsó üzleti év számviteli törvény szerinti beszámolója, a vagyonfelosztási határozat,
+## b) az az utolsó üzleti év számviteli törvény szerinti beszámolója, a vagyonfelosztási határozat,
 
 ## c) engedményezéssel, tartozásátvállalással kapcsolatos okiratok,
 

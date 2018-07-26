@@ -184,14 +184,10 @@
 
 ## d) nyilatkozat arról, hogy a munkavállalói érdekképviseletet a végelszámolás megindításáról az ügyvezetés tájékoztatta,
 
-## e) a nyugdíj-biztosítási igazgatási szerv és az állami adóhatóság igazolása a cég biztosítottjai adatainak átadásáról,
+## e)
 
 ## f)
 
-## 2. egyszerűsített végelszámolás esetén:
-
-## a) az 1. pont alatti okiratok,
-
-## b) a végelszámoló által közzétett hirdetmény.
+## 2.
 
 2. számú melléklet a 2006. évi V. törvényhez

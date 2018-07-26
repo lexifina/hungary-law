@@ -4,7 +4,7 @@ a) a céget megszűntnek nyilvánítja,
 
 b) a cég a végelszámolást három éven belül nem fejezte be és törlése iránt kérelmet nem terjesztett elő,
 
-c) a cég a végelszámolás általános szabályaira történő áttérést nem hajtotta végre, vagy
+c)
 
 d) a cég jogutód nélküli megszűnését előidéző ok következett be, és végelszámolási eljárás lefolytatásának nincs helye.
 

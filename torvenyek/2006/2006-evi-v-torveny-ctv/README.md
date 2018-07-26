@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-5-00-00
 | 2017-08-01 | 2017. évi LXII. törvény | 2006-5-00-00.60 |
 | 2018-01-01 | 2017. évi CXXX. törvény | 2006-5-00-00.61 |
 | 2018-07-01 | 2017. évi CLXXXVI. törvény | 2006-5-00-00.62 |
+| 2018-07-26 | 2018. évi XLI. törvény | 2006-5-00-00.63 |
