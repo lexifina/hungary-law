@@ -44,7 +44,7 @@
 
 | 10. | erdélyi szervezet beruházásainak, programjainak, eszközbeszerzéseinek, célkitűzéseinek, működésének támogatása | „VÍGADÓ” Kulturális Alapítvány | 20 000 000 |
 
-| 11. | erdélyi szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Négy Évszak Sí- és Túraközpont Egyesület | 420 000 000 |
+| 11. | erdélyi szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Székelyvarság- Négyévszakos Sí és Túraközpont Egyesület | 420 000 000 |
 
 | 12. | erdélyi szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Romániai Evangélikus Lutheránus Egyház | 250 000 000 |
 
@@ -64,4 +64,4 @@
 
 | 20. | erdélyi szervezet programjainak, célkitűzéseinek, ingatlan beruházásainak, eszközbeszerzéseinek, működésének támogatása | Csíkszentmihályi Római Katolikus Plébánia | 80 167 000 |
 
-[^1]: Az 1. melléklet az 1013/2018. (II. 2.) Korm. határozat 26–27. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1013/2018. (II. 2.) Korm. határozat 26–27. pontja, az 1347/2018. (VII. 26.) Korm. határozat 36. pontja szerint módosított szöveg.
