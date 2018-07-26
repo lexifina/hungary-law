@@ -16,23 +16,31 @@
 
 ## f)[^2] egyetért azzal, hogy
 
-## fa) az Integrált Közlekedésfejlesztési Operatív Program 3.2 beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 122,43%-áig legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható,
+## fa)[^3] az Integrált Közlekedésfejlesztési Operatív Program
+
+## faa) 2. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 109,65%-áig,
+
+## fab) 3.1. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 110,04%-áig,
+
+## fac) 3.2. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 123,60%-áig
+
+## legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható,
 
 ## fb) az IKOP-3.2.0-15-2017-00026 azonosító számú, „Szeged–Hódmezővásárhely tram-train rendszer – járműbeszerzés” című projekt keretében az Integrált Közlekedésfejlesztési Operatív Program 3.2 beruházási prioritása pénzügyi keretének 110%-át meghaladóan, de az fa) alpontban meghatározott arányt meg nem haladóan vállalható kötelezettség olyan módon, hogy e kötelezettségvállalás folytán jelentkező forrásigénynek az Integrált Közlekedésfejlesztési Operatív Program 3.2 beruházási prioritása kerete 110%-át meghaladó része finanszírozásához szükséges forrást a központi költségvetésről szóló törvényben meghatározott Uniós fejlesztések fejezet Integrált Közlekedésfejlesztési Operatív Program (IKOP) előirányzata terhére szükséges biztosítani,
 
-## g)[^3] egyetért azzal, hogy
+## g)[^4] egyetért azzal, hogy
 
 ## ga) az európai uniós forrásból megvalósítandó kötöttpályás projektekről, a rendelkezésre álló forrásokról és az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési kerete módosításának előkészítéséről szóló 1691/2016. (XI. 29.) Korm. határozat 1.7. pont b) alpontjában és 2. mellékletében meghatározott projektek esetében előkészítési tevékenységekre vállalható kötelezettség,
 
 ## gb) a ga) alpont szerinti projektek megvalósításához elsődlegesen szükséges munkálatokat elvégző kivitelező kiválasztására irányuló feltételes közbeszerzési eljárásokban beérkezett ajánlatok alapján, az irányító hatóság az e határozatban meghatározott indikatív támogatási keret erejéig vállalhat kötelezettséget, és a támogatási szerződést módosíthatja akként, hogy az a projekt teljes megvalósítására vonatkozzon azzal, hogy e módosítás nem minősül költségnövekmény miatti szerződésmódosításnak,
 
-## h)[^4] egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 1. prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 201,12%-áig legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható.
+## h)[^5] egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 1. prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 201,12%-áig legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható.
 
 ## Felelős: nemzeti fejlesztési miniszter
 
 ## Határidő: azonnal
 
-## i)[^5] egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 4. prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 123,35%-áig legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható.
+## i)[^6] egyetért azzal, hogy az Integrált Közlekedésfejlesztési Operatív Program 4. prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 123,35%-áig legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható.
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -40,9 +48,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^6]
+## 3.[^7]
 
-1. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^7]
+1. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^8]
 
 ## Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési kerete
 
@@ -60,7 +68,7 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP-2.1.0-15 | Nemzetközi (TEN-T) vasúti és vízi elérhetőség javítása | 505,263 | kiemelt | Meghirdetve: 2015. december 4. |
+| 2. | IKOP-2.1.0-15 | Nemzetközi (TEN-T) vasúti és vízi elérhetőség javítása | 503,667 | kiemelt | Meghirdetve: 2015. december 4. |
 
 3. Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javításáról szóló 3. prioritás
 
@@ -68,9 +76,9 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | IKOP-3.1.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a Közép-magyarországi régióban | 232,177 | kiemelt | Meghirdetve: 2015. december 4. |
+| 2. | IKOP-3.1.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a Közép-magyarországi régióban | 232,259 | kiemelt | Meghirdetve: 2015. december 4. |
 
-| 3. | IKOP-3.2.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a kevésbé fejlett régiókban | 146,330 | kiemelt | Meghirdetve: 2015. december 4. |
+| 3. | IKOP-3.2.0-15 | Fenntartható városi közlekedés fejlesztése és elővárosi vasúti elérhetőség javítása a kevésbé fejlett régiókban | 147,740 | kiemelt | Meghirdetve: 2015. december 4. |
 
 4. TEN-T hálózat közúti elérhetőségének javításáról szóló 4. prioritás
 
@@ -82,8 +90,9 @@
 
 [^1]: Az 1. pont e) alpontja az 1691/2016. (XI. 29.) Korm. határozat 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 5. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. a) pontja szerint módosított szöveg.
 [^2]: Az 1. pont f) alpontja az 1846/2017. (XI. 14.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: Az 1. pont g) alpontját az 1145/2017. (III. 20.) Korm. határozat 1. pontja iktatta be.
-[^4]: Az 1. pont h) pontját az 1961/2017. (XII. 18.) Korm. határozat 3. pontja iktatta be.
-[^5]: Az 1. pont i) alpontját az 1992/2017. (XII. 19.) Korm. határozat 3. pontja iktatta be, szövege az 1125/2018. (III. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^6]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet az 1819/2017. (XI. 8.) Korm. határozat 5. pontja, az 1846/2017. (XI. 14.) Korm. határozat 3. pontja, az 1961/2017. (XII. 18.) Korm. határozat 6. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. b) pontja, az 1125/2018. (III. 19.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^3]: Az 1. pont f) alpont fa) alpontja az 1342/2018. (VII. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: Az 1. pont g) alpontját az 1145/2017. (III. 20.) Korm. határozat 1. pontja iktatta be.
+[^5]: Az 1. pont h) pontját az 1961/2017. (XII. 18.) Korm. határozat 3. pontja iktatta be.
+[^6]: Az 1. pont i) alpontját az 1992/2017. (XII. 19.) Korm. határozat 3. pontja iktatta be, szövege az 1125/2018. (III. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^7]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet az 1819/2017. (XI. 8.) Korm. határozat 5. pontja, az 1846/2017. (XI. 14.) Korm. határozat 3. pontja, az 1961/2017. (XII. 18.) Korm. határozat 6. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. b) pontja, az 1125/2018. (III. 19.) Korm. határozat 4. pontja, az 1342/2018. (VII. 25.) Korm. határozat 3. pont a) és b) alpontja szerint módosított szöveg.
