@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, földművelésügyi miniszter, honvédelmi miniszter, belügyminiszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2016. június 30., a XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím részére átcsoportosított összeg tekintetében 2016. november 30.,, a XX. Emberi Erőforrások Minisztériuma Fejezet, 12. Művészeti intézmények cím javára átcsoportosított 779,9 millió forintból a Bogányi-zongorák magyar és külföldi közintézményekben történő elhelyezése és megvásárlása céljából átcsoportosított 764,5 millió forint tekintetében 2018. június 30.
+## Határidő: 2016. június 30., a XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím részére átcsoportosított összeg tekintetében 2016. november 30.,, a XX. Emberi Erőforrások Minisztériuma Fejezet, 12. Művészeti intézmények cím javára átcsoportosított 779,9 millió forintból a Bogányi-zongorák magyar és külföldi közintézményekben történő elhelyezése és megvásárlása céljából átcsoportosított 764,5 millió forint tekintetében 2018. december 31.
 
 ## 2. egyetért a Molnár János-barlang természetvédelmi célokkal összeegyeztethető hasznosítása érdekében szükséges beruházások megvalósításával és felhívja a nemzetgazdasági minisztert, hogy a beruházások megvalósítása érdekében 169,2 millió forint biztosításáról gondoskodjon.
 
@@ -258,4 +258,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1245/2016. (V. 18.) Korm. határozat 6. pontja, az 1438/2016. (VIII. 17.) Korm. határozat 8. pontja, az 1178/2017. (IV. 3.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1245/2016. (V. 18.) Korm. határozat 6. pontja, az 1438/2016. (VIII. 17.) Korm. határozat 8. pontja, az 1178/2017. (IV. 3.) Korm. határozat 3. pontja, az 1347/2018. (VII. 26.) Korm. határozat 12. pontja szerint módosított szöveg.
