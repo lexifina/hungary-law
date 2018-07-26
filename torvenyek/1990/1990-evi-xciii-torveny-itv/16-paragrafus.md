@@ -14,7 +14,7 @@ e) az állami vagy helyi önkormányzati fenntartású közgyűjteményből a ku
 
 f)
 
-g) a lakóház építésére alkalmas telektulajdonnak (tulajdoni hányadnak), valamint az ilyen ingatlanra vonatkozó vagyoni értékű jognak az öröklése, ha az örökös az örökölt ingatlanon a hagyaték jogerős átadásától számított 4 éven belül lakóházat épít, és a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Lakóházépítési szándékáról az örökös legkésőbb az illetékfizetési meghagyás jogerőre emelkedéséig nyilatkozhat az állami adóhatóságnál;
+g) a lakóház építésére alkalmas telektulajdonnak (tulajdoni hányadnak), valamint az ilyen ingatlanra vonatkozó vagyoni értékű jognak az öröklése, ha az örökös az örökölt ingatlanon a hagyaték jogerős átadásától számított 4 éven belül lakóházat épít, és a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Lakóházépítési szándékáról az örökös legkésőbb az illetékfizetési meghagyás véglegessé válásáig nyilatkozhat az állami adóhatóságnál;
 
 h) az Európai Gazdasági Térségről szóló megállapodásban részes állam által kibocsátott, hitelviszonyt megtestesítő értékpapír megszerzése;
 
@@ -44,6 +44,6 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 
 (5) Az (1) bekezdés c) pontja szerinti mentesség alkalmazása során az örökös által megszerzett lakástulajdon vagy lakáshoz kapcsolódó vagyoni értékű jog (a továbbiakban e bekezdés alkalmazásában: lakás) után megállapított illetékalapot kell csökkenteni. Amennyiben az örökös által megszerzett lakás tiszta értéke a 20 millió forintot nem éri el, a 20 millió forintból a lakás tiszta értékének levonásával fennmaradó összeg erejéig az általános mértékű öröklési illeték alá eső vagyontárgyak mentesülnek az illeték alól.
 
-(6) Termőföld tulajdonjogának, vagyoni értékű jogának öröklése esetén az egyébként járó öröklési illeték felét, ha pedig az örökös az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély, akkor egynegyedét kell megfizetni. Ez utóbbi kedvezményre való jogosultságról a vagyonszerzőnek a fizetési meghagyás jogerőre emelkedéséig kell nyilatkoznia.
+(6) Termőföld tulajdonjogának, vagyoni értékű jogának öröklése esetén az egyébként járó öröklési illeték felét, ha pedig az örökös az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély, akkor egynegyedét kell megfizetni. Ez utóbbi kedvezményre való jogosultságról a vagyonszerzőnek a fizetési meghagyás véglegessé válásáig kell nyilatkoznia.
 
 (7) Azt az örököst, aki a hagyatékból ráeső termőföldet (tulajdoni hányadot) az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély örököstársának ellenszolgáltatás fejében átengedi, az átengedett termőföld (tulajdoni hányad) után öröklési illeték nem terheli.

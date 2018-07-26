@@ -18,7 +18,7 @@ h) az egészségbiztosítási szerv, a központi nyugdíjbiztosítási szerv,
 
 i) a Magyar Nemzeti Bank,
 
-j) a Magyar Rádió Nonprofit Zrt., a Magyar Televízió Nonprofit Zrt., a Duna Televízió Nonprofit Zrt., a Magyar Távirati Iroda Nonprofit Zrt., és a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
+j) a Duna Médiaszolgáltató Nonprofit Zrt., és a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
 
 k) az Észak-atlanti Szerződés Szervezete, az Észak-atlanti Szerződés tagállamainak és a Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői, valamint az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok, és e fegyveres erők és parancsnokságok személyi állományába tartozó vagy alkalmazásában álló nem magyar állampolgárságú, katonai szolgálatban lévő és polgári állományú személyek, kizárólag a szolgálati kötelezettségükkel összefüggő illetékügyek tekintetében,
 

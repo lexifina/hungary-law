@@ -30,6 +30,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (5)
 
+(5a) A 33. § (2) bekezdés 31. pontja a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) 57. cikk (3) bekezdése végrehajtásához szükséges rendelkezést állapít meg és a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelv 46. cikk (3) bekezdésének való megfelelést szolgálja.
+
 (6) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013. 12.24., 1.o.) hatálya alá tartozó támogatást tartalmaz.
 
 (7) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal való összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187, 2014.6.26.) hatálya alá tartozó támogatást tartalmaz.

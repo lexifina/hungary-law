@@ -1,6 +1,6 @@
 80. § (1) Azoktól az esetektől eltekintve, amelyekben az illetéket törvény rendelkezése alapján kell törölni vagy visszatéríteni, a kiszabott, de még meg nem fizetett illeték törlésének, illetőleg a megfizetett illeték visszatérítésének – hivatalból, vagy a fizetésre kötelezett, illetve jogutódja kérelmére – a következő esetekben van helye:
 
-a) ha az illeték jogerős megállapítása után olyan körülmény állott be, amely az örökség vagy hagyomány értékét az öröklés megnyíltának idejére visszaható módon csökkenti;
+a) ha az illeték végleges megállapítása után olyan körülmény állott be, amely az örökség vagy hagyomány értékét az öröklés megnyíltának idejére visszaható módon csökkenti;
 
 b) ha a jogügyletet a bíróság módosítja, megszünteti, felbontja, vagy a jogügylet érvénytelenségét megállapítja, és emiatt a jogügylet után kevesebb illeték jár, vagy illeték nem jár;
 

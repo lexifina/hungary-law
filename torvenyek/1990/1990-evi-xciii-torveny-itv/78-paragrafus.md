@@ -4,7 +4,7 @@
 
 (2)
 
-(3) A fizetési meghagyás (határozat) alapján fizetendő illeték a határozat jogerőre emelkedését követő 15. napon válik esedékessé.
+(3) A fizetési meghagyás (határozat) alapján fizetendő illeték a határozat véglegessé válását követő 15. napon válik esedékessé.
 
 (4) A bírósági értesítés alapján kibocsátott fizetési felhívásban megjelölt illeték a felhívás közlésétől számított 30. napon válik esedékessé.
 

@@ -6,7 +6,7 @@ a) a vállalkozási tevékenységet egyéni vállalkozóként megkezdje, vagy
 
 b) a megszerzett vállalkozói vagyont egyéni cége, illetve többségi tulajdonában álló gazdasági társasága részére nem pénzbeli hozzájárulásként átadja,
 
-és a fizetési meghagyás jogerőre emelkedése évének utolsó napjától számított legalább három évig a vállalkozási tevékenységet nem szünteti meg, illetve egyéni cégében fennálló vagyoni betétjét nem idegeníti el vagy a többségi tulajdonában álló gazdasági társaságban fennálló részesedésének arányát nem csökkenti.
+és a fizetési meghagyás véglegessé válása évének utolsó napjától számított legalább három évig a vállalkozási tevékenységet nem szünteti meg, illetve egyéni cégében fennálló vagyoni betétjét nem idegeníti el vagy a többségi tulajdonában álló gazdasági társaságban fennálló részesedésének arányát nem csökkenti.
 
 (2) Az (1) bekezdés szerinti kedvezmény akkor vehető igénybe, ha
 

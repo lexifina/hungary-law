@@ -8,4 +8,4 @@
 
 (4) A bírósági közvetítés illetékmentes.
 
-(5)
+(5) Illetékmentes a bírósági adatkezelési műveletek ellenőrzésére irányuló adatvédelmi kifogás.
