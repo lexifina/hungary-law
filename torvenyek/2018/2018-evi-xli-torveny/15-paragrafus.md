@@ -1,6 +1,6 @@
 15. § Az Szja tv. a következő 95. §-sal egészül ki:
 
-„95. § (1) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított rendelkezéseit – a (2)–(3) bekezdésben foglaltak figyelembevételével – a hatálybalépés napjától megszerzett jövedelemre és keletkezett adókötelezettségre kell alkalmazni.
+„95. § (1) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított rendelkezéseit – a (2)–(3) bekezdésben foglaltak figyelembevételével – a hatálybalépés napjától megszerzett jövedelemre és keletkezett adókötelezettségre kell alkalmazni.
 
 (2) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 65. § (2) bekezdés a) és b) pontja, 66. § (3) bekezdése, 67. § (5) bekezdése a hatálybalépését megelőzően megszerzett jövedelemre is alkalmazható.
 

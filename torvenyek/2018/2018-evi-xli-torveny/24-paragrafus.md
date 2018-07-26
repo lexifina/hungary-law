@@ -1,8 +1,8 @@
 24. § A Tao. törvény 22/E. §-a és a 22/E. §-át megelőző alcíme helyébe a következő rendelkezés lép:
 
-## „Energiahatékonysági célokat szolgáló beruházás, felújítás adókedvezménye
+„Energiahatékonysági célokat szolgáló beruházás, felújítás adókedvezménye
 
-22/E. § (1) Az adózó adókedvezményt vehet igénybe energiahatékonysági célokat szolgáló beruházás, felújítás üzembe helyezése és üzemeltetése esetén a beruházás, felújítás üzembe helyezését követő adóévben – vagy döntése szerint a beruházás, felújítás üzembe helyezésének adóévében – és az azt követő öt adóévben.
+22/E. § (1) Az adózó adókedvezményt vehet igénybe energiahatékonysági célokat szolgáló beruházás, felújítás üzembe helyezése és üzemeltetése esetén a beruházás, felújítás üzembe helyezését követő adóévben – vagy döntése szerint a beruházás, felújítás üzembe helyezésének adóévében – és az azt követő öt adóévben.
 
 (2) Az adózó által igénybe vehető adókedvezmény mértéke nem haladhatja meg adózónként, továbbá beruházásonként, felújításonként, a beruházáshoz, felújításhoz igényelt összes állami támogatással együttesen, jelenértéken a beruházás, felújítás elszámolható költsége
 

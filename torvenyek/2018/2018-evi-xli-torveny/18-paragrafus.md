@@ -1,10 +1,10 @@
 18. § Hatályát veszti az Szja tv.
 
-1. 3. § 64. pontja,
+1.
 
 2. 10. § (7) bekezdés c) és d) alpontjában az „állandó” szövegrész,
 
-3. 13. § a) pontja,
+3.
 
 4. 49/A. § (1) bekezdésében az „és az adózás rendjéről szóló törvényben” szövegrész,
 
@@ -14,29 +14,29 @@
 
 7. 67. § (5) bekezdésében az „az adóhatósági közreműködés nélkül elkészített” szövegrész,
 
-8. 71. § (6) bekezdés,
+8.
 
-9. 89. § (6) bekezdés,
+9.
 
 10. 1. számú melléklet 1. pont 1.1. alpontjában az „, a megváltozott munkaképességű személyek ellátásai” szövegrész,
 
 11. 1. számú melléklet 1. pont 1.8. alpontja,
 
-12. 1. számú melléklet 2. pont 2.7. alpontja,
+12.
 
-13. 1. számú melléklet 2. pont 2.11. alpontja,
+13.
 
-14. 1. számú melléklet 6. pont 6.3. alpontja,
+14.
 
-15. 1. számú melléklet 7. pont 7.38. alpont b) pontja,
+15.
 
 16. 1. számú melléklet 8. pont 8.27. alpontjában a „természetbeni ellátás formájában nyújtott rendkívüli gyermekvédelmi támogatás, továbbá a” szövegrész,
 
-17. 1. számú melléklet 8. pont 8.28. alpontja,
+17.
 
-18. 1. számú melléklet 9. pont 9.3. alpontja,
+18.
 
-19. 1. számú melléklet 9. pont 9.7. alpontja,
+19.
 
 20. 3. számú melléklet I. Jellemzően előforduló költségek fejezet 5. pontjában a „nem megállapodás alapján” szövegrész,
 

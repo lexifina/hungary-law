@@ -18,6 +18,6 @@
 
 9. 19. § (9) bekezdésében az „állami adóhatósághoz” szövegrészek helyébe az „állami adó- és vámhatósághoz” szöveg,
 
-10. 26. § (1), (4), (5) és (6) bekezdésében az „a betéti társaság és az egyéni cég” szövegrészek helyébe az „a betéti társaság, az egyéni cég és az ügyvédi iroda” szöveg
+10.
 
 lép.

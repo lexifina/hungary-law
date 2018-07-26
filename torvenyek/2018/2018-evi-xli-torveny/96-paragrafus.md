@@ -1,23 +1,23 @@
 96. § Hatályát veszti az Áfa tv.
 
-1. 142. § (1) bekezdés h) pontja,
+1.
 
-2. 142. § (1) bekezdés i) pontja,
+2.
 
-3. 142. § (1) bekezdés j) pontja,
+3.
 
-4. 142. § (8) bekezdése,
+4.
 
-5. 142. § (9) bekezdése,
+5.
 
-6. 6/A. számú melléklete,
+6.
 
-7. 6/B. számú melléklete,
+7.
 
-8. 6/C. számú melléklete,
+8.
 
-9. 8/A. számú melléklet 4. pontja,
+9.
 
-10. 8/A. számú melléklet 5. pontja,
+10.
 
 11. 10. számú melléklet 2. pontja.

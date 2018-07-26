@@ -1,3 +1,1 @@
-199. § A Vtv. 179. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az engedélyes – abban az esetben, ha a központi vámkezelésre irányuló engedély nem Magyarországon került kiadásra – köteles a szabad forgalomba bocsátás, meghatározott célra történő felhasználás, az általánosforgalmiadó-fizetési kötelezettséggel járó ideiglenes behozatal során megállapításra kerülő egyéb terhek megállapításához szükséges adónyilatkozatot az adófizetési kötelezettség keletkezésekor az engedélyben megjelölt vámhivatalnál, az engedélyben meghatározott időpontig benyújtani. Nem kell benyújtani az általános forgalmi adó fizetési kötelezettség megállapításához szükséges adónyilatkozatot annak a gazdálkodónak, aki rendelkezik az általános forgalmi adó önadózással történő megállapítására jogosító engedéllyel és egyéb adófizetési kötelezettsége a vámhatóság felé nem keletkezik.”
+### 199. §

@@ -1,3 +1,1 @@
-7. § Az Szja tv. 44/C. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) Az (1) bekezdésben foglaltaktól eltérően, ha a magánszemély külföldi biztosítóval megkötött nyugdíjbiztosítási szerződés alapján jogosult adóról való rendelkezésre, az adóbevallásában – a rendelkezési jogosultság alapja, összege megállapításához szükséges adatokon túlmenően – feltünteti a külföldi biztosító nevét (megnevezését), címét (székhelyét), továbbá azt az államot, amelyben a biztosító belföldi illetőségűnek minősül. A magánszemély, ha adó feletti rendelkezési jogosultságát külföldi biztosítóval megkötött nyugdíjbiztosítási szerződés alapján gyakorolta, az adóbevallásában vallja be a (8) bekezdés szerinti visszafizetési kötelezettség összegét és az adóbevallás benyújtására előírt határidőig fizeti azt meg.”
+### 7. §
