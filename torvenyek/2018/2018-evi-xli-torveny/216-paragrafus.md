@@ -1,0 +1,3 @@
+216. § Az Szt. 33. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Aktív időbeli elhatárolásként lehet kimutatni a 77. § (2) bekezdés d) pontja és (3) bekezdés b) pontja szerinti, jogszabályi előíráson, szerződésen, megállapodáson alapuló támogatások várható, még el nem számolt összegét az egyéb bevételekkel szemben, amennyiben a vállalkozó bizonyítani tudja, hogy teljesíteni fogja a támogatáshoz kapcsolódó feltételeket és valószínű, hogy a támogatást meg fogja kapni. Az aktív időbeli elhatárolást a kapott támogatás 77. § (2) bekezdés d) pontja és (3) bekezdés b) pontja szerinti elszámolásakor, illetve a támogatás meghiúsulásakor kell megszüntetni.”

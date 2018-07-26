@@ -1,0 +1,5 @@
+## 3. Az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény módosítása
+
+29. § Az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény (a továbbiakban: Eva törvény) 18. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A (7) bekezdésben említett forrásokat és a források változását az adózó elkülönítetten tartja nyilván. E nyilvántartásban az adóalany az adóalanyiság időszaka alatt az adózott eredményt, ha az veszteség, az adóalanyiság időszaka alatt keletkezett eredménytartalék terhére, ha az erre már nem nyújt fedezetet, akkor a korábban keletkezett eredménytartalék terhére számolja el. Ha az adóalany tagja, volt tagja (örököse) részére tagi jogviszonyára tekintettel juttat bevételt (ide nem értve a tag személyes közreműködésének és a tag által teljesített mellékszolgáltatásnak a díját), akkor az adózó választhat, hogy azt az adóalanyiság időszaka alatt keletkezett eredménytartalék terhére, vagy a korábban keletkezett eredménytartalék terhére számolja el.”

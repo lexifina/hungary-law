@@ -1,0 +1,9 @@
+## 6. Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény módosítása
+
+41. § Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény II. Fejezete a következő 12/G. §-sal egészül ki:
+
+„12/G. § (1) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel hatályon kívül helyezett 8–12. §-t nem kell alkalmazni a 2018. január 1-jétől megszerzett jövedelmekre.
+
+(2) Amennyiben a magánszemély az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel hatályon kívül helyezett 8–12. § alapján szerzett olyan jövedelmet, amelynek adókötelezettsége az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény hatálybalépését követő naptól megszűnt, az utóbb tartozatlanul megfizetettnek minősülő különadó elszámolása a (3) bekezdésben foglaltak szerint történik. Az eljárás a munkáltatót terhelő közterheket nem érinti.
+
+(3) Amennyiben a munkáltató az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény hatálybalépése előtt a korábbi szabályok szerint különadó alapjául szolgáló bevételből a különadót levonta, a korábbiakban a különadó-alapba tartozó jövedelmek után az általános szabályok szerinti közterheket megállapítja, és azok összegét visszatartja a magánszemély részére visszajáró különadó-előleg összegéből. A munkáltató az előbbieknek megfelelően módosítja a jövedelemszerzés bevallási időszakára vonatkozóan benyújtott bevallását és a magánszemély részére a jövedelemről kiadott igazolást. Az eljárással összefüggésben a munkáltatót pótlékfizetési kötelezettség nem terheli.”

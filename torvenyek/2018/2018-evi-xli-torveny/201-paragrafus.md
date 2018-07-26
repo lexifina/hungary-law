@@ -1,0 +1,5 @@
+201. § A Vtv. 185. §-a helyébe a következő rendelkezés lép:
+
+„185. § [Adónyilatkozat aktív feldolgozás során]
+
+Az aktív feldolgozás engedélyese köteles a VA 324. cikk (1) bekezdése alkalmazása során megállapításra kerülő egyéb terhek megállapításához szükséges, a 179. § (5) bekezdése szerinti adónyilatkozatot benyújtani az adófizetési kötelezettség keletkezésekor az engedélyben megjelölt vámhivatalnál, az engedélyben meghatározott időpontig. Nem kell benyújtania az általánosforgalmiadó-fizetési kötelezettség megállapításához szükséges adónyilatkozatot annak a gazdálkodónak, aki rendelkezik az áfa önadózással történő megállapítására jogosító engedéllyel és egyéb adófizetési kötelezettsége a vámhatóság felé nem keletkezik.”

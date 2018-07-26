@@ -1,0 +1,3 @@
+173. § A Szocho tv. „Más jogszabályok alkalmazása” alcímét megelőző, az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvény 154. §-ával beiktatott 464/E. §-a helyébe a következő rendelkezés lép:
+
+„464/F. § A 462/D. §-ban meghatározott kedvezmény esetében a kedvezményre jogosító feltételeknek a kedvezményezett foglalkoztatás kezdetének időpontjában kell fennállniuk. Amennyiben a 462/D. § (3) bekezdés szerinti kedvezmény igénybevételére való jogosultság már a 462/D. § (2) bekezdés szerinti kedvezmény érvényesítése során keletkezik, a 462/D. § (3) bekezdés szerinti kedvezmény teljes egészében érvényesíthető.”
