@@ -68,4 +68,6 @@ h) az olyan személynek juttatott bevétel, akire a társadalombiztosítás ell�
 
 i) az ingatlan bérbeadásából származó jövedelem;
 
-j) az a jövedelem, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 11. §-a, 11/A. §-a, 11/B. §-a vagy 13. §-a alapján nem áll fenn biztosítási jogviszony, függetlenül a kifizetés (juttatás) időpontjától.
+j) az a jövedelem, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 11. §-a, 11/A. §-a, 11/B. §-a vagy 13. §-a alapján nem áll fenn biztosítási jogviszony, függetlenül a kifizetés (juttatás) időpontjától;
+
+k) a jövedelmet pótló kártérítés, keresetpótló járadék, ide nem értve a munkavégzés ellenértékeként (különösen elmaradt munkabér, végkielégítés címén) kapott, juttatott adóalapot képező jövedelmet.
