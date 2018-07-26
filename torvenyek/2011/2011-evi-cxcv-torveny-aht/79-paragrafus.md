@@ -16,7 +16,7 @@ e) az MNV Zrt.,
 
 f) a Diákhitel Központ Zrt.,
 
-g)
+g) a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság,
 
 h) a Nemzeti Eszközkezelő Zrt.,
 

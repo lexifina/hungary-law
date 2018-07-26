@@ -16,7 +16,7 @@
 
 5. a rendkívüli kormányzati intézkedésekre szolgáló tartalék és a fejezeti stabilitási tartalék felhasználásának rendjét,
 
-6.
+6. az 51. § (4) bekezdése szerinti költségvetési támogatásokat, valamint e költségvetési támogatásoknak a kincstárnál vezetett fizetési számlára történő folyósításával és felhasználásával kapcsolatos részletes szabályokat,
 
 7. a fejezetet irányító szerv által az adott költségvetési évre az államháztartásért felelős miniszter egyetértésével kiadott rendelet, szabályzat tartalmi követelményeit,
 
@@ -100,7 +100,7 @@ részletes szabályait,
 
 38. a gépjárműadó központi költségvetést megillető hányadával kapcsolatos átutalás, adatszolgáltatás, ellenőrzés és kamatfizetés részletes szabályait, valamint az eljárások során kiróható bírság mértékét és kiszabásának elveit,
 
-39. a törzskönyvi nyilvántartásba bejegyzendő adatok körét, a nyilvántartásba vétel, a nyilvántartás vezetésének, a nyilvántartásból történő adatlekérdezés és adatszolgáltatás, a nyilvántartáshoz gépi adatfeldolgozási eszközzel történő csatlakozás szabályait, a törzskönyvi nyilvántartással kapcsolatos bejelentési, adatszolgáltatási vagy nyilatkozattételi kötelezettség elmulasztása, késedelmes, hibás vagy valótlan adattartalommal történő teljesítése esetén kiszabható bírság mértékét és kiszabásának elveit,
+39. a törzskönyvi nyilvántartásba bejegyzendő adatok körét, a nyilvántartásba vétel, a nyilvántartás vezetésének, a nyilvántartásból történő adatlekérdezés és adatszolgáltatás, a nyilvántartáshoz gépi adatfeldolgozási eszközzel történő csatlakozás szabályait, a törzskönyvi nyilvántartással kapcsolatos bejelentési vagy adatszolgáltatási kötelezettség elmulasztása, késedelmes, hibás vagy valótlan adattartalommal történő teljesítése esetén kiszabható bírság mértékét és kiszabásának elveit,
 
 40. a 11/A. § (1) bekezdése szerinti társaság
 
@@ -171,6 +171,8 @@ b) olyan költségvetési kiadási előirányzat a) pontba nem tartozó felhaszn
 (5b)
 
 (6) Felhatalmazást kap a helyi önkormányzat, hogy rendeletben állapítsa meg a kiadások készpénzben történő teljesítésének eseteit.
+
+(6a) Felhatalmazást kap a helyi önkormányzat arra, hogy rendeletben állapítsa meg az önkormányzati tulajdonú gazdasági társaságok feladatellátásának önkormányzati fenntartású költségvetési szerv által történő átvételének és a társaság e törvény alapján történő megszüntetésének részletes szabályait.
 
 (7) Az (1) bekezdés 15. pontjában foglalt felhatalmazás alapján kiadott kormányrendeletben meghatározott nyilvántartásokkal kapcsolatos adatfeldolgozási feladatok ellátásával az adatkezelő csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 

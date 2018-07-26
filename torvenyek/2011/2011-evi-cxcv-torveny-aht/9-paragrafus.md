@@ -2,7 +2,7 @@
 
 9. § Ha törvény eltérően nem rendelkezik, a költségvetési szerv irányítása a következő hatáskörök gyakorlását jelenti:
 
-a) a költségvetési szerv alapítása, átalakítása és megszüntetése, ideértve az alapító okirat és annak módosítása, valamint a megszüntető okirat kiadására vonatkozó hatáskör gyakorlását,
+a) a költségvetési szerv alapítása, átalakítása és megszüntetése, ideértve az alapító okirat és annak módosítása, valamint a megszüntető okirat kiadására vonatkozó hatáskör (a továbbiakban együtt: alapítói jogok) gyakorlását,
 
 b) a költségvetési szerv szervezeti és működési szabályzatának jóváhagyása,
 

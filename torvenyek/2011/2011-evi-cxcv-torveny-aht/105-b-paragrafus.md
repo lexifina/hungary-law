@@ -1,3 +1,3 @@
-105/B. § (1) A bejelentési, adatszolgáltatási vagy nyilatkozattételi kötelezettségét késedelmesen, hibásan vagy valótlan adattartalommal teljesítő szerv a Kormány rendeletében meghatározott mértékű bírsággal sújtható.
+105/B. § (1) A bejelentési vagy adatszolgáltatási kötelezettségét késedelmesen, hibásan vagy valótlan adattartalommal teljesítő szerv a Kormány rendeletében meghatározott mértékű bírsággal sújtható.
 
 (2) A kincstár jogosult az államháztartás központi alrendszerébe tartozó költségvetési szerv, a törvény által az államháztartás központi alrendszerébe sorolt köztestület, valamint az államháztartás központi alrendszerébe tartozó jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy fizetési számláját a bírság összegével megterhelni.

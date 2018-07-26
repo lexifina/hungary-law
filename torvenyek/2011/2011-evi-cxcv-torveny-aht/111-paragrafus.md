@@ -4,11 +4,15 @@
 
 (2) Az 1993. január 1-jét megelőzően jogszabály által biztosított, jogszabályi felhatalmazás alapján vállalt állami kezességre, garanciára, helytállásra – a kezességvállalás érintetlenül hagyásával – e törvény rendelkezéseit kell alkalmazni.
 
-(3)
+(3) A helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás, valamint a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság, amennyiben a részére megítélt európai uniós forrásból nyújtott támogatás összege meghaladja az ötvenmillió forintot, az európai uniós forrásból származó költségvetési támogatások kincstáron kívüli fizetési számlán kezelt, még fel nem használt összegét a kincstárnál vezetett fizetési számlájára 2018. szeptember 30-ig átutalja. Ezt követően a kedvezményezett a költségvetési támogatás célja szerinti kiadásokat kizárólag a kincstárnál vezetett fizetési számláról teljesítheti. A támogató ellenőrzi az átutalási kötelezettség teljesítését, annak felszólítás ellenére történő elmaradása esetén a jogosulatlanul igénybe vett támogatás jogkövetkezményeit alkalmazza. E rendelkezést a 2018. október 31. napjáig lezáruló európai uniós projektek esetében nem kell alkalmazni
 
 (4) A 92. § (9) bekezdését az e törvény hatálybalépését megelőzően létrejött állami kezességgel biztosított alapjogviszony e törvény hatálybalépését követően történő módosítása során is alkalmazni kell.
 
-(5)–(7)
+(5) Az állami adó- és vámhatóság 2018. október 1-jével a közhiteles törzskönyvi nyilvántartás részére egy egyszeri adatátadás keretében elektronikusan átadja a törzskönyvi jogi személy adószámát, valamint – a nyilvántartást vezető szerv adatszolgáltatása alapján azonosított – vezetője vagy a vezetői jogok gyakorlására ideiglenesen jogosult személy nevét és adóazonosító jelét nyilvántartásba vétel céljából. Az átadást követő naptól a törzskönyvi nyilvántartásba bejegyzett törzskönyvi jogi személy által bejelentett vezető adóazonosító jele, átadásra kerül az „Egyablakos rendszer” keretében az állami adó – és vámhatóság részére.
+
+(6) Az (5) bekezdésben meghatározott azonosítás sikertelensége esetén a hiányzó személyes adatok feltöltését a kincstár hibakezelési eljárás keretében egyedileg hajtja végre a rendelkezésre álló adatok, illetve iratok alapján.
+
+(7)
 
 (8)
 
@@ -18,7 +22,7 @@
 
 (11) Ahol jogszabály Kormány által kijelölt belső ellenőrzési szervet említ, azon a 63. § (1) bekezdésében meghatározott kormányzati ellenőrzési szervet kell érteni.
 
-(12) A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény hatálybalépését megelőző napon hatályos 111. § (13) bekezdése szerint adott vagy 111. § (15) bekezdése alapján meghosszabbított felmentés a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény hatálybalépésének napjával határozatlan időre szóló felmentéssé alakul át.
+(12)
 
 (13)–(15)
 
@@ -48,7 +52,7 @@
 
 (31)
 
-(32) Azon kincstári körön kívüli számlatulajdonosok, amelyek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 79. § (3a) bekezdése értelmében értékpapírszámlával nem rendelkezhetnek, a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény hatálybalépésekor meglévő értékpapírszámláikat legkésőbb 2016. december 31-éig kötelesek megszüntetni.
+(32)
 
 (33) A nemzetiségi önkormányzatok és az általuk irányított költségvetési szervek esetében a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel megállapított 44. § (1) bekezdése szerinti, a személyi juttatások kiemelt előirányzaton elszámolandó kiadásokkal kapcsolatos, az állami adóhatóság felé teljesítendő bevallási kötelezettségeknek a kincstár által működtetett központosított illetményszámfejtés útján történő teljesítése 2018. január 1-jétől valósul meg.
 
