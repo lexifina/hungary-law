@@ -1,3 +1,3 @@
 ## Hatályon kívül helyező rendelkezések
 
-9. §
+### 9. §
