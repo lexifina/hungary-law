@@ -8,4 +8,4 @@ b) aki 2011. december 31-én a Hszt. vagy a Hjt. 2012. január 1-jét megelőző
 
 c) aki 1954-ben vagy azt megelőzően született, 2011. december 31-én a Hszt. vagy a Hjt. szerinti szolgálati viszonyban állt, és a szolgálati nyugdíjjogosultság szempontjából figyelembe vehető szolgálati ideje 2011. december 31-én eléri a 25 évet,
 
-feltéve, hogy a szolgálati járandóság kezdő napjáig az öregségi nyugdíjkorhatárt nem töltötte be, a szolgálati járandóság kezdő napján biztosítással járó jogviszonyban nem áll, és a szolgálati járandóság kezdő napján rendszeres pénzellátásban nem részesül.
+feltéve, hogy a szolgálati járandóság kezdő napjáig az öregségi nyugdíjkorhatárt nem töltötte be, és a szolgálati járandóság kezdő napján rendszeres pénzellátásban nem részesül.
