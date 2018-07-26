@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-180-20-
 | 2015-04-01 | 2007-180-20-22.11 | 74/2012. (IV. 13.) Korm. rendelet |
 | 2016-01-01 | 2007-180-20-22.12 | 74/2012. (IV. 13.) Korm. rendelet |
 | 2017-01-01 | 2007-180-20-22.13 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-07-26 | 2007-180-20-22.14 | 132/2018. (VII. 23.) Korm. rendelet |
