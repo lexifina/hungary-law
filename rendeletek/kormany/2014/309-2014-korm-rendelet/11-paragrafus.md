@@ -16,9 +16,9 @@ c) nem veszélyes építési-bontási hulladék esetén az 5000 kg-ot
 
 (5) Az adatszolgáltatásra kötelezett hulladéktermelő a képződött hulladékról évente a tárgyévet követő év március 1. napjáig szolgáltat adatot.
 
-(6) Az adatszolgáltatásra nem kötelezett hulladéktermelő a miniszter által elrendelt, statisztikai kiválasztási módszerekkel történő adatfelméréskor eseti adatszolgáltatást teljesít.
+(6)[^16] Az adatszolgáltatásra nem kötelezett hulladéktermelő a hulladékgazdálkodásért felelős miniszter által elrendelt, statisztikai kiválasztási módszerekkel történő adatfelméréskor eseti adatszolgáltatást teljesít.
 
-(7)[^16] A Ht. 14. § (1) bekezdés c) pontja szerinti hulladékszállítás esetén az adatszolgáltatást
+(7)[^17] A Ht. 14. § (1) bekezdés c) pontja szerinti hulladékszállítás esetén az adatszolgáltatást
 
 a) a képződés helye szerinti telephely szerint vagy
 
@@ -31,4 +31,5 @@ bb) közvetlenül átvételi helyre, hulladékgyűjtő pontra, hulladékgyűjtő
 bc) több telephely esetén a munkavégzéshez legközelebbi telephelye szerint
 
 [^15]: A 11. § (3) bekezdése a 71/2016. (III. 31.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^16]: A 11. § (7) bekezdését a 196/2016. (VII. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^16]: A 11. § (6) bekezdése a 132/2018. (VII. 23.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^17]: A 11. § (7) bekezdését a 196/2016. (VII. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be.
