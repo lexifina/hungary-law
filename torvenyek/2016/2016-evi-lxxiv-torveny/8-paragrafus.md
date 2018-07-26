@@ -8,7 +8,7 @@ a) az önkormányzat tájékoztatást ad és szakmai konzultációt biztosít a 
 
 b) az önkormányzat polgármestere (főpolgármester) az építésügyi engedélyezési eljárást megelőzően véleményt adhat a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez (a továbbiakban: településképi véleményezési eljárás),
 
-c) az önkormányzat polgármestere (főpolgármester) településképi bejelentési eljárást folytathat le az építésügyi hatósági engedélyhez nem kötött és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységnek sem minősülő építési tevékenységek, valamint a rendeltetésmódosítások tekintetében, továbbá településképi bejelentési eljárást folytat le a reklámok és reklámhordozók elhelyezése tekintetében,
+c) az önkormányzat polgármestere (főpolgármester) településképi bejelentési eljárást folytathat le az Étv. 57/F. § hatálya alá nem tartozó, az építésügyi hatósági engedélyhez nem kötött és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységnek sem minősülő építési tevékenységek, valamint az Étv. 57/F. § hatálya alá nem tartozó rendeltetésmódosítások tekintetében, továbbá településképi bejelentési eljárást folytat le a reklámok és reklámhordozók elhelyezése tekintetében,
 
 d) az önkormányzat polgármestere (főpolgármester) településképi kötelezést adhat ki és bírságot szabhat ki, ide nem értve a reklámhordozók és reklámok jogellenes elhelyezésével kapcsolatos, valamint a településképi bírságot.
 

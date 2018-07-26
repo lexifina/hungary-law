@@ -1,6 +1,6 @@
 10. § (1) Az önkormányzat polgármestere (főpolgármester) településképi bejelentési eljárást
 
-a) folytathat le – a 8. § (3) bekezdése szerinti kormányrendelet keretei között, településképi rendeletben meghatározott esetekben és módon – hatósági engedélyhez és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez nem kötött építési tevékenységek és a rendeltetésmódosítások,
+a) folytathat le – a 8. § (3) bekezdése szerinti kormányrendelet keretei között, településképi rendeletben meghatározott esetekben és módon – az Étv. 57/F. § hatálya alá nem tartozó, hatósági engedélyhez és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez nem kötött építési tevékenységek és az Étv. 57/F. § hatálya alá nem tartozó rendeltetésmódosítások,
 
 b) folytat le a reklámok és reklámhordozók elhelyezése
 
