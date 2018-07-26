@@ -38,6 +38,6 @@
 
 ## K: a tárgyévre vonatkozó gyűjtési arány.
 
-3. melléklet a 445/2012. (XII. 29.) Korm. rendelethez[^78]
+3. melléklet a 445/2012. (XII. 29.) Korm. rendelethez[^79]
 
-[^78]: A 3. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.
+[^79]: A 3. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.
