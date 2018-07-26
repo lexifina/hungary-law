@@ -1,4 +1,4 @@
-31. § (1)[^63] Az országos környezetvédelmi hatóság, illetve a területi környezetvédelmi hatóság elsőfokon a 8. melléklet I. táblázatában meghatározott szakkérdéseket is vizsgálja, ha a 8. melléklet I. táblázata szerinti, a nem veszélyes hulladék kereskedelme, közvetítése, szállítása, gyűjtése, előkezelése, tárolása, hasznosítása, ártalmatlanítása engedélyezésével összefüggő eljárásokban a 8. melléklet I. táblázatában megjelölt feltételek fennállnak.
+31. § (1)[^66] Az országos környezetvédelmi hatóság, illetve a területi környezetvédelmi hatóság elsőfokon a 8. melléklet I. táblázatában meghatározott szakkérdéseket is vizsgálja, ha a 8. melléklet I. táblázata szerinti, a nem veszélyes hulladék kereskedelme, közvetítése, szállítása, gyűjtése, előkezelése, tárolása, hasznosítása, ártalmatlanítása engedélyezésével összefüggő eljárásokban a 8. melléklet I. táblázatában megjelölt feltételek fennállnak.
 
 (2) A 8. melléklet I. táblázata szerinti, a nem veszélyes hulladék kereskedelme, közvetítése, szállítása, gyűjtése, előkezelése, tárolása, hasznosítása, ártalmatlanítása engedélyezése iránti eljárásokban, ha elsőfokon a szakkérdést a kormányhivatal járási (fővárosi kerületi) hivatala, vagy a kormányhivatal vizsgálta, a másodfokon eljáró környezetvédelmi hatóság a 8. melléklet I. táblázatában megjelölt feltételek esetén a 8. melléklet I. táblázatában meghatározott szakkérdést is vizsgálja, amelynek eldöntéséhez – szakértő igénybevétele esetén – a 8. melléklet I. táblázatában meghatározott szervet rendeli ki szakértőként.
 
@@ -6,4 +6,4 @@
 
 (4) Az (1) bekezdés szerinti eljárásban hozott határozatot a megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal közölni kell.
 
-[^63]: A 31. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 14. pontja szerint módosított szöveg.
+[^66]: A 31. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 14. pontja szerint módosított szöveg.

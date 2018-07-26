@@ -96,7 +96,7 @@
 
 | 20. | Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala | a) a „10. Az ország többi területe” légszennyezettségi zónából Zala megye közigazgatási területe, b) a „11. Kijelölt városok” légszennyezettségi zónából Zalaegerszeg közigazgatási területe |
 
-5. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^86]
+5. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^91]
 
 I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint a felülvizsgálati eljárásban vizsgálandó szakkérdések, kirendelendő szakértők
 
@@ -138,4 +138,4 @@ I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes körn
 
 II. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint a felülvizsgálati eljárásban kijelölt szakhatóságok
 
-[^86]: Az 5. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés d) pontjával megállapított, a 139/2017. (VI. 9.) Korm. rendelet 13. §-a, a 162/2017. (VI. 28.) Korm. rendelet 84. §-a szerint módosított szöveg.
+[^91]: Az 5. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés d) pontjával megállapított, a 139/2017. (VI. 9.) Korm. rendelet 13. §-a, a 162/2017. (VI. 28.) Korm. rendelet 84. §-a szerint módosított szöveg.

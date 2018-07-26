@@ -1,4 +1,4 @@
-## 19/A. §[^43] Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 21. § (1)–(3), (7) és (8) bekezdésében, 22. és 23. §-ában, 39. §-ában, 40. § (5) bekezdésében, valamint 45/A. §-ában foglaltak tekintetében a területi természetvédelmi hatóság jár el.
+## 19/A. §[^46] Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 21. § (1)–(3), (7) és (8) bekezdésében, 22. és 23. §-ában, 39. §-ában, 40. § (5) bekezdésében, valamint 45/A. §-ában foglaltak tekintetében a területi természetvédelmi hatóság jár el.
 
 ## III. Fejezet
 
@@ -6,22 +6,24 @@
 
 ## 7. Környezetvédelmi igazgatási szerv kijelölése
 
-20. § (1)[^44] A Kormány környezetvédelmi igazgatási szervként
+20. § (1)[^47] A Kormány környezetvédelmi igazgatási szervként
 
 a) a minisztert,
 
-b) az országos környezetvédelmi hatóságot,
+b) a hulladékgazdálkodásért felelős minisztert,
 
-c) a területi környezetvédelmi hatóságot,
+c) az országos környezetvédelmi hatóságot,
 
-d) a Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaságot és
+d) a területi környezetvédelmi hatóságot,
 
-e) az OMSZ-t
+e) a Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaságot és
+
+f) az OMSZ-t
 
 ## jelöli ki.
 
-(2)[^45] Környezetvédelmi igazgatási szervként – ha kormányrendelet másként nem rendelkezik – a területi környezetvédelmi hatóság jár el.
+(2)[^48] Környezetvédelmi igazgatási szervként – ha kormányrendelet másként nem rendelkezik – a területi környezetvédelmi hatóság jár el.
 
-[^43]: A 19/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 293. § (7) bekezdése iktatta be.
-[^44]: A 20. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (8) bekezdésével megállapított szöveg.
-[^45]: A 20. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 4. pontja szerint módosított szöveg.
+[^46]: A 19/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 293. § (7) bekezdése iktatta be.
+[^47]: A 20. § (1) bekezdése a 132/2018. (VII. 23.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^48]: A 20. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 4. pontja szerint módosított szöveg.
