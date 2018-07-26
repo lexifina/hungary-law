@@ -18,9 +18,9 @@ a) megnevezés;
 
 b) sorszám vagy más azonosító;
 
-c) a magánszemély neve, állandó lakóhelye (székhelye, telephelye), valamint adóazonosító száma;
+c) a magánszemély neve, lakóhelye (székhelye, telephelye), valamint adóazonosító száma;
 
-d) a kiállító neve (elnevezése), állandó lakóhelye (székhelye, telephelye), valamint – ha rendelkezik ilyennel – adóazonosító jele, adószáma, ha a kiállító nem azonos a magánszeméllyel;
+d) a kiállító neve (elnevezése), lakóhelye (székhelye, telephelye), valamint – ha rendelkezik ilyennel – adóazonosító jele, adószáma, ha a kiállító nem azonos a magánszeméllyel;
 
 e) a kiállítás időpontja;
 

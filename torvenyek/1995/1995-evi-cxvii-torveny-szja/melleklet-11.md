@@ -44,7 +44,7 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 5. az olyan személybiztosítás díja, amelynek biztosítottja az alkalmazott (adóköteles biztosítási díj esetében feltéve, hogy a biztosítói szolgáltatás kedvezményezettje nem az egyéni vállalkozó), továbbá az egyéni vállalkozó által az alkalmazott javára az önkéntes kölcsönös biztosító pénztárba történő munkáltatói hozzájárulás és annak közterhei;
 
-6. a nem megállapodás alapján befizetett saját szociális hozzájárulási adó, egészségügyi szolgáltatási járulék;
+6. a befizetett saját szociális hozzájárulási adó, egészségügyi szolgáltatási járulék;
 
 7. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az egyéni vállalkozói tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó egyesület számára tagdíj címén fizetett összeg;
 
@@ -70,7 +70,7 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 18. az egyéni vállalkozói tevékenységhez jogszabály vagy nemzetközi szerződés rendelkezése alapján kapott támogatás jogszerű felhasználásával teljesített kiadás alapján meghatározott költség, akkor is, ha a kiadás részben a magánszemély személyes vagy családi szükségletét szolgálja (ha azonban a támogatás csak részben nyújt fedezetet a kiadásra, akkor e rendelkezés alapján a kiadásnak csak a támogatásból fedezett része alapján számolható el költség);
 
-19. a hivatali, üzleti utazás esetén az utazásra, a szállás díjára, külföldi kiküldetés esetén az utazásra, a szállás díjára fordított kiadás, a külföldi kiküldetéshez kapcsolódó elismert költségekről szóló kormányrendelet és a belföldi hivatalos kiküldetést teljesítő munkavállaló költségtérítéséről szóló kormányrendelet szerint naponta számított igazolás nélkül elismert költség azzal, hogy e pont rendelkezése nem alkalmazható abban az esetben, ha az utazásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti;
+19. a hivatali, üzleti utazás esetén az utazásra, a szállás díjára, külföldi kiküldetés esetén az utazásra, a szállás díjára fordított kiadás, a külföldi kiküldetéshez kapcsolódó elismert költségekről szóló kormányrendelet és a belföldi hivatalos kiküldetést teljesítő munkavállaló költségtérítéséről szóló kormányrendelet szerint naponta számított igazolás nélkül elismert költség azzal, hogy e rendelkezés alkalmazásában az engedélyhez kötött belföldi, nemzetközi közúti közlekedési szolgáltatással esik egy tekintet alá az a saját célra folytatott (saját számlás) áruszállítási, személyszállítási tevékenység is, amely más személy részére jogszerűen csak engedélyhez kötött belföldi közúti közlekedési szolgáltatásként vagy engedélyhez kötött nemzetközi közúti szolgáltatásként lenne nyújtható; e pont rendelkezése nem alkalmazható abban az esetben, ha az utazásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti;
 
 20. ha az egyéni vállalkozó alkalmazottat foglalkoztat, akkor annak hivatali üzleti utazására is a 19. pont rendelkezései szerint kell eljárni;
 
@@ -184,15 +184,15 @@ f) A bányaművelésre, a hulladéktárolásra igénybe vett földterület, tele
 
 g) A kétszázezer forint egyedi beszerzési, előállítási értéket meg nem haladó, valamint a 33 százalékos norma alá besorolt tárgyi eszközök esetében választható, hogy a leírási évek száma két adóév és a leírás mértéke 50-50 százalék.
 
-h) Az 1995. december 31-e után üzembe helyezett, korábban még használatba nem vett, a Harmonizált Rendszer szerint (a továbbiakban: HR) 8401 vámtarifaszám (a továbbiakban: vtsz.), a HR 8405–8408, 8410–8430, 8432–8447, 8449–8465, 8467, 8468, 8474–8485, 8508, 8515, 8701, 8709, 8716 vtsz.-ok alá tartozó gépek, gépi berendezések, a HR 8501, 8502, 8504–8507, 8511–8513, 8530, 8531, 8535–8537, 8539, 8543–8548, 9006, 9405 vtsz.-ok alá tartozó villamos készülékek, a HR 8403 vtsz. alá tartozó kazán és a HR 8402 vtsz. alá tartozó gőzfejlesztő berendezés esetében évi 30 százalék értékcsökkenési leírás érvényesíthető, kivéve, ha az adózó az e fejezet alapján érvényesíthető magasabb kulcs alkalmazását választja.
+h) Az 1995. december 31-e után üzembe helyezett, korábban még használatba nem vett, a Harmonizált Rendszer szerint (a továbbiakban: HR) 8401 vámtarifaszám (a továbbiakban: vtsz.), a HR 8405-8408, 8410-8430, 8432-8447, 8449-8465, 8467, 8468, 8474-8484, 8487, 8508, 8515, 8701, 8709, 8716 vtsz.-ok alá tartozó gépek, gépi berendezések, a HR 8501, 8502, 8504-8507, 8511-8513, 8530, 8531, 8535-8537, 8539, 8543-8548, 9006, 9405 vtsz.-ok alá tartozó elektromos berendezések, a HR 8403 vtsz. alá tartozó kazán és a HR 8402 vtsz. alá tartozó gőzfejlesztő berendezés esetében évi 30 százalék értékcsökkenési leírás érvényesíthető, kivéve, ha az adózó az e fejezet alapján érvényesíthető magasabb kulcs alkalmazását választja.
 
-i) A vállalkozási övezetben telephellyel rendelkező egyéni vállalkozó a vállalkozási övezetté minősítést követően, de legkésőbb 2002. december 31-én ott üzembe helyezett és korábban még használatba nem vett tárgyi eszközök – kivéve a közúti gépjárművet (HR 8701–8705, 8710, 8711 vtsz.-ok), az épületet és az építményt – esetében egyösszegű, valamint a vállalkozási övezetté minősítést követően, de legkésőbb 2002. december 31-én ott üzembe helyezett és korábban még használatba nem vett épület, építmény esetében évi 10 százalék mértékű értékcsökkenési leírást érvényesíthet. E rendelkezés alkalmazásában vállalkozási övezetnek minősül a jogszabályban ilyenként meghatározott közigazgatási egység.
+i) A vállalkozási övezetben telephellyel rendelkező egyéni vállalkozó a vállalkozási övezetté minősítést követően, de legkésőbb 2002. december 31-én ott üzembe helyezett és korábban még használatba nem vett tárgyi eszközök – kivéve a közúti gépjárművet (HR 8701-8705, 8710, 8711 vtsz.-ok), az épületet és az építményt – esetében egyösszegű, valamint a vállalkozási övezetté minősítést követően, de legkésőbb 2002. december 31-én ott üzembe helyezett és korábban még használatba nem vett épület, építmény esetében évi 10 százalék mértékű értékcsökkenési leírást érvényesíthet. E rendelkezés alkalmazásában vállalkozási övezetnek minősül a jogszabályban ilyenként meghatározott közigazgatási egység.
 
 j) Tárgyi eszköz, nem anyagi javak 1996. december 31-ét követő részletfizetéssel történő vásárlása esetén – amennyiben a szerződés szerint a vevő legkésőbb az utolsó részlet törlesztésével vagy azt követően egy meghatározott időtartamon belül tulajdonossá válik –, a vevő egyéni vállalkozó a tárgyi eszköz, nem anyagi javak beszerzési árának egészére alkalmazhatja az e melléklet szerinti értékcsökkenési leírást, függetlenül a vételár kiegyenlítésének módjától. Ha az egyéni vállalkozó az előzőek szerinti módon adja el tárgyi eszközét, nem anyagi javait, akkor adóévi bevételként az adott évben e címen kapott törlesztő részlet összegét kell figyelembe vennie. A részletfizetéshez kapcsolódó kamat nem része a beszerzési árnak, a kifizetés évében költségként elszámolható.
 
 k) A szálláshely-szolgáltató és vendéglátó tevékenységet végző egyéni vállalkozó a kizárólag e célból üzemeltetett hosszú élettartamú szerkezetű épület esetében 3 százalék értékcsökkenési leírást érvényesíthet.
 
-l) A HR 8471 vtsz. alá tartozó általános rendeltetésű számítástechnikai gép, berendezés esetében az egyéni vállalkozó 50 százalék értékcsökkenési leírást érvényesíthet.
+l) A HR 8443 31, 8443 32, 8471 8528 42; 8528 52, vtsz. alá tartozó általános rendeltetésű számítástechnikai gép, berendezés esetében az egyéni vállalkozó 50 százalék értékcsökkenési leírást érvényesíthet.
 
 m) Az egyéni vállalkozó a 33 vagy a 14,5 százalékos norma alá besorolt, korábban még használatba nem vett tárgyi eszközökre, valamint a szellemi termékre, a kísérleti fejlesztés aktivált értékére 50 százalék értékcsökkenési leírást érvényesíthet.
 
@@ -542,21 +542,21 @@ d) Gépek, berendezések, felszerelések, járművek
 
 da) 33 százalékos kulcs alá tartozó tárgyi eszközök:
 
-1. a HR 8456–8465, 8479 vtsz.-okból a programvezérlésű, számvezérlésű gépek, berendezések;
+1. a HR 8456-8465, 8479 vtsz.-okból a programvezérlésű, számvezérlésű gépek, berendezések;
 
-2. a HR 8471, 8530, 8537 vtsz.-okból az irányítástechnikai és általános rendeltetésű számítástechnikai gépek, berendezések;
+2. a HR 8443 31, 8443 32, 8471 8528 42; 8528 52, 8530, 8537 vtsz.-okból az irányítástechnikai és általános rendeltetésű számítástechnikai gépek, berendezések;
 
 3. a HR 84. és 85. Árucsoportból az ipari robotok;
 
-4. a HR 9012, 9014–9017, 9024–9032 vtsz.-okból az átviteltechnikai, az ipari különleges vizsgálóműszerek és a komplex elven működő különleges mérő és vizsgáló berendezések;
+4. a HR 9012, 9014-9017, 9024-9032 vtsz.-okból az átviteltechnikai, az ipari különleges vizsgálóműszerek és a komplex elven működő különleges mérő és vizsgáló berendezések;
 
-5. a HR 8469, 8470, 8472, 9009 vtsz.-ok, valamint a HR 8443 5100 00 vtsz.-alszám;
+5. a HR, 8470, 8472, vtsz.-ok, valamint a HR 8443 39 vtsz.-alszám alól a nyomtatók;
 
-6. a HR 8419 11 00 00, 8541 40 90 00 vtsz.-alszámok;
+6. a HR 8419 11 00, 8541 40 90 vtsz.-alszámok;
 
 7. a HR 8402, 8403, 8416, 8417 vtsz.-okból a fluidágyas szénportüzelésű berendezések, valamint a mezőgazdasági és erdőgazdasági nedves melléktermékek elégetésével üzemelő hőfejlesztő berendezések;
 
-8. a HR 8417 80 10 00 vtsz.-alszám, valamint a 8514 vtsz.-ból a hulladékmegsemmisítő, -feldolgozó, -hatástalanító és -hasznosító berendezések;
+8. a HR 8417 80 70 vtsz.-ből, valamint a 8514 vtsz.-ból a hulladékmegsemmisítő, -feldolgozó, -hatástalanító és -hasznosító berendezések;
 
 9. a HR 8421 21 vtsz.-alszámok;
 
@@ -564,15 +564,15 @@ da) 33 százalékos kulcs alá tartozó tárgyi eszközök:
 
 11. a HR 8421 31 és a 8421 39 vtsz.-alszámok;
 
-12. a HR 8419 20 00 00 vtsz.-alszám, továbbá a HR 9018–9022 vtsz.-okból az orvosi gyógyászati laboratóriumi eszközök.
+12. a HR 8419 20 00 vtsz.-alszám, továbbá a HR 9018-9022 vtsz.-okból az orvosi gyógyászati laboratóriumi eszközök.
 
 db) 20 százalékos kulcs alá tartozó tárgyi eszközök:
 
-a HR 8701 vtsz.-ból a járművek, valamint a HR 8702–8705, valamint a HR 8710, 8711 vtsz.-ok.
+a HR 8701 vtsz.-ból a járművek, valamint a HR 8702-8705, valamint a HR 8710, 8711 vtsz.-ok.
 
 dc) 14,5 százalékos kulcs alá tartozó tárgyi eszközök:
 
-Minden egyéb – a da)–db) pontban fel nem sorolt – tárgyi eszköz.
+Minden más – a da)–db) pontban fel nem sorolt – tárgyi eszköz.
 
 e) Kortárs képzőművészeti alkotást 5 évi vagy annál hosszabb idő alatt lehet leírni.
 
@@ -637,31 +637,3 @@ azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév els�
 7. A nem saját tulajdonú kizárólag üzemi célra használt jármű (kivéve a személygépkocsit) esetében elszámolható az üzemi használatra eső
 
 a) igazolt bérleti vagy lízingdíj (ez alól kivételt képez a személygépkocsi bérleti vagy lízingdíja),
-
-b) az 1. pont szerinti üzemanyag-fogyasztás,
-
-c) számla szerinti egyéb költség, amennyiben azok a bérleti szerződés alapján a bérbevevőt terhelik.
-
-8. A személygépkocsi bérleti vagy lízing díja címén a költségként figyelembe vehető összeg több személygépkocsi esetén sem haladhatja meg a vállalkozói bevétel 1 százalékát, egyébként ilyen címen az egyéni vállalkozó költséget nem számolhat el. Az utóbbi rendelkezés alól kivételt képeznek az 1. pontban említett személygépkocsik, amelyek esetében a bérleti díj, illetőleg a vonatkozó rendelkezés szerint a lízing díja elszámolható. A nem saját tulajdonú személygépkocsi üzemi célú használata esetén elszámolható az üzemi használatra eső
-
-a) 1. pont szerinti üzemanyag-fogyasztás,
-
-b) számla szerinti egyéb költség,
-
-amennyiben az a szerződés alapján az egyéni vállalkozót terheli.
-
-9. A költségelszámolás bármelyik módjának alkalmazásánál szükséges járművenként – az 5. számú melléklet II. 7. pontjában meghatározott – külön útnyilvántartás vezetése, továbbá abban járművenként az üzemi célú futás kezdő és záró kilométeróra állásának a feljegyzése. Költség kizárólag az e pont szerint igazolt üzemi célú futásteljesítmény után számolható el, kivéve azt a futásteljesítményt, amelyre nézve az egyéni vállalkozó magánszemélynek kifizető egyébként kiküldetési rendelvény alapján hivatali, üzleti utazás címén bevételnek nem számító költségtérítést fizetett.
-
-10. Az egyéni vállalkozónak az 1. és 6. pont szerinti költségelszámolási módszerek közötti választása valamennyi általa használt személygépkocsira és a teljes adóévre vonatkozik. Amennyiben a személygépkocsi mellett más járműveinek költségeit is elszámolja, az nem zárja ki, hogy az összes személygépkocsijára egységesen alkalmazza a 6. pont szerinti elszámolási módszert. A 7–8. pont szerinti személygépkocsi-használat utáni költségelszámolás esetén a saját tulajdonú személygépkocsira vonatkozóan sem választható a 6. pont szerinti elszámolás.
-
-11. A 9. pontban foglaltaktól eltérően, az egyéni vállalkozó az útnyilvántartás vezetése helyett havi 500 kilométer utat számolhat el átalányban a személygépkocsi használata címén a költségek 6. pont szerinti figyelembevételével, függetlenül az üzemeltetett személygépkocsik számától. Ezt az elszámolási módszert is csak a teljes adóévre – illetőleg az adóéven belül az egyéni vállalkozói tevékenység teljes időtartamára – lehet alkalmazni.
-
-12. Az egyéni vállalkozó a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával, a közlekedési igazgatási hatóság által kiadott törzskönyvvel, a törzskönyv visszavonása esetén a közlekedési igazgatási hatóság által kiadott igazolással igazolja.
-
-13.
-
-IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiadások:
-
-1.
-
-2. a pénzügyi ellenőrzés alapján megállapított adórövidítésből, egyéb jogszabály megsértéséből keletkező befizetés (bírság, késedelmi pótlék stb.), kivéve az önellenőrzési pótlékot, és az olyan adóra vonatkozó adóhiányt, amely jogszerű teljesítés esetén egyébként költségként elszámolható lett volna;

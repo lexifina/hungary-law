@@ -1,1 +1,1 @@
-55. § Az átalányadózásra való jogosultság a határozat jogerőre emelkedésének napjával megszűnik, ha az egyéni vállalkozó terhére az adó- vagy vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért jogerősen mulasztási bírságot állapított meg.
+55. § Az átalányadózásra való jogosultság a határozat véglegessé válásának napjával megszűnik, ha az egyéni vállalkozó terhére az adó- vagy vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért véglegesen mulasztási bírságot állapított meg.

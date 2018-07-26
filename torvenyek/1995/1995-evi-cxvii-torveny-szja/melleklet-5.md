@@ -302,7 +302,7 @@ d) Az értékpapírra vonatkozó jogok nyilvántartása a következő adatokat t
 
 – a jog megszerzésének időpontja;
 
-– a jog alapítójának neve (cégneve, elnevezése), állandó lakóhelye (székhelye);
+– a jog alapítójának neve (cégneve, elnevezése), lakóhelye (székhelye);
 
 – a jog megszerzésére fordított érték;
 

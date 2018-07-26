@@ -4,7 +4,7 @@ Az adómentes bevételekről
 
 1. A szociális és más ellátások közül adómentes:
 
-1.1. az állami szociális vagy társadalombiztosítási rendszer keretében nyújtott jövedelempótlék (kivéve az ösztöndíjhoz kapcsolódó jövedelemkiegészítő pótlékot), árvaellátás, házastársi pótlék, házastárs után járó jövedelempótlék, a kárpótlási jegyek életjáradékra váltásáról szóló törvény alapján folyósított életjáradék, az özvegyi nyugdíjra való jogosultság megszűnésére tekintettel kapott végkielégítés, szociális támogatás, lakbér-hozzájárulás, az árvaellátásra jogosult gyermekre tekintettel kapott özvegyi nyugdíj, a megváltozott munkaképességű személyek ellátásai;
+1.1. az állami szociális vagy társadalombiztosítási rendszer keretében nyújtott jövedelempótlék (kivéve az ösztöndíjhoz kapcsolódó jövedelemkiegészítő pótlékot), árvaellátás, házastársi pótlék, házastárs után járó jövedelempótlék, a kárpótlási jegyek életjáradékra váltásáról szóló törvény alapján folyósított életjáradék, az özvegyi nyugdíjra való jogosultság megszűnésére tekintettel kapott végkielégítés, szociális támogatás, lakbér-hozzájárulás, az árvaellátásra jogosult gyermekre tekintettel kapott özvegyi nyugdíj;
 
 1.2. a nyugdíj, a nyugdíjban részesülő magánszemélyt megillető
 
@@ -12,7 +12,7 @@ a) baleseti járadék,
 
 b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltötte;
 
-1.3. az állami szociális rendszer keretében, illetőleg a helyi önkormányzat, továbbá az egyházi jogi személy által nyújtott szociális segély, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott pénzbeli ellátások, a nevelési díj és a nevelőszülőt a nevelési díj mellett megillető külön ellátmány, valamint az utógondozói ellátás, a helyi önkormányzat által a szociális igazgatásról és szociális ellátásokról szóló törvény alapján nyújtott átmeneti segély, temetési segély, önkormányzati segély, lakásfenntartási támogatás, adósságkezelési szolgáltatás, időskorúak járadéka, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, települési támogatás, a vakok személyi járadéka, a rokkantsági járadék, a súlyosan mozgáskorlátozott magánszemély részére jogszabály alapján nyújtott közlekedési támogatás, a fogyatékossági támogatás, a hadigondozási pénzellátások, a nemzeti gondozásról szóló törvény alapján folyósított nemzeti gondozási díj, valamint a munkáltatótól, az érdekvédelmi szervezettől az elhunyt házastársa vagy egyeneságbeli rokona részére folyósított temetési segély, továbbá az önsegélyező feladatot is vállaló egyesület, önsegélyező egyesület által nyújtott szociális segély azzal, hogy e rendelkezés alkalmazásában önsegélyező feladat ellátásának minősül a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben felsorolt ellátásokat kiegészítő juttatások nyújtása;
+1.3. az állami szociális rendszer keretében, illetőleg a helyi önkormányzat, továbbá az egyházi jogi személy által nyújtott szociális segély, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott pénzbeli ellátások, a nevelési díj és a nevelőszülőt a nevelési díj mellett megillető külön ellátmány, valamint az utógondozói ellátás, a szociális igazgatásról és szociális ellátásokról szóló törvény alapján nyújtott pénzbeli és természetbeni ellátások, ideértve a települési támogatást is, a vakok személyi járadéka, a rokkantsági járadék, a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló jogszabály alapján adható támogatás, a fogyatékossági támogatás, a hadigondozási pénzellátások, a nemzeti gondozásról szóló törvény alapján folyósított nemzeti gondozási díj, valamint a munkáltatótól, az érdekvédelmi szervezettől az elhunyt házastársa vagy egyeneságbeli rokona részére folyósított temetési segély, továbbá az önsegélyező feladatot is vállaló egyesület, önsegélyező egyesület által nyújtott szociális segély azzal, hogy e rendelkezés alkalmazásában önsegélyező feladat ellátásának minősül a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben felsorolt ellátásokat kiegészítő juttatások nyújtása;
 
 1.4. az intézeti vagy állami nevelésbe vett kiskorú családban való gondozásáért, neveléséért, valamint a gyógyintézet által ápolásra kihelyezett beteg gondozásáért a gyógyintézettől kapott díj, illetve térítés;
 
@@ -22,7 +22,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.7. a családok támogatásáról szóló törvényben meghatározott gyermekgondozást segítő ellátás, gyermekgondozási segély, anyasági támogatás és gyermeknevelési támogatás;
 
-1.8. a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott ápolási díj és a tartós ápolást végzők időskori támogatása;
+1.8.
 
 1.9. a szociális gondozói díj évi 180 ezer forintot meg nem haladó része.
 
@@ -120,7 +120,7 @@ bc) jog alapításának, joggyakorlás átengedésének, jogról való lemondás
 
 illeti meg.
 
-3.5. a hivatali idejét kitöltött volt köztársasági elnök, az Országgyűlés elnöke által a számára biztosított előirányzat terhére közcélú felajánlás, adomány, vállalás címén közvetlenül magánszemélynek juttatott vagyoni érték.
+3.5. a köztársasági elnök, a volt köztársasági elnök, az Országgyűlés elnöke által a számára biztosított előirányzat terhére közcélú felajánlás, adomány, vállalás címén közvetlenül magánszemélynek juttatott vagyoni érték;
 
 3.6. az a tevékenység ellenértékének nem minősülő pénzbeli juttatás, amelyet
 
@@ -160,7 +160,7 @@ c) a két- és többoldalú nemzetközi megállapodások alapján, valamint eur�
 
 d) a határon túli magyarok részére felajánlott képzési és kutatási lehetőségek keretében ösztöndíjban részesülő külföldi oktatók, kutatók részére folyósított juttatás, nyújtott kedvezmény,
 
-e) az ikerintézményi (Twinning) program keretében a magánszemély számára adott olyan juttatás, amelyet az Európai Unió finanszíroz, melynek mértékét az Európai Unió rendelkezése szerint állapítják meg, és amely a magánszemély külföldre történő kiutazásának és külföldi tartózkodásának költségei fedezetére szolgál (ideértve különösen az utazási költségtérítést és a napidíjat, de ide nem értve a szakértői díjat) azzal, hogy az adómentesség alkalmazása esetén a magánszemély a külföldre történő kiutazással és a külföldi tartózkodással kapcsolatban felmerülő költségeit semmilyen tevékenységéből származó bevételével szemben nem számolhatja el,
+e) az Európai Unió bővítési és partnerségi politikájának intézményfejlesztési eszközei keretében, így különösen az ikerintézményi (Twinning) program keretében a magánszemély számára adott olyan, az Európai Unió által finanszírozott juttatás, amelynek mértékét az Európai Unió rendelkezése szerint állapítják meg, és amely a magánszemély külföldre történő kiutazásának és külföldi tartózkodásának költségei fedezetére szolgál (ideértve különösen az utazási költségtérítést és a napidíjat, de ide nem értve a szakértői díjat) azzal, hogy az adómentesség alkalmazása esetén a magánszemély a külföldre történő kiutazással és a külföldi tartózkodással kapcsolatban felmerülő költségeit semmilyen tevékenységéből származó bevételével szemben nem számolhatja el,
 
 f) a Balassi Bálint-ösztöndíjprogram keretében folyósított ösztöndíjak és juttatások,
 
@@ -174,7 +174,7 @@ a) juttatott olyan vagyoni érték (így különösen a perselypénz, az egyház
 
 b) a központi költségvetésből jövedelempótlék vagy annak megfelelő jogcímen nyújtott támogatás;
 
-4.9. a jótékony célú rendezvény bevételéből a munkabérként, honoráriumként vagy tiszteletdíjként számfejtett összeg, ha azt a magánszemély nem veszi fel, hanem valamely közérdekű célra felajánlja, azzal, hogy ez nem minősül az adócsökkentésre jogosító közcélú adománynak;
+4.9. a jótékony célú rendezvény bevételéből a munkabérként, honoráriumként vagy tiszteletdíjként számfejtett összeg, ha azt a magánszemély nem veszi fel, hanem valamely közérdekű célra felajánlja;
 
 4.10. az egészségügyi és szociális intézményben a betegek, a gondozottak részére kifizetett munkaterápiás jutalom, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti fejlesztési foglalkoztatási díj;
 
@@ -342,7 +342,7 @@ b) a költségtérítést és a jövedelmet helyettesítő kártérítést is ta
 
 c) a baleset- és betegségbiztosítás alapján járó jövedelmet pótló szolgáltatás összegéből (ideértve a szerződéses feltételek szerint az eltelt napok száma alapján járó napi térítésként vagy az eltelt napok száma alapján meghatározott biztosítási összeget is) a jövedelem-kiesés időszakára napi 15 ezer forintot meg nem haladó rész azzal, hogy az összeghatárt biztosítási szerződésenként (a hozzá kapcsolódó kiegészítő biztosításokkal együtt) kell vizsgálni;
 
-6.8. a 6.6. pont alkalmazásában biztosító a biztosítóintézetekről és a biztosítási tevékenységről szóló törvényben meghatározott, belföldön székhellyel vagy fiókteleppel rendelkező biztosító, továbbá az olyan államban székhellyel rendelkező, ezen állam joga szerinti biztosító, amely állammal Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
+6.8. a 6.6. pont alkalmazásában biztosító a biztosítási tevékenységről szóló törvényben meghatározott, belföldön székhellyel vagy fiókteleppel rendelkező biztosító, továbbá az olyan államban székhellyel rendelkező, ezen állam joga szerinti biztosító, amely állammal Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
 
 6.9.
 
@@ -460,7 +460,11 @@ a) alapján a gyermekvállaláshoz kapcsolódóan elengedett hallgatói hiteltar
 
 b) szerinti hallgatói hitelszerződés alapján fennálló tartozás törlesztéséhez a munkavállaló számárakifizetett juttatás, a munkaviszony fennállásának időtartama alatt a munkavállalót terhelő előírt kötelező diákhitel törlesztő részlet erejéig, de havonta legfeljebb a minimálbér 20 százalékáig terjedő összegig;
 
-7.39. a nyugellátásban és egyes más ellátásban részesülő magánszemélyt kormányrendelet alapján megillető egyszeri juttatás a juttatás időpontjától függetlenül.
+7.39. a nyugellátásban és egyes más ellátásban részesülő magánszemélyt kormányrendelet alapján megillető egyszeri juttatás a juttatás időpontjától függetlenül;
+
+7.40. a közlekedési alapismeretek tanfolyam és vizsga díjából jogszabály alapján visszatérített összeg;
+
+7.41. a Kormány egyedi döntésével a központi költségvetés által biztosított forrás terhére, a lakosság széles köre részére a helyi önkormányzat közreműködésével természetben biztosított juttatás vagy ennek pénzbeli térítése révén megszerzett bevétel.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
@@ -480,7 +484,7 @@ a) a gyermeknek vagy rá tekintettel más magánszemélynek a köznevelésről s
 
 b) a köznevelésről szóló törvény szerinti nevelési-oktatási intézmény által az intézmény tanulói számára adott, a helyi vagy helyközi tömegközlekedési eszköz igénybevételét szolgáló bérlet, jegy;
 
-c) bölcsődei, óvodai szolgáltatás, bölcsődei, óvodai ellátás;
+c) bölcsődei, óvodai szolgáltatás, bölcsődei, óvodai ellátás, ideértve azt is, ha a kifizető a bölcsődei, óvodai szolgáltatás térítési díját a magánszemély nevére kiállított számla alapján téríti meg;
 
 d) a foglalkozás-egészségügyi ellátás;
 
@@ -550,7 +554,7 @@ c) az a)–b) pontokban említett rendezvényeken a gyermekek, tanulók felügye
 
 8.26. a büntetés-végrehajtási intézetekből szabaduló magánszemély részére kiadott, évszaknak megfelelő öltözet;
 
-8.27. a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény rendelkezései szerint természetbeni ellátás formájában nyújtott rendkívüli gyermekvédelmi támogatás, továbbá a rendszeres gyermekvédelmi kedvezményre jogosult gyermeknek, fiatal felnőttnek a települési önkormányzat jegyzője által fogyasztásra kész étel, ruházat, valamint tanszer vásárlására felhasználható, az Erzsébet-programról szóló törvény szerinti Erzsébet-utalvány formájában nyújtott természetbeni támogatás;
+8.27. a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény rendelkezései szerint rendszeres gyermekvédelmi kedvezményre jogosult gyermeknek, fiatal felnőttnek a települési önkormányzat jegyzője által fogyasztásra kész étel, ruházat, valamint tanszer vásárlására felhasználható, az Erzsébet-programról szóló törvény szerinti Erzsébet-utalvány formájában nyújtott természetbeni támogatás;
 
 8.28. az ingyenesen vagy kedvezményesen
 
@@ -716,8 +720,8 @@ c) nem tekinthető munkavállalónak az a magánszemély, akivel a munkáltató 
 
 9.7.6. A munkáltató az adóévet követő év január 31-ig munkavállalónként adatot szolgáltat az adómentes támogatásban részesített magánszemélyek nevéről, adóazonosító jeléről, a munkavállaló által bérelt lakás címéről.
 
-9.8. Az erdőnek minősülő termőföld haszonbérbe adásából származó jövedelem adómentességére vonatkozó szabályok
+9.8. Az erdőnek minősülő termőföld haszonbérbe adásából, valamint az erdőnek minősülő termőföldön folytatott társult erdőgazdálkodásból származó jövedelem adómentességére vonatkozó szabályok
 
-9.8.1. Adómentes az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény szerint erdőnek vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek minősülő föld (a továbbiakban: erdőnek minősülő föld) használati jogosultságának átengedése fejében, vagy az erdőnek minősülő földön folytatott társult erdőgazdálkodási tevékenységre tekintettel az erdőnek minősülő föld tulajdonosa vagy a haszonélvezője által megszerzett jövedelem, ha az erdőnek minősülő föld használatba adására vagy a társult erdőgazdálkodásra kötött megállapodás (szerződés, illetve alapító okirat) alapján – határozatlan időre szóló megállapodás esetén a jogosult állami adó- és vámhatóság részére tett kiegészítő nyilatkozata alapján – a használatba adás vagy a társult erdőgazdálkodás időtartama az 5 évet (az adómentesség feltételéül szabott időtartam) eléri.
+9.8.1. Adómentes az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény szerint erdőnek vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek minősülő föld (a továbbiakban: erdőnek minősülő föld) használati jogosultságának átengedése fejében, vagy az erdőnek minősülő földön folytatott társult erdőgazdálkodási tevékenységre tekintettel az erdőnek minősülő föld tulajdonosa vagy a haszonélvezője által megszerzett jövedelem, ha az erdőnek minősülő föld használatba adására vagy a társult erdőgazdálkodásra kötött megállapodás (szerződés, illetve alapító okirat) alapján – határozatlan időre szóló megállapodás esetén a jogosultnak az erdőnek minősülő föld fekvése szerint illetékes önkormányzati adóhatóság részére tett kiegészítő nyilatkozata alapján – a használatba adás vagy a társult erdőgazdálkodás időtartama az 5 évet (az adómentesség feltételéül szabott időtartam) eléri.
 
 9.8.2. A magánszemély köteles a 9.8.1 pont szerinti mentesség alapján korábban meg nem fizetett adót késedelmi pótlékkal növelt összegben a szerződés megszűnése éve kötelezettségeként megállapítani, bevallani és megfizetni, ha a mentesség alapjául szolgáló szerződés az adómentesség feltételéül szabott időtartamon belül bármely okból (ide nem értve a szerződő feleken kívül álló okot, valamint a haszonbérleti szerződés azonnali hatályú felmondását) megszűnik.

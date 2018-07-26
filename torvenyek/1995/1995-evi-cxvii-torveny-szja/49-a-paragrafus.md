@@ -8,7 +8,7 @@
 
 ## Az egyéni vállalkozó adózása
 
-49/A. § (1) Az egyéni vállalkozó a 49/B. § rendelkezései szerint megállapított vállalkozói adóalapja után vállalkozói személyi jövedelemadót, vállalkozói osztalékalapja után az e törvény szerint előírt adót fizet (a továbbiakban: vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó), vagy az e törvényben és az adózás rendjéről szóló törvényben meghatározott feltételekkel átalányadózást választhat.
+49/A. § (1) Az egyéni vállalkozó a 49/B. § rendelkezései szerint megállapított vállalkozói adóalapja után vállalkozói személyi jövedelemadót, vállalkozói osztalékalapja után az e törvény szerint előírt adót fizet (a továbbiakban: vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó), vagy az e törvényben meghatározott feltételekkel átalányadózást választhat.
 
 (2) Egyéni cég alapítása esetén, tevékenysége megszűnésére tekintettel az egyéni vállalkozó a cégbejegyző határozat jogerőre emelkedésének napját megelőző napra vonatkozóan
 

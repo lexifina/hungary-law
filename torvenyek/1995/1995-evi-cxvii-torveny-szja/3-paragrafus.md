@@ -22,7 +22,7 @@ db) létérdekei központja belföld, ha egyáltalán nem vagy nem csak belföld
 
 dc) szokásos tartózkodási helye belföldön található, ha egyáltalán nem vagy nem csak belföldön rendelkezik állandó lakóhellyel, és létérdekei központja sem állapítható meg;
 
-azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a legszorosabb személyes, családi és gazdasági kapcsolatok fűzik.
+azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a legszorosabb személyes, családi és gazdasági kapcsolatok fűzik, továbbá az állandó lakóhely az olyan lakóhely, ahol a magánszemély tartós ottlakásra rendezkedett be és ténylegesen ott lakik. Nem változik az állandó lakóhely, ha a magánszemély ideiglenes jelleggel huzamosabb ideig külföldön tartózkodik.
 
 3. Külföldi illetőségű magánszemély: a belföldi illetőségű magánszemélynek nem minősülő természetes személy, valamint – a 2. pont c) alpontjában foglaltaktól eltérően – a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 35. § (1) bekezdésének e) pontja hatálya alá tartozó letelepedett jogállású személy, feltéve, hogy bármely 12 hónapos időszakban – a ki- és beutazás napját is egész napnak tekintve – kevesebb, mint 183 napot tartózkodik Magyarország területén.
 

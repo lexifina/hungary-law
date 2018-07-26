@@ -26,7 +26,7 @@ d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszer
 
 4. a mezőgazdasági őstermelőnél a 16. életévét betöltött segítő családtag részére kifizetett – de legfeljebb a mindenkori minimálbért meg nem haladó – összeg és annak közterhei, feltéve, hogy a segítő családtag legalább heti 40 órában közreműködik (főállású segítő családtag) vagy, ha a közreműködés ideje ennél kevesebb, akkor ezzel arányos rész, azzal, hogy egyebekben a főállású segítő családtag kizárólag a 3. pont vonatkozásában alkalmazottnak minősül;
 
-5. a nem megállapodás alapján befizetett saját szociális hozzájárulási adó;
+5. a befizetett saját szociális hozzájárulási adó;
 
 6. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az önálló tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó egyesület számára tagdíj címén fizetett összeg;
 
