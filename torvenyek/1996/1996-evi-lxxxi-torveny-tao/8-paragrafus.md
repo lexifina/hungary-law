@@ -16,7 +16,7 @@ a) a 7. § (1) bekezdésének dzs) pontja a) alpontjában foglaltak alkalmazása
 
 b) az eszköznek (kivéve a bejelentett részesedést) a befektetett pénzügyi eszközök közül történő kikerülésekor (ideértve az értékvesztés elszámolását is), a kötelezettségnek a könyvekből történő kikerülésekor a megelőző adóévekben a 7. § (1) bekezdés dzs) pontja a) alpontja alapján adózás előtti eredmény csökkentéseként elszámolt összeggel, részbeni kikerülése esetén a külföldi pénzértékben kimutatott könyv szerinti érték csökkenésének a megelőző adóév utolsó napján kimutatott könyv szerinti értékkel arányosan számított összeggel, azzal, hogy e rendelkezést valamennyi olyan értékelt eszközre, kötelezettségre alkalmazni kell, amelyeknek az árfolyam különbözetét ráfordításként el kell számolni,
 
-e) a jogerős határozatban megállapított bírság, továbbá az adózás rendjéről, továbbá a társadalombiztosításról szóló törvények szerinti jogkövetkezményekből adódó kötelezettség ráfordításként elszámolt összege, kivéve, ha önellenőrzéshez kapcsolódik,
+e) a jogerős határozatban megállapított bírság, továbbá az adóigazgatási rendtartásról, az adózás rendjéről, továbbá a társadalombiztosításról szóló törvények szerinti jogkövetkezményekből adódó kötelezettség ráfordításként elszámolt összege, kivéve, ha önellenőrzéshez kapcsolódik,
 
 f) az adózó azon adóévében, amelyben az ellenőrzött külföldi társaság üzleti évének utolsó napja van, az ellenőrzött külföldi társaság e törvény szerinti szabályok szerint (az ellenőrzött külföldi társaságot belföldi illetőségű adózónak tekintve) kiszámított üzleti évi jövedelméből (adóalapjából) az a rész, amely az ellenőrzött külföldi társaság következő jövedelmeiből ered
 

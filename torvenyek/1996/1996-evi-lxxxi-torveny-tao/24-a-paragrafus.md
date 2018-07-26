@@ -36,7 +36,7 @@ c) az adózó nem jogosult az 24/B. § szerinti jóváírásra.
 
 (9) A látvány-csapatsportok támogatása esetében az (1) és (2) bekezdés szerinti rendelkező nyilatkozatban felajánlott összeg 12,5 százaléka kiegészítő sportfejlesztési támogatásnak minősül. A kiegészítő sportfejlesztési támogatásról az adózó és a látvány-csapatsportban tevékenykedő szervezet szerződésben rendelkezik, azzal, hogy amennyiben az adózó a szerződés alapján ellenszolgáltatásra jogosult, akkor a kiegészítő sportfejlesztési támogatás az ellenszolgáltatás általános forgalmi adó nélkül számított, a látvány-csapatsportban tevékenykedő szervezet által árbevételként elszámolandó értékét jelenti és az ellenszolgáltatás értékét nem kell figyelembe venni a 22/C. § (4), (4a) és (4b) bekezdésében meghatározott támogatási intenzitások meghaladása vonatkozásában.
 
-(10) Az (1)–(2) bekezdés szerinti rendelkező nyilatkozat érvényességének feltétele, hogy az adózónak a rendelkező nyilatkozat megtételének vagy a rendelkező nyilatkozat (4) bekezdés szerinti módosításának időpontjában ne legyen százezer forintot meghaladó összegű állami adóhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása.
+(10)
 
 (11) Az állami adóhatóság az (1) és (2) bekezdés szerinti rendelkező nyilatkozatot és az adózó felajánlásra való jogosultságát megvizsgálja és
 

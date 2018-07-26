@@ -5,9 +5,3 @@ Alapítvány, közalapítvány, egyesület, köztestület, lakásszövetkezet, k
 A)
 
 B)
-
-Lakásszövetkezet által végzett kedvezményezett tevékenységek
-
-A lakásszövetkezet 1. § (1) bekezdése szerinti jövedelem- és vagyonszerzésre irányuló, vagy ezt eredményező gazdasági tevékenységéből e törvény alkalmazásában nem minősül vállalkozási tevékenységnek:
-
-1. a lakásszövetkezeti tevékenység;

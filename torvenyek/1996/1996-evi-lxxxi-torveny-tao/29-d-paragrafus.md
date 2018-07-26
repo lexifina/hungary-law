@@ -18,7 +18,7 @@
 
 (10) Az adózó a 2002. december 31. napján hatályos 8. § (1) bekezdés i) és t) pontjában, 16. § (1) bekezdés d) és e) pontjában, 16. § (2) bekezdés d) pontjában foglalt rendelkezést alkalmazza, ha az átalakulásra vonatkozó döntést, megállapodást 2002. december 31-ig közokiratba foglalták, vagy az azt tartalmazó okiratot (így különösen a társasági szerződést, az alapszabályt, az egyesülési vagy szétválási szerződést) ezen időpontig ügyvéd (jogtanácsos) ellenjegyezte.
 
-(11) Az e törvényben meghatározott adókedvezmény érvényesítésére kizárólag az adóbevallásban, az adózónak a bevallás benyújtásáig meghozott döntése alapján van lehetőség.
+(11)
 
 (12)
 
@@ -28,4 +28,4 @@
 
 (15)
 
-(16) A (11) bekezdés alkalmazásakor, amennyiben az adózó döntése arra irányul, hogy a fizetendő adója az őt megillető adókedvezmények teljes körű kihasználásával kerüljön megállapításra, akkor ezt az önellenőrzés és az adóellenőrzés során is figyelembe kell venni.
+(16)

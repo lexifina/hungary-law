@@ -36,13 +36,13 @@ f) a b)–d) alpontokban foglaltaktól eltérően az éves beszámolóját, a k�
 
 7. belföldi személy: a belföldi jogszabály alapján létrejött jogi személy, személyi egyesülés, egyéb szervezet, valamint a személyi jövedelemadóról szóló törvény szerint belföldi illetőségűnek minősülő magánszemély;
 
-8. beruházás értéke: az üzembe helyezett tárgyi eszköz bekerülési értéke;
+8.
 
 9. bizalmi vagyonkezelési szerződés: a Ptk. szerinti bizalmi vagyonkezelési szerződés;
 
 9/a. beszámoló: a számvitelről szóló törvény, vagy a felhatalmazása alapján kiadott jogszabály szerinti beszámoló, kivéve az összevont (konszolidált) éves beszámolót;
 
-10. célszervezet: miniszter által a teljes adóévre ilyennek kijelölt gazdasági társaság, szövetkezet (a lakásszövetkezet kivételével) és egyes jogi személyek vállalata;
+10.
 
 10/a. bizalmi vagyonkezelő: a Ptk. szerinti bizalmi vagyonkezelési szerződés alapján átvett vagyon kezelésére kötelezettséget vállaló belföldi személy, ideértve az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező vállalkozás magyarországi fióktelepét is;
 
@@ -88,7 +88,7 @@ h) az e rendelkezésben foglaltakat az adózó köteles bizonyítani,
 
 i) az a) alpontban foglalt részesedés fennállását akkor kell teljesítettnek tekinteni, ha az adózó adóévének a többségében fennáll;
 
-11a. energiahatékonysági célokat szolgáló beruházás: az energiahatékonyságról szóló törvény szerinti energiahatékonyság növekedését eredményező beruházás, amely révén az energiahatékonyságról szóló törvény szerinti végsőenergia-fogyasztás csökkenését eredményező energiamegtakarításra kerül sor;
+11a. energiahatékonysági célokat szolgáló beruházás, felújítás: az energiahatékonyságról szóló törvény szerinti energiahatékonyság növekedését eredményező beruházás, felújítás, amely révén az energiahatékonyságról szóló törvény szerinti végsőenergia-fogyasztás csökkenését eredményező energiamegtakarításra kerül sor;
 
 12. előkészítő vagy kisegítő jellegű tevékenység: kizárólag a külföldi személy részére végzett olyan tevékenység, amely nem tartozik a külföldi személy társasági szerződésben meghatározott tevékenységi körébe, de az abban meghatározott tevékenységek végzését segíti, készíti elő;
 
@@ -238,7 +238,7 @@ b) az építkezés vagy az összeszerelő tevékenység (a továbbiakban együtt
 
 c) a külföldi személyt telephellyel rendelkezőnek kell tekinteni belföldön lévő természeti erőforrás közvetlen hasznosítása esetén,
 
-d) a külföldi személyt (kivéve az olyan jogi személyiséggel rendelkező, EGT államban alapított ingatlanbefektetési alapot, nyugdíjalapot, amely az alapítása szerinti államban nem alanya a társasági adónak megfelelő nyereségadónak) telephellyel rendelkezőnek kell tekinteni ingatlan és természeti erőforrás térítés ellenében történő hasznosítása, ingatlanhoz és természeti erőforráshoz kapcsolódó vagyoni értékű jog térítés ellenében történő átadása, értékesítése, apportálása (a továbbiakban együtt: ingatlan hasznosítása), továbbá ingatlan értékesítése esetén,
+d) a külföldi személyt (kivéve az olyan jogi személyiséggel rendelkező, EGT államban alapított ingatlanbefektetési alapot, nyugdíjalapot, amely az alapítása szerinti államban nem alanya a társasági adónak megfelelő nyereségadónak, vagy amely az alapítása szerinti államban alanya a társasági adónak megfelelő nyereségadónak, de adókötelezettség nem terheli) telephellyel rendelkezőnek kell tekinteni ingatlan és természeti erőforrás térítés ellenében történő hasznosítása, ingatlanhoz és természeti erőforráshoz kapcsolódó vagyoni értékű jog térítés ellenében történő átadása, értékesítése, apportálása (a továbbiakban együtt: ingatlan hasznosítása), továbbá ingatlan értékesítése esetén,
 
 e) a külföldi személyt telephellyel rendelkezőnek kell tekinteni – kivéve, ha csak a g) pontban említett tevékenységet végzi – azon tevékenységek esetében, amelyeket más személy a külföldi személy nevében vállal, ha a külföldi személy nevében szerződést köthet belföldön – és e jogával rendszeresen él –, illetve áru- vagy termékkészletet tart fenn, amelyből rendszeresen szállít a külföldi személy nevében,
 

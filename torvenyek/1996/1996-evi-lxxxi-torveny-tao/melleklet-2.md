@@ -292,10 +292,6 @@ Minden egyéb építmény
 
 2,0
 
-Hulladéktároló: a hulladékgazdálkodásról szóló törvény előírásának megfelelő tárolásra, ártalmatlanításra szolgáló épület, építmény; a hulladéktároló létesítése miatt igénybe vett földterületre értékcsökkenési leírást a hulladéktárolóval azonos leírási kulccsal kell számolni.
-
-Hulladékhasznosító létesítmény: a hulladékgazdálkodásról szóló törvény előírásának megfelelő hasznosítás céljára szolgáló épület, építmény, ide nem értve a földterületet.
-
 Melioráció: szántó, kert, gyümölcsös, szőlő, gyep és erdőművelési ágú, nem belterületen végrehajtott, a termőföld mezőgazdasági célú hasznosítását szolgáló, vízháztartás-szabályozó építmény; talajjavítás legalább 6 éves tartamhatással, valamint a területrendezés építménye.
 
 III. ÜLTETVÉNY
