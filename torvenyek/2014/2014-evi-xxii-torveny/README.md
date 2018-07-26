@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-22-00-00
 | 2017-05-26 | 2017. évi XLVII. törvény | 2014-22-00-00.7 |
 | 2017-07-01 | 2017. évi XLVII. törvény | 2014-22-00-00.8 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 2014-22-00-00.9 |
+| 2018-07-26 | 2018. évi XLI. törvény | 2014-22-00-00.10 |
