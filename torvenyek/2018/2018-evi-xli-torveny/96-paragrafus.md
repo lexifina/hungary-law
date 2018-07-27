@@ -20,4 +20,4 @@
 
 10.
 
-11. 10. számú melléklet 2. pontja.
+11.

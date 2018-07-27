@@ -8,6 +8,6 @@
 
 4.
 
-5. 47. § (1) bekezdésében az „Art.-ban” szövegrész helyébe az „az Art-ban” szöveg
+5.
 
 lép.

@@ -14,7 +14,7 @@
 
 7.
 
-8. 51. § (1) bekezdés nyitó szövegrészében és (2) bekezdésében a „csendes bor” szövegrész helyébe a „csendes és habzóbor” szöveg,
+8.
 
 9.
 

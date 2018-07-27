@@ -6,6 +6,6 @@
 
 2.
 
-3. 7. § (2) bekezdésében az „energiahatékonysági célokat szolgáló beruházások” szövegrészek helyébe az „energiahatékonysági célokat szolgáló beruházások, felújítások” szöveg
+3.
 
 lép.

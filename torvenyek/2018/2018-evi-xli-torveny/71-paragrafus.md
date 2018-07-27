@@ -1,3 +1,1 @@
-71. § Az Áfa tv. 257/F. §-a helyébe a következő rendelkezés lép:
-
-„257/F. § Az adóalany az állami adó- és vámhatósághoz benyújtott kijavítási kérelem útján a bevallások utólagos adóellenőrzésének megkezdését megelőzően, az adó megállapításához való jog elévülési idején belül kezdeményezheti a 88. § (1) bekezdés, 192. § (1) bekezdés, 196/G. § (1) bekezdés, 197. § (1) bekezdés, 212/A. § (1) bekezdés, 218. § (1) bekezdés, 220. § (1) bekezdés, 224. § (1) bekezdés szerinti választásának vagy választása hiányának módosítását, feltéve, hogy a módosítás nem érinti az általa megállapított és bevallott adóalap, fizetendő adó és az előzetesen felszámított, levonható adó összegét.”
+### 71. §
