@@ -262,4 +262,6 @@
 
 | 6.5. | A program elvégzését igazoló irat | Intézményi jogosító vizsga bizonyítvány. |
 
-7. melléklet az 55/2012. (IX. 17.) NFM rendelethez
+7. melléklet az 55/2012. (IX. 17.) NFM rendelethez[^27]
+
+[^27]: A 7. melléklet a 6/2018. (VII. 19.) ITM rendelet 2. § (4) bekezdésével megállapított szöveg.

@@ -192,6 +192,6 @@
 
 | 5.5. | A program elvégzését igazoló irat | Intézményi jogosító vizsga bizonyítvány. |
 
-6. melléklet az 55/2012. (IX. 17.) NFM rendelethez[^6]
+6. melléklet az 55/2012. (IX. 17.) NFM rendelethez[^26]
 
-[^6]: [A 6. mellékletnek a 77/2015. (XII. 30.) NFM rendelet 9. § d) pontjával elrendelt módosítása, amely szerint „R szerinti” szövegrész helyébe „az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti” szöveg lép, nem vezethető át.]
+[^26]: [A 6. mellékletnek a 77/2015. (XII. 30.) NFM rendelet 9. § d) pontjával elrendelt módosítása, amely szerint „R szerinti” szövegrész helyébe „az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti” szöveg lép, nem vezethető át.]

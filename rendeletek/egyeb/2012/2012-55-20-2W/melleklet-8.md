@@ -1,46 +1,12 @@
-## A Kiégett Kazetták Átmeneti Tárolója munkavállalóinak képzési programjaira vonatkozó részletes követelmények
+## A KKÁT munkavállalóinak képzési programjaira vonatkozó részletes követelmények
 
-| 1. | A beosztás megnevezése | Üzemeltetési igazgató |
+|  | A | B | C |
 
-| 1.1. | A képzési program célja | A képzés elvégzése után a képzésben résztvevő alkalmas lesz a KKÁT-ban a létesítmény biztonságos üzemeltetésének szervezésére, irányítására annak minden üzemállapotában. Képes lesz a műszaki- és Nukleáris Baleset-elhárítási ügyeletesi feladatok ellátására. |
+| 1. | 1. | A beosztás megnevezése | KKÁT telephelyvezető |
 
-| 1.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi és sugárvédelmi és az üzemeltetéshez kapcsolódó szabályok, előírások alkalmazására. |
+| 2. | 1.1. | A képzési program célja | A képzés elvégzése után a képzésben részt vevő alkalmas lesz a KKÁT-ban a létesítmény biztonságos üzemeltetésének szervezésére, irányítására annak minden üzemállapotában. Képes lesz a műszaki és nukleáris balesetelhárítási ügyeletesi feladatok ellátására. |
 
-| Képes lesz a meghibásodások elhárítására irányuló döntések meghozatalára. |
-
-| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására, illetve munkatársai és a KKÁT-ban tartózkodók esetében ennek megkövetelésére. |
-
-| Képes lesz részt venni a Baleset-elhárítási szervezet munkájában. |
-
-| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
-
-| 1.3. | A képzési programban való részvétel előfeltételei | Végzettség: 2. melléklet szerint. |
-
-| Szakmai gyakorlat: 2. melléklet szerint. |
-
-| Egészségügyi alkalmasság. |
-
-| 1.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek. |
-
-| Bővített sugárvédelmi képzés. |
-
-| KKÁT Sugárvédelmi Szabályzata, 2 évente vizsga. |
-
-| KKÁT BEIT. |
-
-| Nukleáris Biztonsági Szabályzat ismerete. |
-
-| Az RHK Kft. minőség-és környezetirányítási rendszere. |
-
-| Gyakorlati ismeretek. |
-
-| 1.5 | A program elvégzését igazoló irat | Bővített sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka-és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
-
-| 2. | A beosztás megnevezése | Telephelyvezető, üzemvezető |
-
-| 2.1. | A képzési program célja | A képzés elvégzése után a képzésben résztvevő alkalmas lesz a KKÁT-ban a létesítmény biztonságos üzemeltetésének szervezésére, irányítására annak minden üzemállapotában. Képes lesz a műszaki- és Nukleáris Baleset-elhárítási ügyeletesi feladatok ellátására. |
-
-| 2.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi, sugárvédelmi és az üzemeltetéshez kapcsolódó szabályok, előírások alkalmazására. |
+| 3. | 1.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi, sugárvédelmi és az üzemeltetéshez kapcsolódó szabályok, előírások alkalmazására. |
 
 | Képes lesz a KKÁT telephelyen a nukleáris létesítmény üzemeltetésének és karbantartásának irányítására valamennyi üzemállapotban. |
 
@@ -52,241 +18,61 @@
 
 | Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
 
-| 2.3. | A képzési programban való részvétel előfeltételei | Végzettség: 2. melléklet szerint. |
+| 4. | 1.3. | A képzési programban való részvétel előfeltételei | Végzettség: a 2. melléklet szerint. |
 
-| Szakmai gyakorlat: 2. melléklet szerint. |
-
-| Egészségügyi alkalmasság. |
-
-| 2.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, atomerőművi ismeretek. |
-
-| Átfogó sugárvédelmi képzés. |
-
-| KKÁT Sugárvédelmi Szabályzata, 2 évente vizsga. |
-
-| KKÁT BEIT. |
-
-| Nukleáris Biztonsági Szabályzat, VBJ és IBF ismerete. |
-
-| Az RHK Kft. minőség-és környezetirányítási rendszerének ismerete. |
-
-| Gyakorlati ismeretek. |
-
-| 2.5 | A program elvégzését igazoló irat | Átfogó sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka-és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
-
-| 3. | A beosztás megnevezése | Főtechnológus |
-
-| 3.1. | A képzési program célja | A képzés elvégzése után a képzésben résztvevő alkalmas lesz a KKÁT-ban az üzemeltetés-és karbantartás folyamatos felügyeletére, a bekövetkező események okainak önálló feltárására. Képes lesz továbbá a műszaki- és Nukleáris Baleset-elhárítási ügyeletesi feladatok ellátására. |
-
-| 3.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi, sugárvédelmi és az üzemeltetéshez, karbantartáshoz kapcsolódó szabályok, előírások alkalmazására. |
-
-| Képes lesz a meghibásodások okainak feltárására, a javítások és meghibásodásokat megelőző tevékenységek módjának megállapítására. |
-
-| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására, illetve munkatársai és a KKÁT-ban tartózkodók esetében ennek megkövetelésére. |
-
-| A munkavégzése és döntéshozatala során képes lesz az elméleti alapismereteinek alkalmazására. |
-
-| Képes lesz részt venni a Baleset-elhárítási Szervezet munkájában. |
-
-| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
-
-| 3.3. | A képzési programban való részvétel előfeltételei | Végzettség: 2. melléklet szerint. |
-
-| Szakmai gyakorlat: 2. melléklet szerint. |
-
-| Egészségügyi alkalmasság. |
-
-| 3.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, atomerőművi ismeretek. |
-
-| Bővített sugárvédelmi képzés. |
-
-| KKÁT Sugárvédelmi Szabályzata, 2 évente vizsga. |
-
-| KKÁT BEIT. |
-
-| Nukleáris Biztonsági Szabályzat ismerete. |
-
-| A KKÁT-ra vonatkozó belső szabályozó dokumentumok ismerete. |
-
-| Gyakorlati ismeretek. |
-
-| 3.5. | A program elvégzését igazoló irat | Bővített sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka-és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
-
-| 4. | A beosztás megnevezése | Technológus mérnök |
-
-| 4.1. | A képzési program célja | A képzés elvégzése után a képzésben résztvevő alkalmas lesz a KKÁT-ban és az udvartéren az egyes technológiai rendszerek üzemeltetése-és karbantartása folyamatos felügyeletére, a bekövetkező események okainak feltárására. Képes lesz továbbá a műszaki- és Nukleáris Baleset-elhárítási ügyeletesi feladatok ellátására. |
-
-| 4.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi, sugárvédelmi és az üzemeltetéshez kapcsolódó szabályok, előírások alkalmazására. |
-
-| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására, illetve munkatársai és a létesítményben tartózkodók esetében ennek megkövetelésére. |
-
-| A munkavégzése és döntéshozatala során képes lesz az elméleti alapismereteinek alkalmazására. |
-
-| Képes lesz részt venni a Baleset-elhárítási Szervezet munkájában. |
-
-| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
-
-| 4.3. | A képzési programban való részvétel előfeltételei | Végzettség: 2. melléklet szerint. |
-
-| Szakmai gyakorlat: 2. melléklet szerint. |
-
-| Egészségügyi alkalmasság. |
-
-| 4.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, atomerőművi ismeretek. |
-
-| Bővített sugárvédelmi képzés. |
-
-| KKÁT Sugárvédelmi Szabályzata, 2 évente vizsga. |
-
-| KKÁT BEIT. |
-
-| Nukleáris Biztonsági Szabályzat ismerete. |
-
-| A KKÁT-ra vonatkozó belső szabályozó dokumentumok ismerete. |
-
-| Gyakorlati ismeretek. |
-
-| 4.5. | A program elvégzését igazoló irat | Bővített sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka-és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
-
-| 5. | A beosztás megnevezése | Nukleáris biztonsági mérnök |
-
-| 5.1. | A képzési program célja | A képzés elvégzése után a képzésben résztvevő alkalmas lesz a KKÁT-ban végzett üzemi technológiák és karbantartások nukleáris biztonsági felügyeletére, a bekövetkező események okainak kivizsgálására. Képes lesz továbbá a műszaki- és Nukleáris Baleset-elhárítási ügyeletesi feladatok ellátására és a nukleáris baleset-elhárítási tevékenységek szervezésére. |
-
-| 5.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, nukleáris biztosítéki, tűzvédelmi, sugárvédelmi és az üzemeltetéshez kapcsolódó szabályok, előírások alkalmazására. |
-
-| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására, illetve munkatársai és a létesítményben tartózkodók esetében ennek megkövetelésére. |
-
-| A munkavégzése és döntéshozatala során képes lesz az elméleti alapismereteinek alkalmazására. |
-
-| Képes lesz részt venni a Baleset-elhárítási Szervezet munkájában. Képes a nukleáris biztosítéki jelentések önálló elkészítésére és megtételére az EURATOM felé. |
-
-| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
-
-| 5.3. | A képzési programban való részvétel előfeltételei | Végzettség: 2. melléklet szerint. |
-
-| Szakmai gyakorlat: 2. melléklet szerint. |
-
-| Egészségügyi alkalmasság. |
-
-| 5.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, atomerőművi ismeretek. |
-
-| Bővített sugárvédelmi képzés. |
-
-| KKÁT Sugárvédelmi Szabályzata, 2 évente vizsga. |
-
-| KKÁT BEIT. |
-
-| Nukleáris Biztonsági Szabályzat ismerete. |
-
-| Európai nukleáris biztosítéki tanfolyam a nukleáris üzemanyagok nyilvántartási és jelentéstételi kötelezettségeiről és módjáról. |
-
-| A KKÁT-ra vonatkozó belső szabályozó dokumentumok ismerete. |
-
-| Gyakorlati ismeretek. |
-
-| 5.5. | A program elvégzését igazoló irat | Bővített sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka-és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
-
-| 6. | A beosztás megnevezése | Biztonsági mérnök |
-
-| 6.1. | A képzési program célja | A képzés elvégzése után a képzésben résztvevő alkalmas lesz a KKÁT-ban a bekövetkező események okainak kivizsgálására. Képes lesz továbbá a nukleáris biztosítéki-, műszaki- és Nukleáris Baleset-elhárítási ügyeletesi feladatok ellátására. |
-
-| 6.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi, nukleáris biztosítéki, sugárvédelmi és az üzemeltetéshez kapcsolódó szabályok, előírások alkalmazására. |
-
-| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására, illetve munkatársai és a létesítményben tartózkodók esetében ennek megkövetelésére. |
-
-| A munkavégzése és döntéshozatala során képes lesz az elméleti alapismereteinek alkalmazására. |
-
-| Képes lesz részt venni a Baleset-elhárítási Szervezet munkájában. Képes a nukleáris biztosítéki jelentések önálló elkészítésére és megtételére az EURATOM felé. |
-
-| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
-
-| 6.3. | A képzési programban való részvétel előfeltételei | Végzettség: 2. melléklet szerint. |
-
-| Szakmai gyakorlat: 2. melléklet szerint. |
-
-| Egészségügyi alkalmasság. |
-
-| 6.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, atomerőművi ismeretek. |
-
-| Bővített sugárvédelmi képzés. |
-
-| KKÁT Sugárvédelmi Szabályzata, 2 évente vizsga. |
-
-| KKÁT BEIT. |
-
-| Nukleáris Biztonsági Szabályzat ismerete. |
-
-| Európai nukleáris biztosítéki tanfolyam a nukleáris üzemanyagok nyilvántartási és jelentéstételi kötelezettségeiről és módjáról. |
-
-|  |  | A KKÁT-ra vonatkozó belső szabályozó dokumentumok ismerete. |
-
-| Gyakorlati ismeretek. |
-
-| 6.5. | A program elvégzését igazoló irat | Bővített sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka-és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
-
-| 7. | A beosztás megnevezése | Öregedéskezelési mérnök |
-
-| 7.1. | A képzési program célja | A képzés elvégzése után a képzésben résztvevő alkalmas lesz a KKÁT-ban és az udvartéren az egyes technológiai rendszerek állapotának folyamatos felügyeletére és felmérésére, az üzemeltetés-és karbantartás tapasztalatainak gyakorlatba történő visszacsatolására. Képes lesz továbbá a műszaki- és Nukleáris Baleset-elhárítási ügyeletesi feladatok ellátására. |
-
-| 7.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi, sugárvédelmi, fizikai védelmi és az üzemeltetéshez kapcsolódó szabályok, előírások alkalmazására. |
-
-| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására, illetve munkatársai és a létesítményben tartózkodók esetében ennek megkövetelésére. |
-
-| A munkavégzése és döntéshozatala során képes lesz az elméleti alapismereteinek alkalmazására. |
-
-| Képes lesz részt venni a Baleset-elhárítási Szervezet munkájában. |
-
-| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
-
-| 7.3. | A képzési programban való részvétel előfeltételei | Végzettség: 2. melléklet szerint. |
-
-| Szakmai gyakorlat: 2. melléklet szerint. |
-
-| Egészségügyi alkalmasság. |
-
-| 7.4. | A képzési program elemei | Alapfokú munka-és tűzvédelmi ismeretek, atomerőművi ismeretek. |
-
-| Bővített sugárvédelmi képzés. |
-
-| KKÁT Sugárvédelmi Szabályzata, 2 évente vizsga. |
-
-| KKÁT BEIT. |
-
-| Nukleáris Biztonsági Szabályzat ismerete. |
-
-| A KKÁT-ra vonatkozó belső szabályozó dokumentumok ismerete. |
-
-| 7.5. | A program elvégzését igazoló irat | Bővített sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka-és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
-
-| 8. | Nukleáris képesítés neve | Átrakógép operátor A 4. melléklet 7. pontja szerint. |
-
-| 9. | A beosztás megnevezése | Sugárvédelmi laboratóriumvezető |
-
-| 9.1. | A képzési program célja | A képzés elvégzése után a képzésben résztvevő alkalmas lesz a KKÁT-ban a sugárveszélyes tevékenységek felügyeletének és a létesítmény kibocsátásai sugárvédelmi ellenőrzésének szakmai irányítására. |
-
-| 9.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi és sugárvédelmi szabályok, előírások alkalmazására. |
-
-| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására, illetve munkatársai és a létesítményben tartózkodók esetében ennek megkövetelésére. |
-
-| A munkavégzése és döntéshozatala során képes lesz az elméleti alapismereteinek alkalmazására. |
-
-| Képes lesz részt venni a Baleset-elhárítási Szervezet munkájában. |
-
-| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
-
-| 9.3. | A képzési programban való részvétel előfeltételei | Végzettség: 2. melléklet szerint. |
-
-| Szakmai gyakorlat: 2. melléklet szerint. |
+| Szakmai gyakorlat: a 2. melléklet szerint. |
 
 | Egészségügyi alkalmasság sugárveszélyes tevékenység végzéséhez. |
 
-| 9.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, atomerőművi ismeretek. |
+| 5. | 1.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, a létesítmény ismerete. |
 
 | Átfogó sugárvédelmi képzés. |
 
-| KKÁT Sugárvédelmi Szabályzata, 2 évente vizsga. |
+| KKÁT Munkahelyi Sugárvédelmi Szabályzat ismerete. |
 
-| KKÁT BEIT. |
+| KKÁT BEIT ismerete. |
+
+| KKÁT ÜFK szabályzat és Üzemzavarelhárítási utasítás ismerete. |
+
+| Nukleáris Biztonsági Szabályzat, VBJ és IBF ismerete. |
+
+| Az RHK Kft. minőség- és környezetirányítási rendszerének ismerete. |
+
+| Gyakorlati ismeretek. |
+
+| 6. | 1.5. | A program elvégzését igazoló irat | Átfogó sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka- és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
+
+| 7. | 2. | A beosztás megnevezése | Gépész felügyeleti mérnök |
+
+| 8. | 2.1. | A képzési program célja | A képzés elvégzése után a képzésben részt vevő alkalmas lesz a KKÁT-ban a gépész technológiai rendszerek üzemeltetése és karbantartása folyamatos felügyeletére, a bekövetkező események okainak feltárására. Képes lesz továbbá a műszaki és nukleárisbaleset-elhárítási ügyeletesi feladatok ellátására. |
+
+| 9. | 2.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi, sugárvédelmi és az üzemeltetéshez kapcsolódó szabályok, előírások alkalmazására. |
+
+| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására, illetve munkatársai és a létesítményben tartózkodók esetében ennek megkövetelésére. |
+
+| A munkavégzése és döntéshozatala során képes lesz az elméleti alapismereteinek alkalmazására. |
+
+| Képes lesz részt venni a Baleset-elhárítási Szervezet munkájában. |
+
+| Képes lesz a szakterületén a hatósági jelentések önálló elkészítésére és megtételére. |
+
+| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
+
+| 10. | 2.3. | A képzési programban való részvétel előfeltételei | Végzettség: a 2. melléklet szerint. |
+
+| Szakmai gyakorlat: a 2. melléklet szerint. |
+
+| Egészségügyi alkalmasság sugárveszélyes tevékenység végzéséhez. |
+
+| 11. | 2.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, a létesítmény ismerete. |
+
+| Bővített sugárvédelmi képzés. |
+
+| KKÁT Munkahelyi Sugárvédelmi Szabályzat ismerete. |
+
+| KKÁT BEIT ismerete. |
+
+| KKÁT ÜFK szabályzat és Üzemzavarelhárítási utasítás ismerete. |
 
 | Nukleáris Biztonsági Szabályzat ismerete. |
 
@@ -294,15 +80,247 @@
 
 | Gyakorlati ismeretek. |
 
-| 9.5. | A program elvégzését igazoló irat | Hatósági jogosító vizsga. |
+| 12. | 2.5. | A program elvégzését igazoló irat | Bővített sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka- és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
 
-| 10. | Nukleáris képesítés neve | KKÁT Dozimetrikus |
+| 13. | 3. | A beosztás megnevezése | Villamos felügyeleti mérnök |
 
-| 10.1. | A képzési program célja | A képzés elvégzése után a képzésben résztvevő alkalmas lesz arra, hogy az atomerőmű és a KKÁT munkahelyi, technológiai, valamint a kibocsátás- és a környezetellenőrzés sugárvédelmi rendszereinek kezelését és felügyeletét ellássa. Képes lesz az atomerőmű és a KKÁT ellenőrzött zónájában végzett munkák sugárvédelmi ellenőrzésére, a vonatkozó sugárvédelmi szabályok betartatására, az ellenőrzött zónában végzett munkák sugárveszélyességének megítélésére, joghatályos mérések elvégzésére. Megfelelően el tudja látni a zónahatárokon történő anyagforgalom dozimetriai kontrollját, az atomerőmű és a KKÁT ellenőrzött zóna helyiségeinek, munkahelyeknek helyszíni ellenőrzését. |
+| 14. | 3.1. | A képzési program célja | A képzés elvégzése után a képzésben részt vevő alkalmas lesz a KKÁT-ban a villamos technológiai rendszerek üzemeltetése és karbantartása folyamatos felügyeletére, a bekövetkező események okainak feltárására. Képes lesz továbbá a műszaki és nukleárisbaleset-elhárítási ügyeletesi feladatok ellátására és a nukleáris baleset-elhárítási tevékenységek szervezésére. |
 
-| 10.2. | A program során megszerezhető kompetenciák | A munkavégzése során betartja/betartatja munkavédelmi és tűzvédelmi szabályok, előírásait. |
+| 15. | 3.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, nukleáris biztosítéki, tűzvédelmi, sugárvédelmi és az üzemeltetéshez kapcsolódó szabályok, előírások alkalmazására. |
 
-| A munkavégzése során betartja/betartatja a sugárvédelmi előírásokat, egyéni védőeszközök használatát. |
+| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására, illetve munkatársai és a létesítményben tartózkodók esetében ennek megkövetelésére. |
+
+| A munkavégzése és döntéshozatala során képes lesz az elméleti alapismereteinek alkalmazására. |
+
+| Képes lesz részt venni a Baleset-elhárítási Szervezet munkájában. Képes lesz a szakterületén a hatósági jelentések önálló elkészítésére és megtételére. |
+
+| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
+
+| 16. | 3.3. | A képzési programban való részvétel előfeltételei | Végzettség: a 2. melléklet szerint. |
+
+| Szakmai gyakorlat: a 2. melléklet szerint. |
+
+| Egészségügyi alkalmasság sugárveszélyes tevékenység végzéséhez. |
+
+| 17. | 3.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, a létesítmény ismerete. |
+
+| Bővített sugárvédelmi képzés. |
+
+| KKÁT Munkahelyi Sugárvédelmi Szabályzat ismerete. |
+
+| KKÁT BEIT ismerete. |
+
+| KKÁT ÜFK szabályzat és Üzemzavarelhárítási utasítás ismerete. |
+
+| Nukleáris Biztonsági Szabályzat ismerete. |
+
+| A KKÁT-ra vonatkozó belső szabályozó dokumentumok ismerete. |
+
+| Gyakorlati ismeretek. |
+
+| 18. | 3.5. | A program elvégzését igazoló irat | Bővített sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka- és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
+
+| 19. | 4. | A beosztás megnevezése | Irányítástechnikai felügyeleti mérnök |
+
+| 20. | 4.1. | A képzési program célja | A képzés elvégzése után a képzésben részt vevő alkalmas lesz a KKÁT-ban lévő irányítástechnikai rendszerek üzemeltetése és karbantartása folyamatos felügyeletére, a bekövetkező események okainak feltárására. Képes lesz továbbá a műszaki és Nukleáris Baleset-elhárítási ügyeletesi feladatok ellátására. |
+
+| 21. | 4.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi, nukleáris biztosítéki, sugárvédelmi és az üzemeltetéshez kapcsolódó szabályok, előírások alkalmazására. |
+
+| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására, illetve munkatársai és a létesítményben tartózkodók esetében ennek megkövetelésére. |
+
+| A munkavégzése és döntéshozatala során képes lesz az elméleti alapismereteinek alkalmazására. |
+
+| Képes lesz részt venni a Baleset-elhárítási Szervezet munkájában. Képes lesz a szakterületén a hatósági jelentések önálló elkészítésére és megtételére. |
+
+| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
+
+| 22. | 4.3. | A képzési programban való részvétel előfeltételei | Végzettség: a 2. melléklet szerint. |
+
+| Szakmai gyakorlat: a 2. melléklet szerint. |
+
+| Egészségügyi alkalmasság sugárveszélyes tevékenység végzéséhez. |
+
+| 23. | 4.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, a létesítmény ismerete. |
+
+| Bővített sugárvédelmi képzés. |
+
+| KKÁT Munkahelyi Sugárvédelmi Szabályzat ismerete. |
+
+| KKÁT BEIT ismerete. |
+
+| KKÁT ÜFK szabályzat és Üzemzavarelhárítási utasítás ismerete. |
+
+| Nukleáris Biztonsági Szabályzat ismerete. |
+
+| A KKÁT-ra vonatkozó belső szabályozó dokumentumok ismerete. |
+
+| Gyakorlati ismeretek. |
+
+| 24. | 4.5. | A program elvégzését igazoló irat | Bővített sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka- és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
+
+| 25. | 5. | A beosztás megnevezése | Sugárvédelmi felügyeleti mérnök |
+
+| 26. | 5.1. | A képzési program célja | A képzés elvégzése után a képzésben részt vevő alkalmas lesz a KKÁT-ban lévő környezetellenőrzés, kibocsátás ellenőrzés és sugárvédelem felügyeletére, a bekövetkező események okainak feltárására. Képes lesz továbbá a műszaki és nukleáris balesetelhárítási ügyeletesi feladatok ellátására. |
+
+| 27. | 5.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi, nukleáris biztosítéki, sugárvédelmi és az üzemeltetéshez kapcsolódó szabályok, előírások alkalmazására. |
+
+| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására és a létesítményben tartózkodók esetében ennek megkövetelésére. |
+
+| A munkavégzése és döntéshozatala során képes lesz az elméleti alapismeretek alkalmazására. |
+
+| Képes lesz részt venni a Baleset-elhárítási Szervezet munkájában. Képes lesz a szakterületén a hatósági jelentések önálló elkészítésére és megtételére. |
+
+| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
+
+| 28. | 5.3. | A képzési programban való részvétel előfeltételei | Végzettség a 2. melléklet szerint. |
+
+| Szakmai gyakorlat a 2. melléklet szerint. |
+
+| Egészségügyi alkalmasság sugárveszélyes tevékenység végzéséhez. |
+
+| 29. | 5.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, a létesítmény ismerete. |
+
+| Átfogó sugárvédelmi képzés. |
+
+| KKÁT Munkahelyi Sugárvédelmi Szabályzat ismerete. |
+
+| KKÁT BEIT ismerete. |
+
+| KKÁT ÜFK szabályzat és Üzemzavarelhárítási utasítás ismerete. |
+
+| Nukleáris Biztonsági Szabályzat ismerete. |
+
+| A KKÁT-ra vonatkozó belső szabályozó dokumentumok ismerete. |
+
+| Gyakorlati ismeretek. |
+
+| 30. | 5.5. | A program elvégzését igazoló irat | Átfogó sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka- és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
+
+| 31. | 6. | A beosztás megnevezése | Öregedéskezelési mérnök |
+
+| 32. | 6.1. | A képzési program célja | A képzés elvégzése után a képzésben részt vevő alkalmas lesz a KKÁT-ban az egyes technológiai rendszerek állapotának folyamatos felügyeletére és felmérésére, az üzemeltetés és karbantartás tapasztalatainak gyakorlatba történő visszacsatolására. Képes lesz továbbá a műszaki és nukleáris baleset-elhárítási ügyeletesi feladatok ellátására. |
+
+| 33. | 6.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi, sugárvédelmi, fizikai védelmi és az üzemeltetéshez kapcsolódó szabályok, előírások alkalmazására. |
+
+| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására, illetve munkatársai és a létesítményben tartózkodók esetében ennek megkövetelésére. |
+
+| A munkavégzése és döntéshozatala során képes lesz az elméleti alapismereteinek alkalmazására. |
+
+| Képes lesz részt venni a Baleset-elhárítási Szervezet munkájában. |
+
+| Képes lesz a szakterületén a hatósági jelentések önálló elkészítésére és megtételére. |
+
+| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
+
+| 34. | 6.3. | A képzési programban való részvétel előfeltételei | Végzettség: a 2. melléklet szerint. |
+
+| Szakmai gyakorlat: a 2. melléklet szerint. |
+
+| Egészségügyi alkalmasság sugárveszélyes tevékenység végzéséhez. |
+
+| 35. | 6.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, a létesítmény ismerete. |
+
+| Bővített sugárvédelmi képzés. |
+
+| KKÁT Munkahelyi Sugárvédelmi Szabályzat ismerete. |
+
+| KKÁT BEIT ismerete. |
+
+| KKÁT ÜFK szabályzat és Üzemzavarelhárítási utasítás ismerete. |
+
+| Nukleáris Biztonsági Szabályzat ismerete. |
+
+| A KKÁT-ra vonatkozó belső szabályozó dokumentumok ismerete. |
+
+| 36. | 6.5. | A program elvégzését igazoló irat | Bővített sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka- és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
+
+| 37. | 7. | A beosztás megnevezése | Üzemeltetés biztonsági mérnök, üzemeltetési mérnök |
+
+| 38. | 7.1. | A képzési program célja | A képzés elvégzése után a képzésben részt vevő alkalmas lesz a KKÁT üzemeltetésének folyamatos felügyeletére és a szükséges feladatok felmérésére, az üzemeltetés és karbantartás tapasztalatainak a gyakorlatba történő visszacsatolására. Képes lesz továbbá a műszaki és nukleáris balesetelhárítási ügyeletesi feladatok ellátására. |
+
+| 39. | 7.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi, sugárvédelmi, fizikai védelmi és az üzemeltetéshez kapcsolódó szabályok, előírások alkalmazására. |
+
+| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására, illetve munkatársai és a létesítményben tartózkodók esetében ennek megkövetelésére. |
+
+| A munkavégzése és döntéshozatala során képes lesz az elméleti alapismereteinek alkalmazására. |
+
+| Képes lesz részt venni a Baleset-elhárítási Szervezet munkájában. |
+
+| Képes lesz a szakterületén a hatósági jelentések önálló elkészítésére és megtételére. |
+
+| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
+
+| 40. | 7.3. | A képzési programban való részvétel előfeltételei | Végzettség a 2. melléklet szerint. |
+
+| Szakmai gyakorlat a 2. melléklet szerint. |
+
+| Egészségügyi alkalmasság sugárveszélyes tevékenység végzéséhez. |
+
+| 41. | 7.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, a létesítmény ismerete. |
+
+| Bővített sugárvédelmi képzés. |
+
+| KKÁT Munkahelyi Sugárvédelmi Szabályzat ismerete. |
+
+| KKÁT BEIT ismerete. |
+
+| KKÁT ÜFK szabályzat és Üzemzavar elhárítási utasítás ismerete. |
+
+| Nukleáris Biztonsági Szabályzat ismerete. A KKÁT-ra vonatkozó belső szabályozó dokumentumok ismerete. |
+
+| 42. | 7.5. | A program elvégzését igazoló irat | Bővített sugárvédelmi képesítés megszerzéséről kiállított bizonyítvány, a KKÁT Sugárvédelmi Szabályzata vizsgáját tanúsító jegyzőkönyv, alapfokú munka- és tűzvédelmi ismeretek eredményes vizsgáját tanúsító jegyzőkönyv. |
+
+| 43. | 8. | A beosztás megnevezése (Nukleáris képesítés neve) | Átrakógép operátor |
+
+| A 4. melléklet 7. pontja szerint. |
+
+| 44. | 9. | A beosztás megnevezése | Sugárvédelmi laboratóriumvezető |
+
+| 45. | 9.1. | A képzési program célja | A képzés elvégzése után a képzésben részt vevő alkalmas lesz a KKÁT-ban a sugárveszélyes tevékenységek felügyeletének és a létesítmény kibocsátásai sugárvédelmi ellenőrzésének szakmai irányítására. |
+
+| 46. | 9.2. | A program során megszerezhető kompetenciák | A munkavégzése során képes lesz az általános és munkahelyi munkavédelmi, tűzvédelmi és sugárvédelmi szabályok, előírások alkalmazására. |
+
+| Képes lesz a biztonsági kultúra követelményeinek megfelelő munkavégzési magatartás tanúsítására, illetve munkatársai és a létesítményben tartózkodók esetében ennek megkövetelésére. |
+
+| A munkavégzése és döntéshozatala során képes lesz az elméleti alapismereteinek alkalmazására. |
+
+| Képes lesz részt venni a Baleset-elhárítási Szervezet munkájában. |
+
+| Képes lesz adminisztrációs kötelezettségeinek eleget tenni. |
+
+| 47. | 9.3. | A képzési programban való részvétel előfeltételei | Végzettség: a 2. melléklet szerint. |
+
+| Szakmai gyakorlat: a 2. melléklet szerint. |
+
+| Egészségügyi alkalmasság sugárveszélyes tevékenység végzéséhez. |
+
+| 48. | 9.4. | A képzési program elemei | Alapfokú munka- és tűzvédelmi ismeretek, a létesítmény ismerete. |
+
+| Átfogó sugárvédelmi képzés. |
+
+| KKÁT Munkahelyi Sugárvédelmi Szabályzat ismerete. |
+
+| KKÁT BEIT ismerete. |
+
+| KKÁT ÜFK szabályzat és Üzemzavarelhárítási utasítás ismerete. |
+
+| Nukleáris Biztonsági Szabályzat ismerete. |
+
+| A KKÁT-ra vonatkozó belső szabályozó dokumentumok ismerete. |
+
+| Gyakorlati ismeretek. |
+
+| 49. | 9.5. | A program elvégzését igazoló irat | Hatósági jogosító vizsga bizonyítvány. |
+
+| 50. | 10. | A beosztás megnevezése (Nukleáris képesítés neve) | KKÁT dozimetrikus |
+
+| 51. | 10.1. | A képzési program célja | A dozimetrikus a képzés elvégzése után alkalmas lesz arra, hogy a KKÁT munkahelyi, technológiai, valamint a kibocsátás- és a környezetellenőrzés sugárvédelmi rendszereinek kezelését és felügyeletét ellássa. |
+
+| Képes lesz a KKÁT ellenőrzött zónájában végzett munkák sugárvédelmi ellenőrzésére, a vonatkozó sugárvédelmi szabályok betartatására, az ellenőrzött zónában végzett munkák sugárveszélyességének megítélésére, joghatályos mérések elvégzésére. Megfelelően el tudja látni a zónahatárokon történő anyagforgalom dozimetriai kontrollját, a KKÁT ellenőrzött zónája helyiségeinek, munkahelyeinek helyszíni ellenőrzését. |
+
+| 52. | 10.2. | A program során megszerezhető kompetenciák | A munkavégzése során betartja, betartatja munkavédelmi és tűzvédelmi szabályok előírásait. |
+
+| A munkavégzése során betartja, betartatja a sugárvédelmi előírásokat, az egyéni védőeszközök használatát. |
 
 | A munkavégzése során betartja a környezetirányítási, hulladékkezelési követelményeket. |
 
@@ -312,7 +330,7 @@
 
 | Képes lesz a radiokémiai alapismeretek alkalmazására. |
 
-| Képes lesz a nukleáris biztonság figyelembevételével a munkavégzésre. |
+|  |  |  | Képes lesz a nukleáris biztonság figyelembevételével a munkavégzésre. |
 
 | Munkavégzése során az ellenőrzött zónán belüli helyismeretre tesz szert. |
 
@@ -322,23 +340,17 @@
 
 | Képes lesz a sugárvédelmi ellenőrző rendszert üzemeltetni. |
 
-| Képes lesz a rektorfizikai alapfogalmak alkalmazására. |
+| Képes lesz a létesítmény fő technológiai folyamatait ismerve megfelelő döntéseket hozni. |
 
-| Képes lesz az alap, és a munkaköri gépész, irányítástechnika, vegyészeti ismeretek alkalmazására. |
+| Képes lesz a sugárvédelmi rendszerek feladatát, felépítését, paramétereit ismerve azokat szakszerűen üzemeltetni, ellenőrizni. |
 
-| Képes lesz az atomerőmű fő technológiai folyamatait ismerve megfelelő döntéseket hozni. |
-
-| Képes lesz a sugárvédelmi rendszerek feladatát, felépítését, paramétereit ismerve szakszerűen üzemeltetni, ellenőrizni. |
-
-| Képes lesz a primerköri rendszerelemek feladatát, működési elvét, üzemi állapotát, paramétereit ismerve megfelelő döntéseket hozni. |
-
-| Képes lesz a technológiai rendszerelemek sugárvédelmi ellenőrző rendszerének feladatát, felépítését, paramétereit ismerve szakszerűen üzemeltetni, ellenőrizni. |
+| Képes lesz a technológiai rendszerelemek sugárvédelmi ellenőrző rendszerének feladatát, felépítését, paramétereit ismerve azokat szakszerűen üzemeltetni, ellenőrizni. |
 
 | Képes lesz a próbák végrehajtási szabályait betartani. |
 
 | Képes lesz az eltéréskezelés szabályait betartani. |
 
-|  |  | Képes lesz az üzemzavar elhárítása során rá háruló feladatokat elvégezni. |
+| Képes lesz az üzemzavar elhárítása során rá háruló feladatokat elvégezni. |
 
 | Képes lesz az üzemzavar-kivizsgálás előírásait betartani, azok alapján eljárni. |
 
@@ -354,47 +366,45 @@
 
 | Képes lesz a dózisfogalmak, dózisszámítások alkalmazására. |
 
-| Képes lesz a dózis- és dózisteljesítmény-mérésre. |
+| Képes lesz a dózis- és dózisteljesítmény mérésére. |
 
-| Képes lesz a víz- és levegőaktivitás-mérésére. |
+| Képes lesz a víz- és levegőaktivitás mérésére. |
 
 | Képes lesz a felületi szennyezettség mérésére. |
 
-| A munkavégzése során betartja a műszak átadás/átvétel előírásait, követelményeit. |
+| A munkavégzése során betartja a műszak átadás-átvétel előírásait, követelményeit. |
 
-| Képes lesz specifikus adatbázisokat, alkalmazásokat kezelni. |
+|  |  |  | Képes lesz specifikus adatbázisokat, alkalmazásokat kezelni. |
 
 | Képes lesz a KKÁT specifikus rendszereket, rendszerelemeket kezelni. |
 
-| Képes lesz a KKÁT laboratóriumi eszközök kezelésére, alkalmazására. |
+| Képes lesz a KKÁT laboratóriumi eszközeinek kezelésére, alkalmazására. |
 
 | Képes lesz a KKÁT mintavételi rendszereken a különböző minták kezelésére, cseréjére. |
 
-| 10.3. | A képzési programban való részvétel előfeltételei | Végzettség: 2. melléklet szerint. |
+| 53. | 10.3. | A képzési programban való részvétel előfeltételei | Végzettség: a 2. melléklet szerint. |
 
-| Szakmai gyakorlat: Nincs szükség. |
+| Szakmai gyakorlat: Nem szükséges. |
 
-| Egészségügyi alkalmasság: a sugárveszélyes munkavégzésre vonatkozó foglalkozás egészségügyi előírások az R. szerint. |
+| Egészségügyi alkalmasság sugárveszélyes tevékenység végzéséhez. |
 
-| Előzetesen elvárt ismeret(ek): Nincs szükség. |
+| 54. | 10.4. | A képzési program elemei | Dozimetrikus feladatok. |
 
-| Speciális atomerőműves ismeretek: Munkahelyi Sugárvédelmi Szabályzat Vizsga. |
+| Dozimetrikus tematikus betanító képzés, KKÁT dozimetrikus gyakorlati betanító képzés. |
 
-| 10.4. | A képzési program elemei | Atomerőművi üzemeltetési alapok. |
+| KKÁT Munkahelyi Sugárvédelmi Szabályzat ismerete. |
 
-| Primerköri rendszerek üzemeltetése tanfolyami záróvizsga. |
+| KKÁT BEIT ismerete. |
 
-| Dozimetrikus feladatok. |
+| KKÁT ÜFK szabályzat és Üzemzavarelhárítási utasítás ismerete. |
 
-| Dozimetrikus tematikus gyakorlati betanító képzés KKÁT dozimetrikus gyakorlati betanító képzés. |
-
-| 10.5. | A program elvégzését igazoló irat | Önálló munkavégzésre felhatalmazó „Dozimetrikus / KKÁT dozimetrikus” hatósági jogosító vizsga bizonyítvány. |
+| 55. | 10.5. | A program elvégzését igazoló irat | Hatósági jogosító vizsga bizonyítvány. |
 
 8. melléklet az 55/2012. (IX. 17.) NFM rendelethez
 
 ## A nukleáris szakirányú képesítést adó képzési programok záró, minősítő vizsgáira vonatkozó általános követelmények
 
-1. A 4–7. mellékletben felsorolt képzési programok kimenetét a képzési programokat záró, minősítő vizsgák eredményes letétele során kiállított vizsgadokumentumok jelentik.
+1.[^28] A 4–7. és 9. mellékletben felsorolt képzési programok kimenetét a képzési programokat záró, minősítő vizsgák eredményes letétele során kiállított vizsgadokumentumok jelentik.
 
 2. A 4. mellékletben feltüntetett programok elvégzését igazoló irat a következő típusú minősítő vizsgák során szerezhető meg:
 
@@ -430,8 +440,10 @@ A hatósági jogosító vizsga végrehajtására az engedélyes által készíte
 
 b) a 3. pont b) alpontja szerinti intézményi jogosító vizsga.
 
-5. A 7. mellékletben feltüntetett programok elvégzését igazoló irat a következő típusú minősítő vizsgák során szerezhető meg:
+5.[^29] A 7. mellékletben feltüntetett programok elvégzését igazoló irat a 2. pont a) alpontja szerinti hatósági jogosító vizsga során szerezhető meg azzal a feltétellel, hogy az első vizsgán az vehet részt, aki sikeresen elvégezte a 2. melléklet 3. pontjában foglalt táblázat szerinti képzési programot.
 
-a) a 2. pont a) alpontja szerinti hatósági jogosító vizsga, azzal, hogy az első vizsgán az vehet részt, aki végrehajtotta a 2. melléklet 3. táblázata szerinti képzési programot,
+6.[^30] A 9. mellékletben feltüntetett programok elvégzését igazoló irat a 2. pont a) alpontja szerinti hatósági jogosító vizsga során szerezhető meg azzal a feltétellel, hogy az első vizsgán az vehet részt, aki sikeresen elvégezte a 2. melléklet 3. pontjában foglalt táblázat szerinti képzési programot.
 
-b) a 2. pont c) alpontja szerinti társasági jogosító vizsga, azzal, hogy az első vizsgán az vehet részt, aki végrehajtotta a 2. melléklet 3. táblázata szerinti képzési programot és a társasági jogosító vizsga bizonyítvány érvényessége legfeljebb 5 év.
+[^28]: A 8. melléklet 1. pontja a 6/2018. (VII. 19.) ITM rendelet 3. § 27. pontja szerint módosított szöveg.
+[^29]: A 8. melléklet 5. pontja a 6/2018. (VII. 19.) ITM rendelet 2. § (5) bekezdése szerint módosított szöveg.
+[^30]: A 8. melléklet 6. pontját a 6/2018. (VII. 19.) ITM rendelet 2. § (5) bekezdése iktatta be.
