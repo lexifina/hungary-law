@@ -1,5 +1,1 @@
-## „(9) Az önkormányzat az Áht. 96. § (1) bekezdésében és a 10/B.–10/D. §-ban foglaltaktól eltérően is vállalhat a Kormány előzetes hozzájárulásával kezességet és garanciát a többségi tulajdonában álló gazdasági társaság által vállalt kötelezettségek biztosítására, amennyiben e kötelezettségek nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához kapcsolódnak és nem minősülnek a 3. § (1) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletnek. A Kormány előzetes hozzájárulása során a beruházás nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánításának indokait és annak az önkormányzat gazdálkodási helyzetére gyakorolt várható hatásait vizsgálja.
-
-## (10) Az önkormányzatnak a (9) bekezdés szerinti kezesség-, illetve garanciavállalására vonatkozó kérelmét a helyi önkormányzatokért felelős miniszterhez és az államháztartásért felelős miniszterhez kell benyújtania.”
-
-57. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 10/E. §-a a következő (3) bekezdéssel egészül ki:
+### 57. §

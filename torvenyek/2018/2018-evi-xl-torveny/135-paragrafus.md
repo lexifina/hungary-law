@@ -1,5 +1,3 @@
-## „(8) A kirendelt ügyvéd óradíját a központi költségvetésről szóló törvényben az Országgyűlés állapítja meg úgy, hogy annak összege az előző évi összegnél nem lehet alacsonyabb.”
-
 ## 43. Hatályba léptető rendelkezések
 
 135. § (1) Ez a törvény – a (2)–(8) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.

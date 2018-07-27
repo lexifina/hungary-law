@@ -1,3 +1,1 @@
-## „(7) Végrehajtási eljárás esetében, ha a mezőgazdasági igazgatási szerv megtagadja az árverési vevő javára a tulajdonszerzés jóváhagyását, vagy az árverés sikertelen, az árverést lefolytató mezőgazdasági igazgatási szerv megkeresi a végrehajtót a bírósági végrehajtásról szóló törvény szerinti folyamatos árverezési hirdetmény közzététele érdekében. Ha a föld tulajdonjogára vételi ajánlat érkezik, a végrehajtó árverés lefolytatása érdekében ismételten megkeresi a mezőgazdasági igazgatási szervet.”
-
-128. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény a következő 70/B. §-sal egészül ki:
+### 128. §

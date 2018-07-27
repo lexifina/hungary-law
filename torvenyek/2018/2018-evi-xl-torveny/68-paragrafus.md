@@ -1,3 +1,1 @@
-## „(2) A társaságnak a 41. § (1) bekezdése szerinti tagsági, részesedési jogviszonyaiból, a 41. § (4) bekezdés szerinti ügyleteiből és – az önkormányzati tulajdonú gazdasági társaságok kivételével – a Gst. 3. § (1) bekezdése szerinti adósságot keletkeztető ügyleteiből származó valamennyi joga és kötelezettsége a feladat átvételének időpontjában e törvény erejénél fogva az államra száll. A 41. § (1) bekezdése szerinti tagsági, részesedési jogviszonyokat a 11/A. § (2) bekezdése szerinti kormányrendeletben, illetve önkormányzati rendeletben meghatározottak szerint a feladat átvételének időpontját követő kilencven napon belül felül kell vizsgálni.”
-
-68. § Az államháztartásról szóló 2011. évi CXCV. törvény 51. §-a a következő (4) bekezdéssel egészül ki:
+### 68. §

@@ -1,3 +1,1 @@
-## „(4) A Kormány rendeletben előírhatja, hogy a helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás, valamint a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság kedvezményezett esetén az európai uniós forrásból, valamint a Kormány rendeletében meghatározott fejlesztési célú, nem európai uniós forrásból nyújtott költségvetési támogatások kizárólag a kincstárnál vezetett fizetési számlára folyósíthatók. A kedvezményezett a költségvetési támogatás célja szerinti kiadásokat kizárólag a kincstárnál vezetett fizetési számláról teljesíthet, azokat más célra – így különösen értékpapír-vásárlásra, kamatbevétel realizálására – még átmenetileg sem veheti igénybe.”
-
-69. § Az államháztartásról szóló 2011. évi CXCV. törvény 60/B. §-a helyébe a következő rendelkezés lép:
+### 69. §

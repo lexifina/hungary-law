@@ -1,7 +1,3 @@
-## „4/B. § (1) Amennyiben a világörökségi helyszínen fennálló állami tulajdonban álló épület, műtárgy egyéb közterületi építmény (a továbbiakban együtt: építmény) nem illeszkedik a világörökségi helyszín egységes településképi megjelenéséhez, vagy ellehetetleníti a világörökségi helyszín, mint kiemelkedő egyetemes érték fenntartására és bemutatására irányuló fejlesztési tervek megvalósítását, a kulturális örökség védelméért felelős miniszter az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter egyetértésével kezdeményezheti az állam tulajdonosi jogait gyakorló szervnél az ingatlan átépítését, bontását.
-
-## (2) A kulturális örökség védelméért felelős miniszter kezdeményezése alapján az állam tulajdonosi jogait gyakorló szerv megteszi az állami tulajdonú építmény átépítése vagy bontása érdekében szükséges intézkedéseket.”
-
 ## 22. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
 
 ### 46. §

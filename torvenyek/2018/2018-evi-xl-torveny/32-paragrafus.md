@@ -1,17 +1,1 @@
-## „110/B. § (1) E törvénynek a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított rendelkezései hatálybalépését megelőzően, nemzetgazdasági érdekre hivatkozással benyújtott nemzeti letelepedési engedély iránti kérelemmel kapcsolatos eljárásban, amennyiben a bíróság az idegenrendészeti hatóság döntésének felülvizsgálata iránti közigazgatási perben hozott ítéletében az idegenrendészeti hatóságot új eljárásra kötelezi, a megismételt eljárás során a nemzeti letelepedési engedély iránti kérelem előterjesztésekor hatályos jogszabályt kell alkalmazni.
-
-## (2) A 37. § (1) bekezdés c) pontjában meghatározott visszavonási ok nem alkalmazható a nemzetgazdasági érdekre hivatkozással kiadott nemzeti letelepedési engedélyekre és az ezen a jogcímen kiadott nemzeti letelepedési engedéllyel rendelkező harmadik országbeli állampolgár családtagja részére kiadott nemzeti letelepedési engedélyekre.
-
-## (3) A tartózkodási, illetve letelepedési jogosultság ellenőrzése céljából az Országgyűlés gazdasági ügyekért felelős bizottsága által jóváhagyott vállalkozások által e törvénynek a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított rendelkezései hatálybalépését megelőzően teljesített összesített adatszolgáltatást az idegenrendészeti hatóság 6 évig kezeli. Az adatszolgáltatás tartalmazza a tárgyhónapban kibocsátott értékpapírok számát, az értékpapírok tulajdonosainak, valamint gazdasági társaság esetén annak többségi tulajdonosa természetes személyazonosító adatait, továbbá a vállalkozás által lejegyzett államkötvények számát, valamint azt, hogy a lejegyzés mely kérelmezők befizetéseiből történt.
-
-## (4) Az Országgyűlés gazdasági ügyekért felelős állandó bizottsága által jóváhagyott vállalkozás köteles az idegenrendészeti hatóság részére a 2018. szeptember 30-ig összesített adatszolgáltatást teljesíteni, amely tartalmazza a lejegyzett államkötvény darabszámát, sorozatszámát, az állampapír-vásárlás dátumát, azon harmadik országbeli állampolgár, valamint gazdasági társaság esetén annak többségi tulajdonosa természetes személyazonosító adatait, akinek részére az adott sorozatszámú értékpapír értékesítése megtörtént, a kibocsátott értékpapír darabszámát, sorozatszámát, az értékesítés dátumát.”
-
-32. § Hatályát veszti a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény
-
-1. 32. § (6) bekezdése,
-
-2. 35/A.–35/C. §-a,
-
-3. 110. § (11)–(17) bekezdése,
-
-4. 111. § (9) bekezdése.
+### 32. §
