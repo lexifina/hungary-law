@@ -1,6 +1,6 @@
 ## Kimenekítés, kiürítés
 
-19. §[^63] (1) Ha az árvízvédelmi védvonal átszakadásának veszélye fenyeget, vagy ha az elöntések emberi életet, létesítményeket és javakat veszélyeztetnek
+19. §[^64] (1) Ha az árvízvédelmi védvonal átszakadásának veszélye fenyeget, vagy ha az elöntések emberi életet, létesítményeket és javakat veszélyeztetnek
 
 a) a VIZIG igazgató köteles a védelmi bizottság elnökének,
 
@@ -10,4 +10,4 @@ a veszélyeztetett területekről a kitelepítés elrendelésére javaslatot ten
 
 (2) Az (1) bekezdés b) pontjában foglalt javaslatról és az ezzel kapcsolatban meghozott döntésről a polgármester, főpolgármester soron kívül tájékoztatja a hivatásos katasztrófavédelmi szervet.
 
-[^63]: A 19. § a 300/2011. (XII. 22.) Korm. rendelet 25. § (12) bekezdésével megállapított szöveg.
+[^64]: A 19. § a 300/2011. (XII. 22.) Korm. rendelet 25. § (12) bekezdésével megállapított szöveg.

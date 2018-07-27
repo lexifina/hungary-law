@@ -1,11 +1,11 @@
-## A Kormány feladata az árvíz- és belvízvédekezés során[^15]
+## A Kormány feladata az árvíz- és belvízvédekezés során[^16]
 
-5. §[^16] (1)[^17] Veszélyhelyzet kihirdetése esetén a vizek kártételei elleni védekezés országos irányítása a Kormány feladata.
+5. §[^17] (1)[^18] Veszélyhelyzet kihirdetése esetén a vizek kártételei elleni védekezés országos irányítása a Kormány feladata.
 
 (2) Ha a Kormány az (1) bekezdés szerinti irányítási jogosítványai körébe tartozó döntésének meghozatalában átmenetileg akadályoztatva van, a vízügyi igazgatási szervek irányításáért felelős miniszter köteles megtenni azokat az azonnali intézkedéseket, amelyek hiánya a sikeres védekezést veszélyeztetné.
 
 (3) A vízügyi igazgatási szervek irányításáért felelős miniszter a (2) bekezdés szerinti intézkedéseiről haladéktalanul tájékoztatja a Kormányt.
 
-[^15]: Az 5. §-t megelőző alcímet a 300/2011. (XII. 22.) Korm. rendelet 25. § (5) bekezdése iktatta be, szövege a 69/2013. (III. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^16]: A 5. § a 69/2013. (III. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^17]: Az 5. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^16]: Az 5. §-t megelőző alcímet a 300/2011. (XII. 22.) Korm. rendelet 25. § (5) bekezdése iktatta be, szövege a 69/2013. (III. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^17]: A 5. § a 69/2013. (III. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: Az 5. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
