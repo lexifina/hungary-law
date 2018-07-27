@@ -8,7 +8,7 @@
 
 ## Határidő: azonnal
 
-## 2. visszavonja az egyes állami tulajdonú ingóságok Iraki Köztársaság Kurd Regionális Kormányának történő térítésmentes átadásáról szóló 1232/2016. (V. 12.) Korm. határozatot.
+## 2.[^1]
 
 1. melléklet az 1356/2018. (VII. 26.) Korm. határozathoz
 
@@ -21,3 +21,5 @@ az Afgán Nemzeti Rendőrség (ANP) részére térítésmentes átadásra kerül
 2. 54 880 db 12,7 mm B-32 páncéltörő-gyújtó lövedékű töltény;
 
 3. 54 880 db 12,7 mm BZT páncéltörő-gyújtó-fényjelzős lövedékű töltény.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
