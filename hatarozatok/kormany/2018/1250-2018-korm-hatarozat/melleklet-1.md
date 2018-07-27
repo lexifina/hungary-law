@@ -46,7 +46,9 @@
 
 ## 8. A kormánybiztos a tevékenységéről a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 21. §-a szerint számol be.
 
-## 9. A kormánybiztos tevékenységét a miniszterelnök a Miniszterelnökséget vezető miniszter útján irányítja.
+## 9.[^1] A kormánybiztos tevékenységét a miniszterelnök – a 9a. pontban meghatározott kivétellel – a Miniszterelnökséget vezető miniszter útján irányítja.
+
+## 9a.[^2] A kormánybiztos 1. melléklet 16. pontja szerinti beruházással kapcsolatos tevékenységét a miniszterelnök a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter útján irányítja.
 
 ## 10. A kormánybiztos tevékenységét titkárság nem segíti.
 
@@ -54,7 +56,7 @@
 
 ## 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 13.[^1]
+## 13.[^3]
 
 1. melléklet az 1250/2018. (V. 25.) Korm. határozathoz
 
@@ -86,6 +88,18 @@ A kormánybiztos feladatkörébe utalt beruházások
 
 13. a 2020-ban Tokióban megrendezésre kerülő XXXII. nyári olimpiai és XVI. paralimpiai játékok helyszínén esetlegesen kialakításra kerülő olimpiai látogatóközpont – magyar ház – előkészítése és megvalósítása,
 
-14. további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
+14.[^4] új budapesti multifunkcionális sport- és rendezvénycsarnok megvalósítása,
 
-[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+15.[^5] az ATP World Tour tenisztorna megrendezéséhez szükséges ideiglenes infrastrukturális háttér és végleges teniszközpont megvalósítása,
+
+16.[^6] a HUNGEXPO Budapesti Vásárközpont fejlesztése,
+
+17.[^7] további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
+
+[^1]: A 9. pont az 1360/2018. (VII. 26.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 9a. pontot az 1360/2018. (VII. 26.) Korm. határozat 2. pontja iktatta be.
+[^3]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet 14. pontja az 1360/2018. (VII. 26.) Korm. határozat 3. pontjával megállapított szöveg.
+[^5]: Az 1. melléklet 15. pontját az 1360/2018. (VII. 26.) Korm. határozat 3. pontja iktatta be.
+[^6]: Az 1. melléklet 16. pontját az 1360/2018. (VII. 26.) Korm. határozat 3. pontja iktatta be.
+[^7]: Az 1. melléklet 17. pontját az 1360/2018. (VII. 26.) Korm. határozat 3. pontja iktatta be.
