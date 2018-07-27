@@ -1,1 +1,3 @@
-## 2. § Hatályát veszti a 7/2003. (V. 16.) KvVM–GKM együttes rendelet 2. § c) és d) pontja, valamint a 3. § (3) és (4) bekezdése.
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
