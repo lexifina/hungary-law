@@ -10,7 +10,7 @@
 
 (3) Ha a (2) bekezdés szerinti házastársak vagy élettársak mindketten jogosultak családalapítási támogatásra, akkor támogatás csak az egyikük részére – vagy kérelemre mindkét házastárs vagy élettárs részére 50-50%-os mérték szerint megosztva – folyósítható.
 
-(4)[^5] A családalapítási támogatás iránti kérelmet a parancsnoknak címezve – írásban, papír alapon vagy elektronikus úton – a pénzügyi és számviteli szervhez kell benyújtani az e célra rendszeresített formanyomtatvány alkalmazásával. A kérelmet a magasabb parancsnok bírálja el a parancsnok, a honvédelmi szervezet szociális munkacsoportja és a pénzügyi referens javaslata figyelembevételével. Nem folyósítható családalapítási támogatás
+(4)[^7] A családalapítási támogatás iránti kérelmet a parancsnoknak címezve – írásban, papír alapon vagy elektronikus úton – a pénzügyi és számviteli szervhez kell benyújtani az e célra rendszeresített formanyomtatvány alkalmazásával. A kérelmet a magasabb parancsnok bírálja el a parancsnok, a honvédelmi szervezet szociális munkacsoportja és a pénzügyi referens javaslata figyelembevételével. Nem folyósítható családalapítási támogatás
 
 a) a próbaidő alatt,
 
@@ -18,7 +18,7 @@ b) annak a szerződéses állományú katonának, akinek a szerződéses idejéb
 
 c) annak, akinek az illetményéből a törlesztőrészletek levonására bármely ok miatt nincs lehetőség.
 
-(5)[^6] A családalapítási támogatás iránti kérelemhez csatolni kell – eredetben vagy a honvédelmi szervezet személyügyi szerve által hitelesített másolatban – a házassági anyakönyvi kivonatot, bejegyzett élettársi kapcsolatok anyakönyvéből kiállított kivonatot, az Élettársi Nyilatkozatok Nyilvántartásában szereplő adatokról kiállított tanúsítványt vagy a teljes bizonyító erejű magánokirat formájában megtett élettársi nyilatkozatot – másolat benyújtása esetén a személyügyi szerv által hitelesített másolati példányt –, továbbá az igénylő házastársa vagy élettársa havi munkabéréről, illetményéről, egyéb jövedelméről, bevételéről és az abból történő levonásról szóló munkáltatói igazolást. Elektronikus ügyintézés esetén a kérelemhez az okiratok digitális másolatát kell csatolni.
+(5)[^8] A családalapítási támogatás iránti kérelemhez csatolni kell – eredetben vagy a honvédelmi szervezet személyügyi szerve által hitelesített másolatban – a házassági anyakönyvi kivonatot, bejegyzett élettársi kapcsolatok anyakönyvéből kiállított kivonatot, az Élettársi Nyilatkozatok Nyilvántartásában szereplő adatokról kiállított tanúsítványt vagy a teljes bizonyító erejű magánokirat formájában megtett élettársi nyilatkozatot – másolat benyújtása esetén a személyügyi szerv által hitelesített másolati példányt –, továbbá az igénylő házastársa vagy élettársa havi munkabéréről, illetményéről, egyéb jövedelméről, bevételéről és az abból történő levonásról szóló munkáltatói igazolást. Elektronikus ügyintézés esetén a kérelemhez az okiratok digitális másolatát kell csatolni.
 
 (6) A (4) bekezdés szerinti formanyomtatványnak a következő, formai és tartalmi elemeket kell tartalmaznia:
 
@@ -54,5 +54,5 @@ c) annak, akinek az illetményéből a törlesztőrészletek levonására bárme
 
 16. a nyomtatvány kitöltésével és benyújtásával kapcsolatos útmutató.
 
-[^5]: A 3. § (4) bekezdése a 10/2017. (VIII. 31.) HM rendelet 32. §-ával megállapított szöveg.
-[^6]: A 3. § (5) bekezdése a 10/2017. (VIII. 31.) HM rendelet 32. §-ával megállapított szöveg.
+[^7]: A 3. § (4) bekezdése a 10/2017. (VIII. 31.) HM rendelet 32. §-ával megállapított szöveg.
+[^8]: A 3. § (5) bekezdése a 10/2017. (VIII. 31.) HM rendelet 32. §-ával megállapított szöveg.

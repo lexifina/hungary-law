@@ -1,8 +1,8 @@
 ## 4. Nevelési támogatás
 
-10. § (1)[^15] Évente egy alkalommal gyermekenként a gyermekes családok élethelyzetének javítása érdekében a felszámítási alap 60%-ának megfelelő összegű nevelési támogatásban kell részesíteni az állomány tárgyév augusztus 1-jén szolgálati viszonyban álló tagját, és a tárgyév augusztus 1-jén jogviszonyban álló közalkalmazottat,
+10. §[^19] (1) Évente egy alkalommal – a gyermekes családok élethelyzetének javítása érdekében – gyermekenként 20 000 Ft összegű nevelési támogatásban kell részesíteni az állomány tárgyév augusztus 1-jén szolgálati viszonyban álló tagját és a tárgyév augusztus 1-jén jogviszonyban álló közalkalmazottat,
 
-a)[^16] ha a vele közös háztartásban élő vérszerinti, örökbefogadott, mostoha- vagy nevelt gyermekére tekintettel – ideértve a szülők által időszakonként felváltva gondozott, nevelt gyermeket is – az állomány tagja és a közalkalmazott vagy a vele közös háztartásban élő házastársa vagy élettársa
+a) ha a vele közös háztartásban élő vérszerinti, örökbefogadott, mostoha- vagy nevelt gyermekére tekintettel – ideértve a szülők által időszakonként felváltva gondozott, nevelt gyermeket is – az állomány tagja és a közalkalmazott vagy a vele közös háztartásban élő házastársa vagy élettársa
 
 aa) családi pótlékra jogosult,
 
@@ -16,14 +16,14 @@ b) ha gyermeke saját jogán családi pótlékban részesül.
 
 (2) Az (1) bekezdés a) pont ab) alpontja szerinti nevelési támogatás nem illeti meg az állomány tagját vagy a közalkalmazottat, ha gyermeke tanulmányait szünetelteti vagy félévet halaszt. Nem minősül szüneteltetésnek, ha a hallgató a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karán kötelező alapkiképzésen vesz részt.
 
-(3) Nevelési támogatásra jogosult az állomány szolgálati kötelmekkel összefüggő baleset vagy betegség következtében elhunyt volt tagjának – ideértve az önkéntes tartalékost is – az (1) bekezdés szerinti feltételeknek megfelelő gyermeke, valamint a hősi halott árvaellátásban részesülő, az (1) bekezdés szerinti feltételeknek megfelelő gyermeke is.
+(3) Az (1) bekezdésben meghatározott nevelési támogatás 25%-kal megnövelt összegére jogosult az állomány szolgálati kötelmekkel összefüggő baleset vagy betegség következtében elhunyt volt tagjának – ideértve az önkéntes tartalékost is – az (1) bekezdés szerinti feltételeknek megfelelő gyermeke, valamint a hősi halott árvaellátásban részesülő, az (1) bekezdés szerinti feltételeknek megfelelő gyermeke is.
 
-(4) Az állomány szolgálati kötelmekkel összefüggő baleset vagy betegség következtében elhunyt volt tagjának – ideértve az önkéntes tartalékost is – gyermekét, valamint a hősi halott árvaellátásban részesülő gyermekét évente december 15-éig, ismételten az (1) bekezdésben meghatározott összegű nevelési támogatásban kell részesíteni.
+(4) Az állomány szolgálati kötelmekkel összefüggő baleset vagy betegség következtében elhunyt volt tagjának – ideértve az önkéntes tartalékost is – gyermekét, valamint a hősi halott árvaellátásban részesülő gyermekét évente december 15-ig, ismételten a (3) bekezdésben meghatározott összegű nevelési támogatásban kell részesíteni.
 
-(5) A honvéd tisztjelölt és a honvéd altiszt-jelölt az állomány tagjára vonatkozó szabályok szerint jogosult nevelési támogatásra, azzal az eltéréssel, hogy ennek összege az állomány tagja részére meghatározott összeg 50%-a.
+(5) Az állomány (3) és (4) bekezdésbe nem tartozó, elhunyt volt tagjának, valamint az elhunyt nyugállományú katona (1) bekezdés szerinti feltételeknek megfelelő gyermeke is jogosult az (1) bekezdés szerinti juttatásra.
 
-(6)[^17] Az (1) bekezdés a) pont aa) alpontjától eltérően, a tárgyévi nevelési támogatásra jogosult az állomány tagja és a közalkalmazott akkor is, ha az (1) bekezdés a) pontja szerinti gyermek a tárgyév szeptember 30-ig megszületik, örökbefogadásra vagy nevelésbe vételre kerül.
+(6) A honvéd tisztjelölt és a honvéd altiszt-jelölt az állomány tagjára vonatkozó szabályok szerint jogosult nevelési támogatásra.
 
-[^15]: A 10. § (1) bekezdés nyitó szövegrésze a 6/2015. (VI. 22.) HM rendelet 2. § a) pontja szerint módosított szöveg.
-[^16]: A 10. § (1) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^17]: A 10. § (6) bekezdését a 26/2016. (XII. 22.) HM rendelet 8. § (2) bekezdése iktatta be.
+(7) Az (1) bekezdés a) pont aa) alpontjától eltérően, a tárgyévi nevelési támogatásra jogosult az állomány tagja és a közalkalmazott akkor is, ha az (1) bekezdés a) pontja szerinti gyermek a tárgyév szeptember 30-ig megszületik, örökbefogadásra vagy nevelésbe vételre kerül.
+
+[^19]: A 10. § a 12/2018. (VII. 27.) HM rendelet 28. §-ával megállapított szöveg.

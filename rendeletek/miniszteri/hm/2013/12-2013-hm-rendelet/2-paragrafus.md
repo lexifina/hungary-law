@@ -1,4 +1,4 @@
-2. § (1)[^3] E rendelet alkalmazásában
+2. § (1)[^4] E rendelet alkalmazásában
 
 1. digitális másolat: az elektronikus ügyintézés keretében elektronikus úton továbbított, digitalizált formátumú okirat,
 
@@ -16,7 +16,9 @@
 
 a) rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli szervezeti elem,
 
-b) nem rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli utaltsági rend szerinti pénzügyi és számviteli szervezeti elem.
+b) nem rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli utaltsági rend szerinti pénzügyi és számviteli szervezeti elem,
+
+8.[^5] utalvány: a Magyar Nemzeti Üdülési Alapítvány által kibocsátott, az Erzsébet Utalványforgalmazó Zrt. által forgalmazott Ajándék Erzsébet-utalvány.
 
 (2) A rendelet alkalmazásában magasabb parancsnoknak minősül
 
@@ -26,7 +28,8 @@ b) a Honvéd Vezérkar főnöke (a továbbiakban: HVKF) a Honvéd Vezérkar és 
 
 c) a KNBSZ főigazgatója a KNBSZ állománya tekintetében.
 
-(3)[^4] A felszámítási alap összege 38 650 Ft.
+(3)[^6] A felszámítási alap összege 38 650 Ft.
 
-[^3]: A 2. § (1) bekezdése a 10/2017. (VIII. 31.) HM rendelet 31. §-ával megállapított szöveg.
-[^4]: A 2. § (3) bekezdését a 6/2015. (VI. 22.) HM rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 2. § (1) bekezdése a 10/2017. (VIII. 31.) HM rendelet 31. §-ával megállapított szöveg.
+[^5]: A 2. § (1) bekezdés 8. pontját a 12/2018. (VII. 27.) HM rendelet 25. §-a iktatta be.
+[^6]: A 2. § (3) bekezdését a 6/2015. (VI. 22.) HM rendelet 1. § (2) bekezdése iktatta be.

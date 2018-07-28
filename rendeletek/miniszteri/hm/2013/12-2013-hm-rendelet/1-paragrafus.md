@@ -14,11 +14,14 @@ d) a tényleges szolgálatot teljesítő önkéntes tartalékos katonákra, vala
 
 e) az állomány tagjának közeli hozzátartozójára, élettársára, a nyugállományú katonára, nyugdíjas közalkalmazottra, valamint a nyugállományú katona és a nyugdíjas közalkalmazott közeli hozzátartozójára, élettársára, továbbá arra, akinek a szolgálati viszonya a szolgálati kötelmekkel, illetve közalkalmazotti jogviszonya munkahelyi kötelmekkel összefüggő baleset, betegség miatt szűnt meg.
 
+(1a)[^2] A 18–22. §-t a közalkalmazottakra vonatkozó mértékben a honvédelmi szervezetnél foglalkoztatott munkavállalókra is megfelelően alkalmazni kell.
+
 (2) A tartós külszolgálatot teljesítők esetében a 3–11. §-t, a 15. §-t és a 19–21. §-t kell alkalmazni.
 
 (3) E rendelet hatálya szerinti juttatásra nem jogosult az a honvéd, aki a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 93. § (1) bekezdés a)–c) és f) pontja hatálya alatt áll.
 
-(4)[^2] E rendelet szerint nyugdíjas közalkalmazott az a korábban közalkalmazotti jogviszonyban foglalkoztatott személy, akinek nyugdíjazását közvetlenül megelőző utolsó foglalkoztatási jogviszonya honvédelmi szervezettel állt fenn, vagy aki a honvédelmi szervezettel fennálló jogviszonyának megszűnése és nyugdíjba vonulása között új jogviszonyt nem létesített, feltéve, hogy a két időpont között eltelt idő az 1 évet nem haladja meg.
+(4)[^3] E rendelet szerint nyugdíjas közalkalmazott az a korábban közalkalmazotti jogviszonyban foglalkoztatott személy, akinek nyugdíjazását közvetlenül megelőző utolsó foglalkoztatási jogviszonya honvédelmi szervezettel állt fenn, vagy aki a honvédelmi szervezettel fennálló jogviszonyának megszűnése és nyugdíjba vonulása között új jogviszonyt nem létesített, feltéve, hogy a két időpont között eltelt idő az 1 évet nem haladja meg.
 
 [^1]: Az 1. § (1) bekezdése a 25/2016. (XII. 22.) HM rendelet 53. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (4) bekezdését a 25/2016. (XII. 22.) HM rendelet 53. § (2) bekezdése iktatta be.
+[^2]: Az 1. § (1a) bekezdését a 12/2018. (VII. 27.) HM rendelet 24. §-a iktatta be.
+[^3]: Az 1. § (4) bekezdését a 25/2016. (XII. 22.) HM rendelet 53. § (2) bekezdése iktatta be.

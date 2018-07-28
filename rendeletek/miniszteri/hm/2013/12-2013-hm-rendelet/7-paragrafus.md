@@ -1,8 +1,14 @@
 7. § (1) A parancsnok – a 6. § (1) bekezdésében foglaltak mérlegelésével – legfeljebb a minimálbér ötszörösének megfelelő összegű illetményelőleget engedélyezhet, amely visszafizetésének időtartama legfeljebb 6 hónap lehet.
 
-(2) Az (1) bekezdésnél nagyobb összegű, illetve hosszabb, legfeljebb 12 havi törlesztési idejű illetményelőleget – a 6. § (1) bekezdésben foglaltak mérlegelésével – a magasabb parancsnok engedélyezhet. Az engedélyezett összeg az állomány tagja és a közalkalmazott távolléti díjának másfélszeresét nem haladhatja meg.
+(2)[^9] A magasabb parancsnok a 6. § (1) bekezdésében foglaltak mérlegelésével
 
-(3)[^7] Az illetményelőleg iránti kérelmet az erre rendszeresített formanyomtatvány alkalmazásával a parancsnoknak címezve – írásban, papír alapon vagy elektronikus úton – a pénzügyi és számviteli szervhez kell benyújtani.
+a) a minimálbér ötszörösénél nagyobb, legfeljebb az állomány tagja és a közalkalmazott távolléti díja kétszeresének megfelelő összegű, legfeljebb 12 havi törlesztési idejű illetményelőleget, valamint
+
+b) a minimálbér ötszörösének megfelelő vagy annál kisebb összegű és 6 hónapnál hosszabb, de legfeljebb 12 havi törlesztési idejű illetményelőleget
+
+## is engedélyezhet.
+
+(3)[^10] Az illetményelőleg iránti kérelmet az erre rendszeresített formanyomtatvány alkalmazásával a parancsnoknak címezve – írásban, papír alapon vagy elektronikus úton – a pénzügyi és számviteli szervhez kell benyújtani.
 
 (4) A (3) bekezdés szerinti formanyomtatványnak a következő formai és tartalmi elemeket kell tartalmaznia:
 
@@ -26,4 +32,5 @@ i) az igénylőt foglalkoztató honvédelmi szervezetnél működő szociális m
 
 j) a parancsnok záradéka.
 
-[^7]: A 7. § (3) bekezdése a 10/2017. (VIII. 31.) HM rendelet 33. §-ával megállapított szöveg.
+[^9]: A 7. § (2) bekezdése a 12/2018. (VII. 27.) HM rendelet 26. §-ával megállapított szöveg.
+[^10]: A 7. § (3) bekezdése a 10/2017. (VIII. 31.) HM rendelet 33. §-ával megállapított szöveg.

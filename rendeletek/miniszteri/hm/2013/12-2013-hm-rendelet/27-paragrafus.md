@@ -1,3 +1,7 @@
-27. §[^44]
+27. §[^51] (1) E rendeletnek az egyes honvédelmi miniszteri rendeletek módosításáról szóló 12/2018. (VII. 27.) HM rendelettel (a továbbiakban: R1.) megállapított 2. § (1) bekezdés 8. pontját és 11. § (8) bekezdés i) pontját, valamint az R1.-gyel módosított 9. § (2)–(4) bekezdését, 10. §-át, 11. § (7) bekezdését, 11. § (8) bekezdés h) pontját, 15. § (2) és (3) bekezdését, 16. § (3) bekezdését, 17. § (1) bekezdését, 20. § (1) és (2) bekezdését, 23. §-át és 24. § (2) bekezdését 2018. január 1-jétől kell alkalmazni.
 
-[^44]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(2) Aki 2018. január 1-jét követően e rendelet szerint tanévindítási hozzájárulás vagy nevelési támogatás címén pénzbeli juttatásban részesült, annak a 10. § (4) bekezdésében foglaltak kivételével az utalványösszeg és a pénzbeli juttatás személyi jövedelemadóról szóló 1995. évi CXVII. törvény, továbbá a járulékfizetésre kötelezetteknél a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény szerinti munkaerő-piaci járulék-, egészségbiztosítási járulék- és nyugdíjjárulék-fizetési szabályok alapulvételével csökkentett összegének különbözetét kell utalványban biztosítani.
+
+(3) A 11. § (2) bekezdésében foglaltaktól eltérően a tanévindítási hozzájárulást és a nevelési támogatást 2018. évben – ha az igénylő nem rendelkezik Erzsébet-utalvány Plusz kártyával – a kártyával történő ellátást követő 3. munkanapig kell biztosítani.
+
+[^51]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 12/2018. (VII. 27.) HM rendelet 31. §-a iktatta be.
