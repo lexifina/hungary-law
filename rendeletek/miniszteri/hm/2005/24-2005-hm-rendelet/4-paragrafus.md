@@ -2986,7 +2986,7 @@ g) egyéb olyan részleteket, amelyeket a jelen Szabályzat előírásai szerint
 
 322.5.[^50] A készenléti szolgálatot központilag, alárendeltségtől függően a honvédelmi miniszter, a Honvéd Vezérkar főnöke vagy a KNBSZ főigazgatójának rendelkezései alapján az állományilletékes parancsnok szervezi és működteti.
 
-322.6.[^51] A készenléti szolgálat tartama alatt szabadságot nem lehet igénybe venni. Szabadság tartama alatt nem lehet készenléti szolgálatba vezényelni.
+322.6.[^51]
 
 Fegyveres készenléti szolgálat
 
@@ -4932,7 +4932,7 @@ A hagyományápolás részletes szabályai
 [^48]: A melléklet 290.4 pont b) alpontja a 19/2010. (XII. 27.) HM rendelet 5. § d) pontja szerint módosított szöveg.
 [^49]: A melléklet 295. pont b) alpontja a 19/2010. (XII. 27.) HM rendelet 5. § d) pontja szerint módosított szöveg.
 [^50]: A melléklet 322.5. pontját a 8/2011. (VIII. 18.) HM rendelet 1. §-a iktatta be, szövege a 23/2012. (XII. 18.) HM rendelet 53. §-a szerint módosított szöveg.
-[^51]: A melléklet 322. 6. pontját a 23/2012. (XII. 18.) HM rendelet 53. §-a iktatta be.
+[^51]: A melléklet 322. 6. pontját a 23/2012. (XII. 18.) HM rendelet 53. §-a iktatta be, hatályon kívül helyezte a 12/2018. (VII. 27.) HM rendelet 2. §-a.
 [^52]: A melléklet 324.2. pontját a 8/2011. (VIII. 18.) HM rendelet 2. §-a hatályon kívül helyezte.
 [^53]: A melléklet 326.2.1. pontját a 3/2011. (V. 12.) HM rendelet 1. §-a iktatta be.
 [^54]: A melléklet 444.2. pontja a 6/2007. (II. 14.) HM rendelet 1. §-ával megállapított szöveg.
