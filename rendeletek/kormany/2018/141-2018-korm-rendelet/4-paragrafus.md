@@ -1,0 +1,3 @@
+4. § (1) A 2. mellékletben foglalt táblázat 4., 5., 6., 8. és 10. sora szerinti beruházás esetében az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás, valamint a természetvédelmi eljárások kivételével, illetve ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+
+(2) A 2. mellékletben foglalt táblázat 4., 5., 6., 8. és 10. sora szerinti beruházás esetében az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével, illetve ha jogszabály rövidebbet nem állapít meg – nyolc nap.
