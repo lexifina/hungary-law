@@ -1,7 +1,7 @@
-## 10/A. §[^11] A Modern Városok Program keretében egyes sportcélú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 203/2017. (VII. 10.) Korm. rendelet módosításáról szóló 526/2017. (XII. 29.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 4. § (1) bekezdését, a 6. § (1) bekezdését, valamint az 1. mellékletében foglalt táblázat 24. sorát a Módr3. hatálybalépésekor[^12] folyamatban lévő ügyekben is alkalmazni kell.
+## 11. §[^13] Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított 6. § (1) bekezdését a Módr4. hatálybalépésekor[^14] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 203/2017. (VII. 10.) Korm. rendelethez[^13]
+1. melléklet a 203/2017. (VII. 10.) Korm. rendelethez[^15]
 
-[^11]: A 10/A. §-t az 526/2017. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
-[^12]: A hatálybalépés időpontja 2017. december 30.
-[^13]: Az 1. melléklet a 243/2017. (VIII. 28.) Korm. rendelet 3. §-a, a 464/2017. (XII. 28.) Korm. rendelet 3. §-a, az 526/2017. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^13]: A 11. §-t a 141/2018. (VII. 27.) Korm. rendelet 11. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^14]: A hatálybalépés időpontja 2018. július 28.
+[^15]: Az 1. melléklet a 243/2017. (VIII. 28.) Korm. rendelet 3. §-a, a 464/2017. (XII. 28.) Korm. rendelet 3. §-a, az 526/2017. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.

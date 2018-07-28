@@ -2,9 +2,9 @@
 
 6. § (1)[^6] Az 1. mellékletben foglalt táblázat
 
-a) 2., 3., 9., 13–16., 19., 20. és 24. sora szerinti beruházások építési műszaki ellenőre, akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházáslebonyolítója,
+a) 2., 3., 9., 13–16., 19., 20. és 24. sora szerinti beruházások építési műszaki ellenőre, akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházás-lebonyolítója,
 
-b) 23. sora szerinti beruházások építési műszaki ellenőre és beruházáslebonyolítója
+b) 7. és 23. sora szerinti beruházások építési műszaki ellenőre és beruházás-lebonyolítója,
 
 c) 22. sora szerinti beruházások építési műszaki ellenőre és akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója
 
@@ -13,4 +13,4 @@ c) 22. sora szerinti beruházások építési műszaki ellenőre és akkreditál
 (2) Az (1) bekezdés szerinti beruházás-lebonyolítói feladatkörbe az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 43. § (1) bekezdés c)–d), f)–h), j) és k) pontjában, az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet 7. § (3) bekezdésében, továbbá az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet 5. §-ában foglalt feladatokon túlmenően – az építésügyi szakmagyakorlásra vonatkozó összeférhetetlenségi szabályok betartásával – minden olyan feladat, illetve tevékenység ellátása beletartozik, ami az építési tevékenység szakszerű megvalósításának előkészítésével, ellenőrzésével vagy irányításával kapcsolatos.
 
 [^5]: Az 5. § a 243/2017. (VIII. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^6]: A 6. § (1) bekezdése az 526/2017. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 6. § (1) bekezdése a 141/2018. (VII. 27.) Korm. rendelet 10. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 8. §-át.
