@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-19-20-1
 | 2017-01-01 | 2013-19-20-15.11 | 26/2016. (XII. 22.) HM rendelet |
 | 2017-09-01 | 2013-19-20-15.12 | 10/2017. (VIII. 31.) HM rendelet |
 | 2018-01-01 | 2013-19-20-15.13 | 10/2017. (VIII. 31.) HM rendelet |
+| 2018-07-28 | 2013-19-20-15.14 | 12/2018. (VII. 27.) HM rendelet |

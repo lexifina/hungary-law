@@ -28,17 +28,19 @@ a) rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli szer
 
 b) nem rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli utaltsági rend szerinti pénzügyi és számviteli szervezeti elem;
 
-10.[^7] saját személygépkocsi: a honvéd, a közalkalmazott vagy ezek házastársa tulajdonában lévő, vagy általuk zárt végű, pénzügyi lízingbe vett, a közúti közlekedés szabályairól szóló jogszabály szerinti személygépkocsi;
+10.[^7] saját személygépkocsi: a honvéd, a közalkalmazott vagy ezeknek a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szerinti közeli hozzátartozója tulajdonában lévő, a közúti közlekedés szabályairól szóló jogszabály szerinti személygépkocsi;
 
 11. vonzáskörzet: az a település, amely közelebb eső közigazgatási határa a szolgálatteljesítési hely szerinti település közigazgatási határától közforgalom számára nyitott, szilárd burkolatú úton mért, legfeljebb 40 km-es távolságra van, és amelytől a szolgálatteljesítési hely szerinti település menetrend szerint közlekedő közösségi közlekedési eszközzel legfeljebb egy óra alatt megközelíthető.
 
+(1a)[^8] E rendelet közalkalmazottakra vonatkozó rendelkezéseit – a 17. §, a 19–32. §, valamint a 33/A–33/E. § kivételével – a honvédelmi szervezetnél foglalkoztatott munkavállalókra is megfelelően alkalmazni kell.
+
 (2) Ahol e rendelet állományilletékes parancsnokot említ, azon közalkalmazott esetén a munkáltatói jogkört gyakorló vezetőt kell érteni.
 
-(3)[^8] E rendelet alkalmazásában családnak minősül a családtagok olyan közössége, amelyben családtag a házastárs, az élettárs, továbbá az a közeli hozzátartozó, akit a Polgári Törvénykönyvről szóló törvény szerint az állomány tagja köteles eltartani, és akit a kinevezés, a szolgálat érdekében történt áthelyezés vagy a 19. § (2) bekezdése szerinti vezénylés időpontjában saját háztartásában ténylegesen eltartott.
+(3)[^9] E rendelet alkalmazásában családnak minősül a családtagok olyan közössége, amelyben családtag a házastárs, az élettárs, továbbá az a közeli hozzátartozó, akit a Ptk. szerint az állomány tagja köteles eltartani, és akit a kinevezés, a szolgálat érdekében történt áthelyezés vagy a 19. § (2) bekezdése szerinti vezénylés időpontjában saját háztartásában ténylegesen eltartott.
 
-(4)[^9] Az élettárs után e rendelet alapján megállapítható költségtérítések igénybevételéhez az élettársi kapcsolat fennállásának tényét a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet (a továbbiakban: Hjt. vhr.) 18/A. §-a szerint kell igazolni.
+(4)[^10] Az élettárs után e rendelet alapján megállapítható költségtérítések igénybevételéhez az élettársi kapcsolat fennállásának tényét a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet (a továbbiakban: Hjt. vhr.) 18/A. §-a szerint kell igazolni.
 
-(5)[^10] A felszámítási alap összege 38 650 Ft.
+(5)[^11] A felszámítási alap összege 38 650 Ft.
 
 [^1]: Az 1. § (1) bekezdés 1. pontja a 26/2016. (XII. 22.) HM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés 2. pontja a 10/2017. (VIII. 31.) HM rendelet 48. §-ával megállapított szöveg.
@@ -46,7 +48,8 @@ b) nem rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli 
 [^4]: Az 1. § (1) bekezdés 3a. pontját a 6/2015. (VI. 22.) HM rendelet 5. § (1) bekezdése iktatta be.
 [^5]: Az 1. § (1) bekezdés 5. pontja az 5/2015. (VI. 22.) HM rendelet 5. §-ával megállapított szöveg.
 [^6]: Az 1. § (1) bekezdés 8. pontja a 26/2016. (XII. 22.) HM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^7]: Az 1. § (1) bekezdés 10. pontja a 26/2016. (XII. 22.) HM rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^8]: Az 1. § (3) bekezdése a 26/2016. (XII. 22.) HM rendelet 11. § (4) bekezdésével megállapított szöveg.
-[^9]: Az 1. § (4) bekezdését a 4/2014. (III. 20.) HM rendelet 1. §-a iktatta be, a 26/2016. (XII. 22.) HM rendelet 11. § (4) bekezdésével megállapított szöveg.
-[^10]: Az 1. § (5) bekezdését a 6/2015. (VI. 22.) HM rendelet 5. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (1) bekezdés 10. pontja a 12/2018. (VII. 27.) HM rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (1a) bekezdését a 12/2018. (VII. 27.) HM rendelet 34. § (2) bekezdése iktatta be.
+[^9]: Az 1. § (3) bekezdése a 26/2016. (XII. 22.) HM rendelet 11. § (4) bekezdésével megállapított, a 12/2018. (VII. 27.) HM rendelet 38. §-a szerint módosított szöveg.
+[^10]: Az 1. § (4) bekezdését a 4/2014. (III. 20.) HM rendelet 1. §-a iktatta be, a 26/2016. (XII. 22.) HM rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^11]: Az 1. § (5) bekezdését a 6/2015. (VI. 22.) HM rendelet 5. § (2) bekezdése iktatta be.

@@ -2,7 +2,7 @@
 
 ## A MUNKÁBA JÁRÁSSAL ÉS A HELYI SZOLGÁLATI UTAZÁSSAL ÖSSZEFÜGGŐ KÖLTSÉGTÉRÍTÉSEK
 
-## 5. [^17] A munkába járással összefüggő költségtérítések megállapításának szabályai
+## 5. [^18] A munkába járással összefüggő költségtérítések megállapításának szabályai
 
 15. § (1) Az állomány tagja, az önkéntes tartalékos katona és a közalkalmazott munkába járással kapcsolatos utazási költségeit e rendelet eltérő rendelkezése hiányában a Korm. rendelet szabályai szerint kell megállapítani és folyósítani.
 
@@ -26,4 +26,4 @@ e) az egy utazásra, vagy bérlet vásárlása esetén az egy hónapra elszámol
 
 (6) Az önkéntes tartalékos katona részére a tényleges szolgálatteljesítésből történő elbocsátás napjára szóló, előre megváltott menetjegy ára a számla leadása ellenében téríthető meg. Ha a tényleges szolgálatteljesítésből történő elbocsátás napjára szóló menetjegy előre nem váltható meg, a folyósítás végrehajtásához a menetjegyet postai úton, az elbocsátást követő 30. napig kell az állományilletékes honvédelmi szervezet részére megküldeni. A menetjegy megküldése során felmerülő postaköltségek az önkéntes tartalékos katonát terhelik.
 
-[^17]: Az 5. alcím címe a 4/2014. (III. 20.) HM rendelet 2. §-ával megállapított szöveg.
+[^18]: Az 5. alcím címe a 4/2014. (III. 20.) HM rendelet 2. §-ával megállapított szöveg.
