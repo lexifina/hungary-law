@@ -1,0 +1,5 @@
+## „(3) Az (1) bekezdéstől eltérően a veszélyhelyzet, szükségállapot, terrorveszélyhelyzet, váratlan támadás kihirdetését követően a központi katonai igazgatási szerv
+
+## a) a bevonulási parancsot telefonon vagy elektronikus úton az önkéntes műveleti tartalékos katonával a bevonulás időpontja előtt legalább 8 nappal, az önkéntes védelmi tartalékos katonával a bevonulás időpontja előtt legalább 3 nappal közli, vagy
+
+## b) a bevonulási parancsot – a megyei, fővárosi, illetve járási, fővárosi kerületi katonai igazgatási összekötő beosztásra szerződést kötött, illetve a megyei, fővárosi védelmi bizottság munkáját támogató önkéntes műveleti tartalékos katona, a területvédelmi feladatok ellátása érdekében a megyei, járási szervezeti elemeknél beosztásra szerződést kötött önkéntes műveleti tartalékos katona, valamint az önkéntes területvédelmi tartalékos katona részére, ha a feladat végrehajtása megköveteli – telefonon vagy elektronikus úton a bevonulás időpontja előtt 3 nappal is közölheti.”

@@ -1,0 +1,1 @@
+## „(1a) E rendelet közalkalmazottakra vonatkozó rendelkezéseit – a 17. §, a 19–32. §, valamint a 33/A–33/E. § kivételével – a honvédelmi szervezetnél foglalkoztatott munkavállalókra is megfelelően alkalmazni kell.”

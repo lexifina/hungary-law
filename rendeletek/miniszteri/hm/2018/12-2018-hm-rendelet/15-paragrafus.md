@@ -1,0 +1,3 @@
+## 14. § Az R1. 213. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) Az 1. § 10. pont i) alpontja szerinti vezénylés esetén a képzésről történő hazatérést követő 15. napig részletesen összesíteni kell a képzésben részt vevő részére a képzéssel kapcsolatban felmerült és kifizetett tanulmányi támogatásokat. Ha a képzés befejezését követően az összesített, tételes pénzügyi kimutatás alapján az indokolt, akkor módosítani kell a tanulmányi szerződés érintett rendelkezéseit azzal, hogy a kötelezően szolgálati viszonyban töltendő időre vonatkozó rendelkezés az állomány tagjára nézve hátrányosan kizárólag közös megegyezéssel módosítható.”
