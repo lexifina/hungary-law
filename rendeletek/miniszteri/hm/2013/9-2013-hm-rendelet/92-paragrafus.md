@@ -1,4 +1,4 @@
-## 30. [^150] A tiszti és az altiszti állomány előmenetele és előmenetelének tervezése
+## 30. [^155] A tiszti és az altiszti állomány előmenetele és előmenetelének tervezése
 
 92. § (1) A tiszti és az altiszti állomány tagja – ha a viselt rendfokozata megegyezik a beosztásához rendszeresített rendfokozattal – a kötelező várakozási idő lejártát követően egy rendfokozattal magasabb rendszeresített rendfokozatú beosztásba nevezhető ki.
 
@@ -24,4 +24,4 @@ b) az állomány törzsőrmester, főtörzsőrmester vagy zászlós, illetve fő
 
 (10) A Hjt. 84. § (5) bekezdése szerinti esetekben – függetlenül a teljesítményértékelés eredményétől – az állomány tagja előmenetelre nem tervezhető.
 
-[^150]: A 30. alcím (92–107. §) az 1/2018. (I. 26.) HM rendelet 19. §-ával megállapított szöveg.
+[^155]: A 30. alcím (92–107. §) az 1/2018. (I. 26.) HM rendelet 19. §-ával megállapított szöveg.

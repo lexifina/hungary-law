@@ -1,4 +1,4 @@
-25/A. §[^74] (1) Ha a megtérítésre kötelezett honvédségi ösztöndíjas hallgató a tanulmányainak befejezését követő kettő éven belül szolgálati viszonyt létesít, köteles az állományilletékes parancsnokot tájékoztatni a képzési támogatás tekintetében még fennálló tartozásáról.
+25/A. §[^75] (1) Ha a megtérítésre kötelezett honvédségi ösztöndíjas hallgató a tanulmányainak befejezését követő kettő éven belül szolgálati viszonyt létesít, köteles az állományilletékes parancsnokot tájékoztatni a képzési támogatás tekintetében még fennálló tartozásáról.
 
 (2) Az (1) bekezdés szerinti szolgálati viszony időtartama alatt a megtérítésre kötelezett kérelmére mentesül az esedékes részletek megfizetése alól, ha erről a Honvédség központi személyügyi szervének vezetőjével kiegészítő megállapodást köt.
 
@@ -6,4 +6,4 @@
 
 (4) A (3) bekezdéstől eltérően a megtérítésre kötelezett az időarányosan fennálló tartozás megfizetésére köteles, ha a szolgálati viszonya az előírt időtartamból még fennálló idő előtt szűnik meg. A tartozás a szolgálati viszony megszűnését követő naptól esedékes.
 
-[^74]: A 25/A. §-t a 10/2017. (VIII. 31.) HM rendelet 6. §-a iktatta be.
+[^75]: A 25/A. §-t a 10/2017. (VIII. 31.) HM rendelet 6. §-a iktatta be.

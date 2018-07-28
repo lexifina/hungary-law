@@ -1,4 +1,4 @@
-## 8K00213M_0
+## 8K28741M_0
 
 |  | A | B | C | D | E | F | G |
 
@@ -74,7 +74,7 @@
 
 | 34. | - főtiszt; tiszt |  |  |  |  | X |
 
-| 35. | 2.12. A Hjt. 42. § (2) bekezdés g) pontja szerinti hazai felsővezetői tanfolyamra vezénylés |  |
+| 35. | 2.12. A Hjt. 42. § (2) bekezdés g) pontja szerinti hazai katonai felsővezető szakirányú továbbképzési szakra vezénylés |  |
 
 | 36. | - tábornok; főtiszt | X |  |  |  |  |
 
@@ -90,7 +90,7 @@
 
 | 42. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
 
-| 43. | 2.15. A Hjt. 42. § (2) bekezdés g) pontja szerinti külföldi felsővezetői tanfolyamra vezénylés |  |
+| 43. | 2.15. A Hjt. 42. § (2) bekezdés g) pontja szerinti külföldi katonai felsővezető szakirányú továbbképzési szakra vezénylés |  |
 
 | 44. | - ezredes; alezredes | X |  |  |  |  |
 
@@ -98,13 +98,13 @@
 
 | 46. | - főtiszt; tiszt; zászlós; altiszt; tisztes | X |  |  |  |  |
 
-| 47. | 2.17. A Hjt. 42. § (2) bekezdés g) pontja szerinti ideiglenes külföldi képzésre vezénylés |  |
+| 47. |  |  |
 
-| 48. | - tábornok | X |  |  |  |  |
+| 48. |  |  |
 
 | 49. | 2.18. A Hjt. 42. § (2) bekezdés g) pontja szerinti egy évet meg nem haladó külföldi képzésre vezénylés |  |
 
-| 50. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
+| 50. | - tábornok, főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
 
 | 51. | 2.19. A Hjt. 42. § (2) bekezdés g) pontja szerinti egy évet meghaladó külföldi képzésre vezénylés |  |
 
@@ -132,7 +132,7 @@
 
 | 63. | - ezredes; alezredes; őrnagy; százados; főhadnagy; főtörzszászlós; törzszászlós; zászlós; főtörzsőrmester; törzsőrmester | X |  |  |  |  |
 
-| 64. | 2.24. Szolgálati viszony szünetelésének tudomásul vétele |  |
+| 64. | 2.24. A szolgálati viszony Hjt. 58. § (1) bekezdése szerinti szünetelésének tudomásul vétele |  |
 
 | 65. | - tábornok; főtiszt; tiszt; altiszt; zászlós; tisztes; közkatona |  |  |  |  | X |
 
@@ -218,7 +218,7 @@
 
 | 102. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 103. | 4.14. A fokozativizsga-kötelezettség alóli halasztás engedélyezése |  |  |  |  |  |
+| 103. | 4.14. A fokozati vizsga-kötelezettség alóli halasztás, mentesítés engedélyezése |  |  |  |  |  |
 
 | 104. |  | - alezredes-százados; törzszászlós- főtörzsőrmester; szakaszvezető-őrvezető |  |  |  |  | X |
 
@@ -392,7 +392,7 @@
 
 | 187. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  | X |  |  |  |
 
-2. melléklet a 9/2013. (VIII. 12.) HM rendelethez[^295]
+2. melléklet a 9/2013. (VIII. 12.) HM rendelethez[^314]
 
 A MUNKAKÖRI KÖVETELMÉNYEK MEGÁLLAPÍTÁSÁHOZ ALKALMAZOTT RÖVIDÍTÉSEK ÉS KÓDOK GYŰJTEMÉNYE, VALAMINT A MUNKAKÖRI KÖVETELMÉNYEK MEGHATÁROZÁSA
 
@@ -436,7 +436,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 1.2.3. Egyéb képzettségi követelmény:
 
-| FVT | felsővezetői tanfolyam sikeres elvégzése |
+| FVT | katonai felsővezetői szakirányú továbbképzési szak sikeres elvégzése |
 
 | JSZV | jogi szakvizsga |
 
@@ -452,7 +452,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.1. Összhaderőnemi általános katonai, általános szárazföldi, általános légierő, általános logisztika, vezénylő altisztek, vám- és általános munkakörök
 
-## 8K00213N_2
+## 8K28742M_2
 
 |  | A | B | C | D | E | F | G |
 
@@ -490,7 +490,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.1. lövész, harckocsizó, tüzér
 
-## 8K00213N_3
+## 8K28742M_3
 
 |  | A | B | C | D | E | F | G |
 
@@ -528,7 +528,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.2. felderítő és elektronikai hadviselési szakirányú vezető szervezetek munkakörei
 
-## 8K00213N_4
+## 8K28742M_4
 
 |  | A | B | C | D | E | F | G |
 
@@ -556,7 +556,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.3. felderítő (nem mélységi), elektronikai hadviselési
 
-## 8K00213N_5
+## 8K28742M_5
 
 |  | A | B | C | D | E | F | G |
 
@@ -592,7 +592,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.4. mélységi és speciális felderítő
 
-## 8K00213N_6
+## 8K28742M_6
 
 |  | A | B | C | D | E | F | G |
 
@@ -628,7 +628,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.5. különleges műveleti
 
-## 8K00213N_7
+## 8K28742M_7
 
 |  | A | B | C | D | E | F | G |
 
@@ -664,7 +664,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.6. műszaki
 
-## 8K00213N_8
+## 8K28742M_8
 
 |  | A | B | C | D | E | F | G |
 
@@ -700,7 +700,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.7. vegyivédelmi
 
-## 8K00213N_9
+## 8K28742M_9
 
 |  | A | B | C | D | E | F | G |
 
@@ -736,7 +736,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.2.8. civil-katonai együttműködési, lélektani műveleti, információs műveleti
 
-## 8K00213N_10
+## 8K28742M_10
 
 |  | A | B | C | D | E | F | G |
 
@@ -774,7 +774,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.3.1. repülőgép-, helikopter személyzet
 
-## 8K00213N_11
+## 8K28742M_11
 
 |  | A | B | C | D | E | F | G |
 
@@ -810,7 +810,7 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.3.2. légvédelmi rakéta és tüzér
 
-## 8K00213N_12
+## 8K28742M_12
 
 |  | A | B | C | D | E | F | G |
 
@@ -848,80 +848,4 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.3.3. légi vezetés, repülő harcbiztosító
 
-## 8K00213N_13
-
-|  | A | B | C | D | E | F | G |
-
-| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
-
-| 3. | 15 | ezredes | EKV, PE | SZFF | FVT |  |  |
-
-| 4. | 14 | alezredes |  |
-
-| 5. | 13 | őrnagy | FKV, PF |
-
-| 6. | 12 | százados |
-
-| 7. | 11 | főhadnagy |
-
-| 8. | 09 | főtörzszászlós | É | BSZF |
-
-| 9. | 08 | törzszászlós | BZK, SZKF |
-
-| 10. | 07 | zászlós |
-
-| 11. | 06 | főtörzsőrmester | BK, SZKF |
-
-| 12. | 05 | törzsőrmester |
-
-| 13. | 03 | szakaszvezető | ÁI | KF |
-
-| 14. | 02 | tizedes |
-
-| 15. | 01 | őrvezető |
-
-2.4. Vezetés, irányítás
-
-2.4.1. általános híradó, rádióhíradás, rádiórelé híradás, hírközpontok, vezetékes híradás, futár és tábori posta híradás
-
-## 8K00213N_14
-
-|  | A | B | C | D | E | F | G |
-
-| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
-
-| 3. | 16 | dandártábornok | EKV, PE | SZFF | FVT | F6, F8, K2, K3, K8, K14, K16, K19, K23, K24, K25, K26 | Pa/V, Pv/V |
-
-| 4. | 15 | ezredes |
-
-| 5. | 14 | alezredes |  | Pa/V, Pv/IV |
-
-| 6. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
-
-| 7. | 12 | százados | F6, F8, K2, K3, K8, K14, K16, K19, K25, K26 |
-
-| 8. | 11 | főhadnagy |
-
-| 9. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
-
-| 10. | 08 | törzszászlós | BZK, SZKF |
-
-| 11. | 07 | zászlós |
-
-| 12. | 06 | főtörzsőrmester | BK, SZKF |
-
-| 13. | 05 | törzsőrmester |
-
-| 14. | 03 | szakaszvezető | ÁI | KF |
-
-| 15. | 02 | tizedes |
-
-| 16. | 01 | őrvezető |
-
-2.4.2. repülésbiztosító-, földi repülésirányító szolgálat
-
-[^295]: A 2. melléklet a 4/2015. (VI. 22.) HM rendelet 28. § (2) bekezdésével megállapított, a 18/2015. (XII. 22.) HM rendelet 22. § g) pontja, a 10/2016. (VI. 29.) HM rendelet 27. § (2) bekezdése, az 5/2017. (V. 17.) HM rendelet 2. § a) pontja, az 1/2018. (I. 26.) HM rendelet 25. § (2) bekezdése szerint módosított szöveg.
+[^314]: A 2. melléklet a 4/2015. (VI. 22.) HM rendelet 28. § (2) bekezdésével megállapított, a 18/2015. (XII. 22.) HM rendelet 22. § g) pontja, a 10/2016. (VI. 29.) HM rendelet 27. § (2) bekezdése, az 5/2017. (V. 17.) HM rendelet 2. § a) pontja, az 1/2018. (I. 26.) HM rendelet 25. § (2) bekezdése, a 12/2018. (VII. 27.) HM rendelet 22. § d) pontja szerint módosított szöveg.

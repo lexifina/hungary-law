@@ -1,4 +1,4 @@
-4. §[^27] (1) Az illetmény megállapítására vonatkozó munkáltatói jogkört az állományilletékes parancsnok gyakorolja.
+4. §[^28] (1) Az illetmény megállapítására vonatkozó munkáltatói jogkört az állományilletékes parancsnok gyakorolja.
 
 (2) Az illetmény-megállapítás munkáltatói jogkörét az állományilletékes honvédelmi szervezet személyügyi szervének vezetője gyakorolja, ha a megállapításra kerülő illetményelemre való jogosultság, illetve annak mértéke, összege törvényben, illetve rendeletben – az állományilletékes parancsnok mérlegelési jogkörétől független módon – meghatározott. E rendelkezés nem alkalmazható a személyügyi szerv vezetője illetményének megállapítására.
 
@@ -18,7 +18,7 @@ e) a Tábori Lelkészi Szolgálat vezetőinek.
 
 (5) A szolgálati viszony megszűnésével, megszüntetésével összefüggő járandóságok megállapításakor az (1)–(3) bekezdésben meghatározottak szerint kell eljárni.
 
-(6)[^28] Az illetmény-megállapításnak nem minősülő illetményváltozásról szóló értesítés kiadására vonatkozó munkáltatói jogkört
+(6)[^29] Az illetmény-megállapításnak nem minősülő illetményváltozásról szóló értesítés kiadására vonatkozó munkáltatói jogkört
 
 a) a miniszter gyakorolja a HVKF és a KNBSZ főigazgatója tekintetében,
 
@@ -32,5 +32,5 @@ e) az elöljáró parancsnok személyügyi szervének vezetője gyakorolja az á
 
 f) az állományilletékes honvédelmi szervezet személyügyi szervének vezetője gyakorolja az állomány a)–e) pontja alá nem tartozó tagja tekintetében.
 
-[^27]: A 4. § a 4/2015. (VI. 22.) HM rendelet 2. §-ával megállapított szöveg.
-[^28]: A 4. § (6) bekezdése a 10/2016. (VI. 29.) HM rendelet 4. §-ával megállapított szöveg.
+[^28]: A 4. § a 4/2015. (VI. 22.) HM rendelet 2. §-ával megállapított szöveg.
+[^29]: A 4. § (6) bekezdése a 10/2016. (VI. 29.) HM rendelet 4. §-ával megállapított szöveg.

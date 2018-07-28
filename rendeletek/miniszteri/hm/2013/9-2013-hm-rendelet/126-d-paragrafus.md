@@ -1,5 +1,5 @@
-126/D. §[^189] (1) Az állomány tagja mentesül a szolgálatteljesítési kötelezettség alól, ha a katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet 73. § (6) bekezdése alapján engedélyezett egészségügyi szabadság időtartamán belül nem bírálták el az állomány tagjának honvédelmi egészségkárosodási ellátásra való jogosultságát.
+126/D. §[^205] (1) Az állomány tagja mentesül a szolgálatteljesítési kötelezettség alól, ha a katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet 73. § (6) bekezdése alapján engedélyezett egészségügyi szabadság időtartamán belül nem bírálták el az állomány tagjának honvédelmi egészségkárosodási ellátásra való jogosultságát.
 
 (2) Az (1) bekezdés szerinti mentesítés kezdő napja az egészségügyi szabadság lejártát követő nap, és befejező napja a honvédelmi egészségkárosodási ellátásra való jogosultság kezdőnapját megelőző nap.
 
-[^189]: A 126/D. §-t a 25/2016. (XII. 22.) HM rendelet 35. §-a iktatta be.
+[^205]: A 126/D. §-t a 25/2016. (XII. 22.) HM rendelet 35. §-a iktatta be.

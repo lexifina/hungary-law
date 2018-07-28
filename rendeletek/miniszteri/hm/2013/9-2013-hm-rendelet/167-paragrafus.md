@@ -14,6 +14,6 @@ gyakorol.
 
 (3) A KNBSZ főigazgatójának munkáltatói jogkörét a miniszter magához vonhatja.
 
-(4)[^210] A KNBSZ személyügyi szerve vezetőjének munkáltatói jogköreit a főigazgató magához vonhatja.
+(4)[^226] A KNBSZ személyügyi szerve vezetőjének munkáltatói jogköreit a főigazgató magához vonhatja.
 
-[^210]: A 167. § (4) bekezdését a 10/2016. (VI. 29.) HM rendelet 26. §-a iktatta be.
+[^226]: A 167. § (4) bekezdését a 10/2016. (VI. 29.) HM rendelet 26. §-a iktatta be.

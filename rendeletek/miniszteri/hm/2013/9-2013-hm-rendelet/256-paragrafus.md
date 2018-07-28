@@ -1,4 +1,4 @@
-256. § (1)[^259] A központi katonai igazgatási szerv parancsnoka – az állományilletékes honvédelmi szervezet vezetőjével történt egyeztetést követően – a 255. § szerint benyújtott írásbeli kérelem katonai igazgatási szervhez történő beérkezését követő 15 napon belül a rendelkezésére álló adatok alapján hatósági határozatban dönt a tényleges szolgálatteljesítés elhalasztásának vagy átütemezésének engedélyezéséről vagy elutasításáról.
+256. § (1)[^276] A központi katonai igazgatási szerv parancsnoka – az állományilletékes honvédelmi szervezet vezetőjével történt egyeztetést követően – a 255. § szerint benyújtott írásbeli kérelem katonai igazgatási szervhez történő beérkezését követő 15 napon belül a rendelkezésére álló adatok alapján hatósági határozatban dönt a tényleges szolgálatteljesítés elhalasztásának vagy átütemezésének engedélyezéséről vagy elutasításáról.
 
 (2) A központi katonai igazgatási szerv parancsnoka a 248. § (3) bekezdése, valamint a 254. § szerint kiadott behívóparancs vagy bevonulási parancs esetén az (1) bekezdés szerinti döntését 3 napon belül hozza meg.
 
@@ -10,7 +10,10 @@
 
 a) az (1) bekezdés szerinti határozat egy példányát postai úton kézbesíti az önkéntes tartalékos katona részére, valamint ha azt az önkéntes tartalékos katona munkáltatója kérelmére indult eljárásban hozta meg az önkéntes tartalékos katona munkáltatójának is, és
 
-b)[^260] döntéséről elektronikus levél formájában tájékoztatja az állományilletékes honvédelmi szervezetet.
+b)[^277] döntéséről elektronikus levél formájában tájékoztatja az állományilletékes honvédelmi szervezetet.
 
-[^259]: A 256. § (1) bekezdése a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja, a 25/2016. (XII. 22.) HM rendelet 45. § h) pontja szerint módosított szöveg.
-[^260]: A 256. § (5) bekezdés b) pontja a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja szerint módosított szöveg.
+(6)[^278] Ha az állományilletékes honvédelmi szervezet vagy a behívást kezdeményező honvédelmi szervezet a behívási igényéről lemond, a központi katonai igazgatási szerv parancsnoka a behívóparancsot határozatban visszavonja.
+
+[^276]: A 256. § (1) bekezdése a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja, a 25/2016. (XII. 22.) HM rendelet 45. § h) pontja szerint módosított szöveg.
+[^277]: A 256. § (5) bekezdés b) pontja a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja szerint módosított szöveg.
+[^278]: A 256. § (6) bekezdését a 12/2018. (VII. 27.) HM rendelet 19. §-a iktatta be.

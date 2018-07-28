@@ -2,6 +2,6 @@
 
 (2) Az önkéntes tartalékos katona a bevonulási parancsot önkéntes tartalékos szolgálati viszonyának fennállása ideje alatt köteles megőrizni, azt a részére a későbbiekben meghatározott időpontban és céllal felhasználni.
 
-(3)[^244] A bevonulási parancsot az önkéntes tartalékos szolgálati viszony megszűnésekor vagy megszüntetésekor a központi katonai igazgatási szerv parancsnoka hatálytalanítja.
+(3)[^262] A bevonulási parancsot az önkéntes tartalékos szolgálati viszony megszűnésekor vagy megszüntetésekor a központi katonai igazgatási szerv parancsnoka hatálytalanítja.
 
-[^244]: A 245. § (3) bekezdése a 6/2014. (IV. 14.) HM rendelet 9. § l) pontja szerint módosított szöveg.
+[^262]: A 245. § (3) bekezdése a 6/2014. (IV. 14.) HM rendelet 9. § l) pontja szerint módosított szöveg.

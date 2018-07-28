@@ -1,3 +1,3 @@
-73. §[^137]
+73. §[^142]
 
-[^137]: A 73. §-t a 4/2015. (VI. 22.) HM rendelet 29. § e) pontja hatályon kívül helyezte.
+[^142]: A 73. §-t a 4/2015. (VI. 22.) HM rendelet 29. § e) pontja hatályon kívül helyezte.

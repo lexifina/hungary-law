@@ -1,11 +1,17 @@
-107/F. § (1) Az állomány fokozati vizsgára kötelezett tagjának a fokozati vizsgát legkésőbb a vizsgakötelezettség évének – vagy a (3) bekezdés szerint engedélyezett halasztás évének – október 31. napjáig kell letennie.
+107/F. §[^164] (1) Az állomány fokozati vizsgára kötelezett tagjának a fokozati vizsgát legkésőbb a vizsgakötelezettség évének – a (3) bekezdés szerinti halasztás esetén a halasztás évének, mentesítés esetén a mentesítést követő évnek – október 31. napjáig kell letennie.
 
-(2) Ha az állomány tagja a fokozati vizsgát az (1) bekezdés szerinti határidőben nem teszi le, vagy sikertelen vizsgát tesz, fennálló szolgálati viszonya a vizsgatételi kötelezettség évének utolsó napján szűnik meg.
+(2) Ha az állomány tagja a fokozati vizsgát az (1) bekezdés szerinti határidőben nem teszi le vagy sikertelen vizsgát tesz, fennálló szolgálati viszonya a vizsgatételi kötelezettséget követő év január 31-én szűnik meg.
 
-(3) A (2) bekezdéstől eltérően, ha az állomány tagja a tárgyévi vizsgakötelezettségének nem tett eleget, indokolt kérelmére a munkáltatói jogkört gyakorló szolgálati érdekből fokozati vizsgánként legfeljebb két alkalommal, alkalmanként egy-egy év halasztást engedélyezhet, azzal, hogy az engedély megadása nem érinti a várakozási idő meghosszabbítása tárgyában a Hjt. 86. § (3) bekezdése szerint meghozható döntést.
+(3) A (2) bekezdéstől eltérően, ha az állomány tagja
 
-(4) A (3) bekezdés szerinti kérelem a vizsgakötelezettség évében, november 1-je és november 25-e között nyújtható be. A határidő jogvesztő.
+a) a tárgyévi vizsgakötelezettségének nem tett eleget, a munkáltatói jogkört gyakorló – az érintett kérelme nélkül – fokozati vizsgánként legfeljebb két alkalommal, alkalmanként egy-egy év halasztást engedélyez;
 
-(5) A munkáltatói jogkört gyakorló az állomány tagjára vonatkozó döntését legkésőbb a vizsgakötelezettség évének november 30. napjáig, a benyújtott kérelmen hozza meg.
+b) a 107/C. § (1) bekezdés f) pontja szerinti mentesítését kéri, a munkáltatói jogkört gyakorló fokozati vizsgánként egy alkalommal mentesíti az állomány tagját a tárgyévi fokozati vizsgakötelezettség alól.
 
-(6) Az állomány tiszti és altiszti tagja számára engedélyezett halasztásról a vizsgakötelezettség évének december 15. napjáig a Katonai Vizsgaközpontot tájékoztatni kell.
+(4) A (3) bekezdés b) pontja szerinti mentesítést az állomány tagja a tárgyév augusztus 10-ig kérheti.
+
+(5) A munkáltatói jogkört gyakorló a mentesítésről szóló munkáltatói döntést legkésőbb a vizsgakötelezettség évének augusztus 25. napjáig, a halasztás engedélyezéséről szóló munkáltatói döntést legkésőbb a vizsgakötelezettség évének november 30. napjáig készíti el.
+
+(6) Az állomány tiszti és altiszti tagja számára engedélyezett mentesítésről a vizsgakötelezettség évének augusztus 31. napjáig, a halasztás engedélyezéséről a vizsgakötelezettség évének december 15. napjáig a Katonai Vizsgaközpontot tájékoztatni kell.
+
+[^164]: A 107/F. § a 12/2018. (VII. 27.) HM rendelet 7. §-ával megállapított szöveg.
