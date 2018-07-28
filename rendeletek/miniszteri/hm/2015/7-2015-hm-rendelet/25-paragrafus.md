@@ -2,8 +2,8 @@
 
 ## 15. A gyakorlaton végzett tevékenység díjazása
 
-25. § (1)[^24] Az állomány tagja a miniszteri utasításban, valamint a KÁT, a HVKF, a KNBSZ főigazgatója vagy a Honvédség középszintű vezető szervének parancsnoka által intézkedésben vagy parancsban elrendelt belföldi gyakorlaton végzett tevékenységért fokozott igénybevételi pótlékra jogosult.
+25. § (1)[^29] Az állomány tagja a miniszteri utasításban, valamint a KÁT, a HVKF, a KNBSZ főigazgatója vagy a Honvédség középszintű vezető szervének parancsnoka által intézkedésben vagy parancsban elrendelt belföldi gyakorlaton végzett tevékenységért fokozott igénybevételi pótlékra jogosult.
 
 (2) Az (1) bekezdés szerinti pótlékra a gyakorlatvezetők, a gyakorlatokon ellenőrzési vagy döntnöki feladat ellátására kijelölt személyek is jogosultak.
 
-[^24]: A 25. § (1) bekezdése a 10/2017. (VIII. 31.) HM rendelet 72. § d) pontja szerint módosított szöveg.
+[^29]: A 25. § (1) bekezdése a 10/2017. (VIII. 31.) HM rendelet 72. § d) pontja szerint módosított szöveg.

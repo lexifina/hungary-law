@@ -12,10 +12,10 @@ c) a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ)
 
 (2) A Hjt. 127. §-a szerinti pótlékra való jogosultság kezdő időpontjának a Hjt. 127. § (5) bekezdése szerinti esetben a pótlékra jogosító nyelvtudást igazoló okmány állományilletékes honvédelmi szervezet, illetve a Hjt. 42. § (2) bekezdés d) pontja szerinti nem katonai oktatási intézmény részére történő benyújtását követő hónap első napját kell tekinteni.
 
-(3)[^10] Az idegennyelv-tudást államilag elismert nyelvvizsgát, vagy a hatályos NATO szabványnak megfelelő, a STANAG 6001 követelményrendszer szerinti vizsga eredményét igazoló bizonyítvánnyal, illetve azzal egyenértékű okirattal kell igazolni.
+(3)[^11] Az idegennyelv-tudást államilag elismert nyelvvizsgát, vagy a hatályos NATO szabványnak megfelelő, a STANAG 6001 követelményrendszer szerinti vizsga eredményét igazoló bizonyítvánnyal, illetve azzal egyenértékű okirattal kell igazolni.
 
 (4) A képzés nyelve tekintetében STANAG 6001 követelményrendszer szerinti eredményt igazoló bizonyítvány nélkül is STANAG 3333 idegennyelv-tudásnak minősül a Honvédség képzési rendszerén belül az egy évet megszakítás nélkül meghaladó, külföldi képzésen történő részvétellel szerzett felsőfokú végzettség, vagy az azt kiegészítő szakosító továbbképzésen, vagy a vezetőképzésen szerzett végzettség.
 
 (5) STANAG 3333 idegennyelv-tudásnak minősül a legalább STANAG 3333 szintű, STANAG 2222 idegennyelv-tudásnak minősül a legalább STANAG 2222, de STANAG 3333-t el nem érő szintű, STANAG 1111 idegennyelv-tudásnak minősül a legalább STANAG 1111, de STANAG 2222-t el nem érő szintű idegennyelv-tudás.
 
-[^10]: Az 5. § (3) bekezdése a 9/2016. (VI. 29.) HM rendelet 20. § 2. és 3. pontja szerint módosított szöveg.
+[^11]: Az 5. § (3) bekezdése a 9/2016. (VI. 29.) HM rendelet 20. § 2. és 3. pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 ## 12. A készenléti tevékenység díjazása
 
-19. §[^19] (1) Készenléti tevékenységért járó fokozott igénybevételi pótlékra jogosult az állomány azon tagja, aki a miniszter által rendeletben vagy utasításban, illetve a miniszter által vezetett minisztérium (a továbbiakban: HM) közigazgatási államtitkára (a továbbiakban: KÁT), a HVKF vagy a KNBSZ főigazgatója által intézkedésben vagy parancsban elrendelt, illetve engedélyezett, a Hjt. 105. § (3) bekezdése szerinti készenléti szolgálatot belföldön teljesít.
+19. §[^24] (1) Készenléti tevékenységért járó fokozott igénybevételi pótlékra jogosult az állomány azon tagja, aki a miniszter által rendeletben vagy utasításban, illetve a miniszter által vezetett minisztérium (a továbbiakban: HM) közigazgatási államtitkára (a továbbiakban: KÁT), a HVKF vagy a KNBSZ főigazgatója által intézkedésben vagy parancsban elrendelt, illetve engedélyezett, a Hjt. 105. § (3) bekezdése szerinti készenléti szolgálatot belföldön teljesít.
 
 (2) Nem jogosult a pótlékra az, aki a készenléti szolgálatot a Hjt. 94. § (2) bekezdés b) és c) pontja szerinti szolgálati rendben, a beosztásával együttjáró szolgálati feladatként látja el.
 
@@ -20,4 +20,4 @@ b) 3 órát meghaladó, de legfeljebb 24 órás beérkezési idő meghatározás
 
 (6) Az állomány Hjt. 105. § (3) bekezdés c) pontja szerinti készenléti szolgálatot belföldön teljesítő tagja részére járó pótlék mértékét a (3)–(5) bekezdésben foglaltak alkalmazásával kell megállapítani.
 
-[^19]: A 19. § a 10/2017. (VIII. 31.) HM rendelet 57. §-ával megállapított szöveg.
+[^24]: A 19. § a 10/2017. (VIII. 31.) HM rendelet 57. §-ával megállapított szöveg.

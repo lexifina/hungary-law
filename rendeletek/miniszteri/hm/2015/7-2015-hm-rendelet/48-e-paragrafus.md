@@ -1,6 +1,6 @@
-## 29/E. [^62] Külszolgálati kiegészítő illetmény
+## 29/E. [^68] Külszolgálati kiegészítő illetmény
 
-48/E. § (1) Ha az állomány a Hjt.vhr. 69/A. § (3a) bekezdése szerinti beosztásban tartós külföldi szolgálatot teljesítő tagja a tartós külföldi szolgálat megkezdését megelőzően betöltött,
+48/E. § (1)[^69] Ha az állomány a Hjt.vhr. 69/A. § (5) bekezdése szerinti beosztásban tartós külföldi szolgálatot teljesítő tagja a tartós külföldi szolgálat megkezdését megelőzően betöltött,
 
 a) III., IV. vagy V. besorolási osztályba tartozó beosztásból a II. besorolási osztályba,
 
@@ -16,4 +16,5 @@ d) a Hjt. 6. melléklete szerinti felsővezetői beosztásból a II. vagy az V. 
 
 (3) Az (1) és a (2) bekezdés szerinti kiegészítő illetményt a külszolgálat idejére megállapított alapilletmény összegében bekövetkező változás esetén felül kell vizsgálni, és összegét a változás időpontjától ismételten meg kell állapítani. Amennyiben az alapilletmény összegének növekménye eléri vagy meghaladja az (1) és (2) bekezdés szerinti kiegészítő illetmény összegét, ez utóbbi juttatás folyósítását meg kell szüntetni.
 
-[^62]: A 29/E. alcímet (48/E. §) az 1/2018. (I. 26.) HM rendelet 40. §-a iktatta be.
+[^68]: A 29/E. alcímet (48/E. §) az 1/2018. (I. 26.) HM rendelet 40. §-a iktatta be.
+[^69]: A 48/E. § (1) bekezdés nyitó szövegrésze a 12/2018. (VII. 27.) HM rendelet 47. § d) pontja szerint módosított szöveg.

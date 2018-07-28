@@ -1,7 +1,7 @@
-## 74/B. §[^97] A Hjt.
+## 74/B. §[^107] A Hjt.
 
 a) 215. § (6) bekezdése szerinti esetben a visszailleszkedési támogatást vagy annak érintett részét, illetve az önkéntes tartalékos szolgálat vállalását ösztönző juttatást,
 
 b) 219. § (5) bekezdése szerinti esetben a szerződéskötési díjat
 
-[^97]: A 74/B. §-t a 10/2017. (VIII. 31.) HM rendelet 71. §-a iktatta be.
+[^107]: A 74/B. §-t a 10/2017. (VIII. 31.) HM rendelet 71. §-a iktatta be.
