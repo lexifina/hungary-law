@@ -1,1 +1,0 @@
-## „(1a) Az (1) bekezdés szerinti támogatásra a határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet 3. § (1b) bekezdését minden esetben, más rendelkezéseit abban az esetben kell alkalmazni, ha e § eltérően nem rendelkezik.”
