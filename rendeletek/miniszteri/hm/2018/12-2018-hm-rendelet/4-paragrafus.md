@@ -1,5 +1,3 @@
-## 3. § A honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet (a továbbiakban: R1.) 1. §-a a következő 7. ponttal egészül ki:
+## 3. §[^3]
 
-## (E rendelet alkalmazásában:)
-
-## „7. katonai felsővezető szakirányú továbbképzési szak: hazai felsőfokú vezetőképző tanfolyam vagy azzal egyenértékű külföldi tanfolyam,”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

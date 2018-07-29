@@ -1,5 +1,3 @@
-## 25. § Az R2. 2. § (1) bekezdése a következő 8. ponttal egészül ki:
+## 25. §[^25]
 
-## (E rendelet alkalmazásában:)
-
-## „8. utalvány: a Magyar Nemzeti Üdülési Alapítvány által kibocsátott, az Erzsébet Utalványforgalmazó Zrt. által forgalmazott Ajándék Erzsébet-utalvány.”
+[^25]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

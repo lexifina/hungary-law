@@ -1,1 +1,3 @@
-## 38. § Az R3. 1. § (3) bekezdésében a „Polgári Törvénykönyvről szóló törvény” szövegrész helyébe a „Ptk.” szöveg lép.
+## 38. §[^38]
+
+[^38]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

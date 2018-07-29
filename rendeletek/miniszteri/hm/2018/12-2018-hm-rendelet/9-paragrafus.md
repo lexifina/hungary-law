@@ -1,5 +1,3 @@
-## 8. § Az R1. 111/A. §-a helyébe a következő rendelkezés lép:
+## 8. §[^8]
 
-## „111/A. § (1) A felek a tanulmányi szerződést a jövőre nézve írásban, a HVKF jóváhagyásával közös megegyezéssel, a képzést végrehajtó állomány kezdeményezésére megszüntethetik, különösen az állomány egészségügyi, informatikai, repülőhajózó, repülőműszaki, légiforgalmi irányító, légiközlekedési szabályozási szolgálati beosztást betöltő, valamint mérnöki végzettséget igénylő logisztikai szolgálati beosztást betöltő vagy abba tervezett tagjával kötött tanulmányi szerződés esetén vagy a 108. § (3) bekezdése szerinti esetben.
-
-## (2) Az (1) bekezdés szerinti közös megegyezésben a feleknek meg kell állapodniuk a tanulmányi szerződéssel kapcsolatos jogokról és kötelezettségekről, így különösen arról, hogy a képzésben részt vevő a Honvédség által a tanulmányi szerződés megszüntetéséig teljesített tanulmányi támogatásokat köteles-e megtéríteni. Megtérítési kötelezettségben történő megállapodás esetén rögzíteni kell annak mértékét, a 115. §-ra figyelemmel a megtérítés módját és a teljesítés határidejét. Az állomány tagja kérheti a 115–117. § szerinti fizetési könnyítést vagy a Hjt. 88. § (4a) bekezdése szerinti mentesítést.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 9. § Az R1. a következő 111/B. §-sal egészül ki:
+## 9. §[^9]
 
-## „111/B. § Külön munkáltatói intézkedés nélkül megszűnik a tanulmányi szerződés, ha a Honvédség által támogatott képzés a tanulmányi szerződésben megjelölt eredeti vagy módosított időpontban nem indul.”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
