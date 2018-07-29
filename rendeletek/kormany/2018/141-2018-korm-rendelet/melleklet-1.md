@@ -1,4 +1,4 @@
-## 13. § Az R3. 1. melléklete helyébe a 3. melléklet lép.
+## 13. §[^5]
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -55,3 +55,5 @@
 25. azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^5]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

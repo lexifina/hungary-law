@@ -1,3 +1,3 @@
-## 12. § Az egyes ivóvízminőség-javítási, szennyvíz-elvezetési és -tisztítási, valamint hulladékgazdálkodási beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 272/2017. (IX. 14.) Korm. rendelet (a továbbiakban: R3.) a következő 5. §-sal egészül ki:
+## 12. §[^4]
 
-## „5. § E rendelet rendelkezéseit – a 2. § a) pontja kivételével – az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 1. mellékletben meghatározott beruházásokkal összefüggő, a Módr1. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^4]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
