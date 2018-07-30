@@ -12,7 +12,7 @@
 
 (6)[^13] Amennyiben a hitelesítő szervezet akkreditálását az akkreditáló szerv a Natv. 10. § a)–b) alapján vonja vissza, a hitelesítő szervezet a határozat jogerőre emelkedésétől számított két éven belül nem akkreditálható.
 
-(7)[^14] Ha a hitelesítő szervezet akkreditált státuszát az akkreditáló szerv a Natv. 9. §-a alapján felfüggeszti, illetve a Natv. 10. §-a alapján visszavonja, az akkreditált státusz felfüggesztésének, illetve visszavonásának tényéről az akkreditáló szerv 15 napon belül tájékoztatja az államháztartásért felelős minisztert (a továbbiakban: miniszter) és a klímavédelemért felelős hatóságot.
+(7)[^14] Ha a hitelesítő szervezet akkreditált státuszát az akkreditáló szerv a Natv. 9. §-a alapján felfüggeszti, illetve a Natv. 10. §-a alapján visszavonja, az akkreditált státusz felfüggesztésének, illetve visszavonásának tényéről az akkreditáló szerv 15 napon belül tájékoztatja az iparügyekért felelős minisztert (a továbbiakban: miniszter) és a klímavédelemért felelős hatóságot.
 
 [^8]: A 6. § (1) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 8. § e) és f) pontja szerint módosított szöveg.
 [^9]: A 6. § (2) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 8. § g) pontja, a 394/2016. (XII. 5.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
@@ -20,4 +20,4 @@
 [^11]: A 6. § (4) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 8. § b) pontja, a 394/2016. (XII. 5.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^12]: A 6. § (5) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.
 [^13]: A 6. § (6) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 8. § g) és h) pontja szerint módosított szöveg.
-[^14]: A 6. § (7) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A 6. § (7) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 1. §-a iktatta be, szövege a 135/2018. (VII. 25.) Korm. rendelet 3. §-a szerint módosított szöveg.
