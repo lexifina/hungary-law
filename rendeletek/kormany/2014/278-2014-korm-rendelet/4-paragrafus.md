@@ -1,4 +1,4 @@
-## 3. § A Rendszer működtetéséhez és a nemzeti jelentések, valamint a nemzeti szintű előrejelzés elkészítéséhez szükséges információk gyűjtésére a miniszter, a környezetvédelemért felelős miniszter, a földügyért felelős miniszter, az erdőgazdálkodásért felelős miniszter, az agrárpolitikáért felelős miniszter, az államháztartásért felelős miniszter, a Nemzeti Élelmiszerlánc-biztonsági Hivatal és a Szolgálat jogosult.
+## 3. §[^4] A Rendszer működtetéséhez és a nemzeti jelentések, valamint a nemzeti szintű előrejelzés elkészítéséhez szükséges információk gyűjtésére a miniszter, a környezetvédelemért felelős miniszter, a földügyért felelős miniszter, az erdőgazdálkodásért felelős miniszter, az agrárpolitikáért felelős miniszter, a Nemzeti Élelmiszerlánc-biztonsági Hivatal és a Szolgálat jogosult.
 
 4. § (1) A Szolgálat részére
 
@@ -16,9 +16,9 @@ b) az 1. § b) pontjában meghatározott források a 2. mellékletben
 
 (5) A Szolgálat a leltárjelentés megfelelő elkészítése céljából elektronikus hozzáféréssel rendelkezik
 
-a)[^2] a 2012. évi CCXVII. törvény hatálya alá tartozó létesítmények tevékenységéből származó üvegházhatású gáz kibocsátásokat tartalmazó adatok tekintetében az kibocsátásoknak a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet 3. § (1) bekezdése szerinti Nemzeti Klímavédelmi Hatóság (a továbbiakban: Hatóság) rendelkezésére álló adatbázishoz,
+a)[^5] a 2012. évi CCXVII. törvény hatálya alá tartozó létesítmények tevékenységéből származó üvegházhatású gáz kibocsátásokat tartalmazó adatok tekintetében az kibocsátásoknak a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet 3. § (1) bekezdése szerinti Nemzeti Klímavédelmi Hatóság (a továbbiakban: Hatóság) rendelkezésére álló adatbázishoz,
 
-b)[^3] a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet szerinti fluortartalmú üvegházhatású gázok adatbázisához,
+b)[^6] a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet szerinti fluortartalmú üvegházhatású gázok adatbázisához,
 
 c) az ózonréteget lebontó anyagokkal kapcsolatos tevékenységekről szóló kormányrendelet szerinti adatbázishoz,
 
@@ -30,5 +30,6 @@ f) a Magyar Tudományos Akadémia Talajtani és Agrokémiai Kutatóintézete tal
 
 g) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 49. §-a szerinti Országos Környezetvédelmi Információs Rendszer általános lekérdező és térinformatikai rendszeréhez.
 
-[^2]: A 4. § (5) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 281. § (1) bekezdésével megállapított szöveg.
-[^3]: A 4. § (5) bekezdés b) pontja a 131/2015. (V. 27.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^4]: A 3. § a 135/2018. (VII. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § (5) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 281. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (5) bekezdés b) pontja a 131/2015. (V. 27.) Korm. rendelet 24. §-ával megállapított szöveg.

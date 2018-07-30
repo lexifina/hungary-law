@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-278-20-
 | 2015-06-12 | 2014-278-20-22.5 | 131/2015. (V. 27.) Korm. rendelet |
 | 2017-01-01 | 2014-278-20-22.6 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-07-01 | 2014-278-20-22.7 | 30/2015. (II. 25.) Korm. rendelet |
+| 2018-07-30 | 2014-278-20-22.8 | 135/2018. (VII. 25.) Korm. rendelet |

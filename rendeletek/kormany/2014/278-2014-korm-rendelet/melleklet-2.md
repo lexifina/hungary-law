@@ -24,7 +24,7 @@
 
 | 10. | Hatóság | Európai Közösség kibocsátási egységkereskedelmi rendszerének (EU ETS) hatálya alá tartozó kibocsátási adatok. | - a 2012. évi CCXVII. törvény szerinti (EU ETS) kibocsátási engedélyek és jelentések adatai. - az 525/2013/EU európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdés k) pontja szerinti adatok CRF kód szerinti összesítésben az 525/2013/EU európai parlamenti és tanácsi rendelet 7. cikk (1) bekezdése szerinti jelentés esetében x-2 évre vonatkozóan, - az 525/2013/EU európai parlamenti és tanácsi rendelet 8. cikke szerinti jelentés esetében x-1 évre vonatkozóan. | 2005-ig visszamenőleg. |  |
 
-| 11. | nemzeti fejlesztési miniszter (Közlekedés- tudományi Intézet) | Közlekedés-statisztikai és kibocsátási adatok. | Közlekedési kibocsátásokra vonatkozó számítások (CH4, N2O, NOx, CO, NMVOC, SO2 stb. kibocsátott mennyisége az inputadatokkal együtt modellezés/számítás alapján). | A rendelkezésre álló adatsorok és COPERT adatbázisok. |  |
+| 11. | közlekedésért felelős miniszter (Közlekedés- tudományi Intézet) | Közlekedés-statisztikai és kibocsátási adatok. | Közlekedési kibocsátásokra vonatkozó számítások (CH4, N2O, NOx, CO, NMVOC, SO2 stb. kibocsátott mennyisége az inputadatokkal együtt modellezés/számítás alapján). | A rendelkezésre álló adatsorok és COPERT adatbázisok. |  |
 
 | 12. | Magyar Bányászati és Földtani Szolgálat | Szénbányászat fugitív emissziójának számításához szükséges adatok. | - A bányászott nyersanyag mennyisége és fűtőértéke külön a mélybányákban és külön a külszíni fejtésekre, illetve bányánként. - Az elfáklyázott vagy kiszellőztetett metán éves mennyisége, bányánként, vagy sújtólégveszély szerinti kategorizálásuk. | 1994-ig visszamenően a teljes adatsor. |  |
 
