@@ -6,6 +6,6 @@
 
 (4) Magyarország nemzetközi klímafinanszírozási vállalásának forrását az üvegházhatású gázok európai kibocsátási egységeinek értékesítéséből származó bevételekből kell biztosítani.
 
-(5) A Montreali Jegyzőkönyvvel kapcsolatos nemzetközi és hazai feladatok ellátásáról a miniszter gondoskodik, együttműködésben a környezetvédelemért felelős miniszterrel.
+(5) A Montreali Jegyzőkönyvvel és a sztratoszferikus ózonréteg védelméről szóló, Bécsben 1985. március 22. napján aláírt egyezmény kihirdetéséről szóló 31/1990. (II. 16.) MT rendelettel kapcsolatos nemzetközi és hazai feladatok ellátásáról a miniszter gondoskodik, együttműködésben a környezetvédelemért felelős miniszterrel.
 
-(6) A fluortartalmú üvegházhatású gázokkal kapcsolatos nemzetközi és hazai feladatok ellátásáról a miniszter gondoskodik.
+(6) A fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos nemzetközi és hazai feladatok ellátásáról a miniszter gondoskodik.

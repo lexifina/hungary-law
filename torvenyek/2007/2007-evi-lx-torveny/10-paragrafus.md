@@ -4,17 +4,11 @@ a) Magyarországnak a Jegyzőkönyv alapján vállalt kibocsátás csökkentési
 
 b) Magyarország mint fogadó ország területén megvalósuló együttes végrehajtási projektek keretében elért kibocsátás csökkentésnek megfelelő mennyiségű kibocsátás-csökkentési egység létrehozására. Az így keletkezett kibocsátás-csökkentési egységek teljes mennyisége vagy része az együttes végrehajtási projekt befektető országának kerül átutalásra.
 
-(2) A nemzetközi és európai kibocsátás-kereskedelem keretében az államháztartásért felelős miniszter az állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
+(2) A nemzetközi és európai kibocsátás-kereskedelem keretében az iparügyekért felelős miniszter az állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
 
 (3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
 
-(4) A (3) bekezdés szerinti kiotói egységek átruházásából 2015. január 1-jét követően keletkezett bevétel
-
-a) 50%-ának felhasználásáról a miniszter a Zöld Beruházási Rendszer keretében,
-
-b) 50%-ának felhasználásáról az államháztartásért felelős miniszter a Gazdasági Zöldítési Rendszer keretében
-
-az Éghajlatváltozási Stratégiával összhangban gondoskodik.
+(4) A (3) bekezdés szerinti kiotói egységek átruházásából keletkezett bevételek felhasználásáról a miniszter a Zöld Beruházási Rendszer keretében az Éghajlatváltozási Stratégiával összhangban gondoskodik.
 
 (4a)
 

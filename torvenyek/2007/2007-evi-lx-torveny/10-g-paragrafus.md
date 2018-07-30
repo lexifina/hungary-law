@@ -136,4 +136,4 @@ az irányadók.
 
 (5a) A klímavédelemért felelős hatóság hivatalból törli azokat az F-Gáz azonosítóhoz tartozó adatokat, amelyek a cégnyilvántartás – egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartása – szerint jogutód nélkül megszűnt vállalkozáshoz vagy a személy- és lakcímnyilvántartást vezető hatóság nyilvántartása szerint elhunyt személyhez tartoztak.
 
-(6) Az energiapolitikáért felelős miniszter felügyelete alatt álló klímavédelemért felelős hatóság döntése ellen fellebbezésnek helye nincs.
+(6) A miniszter felügyelete alatt álló klímavédelemért felelős hatóság döntése ellen fellebbezésnek helye nincs.
