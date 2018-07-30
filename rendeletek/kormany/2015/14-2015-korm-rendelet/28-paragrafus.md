@@ -24,7 +24,7 @@
 
 (12)[^113]
 
-(13)[^114] Az 1005/2009/EK rendelet 26. cikk (1) bekezdés b) és c) pontjában található tagállami jelentéstételi kötelezettség teljesítéséről a környezetvédelemért felelős miniszter gondoskodik a honvédelemért felelős miniszter, a BM OKF és a Nemzeti Adó- és Vámhivatal közreműködésével, valamint gondoskodik a jelentésnek a Hatóság részére történő megküldéséről.
+(13)[^114] Az 1005/2009/EK rendelet 26. cikk (1) bekezdés b) és c) pontjában található tagállami jelentéstételi kötelezettség teljesítéséről az energiapolitikáért felelős miniszter gondoskodik a honvédelemért felelős miniszter, a BM OKF és a Nemzeti Adó- és Vámhivatal közreműködésével, valamint gondoskodik a jelentésnek a Hatóság részére történő megküldéséről.
 
 (14)[^115] Az 1005/2009/EK parlamenti és tanácsi rendeletben meghatározott, az ORLA gyártói és importőrei számára az Európai Bizottság által kiadott engedélyt a gyártó és az importőr köteles a szállítást megelőző nyolc napon belül az illetékes vámszervnek és a Hatóságnak megküldeni és tájékoztatni a szállítás időpontjáról.
 
@@ -35,5 +35,5 @@
 [^111]: A 28. § (10) bekezdése a 285/2017. (IX. 22.) Korm. rendelet 17. § n) pontja szerint módosított szöveg.
 [^112]: A 28. § (11) bekezdése a 112/2016. (V. 27.) Korm. rendelet 29. § 21. pontja szerint módosított szöveg.
 [^113]: A 28. § (12) bekezdését a 112/2016. (V. 27.) Korm. rendelet 30. § 18. pontja hatályon kívül helyezte.
-[^114]: A 28. § (13) bekezdése a 112/2016. (V. 27.) Korm. rendelet 21. §-ával megállapított, a 285/2017. (IX. 22.) Korm. rendelet 17. § o) pontja szerint módosított szöveg.
+[^114]: A 28. § (13) bekezdése a 112/2016. (V. 27.) Korm. rendelet 21. §-ával megállapított, a 285/2017. (IX. 22.) Korm. rendelet 17. § o) pontja, a 135/2018. (VII. 25.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^115]: A 28. § (14) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.
