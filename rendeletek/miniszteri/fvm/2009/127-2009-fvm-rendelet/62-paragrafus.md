@@ -1,4 +1,4 @@
-## 61/A. §[^225] 2017. augusztus 1-jét megelőzően kiadott, de első borászati termék származási bizonyítványra át nem váltott szőlő származási bizonyítvány alapján első borászati termék származási bizonyítványt a Hktv. 41. § szerinti mulasztási bírság megfizetése mellett, legfeljebb 2018. július 15-ig lehet kérelmezni. Az e § szerint kérelmezhető első borászati termék származási bizonyítvány nem tartalmazhat oltalom alatt álló eredetmegjelölésre vagy földrajzi jelzésre, illetve évjáratra, valamint szőlőfajta feltüntetésére utaló lehetőséget.
+## 61/B. §[^228] Ha a 2018. évben bekövetkezett, egyes szőlőfajták érését rendkívüli mértékben meggyorsító időjárási viszonyok miatt a szüretet 2018. július 15-e és 31-e között kell végrehajtani, akkor a szüret időpontjának 2018. augusztus 1-jét kell tekinteni.
 
 ## Hatályukat vesztő rendelkezések
 
@@ -20,4 +20,4 @@ g) a védett eredetű borok minősítéséhez kapcsolódó borvizsgáló bizotts
 
 h) az Országos Borszakértő Bizottságról szóló 58/2005. (VI. 28.) FVM rendelet.
 
-[^225]: A 61/A. §-t a 7/2018. (VI. 26.) AM rendelet 2. § (5) bekezdése iktatta be.
+[^228]: A 61/B. §-t a 19/2018. (VII. 27.) AM rendelet 3. §-a iktatta be.

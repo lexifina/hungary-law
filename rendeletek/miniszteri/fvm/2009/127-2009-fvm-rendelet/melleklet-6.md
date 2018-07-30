@@ -1,69 +1,71 @@
-## Értékesítési jelentés a forgalomba hozott borokról
+## Értékesítési jelentés a forgalomba hozott borászati termékekről
 
-| Borvidék: | Adatszolgáltató neve |
+| Borvidék: | Adatszolgáltató neve |  |
 
-| Hegyközség | Címe: |
+| Hegyközség | Címe: |  |
 
-|  | GA száma: |
+|  | GA száma: |  |
 
 |  | A | B | C | D | E | F |
 
-| 1. | Termékkategória | Értékesítés |
+| 1. |  | Értékesítés |
 
-| 2. | Folyóbor (>60 liter) | 60 liter alatti tárolóedényben kiszerelt értékesítés | Mind- összesen (hl) |
+| 2. | Termékkategória1: …………………………………………. | Folyó (>60 liter) | 60 litert meg nem haladó űrtartalmú tárolóedénybe kiszerelt értékesítés | Mindösszesen (hl) |
 
-| 3. | fehér (hl) | vörös/rozé (hl) | fehér (hl) | vörös/rozé (hl) |  |
+| 3. |  | fehér (hl) | vörös/rozé (hl) | fehér (hl) | vörös/rozé (hl) |
 
 | 4. | 1. Belföldi értékesítés |  |  |  |  |  |
 
-| 5. | Oltalom alatt álló eredetmegjelöléses bor(ok): |  |  |  |  |  |
+| 5. | Oltalom alatt álló eredetmegjelölésű borászati termék: |  |  |  |  |  |
 
-|  | – ... OEM |  |  |  |  |  |
+|  | - ... OEM |  |  |  |  |  |
 
-|  | – ... OEM |  |  |  |  |  |
+|  | - ... OEM |  |  |  |  |  |
 
-| 6. | Oltalom alatt álló földrajzi jelzéses bor(ok) |  |  |  |  |  |
+| 6. | Oltalom alatt álló földrajzi jelzésű borászati termék: |  |  |  |  |  |
 
-|  | – ... OFJ |  |  |  |  |  |
+|  | - ... OFJ |  |  |  |  |  |
 
-|  | – ... OFJ |  |  |  |  |  |
+|  | - ... OFJ |  |  |  |  |  |
 
-| 7. | Nem OEM/OFJ fajtabor(ok) |  |  |  |  |  |
+| 7. | Nem OEM/OFJ fajta borászati termék (FNF) |  |  |  |  |  |
 
-| 8. | Nem OEM/OFJ bor(ok) |  |  |  |  |  |
+| 8. | Nem OEM/OFJ borászati termék (FN) |  |  |  |  |  |
 
-| 9. | Más bor: |  |  |  |  |  |
+| 9. | Kiszerelt fröccs |  |  |  |  |  |
 
 | 10. | 2. EU tagországba történő értékesítés |  |  |  |  |  |
 
-| 11. | Oltalom alatt álló eredetmegjelöléses bor(ok) |  |  |  |  |  |
+| 11. | Oltalom alatt álló eredetmegjelöléseű borászati termék |  |  |  |  |  |
 
-| 12. | Oltalom alatt álló földrajzi jelzéses bor(ok) |  |  |  |  |  |
+| 12. | Oltalom alatt álló földrajzi jelzésű borászati termék |  |  |  |  |  |
 
-| 13. | Nem OEM/OFJ fajtabor(ok) |  |  |  |  |  |
+| 13. | Nem OEM/OFJ fajta borászati termék (FNF) |  |  |  |  |  |
 
-| 14. | Nem OEM/OFJ bor(ok) |  |  |  |  |  |
+| 14. | Nem OEM/OFJ borászati termék (FN) |  |  |  |  |  |
 
-| 15. | Más bor: |  |  |  |  |  |
+| 15. | Kiszerelt fröccs |  |  |  |  |  |
 
 | 16. | 3. Harmadik országba értékesítés (export) |  |  |  |  |  |
 
-| 17. | Oltalom alatt álló eredetmegjelöléses bor(ok) |  |  |  |  |  |
+| 17. | Oltalom alatt álló eredetmegjelölésű borászati termék |  |  |  |  |  |
 
-| 18. | Oltalom alatt álló földrajzi jelzéses bor(ok) |  |  |  |  |  |
+| 18. | Oltalom alatt álló földrajzi jelzésű borászati termék |  |  |  |  |  |
 
-| 19. | Nem OEM/OFJ fajtabor(ok) |  |  |  |  |  |
+| 19. | Nem OEM/OFJ fajta borászati termék (FNF) |  |  |  |  |  |
 
-| 20. | Nem OEM/OFJ bor(ok) |  |  |  |  |  |
+| 20. | Nem OEM/OFJ borászati termék (FN) |  |  |  |  |  |
 
-| 21. | Más bor: |  |  |  |  |  |
+| 21. | Kiszerelt fröccs |  |  |  |  |  |
 
-## Kelt: .........................
+| 1 termékkategória-kódok: 1 bor 2 még erjedésben lévő újbor 3 likőrbor 4 pezsgő 5 minőségi pezsgő 6 illatos minőségi pezsgő 7 szén-dioxid hozzáadásával készült habzóbor 8 gyöngyözőbor | 9 szén-dioxid hozzáadásával készült gyöngyözőbor 10 szőlőmust 11 részben erjedt szőlőmust 12 töppedt szőlőből nyert részben erjedt szőlőmust 13 sűrített szőlőmust 14 finomított szőlőmustsűrítmény 15 szárított szőlőből készült bor 16 túlérett szőlőből készült bor 17 borecet |
 
-## ..................................................
+## Kelt:
 
-## adatszolgáltató aláírása
+## hegyközségi tag/adatszolgáltató
 
-6. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^239]
+## aláírása
 
-[^239]: A 6. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (5) bekezdésével megállapított szöveg.
+6. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^242]
+
+[^242]: A 6. melléklet a 19/2018. (VII. 27.) AM rendelet 4. § (3) bekezdésével megállapított szöveg.

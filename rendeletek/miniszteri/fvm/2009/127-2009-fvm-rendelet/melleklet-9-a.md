@@ -6,21 +6,13 @@
 
 ## Sorszám:
 
-| Termelő neve: |  |  | Nem feldolgozó felvásárló neve: |  |
+|  | Termelő | Nem feldolgozó felvásárló | Feldolgozó szövetkezet | Feldolgozó borkészítő (amennyiben nem azonos a szőlőtermelővel) |
 
-| Címe: |  |  | Címe: |  |
+| Neve: |  |  |  |  |
 
-| GA száma: |  |  | GA száma: |  |
+| Címe: |  |  |  |  |
 
-| Termelő/meghatalmazott aláírása |  |  | Felvásárló/meghatalmazott aláírása |  |
-
-| Feldolgozó szövetkezet neve: |  |  | Feldolgozó borkészítő neve: |  |
-
-| Címe |  |  | Címe: |  |
-
-| GA száma: |  |  | GA száma: |  |
-
-| Képviselő/meghatalmazott aláírása |  |  | Borkészítő/meghatalmazott aláírása |  |
+| GA száma: |  |  |  |  |
 
 ## Évjárat:
 
@@ -38,21 +30,21 @@
 
 ## - Egyéb rendeltetés, éspedig: _____________________
 
-|  | A | B | C | D | E | F | G | J | L |
+|  | A | B | C | D | E | F | G | H | I | J |
 
 |  | Tételszám | Termőterület | Szüretelt szőlő |
 
-| 1. | Származási ország | Település | Dűlő | Terület (ha) | Hrsz.* | Fajta | Potenciális alkoholtartalom (%vol)/Magyar mustfok | Mennyiség [q] ** |
+| 1. | Származási ország | Település | Dűlő | Terület (ha) | Hrsz.* | Fajta | Szüret időpontja | Természetes alkoholtartalom (%vol)/Magyar mustfok | Mennyiség [q] ** |
 
-| 2. |  |  |  |  |  |  |  |  |  |
+| 2. |  |  |  |  |  |  |  |  |  |  |
 
-| 3. |  |  |  |  |  |  |  |  |  |
+| 3. |  |  |  |  |  |  |  |  |  |  |
 
-| 4. |  |  |  |  |  |  |  |  |  |
+| 4. |  |  |  |  |  |  |  |  |  |  |
 
 | 5. | ÖSSZES MENNYISÉG |  |
 
-| 6. | ÁTLAGOS POTENCIÁLIS ALKOHOLTARTALOM (%vol)/mustfok |  |  |
+| 6. | ÁTLAGOS TERMÉSZETES ALKOHOLTARTALOM (%vol)/mustfok |  |  |
 
 | * Amennyiben a szüretelt szőlő: - szüreti időpontja, - származási helye (országa, település, dűlő) - fajtája - potenciális alkoholtartalma - felhasználása, valamint az a jelölni kívánt kifejezések megegyeznek, abban az esetben több helyrajzi szám is feltüntethető egy sorban |
 
@@ -70,6 +62,6 @@
 
 ## A hegybíró aláírása
 
-9/A. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^244]
+9/A. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^247]
 
-[^244]: A 9/A. számú mellékletet a 60/2015. (X. 8.) FM rendelet 9. § (1) bekezdés b) pontja iktatta be.
+[^247]: A 9/A. számú mellékletet a 60/2015. (X. 8.) FM rendelet 9. § (1) bekezdés b) pontja iktatta be, szövege a 19/2018. (VII. 27.) AM rendelet 4. § (7) bekezdésével megállapított szöveg.

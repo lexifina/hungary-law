@@ -20,49 +20,51 @@
 
 | 1. | A borászati termék | termékkategóriája (kóddal)1 |  |
 
-| 2. | tárolási helye (adóraktár száma): | □a termelő címével azonos |
+| 2. | tárolási helye: borászati üzem működési engedélyszáma: | □ a termelő címével azonos |
 
-| 3. | □egyéb: |
+| 3. | □ egyéb: |
 
-| 4. | színe: | □fehér |
+| 4. | színe: | □ fehér |
 
-| 5. | □rozé |
+| 5. | □ rozé |
 
-| 6. | □vörös |
+| 6. | □ vörös |
 
-| 7. | alkoholtartalmát növelték | □igen |
+| 7. | alkoholtartalmát növelték | □ igen |
 
-| 8. | □nem |
+| 8. | □ nem |
 
-| 9. | édesítése megtörtént | □igen |
+| 9. | édesítése megtörtént | □ igen |
 
-| 10. | □nem |
+| 10. | □ nem |
 
-| 11. | savtartalmát növelték | □igen |
+| 11. | savtartalmát növelték | □ igen |
 
-| 12. | □nem |
+| 12. | □ nem |
 
-| 13. | savtartalmát csökkentették | □igen |
+| 13. | savtartalmát csökkentették | □ igen |
 
-| 14. | □nem |
+| 14. | □ nem |
 
-| 15. | mennyisége (hl – a borászati termék nyilvántartás szerint) |  |
+| 15. | Összes/ potenciális alkoholtartalom (esetleges alkohol tartalom növelést követően) |  |
+
+| 16. | mennyisége (hl – a borászati termék nyilvántartás szerint) |  |
 
 ## 2. A felhasznált szőlő jellemzői
 
-|  | A | B | C | D | E | F | G | H | I | J |
+|  | A | B | C | D | E | F | G | H | I | J | K |
 
-| 1. | Tételszám | Termőterület | Szüretelt szőlő |
+| 1. | Tétel- szám | Termőterület | Szüretelt szőlő |
 
-| Település irányítószáma | Dűlő | Terület (ha) | Hrsz.2 | Fajta (kód) | A szüret módja K: kézi G: gépi | Potenciális alko-holtartalom (%vol) | Legmagasabb eredetvédelmi kategória3 | Mennyiség [q]4 |
+| Irányítószám / Település | Dűlő | Terület (ha) | Hrsz.2 | Fajta (kód) | A szüret módja K: kézi G: gépi | Szüret időpontja | Természetes alkoholtartalom (%vol) | Legmagasabb eredetvédelmi kategória3 | Mennyiség [q]4 |
 
-| 2. |  |  |  |  |  |  |  |  |  |  |
+| 2. |  |  |  |  |  |  |  |  |  |  |  |
 
-| 3. |  |  |  |  |  |  |  |  |  |  |
+| 3. |  |  |  |  |  |  |  |  |  |  |  |
 
-| 4. |  |  |  |  |  |  |  |  |  |  |
+| 4. |  |  |  |  |  |  |  |  |  |  |  |
 
-| 5. | ÖSSZESEN |  |
+| 5. |  | ÖSSZESEN |  |
 
 | 1 termékkategória-kódok: 1 bor 2 még erjedésben lévő újbor 3 likőrbor 4 pezsgő 5 minőségi pezsgő 6 illatos minőségi pezsgő 7 szén-dioxid hozzáadásával készült habzóbor 8 gyöngyözőbor | 9 szén-dioxid hozzáadásával készült gyöngyözőbor 10 szőlőmust 11 részben erjedt szőlőmust 12 töppedt szőlőből nyert részben erjedt szőlőmust 13 sűrített szőlőmust 14 finomított szőlőmustsűrítmény 15 szárított szőlőből készült bor 16 túlérett szőlőből készült bor 17 borecet |
 
@@ -80,12 +82,6 @@
 
 |  |  |  |  |  | Bizonyítványt kérelmező aláírása |
 
-| Az összevont szőlő és első borászati termék származási bizonyítvány nyomtatását kérem. A származási bizonyítvány ....., ....., ......, számú példányát átvettem. |
+9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^246]
 
-| Kelt: | ________________________ |  |  |  |
-
-|  |  |  |  |  | Bizonyítványt kérelmező aláírása |
-
-9. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^243]
-
-[^243]: A 9. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (5) bekezdésével megállapított, a 20/2014. (X. 31.) FM rendelet 32. § n) pontja, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^246]: A 9. melléklet a 19/2018. (VII. 27.) AM rendelet 4. § (6) bekezdésével megállapított szöveg.

@@ -1,3 +1,3 @@
-8. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^241]
+8. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^244]
 
-[^241]: A 8. számú melléklet a 128/2012. (XII. 14.) VM rendelet 31. § (4) bekezdésével megállapított, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^244]: A 8. melléklet a 19/2018. (VII. 27.) AM rendelet 4. § (4) bekezdésével megállapított szöveg.

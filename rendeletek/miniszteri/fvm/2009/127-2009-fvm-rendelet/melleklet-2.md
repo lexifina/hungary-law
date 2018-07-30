@@ -54,6 +54,6 @@
 
 ## Tokaji borvidék: a Tokaj OEM termékleírásában a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-2. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^235]
+2. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^238]
 
-[^235]: A 2. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § b) pontjával megállapított, a 88/2016. (XII. 29.) FM rendelet 38. §-a, az 59/2017. (XII. 18.) FM rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^238]: A 2. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § b) pontjával megállapított, a 88/2016. (XII. 29.) FM rendelet 38. §-a, az 59/2017. (XII. 18.) FM rendelet 12. § (1) bekezdése szerint módosított szöveg.
