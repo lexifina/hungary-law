@@ -34,9 +34,9 @@ c) a beolvadást követően a létesítmény ugyanazon azonosítóval rendelkez�
 
 (12)[^87] Az e § szerinti adatszolgáltatási és jelentéstételi kötelezettségek teljesítéséhez a miniszter jogosult önálló elektronikus rendszert létrehozni. Erről a tényről a miniszter az önálló elektronikus rendszer üzembehelyezését követő 15 napon belül tájékoztatja az üzemeltetőket.
 
-(13)[^88] A miniszter a (8) bekezdés szerinti kötelezettség megfelelő teljesítésének ellenőrzését a hatósággal együttműködve végzi. A hatóság az ellenőrzés keretében készült jegyzőkönyvek másolatát a miniszter részére megküldi.
+(13)[^88]
 
-(14)[^89] A hatóság a minisztert tájékoztatja, ha hatósági ellenőrzés során tudomására jut, hogy a kötelezett a beolvadással vagy a kiválással kapcsolatos, (8) bekezdés szerinti bejelentési kötelezettségét nem teljesítette. E kötelezettség megfelelő teljesítésének ellenőrzésén túlmenően a hatóság a miniszterrel együttműködve hatósági ellenőrzés keretében felülvizsgálja a térítésmentesen kiosztásra kerülő kibocsátási egységek alapjául szolgáló adatok megfelelőségét is.
+(14)[^89]
 
 (15)[^90] Ha a (8) bekezdés szerinti bejelentés nem felel meg az e rendelet szerinti követelményeknek, a miniszter az üzemeltetőt legfeljebb két ízben hiánypótlásra szólítja fel.
 
@@ -44,6 +44,6 @@ c) a beolvadást követően a létesítmény ugyanazon azonosítóval rendelkez�
 [^85]: A 12/A. § (1) bekezdése a 394/2016. (XII. 5.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^86]: A 12/A. § (5) bekezdés b) pontja a 394/2016. (XII. 5.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 422. § g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^87]: A 12/A. § (12) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 12. § (3) bekezdése iktatta be.
-[^88]: A 12/A. § (13) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 12. § (3) bekezdése iktatta be.
-[^89]: A 12/A. § (14) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 435/2017. (XII. 21.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^88]: A 12/A. § (13) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 12. § (3) bekezdése iktatta be, hatályon kívül helyezte a 135/2018. (VII. 25.) Korm. rendelet 7. § (1) bekezdés b) pontja.
+[^89]: A 12/A. § (14) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 12. § (3) bekezdése iktatta be, hatályon kívül helyezte a 135/2018. (VII. 25.) Korm. rendelet 7. § (1) bekezdés b) pontja.
 [^90]: A 12/A. § (15) bekezdését a 435/2017. (XII. 21.) Korm. rendelet 6. § (2) bekezdése iktatta be.

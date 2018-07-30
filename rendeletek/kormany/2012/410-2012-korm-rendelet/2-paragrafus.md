@@ -48,7 +48,7 @@ bb)[^25] ha a változás a már kiadott környezethasználat feltételeit megál
 
 (5)[^26] Az üzemeltető haladéktalanul köteles a hatóság részére bejelenteni a kibocsátási engedély módosítása iránti kérelem benyújtásával egyidejűleg, ha a kibocsátások a kibocsátási engedélyben előírt, illetve a jóváhagyott adatmeghatározási szintekhez tartozó pontosságnál nagyobb pontossággal határozhatók meg, vagy ha a hitelesítő a kibocsátások pontosabb meghatározására tesz javaslatot.
 
-(6)[^27] A (3)–(5) bekezdésben foglalt bejelentés és kérelem alapján a hatóság intézkedik a már kiadott kibocsátási engedély módosítása iránt, amely eredményeként ugyanazon engedélyazonosító alatt új kibocsátási engedélyt ad ki és a korábbi engedélyt egyidejűleg visszavonja. A hatóság a módosított kibocsátási engedély másolatát megküldi a miniszter részére.
+(6)[^27] A (3)–(5) bekezdésben meghatározott bejelentés és kérelem alapján a hatóság intézkedik a már kiadott kibocsátási engedély módosítása iránt úgy, hogy a korábbi engedély egyidejű visszavonásával ugyanazon engedélyazonosító alatt új kibocsátási engedélyt ad ki.
 
 (7)[^28] A hatóság az üzemeltető (3) bekezdés c) pontja szerinti adatok bejelentését követően az adatváltozás tartalmát és annak hatásait mérlegelve vagy határozathozatal nélkül tudomásul veszi a bejelentést, vagy a bejelentő kérelemére a már kiadott kibocsátási engedély módosításáról dönt.
 
@@ -85,7 +85,7 @@ c) a helyszínre vagy a hatósági nyilvántartáshoz telepített, illetve a fol
 [^24]: A 2. § (4a) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 8. § (2) bekezdése iktatta be.
 [^25]: A 2. § (4a) bekezdés b) pont bb) alpontja a 457/2017. (XII. 28.) Korm. rendelet 422. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^26]: A 2. § (5) bekezdése a 178/2016. (VII. 1.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^27]: A 2. § (6) bekezdése a 394/2016. (XII. 5.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^27]: A 2. § (6) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^28]: A 2. § (7) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 3. § (5) bekezdése iktatta be.
 [^29]: A 2. § (8) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 3. § (5) bekezdése iktatta be.
 [^30]: A 2. § (9) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 3. § (5) bekezdése iktatta be.

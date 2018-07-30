@@ -12,7 +12,7 @@ cb) az a) pontban hivatkozott ténylegesen jelentős változáson átesett léte
 
 cc) korábban a kiosztandó kibocsátási egységmennyiséget módosító jelentős változás következett be, és azóta nem következett be olyan újabb változás, amely ismét szükségessé tenné az egységek legutóbb elfogadott számának módosítását, akkor ennek tényéről
 
-## elektronikus jelentést nyújt be miniszternek az általa vezetett minisztérium (a továbbiakban: Minisztérium) honlapján közzétett módon.
+## elektronikus jelentést nyújt be az iparügyekért felelős miniszternek (a továbbiakban: miniszter) az általa vezetett minisztérium (a továbbiakban: Minisztérium) honlapján közzétett módon.
 
 (1a)[^38] Nem kell benyújtani az (1) bekezdés c) pontja szerinti nyilatkozatot
 
@@ -52,22 +52,22 @@ b) ha a létesítményre vonatkozóan jelentős változás miatti adatszolgálta
 
 (10)[^41] Az e § szerinti adatszolgáltatási és jelentéstételi kötelezettségek teljesítéséhez a miniszter jogosult önálló elektronikus rendszert létrehozni az üzemeltetők megfelelő tájékoztatása mellett. Erről a tényről a miniszter az önálló elektronikus rendszer üzembe helyezését követő 15 napon belül tájékoztatja az üzemeltetőket.
 
-(11)[^42] A miniszter az (1) bekezdés a) és c) pontjai szerinti kötelezettség teljesítésének ellenőrzését a hatósággal együttműködve végzi. A hatóság az ellenőrzés keretében készült jegyzőkönyvek másolatát a miniszter részére megküldi.
+(11)[^42]
 
-(12)[^43] A hatóság az (1) bekezdés a) és c) pontja szerinti kötelezettség megfelelő teljesítésének ellenőrzésén túlmenően a miniszterrel együttműködve hatósági ellenőrzés keretében felülvizsgálja a térítésmentes kibocsátási egység kiosztás alapjául szolgáló adatok megfelelőségét is.
+(12)[^43]
 
 (13)[^44] A hatóság a miniszter részére hozzáférést biztosít az 1. § (2) bekezdés, a 4. § (2) és (6) bekezdése szerinti önálló elektronikus rendszer információihoz.
 
 (14)[^45] Ha az (1) bekezdés szerinti jelentés nem felel meg az e rendelet szerinti követelményeknek, a miniszter az üzemeltetőt legfeljebb két ízben hiánypótlásra szólítja fel.
 
 [^35]: A 3. § a 131/2015. (V. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^36]: A 3. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 65. § (1) bekezdésével megállapított, záró szövegrésze a 435/2017. (XII. 21.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^36]: A 3. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 65. § (1) bekezdésével megállapított, záró szövegrésze a 135/2018. (VII. 25.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^37]: A 3. § (1) bekezdés c) pontja a 435/2017. (XII. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^38]: A 3. § (1a) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.
 [^39]: A 3. § (8) bekezdése a 435/2017. (XII. 21.) Korm. rendelet 8. § c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 422. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^40]: A 3. § (9) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 421. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^41]: A 3. § (10) bekezdése a 435/2017. (XII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^42]: A 3. § (11) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 4. §-a iktatta be, szövege a 394/2016. (XII. 5.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^43]: A 3. § (12) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^42]: A 3. § (11) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 135/2018. (VII. 25.) Korm. rendelet 7. § (1) bekezdés a) pontja.
+[^43]: A 3. § (12) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be, hatályon kívül helyezte a 135/2018. (VII. 25.) Korm. rendelet 7. § (1) bekezdés a) pontja.
 [^44]: A 3. § (13) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be.
 [^45]: A 3. § (14) bekezdését a 435/2017. (XII. 21.) Korm. rendelet 2. § (3) bekezdése iktatta be.

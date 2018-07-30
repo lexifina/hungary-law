@@ -4,6 +4,7 @@
 
 (2) Az átváltást az üzemeltető és a légi jármű üzembentartó kezdeményezi a forgalmi jegyzékben a jegyzékkezelőnél.
 
-(3) A jegyzékkezelő minden év május 31. napjáig írásban tájékoztatást ad a miniszter és az energiapolitikáért felelős miniszter részére az átváltás eredményéről, így különösen az átváltás tényéről és az átváltás egységmennyiségéről.
+(3)[^106] A jegyzékkezelő minden év május 31. napjáig írásban tájékoztatást ad a miniszter részére az átváltás eredményéről, így különösen az átváltás tényéről és az átváltás egységmennyiségéről.
 
 [^105]: A 6. alcím (15. §) a 131/2015. (V. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^106]: A 15. § (3) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.

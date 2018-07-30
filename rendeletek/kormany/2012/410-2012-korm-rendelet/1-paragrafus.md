@@ -10,7 +10,7 @@
 
 (4)[^3] A kibocsátási engedély iránti kérelmet a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 66. §-ában meghatározott, a környezethasználat feltételeit megállapító hatósági határozat véglegessé válását követően lehet benyújtani a hatósághoz.
 
-(5)[^4] A hatóság a kibocsátási engedélyt a környezethasználat feltételeit megállapító hatósági határozat alapján adja ki, ha megállapítja, hogy az üzemeltető megfelel az Ügkr. tv.-ben foglalt feltételeknek. A kibocsátási engedély részletes tartalmi követelményeit a 3. melléklet állapítja meg. A hatóság a kibocsátási engedély másolatát megküldi az államháztartásért felelős miniszter (a továbbiakban: miniszter) részére.
+(5)[^4] A hatóság a kibocsátási engedélyt a környezethasználat feltételeit megállapító hatósági határozat alapján adja ki, ha megállapítja, hogy az üzemeltető megfelel az Ügkr. tv.-ben foglalt feltételeknek. A kibocsátási engedély részletes tartalmi követelményeit a 3. melléklet állapítja meg.
 
 (6)[^5] Az üzemeltető a kibocsátások nyomonkövetését a 601/2012/EU Bizottsági rendeletben meghatározottak szerint végzi az 5. mellékletben meghatározottakkal összhangban.
 
@@ -31,7 +31,7 @@ b) a 127/1991. Korm. rendelet szerint szükséges, etalonra visszavezethető mé
 [^1]: Az 1. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 421. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^2]: Az 1. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 421. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^3]: Az 1. § (4) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 422. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^4]: Az 1. § (5) bekezdése a 394/2016. (XII. 5.) Korm. rendelet 7. §-ával megállapított, a 435/2017. (XII. 21.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (5) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^5]: Az 1. § (6) bekezdése a 178/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § (7) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 178/2016. (VII. 1.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (7) bekezdés a) pontja a 178/2016. (VII. 1.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
