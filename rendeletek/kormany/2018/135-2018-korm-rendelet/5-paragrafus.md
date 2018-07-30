@@ -1,0 +1,3 @@
+## 4. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet (a továbbiakban: Ügkr. Vhr.) 1. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A hatóság a kibocsátási engedélyt a környezethasználat feltételeit megállapító hatósági határozat alapján adja ki, ha megállapítja, hogy az üzemeltető megfelel az Ügkr. tv.-ben foglalt feltételeknek. A kibocsátási engedély részletes tartalmi követelményeit a 3. melléklet állapítja meg.”
