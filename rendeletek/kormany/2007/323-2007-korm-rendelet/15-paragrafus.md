@@ -14,11 +14,11 @@ d) amennyiben Átvevőként nem a Keretegyezmény I. mellékletében felsorolt r
 
 (3) A Szállító a (2) bekezdésben foglaltaknak megfelelő kibocsátás-csökkentési egységek átadására irányuló kérelem benyújtásával kezdeményezi a kibocsátás-csökkentési egységek átadását a minisztériumnál.
 
-(4)[^43] A kibocsátás-csökkentési egységek átadásáról a miniszter – az államháztartásért felelős miniszter egyetértésével – a benyújtástól számított 30 napon belül írásban dönt. A (2) bekezdésben foglaltaknak nem megfelelő tartalommal benyújtott kibocsátás-csökkentési egységek átadására irányuló kérelmet a miniszter – az államháztartásért felelős miniszter egyetértése esetén – elutasítja. Az elutasítást indokolni kell.
+(4)[^43] A kibocsátás-csökkentési egységek átadásáról a miniszter a benyújtástól számított 30 napon belül írásban dönt. A (2) bekezdésben meghatározottól eltérő tartalommal benyújtott kibocsátás-csökkentési egységek átadására irányuló kérelmet a miniszter indokolással elutasítja.
 
-(5)[^44] A 12. § (2) bekezdésében meghatározott feltételeknek megfelelő mennyiségű kibocsátás-csökkentési egységet a forgalmi jegyzék kezelője a miniszternek az államháztartásért felelős miniszterrel egyetértésben meghozott döntése alapján a kötelezettségvállalási időszak minden évét követő május 31-éig, a kibocsátás-csökkentés értékesítési szerződésnek megfelelően vezeti át az Átvevő részes állam számlájára, illetve megfelelő felhatalmazással rendelkező Átvevő esetében az Átvevő által megnevezett számlára.
+(5)[^44] A 12. § (2) bekezdésében meghatározott feltételeknek megfelelő mennyiségű kibocsátás-csökkentési egységet a forgalmi jegyzék kezelője a miniszter döntése alapján a kötelezettségvállalási időszak minden évét követő május 31-éig, a kibocsátás-csökkentés értékesítési szerződésnek megfelelően vezeti át az Átvevő részes állam számlájára, illetve megfelelő felhatalmazással rendelkező Átvevő esetében az Átvevő által megnevezett számlára.
 
 [^41]: A 15–17. §-t megelőző alcím a 304/2011. (XII. 23.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
 [^42]: A 15. § (1) bekezdése a 329/2013. (IX. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^43]: A 15. § (4) bekezdése a 225/2014. (IX. 4.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^44]: A 15. § (5) bekezdése a 225/2014. (IX. 4.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^43]: A 15. § (4) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^44]: A 15. § (5) bekezdése a 225/2014. (IX. 4.) Korm. rendelet 5. §-ával megállapított, a 135/2018. (VII. 25.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

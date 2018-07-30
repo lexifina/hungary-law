@@ -1,5 +1,5 @@
-## 23. §[^61]
+## 23. §[^57]
 
 ## Csekély összegű támogatás
 
-[^61]: A 23. §-t a 131/2015. (V. 27.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^57]: A 23. §-t a 131/2015. (V. 27.) Korm. rendelet 4. §-a hatályon kívül helyezte.
