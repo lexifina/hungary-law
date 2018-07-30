@@ -14,7 +14,7 @@ e) törkölypálinka készítés,
 
 f) exportálás az Európai Unió tagállamain kívüli országba,
 
-g)[^2] engedélyes hulladékkezelő részére történő igazolt átadás,
+g)[^3] engedélyes hulladékkezelő részére történő igazolt átadás,
 
 h) biogáz előállítás céljára történő átadás,
 
@@ -28,14 +28,14 @@ b) borkősav vagy más anyag kivonása,
 
 c) exportálás az Európai Unió tagállamain kívüli országba,
 
-d)[^3] engedélyes hulladékkezelő részére vagy szennyvíztisztító telep részére történő igazolt átadás,
+d)[^4] engedélyes hulladékkezelő részére vagy szennyvíztisztító telep részére történő igazolt átadás,
 
-e)[^4]
+e)[^5]
 
 f) biogáz előállítás céljára történő átadás,
 
 g) komposzt készítésére történő felhasználás.
 
-[^2]: A 4. § (1) bekezdés g) pontja a 68/2017. (XII. 27.) FM rendelet 2. §-ával megállapított szöveg.
-[^3]: A 4. § (2) bekezdés d) pontja a 68/2017. (XII. 27.) FM rendelet 3. §-ával megállapított szöveg.
-[^4]: A 4. § (2) bekezdés e) pontját a 68/2017. (XII. 27.) FM rendelet 10. § a) pontja hatályon kívül helyezte.
+[^3]: A 4. § (1) bekezdés g) pontja a 68/2017. (XII. 27.) FM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 4. § (2) bekezdés d) pontja a 68/2017. (XII. 27.) FM rendelet 3. §-ával megállapított szöveg.
+[^5]: A 4. § (2) bekezdés e) pontját a 68/2017. (XII. 27.) FM rendelet 10. § a) pontja hatályon kívül helyezte.
