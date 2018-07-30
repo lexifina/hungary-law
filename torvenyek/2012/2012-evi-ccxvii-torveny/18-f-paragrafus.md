@@ -1,4 +1,4 @@
-18/F. § (1) A hatóság évente jelentést készít az Európai Bizottság részére a beruházások megvalósításáról és a központi számlán rendelkezésre álló összeg felhasználásáról. A hatóság az első jelentését 2014. január 31-ig az energiapolitikáért felelős miniszter útján nyújtja be az Európai Bizottság részére. A hatóság az utolsó jelentését a (2) bekezdés szerinti zárójelentés benyújtását követő év január 31-ig köteles elkészíteni.
+18/F. § (1) A hatóság évente jelentést készít az Európai Bizottság részére a beruházások megvalósításáról és a központi számlán rendelkezésre álló összeg felhasználásáról. A hatóság az utolsó jelentését a (2) bekezdés szerinti zárójelentés benyújtását követő év január 31-ig készíti el.
 
 (2) A beruházó a derogációs kérelemben meghatározott beruházás megvalósításának előrehaladásáról a hatóságnak a tárgyévet követő év január 5-ig jelentést nyújt be. A beruházás befejezését követő 6 hónapon belül a beruházó a hatóság részére zárójelentést nyújt be.
 

@@ -8,4 +8,4 @@
 
 (4) Az (1) és (2) bekezdés szerinti kötelezettség teljesítése során a 2009/406/EK európai parlamenti és tanácsi határozat 3. és 5. cikkében meghatározott rugalmas éves elszámolási szabályok vehetők igénybe.
 
-(5) Az Európai Unió 2030-as klíma- és energiapolitikai keretrendszerének végrehajtásáért, alap- és kompenzációs elemeinek szakmai kidolgozásáért és megvalósításáért az energiapolitikáért felelős miniszter felel.
+(5) Az Európai Unió 2030-as klíma- és energiapolitikai keretrendszerének végrehajtásáért, alap- és kompenzációs elemeinek szakmai kidolgozásáért és megvalósításáért a miniszter felel.

@@ -8,7 +8,7 @@ a) Magyarország 37. § szerinti kibocsátás-csökkentési céljának teljesít
 
 b) a (4) bekezdés szerinti értékesítésre.
 
-(4) A miniszter az állam nevében ESD-egységeket értékesíthet és – az energiapolitikáért felelős miniszterrel együttműködésben – vásárolhat e törvény céljának hatékonyabb elérése érdekében. Az értékesítés az állami vagyonról szóló törvény, az Nvtv. és az értékesítés részletszabályait meghatározó, e törvény végrehajtására kiadott jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
+(4) A miniszter az állam nevében ESD-egységeket értékesíthet és vásárolhat e törvény céljának hatékonyabb elérése érdekében. Az értékesítés az állami vagyonról szóló törvény, az Nvtv. és az értékesítés részletszabályait meghatározó, e törvény végrehajtására kiadott jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
 
 (5) A (4) bekezdés szerinti értékesítési bevétel felhasználásáról a miniszter előterjesztése alapján a Kormány dönt.
 

@@ -4,6 +4,6 @@
 
 (2) A jelentést az Európai Bizottság által megküldött kérdőív vagy vázlat alapján kell elkészíteni.
 
-(3) A jelentést a hatóság az Európai Bizottság által meghatározott határidő előtt legkésőbb 30 nappal megküldi a miniszternek.
+(3) A jelentést a hatóság az Európai Bizottság által meghatározott határidő előtt legkésőbb 10 nappal megküldi a miniszternek.
 
 (4) A jelentést a miniszter az Európai Bizottság által meghatározott határidőig továbbítja az Európai Bizottságnak.

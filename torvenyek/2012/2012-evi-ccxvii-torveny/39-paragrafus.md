@@ -44,6 +44,6 @@ t) a klíma- és energiapolitikai keretrendszer végrehajtására vonatkozó ré
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy a felügyeleti díj megfizetésének részletes szabályait rendeletben állapítsa meg.
+(2) Felhatalmazást kap a miniszter, hogy a felügyeleti díj megfizetésének részletes szabályait rendeletben állapítsa meg.
 
-(3) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy a fizetendő igazgatási szolgáltatási díj mértékét, megfizetésének részletes szabályait – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg.
+(3) Felhatalmazást kap a miniszter, hogy a fizetendő igazgatási szolgáltatási díj mértékét, megfizetésének részletes szabályait – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg.

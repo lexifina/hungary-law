@@ -10,9 +10,9 @@ b) az engedély kiadásához szükséges valamely feltétel nem áll fenn, a kib
 
 c) az engedély kiadásához szükséges valamennyi feltétel változatlanul fennáll, ennek ténye a hatósági ellenőrzést lezáró jegyzőkönyvben vagy feljegyzésben rögzítésre kerül.
 
-(3a) A hatóság a kibocsátási engedélyben végrehajtott módosításról, illetve az engedély visszavonásáról tájékoztatja az államháztartásért felelős minisztert (a továbbiakban: miniszter). A miniszter tájékoztatja a hatóságot minden olyan, az üzemeltetők és a légi jármű üzembentartók működésével kapcsolatos adatról, amely adatot közvetlenül a miniszterhez nyújtottak be, és az adat megismerése a hatóság e törvény és a végrehajtására kiadott kormányrendelet szerinti feladat- és hatáskörébe tartozik.
+(3a) A kibocsátási engedély kiadásáról, módosításáról, illetve visszavonásáról, valamint a légi jármű üzembentartó nyomonkövetési tervének jóváhagyásáról, módosításáról a hatóság tájékoztatja az iparügyekért felelős minisztert (a továbbiakban: miniszter).
 
-(3b) A hatóság a térítésmentes kiosztásra megállapított ÜHG-egységek mennyiségének alapjául szolgáló adatok megfelelőségének felülvizsgálatát a miniszterrel együttműködve, hatósági ellenőrzés keretében végzi.
+(3b) A miniszter a térítésmentes kiosztásra megállapított ÜHG-egységek mennyiségének alapjául szolgáló adatok megfelelőségének felülvizsgálatát hatósági ellenőrzés keretében végezheti.
 
 (3c) Hatósági ellenőrzés lefolytatása iránti kérelem előterjesztésének nincs helye.
 
