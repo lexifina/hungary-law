@@ -1,0 +1,3 @@
+## 12. § A szőlőfeldolgozás és a borkészítés során keletkező melléktermékek kivonásáról és támogatással történő lepárlásáról szóló 70/2012. (VII. 16.) VM rendelet [a továbbiakban: 70/2012. (VII. 16.) VM rendelet] 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Annak a nem kisüzemi bortermelőnek, aki személyesen és saját birtokán 1000 hektoliter vagy azt meghaladó mennyiségben állít elő bort, vagy 1000 hektolitert meghaladó mennyiségű bornak megfelelő mennyiségben dolgoz fel szőlőt, az 1000 hektolitert meghaladó részhez kapcsolódóan keletkező borseprő kötelező lepárlás útján történő megsemmisítéséről gondoskodnia kell.”
