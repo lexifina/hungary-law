@@ -8,6 +8,6 @@
 
 (2) Az OHT és az OMP kidolgozásakor a környezetvédelmi igazgatási szerv, a környezetvédelmi hatóság, valamint a helyi önkormányzatok – szükség esetén – együttműködnek az Európai Unió érintett tagállamaival és az Európai Bizottsággal.
 
-(3) Az OHT-t és az OMP-t a környezetvédelemért felelős miniszter terjeszti a Kormány elé.
+(3) Az OHT-t és az OMP-t a hulladékgazdálkodásért felelős miniszter terjeszti a Kormány elé.
 
 (4) Az OHT és az OMP elfogadásáról a Kormány határozatban dönt.

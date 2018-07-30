@@ -60,7 +60,7 @@
 
 28. a biológiailag lebomló hulladék képződésének megelőzésére vonatkozó tevékenységek, valamint a biológiailag lebomló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait, valamint a biohulladékból előállított komposzt osztályozásának szabályait;
 
-29. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes kritériumokat, valamint a hulladékstátusz megszűnésével kapcsolatos tanúsítás rendjét, a tanúsításra jogosult szervezetekre vonatkozó szabályokat;
+29. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes kritériumokat, műszaki és felhasználási feltételeket, valamint a hulladékstátusz megszűnésével kapcsolatos tanúsítás rendjét, a tanúsításra jogosult szervezetekre vonatkozó szabályokat;
 
 30. a hulladéklerakási járulékból befolyt összeg felhasználásának céljait és szabályait;
 
@@ -76,11 +76,11 @@
 
 36. a kitermelt talaj és más, építési tevékenység során kitermelt természetes állapotában meglévő anyag kitermelés helyén kívüli felhasználásának részletes szabályait.
 
-(2) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben állapítsa meg:
+(2) Felhatalmazást kap a hulladékgazdálkodásért felelős miniszter, hogy rendeletben állapítsa meg:
 
 1. a veszélyes és nem veszélyes hulladéktípusokat tartalmazó hulladékjegyzéket, és a hulladék veszélyességét eredményező tulajdonságok megállapítására vonatkozó részletes szabályokat;
 
-2. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes műszaki feltételeket;
+2.
 
 3. a hulladéklerakás technikai követelményeit, a betelt lerakók lezárásának és utógondozásának technikai feltételeit, valamint részletes szabályait;
 
@@ -100,7 +100,7 @@
 
 (3) Felhatalmazást kap:
 
-a) az egészségügyért felelős miniszter a környezetvédelemért felelős miniszterrel és a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszterrel egyetértésben, hogy
+a) az egészségügyért felelős miniszter a hulladékgazdálkodásért felelős miniszterrel egyetértésben, hogy
 
 aa) a humán gyógyszer hulladékká válását megelőző tevékenységek és a gyógyszerhulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének szabályait, valamint a gyógyszergyártók biztosítékadására és tájékoztatási kötelezettségére vonatkozó részletes szabályokat,
 
@@ -108,7 +108,7 @@ ab) az egészségügyi intézményekben képződő hulladékkal kapcsolatos hull
 
 ac) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos közegészségügyi követelményeket;
 
-b) a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszter, hogy
+b) miniszter, hogy
 
 ba) a hulladékgazdálkodási közszolgáltatásra vonatkozó díjképzés átláthatóságának biztosítása érdekében a közszolgáltatók által közérdekből közzéteendő adatok – különösen a hulladékgazdálkodási közszolgáltatással kapcsolatos díjmegállapítás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját,
 
@@ -126,7 +126,9 @@ bg) a díjhátralék kezelésére vonatkozó részletszabályokat,
 
 bh) a szolgáltatási díjat, a díjalkalmazási feltételeket, a díjmegfizetés rendjét, a közszolgáltatási díj felosztásának elvét,
 
-bi) a vegyes települési hulladékból előállított éghető hulladék esetében a hulladékstátusz megszűnésének megállapítására vonatkozó részletes műszaki, és felhasználási feltételeket
+bi)
+
+c) a hulladékgazdálkodásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az igazgatási szolgáltatási díjköteles hulladékgazdálkodási eljárások, igazgatási jellegű szolgáltatások és bejelentések után fizetendő díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
 
 rendeletben állapítsa meg.
 

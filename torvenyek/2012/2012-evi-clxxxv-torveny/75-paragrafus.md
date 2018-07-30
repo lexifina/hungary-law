@@ -6,6 +6,6 @@
 
 (3) Az OHT és az OMP kidolgozását, egyeztetését, elfogadását a hulladékgazdálkodási tervre és a megelőzési programra vonatkozó részletes szabályokról szóló kormányrendelet szerint kell elvégezni.
 
-(4) A környezetvédelmi igazgatási szerv az OHT-t és az OMP-t a tervezési időszak negyedik évében felülvizsgálja, a felülvizsgálat eredményéről beszámolót készít, és azt a környezetvédelemért felelős miniszter elé terjeszti.
+(4) A környezetvédelmi igazgatási szerv az OHT-t és az OMP-t a tervezési időszak negyedik évében felülvizsgálja, a felülvizsgálat eredményéről beszámolót készít, és azt a hulladékgazdálkodásért felelős miniszter elé terjeszti.
 
 (5) A beszámolóban a környezetvédelmi igazgatási szerv bemutatja a képződő hulladék mennyiségére, a hulladékgazdálkodás helyzetére, a hulladékkezelő létesítmények állapotára, a kezelési kapacitásokra, a kezelés végzésére és az ezek környezeti hatásaira vonatkozó információkat, valamint ezek alapján ismerteti a tervezett intézkedések előrehaladását, az OHT és az OMP esetleges módosításának szükségességét.

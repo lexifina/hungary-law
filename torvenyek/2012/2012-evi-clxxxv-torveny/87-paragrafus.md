@@ -4,9 +4,9 @@
 
 ## 37. Jelentéstétel az Európai Bizottság felé
 
-87. § (1) A hulladéklerakókról szóló, 1999. április 26-i 1999/31/EK tanácsi irányelv 15. cikke szerinti jelentési kötelezettséget a környezetvédelemért felelős miniszter teljesíti.
+87. § (1) A hulladéklerakókról szóló, 1999. április 26-i 1999/31/EK tanácsi irányelv 15. cikke szerinti jelentési kötelezettséget a hulladékgazdálkodásért felelős miniszter teljesíti.
 
-(2) A környezetvédelemért felelős miniszter tájékoztatja az Európai Bizottságot a 2008/98/EK európai parlamenti és tanácsi irányelv
+(2) A hulladékgazdálkodásért felelős miniszter tájékoztatja az Európai Bizottságot a 2008/98/EK európai parlamenti és tanácsi irányelv
 
 a) 6. cikk (4) bekezdése alapján a 10. § (2) bekezdése szerinti miniszteri rendeletről az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről szóló kormányrendelettel összhangban;
 

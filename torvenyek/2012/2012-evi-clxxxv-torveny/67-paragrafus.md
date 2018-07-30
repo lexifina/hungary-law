@@ -1,1 +1,1 @@
-67. § A hulladékgazdálkodással kapcsolatos egységes információs rendszert az Országos Környezetvédelmi Információs Rendszer önálló részeként a környezetvédelemért felelős miniszter alakítja ki és működteti.
+### 67. §
