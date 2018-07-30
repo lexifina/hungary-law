@@ -1,1 +1,3 @@
-### 120. §
+## „(4) A (3) bekezdésben meghatározott fizetési kötelezettség teljesítéséig a miniszter zároltatja a villamosenergia-termelő forgalmi jegyzékbeli számláját. A fizetési kötelezettség villamosenergia-termelő általi hiánytalan teljesítésétől számított 30 napon belül a miniszter gondoskodik a villamosenergia-termelő forgalmi jegyzékbeli számlája zárolásának feloldásáról.”
+
+120. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 18/F. § (1) bekezdése helyébe a következő rendelkezés lép:
