@@ -26,7 +26,7 @@ i) a hulladékról szóló törvényben meghatározott gyűjtési hasznosítási
 
 (1a) Felhatalmazást kap a Kormány, hogy az állami hulladékgazdálkodást közvetítő szervezetet rendeletben jelölje ki.
 
-(2) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben állapítsa meg
+(2) Felhatalmazást kap a hulladékgazdálkodásért felelős miniszter, hogy rendeletben állapítsa meg
 
 a) a hulladékkezelési teljesítmény megállapításának részletes szakmai feltételeit és elfogadásának rendjét,
 

@@ -10,8 +10,8 @@ d) az állami hulladékgazdálkodást közvetítő szervezet által tárgyév so
 
 tartalmazza.
 
-(2) Az OGyHT tervezetét – a rendelkezésére álló saját és hatósági nyilvántartás adatai alapján, a külön jogszabályban meghatározottak szerint – az állami hulladékgazdálkodást közvetítő szervezet a tárgyévet megelőző év szeptember 20-ig készíti elő, és az állami hulladékgazdálkodást közvetítő szervezet javaslatára a környezetvédelemért felelős miniszter hagyja jóvá. Az OGyHT-t – a (3) bekezdésben foglalt eltéréssel – az állami hulladékgazdálkodást közvetítő szervezet javaslatára a környezetvédelemért felelős miniszter a tárgyévben módosíthatja.
+(2) Az OGyHT tervezetét – a rendelkezésére álló saját és hatósági nyilvántartás adatai alapján, a külön jogszabályban meghatározottak szerint – az állami hulladékgazdálkodást közvetítő szervezet a tárgyévet megelőző év szeptember 20-ig készíti elő, és az állami hulladékgazdálkodást közvetítő szervezet javaslatára a hulladékgazdálkodásért felelős miniszter hagyja jóvá. Az OGyHT-t – a (3) bekezdésben foglalt eltéréssel – az állami hulladékgazdálkodást közvetítő szervezet javaslatára a hulladékgazdálkodásért felelős miniszter a tárgyévben módosíthatja.
 
-(3) Az OGyHT-ben meghatározott célértéket a tárgyév október 31-ig az állami hulladékgazdálkodást közvetítő szervezet a környezetvédelemért felelős miniszter jóváhagyása nélkül az induló érték egyharmadával módosíthatja.
+(3) Az OGyHT-ben meghatározott célértéket a tárgyév október 31-ig az állami hulladékgazdálkodást közvetítő szervezet a hulladékgazdálkodásért felelős miniszter jóváhagyása nélkül az induló érték egyharmadával módosíthatja.
 
 (4) Az OGyHT-t, illetve az OGyHT módosítását a módosítások megjelölésével a kormányzati portálon közzé kell tenni.

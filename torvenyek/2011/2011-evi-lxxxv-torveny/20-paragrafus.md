@@ -36,4 +36,4 @@ f) olyan adatgyűjtést, feldolgozást elvégezni, amelyből a tevékenységet j
 
 (6) Az ellenőrzés részletes szabályait e törvény és végrehajtására kiadott jogszabály és az állami hulladékgazdálkodást közvetítő szervezet, valamint az ellenőrzött közötti egyedi szerződés, illetve a szerződési feltételek tartalmazzák.
 
-(7) Az állami hulladékgazdálkodást közvetítő szervezet a környezetvédelmi termékdíjakkal kapcsolatos előírások érvényesítése érdekében vizsgálati (így különösen mérési, értékelési) módszereket, eljárásokat dolgoz ki. A kötelezően alkalmazandó módszereket, eljárásokat a környezetvédelemért felelős miniszter rendeletben kihirdeti.
+(7) Az állami hulladékgazdálkodást közvetítő szervezet a környezetvédelmi termékdíjakkal kapcsolatos előírások érvényesítése érdekében vizsgálati (így különösen mérési, értékelési) módszereket, eljárásokat dolgoz ki. A kötelezően alkalmazandó módszereket, eljárásokat a hulladékgazdálkodásért felelős miniszter rendeletben kihirdeti.

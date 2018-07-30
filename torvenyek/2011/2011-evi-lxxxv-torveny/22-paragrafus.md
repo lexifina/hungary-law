@@ -2,7 +2,7 @@
 
 (2)
 
-(3) Az állami hulladékgazdálkodást közvetítő szervezet a tárgyévre vonatkozó OGyHT-ben meghatározott feladatok végrehajtása érdekében szükséges közbeszerzési eljárásokat előkészíti, és a tárgyévet megelőző év november 15-ig a környezetvédelemért felelős miniszter részére jóváhagyás céljából megküldi.
+(3) Az állami hulladékgazdálkodást közvetítő szervezet a tárgyévre vonatkozó OGyHT-ben meghatározott feladatok végrehajtása érdekében szükséges közbeszerzési eljárásokat előkészíti, és a tárgyévet megelőző év november 15-ig a hulladékgazdálkodásért felelős miniszter részére jóváhagyás céljából megküldi.
 
 (4) Az állami hulladékgazdálkodást közvetítő szervezet – az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter állásfoglalásának kézhezvételét követően – a közbeszerzési eljárások eredményéről szóló írásbeli összegezést tárgyév március 31-ig küldi meg az ajánlattevőknek.
 
