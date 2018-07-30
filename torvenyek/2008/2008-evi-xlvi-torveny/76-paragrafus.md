@@ -166,7 +166,7 @@ d) a vendéglátásért, valamint a kereskedelemért felelős miniszterrel egyet
 
 e) a fogyasztóvédelemért felelős miniszterrel egyetértésben a hagyományos különleges terméknek minősülő mezőgazdasági termékek és élelmiszerek elismerésének és ellenőrzésének rendjét;
 
-f) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerrel érintkezésbe került csomagolóeszközök kezelésére vonatkozó részletes szabályokat;
+f) a hulladékgazdálkodásért felelős miniszterrel egyetértésben a növényvédő szerrel érintkezésbe került csomagolóeszközök kezelésére vonatkozó részletes szabályokat;
 
 g) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerek, biocid termékek, valamint termésnövelő anyagok légi kijuttatásának részletes szabályait;
 

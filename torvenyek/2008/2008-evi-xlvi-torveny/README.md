@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-46-00-00
 | 2017-10-01 | 2017. évi LXIV. törvény | 2008-46-00-00.33 |
 | 2018-01-01 | 2017. évi L. törvény | 2008-46-00-00.34 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2008-46-00-00.35 |
+| 2018-07-30 | 2018. évi XL. törvény | 2008-46-00-00.36 |
