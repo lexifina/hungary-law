@@ -24,8 +24,9 @@ a) az edények, kannák, fertőtlenítéséhez és öblítéséhez, töltéséhe
 
 b) a töltési mennyiség ellenőrzéséhez szükséges, a mérésügyi hatóság által hitelesített, vagy a nemzeti etalonra visszavezethető kalibrált eszközökkel.
 
-(3) A 250 hl/év mennyiséget meghaladó borászati terméket előállító borászati üzem és a mozgó borpalackozók tevékenységére alkalmazni kell az élelmiszer-higiéniáról szóló 2004. április 29-i 852/2004/EK európai parlamenti és tanácsi rendelet előírásait.
+(3)[^5] A nem kisüzemi bortermelő által 250 hl/év mennyiséget meghaladó borászati terméket előállító borászati üzem és a mobilpalackozók tevékenységére alkalmazni kell az élelmiszer-higiéniáról szóló 2004. április 29-i 852/2004/EK európai parlamenti és tanácsi rendelet előírásait.
 
-(4)[^3] A borászati üzemnek az e rendeletben meghatározott feltételeknek való megfelelését a Nemzeti Élelmiszerlánc-biztonsági Hivatal vagy a borászati hatóság élelmiszermérnöki, élelmiszertechnológus mérnöki, kertészmérnöki, szőlész-borász mérnöki, szőlészeti és borászati mérnöki, borász-italtechnológus szakmérnöki vagy tartósítóipari mérnöki felsőfokú képesítéssel rendelkező felügyelői ellenőrzik.
+(4)[^6] A borászati üzemnek az e rendeletben meghatározott feltételeknek való megfelelését a Nemzeti Élelmiszerlánc-biztonsági Hivatal vagy a borászati hatóság élelmiszermérnöki, élelmiszertechnológus mérnöki, kertészmérnöki, szőlész-borász mérnöki, szőlészeti és borászati mérnöki, borász-italtechnológus szakmérnöki vagy tartósítóipari mérnöki felsőfokú képesítéssel rendelkező felügyelői ellenőrzik.
 
-[^3]: Az 5. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 152. § b) pontja szerint módosított szöveg.
+[^5]: Az 5. § (3) bekezdése a 19/2018. (VII. 27.) AM rendelet 9. §-ával megállapított szöveg.
+[^6]: Az 5. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 152. § b) pontja szerint módosított szöveg.

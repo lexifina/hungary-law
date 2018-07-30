@@ -1,63 +1,60 @@
-## 1. § E rendelet hatálya a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény (a továbbiakban: Btv.) 2. § 15. pontjában foglalt borászati termékek előállítását, tárolását, kezelését, illetve kiszerelését árutermelési céllal végző borászati üzemekre terjed ki.
+## 1/A. §[^1] E rendelet alkalmazásában a mobilpalackozó olyan, kizárólag kiszerelést végző borászati üzem, amely a kiszerelés végeztével új állomáshelyre költöztethető.
 
-2. § (1)[^1] A borászati üzem működési engedélyét (a továbbiakban: engedély) a borászati hatáskörben eljáró járási hivataltól (a továbbiakban: borászati hatóság) kell kérelmezni.
+2. §[^2] (1) A borászati üzem működési engedélyét (a továbbiakban: engedély) a borászati hatáskörben eljáró járási hivataltól (a továbbiakban: borászati hatóság) kell kérelmezni.
 
-(2) A borászati üzem létesítése esetén az engedély iránti kérelemnek tartalmaznia kell:
+(2) A borászati hatóság a kérelmet az alábbi tevékenységekre adhatja ki:
 
-a) a borászati üzem üzemeltetőjének nevét, címét, cég esetén a cégbíróságon a cégjegyzékbe bejegyzett nevet, székhelyet;
+a) előállítás,
 
-b) a borászati üzem címét és helyrajzi számát;
+b) kiszerelés,
 
-c) a borászati üzem helye szerint illetékes hegyközség nevét és címét;
+c) tárolás.
 
-d) a szakmai tevékenységért felelős személy nevét;
+(3) Az üzemengedély adattartalmát az 1. melléklet tartalmazza.
 
-e) a telephelyen végzett tevékenységi körök felsorolását.
+(4) A kérelmezőnek igazolnia kell
 
-(3) A kérelemhez csatolni kell:
+a) a borászati üzem feletti rendelkezési jogát, valamint azt, hogy az ingatlan tulajdonosa a borászati üzem létesítéséről nyilatkozott ha a kérelmező nem az ingatlan tulajdonosa,
 
-a) a borászati üzem feletti rendelkezés igazolását;
+b) a felhasznált víz minőségének az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendeletben foglaltaknak való megfelelését, ha a kérelmező nem a helyi ivóvíz szolgáltató által szolgáltatott vizet használ kiszerelés során,
 
-b) a helyszínrajzot;
+c) azt, hogy a kiszerelési tevékenységet végző borászati üzem, valamint a nem kisüzemi bortermelőként előállítást végző borászati üzem elkészítette
 
-c) kanna- és palackmosás, valamint palackozás esetén, ha nem a helyi ivóvíz szolgáltató által szolgáltatott vizet használ, annak igazolását, hogy a felhasznált víz minősége megfelel az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendeletben előírtaknak.
+ca) a technológiai folyamatábrát,
 
-(4) A 250 hl/év mennyiséget meghaladó borászati terméket előállító, illetve kiszerelési tevékenységet végző borászati üzem esetében a kérelemhez csatolni kell a (3) bekezdésben foglaltakon kívül:
+cb) a technológiai elrendezési rajzot,
 
-a) a technológiai folyamatábrát;
+cc) az anyagmozgatási és személyforgalmi tervet,
 
-b) a technológiai elrendezési rajzot;
+cd) a műszaki-technológiai leírást,
 
-c) az anyagmozgatási és személyforgalmi tervet;
+ce) a gyártástechnológia szerinti gépjegyzéket,
 
-d) a műszaki-technológiai leírást;
+cf) a tisztítási, takarítási utasítást,
 
-e) a gyártástechnológia szerinti gépjegyzéket;
+cg) a hulladékkezelési utasítást,
 
-f) a szennyvíz külön jogszabály szerinti elhelyezésének igazolását;
+ch) a személyi higiéniai utasítást,
 
-g) a tisztítási takarítási utasítást;
+d) kisüzemi bortermelő – borászati terméket legalább 100 hl/év mennyiségben előállító – borászati üzeme esetén, hogy elkészítette az egyszerűsített személyi higiéniai utasítást,
 
-h) a hulladék kezelési utasítást;
+e) a helyszínrajz elkészítését,
 
-i) a személyi higiéniai utasítást;
+f) a szennyvíz jogszabály szerinti elhelyezését.
 
-j) új üzem esetén használatbavételi engedélyt;
+(5) Mobilpalackozóra akkor adható ki engedély, ha
 
-k) tevékenység bővítése esetén a korábbi engedélyt.
-
-(5) Engedély adható olyan üzem részére is, amely a palackozás végeztével új állomáshelyre költöztethető (a továbbiakban: mozgó borpalackozó), amennyiben
-
-a) a mozgó borpalackozó rendelkezik olyan gépjárművel, amely alkalmas palackozó gépsor szállítására, és
+a) az szállítható;
 
 b) a palackozó gépsor rendelkezik
 
-ba) palackmosóval, -öblítővel, -csepegtetővel,
+ba) palackmosóval, -öblítővel, -csepegtetővel;
 
-bb) palacktöltővel és
+bb) palacktöltővel;
 
-bc) dugaszolóval.
+bc) dugaszolóval, vagy csavarzáróval.
 
-(6) A mozgó borpalackozóra vonatkozó engedélyre vonatkozó kérelemhez a (3) bekezdés a), valamint a (4) bekezdés a)–i) és k) pontjában meghatározottakat kell mellékelni.
+(6) A mobilpalackozó engedélyezésére vonatkozó kérelem esetén a kérelmezőnek a (4) bekezdés c) pontjának ca)–ch) alpontjában meghatározottakat kell igazolnia.
 
-[^1]: A 2. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 152. § a) pontja szerint módosított szöveg.
+[^1]: Az 1/A. §-t a 19/2018. (VII. 27.) AM rendelet 6. §-a iktatta be.
+[^2]: A 2. § a 19/2018. (VII. 27.) AM rendelet 7. §-ával megállapított szöveg.

@@ -1,0 +1,1 @@
+## 1. § E rendelet hatálya a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény (a továbbiakban: Btv.) 2. § 15. pontjában foglalt borászati termékek előállítását, tárolását, kezelését, illetve kiszerelését árutermelési céllal végző borászati üzemekre terjed ki.
