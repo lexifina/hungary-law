@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Ománi Szultánság Kormánya között a diplomata, szolgálati és különleges útlevéllel rendelkező állampolgáraik vízummentességéről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
