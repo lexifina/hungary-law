@@ -2,4 +2,4 @@
 
 (2) A versenyző köteles alávetni magát a doppingtilalom betartásának ellenőrzésére irányuló vizsgálatnak (a továbbiakban: doppingvizsgálat). A doppingvizsgálat eredményeként megállapított pozitív vizsgálati eredményt vagy a doppingvétséget megalapozó egyéb magatartás tanúsítását, valamint a doppingeljárás eredményeként meghozott jogerős doppingbüntetést a versenyző nevének és sportágának megjelölésével a doppingeljárás befejezésétől számított 3 munkanapon belül a jogerős döntést meghozó doppingbizottság nyilvánosságra hozza.
 
-(3) A doppingtilalomra és a doppingvizsgálatra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+(3) A doppingtilalomra, valamint a doppingvizsgálatra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.

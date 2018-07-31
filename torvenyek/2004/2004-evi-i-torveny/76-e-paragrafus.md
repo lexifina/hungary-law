@@ -1,4 +1,4 @@
-76/E. § (1) A sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe a sportszervezettel tagsági, szerződéses vagy tanulói jogviszonyban álló sportolókról. Az adatszolgáltatás a 3. § (3) bekezdés a) pontjában meghatározott személyes adatokra terjed ki.
+76/E. § (1) A sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe a sportszervezettel tagsági, szerződéses vagy tanulói jogviszonyban álló sportolókról. Az adatszolgáltatás a 3. § (3) bekezdés a) pontja szerinti személyes adatokra terjed ki.
 
 (2) A sportszövetség a versenyengedélyeket a nemzeti sportinformációs rendszerben tartja nyilván. A sportszövetség ennek keretében adatot szolgáltat a nemzeti sportinformációs rendszer részére az általa kiadott versenyengedélyekről, a versenyengedéllyel rendelkezők versenyeken vagy versenyrendszerben való tényleges részvételéről. Az adatszolgáltatás a 3. § (3) bekezdés a) pontjában meghatározott személyes adatokra is kiterjed.
 

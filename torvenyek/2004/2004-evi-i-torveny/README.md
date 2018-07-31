@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2017-11-24 | 2017. évi CLXII. törvény | 2004-1-00-00.58 |
 | 2018-01-01 | 2017. évi L. törvény | 2004-1-00-00.59 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2004-1-00-00.60 |
+| 2018-07-31 | 2018. évi XLVI. törvény | 2004-1-00-00.61 |

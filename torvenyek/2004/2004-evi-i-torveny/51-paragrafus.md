@@ -1,4 +1,4 @@
-51. § (1) A sport irányításával, szabályozásával és ellenőrzésével kapcsolatos, e törvényben és külön jogszabályokban meghatározott feladatok ellátásáról a sportpolitikáért felelős miniszter gondoskodik.
+51. § (1) A sport irányításával, szabályozásával és ellenőrzésével összefüggő, e törvényben és külön jogszabályokban meghatározott feladatok ellátásáról a sportpolitikáért felelős miniszter gondoskodik.
 
 (2) A sportpolitikáért felelős miniszter:
 

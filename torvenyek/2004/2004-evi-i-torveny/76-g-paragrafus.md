@@ -4,6 +4,6 @@ a) a sportszervezetek,
 
 b) a sportszövetségek,
 
-c) a sportköztestületek,
+c) a sportköztestületek és
 
 d) a sportlétesítmény tulajdonosa, illetve üzemeltetője vagy használója.

@@ -25,3 +25,5 @@ b) a kérelmet elutasítani.
 (6) A Sport Állandó Választottbíróság a MOB keretén belül működik. Elnökét és legalább tizenöt tagját a MOB elnöksége négy évre választja meg a jogi szakvizsgával és legalább öt év joggyakorlattal rendelkező, a sport területén tapasztalatokkal rendelkező jogászok közül.
 
 (7) A Sport Állandó Választottbíróság eljárási szabályzatát maga állapítja meg. A szabályzat hatálybalépéséhez a MOB elnökének előzetes jóváhagyása szükséges.
+
+(8) A választottbíráskodásról szóló törvénytől eltérően sportszervezetek jogvitáiban a Sport Állandó Választottbíróságot és a svájci székhelyű Court of Arbitration for Sport választottbírósági intézményt kivéve állandó vagy eseti választottbíróság nem járhat el.

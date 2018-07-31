@@ -6,7 +6,7 @@
 
 (2) A nemzeti sportinformációs rendszert a sportpolitikáért felelős miniszter működteti. A sportpolitikáért felelős miniszter e feladatkörében biztosítja a nemzeti sportinformációs rendszer döntés-előkészítési, statisztikai, valamint sportszakmai, továbbá szolgáltató elemeinek működési feltételeit, üzemeltetését és fejlesztését azzal, hogy biztosítja a nemzeti sportinformációs rendszerben nyilvántartott adatok statisztikai célokra történő felhasználását és statisztikai felhasználás céljából a hivatalos statisztikai szolgálat részére történő átadását.
 
-(3) A sportpolitikáért felelős miniszter a nemzeti sportinformációs rendszer személyes adatokra vonatkozó adattartalmát az e törvényben meghatározott esetben kezelheti.
+(3) A sportpolitikáért felelős miniszter a nemzeti sportinformációs rendszer személyes adatokra vonatkozó adattartalmát az e törvényben meghatározott esetben kezeli.
 
 (4) A nemzeti sportinformációs rendszer személyes adatokra vonatkozó adattartalmából – ha törvény eltérően nem rendelkezik – adattovábbítás nem teljesíthető.
 

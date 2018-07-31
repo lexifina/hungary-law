@@ -36,7 +36,7 @@ ma) köznevelési típusú sportiskola: az a köznevelésről szóló törvény 
 
 mb) egyesületi jellegű sportiskola: az a korcsoportos sportági képzést biztosító jogi személy nonprofit gazdasági társaság, sportegyesület, sportvállalkozás, vagy utánpótlás-nevelés fejlesztését végző alapítvány (utánpótlás akadémia), amely köznevelési intézménnyel, a sportköztestülettel, országos sportági szakszövetséggel, országos sportági szövetséggel, vagy fogyatékosok országos sportszövetségével kötött együttműködési megállapodás alapján vesz részt az utánpótlás-nevelési feladatok ellátásban, sportolók magas szintű felkészítésében és versenyeztetésében, vagy közreműködik az utánpótlás-nevelési feladat-ellátás feltételeinek biztosításában.
 
-n) sportrendezvény helyszíne: az a nyilvános hely vagy a közterület meghatározott része, ahol a sportrendezvényt megtartják, és ahol néző tartózkodhat,
+n) sportrendezvény helyszíne: az a nyilvános hely vagy a közterület meghatározott része, ahol a sportrendezvényt megtartják és ahol néző tartózkodhat,
 
 o) sportrendezvény résztvevője: az a természetes személy, aki a sportrendezvény helyszínén annak időtartama alatt, valamint a sportrendezvényt megelőzően vagy követően másfél órával tartózkodik. A néző (szurkoló) résztvevőnek minősül,
 

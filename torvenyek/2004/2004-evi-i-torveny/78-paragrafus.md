@@ -4,7 +4,7 @@
 
 (2)
 
-(3) Hivatásos sportoló sportszervezettel e törvény hatálybalépése után egyéni vállalkozóként hivatásos sportolói tevékenysége körében polgári jogi szerződést nem köthet. A már megkötött polgári jogi szerződések a szerződésben meghatározott időtartam végéig, de legfeljebb 2006. december 31-ig hatályosak.
+(3) Hivatásos sportoló sportszervezettel e törvény hatálybalépése után egyéni vállalkozóként hivatásos sportolói tevékenysége körében polgári jogi szerződést nem köthet. A már megkötött polgári jogi szerződések a szerződéses időtartam végéig, de legfeljebb 2006. december 31-ig hatályosak.
 
 (4)–(5)
 

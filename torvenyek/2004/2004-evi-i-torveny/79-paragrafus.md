@@ -20,7 +20,7 @@ bf) a sport területén képesítéshez kötött tevékenységek gyakorlására 
 
 bg) a sportorvoslás szabályaira és a sportegészségügyi hálózatra vonatkozó részletes szabályokat,
 
-bh) a nemzeti sportinformációs rendszerre vonatkozó részletes szabályokat és
+bh) a nemzeti sportinformációs rendszerre vonatkozó részletes szabályokat,
 
 bi) a Magyarország területén rendezett gépjárműversenyen vagy edzésen részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre vonatkozó részletes szabályokat,
 
