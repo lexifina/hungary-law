@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-175-00-00
 | 2018-01-01 | 2017. évi CXXX. törvény | 2011-175-00-00.28 |
 | 2018-07-01 | 2017. évi LXXII. törvény | 2011-175-00-00.29 |
 | 2018-07-26 | 2018. évi XL. törvény | 2011-175-00-00.30 |
+| 2018-07-31 | 2018. évi XLVI. törvény | 2011-175-00-00.31 |
