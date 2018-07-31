@@ -22,7 +22,7 @@ c) a feltárásra jogosult intézménnyel megbízási szerződés vagy együttm�
 
 (6) A fémkereső műszer használatára vonatkozó kérelmet el kell utasítani, ha
 
-a) a tervezett tevékenység az 5. § (3) bekezdés a)–c) pontjában meghatározott területet, rét vagy legelő művelési ágban lévő régészeti érdekű területet vagy nyilvántartott régészeti lelőhelyet érint,
+a)[^2] a tervezett tevékenység a 21. § (3) bekezdés a)–c) pontjában meghatározott területet, rét vagy legelő művelési ágban lévő régészeti érdekű területet vagy nyilvántartott régészeti lelőhelyet érint,
 
 b) a kérelmező szabálysértési vagy büntetőjogi felelősségét a régészeti örökséggel összefüggésben megállapították,
 
@@ -71,3 +71,5 @@ f) az ingatlannal rendelkezni jogosultnak.
 a) kerül elő, az engedélyes köteles a Kötv. 24. § (2) bekezdés b) pontja szerinti bejelentést megtenni,
 
 b) nem kerül elő, az engedélyes köteles a fémkereső műszer használatára vonatkozó engedély lejártát követő harminc napon belül a hatóságnak jelentést küldeni a végzett tevékenység leírásával, és nyilatkozni, hogy régészeti emlék, lelet vagy annak tűnő tárgy nem került elő a fémkereső műszerrel végzett tevékenység során.
+
+[^2]: Az 52. § (6) bekezdés a) pontja a 134/2018. (VII. 23.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
