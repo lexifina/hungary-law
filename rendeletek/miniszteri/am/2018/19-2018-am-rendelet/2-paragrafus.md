@@ -1,3 +1,0 @@
-## 1. § A szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet [a továbbiakban: 127/2009. (IX. 29.) FVM rendelet] 7. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az adatszolgáltató a gazdasági aktát vezető hegybíró részére, a borpiaci év január 10-ig az adott borpiaci évben szüretelt szőlő mennyiségéről, valamint felvásárolt szőlő esetén a felvásárlási árról a 4. számú melléklet adattartalmát kötelezően tartalmazó nyomtatványon adatot szolgáltat.”
