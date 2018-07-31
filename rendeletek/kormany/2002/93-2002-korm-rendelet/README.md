@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-93-20-2
 | 2017-01-01 | 2002-93-20-22.21 | 480/2016. (XII. 28.) Korm. rendelet |
 | 2017-12-28 | 2002-93-20-22.22 | 307/2009. (XII. 28.) Korm. rendelet |
 | 2018-01-01 | 2002-93-20-22.23 | 445/2017. (XII. 27.) Korm. rendelet |
+| 2018-07-31 | 2002-93-20-22.24 | 484/2015. (XII. 29.) Korm. rendelet |

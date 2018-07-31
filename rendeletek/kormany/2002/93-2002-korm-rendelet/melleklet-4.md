@@ -1,16 +1,34 @@
-| a) oldal |
+## Könyvviteli szolgáltatást végzők igazolványának tartalmi követelményei
 
-| NEMZETGAZDASÁGI MINISZTÉRIUM |
+## A könyvviteli szolgáltatást végzők igazolványa az alábbi adatokat tartalmazza:
 
-| Regisztrálási szám: IGAZOLVÁNY könyvviteli szolgáltatást végzők nyilvántartásba vételéről Személyi azonosító adatok Családi és utónév: Születési hely, idő: Anyja születési családi és utóneve: Regisztrálási szakterület: Igazolványszám: |
+## 1. Kibocsátó szervezet megnevezése: „Pénzügyminisztérium”;
 
-| b) oldal |
+## 2. Igazolvány megnevezése: „Könyvviteli szolgáltatást végzők igazolványa”;
 
-| NEMZETGAZDASÁGI MINISZTÉRIUM |
+## 3. Regisztrálási szám;
 
-|  | A nemzetgazdasági miniszter a 93/2002. (V. 5.) Korm. rendelet alapján könyvviteli szolgáltatás végzése céljából .............................................................. számon nyilvántartásba vette. Ezen nyilvántartásba vétel alapján az igazolvány tulajdonosa könyvviteli szolgáltatási tevékenység folytatására jogosult. Az igazolvány érvényes: .................................................-től a visszavonásig Budapest, .................................................. P. H. ........................................................ aláírás |
+## 4. Személyi azonosító adatok:
 
-|  | Fénykép helye |  |
+## 4.1. Név,
+
+## 4.2. Születési hely, idő,
+
+## 4.3. Anyja születési neve;
+
+## 5. Igazolványszám;
+
+## 6. Regisztrálási szakterület megnevezése;
+
+## 7. Fénykép;
+
+## 8. „A pénzügyminiszter ................................-t a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet alapján könyvviteli szolgáltatás végzése céljából ..................... számon nyilvántartásba vette, aki így könyvviteli szolgáltatási tevékenység folytatására jogosult.”
+
+## 9. Igazolvány érvényességi ideje;
+
+## 10. Az igazolvány kiállításának dátuma;
+
+## 11. Kibocsátó aláírása, bélyegző lenyomata.
 
 4. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^182]
 
