@@ -1,4 +1,4 @@
-## 29. §[^16] E rendeletnek a hulladékgazdálkodási közszolgáltatással összefüggő egyes kormányrendeletek módosításáról szóló 105/2018. (VI. 15.) Korm. rendelet (a továbbiakban: Mód. Kr. 2.) 8. §-ával megállapított 7. § (10) bekezdését a Mód. Kr. 2. hatálybalépésekor[^17] folyamatban levő eljárásokban is alkalmazni kell.
+## 30. §[^18] A 23. §-ban meghatározott kötelezettség teljesítési határideje a 2018. év tekintetében 2018. október 31.
 
 1. melléklet a 69/2016. (III. 31.) Korm. rendelethez
 
@@ -72,5 +72,4 @@ b) a tervezett fejlesztésre vonatkozó előzetes fejlesztési terv legalább az
 
 – fejlesztésre vonatkozó koncepcióterv (különös tekintettel a hulladékáramok, hulladékmennyiségek kimutatására).
 
-[^16]: A 29. §-t a 105/2018. (VI. 15.) Korm. rendelet 12. §-a iktatta be.
-[^17]: A hatálybalépés időpontja 2018. július 15.
+[^18]: A 30. §-t a 132/2018. (VII. 23.) Korm. rendelet 17. §-a iktatta be.
