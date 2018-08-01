@@ -20,9 +20,9 @@ i) a játékosvédelmi nyilvántartással kapcsolatos adatvédelmi tájékoztat�
 
 j) az ajánlott felelős játékszervezői minősítéssel rendelkező szervezők 22. § (3) bekezdése szerinti adatait.
 
-(2)[^2] Az államháztartásért felelős miniszter az (1) bekezdés a) és b) pontja szerinti tájékoztatást az egészségügyért, valamint szociál- és nyugdíjpolitikáért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés c) pontja szerinti tájékoztatást az egészségügyért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés d) pontja szerinti tájékoztatást az igazságügyért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés i) pontja szerinti tájékoztatót a Nemzeti Adatvédelmi és Információszabadság Hatósággal egyetértésben, az (1) bekezdés e)–h) pontja szerinti tájékoztatást saját hatáskörben készíti el és bocsátja a szerencsejáték-felügyeleti hatóság rendelkezésére.
+(2)[^2] A szerencsejáték-szervezés állami felügyeletéért felelős miniszter az (1) bekezdés a) és b) pontja szerinti tájékoztatást az egészségügyért, valamint szociál- és nyugdíjpolitikáért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés c) pontja szerinti tájékoztatást az egészségügyért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés d) pontja szerinti tájékoztatást az igazságügyért felelős miniszterrel egyetértésben és adatszolgáltatása alapján, az (1) bekezdés i) pontja szerinti tájékoztatót a Nemzeti Adatvédelmi és Információszabadság Hatósággal egyetértésben, az (1) bekezdés e)–h) pontja szerinti tájékoztatást saját hatáskörben készíti el és bocsátja a szerencsejáték-felügyeleti hatóság rendelkezésére.
 
 (3) Az (1) bekezdés a)–i) pontja szerinti tájékoztatók tartalmát a közzétételt követően félévente felül kell vizsgálni.
 
 [^1]: A 2. § (1) bekezdés nyitó szövegrésze a 183/2017. (VII. 5.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^2]: A 2. § (2) bekezdése a 183/2017. (VII. 5.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdése a 183/2017. (VII. 5.) Korm. rendelet 8. § (2) bekezdés b) pontja, a 108/2018. (VI. 25.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
