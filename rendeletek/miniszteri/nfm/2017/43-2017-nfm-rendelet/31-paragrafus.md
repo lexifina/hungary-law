@@ -1,4 +1,4 @@
-## 30. §[^16]
+## 30. §[^15]
 
 ## 4. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) A 29. § (3) bekezdése 2018. szeptember 1-jén lép hatályba.
 
-[^16]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
