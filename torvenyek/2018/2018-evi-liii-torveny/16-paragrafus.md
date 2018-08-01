@@ -9,11 +9,3 @@
 (2) A közéleti szereplőt a közügyek szabad vitatásának körén kívül eső közléssel vagy magatartással szemben a nem közéleti szereplővel azonos védelem illeti meg.
 
 (3) Nem minősül közügynek a közéleti szereplő magán- vagy családi életével kapcsolatos tevékenység, illetve adat.”
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
