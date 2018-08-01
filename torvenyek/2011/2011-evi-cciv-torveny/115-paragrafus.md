@@ -65,3 +65,15 @@ a) a Nyugat-magyarországi Egyetem Soproni Egyetem,
 b) a Magyar Táncművészeti Főiskola Magyar Táncművészeti Egyetem
 
 megnevezéssel működik.
+
+(23) 2018. augusztus 1-jétől
+
+a) az Edutus Főiskola Edutus Egyetem,
+
+b) a Kodolányi János Főiskola Kodolányi János Egyetem,
+
+c) a Szent Atanáz Görög Katolikus Hittudományi Főiskola Szent Atanáz Görögkatolikus Hittudományi Főiskola,
+
+d) a Zsigmond Király Egyetem Milton Friedman Egyetem
+
+megnevezéssel működik.
