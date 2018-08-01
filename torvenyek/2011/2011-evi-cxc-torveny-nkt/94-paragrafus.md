@@ -60,7 +60,9 @@ egyetértésben gyakorolja.
 
 a) a rendvédelmi szerv irányításáért felelős miniszter, hogy a rendvédelmi szerv működésének sajátosságaira tekintettel – az oktatásért felelős miniszter egyetértésével – a tanulók jogaira és kötelességeire, a pedagógusok végzettségére és szakképzettségére, jogaira és kötelességeire, az intézményvezető megbízására vonatkozó eltérő rendelkezéseket, a tanulói jogviszony létesítéséhez szükséges alkalmassági követelményeket, valamint ezek megállapításának rendjét, a fenntartói irányítási jog ellátásával való megbízást,
 
-b) az egészségügyért felelős miniszter, hogy az oktatásért felelős miniszter egyetértésével a tanulók rendszeres egészségügyi vizsgálatának megszervezését, ennek keretében különösen az óvodába járó gyermek, valamint a tankötelezettség végéig az általános iskolába, középfokú iskolába járó tanuló évenkénti legalább egyszeri fogászati, szemészeti és általános szűrővizsgálaton való részvételének részletes szabályait
+b) az egészségügyért felelős miniszter, hogy az oktatásért felelős miniszter egyetértésével a tanulók rendszeres egészségügyi vizsgálatának megszervezését, ennek keretében különösen az óvodába járó gyermek, valamint a tankötelezettség végéig az általános iskolába, középfokú iskolába járó tanuló évenkénti legalább egyszeri fogászati, szemészeti és általános szűrővizsgálaton való részvételének részletes szabályait,
+
+c) a szakképzésért és felnőttképzésért felelős miniszter, hogy az oktatásért felelős miniszter egyetértésével a 9. § (7a) bekezdése szerinti engedély kiadásának feltételeit, részletes eljárási szabályait
 
 rendeletben állapítsa meg.
 

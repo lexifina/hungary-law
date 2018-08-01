@@ -1,6 +1,6 @@
 ## 11. A szakközépiskola
 
-13. § (1) A szakközépiskolának öt évfolyama van, amelyből
+13. § (1) A szakközépiskolának – a 9. § (7a) bekezdésében meghatározott esetben a szakképzést előkészítő évfolyamon túl – öt évfolyama van, amelyből
 
 a) három, az adott szakképesítés megszerzéséhez szükséges közismereti képzést és szakmai elméleti és gyakorlati oktatást magában foglaló szakképzési évfolyam, valamint
 

@@ -14,7 +14,9 @@
 
 (7) A gimnáziumban az ötödik, hetedik és kilencedik, szakgimnáziumban a kilencedik évfolyamot nyelvi előkészítő évfolyam előzheti meg, feltéve hogy a gimnázium, a szakgimnázium a külön jogszabályokban meghatározott feltételeknek megfelel.
 
-(8) Az alternatív óvodák, iskolák az általuk készített és az oktatásért felelős miniszter által jóváhagyott óvodapedagógiai programban, kerettantervben meghatározottak szerint készítik el pedagógiai programjukat. Az alternatív óvodapedagógiai programban, az alternatív iskolai kerettantervben lehet meghatározni az általános szabályoktól eltérő, sajátos, az adott intézményben
+(7a) A szakközépiskolában a szakképzésért és felnőttképzésért felelős miniszter engedélyével a kilencedik évfolyamot a szakközépiskola pedagógiai programjában meghatározott tartalmú, szakképzést előkészítő évfolyam előzheti meg.
+
+(8) Az alternatív óvodák, iskolák az általuk készített és az oktatásért felelős miniszter által jóváhagyott óvodapedagógiai programban, kerettantervben, tantervi programban meghatározottak szerint készítik el pedagógiai programjukat. Az alternatív óvodapedagógiai programban, az alternatív iskolai kerettantervben, az alternatív alapfokú művészeti iskolák tantervi programjában lehet meghatározni az általános szabályoktól eltérő, sajátos, az adott intézményben
 
 a) folyó óvodai nevelés és az óvodai élet megtervezésének elveit, a nevelés tevékenységi formáit és az óvodapedagógus feladatait,
 
@@ -32,7 +34,7 @@ g) működő vezetési modellt, nevelés- és oktatásszervezést,
 
 h) elfogadott pedagógus végzettséget és szakképzettséget.
 
-(9) Az óvodapedagógiai program, kerettanterv a (8) bekezdésben meghatározott körben eltérhet az e törvényben, valamint az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározottaktól.
+(9) Az óvodapedagógiai program, kerettanterv, tantervi program a (8) bekezdésben meghatározott körben eltérhet az e törvényben, valamint az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározottaktól.
 
 (10) A (8) bekezdés alkalmazásában alternatív óvoda, alternatív iskola az az óvoda, iskola, amely nem hagyományos pedagógiai módszerekkel végzi nevelő és oktató munkáját. Az engedély iránti kérelmet, ha van olyan hálózat, szervezet, amelyik az alternatív óvodát, iskolát képviseli, a hálózat, szervezet, ha nincs ilyen hálózat, szervezet, az intézmény fenntartója jogosult benyújtani.
 
