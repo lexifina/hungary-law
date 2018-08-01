@@ -2,4 +2,4 @@
 
 (2) A képviselői, valamint a háznagyi megbízatás időtartama vezetői gyakorlatnak számít. A vezetői gyakorlat megállapításánál a felsorolt tisztségek betöltésének időtartamát kell figyelembe venni.
 
-(3) Ha a képviselő a 106. § (2) bekezdésében meghatározott megbízatással rendelkezik, a társadalombiztosítás ellátásaira való jogosultság szempontjából e megbízatását kell figyelembe venni.
+(3) Ha a képviselő házelnöki, miniszterelnöki, miniszteri, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi megbízatással rendelkezik, a társadalombiztosítás ellátásaira való jogosultság szempontjából e megbízatását kell figyelembe venni.

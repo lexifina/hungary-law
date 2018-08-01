@@ -4,6 +4,6 @@
 
 (1a) Párt tulajdonában vagy vagyonkezelésében lévő ingatlan az (1) bekezdésben foglalt összeg terhére nem használható fel irodai elhelyezés biztosítására.
 
-(2) A független képviselő a képviselői tevékenységével járó kiadásokra a 104. § (1) bekezdésében meghatározott tiszteletdíj 40%-ának megfelelő összegre jogosult.
+(2) A független képviselő a képviselői tevékenységével járó kiadásokra a 104. § (1) bekezdésében meghatározott tiszteletdíjnak megfelelő összegre jogosult.
 
 (3) A kincstár a képviselőcsoport részére az (1) bekezdésben meghatározott összeg kezelésére fizetési számlát, illetve ahhoz kapcsolódó alszámlát vezet.

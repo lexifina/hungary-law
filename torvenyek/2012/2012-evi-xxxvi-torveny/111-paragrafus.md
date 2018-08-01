@@ -20,7 +20,7 @@ az (1) bekezdésben foglaltak biztosítására nem használható.
 
 (3) A képviselő tevékenységét az Országgyűlés Hivatala által finanszírozott személyek segítik.
 
-(4) A képviselő az Országgyűlés Hivatalán keresztül jogosult térítésmentesen igénybe venni a képviselői tevékenységének ellátásához szükséges postai és elektronikus hírközlési szolgáltatásokat. A képviselő az Országgyűlés Hivatalán keresztül jogosult havonta legfeljebb a mindenkori legkisebb munkabér (minimálbér) 30%-ának megfelelő összeg erejéig mobiltelefon-szolgáltatás igénybevételére, amelyhez az Országgyűlés Hivatala biztosít megfelelő készüléket. Az Országgyűlés Hivatala a képviselő számára biztosítja a minősített elektronikus aláírás használatának lehetőségét és feltételeit.
+(4) A képviselő az Országgyűlés Hivatalán keresztül jogosult térítésmentesen igénybe venni a képviselői tevékenységének ellátásához szükséges postai és elektronikus hírközlési szolgáltatásokat. A képviselő az Országgyűlés Hivatalán keresztül jogosult havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 5%-ának megfelelő összeg erejéig mobiltelefon-szolgáltatás igénybevételére, amelyhez az Országgyűlés Hivatala biztosít megfelelő készüléket. A készülékkel – mobil fizetési rendszeren keresztül – megvalósuló, a közúti közlekedésről szóló törvény szerinti várakozás biztosítását célzó parkolási szolgáltatás igénybevételéhez az Országgyűlés Hivatala pénzügyi fedezetet nem biztosít. Az Országgyűlés Hivatala a képviselő számára biztosítja a minősített elektronikus aláírás használatának lehetőségét és feltételeit.
 
 (5) A képviselő jogosult térítésmentesen igénybe venni az Országgyűlés Hivatala által működtetett elemző, információs és dokumentációs szolgáltatásokat.
 

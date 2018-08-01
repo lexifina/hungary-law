@@ -10,4 +10,4 @@ jogosult.
 
 (2) A független képviselő jogosult az (1) bekezdés szerinti feltételek biztosítására.
 
-(3) Az (1) bekezdés b) és c) pontjában meghatározott költségek fedezésére a képviselő-csoport képviselőnként, valamint a független képviselő a 104. § (1) bekezdésében meghatározott tiszteletdíj 20%-ának megfelelő összegű ellátási keret felhasználására jogosult az Országgyűlés Hivatala költségvetéséből.
+(3) Az (1) bekezdés b) és c) pontjában meghatározott költségek fedezésére a képviselő-csoport képviselőnként, valamint a független képviselő a 104. § (1) bekezdésében meghatározott tiszteletdíj 50%-ának megfelelő összegű ellátási keret felhasználására jogosult az Országgyűlés Hivatala költségvetéséből.
