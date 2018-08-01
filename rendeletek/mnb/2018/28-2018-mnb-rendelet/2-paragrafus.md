@@ -1,0 +1,5 @@
+2. § (1) Az ovális alakú emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 10,3 gramm, átmérője 25×30 mm, széle sima.
+
+(2) Az emlékérme előlapján egy – pontokból megformált – emberalak ábrázolása látható, a radioaktív izotópos nyomjelzés segítségével diagnosztizált elváltozást megjelenítő, körkörös hullámvonalakkal. Az emberalak ábrázolásától balra vízszintes vonal látható, a vonal fölötti két sorban a „2000” értékjelzés és a „FORINT” felirat, a vonal alatti két sorban a „MAGYARORSZÁG” felirat, valamint a „2018” verési évszám és a „BP.” verdejel olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben Hevesy György félalakos portréjának ábrázolása látható. Az emlékérme szélén, félköriratban, fent a „HEVESY GYÖRGY ⋅ NOBEL-DÍJ ⋅ 1943”, lent az „A RADIOAKTÍV IZOTÓPOS NYOMJELZÉS KÉMIAI ALKALMAZÁSÁÉRT” felirat olvasható. Az emlékérme bal oldali részén, az alsó félkörirat mellett Endrődy Zoltán tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
