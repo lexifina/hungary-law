@@ -10,4 +10,4 @@ amelynek jogát vagy jogos érdekét a Hivatal döntése a megbízatás megszűn
 
 (3) Tekintettel a (2) bekezdés szerinti működési szektort érintő elhelyezkedési tilalomra, az elnök, illetve az elnökhelyettes megbízatásának megszűnésével egyidejűleg a megelőző 12 havi, a Hivataltól származó nettó – azaz személyi jövedelemadóval csökkentett – jövedelmének megfelelő mértékű kártalanításra jogosult. A kártalanítást a Hivatal költségvetése terhére kell megfizetni. Az ily módon megállapított kárátalány a károk megtérülése körében adómentes.
 
-(4) Amennyiben az elnökhelyettes megbízatása a 9. § (1) bekezdés d) pontja szerint szűnik meg, a megbízatás megszűnésére a közszolgálati jogviszonyban történő vezetői megbízás visszavonása esetére irányadó rendelkezéseket kell megfelelően alkalmazni.
+(4) Amennyiben az elnökhelyettes megbízatása a 9. § (1) bekezdés d) pontja szerint szűnik meg, a megbízatás megszűnésére a közszolgálati jogviszonyban történő vezetői kinevezés módosítása esetére irányadó rendelkezéseket kell megfelelően alkalmazni.

@@ -12,17 +12,17 @@ c) az igazgatási szolgáltatási díj és
 
 d) az egyéb bevételek.
 
-(3) A Hivatal által kiszabott bírságból származó bevétel a Hivatal feladat- és hatáskörébe tartozó
+(3) A Hivatal által kiszabott bírságból származó bevétel
 
-a) tevékenységi területen működő szakemberek képzésére és tudományos-oktatási programok támogatására,
+a) képzési és tudományos-oktatási programoknak,
 
-b) ágazatokban működő szervezetek ügyfeleinek tájékoztatására,
+b) tájékoztató, ismeretterjesztő anyagok készítésének és közzétételének,
 
-c) tevékenységekkel és döntésekkel kapcsolatos tájékoztatásra, tanulmányok és ismeretterjesztő anyagok készítésének és közzétételének támogatására,
+c) kulturális, művészeti, sport- és egészségügyi programoknak, valamint
 
-d) tevékenységi területen működő civil fogyasztóvédelmi szervezetek támogatására
+d) civil fogyasztóvédelmi szervezeteknek
 
-fordítható.
+a támogatására fordítható.
 
 (4) A tárgyévben a (3) bekezdés szerint rendelkezésre álló, de fel nem használt összeg a következő évre átvihető és azonos célokra felhasználható.
 
@@ -32,4 +32,4 @@ fordítható.
 
 (7) Törvényben, törvény felhatalmazása alapján kiadott jogszabályban vagy törvény alapján a Hivatal határozatában megállapított, a Hivatalnak fizetendő díj és annak késedelmi kamata köztartozásnak minősül, és adók módjára kell behajtani.
 
-(8) A (2) bekezdés a)–c) pontja szerinti bevételek – a központi költségvetésről szóló törvény eltérő rendelkezése hiányában – 40%-a a központi költségvetést illeti meg.
+(8) A (2) bekezdés a)–c) pontja szerinti bevételek 30%-a a központi költségvetést illeti meg. A központi költségvetésről szóló törvény ennél alacsonyabb mértéket határozhat meg.

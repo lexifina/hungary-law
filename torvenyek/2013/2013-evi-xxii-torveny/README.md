@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-22-00-00
 | 2016-12-03 | 2016. évi CXX. törvény | 2013-22-00-00.10 |
 | 2016-12-21 | 2016. évi CLXXXIII. törvény | 2013-22-00-00.11 |
 | 2018-01-01 | 2010. évi CXXX. törvény | 2013-22-00-00.12 |
+| 2018-08-01 | 2018. évi XXXIX. törvény | 2013-22-00-00.13 |

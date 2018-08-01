@@ -8,7 +8,7 @@
 
 a) a Hivatal felügyelete alá tartozó ternmészetes személy, jogi személy vagy egyéb szervezet, akire vagy amelyre nézve a Hivatal jogot vagy kötelezettséget állapít meg,
 
-b) akit a Hivatal ellneőrzése során vagy panaszeljárásban vizsgálat alá von, illetve adatszolgáltatásra kötelez,
+b) akit a Hivatal ellenőrzése során vagy panaszeljárásban vizsgálat alá von, illetve adatszolgáltatásra kötelez,
 
 c) aki jogszabály alapján arra jogosultként kérelmet nyújt be.
 
