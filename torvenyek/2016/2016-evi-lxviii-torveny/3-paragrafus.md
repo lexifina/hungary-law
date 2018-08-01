@@ -138,9 +138,9 @@ b) az adófelfüggesztési eljárás keretében végzett szállítás során a f
 
 c) a szabadforgalomba bocsátott jövedéki termék tagállamok közötti kereskedelmi célú és csomagküldő kereskedelem keretében végzett szállítása során a szállítmány egésze vagy annak egy része nem érkezik meg a címzetthez, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék kivételével,
 
-d) az adófelfüggesztési eljárás keretében az adóraktárban tárolt jövedéki termék mennyiségében hiány mutatkozik, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék kivételével,
+d) az adófelfüggesztési eljárás keretében az adóraktárban tárolt jövedéki termék mennyiségében hiány mutatkozik, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék és a 24. § (2) bekezdés e) pontja szerint bejelentett hiány kivételével,
 
-e) az adózatlan jövedéki terméket adóraktáron kívül tárolják,
+e) az adózatlan jövedéki terméket adóraktáron kívül birtokolják,
 
 f) a jövedéki terméket a 19. § megsértésével állítják elő,
 

@@ -38,7 +38,9 @@ oc) a 3. § (1) bekezdés 44. pont e) alpontjában meghatározott szabálytalans
 
 od) a 3. § (1) bekezdés 44. pont f) alpontjában meghatározott szabálytalanság esetében a jövedéki termék előállítóját és minden olyan személyt, aki a szabálytalan előállításban részt vesz,
 
-oe) a 3. § (1) bekezdés 44. pont g) alpontjában meghatározott szabálytalanság esetében a szabálytalan importálásban résztvevő személyt
+oe) a 3. § (1) bekezdés 44. pont g) alpontjában meghatározott szabálytalanság esetében a szabálytalan importálásban résztvevő személyt,
+
+p) 7. § (2) bekezdés i) pontja szerinti esetben a bejelentőt
 
 terheli.
 

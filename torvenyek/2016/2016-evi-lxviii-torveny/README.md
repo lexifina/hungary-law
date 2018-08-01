@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-68-00-00
 | 2018-01-01 | 2017. évi CLIX. törvény | 2016-68-00-00.10 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2016-68-00-00.11 |
 | 2018-07-26 | 2018. évi XLI. törvény | 2016-68-00-00.12 |
+| 2018-08-01 | 2018. évi XLI. törvény | 2016-68-00-00.13 |
