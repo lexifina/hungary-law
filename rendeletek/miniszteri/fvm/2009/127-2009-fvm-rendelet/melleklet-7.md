@@ -1,180 +1,136 @@
-## A. Borászati termékek készletjelentése
+## A. Bor- és mustkészlet jelentés
 
-| Borvidék: | Adatszolgáltató neve |  |  |  |  |  |  |  |
+## (július 31-i állapot) Beadási határidő: augusztus 15.
 
-| Hegyközség | Címe: |  |  |  |  |  |  |  |
+| Borvidék: | Hegyközség: |  |
 
-|  | GA száma: |  |  |  |  |  |  |  |
+|  |  | .......Év |
 
-|  |  | A | B | C | D | E | F | G |
+| Hegyközségi tag/Adatszolgáltató neve: |  |
 
-|  | 1. | Borászati termékek kategóriái | Saját készlet (hl) | Bértárolásra átvett készlet (hl) |
+| Címe: |  |  |
 
-|  | 2. | Fehér | Vörös/rozé | Összesen | Fehér | Vörös/rozé | Összesen |
-
-|  | 3. | Borok: |  |  |  |  |  |  |
-
-|  | 4. | ............ OEM |  |  |  |  |  |  |
-
-|  | 5. | ............ OEM |  |  |  |  |  |  |
-
-|  | 6. | ............ OFJ |  |  |  |  |  |  |
-
-|  | 7. | ............ OFJ |  |  |  |  |  |  |
-
-|  | 8. | Nem OEM/ OFJ fajtabor |  |  |  |  |  |  |
-
-|  | 9. | Nem OEM/ OFJ bor |  |  |  |  |  |  |
-
-|  | 10. | Az EU más tagországaiból származó borok |  |  |  |  |  |  |
-
-|  | 11. | Harmadik országból származó borok |  |  |  |  |  |  |
-
-|  | 12. | Pezsgő1: |  |  |  |  |  |  |
-
-|  | 13. | Mustok: |  |  |  |  |  |  |
-
-|  | 14. | Sűrített szőlőmust |  |  |  |  |  |  |
-
-|  | 15. | Finomított szőlőmust-sűrítmény |  |  |  |  |  |  |
-
-|  | 16. | Tartósított must |  |  |  |  |  |  |
-
-|  | 17. | Részben erjedt szőlőmust |  |  |  |  |  |  |
-
-|  | 18. | Kiszerelt fröccs |  |  |  |  |  |  |
-
-|  | 19. | Egyéb |  |  |  |  |  |  |
-
-## 1 Pezsgő: pezsgő, minőségi pezsgő, illatos minőségi pezsgő összesen
-
-## Kelt:
-
-## hegyközségi tag/adatszolgáltató
-
-## aláírása
-
-## B. Jelentés a palackos erjesztésű pezsgő, minőségi pezsgő készletváltozásáról
-
-## (egyszerűsített adóraktár engedélyes, kisüzemi bortermelő)
-
-| Borvidék: | Adatszolgáltató neve |
-
-| Hegyközség | Címe: |
-
-|  | GA száma: |
+| GA száma: |  |  |
 
 |  | A | B | C | D |
 
-| 1. |  | Jogcím | Adózatlan (hl) | Adózott (hl) |
+| 1. | Borászati termékek kategóriái | Készletmennyiség (hl) |
 
-| 2. | Nyitókészlet |  |  |
+| 2. | (termékkategória csoport) | fehér | vörös/rozé | Összesen |
 
-| 3. | Növekedés | Saját előállítás |  |  |
+| 3. | Borok |
 
-| 4. |  | Adóraktárból betárolt |  |  |
+| 4. | ............ OEM |  |  |  |
 
-| 5. |  | Egyéb növekedés |  |  |
+| 5. | ............ OEM |  |  |  |
 
-| 6. |  | Növekedés összesen (3-5. sorok összesen) |  |  |
+| 6. | ............ OFJ |  |  |  |
 
-| 7. | Csökkenés | Adóköteles fogyasztás |  |  |
+| 7. | ............ OFJ |  |  |  |
 
-| 8. |  | Adómentes fogyasztás |  |  |
+| 8. | Nem OEM/ OFJ fajtabor |  |  |  |
 
-| 9. |  | Másik adóraktárba kitárolt (bérmunka, bértároltatás) |  |  |
+| 9. | Nem OEM/ OFJ bor |  |  |  |
 
-| 10. |  | Harmadik országba kitárolt |  |  |
+| 10. | Az EU más tagországaiból származó borok |  |  |  |
 
-| 11. |  | Tagállamba adófelfüggesztéssel kitárolt |  |  |
+| 11. | Harmadik országból származó borok |  |  |  |
 
-| 12. |  | Tagállamba nem adófelfüggesztéssel kitárolt |  |  |
+| 12. | Mustok |
 
-| 13. |  | Belföldön szabadforgalomba bocsátott |  |  |
+| 13. | Sűrített szőlőmust |  |  |  |
 
-| 14. |  | Igazoltan megsemmisült |  |  |
+| 14. | Finomított szőlőmust-sűrítmény |  |  |  |
 
-| 15. |  | Mintaként vett |  |  |
+| 15. | Tartósított must |  |  |  |
 
-| 16. |  | Egyéb adóköteles csökkenés |  |  |
+| 16. | Részben erjedt szőlőmust |  |  |  |
 
-| 17. |  | Egyéb nem adóköteles csökkenés |  |  |
+| 17. | Egyéb |
 
-| 18. |  | Tényleges veszteség |  |  |
+| 18. | Kiszerelt fröccs |  |  |  |
 
-| 19. |  | Csökkenés összesen (7-18. sorok összege) |  |  |
+## B. Jelentés a palackos erjesztésű pezsgő készletváltozásáról (egyszerűsített adóraktár engedélyes, kisüzemi bortermelő)
 
-| 20. | Zárókészlet (1. sor és 6. sor összege, és a 19. sor különbözete) |  |  |
+## (július 31-i állapot) Beadási határidő: augusztus 15.
 
-| 21. |  | Elszámolható veszteség |  |  |
+| Borvidék: | Hegyközség: |  |
 
-| 22. |  | Adóköteles hiány (18. sor és a 21. sor különbözete) |  |  |
+|  |  | .......Év |
 
-## Kelt:
+| Hegyközségi tag/Adatszolgáltató neve |  |
 
-## hegyközségi tag/adatszolgáltató
+| Címe: |  |  |
 
-## aláírása
+| GA száma: |  |  |
+
+| Jogcím | Adózatlan hl | Adózott hl |
+
+| Nyitókészlet |  |  |  |
+
+| Növekedés | Saját előállítás |  |  |
+
+|  | Adóraktárból betárolt |  |  |
+
+|  | Egyéb növekedés |  |  |
+
+|  | Növekedés összesen |  |  |
+
+| Csökkenés | Adóköteles fogyasztás |  |  |
+
+|  | Másik adóraktárba kitárolt* |  |  |
+
+|  | Harmadik országba kitárolt |  |  |
+
+|  | Tagállamba adófelfüggesztéssel kitárolt |  |  |
+
+|  | Belföldön szabadforgalomba bocsátott |  |  |
+
+|  | Igazoltan megsemmisült |  |  |
+
+|  | Mintaként vett |  |  |
+
+|  | Egyéb adóköteles csökkenés |  |  |
+
+|  | Egyéb nem adóköteles csökkenés |  |  |
+
+|  | Tényleges veszteség |  |  |
+
+|  | Csökkenés összesen |  |  |
+
+| Záró készlet |  |  |  |
+
+|  | Elszámolható veszteség |  |  |
+
+|  | Adóköteles hiány |  |  |
+
+## * bérmunka, bértárolás
+
+## Kelt: .....................
+
+## ........................................................................
+
+## hegyközségi tag/adatszolgáltató aláírása
 
 ## C. Egyéb készletváltozások elszámolása
 
-## (Elszámolási időszak: borpiaci év (előző év 08.01-től aktuális év 07.31-ig )
+| Adott borpiaci évben keletkezett borseprő mennyisége |  |
 
-| Borvidék: | Adatszolgáltató neve |
+| Adott borpiaci évben a termékelőállítás során ténylegesen keletkezett veszteség |  |
 
-| Hegyközség | Címe: |
+| Adómentes bor fogyasztás |  |
 
-|  | GA száma: |
+## Kelt: .....................
 
-|  | A | B |
+## ......................................................................................
 
-| 1. | Keletkezett törköly mennyisége (q) |  |
+## hegyközségi tag/adatszolgáltató aláírása
 
-| 2. | Adott borpiaci évben keletkezett borseprő mennyisége (hl) |  |
+## D. Elszámolás a hivatalos zár készletről
 
-| 3. | Adott borpiaci évben a termék előállítása során ténylegesen keletkezett veszteség (hl) |  |
+|  | A | B | C | D | E |
 
-| 4. | Adómentes borfogyasztás (hl) |  |
-
-| 5. | Adóköteles borfogyasztás (hl) |  |
-
-## Kelt:
-
-## hegyközségi tag/adatszolgáltató
-
-## aláírása
-
-## D. Elszámolás hivatalos zár készletről
-
-| Borvidék: | Adatszolgáltató neve |
-
-| Hegyközség | Címe: |
-
-|  | GA száma: |
-
-|  | A | B | C | D | E | F |
-
-| 1. | A hivatalos zár típusa és kezdősorszáma | Nyitókészlet (db) | Beszerzett mennyiség (db) | Felhasznált mennyiség (db) | A megsemmisült, elveszett hivatalos zárak (db) | Készleten lévő mennyiség (db) |
-
-| 2. |  |  |  |  |  |  |
-
-| 3. |  |  |  |  |  |  |
-
-| 4. |  |  |  |  |  |  |
-
-| 5. |  |  |  |  |  |  |
-
-| 6. |  |  |  |  |  |  |
-
-| 7. |  |  |  |  |  |  |
-
-| 8. |  |  |  |  |  |  |
-
-## Kelt:
-
-## hegyközségi tag/adatszolgáltató
-
-## aláírása
+|  | A hivatalos zár típusa | Nyitókészlet (db) | Beszerzett mennyiség (db) | Felhasznált mennyiség (db) | Készleten lévő mennyiség (db) |
 
 7. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^243]
 

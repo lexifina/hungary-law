@@ -68,4 +68,4 @@
 
 5. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^241]
 
-[^241]: Az 5. melléklet a 19/2018. (VII. 27.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^241]: Az 5. számú melléklet az 59/2017. (XII. 18.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
