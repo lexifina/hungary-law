@@ -1,1 +1,1 @@
-### 110. §
+110. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 106. § (2) bekezdésében a „kizárólag a 104. § (1) bekezdésében meghatározott tiszteletdíj 30%-ára” szövegrész helyébe az „a 104. § (1) vagy (2) bekezdésében meghatározott tiszteletdíjra is” szöveg lép.
