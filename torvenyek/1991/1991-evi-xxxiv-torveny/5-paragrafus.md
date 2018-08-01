@@ -1,4 +1,4 @@
-5. § (1) A Ktv. 5. § (1) bekezdése szerinti nyilvános pályázat kiírása esetén az adópolitikáért felelős miniszter a pályázat nyertesével kötheti meg a koncessziós szerződést.
+5. § (1) A Ktv. 5. § (1) bekezdése szerinti nyilvános pályázat kiírása esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter a pályázat nyertesével kötheti meg a koncessziós szerződést.
 
 (2) Koncessziós szerződés e törvény különös rendelkezéseiben meghatározott határozott időtartamra köthető.
 

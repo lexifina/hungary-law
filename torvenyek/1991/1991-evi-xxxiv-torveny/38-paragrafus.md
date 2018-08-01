@@ -22,7 +22,7 @@ részletes szabályait rendeletben állapítsa meg.
 
 (1b) Felhatalmazást kap a Kormány, hogy a szerencsejáték-felügyeleti hatóságot rendeletben kijelölje és e hatóság törvényben meghatározott feladatai végrehajtási szabályait rendeletben meghatározza.
 
-(2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a szerencsejáték-szervezés állami felügyeletéért felelős miniszterrel egyetértésben
+(2) Felhatalmazást kap a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, hogy
 
 a) a szerencsejátékok személyi, tárgyi és gazdasági feltételeivel,
 
@@ -34,17 +34,11 @@ d) a sorsolásos játékokkal és a fogadásokkal,
 
 e) a pénznyerő automaták, a játékautomaták, a kártyatermek és a játékkaszinók üzemeltetésével,
 
-f) a gazdátlan, szerencsejáték keretében használt játékeszköznek a Polgári Törvénykönyvben foglaltaktól eltérő tulajdonszerzésével
+f) a gazdátlan, szerencsejáték keretében használt játékeszköznek a Polgári Törvénykönyvben foglaltaktól eltérő tulajdonszerzésével,
 
-g)
+g) a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és a szerencsejáték-felügyeleti hatóság feladataival,
 
-h)
-
-i) a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és a szerencsejáték-felügyeleti hatóság feladataival,
-
-j)
-
-k) a pénzforgalmi szolgáltató 13/A. § (1) bekezdés szerinti eljárásával és ezen eljárás ellenőrzésével
+h) az adópolitikáért felelős miniszterrel egyetértésben a pénzforgalmi szolgáltató 13/A. § (1) bekezdés szerinti eljárásával és ezen eljárás ellenőrzésével
 
 kapcsolatos részletes szabályokat rendeletben határozza meg.
 
