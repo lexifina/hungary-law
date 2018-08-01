@@ -34,6 +34,40 @@
 
 | 14. | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-200849 | 2022. december 31. |
 
+| 15. | DAKK Dél-alföldi Közlekedési Központ Zártkörűen működő Részvénytársaság | 03-10-100546 | 2022. december 31. |
+
+| 16. | Dél-dunántúli Közlekedési Központ Zártkörűen működő Részvénytársaság | 14-10-300286 | 2022. december 31. |
+
+| 17. | DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársaság | 13-10-040189 | 2022. december 31. |
+
+| 18. | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság | 14-10-300050 | 2022. december 31. |
+
+| 19. | ÉNYKK Északnyugat-magyarországi Közlekedési Központ Zártkörűen működő Részvénytársaság | 18-10-100701 | 2022. december 31. |
+
+| 20. | ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság | 05-10-000123 | 2022. december 31. |
+
+| 21. | Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság | 11-10-001450 | 2022. december 31. |
+
+| 22. | Észak-magyarországi Közlekedési Központ Zártkörűen működő Részvénytársaság | 05-10-000500 | 2022. december 31. |
+
+| 23. | KMKK Középkelet-magyarországi Közlekedési Központ Zártkörűen működő Részvénytársaság | 16-10-001794 | 2022. december 31. |
+
+| 24. | KNYKK Középnyugat-magyarországi Közlekedési Központ Zártkörűen működő Részvénytársaság | 11-10-001682 | 2022. december 31. |
+
+| 25. | MVM Magyar Villamos Művek Zártkörűen Működő Részvénytársaság | 01-10-041828 | 2022. december 31. |
+
+| 26. | NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zártkörűen Működő Részvénytársaság | 01-10-048725 | 2022. december 31. |
+
+| 27. | NHSZ Nemzeti Hulladékgazdálkodási Szolgáltató Korlátolt Felelősségű Társaság | 01-09-990421 | 2022. december 31. |
+
+| 28. | Szerencsejáték Zártkörűen Működő Részvénytársaság | 01-10-041628 | 2022. december 31. |
+
+| 29. | Tiszamenti Regionális Vízművek Zártkörűen működő Részvénytársaság | 16-10-001558 | 2022. december 31. |
+
+| 30. | VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság | 01-10-042156 | 2022. december 31. |
+
+| 31. | VOLÁN Buszpark Kereskedelmi és Szolgáltató Kft. | 01-09-284691 | 2022. december 31. |
+
 ## II. Tulajdonosi joggyakorló: az Agrárminisztérium
 
 |  | A | B | C |
@@ -122,6 +156,12 @@
 
 | 29. | Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 01-09-919878 | 2022. december 31. |
 
+| 30. | Forum Hungaricum Nonprofit Korlátolt Felelősségű Társaság | 04-09-013922 | 2022. december 31. |
+
+| 31. | „LÉTA-MENTÁL” Szabolcs-Szatmár-Bereg Megyei Eltérő Képességű Fiatalokat Foglalkoztató, Szolgáltató és Kereskedelmi Közhasznú Nonprofit Kft. | 15-09-074562 | 2022. december 31. |
+
+| 32. | Monostori Erőd Hadkultúra Központ Műemlékhelyreállító, Ingatlanfenntartó és -hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 11-09-014785 | 2022. december 31. |
+
 ## V. Tulajdonosi joggyakorló: a Honvédelmi Minisztérium
 
 |  | A | B | C |
@@ -137,6 +177,8 @@
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
 | 1. | Magyar Közlöny Lap- és Könyvkiadó Korlátolt Felelősségű Társaság | 01-09-269016 | 2022. december 31. |
+
+| 2. | Országos Fordító és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság | 01-10-042469 | 2022. december 31. |
 
 ## VII. Tulajdonosi joggyakorló: az Innovációs és Technológiai Minisztérium
 
@@ -154,11 +196,11 @@
 
 | 5. | KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-890710 | 2022. december 31. |
 
-| 6. | MFK Magyar Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-200580 | 2022. december 31. |
+| 6. | Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-968419 | 2022. december 31. |
 
 | 7. | Neumann János Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 01-09-920343 | 2022. december 31. |
 
-| 8. | Nitrokémia Környezetvédelmi Tanácsadó és Szolgáltató Zártkörűen Működő Részvénytársaság | 19-10-500074 | 2022. december 31. |
+| 8. | Dél-Pest Megyei Térségi Integrált Szakképző Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-292926 | 2022. december 31. |
 
 | 9. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2022. december 31. |
 
@@ -174,7 +216,9 @@
 
 | 1. | KKM Oktatási és Rekreációs Korlátolt Felelősségű Társaság | 01-09-203215 | 2022. december 31. |
 
-| 2. | Országos Fordító és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság | 01-10-042469 | 2022. december 31. |
+| 2. | MFK Magyar Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-200580 | 2022. december 31. |
+
+| 3. | Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság | 01-09-327932 | 2022. december 31. |
 
 ## IX. Tulajdonosi joggyakorló: a Miniszterelnöki Kabinetiroda
 
@@ -182,19 +226,19 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 08-09-027255 | 2022. december 31. |
+| 1. |  |  |  |
 
-| 2. | Gödöllői Királyi Kastély Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 13-14-000003 | 2022. december 31. |
+| 2. |  |  |  |
 
-| 3. | Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 20-09-069758 | 2022. december 31. |
+| 3. |  |  |  |
 
 | 4. | Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-041364 | 2022. december 31. |
 
-| 5. | Monostori Erőd Hadkultúra Központ Műemlékhelyreállító, Ingatlanfenntartó és -hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 11-09-014785 | 2022. december 31. |
+| 5. |  |  |  |
 
-| 6. | Nereus Park Hotel Idegenforgalmi Korlátolt Felelősségű Társaság | 19-09-000731 | 2022. december 31. |
+| 6. |  |  |  |
 
-| 7. | ÓNTE Ópusztaszeri Nemzeti Történeti Emlékpark Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 06-09-014162 | 2022. december 31. |
+| 7. |  |  |  |
 
 ## X. Tulajdonosi joggyakorló: a Miniszterelnökség
 
@@ -242,4 +286,6 @@
 
 | 2. | PIP Közép-Duna Menti Térségfejlesztési Nonprofit Korlátolt Felelősségű Társaság | 17-09-003039 | 2022. december 31. |
 
-2. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez
+2. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^3]
+
+[^3]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése szerint módosított szöveg.
