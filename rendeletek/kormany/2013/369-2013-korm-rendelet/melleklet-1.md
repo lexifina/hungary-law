@@ -38,7 +38,7 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.3.2. népkonyha,
 
-3.1.3.3. egyéb főzőhely,
+3.1.3.3.
 
 3.1.4. házi segítségnyújtás: az ellátható személyek száma,
 
@@ -390,4 +390,4 @@ A szolgáltatói nyilvántartás adatai
 
 6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
 
-[^156]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a, a 191/2016. (VII. 13.) Korm. rendelet 18. § a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 54. § (1)–(2) bekezdése és 55. § (1) bekezdése, a 381/2017. (XII. 11.) Korm. rendelet 18. §-a, a 457/2017. (XII. 28.) Korm. rendelet 457. § 17–18. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^156]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a, a 191/2016. (VII. 13.) Korm. rendelet 18. § a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 54. § (1)–(2) bekezdése és 55. § (1) bekezdése, a 381/2017. (XII. 11.) Korm. rendelet 18. és 20. §-a, a 457/2017. (XII. 28.) Korm. rendelet 457. § 17–18. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
