@@ -10,24 +10,28 @@ c) a KÁT mérlegkör működtetéséhez kötődő pénzforgalmi szaldóját.
 
 (2) A KÁT pénzeszköz mértéke a (3) bekezdésben felsorolt tételek összege és az összesített tény értékesítési adat hányadosa.
 
-(3) A KÁT pénzeszköz mértékének meghatározása során a Befogadó a következő tételeket köteles előjelhelyesen figyelembe venni:
+(3)[^3] A KÁT pénzeszköz mértékének meghatározása során a Befogadó a következő tételeket köteles előjelhelyesen figyelembe venni:
 
-a)[^3] a KÁT termelőnek a kereskedelmi szabályzatban meghatározott elszámolási mérési adatok előzetes szolgáltatása és a vonatkozó Korm. rendelet alapján kalkulált tárgyhavi tény termelése zónaidőnkénti bontásban és a vonatkozó kormányrendeletben meghatározott, a KÁT termelőre vonatkozó hatósági ár szorzatainak összegét;
+a) a KÁT termelőnek a kereskedelmi szabályzatban meghatározott elszámolási mérési adatok előzetes szolgáltatása és a vonatkozó Korm. rendelet alapján kalkulált tárgyhavi tény termelése zónaidőnkénti bontásban és a vonatkozó kormányrendeletben meghatározott, a KÁT termelőre vonatkozó hatósági ár szorzatainak összegét;
 
-b) a KÁT termelőtől tárgyhónapban befolyt pótdíjak, valamint a jogosulatlanul értékesített villamos energia után fizetett visszatérítések összegét;
+b) a KÁT termelőtől tárgyhónapban befolyt pótdíjak, valamint a jogosulatlanul értékesített villamos energia után tárgyhónapban fizetett visszatérítések összegét;
 
 c) a KÁT mérlegkör kiegyenlítése során a KÁT mérlegkörre vonatkozó, a kereskedelmi szabályzatban meghatározott előzetes elszámolási adatok alapján a tárgyhónapban igénybe vett szabályozási energia költségét;
 
-d) a KÁT mérlegkör folyamatos rövid távú likviditásához kapcsolódó pénzügyi ráfordítások és bevételek tárgyhavi összegét, beleértve az igazolt banki költségeket és kamatokat is;
+d) a KÁT termelőre tárgyhónapra kirótt szabályozási pótdíj összegét;
 
-e) a KÁT mérlegkör-felelősi feladatok elvégzésének a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által elismert indokolt, korábban még nem érvényesített működtetési költségeit;
+e) a KÁT termelőnek tárgyhónapra megállapított szabályozási bónusz összegét;
 
-f) a szervezett villamosenergia-piacon történő tárgyhavi ügyletkötésekből származó bevételek összegét a Befogadó által a kereskedelmi szabályzat szerint meghatározott átváltási árfolyamon;
+f) a KÁT mérlegkör folyamatos rövid távú likviditásához kapcsolódó pénzügyi ráfordítások és bevételek tárgyhavi összegét, beleértve az igazolt banki költségeket és kamatokat is;
 
-g) a szervezett villamosenergia-piacon történő ügyletkötésekkel összefüggő tárgyhavi technikai költségek összegét a Befogadó által a kereskedelmi szabályzat szerint meghatározott átváltási árfolyamon;
+g) a KÁT mérlegkörfelelősi feladatok elvégzésének a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által elismert indokolt, korábban még nem érvényesített működtetési költségeit;
 
-h) a tárgyhónapot megelőző termelési időszak a) és c) pont szerint meghatározott összegeinek még figyelembe nem vett módosulásait;
+h) a szervezett villamosenergia-piacon történő tárgyhavi ügyletkötésekből származó bevételek összegét a Befogadó által a kereskedelmi szabályzat szerint meghatározott átváltási árfolyamon;
 
-i) a tárgyhónapot megelőző termelési időszakban a KÁT és Prémium pénzeszköz fizetésére kötelezettek tény értékesítési adatának módosulása miatti, a KÁT pénzeszköz korábban megfizetett összegének még figyelembe nem vett módosulásai szerint befolyó többletbevételeket vagy visszatérítéseket.
+i) a szervezett villamosenergia-piacon történő ügyletkötésekkel összefüggő tárgyhavi technikai költségek összegét a Befogadó által a kereskedelmi szabályzat szerint meghatározott átváltási árfolyamon;
 
-[^3]: Az 5. § (3) bekezdés a) pontja a 43/2017. (XI. 8.) NFM rendelet 29. § (1) bekezdésével megállapított szöveg.
+j) a tárgyhónapot megelőző termelési időszak a) és c)–e) pont szerint meghatározott összegeinek még figyelembe nem vett módosulásait;
+
+k) a tárgyhónapot megelőző termelési időszakban a KÁT és Prémium pénzeszköz fizetésére kötelezettek tény értékesítési adatának módosulása miatti, a KÁT pénzeszköz korábban megfizetett összegének még figyelembe nem vett módosulásai szerint befolyó többletbevételeket vagy visszatérítéseket.
+
+[^3]: Az 5. § (3) bekezdése a 43/2017. (XI. 8.) NFM rendelet 29. § (2) bekezdésével megállapított szöveg.
