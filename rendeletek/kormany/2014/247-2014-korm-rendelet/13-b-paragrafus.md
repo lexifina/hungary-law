@@ -1,4 +1,4 @@
-## 5/B. [^46] Kommunikációs beszerzésre, rendezvényszervezésre és a szponzorációra vonatkozó közös szabályok
+## 5/B. [^47] Kommunikációs beszerzésre, rendezvényszervezésre és a szponzorációra vonatkozó közös szabályok
 
 13/B. § (1) Az érintett szervezet köteles a megvalósított kommunikációs beszerzés, a szponzoráció, valamint a rendezvényszervezés eredményeképpen kötött szerződést (e szakasz alkalmazásában a továbbiakban együtt: szerződés) annak aláírásától számított 5 munkanapon belül a Hivatal részére megküldeni.
 
@@ -8,4 +8,4 @@
 
 (4) Amennyiben a Hivatal a (3) bekezdésben meghatározott határidőn belül nem tesz észrevételt, úgy a Hivatal hozzájárulását a szerződés módosításához megadottnak kell tekinteni.
 
-[^46]: Az 5/B. alcímet (13/B. §) a 99/2018. (VI. 8.) Korm. rendelet 11. §-a iktatta be.
+[^47]: Az 5/B. alcímet (13/B. §) a 99/2018. (VI. 8.) Korm. rendelet 11. §-a iktatta be.
