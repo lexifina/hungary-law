@@ -1,4 +1,4 @@
-## 5–6. §[^36]
+## 5–6. §[^44]
 
 7. § (1) Ez a rendelet 2007. december 31. napján lép hatályba.
 
@@ -6,6 +6,7 @@
 
 (3) E rendelet hatálybalépését megelőzően alkalmazott szoftverek esetében az e rendelet 4. §-a (1) bekezdésének b) pontjában és 5. §-a (4) bekezdésének df)–dg) pontjában foglalt feltételeket legkésőbb 2009. július 1-jéig kell teljesíteni.
 
-(4) A rendelet tervezetének a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
+(4)[^45] A rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-[^36]: Az 5–6. §-t a 8/2018. (II. 13.) EMMI rendelet 56. §-a hatályon kívül helyezte.
+[^44]: Az 5–6. §-t a 8/2018. (II. 13.) EMMI rendelet 56. §-a hatályon kívül helyezte.
+[^45]: A 7. § (4) bekezdése a 25/2018. (VII. 31.) EMMI rendelet 4. §-ával megállapított szöveg.
