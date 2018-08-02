@@ -102,6 +102,8 @@
 
 | 49 | 55 | 723 | 11 | Mentőápoló | Egészségügy | egészségügyért felelős miniszter |
 
+| 49a. | 55 | 723 | 17 | Mentésirányító | Egészségügy | egészségügyért felelős miniszter |
+
 | 50 | 55 | 725 | 14 | Mikrobiológiai szakasszisztens | Egészségügy | egészségügyért felelős miniszter |
 
 | 51 | 55 | 725 | 15 | Műtéti szakasszisztens | Egészségügy | egészségügyért felelős miniszter |
@@ -167,6 +169,8 @@
 | 81 | 55 | 212 | 04 | Jazz-zenész I. (a szakmairány megjelölésével) | Művészet, közművelődés, kommunikáció | kultúráért felelős miniszter |
 
 | 82 | 32 | 212 | 01 | Kaszkadőr (a tevékenység megjelölésével) | Művészet, közművelődés, kommunikáció | kultúráért felelős miniszter |
+
+| 82a. | 52 | 212 | 01 | Kaszkadőr szakértő | Művészet, közművelődés, kommunikáció | kultúráért felelős miniszter |
 
 | 83 | 34 | 211 | 02 | Kerámia, porcelán készítő (a szakmairány megjelölésével) | Művészet, közművelődés, kommunikáció | kultúráért felelős miniszter |
 
@@ -294,7 +298,7 @@
 
 | 145 | 54 | 211 | 03 | Festő | Művészet, közművelődés, kommunikáció | oktatásért felelős miniszter |
 
-| 146 | 52 | 140 | 01 | Fogyatékkal élők gondozója | Oktatás | oktatásért felelős miniszter |
+| 146 | 32 | 140 | 02 | Fogyatékkal élők gondozója | Oktatás | oktatásért felelős miniszter |
 
 | 147 | 54 | 215 | 01 | Gyakorló hangszerkészítő és -javító (a hangszercsoport megjelölésével) | Művészet, közművelődés, kommunikáció | oktatásért felelős miniszter |
 
@@ -396,7 +400,7 @@
 
 | 196 | 53 | 810 | 03 | Vakvezető kutya kiképzője | Szociális szolgáltatások | szociál- és nyugdíjpolitikáért felelős miniszter |
 
-2. melléklet a 27/2016. (IX. 16.) EMMI rendelethez
+2. melléklet a 27/2016. (IX. 16.) EMMI rendelethez[^3]
 
 Az 1. sorszámú Alapellátási közösségi szakápoló megnevezésű szakképesítés–ráépülés szakmai és vizsgakövetelménye
 
@@ -714,7 +718,7 @@ A szakképesítéssel rendelkező képes:
 
 – a beteget és a hozzátartozóját a rendelésekkel kapcsolatban tájékoztatni
 
-– – a beteget felkészteni a vizsgálatokra, segíteni a vizsgálat előtt, alatt és után
+– a beteget felkészteni a vizsgálatokra, segíteni a vizsgálat előtt, alatt és után
 
 – beavatkozásokhoz, vizsgálatokhoz előkészíteni
 
@@ -750,7 +754,7 @@ A szakképesítéssel rendelkező képes:
 
 – veszélyes hulladékot kezelni, elszállításra előkészíteni, dokumentálni
 
-– akadályozottsággal élő gyermekek és felnőttek ellátásában, gondozásában részt venni
+– fogyatékossággal élő személyek, gyermekek és felnőttek ellátásában, gondozásában részt venni
 
 3.3. Kapcsolódó szakképesítések
 
@@ -786,11 +790,9 @@ A szakképesítéssel rendelkező képes:
 
 5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
 
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
+5.1. A komplex vizsgára bocsátás feltételei:
 
 Az iskolarendszeren kívüli szakképzésben az 5.2. alpontban előírt valamennyi modulzáró vizsga eredményes letétele, az előírt szakmai gyakorlatok igazolt teljesítése.
-
-Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak – a szakképzési kerettantervben meghatározottak szerint – egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
 
 5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
 
@@ -921,6 +923,8 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 7.1. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
 
 Magyar Egészségügyi Szakdolgozói Kamara
+
+7.2. Az egészségügy ismeretek, illetve egészségügyi ismeretek közép és emeltszintű ágazati szakmai érettségi vizsga írásbeli vizsgarészének sikeres teljesítése mentesíti a vizsgázót, az 5.3.2. pontban foglaltak teljesítése alól. Az ágazati szakmai érettségi vizsga előzőekben meghatározott vizsgatárgyának eredményét a komplex szakmai vizsgába be kell számítani.
 
 A 3. sorszámú Aneszteziológiai szakasszisztens megnevezésű szakképesítés–ráépülés szakmai és vizsgakövetelménye
 
@@ -1244,85 +1248,87 @@ A szakképesítés–ráépüléssel rendelkező képes:
 
 – személyiségét és szakmai tudását folyamatosan, tervszerűen, tudatosan fejleszteni
 
-3.3. Kapcsolódó szakképesítések
+3.3. Kapcsolódó szakképesítések:
 
-|  |  | A | B | C |
+|  | A | B | C |
 
-|  | 3.3.1 | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés–ráépülés |
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
 
-|  | 3.3.2 | azonosító száma | megnevezése | a kapcsolódás módja |
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
 
-|  | 3.3.3 | 55 723 03 | Diabetológiai szakápoló és edukátor | szakképesítés–ráépülés |
+| 3.3.3. | 55 723 03 | Diabetológiai szakápoló és edukátor | szakképesítés-ráépülés |
 
-|  | 3.3.4 | 55 723 04 | Epidemiológiai szakápoló | szakképesítés–ráépülés |
+| 3.3.4. | 55 723 04 | Epidemiológiai szakápoló | szakképesítés-ráépülés |
 
-|  | 3.3.5 | 55 723 05 | Felnőtt intenzív szakápoló | szakképesítés–ráépülés |
+| 3.3.5. | 55 723 05 | Felnőtt intenzív szakápoló | szakképesítés-ráépülés |
 
-|  | 3.3.6 | 55 723 06 | Foglalkozásegészségügyi szakápoló | szakképesítés–ráépülés |
+| 3.3.6. | 55 723 06 | Foglalkozásegészségügyi szakápoló | szakképesítés-ráépülés |
 
-|  | 3.3.7 | 55 723 07 | Geriátriai és krónikus beteg szakápoló | szakképesítés–ráépülés |
+| 3.3.7. | 55 723 07 | Geriátriai és krónikus beteg szakápoló | szakképesítés-ráépülés |
 
-|  | 3.3.8 | 55 723 09 | Hospice szakápoló | szakképesítés–ráépülés |
+| 3.3.8. | 55 723 09 | Hospice szakápoló | szakképesítés-ráépülés |
 
-|  | 3.3.9 | 55 723 10 | Légzőszervi szakápoló | szakképesítés–ráépülés |
+| 3.3.9. | 55 723 10 | Légzőszervi szakápoló | szakképesítés-ráépülés |
 
-|  | 3.3.10 | 55 723 12 | Nefrológiai szakápoló | szakképesítés–ráépülés |
+| 3.3.10. | 55 723 12 | Nefrológiai szakápoló | szakképesítés-ráépülés |
 
-|  | 3.3.11 | 55 723 13 | Onkológiai szakápoló | szakképesítés–ráépülés |
+| 3.3.11. | 55 723 13 | Onkológiai szakápoló | szakképesítés-ráépülés |
 
-|  | 3.3.12 | 55 723 14 | Pszichiátriai szakápoló és gyógyfoglalkoztató | szakképesítés–ráépülés |
+| 3.3.12. | 55 723 14 | Pszichiátriai szakápoló és gyógyfoglalkoztató | szakképesítés-ráépülés |
 
-|  | 3.3.13 | 55 723 15 | Sürgősségi szakápoló | szakképesítés–ráépülés |
+| 3.3.13. | 55 723 15 | Sürgősségi szakápoló | szakképesítés-ráépülés |
 
-|  | 3.3.14 | 55 723 16 | Alapellátási közösségi szakápoló | szakképesítés–ráépülés |
+| 3.3.14. | 55 723 16 | Alapellátási szakápoló | szakképesítés-ráépülés |
 
-|  | 3.3.15 | 55 720 01 | Egészségügyi gyakorlatvezető | szakképesítés–ráépülés |
+| 3.3.15. | 55 725 01 | Aneszteziológiai szakasszisztens | szakképesítés-ráépülés |
 
-|  | 3.3.16 | 55 725 01 | Aneszteziológiai szakasszisztens | szakképesítés–ráépülés |
+| 3.3.16. | 55 725 04 | Endoszkópos szakasszisztens | szakképesítés-ráépülés |
 
-|  | 3.3.17 | 55 725 04 | Endoszkópos szakasszisztens | szakképesítés–ráépülés |
+| 3.3.17. | 55 725 15 | Műtéti szakasszisztens | szakképesítés-ráépülés |
 
-|  | 3.3.19 | 55725 15 | Műtéti szakasszisztens | szakképesítés–ráépülés |
+| 3.3.18. | 55 720 01 | Egészségügyi gyakorlatvezető | szakképesítés-ráépülés |
 
-|  | 3.3.20 | 54 720 01 | Perioperatív asszisztens | azonos ágazat |
+| 3.3.19. | 54 720 01 | Perioperatív asszisztens | azonos ágazat |
 
-|  | 3.3.21 | 54 720 02 | Fogászati asszisztens | azonos ágazat |
+| 3.3.20. | 54 720 02 | Fogászati asszisztens | azonos ágazat |
 
-|  | 3.3.22 | 54 720 03 | Gyógyszertári asszisztens | azonos ágazat |
+| 3.3.21. | 54 720 03 | Gyógyszertári asszisztens | azonos ágazat |
 
-|  | 3.3.23 | 54 723 01 | Gyakorló mentőápoló | azonos ágazat |
+| 3.3.22. | 54 723 01 | Gyakorló mentőápoló | azonos ágazat |
 
-|  | 3.3.24 | 54 723 03 | Gyakorló csecsemő– és gyermekápoló | azonos ágazat |
+| 3.3.23. | 54 723 03 | Gyakorló csecsemő- és gyermekápoló | azonos ágazat |
 
-|  | 3.3.25 | 54 725 02 | Audiológiai asszisztens és hallásakusztikus | azonos ágazat |
+| 3.3.24. | 54 725 02 | Audiológiai asszisztens és hallásakusztikus | azonos ágazat |
 
-|  | 3.3.26 | 54 725 03 | Fizioterápiás asszisztens | azonos ágazat |
+| 3.3.25. | 54 725 03 | Fizioterápiás asszisztens | azonos ágazat |
 
-|  | 3.3.27 | 54 725 04 | Gyakorló klinikai laboratóriumi asszisztens | azonos ágazat |
+| 3.3.26. | 54 725 04 | Gyakorló klinikai laboratóriumi asszisztens | azonos ágazat |
 
-|  | 3.3.28 | 54 725 05 | Gyakorló szövettani asszisztens | azonos ágazat |
+| 3.3.27. | 54 725 05 | Gyakorló szövettani asszisztens | azonos ágazat |
 
-|  | 3.3.29 | 54 725 06 | Kardiológiai és angiológiai szakasszisztens | azonos ágazat |
+| 3.3.28. | 54 725 06 | Kardiológiai és angiológiai asszisztens | azonos ágazat |
 
-|  | 3.3.30 | 54 725 07 | Klinikai neurofiziológiai asszisztens | azonos ágazat |
+| 3.3.29. | 54 725 07 | Klinikai neurofiziológiai asszisztens | azonos ágazat |
 
-|  | 3.3.31 | 54 725 09 | Radiográfiai asszisztens | azonos ágazat |
+| 3.3.30. | 54 725 09 | Radiográfiai asszisztens | azonos ágazat |
 
-|  | 3.3.32 | 54 726 03 | Ergoterapeuta | azonos ágazat |
+| 3.3.31. | 54 726 03 | Ergoterapeuta | azonos ágazat |
 
-|  | 3.3.33 | 54 726 04 | Gyógymasszőr | azonos ágazat |
+| 3.3.32. | 54 726 04 | Gyógymasszőr | azonos ágazat |
 
-|  | 3.3.34 | 55 723 02 | Csecsemő és gyermekápoló | azonos ágazat |
+| 3.3.33. | 55 723 02 | Csecsemő és gyermekápoló | azonos ágazat |
 
-|  | 3.3.35 | 55 723 11 | Mentőápoló | azonos ágazat |
+| 3.3.34. | 55 723 11 | Mentőápoló | azonos ágazat |
 
-|  | 3.3.36 | 55 725 11 | Klinikai fogászati higiénikus | azonos ágazat |
+| 3.3.35. | 55 723 17 | Mentésirányító | azonos ágazat |
 
-|  | 3.3.37 | 55 725 18 | Klinikai laboratóriumi szakasszisztens | azonos ágazat |
+| 3.3.36. | 55 725 11 | Klinikai fogászati higiénikus | azonos ágazat |
 
-|  | 3.3.38 | 55 725 21 | Szövettani szakasszisztens | azonos ágazat |
+| 3.3.37. | 55 725 18 | Klinikai laboratóriumi szakasszisztens | azonos ágazat |
 
-|  | 3.3.39 | 55 726 02 | Sportmasszőr | azonos ágazat |
+| 3.3.38. | 55 725 21 | Szövettani szakasszisztens | azonos ágazat |
+
+| 3.3.39. | 55 726 02 | Sportmasszőr | azonos ágazat |
 
 4. SZAKMAI KÖVETELMÉNYEK
 
@@ -1341,8 +1347,6 @@ A szakképesítés–ráépüléssel rendelkező képes:
 5.1. A komplex szakmai vizsgára bocsátás feltételei:
 
 Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak – a szakképzési kerettantervben meghatározottak szerint – egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
-
-Iskolarendszeren kívüli szakképzésben az 5.2. alpontban előírt valamennyi modulzáró vizsga eredményes letétele, és az előírt szakmai gyakorlatok igazolt teljesítése.
 
 5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele: –
 
@@ -1474,13 +1478,15 @@ Magyar Egészségügyi Szakdolgozói Kamara
 
 7.2. Az ápoló szakképesítés képzésének szervezésekor figyelembe kell venni a szakképesítések elismeréséről szóló Európai Parlament és Tanács 2005/36/EK. irányelvének, 3. szakasz 31. cikkében, valamint az V. mellékletében előírt minimálisan kötelező képzési feltételeket.
 
+7.3. Szakmai előképzettség: A 2.2. alpontban feltüntetett szakmai előképzettségen túl, szakmai előképzettségnek kell tekinteni az Országos Képzési Jegyzékről szóló 7/1993. (XII. 30.) MüM rendelet megjelenése előtt kiadott Általános ápolónő (ápoló), Felnőtt szakápoló, Ideg-elmeápoló, Pszichiátriai ápoló és gondozó, Körzeti betegápoló szakképesítést, ha a képzésre jelentkező szerepel az egészségügyről szóló törvény alapján vezetett egészségügyi dolgozók működési nyilvántartásában.
+
 Az 5. sorszámú Audiológiai asszisztens és hallásakusztikus megnevezésű szakképesítés szakmai– és vizsgakövetelménye
 
 1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
 
-1.1. A szakképesítés–ráépülés azonosító száma: 54 725 02
+1.1. A szakképesítés azonosító száma: 54 725 02
 
-1.2. Szakképesítés–ráépülés megnevezése: Audiológiai asszisztens és hallásakusztikus
+1.2. Szakképesítés megnevezése: Audiológiai asszisztens és hallásakusztikus
 
 1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: 2
 
@@ -1516,7 +1522,7 @@ Az 5. sorszámú Audiológiai asszisztens és hallásakusztikus megnevezésű sz
 
 3. PÁLYATÜKÖR
 
-3.1. A szakképesítés–ráépüléssel legjellemzőbben betölthető munkakör, munkakörök, foglalkozás, foglalkozások
+3.1. A szakképesítéssel legjellemzőbben betölthető munkakör, munkakörök, foglalkozás, foglalkozások
 
 |  | A | B | C |
 
@@ -1526,11 +1532,11 @@ Az 5. sorszámú Audiológiai asszisztens és hallásakusztikus megnevezésű sz
 
 | 3.1.3 | Hallásvizsgáló asszisztens |
 
-3.2. A szakképesítés–ráépülés munkaterületének rövid leírása:
+3.2. A szakképesítés munkaterületének rövid leírása:
 
 Az audiológiai szakasszisztens és hallásakusztikus megtervezi és elvégzi a szubjektív és objektív hallás vizsgálatokat. Aktívan részt vesz a hallássérült betegek rehabilitációjában. Felméri a páciens fizikai és pszichikai állapotát, a páciens szükségleteit, igényeit és mérlegeli a hallásjavító eszközök kiválasztását és illesztését befolyásoló tényezőket, hallásrehabilitációs tervet készít, majd ez alapján elvégzi a hallási rendszerek egyéni adaptálását. A szakmai, társadalombiztosítási, kereskedelmi, számviteli szabályok figyelembe vételével, kiszolgálja a hallásjavító– halláspótló, hallássegítő eszközöket, kiegészítőket, tartozékokat.
 
-A szakképesítés–ráépüléssel rendelkező képes:
+A szakképesítéssel rendelkező képes:
 
 – A fül betegségeinek ismeretében megítélni a hallásvizsgálatok elvégzésének lehetőségét
 
@@ -1570,63 +1576,65 @@ A szakképesítés–ráépüléssel rendelkező képes:
 
 – Kereskedelmi tevékenységet végezni (pénzt kezel, számlát készít, készletez, megrendel, nyilvántartást vezet)
 
-3.3. Kapcsolódó szakképesítések
+3.3. Kapcsolódó szakképesítések:
 
-6K68805_1
+8K26696M_1
 
 |  | A | B | C |
 
-| 3.3.1 | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés–ráépülés |
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
 
-| 3.3.2 | azonosító száma | megnevezése | a kapcsolódás módja |
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
 
-| 3.3.4 | 54 720 01 | Perioperatív asszisztens | azonos ágazat |
+| 3.3.3. | 54 720 01 | Perioperatív asszisztens | azonos ágazat |
 
-| 3.3.5 | 54 720 02 | Fogászati asszisztens | azonos ágazat |
+| 3.3.4. | 54 720 02 | Fogászati asszisztens | azonos ágazat |
 
-| 3.3.6 | 54 720 03 | Gyógyszertári asszisztens | azonos ágazat |
+| 3.3.5. | 54 720 03 | Gyógyszertári asszisztens | azonos ágazat |
 
-| 3.3.7 | 54 723 01 | Gyakorló mentőápoló | azonos ágazat |
+| 3.3.6. | 54 723 01 | Gyakorló mentőápoló | azonos ágazat |
 
-| 3.3.8 | 54 723 02 | Gyakorló ápoló | azonos ágazat |
+| 3.3.7. | 54 723 02 | Gyakorló ápoló | azonos ágazat |
 
-| 3.3.9 | 54 723 03 | Gyakorló csecsemő– és gyermekápoló | azonos ágazat |
+| 3.3.8. | 54 723 03 | Gyakorló csecsemő- és gyermekápoló | azonos ágazat |
 
-| 3.3.10 | 54 725 03 | Fizioterápiás asszisztens | azonos ágazat |
+| 3.3.9. | 54 725 03 | Fizioterápiás asszisztens | azonos ágazat |
 
-| 3.3.11 | 54 725 04 | Gyakorló klinikai laboratóriumi asszisztens | azonos ágazat |
+| 3.3.10. | 54 725 04 | Gyakorló klinikai laboratóriumi asszisztens | azonos ágazat |
 
-| 3.3.12 | 54 725 05 | Gyakorló szövettani asszisztens | azonos ágazat |
+| 3.3.11. | 54 725 05 | Gyakorló szövettani asszisztens | azonos ágazat |
 
-| 3.3.13 | 54 725 06 | Kardiológiai és angiológiai szakasszisztens | azonos ágazat |
+| 3.3.12. | 54 725 06 | Kardiológiai és angiológiai asszisztens | azonos ágazat |
 
-| 3.3.14 | 54 725 07 | Klinikai neurofiziológiai asszisztens | azonos ágazat |
+| 3.3.13. | 54 725 07 | Klinikai neurofiziológiai asszisztens | azonos ágazat |
 
-| 3.3.15 | 54 725 09 | Radiográfiai asszisztens | azonos ágazat |
+| 3.3.14. | 54 725 09 | Radiográfiai asszisztens | azonos ágazat |
 
-| 3.3.16 | 54 726 03 | Ergoterapeuta | azonos ágazat |
+| 3.3.15. | 54 726 03 | Ergoterapeuta | azonos ágazat |
 
-| 3.3.17 | 54 726 04 | Gyógymasszőr | azonos ágazat |
+| 3.3.16. | 54 726 04 | Gyógymasszőr | azonos ágazat |
 
-| 3.3.18 | 55 723 01 | Ápoló | azonos ágazat |
+| 3.3.17. | 55 723 01 | Ápoló | azonos ágazat |
 
-| 3.3.19 | 55 723 02 | Csecsemő és gyermekápoló | azonos ágazat |
+| 3.3.18. | 55 723 02 | Csecsemő és gyermekápoló | azonos ágazat |
 
-| 3.3.20 | 55 723 11 | Mentőápoló | azonos ágazat |
+| 3.3.19. | 55 723 11 | Mentőápoló | azonos ágazat |
 
-| 3.3.21 | 55 725 11 | Klinikai fogászati higiénikus | azonos ágazat |
+| 3.3.20. | 55 723 17 | Mentésirányító | azonos ágazat |
 
-| 3.3.22 | 55 725 18 | Klinikai laboratóriumi szakasszisztens | azonos ágazat |
+| 3.3.21. | 55 725 11 | Klinikai fogászati higiénikus | azonos ágazat |
 
-| 3.3.23 | 55 725 21 | Szövettani szakasszisztens | azonos ágazat |
+| 3.3.22. | 55 725 18 | Klinikai laboratóriumi szakasszisztens | azonos ágazat |
 
-| 3.3.24 | 55 726 02 | Sportmasszőr | azonos ágazat |
+| 3.3.23. | 55 725 21 | Szövettani szakasszisztens | azonos ágazat |
 
-| 3.3.25 | 55 720 01 | Egészségügyi gyakorlatvezető | szakképesítés–ráépülés |
+| 3.3.24. | 55 726 02 | Sportmasszőr | azonos ágazat |
+
+| 3.3.25. | 55 720 01 | Egészségügyi gyakorlatvezető | szakképesítés-ráépülés |
 
 4. SZAKMAI KÖVETELMÉNYEK
 
-6K68805_2
+8K26696M_2
 
 |  | A | B |
 
@@ -1662,7 +1670,7 @@ Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizo
 
 |  | A | B | C |
 
-| 5.2.1 | A szakképesítés–ráépülés szakmai követelménymoduljainak |
+| 5.2.1 | A szakképesítés szakmai követelménymoduljainak |
 
 | 5.2.2 | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
 
@@ -2165,6 +2173,8 @@ Az iskolarendszeren kívüli szakképzésben az 5.2. alpontban előírt valamenn
 | 5.2.6. | 11498–12 | Foglalkoztatás I. (érettségire épülő képzések esetén) | írásbeli |
 
 | 5.2.7. | 11499–12 | Foglalkoztatás II. | írásbeli |
+
+| 5.2.8. | 11500-12 | Munkahelyi egészség és biztonság | írásbeli |
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább elégségesre (2) értékelhető.
 
@@ -2804,6 +2814,8 @@ A szakképesítés–ráépüléssel rendelkező képes:
 
 | 3.3.34 | 55 726 02 | Sportmasszőr | azonos ágazat |
 
+| 3.3.35. | 55 723 17 | Mentésirányító | azonos ágazat |
+
 4. SZAKMAI KÖVETELMÉNYEK
 
 |  |  | A | B |
@@ -3030,11 +3042,15 @@ A szakképesítés–ráépüléssel kapcsolatos előírások a http:/nive.hu/ w
 
 7. EGYEBEK
 
-7.1. Szakmai előképzettség: a 2.2. alpontban feltüntetett szakmai előképzettségen túl, szakmai előképzettségnek kell tekinteni az ápolás és betegellátás, illetve az egészségügyi gondozás és prevenció szakirány alap és mesterképzési szakjain szerzett ápolói, védőnői szakképzettséget.
-
-7.2. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
+7.1. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
 
 Magyar Egészségügyi Szakdolgozói Kamara
+
+7.2. Szakmai előképzettség: A 2.2. alpontban feltüntetett szakmai előképzettségen túl, szakmai előképzettségnek kell tekinteni:
+
+- az Országos Képzési Jegyzékről szóló 7/1993. (XII. 30.) MüM rendelet megjelenése előtt kiadott Csecsemő- és gyermekápoló, Gyermekápoló, Gyermek ideg- elmeápoló és gondozó, Gyermek ideg- elmeápoló szakképesítést, ha a képzésbe jelentkező szerepel az egészségügyről szóló. törvény alapján vezetett egészségügyi dolgozók működési nyilvántartásában,
+
+- az ápolás és betegellátás, illetve az egészségügyi gondozás és prevenció szakirány alap és mesterképzési szakjain szerzett ápolói, védőnői szakképzettséget.
 
 A 11. sorszámú Diabetológiai szakápoló és edukátor megnevezésű szakképesítés–ráépülés szakmai és vizsgakövetelménye
 
@@ -3310,7 +3326,7 @@ A szakképesítéssel rendelkező képes:
 
 – Felismerni a hátrányos, vagy halmozottan hátrányos helyzetben lévő egyéneket és családokat, egyszerű probléma–térképet készíteni
 
-– Felismerni az akadályozottság különböző formáit, segíti a családot az ellátásban való hozzáférésben, valamint az egyszerűbb akadálymentesítési feladatok szervezésében, elvégzésében
+– Felismerni a fogyatékosság különböző formáit, segíti a családot az ellátásban való hozzáférésben, valamint az egyszerűbb akadálymentesítési feladatok szervezésében, elvégzésében
 
 – Kapcsolatot tartani a rászoruló családokkal, együttműködik a megélhetési problémákból fakadó krízishelyzetek kezelésében, megoldásában
 
@@ -3368,17 +3384,15 @@ A szakképesítéssel rendelkező képes:
 
 | 4.2. | azonosító száma | megnevezése |
 
-| 4.3. | 11491–12 | Kommunikáció és interakció a segítő munkában |
+| 4.3. | 11491-12 | Kommunikáció és interakció a segítő munkában |
 
-| 4.4. | 11492–12 | Egészséggondozás és egészségfejlesztés a segítő munkában |
+| 4.4. | 11492-12 | Egészséggondozás és egészségfejlesztés a segítő munkában |
 
-| 4.5. | 11493–12 | Alapszintű elsősegélynyújtás, tűz és környezetvédelem |
+| 4.5. | 11493-12 | Alapszintű elsősegélynyújtás, tűz és környezetvédelem |
 
-| 4.6. | 11497–12 | Foglalkoztatás I (érettségire épülő képzések esetén) |
+| 4.6. | 11499-12 | Foglalkoztatás II. |
 
-| 4.6. | 11499–12 | Foglalkoztatás II. |
-
-| 4.7. | 11500–12 | Munkahelyi egészség és biztonság |
+| 4.7. | 11500-12 | Munkahelyi egészség és biztonság |
 
 5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
 
@@ -3394,17 +3408,15 @@ Az iskolarendszeren kívüli szakképzésben az 5.2. alpontban előírt valamenn
 
 | 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
 
-| 5.2.3. | 11491–12 | Kommunikáció és interakció a segítő munkában | gyakorlati |
+| 5.2.3. | 11491-12 | Kommunikáció és interakció a segítő munkában | gyakorlati |
 
-| 5.2.4. | 11492–12 | Egészséggondozás és egészségfejlesztés a segítő munkában | szóbeli |
+| 5.2.4. | 11492-12 | Egészséggondozás és egészségfejlesztés a segítő munkában | szóbeli |
 
-| 5.2.5. | 11493–12 | Alapszintű elsősegélynyújtás, tűz és környezetvédelem | gyakorlati |
+| 5.2.5. | 11493-12 | Alapszintű elsősegélynyújtás, tűz és környezetvédelem | gyakorlati |
 
-| 5.2.6. | 11497–12 | Foglalkoztatás I (érettségire épülő képzések esetén) | írásbeli |
+| 5.2.6. | 11499-12 | Foglalkoztatás II. | írásbeli |
 
-| 5.2.7. | 11499–12 | Foglalkoztatás II. | írásbeli |
-
-| 5.2.8. | 11500–12 | Munkahelyi egészség és biztonság | írásbeli |
+| 5.2.7. | 11500-12 | Munkahelyi egészség és biztonság | írásbeli |
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább elégségesre (2) értékelhető.
 
@@ -3766,7 +3778,7 @@ A 14. sorszámú Egészségügyi gyakorlatvezető megnevezésű szakképesítés
 
 2.1.2. Bemeneti kompetenciák: –
 
-2.2. Szakmai előképzettség: Országos Képzési Jegyzék (OKJ) előtti, illetve OKJ–ban szereplő egészségügyi végzettség. (bővebben a 7. Egyebek fejezetben)
+2.2. Szakmai előképzettség: az Országos Képzési Jegyzékről szóló 7/1993. (XII. 30.) MüM rendelet megjelenése előtt kiadott, vagy az OKJ-ban szereplő egészségügyi szakképesítés, szakképesítés-ráépülés.
 
 2.3. Előírt gyakorlat: 3 év egészségügyi munkakörben eltöltött gyakorlat
 
@@ -4062,40 +4074,4 @@ Az iskolarendszeren kívüli szakképzésben az 5.2. alpontban előírt valamenn
 
 5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
 
-|  |  | A | B | C |
-
-|  | 5.2.1. | A szakképesítés szakmai követelménymoduljainak |
-
-|  | 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.3. | 11127–12 | Általános egészségügyi alapmodul | írásbeli és szóbeli |
-
-|  | 5.2.4. | 11128–12 | Elsősegélynyújtás, toxikológia | gyakorlati |
-
-|  | 5.2.5. | 11130–12 | Fertőtlenítés | írásbeli és szóbeli |
-
-|  | 5.2.6. | 11129–12 | Kártevőirtás | írásbeli és szóbeli |
-
-|  | 5.2.7. | 11497–12 | Foglalkoztatás I | írásbeli |
-
-|  | 5.2.8. | 11499–12 | Foglalkoztatás II. | írásbeli |
-
-|  | 5.2.9. | 11500–12 | Munkahelyi egészség és biztonság | írásbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%–osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A) A vizsgafeladat megnevezése: Kártevőirtás
-
-A vizsgafeladat ismertetése: Feladatleírásban rögzítetten, meghatározás után kiválasztja a célszervezetet, a megfelelő módszert, technológiát, a szükséges gépeket, eszközöket, anyagokat, védőfelszereléseket, elvégzi a szükséges tájékoztatást, felvilágosítást és a tevékenységgel kapcsolatos adminisztrációt
-
-A vizsgafeladat időtartama: 30 perc
-
-A vizsgafeladat értékelési súlyaránya: 50%
-
-B) A vizsgafeladat megnevezése: Fertőtlenítés
-
-A vizsgafeladat ismertetése: Feladatleírásban rögzítetten, meghatározás után kiválasztja a megfelelő módszert, technológiát, a szükséges gépeket, eszközöket, anyagokat, védőfelszereléseket, elvégzi a fertőtlenítést és ellátja az azzal kapcsolatos adminisztrációt.
+[^3]: A 2. melléklet a 23/2018. (VII. 18.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
