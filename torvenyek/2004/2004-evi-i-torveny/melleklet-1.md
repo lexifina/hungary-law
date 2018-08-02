@@ -12,8 +12,6 @@ B
 
 |
 
-1
-
 |
 
 Az ingatlan helyrajzi száma
@@ -24,7 +22,7 @@ A kijelölt vagyonkezelő
 
 |
 
-2
+1.
 
 |
 
@@ -38,7 +36,7 @@ Ferencvárosi Torna Club
 
 |
 
-3
+2.
 
 |
 
@@ -52,7 +50,7 @@ Ferencvárosi Torna Club
 
 |
 
-4
+3.
 
 |
 
@@ -66,7 +64,7 @@ Ferencvárosi Torna Club
 
 |
 
-5
+4.
 
 |
 
@@ -80,7 +78,7 @@ Ferencvárosi Torna Club
 
 |
 
-6
+5.
 
 |
 
@@ -94,7 +92,7 @@ Ferencvárosi Torna Club
 
 |
 
-7
+6.
 
 |
 
@@ -108,7 +106,7 @@ Ferencvárosi Torna Club
 
 |
 
-8
+7.
 
 |
 
@@ -122,7 +120,7 @@ Ferencvárosi Torna Club
 
 |
 
-9
+8.
 
 |
 
@@ -136,7 +134,7 @@ Ferencvárosi Torna Club
 
 |
 
-10
+9.
 
 |
 
@@ -150,7 +148,7 @@ Budapest, 74333/1
 
 |
 
-11
+10.
 
 |
 
@@ -164,7 +162,7 @@ Budapest, 74232
 
 |
 
-12
+11.
 
 |
 
@@ -178,7 +176,7 @@ Magyar Testgyakorlók Köre
 
 |
 
-13
+12.
 
 |
 
@@ -192,7 +190,7 @@ Magyar Testgyakorlók Köre
 
 |
 
-14
+13.
 
 |
 
@@ -206,7 +204,21 @@ Vasas Sport Club
 
 |
 
-15
+14.
+
+|
+
+Budapest, 76561/221
+
+|
+
+Vasas Sport Club
+
+(székhely: Budapest 1139, Fáy utca 58.)
+
+|
+
+15.
 
 |
 
@@ -216,13 +228,13 @@ Budapest, 29834/8
 
 |
 
-Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület
+Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület
 
 (székhely: Budapest 1142, Szőnyi út 2.)
 
 |
 
-16
+16.
 
 |
 
@@ -230,13 +242,13 @@ Budapest, 29834/12
 
 |
 
-Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület
+Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület
 
 (székhely: Budapest 1142, Szőnyi út 2.)
 
 |
 
-17
+17.
 
 |
 
@@ -246,13 +258,13 @@ Budapest, 29834/15
 
 |
 
-Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület
+Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület
 
 (székhely: Budapest 1142, Szőnyi út 2.)
 
 |
 
-18
+18.
 
 |
 
@@ -266,7 +278,7 @@ Budapesti Honvéd Sportegyesület
 
 |
 
-19
+19.
 
 |
 
@@ -282,7 +294,7 @@ Budapesti Honvéd Sportegyesület
 
 |
 
-20
+20.
 
 |
 
@@ -298,7 +310,7 @@ Budapesti Honvéd Sportegyesület
 
 |
 
-21
+21.
 
 |
 
@@ -309,3 +321,15 @@ Budapest, 23796/29
 Budapesti Honvéd Sportegyesület
 
 (székhely: Budapest 1134, Dózsa György út 53.)
+
+|
+
+22.
+
+|
+
+Budapest, 38826
+
+|
+
+Magyar Lovassport Szövetség
