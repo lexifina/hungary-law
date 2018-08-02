@@ -1,9 +1,3 @@
-## „m) a vény adatainak elküldésére az Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) elektronikus vénynyilvántartása részére,
+## 1. §[^1]
 
-## n) az EESZT-ben rögzített elektronikus vény egyedi azonosítójának vonalkóddal történő kinyomtatására,
-
-## o) az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló rendelet szerinti, az EESZT vénynyilvántartásába küldött elektronikus vényről felírási igazolás készítésére és kinyomtatására,
-
-## p) az EESZT által szolgáltatott, az EESZT vénynyilvántartás adataiból a gyógyszerelési történet lekérdezésére és megjelenítésére,
-
-## q) az EESZT által szolgáltatott egészségügyi profil adatainak lekérdezésére és megjelenítésére.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

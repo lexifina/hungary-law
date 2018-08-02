@@ -1,1 +1,3 @@
-## 6. § Hatályát veszti az 53/2007. (XII. 7.) EüM rendelet 3. § (3) bekezdés d) pontja.
+## 6. §[^6]
+
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
