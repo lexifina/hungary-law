@@ -16,7 +16,7 @@ ad) a felhasználónak a földgázellátásból való jogszerű kikapcsolása ut
 
 ae) a fogyasztásmérő berendezésnek az elosztóhálózat-használati szerződés alapján történő leolvasásán felüli leolvasása – felhasználási helyenként felszámítva,
 
-af) a földgázelosztó számára jogszabályokban, ÜKSZ-ben, üzletszabályzatban, rendszerhasználati szerződésben kötelezettségként előírt adatszolgáltatásokon túli adatok, információk, dokumentumok szolgáltatása, ideértve minden hiteles formában csak az engedélyesnél rendelkezésre álló hiteles dokumentummásolat (különösen számla, tervrajz, térkép) készítését, minden közműegyeztetéshez szükséges papíralapú vagy elektronikus térképmásolat, helyszínrajz, szelvény kiadását, amelyek csak az engedélyesnél áll rendelkezésre, a távlehívható fogyasztásmérő berendezésből kinyerhető, a felhasználó földgázfogyasztására vonatkozó elszámolási alapadatokon felüli adatok felhasználó rendelkezésére bocsátását azonos mérési időszakra vonatkozóan, 12 hónapon belül a második alkalmat követően,
+af)[^4] a földgázelosztó számára jogszabályokban, ÜKSZ-ben, üzletszabályzatban, rendszerhasználati szerződésben kötelezettségként előírt adatszolgáltatásokon túli adatok, információk, dokumentumok szolgáltatása, ideértve minden hiteles formában csak az engedélyesnél rendelkezésre álló hiteles dokumentummásolat (különösen számla, tervrajz, térkép) készítését, a távlehívható fogyasztásmérő berendezésből kinyerhető, a felhasználó földgázfogyasztására vonatkozó elszámolási alapadatokon felüli adatok felhasználó rendelkezésére bocsátását azonos mérési időszakra vonatkozóan, 12 hónapon belül a második alkalmat követően,
 
 ag) a nem a földgázelosztó tulajdonában lévő csatlakozóvezetéken, fogyasztói vezetéken vagy felhasználói berendezésben észlelt gázszivárgás vagy egyéb veszélyhelyzet feltárása és elhárítása, valamint a szolgáltatás visszaállítása, ha a hiba bizonyíthatóan a felhasználó tevékenysége miatt keletkezett,
 
@@ -34,7 +34,7 @@ a) jogcím-átvezetés, amelynek során a szállítási rendszerüzemeltető a r
 
 b) az alapszolgáltatásokhoz kapcsolódó adatforgalmon felül igényelt adatszolgáltatások,
 
-c)[^4] a szállítási rendszerüzemeltetővel egyensúlyozási szerződést kötött, de Kereskedelmi Platform tagsággal nem rendelkező rendszerhasználó esetén az egyensúlyozási szolgáltatás.
+c)[^5] a szállítási rendszerüzemeltetővel egyensúlyozási szerződést kötött, de Kereskedelmi Platform tagsággal nem rendelkező rendszerhasználó esetén az egyensúlyozási szolgáltatás.
 
 (3) A külön díjak ellenében végezhető szolgáltatások díjait a Hivatal a GET 104. § (2) bekezdésben rögzített módon határozza meg.
 
@@ -48,4 +48,5 @@ c) a felhasználó szerződésszegéséből származó többletkiadások, felhas
 
 (5) A külön díjak mértéke az árszabályozási cikluson belül – a rendszerhasználati díjakkal összehangoltan – módosítható.
 
-[^4]: A 14. § (2) bekezdés c) pontját a 14/2016. (XII. 20.) MEKH rendelet 1. §-a iktatta be.
+[^4]: A 14. § (1) bekezdés a) pont af) alpontja a 6/2018. (VII. 25.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^5]: A 14. § (2) bekezdés c) pontját a 14/2016. (XII. 20.) MEKH rendelet 1. §-a iktatta be.

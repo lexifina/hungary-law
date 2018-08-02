@@ -12,6 +12,6 @@
 
 (6) A rendszerhasználó kizárólag az (1) bekezdés szerinti szállítási rendszerüzemeltető felé korábban megfizetett díj mértékig jogosult a visszatérítés összegére.
 
-(7)[^6] A 2013. január 1.–2016. december 31. közötti időszakra vonatkozó adatszolgáltatások módosításának és azok megküldésének határideje 2017. december 31., amely jogvesztő határidő. Az (1) bekezdés szerinti szállítási rendszerüzemeltető a visszatérítés megfizetését az (5) bekezdés szerint teljesíti, amely során a módosítással érintett időszak szerinti visszatérítési mértéket alkalmazza.
+(7)[^7] A 2013. január 1.–2016. december 31. közötti időszakra vonatkozó adatszolgáltatások módosításának és azok megküldésének határideje 2017. december 31., amely jogvesztő határidő. Az (1) bekezdés szerinti szállítási rendszerüzemeltető a visszatérítés megfizetését az (5) bekezdés szerint teljesíti, amely során a módosítással érintett időszak szerinti visszatérítési mértéket alkalmazza.
 
-[^6]: A 17. § (7) bekezdése a 4/2017. (IV. 26.) MEKH rendelet 2. §-a szerint módosított szöveg.
+[^7]: A 17. § (7) bekezdése a 4/2017. (IV. 26.) MEKH rendelet 2. §-a szerint módosított szöveg.
