@@ -1,0 +1,1 @@
+11/E. § Amennyiben kiemelten közérdekű beruházás esetében a beruházással érintett közművezeték-üzemeltető – a jogszabályban meghatározott határidőn belül – nem nyilatkozik az építtető által benyújtott tervek jóváhagyásáról, a nyilatkozatot – a megkeresésben foglalt tartalommal – megadottnak kell tekinteni.

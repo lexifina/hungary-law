@@ -18,7 +18,7 @@ g) kiemelt nemzeti emlékhely fenntartásához, bemutatásához, fejlesztéséhe
 
 h) nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, továbbá a világörökségi területen lévő műemlékek és műemlékegyüttesek fenntartásához, felújításához, fejlesztéséhez szorosan kapcsolódó,
 
-nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra és e törvény szerinti egyéb eljárásokra terjed ki.
+nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósítására, valamint az azokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra és e törvény szerinti egyéb eljárásokra terjed ki.
 
 (1a) A kisajátításról szóló törvény hatálya alá tartozó kisajátítási eljárás nem nyilvánítható kiemelt jelentőségű üggyé.
 
