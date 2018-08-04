@@ -9,11 +9,3 @@ c) 31/D. § (4) bekezdésében a „25%-os” szövegrész helyébe a „30%-os�
 d) 31/D. § (6) bekezdésében a „25%-os” szövegrész helyébe a „30%-os” szöveg
 
 lép.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
