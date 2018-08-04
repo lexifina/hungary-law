@@ -1,4 +1,4 @@
-19. § (1) Beépítésre szánt területen – a 4. § (3a) bekezdés és a 6. § (3) bekezdés végrehajtására kiadott kormányrendelet eltérő rendelkezésének hiányában – épület csak építési telken helyezhető el.
+19. § (1) Beépítésre szánt területen – a 4. § (3a) bekezdés és a 6. § (3) bekezdés végrehajtására kiadott, illetve a kiemelten közérdekű beruházás helyszínére és közvetlen környezetére vonatkozó beépítési szabályt megállapító kormányrendelet eltérő rendelkezésének hiányában – épület csak építési telken helyezhető el.
 
 (2) Beépítésre nem szánt területen új építményt építeni, meglévő építményt átalakítani, bővíteni, rendeltetését vagy használati módját megváltoztatni csak akkor szabad, ha az
 

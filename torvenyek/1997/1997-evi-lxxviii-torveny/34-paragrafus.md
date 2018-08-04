@@ -46,4 +46,4 @@ b) az ingatlan adataiban bekövetkezett változásnak a külön jogszabályban m
 
 helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
-(6) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra eltérő eljárási szabályok állapíthatók meg.
+(6) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra, valamint a kiemelten közérdekű beruházásokra eltérő eljárási szabályok állapíthatók meg.
