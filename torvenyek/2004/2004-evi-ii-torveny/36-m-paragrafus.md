@@ -1,0 +1,9 @@
+36/M. § (1) E törvénynek a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvénnyel módosított 31/C. § (2b) bekezdését és 31/D. § (3) bekezdését a 2018. június 11. napját követően benyújtott kérelemre indult támogatásra jogosultság megállapítása iránti eljárások tárgyában hozott határozatok véglegessé válását követően indult költségellenőrzési eljárásokban és támogatási igazolási eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvénnyel módosított 31/D. § (4) bekezdését és 31/D. § (6) bekezdését 2018. június 11. napját követően benyújtott kérelemre indult támogatásra jogosultság megállapítása iránti eljárások tárgyában hozott határozatok véglegessé válását követően indult záró elszámolásokban kell alkalmazni.
+
+(3) E törvénynek a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvénnyel módosított 31/C. § (2b) bekezdését, 31/D. § (3) bekezdését, 31/D. § (4) bekezdését és 31/D. § (6) bekezdését a Médiaszolgáltatás-támogató és Vagyonkezelő Alap által támogatott filmalkotások esetében a törvény hatálybalépését követően kötött támogatási szerződések esetében kell alkalmazni.
+
+2. CÍM
+
+Felhatalmazó rendelkezések
