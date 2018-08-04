@@ -1,0 +1,1 @@
+8. § A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében a kivitelezés tekintetében az építtetőt a Kormány jelöli ki azzal, hogy építtetőként az egyes létesítmény-fejlesztési projektek tekintetében eltérő személyek is kijelölhetők.
