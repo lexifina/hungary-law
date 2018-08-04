@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-123-00-00
 | 2017-01-02 | 2016. évi CXLIV. törvény | 2007-123-00-00.28 |
 | 2017-12-12 | 2017. évi CLXXXII. törvény | 2007-123-00-00.29 |
 | 2018-01-01 | 2017. évi L. törvény | 2007-123-00-00.30 |
+| 2018-08-04 | 2018. évi XLIX. törvény | 2007-123-00-00.31 |
