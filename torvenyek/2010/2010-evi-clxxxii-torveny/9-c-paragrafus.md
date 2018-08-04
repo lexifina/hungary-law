@@ -1,0 +1,1 @@
+9/C. § Az Alapkezelő ellátja a jogszabályban meghatározott elkülönített állami pénzalap és a jogszabályban meghatározott fejezeti kezelésű előirányzat, központi kezelésű előirányzat kezelésével és az azokból nyújtott támogatások lebonyolításával kapcsolatos egyes feladatokat.

@@ -1,4 +1,4 @@
-9/A. § Az Alap kezelő szervének vezetője, illetve az Alap kezelő szervével munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy nem lehet
+9/A. § Az Alapkezelő vezérigazgatója, illetve az Alapkezelővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy nem lehet
 
 a) politikai párt, vagy közvetlen politikai tevékenységet folytató szervezet tisztségviselője;
 
@@ -10,4 +10,4 @@ d) a Bizottság tagja, vagy annak közeli hozzátartozója;
 
 e) az Alapból támogatásban részesülő természetes személy, vagy annak közeli hozzátartozója;
 
-f) a kezelő szervet ide nem értve, az Alapból támogatásban részesülő szervezet képviselője vagy annak közeli hozzátartozója.
+f) az Alapkezelőt, valamint a 9. § (3) bekezdése szerinti jogi személyt, szervezetet ide nem értve, az Alapból támogatásban részesülő szervezet képviselője vagy annak közeli hozzátartozója.

@@ -1,0 +1,1 @@
+9/D. § Az Alapkezelő a Kormány rendeletében vagy nyilvános határozatában meghatározott nemzetpolitikai céllal összefüggésben jogosult ingatlan tulajdonjogát megszerezni, azt fenntartani, üzemeltetni, valamint az állam tulajdonában álló ingatlan tekintetében vagyonkezelői vagy használati jogot gyakorolni.
