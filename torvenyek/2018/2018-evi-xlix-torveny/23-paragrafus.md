@@ -1,5 +1,3 @@
 ## 12. Módosító rendelkezések
 
-23. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 29/Z. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) E törvénynek a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvénnyel módosított 22. § (3) bekezdését, valamint a 24/A. § (16) bekezdését a mozgóképszakmai hatósághoz 2018. június 11-ét követően benyújtott kérelemre induló, a támogatásra jogosultság megállapítására irányuló eljárás tárgyában hozott határozatok véglegessé válását követően indult költségellenőrzési eljárásokban és támogatási igazolási eljárásokban kell alkalmazni, kivéve a Médiaszolgáltatás-támogató és Vagyonkezelő Alappal támogatási szerződést kötött filmalkotásokra vonatkozó támogatásra jogosultság megállapítására irányuló eljárásokat.”
+23. §

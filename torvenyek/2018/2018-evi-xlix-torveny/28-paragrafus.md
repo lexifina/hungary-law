@@ -1,1 +1,1 @@
-28. § Az Ngtv. 1. § (1) bekezdésében a „nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő,” szövegrész helyébe a „nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósítására, valamint az azokkal összefüggő,” szöveg lép.
+28. §
