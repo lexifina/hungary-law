@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-129-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-07-24 | 2018-129-20-22.1 | 129/2018. (VII. 23.) Korm. rendelet |
+| 2018-08-07 | 2018-129-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
