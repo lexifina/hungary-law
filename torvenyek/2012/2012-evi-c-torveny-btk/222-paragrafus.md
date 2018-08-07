@@ -14,8 +14,10 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 a) házastársa, volt házastársa, élettársa vagy volt élettársa sérelmére,
 
-b) nevelése, felügyelete, gondozása vagy gyógykezelése alatt álló személy sérelmére, illetve
+b) nevelése, felügyelete, gondozása vagy gyógykezelése alatt álló személy sérelmére,
 
-c) hatalmi vagy befolyási helyzetével visszaélve
+c) hatalmi vagy befolyási helyzetével visszaélve, illetve
+
+d) hivatalos személy sérelmére, hivatali tevékenységével össze nem egyeztethető helyen vagy időben
 
 követi el, az (1) bekezdésben meghatározott esetben két évig, a (2) bekezdésben meghatározott esetben bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
