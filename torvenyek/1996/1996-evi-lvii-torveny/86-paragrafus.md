@@ -28,7 +28,7 @@ f) követelheti, hogy a jogsértő szolgáltasson adatot a jogsértéssel érint
 
 (2c) A Kbt. 9. § (1) bekezdés c) pontja szerinti beszerzések esetén a (2) bekezdésben meghatározott jogkövetkezmények közül – már megindított beszerzési eljárás esetén – az ajánlattételi felhívás megsemmisítésének, az ajánlatkérő eltiltása a szerződés megkötésétől vagy a szerződés Ptk. szerinti érvénytelensége megállapításának és az eredeti állapot helyreállításának alkalmazása kizárt.
 
-(3) A 4. § vagy a 6. § rendelkezéseinek megsértése miatt indított perekben az érdekelt fél a (2) bekezdésben foglaltakon túl a keresetben követelheti
+(3) A 6. §-ban foglalt rendelkezés megsértése miatt indított perben az érdekelt fél a (2) bekezdésben foglaltakon túl a keresetben követelheti
 
 a) a jogsértéssel elért gazdagodás visszatérítését,
 
