@@ -288,7 +288,7 @@ b) bármely ABA, amely egy EGT-államban sem rendelkezik engedéllyel vagy egy E
 
 100. ügyvezető: a befektetési alapkezelő vezetésére kinevezett első számú vezető, valamint a befektetési alapkezelő irányításában résztvevő olyan további személy, akit a befektetési alapkezelő létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg;
 
-101. üzleti titok: a Ptk.-ban meghatározott fogalom;
+101. üzleti titok: az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott fogalom;
 
 102. vezető állású személy: az ügyvezető, az igazgatóság elnöke, tagja és a felügyelőbizottság elnöke, tagja, a fióktelep vezetésére kinevezett személy és annak közvetlen helyettese, valamint minden olyan személy, akit a létesítő okirat vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg.
 
