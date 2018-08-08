@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-88-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2014-88-00-00.17 |
 | 2018-02-23 | 2017. évi CXLV. törvény | 2014-88-00-00.18 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2014-88-00-00.19 |
+| 2018-08-08 | 2018. évi LIV. törvény | 2014-88-00-00.20 |
