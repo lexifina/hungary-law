@@ -85,5 +85,3 @@ amelyek folyamatosan tükrözik a befektetési vállalkozás kitettségeinek min
 20. A teljesítményjavadalmazás legalább 40 százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább 60 százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően 3 évnél rövidebb időtartamú munkaviszony esetén a munkaviszony megszűnésekor, egyébként 3–5 éves időszak alatt kell kifizetni.
 
 21. A teljesítményjavadalmazás 100 százalékára csökkentési lehetőség vagy visszafizetési szabályok alkalmazhatóak. A befektetési vállalkozás a belső szabályzatában konkrét kritériumokat határoz meg a csökkentési vagy a visszafizetési szabályok alkalmazására, amelyben tekintettel van arra, hogy a vezető állású személy vagy a munkavállaló
-
-a) olyan magatartás részese volt-e, amely jelentős veszteséget okozott a befektetési vállalkozásnak, vagy felelős volt-e a befektetési vállalkozás számára bekövetkezett jelentős veszteségért, és
