@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-5-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2013-5-00-00.8 |
 | 2018-07-01 | 2017. évi CXCIV. törvény | 2013-5-00-00.9 |
 | 2018-08-01 | 2018. évi LIII. törvény | 2013-5-00-00.10 |
+| 2018-08-08 | 2018. évi LIV. törvény | 2013-5-00-00.11 |

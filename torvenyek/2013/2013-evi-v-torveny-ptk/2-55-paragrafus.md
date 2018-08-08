@@ -4,7 +4,7 @@
 
 ### 2:55. § [Kisegítő alkalmazás]
 
-E törvényt kell alkalmazni a hatálya alá tartozó olyan kérdésekben, amelyeket a szerzői jogról és az iparjogvédelemről rendelkező törvények nem szabályoznak.
+E törvényt kell alkalmazni a hatálya alá tartozó olyan kérdésekben, amelyeket a szerzői jogról és az iparjogvédelemről, valamint az üzleti titok védelméről rendelkező törvények nem szabályoznak.
 
 ## HARMADIK KÖNYV
 
