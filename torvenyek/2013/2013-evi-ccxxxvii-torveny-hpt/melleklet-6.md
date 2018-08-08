@@ -23,7 +23,3 @@ Tájékoztató a betéteseknek
 ## A 100 000 euró összegű kártalanítási összeghatár kiszámításakor az olyan számlán elhelyezett betéteket, amely tekintetében jogi személyiség nélküli gazdasági társaság, egyesület vagy hasonló természetű csoport tagjaként két vagy több személy jogosult, összevontan és úgy kezelik, mintha egyetlen betétes betétjéről lenne szó.
 
 ## Egyes esetekben a betéteseket három hónapig 100 000 eurót meghaladó védelem is megillet. További tájékoztatásért látogasson el a következő weboldalra: www.oba.hu.
-
-## 4 Kártalanítás
-
-## A betétbiztosítási rendszer az Országos Betétbiztosítási Alap [cím, telefonszám, e-mail cím és weboldal]. Ez a rendszer 2018. december 31-ig 20 munkanapon, 2019. január 1-től 2020. december 31-ig 15 munkanapon, 2021. január 1-től 2023. december 31-ig 10 munkanapon, 2024. január 1-től 7 munkanapon belül kártalanítást fizet az Ön betétjeire legfeljebb 100 000 euró összeghatárig.

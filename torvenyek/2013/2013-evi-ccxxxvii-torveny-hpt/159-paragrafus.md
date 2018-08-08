@@ -4,7 +4,7 @@
 
 ## 70. Üzleti titok
 
-159. § (1) E törvény alkalmazásában üzleti titok fogalma alatt a Ptk.-ban meghatározott fogalmat kell érteni.
+159. § (1) E törvény alkalmazásában üzleti titok fogalma alatt az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott fogalmat kell érteni.
 
 (2) A pénzügyi intézmény és a pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek nem minősülő – vállalkozás (ideértve a közvetítőt is) tulajdonosa, a pénzügyi intézményben befolyásoló részesedést szerezni kívánó személy, a vezető állású személy, valamint a pénzügyi intézmény és a pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek nem minősülő – vállalkozás alkalmazottja köteles a pénzügyi intézmény működésével kapcsolatban tudomására jutott üzleti titkot – időbeli korlátozás nélkül – megtartani.
 
