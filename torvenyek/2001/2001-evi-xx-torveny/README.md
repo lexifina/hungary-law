@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-20-00-00
 | 2017-06-17 | 2017. évi LXXII. törvény | 2001-20-00-00.50 |
 | 2017-12-28 | 2017. évi CXCIX. törvény | 2001-20-00-00.51 |
 | 2018-05-18 | 2018. évi V. törvény | 2001-20-00-00.52 |
+| 2018-08-08 | 2018. évi LIV. törvény | 2001-20-00-00.53 |
