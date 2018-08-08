@@ -2,7 +2,7 @@
 
 1. melléklet a 32/2015. (VI. 19.) FM rendelethez[^2]
 
-| XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2017. évi költségvetési kiadási előirányzatainak feladatterve |
+| XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2018. évi költségvetési kiadási előirányzatainak feladatterve |
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -32,4 +32,4 @@
 
 | 13 | 296191 |  | Fejezeti tartalék | Az év közben felmerülő, előre nem látható kiadások finanszírozása. | - | - | - | előirányzat-átcsoportosítással | - | - | - | - | - |
 
-[^2]: Az 1. melléklet a 26/2017. (V. 25.) FM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet a 26/2017. (V. 25.) FM rendelet 1. §-ával megállapított, a 21/2018. (VIII. 7.) AM rendelet 1. § b) pontja szerint módosított szöveg.
