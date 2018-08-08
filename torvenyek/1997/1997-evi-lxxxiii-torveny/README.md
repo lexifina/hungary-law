@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-83-00-00
 | 2017-12-19 | 2017. évi CLXXXVIII. törvény | 1997-83-00-00.81 |
 | 2018-01-01 | 2017. évi L. törvény | 1997-83-00-00.82 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1997-83-00-00.83 |
+| 2018-08-08 | 2018. évi LIV. törvény | 1997-83-00-00.84 |
