@@ -78,3 +78,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2017-11-19 | 2017. évi CXXIX. törvény | 1994-53-00-00.130 |
 | 2018-01-01 | 2017. évi CXXX. törvény | 1994-53-00-00.131 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1994-53-00-00.132 |
+| 2018-08-08 | 2018. évi LIV. törvény | 1994-53-00-00.133 |
