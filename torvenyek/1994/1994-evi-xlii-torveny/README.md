@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-42-00-00
 | 2017-06-02 | 2017. évi XLIV. törvény | 1994-42-00-00.45 |
 | 2017-06-17 | 2017. évi LXXII. törvény | 1994-42-00-00.46 |
 | 2018-01-01 | 2017. évi CLII. törvény | 1994-42-00-00.47 |
+| 2018-08-08 | 2018. évi LIV. törvény | 1994-42-00-00.48 |
