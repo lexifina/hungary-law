@@ -1,10 +1,4 @@
-## 13. § Az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint e szervek hatósági és más feladatainak ellátásáról szóló 320/2014. (XII. 13.) Korm. rendelet 4. § (1) bekezdés l) pontja a következő lc) alponttal egészül ki:
-
-## (A miniszter munkaerőpiaci feladatkörében
-
-## hatósági jogkört gyakorol, amelynek keretében)
-
-## „lc) dönt az EURES-tagként, valamint EURES-partnerként történő nyilvántartásba vételről vagy a nyilvántartásból való törlésről,”
+## 13. §[^1]
 
 1. melléklet a 130/2018. (VII. 23.) Korm. rendelethez
 
@@ -67,3 +61,5 @@ d) középfokú szakképesítések közül:
 4. személyügyi ügyintézői részszaképesítés vagy
 
 5. bármely középfokú szakképesítés, amely az e pontban felsorolt szakképesítések valamelyikének megfeleltethető.
+
+[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
