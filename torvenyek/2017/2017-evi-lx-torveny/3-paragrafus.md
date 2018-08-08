@@ -4,25 +4,11 @@
 
 1. választottbíráskodás: kereskedelmi jogviszonyokban felmerült jogvitáknak állami bírósági peres eljárás helyett a felek által választott eljárásban történő eldöntése, akár eseti, akár állandó választottbírósági intézmény folytatja le az eljárást;
 
-2. a választottbíráskodás nemzetközi, ha
+2.
 
-a) a választottbírósági szerződést kötő felek üzletvitelének helye a szerződés megkötésének időpontjában különböző államokban van;
+3.
 
-b) a következő helyek egyike azon az államon kívül van, amelyben a felek üzletvitelének helye van:
-
-ba) a választottbíráskodásnak a választottbírósági szerződésben vagy aszerint meghatározott helye;
-
-bb) az a hely, ahol a felek jogviszonyából eredő kereskedelmi kötelezettségek lényeges részét teljesíteni kell, vagy amelyhez a jogvita tárgya a legszorosabban kapcsolódik; vagy
-
-c) a felek kifejezetten megállapodtak abban, hogy a választottbírósági szerződés tárgya több, mint egy országhoz kapcsolódik;
-
-3. a 2. pont alkalmazásában:
-
-a) ha a fél üzletvitelének több helye van, az üzletvitel helye az, amely a legszorosabb viszonyban van a választottbírósági szerződéssel;
-
-b) ha a félnek nincs üzletviteli helye, az alatt a szokásos tartózkodási helyét kell érteni;
-
-4. a 2–3. pont alkalmazásában a fél üzletviteli hellyel rendelkezik azon államban, amelynek területén kereskedelmi tevékenység folytatására jogosult;
+4.
 
 5. választottbírósági tanács: mind az egyedül eljáró választottbíró, mind pedig a több választottbíróból álló tanács;
 

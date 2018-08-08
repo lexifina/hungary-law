@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-60-00-00
 | 2017-06-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-60-00-00.1 |
 | 2018-01-01 | 2017. évi CXXXVI. törvény | 2017-60-00-00.2 |
 | 2018-01-02 | 2010. évi CXXX. törvény | 2017-60-00-00.3 |
+| 2018-08-08 | 2018. évi LIV. törvény | 2017-60-00-00.4 |
