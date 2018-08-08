@@ -1,0 +1,1 @@
+38. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 229. § (2) bekezdésében az „A Ptk.” szövegrész helyébe az „Az üzleti titok védelméről szóló 2018. évi LIV. törvény” szöveg lép.

@@ -1,0 +1,3 @@
+## „(6) A törvényszék – a 9. § (1) és (2) bekezdése szerinti ügyek kivételével – a hozzá választottbírósági ügyben érkezett, eljárást megindító iratot az eljáró, illetve eljárt állandó választottbíróságnak, eseti választottbíráskodás esetén az eljáró, illetve eljárt választottbírónak vagy választottbíráknak, a beérkezéstől számított harminc napon belül megküldi. A törvényszék és a Kúria a választottbírósági ügyben hozott határozatát az eljáró, illetve eljárt állandó választottbíróságnak, eseti választottbíráskodás esetén az eljáró, illetve eljárt választottbírónak vagy választottbíráknak a felek részére történő kézbesítéssel egyidejűleg megküldi.”
+
+45. § A Vbt. 12. § (5) bekezdése helyébe a következő rendelkezés lép:

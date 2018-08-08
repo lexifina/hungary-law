@@ -1,0 +1,1 @@
+4. § A jogosult az üzleti titokhoz fűződő jogot egészben vagy részben átruházhatja (üzleti titok jogátruházási szerződés), továbbá az üzleti titok hasznosítására másnak engedélyt adhat (üzleti titok hasznosítási szerződés).
