@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-37-00-00
 | 2017-07-01 | 2016. évi LXVIII. törvény | 2013-37-00-00.15 |
 | 2017-11-24 | 2017. évi CLIX. törvény | 2013-37-00-00.16 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 2013-37-00-00.17 |
+| 2018-08-08 | 2018. évi LIV. törvény | 2013-37-00-00.18 |
