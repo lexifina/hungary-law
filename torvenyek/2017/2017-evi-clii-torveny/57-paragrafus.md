@@ -8,7 +8,7 @@
 
 (4) Szakértőként nem járhat el az, aki tanúként nem hallgatható meg, vagy aki a tanúvallomást megtagadhatja.
 
-(5) A kirendelt szakértő eljárási bírsággal sújtható, ha anélkül, hogy a határidő meghosszabbítása iránti igényét vagy akadályoztatását előzetesen bejelentette volna, feladatait határidőre nem teljesíti.
+(5) A kirendelt szakértő vámigazgatási bírsággal sújtható, ha anélkül, hogy a határidő meghosszabbítása iránti igényét vagy akadályoztatását előzetesen bejelentette volna, feladatait határidőre nem teljesíti.
 
 (6) A vámhatóság a kirendelt szakértővel közli mindazokat az adatokat, amelyekre feladatának teljesítéséhez szüksége van. A kirendelt szakértő az ügy iratait az eljárási feladatainak ellátásához szükséges mértékben megtekintheti, az ügyfél és a tanú meghallgatásánál, a tárgyaláson és a szemlén jelen lehet, az ügyfélhez, a tanúhoz, a szemletárgy birtokosához kérdéseket intézhet.
 

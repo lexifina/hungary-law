@@ -1,6 +1,6 @@
 ### 31. § [Adatkérés]
 
-(1) Az ügyfél díjfizetés ellenében a NAV váminformatikai rendszerében levő, saját vámtevékenységéhez kapcsolódó forgalmi adatok lekérésére. A fizetendő díj mértékének meghatározó szempontjait a miniszter rendeletben állapítja meg.
+(1) Az ügyfél díjfizetés ellenében jogosult a NAV váminformatikai rendszerében levő, saját vámtevékenységéhez kapcsolódó forgalmi adatok lekérésére. A fizetendő díj mértékének meghatározó szempontjait a miniszter rendeletben állapítja meg.
 
 (2) Piackutatásra vagy egyéb célra díjfizetés ellenében adható át olyan forgalmi adat, amely személlyel nem azonosítható, azonban nem adható át adat stratégiai termékekről, így különösen az állami tartalék célú áruforgalomról, a nemzetbiztonsági és honvédelmi célú áruforgalomról, továbbá ha a forgalmazásban az exportőr, importőr vagy gyártó száma 3-nál kevesebb. A fizetendő díj mértékének meghatározó szempontjait a miniszter rendeletben állapítja meg.
 

@@ -10,4 +10,4 @@
 
 (5) A tárgyaláson a (2) bekezdésben foglaltakon kívül bárki részt vehet, akinek a részvételét az ügyfelek nem kifogásolják. A vámhatóság a védett adat és zártan kezelt adatok védelme érdekében is kizárhatja a tárgyalásról a nyilvánosságot.
 
-(6) Azt, aki a tárgyalás rendjét zavarja, a tárgyalás vezetője rendreutasíthatja, ismételt vagy súlyosabb rendzavarás esetén a tárgyalásról kiutasíthatja, továbbá eljárási bírsággal sújthatja.
+(6) Azt, aki a tárgyalás rendjét zavarja, a tárgyalás vezetője rendreutasíthatja, ismételt vagy súlyosabb rendzavarás esetén a tárgyalásról kiutasíthatja, továbbá vámigazgatási bírsággal sújthatja.

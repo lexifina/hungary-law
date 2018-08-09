@@ -4,4 +4,4 @@
 
 (2) Ha a vámhatóság a végzését nem nyilvánította azonnal végrehajthatónak, a fellebbezésnek – a (3) bekezdésben foglalt kivételekkel – a végzés végrehajtására halasztó hatálya van.
 
-(3) Az ideiglenes biztosítási intézkedésről szóló, az iratbetekintési jog korlátozása iránti kérelemnek helyt adó, a 90. § (6) bekezdése kivételével a lefoglalást elrendelő, a lefoglalás megszüntetése iránti kérelmet elutasító, valamint a vámigazgatási eljárással kapcsolatos eljárási cselekmény megsértése miatt eljárási bírságot kiszabó végzés elleni fellebbezésnek a végrehajtásra nincs halasztó hatálya.
+(3) Az ideiglenes biztosítási intézkedésről szóló, az iratbetekintési jog korlátozása iránti kérelemnek helyt adó, a 90. § (6) bekezdése kivételével a lefoglalást elrendelő, valamint a lefoglalás megszüntetése iránti kérelmet elutasító végzés elleni fellebbezésnek a végrehajtásra nincs halasztó hatálya.

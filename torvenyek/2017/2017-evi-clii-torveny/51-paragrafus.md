@@ -22,4 +22,4 @@ d) diplomáciai mentességben részesülő személy.
 
 (5) Nem használható fel bizonyítékként a (3) bekezdésben, valamint az 53. § (6) bekezdésében foglalt rendelkezés megsértésével felvett tanúvallomás, továbbá az olyan tanúvallomás, amelynek megtétele előtt a tanút nem figyelmeztették a (4) bekezdésben meghatározott jogára.
 
-(6) Ha a tanú a (2) bekezdés szerinti kötelezettségének a következményekre való figyelmeztetés ellenére nem tesz eleget, eljárási bírsággal sújtható.
+(6) Ha a tanú a (2) bekezdés szerinti kötelezettségének a következményekre való figyelmeztetés ellenére nem tesz eleget, vámigazgatási bírsággal sújtható.

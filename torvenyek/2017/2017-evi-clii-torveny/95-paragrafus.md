@@ -12,7 +12,7 @@ d) az eljárást megszüntető,
 
 e) az eljárás felfüggesztő,
 
-f) a vámigazgatási eljárással kapcsolatos eljárási cselekmény megsértése miatt eljárási bírságot kiszabó,
+f)
 
 g) az igazolási kérelmet elutasító,
 

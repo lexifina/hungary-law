@@ -14,9 +14,9 @@
 
 (6) A túlfizetésként vagy tartozatlan befizetésként nyilvántartott pénzösszeg visszafizetését az állami adó- és vámhatóság a kérelem benyújtásától számított 30 napon belül kamatmentesen teljesítheti.
 
-(7) A vámhatóság megkövetelheti, hogy a vám és egyéb terhek, a Vámkódex 112. cikk (2) bekezdése szerinti hitelkamat, 114. cikke szerinti késedelmi kamat, továbbá a vámigazgatási vagy eljárási bírság megfizetését az adós – a pénzforgalmi bizonylat eredeti példányának bemutatásával – igazolja.
+(7) A vámhatóság megkövetelheti, hogy a vám és egyéb terhek, a Vámkódex 112. cikk (2) bekezdése szerinti hitelkamat, 114. cikke szerinti késedelmi kamat, továbbá a vámigazgatási bírság megfizetését az adós – a pénzforgalmi bizonylat eredeti példányának bemutatásával – igazolja.
 
-(8) A vám és egyéb terhek, a Vámkódex 112. cikk (2) bekezdése szerinti hitelkamat, 114. cikke szerinti késedelmi kamat, továbbá a vámigazgatási vagy eljárási bírság továbbá az e törvény alapján kiszabott díjak és költségek megfizetésére szolgáló és azt igazoló okmányoknak a pénzforgalom lebonyolításáról szóló MNB rendeletben meghatározott adatokon túl tartalmazniuk kell
+(8) A vám és egyéb terhek, a Vámkódex 112. cikk (2) bekezdése szerinti hitelkamat, 114. cikke szerinti késedelmi kamat, továbbá a vámigazgatási bírság továbbá az e törvény alapján kiszabott díjak és költségek megfizetésére szolgáló és azt igazoló okmányoknak a pénzforgalom lebonyolításáról szóló MNB rendeletben meghatározott adatokon túl tartalmazniuk kell
 
 a) a vámadós EORI számát, adószámát vagy adóazonosító jelét, külföldi személy esetében a személyi okmány számát,
 

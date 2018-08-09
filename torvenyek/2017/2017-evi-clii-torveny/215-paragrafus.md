@@ -37,3 +37,5 @@ d) a Vámkódex 211. cikk (6) bekezdés szerinti gazdasági feltételek vizsgál
 (12) Ha a (10) bekezdés szerinti átmeneti időszakban a határozott érvényességi idejű engedélyek érvényességi idejének meghosszabbításra vonatkozóan kérelmet terjesztenek elő, úgy azt az FJA. 251. cikk (1) bekezdés a) pontjára tekintettel elutasítja.
 
 (13) Az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény 26. és 26/A. alcímének hatályba lépése előtt kiadott bankgaranciák és biztosítói kötelezvények a lejáratukig vagy visszavonásukig, de legkésőbb 2019. április 30-ig érvényesek. Ha e biztosítékok alapján az adott áruk 2019. április 30-át követően átmeneti megőrzésben vannak vagy vámeljárás alatt állnak, úgy a biztosíték nyújtására kötelezett köteles az e törvényben foglaltaknak megfelelően új biztosítékot nyújtani.
+
+(14) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény hatálybalépése előtt indult vámigazgatási ügyekben kiszabott eljárási bírságok, valamint a származás utólagos megerősítése iránti megkeresések tekintetében az eljárás megindításakor hatályos rendelkezéseket kell alkalmazni.

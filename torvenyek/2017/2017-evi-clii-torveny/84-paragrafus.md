@@ -10,7 +10,7 @@
 
 a) árunyilatkozat-adással, árunyilatkozat adatainak helytállóságával, értesítéssel, okmánymegőrzéssel,
 
-b) vámfelügyelettel, vámellenőrzéssel,
+b) vámfelügyelettel, vámigazgatási üggyel,
 
 c) vámeljárásokkal,
 
@@ -56,7 +56,9 @@ f) az árut a Vámkódex 140. cikke szerint a vámhatóság engedélye nélkül 
 
 g) az a személy, aki az Unió vámterületérről árut szállít ki, nem állítja azt vám elé a kilépést megelőzően,
 
-h) az Unió vámterületére jogellenesen bejuttatott nem uniós árut vagy az árutovábbítási eljárás alatt álló, a rendeltetési vámhivatalnál vám elé nem állított árut szereznek meg vagy birtokolnak.
+h) az Unió vámterületére jogellenesen bejuttatott nem uniós árut vagy az árutovábbítási eljárás alatt álló, a rendeltetési vámhivatalnál vám elé nem állított árut szereznek meg vagy birtokolnak,
+
+i) az érintett személy – tevékenységével vagy mulasztásával – a vámigazgatási ügy lefolytatását akadályozza.
 
 (4) Az (1) bekezdés c) pontjában foglalt jogsértés valósul meg különösen, ha
 

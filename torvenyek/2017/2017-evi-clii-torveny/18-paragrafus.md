@@ -6,7 +6,7 @@
 
 (3) Az 51. § (4) bekezdés c) pontja alapján a tanúvallomás megtagadására jogosult személynek az áru és eszköz átadása alóli mentessége az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
 
-(4) Ha az áru és eszköz átadására köteles személy nem adja át az árut és eszközt, a vámhatóság a lefoglalást foganatosítja, és az áru és eszköz átadására köteles személyt eljárási bírsággal sújthatja.
+(4) Ha az áru és eszköz átadására köteles személy nem adja át az árut és eszközt, a vámhatóság a lefoglalást foganatosítja, és az áru és eszköz átadására köteles személyt vámigazgatási bírsággal sújthatja.
 
 (5) A lefoglalás foganatosítására a szemle szabályai irányadóak azzal, hogy a szemletárgy birtokosára vonatkozó szabályokat a lefoglalt áru és eszköz birtokosára kell alkalmazni.
 

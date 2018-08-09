@@ -1,10 +1,10 @@
-### 118. § [Vámügyi segítségnyújtásra irányuló megkeresések]
+### 118. § [Vámügyi segítségnyújtásra irányuló, valamint származás utólagos megerősítése iránti megkeresések]
 
-(1) A közigazgatási hatóságok közötti vámügyi segítségnyújtásra irányuló megkeresések teljesítése érdekében a vámhatóság a nyilvántartásában és az ügyfél nyilvántartásában szereplő adatok, és az azokhoz kapcsolódó tények, körülmények valóságtartalmának, illetőleg ezek hitelességének megállapítása érdekében adatokat gyűjthet, vagy a helyszínen ellenőrzést végezhet.
+(1) A közigazgatási hatóságok közötti vámügyi segítségnyújtásra irányuló és származás utólagos megerősítése iránti megkeresések teljesítése érdekében a vámhatóság a nyilvántartásában és az ügyfél nyilvántartásában szereplő adatok, és az azokhoz kapcsolódó tények, körülmények valóságtartalmának, illetőleg ezek hitelességének megállapítása érdekében adatokat gyűjthet, vagy a helyszínen ellenőrzést végezhet.
 
-(2) Ha a megkeresés megválaszolása a vámhatóság rendelkezésére álló adatok alapján teljesíthető, úgy az eljárásról az érintett ügyfelet értesíteni nem kell.
+(2) Ha a vámügyi segítségnyújtásra irányuló megkeresés megválaszolása a vámhatóság rendelkezésére álló adatok alapján teljesíthető, úgy az eljárásról az érintett ügyfelet értesíteni nem kell.
 
-(3) Ha a megkeresés megválaszolása érdekében szükséges az ügyfél bevonása, akkor az (1) bekezdés szerinti eljárás során a vámellenőrzés szabályait kell alkalmazni.
+(3) Ha a megkeresés megválaszolása érdekében szükséges az ügyfél bevonása, vagy a megkeresés származás utólagos megerősítése iránti megkeresés, akkor az (1) bekezdés szerinti eljárás során a vámellenőrzés szabályait kell alkalmazni.
 
 (4) Az (1) bekezdés alapján a vámhatóság különösen
 

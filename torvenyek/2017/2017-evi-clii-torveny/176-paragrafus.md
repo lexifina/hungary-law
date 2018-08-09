@@ -1,6 +1,6 @@
 ### 176. § [Az egységes vámokmánytól eltérő formátumú vám-árunyilatkozat]
 
-(1) A vámhatóság az Egységes Vám-árunyilatkozatnak (a továbbiakban: EV) adatfeldolgozó rendszerek segítségével történő kinyomtatását és benyújtását az általa jóváhagyott formában engedélyezheti. Az EV-től eltérő forma tekintetében, az EV alaki és tartalmi, továbbá technikai követelményeit a NAV vezetője tájékoztatásban teszi közzé.
+(1) A vámhatóság az egységes vámokmány (a továbbiakban: EV) adatfeldolgozó rendszerek segítségével történő kinyomtatását és benyújtását az általa jóváhagyott formában engedélyezheti. Az EV-től eltérő forma tekintetében, az EV alaki és tartalmi, továbbá technikai követelményeit a NAV vezetője tájékoztatásban teszi közzé.
 
 (2) Az adatfeldolgozó rendszerek segítségével kinyomtatott EV-n az engedély számát mindkét esetben fel kell tüntetni.
 
