@@ -1,1 +1,1 @@
-40. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 174. § (1) bekezdésében az „a Ptk.” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény” szöveg lép.
+### 40. §
