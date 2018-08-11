@@ -1,0 +1,3 @@
+## 1. § Az erdészeti termőhelyfeltárás részletes szabályairól szóló 36/2010. (IV. 13.) FVM rendelet [a továbbiakban: 36/2010. (IV. 13.) FVM rendelet] 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az erdőrészletek rendeltetésének és üzemmódjának megállapítását, az erdők fatermőképesség szerinti ökonómiai osztályozását, az erdőtelepítési, erdőfelújítási, erdőnevelési és fakitermelési munkák tervezését, kiemelten az erdősítési célállomány megválasztását az erdészeti termőhelyfeltárás (a továbbiakban: termőhelyfeltárás) eredményeinek és az erdészeti kutatás erre vonatkozó eredményeinek figyelembevételével kell elvégezni.”
