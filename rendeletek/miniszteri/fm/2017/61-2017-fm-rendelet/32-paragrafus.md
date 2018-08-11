@@ -2,7 +2,7 @@
 
 32. § (1) Az erdőfelújítás célállományát az erdészeti hatóság a kitermelendő faállomány tulajdonságaival, az Evt. 51. § (8) bekezdésében foglaltakkal és az erdő rendeltetéseivel összhangban az erdőgazdálkodó javaslatára úgy határozza meg, hogy az erdőfelújítás eredményeképpen létesült, illetve létesített faállomány fennmaradása a termőhelyi viszonyok – elsősorban a klímaviszonyok, valamint a hidrológiai viszonyok – gyakoribb károsítások, várható változásait alapul véve is biztosított legyen.
 
-(2) Az (1) bekezdésben foglaltak érdekében az erdőfelújítás célállományát megalapozó, az erdő termőhelyi viszonyainak jellemzésére szolgáló, Adattárban nyilvántartott adatok módosítását mért adatokon alapuló részletes termőhelyfeltárási szakvéleménnyel, vagy az erdészeti tudományos kutatással foglalkozó költségvetési szerv igazolásával kell alátámasztani. Igazolásként fogadható el a klímaváltozás hatásaira való felkészülést elősegítő agrár döntéstámogatási rendszerben foglalt adatok.
+(2)[^2] Az (1) bekezdésben foglaltak érdekében az erdőfelújítás célállományát megalapozó, az erdő termőhelyi viszonyainak jellemzésére szolgáló, Adattárban nyilvántartott adatok módosítását az erdészeti termőhelyfeltárás részletes szabályairól szóló rendeletben meghatározott termőhelyfeltárással, valamint a klímaváltozás hatásaira való felkészülést elősegítő agrár döntéstámogatási rendszerben foglalt adatok figyelembevételével kell alátámasztani.
 
 (3) A (2) bekezdésben foglalt módosítás megalapozhatja az erdő természetességi állapotára vonatkozó alapelvárás Evt. 7. § (6) bekezdésében foglaltak szerinti módosítását is.
 
@@ -13,3 +13,5 @@
 (6) Az Evt. 7. § (1) bekezdés e)–f) pontjában foglalt természetességi állapotú faanyagtermelő elsődleges rendeltetésű erdő esetében az erdőfelújítás célállományát a kötelező erdőszerkezet-átalakítás kivételével csak javaslatként kell meghatározni. Az erdőfelújítás során létesíteni tervezett célállományról az erdőgazdálkodó az Evt. 51. § (8) bekezdésében foglaltakkal összhangban a véghasználati, illetve az erdősítési tevékenység éves bejelentése alkalmával szabadon rendelkezhet.
 
 (7) Az erdőfelújítás előírásaként tervezhető célállományokat, az alkalmazható főfafajokat, a főfafajként értékelhető elegyfafajokat és a befejezéskori tőszámokat a 8. melléklet tartalmazza.
+
+[^2]: A 32. § (2) bekezdése a 20/2018. (VII. 27.) AM rendelet 7. §-ával megállapított szöveg.
