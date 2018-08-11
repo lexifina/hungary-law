@@ -1,4 +1,4 @@
-2. melléklet a 36/2010. (IV. 13.) FVM rendelethez
+2. melléklet a 36/2010. (IV. 13.) FVM rendelethez[^10]
 
 ## A termőhelyfeltárási szakvélemény kötelező tartalma
 
@@ -38,9 +38,9 @@ A szakvéleménnyel érintett terület
 
 2.2.2. előforduló termőhelytípus-változatok jellemzése
 
-2.3. az alkalmazható erdősítési célállomány-típusok és azok várható fejlődése
+2.3. az alkalmazható erdősítési célállományok és azok várható fejlődése
 
-2.4. termőhelyi adottságból következő kötelező vagy tiltott talajművelési vagy talajjavítási technológiai eljárások
+2.4. termőhelyi adottságból következő kötelező vagy tiltott talajművelési vagy talajjavítási technológiai eljárások, valamint a termőhelyfeltárás alapján tett javaslat
 
 2.5. keltezés, az erdőgazdálkodó vagy tulajdonos vagy a földterületet egyéb jogcímen használó (jogszerű használó), illetve ezek megbízottja, valamint a szakvéleményt készítő aláírása
 
@@ -53,3 +53,5 @@ b) A megfelelően kitöltött T lap(ok), részletes termőhelyfeltárás esetéb
 c) A talajszelvények homlokfalát és a szelvények környezetét ábrázoló fényképek.
 
 d) Amennyiben rendelkezésre állnak, a T-lap és a kiegészítő laboratóriumi vizsgálatok, a termőhelytérkép, a fényképek – erdészeti hatóság által jóváhagyott formátumú – digitális állománya.
+
+[^10]: A 2. melléklet a 20/2018. (VII. 27.) AM rendelet 6. § o) és p) pontja szerint módosított szöveg.

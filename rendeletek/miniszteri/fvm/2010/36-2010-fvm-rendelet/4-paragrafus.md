@@ -4,7 +4,7 @@
 
 a) közvetlen módon:
 
-aa) a kiválasztott helyen a vizsgált terület környezetének termőhelyi tényezői, és a talajszelvény helyszíni, továbbá a talajminták utólagos laboratóriumi vizsgálatával (részletes termőhelyfeltárás),
+aa)[^4] a kiválasztott helyen a vizsgált terület környezetének termőhelyi tényezői, és a talajszelvény, kis szelvény vagy talajfúrás helyszíni, továbbá a talajminták utólagos laboratóriumi vizsgálatával (részletes termőhelyfeltárás),
 
 ab) a kiválasztott helyen a vizsgált terület környezetének termőhelyi tényezői, és a talajszelvény, kis szelvény, vagy talajfúrás helyszíni vizsgálatával (termőhelyleírás),
 
@@ -15,3 +15,5 @@ ba) a termőhelyi tényezők összhatására kialakuló természetes erdőtársu
 bb) termőhely azonosítás alapján, a közelben azonos tengerszint feletti magassággal, kitettséggel, domborzati és hidrológiai viszonyokkal, talajképző tényezőkkel jellemezhető, ismert termőhelytípus-változatú terület azonosításával,
 
 bc) termőhelytérkép felhasználásával.
+
+[^4]: A 4. § (2) bekezdés a) pont aa) alpontja a 20/2018. (VII. 27.) AM rendelet 6. § c) pontja szerint módosított szöveg.

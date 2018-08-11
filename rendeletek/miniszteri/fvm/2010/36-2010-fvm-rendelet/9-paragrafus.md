@@ -1,5 +1,7 @@
 ## 8. § Amennyiben az erdőgazdálkodó, a tulajdonos, a földterületet egyéb jogcímen használó (jogszerű használó), vagy ezek megbízottja az erdőtelepítés területén, az erdőben, vagy az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen végzett közvetlen termőhelyfeltárás eredményeit tartalmazó, az 1. mellékletben hivatkozott, az előírásoknak megfelelően kitöltött Termőhelyvizsgálati jegyzőkönyvet (a továbbiakban: T-lap), termőhelytérképet, továbbá az 1. mellékletben részletezett térképvázlatot, digitális fényképeket, vagy azok másolatát, vagy az azoknak megfelelő adattartalmú, az erdészeti hatóság által jóváhagyott formátumú digitális állományt megküldi a területileg illetékes erdészeti hatóságnak, az azokban foglalt termőhelyi adatokat az erdészeti hatóság csak ellenőrzés, vagy felülvizsgálat után vezetheti át az Adattáron.
 
-9. § (1) Részletes termőhelyfeltárást, illetve termőhelyleírást felsőfokú erdészeti szakirányú végzettséggel rendelkező jogosult erdészeti szakszemélyzet végezhet.
+9. § (1)[^8] Részletes termőhelyfeltárást, illetve termőhelyleírást felsőfokú erdészeti szakirányú végzettséggel rendelkező jogosult erdészeti szakszemélyzet vagy olyan erdőmérnök végzettséggel rendelkező személy végezhet, aki agrártudományi képzést nyújtó felsőoktatási intézményben talajtani, tápanyag-gazdálkodási területen tudományos minősítést szerzett.
 
 (2) A talajlaboratóriumi vizsgálati adatok minőségéért a laboratórium és a termőhelyfeltárás készítője felelős.
+
+[^8]: A 9. § (1) bekezdése a 20/2018. (VII. 27.) AM rendelet 4. §-ával megállapított szöveg.
