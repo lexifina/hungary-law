@@ -46,4 +46,12 @@ Felelős: nemzetgazdasági miniszter
 
 nemzeti fejlesztési miniszter
 
-Határidő: a b) alpont végrehajtásához igazodva, a felmerülés ütemében
+Határidő: a b) alpont végrehajtásához igazodva, a felmerülés ütemében,
+
+d)[^1] felhívja az emberi erőforrások miniszterét, hogy a c) pontban megjelölt forrásnak az a) pont szerinti célra történő biztosítása érdekében a felhasználásáról kössön támogatási szerződést az Illés Sport Alapítvánnyal
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: a forrás rendelkezésre állását követően azonnal
+
+[^1]: A 3. pont d) alpontját az 1381/2018. (VIII. 13.) Korm. határozat 2. pontja iktatta be.
