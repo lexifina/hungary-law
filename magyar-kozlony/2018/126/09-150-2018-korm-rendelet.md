@@ -1,0 +1,234 @@
+# A Kormány 150/2018. (VIII. 13.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 126. szám, 2018. augusztus 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2e7cc2a406ea5ef5361ea9d8bb0b70cbd8d6b6e0/dokumentumok/2fbcee278585af54b8227cc1c30acaec8d151794/letoltes)
+
+---
+
+A Kormány 150/2018. (VIII. 13.) Korm. rendelete
+az egyes kormányrendeleteknek a toronyházak építésének szabályozásával kapcsolatos módosításáról
+A Kormány
+az 1. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés
+16. pontjában,
+a 2. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés
+2. pontjában,
+a 3. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 12.3. és
+12.4. alpontjában, továbbá a 17. és 25. pontjában,
+a 4. alcím tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában,
+a 25. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 23. és
+24. pontjában
+kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A településrendezési és az építészeti-műszaki tervtanácsokról szóló
+252/2006. (XII. 7.) Korm. rendelet módosítása
+1. §
+A településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet
+(a továbbiakban: R1.) 3. § (1) bekezdése a következő c) ponttal egészül ki:
+(A tervtanács elnöke)
+„c) a helyi építészeti-műszaki tervtanács esetében a települési önkormányzat főépítésze, amennyiben a tárgyalandó
+tervdokumentáció tervezője a települési önkormányzat főépítésze, abban az esetben a tervtanács elnöke
+a b) pontban kijelölt személy.”
+2. §
+Az R1. 5. §-a a következő (5)–(7) bekezdéssel egészül ki:
+„(5) A központi építészeti-műszaki tervtanács tagja a Magyar Művészeti Akadémia építőművészeti szakterületéről
+megbízott személy.
+(6) Ha a hatósági eljárásban a központi építészeti-műszaki tervtanács szakmai véleményét vitatják, az építés
+helye szerinti települési önkormányzat főépítésze helyett tervtanácsi tag a működési területén illetékes, állami
+főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalt vezető kormánymegbízott által kijelölt, az állami
+főépítészre vonatkozó képesítési követelményekkel rendelkező személy.
+(7) Az Étv. 19. § (4) bekezdése szerinti épületek építészeti-műszaki dokumentációjának véleményezésekor – ha
+a világörökségi területet vagy annak látványát érinti – a központi építészeti-műszaki tervtanács tagja a kulturális
+örökség védelméért felelős miniszter által kijelölt, a világörökségi szakterületet képviselő tag.”
+3. §
+Az R1. 7. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A 9. § (2) bekezdés c) pont szerinti építészeti-műszaki dokumentáció másodfokú építésügyi hatósági
+eljáráshoz kapcsolódó véleményezése esetén a tervtanácsi eljárásban bírálóként, elnökként és tagként nem vehet
+részt az elsőfokú építésügyi hatósági eljárásban az elsőfokú döntésbe beépült tervtanácsi vélemény kiadásában
+bírálóként, elnökként vagy tagként részt vett személy.”
+4. §
+Az R1. 9. § (2) bekezdése a következő c) ponttal egészül ki:
+(A központi építészeti tervtanács feladata, hogy)
+„c) véleményezze az Étv. 19. § (4) bekezdése szerinti épület építészeti-műszaki dokumentációját.”
+5. § (1) Az R1. 11. § (3) bekezdése a következő g) ponttal egészül ki:
+(Az építészeti-műszaki tervtanácshoz benyújtandó építészeti-műszaki dokumentációnak az alábbi munkarészeket kell
+tartalmaznia:)
+„g) a településképi követelményeknek való megfelelés bemutatása.”
+(2) Az R1. 11. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Az Étv. 19. § (4) bekezdése szerinti épület építészeti-műszaki dokumentációjának a (3) bekezdésben foglaltak
+mellett az alábbi munkarészeket is tartalmaznia kell:
+
+a) a tervezéssel érintett teleknek vagy telkeknek a 2 km sugarú környezetéhez a településképi illeszkedését
+igazoló leírását a tömegalakításra, anyaghasználatra, színezésre, rálátás és látványvizsgálatra, településkarakterre
+vonatkozóan,
+b) a tervezéssel érintett telekhez vagy telkekhez legközelebb eső világörökségi vagy világörökségi várományos
+helyszín látvány- és sziluett-érzékeny pontjairól, továbbá a tervtanács elnöke által javasolt pontokról készített
+látvány és sziluett vizsgálatot,
+c) az épületnek a szomszédos építményekre gyakorolt benapozási és vetett árnyék vizsgálatát,
+d) a közlekedési munkarészt, amely tartalmazza a közúti és a közösségi közlekedés hálózatkapacitásának, valamint
+a gépjármű-várakozóhelyek kapacitás vizsgálatát és a várható többletterhelés hatáselemzését,
+e) világörökségi területet vagy annak látványát érintő esetben a világörökségi helyszín kiemelkedő egyetemes
+értéke megóvására irányuló követelményeknek való megfelelés bemutatását.”
+6. § (1) Az R1. 13. § (2) bekezdése a következő c) ponttal egészül ki:
+(A tervtanácsi tárgyalásra a következők szerinti esetben meg kell hívni:)
+„c) a központi építészeti-műszaki tervtanács esetén a Magyar Művészeti Akadémia építőművészeti szakterületét
+képviselő tagját,”
+(2) Az R1. 13. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+(A tervtanácsi tárgyalásra a következők szerinti esetben meg kell hívni:)
+„d) az 5. § (6) bekezdésében foglaltak kivételével a központi és a területi építészeti-műszaki tervtanács esetén
+az illetékes önkormányzati főépítészt,”
+(3) Az R1. 13. § (2) bekezdése a következő e) és f) ponttal egészül ki:
+(A tervtanácsi tárgyalásra a következők szerinti esetben meg kell hívni:)
+„e) az 5. § (6) bekezdésében foglalt esetekben a működési területén illetékes, állami főépítészi hatáskörében
+eljáró fővárosi és megyei kormányhivatalt vezető kormánymegbízott által kijelölt, az állami főépítészre vonatkozó
+képesítési követelményekkel rendelkező személyt,
+f) a központi építészeti-műszaki tervtanácsok esetén az Étv. 19. § (4) bekezdése szerinti épületek építészeti-műszaki
+dokumentációjának véleményezésekor – ha a világörökségi területet vagy annak látványát érinti – a kulturális
+örökség védelméért felelős miniszter által kijelölt, a világörökségi szakterületet képviselő tagot.”
+7. §
+Az R1. 15. § (2) bekezdése a következő c) ponttal egészül ki:
+(Az építészeti-műszaki tervtanács a szakmai véleményezés során vizsgálja, hogy a benyújtott építészeti-műszaki terv
+megfelel-e)
+„c) a településképi követelményeknek.”
+8. §
+Az R1. a következő 20. §-sal egészül ki:
+„20. § E rendeletnek az egyes kormányrendeleteknek a toronyházak építésének szabályozásával kapcsolatos
+módosításáról szóló 150/2018. (VIII. 13.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított 3. § (1) bekezdés
+c) pontját és (2) bekezdés g) pontját, 5. § (5)–(7) bekezdését, 7. § (1a) bekezdését, 9. § (2) bekezdés c) pontját, 11. §
+(3) bekezdés g) pontját és (4) bekezdését, 13. § (2) bekezdés c)–f) pontját, 15. § (2) bekezdés a) pont aa) alpontját és
+c) pontját, 16. § (4) bekezdését a Mód. Kr. hatálybalépésekor folyamatban lévő építésügyi hatósági eljárásokban is
+alkalmazni kell.”
+9. §
+Az R1.
+a) 3. § (2) bekezdés g) pontjában a „hitelesíti a tervtanácsi” szövegrész helyébe a „hitelesíti és kiadmányozza
+a tervtanácsi”szöveg,
+b) 11. § (3) bekezdésében az „építészeti-műszakidokumentációnak” szövegrész helyébe az „építészeti-műszaki
+dokumentációnak”szöveg,
+c) 15. § (2) bekezdés a) pont aa) alpontjában a „telepítés, településkép” szövegrész helyébe a „telepítés
+településképbe való illeszkedés”szöveg,
+d) 16. § (4) bekezdésében az „annak (3) bekezdés szerinti” szövegrész helyébe az „annak (2a) és (3) bekezdés
+szerinti”szöveg
+lép.
+
+2. A főépítészi tevékenységről szóló 190/2009. (IX. 15.) Korm. rendelet módosítása
+10. §
+A főépítészi tevékenységről szóló 190/2009. (IX. 15.) Korm. rendelet (a továbbiakban: R2.) 2. § (4) bekezdése helyébe
+a következő rendelkezés lép:
+„(4) A miniszter az e rendeletben és más jogszabályban meghatározott egyes feladatait az országos főépítész útján
+látja el. Az országos főépítészt a miniszter – az általa vezetett minisztérium állományába tartozó személyek közül –
+bízza meg. A miniszter közvetlenül jár el, ha hatósági eljárásban a központi tervtanács szakmai véleményét vitatják.”
+11. §
+Az R2.
+a) 2. § (2) bekezdésében az „az építésügyért felelős miniszter” szövegrész helyébe az „az építésügyi
+szabályozásért és építéshatósági ügyekért, valamint a településfejlesztésért és településrendezésért felelős
+miniszter (a továbbiakban: miniszter)”szöveg,
+b) 2. § (3) bekezdésében az „az építésügyért felelős miniszter (a továbbiakban: miniszter)” szövegrész helyébe
+az„a miniszter”szöveg
+lép.
+3. Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi
+hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet módosítása
+12. §
+Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági
+szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet (a továbbiakban: R3.) 2. § (5) bekezdése helyébe a következő
+rendelkezés lép:
+„(5) Az építtető vagy meghatalmazottja az előzetes szakhatósági állásfoglalás, az építészeti-műszaki tervtanácsi
+vagy településképi vélemény megkéréséhez szükséges dokumentumokat az elektronikus gyűjtő tárhelyre tölti
+fel, melyekhez a szakhatóságnak, a tervtanács elnökének, a települési önkormányzat polgármesterének, a fővárosi
+önkormányzat főpolgármesterének hozzáférést biztosít. A kiemelt nemzeti emlékhely és településkép-védelmi
+környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló 19/2018.
+(II. 14.) Korm. rendeletben (a továbbiakban: KNEKr.) kijelölt hatóság KNEKr. szerinti településképi véleményét
+(a továbbiakban: kiemelt településképi vélemény), a polgármester vagy főpolgármester a településképi véleményét,
+az építészeti-műszaki tervtanács a véleményét, a szakhatóság az állásfoglalását a véleményezett és elektronikusan
+záradékolt dokumentációval együtt ugyanezen tárhelyre tölti fel.”
+13. §
+Az R3. 24. § (1) bekezdése a következő a) ponttal egészül ki:
+[Az összevont eljárás elvi építési keretengedélyezési szakaszának (a továbbiakban: elvi építési keretengedélyezés)
+megindításával egyidejűleg igazolni kell az eljárási illeték, igazgatási szolgáltatási díj befizetését. Igazolni kell, hogy]
+„a) a 23. § (1) bekezdés a) és b) pontjában meghatározott esetben a települési önkormányzat polgármestere
+településképi véleményében az építési tevékenységet engedélyezésre javasolta, vagy”
+14. §
+Az R3. 25. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az építésügyi hatóság az elvi építési keretengedélyt nem adja meg, ha a tervezett építési tevékenység
+a) engedélyezését a kiemelt településképi vélemény vagy településképi véleményében a polgármester nem
+javasolta, vagy
+b) az Étv. 19. § (4) bekezdésében foglaltak szerinti és a központi építészeti tervtanács szakmai véleményében
+engedélyezésre nem ajánlotta.”
+15. §
+Az R3. 32. § (1) bekezdése a következő e) ponttal egészül ki:
+(A kérelemhez – a THSZ-ben összevonható kérelmezett eljárásoktól függően – mellékelni kell)
+„e) az Étv. 19. § (4) bekezdése szerinti esetben annak igazolását, hogy az építészeti-műszaki tervtanács szakmai
+véleményében a tervdokumentációt engedélyezésre ajánlotta.”
+16. § (1) Az R3. 33. §-a a következő (1) bekezdéssel egészül ki:
+„(1) Az Étv. 19. § (4) bekezdés szerinti esetben az építésügyi hatóság a kérelmet elutasítja, ha a központi építészeti-
+műszaki tervtanács a szakmai véleményében a tervdokumentációt engedélyezésre nem ajánlotta.”
+
+(2) Az R3. 33. § (5) bekezdése a következő j) ponttal egészül ki:
+[A telepítési engedély tárgyában hozott döntés rendelkező része az Ákr. 81. § (1) bekezdésében foglaltakon kívül
+– a (4) bekezdés szerinti tartalomtól függően – tartalmazza:]
+„j) az építészeti-műszaki tervtanács véleményét.”
+17. § (1) Az R3. 35. § (2) bekezdése a következő d) és e) ponttal egészül ki:
+(Az IÉSZ megindításához – az IÉSZ-ben összevonható kérelmezett eljárástól függően – mellékelni kell)
+„d) az Étv. 19. § (4) bekezdése szerinti esetben annak igazolását, hogy az építészeti-műszaki tervtanács szakmai
+véleményében a tervdokumentációt engedélyezésre ajánlotta,
+e) a d) pontban foglaltak kivételével annak igazolását, hogy a települési önkormányzat polgármestere településképi
+véleményében az építési tevékenységet engedélyezésre javasolta.”
+(2) Az R3. 35. §-a a következő (9) bekezdéssel egészül ki:
+„(9) Az építésügyi hatóság az integrált építési engedély iránti kérelmet elutasítja, ha a tervezett építési tevékenység
+engedélyezését
+a) a települési önkormányzat polgármestere településképi véleményében nem javasolta,
+b) az Étv. 19. § (4) bekezdése szerinti esetben a központi építészeti tervtanács szakmai véleményében nem ajánlotta.”
+18. §
+Az R3. 71. § (5) bekezdése a következő c) ponttal egészül ki:
+(A másodfokú építésügyi hatóság az eljárás megindulását követően öt napon belül, amennyiben a fellebbezés tartalma)
+„c) érinti a központi építészeti tervtanácsnak az első fokú határozatba beépült véleményét, kikéri a miniszter által
+vezetett központi építészeti tervtanács”
+(véleményét, aki, illetve amely azt tizenöt napon belül köteles megadni.)
+19. §
+Az R3. a következő 77/B. §-sal egészül ki:
+„77/B. § E rendeletnek az egyes kormányrendeleteknek a toronyházak építésének szabályozásával kapcsolatos
+módosításáról szóló 150/2018. (VIII. 13.) Korm. rendelettel (a továbbiakban: Mód. Kr4.) megállapított 2. §
+(5) bekezdését, 14. § (1) bekezdését, 24. § (1) bekezdés a) pontját, 25. § (1) és (3) bekezdését, 32. § (1) bekezdés
+e) pontját, 33. § (1) bekezdését és (5) bekezdés j) pontját, 35. § (2) bekezdés d) és e) pontját és (9) bekezdését, 42. §
+(4) bekezdés a) pontját, 61. § (4) és (6) bekezdését, 71. § (5) bekezdés c) pontját a Mód. Kr4. hatálybalépésekor
+folyamatban lévő eljárásokban is alkalmazni kell.”
+20. §
+Az R3.
+a) 14. § (1) bekezdés nyitó szövegrészében az „építési engedélyezési, az összevont és kormányrendeletben
+meghatározott esetekben a fennmaradási engedélyezési” szövegrész helyébe az „építési, az összevont és
+a fennmaradási engedélyezési eljárást, valamint az összevont telepítési”szöveg,
+b) 25. § (1) bekezdésében a„során során”szövegrész helyébe a„során”szöveg,
+c) 42. § (4) bekezdés a) pontjában a„véleményt,”szövegrész helyébe a„vélemény vagy”szöveg,
+d) 42. § (4) bekezdés a) pontjában a„véleményében”szövegrész helyébe a„véleménye”szöveg,
+e) 61. § (4) és (6) bekezdésében az „építésügyért” szövegrész helyébe az „építésügyi szabályozásért és
+építéshatósági ügyekért”szöveg
+lép.
+4. A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és
+a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló
+314/2012. (XI. 8.) Korm. rendelet módosítása
+21. §
+A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési
+eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet
+(a továbbiakban: R4.) 26. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+[Az építési tevékenységgel érintett telek helye szerinti település polgármestere településképi véleményezési eljárást
+(a továbbiakban: véleményezési eljárás) folytathat le e rendelet eljárási szabályai szerint]
+„a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági
+szolgáltatásról szóló kormányrendeletben meghatározott, a (2) bekezdés szerinti engedélyezési eljárásokat
+
+megelőzően, amelynél a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendelet szerinti
+területi és központi építészeti-műszaki tervtanácsnak nincs hatásköre, továbbá”
+22. §
+Az R4. 33. alcíme a következő 46/F. §-sal egészül ki:
+„46/F. § E rendeletnek az egyes kormányrendeleteknek a toronyházak építésének szabályozásával kapcsolatos
+módosításáról szóló 150/2018. (VIII. 13.) Korm. rendelettel (a továbbiakban: Mód.Kr. 6.) megállapított 26. §
+(1) bekezdés a) pontját és 26. § (2) bekezdését a Mód.Kr. 6. hatálybalépésekor folyamatban lévő építésügyi hatósági
+eljárásokban és településképi véleményezési eljárásokban is alkalmazni kell.”
+23. §
+Az R4.
+a) 26. § (2) bekezdésében az„eljárásokhoz”szövegrészek helyébe az„eljáráshoz, valamint az összevont telepítési
+eljárás integrált építési engedélyezési szakaszához”szöveg,
+b) 45. § (1) bekezdésében a„2018. december 31-ig”szövegrész helyébe a„2019. december 31-ig”szöveg,
+c) 46. § (1) bekezdésében a„2018. december 31-ig”szövegrész helyébe a„2019. december 31-ig”szöveg
+lép.
+5. Záró rendelkezés
+24. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

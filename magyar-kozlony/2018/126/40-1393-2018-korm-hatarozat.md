@@ -1,0 +1,95 @@
+# A Kormány 1393/2018. (VIII. 13.) Korm. határozata
+
+Magyar Közlöny 2018. évi 126. szám, 2018. augusztus 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2e7cc2a406ea5ef5361ea9d8bb0b70cbd8d6b6e0/dokumentumok/2fbcee278585af54b8227cc1c30acaec8d151794/letoltes)
+
+---
+
+A Kormány 1393/2018. (VIII. 13.) Korm. határozata
+az Egyetemes Postaegyesület (Universal Postal Union) 2. Rendkívüli Kongresszusán az Egyetemes
+Postaegyesület Alapokmánya, az Egyetemes Postaegyezmény és az Általános Szabályzat módosítása
+szövegének végleges megállapítására adott felhatalmazásról
+A Kormány
+1. jóváhagyja az 1. mellékletben meghatározott tárgyalási álláspontokat, és ennek tekintetében felhatalmazza
+a magyar küldöttséget az Egyetemes Postaegyesület 2. Rendkívüli Kongresszusán Magyarország érdekeinek
+képviseletére;
+2. felhatalmazza a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert vagy az általa kijelölt személyt
+az Egyetemes Postaegyesület Alapokmánya és az Egyetemes Postaegyezmény szövegének az Országgyűlés
+utólagos megerősítése fenntartásával történő, valamint az Általános Szabályzat szövegének (a továbbiakban együtt:
+Módosítások) a Kormány utólagos jóváhagyása fenntartásával történő végleges megállapítására, amennyiben
+az megfelel a magyar érdekeknek;
+3. felhívja a külgazdasági és külügyminisztert, hogy a küldöttség részére a Módosítások szövegének végleges
+megállapításához szükséges meghatalmazási okiratot állítsa ki;
+Felelős: külgazdasági és külügyminiszter
+Határidő: azonnal
+4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, a külgazdasági és külügyminisztert, valamint
+az igazságügyi minisztert, hogy a Módosítások kihirdetéséről szóló jogszabályok tervezetét a Módosítások
+szövegének végleges megállapítását követően terjesszék a Kormány elé.
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+külgazdasági és külügyminiszter
+igazságügyi miniszter
+Határidő: 2019. november 30.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1393/2018. (VIII. 13.) Korm. határozathoz
+Tárgyalási álláspont az Egyetemes Postaegyesület 2. Rendkívüli Kongresszusán részt vevő magyar
+küldöttség tevékenységéhez
+Az UPU 2. Rendkívüli Kongresszusán (Addisz-Abeba 2018. szeptember 3–7.) a magyar küldöttség az alábbi tárgyalási
+álláspontokban javasoltak lehetőség szerinti támogatásával, összhangban a Kormány általános politikájának
+céljaival és feladataival, valamint az Európai Unió prioritásaival, a magyar nemzeti érdekeket és a közös euroatlanti
+értékeket egyidejűleg érvényesítve igyekszik tevékenységét kifejteni.
+I. Az UPU integrált projekttervének és elszámolási rendszerének megvalósítása
+Javasolt az„Isztambuli Postastratégia” és az UPU 26. Kongresszusán jóváhagyott elvek szerint összeállított UPU által
+előkészített integrált projektterv, valamint az elszámolási rendszerre vonatozó javaslat támogatása.
+Az integrált terméktervre vonatkozó javaslat figyelembe veszi mind a termékfejlesztés, mind a biztonság
+szempontjait, továbbá megfelelő ütemezéssel vezeti be a szükséges termékkategóriákat.
+Az integrált termékterv keretében korszerűsített nemzetközi postai portfólió bevezetésével párhuzamosan
+szükséges az elszámolási rendszer korszerűsítése is.
+II. Az UPU hatékonyabb működésére, valamint a szervezet fenntarthatóságára vonatkozó javaslatok
+Az UPU reformjának keretében az előkészített javaslat szerint nincs szükség a szervezeti struktúrák alapvető
+megváltoztatására, a szabályozási és operatív feladatok irányítását megfelelően el tudja látni az Igazgatási Tanács,
+valamint a Postaforgalmi Tanács, ugyanakkor szükséges közbenső kongresszusok beiktatása annak érdekében,
+
+hogy a sürgős döntésekkel ne legyen szükséges megvárni a négyévente tartott kongresszusokat, illetve ezek
+a döntéshozó fórumok hatékonyan tudják ellátni a rendes kongresszusok döntés-előkészítési feladatait.
+Szükséges a 19 európai tagállam javaslatának támogatása, melynek elfogadása esetén az Igazgatási Tanácsnak
+– az UPU munkaszervezetét adó Nemzetközi Iroda támogatásával – elő kell készítenie egy javaslatot az UPU
+hosszú távú fenntarthatóságát garantáló, szükséges döntésekről, és ezt a 2020-ban tartandó kongresszus elé kell
+terjesztenie.
+III. Az UPU Alapokmányára vonatkozó a Kongresszusra benyújtott, a tagállamok számára már publikált módosítási
+javaslatok tartalmi elemei:
+1. 1. cikk módosítása. Javaslattevő: Igazgatási Tanács (CA)
+Javasolt támogatni az UPU által előkészített szövegpontosító módosításokat a szervezet kormányközi
+jellegének hangsúlyozása érdekében.
+2. 2. cikk módosítása. Javaslattevő: Igazgatási Tanács (CA)
+Javasolt támogatni azon szövegpontosításokat, amelyek célja a szervezet kormányközi jellegének
+megerősítése, valamint a szöveg logikus sorrendjének biztosítása.
+3. Új 2. cikk beiktatása. Javaslattevő: Postaforgalmi Tanács (POC)
+Javasolt támogatni azon módosításokat, melyek célja az Unió kormányközi jellegének megerősítése és
+az Igazgató Tanács vonatkozásában már használt szövegezéssel való összhang biztosítása.
+IV. Az Egyetemes Postaegyezményre vonatkozó, a Kongresszusra benyújtott, a tagállamok számára már publikált
+módosítási javaslatok tartalmi elemei:
+1. Új 3.1b. bekezdés, 1. és 2. cikk módosítása. Javaslattevő: Postaforgalmi Tanács (POC)
+Az integrált termékterv megvalósítása érdekében javasolt támogatni az alábbi módosítási javaslatokat:
+a vakok tárgyaira, valamint az „M” zsákokra vonatkozó rendelkezések kiegészítését, a nyomkövetési
+szolgáltatásra vonatkozó rendelkezések bevezetését (a hatálybalépés időpontja: 2020. január 1.), valamint
+a„Törékeny”opcionális kiegészítő szolgáltatásra vonatkozóan.
+2. A 8. cikk módosítása. Javaslattevő: Chile
+Javasolt támogatni a nyomkövetési díj beemelését, tekintettel a nyomkövetési szolgáltatásnak az integrált
+termékterv szerinti kiterjesztésére.
+3. Az 1. cikk és 4. cikk módosítása. Javaslattevő: Norvégia
+Javasolt támogatni Norvégia szövegpontosító javaslatait egyrészt arra vonatkozóan, hogy az UPU eljárásaival
+való összhang megteremtése céljából a tagok többségi döntése legyen megszüntetni a jóváhagyás
+feltételeit, amennyiben az adott rendelkezés tárgya nem zárja ki a fenntartások lehetőségét, másrészt arra
+vonatkozóan, hogy azon fenntartásokat, melyek lehetősége nem kizárt, ne legyen szükséges a tagok
+többségének jóváhagyására benyújtani.
+V. Az Általános Szabályzatra vonatkozó, a Kongresszusra benyújtott, a tagállamok számára már publikált módosítási
+javaslatok tartalmi elemei:
+1. Számos kisebb, illetve szövegpontosító módosítás. Javaslattevő: Igazgatási Tanács (CA)
+Az UPU eljárásainak hatékonyabbá tétele, valamint a szövegezés egységesítése érdekében javasolt támogatni
+az Igazgatási Tanács (CA) részéről megfogalmazott kisebb, valamint szövegpontosító javaslatait.
+2. Az 1. cikk módosítása. Javaslattevő: Chile, Costa Rica, Panama
+Nem javasolt támogatni a módosítási javaslatot, amely új hozzájárulási csoportokat hozna létre a rossz
+pénzügyi helyzetben lévő tagállamok helyzetének könnyítésére.
+3. Az 1.3. cikk módosítása. Javaslattevő: Norvégia
+Javasolt támogatni Norvégia fenntartási szabályokra vonatkozó egyszerűsítési javaslatát összhangban
+az Egyetemes Postaegyezményre vonatkozó módosítási tervezetével.

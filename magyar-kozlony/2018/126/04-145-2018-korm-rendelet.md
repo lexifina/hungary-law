@@ -1,0 +1,166 @@
+# A Kormány 145/2018. (VIII. 13.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 126. szám, 2018. augusztus 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2e7cc2a406ea5ef5361ea9d8bb0b70cbd8d6b6e0/dokumentumok/2fbcee278585af54b8227cc1c30acaec8d151794/letoltes)
+
+---
+
+A Kormány 145/2018. (VIII. 13.) Korm. rendelete
+a kiemelt településkép-védelmi környezettel kapcsolatos egyes kormányrendeletek módosításáról
+A Kormány
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló
+2006. évi LIII. törvény 12. § (5) bekezdés a) pontjában kapott felhatalmazás alapján,
+az 1. § (2) bekezdése tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. §
+(1) bekezdés 6. pontjában, valamint a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 29. alpontjában
+kapott felhatalmazás alapján,
+a 2. alcím tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1a) bekezdés b) pontjában, valamint
+93. § (1a) bekezdés a), b), c), d) és e) pontjában kapott felhatalmazás alapján, a kulturális örökség védelméről szóló 2001. évi
+LXIV. törvény 93. § (1a) bekezdés b) pontjában meghatározott feladatkörében eljáró Kiemelt Nemzeti Emlékhely Bizottság
+véleményének kikérésével
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A Budapest V. kerület Kossuth Lajos téri beruházási programmal összefüggő közigazgatási hatósági
+ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló
+100/2012. (V. 16.) Korm. rendelet módosítása
+1. § (1) A Budapest V. kerület Kossuth Lajos téri beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt
+jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 100/2012. (V. 16.) Korm. rendelet
+(a továbbiakban: R1.) 1. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép, valamint a bekezdés
+a következő g) ponttal egészül ki:
+[A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Budapest V. kerület közigazgatási
+területén lévő, belterület 24666 helyrajzi számú (a továbbiakban: hrsz.) (Akadémia utca), 24694 (Zoltán utca), 24696,
+24697, 24708 (Garibaldi utca), 24710/2, 24710/4, 24711, 24712, 24713 (Nádor utca), 24715 (Zoltán utca), 24718, 24719
+(Vécsey utca), 24725 (Honvéd utca), 24834/1 (Vértanúk tere), 24834/2 (Báthory utca), 24859 (Kálmán Imre utca), 24876
+(Szemere utca), 24881, 24890, 24891, 24892 (Alkotmány utca), 24893 (Kossuth Lajos tér), 24894 (Országház), 24897/1
+(idősebb Antall József rakpart), 24897/2, 24898, 24899, 24914 (Szalay utca), 24917, 24956/2, 24965/2 (Falk Miksa utca),
+24957, 24971/2 (Honvéd utca), 24973/2 (Szemere utca), 24986, 24987, 24988, 24989/2 (Balassi Bálint utca), 25007,
+25122/4, 25122/6, 24747/1 (Szabadság tér) hrsz.-ú ingatlanokat, illetve ezen földrészletekből a telekalakítási eljárások
+befejezését követően kialakított földrészleteket érintő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket,
+amelyek a Budapest V. kerület]
+„f) Alkotmány utca (24892 hrsz.-ú ingatlan) felszíni rendezése,
+g) a Kossuth Lajos tér 11. szám (24891 hrsz.-ú ingatlan) alatti mélygarázs és a határos közterületek alatt egyéb
+közlekedési célú építmény építése”
+[beruházással (a továbbiakban együtt: beruházás) függenek össze.]
+(2) Az R1. 1/A. §-a helyébe a következő rendelkezés lép:
+„1/A. § Műemlékvédelmi vagy világörökségi érdekből, továbbá amennyiben a kiemelt nemzeti emlékhely
+kulturális értéke megőrzése érdekében szükséges, az 1. mellékletben foglalt táblázat C:2 és C:5 mezője szerinti
+hatósági ügyekben eljáró hatóság a beruházás keretében műemléken és a világörökségi területen végzett
+építési tevékenység engedélyezése során az országos településrendezési és építési követelményekről szóló
+253/1997. (XII. 20.) Korm. rendelet rendelkezéseitől, valamint az utak építésének, forgalomba helyezésének és
+megszüntetésének engedélyezéséről szóló 93/2012. (V. 10.) Korm. rendelet rendelkezései tekintetében az útügyi
+műszaki követelményektől és előírásoktól eltérhet, ha az alkalmazandó megoldás az élet- és vagyonbiztonság
+követelményeinek megfelel.”
+
+2. A kiemelt nemzeti emlékhely és településkép védelmi környezetének településkép védelméről és
+egyes kapcsolódó kormányrendeletek módosításáról szóló 19/2018. (II. 14.) Korm. rendelet módosítása
+2. § (1) A kiemelt nemzeti emlékhely és településkép védelmi környezetének településkép védelméről és egyes kapcsolódó
+kormányrendeletek módosításáról szóló 19/2018. (II. 14.) Korm. rendelet (a továbbiakban: R2.) 19. § (2) bekezdés
+d) pontja helyébe a következő rendelkezés lép:
+[Az (1) bekezdés szerinti beruházás keretében]
+„d) a Budapest V. kerület belterület 24876, 24881, 24890, 24891, 24892, 24893, 24898, 24899, 24971/2, 24973/2,
+24715, 24725, 24747/1 helyrajzi számú telek, valamint ezen földrészletekből a telekalakítási eljárások befejezését
+követően kialakított földrészletek tekintetében mélygarázs és egyéb közlekedési célú építmény, a hozzá tartozó
+kiszolgáló rendeltetések elhelyezését biztosító építményrészekkel, épületgépészeti célú építmény, közműellátás
+építménye, továbbá köztéri szobor és műalkotás helyezhető el;”
+(2) Az R2. 19. § (2) bekezdése a következő f) és g) ponttal egészül ki:
+[Az (1) bekezdés szerinti beruházás keretében]
+„f) a beruházással érintett építményre, építményrészre vonatkozó műszaki, hatékonysági, funkcionális,
+fenntarthatósági okok miatt építési tevékenység – a településképi arculat helyreállításának kötelezettsége mellett –
+teljeskörűen végezhető;
+g) a közterületet érintő telekalakítás során a településrendezési eszközökben rögzített előírásokat nem kell
+figyelembe venni.”
+(3) Az R2. 23. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Tető eredeti formájának és geometriájának, tetődíszének, illetve díszes tetőfelépítményének rekonstrukciója
+során, illetve azzal összefüggésben történő beruházás esetén a településrendezési eszközökben előírt beépítési
+szabályok figyelmen kívül hagyhatók.”
+(4) Az R2. 37. § a) pontja helyébe a következő rendelkezés lép:
+(A településképi bejelentési eljárás kötelező)
+„a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági
+szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendeletben – ide nem értve az építésügyi és építésfelügyeleti hatósági
+eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet
+1. melléklet 14., 22., 28. és 32. pontjában meghatározott tevékenységeket – az építési engedélyhez nem kötött
+építési tevékenységek,”
+(esetében.)
+3. §
+Az R2. 2. melléklete az 1. melléklet szerint módosul.
+4. §
+Az R2.
+a) 11. § (1) bekezdésében a „Fennálló épülethomlokzat” szövegrész helyébe a „Fennálló közterületről látható
+épülethomlokzat”szöveg,
+b) 11. § (2) bekezdésében az „Új épülethomlokzat” szövegrész helyébe az „Új, közterületről látható
+épülethomlokzat”szöveg,
+c) 11. § (3) bekezdésében a „Fennálló vakolt homlokzati anyagú épülethomlokzat” szövegrész helyébe
+a„Fennálló, vakolt homlokzati anyagú, közterületről látható épülethomlokzat”szöveg,
+d) 11. § (5) bekezdésében a „Fennálló vakolt homlokzati anyagú épülethomlokzat” szövegrész helyébe
+a„Fennálló, vakolt homlokzati anyagú, közterületről látható épülethomlokzat”szöveg,
+e) 11. § (6) bekezdésében az „Új épülethomlokzat” szövegrész helyébe az „Új, közterületről látható
+épülethomlokzat”szöveg,
+f) 11. § (7) bekezdésében az „A homlokzatot” szövegrész helyébe az „A közterületről látható homlokzatot”
+szöveg,
+g) 11. § (8) bekezdésében a„Fennálló eredeti állapot szerinti homlokzattagolás” szövegrész helyébe a„Fennálló,
+eredeti állapot szerinti, közterületről látható homlokzattagolás”szöveg,
+h) 11. § (10) bekezdésében az„a homlokzat”szövegrész helyébe az„a közterületről látható homlokzat”szöveg,
+i) 11. § (11) bekezdés c) pontjában a „homlokzati égéstermék” szövegrész helyébe a „közterületről látható
+módon homlokzati égéstermék”szöveg,
+j) 11. § (11) bekezdés d) pontjában a „légkondicionáló berendezés” szövegrész helyébe a „közterületről látható
+módon légkondicionáló berendezés”szöveg,
+
+k) 11. § (19) bekezdésében az „Új kirakatszekrény homlokzaton” szövegrész helyébe az „Új kirakatszekrény
+közterületről látható homlokzaton”szöveg
+lép.
+3. Záró rendelkezés
+5. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 145/2018. (VIII. 13.) Korm. rendelethez
+Az R2. 2. mellékletében foglalt táblázat 13. és 14. sora helyébe a következő rendelkezések lépnek:
+[A B C D E F G H I J K
+1.
+érintett telek
+(Budapest
+V. kerület,
+helyrajzi szám)
+az építési telek az épület
+2.
+legkisebb
+kialakítható
+területe
+legnagyobb
+kialakítható
+területe
+beépítettség
+megengedett
+legnagyobb
+mértéke
+terepszint alatti
+beépítettség
+megengedett
+legnagyobb
+mértéke
+szintterületi
+mutató
+megengedett
+legnagyobb
+mértéke
+a zöldfelület
+legkisebb
+mértéke
+épület
+legmagasabb
+pontja
+utcai párkány-
+magasság
+az építmény-
+magasság
+megengedett
+legkisebb
+mértéke
+az építmény-
+magasság
+megengedett
+legnagyobb
+mértéke
+3. (m2) (m) (%) (%) (m2/m2) (%) (m) (m) (m) (m)]
+„
+13. 24890 o o 2 85 o o o o o o
+14. 24891 800 2000 100 100 o 0 o o 16 25 / 28 ***
+”

@@ -1,0 +1,134 @@
+# A Kormány 148/2018. (VIII. 13.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 126. szám, 2018. augusztus 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2e7cc2a406ea5ef5361ea9d8bb0b70cbd8d6b6e0/dokumentumok/2fbcee278585af54b8227cc1c30acaec8d151794/letoltes)
+
+---
+
+A Kormány 148/2018. (VIII. 13.) Korm. rendelete
+az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet és az elektronikus ügyintézés
+részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet módosításáról
+A Kormány a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 143. § (1) bekezdés h) pontjában kapott
+felhatalmazás alapján,
+a 2. alcím tekintetében az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi
+CCXXII. törvény 105. § (1) bekezdés c) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet módosítása
+1. § (1) Az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet (a továbbiakban: R.) 4. § (3) bekezdése
+helyébe a következő rendelkezés lép:
+„(3) Az önkormányzati ASP rendszert úgy kell kialakítani, hogy az egyes szakrendszerekben tárolt adatokhoz
+csak az adatkezelő önkormányzat, valamint a képviselő-testület és annak szervei, gazdálkodási szakrendszer
+esetén az önkormányzat, a képviselő-testület és annak szervei vagy az önkormányzat által alapított költségvetési
+szerv férjen hozzá, azzal, hogy a 3. § (2) bekezdés f) pontja szerinti szakrendszerben tárolt adatokhoz kizárólag
+az önkormányzati adóhatóság férhet hozzá.”
+(2) Az R. 6. §-a a következő (4a) bekezdéssel egészül ki:
+„(4a) Az interfészes csatlakozás a 3. melléklet szerinti adatoknak az önkormányzati adattárház számára történő
+automatizált elektronikus átadhatóságának biztosításával valósul meg.”
+(3) Az R. 8/A. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+[Csatlakozását megelőzően az (1) bekezdés a) pontja szerinti önkormányzati költségvetési szerv szolgáltatási szerződést
+köt a Kincstárral. A szolgáltatási szerződés]
+„a) alapján az önkormányzati költségvetési szerv kizárólag a 3. § (2) bekezdés a) és d) pontja szerinti szakrendszerhez
+csatlakozhat,”
+(4) Az R. 8/A. §-a a következő (6) bekezdéssel egészül ki:
+„(6) Az önkormányzati költségvetési szerv az önkormányzati ASP rendszerhez a csatlakozás kezdeményezését
+követő év január 1-jével csatlakozhat, a csatlakozást a megelőző év július 31-éig kezdeményezheti.
+Az önkormányzati költségvetési szerv a csatlakozás időpontjáról és módjáról a Kincstárral – ha az önkormányzati
+költségvetési szerv csatlakozása az önkormányzati ASP rendszerhez kötelezően csatlakozók ellátását nem
+veszélyezteti – megállapodik.”
+
+(5) Az R. 9. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A Kincstár az önkormányzati adattárházban tárolt adatok tekintetében adatkezelői feladatokat lát el. Ennek keretében
+a Kincstár)
+„b) az érintett helyi önkormányzat számára a saját álnevesített adatai, valamint a helyi önkormányzat és
+az önkormányzati érdekszövetségek számára más helyi önkormányzatok álnevesített adataiból összesített és
+átlagolt, így összehasonlításra és elemzésre alkalmas adatai vonatkozásában,”
+(rendszeres és eseti adatlekérdezést, adatösszegzést és adatszolgáltatást végez.)
+(6) Az R. 9. §-a a következő (7) bekezdéssel egészül ki:
+„(7) Az önkormányzati adattárházban tárolt álnevesített adatok ismételt megszemélyesítését a saját adataik
+tekintetében kizárólag a helyi önkormányzatok végezhetik el.”
+(7) Az R. 12–14. §-a helyébe a következő rendelkezések lépnek:
+„12. § (1) A 2018. január 1. napjáig az önkormányzati ASP rendszerhez már csatlakozott önkormányzatokon túl
+a) 2019. január 1-jéig csatlakoznak az önkormányzati ASP rendszer
+aa) valamennyi szakrendszeréhez az 5. melléklet szerinti helyi önkormányzatok, az interfésszel csatlakozók
+kivételével,
+ab) 3. § (2) bekezdés a), d) és e) pontjában meghatározott szakrendszereihez a megyei önkormányzatok,
+b) 2019. június 1-jéig csatlakoznak az interfészes csatlakozók, a (2) bekezdésben meghatározott kivétellel.
+(2) Ha a helyi önkormányzat nem a Kincstár adófeldolgozó programrendszerét használja, akkor a 3. § (2) bekezdés
+f) pontja szerinti szakrendszerhez csak a Htv. 44. § (2) bekezdésében rögzített határnaptól csatlakozik; 2019. június
+1-jétől azonban a 3. mellékletben foglalt táblázat 2. sora szerinti adatok teljes körének automatizált elektronikus
+átadását biztosítania kell az önkormányzati adattárház számára.
+(3) A 3. § (2) bekezdés b) pontja szerinti települési portál rendszer használata a helyi önkormányzat számára nem
+kötelező. A rendszer használatával vagy használatának mellőzésével kapcsolatos igényét a helyi önkormányzat
+évente egyszer, a tárgyévet megelőző év június 30-áig jelezheti a Kincstár számára. Az önkormányzati ASP rendszer
+a portálszolgáltatást az igény jelzését követő év január 1-jétől biztosítja vagy szünteti meg. A települési portál
+felületére feltöltött tartalmakért az önkormányzati települési portál rendszer igénybevétele esetén is a helyi
+önkormányzat felel.
+(4) A (3) bekezdésben megjelölt igényt a 2019-es évre vonatkozóan a települési önkormányzat az önkormányzati
+ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet és az elektronikus ügyintézés részletszabályairól szóló
+451/2016. (XII. 19.) Korm. rendelet módosításáról szóló 148/2018. (VIII. 13.) Korm. rendelet hatálybalépését követő
+30 napon belül jelezheti.
+(5) Az e §-ban megjelölt végső csatlakozási időpontnál korábbi csatlakozásra a Kincstár és a helyi önkormányzat
+megállapodása alapján kerülhet sor.
+13. § (1) Interfésszel az a helyi önkormányzat csatlakozhat, amelynek interfészes csatlakozására az e-közigazgatásért
+felelős miniszter legkésőbb 2018. május 31-ig az engedélyt megadta.
+(2) Az (1) bekezdés szerinti helyi önkormányzatnak az önkormányzati ASP rendszerről szóló 257/2016.
+(VIII. 31.) Korm. rendelet és az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet
+módosításáról szóló 148/2018. (VIII. 13.) Korm. rendelet hatálybalépését követő 30 napon belül jeleznie kell, ha
+a) az interfész kiépítésével határidőre nem készül el, vagy
+b) egyéb okból rendszercsatlakozással kíván csatlakozni.
+Ekkor az e-közigazgatásért felelős miniszter az interfészes csatlakozáshoz történő hozzájárulását visszavonja, és
+a helyi önkormányzat 2019. január 1-jétől rendszercsatlakozással csatlakozik az önkormányzati ASP rendszerhez.
+(3) Ha az e-közigazgatásért felelős miniszter álláspontja szerint valószínűsíthető, hogy a teljes körű interfész
+kiépítésével a helyi önkormányzat a csatlakozási határidőre nem készül el, vagy az interfész technikai megvalósítása
+nem megfelelő, az e-közigazgatásért felelős miniszter az interfészes csatlakozáshoz történő hozzájárulását
+visszavonja. Ebben az esetben a helyi önkormányzat rendszercsatlakozással csatlakozik az önkormányzati ASP
+rendszerhez. A rendszercsatlakozás időpontjára a (7) bekezdést kell alkalmazni.
+(4) Az interfésszel csatlakozó helyi önkormányzatok a 3. mellékletben foglalt táblázat 1. sora szerinti,
+a 2018. évre vonatkozó végleges adataikat a Kincstár által meghatározott interfész-specifikációnak megfelelően
+2019. augusztus 1-jéig az önkormányzati adattárházba feltöltik.
+(5) A (4) bekezdésben megjelölt időpontig a 2017. és 2018. évben rendszercsatlakozással csatlakozott helyi
+önkormányzatok 2018. évre vonatkozó végleges adatainak adattárházba töltését is el kell végezni.
+
+(6) Az interfészengedéllyel rendelkező helyi önkormányzatok üzemszerű adattárháztöltési képességét szűkített
+adatkörön a Kincstár próbaüzem során már előzetesen is monitorozza. A próbaüzem időtartamát a Kincstár
+közzéteszi.
+(7) 2019. június 1-jét követően az interfésszel csatlakozott helyi önkormányzat az e-közigazgatásért felelős
+miniszternél kezdeményezheti a rendszercsatlakozásra történő csatlakozást. A rendszercsatlakozás időpontját
+az e-közigazgatásért felelős miniszter a Kincstárral együtt állapítja meg.
+(8) A Kincstár – a 3. melléklet szerinti adatok nyilvántartását szabályozó előírások 2019. évi módosításokhoz
+kapcsolódó adatstruktúra-változásokat is figyelembe véve – az interfész-specifikáció teljes körű, végleges változatát
+legkésőbb 2019. március 15-ig az érintett önkormányzatok rendelkezésére bocsátja.
+14. § (1) Az önkormányzati ASP központról és a közfeladatot ellátó szervek iratkezelésének általános
+követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosításáról szóló 62/2015. (III. 24.) Korm. rendelet
+alapján az önkormányzati ASP központhoz csatlakozott önkormányzatokat e rendelet alkalmazásában csatlakozott
+önkormányzatnak kell tekinteni.
+(2) Az Mötv. 114. § (3) bekezdése alkalmazásában a csatlakozás végső időpontjának a rendszercsatlakozás
+határidejét kell tekinteni.
+(3) A Htv. 44. §-a alkalmazásában az önkormányzati ASP rendszer önkormányzati adórendszerét a Kincstár által
+rendelkezésre bocsátott számítógépes programrendszernek kell tekinteni.
+(4) A csatlakozási időpontot megelőző év vonatkozásában a zárási, évváltási, adatszolgáltatási és beszámolási
+feladatokat a korábban alkalmazott szoftverrel kell elvégezni.”
+2. §
+Az R. 5. mellékletének lábjegyzetében a „(4) és (6) bekezdésében” szövegrész helyébe a „(2) bekezdésében” szöveg
+lép.
+3. §
+Hatályát veszi az R.
+a) 1. § 2. pontjában a„jogosultságkezelés,”szövegrész,
+b) 14/A–16. és 18. §-a,
+c) 4. melléklete.
+2. Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet módosítása
+4. §
+Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 85. §-a a következő (8) és
+(9) bekezdéssel egészül ki:
+„(8) A helyi önkormányzat – választása szerint –
+a) a képviselő-testület és annak a Magyarország helyi önkormányzatairól szóló törvényben meghatározott szervei
+esetében egyaránt az önkormányzat saját nevére szóló hivatali tárhelyét használja, vagy
+b) az önkormányzati hivatali tárhely használata mellett a képviselő-testület egyes szervei részére jogosult önálló
+hivatali tárhelyet is használni.
+(9) Ha a helyi önkormányzat – a (8) bekezdés b) pontja alapján – több hivatali tárhellyel rendelkezik, akkor ezek
+vonatkozásában köteles az ügyfeleket, valamint az együttműködő szerveket arról tájékoztatni, hogy melyik hivatali
+tárhelyet milyen célra lehet igénybe venni.”
+3. Záró rendelkezések
+5. §
+Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
