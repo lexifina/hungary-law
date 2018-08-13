@@ -1,0 +1,143 @@
+## 1. egyetért azzal, hogy a kínai fél meghívása alapján Magyarország díszvendégországként vegyen részt a Sanghajban megrendezésre kerülő Kínai Nemzetközi Import Expo (továbbiakban: Expo) elnevezésű eseményen, amelynek keretében állítson fel nemzeti pavilont és agrárpavilont;
+
+## 2. az 1. pont szerinti cél megvalósítása érdekében
+
+## a) felhívja a külgazdasági és külügyminisztert, hogy az agrárminiszterrel és az innovációs és technológiai miniszterrel együttműködve – az MNKH Magyar Kereskedelem-fejlesztési és Promóciós Korlátolt Felelősségű Társaság, a Nemzeti Befektetési Ügynökség, a Magyar Turisztikai Ügynökség, valamint az Agrármarketing Centrum Nonprofit Korlátolt Felelősségű Társaság szükség szerint támogatási szerződés, közszolgáltatási szerződés vagy egyéb szerződés megkötése útján történő bevonásával – gondoskodjon az Expón történő színvonalas magyar részvétellel kapcsolatos szervezési, koordinációs és lebonyolítási feladatok ellátásáról;
+
+## Felelős: külgazdasági és külügyminiszter
+
+## agrárminiszter
+
+## innovációs és technológiai miniszter
+
+## Határidő: folyamatos
+
+## b) az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 422 341 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
+
+## Az átcsoportosítás tekintetében
+
+## Felelős: pénzügyminiszter
+
+## Határidő: azonnal
+
+## Az elszámolás és a visszatérítési kötelezettség tekintetében
+
+## Felelős: agrárminiszter
+
+## innovációs és technológiai miniszter
+
+## külgazdasági és külügyminiszter
+
+## miniszterelnök kabinetfőnöke
+
+## Határidő: 2018. december 15.
+
+## 3. egyetért azzal, hogy a jelen kormányhatározat szerinti beszerzések mentesüljenek a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozatban elrendelt beszerzési tilalom alól.
+
+1. melléklet az 1394/2018. (VIII. 13.) Korm. határozathoz
+
+| XI. Miniszterelnökség XII. Agrárminisztérium XVII. Innovációs és Technológiai Minisztérium XVIII. Külgazdasági és Külügyminisztérium XXI. Miniszterelnöki Kabinetiroda ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2018. forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 32 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 297102 |  |  | 1 |  |  |  |  |  | Rendkívüli kormányzati intézkedések |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -422 341 000 |  |  |  |
+
+|  | XII. |  |  |  |  |  | Agrárminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 3 |  |  |  |  |  | Agrár célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 333739 |  |  |  | 36 |  |  |  |  |  | Agrármarketing célelőirányzat |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 199 791 000 |  |  |  |
+
+|  | XVII. |  |  |  |  |  | Innovációs és Technológiai Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 280645 |  | 1 |  |  |  |  |  | Innovációs és Technológiai Minisztérium igazgatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K1 |  |  |  |  |  | Személyi juttatások |  |  |  |  |  |  |  |  | 35 000 000 |  |  |  |
+
+|  | XVIII. |  |  |  |  |  | Külgazdasági és Külügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 7 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 348695 |  |  |  | 6 |  |  |  |  |  | Külgazdasági és Külügyminisztérium felügyelete alá tartozó szervezetek és szakmai programok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 162 550 000 |  |  |  |
+
+|  | XXI. |  |  |  |  |  | Miniszterelnöki Kabinetiroda |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 347784 |  |  |  | 12 |  |  |  |  |  | Turisztikai célelőirányzat |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 25 000 000 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XII. |  |  |  |  |  | Agrárminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 3 |  |  |  |  |  | Agrár célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 333739 |  |  |  | 36 |  |  |  |  |  | Agrármarketing célelőirányzat |  |  |  |  |  |  |  |  | 199 791 000 |  |  |  |
+
+|  | XVII. |  |  |  |  |  | Innovációs és Technológiai Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 280645 |  | 1 |  |  |  |  |  | Innovációs és Technológiai Minisztérium igazgatása |  |  |  |  |  |  |  |  | 35 000 000 |  |  |  |
+
+|  | XVIII. |  |  |  |  |  | Külgazdasági és Külügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 7 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 348695 |  |  |  | 6 |  |  |  |  |  | Külgazdasági és Külügyminisztérium felügyelete alá tartozó szervezetek és szakmai programok támogatása |  |  |  |  |  |  |  |  | 162 550 000 |  |  |  |
+
+|  | XXI. |  |  |  |  |  | Miniszterelnöki Kabinetiroda |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 347784 |  |  |  | 12 |  |  |  |  |  | Turisztikai célelőirányzat |  |  |  |  |  |  |  |  | 25 000 000 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár |  | 1 példány |  |  | egyéb: | azonnal | 422 341 000 |  |  |  |  |  |  |  |  |  |  | 422 341 000 |  |
+
+| Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
