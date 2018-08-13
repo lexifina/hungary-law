@@ -1,0 +1,1 @@
+A Kormány a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5. § (5) bekezdése alapján a Magyarországi Református Egyház Zsinata „Bentlakásos programok az SDG-ben” tárgyú beszerzése körében a helyszín és az ellátás biztosítására vonatkozó projektelemek tekintetében felmentést ad a Kbt. 5. § (3) bekezdésének alkalmazása alól.
