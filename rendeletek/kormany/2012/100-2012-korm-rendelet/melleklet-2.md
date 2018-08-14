@@ -32,6 +32,6 @@
 
 | 15. | üzletek (kávézó) működési engedélye | Belváros-Lipótváros Budapest Főváros V. kerületi Önkormányzat jegyzője |
 
-2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^34]
+2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^36]
 
-[^34]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 49. § g) pontja hatályon kívül helyezte.
+[^36]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 49. § g) pontja hatályon kívül helyezte.
