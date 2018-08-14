@@ -2,7 +2,7 @@
 
 ## 47. Építésfelügyeleti hatósági ellenőrzés
 
-61. § (1)[^308] Az építésfelügyeleti hatóság az építőipari kivitelezési tevékenység folytatásának ellenőrzését
+61. § (1)[^312] Az építésfelügyeleti hatóság az építőipari kivitelezési tevékenység folytatásának ellenőrzését
 
 a) szúrópróbaszerűen a helyszínen,
 
@@ -12,13 +12,13 @@ c) távoli eléréssel az elektronikus építési napló alkalmazásban
 
 ## végzi.
 
-(1a)[^309] Az építésfelügyeleti hatóság az Épkiv.-ben meghatározott esetben az elektronikus építési napló készenlétét megszünteti, ha az elektronikus építési napló tartalmára és vezetésére vonatkozó követelmények teljesülnek és a helyszínen építőipari kivitelezési tevékenység végzését nem tapasztalja. Az építésfelügyeleti hatóság szabálytalan tevékenység esetén az elektronikus építési napló készenlétét nem szünteti meg, építésfelügyeleti hatósági intézkedést tesz.
+(1a)[^313] Az építésfelügyeleti hatóság az Épkiv.-ben meghatározott esetben az elektronikus építési napló készenlétét megszünteti, ha az elektronikus építési napló tartalmára és vezetésére vonatkozó követelmények teljesülnek és a helyszínen építőipari kivitelezési tevékenység végzését nem tapasztalja. Az építésfelügyeleti hatóság szabálytalan tevékenység esetén az elektronikus építési napló készenlétét nem szünteti meg, építésfelügyeleti hatósági intézkedést tesz.
 
 (2) Az építésfelügyeleti hatóság szükség esetén, de évente legalább két alkalommal az építésügyi hatósággal (ideértve a sajátos építményfajták szerinti hatóságokat is), más illetékességi területen működő építésfelügyeleti hatósággal, az illetékes területi építész-, illetve mérnöki kamara, területi kereskedelmi és iparkamara, vagy más – ellenőrzésre jogosult – hatósággal vagy szervezettel közös ellenőrzés végzését kezdeményezi.
 
 (3) Az építőipari kivitelezési tevékenységet folytató az építésfelügyeleti hatóságtól kérheti tevékenysége szakszerűségének ellenőrzését.
 
-(4)[^310] Az építésügyért felelős miniszter az 58. § (2) bekezdés b) pontja, az 58. § (4) bekezdése szerinti ellenőrzésre az ellenőrzési időszakot megelőző 45. napig a tárgyévre vonatkozóan ellenőrzési utasítást[^311] ad ki, amelyben
+(4)[^314] Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter az 58. § (2) bekezdés b) pontja, az 58. § (4) bekezdése szerinti ellenőrzésre az ellenőrzési időszakot megelőző 45. napig a tárgyévre vonatkozóan ellenőrzési utasítást[^315] ad ki, amelyben
 
 a) meghatározza
 
@@ -30,11 +30,12 @@ b) az előző évi nyilvántartási adatok alapján javaslatot tesz utóvizsgál
 
 (5) Az építésfelügyeleti hatóság ellenőrzéseit – az építésügyi hatóság, az illetékes területi építész-, illetve mérnöki kamara, valamint területi ipar- és kereskedelmi kamara, továbbá az építtetői fedezetkezelők javaslatát is figyelembe véve – a (4) bekezdés szerinti ellenőrzési utasítás figyelembevételével az ellenőrzési időszakot megelőző 15. napjáig elkészített éves munkaterv szerint végzi.
 
-(6) Az előző évi építésfelügyeleti ellenőrzések megállapításait összefoglaló jelentést az építésfelügyeleti hatóság az ellenőrzési időszakot követő 30. napig megküldi az építésügyért felelős miniszternek.
+(6)[^316] Az előző évi építésfelügyeleti ellenőrzések megállapításait összefoglaló jelentést az építésfelügyeleti hatóság az ellenőrzési időszakot követő 30. napig megküldi az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszternek.
 
 (7) Az építésfelügyeleti hatóság megkeresésre más hatóság ellenőrzésében is részt vesz.
 
-[^308]: A 61. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^309]: A 61. § (1a) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 12. § (5) bekezdése iktatta be.
-[^310]: A 61. § (4) bekezdés nyitó szövegrésze a 144/2017. (VI. 12.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
-[^311]: Lásd a 8/2013. (III. 29.) BM utasítást.
+[^312]: A 61. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^313]: A 61. § (1a) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+[^314]: A 61. § (4) bekezdés nyitó szövegrésze a 144/2017. (VI. 12.) Korm. rendelet 17. § d) pontja, a 150/2018. (VIII. 13.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
+[^315]: Lásd a 8/2013. (III. 29.) BM utasítást.
+[^316]: A 61. § (6) bekezdése a 150/2018. (VIII. 13.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.

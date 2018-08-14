@@ -4,9 +4,9 @@
 
 ## 15. Az építési engedély iránti kérelem és mellékletei
 
-17. § (1)[^73] Az építési tevékenység végzésére – az 1. mellékletben felsoroltak és az Étv. alapján egyszerű bejelentéshez kötött építési tevékenység kivételével – jogszabályban meghatározott építésügyi hatóságtól építési engedélyt kell kérni.
+17. § (1)[^74] Az építési tevékenység végzésére – az 1. mellékletben felsoroltak és az Étv. alapján egyszerű bejelentéshez kötött építési tevékenység kivételével – jogszabályban meghatározott építésügyi hatóságtól építési engedélyt kell kérni.
 
-(1a)[^74] Építmény, építményrész rendeltetésének építési engedély köteles építési munkával nem járó megváltoztatásához nem kell az építésügyi hatóság engedélye.
+(1a)[^75] Építmény, építményrész rendeltetésének építési engedély köteles építési munkával nem járó megváltoztatásához nem kell az építésügyi hatóság engedélye.
 
 (2) Az építési engedélyt egy telekre – a (3) bekezdésben foglalt kivétellel – az egy időben megvalósuló építési tevékenység egészére kell kérni.
 
@@ -24,39 +24,39 @@ a) az országos építési követelményektől eltérő műszaki megoldás enged
 
 b) bontás engedélyezésére,
 
-c)[^75] fennmaradási engedélyezésre,
+c)[^76] fennmaradási engedélyezésre,
 
-d)[^76]
+d)[^77]
 
 ## irányuló kérelem is előterjeszthető.
 
 (5) Az építésügyi hatóság a (4) bekezdés szerinti kérelmek elbírálását összevonja, döntéseit egybefoglalja.
 
-(6)[^77] Az építési engedély iránti kérelem benyújtásával egyidejűleg igazolni kell az eljárási illeték, igazgatási szolgáltatási díj befizetését. Jogszabályban előírt esetekben igazolni kell, hogy
+(6)[^78] Az építési engedély iránti kérelem benyújtásával egyidejűleg igazolni kell az eljárási illeték, igazgatási szolgáltatási díj befizetését. Jogszabályban előírt esetekben igazolni kell, hogy
 
 a) a települési önkormányzat polgármestere településképi véleményében az építési tevékenységet engedélyezésre javasolta, vagy
 
 b) a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményében a tervdokumentációt engedélyezésre ajánlotta.
 
-(6a)[^78] A KNEKr. hatálya alá tartozó esetekben az építési engedély iránti kérelemhez mellékelni kell a kiemelt településképi véleményt.
+(6a)[^79] A KNEKr. hatálya alá tartozó esetekben az építési engedély iránti kérelemhez mellékelni kell a kiemelt településképi véleményt.
 
 (7) Amennyiben a kérelmező birtokában van
 
-a)[^79] a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendeletben (a továbbiakban: Khvr.) meghatározott esetekben jogerős vagy végleges környezetvédelmi, illetve egységes környezethasználati engedély – kivéve, ha az az összevont telepítési eljárásban került kiadásra –, illetve az előzetes vizsgálati eljárást lezáró határozat, több megvalósulási szakaszra bontott építkezés esetén az összes szakaszra együttesen,
+a)[^80] a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendeletben (a továbbiakban: Khvr.) meghatározott esetekben jogerős vagy végleges környezetvédelmi, illetve egységes környezethasználati engedély – kivéve, ha az az összevont telepítési eljárásban került kiadásra –, illetve az előzetes vizsgálati eljárást lezáró határozat, több megvalósulási szakaszra bontott építkezés esetén az összes szakaszra együttesen,
 
 b) erdőterület igénybevétele esetén az erdészeti hatóság engedélye – kivéve, ha az az összevont telepítési eljárásban került kiadásra –,
 
-c)[^80] termőföld igénybevétele esetén a termőföld végleges más célú hasznosításának engedélyezéséről szóló jogerős vagy végleges hatósági határozat – kivéve, ha az az összevont telepítési eljárásban került kiadásra –,
+c)[^81] termőföld igénybevétele esetén a termőföld végleges más célú hasznosításának engedélyezéséről szóló jogerős vagy végleges hatósági határozat – kivéve, ha az az összevont telepítési eljárásban került kiadásra –,
 
 d) a természet védelméről szóló törvényben meghatározott esetekben a természetvédelmi hatóság engedélye,
 
 ## az iktatószám megjelölésével nyilatkozhat ezek meglétéről vagy mellékelheti azokat a kérelemhez.
 
-(8)[^81] Ha a (7) bekezdés a)–d) pontjában meghatározott döntéseket meghozták, de az építésügyi hatósághoz nem nyújtották be, azokat az építésügyi hatóság beszerzi a döntést kibocsátó hatóságtól.
+(8)[^82] Ha a (7) bekezdés a)–d) pontjában meghatározott döntéseket meghozták, de az építésügyi hatósághoz nem nyújtották be, azokat az építésügyi hatóság beszerzi a döntést kibocsátó hatóságtól.
 
 (9) A kérelemhez adathordozón vagy az ÉTDR-be történő feltöltéssel mellékelni kell
 
-a)[^82] a 8. melléklet III. részében meghatározott és az adott eljáráshoz előírt építészeti-műszaki dokumentációt,
+a)[^83] a 8. melléklet III. részében meghatározott és az adott eljáráshoz előírt építészeti-műszaki dokumentációt,
 
 b) ha a kérelem benyújtásakor előzetes szakhatósági állásfoglalás nem áll rendelkezésre, a szakhatóság megkereséséhez szükséges, 5. melléklet szerinti dokumentációt.
 
@@ -66,13 +66,13 @@ a) ha a kérelem benyújtásakor rendelkezésre áll, az ügyben érintett szakh
 
 b) a 4. § (4) bekezdése szerinti nyilatkozatokat, illetve az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
 
-[^73]: A 17. § (1) bekezdése a 456/2015. (XII. 29.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
-[^74]: A 17. § (1a) bekezdését a 67/2013. (III. 8.) Korm. rendelet 18. § (1) bekezdése iktatta be.
-[^75]: A 17. § (4) bekezdés c) pontja a 156/2016. (VI. 13.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^76]: A 17. § (4) bekezdés d) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
-[^77]: A 17. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (8) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^78]: A 17. § (6a) bekezdését a 19/2018. (II. 14.) Korm. rendelet 58. § (2) bekezdése iktatta be.
-[^79]: A 17. § (7) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 15. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^80]: A 17. § (7) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 16. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^81]: A 17. § (8) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (7) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 413. § 16. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^82]: A 17. § (9) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^74]: A 17. § (1) bekezdése a 456/2015. (XII. 29.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^75]: A 17. § (1a) bekezdését a 67/2013. (III. 8.) Korm. rendelet 18. § (1) bekezdése iktatta be.
+[^76]: A 17. § (4) bekezdés c) pontja a 156/2016. (VI. 13.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^77]: A 17. § (4) bekezdés d) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^78]: A 17. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (8) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^79]: A 17. § (6a) bekezdését a 19/2018. (II. 14.) Korm. rendelet 58. § (2) bekezdése iktatta be.
+[^80]: A 17. § (7) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 15. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^81]: A 17. § (7) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 16. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^82]: A 17. § (8) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (7) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 413. § 16. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^83]: A 17. § (9) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

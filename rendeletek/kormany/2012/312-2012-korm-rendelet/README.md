@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-312-20-
 | 2018-01-01 | 2012-312-20-22.37 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-02-15 | 2012-312-20-22.38 | 19/2018. (II. 14.) Korm. rendelet |
 | 2018-04-10 | 2012-312-20-22.39 | 358/2013. (X. 9.) Korm. rendelet |
+| 2018-08-14 | 2012-312-20-22.40 | 150/2018. (VIII. 13.) Korm. rendelet |

@@ -2,11 +2,11 @@
 
 52. § (1) Az engedély hatályának meghosszabbítására irányuló eljárás megindulásáról értesítést nem kell küldeni.
 
-(2)[^251] Az építésügyi hatóság az 51. § (1) bekezdés a) és d) pontjában meghatározott engedélyek esetén vizsgálja, hogy az építési vagy bontási tevékenységet megkezdték-e, a megkezdett építési vagy bontási tevékenységet jogszerűen végzik-e és az elkészült építmény, építményrész készültsége milyen mértékű.
+(2)[^255] Az építésügyi hatóság az 51. § (1) bekezdés a) és d) pontjában meghatározott engedélyek esetén vizsgálja, hogy az építési vagy bontási tevékenységet megkezdték-e, a megkezdett építési vagy bontási tevékenységet jogszerűen végzik-e és az elkészült építmény, építményrész készültsége milyen mértékű.
 
-(3)[^252] Ha az építésügyi hatóság az építési engedély hatályának lejárta előtt vagy lejártakor megtartott helyszíni szemlén megállapítja, hogy az elkészült építmény a rendeltetésszerű és biztonságos használatra alkalmas állapotban van – függetlenül a még fennmaradó nem építésiengedély-köteles építési tevékenységekre – az engedély hatályát nem hosszabbítja meg, hanem az építtetőt a használatbavételi engedély vagy a használatbavételi tudomásulvétel megkérésére és a hiányzó munkálatok határidőre történő elvégzésére szólítja fel.
+(3)[^256] Ha az építésügyi hatóság az építési engedély hatályának lejárta előtt vagy lejártakor megtartott helyszíni szemlén megállapítja, hogy az elkészült építmény a rendeltetésszerű és biztonságos használatra alkalmas állapotban van – függetlenül a még fennmaradó nem építésiengedély-köteles építési tevékenységekre – az engedély hatályát nem hosszabbítja meg, hanem az építtetőt a használatbavételi engedély vagy a használatbavételi tudomásulvétel megkérésére és a hiányzó munkálatok határidőre történő elvégzésére szólítja fel.
 
-(4)[^253] Az építésügyi hatóság az építési engedély hatályát annak lejárta előtt kérelemre, a (6) bekezdésben foglalt feltételek mellett legfeljebb két alkalommal, egy-egy évvel hosszabbíthatja meg
+(4)[^257] Az építésügyi hatóság az építési engedély hatályát annak lejárta előtt kérelemre, a (6) bekezdésben foglalt feltételek mellett legfeljebb két alkalommal, egy-egy évvel hosszabbíthatja meg
 
 a) az építési tevékenység megkezdése előtt, valamint
 
@@ -22,7 +22,7 @@ aa) nem változtak meg, vagy
 
 ab) megváltoztak, de a jogszabályváltozás az engedélyezett tevékenységet nem érinti, vagy ha érinti, akkor a jogszabályváltozásból eredő újabb követelmények – kivéve, ha azok tartalma építési engedélyhez kötött építési tevékenységet érint – az engedély feltételeként előírva teljesíthetők,
 
-b)[^254] a (4) bekezdés b) pontja szerinti esetben akkor is meghosszabbítja, ha az építési tevékenységre vonatkozó, az engedély megadásakor hatályos jogszabályok időközben megváltoztak, feltéve, ha
+b)[^258] a (4) bekezdés b) pontja szerinti esetben akkor is meghosszabbítja, ha az építési tevékenységre vonatkozó, az engedély megadásakor hatályos jogszabályok időközben megváltoztak, feltéve, ha
 
 ba) az engedélyezett építési tevékenység – a bontás kivételével – legalább tartószerkezet kész, vagy azt meghaladó állapotban van, és
 
@@ -34,7 +34,7 @@ bd) a 2016. január 1-jét megelőzően benyújtott kérelem alapján engedélye
 
 be) az engedélyezett bontási tevékenység végzésének készültségi foka meghaladja az 50%-ot.
 
-(7)[^255] Az építésügyi hatóság az építési engedély hatályát meghosszabbítja akkor is, ha az építési tevékenységet az engedély hatályán belül megkezdték, az építményre, építményrészre, építési tevékenységre a használatbavételi engedély még nem adható meg vagy a használatbavétel még nem vehető tudomásul, de
+(7)[^259] Az építésügyi hatóság az építési engedély hatályát meghosszabbítja akkor is, ha az építési tevékenységet az engedély hatályán belül megkezdték, az építményre, építményrészre, építési tevékenységre a használatbavételi engedély még nem adható meg vagy a használatbavétel még nem vehető tudomásul, de
 
 a) a fennmaradó építési tevékenység építésügyi hatósági engedélyhez nem kötött – függetlenül attól, hogy az engedély megadásakor hatályos építésügyi jogszabályok vagy kötelező hatósági előírások megváltoztak-e –, kivéve a 2016. január 1-jét megelőzően engedélyezett, az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet hatálya alá eső nem közel nulla vagy annál kedvezőbb energiaigényű új épület építési engedélyét, ha hatályának meghosszabbítása meghaladná a 19. § (4) bekezdés i) pontjában meghatározott határnapot,
 
@@ -42,9 +42,9 @@ b) a fennmaradó építési tevékenység építésügyi hatósági engedélyhez
 
 (8) Ha az építtető az építési engedély hatályának meghosszabbítását nem kérelmezte, vagy az engedély hatálya jogszerűen nem hosszabbítható meg, és az építmény használatbavétel megadására, illetve használatbavétel tudomásulvételére nem alkalmas, a fennmaradó – engedélyhez kötött – építési tevékenységre ismételten építési engedélyt kell kérni. A fennmaradó munkálatokra vonatkozó ismételt engedélykérelmet a benyújtásakor hatályos jogszabályok alapján kell elbírálni.
 
-(9)[^256] Az engedély hatályának meghosszabbítására irányuló eljárásban az ügyintézési határidő tíz nap.
+(9)[^260] Az engedély hatályának meghosszabbítására irányuló eljárásban az ügyintézési határidő tíz nap.
 
-(10)[^257] A határozat rendelkező része az Ákr. 81. § (1) bekezdésében foglaltakon kívül az engedély tárgyától függően tartalmazza:
+(10)[^261] A határozat rendelkező része az Ákr. 81. § (1) bekezdésében foglaltakon kívül az engedély tárgyától függően tartalmazza:
 
 a) az ÉTDR ügy- és iratazonosítót,
 
@@ -60,23 +60,23 @@ f) az engedély megadásának egyéb feltételeit,
 
 g) az engedély meghosszabbított hatályát.
 
-(11)[^258] A határozat indokolási része az Ákr. 81. § (1) bekezdésében foglaltakon kívül, a rendelkezéstől függően tartalmazza az engedély megadása feltételeinek indokolását.
+(11)[^262] A határozat indokolási része az Ákr. 81. § (1) bekezdésében foglaltakon kívül, a rendelkezéstől függően tartalmazza az engedély megadása feltételeinek indokolását.
 
 (12) A határozat tájékoztatást tartalmaz a további hosszabbítás lehetőségéről vagy arról, hogy az engedély hatálya tovább nem hosszabbítható.
 
 (13) A határozatot közölni kell mindazokkal, akikkel az építésügyi hatóság a meghosszabbított engedélyt korábban közölte.
 
-(14)[^259] Az építésügyi hatóság az engedély véglegessé válása napját az ÉTDR-ben rögzíti.
+(14)[^263] Az építésügyi hatóság az engedély véglegessé válása napját az ÉTDR-ben rögzíti.
 
-(15)[^260] Az építésügyi hatóság az építtetőt elektronikus értesítéssel tájékoztatja a határozat véglegessé válásáról, továbbá erre irányuló kérelem esetén a végleges határozatot a véglegessé válástól számított három napon belül megküldi az építtetőnek vagy a meghatalmazottjának a rendelkezésének megfelelő módon.
+(15)[^264] Az építésügyi hatóság az építtetőt elektronikus értesítéssel tájékoztatja a határozat véglegessé válásáról, továbbá erre irányuló kérelem esetén a végleges határozatot a véglegessé válástól számított három napon belül megküldi az építtetőnek vagy a meghatalmazottjának a rendelkezésének megfelelő módon.
 
-[^251]: Az 52. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 413. § 36. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^252]: Az 52. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (8) bekezdés a) pontja, a 441/2015. (XII. 28.) Korm. rendelet 180. § 9. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^253]: Az 52. § (4) bekezdése a 262/2015. (IX. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^254]: Az 52. § (6) bekezdés b) pontja a 262/2015. (IX. 14.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^255]: Az 52. § (7) bekezdése a 262/2015. (IX. 14.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^256]: Az 52. § (9) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (14) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^257]: Az 52. § (10) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 74. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^258]: Az 52. § (11) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 75. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^259]: Az 52. § (14) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (20) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^260]: Az 52. § (15) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (20) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^255]: Az 52. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 413. § 36. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^256]: Az 52. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (8) bekezdés a) pontja, a 441/2015. (XII. 28.) Korm. rendelet 180. § 9. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^257]: Az 52. § (4) bekezdése a 262/2015. (IX. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^258]: Az 52. § (6) bekezdés b) pontja a 262/2015. (IX. 14.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^259]: Az 52. § (7) bekezdése a 262/2015. (IX. 14.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^260]: Az 52. § (9) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (14) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^261]: Az 52. § (10) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 74. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^262]: Az 52. § (11) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 75. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^263]: Az 52. § (14) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (20) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^264]: Az 52. § (15) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (20) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

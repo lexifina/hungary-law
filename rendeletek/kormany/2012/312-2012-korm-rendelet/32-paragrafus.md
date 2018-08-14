@@ -1,20 +1,20 @@
 ## 25. Telepítési hatásvizsgálati szakasz
 
-32. §[^148] (1) A kérelemhez – a THSZ-ben összevonható kérelmezett eljárásoktól függően – mellékelni kell
+32. §[^149] (1) A kérelemhez – a THSZ-ben összevonható kérelmezett eljárásoktól függően – mellékelni kell
 
 a) a 8. mellékletben meghatározott építészeti-műszaki dokumentációt,
 
-b)[^149] a kérelmezett engedélytől függően az arra vonatkozó jogszabályban meghatározott mellékletet,
+b)[^150] a kérelmezett engedélytől függően az arra vonatkozó jogszabályban meghatározott mellékletet,
 
-c)[^150]
+c)[^151]
 
-d)[^151] ha a kérelem benyújtásakor rendelkezésre áll a 29. § (1) bekezdése szerinti eljárásokban hozott jogerős vagy végleges döntések megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját,
+d)[^152] ha a kérelem benyújtásakor rendelkezésre áll a 29. § (1) bekezdése szerinti eljárásokban hozott jogerős vagy végleges döntések megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját,
 
-e)[^152]
+e)[^153] az Étv. 19. § (4) bekezdése szerinti esetben annak igazolását, hogy az építészeti-műszaki tervtanács szakmai véleményében a tervdokumentációt engedélyezésre ajánlotta.
 
-(1a)[^153] A telepítési hatásvizsgálati szakaszban – a THSZ-ben összevonható kérelmezett eljárásoktól függően – igazolni kell, hogy a településrendezési szerződés megkötésre került, vagy a településrendezési eszköz tervezete a jogszabályi követelményeknek megfelel.
+(1a)[^154] A telepítési hatásvizsgálati szakaszban – a THSZ-ben összevonható kérelmezett eljárásoktól függően – igazolni kell, hogy a településrendezési szerződés megkötésre került, vagy a településrendezési eszköz tervezete a jogszabályi követelményeknek megfelel.
 
-(2)[^154] Az építésügyi hatóság a THSZ-ben a kormányrendelet szerinti szakhatóságot keresi meg a szakhatóság állásfoglalásának beszerzése érdekében.
+(2)[^155] Az építésügyi hatóság a THSZ-ben a kormányrendelet szerinti szakhatóságot keresi meg a szakhatóság állásfoglalásának beszerzése érdekében.
 
 (3) A szakhatóság a dokumentáció hiányainak pótlására az eljárásában egy alkalommal bocsáthat ki hiánypótlási felhívást, a szakhatósági megkereséstől számított öt napon belül és legfeljebb tíz napos teljesítési határidő megjelölésével.
 
@@ -22,10 +22,10 @@ e)[^152]
 
 (5) Az építésügyi hatóság a kérelem tartalmától függően a 7. melléklet III. pontjában meghatározott szakkérdéseket vizsgálja.
 
-[^148]: A 32. § a 70/2015. (III. 30.) Korm. rendelet 206. § (13) bekezdésével megállapított szöveg.
-[^149]: A 32. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 39. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^150]: A 31. § (1) bekezdés c) pontját a 457/2017. (XII. 28.) Korm. rendelet 413. § 22. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^151]: A 32. § (1) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 40. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^152]: A 31. § (1) bekezdés e) pontját a 457/2017. (XII. 28.) Korm. rendelet 413. § 22. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^153]: A 32. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 410. § (12) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^154]: A 32. § (2) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 41. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^149]: A 32. § a 70/2015. (III. 30.) Korm. rendelet 206. § (13) bekezdésével megállapított szöveg.
+[^150]: A 32. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 39. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^151]: A 31. § (1) bekezdés c) pontját a 457/2017. (XII. 28.) Korm. rendelet 413. § 22. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^152]: A 32. § (1) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 40. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^153]: A 32. § (1) bekezdés e) pontját a 457/2017. (XII. 28.) Korm. rendelet 413. § 22. pontja hatályon kívül helyezte, újonnan a 150/2018. (VIII. 13.) Korm. rendelet 15. §-a iktatta be.
+[^154]: A 32. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 410. § (12) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^155]: A 32. § (2) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 41. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
