@@ -194,4 +194,6 @@
 
 | 96. | Jászai Mari tér (hídról lehajtó forgalmi terület) | 25122/6 | teljes közterület | (241002,40 650049,34 N 47° 30' 46,617'' E 19° 02' 53,168'') |  |
 
-2. melléklet a 19/2018. (II. 14.) Korm. rendelethez
+2. melléklet a 19/2018. (II. 14.) Korm. rendelethez[^27]
+
+[^27]: A 2. melléklet a 145/2018. (VIII. 13.) Korm. rendelet 3. §-a szerint módosított szöveg.
