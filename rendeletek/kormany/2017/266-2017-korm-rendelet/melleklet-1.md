@@ -1,4 +1,4 @@
-## 7. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 8. §[^7] Az Erzsébet Táborok infrastrukturális fejlesztésére irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 266/2017. (IX. 11.) Korm. rendelet módosításáról szóló 149/2018. (VIII. 13.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 5/A–5/D. § rendelkezéseit a Módr. hatálybalépésekor[^8] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 266/2017. (IX. 11.) Korm. rendelethez
 
@@ -49,3 +49,6 @@
 22. azok az 1–21. pontban nem szereplő hatósági engedélyezési eljárások, melyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához közvetlenül szükségesek,
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^7]: A 8. §-t a 149/2018. (VIII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A hatálybalépés időpontja 2018. augusztus 14.
