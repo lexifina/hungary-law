@@ -1,3 +1,3 @@
-## 52. §[^184]
+## 52. §[^188]
 
-[^184]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^188]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

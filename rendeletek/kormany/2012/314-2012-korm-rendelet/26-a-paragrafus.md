@@ -2,7 +2,7 @@
 
 (2) A kérelemnek tartalmaznia kell az építtető vagy kérelmező nevét és címét, valamint a tervezett és véleményezésre kért építési tevékenység helyét, az érintett telek helyrajzi számát. A kérelemhez csak az (1) bekezdés szerinti építészeti-műszaki dokumentációt kell mellékelni.
 
-(3)[^80] Az építészeti-műszaki dokumentációnak a véleményezéshez az alábbi munkarészeket kell tartalmaznia:
+(3)[^82] Az építészeti-műszaki dokumentációnak a véleményezéshez az alábbi munkarészeket kell tartalmaznia:
 
 a) az egyedi építészeti követelményeknek való megfelelést igazoló építészeti-műszaki tervet,
 
@@ -16,7 +16,7 @@ a) az önkormányzati főépítész szakmai álláspontját, vagy
 
 b) helyi tervtanács működtetése esetén annak szakmai álláspontját.
 
-(4a)[^81] Az önkormányzati főépítész és a helyi tervtanács szakmai álláspontját a településképi rendeletben foglalt követelmények figyelembevételével, valamint a kézikönyvben foglalt megállapítások, ajánlások ismeretében alakítja ki.
+(4a)[^83] Az önkormányzati főépítész és a helyi tervtanács szakmai álláspontját a településképi rendeletben foglalt követelmények figyelembevételével, valamint a kézikönyvben foglalt megállapítások, ajánlások ismeretében alakítja ki.
 
 (5) A polgármester vagy főpolgármester véleményében
 
@@ -26,7 +26,7 @@ b) engedélyezésre nem javasolja a tervezett építési tevékenységet, ha
 
 ba) a kérelem vagy melléklete nem felel meg az e rendeletben meghatározottaknak, vagy
 
-bb)[^82] a (4) bekezdés szerinti szakmai álláspont a tervezett építési tevékenységet nem támogatja.
+bb)[^84] a (4) bekezdés szerinti szakmai álláspont a tervezett építési tevékenységet nem támogatja.
 
 (6) A polgármester vagy főpolgármester véleménye tartalmazza:
 
@@ -40,6 +40,6 @@ c) az (5) bekezdés szerinti véleményét és annak részletes indokolását.
 
 (8) A településképi vélemény ellen önálló jogorvoslatnak nincs helye, az csak az építésügyi hatósági ügyben hozott döntés keretében vitatható.
 
-[^80]: A 26/A. § (3) bekezdése a 16/2018. (II. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^81]: A 26/A. § (4a) bekezdését a 16/2018. (II. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^82]: A 26/A. § (5) bekezdés b) pont bb) alpontja a 16/2018. (II. 13.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^82]: A 26/A. § (3) bekezdése a 16/2018. (II. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^83]: A 26/A. § (4a) bekezdését a 16/2018. (II. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^84]: A 26/A. § (5) bekezdés b) pont bb) alpontja a 16/2018. (II. 13.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

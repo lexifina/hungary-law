@@ -1,4 +1,4 @@
-28/A. §[^99] (1) A polgármester a településrendezési eszköz, a koncepció, a stratégia, a kézikönyv és a településképi rendelet készítése, illetve módosítása előtt írásban kérelmezheti a földmérési és térinformatikai államigazgatási szervnél az Étv. 13/A. §-a, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 72. § (6) bekezdése, valamint a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. § (20) bekezdése alapján, a 13. melléklet szerinti adatbázisok és adatok szolgáltatását.
+28/A. §[^101] (1) A polgármester a településrendezési eszköz, a koncepció, a stratégia, a kézikönyv és a településképi rendelet készítése, illetve módosítása előtt írásban kérelmezheti a földmérési és térinformatikai államigazgatási szervnél az Étv. 13/A. §-a, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 72. § (6) bekezdése, valamint a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. § (20) bekezdése alapján, a 13. melléklet szerinti adatbázisok és adatok szolgáltatását.
 
 (2) A polgármester az (1) bekezdés szerinti kérelemhez mellékeli az önkormányzat
 
@@ -6,7 +6,7 @@ a) településrendezési eszköz, koncepció, stratégia, kézikönyv és telep�
 
 b) nyilatkozatát arról, hogy az átvett adatbázisokat és az adatokat kizárólag az a) pont szerinti döntésben meghatározott dokumentumok elkészítéséhez használja fel.
 
-(3)[^100] A földmérési és térinformatikai államigazgatási szerv a hiánytalan megkeresés kézhezvételétől számított 15 napon belül elektronikus szolgáltatás formájában vagy – amennyiben a műszaki feltételek nem adottak – digitális adathordozón adja át a polgármester részére a 13. melléklet szerinti legfrissebb Egységes Országos Vetületi (a továbbiakban: EOV) rendszerű adatbázisokat és adatokat, továbbá az adatszolgáltatás sorszámát.
+(3)[^102] A földmérési és térinformatikai államigazgatási szerv a hiánytalan megkeresés kézhezvételétől számított 15 napon belül elektronikus szolgáltatás formájában vagy – amennyiben a műszaki feltételek nem adottak – digitális adathordozón adja át a polgármester részére a 13. melléklet szerinti legfrissebb Egységes Országos Vetületi (a továbbiakban: EOV) rendszerű adatbázisokat és adatokat, továbbá az adatszolgáltatás sorszámát.
 
 (4) Az önkormányzat (a fővárosban a fővárosi és a kerületi önkormányzat) a (3) bekezdés szerint rendelkezésére álló adatbázisokat és adatokat kizárólag a (2) bekezdés a) pontjában meghatározott feladat kidolgozására szerződött félnek adhatja át, az adatbázisok és adatok felhasználására vonatkozó szerződésben foglaltak szerint. Az adatbázisok és adatok felhasználására vonatkozó szerződés tartalmazza a felhasználásra átadott adatbázisok, adatok megnevezését, átadásuk módját, felhasználásuk tárgyát, felhasználóit, a felhasználás feltételeit, módját, továbbá azt, hogy az adatok, adatbázisok harmadik fél számára tovább nem adhatók.
 
@@ -14,5 +14,5 @@ b) nyilatkozatát arról, hogy az átvett adatbázisokat és az adatokat kizár�
 
 (6) Hálózati adatszolgáltatás esetén a földmérési és térinformatikai államigazgatási szerv, egyéb, nem hálózati adatszolgáltatás esetén a területileg illetékes kormányhivatal szakfelügyelete szakfelügyeleti ellenőrzés keretében külön jogszabályban meghatározott módon vizsgálhatja a (3) bekezdés szerint szolgáltatott adatbázisok, adatok hozzáférésének és felhasználásnak jogszerűségét.
 
-[^99]: A 28/A. §-t a 334/2017. (XI. 9.) Korm. rendelet 5. §-a iktatta be.
-[^100]: A 28/A. § (3) bekezdése a 16/2018. (II. 13.) Korm. rendelet 14. § 12. pontja szerint módosított szöveg.
+[^101]: A 28/A. §-t a 334/2017. (XI. 9.) Korm. rendelet 5. §-a iktatta be.
+[^102]: A 28/A. § (3) bekezdése a 16/2018. (II. 13.) Korm. rendelet 14. § 12. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-26/C. §[^92] (1) A polgármester a bejelentést követően, az Ákr. szerinti teljes eljárásban a településkép védelméről szóló 2016. évi LXXIV. törvényben (a továbbiakban: Tvtv.) meghatározott határidőn belül
+26/C. §[^94] (1) A polgármester a bejelentést követően, az Ákr. szerinti teljes eljárásban a településkép védelméről szóló 2016. évi LXXIV. törvényben (a továbbiakban: Tvtv.) meghatározott határidőn belül
 
 a) a tervezett építési tevékenységet, reklám és reklámhordozó elhelyezését vagy rendeltetésváltoztatást – feltétel meghatározásával vagy anélkül – tudomásul veszi, ha a bejelentés
 
@@ -20,4 +20,4 @@ c) megszünteti az eljárást, ha a kérelem és melléklete nem felel meg a 26/
 
 (2) A polgármester az Ákr. 120. § (1) bekezdése alapján a hatósági határozatot hivatalból a jóhiszeműen szerzett és gyakorolt jogok sérelmével is módosíthatja vagy visszavonhatja.
 
-[^92]: A 26/C. § a 16/2018. (II. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^94]: A 26/C. § a 16/2018. (II. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
