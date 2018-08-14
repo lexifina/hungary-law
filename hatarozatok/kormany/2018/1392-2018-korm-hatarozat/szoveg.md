@@ -16,4 +16,6 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: folyamatos
 
-4. visszavonja az Egyetemes Postaegyesület (Universal Postal Union) Kongresszusain való magyar részvételről szóló 1511/2016. (IX. 22.) Korm. határozatot.
+4.[^2]
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
