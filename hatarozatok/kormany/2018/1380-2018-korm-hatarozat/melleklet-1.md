@@ -12,23 +12,7 @@
 
 ## Határidő: 2019. június 30.
 
-## 2. A hazai építőipari vállalkozások hatékonyságnövelésére irányuló forrás biztosításáról szóló 1031/2018. (II. 8.) Korm. határozat (a továbbiakban: Határozat) 1. pontja helyébe a következő rendelkezés lép:
-
-## [A Kormány felhívja a nemzetgazdasági minisztert, hogy az építőipari ágazat, valamint az építőipari kivitelezéshez szorosan kapcsolódó építészmérnöki és mérnöki tevékenységet végző vállalkozások technológiai korszerűsítésének, hatékonyság-növelésének támogatása érdekében gondoskodjon]
-
-## „1. a 2018. évben összesen 16 000 000 000 forint központi költségvetési többletforrás biztosításáról a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 64. Belgazdasági feladatok alcím, 5. Az építőipari ágazat technológiai korszerűsítésére, hatékonyságának növelésére irányuló támogatás jogcímcsoport javára;
-
-## Felelős: pénzügyminiszter az innovációért és technológiáért felelős miniszter közreműködésével
-
-## Határidő: azonnal”
-
-## 3. A Határozat
-
-## a) nyitó szövegrészében a „nemzetgazdasági minisztert” szövegrész helyébe a „pénzügyminisztert, valamint az innovációért és technológiáért felelős minisztert” szöveg, valamint a „gondoskodjon” szövegrész helyébe a „gondoskodjanak” szöveg,
-
-## b) 2. és 3. pontjában a „XV. Nemzetgazdasági Minisztérium” szövegrész helyébe a „XVII. Innovációs és Technológiai Minisztérium” szöveg, valamint a „nemzetgazdasági miniszter” szövegrész helyébe a „pénzügyminiszter az innovációért és technológiáért felelős miniszter közreműködésével” szöveg
-
-## lép.
+## 2–3.[^1]
 
 1. melléklet az 1380/2018. (VIII. 13.) Korm. határozathoz
 
@@ -95,3 +79,5 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
