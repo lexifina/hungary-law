@@ -1,6 +1,6 @@
-## Az országos főépítész[^25]
+## Az országos főépítész[^26]
 
-## 6/A. §[^26] Az országos főépítész
+## 6/A. §[^27] Az országos főépítész
 
 a) szakmailag összehangolja az állami és az önkormányzati főépítészek tevékenységét,
 
@@ -12,8 +12,8 @@ d) kidolgozza az építészet átfogó stratégiáját, a nemzeti építészetpo
 
 e) képviseli az építészeti érdekeket a különböző szakmai és társadalmi fórumokon,
 
-f)[^27] ellátja a Kormány által meghatározott kiemelkedő munkásságukkal jelentős értéket létrehozó építészek életművének gondozásával kapcsolatos feladatokat.
+f)[^28] ellátja a Kormány által meghatározott kiemelkedő munkásságukkal jelentős értéket létrehozó építészek életművének gondozásával kapcsolatos feladatokat.
 
-[^25]: A 6/A. §-t megelőző alcímet a 322/2012. (XI. 16.) Korm. rendelet 49. §-a iktatta be.
-[^26]: A 6/A. §-t a 322/2012. (XI. 16.) Korm. rendelet 49. §-a iktatta be.
-[^27]: A 6/A. § f) pontját a 62/2014. (III. 6.) Korm. rendelet 8. §-a iktatta be.
+[^26]: A 6/A. §-t megelőző alcímet a 322/2012. (XI. 16.) Korm. rendelet 49. §-a iktatta be.
+[^27]: A 6/A. §-t a 322/2012. (XI. 16.) Korm. rendelet 49. §-a iktatta be.
+[^28]: A 6/A. § f) pontját a 62/2014. (III. 6.) Korm. rendelet 8. §-a iktatta be.

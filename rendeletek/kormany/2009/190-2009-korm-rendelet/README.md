@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-190-20-
 | 2014-03-15 | 2009-190-20-22.8 | 62/2014. (III. 6.) Korm. rendelet |
 | 2015-04-01 | 2009-190-20-22.9 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-12-30 | 2009-190-20-22.10 | 400/2016. (XII. 5.) Korm. rendelet |
+| 2018-08-14 | 2009-190-20-22.11 | 150/2018. (VIII. 13.) Korm. rendelet |
