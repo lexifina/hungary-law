@@ -1,3 +1,3 @@
-1. melléklet a 247/2011. (XI. 25.) Korm. rendelethez[^8]
+1. melléklet a 247/2011. (XI. 25.) Korm. rendelethez[^39]
 
-[^8]: Az 1. melléklet a 120/2013. (IV. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^39]: Az 1. melléklet a 147/2018. (VIII. 13.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.

@@ -1,5 +1,3 @@
-## 1. § E rendelet hatálya az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 19/A. §-ában meghatározott, az atomenergia alkalmazási körében eljáró független műszaki szakértőre (a továbbiakban: szakértő) és tevékenységére terjed ki.
-
 2. § (1) Az Atv.-ben meghatározott feltételeken túlmenően szakértő az lehet, aki
 
 a) szakirányú felsőfokú végzettséggel (szakképzettséggel),
@@ -8,8 +6,8 @@ b) alapképzésben szerzett végzettség esetében legalább nyolc év, mesterk�
 
 (2) Az Atv.-ben meghatározott okokon túlmenően nem lehet szakértő:
 
-a)[^1] a cselekvőképességében bármely ügycsoportban részlegesen korlátozott nagykorú, vagy aki cselekvőképtelen, vagy
+a)[^2] a cselekvőképességében bármely ügycsoportban részlegesen korlátozott nagykorú, vagy aki cselekvőképtelen, vagy
 
 b) akit jogerős határozattal meghatározott időre tiltottak el a szakértői tevékenység gyakorlásától, a határozatban szereplő ideig.
 
-[^1]: A 2. § (2) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (2) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.

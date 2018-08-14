@@ -18,4 +18,16 @@ d) a tevékenysége során felmerülő kizáró okot határidőben nem jelentett
 
 (3) A tevékenységtől eltiltó határozatban rendelkezni kell annak időtartamáról, amely nem haladhatja meg a három évet.
 
-(4) A tevékenységétől eltiltott szakértő a tiltás ideje alatt a szakértői tevékenység folytatására nem jogosult. A tiltás lejártát követően a tevékenység folytatására jogosító engedélyt újra kell kérelmeznie.
+(4)[^24] A tevékenységétől eltiltott szakértő a tiltás ideje alatt a szakértői tevékenység folytatására nem jogosult. A tiltás lejártát követően a tevékenység folytatására jogosító engedélyt újra kérelmezheti.
+
+(5)[^25] A szakértő szervezetre az (1)–(4) bekezdésben foglaltakat megfelelően kell alkalmazni azzal, hogy szakértőn a szakértő szervezetet kell érteni.
+
+(6)[^26] Az (1) és (2) bekezdésben foglaltakon túl megszűnik a szakértői tevékenység gyakorlásának joga, és az engedélyező hatóság az engedélyt visszavonja, ha
+
+a) a cégbíróság vagy egyéb nyilvántartó hatóság a szervezetet saját nyilvántartásából törli, vagy
+
+b) az Atv. 19/B. § (2a) bekezdésében, illetve a 2/B. §-ban megjelölt személyeknek a szakértő szervezettel fennálló jogviszonya megszűnt, és 30 napon belül az e rendeletben meghatározott végzettséggel és gyakorlattal rendelkező személlyel nem áll fenn munkavégzésre irányuló jogviszony.
+
+[^24]: A 8. § (4) bekezdése a 147/2018. (VIII. 13.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^25]: A 8. § (5) bekezdését a 147/2018. (VIII. 13.) Korm. rendelet 7. §-a iktatta be.
+[^26]: A 8. § (6) bekezdését a 147/2018. (VIII. 13.) Korm. rendelet 7. §-a iktatta be.

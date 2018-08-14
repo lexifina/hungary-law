@@ -27,3 +27,13 @@ i) annak egyértelmű megjelölését, hogy a szakvélemény tárgya a tudomány
 (4) A nem-megfelelőségek feloldásának módját, illetve a bizonytalanságok és információhiányok miatt használt egyszerűsítések kellően konzervatív megközelítését igazolni kell.
 
 (5) A szakvéleményben SI mértékrendszert kell használni.
+
+(6)[^28] A szakértő szervezet által készített szakvéleményre az (1)–(5) bekezdésben foglaltakat megfelelően alkalmazni kell azzal, hogy szakértőn a szakértő szervezetet kell érteni.
+
+(7)[^29] A szakértő szervezet által készített szakvéleményt a szakértő szervezet cégszerű képviseletére jogosult személy írja alá a szakértő szervezet nevében. A szakértői véleményben fel kell tüntetni a szakvélemény készítésében közreműködő szakértők vagy a 2/B. §-ban foglaltaknak megfelelő személy nevét, valamint azt, hogy a szakvélemény mely részének elkészítésében vettek részt. A szakvélemény elkészítésében részt vevők a szakvélemény általuk elkészített részét aláírják.
+
+(8)[^30] A szakértő szervezet által készített szakvéleménynek be kell mutatnia a szakértői felülvizsgálattal érintett dokumentumok közti szakterületi és speciális szakterületi összefüggéseket, továbbá szakmai megállapításokat és következtetéseket kell tartalmaznia a szakértő szervezet szakterületéhez kapcsolódó valamennyi speciális szakértői kérdés, valamint ezek összegzése kapcsán a teljes szakterületi megfelelőség vonatkozásában.
+
+[^28]: A 10. § (6) bekezdését a 147/2018. (VIII. 13.) Korm. rendelet 8. §-a iktatta be.
+[^29]: A 10. § (7) bekezdését a 147/2018. (VIII. 13.) Korm. rendelet 8. §-a iktatta be.
+[^30]: A 10. § (8) bekezdését a 147/2018. (VIII. 13.) Korm. rendelet 8. §-a iktatta be.
