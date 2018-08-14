@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1247-30
 | 2017-12-29 | 2016-1247-30-22.14 | 1422/2016. (VII. 29.) Korm. határozat |
 | 2018-03-20 | 2016-1247-30-22.15 | 1992/2017. (XII. 19.) Korm. határozat |
 | 2018-07-26 | 2016-1247-30-22.16 | 1342/2018. (VII. 25.) Korm. határozat |
+| 2018-08-14 | 2016-1247-30-22.17 | 1379/2018. (VIII. 13.) Korm. határozat |
