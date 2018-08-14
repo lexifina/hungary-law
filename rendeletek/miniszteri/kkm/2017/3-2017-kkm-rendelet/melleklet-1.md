@@ -188,7 +188,7 @@
 
 | 90. | Genf ENSZ/WTO | 558 025 HUF | 15% | 313% | 22% | 148% |
 
-| 91. | New York ENSZ NK | 490 450 HUF | 30% | 267% | 29% | 222% |
+| 91. | New York ENSZ NK | 514 154 HUF | 30% | 270% | 29% | 261% |
 
 | 92. | Párizs OECD/UNESCO | 478 125 HUF | 20% | 181% | 21% | 148% |
 
@@ -244,7 +244,7 @@
 
 | 117. | München | 440 300 HUF | 30% | 156% | 21% | 94% |
 
-| 118. | New York FK | 490 450 HUF | 15% | 267% | 29% | 222% |
+| 118. | New York FK | 514 154 HUF | 30% | 270% | 29% | 261% |
 
 | 119. | Sanghaj | 466 650 HUF | 10% | 241% | 28% | 179% |
 
@@ -312,4 +312,4 @@
 
 | 150. | Zürich | 558 025 HUF | 0% | 384% | 22% | 148% |
 
-[^1]: Az 1. melléklet a 17/2017. (XII. 19.) KKM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. melléklet a 17/2017. (XII. 19.) KKM rendelet 1. §-ával megállapított, a 4/2018. (VIII. 13.) KKM rendelet 1. §-a szerint módosított szöveg.
