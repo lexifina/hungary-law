@@ -1,6 +1,6 @@
-## 19. §[^47] A 4. melléklet BIOLÓGIA-EGÉSZSÉGTAN C változat tantárgy kerettantervének és az 5. melléklet BIOLÓGIA-EGÉSZSÉGTAN C változat tantárgy kerettantervének rendelkezéseit első alkalommal a 2016/2017. tanévben a hat és nyolc évfolyamos gimnáziumi oktatás hetedik évfolyamán, ezt követően felmenő rendszerben kell alkalmazni.
+## 20. §[^48] A tanulmányaikat a 2016/2017. tanévben vagy a 2017/2018. tanévben 9. évfolyamon megkezdett szakgimnáziumi tanulók a tanulmányaik megkezdésekor hatályos kerettantervek szerint fejezik be tanulmányaikat azzal, hogy a tantárgyi struktúrában az „Érettségi vizsga keretében megszerezhető szakképesítés” tantárgy órakerete a 2018/2019. tanévtől a tanuló által választott kerettantervi iránynak megfelelően kerül felhasználásra a lehetséges szakképzési kerettantervi irányok alapján a szakgimnázium által biztosított lehetőségek közül.
 
-1. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^48]
+1. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^49]
 
-[^47]: A 19. §-t a 23/2016. (VIII. 30.) EMMI rendelet 6. §-a iktatta be.
-[^48]: Az 1. melléklet a 34/2014. (IV. 29.) EMMI rendelet 6. § a) pontja, a 22/2016. (VIII. 25.) EMMI rendelet 3. § e) pontja, a 24/2017. (X. 3.) EMMI rendelet 22. § 1. pontja szerint módosított szöveg.
+[^48]: A 20. §-t a 26/2018. (VIII. 7.) EMMI rendelet 1. §-a iktatta be.
+[^49]: Az 1. melléklet a 34/2014. (IV. 29.) EMMI rendelet 6. § a) pontja, a 22/2016. (VIII. 25.) EMMI rendelet 3. § e) pontja, a 24/2017. (X. 3.) EMMI rendelet 22. § 1. pontja szerint módosított szöveg.
