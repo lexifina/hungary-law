@@ -6,7 +6,7 @@
 
 44. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
-a) az FT és hivatala működésének szabályait,
+a) a Tanácsadó Testület és a Fenntartó hivatala működésének szabályait,
 
 b) az Egyetem gazdálkodásának, finanszírozásának különös szabályait, valamint
 

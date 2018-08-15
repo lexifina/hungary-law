@@ -1,4 +1,4 @@
-5. § Az FT
+5. § A Fenntartó
 
 a) kiírja a rektori pályázatot,
 
@@ -8,14 +8,16 @@ c) elfogadja az intézményfejlesztési tervet, valamint a minősített adat vé
 
 d) meghatározza az Egyetemen magasabb vezetői és vezetői megbízással rendelkezők számát,
 
-e) benyújtja a Kormányhoz az éves költségvetési beszámolót és a támogatási tervet,
+e) jóváhagyja az Egyetem által elkészített éves költségvetési beszámolót,
 
 f) ellenőrzi az állam által rendelkezésre bocsátott eszközök felhasználásának hatékonyságát és jogszerűségét,
 
 g) törvényességi ellenőrzést gyakorol az Egyetem felett,
 
-h) gyakorolja az Egyetem részére nyújtott támogatás felhasználása feletti belső ellenőrzési jogkörét, valamint
+h) gyakorolja az Egyetem részére nyújtott támogatás felhasználása feletti belső ellenőrzési jogkörét,
 
 i) meghatározza a szakmai ellenőrzés rendszerét,
 
-j) az éves központi költségvetés tervezésekor benyújtja a Kormányhoz az Egyetem támogatási tervét a 36. §-ban foglaltak alapján.
+j) vezeti a 9/B. § szerinti Tanácsadó Testület üléseit, valamint
+
+k) az éves központi költségvetés tervezésekor benyújtja a Kormányhoz az Egyetem támogatási tervét a 36. §-ban foglaltak alapján.

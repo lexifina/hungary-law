@@ -6,9 +6,9 @@
 
 a) a Nemzeti Közszolgálati Egyetemre (a továbbiakban: Egyetem),
 
-b) az általa folytatott államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati felsőoktatási tevékenységre, továbbá az azzal összefüggő szolgáltató és igazgatási tevékenységre, ideértve azon tevékenységet is, amelyet az Egyetem Magyarország területén kívül folytat,
+b) az általa folytatott felsőoktatási tevékenységre, valamint az államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, nemzetközi és európai közszolgálati felsőoktatásra, továbbá az ezekkel összefüggő szolgáltató és igazgatási tevékenységre, ideértve azon tevékenységet is, amelyet az Egyetem Magyarország területén kívül folytat,
 
-c) az Egyetem alapítójára, fenntartóira, valamint
+c) az Egyetem alapítójára, fenntartójára, valamint
 
 d) az Egyetem oktatóira, tudományos kutatóira és más alkalmazottjaira, hallgatóira, támogatóira és az oda jelentkezőkre.
 
