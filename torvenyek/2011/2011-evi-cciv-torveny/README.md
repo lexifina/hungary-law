@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-204-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2011-204-00-00.45 |
 | 2018-07-26 | 2018. évi XL. törvény | 2011-204-00-00.46 |
 | 2018-08-01 | 2018. évi XL. törvény | 2011-204-00-00.47 |
+| 2018-08-15 | 2018. évi XLVIII. törvény | 2011-204-00-00.48 |
