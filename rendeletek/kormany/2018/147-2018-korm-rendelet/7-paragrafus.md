@@ -1,1 +1,0 @@
-## „(5a) Szakértő szervezet esetében a (4) és (5) bekezdésben foglaltakat a szakértő szervezet vezető tisztségviselői és az Atv. 19/B. § (2a) bekezdése szerinti szakértő tekintetében kell alkalmazni.”
