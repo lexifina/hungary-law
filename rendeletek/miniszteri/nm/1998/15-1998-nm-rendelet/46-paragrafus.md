@@ -20,8 +20,15 @@ c)[^102] három–hat sajátos nevelési igényű, illetve korai fejlesztésre �
 
 nevelhető, gondozható.
 
+(3a)[^103] A fenntartó döntése alapján a bölcsődei csoportban a (3) bekezdés c) pontjában meghatározott létszámon felül legfeljebb további három gyermek nevelhető, gondozható, feltéve, hogy
+
+a) az 1. számú melléklet I. Alapellátások cím 2.1. pontjában a kisgyermeknevelő munkakörre előírt létszámfeltétel teljesítésén túl további egy fő kisgyermeknevelő alkalmazása biztosított, és
+
+b) az intézmény vezetőjéből, orvosából, gyógypedagógusából és kisgyermeknevelőjéből álló szakmai csoport a bölcsődei csoportba járó és oda jelentkező gyermekek állapota alapján azt támogatja.
+
 [^98]: A 45/A. §-t a 19/2017. (IX. 18.) EMMI rendelet 1. §-a iktatta be.
 [^99]: A 46. § (1) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
 [^100]: A 46. § (3) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
 [^101]: A 46. § (3) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
 [^102]: A 46. § (3) bekezdés c) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^103]: A 46. § (3a) bekezdését a 27/2018. (VIII. 7.) EMMI rendelet 1. §-a iktatta be.

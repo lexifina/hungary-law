@@ -198,6 +198,6 @@
 
 |  | gyermekvédelmi ügyintéző | szociális gyermek- és ifjúságvédelmi ügyintéző (OKJ), szociális asszisztens (OKJ) |
 
-3. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^545]
+3. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^550]
 
-[^545]: A 3. számú melléklet a 46/2015. (X. 12.) EMMI rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^550]: A 3. számú melléklet a 46/2015. (X. 12.) EMMI rendelet 6. § (3) bekezdésével megállapított szöveg.

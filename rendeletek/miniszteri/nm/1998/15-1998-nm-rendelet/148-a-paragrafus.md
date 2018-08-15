@@ -1,4 +1,4 @@
-148/A. §[^462] (1) A gyermek hazai, vagy ha ez nem lehetséges, nemzetközi örökbefogadásának elősegítése érdekében az a szakszolgálat, amelynek illetékességébe a gyermek tartozik (a továbbiakban: gyermek szerinti szakszolgálat), az a szakszolgálat, amelynek illetékességébe az örökbe fogadni szándékozó személy tartozik (a továbbiakban: örökbe fogadni szándékozó személy szerinti szakszolgálat), továbbá az országos örökbefogadást elősegítő szerv és a központi hatóság egymással folyamatosan együttműködik.
+148/A. §[^466] (1) A gyermek hazai, vagy ha ez nem lehetséges, nemzetközi örökbefogadásának elősegítése érdekében az a szakszolgálat, amelynek illetékességébe a gyermek tartozik (a továbbiakban: gyermek szerinti szakszolgálat), az a szakszolgálat, amelynek illetékességébe az örökbe fogadni szándékozó személy tartozik (a továbbiakban: örökbe fogadni szándékozó személy szerinti szakszolgálat), továbbá az országos örökbefogadást elősegítő szerv és a központi hatóság egymással folyamatosan együttműködik.
 
 (2) Ha az országos örökbefogadást elősegítő szerv megállapította, hogy az országos örökbefogadási nyilvántartásban szerepel olyan örökbe fogadni szándékozó személy, aki várhatóan megfelelő szülő-gyermek kapcsolatot tud kialakítani a gyermekkel, akkor erről értesíteti a gyermek szerinti és az örökbe fogadni szándékozó személy szerinti szakszolgálatot, és az egységes örökbefogadási nyilvántartásban hozzáférhetővé teszi az örökbe fogadni szándékozó személyek Gyvt. 135. § (5) bekezdés b) pontja szerinti adatait és dokumentumait a gyermek szerinti szakszolgálat számára. A hozzáférés megadását követően
 
@@ -24,4 +24,4 @@ e) az örökbe fogadni szándékozó személy szerinti szakszolgálat a gyámhiv
 
 (8) A szakszolgálat a személyes kapcsolatfelvétel eredményét vagy eredménytelenségét, valamint annak okát az egységes örökbefogadási nyilvántartásban rögzíti.
 
-[^462]: A 148/A. §-t a 28/2010. (XII. 30.) NEFMI rendelet 19. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 28. §-ával megállapított szöveg.
+[^466]: A 148/A. §-t a 28/2010. (XII. 30.) NEFMI rendelet 19. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 28. §-ával megállapított szöveg.
