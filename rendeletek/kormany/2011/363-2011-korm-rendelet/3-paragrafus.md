@@ -1,13 +1,5 @@
-## 3. § Az FT ügyvivő feladatai:
+3. § (1) A Fenntartó hivatalának vezetőjét a Fenntartó bízza meg.
 
-a) ellátja az FT egységes képviseletét,
+(2) A Fenntartó hivatala a Fenntartó által vezetett minisztérium önálló szervezeti egysége.
 
-b) az FT által átruházott körben gyakorolja a munkáltatói jogokat a rektor és az FT hivatalának vezetője felett,
-
-c) vezeti az FT ülését,
-
-d) gondoskodik az FT ülésének összehívásáról, a napirend, az előterjesztések és a határozati javaslatok előkészítéséről,
-
-e) gondoskodik a szavazás megszervezéséről, a határozat és a jegyzőkönyv elkészítéséről, valamint
-
-f) gyakorolja a kiadmányozási jogokat az FT nevében.
+(3) A Fenntartó hivatalánál foglalkoztatottak a Fenntartó által vezetett minisztériummal állnak kormányzati szolgálati jogviszonyban.

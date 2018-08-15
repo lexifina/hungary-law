@@ -1,12 +1,12 @@
 ## 2. Külföldi állampolgárok tanulmányainak támogatási rendje
 
-16. § (1) A kétoldalú nemzetközi szerződés alapján az Egyetemen államilag támogatott képzésben részt vevő külföldi hallgató részére az FT ösztöndíjat adományoz. Az adományozott ösztöndíj évente 10 vagy 12 hónapra szól.
+16. § (1)[^33] A kétoldalú nemzetközi szerződés alapján az Egyetemen államilag támogatott képzésben részt vevő külföldi hallgató részére a Fenntartó ösztöndíjat adományoz. Az adományozott ösztöndíj évente 10 vagy 12 hónapra szól.
 
 (2) Az ösztöndíj havi összege megfelel
 
-a)[^32] alap- és mesterképzésben részt vevő hallgatók esetében a törvényben meghatározott hallgatói normatíva éves összege 30%-ának,
+a)[^34] alap- és mesterképzésben részt vevő hallgatók esetében a törvényben meghatározott hallgatói normatíva éves összege 30%-ának,
 
-b)[^33] doktori képzésben részt vevő hallgatók esetében a törvényben e célra megállapított normatíva éves összege egy tizenketted részének.
+b)[^35] doktori képzésben részt vevő hallgatók esetében a törvényben e célra megállapított normatíva éves összege egy tizenketted részének.
 
 (3) Az ösztöndíjat a hallgatónak az Egyetem fizeti ki.
 
@@ -14,5 +14,6 @@ b)[^33] doktori képzésben részt vevő hallgatók esetében a törvényben e c
 
 (5) Nemzetközi megállapodás alapján részképzésben részt vevő nem magyar állampolgárok esetében az (1)–(4) bekezdés rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy az adományozott ösztöndíj a részképzés időtartamára szól.
 
-[^32]: A 16. § (2) bekezdés a) pontja a 205/2015. (VII. 23.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
-[^33]: A 16. § (2) bekezdés b) pontja a 205/2015. (VII. 23.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^33]: A 16. § (1) bekezdése a 146/2018. (VIII. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^34]: A 16. § (2) bekezdés a) pontja a 205/2015. (VII. 23.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^35]: A 16. § (2) bekezdés b) pontja a 205/2015. (VII. 23.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
