@@ -1,3 +1,0 @@
-## „e) az 5. § (6) bekezdésében foglalt esetekben a működési területén illetékes, állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalt vezető kormánymegbízott által kijelölt, az állami főépítészre vonatkozó képesítési követelményekkel rendelkező személyt,
-
-## f) a központi építészeti-műszaki tervtanácsok esetén az Étv. 19. § (4) bekezdése szerinti épületek építészeti-műszaki dokumentációjának véleményezésekor – ha a világörökségi területet vagy annak látványát érinti – a kulturális örökség védelméért felelős miniszter által kijelölt, a világörökségi szakterületet képviselő tagot.”
