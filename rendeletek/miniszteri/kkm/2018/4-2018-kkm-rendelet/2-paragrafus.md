@@ -1,1 +1,0 @@
-## 1. § A külképviseletek besorolásáról, valamint a tartós külszolgálaton lévőknek járó deviza-alapilletmény és költségtérítés kiszámításának részletes szabályairól szóló 3/2017. (II. 28.) KKM rendelet (a továbbiakban: KKM rendelet) 1. melléklete az 1. melléklet szerint módosul.
