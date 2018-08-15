@@ -1,0 +1,3 @@
+8. § Az NKE törvény 35. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az Egyetem költségvetését a közigazgatás-fejlesztésért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címen kell biztosítani. Az igazságügyért felelős miniszter, a rendészetért felelős miniszter, az innovációért és technológiáért felelős miniszter, a honvédelemért felelős miniszter, az oktatásért felelős miniszter, valamint a külpolitikáért felelős miniszter az Egyetemmel kötött megállapodás alapján kiegészítő jelleggel költségvetési támogatást biztosíthat az általa vezetett minisztérium költségvetési fejezetében.”
