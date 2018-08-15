@@ -12,16 +12,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat [a továbbiakban: 1247/2016. (V. 18.) Korm. határozat] 2. melléklete a 2. melléklet szerint módosul.
-
-## 4. Az 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont i) alpontjában a „123,35%-áig” szövegrész helyébe a „133,37%-áig” szöveg,
-
-## b) 1. melléklet 4. pontjában foglalt táblázat C:2 mezőjében a „136,56” szövegrész helyébe a „147,66” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:105 mezőjében a „15,14 (90% becsült támogatási intenzitás szerint csökkentett összeg)” szövegrész helyébe a „11,62 (támogatási intenzitás: 91,41%)” szöveg
-
-## lép.
+## 3–4.[^1]
 
 1. melléklet az 1388/2018. (VIII. 13.) Korm. határozathoz
+
+[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

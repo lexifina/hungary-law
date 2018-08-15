@@ -8,10 +8,6 @@
 
 | 4. | IKOP-4.1.0-15-2016-00001 | 48. sz. főút Debrecen–Nyírábrány, országhatár szakasz fejlesztése | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság | 90% | 523 357 157 | 58 150 795 | 152 248 397 | 0 | +1,41% | +11 099 395 732 | +1 034 065 016 | +3 776 754 439 | +2 016 668 660 | 91,41% | 11 622 752 889 | 1 092 215 811 | 3 929 002 836 | 2 016 668 660 | 18 660 640 196 | 2×1 sávos főút burkolatának 11,5 tonnás tengelyterhelésre történő megerősítése. |
 
-2. melléklet az 1388/2018. (VIII. 13.) Korm. határozathoz
+2. melléklet az 1388/2018. (VIII. 13.) Korm. határozathoz[^2]
 
-Hatályát veszti az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat
-
-a) 104a. sora,
-
-b) E:105 mezőjében a „ , Debrecen belterület 2x2 sávos fejlesztés, illetve kapacitásbővítés” szövegrész.
+[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
