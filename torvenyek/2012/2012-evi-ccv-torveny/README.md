@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-205-00-00
 | 2018-01-02 | 2017. évi CXXX. törvény | 2012-205-00-00.28 |
 | 2018-05-18 | 2018. évi V. törvény | 2012-205-00-00.29 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2012-205-00-00.30 |
+| 2018-08-15 | 2018. évi XLVIII. törvény | 2012-205-00-00.31 |
