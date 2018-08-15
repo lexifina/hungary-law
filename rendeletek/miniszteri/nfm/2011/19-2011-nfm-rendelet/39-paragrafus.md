@@ -2,9 +2,9 @@
 
 ## 34. Hatályon kívül helyező rendelkezések
 
-39. § (1)[^139]
+39. § (1)[^184]
 
-(2)[^140]
+(2)[^185]
 
-[^139]: A 39. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^140]: A 39. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^184]: A 39. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^185]: A 39. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

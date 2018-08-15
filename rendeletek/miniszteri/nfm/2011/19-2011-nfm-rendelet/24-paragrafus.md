@@ -1,6 +1,6 @@
 ## 21. Oktatásszervezési regisztráció
 
-24. §[^77] (1) Időszakos oktatás végzésére irányuló szándékot (a továbbiakban: regisztráció) jelenthet be
+24. §[^105] (1) Időszakos oktatás végzésére irányuló szándékot (a továbbiakban: regisztráció) jelenthet be
 
 a) a képzőszervezet, vagy
 
@@ -26,4 +26,4 @@ d) nyilatkozatban vállalja, hogy biztosítja az oktatók folyamatos, a vasúti 
 
 (7) A regisztrált szerv minden év március 31-éig beszámol a hatóságnak az általa az előző évben folytatott oktatási tevékenységéről, és – statisztikai adatok közlésével – annak eredményességéről.
 
-[^77]: A 24. § a 33/2016. (VIII. 2.) NFM rendelet 22. §-ával megállapított szöveg.
+[^105]: A 24. § a 33/2016. (VIII. 2.) NFM rendelet 22. §-ával megállapított szöveg.

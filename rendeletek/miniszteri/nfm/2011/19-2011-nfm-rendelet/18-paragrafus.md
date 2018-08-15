@@ -1,23 +1,23 @@
 ## 15. A képzésben részt vevő alapvizsgára bocsátásának feltételei
 
-18. §[^60] (1) A képzésben résztvevő akkor bocsátható alapvizsgára, ha a képzőszervezet őt a vizsgaközpontnak vizsgára bejelentette és a vizsga díját megfizette.
+18. §[^88] (1) A képzésben részt vevő akkor bocsátható alapvizsgára, ha a képzőszervezet őt a vizsgáztató szervezetnek vizsgára bejelentette és a vizsgadíja megfizetésre került.
 
-(2) Az alapképzést követő első alapvizsga esetében a képzőszervezet a vizsga tervezett időpontja előtt legkésőbb a 10. munkanapig a vizsgázók névsoráról és adatairól szóló (a vizsgabejelentő adattartalmával megegyező) tájékoztatót küld a vizsgaközpontnak. Ezt követően a képzőszervezet a vizsgabejelentéseket a vizsga tervezett időpontja előtt legkésőbb a 2. munkanapig megküldi a vizsgaközpontnak. Tájékoztató hiányában a vizsgabejelentésnek a vizsga tervezett időpontja előtt legkésőbb a 10. munkanapig kell beérkeznie a vizsgaközpontba, a vizsgabejelentés beérkezését követő 9 munkanapon belül vizsgaidőpont nem jelölhető ki. A vizsgabejelentéssel kapcsolatos módosítások a vizsga tervezett időpontját megelőző 5. munkanapig kérhetők, amelyeket a vizsgaközpont új bejelentésként kezel. A vizsga törlése a vizsga tervezett időpontját megelőző 5. munkanapig kérhető.
+(2) A vizsgabejelentésnek a vizsga tervezett időpontja előtt legkésőbb a 10. munkanapig kell beérkeznie a vizsgaközpontba, a vizsgabejelentés beérkezését követő 9 munkanapon belüli időpontra vizsgaidőpont nem jelölhető ki. A vizsgabejelentéssel kapcsolatos módosítások a vizsga tervezett időpontját megelőző 5. munkanapig kérhetők, amelyeket a vizsgaközpont új bejelentésként kezel. A vizsga törlése a vizsga tervezett időpontját megelőző 5. munkanapig – az eltérés alapvizsga kivételével az alapképzést követő első alapvizsga esetén a vizsga tervezett időpontját megelőző 2. munkanapig – kérhető.
 
-(3) A képzőszervezet akkor jelenti be a képzésben résztvevőt vizsgára, ha a képzésben résztvevő:
+(3) A képzőszervezet akkor jelentheti be a képzésben részt vevőt vizsgára, ha a képzésben részt vevő:
 
-a) hiányzása nem haladta meg a 12. § (6) bekezdésben előírt mértéket,
+a) a képzési programban előírt beszámolási kötelezettségét, a számonkérések és gyakorlatok követelményeit a vizsga tervezett időpontját megelőző 3. munkanapig – az eltérés alapvizsga esetén a vizsga tervezett időpontját megelőző 10. munkanapig – teljesíti,
 
-b) a képzési programban előírt beszámolási kötelezettségét teljesítette,
+b) megfelelt a 12. §-ban meghatározott képzésben való részvétel feltételeinek.
 
-c) megfelelt a 12. §-ban meghatározott képzésben részvétel feltételeinek, és
+(4) Ha a vizsgázó a vizsga tervezett időpontját megelőző 3. munkanapig a (3) bekezdésben előírt feltételeket nem teljesíti, a képzőszervezetnek a vizsga tervezett időpontját megelőző 2. munkanapig a vizsga törlését kell kérnie.
 
-d) az előírt számonkérések és gyakorlatok követelményeit teljesítette.
+(5) A vasúti társasági vizsgák esetében a bejelentéseket a képzőszervezetnek a vizsgaközpont nyilvántartási rendszerében a vizsgabiztos feltüntetésével a vizsga időpontját megelőző 5. munkanapig rögzítenie kell.
 
-(4) Az alapvizsga egyes részei alóli felmentésre való jogosultságot a vizsgaközpont állapítja meg.
+(6) Az alapvizsga egyes részei alóli felmentésre való jogosultságot a vizsgaközpont állapítja meg.
 
-(5) Az alapvizsga alól mentesítés nem adható.
+(7) Az alapvizsga alól mentesítés nem adható.
 
-(6) A képzésben résztvevő indokolt esetben az alapvizsga halasztását kérheti. A halasztás iránti kérelmet a vizsgaközpont akkor fogadja el, ha a képzésben résztvevő rajta kívülálló okból kéri a halasztást. Az engedélyezett halasztás időtartama az egy évet nem haladhatja meg.
+(8) A képzésben részt vevő indokolt esetben az alapvizsga halasztását kérheti. A halasztás iránti kérelmet a vizsgaközpont akkor fogadja el, ha a képzésben részt vevő rajta kívülálló okból vagy egyéb méltányolható körülmény alapján kéri a halasztást. Az engedélyezett halasztás időtartama az egy évet nem haladhatja meg.
 
-[^60]: A 18. § a 22/2015. (V. 6.) NFM rendelet 18. §-ával megállapított szöveg.
+[^88]: A 18. § a 7/2018. (VII. 26.) ITM rendelet 6. §-ával megállapított szöveg.

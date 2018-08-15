@@ -1,29 +1,29 @@
-## Időszakos oktatásra, illetve időszakos vizsgára kötelezett munkavállalók és az időszakos oktatás rendje
+## Időszakos oktatásra, valamint időszakos vizsgára kötelezett munkavállalók és az időszakos oktatás rendje
 
-|  | Országos jelentőségű vasútvonalak | Térségi vasúti pályahálózat | Saját célú vasúti pályahálózat, iparvágány, kisvasút, múzeumvasút | Elővárosi vasúti pályahálózat | Helyi, városi vasúti pályahálózat | Valamennyi keskeny nyomtávú pályahálózat |
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M |
 
-|  | Éves oktatási idő (óra) | gyakoriság (hónap) | Éves oktatási idő (óra) | gyakoriság (hónap) | Éves oktatási idő (óra) | gyakoriság (hónap) | Éves oktatási idő (óra) | gyakoriság (hónap) | Éves oktatási idő (óra) | gyakoriság (hónap) | Éves oktatási idő (óra) | gyakoriság (hónap) |
+| 1. |  | Országos jelentőségű vasútvonalak | Térségi vasúti pályahálózat | Saját célú vasúti pályahálózat, iparvágány | Elővárosi vasúti pályahálózat | Helyi, városi vasúti pályahálózat | Valamennyi különleges kötöttpálya-hálózat |
 
-| Vasúti járművezető munkakörök, feladatkörök | 30 | 3 | 30 | 3 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 |
+| 2. |  | Éves oktatási idő óra- számban | Gyakoriság – hónap | Éves oktatási idő óra- számban | Gyakori- ság – hónap | Éves oktatási idő óraszám- ban | Gyakori- ság – hónap | Éves oktatási idő óra- számban | Gya- kori- ság – hónap | Éves oktatási idő óra- számban | Gyakoriság – hónap | Éves oktatási idő óra- számban | Gyakoriság – hónap |
 
-| Vasúti pálya üzemeltetésével összefüggő munkakörök (országos pályahálózat) |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3. | Vasúti járművezető munkakörök, feladatkörök | 30 | 3 | 30 | 3 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 |
 
-| 1. melléklet 15-22. sorszámú munkakörök | 30 | 3 |  |  |  |  |  |  |  |  |  |  |
+| 4. | Vasúti pálya üzemeltetésével összefüggő munkakörök – országos pályahálózat – 1. melléklet 15–22. sorszámú munkakörök | 30 | 3 | - | - | - | - | - | - | - | - | - | - |
 
-| 1. melléklet 1-14; 23-39/B sorszámú munkakörök | 12 | 6 |  |  |  |  |  |  |  |  |  |  |
+| 5. | Vasúti pálya üzemeltetésével összefüggő munkakörök – országos pályahálózat – 1. melléklet 1–14; 23–39/B. sorszámú munkakörök | 12 | 6 | - | - | - | - | - | - | - | - | - | - |
 
-| Vasúti pálya üzemeltetésével összefüggő munkakörök (kivéve országos pályahálózat) |  |  | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 |
+| 6. | Vasúti pálya üzemeltetésével összefüggő munkakörök, kivéve országos pályahálózat | - | - | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 |
 
-| Távközlő, erősáramú és biztosítóberendezések fenntartásával összefüggő munkakörök | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 |
+| 7. | Távközlő, erősáramú és biztosítóberendezések fenntartásával összefüggő munkakörök | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 |
 
-| Vasúti pálya fenntartásával összefüggő munkakörök | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 |
+| 8. | Vasúti pálya fenntartásával összefüggő munkakörök | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 |
 
-| Személyszállítási szolgáltatással összefüggő munkakörök | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 |
+| 9. | Személyszállítási szolgáltatással összefüggő munkakörök | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 |
 
-| Áruszállítási szolgáltatással összefüggő munkakörök | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 |
+| 10. | Áruszállítási szolgáltatással összefüggő munkakörök | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 |
 
-| Járművek üzemeltetésével és fenntartásával összefüggő munkakörök | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 |
+| 11. | Járművek üzemeltetésével és fenntartásával összefüggő munkakörök | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 |
 
-3. melléklet a 19/2011. (V. 10.) NFM rendelethez[^143]
+3. melléklet a 19/2011. (V. 10.) NFM rendelethez[^188]
 
-[^143]: A 3. melléklet a 33/2016. (VIII. 2.) NFM rendelet 31. § (2) bekezdésével megállapított, a 33. § e) pontja, a 20/2017. (VI. 22.) NFM rendelet 14. § (2) bekezdése, 15. § i)–k) pontja, 16. § b)–h) pontja szerint módosított szöveg.
+[^188]: A 3. melléklet a 7/2018. (VII. 26.) ITM rendelet 15. § (3) bekezdésével megállapított szöveg.

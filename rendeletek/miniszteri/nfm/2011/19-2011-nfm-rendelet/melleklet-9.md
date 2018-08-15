@@ -34,26 +34,38 @@
 
 | 5. | Elektronikus, vezetékes vagy mobil telefonos elérhetőség | központi képzési helyszínen 1 |  |
 
-9. melléklet a 19/2011. (V. 10.) NFM rendelethez[^149]
+9. melléklet a 19/2011. (V. 10.) NFM rendelethez[^194]
 
-E rendelet hatálya alá tartozó OKJ képzések a vasúti ágazatban
+## E rendelet hatálya alá tartozó OKJ képzések a vasúti ágazatban
 
-Megfeleltetési táblázat
+1. Megfeleltetési táblázat OKJ-s végzettség esetén
 
-|  | Szint | Tanulmányi terület | Sorszám | OKJ-s végzettség | E rendelet 3. melléklet szerinti vizsga |
+|  | A | B | C | D | E |
 
-| 62 | 54 | 525 | 04 | Dízelmotoros vasúti jármű szerelője | • Dízelmozdony kategória modul • Karbantartó (építő) vasúti jármű kategória modul • Keskeny nyomtávolságú dízelmozdony kategória modul |
+| 1. | Szint | Tanulmányi terület | Sorszám | OKJ-s végzettség | E rendelet 3. melléklet szerinti vizsga |
 
-| 312 | 62 | 521 | 02 | Mozgólépcső ellenőr | • Mozgólépcső (mozgójárda) kezelő |
+| 2. | 54 | 525 | 04 | Dízelmotoros vasúti jármű szerelője | • Dízelmozdony kategória modul • Karbantartó, építő vasúti jármű kategória modul • Keskeny nyomtávolságú dízelmozdony kategória modul |
 
-| 313 | 33 | 521 | 01 | Mozgólépcső karbantartó-szerelő | • Mozgólépcső (mozgójárda) kezelő |
+| 3. | 54 | 525 | 11 | Vasúti jármű dízelmotor- és hajtásszerelő |
 
-| 457 | 54 | 841 | 05 | Vasútforgalmi szolgálattevő | • Általános forgalmi |
+| 4. | 62 | 521 | 02 | Mozgólépcső ellenőr | • Mozgólépcső, mozgójárda kezelő |
 
-| 460 | 54 | 525 | 07 | Vasúti villamos jármű szerelője | • Villamosmozdony kategória modul • Villamos meghajtású elővárosi vasúti jármű kategória modul • Villamos meghajtású közúti vasúti jármű kategória modul • Villamos meghajtású földalatti (metró) vasúti jármű kategória modul • Villamos meghajtású földalatti (metró) vasúti jármű (segédvezető) kategória modul • Villamos meghajtású millenniumi földalatti vasúti jármű kategória modul • Villamos meghajtású fogaskerekű vasúti jármű kategória modul • Keskeny nyomtávolságú villamosmozdony kategória modul |
+| 5. | 33 | 521 | 01 | Mozgólépcső karbantartó-szerelő | • Mozgólépcső, mozgójárda kezelő |
 
-| Szakközépiskolai ágazat | Munkakörhöz/Tevékenységhez kapcsolódó végzettség (FEOR-08 alapján) | Képzési rendelet 3. melléklet szerinti vizsga |
+| 6. | 54 | 841 | 05 | Vasútforgalmi szolgálattevő | • Általános forgalmi |
 
-| XXI. | Közlekedés | 5231/6 Jegyvizsgáló | • | Jegyvizsgáló |
+| 7. | 54 | 525 | 07 | Vasúti villamos jármű szerelője | • Villamosmozdony kategória modul • Villamos meghajtású elővárosi vasúti jármű kategória modul • Villamos meghajtású közúti vasúti jármű kategória modul • Villamos meghajtású földalatti – metró – vasúti jármű kategória modul • Villamos meghajtású földalatti – metró – vasúti jármű – segédvezető – kategória modul • Villamos meghajtású millenniumi földalatti vasúti jármű kategória modul • Villamos meghajtású fogaskerekű vasúti jármű kategória modul • Keskeny nyomtávolságú villamosmozdony kategória modul |
 
-[^149]: A 9. mellékletet a 22/2015. (V. 6.) NFM rendelet 38. § (3) bekezdés b) pontja iktatta be.
+| 8. | 54 | 525 | 13 | Vasúti jármű villamos rendszereinek szerelője |
+
+| 9. | 54 | 525 | 09 | Kocsivizsgáló | • Kocsivizsgáló |
+
+2. Megfeleltetési táblázat munkakörhöz vagy tevékenységhez kapcsolódó végzettség esetén
+
+|  | A | B | C | D |
+
+| 1. | Szakközépiskolai ágazat | Munkakörhöz vagy tevékenységhez kapcsolódó végzettség: FEOR-’08 alapján | E rendelet 3. melléklet szerinti vizsga |
+
+| 2. | XXI. | Közlekedés | 5231/6 Jegyvizsgáló | – Jegyvizsgáló |
+
+[^194]: A 9. mellékletet a 22/2015. (V. 6.) NFM rendelet 38. § (3) bekezdés b) pontja iktatta be, szövege a 7/2018. (VII. 26.) ITM rendelet 15. § (5) bekezdésével megállapított szöveg.

@@ -2,9 +2,9 @@
 
 ## AZ ALAPKÉPZÉS RENDSZERE
 
-## 4. [^13] Az alapképzést végző szolgáltatók nyilvántartása
+## 4. [^24] Az alapképzést végző szolgáltatók nyilvántartása
 
-4. §[^14] (1) Alapképzés végzésére az e rendeletben meghatározott személyi és tárgyi feltételeket teljesítő, a hatóság által az alapképzést végző szolgáltatók nyilvántartásába vett gazdálkodó szervezet (a továbbiakban: képzőszervezet) jogosult. Az alapképzés végzésére irányuló szándék bejelentésének tartalmát a 4. melléklet határozza meg.
+4. §[^25] (1) Alapképzés végzésére az e rendeletben meghatározott személyi és tárgyi feltételeket teljesítő, a hatóság által az alapképzést végző szolgáltatók nyilvántartásába vett gazdálkodó szervezet (a továbbiakban: képzőszervezet) jogosult. Az alapképzés végzésére irányuló szándék bejelentésének tartalmát a 4. melléklet határozza meg.
 
 (2) A képzőszervezetek nyilvántartásába az a szervezet vehető, amely nyilatkozatban vállalja, hogy
 
@@ -34,5 +34,5 @@ e) nyilatkozatban vállalja, hogy biztosítja az oktatók folyamatos, a vasúti 
 
 (7) A képzőszervezet minden év március 31-éig beszámol a hatóságnak az általa az előző évben folytatott oktatási tevékenységéről, és – statisztikai adatok közlésével – annak eredményességéről.
 
-[^13]: A 4. alcím címe a 33/2016. (VIII. 2.) NFM rendelet 32. § d) pontjával megállapított szöveg.
-[^14]: A 4. § a 33/2016. (VIII. 2.) NFM rendelet 15. §-ával megállapított szöveg.
+[^24]: A 4. alcím címe a 33/2016. (VIII. 2.) NFM rendelet 32. § d) pontjával megállapított szöveg.
+[^25]: A 4. § a 33/2016. (VIII. 2.) NFM rendelet 15. §-ával megállapított szöveg.
