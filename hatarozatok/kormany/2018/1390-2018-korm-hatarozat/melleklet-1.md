@@ -18,9 +18,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat [a továbbiakban: 1084/2016. (II. 29.) Korm. határozat] 2. mellékletében foglalt táblázat D:41 mezőjében a „2,20” szövegrész helyébe a „3,01” szöveg lép.
+## 3.[^1]
 
-## 4. Hatályát veszti az 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat 48. sora.
+## 4.[^2]
 
 1. melléklet az 1390/2018. (VIII. 13.) Korm. határozathoz
 
@@ -29,3 +29,6 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó, Ft) | Többlettámogatás legfeljebb (bruttó, Ft) | Megnövelt támogatás legfeljebb (bruttó, Ft) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-1.3.0-15-2015-00006 | Derecskei-főcsatorna korszerűsítése | Országos Vízügyi Főigazgatóság (konzorciumvezető) Tiszántúli Vízügyi Igazgatóság | 2 200 000 000 | 806 011 081 | 3 006 011 081 | A Projekt célja a Derecskei-főcsatorna rekonstrukciós munkálatainak elvégzése, amely munkálatok eredményeként javulnak a vízkészletekkel történő fenntartható gazdálkodás feltételei. A fejlesztés meglévő csatornamedrek és műtárgyak újjáépítését, valamint új műtárgyak létrehozását biztosítja a térségben. A Projekt sikeres megvalósítása a vízgazdálkodási fejlesztéssel érintett területek nagyságát 4800 hektár kiterjedéssel növeli. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
