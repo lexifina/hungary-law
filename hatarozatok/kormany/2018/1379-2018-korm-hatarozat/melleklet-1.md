@@ -2,32 +2,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az 1247/2016. (V. 18.) Korm. határozat 1. pont f) alpont faa) pontja helyébe a következő rendelkezés lép:
+## 3–5.[^1]
 
-## (A Kormány
+1. melléklet az 1379/2018. (VIII. 13.) Korm. határozathoz[^2]
 
-## egyetért azzal, hogy
-
-## az Integrált Közlekedésfejlesztési Operatív Program)
-
-## „faa) 2. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 113,06%-áig,”
-
-## (legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható,)
-
-## 4. Az 1247/2016. (V. 18.) Korm. határozat 2. melléklete az 1. melléklet szerint módosul.
-
-## 5. Az 1247/2016. (V. 18.) Korm. határozat 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az „503,667” szövegrész helyébe az „519,293” szöveg lép.
-
-1. melléklet az 1379/2018. (VIII. 13.) Korm. határozathoz
-
-Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat a következő 65j. sorral egészül ki:
-
-|  | (A) | (B) | (C) | (D) | (E) |
-
-| (1.) | (Felhívás azonosító jele) | (Projekt megnevezése) | (Támogatást igénylő neve) | [Projekt indikatív támogatási kerete (Mrd Ft)] | (Szakmai elvárások) |
-
-„
-
-| 65j. | IKOP-2.1.0-15 | 8 db nagykapacitású motorvonat beszerzése a MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság részére | MÁV-START Zrt. | 39,00 (becsült támogatási intenzitás: 100%) | Nagykapacitású, 160 km/h sebességű elővárosi villamos motorvonatok beszerzése ETCS2 felszereltséggel. |
-
-”
+[^1]: A 3–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
