@@ -17,5 +17,3 @@
 ## f) ftzls. – főtörzszászlós
 
 8. melléklet a 2015. évi XLII. törvényhez
-
-## Tiszti besorolási osztályba tartozó szolgálati beosztások besorolása a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, a terrorizmust elhárító szervnél, az Országgyűlési Őrségnél, valamint a polgári nemzetbiztonság szolgálatoknál

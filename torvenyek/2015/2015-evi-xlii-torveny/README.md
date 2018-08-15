@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-42-00-00
 | 2017-10-20 | 2017. évi CXXIII. törvény | 2015-42-00-00.11 |
 | 2018-01-01 | 2017. évi CXXXIV. törvény | 2015-42-00-00.12 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2015-42-00-00.13 |
+| 2018-08-15 | 2018. évi XLVIII. törvény | 2015-42-00-00.14 |
