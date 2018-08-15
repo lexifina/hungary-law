@@ -1,6 +1,6 @@
-## 7. §[^7] Azt a kormánytisztviselőt, illetve pénzügyőrt, aki 2016. december 31-én a NAV állományába tartozik, és a 2016. december 31-én hatályos szabályok alapján munkaköre ellátására képesítettnek minősül, a 2017. január 1-jén betöltött munkaköre vonatkozásában képesítettnek kell tekinteni.
+## 7. §[^8] Azt a kormánytisztviselőt, illetve pénzügyőrt, aki 2016. december 31-én a NAV állományába tartozik, és a 2016. december 31-én hatályos szabályok alapján munkaköre ellátására képesítettnek minősül, a 2017. január 1-jén betöltött munkaköre vonatkozásában képesítettnek kell tekinteni.
 
-1. melléklet a 396/2012. (XII. 20.) Korm. rendelethez[^8]
+1. melléklet a 396/2012. (XII. 20.) Korm. rendelethez[^9]
 
 Képesítési előírások
 
@@ -204,5 +204,5 @@ b) A II. besorolási osztályban:
 
 középfokú informatikai, közgazdasági, távközlési végzettség; középfokú végzettség, valamint informatikai szakmacsoportban szerzett legalább középfokú vagy könyvelés és adózás szakterületen szerzett legalább felső középfokú részszakképesítés, szakképesítés, vagy statisztikai és gazdasági ügyintézői szakképesítés
 
-[^7]: A 7. §-t a 481/2016. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
-[^8]: Az 1. melléklet a 481/2016. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^8]: A 7. §-t a 481/2016. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^9]: Az 1. melléklet a 481/2016. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.

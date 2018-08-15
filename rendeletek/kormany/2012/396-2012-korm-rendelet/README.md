@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-396-20-
 | 2015-07-31 | 2012-396-20-22.5 | 478/2013. (XII. 17.) Korm. rendelet |
 | 2016-01-01 | 2012-396-20-22.6 | 486/2015. (XII. 29.) Korm. rendelet |
 | 2017-01-01 | 2012-396-20-22.7 | 481/2016. (XII. 28.) Korm. rendelet |
+| 2018-08-15 | 2012-396-20-22.8 | 146/2018. (VIII. 13.) Korm. rendelet |
