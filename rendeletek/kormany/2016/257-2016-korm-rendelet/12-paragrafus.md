@@ -1,23 +1,20 @@
-12. § (1) 2017. január 1-jéig az önkormányzati ASP rendszer gazdálkodási rendszeréhez és önkormányzati adórendszeréhez csatlakoznak a 4. melléklet szerinti helyi önkormányzatok.
+12. §[^22] (1) A 2018. január 1. napjáig az önkormányzati ASP rendszerhez már csatlakozott önkormányzatokon túl
 
-(2)[^17] 2018. január 1-jéig – a (3)–(6) bekezdésben meghatározott kivétellel – az önkormányzati ASP rendszer valamennyi szakrendszeréhez csatlakozik az összes helyi önkormányzat.
+a) 2019. január 1-jéig csatlakoznak az önkormányzati ASP rendszer
 
-(3)[^18] A megyei önkormányzat 2019. január 1-jéig a 3. § (2) bekezdés a), d) és e) pontjában meghatározott szakrendszerekhez csatlakozik.
+aa) valamennyi szakrendszeréhez az 5. melléklet szerinti helyi önkormányzatok, az interfésszel csatlakozók kivételével,
 
-(4)[^19] Ha a helyi önkormányzat nem a Kincstár adófeldolgozó programrendszerét használja, a 3. § (2) bekezdés f) pontjában meghatározott szakrendszerhez a 13. § (3) bekezdése, valamint a (6) bekezdés szerint csatlakozik.
+ab) 3. § (2) bekezdés a), d) és e) pontjában meghatározott szakrendszereihez a megyei önkormányzatok,
 
-(5)[^20] Az 5. melléklet szerinti helyi önkormányzatok – a (4) és a (6) bekezdésben foglalt kivétellel – 2019. január 1-jéig csatlakoznak az önkormányzati ASP rendszer valamennyi szakrendszeréhez.
+b) 2019. június 1-jéig csatlakoznak az interfészes csatlakozók, a (2) bekezdésben meghatározott kivétellel.
 
-(6)[^21] Interfészes csatlakozás esetén a 3. melléklet szerinti adatok teljes körének automatizált elektronikus átadását legkésőbb 2019. január 1-jéig kell biztosítani.
+(2) Ha a helyi önkormányzat nem a Kincstár adófeldolgozó programrendszerét használja, akkor a 3. § (2) bekezdés f) pontja szerinti szakrendszerhez csak a Htv. 44. § (2) bekezdésében rögzített határnaptól csatlakozik; 2019. június 1-jétől azonban a 3. mellékletben foglalt táblázat 2. sora szerinti adatok teljes körének automatizált elektronikus átadását biztosítania kell az önkormányzati adattárház számára.
 
-(7)[^22] Az e §-ban megjelölt végső csatlakozási időpontnál korábbi csatlakozásra a Kincstár és a helyi önkormányzat megállapodása alapján van lehetőség.
+(3) A 3. § (2) bekezdés b) pontja szerinti települési portál rendszer használata a helyi önkormányzat számára nem kötelező. A rendszer használatával vagy használatának mellőzésével kapcsolatos igényét a helyi önkormányzat évente egyszer, a tárgyévet megelőző év június 30-áig jelezheti a Kincstár számára. Az önkormányzati ASP rendszer a portálszolgáltatást az igény jelzését követő év január 1-jétől biztosítja vagy szünteti meg. A települési portál felületére feltöltött tartalmakért az önkormányzati települési portál rendszer igénybevétele esetén is a helyi önkormányzat felel.
 
-(8)[^23] Az önkormányzati ASP központról és a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosításáról szóló 62/2015. (III. 24.) Korm. rendelet alapján az önkormányzati ASP központhoz csatlakozott önkormányzatokat e rendelet alkalmazásában csatlakozott önkormányzatnak kell tekinteni.
+(4) A (3) bekezdésben megjelölt igényt a 2019-es évre vonatkozóan a települési önkormányzat az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet és az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet módosításáról szóló 148/2018. (VIII. 13.) Korm. rendelet hatálybalépését[^23] követő 30 napon belül jelezheti.
 
-[^17]: A 12. § (2) bekezdése a 100/2017. (IV. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^18]: A 12. § (3) bekezdése a 100/2017. (IV. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^19]: A 12. § (4) bekezdése a 100/2017. (IV. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^20]: A 12. § (5) bekezdése a 100/2017. (IV. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^21]: A 12. § (6) bekezdését a 100/2017. (IV. 28.) Korm. rendelet 4. §-a iktatta be.
-[^22]: A 12. § (7) bekezdését a 100/2017. (IV. 28.) Korm. rendelet 4. §-a iktatta be.
-[^23]: A 12. § (8) bekezdését a 100/2017. (IV. 28.) Korm. rendelet 4. §-a iktatta be.
+(5) Az e §-ban megjelölt végső csatlakozási időpontnál korábbi csatlakozásra a Kincstár és a helyi önkormányzat megállapodása alapján kerülhet sor.
+
+[^22]: A 12. § a 148/2018. (VIII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^23]: A hatálybalépés időpontja 2018. augusztus 16.

@@ -1,9 +1,9 @@
-14. § (1)[^27] Interfészes csatlakozáshoz történő hozzájárulás iránt kérelmet a helyi önkormányzat az e-közigazgatásért felelős miniszterhez legkésőbb 2017. május 31-ig nyújthat be.
+14. §[^26] (1) Az önkormányzati ASP központról és a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosításáról szóló 62/2015. (III. 24.) Korm. rendelet alapján az önkormányzati ASP központhoz csatlakozott önkormányzatokat e rendelet alkalmazásában csatlakozott önkormányzatnak kell tekinteni.
 
-(2)[^28] Az e-közigazgatásért felelős miniszter a kérelemről 45 napon belül dönt, döntését indokolni nem köteles.
+(2) Az Mötv. 114. § (3) bekezdése alkalmazásában a csatlakozás végső időpontjának a rendszercsatlakozás határidejét kell tekinteni.
 
-(3)[^29] Ha valószínűsíthető, hogy az interfész kiépítésével a helyi önkormányzat a csatlakozási határidőre nem készül el, vagy az interfész technikai megvalósítása nem megfelelő, az e-közigazgatásért felelős miniszter az interfészes csatlakozáshoz történő hozzájárulását visszavonja. Ebben az esetben, valamint akkor, ha interfészes csatlakozás iránti kérelmet nem nyújtott be, a helyi önkormányzat rendszercsatlakozással csatlakozik az önkormányzati ASP rendszerhez.
+(3) A Htv. 44. §-a alkalmazásában az önkormányzati ASP rendszer önkormányzati adórendszerét a Kincstár által rendelkezésre bocsátott számítógépes programrendszernek kell tekinteni.
 
-[^27]: A 14. § (1) bekezdése a 100/2017. (IV. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^28]: A 14. § (2) bekezdése a 100/2017. (IV. 28.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^29]: A 14. § (3) bekezdése a 100/2017. (IV. 28.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+(4) A csatlakozási időpontot megelőző év vonatkozásában a zárási, évváltási, adatszolgáltatási és beszámolási feladatokat a korábban alkalmazott szoftverrel kell elvégezni.
+
+[^26]: A 14. § a 148/2018. (VIII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.

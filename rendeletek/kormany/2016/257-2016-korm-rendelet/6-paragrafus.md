@@ -24,6 +24,9 @@ a) az interfész kiépítéséhez szükséges fejlesztésekről a helyi önkorm�
 
 b) az interfész technológiai megfelelőségét a csatlakozás előtt az e-közigazgatásért felelős miniszter ellenőrzi.
 
+(4a)[^13] Az interfészes csatlakozás a 3. melléklet szerinti adatoknak az önkormányzati adattárház számára történő automatizált elektronikus átadhatóságának biztosításával valósul meg.
+
 (5) Azon polgármesteri hivatal, illetve közös önkormányzati hivatali székhely esetében, ahol a Nemzeti Távközlési Gerinchálózat kiépítésre kerül, az önkormányzati ASP rendszerhez való csatlakozás ezen hálózaton keresztül valósul meg.
 
 [^12]: A 6. § (2) bekezdését a 100/2017. (IV. 28.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^13]: A 6. § (4a) bekezdését a 148/2018. (VIII. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.

@@ -1,3 +1,3 @@
-16. § (1) A Htv. 44. §-a alkalmazásában az önkormányzati ASP rendszer önkormányzati adórendszerét a Kincstár által rendelkezésre bocsátott számítógépes programrendszernek kell tekinteni.
+## 15. §[^28]
 
-(2) A csatlakozási időpontot megelőző év vonatkozásában a zárási, évváltási, adatszolgáltatási és beszámolási feladatokat a korábban alkalmazott szoftverrel kell elvégezni.
+[^28]: A 15. §-t a 148/2018. (VIII. 13.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.

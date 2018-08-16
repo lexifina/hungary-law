@@ -18,8 +18,6 @@
 
 | 7. | Kincstár Önkormányzati Előirányzat Gazdálkodási Modul | Önkormányzatok állami támogatásának nyilvántartó rendszere az adósságot keletkeztető ügyletekhez történő hozzájárulás részletes szabályairól szóló Korm. rendelet, az Áht., az Ávr., az NGM rendelet szerinti adatok |
 
-4. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^38]
+4. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^34]
 
-2017. január 1. napjával csatlakozásra köteles helyi önkormányzatok
-
-[^38]: A 4. melléklet a 477/2016. (XII. 27.) Korm. rendelet 88. § (2) bekezdése szerint módosított szöveg.
+[^34]: A 4. mellékletet a 148/2018. (VIII. 13.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
