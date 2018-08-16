@@ -24,6 +24,6 @@ c) gazdálkodó szervezet és egyéb nem természetes személy esetében, ha az 
 
 (3) Az ügyintézési rendelkezést a nyilatkozatot tevő személy – a telefonos ügyfélszolgálatnál tett nyilatkozat kivételével – aláírásával vagy az elektronikus dokumentumhitelesítésre vonatkozó rendelkezések szerint hitelesíti. A telefonos ügyfélszolgálatnál tett nyilatkozatot az ügyfél azonosítását követően az ügyfélszolgálat írásban rögzíti, a személyhez rendelést záradékban igazolja, és azt az elektronikus dokumentumhitelesítés szabályai szerint hitelesíti.
 
-(4)[^42] A szolgáltató az ügyintézési rendelkezések nyilvántartása alapján kiállított, általa hitelesített igazolásban automatikus információátadás útján, a 134. § szerinti ügynöki szolgáltatás igénybevételével vagy más, automatizált feldolgozásra alkalmas módon tájékoztatja az elektronikus ügyintézést biztosító szervet vagy más szolgáltatót az ügyintézési rendelkezés tartalmáról.
+(4)[^44] A szolgáltató az ügyintézési rendelkezések nyilvántartása alapján kiállított, általa hitelesített igazolásban automatikus információátadás útján, a 134. § szerinti ügynöki szolgáltatás igénybevételével vagy más, automatizált feldolgozásra alkalmas módon tájékoztatja az elektronikus ügyintézést biztosító szervet vagy más szolgáltatót az ügyintézési rendelkezés tartalmáról.
 
-[^42]: A 93. § (4) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^44]: A 93. § (4) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.

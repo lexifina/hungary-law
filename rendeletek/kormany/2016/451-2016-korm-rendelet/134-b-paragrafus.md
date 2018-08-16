@@ -1,4 +1,4 @@
-134/B. §[^57] (1)[^58] A KKSZB szolgáltatója biztosítja az E-ügyintézési tv. Harmadik Része szerinti informatikai együttműködés biztonságos feltételeit, egyes SZEÜSZ-ök és KEÜSZ-ök elérhetőségét (a 134/B–134/H. §-ok alkalmazásában a továbbiakban együtt: KKSZB szolgáltatás) azon együttműködő szervek részére, amelyek megfelelnek a csatlakozás műszaki és adminisztratív feltételeinek és megállapodást kötnek a szolgáltatóval (a továbbiakban: csatlakozott szervek). A csatlakozás műszaki és adminisztratív feltételeit a KKSZB szolgáltató által közzétett szolgáltatási szabályzat, a KKSZB szolgáltatásra vonatkozó csatlakozási megállapodás, illetve az általános szerződési feltételek tartalmazzák.
+134/B. §[^59] (1)[^60] A KKSZB szolgáltatója biztosítja az E-ügyintézési tv. Harmadik Része szerinti informatikai együttműködés biztonságos feltételeit, egyes SZEÜSZ-ök és KEÜSZ-ök elérhetőségét (a 134/B–134/H. §-ok alkalmazásában a továbbiakban együtt: KKSZB szolgáltatás) azon együttműködő szervek részére, amelyek megfelelnek a csatlakozás műszaki és adminisztratív feltételeinek és megállapodást kötnek a szolgáltatóval (a továbbiakban: csatlakozott szervek). A csatlakozás műszaki és adminisztratív feltételeit a KKSZB szolgáltató által közzétett szolgáltatási szabályzat, a KKSZB szolgáltatásra vonatkozó csatlakozási megállapodás, illetve az általános szerződési feltételek tartalmazzák.
 
 (2) A KKSZB a csatlakozott szervek által a KKSZB szolgáltatáson keresztül zajló információátadásban tanúsítvány alapú titkosított adatforgalmat biztosít, a KKSZB igénybevételével továbbított üzenetek tartalmát nem ismeri meg, azokat kizárólag továbbítja. Az átadott adatok tartalmáért és az átadás címzett jogosultságának ellenőrzéséért a csatlakozott szerv a felelős. A KKSZB szolgáltatás keretében továbbított üzenetek e rendelet előírásának megfelelő hitelesítéséért és titkosításáért az automatikus információátadásra köteles csatlakozott szerv felelős.
 
@@ -16,5 +16,5 @@ ab) szolgáltatáskatalógus-kezelő,
 
 b) információ fogadása esetén kapcsolattartó.
 
-[^57]: A 134/B. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.
-[^58]: A 134/B. § (1) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 6. § p) pontja szerint módosított szöveg.
+[^59]: A 134/B. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.
+[^60]: A 134/B. § (1) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 6. § p) pontja szerint módosított szöveg.

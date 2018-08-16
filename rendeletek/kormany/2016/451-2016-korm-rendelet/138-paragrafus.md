@@ -1,6 +1,6 @@
 ## 28. A szolgáltatásnyújtás bejelentése
 
-138. § (1)[^69] A KEÜSZ vagy SZEÜSZ szolgáltató köteles a felügyelet részére a szolgáltatás nyújtásának megkezdésére irányuló szándékot, valamint a megkezdés tervezett időpontját elektronikusan, a felügyelet által közétett tájékoztatás szerint bejelenteni.
+138. § (1)[^71] A KEÜSZ vagy SZEÜSZ szolgáltató köteles a felügyelet részére a szolgáltatás nyújtásának megkezdésére irányuló szándékot, valamint a megkezdés tervezett időpontját elektronikusan, a felügyelet által közétett tájékoztatás szerint bejelenteni.
 
 (2) A szolgáltató a bejelentéshez köteles csatolni:
 
@@ -28,7 +28,7 @@ a) a bejelentésben foglalt adatok a hiánypótlás ellenére a szolgáltató va
 
 b) a szolgáltatás nyújtása a benyújtott információk alapján nem alkalmas a biztonságos igénybevételhez.
 
-(7)[^70] A szolgáltató a bejelentésben közölt adatokban bekövetkezett változásokat, valamint a szolgáltatás nyújtásának megszűnését 30 napon belül köteles bejelenteni a felügyeletnek.
+(7)[^72] A szolgáltató a bejelentésben közölt adatokban bekövetkezett változásokat, valamint a szolgáltatás nyújtásának megszűnését 30 napon belül köteles bejelenteni a felügyeletnek.
 
 (8) A felügyeletnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatókról szóló nyilvántartását a felügyelet a honlapján közzéteszi, és abba bárki betekinthet.
 
@@ -54,5 +54,5 @@ g) a szolgáltatás jogszabályoknak való megfelelése
 
 (11) A szolgáltató a szolgáltatásnyújtás megkezdésének tervezett időpontját köteles a bejegyzés iránti kérelem benyújtását követő 3 hónapon túli időpontban megjelölni.
 
-[^69]: A 138. § (1) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
-[^70]: A 138. § (7) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 6. § q) pontja szerint módosított szöveg.
+[^71]: A 138. § (1) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
+[^72]: A 138. § (7) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 6. § q) pontja szerint módosított szöveg.

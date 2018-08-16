@@ -20,8 +20,18 @@ c)[^26] jogszabályban erre alkalmasnak megjelölt, az együttműködő szerv jo
 
 (7) Ahol e rendelet a dokumentum megküldését az ügyfél hivatalos elérhetőségére írja elő, ott hivatali tárhellyel rendelkező ügyfél esetén a hivatalos elérhetőség alatt hivatali tárhelyet kell érteni.
 
+(8)[^29] A helyi önkormányzat – választása szerint –
+
+a) a képviselő-testület és annak a Magyarország helyi önkormányzatairól szóló törvényben meghatározott szervei esetében egyaránt az önkormányzat saját nevére szóló hivatali tárhelyét használja, vagy
+
+b) az önkormányzati hivatali tárhely használata mellett a képviselő-testület egyes szervei részére jogosult önálló hivatali tárhelyet is használni.
+
+(9)[^30] Ha a helyi önkormányzat – a (8) bekezdés b) pontja alapján – több hivatali tárhellyel rendelkezik, akkor ezek vonatkozásában köteles az ügyfeleket, valamint az együttműködő szerveket arról tájékoztatni, hogy melyik hivatali tárhelyet milyen célra lehet igénybe venni.
+
 [^24]: A 85. § (1) bekezdés a) pontja a 221/2017. (VIII. 7.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
 [^25]: A 85. § (1) bekezdés b) pontja a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^26]: A 85. § (1) bekezdés c) pontja a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^27]: A 85. § (3) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^28]: A 85. § (6) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^29]: A 85. § (8) bekezdését a 148/2018. (VIII. 13.) Korm. rendelet 4. §-a iktatta be.
+[^30]: A 85. § (9) bekezdését a 148/2018. (VIII. 13.) Korm. rendelet 4. §-a iktatta be.
