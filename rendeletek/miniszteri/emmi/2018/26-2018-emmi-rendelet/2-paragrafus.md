@@ -1,3 +1,0 @@
-## 1. § A kerettantervek kiadásának és jóváhagyásának rendjéről szóló 51/2012. (XII. 21.) EMMI rendelet (a továbbiakban: Rendelet) 5. alcíme a következő 20. §-sal egészül ki:
-
-## „20. § A tanulmányaikat a 2016/2017. tanévben vagy a 2017/2018. tanévben 9. évfolyamon megkezdett szakgimnáziumi tanulók a tanulmányaik megkezdésekor hatályos kerettantervek szerint fejezik be tanulmányaikat azzal, hogy a tantárgyi struktúrában az „Érettségi vizsga keretében megszerezhető szakképesítés” tantárgy órakerete a 2018/2019. tanévtől a tanuló által választott kerettantervi iránynak megfelelően kerül felhasználásra a lehetséges szakképzési kerettantervi irányok alapján a szakgimnázium által biztosított lehetőségek közül.”
