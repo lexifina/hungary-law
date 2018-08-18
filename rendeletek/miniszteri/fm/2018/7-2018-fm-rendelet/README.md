@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-7-20-11
 | --- | --- | --- |
 | 2018-03-31 | 2018-7-20-11.1 | 7/2018. (III. 28.) FM rendelet |
 | 2018-04-01 | 2018-7-20-11.2 | 2010: CXXX. törvény |
+| 2018-08-18 | 2018-7-20-11.3 | 22/2018. (VIII. 17.) AM rendelet |

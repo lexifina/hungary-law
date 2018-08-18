@@ -4,20 +4,22 @@
 
 (2) A pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult.
 
-(3) Az (1) bekezdés szerinti pénzügyi hozzájárulás mértéke az igazolt költségek 100%-a, de maximális összege átlagosan nem haladhatja meg
+(3)[^3] Az (1) bekezdés szerinti pénzügyi hozzájárulás mértéke az igazolt költségek 100%-a, de maximális összege nem haladhatja meg
 
 a) szerológiai vizsgálatonként a 15,24 eurónak,
 
 b) fluoreszkáló ellenanyagpróbára (FAT) vizsgálatonként a 13,09 eurónak,
 
-c) orális csalétekvakcina beszerzése esetében csalétkenként legfeljebb a 0,28 eurónak,
+c) orális csalétekvakcina beszerzése és kihelyezése esetében az 1 951 348,23 eurónak,
 
-d) orális csalétekvakcina kihelyezése esetében csalétkenként legfeljebb a 0,47 eurónak,
+d) vadon élő állatoknak a hatóság részére laboratóriumi vizsgálatok végzése céljából történő átadása esetében állatonként legfeljebb a 23,33 eurónak,
 
-e) vadon élő állatoknak a hatóság részére laboratóriumi vizsgálatok végzése céljából történő átadása esetében állatonként legfeljebb a 23,33 eurónak,
+e) biomarker (tetraciklin csontból való) kimutatására szolgáló tesztek esetében tesztenként legfeljebb a 10 eurónak,
 
-f) biomarker (tetraciklin csontból való) kimutatására szolgáló tesztek esetében tesztenként legfeljebb a 10 eurónak,
+f) vírust tartalmazó csalétekvakcina-minták titrálása esetében vizsgált csalétekvakcina-mintánként legfeljebb a 100 eurónak,
 
-g) vírust tartalmazó csalétekvakcina-minták titrálása esetében vizsgált csalétekvakcina-mintánként legfeljebb a 100 eurónak,
+g) figyelemfelhívó kampány esetében a 160 000 eurónak
 
-h) figyelemfelhívó kampány esetében a 160 000 eurónak
+megfelelő forintösszeget.
+
+[^3]: A 12. § (3) bekezdése a 22/2018. (VIII. 17.) AM rendelet 6. § (2) bekezdésével megállapított szöveg.
