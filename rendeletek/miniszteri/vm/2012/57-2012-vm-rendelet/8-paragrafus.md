@@ -10,7 +10,7 @@ a) az egyéni vállalkozói mezőgazdasági tevékenységről kiállított igazo
 
 b) a támogatási kérelemben jelzett csatlakozási szándék esetén az MVH által rendszeresített nyomtatványt, amelyen az elismert termelői csoport, vagy zöldség-gyümölcs termelői csoport és termelői szervezet az ügyfél tagságának meglétét igazolja.
 
-(3)[^12] A támogatási összeg fennmaradó 10%-ára vonatkozó kifizetési kérelem benyújtására 2014. május 1. és 31. között, majd ezt követően évente május 1. és 31. között megnyíló kifizetési időszakban, de legkésőbb a működtetési időszak ötödik évét követő év május 1. és 31. között van lehetőség.
+(3)[^12] A támogatási összeg fennmaradó 10%-ára vonatkozó kifizetési kérelem benyújtására 2014. május 1. és 31. között, majd ezt követően évente május 1. és 31. között megnyíló kifizetési időszakban, de legkésőbb a működtetési időszak ötödik évét követő évben megnyíló kifizetési időszak végéig van lehetőség akkor, ha a 4. § (1)–(3) bekezdésében foglaltak teljesülnek.
 
 (4)[^13] A kifizetési kérelmet az ügyfél választása szerint elektronikus úton, ügyfélkapun keresztül, vagy postai úton az ügyfél lakóhelye szerint illetékes kormányhivatalhoz kell benyújtani, a Kincstár honlapján közleményben közzétett nyomtatványon.
 
@@ -24,6 +24,6 @@ b) a kötelezettségek teljesítését igazoló adatok.
 
 (7) Amennyiben az e rendelet alapján benyújtott támogatási kérelemben az ügyfél arról nyilatkozott, hogy gazdaságot vesz át, és erre vonatkozóan többlet pontot szerzett, ezt követően a támogatási kérelemben megnevezettől eltérő azon gazdaságátadótól is átvehet gazdaságot, akivel és az általa átadott gazdasággal szemben teljesülnek ugyanazok, a 3. mellékletben foglalt táblázat „A” Szakmai szempontok és „B” Horizontális szempontok rész alapján tett vállalások, kötelezettségek, nyilatkozatok.
 
-[^12]: A 8. § (3) bekezdése a 35/2017. (XII. 27.) MvM rendelet 3. §-ával megállapított szöveg.
+[^12]: A 8. § (3) bekezdése a 22/2018. (VIII. 17.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^13]: A 8. § (4) bekezdése a 35/2017. (XII. 27.) MvM rendelet 3. §-ával megállapított szöveg.
 [^14]: A 8. § (5) bekezdés nyitó szövegrésze a 35/2017. (XII. 27.) MvM rendelet 8. § e) pontja szerint módosított szöveg.
