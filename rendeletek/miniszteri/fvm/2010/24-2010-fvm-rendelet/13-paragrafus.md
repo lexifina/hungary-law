@@ -32,6 +32,8 @@
 
 (17)[^68] E rendeletnek a zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelettel [a továbbiakban: 50/2017. (X. 10.) FM rendelet] megállapított 9. § (6b) bekezdését a 50/2017. (X. 10.) FM rendelet hatálybalépésekor[^69] folyamatban lévő közigazgatási és bírósági ügyekben, továbbá a már lezárt és befejezett ügyekben is alkalmazni kell.
 
+(18)[^70] A zöldség-gyümölcs termelői csoportok támogatásáról szóló 24/2010. (III. 19.) FVM rendelet módosításáról szóló 23/2018. (VIII. 17.) AM rendelettel [a továbbiakban: 23/2018. (VIII. 17.) AM rendelet] megállapított 9. § (6a) bekezdését a 23/2018. (VIII. 17.) AM rendelet hatálybalépésekor[^71] folyamatban lévő támogatások esetében is alkalmazni kell.
+
 [^39]: A 12. §-t a 65/2013. (VII. 29.) VM rendelet 11. §-a hatályon kívül helyezte.
 [^40]: A 13. §-t a 12/2011. (II. 18.) VM rendelet 11. §-a iktatta be.
 [^41]: A 13. § (1)–(3) bekezdését a 65/2013. (VII. 29.) VM rendelet 11. §-a hatályon kívül helyezte.
@@ -63,3 +65,5 @@
 [^67]: A hatálybalépés időpontja 2016. december 13.
 [^68]: A 13. § (17) beekzdését az 50/2017. (X. 10.) FM rendelet 35. § (3) bekezdése iktatta be.
 [^69]: A hatálybalépés időpontja 2017. október 11.
+[^70]: A 13. § (18) bekezdését a 23/2018. (VIII. 17.) AM rendelet 2. §-a iktatta be.
+[^71]: A hatálybalépés időpontja 2018. augusztus 18.

@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-24-20-8
 | 2016-12-13 | 2010-24-20-82.16 | 52/2016. (VII. 21.) FM rendelet |
 | 2017-01-01 | 2010-24-20-82.17 | 88/2016. (XII. 29.) FM rendelet |
 | 2017-10-11 | 2010-24-20-82.18 | 50/2017. (X. 10.) FM rendelet |
+| 2018-08-18 | 2010-24-20-82.19 | 52/2016. (VII. 21.) FM rendelet |

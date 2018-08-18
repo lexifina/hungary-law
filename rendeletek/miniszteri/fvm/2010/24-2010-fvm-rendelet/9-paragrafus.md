@@ -18,15 +18,15 @@ d)[^28] a termelői csoport által a 150/2012. (XII. 28.) VM rendelet 23. § (2)
 
 (6)[^30] Az összevont támogatási kérelemről – a miniszter által jóváhagyott elismerési terv figyelembevételével – a Kincstár dönt és a támogatást a támogatási kérelem beérkezésétől számított hat hónapon belül, de legkésőbb az elismerési tervben megjelölt időszak évét követő év szeptember 30-áig fizeti ki.
 
-(6a)[^31] Ha a mezőgazdasági és vidékfejlesztési támogatási szerv vagy a másodfokon eljáró szerv 2013. január 1-jét követően hozott döntésében a 4. § szerinti támogatás megállapítására irányuló, a bizottsági rendelet 45. cikkében foglalt kérelmet azért utasította el vagy ilyen kérelem alapján megállapított támogatást azért követelt vissza, mert
+(6a)[^31] Ha a mezőgazdasági és vidékfejlesztési támogatási szerv vagy a másodfokon eljáró szerv 2013. január 1-jét követően hozott döntésében a 4. § szerinti támogatás megállapítására irányuló, a bizottsági rendelet 45. cikkében foglalt kérelmet azért utasította el, vagy ilyen kérelem alapján megállapított támogatást azért követelt vissza, mert
 
 a) az érintett beruházás nem az elismerési tervben megjelölt időszakban valósult meg, vagy
 
-b) a beruházás megvalósulását alátámasztó bizonylat a megvalósítás idejét tekintve valótlannak bizonyult,
+b) az (1) bekezdés szerinti támogatási kérelemhez csatolt, a beruházás megvalósulásának alátámasztására felhasznált számviteli bizonylat – a 6. §-ban foglalt támogatási feltételeket nem érintően – téves adatot tartalmaz,
 
-## akkor a Kincstár a döntést visszavonja, illetve a másodfokú hatóság a helybenhagyó döntését visszavonja, és az elsőfokú döntést megsemmisíti vagy megváltoztatja, feltéve, hogy az érintett beruházás teljesíti a 6. § (1) bekezdésében foglalt feltételeket, és a termelői csoport a termelői szervezetként történő elismerést megszerezte.
+akkor az ügyfél kérelmére a Kincstár a döntést visszavonja, illetve a másodfokú hatóság a helybenhagyó döntését visszavonja és az elsőfokú döntést megváltoztatja vagy az elsőfokú döntést megsemmisíti, és az elsőfokú hatóságot új eljárás lefolytatására utasítja feltéve, hogy az ügyfél a téves adatot tartalmazó számviteli bizonylatot javította, illetve megfelelően igazolja, hogy a beruházás legkésőbb az átmeneti időszak utolsó napjáig megvalósult, és az érintett beruházás teljesíti a 6. § (1) bekezdésében foglalt feltételeket, valamint a termelői csoport a termelői szervezetként történő elismerést megszerezte.
 
-(6b)[^32] Ha a mezőgazdasági és vidékfejlesztési támogatási szerv vagy a másodfokon eljáró szerv 2013. január 1-jét követően hozott döntésében a 4. § szerinti támogatás megállapítására irányuló, a bizottsági rendelet 45. cikkében foglalt kérelmet azért utasította el, vagy ilyen kérelem alapján megállapított támogatást azért követelt vissza, mert az érintett beruházás nem az elismerési tervben megjelölt időszakban valósult meg, de a 6. § (2c) bekezdésében foglalt feltétel fennáll, akkor a Kincstár a döntést visszavonja, illetve a másodfokú hatóság a helybenhagyó döntését visszavonja, és az elsőfokú döntést megsemmisíti vagy megváltoztatja.
+(6b)[^32] Ha a mezőgazdasági és vidékfejlesztési támogatási szerv vagy a másodfokon eljáró szerv 2013. január 1-jét követően hozott döntésében az e rendelet szerinti támogatás megállapítására irányuló, a bizottsági rendelet 45. cikkében foglalt kérelmet azért utasította el, vagy ilyen kérelem alapján megállapított támogatást azért követelt vissza, mert az érintett beruházás nem az elismerési tervben megjelölt időszakban valósult meg, de a 6. § (2c) bekezdésében foglalt feltétel fennáll, akkor az ügyfélnek az ezen támogatási összegre vonatkozó kifizetési kérelmére a Kincstár a döntést visszavonja, illetve a másodfokú hatóság a helybenhagyó döntését visszavonja, és az elsőfokú döntést megsemmisíti vagy megváltoztatja.
 
 (7)[^33] A Kincstár az összevont támogatási kérelemnek a 3. §-ban, illetve a 4. §-ban meghatározott támogatás iránti részét szétválasztva, külön eljárásban bírálja el.
 
@@ -37,7 +37,7 @@ b) a beruházás megvalósulását alátámasztó bizonylat a megvalósítás id
 [^28]: A 9. § (2) bekezdés d) pontját a 41/2015. (VII. 20.) FM rendelet 5. §-a iktatta be.
 [^29]: A 9. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 43. § d) pontja szerint módosított szöveg.
 [^30]: A 9. § (6) bekezdése az 52/2016. (VII. 21.) FM rendelet 4. § (1) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 43. § b) pontja szerint módosított szöveg.
-[^31]: A 9. § (6a) bekezdését újonnan az 52/2016. (VII. 21.) FM rendelet 4. § (1) bekezdése iktatta be, szövege a 78/2016. (XII. 12.) FM rendelet 10. §-ával megállapított, nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 43. § f) pontja, záró szövegrésze ez utóbbi módosító rendelet 43. § g) pontja szerint módosított szöveg.
-[^32]: A 9. § (6b) beekzdését az 50/2017. (X. 10.) FM rendelet 35. § (2) bekezdése iktatta be.
+[^31]: A 9. § (6a) bekezdését újonnan az 52/2016. (VII. 21.) FM rendelet 4. § (1) bekezdése iktatta be, szövege a 23/2018. (VIII. 17.) AM rendelet 1. §-ával megállapított szöveg.
+[^32]: A 9. § (6b) beekzdését az 50/2017. (X. 10.) FM rendelet 35. § (2) bekezdése iktatta be, szövege a 23/2018. (VIII. 17.) AM rendelet 1. §-ával megállapított szöveg.
 [^33]: A 9. § (7) bekezdése a 88/2016. (XII. 29.) FM rendelet 43. § c) pontja szerint módosított szöveg.
 [^34]: A 9. § (8) bekezdését a 97/2013. (X. 22.) VM rendelet 8. §-a iktatta be, szövege az 52/2016. (VII. 21.) FM rendelet 4. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 43. § b) és e) pontja szerint módosított szöveg.
