@@ -1,0 +1,5 @@
+## „16. § (1) E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához igényelhető támogatások részletes feltételeiről szóló egyes miniszteri rendeletek módosításáról szóló 35/2017. (XII. 27.) MvM rendelettel megállapított 8. § (4) bekezdését, 9. § (7) bekezdés d) és g) pontját, 9. § (8) bekezdés b) pontját, 9. § (11) és (12) bekezdését az e rendelkezések hatálybalépésekor és az egyes agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 22/2018. (VIII. 17.) AM rendelet [a továbbiakban: 22/2018. (VIII. 17.) AM rendelet] hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+## (2) E rendeletnek a 22/2018. (VIII. 17.) AM rendelettel megállapított 8. § (3) bekezdését a 22/2018. (VIII. 17.)AM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+
+## 4. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2014. évben igényelhető támogatások részletes feltételeiről szóló 34/2014. (IV. 4.) VM rendelet módosítása

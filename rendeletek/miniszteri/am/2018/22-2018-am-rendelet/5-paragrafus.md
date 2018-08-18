@@ -1,0 +1,7 @@
+## 4. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2014. évben igényelhető támogatások részletes feltételeiről szóló 34/2014. (IV. 4.) VM rendelet a következő 18. §-sal egészül ki:
+
+## „18. § (1) E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához igényelhető támogatások részletes feltételeiről szóló egyes miniszteri rendeletek módosításáról szóló 35/2017. (XII. 27.) MvM rendelettel megállapított 6. §-át, 11. § (4) és (5) bekezdését, 12. § (1) bekezdését, 12. § (9) bekezdés b) és d) pontját, 12. § (11) és (13) bekezdését az e rendelkezések hatálybalépésekor és az egyes agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 22/2018. (VIII. 17.) AM rendelet [a továbbiakban: 22/2018. (VIII. 17.) AM rendelet] hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+## (2) E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához igényelhető támogatások részletes feltételeiről szóló egyes miniszteri rendeletek módosításáról szóló 35/2017. (XII. 27.) MvM rendelettel hatályon kívül helyezett 12. § (6) és (7) bekezdését a 22/2018. (VIII. 17.) AM rendelet hatálybalépésekor folyamatban lévő eljárásokban sem kell alkalmazni.”
+
+## 5. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2015. évben igényelhető támogatások részletes feltételeiről szóló 24/2015. (IV. 28.) MvM rendelet módosítása
