@@ -24,7 +24,7 @@
 
 ## 4.2. Fenntartó azonosítója.
 
-## 4.3. Terméket gyártó üzem neve és részére a Nemzeti Élelmiszerlánc-biztonsági Hivatal által kiadott üzemengedély száma.
+## 4.3.[^9] Terméket gyártó üzem neve és részére az élelmiszerlánc-felügyeleti szerv által kiadott üzemengedély száma.
 
 ## 4.4. Intézmények adatai (OM azonosító, feladatellátási hely azonosító, név, megye, cím).
 
@@ -55,3 +55,5 @@
 ## 5.9. Büntetőjogi felelőssége tudatában kijelenti, hogy a szállítási szerződés jóváhagyása iránti kérelemben és a csatolt mellékletekben feltüntetett adatok a valóságnak megfelelnek.
 
 5. melléklet a 21/2017. (IV. 26.) FM rendelethez
+
+[^9]: A 4. melléklet 4. pont 4.3. alpontja a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés e) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@ e) az ellátott intézmények adatai (név, székhely megyéje, címe, OM azonos
 
 f) a kérelmező (előfinanszírozó) megnevezése,
 
-g) a szállítani tervezett termékek termékkategóriánkénti adatainak kimutatása [termék megnevezése, termékkategória megnevezése, termék kiszerelése, tanév során összességében szállítani tervezett mennyisége, a NÉBIH által engedélyezett saját üzemből szállított termék mennyisége (liter/kg), a NÉBIH által engedélyezett másik üzemben bérgyártott termék mennyisége (liter/kg), a NÉBIH által engedélyezett üzemből származó és más módon beszerzett termék mennyisége (liter/kg), továbbá a saját, a bérgyártó és az egyéb módon bevont üzem vagy üzemek neve, működési engedélyszáma],
+g)[^5] a szállítani tervezett termékek termékkategóriánkénti adatainak kimutatása [termék megnevezése, termékkategória megnevezése, termék kiszerelése, tanév során összességében szállítani tervezett mennyisége, az élelmiszerlánc-felügyeleti szerv által engedélyezett saját üzemből szállított termék mennyisége (liter/kg), az élelmiszerlánc-felügyeleti szerv által engedélyezett másik üzemben bérgyártott termék mennyisége (liter/kg), az élelmiszerlánc-felügyeleti szerv által engedélyezett üzemből származó és más módon beszerzett termék mennyisége (liter/kg), továbbá a saját, a bérgyártó és az egyéb módon bevont üzem vagy üzemek neve, működési engedélyszáma],
 
 h) a tanév megjelölése,
 
@@ -44,8 +44,12 @@ s) az iratmegőrzési hely meghatározása.
 
 (4) A 11. § (1) bekezdés j) pontjában megjelölt és a (3) bekezdés szerint becsült, feladatellátási helyenkénti és kedvezményezett típusonkénti létszámok nem haladhatják meg az Oktatási Hivatal nyilvántartásában az adott feladatellátási hely kapcsán szereplő keretlétszámot. A keretlétszám feletti létszámra jutó termékmennyiséget a Kincstár a 12. § (5) bekezdése szerinti döntésében köteles elutasítani.
 
-(5) Ha a szállító nem rendelkezik a szállított termék vonatkozásában saját, illetve a megrendelések teljesítését teljes mértékben lehetővé tevő saját tejfeldolgozó üzemmel, a kérelmezőnek azt a szerződést, amelyet a szállító egy, a NÉBIH által engedélyezett üzemmel a tejtermék előállítása tárgyában kötött, a szállítási szerződéssel együtt – a 12. § (1) bekezdésében meghatározott határidőben – csatolnia kell a szállítási szerződés jóváhagyása iránti kérelméhez.
+(5)[^6] Ha a szállító nem rendelkezik a szállított termék vonatkozásában saját, illetve a megrendelések teljesítését teljes mértékben lehetővé tevő saját tejfeldolgozó üzemmel, a kérelmezőnek azt a szerződést, amelyet a szállító egy, az élelmiszerlánc-felügyeleti szerv által engedélyezett üzemmel a tejtermék előállítása tárgyában kötött, a szállítási szerződéssel együtt – a 12. § (1) bekezdésében meghatározott határidőben – csatolnia kell a szállítási szerződés jóváhagyása iránti kérelméhez.
 
-(6) A kiszállított termékek mennyiségét a szállító saját üzemében előállított, illetve a NÉBIH által engedélyezett üzem által gyártott és egyéb módon beszerzett, továbbá az (5) bekezdés szerinti gazdálkodó szervezettel kötött szerződésben szereplő termékmennyiségnek le kell fednie. Ha az e bekezdésben foglalt feltétel nem teljesül, a kiszállított termékek után támogatás nem nyújtható.
+(6)[^7] A kiszállított termékek mennyiségét a szállító saját üzemében előállított, illetve az élelmiszerlánc-felügyeleti szerv által engedélyezett üzem által gyártott és egyéb módon beszerzett, továbbá az (5) bekezdés szerinti gazdálkodó szervezettel kötött szerződésben szereplő termékmennyiségnek le kell fednie. Ha az e bekezdésben foglalt feltétel nem teljesül, a kiszállított termékek után támogatás nem nyújtható.
 
 (7) A szállítási szerződésnek a kérelmező személyére vonatkozó eleme nem módosítható.
+
+[^5]: A 11. § (1) bekezdés g) pontja a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^6]: A 11. § (5) bekezdése a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^7]: A 11. § (6) bekezdése a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.

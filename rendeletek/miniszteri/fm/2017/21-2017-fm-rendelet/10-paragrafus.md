@@ -6,7 +6,7 @@
 
 (4) A szállítók rangsorolását az alábbi többletpontok szerint kell elvégezni:
 
-a) annak a szállítónak az ajánlatára, amely a NÉBIH által engedélyezett tejipari feldolgozó üzemmel vagy tejtermelést folytató tenyészettel rendelkezik, vagy amelynek tulajdonosi körét vagy üzletrészét legalább 80% tulajdoni hányaddal tejfeldolgozó üzemmel vagy tejtermelést folytató tenyészettel rendelkező gazdasági szervezet vagy magánszemély birtokolja, 9 pont adható;
+a)[^4] annak a szállítónak az ajánlatára, amely az élelmiszerlánc-felügyeleti szerv által engedélyezett tejipari feldolgozó üzemmel vagy tejtermelést folytató tenyészettel rendelkezik, vagy amelynek tulajdonosi körét vagy üzletrészét legalább 80% tulajdoni hányaddal tejfeldolgozó üzemmel vagy tejtermelést folytató tenyészettel rendelkező gazdasági szervezet vagy magánszemély birtokolja, 9 pont adható;
 
 b) annak a szállítónak az ajánlatára, amely a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló 52/2010. (IV. 30.) FVM rendelet értelmében kistermelő, vagy a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. §-a alapján mikro-, kis- és középvállalkozás, 9 pont adható;
 
@@ -49,3 +49,5 @@ h) „III. ömlesztett sajt” esetében a 15. § (2) és (3) bekezdés f) pontj
 (11) Ha a vállalások a program lebonyolítása során nem teljesülnek, az intézmény és a szállító erről jegyzőkönyvet állít ki, amelyet megküld a miniszternek. A felek a jegyzőkönyvben kötelesek egyértelműen megjelölni, hogy melyik fél miatt nem valósultak meg a vállalások. Ha a vállalások a szállító mulasztása miatt nem valósultak meg, a következő évi ajánlattételi felhívás során a fenntartó nem köteles figyelembe venni a szállító ajánlatát. Ha a következő tanévi ajánlattételi felhívás során a szállító az egyetlen ajánlattevő, úgy a fenntartó a következő tanévre más szállítóval is köthet szerződést.
 
 (12) A vállalások – különösen a promóciós intézkedések – megvalósulását a miniszter is jogosult helyszíni és adminisztratív ellenőrzés keretében ellenőrizni.
+
+[^4]: A 10. § (4) bekezdés a) pontja a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.
