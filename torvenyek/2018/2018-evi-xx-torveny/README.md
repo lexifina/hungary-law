@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-20-00-00
 | --- | --- | --- |
 | 2018-07-03 | 2018. évi XX. törvény | 2018-20-00-00.0 (közlönyállapot) |
 | 2018-07-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-20-00-00.1 |
+| 2018-08-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-20-00-00.2 |
