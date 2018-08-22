@@ -1,1 +1,0 @@
-## „(6) Az ösztöndíjasnak teljesítenie kell a fogadó magyar felsőoktatási intézmény által meghatározott felvételi követelményeket. Az ösztöndíj odaítélésének a feltétele az, hogy az ösztöndíjas hallgatói jogviszonyt létesítsen a fogadó magyar felsőoktatási intézménnyel.”
