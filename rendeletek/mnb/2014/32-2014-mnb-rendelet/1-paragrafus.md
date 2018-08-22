@@ -44,9 +44,17 @@ jb) az 5. § (1) bekezdésében meghatározott mutató nem haladja meg a 6. § (
 
 k)[^4] a kizárólag a futamidő meghosszabbítására irányuló hitelszerződés-módosítás esetén;
 
-l)[^5] a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló Korm. rendelet alapján nyújtott hitelre.
+l)[^5] a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló Korm. rendelet alapján nyújtott hitelre;
 
-(4)[^6] E rendeletet – a havi adósságszolgálatnak az 5. §-ban foglaltak szerinti megállapítása során történő beszámítás kivételével – nem kell alkalmazni a hitelszerződésből vagy közüzemi szolgáltatóval szembeni tartozásból eredő követelés hitellel vagy pénzügyi lízinggel történő kiváltására, ha
+m)[^6] az ingatlanra alapított jelzálogjog-fedezete mellett nyújtott hitelszerződés módosításakor, ha ezáltal a hiteltartozás összege nem növekszik, és a módosítás eredményeképp
+
+ma) a hitel a futamidő végéig rögzített hitelkamattal rendelkező hitel lesz,
+
+mb) a kamatperiódusokban rögzített hitelkamattal rendelkező hitel esetében a hitel módosítást követő kamatperiódusának hossza a módosítást megelőzően érvényes kamatperiódus hosszánál hosszabb lesz, vagy a módosítást követően hátralévő futamidőnél nem lesz rövidebb,
+
+mc) a változó hitelkamattal rendelkező hitel esetében a hitel hosszabb futamidejű referenciakamathoz kötött változó hitelkamattal rendelkező vagy kamatperiódusokban rögzített hitelkamattal rendelkező hitel lesz.
+
+(4)[^7] E rendeletet – a havi adósságszolgálatnak az 5. §-ban foglaltak szerinti megállapítása során történő beszámítás kivételével – nem kell alkalmazni a hitelszerződésből vagy közüzemi szolgáltatóval szembeni tartozásból eredő követelés hitellel vagy pénzügyi lízinggel történő kiváltására, ha
 
 a) ezáltal a hiteltartozás összege nem növekszik a kiváltott hitel, illetve hitelek együttes összegéhez viszonyítva és
 
@@ -58,7 +66,7 @@ bb) kizárólag euróhitel, euró alapú hitel, ha valamennyi eredeti hitel eur�
 
 bc) kizárólag svájci frank hitel vagy svájci frank alapú hitel, ha valamennyi eredeti hitel svájci frank hitel vagy svájci frank alapú hitel.
 
-(5)[^7] E rendelet
+(5)[^8] E rendelet
 
 a) 3. és 4. §-át a hitelszerződés kizárólag az adós személyének megváltoztatására irányuló módosításakor,
 
@@ -79,5 +87,6 @@ b) a hiteltartozás összege nem növekszik, ha az új hitel folyósításkori �
 [^3]: Az 1. § (3) bekezdés j) pontját a 8/2016. (IV. 6.) MNB rendelet 1. § (3) bekezdése iktatta be.
 [^4]: Az 1. § (3) bekezdés k) pontját a 8/2016. (IV. 6.) MNB rendelet 1. § (3) bekezdése iktatta be.
 [^5]: Az 1. § (3) bekezdés l) pontját a 8/2016. (IV. 6.) MNB rendelet 1. § (3) bekezdése iktatta be.
-[^6]: Az 1. § (4) bekezdés nyitó szövegrésze a 8/2016. (IV. 6.) MNB rendelet 3. § a) pontja szerint módosított szöveg.
-[^7]: Az 1. § (5) bekezdése a 8/2016. (IV. 6.) MNB rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (3) bekezdés m) pontját a 29/2018. (VIII. 21.) MNB rendelet 1. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (4) bekezdés nyitó szövegrésze a 8/2016. (IV. 6.) MNB rendelet 3. § a) pontja szerint módosított szöveg.
+[^8]: Az 1. § (5) bekezdése a 8/2016. (IV. 6.) MNB rendelet 1. § (4) bekezdésével megállapított szöveg.
