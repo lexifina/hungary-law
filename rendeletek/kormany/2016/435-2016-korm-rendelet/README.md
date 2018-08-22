@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-435-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-01-01 | 2016-435-20-22.1 | 435/2016. (XII. 16.) Korm. rendelet |
+| 2018-08-22 | 2016-435-20-22.2 | 131/2018. (VII. 23.) Korm. rendelet |
