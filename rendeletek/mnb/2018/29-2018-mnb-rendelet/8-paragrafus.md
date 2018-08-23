@@ -1,4 +1,4 @@
-## 7. §[^15]
+## 7. §[^18]
 
 8. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -6,4 +6,4 @@
 
 (3) A 6. § g) és h) pontja 2019. július 1-jén lép hatályba.
 
-[^15]: A 7. § a 8. § (2) bekezdése alapján 2018. október 1-jén lép hatályba.
+[^18]: A 7. § a 8. § (2) bekezdése alapján 2018. október 1-jén lép hatályba.
