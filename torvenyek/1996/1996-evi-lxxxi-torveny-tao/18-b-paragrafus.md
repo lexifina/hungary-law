@@ -20,7 +20,9 @@ ha) a munkavállalóknak nyújtott, tőkeinstrumentumban kiegyenlített részvé
 
 hb) az e pontban foglalt adózás előtti eredményt csökkentő tételektől függetlenül, a teljesítés adóévében az MRP szervezet által teljesített juttatással kapcsolatban az adóévben vagy az azt megelőző adóévekben a (2) bekezdés d) pont db) alpontja szerint az adózás előtti eredmény növeléseként érvényesített, valamint – a teljesítés adóévében – a tőkeinstrumentumban kiegyenlített részvényalapú kifizetési ügyletekre az MRP szervezet részére átadott saját részvénytől eltérő eszközből származóan kimutatott eszköz teljesítéskor kivezetett könyv szerinti értékeként kimutatott,
 
-hc) a munkavállalók részére, valamint az MRP szervezet részére az adóévben átadott saját részvények visszavásárlási értékeként kimutatott.
+hc) a munkavállalók részére, valamint az MRP szervezet részére az adóévben átadott saját részvények visszavásárlási értékeként kimutatott,
+
+i) a tőkeinstrumentumban fennálló befektetés kivezetésekor a befektetésen összességében (a tárgyévben és az azt megelőző években) elért, az egyéb átfogó jövedelemben elszámolt és az adóalapban korábban nem érvényesített veszteség összege, amennyiben az olyan tőkeinstrumentumban történő befektetéshez kapcsolódott, amelynek a valós értékében történő változást az adózó az IFRS 9 Pénzügyi instrumentumok standard szerint egyéb átfogó jövedelemként számolja el, azzal hogy e rendelkezés a bejelentett részesedésnek minősülő részesedés vonatkozásában nem alkalmazható.
 
 (2) A 18/A. § (1) bekezdése szerinti adózó adózás előtti eredményét növeli:
 
@@ -42,4 +44,6 @@ e) a kamatozó részvényre adóévi kamatráfordításként elszámolt összeg,
 
 f) az (1) bekezdés g) pontja alapján a korábbi adóév(ek)ben az adózás előtti eredményt csökkentő tételként figyelembe vett összegből az adózás előtti eredmény terhére elszámolt adóévi összeg,
 
-g) a kibocsátónál az összetett pénzügyi instrumentum kötelezettség komponenséhez kapcsolódóan, az adózás előtti eredmény terhére az instrumentum névleges kamatát meghaladóan elszámolt adóévi összeg.
+g) a kibocsátónál az összetett pénzügyi instrumentum kötelezettség komponenséhez kapcsolódóan, az adózás előtti eredmény terhére az instrumentum névleges kamatát meghaladóan elszámolt adóévi összeg,
+
+h) a tőkeinstrumentumban fennálló befektetés kivezetésekor a befektetésen összességében (a tárgyévben és az azt megelőző években) elért, az egyéb átfogó jövedelemben elszámolt és az adóalapban korábban el nem számolt nyereség összege, amennyiben az olyan tőkeinstrumentumban történő befektetéshez kapcsolódott, amelynek a valós értékében történő változást az adózó az IFRS 9 Pénzügyi instrumentumok standard szerint az egyéb átfogó jövedelemként számolja el, azzal, hogy e rendelkezés a bejelentett részesedésnek minősülő részesedés értékesítése, nem pénzbeli hozzájárulásként történő kivezetése vonatkozásában nem alkalmazható, feltéve, hogy a bejelentett részesedést a kivezetést megelőzően legalább egy évig folyamatosan eszközei között tartotta nyilván.
