@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2002-43-00-00
 | 2018-01-01 | 2017. évi CLIX. törvény | 2002-43-00-00.37 |
 | 2018-07-01 | 2017. évi CLIX. törvény | 2002-43-00-00.38 |
 | 2018-07-26 | 2007. évi LXXXII. törvény | 2002-43-00-00.39 |
+| 2018-08-25 | 2018. évi XLI. törvény | 2002-43-00-00.40 |
