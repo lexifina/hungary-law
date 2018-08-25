@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-152-00-00
 | 2018-06-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-152-00-00.5 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2017-152-00-00.6 |
 | 2018-08-09 | 2018. évi XLI. törvény | 2017-152-00-00.7 |
+| 2018-08-25 | 2018. évi XLI. törvény | 2017-152-00-00.8 |

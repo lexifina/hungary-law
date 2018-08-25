@@ -12,7 +12,7 @@ d) a Vámkódex 39. cikk a) pontjában meghatározott feltételek ellenőrzésé
 
 e) jogszabályi felhatalmazás alapján az abban meghatározott nyilvántartásokból.
 
-(2) A vámhatóság megkeresésére a hitelintézet a vámérték valódiságának, a vámtartozás, valamint az egyéb terhek befizetésének ellenőrzéséhez pénzforgalmi adatokat térítésmentesen szolgáltat.
+(2) A vámhatóság megkeresésére a hitelintézet a vámérték valódiságának, a vámtartozás, az egyéb terhek, a Vámkódex 112. vagy 114. cikke szerinti kamat, a vámigazgatási bírság, valamint a vámhatósági eljárások után fizetendő díjak és költségek befizetésének ellenőrzéséhez pénzforgalmi adatokat térítésmentesen szolgáltat.
 
 (3) A vámhatóság a személyiadat- és lakcímnyilvántartás szervétől természetes személyazonosító adatokkal vagy a személyiadat- és lakcímnyilvántartás szerve által képzett kapcsolati kóddal vehet át adatokat.
 
