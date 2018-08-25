@@ -6,6 +6,8 @@
 
 (3) A rendkívüli felügyeleti vizsgálat hivatalból indul.
 
+(3a) A kérelemre indult felügyeleti vizsgálati eljárásban a Nemzeti Adatvédelmi és Információszabadság Hatóság szakhatóságként való bevonására a 6. § (2a) és (5a) bekezdését kell alkalmazni.
+
 (4) Az akkreditált szervezet az első felügyeleti vizsgálat iránti kérelmet az akkreditált státusz első megadásától számított egy éven belül, azt követően legfeljebb kétévente köteles benyújtani úgy, hogy a helyszíni szemlék között két évnél hosszabb idő nem telhet el.
 
 (5) Az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet az akkreditált státusz megadásától számított egy éven belül, azt követően legfeljebb évente nyújtja be a felügyeleti vizsgálat iránti kérelmet.

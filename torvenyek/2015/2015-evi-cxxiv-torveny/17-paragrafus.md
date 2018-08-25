@@ -3,3 +3,5 @@
 (2) Az 1. §, a 2. § (2) bekezdése, az 5. §, a 11. § (2) bekezdés a) pontja és (3) bekezdése a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 10. és 12. pontja, 4. cikk (8) bekezdése, 6. cikk (1) bekezdése, 9. cikk (2) bekezdése, 10. cikk (1) bekezdése, 11. cikk (2) bekezdése és 12. cikk (3) bekezdése végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) Ez a törvény – a végrehajtására kiadott jogszabályokkal együtt – a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében a 600/2012/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4) A 3. és 4. alcím a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) 43. cikke végrehajtásához szükséges rendelkezéseket állapít meg.

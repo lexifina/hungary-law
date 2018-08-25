@@ -2,11 +2,15 @@
 
 (2) Az értékelési szakasz során az akkreditáló szerv szakértőként minősítőkből és az akkreditálási kérelemmel érintett területen szakértelemmel rendelkező személyekből álló értékelő csoportot rendel ki.
 
+(2a) Adatvédelmi tanúsító szervezet akkreditálási eljárásában és az akkreditált státusz területének bővítési eljárásában az értékelési szakasz során az általános adatvédelmi rendelet 43. cikk (2) bekezdés a) és e) pontjában meghatározott követelményeknek való megfelelés és 43. cikk (3) bekezdése szerint meghatározott szempontok mint szakkérdések tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóságot szakhatóságként kell bevonni.
+
 (3) Az akkreditáló szerv az akkreditálási eljárás és a felügyeleti vizsgálat döntéshozatali szakaszában a nemzeti akkreditálás rendszerébe tartozó szakterületeken szakértőként az akkreditáló bizottságot rendeli ki.
 
 (4) Az értékelő csoport tagja nem lehet olyan személy, aki az akkreditáló bizottság tagja.
 
 (5) Az értékelési szakasz ügyintézési határideje száz nap.
+
+(5a) A Nemzeti Adatvédelmi és Információszabadság Hatóság szakhatósági eljárásának ügyintézési határideje ötven nap.
 
 (6) A döntéshozatali szakasz ügyintézési határideje harminc nap.
 
