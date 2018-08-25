@@ -20,7 +20,7 @@
 
 10.
 
-11.
+11. 100. § (6) bekezdésében a „gazdálkodó szervezet” szövegrész helyébe a „gazdálkodó szervezet és a jövedéki termékkel gazdasági tevékenységet folytató egyéni vállalkozó” szöveg,
 
 12.
 
