@@ -1,3 +1,17 @@
-64/C. § (1) A Hatóság a kötelező szervezeti szabályozás jóváhagyása iránti kérelmet kilencven napon belül bírálja el. A Hatóság a kötelező szervezeti szabályozás jóváhagyása iránti kérelem elbírálásakor a kötelező szervezeti szabályozást jóváhagyja, módosítását javasolja vagy a kérelmet elutasítja.
+64/C. § (1) Az adatkezelési engedélyezési eljárásban az ügyintézési határidő
 
-(2) A Hatóság az érintettek tájékoztatásának elősegítése érdekében honlapján közzéteszi a kötelező szervezeti szabályozást alkalmazó adatkezelő megnevezését.
+a) a 64/A. § (1) bekezdés a)–c) és f) pontjában meghatározott kérelmek esetén száznyolcvan nap,
+
+b) a 64/A. § (1) bekezdés d) és e) pontjában meghatározott kérelmek esetén kilencven nap.
+
+(2) A Hatóság az adatkezelési engedélyezési eljárást az általános adatvédelmi rendelet
+
+a) 60. cikk (3)–(5) bekezdésben meghatározott együttműködési eljárás és
+
+b) 63–66. cikkében meghatározott egységességi mechanizmus
+
+alkalmazásának időtartamára felfüggeszti, azzal, hogy a Hatóság a felfüggesztés időtartama alatt is elvégzi az együttműködési eljárásban és az egységességi mechanizmusban szükséges eljárási cselekményeket.
+
+(3) Az adatkezelési engedélyezési eljárásban a 64/A. § (1) bekezdés a)–c) és f) pontjában meghatározott kérelmek esetén a Hatóság a jóváhagyás, illetve az engedély megadhatósága érdekében szükség szerinti alkalommal a kérelem és az annak tárgyát képező tervezetek módosítása vagy kiegészítése vonatkozásában nyilatkozattételre hívhatja fel a kérelmezőt.
+
+(4) Az adatkezelési engedélyezési eljárásban nincs helye sommás eljárásnak.

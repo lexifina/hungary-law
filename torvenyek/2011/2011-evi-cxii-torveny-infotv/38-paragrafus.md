@@ -26,6 +26,8 @@ e) a más által indított perbe beavatkozhat;
 
 f)
 
+g) kérelemre adatkezelési engedélyezési eljárást folytat;
+
 h) ellátja az Európai Unió kötelező jogi aktusában, így különösen az általános adatvédelmi rendeletben és a 2016/680 (EU) irányelvben a tagállami felügyeleti hatóság részére megállapított, továbbá a törvényben meghatározott egyéb feladatokat.
 
 (4) A Hatóság a (2) és (2a) bekezdés szerinti feladatkörében különösen

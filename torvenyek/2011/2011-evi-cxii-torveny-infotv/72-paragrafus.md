@@ -22,4 +22,4 @@ b) az e-közigazgatásért felelős miniszter, hogy rendeletben állapítsa meg 
 
 c)
 
-(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben a kötelező szervezeti szabályozás jóváhagyásáért, az adatvédelmi nyilvántartásba vételért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben az adatkezelési engedélyezési eljárás lefolytatásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.
