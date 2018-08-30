@@ -50,7 +50,7 @@
 
 91–93.[^251]
 
-94.[^252] az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének, 8. cikk (1) bekezdésének és II. mellékletének, továbbá az azt módosító 2010/115/EU bizottsági határozatnak, a 2011/37/EU bizottsági irányelvnek, a 2013/28/EU bizottsági irányelvnek, valamint a 2016/774 bizottsági irányelvnek;
+94.[^252] az elhasználódott járművekről szóló, 2000. szeptember 18-i 2000/53/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének, 8. cikk (1) bekezdésének és II. mellékletének, továbbá az azt módosító 2010/115/EU bizottsági határozatnak, a 2011/37/EU bizottsági irányelvnek, a 2013/28/EU bizottsági irányelvnek, a 2016/774 bizottsági irányelvnek, valamint az (EU) 2017/2096 irányelvnek;
 
 95.[^253]
 
@@ -94,7 +94,7 @@ való megfelelést szolgálja.
 [^249]: A 120. § 88. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
 [^250]: A 120. § 90. pontját a 27/2016. (VII. 22.) NFM rendelet 6. § b) pontja hatályon kívül helyezte.
 [^251]: A 120. § 91–93. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
-[^252]: A 120. § 94. pontja a 27/2016. (VII. 22.) NFM rendelet 2. §-ával megállapított szöveg.
+[^252]: A 120. § 94. pontja a 11/2018. (VIII. 29.) ITM rendelet 1. §-ával megállapított szöveg.
 [^253]: A 120. § 95. pontját a 72/2013. (XII. 2.) NFM rendelet 15. § b) pontja hatályon kívül helyezte.
 [^254]: A 120. § 103. pontja a 31/2014. (VI. 27.) NFM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^255]: A 120. § 105. pontját a 72/2013. (XII. 2.) NFM rendelet 11. § (3) bekezdése iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 13. §-ával megállapított szöveg.

@@ -26,4 +26,6 @@
 
 A 16/A. § (1) bekezdésében meghatározott tilalom alól mentesülő egyes anyagok és alkatrészek
 
-[^295]: A 7/A. számú mellékletet a 35/2004. (III. 30.) GKM rendelet 11. § c) pontja iktatta be, szövege a 27/2016. (VII. 22.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
+1. Az ólom, a hat vegyértékű króm és a higany esetében a homogén anyagban legfeljebb 0,1 tömegszázalékos maximális koncentráció, a kadmium esetében pedig a homogén anyagban legfeljebb 0,01 tömegszázalékos maximális koncentráció megengedett.
+
+[^295]: A 7/A. számú mellékletet a 35/2004. (III. 30.) GKM rendelet 11. § c) pontja iktatta be, szövege a 11/2018. (VIII. 29.) ITM rendelet 2. §-ával megállapított szöveg.
