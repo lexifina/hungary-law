@@ -1,3 +1,0 @@
-3. § (1) A vezető testület tagja feladatai ellátása során a jogszabályoknak, a költségvetési szerv működésére vonatkozó szabályoknak és az irányító szervtől kapott utasításnak megfelelően jár el. A vezető testület tagja az irányító szervtől írásban kapott utasítással való egyet nem értését és annak indokát írásban köteles eljuttatni az irányító szervhez, mely esetben mentesül az Áht. 89. § (4) bekezdésében foglalt felelősség alól.
-
-(2) A vezető testületi tagságnak az Eütv.156/I. § (8) bekezdés a)–d) pontjában és (9) bekezdésében foglaltak alapján történő megszűnésekor a tag a folyamatban lévő ügyeit és a birtokában lévő írásos dokumentumokat köteles a vezető testület kijelölt tagjának átadni.
