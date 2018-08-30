@@ -1,0 +1,18 @@
+# A Kormány 1401/2018. (VIII. 30.) Korm. határozata
+
+Magyar Közlöny 2018. évi 131. szám, 2018. augusztus 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/48c9735bfdc03def0addb27be8dcb8f237c9607f/dokumentumok/6dd48120de019abd26954f44536a876bd55432bb/letoltes)
+
+---
+
+A Kormány 1401/2018. (VIII. 30.) Korm. határozata
+a Nyíregyháza megyei jogú város külterületén fekvő földrészletek beruházási célterületté nyilvánításáról
+A Kormány a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében foglaltakra
+figyelemmel beruházási célterületté nyilvánítja a Nyíregyháza megyei jogú város közigazgatási területén fekvő,
+az ingatlan-nyilvántartás szerint Nyíregyháza külterület 0696/49, 0696/50, 0696/51, 0696/52, 0696/53, 0696/54,
+0696/56, 0696/57, 0696/58, 0696/59, 0696/60, 0696/61, 0696/62, 0696/63, 0696/64, 0696/84, 0696/85, 0696/86,
+0696/87, 0696/88, 0696/89, 0696/90, 0696/91, 0696/92, 0696/93, 0696/94, 0696/95, 0696/96, 0696/97, 0696/98,
+0696/99, 0696/100, 0696/101, 0696/102, 0696/103, 0696/104, 0696/185, 0696/186, 0696/187, 0696/188, 0696/189
+helyrajzi számú földrészleteket, valamint az ezen földrészletekből a telekalakítási eljárások végleges befejezését
+követően kialakított földrészleteket.
+ Orbán Viktor s. k.,
+ miniszterelnök

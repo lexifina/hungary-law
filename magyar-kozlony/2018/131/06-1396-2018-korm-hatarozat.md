@@ -1,0 +1,74 @@
+# A Kormány 1396/2018. (VIII. 30.) Korm. határozata
+
+Magyar Közlöny 2018. évi 131. szám, 2018. augusztus 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/48c9735bfdc03def0addb27be8dcb8f237c9607f/dokumentumok/6dd48120de019abd26954f44536a876bd55432bb/letoltes)
+
+---
+
+A Kormány 1396/2018. (VIII. 30.) Korm. határozata
+az M1 autópálya további helyreállításához és biztonságos üzemeltetéséhez szükséges feltételek biztosításáról
+A Kormány
+
+1. egyetért az M1 autópálya Budapest (M0) és Tatabánya (Újváros) közötti szakaszának ideiglenes helyreállításával,
+valamint a teljes átépítéséig tartó időszakban jelentkező üzemeltetési feladatok emelt szintű ellátásával;
+
+2. az 1. pontban meghatározott cél megvalósításához szükséges költségek finanszírozása érdekében felhívja
+a pénzügyminisztert, valamint az innovációért és technológiáért felelős minisztert, hogy – a rendelkezésre álló
+forrásokon felül – gondoskodjanak mindösszesen 8 056 800 000 forint forrás biztosításáról a 2018. és 2019. években
+a XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési
+ágazati programok alcím, 30. Közúthálózat felújítása jogcímcsoport javára, az alábbiak szerint:
+a)
+a 2018. évben 2 000 000 000 forint az államháztartásról szóló 2011. évi CXCV. törvény végrehajtásáról szóló
+368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 152. § (2) bekezdése szerint – az Innovációs és
+Technológiai Minisztérium által – teljesített befizetés terhére, az Ávr. 153. §-ában foglaltak szerint,
+b)
+a 2019. évben 6 056 800 000 forint;
+Felelős:
+pénzügyminiszter
+innovációért és technológiáért felelős miniszter
+Határidő:
+az a) alpont tekintetében az Innovációs és Technológiai Minisztérium általi befizetést követően azonnal
+a b) alpont tekintetében a felmerülés ütemében
+
+3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított
+jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet
+XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati
+programok alcím, 30. Közúthálózat felújítása jogcímcsoport kiadási előirányzata terhére a 2019. évre vonatkozóan
+vállalható kötelezettségek mértékét legfeljebb 25 965 919 283 forintban állapítja meg;
+
+4. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért
+felelős miniszter az e határozatban foglaltak végrehajtása érdekében összesen legfeljebb 24 800 000 000 forint
+összegben kötelezettségeket vállaljon;
+
+5. egyetért azzal, hogy az innovációért és technológiáért felelős miniszter az 1. pont szerinti ideiglenes helyreállítás
+megvalósítása érdekében támogatási szerződést kössön a Magyar Közút Nonprofit Zárkörűen Működő
+Részvénytársasággal;
+
+6. felhívja az innovációért és technológiáért felelős minisztert, hogy – a Magyar Közút Nonprofit Zárkörűen Működő
+Részvénytársaság útján – gondoskodjon az 1. pont szerinti ideiglenes helyreállítás megvalósításához szükséges
+lépések megtételéről;
+Felelős:
+innovációért és technológiáért felelős miniszter
+Határidő:
+azonnal
+
+7. felhívja a belügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával teremtse meg
+a lehetőségét a közútkezelő által üzemben tartott, a közúti balesetek gyorsabb megközelítését szolgáló járművek
+megkülönböztető jelzéssel történő ellátására a gyorsforgalmi úthálózaton történő biztonságos munkavégzés
+megkönnyítése érdekében;
+Felelős:
+belügyminiszter
+innovációért és technológiáért felelős miniszter
+Határidő:
+2018. szeptember 30.
+
+8. felhívja az innovációért és technológiáért felelős minisztert, hogy vizsgálja meg az M1 autópályát elkerülő forgalom
+által használt útvonalakon szükséges forgalombiztonsági beavatkozások megvalósításához szükséges feladatokat,
+és az ehhez szükséges pénzügyi keretek biztosításáról készítsen előterjesztést.
+Felelős:
+innovációért és technológiáért felelős miniszter
+Határidő:
+2018. december 31.
+
+Orbán Viktor s. k.,
+
+miniszterelnök
