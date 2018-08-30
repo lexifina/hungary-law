@@ -10,19 +10,7 @@ nemzeti fejlesztési miniszter
 
 Határidő: felmerülés ütemében
 
-2. felhívja a nemzeti fejlesztési minisztert, hogy az MNV Zrt. útján tegye meg a szükséges intézkedéseket
-
-a) a 2975/1 és 2975/2 helyrajzi számon nyilvántartott, Szeged I. kerület, Kálvin tér 6. szám alatt fekvő ingatlan felújítása és
-
-b) a felújítást követően annak a Szegedi Szerb Oktatási Központ elhelyezése céljából, az állami vagyonra vonatkozó jogszabályok szerint történő hasznosítása érdekében;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: az a) alpont tekintetében 2017. május 31.
-
-a b) alpont tekintetében az ingatlan felújítását követően azonnal
+2.[^1]
 
 3. felhívja a Miniszterelnökséget vezető minisztert, hogy – az emberi erőforrások minisztere, a nemzetgazdasági miniszter, valamint a nemzeti fejlesztési miniszter bevonásával – vizsgálja meg a 2014–2020-as programozási időszak európai uniós forrásainak lehetséges bevonását a Budai Szerb Ortodox Egyházmegye egyéb fejlesztési céljainak megvalósítása érdekében.
 
@@ -35,3 +23,5 @@ nemzetgazdasági miniszter
 emberi erőforrások minisztere
 
 Határidő: azonnal
+
+[^1]: A 2. pontot az 1398/2018. (VIII. 30.) Korm. határozat 4. pontja visszavonta.
