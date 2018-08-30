@@ -1,0 +1,9 @@
+# 1396/2018. (VIII. 30.) Korm. határozat
+
+az M1 autópálya további helyreállításához és biztonságos üzemeltetéséhez szükséges feltételek biztosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1396-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-08-30 | 2018-1396-30-22.1 | 1396/2018. (VIII. 30.) Korm. határozat |
