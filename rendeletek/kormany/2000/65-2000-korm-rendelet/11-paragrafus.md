@@ -1,5 +1,3 @@
-## kell érteni.
-
 ## Záró rendelkezések
 
 11. § (1) Ez rendelet 2000. június 15-én lép hatályba.
