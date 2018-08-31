@@ -4,7 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. az Ávr. 152. § (3) bekezdésében biztosított jogkörében eljárva engedélyezi a XI. Miniszterelnökség fejezetben keletkezett 1 676 159 342 forint, a XII. Agrárminisztérium fejezetben keletkezett 5 191 767 980 forint, a XV. Pénzügyminisztérium fejezetben keletkezett 11 481 281 149 forint és a XVII. Innovációs és Technológiai Minisztérium fejezetben keletkezett 8 996 955 715 forint összegű, 2017. évi kötelezettségvállalással terhelt költségvetési maradvány 2018. június 30-át követő, változatlan célú felhasználását;
+## 2.[^1] az Ávr. 152. § (3) bekezdésében biztosított jogkörében eljárva engedélyezi a XI. Miniszterelnökség fejezetben keletkezett 1 676 159 342 forint, a XII. Agrárminisztérium fejezetben keletkezett 5 191 767 980 forint, a XV. Pénzügyminisztérium fejezetben keletkezett 11 481 281 149 forint és a XVII. Innovációs és Technológiai Minisztérium fejezetben keletkezett 7 550 992 565 forint összegű, 2017. évi kötelezettségvállalással terhelt költségvetési maradvány 2018. június 30-át követő, változatlan célú felhasználását;
 
 ## 3. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva Magyarország 2018. évi központi költségvetésének címrendjét – e határozat közzétételét követő 5. munkanapi fordulónappal – a 2. melléklet szerint módosítja;
 
@@ -39,3 +39,5 @@
 ## Határidő: azonnal
 
 1. melléklet az 1387/2018. (VIII. 13.) Korm. határozathoz
+
+[^1]: A 2. pont az 1403/2018. (VIII. 31.) Korm. határozat 18. pontja szerint módosított szöveg.
