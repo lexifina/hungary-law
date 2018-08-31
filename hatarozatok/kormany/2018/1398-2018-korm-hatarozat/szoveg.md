@@ -20,4 +20,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: azonnal
 
-4. visszavonja a Budai Szerb Ortodox Egyházmegye és a magyarországi szerb nemzetiség fejlesztési céljainak megvalósításával kapcsolatos intézkedésekről szóló 1864/2016. (XII. 28.) Korm. határozat 2. pontját.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
