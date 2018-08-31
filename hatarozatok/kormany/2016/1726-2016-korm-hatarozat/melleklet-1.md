@@ -4,7 +4,7 @@
 
 ## Határidő: azonnal
 
-## 2. az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva 2 418 900 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, a 2. melléklet szerint;
+## 2.[^1] az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva 2 418 900 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, a 2. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -24,7 +24,7 @@
 
 ## emberi erőforrások minisztere
 
-## Határidő: 2017. június 30.
+## Határidő: 2017. június 30., a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport javára átcsoportosított 90,0 millió forint tekintetében 2019. mácius 31.
 
 ## 3. a Kvtv. 19. § (7) bekezdésében biztosított jogkörében eljárva 1 057 000 ezer forint egyszeri átcsoportosítását rendeli el a 3. melléklet szerint;
 
@@ -47,3 +47,5 @@
 ## Határidő: felmerülés ütemében
 
 1. melléklet az 1726/2016. (XII. 10.) Korm. határozathoz
+
+[^1]: A 2. pont az 1403/2018. (VIII. 31.) Korm. határozat 5. pontja szerint módosított szöveg.
