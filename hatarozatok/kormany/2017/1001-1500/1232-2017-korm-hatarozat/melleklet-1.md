@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2018. június 30.
+## Határidő: 2018. június 30., az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára átcsoportosított 535 230 781 forint tekintetében 2019. június 30.[^1]
 
 1. melléklet az 1232/2017. (IV. 27.) Korm. határozathoz
 
@@ -95,3 +95,5 @@ Költségvetési év: 2017.
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A határozat az 1403/2018. (VIII. 31.) Korm. határozat 6. pontja szerint módosított szöveg.
