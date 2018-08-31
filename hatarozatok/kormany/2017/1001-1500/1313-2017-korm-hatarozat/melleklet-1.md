@@ -1,6 +1,6 @@
 ## 1. A Kormány
 
-## a) a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 19. § (4) bekezdésében és az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 7 100 000 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 2. Országvédelmi Alap alcím terhére, az 1. melléklet szerint;
+## a)[^1] a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 19. § (4) bekezdésében és az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 7 100 000 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 2. Országvédelmi Alap alcím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -12,13 +12,13 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, belügyminiszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere
 
-## Határidő: 2018. június 30.
+## Határidő: 2018. június 30., az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára biztosított 364,0 millió forint tekintetében 2019. június 30.
 
 ## b) egyetért azzal, hogy a Tihanyi Alapítvány egyedi támogatása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1184/2016. (IV. 11.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 8. Tihanyi Alapítvány támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 279,1 millió forintból 4,6 millió forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra;
 
 ## c) egyetért azzal, hogy az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1245/2016. (V. 18.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 34. 2019. évi Maccabi Európa Játékok (EMG 2019.) Budapesten támogatása jogcímcsoport K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 40 000 ezer forintból 39 800 ezer forint a K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 2–9.[^1]
+## 2–9.[^2]
 
 1. melléklet az 1313/2017. (VI. 8.) Korm. határozathoz
 
@@ -190,4 +190,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja az 1403/2018. (VIII. 31.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^2]: A 2–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
