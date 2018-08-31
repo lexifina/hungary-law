@@ -42,7 +42,7 @@
 
 ## Felelős: nemzeti fejlesztési miniszter, emberi erőforrások minisztere
 
-## Határidő: 2017. június 30., a Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítás intézményei alcím javára biztosított 142 414 ezer forint tekintetében 2018. június 30.
+## Határidő: 2017. június 30., a Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítás intézményei alcím javára biztosított 142 414 ezer forint tekintetében 2019. június 30.
 
 ## c) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 153. §-ában biztosított jogkörében eljárva engedélyezi a XIX. Uniós fejlesztések fejezetnél 851 816 ezer forint meghiúsulás miatt kötelezettségvállalással nem terheltté vált maradvány visszahagyását;
 
@@ -70,5 +70,5 @@
 
 1. melléklet az 1621/2016. (XI. 11.) Korm. határozathoz
 
-[^1]: Az 1. pont b) alpontja az 1601/2017. (VIII. 31.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1601/2017. (VIII. 31.) Korm. határozat 8. pontja, az 1403/2018. (VIII. 31.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^2]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
