@@ -1,4 +1,4 @@
-## a) ellátja a Nemzeti Emlékhely és Kegyeleti Bizottság (a továbbiakban: Bizottság) működésének operatív és adminisztratív feladatait, ennek keretében:
+## „a) ellátja a Nemzeti Emlékhely és Kegyeleti Bizottság (a továbbiakban: Bizottság) működésének operatív és adminisztratív feladatait, ennek keretében:
 
 ## aa) előkészíti a Bizottság üléseit, végrehajtja határozatait,
 
@@ -58,7 +58,7 @@
 
 ## (3)[^6] Az Intézet főigazgatója feladatkörében meghatározott célból, feladatkörében eljárva az állami szervektől, szervezetektől adatokat, információkat kérhet, a kapcsolódó dokumentumokba – a vonatkozó jogszabályi rendelkezéseknek megfelelően – betekinthet, azokról másolatot kérhet.
 
-## 3. Záró rendelkezések
+## 3. Záró rendelkezések”
 
 5. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
