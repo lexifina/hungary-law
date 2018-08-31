@@ -1,4 +1,4 @@
-## a) a történelmi nemzet fennmaradása és gyarapodása érdekében a magyarság kiemelkedő szellemi, kulturális és tudományos hagyományainak, eredményeinek figyelembe vételével kutatási, felmérési és elemzési feladatokat végez, ennek keretében:
+## „a) a történelmi nemzet fennmaradása és gyarapodása érdekében a magyarság kiemelkedő szellemi, kulturális és tudományos hagyományainak, eredményeinek figyelembe vételével kutatási, felmérési és elemzési feladatokat végez, ennek keretében:
 
 ## aa) nemzeti fenntartható fejlődéssel kapcsolatos,
 
@@ -28,7 +28,7 @@
 
 ## (3) A Nemzetstratégiai Kutatóintézet elnöke feladatkörében meghatározott célból, feladatkörében eljárva az állami szervektől, szervezetektől adatokat, információkat, elemzéseket kérhet, a kapcsolódó dokumentumokba – a vonatkozó jogszabályi rendelkezéseknek megfelelően – betekinthet, azokról másolatot kérhet.
 
-## 3. Záró rendelkezések
+## 3. Záró rendelkezések”
 
 5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
