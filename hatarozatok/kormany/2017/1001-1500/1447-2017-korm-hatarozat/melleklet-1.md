@@ -20,7 +20,7 @@
 
 ## Felelős: belügyminiszter, Miniszterelnökséget vezető miniszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, miniszterelnök kabinetfőnöke, nemzetpolitikáért felelős miniszterelnök-helyettes, a Magyar Tudományos Akadémia elnökének felkérésével
 
-## Határidő: 2018. június 30.; az MTA kutatóközpontok, kutatóintézetek cím javára átcsoportosított 55 000 000 forint tekintetében 2018. december 31.; a Külképviseletek igazgatása cím javára átcsoportosított 150 000 000 forint, a Nemzetpolitikai célú támogatások cím javára átcsoportosított 1 253 793 000 forint, a Kodály-év jogcímcsoport javára átcsoportosított 1 018 510 000 forint, az Országos Széchényi Könyvtár részére biztosított 250 000 000 forint, az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára átcsoportosított 3 087 151 050 forintból a Magyar Bencés Kongregáció Szent Mór Perjelség beruházására biztosított 500 000 000 forint, a Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása előirányzat javára átcsoportosított 398 000 000 forint tekintetében 2019. június 30.
+## Határidő: 2018. június 30.; az MTA kutatóközpontok, kutatóintézetek cím javára átcsoportosított 55 000 000 forint tekintetében 2018. december 31.; a Külképviseletek igazgatása cím javára átcsoportosított 150 000 000 forint, a Nemzetpolitikai célú támogatások cím javára átcsoportosított 1 253 793 000 forint, a Kodály-év jogcímcsoport javára átcsoportosított 1 018 510 000 forint, az Országos Széchényi Könyvtár részére biztosított 250 000 000 forint, az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára átcsoportosított 3 087 151 050 forint, a Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása előirányzat javára átcsoportosított 398 000 000 forint tekintetében 2019. június 30.
 
 ## c) a Kvtv. 17. §-a és 4. melléklet 2. pontja alapján jóváhagyja a Kvtv. 1. melléklet, XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 19. Szociális célú humánszolgáltatások alcím, 8. Szociális humánszolgáltatók részére biztosított szociális- és gyermekvédelmi ágazati pótlék és egyéb ágazati bérrendezéssel összefüggő támogatások jogcímcsoport legfeljebb 6255 millió forint összeggel történő túllépését.
 
@@ -438,7 +438,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont b) alpontja az 1347/2018. (VII. 26.) Korm. határozat 24. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1347/2018. (VII. 26.) Korm. határozat 24. pontja, az 1403/2018. (VIII. 31.) Korm. határozat 8. pontja szerint módosított szöveg.
 [^2]: A 2. pont az 1347/2018. (VII. 26.) Korm. határozat 25. pontja szerint módosított szöveg.
 [^3]: A 3. pont a 2029/2017. (XII. 27.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^4]: A 4–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
