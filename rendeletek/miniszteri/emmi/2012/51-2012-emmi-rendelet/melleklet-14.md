@@ -1,4 +1,4 @@
-14. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^62]
+14. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^63]
 
 Kerettanterv a szakgimnáziumok 9-12. évfolyama számára
 
@@ -122,7 +122,7 @@ A tantárgyi struktúrát a kerettanterv egységesen határozza meg. Az eltérő
 
 I. A szakgimnáziumok tantárgyi struktúrája és óraszámai
 
-8K29112N_0
+8K29404M_0
 
 |  |  | A | B | C | D | E | F | G | H |
 
@@ -166,7 +166,7 @@ I. A szakgimnáziumok tantárgyi struktúrája és óraszámai
 
 * A szakgimmnáziumok helyi tanterveibe beépítendő, az egyes ágazatokhoz kapcsolódó természettudományos tantárgyak című táblázat szerint
 
-** Érettségi tantárgy, Idegen nyelv, Természettudományos tantárgy, Informatika, Szakmai tantárgy vagy Katonai alapismeretek
+** Érettségi tantárgy, Idegen nyelv, Természettudományos tantárgy, Informatika, Szakmai tantárgy vagy Honvédelmi alapismeretek
 
 II. A szakgimnáziumok helyi tanterveibe beépítendő, az egyes ágazatokhoz kapcsolódó természettudományos tantárgyak
 
@@ -190,7 +190,7 @@ II. A szakgimnáziumok helyi tanterveibe beépítendő, az egyes ágazatokhoz ka
 
 III. Két tanítási nyelvű szakgimnáziumi képzés óraterve
 
-8K29112N_2
+8K29404M_2
 
 |  |  | A | B | C | D | E | F | G | H |
 
@@ -226,11 +226,11 @@ III. Két tanítási nyelvű szakgimnáziumi képzés óraterve
 
 |  | 16. | Éves összes óraszám | 1260 | 1296 | 1260 | 1085 | 4901 | 1085 | 1085 |
 
-* Érettségi tantárgy, célnyelv, Természettudományos tantárgy, Informatika, Szakmai tantárgy vagy Katonai alapismeretek tantárgy
+* Érettségi tantárgy, célnyelv, Természettudományos tantárgy, Informatika, Szakmai tantárgy vagy Honvédelmi alapismeretek tantárgy
 
 IV. Nyelvi előkészítő évfolyam óraszámai a szakgimnáziumban
 
-8K29112N_3
+8K29404M_3
 
 |  |  | A | B |
 
@@ -638,4 +638,4 @@ Irodalom
 
 | Kulcsfogalmak/ fogalmak | Felvilágosodás, klasszicizmus, szentimentalizmus, rokokó, valóság és fikció, elbeszélői nézőpont, kalandregény, robinzonád, fejlődésregény, énregény, levélregény, tézisregény, ellenutópia, szatíra (szatirikus hangnem). |
 
-[^62]: A 14. mellékletet a 22/2016. (VIII. 25.) EMMI rendelet 5. § (1) bekezdése iktatta be, szövege a 7/2017. (V. 5.) EMMI rendelet 2. § e) pontja, a 26/2018. (VIII. 7.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^63]: A 14. mellékletet a 22/2016. (VIII. 25.) EMMI rendelet 5. § (1) bekezdése iktatta be, szövege a 7/2017. (V. 5.) EMMI rendelet 2. § e) pontja, a 26/2018. (VIII. 7.) EMMI rendelet 2. §-a, a 30/2018. (VIII. 30.) EMMI rendelet 3. §-a szerint módosított szöveg.
