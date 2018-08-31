@@ -1,46 +1,39 @@
 ## II. AZ ALAPKEZELŐ
 
-8. § (1)[^9] Az Alapkezelő a vonatkozó jogszabályokban és az e rendeletben meghatározottak szerint felelős az Alap tervezési, kötelezettségvállalási, bevétel-előírási, szerződéskötési, utalványozási, ellenőrzési, államháztartási információszolgáltatási, beszámolási feladatainak ellátásáért, és az Alap működtetési és pályázat elbíráló feladatainak elvégzéséért. Az Alapkezelő az államtitkár felkérésére közreműködik a feladatkörébe tartozó nemzetpolitikai támogatási stratégia kialakításában.
+8. §[^9] (1) Az Alapkezelő felelős az Alap költségvetésének megtervezéséért, a költségvetés végrehajtásáért és a költségvetés végrehajtásáról történő beszámolás teljesítéséért, továbbá az Alapból nyújtott támogatásokkal kapcsolatos pályázatok kezeléséért és más támogatáskezelési feladatok ellátásáért. Az Alapkezelő ennek keretében
 
-(2)[^10] Az Alapkezelő Alappal kapcsolatos feladatellátásához szükséges forrásait az Alap adott költségvetési évben teljesülő bevételének terhére az (5) bekezdésben foglaltak szerint kell biztosítani.
+1. biztosítja a Kollégium működési feltételeit,
 
-(3)[^11] Az Alapkezelő ügyvezetői feladatait a vezérigazgató látja el. A vezérigazgatót a Bizottság javaslatára a nemzetpolitikáért felelős miniszter határozatlan időre nevezi ki. Az Alapkezelő munkatársai felett a munkáltatói jogokat a vezérigazgató gyakorolja.
+2. előkészíti és végrehajtja a Bizottság döntéseit,
 
-(4)[^12] Az Alapkezelő feladata
+3. biztosítja az Alap kezeléséhez szükséges személyi és tárgyi feltételeket, az alapkezelésre átvett pénzeszközök elkülönített kezelését, beszámol az alapkezelés tárgyidőszakban felmerült költségeiről,
 
-a) az Alap pénzeszközeinek kezelése,
+4. megtervezi és nyilvántartja az Alap előirányzatait, kezdeményezi az előirányzatok módosítását,
 
-b) a Kollégium működési feltételeinek biztosítása,
+5. működteti a pályázati rendszert, ideértve a nem pályázati úton nyújtott támogatások lebonyolítását is,
 
-c) a Bizottság döntéseinek előkészítése és végrehajtása,
+6. előkészíti és megköti a pályázókkal és az Alapból nyújtott támogatás más kedvezményezettjével a támogatási szerződéseket, illetve előkészíti és kiadja a támogatói okiratokat, és azokról nyilvántartást vezet,
 
-d) a pályázati rendszer működtetése, ideértve a nem pályázati úton nyújtott támogatások lebonyolítását is,
+7. kifizeti a támogatásokat, nyilvántartásba veszi az azokkal összefüggő elszámolási kötelezettségeket,
 
-e) a pályázókkal, kérelmezőkkel való szerződéskötés,
+8. ellenőrzi a támogatási szerződésekben, támogatói okiratokban foglalt kötelezettségek teljesítését,
 
-f) a támogatások pénzügyi utalása,
+9. ellenőrzi a kedvezményezettek által benyújtott beszámolókat, az elfogadott beszámoló alapján kiállítja a teljesítési igazolásokat, nyilvántartásba veszi és kezeli a felmerült követeléseket,
 
-g) a támogatott pályázatok, kérelmek pénzügyi elszámoltatása és szakmai beszámoltatása,
+10. teljesíti az az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben (a továbbiakban: Ávr.) meghatározott adatszolgáltatási kötelezettségeket,
 
-h) a pénzügyi és teljesítmény-ellenőrzések szervezése és lebonyolítása,
+11. összeállítja az Alap éves költségvetési beszámolóját, valamint a zárszámadáshoz kapcsolódó adatszolgáltatást,
 
-i) az Alap beszámolójának és költségvetésének közzététele,
+12. biztosítja a jogszabályban az Alap működésével összefüggésben meghatározott nyilvánosságot, ideértve az Alap honlapjának működtetését is,
 
-j) a vonatkozó jogszabályokban előírt nyilvánosság biztosítása,
+13. lebonyolítja és összehangolja a támogatásközvetítési feladatokat a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok tekintetében,
 
-k) az Alap honlapjának működtetése, továbbá
+14. ellátja mindazokat a feladatokat, amelyeket jogszabály az Alapkezelő számára előír.
 
-l) a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítása és a támogatásközvetítési feladatok összehangolása,
+(2) Az Alapkezelő az államtitkár felkérésére és iránymutatása szerint közreműködik a nemzetpolitikai támogatási stratégia kialakításában.
 
-m) mindazoknak a kötelezettségeknek az ellátása, amelyeket jogszabály az Alapkezelő számára előír,
+(3) A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény (a továbbiakban: Bgatv.) 4. § (6) bekezdése szerinti alapkezelői működési kiadások forrásait – az Alapnál jelentkező közvetlen bankköltség, illeték és árfolyamveszteségből származó kiadások forrásai kivételével – az Alapkezelő részére finanszírozási terv alapján kell átutalni. Az Alapkezelő az ekként átvett pénzeszközök felhasználásáról az éves beszámolója összeállítását követő 30 napon belül elszámolást terjeszt elő a Bizottság részére.
 
-n)[^13]
+(4) A Bgatv. 9/C. §-a szerinti, jogszabályban meghatározott egyes feladatai ellátásával összefüggő működési kiadásaihoz szükséges forrásokat az Alapkezelő részére a fejezetet irányító szervvel kötött kezelő szervi megállapodás alapján kell biztosítani. A kezelő szervi megállapodásban rögzíteni kell a felek közötti együttműködés rendjét, az Alapkezelő által ellátott feladat végzésével járó valamennyi működési költség finanszírozását, valamint az elszámolással kapcsolatos szabályokat.
 
-(5)[^14] Az Alap működtetési kiadásainak forrását – az Alapnál jelentkező közvetlen bankköltség és árfolyamveszteségből származó kiadások forrásai kivételével – az Alapkezelő részére finanszírozási terv alapján át kell utalni.
-
-[^9]: A 8. § (1) bekezdése a 117/2011. (VII. 7.) Korm. rendelet 3. §-ával megállapított, a 359/2014. (XII. 29.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^10]: A 8. § (2) bekezdése a 264/2017. (IX. 11.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^11]: A 8. § (3) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 1. §-ával megállapított és a 201/2011. (X. 7.) Korm. rendelet 6. § (5) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 532. §-a szerint módosított szöveg.
-[^12]: A 8. § (4) bekezdése 365/2011. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^13]: A 8. § (4) bekezdés n) pontját a 301/2015. (X. 15.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 12/2016. (II. 9.) Korm. rendelet 1. §-a.
-[^14]: A 8. § (5) bekezdése a 20/2015. (II. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 8. § a 153/2018. (VIII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
