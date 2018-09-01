@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-22-20-5
 | 2017-08-31 | 2016-22-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-09-01 | 2016-22-20-5H.4 | 2010: CXXX. törvény |
 | 2018-08-31 | 2016-22-20-5H.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2018-09-01 | 2016-22-20-5H.6 | 5/2020. (I. 31.) Korm. rendelet |
