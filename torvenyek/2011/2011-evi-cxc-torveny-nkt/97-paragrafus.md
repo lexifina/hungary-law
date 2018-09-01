@@ -1,5 +1,7 @@
 97. § (1) Azok a tanulók, akik tanulmányaikat az iskolai nevelés-oktatás kilencedik évfolyamán a 2011/2012. tanévben vagy azt megelőzően kezdték meg, tankötelezettségük azon tanítási év végéig tart, amelyben a tizennyolcadik életévüket betöltik vagy sikeres érettségi vizsgát vagy szakmai vizsgát tettek. Azon sajátos nevelési igényű tanulók tankötelezettsége, akik esetében a szakértői és rehabilitációs bizottság e törvény hatálybalépése előtt a tankötelezettség huszadik életévükig történő meghosszabbításáról döntött, annak a tanévnek a végéig tart, amelyben a huszadik életévüket betöltik.
 
+(1a) Az a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló, akit 2018. augusztus 31. napjáig a szakértői bizottság szakértői véleménye alapján egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól mentesítettek, a mentesítés időtartamának félbeszakadása nélkül, középfokú iskolai tanulmányainak befejezéséig egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól mentesülhet. Az e bekezdésben foglaltakra az 56. § (1) és (2) bekezdésben foglalt szabályok értelemszerűen alkalmazandóak.
+
 (2) Az érettségi bizonyítvány kiadásához a közösségi szolgálat végzésének igazolását először a 2016. január 1-je után megkezdett érettségi vizsga esetében kell megkövetelni.
 
 (3) E törvény hatálybalépésekor folyamatban lévő 58. § szerinti fegyelmi eljárásokat a Kt. vonatkozó rendelkezései alapján kell befejezni.

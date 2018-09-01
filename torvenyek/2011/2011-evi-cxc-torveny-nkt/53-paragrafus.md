@@ -16,15 +16,19 @@ b) az általános iskola utolsó évfolyamának elvégzéséről szóló bizony�
 
 c) gimnáziumi tanulmányok esetén az utolsó évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján,
 
-d) szakközépiskolai tanulmányok esetén az utolsó középiskolai évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján, ha a tanuló a szakképzésben nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
+d) szakgimnáziumi tanulmányok esetén az utolsó középiskolai évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján, ha a tanuló a szakképzésben nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
 
-e) szakképző iskolában folyó szakképzésben
+e) szakképző iskolában, ha
 
-ea) ha a tanuló jelentkezik szakmai vizsgára, az utolsó évfolyam elvégzését követő első szakmai vizsgaidőszak utolsó napján,
+ea) a tanuló jelentkezik szakmai vizsgára, az utolsó évfolyam elvégzését követő első szakmai vizsgaidőszak utolsó napján,
 
-eb) ha a tanuló nem jelentkezik szakmai vizsgára, az utolsó évfolyam elvégzését igazoló bizonyítvány kiállítása napján,
+eb) a tanuló nem jelentkezik szakmai vizsgára, az utolsó évfolyam elvégzését igazoló bizonyítvány kiállítása napján,
 
-ec) ha a tanuló tanulmányainak folytatására egészségileg alkalmatlanná vált és az iskolában nem folyik másik megfelelő szakképzés, vagy a tanuló nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
+ec) az államilag elismert szakképesítést szerzett, szakközépiskolában tanuló arról döntött, hogy továbbtanul az érettségi vizsgára felkészítő tizenkettedik és tizenharmadik évfolyamon, az utolsó évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján,
+
+ed) a tanuló tanulmányainak folytatására egészségileg alkalmatlanná vált és az iskolában nem folyik másik megfelelő szakképzés, vagy a tanuló nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
+
+ee) a Szakképzési Hídprogramban, ha a nem tanköteles tanuló a program követelményeit teljesítette, vagy a tanulmányait félbehagyta,
 
 f) az alapfokú művészeti iskolában, ha kiskorú tanuló esetén a szülő vagy a nagykorú tanuló írásban bejelenti, hogy kimarad az iskolából, a bejelentésben megjelölt napon, továbbá az utolsó alapfokú évfolyam utolsó napján, ha a tanuló nem tesz művészeti alapvizsgát, valamint az utolsó továbbképző évfolyam záróvizsga letételének napján, ha a tanuló nem tesz záróvizsgát, az utolsó évfolyam elvégzését tanúsító bizonyítvány kiállításának napján és a h) pontban megjelölt esetben,
 

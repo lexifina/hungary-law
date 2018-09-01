@@ -62,7 +62,7 @@ e) a távolléti díj tekintetében a 65. § (8a) bekezdésében foglaltaktól e
 
 f) a 65. § (10) és (11) bekezdését nem kell alkalmazni.
 
-(9b) Pedagógus-munkakörben foglalkoztatottnak minősülnek az egységes óvoda-bölcsődében felsőfokú végzettséggel kisgyermeknevelő munkakörben foglalkoztatottak is, és rájuk a 65. § (9) bekezdés c) pontjában és (9a) bekezdésében foglaltakat, továbbá a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben a bölcsődében pedagógus-munkakörben foglalkoztatott személyekre meghatározott rendelkezéseket kell alkalmazni.
+(9b)
 
 (9c) A pedagógus szakképzettséggel, szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott legfeljebb Pedagógus II. fokozatot érhet el. Ha a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottat korábban pedagógus-munkakörben alkalmazták és Pedagógus II. fokozatnál magasabb fokozatot ért el, illetményét, munkabérét a Pedagógus II. fokozatnak megfelelően kell megállapítani.
 

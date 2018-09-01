@@ -58,7 +58,9 @@ p) felnőttoktatás esetében az oktatás munkarendjével kapcsolatos adatokat,
 
 q) tanulmányai várható befejezésének idejét,
 
-r) évfolyamát
+r) évfolyamát,
+
+s) azon adatát, hogy melyik évfolyamon, mely országban vett részt a 9. § (4) bekezdése alapján szervezett határon túli kiránduláson
 
 tartalmazza.
 

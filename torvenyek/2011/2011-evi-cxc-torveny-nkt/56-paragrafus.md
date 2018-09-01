@@ -1,4 +1,4 @@
-56. § (1) A tanulót, ha egyéni adottsága, fejlettsége szükségessé teszi, a szakértői bizottság véleménye alapján az igazgató mentesíti
+56. § (1) A sajátos nevelési igényű tanulót, ha egyéni adottsága, fejlettsége szükségessé teszi, a szakértői bizottság szakértői véleménye alapján az igazgató mentesíti
 
 a) az érdemjegyekkel és osztályzatokkal történő értékelés és minősítés alól, és ehelyett szöveges értékelés és minősítés alkalmazását írja elő,
 

@@ -64,7 +64,9 @@ eg) évfolyamismétlésre vonatkozó adatok,
 
 eh) a tanulói jogviszony megszűnésének időpontja és oka,
 
-f) az országos mérés-értékelés adatai.
+f) az országos mérés-értékelés adatai,
+
+g) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt a 9. § (4) bekezdése alapján szervezett határon túli kiránduláson.
 
 (4a) A pedagógiai szakszolgálati intézmény – az integrált nyomon követő rendszer (a továbbiakban: INYR) működtetése érdekében – a (4) bekezdésben meghatározott adatokon kívül
 
