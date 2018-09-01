@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-223-20-
 | 2017-07-01 | 1998-223-20-22.48 | 171/2017. (VI. 29.) Korm. rendelet |
 | 2017-11-01 | 1998-223-20-22.49 | 70/2015. (III. 30.) Korm. rendelet |
 | 2018-01-01 | 1998-223-20-22.50 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2018-09-01 | 1998-223-20-22.51 | 457/2017. (XII. 28.) Korm. rendelet |

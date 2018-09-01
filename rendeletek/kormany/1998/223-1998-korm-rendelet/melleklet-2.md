@@ -1,93 +1,93 @@
-## A családi pótlék iránti kérelem adattartalma
+## A családi pótlék / anyasági támogatás iránti kérelem adattartalma
 
-## 1 A kérelmezővel és az ellátás folyósításával kapcsolatos adatok:
+## 1. Az igényelt családtámogatási ellátás megnevezése.
 
-## 1.1 a jogosultság jogcíme;
+## 2. A kérelmezővel, házastársával, bejegyzett élettársával, élettársával kapcsolatos adatok:
 
-## 1.2 a kérelmező
+## 2.1. a jogosultság jogcíme;
 
-## 1.2.1 neve
+## 2.2. a kérelmező
 
-## 1.2.2 születéskori neve
+## 2.2.1. neve,
 
-## 1.2.3 születési helye, ideje
+## 2.2.2. születéskori neve,
 
-## 1.2.4 anyja neve
+## 2.2.3. születési helye, ideje,
 
-## 1.2.5 lakcíme
+## 2.2.4. anyja neve,
 
-## 1.2.6 Társadalombiztosítási Azonosító Jele
+## 2.2.5. lakcíme,
 
-## 1.2.7 állampolgársága;
+## 2.2.6. Társadalombiztosítási Azonosító Jele,
 
-## 1.3 a kérelmező házastársának, bejegyzett élettársának, élettársának, törvényes képviselőjének
+## 2.2.7. állampolgársága;
 
-## 1.3.1 neve
+## 2.3. a kérelmező házastársának, bejegyzett élettársának, élettársának
 
-## 1.3.2 lakcíme
+## 2.3.1. neve,
 
-## 1.3.3 Társadalombiztosítási Azonosító Jele;
+## 2.3.2. lakcíme,
 
-## 1.4 a kérelmező, illetve házastársa, bejegyzett élettársa, élettársa által az valamelyik EGT-államban folytatott kereső vagy vállalkozási tevékenységre vonatkozó adat;
+## 2.3.3. Társadalombiztosítási Azonosító Jele;
 
-## 1.5 a családi pótlék megállapításának kérelmezett kezdő időpontja;
+## 2.4. a kérelmező, illetve házastársa, bejegyzett élettársa, élettársa által valamelyik EGT-államban folytatott kereső vagy vállalkozási tevékenységre vonatkozó adat.
 
-## 1.6 a családi pótlék folyósítása módjának megválasztására vonatkozó nyilatkozat;
+## 3. A gyermek(ek)re vonatkozó adatok
 
-## 1.7 a kérelmező bankszámlaszáma (fizetési számlaszáma), vagy – postai úton (pénzforgalmi számláról történő készpénz- kifizetés kézbesítése útján) történő folyósítás kérelmezése esetén – a folyósítási cím
+## 3.1. azon gyermek(ek)nek, aki(k) után a kérelmező a családi pótlék/anyasági támogatás megállapítását kéri
 
-## 2. A gyermek(ek)re vonatkozó adatok
+## 3.1.1. a neve,
 
-## 2.1 azon gyermek(ek)nek, aki(k) után a kérelmező a családi pótlék megállapítását kéri
+## 3.1.2. a születési helye,
 
-## 2.1.1 a neve
+## 3.1.3. a születési ideje,
 
-## 2.1.2 a születési helye
+## 3.1.4. az anyja neve,
 
-## 2.1.3 a születési ideje
+## 3.1.5. a Társadalombiztosítási Azonosító Jele,
 
-## 2.1.4 az anyja neve
+## 3.1.6. a háztartásba kerülés időpontja,
 
-## 2.1.5 a Társadalombiztosítási Azonosító Jele
+## 3.1.7. családi jogállása;
 
-## 2.1.6 a háztartásba kerülés időpontja
+## 3.2. nyilatkozat a gyermek(ek) tartósan beteg, illetve súlyosan fogyatékos állapotáról;
 
-## 2.1.7 a gyermek családi jogállása;
+## 3.3. a családi pótlék összegének megállapításánál figyelembe veendő gyermek(ek)
 
-## 2.2 nyilatkozat a gyermek(ek) tartósan beteg, illetve súlyosan fogyatékos állapotáról;
+## 3.3.1. neve,
 
-## 2.3 a családi pótlék összegének megállapításánál figyelembe veendő gyermek(ek)
+## 3.3.2. születési helye,
 
-## 2.3.1 neve
+## 3.3.3. születési ideje,
 
-## 2.3.2 születési helye
+## 3.3.4. anyja neve,
 
-## 2.3.3 születési ideje
+## 3.3.5. Társadalombiztosítási Azonosító Jele,
 
-## 2.3.4 anyja neve
+## 3.3.6. a beszámítás jogcíme.
 
-## 2.3.5 Társadalombiztosítási Azonosító Jele
+## 4. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
 
-## 2.3.6 a beszámítás jogcíme
+## 4.1. a folyósítás módjának megválasztására vonatkozó nyilatkozat
 
-## 3. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
+## 4.1.1. a kérelmező bankszámlaszáma (fizetési számlaszáma), vagy postai úton (pénzforgalmi számláról történő készpénz kifizetés kézbesítés útján) történő folyósítás kérelmezése esetén a folyósítási cím;
 
-## 3.1
+## 4.2. családi pótlék igénylésének időpontja;
 
-## 3.2 nyilatkozat a kérelmező egyedülállóságának tényéről;
+## 4.3. nyilatkozat a kérelmező egyedülállóságának tényéről
 
-## 3.3 nyilatkozat az egyedülállóság jogcíméről, kezdetéről;
+## 4.3.1. nyilatkozat az egyedülállóság jogcíméről, kezdetéről;
 
-## 3.4 nyilatkozat arról, hogy a családi pótlék összegének megállapításánál figyelembe veendő valamely gyermek rendelkezik-e rendszeres jövedelemmel, és ha igen, a rendszeres jövedelemmel rendelkező gyermek(ek) neve;
+## 4.4. nyilatkozat arról, hogy a 18. életév feletti valamely gyermek rendelkezik-e rendszeres jövedelemmel, és ha igen, a rendszeres jövedelemmel rendelkező gyermek(ek) neve;
 
-## 3.5 nyilatkozat a kérelemhez csatolt iratokról, illetve, amennyiben a kérelmező az anyakönyvi nyilvántartásban, gyámhatósági nyilvántartásban, illetve a jegyző vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala által vezetett szociális nyilvántartásában szereplő adatot nem igazolta, annak a hatóságnak a megnevezése és címe, amely az eljáró hatóság által adatszolgáltatási kérelemmel megkereshető;
+## 4.5. nyilatkozat arról, hogy a gyermek(ek) után részesül-e valaki családi pótlékban;
 
-## 3.6 együttes nyilatkozat arról, hogy a szülők a 2.1. alpont szerinti gyermek(ek) gondozásáról, neveléséről saját háztartásukban felváltva gondoskodnak;
+## 4.6. együttes nyilatkozat a családi pótlék megosztásáról, valamint arról, hogy a szülők a 3.1. alpont szerinti gyermek(ek) gondozásáról, neveléséről saját háztartásukban felváltva gondoskodnak és a gyermek(ek) felett szülői felügyeleti joggal rendelkeznek;
 
-## 3.7 nyilatkozat a családi pótlék folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
+## 4.7. nyilatkozat a családi pótlék folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
 
-## 3.8 a kérelmező vagy a törvényes képviselő aláíróhelye
+## 4.8. a kérelmező vagy a törvényes képviselő aláíróhelye.
 
-2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^253]
+2. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^255]
 
-[^253]: A 2. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § a) pontjával megállapított szöveg.
+[^255]: A 2. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 66. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,88 +1,101 @@
-## A gyermekgondozást segítő ellátás iránti kérelem adattartalma[^254]
+## A gyermekgondozást segítő ellátás / gyermeknevelési támogatás iránti kérelem adattartalma
 
-## 1. A kérelmezővel és az ellátás folyósításával kapcsolatos adatok
+## 1. Az igényelt családtámogatási ellátás megnevezése.
 
-## 1.1 a jogosultság jogcíme;
+## 2. A kérelmezővel, házastársával, bejegyzett élettársával, élettársával kapcsolatos adatok:
 
-## 1.2 a kérelmező
+## 2.1. a jogosultság jogcíme;
 
-## 1.2.1 neve
+## 2.2. a kérelmező
 
-## 1.2.2 születéskori neve
+## 2.2.1. neve,
 
-## 1.2.3 születési helye, ideje
+## 2.2.2. születéskori neve,
 
-## 1.2.4 anyja neve
+## 2.2.3. születési helye, ideje,
 
-## 1.2.5 lakcíme
+## 2.2.4. anyja neve,
 
-## 1.2.6 Társadalombiztosítási Azonosító Jele
+## 2.2.5. lakcíme,
 
-## 1.2.7 adóazonosító jele
+## 2.2.6. Társadalombiztosítási Azonosító Jele,
 
-## 1.2.8 állampolgársága;
+## 2.2.7. adóazonosító jele,
 
-## 1.3 a kérelmező házastársának, bejegyzett élettársának, élettársának
+## 2.2.8. állampolgársága;
 
-## 1.3.1 neve
+## 2.3. a kérelmező házastársának, bejegyzett élettársának, élettársának
 
-## 1.3.2 Társadalombiztosítási Azonosító Jele;
+## 2.3.1. neve,
 
-## 1.4 a kérelmező, illetve házastársa, bejegyzett élettársa, élettársa által valamelyik EGT-államban folytatott kereső vagy vállalkozási tevékenységre vonatkozó adat;
+## 2.3.2. Társadalombiztosítási Azonosító Jele;
 
-## 1.5[^255] a gyermekgondozást segítő ellátás megállapításának kérelmezett kezdő időpontja;
+## 2.4. a kérelmező, illetve házastársa, bejegyzett élettársa, élettársa által valamelyik EGT-államban folytatott kereső vagy vállalkozási tevékenységre vonatkozó adat.
 
-## 1.6[^256] a gyermekgondozást segítő ellátás folyósítása módjának megválasztására vonatkozó nyilatkozat;
+## 3. A háztartásban eltartott kiskorú gyermek(ek)re vonatkozó adatok:
 
-## 1.7 a kérelmező bankszámlaszáma (fizetési számlaszáma), vagy – postai úton (pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján) történő folyósítás kérelmezése esetén – a folyósítási cím.
+## 3.1. azon gyermeknek (ikergyermekeknek), aki(k) után a kérelmező a gyermekgondozást segítő ellátás/gyermeknevelési támogatás megállapítását kéri
 
-## 2. A gyermek(ek)re vonatkozó adatok
+## 3.1.1. a neve,
 
-## 2.1[^257] azon gyermeknek (ikergyermekeknek), aki(k) után a kérelmező a gyermekgondozást segítő ellátás megállapítását kéri
+## 3.1.2. a születési helye,
 
-## 2.1.1 a neve
+## 3.1.3. az anyja neve,
 
-## 2.1.2 a születési helye
+## 3.1.4. a Társadalombiztosítási Azonosító Jele,
 
-## 2.1.3 az anyja neve
+## 3.1.5. a háztartásba kerülésének időpontja,
 
-## 2.1.4 a Társadalombiztosítási Azonosító Jele
+## 3.1.6. a családi jogállása;
 
-## 2.1.5 a háztartásba kerülésének időpontja
+## 3.2. nyilatkozat a gyermek(ek) tartósan beteg, illetve súlyosan fogyatékos állapotáról.
 
-## 2.1.6 a családi jogállása;
+## 4. A gyermek(ek) szüleire vonatkozó adatok:
 
-## 2.2 nyilatkozat a gyermek(ek) tartósan beteg, illetve súlyosan fogyatékos állapotáról.
+## 4.1. a 3.1. alpontban feltüntetett gyermek(ek) szüleinek
 
-## 3. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
+## 4.1.1. neve,
 
-## 3.1 a kérelmező magánnyugdíj-pénztári tagságára vonatkozó adat;
+## 4.1.2. születéskori neve,
 
-## 3.2[^258] nyilatkozat arról, hogy a kérelmező részesül-e táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban vagy egyéb rendszeres pénzellátásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására;
+## 4.1.3. anyja neve,
 
-## 3.3[^259] nyilatkozat arról, hogy a közös háztartásban élő másik szülő vagy más személy részesül-e csecsemőgondozási díjban, gyermekgondozási díjban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására; amennyiben igen, az ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
+## 4.1.4. lakcíme,
 
-## 3.4[^260] nyilatkozat arról, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjban részesülő kérelmező a nyugdíjfolyósító szervhez benyújtott nyilatkozatban vállalta-e a gyermekgondozást segítő ellátás összege után nyugdíjjárulék (tagdíj) fizetését;
+## 4.1.5. állampolgársága,
 
-## 3.5[^261] a kérelmező nyilatkozata a kereső tevékenységének a gyermekgondozást segítő ellátás folyósítási ideje alatti korlátozásának tudomásul vételéről;
+## 4.1.6. Társadalombiztosítási Azonosító Jele,
 
-## 3.6 nyilatkozat a kérelemhez csatolt iratokról, illetve, amennyiben a kérelmező az anyakönyvi nyilvántartásban vagy a gyámhatóság nyilvántartásában szereplő adatot nem igazolta, annak a hatóságnak a megnevezése és címe, amely az eljáró hatóság által adatszolgáltatási kérelemmel megkereshető;
+## 4.1.7. valamelyik EGT-államban folytatott kereső vagy vállalkozási tevékenységére vonatkozó adat,
 
-## 3.7[^262] nyilatkozat a gyermekgondozást segítő ellátás folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
+## 4.1.8. nyilatkozat arról, hogy a gyermek a szülő háztartásában él-e.
 
-## 3.8 a kérelmező nyilatkozata arról, hogy kéri-e a helyi utazási kedvezményre való jogosultság igazolására szolgáló hatósági bizonyítvány kiállítását;
+## 5. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok:
 
-## 3.9 a kérelmező vagy a törvényes képviselő aláíróhelye.
+## 5.1. a gyermekgondozást segítő ellátás/gyermeknevelési támogatás folyósítása módjának megválasztására vonatkozó nyilatkozat;
 
-3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^263]
+## 5.2. a kérelmező bankszámlaszáma (fizetési számlaszáma), vagy – postai úton (pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján) történő folyósítás kérelmezése esetén – a folyósítási cím;
 
-[^254]: A 2. számú melléklet címe a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^255]: A 2. számú melléklet 1.5 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^256]: A 2. számú melléklet 1.6 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^257]: A 2. számú melléklet 2.1 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^258]: A 2. számú melléklet 3.2 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § c) pontja, a 449/2016. (XII. 19.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^259]: A 2. számú melléklet 3.3 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § c) pontja, a 449/2016. (XII. 19.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^260]: A 2. számú melléklet 3.4 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^261]: A 2. számú melléklet 3.5 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^262]: A 2. számú melléklet 3.7 alpontja a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^263]: A 3. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § b) pontjával megállapított szöveg.
+## 5.3. az igényelt ellátás megállapításának kérelmezett kezdő időpontja;
+
+## 5.4. nyilatkozat arról, hogy a kérelmező, illetve a közös háztartásban élő másik szülő vagy más személy részesül-e csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására; ha igen, az ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
+
+## 5.5. a szülők nyilatkozata arról, hogy a gyermekgondozást segítő ellátásról a nagyszülő javára lemondanak és egyetértenek a gyermekgondozást segítő ellátás nagyszülő részére történő folyósításával, továbbá a nyilatkozatot tevő szülők aláíróhelye;
+
+## 5.6. nyilatkozat arról, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjban részesülő kérelmező a nyugdíjfolyósító szervhez benyújtott nyilatkozatban vállalta-e a gyermekgondozást segítő ellátás összege után nyugdíjjárulék fizetését;
+
+## 5.7. a kérelmező nyilatkozata arról, hogy a gyermekgondozást segítő ellátással együtt nem folyósítható rendszeres pénzellátásban nem részesül;
+
+## 5.8. a kérelmező nyilatkozata a kereső tevékenységének a gyermekgondozást segítő ellátás folyósítási ideje alatti kizárásának, illetve korlátozásának/a gyermeknevelési támogatás folyósítási ideje alatti korlátozásának tudomásul vételéről;
+
+## 5.9. a kérelmező nyilatkozata a gyermek napközbeni ellátást biztosító intézményben történő elhelyezésére irányuló korlátozás tudomásul vételéről;
+
+## 5.10. nyilatkozat a gyermekgondozást segítő ellátás/gyermeknevelési támogatás folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
+
+## 5.11. a kérelmező nyilatkozata arról, hogy kéri-e a helyi utazási kedvezményre való jogosultság igazolására szolgáló hatósági bizonyítvány kiállítását;
+
+## 5.12. a kérelmező vagy a törvényes képviselő aláíróhelye.
+
+3–4. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^256]
+
+[^256]: A 3–4. számú mellékletet a 457/2017. (XII. 28.) Korm. rendelet 71. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

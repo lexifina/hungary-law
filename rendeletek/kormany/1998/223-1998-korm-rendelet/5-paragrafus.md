@@ -10,7 +10,7 @@ b) a gyermekotthon vezetőjének, a szociális intézmény vezetőjének, a jav�
 
 ## meghatározott adattartalommal rendelkező formanyomtatványon kell benyújtani.
 
-(2)[^77] A családi pótlékra a Cst. 7. § (2) bekezdésében, valamint 8. § (3) bekezdésében foglaltak szerint saját jogán jogosult személy által benyújtott kérelem esetében az 1. számú melléklet 1. pont 1.3 és 1.4 alpontjában, 2. pontjában, valamint 3. pont 3.2, 3.3 és 3.6 alpontjában meghatározott adatokat és nyilatkozatokat nem kell megadni.
+(2)[^77] A családi pótlékra a Cst. 7. § (2) bekezdésében, valamint 8. § (3) bekezdésében foglaltak szerint saját jogán jogosult személy által benyújtott kérelem esetében az 1. számú melléklet 3. pontjában, valamint 4. pont 4.3 és 4.6 alpontjában meghatározott adatokat és nyilatkozatokat nem kell megadni.
 
 (3)[^78]
 
@@ -42,7 +42,7 @@ d)[^86]
 [^74]: Az 5. §-t megelőző alcím a 238/2002. (XI. 8.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^75]: Az 5. § a 176/2009. (VIII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^76]: Az 5. § (1) bekezdése a 236/2012. (VIII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^77]: Az 5. § (2) bekezdése a 236/2012. (VIII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^77]: Az 5. § (2) bekezdése a 236/2012. (VIII. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 69. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^78]: Az 5. § (3) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés c) pontja hatályon kívül helyezte.
 [^79]: Az 5. § (4) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés c) pontja hatályon kívül helyezte.
 [^80]: Az 5. § (5) bekezdése a 236/2012. (VIII. 30.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 417/2015. (XII. 23.) Korm. rendelet 22. § e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 5. pontja szerint módosított szöveg.

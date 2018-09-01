@@ -4,9 +4,9 @@
 
 ## Gyermekgondozást segítő ellátás[^147]
 
-19. § (1)[^148] A gyermekgondozást segítő ellátásra vonatkozó kérelmet – a (2) bekezdésben foglalt kivétellel – a 2. számú melléklet szerinti adattartalommal rendelkező formanyomtatványon kell benyújtani.
+19. § (1)[^148] A gyermekgondozást segítő ellátásra vonatkozó kérelmet a 2. számú melléklet szerinti adattartalommal rendelkező formanyomtatványon kell benyújtani.
 
-(2)[^149] A Cst. 20/A. §-ában foglaltak szerinti nagyszülő a gyermekgondozást segítő ellátás iránti kérelmét a 3. számú melléklet szerinti adattartalommal rendelkező formanyomtatványon nyújtja be.
+(2)[^149]
 
 (3)[^150] A Cst. 37. § (1) bekezdésének alkalmazásában a gyám gyermekgondozást segítő ellátásra való jogosultságának feltételei fennállnak, ha a gyámrendelő határozatban foglaltak szerint a gyám a gyámrendelés tényleges időpontját megelőzően a gyermekről saját háztartásában gondoskodott, feltéve, hogy ugyanazon gyermekre tekintettel erre az időtartamra vonatkozóan más személy nem részesült gyermekgondozási támogatásban.
 
@@ -32,8 +32,8 @@ b)[^157] a jogosult köteles benyújtani járási hivatalhoz a nemzeti köznevel
 
 [^146]: A 16–18. §-t a 238/2002. (XI. 8.) Korm. rendelet 9. § (2) bekezdésének a) pontja hatályon kívül helyezte.
 [^147]: A 19. §-t megelőző alcím címe a 417/2015. (XII. 23.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^148]: A 19. § (1) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 12. §-ával megállapított, a 417/2015. (XII. 23.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^149]: A 19. § új (2) bekezdését a 21/2004. (II. 13.) Korm. rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (6) bekezdésre változtatva. A (2) bekezdés a 176/2009. (VIII. 29.) Korm. rendelet 12. §-ával megállapított, a 417/2015. (XII. 23.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^148]: A 19. § (1) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 12. §-ával megállapított, a 417/2015. (XII. 23.) Korm. rendelet 22. § b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 71. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^149]: A 19. § új (2) bekezdését a 21/2004. (II. 13.) Korm. rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (6) bekezdésre változtatva. A 19. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 71. § b) pontja hatályon kívül helyezte. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^150]: A 19. § új (3) bekezdését a 21/2004. (II. 13.) Korm. rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (7) bekezdésre változtatva. A 19. § (3) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés e) pontja hatályon kívül helyezte, újonnan a 417/2015. (XII. 23.) Korm. rendelet 16. § (2) bekezdése iktatta be.
 [^151]: A 19. § új (4) bekezdését a 21/2004. (II. 13.) Korm. rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (8) bekezdésre változtatva. A 19. § (4) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés e) pontja hatályon kívül helyezte.
 [^152]: A 19. § új (5) bekezdését a 21/2004. (II. 13.) Korm. rendelet 4. § (2) bekezdése iktatta be, egyidejűleg az eredeti (5) bekezdés számozását (9) bekezdésre változtatva. A 19. § (5) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés e) pontja hatályon kívül helyezte.
