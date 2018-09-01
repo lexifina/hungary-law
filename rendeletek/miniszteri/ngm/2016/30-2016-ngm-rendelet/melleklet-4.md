@@ -1,11 +1,5 @@
-## 20162X20000030_20
+## 20162X20000030_28
 
-## 20162X20000030_21
+4. melléklet a 30/2016. (VIII. 31.) NGM rendelethez[^9]
 
-## 20162X20000030_22
-
-## 20162X20000030_19
-
-4. melléklet a 30/2016. (VIII. 31.) NGM rendelethez[^5]
-
-[^5]: A 4. melléklet a 24/2017. (VIII. 31.) NGM rendelet 1. § (4) bekezdése szerint módosított szöveg.
+[^9]: A 4. melléklet a 24/2017. (VIII. 31.) NGM rendelet 1. § (4) bekezdése, az 5/2018. (VII. 9.) ITM rendelet 5. § d) pontja szerint módosított szöveg.

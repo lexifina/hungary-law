@@ -196,6 +196,12 @@
 
 | 96. | 95. | 34 | 853 | 02 | Vízügyi szakmunkás | vízgazdálkodásért felelős miniszter |
 
+| 97. | 96. | 34 | 541 | 11 | Pék-cukrász | élelmiszeriparért felelős miniszter |
+
+| 98. | 97. | 34 | 582 | 16 | Épületszobrász és műköves | szakképzésért és felnőttképzésért felelős miniszter |
+
+| 99. | 98. | 34 | 582 | 17 | Kőfaragó | szakképzésért és felnőttképzésért felelős miniszter |
+
 ## 2. táblázat: a szakgimnáziumban oktatható szakképesítések
 
 |  | A | B | C | D |
@@ -292,7 +298,7 @@
 
 | 46. | 45. | 54 | 211 | 04 | Grafikus | kultúráért felelős miniszter |
 
-| 47. | 46. | 54 | 543 | 02 | Gumiipari technikus (Műanyagfeldolgozó) | szakképzésért és felnőttképzésért felelős miniszter |
+| 47. | 46. | 54 | 543 | 02 | Gumiipari technikus (Abroncsgyártó) | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 48. | 47. | 54 | 543 | 02 | Gumiipari technikus (Formacikk-gyártó) | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -420,7 +426,7 @@
 
 | 110. | 109. | 54 | 841 | 03 | Légi közlekedésüzemvitel-ellátó | közlekedésért felelős miniszter |
 
-| 111. | 110. | 54 | 841 | 11 | Logisztikai és szállítmányozási ügyintéző (Pénzügyi ügyintéző és Vámügyintéző) | szakképzésért és felnőttképzésért felelős miniszter |
+| 111. | 110. | 54 | 841 | 11 | Logisztikai és szállítmányozási ügyintéző (Pénzügyi ügyintéző) | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 112. | 111. | 54 | 582 | 03 | Magasépítő technikus | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -587,6 +593,8 @@
 | 193. | 192. | 54 | 841 | 11 | Logisztikai és szállítmányozási ügyintéző (Vállalkozási ügyintéző) | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 194. | 193. | 52 | 345 | 04 | Közszolgálati ügykezelő | közszolgálati életpálya kidolgozásáért felelős miniszter |
+
+| 195. | 194. | 54 | 841 | 11 | Logisztikai és szállítmányozási ügyintéző (Vámügyintéző) | szakképzésért és felnőttképzésért felelős miniszter |
 
 ## 3. táblázat: az iskolai rendszerű szakképzésben oktatható szakképesítés-ráépülések
 
@@ -879,6 +887,8 @@
 | 143. | 142. | 35 | 622 | 02 | Zöldség- és gyümölcstermesztő | agrárpolitikáért felelős miniszter |
 
 | 144. | 143. | 55 | 213 | 01 | Hangtárvezető | kultúráért felelős miniszter |
+
+| 145. | 144. | 55 | 723 | 17 | Mentésirányító | egészségügyért felelős miniszter |
 
 ## 4. táblázat: az iskolai rendszerű szakképzésben, szakiskolában, két évfolyamos képzésben oktatható részszakképesítések
 
@@ -1406,6 +1416,6 @@
 
 | st | tanulásban akadályozott |
 
-2. melléklet a 30/2016. (VIII. 31.) NGM rendelethez[^3]
+2. melléklet a 30/2016. (VIII. 31.) NGM rendelethez[^7]
 
-[^3]: A 2. melléklet a 24/2017. (VIII. 31.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet a 24/2017. (VIII. 31.) NGM rendelet 1. § (2) bekezdése, az 5/2018. (VII. 9.) ITM rendelet 5. § b) pontja szerint módosított szöveg.

@@ -6,12 +6,15 @@ b) az Szt. 23. § (1) és (2) bekezdésében meghatározott, két szakképzési 
 
 ## óratervét.
 
-(2) A szakgimnáziumi szakképesítésre kiadott szakképzési kerettanterv egyaránt tartalmazza
+(2)[^1] A szakgimnáziumi szakképesítésre kiadott szakképzési kerettanterv az ágazati szakmai tartalomtól függően
 
-a) az Nkt. 12. § (1) bekezdése szerinti képzés, valamint
+a) az Nkt. 12. § (1) bekezdése, valamint az Nkt. 12. § (4) bekezdése szerinti képzés vagy
 
 b) az Nkt. 12. § (4) bekezdése szerinti képzés
 
-## óratervét.
+óratervét tartalmazza.
 
-(3) A szakgimnáziumi szakképesítésre kiadott szakképzési kerettanterv – amennyiben a szakképesítés ágazatba besorolásra került – tartalmazza az adott szakképesítés ágazata szerinti közös kerettantervi elemeket, valamint a szakgimnáziumi érettségi keretében megszerezhető szakképesítések szakmai tartalmait.
+(3)[^2] A (2) bekezdés a) pontja szerinti szakképzési kerettanterv tartalmazza az ágazathoz tartozó szakképesítések közös tartalmi elemeit – figyelembe véve az ágazaton belüli specializációt is –, valamint a mellék-szakképesítés szakmai tartalmát is.
+
+[^1]: A 4. § (2) bekezdése az 5/2018. (VII. 9.) ITM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 4. § (3) bekezdése az 5/2018. (VII. 9.) ITM rendelet 1. §-ával megállapított szöveg.
