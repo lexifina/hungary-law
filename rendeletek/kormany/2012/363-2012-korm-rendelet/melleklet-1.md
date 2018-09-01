@@ -58,7 +58,7 @@ c) az óvodai nevelésben alkalmazott pedagógiai hatásoknak a gyermek személy
 
 7. A hazájukat elhagyni kényszerülő családok (a továbbiakban: migráns) gyermekeinek óvodai nevelésében biztosítani kell az önazonosság megőrzését, ápolását, erősítését, társadalmi integrálását.
 
-III.
+III.[^3]
 
 AZ ÓVODAI NEVELÉS FELADATAI
 
@@ -68,9 +68,9 @@ Az óvodai nevelés feladata az óvodáskorú gyermek testi és lelki szükségl
 
 – az egészséges életmód alakítása,
 
-– az érzelmi, az erkölcsi és a közösség nevelés,
+– az érzelmi, az erkölcsi és az értékorientált közösségi nevelés,
 
-– az anyanyelvi-, értelmi fejlesztés és nevelés megvalósítása.
+– az anyanyelvi, értelmi fejlesztés és nevelés megvalósítása.
 
 Az egészséges életmód alakítása
 
@@ -84,7 +84,7 @@ Az egészséges életmódra nevelés, az egészséges életvitel igényének ala
 
 – a gyermek egészségének védelme, edzése, óvása, megőrzése;
 
-– az egészséges életmód, a testápolás, az étkezés, az öltözködés, a pihenés, a betegségmegelőzés és az egészségmegőrzés szokásainak alakítása;
+– az egészséges életmód, a testápolás, a tisztálkodás, az étkezés, különösen a magas cukortartalmú ételek és italok, a magas só- és telítetlenzsír-tartalmú ételek fogyasztásának csökkentése, a zöldségek és gyümölcsök, illetve tejtermékek fogyasztásának ösztönzése, a fogmosás, az öltözködés, a pihenés, a betegségmegelőzés és az egészségmegőrzés szokásainak alakítása;
 
 – a gyermek fejlődéséhez és fejlesztéséhez szükséges egészséges és biztonságos környezet biztosítása;
 
@@ -92,7 +92,7 @@ Az egészséges életmódra nevelés, az egészséges életvitel igényének ala
 
 – megfelelő szakemberek bevonásával – a szülővel, az óvodapedagógussal együttműködve – speciális gondozó, prevenciós és korrekciós testi, lelki nevelési feladatok ellátása.
 
-Az érzelmi, az erkölcsi és a közösségi nevelés
+Az érzelmi, az erkölcsi és az értékorientált közösségi nevelés
 
 1. Az óvodáskorú gyermek egyik jellemző sajátossága a magatartásának érzelmi vezéreltsége. Elengedhetetlen, hogy a gyermeket az óvodában érzelmi biztonság, állandó értékrend, derűs, kiegyensúlyozott, szeretetteljes légkör vegye körül. Mindezért szükséges, hogy
 
@@ -106,9 +106,9 @@ Az érzelmi, az erkölcsi és a közösségi nevelés
 
 2. A szocializáció szempontjából meghatározó a közös élményeken alapuló tevékenységek gyakorlása, a gyermek erkölcsi tulajdonságainak (mint például: az együttérzés, a segítőkészség, az önzetlenség, a figyelmesség) és akaratának (ezen belül: önállóságának, önfegyelmének, kitartásának, feladattudatának, szabálytudatának), szokás- és normarendszerének megalapozása.
 
-3. Az óvoda a gyermek nyitottságára épít, és ahhoz segíti a gyermeket, hogy megismerje szűkebb és tágabb környezetét, amely a hazaszeretet és a szülőföldhöz való kötődés alapja, hogy rá tudjon csodálkozni a természetben, az emberi környezetben megmutatkozó jóra és szépre, mindazok megbecsülésére.
+3. Az óvoda a gyermek nyitottságára épít, és ahhoz segíti a gyermeket, hogy megismerje szűkebb és tágabb környezetét, amely a nemzeti identitástudat, a keresztény kulturális értékek, a hazaszeretet, a szülőföldhöz és családhoz való kötődés alapja, hogy rá tudjon csodálkozni a természetben, az emberi környezetben megmutatkozó jóra és szépre, mindazok megbecsülésére.
 
-4. A gyermeki magatartás alakulása szempontjából az óvodapedagógus, az óvoda valamennyi alkalmazottjának kommunikációja, bánásmódja és viselkedése modell értékű szerepet tölt be.
+4. A gyermeki magatartás alakulása szempontjából az óvodapedagógus, az óvoda valamennyi alkalmazottjának kommunikációja, bánásmódja és viselkedése modellértékű szerepet tölt be.
 
 5. A kiemelt figyelmet igénylő gyermekek esetében szükség szerint különösen jelentős az óvoda együttműködő szerepe az ágazati jogszabályokban meghatározott speciális felkészültséggel rendelkező szakemberekkel.
 
@@ -160,6 +160,8 @@ Az óvoda kapcsolatai
 
 3. A nemzetiséghez tartozó gyermekeket is nevelő óvoda kapcsolatot tart az érintett nemzetiségi önkormányzatokkal, szervezetekkel.
 
+4.[^4] A Kárpát-medence magyar nyelvű intézményei közötti oktatási tér kialakítása érdekében az óvoda a külhoni magyar óvodákkal kapcsolatépítésre törekszik, és – lehetőségei szerint – szakmai kapcsolatot tart fenn.
+
 V.
 
 AZ ÓVODAI ÉLET TEVÉKENYSÉGI FORMÁI ÉS AZ ÓVODAPEDAGÓGUS FELADATAI
@@ -180,7 +182,7 @@ Verselés, mesélés
 
 1. A többnyire játékos mozgásokkal is összekapcsolt mondókák, dúdolók, versek hozzájárulnak a gyermek érzelmi biztonságához, anyanyelvi neveléséhez. Ezek ritmusukkal, a mozdulatok és szavak egységével a gyermeknek érzéki-érzelmi élményeket nyújtanak.
 
-2. A magyar gyermekköltészet, a népi, dajkai hagyományok, gazdag és jó alkalmat, erős alapot kínálnak a mindennapos mondókázásra, verselésre. A mese a gyermek érzelmi, értelmi, erkölcsi fejlődésének és fejlesztésének egyik legfőbb segítője. A mese – képi és konkrét formában – feltárja a gyermek előtt a külvilág és az emberi belső világ legfőbb érzelmi viszonylatait, a lehetséges, megfelelő viselkedésformákat.
+2.[^5] A magyar gyermekköltészet, a népi, dajkai hagyományok, gazdag és jó alkalmat, erős alapot kínálnak a mindennapos mondókázásra, verselésre. A mese a gyermek érzelmi, értelmi, erkölcsi fejlődésének és fejlesztésének egyik legfőbb segítője. A mese – képi és konkrét formában, esetlegesen a bábozás és dramatizálás eszközeivel – feltárja a gyermek előtt a külvilág és az emberi belső világ legfőbb érzelmi viszonylatait, a lehetséges és megfelelő viselkedésformákat.
 
 3. A mese különösen alkalmas az óvodás gyermek szemléletmódjának és világképének kialakítására. Visszaigazolja a kisgyermek szorongásait, s egyben feloldást és megoldást kínál. A tárgyi világot is megelevenítő, átlelkesítő szemléletmódja, és az ehhez társuló, a szigorú ok-okozati kapcsolatokat feloldó mágikus világképe, csodákkal és átváltozásokkal ráébreszt a mélyebb értelemben vett pszichikus realitásra és a külvilágra irányított megismerési törekvésekre.
 
@@ -190,7 +192,7 @@ Verselés, mesélés
 
 6. A mindennapos mesélés, mondókázás és verselés a kisgyermek mentális higiénéjének elmaradhatatlan eleme.
 
-7. Az óvodában a népi, a klasszikus és a kortárs irodalmi műveknek egyaránt helye van.
+7.[^6] Az óvodában a 3–7 éves gyermekek életkori sajátosságaihoz igazodóan a népi – népmesék, népi hagyományokat felelevenítő mondókák, rigmusok, a magyarság történelmét feldolgozó mondavilág elemei, meséi –, a klasszikus és a kortárs irodalmi műveknek egyaránt helye van.
 
 Ének, zene, énekes játék, gyermektánc
 
@@ -204,7 +206,7 @@ Verselés, mesélés
 
 Rajzolás, festés, mintázás, kézi munka
 
-1. A rajzolás, festés, mintázás, építés, képalakítás, a kézi munka, mint az ábrázolás különböző fajtái, továbbá a műalkotásokkal, a népművészeti elemekkel, az esztétikus tárgyi környezettel való ismerkedés is fontos eszköze a gyermeki személyiség fejlesztésének. A gyermeki alkotás a belső képek gazdagítására épül.
+1.[^7] A rajzolás, festés, mintázás, építés, képalakítás, a kézi munka mint az ábrázolás különböző fajtái, továbbá a műalkotásokkal, a népművészeti elemekkel, szokásokkal, hagyományokkal, nemzeti szimbólumokkal, az esztétikus tárgyi környezettel való ismerkedés is fontos eszköze a gyermeki személyiség fejlesztésének. A gyermeki alkotás a belső képek gazdagítására épül. Törekedni kell a gyermeki alkotások közösségi rendezvényen való bemutatására és a tehetségek bátorítására.
 
 2. Az óvodapedagógus az ábrázoló tevékenységekre az egész nap folyamán teret, változatos eszközöket biztosít. Maga a tevékenység, s ennek öröme a fontos, valamint az igény kialakítása az alkotásra, a kreatív önkifejezésre, a környezet esztétikai alakítására és az esztétikai élmények befogadására.
 
@@ -226,7 +228,7 @@ A külső világ tevékeny megismerése
 
 1. A gyermek aktivitása és érdeklődése során tapasztalatokat szerez a szűkebb és tágabb természeti-emberi-tárgyi környezet formai, mennyiségi, téri viszonyairól. A valóság felfedezése során pozitív érzelmi viszonya alakul a természethez, az emberi alkotásokhoz, tanulja azok védelmét, az értékek megőrzését.
 
-2. A gyermek, miközben felfedezi környezetét, olyan tapasztalatok birtokába jut, amelyek a környezetben való, életkorának megfelelő biztos eligazodáshoz, tájékozódáshoz szükségesek. Megismeri a szülőföld, az ott élő emberek, a hazai táj, a helyi hagyományok és néphagyományok, szokások, a családi és a tárgyi kultúra értékeit, megtanulja ezek szeretetét, védelmét is.
+2.[^8] A gyermek, miközben felfedezi környezetét, olyan tapasztalatok birtokába jut, amelyek a környezetben való, életkorának megfelelő biztos eligazodáshoz, tájékozódáshoz szükségesek. Megismeri a szülőföld, az ott élő emberek, a hazai táj, a helyi hagyományok és néphagyományok, szokások, a közösséghez való tartozás élményét, a nemzeti, családi és a tárgyi kultúra értékeit, megtanulja ezek szeretetét, védelmét.
 
 3. A gyermek a környezet megismerése során matematikai tartalmú tapasztalatoknak, ismereteknek is birtokába jut és azokat a tevékenységeiben alkalmazza. Felismeri a mennyiségi, alaki, nagyságbeli és téri viszonyokat: alakul ítélőképessége, fejlődik tér-, sík- és mennyiségszemlélete.
 
@@ -304,10 +306,16 @@ A szociálisan érett gyermek:
 
 – feladattudata kialakulóban van, s ez a feladat megértésében, feladattartásban, a feladatok egyre eredményesebb – szükség szerint kreatív – elvégzésében nyilvánul meg; kitartásának, munkatempójának, önállóságának, önfegyelmének alakulása biztosítja ezt a tevékenységet.
 
-3.[^3] A hároméves kortól kötelező óvodába járás ideje alatt az óvodai nevelési folyamat célja, feladata a gyermeki személyiség harmonikus testi és szociális fejlődésének elősegítése.
+3.[^9] A hároméves kortól kötelező óvodába járás ideje alatt az óvodai nevelési folyamat célja, feladata a gyermeki személyiség harmonikus testi és szociális fejlődésének elősegítése.
 
 4. A sajátos nevelési igényű gyermekek esetében folyamatos, speciális szakemberek segítségével végzett pedagógiai munka mellett érhető csak el a fentiekben leírt fejlettséget.
 
 5. A kiemelt figyelmet igénylő gyermekek iskolaérettségi kritériumai tükrözik a befogadó intézmény elvárásait az iskolába kerülő gyermekekkel szemben.
 
-[^3]: Az 1. melléklet VI. pont 3. alpontja ugyanezen rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 1. melléklet III. címe a 137/2018. (VII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet IV. cím Az óvoda kapcsolatai alcím 4. pontját a 137/2018. (VII. 25.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. melléklet V. cím Verselés mesélés alcím 2. pontja a 137/2018. (VII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet V. cím Verselés mesélés alcím 7. pontja a 137/2018. (VII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet V. cím Rajzolás, festés, mintázás, kézi munka alcím 1. pontja a 137/2018. (VII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: Az 1. melléklet V. cím A külső világ tevékeny megismerése alcím 2. pontja a 137/2018. (VII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet VI. pont 3. alpontja ugyanezen rendelet 2. §-ával megállapított szöveg.
