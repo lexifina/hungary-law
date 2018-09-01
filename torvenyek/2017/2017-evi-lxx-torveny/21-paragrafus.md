@@ -6,7 +6,11 @@
 
 3.
 
-4.
+4. 56. § (1) bekezdésében
+
+a) a „tanulót” szövegrész helyébe a „sajátos nevelési igényű tanulót”,
+
+b) a „véleménye” szövegrész helyébe a „szakértői véleménye”,
 
 5–10.
 

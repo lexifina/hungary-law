@@ -2,11 +2,11 @@
 
 1.
 
-2.
+2. 20. § (1) bekezdés a) pontja és (10) bekezdése,
 
 3–5.
 
-6.
+6. 65. § (9b) bekezdése,
 
 7–8.
 
