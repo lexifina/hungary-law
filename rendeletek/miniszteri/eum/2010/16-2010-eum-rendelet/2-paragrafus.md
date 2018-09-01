@@ -1,4 +1,4 @@
-## 2. [^2] A szakképzési központ feladata a szakképzéssel kapcsolatban
+## 2. [^3] A szakképzési központ feladata a szakképzéssel kapcsolatban
 
 ## 2. § Az orvos- és egészségtudományi képzést folytató felsőoktatási intézményben (a továbbiakban: egyetem) a szakképzés koordinációját és technikai, szervezési feladatait végző szervezeti egység (szakképzési központ) feladata a szakképzéssel kapcsolatosan:
 
@@ -16,7 +16,7 @@ f) külső képzőhelyekkel való kapcsolattartás, valamint a külső képzőhe
 
 g) a szakképzés során a jelöltek kötelező tanfolyamainak szervezése és
 
-h)[^3] folyamatos kapcsolattartás az Állami Egészségügyi Ellátó Központtal (a továbbiakban: ÁEEK) a szakképzés adminisztrációjának biztosítása érdekében.
+h)[^4] folyamatos kapcsolattartás az Állami Egészségügyi Ellátó Központtal (a továbbiakban: ÁEEK) a szakképzés adminisztrációjának biztosítása érdekében.
 
-[^2]: A 2. alcím (2. §) a 34/2015. (VI. 30.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^3]: A 2. § h) pontja az 54/2016. (XII. 30.) EMMI rendelet 72. § a) pontja szerint módosított szöveg.
+[^3]: A 2. alcím (2. §) a 34/2015. (VI. 30.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § h) pontja az 54/2016. (XII. 30.) EMMI rendelet 72. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-4. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^107]
+4. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^113]
 
 A támogatott szakképzés szakképzési grémiumai
 
@@ -102,4 +102,4 @@ A támogatott szakképzés szakképzési grémiumai
 
 | 49. | Szakpszichológus | 2 |
 
-[^107]: A 4. mellékletet a 34/2015. (VI. 30.) EMMI rendelet 17. §-a iktatta be, szövege a 28/2016. (IX. 29.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^113]: A 4. mellékletet a 34/2015. (VI. 30.) EMMI rendelet 17. §-a iktatta be, szövege a 28/2016. (IX. 29.) EMMI rendelet 6. §-ával megállapított szöveg.
