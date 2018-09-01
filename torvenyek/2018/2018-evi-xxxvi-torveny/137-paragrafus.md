@@ -9,11 +9,3 @@
 (5) A 108–116. § az Alaptörvény 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 (6) A 117–122. § az Alaptörvény XXIX. cikk (3) bekezdése alapján sarkalatosnak minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
