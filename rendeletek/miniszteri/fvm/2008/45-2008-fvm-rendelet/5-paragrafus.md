@@ -16,7 +16,7 @@ b)[^9] Magyarország tagállami kódját,
 
 c)[^10] a NÉBIH, nevét vagy azonosító kódját,
 
-d)[^11] a forgalmazó NÉBIH-től kapott nyilvántartási számát,
+d)[^11] a forgalmazói tevékenységre vonatkozó, a növénytermesztési hatáskörben eljáró járási hivatal által kiadott engedély számát,
 
 e) az egyedi sorszámot, naptári hét- vagy tételszámot,
 
@@ -40,7 +40,7 @@ b)[^12] a NÉBIH, nevének vagy kódjának,
 
 c) a fajta, az alany vagy a növénycsoport nevének,
 
-d)[^13] a forgalmazó nyilvántartási számának, amelyet a NÉBIH-től kapott, valamint
+d)[^13] a forgalmazói tevékenységre vonatkozó, a növénytermesztési hatáskörben eljáró járási hivatal által kiadott engedély számának, valamint
 
 e) harmadik országból való származás esetén az előállító ország nevének.
 
@@ -55,7 +55,7 @@ e) harmadik országból való származás esetén az előállító ország nevé
 [^8]: Az 5. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 92. § c) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 110. § a) pontja szerint módosított szöveg.
 [^9]: Az 5. § (5) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 36. §-a szerint módosított szöveg.
 [^10]: Az 5. § (5) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 92. § c) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 110. § a) pontja szerint módosított szöveg.
-[^11]: Az 5. § (5) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 109. § e) pontja szerint módosított szöveg.
+[^11]: Az 5. § (5) bekezdés d) pontja a 24/2018. (VIII. 31.) AM rendelet 14. § a) pontjával megállapított szöveg.
 [^12]: Az 5. § (6) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 92. § c) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 110. § a) pontja szerint módosított szöveg.
-[^13]: A 6. § d) pontja a 42/2017. (VIII. 17.) FM rendelet 109. § e) pontja szerint módosított szöveg.
+[^13]: Az 5. § (6) bekezdés d) pontja a 24/2018. (VIII. 31.) AM rendelet 14. § b) pontja szerint módosított szöveg.
 [^14]: Az 5. § (9) bekezdése a 70/2013. (VII. 31.) VM rendelet 92. § c) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § a) pontja szerint módosított szöveg.

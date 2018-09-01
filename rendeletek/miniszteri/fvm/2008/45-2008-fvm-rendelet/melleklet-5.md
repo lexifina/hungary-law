@@ -62,7 +62,7 @@
 
 ## aláírás
 
-5. számú melléklet a 45/2008. (IV. 11.) FVM rendelethez[^31]
+5. számú melléklet a 45/2008. (IV. 11.) FVM rendelethez[^39]
 
 Szemlemegrendelő mintája
 
@@ -108,5 +108,5 @@ a termeltetési szerződés keretében termelt dísznövény szaporítóanyagok 
 
 nyilvántartásban szereplő forgalmazó aláírása
 
-[^31]: Az 5. számú melléklet a 19/2014. (III. 12.) VM rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^39]: Az 5. számú melléklet a 19/2014. (III. 12.) VM rendelet 24. § (1) bekezdésével megállapított szöveg.
 [^*]: Kizárólag a Nemzeti Élelmiszerlánc-biztonsági Hivatal dísznövény szaporítóanyag forgalmazók nyilvántartásában nem szereplő területeket kell bejelenteni. A pótlapokat termelőnként kell kiállítani.

@@ -1,87 +1,43 @@
-## Nyilvántartásba vétel iránti kérelem mintája
+## A dísznövény szaporítóanyag előállítói és forgalmazói tevékenység engedélyezése iránti kérelem formanyomtatvány adattartalma és mellékletei:
 
-| Hivatali iktatószám: ................................................. Dísznövény szaporítóanyag forgalmazói nyilvántartási számom: ................................................................. |
+## 1. A dísznövény szaporítóanyag előállítói és forgalmazói tevékenység engedélyezése iránti kérelem formanyomtatvány adattartalma:
 
-## NYILVÁNTARTÁSBA VÉTEL IRÁNTI KÉRELEM
+## 1.1. a kérelmező adatai [természetes személy ügyfél esetén név, lakcím, adóazonosító jel; jogi személy, valamint jogi személyiség nélküli szervezet esetén az azonosító adatok (cégnév, adószám, székhely, telephely)],
 
-## a dísznövény szaporítóanyag forgalmazók 45/2008. (IV. 11.) FVM rendelet szerinti nyilvántartásba vételéhez, adatmódosításához és törléséhez
+## 1.2. a kapcsolattartó neve és elérhetősége,
 
-## Beküldendő: Nemzeti Élelmiszerlánc-biztonsági Hivatal 1525 Budapest 114. Pf. 30
+## 1.3. a tevékenység megjelölése (termesztés és forgalmazás, nagykereskedelem),
 
-## Alulírott, az alábbiakban részletezett adatok szerint kérem a
+## 1.4. a tevékenység helye (helység, utca/hsz, hrsz., m2),
 
-## ~ dísznövény szaporítóanyag forgalmazók nyilvántartásába való felvételemet
+## 1.5. a szaporítóanyagok felsorolása, amelyre a kérelmező a tevékenységet kérelmezi:
 
-## ~ dísznövény szaporítóanyag forgalmazók nyilvántartásában a területem, illetve az adataim módosítását
+## 1.5.1. díszfaiskolai (díszfa, díszcserje, örökzöld)
 
-## ~ dísznövény szaporítóanyag forgalmazók nyilvántartásából való törlésemet
+## 1.5.2. egy- és kétnyári
 
-## Kérelmező neve:   módosítás: ~
+## 1.5.3. szabadföldi évelő
 
-## Kérelmező cég rövidített neve:
+## 1.5.4. cserepes dísznövény
 
-## Kérelmező címe:   módosítás: ~
+## 1.5.5. vágott virág és vágott zöld szaporítóanyaga
 
-## Kérelmező levelezési címe:   módosítás: ~
+## 1.5.6. hagymás, gumós, hagymagumós, rhizómás növények
 
-## Kérelmező adószáma:   módosítás: ~
+## 1.5.7. vízi növény
 
-## Kapcsolattartó személy neve:   módosítás: ~
+## 1.5.8. vetőmag,
 
-## Kapcsolattartó szakképzettsége  Biz./okl. száma: ............................................
+## 1.6. a kérelmező növény-egészségügyi regisztrációs száma.
 
-## Tel.:  . Fax: ...............................................................
+## 2. A dísznövény szaporítóanyag előállítói és forgalmazói tevékenység engedélyezése iránti kérelem mellékletei:
 
-## Tevékenységem:
+## 2.1. a termékpálya szerinti terméktanácsi tagság igazolása,
 
-## ~ dísznövény szaporítóanyag termesztés és forgalmazás ~ dísznövény szaporítóanyag nagykereskedelem
+## 2.2. az 1.4. pont szerinti területek beazonosítására alkalmas helyszínrajz,
 
-## A fent jelölt tevékenységemet az alábbi területeken végzem: Csatolt lapok száma: ...........db
+## 2.3. jogszerű területhasználat igazolása (tulajdoni lap vagy haszonbérleti szerződés),
 
-## Helység utca/hsz. hrsz. m2 törlés
-
-## ~
-
-## ~
-
-## ~
-
-## ~
-
-## ~
-
-## ~
-
-## ~
-
-## összesen: .......................................
-
-## Tevékenységem a következő növények szaporítóanyagaira terjed ki:
-
-| ~ díszfaiskolai (díszfa, díszcserje, örökzöld) ~ egy- és kétnyári ~ szabadföldi évelő ~ cserepes dísznövény ~ vágott virág és vágott zöld szaporítóanyaga ~ hagymás, gumós, hagymagumós, rhizómás növények ~ vízi növény |
-
-## A kérelmező növény-egészségügyi regisztrációs száma: ................................................................
-
-## Nyilatkozom, hogy a fenti területeket jogszerűen használom.
-
-## Tudomásul veszem, hogy az itt közölt adataimban bekövetkezett változásokat 30 napon belül be kell jelentenem a NÉBIH részére.
-
-## A kérelemhez csatoltam a következőket:
-
-## ~ Termékpálya szerinti terméktanácsi tagság (szakmai szövetség és/vagy szervezet) igazolása
-
-## ~ Helyszínrajz
-
-## ~ A terület növény-egészségügyi alkalmasságának igazolása
-
-## Megjegyzés:
-
-## Dátum: ..................................................................
-
-## ..................................................................
-
-## aláírás
-
-## P. H.
+## 2.4. a terület növény-egészségügyi alkalmasságának igazolása (növény-egészségügyi jegyzőkönyv).
 
 4. számú melléklet a 45/2008. (IV. 11.) FVM rendelethez
