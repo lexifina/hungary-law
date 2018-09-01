@@ -6,7 +6,7 @@ a) a kiadás az államháztartás szabályozása szerint a dologi kiadások kör
 
 b) a kiadás bizonylatolása megfelel-e a számvitelről szóló törvény és az általános forgalmi adóról szóló törvény előírásainak,
 
-c) a kiadás kifizetése a kampányidőszak alatt kincstári kártyával vagy átutalással történt-e.
+c) a kiadás kifizetése a kampányidőszak alatt, de legkésőbb a kampányidőszak végét követő harmadik munkanapon kincstári kártyával vagy átutalással történt-e.
 
 (3) Az a pártlistát állító párt, amely a 2/A. § szerint folyósított 1. § szerinti támogatással a (2) bekezdés szerinti határidőben
 
