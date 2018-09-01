@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-65-00-00
 | 2016-01-02 | 2010. évi CXXX. törvény | 2015-65-00-00.6 |
 | 2016-09-01 | 2016. évi LXXX. törvény | 2015-65-00-00.7 |
 | 2016-09-02 | 2010. évi CXXX. törvény | 2015-65-00-00.8 |
+| 2018-09-01 | 2010. évi CXXX. törvény | 2015-65-00-00.9 |
