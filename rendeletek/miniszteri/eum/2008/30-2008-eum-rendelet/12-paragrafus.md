@@ -4,16 +4,12 @@
 
 (2)[^31] Az (1) bekezdés szerinti hatósági bizonyítványban az ÁEEK a kérelem benyújtását megelőző öt év tekintetében igazolja, hogy a kérelmező legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott egészségügyi tevékenységet Magyarországon. A szakmai gyakorlatba az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény hatálybalépését követő időszak tekintetében annak 7. § (2) bekezdése szerinti jogviszonyokban eltöltött időtartam számítható be.
 
-(3)[^32] Az ÁEEK az Etv. 60/B. §-a szerinti hatósági bizonyítványt állít ki a 2004. május 1-jét megelőzően Magyarországon szülésznői oklevelet szerzett tagállami állampolgár kérelmező részére, ha az oklevél legalább hároméves, nappali tagozatos szülésznőképzés sikeres elvégzését tanúsítja, valamint
+(3)[^32]
 
-a) a kérelmező képzése és szakmai gyakorlata az 1. melléklet szerinti minimális követelményeknek megfelel, és
-
-b) a kérelmező igazolja, hogy a kérelem benyújtását megelőző öt év során legalább kettő évig Magyarországon ténylegesen és jogszerűen gyakorolta a szülésznői tevékenységet.
-
-(4)[^33] A (2) és a (3) bekezdés alkalmazásában a szakmai gyakorlat időtartamát és jogszerűségét az ÁEEK a munkáltató nyilatkozata, illetve a nem alkalmazottként foglalkoztatott egészségügyi dolgozók esetében a tevékenységet engedélyező szerv igazolása, valamint az egészségügyi dolgozók működési nyilvántartása szerinti adatok alapján igazolja.
+(4)[^33] A (2) bekezdés alkalmazásában a szakmai gyakorlat időtartamát és jogszerűségét az ÁEEK a munkáltató nyilatkozata, illetve a nem alkalmazottként foglalkoztatott egészségügyi dolgozók esetében a tevékenységet engedélyező szerv igazolása, valamint az egészségügyi dolgozók működési nyilvántartása szerinti adatok alapján igazolja.
 
 [^29]: A 11. § az 54/2016. (XII. 30.) EMMI rendelet 60. § c) pontja szerint módosított szöveg.
 [^30]: A 12. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 60. § c) pontja szerint módosított szöveg.
 [^31]: A 12. § (2) bekezdése a 14/2014. (III. 10.) EMMI rendelet 4. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 60. § c) pontja szerint módosított szöveg.
-[^32]: A 12. § (3) bekezdés nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 60. § c) pontja szerint módosított szöveg.
-[^33]: A 12. § (4) bekezdése a 14/2014. (III. 10.) EMMI rendelet 4. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 60. § c) pontja szerint módosított szöveg.
+[^32]: A 12. § (3) bekezdését a 28/2018. (VIII. 29.) EMMI rendelet 2. § a) pontja hatályon kívül helyezte.
+[^33]: A 12. § (4) bekezdése a 14/2014. (III. 10.) EMMI rendelet 4. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 60. § c) pontja, a 28/2018. (VIII. 29.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
