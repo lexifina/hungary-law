@@ -264,7 +264,7 @@
 
 | 130. | 129. | 54 | 815 | 02 | Kozmetikus | Egyéb szolgáltatások |
 
-| 131. | 130. | 34 | 582 | 07 | Kőfaragó, műköves és épületszobrász | Építészet |
+| 131. |  |  |  |  |  |  |
 
 | 132. |  |  |  |  |  |  |
 
@@ -650,6 +650,10 @@
 
 | 323. | 322. | 35 | 522 | 20 | Kisfeszültségű mérőhelyi FAM szerelő | Elektrotechnika-elektronika |
 
+| 324. | 323. | 34 | 582 | 16 | Épületszobrász és műköves | Építészet |
+
+| 325. | 324. | 34 | 582 | 17 | Kőfaragó | Építészet |
+
 2. melléklet a 27/2012. (VIII. 27.) NGM rendelethez[^3]
 
 Az 1. sorszámú Abroncsgyártó megnevezésű szakképesítés szakmai és vizsgakövetelménye
@@ -792,15 +796,15 @@ A szakképesítéssel rendelkező képes:
 
 | 4.3. | 10076-16 | Általános gumiipari feladatok |
 
-| 4.4 | 11804-16 | Extruder gép kezelés |
+| 4.4 | 11804-16 | Extrudergép-kezelés |
 
-| 4.5 | 11803-16 | Felépítő gép kezelés |
+| 4.5 | 11803-16 | Felépítőgép-kezelés |
 
-| 4.6 | 11805-16 | Kalander gép kezelés |
+| 4.6 | 11805-16 | Kalandergép-kezelés |
 
 | 4.7. | 10079-16 | Kaucsukalapú keverékek készítése |
 
-| 4.8 | 11839-16 | Vágó gép kezelés |
+| 4.8 | 11839-16 | Vágógépkezelés |
 
 | 4.9 | 11802-16 | Vulkanizáló gép kezelés |
 
@@ -828,15 +832,15 @@ Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizo
 
 | 5.2.3. | 10076-16 | Általános gumiipari feladatok | gyakorlati |
 
-| 5.2.4. | 11804-16 | Extruder gép kezelés | gyakorlati |
+| 5.2.4. | 11804-16 | Extrudergép-kezelés | gyakorlati |
 
-| 5.2.5. | 11803-16 | Felépítő gép kezelés | gyakorlati |
+| 5.2.5. | 11803-16 | Felépítőgép-kezelés | gyakorlati |
 
-| 5.2.6. | 11805-16 | Kalander gép kezelés | gyakorlati |
+| 5.2.6. | 11805-16 | Kalandergép-kezelés | gyakorlati |
 
 | 5.2.7. | 10079-16 | Kaucsukalapú keverékek készítése | gyakorlati |
 
-| 5.2.8. | 11839-16 | Vágó gép kezelés | gyakorlati |
+| 5.2.8. | 11839-16 | Vágógépkezelés | gyakorlati |
 
 | 5.2.9. | 11802-16 | Vulkanizáló gép kezelés | gyakorlati |
 
@@ -1224,27 +1228,29 @@ A szakképesítéssel rendelkező képes:
 
 | 3.3.6. | 34 582 13 | Burkoló | azonos ágazat |
 
-| 3.37. | 34 582 04 | Festő, mázoló, tapétázó | azonos ágazat |
+| 3.3.7. | 34 582 16 | Épületszobrász és műköves | azonos ágazat |
 
-| 3.3.8. | 54 582 02 | Hídépítő és -fenntartó technikus | azonos ágazat |
+| 3.3.8. | 34 582 04 | Festő, mázoló, tapétázó | azonos ágazat |
 
-| 3.3.9. | 34 582 07 | Kőfaragó, műköves és épületszobrász | azonos ágazat |
+| 3.3.9. | 54 582 02 | Hídépítő és -fenntartó technikus | azonos ágazat |
 
-| 3.3.10. | 34 582 14 | Kőműves | azonos ágazat |
+| 3.3.10. | 34 582 17 | Kőfaragó | azonos ágazat |
 
-| 3.3.11. | 54 582 03 | Magasépítő technikus | azonos ágazat |
+| 3.3.11. | 34 582 14 | Kőműves | azonos ágazat |
 
-| 3.3.12. | 54 582 04 | Mélyépítő technikus | azonos ágazat |
+| 3.3.12. | 54 582 03 | Magasépítő technikus | azonos ágazat |
 
-| 3.3.13. | 34 582 10 | Szárazépítő | azonos ágazat |
+| 3.3.13. | 54 582 04 | Mélyépítő technikus | azonos ágazat |
 
-| 3.3.14. | 34 582 15 | Tetőfedő | azonos ágazat |
+| 3.3.14. | 34 582 10 | Szárazépítő | azonos ágazat |
 
-| 3.3.15. | 34 582 11 | Útépítő | azonos ágazat |
+| 3.3.15. | 34 582 15 | Tetőfedő | azonos ágazat |
 
-| 3.3.16. | 54 582 05 | Útépítő és -fenntartó technikus | azonos ágazat |
+| 3.3.16. | 34 582 11 | Útépítő | azonos ágazat |
 
-| 3.3.17. | 54 582 06 | Vasútépítő és -fenntartó technikus | azonos ágazat |
+| 3.3.17. | 54 582 05 | Útépítő és -fenntartó technikus | azonos ágazat |
+
+| 3.3.18. | 54 582 06 | Vasútépítő és -fenntartó technikus | azonos ágazat |
 
 4. SZAKMAI KÖVETELMÉNYEK
 
@@ -3758,6 +3764,34 @@ A szakképesítéssel rendelkező képes:
 
 | 3.3.3. | 33 582 01 | Díszműbádogos | szakképesítés-ráépülés |
 
+| 3.3.4. | 34 582 01 | Ács | azonos ágazat |
+
+| 3.3.5. | 34 582 13 | Burkoló | azonos ágazat |
+
+| 3.3.6. | 34 582 16 | Épületszobrász és műköves | azonos ágazat |
+
+| 3.3.7. | 34 582 04 | Festő, mázoló, tapétázó | azonos ágazat |
+
+| 3.3.8. | 54 582 02 | Hídépítő és -fenntartó technikus | azonos ágazat |
+
+| 3.3.9. | 34 582 17 | Kőfaragó | azonos ágazat |
+
+| 3.3.10. | 34 582 14 | Kőműves | azonos ágazat |
+
+| 3.3.11. | 54 582 03 | Magasépítő technikus | azonos ágazat |
+
+| 3.3.12. | 54 582 04 | Mélyépítő technikus | azonos ágazat |
+
+| 3.3.13. | 34 582 10 | Szárazépítő | azonos ágazat |
+
+| 3.3.14. | 34 582 15 | Tetőfedő | azonos ágazat |
+
+| 3.3.15. | 34 582 11 | Útépítő | azonos ágazat |
+
+| 3.3.16. | 54 582 05 | Útépítő és -fenntartó technikus | azonos ágazat |
+
+| 3.3.17. | 54 582 06 | Vasútépítő és -fenntartó technikus | azonos ágazat |
+
 4. SZAKMAI KÖVETELMÉNYEK
 
 |  | A | B |
@@ -4400,7 +4434,7 @@ A szakképesítéssel rendelkező képes:
 
 | 4.5. | 11500-12 | Munkahelyi egészség és biztonság |
 
-| 4.6. | 10196-12 | Bányászati alapismeretek |
+| 4.6. | 10196-16 | Bányászati alapismeretek |
 
 | 4.7. | 10194-12 | Bányagépek működtetése |
 
@@ -4410,7 +4444,7 @@ A szakképesítéssel rendelkező képes:
 
 | 4.10. | 10198-12 | Logisztika, karbantartás |
 
-| 4.11. | 11420-13 | Külszíni bányászat |
+| 4.11. | 11420-12 | Külszíni bányászat |
 
 5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
 
@@ -4428,7 +4462,7 @@ Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizo
 
 | 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsga-tevékenysége |
 
-| 5.2.3 | 10196-12 | Bányászati alapismeretek | gyakorlati |
+| 5.2.3 | 10196-16 | Bányászati alapismeretek | gyakorlati |
 
 | 5.2.4. | 10194-12 | Bányagépek működtetése | gyakorlati, szóbeli |
 
@@ -4444,7 +4478,7 @@ Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizo
 
 | 5.2.10. | 11500-12 | Munkahelyi egészség és biztonság | írásbeli |
 
-| 5.2.11. | 11420-13 | Külszíni bányászat | szóbeli |
+| 5.2.11. | 11420-12 | Külszíni bányászat | szóbeli |
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
@@ -5026,78 +5060,4 @@ A vizsgafeladat ismertetése: A központi vizsgafeladatok az alábbi témakörö
 
 Ékszer és dísztárgy típusok jellemzői
 
-Készítési és díszítő technikák
-
-Liturgikus rendeltetésű ötvöstárgyak
-
-Nagy ékszerházak kialakulása
-
-Tömegtermelés a nemesfémiparban
-
-Divatékszerek megjelenése, tulajdonságai
-
-Órák, ékszerórák, óraszerkezetek jellemzői
-
-Általános drágakőtudomány: szakkifejezések, fizikai-kémiai tulajdonságok, csiszolási formák
-
-A gyémánt tulajdonságai, minősítése, összetévesztési lehetőségei
-
-A fontosabb színes drágakövek jellemzői
-
-Szintetikus kövek, műtermékek, utánzatok tulajdonságai
-
-Drágakő-vizsgálati eszközök, műszerek, módszerek
-
-Nemesfémek fajtái, ötvözetei, jellemzői, ötvözetszámítás
-
-Nemesfém-vizsgálati módszerek
-
-Nemesfémek hitelesítése, a fémjelzés története
-
-Ékszer- és fémjel-hamisítások módszerei, felismerésük lehetőségei
-
-Kommunikáció a felvevőhelyen
-
-Biztonsági, vagyonvédelmi előírások
-
-Műtárgyvédelem, védett műtárgyak, vámügyi szabályok
-
-A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 10 %
-
-B) A vizsgafeladat megnevezése: A képzőművészet (festmény, grafika) története
-
-A vizsgafeladat ismertetése: A központi vizsgafeladatok az alábbi témakörök alapján kerülnek összeállításra:
-
-A művészettörténeti korok, stílusok és stílusjegyeik
-
-Az egyetemes és a magyar festészet korszakai, fejlődéstörténete, a kiemelkedő mesterek és alkotásaik
-
-Az egyes festészeti irányzatokat meghatározó festőiskolák, műhelyek, azok legismertebb mesterei és alkotásaik
-
-A festészeti műfajok az ábrázolás technikai eszközei
-
-Festészeti technikák
-
-Grafikák anyagai, különféle tintafajták
-
-Száraz grafikai technikák
-
-Sokszorosítási eljárások és jellegzetességeik
-
-A mesterek jelzései, szignatúrái
-
-Másolás, utánérzés hamisítás
-
-Kommunikáció a felvevőhelyen
-
-Biztonsági, vagyonvédelmi előírások
-
-Műtárgyvédelem, védett műtárgyak, vámügyi szabályok
-
-A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 10 %
-
-[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet, a 25/2014. (VIII. 26.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 2. §-a, a 29/2015. (X. 21.) NGM rendelet 3. §-a, a 29/2016. (VIII. 26.) NGM rendelet 1. § (2) bekezdése és 3. § (2) bekezdése, az 5/2017. (III. 30.) NGM rendelet 1. §-a, a 25/2017. (VIII. 31.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet, a 25/2014. (VIII. 26.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 2. §-a, a 29/2015. (X. 21.) NGM rendelet 3. §-a, a 29/2016. (VIII. 26.) NGM rendelet 1. § (2) bekezdése és 3. § (2) bekezdése, az 5/2017. (III. 30.) NGM rendelet 1. §-a, a 25/2017. (VIII. 31.) NGM rendelet 1. § (2) bekezdése, a 9/2018. (VIII. 21.) ITM rendelet 1. § (2) bekezdése és 2. § b) pontja szerint módosított szöveg.
