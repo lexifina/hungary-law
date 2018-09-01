@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-25-20-2
 | 2017-01-01 | 2013-25-20-2W.8 | 47/2015. (VIII. 31.) NFM rendelet |
 | 2017-03-01 | 2013-25-20-2W.9 | 47/2015. (VIII. 31.) NFM rendelet |
 | 2018-01-01 | 2013-25-20-2W.10 | 47/2015. (VIII. 31.) NFM rendelet |
+| 2018-09-01 | 2013-25-20-2W.11 | 10/2018. (VIII. 21.) ITM rendelet |
