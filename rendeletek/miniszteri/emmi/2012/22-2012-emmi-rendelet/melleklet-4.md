@@ -1030,37 +1030,7 @@
 
 ## 28. ORVOSI REHABILITÁCIÓ
 
-## 1. ORVOSI REHABILITÁCIÓ MOZGÁSSZERVI TERÜLETEN
-
-## 1.1. Képzés belépési feltétele: szakvizsga bármely alap szakképesítésbõl
-
-## 1.2. Képzési idõ: 62-96 hó: 38-72 hó alapképzés + 24 hó ráépített képzés
-
-## 1.3. Képzési program:
-
-## a) 1 hó gyermek rehabilitációs gyakorlat
-
-## b) 1 hó pulmonológiai rehabilitációs gyakorlat
-
-## c) 1 hó kardiológiai rehabilitációs gyakorlat
-
-## d) 1 hó koponyasérült osztályos rehabilitáció
-
-## e) 1 hó paraplegia-osztályos gyakorlat
-
-## f) 19 hó mozgásszervi rehabilitációs osztályos gyakorlat, benne:
-
-## fa) rehabilitációs alapismeretek I–II. (2 hét)
-
-## fb) fizikoterápia I–II. (2 hét)
-
-## fc) ortetika, protetika (1 hét)
-
-## fd) humánkineziológia (2 nap)
-
-## 1.4. Szakvizsgára bocsátás egyéb feltételei
-
-## -
+## 1.
 
 ## 2. ORVOSI REHABILITÁCIÓ A KARDIOLÓGIA TERÜLETÉN
 
@@ -1276,4 +1246,6 @@
 
 ## –
 
-4. melléklet a 22/2012. (IX. 14.) EMMI rendelethez
+4. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^29]
+
+[^29]: A 4. melléklet a 28/2018. (VIII. 29.) EMMI rendelet 10. § d) pontja és 12. § d) pontja szerint módosított szöveg.

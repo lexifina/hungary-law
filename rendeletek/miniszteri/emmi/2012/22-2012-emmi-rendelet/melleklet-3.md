@@ -280,47 +280,57 @@
 
 ## Meghatározott számú és típusú beavatkozás teljesítése.
 
-## 7. REHABILITÁCIÓS ORVOSLÁS
+## 7. REHABILITÁCIÓS MEDICINA
 
-## 1. Képzési idõ: 60 hónap
+## 1. Képzési idő: 60 hónap
 
 ## 2. Képzési program:
 
 ## 2.1. 24 hó törzsképzési program:
 
-## a) 6 hó sürgõsségi gyakorlat
+## 2.1.1. 6 hó sürgősségi gyakorlat
 
-## b) 1 hó törzsképzési tanfolyam
+## 2.1.2. 1 hó törzsképzési tanfolyam
 
-## c) 3 hó gyakorlat akkreditált rehabilitációs osztályon (neuro-musculosceletalis, rehabilitációs alaptevékenység)
+## 2.1.3. 3 hó gyakorlat akkreditált rehabilitációs osztályon: rehabilitációs alaptevékenység
 
-## d) 5 hó neurológia:
+## 2.1.4. 4 hó neurológia olyan neurológiai osztályon, amely sürgősségi neurológiai stroke, lysis centrum egyaránt
 
-## da) 3 hó akut neurológiai osztályos gyakorlat
+## 2.1.5. 4 hó belgyógyászati gyakorlat
 
-## db) 2 hó neurorehabilitációs tevékenységet folytató mozgásszervi rehabilitációs osztályon
+## 2.1.6. 4 hó traumatológia gyakorlat
 
-## e) 3 hó belgyógyászati gyakorlat
-
-## f) 1 hó pulmonológiai gyakorlat
-
-## g) 1 hó kardiológiai gyakorlat
-
-## h) 4 hó traumatológia és ortopédia
+## 2.1.7. 2 hó reumatológia gyakorlat
 
 ## 2.2. 36 hó szakgyakorlati képzés:
 
-## a) 2 hó reumatológiai osztály és ambulancia
+## 2.2.1. 4 hó döntően reumatológiai profilú rehabilitációs osztály és ambulancia vagy reumatológiai osztály és ambulancia
 
-## b) 3 hó fizikoterápiás, balneoterápiás gyakorlat
+## 2.2.2. 1 hó fizikoterápiás, balneoterápiás gyakorlat
 
-## c) 30 hó rehabilitációs medicina:
+## 2.2.3. 3 hó döntően neurológiai profilú rehabilitációs osztály és ambulancia vagy neurológiai osztály és ambulancia,
 
-## ca) legalább 20, legfeljebb 22 hó rehabilitációs medicina alaptevékenység és
+## 2.2.4. 3 hó döntően poszttraumás profilú rehabilitációs osztály és ambulancia vagy ortopédia osztály és ambulancia,
 
-## cb) legalább 8, legfeljebb 10 hó rehabilitációs medicina speciális programja, amelyek együtt tesznek ki 30 hónapot
+## 2.2.5. 1 hónap sebészeti vagy szeptikus csontsebészeti vagy szeptikus rehabilitációs profilú osztály vagy amputációs rehabilitációs osztály
 
-## d) 1 hó tanfolyamok: rehabilitációs alapismeretek, fizioterápiás alapismeretek, ortetika – protetika, kineziológia
+## 2.2.6. 6 hó speciális fakultatív képzés: reumatológia vagy ortopédia-traumatológia vagy neurológia vagy belgyógyászat vagy sebészet, vagy egyetemi szintű illetve országos intézeti specializált rehabilitációs medicina osztály
+
+## 2.2.7. 17 hó rehabilitációs medicina, amelyből
+
+## 2.2.7.1. 11 hó rehabilitációs medicina alaptevékenység
+
+## 2.2.7.2. 6 hó rehabilitációs medicina speciális programja
+
+## 2.2.8. 1 hó tanfolyam:
+
+## 2.2.8.1. Rehabilitációs alapismeretek
+
+## 2.2.8.2. Fizioterápiás alapismeretek I–II.
+
+## 2.2.8.3. Protetikai és ortetikai alapismeretek
+
+## 2.2.8.4. Humán Kineziológiai alapismeretek
 
 ## 3. Szakvizsgára bocsátás egyéb feltételei
 
@@ -1148,65 +1158,55 @@
 
 ## 25. NEFROLÓGIA
 
-## 1. Képzési idõ: 72 hónap
+## 1. Képzési idő: 60 hónap
 
 ## 2. Képzési program:
 
 ## 2.1. 24 hó törzsképzési program:
 
-## a) 6 hó sürgõsségi gyakorlat
+## 2.1.1. 6 hó sürgősségi gyakorlat
 
-## b) 1 hó törzsképzési tanfolyam
+## 2.1.2. 1 hó törzsképzési tanfolyamok
 
-## c) 5 hó belgyógyászati törzsképzési gyakorlat általános belgyógyászati osztályon
+## 2.1.3. 5 hó belgyógyászati törzsképzési gyakorlat: általános belgyógyászati osztályon vagy gyermekgyógyászati osztályon
 
-## d) 12 hó belgyógyászati alapgyakorlat:
+## 2.1.4. 12 hó belgyógyászati alapgyakorlat, amelyből:
 
-## da) 6 hét kardiológia
+## 2.1.4.1. 4 hó kardiológiai gyakorlat, gyermek-nefrológusoknak: gyermekkardiológiai gyakorlat
 
-## db) 6 hét pulmonológia
+## 2.1.4.2. 3 hó pulmonológiai gyakorlat, gyermek-nefrológusoknak: gyermekpulmonológiai gyakorlat
 
-## dc) 8 hét gasztroenterológia, hepatológia
+## 2.1.4.3. 5 hó gasztroenterológia, hepatológia, gyermek-nefrológusoknak: gyermek-gastroenterológiai, hepatológiai gyakorlat
 
-## dd) 8 hét endokrinológia, anyagcsere-betegségek
+## 2.2. 36 hó szakgyakorlati képzés:
 
-## de) 6 hét nefrológia, immunológia
+## 2.2.1. 6 hó belgyógyászati vagy gyermekgyógyászati gyakorlat
 
-## df) 6 hét hemato-onkológia
+## 2.2.2. 6 hó speciális fakultatív képzés a választott diszciplínákból, azaz belgyógyászat vagy csecsemő- és gyermekgyógyászat, illetve tudományos tevékenység
 
-## dg) 4 hét reumatológia, rehabilitáció
+## 2.2.3. 12 hó klinikai nefrológiai gyakorlat:
 
-## dh) 4 hét infektológia
+## 2.2.3.1. 8 hó nefrológiai centrumban töltendő el
 
-## 2.2. 48 hó szakgyakorlati képzés:
+## 2.2.3.2. 4 hó általános nefrológiai osztályos gyakorlat
 
-## a) 12 hó belgyógyászati vagy gyermekgyógyászati gyakorlat
+## 2.2.4. 12 hó vesepótló kezeléssel kapcsolatos gyakorlat:
 
-## b) 12 hó speciális fakultatív képzés választott diszciplinákból (belgyógyászat, csecsemõ- és gyermekgyógyászat), illetve tudományos tevékenység
+## 2.2.4.1. 6 hó hemodialízis gyakorlat
 
-## c) 12 hó klinikai nefrológiai gyakorlat:
+## 2.2.4.2. 2 hó peritonealis dialízis, illetve CAPD gyakorlat
 
-## ca) 8 hó nefrológiai centrumban töltendõ el
+## 2.2.4.3. 1 hó transzplantációs gyakorlat
 
-## cb) 4 hó általános nefrológiai osztályos gyakorlat
+## 2.2.4.4. 1 hó intenzív terápiás gyakorlat
 
-## d) 12 hó vesepótló kezeléssel kapcsolatos gyakorlat:
+## 2.2.4.5. 1 hó urológiai gyakorlat, gyermek-nefrológusok esetén gyermek-urológiai gyakorlat
 
-## da) 6 hó hemodialízis gyakorlat
+## 2.2.4.6. 1 hó gyakorlat felnőtt vagy gyermek-nefrológiai osztályon a specialitás jellegétől függően
 
-## db) 2 hó peritonealis dialízis, illetve CAPD gyakorlat
+## 3. Szakvizsgára bocsátás egyéb feltételei:
 
-## dc) 1 hó transzplantációs gyakorlat
-
-## dd) 1 hó intenzív terápiás gyakorlat
-
-## de) 1 hó urológiai gyakorlat (gyermek-nefrológusok esetén gyermek-urológiai gyakorlat az elõírás)
-
-## df) 1 hó gyakorlat felnõtt vagy gyermek-nefrológiai osztályon a specialitás jellegétõl függõen
-
-## 3. Szakvizsgára bocsátás egyéb feltételei
-
-## -
+## –
 
 ## 26. NEUROLÓGIA
 
@@ -1588,17 +1588,7 @@
 
 ## 3.1. Az alábbi tanfolyamok teljesítése:
 
-## a) folyadékterápia alapelvei a sürgõsségi ellátásban,
-
-## b) mikrosebészeti tanfolyam,
-
-## c) kézsebészeti szakvizsga-elõkészítõ tanfolyam,
-
-## d) traumatológiai tanfolyam,
-
-## e) mellrák komplex kezelése,
-
-## f) esztétikai továbbképzés.
+## 3.1.1. mikrosebészeti tanfolyam.
 
 ## 3.2. Meghatározott számú és típusú mûtéti beavatkozás teljesítése.
 
@@ -1720,41 +1710,39 @@
 
 ## 37. REUMATOLÓGIA
 
-## 1. Képzési idõ: 60 hónap
+## 1. Képzési idő: 60 hónap
 
 ## 2. Képzési program:
 
 ## 2.1. 24 hó törzsképzési program:
 
-## a) 6 hó sürgõsségi gyakorlat
+## 2.1.1. 6 hó sürgősségi gyakorlat
 
-## b) 1 hó törzsképzési tanfolyamok
+## 2.1.2. 1 hó törzsképzési tanfolyamok
 
-## c) 2 hó reumatológiai osztályos gyakorlat
+## 2.1.3. 2 hó reumatológiai osztályos gyakorlat
 
-## d) 15 hó belgyógyászati osztályos gyakorlat (7 hó általános belgyógyászat, 2-2 hó nephrológia, gasztroenterológia, haematológia, infektológia)
+## 2.1.4. 15 hó belgyógyászati osztályos gyakorlat, amelyből 7 hó általános aktív belgyógyászat, 2-2 hó nephrológia, gasztroenterológia, haematológia, 1-1 hó kardiológia és pulmonológia
 
 ## 2.2. 36 hó szakgyakorlati képzés:
 
-## a) 22 hó reumatológiai osztályos gyakorlat (legalább 2 különbözõ akkreditált osztályon, amelyek közül legalább 3 hó az egyik arthritis centrumban teljesítendõ)
+## 2.2.1. 23 hó reumatológiai osztályos gyakorlat: legalább 2 különböző akkreditált osztályon, amelyek közül legalább 3 hó az egyik arthritis centrumban teljesítendő
 
-## b) 6 hó szisztémás autoimmun betegséget kezelõ klinikai immunológiai osztályos gyakorlat
+## 2.2.2. 6 hó szisztémás autoimmun betegséget kezelő klinikai immunológiai osztályos gyakorlat
 
-## c) 1 hó ortopédiai osztályos gyakorlat
+## 2.2.3. 1 hó ortopédiai osztályos gyakorlat
 
-## d) 1 hó neurológiai osztályos gyakorlat
+## 2.2.4. 1 hó neurológiai osztályos gyakorlat
 
-## e) 1 hó mozgásszervi rehabilitációs osztályos gyakorlat
+## 2.2.5. 1 hó mozgásszervi rehabilitációs osztályos gyakorlat
 
-## f) 1 hó mozgásszervi UH- és MRI-gyakorlat
-
-## g) 4 hó önálló reumatológiai járóbeteg-szakrendelési gyakorlat
+## 2.2.6. 4 hó önálló reumatológiai járóbeteg-szakrendelési gyakorlat
 
 ## 3. Szakvizsgára bocsátás egyéb feltételei
 
-## 3.1. Mozgásszervi ultrahang-ismeretek tanfolyam (szakgyakorlat idején).
+## 3.1. Mozgásszervi ultrahang-ismeretek tanfolyam
 
-## 3.2. Immunológiai alapképzõ tanfolyam (a reumatológiai osztályos gyakorlat idején).
+## 3.2. Immunológiai alapképző tanfolyam, valamint szakvizsga előkészítő tanfolyam.
 
 ## 38. SEBÉSZET
 
@@ -2188,6 +2176,6 @@
 
 ## Szakvizsga-felkészítõ program sikeres teljesítése (évente 5x3 nap elméleti és gyakorlati képzés a teljes urológiai tananyagot felölelõen, forgó rendszerben).
 
-3. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^24]
+3. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^28]
 
-[^24]: A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (3) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (3) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § b) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 86. § c) pontja szerint módosított szöveg.
+[^28]: A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (3) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (3) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § b) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 86. § c) pontja, a 28/2018. (VIII. 29.) EMMI rendelet 12. § c) pontja szerint módosított szöveg.

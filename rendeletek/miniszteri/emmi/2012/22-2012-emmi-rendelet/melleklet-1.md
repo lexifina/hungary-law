@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^22]
+1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^26]
 
 1. Szakorvosi alap szakképesítések
 
@@ -210,9 +210,21 @@
 
 | 4. | 3. Gyermekfogászat | 36 hó | 26 hó | 10 hó |
 
-| 5. | 4. Konzerváló fogászat és fogpótlástan | 36 hó | 26 hó | 10 hó |
+| 5. |  |  |  |  |
 
 | 6. | 5. Parodontológia | 36 hó | 26 hó | 10 hó |
+
+| 7. | Endodontia | 36 hó | 26 hó | 10 hó |
+
+| 8. | Fogpótlástan | 36 hó | 26 hó | 10 hó |
+
+3a. Szakfogorvosi ráépített szakképesítések
+
+|  | A | B | C |
+
+| 1. | Szakképzés megnevezése | Bemeneti szakképesítés | Képzési idő |
+
+| 2. | Orális implantológia | konzerváló fogászat és fogpótlástan vagy parodontológia vagy dento-alveoláris sebész vagy arc-, állcsont-, szájsebészet szakvizsga és fogorvosi diploma vagy arc-, állcsont-, szájsebészet szakvizsga és fogorvosi szakképesítés | (36 hó) + 24 hó |
 
 4. Szakgyógyszerészi alap szakképesítések
 
@@ -326,4 +338,4 @@
 
 | 7. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
 
-[^22]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^26]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése, a 28/2018. (VIII. 29.) EMMI rendelet 10. § a)–b) pontja és 12. § b) pontja szerint módosított szöveg.
