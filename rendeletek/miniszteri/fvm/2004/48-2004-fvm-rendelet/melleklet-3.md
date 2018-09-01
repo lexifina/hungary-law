@@ -22,6 +22,8 @@ A. rész
 
 | 7. | Csenkesz-perje fajhibrid (x Festulolium Asch. & Graebn.) | Szuperelit, Elit, I. szaporítási fok |
 
+| 7a. | Csicserilednek (Lathyrus cicera L.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok, kereskedelmi |
+
 | 8. | Csillagpázsit (Cynodon dactylon L. Pers.) | Szuperelit, Elit, I. szaporítási fok, kereskedelmi |
 
 | 9. | Csomós ebír (Dactylis glomerata L.) | Szuperelit, Elit, I. szaporítási fok |
@@ -108,7 +110,7 @@ A. rész
 
 | 50. | Szarvaskerep (Lotus corniculatus L.) | Szuperelit, Elit, I. szaporítási fok |
 
-| 51. | Szegletes lednek (Csicseri lednek) (Lathyrus cicera L.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok, kereskedelmi |
+| 51. | szegletes lednek (Lathyrus sativus) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok, kereskedelmi |
 
 | 52. | Szeradella (Ornithopus sativus Brot.) | Szuperelit, Elit, I. szaporítási fok, II. szaporítási fok |
 
@@ -158,6 +160,8 @@ Szeradella (Ornithopus sativus Brot.)
 
 | 4. | Bíborhere | Trifolium incarnatum L. |
 
+| 4a. | Csicserilednek | Lathyrus cicera L. |
+
 | 5. | Eperhere | Trifolium fragiferum L. |
 
 | 6. | Fehérhere | Trifolium repens L. |
@@ -174,7 +178,7 @@ Szeradella (Ornithopus sativus Brot.)
 
 | 12. | Szarvaskerep | Lotus corniculatus L. |
 
-| 13. | Szegletes lednek (Csicseri lednek) | Lathyrus cicera L. |
+| 13. | Szegletes lednek | Lathyrus sativus |
 
 | 14. | Tarkavirágú lucerna | Medicago varia T. Martyn |
 
@@ -750,6 +754,8 @@ I. Mintavétel
 
 | 36. | Borsó (Pisum sativum) | 30 | 10 | 10 | 1000 | 900 | 1000 |
 
+| 36a. | Csicserilednek (Lathyrus cicera) | 25 |  |  | 1000 |  | 140 |
+
 | 37. | Eperhere (Trifolium fragiferum) | 10 |  |  | 40 |  | 4 |
 
 | 38. | Fehérhere (Trifolium repens) | 10 | 5 | 5 | 200 | 20 | 20 |
@@ -782,7 +788,7 @@ I. Mintavétel
 
 | 52. | Szarvaskerep (Lotus corniculatus) | 10 | 5 | 5 | 200 | 3 | 30 |
 
-| 53. | Szegletes lednek (Csicseri lednek) (Lathyrus cicera) | 25 |  |  | 1000 |  | 140 |
+| 53. | Szegletes lednek (Lathyrus sativus) | 25 |  |  | 1000 |  | 140 |
 
 | 54. | Szöszös bükköny (Vicia villosa) | 30 | 5 | 10 | 1000 | 100 | 1000 |
 
@@ -837,6 +843,8 @@ II. Vetőmagvizsgálati követelmények és minősítési határértékek
 | 7. | Cérnatippan (Agrostis capillaris) | 75 |  | 90 | 0,3 | 20 | 1 | 1 |  |  |  | 0 | 0 | 1 |  | 14 | – |
 
 | 8. | Csenkesz-perje fajhibrid (x Festulolium) | 75 |  | 96 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
+
+| 8a. | Csicserilednek (Lathyrus cicera) | 80 |  | 95 | 0,3 | 20 |  |  | 5 (d) |  |  | 0 | 0 |  |  |  | – |
 
 | 9. | Csillagpázsit (Cynodon dactylon) | 70 |  | 90 | 0,3 | 20 (a) | 1 | 1 |  |  |  | 0 | 0 | 1 |  | 14 |  |
 
@@ -928,7 +936,7 @@ II. Vetőmagvizsgálati követelmények és minősítési határértékek
 
 | 53. | Szarvaskerep (Lotus corniculatus) | 75 | 40 | 95 | 0,3 | 20 |  |  | 0 (e) |  |  | 0 | 0 | 3 |  | 13 | – |
 
-| 54. | Szegletes lednek (csicserilednek) (Lathyrus cicera) | 80 |  | 95 | 0,3 | 20 |  |  | 5 (d) |  |  | 0 | 0 |  |  |  | – |
+| 54. | Szegletes lednek (Lathyrus sativus) | 80 |  | 95 | 0,3 | 20 |  |  | 5 (d) |  |  | 0 | 0 |  |  |  | – |
 
 | 55. | Szöszös bükköny (Vicia villosa) | 85 | 20 | 98 | 0,3 | 20 |  |  | 0 (d) |  |  | 0 | 0 | 2 |  | 15 | – |
 
@@ -1004,4 +1012,4 @@ f) A Lupinuis spp.-hez tartozó fajtákban a keserű magok százalékban kifejez
 
 1.2.2.1. Táblázat:
 
-[^205]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése, az 57/2017. (XII. 14.) FM rendelet 3. §-a szerint módosított szöveg.
+[^205]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése, az 57/2017. (XII. 14.) FM rendelet 3. §-a, a 24/2018. (VIII. 31.) AM rendelet 4–5. §-a szerint módosított szöveg.
