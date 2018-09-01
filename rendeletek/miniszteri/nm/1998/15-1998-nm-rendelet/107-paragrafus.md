@@ -6,6 +6,6 @@
 
 a) szakszolgálatot,
 
-b)[^270] a szülő lakóhelye szerinti család- és gyermekjóléti központot.
+b)[^273] a szülő lakóhelye szerinti család- és gyermekjóléti központot.
 
-[^270]: A 107. § (3) bekezdés b) pontja az 55/2015. (XI. 30.) EMMI rendelet 11. § i) pontja szerint módosított szöveg.
+[^273]: A 107. § (3) bekezdés b) pontja az 55/2015. (XI. 30.) EMMI rendelet 11. § i) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## A nyílt örökbefogadás elősegítése[^467]
+## A nyílt örökbefogadás elősegítése[^470]
 
-148/B. §[^468] (1) A szakszolgálat a hozzá forduló válsághelyzetben lévő várandós anya és vér szerinti szülő, különösen a terhességét eltitkolni szándékozó várandós anya számára
+148/B. §[^471] (1) A szakszolgálat a hozzá forduló válsághelyzetben lévő várandós anya és vér szerinti szülő, különösen a terhességét eltitkolni szándékozó várandós anya számára
 
 a) a Gyvt. 69/A. § (2) bekezdés a) pontja szerinti krízistanácsadást nyújt, továbbá
 
@@ -18,5 +18,5 @@ b) előkészíti a vér szerinti szülőnek az örökbe fogadni szándékozó sz
 
 (5) A szakszolgálat a (3) és a (4) bekezdésben foglalt esetben a megállapodást az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben foglaltak szerint köti meg.
 
-[^467]: A 148/B. §-t megelőző alcímet a 19/2014. (III. 13.) EMMI rendelet 29. §-a iktatta be.
-[^468]: A 148/B. §-t a 28/2010. (XII. 30.) NEFMI rendelet 19. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 29. §-ával megállapított szöveg.
+[^470]: A 148/B. §-t megelőző alcímet a 19/2014. (III. 13.) EMMI rendelet 29. §-a iktatta be.
+[^471]: A 148/B. §-t a 28/2010. (XII. 30.) NEFMI rendelet 19. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 29. §-ával megállapított szöveg.

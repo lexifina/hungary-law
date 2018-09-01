@@ -1,4 +1,4 @@
-## 8K00164M_1
+## 8K00164N_1
 
 | Ellátás | Munkakör/fő |
 
@@ -92,6 +92,6 @@
 
 | * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok száma (házaspár egynek számít), folyamatban lévő örökbefogadások (beleértve a más megyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését), a nyílt örökbefogadás előkészítésének száma, valamint az örökbefogadás kötelező és önkéntes utánkövetésének száma. |
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^549]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^552]
 
-[^549]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított szöveg.
+[^552]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított, 29. § (4) bekezdése szerint módosított szöveg.

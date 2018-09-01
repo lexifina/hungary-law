@@ -2,14 +2,14 @@
 
 (2) Ha a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy az életvitelszerű tartózkodására szolgáló lakásban nyújtja az ellátást, az ellátás megkezdésekor, azt követően pedig évente háziorvosi igazolással igazolja, hogy a vele közös háztartásban élő személy egészségi állapota nem veszélyezteti az ellátandó gyermekeket.
 
-(3)[^129] A napközbeni gyermekfelügyelet keretében az ellátás a bölcsődei módszertani szervezet szakmai iránymutatása alapján folyik. A bölcsődei módszertani szervezet a szakmai iránymutatást a honlapján közzéteszi, és gondoskodik annak folyamatos frissítéséről.
+(3)[^132] A napközbeni gyermekfelügyelet keretében az ellátás a bölcsődei módszertani szervezet szakmai iránymutatása alapján folyik. A bölcsődei módszertani szervezet a szakmai iránymutatást a honlapján közzéteszi, és gondoskodik annak folyamatos frissítéséről.
 
-(4)[^130] A napközbeni gyermekfelügyelet szolgáltatást nyújtó személynek háromévente legalább egy alkalommal részt kell vennie a bölcsődei módszertani szervezet által kijelölt szervezet által tartott
+(4)[^133] A napközbeni gyermekfelügyelet szolgáltatást nyújtó személynek háromévente legalább egy alkalommal részt kell vennie a bölcsődei módszertani szervezet által kijelölt szervezet által tartott
 
 a) szakmai továbbképzésen, vagy
 
-b)[^131] sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket is ellátó napközbeni gyermekfelügyelet esetén speciális szakmai továbbképzésen.
+b)[^134] sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket is ellátó napközbeni gyermekfelügyelet esetén speciális szakmai továbbképzésen.
 
-[^129]: Az 51/M. § (3) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
-[^130]: Az 51/M. § (4) bekezdés nyitó szövegrésze a 43/2016. (XII. 27.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
-[^131]: Az 51/M. § (4) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^132]: Az 51/M. § (3) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
+[^133]: Az 51/M. § (4) bekezdés nyitó szövegrésze a 43/2016. (XII. 27.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
+[^134]: Az 51/M. § (4) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.

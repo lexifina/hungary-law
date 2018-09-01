@@ -14,13 +14,13 @@ b) a gondozott gyermek személyes tárgyainak elhelyezését,
 
 c) azt, hogy a gondozott gyermekről évente legalább egy alkalommal fénykép készüljön.
 
-(6)[^203] A gondozott gyermek megelőző pártfogásának fenntartása esetén, a megelőző pártfogó a gyermekkel a gondozási helyén találkozik.
+(6)[^206] A gondozott gyermek megelőző pártfogásának fenntartása esetén, a megelőző pártfogó a gyermekkel a gondozási helyén találkozik.
 
-(7)[^204] Megelőző pártfogás alatt álló gyermek esetén a nevelőszülői hálózat működtetője és a gyermekotthon
+(7)[^207] Megelőző pártfogás alatt álló gyermek esetén a nevelőszülői hálózat működtetője és a gyermekotthon
 
 a) helyszínt biztosít a megelőző pártfogó felügyelőnek az esetmegbeszélés megtartásához, a viselkedéskorrekciós esetkezelési módszerek alkalmazásához és a megelőző pártfogással összefüggő egyéb feladatai elvégzéséhez, és
 
 b) együttműködik a megelőző pártfogó felügyelővel a megelőző pártfogás eredményessége érdekében.
 
-[^203]: A 85. § (6) bekezdését a 6/2015. (I. 28.) EMMI rendelet 14. §-a iktatta be.
-[^204]: A 85. § (7) bekezdését a 6/2015. (I. 28.) EMMI rendelet 14. §-a iktatta be.
+[^206]: A 85. § (6) bekezdését a 6/2015. (I. 28.) EMMI rendelet 14. §-a iktatta be.
+[^207]: A 85. § (7) bekezdését a 6/2015. (I. 28.) EMMI rendelet 14. §-a iktatta be.

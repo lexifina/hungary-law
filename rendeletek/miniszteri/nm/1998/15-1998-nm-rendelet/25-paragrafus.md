@@ -1,11 +1,22 @@
-## Iskolai szociális munka
+## Óvodai és iskolai szociális segítő szolgáltatás[^89]
 
-## 25. § Az iskolai szociális munka a köznevelési intézménybe járó gyermeknek, a gyermek családjának és a köznevelési intézmény pedagógusainak nyújt támogatást azáltal, hogy egyéni és csoportos formában segíti
+25. §[^90] (1) Az óvodai és iskolai szociális segítő szolgáltatás a gyermek veszélyeztetettségének megelőzése érdekében a szociális segítő munka eszközeivel támogatást nyújt a köznevelési intézménybe járó gyermeknek, a gyermek családjának és a köznevelési intézmény pedagógusainak.
 
-a) a gyermeket a korának megfelelő, nevelésbe, oktatásba való beilleszkedéséhez, tanulmányi kötelezettségei teljesítéséhez szükséges kompetenciái fejlesztésében,
+(2) Az óvodai és iskolai szociális segítő egyéni, csoportos és közösségi szociális munkát végez, valamint gyermek- és ifjúságvédelmi feladatokat lát el. Ennek keretében segíti
 
-b) a gyermek tanulmányi kötelezettségeinek teljesítését akadályozó tényezők feltárását és megoldását,
+a) a gyermeket a korának megfelelő nevelésbe és oktatásba való beilleszkedéséhez, valamint tanulmányi kötelezettségei teljesítéséhez szükséges kompetenciái fejlesztésében,
 
-c) a gyermeket a tanulmányi előmeneteléhez, későbbi munkavállalásához kapcsolódó lehetőségei kibontakozásában, és
+b) a gyermeket a tanulmányi előmeneteléhez, későbbi munkavállalásához kapcsolódó lehetőségei kibontakozásában,
 
-d) a gyermek családját a gyermek iskolai életét érintő kérdésekben, valamint nevelési problémák esetén a gyermeket és a családot a közöttük lévő konfliktus feloldásában.
+c) a gyermek tanulmányi kötelezettségeinek teljesítését akadályozó tényezők észlelését és feltárását,
+
+d) a gyermek családját a gyermek óvodai és iskolai életét érintő kérdésekben, valamint nevelési problémák esetén a gyermeket és a családot a közöttük lévő konfliktus feloldásában,
+
+e) prevenciós eszközök alkalmazásával a gyermek veszélyeztetettségének kiszűrését és
+
+f) a jelzőrendszer működését.
+
+(3) Ha a köznevelési intézmény foglalkoztat gyermek- és ifjúságvédelmi felelőst, az intézményt érintő gyermekvédelmi feladatokat az óvodai és iskolai szociális segítő a gyermek- és ifjúságvédelmi felelőssel együttműködésben látja el.
+
+[^89]: A 25. §-t megelőző alcím a 2/2018. (I. 18.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^90]: A 25. § a 2/2018. (I. 18.) EMMI rendelet 10. §-ával megállapított szöveg.

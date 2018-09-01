@@ -2,7 +2,7 @@
 
 37. § (1) A bölcsődei ellátást nyújtó intézmény, szolgáltató a fenntartó által meghatározott napi nyitvatartási időn belül biztosítja a gyermek bölcsődei ellátását.
 
-(2)[^96] A Gyvt. 42. § (1) bekezdése szerinti bölcsődei ellátás esetén a gyermek napi gondozási ideje legalább négy óra és legfeljebb tizenkét óra. A sajátos nevelési igényű, illetve a korai fejlesztésre és gondozásra jogosult gyermek napi gondozási ideje négy óránál kevesebb időtartamban is meghatározható.
+(2)[^99] A Gyvt. 42. § (1) bekezdése szerinti bölcsődei ellátás esetén a gyermek napi gondozási ideje legalább négy óra és legfeljebb tizenkét óra. A sajátos nevelési igényű, illetve a korai fejlesztésre és gondozásra jogosult gyermek napi gondozási ideje négy óránál kevesebb időtartamban is meghatározható.
 
 (3) A fenntartó minden év február 15-éig tájékoztatja a szülőket a bölcsődei ellátást nyújtó intézmény, szolgáltató nyári nyitvatartási rendjéről. A nyári zárva tartás időtartamát a fenntartó legfeljebb öt hétben határozhatja meg.
 
@@ -12,4 +12,4 @@
 
 (6) Ha a (4) bekezdés szerint lejelentett gyermek ellátására vonatkozó megállapodás a bölcsődei nevelési év közben megszűnik, arról a bölcsőde, mini bölcsőde vezetője, valamint a munkahelyi bölcsőde és a családi bölcsőde fenntartója haladéktalanul tájékoztatja a gyermek lakóhelye, annak hiányában tartózkodási helye szerint illetékes települési önkormányzat jegyzőjét.
 
-[^96]: A 37. § (2) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
+[^99]: A 37. § (2) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
