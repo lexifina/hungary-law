@@ -1,0 +1,7 @@
+103. § A Ve. 294. §-ának helyébe a következő rendelkezés lép:
+
+„294. § (1) Az egyéni választókerületi szavazás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a helyi választási iroda az országgyűlési egyéni választókerületi választási irodához, az országos listás szavazás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a területi választási irodához továbbítja.
+
+(2) Az országgyűlési egyéni választókerületi választási bizottság az egyéni választókerületi szavazás eredményéről kiállított szavazóköri jegyzőkönyvek alapján, legkésőbb a szavazást követő hatodik napon megállapítja az egyéni választókerületi választás eredményét. Az országgyűlési egyéni választókerületi választási iroda az egyéni választókerületi választás eredményéről kiállított jegyzőkönyv egy példányát – az egyéni választókerületi választás eredményét megállapító határozat jogerőre emelkedését követően haladéktalanul – a Nemzeti Választási Irodához juttatja el.
+
+(3) A területi választási bizottság az országos listás szavazás eredményéről kiállított szavazóköri jegyzőkönyvek alapján, legkésőbb a szavazást követő hatodik napon megállapítja az országos listás választás területi részeredményét. A területi választási iroda az országos listás választás területi részeredményéről kiállított jegyzőkönyv egy példányát – az országos listás választás területi részeredményét megállapító határozat jogerőre emelkedését követően haladéktalanul – a Nemzeti Választási Irodához juttatja el.”

@@ -1,0 +1,3 @@
+6. § A Kktv. 8/C. §-ának (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Ha a pártlistát állító párttól a visszafizetési kötelezettség nem hajtható be, annak megfizetésére határozattal kötelezhetők a pártlistát állító párt 3/A. §-ban meghatározott vezető tisztségviselői, a pártlistán állított jelöltjei, valamint a pártlistát állító párt által állított egyéni választókerületi jelöltek. Ha a vezető tisztségviselő vagy a jelölt a visszafizetési kötelezettségét határidőben nem teljesíti, a kincstár megkeresésére a Nemzeti Adó- és Vámhivatal intézkedik a vezető tisztségviselővel, illetve a jelölttel szemben a tartozás behajtása iránt.”
