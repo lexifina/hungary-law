@@ -8,7 +8,7 @@
 
 14. § (1) Az időskorúak járadékának megállapítása iránti kérelmet a 2. számú melléklet szerinti formanyomtatványon kell benyújtani.
 
-(2)[^76] Amennyiben az időskorúak járadékának megállapítására irányuló eljárás az Szt. 32/B. § (2) bekezdése szerint hivatalból indul, az eljárás megindításáról szóló értesítéssel egyidejűleg a hatóság az ügyfél számára megküldi a 2/A. számú melléklet szerinti formanyomtatványt. Az ügyfél természetes személyazonosító adatait, lakcímét, valamint Társadalombiztosítási Azonosító Jelét – az aktív korúak ellátására való jogosultság megszüntetéséről szóló határozat alapján – a hatóság rögzíti a formanyomtatványon. Amennyiben az ügyfél a formanyomtatványt a kézbesítéstől számított 15 napos jogvesztő határidőn belül nem küldi vissza, az eljárást meg kell szüntetni.
+(2)[^76] Amennyiben az időskorúak járadékának megállapítására irányuló eljárás az Szt. 32/B. § (2) bekezdése szerint hivatalból indul, az eljárás megindításáról szóló értesítéssel egyidejűleg a hatóság az ügyfél számára megküldi a 2. számú melléklet szerinti formanyomtatványt. Az ügyfél természetes személyazonosító adatait, lakcímét, valamint Társadalombiztosítási Azonosító Jelét – az aktív korúak ellátására való jogosultság megszüntetéséről szóló határozat alapján – a hatóság rögzíti a formanyomtatványon. Amennyiben az ügyfél a formanyomtatványt a kézbesítéstől számított 15 napos jogvesztő határidőn belül nem küldi vissza, az eljárást meg kell szüntetni.
 
 (3)[^77] Ha a kérelmet vagy adatlapot a házastárs (élettárs) nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
 
@@ -32,7 +32,7 @@ ac) 32/B. § (1) bekezdés c) pontja szerinti jogosult esetén 39 630 Ft,
 
 b) jövedelemmel rendelkező jogosult esetén az a) pont szerinti összegnek és a jogosult havi jövedelmének a különbözete.
 
-[^76]: A 14. § (2) bekezdését újonnan a 95/2013. (III. 29.) Korm. rendelet 15. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 168. § g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^76]: A 14. § (2) bekezdését újonnan a 95/2013. (III. 29.) Korm. rendelet 15. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 168. § g) pontja és 167. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^77]: A 14. § (3) bekezdése a 95/2013. (III. 29.) Korm. rendelet 23. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^78]: A 14. § (4) bekezdését a 359/2017. (XI. 30.) Korm. rendelet 9. §-a iktatta be.
 [^79]: A 14. § (5) bekezdését a 359/2017. (XI. 30.) Korm. rendelet 9. §-a iktatta be.
