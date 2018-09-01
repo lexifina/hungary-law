@@ -1,4 +1,4 @@
-4. § (1) Az ösztöndíj csak a pályázatot elnyert tanuló, a középiskola és a minisztérium közötti, az ösztöndíj folyósításával összefüggő jogokat és kötelezettségeket tartalmazó, szerződés megkötését követően folyósítható.
+4. § (1)[^3] Az ösztöndíj csak a pályázatot elnyert tanuló, a középiskola és a miniszter tevékenységét jogszabály alapján segítő minisztérium közötti, az ösztöndíj folyósításával összefüggő jogokat és kötelezettségeket tartalmazó, szerződés megkötését követően folyósítható.
 
 (2) Az ösztöndíjast a jogosulatlanul felvett összeget illetően az államháztartás működési rendjére vonatkozó szabályok szerint visszafizetési kötelezettség terheli.
 
@@ -17,3 +17,5 @@ c) az ösztöndíjról lemond.
 (6) Az ösztöndíjas jogviszony megszűnése esetén – az államháztartás működési rendjére vonatkozó szabályok szerint – a miniszter a támogatási szerződést felmondja.
 
 (7) A megüresedett ösztöndíjas helyre pályázat nem írható ki.
+
+[^3]: A 4. § (1) bekezdése a 2/2018. (VIII. 31.) TNM rendelet 2. § c) pontja szerint módosított szöveg.
