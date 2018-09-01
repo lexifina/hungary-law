@@ -2,7 +2,7 @@
 
 ## és a halmozottan hátrányos helyzetű gyermekek, tanulók létszámával összefüggő adatszolgáltatási kötelezettség
 
-27. §[^56] (1) A gyermek, a tanuló hátrányos, halmozottan hátrányos helyzete fennállásának megállapítását a szülő, a családbafogadó gyám a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben foglaltak szerint kérheti.
+27. §[^57] (1) A gyermek, a tanuló hátrányos, halmozottan hátrányos helyzete fennállásának megállapítását a szülő, a családbafogadó gyám a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben foglaltak szerint kérheti.
 
 (2) A nevelési-oktatási intézmény tájékoztatást ad a hátrányos, halmozottan hátrányos helyzetű gyermeket, tanulót a nevelési-oktatási intézménnyel fennálló jogviszonyával összefüggésben megillető kedvezményekről, juttatásokról, pályázati lehetőségekről.
 
@@ -16,4 +16,4 @@ b) a köznevelést érintő, a hátrányos, halmozottan hátrányos helyzetű ta
 
 c) az óvodai, tanulói, kollégiumi jogviszonyhoz kapcsolódó kedvezmények, juttatások folyósításával
 
-[^56]: A 27. § a 257/2013. (VII. 5.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^57]: A 27. § a 257/2013. (VII. 5.) Korm. rendelet 26. §-ával megállapított szöveg.

@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-229-20-
 | 2018-01-01 | 2012-229-20-22.30 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-04-01 | 2012-229-20-22.31 | 307/2017. (X. 27.) Korm. rendelet |
 | 2018-07-11 | 2012-229-20-22.32 | 122/2018. (VII. 10.) Korm. rendelet |
+| 2018-09-01 | 2012-229-20-22.33 | 354/2016. (XI. 18.) Korm. rendelet |
