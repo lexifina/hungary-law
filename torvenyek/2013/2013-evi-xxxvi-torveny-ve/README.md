@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-36-00-00
 | 2016-06-01 | 2015. évi CCXIX. törvény | 2013-36-00-00.11 |
 | 2016-07-01 | 2010. évi CXXX. törvény | 2013-36-00-00.12 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2013-36-00-00.13 |
+| 2018-09-01 | 2018. évi XXXVI. törvény | 2013-36-00-00.14 |

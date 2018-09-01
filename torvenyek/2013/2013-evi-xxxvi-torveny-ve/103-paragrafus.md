@@ -2,14 +2,24 @@
 
 103. § (1) A mozgóurna iránti kérelmet a szavazóköri névjegyzékben szereplő, mozgásában egészségi állapota vagy fogyatékossága, illetve fogvatartása miatt gátolt választópolgár nyújthatja be.
 
-(2) A mozgóurna iránti kérelemnek
+(2) A mozgóurna iránti kérelmet
 
-a) a választás kitűzését követően, de legkésőbb a szavazást megelőző második napon kell megérkeznie ahhoz a helyi választási irodához, amelynek szavazóköri névjegyzékében szerepel vagy
+a) a helyi választási irodához
 
-b) a szavazás napján, legkésőbb 15 óráig kell megérkeznie a szavazatszámláló bizottsághoz.
+aa) levélben vagy elektronikus azonosítás nélkül elektronikus úton legkésőbb a szavazást megelőző negyedik napig,
 
-(3) A mozgóurna iránti kérelemnek a 92. § (1) bekezdés a) pontjában foglalt adatokon túl tartalmaznia kell
+ab) személyesen vagy elektronikus azonosítással elektronikus úton a szavazást megelőző második napig, vagy
 
-a) a választópolgár szavazókör területén lévő tartózkodási helyét, ahova a mozgóurna kivitelét kéri, ha az a magyarországi lakcímétől eltér, valamint
+ac) a szavazást megelőző második napon 16 órát követően elektronikus azonosítással elektronikus úton a szavazás napján 12 óráig,
+
+b) az illetékes szavazatszámláló bizottsághoz meghatalmazott útján vagy levélben a szavazás napján, legkésőbb 12 óráig
+
+kell benyújtani.
+
+(3) A mozgóurna iránti kérelemnek tartalmaznia kell
+
+a) a szavazókör területén lévő címet, ahova a mozgóurna kivitelét a választópolgár kéri, ha az a magyarországi lakcímétől eltér, valamint
 
 b) a mozgóurna-igénylés okát.
+
+(4) A 102. § (3) bekezdése alapján a lakcíme szerinti szavazókör névjegyzékéből más szavazókör névjegyzékébe áttett választópolgár a lakcímére is kérhet mozgóurnát.

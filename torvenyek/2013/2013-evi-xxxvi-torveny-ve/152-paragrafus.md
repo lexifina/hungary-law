@@ -11,3 +11,5 @@ tegye közzé.
 (2) A választási bizottság az (1) bekezdésben foglaltak mellett bírságot is kiszabhat. Annak eldöntésében, hogy indokolt-e a bírság kiszabása, illetve a bírság mértékének megállapításában az eset összes körülményeit – így különösen a jogsértéssel érintett médiaszolgáltató fajtáját, vételkörzetét, a jogsértéssel érintett sajtótermék jellemzőit, a jogsértés súlyát és a jogsértés ismétlődő jellegét – veszi figyelembe. A bírság összegének megállapításakor figyelembe kell venni azt is, ha a jogsértés nyilvánvalóan szándékos volt.
 
 (3) A bírság legmagasabb összege a kötelező legkisebb munkabér havi összegének ötvenszerese.
+
+(4) A 2. § (1) bekezdés c) pontjának megsértése időszaki kiadvány esetén akkor állapítható meg, ha az legalább két egymást követő lapszám együttes vizsgálata alapján fennállt a megjelölt bizonyítékok alapján.

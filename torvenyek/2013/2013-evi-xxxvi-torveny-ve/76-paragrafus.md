@@ -34,4 +34,24 @@ b) a központi névjegyzéken szereplő, az egyes szavazóköri névjegyzékekbe
 
 c) az egyes szavazóhelyiségekben szavazóként megjelenő, az egyes külképviseleteken szavazóként megjelenő választópolgárok számát,
 
-d) a jegyzőkönyvek tartalmát.
+d) a választás szavazóköri eredményét és a választás eredményét megállapító jegyzőkönyvek tartalmát.
+
+(3) A Nemzeti Választási Iroda csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezet adatfeldolgozót bízhat meg
+
+a) a szavazókörök és választókerületek nyilvántartásával,
+
+b) a központi névjegyzékkel, a szavazóköri névjegyzékkel, a külképviseleti névjegyzékkel, a levélben szavazók névjegyzékével,
+
+c) a választójoggal nem rendelkező polgárok nyilvántartásával,
+
+d) a jelölő szervezetek, jelöltek és listák nyilvántartásával,
+
+e) a képviselők nyilvántartásával,
+
+f) a népszavazási kezdeményezést, az európai polgári kezdeményezést, a nemzetiség Magyarországon honos népcsoporttá nyilvánítására irányuló kezdeményezést aláírók ellenőrzési nyilvántartásával,
+
+g) a választási részvételi adatok, az előzetes és végleges jegyzőkönyvi adatok nyilvántartásával, valamint
+
+h) az a)–g) pont szerinti nyilvántartásokhoz történő elektronikus hozzáférést biztosító felhasználói nyilvántartással
+
+kapcsolatos adatfeldolgozási feladatok ellátásával, kivéve, ha e korlátozás alól a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározottak szerint egyedi felmentést kap.

@@ -2,4 +2,8 @@
 
 (2) Az egy szavazókörrel rendelkező településen nem kell szavazatszámláló bizottságot választani.
 
-(3) A 78. § szerint kijelölt szavazókör szavazatszámláló bizottságát a helyi választási iroda vezetője a póttagok közül a szükséges számban további tagokkal egészíti ki, ha – az átjelentkező választópolgárokra tekintettel – a szavazókör névjegyzékében szereplő választópolgárok száma meghaladja a kilencszázat.
+(3) A szavazatszámláló bizottságot a helyi választási iroda vezetője – legkésőbb a szavazást megelőző harmadik napon – a póttagok közül a szükséges számban további tagokkal egészíti ki, ha az átjelentkező választópolgárok vagy a mozgóurnát igénylő választópolgárok száma azt indokolja. A helyi választási iroda vezetője köteles a szavazatszámláló bizottságot
+
+a) legalább négy taggal kiegészíteni, ha a szavazóköri névjegyzéken szereplő választópolgárok száma az 1500 főt meghaladja, valamint
+
+b) a szavazóköri névjegyzékben szereplő minden további ezredik választópolgár után legalább további két fővel kiegészíteni.

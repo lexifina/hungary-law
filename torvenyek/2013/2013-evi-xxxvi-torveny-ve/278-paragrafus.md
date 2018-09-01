@@ -10,10 +10,14 @@ b) születési nevét,
 
 c) születési helyét és idejét,
 
-d) anyja nevét, valamint
+d) személyi azonosítóját vagy a személyazonosságát igazoló hatósági igazolványának számát.
 
-e) személyi azonosítóját vagy a magyar állampolgárságát igazoló okiratának típusát és számát.
+(3) Az azonosító nyilatkozatot a választópolgár saját kezűleg aláírja.
 
-(2a) Az azonosító nyilatkozatot az ajánló választópolgár saját kezűleg aláírja.
+(4) A lezárt belső borítékot és a kitöltött azonosító nyilatkozatot a választópolgár
 
-(3) A lezárt belső borítékot és a kitöltött azonosító nyilatkozatot a választópolgár a válaszborítékba zárja.
+a) a külső borítékba, vagy
+
+b) bármely más borítékba (az a) és b) pont együtt a továbbiakban: válaszboríték)
+
+zárja.

@@ -2,4 +2,4 @@
 
 a) annak a nyolc jelölő szervezetnek a politikai reklámjait kell közzétenni, amelyek országos összesítésben a legtöbb képviselő- és polgármesterjelöltet állították; a közös jelölteket és listákat a jelölés arányában kell figyelembe venni,
 
-b) a rendelkezésre álló műsoridő tartama az összes lista és az összes közszolgálati médiaszolgáltató tekintetében együttesen háromszáz perc.
+b) a rendelkezésre álló műsoridő tartama az összes lista tekintetében együttesen háromszáz perc.

@@ -2,8 +2,10 @@
 
 (2) A politikai reklám közzétételére a 147/A–147/E. § rendelkezéseit – a 147/A. § (3) bekezdése kivételével – kell megfelelően alkalmazni azzal, hogy az országgyűlési képviselők általános választásán, az Európai Parlament tagjainak választásán és a helyi önkormányzati képviselők és polgármesterek választásán
 
-a) a politikai reklámok közzétételére szánt, az egy médiaszolgáltatásra eső időtartamot a médiaszolgáltató határozza meg, de az nem lehet kevesebb, mint az egy közszolgálati médiaszolgáltatóra eső időtartam fele,
+a) a politikai reklámok közzétételére szánt, az egy médiaszolgáltatásra eső időtartamot a médiaszolgáltató határozza meg, de az nem lehet kevesebb, mint a közszolgálati médiaszolgáltatóra eső időtartam fele,
 
 b) a médiaszolgáltatónak az (1) bekezdés szerinti bejelentésben az a) pont szerinti időtartamot is meg kell jelölnie,
 
-c) ha az a) pont szerinti időtartam eltér az egy közszolgálati médiaszolgáltatóra eső időtartamtól, a Nemzeti Választási Bizottság az egyes jelölő szervezetek rendelkezésére álló időtartamot arányosan csökkentett, illetve megnövelt mértékben állapítja meg.
+c) ha az a) pont szerinti időtartam eltér a közszolgálati médiaszolgáltatóra eső időtartamtól, a Nemzeti Választási Bizottság az egyes jelölő szervezetek rendelkezésére álló időtartamot arányosan csökkentett, illetve megnövelt mértékben állapítja meg.
+
+(3) A választási kampányidőszakban politikai reklámot a kizárólag interneten elérhető lineáris médiaszolgáltatást nyújtó médiaszolgáltató e §-ban, míg a helyi és körzeti vételkörzetű médiaszolgáltatást nyújtó médiaszolgáltató a 147. §-ban foglalt szabályokra figyelemmel tehet közzé.

@@ -12,7 +12,7 @@
 
 ## e) a választópolgár születési helyét és idejét,
 
-## f) a magyarországi lakcímmel nem rendelkező választópolgár esetében továbbá a magyar állampolgárságát igazoló okiratának típusát és számát, ha nem rendelkezik személyi azonosítóval,
+## f) a magyarországi lakcímmel nem rendelkező választópolgár esetében továbbá a személyazonosságát igazoló hatósági igazolványának típusát és számát, ha nem rendelkezik személyi azonosítóval,
 
 ## g) annak megjelölését, hogy a választópolgár mely választáson, mely választókerületben rendelkezik a szavazás jogával, mely választáson választható,
 
@@ -34,7 +34,7 @@
 
 ## l) a 89. § szerinti nyilatkozat tartalmát,
 
-## m) a választópolgárnak a 92. § (2) bekezdése szerint bejelentett postacímét, email címét vagy telefax számát, ezek hiányában a polgárok személyi és lakcím adatait tartalmazó nyilvántartásba bejelentett értesítési címét,
+## m) a választópolgárnak a 92. § (4) bekezdése szerint bejelentett postacímét, email címét vagy telefax számát, ezek hiányában a polgárok személyi és lakcím adatait tartalmazó nyilvántartásba bejelentett értesítési címét,
 
 ## n) a választókerület és a szavazókör megjelölését,
 

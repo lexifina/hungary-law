@@ -1,4 +1,4 @@
-## 151. A levélben leadott szavazási iratok ellenőrzése
+## 151. A szavazatok továbbítása
 
 323/A. § (1) A szavazatszámláló bizottság, illetve a helyi választási bizottság a nála a 323. § (4) bekezdése alapján leadott szavazatokat tartalmazó borítékokat szállítóborítékba zárja.
 

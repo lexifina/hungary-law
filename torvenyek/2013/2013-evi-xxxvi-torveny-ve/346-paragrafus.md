@@ -28,4 +28,6 @@ i) azon településeket és külképviseleteket, ahol a magyarországi lakcímme
 
 j) a fővárosi és megyei kormányhivatal választásokkal összefüggő informatikai feladatai ellátásának részletes szabályait,
 
-k) a Nemzeti Választási Bizottság választott tagjai – a Nemzeti Választási Bizottság működése kapcsán felmerülő – indokolt és igazolt költségeinek körét és a megtérítésre vonatkozó szabályokat.
+k) a Nemzeti Választási Bizottság választott tagjai – a Nemzeti Választási Bizottság működése kapcsán felmerülő – indokolt és igazolt költségeinek körét és a megtérítésre vonatkozó szabályokat,
+
+l) a szavazatszámláló bizottságnak a szavazás lebonyolításával kapcsolatos feladatai tekintetében azokat a feltételeket, melyek teljesülése esetén a szavazatszámláló bizottság tevékenységét ugyanazon épületben egyidejűleg több, külön helyiségben végzi.

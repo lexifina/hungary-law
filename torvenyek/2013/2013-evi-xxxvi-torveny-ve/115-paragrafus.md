@@ -1,8 +1,8 @@
 ## 57. A választópolgár tájékoztatása
 
-115. § (1) Azt a választópolgárt, aki legkésőbb a szavazás napját megelőző ötvennyolcadik napon a szavazóköri névjegyzékben szerepel, a Nemzeti Választási Iroda értesítő megküldésével tájékoztatja a szavazóköri névjegyzékbe vételéről.
+115. § (1) Azt a választópolgárt, aki a szavazás napját megelőző hatvanhetedik napon a szavazóköri névjegyzékben szerepel, a Nemzeti Választási Iroda értesítő megküldésével tájékoztatja a szavazóköri névjegyzékbe vételéről.
 
-(2) Az értesítőt a választópolgár értesítési címére, ennek hiányában lakcímére a szavazást megelőző negyvennyolcadik napig kell megküldeni.
+(2) Az értesítőt a választópolgár értesítési címére, ennek hiányában lakcímére a szavazást megelőző ötvenegyedik napig kell megküldeni.
 
 (3) Az értesítő tartalmazza
 
@@ -24,7 +24,7 @@ h) a választópolgár magyarországi lakcímét,
 
 i) a választópolgár születési idejét,
 
-j) a választópolgár születési nevét és
+j) a választópolgár születési nevét, ha az a viselt nevétől eltér és
 
 k) a választással kapcsolatos tájékoztatást.
 

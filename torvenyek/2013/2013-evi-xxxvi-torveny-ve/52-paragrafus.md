@@ -16,4 +16,4 @@ d) helyi választási iroda,
 
 e) külképviseleti választási iroda.
 
-(2) A szavazatszámláló bizottság mellett a helyi választási iroda egy tagja jegyzőkönyvvezetőként működik. A 78. § szerint kijelölt szavazókör szavazatszámláló bizottsága mellett közreműködő jegyzőkönyvvezetők számát a helyi választási iroda vezetője állapítja meg.
+(2) A szavazatszámláló bizottság mellett a helyi választási iroda legalább egy tagja jegyzőkönyvvezetőként működik. A szavazatszámláló bizottság mellett közreműködő jegyzőkönyvvezetők számát a helyi választási iroda vezetője állapítja meg.

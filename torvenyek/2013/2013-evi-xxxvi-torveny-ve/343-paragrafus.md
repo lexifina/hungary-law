@@ -4,10 +4,8 @@
 
 (2) A Nemzeti Választási Bizottság
 
-a) a szavazóköri jegyzőkönyvek,
+a) a szavazóköri jegyzőkönyvek és
 
-b) a külképviseleti szavazás eredményét megállapító jegyzőkönyv és
-
-c)
+b) a külképviseleti szavazás eredményét megállapító jegyzőkönyv
 
 alapján megállapítja a választás eredményét.

@@ -20,7 +20,7 @@
 
 ## ba) nevét és lakcímét,
 
-## bb) személyi azonosítóját,
+## bb) személyi azonosítóját, ennek hiányában magyar hatóság által kiállított útlevelének vagy személyazonosító igazolványának számát,
 
 ## bc) független jelölésének tényét vagy annak megjelölését, hogy melyik jelölő szervezet egyéni jelöltje, illetve melyik jelölő szervezet listáján szerepel,
 
@@ -32,8 +32,8 @@
 
 ## c) a listát állító jelölő szervezetet,
 
-## d) a miniszter rendeletében meghatározott egyéb – személyes adatnak nem minősülő –adatokat.
+## d) a miniszter rendeletében meghatározott egyéb – személyes adatnak nem minősülő – adatokat,
 
-## A nyilvántartás tartalmazza annak megjelölését, hogy a jelölő szervezetet, jelöltet, listát melyik választásra vették nyilvántartásba, a jelölt melyik választókerületben indul, illetve a listát melyik választókerületben állították.
+## e) annak megjelölését, hogy a jelölő szervezetet, jelöltet, listát melyik választásra vették nyilvántartásba, a jelölt melyik választókerületben indul, illetve a listát melyik választókerületben állították.
 
 5. melléklet a 2013. évi XXXVI. törvényhez

@@ -12,7 +12,9 @@ d) állami, helyi és nemzetiségi önkormányzati szervek hivatali helyiségéb
 
 e) felsőoktatási és köznevelési intézményben,
 
-f) egészségügyi szolgáltató helyiségében.
+f) egészségügyi szolgáltató helyiségében, valamint
+
+g) a tulajdonos előzetes, írásbeli hozzájárulásának hiányában közforgalom számára nyitva álló magánterületen.
 
 (3) Az ajánlásért az ajánlást adó választópolgár részére előnyt adni vagy ígérni tilos. Az ajánlást adó választópolgár az ajánlásért nem kérhet előnyt, illetve nem fogadhat el előnyt vagy annak ígéretét.
 

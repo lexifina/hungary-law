@@ -4,9 +4,11 @@
 
 a) Nemzeti Választási Bizottság,
 
-b) országgyűlési egyéni választókerületi választási bizottság,
+b) területi választási bizottság,
 
-c) szavazatszámláló bizottság (egy szavazókörös településen a helyi választási bizottság).
+c) országgyűlési egyéni választókerületi választási bizottság,
+
+d) szavazatszámláló bizottság (egy szavazókörös településen a helyi választási bizottság).
 
 (2) A Nemzeti Választási Bizottságba tag megbízására jogosult jelölő szervezet, ide nem értve az országos nemzetiségi önkormányzatot, a Nemzeti Választási Iroda mellé legfeljebb öt megfigyelőt bízhat meg a szavazási iratok ellenőrzése és a szavazatok megszámlálása törvényességének ellenőrzésére.
 

@@ -1,6 +1,6 @@
 ## 159. Az Európai Unió más tagállama állampolgárának névjegyzékbe vétele iránti kérelem
 
-334. § (1) Az Európai Unió más tagállamának állampolgára legkésőbb a szavazást megelőző tizenhatodik napon kérheti, hogy központi névjegyzékbe vétele az Európai Parlament tagjainak választására is kiterjedjen. A kérelemnek a 92. § (1) bekezdés a) pontjában foglalt adatokon túl tartalmaznia kell
+334. § (1) Az Európai Unió más tagállamának állampolgára legkésőbb a szavazást megelőző tizenhatodik napon kérheti, hogy központi névjegyzékbe vétele az Európai Parlament tagjainak választására is kiterjedjen. A kérelemnek a 92. § (1) vagy (3) bekezdésében foglalt adatokon túl tartalmaznia kell
 
 a) a választópolgár nyilatkozatát, hogy szavazati jogát csak Magyarországon gyakorolja,
 

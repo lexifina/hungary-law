@@ -8,7 +8,7 @@ b) 27. § (1) bekezdése alapján megbízott tagjának megbízatása az országg
 
 c) 27. § (2) bekezdése alapján megbízott tagjának megbízatása az Országgyűlés alakuló ülésének napjáig,
 
-d) 27. § (3) bekezdése alapján megbízott tagjának megbízatása a választás végleges eredményének jogerőssé válásáig
+d) 27. § (3) bekezdése alapján megbízott tagjának megbízatása a választás eredményének jogerőssé válásáig
 
 tart.
 
@@ -18,6 +18,6 @@ tart.
 
 a) választott tagjának megbízatása a következő általános választásra megválasztott választási bizottság alakuló üléséig,
 
-b) megbízott tagjának megbízatása a választás végleges eredményének jogerőssé válásáig
+b) megbízott tagjának megbízatása a választás eredményének jogerőssé válásáig
 
 tart.

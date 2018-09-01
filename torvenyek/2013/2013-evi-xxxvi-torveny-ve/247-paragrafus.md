@@ -4,4 +4,4 @@
 
 (2) A szavazóköri névjegyzék az átjelentkezéssel szavazó választópolgár adatai mellett a magyarországi lakcíme szerinti országgyűlési egyéni választókerület megjelölését is tartalmazza.
 
-(3) Az átjelentkezéssel szavazó választópolgár a mozgóurna iránti kérelemben a település területén lévő tartózkodási helyet jelölhet meg, ahova a mozgóurna kivitelét kéri.
+(3) Az átjelentkezéssel szavazó választópolgár a mozgóurna iránti kérelemben a település területén lévő címet jelölhet meg, ahova a mozgóurna kivitelét kéri.

@@ -23,35 +23,3 @@
 ## f) a külképviseleti névjegyzékben szereplő választópolgárok számát.
 
 8. melléklet a 2013. évi XXXVI. törvényhez
-
-## A levélben szavazók névjegyzékének adattartalma
-
-## A levélben szavazók névjegyzéke tartalmazza
-
-## a) a választás megnevezését,
-
-## b) a szavazás napját,
-
-## c)
-
-## d) a választópolgár
-
-## da) nevét,
-
-## db) személyi azonosítóját, ennek hiányában a magyar állampolgárságát igazoló okiratának típusát és számát,
-
-## dc)
-
-## dd) anyja nevét,
-
-## de) születési helyét és idejét,
-
-## df)
-
-## dg) értesítési címét,
-
-## e) annak megjelölését, ha a választópolgár a szavazási levélcsomag személyes átvételét kérte, valamint az átvételre megjelölt település megjelölését,
-
-## f)
-
-## g) a levélben szavazók névjegyzékében szereplő választópolgárok számát.
