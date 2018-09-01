@@ -1,6 +1,5 @@
-30. § (1)[^14]
+30. § (1)[^12]
 
-(2)[^15]
+(2) Az Nmr. 21. § (3) bekezdésében az „iskolai szociális munka” szövegrész helyébe az „óvodai és iskolai szociális segítő szolgáltatás” szöveg, és az „iskolai szociális munkát” szövegrész helyébe az „óvodai és iskolai szociális segítő szolgáltatást” szöveg lép.
 
-[^14]: A 30. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 30. § (2) bekezdése a 31. § (3) bekezdése alapján 2018. szeptember 1-jén lép hatályba.
+[^12]: A 30. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
