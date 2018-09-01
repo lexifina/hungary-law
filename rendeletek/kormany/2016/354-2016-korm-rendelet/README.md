@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-354-20-
 | 2016-11-20 | 2016-354-20-22.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2016-354-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-01-02 | 2016-354-20-22.4 | 2010: CXXX. törvény |
+| 2018-09-01 | 2016-354-20-22.5 | 2010: CXXX. törvény |

@@ -1,3 +1,3 @@
-## 3. §[^2]
+## 3. § Az R. 26/A. §-a a következő (6) bekezdéssel egészül ki:
 
-[^2]: A 3. § a 7. § (3) bekezdése alapján 2018. szeptember 1-jén lép hatályba.
+## „(6) A miniszter a Hivatal által adott tájékoztatás alapján január 31-éig összefoglaló jelentést készít a Kormány számára a megelőző év összesített adatairól és intézkedéseiről.”
