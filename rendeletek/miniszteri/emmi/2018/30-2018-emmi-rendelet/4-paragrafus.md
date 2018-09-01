@@ -1,1 +1,0 @@
-## 3. § A Rendelet 14. melléklet Kerettanterv a szakgimnáziumok 9–12. évfolyama számára cím, Tantárgyi struktúra és óraszámok című alcímében a „Katonai” szövegrészek helyébe a „Honvédelmi” szöveg lép.
