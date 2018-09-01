@@ -1,6 +1,6 @@
 ## Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^117]
+11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^118]
 
 I. RÉSZ
 
@@ -36,19 +36,19 @@ I. RÉSZ
 
 | 11. | Brassica oleracea L. | Leveles kel | TP 90/1 2011. 2. 16. |
 
-| 12. | Brassica oleracea L. | Karfiol | TP 45/2 2010. 3. 11. |
+| 12. | Brassica oleracea L. | Karfiol | TP 45/2 rev. 2017. 3. 15. |
 
-| 13. | Brassica oleracea L. | Brokkoli vagy Calabrese brokkoli | TP 151/2 2007. 3. 21. |
+| 13. | Brassica oleracea L. | Brokkoli vagy Calabrese brokkoli | TP 151/2 rev. 2017. 3. 15. |
 
-| 14. | Brassica oleracea L. | Bimbóskel | TP 54/2 2005. 12. 1. |
+| 14. | Brassica oleracea L. | Bimbóskel | TP 54/2 rev. 2017. 3. 15. |
 
-| 15. | Brassica oleracea L. | Karalábé | TP 65/1 2004. 3. 25. |
+| 15. | Brassica oleracea L. | Karalábé | TP 65/1 rev. 2017. 3. 15. |
 
-| 16. | Brassica oleracea L. | Kelkáposzta, fejes káposzta és vörös káposzta | TP 48/3 2011. 2. 16. |
+| 16. | Brassica oleracea L. | Kelkáposzta, fejes káposzta és vörös káposzta | TP 48/3 rev. 2017. 3. 15. |
 
 | 17. | Brassica rapa L. | Kínai kel | TP 105/1 2008. 3. 13. |
 
-| 18. | Capsicum annuum L. | Csili vagy paprika | TP 76/2 2007. 3. 21. |
+| 18. | Capsicum annuum L. | Csili vagy paprika | TP 76/2 rev. 2017. 3. 15. |
 
 | 19. | Cichorium endivia L. | Borzaslevelű és széleslevelű endívia | TP 118/3, 2014.3.19. |
 
@@ -72,7 +72,7 @@ I. RÉSZ
 
 | 28. | Foeniculum vulgare Mill | Édeskömény | TP 183/1 2004. 3. 25. |
 
-| 29. | Lactuca sativa L. | Saláta | TP 13/5 rev., 2016.4.19. |
+| 29. | Lactuca sativa L. | Saláta | TP 13/5 rev. 2, 2017. 3. 15. |
 
 | 30. | Solanum Lycopersicum L. | Paradicsom | TP 44/4 rev. 2., 2016.4.19. |
 
@@ -82,7 +82,7 @@ I. RÉSZ
 
 | 33. | Phaseolus vulgaris L. | Zöldbab (bokorbab és futóbab) | TP 12/4 2013. 2. 27. |
 
-| 34. | Pisum sativum L. (partim) | Kifejtőborsó, velőborsó és cukorborsó | TP 7/2 rev., 2015.3.11. |
+| 34. | Pisum sativum L. (partim) | Kifejtőborsó, velőborsó és cukorborsó | TP 7/2 rev. 2, 2017. 3. 15. |
 
 | 35. | Raphanus sativus L. | Retek, fekete retek | TP 64/2 rev., 2015.3.11. |
 
@@ -92,7 +92,7 @@ I. RÉSZ
 
 | 36. | Solanum melongena L. | Padlizsán vagy tojásgyümölcs | TP 117/1 2008. 3. 13. |
 
-| 37. | Spinacia oleracea L. | Spenót/paraj | TP 55/5 rev., 2016.4.19. |
+| 37. | Spinacia oleracea L. | Spenót/paraj | TP 55/5 rev. 2, 2017. 3. 15. |
 
 | 38. | Valerianella locusta (L.) Laterr. | Galambbegysaláta | TP 75/2 2007. 3. 21. |
 
@@ -100,7 +100,9 @@ I. RÉSZ
 
 | 40. | Zea mays L. (partim) | Csemege kukorica és pattogatni való kukorica | TP 2/3 2010. 3. 11. |
 
-| 41. | Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg | Paradicsom-alanynövény (Paradicsom-alanyvesszők) | TP 294/1 rev., 2016.4.19. |
+| 41. | Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg | Paradicsom-alanynövény (Paradicsom-alanyvesszők) | TP 294/1 rev. 2, 2017. 3. 15. |
+
+| 42. | Cucurbita maxima x Cucurbita moschata | A Cucurbita maxima Duch. x Cucurbita moschata Duch. tőként történő felhasználásra szánt interspecifikus hibridjei | TP/311/1, 2017. 3. 15. |
 
 II. RÉSZ
 
@@ -114,18 +116,18 @@ II. RÉSZ
 
 | 2. | Brassica rapa L. | Tarlórépa | TG/37/10 2001. 4. 4. |
 
-| 3. | Cichorium intybus L. | Leveles cikória vagy olasz cikória | TG/154/3 1996. 10. 18. |
+| 3. | Cichorium intybus L. | Leveles cikória vagy olasz cikória | TG/154/4, 2017. 4. 5. |
 
-| 4. | Cucurbita maxima x Cucurbita moschata | A Cucurbita maxima Duch. x Cucurbita moschata Duch. tőként történő felhasználásra szánt interspecifikus hibridjei | TG/311/1, 2015.3.25. |
+| 4. |  |  |  |
 
 | 5. |  |  |  |
 
 | 6. |  |  |  |
 
-| 7. | Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg | Paradicsom-alanyvesszők | TG/294/1 2013. 3. 20. |
+| 7. |  |  |  |
 
 III. RÉSZ
 
 Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-[^117]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja szerint módosított szöveg.
+[^118]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (2) bekezdése és 3. § b) pontja szerint módosított szöveg.

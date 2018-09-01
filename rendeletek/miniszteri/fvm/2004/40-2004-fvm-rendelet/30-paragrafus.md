@@ -60,7 +60,9 @@
 
 30.[^106] a Bizottság 2015/1168/EU végrehajtási irányelve (2015. július 15.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
 
-31.[^107] a Bizottság 2014/1914/EU végrehajtási irányelve (2016. október 31.) a 2002/53/EK és 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket előíró 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról.
+31.[^107] a Bizottság 2014/1914/EU végrehajtási irányelve (2016. október 31.) a 2002/53/EK és 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket előíró 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
+
+32.[^108] a Bizottság 2018/100/EU végrehajtási irányelve (2018. január 22.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról.
 
 [^102]: A 30. § a 105/2012. (X. 11.) VM rendelet 3. §-ával megállapított szöveg.
 [^103]: A 30. § 27. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
@@ -68,3 +70,4 @@
 [^105]: A 30. § 29. pontját a 24/2016. (IV. 8.) FM rendelet 7. § (1) bekezdése iktatta be.
 [^106]: A 30. § 30. pontját a 24/2016. (IV. 8.) FM rendelet 7. § (2) bekezdése iktatta be.
 [^107]: A 30. § 31. pontját a 38/2017. (VII. 11.) FM rendelet 1. §-a iktatta be.
+[^108]: A 30. § 32. pontját a 24/2018. (VIII. 31.) AM rendelet 1. §-a iktatta be.

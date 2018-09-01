@@ -1,4 +1,4 @@
-10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^116]
+10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^117]
 
 I. RÉSZ
 
@@ -26,9 +26,9 @@ I. RÉSZ
 
 | 6. | Lolium perenne L. | Évelő perje | TP 4/1 2011. 6. 23. |
 
-| 7. | Lolium x boucheanum Kunth | Hibrid perje | TP 4/1 2011. 6. 23. |
+| 7. | Lolium x hybridum Hausskn | Hibrid perje | TP 4/1 2011. 6. 23. |
 
-| 8. | Pisum sativum L. | Takarmányborsó | TP 7/2 rev., 2015.3.11 |
+| 8. | Pisum sativum L. | Takarmányborsó | TP 7/2 rev. 2., 2017. 3. 15. |
 
 | 8/a. | Vicia sativa L. | Tavaszi bükköny | TP 32/1, 2016.4.19. |
 
@@ -62,7 +62,15 @@ I. RÉSZ
 
 | 21. | Zea mays L. | Kukorica | TP 2/3 2010. 3. 11. |
 
-| 22. | Solanum tuberosum L. | Burgonya | TP 23/2 2005. 12. 1. |
+| 22. | Solanum tuberosum L. | Burgonya | TP 23/3, 2017. 3. 15. |
+
+| 23. | Poa pratensis L. | Réti perje | TP 33/1, 2017. 3. 15. |
+
+| 24. | Raphanus sativus L. var. oleiformis Pers. | Takarmányretek (Olajretek) | TP/178/1, 2017. 3. 15. |
+
+| 25. | Glycine max (L.) Merrill | Szójabab | TP/80/1 2017. 3. 15. |
+
+| 26. | Sinapis alba L. | Fehér mustár | TP/179/1, 2017. 3. 15. |
 
 II. RÉSZ
 
@@ -98,7 +106,7 @@ II. RÉSZ
 
 | 13. | Phleum pratense L. | Gumós komócsin | TG/34/6 1984. 11. 7. |
 
-| 14. | Poa pratensis L. | Réti perje | TG 33/7, 2014.4.9. |
+| 14. |  |  |  |
 
 | 15. | Lotus corniculatus L. | Szarvaskerep | TG/193/1 2008. 4. 9. |
 
@@ -122,7 +130,7 @@ II. RÉSZ
 
 | 25. |  |  |  |
 
-| 26. | Raphanus sativus L. var. oleiformis Pers. | Takarmányretek | TG/178/3 2001. 4. 4. |
+| 26. |  |  |  |
 
 | 27. | Arachis hypogea L. | Földimogyoró | TG 93/4, 2014.4.9. |
 
@@ -134,9 +142,9 @@ II. RÉSZ
 
 | 31. | Papaver somniferum L. | Mák | TG 166/4, 2014.4.9. |
 
-| 32. | Sinapis alba L. | Fehér mustár | TG/179/3 2001. 4. 4. |
+| 32. |  |  |  |
 
-| 33. | Glycine max (L.) Merrill | Szójabab | TG/80/6 1998. 4. 1. |
+| 33. |  |  |  |
 
 | 34. | Sorghum bicolor (L.) Moench | Cirok | TG/122/4, 2015.3.25. |
 
@@ -144,6 +152,24 @@ II. RÉSZ
 
 | 36. | Sorghum bicolor (L.) Moench x Sorghum sudanense (Piper) Stapf | A Sorghum bicolor és a Sorghum sudanense keresztezéséből származó hibridek | TG/122/4, 2015.3.25. |
 
+| 37. | Medicago doliata Carmign. | Egyenestövisű lucerna | TG 228/1, 2006.4.5. |
+
+| 38. | Medicago italica (Mill.) Fiori | Olaszlucerna | TG 228/1, 2006.4.5. |
+
+| 39. | Medicago littoralis Rohde ex Loisel. | Parti lucerna | TG 228/1, 2006.4.5. |
+
+| 40. | Medicago lupulina L. | Komlós lucerna | TG 228/1, 2006.4.5. |
+
+| 41. | Medicago murex Willd. | Gömböstermésű lucerna | TG 228/1, 2006.4.5. |
+
+| 42. | Medicago polymorpha L. | Szúrós lucerna | TG 228/1, 2006.4.5. |
+
+| 43. | Medicago rugosa Desr. | Ráncos lucerna | TG 228/1, 2006.4.5. |
+
+| 44. | Medicago scutellata (L.) Mill. | Csigaborsó | TG/228/1, 2006.4.5. |
+
+| 45. | Medicago truncatula Gaertn. | Mediterrán lucerna | TG 228/1, 2006.4.5. |
+
 III. RÉSZ
 
-[^116]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja szerint módosított szöveg.
+[^117]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja szerint módosított szöveg.
