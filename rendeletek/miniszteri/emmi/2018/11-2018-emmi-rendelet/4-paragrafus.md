@@ -1,1 +1,3 @@
-## 3. § Ha a helyi nemzetiségi önkormányzatok működési és feladatalapú támogatásáról szóló támogatói okiratok közzétételét követő nyolc napon belül a helyi nemzetiségi önkormányzat nem tesz észrevételt, a támogatói okiratban foglalt nyilatkozatok a helyi nemzetiségi önkormányzat által megtettnek minősülnek.
+## 3. §[^3]
+
+[^3]: A 3. §-t a 2/2018. (VIII. 31.) TNM rendelet 6. §-a hatályon kívül helyezte.
