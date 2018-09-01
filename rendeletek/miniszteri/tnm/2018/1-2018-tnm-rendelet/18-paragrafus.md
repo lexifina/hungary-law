@@ -1,3 +1,9 @@
-18. §[^1]
+18. § (1) A 3. § (1) bekezdésében
 
-[^1]: A 18–19. § a 14. § (2) bekezdése alapján 2018. szeptember 1-jén lép hatályba.
+a) az „az 1. melléklet” szövegrész helyébe az „a 2. melléklet” szöveg,
+
+b) az „Az 1. mellékletben” szövegrész helyébe az „A 2. mellékletben” szöveg
+
+lép.
+
+(2) A 4. § a) és b) pontjában az „az 1. melléklet” szövegrész helyébe az „a 2. melléklet” szöveg lép.
