@@ -2,13 +2,13 @@
 
 64. § (1) Az ügyészt havonta beosztási pótlék illeti meg, amelynek összege az illetményalap
 
-a) tíz százaléka a járási ügyészség ügyésze esetében,
+a) húsz százaléka a járási ügyészség ügyésze esetében,
 
-b) húsz százaléka a főügyészség ügyésze esetében,
+b) harmincöt százaléka a főügyészség ügyésze esetében,
 
-c) negyven százaléka a fellebbviteli főügyészség ügyésze esetében,
+c) ötven százaléka a fellebbviteli főügyészség ügyésze esetében,
 
-d) hatvan százaléka a Legfőbb Ügyészség ügyésze esetében.
+d) nyolcvan százaléka a Legfőbb Ügyészség ügyésze esetében.
 
 (2) Kiváló, magasabb ügyészi beosztásra alkalmas, illetve kiválóan alkalmas minősítés esetén és az adott szintű ügyészségen, ügyészként eltöltött legalább hat év után – beszámítva a magasabb szintű ügyészségen ügyészként teljesített időt is –
 
@@ -34,17 +34,19 @@ d) a Legfőbb Ügyészség ügyésze részére „Legfőbb ügyészségi tanács
 
 cím jár.
 
-(4) A (2)–(3) bekezdésben meghatározott cím adományozásával címpótlék jár havonta. A pótlék összege az illetményalap
+(4) A (2) bekezdés alapján adományozott vagy a (3) bekezdés alapján megállapított (a továbbiakban együtt: adományozott) címmel címpótlék jár havonta, amelynek összege az illetményalap
 
-a) húsz százaléka a „Címzetes főügyészségi ügyész”,
+a) harminc százaléka a „Címzetes főügyészségi ügyész”,
 
-b) harminc százaléka a „Címzetes fellebbviteli főügyészségi ügyész”,
+b) negyvenöt százaléka a „Címzetes fellebbviteli főügyészségi ügyész”,
 
-c) ötven százaléka a „Címzetes legfőbb ügyészségi ügyész”,
+c) hatvan százaléka a „Címzetes legfőbb ügyészségi ügyész”,
 
-d) hetven százaléka „Legfőbb ügyészségi tanácsos”
+d) kilencven százaléka a „Legfőbb ügyészségi tanácsos”
 
-cím adományozása esetén. A címpótlékban részesülő ügyészt beosztási pótlék nem illeti meg.
+cím esetén.
+
+(4a) A címpótlékban részesülő ügyészt beosztási pótlék nem illeti meg.
 
 (5) Ha az ügyészt ügyészségi érdekből alacsonyabb szintű ügyészséghez helyezik át, korábbi beosztási pótlékára, illetve címére és a címmel járó pótlékra továbbra is jogosult, valamint a korábbi szolgálati helye szintjének megfelelő munkaköri elnevezést a továbbiakban is használhatja. Ügyészségi érdeknek minősül, ha az ügyészt alacsonyabb szintű ügyészségen vezetőnek nevezik ki, valamint ha a 25. § (2) vagy (4) bekezdésében, illetve 36. § (1) bekezdés a)–b) pontjában vagy a 47. § (5) bekezdésében említett okból alacsonyabb szintű ügyészségre helyezik át.
 
