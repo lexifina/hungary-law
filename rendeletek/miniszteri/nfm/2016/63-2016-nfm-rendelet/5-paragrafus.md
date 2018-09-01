@@ -14,7 +14,7 @@ c) a KÁT mérlegkör működtetéséhez kötődő pénzforgalmi szaldóját.
 
 a) a KÁT termelőnek a kereskedelmi szabályzatban meghatározott elszámolási mérési adatok előzetes szolgáltatása és a vonatkozó Korm. rendelet alapján kalkulált tárgyhavi tény termelése zónaidőnkénti bontásban és a vonatkozó kormányrendeletben meghatározott, a KÁT termelőre vonatkozó hatósági ár szorzatainak összegét;
 
-b) a KÁT termelőtől tárgyhónapban befolyt pótdíjak, valamint a jogosulatlanul értékesített villamos energia után tárgyhónapban fizetett visszatérítések összegét;
+b)[^4] a KÁT termelőtől a jogosulatlanul értékesített villamos energia után a tárgyhónapban fizetett visszatérítések összegét;
 
 c) a KÁT mérlegkör kiegyenlítése során a KÁT mérlegkörre vonatkozó, a kereskedelmi szabályzatban meghatározott előzetes elszámolási adatok alapján a tárgyhónapban igénybe vett szabályozási energia költségét;
 
@@ -35,3 +35,4 @@ j) a tárgyhónapot megelőző termelési időszak a) és c)–e) pont szerint m
 k) a tárgyhónapot megelőző termelési időszakban a KÁT és Prémium pénzeszköz fizetésére kötelezettek tény értékesítési adatának módosulása miatti, a KÁT pénzeszköz korábban megfizetett összegének még figyelembe nem vett módosulásai szerint befolyó többletbevételeket vagy visszatérítéseket.
 
 [^3]: Az 5. § (3) bekezdése a 43/2017. (XI. 8.) NFM rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (3) bekezdés b) pontja a 43/2017. (XI. 8.) NFM rendelet 29. § (3) bekezdésével megállapított szöveg.
