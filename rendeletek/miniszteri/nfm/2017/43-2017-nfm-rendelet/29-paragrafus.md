@@ -1,12 +1,13 @@
-## 28. §[^12]
+## 28. §[^13]
 
-29. § (1)[^13]
+29. § (1)[^14]
 
-(2)[^14]
+(2)[^15]
 
-(3)[^15]
+(3) A 63/2016. (XII. 28.) NFM rendelet 5. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-[^12]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 29. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 29. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 29. § (3) bekezdése a 31. § (5) bekezdése alapján 2018. szeptember 1-jén lép hatályba.
+(A KÁT pénzeszköz mértékének meghatározása során a Befogadó a következő tételeket köteles előjelhelyesen figyelembe venni:)
+
+[^13]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 29. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 29. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
