@@ -16,7 +16,9 @@ ad) gyermekvédelmi jelzőrendszeri készenléti szolgálatot,
 
 ae) jogi tájékoztatásnyújtást és pszichológiai tanácsadást,
 
-af) családkonzultációt, családterápiát, családi döntéshozó konferenciát;
+af) családkonzultációt, családterápiát, családi döntéshozó konferenciát,
+
+ag) óvodai és iskolai szociális segítő tevékenységet;
 
 b) a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedésekhez kapcsolódó, a gyermekek védelmére irányuló tevékenységet lát el, amelynek keretében
 
