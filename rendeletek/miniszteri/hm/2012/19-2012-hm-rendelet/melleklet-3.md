@@ -58,13 +58,13 @@
 
 ## 2.5. Pályaalkalmassági követelmények: –
 
-## 2.6. Elméleti képzési idő aránya: 50%
+## 2.6. Elméleti képzési idő aránya: 40%
 
-## 2.7. Gyakorlati képzési idő aránya: 50%
+## 2.7. Gyakorlati képzési idő aránya: 60%
 
 ## 2.8. Szintvizsga: –
 
-## 2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+## 2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: a 10. évfolyamot követően 140 óra, a 11. évfolyamot követően 140 óra.
 
 ## 3. PÁLYATÜKÖR
 
@@ -412,13 +412,15 @@
 
 ## 2.5. Pályaalkalmassági követelmények: –
 
-## 2.6. Elméleti képzési idő aránya: 50%
+## 2.6. Elméleti képzési idő aránya: 40%
 
-## 2.7. Gyakorlati képzési idő aránya: 50%
+## 2.7. Gyakorlati képzési idő aránya: 60%
 
 ## 2.8. Szintvizsga: –
 
-## 2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: két évfolyamos képzés esetén az első, 1/13. szakképzési évfolyamot követően 160 óra.
+## 2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: 5 évfolyamos képzés esetén a 10. évfolyamot követően 140 óra, a 11. évfolyamot követően 140 óra;
+
+## 2 évfolyamos képzés esetén az első szakképzési évfolyamot követően 160 óra.
 
 ## 3. PÁLYATÜKÖR
 
