@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-189-00-00
 | 2016-12-28 | 2016. évi CLXXXV. törvény | 2011-189-00-00.33 |
 | 2017-01-01 | 2016. évi CLXXXV. törvény | 2011-189-00-00.34 |
 | 2018-01-01 | 2017. évi CXXXIV. törvény | 2011-189-00-00.35 |
+| 2018-09-01 | 2018. évi XXXVI. törvény | 2011-189-00-00.36 |
