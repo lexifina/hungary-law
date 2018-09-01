@@ -1,5 +1,5 @@
-## 220–222. §[^113]
+## 220–222. §[^107]
 
 ## 103. A kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló 178/2008. (VII. 3.) Korm. rendelet módosítása
 
-[^113]: A 220–222. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 220–222. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

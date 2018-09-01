@@ -1,5 +1,5 @@
-## 546–547. §[^274]
+## 546–547. §[^268]
 
 ## 264. Az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet módosítása
 
-[^274]: Az 546–547. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^268]: Az 546–547. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
