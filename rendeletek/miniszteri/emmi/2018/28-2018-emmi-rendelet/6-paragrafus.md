@@ -1,5 +1,3 @@
-## „(4a) A plasztikai és égés-sebészet szakképesítés esetén a második vagy további alap szakképesítés esetén a második vagy további alap szakképesítés megszerzésére irányuló rendszerbevételi eljárásban a rendszerbevételi pontszámot a szakképzés megkezdését megelőzően teljesített szakmai gyakorlat, az elsőként megszerzett szakvizsga típusa és eredménye, továbbá a tudományos tevékenységért és nyelvismeretért adható többletpontok és a személyes meghallgatás alapján számított pontérték adja. A rendszerbevételi eljárás során előnyben részesítendő, aki írásban vállalja, hogy a szakképzése megszerzését követően legalább a szakképzésének megfelelő ideig, legalább részmunkaidős foglalkoztatás keretében közfinanszírozott egészségügyi szolgáltatónál végez plasztikai és égéssebészeti tevékenységet.
+## 5. §[^5]
 
-## (4b) A (4a) bekezdés szerinti rendszerbevételi eljárásban a rendszerbevételi pontok számításának módját, az egyes, a (4a) bekezdésben meghatározott szempontokra adható pontszámok körét a plasztikai és égés-sebészet szakképzési grémiuma határozza meg, és az ÁEEK honlapján közzéteszi.
-
-## (4c) A plasztikai és égés-sebészet szakképesítés rendszerbevételi eljárásában a szakképzésbe lépéshez szükséges minimálisan elérhető pontszámot a plasztikai és égés-sebészet szakképzési grémiuma határozza meg, és az ÁEEK honlapján közzéteszi.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
