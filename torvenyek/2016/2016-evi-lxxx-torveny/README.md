@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-80-00-00
 | 2017-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-80-00-00.10 |
 | 2017-09-02 | 2010. évi CXXX. törvény | 2016-80-00-00.11 |
 | 2018-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-80-00-00.12 |
+| 2018-09-02 | 2010. évi CXXX. törvény | 2016-80-00-00.13 |

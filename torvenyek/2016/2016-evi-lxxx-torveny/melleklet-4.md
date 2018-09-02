@@ -1,1 +1,1 @@
-4–5. melléklet a 2016. évi LXXX. törvényhez
+4. melléklet a 2016. évi LXXX. törvényhez
