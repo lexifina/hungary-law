@@ -1,12 +1,12 @@
-22. § Hatályát veszti az Nkt.
+### 22. §
 
 1.
 
-2. 20. § (1) bekezdés a) pontja és (10) bekezdése,
+2.
 
 3–5.
 
-6. 65. § (9b) bekezdése,
+6.
 
 7–8.
 
