@@ -1,1 +1,1 @@
-1–2. melléklet a 2015. évi LXV. törvényhez
+1. melléklet a 2015. évi LXV. törvényhez
