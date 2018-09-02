@@ -1,4 +1,4 @@
-## 215. §[^104]
+## 215. §[^112]
 
 ## 100. A közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről,
 
@@ -6,4 +6,4 @@
 
 ## 410/2007. (XII. 29.) Korm. rendelet módosítása
 
-[^104]: A 215. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^112]: A 215. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 483. §[^235]
+## 483. §[^243]
 
 ## 231. Az egyes sajátos ipari építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló 31/2014. (II. 12.) Korm. rendelet módosítása
 
-[^235]: A 483. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^243]: A 483. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,9 +1,9 @@
-## lép.
+## 168. §[^89]
 
-## 168. § Hatályát veszti a 63/2006. (III. 27.) Korm. rendelet
+a)–j)[^90]
 
-a)–j)[^83]
+k)[^91]
 
-k) 2/A. számú melléklete.
-
-[^83]: A 168. § a)–j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: A 168. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 168. § a)–j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: A 168. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

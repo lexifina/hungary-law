@@ -1,5 +1,5 @@
-## 195. §[^97]
+## 195. §[^105]
 
 ## 93. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet módosítása
 
-[^97]: A 195. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: A 195. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

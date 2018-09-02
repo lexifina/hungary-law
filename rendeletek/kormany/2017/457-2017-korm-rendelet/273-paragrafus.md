@@ -1,5 +1,5 @@
-## 271–272. §[^133]
+## 271–272. §[^141]
 
 ## 129. A vizsgáló állomás engedélyezésének részletes eljárási szabályairól és a vizsgáló állomással kötendő hatósági szerződés tartalmáról szóló 302/2009. (XII. 22.) Korm. rendelet módosítása
 
-[^133]: A 271–272. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^141]: A 271–272. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

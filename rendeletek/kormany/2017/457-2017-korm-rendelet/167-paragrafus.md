@@ -1,10 +1,15 @@
-## 167. § A 63/2006. (III. 27.) Korm. rendelet
+## 166. §[^84]
 
-a)–c)[^81]
+## 167. §[^85]
 
-d) 14. § (2) bekezdésében a „2/A. számú” szövegrész helyébe a „2. számú” szöveg,
+a)–c)[^86]
 
-e)–k)[^82]
+d)[^87]
 
-[^81]: A 167. § a)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^82]: A 167. § e)–k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+e)–k)[^88]
+
+[^84]: A 166. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: A 167. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: A 167. § a)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^87]: A 167. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 167. § e)–k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

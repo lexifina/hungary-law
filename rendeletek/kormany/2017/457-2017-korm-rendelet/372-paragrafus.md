@@ -1,7 +1,7 @@
-## 370–371. §[^180]
+## 370–371. §[^188]
 
 ## 176. A munkavédelmi hatósági feladatokat ellátó egyes szervek kijelöléséről szóló
 
 ## 373/2011. (XII. 31.) Korm. rendelet módosítása
 
-[^180]: A 370–371. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^188]: A 370–371. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

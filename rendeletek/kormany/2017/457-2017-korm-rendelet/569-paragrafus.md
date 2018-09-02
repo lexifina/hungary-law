@@ -1,5 +1,5 @@
-## 567–568. §[^281]
+## 567–568. §[^289]
 
 ## 277. A használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet módosítása
 
-[^281]: Az 567–568. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^289]: Az 567–568. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

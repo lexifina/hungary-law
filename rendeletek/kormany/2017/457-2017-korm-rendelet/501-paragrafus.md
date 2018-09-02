@@ -1,7 +1,7 @@
-## 499–500. §[^243]
+## 499–500. §[^251]
 
 ## 239. A mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében árverés útján történő értékesítésének szabályairól szóló
 
 ## 191/2014. (VII. 31.) Korm. rendelet módosítása
 
-[^243]: A 499–500. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^251]: A 499–500. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

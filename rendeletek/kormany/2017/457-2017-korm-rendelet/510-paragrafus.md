@@ -1,7 +1,7 @@
-## 508–509. §[^248]
+## 508–509. §[^256]
 
 ## 244. A büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkavédelmi hatóság, valamint a munkaügyi hatósági jogkör gyakorlójának a kijelöléséről szóló
 
 ## 306/2014. (XII. 5.) Korm. rendelet módosítása
 
-[^248]: Az 508–509. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^256]: Az 508–509. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 332–333. §[^162]
+## 332–333. §[^170]
 
 ## 158. A szállás időben megosztott használati jogára, a hosszú távra szóló üdülési termékekre
 
@@ -6,4 +6,4 @@
 
 ## 141/2011. (VII. 21.) Korm. rendelet módosítása
 
-[^162]: A 332–333. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^170]: A 332–333. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

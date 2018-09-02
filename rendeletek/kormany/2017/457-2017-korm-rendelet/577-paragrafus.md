@@ -1,5 +1,5 @@
-## 574–576. §[^285]
+## 574–576. §[^293]
 
 ## 281. A lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet módosítása
 
-[^285]: Az 574–576. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^293]: Az 574–576. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

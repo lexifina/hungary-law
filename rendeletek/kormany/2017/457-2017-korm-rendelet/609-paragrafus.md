@@ -1,4 +1,4 @@
-## 606–608. §[^302]
+## 606–608. §[^310]
 
 ## 299. A vizsgálóállomás engedélyezésének részletes eljárási szabályairól szóló
 
@@ -42,7 +42,7 @@
 
 ## c) az auditálás során megállapított feltételeket.”
 
-(5)[^303]
+(5)[^311]
 
-[^302]: A 606–608. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^303]: A 609. § (5) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^310]: A 606–608. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^311]: A 609. § (5) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
