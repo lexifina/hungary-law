@@ -4,6 +4,6 @@
 
 2.
 
-3. 7. § (1) bekezdés b) pontjában az „a d) pont” szövegrész helyébe az „a d) és g) pont” szöveg
+3.
 
 lép.
