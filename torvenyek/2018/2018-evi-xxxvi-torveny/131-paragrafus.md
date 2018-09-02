@@ -1,3 +1,1 @@
-131. § A Ve. 171. alcíme a következő 353/A. §-sal egészül ki:
-
-„353/A. § E törvénynek az egyes választásokkal kapcsolatos törvények módosításáról szóló 2018. évi XXXVI. törvénnyel megállapított rendelkezéseit a hatálybalépését követően kitűzött választásokon kell alkalmazni.”
+131. §

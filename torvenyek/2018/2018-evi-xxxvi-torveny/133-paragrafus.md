@@ -2,12 +2,12 @@
 
 a)
 
-b) 2. melléklete helyébe a 2. melléklet,
+b)
 
-c) 4. melléklete helyébe a 3. melléklet,
+c)
 
-d) 8. melléklete helyébe a 4. melléklet
+d)
 
 lép.
 
-(2) A Ve. az 5. melléklet szerinti 9. melléklettel egészül ki.
+(2)
