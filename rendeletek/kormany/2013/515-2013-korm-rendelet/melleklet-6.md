@@ -32,6 +32,8 @@
 
 ## 16.[^73] Kormány által biztosított elektronikus azonosítási szolgáltatás, illetve részleges kódú telefonos azonosítás (RKTA) birtokában a hatósági erkölcsi bizonyítvány elektronikus úton történő benyújtásának biztosítása
 
+## 17.[^74] Pénzügyi fogyasztóvédelmi panaszok, közérdekű bejelentések, a Pénzügyi Békéltető Testület közigazgatási hatósági eljárásnak nem minősülő eljárására irányuló kérelmek továbbítása
+
 6. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
 [^68]: Az 5. melléklet 11. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (1) bekezdése iktatta be.
@@ -40,3 +42,4 @@
 [^71]: Az 5. melléklet 14. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^72]: Az 5. melléklet 15. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^73]: Az 5. melléklet 16. pontját a 143/2016. (VI. 13.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^74]: Az 5. melléklet 17. pontját a 155/2018. (IX. 3.) Korm. rendelet 2. § (2) bekezdése iktatta be.
