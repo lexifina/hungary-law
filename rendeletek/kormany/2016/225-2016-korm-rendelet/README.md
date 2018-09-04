@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-225-20-
 | 2016-08-02 | 2016-225-20-22.2 | 2010: CXXX. törvény |
 | 2016-09-01 | 2016-225-20-22.3 | 259/2016. (VIII. 31.) Korm. rendelet |
 | 2018-06-12 | 2016-225-20-22.4 | 101/2018. (VI. 11.) Korm. rendelet |
+| 2018-09-04 | 2016-225-20-22.5 | 157/2018. (IX. 3.) Korm. rendelet |
