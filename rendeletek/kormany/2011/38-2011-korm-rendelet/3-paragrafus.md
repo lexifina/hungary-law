@@ -70,4 +70,6 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 32. | fizetésképtelenségi nyilvántartás | Magyar Közlöny Lap- és Könyvkiadó Kft. | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
 
-[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a, a 311/2017. (X. 31.) Korm. rendelet 18. §-a, a 467/2017. (XII. 28.) Korm. rendelet 15. §-a, a 75/2018. (IV. 20.) Korm. rendelet 8. §-a szerint módosított szöveg.
+| 33. | A Nemzeti Választási Iroda adatkezelésében lévő, a választási eljárásról szóló 2013. évi XXXVI. törvény 76. § (3) bekezdésében meghatározott választási nyilvántartásokat kezelő informatikai rendszer | IdomSoft Informatikai Zártkörűen Működő Részvénytársaság | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
+
+[^1]: A melléklet a 379/2016. (XII. 2.) Korm. rendelet 172. §-ával megállapított, a 163/2017. (VI. 28.) Korm. rendelet 4. §-a, a 311/2017. (X. 31.) Korm. rendelet 18. §-a, a 467/2017. (XII. 28.) Korm. rendelet 15. §-a, a 75/2018. (IV. 20.) Korm. rendelet 8. §-a, a 156/2018. (IX. 3.) Korm. rendelet szerint módosított szöveg.
