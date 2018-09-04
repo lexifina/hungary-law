@@ -18,4 +18,7 @@
 
 (4) Ha a fél a kérelmét a másik tagállam által a kérelmek fogadására megjelölt nyelven kívánja benyújtani és ahhoz kifejezetten ilyen nyelvű nyomtatványt kér, a területi hivatal azt a fél rendelkezésére bocsátja, ebben az esetben a kérelmet és mellékleteit a területi hivatal nem fordítja le.
 
+(5)[^6] A területi hivatal a fél szabályosan kitöltött kérelmét és mellékleteit a kézhezvételüktől számított 15 napon belül továbbítja a másik tagállam illetékes fogadó hatósága részére.
+
 [^5]: A 24. § (2) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^6]: A 24. § (5) bekezdését a 155/2018. (IX. 3.) Korm. rendelet 8. §-a iktatta be.

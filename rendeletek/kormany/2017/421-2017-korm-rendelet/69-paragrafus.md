@@ -1,4 +1,4 @@
-## 68. §[^7] A kiskorú sértett és magánfél részére a pártfogó ügyvédi képviseletet további bizonyítás nélkül – ide nem értve azt, hogy a jogi képviselet költségeit vagy a tényleges jogi képviseletet más állami támogatási rendszerben már megkapta-e – engedélyezni kell.
+## 68. §[^8] A kiskorú sértett és magánfél részére a pártfogó ügyvédi képviseletet további bizonyítás nélkül – ide nem értve azt, hogy a jogi képviselet költségeit vagy a tényleges jogi képviseletet más állami támogatási rendszerben már megkapta-e – engedélyezni kell.
 
 ## XIV. Fejezet
 
@@ -8,10 +8,10 @@
 
 69. § (1) A pártfogó ügyvéd büntetőeljárásban történő kirendelésére a 38. § rendelkezését ebben az alcímben meghatározott eltérésekkel kell alkalmazni.
 
-(2)[^8] A területi hivatal a kirendelő végzésben az eljáró bíróságot, ügyészséget vagy nyomozó hatóságot, a büntetőeljárás ügyszámát és azt a bűncselekményt is megjelöli, amely miatt a büntetőeljárás folyik.
+(2)[^9] A területi hivatal a kirendelő végzésben az eljáró bíróságot, ügyészséget vagy nyomozó hatóságot, a büntetőeljárás ügyszámát és azt a bűncselekményt is megjelöli, amely miatt a büntetőeljárás folyik.
 
-(3)[^9] A kirendelő végzést a bíróságnak, az ügyészségnek vagy a nyomozó hatóságnak is kézbesíteni kell.
+(3)[^10] A kirendelő végzést a bíróságnak, az ügyészségnek vagy a nyomozó hatóságnak is kézbesíteni kell.
 
-[^7]: A 68. § a 109/2018. (VI. 25.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
-[^8]: A 69. § (2) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
-[^9]: A 69. § (3) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.
+[^8]: A 68. § a 109/2018. (VI. 25.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^9]: A 69. § (2) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
+[^10]: A 69. § (3) bekezdése a 109/2018. (VI. 25.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.
