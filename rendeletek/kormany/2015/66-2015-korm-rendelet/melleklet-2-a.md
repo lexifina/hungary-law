@@ -14,7 +14,7 @@
 
 ## 1.2. Az ellenőrzés típusai:
 
-## a) Átfogó ellenőrzés: a vizsgált szervek feladat- és hatáskörébe tartozó, meghatározott időszakra vonatkozó – legalább négy éves ciklusonként végzett – törvényességi, szakszerűségi, hatékonysági és pénzügyi ellenőrzése.
+## a)[^43] Átfogó ellenőrzés: a vizsgált szervek feladat- és hatáskörébe tartozó, meghatározott időszakra vonatkozó törvényességi, szakszerűségi, hatékonysági és pénzügyi ellenőrzése.
 
 ## b) Témaellenőrzés: meghatározott téma, adott feladat ellátásának vizsgálata egy időszakban több szervnél abból a célból, hogy a megállapítások eredményeként általánosítható következtetéseket lehessen levonni, és ennek megfelelő intézkedéseket lehessen tenni.
 
@@ -30,7 +30,7 @@
 
 ## c) iratellenőrzés.
 
-## 1.4. Miniszter: a közigazgatás-szervezésért felelős miniszter. A miniszter a fővárosi és megyei kormányhivatalok ellenőrzésére vonatkozó feladatait a mellékletben foglaltak szerint a területi közigazgatásért felelős államtitkár (a továbbiakban: államtitkár) útján látja el.
+## 1.4.[^44] Miniszter: a közigazgatás-szervezésért felelős miniszter. A miniszter a fővárosi és megyei kormányhivatalok ellenőrzésére vonatkozó feladatait a mellékletben foglaltak szerint a közszolgálatért felelős államtitkár (a továbbiakban: államtitkár) útján látja el.
 
 ## 1.5. Minisztérium: a miniszter által vezetett minisztérium.
 
@@ -94,7 +94,7 @@
 
 ## 3.5. Az ellenőrzési program végrehajtása az ellenőrzés lefolytatásából és az összefoglaló jelentés elkészítéséből áll.
 
-## 3.6. Az ellenőrzési program végrehajtására legfeljebb 70 nap áll rendelkezésre. Átfogó ellenőrzés esetén az ellenőrzés lefolytatására és a részjelentés elkészítésére legfeljebb 40 nap, a végleges összefoglaló jelentés elkészítésére legfeljebb 30 nap áll rendelkezésre. A helyszíni ellenőrzést az átfogó ellenőrzés kezdő időpontjától számított 20 napon belül le kell folytatni.
+## 3.6.[^45] Az átfogó ellenőrzési program végrehajtására legfeljebb 90 nap áll rendelkezésre. Átfogó ellenőrzés esetén az ellenőrzés lefolytatására és a részjelentés elkészítésére legfeljebb 40 nap, a végleges összefoglaló jelentés elkészítésére legfeljebb 50 nap áll rendelkezésre. A helyszíni ellenőrzést az átfogó ellenőrzés kezdő időpontjától számított 20 napon belül le kell folytatni. A szakmai irányítók által javasolt téma-, cél- és utóellenőrzések ellenőrzési programjának végrehajtására legfeljebb 70 nap áll rendelkezésre.
 
 ## 3.7. Átfogó ellenőrzés esetén az ellenőrzés lefolytatására fordítható időtartamot – figyelemmel a 3.6. pontban foglaltakra – az ellenőrzést lefolytató szerv állapítja meg, melyet a minisztérium az ellenőrzési programban rögzít.
 
@@ -128,7 +128,7 @@
 
 ## 4.2. Az átfogó ellenőrzések összefoglaló jelentését az államtitkár hagyja jóvá. A szakmai irányítók által javasolt téma-, cél- és utóellenőrzésekkel kapcsolatos ellenőrzési program végrehajtásával kapcsolatban készült összefoglaló jelentést a szakmai irányító hagyja jóvá.
 
-## 4.3.[^41] A szakmai irányítók által javasolt téma-, cél- és utóellenőrzésekkel kapcsolatos ellenőrzési program végrehajtásával kapcsolatban készült összefoglaló jelentés tervezetét a szakmai irányító az elkészítését követő 15. napig megküldi az ellenőrzött fővárosi és megyei kormányhivatal vezetőjének és az államtitkárnak véleményezés céljából. A fővárosi és megyei kormányhivatal és az államtitkár a szakmai irányítók által javasolt téma-, cél- és utóellenőrzésekkel kapcsolatos ellenőrzési program végrehajtásával kapcsolatban készült összefoglaló jelentés tervezetével kapcsolatos álláspontjáról 15 napon belül tájékoztatja a szakmai irányítót. A fővárosi és megyei kormányhivatal álláspontját egyidejűleg tájékoztatásul a minisztérium részére is megküldi. A végleges összefoglaló jelentést a szakmai irányító megküldi az ellenőrzött fővárosi és megyei kormányhivatal vezetőjének és az államtitkárnak.
+## 4.3.[^46] A szakmai irányítók által javasolt téma-, cél- és utóellenőrzésekkel kapcsolatos ellenőrzési program végrehajtásával kapcsolatban készült összefoglaló jelentés tervezetét a szakmai irányító az elkészítését követő 15. napig megküldi az ellenőrzött fővárosi és megyei kormányhivatal vezetőjének és az államtitkárnak véleményezés céljából. A fővárosi és megyei kormányhivatal és az államtitkár a szakmai irányítók által javasolt téma-, cél- és utóellenőrzésekkel kapcsolatos ellenőrzési program végrehajtásával kapcsolatban készült összefoglaló jelentés tervezetével kapcsolatos álláspontjáról 15 napon belül tájékoztatja a szakmai irányítót. A fővárosi és megyei kormányhivatal álláspontját egyidejűleg tájékoztatásul a minisztérium részére is megküldi. A végleges összefoglaló jelentést a szakmai irányító megküldi az ellenőrzött fővárosi és megyei kormányhivatal vezetőjének és az államtitkárnak.
 
 ## 4.4. Az egyes átfogó ellenőrzéseknél az átfogó ellenőrzésben részt vevő szervek az általuk lefolytatott ellenőrzésekről – az összefoglaló jelentés tartalmi elemeinek figyelembevételével – részjelentést készítenek, amelyet a jóváhagyott ellenőrzési programban meghatározott időpontig megküldenek a minisztérium részére.
 
@@ -364,7 +364,10 @@
 
 ## 13.2. Az ellenőrzött szerv vezetője felel az ellenőrzött szervnél a megállapítások és javaslatok alapján – szükség esetén – végrehajtandó intézkedések megvalósulásáért.
 
-2/A. melléklet a 66/2015. (III. 30.) Korm. rendelethez[^42]
+2/A. melléklet a 66/2015. (III. 30.) Korm. rendelethez[^47]
 
-[^41]: A 2. melléklet 4. pont 4.3. alpontja a 441/2015. (XII. 28.) Korm. rendelet 244. § c) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^42]: A 2/A. mellékletet a 305/2017. (X. 27.) Korm. rendelet 3. §-a iktatta be.
+[^43]: A 2. melléklet 1.2. pontja a 155/2018. (IX. 3.) Korm. rendelet 3. § (5) bekezdése szerint módosított szöveg.
+[^44]: A 2. melléklet 1.4. pontja a 155/2018. (IX. 3.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^45]: A 2. melléklet 3.6. pontja a 155/2018. (IX. 3.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^46]: A 2. melléklet 4. pont 4.3. alpontja a 441/2015. (XII. 28.) Korm. rendelet 244. § c) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^47]: A 2/A. mellékletet a 305/2017. (X. 27.) Korm. rendelet 3. §-a iktatta be.

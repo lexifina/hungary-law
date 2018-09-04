@@ -1,4 +1,4 @@
-## 15/B. §[^16] A járási hivatalnak az egyszerűsített hatósági ellenőrzés során feltárt jogsértés jogkövetkezményének alkalmazására irányuló eljárásában az ügyintézési határidő 20 nap.
+## 15/B. §[^18] A járási hivatalnak az egyszerűsített hatósági ellenőrzés során feltárt jogsértés jogkövetkezményének alkalmazására irányuló eljárásában az ügyintézési határidő 20 nap.
 
 ## 9. Koordináció
 
@@ -14,4 +14,4 @@ d) kezdeményezi a központi államigazgatási szervek területi szervei ügyfé
 
 e) gondoskodik a területi elektronikus ügyfél-tájékoztatási rendszer koordinálásáról, ennek keretében elősegíti annak naprakész működését.
 
-[^16]: A 15/B. §-t a 305/2017. (X. 27.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 15/B. §-t a 305/2017. (X. 27.) Korm. rendelet 1. §-a iktatta be.

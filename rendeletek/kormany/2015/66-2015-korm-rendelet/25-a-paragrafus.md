@@ -1,4 +1,4 @@
-## 14/A. [^35] Tudástár
+## 14/A. [^37] Tudástár
 
 25/A. § (1) A miniszter az e §-ban meghatározottak szerint gondoskodik az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet szerinti tudástár (a továbbiakban: tudástár) kormányhivatalokra vonatkozó tudásanyagának kezeléséről.
 
@@ -16,4 +16,4 @@ b) a hatályon kívül helyezett jogszabályon alapuló ügykörökhöz kapcsol�
 
 (6) A tudástár szakmai tartalmát közvetlenül érintő, az ügykör elintézhetőségét közvetlenül befolyásoló hiba észlelése esetén a miniszter a szakminiszterhez fordul, aki köteles a tartalmi hiba kijavításáról a megkeresés kézhezvételét követő három munkanapon belül gondoskodni. A tartalmi hiba kijavítására kizárólag a szakminiszter egyetértésével kerülhet sor. Ha a tartalmi hiba kijavításának módjáról vagy annak szükségességéről vita van a miniszter és a szakminiszter között, a felek kötelesek egyeztetés keretében megkísérelni a vita rendezését.
 
-[^35]: A 14/A. alcímet (25/A. §) a 171/2017. (VI. 29.) Korm. rendelet 18. § (3) bekezdése iktatta be.
+[^37]: A 14/A. alcímet (25/A. §) a 171/2017. (VI. 29.) Korm. rendelet 18. § (3) bekezdése iktatta be.

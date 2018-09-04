@@ -4,7 +4,7 @@
 
 a) ellenőrzi a központi államigazgatási szervek területi szervei vezetőinek a kormánytisztviselői és a közalkalmazotti jogviszonnyal kapcsolatos munkáltatói intézkedései törvényességét, illetve külön jogszabályban meghatározottak szerint kormányzati szolgálati ellenőrzést végez,
 
-b)[^17] ellenőrzi a központi államigazgatási szervek területi szervei tevékenységében az Ákr. megfelelő alkalmazását,
+b)[^19] ellenőrzi a központi államigazgatási szervek területi szervei tevékenységében az Ákr. megfelelő alkalmazását,
 
 c) ellenőrzi – az illetékes közlevéltárral egyeztetett ellenőrzési terv és program szerint – az ügyiratkezelésről, valamint a központi államigazgatási szervek területi szervei által az ügyiratkezeléssel összefüggésben kezelt adatok nyilvántartásáról és védelméről, a közérdekű adatok nyilvánosságáról szóló jogszabályok megfelelő alkalmazását,
 
@@ -20,7 +20,7 @@ f) gondoskodik a gazdaságos, egymást kiegészítő ellenőrzési módok kialak
 
 (4) A közigazgatás-szervezésért felelős miniszter gondoskodik az ellenőrzések tervezésének és végrehajtásának egységes rendjéről.
 
-(5)[^18] A közigazgatás-szervezésért felelős miniszter – a rendészetért felelős miniszter minden év december 1-ig tett javaslata alapján – a következő évre vonatkozóan minden év december 31-ig ellenőrzési tervet ad ki a jogorvoslattal nem érintett, azon jegyzői hatáskörbe tartozó államigazgatási ügyek felülvizsgálata érdekében, amelyekben nincs ellenérdekű fél.
+(5)[^20] A közigazgatás-szervezésért felelős miniszter – a rendészetért felelős miniszter minden év december 1-ig tett javaslata alapján – a következő évre vonatkozóan minden év december 31-ig ellenőrzési tervet ad ki a jogorvoslattal nem érintett, azon jegyzői hatáskörbe tartozó államigazgatási ügyek felülvizsgálata érdekében, amelyekben nincs ellenérdekű fél.
 
-[^17]: A 19. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 529. § c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^18]: A 19. § (5) bekezdését a 474/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 19. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 529. § c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^20]: A 19. § (5) bekezdését a 474/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

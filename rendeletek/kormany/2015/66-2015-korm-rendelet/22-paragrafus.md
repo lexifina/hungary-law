@@ -1,4 +1,4 @@
-## 21. §[^20] A fővárosi és megyei kormányhivatal – a közigazgatás-szervezésért felelős miniszter irányításával – ellenőrzi a járási hivatalok tevékenységében az Ákr. megfelelő alkalmazását.
+## 21. §[^22] A fővárosi és megyei kormányhivatal – a közigazgatás-szervezésért felelős miniszter irányításával – ellenőrzi a járási hivatalok tevékenységében az Ákr. megfelelő alkalmazását.
 
 ## 11. Véleményezési jogkör
 
@@ -6,4 +6,4 @@
 
 (2) A vélemény kikérésének elmulasztása esetén a fővárosi és megyei kormányhivatal jelzéssel él a közigazgatás-szervezésért felelős miniszter felé, aki a kérdésben egyeztetést kezdeményezhet.
 
-[^20]: A 21. § a 457/2017. (XII. 28.) Korm. rendelet 529. § e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^22]: A 21. § a 457/2017. (XII. 28.) Korm. rendelet 529. § e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

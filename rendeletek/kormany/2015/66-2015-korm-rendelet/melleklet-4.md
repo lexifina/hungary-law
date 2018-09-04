@@ -20,6 +20,6 @@
 
 | 10. | Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Hajdú-Bihar Megyei Kormányhivatal |
 
-4. melléklet a 66/2015. (III. 30.) Korm. rendelethez[^43]
+4. melléklet a 66/2015. (III. 30.) Korm. rendelethez[^48]
 
-[^43]: A 4. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 292. § (3) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 530. § d) pontja, alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^48]: A 4. mellékletet a 379/2016. (XII. 2.) Korm. rendelet 292. § (3) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 530. § d) pontja, alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
