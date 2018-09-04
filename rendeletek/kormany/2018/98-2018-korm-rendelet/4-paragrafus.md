@@ -1,1 +1,3 @@
-## 3. § A korábbi munkáltató a 2. § (2) bekezdése szerinti értesítés kézhezvételét követő 3 munkanapon belül a tisztviselő részére a megváltásra kerülő szabadságról, valamint az új jogviszonya alapján a tisztviselőt megillető szabadsághoz hozzászámítandó szabadságról és a végkielégítésnek a visszafizetéssel érintett összegéről igazolást állít ki, amelyet egyidejűleg az új munkáltató részére is továbbít.
+## 3. §[^2] Ha a tisztviselő a Kttv. 62/A. §-a szerint új jogviszonyt nem létesít, erről – a Kttv. 107. § (2) bekezdés b) pontja szerint a korábbi munkáltatót terhelő kötelezettség teljesítése érdekében – a jogviszonya megszűnését követő 31. naptól számított 3 munkanapon belül a korábbi munkáltatót írásban értesíti.
+
+[^2]: A 3. § a 158/2018. (IX. 3.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-98-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-06-02 | 2018-98-20-22.1 | 98/2018. (VI. 1.) Korm. rendelet |
+| 2018-09-04 | 2018-98-20-22.2 | 158/2018. (IX. 3.) Korm. rendelet |
