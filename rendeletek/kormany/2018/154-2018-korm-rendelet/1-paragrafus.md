@@ -1,0 +1,3 @@
+1. § (1) A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény szerinti Budai Palotanegyed területén található ingatlanok felsorolását az 1. melléklet tartalmazza.
+
+(2) A Budai Palotanegyed területébe tartozó ingatlannak kell tekinteni a telekalakítási eljárásban hozott, véglegessé vált döntés alapján az 1. mellékletben felsorolt ingatlanokból kialakított ingatlanokat is.
