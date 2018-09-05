@@ -1,40 +1,47 @@
-14/A. §[^47] (1) A céginformációs szolgálat a Ctv. 38. § (1) bekezdésében foglalt adatellenőrzés során a cégbejegyzési és változásbejegyzési kérelemben – az informatikai ellenőrzéssel egyidejűleg – az alábbi adatok ellenőrzését végzi el:
+14/A. §[^48] (1) A céginformációs szolgálat a Ctv. 38/A. § (1) bekezdésében foglalt adatellenőrzés során a cégbejegyzési és változásbejegyzési kérelemben – az informatikai ellenőrzéssel egyidejűleg – az alábbi adatok ellenőrzését végzi el:
 
 a) székhely, telephely, fióktelep (e § alkalmazásában a továbbiakban együtt: székhely),
 
-b) a képviseletre jogosult cégjegyzékbe bejegyzendő adatai,
+b) a vezető tisztségviselő, illetve a képviseletre jogosult cégjegyzékbe bejegyzendő adatai,
 
-c) a tagok cégjegyzékbe bejegyzendő adatai, továbbá adóazonosító száma,
+c) a cégjegyzékbe bejegyzendő személyek (természetes személy, jogi személy, egyéb szervezet) adatai,
 
-d) főtevékenység és további tevékenységi kör(ök), valamint
+d) főtevékenység és további tevékenységi kör(ök),
 
-e)[^48] az áfa-alanyiságra, illetve az áfa-adózási módra vonatkozó, továbbá egyéb adóhatóság felé tett nyilatkozat.
+e) korlátolt felelősségű társaság, részvénytársaság esetén a cégformára előírt jegyzett tőke minimumra vonatkozó előírás,
+
+f) az áfaalanyiságra, illetve az áfaadózási módra vonatkozó, továbbá egyéb adóhatóság felé tett nyilatkozat.
 
 (2) A céginformációs szolgálat megvizsgálja
 
-a) a bejegyzési és változásbejegyzési kérelemben (a továbbiakban: kérelem) az (1) bekezdésben megjelölt valamennyi kötelezően kitöltendő adat hiánytalan kitöltését,
+a) a bejegyzési és változásbejegyzési kérelem nyomtatványában (nyomtatványban) kitöltendő adat hiánytalan és pontos kitöltését,
 
-b) a cégjegyzékbe bejegyzendő magyarországi székhely és a kérelemben feltüntetésre kerülő magyarországi lakcím 2. § (6) bekezdésben, továbbá az irányítószámnak és a településnek az egyetemes postai szolgáltató által közzétett települési irányítószámokat tartalmazó adatbázisában foglaltaknak megfelelő kitöltését,
+b) a cégjegyzékbe bejegyzendő magyarországi címnek (székhely, lakcím) a 2. § (6) bekezdésében, továbbá az irányítószámnak és a településnek az egyetemes postai szolgáltató által közzétett települési irányítószámokat tartalmazó adatbázisában foglaltaknak megfelelő megadását,
 
-c) a cégjegyzékbe bejegyzendő külföldi székhely vagy lakóhely esetén a Közösség külkereskedelmi statisztikájára és a tagállamok közötti kereskedelmi statisztikákra vonatkozó ország- és területnómenklatúráról szóló 2006. december 13-i 1833/2006/EK rendelet szerinti országkódok feltüntetését,
+c) a nyomtatványban megadott, az állami adó- és vámhatóság által kiadott adóazonosító számnak az azonosító számok képzésére vonatkozó szabályokkal való összhangját,
 
-d) a képviseletre jogosult és a cégjegyzékbe bejegyzendő tagok tekintetében az állami adóhatóság által kiadott adóazonosító számnak az azonosító számok képzésére vonatkozó szabályokkal való összhangját,
+d) a nyomtatványban megadott, már a cégjegyzékben szereplő cégnek a cégjegyzékbe bejegyzett adataival való egyezőségét,
 
-e)[^49] a cég bejegyzendő főtevékenységének és további tevékenységi körének (köreinek) a gazdasági tevékenységek egységes ágazati osztályozási rendszeréről (TEÁOR) szóló tájékoztatóban foglaltaknak megfelelő megjelölését,
+e) a bejegyzendő természetes személyek adatainak a természetes személyek nyilvántartásában szereplő adataival való egyezőségét,
 
-f)[^50] az adózás rendjéről szóló 2003. évi XCII. törvény 22. § (1) bekezdése szerinti nyilatkozat és a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 7. §-a szerinti bejelentés kitöltésének konzisztenciáját, valamint a kisadózóként bejelentett személy adatai és a cég tagja adatainak egyezőségét,
+f) a cégjegyzékbe bejegyzendő külföldi székhely vagy lakóhely esetén az ISO 3166-1 szabvány szerinti kétbetűs országkódok feltüntetését,
 
-g)[^51] a kérelemben feltüntetett jegyzett tőke pénznemének az ISO 4217 szabványnak való megfelelőségét,
+g) a cégjegyzékbe bejegyzendő külföldi székhellyel vagy lakóhellyel rendelkező személy esetén azt, hogy a nyomtatvány tartalmaz-e kézbesítési megbízottat,
 
-h)[^52] a kérelemben megjelölt EUID-nak az ISO 6523 szabványnak, illetve a Bizottságnak a nyilvántartások összekapcsolására szolgáló 2009/101/EK európai parlamenti és tanácsi irányelvvel létrehozott rendszer céljából szükséges műszaki leírások és eljárások megállapításáról szóló 2015. június 8-i (EU) 2015/884 Végrehajtási rendeletének való megfelelőségét.
+h) a cég bejegyzendő főtevékenységének és további tevékenységi körének (köreinek) a gazdasági tevékenységek egységes ágazati osztályozási rendszeréről (TEÁOR) szóló tájékoztatóban foglaltak megjelölésének megfelelőségét,
 
-(3) Amennyiben a kérelem nem tartalmazza megfelelően a (2) bekezdés szerinti adatokat, a céginformációs szolgálat az iratokat a hiba vagy hiányosság megjelölésével küldi vissza a jogi képviselőnek.
+i) az adózás rendjéről szóló 2017. évi CL. törvény 16. §-a szerinti nyilatkozat és a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 7. §-a szerinti bejelentés kitöltésének konzisztenciáját, valamint a kisadózóként bejelentett személy adatainak és a cég tagja adatainak egyezőségét,
 
-(4) A céginformációs szolgálat a (2) bekezdés szerinti ellenőrzési szempontokat, valamint az ellenőrzés alapjául szolgáló adatbázisok vagy algoritmusok elérhetőségét honlapján közzéteszi. Az adatbázisok vagy algoritmusok változásáról az azt megállapító szervezet haladéktalanul értesíti a céginformációs szolgálatot.
+j) a nyomtatványban feltüntetett jegyzett tőke pénznemének az ISO 4217 szabványnak való megfelelőségét,
 
-[^47]: A 14/A. §-t a 33/2012. (VII. 13.) KIM rendelet 1. §-a iktatta be, szövege a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról szóló 2012. évi CIV. törvény hatályba lépésének napján lép hatályba
-[^48]: A 14/A. § (1) bekezdés e) pontja a 49/2012. (XI. 29.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^49]: A 14/A. § (2) bekezdés e) pontja a 6/2017. (VI. 1.) IM rendelet 7. §-a szerint módosított szöveg
-[^50]: A 14/A. § (2) bekezdés f) pontja a 49/2012. (XI. 29.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^51]: A 14/A. § (2) bekezdés g) pontját a 6/2017. (VI. 1.) IM rendelet 2. §-a iktatta be.
-[^52]: A 14/A. § (2) bekezdés h) pontját a 6/2017. (VI. 1.) IM rendelet 2. §-a iktatta be.
+k) a nyomtatványban forintban megadott jegyzett tőke összegnek a törvényben előírt tőkeminimumnak való megfelelőségét,
+
+l) változásbejegyzés esetén a nyomtatványban megadott adatváltozások időpontjának a megfelelőségét,
+
+m) a nyomtatványban megadott EUID-nak az ISO 6523 szabványnak, illetve a Bizottságnak a nyilvántartások összekapcsolására szolgáló 2009/101/EK európai parlamenti és tanácsi irányelvvel létrehozott rendszer céljából szükséges műszaki leírások és eljárások megállapításáról szóló, 2015. június 8-i (EU) 2015/884 végrehajtási rendeletének való megfelelőségét.
+
+(3) Ha a nyomtatvány nem tartalmazza megfelelően a (2) bekezdés szerinti adatokat, a céginformációs szolgálat a cégbejegyzési (változásbejegyzési) kérelmet a hiba vagy hiányosság megjelölésével küldi vissza a jogi képviselőnek.
+
+(4) A céginformációs szolgálat a (2) bekezdés szerinti ellenőrzési szempontokat, valamint az ellenőrzés alapjául szolgáló adatbázisok vagy algoritmusok elérhetőségét a honlapján közzéteszi. Az adatbázisok vagy algoritmusok változásáról az azt megállapító szervezet haladéktalanul értesíti a céginformációs szolgálatot.
+
+[^48]: A 14/A. §-t a 33/2012. (VII. 13.) KIM rendelet 1. §-a iktatta be, szövege a 24/2018. (VIII. 31.) IM rendelet 3. §-ával megállapított szöveg.

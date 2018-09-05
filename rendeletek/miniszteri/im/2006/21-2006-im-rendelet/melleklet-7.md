@@ -460,9 +460,7 @@
 
 ## [^85Név:]
 
-## Ellenjegyezte/közokiratba foglalta:[^86.]
-
-## ................................................................................................................................................
+## Okirati ellenjegyzés/közjegyzői okirat elemei
 
 7. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^71]
 
@@ -766,9 +764,7 @@ Az alapító aláírása:
 
 Név:
 
-Ellenjegyezte/közokiratba foglalta:[^50.]
-
-......................................................................................................................................
+Okirati ellenjegyzés/közjegyzői okirat elemei
 
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
@@ -847,8 +843,7 @@ Ellenjegyezte/közokiratba foglalta:[^50.]
 [^83.]: Aláhúzással jelölendő.
 [^84.]: Amennyiben a társaság a közvetlen közzétételi kötelezettségének honlapján tesz eleget, a cégjegyzéknek tartalmaznia kell a társaság honlapjának címét.
 [^85Név:]: Bővíthető.
-[^86.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
-[^71]: A 7. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés d) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés f) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § d) pontja szerint módosított szöveg.
+[^71]: A 7. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés d) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés f) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § d) pontja, a 24/2018. (VIII. 31.) IM rendelet 7. § (2) bekezdése szerint módosított szöveg.
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
@@ -892,4 +887,3 @@ Ellenjegyezte/közokiratba foglalta:[^50.]
 [^47.]: Szervezet esetén kell kitölteni.
 [^48.]: Aláhúzással jelölendő.
 [^49.]: Amennyiben a társaság a közvetlen közzétételi kötelezettségének honlapján tesz eleget, a cégjegyzéknek tartalmaznia kell a társaság honlapjának a címét.
-[^50.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.

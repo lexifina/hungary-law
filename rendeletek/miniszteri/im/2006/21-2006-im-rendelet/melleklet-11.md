@@ -170,9 +170,7 @@
 
 ## Név:
 
-## Ellenjegyezte/közokiratba foglalta:[^22.]
-
-## ………………………………………………………………………………..
+## Okirati ellenjegyzés/közjegyzői okirat elemei
 
 11. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^75]
 
@@ -196,5 +194,4 @@
 [^19.]: A Ptk. 3:38. § és 3:129-131 § esetén.
 [^20.]: Természetes személy esetén kell kitölteni.
 [^21.]: Szervezet esetén kell kitölteni.
-[^22.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
-[^75]: A 11. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 7. § i) pontja szerint módosított szöveg.
+[^75]: A 11. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 7. § i) pontja, a 24/2018. (VIII. 31.) IM rendelet 7. § (2) bekezdése szerint módosított szöveg.

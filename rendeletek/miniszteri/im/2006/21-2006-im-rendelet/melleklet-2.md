@@ -122,11 +122,7 @@
 
 ## a) Főtevékenység
 
-## aa) Annak jelölése, ha a tevékenység közhasznú
-
 ## b) További tevékenységi kör(ök)
-
-## ba) Annak jelölése, ha valamely tevékenység közhasznú;
 
 ## 10.) 10. rovat: A meghatározott időtartamra alapított cég esetén a meghatározott idő lejártának az időpontja:
 
@@ -232,7 +228,7 @@
 
 ## g) Aláíró tanúsítvány
 
-## h) Annak jelölése, hogy a képviseletre jogosult cégaláírási nyilatkozata vagy az ügyvéd által ellenjegyzett aláírás-mintája csatolásra került
+## h) Annak jelölése, hogy a képviseletre jogosult cégaláírási nyilatkozata vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintája csatolásra került
 
 ## i) A jogviszony kezdete
 
@@ -672,6 +668,8 @@
 
 ## e) Annak jelölése, ha a cég tagja e jogállását bizalmi vagyonkezelőként szerezte meg
 
+## f) Annak jelölése, ha a tag közös tulajdonú üzletrész tekintetében közös képviselő
+
 ## 4.2.) 2. cégformától függő rovat: Az üzletrészen alapított zálogjog adatai:
 
 ## a) Az üzletrész tulajdonosának (zálogkötelezett) adatai természetes személy esetén:
@@ -683,6 +681,8 @@
 ## ac) Lakóhely/külföldi lakóhely
 
 ## ad) Külföldi lakóhellyel rendelkező személy esetén a kézbesítési megbízott adatai
+
+## ae) A tagra vonatkozó alrovatszám
 
 ## b) Az üzletrész tulajdonosának (zálogkötelezett) adatai nem természetes személy esetén:
 
@@ -1072,7 +1072,17 @@
 
 ## g) Annak jelölése, ha a külföldi vállalkozás EUID-val nem rendelkezik
 
-## 9.2.) 3. cégformától függő rovat: A külföldi vállalkozás képviseletére jogosult személy vagy szerv adatai (több is megadható, megadása kötelező):
+## h) Külföldi közteherviselési azonosító az ország megadásával
+
+## i) Annak jelölése, ha külföldi közteherviselési azonosítóval nem rendelkezik
+
+## 9.2.) 2. cégformától függő rovat: A külföldi vállalkozás cégjegyzékét (nyilvántartását) vezető bíróság, illetve hatóság adatai (ha ilyen adattal a külföldi vállalkozás rendelkezik, megadása kötelező):
+
+## a) A bíróság (hatóság) megnevezése
+
+## b) Székhelye
+
+## 9.3.) 3. cégformától függő rovat: A külföldi vállalkozás képviseletére jogosult személy vagy szerv adatai (több is megadható, megadása kötelező):
 
 ## a) Természetes személy(ek) adatai:
 
@@ -1082,7 +1092,7 @@
 
 ## ac) Adóazonosító jel
 
-## ad) Annak jelölése, ha külföldi személy és magyar adóazonosító jellel nem rendelkezik,
+## ad) Annak jelölése, ha külföldi személy, és magyar adóazonosító jellel nem rendelkezik,
 
 ## ae) Lakóhely/külföldi lakóhely
 
@@ -1114,7 +1124,7 @@
 
 ## 10.) 18 A végrehajtói iroda
 
-## 2. cégformától függő rovat: A végrehajtói iroda önálló bírósági végrehajtó tagjának/tagjainak adatai (több is megadható, valamennyi tagot nem kell adni):
+## 2. cégformától függő rovat: A végrehajtói iroda önálló bírósági végrehajtó tagjának/tagjainak adatai (több is megadható, valamennyi tagot meg kell adni):
 
 ## a) Önálló bírósági végrehajtó adatai:
 
@@ -1180,11 +1190,13 @@
 
 ## bh) A szervezet székhelye/külföldi székhely
 
-## bi) Külföldi közteherviselési azonosító az ország megadásával
+## bi) Adószám
 
-## bj) Annak jelölése, ha külföldi közteherviselési azonosítóval nem rendelkezik
+## bj) Külföldi közteherviselési azonosító az ország megadásával
 
-## bk) Külföldi szervezet esetén a kézbesítési megbízott adatai
+## bk) Annak jelölése, ha külföldi közteherviselési azonosítóval nem rendelkezik
+
+## bl) Külföldi szervezet esetén a kézbesítési megbízott adatai
 
 ## c) Annak jelölése, ha a cég tagja e jogállását bizalmi vagyonkezelőként szerezte meg
 
@@ -1298,7 +1310,7 @@
 
 ## a) A részvénytársasági hirdetmények közzétételének módja és helye
 
-## 7. cégformától függő rovat:
+## 12.6.) 7. cégformától függő rovat: Székhelyáthelyezés folytán bejegyzett cég esetén az előző székhely szerinti adatok:
 
 ## a) Külföldi székhely
 
@@ -1306,7 +1318,7 @@
 
 ## c) Nyilvántartási szám
 
-## 12.6.) 8. cégformától függő rovat: Az ügyvezetés típusa (egy válasz kötelezően jelölendő):
+## 12.7.) 8. cégformától függő rovat: Az ügyvezetés típusa (egy válasz kötelezően jelölendő):
 
 ## a) igazgatóság
 
@@ -1314,7 +1326,7 @@
 
 ## c) igazgatótanács
 
-## 12.7.) 10. cégformától függő rovat: A részvény átruházását az alapszabály korlátozza (egyik válasz kötelezően jelölendő):
+## 12.8.) 10. cégformától függő rovat: A részvény átruházását az alapszabály korlátozza (egyik válasz kötelezően jelölendő):
 
 ## a) igen
 
@@ -1466,7 +1478,7 @@
 
 ## c) Adóazonosító jel
 
-## d) Külföldi közteherviselési azonosító az ország megadásával,
+## d)
 
 ## e) Annak jelölése, ha külföldi személy, azonban külföldi közteherviselési azonosítóval és magyar adóazonosító jellel sem rendelkezik
 
@@ -1550,7 +1562,7 @@
 
 ## bc) ha a cég a cég a változás időpontját a jogszabály alapján meghatározhatja, a nyomtatványnak tartalmaznia kell az „A változás időpontja (kitöltése nem kötelező)” tartalmi elemet.
 
-## c) A változásbejegyzési kérelem a cégbejegyzési kérelem 1. rovatát nem tartalmazza.
+## c) A változásbejegyzési kérelem a cégbejegyzési kérelem 1. és 9. rovatát nem tartalmazza.
 
 ## d) A változásbejegyzési kérelemben az 54. rovat változásánál a nyomtatványnak tartalmaznia kell az „A változás időpontja” tartalmi elemet.
 
@@ -1618,17 +1630,21 @@
 
 ## 1.) Megegyezik a III. pontban foglaltakkal, az alábbi eltérésekkel:
 
-## a) A 03, a 06, a 07, a 09, a 10/Z, a 21 cégforma 1. cégformától függő rovatában, a 06, a 18 cégforma 2. cégformától függő rovatában a nyomtatványnak tartalmaznia kell az „A tagsági jogviszony vége időpontja" és az „A változás időpontja” tartalmi elemeket.
+## a) A 03, a 06, a 07, a 09, a 10/Z, a 11, a 21 cégforma 1. cégformától függő rovatában, a 06, a 18 cégforma 2. cégformától függő rovatában a nyomtatványnak tartalmaznia kell az „A tagsági jogviszony végének időpontja” és az „A változás időpontja” tartalmi elemeket.
 
-## b) A 9 cégforma 3. cégformától függő rovatában a nyomtatványnak tartalmaznia kell az „A tulajdonosi jogviszony vége időpontja” és az „A változás időpontja” tartalmi elemeket.
+## b) A 09 cégforma 3. cégformától függő rovatában a nyomtatványnak tartalmaznia kell az „A tulajdonosi jogviszony végének időpontja” és az „A változás időpontja” tartalmi elemeket.
 
-## c) A 12 cégforma 3. cégformától függő rovatában, a 16 cégforma 2. cégformától függő rovatában a nyomtatványnak tartalmaznia kell a „Jogviszony vége” és az „A változás időpontja” tartalmi elemeket.
+## c) A 12 cégforma 3. cégformától függő rovatában, a 16 cégforma 2. cégformától függő rovatában, a 17 cégforma 3. cégformától függő rovatában a nyomtatványnak tartalmaznia kell a „Jogviszony vége” és az „A változás időpontja” tartalmi elemeket.
 
-## d) A 19 cégforma 1. cégformától függő rovatában a nyomtatványnak tartalmaznia kell az „A csatlakozó tag csatlakozásának időpontja” és az „A változás időpontja” tartalmi elemeket.
+## d) A 07, a 19 cégforma 1. cégformától függő rovatában a nyomtatványnak tartalmaznia kell az „A csatlakozó tag csatlakozásának időpontja”, az „A csatlakozó tag felelősségének esetleges korlátozása”, továbbá az „A változás időpontja” tartalmi elemeket.
 
-## e) A 09 cégforma 2. cégformától függő rovatában, a 10/Z cégforma 3, 5., 6., 7., 9., 10 cégformától függő rovatában, a 17 cégforma 2. és 3. cégformától függő rovatában, a 20 cégforma 1., 3., 4., 5., 6., 8., 10. cégformától függő rovatában, a 22 cégforma 1 és 2. cégformától függő rovatában, a 23 cégforma 2. cégformától függő rovatában a nyomtatványnak tartalmaznia kell az „A változás időpontja’ tartalmi elemet.
+## e) A 09 cégforma 2. cégformától függő rovatában, a 10/Z cégforma 3., 5., 6., 7., 9., 10. cégformától függő rovatában, a 12 cégforma 1. és 2. cégformától függő rovatában, a 17 cégforma 1., 2. cégformától függő rovatában,
 
-## f) Változásbejegyzési kérelem további cégformától függő tartalmi elemei (rovatai) az alábbiak:
+## a 20 cégforma 1., 3., 4., 5., 6., 8., 10. cégformától függő rovatában, a 22 cégforma 1. és 2. cégformától függő rovatában, a 23 cégforma 2. cégformától függő rovatában a nyomtatványnak tartalmaznia kell az „A változás időpontja” tartalmi elemet.
+
+## f) A változásbejegyzési kérelem a 19 cégforma 2. cégformától függő rovatát, a 20 cégforma 7. cégformától függő rovatát, a 23 cégforma 1. cégformától függő rovatát nem tartalmazza.
+
+## g) Változásbejegyzési kérelem további cégformától függő tartalmi elemei (rovatai) az alábbiak: ...
 
 ## 2.) 01 A vállalat
 
@@ -1772,7 +1788,7 @@
 
 ## a) igazgatóság
 
-## b) egyszemélyes igazgatóság
+## b) igazgatótanács
 
 ## c) A változás időpontja
 

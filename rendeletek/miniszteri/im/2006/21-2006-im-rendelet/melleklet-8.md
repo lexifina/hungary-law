@@ -208,7 +208,7 @@ A részvények átruházásához[^46.]
 
 a) a részvénytársaság beleegyezésére nincs szükség.
 
-b) a részvénytársaság beleegyezésére van szükség a Polgári Törvénykönyvről szóló 2013. évi V. törvény (Ptk.). 3:220 §-ában meghatározott módon.
+b) a részvénytársaság beleegyezésére van szükség a Polgári Törvénykönyvről szóló 2013. évi V. törvény (Ptk.). 3:220 §-ában meghatározott módon. A társasági beleegyezés megtagadásának oka(i): ...................................................
 
 8. A nyereség felosztása
 
@@ -500,11 +500,9 @@ Név:
 
 [^88Név:]
 
-Ellenjegyezte/közokiratba foglalta:[^89.]
+Okirati ellenjegyzés/közjegyzői okirat elemei
 
-….................................................................................................................................
-
-[^72]: A 8. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés e) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés g) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § e)–g) pontja szerint módosított szöveg.
+[^72]: A 8. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés e) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés g) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § e)–g) pontja, a 24/2018. (VIII. 31.) IM rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^1.]: Az alapszabály szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség esetén kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
@@ -591,4 +589,3 @@ Ellenjegyezte/közokiratba foglalta:[^89.]
 [^86.]: Aláhúzással jelölendő.
 [^87.]: Amennyiben a társaság a közvetlen közzétételi kötelezettségének honlapján tesz eleget, a cégjegyzéknek tartalmaznia kell a társaság honlapjának címét.
 [^88Név:]: Bővíthető.
-[^89.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás

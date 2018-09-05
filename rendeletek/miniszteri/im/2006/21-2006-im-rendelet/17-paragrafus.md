@@ -1,3 +1,3 @@
-## 16/A. §[^55] A Ctv. 9/D. § (4) bekezdés szerinti automatikus végzést a cégbíróság az érintett cég elektronikus kézbesítési címére kézbesíti.
+## 16/A. §[^54] A Ctv. 9/D. § (4) bekezdés szerinti automatikus végzést a cégbíróság az érintett cég elektronikus kézbesítési címére kézbesíti.
 
-[^55]: A 16/A. §-t a 12/2014. (II. 28.) KIM rendelet 5. § (5) bekezdése iktatta be.
+[^54]: A 16/A. §-t a 12/2014. (II. 28.) KIM rendelet 5. § (5) bekezdése iktatta be.

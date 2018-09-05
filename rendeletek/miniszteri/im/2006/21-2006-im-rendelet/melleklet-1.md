@@ -3,4 +3,4 @@
 1. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^65]
 
 [^64]: A 21. §-t a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 5. pontja hatályon kívül helyezte, újonnan a 6/2017. (VI. 1.) IM rendelet 5. §-a iktatta be.
-[^65]: Az 1. számú melléklet a 21/2018. (VII. 4.) IM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^65]: Az 1. számú melléklet a 21/2018. (VII. 4.) IM rendelet 7. § (1) bekezdésével megállapított, a 24/2018. (VIII. 31.) IM rendelet 6. § (1) bekezdése szerint módosított szöveg.

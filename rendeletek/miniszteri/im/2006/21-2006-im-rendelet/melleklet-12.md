@@ -426,9 +426,7 @@
 
 ## [^71Név:]
 
-## Ellenjegyezte/közokiratba foglalta:[^72.]
-
-## ................................................................................................................................................
+## Okirati ellenjegyzés/közjegyzői okirat elemei
 
 12. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^76]
 
@@ -686,9 +684,7 @@ Az alapító aláírása:
 
 Név:
 
-Ellenjegyezte/közokiratba foglalta:[^107.]
-
-......................................................................................................................................
+Okirati ellenjegyzés/közjegyzői okirat elemei
 
 [^1.]: Az alapítói okirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott végrehajtói iroda esetében nem volt szükség.
 [^2.]: Szükség esetén kitöltendő.
@@ -757,8 +753,7 @@ Ellenjegyezte/közokiratba foglalta:[^107.]
 [^69.]: Természetes személy esetén kell kitölteni.
 [^70.]: Szervezet esetén kell kitölteni.
 [^71Név:]: Bővíthető.
-[^72.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
-[^76]: A 12. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 7. § j) pontja szerint módosított szöveg.
+[^76]: A 12. számú mellékletet a 39/2015. (XII. 21.) IM rendelet 1. § (9) bekezdése iktatta be, szövege a 29/2016. (XII. 27.) IM rendelet 7. § j) pontja, a 24/2018. (VIII. 31.) IM rendelet 7. § (2) bekezdése szerint módosított szöveg.
 [^73.]: Az alapító okirat szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott végrehajtói iroda esetében nem volt szükség.
 [^74.]: Aláhúzással jelölendő.
 [^75:]: Amennyiben a központi ügyintézés helye nem azonos a székhellyel, a központi ügyintézés helyének megjelölése kötelező.
@@ -791,4 +786,3 @@ Ellenjegyezte/közokiratba foglalta:[^107.]
 [^104.]: A Ptk. 3:38. § és 3: 129-131 § esetén.
 [^105.]: Természetes személyesetén kell kitölteni.
 [^106.]: Szervezet esetén kell kitölteni.
-[^107.]: Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás.
