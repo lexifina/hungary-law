@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-53-20-2
 | 2016-01-01 | 2012-53-20-2T.7 | 37/2015. (XII. 21.) IM rendelet |
 | 2017-01-01 | 2012-53-20-2T.8 | 28/2016. (XII. 27.) IM rendelet |
 | 2018-01-01 | 2012-53-20-2T.9 | 22/2017. (XII. 22.) IM rendelet |
+| 2018-09-05 | 2012-53-20-2T.10 | 24/2018. (VIII. 31.) IM rendelet |
