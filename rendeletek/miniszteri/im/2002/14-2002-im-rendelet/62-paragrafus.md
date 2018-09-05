@@ -50,7 +50,9 @@ z)[^151] vagyonrendezési nemperes ügyben kifogás,
 
 zs)[^152] vagyonrendezési nemperes ügyben fellebbezett kifogás,
 
-x)[^153] jogutód nélkül megszűnt gazdálkodó szervezet javára bejegyzett jog vagy tény törlésével összefüggő fellebbezett nemperes ügy.
+x)[^153] jogutód nélkül megszűnt gazdálkodó szervezet javára bejegyzett jog vagy tény törlésével összefüggő fellebbezett nemperes ügy,
+
+y)[^154] az Európai Unió más tagállamában indított fizetésképtelenségi főeljárás magyarországi közzétételével, magyarországi közhiteles nyilvántartásokba történő bejegyeztetésének elrendelésével, valamint a külföldi fizetésképtelenségi szakértő belföldi kötelezettségvállalásával összefüggő nemperes ügy.
 
 [^145]: A 62. § a 22/2004. (V. 18.) IM rendelet 13. §-ával megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^146]: A 62. § q) pontja a 20/2017. (XII. 21.) IM rendelet 9. § (8) bekezdésével megállapított szöveg.
@@ -61,3 +63,4 @@ x)[^153] jogutód nélkül megszűnt gazdálkodó szervezet javára bejegyzett j
 [^151]: A 62. § z) pontját a 12/2012. (III. 1.) KIM rendelet 5. §-a iktatta be.
 [^152]: A 62. § zs) pontját a 12/2012. (III. 1.) KIM rendelet 5. §-a iktatta be.
 [^153]: A 62. § x) pontját a 21/2014. (III. 13.) KIM rendelet 12. § (16) bekezdése iktatta be.
+[^154]: A 62. § y) pontját a 24/2018. (VIII. 31.) IM rendelet 1. §-a iktatta be.
