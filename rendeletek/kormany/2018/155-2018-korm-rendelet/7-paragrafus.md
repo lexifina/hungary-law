@@ -1,3 +1,3 @@
-## 6. §[^5]
+## 6. §[^7]
 
-[^5]: A 6. § a 10. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^7]: A 6. § a 10. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
