@@ -1,4 +1,4 @@
-9/A. §[^28] (1) A Ctv. 17/A. §-ban meghatározott cégadatokat az Európai Bizottság által üzemeltetett európai igazságügyi portálon (a továbbiakban: e-Justice portál) keresztül – keresőprogram segítségével – a céginformációs szolgálat cégbizonyítvány formájában biztosítja.
+9/A. §[^30] (1) A Ctv. 17/A. §-ban meghatározott cégadatokat az Európai Bizottság által üzemeltetett európai igazságügyi portálon (a továbbiakban: e-Justice portál) keresztül – keresőprogram segítségével – a céginformációs szolgálat cégbizonyítvány formájában biztosítja.
 
 (2) Az EUID-val rendelkező cég létesítő okiratához (létesítő okirat módosítása, egységes szerkezetű létesítő okirat) való hozzáférés az e-Justice portálon keresztül
 
@@ -24,4 +24,4 @@ d) cégkivonat esetében 3000 Ft
 
 közzétételi költségtérítést kell fizetni azzal, hogy az esetlegesen felmerülő általános forgalmi adót ezen összeg nem tartalmazza.
 
-[^28]: A 9/A. §-t a 6/2017. (VI. 1.) IM rendelet 9. §-a iktatta be.
+[^30]: A 9/A. §-t a 6/2017. (VI. 1.) IM rendelet 9. §-a iktatta be.
