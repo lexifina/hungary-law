@@ -1,0 +1,3 @@
+## 2. § A cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet (a továbbiakban: Cvhr.) 5. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) Ha a bejegyzési (változásbejegyzési) nyomtatványon a cégjegyzékbe bejegyezni kért természetes személy adataiban a cégbejegyzési (változásbejegyzési) kérelemhez csatolandó okiratok aláírása és a cégbejegyzési (változásbejegyzési) kérelem benyújtásának napja között olyan változás történik, amely már a természetes személyek nyilvántartásában [Ctv. 38. § (2) bekezdés] is átvezetésre került, akkor a nyomtatványon a megváltozott adatot kell szerepeltetni.”
