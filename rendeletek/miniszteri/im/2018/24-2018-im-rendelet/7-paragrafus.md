@@ -1,3 +1,0 @@
-7. § (1) A Cvhr. 8/A. §-ában az „ügyvéd által” szövegrészek helyébe az „ügyvéd vagy kamarai jogtanácsos által” szöveg lép.
-
-(2) A Cvhr. 4–7., 9–12. számú mellékletében az „Ellenjegyezte/közokiratba foglalta: ......” szövegrész helyébe az „Okirati ellenjegyzés/közjegyzői okirat elemei” szöveg lép, egyidejűleg a szövegrészhez kapcsolódó lábjegyzetben az „Ügyvédi ellenjegyzés vagy közjegyző által történő közokiratba foglalás” szövegrész helyébe az „Ügyvédi, kamarai jogtanácsosi ellenjegyzéshez vagy közjegyző által történő közokiratba foglaláshoz szükséges tartalmi és alaki elemek teljesítése érdekében a szerződésminta bővíthető, változtatható” szöveg lép.
