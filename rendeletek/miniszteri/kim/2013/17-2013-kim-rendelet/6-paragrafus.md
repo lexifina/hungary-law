@@ -8,7 +8,7 @@
 
 6. § (1) Az NVI a választások hivatalos honlapján folyamatosan tájékoztatja a választópolgárokat a központi névjegyzékkel összefüggő kérelmekkel kapcsolatos tudnivalókról, és elérhetővé teszi a kérelemnyomtatványokat.
 
-(2)[^4] Az NVI
+(2)[^8] Az NVI
 
 a) az országgyűlési képviselők általános választását – az Országgyűlés feloszlása vagy feloszlatása miatti választás kivételével – megelőző év októberében, valamint
 
@@ -16,19 +16,19 @@ b) az országos népszavazási kezdeményezés aláírásai ellenőrzésének er
 
 ## – a (2a) bekezdésben foglalt kivétellel – tájékoztatja a magyarországi lakcímmel nem rendelkező választópolgárokat a központi névjegyzékbe vétel iránti kérelem, illetve az adatmódosítási, törlési kérelem benyújtásával kapcsolatos tudnivalókról.
 
-(2a)[^5] A (2) bekezdés szerinti tájékoztatást, valamint
+(2a)[^9] A (2) bekezdés szerinti tájékoztatást, valamint a 3. melléklet szerinti kérelemnyomtatványt
 
-a) a 3. melléklet szerinti kérelemnyomtatványt a központi névjegyzékben nem, de az SZL-ben szereplő választópolgár részére az SZL-ben nyilvántartott címre,
+a) a központi névjegyzékben nem, de az SZL-ben szereplő választópolgár részére az SZL-ben nyilvántartott címre,
 
-b) a 4. melléklet szerinti kérelemnyomtatványt a központi névjegyzékben szereplő választópolgár részére a Ve. 92. § (2) bekezdése szerinti postacímre, e-mail címre vagy telefax számra
+b) a központi névjegyzékben szereplő választópolgár részére a Ve. 92. § (4) bekezdése szerinti postacímre, e-mail-címre vagy telefaxszámra
 
-## kell – kettős állampolgárságot tiltó államokban lévő postacímek kivételével – megküldeni.
+## kell megküldeni.
 
-(2b)[^6] A (2) és a (2a) bekezdés rendelkezéseit csak abban az esetben kell alkalmazni, ha azok alkalmazására a (2) bekezdésben megjelölt hónap első napját megelőző egy éven belül nem került sor.
+(2b)[^10] A (2) és a (2a) bekezdés rendelkezéseit csak abban az esetben kell alkalmazni, ha azok alkalmazására a (2) bekezdésben megjelölt hónap első napját megelőző egy éven belül nem került sor.
 
-(2c)[^7] Az NVI az országgyűlési képviselők általános választásán, valamint az országos népszavazáson a szavazás napját megelőző harmincadik napig tájékoztatja a szavazási levélcsomag személyes átvételét kérő választópolgárokat a levélcsomag átvételének pontos helyéről és idejéről.
+(2c)[^11] Az NVI az országgyűlési képviselők általános választásán, valamint az országos népszavazáson a szavazás napját megelőző harmincadik napig tájékoztatja a szavazási levélcsomag személyes átvételét kérő választópolgárokat a levélcsomag átvételének pontos helyéről és idejéről.
 
-(2d)[^8] A (2) és a (2c) bekezdés szerinti tájékoztatást a kettős állampolgárságot tiltó országokban lévő postacímekre a külképviseleten keresztül juttatja el az NVI.
+(2d)[^12] A (2) és a (2c) bekezdés szerinti tájékoztatást a kettős állampolgárságot tiltó országokban lévő postacímekre a külképviseleten keresztül is eljuttathatja az NVI.
 
 (3) Az NVI – a külképviseleti választási iroda (a továbbiakban: KÜVI) közreműködésével – a külképviseleteken elhelyezett hirdetmények, szórólapok útján folyamatosan tájékoztatja a választópolgárokat a központi névjegyzékbe vétel iránti kérelem benyújtásával, valamint a választással kapcsolatos egyéb tudnivalókról, és elérhetővé teszi a kérelemnyomtatványokat.
 
@@ -46,8 +46,8 @@ a magyarországi lakcímmel nem rendelkező választópolgár részére átadja,
 
 (6) Az NVI az Európai Parlament tagjai választásának évében január 31-ig a központi névjegyzékben szereplő valamennyi magyarországi lakcímmel rendelkező uniós állampolgárnak megküldi a Ve. 334. §-ában foglalt kérelem benyújtásával kapcsolatos tudnivalókat, valamint a kérelemnyomtatvány egy példányát.
 
-[^4]: A 6. § (2) bekezdése a 27/2015. (X. 16.) IM rendelet 1. §-ával megállapított szöveg.
-[^5]: A 6. § (2a) bekezdését a 27/2015. (X. 16.) IM rendelet 1. §-a iktatta be.
-[^6]: A 6. § (2b) bekezdését a 27/2015. (X. 16.) IM rendelet 1. §-a iktatta be.
-[^7]: A 6. § (2c) bekezdését az 1/2018. (I. 3.) IM rendelet 27. §-a iktatta be.
-[^8]: A 6. § (2d) bekezdését az 1/2018. (I. 3.) IM rendelet 27. §-a iktatta be.
+[^8]: A 6. § (2) bekezdése a 27/2015. (X. 16.) IM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 6. § (2a) bekezdését a 27/2015. (X. 16.) IM rendelet 1. §-a iktatta be, szövege a 26/2018. (IX. 7.) IM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^10]: A 6. § (2b) bekezdését a 27/2015. (X. 16.) IM rendelet 1. §-a iktatta be.
+[^11]: A 6. § (2c) bekezdését az 1/2018. (I. 3.) IM rendelet 27. §-a iktatta be.
+[^12]: A 6. § (2d) bekezdését az 1/2018. (I. 3.) IM rendelet 27. §-a iktatta be, szövege a 26/2018. (IX. 7.) IM rendelet 5. § (2) bekezdésével megállapított szöveg.

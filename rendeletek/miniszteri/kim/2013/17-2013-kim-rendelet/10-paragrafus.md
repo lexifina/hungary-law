@@ -8,4 +8,6 @@ a) az SZL,
 
 b) a NESZA,
 
-c) ha a magyarországi lakcímmel nem rendelkező kérelmező az útlevele, az állampolgársági bizonyítványa vagy a honosítási okirata számát adja meg a kérelemben, az útiokmány-nyilvántartás, az állampolgársági bizonyítványok ügyviteli nyilvántartása vagy a honosítási okiratok ügyviteli nyilvántartása,
+c)[^13] ha a magyarországi lakcímmel nem rendelkező kérelmező az útlevele vagy a vezetői engedélye számát adja meg a kérelemben, az útiokmány-nyilvántartás vagy a közúti közlekedési nyilvántartás engedély-nyilvántartásának
+
+[^13]: A 10. § (2) bekezdés c) pontja a 26/2018. (IX. 7.) IM rendelet 6. §-ával megállapított szöveg.
