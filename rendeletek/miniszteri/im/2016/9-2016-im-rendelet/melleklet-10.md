@@ -34,4 +34,6 @@
 
 |  | jegyzőkönyvvezető |
 
-10. melléklet a 9/2016. (VI. 28.) IM rendelethez
+10. melléklet a 9/2016. (VI. 28.) IM rendelethez[^19]
+
+[^19]: A 10. melléklet a 26/2018. (IX. 7.) IM rendelet 28. § d) pontjával megállapított szöveg.

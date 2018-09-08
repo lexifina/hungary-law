@@ -1,25 +1,3 @@
-5. melléklet a 9/2016. (VI. 28.) IM rendelethez
+5. melléklet a 9/2016. (VI. 28.) IM rendelethez[^16]
 
-## Jegyzék a szavazási levélcsomag átadásához
-
-JEGYZÉK A SZAVAZÁSI LEVÉLCSOMAG ÁTADÁSÁHOZ
-
-ORSZÁGOS NÉPSZAVAZÁS
-
-(a szavazás napja)
-
-(TELEPÜLÉS/KÜLKÉPVISELET)
-
-1. oldal
-
-|  | A választópolgár adatai | A választópolgár aláírása |
-
-| 1. | (név) személyi azonosító vagy útlevélszám sz.: (születési név); (születési idő) an.: (anyja neve) |  |
-
-| 2. | (név) személyi azonosító vagy útlevélszám sz.: (születési név); (születési idő) an.: (anyja neve) |  |
-
-| 3. | (név) személyi azonosító vagy útlevélszám sz.: (születési név); (születési idő) an.: (anyja neve) |  |
-
-| 4. | (név) személyi azonosító vagy útlevélszám sz.: (születési név); (születési idő) an.: (anyja neve) |  |
-
-| … |  |  |
+[^16]: Az 5. melléklet a 26/2018. (IX. 7.) IM rendelet 28. § a) pontjával megállapított szöveg.

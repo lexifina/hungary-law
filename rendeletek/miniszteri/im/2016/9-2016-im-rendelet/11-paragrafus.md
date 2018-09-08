@@ -6,7 +6,7 @@ a) közreműködik a szavazóhelyiség szabályszerű berendezésében,
 
 b) az SZSZB döntése alapján gondoskodik a névjegyzék kezeléséről, a visszautasítottak jegyzéke és a mozgóurnát kérők jegyzéke vezetéséről,
 
-c) 7.00, 9.00, 11.00, 13.00, 15.00 és 17.30 órakor adatot szolgáltat a HVI részére a szavazókörben megjelent választópolgárok számáról,
+c)[^4] 7.00, 9.00, 11.00, 13.00, 15.00, 17.00 és 18.30 órakor adatot szolgáltat a HVI részére a szavazókörben megjelent választópolgárok számáról,
 
 d) a szavazás közben történt rendkívüli eseményről kiállított jegyzőkönyv másolatát haladéktalanul továbbítja a HVI vezetőjéhez,
 
@@ -22,7 +22,7 @@ h) közreműködik a szavazóurnáknak, a szavazóköri jegyzőkönyveknek, vala
 
 a) biztosítja az SZSZB-k működésének és a szavazás menetének törvényes feltételeit,
 
-b) haladéktalanul továbbítja az SZSZB részére az ügyfélkapun vagy a választások hivatalos honlapján a szavazás napján beérkező mozgóurna iránti igényeket,
+b)[^5] továbbítja az SZSZB részére a névjegyzék lezárását követően beérkező mozgóurna iránti kérelmeket,
 
 c) fogadja és – ellenőrzést követően – az informatikai rendszerben haladéktalanul rögzíti a szavazókörökből érkezett napközbeni részvételi adatokat, a szavazás közben történt rendkívüli eseményekről kiállított jegyzőkönyveket,
 
@@ -33,3 +33,6 @@ e) átvételi elismervénnyel átveszi az SZSZB-től a szavazóurnákat, a szava
 f) a beérkező szavazóköri jegyzőkönyveket jogi és számszaki szempontból ellenőrzi, és tételesen ellenőrzi a szavazóköri jegyzőkönyvek és a számítógépes adatok azonosságát; a hibásan vagy hiányosan kitöltött jegyzőkönyvre felhívja az SZSZB figyelmét, és a jegyzőkönyv javítását követően intézkedik az adatok informatikai rendszerben történő javításáról.
 
 (3) Az NVI elnöke által kijelölt HVI a (2) bekezdés f) pontjában foglalt tételes ellenőrzés helyett a szavazóköri jegyzőkönyvet beszkenneli.
+
+[^4]: A 11. § (1) bekezdés c) pontja a 26/2018. (IX. 7.) IM rendelet 25. §-ával megállapított szöveg.
+[^5]: A 11. § (2) bekezdés b) pontja a 26/2018. (IX. 7.) IM rendelet 26. §-ával megállapított szöveg.
