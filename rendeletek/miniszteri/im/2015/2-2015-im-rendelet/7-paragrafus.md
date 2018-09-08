@@ -38,8 +38,10 @@ o) továbbítja a szavazóköri névjegyzék lezárását követően beérkező 
 
 (2) A HVI vezetője – az Nsztv.-ben és a Ve.-ben foglalt feladatain túl –
 
-a) a szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzékének nyomtatásával megbízhatja a TVI-t, amely a feladatot a kormányhivatal útján is elláthatja; a nyomtatás megtörténtéről haladéktalanul értesíteni kell az NVI-t,
+a)[^3]
 
 b) az egyéb választási kellékek, nyomtatványok előállításával, illetve az értesítők postázásával megbízhatja az NVI-t és
 
 c) a kinyomtatott szavazóköri névjegyzéket és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékét az utolsó oldalon aláírásával és lebélyegzéssel hitelesíti, és a hitelesítésről értesíti az NVI-t.
+
+[^3]: A 7. § (2) bekezdés a) pontját a 26/2018. (IX. 7.) IM rendelet 24. § a) pontja hatályon kívül helyezte.

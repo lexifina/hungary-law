@@ -1,7 +1,3 @@
-## „1. melléklet a 37/2013. (XII. 30.) KIM rendelethez
+12. melléklet a 2/2015. (II. 20.) IM rendelethez[^11]
 
-## Országos népszavazás aláírásgyűjtő íve személyi azonosítóval rendelkező választópolgárok számára
-
-## ”
-
-12. melléklet a 2/2015. (II. 20.) IM rendelethez
+[^11]: A 12. mellékletet a 26/2018. (IX. 7.) IM rendelet 24. § b) pontja hatályon kívül helyezte.
