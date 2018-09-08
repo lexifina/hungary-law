@@ -1,5 +1,0 @@
-155. § (1) Ha a kifogást elbíráló döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a döntést hozó szervezet a hibát az erre irányuló kérelemre vagy hivatalból kijavítja, ha az érdemben nem változtatja meg az ügy kimenetelét.
-
-(2)[^804] A kifogást elbíráló döntést a döntést hozó szervezet, a döntés kézbesítését követő harminc napon belül visszavonja és új döntést hoz, ha a kifogás elbírálását követően tudomására jutott tény alapján a döntés jogszabályt sért, vagy a támogatási szerződésbe, pénzügyi eszközök esetében a pénzügyi közvetítővel kötött finanszírozási megállapodásban vagy a végső kedvezményezettel kötött szerződésben foglaltakba, illetve a felhívásba – közösségvezérelt helyi fejlesztés esetén ideértve a helyi felhívást is –, valamint a termék dokumentáció szerinti tájékoztatásban foglaltakba ütközik.
-
-[^804]: A 155. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 180. pontja, a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 35. pontja, az 59/2018. (III. 26.) Korm. rendelet 12. § (1) bekezdés 20. pontja szerint módosított szöveg.

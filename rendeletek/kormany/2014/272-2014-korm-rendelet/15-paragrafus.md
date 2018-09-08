@@ -6,7 +6,7 @@
 
 a) az e rendelet hatálya alá tartozó támogatások ellenőrzésének szabályozása, harmonizációja, koordinációja, valamint
 
-b)[^98] az audit hatósági, valamint az igazoló hatósági feladatok ellátásának biztosítása.
+b)[^100] az audit hatósági, valamint az igazoló hatósági feladatok ellátásának biztosítása.
 
 (2) Az államháztartásért felelős miniszter az (1) bekezdés a) pontja szerinti feladatait a központi harmonizációs egységen keresztül látja el. E feladatok ellátása körében gondoskodik
 
@@ -24,7 +24,7 @@ f) az Európai Bizottság által végzett ellenőrzésekre adandó tagállami v�
 
 g) minőségértékelés keretében a folyamatba épített ellenőrzéseket, továbbá a rendszer- és mintavételes ellenőrzéseket végző szervezetek tekintetében a jogszabályok, a módszertani útmutatók, a nemzetközi ellenőrzési standardok alkalmazásának és végrehajtásának figyelemmel kíséréséről, vizsgálatáról,
 
-h)[^99] az e rendelet hatálya alá tartozó támogatások ellenőrzésének helyzetére vonatkozó beszámoló készítéséről a Kormány számára.
+h)[^101] az e rendelet hatálya alá tartozó támogatások ellenőrzésének helyzetére vonatkozó beszámoló készítéséről a Kormány számára.
 
-[^98]: A 15. § (1) bekezdés b) pontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^99]: A 15. § (2) bekezdés h) pontja a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^100]: A 15. § (1) bekezdés b) pontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^101]: A 15. § (2) bekezdés h) pontja a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 6. pontja szerint módosított szöveg.

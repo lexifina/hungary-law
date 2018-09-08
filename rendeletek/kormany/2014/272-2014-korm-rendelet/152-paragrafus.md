@@ -2,35 +2,35 @@
 
 ## KIFOGÁS
 
-152. § (1)[^783] A támogatást igénylő vagy a kedvezményezett a támogatási kérelem benyújtásának időpontjától a támogatási jogviszony időtartama alatt elektronikus úton
+152. § (1)[^805] A támogatást igénylő vagy a kedvezményezett a támogatási kérelem benyújtásának időpontjától a támogatási jogviszony időtartama alatt elektronikus úton
 
 a) – közreműködő szervezet kijelölése esetén – a közreműködő szervezet döntése ellen, a kifizető ügynökség döntése ellen és az irányító hatóság döntése ellen az európai uniós források felhasználásáért felelős miniszternek címzett,
 
-b)[^784] közösségvezérelt helyi fejlesztés esetén a HACS döntése ellen is az európai uniós források felhasználásáért felelős miniszternek címzett
+b)[^806] közösségvezérelt helyi fejlesztés esetén a HACS döntése ellen is az európai uniós források felhasználásáért felelős miniszternek címzett
 
-## kifogást nyújthat be, ha a projekt kiválasztási eljárásra, a támogatási döntés meghozatalára, a támogatói okirat kiadására vagy a támogatási szerződés megkötésére, a támogatás folyósítására, visszakövetelésére vonatkozó eljárás jogszabálysértő vagy a felhívásba – közösségvezérelt helyi fejlesztés esetén ideértve a helyi felhívást is –, támogatási szerződésbe ütközik.
+## kifogást nyújthat be, ha a projekt kiválasztási eljárásra, a támogatási döntés meghozatalára, a támogatói okirat kiadására vagy a támogatási szerződés megkötésére, ezek módosítására, a támogatás folyósítására, visszakövetelésére vonatkozó eljárás jogszabálysértő vagy a felhívásba – közösségvezérelt helyi fejlesztés esetén ideértve a helyi felhívást is –, támogatási szerződésbe ütközik.
 
-(1a)[^785] Az (1) bekezdés alkalmazása során az alapok alapját végrehajtó szervezet nem minősül kedvezményezettnek.
+(1a)[^807] Az (1) bekezdés alkalmazása során az alapok alapját végrehajtó szervezet nem minősül kedvezményezettnek.
 
-(1b)[^786] A pénzügyi eszközök esetében a pénzügyi közvetítő nyújthat be kifogást az alapok alapját végrehajtó szervezetnél az alapok alapját végrehajtó szervezet pénzügyi közvetítők kiválasztásával kapcsolatos eljárásával és az alapok alapját végrehajtó szervezet pénzügyi közvetítőkkel kötött finanszírozási megállapodásban foglaltak betartásával kapcsolatos eljárása során hozott döntésével szemben. A pénzügyi eszközök esetén az európai uniós források felhasználásáért felelős miniszternek címzett kifogást nyújthat be a pénzügyi eszközt igénylő vagy a végső kedvezményezett az irányító hatóság döntése ellen az irányító hatóságnál, az alapok alapját végrehajtó szervezet döntése ellen az alapok alapját végrehajtó szervezetnél, vagy – pénzügyi közvetítő bevonása esetén – a pénzügyi közvetítő döntése ellen a pénzügyi közvetítőnél.
+(1b)[^808] A pénzügyi eszközök esetében a pénzügyi közvetítő nyújthat be kifogást az alapok alapját végrehajtó szervezetnél az alapok alapját végrehajtó szervezet pénzügyi közvetítők kiválasztásával kapcsolatos eljárásával és az alapok alapját végrehajtó szervezet pénzügyi közvetítőkkel kötött finanszírozási megállapodásban foglaltak betartásával kapcsolatos eljárása során hozott döntésével szemben. A pénzügyi eszközök esetén az európai uniós források felhasználásáért felelős miniszternek címzett kifogást nyújthat be a pénzügyi eszközt igénylő vagy a végső kedvezményezett az irányító hatóság döntése ellen az irányító hatóságnál, az alapok alapját végrehajtó szervezet döntése ellen az alapok alapját végrehajtó szervezetnél, vagy – pénzügyi közvetítő bevonása esetén – a pénzügyi közvetítő döntése ellen a pénzügyi közvetítőnél.
 
-(1c)[^787] A kifogást annak benyújtója az elektronikus alkalmazáson keresztül mindaddig visszavonhatja, amíg a kifogást elbíráló szerv azt érdemben el nem bírálta. A visszavont kifogást újból előterjeszteni nem lehet.
+(1c)[^809] A kifogást annak benyújtója az elektronikus alkalmazáson keresztül mindaddig visszavonhatja, amíg a kifogást elbíráló szerv azt érdemben el nem bírálta. A visszavont kifogást újból előterjeszteni nem lehet.
 
-(2)[^788] A kifogást a kifogásolt döntés kézbesítésétől számított tíz napon belül egy alkalommal, az indokok megjelölésével lehet benyújtani.
+(2)[^810] A kifogást a kifogásolt döntés kézbesítésétől számított tíz napon belül egy alkalommal, az indokok megjelölésével lehet benyújtani.
 
-(3)[^789] Nincs helye kifogás benyújtásának a szabálytalanságot megállapító döntés (a továbbiakban: szabálytalansági döntés), a XXII. fejezetben meghatározott jogorvoslati eljárást lezáró döntés, valamint az e rendelet hatálya alá tartozó valamely szerv által kiadott minőségellenőrzési jelentés, tanúsítvány, utóellenőrzési jelentés, projektfejlesztés, konzultáció keretében adott észrevétel, javaslat ellen.
+(3)[^811] Nincs helye kifogás benyújtásának a szabálytalanságot megállapító döntés (a továbbiakban: szabálytalansági döntés), a XXII. fejezetben meghatározott jogorvoslati eljárást lezáró döntés, valamint az e rendelet hatálya alá tartozó valamely szerv által kiadott minőségellenőrzési jelentés, tanúsítvány, utóellenőrzési jelentés, projektfejlesztés, konzultáció keretében adott észrevétel, javaslat ellen.
 
 (4) A kifogás elbírálásáig a kifogásban foglaltakkal összefüggő eljárási határidők nyugszanak.
 
 (5) A kifogást elbíráló szerv kizárólag a kifogással érintett döntést vizsgálhatja, valamint az azt megalapozó eljárás azon elemeit, megállapításait, melyeket a kifogás vitat.
 
-(6)[^790] A kifogás kivizsgálásában, illetve elbírálásában – a 153. § (3a) bekezdése szerinti eljárás kivételével – nem vehet részt ügyintézőként, illetve döntéshozóként az, aki a kifogás által érintett projekt kiválasztási eljárásában, illetve a támogatási döntés előkészítésében – pénzügyi közvetítők kiválasztásához kapcsolódó kifogás esetén az, aki a pénzügyi közvetítők kiválasztásával, illetve a pénzügyi közvetítőkkel kötött finanszírozási megállapodásban foglaltak betartásával kapcsolatos eljárásban – részt vett.
+(6)[^812] A kifogás kivizsgálásában, illetve elbírálásában – a 153. § (3a) bekezdése szerinti eljárás kivételével – nem vehet részt ügyintézőként, illetve döntéshozóként az, aki a kifogás által érintett projekt kiválasztási eljárásában, illetve a támogatási döntés előkészítésében – pénzügyi közvetítők kiválasztásához kapcsolódó kifogás esetén az, aki a pénzügyi közvetítők kiválasztásával, illetve a pénzügyi közvetítőkkel kötött finanszírozási megállapodásban foglaltak betartásával kapcsolatos eljárásban – részt vett.
 
-[^783]: A 152. § (1) bekezdése a 366/2014. (XII. 30.) Korm. rendelet 4. §-ával megállapított, záró szövegrésze az 59/2018. (III. 26.) Korm. rendelet 12. § (1) bekezdés 14. pontja szerint módosított szöveg.
-[^784]: A 152. § (1) bekezdés b) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 31. pontja hatályon kívül helyezte, újonnan az 59/2018. (III. 26.) Korm. rendelet 9. §-a iktatta be.
-[^785]: A 152. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 84. § (1) bekezdése iktatta be.
-[^786]: A 152. § (1b) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 84. § (1) bekezdése iktatta be, szövege a 247/2016. (VIII. 17.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^787]: A 152. § (1c) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 84. § (1) bekezdése iktatta be.
-[^788]: A 152. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 177. pontja szerint módosított szöveg.
-[^789]: A 152. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 178. pontja, a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 32. pontja szerint módosított szöveg.
-[^790]: A 152. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 84. § (2) bekezdésével megállapított, a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 32. pontja, a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 23. pontja szerint módosított szöveg.
+[^805]: A 152. § (1) bekezdése a 366/2014. (XII. 30.) Korm. rendelet 4. §-ával megállapított, záró szövegrésze az 59/2018. (III. 26.) Korm. rendelet 12. § (1) bekezdés 14. pontja, a 160/2018. (IX. 7.) Korm. rendelet 15. § 25. pontja szerint módosított szöveg.
+[^806]: A 152. § (1) bekezdés b) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 31. pontja hatályon kívül helyezte, újonnan az 59/2018. (III. 26.) Korm. rendelet 9. §-a iktatta be.
+[^807]: A 152. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 84. § (1) bekezdése iktatta be.
+[^808]: A 152. § (1b) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 84. § (1) bekezdése iktatta be, szövege a 247/2016. (VIII. 17.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^809]: A 152. § (1c) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 84. § (1) bekezdése iktatta be.
+[^810]: A 152. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 177. pontja szerint módosított szöveg.
+[^811]: A 152. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 178. pontja, a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 32. pontja szerint módosított szöveg.
+[^812]: A 152. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 84. § (2) bekezdésével megállapított, a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 32. pontja, a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 23. pontja szerint módosított szöveg.

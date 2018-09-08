@@ -4,19 +4,19 @@
 
 (2) A dokumentumalapú ellenőrzések keretében ellenőrizni kell legalább
 
-a)[^778] a pénzügyi terméknek az éves fejlesztési keret és a finanszírozási megállapodás szerinti megfelelő előrehaladását,
+a)[^800] a pénzügyi terméknek az éves fejlesztési keret és a finanszírozási megállapodás szerinti megfelelő előrehaladását,
 
 b) az alapok alapját végrehajtó szervezet köztartozás-mentességét a monitoring és információs rendszeren keresztül, és
 
 c) azt, hogy a benyújtott lehívási értesítés összhangban van-e a finanszírozási megállapodással, a havi kifizetési előrejelzéssel.
 
-(3)[^779]
+(3)[^801]
 
 (4) A helyszíni ellenőrzések során a pénzügyi eszközöket végrehajtó szervezetnél ellenőrizni kell különösen
 
-a)[^780] a pénzügyi terméknek az éves fejlesztési keret és a finanszírozási megállapodás szerinti megfelelő előrehaladását,
+a)[^802] a pénzügyi terméknek az éves fejlesztési keret és a finanszírozási megállapodás szerinti megfelelő előrehaladását,
 
-b)[^781] az alapok alapját végrehajtó szervezet által benyújtott beszámolók és a pénzügyi termék tényleges előrehaladásának összhangját,
+b)[^803] az alapok alapját végrehajtó szervezet által benyújtott beszámolók és a pénzügyi termék tényleges előrehaladásának összhangját,
 
 c) azt, hogy az alapok alapját végrehajtó szervezet által az irányító hatóság részére teljesített adatszolgáltatás összhangban áll-e a pénzügyi közvetítő által az alapok alapját végrehajtó szervezet részére teljesített adatszolgáltatással,
 
@@ -24,10 +24,10 @@ d) a jogszabályok, valamint a hatékony és célszerű működés követelmény
 
 (5) A folyamatba épített ellenőrzéseket (ideértve a dokumentumalapú ellenőrzéseket és a kockázatelemzésre, mintavételezésre alapozott helyszíni ellenőrzéseket) megfelelően dokumentálni kell, rögzítve az elvégzett munkát, az ellenőrzések eredményeit, valamint szabálytalanságok és hibák feltárása esetén a megtett intézkedéseket.
 
-(6)[^782] Az irányító hatóság az alapok alapját végrehajtó szervezet közreműködésével minden hónap 18. napjáig hitelesítési jelentést állít ki, amelyben nyilatkozik arról, hogy a megelőző hónapban jóváhagyott, a monitoring és információs rendszerben rögzített és a programszámlára utalt támogatási összeggel kapcsolatos, a (2) és (3) bekezdés szerinti dokumentumalapú ellenőrzéseket, továbbá a nyilatkozatában meghatározott, a (4) és (5) bekezdés szerinti helyszíni ellenőrzéseket elvégezte. A hitelesítési jelentést az irányító hatóság az igazoló hatóság által meghatározott formában és tartalommal készíti el. Az irányító hatóság a kiállított hitelesítési jelentést minden hónap 20. napjáig elektronikusan megküldi az igazoló hatóság részére.
+(6)[^804] Az irányító hatóság az alapok alapját végrehajtó szervezet közreműködésével minden hónap 18. napjáig hitelesítési jelentést állít ki, amelyben nyilatkozik arról, hogy a megelőző hónapban jóváhagyott, a monitoring és információs rendszerben rögzített és a programszámlára utalt támogatási összeggel kapcsolatos, a (2) és (3) bekezdés szerinti dokumentumalapú ellenőrzéseket, továbbá a nyilatkozatában meghatározott, a (4) és (5) bekezdés szerinti helyszíni ellenőrzéseket elvégezte. A hitelesítési jelentést az irányító hatóság az igazoló hatóság által meghatározott formában és tartalommal készíti el. Az irányító hatóság a kiállított hitelesítési jelentést minden hónap 20. napjáig elektronikusan megküldi az igazoló hatóság részére.
 
-[^778]: A 151. § (2) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 26. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 53. pontja szerint módosított szöveg.
-[^779]: A 151. § (3) bekezdését a 98/2016. (V. 13.) Korm. rendelet 46. § 13. pontja hatályon kívül helyezte.
-[^780]: A 151. § (4) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 27. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 54. pontja szerint módosított szöveg.
-[^781]: A 151. § (4) bekezdés b) pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 55. pontja szerint módosított szöveg.
-[^782]: A 151. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 176. pontja, a 387/2017. (XII. 12.) Korm. rendelet 13. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^800]: A 151. § (2) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 26. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 53. pontja szerint módosított szöveg.
+[^801]: A 151. § (3) bekezdését a 98/2016. (V. 13.) Korm. rendelet 46. § 13. pontja hatályon kívül helyezte.
+[^802]: A 151. § (4) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 27. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 54. pontja szerint módosított szöveg.
+[^803]: A 151. § (4) bekezdés b) pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 55. pontja szerint módosított szöveg.
+[^804]: A 151. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 176. pontja, a 387/2017. (XII. 12.) Korm. rendelet 13. § (1) bekezdés 9. pontja szerint módosított szöveg.

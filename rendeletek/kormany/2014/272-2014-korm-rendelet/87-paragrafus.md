@@ -1,10 +1,10 @@
-87. § (1)[^466] A 86. § (1) bekezdés szerinti bejelentéseket – a kedvezményezett korábbi bejelentéseire is tekintettel – a következő alapelvek figyelembevételével kell elbírálni:
+87. § (1)[^469] A 86. § (1) bekezdés szerinti bejelentéseket – a kedvezményezett korábbi bejelentéseire is tekintettel – a következő alapelvek figyelembevételével kell elbírálni:
 
 a) a módosítás nem változtathatja meg a projekt alapvető célját,
 
 b) a támogatási szerződés akkor módosítható, ha a támogatott tevékenység az így módosított feltételekkel is támogatható lett volna,
 
-c)[^467] a módosítás nem irányulhat a támogatási döntésben meghatározott támogatási összegen felüli többlet támogatás biztosítására, kivéve, ha közszféra szervezet esetén a Kormány eltérően dönt,
+c)[^470] a módosítás nem irányulhat a támogatási döntésben meghatározott támogatási összegen felüli többlet támogatás biztosítására, kivéve, ha közszféra szervezet esetén a Kormány eltérően dönt,
 
 d) a módosítás nem irányulhat olyan szempontra, amely jogosultsági feltétel volt az elbírálás során és a módosítást követően már nem teljesülne,
 
@@ -14,7 +14,7 @@ f) a módosítási igény nem kerülhet jóváhagyásra, ha az a projekt előké
 
 g) vis maior esetek bekövetkezésekor az irányító hatóság egyedileg mérlegeli a negatív irányú változások hatását a projektre és dönt a módosítási igény jóváhagyásáról,
 
-h)[^468] a kedvezményezettnek felróható okból felmerülő, a szerződésben foglalt követelményeket kedvezőtlenül érintő módosítási igény nem hagyható jóvá a megítélt támogatás arányos csökkentése nélkül,
+h)[^471] a kedvezményezettnek felróható okból felmerülő, a szerződésben foglalt követelményeket kedvezőtlenül érintő módosítási igény nem hagyható jóvá a megítélt támogatás arányos csökkentése nélkül,
 
 i) a kedvezményezett által biztosított önerő aránya a projekt támogatásának növelése esetén sem csökkenhet azzal, hogy az eltérő támogatási intenzitású tevékenységeket tartalmazó projekt esetén az önerő aránya tevékenységenként vizsgálandó,
 
@@ -22,9 +22,39 @@ j) ha a projekt egy vagy több, a felhívásban meghatározott, önállóan tám
 
 k) ha a támogatott tevékenység összköltsége csökken a tervezetthez képest, a támogatás összegét az összköltség csökkenésének arányában csökkenteni kell, több forrás esetén az eredeti arányoknak megfelelően,
 
-l)[^469] a projekt fizikai befejezésének határideje csak az irányító hatóság előzetes hozzájárulása esetén haladhatja meg a felhívásban, pénzügyi eszközök esetén a pénzügyi közvetítővel megkötött finanszírozási megállapodásban rögzített végső határidőt azzal, hogy a módosított határidő meghatározása során figyelemmel kell lenni az adott operatív program zárásának időpontjára, valamint az elszámolhatósági szabályokra.
+l)[^472] a projekt fizikai befejezésének határideje csak az irányító hatóság előzetes hozzájárulása esetén haladhatja meg a felhívásban, pénzügyi eszközök esetén a pénzügyi közvetítővel megkötött finanszírozási megállapodásban rögzített végső határidőt azzal, hogy a módosított határidő meghatározása során figyelemmel kell lenni az adott operatív program zárásának időpontjára, valamint az elszámolhatósági szabályokra.
 
-(1a)[^470] Az (1) bekezdés c), e), j) és k) pontját a pénzügyi eszközökre nem kell alkalmazni.
+(1a)[^473] Az (1) bekezdés c), e), j) és k) pontját a pénzügyi eszközökre nem kell alkalmazni.
+
+(1b)[^474] Ha az (1) bekezdés c) pontja szerinti esetben az adott program érintett prioritása eredeti keretösszegének 110%-án belül szabad forrás áll rendelkezésre, akkor ennek terhére kell kezdeményezni a többlettámogatás biztosítását.
+
+(1c)[^475] Ha az (1b) és (1e) bekezdés szerinti finanszírozási lehetőségek nem állnak rendelkezésre, akkor lehet kezdeményezni a költségnövekmény hazai költségvetés terhére történő támogatását az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendeletben meghatározottak szerint.
+
+(1d)[^476] Az eredményességi keretbe tartozó indikátorok célértékeihez nem vagy aránytalanul alacsony mértékben hozzájáruló projektek esetén nem lehetséges hazai költségvetési többletforrás biztosítása.
+
+(1e)[^477] Az (1) bekezdés c) pontja szerinti esetben a Kormány döntését kezdeményező előterjesztésben be kell mutatni – az (1b) bekezdésben foglalt lehetőség hiányán túlmenően – különösen a következőket:
+
+a) helyi önkormányzat kedvezményezett esetén:
+
+aa) területi szereplő esetén ITP-ben megállapított keretösszegén belül szabad forrás nem áll rendelkezésre vagy valamely nem megfelelően előrehaladó projekttől történő elállással, az érintett vagy más projekt műszaki tartalmának módosításával nem szabadítható fel forrás,
+
+ab) a kedvezményezett részéről nem vonható be önerő vagy annak mértéke nem növelhető,
+
+ac) hitelintézet vagy pénzügyi vállalkozás által nyújtható kedvezményes finanszírozási lehetőség nem biztosított, és
+
+ad) a hitelfelvétel lehetősége nem biztosított,
+
+b) egyéb közszféra szervezet kedvezményezett esetén:
+
+ba) nem lehet elállni ugyanazon prioritáson belül az el nem indult, nem megfelelően előrehaladó vagy a prioritás eredeti keretösszegének 110%-át meghaladó forrás terhére támogatott projektektől, illetve az érintett vagy más projekt műszaki tartalmát nem lehet módosítani,
+
+bb) a kedvezményezett más költségvetési forrásból finanszírozni tervezett, még nem megkezdett projektje számára nyújtott forrás terhére a költségnövekmény nem finanszírozható,
+
+bc) a fenntartó nem rendelkezik olyan forrással, amely a költségnövekmény finanszírozása céljából bevonható, és
+
+bd) hitelintézet vagy pénzügyi vállalkozás által nyújtható kedvezményes finanszírozási lehetőség nem biztosított.
+
+(1f)[^478] Az irányító hatóság a költségnövekmény támogatására irányuló igény benyújtását követően jogosult kezdeményezni az (1c) bekezdés szerinti kormányrendeletben előírt igazságügyi szakértő megbízását.
 
 (2) Az 1303/2013/EU európai parlamenti és tanácsi rendelet 61. cikke szerinti, a befejezést követően nettó bevételt termelő projektek esetén az (1) bekezdésben foglaltakon túlmenően a módosításnak meg kell felelni a következő feltételeknek is:
 
@@ -36,8 +66,13 @@ b) ha a megvalósíthatósági tanulmányban kiválasztott változattól eltér�
 
 (4) Ha a projekt elfogadott műszaki, szakmai tartalmának változása jogerős hatósági engedélyben foglaltakból fakad, annak megfelelőségét az irányító hatóság nem vizsgálhatja. A módosítás elbírálásánál ebben az esetben is figyelembe kell venni az (1) bekezdésben foglalt alapelveket.
 
-[^466]: A 87. § (1) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 99. pontja szerint módosított szöveg.
-[^467]: A 87. § (1) bekezdés c) pontja a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 19. pontja szerint módosított szöveg.
-[^468]: A 87. § (1) bekezdés h) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 100. pontja szerint módosított szöveg.
-[^469]: A 87. § (1) bekezdés l) pontja a 24/2017. (II. 3.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^470]: A 87. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 52. § (2) bekezdése iktatta be.
+[^469]: A 87. § (1) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 99. pontja szerint módosított szöveg.
+[^470]: A 87. § (1) bekezdés c) pontja a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 19. pontja szerint módosított szöveg.
+[^471]: A 87. § (1) bekezdés h) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 100. pontja szerint módosított szöveg.
+[^472]: A 87. § (1) bekezdés l) pontja a 24/2017. (II. 3.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^473]: A 87. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 52. § (2) bekezdése iktatta be.
+[^474]: A 87. § (1b) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
+[^475]: A 87. § (1c) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
+[^476]: A 87. § (1d) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
+[^477]: A 87. § (1e) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
+[^478]: A 87. § (1f) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
