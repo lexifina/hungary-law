@@ -12,6 +12,6 @@ d) az egyéni választókerületi szavazóköri jegyzőkönyv második példány
 
 e) az egyéni választókerületi szavazóköri jegyzőkönyv második példányát a választás eredményének jogerőre emelkedését követően fogadja az OEVI-től, valamint
 
-f)[^1] a szavazólapokat és egyéb választási iratokat a polgármesteri hivatalban a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti.
+f)[^2] a szavazólapokat és egyéb választási iratokat a polgármesteri hivatalban a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti.
 
-[^1]: A 11. § f) pontja a 16/2018. (VI. 22.) IM rendelet 17. §-a szerint módosított szöveg.
+[^2]: A 11. § f) pontja a 16/2018. (VI. 22.) IM rendelet 17. §-a szerint módosított szöveg.

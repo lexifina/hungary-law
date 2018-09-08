@@ -6,6 +6,6 @@ a) gondoskodik a lezárt urna és a válaszborítékokat tartalmazó csomagok NV
 
 b) a szavazást követő három napon keresztül biztosítja a szavazás befejezéséről kiállított jegyzőkönyv második példányának nyilvánosságát, továbbá
 
-c)[^2] a választási iratokat a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat megsemmisíti.
+c)[^4] a választási iratokat a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat megsemmisíti.
 
-[^2]: A 14. § c) pontja a 16/2018. (VI. 22.) IM rendelet 17. §-a szerint módosított szöveg.
+[^4]: A 14. § c) pontja a 16/2018. (VI. 22.) IM rendelet 17. §-a szerint módosított szöveg.

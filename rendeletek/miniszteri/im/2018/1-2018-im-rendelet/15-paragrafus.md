@@ -10,11 +10,11 @@ a) átveszi az ajánlóív iránti igényt tartalmazó nyomtatványokat, azokat 
 
 b) az informatikai rendszerből kinyomtatja, és átvételi elismervény ellenében átadja az igénylő részére az ajánlóíveket,
 
-c) átveszi az ajánlóíveket, a jelölt bejelentését tartalmazó nyomtatványokat és azok mellékleteit, azokat ellenőrzi, és a bejelentő figyelmét felhívja az esetleges hiányokra, a bejelentésről átvételi elismervényt ad ki, továbbá a bejelentést az informatikai rendszerben regisztrálja,
+c)[^5] átveszi az ajánlóíveket, a jelölt bejelentését tartalmazó nyomtatványokat és azok mellékleteit, azokat ellenőrzi, és a bejelentő figyelmét felhívja az esetleges formai hiányosságokra, a bejelentésről átvételi elismervényt ad ki, továbbá a bejelentést az informatikai rendszerben regisztrálja,
 
 d) ellenőrzi, hogy a jelölt, illetve a jelölő szervezet a rendelkezésére bocsátott összes ajánlóívet leadta-e; jelzi az országgyűlési egyéni választókerületi választási bizottságnak (a továbbiakban: OEVB), ha a jelölt, illetve a jelölő szervezet nem adta le a rendelkezésére bocsátott összes ajánlóívet,
 
-e) az ajánlóíveken adott ajánlásokat – az OEVB döntésének előkészítése érdekében – a központi névjegyzék és a szavazókörök és választókerületek nyilvántartása alapján ellenőrzi; az ellenőrzés kiterjed arra, hogy
+e)[^6] az ajánlóíveken adott ajánlásokat – az OEVB döntésének előkészítése érdekében – a szavazóköri névjegyzék és a szavazókörök és választókerületek nyilvántartása alapján ellenőrzi; az ellenőrzés kiterjed arra, hogy
 
 ea) az ajánlóív eredeti-e,
 
@@ -22,9 +22,9 @@ eb) az ajánlóíven a választópolgár valamennyi szükséges adata fel van-e 
 
 ec) létezik-e választópolgár az adott személyi azonosítóval,
 
-ed) egyeznek-e a választópolgár központi névjegyzékbeli adatai az ajánlóíven feltüntetett adataival,
+ed) egyeznek-e a választópolgár ajánlóíven feltüntetett adatai a szavazóköri névjegyzék adataival,
 
-ee) a választópolgár – a szavazást megelőző negyvennyolcadik nap és az ajánlóív leadása közötti időszak bármely napján – választójogosult volt-e az országgyűlési képviselők választásán abban az országgyűlési egyéni választókerületben, ahol jelöltet ajánlott,
+ee) a választópolgár – az ajánlóív kiadása és az ajánlóív leadása közötti időszak bármely napján – választójogosult volt-e az országgyűlési képviselők választásán abban az országgyűlési egyéni választókerületben, ahol jelöltet ajánlott,
 
 ef) a választópolgár nem ajánlott-e egy jelöltet többször,
 
@@ -34,7 +34,7 @@ g) az informatikai rendszerben regisztrálja az OEVB-nek a jelölt nyilvántart�
 
 h) a beérkezett jogorvoslati kérelem adatait rögzíti az informatikai rendszerben,
 
-i) a beérkezett fellebbezést az informatikai rendszerben felterjeszti az NVB-hez,
+i)[^7] a beérkezett fellebbezést az informatikai rendszerben felterjeszti az elbírálására jogosult választási bizottsághoz,
 
 j) az interneten közzéteszi az OEVB ülésének várható időpontját és részletes napirendjét,
 
@@ -67,3 +67,7 @@ u) tájékoztatja a HVI-ket a szavazólap elkészülte után bekövetkező vált
 v) kinyomtatja az átjelentkezéssel és a külföldön leadott szavazatok megszámlálására kijelölt SZSZB számára a szavazásnapi jegyzőkönyvet, valamint
 
 w) a személyazonosság – magyar vagy más hatóság által kiállított, a személyazonosság igazolására alkalmas okmány alapján történő – ellenőrzését és az átvétel igazolását követően átadja a szavazási levélcsomagot a választópolgárnak.
+
+[^5]: A 15. § c) pontja a 26/2018. (IX. 7.) IM rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^6]: A 15. § e) pontja a 26/2018. (IX. 7.) IM rendelet 33. § (2) bekezdésével megállapított szöveg.
+[^7]: A 15. § i) pontja a 26/2018. (IX. 7.) IM rendelet 33. § (3) bekezdésével megállapított szöveg.

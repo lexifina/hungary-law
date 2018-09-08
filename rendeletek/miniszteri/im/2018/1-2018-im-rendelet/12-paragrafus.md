@@ -14,7 +14,7 @@ c) biztosítja a szavazóhelyiséget, annak felszerelését, valamint a szavazá
 
 d) szabályszerűen berendezi a szavazóhelyiséget,
 
-e) a külképviselet épületében a szavazást megelőző tizenötödik naptól minden munkanapon
+e)[^3] a külképviselet épületében a szavazást megelőző tizenötödik naptól
 
 ea) külön urnát biztosít a levélben szavazók válaszborítékjának leadására, amelyet a válaszboríték leadására rendelkezésre álló időben folyamatosan felügyel,
 
@@ -41,3 +41,5 @@ j) gondoskodik a szavazólapok, az egyéb választási iratok, továbbá a szava
 a) kinyomtatja és hitelesíti a szavazási levélcsomagot a külképviseleten átvevő választópolgárok jegyzékét, és erről az informatikai rendszerben tájékoztatja az NVI-t, valamint
 
 b) a személyazonosság – magyar vagy más hatóság által kiállított, a személyazonosság igazolására alkalmas okmány alapján történő – ellenőrzését és az átvétel igazolását követően átadja a szavazási levélcsomagot a jegyzéken szereplő választópolgárnak.
+
+[^3]: A 12. § (1) bekezdés e) pont nyitó szövegrésze a 26/2018. (IX. 7.) IM rendelet 37. §-a szerint módosított szöveg.
