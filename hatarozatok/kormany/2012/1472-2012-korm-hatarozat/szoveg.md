@@ -18,26 +18,35 @@ e)[^1] az illetékes nemzetközi szervekkel és szervezetekkel, valamint a Külg
 
 a)[^3] Miniszterelnökséget vezető miniszter által kijelölt vezető,
 
-b) az emberi erőforrások minisztere által kijelölt vezető,
+b)[^4] az emberi erőforrások minisztere által kijelölt három vezető,
 
-c)[^4] a külgazdasági és külügyminiszter által kijelölt vezető,
+c)[^5] a külgazdasági és külügyminiszter által kijelölt vezető,
 
 d) a honvédelmi miniszter által kijelölt vezető,
 
-e) a Honvédelmi Minisztérium Hadtörténeti Intézet és Múzeum parancsnoka.
+e) a Honvédelmi Minisztérium Hadtörténeti Intézet és Múzeum parancsnoka,
+
+f)[^6] a kormánypolitika társadalomelméleti hátterével, valamint a hazai és nemzetközi politikai folyamatok történeti és aktuálpolitikai vetületével kapcsolatos kérdéskörökben szaktanácsadási feladatot ellátó miniszterelnöki megbízott,
+
+g)[^7] a VERITAS Történetkutató Intézet főigazgatója.
 
 5. A Kormány az Emlékbizottság tagjának felkéri a XX. Század Intézet főigazgatóját.
 
-6. Az Emlékbizottság elnökét és tagjait az Emlékbizottság munkájában való részvételükért díjazás nem illeti meg.
+6.[^8] Az Emlékbizottság elnöke, amennyiben valamely napirendi pont tárgyalása kapcsán szükségesnek tartja, további szakértőket hívhat meg. Az Emlékbizottság elnökét és tagjait, továbbá az eseti meghívottakat az Emlékbizottság munkájában való részvételükért díjazás nem illeti meg.
 
-7.[^5] Az Emlékbizottság titkársági feladatainak ellátását az emberi erőforrások minisztere a Közép- és Kelet-Európai Történelem és Társadalom Kutatásért Közalapítvány által fenntartott XX. Század Intézet közreműködésével biztosítja.
+7.[^9] Az Emlékbizottság titkársági feladatainak ellátását az emberi erőforrások minisztere a Közép- és Kelet-Európai Történelem és Társadalom Kutatásért Közalapítvány által fenntartott XX. Század Intézet közreműködésével biztosítja.
 
-8. Az Emlékbizottság működésének a rendjét az Emlékbizottság által elfogadott ügyrend határozza meg.
+8.[^10] Az Emlékbizottság 2020. június 4. napjáig működik, működésének rendjét az Emlékbizottság által elfogadott ügyrend határozza meg.
 
 9. Ez a határozat 2013. január 1-jén lép hatályba.
 
 [^1]: A 2. pont e) alpontja az 1367/2014. (VII. 3.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 3. pont az 1367/2014. (VII. 3.) Korm. határozat 2. pontjával megállapított szöveg.
 [^3]: A 4. pont a) alpontja az 1367/2014. (VII. 3.) Korm. határozat 3. pontjával megállapított szöveg.
-[^4]: A 4. pont c) alpontja az 1367/2014. (VII. 3.) Korm. határozat 4. pontjával megállapított szöveg.
-[^5]: A 7. pont az 1367/2014. (VII. 3.) Korm. határozat 5. pontjával megállapított szöveg.
+[^4]: A 4. pont b) alpontja az 1420/2018. (IX. 7.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 4. pont c) alpontja az 1367/2014. (VII. 3.) Korm. határozat 4. pontjával megállapított szöveg.
+[^6]: A 4. pont f) alpontját az 1420/2018. (IX. 7.) Korm. határozat 2. pontja iktatta be.
+[^7]: A 4. pont g) alpontját az 1420/2018. (IX. 7.) Korm. határozat 2. pontja iktatta be.
+[^8]: A 6. pont az 1420/2018. (IX. 7.) Korm. határozat 3. pontjával megállapított szöveg.
+[^9]: A 7. pont az 1367/2014. (VII. 3.) Korm. határozat 5. pontjával megállapított szöveg.
+[^10]: A 8. pont az 1420/2018. (IX. 7.) Korm. határozat 4. pontjával megállapított szöveg.

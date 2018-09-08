@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1472-30
 | --- | --- | --- |
 | 2013-01-01 | 2012-1472-30-22.1 | 1472/2012. (X. 29.) Korm. határozat |
 | 2014-07-04 | 2012-1472-30-22.2 | 1367/2014. (VII. 3.) Korm. határozat |
+| 2018-09-08 | 2012-1472-30-22.3 | 1420/2018. (IX. 7.) Korm. határozat |
