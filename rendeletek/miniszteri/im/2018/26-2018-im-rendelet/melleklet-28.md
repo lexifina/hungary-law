@@ -1,0 +1,7 @@
+## „7. melléklet a 9/2016. (VI. 28.) IM rendelethez
+
+## 20180620000026_27
+
+## ”
+
+28. melléklet a 26/2018. (IX. 7.) IM rendelethez

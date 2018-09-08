@@ -1,0 +1,1 @@
+## „l) átveszi a jelölő szervezet jelképét tartalmazó, legalább 300 dpi minőségű, 472 × 236 pixel méretű, TIFF, JPG vagy PNG fájlformátumú fájlokat, továbbá a jelöltek fényképét tartalmazó, JPEG kiterjesztésű, 240 × 340 pixel felbontású, álló formátumú fájlokat, és gondoskodik azok feltöltéséről az informatikai rendszerbe,”
