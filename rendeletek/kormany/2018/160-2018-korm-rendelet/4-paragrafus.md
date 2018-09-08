@@ -1,0 +1,3 @@
+## 3. § A 272/2014. (XI. 5.) Korm. rendelet 70/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Ha az értékelők által elkészített értékelések eredménye között 30%-nál nagyobb az eltérés, az irányító hatóság – a döntés-előkészítő bizottság ülését megelőzően – újraértékelést rendel el. A támogatási kérelem újraértékelését nem végezheti az, aki az adott kérelem vonatkozásában a (2) bekezdés szerinti minőségellenőrzést végezte. Az irányító hatóság az újraértékelés elrendelésétől eltekinthet, ha az egyik értékelő által készített értékelés eredménye sem éri el a támogathatósághoz a felhívásban meghatározott minimális pontszámot.”
