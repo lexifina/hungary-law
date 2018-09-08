@@ -22,23 +22,25 @@ g) átveszi az országos nemzetiségi lista állításához szükséges ajánló
 
 h) ellenőrzi, hogy a jelölő szervezet a rendelkezésére bocsátott összes ajánlóívet leadta-e; jelzi a Nemzeti Választási Bizottságnak (a továbbiakban: NVB), ha a jelölő szervezet nem adta le a rendelkezésére bocsátott összes ajánlóívet,
 
-i) az ajánlóíveken leadott ajánlásokat – az NVB döntésének előkészítése érdekében – ellenőrzi; az ellenőrzés kiterjed arra, hogy
+i)[^10] az ajánlóíveken leadott ajánlásokat – az NVB döntésének előkészítése érdekében – ellenőrzi; az ellenőrzés kiterjed arra, hogy
 
-ia) az ajánlóíven a választópolgár valamennyi szükséges adata fel van-e tüntetve,
+ia) az ajánlóív eredeti-e,
 
-ib) létezik-e a központi névjegyzékben a választópolgár által megadott személyi azonosító,
+ib) az ajánlóíven a választópolgár valamennyi szükséges adata fel van-e tüntetve,
 
-ic) egyeznek-e a választópolgár központi névjegyzékbeli adatai az ajánlóíven feltüntetett adataival,
+ic) létezik-e választópolgár az adott személyi azonosítóval,
 
-id) a választópolgár – a szavazást megelőző 48. nap és az ajánlóív leadása közötti időszak bármely napján – szerepelt-e a névjegyzékben azon nemzetiség választópolgáraként, amelynek országos nemzetiségi listáját ajánlotta,
+id) egyeznek-e a választópolgár ajánlóíven feltüntetett adatai a szavazóköri névjegyzék adataival,
 
-ie) a választópolgár nem ajánlott-e egy országos nemzetiségi listát többször,
+ie) a választópolgár – az ajánlóív kiadása és az ajánlóív leadása közötti időszak bármely napján – szerepelt-e a szavazóköri névjegyzékben azon nemzetiség választópolgáraként, amelynek országos nemzetiségi listáját ajánlotta,
+
+if) a választópolgár nem ajánlott-e egy jelöltet vagy listát többször,
 
 j) az NVB-nek a jelölő szervezet, illetve az országos nemzetiségi lista nyilvántartásba vételével kapcsolatos döntését, a jogorvoslat benyújtását, valamint a Kúria jogerős döntését az informatikai rendszerben rögzíti,
 
 k) előkészíti az országos nemzetiségi listák sorsolását, a sorsolás eredményét rögzíti az informatikai rendszerben,
 
-l) átveszi a jelölő szervezet jelképét tartalmazó JPEG kiterjesztésű, legalább 390x520 felbontású fájlokat, és gondoskodik azok feltöltéséről az informatikai rendszerbe,
+l)[^11] átveszi a jelölő szervezet jelképét tartalmazó, legalább 300 dpi minőségű, 472 × 236 pixel méretű, TIFF, JPG vagy PNG fájlformátumú fájlokat, továbbá a jelöltek fényképét tartalmazó, JPEG kiterjesztésű, 240 × 340 pixel felbontású, álló formátumú fájlokat, és gondoskodik azok feltöltéséről az informatikai rendszerbe,
 
 m) bejelentett igény alapján, az adatszolgáltatási díj megfizetésének igazolását követően a szavazóköri névjegyzékben szereplő választópolgárok név- és lakcímadatait elektronikus adathordozón átadja a jelölő szervezetnek,
 
@@ -65,3 +67,6 @@ t) a választások hivatalos honlapján közzéteszi a többi választási iroda
 a) meghatározza az országos igazgatási és informatikai próbák időpontjait, feladatait, résztvevőit és
 
 b) kiadja a jegyzőkönyvek továbbításával kapcsolatos utasítását.
+
+[^10]: A 14. § (1) bekezdés i) pontja a 26/2018. (IX. 7.) IM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^11]: A 14. § (1) bekezdés l) pontja a 26/2018. (IX. 7.) IM rendelet 16. § (2) bekezdésével megállapított szöveg.

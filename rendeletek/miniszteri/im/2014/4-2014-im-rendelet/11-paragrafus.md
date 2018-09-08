@@ -8,7 +8,7 @@ b) az informatikai rendszerből kinyomtatja, és átvételi elismervény ellené
 
 c) átveszi a jelölő szervezet, a főpolgármester-jelölt, illetve a megyei lista, fővárosi kompenzációs lista, területi nemzetiségi önkormányzati lista bejelentését tartalmazó nyomtatványokat és azok mellékleteit, azokat ellenőrzi, és a bejelentő figyelmét felhívja az esetleges hiányokra; a bejelentésről átvételi elismervényt ad ki, továbbá a bejelentést az informatikai rendszerben regisztrálja,
 
-d) gondoskodik a jelölő szervezet jelképét, illetve a főpolgármester-jelölt fényképét tartalmazó, JPEG kiterjesztésű, legalább 390x520 felbontású fájl feltöltéséről az informatikai rendszerbe,
+d)[^8] átveszi a jelölő szervezet jelképét tartalmazó, legalább 300 dpi minőségű, 472 × 236 pixel méretű, TIFF, JPG vagy PNG fájlformátumú fájlokat, továbbá a jelöltek fényképét tartalmazó, JPEG kiterjesztésű, 240 × 340 pixel felbontású, álló formátumú fájlokat, és gondoskodik azok feltöltéséről az informatikai rendszerbe,
 
 e) ellenőrzi a jelölő szervezet nemzetiségi nevét tartalmazó word formátumú fájl tartalmát, gondoskodik annak feltöltéséről az informatikai rendszerbe,
 
@@ -18,17 +18,19 @@ g) a bíróság megkeresése útján ellenőrzi a jelölő szervezet létezésé
 
 h) átveszi az ajánlóíveket, ellenőrzi, hogy a jelölt, illetve a jelölő szervezet a rendelkezésére bocsátott összes ajánlóívet leadta-e; jelzi a területi választási bizottságnak (a továbbiakban: TVB), ha a jelölt, illetve a jelölő szervezet nem adta le a rendelkezésére bocsátott összes ajánlóívet,
 
-i) az ajánlóíveken leadott ajánlásokat – a TVB döntésének előkészítése érdekében – ellenőrzi; az ellenőrzés kiterjed arra, hogy
+i)[^9] az ajánlóíveken leadott ajánlásokat – a TVB döntésének előkészítése érdekében – ellenőrzi; az ellenőrzés kiterjed arra, hogy
 
-ia) az ajánlóíven a választópolgár valamennyi szükséges adata fel van-e tüntetve,
+ia) az ajánlóív eredeti-e,
 
-ib) létezik-e a központi névjegyzékben a választópolgár által megadott személyi azonosító,
+ib) az ajánlóíven a választópolgár valamennyi szükséges adata fel van-e tüntetve,
 
-ic) egyeznek-e a választópolgár központi névjegyzékbeli adatai az ajánlóíven feltüntetett adataival,
+ic) létezik-e választópolgár az adott személyi azonosítóval,
 
-id) a választópolgár – a szavazást megelőző 48. nap és az ajánlóív leadása közötti időszak bármely napján – szerepelt-e a névjegyzékben a választókerületben, ahol jelöltet, listát ajánlott, illetve a nemzetiségi önkormányzati választáson azon nemzetiség választópolgáraként, amelynek listáját ajánlotta,
+id) egyeznek-e a választópolgár ajánlóíven feltüntetett adatai a szavazóköri névjegyzék adataival,
 
-ie) a választópolgár nem ajánlott-e egy jelöltet, listát többször,
+ie) a választópolgár – az ajánlóív kiadása és az ajánlóív leadása közötti időszak bármely napján – választójogosult volt-e abban a választókerületben, ahol jelöltet, listát ajánlott, illetve a nemzetiségi önkormányzati választáson azon nemzetiség választópolgáraként, amelynek listáját ajánlotta,
+
+if) a választópolgár nem ajánlott-e egy jelöltet vagy listát többször,
 
 j) az informatikai rendszerben regisztrálja a TVB-nek a jelölő szervezet, jelölt, lista nyilvántartásba vételével kapcsolatos döntését, a jogorvoslat benyújtását, valamint a bíróság jogerős döntését,
 
@@ -65,3 +67,6 @@ v) tájékoztatja a HVI-ket a szavazólap elkészülte után bekövetkező vált
 a) elkészíti az üzemzavar esetére irányadó intézkedési tervet és
 
 b) kiadja a jegyzőkönyvek továbbításával kapcsolatos utasítását.
+
+[^8]: A 11. § (1) bekezdés d) pontja a 26/2018. (IX. 7.) IM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^9]: A 11. § (1) bekezdés i) pontja a 26/2018. (IX. 7.) IM rendelet 15. § (2) bekezdésével megállapított szöveg.

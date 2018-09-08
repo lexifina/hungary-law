@@ -108,4 +108,6 @@
 
 | 51. | Értesítő a szavazóköri névjegyzékbe vételről a nemzetiségi önkormányzati képviselők időközi választásán | X | X | X |  |
 
-2–49. melléklet a 4/2014. (VII. 24.) IM rendelethez
+2–49. melléklet a 4/2014. (VII. 24.) IM rendelethez[^17]
+
+[^17]: A 2–49. melléklet a 26/2018. (IX. 7.) IM rendelet 19. §-a szerint módosított szöveg.
