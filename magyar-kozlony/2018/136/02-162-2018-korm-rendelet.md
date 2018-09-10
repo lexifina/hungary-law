@@ -1,0 +1,566 @@
+# A Kormány 162/2018. (IX. 10.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 136. szám, 2018. szeptember 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/66855c0612f3ecaa2901f199305b02353861809a/dokumentumok/f9ebeca413a43c3cdf6fe79809b1e8c9b0f689b6/letoltes)
+
+---
+
+A Kormány 162/2018. (IX. 10.) Korm. rendelete
+egyes kormányrendeleteknek a Nemzeti Népegészségügyi Központ létrehozásával kapcsolatos
+módosításáról
+A Kormány
+a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés b) pontjában kapott felhatalmazás alapján,
+a 2. alcím és az 1. melléklet tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §
+(2) bekezdés a) pontjában kapott felhatalmazás alapján,
+a 3. alcím tekintetében a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés k) pontjában kapott felhatalmazás
+alapján,
+a 4. alcím tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés b) pontjában kapott felhatalmazás
+alapján,
+az 5. alcím tekintetében az atomenergiáról szóló 1996. évi CXVI. törvény 67. § e) pontjában kapott felhatalmazás alapján,
+a 6. alcím tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (7) bekezdés
+17. pontjában kapott felhatalmazás alapján,
+a 7. alcím tekintetében az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 139. § (1) bekezdés a), b) és e) pontjában kapott
+felhatalmazás alapján,
+a 8. alcím tekintetében a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés b) és k) pontjában kapott felhatalmazás
+alapján,
+a 9. alcím tekintetében az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 16. § (14) bekezdés
+v) pontjában, valamint (15) bekezdés a) pontjában kapott felhatalmazás alapján,
+a 10. alcím tekintetében a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (2) bekezdés g) pontjában kapott
+felhatalmazás alapján,
+a 11. alcím tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 246. § b) pontjában és 247. § (1) bekezdés u) pontjában
+kapott felhatalmazás alapján,
+a 12. alcím tekintetében az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 15. § (12) bekezdés
+a) pontjában kapott felhatalmazás alapján,
+a 13. alcím tekintetében az elektronikus hírközlésről szóló 2003. évi C. törvény 182. § (1) bekezdés d) pontjában kapott
+felhatalmazás alapján,
+a 14. alcím tekintetében az atomenergiáról szóló 1996. évi CXVI. törvény 67. § a) pontjában kapott felhatalmazás alapján,
+a 15. alcím tekintetében az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények
+módosításáról szóló 2005. évi XCV. törvény 32. § (4) bekezdés e) pont eb)–ec) alpontjában kapott felhatalmazás alapján
+a 16. alcím tekintetében a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól
+szóló 1999. évi XLII. törvény 8. § (5) bekezdés a) pontjában kapott felhatalmazás alapján,
+a 17. alcím tekintetében az atomenergiáról szóló 1996. évi CXVI. törvény 67. § u) pontjában kapott felhatalmazás alapján,
+a 18. alcím tekintetében az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 15. § (12) bekezdés
+d) pont dd) alpontjában kapott felhatalmazás alapján,
+a 19. alcím tekintetében az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályainak kihirdetéséről szóló
+2009. évi XCI. törvény 3. § (2) bekezdés a) és b) pontjában kapott felhatalmazás alapján,
+a 20. alcím tekintetében az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 28. §
+(3) bekezdés a) pont ab) alpontjában kapott felhatalmazás alapján,
+a 21. alcím tekintetében a kémiai biztonságról szóló 2000. évi XXV. törvény 34. § (3) bekezdés f) pontjában és g) pont
+gh) alpontjában kapott felhatalmazás alapján,
+a 22. alcím tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+a 23. alcím tekintetében az atomenergiáról szóló 1996. évi CXVI. törvény 67. § a) pontjában kapott felhatalmazás alapján,
+a 24. alcím tekintetében az atomenergiáról szóló 1996. évi CXVI. törvény 67. § m) pontjában kapott felhatalmazás alapján,
+a 25. alcím tekintetében az atomenergiáról szóló 1996. évi CXVI. törvény 67. § k) pontjában kapott felhatalmazás alapján,
+a 26. alcím tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+a 27. alcím tekintetében a hivatalos statisztikáról szóló 2016. évi CLV. törvény 47. § (1) bekezdés c) pontjában kapott
+felhatalmazás alapján,
+
+a 28. alcím tekintetében az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények
+módosításáról szóló 2005. évi XCV. törvény 32. § (4) bekezdés f) pontjában kapott felhatalmazás alapján,
+a 29. alcím tekintetében az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények
+módosításáról szóló 2005. évi XCV. törvény 32. § (4) bekezdés i) pontjában kapott felhatalmazás alapján,
+a 30. alcím tekintetében az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 139. § b) pontjában kapott
+felhatalmazás alapján,
+a 31. alcím tekintetében a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (3) bekezdés k) pontjában és 73/B. § b) pontjában
+kapott felhatalmazás alapján,
+a 32. alcím és a 2. melléklet tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói
+hatáskörében,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet módosítása
+1. §
+A biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet 1. számú melléklet III. pont
+1.122. alpontjában az „az egészségügyért felelős miniszter által vezetett minisztériumban népegészségügyi
+hatáskörben”szövegrész helyébe az„a Nemzeti Népegészségügyi Központban”szöveg lép.
+2. Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes
+szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosítása
+2. §
+Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló
+43/1999. (III. 3.) Korm. rendelet 34. számú melléklete az 1. melléklet szerint módosul.
+3. Az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló
+201/2001. (X. 25.) Korm. rendelet módosítása
+3. §
+Az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet
+[a továbbiakban: 201/2001. (X. 25.) Korm. rendelet]
+a) 4. § (9) bekezdésében az „az Országos Közegészségügyi Intézet (a továbbiakban: OKI)” szövegrész helyébe
+az„a Nemzeti Népegészségügyi Központ (a továbbiakban: NNK)”szöveg,
+b) 5. § (7) bekezdésében, 5/B. § (2) bekezdésében, 5. és 6. számú mellékletében az „OKI” szövegrészek helyébe
+az„NNK”szöveg,
+c) 5/B. § (1) bekezdésében, 9. § (3) bekezdésében, 10. § (10) bekezdésében az„OKI”szövegrész helyébe az„NNK”
+szöveg
+lép.
+4. §
+Hatályát veszti a 201/2001. (X. 25.) Korm. rendelet 2. számú melléklet B) rész 2. Paraméterek jegyzéke című pont
+2.9. alpontjában az„Az országos tisztifőorvos az engedélyezést az OKI bevonásával végzi.”szövegrész.
+4. Az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési
+engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet módosítása
+5. §
+Az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról
+szóló 96/2003. (VII. 15.) Korm. rendelet
+a) 14. § (2) bekezdésében az „az OTH-nak” szövegrész helyébe az „a Nemzeti Népegészségügyi Központnak
+(a továbbiakban: NNK)”szöveg,
+b) 14. § (4) bekezdésében az „az egészségügyért felelős miniszter által vezetett minisztérium (a továbbiakban:
+minisztérium)”szövegrészek helyébe az„az NNK”szöveg,
+c) 14. § (6) bekezdésében az„a minisztérium internetes honlapján”szövegrész helyébe az„a honlapján”szöveg,
+d) 14. § (7) bekezdésében az„A minisztérium”szövegrész helyébe az„Az NNK”szöveg,
+e) 25. § (10) bekezdésében az„a minisztérium”szövegrész helyébe az„az NNK”szöveg
+lép.
+
+5. A nukleáris és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás rendjéről szóló
+165/2003. (X. 18.) Korm. rendelet módosítása
+6. §
+A nukleáris és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás rendjéről szóló 165/2003. (X. 18.)
+Korm. rendelet 7. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
+[A nukleáris és radiológiai veszélyhelyzet esetén lakossági tájékoztatásra az (1) bekezdésben meghatározott szervekkel
+előzetes egyeztetés alapján jogosult szervek:]
+„f) a Nemzeti Népegészségügyi Központ,”
+6. Az egyes tervek, illetve programok környezeti vizsgálatáról szóló 2/2005. (I. 11.) Korm. rendelet
+módosítása
+7. §
+Az egyes tervek, illetve programok környezeti vizsgálatáról szóló 2/2005. (I. 11.) Korm. rendelet
+a) 3. számú melléklet I. rész I.2. pont e) alpontjában az „egészségügyért felelős miniszter” szövegrész helyébe
+az„országos tisztifőorvos”szöveg,
+b) 3. számú melléklet II. rész II.2. pont j) alpontjában az„Országos Közegészségügyi Intézet” szövegrész helyébe
+az„országos tisztifőorvos”szöveg
+lép.
+7. A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott
+szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló
+282/2007. (X. 26.) Korm. rendelet módosítása
+8. §
+A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben
+kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló 282/2007. (X. 26.) Korm. rendelet
+a) 2. számú melléklet 2. pont c) alpontjában, 3. pont g) alpontjában és 7. pontjában az „Országos
+Közegészségügyi Intézet”szövegrész helyébe a„Nemzeti Népegészségügyi Központ”szöveg,
+b) 4. számú mellékletében foglalt táblázat 6. pontjában az „Országos Közegészségügyi Intézet” szövegrész
+helyébe a„Nemzeti Népegészségügyi Központ”szöveg
+lép.
+8. A természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek
+kijelöléséről és üzemeltetéséről szóló 78/2008. (IV. 3.) Korm. rendelet módosítása
+9. §
+A természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és
+üzemeltetéséről szóló 78/2008. (IV. 3.) Korm. rendelet [a továbbiakban: 78/2008. (IV. 3.) Korm. rendelet] 14. §
+(2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A járási hivatal a fürdési idény folyamán gondoskodik arról, hogy
+a) a fürdővíz jelentős vagy tartós minőségromlására vagy ennek lehetőségére, különösen a fürdőzők egészségi
+kockázatának növekedésével kapcsolatos bármely rendkívüli helyzetre vonatkozó információ az erről való
+tudomásszerzést követő 3 órán belül,
+b) a 7. § (5) bekezdése szerinti rövid távú szennyezés miatt figyelmen kívül hagyható mintákról szükséges
+tájékoztatás az erre vonatkozó döntést követő 24 órán belül
+a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalhoz és az NNK-hoz eljusson.”
+10. §
+A 78/2008. (IV. 3.) Korm. rendelet
+a) 8. § (5) bekezdésében az „az Országos Közegészségügyi Intézet (a továbbiakban: OKI)” szövegrész helyébe
+az„a Nemzeti Népegészségügyi Központ (a továbbiakban: NNK)”szöveg,
+b) 11. § (1) bekezdésében az„OKI-nak”szövegrész helyébe az„NNK-nak”szöveg,
+c) 15. § (3) bekezdésében az„OKI”szövegrészek helyébe az„NNK”szöveg
+lép.
+
+9. Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló
+337/2008. (XII. 30.) Korm. rendelet módosítása
+11. §
+Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008.
+(XII. 30.) Korm. rendelet
+a) 1. § (9) bekezdésében a „NEAK-ot” szövegrész helyébe a „NEAK-ot és az egészségügyért felelős minisztert”
+szöveg,
+b) 1/A. § (5) bekezdésében és 1/B. § (7) bekezdésében a „NEAK-nak” szövegrész helyébe a „NEAK-nak, valamint
+tájékoztatja az egészségügyért felelős minisztert”szöveg
+lép.
+10. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény egészségügyi intézményekben
+történő végrehajtásáról szóló 356/2008. (XII. 31.) Korm. rendelet módosítása
+12. §
+Hatályát veszti a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény egészségügyi intézményekben történő
+végrehajtásáról szóló 356/2008. (XII. 31.) Korm. rendelet 16. § (2) bekezdésében az „az Országos Közegészségügyi
+Intézetet, valamint”szövegrész.
+11. Az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati
+készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai
+vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól
+szóló 235/2009. (X. 20.) Korm. rendelet módosítása
+13. §
+Az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai
+vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök
+klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet [a továbbiakban:
+235/2009. (X. 20.) Korm. rendelet] 37/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A 37/B. § (1) bekezdése szerinti kutatások – az emberen végzett orvostudományi kutatások kivételével –
+engedélyezése esetén az engedélyező beszerzi az országos tisztifőorvos szakhatósági állásfoglalását is.”
+14. §
+A 235/2009. (X. 20.) Korm. rendelet 37/C. § (2) bekezdésében az„OKI” szövegrész helyébe az„országos tisztifőorvos”
+szöveg lép.
+12. Az egészségügyi államigazgatási szerv eljárásában kiszabott egészségügyi bírság megfizetésének
+részletes szabályairól szóló 79/2010. (III. 25.) Korm. rendelet módosítása
+15. §
+Az egészségügyi államigazgatási szerv eljárásában kiszabott egészségügyi bírság megfizetésének részletes
+szabályairól szóló 79/2010. (III. 25.) Korm. 1. § (1) bekezdésében az „az Emberi Erőforrások Minisztériumának”
+szövegrész helyébe az„a Nemzeti Népegészségügyi Központnak”szöveg lép.
+13. A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet módosítása
+16. §
+A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 3. mellékletében foglalt „I. Központi
+finanszírozásúak” című táblázat 8. sor 8.6. alpontjában az „Országos Közegészségügyi Intézet” szövegrész helyébe
+a„Nemzeti Népegészségügyi Központ”szöveg lép.
+14. Az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós,
+valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal
+hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről,
+valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló
+112/2011. (VII. 4.) Korm. rendelet módosítása
+17. §
+Az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi
+kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő
+
+szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját
+segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet [a továbbiakban: 112/2011. (VII. 4.)
+Korm. rendelet] 5. § (11) bekezdésében az„OKI”szövegrész helyébe az„országos tisztifőorvos”szöveg lép.
+18. §
+Hatályát veszti a 112/2011. (VII. 4.) Korm. rendelet
+a) 5. § (4) bekezdés a) pontja,
+b) 5. § (5) bekezdés c) pontja.
+15. A kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető
+tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló
+66/2012. (IV. 2.) Korm. rendelet módosítása
+19. § (1) A kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről,
+valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet
+[a továbbiakban: 66/2012. (IV. 2.) Korm. rendelet] 27. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Ha az OAC megállapítja, hogy a Gytv. 15/B. § (3) bekezdésében foglaltak együttesen fennállnak, kezdeményezi
+az egészségügyért felelős miniszternél a feltételezett új pszichoaktív anyag listára vételét az új pszichoaktív anyaggá
+minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletbe.”
+(2) A 66/2012. (IV. 2.) Korm. rendelet 27. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) Az OAC a kockázatértékelés eredményére figyelemmel kezdeményezi a miniszternél
+a) a kockázatértékelés idejének egy évvel történő meghosszabbítását,
+b) az anyagnak a Gytv. 2. számú mellékletére történő felvételét vagy
+c) az anyagnak az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri
+rendeletből történő törlését és az 1. melléklet D) jegyzékére történő felvételét.”
+(3) A 66/2012. (IV. 2.) Korm. rendelet 27. § (9) bekezdése helyébe a következő rendelkezés lép:
+„(9) Az OAC az értékeléshez bekéri az OGYÉI és az egészségügyi szakmai kollégium véleményét, valamint
+a Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ (a továbbiakban: Nemzeti Drog Fókuszpont), továbbá
+a szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben
+kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló kormányrendelet szerint
+szakvélemény adására kizárólagosan kijelölt szervek és a rendőrség birtokában lévő, az adott szer kóros élvezetére
+utaló információkat és a KKB állásfoglalását.”
+20. §
+A 66/2012. (IV. 2.) Korm. rendelet
+a) 27. § (4) bekezdésében az„Emberi Erőforrások Minisztériuma” szövegrész helyébe az„Országos Addiktológiai
+Centrum (a továbbiakban: OAC)”szöveg,
+b) 27. § (6) bekezdésében az„egészségügyért felelős miniszter”szövegrészek helyébe az„OAC”szöveg,
+c) 28. § (1) bekezdésében az„egészségügyért felelős minisztert”szövegrész helyébe az„OAC-ot, a Nemzeti Drog
+Fókuszpontot”szöveg,
+d) 28. § (1) bekezdésében az „Az egészségügyért felelős miniszter” szövegrész helyébe az „A Nemzeti Drog
+Fókuszpont”szöveg,
+e) 10. mellékletében a „2. példányát az egészségügyért felelős miniszternek kell megküldeni. A 3. példányt”
+szövegrész helyébe a „2. példányát a Nemzeti Drog Fókuszpontnak (Nemzeti Kábítószer Adatgyűjtő és
+Kapcsolattartó Központ – Reitox National Focal Point), 3. példányát az Országos Addiktológiai Centrumnak
+kell megküldeni. A 4. példányt”szöveg
+lép.
+16. A dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált
+figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló
+39/2013. (II. 14.) Korm. rendelet módosítása
+21. §
+A dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről,
+valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet
+[a továbbiakban: 39/2013. (II. 14.) Korm. rendelet] 4. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Ha az országos tisztifőorvos úgy ítéli meg, hogy az adalékanyagot fel kell venni a 4. melléklet szerinti listára,
+az adalékanyag további felhasználását megtiltja, és jogszabály-módosítást kezdeményez az egészségügyért felelős
+miniszternél a lista kibővítése érdekében.”
+22. §
+A 39/2013. (II. 14.) Korm. rendelet
+a) 3. § (3) bekezdésében az „az egészségügyért felelős miniszter” szövegrész helyébe az „a Nemzeti
+Népegészségügyi Központ (a továbbiakban: NNK)”szöveg,
+b) 4. § (5) bekezdésében és 12. § (2) bekezdésében az„az egészségügyért felelős minisztert”szövegrész helyébe
+az„az NNK-t”szöveg,
+c) 4. § (6) bekezdésében és 12. § (4) bekezdésében az „az egészségügyért felelős miniszter által vezetett
+minisztérium”szövegrészek helyébe az„az NNK”szöveg,
+d) a 9. § (6) bekezdésében, 11. § (4) bekezdésében, 18/A. § (5) bekezdésében, 18/B. § (4) bekezdésében és
+19/D. § (3) bekezdésében az„az egészségügyért felelős miniszter”szövegrész helyébe az„az NNK”szöveg,
+e) 18. § (7) bekezdésében, 18/B. § (1) bekezdésében és 18/C. § (2) bekezdésében az „az egészségügyért felelős
+miniszter”szövegrész helyébe az„az egészségügyért felelős miniszter és az NNK”szöveg,
+f) 18/A. § (4) bekezdésében az „az egészségügyért felelős miniszternek” szövegrész helyébe az „az NNK-nak”
+szöveg
+lép.
+17. A Központi Nukleáris Pénzügyi Alap Szakbizottságról szóló 213/2013. (VI. 21.) Korm. rendelet
+módosítása
+23. §
+Hatályát veszti a Központi Nukleáris Pénzügyi Alap Szakbizottságról szóló 213/2013. (VI. 21.) Korm. rendelet 1. §
+(3) bekezdés f) pontja.
+18. A kozmetikai termékekről szóló 246/2013. (VII. 2.) Korm. rendelet módosítása
+24. §
+A kozmetikai termékekről szóló 246/2013. (VII. 2.) Korm. rendelet 10. §-ában az„az egészségügyért felelős miniszter
+által vezetett minisztérium”szövegrész helyébe az„a Nemzeti Népegészségügyi Központ”szöveg lép.
+19. Az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályai végrehajtásának egyes
+kérdéseiről szóló 253/2013. (VII. 5.) Korm. rendelet módosítása
+25. §
+Hatályát veszti az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályai végrehajtásának egyes
+kérdéseiről szóló 253/2013. (VII. 5.) Korm. rendelet
+a) 3. § (1) bekezdés l) pontja,
+b) 4. § (2) bekezdésében az„az Országos Közegészségügyi Intézet,”szövegrész.
+20. Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének,
+valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló
+256/2013. (VII. 5.) Korm. rendelet módosítása
+26. §
+Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz
+kapcsolódó támogatás igénybevételének részletes szabályairól 256/2013. (VII. 5.) Korm. rendelet 2. mellékletében
+foglalt táblázat 148. pontjában az „Országos Közegészségügyi Intézet” szövegrész helyébe a „Nemzeti
+Népegészségügyi Központ”szöveg lép.
+21. A biocid termékek engedélyezésének és forgalomba hozatalának egyes szabályairól szóló
+316/2013. (VIII. 28.) Korm. rendelet módosítása
+27. §
+A biocid termékek engedélyezésének és forgalomba hozatalának egyes szabályairól szóló 316/2013. (VIII. 28.)
+Korm. rendelet [a továbbiakban: 316/2013. (VIII. 28.) Korm. rendelet] 24/C. §-a helyébe a következő rendelkezés lép:
+„24/C. § Az egészségügyi kártevőirtószerekkel, valamint gázosítószerekkel végzett tevékenység szabályairól szóló
+miniszteri rendelet szerint irtószernek minősülő biocid termék az országos tisztifőorvos által – szakvélemény
+
+figyelembevételével – kiadott engedély birtokában hozható forgalomba. A kérelem adattartamát és a csatolandó
+dokumentumokat a 2. melléklet 2. pontja tartalmazza.”
+28. §
+A 316/2013. (VIII. 28.) Korm. rendelet 24/D. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) Az emberek és állatok általi fogyasztásra szánt ivóvíz, a használati meleg víz, az uszodai és egyéb, fürdőzésre
+használt vizek fertőtlenítésére, valamint az ilyen vizekkel érintkező felületek fertőtlenítésére szolgáló, továbbá
+a vizekben alkalmazott algásodásgátló biocid termék az országos tisztifőorvos által kiadott engedély birtokában
+hozható forgalomba. A kérelem adattartamát és a csatolandó dokumentumokat a 2. melléklet 1. pontja tartalmazza.
+(2) Az (1) bekezdés hatálya alá nem tartozó, állatok általi fogyasztásra szánt ivóvíz fertőtlenítésére szolgáló
+fertőtlenítőszerek engedélyezési eljárásában szakértőként az állategészségügyi hatáskörében eljáró fővárosi
+és megyei kormányhivatal vesz részt. A kérelem adattartamát és a csatolandó dokumentumokat a 2. melléklet
+1. pontja tartalmazza. Az engedély iránti kérelemhez a kérelmező csatolja az állategészségügyi hatáskörében eljáró
+fővárosi és megyei kormányhivatal szakvéleményét.
+(3) A (4) és az (5) bekezdésben felsorolt biocid termékek az országos tisztifőorvos által – szakvélemény
+figyelembevételével – kiadott engedély birtokában hozhatók forgalomba. A (4) és az (5) bekezdés szerinti
+fertőtlenítőszerek engedélyezése iránti kérelem adattartamát és a csatolandó dokumentumokat a 2. melléklet
+3. vagy 4. pontja tartalmazza. A (4) bekezdés c) pontjában foglalt felületfertőtlenítő szerek engedély iránti
+kérelméhez a kérelmező csatolja az állategészségügyi hatáskörében eljáró fővárosi és megyei kormányhivatal
+– a 2. melléklet 3. pontja szerinti adatok alapján kialakított – szakvéleményét.”
+29. §
+Hatályát veszti a 316/2013. (VIII. 28.) Korm. rendelet 23. § (3) bekezdése.
+22. A Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet módosítása
+30. §
+A Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet 3. § (1) bekezdés e) pontjában
+az„az Országos Közegészségügyi Intézet”szövegrész helyébe az„a Nemzeti Népegészségügyi Központ”szöveg lép.
+23. Az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési
+rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet módosítása
+31. §
+Az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló
+487/2015. (XII. 30.) Korm. rendelet
+a) 12. § (5) bekezdésében és 61. § (2) bekezdésében az „Országos Közegészségügyi Intézet (a továbbiakban:
+OKI)”szövegrész helyébe az„országos tisztifőorvos”szöveg,
+b) 30/A. § (1) bekezdés a) pontjában és 30/A. § (2) bekezdés h) pontjában az „OKI” szövegrész helyébe
+az„országos tisztifőorvos”szöveg,
+c) 63. § (2) bekezdésében az„OKI-val”szövegrész helyébe az„országos tisztifőorvossal”szöveg
+lép.
+24. A lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti
+sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről szóló
+489/2015. (XII. 30.) Korm. rendelet módosítása
+32. §
+A lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet
+ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről szóló 489/2015. (XII. 30.) Korm. rendelet
+a) 3. § (2) bekezdésében az „Országos Közegészségügyi Intézet (a továbbiakban: OKI)” szövegrész helyébe
+az„országos tisztifőorvos”szöveg,
+b) 1. melléklet 15. pontjában és 3. melléklet 1.1. pontjában foglalt táblázat B:2 mezőjében az „OKI” szövegrész
+helyébe a„Nemzeti Népegészségügyi Központ”szöveg
+lép.
+
+25. A hiányzó, a talált, valamint a lefoglalt nukleáris és más radioaktív anyagokkal kapcsolatos
+bejelentésekről és intézkedésekről, továbbá a nukleáris és más radioaktív anyagokkal kapcsolatos
+egyéb bejelentést követő intézkedésekről szóló 490/2015. (XII. 30.) Korm. rendelet módosítása
+33. §
+A hiányzó, a talált, valamint a lefoglalt nukleáris és más radioaktív anyagokkal kapcsolatos bejelentésekről
+és intézkedésekről, továbbá a nukleáris és más radioaktív anyagokkal kapcsolatos egyéb bejelentést követő
+intézkedésekről szóló 490/2015. (XII. 30.) Korm. rendelet
+a) 4. § (3) bekezdésében az „Országos Közegészségügyi Intézet (a továbbiakban: OKI)” szövegrész helyébe
+az„országos tisztifőorvos”szöveg,
+b) 6. § (3) bekezdésében és 7. § (1) bekezdésében az „OKI-t” szövegrész helyébe az „országos tisztifőorvost”
+szöveg,
+c) 7. § (3) és (4) bekezdésében, 8. § (1) bekezdés a) és b) pontjában, 8. § (6) bekezdésében, 9. § (1) bekezdésében
+az„OKI”szövegrész helyébe az„országos tisztifőorvos”szöveg,
+d) 7. § (5) bekezdésében és 9. § (4) bekezdésében az„OKI-nak”szövegrész helyébe az„országos tisztifőorvosnak”
+szöveg
+lép.
+26. A fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi
+feladatai ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló
+385/2016. (XII. 2.) Korm. rendelet módosítása
+34. § (1) A fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi feladatai
+ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló 385/2016. (XII. 2.) Korm. rendelet
+[a továbbiakban: 385/2016. (XII. 2.) Korm. rendelet] 1. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+[A miniszter szakmai irányítása keretében a kormányhivatalok és a kormányhivatal népegészségügyi feladatkörében
+eljáró járási (fővárosi kerületi) hivatalai (a továbbiakban: járási hivatal)]
+„a) végrehajtják a miniszter által kiadott hatósági ellenőrzési terveket,”
+(2) A 385/2016. (XII. 2.) Korm. rendelet 1. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+[A miniszter szakmai irányítása keretében a kormányhivatalok és a kormányhivatal népegészségügyi feladatkörében
+eljáró járási (fővárosi kerületi) hivatalai (a továbbiakban: járási hivatal)]
+„c) az elvégzett feladataikról közvetlenül, az országos tisztifőorvos egyidejű tájékoztatása mellett – a járási hivatal
+esetében a kormánymegbízott útján – tájékoztatják a minisztert,”
+(3) A 385/2016. (XII. 2.) Korm. rendelet 1. § (4) bekezdése a következő f)–h) ponttal egészül ki:
+[A kormányhivatalok és a járási hivatalok]
+„f) végrehajtják az országos tisztifőorvos által kiadott egyéb ellenőrzési és mintavételi terveket,
+g) ellátják a gyorsriasztási rendszerek üzemeltetésével kapcsolatos feladatokat,
+h) az országos tisztifőorvos által kiadott feladataik elvégzéséről közvetlenül tájékoztatják az országos tisztifőorvost.”
+35. §
+A 385/2016. (XII. 2.) Korm. rendelet 4. alcíme helyébe a következő rendelkezés lép:
+„4. A Nemzeti Népegészségügyi Központ szervezete, valamint népegészségügyi feladat- és hatásköre
+6. § A Nemzeti Népegészségügyi Központ (a továbbiakban: NNK) a miniszter irányítása alá tartozó, központi
+hivatalként működő központi költségvetési szerv.
+6/A. § (1) Az NNK-t az országos tisztifőorvos vezeti.
+(2) Az országos tisztifőorvos tevékenységét a helyettes országos tisztifőorvosok segítik, akiket a miniszter nevez ki és
+ment fel, az egyéb munkáltatói jogokat az országos tisztifőorvos gyakorolja.
+(3) Az országos tisztifőorvos gyakorolja a munkáltatói jogokat az NNK kormánytisztviselői, kormányzati ügykezelői
+és munkavállalói felett.
+(4) Az országos tisztifőorvos az 1. § (1) bekezdése szerinti jogkörében eljárva
+a) tájékoztatást, adatot, egyéb információt kérhet minden olyan, a kormányhivatal feladatkörébe tartozó
+népegészségügyi kérdésben, amely a lakosságot érinti vagy érintheti,
+b) megkeresésre szakmai kérdésekben állást foglal, véleményt nyilvánít,
+c) felhívást intézhet közegészségügyi-járványügyi, egészségfejlesztési, valamint egészségügyi igazgatási
+intézkedések megtételére, ha azok a lakosság érdekében szükségesek,
+
+d) évente legalább egyszer, illetve szükség esetén beszámolót kér a népegészségügyi tevékenységről, illetve
+helyzetről.
+(5) A (4) bekezdés c) pontja szerinti intézkedések elmaradása esetén az országos tisztifőorvos a miniszter útján
+intézkedés céljából megkeresi az arra feladatkörrel rendelkező minisztert.
+(6) Az országos tisztifőorvos javaslatot tesz a miniszter szakmai irányítási körébe tartozó – a jogalkotásról szóló
+törvény szerinti – utasítás kiadására.
+6/B. § (1) Az országos tisztifőorvos ellátja a Magyar Honvédség és a rendvédelmi szervek közegészségügyi-
+járványügyi feladatainak ellátására kijelölt szerve egészségügyi feladatainak szakmai felügyeletét.
+(2) Az országos tisztifőorvos kijelöli a mikrobiológiai referencia laboratóriumokat, valamint a járványügyi feladatok
+ellátására kijelölt laboratóriumokat. Ha a kijelölés érinti a kormányhivatalt, a kijelöléshez a közigazgatás-szervezésért
+felelős miniszter egyetértése szükséges.
+6/C. § Az NNK a hatáskörébe tartozó feladatokat az ország egész területére kiterjedő illetékességgel látja el.
+6/D. § (1) Az NNK részt vesz az országos népegészségügyi programok kidolgozásában és irányítja, szervezi,
+koordinálja a programok végrehajtásának területi és helyi feladatait.
+(2) Az NNK ellátja a jogszabályban meghatározott, egészségügyi ellátás feletti szakfelügyeleti feladatokat.
+(3) Az NNK ellátja az alapító okiratában, illetve jogszabályokban számára meghatározott feladatokat
+a) a közegészségügy (környezet- és település-egészségügy – ideértve a gyógyfürdőügyet is –, élelmezés-
+egészségügy, táplálkozás-egészségügy, sugáregészségügy, kozmetikai termékek egészségügyi megfelelősége,
+kémiai biztonság, gyermek- és ifjúságügy) területén,
+b) a járványügy (fertőzőjárvány-ügy) területén,
+c) az egészségfejlesztés (egészségvédelem, egészségnevelés és egészségmegőrzés, népegészségügyi szűrések
+szervezése és koordinálása, egészségmonitorozás, beleértve a nem fertőző betegségek epidemiológiáját,
+az egészséghatás-értékelést) területén,
+d) az egészségügyi igazgatás és koordináció területén,
+e) a munkaegészségügy (munkahigiéne és foglalkozás-egészségügy) területén.
+(4) Az NNK jár el a kormányhivatal vagy a járási hivatal hatáskörébe tartozó azon, az egészségügyi igazgatás körébe
+tartozó ügyekben, amelyekben minősített adat kerül felhasználásra.
+6/E. § (1) Az NNK ellátja a jogszabályban meghatározott munkahigiénés és foglalkozás-egészségügyi kutatással
+összefüggő feladatait.
+(2) Az NNK ellátja a munkahigiénés és foglalkozás-egészségügyi szervnek az egészségügyi és a hozzájuk kapcsolódó
+személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 15/A. § (2) és (3) bekezdésében
+meghatározott feladatait.
+(3) Az NNK ellátja a túlnyomásos munkahelyen foglalkoztatottak orvosi alkalmassági vizsgálatával kapcsolatosan
+jogszabály által hatáskörébe utalt feladatokat.
+(4) Az NNK ellátja a kézilőfegyverek, lőszerek, gáz- és riasztófegyverek megszerzésének és tartásának egészségi
+alkalmassági vizsgálatával kapcsolatosan jogszabály által hatáskörébe utalt feladatokat.
+(5) Az NNK az egyes rendvédelmi szervek hivatásos állományú tagjainak foglalkozási betegsége, fokozott expocíciós
+esete szolgálattal összefüggő jellegének megállapításához, minősítéséhez jogszabály alapján véleményt ad.
+(6) Az NNK működteti a hajózási egészségi alkalmasság másodfokú vizsgálatát végző bizottságot.
+(7) Az NNK ellátja a munkaköri, szakmai és személyi higiénés alkalmasság orvosi vizsgálatával és véleményezésével
+kapcsolatosan a jogszabály által hatáskörébe utalt feladatokat.
+(8) Az NNK biztosítja a foglalkozási megbetegedésben szenvedők szakvizsgálatait és elbírálja a megbetegedések
+foglalkozási eredetét.
+(9) Az NNK munkahigiénés (munkakörnyezeti műszeres- és biológiai expozíciós) vizsgálatokat végez.
+(10) Az NNK egyes meghatározott tevékenységekre akkreditált laboratóriumokat működtet és tart fenn.
+(11) Az NNK részt vesz az európai uniós forrásból finanszírozott projektekkel kapcsolatos feladatok ellátásában és
+a fenntartási kötelezettséggel érintett projektek fenntartásában.
+(12) Az NNK ellátja az egészségügyi alapellátás és egészségfejlesztés – ennek részeként a szervezett lakossági
+szűrések – területi szintű tervezési, monitoring, koordinációs és szervezési feladatait, melynek keretében biztosítja
+a lakosság egyenlő hozzáférését az ellátásokhoz és egészségfejlesztő szolgáltatásokhoz.
+(13) Az NNK ellátja az egészségfejlesztési irodák szakmai irányítását és koordinálását.
+
+(14) Az NNK üzemelteti és fejleszti a kormányhivatal és a járási hivatal, valamint az NNK népegészségügyi
+feladatainak ellátásához szükséges szakmai informatikai rendszereket.
+(15) Az NNK beszerzi a hazai éves oltóanyagot, az általa beszerzett oltóanyagot nyilvántartja, és a kormányhivatalok,
+valamint járási hivatalok részére elosztja és kiszállítja.”
+36. §
+A 385/2016. (XII. 2.) Korm. rendelet a következő 17/A. §-sal egészül ki:
+„17/A. § (1) Az Országos Közegészségügyi Intézet elnevezése 2018. október 1. napján Nemzeti Népegészségügyi
+Központra változik, egyidejűleg az Emberi Erőforrások Minisztériuma országos tisztifőorvosi feladatokért
+felelős helyettes államtitkára által irányított szervezeti egységek – az Áht. 11. § (3b) bekezdés a) pontja alapján –
+beolvadásos kiválással a Nemzeti Népegészségügyi Központba beolvadnak.
+(2) A Nemzeti Népegészségügyi Központ 2018. október 1. napjától – a (3) bekezdésben foglaltak kivételével –
+ellátja mindazon feladatokat, amelyek 2018. szeptember 30-ig az Országos Közegészségügyi Intézet és az Emberi
+Erőforrások Minisztériuma országos tisztifőorvosi feladatokért felelős helyettes államtitkára által irányított szervezeti
+egységek feladatkörébe tartoztak.
+(3) A Heim Pál Országos Gyermekgyógyászati Intézet 2018. október 1. napjától ellátja mindazon módszertani,
+szakértői, értékelési és elemzési feladatokat, melyek a gyermekegészségügy területén 2018. szeptember 30-ig
+az Emberi Erőforrások Minisztériuma országos tisztifőorvosi feladatokért felelős helyettes államtitkára által irányított
+szervezeti egységek feladatkörébe tartoztak.
+(4) A (2) bekezdés szerinti feladatokhoz kapcsolódó
+a) központi költségvetési források,
+b) foglalkoztatotti állomány,
+c) tárgyi eszközök,
+d) vagyoni jogok és kötelezettségek
+tekintetében az Emberi Erőforrások Minisztériuma jogutódja a Nemzeti Népegészségügyi Központ.
+(5) A (3) bekezdés szerinti feladatokhoz kapcsolódó
+a) központi költségvetési források,
+b) foglalkoztatotti állomány,
+c) tárgyi eszközök,
+d) vagyoni jogok és kötelezettségek
+tekintetében az Emberi Erőforrások Minisztériuma jogutódja a Heim Pál Országos Gyermekgyógyászati Intézet.”
+37. §
+A 385/2016. (XII. 2.) Korm. rendelet 1. § (4) bekezdés c) pontjában az„Országos Közegészségügyi Intézet” szövegrész
+helyébe az„országos tisztifőorvos”szöveg lép.
+27. Az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló
+388/2017. (XII. 13.) Korm. rendelet módosítása
+38. §
+Az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet
+3. mellékletében foglalt táblázat
+a) „1572” megjelölésű sorában az „Országos Közegészségügyi Intézet” szövegrész helyébe a „Nemzeti
+Népegészségügyi Központ”szöveg,
+b) „1626” megjelölésű sorában az „ÁNTSZ, valamennyi ÁNTSZ engedéllyel” szövegrész helyébe a „valamennyi
+működési engedéllyel”szöveg
+lép.
+28. Az emberi felhasználásra kerülő gyógyszerek forgalomba hozatalának és gyártásának
+engedélyezéséről szóló 450/2017. (XII. 27.) Korm. rendelet módosítása
+39. §
+Az emberi felhasználásra kerülő gyógyszerek forgalomba hozatalának és gyártásának engedélyezéséről szóló
+450/2017. (XII. 27.) Korm. rendelet
+a) 11. § (3) bekezdésében az „az Országos Közegészségügyi Intézetnek (a továbbiakban: OKI)” szövegrész
+helyébe az„a Nemzeti Népegészségügyi Központnak (a továbbiakban: NNK)”szöveg,
+b) 11. § (5) bekezdésében az„OKI-val”szövegrész helyébe az„NNK-val”szöveg,
+
+c) 11. § (6) bekezdésében, 15. § (1), (3), (4) és (5) bekezdésében az„OKI”szövegrész helyébe az„NNK”szöveg,
+d) 15. § (2) bekezdésében az„OKI”szövegrészek helyébe az„NNK”szöveg,
+e) 15. § (3) bekezdésében az„OKI-hoz”szövegrész helyébe az„NNK-hoz”szöveg
+lép.
+29. A helyes laboratóriumi gyakorlat ellenőrzéséről szóló 505/2017. (XII. 29.) Korm. rendelet
+módosítása
+40. §
+A helyes laboratóriumi gyakorlat ellenőrzéséről szóló 505/2017. (XII. 29.) Korm. rendelet
+a) 2. § (2) bekezdésében az „Országos Közegészségügyi Intézet főigazgatója” szövegrész helyébe az „országos
+tisztifőorvos”szöveg,
+b) 2. § (2) bekezdésében az „Országos Közegészségügyi Intézet főigazgatóját” szövegrész helyébe az „országos
+tisztifőorvost”szöveg
+lép.
+30. Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló
+531/2017. (XII. 29.) Korm. rendelet módosítása
+41. §
+Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.)
+Korm. rendelet
+a) 1. melléklet 2. pontjában foglalt táblázat D:4., D:16., D:17. és D:18. mezőjében az„Országos Közegészségügyi
+Intézet”szövegrész helyébe a„Nemzeti Népegészségügyi Központ”szöveg,
+b) 1. melléklet 10. pontjában foglalt táblázat E:169. mezőjében az„Egészségügyért felelős miniszter” szövegrész
+helyébe az„országos tisztifőorvos”szöveg
+lép.
+31. A légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló
+532/2017. (XII. 29.) Korm. rendelet módosítása
+42. §
+Hatályát veszti a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló 532/2017. (XII. 29.) Korm. rendelet
+171. § (4) bekezdés c) pontja.
+32. A Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet módosítása
+43. §
+A Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 1. melléklete a 2. melléklet
+szerint módosul.
+33. Záró rendelkezések
+44. §
+Ez a rendelet 2018. október 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 162/2018. (IX. 10.) Korm. rendelethez
+Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló
+43/1999. (III. 3.) Korm. rendelet 34. számú mellékletében foglalt táblázat 9. sora helyébe a következő sor lép:
+[A B C
+1 Kód Szolgáltató neve
+Havi fix díj
+(ezer Ft)]
+„
+9 Nemzeti Népegészségügyi Központ 39 201,4
+”
+2. melléklet a 162/2018. (IX. 10.) Korm. rendelethez
+A Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet. 1. melléklet H) pontjában foglalt
+táblázat a következő 9. sorral egészül ki:
+(A B
+1 A központi államigazgatási szerv neve A miniszter hatásköre)
+„
+9 Nemzeti Népegészségügyi Központ irányítás
+”
