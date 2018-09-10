@@ -1,0 +1,205 @@
+Az Alaptörvény 9. cikk (4) bekezdés c) pontja, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 27. § (3) bekezdése alapján – az emberi erőforrások miniszterének javaslatára –
+
+Alföldi Györgyöt,
+
+Dr. Alpár Alánt,
+
+Dr. Antal-Szalmás Pétert,
+
+Dr. Arató Endrét,
+
+Baráth Hajnalkát,
+
+Dr. Bartus Tamást,
+
+Dr. Bay Pétert,
+
+Dr. Bérczes Attila Jenőt,
+
+Berlinger Edinát,
+
+Biczó Gábor Gyulát,
+
+Bodnár Gábort,
+
+Dr. Bognár Józsefet,
+
+Dr. Brodszky Valentin Pétert,
+
+Dr. Bugár István Zsoltot,
+
+Dr. Cosovan Attila Róbertet,
+
+Dr. Czéh Boldizsárt,
+
+Dr. Csanády Lászlót,
+
+Dr. Darázs Lénárdot,
+
+Dr. Dávid Lóránt Dénest,
+
+Dr. Demeter Tamást,
+
+Dr. Dobolyi Árpádot,
+
+Dobrowiecki Tadeusz Pawelt,
+
+Dr. Fekete Albertet,
+
+Fodorné Molnár Mártát,
+
+Dr. Fóris Ágotát,
+
+Dr. Fuglinszky Ádám Mártont,
+
+Dr. Gácser Attilát,
+
+Dr. Galbács Gábort,
+
+Dr. Géczi Gábor Istvánt,
+
+Dr. Gesztelyiné dr. Darab Ágnest,
+
+Dr. Goda Tibor Jánost,
+
+Dr. Grüll Tibort,
+
+Dr. Gulácsi Zsoltot,
+
+Dr. Hack Pétert,
+
+Heidl Györgyöt,
+
+Horváth Gábort,
+
+Dr. Insperger Tamás Antalt,
+
+Dr. Józsa Krisztiánt,
+
+Dr. Kánnai Zoltánt,
+
+Dr. med. Karl-Jürgen Oldhafert,
+
+Dr. Kengyel Ákos Miklóst,
+
+Dr. Keppler Istvánt,
+
+Kicsiny Balázs Tamást,
+
+Dr. Király Csabát,
+
+Király Ildikót,
+
+Dr. Kisfaludy Mártát,
+
+Dr. Kiss Gyulát,
+
+Dr. Konczosné dr. Szombathelyi Márta Matildot,
+
+Kónya István Tamást,
+
+Dr. Kovács Gábort,
+
+Dr. Kovács Norbertet,
+
+Köteles Ferencet,
+
+Dr. Krähling Jánost,
+
+Dr. Kürtösi Katalin Franciskát,
+
+Dr. Laczkó Tibor Sándort,
+
+Dr. Lásztityné dr. Kiss Annát,
+
+Lukács Ágnest,
+
+Macher Szilárdot,
+
+Dr. Málnási Csizmadia Andrást,
+
+Marjainé dr. Szerényi Zsuzsannát,
+
+Dr. Markó Viktort,
+
+Dr. Medvegy Gabriellát,
+
+Dr. Nagy Anita Zsuzsannát,
+
+Dr. Nagy György Sándort,
+
+Dr. Nagy Janka Teodórát,
+
+Dr. Nagy Zoltánt,
+
+Dr. Németh Norbertet,
+
+Dr. Nguyen Quang Chinht,
+
+Dr. Obádovics Csilla Zsuzsannát,
+
+Dr. Pálfalvi Lászlót,
+
+Dr. Pap Norbertet,
+
+Pávai István Ferencet,
+
+Dr. Pintér Márta Zsuzsannát,
+
+Dr. Pókecz Kovács Attilát,
+
+Dr. Primecz Henriettet,
+
+Racsmány Mihályt,
+
+Dr. Réthelyi János Miklóst,
+
+Schepp Zoltánt,
+
+Sonkoly Gábort,
+
+Sugár Pétert,
+
+Dr. Szabó Lajos Györgyöt,
+
+Dr. Szalai Istvánt,
+
+Szentpéteri Mártont,
+
+Dr. Szikora Veronika Tündét,
+
+Dr. Szilovics Csabát,
+
+Dr. Szokodi Istvánt,
+
+Dr. Szomora Zsolt Tamást,
+
+Dr. Tajti Jánost,
+
+Dr. Takács Albertet,
+
+Tarczay Györgyöt,
+
+Dr. Tóth András Jánost,
+
+Tóth Gergelyt,
+
+Dr. Tóth Lászlót,
+
+Dr. Tóth Sándor Lászlót,
+
+Dr. Vajda Károlyt,
+
+Dr. Vermes Csaba Károlyt,
+
+Dr. Zilahy Gyulát,
+
+Dr. Zsarnovszky Attilát,
+
+Dr. Zsigmond Zoltánt és
+
+Zsoldiné dr. Urbán Editet
+
+2018. szeptember 1. napjával egyetemi tanárrá kinevezem.
+
+KEH ügyszám: KEH/03625-2/2018.
