@@ -1,0 +1,220 @@
+# A Kormány 1437/2018. (IX. 11.) Korm. határozata
+
+Magyar Közlöny 2018. évi 137. szám, 2018. szeptember 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/214200678f92b3713b8fd286ec04f3bb8930ad3d/dokumentumok/692fd71bc0950836a8fc05bb1110629f50e260fd/letoltes)
+
+---
+
+A Kormány 1437/2018. (IX. 11.) Korm. határozata
+a Vidékfejlesztési Program éves fejlesztési keretének megállapításáról szóló
+1248/2016. (V. 18.) Korm. határozat módosításáról
+1. A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának
+rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 4. § (1) bekezdés c) pontja alapján a Vidékfejlesztési Program éves
+fejlesztési keretének megállapításáról szóló 1248/2016. (V. 18.) Korm. határozat [a továbbiakban: 1248/2016. (V. 18.)
+Korm. határozat]
+a) 1. melléklete az 1. melléklet,
+b) 2. melléklete a 2. melléklet
+szerint módosul.
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1437/2018. (IX. 11.) Korm. határozathoz
+1. Az 1248/2016 (V. 18.) Korm. határozat 1. mellékletében foglalt táblázat
+1.1. C:7 mezőjében a„13,91”szövegrész helyébe a„14,10”szöveg,
+1.2. E:7 mezőjében a„8,33”szövegrész helyébe a„8,51”szöveg,
+1.3. C:10 mezőjében a„19,86”szövegrész helyébe a„31,48”szöveg,
+1.4. E:10 mezőjében a„13,89”szövegrész helyébe a„26,40”szöveg,
+1.5. H:10 mezőjében az„5,97”szövegrész helyébe az„5,08”szöveg,
+1.6. C:11 mezőjében a„19,86”szövegrész helyébe a„38,23”szöveg,
+1.7. E:11 mezőjében a„13,89”szövegrész helyébe a„35,18”szöveg,
+1.8. H:11 mezőjében az„5,97”szövegrész helyébe a„3,05”szöveg,
+1.9. C:12 mezőjében a„3,97”szövegrész helyébe az„5,84”szöveg,
+1.10. E:12 mezőjében a„2,78”szövegrész helyébe az„5,28”szöveg,
+1.11. H:12 mezőjében az„1,19”szövegrész helyébe a„0,56”szöveg,
+1.12. C:13 mezőjében a„19,86”szövegrész helyébe a„30,81”szöveg,
+1.13. E:13 mezőjében a„13,89”szövegrész helyébe a„27,51”szöveg,
+1.14. H:13 mezőjében az„5,97”szövegrész helyébe a„3,30”szöveg,
+1.15. C:14 mezőjében a„19,68”szövegrész helyébe a„39,12”szöveg,
+1.16. E:14 mezőjében a„12,70”szövegrész helyébe a„37,56”szöveg,
+1.17. H:14 mezőjében a„6,98”szövegrész helyébe az„1,56”szöveg,
+1.18. C:15 mezőjében a„23,31”szövegrész helyébe a„24,66”szöveg,
+1.19. E:15 mezőjében a„13,95”szövegrész helyébe a„21,28”szöveg,
+1.20. H:15 mezőjében a„9,36”szövegrész helyébe a„3,37”szöveg,
+1.21. C:18 mezőjében a„18,08”szövegrész helyébe a„24,28”szöveg,
+1.22. E:18 mezőjében a„18,08”szövegrész helyébe a„24,28”szöveg,
+1.23. C:30 mezőjében a„36,53”szövegrész helyébe a„70,03”szöveg,
+1.24. F:30 mezőjében a„36,53”szövegrész helyébe a„70,03”szöveg,
+1.25. C:31 mezőjében a„24,95”szövegrész helyébe a„26,71”szöveg,
+1.26. E:31 mezőjében a„10,39”szövegrész helyébe a„11,87”szöveg,
+1.27. F:31 mezőjében a„11,43”szövegrész helyébe a„11,71”szöveg,
+1.28. G:31 mezőjében a„0,00”szövegrész helyébe a„0,40”szöveg,
+1.29. H:31 mezőjében a„3,14”szövegrész helyébe a„2,74”szöveg,
+1.30. C:38 mezőjében a„173,01”szövegrész helyébe a„210,95”szöveg,
+1.31. G:38 mezőjében a„173,01”szövegrész helyébe a„210,95”szöveg,
+1.32. C:38a mezőjében a„67,00”szövegrész helyébe a„69,20”szöveg,
+1.33. G:38a mezőjében a„67,00”szövegrész helyébe a„69,20”szöveg,
+
+1.34. C:45 mezőjében a„6,61”szövegrész helyébe a„7,10”szöveg,
+1.35. G:45 mezőjében a„6,61”szövegrész helyébe a„7,10”szöveg,
+1.36. C:49 mezőjében az„5,57”szövegrész helyébe a„6,71”szöveg,
+1.37. H:49 mezőjében az„5,57”szövegrész helyébe a„6,71”szöveg,
+1.38. C:50 mezőjében a„22,33”szövegrész helyébe a„22,30”szöveg,
+1.39. H:50 mezőjében a„11,53”szövegrész helyébe a„11,50”szöveg,
+1.40. C:51 mezőjében az„50,32”szövegrész helyébe a„38,84”szöveg,
+1.41. H:51 mezőjében a„40,66”szövegrész helyébe a„36,97”szöveg,
+1.42. I:51 mezőjében a„9,65”szövegrész helyébe az„1,87”szöveg,
+1.43. H:55 mezőjében a„3,89”szövegrész helyébe a„4,05”szöveg,
+1.44. I:55 mezőjében a„0,82”szövegrész helyébe a„0,66”szöveg,
+1.45. C:56 mezőjében a„4,00”szövegrész helyébe az„5,15”szöveg,
+1.46. H:56 mezőjében a„2,66”szövegrész helyébe az„5,15”szöveg,
+1.47. I:56 mezőjében az„1,35”szövegrész helyébe a„0,00”szöveg,
+1.48. H:57 mezőjében az„1,37”szövegrész helyébe a„2,71”szöveg,
+1.49. I:57 mezőjében az„1,34”szövegrész helyébe a„0,00”szöveg,
+1.50. C:61 mezőjében a„26,88”szövegrész helyébe a„31,14”szöveg,
+1.51. I:61 mezőjében a„26,88”szövegrész helyébe a„31,14”szöveg,
+1.52. C:62 mezőjében a„32,25”szövegrész helyébe a„45,35”szöveg,
+1.53. I:62 mezőjében a„32,25”szövegrész helyébe a„45,35”szöveg,
+1.54. C:63 mezőjében a„12,64”szövegrész helyébe a„13,61”szöveg,
+1.55. I:63 mezőjében a„12,64”szövegrész helyébe a„13,61”szöveg,
+1.56. C:72 mezőjében a„4,06”szövegrész helyébe a„4,27”szöveg,
+1.57. C:75 mezőjében a„3,50”szövegrész helyébe a„3,60”szöveg
+lép.
+2. Hatályát veszti az 1248/2016. (V. 18.) Korm. határozat 1. mellékletében foglalt táblázat 8. sora.
+3. Az 1248/2016. (V. 18.) Korm. határozat 1. mellékletében foglalt táblázat a következő 24a. sorral egészül ki:
+(A) (B) (C) (D) (E) (F) (G) (H) (I) (J) (K)
+(1.)
+(Felhívás azonosító
+jele)
+(Felhívás neve)
+[Felhívás
+keretösszege
+(Mrd Ft)]
+[Egyes prioritások/fókuszterületek hozzájárulása a felhívás keretösszegéhez
+(Mrd Ft)]
+(Felhívás
+meghirde-
+tésének
+módja)
+(Felhívás
+meghirdeté-
+sének tervezett
+ideje)
+(2.)
+(1.
+prioritás)
+(2.
+prioritás)
+(3.
+prioritás)
+(4.
+prioritás)
+(5.
+prioritás)
+(6.
+prioritás)
+„24a. VP3-4.2.1-18
+Mezőgazdasági
+termékek
+értéknövelése
+a feldolgozásban
+50,00 – – 40,00 – 5,00 5,00 standard
+2018.
+szeptember”
+4. Az 1248/2016. (V. 18.) Korm. határozat 1. mellékletében foglalt táblázat a következő 30a. sorral egészül ki:
+(A) (B) (C) (D) (E) (F) (G) (H) (I) (J) (K)
+(1.)
+(Felhívás azonosító
+jele)
+(Felhívás neve)
+[Felhívás
+keretösszege
+(Mrd Ft)]
+[Egyes prioritások/fókuszterületek hozzájárulása a felhívás keretösszegéhez
+(Mrd Ft)]
+(Felhívás
+meghirde-
+tésének
+módja)
+(Felhívás
+meghirde-
+tésének
+tervezett ideje)
+(2.)
+(1.
+prioritás)
+(2.
+prioritás)
+(3.
+prioritás)
+(4.
+prioritás)
+(5.
+prioritás)
+(6.
+prioritás)
+„30a. VP3-14.1.1-18
+A tejágazat
+szerkezetátalakítását
+kísérő állatjóléti
+támogatás
+0,68 – – 0,68 – – –
+egyszerű-
+sített
+2018.
+október”
+
+5. Az 1248/2016. (V. 18.) Korm. határozat 1. mellékletében foglalt táblázat a következő 41a. sorral egészül ki:
+(A) (B) (C) (D) (E) (F) (G) (H) (I) (J) (K)
+(1.)
+(Felhívás azonosító
+jele)
+(Felhívás neve)
+[Felhívás
+keretösszege
+(Mrd Ft)]
+[Egyes prioritások/fókuszterületek hozzájárulása a felhívás keretösszegéhez
+(Mrd Ft)]
+(Felhívás
+meghirde-
+tésének
+módja)
+(Felhívás
+meghirde-
+tésének
+tervezett ideje)
+(2.)
+(1.
+prioritás)
+(2.
+prioritás)
+(3.
+prioritás)
+(4.
+prioritás)
+(5.
+prioritás)
+(6.
+prioritás)
+„41a.
+VP4-11.1.1-
+11.2.1-18
+Ökológiai
+gazdálkodásra
+történő áttérés,
+ökológiai gazdálkodás
+fenntartása
+12,00 – – – 12,00 – –
+egyszerű-
+sített
+2018.
+október”
+2. melléklet az 1437/2018. (IX. 11.) Korm. határozathoz
+Az 1248/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat
+1. C:2 mezőjében a„Miniszterelnökség”szövegrész helyébe az„Agrárminisztérium”szöveg,
+2. D:2 mezőjében a„4,06”szövegrész helyébe a„4,27”szöveg,
+3. C:3 mezőjében a„Miniszterelnökség”szövegrész helyébe az„Agrárminisztérium”szöveg,
+4. C:4 mezőjében a „Mezőgazdasági és Vidékfejlesztési Hivatal” szövegrész helyébe a „Magyar Államkincstár”
+szöveg,
+5. F:4 mezőjében a „Mezőgazdasági és Vidékfejlesztési Hivatal” szövegrész helyébe a „Magyar Államkincstár”
+szöveg,
+6. D:5 mezőjében a„3,50”szövegrész helyébe a„3,60”szöveg
+lép.

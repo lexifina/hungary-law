@@ -1,0 +1,122 @@
+# A Kormány 165/2018. (IX. 11.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 137. szám, 2018. szeptember 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/214200678f92b3713b8fd286ec04f3bb8930ad3d/dokumentumok/692fd71bc0950836a8fc05bb1110629f50e260fd/letoltes)
+
+---
+
+A Kormány 165/2018. (IX. 11.) Korm. rendelete
+az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális
+támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet, valamint a 2014–2020 programozási
+időszakra rendelt források felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási
+szabályokról szóló 255/2014. (X. 10.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15d. pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és
+a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet módosítása
+1. §
+Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális
+támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. §
+6b. és 6c. pontja helyébe a következő rendelkezések lépnek, és a § a következő 6d. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„6b. értékelési terv: a 651/2014/EU bizottsági rendelet 1. cikk (2) bekezdés a) pontja, a 702/2014/EU bizottsági
+rendelet 1. cikk (4) bekezdés a) pontja, vagy az Európai Bizottság támogatási intézkedést jóváhagyó állami
+támogatási tárgyú határozata alapján, az Európai Bizottság által közzétett vonatkozó módszertannak megfelelően
+elkészített dokumentum,
+6c. halászati állami támogatás: a halászati és akvakultúra-termékek piacának közös szervezéséről szóló,
+az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet
+hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet
+(HL L 354., 2013.12.28., 1. o.) (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) I. mellékletében
+felsorolt halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával kapcsolatos
+tevékenységekre nyújtott állami támogatás,
+6d. halászati és akvakultúra-termékek: az 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében
+meghatározott termékek,”
+
+2. §
+A 37/2011. (III. 22.) Korm. rendelet 3. § (1) bekezdése a következő e) ponttal egészül ki:
+[A támogatási program, az egyedi támogatás, valamint a bejelentési kötelezettség hatálya alá tartozó létező támogatási
+programokból nyújtott támogatás tervezete (a továbbiakban együtt: támogatási tervezet) tartalmazza]
+„e) az egyedi támogatás vagy a támogatási program
+ea) tervezett átlagos éves költségvetését és
+eb) teljes költségvetését.”
+3. §
+A 37/2011. (III. 22.) Korm. rendelet III. Fejezete a következő 5/A. alcímmel egészül ki:
+„5/A. Az értékelési tervvel kapcsolatos eljárás
+16/A. § (1) Az 1. melléklet 15.1–15.4., 15.7. (a 15.7.9. pont szerinti támogatási kategória kivételével), 15.9., 17.1.4.,
+17.5.1., 17.5.2., 17.5.4., 17.5.9., 17.5.10. és 17.6.1. pontjában, valamint – a 702/2014/EU bizottsági rendelet 34. cikk
+(5) bekezdés a)–c) pontja szerinti támogatás nyújtása esetén – a 17.5.3. pontjában meghatározott támogatási
+kategóriák alkalmazása esetén, ha
+a) a 7. § (1) bekezdés szerinti bejelentés alapján a támogatási programnak az ezen támogatási kategóriákra
+vonatkozó éves átlagos költségvetése meghaladja a 150 millió eurónak megfelelő forintösszeget,
+b) a 7. § (2a) bekezdés szerinti bejelentés alapján a támogatási programnak az ezen támogatási kategóriákra
+vonatkozó éves átlagos költségvetése meghaladja a 150 millió eurónak megfelelő forintösszeget vagy
+c) a támogatási program hatálybalépésétől eltelt időt figyelembe véve a támogatási programnak ezen támogatási
+kategóriái alapján odaítélt támogatás éves átlaga meghaladja a 150 millió eurónak megfelelő forintösszeget,
+a támogatást nyújtó köteles értékelési tervet készíteni, és azt megküldeni a miniszternek.
+(2) A miniszter a véglegesített értékelési tervet a SANI rendszeren keresztül hivatalos bejelentés útján haladéktalanul
+továbbítja az Európai Bizottságnak.
+16/B. § (1) Ha az Európai Bizottság a 16/A. § (2) bekezdése alapján megküldött értékelési tervet
+a) – a 16/A. § (1) bekezdés a) pontja szerinti esetben – az új támogatási program hatálybalépésétől számított,
+b) – a 16/A. § (1) bekezdés b) pontja szerinti esetben – az értékelési tervnek az Európai Bizottság részére történt
+hivatalos bejelentéstől számított,
+c) – 16/A. § (1) bekezdés c) pontja szerinti esetben – az átlagos éves odaítélt támogatás összegének a 150 millió
+eurós határérték meghaladásának időpontjától számított
+hat hónapon belül nem hagyja jóvá, az értékelési terv alapjául szolgáló támogatási programból történő támogatás-
+odaítélést a támogatást nyújtó köteles az Európai Bizottság határozatának meghozataláig felfüggeszteni.
+(2) A támogatást nyújtó abban az esetben is köteles az értékelési tervet megküldeni a miniszternek, ha az értékelési
+terv készítésének kötelezettségét az Európai Bizottság állami támogatási tárgyú határozata írja elő.”
+2. A 2014–2020 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi
+értelemben vett állami támogatási szabályokról szóló 255/2014. (X. 10.) Korm. rendelet módosítása
+4. § (1) A 2014–2020 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi értelemben
+vett állami támogatási szabályokról szóló 255/2014. (X. 10.) Korm. rendelet [a továbbiakban: 255/2014. (X. 10.)
+Korm. rendelet] 2. § (1) bekezdése a következő 25a. és 25b. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„25a. értékelési terv: az Atr. 2. § 6b. pontja szerinti dokumentum,
+25b. értékelésiterv-köteles támogatási kategóriák: a 11–24., a 30–40., a 42., a 48/A., az 55., az 56., az 58., a 63. és
+a 65. alcím szerinti támogatási kategóriák, valamint az 57. alcím szerinti támogatási kategória esetén a 103/H. §
+(1) bekezdés a)–c) pontja szerinti költségekre irányuló támogatás,”
+(2) A 255/2014. (X. 10.) Korm. rendelet 2. § (1) bekezdése a következő 82a. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„82a. SANI rendszer: az Atr. 2. § 14. pontja szerinti rendszer,”
+(3) A 255/2014. (X. 10.) Korm. rendelet 2. § (1) bekezdés 72. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„72. működési eredmény: a beruházásnak az Sztv. 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt elért
+– a projektkockázat és a tőkeköltség alapján a támogatást nyújtó által jóváhagyott diszkonttényezővel diszkontált –
+bevételei, csökkentve az ugyanezen diszkonttényezővel diszkontált működési költségekkel, így különösen a személyi
+jellegű ráfordítással, anyagköltséggel, a szerződéses szolgáltatással, a távközléssel, az energiával és a karbantartással,
+
+a bérleti díjjal, az adminisztrációval összefüggő költséggel, kivéve az olyan értékcsökkenési és finanszírozási költséget,
+amelyet beruházási támogatásból már fedeztek, azzal, hogy ha a számítás eredménye negatív, a működési eredmény
+értéke nulla,”
+5. §
+A 255/2014. (X. 10.) Korm. rendelet 3. alcíme a következő 3/A. §-sal egészül ki:
+„3/A. § (1) Ha a SANI rendszerben egy támogatási programként rögzített támogatási programon belüli
+értékelésiterv-köteles támogatási kategóriákra vonatkozó összes támogatás éves átlaga a támogatási program
+hatálybalépésétől eltelt időt figyelembe véve meghaladja a 150 millió eurónak megfelelő forintösszeget,
+a támogatást nyújtó értékelési tervet készít, és azt az Atr. 16/A. § (1) bekezdésének megfelelően megküldi az európai
+uniós források felhasználásáért felelős miniszternek.
+(2) Ha az Európai Bizottság a részére hivatalos bejelentés útján megküldött értékelési tervet az átlagos éves
+odaítélt támogatás összegének a 150 millió eurós határérték meghaladása időpontjától számított hat hónapon
+belül nem hagyja jóvá, az értékelési terv alapjául szolgáló, a SANI rendszerben egy támogatási programként
+rögzített támogatási programból történő támogatás-odaítélést a támogatást nyújtó köteles az Európai Bizottság
+határozatának meghozataláig felfüggeszteni.”
+3. Záró rendelkezések
+6. §
+Ez a rendelet a kihirdetését követő 10. napon lép hatályba.
+7. §
+Ez a rendelet
+a) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal
+összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet és az azt
+módosító, a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát
+és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális
+szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső
+régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU
+rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló,
+2017. június 14-i 2017/1084/EU bizottsági rendelet, valamint
+b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és
+erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső
+piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet
+végrehajtásához szükséges rendelkezéseket állapít meg.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
