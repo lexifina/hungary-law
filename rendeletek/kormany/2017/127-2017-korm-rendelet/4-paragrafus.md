@@ -16,15 +16,15 @@ c) az Emberi Erőforrás Fejlesztési Operatív Programmal kapcsolatos feladatai
 
 d) a Magyarország Digitális Startup Stratégiájában foglaltak hatékony megvalósulása érdekében létrehozza és működteti a „Startup Hungary” módszertani és koordinációs központot;
 
-e) a Magyarország Digitális Exportfejlesztési Stratégiájában foglaltak hatékony megvalósulása érdekében létrehozza és működteti a stratégia nyomonkövetési rendszerét, az MNKH Magyar Nemzeti Kereskedőház Zártkörűen Működő Részvénytársasággal együttműködve koordinálja a Digitális Exportfejlesztési Tárcaközi Bizottság munkáját, és közreműködik a szakmai feladatok végrehajtásában;
+e)[^6] a Magyarország Digitális Exportfejlesztési Stratégiájában foglaltak hatékony megvalósulása érdekében létrehozza és működteti a stratégia nyomonkövetési rendszerét, a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársasággal együttműködve koordinálja a Digitális Exportfejlesztési Tárcaközi Bizottság munkáját, és közreműködik a szakmai feladatok végrehajtásában;
 
 f) a Magyarország Digitális Gyermekvédelmi Stratégiájában foglaltak hatékony megvalósulása érdekében létrehozza és működteti a stratégia nyomonkövetési rendszerét, és közreműködik a szakmai feladatok végrehajtásában;
 
 g) ellátja a Digitális Jólét Alapcsomag védjegy jogosulti adminisztrációjával kapcsolatos feladatokat;
 
-h)[^6] közreműködik a DJP2.0 végrehajtásában, a DJP2.0 intézkedési tervében meghatározott feladatok végrehajtásának koordinációjában;
+h)[^7] közreműködik a DJP2.0 végrehajtásában, a DJP2.0 intézkedési tervében meghatározott feladatok végrehajtásának koordinációjában;
 
-i)[^7] ellátja a DJP2.0 intézkedési tervében meghatározott kormányzati stratégiák és szakmai anyagok kidolgozásával kapcsolatos feladatokat, valamint közreműködik a stratégiákban meghatározott feladatok végrehajtásában, különösen az alábbi stratégiák esetében:
+i)[^8] ellátja a DJP2.0 intézkedési tervében meghatározott kormányzati stratégiák és szakmai anyagok kidolgozásával kapcsolatos feladatokat, valamint közreműködik a stratégiákban meghatározott feladatok végrehajtásában, különösen az alábbi stratégiák esetében:
 
 ia) Felsőoktatási intézmények informatikai infrastruktúra-fejlesztési stratégiája;
 
@@ -44,12 +44,13 @@ ih) Magyarország Digitális Hálózatkutatási Stratégiája;
 
 ii) Magyarország Digitális Sport Stratégiája;
 
-j)[^8] ellátja a Digitális Jólét Pénzügyi Program keretében megvalósuló pénzügyi konstrukciók végrehajtása során beérkező támogatási igények előzetes vizsgálata keretében az egyes projektjavaslatok DJP stratégiákhoz történő illeszkedésének vizsgálatával összefüggő szakmai feladatokat, együttműködésben a Gazdaságfejlesztési Programok Irányító Hatóságával, valamint a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 24/B. §-a szerint az alapok alapját végrehajtó szervezettel.
+j)[^9] ellátja a Digitális Jólét Pénzügyi Program keretében megvalósuló pénzügyi konstrukciók végrehajtása során beérkező támogatási igények előzetes vizsgálata keretében az egyes projektjavaslatok DJP stratégiákhoz történő illeszkedésének vizsgálatával összefüggő szakmai feladatokat, együttműködésben a Gazdaságfejlesztési Programok Irányító Hatóságával, valamint a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 24/B. §-a szerint az alapok alapját végrehajtó szervezettel.
 
-(2)[^9] A Digitális Jólét Nkft. az (1) bekezdésben meghatározott feladatait közszolgáltatási, illetve támogatási szerződés keretében látja el.
+(2)[^10] A Digitális Jólét Nkft. az (1) bekezdésben meghatározott feladatait közszolgáltatási, illetve támogatási szerződés keretében látja el.
 
 [^5]: A 4. § (1) bekezdés a) pont ad) alpontját a 49/2018. (III. 19.) Korm. rendelet 4. §-a iktatta be.
-[^6]: A 4. § (1) bekezdés h) pontját a 49/2018. (III. 19.) Korm. rendelet 5. §-a iktatta be.
-[^7]: A 4. § (1) bekezdés i) pontját a 49/2018. (III. 19.) Korm. rendelet 5. §-a iktatta be.
-[^8]: A 4. § (1) bekezdés j) pontját a 49/2018. (III. 19.) Korm. rendelet 5. §-a iktatta be.
-[^9]: A 4. § (2) bekezdése a 49/2018. (III. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^6]: A 4. § (1) bekezdés e) pontja a 163/2018. (IX. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^7]: A 4. § (1) bekezdés h) pontját a 49/2018. (III. 19.) Korm. rendelet 5. §-a iktatta be.
+[^8]: A 4. § (1) bekezdés i) pontját a 49/2018. (III. 19.) Korm. rendelet 5. §-a iktatta be.
+[^9]: A 4. § (1) bekezdés j) pontját a 49/2018. (III. 19.) Korm. rendelet 5. §-a iktatta be.
+[^10]: A 4. § (2) bekezdése a 49/2018. (III. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
