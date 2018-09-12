@@ -30,7 +30,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1319/2018. (VII. 18.) Korm. határozathoz
+1. melléklet az 1319/2018. (VII. 18.) Korm. határozathoz[^1]
 
 |  | A | B | C | D | E |
 
@@ -46,10 +46,12 @@
 
 | 6. | EFOP-2.2.2-17- 2017-00025 | Szabolcs-Szatmár-Bereg megyei „Kikelet” egyesített szociális intézmény férőhely kiváltási projektje | 735 000 000 | 76 358 086 | 811 358 086 |
 
-| 7. | EFOP-2.2.2-17- 2017-00013 | „Jobb, mint az Otthon” Támogatott lakhatás Hajdú-Bihar Megyében | 2 178 750 000 | 263 147 994 | 2 404 470 696 |
+| 7. | EFOP-2.2.2-17- 2017-00013 | „Jobb, mint az Otthon” Támogatott lakhatás Hajdú-Bihar Megyében | 2 178 750 000 | 263 147 994 | 2 441 897 994 |
 
 | 8. | EFOP-2.2.2-17- 2017-00014 | TÁMOGAT-LAK Férőhelykiváltás Andornaktályán | 525 000 000 | 64 385 871 | 589 385 871 |
 
 | 9. | EFOP-2.2.2-17- 2017-00007 | Gesztenyeliget – Kastélyotthon kiváltás | 1 050 000 000 | 129 047 559 | 1 179 047 559 |
 
-| 10. | Összesen |  | 6 625 500 000 | 668 335 900 | 7 823 408 602 |
+| 10. | Összesen |  | 7 192 500 000 | 668 335 900 | 7 860 835 900 |
+
+[^1]: Az 1. melléklet az 1438/2018. (IX. 11.) Korm. határozat 3. pontja szerint módosított szöveg.
