@@ -1,10 +1,5 @@
-6. § (1) A támogatás kérelem alapján vehető igénybe.
+6. §[^8] (1) A támogatást igénylő helyi önkormányzat, önkormányzati társulás, helyi önkormányzat 100%-os tulajdonában álló gazdasági társaság, valamint önkormányzati társulás 100%-os tulajdonában álló gazdasági társaság a munkásszállás építéséről, felújításáról szóló támogatási igényt nyújt be a székhelye szerint illetékes kormányhivatalhoz, amely azt a támogatásra vonatkozó javaslatával együtt továbbítja a foglalkoztatáspolitikáért felelős miniszter részére.
 
-(2) A támogatásról a foglalkoztatáspolitikáért felelős miniszter dönt.
+(2) Az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet költségvetési támogatásokra vonatkozó szabályai szerint a foglalkoztatáspolitikáért felelős miniszter mérlegelési jogkörében – a 3. § (3) bekezdésében foglalt mérlegelési szempontokat figyelembe véve – dönt a benyújtott támogatási igény alapján a támogatásról.
 
-(3)[^1] A támogatásról szóló hatósági szerződést a kérelmet benyújtó helyi önkormányzat, önkormányzati társulás székhelye szerint illetékes, állami foglalkoztatási szervként eljáró illetékes megyei (fővárosi) kormányhivatal köti meg.
-
-(4)[^2] Az e rendeletben szabályozott támogatásokkal kapcsolatos ügyekben az ügyintézési határidő 25 nap.
-
-[^1]: A 6. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 604. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^2]: A 6. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 604. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^8]: A 6. § a 161/2018. (IX. 7.) Korm. rendelet 4. §-ával megállapított szöveg.
