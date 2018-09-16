@@ -1,3 +1,0 @@
-## 8. § Ez a rendelet a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26.) I. és II. fejezetének, valamint 56. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
-
-9. § Az 1. § és a 4. § a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26.) I. és II. fejezete, valamint 56. cikke hatálya alá tartozó támogatást tartalmaz.
