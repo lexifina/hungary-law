@@ -1,4 +1,4 @@
-6. § (1)[^5] A Hatóság engedélye szükséges a hidrogén töltetre engedélyezett gázpalack töltetének megváltoztatásánál, kivéve a hidrogénes elridegedés veszélyét okozó gázok szállítására szolgáló, acélból készült nyomástartó tartályok és acélbéléssel ellátott, kompozit nyomástartó tartályok esetén, amennyiben az acél összeférhetőségét jelölő „H” betűt gyártómű által feltüntették a palackon.
+6. § (1)[^6] A Hatóság engedélye szükséges a hidrogén töltetre engedélyezett gázpalack töltetének megváltoztatásánál, kivéve a hidrogénes elridegedés veszélyét okozó gázok szállítására szolgáló, acélból készült nyomástartó tartályok és acélbéléssel ellátott, kompozit nyomástartó tartályok esetén, amennyiben az acél összeférhetőségét jelölő „H” betűt gyártómű által feltüntették a palackon.
 
 (2) Az (1) bekezdésben foglalt esetekben a kérelemhez a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túlmenően csatolni kell:
 
@@ -12,4 +12,4 @@ b) az (1) bekezdés b) pontjában foglalt esetben csatolni kell az új gáztölt
 
 (5) A korábban hidrogén tárolására használt gázpalackot a Hatóság csak állapotfelmérő vizsgálat elvégzése után – annak kedvező eredménye esetén – engedélyezi mérgező vagy maró gáztöltetre, vagy 15 bar próbanyomásnál nagyobb próbanyomású gáztöltetre.
 
-[^5]: A 6. § (1) bekezdése a 7/2016. (II. 22.) NGM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^6]: A 6. § (1) bekezdése a 7/2016. (II. 22.) NGM rendelet 12. § (2) bekezdésével megállapított szöveg.

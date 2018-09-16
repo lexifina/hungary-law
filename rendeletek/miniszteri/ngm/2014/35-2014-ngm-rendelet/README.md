@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-35-20-2
 | 2015-04-01 | 2014-35-20-2X.3 | 9/2015. (III. 31.) NGM rendelet |
 | 2016-03-01 | 2014-35-20-2X.4 | 7/2016. (II. 22.) NGM rendelet |
 | 2017-01-01 | 2014-35-20-2X.5 | 62/2016. (XII. 29.) NGM rendelet |
+| 2018-09-16 | 2014-35-20-2X.6 | 8/2018. (VIII. 17.) ITM rendelet |

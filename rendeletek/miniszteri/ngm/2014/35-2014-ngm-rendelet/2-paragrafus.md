@@ -20,7 +20,7 @@
 
 7. hatóság: az e rendelet hatálya alá tartozó szállítható nyomástartó berendezések – beleértve azokat a berendezéseket is, amelyeknek megfelelőség-újraértékelése nem történt meg – engedélyezésével kapcsolatos hatósági eljárások, a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazása engedélyezésével kapcsolatos eljárások tekintetében nemzeti hatóságként a Kormány által rendeletben kijelölt hatóság;
 
-8. karbantartó gazdálkodó szervezet: az a gazdálkodó szervezet, mely a tulajdonos megbízása alapján a szükséges javításokat vagy átalakításokat elvégzi, és amennyiben hegesztést is végez, szerepel az egyes hegesztett szerkezetek gyártását végző gazdálkodó szervezetek alkalmasságának igazolásáról szóló 3/1998. (I. 12.) IKIM rendelet szerint a műszaki biztonsági hatóság által vezetett nyilvántartásban;
+8.[^2] karbantartó gazdálkodó szervezet: az a gazdálkodó szervezet, mely a tulajdonos megbízása alapján a szükséges javításokat vagy átalakításokat – ideértve az ömlesztőhegesztési tevékenységet is – elvégzi;
 
 9. kompozit palack: a külső felületen műgyantába ágyazott, végtelenített szálakkal kóc vagy pászma formába sodort bevonattal erősített, fém vagy nemfém béléstestű gázpalack;
 
@@ -33,3 +33,4 @@
 13. veszélyes áruk szállítására vonatkozó hatályos előírások: a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 2013. évi CX. törvénnyel kihirdetett Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR), a Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID) belföldi alkalmazásáról szóló 62/2013. (X. 17.) NFM rendeletben kihirdetett Veszélyes Áruk Nemzetközi Vasúti Fuvarozására Vonatkozó Szabályzat előírásai, és a Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről és belföldi alkalmazásáról szóló 2013. évi CXI. törvényben kihirdetett Veszélyes Áruk Nemzetközi Belvízi Szállítására Vonatkozó Szabályzat előírásai.
 
 [^1]: A 2. § 3. pontja a 7/2016. (II. 22.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 8. pontja a 8/2018. (VIII. 17.) ITM rendelet 13. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 31. §[^15]
+## 31. §[^16]
 
 1. melléklet a 35/2014. (XI. 19.) NGM rendelethez
 
@@ -366,4 +366,4 @@ a korábbi tömeg megjelölést keresztbehúzott beütéssel érvényteleníteni
 
 7.3.1. Az 1001 UN számú gázzal töltött gázpalack időszakos biztonságtechnikai ellenőrzésének ciklusidejét a porózus anyagra érvényes gyártói előírás határozza meg, de nem lehet hosszabb, mint 5 év.
 
-[^15]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

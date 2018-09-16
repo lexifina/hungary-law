@@ -14,16 +14,16 @@ b) Magyar Ipari Gáz Szövetség (2 fő),
 
 c) Magyar Tartálytechnikai és Nyomástartó Berendezés Szövetség (2 fő),
 
-d)[^11] a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala (1 fő),
+d)[^12] a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala (1 fő),
 
 e) Magyar Bányászati és Földtani Hivatal (1 fő).
 
-(4)[^12] A szakbizottsági tagokat az iparügyekért felelős miniszter a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala javaslatára öt év időtartamra bízza meg.
+(4)[^13] A szakbizottsági tagokat az iparügyekért felelős miniszter a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala javaslatára öt év időtartamra bízza meg.
 
-(5)[^13] A Szakbizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Szakbizottság elnökét.
+(5)[^14] A Szakbizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Szakbizottság elnökét.
 
 (6) A Szakbizottság az e rendeletben és a Szabályzatban megállapított műszaki követelményeknek eleget tevő műszaki megoldásokat tartalmazó műszaki ajánlásokat tehet. A műszaki ajánlásokban foglalt műszaki megoldást úgy kell tekintetni, hogy az megfelel az adott kor technikai színvonalának, és egyúttal kielégíti a Szabályzat által elvárt, általános biztonsági szint követelményeit is.
 
-[^11]: A 25. § (3) bekezdés d) pontja a 62/2016. (XII. 29.) NGM rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^12]: A 25. § (4) bekezdése a 62/2016. (XII. 29.) NGM rendelet 30. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^13]: A 25. § (5) bekezdése a 62/2016. (XII. 29.) NGM rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^12]: A 25. § (3) bekezdés d) pontja a 62/2016. (XII. 29.) NGM rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^13]: A 25. § (4) bekezdése a 62/2016. (XII. 29.) NGM rendelet 30. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^14]: A 25. § (5) bekezdése a 62/2016. (XII. 29.) NGM rendelet 30. § (2) bekezdésével megállapított szöveg.

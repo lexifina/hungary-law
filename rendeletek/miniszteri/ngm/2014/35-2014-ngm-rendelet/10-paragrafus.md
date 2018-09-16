@@ -1,4 +1,4 @@
-10. § (1)[^8] A gázpalackba csak a gyártóművi megfelelőségi nyilatkozatban meghatározott – vagy a töltet 6. § (1) bekezdése szerinti engedélyköteles megváltoztatása esetén a Hatóság által kiadott engedélyben megnevezett – valamint a 17. § (1) bekezdésében megjelölt szervezet által jóváhagyott, és a gázpalackon maradandóan megjelölt típusú és mennyiségű gáz tölthető.
+10. § (1)[^9] A gázpalackba csak a gyártóművi megfelelőségi nyilatkozatban meghatározott – vagy a töltet 6. § (1) bekezdése szerinti engedélyköteles megváltoztatása esetén a Hatóság által kiadott engedélyben megnevezett – valamint a 17. § (1) bekezdésében megjelölt szervezet által jóváhagyott, és a gázpalackon maradandóan megjelölt típusú és mennyiségű gáz tölthető.
 
 (2) Csak a hibátlan állapotú gázpalack tölthető meg, és töltésre csak a következő időszakos biztonságtechnikai ellenőrzés időpontjáig kerülhet sor. Ha a beütött vizsgálati időpont nem olvasható vagy nem azonosítható, akkor a gázpalackot nem szabad megtölteni.
 
@@ -16,4 +16,4 @@ b) amelynek kritikus hőmérséklete 70 °C vagy annál magasabb, annyira tölth
 
 (7) Az acetilén palackot úgy kell megtölteni, hogy a töltés befejezése után 8 óra elteltével, 15 °C-on, a gázpalackban a nyomás ne legyen nagyobb az engedélyezett nyomásnál.
 
-[^8]: A 10. § (1) bekezdése a 7/2016. (II. 22.) NGM rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^9]: A 10. § (1) bekezdése a 7/2016. (II. 22.) NGM rendelet 12. § (5) bekezdésével megállapított szöveg.
