@@ -1,0 +1,6420 @@
+# Az innovációért és technológiáért felelős miniszter 17/2018. (IX. 17.) ITM rendelete
+
+Magyar Közlöny 2018. évi 140. szám, 2018. szeptember 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/86c47175f37f9dacc416ed299da60f82ec059fd3/dokumentumok/a5985effa12c4c86a66293ac8c72a197965f5a44/letoltes)
+
+---
+
+Az innovációért és technológiáért felelős miniszter 17/2018. (IX. 17.) ITM rendelete
+az ipari mesterképzés szakmai és vizsgakövetelményeiről szóló 31/1996. (VI. 19.) IKM rendelet, valamint
+a nemzetgazdasági miniszter hatáskörébe tartozó szakképesítések mestervizsga követelményeiről szóló
+8/2013. (III. 6.) NGM rendelet módosításáról
+A szakképzésről szóló 2011. évi CLXXXVII. törvény 90. § c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak
+feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 23. pontjában meghatározott feladatkörömben eljárva
+– a pedagógiai tartalom tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 92. §
+(1) bekezdés 8. pontjában meghatározott feladatkörében eljáró emberi erőforrások miniszterével egyetértésben – a következőket
+rendelem el:
+1. Az ipari mesterképzés szakmai és vizsgakövetelményeiről szóló 31/1996. (VI. 19.) IKM rendelet
+módosítása
+1. § (1) Hatályát veszti az ipari mesterképzés szakmai és vizsgakövetelményeiről szóló 31/1996. (VI. 19.) IKM rendelet
+(a továbbiakban: R1.) Melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 19., 23.,
+25., 26., 40. és 54. pontja.
+(2) Hatályát veszti az R1. Melléklet
+a) „19. TETŐFEDŐ mestervizsga szakmai követelmények”,
+b) „23. MAGASÉPÍTŐ mesterszint és vizsgakövetelmények”,
+c) „25. PAPÍRGYÁRTÓ mesterszint és vizsgakövetelmények”,
+d) „26. PAPÍRFELDOLGOZÓ mesterszint és vizsgakövetelmények”,
+e) „40. ÖNTŐ mestervizsgaszint és szakmai követelmények”és
+f) „54. KÁDÁR mestervizsgaszint és szakmai követelmények”
+alcíme.
+2. A nemzetgazdasági miniszter hatáskörébe tartozó szakképesítések mestervizsga követelményeiről
+szóló 8/2013. (III. 6.) NGM rendelet módosítása
+2. §
+A nemzetgazdasági miniszter hatáskörébe tartozó szakképesítések mestervizsga követelményeiről szóló
+8/2013. (III. 6.) NGM rendelet (a továbbiakban: R2.) a következő 3. §-sal egészül ki:
+„3. § Az 1. és 2. mellékletnek az ipari mesterképzés szakmai és vizsgakövetelményeiről szóló 31/1996. (VI. 19.)
+IKM rendelet módosításáról, valamint a nemzetgazdasági miniszter hatáskörébe tartozó szakképesítések
+mestervizsga követelményeiről szóló 8/2013. (III. 6.) NGM rendelet módosításáról szóló 17/2018. (IX. 17.)
+ITM rendelettel (a továbbiakban: Módr.) módosított 2. melléklet 9. és 12. pontja, valamint a Módr.-rel megállapított
+2. melléklet 45., 46., 48., 49., 51. és 53. pontja szerinti képzések esetében a Módr. hatálybalépésekor folyamatban
+lévő képzéseket a képzés megkezdésekor hatályos mestervizsga követelmények szerint kell befejezni.”
+3. § (1) Az R2. 1. melléklete az 1. melléklet szerint módosul.
+(2) Az R2. 2. melléklete a 2. melléklet szerint módosul.
+3. Záró rendelkezések
+4. §
+Ez a rendelet a kihirdetését követő tizenötödik napon lép hatályba.
+ Dr. Palkovics László s. k.,
+ innovációért és technológiáért felelős miniszter
+
+1. melléklet a 17/2018. (IX. 17.) ITM rendelethez
+1. Az R2. 1. mellékletében foglalt táblázat a következő 46–54. sorral egészül ki:
+(A B
+1. Sorszám Szakképesítés megnevezése)
+„
+46. 45. Kádár, bognár
+47. 46. Magasépítő
+48. 47. Műanyag-feldolgozó
+49. 48. Olvasztár és öntő
+50. 49. Papírgyártó és -feldolgozó
+51. 50. Szárazépítő
+52. 51. Tetőfedő
+53. 52. Tisztítás-technológiai mester
+54. 53. Vadászpuska műves
+ ”
+
+1. Az R2. 2. melléklet „9. KÉZÁPOLÓ ÉS MŰKÖRÖMÉPÍTŐ MESTERVIZSGA KÖVETELMÉNYEI” alcíme helyébe
+a következő rendelkezés lép:
+„9. KÉZÁPOLÓ ÉS MŰKÖRÖMÉPÍTŐ MESTERVIZSGA KÖVETELMÉNYEI
+I. A Kézápoló és műkörömépítő mestervizsgára jelentkezés feltételei
+1. A mestervizsgához szükséges szakképesítési feltételek
+A Kézápoló és műkörömépítő mestervizsgára jelentkezéshez az alábbi szakképesítéssel (szakma),
+szakképzettséggel kell rendelkeznie a mesterjelöltnek:
+A B
+1.1. A szakképesítés (szakma), szakképzettség
+1.2. megnevezése azonosító száma
+1.3. Kézápoló és műkörömépítő 32 815 01
+Megjegyzés: A mestervizsgához szükséges szakképesítési feltétel teljesítéséhez a Magyar Kereskedelmi és
+Iparkamara a vizsgára bocsátás feltételeinek vizsgálatakor egyenértékűként fogadhatja el a jogelőd, valamint
+jogutód szakképesítést (szakmát), szakképzettséget is.
+2. A jelentkezéshez szükséges szakmai gyakorlat
+A szakma munkaterületén a szakirányú képesítés megszerzését követően az alábbiakban meghatározott
+szakmai gyakorlat igazolása szükséges:
+A B
+2.1. A szakmai gyakorlat
+2.2. szakiránya időtartama (év)
+2.3. Kézápoló és műkörömépítő 5
+Megjegyzés: A szakmai gyakorlat részidőkből is összeállhat, de az utolsó időszak nem lehet egy évnél rövidebb,
+és a vizsgára jelentkezés időpontjában az utolsó igazolt szakmai gyakorlat nem lehet egy évnél régebbi.
+A gyakorlati időbe nem számítható be a GYED, illetve a sor- vagy tartalékos katonai, valamint polgári szolgálat
+ideje.
+II. A Kézápoló és műkörömépítő mester munkaterülete, a mestercímhez kapcsolódó
+tevékenységek
+1. A Kézápoló és műkörömépítő mester munkaterületének leírása
+A szolgáltatás megszervezéséhez és folyamatos működtetéséhez kapcsolódó gazdálkodási munkát és munka-,
+tűz-, baleset- és környezetvédelmi feladatokat végez.
+Szolgáltatással kapcsolatos előkészítési feladatot végez.
+A kézápolás és műkörömépítés folyamatait végzi.
+Speciális kézápolási és műkörömépítő feladatokat végez.
+Befejező és speciális befejező műveleteket végez.
+2. A Kézápoló és műkörömépítő mester tevékenysége
+2.1. Vállalkozás kialakításával és működtetésével kapcsolatos tevékenységeket végez, melynek során
+gondoskodik a jogszabályi előírásoknak megfelelő humánerőforrás biztosításáról, a szükséges adminisztráció
+elvégzéséről, a munka-, tűz- és balesetvédelmi, környezetvédelmi szabályok betartásáról és betartatásáról.
+2.2. A szolgáltatás előkészítési feladatait végzi, tisztít, fertőtlenít, sterilizál, karbantart, a veszélyes anyagokat és
+a hulladékokat kezeli, gondoskodik az anyag- és eszközbeszerzésről.
+2. melléklet a 17/2018. (IX. 17.) ITM rendelethez
+
+2.3. A kézápolás és műkörömépítés folyamatait végzi.
+Előkészíti a szolgáltatást.
+Diagnosztizál, konzultál, kezelési tervet készít, dokumentál.
+Tisztít, fertőtlenít.
+Hagyományos, klasszikus manikűrt végez.
+Francia manikűrt végez.
+Japán manikűrt végez.
+Bőrápolást végez.
+Díszítést végez.
+Sablontechnikával épít műkörmöt.
+Tippes technikával épít műkörmöt.
+Megerősítő technikával épít műkörmöt.
+Levegőre kötő porcelán anyaggal épít műkörmöt.
+Zselé anyaggal épít műkörmöt.
+UV porcelán anyaggal épít műkörmöt.
+2.4. Speciális műkörömépítési feladatokat végez.
+Francia típusú, hajlított, szögletes formájú műkörmöt épít.
+Körömágy-meghosszabbítással épít műkörmöt.
+Stiletto típusú vagy egyéb, a természetes formájú meghosszabbítástól eltérő modern körömformát épít.
+Töltési műveletet végez.
+Általánostól eltérő, deformált növésű körömre épít műkörmöt.
+Díszített építést végez.
+Háromdimenziós díszítést készít.
+Egyéb díszítéseket végez.
+2.5. Befejező műveleteket végez.
+Tisztítási, fertőtlenítési, sterilizálási műveleteket végez.
+Bőrápolási feladatokat végez.
+Eszközök tisztítását, karbantartását végzi.
+Hulladékot kezel.
+3. A Kézápoló és műkörömépítő mesterképesítéssel rokon mesterképesítések
+A
+3.1. A Kézápoló és műkörömépítő mester képesítéssel rokon képesítés(ek) megnevezése
+3.2. Lábápoló mester
+III. Szakmai követelmények
+A szakmai követelménymodulok felsorolása:
+A B
+1.
+A Kézápoló és műkörömépítő megnevezésű mesterképesítés szakmai
+követelménymoduljainak
+2. azonosítója megnevezése
+3. 001-11-1 Pedagógiai ismeretek
+4. 002-11-1 Vállalkozási ismeretek
+5. 015-09 Szépségszalon működtetése
+6. 069-09 Kézápoló és műkörömépítő mester feladatai
+A szakmai követelménymodul azonosítója és megnevezése:
+001-11-1 Pedagógiai ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Ismeri és tudatosan kezeli a gyermek fejlődési fázisait, megismerési és kommunikációs szerepét a
+tanulóképzésben.
+
+Ismeri és alkalmazza a szakképzésen belül a gyakorlati képzés pedagógiai sajátosságait.
+A pedagógiai célokat és azok eléréshez szükséges feladatrendszert egymáshoz illeszti, megtervezi a szakmai
+gyakorlat pedagógiai folyamatát.
+Kezeli a mai kor értékeit, értékválságát és a mai kor társadalmi értékeit.
+Ismeri a pozitív jövőképpel rendelkező életpályát, a proaktív életvezetés pedagógiai sajátosságait.
+Megvalósítja az élményközpontú gyakorlati képzést és a pozitív, negatív visszacsatolások motivációját.
+Ismeri és tudatosan használja a pedagógiai eszközöket a gyakorlati munkában és a tanulóképzésben.
+Tudatosan használja a munkáltató foglalkozásokat a tanulóképzésben.
+Megvalósítja a célorientált munkavégzésre törekvést.
+Megvalósítja a hatékonyság és erőforrás-takarékos feladatvégzést.
+Megvalósítja a munkavégzési önállóságot.
+Kialakítja a szakmai problémamegoldás képességét.
+Formálja a minőségi munkavégzés és önellenőrző felelősségvállalás képességét.
+Kreatívan megvalósítja a szakmai problémamegoldást, szükség esetén csapatmunkában.
+Képes a szakmai és együttműködési önfejlődésre.
+Tudatosan kezeli a nevelés és személyes példamutatás jelentőségét és szerepét.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+A gyermek fejlődési fázisainak, megismerési és kommunikációs szerepeinek tudatos kezelésének ismerete a
+tanulóképzésben.
+A szakképzésen belül a gyakorlati képzés pedagógiai sajátosságainak ismerete és alkalmazása.
+A pedagógiai célok és azok eléréshez szükséges feladatrendszer megvalósításának ismerete.
+A szakmai gyakorlat pedagógiai folyamatának megtervezési ismerete.
+A mai kor értékeinek, értékválságának és a mai kor társadalmi értékeinek ismerete.
+A pozitív jövőképpel rendelkező életpálya, a proaktív életvezetés pedagógiai sajátosságainak ismerete.
+Az élményközpontú gyakorlati képzés és a pozitív, negatív visszacsatolások motivációs megvalósításának
+ismerete.
+A pedagógiai eszközök és tudatos használatuk ismerete a gyakorlati munkában és a tanulóképzésben.
+A munkáltató foglalkozások tudatos használatának ismerete a tanulóképzésben.
+A célorientált munkavégzésre törekvés szerepének ismerete.
+A hatékonyság és erőforrás-takarékos feladatvégzés szerepének ismerete.
+A munkavégzési önállóság szerepének ismerete.
+A szakmai problémamegoldás képességének kialakítási ismerete.
+A minőségi munkavégzés és önellenőrző felelősségvállalás képességének formálási ismeretei.
+A szakmai problémamegoldás kreatív módszereinek ismerete, szükség esetén csapatmunkában.
+A szakmai és együttműködési önfejlődés nyitottságának ismeretei.
+A nevelés és személyes példamutatás jelentőségének és szerepének ismeretei.
+szakmai készségek:
+Köznyelvi beszédkészség.
+Mennyiségérzék.
+Szakmai nyelvű beszédkészség.
+Olvasott szakmai szöveg megértése.
+Elemi számolási készség.
+Tervezési készség a feladatok megtervezéséhez, illesztéséhez.
+Tervezési készség a szakmai gyakorlat megtervezéséhez.
+Tervezési készség az életpálya-tervezéshez és életvezetéshez.
+Az élményközpontú gyakorlati képzés vezetésének készsége.
+Motivációs készség.
+A gyermek tanulásának segítése.
+A pedagógiai módszerek használata.
+Pedagógiai beszédkészség.
+A szakképzési eszközök használata.
+A gyakorlati képzés módszertana.
+Oktatási eszközök használata.
+A valós vállalkozási környezetben történő gyakorlati eszközhasználat.
+
+A munkáltató foglalkozások használatának készsége.
+A célorientált munkavégzés készsége.
+A feladatok erőforrás-takarékos végzésének készsége.
+Az önálló munkavégzés készsége.
+A szakmai problémamegoldás képességének kialakítási készsége.
+A minőségi munkavégzés készsége.
+A szakmai problémamegoldás készsége.
+A szakmai megújulás folyamatos készsége.
+A személyes példamutatás készsége.
+Személyes kompetenciák:
+Empátia.
+Pozitív elvárások attitűdje.
+Pozitív jövőkép kialakításának képessége.
+Példamutatás a szakmai rutin területén.
+Példamutatás a célorientált munkavégzés területén.
+Példamutatás a szakmai problémamegoldás területén.
+Példamutatás a minőségi munkavégzés területén.
+Példamutatás a szakmai és együttműködési önfejlődés területén.
+Társas kompetenciák:
+Kommunikációs nyitottság.
+Együttműködési képesség.
+Módszerkompetenciák:
+Történeti áttekintőképesség.
+Módszertani strukturálás képessége.
+A szakmai gyakorlat pedagógiai megtervezésének képessége.
+Az élményközpontú gyakorlati képzés megvalósításának képessége.
+A pedagógiai eszközök tudatos használatának képessége a tanulóképzésben.
+A célorientált munkavégzés elsajátíttatásának képessége.
+A hatékonyság és erőforrás-takarékosság elsajátíttatásának képessége.
+A munkavégzési önállóság elsajátíttatásának képessége.
+A szakmai problémamegoldás elsajátíttatásának képessége.
+A minőségi munkavégzés elsajátíttatásának képessége.
+A szakmai és együttműködési önfejlődés elsajátíttatásának képessége.
+A nevelés és személyes példamutatás képessége.
+A szakmai követelménymodul azonosítója és megnevezése:
+002-11-1 Vállalkozási ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Jogi ismeretek:
+Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével, amely alapján képes elvégezni a
+következő feladatokat:
+Ellátja a vállalkozások alapításával kapcsolatos általános feladatokat.
+Intézi a működési engedélyek beszerzését.
+Jogi tanácsadást igényel, konkrét igényt fogalmaz meg.
+Ellátja a vállalkozások megszűnésével kapcsolatos általános feladatokat.
+Jogi felügyelettel munkajogi szerződéseket készít, ellenőriz.
+Jogi felügyelettel vállalkozói szerződéseket készít, ellenőriz.
+Figyelemmel kíséri a jogszabályi változásokat.
+Marketingismeretek:
+Tisztában van a vállalkozások piaci környezetével és ezek hatásaival. Ennek alapján az alábbi feladatokat képes
+elvégezni:
+Üzleti tervet készít.
+Elvégzi a saját iparágának bemutatását és elemzését.
+
+Meghatározza és kidolgozza a marketing-mix elemeit.
+PR és kommunikációs tevékenységet végez.
+Adó-TB-pénzügyi-számviteli ismeretek:
+Ismeri az alapvető adó- és pénzügyi szabályokat, valamint a gazdaság működési elvét. Ennek alapján az alábbi
+feladatokat képes elvégezni:
+Kitölti az adónyomtatványokat.
+Főbb vonalakban ismeri az egyes adó- és kamatszámítási módszereket.
+Ismeri a vállalkozások éves beszámolójának főbb egységeit és ezek lényeges elemeit, valamint ezen adatokból
+tájékozódni tud, és következtetéseket von le.
+Kialakítja és működteti a vállalkozás szervezetét.
+Pénzügyi tervet készít.
+Rezsióradíjat számol.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Jogi ismeretek:
+A gazdálkodás, vállalkozás fogalma, jellemzői.
+Egyéni vállalkozás.
+Egyéni cég.
+Gazdasági társaságok csoportosítása.
+Gazdasági társaságok működésének szabályai.
+Vállalkozási formák közötti választás szempontjai.
+Vállalkozások átalakítása és megszüntetése.
+Kötelmi jog elemei.
+Marketingismeretek:
+A vállalkozás makro- és mikrokörnyezete.
+Piacgazdaság, piac.
+A vállalkozások erőforrásai.
+A vállalkozások reálszférája.
+A vállalkozás személyi feltételei.
+A vállalkozás beindításának alapfeltételei.
+Az elképzelés, az ötlet próbája.
+A vállalkozás beindításához szükséges eszközök listájának összeállítása és a munkaerő-szükséglet felmérése.
+A vállalkozás székhelyének, telephelyének megválasztása, belső kialakítása.
+Kommunikáció és információátvitel.
+Adó-TB-pénzügyi-számviteli ismeretek:
+A vállalkozás finanszírozása, pénzügyi terv készítése.
+A munkaviszony létrehozásával és megszüntetésével kapcsolatos feladatok.
+Számviteli rendszer kialakítása.
+A vállalkozás felelősségi rendszere.
+Az üzleti terv készítésének esetei és célközönsége.
+Az üzleti terv felépítése és részei.
+A vállalkozások beszámolási kötelezettségei.
+A mérleg és eredmény kimutatás szerepe, tartalma.
+A vállalkozás belső és külső finanszírozási forrásai, a vállalkozás fizetőképessége.
+Hitelezés és támogatás.
+Biztosítás, áru- és vagyonvédelem az üzleti életben.
+Adózás és társadalombiztosítás.
+A munkaszervezés alapjai.
+Az ellenőrzés alapelvei.
+szakmai készségek:
+Olvasott köznyelvi szöveg megértése.
+Köznyelvi szöveg fogalmazása írásban.
+
+Kézírás.
+Köznyelvi szöveg hallás utáni megértése.
+Köznyelvi beszédkészség.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvi íráskészség, fogalmazás.
+Szakmai nyelvű hallott szöveg megértése.
+Szakmai nyelvű beszédkészség.
+Telefonálási technikák.
+Számítástechnikai ismeretek.
+Személyes kompetenciák:
+Tisztesség, felelősségtudat.
+Megbízhatóság.
+Döntésképesség.
+Fejlődőképesség, önfejlesztés.
+Szervezőkészség.
+Önállóság.
+Kitartás.
+Rugalmasság.
+Elhivatottság, elkötelezettség.
+Kockázatvállalás.
+Társas kompetenciák:
+Kapcsolatteremtő készség.
+Határozottság.
+Kommunikációs készség.
+Konfliktusmegoldó képesség.
+Irányítási készség.
+Kompromisszumkészség.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Tervezés.
+Áttekintő- és rendszerezőképesség.
+Kreativitás, ötletgazdagság.
+Új ötletek, megoldások kipróbálása.
+Nyitott hozzáállás.
+Eredményorientáltság.
+Hibakeresés.
+A szakmai követelménymodul azonosítója és megnevezése:
+015-09 Szépségszalon működtetése
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Megválasztja a vállalkozás formáját.
+Kiválasztja a vállalkozás helyszínét.
+Elkészíti és beszerzi a vállalkozás folytatásához szükséges engedélyeket, dokumentációt, nyomtatványokat.
+Elkészíti az üzleti tervet.
+Kialakítja a biztonságos munkavégzés feltételeit.
+Biztosítja a szolgáltatáshoz szükséges személyi és tárgyi feltételek meglétét a működési engedély kiadásakor és
+a szolgáltatás működése során folyamatosan.
+Figyelemmel kíséri a jogszabályváltozásokat, a pályázati és továbbképzési lehetőségeket.
+Marketing és PR tevékenységet folytat.
+Elvégzi a szükséges pénzforgalmi és adminisztrációs műveleteket.
+Előkészíti a munkájához szükséges anyagokat, eszközöket.
+Ellenőrzi a gépek üzemképes állapotát.
+Előkészíti a védőeszközöket és felszereléseket.
+Előkészíti a napi dokumentációt.
+
+Leltárt készít.
+Feltölti a készleteket.
+Tisztítja és fertőtleníti, sterilizálja az eszközöket, gépeket, munkafelületet.
+Karbantartja az eszközöket, gépeket.
+A felhasznált textíliát fertőtleníti, mossa, vasalja.
+Kitakarítja az üzletet a takarítási szabályzat alapján.
+Gondoskodik a veszélyes anyagok tárolásáról és elszállításáról.
+Elkülönítetten gyűjti a hulladékot.
+Ismeri a kozmetikai termékekről, a kozmetikai termékek biztonságosságáról, gyártási, forgalmazási feltételeiről
+és közegészségügyi ellenőrzésről szóló jogszabályokban foglaltakat.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Vállalkozási formák.
+Piackutatás alapjai.
+A pénzügy alapjai.
+A számvitel alapjai.
+Anyag- és eszközgazdálkodás szabályai.
+Tevékenységi kör tárgyi feltételei.
+Biztonságos munkavégzés feltételei.
+Villamosság-biztonságtechnika alapjai.
+Balesetvédelem.
+Tűzvédelem.
+Közegészségügy.
+Veszélyes hulladék kezelése.
+A kommunikáció alapjai.
+A pszichológiai kultúra.
+Az etika alapjai.
+Szolgáltatásetika.
+Szolgáltatás engedélyeztetéséhez és a folyamatos működés fenntartásához szükséges szabályok.
+Fogyasztóvédelmi szabályok.
+szakmai készségek:
+Elemi szintű számítógép-használat.
+Olvasott szöveg megértése.
+Fogalmazás írásban.
+Kézírás.
+Köznyelvi szöveg hallás utáni megértése.
+Köznyelvi beszédkészség.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvezetű íráskészség, fogalmazás.
+Szakmai nyelvű hallott szöveg megértése.
+Szakmai nyelvű beszédkészség.
+Elemi számolási készség.
+Személyes kompetenciák:
+Precizitás.
+Döntésképesség.
+Szervezőkészség.
+Önállóság.
+Fejlődőképesség, önfejlesztés.
+Társas kompetenciák:
+Kapcsolatteremtő készség.
+Kapcsolatfenntartó készség.
+Határozottság.
+
+Módszerkompetenciák:
+Ismeretek helyénvaló alkalmazása.
+Információgyűjtés.
+Logikus gondolkodás.
+Gyakorlatias feladatértelmezés.
+A szakmai követelménymodul azonosítója és megnevezése:
+069-09 Kézápoló és műkörömépítő mester feladatai
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Fogadja a vendéget, és konzultál a kívánt szolgáltatásról empatikus, segítőkész viselkedéssel.
+Előkészíti a vizsgálandó felületet.
+Diagnosztizál kikérdezéssel, tapintással, megfigyeléssel.
+Meggyőződik arról, hogy nincs a szolgáltatást kizáró körülmény.
+A diagnosztizálás és a konzultálás eredményének megfelelően megtervezi a szolgáltatást.
+Előkészíti a kezelést a tervezett munkafolyamat szerint.
+Tisztítja a kezelendő felületet.
+Elvégzi a fertőtlenítési műveleteket a feladatnak megfelelő fertőtlenítővel.
+Elvégzi a hagyományos, klasszikus manikűrt.
+Elvégzi a francia manikűrt annak speciális eszközeivel és anyagaival.
+Elvégzi a japán manikűrt annak speciális eszközeivel és anyagaival.
+Paraffinos ápolást végez kézen, annak speciális eszközeivel és anyagaival.
+SPA-kezelést végez kézen.
+Masszírozást végez kézen.
+Elvégzi a természetes köröm díszítését kézen.
+Természetes alapanyaggal bőrdíszítést végez kézen.
+Előkészíti a természetes köröm felületét műkörömépítéshez.
+Műkörömdíszítést végez.
+Tippes technikával épít műkörmöt.
+Sablontechnikával épít műkörmöt.
+Megerősítő technikával épít műkörmöt.
+Levegőre kötő porcelán anyaggal épít műkörmöt.
+UV-zselével épít műkörmöt.
+UV-porcelánnal épít műkörmöt.
+Speciális műkörömépítési feladatokat végez.
+Francia típusú, hajlított, szögletes formájú műkörmöt épít.
+Körömágy-meghosszabbítással épít műkörmöt.
+Stiletto típusú vagy egyéb a természetes formájú meghosszabbítástól eltérő, modern körömformát épít.
+Díszített építést végez.
+Háromdimenziós díszítést készít.
+Egyéb díszítéseket végez.
+A töltési műveletnek megfelelően előkészíti a lenőtt körmöt.
+Az anyagcsoportnak megfelelően elvégzi a töltést.
+Általánostól eltérő, deformált növésű körömre épít műkörmöt.
+Formálási műveletet végez.
+Elvégzi a befejező műveleteket.
+Eltávolítja a műkörmöt.
+Ellátja az esetleges sérüléseket.
+Otthoni ápolásra ad tanácsot.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Kommunikációs alapismeretek.
+Szolgáltatásetika.
+Test felépítésének általános jellemzése.
+Sejtek, alapszövetek általános jellemzői.
+Keringés szervrendszere.
+
+Mozgásszervrendszer általános jellemzése.
+Csontok, ízületek, izmok általános jellemzése.
+Felső végtag általános jellemzése.
+Kéz anatómiája: kéz csontjai, ízületei, izmai.
+Kéz ortopédiai elváltozásai és okai.
+Bőr felépítése és élettana.
+Bőr funkciói.
+Köröm felépítése és élettana.
+Bőr elemi elváltozásai.
+Bőr betegségei.
+Köröm elváltozása.
+Deformált növésű körmök.
+Köröm betegségei.
+Ortopédiai elváltozások okozta bőrtünetek.
+Műköröm-alapanyagok.
+Egyéb segédanyagok.
+Díszítéshez használt anyagok és díszítőelemek.
+Hatóanyagok és vivőszereik szerepe és alkalmazásának lehetőségei.
+Kézápolást kizáró és befolyásoló tényezők.
+Kézápolás előkészítő műveletei.
+Kézápolás folyamata, lépései.
+Manikűr fajtái.
+Manikűrfajták technológiái.
+Bőrápolási módok, technológiái.
+Masszázs típusai, kizáró körülményei.
+Masszázs hatásai.
+Kéz- és körömdíszítési módok.
+Műkörömépítést kizáró és befolyásoló körülmények.
+Műkörömépítés alapismeretei.
+Műkörömépítés szakaszai.
+Műkörömépítés technikái.
+Tippes technikával történő építés.
+Sablontechnikával történő építés.
+Megerősítő technika alkalmazási módjai, technológiái.
+Műkörömanyag típusonkénti építéseinek általános tudnivalói.
+Levegőre kötő porcelánok építési technológiái.
+UV-zselés építés technológiája.
+UV-porcelán építési technológiája.
+Átlagostól eltérő, deformált növésű körmök építési lehetőségei.
+Töltési, karbantartási és javítási műveletek.
+Műkörömdíszítési módjai.
+Műköröm eltávolítási módjai.
+szakmai készségek:
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvezetű íráskészség, fogalmazás.
+Szakmai nyelvű hallott szöveg megértése.
+Szakmai nyelvű beszédkészség.
+Kézápoló eszközök használata.
+Idegen nyelvű olvasott szöveg megértése.
+Idegen nyelvű beszédkészség.
+Telefonálás idegen nyelven.
+Műkörömépítő eszközök és gépek használata.
+Személyes kompetenciák:
+Felelősségtudat.
+Stabil kéztartás.
+Önállóság.
+
+Szervezőkészség.
+Kézügyesség.
+Pontosság.
+Szakkifejezések használata.
+Precizitás.
+Társas kompetenciák:
+Határozottság.
+Fogalmazókészség.
+Tömör fogalmazás készsége.
+Nyelvhelyesség.
+Módszerkompetenciák:
+A környezet tisztán tartása.
+Körültekintés, elővigyázatosság.
+Kreativitás, ötletgazdagság.
+Tervezési képesség.
+Információgyűjtés.
+Lényegfelismerés.
+Ismeretek helyénvaló alkalmazása.
+Gyakorlatias feladatelemzés.
+IV. Mestervizsgáztatási követelmények
+1. A mestervizsgára bocsátás feltételei
+A mestervizsgára bocsátásnak az „I. A kézápoló és műkörömépítő mestervizsgára jelentkezés feltételei” című
+alcímben leírtakon kívül nincs más feltétele.
+2. A mestervizsga vizsgatevékenységei és vizsgafeladatai
+Gyakorlati vizsgatevékenység
+A vizsgafeladat ismertetése:
+A gyakorlati vizsga során a mesterjelöltnek hat részfeladatból álló, magas fokú szakmai tudást igénylő
+kézápolási, műkörömépítési és -töltési vizsgafeladatot kell teljesítenie.
+A gyakorlati vizsgafeladatokat a mestervizsga bizottság elnöke jelöli ki a gyakorlati vizsgát megelőzően
+legalább 30 nappal korábban a központi feladatbankban tárolt, előre összeállított komplex gyakorlati
+feladatok közül.
+A) Vizsgafeladat megnevezése: Kézápolás
+Vizsgafeladat ismertetése: Teljes kézápolási feladat elvégzése hagyományos, klasszikus, vagy korszerű, francia
+manikűr technológia alkalmazásával.
+Vizsgafeladat időtartama: 45 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt.
+B) Vizsgafeladat megnevezése: Műkörömépítés
+A gyakorlati vizsga során a mesterjelöltnek a vizsgaelnök által a feladatbankból kiválasztott, négy
+típusfeladatból álló, magas fokú szakmai tudást igénylő, komplex műkörömépítési feladatsort kell elvégeznie.
+A vizsgafeladatot úgy kell kialakítani, hogy a műkörömfeladatok végzése során legalább egy darab köröm az
+általánostól eltérő, erősen deformált növésű legyen.
+1. Sablontechnikával levegőre kötő porcelán anyaggal történő építés (100 perc)
+2. Sablontechnikával, zselé anyaggal történő építés (100 perc), amelyek közül csak az egyiket kell körömágy-
+hosszabbítással megvalósítani.
+3. Tippes technikával történő építés, UV porcelán borítással vagy zselés megerősítő technika alkalmazásával
+(100 perc)
+4. Alkalmi műköröm építése esküvőre vagy estélyre, a mindenkori divatirányzatnak megfelelően (120 perc)
+Vizsgafeladat időtartama: 420 perc
+A vizsgafeladat típusfeladatainak értékelése:
+Az 1. feladat 0-80% Nem felelt meg; 81-100% Megfelelt
+A 2. feladat 0-80% Nem felelt meg; 81-100% Megfelelt
+
+A 3. feladat 0-80% Nem felelt meg; 81-100% Megfelelt
+A 4. feladat 0-80% Nem felelt meg; 81-100% Megfelelt
+C) Vizsgafeladat megnevezése: Töltés
+Négy hete lenőtt köröm töltését kell elvégezni a hozott modell körmén lévő anyagnak megfelelően, a
+feladatbankban leírt módon.
+Vizsgafeladat időtartama: 100 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+Írásbeli vizsgatevékenység
+Vizsgafeladat megnevezése: Komplex írásbeli feladat
+Vizsgafeladat ismertetése:
+Az anyagbeszerzés, eszközgazdálkodás, dokumentációs ismeretek, munka-, egészség- és környezetvédelmi,
+gazdálkodási és szakmai feladatok, valamint szolgáltatás-előkészítési feladatok témákban.
+Vizsgafeladat időtartama: 40 perc
+A vizsgarész egyes feladatainak értékelése: 0-70% Nem felelt meg; 71%-100% Megfelelt
+Szóbeli vizsgatevékenység
+A) A vizsgafeladat megnevezése: Kézápoló és műkörömépítő mester feladatai. Komplex szóbeli feladat.
+Vizsgafeladat ismertetése:
+A szolgáltatást megalapozó anatómiai, élettani, anyagfelhasználási, technológiai, szépségszalon-működtetési
+ismeretek.
+Időtartama: 45 perc, amelyből a felkészülési idő 25 perc, a válaszadási idő 20 perc
+A vizsgarész feladatainak értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+B) A vizsgafeladat megnevezése: Pedagógiai ismeretek
+A vizsgafeladat ismertetése:
+A gyakorlati munka tanulásához szükséges pszichológiai fogalmak, alapok.
+A szakmai gyakorlat tanítás-tanulási folyamatának jellemzői.
+A szakmai gyakorlat mint munkavégzés általi tanulás módszertani feladatai.
+A vizsgafeladat időtartama: 90 perc, ebből felkészülési idő: 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+C) A vizsgafeladat megnevezése: Vállalkozási ismeretek
+A vizsgafeladat ismertetése:
+Jogi ismeretek.
+Marketingismeretek.
+Adó-TB-pénzügyi- számviteli ismeretek.
+A vizsgafeladat időtartama: 90 perc, ebből felkészülési idő: 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+3. A mestervizsga értékelése
+A jelölt mestervizsgája Megfelelt minősítésű, ha minden vizsgatevékenység esetében Megfelelt minősítést
+szerzett.
+Sikertelen a mestervizsga, ha a vizsgázó egy vagy több vizsgatevékenység esetében Nem felelt meg minősítést
+szerzett.
+A jelöltnek javítóvizsgát abból a vizsgafeladatból kell tennie, amely esetében Nem felelt meg minősítést
+szerzett.
+4. A mestervizsga egyes részei alóli felmentés feltételei
+A Magyar Kereskedelmi és Iparkamara egységes szerkezetbe foglalt Mestervizsga Szabályzata szerinti eljárás
+keretében felmentés adható a Pedagógiai és vállalkozási ismeretek megnevezésű részvizsga alól annak, aki
+felsőfokú szakirányú végzettséggel rendelkezik, vagy két éven belül más mesterképesítésből sikeres
+mestervizsgát tett.
+A mestervizsga követelményekben nem szabályozott kérdésekben a Magyar Kereskedelmi és Iparkamara
+Mesterképzési és Mestervizsga Szabályzatában foglaltak az irányadók.
+
+V. Eszköz- és felszerelési jegyzék
+A B
+1.
+A képzési feladatok teljesítéséhez szükséges eszközök és
+felszerelések minimuma
+Kézápoló és
+műkörömépítő
+mester
+2. Fehér munkaruha X
+3. Körömvágó és bőrvágó olló manikűrhöz, műkörömhöz X
+4. Bőrfeltoló, bőrfelkaparó manikűrhöz, műkörömhöz X
+5. Gyémántporos fémreszelő X
+6. Áztatótál manikűrhöz X
+7. Textília manikűrhöz, műkörömhöz X
+8. A vizsgafeladatokban fellelhető valamennyi műkörömépítési, töltési,
+díszítési, ápolási módhoz szükséges eszköz és anyag X
+9. Csiszológép műkörömhöz X
+”
+2. Az R2. 2. melléklet „12. LÁBÁPOLÓ MESTERVIZSGA KÖVETELMÉNYEI” alcíme helyébe a következő
+rendelkezés lép:
+„12. LÁBÁPOLÓ MESTERVIZSGA KÖVETELMÉNYEI
+I. A Lábápoló mestervizsgára jelentkezés feltételei
+1. A lábápoló mestervizsgához szükséges szakképesítési feltételek
+A lábápoló mestervizsgára jelentkezéshez az alábbi szakképesítések (szakmák), szakképzettségek egyikével kell
+rendelkeznie a mesterjelöltnek:
+A B
+1.1. A szakképesítés (szakma), szakképzettség
+1.2. megnevezése azonosító száma
+1.3. Lábápoló 32 815 02
+1.4. Speciális lábápoló 53 815 01
+Megjegyzés: A mestervizsgához szükséges szakképesítési feltétel teljesítéséhez a Magyar Kereskedelmi és
+Iparkamara a vizsgára bocsátás feltételeinek vizsgálatakor egyenértékűként fogadhatja el a jogelőd, valamint
+jogutód szakképesítéseket (szakmákat), szakképzettségeket is.
+2. A lábápoló mestervizsgára jelentkezéshez szükséges szakmai gyakorlat
+A szakma munkaterületén a szakirányú képesítés megszerzését követően az alábbiakban meghatározott
+szakmai gyakorlat igazolása szükséges:
+A B
+2.1. A szakmai gyakorlat
+2.2. szakiránya időtartama (év)
+2.3. Lábápoló 5
+2.4. Speciális lábápoló 3
+Megjegyzés: A szakmai gyakorlat részidőkből is összeállhat, de az utolsó időszak nem lehet egy évnél rövidebb,
+és a vizsgára jelentkezés időpontjában az utolsó igazolt szakmai gyakorlat nem lehet egy évnél régebbi.
+A gyakorlati időbe nem számítható be a GYED, illetve a sor- vagy tartalékos katonai, valamint polgári szolgálat
+ideje.
+
+II. A lábápoló mester munkaterülete, a mestercímhez kapcsolódó tevékenységek
+1. A lábápoló mester munkaterületének leírása
+1.1. A szolgáltatás megszervezéséhez és folyamatos működtetéséhez kapcsolódó gazdálkodási munkát és
+környezetvédelmi feladatokat végez.
+Vállalkozás kialakításával és működtetésével kapcsolatos tevékenységeket végez.
+1.2. A szolgáltatás előkészítési feladatait végzi, tisztít, fertőtlenít, sterilizál, karbantart, veszélyes anyagokat és a
+hulladékokat kezeli.
+1.3. Lábápolás folyamatait végzi.
+Előkészíti a szolgáltatást.
+Diagnosztizál, konzultál, kezelési tervet készít.
+Tisztít, fertőtlenít, sterilizál.
+Kézi pedikűrt végez.
+Gépi pedikűrt végez.
+Kombinált pedikűrt végez.
+Előkészíti a diagnosztizálásnak, a technológiának, a felhasználandó anyagoknak megfelelően a tervezett
+szolgáltatást.
+Elvégzi a kezelés folyamatát a biztonsági szabályoknak megfelelően.
+Elvégzi a szolgáltatás befejező műveleteit, tisztít, sterilizál, karbantart, dokumentál, hulladékot kezel.
+1.4. Egyéb köröm- és bőrelváltozások kezelését végzi lábon.
+Tyúkszemet, benőtt körömsarkot távolít el.
+Felrostozódott, megvastagodott körmöt kezel, sarokrepedéseket kezel, kivéve a speciális lábápolás körébe
+tartozó eseteket.
+Befejező és speciális befejező műveleteket végez.
+Tisztítási, fertőtlenítési műveleteket végez.
+Bőrápolási feladatokat végez.
+Eszközök tisztítását, karbantartását végzi.
+Hulladékot kezel.
+1.5. Befejező és speciális befejező műveleteket végez.
+Sterilizál.
+Körömszabályozást, korrekciót végez.
+Tehermentesítőket alkalmaz.
+Sebfedést, elsősegélyt, utókezeléseket végez.
+Lábmasszázst végez.
+Lábtornát mutat be és tanít meg.
+Lábápolást végez.
+Díszítést végez.
+2. A lábápoló mesterképesítéssel rokon mesterképesítések
+A
+2.1. A lábápoló mesterképesítéssel rokon képesítés(ek) megnevezése
+2.2. Kézápoló és műkörömépítő mester
+III. Szakmai követelmények
+A szakmai követelménymodulok felsorolása:
+A B
+1. A Lábápoló megnevezésű mesterképesítés szakmai követelménymoduljainak
+2. azonosítója megnevezése
+3. 001-11-1 Pedagógiai ismeretek
+4. 002-11-1 Vállalkozási ismeretek
+5. 015-09 Szépségszalon működtetése
+6. 070-09 Lábápoló mester feladatai
+
+A szakmai követelménymodul azonosítója és megnevezése:
+001-11-1 Pedagógiai ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Ismeri és tudatosan kezeli a gyermek fejlődési fázisait, megismerési és kommunikációs szerepeit a
+tanulóképzésben.
+Ismeri és alkalmazza a szakképzésen belül a gyakorlati képzés pedagógiai sajátosságait.
+A pedagógiai célokat és azok eléréshez szükséges feladatrendszert egymáshoz illeszti, megtervezi a szakmai
+gyakorlat pedagógiai folyamatát.
+Kezeli a mai kor értékeit, értékválságát és a mai kor társadalmi értékeit.
+Ismeri a pozitív jövőképpel rendelkező életpályát, a proaktív életvezetés pedagógiai sajátosságait.
+Megvalósítja az élményközpontú gyakorlati képzést és a pozitív, negatív visszacsatolások motivációját.
+Ismeri és tudatosan használja a pedagógiai eszközöket a gyakorlati munkában és a tanulóképzésben.
+Tudatosan használja a munkáltató foglalkozásokat a tanulóképzésben.
+Megvalósítja a célorientált munkavégzésre törekvést.
+Megvalósítja a hatékonyság és erőforrás-takarékos feladatvégzést.
+Megvalósítja a munkavégzési önállóságot.
+Kialakítja a szakmai problémamegoldás képességét.
+Formálja a minőségi munkavégzés és önellenőrző felelősségvállalás képességét.
+Kreatívan megvalósítja a szakmai problémamegoldást, szükség esetén csapatmunkában.
+Képes a szakmai és együttműködési önfejlődésre.
+Tudatosan kezeli a nevelés és személyes példamutatás jelentőségét és szerepét.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+A gyermek fejlődési fázisainak, megismerési és kommunikációs szerepeinek tudatos kezelésének ismerete a
+tanulóképzésben.
+A szakképzésen belül a gyakorlati képzés pedagógiai sajátosságainak ismerete és alkalmazása.
+A pedagógiai célok és azok eléréshez szükséges feladatrendszer illesztésének ismerete.
+A szakmai gyakorlat pedagógiai folyamatának megtervezési ismerete.
+A mai kor értékei, értékválsága és a mai kor társadalmi értékeinek ismerete.
+A pozitív jövőképpel rendelkező életpálya, a proaktív életvezetés pedagógiai sajátosságainak ismerete.
+Az élményközpontú gyakorlati képzés és a pozitív, negatív visszacsatolások motivációs megvalósításának
+ismerete.
+A pedagógiai eszközök és tudatos használatuk ismerete a gyakorlati munkában és a tanulóképzésben.
+A munkáltató foglalkozások tudatos használatának ismerete a tanulóképzésben.
+A célorientált munkavégzésre törekvés szerepének ismerete.
+A hatékonyság és erőforrás-takarékos feladatvégzés szerepének ismerete.
+A munkavégzési önállóság szerepének ismerete.
+A szakmai problémamegoldás képességének kialakítási ismerete.
+A minőségi munkavégzés és önellenőrző felelősségvállalás képességének formálási ismeretei.
+A szakmai problémamegoldás kreatív módszereinek ismerete, szükség esetén csapatmunkában.
+A szakmai és együttműködési önfejlődés nyitottságának ismeretei.
+A nevelés és személyes példamutatás jelentőségének és szerepének ismeretei.
+szakmai készségek:
+Köznyelvi beszédkészség.
+Mennyiségérzék.
+Szakmai nyelvű beszédkészség.
+Olvasott szakmai szöveg megértése.
+Elemi számolási készség.
+Tervezési készség a feladatok megtervezéséhez, illesztéséhez.
+Tervezési készség a szakmai gyakorlat megtervezéséhez.
+Tervezési készség az életpálya tervezéshez és életvezetéshez.
+Az élményközpontú gyakorlati képzés vezetésének készsége.
+Motivációs készség.
+
+A gyermek tanulásának segítése.
+A pedagógiai módszerek használata.
+Pedagógiai beszédkészség.
+A szakképzési eszközök használata.
+A gyakorlati képzés módszertana.
+Oktatási eszközök használata.
+A valós vállalkozási környezetben történő gyakorlati eszközhasználat.
+A munkáltató foglalkozások használatának készsége.
+A célorientált munkavégzés készsége.
+A feladatok erőforrás-takarékos végzésének készsége.
+Az önálló munkavégzés készsége.
+A szakmai problémamegoldás képességének kialakítási készsége.
+A minőségi munkavégzés készsége.
+A szakmai probléma-megoldási készsége.
+Fejlődési készség szakmai és együttműködés területein.
+A személyes példamutatás készsége.
+Személyes kompetenciák:
+Empátia.
+Pozitív elvárások attitűdje.
+Pozitív jövőkép kialakításának képessége.
+Példamutatás a szakmai rutin területén.
+Példamutatás a célorientált munkavégzés területén.
+Példamutatás a szakmai problémamegoldás területén.
+Példamutatás a minőségi munkavégzés területén.
+Példamutatás a szakmai és együttműködési önfejlődés területén.
+Társas kompetenciák:
+Kommunikációs nyitottság.
+Együttműködési képesség.
+Módszerkompetenciák:
+Történeti áttekintő képesség.
+Módszertani strukturálás képessége.
+A szakmai gyakorlat pedagógiai megtervezésének képessége.
+Az élményközpontú gyakorlati képzés megvalósításának képessége.
+A pedagógiai eszközök tudatos használatának képessége a tanulóképzésben.
+A célorientált munkavégzés elsajátíttatásának képessége.
+A hatékonyság és erőforrás-takarékosság elsajátíttatásának képessége.
+A munkavégzési önállóság elsajátíttatásának képessége.
+A szakmai problémamegoldás elsajátíttatásának képessége.
+A minőségi munkavégzés elsajátíttatásának képessége.
+A szakmai és együttműködési önfejlődés elsajátíttatásának képessége.
+A nevelés és személyes példamutatás képessége.
+A szakmai követelménymodul azonosítója és megnevezése:
+002-11-1 Vállalkozási ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Jogi ismeretek:
+Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével, amely alapján képes elvégezni az
+alábbi feladatokat:
+Ellátja a vállalkozások alapításával kapcsolatos általános feladatokat.
+Intézi a működési engedélyek beszerzését.
+Jogi tanácsadást igényel, konkrét igényt fogalmaz meg.
+Ellátja a vállalkozások megszűnésével kapcsolatos általános feladatokat.
+
+Jogi felügyelettel munkajogi szerződéseket készít, ellenőriz.
+Jogi felügyelettel vállalkozói szerződéseket készít, ellenőriz.
+Figyelemmel kíséri a jogszabályi változásokat.
+Marketing ismeretek:
+Tisztában van a vállalkozások piaci környezetével és ezek hatásaival. Ennek alapján az alábbi feladatokat képes
+elvégezni:
+Üzleti tervet készít.
+Elvégzi a saját iparágának bemutatását és elemzését.
+Meghatározza és kidolgozza a marketing-mix elemeit.
+PR- és kommunikációs tevékenységet végez.
+Adó-TB-pénzügyi-számviteli ismeretek:
+Ismeri az alapvető adó- és pénzügyi szabályokat, valamint a gazdaság működési elvét. Ennek alapján az alábbi
+feladatokat képes elvégezni:
+Kitölti az adónyomtatványokat.
+Főbb vonalakban ismeri az egyes adó- és kamatszámítási módszereket.
+Ismeri a vállalkozások éves beszámolójának főbb egységeit és ezek lényeges elemeit, valamint ezen adatokból
+tájékozódni tud és következtetéseket von le.
+Kialakítja és működteti a vállalkozás szervezetét.
+Pénzügyi tervet készít.
+Rezsióradíjat számol.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Jogi ismeretek:
+A gazdálkodás, vállalkozás fogalma, jellemzői.
+Egyéni vállalkozás.
+Egyéni cég.
+Gazdasági társaságok csoportosítása.
+Gazdasági társaságok működésének szabályai.
+Vállalkozási formák közötti választás szempontjai.
+Vállalkozások átalakítása és megszüntetése.
+Kötelmi jog elemei.
+Marketing ismeretek:
+A vállalkozás makro-és mikrokörnyezete.
+Piacgazdaság, piac.
+A vállalkozások erőforrásai.
+A vállalkozások reálszférája.
+A vállalkozás személyi feltételei.
+A vállalkozás beindításának alapfeltételei.
+Az elképzelés, az ötlet próbája.
+A vállalkozás beindításához szükséges eszközök listájának összeállítása és a munkaerő- szükséglet felmérése.
+A vállalkozás székhelyének, telephelyének megválasztása, belső kialakítása.
+Kommunikáció és információátvitel.
+Adó-TB-pénzügyi-számviteli ismeretek:
+A vállalkozás finanszírozása, pénzügyi terv készítése.
+A munkaviszony létrehozásával és megszüntetésével kapcsolatos feladatok.
+Számviteli rendszer kialakítása.
+A vállalkozás felelősségi rendszere.
+Az üzleti terv készítésének esetei és célközönsége.
+Az üzleti terv felépítése és részei.
+A vállalkozások beszámolási kötelezettségei.
+A mérleg és eredménykimutatás szerepe, tartalma.
+A vállalkozás belső és külső finanszírozási forrásai, a vállalkozás fizetőképessége.
+
+Hitelezés és támogatás.
+Biztosítás, áru- és vagyonvédelem az üzleti életben.
+Adózás és társadalombiztosítás.
+A munkaszervezés alapjai.
+Az ellenőrzés alapelvei.
+szakmai készségek:
+Olvasott köznyelvi szöveg megértése.
+Köznyelvi szöveg fogalmazása írásban.
+Kézírás.
+Köznyelvi szöveg hallás utáni megértése.
+Köznyelvi beszédkészség.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvi íráskészség, fogalmazás.
+Szakmai nyelvű hallott szöveg megértése.
+Szakmai nyelvű beszédkészség.
+Telefonálási technikák.
+Számítástechnikai ismeretek.
+Személyes kompetenciák:
+Tisztesség, felelősségtudat.
+Megbízhatóság.
+Döntésképesség.
+Fejlődőképesség, önfejlesztés.
+Szervezőkészség.
+Önállóság.
+Kitartás.
+Rugalmasság.
+Elhivatottság, elkötelezettség.
+Kockázatvállalás.
+Társas kompetenciák:
+Kapcsolatteremtő készség.
+Határozottság.
+Kommunikációs készség.
+Konfliktusmegoldó képesség.
+Irányítási készség.
+Kompromisszum készség.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Tervezés.
+Áttekintő és rendszerező képesség.
+Kreativitás, ötletgazdagság.
+Új ötletek, megoldások kipróbálása.
+Nyitott hozzáállás.
+Eredményorientáltság.
+Hibakeresés.
+A szakmai követelménymodul azonosítója és megnevezése:
+015-09 Szépségszalon működtetése
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Megválasztja a vállalkozás formáját.
+Kiválasztja a vállalkozás helyszínét.
+Elkészíti és beszerzi a vállalkozás folytatásához szükséges engedélyeket, dokumentációt, nyomtatványokat.
+Elkészíti az üzleti tervet.
+Kialakítja a biztonságos munkavégzés feltételeit.
+
+Biztosítja a szolgáltatáshoz szükséges személyi és tárgyi feltételek meglétét a működési engedély kiadásakor és
+a szolgáltatás működése során folyamatosan.
+Figyelemmel kíséri a jogszabályváltozásokat, a pályázati és továbbképzési lehetőségeket.
+Marketing és PR-tevékenységet folytat.
+Elvégzi a szükséges pénzforgalmi és adminisztrációs műveleteket.
+Előkészíti a munkájához szükséges anyagokat, eszközöket.
+Ellenőrzi a gépek üzemképes állapotát.
+Előkészíti a védőeszközöket, -felszerelést.
+Előkészíti a napi dokumentációt.
+Leltárt készít.
+Feltölti a készleteket.
+Tisztítja és fertőtleníti, sterilizálja az eszközöket, gépeket, munkafelületet.
+Karbantartja az eszközöket, gépeket.
+A felhasznált textíliát fertőtleníti, mossa, vasalja.
+Kitakarítja az üzletet a takarítási szabályzat alapján.
+Gondoskodik a veszélyes anyagok tárolásáról és elszállításáról.
+Elkülönítetten gyűjti a hulladékot.
+Ismeri a kozmetikai termékekről, a kozmetikai termékek biztonságosságáról, gyártási, forgalmazási feltételeiről
+és közegészségügyi ellenőrzésről szóló jogszabályokban foglaltakat.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Vállalkozási formák.
+Piackutatás alapjai.
+Pénzügy alapjai.
+Számvitel alapjai.
+Anyag- és eszközgazdálkodás szabályai.
+Tevékenységi kör tárgyi feltételei.
+Biztonságos munkavégzés feltételei.
+Villamosság-biztonságtechnika alapjai.
+Balesetvédelem.
+Tűzvédelem.
+Közegészségügy.
+Veszélyes hulladék kezelése.
+Kommunikáció alapjai.
+Pszichológiai kultúra.
+Etika alapjai.
+Szolgáltatásetika.
+Szolgáltatás engedélyeztetéséhez és a folyamatos működés fenntartásához szükséges szabályok.
+Fogyasztóvédelmi szabályok.
+szakmai készségek:
+Elemi szintű számítógép-használat.
+Olvasott szöveg megértése.
+Fogalmazás írásban.
+Kézírás.
+Köznyelvi szöveg hallás utáni megértése.
+Köznyelvi beszédkészség.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvezetű íráskészség, fogalmazás. írásban.
+Szakmai nyelvű hallott szöveg megértése.
+Szakmai nyelvű beszédkészség.
+Elemi számolási készség.
+Személyes kompetenciák:
+Precizitás.
+Döntésképesség.
+
+Szervezőkészség.
+Önállóság.
+Fejlődőképesség, önfejlesztés.
+Társas kompetenciák:
+Kapcsolatteremtő készség.
+Kapcsolatfenntartó készség.
+Határozottság.
+Módszerkompetenciák:
+Ismeretek helyén való alkalmazása.
+Információgyűjtés.
+Logikus gondolkodás.
+Gyakorlatias feladatértelmezés.
+A szakmai követelménymodul azonosítója és megnevezése:
+070-09 Lábápoló mester feladatai
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Fogadja a vendéget és konzultál a kívánt szolgáltatásról empatikus, segítőkész viselkedéssel.
+Előkészíti a vizsgálandó felületet.
+Diagnosztizál kikérdezéssel, tapintással, megfigyeléssel.
+Meggyőződik arról, hogy nincs a szolgáltatást kizáró körülmény.
+A diagnosztizálás és a konzultálás eredményének megfelelően megtervezi a szolgáltatást.
+Előkészíti a kezelést a tervezett munkafolyamat szerint.
+Tisztítja a kezelendő felületet.
+Elvégzi a fertőtlenítési műveleteket a feladatnak megfelelő fertőtlenítővel.
+A lábnak és a kézi lábápolásnak megfelelően megtervezi a munkafolyamatot, a sorrendet, az alkalmazott
+anyagokat.
+Kiválasztja a szakszerű, speciális kézi eszközöket.
+A biztonsági szabályoknak megfelelően elvégzi a kézi lábápolás folyamatát.
+A lábnak és a gépi lábápolásnak megfelelően megtervezi a munkafolyamatot, a sorrendet, az alkalmazott
+anyagokat.
+Kiválasztja a szakszerű, speciális gépi eszközöket, frézereket.
+A biztonsági szabályoknak megfelelően elvégzi a gépi lábápolás folyamatát.
+A lábnak és a kombinált lábápolásnak megfelelően megtervezi a munkafolyamatot, a sorrendet, az alkalmazott
+anyagokat.
+Kiválasztja a szakszerű, speciális kézi és gépi eszközöket.
+A biztonsági szabályoknak megfelelően elvégzi a kombinált lábápolás folyamatát.
+Eltávolítja a tyúkszemet.
+Eltávolítja a körömsarok-benövést a biztonsági fogás alkalmazásával.
+A kezelés során használt eszközöket sterilizálja.
+Szabályozza a körömsarok növését a tanult technikák alkalmazásával.
+B/S-spangéval történő kezeléshez speciális módon előkészíti a körömlemezt.
+Szakszerűen felhelyezi a körömszabályozót.
+Elvégzi a speciális befejező műveleteket.
+Tehermentesítőket alkalmaz.
+Kiválasztja a problémának megfelelő tehermentesítőt.
+Szakszerűen felhelyezi a tehermentesítőt.
+Felvilágosítást ad a tehermentesítő előnyéről, viselési tényezőiről, anyagi vonzatáról.
+Paraffinos ápolást végez lábon, annak speciális eszközeivel és anyagaival.
+SPA-kezelést végez lábon.
+Masszírozást végez lábon.
+Elvégzi a természetes köröm díszítését lábon.
+Természetes anyagú bőrdíszítést végez lábon.
+Körömkorrekciót végez műköröm anyaggal, lábon.
+A problémának megfelelően megtervezi a folyamatot.
+Előkészíti a korrekciós építést a feladat szerint.
+
+Elvégzi az építést pedizselével vagy más, a problémának megfelelő anyaggal.
+Tanácsot ad a láb házi ápolására és más szolgáltatást is ajánl.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Szolgáltatási alapismeretek.
+Kommunikációs alapismeretek.
+Szolgáltatásetika.
+Test felépítésének általános jellemzése.
+Sejtek, alapszövetek általános jellemzői.
+Keringés szervrendszere.
+Mozgás szervrendszer általános jellemzése.
+Csontok, ízületek, izmok általános jellemzése.
+Alsó végtag általános jellemzése.
+Láb anatómiája: lábcsontjai, ízületei, izmai.
+Láb boltozatos szerkezete.
+Láb ortopédiai elváltozásai és okai.
+Láb egyéb betegségei.
+Bőr felépítése és élettana.
+Bőr funkciói.
+Köröm felépítése és élettana.
+Bőrelemi elváltozásai.
+Köröm elváltozásai.
+Deformált növésű körmök.
+Bőr betegségei.
+Köröm betegségei.
+Ortopédiai elváltozások okozta bőrtünetek.
+Bőrápolási módok, technológiái.
+Lábápolást kizáró és befolyásoló tényezők.
+Lábápolás biztonsági szabályai.
+Bőrtípusok meghatározása a lábápolás szempontjából.
+Lábápolás ajánlott menete, a lépéssorrend szempontjai.
+Lábápolási módszerek.
+Gépi lábápolás technológiája.
+Kombinált lábápolás technológiája.
+Különböző bőrkérgesedések kezelése.
+Körömsarok-benövés kezelése.
+Tehermentesítők és használatuk.
+Lábápoló eszközök karbantartása.
+Lábra építhető műköröm alapismeretei és technológiái.
+Műköröm díszítési módjai.
+Műköröm-eltávolítás módjai.
+Sterilizálási alapismeretek.
+Műköröm alapanyagok.
+Egyéb segédanyagok.
+Díszítéshez használt anyagok és díszítő elemek.
+Hatóanyagok és vivőszereik szerepe és alkalmazásának lehetőségei.
+szakmai készségek:
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvezetű íráskészség, fogalmazás.
+Szakmai nyelvű hallott szövegmegértése.
+Szakmai nyelvű beszédkészség.
+Idegen nyelvű olvasott szöveg megértése.
+Idegen nyelvű beszédkészség.
+Telefonálás idegen nyelven.
+Lábápoló kéziszerszámok használata.
+
+Műkörömépítő eszközök és gépek használata.
+Lábápoló eszközök és gépek használata.
+Személyes kompetenciák:
+Felelősségtudat.
+Stabil kéztartás.
+Önállóság.
+Tapintás.
+Szervezőkészség.
+Állóképesség.
+Fejlődőképesség, önfejlesztés.
+Kézügyesség.
+Külső megjelenés.
+Elhivatottság, elkötelezettség.
+Pontosság.
+Társas kompetenciák:
+Határozottság.
+Konfliktuskerülő készség.
+Udvariasság.
+Tolerancia.
+Irányítási készség.
+Módszerkompetenciák:
+A környezet tisztántartása.
+Körültekintés, elővigyázatosság.
+Kreativitás, ötletgazdagság.
+Tervezési képesség.
+Információgyűjtés.
+Lényegfelismerés.
+Ismeretek helyén való alkalmazása.
+IV. Mestervizsgáztatási követelmények
+1. A mestervizsgára bocsátás feltételei
+A mestervizsgára bocsátásnak az „I. A lábápoló mestervizsgára jelentkezés feltételei” alcímben leírtakon kívül
+nincs más feltétele.
+2. A mestervizsga vizsgatevékenységei és vizsgafeladatai
+Gyakorlati vizsgatevékenység
+Vizsgatevékenység ismertetése:
+A gyakorlati vizsga során a mesterjelöltnek négy részfeladatból álló, magas fokú szakmai tudást igénylő
+lábápolási vizsgafeladatokat kell teljesítenie.
+A vizsgafeladat megnevezése:
+A) Kézi lábápolás
+Vizsgafeladat ismertetése:
+A teljes lábápolási folyamat elvégzése mindkét lábon, legalább három speciális probléma megoldásával,
+indokolással, kéziszerszámokkal, a szükséges korrekció és tehermentesítő alkalmazásával.
+Vizsgafeladat időtartama:90 perc
+Vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+B) Gépi lábápolás
+Vizsgafeladat ismertetése:
+A teljes lábápolási folyamat elvégzése mindkét lábon, legalább három speciális probléma megoldásával,
+indoklással, gépi pedikűr elvégzéséve1, a szükséges korrekció és tehermentesítő alkalmazásával.
+
+Vizsgafeladat időtartama: 90 perc
+Vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+C) Kombinált lábápolás
+Vizsgafeladat ismertetése:
+A teljes lábápolási folyamat elvégzése mindkét lábon, legalább három speciális probléma megoldásával,
+indokolással, kombinált pedikűr elvégzésével, a szükséges korrekció és tehermentesítő alkalmazásával.
+Vizsgafeladat időtartama: 90 perc
+Vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+D) Kombinált lábápolás díszítéssel
+Vizsgafeladat ismertetése:
+A teljes lábápolási folyamat elvégzése mindkét lábon, speciális probléma megoldásával, indokolással,
+kombinált pedikűr elvégzésével, a szükséges korrekció alkalmazásával, estélyre, esküvőre alkalmas díszítéssel.
+Vizsgafeladat időtartama: 90 perc
+Vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+Írásbeli vizsgatevékenység
+Vizsgafeladat megnevezése: Komplex írásbeli feladat
+Vizsgafeladat ismertetése:
+Az anyagbeszerzés, eszközgazdálkodás, dokumentációs ismeretek munka-, egészség-, és környezetvédelmi,
+gazdálkodási és szakmai feladatok, valamint szolgáltatás-előkészítési feladatok témákban.
+Vizsgafeladat időtartam: 40 perc
+A vizsgarész egyes feladatainak értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+Szóbeli vizsgatevékenység
+Vizsgatevékenység megnevezése: Komplex szóbeli feladat
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsgakérdései a következő témaköröket
+tartalmazza:
+A) A szolgáltatást megalapozó anatómiai, élettani, anyag felhasználási, technológiai, valamint szépségszalon
+működtetési ismeretek
+Vizsgafeladat időtartama: 45 perc, amelyből felkészülési idő 25 perc, a válaszadási idő 20 perc
+Vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+B) A vizsgafeladat megnevezése: Pedagógiai ismeretek
+A vizsgafeladat ismertetése:
+A gyakorlati munka tanulásához szükséges pszichológiai fogalmak, alapok.
+A szakmai gyakorlat tanítás-tanulási folyamatának jellemzői.
+A szakmai gyakorlat, mint munkavégzés általi tanulás módszertani feladatai.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő: 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+C) A vizsgafeladat megnevezése: Vállalkozási ismeretek
+A vizsgafeladat ismertetése:
+Jogi ismeretek.
+Marketing ismeretek.
+Adó-TB-pénzügyi-számviteli ismeretek
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő: 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+3. A mestervizsga értékelése
+A jelölt mestervizsgája Megfelelt minősítésű, ha minden vizsgatevékenység esetében Megfelelt minősítést
+szerzett.
+Sikertelen a mestervizsga, ha a vizsgázó egy vagy több vizsgatevékenység esetében Nem felelt meg minősítést
+szerzett.
+A jelöltnek javítóvizsgát abból a vizsgafeladatból kell tennie, amely esetében Nem felelt meg minősítést
+szerzett.
+
+4. A mestervizsga egyes részei alóli felmentés feltételei
+A Magyar Kereskedelmi és Iparkamara egységes szerkezetbe foglalt Mestervizsga Szabályzata szerinti eljárás
+keretében felmentés adható a Pedagógiai és vállalkozási ismeretek megnevezésű részvizsga alól annak, aki
+felsőfokú szakirányú végzettséggel rendelkezik vagy két éven belül más mesterképesítésből sikeres
+mestervizsgát tett.
+A mestervizsga követelményekben nem szabályozott kérdésekben a Magyar Kereskedelmi és Iparkamara
+Mesterképzési és Mestervizsga Szabályzatában foglaltak az irányadók.
+V. Eszköz- és felszerelési jegyzék
+A B
+1.
+A képzési feladatok teljesítéséhez szükséges eszközök és
+felszerelések minimuma Lábápoló mester
+2. Körömkaparó X
+3. Véső X
+4. Szemző X
+5. Kör alakú lencse, ovális lencse X
+6. Tyúkszemkés, kis tyúkszemkés X
+7. Talpkés, sarokkés X
+8. Reszelő X
+9. Körömvágó és bőrvágó olló X
+10. Körömcsípő X
+11. Fenőkő X
+12. Fenőszíj, fenő filc X
+13. Textília X
+14. Bőrfeltoló, bőrfelkaparó X
+15. Gyémántporos fémreszelő X
+16. Áztatótál X
+17. Textília X
+18. A vizsgafeladatokban fellelhető, valamennyi műkörömépítési, díszítési,
+ápolási módhoz szükséges eszköz és anyag
+X
+19. Professzionális pedikűrgép X
+A vizsgatevékenységek sorrendje: gyakorlati, majd írásbeli, végül a szóbeli. Az írásbeli és a szóbeli egy napra
+tehető.”
+
+3. Az R2. 2. melléklete a következő 45–53. alcímekkel egészül ki:
+„45. KÁDÁR, BOGNÁR MESTERVIZSGA KÖVETELMÉNYEI
+I. A Kádár, bognár mestervizsgára jelentkezés feltételei
+1. A Kádár, bognár mestervizsgához szükséges szakképesítési feltételek
+A Kádár, bognár mestervizsgára jelentkezéshez az alábbi szakképesítések (szakmák), szakképzettségek
+egyikével kell rendelkeznie a mesterjelöltnek.
+A B
+1.1. A szakképesítés (szakma), szakképzettség
+1.2. megnevezése azonosító száma
+1.3. Kádár, bognár 32 543 02
+1.4. Faipari technikus 54 543 01
+1.5. Faipari mérnök BSc/MSc
+Megjegyzés: A mestervizsgához szükséges szakképesítési feltétel teljesítéséhez a Magyar Kereskedelmi és
+Iparkamara a vizsgára bocsátás feltételeinek vizsgálatakor egyenértékűként fogadhatja el a jogelőd, valamint
+jogutód szakképesítéseket (szakmákat), szakképzettségeket is.
+2. A Kádár, bognár mestervizsgára jelentkezéshez szükséges szakmai gyakorlat
+A szakma munkaterületén a szakirányú képesítés megszerzését követően az alábbiakban meghatározott
+szakmai gyakorlat igazolása szükséges.
+A B
+2.1. A szakmai gyakorlat
+2.2. szakiránya időtartama (év)
+2.3. Kádár, bognár 5
+2.4. Faipari technikus 5
+2.5. Faipari mérnök BSc/MSc 5
+Megjegyzés: A szakmai gyakorlat részidőkből is összeállhat, de az utolsó időszak nem lehet egy évnél rövidebb,
+és a vizsgára jelentkezés időpontjában az utolsó igazolt szakmai gyakorlat nem lehet egy évnél régebbi.
+A gyakorlati időbe nem számítható be a GYED, illetve a sor- vagy tartalékos katonai, valamint polgári szolgálat
+ideje.
+II. A Kádár, bognár mester munkaterülete, a mestercímhez kapcsolódó tevékenységek
+1. A Kádár, bognár mester munkaterületének leírása
+Előkészíti az üzleti tervet.
+Munka-, tűz- és környezetvédelmi előírásokat betart.
+Gyártási folyamatokat szervez és végez.
+Fedett vagy fedél nélküli kádat, tároló edényt, illetve alkatrészt készít.
+Kocsi alkatrészeket készít.
+Egyedi faipari termékeket tervez és készít.
+Összeállítja a termékek alkatrészeit gyártási dokumentációit.
+
+Terméket megrendelőnek átad.
+Rajzi és szöveges műszaki dokumentációkat készít és értelmez.
+Egyszerűbb célszerszámokat, készülékeket megtervez, kivitelez.
+Szerszámokat a működtető gépekre felszerel, beállít, kipróbál.
+Vállalkozói műszaki adminisztrációt végez.
+Minőségbiztosítási feladatokat lát el.
+Szervezi és irányítja a munkatevékenységet.
+Szervezi és irányítja a hozzá beosztott dolgozók és tanulók tevékenységét.
+Munkáját megfelelő költségszemlélettel végzi.
+2. A Kádár, bognár mesterképesítéssel rokon mesterképesítések
+A
+2.1. A Kádár, bognár mesterképesítéssel rokon mesterképesítés(ek) megnevezése
+2.2. –
+III. Szakmai követelmények
+A szakmai követelménymodulok felsorolása:
+A B
+1. A Kádár, bognár megnevezésű mesterképesítés szakmai követelménymoduljainak
+2. azonosítója megnevezése
+3. 001-11-1 Pedagógiai ismeretek
+4. 002-11-1 Vállalkozási ismeretek
+5. 190-14 Megmunkáló gépek kezelése karbantartása, biztonságos munkavégzés
+6. 191-14 Gyártási és műszaki dokumentációk, árkalkuláció készítése
+7. 192-14 Bognáripari mesterfeladatok
+8. 193-14 Kádáripari mesterfeladatok
+A szakmai követelménymodul azonosítója és megnevezése:
+001-11-1 Pedagógiai ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Ismeri és tudatosan kezeli a gyermek fejlődési fázisait, megismerési és kommunikációs szerepeit a
+tanulóképzésben.
+Ismeri és alkalmazza a szakképzésen belül a gyakorlati képzés pedagógiai sajátosságait.
+A pedagógiai célokat és azok eléréshez szükséges feladatrendszert egymáshoz illeszti, megtervezi a szakmai
+gyakorlat pedagógiai folyamatát.
+Kezeli a mai kor értékeit, értékválságát és a mai kor társadalmi értékeit.
+Ismeri a pozitív jövőképpel rendelkező életpályát, a proaktív életvezetés pedagógiai sajátosságait.
+Megvalósítja az élményközpontú gyakorlati képzést és a pozitív, negatív visszacsatolások motivációját.
+Ismeri és tudatosan használja a pedagógiai eszközöket a gyakorlati munkában és a tanulóképzésben.
+Tudatosan használja a munkáltató foglalkozásokat a tanulóképzésben.
+Megvalósítja a célorientált munkavégzésre törekvést.
+Megvalósítja a hatékony és erőforrás-takarékos feladatvégzést.
+Megvalósítja a munkavégzési önállóságot.
+Kialakítja a szakmai problémamegoldás képességét.
+Formálja a minőségi munkavégzés és az önellenőrző felelősségvállalás képességét.
+Kreatívan megvalósítja a szakmai problémamegoldást, szükség esetén csapatmunkában.
+Képes a szakmai és együttműködési önfejlődésre.
+Tudatosan kezeli a nevelés és személyes példamutatás jelentőségét és szerepét.
+
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+A gyermek fejlődési fázisainak, megismerési és kommunikációs szerepeinek tudatos kezelésének ismerete a
+tanulóképzésben.
+A szakképzésen belül a gyakorlati képzés pedagógiai sajátosságainak ismerete és alkalmazása.
+A pedagógiai célok és azok eléréshez szükséges feladatrendszer illesztésének ismerete.
+A szakmai gyakorlat pedagógiai folyamatának megtervezési ismerete.
+A mai kor értékei, értékválsága, és a mai kor társadalmi értékeinek ismerete.
+A pozitív jövőképpel rendelkező életpálya, a proaktív életvezetés pedagógiai sajátosságainak ismerete.
+Az élményközpontú gyakorlati képzés és a pozitív, negatív visszacsatolások motivációs megvalósításának
+ismerete.
+A pedagógiai eszközök és tudatos használatuk ismerete a gyakorlati munkában és a tanulóképzésben.
+A munkáltató foglalkozások tudatos használatának ismerete a tanulóképzésben.
+A célorientált munkavégzésre törekvés szerepének ismerete.
+A hatékony és erőforrás-takarékos feladatvégzés szerepének ismerete.
+A munkavégzési önállóság szerepének ismerete.
+A szakmai problémamegoldás képességének kialakítási ismerete.
+A minőségi munkavégzés és önellenőrző felelősségvállalás képességének formálási ismeretei.
+A szakmai problémamegoldás kreatív módszereinek ismerete, szükség esetén csapatmunkában.
+A szakmai és együttműködési önfejlődés nyitottságának ismeretei.
+A nevelés és személyes példamutatás jelentőségének és szerepének ismeretei.
+szakmai készségek:
+Köznyelvi beszédkészség.
+Mennyiségérzék.
+Szakmai nyelvű beszédkészség.
+Olvasott szakmai szöveg megértése.
+Elemi számolási készség.
+Tervezési készség a feladatok megtervezéséhez, illesztéséhez.
+Tervezési készség a szakmai gyakorlat megtervezéséhez.
+Tervezési készség az életpálya tervezéshez és életvezetéshez.
+Az élményközpontú gyakorlati képzés vezetésének készsége.
+Motivációs készség.
+A gyermek tanulásának segítése.
+A pedagógiai módszerek használata.
+Pedagógiai beszédkészség.
+A szakképzési eszközök használata.
+A gyakorlati képzés módszertana.
+Oktatási eszközök használata.
+A valós vállalkozási környezetben történő gyakorlati eszközhasználat.
+A munkáltató foglalkozások használatának készsége.
+A célorientált munkavégzés készsége.
+A feladatok erőforrás-takarékos végzésének készsége.
+Az önálló munkavégzés készsége.
+A szakmai problémamegoldás képességének kialakítási készsége.
+A minőségi munkavégzés készsége.
+A szakmai probléma-megoldási készsége.
+Fejlődési készség szakmai és együttműködés területein.
+A személyes példamutatás készsége.
+Személyes kompetenciák:
+Empátia.
+Pozitív elvárások attitűdje.
+Pozitív jövőkép kialakításának képessége.
+Példamutatás a szakmai rutin területén.
+Példamutatás a célorientált munkavégzés területén.
+Példamutatás a szakmai problémamegoldás területén.
+
+Példamutatás a minőségi munkavégzés területén.
+Példamutatás a szakmai és együttműködési önfejlődés területén.
+Társas kompetenciák:
+Kommunikációs nyitottság.
+Együttműködési képesség.
+Módszerkompetenciák:
+Történeti áttekintő képesség.
+Módszertani strukturálás képessége.
+A szakmai gyakorlat pedagógiai megtervezésének képessége.
+Az élményközpontú gyakorlati képzés megvalósításának képessége.
+A pedagógiai eszközök tudatos használatának képessége a tanulóképzésben.
+A célorientált munkavégzés elsajátíttatásának képessége.
+A hatékonyság és az erőforrás-takarékosság elsajátíttatásának képessége.
+A munkavégzési önállóság elsajátíttatásának képessége.
+A szakmai problémamegoldás elsajátíttatásának képessége.
+A minőségi munkavégzés elsajátíttatásának képessége.
+A szakmai és együttműködési önfejlődés elsajátíttatásának képessége.
+A nevelés és személyes példamutatás képessége.
+A szakmai követelménymodul azonosítója és megnevezése:
+002-11-1 Vállalkozási ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Jogi ismeretek:
+Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével, amely alapján képes elvégezni az
+alábbi feladatokat:
+Elvállalja a vállalkozások alapításával kapcsolatos általános feladatokat.
+Intézi a működési engedélyek beszerzését.
+Jogi tanácsadást igényel, konkrét igényt fogalmaz meg.
+Ellátja a vállalkozások megszűnésével kapcsolatos általános feladatokat.
+Jogi felügyelettel munkajogi szerződéseket készít, ellenőriz.
+Jogi felügyelettel vállalkozói szerződéseket készít, ellenőriz.
+Figyelemmel kíséri a jogszabályi változásokat.
+Marketing ismeretek:
+Tisztában van a vállalkozások piaci környezetével és ezek hatásaival. Ennek alapján az alábbi feladatokat képes
+elvégezni:
+Üzleti tervet készít.
+Elvégzi a saját iparágának bemutatását és elemzését.
+Meghatározza és kidolgozza a marketing-mix elemeit.
+PR- és kommunikációs tevékenységet végez.
+Adó-TB-pénzügyi-számviteli ismeretek:
+Ismeri az alapvető adó- és pénzügyi szabályokat, valamint a gazdaság működési elveit. Ennek alapján az alábbi
+feladatokat képes elvégezni:
+Kitölti az adónyomtatványokat.
+Főbb vonalakban ismeri az egyes adó- és kamatszámítási módszereket.
+Ismeri a vállalkozások éves beszámolójának főbb egységeit és ezek lényeges elemeit, valamint ezen adatokból
+tájékozódni tud és következtetéseket von le.
+Kialakítja és működteti a vállalkozás szervezetét.
+Pénzügyi tervet készít.
+Rezsióradíjat számol.
+
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Jogi ismeretek:
+A gazdálkodás, vállalkozás fogalma, jellemzői.
+Egyéni vállalkozás.
+Egyéni cég.
+Gazdasági társaságok csoportosítása.
+Gazdasági társaságok működésének szabályai.
+Vállalkozási formák közötti választás szempontjai.
+Vállalkozások átalakítása és megszüntetése.
+Kötelmi jog elemei.
+Marketing ismeretek:
+A vállalkozás makro- és mikrokörnyezete.
+Piacgazdaság, piac.
+A vállalkozások erőforrásai.
+A vállalkozások reálszférája.
+A vállalkozás személyi feltételei.
+A vállalkozás beindításának alapfeltételei.
+Az elképzelés, az ötlet próbája.
+A vállalkozás beindításához szükséges eszközök listájának összeállítása és a munkaerő szükséglet felmérése.
+A vállalkozás székhelyének, telephelyének megválasztása, belső kialakítása.
+Kommunikáció és információátvitel.
+Adó-TB-pénzügyi-számviteli ismeretek:
+A vállalkozás finanszírozása, pénzügyi terv készítése.
+A munkaviszony létrehozásával és megszüntetésével kapcsolatos feladatok.
+Számviteli rendszer kialakítása.
+A vállalkozás felelősségi rendszere.
+Az üzleti terv készítésének esetei és célközönsége.
+Az üzleti terv felépítése és részei.
+A vállalkozások beszámolási kötelezettségei.
+A mérleg és eredménykimutatás szerepe, tartalma.
+A vállalkozás belső és külső finanszírozási forrásai, a vállalkozás fizetőképessége.
+Hitelezés és támogatás.
+Biztosítás, áru- és vagyonvédelem az üzleti életben.
+Adózás és társadalombiztosítás.
+A munkaszervezés alapjai.
+Az ellenőrzés alapelvei.
+szakmai készségek:
+Olvasott köznyelvi szöveg megértése.
+Köznyelvi szöveg fogalmazása írásban.
+Kézírás.
+Köznyelvi szöveg hallás utáni megértése.
+Köznyelvi beszédkészség.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvi íráskészség, fogalmazás.
+Szakmai nyelvű hallott szöveg megértése.
+Szakmai nyelvű beszédkészség.
+A telefonálás protokolljának ismerete.
+Számítástechnikai ismeretek.
+Személyes kompetenciák:
+Tisztesség, felelősségtudat.
+Megbízhatóság.
+Döntésképesség.
+
+Fejlődőképesség, önfejlesztés.
+Szervezőkészség.
+Önállóság.
+Kitartás.
+Rugalmasság.
+Elhivatottság, elkötelezettség.
+Kockázatvállalás.
+Társas kompetenciák:
+Kapcsolatteremtő készség.
+Határozottság.
+Kommunikációs készség.
+Konfliktusmegoldó képesség.
+Irányítási készség.
+Kompromisszum készség.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Tervezés.
+Áttekintő és rendszerező képesség.
+Kreativitás, ötletgazdagság.
+Új ötletek, megoldások kipróbálása.
+Nyitott hozzáállás.
+Eredményorientáltság.
+Hibakeresés.
+A szakmai követelménymodul azonosítója és megnevezése:
+190-14 Megmunkáló gépek kezelése karbantartása, biztonságos munkavégzés
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Betartja a munkavédelmi előírásokat.
+Betartja a biztonságtechnikai előírásokat.
+Betartja a tűzvédelmi előírásokat.
+Betartja a környezetvédelmi előírásokat.
+Gépeket berendezéseket beállít.
+Gépek, berendezések karbantartását tervezi.
+Gépeken szerszámokat cserél, beállít.
+Gyártmányokon méréseket végez.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Munkabiztonsági szabályok, jogszabályok.
+Munkavégzési szabályok.
+Munkáltatók és munkavállalók jogai és kötelességei.
+Elsősegélynyújtás.
+Tűzvédelem.
+Tűzoltó berendezések és eszközök feladatai.
+Érintésvédelmi szabályok, előírások.
+Környezetvédelem.
+Faipari hulladék kezelésének előírásai.
+Faipari termékek készítésének általános követelményei.
+A faipari munkavégzés feltételei.
+Géptani alapfogalmak.
+Kéziszerszámok, kézi kisgépek használatának módjai.
+Faipari alapgépek felépítése, szerszámai és beállítása.
+Faipari alapgépek kezelésének szabályai és biztonságtechnikai előírásai.
+Gépkönyv, kezelési, szerelési, karbantartási útmutatók használatának módja.
+
+szakmai készségek:
+Számítógép-használat.
+Számolási készség.
+Olvasott köznyelvi szöveg megértése.
+Rajz olvasása, értelmezése.
+Egyéni és csoportos munkavédelmi eszközök, berendezések használata.
+Személyes kompetenciák:
+Elhivatottság, elkötelezettség.
+Precizitás.
+Pontosság.
+Társas kompetenciák:
+Interperszonális rugalmasság.
+Segítőkészség.
+Módszerkompetenciák:
+Áttekintő képesség.
+Kreativitás, ötletgazdagság.
+A szakmai követelménymodul azonosítója és megnevezése:
+191-14 Gyártási és műszaki dokumentációk, árkalkuláció készítése
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Gyártási dokumentációkat készít.
+Műszaki és termékleírásokat készít.
+Árajánlatot készít és ad.
+Utólagos kalkulációt végez.
+Alapvető számításokat végez.
+Számlát állít ki.
+Anyagfelhasználást kalkulál.
+Gépek, berendezések gyártási idejét számolja.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Áfa szabályozások.
+Matematikai térfogatszámítások.
+Költségszámítások.
+Üzemi eredményszámítások.
+Garancia és termék szavatossági szabványok törvények.
+Gazdasági ismeretek.
+Növény egészségügyi szabványok.
+szakmai készségek:
+Információforrások kezelése.
+Olvasott köznyelvi szöveg megértése.
+Olvasott szakmai szöveg megértése.
+Köznyelvi beszédkészség.
+Rajz olvasása, értelmezése.
+Személyes kompetenciák:
+Felelősségtudat.
+Precizitás.
+Pontosság.
+
+Társas kompetenciák:
+Interperszonális rugalmasság.
+Fogalmazó készség.
+Módszerkompetenciák:
+Áttekintő képesség.
+Helyzetfelismerés.
+Rendszerben való gondolkodás.
+A szakmai követelménymodul azonosítója és megnevezése:
+192-14 Bognáripari mesterfeladatok
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Munkatervet készít.
+Anyagokat szerez be.
+Minőség-ellenőrző tevékenységet végez.
+Munkafelmérést végez.
+Javítási tervet készít.
+Megvalósíthatósági tanulmányt készít.
+Elkészíti a kocsi alváz-alkatrészeit.
+Elkészíti a kerékalkatrészeket.
+Elkészíti a kocsi felépítmény alkatrészeit.
+Elvégzi a kerékagy perselyezését.
+Elkészíti a lovas szán alkatrészeit.
+Elkészíti a kerítés és kapu elemeit.
+Összeállítja a kocsit.
+Összeállítja a kapu és kerítéselemeket.
+Összeállítja a lovas szánt.
+Elvégzi a befejező műveleteket.
+Fölszereli a termékre a vasalatokat.
+Felméri az elvégzendő munkát.
+Előkészíti a javítást.
+Elkészíti a szerszámnyelet.
+Elvégzi a szerszám nyelezését.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Eszköz és termék rajzok készítésének módjai.
+Költségszámítási feladatok.
+Faipari hulladék kezelésének előírásai.
+Faipari termékek készítésének általános követelményei.
+A faipari munkavégzés feltételei.
+Géptani alapfogalmak.
+Kéziszerszámok, kézi kisgépek használatának módjai.
+Faipari alapgépek felépítése, szerszámai és beállítása.
+Faipari alapgépek kezelésének szabályai és biztonságtechnikai előírásai.
+Gépkönyv, kezelési, szerelési, karbantartási útmutatók használatának módja.
+szakmai készségek:
+Számolási készség.
+Rajz olvasása, értelmezése.
+Faipari alapgépek kezelése.
+Kéziszerszámok, kézi kisgépek használata.
+
+Személyes kompetenciák:
+Elhivatottság, elkötelezettség.
+Precizitás.
+Pontosság.
+Társas kompetenciák:
+Interperszonális rugalmasság.
+Segítőkészség.
+Módszerkompetenciák:
+Áttekintő képesség.
+Kreativitás ötletgazdagság.
+A szakmai követelménymodul azonosítója és megnevezése:
+193-14 Kádáripari mesterfeladatok
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Munkatervet készít.
+Anyagokat szerez be.
+Minőség-ellenőrző tevékenységet végez.
+Munkafelmérést végez.
+Javítási tervet készít.
+Megvalósíthatósági tanulmányt készít.
+Szalagfűrészt használ.
+Dongavég és méretre vágás kialakítási feladatokat végez.
+Donga felszín kialakítási feladatokat végez.
+Donga oldalfelület kialakítási feladatokat végez.
+Pörkölési feladatokat végez.
+Összeállítást végez.
+Esztergát használ.
+Fém vágási és szegecselési műveleteket végez.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Szakrajzok készítésének módjai.
+Költségszámítási feladatok.
+Faipari hulladék kezelésének előírásai.
+Faipari termékek készítésének általános követelményei.
+A faipari munkavégzés feltételei.
+Fém megmunkálási alapok.
+Géptani alapfogalmak.
+Kéziszerszámok, kézi kisgépek használatának módjai.
+Faipari alapgépek felépítése, szerszámai és beállítása.
+Faipari alapgépek kezelésének szabályai és biztonságtechnikai előírásai.
+Gépkönyv, kezelési, szerelési, karbantartási útmutatók használatának módja.
+szakmai készségek:
+Számolási készség.
+Olvasott szakmai szöveg megértése.
+Rajz olvasása, értelmezése.
+Kéziszerszámok, kézi kisgépek használata.
+Faipari alapgépek kezelése.
+Személyes kompetenciák:
+Elhivatottság, elkötelezettség.
+Precizitás.
+Pontosság.
+
+Társas kompetenciák:
+Interperszonális rugalmasság.
+Segítőkészség.
+Módszerkompetenciák:
+Áttekintő képesség.
+Kreativitás, ötletgazdagság.
+IV. Mestervizsgáztatási követelmények
+1. A mestervizsgára bocsátás feltételei
+A) A Mestervizsga-bizottsággal előzetesen egyeztetett vizsgaremek elkészítése, meghatározott technológiával,
+eszközökkel.
+A vizsgaremek értékelése: 0-90% Nem felelt meg, 91-100% Megfelelt
+B) A gyártási technológiai dokumentáció mesterdolgozatból, költségvetés-készítési feladatból, számítási
+feladatokból és technológiai, műszaki leírásból áll, melyet a vizsgázó a vizsgaremekkel szorosan összhangban
+készít el. A mesterdolgozatnak minimum 10, maximum 20 gépelt oldalnak kell lennie, amelyet 12-es
+betűmérettel, 1,5-ös sortávolsággal, Times New Roman betűtípussal, sorkizárással kell elkészíteni. Ezen felül
+csatolhatók fényképek, ábrák, egyéb mellékeltek. A mesterdolgozatot 2 példányban, számítógéppel megírva,
+összefűzve, CD-n mellékelve kell leadni. Leadási határidő: a mestervizsga megkezdése előtt legalább 15
+nappal.
+A mesterdolgozat értékelése: 0-80% Nem felelt meg, 81-100% Megfelelt
+2. A mestervizsga vizsgatevékenységei és vizsgafeladatai
+Gyakorlati vizsgatevékenység
+A vizsgafeladat megnevezése: Kádár vagy bognáripari termék vagy alkatrész készítése
+A vizsgafeladat ismertetése: Kiadott műszaki dokumentáció alapján termék vagy alkatrész legyártása, a
+gyártási sorrend megtervezése.
+A vizsgafeladat időtartama: 480 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg, 81-100% Megfelelt
+Írásbeli vizsgatevékenység
+A vizsgafeladat megnevezése: Kádár vagy bognáripari termék, gyártástechnológiai leírása költségkalkuláció
+készítése
+A vizsgafeladat ismertetése: Kiadott gyártmány rajz, valamint szöveges instrukciók alapján a technológiai
+sorrend meghatározása, műveletek meghatározása a minőségi és biztonsági szempontok figyelembevételével,
+majd egy költségkalkuláció készítése.
+A vizsgafeladat időtartama: 180 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg, 81-100% Megfelelt
+Szóbeli vizsgatevékenység
+A) A vizsgafeladat megnevezése: Megmunkáló gépek kezelése beállítása, biztonságos munkavégzés
+A vizsgafeladat ismertetése: A szóbeli vizsgatevékenység központilag összeállított kérdései a megmunkáló
+gépek kezelése, beállítása, a meghatározott technológiai műveleteknek megfelelően; a biztonságos
+munkavégzés megnevezésű szakmai követelménymodulhoz tartozó témaköröket tartalmazzák.
+A vizsgafeladat időtartama: 60 perc, amelyből a felkészülési idő 30 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg, 81-100% Megfelelt
+B) A vizsgafeladat megnevezése: Pedagógiai ismeretek
+A vizsgafeladat ismertetése:
+A gyakorlati munka tanulásához szükséges pszichológiai fogalmak, alapok.
+A szakmai gyakorlat tanítás-tanulási folyamatának jellemzői.
+
+A szakmai gyakorlat, mint munkavégzés általi tanulás módszertani feladatai.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg, 71-100% Megfelelt
+C) A vizsgafeladat megnevezése: Vállalkozási ismeretek.
+A vizsgafeladat ismertetése:
+Jogi ismeretek.
+Marketing ismeretek.
+Adó-TB-pénzügyi-számviteli ismeretek.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg, 71-100% Megfelelt
+3. A mestervizsga értékelése
+A jelölt mestervizsgája Megfelelt minősítésű, ha minden vizsgatevékenység esetében Megfelelt minősítést
+szerzett.
+Sikertelen a mestervizsga, ha a vizsgázó egy vagy több vizsgatevékenység esetében Nem felelt meg minősítést
+szerzett.
+A jelöltnek javítóvizsgát abból a vizsgafeladatból kell tennie, amely esetében Nem felelt meg minősítést
+szerzett.
+4. A mestervizsga egyes részei alóli felmentés feltételei
+A Magyar Kereskedelmi és Iparkamara egységes szerkezetbe foglalt Mestervizsga Szabályzata szerinti eljárás
+keretében felmentés adható a Pedagógiai és vállalkozási ismeretek megnevezésű részvizsga alól annak, aki
+felsőfokú szakirányú végzettséggel rendelkezik vagy két éven belül más mesterképesítésből sikeres
+mestervizsgát tett.
+A mestervizsga követelményekben nem szabályozott kérdésekben a Magyar Kereskedelmi és Iparkamara
+Mesterképzési és Mestervizsga Szabályzatában foglaltak az irányadók.
+V. Eszköz- és felszerelési jegyzék
+A B C
+1. A képzési feladatok teljesítéséhez szükséges eszközök és
+felszerelések minimuma
+Kádár, bognár mester
+2. kádár bognár
+3. Faipari kézi kisgépek X X
+4. Faipari alapgépek X X
+5. Mérőeszközök X X
+6. Kádáripari célgépek X
+7. Kádáripari kéziszerszámok, eszközök X
+8. Anyagmozgató gépek X X
+9. Élezőgépek X X
+10. Szárítóberendezések X X
+11. Számítógép X X
+12. Bognáripari célgépek X
+13. Bognáripari kéziszerszámok, eszközök X
+
+46. MAGASÉPÍTŐ MESTERVIZSGA KÖVETELMÉNYEI
+I. A magasépítő mestervizsgára jelentkezés feltételei
+1. A magasépítő mestervizsgához szükséges szakképesítési feltételek
+A magasépítő mestervizsgára jelentkezéshez az alábbi szakképesítések (szakmák), szakképzettségek egyikével
+kell rendelkeznie a mesterjelöltnek.
+A B
+1.1. A szakképesítés (szakma), szakképzettség
+1.2. megnevezése azonosító száma
+1.3. Magasépítő technikus 54 582 03
+1.4. Építész BSc
+1.5. Építész MSc osztatlan
+1.6. Építőmérnök BSc/MSc
+1.7. Építészmérnök BSc/MSc
+1.8. Építőmérnök BSc
+1.9. Építőmérnök MSc osztatlan
+Megjegyzés: A mestervizsgához szükséges szakképesítési feltétel teljesítéséhez a Magyar Kereskedelmi és
+Iparkamara a vizsgára bocsátás feltételeinek vizsgálatakor egyenértékűként fogadhatja el a jogelőd, valamint
+jogutód szakképesítéseket (szakmákat), szakképzettségeket is.
+2. A magasépítő mestervizsgára jelentkezéshez szükséges szakmai gyakorlat
+A szakma munkaterületén a szakirányú képesítés megszerzését követően az alábbiakban meghatározott
+szakmai gyakorlat igazolása szükséges.
+A B
+2.1. A szakmai gyakorlat
+2.2. szakiránya időtartama (év)
+2.3. Magasépítő technikus 5
+2.4. Építész BSc 3
+2.5. Építész MSc osztatlan 3
+2.6. Építőmérnök BSc/ MSc 3
+2.7. Építészmérnök BSc/ MSc 3
+2.8. Építőmérnök BSc 3
+2.9. Építőmérnök MSc osztatlan 3
+Megjegyzés: A szakmai gyakorlat részidőkből is összeállhat, de az utolsó időszak nem lehet egy évnél rövidebb,
+és a vizsgára jelentkezés időpontjában az utolsó igazolt szakmai gyakorlat nem lehet egy évnél régebbi.
+A gyakorlati időbe nem számítható be a GYED, illetve a sor- vagy tartalékos katonai, valamint polgári szolgálat
+ideje.
+
+II. A magasépítő mester munkaterülete, a mestercímhez kapcsolódó tevékenységek
+1. A magasépítő mester munkaterületének leírása
+Magasépítési vállalkozásban aktívan részt vesz.
+Műszaki terveket és dokumentációkat olvas és értelmez.
+Erőforrásokat osztályozza, szervezi, ezekkel gazdálkodik.
+Az építés jogi, hatósági, engedélyezési, tárgyi és műszaki feltételeit biztosítja.
+Az építést térben és időben organizálja.
+Hagyományos és korszerű magasépítési technológiákat alkalmazza.
+A közreműködők munkáját irányítja, koordinálja és ellenőrzi.
+Betartja és betartatja a munkavédelmi, tűzvédelmi, balesetvédelmi és környezetvédelmi előírásokat.
+A minőségbiztosítási és biztonságtechnikai elvárásokat, előírásokat betartja és betartatja.
+Alkalmazza a munkaterületéhez kapcsolódó szabványokat.
+Műszaki adminisztrációt végez és végeztet.
+A szakmai ismereteit fejleszti és átadja.
+A magasépítő mester munkakörében felelős műszaki vezető által végezhető tevékenységre csak az építésügyi
+és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendeletben foglaltaknak
+megfelelően, az ott rögzített feltételek teljesítése esetén jogosult.
+2. A magasépítő mesterképesítéssel rokon mesterképesítések
+A
+2.1. A magasépítő mesterképesítéssel rokon mesterképesítés(ek) megnevezése
+2.2. –
+III. Szakmai követelmények
+A szakmai követelménymodulok felsorolása:
+A B
+1. A magasépítő megnevezésű mesterképesítés szakmai követelménymoduljainak
+2. azonosítója megnevezése
+3. 001-11-1 Pedagógiai ismeretek
+4. 002-11-1 Vállalkozási ismeretek
+5. 194-14 Vállalkozásjogi, engedélyezési feladatok
+6. 195-14 Műszaki adminisztráció a terv átvételétől a műszaki átadásig
+7. 196-14 Időbeli és térbeli organizáció erőforrások bevonásával
+8. 197-14 Hagyományos és korszerű építési anyagok, technológiák alkalmazása
+9. 198-14 Munka-, tűz-, balesetvédelem, minőségirányítás
+A szakmai követelménymodul azonosítója és megnevezése:
+001-11-1 Pedagógiai ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Ismeri és tudatosan kezeli a gyermek fejlődési fázisait, megismerési és kommunikációs szerepeit a
+tanulóképzésben.
+Ismeri és alkalmazza a szakképzésen belül a gyakorlati képzés pedagógiai sajátosságait.
+A pedagógiai célokat és azok eléréshez szükséges feladatrendszert egymáshoz illeszti, megtervezi a szakmai
+gyakorlat pedagógiai folyamatát.
+Kezeli a mai kor értékeit, értékválságát, és a mai kor társadalmi értékeit.
+Ismeri a pozitív jövőképpel rendelkező életpályát, a proaktív életvezetés pedagógiai sajátosságait.
+Megvalósítja az élményközpontú gyakorlati képzést és a pozitív, negatív visszacsatolások motivációját.
+
+Ismeri és tudatosan használja a pedagógiai eszközöket a gyakorlati munkában és a tanulóképzésben.
+Tudatosan használja a munkáltató foglalkozásokat a tanulóképzésben.
+Megvalósítja a célorientált munkavégzésre törekvést.
+Megvalósítja a hatékony és erőforrás-takarékos feladatvégzést.
+Megvalósítja a munkavégzési önállóságot.
+Kialakítja a szakmai problémamegoldás képességét.
+Formálja a minőségi munkavégzés és az önellenőrző felelősségvállalás képességét.
+Kreatívan megvalósítja a szakmai problémamegoldást, szükség esetén csapatmunkában.
+Képes a szakmai és együttműködési önfejlődésre.
+Tudatosan kezeli a nevelés és személyes példamutatás jelentőségét és szerepét.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+A gyermek fejlődési fázisainak, megismerési és kommunikációs szerepeinek tudatos kezelésének ismerete a
+tanulóképzésben.
+A szakképzésen belül a gyakorlati képzés pedagógiai sajátosságainak ismerete és alkalmazása.
+A pedagógiai célok és azok eléréshez szükséges feladatrendszer illesztésének ismerete.
+A szakmai gyakorlat pedagógiai folyamatának megtervezési ismerete.
+A mai kor értékei, értékválsága és a mai kor társadalmi értékeinek ismerete.
+A pozitív jövőképpel rendelkező életpálya, a proaktív életvezetés pedagógiai sajátosságainak ismerete.
+Az élményközpontú gyakorlati képzés és a pozitív, negatív visszacsatolások motivációs megvalósításának
+ismerete.
+A pedagógiai eszközök és tudatos használatuk ismerete a gyakorlati munkában és a tanulóképzésben.
+A munkáltató foglalkozások tudatos használatának ismerete a tanulóképzésben.
+A célorientált munkavégzésre törekvés szerepének ismerete.
+A hatékony és erőforrás-takarékos feladatvégzés szerepének ismerete.
+A munkavégzési önállóság szerepének ismerete.
+A szakmai problémamegoldás képességének kialakítási ismerete.
+A minőségi munkavégzés és önellenőrző felelősségvállalás képességének formálási ismeretei.
+A szakmai problémamegoldás kreatív módszereinek ismerete, szükség esetén csapatmunkában.
+A szakmai és együttműködési önfejlődés nyitottságának ismeretei.
+A nevelés és személyes példamutatás jelentőségének és szerepének ismeretei.
+szakmai készségek:
+Köznyelvi beszédkészség.
+Mennyiségérzék.
+Szakmai nyelvű beszédkészség.
+Olvasott szakmai szöveg megértése.
+Elemi számolási készség.
+Tervezési készség a feladatok megtervezéséhez, illesztéséhez.
+Tervezési készség a szakmai gyakorlat megtervezéséhez.
+Tervezési készség az életpálya tervezéshez és életvezetéshez.
+Az élményközpontú gyakorlati képzés vezetésének készsége.
+Motivációs készség.
+A gyermek tanulásának segítése.
+A pedagógiai módszerek használata.
+Pedagógiai beszédkészség.
+A szakképzési eszközök használata.
+A gyakorlati képzés módszertana.
+Oktatási eszközök használata.
+A valós vállalkozási környezetben történő gyakorlati eszközhasználat.
+A munkáltató foglalkozások használatának készsége.
+A célorientált munkavégzés készsége.
+A feladatok erőforrás-takarékos végzésének készsége.
+Az önálló munkavégzés készsége.
+A szakmai problémamegoldás képességének kialakítási készsége.
+A minőségi munkavégzés készsége.
+
+A szakmai probléma-megoldási készsége.
+Fejlődési készség szakmai és együttműködés területein.
+A személyes példamutatás készsége.
+Személyes kompetenciák:
+Empátia.
+Pozitív elvárások attitűdje.
+Pozitív jövőkép kialakításának képessége.
+Példamutatás a szakmai rutin területén.
+Példamutatás a célorientált munkavégzés területén.
+Példamutatás a szakmai problémamegoldás területén.
+Példamutatás a minőségi munkavégzés területén.
+Példamutatás a szakmai és együttműködési önfejlődés területén.
+Társas kompetenciák:
+Kommunikációs nyitottság.
+Együttműködési képesség.
+Módszerkompetenciák:
+Történeti áttekintő képesség.
+Módszertani strukturálás képessége.
+A szakmai gyakorlat pedagógiai megtervezésének képessége.
+Az élményközpontú gyakorlati képzés megvalósításának képessége.
+A pedagógiai eszközök tudatos használatának képessége a tanulóképzésben.
+A célorientált munkavégzés elsajátíttatásának képessége.
+A hatékonyság és az erőforrás-takarékosság elsajátíttatásának képessége.
+A munkavégzési önállóság elsajátíttatásának képessége.
+A szakmai problémamegoldás elsajátíttatásának képessége.
+A minőségi munkavégzés elsajátíttatásának képessége.
+A szakmai és együttműködési önfejlődés elsajátíttatásának képessége.
+A nevelés és személyes példamutatás képessége.
+A szakmai követelménymodul azonosítója és megnevezése:
+002-11-1 Vállalkozási ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Jogi ismeretek:
+Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével, amely alapján képes elvégezni az
+alábbi feladatokat:
+Elvállalja a vállalkozások alapításával kapcsolatos általános feladatokat.
+Intézi a működési engedélyek beszerzését.
+Jogi tanácsadást igényel, konkrét igényt fogalmaz meg.
+Ellátja a vállalkozások megszűnésével kapcsolatos általános feladatokat.
+Jogi felügyelettel munkajogi szerződéseket készít, ellenőriz.
+Jogi felügyelettel vállalkozói szerződéseket készít, ellenőriz.
+Figyelemmel kíséri a jogszabály-változásokat.
+Marketing ismeretek:
+Tisztában van a vállalkozások piaci környezetével és ezek hatásaival. Ennek alapján az alábbi feladatokat képes
+elvégezni:
+Üzleti tervet készít.
+Elvégzi a saját iparágának bemutatását és elemzését.
+Meghatározza és kidolgozza a marketing-mix elemeit.
+PR- és kommunikációs tevékenységet végez.
+Adó-TB-pénzügyi-számviteli ismeretek:
+Ismeri az alapvető adó- és pénzügyi szabályokat, valamint a gazdaság működési elveit. Ennek alapján az alábbi
+feladatokat képes elvégezni:
+
+Kitölti az adónyomtatványokat.
+Főbb vonalakban ismeri az egyes adó- és kamatszámítási módszereket.
+Ismeri a vállalkozások éves beszámolójának főbb egységeit és ezek lényeges elemeit, valamint ezen adatokból
+tájékozódni tud és következtetéseket von le.
+Kialakítja és működteti a vállalkozás szervezetét.
+Pénzügyi tervet készít.
+Rezsióradíjat számol.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Jogi ismeretek:
+A gazdálkodás, vállalkozás fogalma, jellemzői.
+Egyéni vállalkozás.
+Egyéni cég.
+Gazdasági társaságok csoportosítása.
+Gazdasági társaságok működésének szabályai.
+Vállalkozási formák közötti választás szempontjai.
+Vállalkozások átalakítása és megszüntetése.
+Kötelmi jog elemei.
+Marketing ismeretek:
+A vállalkozás makro- és mikrokörnyezete.
+Piacgazdaság, piac.
+A vállalkozások erőforrásai.
+A vállalkozások reálszférája.
+A vállalkozás személyi feltételei.
+A vállalkozás beindításának alapfeltételei.
+Az elképzelés, az ötlet próbája.
+A vállalkozás beindításához szükséges eszközök listájának összeállítása és a munkaerő szükséglet felmérése.
+A vállalkozás székhelyének, telephelyének megválasztása, belső kialakítása.
+Kommunikáció és információátvitel.
+Adó-TB-pénzügyi-számviteli ismeretek:
+A vállalkozás finanszírozása, pénzügyi terv készítése.
+A munkaviszony létrehozásával és megszüntetésével kapcsolatos feladatok.
+Számviteli rendszer kialakítása.
+A vállalkozás felelősségi rendszere.
+Az üzleti terv készítésének esetei és célközönsége.
+Az üzleti terv felépítése és részei.
+A vállalkozások beszámolási kötelezettségei.
+A mérleg és eredménykimutatás szerepe, tartalma.
+A vállalkozás belső és külső finanszírozási forrásai, a vállalkozás fizetőképessége.
+Hitelezés és támogatás.
+Biztosítás, áru- és vagyonvédelem az üzleti életben.
+Adózás és társadalombiztosítás.
+A munkaszervezés alapjai.
+Az ellenőrzés alapelvei.
+szakmai készségek:
+Olvasott köznyelvi szöveg megértése.
+Köznyelvi szöveg fogalmazása írásban.
+Kézírás.
+Köznyelvi szöveg hallás utáni megértése.
+Köznyelvi beszédkészség.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvi íráskészség, fogalmazás.
+Szakmai nyelvű hallott szöveg megértése.
+
+Szakmai nyelvű beszédkészség.
+Telefonálási technikák.
+Számítástechnikai ismeretek.
+Személyes kompetenciák:
+Tisztesség, felelősségtudat.
+Megbízhatóság.
+Döntésképesség.
+Fejlődőképesség, önfejlesztés.
+Szervezőkészség.
+Önállóság.
+Kitartás.
+Rugalmasság.
+Elhivatottság, elkötelezettség.
+Kockázatvállalás.
+Társas kompetenciák:
+Kapcsolatteremtő készség.
+Határozottság.
+Kommunikációs készség.
+Konfliktusmegoldó képesség.
+Irányítási készség.
+Kompromisszum készség.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Tervezés.
+Áttekintő és rendszerező képesség.
+Kreativitás, ötletgazdagság.
+Új ötletek, megoldások kipróbálása.
+Nyitott hozzáállás.
+Eredményorientáltság.
+Hibakeresés.
+A szakmai követelménymodul azonosítója és megnevezése:
+194-14 Vállalkozásjogi, engedélyezési feladatok
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Az építési piacot figyelemmel kíséri.
+Vállalkozási formát választ.
+Beindítja és működteti a vállalkozást.
+Ellenőrzi a hatósági és más engedélyek meglétét.
+Részt vesz az ajánlatkészítési fázis minden részében.
+Közreműködik az ajánlattételben és a szerződéskötésben.
+Jogosultságának megfelelő képviseletet lát el.
+Munkaterület átadás-átvételét koordinálja.
+Gondoskodik a felvonulási és ideiglenes létesítmények kiépítéséről.
+Bejelentési és engedélykérési kötelezettségeket megteszi.
+Kitűzések, felmérések rendjét előkészíti és bonyolítja.
+Elkészíti a munka szakmai és kalkulációs elemzését.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Piaci ismeret.
+Vállalkozás jogi alapismeret.
+Engedélyezési eljárások.
+Árajánlat adási és árkalkulálási ismeret.
+
+Szerződések ismerete.
+Munkaterülettel járó jogi ismeretek.
+Felvonulási és ideiglenes létesítmények szükségessége.
+Bejelentések, engedély kérések folyamata.
+Épület és épületrész kitűzési ismerete.
+Kalkulációk és elemzések készítése az eredmények alapján.
+szakmai készségek:
+Információforrások kezelése.
+Számolási készség.
+Kitűzési eszközök használata.
+Személyes kompetenciák:
+Precizitás.
+Szervezőkészség.
+Felelősségtudat.
+Társas kompetenciák:
+Irányítási készség.
+Konszenzus készség.
+Határozottság.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Helyzetfelismerés.
+Rendszerező képesség.
+A szakmai követelménymodul azonosítója és megnevezése:
+195-14 Műszaki adminisztráció a terv átvételétől a műszaki átadásig
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Átveszi és átvizsgálja a tervdokumentációt.
+Véleményezi a dokumentációt, kigyűjti a hibákat.
+Javaslatokat tesz.
+Beszerzi a hiányzó adatokat a tervezőtől, vagy felméri, feltárja ezeket.
+Felveszi a jegyzőkönyvet.
+Vezeti az építési és E-építési naplót.
+Jelentéseket készít.
+Felméréseket és felmérési naplót készít.
+Belső és külső bizonylatolásokat, teljesítési igazolásokat készít.
+Lebonyolítja a műszaki átadás-átvételt.
+Összeállítja az átadási dokumentációt.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Tervezési ismeretek.
+Építési napló vezetés jogi szabályozása.
+Felmérési napló ismerete.
+Átadás-átvétel műszaki dokumentáció ismerete.
+Rendelési dokumentáció.
+Elsősegélynyújtás.
+Hulladékkezelés.
+Tűzveszélyes anyagok raktározása, kezelése.
+
+szakmai készségek:
+Műszaki rajzok készítése.
+Kiviteli tervrajz olvasása, értelmezése.
+Információforrások kezelése.
+Személyes kompetenciák:
+Precizitás.
+Kézügyesség.
+Szervezőkészség.
+Társas kompetenciák:
+Irányítási készség.
+Konszenzus készség.
+Határozottság.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Gyakorlatias feladatértelmezés.
+Rendszerező képesség.
+A szakmai követelménymodul azonosítója és megnevezése:
+196-14 Időbeli és térbeli organizáció erőforrások bevonásával
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Meghatározza a létszámszükségletet.
+Gyakorolja a bejelentési és alkalmazási jogokat, kötelezettségeket.
+Meghatározza az anyagigényt és szerkezeti szükségleteket.
+Meghatározza a gép-, eszköz- és energia igényeket, időbeli és térbeli helyét.
+Alvállalkozói és beszállítói árajánlatok alapján szerződéseket köt, időbeli organizációt készít.
+Pénzügyi és időbeli ütemezést készít.
+Térbeli organizációt készít.
+Koordinálja az anyag és gép elhelyezését térben és időben.
+Szervezi és irányítja a munkavégzést és a beszállításokat.
+Aktualizálja az ütemezéseket.
+Kapcsolatot tart a megrendelő, vállalkozók, beszállítók között.
+Ellenőrzi a teljesítéseket.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Anyagismeret.
+Kalkulációs ismeretek.
+Ütemezési és norma ismeretek.
+Technológiai ütemezések, sorrendek ismerete.
+szakmai készségek:
+Építési ütemtervek olvasása, értelmezése.
+Kiviteli tervrajz olvasása, értelmezése.
+Információforrások kezelése.
+Egyéni és csoportos munkavédelmi eszközök, berendezések használata.
+Személyes kompetenciák:
+Precizitás.
+Térlátás.
+Szervezőkészség.
+
+Társas kompetenciák:
+Irányítási készség.
+Konszenzus készség.
+Udvariasság.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Gyakorlatias feladatértelmezés.
+Rendszerező képesség.
+A szakmai követelménymodul azonosítója és megnevezése:
+197-14 Hagyományos és korszerű építési anyagok, technológiák alkalmazása
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Irányítja és felügyeli a bontási, feltárási munkákat.
+Meghatározza a technológiát.
+Elkészíti és ellenőrzi a kitűzéseket.
+Irányítja a szerkezetek építési munkáit.
+Irányítja a szakipari munkákat.
+Koordinálja az épületgépészeti és épületvillamossági munkákat.
+Kiválasztja a legmegfelelőbb építőanyagokat a technológia megadásával.
+Modern eszközöket használ.
+Fejleszti a munkavégzést szakmai továbbképzéseken való részvétellel.
+Támogatja a pályakezdőket és a tanulókat a fejlődésükben.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Technológiák ismerete.
+Építőanyag ismeret.
+Szakipari és társ szakmák ismerete.
+Segéd szerkezetek és eszközök ismerete.
+Képzési és oktatási rend alapvető ismerete.
+szakmai készségek:
+Információforrások kezelése.
+Műszaki rajzok olvasása, értelmezése.
+Jelképek értelmezése.
+Munkabiztonsági eszközök, felszerelések használata.
+Személyes kompetenciák:
+Precizitás.
+Kézügyesség.
+Térlátás.
+Társas kompetenciák:
+Irányítási készség.
+Konszenzus készség.
+Segítőkészség.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Gyakorlatias feladatértelmezés.
+Rendszerező képesség.
+
+A szakmai követelménymodul azonosítója és megnevezése:
+198-14 Munka-, tűz-, balesetvédelem, minőségirányítás
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Biztosítja a kezdeti és ismételt oktatásokat.
+Biztonságos munkahelyet teremt.
+Megőrzi a biztonságos munkavégzést és betartatja a szabályokat.
+Ellenőrzi, telepíti, felülvizsgálja és koordinálja a gépeket, eszközöket.
+Egyéni védőeszközöket juttat, használ, felülvizsgál és pótol.
+Baleset esetén megteszi a szükséges intézkedéseket.
+Betartatja a tűz- és környezetvédelmi szabályokat.
+Beszerzi a minőségi tanúsításokat.
+Ellenőrzi és betartatja a minőséget.
+Ellenőrzi a beépítendő anyagokat.
+Irányítja a minőségbiztosítási rendszer szerinti munkavégzést.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Munkavédelmi ismeretek, oktatások dokumentálási ismerete.
+Tűzvédelmi ismeretek, oktatások dokumentálási ismerete.
+Biztonsági és egészségvédelmi terv ismerete.
+Gépkönyvek, felülvizsgálati naplók ellenőrzése.
+Minőségi tanúsítványok ismerete.
+Minőségbiztosítási rendszer ismerete.
+szakmai készségek:
+Egyéni és csoportos munkavédelmi eszközök, berendezések használata.
+Információforrások kezelése.
+Építőgépek kezelése.
+Személyes kompetenciák:
+Precizitás.
+Kézügyesség.
+Térlátás.
+Társas kompetenciák:
+Irányítási készség.
+Konszenzus készség.
+Határozottság.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Gyakorlatias feladatértelmezés.
+Rendszerező képesség.
+IV. Mestervizsgáztatási követelmények
+1. A mestervizsgára bocsátás feltételei
+A mestervizsgára bocsátásnak az „I. A magasépítő mestervizsgára jelentkezés feltételei” című alcímben
+leírtakon kívül nincs más feltétele.
+2. A mestervizsga vizsgatevékenységei és vizsgafeladatai
+Gyakorlati vizsgatevékenység
+A vizsgafeladat megnevezése: Épület sáv alapozás kitűzésének elkészítése, padlóvonal és alapozási mélység
+megadásával.
+A vizsgafeladat ismertetése:
+5 m x 8 m-es épület kontúrral, 50 cm széles sávalap kitűzése zsinórállvány-készítéssel.
+
+A földszinti padló 0,00 m az alapozási mélység -0,90 m, az alapozás méréséhez szükséges alappont
+megadásával szintező műszer használatával készítse el a kitűzést.
+A vizsgafeladat időtartama: 480 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+Írásbeli vizsgatevékenység
+A vizsgafeladat megnevezése: Mennyiségi kiírás készítése, árajánlat készítése a költségvetés készítés
+előírásainak megfelelően
+A vizsgafeladat ismertetése:
+Mennyiségi kiírás készítése fordított rétegrendű 12 m2-es tetőteraszhoz, költségvetési kiírás készítése árajánlat
+készítéssel a költségvetés készítés szabályainak és formájának megfelelően, 2000 Ft nettó rezsiórabér
+figyelembevételével. Az árajánlat külleme a szokványos árajánlat formájának feleljen meg. A normaidők
+szabadon megadhatóak, de közelítsenek a különböző programrendszerek megállapított normaidejéhez.
+A vizsgafeladat időtartama: 180 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg, 81-100% Megfelelt
+Szóbeli vizsgatevékenység
+A) A vizsgafeladat megnevezése: Térbeli organizáció ismerete
+A vizsgafeladat ismertetése:
+Az építési helyszín térbeli tervezésének alapelvei. Az építési munka ideiglenes építményei és berendezései.
+Térbeli részletes organizációs elrendezési terv.
+Építési területre kerülő alapvető felvonulási létesítmények elhelyezésének szempontjai.
+A vizsgafeladat időtartama: 60 perc, amelyből a felkészülési idő 30 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg, 81-100% Megfelelt
+B) A vizsgafeladat megnevezése: Pedagógiai ismeretek
+A vizsgafeladat ismertetése:
+A gyakorlati munka tanulásához szükséges pszichológiai fogalmak, alapok.
+A szakmai gyakorlat tanítás-tanulási folyamatának jellemzői.
+A szakmai gyakorlat, mint munkavégzés általi tanulás módszertani feladatai.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg, 71-100% Megfelelt
+C) A vizsgafeladat megnevezése: Vállalkozási ismeretek
+A vizsgafeladat ismertetése:
+Jogi ismeretek.
+Marketing ismeretek.
+Adó-TB-pénzügyi- számviteli ismeretek.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg, 71-100% Megfelelt
+3. A mestervizsga értékelése
+A jelölt mestervizsgája Megfelelt minősítésű, ha minden vizsgatevékenység esetében Megfelelt minősítést
+szerzett.
+Sikertelen a mestervizsga, ha a vizsgázó egy vagy több vizsgatevékenység esetében Nem felelt meg minősítést
+szerzett.
+A jelöltnek javítóvizsgát abból a vizsgafeladatból kell tennie, amely esetében Nem felelt meg minősítést
+szerzett.
+4. A mestervizsga egyes részei alóli felmentés feltételei
+A Magyar Kereskedelmi és Iparkamara egységes szerkezetbe foglalt Mestervizsga Szabályzata szerinti
+eljárásban felmentés adható a Pedagógiai és vállalkozási ismeretek megnevezésű részvizsga alól annak, aki
+felsőfokú szakirányú végzettséggel rendelkezik vagy két éven belül más mesterképesítésből sikeres
+mestervizsgát tett.
+A mestervizsga követelményekben nem szabályozott kérdésekben a Magyar Kereskedelmi és Iparkamara
+Mesterképzési és Mestervizsga Szabályzatában foglaltak az irányadók.
+
+V. Eszköz- és felszerelési jegyzék
+A B
+1.
+A képzési feladatok teljesítéséhez szükséges eszközök és felszerelések
+minimuma
+Magasépítő
+mester
+2. Számítógép X
+3. Szoftverek X
+4. Internetelérés X
+5. Nyomtató, rajzok nyomtatására alkalmas nyomtató X
+6. Irodatechnikai eszközök X
+7.
+Geodéziai mérőműszerek: távmérő, teodolit, szintezőműszerek, szintező és
+teodolitléc, GPS
+X
+8.
+Geodéziai kitűző eszközök: kitűzőrúd, szögprizma, mérőszalag, libella, függő és
+vízmérték
+X
+9. Építőipari és talajmechanikai laboratóriumi eszközök, berendezések, műszerek X
+10. Elektromos kisgépek X
+11. Egyéni védőfelszerelés X
+12. Munkabiztonsági eszközök, felszerelések X
+13. Műszaki dokumentáció X
+14. Kéziszerszámok X
+15. Jogszabály gyűjtemény X
+47. MŰANYAG-FELDOLGOZÓ MESTERVIZSGA KÖVETELMÉNYEI
+I. A műanyag-feldolgozó mestervizsgára jelentkezés feltételei
+1. A műanyag-feldolgozó mestervizsgához szükséges szakképesítési feltételek
+A műanyag-feldolgozó mestervizsgára jelentkezéshez az alábbi szakképesítések (szakmák), szakképzettségek
+egyikével kell rendelkeznie a mesterjelöltnek.
+A B
+1.1. A szakképesítés (szakma), szakképzettség
+1.2. megnevezése azonosító száma
+1.3. Műanyagfeldolgozó 34 521 09
+1.4. Formacikk gyártó 34 543 03
+1.5. Műanyagfeldolgozó technikus 54 521 06
+1.6. Műanyag- és száltechnológiai mérnök
+Megjegyzés: A mestervizsgához szükséges szakképesítési feltétel teljesítéséhez a Magyar Kereskedelmi és
+Iparkamara a vizsgára bocsátás feltételeinek vizsgálatakor egyenértékűként fogadhatja el a jogelőd, valamint
+jogutód szakképesítéseket (szakmákat), szakképzettségeket is.
+2. A műanyag-feldolgozó mestervizsgára jelentkezéshez szükséges szakmai gyakorlat
+A szakma munkaterületén a szakirányú képesítés megszerzését követően az alábbiakban meghatározott
+szakmai gyakorlat igazolása szükséges.
+
+A B
+2.1. A szakmai gyakorlat
+2.2. szakiránya időtartama (év)
+2.3. Műanyag-feldolgozó 5
+2.4. Formacikk gyártó 5
+2.5. Műanyag-feldolgozó technikus 4
+2.6. Műanyag- és száltechnológiai mérnök 4
+Megjegyzés: A szakmai gyakorlat részidőkből is összeállhat, de az utolsó időszak nem lehet egy évnél rövidebb,
+és a vizsgára jelentkezés időpontjában az utolsó igazolt szakmai gyakorlat nem lehet egy évnél régebbi.
+A gyakorlati időbe nem számítható be a GYED, illetve a sor- vagy tartalékos katonai, valamint polgári szolgálat
+ideje.
+II. A műanyag-feldolgozó mester munkaterülete, a mestercímhez kapcsolódó tevékenységek
+1. A műanyag-feldolgozó mester munkaterületének leírása
+A műanyag-feldolgozó mester, szakmai tudása és munkatapasztalata birtokában műanyag-feldolgozó
+vállalkozások eredményes és szakszerű tevékenységét végzi vagy irányítja.
+Számítógépet használ, adminisztratív feladatokat lát el.
+Gyártási tevékenységgel összefüggő feladatokat lát el.
+Anyag előkészítést végez, végeztet.
+Gyártószerszámot kezel, kezeltet, előkészít, előkészíttet.
+Gyártásindítás folyamatában aktív cselekvőként részt vesz.
+Műanyag-feldolgozó gépet és berendezéseket kezel, kezeltet.
+Felügyeli, felügyelteti a gyártási folyamatokat.
+Munkavégzéssel kapcsolatos előírásokat betartja, betartatja.
+Fröccsöntő gépet kezel.
+Fröccsöntési technológiát állít be.
+Extruder gépet, géprendszert kezel.
+Extrudálási technológiát állít be.
+Hőre keményedő műanyag-feldolgozó gépet kezel.
+A hőre keményedő feldolgozási technológiát állít be.
+Műanyaghegesztő, hőformázó gépet, gépeket kezel.
+Hőformázó vagy hegesztési technológiát állít be.
+Egyéb műanyagtermék-gyártó berendezéseket, eszközöket kezel.
+Feldolgozás technológiákat állít be.
+Felismeri a termékhibákat.
+Termékek utólagos megmunkálását végzi, végezteti.
+Felismeri, elhárítja és elháríttatja a feldolgozógépek és segédberendezések hibáit.
+Karbantartási munkákat végez és irányít a karbantartási utasítás szerint.
+Szervezi és irányítja a munkatevékenységeket.
+Szervezi és irányítja a környezetvédelmet, tűzvédelmet, munkavédelmet.
+Értékeli és minősíti a végzett munkát.
+Munkáltató, munkavállaló jogait és kötelezettségeit betartja és betartatja.
+Szakmai tudását folyamatosan fejleszti.
+
+2. A műanyag-feldogozó mesterképesítéssel rokon mesterképesítések
+A
+2.1. A műanyag-feldogozó mesterképesítéssel rokon mesterképesítés(ek) megnevezése
+2.2. –
+III. Szakmai követelmények
+A szakmai követelménymodulok felsorolása:
+A B
+1. A műanyag-feldogozó megnevezésű mesterképesítés szakmai követelménymoduljainak
+2. azonosítója megnevezése
+3. 001-11-1 Pedagógiai ismeretek
+4. 002-11-1 Vállalkozási ismeretek
+5. 199-14 Műanyag-feldolgozás technológiája, gépeinek kezelése
+6. 200-14 Műanyag-feldolgozó szerszámok használata
+A szakmai követelménymodul azonosítója és megnevezése:
+001-11-1 Pedagógiai ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Ismeri és tudatosan kezeli a gyermek fejlődési fázisait, megismerési és kommunikációs szerepeit a
+tanulóképzésben.
+Ismeri és alkalmazza a szakképzésen belül a gyakorlati képzés pedagógiai sajátosságait.
+A pedagógiai célokat és azok eléréshez szükséges feladatrendszert egymáshoz illeszti, megtervezi a szakmai
+gyakorlat pedagógiai folyamatát.
+Kezeli a mai kor értékeit, értékválságát és a mai kor társadalmi értékeit.
+Ismeri a pozitív jövőképpel rendelkező életpályát, a proaktív életvezetés pedagógiai sajátosságait.
+Megvalósítja az élményközpontú gyakorlati képzést és a pozitív, negatív visszacsatolások motivációját.
+Ismeri és tudatosan használja a pedagógiai eszközöket a gyakorlati munkában és a tanulóképzésben.
+Tudatosan használja a munkáltató foglalkozásokat a tanulóképzésben.
+Megvalósítja a célorientált munkavégzésre törekvést.
+Megvalósítja a hatékony és erőforrás-takarékos feladatvégzést.
+Megvalósítja a munkavégzési önállóságot.
+Kialakítja a szakmai problémamegoldás képességét.
+Formálja a minőségi munkavégzés és az önellenőrző felelősségvállalás képességét.
+Kreatívan megvalósítja a szakmai problémamegoldást, szükség esetén csapatmunkában.
+Képes a szakmai és együttműködési önfejlődésre.
+Tudatosan kezeli a nevelés és személyes példamutatás jelentőségét és szerepét.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+A gyermek fejlődési fázisainak, megismerési és kommunikációs szerepeinek tudatos kezelésének ismerete a
+tanulóképzésben.
+A szakképzésen belül a gyakorlati képzés pedagógiai sajátosságainak ismerete és alkalmazása.
+A pedagógiai célok és azok eléréshez szükséges feladatrendszer illesztésének ismerete.
+A szakmai gyakorlat pedagógiai folyamatának megtervezési ismerete.
+A mai kor értékei, értékválsága és a mai kor társadalmi értékeinek ismerete.
+A pozitív jövőképpel rendelkező életpálya, a proaktív életvezetés pedagógiai sajátosságainak ismerete.
+Az élményközpontú gyakorlati képzés és a pozitív, negatív visszacsatolások motivációs megvalósításának
+ismerete.
+
+A pedagógiai eszközök és tudatos használatuk ismerete a gyakorlati munkában és a tanulóképzésben.
+A munkáltató foglalkozások tudatos használatának ismerete a tanulóképzésben.
+A célorientált munkavégzésre törekvés szerepének ismerete.
+A hatékony és erőforrás-takarékos feladatvégzés szerepének ismerete.
+A munkavégzési önállóság szerepének ismerete.
+A szakmai problémamegoldás képességének kialakítási ismerete.
+A minőségi munkavégzés és önellenőrző felelősségvállalás képességének formálási ismeretei.
+A szakmai problémamegoldás kreatív módszereinek ismerete, szükség esetén csapatmunkában.
+A szakmai és együttműködési önfejlődés nyitottságának ismeretei.
+A nevelés és személyes példamutatás jelentőségének és szerepének ismeretei.
+szakmai készségek:
+Köznyelvi beszédkészség.
+Mennyiségérzék.
+Szakmai nyelvű beszédkészség.
+Olvasott szakmai szöveg megértése.
+Elemi számolási készség.
+Tervezési készség a feladatok megtervezéséhez, illesztéséhez.
+Tervezési készség a szakmai gyakorlat megtervezéséhez.
+Tervezési készség az életpálya tervezéshez és életvezetéshez.
+Az élményközpontú gyakorlati képzés vezetésének készsége.
+Motivációs készség.
+A gyermek tanulásának segítése.
+A pedagógiai módszerek használata.
+Pedagógiai beszédkészség.
+A szakképzési eszközök használata.
+A gyakorlati képzés módszertana.
+Oktatási eszközök használata.
+A valós vállalkozási környezetben történő gyakorlati eszközhasználat.
+A munkáltató foglalkozások használatának készsége.
+A célorientált munkavégzés készsége.
+A feladatok erőforrás-takarékos végzésének készsége.
+Az önálló munkavégzés készsége.
+A szakmai problémamegoldás képességének kialakítási készsége.
+A minőségi munkavégzés készsége.
+A szakmai probléma-megoldási készsége.
+Fejlődési készség szakmai és együttműködés területein.
+A személyes példamutatás készsége.
+Személyes kompetenciák:
+Empátia.
+Pozitív elvárások attitűdje.
+Pozitív jövőkép kialakításának képessége.
+Példamutatás a szakmai rutin területén.
+Példamutatás a célorientált munkavégzés területén.
+Példamutatás a szakmai problémamegoldás területén.
+Példamutatás a minőségi munkavégzés területén.
+Példamutatás a szakmai és együttműködési önfejlődés területén.
+Társas kompetenciák:
+Kommunikációs nyitottság.
+Együttműködési képesség.
+Módszerkompetenciák:
+Történeti áttekintő képesség.
+Módszertani strukturálás képessége.
+A szakmai gyakorlat pedagógiai megtervezésének képessége.
+Az élményközpontú gyakorlati képzés megvalósításának képessége.
+
+A pedagógiai eszközök tudatos használatának képessége a tanulóképzésben.
+A célorientált munkavégzés elsajátíttatásának képessége.
+A hatékonyság és az erőforrás-takarékosság elsajátíttatásának képessége.
+A munkavégzési önállóság elsajátíttatásának képessége.
+A szakmai problémamegoldás elsajátíttatásának képessége.
+A minőségi munkavégzés elsajátíttatásának képessége.
+A szakmai és együttműködési önfejlődés elsajátíttatásának képessége.
+A nevelés és személyes példamutatás képessége.
+A szakmai követelménymodul azonosítója és megnevezése:
+002-11-1 Vállalkozási ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Jogi ismeretek:
+Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével, amely alapján képes elvégezni az
+alábbi feladatokat:
+Elvállalja a vállalkozások alapításával kapcsolatos általános feladatokat.
+Intézi a működési engedélyek beszerzését.
+Jogi tanácsadást igényel, konkrét igényt fogalmaz meg.
+Ellátja a vállalkozások megszűnésével kapcsolatos általános feladatokat.
+Jogi felügyelettel munkajogi szerződéseket készít, ellenőriz.
+Jogi felügyelettel vállalkozói szerződéseket készít, ellenőriz.
+Figyelemmel kíséri a jogszabályi változásokat.
+Marketing ismeretek:
+Tisztában van a vállalkozások piaci környezetével és ezek hatásaival. Ennek alapján az alábbi feladatokat képes
+elvégezni:
+Üzleti tervet készít.
+Elvégzi a saját iparágának bemutatását és elemzését.
+Meghatározza és kidolgozza a marketing-mix elemeit.
+PR és kommunikációs tevékenységet végez.
+Adó-TB-pénzügyi-számviteli ismeretek:
+Ismeri az alapvető adó- és pénzügyi szabályokat, valamint a gazdaság működési elveit. Ennek alapján az alábbi
+feladatokat képes elvégezni:
+Kitölti az adónyomtatványokat.
+Főbb vonalakban ismeri az egyes adó- és kamatszámítási módszereket.
+Ismeri a vállalkozások éves beszámolójának főbb egységeit és ezek lényeges elemeit, valamint ezen adatokból
+tájékozódni tud és következtetéseket von le.
+Kialakítja és működteti a vállalkozás szervezetét.
+Pénzügyi tervet készít.
+Rezsióradíjat számol.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Jogi ismeretek:
+A gazdálkodás, vállalkozás fogalma, jellemzői.
+Egyéni vállalkozás.
+Egyéni cég.
+Gazdasági társaságok csoportosítása.
+Gazdasági társaságok működésének szabályai.
+Vállalkozási formák közötti választás szempontjai.
+Vállalkozások átalakítása és megszüntetése.
+Kötelmi jog elemei.
+Marketing ismeretek:
+A vállalkozás makro- és mikrokörnyezete.
+
+Piacgazdaság, piac.
+A vállalkozások erőforrásai.
+A vállalkozások reálszférája.
+A vállalkozás személyi feltételei.
+A vállalkozás beindításának alapfeltételei.
+Az elképzelés, az ötlet próbája.
+A vállalkozás beindításához szükséges eszközök listájának összeállítása és a munkaerő szükséglet felmérése.
+A vállalkozás székhelyének, telephelyének megválasztása, belső kialakítása.
+Kommunikáció és információátvitel.
+Adó-TB-pénzügyi-számviteli ismeretek:
+A vállalkozás finanszírozása, pénzügyi terv készítése.
+A munkaviszony létrehozásával és megszüntetésével kapcsolatos feladatok.
+Számviteli rendszer kialakítása.
+A vállalkozás felelősségi rendszere.
+Az üzleti terv készítésének esetei és célközönsége.
+Az üzleti terv felépítése és részei.
+A vállalkozások beszámolási kötelezettségei.
+A mérleg és eredménykimutatás szerepe, tartalma.
+A vállalkozás belső és külső finanszírozási forrásai, a vállalkozás fizetőképessége.
+Hitelezés és támogatás.
+Biztosítás, áru- és vagyonvédelem az üzleti életben.
+Adózás és társadalombiztosítás.
+A munkaszervezés alapjai.
+Az ellenőrzés alapelvei.
+szakmai készségek:
+Olvasott köznyelvi szöveg megértése.
+Köznyelvi szöveg fogalmazása írásban.
+Kézírás.
+Köznyelvi szöveg hallás utáni megértése.
+Köznyelvi beszédkészség.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvi íráskészség, fogalmazás.
+Szakmai nyelvű hallott szöveg megértése.
+Szakmai nyelvű beszédkészség.
+Telefonálási technikák.
+Számítástechnikai ismeretek.
+Személyes kompetenciák:
+Tisztesség, felelősségtudat.
+Megbízhatóság.
+Döntésképesség.
+Fejlődőképesség, önfejlesztés.
+Szervezőkészség.
+Önállóság.
+Kitartás.
+Rugalmasság.
+Elhivatottság, elkötelezettség.
+Kockázatvállalás.
+Társas kompetenciák:
+Kapcsolatteremtő készség.
+Határozottság.
+Kommunikációs készség.
+Konfliktusmegoldó képesség.
+Irányítási készség.
+Kompromisszum készség.
+
+Módszerkompetenciák:
+Logikus gondolkodás.
+Tervezés.
+Áttekintő és rendszerező képesség.
+Kreativitás, ötletgazdagság.
+Új ötletek, megoldások kipróbálása.
+Nyitott hozzáállás.
+Eredményorientáltság.
+Hibakeresés.
+A szakmai követelménymodul azonosítója és megnevezése:
+199-14 Műanyag-feldolgozás technológiája, gépeinek kezelése
+Szakmai követelménymodul tartalma:
+Feladatprofil:
+Termékrajzot és terméket olvas, értelmez.
+Számítógépet használ, adminisztratív feladatokat lát el.
+Gyártástechnológiát határoz meg.
+Anyagigényt számít.
+Anyag előkészítést végez, végeztet.
+Gyártószerszámot kezel, kezeltet, előkészít, előkészíttet.
+Gyártásindítás folyamatában aktív cselekvőként részt vesz.
+Műanyag-feldolgozó gépet és berendezéseket kezel, kezeltet.
+Felügyeli, felügyelteti a gyártási folyamatokat.
+Munkavégzéssel kapcsolatos előírásokat betartja, betartatja.
+Egyéb műanyagtermék-gyártó segéd-berendezéseket, eszközöket kezel.
+Gyártástechnológiát állít, korrigál.
+Felismeri a termékhibákat.
+Termékek utólagos megmunkálását végzi, végezteti.
+Felismeri és elhárítja, illetve elháríttatja a feldolgozógépek és segédberendezések hibáit.
+Karbantartási munkákat végez és irányít a karbantartási utasítás szerint.
+Szervezi és irányítja a munkatevékenységeket.
+Szervezi és irányítja a környezetvédelmet, tűzvédelmet, munkavédelmet.
+Értékeli és minősíti a végzett munkát.
+Dokumentálja a gyártási folyamatot.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Anyagismeret.
+Anyagmennyiség, anyagszükséglet számítása.
+Feldolgozógép meghatározása, kiválasztása.
+Feldolgozás technológiai ismeretek.
+Munkaterület átadás-átvételének szabályai.
+Munkaügyi és biztonságtechnológiai előírások.
+Munka megkezdésének feltételei.
+Az elvégzett munka dokumentálása, jegyzőkönyvezés.
+Hulladékkezelés.
+Elsősegélynyújtás.
+Tűzvédelem.
+szakmai készségek:
+Számítógép használat.
+Műszaki rajz olvasása értelmezése.
+Anyag-előkészítő gépek kezelése.
+Műanyag-feldolgozó gépek kezelése.
+Egyéni és csoportos munkavédelmi eszközök, berendezések használata.
+
+Személyes kompetenciák:
+Felelősségtudat.
+Önállóság.
+Döntésképesség.
+Társas kompetenciák:
+Kezdeményezőkészség.
+Határozottság.
+Irányítási készség.
+Módszerkompetenciák:
+Gyakorlatias feladatértelmezés.
+Kritikus gondolkodás.
+Lényegfelismerés.
+A szakmai követelménymodul azonosítója és megnevezése:
+200-14 Műanyag-feldolgozó szerszámok használata
+Szakmai követelménymodul tartalma:
+Feladatprofil:
+Műszaki rajz és dokumentáció felismerése.
+Gyártószerszám típusát megállapítja.
+Gyártószerszám működőképességéről meggyőződik.
+Szerszámot, feldolgozó gépet párosít.
+Szerszámot rögzít.
+Szerszámot előkészít.
+Szerszám segédberendezéseit csatlakoztatja.
+Elektronikus, hidraulikus, pneumatikus ellenőrzést elvégzi.
+Teszt üzemmódot lefuttat.
+Méréssel ellenőrzi az előírt paramétereket.
+Gondoskodik a munka, tűz- és környezetvédelmi előírások betartásáról.
+Részt vesz a tűzoltásban, mentésben, elsősegélyt nyújt.
+Betartja és betartatja a veszélyes és elkülönített hulladékgyűjtés szabályait.
+Elkészíti a szükséges dokumentációkat.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Műszaki dokumentáció ismerete.
+Alapszintű elektromos, hidraulikus és pneumatikai ismeretek.
+Gyártószerszám ismerete.
+A gyártás perifériáinak ismerete.
+Gépelemek.
+Anyagismeret.
+Gyártásismeret.
+Érintésvédelem.
+Munkavédelem.
+Elsősegélynyújtás.
+Tűzvédelem.
+Környezetvédelem.
+Veszélyes hulladékok kezelése.
+szakmai készségek:
+Kapcsolási rajz olvasása, értelmezése.
+Műszaki rajz olvasása, értelmezése.
+Feldolgozó gépek kezelése.
+Gyártószerszámok használata.
+Feldolgozást segítő segédberendezések kezelése.
+
+Személyes kompetenciák:
+Kézügyesség.
+Szervezőkészség.
+Precizitás.
+Társas kompetenciák:
+Segítőkészség.
+Meggyőzőkészség.
+Motiváló készség.
+Módszerkompetenciák:
+Rendszerező képesség.
+Kreativitás, ötletgazdagság.
+Következtetési képesség.
+IV. Mestervizsgáztatási követelmények
+1. A mestervizsgára bocsátás feltételei
+A mestervizsgára bocsátás feltétele: Megfelelő minősítésű mesterdolgozat készítése.
+A mesterdolgozat a Magyar Kereskedelmi és Iparkamara által kiadott, a III. fejezet szerinti szakmai
+követelménymodulok tartalmából összeállított témakörökből – a vizsgázó által szabadon választott témában –
+minimum 10, maximum 20 oldalas terjedelemben egy gyártástechnológia feladat kidolgozása. A
+mesterdolgozatot 12-es betűmérettel, 1,5-ös sortávolsággal, Times New Roman betűtípussal, sorkizárással kell
+elkészíteni. Ezen felül csatolhatók fényképek, ábrák, egyéb mellékeltek. A mesterdolgozatot 2 példányban,
+számítógéppel megírva, összefűzve, CD-n mellékelve kell leadni. Leadási határidő: a mestervizsga megkezdése
+előtt legalább 15 nappal.
+A mesterdolgozat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+2. A mestervizsga vizsgatevékenységei és vizsgafeladatai
+Gyakorlati vizsgatevékenység
+A vizsgafeladat megnevezése: Műanyag termék gyártása
+A vizsgafeladat ismertetése: Megadott műszaki dokumentáció alapján, biztosított feldolgozó gépcsoporton és
+gyártószerszámmal, valamint alapanyag-választékkal, műanyag termék sorozatgyártásának elindítása a
+szükséges emberi erőforrás biztosításával.
+A vizsgafeladat időtartama: 180 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+Írásbeli vizsgatevékenység:
+A vizsgafeladat megnevezése: Szakmai ismeretek
+A vizsgafeladat ismertetése:
+Műszaki rajzon dokumentált, vagy átadott termék alapján gyártási dokumentáció elkészítése:
+Gyártástechnológia elkészítése.
+Feldolgozó szerszám kiválasztása.
+Feldolgozó gép meghatározása.
+Anyagválasztás, anyagigény.
+Hulladékkezelés.
+A vizsgafeladat időtartama: 120 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg, 81-100% Megfelelt
+Szóbeli vizsgatevékenység
+A) A vizsgafeladat megnevezése: A műanyag-feldolgozás technológiája, gépei, szerszámai
+A vizsgafeladat ismertetése:
+A szóbeli vizsgatevékenység központilag összeállított kérdései. A műanyag-feldolgozás technológiája,
+gépeinek kezelése és a műanyag-feldolgozás szerszámainak használata szakmai követelménymodulokhoz
+tartozó témaköröket tartalmazzák.
+A vizsgafeladat időtartama: 60 perc, amelyből a felkészülési idő 30 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+
+B) A vizsgafeladat megnevezése: Pedagógiai ismeretek
+A vizsgafeladat ismertetése:
+A gyakorlati munka tanulásához szükséges pszichológiai fogalmak, alapok.
+A szakmai gyakorlat tanítás-tanulási folyamatának jellemzői.
+A szakmai gyakorlat, mint munkavégzés általi tanulás módszertani feladatai.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+C) A vizsgafeladat megnevezése: Vállalkozási ismeretek
+A vizsgafeladat ismertetése:
+Jogi ismeretek.
+Marketing ismeretek.
+Adó-TB-pénzügyi-számviteli ismeretek.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg, 71-100%Megfelelt
+3. A mestervizsga értékelése
+A jelölt mestervizsgája Megfelelt minősítésű, ha minden vizsgatevékenység esetében Megfelelt minősítést
+szerzett.
+Sikertelen a mestervizsga, ha a vizsgázó egy vagy több vizsgatevékenység esetében Nem felelt meg minősítést
+szerzett.
+A jelöltnek javítóvizsgát abból a vizsgafeladatból kell tennie, amely esetében Nem felelt meg minősítést
+szerzett.
+4. A mestervizsga egyes részei alóli felmentés feltételei
+A Magyar Kereskedelmi és Iparkamara egységes szerkezetbe foglalt Mestervizsga Szabályzata szerinti eljárás
+keretében felmentés adható a Pedagógiai és vállalkozási ismeretek megnevezésű részvizsga alól annak, aki
+felsőfokú szakirányú végzettséggel rendelkezik vagy két éven belül más mesterképesítésből sikeres
+mestervizsgát tett.
+A mestervizsga követelményekben nem szabályozott kérdésekben a Magyar Kereskedelmi és Iparkamara
+Mesterképzési és Mestervizsga Szabályzatában foglaltak az irányadók.
+V. Eszköz- és felszerelési jegyzék
+A B
+1.
+A képzési feladatok teljesítéséhez szükséges eszközök és
+felszerelések minimuma
+Műanyag-feldolgozó mester
+2. Műanyag-feldolgozó gépek X
+3. Műanyag-feldolgozó szerszámok X
+4. Alapanyag X
+5. Mérőeszközök X
+6. Kéziszerszámok X
+7. Számítógép X
+8. Nyomtató X
+9. Egyéni és csoportos munkavédelmi eszközök, berendezések X
+10. Anyagmozgató gépek, eszközök X
+11. Szoftverek X
+
+48. OLVASZTÁR ÉS ÖNTŐ MESTERVIZSGA KÖVETELMÉNYEI
+I. Az olvasztár és öntő mestervizsgára jelentkezés feltételei
+1. Az olvasztár és öntő mestervizsgához szükséges szakképesítési feltételek
+Az olvasztár és öntő mestervizsgára jelentkezéshez az alábbi szakképesítések (szakmák), szakképzettségek
+egyikével kell rendelkeznie a mesterjelöltnek.
+A B
+1.1. A szakképesítés (szakma), szakképzettség
+1.2. megnevezése azonosító száma
+1.3. Olvasztár és öntő 32 521 03
+1.4. Vas- és acélfeldolgozó 32 521 06
+1.5. Járműipari fémalkatrész-gyártó 34 521 07
+1.6. Bronzműves és szoboröntő 55 211 02
+1.7. Kohászati technikus 54 521 04
+1.8. Anyagmérnök
+1.9. Kohómérnök
+Megjegyzés: A mestervizsgához szükséges szakképesítési feltétel teljesítéséhez a Magyar Kereskedelmi és
+Iparkamara a vizsgára bocsátás feltételeinek vizsgálatakor egyenértékűként fogadhatja el a jogelőd, valamint
+jogutód szakképesítéseket (szakmákat), szakképzettségeket is.
+2. Az olvasztár és öntő mestervizsgára jelentkezéshez szükséges szakmai gyakorlat
+A szakma munkaterületén a szakirányú képesítés megszerzését követően az alábbiakban meghatározott
+szakmai gyakorlat igazolása szükséges.
+A B
+2.1. A szakmai gyakorlat
+2.2. szakiránya időtartama (év)
+2.3. Olvasztár és öntő 5
+2.4. Vas- és acélfeldolgozó 5
+2.5. Járműipari fémalkatrész-gyártó 5
+2.6. Bronzműves és szoboröntő 5
+2.7. Kohászati technikus 3
+2.8. Anyagmérnök 3
+2.9. Kohómérnök 3
+Megjegyzés: A szakmai gyakorlat részidőkből is összeállhat, de az utolsó időszak nem lehet egy évnél rövidebb,
+és a vizsgára jelentkezés időpontjában az utolsó igazolt szakmai gyakorlat nem lehet egy évnél régebbi.
+A gyakorlati időbe nem számítható be a GYED, illetve a sor- vagy tartalékos katonai, valamint polgári szolgálat
+ideje.
+II. Az olvasztár és öntő mester munkaterülete, a mestercímhez kapcsolódó tevékenységek
+1. Az olvasztár és öntő mester munkaterületének leírása
+Az olvasztár és öntő mester kohászati és öntvénygyártó vállalkozásoknál irányítja a nyersvas érceiből történő
+előállítását, az acél nyersvasból és másodnyersanyagból való előállítását és folyamatos öntését, nemvasfémek
+
+másodlagos nyersanyagból való előállítását és folyamatos vagy kokillába való öntését, öntvények gyártásának
+előkészítését, a gyártás megszervezését, végrehajtását, ellenőrzését, a késztermék minősítését.
+Szervezi és irányítja a hozzá beosztott dolgozók, tanulók tevékenységét.
+Értékeli, minősíti és dokumentálja a végzett munkát.
+Közreműködik a műszaki fejlesztési feladatok megoldásában.
+Betartja és betartatja a jogszabályokat, hatósági előírásokat.
+Az olvasztár és öntő mester a kohászati és öntészeti technológiák végrehajtásához gyártás-előkészítő
+tevékenységet végez:
+Gyártási programot és gyártási dokumentációt készít.
+Meghatározza, ellenőrzi és előkészíti a gyártóeszközöket.
+Meghatározza és biztosítja a gyártáshoz szükséges alap- és segédanyagokat.
+Meghatározza az alap- és segédanyagok előkészítését.
+Nyersvasat, acélt, nemvasfém ötvözeteket, acél és nemvasfém másodnyersanyagokat. Öntvényeket készít,
+melynek során:
+Adagot, betétet állít össze.
+Felügyeli és irányítja a folyékony fém előállítását.
+Gyártás közben ellenőrzi a folyékony fém összetételét, hőmérsékletét, technológiai paramétereit.
+Szükség szerint kezeli a folyékony fémet.
+Kezeli és ellenőrzi a kohászati technológiákat kiszolgáló gépeket, berendezéseket.
+Dokumentálja a gyártás paramétereit, számítógépes adatnyilvántartást végez.
+Ellenőrzi és dokumentálja a késztermékek megfelelőségét.
+Betartja és betartatja a munka- és balesetvédelmi, a tűz- és környezetvédelmi előírásokat.
+Betartja és betartatja a minőségbiztosítási rendszer előírásait, utasításait.
+2. Az olvasztár és öntő mesterképesítéssel rokon mesterképesítések
+A
+2.1. Az olvasztár és öntő mesterképesítéssel rokon mesterképesítés(ek) megnevezése
+2.2. –
+III. Szakmai követelmények
+A szakmai követelménymodulok felsorolása:
+A B
+1. Az olvasztár és öntő megnevezésű mesterképesítés szakmai követelménymoduljainak
+2. azonosítója megnevezése
+3. 001-11-1 Pedagógiai ismeretek
+4. 002-11-1 Vállalkozási ismeretek
+5. 201-14 Kohászati és öntészeti gyártás-előkészítés, gépkezelés
+6. 202-14 Olvasztár és folyamatos öntési feladatok
+7. 203-14 Öntvénygyártási feladatok
+8. 204-14 Termékkikészítés, -minősítés
+A szakmai követelménymodul azonosítója és megnevezése:
+001-11-1 Pedagógiai ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Ismeri és tudatosan kezeli a gyermek fejlődési fázisait, megismerési és kommunikációs szerepeit a
+tanulóképzésben.
+Ismeri és alkalmazza a szakképzésen belül a gyakorlati képzés pedagógiai sajátosságait.
+A pedagógiai célokat és azok eléréshez szükséges feladatrendszert egymáshoz illeszti, megtervezi a szakmai
+gyakorlat pedagógiai folyamatát.
+
+Kezeli a mai kor értékeit, értékválságát és a mai kor társadalmi értékeit.
+Ismeri a pozitív jövőképpel rendelkező életpályát, a proaktív életvezetés pedagógiai sajátosságait.
+Megvalósítja az élményközpontú gyakorlati képzést és a pozitív, negatív visszacsatolások motivációját.
+Ismeri és tudatosan használja a pedagógiai eszközöket a gyakorlati munkában és a tanulóképzésben.
+Tudatosan használja a munkáltató foglalkozásokat a tanulóképzésben.
+Megvalósítja a célorientált munkavégzésre törekvést.
+Megvalósítja a hatékony és erőforrás-takarékos feladatvégzést.
+Megvalósítja a munkavégzési önállóságot.
+Kialakítja a szakmai problémamegoldás képességét.
+Formálja a minőségi munkavégzés és az önellenőrző felelősségvállalás képességét.
+Kreatívan megvalósítja a szakmai problémamegoldást, szükség esetén csapatmunkában.
+Képes a szakmai és együttműködési önfejlődésre.
+Tudatosan kezeli a nevelés és személyes példamutatás jelentőségét és szerepét.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+A gyermek fejlődési fázisainak, megismerési és kommunikációs szerepeinek tudatos kezelésének ismerete a
+tanulóképzésben.
+A szakképzésen belül a gyakorlati képzés pedagógiai sajátosságainak ismerete és alkalmazása.
+A pedagógiai célok és azok eléréshez szükséges feladatrendszer illesztésének ismerete.
+A szakmai gyakorlat pedagógiai folyamatának megtervezési ismerete.
+A mai kor értékei, értékválsága és a mai kor társadalmi értékeinek ismerete.
+A pozitív jövőképpel rendelkező életpálya, a proaktív életvezetés pedagógiai sajátosságainak ismerete.
+Az élményközpontú gyakorlati képzés és a pozitív, negatív visszacsatolások motivációs megvalósításának
+ismerete.
+A pedagógiai eszközök és tudatos használatuk ismerete a gyakorlati munkában és a tanulóképzésben.
+A munkáltató foglalkozások tudatos használatának ismerete a tanulóképzésben.
+A célorientált munkavégzésre törekvés szerepének ismerete.
+A hatékony és erőforrás-takarékos feladatvégzés szerepének ismerete.
+A munkavégzési önállóság szerepének ismerete.
+A szakmai problémamegoldás képességének kialakítási ismerete.
+A minőségi munkavégzés és önellenőrző felelősségvállalás képességének formálási ismeretei.
+A szakmai problémamegoldás kreatív módszereinek ismerete, szükség esetén csapatmunkában.
+A szakmai és együttműködési önfejlődés nyitottságának ismeretei.
+A nevelés és személyes példamutatás jelentőségének és szerepének ismeretei.
+szakmai készségek:
+Köznyelvi beszédkészség.
+Mennyiségérzék.
+Szakmai nyelvű beszédkészség.
+Olvasott szakmai szöveg megértése.
+Elemi számolási készség.
+Tervezési készség a feladatok megtervezéséhez, illesztéséhez.
+Tervezési készség a szakmai gyakorlat megtervezéséhez.
+Tervezési készség az életpálya tervezéshez és életvezetéshez.
+Az élményközpontú gyakorlati képzés vezetésének készsége
+Motivációs készség.
+A gyermek tanulásának segítése.
+A pedagógiai módszerek használata.
+Pedagógiai beszédkészség.
+A szakképzési eszközök használata.
+A gyakorlati képzés módszertana.
+Oktatási eszközök használata.
+A valós vállalkozási környezetben történő gyakorlati eszközhasználat.
+A munkáltató foglalkozások használatának készsége.
+A célorientált munkavégzés készsége.
+A feladatok erőforrás-takarékos végzésének készsége.
+
+Az önálló munkavégzés készsége.
+A szakmai problémamegoldás képességének kialakítási készsége.
+A minőségi munkavégzés készsége.
+A szakmai probléma megoldási készsége.
+Fejlődési készség szakmai és együttműködés területein.
+A személyes példamutatás készsége.
+Személyes kompetenciák:
+Empátia.
+Pozitív elvárások attitűdje.
+Pozitív jövőkép kialakításának képessége.
+Példamutatás a szakmai rutin területén.
+Példamutatás a célorientált munkavégzés területén.
+Példamutatás a szakmai problémamegoldás területén.
+Példamutatás a minőségi munkavégzés területén.
+Példamutatás a szakmai és együttműködési önfejlődés területén.
+Társas kompetenciák:
+Kommunikációs nyitottság.
+Együttműködési képesség.
+Módszerkompetenciák:
+Történeti áttekintő képesség.
+Módszertani strukturálás képessége.
+A szakmai gyakorlat pedagógiai megtervezésének képessége.
+Az élményközpontú gyakorlati képzés megvalósításának képessége.
+A pedagógiai eszközök tudatos használatának képessége a tanulóképzésben.
+A célorientált munkavégzés elsajátíttatásának képessége.
+A hatékonyság és az erőforrás-takarékosság elsajátíttatásának képessége.
+A munkavégzési önállóság elsajátíttatásának képessége.
+A szakmai problémamegoldás elsajátíttatásának képessége.
+A minőségi munkavégzés elsajátíttatásának képessége.
+A szakmai és együttműködési önfejlődés elsajátíttatásának képessége.
+A nevelés és személyes példamutatás képessége.
+A szakmai követelménymodul azonosítója és megnevezése:
+002-11-1 Vállalkozási ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Jogi ismeretek:
+Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével, amely alapján képes elvégezni az
+alábbi feladatokat:
+Elvállalja a vállalkozások alapításával kapcsolatos általános feladatokat.
+Intézi a működési engedélyek beszerzését.
+Jogi tanácsadást igényel, konkrét igényt fogalmaz meg.
+Ellátja a vállalkozások megszűnésével kapcsolatos általános feladatokat.
+Jogi felügyelettel munkajogi szerződéseket készít, ellenőriz.
+Jogi felügyelettel vállalkozói szerződéseket készít, ellenőriz.
+Figyelemmel kíséri a jogszabályi változásokat.
+Marketing ismeretek:
+Tisztában van a vállalkozások piaci környezetével és ezek hatásaival. Ennek alapján az alábbi feladatokat képes
+elvégezni:
+Üzleti tervet készít.
+Elvégzi a saját iparágának bemutatását és elemzését.
+Meghatározza és kidolgozza a marketing-mix elemeit.
+PR és kommunikációs tevékenységet végez.
+
+Adó-TB-pénzügyi-számviteli ismeretek:
+Ismeri az alapvető adó- és pénzügyi szabályokat, valamint a gazdaság működési elveit. Ennek alapján az alábbi
+feladatokat képes elvégezni:
+Kitölti az adónyomtatványokat.
+Főbb vonalakban ismeri az egyes adó- és kamatszámítási módszereket.
+Ismeri a vállalkozások éves beszámolójának főbb egységeit és ezek lényeges elemeit, valamint ezen adatokból
+tájékozódni tud és következtetéseket von le.
+Kialakítja és működteti a vállalkozás szervezetét.
+Pénzügyi tervet készít.
+Rezsióradíjat számol.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Jogi ismeretek:
+A gazdálkodás, vállalkozás fogalma, jellemzői.
+Egyéni vállalkozás.
+Egyéni cég.
+Gazdasági társaságok csoportosítása.
+Gazdasági társaságok működésének szabályai.
+Vállalkozási formák közötti választás szempontjai.
+Vállalkozások átalakítása és megszüntetése.
+Kötelmi jog elemei.
+Marketing ismeretek:
+A vállalkozás makro- és mikrokörnyezete.
+Piacgazdaság, piac.
+A vállalkozások erőforrásai.
+A vállalkozások reálszférája.
+A vállalkozás személyi feltételei.
+A vállalkozás beindításának alapfeltételei.
+Az elképzelés, az ötlet próbája.
+A vállalkozás beindításához szükséges eszközök listájának összeállítása és a munkaerő szükséglet felmérése.
+A vállalkozás székhelyének, telephelyének megválasztása, belső kialakítása.
+Kommunikáció és információátvitel.
+Adó-TB-pénzügyi-számviteli ismeretek:
+A vállalkozás finanszírozása, pénzügyi terv készítése.
+A munkaviszony létrehozásával és megszüntetésével kapcsolatos feladatok.
+Számviteli rendszer kialakítása.
+A vállalkozás felelősségi rendszere.
+Az üzleti terv készítésének esetei és célközönsége.
+Az üzleti terv felépítése és részei.
+A vállalkozások beszámolási kötelezettségei.
+A mérleg és eredménykimutatás szerepe, tartalma.
+A vállalkozás belső és külső finanszírozási forrásai, a vállalkozás fizetőképessége.
+Hitelezés és támogatás.
+Biztosítás, áru- és vagyonvédelem az üzleti életben.
+Adózás és társadalombiztosítás.
+A munkaszervezés alapjai.
+Az ellenőrzés alapelvei.
+szakmai készségek:
+Olvasott köznyelvi szöveg megértése.
+Köznyelvi szöveg fogalmazása írásban.
+Kézírás.
+Köznyelvi szöveg hallás utáni megértése.
+Köznyelvi beszédkészség.
+
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvi íráskészség, fogalmazás.
+Szakmai nyelvű hallott szöveg megértése.
+Szakmai nyelvű beszédkészség.
+Telefonálási technikák.
+Számítástechnikai ismeretek.
+Személyes kompetenciák:
+Tisztesség, felelősségtudat.
+Megbízhatóság.
+Döntésképesség.
+Fejlődőképesség, önfejlesztés.
+Szervezőkészség.
+Önállóság.
+Kitartás.
+Rugalmasság.
+Elhivatottság, elkötelezettség.
+Kockázatvállalás.
+Társas kompetenciák:
+Kapcsolatteremtő készség.
+Határozottság.
+Kommunikációs készség.
+Konfliktusmegoldó képesség.
+Irányítási készség.
+Kompromisszum készség.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Tervezés.
+Áttekintő és rendszerező képesség.
+Kreativitás, ötletgazdagság.
+Új ötletek, megoldások kipróbálása.
+Nyitott hozzáállás.
+Eredményorientáltság.
+Hibakeresés.
+A szakmai követelménymodul azonosítója és megnevezése:
+201-14 Kohászati és öntészeti gyártás-előkészítés, gépkezelés
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+A gyártási dokumentációt előkészíti, tanulmányozza, értelmezi.
+Anyagminőség és mennyiség szerinti gyártási programot készít.
+Gondoskodik a gyártáshoz szükséges alap- és segédanyagokról.
+A kohászati alap- és segédanyagokat kézzel és géppel válogatja, előkészíti.
+A nem hasznosítható anyagokat előírás szerint elkülöníti.
+A minőség szerint válogatott anyagot feliratozottan tárolja.
+Hulladék-előkészítésnél kiválasztja a megfelelő darabolási technológiát, kézi szerszámokat, gépi
+berendezéseket használ.
+A szennyezett hulladékot vegyszerrel mossa, centrifugálja, égeti, szárítja.
+A feldolgozásra szánt hulladékot kézzel tömöríti, présgéppel bálázza, brikettálja.
+Zsugorítással, pelletezéssel, granulálással az ércet előkészíti.
+Kezeli és karbantartja a kohászati technológiákat kiszolgáló gépeket, berendezéseket.
+A technológiai műveleti helyeket kiszolgálja.
+A technológiai berendezéseket kiszolgálja.
+Kohászati technológiákhoz igény szerint mérlegeléssel adagot állít össze.
+Gondoskodik a gyártáshoz szükséges szerszámokról, gépekről és berendezésekről.
+Ellenőrzi és előkészíti a gyártási területet.
+
+Ellenőrzi és előkészíti az alap és segédanyagokat.
+Ellenőrzi és előkészíti a szerszámokat, gépeket és a gyártóeszközöket.
+Betartja és betartatja a technológiai és kezelési utasításokat.
+Betartja és betartatja a munka- és balesetvédelmi, a tűz- és környezetvédelmi, és a biztonságtechnikai
+előírásokat.
+Ellenőrzi és használja a munkavédelmi eszközöket.
+Előírások szerinti gyártási dokumentációt készít.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Gyártási dokumentumok.
+Kohászati anyagismeret.
+Fémek és ötvözetek jellemző tulajdonságai.
+A nyersvasgyártás alap- és segédanyagai.
+Az acélgyártás alap- és segédanyagai.
+A nemvasfém gyártás alap- és segédanyagai.
+Alap- és segédanyagok előkészítése.
+Anyagszükséglet, anyagmennyiség meghatározása.
+Gépkönyvek, kezelési, karbantartási útmutatók.
+Szerszám- és gépismeret.
+Munkaterület ellenőrzés.
+Munkabiztonsági és balesetvédelmi előírások.
+Tűz- és környezetvédelmi előírások.
+Elsősegélynyújtási ismeretek.
+szakmai készségek:
+Számítógép-használat.
+Információforrások kezelése.
+Mérőeszközök, mérlegek használata.
+Anyag-előkészítő, anyagmozgató gépek kezelése.
+Szakmai nyelvű beszédkészség.
+Személyes kompetenciák:
+Precizitás.
+Megbízhatóság.
+Terhelhetőség.
+Társas kompetenciák:
+Irányítási készség.
+Határozottság.
+Kapcsolatteremtő készség.
+Módszerkompetenciák:
+Rendszerező képesség.
+Tervezés.
+Körültekintés, elővigyázatosság.
+A szakmai követelménymodul azonosítója és megnevezése:
+202-14 Olvasztár és folyamatos öntési feladatok
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Előkészíti a technológiai berendezéseket, biztonsági ellenőrzéseket végez.
+Betétet és ötvözőanyag mennyiséget számol.
+Technológiai előírás szerint alap- és segédanyagokat adagol.
+Folyékony fémet állít elő az előírt technológiai paraméterek betartásával.
+Beállítja a fémfürdő kémiai összetételét, hőmérsékletét.
+Fémtisztítást végez.
+
+Salakot képez, kezel, lehúz.
+Csapol, hőmérsékletet becsül, illetve mér, próbákat vesz és elemzésre küld.
+Beállítja a folyamatos öntőberendezés technológiai paramétereit.
+Az öntőszerelvényeket és az öntőgépet előkészíti.
+Kezeli a szükséges technológiai és kiszolgáló berendezéseket.
+Ellenőrzi a szerszámok, védőfelszerelések állapotát.
+Dokumentálja a gyártás paramétereit, számítógépes adatnyilvántartást végez.
+Kapcsolatot tart munkatársaival, kezeli a gyártási folyamatban fellépő rendkívüli helyzeteket.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Írásos és elektronikus gyártási dokumentációk.
+Szabványok.
+Gépkönyvek, kezelési, karbantartási útmutatók.
+Kohászati anyagismeret.
+Fémtani ismeretek, ipari vas- és fémötvözetek, tulajdonságaik.
+Műszaki paraméterek mérése.
+Tűzálló anyagok fajtái és felhasználási területük.
+A nyersvasgyártás alapanyagai, segédanyagai, előkészítő műveletei.
+A nyersvasgyártás kiszolgáló berendezései.
+A nyersvasgyártás technológiája, a kohóirányítás főbb jellemzői.
+Az acélgyártási hulladék-előkészítés műveletei, berendezései.
+Az acélgyártás elve, folyamatai.
+Az LD konverter működése, a konverteres acélgyártás technológiája.
+Az elektroacél-gyártás technológiája.
+Folyamatos öntés, az öntött acél kristályosodása, szerkezete.
+Egyéb olvasztó eljárások, mint indukciós olvasztás, átolvasztó eljárások, kupolókemencés olvasztás ismerete.
+szakmai készségek:
+Számítógép-használat.
+Műszaki rajzok olvasása és értelmezése.
+Információforrások kezelése.
+Mérő és ellenőrző eszközök használata.
+Szakmai nyelvű beszédkészség.
+Személyes kompetenciák:
+Precizitás.
+Megbízhatóság.
+Terhelhetőség.
+Társas kompetenciák:
+Irányítási készség.
+Határozottság.
+Kapcsolatteremtő készség.
+Módszerkompetenciák:
+Rendszerező képesség.
+Tervezés.
+Körültekintés, elővigyázatosság.
+A szakmai követelménymodul azonosítója és megnevezése:
+203-14 Öntvénygyártási feladatok
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Az öntőmintákat, magszekrényeket előkészíti.
+Az alap- és segédanyagokat, előre gyártott eszközöket előkészíti.
+A kokillákat és nyomásos öntőszerszámokat előkészíti.
+
+A technológiai berendezéseket, mérőeszközöket, szállító- és emelő berendezéseket előkészíti.
+A személyi védőfelszereléseket előkészíti.
+Meleg vagy hideg magszekrényes, illetve Croning-eljárással magokat és formákat készít.
+Kézzel vagy géppel beformázza az öntőmintát, kialakítja a gázelvezetést, a beömlő- és táplálórendszert.
+A formából eltávolítja a mintafeleket.
+Szükség szerint javítja és fekecseli a formafeleket és a magokat.
+A fekecseléshez kiválasztja az öntendő anyaghoz illő fekecset.
+A formát bemagozza, összerakja és lesúlyozza.
+Viaszveszejtéses eljárással formát készít.
+Különleges formázóanyagokkal mint olajos homok, gipszformát készít.
+Különleges, egyedi öntvények, mint szobrok, dísztárgyak, alkatrészek öntéséhez magformát készít.
+A tartós formákat öntésre előkészíti, vagyis előmelegíti, leválasztó és védőanyaggal a munkafelületét bevonja.
+Az olvasztási betétet összeállítja, az adagolási sorrendet meghatározza.
+Kezeli az olvasztóberendezéseket.
+Ellenőrzi a fémhőmérsékletet és a fémminőséget.
+Fémkezelő eszközökkel, berendezésekkel dolgozik.
+Olvadékot kemencéből lecsapol, öntési helyre szállít.
+Tartós formákat hőn-tartó kemencéből leönt.
+Kokillamozgató berendezéseket kezel.
+Nyomásos öntőgépet kezel.
+Homokformákat leönt.
+Gyártóeszközöket tisztít és tárolásra előkészít.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Formázási alap- és segédanyagok anyagismerete.
+Formázási alap- és segédanyagok jellemző tulajdonságai.
+A formázás, magkészítés technológiája.
+A beömlő- és táplálórendszer elemeinek méretezése.
+Az öntödei forma- és magkészítés kötőanyagrendszerei.
+Formák és magok felületének védelme.
+Formázás és magkészítés szerszámai, gépi berendezései.
+A folyékony fém öntési és dermedési tulajdonságainak hatása a formázásra.
+A felhajtóerő számítása.
+Magok rögzítése, magtámaszok szerepe.
+Minőségellenőrzési és mérési ismeretek.
+Különleges formázási technológiák.
+Öntészeti fémötvözetek tulajdonságai.
+Öntészeti fémötvözetekkel szemben támasztott követelmények.
+Betétszámítás, leégés.
+Előötvözetek alkalmazása.
+Olvasztóberendezések típusai, működésük, kezelésük.
+Mintavétel, minőségellenőrzési és mérési előírások.
+Az olvasztás környezetvédelmi vonatkozásai.
+Tüzeléstani alapfogalmak.
+A nyomásos és kokillaöntés technológiája.
+szakmai készségek:
+Számítógép-használat.
+Szakmai nyelvű beszédkészség.
+Öntödei szerszámok, gépek használata, kezelése.
+Munkabiztonsági eszközök, felszerelések használata.
+Szabályozó berendezések, mérőeszközök használata.
+
+Személyes kompetenciák:
+Precizitás.
+Döntésképesség.
+Térlátás.
+Társas kompetenciák:
+Irányítási készség.
+Határozottság.
+Konfliktusmegoldó készség.
+Módszerkompetenciák:
+Áttekintő képesség.
+Tervezés.
+Körültekintés, elővigyázatosság.
+A szakmai követelménymodul azonosítója és megnevezése:
+204-14 Termékkikészítés, -minősítés
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+A folyamatos acélöntés termékeit ellenőrzi, szállításra előkészíti.
+A nemvasfémek feldolgozásának termékeit ellenőrzi, szállításra előkészíti.
+A leöntött formákat bontja, a formázóanyagot és az öntvényt különválasztja.
+Az öntvényt és a beömlőrendszer elemeit szétválasztja.
+A formázóanyag maradványait az öntvények felületéről eltávolítja.
+A sorját eltávolítja, a felületi finomságot szemcseszórással, koptatással beállítja.
+Technológiai előírás szerint végkikészítést, mint hőkezelést, pácolást, festést végez.
+Az öntvényeket szükség szerint javítja.
+Az öntvények minőségét ellenőrzi.
+Selejtanalízist készít.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Felületkikészítési, öntvénytisztítási technológiák.
+Felületkikészítő, öntvénytisztító berendezések.
+Felületkikészítő, öntvénytisztító berendezések töltő- vagy betétanyagai.
+Vágás, köszörülés, vésés.
+Öntvényjavítási módszerek.
+Hőkezelési technológiák.
+Hőkezelő berendezések.
+A másodtermék és öntvénygyártás, kikészítés hulladékai, hasznosításuk vagy ártalmatlanításuk.
+Minőségellenőrzési és mérési előírások.
+A minőségellenőrzés dokumentálása.
+szakmai készségek:
+Számítógép-használat.
+Mérő- és ellenőrző eszközök használata.
+Öntvénytisztító és felületkikészítő berendezések kezelése.
+Hőkezelő berendezések kezelése.
+Személyes kompetenciák:
+Precizitás.
+Döntésképesség.
+Állóképesség.
+
+Társas kompetenciák:
+Irányítási készség.
+Határozottság.
+Visszacsatolási készség.
+Módszerkompetenciák:
+Kritikus gondolkodás.
+Problémamegoldás, hibaelhárítás.
+Hibakeresés.
+IV. Mestervizsgáztatási követelmények
+1. A mestervizsgára bocsátás feltételei
+A mestervizsgára bocsátásnak az „I. Az olvasztár és öntő mestervizsgára jelentkezés feltételei” című alcímben
+leírtakon kívül nincs más feltétele.
+2. A mestervizsga vizsgatevékenységei és vizsgafeladatai
+Gyakorlati vizsgatevékenység
+A vizsgafeladat megnevezése: Osztott, több magszekrénnyel rendelkező mintakészlettel öntőforma előállítása,
+fémolvadék előállítása, leöntése
+A vizsgafeladat ismertetése:
+A vizsga elnökének előzetes jóváhagyásával rendelkezésre bocsátott mintakészlettel nyers vagy vízüveges,
+műgyantás formázókeverékkel formafelek készítése, vízüveges vagy műgyantás formázókeverékkel magok
+készítése, a formafelek és magok szükség szerinti fekecselése, a forma bemagozása, összezárása, lesúlyozása.
+Fémolvadék előállítása, kezelése, a forma leöntése.
+A vizsgafeladat időtartama: 480 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+Írásbeli vizsgatevékenység
+A vizsgafeladat megnevezése: Komplex írásbeli feladat
+A vizsgafeladat ismertetése: Olvasztár és öntő mester szakmai ismereteinek alkalmazása. Olvasztár és öntő
+szakmai feladatok technológiai számításai. Alkatrészrajzból öntvényrajz készítése és technologizálása.
+A vizsgafeladat időtartama: 180 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg, 81-100% Megfelelt
+Szóbeli vizsgatevékenység
+A) A vizsgafeladat megnevezése: Olvasztár és öntő feladatok technológiai megoldásainak, a gépi berendezések
+üzemeltetésének és a biztonságtechnikai előírásoknak az ismertetése
+A vizsgafeladat ismertetése:
+A szóbeli vizsgatevékenység központilag összeállított kérdései az olvasztár és öntő mesterképesítés
+követelménymoduljaihoz tartozó témaköröket tartalmazzák.
+A vizsgafeladat időtartama: 60 perc, amelyből a felkészülési idő 30 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+B) A vizsgafeladat megnevezése: Pedagógiai ismeretek
+A vizsgafeladat ismertetése:
+A gyakorlati munka tanulásához szükséges pszichológiai fogalmak, alapok.
+A szakmai gyakorlat tanítás-tanulási folyamatának jellemzői.
+A szakmai gyakorlat, mint munkavégzés általi tanulás módszertani feladatai.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+C) A vizsgafeladat megnevezése: Vállalkozási ismeretek
+A vizsgafeladat ismertetése:
+Jogi ismeretek.
+Marketing ismeretek.
+Adó-TB-pénzügyi-számviteli ismeretek.
+
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+3. A mestervizsga értékelése
+A jelölt mestervizsgája Megfelelt minősítésű, ha minden vizsgatevékenység esetében Megfelelt minősítést
+szerzett.
+Sikertelen a mestervizsga, ha a vizsgázó egy vagy több vizsgatevékenység esetében Nem felelt meg minősítést
+szerzett.
+A jelöltnek javítóvizsgát abból a vizsgafeladatból kell tennie, amely esetében Nem felelt meg minősítést
+szerzett.
+4. A mestervizsga egyes részei alóli felmentés feltételei
+A Magyar Kereskedelmi és Iparkamara egységes szerkezetbe foglalt Mestervizsga Szabályzata szerinti eljárás
+keretében felmentés adható a Pedagógiai és vállalkozási ismeretek megnevezésű részvizsga alól annak, aki
+felsőfokú szakirányú végzettséggel rendelkezik vagy két éven belül más mesterképesítésből sikeres
+mestervizsgát tett.
+A mestervizsga követelményekben nem szabályozott kérdésekben a Magyar Kereskedelmi és Iparkamara
+Mesterképzési és Mestervizsga Szabályzatában foglaltak az irányadók.
+V. Eszköz- és felszerelési jegyzék
+A B
+1.
+A képzési feladatok teljesítéséhez szükséges eszközök
+és felszerelések minimuma
+Olvasztár és
+öntő mester
+2. Kohászati kéziszerszámok X
+3. Hőmérsékletmérő műszerek X
+4. Gázszabályozó és -adagoló berendezések, tüzelőberendezések X
+5. Kemencék X
+6. Adagolórendszerek X
+7. Nagyolvasztó X
+8. LD-konverter X
+9. Folyamatos öntőmű X
+10. Technológiai berendezések kiszolgáló egységei X
+11. Elektromos kemencék X
+12. Öntödei olvasztóberendezések X
+13. Homok-előkészítő berendezések X
+14. Kézi formázás szerszámai és eszközei X
+15. Precíziós öntés szerszámai és eszközei X
+16. Kokilla- és nyomásos öntés szerszámai és eszközei X
+17. Kokillamozgató berendezés X
+18. Nyomásos öntőgép X
+19. Emelő, mozgató és szállító berendezések X
+20. Anyagvizsgáló eszközök és berendezések X
+21. Technológiai, műszaki dokumentáció X
+22. Számítógép X
+23. Szoftverek X
+24. Nyomtató X
+25. Egyéni és csoportos munkavédelmi eszközök X
+
+49. PAPÍRGYÁRTÓ ÉS -FELDOLGOZÓ MESTERVIZSGA KÖVETELMÉNYEI
+I. A Papírgyártó és -feldolgozó mestervizsgára jelentkezés feltételei
+1. A Papírgyártó és -feldolgozó mestervizsgához szükséges szakképesítési feltételek
+A Papírgyártó és -feldolgozó mestervizsgára jelentkezéshez az alábbi szakképesítések (szakmák),
+szakképzettségek egyikével kell rendelkezni a mesterjelöltnek.
+A B
+1.1. A szakképesítés (szakma), szakképzettség
+1.2. megnevezése azonosító száma
+1.3. Papírgyártó és -feldolgozó 32 543 03
+1.4. Papíripari technikus 55 524 04
+1.5. Vegyipari technikus 54 524 02
+1.6. Vegyész technikus 54 524 03
+Megjegyzés: A mestervizsgához szükséges szakképesítési feltétel teljesítéséhez a Magyar Kereskedelmi és
+Iparkamara a vizsgára bocsátás feltételeinek vizsgálatakor egyenértékűként fogadhatja el a jogelőd, valamint
+jogutód szakképesítéseket (szakmákat), szakképzettségeket is.
+2. A Papírgyártó és -feldolgozó mestervizsgára jelentkezéshez szükséges szakmai gyakorlat
+A szakma munkaterületén a szakirányú képesítés megszerzését követően az alábbiakban meghatározott
+szakmai gyakorlat igazolása szükséges.
+A B
+2.1. A szakmai gyakorlat
+2.2. szakiránya időtartama (év)
+2.3. Papírgyártó és -feldolgozó 5
+2.4. Papíripari technikus 3
+2.5. Vegyipari technikus 4
+2.6. Vegyész technikus 5
+Megjegyzés: A szakmai gyakorlat részidőkből is összeállhat, de az utolsó időszak nem lehet egy évnél rövidebb,
+és a vizsgára jelentkezés időpontjában az utolsó igazolt szakmai gyakorlat nem lehet egy évnél régebbi.
+A gyakorlati időbe nem számítható be a GYED, illetve a sor- vagy tartalékos katonai valamint polgári szolgálat
+ideje.
+II. A Papírgyártó és -feldolgozó mester munkaterülete, a mestercímhez kapcsolódó
+tevékenységek
+1. A Papírgyártó és -feldolgozó mester munkaterületének leírása
+Részt vesz a papíripari termékek gyártásának előkészítésében, a gyártás megszervezésében, irányításában,
+ellenőrzésében.
+Kiszolgálja, kezeli, felügyeli a féltermékgyártó-, papírgyártó-, és a papírfeldolgozó-üzemi gépeket és
+berendezéseket.
+Ápolja, karbantartja és karbantartatja a rábízott gépeket, berendezéseket, felel műszaki állapotukért,
+közreműködik a karbantartási feladatok végrehajtásában.
+Minőségellenőrzési vizsgálatokat végez az alap- és segédanyagok, valamint a késztermékek körében.
+Laboratóriumi gépek, berendezések kezelését, üzemeltetését végzi, valamint alapvető laboratóriumi
+tevékenységet folytat.
+Betartja és betartatja a munkavégzésre, illetve munkaterületre vonatkozó munkavédelmi és biztonságtechnikai
+előírásokat, veszélyhelyzetben intézkedik a felügyelete alá tartozó gépek, berendezések biztonságos
+leállításáról, a közreműködő személyek biztonságáról.
+
+Szervezi, ellenőrzi és minősíti a hozzá beosztott munkatársak tevékenységét.
+Gondoskodik a késztermékek tárolásáról, szállításáról, illetve ezek megszervezéséről.
+2. A Papírgyártó és -feldolgozó mesterképesítéssel rokon mesterképesítések
+A
+2.1.
+A Papírgyártó és -feldolgozó mesterképesítéssel rokon mesterképesítés(ek) megnevezése
+2.2. –
+III. Szakmai követelmények
+A szakmai követelménymodulok felsorolása:
+A B
+1. A Papírgyártó és -feldolgozó mesterképesítés szakmai követelménymoduljainak
+2. azonosítója megnevezése
+3. 001-11-1 Pedagógiai ismeretek
+4. 002-11-1 Vállalkozási ismeretek
+5. 207-14 Papírgyártó és -feldolgozó ipari technológiák alkalmazása
+6. 208-14 Papíripari vizsgálatok és minőségbiztosítás
+7. 209-14 Munkabiztonság és környezetvédelem
+A szakmai követelménymodul azonosítója és megnevezése:
+001-11-1 Pedagógiai ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Ismeri és tudatosan kezeli a gyermek fejlődési fázisait, megismerési és kommunikációs szerepeit a
+tanulóképzésben.
+Ismeri és alkalmazza a szakképzésen belül a gyakorlati képzés pedagógiai sajátosságait.
+A pedagógiai célokat és azok eléréshez szükséges feladatrendszert egymáshoz illeszti, megtervezi a szakmai
+gyakorlat pedagógiai folyamatát.
+Kezeli a mai kor értékeit, értékválságát, és a mai kor társadalmi értékeit.
+Ismeri a pozitív jövőképpel rendelkező életpályát, a proaktív életvezetés pedagógiai sajátosságait.
+Megvalósítja az élményközpontú gyakorlati képzést és a pozitív, negatív visszacsatolások motivációját.
+Ismeri és tudatosan használja a pedagógiai eszközöket a gyakorlati munkában és a tanulóképzésben.
+Tudatosan használja a munkáltató foglalkozásokat a tanulóképzésben.
+Megvalósítja a célorientált munkavégzésre törekvést.
+Megvalósítja a hatékony és erőforrás-takarékos feladatvégzést.
+Megvalósítja a munkavégzési önállóságot.
+Kialakítja a szakmai problémamegoldás képességét.
+Formálja a minőségi munkavégzés és az önellenőrző felelősségvállalás képességét.
+Kreatívan megvalósítja a szakmai problémamegoldást, szükség esetén csapatmunkában.
+Képes a szakmai és együttműködési önfejlődésre.
+Tudatosan kezeli a nevelés és személyes példamutatás jelentőségét és szerepét.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+A gyermek fejlődési fázisainak, megismerési és kommunikációs szerepeinek tudatos kezelésének ismerete a
+tanulóképzésben.
+A szakképzésen belül a gyakorlati képzés pedagógiai sajátosságainak ismerete és alkalmazása.
+A pedagógiai célok és azok eléréshez szükséges feladatrendszer illesztésének ismerete.
+A szakmai gyakorlat pedagógiai folyamatának megtervezési ismerete.
+A mai kor értékei, értékválsága és a mai kor társadalmi értékeinek ismerete.
+
+A pozitív jövőképpel rendelkező életpálya, a proaktív életvezetés pedagógiai sajátosságainak ismerete.
+Az élményközpontú gyakorlati képzés és a pozitív, negatív visszacsatolások motivációs megvalósításának
+ismerete.
+A pedagógiai eszközök és tudatos használatuk ismerete a gyakorlati munkában és a tanulóképzésben.
+A munkáltató foglalkozások tudatos használatának ismerete a tanulóképzésben.
+A célorientált munkavégzésre törekvés szerepének ismerete.
+A hatékony és erőforrás-takarékos feladatvégzés szerepének ismerete.
+A munkavégzési önállóság szerepének ismerete.
+A szakmai problémamegoldás képességének kialakítási ismerete.
+A minőségi munkavégzés és önellenőrző felelősségvállalás képességének formálási ismeretei.
+A szakmai problémamegoldás kreatív módszereinek ismerete, szükség esetén csapatmunkában.
+A szakmai és együttműködési önfejlődés nyitottságának ismeretei.
+A nevelés és személyes példamutatás jelentőségének és szerepének ismeretei.
+szakmai készségek:
+Köznyelvi beszédkészség.
+Mennyiségérzék.
+Szakmai nyelvű beszédkészség.
+Olvasott szakmai szöveg megértése.
+Elemi számolási készség.
+Tervezési készség a feladatok megtervezéséhez, illesztéséhez.
+Tervezési készség a szakmai gyakorlat megtervezéséhez.
+Tervezési készség az életpálya tervezéshez és életvezetéshez.
+Az élményközpontú gyakorlati képzés vezetésének készsége.
+Motivációs készség.
+A gyermek tanulásának segítése.
+A pedagógiai módszerek használata.
+Pedagógiai beszédkészség.
+A szakképzési eszközök használata.
+A gyakorlati képzés módszertana.
+Oktatási eszközök használata.
+A valós vállalkozási környezetben történő gyakorlati eszközhasználat.
+A munkáltató foglalkozások használatának készsége.
+A célorientált munkavégzés készsége.
+A feladatok erőforrás-takarékos végzésének készsége.
+Az önálló munkavégzés készsége.
+A szakmai problémamegoldás képességének kialakítási készsége.
+A minőségi munkavégzés készsége.
+A szakmai probléma-megoldási készsége.
+Fejlődési készség szakmai és együttműködés területein.
+A személyes példamutatás készsége.
+Személyes kompetenciák:
+Empátia.
+Pozitív elvárások attitűdje.
+Pozitív jövőkép kialakításának képessége.
+Példamutatás a szakmai rutin területén.
+Példamutatás a célorientált munkavégzés területén.
+Példamutatás a szakmai problémamegoldás területén.
+Példamutatás a minőségi munkavégzés területén.
+Példamutatás a szakmai és együttműködési önfejlődés területén.
+Társas kompetenciák:
+Kommunikációs nyitottság.
+Együttműködési képesség.
+
+Módszerkompetenciák:
+Történeti áttekintő képesség.
+Módszertani strukturálás képessége.
+A szakmai gyakorlat pedagógiai megtervezésének képessége.
+Az élményközpontú gyakorlati képzés megvalósításának képessége.
+A pedagógiai eszközök tudatos használatának képessége a tanulóképzésben.
+A célorientált munkavégzés elsajátíttatásának képessége.
+A hatékonyság és az erőforrás-takarékosság elsajátíttatásának képessége.
+A munkavégzési önállóság elsajátíttatásának képessége.
+A szakmai problémamegoldás elsajátíttatásának képessége.
+A minőségi munkavégzés elsajátíttatásának képessége.
+A szakmai és együttműködési önfejlődés elsajátíttatásának képessége.
+A nevelés és személyes példamutatás képessége.
+A szakmai követelménymodul azonosítója és megnevezése:
+002-11-1 Vállalkozási ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Jogi ismeretek:
+Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével, amely alapján képes elvégezni az
+alábbi feladatokat:
+Elvállalja a vállalkozások alapításával kapcsolatos általános feladatokat.
+Intézi a működési engedélyek beszerzését.
+Jogi tanácsadást igényel, konkrét igényt fogalmaz meg.
+Ellátja a vállalkozások megszűnésével kapcsolatos általános feladatokat.
+Jogi felügyelettel munkajogi szerződéseket készít, ellenőriz.
+Jogi felügyelettel vállalkozói szerződéseket készít, ellenőriz.
+Figyelemmel kíséri a jogszabályi változásokat.
+Marketing ismeretek:
+Tisztában van a vállalkozások piaci környezetével és ezek hatásaival. Ennek alapján az alábbi feladatokat képes
+elvégezni:
+Üzleti tervet készít.
+Elvégzi a saját iparágának bemutatását és elemzését.
+Meghatározza és kidolgozza a marketing-mix elemeit.
+PR- és kommunikációs tevékenységet végez.
+Adó-TB-pénzügyi-számviteli ismeretek:
+Ismeri az alapvető adó- és pénzügyi szabályokat, valamint a gazdaság működési elveit. Ennek alapján az alábbi
+feladatokat képes elvégezni:
+Kitölti az adónyomtatványokat.
+Főbb vonalakban ismeri az egyes adó- és kamatszámítási módszereket.
+Ismeri a vállalkozások éves beszámolójának főbb egységeit és ezek lényeges elemeit, valamint ezen adatokból
+tájékozódni tud és következtetéseket von le.
+Kialakítja és működteti a vállalkozás szervezetét.
+Pénzügyi tervet készít.
+Rezsióradíjat számol.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Jogi ismeretek:
+A gazdálkodás, vállalkozás fogalma, jellemzői.
+Egyéni vállalkozás.
+Egyéni cég.
+Gazdasági társaságok csoportosítása.
+Gazdasági társaságok működésének szabályai.
+Vállalkozási formák közötti választás szempontjai.
+
+Vállalkozások átalakítása és megszüntetése.
+Kötelmi jog elemei.
+Marketing ismeretek:
+A vállalkozás makro- és mikrokörnyezete.
+Piacgazdaság, piac.
+A vállalkozások erőforrásai.
+A vállalkozások reálszférája.
+A vállalkozás személyi feltételei.
+A vállalkozás beindításának alapfeltételei.
+Az elképzelés, az ötlet próbája.
+A vállalkozás beindításához szükséges eszközök listájának összeállítása és a munkaerő szükséglet felmérése.
+A vállalkozás székhelyének, telephelyének megválasztása, belső kialakítása.
+Kommunikáció és információátvitel.
+Adó-TB-pénzügyi-számviteli ismeretek:
+A vállalkozás finanszírozása, pénzügyi terv készítése.
+A munkaviszony létrehozásával és megszüntetésével kapcsolatos feladatok.
+Számviteli rendszer kialakítása.
+A vállalkozás felelősségi rendszere.
+Az üzleti terv készítésének esetei és célközönsége.
+Az üzleti terv felépítése és részei.
+A vállalkozások beszámolási kötelezettségei.
+A mérleg és eredménykimutatás szerepe, tartalma.
+A vállalkozás belső és külső finanszírozási forrásai, a vállalkozás fizetőképessége.
+Hitelezés és támogatás.
+Biztosítás, áru- és vagyonvédelem az üzleti életben.
+Adózás és társadalombiztosítás.
+A munkaszervezés alapjai.
+Az ellenőrzés alapelvei.
+szakmai készségek:
+Olvasott köznyelvi szöveg megértése.
+Köznyelvi szöveg fogalmazása írásban.
+Kézírás.
+Köznyelvi szöveg hallás utáni megértése.
+Köznyelvi beszédkészség.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvi íráskészség, fogalmazás.
+Szakmai nyelvű hallott szöveg megértése.
+Szakmai nyelvű beszédkészség.
+Telefonálási technikák.
+Számítástechnikai ismeretek.
+Személyes kompetenciák:
+Tisztesség, felelősségtudat.
+Megbízhatóság.
+Döntésképesség.
+Fejlődőképesség, önfejlesztés.
+Szervezőkészség.
+Önállóság.
+Kitartás.
+Rugalmasság.
+Elhivatottság, elkötelezettség.
+Kockázatvállalás.
+
+Társas kompetenciák:
+Kapcsolatteremtő készség.
+Határozottság.
+Kommunikációs készség.
+Konfliktusmegoldó képesség.
+Irányítási készség.
+Kompromisszum készség.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Tervezés.
+Áttekintő és rendszerező képesség.
+Kreativitás, ötletgazdagság.
+Új ötletek, megoldások kipróbálása.
+Nyitott hozzáállás.
+Eredményorientáltság.
+Hibakeresés.
+A szakmai követelménymodul azonosítója és megnevezése:
+207-14 Papírgyártó és -feldolgozó ipari technológiák alkalmazása
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Anyag-előkészítő berendezéseket kezel.
+Papírgépi és papír feldolgozógépi folyamatszabályozó számítógépet kezel.
+Vágógépi méretbeállítást végez, papírtekercset vág, papírtekercs csomagolást, pántolást végez,
+tekercsminőséget ellenőriz.
+Ívvágógépi méretbeállítást végez, ívet vág, ívminőséget ellenőriz, azonosító és termelési adatokat rögzít, íves
+árut csomagol, pántol, azonosítót elhelyez.
+Beállítja a simítógépet, simítást végez, papírtekercseket kezel.
+Előkészíti, beállítja, kezeli és felügyeli a hullámlemez gyártó gépsort, és a szükséges papírt és segédanyagot.
+Előkészíti az anyagot és a segédanyagot, valamint a segédeszközöket.
+Beállítja és üzemelteti a hullámlemez- és flexonyomó gépet.
+Beállítja és üzemelteti a síkkimetsző-gépet, a rotációs kimetsző-gépet valamint a nyomó, a résvágó, a rotációs
+kimetsző- és a ragasztógépet.
+Beállítja és üzemelteti a zsák-, zacskó-, tasak-, hordtáska gyártó gépet.
+Beállítja és üzemelteti az egészségügyi- és kéztörlőpapír-gyártó gépet, papír zsebkendő gyártó gépet valamint
+a szalvétagyártó gépet.
+Beállítja és üzemelteti a borítékgyártó gépet és a füzetgyártó gépet.
+Beállítja és üzemelteti a kreppelő- és a színezőgépet.
+Beállítja és üzemelteti a kasírozógépet, a bevonó- és az impregnáló gépeket.
+Beállítja és üzemelteti a hengerdoboz-, papírcső-, papírhordó-gyártó gépet.
+Rakatoló-csomagoló gépet és hullámtermék-rakatrögzítő gépet kezel.
+Fát, szalmát aprít, szecskáz, tisztít.
+Feltáróberendezéseket előkészít, ellenőriz és kezel.
+Rostos félterméket mos, tisztít, osztályoz, fehérít.
+Rostos féltermékgyártó besűrítő, víztelenítő- szárító berendezéseket kezel.
+Szennylúg-regeneráló berendezéseket kezel.
+Papírhulladékot tisztít, osztályoz, nemesít, báláz.
+Papírhulladék anyag-előkészítő berendezéseket kezel.
+Rostos féltermékeket felold, tisztít, őröl, osztályoz.
+Gondoskodik a papír, hullámpapírlemez félkész és késztermékek továbbításáról.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Egynyári- és fás növények rostjainak jellemzői.
+Papírhulladék jellemzői és osztályozása.
+Féltermékgyártás termékei, gépei és technológiái, mosási technológiák.
+
+Feltárás és fehérítés vegyi-anyagai tulajdonságai.
+Cellulózgyártó berendezések típusai.
+Papírhulladék-festéktelenítés technológiája.
+Feltáró vegyszeroldatok készítési technológiái.
+Szennylúg-regenerálás folyamata, vegyi-anyagai tulajdonságai.
+Cellulóz-és papírgyári szennyvizek kezelése.
+A papír tulajdonságaira ható segédanyagok tulajdonságai és adagolási módjai.
+A gyártási folyamatra ható adalékanyagok tulajdonságai és adagolási módjai.
+Rostos féltermék oldás technológiája.
+Őrlés technológiája, őrlésfok mérése.
+Péptisztítás, osztályozás technológiája.
+A papírgép felépítése, szerkezeti egységei.
+Lapképzési technológiák, korszerű lapképzési módok.
+Présszakasz felépítése, víztelenítés a présszakaszon.
+Szárítás technológiája és a szárítószakasz célberendezései.
+A papírfeltekercselés technológiája.
+A papírgépi vízrendszer tulajdonságai.
+Tekercsvágó- és áttekercselő gép, valamint simítógép és működése.
+Papírfeldolgozás technológiái és gépei.
+Papírmázolás és -nemesítés segédanyagai, fajtái.
+Hullámtermékek típusai és alappapírjaik.
+Hullámtermékgyártás technológiái és gépei.
+Nyomdaipari technológiák.
+Papíripari anyagmozgató és szállító berendezések.
+Cellulóz- és papírgyártás illetve papírfeldolgozás környezetvédelme.
+szakmai készségek:
+Számítógép használat.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvű hallott szöveg megértése.
+Papírgyártás és –feldolgozás gépeinek kezelése.
+Gépészeti- és karbantartási eszközök használata.
+Személyes kompetenciák:
+Állóképesség.
+Pontosság.
+Felelősségtudat.
+Társas kompetenciák:
+Kapcsolatfenntartó készség.
+Konfliktusmegoldó készség.
+Irányítási készség.
+Módszerkompetenciák:
+Áttekintő képesség.
+Figyelemmegosztás.
+Gyakorlatias feladatértelmezés.
+A szakmai követelménymodul azonosítója és megnevezése:
+208-14 Papíripari vizsgálatok és minőségbiztosítás
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Féltermékgyártó, papírgyártó és papírfeldolgozó gyártási utasításokat értelmez és végrehajt.
+Gyártásközi minőségellenőrzést végez.
+Folyamatot felügyel, szükség szerint beavatkozik.
+Technológiai utasítás szerint beállítja a féltermékgyártó, papírgyártó és papírfeldolgozó gépeket,
+berendezéseket és felügyeli a technológiai folyamatot.
+
+Papírmintát küld a laborba, majd a papírvizsgálati minőségi bizonylat alapján korrekciókat végez, hibás termék
+esetén selejtez.
+Gyártási azonosító adatokat rögzít és elhelyez az alap-, félkész-, és késztermékeken és gondoskodik azok
+megfelelő továbbításáról.
+Az előírások szerint szállítja és tárolja a felhasznált és legyártott anyagokat, félkész- és késztermékeket.
+Betartja a minőségirányítási, minőségbiztosítási rendszer előírásait.
+Folyamatosan ellenőrzi, ellenőrizteti a gyártás menetét és a termékek mennyiségét és minőségét,
+dokumentálja a gyártási folyamatot.
+Mintavételezést végez az alap-, félkész- és késztermékek minősítéséhez.
+Anyagvizsgálati körülményeket meghatároz, dokumentál.
+Mintákat előkészít anyag és termékvizsgálatokhoz.
+Meghatározza a szükséges vizsgálatok körét.
+Laboratóriumi berendezéseket beállít, kezel.
+Elvégzi, elvégezteti az alapjellemzők meghatározását, mérését.
+Elvégzi és elvégezteti a papírok, kartonok mechanikai vizsgálatait, az eredményeket értékeli.
+Elvégzi és elvégezteti a papírok, kartonok fizikai vizsgálatait, az eredményeket értékeli.
+Elvégzi és elvégezteti a papírok, kartonok optikai vizsgálatait, az eredményeket értékeli.
+Elvégzi és elvégezteti a rostanyagok, féltermékek, papírok és kartonok kémiai vizsgálatait, az eredményeket
+értékeli.
+Elvégzi és elvégezteti a hullámpapírlemezek mechanikai vizsgálatait, az eredményeket értékeli.
+Elvégzi és elvégezteti a papírfeldolgozó-ipari termékek vizsgálatait, az eredményeket értékeli.
+Mérési eredményeket értékel, egyszerű statisztikai elemzést végez.
+Vizsgálati folyamatot és eredményeket dokumentál, mérési jegyzőkönyvet készít.
+Papíripari számításokat végez.
+Mérési eredmények alapján javaslatot tesz a technológiai folyamatok és anyagok esetleges korrigálására.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Rostanyagok, féltermékek jellemzői és minősítése.
+Papírhulladékok jellemzői és minősítése.
+Cellulózgyártás egyéb anyagai tulajdonságai.
+Papíripari alap és segédanyagok.
+Papíripari anyagjellemzők és meghatározási módjaik, vizsgálati eredmények visszacsatolása.
+Papíripari rostanyagok fizikai és kémiai jellemzői.
+Papírtípusok, papíripari termékek felosztása és jellemző tulajdonságaik.
+Papíripari szabványok.
+Papíripari anyagvizsgálati-, online mérő- és szabályzó műszerek jellemzői.
+Laboratóriumi mérőeszközök és műszerek.
+Papírok, kartonok, papírlemezek alapjellemzői és meghatározási módszereik.
+Papírok, kartonok, papírlemezek mechanikai tulajdonságai és meghatározási módszereik.
+Papírok, kartonok, papírlemezek fizikai tulajdonságai és meghatározási módszereik.
+Papírok, kartonok, papírlemezek optikai tulajdonságai és meghatározási módszereik.
+Papírok, kartonok, papírlemezek kémiai tulajdonságai és meghatározási módszereik.
+Hullámtermékek tulajdonságai és meghatározási módszereik.
+Papírfeldolgozó-ipari termékek tulajdonságai és vizsgálati módszerei.
+Vizsgálatokat befolyásoló tényezők.
+Mintavételezés eszközei és módszerei.
+Minták tárolása, klimatizálása.
+Mérési eredmények statisztikai elemzése.
+Papíripari számítások.
+Vizsgálati illetve mérési dokumentációk.
+A papírgépi számítógépes folyamatirányító rendszer.
+A papírfeldolgozó ipar segédanyagai és eszközei.
+szakmai készségek:
+Számítógép használat.
+Olvasott szakmai szöveg megértése.
+
+Szakmai nyelvű hallott szöveg megértése.
+Mérőműszerek használata.
+Laboratóriumi eszközök használata.
+Személyes kompetenciák:
+Pontosság.
+Precizitás.
+Döntésképesség.
+Társas kompetenciák:
+Kapcsolatfenntartó készség.
+Konfliktusmegoldó készség.
+Visszacsatolási készség.
+Módszerkompetenciák:
+Áttekintő képesség.
+Ismeretek helyén való alkalmazása.
+Gyakorlatias feladatértelmezés.
+A szakmai követelménymodul azonosítója és megnevezése:
+209-14 Munkabiztonság és környezetvédelem
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Közreműködik a rostos féltermékgyártás és vegyszer-regenerálás gépeinek, berendezéseinek karbantartási és a
+gépápolási műveleteiben.
+Használja és használtatja a munkavédelmi eszközöket.
+Betartja, betartatja a vegyszerek szakszerű kezelését.
+Elkülönítetten gyűjti, gyűjteti a hulladékokat.
+Elvégzi, elvégezteti a veszélyes hulladékok szakszerű gyűjtését.
+Munka és környezetvédelmi utasítások alapján együttműködik a megelőző és követő technológiai műveletet
+végzővel.
+Közreműködik a papír- és feldolgozott termékgyártó gép karbantartási és a gépápolási műveleteiben.
+Napi karbantartási feladatokat lát el, elvégzi, elvégezteti a berendezések és környezetének tisztítását.
+Betartja, betartatja és felügyeli a foglalkozás-egészségügy előírásokat.
+Betartja, betartatja és felügyeli a munkabiztonsági előírásokat.
+Betartja, betartatja és felügyeli a biztonságtechnikai, tűzvédelmi előírásokat.
+Betartja, betartatja és felügyeli a környezetvédelmi előírásokat.
+Rendkívüli helyzeteket észlel, kezel, szükség esetén részt vesz azok elhárításában.
+Vészhelyzetben intézkedik a felügyelete alá tartozó termelő rendszerek vagy gépek biztonságos leállításáról.
+Közreműködik a biztonsági és vagyonvédelmi intézkedési terv végrehajtásában.
+Dokumentálja és ellenőrzi a berendezések biztonságos működését.
+Gondoskodik a munkaterület folyamatos tisztántartásáról.
+Bejárja a munkaterületet.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Biztonsági, munkavédelmi és tűzvédelmi előírások, eszközök és használatuk.
+Papíripari MEBIR rendszerek.
+Papíripari KIR rendszer.
+Munkavédelmi, biztonságtechnikai jelek.
+Tűzveszélyességi osztályok a papíriparban, tűz- és robbanásveszélyes anyagok és jelöléseik.
+Karbantartási tervek és dokumentumok.
+Raktározás, tárolás esetei és dokumentációi.
+Anyagmozgató gépek típusai és biztonsági előírásai.
+Nyomástartó berendezések műszaki-biztonsági előírásai.
+Védőruházat, védőfelszerelések.
+Hatósági előírások.
+
+Technológiai, gyártási dokumentációk.
+Hulladékkezelés, elkülönített hulladékgyűjtés.
+Veszélyes hulladékok kezelése.
+Elsősegélynyújtás.
+szakmai készségek:
+Munkabiztonsági eszközök, felszerelések használata.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvű hallott szöveg megértése.
+Munkavédelmi, biztonságtechnikai jelek értelmezése.
+Tűzvédelmi eszközök használata.
+Személyes kompetenciák:
+Felelősségtudat.
+Elhivatottság, elkötelezettség.
+Megbízhatóság.
+Társas kompetenciák:
+Határozottság.
+Konfliktusmegoldó készség.
+Visszacsatolási készség.
+Módszerkompetenciák:
+Problémamegoldás, hibaelhárítás.
+Rendszerekben való gondolkodás.
+A környezet tisztán tartása.
+IV. Mestervizsgáztatási követelmények
+1. A mestervizsgára bocsátás feltételei
+A mestervizsgára bocsátásnak az „I. A Papírgyártó és -feldolgozó mestervizsgára jelentkezés feltételei” című
+alcímben leírtakon kívül nincs más feltétele.
+2. A mestervizsga vizsgatevékenységei és vizsgafeladatai
+Gyakorlati vizsgatevékenység
+A vizsgafeladat megnevezése: Technológiai és minőségellenőrzési feladat
+A vizsgafeladat ismertetése: Gyártási utasítás alapján operátori tevékenység ellátása, gépek beállítása,
+kezelése, ellenőrzése. Minőségellenőrzés céljából anyagvizsgálatok elvégzése alap-, félkész- és
+késztermékeken, az eredmények értékelése és dokumentálása.
+A vizsgafeladat időtartama: 240 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+Írásbeli vizsgatevékenység
+A vizsgafeladat megnevezése: Komplex írásbeli feladat
+A vizsgafeladat ismertetése: Folyamatábra készítése féltermékgyártási, papírgyártási, illetve
+papírfeldolgozó-ipari technológiákról. Papíripari technológiai ismeretek ismertetése, alkalmazása. Technológiai
+számítások elvégzése. Munkabiztonsági és környezetvédelemi fogalmak és szabályok ismertetése.
+A vizsgafeladat időtartama: 120 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+Szóbeli vizsgatevékenység
+A) A vizsgafeladat megnevezése: Papíripari technológiák és papíripari anyagismeret
+A vizsgafeladat ismertetése: A szóbeli vizsgatevékenység központilag összeállított kérdései a Papírgyártó és –
+feldolgozó ipari technológiák alkalmazása valamint a Papíripari vizsgálatok és minőségbiztosítás megnevezésű
+szakmai követelménymodulokhoz tartozó témaköröket tartalmazzák.
+A vizsgafeladat időtartama: 60 perc, amelyből a felkészülési idő 30 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+
+B) A vizsgafeladat megnevezése: Pedagógiai ismeretek
+A vizsgafeladat ismertetése:
+A gyakorlati munka tanulásához szükséges pszichológiai fogalmak, alapok.
+A szakmai gyakorlat tanítás-tanulási folyamatának jellemzői.
+A szakmai gyakorlat, mint munkavégzés általi tanulás módszertani feladatai.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+C) A vizsgafeladat megnevezése: Vállalkozási ismeretek
+A vizsgafeladat ismertetése:
+Jogi ismeretek.
+Marketing ismeretek.
+Adó-TB-pénzügyi-számviteli ismeretek.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+3. A mestervizsga értékelése
+A jelölt mestervizsgája Megfelelt minősítésű, ha minden vizsgatevékenység esetében Megfelelt minősítést
+szerzett.
+Sikertelen a mestervizsga, ha a vizsgázó egy vagy több vizsgatevékenység esetében Nem felelt meg minősítést
+szerzett.
+A jelöltnek javítóvizsgát abból a vizsgafeladatból kell tennie, amely esetében Nem felelt meg minősítést
+szerzett.
+4. A mestervizsga egyes részei alóli felmentés feltételei
+A Magyar Kereskedelmi és Iparkamara egységes szerkezetbe foglalt Mestervizsga Szabályzata szerinti eljárás
+keretében felmentés adható a pedagógiai és vállalkozási ismeretek megnevezésű részvizsga alól annak, aki
+felsőfokú szakirányú végzettséggel rendelkezik vagy két éven belül más mesterképesítésből sikeres
+mestervizsgát tett.
+A mestervizsga követelményekben nem szabályozott kérdésekben a Magyar Kereskedelmi és Iparkamara
+Mesterképzési és Mestervizsga Szabályzatában foglaltak az irányadók.
+V. Eszköz- és felszerelési jegyzék
+A B
+1.
+A képzési feladatok teljesítéséhez szükséges eszközök és
+felszerelések minimuma
+Papírgyártó és -feldolgozó
+mester
+2. Segédeszközök X
+3. Emelőberendezések X
+4. Anyagmozgató berendezések X
+5. Anyagkádak X
+6. Osztályozóberendezések X
+7. Védőeszközök és -berendezések X
+8. Környezetvédelmi berendezések X
+9. Mérőeszközök, laboratóriumi műszerek X
+10. Rakodógépek X
+11. Gyártósorok X
+12. Műszaki dokumentáció X
+13. Számítógép X
+14. Szoftverek X
+
+50. SZÁRAZÉPÍTŐ MESTERVIZSGA KÖVETELMÉNYEI
+I. A Szárazépítő mestervizsgára jelentkezés feltételei
+1. A Szárazépítő mestervizsgához szükséges szakképesítési feltételek
+A Szárazépítő mestervizsgára jelentkezéshez az alábbi szakképesítések (szakmák), szakképzettségek egyikével
+kell rendelkeznie a mesterjelöltnek.
+A B
+1.1. A szakképesítés (szakma), szakképzettség
+1.2. megnevezése azonosító száma
+1.3. Szárazépítő 34 582 10
+1.4. Magasépítő technikus 54 582 03
+1.5. Építészmérnök
+Megjegyzés: A mestervizsgához szükséges szakképesítési feltétel teljesítéséhez a Magyar Kereskedelmi és
+Iparkamara a vizsgára bocsátás feltételeinek vizsgálatakor egyenértékűként fogadhatja el a jogelőd, valamint
+jogutód szakképesítéseket (szakmákat), szakképzettségeket is.
+2. A Szárazépítő mestervizsgára jelentkezéshez szükséges szakmai gyakorlat
+A szakma munkaterületén a szakirányú képesítés megszerzését követően az alábbiakban meghatározott
+szakmai gyakorlat igazolása szükséges.
+A B
+2.1. A szakmai gyakorlat
+2.2. szakiránya időtartama (év)
+2.3. Szárazépítő 5
+2.4. Magasépítő technikus 3
+2.5. Építészmérnök 3
+Megjegyzés: A szakmai gyakorlat részidőkből is összeállhat, de az utolsó időszak nem lehet egy évnél rövidebb,
+és a vizsgára jelentkezés időpontjában az utolsó igazolt szakmai gyakorlat nem lehet egy évnél régebbi.
+A gyakorlati időbe nem számítható be a GYED, illetve a sor- vagy tartalékos katonai, valamint polgári szolgálat
+ideje.
+II. A Szárazépítő mester munkaterülete, a mestercímhez kapcsolódó tevékenységek
+1. A Szárazépítő mester munkaterületének leírása
+Értelmezi a rendelkezésre álló műszaki dokumentáció tartalmát és használja az építészeti alapfogalmakat
+munkája során.
+Megismeri és előkészíti az elvégzendő feladatokat.
+Munkát előkészítő és befejező műveleteket végez.
+Kapcsolatot tart a megrendelővel és a munkafeladat elvégzéséhez szükséges más szakmák képviselőivel.
+Kitűzési munkálatokat végez.
+Szerelt válaszfalat épít, építtet.
+Ívelt szerkezetet készít, készíttet és borít, boríttat.
+Hézagerősítést, hézagolást és tömítést végez, végeztet.
+Álmennyezetek szerkezetét megépíti, megépítteti.
+Elhelyezi, elhelyezteti és rögzíti, rögzítteti az álmennyezeti lapokat vagy építőlemezeket.
+Szárazfeltöltést készít, készíttet.
+Szárazpadlót készít, készíttet.
+Elhelyezi, elhelyezteti az álpadló elemeit.
+
+Öntött álpadlót készít, készíttet.
+Tűzvédelmi borításokat készít, készíttet.
+Elkészíti, elkészítteti a tetőtérben a ferde és a függőleges felületek borítását.
+Előtéthéjat, előtétfalat és aknafalat készít, készíttet.
+Szárazvakolatot ragaszt, ragasztat.
+Betartja, betartatja a munkavédelmi és balesetvédelmi előírásokat.
+Szervezi és irányítja a munkatevékenységet.
+Szervezi és irányítja a hozzá beosztott dolgozók tevékenységét.
+Értékeli és minősíti a végzett munkát.
+2. A Szárazépítő mesterképesítéssel rokon mesterképesítések
+A
+2.1. A Szárazépítő mesterképesítéssel rokon mesterképesítés(ek) megnevezése
+2.2. –
+III. Szakmai követelmények
+A szakmai követelménymodulok felsorolása:
+A B
+1. A Szárazépítő megnevezésű mesterképesítés szakmai követelménymoduljainak
+2. azonosítója megnevezése
+3. 001-11-1 Pedagógiai ismeretek
+4. 002-11-1 Vállalkozási ismeretek
+5. 003-09-1 Építőipari közös feladatok
+6. 210-14 Belsőépítési szerkezet készítése – Válaszfal és álmennyezet készítése
+7. 211-14 Szárazaljzatok és álpadlók készítése
+8. 212-14 Tűzállóságot javító burkolatok készítése
+9. 213-14 Tetőtér és előtét borítások készítése
+A szakmai követelménymodul azonosítója és megnevezése:
+001-11-1 Pedagógiai ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Ismeri és tudatosan kezeli a gyermek fejlődési fázisait, megismerési és kommunikációs szerepeit a
+tanulóképzésben.
+Ismeri és alkalmazza a szakképzésen belül a gyakorlati képzés pedagógiai sajátosságait.
+A pedagógiai célokat és azok eléréshez szükséges feladatrendszert egymáshoz illeszti, megtervezi a szakmai
+gyakorlat pedagógiai folyamatát.
+Kezeli a mai kor értékeit, értékválságát és a mai kor társadalmi értékeit.
+Ismeri a pozitív jövőképpel rendelkező életpályát, a proaktív életvezetés pedagógiai sajátosságait.
+Megvalósítja az élményközpontú gyakorlati képzést és a pozitív, negatív visszacsatolások motivációját.
+Ismeri és tudatosan használja a pedagógiai eszközöket a gyakorlati munkában és a tanulóképzésben.
+Tudatosan használja a munkáltató foglalkozásokat a tanulóképzésben.
+Megvalósítja a célorientált munkavégzésre törekvést.
+Megvalósítja a hatékony és erőforrás-takarékos feladatvégzést.
+Megvalósítja a munkavégzési önállóságot.
+Kialakítja a szakmai problémamegoldás képességét.
+Formálja a minőségi munkavégzés és az önellenőrző felelősségvállalás képességét.
+Kreatívan megvalósítja a szakmai problémamegoldást, szükség esetén csapatmunkában.
+Képes a szakmai és együttműködési önfejlődésre.
+
+Tudatosan kezeli a nevelés és személyes példamutatás jelentőségét és szerepét.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+A gyermek fejlődési fázisainak, megismerési és kommunikációs szerepeinek tudatos kezelésének ismerete a
+tanulóképzésben.
+A szakképzésen belül a gyakorlati képzés pedagógiai sajátosságainak ismerete és alkalmazása.
+A pedagógiai célok és azok eléréshez szükséges feladatrendszer illesztésének ismerete.
+A szakmai gyakorlat pedagógiai folyamatának megtervezési ismerete.
+A mai kor értékei, értékválsága és a mai kor társadalmi értékeinek ismerete.
+A pozitív jövőképpel rendelkező életpálya, a proaktív életvezetés pedagógiai sajátosságainak ismerete.
+Az élményközpontú gyakorlati képzés és a pozitív, negatív visszacsatolások motivációs megvalósításának
+ismerete.
+A pedagógiai eszközök és tudatos használatuk ismerete a gyakorlati munkában és a tanulóképzésben.
+A munkáltató foglalkozások tudatos használatának ismerete a tanulóképzésben.
+A célorientált munkavégzésre törekvés szerepének ismerete.
+A hatékony és erőforrás-takarékos feladatvégzés szerepének ismerete.
+A munkavégzési önállóság szerepének ismerete.
+A szakmai problémamegoldás képességének kialakítási ismerete.
+A minőségi munkavégzés és önellenőrző felelősségvállalás képességének formálási ismeretei.
+A szakmai problémamegoldás kreatív módszereinek ismerete, szükség esetén csapatmunkában.
+A szakmai és együttműködési önfejlődés nyitottságának ismeretei.
+A nevelés és személyes példamutatás jelentőségének és szerepének ismeretei.
+szakmai készségek:
+Köznyelvi beszédkészség.
+Mennyiségérzék.
+Szakmai nyelvű beszédkészség.
+Olvasott szakmai szöveg megértése.
+Elemi számolási készség.
+Tervezési készség a feladatok megtervezéséhez, illesztéséhez.
+Tervezési készség a szakmai gyakorlat megtervezéséhez.
+Tervezési készség az életpálya tervezéshez és életvezetéshez.
+Az élményközpontú gyakorlati képzés vezetésének készsége.
+Motivációs készség.
+A gyermek tanulásának segítése.
+A pedagógiai módszerek használata.
+Pedagógiai beszédkészség.
+A szakképzési eszközök használata.
+A gyakorlati képzés módszertana.
+Oktatási eszközök használata.
+A valós vállalkozási környezetben történő gyakorlati eszközhasználat.
+A munkáltató foglalkozások használatának készsége.
+A célorientált munkavégzés készsége.
+A feladatok erőforrás-takarékos végzésének készsége.
+Az önálló munkavégzés készsége.
+A szakmai problémamegoldás képességének kialakítási készsége.
+A minőségi munkavégzés készsége.
+A szakmai probléma-megoldási készsége.
+Fejlődési készség szakmai és együttműködés területein.
+A személyes példamutatás készsége.
+Személyes kompetenciák:
+Empátia.
+Pozitív elvárások attitűdje.
+Pozitív jövőkép kialakításának képessége.
+Példamutatás a szakmai rutin területén.
+
+Példamutatás a célorientált munkavégzés területén.
+Példamutatás a szakmai problémamegoldás területén.
+Példamutatás a minőségi munkavégzés területén.
+Példamutatás a szakmai és együttműködési önfejlődés területén.
+Társas kompetenciák:
+Kommunikációs nyitottság.
+Együttműködési képesség.
+Módszerkompetenciák:
+Történeti áttekintő képesség.
+Módszertani strukturálás képessége.
+A szakmai gyakorlat pedagógiai megtervezésének képessége.
+Az élményközpontú gyakorlati képzés megvalósításának képessége.
+A pedagógiai eszközök tudatos használatának képessége a tanulóképzésben.
+A célorientált munkavégzés elsajátíttatásának képessége.
+A hatékonyság és az erőforrás-takarékosság elsajátíttatásának képessége.
+A munkavégzési önállóság elsajátíttatásának képessége.
+A szakmai problémamegoldás elsajátíttatásának képessége.
+A minőségi munkavégzés elsajátíttatásának képessége.
+A szakmai és együttműködési önfejlődés elsajátíttatásának képessége.
+A nevelés és személyes példamutatás képessége.
+A szakmai követelménymodul azonosítója és megnevezése:
+002-11-1 Vállalkozási ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Jogi ismeretek:
+Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével, amely alapján képes elvégezni az
+alábbi feladatokat:
+Elvállalja a vállalkozások alapításával kapcsolatos általános feladatokat.
+Intézi a működési engedélyek beszerzését.
+Jogi tanácsadást igényel, konkrét igényt fogalmaz meg.
+Ellátja a vállalkozások megszűnésével kapcsolatos általános feladatokat.
+Jogi felügyelettel munkajogi szerződéseket készít, ellenőriz.
+Jogi felügyelettel vállalkozói szerződéseket készít, ellenőriz.
+Figyelemmel kíséri a jogszabályi változásokat.
+Marketing ismeretek:
+Tisztában van a vállalkozások piaci környezetével és ezek hatásaival. Ennek alapján az alábbi feladatokat képes
+elvégezni:
+Üzleti tervet készít.
+Elvégzi a saját iparágának bemutatását és elemzését.
+Meghatározza és kidolgozza a marketing-mix elemeit.
+PR és kommunikációs tevékenységet végez.
+Adó-TB-pénzügyi-számviteli ismeretek:
+Ismeri az alapvető adó- és pénzügyi szabályokat, valamint a gazdaság működési elveit. Ennek alapján az alábbi
+feladatokat képes elvégezni:
+Kitölti az adónyomtatványokat.
+Főbb vonalakban ismeri az egyes adó- és kamatszámítási módszereket.
+Ismeri a vállalkozások éves beszámolójának főbb egységeit és ezek lényeges elemeit, valamint ezen adatokból
+tájékozódni tud és következtetéseket von le.
+Kialakítja és működteti a vállalkozás szervezetét.
+Pénzügyi tervet készít.
+Rezsióradíjat számol.
+
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Jogi ismeretek:
+A gazdálkodás, vállalkozás fogalma, jellemzői.
+Egyéni vállalkozás.
+Egyéni cég.
+Gazdasági társaságok csoportosítása.
+Gazdasági társaságok működésének szabályai.
+Vállalkozási formák közötti választás szempontjai.
+Vállalkozások átalakítása és megszüntetése.
+Kötelmi jog elemei.
+Marketing ismeretek:
+A vállalkozás makro- és mikrokörnyezete.
+Piacgazdaság, piac.
+A vállalkozások erőforrásai.
+A vállalkozások reálszférája.
+A vállalkozás személyi feltételei.
+A vállalkozás beindításának alapfeltételei.
+Az elképzelés, az ötlet próbája.
+A vállalkozás beindításához szükséges eszközök listájának összeállítása és a munkaerő szükséglet felmérése.
+A vállalkozás székhelyének, telephelyének megválasztása, belső kialakítása.
+Kommunikáció és információátvitel
+Adó-TB-pénzügyi-számviteli ismeretek:
+A vállalkozás finanszírozása, pénzügyi terv készítése.
+A munkaviszony létrehozásával és megszüntetésével kapcsolatos feladatok.
+Számviteli rendszer kialakítása.
+A vállalkozás felelősségi rendszere.
+Az üzleti terv készítésének esetei és célközönsége.
+Az üzleti terv felépítése és részei.
+A vállalkozások beszámolási kötelezettségei.
+A mérleg és eredménykimutatás szerepe, tartalma.
+A vállalkozás belső és külső finanszírozási forrásai, a vállalkozás fizetőképessége.
+Hitelezés és támogatás.
+Biztosítás, áru- és vagyonvédelem az üzleti életben.
+Adózás és társadalombiztosítás.
+A munkaszervezés alapjai.
+Az ellenőrzés alapelvei.
+szakmai készségek:
+Olvasott köznyelvi szöveg megértése.
+Köznyelvi szöveg fogalmazása írásban.
+Kézírás.
+Köznyelvi szöveg hallás utáni megértése.
+Köznyelvi beszédkészség.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvi íráskészség, fogalmazás.
+Szakmai nyelvű hallott szöveg megértése.
+Szakmai nyelvű beszédkészség.
+Telefonálási technikák.
+Számítástechnikai ismeretek.
+Személyes kompetenciák:
+Tisztesség, felelősségtudat.
+Megbízhatóság.
+Döntésképesség.
+
+Fejlődőképesség, önfejlesztés.
+Szervezőkészség.
+Önállóság.
+Kitartás.
+Rugalmasság.
+Elhivatottság, elkötelezettség.
+Kockázatvállalás.
+Társas kompetenciák:
+Kapcsolatteremtő készség.
+Határozottság.
+Kommunikációs készség.
+Konfliktusmegoldó képesség.
+Irányítási készség.
+Kompromisszum készség.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Tervezés.
+Áttekintő és rendszerező képesség.
+Kreativitás, ötletgazdagság.
+Új ötletek, megoldások kipróbálása.
+Nyitott hozzáállás.
+Eredményorientáltság.
+Hibakeresés.
+A szakmai követelménymodul azonosítója és megnevezése:
+003-09-1 Építőipari közös feladatok
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Felméri a munkaterületet, helyszíni bejárást végez.
+Felméri a munkafeladat időbeli végrehajthatóságát, megtervezi a munkafolyamatot.
+Anyagszükségletet számol.
+Gondoskodik a szükséges anyagokról, eszközökről, gépekről.
+Ellenőrzi a felhasználásra kerülő anyagokat.
+Felvonul a megfelelő eszközökkel, munkaerővel a munkaterületre.
+Egyeztet a tervezővel, a kivitelezésben résztvevő más szakmák képviselőivel, a megrendelővel.
+Átadja, illetve átveszi a munkát, munkaterületet.
+Helyszíni méréseket végez.
+Értelmezi a kiviteli és technológiai terveket, a tervek alapján esetenként vázlatot készít.
+Megelőző munkafolyamat produktumát ellenőrzi.
+Eszközeivel levonul a munkaterületről.
+Gondoskodik a munkaterület folyamatos tisztán tartásáról.
+Összegyűjti és szakszerűen tárolja a keletkezett hulladékot.
+Anyagok, eszközök szakszerű tárolását biztosítja.
+Munkakörének megfelelő naplót vezet.
+Munkavédelmi, biztonságtechnikai, tűz- és környezetvédelmi oktatáson vesz részt.
+Ellenőrzi, használja az előírt munkavédelmi eszközöket.
+Biztosítja a munkaterület rendjét, balesetmentességét, védelmét.
+Betartja a sajátos munkabiztonsági előírásokat.
+Felméri a veszélyforrásokat és az egészségre ártalmas tényezőket.
+Baleset, illetve veszélyhelyzet esetén munkakörének megfelelően intézkedik.
+Teljesíti a műemlékvédelmi, környezetvédelmi és egyéb jogszabályok, műszaki előírások rá vonatkozó
+rendelkezéseit.
+Megteszi a szükséges teendőket a keletkezett környezetszennyezéssel kapcsolatban.
+Részt vesz a számlák összeállításában.
+
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Anyagmennyiség-meghatározás.
+Rendelési dokumentumok.
+Szállítás.
+Munka megkezdésének feltételei.
+Munkaterület átadás-átvételének szabályai.
+Az elvégzett munka dokumentálása.
+Hulladékkezelés.
+Anyagmennyiség, anyagszükséglet számítása.
+Építési ütemtervek, mint munkamenet, és létszám ütemtervek.
+Építési dokumentáció, mint építési napló és felmérési napló.
+Munkabiztonsági és balesetvédelmi előírások.
+Elsősegélynyújtás.
+Tűzvédelem.
+Tűzveszélyes anyagok raktározása, szállítása, kezelése.
+Hatósági előírások.
+Védőruhák, védőfelszerelések használata.
+Környezetvédelem.
+Felmérés szabályai.
+Kiviteli tervek.
+szakmai készségek:
+Elemi szintű számítógép-használat.
+Építési ütemtervek olvasása, értelmezése.
+Építészeti jelképek értelmezése.
+Kiviteli tervrajz olvasása, értelmezése.
+Egyéni és csoportos munkavédelmi eszközök, berendezések használata.
+Személyes kompetenciák:
+Pontosság.
+Precizitás.
+Szervezőkészség.
+Társas kompetenciák:
+Interperszonális rugalmasság.
+Segítőkészség.
+Módszerkompetenciák:
+Áttekintő képesség.
+Rendszerező képesség.
+Numerikus gondolkodás, matematikai készség.
+A szakmai követelménymodul azonosítója és megnevezése:
+210-14 Belsőépítési szerkezet készítése – Válaszfal és álmennyezet készítése
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Értelmezi a műszaki dokumentációt.
+Anyagszükségletet számol.
+Gondoskodik az anyagok beszerzéséről, építési helyszínre szállításról illetve szállíttatásról.
+Ellenőrzi a szerszámokat, gépeket.
+Kitűzi a fal helyét, és rögzíti az alsó és felső vezetősíneket.
+Csúszófödém kapcsolatot alakít ki.
+Beállítja a profilokat, tartóvázakat.
+Elhelyezi a gépészeti tartóállványokat.
+Csatlakozásokat épít ki.
+Nyíláshelyet alakít ki, kiváltást készít.
+
+Ívelt szerkezetet készít és borít.
+Nedves hajlítással előkészíti az építőlemezeket.
+A szükséges szigetelő anyagot a profilok közé helyezi, rögzíti.
+Mozgási hézagot alakít ki.
+Elhelyezi és rögzíti a falborításként használandó építőlemezeket.
+Elektromos dobozhelyeket alakít ki és szerelőajtót épít be.
+Élvédőket és szegélyprofilokat helyez el.
+Elvégzi a hézagerősítést, hézagolást, tömítést.
+Kitűzi az álmennyezet helyét és kijelöli a mennyezeten a függesztési pontokat és rögzíti a függesztő elemeket.
+Elhelyezi és rögzíti a méretre vágott szegélyt, főtartókat és kereszttartókat.
+Ellenőrzi az álmennyezet felett futó szerelvényeket.
+Elhelyezi a szigetelőanyagot.
+Elhelyezi az álmennyezeti lapokat vagy építőlemezt és rögzíti azokat.
+Tűzvédelmi csatlakozásokat készít.
+Betartja, betartatja a munkavédelmi és balesetvédelmi előírásokat.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Kitűzés alapjai
+Anyagmennyiség-meghatározás.
+Fémprofilok fajtái és felhasználásuk.
+Fa és lécvázak méretei, rögzítése felhasználásuk szerint.
+Íves tartóelemek felhasználása.
+Építőlemezek méretei, felhasználása, szerelése.
+Szigetelőanyagok fajtái, felhasználásuk.
+Kapcsolóelemek fajtái és alkalmazásuk.
+Mérőszalagos mérések, műszeres mérések.
+Ellenőrző mérések.
+Tűrési határok.
+Épület szerkezettan.
+Akusztika alapjai.
+Elektromos szakipar alapjai.
+Épületgépészet alapjai.
+Tervek fajtái, szabványjelölések.
+Ábrázolási technikák.
+Álmennyezet építésének technológiája.
+Válaszfalak szerelési technológiája.
+Íves szerkezetek építési technológiája.
+Dobozolás készítés technológiája.
+Hézagtömítés technológiája.
+Nyíláskialakítás technológiája.
+Revíziósnyílás elhelyezés technológiája.
+Munkavédelmi és balesetvédelmi előírások.
+Tűzvédelmi előírások.
+szakmai készségek:
+Szakmai nyelvű írott és hallott szöveg megértése.
+Épületszerkezeti, épületgépész és elektromos rajz olvasása, értelmezése.
+Szárazépítési anyagok minőségét, tulajdonságát mutató jelképek értelmezése.
+Elektromos kisgépek és kézi szerszámok használata.
+Mérőeszközök használata.
+Személyes kompetenciák:
+Térlátás.
+Pontosság.
+Kézügyesség.
+
+Társas kompetenciák:
+Irányítási készség.
+Kommunikációs rugalmasság.
+Kezdeményezőkészség.
+Módszerkompetenciák:
+Problémamegoldás, hibaelhárítás.
+Áttekintő képesség.
+Gyakorlatias feladatértelmezés.
+A szakmai követelménymodul azonosítója és megnevezése:
+211-14 Szárazaljzatok és álpadlók készítése
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Ellenőrzi a fogadófelületet.
+Áttekinti a terveket.
+Kiszámolja az anyagszükségletet.
+Gondoskodik az anyagok beszerzéséről.
+Ellenőrzi a szerszámokat, gépeket.
+Kitűzi a szerelt aljzatot.
+Előkészíti a fogadószerkezetet, konzultál a gépész és elektromos szakemberrel.
+Szegélyképzést alakít ki.
+Lépéshang elleni, valamint szegélyszigeteléseket készít.
+Szárazfeltöltést készít.
+Szárazpadlót készít.
+Kitűzi és elhelyezi az álpadló támaszait, lábait, beállítja magasságát.
+Elhelyezi a támaszláb kiegészítőit, beépíti az átmenőprofilt.
+Mozgási hézagot alakít ki.
+Elhelyezi az álpadló elemeit.
+Öntött álpadlót készít.
+Irányítja és ellenőrzi a feladatprofilhoz tartozó tevékenységet.
+Betartja és betartatja a munkavédelmi és balesetvédelmi előírásokat.
+Átadja a kész munkát.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Kitűzés alapjai.
+Anyagmennyiség-meghatározás.
+Szigetelőanyagok fajtái, felhasználásuk.
+Elválasztó rétegek és szegélyek ismerete, felhasználása.
+Ellenőrző mérések, szintbeállítás.
+Aljzatkiegyenlítés, szárazfeltöltés anyagai, technológiája.
+Szerelt aljzat anyagai és jellemzőik.
+Szerelt aljzat technológiája.
+Álpadlók anyagai és jellemzőik.
+Álpadlók szerkezete és technológiái.
+Elektromos eszközök érintésvédelmi előírásai.
+Épületgépészet alapjai.
+Ellenőrző mérések.
+Munkavédelmi és balesetvédelmi előírások.
+Tervek fajtái, szabványjelölések.
+szakmai készségek:
+Szakmai nyelvű írott és hallott szöveg megértése.
+Épületszerkezeti, épületgépész és elektromos rajz olvasása, értelmezése.
+
+Szárazépítési anyagok minőségét, tulajdonságát mutató jelképek értelmezése.
+Elektromos kisgépek és kézi szerszámok használata.
+Mérőeszközök használata.
+Személyes kompetenciák:
+Pontosság.
+Kézügyesség.
+Szervezőkésség.
+Társas kompetenciák:
+Konszenzus készség.
+Adekvát metakommunikáció.
+Módszerkompetenciák:
+Problémamegoldás, hibaelhárítás.
+Áttekintő képesség.
+Gyakorlatias feladatértelmezés.
+A szakmai követelménymodul azonosítója és megnevezése:
+212-14 Tűzállóságot javító burkolatok készítése
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Ellenőrzi a védendő szerkezetet.
+Áttekinti a terveket és a tűzvédelmi előírásokat.
+Meghatározza az anyagszükségletet.
+Gondoskodik az anyagok beszerzéséről.
+Ellenőrzi a szerszámokat, gépeket.
+Leszabja a tűzvédelmi előírásoknak, tervnek megfelelően előírt anyagot.
+Kitűzi a tűzvédelmi borítást vagy szerkezetet.
+Elhelyezi a fogadószerkezetet.
+Tűzvédelmi borításokat készít.
+Tűzvédelmi hézagolást végez.
+Élvédőket és szegélyprofilokat helyez el.
+Betartja és betartatja a munkavédelmi és balesetvédelmi előírásokat.
+Irányítja és ellenőrzi a feladatprofilhoz tartozó tevékenységet.
+Átadja a kész munkát.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Kitűzés alapjai.
+Anyagmennyiség-meghatározás.
+Épületgépészet és elektromosság alapjai.
+Ábrázolástechnika.
+Tűzvédelem alapjai.
+Tűzvédelmi borítás anyagai, felhasználásuk.
+Tűzvédelmi oszlopborítás technológiája fánál, fémnél.
+Tűzvédelmi gerendaborítás technológiája fánál, fémnél.
+Kábelcsatorna felépítése.
+Légcsatorna felépítése.
+Tűzvédelmi csatorna borítás technológiája.
+Tűzvédelmi áttörések szabálya és technológiája.
+Munkavédelmi és balesetvédelmi előírások.
+Tervek fajtái, szabványjelölések.
+Ellenőrző mérések.
+
+szakmai készségek:
+Épületszerkezeti, épületgépész és elektromos rajz olvasása, értelmezése.
+Szakmai nyelvű beszédkészség.
+Szárazépítési anyagok minőségét, tulajdonságát mutató jelképek értelmezése.
+Elektromos kisgépek és kézi szerszámok használata.
+Mérőeszközök használata.
+Személyes kompetenciák:
+Pontosság.
+Mozgáskoordináció.
+Szervezőkésség.
+Társas kompetenciák:
+Konszenzus készség.
+Irányítási készség.
+Módszerkompetenciák:
+Problémamegoldás, hibaelhárítás.
+Áttekintő képesség.
+Gyakorlatias feladatértelmezés.
+A szakmai követelménymodul azonosítója és megnevezése:
+213-14 Tetőtér és előtét borítások készítése
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Áttekinti az építészeti terveket.
+Anyagszükségletet számít.
+Gondoskodik az anyagok beszerzéséről.
+Ellenőrzi a szerszámokat, gépeket.
+Kitűzi a tetőtéri borítás síkját és kiosztja a rögzítő elemeket.
+Elhelyezi a hőszigetelést és a páratechnikai fóliát.
+Kiosztja a vázszerkezet elemeit.
+Elkészíti a vázszerkezetet.
+Elhelyezi a hőszigetelést, párazáró fóliát.
+Ellenőrzi a fólia fektetését, a hőszigetelés helyzetét.
+Elkészíti a ferde és a függőleges felületek borítását.
+Csatlakozást épít ki oldalfalhoz.
+Elvégzi a hézagerősítést, tömítést.
+Élvédőket és szegélyprofilokat helyez el.
+Kitűzi a szárazvakolat síkját.
+Előkészíti a fogadó szerkezetet, alapoz.
+Szárazvakolatot ragaszt.
+Kitűzi az előtétfal, aknafal síkját.
+Kiosztja a vázszerkezet elemeit.
+Elkészíti a vázszerkezetet.
+A gépészeti vezetékek elhelyezése és ellenőrzése után elhelyezi a szigetelőanyagokat.
+Borítást készít.
+Betartja és betartatja a munkavédelmi és balesetvédelmi előírásokat.
+Irányítja és ellenőrzi a feladatprofilhoz tartozó tevékenységet.
+Átadja a kész munkát.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Kitűzés alapjai.
+Anyagmennyiség-meghatározás.
+Elektromos eszközök érintésvédelmi előírásai.
+Előtéthéj, előtétfal, aknafal felépítése, fajtái.
+
+Előtéthéj, előtétfal, aknafal építésének technológiája.
+Szárazvakolat felépítése, alkalmazási területe.
+Szárazvakolat építésének technológiája, csatlakozások.
+Tetőtér-beépítés, hőtechnikai és páravédelmi réteg felépítése, szerkezeti elve.
+Tetőtér-beépítés szerelési technológiája.
+Hézagolás technológiája.
+Munkavédelmi és balesetvédelmi előírások.
+Tervek fajtái, szabványjelölések.
+Ellenőrző mérések.
+szakmai készségek:
+Szakmai nyelvű írott és hallott szöveg megértése.
+Épületszerkezeti, épületgépész és elektromos rajz olvasása, értelmezése.
+Szárazépítési anyagok minőségét, tulajdonságát mutató jelképek értelmezése.
+Elektromos kisgépek és kézi szerszámok használata.
+Mérőeszközök használata.
+Személyes kompetenciák:
+Térlátás.
+Pontosság.
+Szervezőkésség.
+Társas kompetenciák:
+Konszenzus készség.
+Adekvát metakommunikáció.
+Módszerkompetenciák:
+Problémamegoldás, hibaelhárítás.
+Áttekintő képesség.
+Gyakorlatias feladatértelmezés.
+IV. Mestervizsgáztatási követelmények
+1. A mestervizsgára bocsátás feltételei
+A mestervizsgára bocsátásnak az „I. A Szárazépítő mestervizsgára jelentkezés feltételei” című fejezetben
+leírtakon kívül nincs más feltétele.
+2. A mestervizsga vizsgatevékenységei és vizsgafeladatai
+Gyakorlati vizsgatevékenység
+A vizsgafeladat megnevezése: Szárazépítési gyakorlati feladat
+A vizsgafeladat ismertetése:
+Adott terv alapján L-alakban CW75 vázszerkezeten 2x2 réteg gipszkartonnal borított válaszfal készítése
+legfeljebb 1,50 m falhosszakkal; legfeljebb 2,50 m magassággal, az egyik falszakaszban mozgási hézaggal, a
+másik falszakaszban egy legfeljebb 90/150 ajtónyílással. Az egyik falszakasz egyik oldala Q2, a másik oldala Q3
+minőségben hézagolt, a falvégek élei élvédővel védetten készítendők. A szerkezet vázszerkezete
+hőszigeteléssel kitöltött. A falszakaszok között terv alapján álmennyezet készítése legfeljebb 1,50x1,80 m-es
+alapterületi méretben. Az álmennyezetben legalább egy legfeljebb 20 cm-es síkváltás és egy spot lámpa
+helyének kivágása legyen. Az álmennyezet függesztett vagy függesztés nélküli, a vizsgahely adottságtól
+függően. Az álmennyezet hézagolása nem feladat.
+A vizsgafeladat időtartama: 480 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+Írásbeli vizsgatevékenység
+A vizsgafeladat megnevezése: Komplex írásbeli feladat
+A vizsgafeladat ismertetése: Egy adott alaprajz és metszet alapján a válaszfalak és álmennyezet
+anyagszükségletének számítása. A megjelölt csomópontokról léptékhelyes részletrajz készítése. Szárazépítő
+mester szakmai ismereteinek alkalmazása.
+
+A vizsgafeladat időtartama:180 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+Szóbeli vizsgatevékenység
+A) A vizsgafeladat megnevezése: Szárazépítési feladatok
+A vizsgafeladat ismertetése: A szóbeli vizsgatevékenység központilag összeállított kérdései a III. Szakmai
+követelmények fejezetben szereplő szakmai követelménymodulokhoz tartozó témaköröket tartalmazzák.
+A vizsgafeladat időtartama: 60 perc, amelyből a felkészülési idő 30 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+B) A vizsgafeladat megnevezése: Pedagógiai ismeretek
+A vizsgafeladat ismertetése:
+A gyakorlati munka tanulásához szükséges pszichológiai fogalmak, alapok.
+A szakmai gyakorlat tanítás-tanulási folyamatának jellemzői.
+A szakmai gyakorlat, mint munkavégzés általi tanulás módszertani feladata.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+C) A vizsgafeladat megnevezése: Vállalkozási ismeretek
+A vizsgafeladat ismertetése:
+Jogi ismeretek.
+Marketing ismeretek.
+Adó-TB-pénzügyi-számviteli ismeretek.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+3. A mestervizsga értékelése
+A jelölt mestervizsgája Megfelelt minősítésű, ha minden vizsgatevékenység esetében Megfelelt minősítést
+szerzett.
+Sikertelen a mestervizsga, ha a vizsgázó egy vagy több vizsgatevékenység esetében Nem felelt meg minősítést
+szerzett.
+A jelöltnek javítóvizsgát abból a vizsgafeladatból kell tennie, amely esetében Nem felelt meg minősítést
+szerzett.
+4. A mestervizsga egyes részei alóli felmentés feltételei
+A Magyar Kereskedelmi és Iparkamara egységes szerkezetbe foglalt Mestervizsga Szabályzata szerinti eljárás
+keretében felmentés adható a Pedagógiai és vállalkozási ismeretek megnevezésű részvizsga alól annak, aki
+felsőfokú szakirányú végzettséggel rendelkezik vagy két éven belül más mesterképesítésből sikeres
+mestervizsgát tett.
+A mestervizsga követelményekben nem szabályozott kérdésekben a Magyar Kereskedelmi és Iparkamara
+Mesterképzési és Mestervizsga Szabályzatában foglaltak az irányadók.
+V. Eszköz- és felszerelési jegyzék
+A B
+1.
+A képzési feladatok teljesítéséhez szükséges eszközök és felszerelések
+minimuma
+Szárazépítő
+mester
+2. Kitűzés eszközei X
+3. Anyagok méretre vágásának eszközei X
+4. A szerelés eszközei X
+5. A hézagolás, felületsimítás eszközei X
+6. Gipszkartonszállító fogantyú X
+7. Csavartáska X
+8. Egyéni munkavédelmi eszközök, berendezések X
+
+51. TETŐFEDŐ MESTERVIZSGA KÖVETELMÉNYEI
+I. A Tetőfedő mestervizsgára jelentkezés feltételei
+1. A Tetőfedő mestervizsgához szükséges szakképesítési feltételek
+A Tetőfedő mestervizsgára jelentkezéshez az alábbi szakképzettségek (szakmák), szakképesítések egyikével
+kell rendelkeznie a mesterjelöltnek.
+Megjegyzés: A mestervizsgához szükséges szakképesítési feltétel teljesítéséhez a Magyar Kereskedelmi és
+Iparkamara a vizsgára bocsátás feltételeinek vizsgálatakor egyenértékűként fogadhatja el a jogelőd, valamint
+jogutód szakképesítéseket (szakmákat), szakképzettségeket is.
+2. A Tetőfedő mestervizsgára jelentkezéshez szükséges szakmai gyakorlat
+A szakma munkaterületén a szakirányú képesítés megszerzését követően az alábbiakban meghatározott
+szakmai gyakorlat igazolása szükséges.
+Megjegyzés: Szakmai gyakorlat részidőkből is összeállhat, de az utolsó időszak nem lehet egy évnél rövidebb,
+és a vizsgára jelentkezés időpontjában az utolsó igazolt szakmai gyakorlat nem lehet egy évnél régebbi.
+A gyakorlati időbe nem számítható be a GYED, illetve a sor- vagy tartalékos katonai, valamint polgári szolgálat
+ideje.
+II. A Tetőfedő mester munkaterülete, a mestercímhez tartozó tevékenységek
+1. A Tetőfedő mester munkaterületének leírása
+A Tetőfedő szakmai képesítéssel rendelkező mester szakmájának gyakorlása során, önállóan az alábbi jellemző
+munkatevékenységeket végzi:
+Épületek és építmények meredek és kis hajlású tetőinek alátét héjalását, tetőfedési aljzatokat, valamint ezekkel
+az anyagokkal történő homlokzat burkolását készíti.
+Új tetőfedés építését, meglévő javítását, felújítását, bontását, átépítését az előírt vízzáróság
+figyelembevételével végzi nád, fazsindely, természetes pala, agyag és betoncserép, szálerősített pala,
+bitumenes zsindely, szálerősített, műanyag, fém, bitumenes hullámlemez és egyéb anyagok felhasználásával,
+valamint szakszerű hőszigetelést készít megfelelő fedő- és hőszigetelő anyagok alkalmazásával.
+Héjalást készít sík és íves felületen.
+Egyszerű vonalas bádogos szerkezeteket szakszerűen elhelyez.
+A B
+1.1. A szakképesítés (szakma), szakképzettség
+1.2. megnevezése azonosító száma
+1.3. Tetőfedő 35 582 07
+1.4. Tetőfedő 34 582 15
+1.5. Magasépítő technikus 54 582 03
+1.6. Mélyépítő technikus 54 582 04
+1.7. Építészmérnök BSc/MSc
+1.8. Építőmérnök BSc/MSc
+A B
+2.1. A szakmai gyakorlat
+2.2. szakiránya időtartama (év)
+2.3. Tetőfedő 5
+2.4. Tetőfedő 5
+2.5. Magasépítő technikus 5
+2.6. Mélyépítő technikus 5
+2.7. Építészmérnök BSc/MSc 5
+2.8. Építőmérnök BSc/MSc 5
+
+Csatlakozást készít fedésperemekhez, mint eresz, orom, gerinc, élgerinc, vápa.
+Tetőáttöréseket készít a héjaláson átvezetett szerkezetekhez.
+Tetőbiztonsági elemeket épít be.
+Tetetőkkel összefüggő hőszigetelések kialakítását készíti.
+Alátéthéjazat építését, javítását, bontását, továbbá csatlakozó kőműves, ács, bádogos szerkezetek felmérését,
+tetőfedéssel kapcsolatos értékelést végzi.
+Közreműködik szakértői, tervezői, engedélyezési eljárásban.
+Gyakorlati szakképzés oktatásában vesz részt.
+2. A Tetőfedő mesterképesítéssel rokon mesterképesítések
+III. Szakmai követelmények
+A szakmai követelménymodulok felsorolása:
+A szakmai követelménymodul azonosítója és megnevezése:
+001-11-1 Pedagógiai ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Ismeri és tudatosan kezeli a gyermek fejlődési fázisait, megismerési és kommunikációs szerepeit a
+tanulóképzésben.
+Ismeri és alkalmazza a szakképzésen belül a gyakorlati képzés pedagógiai sajátosságait.
+A pedagógiai célokat és azok eléréshez szükséges feladatrendszert egymáshoz illeszti, megtervezi a szakmai
+gyakorlat pedagógiai folyamatát.
+Kezeli a mai kor értékeit, értékválságát és a mai kor társadalmi értékeit.
+Ismeri a pozitív jövőképpel rendelkező életpályát, a proaktív életvezetés pedagógiai sajátosságait.
+Megvalósítja az élményközpontú gyakorlati képzést és a pozitív, negatív visszacsatolások motivációját.
+Ismeri és tudatosan használja a pedagógiai eszközöket a gyakorlati munkában és a tanulóképzésben.
+Tudatosan használja a munkáltató foglalkozásokat a tanulóképzésben.
+Megvalósítja a célorientált munkavégzésre törekvést.
+Megvalósítja a hatékony és erőforrás-takarékos feladatvégzést.
+Megvalósítja a munkavégzési önállóságot.
+Kialakítja a szakmai problémamegoldás képességét.
+Formálja a minőségi munkavégzés és az önellenőrző felelősségvállalás képességét.
+Kreatívan megvalósítja a szakmai problémamegoldást, szükség esetén csapatmunkában.
+Képes a szakmai és együttműködési önfejlődésre.
+Tudatosan kezeli a nevelés és személyes példamutatás jelentőségét és szerepét.
+A
+2.1. A tetőfedő mesterképesítés rokon mesterképesítések
+2.2. Ács, állványozó mester
+2.3. Bádogos mester
+A B
+1. A Tetőfedő megnevezésű mesterképesítés szakmai követelmény moduljainak
+2. azonosítója megnevezése
+3. 001-11-1 Pedagógiai ismeretek
+4. 002-11-1 Vállalkozási ismeretek
+5. 003-09-1 Építőipari közös feladatok
+6. 214-14 Tetőfedési aljzatok és alátét héjazatok készítése
+7. 215-14 Tetőfedési munkák I. – Pikkelyszerű kiselemes és nagyelemes fedések készítése
+8. 216-14 Tetőfedési munkák II. – Fazsindely, nád- és természetes palafedések készítése
+
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+A gyermek fejlődési fázisainak, megismerési és kommunikációs szerepeinek tudatos kezelésének ismerete a
+tanulóképzésben.
+A szakképzésen belül a gyakorlati képzés pedagógiai sajátosságainak ismerete és alkalmazása.
+A pedagógiai célok és azok eléréshez szükséges feladatrendszer illesztésének ismerete.
+A szakmai gyakorlat pedagógiai folyamatának megtervezési ismerete.
+A mai kor értékei, értékválsága és a mai kor társadalmi értékeinek ismerete.
+A pozitív jövőképpel rendelkező életpálya, a proaktív életvezetés pedagógiai sajátosságainak ismerete.
+Az élményközpontú gyakorlati képzés és a pozitív, negatív visszacsatolások motivációs megvalósításának
+ismerete.
+A pedagógiai eszközök és tudatos használatuk ismerete a gyakorlati munkában és a tanulóképzésben.
+A munkáltató foglalkozások tudatos használatának ismerete a tanulóképzésben.
+A célorientált munkavégzésre törekvés szerepének ismerete.
+A hatékony és erőforrás-takarékos feladatvégzés szerepének ismerete.
+A munkavégzési önállóság szerepének ismerete.
+A szakmai problémamegoldás képességének kialakítási ismerete.
+A minőségi munkavégzés és önellenőrző felelősségvállalás képességének formálási ismeretei.
+A szakmai problémamegoldás kreatív módszereinek ismerete, szükség esetén csapatmunkában.
+A szakmai és együttműködési önfejlődés nyitottságának ismeretei.
+A nevelés és személyes példamutatás jelentőségének és szerepének ismeretei.
+szakmai készségek:
+Köznyelvi beszédkészség.
+Mennyiségérzék.
+Szakmai nyelvű beszédkészség.
+Olvasott szakmai szöveg megértése.
+Elemi számolási készség.
+Tervezési készség a feladatok megtervezéséhez, illesztéséhez.
+Tervezési készség a szakmai gyakorlat megtervezéséhez.
+Tervezési készség az életpálya tervezéshez és életvezetéshez.
+Az élményközpontú gyakorlati képzés vezetésének készsége.
+Motivációs készség.
+A gyermek tanulásának segítése.
+A pedagógiai módszerek használata.
+Pedagógiai beszédkészség.
+A szakképzési eszközök használata.
+A gyakorlati képzés módszertana.
+Oktatási eszközök használata.
+A valós vállalkozási környezetben történő gyakorlati eszközhasználat.
+A munkáltató foglalkozások használatának készsége.
+A célorientált munkavégzés készsége.
+A feladatok erőforrás-takarékos végzésének készsége.
+Az önálló munkavégzés készsége.
+A szakmai problémamegoldás képességének kialakítási készsége.
+A minőségi munkavégzés készsége.
+A szakmai probléma-megoldási készsége.
+Fejlődési készség szakmai és együttműködés területein.
+A személyes példamutatás készsége.
+Személyes kompetenciák:
+Empátia.
+Pozitív elvárások attitűdje.
+Pozitív jövőkép kialakításának képessége.
+Példamutatás a szakmai rutin területén.
+Példamutatás a célorientált munkavégzés területén.
+Példamutatás a szakmai problémamegoldás területén.
+
+Példamutatás a minőségi munkavégzés területén.
+Példamutatás a szakmai és együttműködési önfejlődés területén.
+Társas kompetenciák:
+Kommunikációs nyitottság.
+Együttműködési képesség.
+Módszerkompetenciák:
+Történeti áttekintő képesség.
+Módszertani strukturálás képessége.
+A szakmai gyakorlat pedagógiai megtervezésének képessége.
+Az élményközpontú gyakorlati képzés megvalósításának képessége.
+A pedagógiai eszközök tudatos használatának képessége a tanulóképzésben.
+A célorientált munkavégzés elsajátíttatásának képessége.
+A hatékonyság és az erőforrás-takarékosság elsajátíttatásának képessége.
+A munkavégzési önállóság elsajátíttatásának képessége.
+A szakmai problémamegoldás elsajátíttatásának képessége.
+A minőségi munkavégzés elsajátíttatásának képessége.
+A szakmai és együttműködési önfejlődés elsajátíttatásának képessége.
+A nevelés és személyes példamutatás képessége.
+A szakmai követelménymodul azonosítója és megnevezése:
+002-11-1 Vállalkozási ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Jogi ismeretek:
+Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével, amely alapján képes elvégezni az
+alábbi feladatokat:
+Elvállalja a vállalkozások alapításával kapcsolatos általános feladatokat.
+Intézi a működési engedélyek beszerzését.
+Jogi tanácsadást igényel, konkrét igényt fogalmaz meg.
+Ellátja a vállalkozások megszűnésével kapcsolatos általános feladatokat.
+Jogi felügyelettel munkajogi szerződéseket készít, ellenőriz.
+Jogi felügyelettel vállalkozói szerződéseket készít, ellenőriz.
+Figyelemmel kíséri a jogszabályi változásokat.
+Marketing ismeretek:
+Tisztában van a vállalkozások piaci környezetével és ezek hatásaival. Ennek alapján az alábbi feladatokat képes
+elvégezni:
+Üzleti tervet készít.
+Elvégzi a saját iparágának bemutatását és elemzését.
+Meghatározza és kidolgozza a marketing-mix elemeit.
+PR és kommunikációs tevékenységet végez.
+Adó-TB-pénzügyi-számviteli ismeretek:
+Ismeri az alapvető adó- és pénzügyi szabályokat, valamint a gazdaság működési elveit. Ennek alapján az alábbi
+feladatokat képes elvégezni:
+Kitölti az adónyomtatványokat.
+Főbb vonalakban ismeri az egyes adó- és kamatszámítási módszereket.
+Ismeri a vállalkozások éves beszámolójának főbb egységeit és ezek lényeges elemeit, valamint ezen adatokból
+tájékozódni tud és következtetéseket von le.
+Kialakítja és működteti a vállalkozás szervezetét.
+Pénzügyi tervet készít.
+Rezsióradíjat számol.
+
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Jogi ismeretek:
+A gazdálkodás, vállalkozás fogalma, jellemzői.
+Egyéni vállalkozás.
+Egyéni cég.
+Gazdasági társaságok csoportosítása.
+Gazdasági társaságok működésének szabályai.
+Vállalkozási formák közötti választás szempontjai.
+Vállalkozások átalakítása és megszüntetése.
+Kötelmi jog elemei.
+Marketing ismeretek:
+A vállalkozás makro- és mikrokörnyezete.
+Piacgazdaság, piac.
+A vállalkozások erőforrásai.
+A vállalkozások reálszférája.
+A vállalkozás személyi feltételei.
+A vállalkozás beindításának alapfeltételei.
+Az elképzelés, az ötlet próbája.
+A vállalkozás beindításához szükséges eszközök listájának összeállítása és a munkaerő szükséglet felmérése.
+A vállalkozás székhelyének, telephelyének megválasztása, belső kialakítása.
+Kommunikáció és információátvitel.
+Adó-TB-pénzügyi-számviteli ismeretek:
+A vállalkozás finanszírozása, pénzügyi terv készítése.
+A munkaviszony létrehozásával és megszüntetésével kapcsolatos feladatok.
+Számviteli rendszer kialakítása.
+A vállalkozás felelősségi rendszere.
+Az üzleti terv készítésének esetei és célközönsége.
+Az üzleti terv felépítése és részei.
+A vállalkozások beszámolási kötelezettségei.
+A mérleg és eredménykimutatás szerepe, tartalma.
+A vállalkozás belső és külső finanszírozási forrásai, a vállalkozás fizetőképessége.
+Hitelezés és támogatás.
+Biztosítás, áru- és vagyonvédelem az üzleti életben.
+Adózás és társadalombiztosítás.
+A munkaszervezés alapjai.
+Az ellenőrzés alapelvei.
+szakmai készségek:
+Olvasott köznyelvi szöveg megértése.
+Köznyelvi szöveg fogalmazása írásban.
+Kézírás.
+Köznyelvi szöveg hallás utáni megértése.
+Köznyelvi beszédkészség.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvi íráskészség, fogalmazás.
+Szakmai nyelvű hallott szöveg megértése.
+Szakmai nyelvű beszédkészség.
+Telefonálási technikák.
+Számítástechnikai ismeretek.
+Személyes kompetenciák:
+Tisztesség, felelősségtudat.
+Megbízhatóság.
+Döntésképesség.
+
+Fejlődőképesség, önfejlesztés.
+Szervezőkészség.
+Önállóság.
+Kitartás.
+Rugalmasság.
+Elhivatottság, elkötelezettség.
+Kockázatvállalás.
+Társas kompetenciák:
+Kapcsolatteremtő készség.
+Határozottság.
+Kommunikációs készség.
+Konfliktusmegoldó képesség.
+Irányítási készség.
+Kompromisszum készség
+Módszerkompetenciák:
+Logikus gondolkodás.
+Tervezés.
+Áttekintő és rendszerező képesség.
+Kreativitás, ötletgazdagság.
+Új ötletek, megoldások kipróbálása.
+Nyitott hozzáállás.
+Eredményorientáltság.
+Hibakeresés.
+A szakmai követelménymodul azonosítója és megnevezése:
+003-09-1 Építőipari közös feladatok
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Felméri a munkaterületet, helyszíni bejárást végez.
+Felméri a munkafeladat időbeli végrehajthatóságát, megtervezi a munkafolyamatot.
+Anyagszükségletet számol.
+Gondoskodik a szükséges anyagokról, eszközökről, gépekről.
+Ellenőrzi a felhasználásra kerülő anyagokat.
+Felvonul a megfelelő eszközökkel, munkaerővel a munkaterületre.
+Egyeztet a tervezővel, a kivitelezésben résztvevő más szakmák képviselőivel, a megrendelővel.
+Átadja, illetve átveszi a munkát, munkaterületet.
+Helyszíni méréseket végez.
+Értelmezi a kiviteli és technológiai terveket.
+A tervek alapján esetenként vázlatot készít.
+Megelőző munkafolyamat produktumát ellenőrzi.
+Eszközeivel levonul a munkaterületről.
+Gondoskodik a munkaterület folyamatos tisztán tartásáról.
+Összegyűjti és szakszerűen tárolja a keletkezett hulladékot.
+Anyagok, eszközök szakszerű tárolását biztosítja.
+Munkakörének megfelelő naplót vezet.
+Munkavédelmi, biztonságtechnikai, tűz- és környezetvédelmi oktatáson vesz részt.
+Ellenőrzi a munkavédelmi eszközöket.
+Használja az előírt munkavédelmi eszközöket.
+Biztosítja a munkaterület rendjét, balesetmentességét, védelmét, valamint betartja a sajátos munkabiztonsági
+előírásokat.
+Felméri a veszélyforrásokat és az egészségre ártalmas tényezőket.
+Baleset, illetve veszélyhelyzet esetén munkakörének megfelelően intézkedik.
+Teljesíti a műemlékvédelmi, környezetvédelmi és egyéb jogszabályok, műszaki előírások rá vonatkozó
+rendelkezéseit.
+Részt vesz a számlák összeállításában.
+
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Anyagmennyiség-meghatározás.
+Rendelési dokumentumok.
+Szállítás.
+Munka megkezdésének feltételei.
+Munkaterület átadás-átvételének szabályai.
+Az elvégzett munka dokumentálása.
+Hulladékkezelés.
+Anyagmennyiség, anyagszükséglet számítása.
+Építési ütemtervek, mint munkamenet és létszám ütemtervek.
+Építési dokumentáció, mint építési napló és felmérési napló.
+Munkabiztonsági és balesetvédelmi előírások.
+Elsősegélynyújtás.
+Tűzvédelem.
+Tűzveszélyes anyagok raktározása, szállítása, kezelése.
+Hatósági előírások.
+Védőruhák, védőfelszerelések használata.
+Környezetvédelem.
+Felmérés szabályai.
+Kiviteli tervek.
+
+szakmai készségek:
+Elemi szintű számítógép-használat.
+Köznyelvi beszédkészség.
+Építési ütemtervek olvasása, értelmezése.
+Építészeti jelképek értelmezése.
+Kiviteli tervrajz olvasása, értelmezése.
+
+Személyes kompetenciák:
+Pontosság.
+Precizitás.
+Szervezőkészség.
+
+Társas kompetenciák:
+Interperszonális rugalmasság.
+Segítőkészség.
+
+Módszerkompetenciák:
+Áttekintő képesség.
+Rendszerező képesség.
+
+A szakmai követelménymodul azonosítója és megnevezése:
+214-14 Tetőfedési aljzatok és alátéthéjazatok készítése
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Kiszámolja a tetőfedési aljzatok anyagszükségletét.
+Szemrevételezi a tetősík egyenességét, statikai állapotát és ha kell, kiigazíttatja.
+Megrajzolja a fedélidomot, a tető metszeteit és meghatározza a tető valós felületét.
+Kiszámolja a tető geometriai méreteit.
+Felismeri és használja az alátéthéjazatok fajtáit.
+Tetőléc távolságot és közepes fedési szélességet számol.
+Valós szarufahosszat számít.
+Csomóponti rajzokat készít az adott tetőforma és a tető jellemzői alapján.
+Biztonsággal használja a mérő eszközöket.
+Használja a tetőfedés szerszámait.
+Derékszöget szerkeszt, számol.
+héjazatok készítése
+
+Tetőfedési aljzatokat készít.
+Tetősík ablakot szakszerűen épít be.
+A tető hajlásszögének és használatnak megfelelő alátéthéjazatot készít.
+Párazáró réteget szakszerűen elhelyez.
+Hőszigetelő anyagot a tetőn szakszerűen elhelyez.
+Alkalmazza a tetőre vonatkozó hő, és páratechnikai szabályokat.
+Építési naplót vezet.
+Használja a szakmai nyelvezetet.
+Használja a tetőfedéshez szükséges kisgépeket.
+Értelmezi és használja a tetőfedő anyagok termékismertetőit.
+Számolja az átszellőztetett tető légrés keresztmetszeteit.
+Az éghajlati, földrajzi viszonyoknak, tető hajlásszögének, szarufa hosszának, épület használatának megfelelő
+átszellőztetést készít.
+Értelmezi a tető rétegrendjében található anyagokat.
+Betartja és betartatja a vonatkozó biztonságtechnikai és munkavédelmi előírásokat, gondoskodik a
+munkaterület folyamatos tisztántartásáról.
+Összegyűjti és szakszerűen tárolja a keletkezett hulladékot.
+Tulajdonság profil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Ferde határoló szerkezetek rétegrendjei.
+Tetőfedés aljzatának anyagai.
+Aljzatokhoz, alátéthéjazatokhoz kapcsolódó munkavédelmi eszközök.
+Alátét hájazatok módozatai.
+Tetősík ablak beépítése.
+szakmai készségek:
+Szakmai nyelvű beszédkészség.
+Építészeti rajz olvasása, értelmezése.
+Műszaki rajz jelölésének értelmezése.
+Tervdokumentáció olvasása, értelmezése.
+Munkabiztonsági eszközök, felszerelések használata.
+Személyes kompetenciák:
+Állóképesség.
+Erős fizikum.
+Elhivatottság, elkötelezettség.
+Társas kompetenciák:
+Irányítási készség.
+Kommunikációs rugalmasság.
+Kompromisszum készség.
+Módszerkompetenciák:
+Módszeres munkavégzés.
+Problémamegoldás, hibaelhárítás.
+Gyakorlatias feladatértelmezés.
+A szakmai követelménymodul azonosítója és megnevezése:
+215-14 Tetőfedési munkák I. – Pikkelyszerű kiselemes és nagyelemes fedések készítése
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Derékszöget tűz ki.
+Zsinórképet szerkeszt.
+Mérő- és jelölőeszközöket használ.
+Használja a szakma végzéséhez szükséges kézi és kisgépeket.
+Használja a tetőfedő anyagot felszállító gépeket.
+
+Használja a biztonságos munkavégzéshez szükséges eszközöket.
+Megmunkálja a szálerősített lemez termékeket.
+Egyrétegű fedést készít.
+Kétrétegű fedést készít.
+Emelt sorú fedést készít.
+Íves tetőfelépítményt fed.
+Ökörszem-, Napoleon-, és Federmaus gaube ablakszerkesztést és fedést készít.
+Kúpot fed.
+Kifedett vápát készít megfelelő fedőanyagból.
+Megmunkálja a fedőanyagot.
+Szálerősített lemez, kerámia cserép, beton tetőfedő elem, bitumenes zsindelyfedések esetén a meglévő
+tetőhéjazatot bontja és javítja.
+Alkalmazza a hófogási rendszereket, átszellőztetést.
+Az éghajlati, földrajzi viszonyoknak, tető hajlásszögének, szarufa hosszának, épület használatának megfelelő
+átszellőztetést készít.
+Egyszerű vonalas bádogos szerkezeteket helyez el.
+Szemrevételezéssel és mérőeszközökkel ellenőrzi az elkészült épületbádogos szegélyeket.
+Szemrevételezéssel a lejtés szempontjából ellenőrzi az elkészült tető csapadékvíz elvezető rendszerét.
+Tisztán tartja és tartatja a munkaterületet, összegyűjti és szakszerűen tárolja a keletkezett hulladékot.
+Karbantartja és tisztítja a tető csapadékvíz rendszerét.
+Betartja és betartatja a vonatkozó munkavédelmi előírásokat.
+Felismeri a tetőn hibásan elkészített munkát.
+Tulajdonság profil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Szervetlenanyagú tetőfedések.
+Cserepes lemezből készült fedések.
+Bitumenes elem és lemezfedések.
+Más anyagú fedések.
+Kiegészítő elemek és anyagok fajtái.
+szakmai készségek:
+Szakmai nyelvű beszédkészség.
+Építészeti műszaki rajz olvasása, értelmezése.
+Műszaki rajz jelölésrendszerének értelmezése.
+Személyes kompetenciák:
+Állóképesség.
+Erős fizikum.
+Elhivatottság, elkötelezettség.
+Társas kompetenciák:
+Irányítási készség.
+Kommunikációs rugalmasság.
+Kompromisszum készség.
+Módszerkompetenciák:
+Módszeres munkavégzés.
+Problémamegoldás, hibaelhárítás.
+Gyakorlatias feladatértelmezés.
+A szakmai követelménymodul azonosítója és megnevezése:
+216-14 Tetőfedési munkák II. – Fazsindely, nád- és természetes palafedések készítése
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Derékszöget tűz ki.
+Zsinórképet szerkeszt.
+
+Mérő- és jelzőeszközöket használ.
+Használja a szakma végzéséhez szükséges kézi és kisgépeket.
+Használja a tetőfedő anyagot felszállító gépeket.
+Használja a biztonsági munkavégzéshez szükséges eszközöket.
+Megmunkálja a nádfedéshez használt termékeket.
+Nádfedést készít.
+Fazsindelyfedést készít.
+Nádfedés esetén a meglévő tetőhéjazatot bontja és javítja.
+Fazsindely fedés esetén a meglévő tetőhéjazatot bontja és javítja.
+Természetes palafedést készít.
+Természetes palafedés esetén a meglévő tetőhéjazatot bontja és javítja.
+Szemrevételezéssel és mérőeszközökkel ellenőrzi az elkészült épületbádogos szegélyeket.
+Szemrevételezéssel a lejtés szempontjából ellenőrzi az elkészült tető csapadékvíz rendszerét.
+Gondoskodik a munkaterület folyamatos tisztántartásáról.
+Összegyűjti és szakszerűen tárolja a keletkezett hulladékot.
+Karbantartja és tisztítja a tetőtartozékokat.
+Betartja és betartatja a vonatkozó munkavédelmi előírásokat.
+Felismeri az építési hibákat.
+Tulajdonság profil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Szerves anyagú tetőfedések.
+Fazsindelyből készült fedés.
+Nádfedések.
+Természetes pala.
+Más anyagú fedések.
+Kiegészítő elemek és anyagok fajtái.
+szakmai készségek:
+Szakmai nyelvű beszédkészség.
+Építészeti műszaki rajz olvasása, értelmezése.
+Műszaki rajz jelölésrendszerének értelmezése.
+Személyes kompetenciák:
+Állóképesség.
+Erős fizikum.
+Elhivatottság, elkötelezettség.
+Társas kompetenciák:
+Irányítási készség.
+Kommunikációs rugalmasság.
+Kompromisszum készség.
+Módszerkompetenciák:
+Módszeres munkavégzés.
+Problémamegoldás, hibaelhárítás.
+Gyakorlatias feladatértelmezés.
+IV. Mestervizsgáztatási követelmények
+1. A mestervizsgára bocsátás feltételei
+A mestervizsgára bocsátásnak az „I. A Tetőfedő mestervizsgára jelentkezés feltételei” című alcímben leírtakon
+kívül nincs más feltétele.
+
+2. A mestervizsga vizsgatevékenységei és vizsgafeladatai
+Gyakorlati vizsgatevékenység
+A vizsgafeladat megnevezése: Magastető fedése
+A vizsgafeladat ismertetése:
+Egy kijelölt felületnagyságú tetőn – ami legalább egy vápát vagy íves felületet és egy áttörést tartalmaz –
+megadott technológiájú fedés alá odakészített anyagból a fedés aljzatának és alátéthéjazatának elkészítése,
+vagy a fedésnek megfelelő lécezése, az előkészített tetőfelületet pikkelyszerű kiselemmel vagy nagyelemmel
+való lefedése.
+Műszaki dokumentáció alapján egy komplex fazsindely-, nád- vagy természetes palafedés elkészítése.
+A vizsgafeladat időtartama: 480 perc
+A vizsgafeladat értékelése: 0-80% Nem felel meg; 81-100% Megfelelt
+Írásbeli vizsgatevékenység
+A vizsgafeladat megnevezése: Anyagmennyiség és munkaerő időszükséglet számítás
+A vizsgafeladat ismertetése:
+Kiviteli tervek alapján anyagmennyiség meghatározása, majd rögzítése számítógépen.
+Tetőalaprajz alapján az alátéthéjazat és egy megadott technológiájú fedés aljzat és a fedés anyag igényének és
+munkaerő-, időszükségletének kiszámítása.
+A vizsgafeladat időtartama: 180 perc
+A vizsgafeladat értékelése: 0-80% Nem felel meg; 81-100% Megfelelt
+Szóbeli vizsgatevékenység
+A) A vizsgafeladat megnevezése: Szakmai beszélgetés általában és ritkán alkalmazott tetőfedésekről
+A vizsgafeladat ismertetése:
+Fedési részletrajzok készítése szabadkézzel, skiccelés alkalmazásával és szakmai megbeszélés folytatása a
+pikkelyszerű kiselemes, nagyelemes, vagy nádfedési megoldásról.
+A vizsgafeladat időtartama: 60 perc, amelyből a felkészülési idő 30 perc
+A vizsgafeladat értékelése: 0-80% Nem felel meg; 81-100% Megfelelt
+B) A vizsgafeladat megnevezése: Pedagógiai ismeretek
+A vizsgafeladat ismertetése:
+A gyakorlati munka tanulásához szükséges pszichológiai fogalmak, alapok.
+A szakmai gyakorlat tanítás-tanulási folyamatának jellemzői.
+A szakmai gyakorlat, mint munkavégzés általi tanulás módszertani feladatai.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+C) A vizsgafeladat megnevezése: Vállalkozási ismeretek
+A vizsgafeladat ismertetése:
+Jogi ismeretek.
+Marketing ismeretek.
+Adó-TB-pénzügyi-számviteli ismeretek.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg, 71-100% Megfelelt
+3. A mestervizsga értékelése
+A jelölt mestervizsgája Megfelelt minősítésű, ha minden vizsgatevékenység esetében Megfelelt minősítést
+szerzett.
+Sikertelen a mestervizsga, ha a vizsgázó egy vagy több vizsgatevékenység esetében Nem felel meg minősítést
+szerzett. A jelöltnek javítóvizsgát abból a vizsgafeladatból kell tennie, amely esetében Nem felelt meg
+minősítést szerzett.
+4. A mestervizsga egyes részei alóli felmentés feltételei
+A Magyar Kereskedelmi és Iparkamara egységes szerkezetbe foglalt Mestervizsga Szabályzata szerinti eljárás
+keretében felmentés adható a Pedagógiai és vállalkozási ismeretek megnevezésű részvizsga alól annak, aki
+felsőfokú szakirányú végzettséggel rendelkezik, vagy két éven belül más mesterképesítésből sikeres
+mestervizsgát tett.
+
+A mestervizsga követelményekben nem szabályozott kérdésekben a Magyar Kereskedelmi és Iparkamara
+Mesterképzési és Mestervizsga Szabályzatában foglaltak az irányadók.
+V. Eszköz- és felszerelési jegyzék
+A B
+1.
+A képzési feladatok teljesítéséhez szükséges eszközök és
+felszerelések minimuma
+Tetőfedő mester
+2. Tetőlétra X
+3. Állványok X
+4. Kosaras emelő X
+5. Felvonó X
+6. Faipari gépek, szerszámok X
+7. Anyagmozgató gépek, eszközök X
+8. Elektromos kisgépek X
+9. Darabolószerszámok X
+10. Kéziszerszámok X
+11. Nádazómacska X
+12. Forrasztóeszközök X
+13. Jelölőeszközök X
+14. Fémipari lemezmegmunkáló eszközök X
+15. Lemezhajtó X
+16. Szerelő- és bontószerszámok X
+17. Egyéni és csoportos munkavédelmi eszközök, berendezések X
+18. Műszaki dokumentáció X
+19. Számítógép X
+20. Szoftverek X
+21. Nyomtató X
+52. A TISZTÍTÁS-TECHNOLÓGIAI MESTER MESTERVIZSGA KÖVETELMÉNYEI
+I. A tisztítás-technológiai mester mestervizsgára jelentkezés feltételei
+1. A tisztítás-technológiai mester mestervizsgához szükséges szakképesítési feltételek
+A tisztítás-technológiai mestervizsgára jelentkezéshez az alábbi szakképesítések (szakmák),
+szakképzettségek egyikével kell rendelkeznie a mesterjelöltnek.
+A B
+1.1. A szakképesítés (szakma), szakképzettség
+1.2. megnevezése azonosító száma
+1.3. Takarító szakmunkás 31 7899 03
+1.4. Takarító szakmunkás 31 814 01 0000 00 00
+1.5. Tisztítás-technológiai szakmunkás 32 853 03
+Megjegyzés: A mestervizsgához szükséges szakképesítési feltétel teljesítéséhez a Magyar Kereskedelmi és
+Iparkamara a vizsgára bocsátás feltételeinek vizsgálatakor egyenértékűként fogadhatja el a jogelőd, valamint
+jogutód szakképesítéseket (szakmákat), szakképzettségeket is.
+
+2. A tisztítás-technológiai mestervizsgára jelentkezéshez szükséges szakmai gyakorlat
+A szakma munkaterületén a szakirányú képesítés megszerzését követően az alábbiakban meghatározott
+szakmai gyakorlat igazolása szükséges.
+A B
+2.1. A szakmai gyakorlat
+2.2. szakiránya időtartama (év)
+2.3. Takarító szakmunkás 5
+2.4. Tisztítás-technológiai szakmunkás 5
+Megjegyzés: A szakmai gyakorlat részidőkből is összeállhat, de az utolsó időszak nem lehet egy évnél rövidebb,
+és a vizsgára jelentkezés időpontjában az utolsó igazolt szakmai gyakorlat nem lehet egy évnél régebbi.
+A gyakorlati időbe nem számítható be a GYED, illetve a sor- vagy tartalékos katonai, valamint polgári szolgálat
+ideje.
+II. A tisztítás-technológiai mester munkaterülete, a mestercímhez kapcsolódó tevékenységek
+1. A tisztítás-technológiai mester munkaterületének leírása
+Tisztítás-technológiai szolgáltatási területtel kapcsolatos adatok beszerzése.
+Kapcsolódó műszaki állapot felmérése, mindezek értékelése, a szolgáltatások tervezése.
+A tisztítás-technológiai szolgáltatás területéről közvetett-közvetlen információk begyűjtése, rögzítése, helyszíni
+bejárás végezése.
+A tisztítandó, takarítandó munkaterület, illetve szennyeződések felmérése, azonosítása.
+A felületek, burkolatok műszaki adatlapjainak és használati, karbantartási, tisztítási utasításainak gyűjtése,
+rendszerezése és értelmezése.
+Az időszakos eszköz- és gépkarbantartás megtervezése.
+A tisztítás-technológiai folyamatok, a szolgáltatási rendszer elemeinek, beleértve a humán erőforrás,
+kezelőszer, eszköz, gép és tartozék, logisztika, infrastruktúra vizsgálata.
+A munkaterület szabályozásainak betartása, egyeztetés a tervezővel, kivitelezővel üzemeltetővel,
+megrendelővel, létesítménygazdával.
+Kockázatelemzés végzése és döntés a szolgáltatás megvalósíthatóságának részleteiről.
+A tisztítás technológiai feladatok előkészítésére szolgáló rendszer előkészítése, beállítása, illetve irányítása.
+Humán erőforrást biztosító gazdálkodás megszervezése, optimalizálása és irányítása.
+Jogszabályoknak és minőségbiztosítási elveknek megfelelő dokumentáció vezetése, a munkavédelmi,
+biztonságtechnikai, tűz- és környezetvédelmi szabályok betartása és betartatása mellett.
+A munkálatok során a környezetterhelés csökkentése és az eredeti állapot megőrzése vagy jobbítása, az
+energiafelhasználás, a szennyvízkezelés és a hulladékgyűjtés előírás szerinti végrehajtása.
+2. A tisztítás-technológiai mester mesterképesítéssel rokon mesterképesítések
+A
+2.1. A Tisztítás-technológiai mesterképesítéssel rokon mesterképesítés(ek) megnevezése
+2.2. –
+III. Szakmai követelmények
+A szakmai követelménymodulok felsorolása:
+A B
+1. A tisztítás-technológiai mester megnevezésű mesterképesítés szakmai
+követelménymoduljainak
+2. azonosítója megnevezése
+3. 001-11-1 Pedagógiai ismeretek
+4. 002-11-1 Vállalkozási ismeretek
+5.
+234-15
+Tisztítás-technológiai szolgáltatási területtel kapcsolatos adatok beszerzése,
+kapcsolódó műszaki állapot felmérése, értékelése, a szolgáltatás tervezése
+
+6. 235-15 Tisztítás-technológiai rendszerek működtetési feladatai
+7. 236-15 Fenntartható természeti és épített emberi környezet védelme
+A szakmai követelménymodul azonosítója és megnevezése:
+001-11-1 Pedagógiai ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Ismeri és tudatosan kezeli a gyermek fejlődési fázisait, megismerési és kommunikációs szerepeit a
+tanulóképzésben.
+Ismeri és alkalmazza a szakképzésen belül a gyakorlati képzés pedagógiai sajátosságait.
+A pedagógiai célokat és azok eléréshez szükséges feladatrendszert egymáshoz illeszti, megtervezi a szakmai
+gyakorlat pedagógiai folyamatát.
+Kezeli a mai kor értékeit, értékválságát és a mai kor társadalmi értékeit.
+Ismeri a pozitív jövőképpel rendelkező életpályát, a proaktív életvezetés pedagógiai sajátosságait.
+Megvalósítja az élményközpontú gyakorlati képzést és a pozitív, negatív visszacsatolások motivációját.
+Ismeri és tudatosan használja a pedagógiai eszközöket a gyakorlati munkában és a tanulóképzésben.
+Tudatosan használja a munkáltató foglalkozásokat a tanulóképzésben.
+Megvalósítja a célorientált munkavégzésre törekvést.
+Megvalósítja a hatékony és erőforrás-takarékos feladatvégzést.
+Megvalósítja a munkavégzési önállóságot.
+Kialakítja a szakmai problémamegoldás képességét.
+Formálja a minőségi munkavégzés és az önellenőrző felelősségvállalás képességét.
+Kreatívan megvalósítja a szakmai problémamegoldást, szükség esetén csapatmunkában.
+Képes a szakmai és együttműködési önfejlődésre.
+Tudatosan kezeli a nevelés és személyes példamutatás jelentőségét és szerepét.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+A gyermek fejlődési fázisainak, megismerési és kommunikációs szerepeinek tudatos kezelésének ismerete a
+tanulóképzésben.
+A szakképzésen belül a gyakorlati képzés pedagógiai sajátosságainak ismerete és alkalmazása.
+A pedagógiai célok és azok eléréshez szükséges feladatrendszer illesztésének ismerete.
+A szakmai gyakorlat pedagógiai folyamatának megtervezési ismerete.
+A mai kor értékei, értékválsága és a mai kor társadalmi értékeinek ismerete.
+A pozitív jövőképpel rendelkező életpálya, a proaktív életvezetés pedagógiai sajátosságainak ismerete.
+Az élményközpontú gyakorlati képzés és a pozitív, negatív visszacsatolások motivációs megvalósításának
+ismerete.
+A pedagógiai eszközök és tudatos használatuk ismerete a gyakorlati munkában és a tanulóképzésben.
+A munkáltató foglalkozások tudatos használatának ismerete a tanulóképzésben.
+A célorientált munkavégzésre törekvés szerepének ismerete.
+A hatékony és erőforrás-takarékos feladatvégzés szerepének ismerete.
+A munkavégzési önállóság szerepének ismerete.
+A szakmai problémamegoldás képességének kialakítási ismerete.
+A minőségi munkavégzés és önellenőrző felelősségvállalás képességének formálási ismeretei.
+A szakmai problémamegoldás kreatív módszereinek ismerete, szükség esetén csapatmunkában.
+A szakmai és együttműködési önfejlődés nyitottságának ismeretei.
+A nevelés és személyes példamutatás jelentőségének és szerepének ismeretei.
+szakmai készségek:
+Köznyelvi beszédkészség.
+Mennyiségérzék.
+Szakmai nyelvű beszédkészség.
+Olvasott szakmai szöveg megértése.
+Elemi számolási készség.
+Tervezési készség a feladatok megtervezéséhez, illesztéséhez.
+Tervezési készség a szakmai gyakorlat megtervezéséhez.
+Tervezési készség az életpálya tervezéshez és életvezetéshez.
+
+Az élményközpontú gyakorlati képzés vezetésének készsége.
+Motivációs készség.
+A gyermek tanulásának segítése.
+A pedagógiai módszerek használata.
+Pedagógiai beszédkészség.
+A szakképzési eszközök használata.
+A gyakorlati képzés módszertana.
+Oktatási eszközök használata.
+A valós vállalkozási környezetben történő gyakorlati eszközhasználat.
+A munkáltató foglalkozások használatának készsége.
+A célorientált munkavégzés készsége.
+A feladatok erőforrás-takarékos végzésének készsége.
+Az önálló munkavégzés készsége.
+A szakmai problémamegoldás képességének kialakítási készsége.
+A minőségi munkavégzés készsége.
+A szakmai probléma-megoldási készsége.
+Fejlődési készség szakmai és együttműködés területein.
+A személyes példamutatás készsége.
+Személyes kompetenciák:
+Empátia.
+Pozitív elvárások attitűdje.
+Pozitív jövőkép kialakításának képessége.
+Példamutatás a szakmai rutin területén.
+Példamutatás a célorientált munkavégzés területén.
+Példamutatás a szakmai problémamegoldás területén.
+Példamutatás a minőségi munkavégzés területén.
+Példamutatás a szakmai és együttműködési önfejlődés területén.
+Társas kompetenciák:
+Kommunikációs nyitottság.
+Együttműködési képesség.
+Módszerkompetenciák:
+Történeti áttekintő képesség.
+Módszertani strukturálás képessége.
+A szakmai gyakorlat pedagógiai megtervezésének képessége.
+Az élményközpontú gyakorlati képzés megvalósításának képessége.
+A pedagógiai eszközök tudatos használatának képessége a tanulóképzésben.
+A célorientált munkavégzés elsajátíttatásának képessége.
+A hatékonyság és az erőforrás-takarékosság elsajátíttatásának képessége.
+A munkavégzési önállóság elsajátíttatásának képessége.
+A szakmai problémamegoldás elsajátíttatásának képessége.
+A minőségi munkavégzés elsajátíttatásának képessége.
+A szakmai és együttműködési önfejlődés elsajátíttatásának képessége.
+A nevelés és személyes példamutatás képessége.
+A szakmai követelménymodul azonosítója és megnevezése:
+002-11-1 Vállalkozási ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Jogi ismeretek:
+Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével, amely alapján képes elvégezni az
+alábbi feladatokat:
+Elvállalja a vállalkozások alapításával kapcsolatos általános feladatokat.
+Intézi a működési engedélyek beszerzését.
+Jogi tanácsadást igényel, konkrét igényt fogalmaz meg.
+Ellátja a vállalkozások megszűnésével kapcsolatos általános feladatokat.
+
+Jogi felügyelettel munkajogi szerződéseket készít, ellenőriz.
+Jogi felügyelettel vállalkozói szerződéseket készít, ellenőriz.
+Figyelemmel kíséri a jogszabályi változásokat.
+Marketing ismeretek:
+Tisztában van a vállalkozások piaci környezetével és ezek hatásaival. Ennek alapján az alábbi feladatokat képes
+elvégezni:
+Üzleti tervet készít.
+Elvégzi a saját iparágának bemutatását és elemzését.
+Meghatározza és kidolgozza a marketing-mix elemeit.
+PR és kommunikációs tevékenységet végez.
+Adó-TB-pénzügyi-számviteli ismeretek:
+Ismeri az alapvető adó- és pénzügyi szabályokat, valamint a gazdaság működési elveit. Ennek alapján az alábbi
+feladatokat képes elvégezni:
+Kitölti az adónyomtatványokat.
+Főbb vonalakban ismeri az egyes adó- és kamatszámítási módszereket.
+Ismeri a vállalkozások éves beszámolójának főbb egységeit és ezek lényeges elemeit, valamint ezen adatokból
+tájékozódni tud és következtetéseket von le.
+Kialakítja és működteti a vállalkozás szervezetét.
+Pénzügyi tervet készít.
+Rezsióradíjat számol.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Jogi ismeretek:
+A gazdálkodás, vállalkozás fogalma, jellemzői.
+Egyéni vállalkozás.
+Egyéni cég.
+Gazdasági társaságok csoportosítása.
+Gazdasági társaságok működésének szabályai.
+Vállalkozási formák közötti választás szempontjai.
+Vállalkozások átalakítása és megszüntetése.
+Kötelmi jog elemei.
+Marketing ismeretek:
+A vállalkozás makro- és mikrokörnyezete.
+Piacgazdaság, piac.
+A vállalkozások erőforrásai.
+A vállalkozások reálszférája.
+A vállalkozás személyi feltételei.
+A vállalkozás beindításának alapfeltételei.
+Az elképzelés, az ötlet próbája.
+A vállalkozás beindításához szükséges eszközök listájának összeállítása és a munkaerő szükséglet felmérése.
+A vállalkozás székhelyének, telephelyének megválasztása, belső kialakítása.
+Kommunikáció és információátvitel.
+Adó-TB-pénzügyi-számviteli ismeretek:
+A vállalkozás finanszírozása, pénzügyi terv készítése.
+A munkaviszony létrehozásával és megszüntetésével kapcsolatos feladatok.
+Számviteli rendszer kialakítása.
+A vállalkozás felelősségi rendszere.
+Az üzleti terv készítésének esetei és célközönsége.
+Az üzleti terv felépítése és részei.
+A vállalkozások beszámolási kötelezettségei.
+A mérleg és eredménykimutatás szerepe, tartalma.
+A vállalkozás belső és külső finanszírozási forrásai, a vállalkozás fizetőképessége.
+
+Hitelezés és támogatás.
+Biztosítás, áru- és vagyonvédelem az üzleti életben.
+Adózás és társadalombiztosítás.
+A munkaszervezés alapjai.
+Az ellenőrzés alapelvei.
+szakmai készségek:
+Olvasott köznyelvi szöveg megértése.
+Köznyelvi szöveg fogalmazása írásban.
+Kézírás.
+Köznyelvi szöveg hallás utáni megértése.
+Köznyelvi beszédkészség.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvi íráskészség, fogalmazás.
+Szakmai nyelvű hallott szöveg megértése.
+Szakmai nyelvű beszédkészség.
+Telefonálási technikák.
+Számítástechnikai ismeretek.
+Személyes kompetenciák:
+Tisztesség, felelősségtudat.
+Megbízhatóság.
+Döntésképesség.
+Fejlődőképesség, önfejlesztés.
+Szervezőkészség.
+Önállóság.
+Kitartás.
+Rugalmasság.
+Elhivatottság, elkötelezettség.
+Kockázatvállalás.
+Társas kompetenciák:
+Kapcsolatteremtő készség.
+Határozottság.
+Kommunikációs készség.
+Konfliktusmegoldó képesség.
+Irányítási készség.
+Kompromisszum készség.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Tervezés.
+Áttekintő és rendszerező képesség.
+Kreativitás, ötletgazdagság.
+Új ötletek, megoldások kipróbálása.
+Nyitott hozzáállás.
+Eredményorientáltság.
+Hibakeresés.
+A szakmai követelménymodul azonosítója és megnevezése:
+234-15 Tisztítás-technológiai szolgáltatási területtel kapcsolatos adatok beszerzése, kapcsolódó műszaki
+állapot felmérése, értékelése, a szolgáltatás tervezése
+Feladatprofil:
+A tisztítás-technológiai szolgáltatás területéről közvetett-közvetlen információkat gyűjt, rögzít.
+Helyszíni bejárást végez, felméri a tisztítandó, takarítandó munkaterületet.
+Szennyeződéseket azonosítja.
+Felületek, burkolatok műszaki adatlapjait, használati és karbantartási, tisztítási utasításait gyűjti, rendszerezi és
+értelmezi.
+
+Megtervezi az időszakos eszköz- és gépkarbantartást.
+Megtervezi a tisztítás-technológiai folyamatokat, a szolgáltatási rendszer minden egyes elemét.
+A munkaterület szabályozásait betartja.
+Egyeztet a tervezővel, kivitelezővel, üzemeltetővel, megrendelővel, létesítménygazdával.
+Kockázatelemzést végez és dönt a szolgáltatás megvalósíthatóságának részleteiről.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Szakmai számítások.
+Rendelési dokumentumok értelmezése, alkalmazása.
+Hatósági előírások értelmezése, gyakorlati alkalmazása.
+Építészeti, tisztítás- technológiai jelrendszerek értelmezése és alkalmazása.
+Műszaki rajz olvasása, értelmezése.
+szakmai készségek:
+Elemi szintű számítógép-használat.
+Tisztítás-technológiai utasítások olvasása, értelmezése.
+Eszközök, gépek, minőségmérő eszközök használata.
+Egyéni és csoportos munkavédelmi eszközök, berendezések használata.
+Személyes kompetenciák:
+Döntésképesség.
+Szervező készség.
+Térbeli tájékozódás.
+Társas kompetenciák:
+Interperszonális rugalmasság.
+Közérthetőség.
+Kapcsolatteremtő képesség.
+Módszerkompetenciák:
+Áttekintő képesség.
+Rendszerező képesség.
+Numerikus gondolkodás, matematikai készség.
+A szakmai követelménymodul azonosítója és megnevezése:
+235-15 Tisztítás-technológiai rendszerek működtetési feladatai
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Meghatározza a tisztítás-technológiai szolgáltatás megvalósításához szükséges kezelőszereket, eszközöket,
+gépeket.
+Egyeztet a létesítménygazdával.
+Munkautasításokat és munkatervet készít, betanít, végrehajt, végrehajtat.
+Tisztítás-technológiai rendszereket üzemeltet és irányít.
+Értékeli, minősíti a munkavégzést.
+Átadja, illetve átveszi a munkát, munkaterületet.
+Hatékonyság- és minőségellenőrzést végez, szükség esetén beavatkozik és javító, helyesbítő intézkedést tesz.
+Felügyeli a keletkezett szennyezett víz és hulladék kezelését, tárolását az adott létesítmény protokollja és a
+szabályozások szerint.
+Munkakörének megfelelő dokumentációt vezet.
+Munkavédelmi, biztonságtechnikai, tűz- és környezetvédelmi oktatáson vesz részt és tart meg.
+Biztosítja a munkaterület rendjét, balesetvédelmét.
+Betartja és betartatja az adott munkaterületre meghatározott munkabiztonsági előírásokat.
+Baleset, illetve veszélyhelyzet esetén munkakörének megfelelően intézkedik.
+Felügyeli a felhasználói napi eszköz- és gépkarbantartást, megtervezi és felügyeli az időszakos eszköz- és
+gépkarbantartást.
+
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Munka megkezdésének feltételei.
+Munkaterület átadás-átvételének szabályai.
+Az elvégzett munka dokumentálása.
+Elkülönített és veszélyes hulladék kezelése.
+Szakmai idő- és anyagnormák.
+Folyamatközi és végellenőrzés.
+Munkabiztonsági és balesetvédelmi előírások.
+Elsősegélynyújtás.
+Tűzvédelem.
+Veszélyes anyagok raktározása, szállítása, kezelése.
+Hatósági előírások.
+Védőruhák, védőfelszerelések használata.
+Környezetvédelem.
+szakmai készségek:
+Tisztítás-technológia utasítások olvasása, értelmezése.
+Eszközök, gépek, minőségmérő eszközök kezelése.
+Építészeti, létesítmény működésével kapcsolatos és tisztítás- technológiai jelrendszerek értelmezése.
+Egyéni és csoportos munkavédelmi eszközök, berendezések használata.
+Személyes kompetenciák:
+Térbeli tájékozódás.
+Döntésképesség.
+Szervezőkészség.
+Társas kompetenciák:
+Interperszonális rugalmasság.
+Határozottság.
+Következetesség.
+Módszerkompetenciák:
+Áttekintő képesség.
+Helyzetfelismerés.
+Gyakorlatias feladat értelmezés.
+A szakmai követelménymodul azonosítója és megnevezése:
+236-15 Fenntartható természeti és épített emberi környezetvédelme
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Tervezés és működtetés során törekszik a környezetterhelés csökkentésére és az eredeti állapot megőrzésére,
+visszaállítására.
+Az energiafelhasználást gazdaságosan végzi.
+A szennyvízkezelést és a hulladékgyűjtést előírás szerint hajtja végre.
+Alkalmazza a KT-64. Környezetbarát takarítási szolgáltatás „Környezetbarát Szolgáltatás” feltételrendszert és
+egyéb ide vonatkozó szabványokat, szabályozásokat.
+Környezetszennyezés esetén saját hatáskörében intézkedik, illetve adott létesítmény belső szabályozási rendje
+szerint jár el.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Környezetre és egészségre veszélyes kezelőszerek hatásainak ismerete.
+Irányítási szabványok alkalmazása: MIR, KIR, MEBIR, IBIR.
+A műemlékvédelem szabályozásainak ismerete.
+A KT-64. Környezetbarát takarítási szolgáltatás„Környezetbarát Szolgáltatás”feltételrendszer ismerete.
+
+szakmai készségek:
+Információforrások kezelése.
+Minőségmérő és -megfigyelő eszközök, műszerek használata.
+Személyes kompetenciák:
+Fejlődőképesség, önfejlesztés.
+Felelősségtudat.
+Elkötelezettség.
+Társas kompetenciák:
+Meggyőzőkészség.
+Kommunikációs rugalmasság.
+Kapcsolatteremtő képesség.
+Módszerkompetenciák:
+Rendszerező képesség.
+Ellenőrzőképesség.
+A környezet tisztántartása.
+IV. Mestervizsgáztatási követelmények
+1. A mestervizsgára bocsátás feltételei
+A mestervizsgára bocsátásnak az„I. A tisztítás-technológiai mester mestervizsgára jelentkezés feltételei” című
+alcímben leírtakon kívül nincs más feltétele.
+2. A mestervizsga vizsgatevékenységei és vizsgafeladatai
+Gyakorlati vizsgatevékenység
+A vizsgafeladat megnevezése: Komplex tisztás-technológiai tevékenységek
+A vizsgafeladat ismertetése:
+A gyakorlati vizsgatevékenység központilag összeállított feladatai alapján, a Tisztítás-technológiai szolgáltatási
+területtel kapcsolatos műszaki és egyéb releváns adatok beszerzése, értékelése.
+Tisztítás-technológiai szolgáltatás működtetésének feladatai.
+Fenntartható természeti és épített emberi környezet védelme megnevezésű szakmai követelménymodulokhoz
+tartozó témaköröket tartalmazzák.
+A vizsgafeladat időtartama: 240 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+Írásbeli vizsgatevékenység
+A vizsgafeladat megnevezése: Komplex tisztás-technológiai tevékenységek
+A vizsgafeladat ismertetése:
+Az írásbeli vizsgatevékenység központilag összeállított feladatai alapján, a Tisztítás-technológiai szolgáltatási
+területtel kapcsolatos adatok beszerzése, értékelése.
+Tisztítás-technológiai szolgáltatás működtetésének feladatai.
+Fenntartható természeti és épített emberi környezet védelme megnevezésű szakmai követelménymodulokhoz
+tartozó témaköröket tartalmazzák.
+A vizsgafeladat időtartama: 120 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+Szóbeli vizsgatevékenység
+A) A vizsgafeladat megnevezése: Komplex tisztítás-technológiai tevékenységek
+A vizsgafeladat ismertetése:
+A szóbeli vizsgatevékenység központilag összeállított kérdéssora a „III. Szakmai követelmények” fejezetben
+megadott témakörök mindegyikét tartalmazza.
+A vizsgafeladat időtartama: 60 perc, amelyből a felkészülési idő 30 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg; 81-100% Megfelelt
+
+B) A vizsgafeladat megnevezése: Pedagógiai ismeretek
+A vizsgafeladat ismertetése:
+A gyakorlati munka tanulásához szükséges pszichológiai fogalmak, alapok.
+A szakmai gyakorlat tanítás-tanulási folyamatának jellemzői.
+A szakmai gyakorlat, mint munkavégzés általi tanulás módszertani feladatai.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+C) A vizsgafeladat megnevezése:Vállalkozási ismeretek
+A vizsgafeladat ismertetése:
+Jogi ismeretek.
+Marketing ismeretek.
+Adó-TB-pénzügyi-számviteli ismeretek.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg; 71-100% Megfelelt
+3. A mestervizsga értékelése
+A jelölt mestervizsgája Megfelelt minősítésű, ha minden vizsgatevékenység esetében Megfelelt minősítést
+szerzett.
+Sikertelen a mestervizsga, ha a vizsgázó egy vagy több vizsgatevékenység esetében Nem felelt meg minősítést
+szerzett.
+A jelöltnek javítóvizsgát abból a vizsgafeladatból kell tennie, amely esetében Nem felelt meg minősítést
+szerzett.
+4. A mestervizsga egyes részei alóli felmentés feltételei
+A Magyar Kereskedelmi és Iparkamara egységes szerkezetbe foglalt Mestervizsga Szabályzata szerinti eljárás
+keretében felmentés adható a Pedagógiai és vállalkozási ismeretek megnevezésű részvizsga alól annak, aki
+felsőfokú szakirányú végzettséggel rendelkezik vagy két éven belül más mesterképesítésből sikeres
+mestervizsgát tett.
+A mestervizsga követelményekben nem szabályozott kérdésekben a Magyar Kereskedelmi és Iparkamara
+Mesterképzési és Mestervizsga Szabályzatában foglaltak az irányadók.
+V. Eszköz- és felszerelési jegyzék
+A B
+1.
+A képzési feladatok teljesítéséhez szükséges eszközök és felszerelések
+minimuma
+Tisztítás-
+technológiai
+mester
+2. Vesszőseprű, cirokseprű, műanyag seprű X
+3. Partvis, beltéri seprű, kézikefe, pókhálózó, csőtisztító, sztatikus kéziseprű X
+4. Törlőkendők: színkódolt textíliák, mikroszálas textíliák, pamut, impregnált X
+5. Mopok, talpak és nyelek: professzionális tengerész, száraz lapos, impregnált
+lapos, lapos-füles, lapos-zsebes, lapos füles-zsebes, lapos mikroszálas, kétoldalas
+lapos
+X
+6. Kiszolgálókocsik és tartozékaik: egyvödrös, kétvödrös, kádas rendszerek teljes
+felszereléssel, impregnálódobozok
+X
+7. Kézi tisztító- és súrolóeszközök: kézi és nyeles súrolólaptartó, súrolólap, fugakefe,
+gumilehúzó, mohagumis lehúzó
+X
+8. Hulladékgyűjtő eszközök: hulladékgyűjtő zsákok, szemeteslapát, nyeles
+szemeteslapát, manipulátor, szöges végű bot, abszorbens paplanok, hurkák,
+granulátumok
+X
+9. Üvegfelületek tisztításnál alkalmazott eszközök: derékra csatolható eszköztartó
+kötény vagy öv, ecset, portálkefe, kellősítő eszköz, ablaktisztító vödrök, porlasztó,
+habosítófej, szivacs, nedvesítőkendő, szarvasbőr, szárazolókendő,
+nedvesítőhenger vizezőhuzattal, gumiélű lehúzó, teleszkópos nyél, fordított
+ozmózis alapján működő gép és tartozékai vagy ioncserélő berendezés és
+tartozékai
+X
+
+10. Létrák: egy- és kétágú X
+11. Adagolóeszközök: mérőedény, szóróflakon, habosítótartály, kiöntőcsap,
+adagolópumpa, adagolókamrás flakon
+X
+12. Professzionális porszívó és tartozékai: szívótömlő, kemény- és rugalmasburkolat-
+szívófej, szőnyegszívófej, résszívó, kárpitfej, fűtőtestkefe, ecsetfej, porzsák
+X
+13. Hengerkefés szőnyegporszívó, porzsák X
+14. Hengerkefés kárpitporszívó X
+15. Por- és vízszívó gép mindkét funkcióhoz alkalmas tartozékokkal: porzsák,
+szövetfilter, porszívófej, úszóbetét, vízszívó fej
+X
+16. Szóró-szívó gép kárpit- és szőnyegtisztító fejekkel X
+17. Háti vagy konténeres hulladékszívó gép X
+18. Kisnyomású habosítóberendezés X
+19. Kisnyomású gőzfejlesztő berendezés tartozékokkal: műanyag szálú kefe, rézkefe,
+textíliatartó fej
+X
+20. Nagynyomású mosóberendezés, hideg vagy meleg vizes és tartozékai: legyező,
+habosító- és szennymaró fej
+X
+21. Egytárcsás súrológép és tartozékai: súrolókefe, samponozókefe, szöges kefe,
+meghajtótárcsa, különböző durvaságú súroló- és csiszolófelszínű kuszált szálas
+műanyag tisztító- és hibrid alátétek, textil-, illetve acélgyapot alátét
+X
+22. Száraz hengerkefés bedolgozógép X
+23. Nedves hengerkefés súrológép X
+24. Gyalogkíséretű tányér- vagy hengerkefés súrolóautomata és tartozékai:
+súrolókefe, meghajtótárcsa, különböző durvaságú súroló- és csiszolófelszínű
+kuszált szálas műanyag tisztítóalátétek
+X
+25. Szőnyegtisztító automata X
+26. Légkeverő vagy hidrosztatikus szárító X
+27. Polírozógép és tartozékai: különböző színű kuszált szálas műanyag, illetve
+természetes szőr polírozóalátétek
+X
+28. Mechanikus seprőgép X
+29. Vezetőüléses seprő-szívó gép, vezetőüléses seprő-súroló gép vagy vezetőüléses
+súrológép
+X
+30. Zárt szemcseszórású felülettisztító gép X
+31. Szárazjégszóró berendezés X
+32. Ultrahangos tisztítóberendezés X
+33. Kezelőszerek: tisztítószerek tisztító-ápoló szerek, ápolószerek, felületkezelő
+szerek, ioncserélt vagy desztillált víz
+X
+34. Burkolatok: minimum 10 m2 kemény, rugalmas és textilburkolatok, amelyek
+szárazon, nyirkosan és nedvesen tisztíthatók, súrolhatók, impregnálhatók
+X
+35. Burkolatminták:
+Kemény: gránit, márvány, mészkőtartalmú, kőporcelán, égetett mázas, natúr
+égetett
+Rugalmas: PVC, linóleum, gumi, laminált parketta, faparketta, hajópadló, parafa
+Textil: velúr, buklé, mesterséges alapanyagú, természetes alapanyagú
+Fém: saválló acél, réz, alumínium
+X
+36. Ellenőrző eszközök: indikátor, tükör, UV-lámpa, nedvességmérő, felülethőmérő,
+fényességmérő, pH-mérő, mintavevő porszívó, fehérlap, mintavevő szóró-szívó
+gép
+X
+37. Felületmérő eszközök: mérőszalag, lézeres távolságmérő X
+38. Egyéni védőeszközök: munkavédelmi cipő, védőruha, gumikesztyű,
+védőszemüveg, légzésvédő maszk, kármentő tálca
+X
+
+53. VADÁSZPUSKA MŰVES MESTERVIZSGA KÖVETELMÉNYEI
+I. A Vadászpuska műves mestervizsgára jelentkezés feltételei
+1. A Vadászpuska műves mestervizsgához szükséges szakképesítési feltételek
+A Vadászpuska műves mestervizsgára jelentkezéshez az alábbi szakképesítéssel (szakma), szakképzettséggel
+kell rendelkeznie a mesterjelöltnek.
+A B
+1.1. A szakképesítés (szakma), szakképzettség
+1.2. megnevezése azonosító száma
+1.3. Vadászpuska műves 55 863 02
+Megjegyzés: A mestervizsgához szükséges szakképesítési feltétel teljesítéséhez a Magyar Kereskedelmi és
+Iparkamara a vizsgára bocsátás feltételeinek vizsgálatakor egyenértékűként fogadhatja el a jogelőd, valamint
+jogutód szakképesítést (szakmát), szakképzettséget is.
+2. A Vadászpuska műves mestervizsgára jelentkezéshez szükséges szakmai gyakorlat
+A szakma munkaterületén a szakirányú képesítés megszerzését követően az alábbiakban meghatározott
+szakmai gyakorlat igazolása szükséges.
+A B
+2.1. A szakmai gyakorlat
+2.2. szakiránya időtartama (év)
+2.3. Vadászpuska műves 3
+Megjegyzés: A szakmai gyakorlat részidőkből is összeállhat, de az utolsó időszak nem lehet egy évnél rövidebb,
+és a vizsgára jelentkezés időpontjában az utolsó igazolt szakmai gyakorlat nem lehet egy évnél régebbi.
+A gyakorlati időbe nem számítható be a GYED, illetve a sor- vagy tartalékos katonai, valamint polgári szolgálat
+ideje.
+II. A Vadászpuska műves mester munkaterülete, a mestercímhez kapcsolódó tevékenységek
+1. A Vadászpuska műves mester munkaterületének leírása
+A Vadászpuska műves mester elnevezésű szakmai képesítéssel rendelkező mester szakmájának gyakorlása
+során, önállóan – korszerű kézi és gépi eszközökkel, berendezésekkel, anyagokkal – az alábbi jellemző
+munkatevékenységeket végzi a munka és környezetvédelmi előírások betartásával:
+Megismeri és előkészíti az elvégzendő feladatokat.
+Lőfegyver fődarabokat, alkatrészeket, elsütő szerkezeteket, rugókat gyárt.
+Lőfegyvereket fődarabokból összeszerel, szükséges illesztéseket, beszabályozásokat végez.
+Szaktanácsot ad.
+Szervezi és irányítja a munkatevékenységet.
+Szervezi és irányítja a hozzá beosztott dolgozók, tanulók tevékenységét.
+Értékeli és minősíti a végzett munkát.
+2. A Vadászpuska műves mesterképesítéssel rokon mesterképesítések
+A
+2.1. A Vadászpuska műves mesterképesítéssel rokon mesterképesítés(ek) megnevezése
+2.2. –
+
+III. Szakmai követelmények
+A szakmai követelménymodulok felsorolása:
+A B
+1. A Vadászpuska műves megnevezésű mesterképesítés szakmai követelménymoduljainak
+2. azonosítója megnevezése
+3. 001-11-1 Pedagógiai ismeretek
+4. 002-11-1 Vállalkozási ismeretek
+5. 217-14 Fegyver és fém alkatrészek gyártása
+6. 218-14 Tusa és fa alkatrészek gyártása
+7. 219-14 Fémes és nem fémes anyagok felületkezelése és védelme
+A szakmai követelménymodul azonosítója és megnevezése:
+001-11-1 Pedagógiai ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Ismeri és tudatosan kezeli a gyermek fejlődési fázisait, megismerési és kommunikációs szerepeit a
+tanulóképzésben.
+Ismeri és alkalmazza a szakképzésen belül a gyakorlati képzés pedagógiai sajátosságait.
+A pedagógiai célokat és azok eléréshez szükséges feladatrendszert egymáshoz illeszti, megtervezi a szakmai
+gyakorlat pedagógiai folyamatát.
+Kezeli a mai kor értékeit, értékválságát és a mai kor társadalmi értékeit.
+Ismeri a pozitív jövőképpel rendelkező életpályát, a proaktív életvezetés pedagógiai sajátosságait.
+Megvalósítja az élményközpontú gyakorlati képzést és a pozitív, negatív visszacsatolások motivációját.
+Ismeri és tudatosan használja a pedagógiai eszközöket a gyakorlati munkában és a tanulóképzésben.
+Tudatosan használja a munkáltató foglalkozásokat a tanulóképzésben.
+Megvalósítja a célorientált munkavégzésre törekvést.
+Megvalósítja a hatékony és erőforrás-takarékos feladatvégzést.
+Megvalósítja a munkavégzési önállóságot.
+Kialakítja a szakmai problémamegoldás képességét.
+Formálja a minőségi munkavégzés és az önellenőrző felelősségvállalás képességét.
+Kreatívan megvalósítja a szakmai problémamegoldást, szükség esetén csapatmunkában.
+Képes a szakmai és együttműködési önfejlődésre.
+Tudatosan kezeli a nevelés és személyes példamutatás jelentőségét és szerepét.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+A gyermek fejlődési fázisainak, megismerési és kommunikációs szerepeinek tudatos kezelésének ismerete a
+tanulóképzésben.
+A szakképzésen belül a gyakorlati képzés pedagógiai sajátosságainak ismerete és alkalmazása.
+A pedagógiai célok és azok eléréshez szükséges feladatrendszer illesztésének ismerete.
+A szakmai gyakorlat pedagógiai folyamatának megtervezési ismerete.
+A mai kor értékei, értékválsága és a mai kor társadalmi értékeinek ismerete.
+A pozitív jövőképpel rendelkező életpálya, a proaktív életvezetés pedagógiai sajátosságainak ismerete.
+Az élményközpontú gyakorlati képzés és a pozitív, negatív visszacsatolások motivációs megvalósításának
+ismerete.
+A pedagógiai eszközök és tudatos használatuk ismerete a gyakorlati munkában és a tanulóképzésben.
+A munkáltató foglalkozások tudatos használatának ismerete a tanulóképzésben.
+A célorientált munkavégzésre törekvés szerepének ismerete.
+A hatékony és erőforrás-takarékos feladatvégzés szerepének ismerete.
+A munkavégzési önállóság szerepének ismerete.
+A szakmai problémamegoldás képességének kialakítási ismerete.
+A minőségi munkavégzés és önellenőrző felelősségvállalás képességének formálási ismeretei.
+
+A szakmai problémamegoldás kreatív módszereinek ismerete, szükség esetén csapatmunkában.
+A szakmai és együttműködési önfejlődés nyitottságának ismeretei.
+A nevelés és személyes példamutatás jelentőségének és szerepének ismeretei.
+szakmai készségek:
+Köznyelvi beszédkészség.
+Mennyiségérzék.
+Szakmai nyelvű beszédkészség.
+Olvasott szakmai szöveg megértése.
+Elemi számolási készség.
+Tervezési készség a feladatok megtervezéséhez, illesztéséhez.
+Tervezési készség a szakmai gyakorlat megtervezéséhez.
+Tervezési készség az életpálya tervezéshez és életvezetéshez.
+Az élményközpontú gyakorlati képzés vezetésének készsége.
+Motivációs készség.
+A gyermek tanulásának segítése.
+A pedagógiai módszerek használata.
+Pedagógiai beszédkészség.
+A szakképzési eszközök használata.
+A gyakorlati képzés módszertana.
+Oktatási eszközök használata.
+A valós vállalkozási környezetben történő gyakorlati eszközhasználat.
+A munkáltató foglalkozások használatának készsége.
+A célorientált munkavégzés készsége.
+A feladatok erőforrás-takarékos végzésének készsége.
+Az önálló munkavégzés készsége.
+A szakmai problémamegoldás képességének kialakítási készsége.
+A minőségi munkavégzés készsége.
+A szakmai probléma-megoldási készsége.
+Fejlődési készség szakmai és együttműködés területein.
+A személyes példamutatás készsége.
+Személyes kompetenciák:
+Empátia.
+Pozitív elvárások attitűdje.
+Pozitív jövőkép kialakításának képessége.
+Példamutatás a szakmai rutin területén.
+Példamutatás a célorientált munkavégzés területén.
+Példamutatás a szakmai problémamegoldás területén.
+Példamutatás a minőségi munkavégzés területén.
+Példamutatás a szakmai és együttműködési önfejlődés területén.
+Társas kompetenciák:
+Kommunikációs nyitottság.
+Együttműködési képesség.
+Módszerkompetenciák:
+Történeti áttekintő képesség.
+Módszertani strukturálás képessége.
+A szakmai gyakorlat pedagógiai megtervezésének képessége.
+Az élményközpontú gyakorlati képzés megvalósításának képessége.
+A pedagógiai eszközök tudatos használatának képessége a tanulóképzésben.
+A célorientált munkavégzés elsajátíttatásának képessége.
+A hatékonyság és az erőforrás-takarékosság elsajátíttatásának képessége.
+A munkavégzési önállóság elsajátíttatásának képessége.
+A szakmai problémamegoldás elsajátíttatásának képessége.
+
+A minőségi munkavégzés elsajátíttatásának képessége.
+A szakmai és együttműködési önfejlődés elsajátíttatásának képessége.
+A nevelés és személyes példamutatás képessége.
+A szakmai követelménymodul azonosítója és megnevezése:
+002-11-1 Vállalkozási ismeretek
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Jogi ismeretek:
+Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével, amely alapján képes elvégezni az
+alábbi feladatokat:
+Elvállalja a vállalkozások alapításával kapcsolatos általános feladatokat.
+Intézi a működési engedélyek beszerzését.
+Jogi tanácsadást igényel, konkrét igényt fogalmaz meg.
+Ellátja a vállalkozások megszűnésével kapcsolatos általános feladatokat.
+Jogi felügyelettel munkajogi szerződéseket készít, ellenőriz.
+Jogi felügyelettel vállalkozói szerződéseket készít, ellenőriz.
+Figyelemmel kíséri a jogszabályi változásokat.
+Marketing ismeretek:
+Tisztában van a vállalkozások piaci környezetével és ezek hatásaival. Ennek alapján az alábbi feladatokat képes
+elvégezni:
+Üzleti tervet készít.
+Elvégzi a saját iparágának bemutatását és elemzését.
+Meghatározza és kidolgozza a marketing-mix elemeit.
+PR és kommunikációs tevékenységet végez.
+Adó-TB-pénzügyi-számviteli ismeretek:
+Ismeri az alapvető adó- és pénzügyi szabályokat, valamint a gazdaság működési elveit. Ennek alapján az alábbi
+feladatokat képes elvégezni:
+Kitölti az adónyomtatványokat.
+Főbb vonalakban ismeri az egyes adó- és kamatszámítási módszereket.
+Ismeri a vállalkozások éves beszámolójának főbb egységeit és ezek lényeges elemeit, valamint ezen adatokból
+tájékozódni tud és következtetéseket von le.
+Kialakítja és működteti a vállalkozás szervezetét.
+Pénzügyi tervet készít.
+Rezsióradíjat számol
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Jogi ismeretek:
+A gazdálkodás, vállalkozás fogalma, jellemzői.
+Egyéni vállalkozás.
+Egyéni cég.
+Gazdasági társaságok csoportosítása.
+Gazdasági társaságok működésének szabályai.
+Vállalkozási formák közötti választás szempontjai.
+Vállalkozások átalakítása és megszüntetése.
+Kötelmi jog elemei.
+Marketing ismeretek:
+A vállalkozás makro- és mikrokörnyezete.
+Piacgazdaság, piac.
+A vállalkozások erőforrásai.
+A vállalkozások reálszférája.
+A vállalkozás személyi feltételei.
+A vállalkozás beindításának alapfeltételei.
+
+Az elképzelés, az ötlet próbája.
+A vállalkozás beindításához szükséges eszközök listájának összeállítása és a munkaerő szükséglet felmérése.
+A vállalkozás székhelyének, telephelyének megválasztása, belső kialakítása.
+Kommunikáció és információátvitel.
+Adó-TB-pénzügyi-számviteli ismeretek:
+A vállalkozás finanszírozása, pénzügyi terv készítése.
+A munkaviszony létrehozásával és megszüntetésével kapcsolatos feladatok.
+Számviteli rendszer kialakítása.
+A vállalkozás felelősségi rendszere.
+Az üzleti terv készítésének esetei és célközönsége.
+Az üzleti terv felépítése és részei.
+A vállalkozások beszámolási kötelezettségei.
+A mérleg és eredménykimutatás szerepe, tartalma.
+A vállalkozás belső és külső finanszírozási forrásai, a vállalkozás fizetőképessége.
+Hitelezés és támogatás.
+Biztosítás, áru- és vagyonvédelem az üzleti életben.
+Adózás és társadalombiztosítás.
+A munkaszervezés alapjai.
+Az ellenőrzés alapelvei.
+szakmai készségek:
+Olvasott köznyelvi szöveg megértése.
+Köznyelvi szöveg fogalmazása írásban.
+Kézírás.
+Köznyelvi szöveg hallás utáni megértése.
+Köznyelvi beszédkészség.
+Olvasott szakmai szöveg megértése.
+Szakmai nyelvi íráskészség, fogalmazás.
+Szakmai nyelvű hallott szöveg megértése.
+Szakmai nyelvű beszédkészség.
+Telefonálási technikák.
+Számítástechnikai ismeretek.
+Személyes kompetenciák:
+Tisztesség, felelősségtudat.
+Megbízhatóság.
+Döntésképesség.
+Fejlődőképesség, önfejlesztés.
+Szervezőkészség.
+Önállóság.
+Kitartás.
+Rugalmasság.
+Elhivatottság, elkötelezettség.
+Kockázatvállalás.
+Társas kompetenciák:
+Kapcsolatteremtő készség.
+Határozottság.
+Kommunikációs készség.
+Konfliktusmegoldó képesség.
+Irányítási készség.
+Kompromisszum készség.
+Módszerkompetenciák:
+Logikus gondolkodás.
+Tervezés.
+Áttekintő és rendszerező képesség.
+
+Kreativitás, ötletgazdagság.
+Új ötletek, megoldások kipróbálása.
+Nyitott hozzáállás.
+Eredményorientáltság.
+Hibakeresés.
+A szakmai követelménymodul azonosítója és megnevezése:
+217-14 Fegyver és fém alkatrészek gyártása
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Felméri a munkafeladat időbeli végrehajthatóságát, megtervezi a munkafolyamatot.
+Anyagszükségletet számol.
+Gondoskodik a szükséges anyagokról, eszközökről, gépekről.
+Ellenőrzi a felhasználásra kerülő anyagokat.
+Gyártási utasításokat értelmez.
+Méréseket végez.
+Lőfegyver fődarabokat, alkatrészeket, elsütő szerkezeteket, rugókat gyárt.
+Lőfegyvereket fődarabokból összeszerel, szükséges illesztéseket, beszabályozásokat végez.
+Gondoskodik a munkaterület folyamatos tisztántartásáról.
+Összegyűjti és szakszerűen tárolja a keletkezett hulladékot.
+Anyagok, eszközök szakszerű tárolását biztosítja.
+Munkakörének megfelelő dokumentálást végez.
+Ellenőrzi, használja és biztosítja az előírt munkavédelmi eszközöket.
+Biztosítja a munkaterület rendjét, balesetmentességét, védelmét.
+Betartja a sajátos munkabiztonsági előírásokat.
+Felméri a veszélyforrásokat és az egészségre ártalmas tényezőket.
+Baleset, illetve veszélyhelyzet esetén munkakörének megfelelően intézkedik.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Munka megkezdésének feltételei.
+Rendszertan, szerkezettan, fegyvertípus ismeret.
+Lőelmélet és lövészeti ismeretek.
+Munka dokumentálása.
+Anyagmennyiség, anyagszükséglet számítása.
+C.I.P. szabványok ismerete.
+Anyagismeret és gyártásismeret.
+Gyártási ütemtervek.
+Munkabiztonsági és balesetvédelmi előírások.
+Elsősegélynyújtás.
+Tűzvédelem.
+Hatósági előírások.
+Törvényi rendelkezések.
+Védőfelszerelések használata.
+Hulladékkezelés.
+szakmai készségek:
+Információforrások kezelése.
+Műszaki táblázatok kezelése.
+Szabadkézi rajzolás.
+Fém megmunkáló kéziszerszámok használata.
+Fémforgácsoló eljárások gépeinek kezelése.
+Személyes kompetenciák:
+Pontosság.
+Precizitás.
+Szervezőkészség.
+
+Társas kompetenciák:
+Határozottság.
+Segítőkészség.
+Fogalmazó készség.
+Módszerkompetenciák:
+Áttekintő képesség.
+Logikus gondolkodás.
+Új ötletek, megoldások kipróbálása.
+A szakmai követelménymodul azonosítója és megnevezése:
+218-14 Tusa és fa alkatrészek gyártása
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Felméri a munkafeladat időbeli végrehajthatóságát, megtervezi a munkafolyamatot.
+Anyagszükségletet számol.
+Anyagot kiválaszt.
+Gondoskodik a szükséges anyagokról, eszközökről, gépekről.
+Ellenőrzi a felhasználásra kerülő anyagokat.
+Gyártási utasításokat értelmez.
+Méréseket végez.
+Tusaszerkezet megtervezése, legyártása, javítása, fából és alternatív anyagokból.
+Fát illeszt más fafajokkal és egyéb alternatív anyagokkal.
+Halszálkázást végez.
+Gondoskodik a munkaterület folyamatos tisztántartásáról.
+Összegyűjti és szakszerűen tárolja a keletkezett hulladékot.
+Anyagok, eszközök szakszerű tárolását biztosítja.
+Munkakörének megfelelő dokumentálást végez.
+Ellenőrzi, használja és biztosítja az előírt munkavédelmi eszközöket.
+Biztosítja a munkaterület rendjét, balesetmentességét, védelmét.
+Betartja a sajátos munkabiztonsági előírásokat.
+Felméri a veszélyforrásokat és az egészségre ártalmas tényezőket.
+Baleset, illetve veszélyhelyzet esetén munkakörének megfelelően intézkedik.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Anyagismeret és gyártásismeret.
+Munka megkezdésének feltételei.
+Rendszertan, szerkezettan, fegyvertípus ismeret.
+Lőelmélet és lövészeti ismeretek.
+Munka dokumentálása.
+Anyagmennyiség, anyagszükséglet számítása.
+Gyártási ütemtervek.
+Munkabiztonsági és balesetvédelmi előírások.
+Elsősegélynyújtás.
+Tűzvédelem.
+Védőfelszerelések használata.
+Hulladékkezelés.
+szakmai készségek:
+Információforrások kezelése.
+Szabadkézi rajzolás.
+Műszaki táblázatok kezelése.
+Famegmunkáló kéziszerszámok és gépek használata.
+Faforgácsoló eljárások gépeinek kezelése.
+
+Személyes kompetenciák:
+Pontosság.
+Precizitás.
+Önállóság.
+Társas kompetenciák:
+Határozottság.
+Segítőkészség.
+Fogalmazó készség.
+Módszerkompetenciák:
+Áttekintő képesség.
+Logikus gondolkodás.
+Kreativitás, ötletgazdagság.
+A szakmai követelménymodul azonosítója és megnevezése:
+219-14 Fémes és nem fémes anyagok felületkezelése és védelme
+A szakmai követelménymodul tartalma:
+Feladatprofil:
+Felméri a munkafeladat időbeli végrehajthatóságát, megtervezi a munkafolyamatot.
+Anyagot kiválaszt.
+Anyagszükségletet számol.
+Gondoskodik a szükséges anyagokról, eszközökről, felületkezelő berendezésekről.
+Ellenőrzi a felhasználásra kerülő anyagokat.
+Gyártási utasításokat értelmez.
+Felületet előkészít, csiszol, pótol, fém felületet zsírtalanít.
+Különböző eljárásokkal díszítő és védő felületkezelést végez.
+Utókezelést végez.
+Gondoskodik a munkaterület folyamatos tisztántartásáról.
+Összegyűjti és szakszerűen tárolja a keletkezett hulladékot.
+Anyagok, eszközök szakszerű tárolását biztosítja.
+Munkakörének megfelelő dokumentálást végez.
+Ellenőrzi, használja és biztosítja az előírt munkavédelmi eszközöket.
+Biztosítja a munkaterület rendjét, balesetmentességét, védelmét.
+Betartja a sajátos munkabiztonsági előírásokat.
+Felméri a veszélyforrásokat és az egészségre ártalmas tényezőket.
+Baleset-, illetve veszélyhelyzet esetén munkakörének megfelelően intézkedik.
+Tulajdonságprofil:
+Szakmai kompetenciák:
+szakmai ismeretek:
+Anyagismeret.
+Fegyvertípus ismeret.
+Korróziós folyamatok ismeretei.
+Felületkezelési és felületvédelmi ismeretek.
+Fém és faipari megmunkálási ismeretek.
+Munka dokumentálása.
+Anyagmennyiség, anyagszükséglet számítása.
+Gyártási ütemtervek.
+Munkabiztonsági és balesetvédelmi előírások.
+Elsősegélynyújtás.
+Tűzvédelem.
+Védőfelszerelések használata.
+Hulladékkezelés.
+szakmai készségek:
+Információforrások kezelése.
+Műszaki táblázatok kezelése.
+
+Fa és fémmegmunkáló kéziszerszámok és gépek használata.
+Fém felületkezelő gépek, berendezések, eszközök kezelése.
+Munkabiztonsági eszközök, felszerelések használata.
+Személyes kompetenciák:
+Pontosság.
+Precizitás.
+Önállóság.
+Társas kompetenciák:
+Határozottság.
+Segítőkészség.
+Kapcsolatteremtő készség.
+Módszerkompetenciák:
+Áttekintő képesség.
+Logikus gondolkodás.
+Új ötletek, megoldások kipróbálása.
+IV. Mestervizsgáztatási követelmények
+1. A mestervizsgára bocsátás feltételei
+A mestervizsgára bocsátás feltétele a tanulmányi idő alatt elkészített és a Polgári Kézilőfegyver és
+Lőszervizsgáló Kft.-nél levizsgáztatott sörétes vagy golyós lőfegyver.
+A vizsgaremek értékelése: 0-90% Nem felelt meg, 91-100% Megfelelt
+2. A mestervizsga vizsgatevékenységei és vizsgafeladatai
+Gyakorlati vizsgatevékenység
+A vizsgafeladat megnevezése: Fegyver alkatrész gyártása
+A vizsgafeladat ismertetése:
+Kiadott műszaki dokumentációk, vagy mintadarab, illetve mintadarabok alapján fegyveralkatrész gyártása
+kézi-, hagyományos gépi, továbbá CNC forgácsolási technológiák alkalmazásával.
+A vizsgafeladat időtartama: 480 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg, 81-100% Megfelelt
+Írásbeli vizsgatevékenység
+A vizsgafeladat megnevezése: Komplex írásbeli feladat
+A vizsgafeladat ismertetése:
+Forgácsolási technológiai számítások, ballisztikai számítások, szerkesztett alkatrészrajz készítése,
+vadászpuskaműves mester szakmai ismereteinek alkalmazása.
+A vizsgafeladat időtartama: 120 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg, 81-100% Megfelelt
+Szóbeli vizsgatevékenység
+A) A vizsgafeladat megnevezése: Fegyverek, fegyveralkatrészek gyártása és javítása
+A vizsgafeladat ismertetése:
+A szóbeli vizsgatevékenység központilag összeállított kérdései a Fegyver és fém alkatrészek gyártása, Tusa és
+fa alkatrészek gyártása, Fémes és nem fémes anyagok felületkezelése és védelme megnevezésű szakmai
+követelménymodulokhoz tartozó témaköröket tartalmazza.
+A vizsgafeladat időtartama: 45 perc, amelyből a felkészülési idő 30 perc
+A vizsgafeladat értékelése: 0-80% Nem felelt meg, 81-100% Megfelelt
+B) A vizsgafeladat megnevezése: Pedagógiai ismeretek
+A vizsgafeladat ismertetése:
+A gyakorlati munka tanulásához szükséges pszichológiai fogalmak, alapok.
+A szakmai gyakorlat tanítás-tanulási folyamatának jellemzői.
+A szakmai gyakorlat, mint munkavégzés általi tanulás módszertani feladatai.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+
+A vizsgafeladat értékelése: 0-70% Nem felelt meg, 71-100% Megfelelt
+C) A vizsgafeladat megnevezése: Vállalkozási ismeretek
+A vizsgafeladat ismertetése:
+Jogi ismeretek.
+Marketing ismeretek.
+Adó-TB-pénzügyi-számviteli ismeretek.
+A vizsgafeladat időtartama: 90 perc, amelyből a felkészülési idő 45 perc
+A vizsgafeladat értékelése: 0-70% Nem felelt meg, 71-100% Megfelelt
+3. A mestervizsga értékelése
+A jelölt mestervizsgája Megfelelt minősítésű, ha minden vizsgatevékenység esetében Megfelelt minősítést
+szerzett.
+Sikertelen a mestervizsga, ha a vizsgázó egy vagy több vizsgatevékenység esetében Nem felelt meg minősítést
+szerzett.
+A jelöltnek javítóvizsgát abból a vizsgafeladatból kell tennie, amely esetében Nem felelt meg minősítést
+szerzett.
+4. A mestervizsga egyes részei alóli felmentés feltételei
+A Magyar Kereskedelmi és Iparkamara egységes szerkezetbe foglalt Mestervizsga Szabályzata szerinti eljárás
+keretében felmentés adható a Pedagógiai és vállalkozási ismeretek megnevezésű részvizsga alól annak, aki
+felsőfokú szakirányú végzettséggel rendelkezik vagy két éven belül más mesterképesítésből sikeres
+mestervizsgát tett.
+A mestervizsga követelményekben nem szabályozott kérdésekben a Magyar Kereskedelmi és Iparkamara
+Mesterképzési és Mestervizsga Szabályzatában foglaltak az irányadók.
+V. Eszköz- és felszerelési jegyzék
+A B
+1. A képzési feladatok teljesítéséhez szükséges eszközök és
+felszerelések minimuma
+Vadászpuska műves
+mester
+2. Speciális célszerszámok X
+3. Hőkezelő kemence X
+4. Meleg barnítóberendezés X
+5. Forrasztóberendezések X
+6. Hegesztőberendezések X
+7. Hagyományos forgácsológépek X
+8. Fa másolómaró X
+9. Famegmunkáló gépek X
+10. Kisgépek X
+11. Kézi famegmunkáló szerszámok X
+12. Kézi fémforgácsoló szerszámok X
+13. Mérőműszerek X
+14. Idomszerkészletek X
+15. Számítógépek, illetve szoftverek X
+16. Golyós lőfegyverek X
+17. Sörétes lőfegyverek X
+18. Lőfegyverfődarabok és -alkatrészek X
+19. Fegyvercsövek X
+20. Elsütőszerkezetek X
+21. Biztosítószerkezetek X
+22. Irányzószerkezetek X
+23. Zárszerkezetek X
+24. Tusaszerkezetek X
+25. Adogatószerkezetek X
+26. Tokszerkezetek X
+
+27. Helyretoló szerkezetek X
+28. Csőbehajtó készülék X
+29. Optikai eszközök X
+30. Kollimátorok X
+31. Oktatási segédeszközök X
+32. Fegyvermetszetek X
+33. Optikaieszköz-metszetek X
+34. Lövedéksebesség-mérő X
+35. Csőendoszkóp X
+36. Egyéni védőeszközök, munkavédelmi eszközök X
+”
+
+IX. Határozatok Tára
