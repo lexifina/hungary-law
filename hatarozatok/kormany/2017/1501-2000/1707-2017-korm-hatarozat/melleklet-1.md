@@ -18,9 +18,9 @@
 
 ## 4.[^2]
 
-## 5. A Kormány egyetért azzal, hogy a Modern Városok Program keretében a Dunaújváros, Szórád Márton u. 39. szám alatti ingatlan állami tulajdonba kerülésével kapcsolatos intézkedésekről, valamint az ingatlan fejlesztéséhez, felújításához 2017. évben szükséges forrás előirányzat-átcsoportosításáról szóló 1477/2017. (VII. 25.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 1 676 159 342 forintból 57 410 905 forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
+## 5.[^3] A Kormány egyetért azzal, hogy a Modern Városok Program keretében a Dunaújváros, Szórád Márton u. 39. szám alatti ingatlan állami tulajdonba kerülésével kapcsolatos intézkedésekről, valamint az ingatlan fejlesztéséhez, felújításához 2017. évben szükséges forrás előirányzat-átcsoportosításáról szóló 1477/2017. (VII. 25.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 12. Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 1 676 159 342 forintból 39 045 037 forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
-## 6–10.[^3]
+## 6–10.[^4]
 
 1. melléklet az 1707/2017. (IX. 25.) Korm. határozathoz
 
@@ -350,4 +350,5 @@
 
 [^1]: Az 1. pont az 1347/2018. (VII. 26.) Korm. határozat 27. pontja, az 1403/2018. (VIII. 31.) Korm. határozat 9. pontja szerint módosított szöveg.
 [^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 6–10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont az 1445/2018. (IX. 17.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: A 6–10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
