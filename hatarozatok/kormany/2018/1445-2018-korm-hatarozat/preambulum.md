@@ -1,0 +1,1 @@
+A Kormány a Magyarország Kormánya és Dunaújváros Megyei Jogú Város Önkormányzat közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1394/2016. (VII. 21.) Korm. határozat 6. pont f) alpontjának végrehajtása keretében
