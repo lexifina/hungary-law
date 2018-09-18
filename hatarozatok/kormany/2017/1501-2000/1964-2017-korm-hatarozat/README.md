@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1964-30
 | 2018-01-01 | 2017-1964-30-22.1 | 1964/2017. (XII. 19.) Korm. határozat |
 | 2018-01-02 | 2017-1964-30-22.2 | 2010: CXXX. törvény |
 | 2018-05-26 | 2017-1964-30-22.3 | 1245/2018. (V. 25.) Korm. határozat |
+| 2018-09-18 | 2017-1964-30-22.4 | 1688/2018. (XII. 17.) Korm. határozat |

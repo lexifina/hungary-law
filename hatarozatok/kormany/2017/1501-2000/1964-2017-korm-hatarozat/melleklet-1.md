@@ -6,13 +6,13 @@
 
 ## 4. Ha a gyakorlat jellege azt indokolja, az engedély az 1. mellékletben meghatározott időtartamokon belül, a résztvevők – a vonatkozó összlétszám kereteit meg nem haladó – váltása érdekében történő, többszöri határátlépésére is vonatkozik.
 
-## 4/A.[^1] A Kormány hozzájárul ahhoz, hogy az 1. melléklet 2. pontjában foglalt táblázat 23. sora szerinti nemzetközi gyakorlat [European Tactical Airlift Program – Training (ETAP-T)] és 34. sora szerinti nemzetközi gyakorlat (BLACK SWAN/JACKAL CAVE különleges műveleti kiképzés és gyakorlat) Magyarország területén a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
+## 4/A.[^2] A Kormány hozzájárul ahhoz, hogy az 1. melléklet 2. pontjában foglalt táblázat 23. sora szerinti nemzetközi gyakorlat [European Tactical Airlift Program – Training (ETAP-T)] és 34. sora szerinti nemzetközi gyakorlat (BLACK SWAN/JACKAL CAVE különleges műveleti kiképzés és gyakorlat) Magyarország területén a Honvédelmi Minisztérium vagyonkezelésében lévő ingatlanon kívül is végrehajtható.
 
 ## 5. Ez a határozat 2018. január 1-jén lép hatályba.
 
-## 6.[^2]
+## 6.[^3]
 
-1. melléklet az 1964/2017. (XII. 19.) Korm. határozathoz[^3]
+1. melléklet az 1964/2017. (XII. 19.) Korm. határozathoz[^4]
 
 A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -384,6 +384,8 @@ A 2018. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 21. | Very High Readiness Joint Task Force– VJTF áthaladási gyakorlatok | I–IV. n. é. | egyidejűleg legfeljebb 500 fő |
 
-[^1]: A 4/A. pontot az 1245/2018. (V. 25.) Korm. határozat 1. pontja iktatta be.
-[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléket az 1245/2018. (V. 25.) Korm. határozat 2. pontja szerint módosított szöveg.
+| 22. | A NATO 2018. évre vonatkozó kiképzések és gyakorlatok hivatalos listáiban szereplő NATO és nemzeti kiképzési rendezvények és gyakorlatok érdekében történő áthaladások. | III–IV. n. é. | egyidejűleg legfeljebb 1000 fő |
+
+[^2]: A 4/A. pontot az 1245/2018. (V. 25.) Korm. határozat 1. pontja iktatta be.
+[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléket az 1245/2018. (V. 25.) Korm. határozat 2. pontja, az 1443/2018. (IX. 17.) Korm. határozat 1. pontja szerint módosított szöveg.
