@@ -8,7 +8,7 @@
 
 ## Határidő: azonnal
 
-## 3. a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, tárgyéven túli kötelezettségvállalás engedélyezéséről és egyes kormányhatározatok módosításáról szóló 1707/2017. (IX. 25.) Korm. határozat 5. pontjában az „57 410 905 forint” szövegrész helyébe a „39 045 037 forint” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1445/2018. (IX. 17.) Korm. határozathoz
 
@@ -75,3 +75,5 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
