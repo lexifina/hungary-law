@@ -1,1 +1,0 @@
-## Utánpótlási norma szerinti ellátás

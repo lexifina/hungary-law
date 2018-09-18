@@ -1,1 +1,0 @@
-## 2. § A személyi állomány tagjai az e rendeletben meghatározott esetekben térítésmentes természetbeni élelmezési ellátásra jogosultak, amelyet a természetbeni ellátás feltételeinek hiánya esetén fogyasztásra kész élelmiszerek beszerzését biztosító élelmiszer-utalvánnyal (a továbbiakban: élelmiszer-utalvány) kell megváltani.
