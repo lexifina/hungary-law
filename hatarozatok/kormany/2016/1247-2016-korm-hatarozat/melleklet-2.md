@@ -1,4 +1,4 @@
-2. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^11]
+2. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^9]
 
 Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt projektjei
 
@@ -142,7 +142,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 65b. | IKOP-2.1.0-15 | Budapest Nyugati pályaudvar épület-felújítás | MÁV Zrt. | 2,00 (támogatási intenzitás: 100%) | Budapest Nyugati pályaudvar rekonstrukciójának előkészítése. |
 
-| 65c. | IKOP-2.1.0-15 | GSM-R távközlési hálózat kiépítése II. ütem megvalósítás | NIF Zrt. | 18,62 (támogatási intenzitás: 100%) | A CEF-ből finanszírozni tervezett projektelemeket kiegészítő, TEN-T hálózatot érintő 1044 km szakaszon rádiós kommunikációs és forgalomirányítási rendszer kiépítése. |
+| 65c. | IKOP-2.1.0-15 | GSM-R távközlési hálózat kiépítése II. ütem megvalósítás | NIF Zrt. | 28,61 (támogatási intenzitás: 100%) | A CEF-ből finanszírozni tervezett projektelemeket kiegészítő, TEN-T hálózatot érintő 1044 km szakaszon rádiós kommunikációs és forgalomirányítási rendszer kiépítése. |
 
 | 65d. | IKOP-2.1.0-15 | Gödöllő állomás korszerűsítése | NIF Zrt. | 18,58 (támogatási intenzitás: 100%) | Gödöllő állomás korszerűsítése, P+R parkoló létesítése. |
 
@@ -178,7 +178,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 75. | IKOP-3.1.0-15 | A városi közlekedési eszközváltási pontokhoz kapcsolódó P+R parkolók építése Budapesten | BKK Zrt. | 3,00 (támogatási intenzitás: 100%) | Budapesti gyorsvasúti hálózathoz csatlakozó P+R rendszerű parkolók létesítése. |
 
-| 75a. | IKOP-3.1.0-15 | GSM-R távközlési hálózat kiépítése II. ütem megvalósítás | NIF Zrt. | 2,60 (támogatási intenzitás: 100%) | A CEF-ből finanszírozni tervezett projektelemeket kiegészítő, az Integrált Közlekedésfejlesztési Operatív Program 3.1. beruházási prioritását érintő 144 km szakaszon rádiós kommunikációs és forgalomirányítási rendszer kiépítése. |
+| 75a. | IKOP-3.1.0-15 | GSM-R távközlési hálózat kiépítése II. ütem megvalósítás | NIF Zrt. | 3,98 (támogatási intenzitás: 100%) | A CEF-ből finanszírozni tervezett projektelemeket kiegészítő, az Integrált Közlekedésfejlesztési Operatív Program 3.1. beruházási prioritását érintő 144 km szakaszon rádiós kommunikációs és forgalomirányítási rendszer kiépítése. |
 
 | 75b. | IKOP-3.1.0-15 | Budapest villamos- és trolibusz járműprojekt II. ütem | BKK Zrt. | 17,60 (99,44% támogatási intenzitás szerint csökkentett összeg) | Alacsonypadlós járművek beszerzése, valamint az azok üzemeltetéséhez szükséges kapcsolódó infrastruktúra fejlesztések megvalósítása. |
 
@@ -240,7 +240,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 102. | IKOP-3.2.0-15 | Tatabánya Megyei Jogú Város – Bicske vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása | NIF Zrt. | 11,50 (támogatási intenzitás: 100%) | A vasúti és közúti, közösségi és egyéb közlekedési módok közötti közvetlen átszállási kapcsolatot magas szintű szolgáltatásokkal biztosító létesítmények kialakítása, P+R parkolók kiépítése. |
 
-| 102a. | IKOP-3.2.0-15 | GSM-R távközlési hálózat kiépítése II. ütem megvalósítás | NIF Zrt. | 1,98 (támogatási intenzitás: 100%) | A CEF-ből finanszírozni tervezett projektelemeket kiegészítő, az Integrált Közlekedésfejlesztési Operatív Program 3.2. beruházási prioritást érintő 111 km szakaszon rádiós kommunikációs és forgalomirányítási rendszer kiépítése. |
+| 102a. | IKOP-3.2.0-15 | GSM-R távközlési hálózat kiépítése II. ütem megvalósítás | NIF Zrt. | 3,08 (támogatási intenzitás: 100%) | A CEF-ből finanszírozni tervezett projektelemeket kiegészítő, az Integrált Közlekedésfejlesztési Operatív Program 3.2. beruházási prioritást érintő 111 km szakaszon rádiós kommunikációs és forgalomirányítási rendszer kiépítése. |
 
 | 102b. | IKOP-3.2.0-15 | Pécs város közösségi közlekedés fejlesztése | Pécs Megyei Jogú Város Önkormányzata | 1,70 (támogatási intenzitás: 100%) | Elektromos autóbuszok beszerzése és a működtetéshez szükséges energetikai ellátó és kiszolgáló infrastruktúra kiépítése. |
 
@@ -266,4 +266,4 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 108. | IKOP-4.1.0-15 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | 47,25 (támogatási intenzitás: 100%) | 2x2 sávos autóút építése, a 2502 j. út átkötésének és a 252. sz. főút rekonstrukció kiépítése |
 
-[^11]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. c) pontja, a 2106/2017. (XII. 28.) Korm. határozat 1. pontja, az 1125/2018. (III. 19.) Korm. határozat 5. pontja, az 1342/2018. (VII. 25.) Korm. határozat 2. pontja és 3. pont c) alpontja, az 1379/2018. (VIII. 13.) Korm. határozat 4. pontja, az 1388/2018. (VIII. 13.) Korm. határozat 3. pontja, 4. pont c) alpontja szerint módosított szöveg.
+[^9]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. c) pontja, a 2106/2017. (XII. 28.) Korm. határozat 1. pontja, az 1125/2018. (III. 19.) Korm. határozat 5. pontja, az 1342/2018. (VII. 25.) Korm. határozat 2. pontja és 3. pont c) alpontja, az 1379/2018. (VIII. 13.) Korm. határozat 4. pontja, az 1388/2018. (VIII. 13.) Korm. határozat 3. pontja, 4. pont c) alpontja, az 1444/2018. (IX. 17.) Korm. határozat 8. pontja szerint módosított szöveg.
