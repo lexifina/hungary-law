@@ -12,4 +12,6 @@
 
 ## Határidő: az éves fejlesztési keret soron következő módosítására vonatkozó javaslat benyújtásával egyidejűleg
 
-1. melléklet az 1575/2016. (X. 19.) Korm. határozathoz
+1. melléklet az 1575/2016. (X. 19.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1444/2018. (IX. 17.) Korm. határozat 4. pontjával megállapított szöveg.
