@@ -2,6 +2,8 @@ A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4
 
 a) a 2019. évre vonatkozó kötelezettségvállalás legfeljebb 153 265 890 468 forint,
 
-b) a 2020. évre vonatkozó kötelezettségvállalás legfeljebb 97 201 031 614 forint,
+b)[^1] a 2020. évre vonatkozó kötelezettségvállalás legfeljebb 109 946 304 781 forint,
 
 c) a 2021. évre vonatkozó kötelezettségvállalás legfeljebb 6 376 654 355 forint.
+
+[^1]: A határozat b) pontja az 1444/2018. (IX. 17.) Korm. határozat 9. pontja szerint módosított szöveg.
