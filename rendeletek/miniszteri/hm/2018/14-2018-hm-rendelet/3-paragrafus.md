@@ -1,0 +1,3 @@
+3. § (1) A személyi állomány tagjai az e rendeletben meghatározott esetekben térítésmentes természetbeni élelmezési ellátásra jogosultak, amelyet a természetbeni ellátás feltételeinek hiánya esetén fogyasztásra kész élelmiszerek beszerzését biztosító élelmiszer-utalvánnyal (a továbbiakban: élelmiszer-utalvány) vagy az e rendeletben meghatározott esetekben készpénzzel kell megváltani.
+
+(2) Az e rendelet szerint jogosult személy élelmezési ellátásra csak egy jogcímen lehet jogosult. Ha e rendelet szerint a személyi állomány részére több jogcímen is megállapítható a jogosultság, részére a magasabb értékű norma szerinti ellátást kell biztosítani.

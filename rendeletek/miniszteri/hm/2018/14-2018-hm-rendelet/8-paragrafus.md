@@ -1,0 +1,107 @@
+## II. Fejezet
+
+## AZ ÉLELMEZÉSI ELLÁTÁS KÜLÖNÖS SZABÁLYAI
+
+## 1. Az I. számú élelmezési norma szerinti ellátás, valamint az ellátásra vonatkozó különös szabályok
+
+8. § (1) Az I. számú élelmezési norma szerinti térítésmentes természetbeni élelmezési ellátásra a személyi állomány és a katonai oktatási intézmény hallgatója az alábbi esetekben jogosult:
+
+1. a hivatásos és a szerződéses katona a Hjt. 42. § (2) bekezdés a) és g) pontja szerinti vezénylés – ide nem értve a 19. § (1) bekezdésében meghatározott vezénylést – időtartamára, a szolgálatteljesítés napjain kivéve, ha
+
+a) napi munkába járó, vagy
+
+b) a vezénylés helye szerinti település az eredeti szolgálatteljesítési helye szerinti településsel, a lakóhelyével vagy a tartózkodási helyével azonos,
+
+2. a honvédelmi szervezetnél foglalkoztatott munkavállaló és közalkalmazott a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 53. §-a vagy a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 44/A. § (3) bekezdése szerinti esetben és a honvédelmi szervezetek által szervezett képzésre történő beiskolázás időtartamára a munkaidőre eső főétkezésre kivéve, ha
+
+a) napi munkába járó, vagy
+
+b) a kinevezéstől vagy a munkaszerződéstől eltérő foglalkoztatás, képzésre történő beiskolázás helye szerinti település az eredeti munkavégzési helye szerinti településsel, a lakóhelyével vagy a tartózkodási helyével azonos,
+
+3. a szolgálat érdekében áthelyezett, vagy a Hjt. 42. § (2) bekezdés b) pontja szerint vezényelt hivatásos és szerződéses katona részére – ha a vezénylés helye szerinti település az eredeti szolgálatteljesítési helye szerinti településsel, lakóhelyével vagy tartózkodási helyével nem azonos – a szolgálatteljesítés napján, azzal, hogy az első beosztásba helyezés szintén a szolgálat érdekében történő áthelyezésnek minősül; nem jár természetbeni ellátás az alap-, pót- és egészségügyi szabadság, a szolgálat alóli mentesítés, a személyi szabadságot érintő kényszerintézkedés napjaira, és ha az áthelyezés, vezénylés szerinti szolgálatteljesítési helyéről naponta hazautazhat,
+
+4. átszervezés következtében helyőrséget változtató katonai szervezet hivatásos, szerződéses és tényleges szolgálatot teljesítő önkéntes tartalékos katonái az áttelepülés megkezdésének napjától az új helyőrségbe érkezés napjáig,
+
+5. a HVKF és az arra jogosult csoportfőnök intézkedésében a készenlét fenntartása és fokozása feladatai végrehajtására meghatározott személyek által elrendelt magasabb készenléti ellenőrzések alkalmával az ellenőrzött katonai szervezet személyi állománya, valamint az ellenőrzést végrehajtók, az ellenőrzés időtartama alatt,
+
+6. a honvédelmi szervezetek által szervezett, tanteremben levezetésre kerülő hadijátékon, törzsvezetési gyakorlaton, katonai jellegű tanfolyamokon, katonai nem iskolarendszerű képzéseken és törzsgyakorláson részt vevő, valamint Magyarország védelmi tervének kidolgozására kijelölt személyi állomány a feladatra eső főétkezésre, továbbá akik otthonukba nem távozhatnak el, a feladat kezdetétől a befejezés napjáig a norma teljes értéke szerinti ellátásra, ha részükre beosztásuknál fogva – e rendelet alapján – magasabb értékű élelmezési norma nincs megállapítva,
+
+7. a szerződéses és önkéntes tartalékos katonának, valamint a honvéd tisztképzésre vagy a katonai szakképzésre jelentkező személy az egészségügyi-alkalmassági vizsgálatok időtartama alatti főétkezésre,
+
+8. az MH szintű, valamint a két vagy több vezetési szinten megrendezésre kerülő gyakorlattervezői konferencián részt vevő személyi állomány a konferencia időtartamára eső főétkezésre,
+
+9. a katonai oktatási intézmény hallgatója a szolgálati viszonyának kezdőnapjától a szolgálati viszonya megszűnésének napjáig – ideértve a nyilvános tiszt-, altisztavatás időszakát is –, valamint a gyakorlati kiképzés, csapatgyakorlat időtartamára, ha részére e rendelet alapján magasabb élelmezési norma nincs megállapítva,
+
+10. a HM közigazgatási államtitkára (a továbbiakban: HM KÁT) vagy a HVKF által a katonai oktatási intézmény részére elrendelt, honvédelmi pályára irányítási tevékenység keretében rendezett „Nyílt-Nap” rendezvény napjain a végrehajtásba bevont személyi állomány a szolgálatteljesítési és munkaidőn túli munkavégzésre eső főétkezésre,
+
+11. az MH katonai szervezeteinél a legénységi és önkéntes tartalékos katonai szolgálatra alkalmas jelentkezők bevonulásának végrehajtásával kapcsolatos feladatokat végző személyi állomány a bevonulás napján, a szolgálatteljesítési és munkaidőn túli szolgálatteljesítésre, illetve munkavégzésre eső főétkezésre,
+
+12. a tényleges szolgálatot teljesítő önkéntes tartalékos katona, valamint a honvédségi ösztöndíjas a honvédelmi szervezetnél eltöltendő szakmai gyakorlat napjain – kivéve a napi munkába járókat, illetve hétvégi hazautazókat – ha szolgálatteljesítési helye az állandó lakhelyével vagy tartózkodási helyével nem esik egybe; napi munkába járás, illetve hétvégi hazautazás esetén a tényleges szolgálatot teljesítő önkéntes tartalékos katona és a honvédségi ösztöndíjas a szolgálatteljesítési helyén tartózkodás idejére eső főétkezésre jogosult,
+
+13. a HM mint intézményfenntartó képviseletére kijelölt vezetője által a miniszter fenntartói irányítása alá tartozó köznevelési intézmény személyi állománya részére elrendelt feladat végrehajtása idején,
+
+14. a két vagy több vezetési szinten megrendezésre kerülő gyakorlatok, hadijátékok, haditechnikai bemutatók záró rendezvényeire meghívott személyi állomány a rendezvény megtartásának idejére eső főétkezésekre, azzal, hogy a résztvevők körét, létszámát a rendezvény megtartását elrendelő elöljáró személy határozza meg,
+
+15. a külföldön béketámogató tevékenységben, és a Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében elrendelt feladatban részt vevő hivatásos, szerződéses és tényleges szolgálatot teljesítő önkéntes tartalékos katonák és közeli hozzátartozóik az elköszönési és visszafogadó ünnepségek alkalmával az ebédétkezésre, azzal, hogy a résztvevők körét és létszámát a rendezvény megtartását elrendelő vagy jóváhagyó elöljáró határozza meg,
+
+16. a külföldön béketámogató tevékenységben, és a Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében elrendelt feladatban részt vevő személyi állomány közeli hozzátartozói és a meghívott belső vendégek, a külföldön tartózkodás ideje alatt legfeljebb egy alkalommal, a feladat irányításáért felelős elöljáró által meghatározott időpontban megtartott rendezvény alkalmával az ebédétkezésre; a résztvevők körét és létszámát a rendezvény megtartását elrendelő vagy jóváhagyó elöljáró határozza meg,
+
+17. a 22. § (1) bekezdés b), d)–f) és j)–l) pontjában felsorolt ünnepnapokon rendezett ünnepségek napján szolgálatot teljesítő, munkát végző személyi állomány az ebéd résznormára, azzal, hogy ha a honvédelmi szervezetnél az ünnepséget az ünnepnapot megelőző munkanapon rendezik, az ebédrésznorma csak a rendezvény napján számítható fel,
+
+18. a hivatásos tiszti és altiszt avatás alkalmával rendezett ünnepségen avatottak, valamint a belső vendégek az ebédétkezésre,
+
+19. a honvédelmi szervezet vezetője által évente, nyugdíjas szervezetenként egy alkalommal – a honvédelmi szervezet jogutódlási és területi elhelyezését is figyelembe véve – szervezett nyugdíjas találkozón részt vevő nyugállományú katona és a meghívott személyi állomány az ebédétkezésre,
+
+20. az önálló állománytáblával vagy munkaköri jegyzékkel rendelkező honvédelmi szervezet és jogelődjei megalakulási napja és felszámolási ünnepsége alkalmával a meghívott személyi állomány ebédétkezésre,
+
+21. az MH Kiképzési-Oktatási és Regeneráló Központba (a továbbiakban: MH KORK) regeneráló pihenésre beutalt személyi állomány,
+
+22. az MH KORK-ba beutalás alapján történő üdülésre, illetve rövid időtartamú hétközi, hétvégi pihenésre igénybe vevő igényjogosult,
+
+23. az MH KORK-ba regeneráló pihenésre beutalt repülőhajózó, ejtőernyős, búvár hivatásos, szerződéses és tényleges szolgálatot teljesítő önkéntes tartalékos katona részére a beutalás első napjától a befejezés napjáig, ha az nem minősül a 13. § (1) bekezdés 6. pontja szerinti kondicionáló kiképzésnek,
+
+24. az MH KORK-ban az MH katonai szervezeteitől kiképzési célú rendezvényeken részt vevő személyi állomány,
+
+25. a HM és az MH különböző vezetési szintjein megrendezésre kerülő, a pénzügyi és számviteli feladatok központosított ellátására kijelölt honvédelmi szervezet vezetője, az MH középszintű vezető szerve parancsnokának haderőnemi helyettesei, valamint az alárendelt katonai szervezetekkel rendelkező más magasabb szintű parancsnokság jogállású katonai szervezet parancsnoka és az MH Vezénylő Zászlós által megrendezett szakmai értekezleten, tanácskozáson részt vevő személyi állomány, évente legfeljebb négy alkalommal, azzal, hogy a berendelt vagy meghívott résztvevők körét a rendezvény megtartását elrendelő vagy jóváhagyó szolgálati elöljáró, hivatali felettes határozza meg,
+
+26. a logisztikai tevékenységet folytató más magasabb szintű parancsnokság jogállású katonai szervezet logisztikai igazgatója és a logisztikai anyagnemekért felelős szakmai főnökei, az alárendelt katonai szervezetekkel rendelkező más magasabb szintű parancsnokság jogállású katonai szervezet parancsnokának szakmai helyettesei, valamint az MH középszintű vezető szerve törzsfőnökének szakmai helyettesei és logisztikai anyagnemekért felelős főnöke által megrendezett munkaértekezleten, tanácskozáson részt vevő személyi állomány, évente legfeljebb két alkalommal, azzal, hogy a berendelt vagy meghívott résztvevők körét a rendezvény megtartását elrendelő vagy jóváhagyó szolgálati elöljáró határozza meg, és az élelmezési ellátásra jogosult résztvevők létszáma rendezvényenként nem haladhatja meg a 100 főt,
+
+27. a HVKF, az MH középszintű vezető szervének parancsnoka, valamint az alárendelt katonai szervezettel rendelkező más magasabb szintű parancsnokság jogállású katonai szervezet parancsnoka által megtartott havi munka- és feladatszabó értekezleten részt vevő személyi állomány, havonta legfeljebb egy alkalommal, a berendelt vagy meghívott résztvevők körét a rendezvény megtartását elrendelő vagy jóváhagyó szolgálati elöljáró határozza meg,
+
+28. a készenlét fenntartása és fokozása készenléti időszakainak elrendelése esetén a katonai állomány, ha a készenlét ideje alatt szolgálatteljesítési helyükről nem távozhatnak el,
+
+29. a 24 órás őr- és ügyeleti, valamint rendész szolgálatot ellátó személyi állomány, a szolgálatteljesítés napjain a norma teljes értékében, a 12 órás őr- és ügyeleti, valamint rendész szolgálatot ellátó személyi állomány a szolgálatteljesítés napjain a norma részértékében; természetbeni ellátás hiányában mindkét esetben élelmiszer-utalványt kell kiadni, más élelmezési normák alapján természetbeni ellátásra vagy élelmezési támogatásra jogosultak őr- és ügyeleti szolgálat ellátás címén térítés nélküli természetbeni ellátásban nem részesülhetnek,
+
+30. a készenléti alegység állománya, a légvédelmi készenléti szolgálatot teljesítő katonai állomány, valamint az egyéb készenléti feladatot ellátó személyi állomány, ha a feladatot vagy a készenléti szolgálatot elrendelő parancs szerint szolgálati helyükről nem távozhatnak el,
+
+31. lőtéren, kiképzőbázison vagy terepen levezetésre kerülő alap-, szakalapozó és szakkiképzéseken, gyakorlatokon, hadijátékokon, törzsvezetési gyakorlatokon és éleslövészeteken részt vevő és kiszolgáló személyi állomány és a katonai oktatási intézmény hallgatója, valamint a honvédségi ösztöndíjas a feladatra eső főétkezésre, továbbá akik otthonukba nem távozhatnak el, a feladat kezdetétől a befejezés napjáig a norma teljes értéke szerinti ellátásra, ha részükre beosztásuknál fogva – e rendelet alapján – magasabb értékű élelmezési norma nincs megállapítva,
+
+32. a HM és MH valamennyi vezetési szintjén – honvédelmi szervezetenként évente legfeljebb négy alkalommal, a jóváhagyott kiképzési vagy rendezvénytervben meghatározottak szerint – megrendezésre kerülő különböző sportrendezvények és katonai versenyek döntőin részt vevő személyi állomány és a meghívott vendégrésztvevők, továbbá a versenyt rendezők és versenybírók a döntők napjain,
+
+33. a hazai és nemzetközi járőrbajnokságokon részt vevő csapat tagjai és vezetői a lő- és gyakorlótéren végrehajtott felkészülés napjaira, a felkészülést és a felkészülő állományt a járőrbajnokságot elrendelő elöljáró parancsban rendeli el vagy jelöli ki úgy, hogy ezen a jogcímen legfeljebb alkalmanként 5 napot lehet felszámolni,
+
+34. az állami rendezvények katonai protokolláris kiszolgálásáért felelős katonai szervezet díszelgési feladatot végrehajtó alegysége, a központi zenekar és a helyőrségi zenekarok, illetve a helyőrségekből díszelgésre kirendelt személyi állomány ünnep-, munkaszüneti és kiképzésmentes napokon, valamint munkanapokon a szolgálatteljesítési időn kívül végrehajtott díszelgési feladatokra történő felkészülés, valamint a végrehajtás idején a szolgálatteljesítésre eső főétkezésre,
+
+35. a díszelgési feladatra kijelölt állomány a 22. § (1) bekezdés b) és d)–f) pontjában felsorolt ünnepnapokra történő felkészülés időszakában az ebédétkezésre, a felkészülés időszakát és a részt vevő állományt az állományilletékes parancsnok parancsban jelöli ki úgy, hogy ezen a jogcímen alkalmanként legfeljebb 5 napot lehet felszámolni,
+
+36. a Nemzetközi Repülőnap és Haditechnikai Bemutató kiszolgálását végző személyi állomány a feladat megkezdésétől annak befejezéséig,
+
+37. aknamentesítésre és tűzszerész feladatok ellátására kirendelt hivatásos, szerződéses és tényleges szolgálatot teljesítő önkéntes tartalékos katonák és az egészségügyi szakállomány a feladat végrehajtásának idejére eső főétkezésre, amely a feladat jellegétől függően – az állományilletékes parancsnok parancsára – élelmiszer-utalvánnyal megváltható,
+
+38. a KNBSZ rádiófelderítést végző rádiófelderítő és iránymérő rendszer állomásain szakmai feladatot ellátó személyi állomány a KNBSZ állandó objektumain kívüli kihelyezés időtartama alatt, amely a feladat jellegétől függően – a feladatot elrendelő vezető engedélyével – élelmiszer-utalvánnyal megváltható,
+
+39. a külföldön béketámogató tevékenységben, és a Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében elrendelt feladatban részt vevő katonai szervezet honi kiképzésén, felkészítésén részt vevő állomány a kiképzési foglalkozás idejére eső főétkezésre, vagy ha otthonukba nem távozhatnak el, a norma szerinti teljes ellátásra a felkészítés kezdetétől a befejezés napjáig; hazatérés után a visszaillesztéssel összefüggő foglalkozások, egészségügyi visszaszűrések napjain a tevékenység idejére eső főétkezésre, valamint
+
+40. a katonai szállítmánykísérő, forgalomszabályzó és katonai rendész feladatot ellátó személyi állomány, ha parancs szerint a feladatellátás az állandó helyőrségen kívül eléri a 4 óra időtartamot, a szolgálatteljesítési időre eső részétkezésre.
+
+(2) Az MH logisztikai utaltsági rendje alapján illetékes, illetve a HVKF vagy az MH középszintű vezető szervének parancsnoka által kijelölt katonai szervezet az I. számú élelmezési norma szerinti természetbeni ellátást térítésmentesen biztosítja:
+
+1. a HM KÁT vagy a HVKF által évente legfeljebb két alkalommal, a katonai oktatási intézmény részére elrendelt, honvédelmi pályára irányítási tevékenység keretében rendezett „Nyílt-Nap” rendezvény napjain a részt vevő vendégek részére, a vendégek létszáma alkalmanként nem haladhatja meg a 200 főt,
+
+2. az MH katonai szervezeteinél a legénységi és önkéntes tartalékos katonai szolgálatra alkalmas jelentkezők részére a bevonulás napján,
+
+3. a miniszter fenntartói irányítása alá tartozó köznevelési intézmény tanulói részére a fenntartó képviseletére kijelölt vezetője által elrendelt feladat végrehajtása idején,
+
+4. az (1) bekezdés 15–20. pontjában felsorolt rendezvényekre meghívott külső vendégek részére az élelmezési feljavítási normával együttes értékben.
+
+(3) A (2) bekezdés 4. pontja alapján felszámított adagszám – az (1) bekezdés 19. és 20. pontjában meghatározott eseteket kivéve – nem lehet több, mint a belső vendégek 10%-a, de legfeljebb 50 fő, ahol ez a szám nem éri el a 10 főt, ott legfeljebb 10 fő.
