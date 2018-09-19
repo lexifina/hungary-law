@@ -1,6 +1,6 @@
 ## A kijelölési eljárás
 
-3. §[^4] (1) A kijelölő hatóság a kérelmező szervezet, alkalmasságának, felkészültségének megítélése során a következő kérdéseket vizsgálja:
+3. §[^5] (1) A kijelölő hatóság a kérelmező szervezet, alkalmasságának, felkészültségének megítélése során a következő kérdéseket vizsgálja:
 
 a) a kérelmező szervezet megfelelőségértékelési tevékenységet végző személyzetének
 
@@ -30,4 +30,4 @@ c) az R. 2. § (2) bekezdés e) pontjában meghatározott részvétel vagy táj�
 
 (2) Ha a kérelmező szervezet a megfelelőségértékelési tevékenységek végzéséhez közreműködőt vesz igénybe, a vizsgálat kiterjed arra is, hogy a közreműködő megfelel-e az (1) bekezdésben foglalt követelményeknek.
 
-[^4]: A 3. § a 44/2016. (XI. 28.) NGM rendelet 50. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § a 44/2016. (XI. 28.) NGM rendelet 50. § (1) bekezdésével megállapított szöveg.

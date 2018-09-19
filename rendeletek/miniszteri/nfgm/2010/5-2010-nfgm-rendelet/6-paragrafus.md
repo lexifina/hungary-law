@@ -1,4 +1,4 @@
-## 5. §[^5] Az engedély 5 évig hatályos.
+## 5. §[^6] Az engedély 5 évig hatályos.
 
 ## A felelősségbiztosítási szerződésre vonatkozó követelmények
 
@@ -8,4 +8,4 @@
 
 (3) Ha a kérelmező szervezet a kijelölést több jogszabály szerinti megfelelőségértékelési területre kéri, az egyes jogszabályokhoz tartozó összeghatárokat össze kell adni.
 
-[^5]: Az 5. § a 44/2016. (XI. 28.) NGM rendelet 50. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 5. § a 44/2016. (XI. 28.) NGM rendelet 50. § (2) bekezdésével megállapított szöveg.

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-5-20-2K
 | 2016-03-01 | 2010-5-20-2K.5 | 7/2016. (II. 22.) NGM rendelet |
 | 2016-12-13 | 2010-5-20-2K.6 | 44/2016. (XI. 28.) NGM rendelet |
 | 2017-01-01 | 2010-5-20-2K.7 | 62/2016. (XII. 29.) NGM rendelet |
+| 2018-09-19 | 2010-5-20-2K.8 | 14/2018. (IX. 4.) ITM rendelet |
