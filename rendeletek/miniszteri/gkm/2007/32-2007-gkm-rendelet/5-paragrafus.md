@@ -1,4 +1,4 @@
-5. §[^15] (1) Az azonosító jel elhelyezhető
+5. §[^16] (1) Az azonosító jel elhelyezhető
 
 a) a terméken közvetlenül,
 
@@ -14,4 +14,4 @@ b) technikai segédeszköz nélkül észlelhető, könnyen felismerhető és olv
 
 (3) Jelölésre csak olyan módszer alkalmazható, amely a termék rendeltetésszerű használata során is biztosítja az azonosító jel épségét, az egyedi azonosítás lehetőségét.
 
-[^15]: Az 5. § a 27/2015. (X. 15.) NGM rendelet 5. §-ával megállapított szöveg.
+[^16]: Az 5. § a 27/2015. (X. 15.) NGM rendelet 5. §-ával megállapított szöveg.

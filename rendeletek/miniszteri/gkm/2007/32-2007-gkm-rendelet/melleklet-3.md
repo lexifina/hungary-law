@@ -128,7 +128,7 @@
 
 ## Kelt, .................................................................................................., .................... év ........................................................... hónap ............... nap aláírás: ...........................................
 
-3. melléklet a 32/2007. (III. 19.) GKM rendelethez[^28]
+3. melléklet a 32/2007. (III. 19.) GKM rendelethez[^29]
 
 Haditechnikai termék gyártásának, értékesítésének nyilvántartási lapja
 
@@ -176,4 +176,4 @@ Kelt, ..........................................................................
 
 Aláírás
 
-[^28]: A 3. melléklet a 27/2015. (X. 15.) NGM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^29]: A 3. melléklet a 27/2015. (X. 15.) NGM rendelet 11. § (3) bekezdésével megállapított szöveg.
