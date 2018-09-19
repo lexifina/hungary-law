@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-61-20-2
 | 2017-01-01 | 2016-61-20-2X.1 | 61/2016. (XII. 29.) NGM rendelet |
 | 2017-01-02 | 2016-61-20-2X.2 | 2010: CXXX. törvény |
 | 2018-01-01 | 2016-61-20-2X.3 | 51/2017. (XII. 29.) NGM rendelet |
+| 2018-09-19 | 2016-61-20-2X.4 | 14/2018. (IX. 4.) ITM rendelet |

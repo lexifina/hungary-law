@@ -1,4 +1,4 @@
-1. melléklet a 61/2016. (XII. 29.) NGM rendelethez
+1. melléklet a 61/2016. (XII. 29.) NGM rendelethez[^8]
 
 A műszaki biztonsági, valamint a műszaki biztonsági hatóság hatáskörébe utalt építésügyi hatósági eljárásokért fizetendő igazgatási szolgáltatási díj mértéke
 
@@ -18,33 +18,13 @@ A) Létesítési engedélyezéssel kapcsolatos eljárási díjak
 
 | 1.5. | 42 MW (60 t/h) teljesítmény felett | 127 000 Ft |
 
-| 2. Kazán, valamint fűtött nyomástartó berendezés javítási vagy átalakítási dokumentációjának jóváhagyása |
+| 2. |
 
-| 2.1. | 0,7 MW (1 t/h) teljesítményig | 31 000 Ft |
-
-| 2.2. | 0,7 MW (1 t/h) teljesítmény felett 8,4 MW (12 t/h) teljesítményig | 39 500 Ft |
-
-| 2.3. | 8,4 MW (12 t/h) teljesítmény felett 21 MW (30 t/h) teljesítményig | 46 000 Ft |
-
-| 2.4. | 21 MW (30 t/h) teljesítmény felett | 59 000 Ft |
-
-| 3. Vegyi kezeléssel kapcsolatos eljárások |
-
-| 3.1. | vegyi kezelés jogosultságának megújítása | 55 000 Ft |
-
-| 3.2. | vegyi kezelés engedélyezési eljárás szakáganként (tisztítás, passziválás, pácolás, konzerválás) | 61 000 Ft |
-
-| 3.3. | vegyi kezelést végző gazdálkodó szervezet alkalmasságának időszakos ellenőrzése | 52 000 Ft |
+| 3. |
 
 | 4. Kazánt, illetve fűtött nyomástartó edényt magába foglaló rendszer próbaüzemének jóváhagyása (összeépítési engedély MSZ EN 676 szabvány szerinti vizsgálat hiányában) | 52 000 Ft |
 
-| 5. Állandó kezelő nélküli üzemre történő átalakítás jóváhagyási eljárása, kazánonként |  |
-
-| 5.1. | 12 órás | 40 000 Ft |
-
-| 5.2. | 24 órás | 56 000 Ft |
-
-| 5.3. | 72 órás | 74 000 Ft |
+| 5. |  |
 
 | 6. Nem fűtött nyomástartó berendezés létesítési engedélyezése csővezetékeivel együtt, darabonként |  |
 
@@ -56,15 +36,7 @@ A) Létesítési engedélyezéssel kapcsolatos eljárási díjak
 
 | 6.4. | 50 m3 össztérfogat felett | 61 000 Ft |
 
-| 7. Nem fűtött nyomástartó berendezés javítási vagy átalakítási dokumentációjának jóváhagyása |  |
-
-| 7.1. | 5 m3 össztérfogatig | 26 500 Ft |
-
-| 7.2. | 5 m3 össztérfogat felett 50 m3 össztérfogatig | 31 000 Ft |
-
-| 7.3. | 50 m3 össztérfogat felett 100 m3 össztérfogatig | 34 000 Ft |
-
-| 7.4. | 100 m3 össztérfogat felett minden megkezdett 100 m3 esetén | +38 000 Ft |
+| 7. |  |
 
 | 8. Töltőlétesítmény létesítésének engedélyezése csővezetékeivel, töltőhelyeivel együtt |
 
@@ -78,21 +50,11 @@ A) Létesítési engedélyezéssel kapcsolatos eljárási díjak
 
 | 8.2. | Szállítható nyomástartó berendezésből telepített nyomástartó berendezésbe gázt lefejtő létesítmény lefejtő berendezésenként | 68 000 Ft |
 
-| 9. Töltőlétesítmény javításának vagy átalakításának jóváhagyása |
-
-| 9.1. | Szállítható nyomástartó berendezések töltőlétesítményei a töltési tevékenység szerint |  |
-
-| 9.1.1. | Hordozható tűzoltó készülékek CO2 palackjának töltése palackból átfejtéssel, vagy kizárólag búvárpalack töltése légtérből kompresszorral | 68 000 Ft |
-
-| 9.1.2. | Acetilén töltőlétesítmény | 137 000 Ft |
-
-| 9.1.3. | Gáztöltő vagy -forgalmazó gazdálkodó szervezet töltőlétesítménye töltő berendezésenként | 68 000 Ft |
-
-| 9.2. | Szállítható nyomástartó berendezésből telepített nyomástartó berendezésbe gázt lefejtő létesítmény lefejtő berendezésenként | 68 000 Ft |
+| 9. |
 
 B) Nyomástartó berendezés vagy létesítmény használatba vételének engedélyezése
 
-| 1. Kazán, illetve fűtött nyomástartó rendszer vagy létesítmény használatának engedélyezése helyszíni ellenőrzések után, vagy a szemle alapján, darabonként |
+| 1. Kazán, illetve fűtött nyomástartó rendszer vagy létesítmény üzembevételének engedélyezése helyszíni ellenőrzések után, vagy a szemle alapján, darabonként |
 
 | 1.1. | 0,7 MW (1 t/h) teljesítményig | 25 500 Ft |
 
@@ -104,7 +66,7 @@ B) Nyomástartó berendezés vagy létesítmény használatba vételének enged�
 
 | 1.5. | 42 MW (60 t/h) teljesítmény felett | 80 000 Ft |
 
-| 2. Nem fűtött nyomástartó rendszer vagy létesítmény használatának engedélyezése helyszíni ellenőrzések után, szemle alapján, darabonként |
+| 2. Nem fűtött nyomástartó rendszer vagy létesítmény üzembevételének engedélyezése helyszíni ellenőrzések után, szemle alapján, darabonként |
 
 | 2.1. | 1 m3 össztérfogatig | 22 000 Ft |
 
@@ -114,7 +76,7 @@ B) Nyomástartó berendezés vagy létesítmény használatba vételének enged�
 
 | 2.4. | 50 m3 össztérfogat felett | 54 000 Ft |
 
-| 3. Töltőlétesítmény használatának engedélyezése helyszíni szemle alapján |
+| 3. Töltőlétesítmény üzembevételének engedélyezése helyszíni szemle alapján |
 
 | 3.1. | Szállítható nyomástartó berendezések töltőlétesítményei a töltési tevékenység szerint |  |
 
@@ -164,7 +126,7 @@ C) Az időszakos ellenőrzések díja berendezésenként és a csővezetékek el
 
 | 1. Kazán, valamint fűtött nyomástartó berendezés, darabonként |
 
-| 1.1. | Külső ellenőrzés |  |
+| 1.1. | Üzemeltetési ellenőrzés |  |
 
 | 1.1.1. | 0,7 MW (1 t/h) teljesítményig | 14 000 Ft |
 
@@ -204,7 +166,7 @@ C) Az időszakos ellenőrzések díja berendezésenként és a csővezetékek el
 
 | 2. Nem fűtött nyomástartó berendezés, darabonként |
 
-| 2.1. | Külső ellenőrzés |  |
+| 2.1. | Üzemeltetési ellenőrzés |  |
 
 | 2.1.1. | 1 m3 össztérfogatig | 9 500 Ft |
 
@@ -260,79 +222,7 @@ C) Az időszakos ellenőrzések díja berendezésenként és a csővezetékek el
 
 | 4.3. | 50 db felett darabonként | +250 Ft |
 
-| 5. Csővezetékek ellenőrzése |
-
-| 5.1. | Csővezeték külső ellenőrzésének díja a hozzá tartozó kazán, fűtött nyomástartó berendezés teljesítménye alapján |  |
-
-| 5.1.1. | 0,7 MW (1 t/h) teljesítményig | 12 500 Ft |
-
-| 5.1.2. | 0,7 MW (1 t/h) teljesítmény felett 8,4 MW (12 t/h) teljesítményig | 15 000 Ft |
-
-| 5.1.3. | 8,4 MW (12 t/h) teljesítmény felett 21 MW (30 t/h) teljesítményig | 23 000 Ft |
-
-| 5.1.4. | 21 MW (30 t/h) teljesítmény felett 42 MW (60 t/h) teljesítményig | 27 000 Ft |
-
-| 5.1.5. | 42 MW (60 t/h) teljesítmény felett | 30 500 Ft |
-
-| 5.2. | Csővezeték külső ellenőrzésének díja a hozzá tartozó nem fűtött nyomástartó berendezés térfogata alapján |
-
-| 5.2.1. | 1 m3 össztérfogatig | 6 500 Ft |
-
-| 5.2.2. | 1 m3 össztérfogat felett 5 m3 össztérfogatig | 12 000 Ft |
-
-| 5.2.3. | 5 m3 össztérfogat felett 50 m3 össztérfogatig | 16 500 Ft |
-
-| 5.2.4. | 50 m3 össztérfogat felett 100 m3 össztérfogatig | 25 000 Ft |
-
-| 5.2.5. | 100 m3 össztérfogat felett | 32 500 Ft |
-
-| 5.3. | Csővezeték belső ellenőrzésének díja a hozzá tartozó kazán, fűtött nyomástartó berendezés teljesítménye alapján |
-
-| 5.3.1. | 0,7 MW (1 t/h) teljesítményig | 12 500 Ft |
-
-| 5.3.2. | 0,7 MW (1 t/h) teljesítmény felett 8,4 MW (12 t/h) teljesítményig | 15 000 Ft |
-
-| 5.3.3. | 8,4 MW (12 t/h) teljesítmény felett 21 MW (30 t/h) teljesítményig | 23 000 Ft |
-
-| 5.3.4. | 21 MW (30 t/h) teljesítmény felett 42 MW (60 t/h) teljesítményig | 27 000 Ft |
-
-| 5.3.5. | 42 MW (60 t/h) teljesítmény felett | 30 500 Ft |
-
-| 5.4. | Csővezeték belső ellenőrzésének díja a hozzá tartozó nem fűtött nyomástartó berendezés térfogata alapján |
-
-| 5.4.1. | 1 m3 össztérfogatig | 6 500 Ft |
-
-| 5.4.2. | 1 m3 össztérfogat felett - 5 m3 össztérfogatig | 12 000 Ft |
-
-| 5.4.3. | 5 m3 össztérfogat felett - 50 m3 össztérfogatig | 16 500 Ft |
-
-| 5.4.4. | 50 m3 össztérfogat felett - 100 m3 össztérfogatig | 25 000 Ft |
-
-| 5.4.5. | 100 m3 össztérfogat felett | 32 500 Ft |
-
-| 5.5. | Csővezeték nyomás- vagy tömörségi próbájának díja a hozzá tartozó kazán, fűtött nyomástartó berendezés teljesítménye alapján |
-
-| 5.5.1. | 0,7 MW (1 t/h) teljesítményig | 8 000 Ft |
-
-| 5.5.2. | 0,7 MW (1 t/h) teljesítmény felett 8,4 MW (12 t/h) teljesítményig | 14 000 Ft |
-
-| 5.5.3. | 8,4 MW (12 t/h) teljesítmény felett 21 MW (30 t/h) teljesítményig | 18 500 Ft |
-
-| 5.5.4. | 21 MW (30 t/h) teljesítmény felett 42 MW (60 t/h) teljesítményig | 22 000 Ft |
-
-| 5.5.5. | 42 MW (60 t/h) teljesítmény felett | 28 500 Ft |
-
-| 5.6. | Csővezeték nyomás- vagy tömörségi próbájának díja a hozzá tartozó nem fűtött nyomástartó berendezés térfogata alapján |
-
-| 5.6.1 | 1 m3 össztérfogatig | 8 000 Ft |
-
-| 5.6.2. | 1 m3 össztérfogat felett 5 m3 össztérfogatig | 12 000 Ft |
-
-| 5.6.3. | 5 m3 össztérfogat felett 50 m3 össztérfogatig | 12 500 Ft |
-
-| 5.6.4. | 50 m3 össztérfogat felett 100 m3 össztérfogatig | 22 500 Ft |
-
-| 5.6.5. | 100 m3 össztérfogat felett | 27 500 Ft |
+| 5. |
 
 D) Egyéb, a nyomástartó berendezésekkel kapcsolatos eljárási díjak
 
@@ -354,59 +244,9 @@ D) Egyéb, a nyomástartó berendezésekkel kapcsolatos eljárási díjak
 
 | 3. Az üzembentartó által kért rendkívüli ellenőrzés díja berendezésenként, amennyiben az ellenőrzés tartalma az előzőekben ismertetett díjtételekhez tartozó eljárásokkal nem fedhető le | naponta 88 000 Ft, vagy óránként 11 000 Ft |
 
-| 4. Nyomástartó létesítmény végleges használaton kívül helyezésének ellenőrzése és dokumentálása veszélyes töltet esetén |
+| 4. |
 
-| 4.1. | Fűtött nyomástartó berendezés esetén |  |
-
-| 4.1.1. | 0,7 MW (1 t/h) teljesítményig | 36 000 Ft |
-
-| 4.1.2. | 0,7 MW (1 t/h) teljesítmény felett 8,4 MW (12 t/h) teljesítményig | 38 500 Ft |
-
-| 4.1.3. | 8,4 MW (12 t/h) teljesítmény felett 21 MW (30 t/h) teljesítményig | 47 500 Ft |
-
-| 4.1.4. | 21 MW (30 t/h) teljesítmény felett 42 MW (60 t/h) teljesítményig | 60 000 Ft |
-
-| 4.1.5. | 42 MW (60 t/h) teljesítmény felett | 89 000 Ft |
-
-| 4.2. | Nem fűtött nyomástartó berendezés esetén |  |
-
-| 4.2.1. | 1 m3 össztérfogatig | 12 000 Ft |
-
-| 4.2.2. | 1 m3 össztérfogat felett 5 m3 össztérfogatig | 17 000 Ft |
-
-| 4.2.3. | 5 m3 össztérfogat felett 50 m3 össztérfogatig | 30 000 Ft |
-
-| 4.2.4. | 50 m3 össztérfogat felett | 42 500 Ft |
-
-| 4.3. | Szállítható nyomástartó berendezések töltőlétesítményei esetén |  |
-
-| 4.3.1. | Hordozható tűzoltó készülékek CO2 palackjának töltése palackból átfejtéssel, vagy kizárólag búvárpalack töltése légtérből kompresszorral | 48 000 Ft |
-
-| 4.3.2. | Acetilén töltőlétesítmény | 95 500 Ft |
-
-| 4.3.3. | Gáztöltő vagy -forgalmazó gazdálkodó szervezet töltőlétesítménye töltő berendezésenként | 48 000 Ft |
-
-| 4.4. | Szállítható nyomástartó berendezésből telepített nyomástartó berendezésbe gázt lefejtő létesítmény esetén | 48 000 Ft |
-
-| 5.1. | Nem fűtött nyomástartó berendezés esetén |  |
-
-| 5.1.1. | 1 m3 össztérfogatig | 11 000 Ft |
-
-| 5.1.2. | 1 m3 össztérfogat felett 5 m3 össztérfogatig | 12 500 Ft |
-
-| 5.1.3. | 5 m3 össztérfogat felett 50 m3 össztérfogatig | 19 000 Ft |
-
-| 5.1.4. | 50 m3 össztérfogat felett | 27 000 Ft |
-
-| 5.2. | Szállítható nyomástartó berendezések töltőlétesítményei esetén |  |
-
-| 5.2.1. | Hordozható tűzoltó készülékek CO2 palackjának töltése palackból átfejtéssel, vagy kizárólag búvárpalack töltése légtérből kompresszorral | 46 500 Ft |
-
-| 5.2.2. | Acetilén töltőlétesítmény | 45 000 Ft |
-
-| 5.2.3. | Gáztöltő vagy -forgalmazó gazdálkodó szervezet töltőlétesítménye töltő berendezésenként | 30 000 Ft |
-
-| 5.3. | Szállítható nyomástartó berendezésből telepített nyomástartó berendezésbe gázt lefejtő létesítmény esetén | 25 500 Ft |
+| 5. |
 
 2. Az ADR/RID hatálya alá tartozó berendezésekkel kapcsolatos díjak
 
@@ -480,7 +320,7 @@ D) Egyéb, a nyomástartó berendezésekkel kapcsolatos eljárási díjak
 
 | 4.2. Összetett (konténeres) csomagolóeszközök vizsgálataival kapcsolatos eljárások | 58 000 Ft |
 
-| 5. Robbanó anyagot szállító járműfelépítmény jóváhagyási eljárása | 44 000 Ft |
+| 5. |  |
 
 | 6. Gázhordó (tartály 150-1000 literig) |  |
 
@@ -526,15 +366,7 @@ D) Egyéb, a nyomástartó berendezésekkel kapcsolatos eljárási díjak
 
 | 4.5. | 3001 m3/ó teljesítménytől | 241 000 Ft |
 
-| 5. | Gáz energiahordozót fogyasztó ipari vagy mezőgazdasági készülékek ellenőrzésének díja |
-
-| 5.1. | 140 kW hőteljesítmény alatti berendezéseknél | 20 500 Ft |
-
-| 5.2. | 140 kW hőteljesítménytől 350 kW hőteljesítményig | 39 000 Ft |
-
-| 5.3. | 351 kW hőteljesítménytől 1000 kW hőteljesítményig | 49 000 Ft |
-
-| 5.4. | 1001 kW hőteljesítménytől | 74 000 Ft |
+| 5. |  |
 
 | 6. | Elosztói engedélyesek (földgázelosztók, gázszolgáltatók) műszaki biztonsági tevékenységének hatósági vizsgálata |
 
@@ -544,17 +376,7 @@ D) Egyéb, a nyomástartó berendezésekkel kapcsolatos eljárási díjak
 
 4. Veszélyes (éghető, gyújtóhatású, maró- és mérgező) folyadékok és olvadékok tárolótartályaival kapcsolatos eljárási díjak
 
-A) Biztonságtechnikai jóváhagyással kapcsolatos eljárások
-
-| 1. | Tartály alkalmasságát megállapító biztonságtechnikai jóváhagyás |
-
-| 1.1. | 5 m3 össztérfogatig | 32 000 Ft |
-
-| 1.2. | 5 m3 felett 50 m3 össztérfogatig | 72 000 Ft |
-
-| 1.3. | 50 m3 felett 500 m3 össztérfogatig | 134 500 Ft |
-
-| 1.4. | 500 m3 össztérfogat felett | 193 500 Ft |
+A)
 
 B) Létesítési, használatbavételi eljárások
 
@@ -570,7 +392,7 @@ B) Létesítési, használatbavételi eljárások
 
 | 1.5. | 5000 m3 össztérfogat felett | 205 000 Ft |
 
-| 2. Egy darab tartály átalakításának, javításának és javítás utáni üzembevételének engedélyezése |
+| 2. Egy darab tartály javítás utáni üzembevételének jóváhagyása |
 
 | 2.1. | 50 m3 össztérfogatig | 65 000 Ft |
 
@@ -584,7 +406,7 @@ B) Létesítési, használatbavételi eljárások
 
 | 2.6. | A javítás és a javítás utáni üzembevétel engedélyezésének díja a fenti díjak | 50%-a |
 
-| 3. Egy darab tartály használatbavételének engedélyezése |
+| 3. Egy darab tartály üzembe helyezésének engedélyezése |
 
 | 3.1. | 50 m3 össztérfogatig | 45 500 Ft |
 
@@ -602,21 +424,21 @@ B) Létesítési, használatbavételi eljárások
 
 | 4.2. | 500 m3 össztérfogat felett | 164 000 Ft |
 
-| 5. Legfeljebb 5 db tartályból álló tároló létesítmény átalakításának, javításának és javítás utáni üzembevételének engedélyezése |
+| 5. Legfeljebb 5 db tartályból álló tároló létesítmény javítás utáni üzembevételének jóváhagyása |
 
 | 5.1. | 500 m3 össztérfogatig | 110 000 Ft |
 
 | 5.2. | 500 m3 össztérfogat felett | 131 000 Ft |
 
-| 5.3. | A javítás és a javítás utáni üzembevétel engedélyezésének díja a fenti díjak | 50%-a |
+| 5.3. | A javítás utáni üzembevétel jóváhagyásának díja a fenti díjak | 50%-a |
 
 | 6. Több mint 5 tartályból álló tároló létesítmény létesítésének engedélyezése | 164 500 Ft |
 
-| 7. Több mint 5 tartályból álló tároló létesítmény átalakításának, javításának és javítás utáni üzembevételének engedélyezése | 164 500 Ft |
+| 7. Több mint 5 tartályból álló tároló létesítmény javítás utáni üzembevételének jóváhagyása | 164 500 Ft |
 
-| A javítás és a javítás utáni üzembevétel engedélyezésének díja a fenti díj | 50%-a |
+| A javítás utáni üzembevétel jóváhagyásának díja a fenti díj | 50%-a |
 
-| 8. Tároló létesítmény használatbavételének engedélyezése, tartályonként | 90 500 Ft |
+| 8. Tároló létesítmény üzembe helyezésének engedélyezése, tartályonként | 90 500 Ft |
 
 | 9. A helyhez kötött tárolótartályok, a szállító tartálykocsik pisztolygáz visszavezető rendszereinél |  |
 
@@ -626,7 +448,7 @@ B) Létesítési, használatbavételi eljárások
 
 | 9.3. | Véggáz kezelővel ellátott rendszerek, berendezésenként kibocsátási határértékének megfelelőség megállapítása | 82 500 Ft |
 
-| 10. A használatbavételi engedéllyel rendelkező tartályokhoz tartozó csővezetékek, szerelvények, kútoszlopok létesítésének, átalakításának, bővítésének, valamint javításának és javítás utáni üzembevételének engedélyezési eljárási díja |
+| 10. Az üzembe helyezési vagy használatbavételi engedéllyel rendelkező tartályokhoz tartozó csővezetékek, szerelvények, kútoszlopok létesítése engedélyezésének díja |
 
 | 10.1. | Egy darab tartályhoz kapcsolódóan |  |
 
@@ -648,7 +470,7 @@ B) Létesítési, használatbavételi eljárások
 
 | 10.3. | Több mint 5 tartályból álló tároló létesítményhez kapcsolódóan | 84 500 Ft |
 
-| A javítás és a javítás utáni üzembevétel engedélyezésének díja a fenti díj | 50%-a |
+| A javítás utáni üzembevétel engedélyezésének díja a fenti díj | 50%-a |
 
 5. Gázüzemű járművek üzemanyag-ellátó berendezéseivel kapcsolatos eljárási díjak
 
@@ -664,21 +486,7 @@ B) Létesítési, használatbavételi eljárások
 
 | 2.4. | 30 db felett darabonként | +2 000 Ft |
 
-| 3. Autógáz töltőállomás építésével összefüggő műszaki-biztonsági engedélyezési eljárás |
-
-| 3.1. | 5 m3 össztérfogatig | 70 500 Ft |
-
-| 3.2. | 5 m3 össztérfogat felett | 114 000 Ft |
-
-| 4. Autógáz töltőállomás átalakításának engedélyezési eljárása | 63 500 Ft |
-
-| 5. Autógáz töltőállomás használatbavételének engedélyezési eljárása (A felállítás helyén végzendő műszaki-biztonsági vizsgálat - szerkezeti vizsgálat, víznyomáspróba, tömörségi próba, biztonsági szelep hitelesítés - díja az 1.fejezet C) 2. és az 1. fejezet B) 4. pont szerint számítandó.) |
-
-| 5.1. | 5 m3 össztérfogatig | 58 000 Ft |
-
-| 5.2. | 5 m3 össztérfogat felett | 62 500 Ft |
-
-| 5.3. | Kapcsolódó gázrendszer ellenőrzése | 15 500 Ft |
+| 3-5. |
 
 | 6. Gázüzemű berendezést szerelő szakműhely gázbiztonsági megfelelőségét igazoló szakvélemény kiadása helyszíni bejárás alapján | 90 500 Ft |
 
@@ -854,7 +662,7 @@ D) Erőművek építési engedélyezése
 
 E) Egyéb eljárások
 
-| 1. | Üzemeltetési engedélyezés | az építési alapdíj 50%-a |
+| 1. |  |  |
 
 | 2. | Használatbavételi engedélyezés | az építési alapdíj 100%-a |
 
@@ -878,9 +686,9 @@ E) Egyéb eljárások
 
 | 12. | Elvi építési engedélyezés | az építési alapdíj 50%-a |
 
-| 13. | Vezetékjog fennállásának megállapítása bejegyeztetéssel együtt | az építési alapdíj 50%-a a gerincvezetékkel együtt számított összhosszra vonatkoztatva |
+| 13. |  |  |
 
-| 14. | Egyszerűsített üzemeltetési engedélyezés vezetékjog bejegyeztetéssel együtt | az építési alapdíj 50%-a |
+| 14. |  |  |
 
 | 15. | Új vezetékjog bejegyeztetése | 35 000 Ft |
 
@@ -981,3 +789,5 @@ Egyéb építményfajták építésének engedélyezése (a műszaki-biztonsági
 3.2. a nyilvántartás éves díja 5 000 Ft,
 
 4. a felvonó- és mozgólépcső ellenőri továbbképzés felkészítő tanfolyam és képzési program jóváhagyásának díja 11 000 Ft.
+
+[^8]: Az 1. melléklet a 14/2018. (IX. 4.) ITM rendelet 14. §-a szerint módosított szöveg.
