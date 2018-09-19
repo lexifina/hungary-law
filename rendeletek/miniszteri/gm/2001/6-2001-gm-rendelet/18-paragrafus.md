@@ -1,12 +1,12 @@
-## 17. §[^24]
+## 17. §[^23]
 
 ## Záró rendelkezések
 
-18. § (1)[^25] Ez a rendelet a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+18. § (1)[^24] Ez a rendelet a Magyar Köztársaság Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
 
-(2)[^26] E rendelet a mérőműszerekre és a metrológiai ellenőrzés módszereire vonatkozó közös rendelkezésekről szóló, 2009. április 23-i 2009/34/EK parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+(2)[^25] E rendelet a mérőműszerekre és a metrológiai ellenőrzés módszereire vonatkozó közös rendelkezésekről szóló, 2009. április 23-i 2009/34/EK parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-Melléklet a 6/2001. (III. 19.) GM rendelethez[^27]
+Melléklet a 6/2001. (III. 19.) GM rendelethez[^26]
 
 Típusjóváhagyási jelölések
 
@@ -34,7 +34,7 @@ A rajzokon megadott méretek relatív számértékek; a kis „e” betűt és a
 
 A befoglaló körök átmérője 1,6 mm, 3,2 mm, 6,3 mm vagy 12,5 mm.
 
-[^24]: A 17. §-t és az azt megelőző alcímet az 51/2017. (XII. 29.) NGM rendelet 16. § f) pontja hatályon kívül helyezte.
-[^25]: A 18. § (1) bekezdése a 33/2002. (XII. 17.) GKM rendelet 1. §-ával megállapított szöveg.
-[^26]: A 18. § (2) bekezdése a 10/2010. (III. 2.) NFGM rendelet 8. §-ával megállapított szöveg.
-[^27]: A melléklet a 22/2005. (IV. 15.) GKM rendelet 7. §-ával megállapított szöveg, e módosító rendelet 8. §-ának (1) bekezdése alapján a rendelkezést a 2005. április 23. napja után indult mérésügyi hatósági eljárásokra kell alkalmazni.
+[^23]: A 17. §-t és az azt megelőző alcímet az 51/2017. (XII. 29.) NGM rendelet 16. § f) pontja hatályon kívül helyezte.
+[^24]: A 18. § (1) bekezdése a 33/2002. (XII. 17.) GKM rendelet 1. §-ával megállapított szöveg.
+[^25]: A 18. § (2) bekezdése a 10/2010. (III. 2.) NFGM rendelet 8. §-ával megállapított szöveg.
+[^26]: A melléklet a 22/2005. (IV. 15.) GKM rendelet 7. §-ával megállapított szöveg, e módosító rendelet 8. §-ának (1) bekezdése alapján a rendelkezést a 2005. április 23. napja után indult mérésügyi hatósági eljárásokra kell alkalmazni.
