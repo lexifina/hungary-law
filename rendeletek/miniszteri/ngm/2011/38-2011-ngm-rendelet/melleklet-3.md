@@ -254,47 +254,47 @@
 
 ## 12. Az ilyen szagláson alapuló társasjátékok, kozmetikai készletek és ízlelésen alapuló játékok 36 hónapnál fiatalabb gyermekek általi használata nem engedélyezhető, és e játékoknak meg kell felelniük az 5. melléklet B. részében foglalt rendelkezéseknek.
 
-## 13. A 3., 4. és 5. pontban foglalt egyéb rendelkezések sérelme nélkül az anyagok játékokból, valamint a játékok részeiből történő kioldódáskor nem haladhatják meg az alábbi kioldódási értékeket:
+## 13. A 3–5. pontban foglalt egyéb rendelkezések sérelme nélkül az anyagok játékokból, valamint a játékok részeiből történő kioldódáskor nem haladhatják meg az alábbi kioldódási értékeket:
 
-|  | Elem | mg/kg száraz, törékeny, porszerű vagy hajlékony játékanyagokban | mg/kg folyékony vagy ragadós játékanyagokban | mg/kg lekapart játékanyagokban |
+| Elem | mg/kg száraz, törékeny, porszerű vagy hajlékony játékanyagokban | mg/kg folyékony vagy ragadós játékanyagokban | mg/kg lekapart játékanyagokban |
 
-|  | Alumínium | 5 625 | 1406 | 70 000 |
+| Alumínium | 5 625 | 1 406 | 70 000 |
 
-|  | Antimon | 45 | 11,3 | 560 |
+| Antimon | 45 | 11,3 | 560 |
 
-|  | Arzén | 3,8 | 0,9 | 47 |
+| Arzén | 3,8 | 0,9 | 47 |
 
-|  | Bárium | 1 500 | 375 | 18 750 |
+| Bárium | 1 500 | 375 | 18 750 |
 
-|  | Bór | 1 200 | 300 | 15 000 |
+| Bór | 1 200 | 300 | 15 000 |
 
-|  | Kadmium | 1,3 | 0,3 | 17 |
+| Kadmium | 1,3 | 0,3 | 17 |
 
-|  | Króm (III) | 37,5 | 9,4 | 460 |
+| Króm (III) | 37,5 | 9,4 | 460 |
 
-|  | Króm (VI) | 0,02 | 0,005 | 0,2 |
+| Króm (VI) | 0,02 | 0,005 | 0,2 |
 
-|  | Kobalt | 10,5 | 2,6 | 130 |
+| Kobalt | 10,5 | 2,6 | 130 |
 
-|  | Réz | 622,5 | 156 | 7 700 |
+| Réz | 622,5 | 156 | 7 700 |
 
-|  | Ólom | 13,5 | 3,4 | 160 |
+| Ólom | 2,0 | 0,5 | 23 |
 
-|  | Mangán | 1 200 | 300 | 15 000 |
+| Mangán | 1 200 | 300 | 15 000 |
 
-|  | Higany | 7,5 | 1,9 | 94 |
+| Higany | 7,5 | 1,9 | 94 |
 
-|  | Nikkel | 75 | 18,8 | 930 |
+| Nikkel | 75 | 18,8 | 930 |
 
-|  | Szelén | 37,5 | 9,4 | 460 |
+| Szelén | 37,5 | 9,4 | 460 |
 
-|  | Stroncium | 4 500 | 1125 | 56 000 |
+| Stroncium | 4 500 | 1 125 | 56 000 |
 
-|  | Ón | 15 000 | 3750 | 180 000 |
+| Ón | 15 000 | 3 750 | 180 000 |
 
-|  | Szerves ón | 0,9 | 0,2 | 12 |
+| Szerves ón | 0,9 | 0,2 | 12 |
 
-|  | Cink | 3 750 | 938 | 46 000 |
+| Cink | 3 750 | 938 | 46 000 |
 
 ## 14. Ezek a határértékek nem vonatkoznak azokra a játékokra vagy játékok részeire, amelyek hozzáférhetőségük, funkciójuk, térfogatuk vagy tömegük miatt egyértelműen kizárnak minden olyan veszélyt, amely a játék szopogatásából, nyalogatásából, lenyeléséből vagy a bőrrel való hosszabb érintkezéséből eredhet, hogy, ha a 9. §-ban meghatározottak szerint használják.
 
@@ -432,7 +432,7 @@
 
 | 5. | 2-metil-izotiazolin-3(2H)-on | 2682-20-4 | 0,25 mg/kg (tartalomra vonatkozó határérték) vízalapú játékanyagokban |
 
-| 6. | Biszfenol-A | 80-05-7 0,1 mg/l (kioldódási határérték) | az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszereknek megfelelően vagy azokkal egyenértékű műszaki megoldások szerint |
+| 6. | Biszfenol-A | 80-05-7 | 0,1 mg/l (kioldódási határérték) az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszereknek megfelelően vagy azokkal egyenértékű műszaki megoldások szerint |
 
 | 7. | Formamid | 75-12-7 | 20 μg/m3 (kibocsátási határérték) a habosított műanyagból készült játékok több mint 200 mg/kg formamidot (tartalmon alapuló küszöbérték) tartalmazó alapanyaga tekintetében végzett kibocsátásvizsgálat kezdete után legfeljebb 28 nappal |
 
