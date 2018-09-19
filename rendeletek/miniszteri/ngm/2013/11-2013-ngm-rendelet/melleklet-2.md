@@ -26,7 +26,7 @@
 
 ## * Megjegyzés: Amennyiben a Műszaki Biztonsági Szabályzattól eltértek, a nyilatkozatnak ki kell térnie az eltérés lényeges elemeire, valamint mellékelni kell a dokumentumot, amely alapján az eltérés történt.
 
-2. melléklet a 11/2013. (III. 21.) NGM rendelethez[^21]
+2. melléklet a 11/2013. (III. 21.) NGM rendelethez[^23]
 
 Műszaki Biztonsági Szabályzat
 
@@ -1334,14 +1334,4 @@ A csővezetékek katódos védelme esetén gondoskodni kell a nyomásszabályoz�
 
 3.2.6.2.12. Egyesített gáznyomás szabályozó- és mérő állomások
 
-Az egyesített nyomásszabályozó és mérőállomásokra az MSZ EN 1776 [Gázellátó rendszerek. Földgázmérő állomások. Működési követelmények.] szabvány vagy azzal egyenértékű műszaki megoldás szerinti kiegészítő követelményeket kell alkalmazni.
-
-A tervező a gázmérő csatlakozását, teljesítményét és típusát, valamint a nyomásszabályozó típusát és annak üzemvitel szempontjából szükséges szerelvényezését, illetve védelmét a csatlakozóvezeték üzembe helyezési munkáinak feltételeit a földgázelosztóval vagy a pébégáz forgalmazóval előzetesen egyeztetni köteles.
-
-3.2.6.2.13. Ipari nyomásszabályozó állomások robbanásveszélyes zónáinak meghatározása
-
-A tervezőnek a nyomásszabályozó állomások tervezésekor az MSZ EN 60079-10-1 [Robbanóképes közegek. 10-1: rész: Térségbesorolás. Robbanóképes gázközegek (IEC 60079-10-1)] szabvány vagy azzal egyenértékű műszaki előírás alapján olyan műszaki megoldást kell alkalmazni, hogy normál üzemben robbanóképes légtér ne alakulhasson ki. E szabvány nem vonatkozik azokra az esetekre, amikor a robbanásveszélyt üzemzavar (például csővezeték törése) okozza.
-
-A nyomásszabályozó állomás normál üzemi körülmények között zárt rendszert képez. Környezetét nem veszélyezteti.
-
-[^21]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 11. § (11) bekezdésével megállapított szöveg.
+[^23]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 11. § (11) bekezdésével megállapított szöveg.

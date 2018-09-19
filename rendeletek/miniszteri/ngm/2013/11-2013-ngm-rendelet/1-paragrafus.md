@@ -14,8 +14,8 @@ d) a vegyipari technológiában az éghető gázt kizárólag alapanyagként fel
 
 e) a gázfogyasztó készülékeknek az egyes gázfogyasztó készülékek kialakításáról és megfelelőségének tanúsításáról szóló 22/1998. (IV. 17.) IKIM rendeletben meghatározott tervezésére, gyártására és megfelelőségértékelésére, továbbá piacfelügyeletére;
 
-f)[^1] a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló rendelet hatálya alá tartozó nyomástartó berendezésekre és rendszerekre;
+f)[^2] a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló rendelet hatálya alá tartozó nyomástartó berendezésekre és rendszerekre;
 
 g) a bányafelügyelet hatósági hatáskörébe tartozó gázfogyasztó készülékekre, technológiákra.
 
-[^1]: Az 1. § (2) bekezdés f) pontja a 44/2016. (XI. 28.) NGM rendelet 51. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés f) pontja a 44/2016. (XI. 28.) NGM rendelet 51. §-ával megállapított szöveg.

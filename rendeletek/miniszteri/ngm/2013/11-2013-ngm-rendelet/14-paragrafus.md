@@ -6,9 +6,9 @@
 
 (2) A Műszaki Biztonsági Szabályzat módosításának előzetes szakmai egyeztetését a Gázipari Műszaki Szakbizottság (a továbbiakban: Szakbizottság) végzi. A Szakbizottság a Műszaki Biztonsági Szabályzatot szükség szerinti gyakorisággal, de legalább évente felülvizsgálja, és véleményezi a Szakbizottsághoz beérkezett módosítási javaslatokat. A Műszaki Biztonsági Szabályzat felülvizsgálatára vagy módosítására vonatkozó javaslatát a Szakbizottság az iparügyekért felelős miniszter részére megküldi.
 
-(3)[^18] A Szakbizottság összetételét a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala javaslatára az iparügyekért felelős miniszter határozza meg. A szakbizottsági tagokat az iparügyekért felelős miniszter a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala javaslatára öt év időtartamra bízza meg.
+(3)[^20] A Szakbizottság összetételét a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala javaslatára az iparügyekért felelős miniszter határozza meg. A szakbizottsági tagokat az iparügyekért felelős miniszter a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala javaslatára öt év időtartamra bízza meg.
 
-(4)[^19] A Szakbizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Szakbizottság elnökét.
+(4)[^21] A Szakbizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Szakbizottság elnökét.
 
-[^18]: A 14. § (3) bekezdése a 62/2016. (XII. 29.) NGM rendelet 27. § (4) bekezdése szerint módosított szöveg.
-[^19]: A 14. § (4) bekezdése a 62/2016. (XII. 29.) NGM rendelet 27. § (3) bekezdésével megállapított szöveg.
+[^20]: A 14. § (3) bekezdése a 62/2016. (XII. 29.) NGM rendelet 27. § (4) bekezdése szerint módosított szöveg.
+[^21]: A 14. § (4) bekezdése a 62/2016. (XII. 29.) NGM rendelet 27. § (3) bekezdésével megállapított szöveg.
