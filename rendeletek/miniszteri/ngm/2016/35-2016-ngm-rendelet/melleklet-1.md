@@ -1,4 +1,4 @@
-## 38. §[^3]
+## 38. §[^6]
 
 1. melléklet a 35/2016. (IX. 27.) NGM rendelethez
 
@@ -18,4 +18,4 @@ b) A 2. kategóriába azok a berendezések tartoznak, amelyeket úgy terveztek, 
 
 c) A 3. kategóriába azok a berendezések tartoznak, amelyeket úgy terveztek, hogy a gyártó által megállapított működési paraméterek mellett normál védelmi szintet biztosítsanak. Az ebbe a kategóriába tartozó berendezéseket olyan terekben való alkalmazásra szánták, ahol kevésbé valószínű, hogy levegő és gázok, gőzök, ködpárák, valamint levegő-por keverékek robbanásveszélyes környezetet okoznak, vagy ha igen, ez csak ritkán és rövid ideig tart. Az e kategóriába tartozó berendezések nyújtanak megfelelő biztonsági szintet normál üzemelés mellett. Az ebbe a kategóriába tartozó berendezéseknek meg kell felelniük a 2. melléklet 2.3. pontjában hivatkozott kiegészítő követelményeknek.
 
-[^3]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -10,9 +10,11 @@ b) az I. és a II. alkalmazási csoport M2. és 2. kategóriájába tartozó bel
 
 c) a II. alkalmazási csoport 3. kategóriájába tartozó berendezések esetén belső gyártásellenőrzés eljárás (8. melléklet, A modul);
 
-d) az I. és II. alkalmazási csoportba tartozó berendezések esetén az a)–c) pontokban meghatározott megfelelőségértékelési eljárások mellett az egyedi termékellenőrzésen alapuló megfelelőségi eljárás (9. melléklet, G modul).
+d)[^1]
 
-(2) A védelmi rendszerek megfelelőségének értékelésére az (1) bekezdés a) vagy d) pontja szerinti eljárások alkalmazandók.
+(1a)[^2] Az I. és II. alkalmazási csoportba tartozó berendezések esetén az (1) bekezdés a)–c) pontjaiban meghatározott megfelelőségértékelési eljárások mellett az egyedi termékellenőrzésen alapuló megfelelőségi eljárás is alkalmazható (9. melléklet, G modul).
+
+(2)[^3] A védelmi rendszerek megfelelőségének értékelésére az (1) bekezdés a) pontja vagy az (1a) bekezdés szerinti eljárások alkalmazandók.
 
 (3) Az alkatrészek esetében az (1) bekezdésben hivatkozott eljárásokat kell alkalmazni a CE megfelelőségi jelölés feltüntetésére és az EU-megfelelőségi nyilatkozat elkészítésére vonatkozó rendelkezések kivételével. A gyártó köteles írásbeli megfelelőségi nyilatkozatot kiállítani az alkatrész jelen rendelet vonatkozó követelményeinek való megfelelőségéről, megadja azok jellemzőit, és a berendezésekbe vagy védelmi rendszerekbe való beépítés feltételeit úgy, hogy az összeépített berendezések és védelmi rendszerek a 2. mellékletben támasztott alapvető egészségvédelmi és biztonsági követelményeknek megfeleljenek.
 
@@ -21,3 +23,7 @@ d) az I. és II. alkalmazási csoportba tartozó berendezések esetén az a)–c
 (5) Az (1), (2) és (4) bekezdéstől eltérően a piacfelügyeleti hatóság kérésére engedélyezhetik olyan, nem alkatrésznek minősülő termékek forgalomba hozatalát és üzembe helyezését Magyarország területén, amelyek esetében az (1), (2) és (4) bekezdésben említett eljárásokat nem alkalmazták, és amelyeknek a használata védelmi szempontból történik.
 
 (6) Az (1)–(4) bekezdés szerinti megfelelőségértékelési eljárásokkal kapcsolatos iratokat az Európai Unió hivatalos nyelveinek egyikén vagy magyar nyelven kell elkészíteni.
+
+[^1]: A 13. § (1) bekezdés d) pontját a 14/2018. (IX. 4.) ITM rendelet 13. §-a hatályon kívül helyezte.
+[^2]: A 13. § (1a) bekezdését a 14/2018. (IX. 4.) ITM rendelet 12. § (1) bekezdése iktatta be.
+[^3]: A 13. § (2) bekezdése a 14/2018. (IX. 4.) ITM rendelet 12. § (2) bekezdése szerint módosított szöveg.
