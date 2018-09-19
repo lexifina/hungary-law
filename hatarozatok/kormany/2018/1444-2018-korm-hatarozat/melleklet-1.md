@@ -32,48 +32,26 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat (a továbbiakban: 1247/2016. Korm. határozat) 1. pont f) alpont fa) alpontja helyébe a következő rendelkezés lép:
+## 3.[^1]
 
-## (a Kormány
+## 4.[^2]
 
-## egyetért azzal, hogy)
+## 5.[^3]
 
-## „fa) az Integrált Közlekedésfejlesztési Operatív Program
+## 6.[^4]
 
-## faa) 2. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 119,29%-áig,
+## 7.[^5]
 
-## fab) 3.1. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 111,93%-áig,
+## 8.[^6]
 
-## fac) 3.2. beruházási prioritásának e programban rögzített pénzügyi kerete terhére legfeljebb annak 144,65%-áig
-
-## legyen kötelezettség vállalható, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyásával legyen vállalható,”
-
-## 4. Az 1575/2016. Korm. határozat 1. melléklete helyébe a 2. melléklet lép.
-
-## 5. Az 1575/2016. Korm. határozat 2. melléklete helyébe a 3. melléklet lép.
-
-## 6. Az 1575/2016. Korm. határozat 3. melléklete helyébe a 4. melléklet lép.
-
-## 7. Az 1247/2016. Korm. határozat 1. melléklet
-
-## a) 2. pontjában foglalt táblázat C:2 mezőjében az „519,293” szövegrész helyébe az „547,895” szöveg,
-
-## b) 3. pontjában foglalt táblázat C:2 mezőjében a „232,259” szövegrész helyébe a „236,235” szöveg,
-
-## c) 3. pontjában foglalt táblázat C:3 mezőjében a „169,816” szövegrész helyébe a „172,890” szöveg
-
-## lép.
-
-## 8. Az 1247/2016. Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:65c mezőjében a „18,62” szövegrész helyébe a „28,61” szöveg,
-
-## b) D:75a mezőjében a „2,60” szövegrész helyébe a „3,98” szöveg,
-
-## c) D:102a mezőjében az „1,98” szövegrész helyébe a „3,08” szöveg
-
-## lép.
-
-## 9. Az Európai Hálózatfinanszírozási Eszköz társfinanszírozásával megvalósítandó fejlesztésekhez szükséges éven túli kötelezettségvállaláshoz történő hozzájárulásról szóló 1179/2018. (III. 28.) Korm. határozat b) pontjában a „97 201 031 614 forint” szövegrész helyébe a „109 946 304 781 forint” szöveg lép.
+## 9.[^7]
 
 1. melléklet az 1444/2018. (IX. 17.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

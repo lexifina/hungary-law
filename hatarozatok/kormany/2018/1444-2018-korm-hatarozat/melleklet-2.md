@@ -10,4 +10,6 @@
 
 | 3. | IKOP-3.2.0-15 | GSM-R távközlési hálózat kiépítése II. ütem megvalósítás | NIF Nemzeti Infrastruktúra Fejlesztő Zrt. | A CEF-ből finanszírozni tervezett projektelemeket kiegészítő, az Integrált Közlekedésfejlesztési Operatív Program 3.2. beruházási prioritást érintő, 111 km szakaszon rádiós kommunikációs és forgalomirányítási rendszer kiépítése | 100% | 3 904 625 183 | 3 074 508 018 | 830 117 165 |
 
-2. melléklet az 1444/2018. (IX. 17.) Korm. határozathoz
+2. melléklet az 1444/2018. (IX. 17.) Korm. határozathoz[^8]
+
+[^8]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
