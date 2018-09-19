@@ -1,4 +1,4 @@
-27. § (1)[^16] A bejelentett szervezetek tájékoztatják a Kormányhivatalt a következőkről:
+27. § (1)[^16] A bejelentett szervezetek tájékoztatják a minisztert a következőkről:
 
 a) a tanúsítványok elutasítása, korlátozása, felfüggesztése vagy visszavonása;
 
@@ -10,4 +10,4 @@ d) kérésre a bejelentésük hatálya alá tartozó megfelelőségértékelési
 
 (2) A bejelentett szervezetek megfelelően tájékoztatják az e rendelet szerint bejelentett, és ugyanazokkal a nem automatikus működésű mérlegekkel foglakozó más szervezeteket a negatív és – kérésre – a pozitív megfelelőségértékelési eredményekről.
 
-[^16]: A 27. § (1) bekezdés nyitó szövegrésze a 62/2016. (XII. 29.) NGM rendelet 34. § c) pontja szerint módosított szöveg.
+[^16]: A 27. § (1) bekezdés nyitó szövegrésze a 14/2018. (IX. 4.) ITM rendelet 10. § c) pontja szerint módosított szöveg.
