@@ -1,1 +1,0 @@
-## 5. § A szállítható nyomástartó berendezések biztonsági követelményeiről és megfelelőség-tanúsításáról szóló 29/2011. (VIII. 3.) NGM rendelet 17. § (2) bekezdés a) pontjában a „Nemzeti Akkreditáló Testület” szövegrész helyébe a „Nemzeti Akkreditáló Hatóság” szöveg lép.

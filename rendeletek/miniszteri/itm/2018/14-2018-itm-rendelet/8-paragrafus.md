@@ -1,14 +1,15 @@
-8. § (1)[^5]
+8. § (1)[^10]
 
-(2) A gyermekjátékok biztonságáról szóló 38/2011. (X. 5.) NGM rendelet 2. melléklete a 2. melléklet szerint módosul.
+(2)[^11]
 
-(3)[^6]
+(3)[^12]
 
-(4)[^7]
+(4)[^13]
 
-(5)[^8]
+(5)[^14]
 
-[^5]: A 8. § (1) bekezdése a 15. § (2) bekezdése alapján 2018. október 28-án lép hatályba.
-[^6]: A 8. § (3) bekezdése a 15. § (3) bekezdése alapján 2018. november 4-én lép hatályba.
-[^7]: A 8. § (4) bekezdése a 15. § (4) bekezdése alapján 2018. november 26-án lép hatályba.
-[^8]: A 8. § (5) bekezdése a 15. § (5) bekezdése alapján 2019. november 18-án lép hatályba.
+[^10]: A 8. § (1) bekezdése a 15. § (2) bekezdése alapján 2018. október 28-án lép hatályba.
+[^11]: A 8. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 8. § (3) bekezdése a 15. § (3) bekezdése alapján 2018. november 4-én lép hatályba.
+[^13]: A 8. § (4) bekezdése a 15. § (4) bekezdése alapján 2018. november 26-án lép hatályba.
+[^14]: A 8. § (5) bekezdése a 15. § (5) bekezdése alapján 2019. november 18-án lép hatályba.
