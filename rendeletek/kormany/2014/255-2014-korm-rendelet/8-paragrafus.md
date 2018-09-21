@@ -2,7 +2,7 @@
 
 ## 6. Versenyképes Közép-Magyarország Operatív Program
 
-## 8. §[^90] A Versenyképes Közép-Magyarország Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
+## 8. §[^94] A Versenyképes Közép-Magyarország Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
 
 1. a versenyképes vállalkozói tudás elterjesztése,
 
@@ -58,4 +58,4 @@
 
 27. a kompetencia alapú képzések elterjedtségének növelése.
 
-[^90]: A 8. § a 271/2015. (IX. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^94]: A 8. § a 271/2015. (IX. 18.) Korm. rendelet 4. §-ával megállapított szöveg.

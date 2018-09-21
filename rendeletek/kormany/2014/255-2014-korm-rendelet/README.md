@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-255-20-
 | 2017-01-01 | 2014-255-20-22.8 | 328/2016. (X. 28.) Korm. rendelet |
 | 2017-12-06 | 2014-255-20-22.9 | 365/2017. (XII. 5.) Korm. rendelet |
 | 2018-01-01 | 2014-255-20-22.10 | 483/2017. (XII. 28.) Korm. rendelet |
+| 2018-09-21 | 2014-255-20-22.11 | 165/2018. (IX. 11.) Korm. rendelet |

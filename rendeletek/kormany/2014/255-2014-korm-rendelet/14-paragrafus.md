@@ -1,8 +1,8 @@
 ## nyújtható.
 
-## 9. [^137] Környezeti és Energiahatékonysági Operatív Program
+## 9. [^141] Környezeti és Energiahatékonysági Operatív Program
 
-## 14. §[^138] A Környezeti és Energiahatékonysági Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
+## 14. §[^142] A Környezeti és Energiahatékonysági Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
 
 1. ivóvízminőség-javítás ivóvíz-kezelési technológiák fejlesztésével, más vízbázisra áttéréssel, térségi rendszerek kialakításával, rekonstrukcióval, illetve ezek kombinációjával,
 
@@ -24,5 +24,5 @@
 
 10. intelligens hálózati rendszerek támogatása a villamosenergia-rendszer rugalmasságnak biztosítására.
 
-[^137]: A 9. alcím címe a 127/2016. (VI. 7.) Korm. rendelet 17. § 10. pontja szerint módosított szöveg.
-[^138]: A 14. § nyitó szövegrésze a 271/2015. (IX. 18.) Korm. rendelet 22. § 12. pontja, nyitó szövegrésze a 127/2016. (VI. 7.) Korm. rendelet 17. § 11. pontja szerint módosított szöveg.
+[^141]: A 9. alcím címe a 127/2016. (VI. 7.) Korm. rendelet 17. § 10. pontja szerint módosított szöveg.
+[^142]: A 14. § nyitó szövegrésze a 271/2015. (IX. 18.) Korm. rendelet 22. § 12. pontja, nyitó szövegrésze a 127/2016. (VI. 7.) Korm. rendelet 17. § 11. pontja szerint módosított szöveg.

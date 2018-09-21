@@ -16,7 +16,7 @@ növelhető.
 
 (4) A támogatás keretében elszámolható
 
-a)[^194] az oktatók személyi jellegű ráfordítása, azokra az órákra vonatkozóan, amikor az oktatók részt vesznek a képzésen,
+a)[^198] az oktatók személyi jellegű ráfordítása, azokra az órákra vonatkozóan, amikor az oktatók részt vesznek a képzésen,
 
 b) az oktatók és a képzésben résztvevők közvetlenül a képzési projekthez kapcsolódó működési költsége (pl. útiköltség, közvetlenül a projekthez kapcsolódó anyagok és fogyóeszközök költsége, valamint az eszközök és berendezések értékcsökkenése kizárólag a képzési projekt keretében történő használatuk mértékéig),
 
@@ -24,10 +24,10 @@ c) a képzési projekthez kapcsolódó tanácsadás költsége,
 
 d) a képzésben résztvevők személyi jellegű ráfordításai és az általános közvetett költségek (pl. adminisztrációs költségek, bérleti díj, rezsi költségek) azokra az órákra vonatkozóan, amikor a képzésben résztvevők részt vesznek a képzésen,
 
-e)[^195] az oktatóknak és a képzés résztvevőinek a közvetlenül a képzési projekthez kapcsolódó szállásköltsége.
+e)[^199] az oktatóknak és a képzés résztvevőinek a közvetlenül a képzési projekthez kapcsolódó szállásköltsége.
 
-(5)[^196] Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.
+(5)[^200] Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.
 
-[^194]: Az 58. § (4) bekezdés a) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 65. pontja szerint módosított szöveg.
-[^195]: Az 58. § (4) bekezdés e) pontja a 365/2017. (XII. 5.) Korm. rendelet 20. § 11. pontja szerint módosított szöveg.
-[^196]: Az 58. § (5) bekezdése a 271/2015. (IX. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^198]: Az 58. § (4) bekezdés a) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 65. pontja szerint módosított szöveg.
+[^199]: Az 58. § (4) bekezdés e) pontja a 365/2017. (XII. 5.) Korm. rendelet 20. § 11. pontja szerint módosított szöveg.
+[^200]: Az 58. § (5) bekezdése a 271/2015. (IX. 18.) Korm. rendelet 18. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-23/B. §[^172] (1) A támogatást nyújtó köteles adatot szolgáltatni a Támogatásokat Vizsgáló Iroda részére
+23/B. §[^176] (1) A támogatást nyújtó köteles adatot szolgáltatni a Támogatásokat Vizsgáló Iroda részére
 
 a) a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 11–45. alcím hatálya alá tartozó, 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásról,
 
@@ -12,4 +12,4 @@ bb) az 51–54. és a 66–69. alcím hatálya alá tartozó, 60 000 eurónak
 
 (2) Az (1) bekezdés szerinti adatszolgáltatás módjára, az adatszolgáltatással érintett adatok körére és azok közzétételére vonatkozó szabályokat az Atr. 18/A–18/D. §-ai határozzák meg.
 
-[^172]: A 23/B. §-t a 305/2016. (X. 13.) Korm. rendelet 7. §-a iktatta be.
+[^176]: A 23/B. §-t a 305/2016. (X. 13.) Korm. rendelet 7. §-a iktatta be.

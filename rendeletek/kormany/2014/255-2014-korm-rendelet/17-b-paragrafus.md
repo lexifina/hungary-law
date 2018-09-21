@@ -1,4 +1,4 @@
-## 17/A. §[^142]
+## 17/A. §[^146]
 
 ## 17/B. § A Vidékfejlesztési Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
 
@@ -38,7 +38,7 @@ e) az erdő környezeti és közjóléti értékének növelése vagy
 
 f) erdősítés és fásítás támogatása,
 
-g)[^143] az erdészeti technológiákra, valamint erdei termékek feldolgozására és piaci értékesítésére irányuló beruházások,
+g)[^147] az erdészeti technológiákra, valamint erdei termékek feldolgozására és piaci értékesítésére irányuló beruházások,
 
 8. termelői csoport vagy szervezet létrehozása,
 
@@ -62,7 +62,7 @@ c) a rövid ellátási lánc alkalmazásában a közös piacra jutás fejleszté
 
 d) a szolidáris és a közösség által támogatott mezőgazdaság,
 
-e)[^144] agrár-innovációs operatív csoportok létrehozása és működtetése
+e)[^148] agrár-innovációs operatív csoportok létrehozása és működtetése
 
 érdekében,
 
@@ -72,6 +72,6 @@ a) együttműködés vagy
 
 b) stratégia
 
-[^142]: A 17/A. §-t a 305/2016. (X. 13.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.
-[^143]: A 17/B. § (7) bekezdés g) pontját a 127/2016. (VI. 7.) Korm. rendelet 6. §-a iktatta be.
-[^144]: A 17/B. § 11. pont e) alpontját a 365/2017. (XII. 5.) Korm. rendelet 7. §-a iktatta be.
+[^146]: A 17/A. §-t a 305/2016. (X. 13.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.
+[^147]: A 17/B. § (7) bekezdés g) pontját a 127/2016. (VI. 7.) Korm. rendelet 6. §-a iktatta be.
+[^148]: A 17/B. § 11. pont e) alpontját a 365/2017. (XII. 5.) Korm. rendelet 7. §-a iktatta be.
