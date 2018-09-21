@@ -76,7 +76,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-2. melléklet az 1403/2018. (VIII. 31.) Korm. határozathoz
+2. melléklet az 1403/2018. (VIII. 31.) Korm. határozathoz[^14]
 
 XI. Miniszterelnökség
 
@@ -113,3 +113,5 @@ a Kormány hatáskörében
 Költségvetési év: 2018.
 
 forintban
+
+[^14]: A 2. melléklet az 1454/2018. (IX. 21.) Korm. határozat 7. pontja szerint módosított szöveg.

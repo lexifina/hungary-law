@@ -22,7 +22,7 @@
 
 ## Határidő: azonnal
 
-## b) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok címet a 14. Magyarországi nyaralóhajózás alapjainak és hátterének megteremtése alcímmel egészíti ki;
+## b)[^1] az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcímet a 18. Magyarországi nyaralóhajózás alapjainak és hátterének megteremtése jogcímcsoporttal egészíti ki;
 
 ## Felelős: pénzügyminiszter
 
@@ -86,25 +86,25 @@
 
 ## c) a Kvtv. 17. §-a és 4. melléklet 2. pontja alapján jóváhagyja a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 19. Szociális célú humánszolgáltatások alcím, 1. Szociális célú nem állami humánszolgáltatások támogatása jogcímcsoport legfeljebb 30 000 000 000 forint összeggel történő túllépését.
 
-## 3.[^1]
+## 3.[^2]
 
-## 4.[^2]
+## 4.[^3]
 
-## 5.[^3]
+## 5.[^4]
 
-## 6.[^4]
+## 6.[^5]
 
-## 7.[^5]
+## 7.[^6]
 
-## 8.[^6]
+## 8.[^7]
 
-## 9.[^7]
+## 9.[^8]
 
-## 10.[^8]
+## 10.[^9]
 
-## 11.[^9]
+## 11.[^10]
 
-## 12.[^10]
+## 12.[^11]
 
 ## 13. A Kormány egyetért azzal, hogy a hazai bölcsődefejlesztési programról szóló 1164/2018. (III. 27.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 16. Szociális szolgáltatások és egyéb szociális feladatok támogatása cím, 7. Családpolitikai célú pályázatok alcím, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 500 000 000 forintból 29 288 703 forint a K1. Személyi juttatások és 5 711 297 forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton kerüljön felhasználásra.
 
@@ -118,23 +118,24 @@
 
 ## 15. A Kormány egyetért azzal, hogy az Országvédelmi Alapból történő előirányzat-átcsoportosításról, egyes kormányhatározatok módosításáról és a központi költségvetés címrendjének a kormányzati szerkezetátalakítással összefüggő módosításáról szóló 1303/2017. (VI. 7.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím, K3. Dologi kiadások kiemelt előirányzat javára átcsoportosított 41 500 000 forintból 2 749 000 forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 16.[^11]
+## 16.[^12]
 
 ## 17. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő átcsoportosításról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, fejezetek közötti és fejezeten belüli átcsoportosításról, a Honvédelmi Minisztérium fejezet szociális hozzájárulási adó felhasználásáról és egyes kormányhatározatok módosításáról szóló 1347/2018. (VII. 26.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 25. Felújítások központi támogatása, egyéb fejlesztési támogatások alcím, 2. Köznevelési intézmények felújítása, beruházása jogcímcsoport, K6. Beruházások kiemelt előirányzat javára átcsoportosított 214 110 000 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
-## 18.[^12]
+## 18.[^13]
 
 1. melléklet az 1403/2018. (VIII. 31.) Korm. határozathoz
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 18. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont b) alpontja az 1454/2018. (IX. 21.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 18. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

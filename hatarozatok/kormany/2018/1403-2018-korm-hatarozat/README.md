@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1403-30
 | --- | --- | --- |
 | 2018-08-31 | 2018-1403-30-22.1 | 1403/2018. (VIII. 31.) Korm. határozat |
 | 2018-09-01 | 2018-1403-30-22.2 | 2010: CXXX. törvény |
+| 2018-09-21 | 2018-1403-30-22.3 | 1454/2018. (IX. 21.) Korm. határozat |
