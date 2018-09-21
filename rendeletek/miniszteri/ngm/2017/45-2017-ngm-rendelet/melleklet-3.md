@@ -2,7 +2,7 @@
 
 ## Az adótanácsadói, adószakértői és okleveles adószakértői igazolvány az alábbi adatokat tartalmazza:
 
-## 1. Kibocsátó szervezet megnevezése: „Nemzetgazdasági Minisztérium”
+## 1. Kibocsátó szervezet megnevezése: „Pénzügyminisztérium”
 
 ## 2. Igazolvány megnevezése: „Adótanácsadói/adószakértői/okleveles adószakértői* igazolvány”
 
@@ -20,7 +20,7 @@
 
 ## 6. Fénykép
 
-## 7. „A nemzetgazdasági miniszter …………………………..-t az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételéről és továbbképzéséről szóló 45/2017. (XII. 22.) NGM rendelet alapján adótanácsadói/adószakértői/okleveles adószakértői* tevékenység végzése céljából …………… számon nyilvántartásba vette, aki így adótanácsadói/adószakértői/okleveles adószakértői* tevékenység folytatására jogosult.”
+## 7. „A pénzügyminiszter …………………………..-t az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételéről és továbbképzéséről szóló 45/2017. (XII. 22.) NGM rendelet alapján adótanácsadói/adószakértői/okleveles adószakértői* tevékenység végzése céljából …………… számon nyilvántartásba vette, aki így adótanácsadói/adószakértői/okleveles adószakértői* tevékenység folytatására jogosult.”
 
 ## 8. Igazolvány érvényességi ideje
 

@@ -94,4 +94,6 @@
 
 ## 6. A bejelentő aláírása
 
-2. melléklet a 45/2017. (XII. 22.) NGM rendelethez
+2. melléklet a 45/2017. (XII. 22.) NGM rendelethez[^6]
+
+[^6]: A 2. melléklet a 8/2018. (IX. 20.) PM rendelet 7. §-a szerint módosított szöveg.

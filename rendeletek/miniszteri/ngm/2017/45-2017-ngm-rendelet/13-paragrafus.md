@@ -6,8 +6,11 @@
 
 (3) A kreditpont-minősítési kérelmet benyújtó továbbképző szervezetnek a kreditpont-minősítési eljárásért az eljárás kezdeményezésével egyidejűleg díjat kell fizetnie. A kreditpont-minősítési eljárás díja 5000 forint, amelyet minden kérelem vonatkozásában külön-külön kell megfizetni.
 
-(4) A (2) és (3) bekezdés szerinti díjat a Nemzetgazdasági Minisztérium 10032000-01460658-00000000 számú számlájára, az e célból rendszeresített fizetési számlára történő készpénzátutalási megbízással vagy fizetési számlák közötti átutalással kell megfizetni.
+(4)[^2] A (2) és (3) bekezdés szerinti díjat a Pénzügyminisztérium 10032000-01460658-00000000 számú számlájára, az e célból rendszeresített fizetési számlára történő készpénzátutalási megbízással vagy fizetési számlák közötti átutalással kell megfizetni.
 
-(5) A (2) és (3) bekezdés szerinti díj az adópolitikáért felelős miniszter által vezetett minisztérium működési bevétele.
+(5)[^3] A (2) és (3) bekezdés szerinti díj a Pénzügyminisztérium működési bevétele.
 
 (6) A díjfizetés vonatkozásában az illetékekről szóló 1990. évi XCIII. törvény 28. § (2) és (3) bekezdésében és 73/A. §-ában, a mulasztási bírságra a 82. § (1) bekezdésében foglaltakat kell alkalmazni azzal az eltéréssel, hogy az ott nevesített illeték helyett díjat kell érteni.
+
+[^2]: A 13. § (4) bekezdése a 8/2018. (IX. 20.) PM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^3]: A 13. § (5) bekezdése a 8/2018. (IX. 20.) PM rendelet 8. § 2. pontja szerint módosított szöveg.
