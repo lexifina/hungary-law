@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-9-20-0A
 | 2017-01-01 | 2011-9-20-0A.11 | 45/2016. (XI. 23.) BM rendelet |
 | 2018-01-01 | 2011-9-20-0A.12 | 40/2017. (XII. 29.) BM rendelet |
 | 2018-06-30 | 2011-9-20-0A.13 | 20/2018. (VI. 29.) BM rendelet |
+| 2018-09-21 | 2011-9-20-0A.14 | 4/2016. (I. 22.) BM rendelet |

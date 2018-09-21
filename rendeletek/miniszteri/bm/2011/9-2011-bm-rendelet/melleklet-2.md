@@ -252,7 +252,7 @@
 
 ## 32.[^22] 33.11 Fémfeldolgozási termék javítása
 
-## Határőrizeti célú ideiglenes biztonsági határzár elemeinek [fémfeldolgozási termékek, huzalból készült termékek, pengés (NATO) drót, huzalkerítés, drótkerítés, kerítésfonat, drótháló] javítása.
+## Határőrizeti célú ideiglenes biztonsági határzár elemeinek [fémfeldolgozási termékek, huzalból készült termékek, pengés (NATO) drót, huzalkerítés, drótkerítés, kerítésfonat, drótháló, magasfigyelők és esőbeállók] javítása, karbantartása.
 
 ## 33.[^23] 42.11. Út, autópálya építése
 
@@ -288,6 +288,112 @@
 
 ## Irodagép festékpatronjának (toner) gyártása: Írás- és képmegjelenítő berendezések (nyomtatók, másolók, faxok, számológépek stb.) komplett nyomtató kellékanyagainak (komplett toner/cartridge /festékkazetta/) vagy azok külön alkatrészeinek (toner /külön festékegység/, dob /külön képalkotó egység/, fuser /külön beégető egység/, IBT Belt /képátvivő szalag/ és belt cleaner /képátvivőszalag-törlő/, waste container /használtfesték-tartály/) utángyártása, javítása.
 
+## 41.[^31] Építőipari tevékenység kizárólag a fogvatartottak elhelyezésére, ellátására és foglalkoztatására, valamint a biztonságos őrzés és felügyelet biztosítására szolgáló épületek, egyéb építmények vonatkozásában:
+
+## 41.1. 43.32 Épületasztalos-szerkezet szerelése
+
+## a) Redőny, reluxa felszerelése, javítása.
+
+## b) Nyílászáró beszerelése.
+
+## c) Álmennyezet-, álpadlószerelés.
+
+## d) Beépített bútor beszerelése, javítása.
+
+## e) M.n.s. egyéb épületasztalos-szerkezet szerelése, javítása.
+
+## 41.2. 42.99 Egyéb m.n.s. építés
+
+## a) Egyéb m.n.s. építés.
+
+## b) Sportpályák építése.
+
+## 41.3. 41.10 Épületépítési projekt szervezése
+
+## Épületépítési beruházás szervezése.
+
+## 41.4. 41.20 Lakó- és nem lakó épület építése
+
+## a) Épületszerkezet-felújítás.
+
+## b) Lakó- és nem lakóépület kivitelezése.
+
+## c) Mobil és beépített bútorok, mozgó alkatrészek, falburkolatok, válaszfalak, nyílászáró szerkezetek szerelése, javítása, cseréje.
+
+## d) Műemlék építmény helyreállítása, restaurálása.
+
+## 41.5. 43.11 Bontás
+
+## a) Bontás kézi erővel.
+
+## b) Bontás géppel.
+
+## 41.6. 43.12 Építési terület előkészítése
+
+## a) Gépi földmunkák végzése.
+
+## b) Kézi földmunka végzése.
+
+## c) Építési terület előkészítése m.n.s.
+
+## d) Emelőgép, földmunkagép, útépítőgép kezelése.
+
+## 41.7. 43.31 Vakolás
+
+## a) Vakolás m.n.s.
+
+## b) Gipszkartonszerelés, szárazépítészet.
+
+## c) Szárazépítészet (belsőépítészeti munkák készítése).
+
+## d) Gipszkartonszerelés.
+
+## 41.8. 43.33 Padló-, falburkolás, térburkolás
+
+## a) Melegburkolás és parkettázás.
+
+## b) Tapétázás.
+
+## c) Térburkolás.
+
+## 41.9. 43.34 Festés, üvegezés
+
+## a) Festés, mázolás.
+
+## b) Építmény-, faszerkezetgomba, kártevő és korrózió elleni védelem.
+
+## c) Acélszerkezetek korrózióvédelme.
+
+## 41.10. 43.39 Egyéb befejező építés, új épület első takarítása az építkezés befejezésekor
+
+## a) Egyéb befejező építés m.n.s.
+
+## b) Új épület első takarítása az építkezés befejezésekor.
+
+## c) Szögbelövés.
+
+## d) Betonfúrás és -vágás, szögbelövés.
+
+## 41.11. 43.91 Tetőfedés, tetőszerkezet-építés
+
+## Tetőszerkezet-építés (ácsolás).
+
+## 41.12. 43.99 Egyéb speciális szaképítés m.n.s., falazási, helyszíni betonozási munkák, épületek külső homlokzatának gőz- és homokfúvással vagy hasonló módszerekkel történő tisztítása
+
+## a) Az épületek külső falának tisztítása gőz és homokfúvással.
+
+## b) Egyéb speciális szaképítés m.n.s.
+
+## c) Vízszigetelés.
+
+## d) Állványozás.
+
+## e) Kőművesmunka.
+
+## f) Építményfelújítás, karbantartás ipari alpinista módszerrel.
+
+## g) Zsaluzás, dúcolás.
+
 2. melléklet a 9/2011. (III. 23.) BM rendelethez
 
 ## A Kedvezményezettek köre
@@ -298,9 +404,9 @@
 
 3. Országos Katasztrófavédelmi Főigazgatóság és az irányítása alá tartozó szervek
 
-4.[^31] rendészeti szakgimnáziumok
+4.[^32] rendészeti szakgimnáziumok
 
-5.[^32]
+5.[^33]
 
 6. Nemzetbiztonsági Szakszolgálat
 
@@ -308,23 +414,23 @@
 
 8. Büntetés-végrehajtás Országos Parancsnoksága és az irányítása alá tartozó szervek
 
-9.[^33] Terrorelhárítási Információs és Bűnügyi Elemző Központ
+9.[^34] Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
 10. Terrorelhárítási Központ
 
 11. Nemzeti Védelmi Szolgálat
 
-12.[^34] Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok
+12.[^35] Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok
 
-13.[^35] Bevándorlási és Menekültügyi Hivatal
+13.[^36] Bevándorlási és Menekültügyi Hivatal
 
-14.[^36] Bevándorlási és Menekültügyi Hivatal Menekültügyi Őrzött Befogadó Központ
+14.[^37] Bevándorlási és Menekültügyi Hivatal Menekültügyi Őrzött Befogadó Központ
 
-15.[^37] Bevándorlási és Menekültügyi Hivatal Befogadó Állomás
+15.[^38] Bevándorlási és Menekültügyi Hivatal Befogadó Állomás
 
-16.[^38]
+16.[^39]
 
-17.[^39]
+17.[^40]
 
 [^6]: Az 1. melléklet bevezető szövege a 45/2016. (XI. 23.) BM rendelet 1. §-a szerint módosított szöveg.
 [^7]: Az 1. melléklet 1. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
@@ -342,7 +448,7 @@
 [^19]: Az 1. melléklet 25. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^20]: Az 1. melléklet 27. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^21]: Az 1. melléklet 31. pontja a 40/2017. (XII. 29.) BM rendelet 4. §-ával megállapított szöveg.
-[^22]: Az 1. melléklet 32. pontját a 4/2016. (I. 22.) BM rendelet 1. pontja iktatta be.
+[^22]: Az 1. melléklet 32. pontját a 4/2016. (I. 22.) BM rendelet 1. pontja iktatta be, szövege a 24/2018. (IX. 20.) BM rendelet 1. §-ával megállapított szöveg.
 [^23]: Az 1. melléklet 33. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be, szövege a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^24]: Az 1. melléklet 34. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be.
 [^25]: Az 1. melléklet 35. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be.
@@ -351,12 +457,13 @@
 [^28]: Az 1. melléklet 38. pontját a 45/2016. (XI. 23.) BM rendelet 1. §-a iktatta be.
 [^29]: Az 1. melléklet 39. pontját a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdése iktatta be.
 [^30]: Az 1. melléklet 40. pontját a 20/2018. (VI. 29.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^31]: A 2. melléklet 4. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^32]: A 2. melléklet 5. pontját a 37/2016. (IX. 1.) BM rendelet 4. §-a hatályon kívül helyezte.
-[^33]: A 2. melléklet 9. pontja a 29/2016. (VII. 15.) BM rendelet 4. §-ával megállapított szöveg.
-[^34]: A 2. melléklet 12. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^35]: A 2. melléklet 13. pontja az 58/2016. (XII. 22.) BM rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^36]: A 2. melléklet 14. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^37]: A 2. melléklet 15. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^38]: A 2. melléklet 16. pontját a 37/2016. (IX. 1.) BM rendelet 4. §-a hatályon kívül helyezte.
-[^39]: A 2. melléklet 17. pontját az 58/2016. (XII. 22.) BM rendelet 26. § (2) bekezdése hatályon kívül helyezte.
+[^31]: Az 1. melléklet 41. pontját a 24/2018. (IX. 20.) BM rendelet 1. §-a iktatta be.
+[^32]: A 2. melléklet 4. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^33]: A 2. melléklet 5. pontját a 37/2016. (IX. 1.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^34]: A 2. melléklet 9. pontja a 29/2016. (VII. 15.) BM rendelet 4. §-ával megállapított szöveg.
+[^35]: A 2. melléklet 12. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^36]: A 2. melléklet 13. pontja az 58/2016. (XII. 22.) BM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^37]: A 2. melléklet 14. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^38]: A 2. melléklet 15. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^39]: A 2. melléklet 16. pontját a 37/2016. (IX. 1.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^40]: A 2. melléklet 17. pontját az 58/2016. (XII. 22.) BM rendelet 26. § (2) bekezdése hatályon kívül helyezte.
