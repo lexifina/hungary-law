@@ -4,17 +4,17 @@
 
 ## Határidő: azonnal
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és fejezetek közötti átcsoportosításról szóló 1437/2016. (VIII. 17.) Korm. határozat 1. pontjában a „2017. december 31.” szövegrész helyébe a „2018. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1447/2017. (VII. 7.) Korm. határozat 1. pont b) alpontjában a „2018. december 31.” szövegrész helyébe az „és a Közbeszerzési és Ellátási Főigazgatóság cím részére biztosított 3 556 000 000 forint tekintetében 2018. december 31.” szöveg lép.
+## 3.[^2]
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, tárgyéven túli kötelezettségvállalás engedélyezéséről és egyes kormányhatározatok módosításáról szóló 1707/2017. (IX. 25.) Korm. határozat 1. pontjában az „a Versenysport támogatása jogcímcsoport javára biztosított 15 000 000 forint tekintetében és A Budapesti Planetárium épületének felújítása jogcímcsoport javára az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1727/2017. (X. 10.) Korm. határozat figyelembevételével biztosított 66 829 940 forint tekintetében 2018. december 31.” szövegrész helyébe az „a Versenysport támogatása jogcímcsoport javára biztosított 15 000 000 forint tekintetében 2018. december 31., A Budapesti Planetárium épületének felújítása jogcímcsoport javára az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1727/2017. (X. 10.) Korm. határozat figyelembevételével biztosított 66 829 940 forint tekintetében, az Egyetemek, főiskolák cím javára az Óbudai Egyetem kollégiumi beruházásának befejezéséhez biztosított 1 800 000 000 forint tekintetében,” szöveg lép.
+## 4.[^3]
 
 ## 5. A Kormány egyetért azzal, hogy az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1727/2017. (X. 10.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 6. Egyéb oktatási intézmények cím, 1. Oktatási Hivatal alcím, K1. Személyi juttatások kiemelt előirányzat javára átcsoportosított 4 900 000 forintból 1 389 642 forint a K3. Dologi kiadások kiemelt előirányzaton és 190 809 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton, továbbá a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat javára átcsoportosított 1 100 000 forintból 500 690 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 6. A Központi Maradványelszámolási Alapból történő átcsoportosításról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, a IX. Helyi önkormányzatok támogatásai fejezeten belüli előirányzat-átcsoportosításról, a Szociális célú nem állami humánszolgáltatások támogatása fejezeti kezelésű előirányzat túllépésének jóváhagyásáról és egyes kormányhatározatok módosításáról szóló 1403/2018. (VIII. 31.) Korm. határozat (a továbbiakban: Határozat) 1. pont b) alpontjában a „20. Fejezeti kezelésű előirányzatok címet a 14. Magyarországi nyaralóhajózás alapjainak és hátterének megteremtése alcímmel” szövegrész helyébe a „20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcímet a 18. Magyarországi nyaralóhajózás alapjainak és hátterének megteremtése jogcímcsoporttal” szöveg lép.
+## 6.[^4]
 
-## 7. A Határozat 2. mellékletében a Kiadások és Támogatás részben a Magyarországi nyaralóhajózás alapjainak és hátterének megteremtése előirányzat jogcímcsoportnál a „15” szövegrész helyébe a „18” szöveg lép.
+## 7.[^5]
 
 ## 8. A Kormány egyetért azzal, hogy a Határozat 2. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XXI. Miniszterelnöki Kabinetiroda fejezet, 1. Miniszterelnöki Kabinetiroda cím, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 45 000 000 forintból 157 000 forint a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 19. Magyar Corvin-lánc Testület támogatása jogcímcsoport K3. Dologi kiadások kiemelt előirányzaton és 44 843 000 forint a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 19. Magyar Corvin-lánc Testület támogatása jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
@@ -221,3 +221,9 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
