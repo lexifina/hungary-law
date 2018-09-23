@@ -618,7 +618,7 @@ C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgálta
 
 | 39 | Nyereségkorlát feletti eredmény visszafizetése alóli mentesítés iránti kérelem elbírálása | 200 |
 
-| 40. | Rendszeres információszolgáltatási kötelezettség alóli mentesség kérelem benyújtása | 50 |
+| 40 | Rendszeres információszolgáltatási kötelezettség alóli mentesség | 50 |
 
 D) Megfelelőségértékelő szervezetek kijelölésével kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -654,23 +654,23 @@ E) Víziközmű-szolgáltatással kapcsolatos hatósági eljárások igazgatási
 
 |  | A | B |
 
-| 1 | Az igazgatási szolgáltatásidíj-köteles hatósági eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (ezer forint) |
+| 1 | Az igazgatási szolgáltatási díj-köteles hatósági eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (ezer forint) |
 
 | 2 | Hatósági bizonyítvány kiállítása az ellátásért felelős személyének igazolása céljából |  |
 
-|  | a) a Hivatal nyilvántartásában nem szereplő tény, állapot, egyéb adat alapján [a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 83. § (2) bekezdés a)–b) pontja] | 150 |
+|  | a) a Hivatal nyilvántartásában nem szereplő tény, állapot, egyéb adat alapján | 50 |
 
-|  | b) a Hivatal nyilvántartásában szereplő adat alapján [Ket. 83. § (2) bekezdés c) pontja] | 25 |
+|  | b) a Hivatal nyilvántartásában szereplő adat alapján | 25 |
 
 | 3 | Pályázati kiírás Hivatal általi jóváhagyása | 150 |
 
-| 4 | Víziközmű-szolgáltatói engedély iránti kérelem elbírálása | 1 500 |
+| 4 | Víziközmű-szolgáltatói engedély iránti kérelem elbírálása | 1200 |
 
-| 5 | Víziközmű-szolgáltatói engedély módosítása iránti kérelem elbírálása | 200 |
+| 5 | Víziközmű-szolgáltatói engedély módosítása iránti kérelem elbírálása | 150 |
 
 | 6 | Víziközmű-szolgáltatói engedély visszavonása iránti kérelem elbírálása | 50 |
 
-| 7 | Működési engedély iránti kérelem elbírálása | 200 |
+| 7 | Működési engedély iránti kérelem elbírálása | 150 |
 
 | 8 | Működési engedély módosítása iránti kérelem elbírálása | 120 |
 
@@ -692,25 +692,23 @@ E) Víziközmű-szolgáltatással kapcsolatos hatósági eljárások igazgatási
 
 | 17 | A Vksztv. 31/A. § (4) bekezdés szerinti átmeneti díj megállapítása | 150 |
 
-| 18 | Víziközmű-rendszer gördülő fejlesztési tervének jóváhagyása |  |
+| 18 | Víziközműrendszer gördülő fejlesztési tervének jóváhagyása |  |
 
-|  | a) felújítási és pótlási tervrész jóváhagyása | a tárgyév június 1-jén hatályos működési engedélyben az adott víziközmű-rendszerre meghatározott felhasználói egyenértékenként 0,001, de legalább 10 |
+|  | a) felújítási és pótlási tervrész jóváhagyása | a tárgyév június 1-jén hatályos működési engedélyben az adott víziközmű- rendszerre meghatározott felhasználói egyenértékenként 0,001, de legalább 15 |
 
-|  | b) beruházási tervrész jóváhagyása | a tárgyév június 1-jén, hatályos működési engedélyben az adott víziközmű-rendszerre meghatározott felhasználói egyenértékenként 0,001, de legalább 10 |
+|  | b) beruházási tervrész jóváhagyása | a tárgyév június 1-jén, hatályos működési engedélyben az adott víziközmű- rendszerre meghatározott felhasználói egyenértékenként 0,001, de legalább 15 |
 
-| 19 | Víziközmű-rendszer gördülő fejlesztési tervének módosítása | a 18. pont alapján meghatározott díj 50%-a |
+|  | c) a teljes időtáv vonatkozásában tényleges feladatot nem tartalmazó beruházási tervrész | a b) pont alapján meghatározott díj 50%-a |
 
-| 20 | Víziközművé minősítés iránti kérelem | 50 |
+| 19 | Víziközműrendszer gördülő fejlesztési tervének módosítása | a 18. pont alapján meghatározott díj 50%-a |
+
+| 20 | Víziközművé minősítés iránti kérelem | 200 |
 
 | 21 | Nemzeti Víziközmű Nyilvántartásból adatszolgáltatási eljárás |  |
 
-|  | a) másolat kiadása | 5 |
+|  | a) másolat vagy kivonat kiadása adatszolgáltatással érintett víziközmű-rendszerenként papír alapon | 6 |
 
-|  | aa) ezenfelül több oldalas másolat esetén, a 2. oldaltól megkezdett oldalanként | 0,5 |
-
-|  | b) kivonat kiadása | 3 |
-
-|  | ba) ezenfelül több oldalas kivonat esetén, a 2. oldaltól megkezdett oldalanként | 0,5 |
+|  | b) másolat vagy kivonat kiadása adatszolgáltatással érintett víziközmű-rendszerenként elektronikus formában | 3 |
 
 F) Hulladékgazdálkodási közszolgáltatással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -738,4 +736,4 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^27]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja szerint módosított szöveg.
+[^27]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a szerint módosított szöveg.
