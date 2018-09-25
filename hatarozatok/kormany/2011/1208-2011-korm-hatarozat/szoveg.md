@@ -68,7 +68,7 @@ Határidő: folyamatosan
 
 a)[^10] három budapesti sürgősségi centrum kialakítását megalapozó megvalósíthatósági tanulmány kidolgozását a fővárosi és Pest megyei önkormányzatok tulajdonában álló intézmények, az Emberi Erőforrás Minisztériuma irányítása alá tartozó fővárosi fekvőbeteg-ellátó egészségügyi intézmények, továbbá az egyházi tulajdonban álló fővárosi egészségügyi intézmények, illetve – speciális, valamint a rendvédelmi ágazatot érintő egészségügyi feladatainak a figyelembevételével – a honvédelemért felelős miniszter felügyelete alatt álló Honvédkórház – Állami Egészségügyi Központ egységes sürgősségi, illetve tervezett ellátást végző hálózatba történő integrálására, koncentrációjára, funkcionális átalakítására;
 
-b) az új Országos Pszichiátriai és Addiktológiai Intézet megvalósíthatósági tanulmányának elkészítését, figyelemmel a magas biztonságú és elmemegfigyelő részleg kialakítására, egységben, de önálló intézményként az Igazságügyi Megfigyelő és Elmegyógyító Intézet (Budapest), a Büntetés-végrehajtás Központi Kórház (Tököl), valamint a Szegedi Fegyház és Börtön Krónikus Utókezelő Részleg (Nagyfa) modernizálásával, közös telephelyre integrálásával;
+b)[^11] az új Országos Pszichiátriai és Addiktológiai Intézet megvalósíthatósági tanulmányának elkészítését, figyelemmel a magas biztonságú és elmemegfigyelő részleg kialakítására;
 
 c) a sportegészségügyi ellátórendszer újjászervezési koncepciójának kidolgozását, különös tekintettel a londoni olimpiára való felkészülésre;
 
@@ -86,7 +86,7 @@ a c) feladat tekintetében: londoni felkészüléssel kapcsolatos intézkedések
 
 sportegészségügyi koncepció kidolgozása és egyes lépések bevezetése folyamatosan
 
-1.10.[^11] egyetért az Országos Betegjogi és Dokumentációs Központ – központi hivatalként történő – létrehozásával az egykapus betegjogvédelem kialakítása, az egészségügyi műhibák és a megszűnt egészségügyi intézmények betegdokumentációjának kezelése érdekében;
+1.10.[^12] egyetért az Országos Betegjogi és Dokumentációs Központ – központi hivatalként történő – létrehozásával az egykapus betegjogvédelem kialakítása, az egészségügyi műhibák és a megszűnt egészségügyi intézmények betegdokumentációjának kezelése érdekében;
 
 Felelős: emberi erőforrások minisztere
 
@@ -96,7 +96,7 @@ nemzeti fejlesztési miniszter
 
 Határidő: 2011. december 31.
 
-1.11.[^12] elrendeli az egészségügyi dolgozók humánerőforrás helyzetének – különös tekintettel az egészségügyi dolgozók normatív, teljesítmény- és speciális elemeken alapuló jövedelmezésére, a munkakörülményekre, a képzési és az életkörülményekre – áttekintését, és a vizsgálat eredményeképpen koncepció kidolgozását az egészségügyi dolgozók egységes életpályacsoportjaira vonatkozó humánerőforrás stratégiák megalapozására, a költségvetési források figyelembevételével;
+1.11.[^13] elrendeli az egészségügyi dolgozók humánerőforrás helyzetének – különös tekintettel az egészségügyi dolgozók normatív, teljesítmény- és speciális elemeken alapuló jövedelmezésére, a munkakörülményekre, a képzési és az életkörülményekre – áttekintését, és a vizsgálat eredményeképpen koncepció kidolgozását az egészségügyi dolgozók egységes életpályacsoportjaira vonatkozó humánerőforrás stratégiák megalapozására, a költségvetési források figyelembevételével;
 
 Felelős: emberi erőforrások minisztere
 
@@ -104,13 +104,13 @@ nemzetgazdasági miniszter
 
 Határidő: 2011. szeptember 30.
 
-1.12.[^13] elrendeli a népegészségügyi szűrési programok áttekintését és kiterjesztését a költségvetési források figyelembevételével, a működő szűrőprogramok hatékonyságának felülvizsgálatát;
+1.12.[^14] elrendeli a népegészségügyi szűrési programok áttekintését és kiterjesztését a költségvetési források figyelembevételével, a működő szűrőprogramok hatékonyságának felülvizsgálatát;
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2011. december 31.
 
-1.13.[^14] egyetért az egységes egészségügyi ágazati informatikai fejlesztésekkel, nemzeti egészségügyi informatikai (e-Health) rendszer projektjeinek és programjainak megvalósításával, összhangban az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezelésére és védelmére vonatkozó rendelkezésekkel.
+1.13.[^15] egyetért az egységes egészségügyi ágazati informatikai fejlesztésekkel, nemzeti egészségügyi informatikai (e-Health) rendszer projektjeinek és programjainak megvalósításával, összhangban az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezelésére és védelmére vonatkozó rendelkezésekkel.
 
 Felelős: közigazgatási és igazságügyi miniszter
 
@@ -132,7 +132,8 @@ Határidő: folyamatos
 [^8]: Az 1. 8. pont az 1031/2013. (I. 30.) Korm. határozat 2. pontjával megállapított szöveg.
 [^9]: Az 1.9. pont az 1031/2013. (I. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^10]: Az 1.9. pont a) pontja az 1031/2013. (I. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^11]: Az 1.10. pont az 1031/2013. (I. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^12]: Az 1.11. pont az 1031/2013. (I. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^13]: Az 1.12. pont az 1031/2013. (I. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^14]: Az 1.13. pont az 1031/2013. (I. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^11]: Az 1.9. pont b) alpontja az 1457/2018. (IX. 25.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^12]: Az 1.10. pont az 1031/2013. (I. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^13]: Az 1.11. pont az 1031/2013. (I. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^14]: Az 1.12. pont az 1031/2013. (I. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^15]: Az 1.13. pont az 1031/2013. (I. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
