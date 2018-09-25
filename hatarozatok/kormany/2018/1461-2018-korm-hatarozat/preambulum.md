@@ -1,0 +1,1 @@
+A Kormány – figyelemmel a Magyarország Kormánya és Kaposvár Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1803/2015. (XI. 10.) Korm. határozat 2. pontjára –
