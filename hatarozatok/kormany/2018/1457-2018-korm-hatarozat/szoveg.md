@@ -24,8 +24,6 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: azonnal
 
-5. visszavonja
+5.[^1]
 
-a) a Semmelweis Tervben meghatározott egészségügyi struktúra-átalakítással járó feladatokról, a kiemelt feladatok végrehajtásához szükséges intézkedésekről szóló 1208/2011. (VI. 28.) Korm. határozat 1.9. pont b) alpontjában az „ , egységben, de önálló intézményként az Igazságügyi Megfigyelő és Elmegyógyító Intézet (Budapest), a Büntetés-végrehajtás Központi Kórház (Tököl), valamint a Szegedi Fegyház és Börtön Krónikus Utókezelő Részleg (Nagyfa) modernizálásával, közös telephelyre integrálásával” szövegrészt, valamint
-
-b) az Igazságügyi Megfigyelő és Elmegyógyító Intézet (Budapest), a Büntetés-végrehajtás Központi Kórház (Tököl) és a Szegedi Fegyház és Börtön Krónikus Utókezelő Részleg (Algyő-Nagyfa) közös telephelyre integrálásával összefüggő feladatokról szóló 1060/2012. (III. 12.) Korm. határozatot.
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
