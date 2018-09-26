@@ -1,36 +1,14 @@
 A Kormány
 
-1. annak érdekében, hogy a 2019. évi Maccabi Európa Játékok (a továbbiakban: Játékok) Budapesten történő megrendezése a Maccabi Vívó és Atlétikai Club (a továbbiakban: Maccabi VAC), a Magyarországi Zsidó Hitközségek Szövetsége, illetve a Magyar Testgyakorlók Köre Budapest (a továbbiakban: MTK) által közösen elnyert pályázat alapján a Játékok megfelelő infrastrukturális feltételek mellett kerülhessenek lebonyolításra, egyetért azzal, hogy
+1.[^1]
 
-a) a Játékok az 1087 Budapest, Kerepesi út 17. szám alatt található, Budapest VIII. kerület 38821/1, valamint 38831 helyrajzi számon nyilvántartott ingatlanokon, továbbá az 1087 Budapest, Kerepesi út 15. és 17. szám alatt található, Budapest VIII. kerület 38830/2 helyrajzi számon nyilvántartott ingatlanon (a továbbiakban együtt: Kerepesi úti Sportpark), a Józsefvárosi Pályaudvar területén a Budapest 38818/42 és a Budapest 38818/43 helyrajzi számú ingatlanokból a 4. pont alapján kialakítandó ingatlanon, illetve a 38821/4 helyrajzi számú ingatlanon (a továbbiakban együtt: Ingatlanok) kerüljenek megrendezésre,
+2.[^2]
 
-b) a Játékok megrendezéséhez az Ingatlanokon létesítményfejlesztési beruházások szükségesek a Kormány elé terjesztett és általa megismert tartalommal (a továbbiakban: Beruházás),
+3.[^3]
 
-c) a Beruházás építtetője a Nemzeti Sportközpontok (a továbbiakban: NSK) legyen, amellyel összefüggésben – kizárólag a Beruházás megvalósításának tekintetében – a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat (a továbbiakban: Korm. hat.) mentesíti az NSK-t a Korm. hat. 1. pontjában foglalt tilalom alól;
+4.[^4]
 
-2. az 1. pont a) alpontjában foglaltak megvalósítása érdekében felhívja a nemzeti fejlesztési minisztert arra, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján gondoskodjon a Kerepesi úti Sportpark ingatlanjainak NSK részére történő vagyonkezelésbe adásáról;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: azonnal
-
-3. az 1. pont a) alpontjában foglaltak megvalósítása érdekében felhívja a nemzeti fejlesztési minisztert arra, hogy az MNV Zrt. útján tegye meg a szükséges intézkedéseket a Budapest 38818/42 helyrajzi számú ingatlan vagyonrendezés keretében történő állami tulajdonba kerülése érdekében;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: azonnal
-
-4. az 1. pont a) alpontjában foglaltak megvalósítása érdekében felhívja a nemzeti fejlesztési minisztert arra, hogy az MNV Zrt. útján tegye meg a szükséges intézkedéseket ahhoz, hogy a Budapest 38818/42 és 38818/43 helyrajzi számú ingatlanok telekalakítás keretében úgy kerüljenek szabályozásra, hogy a Beruházáshoz – a nemzeti fejlesztési miniszter kijelölése alapján – szükséges fejlesztési terület egy elkülöníthető helyrajzi számon legyen nyilvántartásba véve;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: az érintett ingatlanok egységes állami tulajdonba kerülését követően azonnal
-
-5. az 1. pont a) és c) alpontjában foglaltak megvalósítása érdekében felhívja a nemzeti fejlesztési minisztert, hogy az MNV Zrt. útján gondoskodjon a 4. pontban foglaltak szerint létrejött elkülöníthető, egységes helyrajzi számon fekvő ingatlan NSK részére történő vagyonkezelésbe adásáról;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: a 4. pont megvalósulását követően azonnal
+5.[^5]
 
 6. egyetért azzal, hogy az MTK a Kerepesi úti Sportpark fejlesztésére az általa 2017. február 7-én kiírt közösségi értékhatárt elérő értékű, nyílt tervpályázati eljárás nyertesével a Beruházás kivitelezőjének kiválasztását célzó közbeszerzési eljárás dokumentációjához szükséges kiviteli tervek elkészítésére kössön szerződést, ennek érdekében felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy
 
@@ -80,17 +58,9 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-10. felhívja a nemzeti fejlesztési minisztert, hogy készítsen előterjesztést a Kormány részére – a Kerepesi úti Sportpark kivételével – az Ingatlanokon a Beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról;
+10.[^6]
 
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: a 4. pont szerinti ingatlan kialakítását követően azonnal
-
-11. egyetért azzal, hogy a Beruházás megvalósítását követően az Ingatlanok vagyonkezelője az MTK legyen, ennek érdekében felhívja az emberi erőforrások miniszterét, hogy készítsen előterjesztést a sportról szóló 2004. évi I. törvény módosításáról;
-
-Felelős: emberi erőforrások minisztere
-
-Határidő: a Beruházás műszaki átadás-átvételét követően azonnal
+11.[^7]
 
 12. egyetért azzal, hogy a Játékok előkészítő rendezvényeként nemzetközi kiállítás és kulturális programsorozat kerüljön megszervezésre a Maccabi VAC által, mellyel összefüggésben felhívja a nemzetgazdasági minisztert és az emberi erőforrások miniszterét, hogy a 2017. évben legfeljebb 35 000 000 forint, a 2018. évben legfeljebb 20 000 000 forint, a 2019. évben legfeljebb 20 000 000 forint forrás rendelkezésre állásáról gondoskodjanak a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet javára.
 
@@ -99,3 +69,11 @@ Felelős: nemzetgazdasági miniszter
 emberi erőforrások minisztere
 
 Határidő: a felmerülés ütemében
+
+[^1]: Az 1. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
+[^2]: A 2. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
+[^3]: A 3. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
+[^4]: A 4. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
+[^5]: Az 5. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
+[^6]: A 10. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
+[^7]: A 11. pontot az 1468/2018. (IX. 26.) Korm. határozat 7. pontja visszavonta.
