@@ -1,0 +1,3 @@
+2. § (1) Az 1. mellékletben meghatározott műszaki-biztonsági szempontból jelentős munkakört csak az 1. mellékletben megjelölt szakképzettséggel és gyakorlati idővel rendelkező személy töltheti be. A 2. mellékletben meghatározott műszaki-biztonsági szempontból jelentős munkakört csak a 2. mellékletben megjelölt szakképzettséggel és gyakorlati idővel rendelkező személy töltheti be.
+
+(2) A továbbképzés képzési programjának jóváhagyása iránti kérelmet az 1. mellékletben szereplő munkakörök esetében a Magyar Bányászati és Földtani Szolgálat, a 2. mellékletben szereplő munkakörök esetében a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala bírálja el.

@@ -1,0 +1,1 @@
+## 4. § A 2. § szerinti műszaki-biztonsági szempontból jelentős munkakört betöltő személy köteles az adott munkakörhöz előírt gyakorisággal továbbképzésen részt venni, és az ott megszerzett ismereteiből vizsgát tenni. Az eredményes vizsgáról kiállított igazolásban fel kell tüntetni a következő továbbképzés esedékességét.

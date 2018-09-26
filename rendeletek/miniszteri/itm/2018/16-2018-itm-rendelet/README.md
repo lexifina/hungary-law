@@ -1,0 +1,9 @@
+# 16/2018. (IX. 11.) ITM rendelet
+
+a műszaki-biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítésről és gyakorlatról, valamint az ilyen munkakörben foglalkoztatottak időszakos továbbképzésével kapcsolatos szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-16-20-7Q
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-09-26 | 2018-16-20-7Q.1 | 16/2018. (IX. 11.) ITM rendelet |
