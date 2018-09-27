@@ -26,4 +26,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2018. október 31.
 
-7. visszavonja az 1323/2017. (VI. 8.) Korm. határozat 1–5. és 10–11. pontját.
+7.[^1]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
