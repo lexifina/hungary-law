@@ -1,0 +1,3 @@
+## 1. § A napelemes erőművek megvalósítására irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 347/2017. (XI. 22.) Korm. rendelet (a továbbiakban: R1.) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az 1. § szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás és a környezeti hatásvizsgálati eljárás kivételével, vagy ha jogszabály rövidebb határidőt nem állapít meg – tizenöt nap.”
