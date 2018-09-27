@@ -26,6 +26,6 @@
 
 | 12 | Telephely fejlesztésére, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás Budapesten | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 42544/14 és 42544/29 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^8]
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^10]
 
-[^8]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
