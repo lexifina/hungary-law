@@ -1,216 +1,292 @@
-|  | A | B | C |
+|  | A | B | C | D |
 
-| 1. | Település | Helyrajzi szám | Projekt |
+| 1. | Település | Helyrajzi szám | Fekvés | Projekt |
 
-| 2. | Alsónána | 0100/9 |  |
+| 2. | Alsónána | 0100/9 | külterület |  |
 
-| 3. | Árpádhalom | 166/10 |  |
+| 3. | Apc | 1190/1, 1190/2, 1199 | belterület |  |
 
-| 4. | Barcs | 520/2 |  |
+| 4. | Árpádhalom | 166/13 | belterület |  |
 
-| 5. | Bátonyterenye | 2022/9 |  |
+| 5. | Barcs | 520/2 | belterület |  |
 
-| 6. | Békéscsaba | 0786/4 |  |
+| 6. | Bátonyterenye | 2022/16 | belterület |  |
 
-| 7. | Bercel | 0340/9 |  |
+| 7. | Békéscsaba | 0786/6 | külterület |  |
 
-| 8. | Beremend | 0182/27, 0182/28, 0182/29 |  |
+| 8. | Bercel | 0340/9 | külterület |  |
 
-| 9. | Berettyóújfalu | 3982/1, 3982/2 |  |
+| 9. | Beremend | 0182/29 | külterület |  |
 
-| 10. | Bicske | 041/6 |  |
+| 10. | Berettyóújfalu | 3982/3 | belterület |  |
 
-| 11. | Bodajk | 0207/9 |  |
+| 11. | Bicske | 041/8 | külterület |  |
 
-| 12. | Bonyhád | 048 |  |
+| 12. | Bodajk | 0207/10 | külterület |  |
 
-| 13. | Cece | 0292/25 |  |
+| 13. | Bonyhád | 048/6 | külterület |  |
 
-| 14. | Cegléd | 1651/42 |  |
+| 14. | Bőszénfa | 0257/4 | külterület | Bőszénfa I. Bőszénfa II. |
 
-| 15. | Cigánd | 0108/1 |  |
+| 15. | Bükkábrány | 028/168 | külterület |  |
 
-| 16. | Csókakő | 070/2 |  |
+| 16. | Cece | 0292/32 | külterület |  |
 
-| 17. | Csorna | 0123/3 |  |
+| 17. | Cegléd | 1651/64 | belterület |  |
 
-| 18. | Dánszentmiklós | 048/7 |  |
+| 18. | Cigánd | 0108/3 | külterület |  |
 
-| 19. | Dány | 089/6, 089/7 |  |
+| 19. | Csókakő | 070/2 | külterület |  |
 
-| 20. | Dorog | 0294/4 |  |
+| 20. | Csorna | 0123/24 | külterület |  |
 
-| 21. | Dunaújváros | 3657/10 | Dunaújváros I. Dunaújváros II. |
+| 21. | Dánszentmiklós | 048/7 | külterület |  |
 
-| 22. | Fehérgyarmat | 0239/24 |  |
+| 22. | Dány | 089/9 | külterület |  |
 
-| 23. | Fertőszéplak | 424/2 | Fertőszéplak I. |
+| 23. | Dorog | 0294/4 | külterület |  |
 
-| 24. | Fertőszéplak | 424/1 | Fertőszéplak II. |
+| 24. | Dunaújváros | 3657/10 | belterület | Dunaújváros I. Dunaújváros II. |
 
-| 25. | Gerendás | 088/162 |  |
+| 25. | Fehérgyarmat | 0239/24 | külterület |  |
 
-| 26. | Gyomaendrőd | 3748/2 |  |
+| 26. | Fertőszéplak | 424/2 | belterület | Fertőszéplak I. |
 
-| 27. | Győrvár | 05/1 | Győrvár I. |
+| 27. | Fertőszéplak | 424/5 | belterület | Fertőszéplak II. |
 
-| 28. | Győrvár | 03/15 | Győrvár II. |
+| 28. | Fényeslitke | 028/61 | külterület | Fényeslitke I. |
 
-| 29. | Heréd | 082/1 |  |
+| 29. | Fényeslitke | 028/62 | külterület | Fényeslitke II. |
 
-| 30. | Hódmezővásárhely | 3570/54 |  |
+| 30. | Fényeslitke | 028/63 | külterület | Fényeslitke III. |
 
-| 31. | Iregszemcse | 0291/23 |  |
+| 31. | Galgaguta | 0148/2 | külterület | Galgaguta I. |
 
-| 32. | Jánoshalma | 712 |  |
+| 32. | Galgaguta | 028/16 | külterület | Galgaguta II. |
 
-| 33. | Jászapáti | 1346 | Jászapáti I. Jászapáti II. |
+| 33. | Gerendás | 088/168 | külterület |  |
 
-| 34. | Kajárpéc | 0241/11 | Kajárpéc I. |
+| 34. | Gyomaendrőd | 3748/3 | belterület |  |
 
-| 35. | Kajárpéc | 0251/74, 0251/83 | Kajárpéc II. |
+| 35. | Győrvár | 05/1 | külterület | Győrvár I. |
 
-| 36. | Kakucs | 036/28 | Kakucs I. Kakucs II. |
+| 36. | Győrvár | 03/15 | külterület | Győrvár II. |
 
-| 37. | Karcag | 4553 |  |
+| 37. | Halmajugra | 0106/4 | külterület |  |
 
-| 38. | Kecel | 2691, 2692, 2693, 2694, 2695, 2696, 2697, 2698, 2699, 2700, 2701, 2702, 2703, 2704 |  |
+| 38. | Heréd | 082/1 | külterület |  |
 
-| 39. | Kecskemét | 0778/8 | Kecskemét I. Kecskemét II. Kecskemét III. |
+| 39. | Hévíz | 022/53 | külterület |  |
 
-| 40. | Kecskemét | 0983/65 | Kecskemét IV. |
+| 40. | Hódmezővásárhely | 3570/63 | belterület |  |
 
-| 41. | Kemse | 025/14 |  |
+| 41. | Iregszemcse | 0291/28 | külterület |  |
 
-| 42. | Kétpó | 346/2 |  |
+| 42. | Jánoshalma | 712 | belterület |  |
 
-| 43. | Kisbér | 0129/14 |  |
+| 43. | Jászapáti | 1346 | belterület | Jászapáti I. Jászapáti II. |
 
-| 44. | Kisköre | 1031 |  |
+| 44. | Kajárpéc | 0241/11 | külterület | Kajárpéc I. |
 
-| 45. | Kiskunfélegyháza | 2222 |  |
+| 45. | Kajárpéc | 0251/74 | külterület | Kajárpéc II. |
 
-| 46. | Kiskunhalas | 3270/22 |  |
+| 46. | Kakucs | 036/28 | külterület | Kakucs I. Kakucs II. |
 
-| 47. | Kisújszállás | 1846 |  |
+| 47. | Karcag | 4553 | belterület |  |
 
-| 48. | Kisvárda | 0307/1 |  |
+| 48. | Kecel | 2691 | belterület |  |
 
-| 49. | Komárom | 1782/228 |  |
+| 49. | Kecskemét | 0778/10 | külterület | Kecskemét I. |
 
-| 50. | Komló | 0308/5 |  |
+| 50. | Kecskemét | 0778/12 | külterület | Kecskemét II. |
 
-| 51. | Körösújfalu | 247 |  |
+| 51. | Kecskemét | 0778/13 | külterület | Kecskemét III. |
 
-| 52. | Kőszeg | 0117/3 |  |
+| 52. | Kecskemét | 0983/65 | külterület | Kecskemét IV. |
 
-| 53. | Kötegyán | 760/2 |  |
+| 53. | Kemse | 025/33 | külterület |  |
 
-| 54. | Kunszállás | 0285/44 |  |
+| 54. | Kétpó | 346/2 | belterület |  |
 
-| 55. | Lengyeltóti | 936 |  |
+| 55. | Kétújfalu | 055/2 | külterület | Kétújfalu I. |
 
-| 56. | Mátészalka | 0169/4 | Mátészalka I. Mátészalka II. Mátészalka III. |
+| 56. | Kétújfalu | 058 | külterület | Kétújfalu II. |
 
-| 57. | Mátészalka | 0176/6 | Mátészalka IV. |
+| 57. | Kisbér | 0129/37 | külterület |  |
 
-| 58. | Mezőkovácsháza | 2429/3 |  |
+| 58. | Kisköre | 1031 | belterület |  |
 
-| 59. | Mezőkövesd | 0225/3 | Mezőkövesd I. Mezőkövesd II. |
+| 59. | Kiskunfélegyháza | 2222/2 | belterület |  |
 
-| 60. | Miskolc | 11116/7 |  |
+| 60. | Kiskunhalas | 3270/23 | belterület |  |
 
-| 61. | Nagyhalász | 0297 |  |
+| 61. | Kisújszállás | 1846/2 | belterület |  |
 
-| 62. | Nagykamarás | 047/73 |  |
+| 62. | Kisvárda | 0307/6 | külterület |  |
 
-| 63. | Nagyvázsony | 099/2 |  |
+| 63. | Komárom | 1782/233 | belterület |  |
 
-| 64. | Noszvaj | 0189/29 |  |
+| 64. | Komló | 0308/5 | külterület |  |
 
-| 65. | Nyíradony | 3985/4 |  |
+| 65. | Körösújfalu | 247 | belterület |  |
 
-| 66. | Nyírbogát | 1345/3 |  |
+| 66. | Kőszeg | 0117/6 | külterület |  |
 
-| 67. | Nyírcsaholy | 0321/3 |  |
+| 67. | Kötegyán | 760/2 | belterület |  |
 
-| 68. | Öskü | 077/3 | Öskü I. Öskü II. |
+| 68. | Kunszállás | 0285/44 | külterület |  |
 
-| 69. | Paks | 0331 | Paks I. Paks II. |
+| 69. | Lengyeltóti | 936 | belterület |  |
 
-| 70. | Paks | 0259/12 | Paks III. Paks IV. Paks V. Paks VI. |
+| 70. | Mátészalka | 0169/10 | külterület | Mátészalka I. |
 
-| 71. | Parasznya | 065/1 |  |
+| 71. | Mátészalka | 0169/12 | külterület | Mátészalka II. |
 
-| 72. | Pécs | 23429 | Pécs I. Pécs II. Pécs III. Pécs IV. |
+| 72. | Mátészalka | 0169/14 | külterület | Mátészalka III. |
 
-| 73. | Pécs | 23431 | Pécs V. Pécs VI. |
+| 73. | Mátészalka | 0176/6 | külterület | Mátészalka IV. |
 
-| 74. | Putnok | 011/1, 033/48 |  |
+| 74. | Mezőkovácsháza | 2440 | belterület |  |
 
-| 75. | Püspökladány | 2026 |  |
+| 75. | Mezőkövesd | 0225/3 | külterület | Mezőkövesd II. |
 
-| 76. | Ráckeve | 0251/1 |  |
+| 76. | Mezőkövesd | 0225/7 | külterület | Mezőkövesd I. |
 
-| 77. | Rózsaszentmárton | 0102/5 | Rózsaszentmárton I. Rózsaszentmárton II. |
+| 77. | Miskolc | 11116/7 | belterület |  |
 
-| 78. | Sajóvámos | 679/2, 680/2, 681/2, 682/2, 683/2 |  |
+| 78. | Nagyhalász | 0297/2 | külterület |  |
 
-| 79. | Sárbogárd | 0238/20 | Sárbogárd I. Sárbogárd II. |
+| 79. | Nagykamarás | 047/73 | külterület |  |
 
-| 80. | Sátoraljaújhely | 0459 |  |
+| 80. | Nagyvázsony | 099/3 | külterület |  |
 
-| 81. | Soltvadkert | 0316/51 |  |
+| 81. | Noszvaj | 0189/29 | külterület |  |
 
-| 82. | Somogytúr | 0134/3 |  |
+| 82. | Nyíradony | 3985/4 | zártkert |  |
 
-| 83. | Sopronkövesd | 0147/1 |  |
+| 83. | Nyírbogát | 1345/5 | belterület |  |
 
-| 84. | Sükösd | 024/104 |  |
+| 84. | Nyírcsaholy | 0321/10 | külterület |  |
 
-| 85. | Sülysáp | 0431/8 |  |
+| 85. | Oroszlány | 0718/6 | külterület | Oroszlány I. |
 
-| 86. | Szajol | 946/5 |  |
+| 86. | Oroszlány | 0718/6 | külterület | Oroszlány II. |
 
-| 87. | Szegvár | 478/1 |  |
+| 87. | Oroszlány | 0718/10 | külterület | Oroszlány III. |
 
-| 88. | Szolnok | 091/10 |  |
+| 88. | Oroszlány | 0706/4 | külterület | Oroszlány IV. |
 
-| 89. | Taktaharkány | 1476 | Taktaharkány I. |
+| 89. | Öskü | 077/15 | külterület | Öskü I. |
 
-| 90. | Taktaharkány | 1439 | Taktaharkány II. |
+| 90. | Öskü | 077/17 | külterület | Öskü II. |
 
-| 91. | Tamási | 1422/6 |  |
+| 91. | Paks | 5348 | belterület | Paks I. Paks II. |
 
-| 92. | Tápiószecső | 0204/1 |  |
+| 92. | Paks | 0259/18 | külterület | Paks III. |
 
-| 93. | Tarpa | 121, 122, 123, 125, 126, 127, 128, 129, 130, 131 |  |
+| 93. | Paks | 0259/20 | külterület | Paks IV. |
 
-| 94. | Teklafalu | 97/1 |  |
+| 94. | Paks | 0259/22 | külterület | Paks V. |
 
-| 95. | Tiszakécske | 0634/12 |  |
+| 95. | Paks | 0259/24 | külterület | Paks VI. |
 
-| 96. | Törökbálint | 9001 |  |
+| 96. | Paks | 0259/17 | külterület | Paks VII. |
 
-| 97. | Tyukod | 06 |  |
+| 97. | Parasznya | 065/4 | külterület |  |
 
-| 98. | Újkígyós | 05/123 |  |
+| 98. | Pécs | 23429 | belterület | Pécs I. Pécs II. Pécs III. Pécs IV. |
 
-| 99. | Vácrátót | 057/13 | Vácrátót I. Vácrátót II. |
+| 99. | Pécs | 23431 | belterület | Pécs V. Pécs VI. |
 
-| 100. | Várpalota | 4134/3 | Várpalota I. Várpalota II. |
+| 100. | Pusztaföldvár | 1031 | belterület |  |
 
-| 101. | Veszprém | 071/37, 071/39 | Veszprém I. |
+| 101. | Putnok | 011/1, 033/48 | külterület |  |
 
-| 102. | Veszprém | 071/6, 071/7, 071/8 | Veszprém II. |
+| 102. | Püspökladány | 2026/1 | belterület |  |
 
-| 103. | Zalaapáti | 0148 |  |
+| 103. | Ráckeve | 0251/1 | külterület |  |
 
-| 104. | Zalaegerszeg | 0779/3 |  |
+| 104. | Rózsaszentmárton | 0102/8 | külterület | Rózsaszentmárton I. |
 
-| 105. | Paks | 0181/3, 0181/4, 0181/6, 0187/6, 0187/7, 0187/8, 0184 | Paks 20 MW |
+| 105. | Rózsaszentmárton | 0102/9 | külterület | Rózsaszentmárton II. |
 
-| 106. | Felsőzsolca | 056, 039/4, 039/5, 039/6 | Felsőzsolca 20 MW |
+| 106. | Rózsaszentmárton | 0114/9, 0114/6, 0114/7, 0114/10 | külterület | Rózsaszentmárton III. |
+
+| 107. | Rózsaszentmárton | 0208/11, 0208/12, 0208/34, 0208/44 | külterület | Rózsaszentmárton IV. |
+
+| 108. | Sajóvámos | 678/2 | belterület | Sajóvámos I. |
+
+| 109. | Sajóvámos | 088/1 | külterület | Sajóvámos II. |
+
+| 110. | Sajóvámos | 671/2, 672/2, 664/1 | belterület | Sajóvámos III. |
+
+| 111. | Sárbogárd | 0238/43 | külterület | Sárbogárd I. |
+
+| 112. | Sárbogárd | 0238/44 | külterület | Sárbogárd II. |
+
+| 113. | Sátoraljaújhely | 0459 | külterület |  |
+
+| 114. | Soltvadkert | 0316/53 | külterület |  |
+
+| 115. | Somogytúr | 0134/3 | külterület |  |
+
+| 116. | Sopronkövesd | 0147/1 | külterület |  |
+
+| 117. | Sükösd | 024/104 | külterület |  |
+
+| 118. | Sülysáp | 0431/9 | külterület |  |
+
+| 119. | Szajol | 946/20 | belterület |  |
+
+| 120. | Szegvár | 478/3 | belterület |  |
+
+| 121. | Szolnok | 091/10 | külterület |  |
+
+| 122. | Taktaharkány | 1476 | belterület | Taktaharkány I. |
+
+| 123. | Taktaharkány | 1439/2 | belterület | Taktaharkány II. |
+
+| 124. | Tamási | 1422/6 | belterület |  |
+
+| 125. | Tápiószecső | 0204/2 | külterület |  |
+
+| 126. | Tarpa | 121 | belterület |  |
+
+| 127. | Teklafalu | 97/1 | belterület |  |
+
+| 128. | Tiszakécske | 0634/23 | külterület |  |
+
+| 129. | Törökbálint | 9001 | belterület |  |
+
+| 130. | Tyukod | 06 | külterület |  |
+
+| 131. | Újkígyós | 05/123 | külterület |  |
+
+| 132. | Vácrátót | 057/32 | külterület | Vácrátót I. |
+
+| 133. | Vácrátót | 057/34 | külterület | Vácrátót II. |
+
+| 134. | Vácrátót | 093/1 | külterület | Vácrátót III. |
+
+| 135. | Vácrátót | 093/3 | külterület | Vácrátót IV. |
+
+| 136. | Várpalota | 4134/17 | belterület | Várpalota I. |
+
+| 137. | Várpalota | 4134/19 | belterület | Várpalota II. |
+
+| 138. | Veszprém | 071/39 | külterület | Veszprém I. |
+
+| 139. | Veszprém | 071/42 | külterület | Veszprém II. |
+
+| 140. | Vésztő | 0218/3 | külterület |  |
+
+| 141. | Zalaapáti | 0148 | külterület |  |
+
+| 142. | Zalaegerszeg | 0779/3 | külterület |  |
+
+| 143. | Paks | 0181/3, 0181/4, 0181/6, 0187/6, 0187/7, 0187/8, 0184 | külterület | Paks 20 MW |
+
+| 144. | Felsőzsolca | 056, 039/4, 039/5, 039/6 | külterület | Felsőzsolca 20 MW |
 
 2. melléklet a 347/2017. (XI. 22.) Korm. rendelethez
 
