@@ -1,4 +1,4 @@
-## 10. § Hatályát veszti a földgázellátásban műszaki biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítésről és gyakorlatról szóló 12/2004. (II. 13.) GKM rendelet.
+## 10. §[^1]
 
 1. melléklet a 16/2018. (IX. 11.) ITM rendelethez
 
@@ -93,3 +93,5 @@
 | 10. | Vonatkozó OKJ szerinti szakképesítés | 5 év |
 
 | 11. | Korrózióvédelmi tevékenység irányítója | Villamosmérnök vagy üzemmérnök vagy korrózióvédelmi felsőfokú szakképzettség | 3 év | 5 évenként |
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
