@@ -1,6 +1,6 @@
 ## 1. a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében foglaltakra figyelemmel beruházási célterületté nyilvánítja az 1. melléklet szerinti települések közigazgatási területén fekvő, az 1. mellékletben meghatározott helyrajzi számú földrészleteket, valamint az ezen földrészletekből a telekalakítási eljárások végleges befejezését követően kialakított földrészleteket;
 
-## 2. visszavonja a napelemes erőművek megvalósítására irányuló beruházásokkal összefüggésben egyes földrészletek beruházási célterületté nyilvánításáról szóló 1857/2017. (XI. 22.) Korm. határozatot.
+## 2.[^1]
 
 1. melléklet az 1467/2018. (IX. 26.) Korm. határozathoz
 
@@ -115,3 +115,5 @@
 | 54. | Zalaapáti | 0148 | külterület |
 
 | 55. | Zalaegerszeg | 0779/3 | külterület |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
