@@ -1,9 +1,0 @@
-# 171/2018. (IX. 25.) Korm. rendelet
-
-a büntetés-végrehajtási intézetek férőhely-bővítési programjához kapcsolódó, az új börtönépítési beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 268/2016. (VIII. 31.) Korm. rendelet módosításáról
-
-Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-171-20-22
-
-| Időállapot | NJT | Módosította |
-| --- | --- | --- |
-| 2018-09-26 | 2018-171-20-22.1 | 171/2018. (IX. 25.) Korm. rendelet |
