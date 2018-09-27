@@ -10,4 +10,6 @@ c) együttműködik a határon túli egyházakkal,
 
 d) ellátja a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvényben az egyházi jogi személyek nyilvántartásával kapcsolatban a hatáskörébe tartozó feladatokat,
 
-e) ellátja – a kormányzati nemzetközi humanitárius segítségnyújtás koordinációjáért és irányításáért való feladatkörében eljáró külpolitikáért felelős miniszterrel együttműködve – a keresztény vallásuk miatt üldözöttek megsegítése érdekében végzett kutatási elemző, koordinációs és nemzetközi humanitárius feladatokat.
+e)[^4]
+
+[^4]: A 33. § (2) bekezdés e) pontját a 172/2018. (IX. 26.) Korm. rendelet 3. §-a hatályon kívül helyezte.

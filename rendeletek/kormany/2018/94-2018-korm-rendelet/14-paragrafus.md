@@ -36,7 +36,9 @@
 
 17. társadalompolitika összehangolásáért,
 
-18. társadalmi és civil kapcsolatok fejlesztéséért
+18. társadalmi és civil kapcsolatok fejlesztéséért,
+
+19.[^1] üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért
 
 felelős tagja.
 
@@ -47,3 +49,5 @@ felelős tagja.
 (4) A miniszter vezeti a Stratégiai és Családügyi Kabinet üléseit.
 
 (5) A miniszter a miniszterelnök részére – feladat- és hatáskörében – soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői közreműködést kérhet a kormányzati szervektől, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek számára.
+
+[^1]: A 14. § (1) bekezdés 19. pontját a 172/2018. (IX. 26.) Korm. rendelet 1. §-a iktatta be.

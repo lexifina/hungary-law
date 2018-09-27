@@ -2,6 +2,6 @@
 
 ## 21. Hatályon kívül helyező rendelkezés
 
-161. §[^3]
+161. §[^6]
 
-[^3]: A 161. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 161. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
