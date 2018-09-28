@@ -38,23 +38,23 @@
 
 ## ja) az 1. melléklet 3. pontjában foglalt táblázat 4–8. sora szerinti felhívások keretösszege, valamint az ezen felhívások keretében megvalósuló kiemelt projektek indikatív támogatási kerete nem tartalmazza a felmerülő személyi juttatások és azok járulékai hazai forrását, a követelések behajtása érdekében felmerült költségek fedezetét, továbbá
 
-## jb) az 1. melléklet 3. pontjában foglalt táblázat 10., 11. és 14. sora szerinti felhívások keretösszege, valamint az ezen felhívások keretében megvalósuló kiemelt projektek indikatív támogatási kerete nem tartalmazza a megvalósítás során felmerülő hazai forrását,
+## jb)[^11] az 1. melléklet 3. pontjában foglalt táblázat 2., 10., 11. és 14. sora szerinti felhívások keretösszege, valamint az ezen felhívások keretében megvalósuló kiemelt projektek indikatív támogatási kerete nem tartalmazza a megvalósítás során felmerülő hazai forrását,
 
-## k)[^11]
+## k)[^12]
 
-## l)[^12]
+## l)[^13]
 
-## m)[^13] egyetért azzal, hogy az irányító hatóság éves fejlesztési keret módosítására tett javaslata alapján a 2. mellékletben foglalt táblázat F oszlopában szakmai elvárásként meghatározott egyedi feltételekben meghatározott módon a projektmenedzsment költség 30%-kal történő csökkentésével érintett projektek támogatási kerete az éves fejlesztési keretben és a támogatási szerződésekben átvezetésre kerüljön,
+## m)[^14] egyetért azzal, hogy az irányító hatóság éves fejlesztési keret módosítására tett javaslata alapján a 2. mellékletben foglalt táblázat F oszlopában szakmai elvárásként meghatározott egyedi feltételekben meghatározott módon a projektmenedzsment költség 30%-kal történő csökkentésével érintett projektek támogatási kerete az éves fejlesztési keretben és a támogatási szerződésekben átvezetésre kerüljön,
 
-## n)[^14] egyetért azzal, hogy a Nemzeti Közszolgálati Egyetem a KÖFOP végrehajtásához kapcsolódóan végzett Jó Állam Mutatók mérésével összefüggő illeszkedésvizsgálatra és a mérési módszertan kidolgozásának támogatására irányuló feladatait a megkezdhető kiemelt projektek támogatási szerződésének megkötéséig végezze el,
+## n)[^15] egyetért azzal, hogy a Nemzeti Közszolgálati Egyetem a KÖFOP végrehajtásához kapcsolódóan végzett Jó Állam Mutatók mérésével összefüggő illeszkedésvizsgálatra és a mérési módszertan kidolgozásának támogatására irányuló feladatait a megkezdhető kiemelt projektek támogatási szerződésének megkötéséig végezze el,
 
-## o)[^15] egyetért azzal, hogy az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény alapján meghatározott szociális hozzájárulási adó mindenkor hatályos mértékének alapulvételével az irányító hatóság vizsgálja felül az érintett, a KÖFOP forrásaiból finanszírozott projektekben felhasználni kívánt személyi jellegű költségek mértékét, és az így keletkező különbözettel az érintett projektek támogatási kerete az éves fejlesztési keretben csökkentésre kerüljön,
+## o)[^16] egyetért azzal, hogy az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény alapján meghatározott szociális hozzájárulási adó mindenkor hatályos mértékének alapulvételével az irányító hatóság vizsgálja felül az érintett, a KÖFOP forrásaiból finanszírozott projektekben felhasználni kívánt személyi jellegű költségek mértékét, és az így keletkező különbözettel az érintett projektek támogatási kerete az éves fejlesztési keretben csökkentésre kerüljön,
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: folyamatos
 
-## p)[^16] felhívja a Miniszterelnökséget vezető minisztert, hogy az irányító hatóság útján
+## p)[^17] felhívja a Miniszterelnökséget vezető minisztert, hogy az irányító hatóság útján
 
 ## pa) vizsgálja meg a KÖFOP végrehajtása során bekövetkező, a kedvezményezettet érintő szervezeti változások esetleges eredményeként az érintett kedvezményezett általános forgalmi adó levonására vonatkozó jogával összefüggő változások hatásait, és ezzel összefüggésben a projektek támogatási keretét,
 
@@ -64,29 +64,29 @@
 
 ## Határidő: folyamatos
 
-## q)[^17] jóváhagyja az Európai Bizottsággal előzetesen egyeztetett KÖFOP módosítására vonatkozó javaslatot (a továbbiakban: javaslat), és felhívja a Miniszterelnökséget vezető minisztert, hogy az irányító hatósággal együttműködve gondoskodjon a javaslatnak az Európai Bizottság részére történő benyújtásáról,
+## q)[^18] jóváhagyja az Európai Bizottsággal előzetesen egyeztetett KÖFOP módosítására vonatkozó javaslatot (a továbbiakban: javaslat), és felhívja a Miniszterelnökséget vezető minisztert, hogy az irányító hatósággal együttműködve gondoskodjon a javaslatnak az Európai Bizottság részére történő benyújtásáról,
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: 2017. június 30.
 
-## r)[^18] felhívja a Miniszterelnökséget vezető minisztert, hogy az irányító hatóság útján gondoskodjon a KÖFOP-ban átcsoportosítani tervezett költségkeretek mértékének megfelelő kötelezettségek vállalásáról,
+## r)[^19] felhívja a Miniszterelnökséget vezető minisztert, hogy az irányító hatóság útján gondoskodjon a KÖFOP-ban átcsoportosítani tervezett költségkeretek mértékének megfelelő kötelezettségek vállalásáról,
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: folyamatos
 
-## s)[^19]
+## s)[^20]
 
-## t)[^20] jóváhagyja az r) alpont szerinti átcsoportosítás Európai Bizottság általi elfogadásáig a KÖFOP 1. prioritása keretében megvalósuló projektek tekintetében az eredeti keretösszeg 110%-át meghaladó rész terhére történő kötelezettségvállalást,
+## t)[^21] jóváhagyja az r) alpont szerinti átcsoportosítás Európai Bizottság általi elfogadásáig a KÖFOP 1. prioritása keretében megvalósuló projektek tekintetében az eredeti keretösszeg 110%-át meghaladó rész terhére történő kötelezettségvállalást,
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: folyamatos
 
-## u)[^21]
+## u)[^22]
 
-## v)[^22] az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet [a továbbiakban: 17/2017. (II. 1.) Korm. rendelet] 6/A. §-a alapján hozzájárul, hogy a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1287/2017. (VI. 2.) Korm. határozat szerinti,
+## v)[^23] az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet [a továbbiakban: 17/2017. (II. 1.) Korm. rendelet] 6/A. §-a alapján hozzájárul, hogy a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1287/2017. (VI. 2.) Korm. határozat szerinti,
 
 ## va) a KÖFOP-1.0.0-VEKOP-15 azonosító jelű, a „Közigazgatási szakrendszerek egységes eléréséhez és interoperabilitásához központi alkalmazás szintű szolgáltatások biztosítása” című,
 
@@ -96,17 +96,17 @@
 
 ## kiemelt projektek keretemelése és annak végrehajtása során a 17/2017. (II. 1.) Korm. rendelet 3–6. §-ában foglalt eljárási szabályok ne kerüljenek alkalmazásra.
 
-## w)[^23] a 17/2017. (II. 1.) Korm. rendelet 6/A. §-a alapján hozzájárul, hogy a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1936/2017. (XII. 8.) Korm. határozattal módosított, a KÖFOP-2.2.5-VEKOP-15 azonosító jelű, az „Átláthatóság a közpénzek felhasználásánál, államháztartási adattárház” című kiemelt projekt keretemelése és annak végrehajtása során a 17/2017. (II. 1.) Korm. rendelet 3. §-a ne kerüljön alkalmazásra,
+## w)[^24] a 17/2017. (II. 1.) Korm. rendelet 6/A. §-a alapján hozzájárul, hogy a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1936/2017. (XII. 8.) Korm. határozattal módosított, a KÖFOP-2.2.5-VEKOP-15 azonosító jelű, az „Átláthatóság a közpénzek felhasználásánál, államháztartási adattárház” című kiemelt projekt keretemelése és annak végrehajtása során a 17/2017. (II. 1.) Korm. rendelet 3. §-a ne kerüljön alkalmazásra,
 
-## x)[^24] a 17/2017. (II. 1.) Korm. rendelet 6/A. §-a alapján hozzájárul, hogy a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1056/2018. (II. 21.) Korm. határozattal módosított, a KÖFOP-1.0.0-VEKOP-15-2016-00024 azonosító számú, „A 21. század családtámogatása és nyugdíja” című kiemelt projekt keretemelése és annak végrehajtása során a 17/2017. (II. 1.) Korm. rendelet 3. §-a ne kerüljön alkalmazásra,
+## x)[^25] a 17/2017. (II. 1.) Korm. rendelet 6/A. §-a alapján hozzájárul, hogy a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1056/2018. (II. 21.) Korm. határozattal módosított, a KÖFOP-1.0.0-VEKOP-15-2016-00024 azonosító számú, „A 21. század családtámogatása és nyugdíja” című kiemelt projekt keretemelése és annak végrehajtása során a 17/2017. (II. 1.) Korm. rendelet 3. §-a ne kerüljön alkalmazásra,
 
-## y)[^25] jóváhagyja a KÖFOP-1.0.0-VEKOP-15-2016-00024 azonosító számú, „A 21. század családtámogatása és nyugdíja” című kiemelt projekt keretemelése tekintetében a KÖFOP 1. prioritás eredeti keretösszegének 110%-át meghaladó rész terhére történő kötelezettségvállalást.
+## y)[^26] jóváhagyja a KÖFOP-1.0.0-VEKOP-15-2016-00024 azonosító számú, „A 21. század családtámogatása és nyugdíja” című kiemelt projekt keretemelése tekintetében a KÖFOP 1. prioritás eredeti keretösszegének 110%-át meghaladó rész terhére történő kötelezettségvállalást.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^26]
+## 3.[^27]
 
-1. melléklet az 1004/2016. (I. 18.) Korm. határozathoz[^27]
+1. melléklet az 1004/2016. (I. 18.) Korm. határozathoz[^28]
 
 ## A KÖFOP éves fejlesztési kerete
 
@@ -284,20 +284,21 @@
 [^8]: Az 1. pont h) alpontja az 1369/2016. (VII. 13.) Korm. határozat 4. pont b) alpontja, az 1585/2016. (X. 25.) Korm. határozat 5. pont 5.1. alpontja, az 1287/2017. (VI. 2.) Korm. határozat 4. pont 4.1. alpontja szerint módosított szöveg.
 [^9]: Az 1. pont i) alpontját az 1936/2017. (XII. 8.) Korm. határozat 5. pontja hatályon kívül helyezte.
 [^10]: Az 1. pont j) alpontja az 1117/2017. (III. 13.) Korm. határozat 2. pontjával megállapított szöveg.
-[^11]: Az 1. pont k) alpontját az 1200/2016. (IV. 15.) Korm. határozat 2. pontja iktatta be, hatályon kívül helyezte az 1936/2017. (XII. 8.) Korm. határozat 5. pontja.
-[^12]: Az 1. pont l) alpontját újból hatályon kívül helyezte az 1117/2017. (III. 13.) Korm. határozat 9. pont b) alpontja.
-[^13]: Az 1. pont m) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1117/2017. (III. 13.) Korm. határozat 3. pontjával megállapított szöveg.
-[^14]: Az 1. pont n) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be.
-[^15]: Az 1. pont o) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1117/2017. (III. 13.) Korm. határozat 4. pontjával megállapított, az 1056/2018. (II. 21.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
-[^16]: Az 1. pont p) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be.
-[^17]: Az 1. pont q) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, szövege az 1287/2017. (VI. 2.) Korm. határozat 1. pontjával megállapított szöveg.
-[^18]: Az 1. pont r) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be.
-[^19]: Az 1. pont s) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, hatályon kívül helyezte az 1936/2017. (XII. 8.) Korm. határozat 5. pontja.
-[^20]: Az 1. pont t) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be.
-[^21]: Az 1. pont u) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be, hatályon kívül helyezte az 1936/2017. (XII. 8.) Korm. határozat 5. pontja.
-[^22]: Az 1. pont v) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be.
-[^23]: Az 1. pont w) alpontját az 1936/2017. (XII. 8.) Korm. határozat 2. pontja iktatta be.
-[^24]: Az 1. pont x) alpontját az 1936/2017. (XII. 8.) Korm. határozat 2. pontja iktatta be, szövege az 1056/2018. (II. 21.) Korm. határozat 1. pontjával megállapított szöveg.
-[^25]: Az 1. pont y) alpontját az 1056/2018. (II. 21.) Korm. határozat 2. pontja iktatta be.
-[^26]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: Az 1. melléklet az 1200/2016. (IV. 15.) Korm. határozat 3. és 5. pontja, az 1369/2016. (VII. 13.) Korm. határozat 2. pont a) alpontja és 3. pont 3.2–3.4. alpontja, az 1585/2016. (X. 25.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3–5.5. alpontja, az 1740/2016. (XII. 13.) Korm. határozat 1. pont a) alpontja, az 1117/2017. (III. 13.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1287/2017. (VI. 2.) Korm. határozat 3. pont a) alpontja és 4. pont 4.3–4.5. alpontja, az 1592/2017. (VIII. 28.) Korm. határozat 3. pont a) alpontja, az 1936/2017. (XII. 8.) Korm. határozat 4. pont a)–b) alpontja, az 1056/2018. (II. 21.) Korm. határozat 3. pont a) alpontja és a 4. pont b)–c) alpontja, az 1340/2018. (VII. 25.) Korm. határozat 1. pont 1.1. és 1.2. alpontja szerint módosított szöveg.
+[^11]: Az 1. pont j) alpont jb) alpontja az 1472/2018. (IX. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^12]: Az 1. pont k) alpontját az 1200/2016. (IV. 15.) Korm. határozat 2. pontja iktatta be, hatályon kívül helyezte az 1936/2017. (XII. 8.) Korm. határozat 5. pontja.
+[^13]: Az 1. pont l) alpontját újból hatályon kívül helyezte az 1117/2017. (III. 13.) Korm. határozat 9. pont b) alpontja.
+[^14]: Az 1. pont m) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1117/2017. (III. 13.) Korm. határozat 3. pontjával megállapított szöveg.
+[^15]: Az 1. pont n) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be.
+[^16]: Az 1. pont o) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1117/2017. (III. 13.) Korm. határozat 4. pontjával megállapított, az 1056/2018. (II. 21.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^17]: Az 1. pont p) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be.
+[^18]: Az 1. pont q) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, szövege az 1287/2017. (VI. 2.) Korm. határozat 1. pontjával megállapított szöveg.
+[^19]: Az 1. pont r) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be.
+[^20]: Az 1. pont s) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, hatályon kívül helyezte az 1936/2017. (XII. 8.) Korm. határozat 5. pontja.
+[^21]: Az 1. pont t) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be.
+[^22]: Az 1. pont u) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be, hatályon kívül helyezte az 1936/2017. (XII. 8.) Korm. határozat 5. pontja.
+[^23]: Az 1. pont v) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be.
+[^24]: Az 1. pont w) alpontját az 1936/2017. (XII. 8.) Korm. határozat 2. pontja iktatta be.
+[^25]: Az 1. pont x) alpontját az 1936/2017. (XII. 8.) Korm. határozat 2. pontja iktatta be, szövege az 1056/2018. (II. 21.) Korm. határozat 1. pontjával megállapított szöveg.
+[^26]: Az 1. pont y) alpontját az 1056/2018. (II. 21.) Korm. határozat 2. pontja iktatta be.
+[^27]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: Az 1. melléklet az 1200/2016. (IV. 15.) Korm. határozat 3. és 5. pontja, az 1369/2016. (VII. 13.) Korm. határozat 2. pont a) alpontja és 3. pont 3.2–3.4. alpontja, az 1585/2016. (X. 25.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3–5.5. alpontja, az 1740/2016. (XII. 13.) Korm. határozat 1. pont a) alpontja, az 1117/2017. (III. 13.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1287/2017. (VI. 2.) Korm. határozat 3. pont a) alpontja és 4. pont 4.3–4.5. alpontja, az 1592/2017. (VIII. 28.) Korm. határozat 3. pont a) alpontja, az 1936/2017. (XII. 8.) Korm. határozat 4. pont a)–b) alpontja, az 1056/2018. (II. 21.) Korm. határozat 3. pont a) alpontja és a 4. pont b)–c) alpontja, az 1340/2018. (VII. 25.) Korm. határozat 1. pont 1.1. és 1.2. alpontja szerint módosított szöveg.

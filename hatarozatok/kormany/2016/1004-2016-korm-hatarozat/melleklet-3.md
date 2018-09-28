@@ -150,6 +150,6 @@
 
 | 64. | KÖFOP-3.3.3-15 | A pályázók és kedvezményezettek kapacitásainak támogatása a Duna Régió Stratégiával és az európai területi társulásokkal összefüggésben | Külgazdasági és Külügyminisztérium | 0,50 | 2016 | A Duna Régió Stratégiával és az európai területi társulásokkal összefüggésben biztosítani szükséges azokat a kapacitásokat (pl. projektmenedzsmentben, szakmai területeken jártas szakemberek), amelyek a pályázókat, illetve kedvezményezetteket támogatni tudják a projektek tervezése és megvalósítása során. A projekttel szemben elvárás, hogy a kedvezményezettek adminisztratív kapacitásainak növelésére célzott információs fórumok, események is megvalósuljanak. |
 
-3. melléklet az 1004/2016. (I. 18.) Korm. határozathoz[^29]
+3. melléklet az 1004/2016. (I. 18.) Korm. határozathoz[^30]
 
-[^29]: A 3. mellékletet az 1200/2016. (IV. 15.) Korm. határozat 7. pont b) pontja hatályon kívül helyezte.
+[^30]: A 3. mellékletet az 1200/2016. (IV. 15.) Korm. határozat 7. pont b) pontja hatályon kívül helyezte.

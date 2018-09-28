@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1004-30
 | 2018-02-22 | 2016-1004-30-22.12 | 1056/2018. (II. 21.) Korm. határozat |
 | 2018-07-26 | 2016-1004-30-22.13 | 1200/2016. (IV. 15.) Korm. határozat |
 | 2018-09-27 | 2016-1004-30-22.14 | 1200/2016. (IV. 15.) Korm. határozat |
+| 2018-09-28 | 2016-1004-30-22.15 | 1472/2018. (IX. 27.) Korm. határozat |
