@@ -50,7 +50,7 @@ k) a lakóingatlanra vonatkozó helyi adó
 
 (7) A lakhatási átalány-költségtérítés és a vegyes átalány-költségtérítés a lakóingatlan átvételének napjától illeti meg az állomány tagját. Törthavi lakhatási átalány-költségtérítést és vegyes átalány-költségtérítést kell megállapítani az állomány tagja részére, ha a tárgyhónapnak csak egy részében áll fenn a jogosultsági feltétel, ideértve különösen az ideiglenes elhelyezés, a tárgyhónap közben lezajló ki- és hazatelepülés, továbbá a vegyes átalány-költségtérítés esetén a családi átalány-költségtérítésre való jogosultság megállapításának vagy megszüntetésének esetét.
 
-(8) A vegyes átalány-költségtérítés összegének megállapítása során a 10. § és a 11. § szabályai szerint kell eljárni. Ha az állomáshely szerinti országra meghatározott ellátmányalap pénzneme eltér az EUR-tól, a vegyes átalány-költségtérítés összegét az ellátmányalap pénznemében kell megállapítani azzal, hogy az átszámításkor a megállapítást megelőző hónap 15. napján érvényes, MNB által közzétett hivatalos devizaárfolyamot kell alkalmazni.
+(8)[^2] A vegyes átalány-költségtérítés összegének megállapítása során a 10. § és a 11. § rendelkezései szerint kell eljárni.
 
 (9) A Honvédség megfizeti az állomány tagja részére a lakóingatlan és a garázs bérlésével összefüggésben felmerült letét összegét.
 
@@ -67,3 +67,5 @@ c) a bérbeadó által kötött lakásbiztosítás hiányában köteles biztosí
 a) a bérbeadó tulajdonát képezik, de a bérlés ideje alatt azokat a lakóingatlanban hagyja, és használatra átengedi az állomány tagja részére, kivéve, ha a lakásbérletről szóló szerződés másként rendelkezik, és
 
 b) külön szolgáltatótól kerülnek bérlésre, és a bérlés díja a biztosítási díjat nem tartalmazza.
+
+[^2]: A 21. § (8) bekezdése a 17/2018. (IX. 27.) HM rendelet 2. §-ával megállapított szöveg.
