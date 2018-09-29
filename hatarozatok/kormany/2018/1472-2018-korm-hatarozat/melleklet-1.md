@@ -34,7 +34,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat 1. pont j) alpont jb) alpontjában a „táblázat 10.,” szövegrész helyébe a „táblázat 2., 10.,” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1472/2018. (IX. 27.) Korm. határozathoz
 
@@ -45,3 +45,5 @@
 | 2. | Projekt uniós forrás terhére elszámolható közkiadása (Ft) | Európai uniós forrás terhére el nem számolható költség (Ft) | Projekt összköltsége (Ft) | Projekt uniós forrás terhére elszámolható közkiadása (Ft) | Európai uniós forrás terhére el nem számolható költség (Ft) | Projekt összköltsége (Ft) | Projekt uniós forrás terhére elszámolható közkiadása (Ft) | Európai uniós forrás terhére el nem számolható költség (Ft) | Projekt összköltsége (Ft) |
 
 | 3. | KÖFOP-3.1.1- 16-2016-00001 | Partnerek és a lakosság bevonása az operatív programok megvaló- sításába | Innovációs és Technológiai Minisztérium | 9 300 000 000 | 0 | 9 300 000 000 | 0 | +3 577 500 000 | +3 577 500 000 | 9 300 000 000 | 3 577 500 000 | 12 877 500 000 | A projekt célja a 2014–2020 közötti programozási időszakban az európai uniós programok átlátható, szabályszerű, eredményes és hatékony végrehajtásának érdekében a társadalmi, gazdasági és szociális partnereket is magában foglaló monitorigbizottságok működési feltételeinek biztosítása, illetve a lakosság és azon belül az érintettek európai uniós támogatásokkal kapcsolatos ismereteink bővítése a fejlesztések lehetőségéről, tényéről, eredményéről. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
