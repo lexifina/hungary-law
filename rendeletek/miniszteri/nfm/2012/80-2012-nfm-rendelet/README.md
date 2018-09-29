@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-80-20-2
 | 2016-07-01 | 2012-80-20-2W.7 | 19/2016. (VI. 30.) NFM rendelet |
 | 2017-01-01 | 2012-80-20-2W.8 | 78/2016. (XII. 30.) NFM rendelet |
 | 2018-01-01 | 2012-80-20-2W.9 | 78/2016. (XII. 30.) NFM rendelet |
+| 2018-09-29 | 2012-80-20-2W.10 | 78/2016. (XII. 30.) NFM rendelet |
