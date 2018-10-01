@@ -36,7 +36,9 @@ c) helyszínről elmenekültnek minősül az a személy is, aki a szabálysért�
 
 d) médiatartalom-szolgáltató a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató.
 
-e) nyilvános rendezvény a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, továbbá az olyan rendezvény, amely mindenki számára azonos feltételek mellett látogatható.
+e) gyűlés a gyülekezési jogról szóló törvény hatálya alá tartozó gyűlés,
+
+f) nyilvános rendezvény a gyűlés kivételével olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll.
 
 (3) E törvény
 

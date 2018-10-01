@@ -6,7 +6,7 @@ a) verekszik, továbbá aki mást verekedésre felhív,
 
 b) rendzavarás vagy garázdaság esetén a hatóság vagy az eljáró hivatalos személy intézkedésével szemben engedetlenséget tanúsít,
 
-c) a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvényen vagy a sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó sportrendezvényen az arcát olyan módon eltakarva jelenik meg vagy tartózkodik, amely alkalmas arra, hogy meghiúsítsa a személyének a hatóság vagy az eljáró hivatalos személy által történő azonosítását,
+c) a sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó sportrendezvényen az arcát olyan módon eltakarva jelenik meg vagy tartózkodik, amely alkalmas arra, hogy meghiúsítsa a személyének a hatóság vagy az eljáró hivatalos személy által történő azonosítását,
 
 szabálysértést követ el.
 
