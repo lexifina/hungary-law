@@ -2,4 +2,4 @@
 
 14. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^18]
 
-[^18]: A 14. melléklet az 5/2018. (VI. 29.) MEKH rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^18]: A 14. melléklet a 9/2018. (IX. 28.) MEKH rendelet 1. § (3) bekezdésével megállapított szöveg.
