@@ -1,4 +1,4 @@
-## 16. §[^7]
+## 16. §[^6]
 
 ## 5. Záró rendelkezések
 
@@ -12,4 +12,4 @@ a) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irány
 
 b) a 93/49/EGK irányelvnek a Palmae családba tartozó egyes nemzetségek és fajok szaporítóanyagai által a Rhynchophorus ferrugineus (Olivier) vonatkozásában teljesítendő követelmények tekintetében történő módosításáról szóló, 2018. március 21-i 2018/484/EU bizottsági végrehajtási irányelvnek
 
-[^7]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
