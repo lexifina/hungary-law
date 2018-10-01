@@ -40,7 +40,7 @@ d) a Magyar Tudományos Akadémia Energiatudományi Kutatóközpont,
 
 e) a Budapesti Műszaki és Gazdaságtudományi Egyetem Nukleáris Technikai Intézete,
 
-f)[^8] az Országos Közegészségügyi Intézet,
+f)[^8]
 
 g)[^9] az országos tisztifőorvos,
 
@@ -57,6 +57,6 @@ h)[^10] az oktatásért felelős miniszter.
 [^5]: Az 1. § (2) bekezdés m) pontját a 70/2018. (IV. 9.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^6]: Az 1. § (3) bekezdés nyitó szövegrésze a 294/2014. (XI. 26.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (3) bekezdés b) pontja a 70/2018. (IV. 9.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
-[^8]: Az 1. § (3) bekezdés f) pontja a 30/2015. (II. 25.) Korm. rendelet 82. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 234. § a) pontjával megállapított szöveg.
+[^8]: Az 1. § (3) bekezdés f) pontját a 162/2018. (IX. 10.) Korm. rendelet 23. §-a hatályon kívül helyezte.
 [^9]: Az 1. § (3) bekezdés g) pontját a 294/2014. (XI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 234. § b) pontjával megállapított szöveg.
 [^10]: Az 1. § (3) bekezdés h) pontját a 294/2014. (XI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be.

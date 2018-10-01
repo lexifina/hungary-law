@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-213-20-
 | 2017-07-01 | 2013-213-20-22.7 | 294/2014. (XI. 26.) Korm. rendelet |
 | 2018-04-10 | 2013-213-20-22.8 | 70/2018. (IV. 9.) Korm. rendelet |
 | 2018-06-12 | 2013-213-20-22.9 | 294/2014. (XI. 26.) Korm. rendelet |
+| 2018-10-01 | 2013-213-20-22.10 | 162/2018. (IX. 10.) Korm. rendelet |
