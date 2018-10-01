@@ -1,6 +1,6 @@
 ## Nyilvánosság tájékoztatása
 
-11. § (1)[^36] A helyszíni szemle és a vizsgálatok eredményét az azokat végző laboratórium haladéktalanul, de legkésőbb a vizsgálatok befejezését követő 24 órán belül – a hét utolsó munkanapján kapott eredményeket a következő hét első munkanapján – megküldi a fürdőhely üzemeltetőjének, a járási hivatalnak és a megyei kormányhivatalnak, valamint az OKI-nak értékelés és a nyilvánosság tájékoztatása céljából.
+11. § (1)[^36] A helyszíni szemle és a vizsgálatok eredményét az azokat végző laboratórium haladéktalanul, de legkésőbb a vizsgálatok befejezését követő 24 órán belül – a hét utolsó munkanapján kapott eredményeket a következő hét első munkanapján – megküldi a fürdőhely üzemeltetőjének, a járási hivatalnak és a megyei kormányhivatalnak, valamint az NNK-nak értékelés és a nyilvánosság tájékoztatása céljából.
 
 (2)[^37] A fürdővíz minőségére vonatkozó adatok közérdekűek. A nyilvánosság fürdővizekkel kapcsolatos tájékoztatását a (3)–(9) bekezdések alapján kell biztosítani. A víz minőségéről és annak az egészségre gyakorolt hatásáról – kérelemre – a járási hivatal, illetve a megyei kormányhivatal felvilágosítást ad.
 
@@ -74,7 +74,7 @@ a) az emelkedett cianobaktérium-burjánzással összefüggő egészségügyi ko
 
 b) a makroalgák elszaporodásának tendenciájáról és az ezzel összefüggő egészségügyi kockázatról.
 
-[^36]: A 11. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés h) pontja, a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^36]: A 11. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés h) pontja, a 162/2018. (IX. 10.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
 [^37]: A 11. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés i) pontja szerint módosított szöveg.
 [^38]: A 11. § (3) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^39]: A 11. § (5) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
