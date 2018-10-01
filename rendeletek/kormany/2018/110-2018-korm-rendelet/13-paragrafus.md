@@ -1,0 +1,5 @@
+## 12. § A Rendelet 15. és 16. §-a helyébe a következő rendelkezések lépnek:
+
+## „15. § Az engedéllyel üzemelő veszélyes katonai objektum honvédségi üzemeltetője által elvégzett felülvizsgálat eredményeként módosított, illetve kiegészített biztonsági dokumentáció alapján a veszélyes katonai objektum felügyeleti hatóság az üzemeltetési engedélyt meghosszabbítja, illetve meghatározza a meghosszabbítás feltételeit.
+
+## 16. § Ha a kockázat szintje meghaladja az elfogadható szintet, vagy a honvédségi üzemeltető által tervezett intézkedések nem elégségesek a veszélyes anyaggal kapcsolatos honvédségi súlyos balesetek megelőzéséhez és a veszélyeztető hatások mérsékléséhez, a veszélyes katonai objektum felügyeleti hatóság a honvédségi üzemeltetőt olyan kiegészítő intézkedések megtételére kötelezi, amelyek eredményeképpen a kockázat szintje elfogadható mértékűre csökken. A kiegészítő intézkedések érinthetik a biztonsági dokumentáció tartalmát, illetve az ezekben szereplő feladatok végrehajtási feltételeit.”
