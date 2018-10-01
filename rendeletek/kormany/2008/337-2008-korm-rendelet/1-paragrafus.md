@@ -62,7 +62,7 @@ c) fizioterápia, dietetika, pszichológia, pedagógiai végzettséggel ellátha
 
 (8)[^27] Az országos tisztifőorvos hivatalból indult eljárás keretében állapítja meg a Tv. 1. § (2) bekezdés i) pont if) alpontja szerinti szakellátási kapacitás egységet. A Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) az országos tisztifőorvos megkeresésére – a jogszabályban előírt finanszírozási szolgáltatási egység figyelembevételével – javaslatot tesz a kapacitás egységére. A NEAK a javaslatáról a megkereséstől számított 8 napon belül tájékoztatja az országos tisztifőorvost.
 
-(9)[^28] Az országos tisztifőorvos a szakellátási kapacitás egységének (8) bekezdés szerinti megállapítását követően tájékoztatja a NEAK-ot az érintett kapacitás egységéről. Ezt követő 5 napon belül a NEAK tájékoztatja az országos tisztifőorvost az érintett kapacitás tekintetében az ellátást végző összes – finanszírozási szerződéssel rendelkező – egészségügyi szolgáltató kapacitásadatairól. Az országos tisztifőorvos a kapacitás-nyilvántartásban rögzíti a Tv. 5/A. § (8b) és (8c) bekezdése szerinti adatokat.
+(9)[^28] Az országos tisztifőorvos a szakellátási kapacitás egységének (8) bekezdés szerinti megállapítását követően tájékoztatja a NEAK-ot és az egészségügyért felelős minisztert az érintett kapacitás egységéről. Ezt követő 5 napon belül a NEAK tájékoztatja az országos tisztifőorvost az érintett kapacitás tekintetében az ellátást végző összes – finanszírozási szerződéssel rendelkező – egészségügyi szolgáltató kapacitásadatairól. Az országos tisztifőorvos a kapacitás-nyilvántartásban rögzíti a Tv. 5/A. § (8b) és (8c) bekezdése szerinti adatokat.
 
 [^1]: Az 1. §-t megelőző alcímet a 125/2013. (IV. 26.) Korm. rendelet 8. §-a iktatta be.
 [^2]: Az 1. § (1) bekezdés a) pontja a 447/2012. (XII. 29.) Korm. rendelet 48. §-ával megállapított, a 125/2013. (IV. 26.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
@@ -91,4 +91,4 @@ c) fizioterápia, dietetika, pszichológia, pedagógiai végzettséggel ellátha
 [^25]: Az 1. § (6) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 13/2012. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^26]: Az 1. § (7) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 58. § (2) bekezdése iktatta be.
 [^27]: Az 1. § (8) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 46. §-a iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^28]: Az 1. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 46. §-a iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^28]: Az 1. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 46. §-a iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 18. § (2) bekezdésével megállapított, a 162/2018. (IX. 10.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
