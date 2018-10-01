@@ -28,7 +28,7 @@
 
 11. a kötelezettségvállalás, pénzügyi ellenjegyzés, szakmai teljesítés igazolása, utalványozás, érvényesítés jogosultsági és összeférhetetlenségi szabályait, eljárásrendjét, a 36. § (3) bekezdése szerinti eseteket, a kötelezettségvállalás 36. § (6) bekezdése szerinti további feltételeit, a Kormány által egyedileg jóváhagyott többéves kiadási kötelezettséget jelentő fejlesztési programok kötelezettségvállalásának szabályait, a 36. § (1) bekezdése szerinti kivételeket, valamint a fedezet rendelkezésre állásának vizsgálatára és a kötelezettségek nyilvántartására vonatkozó előírásokat,
 
-12. a költségvetési főfelügyelő, felügyelő megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, feladatait, intézkedéseit, a 39. § (2) bekezdés szerinti nagy összegű kötelezettségvállalás fogalmát, a költségvetési főfelügyelő, felügyelő tevékenységével, helyettesítésével, beszámolásával kapcsolatos szabályokat,
+12. a költségvetési felügyelő megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, feladatait, intézkedéseit, a 39. § (2) bekezdés szerinti nagy összegű kötelezettségvállalás fogalmát, a költségvetési felügyelő tevékenységével, helyettesítésével, beszámolásával kapcsolatos szabályokat,
 
 13.
 

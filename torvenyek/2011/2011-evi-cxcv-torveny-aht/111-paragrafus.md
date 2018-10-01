@@ -12,7 +12,7 @@
 
 (6) Az (5) bekezdésben meghatározott azonosítás sikertelensége esetén a hiányzó személyes adatok feltöltését a kincstár hibakezelési eljárás keretében egyedileg hajtja végre a rendelkezésre álló adatok, illetve iratok alapján.
 
-(7)
+(7) Azon kincstári körön kívüli számlatulajdonosok, amelyek a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított 79. § (3) bekezdése értelmében értékpapírszámlával nem rendelkezhetnek, a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvény hatálybalépésekor meglévő értékpapírszámláikat azok lejáratáig fenntarthatják.
 
 (8)
 

@@ -8,15 +8,25 @@ a kincstár számára.
 
 (2) A helyi önkormányzat, a nemzetiségi önkormányzat és a társulás (1) bekezdés szerinti adatszolgáltatása akkor tekinthető teljesítettnek, ha azt az általa irányított költségvetési szervek is teljesítették.
 
-(3) Ha az adatszolgáltatás kötelezettje, a (2) bekezdés szerinti esetben a helyi önkormányzat
+(3) Ha az adatszolgáltatás kötelezettje
 
 a) adatszolgáltatása az adatszolgáltatás tárgyával kapcsolatos lényegesnek minősülő információt nem tartalmaz vagy tévesen mutat be, vagy
 
 b) adatszolgáltatási kötelezettségét neki felróható okból nem vagy késedelmesen teljesíti,
 
-a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a kincstár határozatban szab ki.
+a kincstár határozatban a Kormány rendeletében meghatározott mértékű bírságot szab ki.
 
-(3a) Ha az adatszolgáltatás kötelezettje olyan helyi önkormányzat vagy az irányítása alá tartozó költségvetési szerv, amely tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolgáltatási és beszámolási feladatai ellátásáról közös önkormányzati hivatal gondoskodik, a bírságot a közös önkormányzati hivatal székhelye szerinti helyi önkormányzattal szemben kell kiszabni.
+(3a) A bírságot
+
+a) ha az adatszolgáltatás kötelezettje olyan helyi önkormányzat vagy az irányítása alá tartozó költségvetési szerv, amely tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolgáltatási és beszámolási feladatai ellátásáról közös önkormányzati hivatal gondoskodik, a közös önkormányzati hivatal székhelye szerinti helyi önkormányzattal szemben,
+
+b) ha az adatszolgáltatás kötelezettje az a) pont hatálya alá nem tartozó helyi önkormányzat vagy az irányítása alá tartozó költségvetési szerv, a helyi önkormányzattal szemben,
+
+c) ha az adatszolgáltatás kötelezettje társulás, nemzetiségi önkormányzat, valamint az ezek irányítása alá tartozó költségvetési szerv, a tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolgáltatási és beszámolási feladatai ellátásáról gondoskodó költségvetési szerv irányító szervével szemben,
+
+d) más esetben az adatszolgáltatás kötelezettjével szemben
+
+kell kiszabni.
 
 (4) A (3) bekezdés a) pontjának alkalmazásában lényegesnek minősül az adatszolgáltatás szempontjából minden olyan információ, amelynek elhagyása vagy téves bemutatása – közvetlenül és hátrányosan – befolyásolja az adatszolgáltatásban közölt adatokat felhasználók döntéseit.
 

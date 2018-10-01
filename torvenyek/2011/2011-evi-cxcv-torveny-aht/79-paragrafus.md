@@ -30,19 +30,27 @@ k) a Nemzeti Üdülési Szolgálat
 
 (2a) A kincstári körön kívüli számlatulajdonos kérelmére a (2) bekezdésben meghatározott kötelezettség teljesítése alól az államháztartásért felelős miniszter felmentést adhat.
 
-(3) A (2a) bekezdés szerinti felmentéssel nem rendelkező kincstári körön kívüli számlatulajdonosok – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap kivételével – hitelintézetnél forintban vezetett fizetési számlával – az általuk foglalkoztatott személyek lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla kivételével – nem rendelkezhetnek.
+(3) A kincstári körön kívüli számlatulajdonosok – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap, valamint a (2a) bekezdés szerinti felmentéssel rendelkező kincstári körön kívüli számlatulajdonos kivételével – hitelintézetnél forintban vezetett fizetési számlával – az általuk foglalkoztatott személyek lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla kivételével –, valamint értékpapírszámlával nem rendelkezhetnek, értékpapírt nem vásárolhatnak.
 
-(3a) A kincstári körön kívüli számlatulajdonosok – a (2) bekezdés e), f) és j) pontjában meghatározott kincstári körön kívüli számlatulajdonosok kivételével – értékpapírszámlával nem rendelkezhetnek. A (2) bekezdés f) és j) pontjában meghatározott kincstári körön kívüli számlatulajdonosok átmenetileg szabad pénzeszközeiket kizárólag a kincstár által értékesített, értékpapírszámlán, értékpapír-letéti számlán nyilvántartott állampapírok vásárlásával hasznosíthatják.
+(3a)
 
 (4) A kincstár vezeti a helyi önkormányzat megbízása esetén a helyi önkormányzat és költségvetési szervei, a nemzetiségi önkormányzat megbízása esetén a nemzetiségi önkormányzat és költségvetési szervei, a társulás megbízása esetén a társulás és költségvetési szervei, valamint az (1) bekezdésben meghatározotton kívüli, más köztestület megbízása esetén a köztestület fizetési számláját.
 
-(4a) A kincstár fizetési számlát vezet a bevett egyház megbízása esetén a bevett egyház számára, illetve a törvény által az államháztartás központi alrendszerébe sorolt köztestület kizárólagos tulajdonában álló gazdasági társaság megbízása esetén az ilyen gazdasági társaság számára.
+(4a) A kincstár fizetési számlát vezet
+
+a) a bevett egyház megbízása esetén a bevett egyház számára,
+
+b) törvény által az államháztartás központi alrendszerébe sorolt köztestület kizárólagos tulajdonában álló gazdasági társaság megbízása esetén a gazdasági társaság számára,
+
+c) a (4b)–(4d) bekezdés szerinti esetekben,
+
+d) ha törvény vagy kormányrendelet meghatározott pénzeszközök kezelését a kincstárnál vezetett fizetési számlán írja elő.
 
 (4b) A kincstár a 4/A. § (5) bekezdése szerinti pénzeszközök elkülönítésére letéti és más sajátos elszámolási, lebonyolítási számlákat vezethet.
 
-(4c) Ha a települési önkormányzat 84. § (1) bekezdése szerinti fizetési számláját nem a kincstár vezeti, a 84. § (1) bekezdése szerinti fizetési számlája mellett az európai uniós forrásból nyújtott költségvetési támogatások fogadására a kincstárnál fizetési számlát vezethet.
+(4c) Ha a helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás 84. § (1) bekezdése szerinti fizetési számláját nem a kincstár vezeti, a 84. § (1) bekezdése szerinti fizetési számlája mellett az 51. § (4) bekezdése szerinti költségvetési támogatások fogadására a kincstárnál fizetési számlát vezethet.
 
-(4d) A kincstár fizetési számlát vezet a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság megbízása esetén az ilyen gazdasági társaság számára az európai uniós forrásból nyújtott költségvetési támogatások fogadására.
+(4d) A kincstár fizetési számlát vezet a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság megbízása esetén az ilyen gazdasági társaság számára 51. § (4) bekezdése szerinti költségvetési támogatások fogadására.
 
 (5) A kincstár az (1)–(4a) bekezdés szerinti tevékenysége és az általa nyújtott szolgáltatások után jutalékot, díjat számolhat fel, azonban – a felsőoktatási intézményekben állami részösztöndíjas és önköltséges tanulmányokat folytató hallgatók által fizetett önköltség és az államháztartáson kívülről érkező adományok elkülönített kezelésére a felsőoktatási intézmény számára jogszabályban foglaltak alapján vezetett fizetési számla pénzeszközei kivételével – kamatot nem fizethet. A kincstár jogosult az általa vezetett fizetési számlák megterhelésével továbbhárítani a pénzforgalmi szolgáltatások díját, továbbá jogszabályban meghatározott más esetben azokat megterhelni.
 
