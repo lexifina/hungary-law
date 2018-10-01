@@ -4,7 +4,7 @@
 
 a) egyetemes szolgáltatói árrés: a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 32. §-a szerinti egyetemes szolgáltatóra 2016-ban elvégzett költség-felülvizsgálat alapján megállapított árelem,
 
-b)[^1] éves elszámolási elem: a szállítás és tárolás indokolt költségének terv- és tényértéke közötti különbségéből adódó többlet vagy veszteség, az egyetemes szolgáltató ellátásához kötődő – a kiegyensúlyozó földgáz forgalmat elszámoló fél által előírt – biztosíték fenntartásával kapcsolatos költség, a kiegyensúlyozó célra értékesített földgáz termékekkel történő kereskedés során realizált nyereség, valamint a kiegyensúlyozási célra felhasznált szállítóvezeték-készlet elszámolása során fizetett hiányok vagy többletek nettó eredményének éves elszámolására szolgáló árelem,
+b)[^1] éves elszámolási elem: a szállítás és tárolás, az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló rendelet szerinti indokolt költsége és a GET 141/A. § és a GET 141/J. § szerinti szerződés alapján érvényesített szállítási és tárolási rendszerhasználati díj bevétel közötti különbségéből adódó többlet vagy veszteség, az egyetemes szolgáltató ellátásához kötődő – a kiegyensúlyozó földgáz forgalmat elszámoló fél által előírt – biztosíték fenntartásával kapcsolatos költség, a kiegyensúlyozó célra értékesített földgáz termékekkel történő kereskedés során realizált nyereség, valamint a kiegyensúlyozási célra felhasznált szállítóvezeték-készlet elszámolása során fizetett hiányok vagy többletek nettó eredményének éves elszámolására szolgáló árelem,
 
 c) induló érték: az árrés 2017. január 1-jétől alkalmazott értéke,
 
@@ -16,5 +16,5 @@ f)[^2] téli juttatási elem: az egyetemes szolgáltatást igénybe vevő lakoss
 
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a GET, valamint a felhatalmazása alapján kiadott jogszabályok rendelkezései szerint kell értelmezni.
 
-[^1]: A 2. § (1) bekezdés b) pontja a 38/2017. (IX. 29.) NFM rendelet 14. §-ával megállapított szöveg.
+[^1]: A 2. § (1) bekezdés b) pontja a 38/2017. (IX. 29.) NFM rendelet 14. §-ával megállapított, a 19/2018. (IX. 27.) ITM rendelet 8. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés f) pontját a 8/2018. (III. 28.) NFM rendelet 10. §-a iktatta be.
