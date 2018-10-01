@@ -1,0 +1,1 @@
+217/C. § Aki megtiltott gyűlést szervez, vagy azon való részvételre a gyülekezési jogról szóló törvény szerint felhív, ha más bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.

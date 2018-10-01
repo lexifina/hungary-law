@@ -12,6 +12,6 @@ c) fegyveresen,
 
 d) felfegyverkezve vagy
 
-e) nyilvános rendezvényen
+e) nyilvános rendezvényen vagy gyűlésen
 
 követik el.

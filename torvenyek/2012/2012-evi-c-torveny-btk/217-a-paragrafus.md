@@ -1,0 +1,1 @@
+217/A. § Aki a gyűlésen a gyűlés szervezőjének, vezetőjének vagy a rendezőknek rendezői feladataik jogszerű teljesítése során erőszakkal vagy fenyegetéssel ellenszegül, vagy őket rendezői feladataik ellátása alatt bántalmazza, ha más bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.

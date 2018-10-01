@@ -12,7 +12,7 @@ a) a bűncselekmény elkövetésében részt vett, meghatározott személlyel ne
 
 b) a bűncselekmény sértettjétől, illetve annak lakásától, munkahelyétől, vagy attól a nevelési-oktatási intézménytől, ahová a sértett jár, továbbá a sértett által rendszeresen látogatott helytől tartsa távol magát,
 
-c) meghatározott jellegű nyilvános helyeket és nyilvános rendezvényeket, meghatározott közterületeket ne látogasson,
+c) meghatározott jellegű nyilvános helyeket és nyilvános rendezvényeket, valamint gyűléseket, meghatározott közterületeket ne látogasson,
 
 d) nyilvános helyen ne fogyasszon szeszes italt,
 

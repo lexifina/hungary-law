@@ -178,7 +178,9 @@ e) az 1998. évi X. törvénnyel kihirdetett Gyalogsági aknák alkalmazásának
 
 f) a 2012. évi XI. törvénnyel kihirdetett, a Kazettás Lőszerekről szóló Egyezmény 2. Cikk 2. pontjában meghatározott kazettás lőszer, valamint 2. Cikk 13. pontjában meghatározott kisméretű ejtőlőszer;
 
-24. nyilvános rendezvény: a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, továbbá az olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll;
+24. gyűlés: a gyülekezési jogról szóló törvény hatálya alá tartozó gyűlés;
+
+24a. nyilvános rendezvény: a gyűlés kivételével olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll;
 
 25. prostitúció a rendszeres haszonszerzés céljából történő szexuális cselekmény végzése;
 
@@ -194,7 +196,7 @@ d) az emberrablás [190. § (1)–(4) bekezdés], az emberkereskedelem [192. § 
 
 e) a szexuális kényszerítés (196. §), a szexuális erőszak [197. § (1)–(4) bekezdés],
 
-f) a lelkiismeret és vallásszabadság megsértése (215. §), a közösség tagja elleni erőszak [216. § (2)–(3) bekezdés], az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése (217. §),
+f) a lelkiismeret és vallásszabadság megsértése (215. §), a közösség tagja elleni erőszak [216. § (2)–(3) bekezdés], az egyesülési és a gyülekezési szabadság megsértése [217. § (1) bekezdés];
 
 g) az alkotmányos rend erőszakos megváltoztatása [254. § (1) bekezdés], a lázadás [256. § (1)–(2) bekezdés],
 

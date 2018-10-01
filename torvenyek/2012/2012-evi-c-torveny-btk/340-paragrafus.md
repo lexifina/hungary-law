@@ -1,6 +1,6 @@
 ## Rendbontás
 
-340. § (1) Aki nyilvános rendezvény szervezőjének vagy rendezőjének a rend fenntartása érdekében tett jogszerű intézkedésével szemben erőszakkal vagy fenyegetéssel ellenállást tanúsít, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+340. § (1) Aki nyilvános rendezvény vagy gyűlés szervezőjének vagy rendezőjének a rend fenntartása érdekében tett jogszerű intézkedésével szemben erőszakkal vagy fenyegetéssel ellenállást tanúsít, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Ha súlyosabb bűncselekmény nem valósul meg, az (1) bekezdés szerint büntetendő, aki sportrendezvényen a létesítménynek a nézőktől vagy a nézők meghatározott csoportjától elzárt területére jogosulatlanul belép, ott tartózkodik, vagy e területre a sportrendezvény megtartását vagy mások testi épségét veszélyeztető tárgyat bedob.
 
@@ -12,7 +12,9 @@ b) fegyveresen,
 
 c) felfegyverkezve vagy
 
-d) különös visszaesőként
+d) különös visszaesőként,
+
+e) a gyűlés gyülekezési jogról szóló törvény szerinti békés jellegét biztosító korlátozásokat megsértve
 
 követik el.
 
