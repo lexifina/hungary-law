@@ -1,8 +1,8 @@
 ## számolható el.
 
-8/Q. §[^77] (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás beruházási támogatásként sportlétesítmény és multifunkcionális szabadidős létesítmény építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható.
+8/Q. §[^78] (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás beruházási támogatásként sportlétesítmény és multifunkcionális szabadidős létesítmény építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható.
 
-(2)[^78] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás összege nem haladhatja meg 30 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége nem haladhatja meg az 100 millió eurónak megfelelő forintösszeget.
+(2)[^79] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás összege nem haladhatja meg 30 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége nem haladhatja meg az 100 millió eurónak megfelelő forintösszeget.
 
 (3) A támogatott sportlétesítmény, multifunkcionális szabadidős létesítmény építésével, bővítésével, korszerűsítésével, működtetésével, üzemeltetésével történő megbízás odaítélése során átlátható és megkülönböztetés-mentes módon, a vonatkozó jogszabályok figyelembevételével kell eljárni.
 
@@ -14,5 +14,5 @@
 
 (7) Az 1/A. § 18. pontja szerinti ellenszolgáltatásnak meg kell haladnia a részvételi költségeket és a sportoló jövedelmének jelentős részét kell kitennie függetlenül attól, hogy a sportoló és az érintett sportvállalkozás kötött-e munka- vagy más, munkavégzésre irányuló szerződést. Nem minősül ellenszolgáltatásnak a sportrendezvényen való részvételhez kapcsolódó utazási és szállásköltségek megtérítése.
 
-[^77]: A 8/Q. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
-[^78]: A 8/Q. § (2) bekezdése a 436/2017. (XII. 22.) Korm. rendelet 26. § 21. pontja szerint módosított szöveg.
+[^78]: A 8/Q. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^79]: A 8/Q. § (2) bekezdése a 436/2017. (XII. 22.) Korm. rendelet 26. § 21. pontja szerint módosított szöveg.

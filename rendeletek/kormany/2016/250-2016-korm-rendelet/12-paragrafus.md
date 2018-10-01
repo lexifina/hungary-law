@@ -1,4 +1,4 @@
-12. §[^95] (1) A támogatói okirat módosításáról, ha a módosítás
+12. §[^96] (1) A támogatói okirat módosításáról, ha a módosítás
 
 a) az MVP támogatásnak a Bizottság 5. § (8) bekezdése szerinti jegyzőkönyvében megállapított feltételét érinti, a Bizottság,
 
@@ -8,4 +8,4 @@ b) az MVP támogatásnak a Kormány nyilvános egyedi határozatában megállap�
 
 (2) Az Ávr. 95. § (2) bekezdésében foglaltakon túl a támogatói okirat akkor is módosítható, ha azért szükséges többlet MVP támogatás biztosítása, mert az a projekt megvalósításához kapcsolódóan lebonyolított közbeszerzési eljárás megvalósításához szükséges és ehhez a megfelelő fedezet nem áll rendelkezésre. Az ehhez szükséges előirányzat rendelkezésre bocsátásáról – az (1) bekezdésben meghatározott döntés alapján – az államháztartásért felelős miniszter gondoskodik.
 
-[^95]: A 12. § a 436/2017. (XII. 22.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^96]: A 12. § a 436/2017. (XII. 22.) Korm. rendelet 21. §-ával megállapított szöveg.

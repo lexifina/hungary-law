@@ -1,4 +1,4 @@
-8/Y. §[^87] (1) Nem nyújtható MVP támogatás
+8/Y. §[^88] (1) Nem nyújtható MVP támogatás
 
 a) ellátási vagy bekeverési kötelezettség hatálya alatt álló bioüzemanyagokhoz,
 
@@ -8,4 +8,4 @@ b) a 2000/60/EK európai parlamenti és tanácsi irányelvben meghatározott fel
 
 (3) Az e § szerinti jogcímen nem ítélhető meg MVP támogatás a beruházás működéséhez.
 
-[^87]: A 8/Y. §-t a 436/2017. (XII. 22.) Korm. rendelet 17. §-a iktatta be.
+[^88]: A 8/Y. §-t a 436/2017. (XII. 22.) Korm. rendelet 17. §-a iktatta be.

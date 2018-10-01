@@ -1,4 +1,4 @@
-8/S. §[^81] (1) Helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás helyi infrastruktúra építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható, ha ezen infrastruktúra helyi szinten hozzájárul az üzleti és a fogyasztói környezet korszerűsítéséhez és ipari bázisok fejlesztéséhez.
+8/S. §[^82] (1) Helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás helyi infrastruktúra építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható, ha ezen infrastruktúra helyi szinten hozzájárul az üzleti és a fogyasztói környezet korszerűsítéséhez és ipari bázisok fejlesztéséhez.
 
 (2) A helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás összege egyazon infrastruktúra esetén nem haladhatja meg a 10 millió eurónak megfelelő forintösszeget vagy a fejlesztés összköltsége nem haladhatja meg a 20 millió eurónak megfelelő forintösszeget.
 
@@ -18,4 +18,4 @@ a) megalapozott előrejelzések alapján kell meghatározni és előzetesen, vag
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-[^81]: A 8/S. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^82]: A 8/S. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

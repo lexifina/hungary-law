@@ -1,6 +1,6 @@
 ## kell levonni az elszámolható költségekből.
 
-8/X. §[^86] (1) A megújuló energia termeléséhez nyújtott beruházási támogatás vállalkozásonként és beruházásonként nem haladhatja meg a 15 millió eurónak megfelelő forintösszeget.
+8/X. §[^87] (1) A megújuló energia termeléséhez nyújtott beruházási támogatás vállalkozásonként és beruházásonként nem haladhatja meg a 15 millió eurónak megfelelő forintösszeget.
 
 (2) Bioüzemanyag előállításához abban az esetben nyújtható MVP támogatás, ha a beruházás fenntartható bioüzemanyag előállítására irányul.
 
@@ -20,4 +20,4 @@ b) 30%-át a 8/Z. § (4) bekezdése esetén.
 
 (8) Megújuló energia termeléséhez nyújtott beruházási támogatás kizárólag új berendezéshez nyújtható.
 
-[^86]: A 8/X. §-t a 436/2017. (XII. 22.) Korm. rendelet 17. §-a iktatta be.
+[^87]: A 8/X. §-t a 436/2017. (XII. 22.) Korm. rendelet 17. §-a iktatta be.
