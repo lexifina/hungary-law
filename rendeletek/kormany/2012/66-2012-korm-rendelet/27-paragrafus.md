@@ -6,38 +6,37 @@
 
 (3)[^111] Ha ismert gyógyszeranyag vagy gyógyszer jegyzékre vétele vagy új besorolása válik szükségessé, az OGYÉI állásfoglalása alapján a miniszter e szernek a Gytv. 2. számú mellékletére, és egyidejűleg az 1. melléklet megfelelő jegyzékére történő felvétele érdekében megteszi a szükséges intézkedéseket.
 
-(4)[^112] Ha információcsere keretében a belföldi vagy külföldi forgalomban feltételezett új pszichoaktív anyag jelenik meg, az Emberi Erőforrások Minisztériuma a szakmai értékelés érdekében, a rendőrség, az OGYÉI és a Kábítószerügyi Koordinációs Bizottság (a továbbiakban: KKB) előzetes megkeresését követően megvizsgálja a Gytv. 15/B. § (3) bekezdésében foglaltakat.
+(4)[^112] Ha információcsere keretében a belföldi vagy külföldi forgalomban feltételezett új pszichoaktív anyag jelenik meg, az Országos Addiktológiai Centrum (a továbbiakban: OAC) a szakmai értékelés érdekében, a rendőrség, az OGYÉI és a Kábítószerügyi Koordinációs Bizottság (a továbbiakban: KKB) előzetes megkeresését követően megvizsgálja a Gytv. 15/B. § (3) bekezdésében foglaltakat.
 
-(5)[^113] Ha az egészségügyért felelős miniszter megállapítja, hogy a Gytv. 15/B. § (3) bekezdésében foglaltak együttesen fennállnak, a feltételezett új pszichoaktív anyagot listára veszi az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletbe.
+(5)[^113] Ha az OAC megállapítja, hogy a Gytv. 15/B. § (3) bekezdésében foglaltak együttesen fennállnak, kezdeményezi az egészségügyért felelős miniszternél a feltételezett új pszichoaktív anyag listára vételét az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletbe.
 
-(6)[^114] Új pszichoaktív anyagnak az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben történő kihirdetését követő kockázatértékelését az egészségügyért felelős miniszter végzi. A kockázatértékelés során az egészségügyért felelős miniszter vizsgálja, hogy
+(6)[^114] Új pszichoaktív anyagnak az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben történő kihirdetését követő kockázatértékelését az OAC végzi. A kockázatértékelés során az OAC vizsgálja, hogy
 
 a) a kérdéses anyag kiválthat-e függőségi állapotot és a központi idegrendszer izgalmát vagy depresszióját, melyek hallucinációkat vagy motoros vagy ítélőképességi vagy magatartásbeli vagy felfogóképességi vagy kedélyállapoti zavarokat hoznak létre, vagy a P1, P2, P3 vagy P4 jegyzéken szereplő valamely anyaghoz hasonló visszaélést és káros hatást, és
 
 b)[^115] okkal feltételezhető-e, hogy az anyag közegészségügyi és szociális problémát jelentő olyan visszaélésre ad vagy adhat lehetőséget, amely indokolja annak a Gytv. 2. számú mellékletére történő felvételét.
 
-(7)[^116] Az egészségügyért felelős miniszter a kockázatértékelés eredményére figyelemmel
+(7)[^116] Az OAC a kockázatértékelés eredményére figyelemmel kezdeményezi a miniszternél
 
-a) a kockázatértékelés idejét egy évvel meghosszabbítja, vagy
+a) a kockázatértékelés idejének egy évvel történő meghosszabbítását,
 
-b)[^117] az anyagot a Gytv. 2. számú mellékletére felveszi, vagy
+b) az anyagnak a Gytv. 2. számú mellékletére történő felvételét vagy
 
-c) az anyagot az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletből törli és az 1. melléklet D) jegyzékére áthelyezi.
+c) az anyagnak az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletből történő törlését és az 1. melléklet D) jegyzékére történő felvételét.
 
-(8)[^118]
+(8)[^117]
 
-(9)[^119] Az egészségügyért felelős miniszter az értékeléshez bekéri az OGYÉI és az egészségügyi szakmai kollégium véleményét, továbbá a szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló kormányrendelet szerint szakvélemény adására kizárólagosan kijelölt szervek és a rendőrség birtokában lévő, az adott szer kóros élvezetére utaló információkat és a KKB állásfoglalását.
+(9)[^118] Az OAC az értékeléshez bekéri az OGYÉI és az egészségügyi szakmai kollégium véleményét, valamint a Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ (a továbbiakban: Nemzeti Drog Fókuszpont), továbbá a szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló kormányrendelet szerint szakvélemény adására kizárólagosan kijelölt szervek és a rendőrség birtokában lévő, az adott szer kóros élvezetére utaló információkat és a KKB állásfoglalását.
 
-(10)[^120] Nem alkalmazható a Gytv. 15/C. § (2) bekezdése szerinti kockázatértékelési kötelezettség az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben szereplő vegyületcsoportok vonatkozásában. A vegyületcsoport mindaddig az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben marad, amíg van olyan, a vegyületcsoporthoz tartozó anyag, amely esetében fennállnak a (4) bekezdésben foglalt feltételek, vagy nem szerepel valamennyi anyag valamely más jegyzéken.
+(10)[^119] Nem alkalmazható a Gytv. 15/C. § (2) bekezdése szerinti kockázatértékelési kötelezettség az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben szereplő vegyületcsoportok vonatkozásában. A vegyületcsoport mindaddig az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben marad, amíg van olyan, a vegyületcsoporthoz tartozó anyag, amely esetében fennállnak a (4) bekezdésben foglalt feltételek, vagy nem szerepel valamennyi anyag valamely más jegyzéken.
 
 [^110]: A 27. § (2) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
 [^111]: A 27. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés g) pontja, a 464/2016. (XII. 23.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
-[^112]: A 27. § (4) bekezdése a 30/2015. (II. 25.) Korm. rendelet 65. § h) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés h) pontja szerint módosított szöveg.
-[^113]: A 27. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 199. § (6) bekezdésével megállapított szöveg.
-[^114]: A 27. § (6) bekezdés nyitó szövegrésze a 367/2014. (XII. 30.) Korm. rendelet 4. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés i) pontja szerint módosított szöveg.
+[^112]: A 27. § (4) bekezdése a 30/2015. (II. 25.) Korm. rendelet 65. § h) pontja, a 162/2018. (IX. 10.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^113]: A 27. § (5) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^114]: A 27. § (6) bekezdés nyitó szövegrésze a 367/2014. (XII. 30.) Korm. rendelet 4. § c) pontja, a 162/2018. (IX. 10.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
 [^115]: A 27. § (6) bekezdés b) pontja a 464/2016. (XII. 23.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
-[^116]: A 27. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 199. § (7) bekezdésével megállapított szöveg.
-[^117]: A 27. § (7) bekezdés b) pontja a 464/2016. (XII. 23.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
-[^118]: A 27. § (8) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 53. § b) pontja hatályon kívül helyezte.
-[^119]: A 27. § (9) bekezdése a 30/2015. (II. 25.) Korm. rendelet 65. § h) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés j) pontja és (9) bekezdése szerint módosított szöveg.
-[^120]: A 27. § (10) bekezdése a 367/2014. (XII. 30.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^116]: A 27. § (7) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^117]: A 27. § (8) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 53. § b) pontja hatályon kívül helyezte.
+[^118]: A 27. § (9) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^119]: A 27. § (10) bekezdése a 367/2014. (XII. 30.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

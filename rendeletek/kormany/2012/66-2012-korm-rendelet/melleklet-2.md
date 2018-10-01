@@ -844,7 +844,7 @@
 
 ## D) AZ ÚJ PSZICHOAKTÍV ANYAGGÁ MINŐSÍTETT ANYAGOKRÓL VAGY VEGYÜLETCSOPORTOKRÓL SZÓLÓ MINISZTERI RENDELETBŐL ÁTHELYEZETT ANYAGOK JEGYZÉKE
 
-2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^131]
+2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^130]
 
 Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
@@ -866,4 +866,4 @@ Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
 3. Statisztikai szempontból nem minősül gyártásnak a csomagolás, átcsomagolás.
 
-[^131]: A 2. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés m) pontja, a 250/2017. (IX. 5.) Korm. rendelet 44. § (1) bekezdése szerint módosított szöveg.
+[^130]: A 2. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés m) pontja, a 250/2017. (IX. 5.) Korm. rendelet 44. § (1) bekezdése szerint módosított szöveg.
