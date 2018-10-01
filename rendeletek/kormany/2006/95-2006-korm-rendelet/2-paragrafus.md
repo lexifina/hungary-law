@@ -1,40 +1,50 @@
-## 1. § E rendelet hatálya kiterjed mindazon veszélyes katonai objektumra, ahol a jelenlévő veszélyes anyag vagy anyagok mennyisége az 1. mellékletben meghatározott alsó küszöbértéket eléri vagy meghaladja.
+## 1. §[^1] E rendelet hatálya kiterjed a veszélyes katonai objektumra és a küszöbérték alatti nyilvántartott katonai objektumra, valamint a veszélyes anyagokkal kapcsolatos honvédségi üzemzavarok megelőzésére.
 
 ## Értelmező rendelkezések
 
-## 2. § E rendelet alkalmazásában:
+## 2. §[^2] E rendelet alkalmazásában:
 
-a) anyagnem-felelős: a honvédelmi szervezetek veszélyes anyaggal történő ellátásának (tervezés, beszerzés, ellátás-biztosítás, selejtezés stb.) megszervezésére, koordinálására, szakmai irányítására, szakellenőrzésre kijelölt szakmai irányító szervezet;
+a) anyagnem-felelős: a honvédelmi szervezetek veszélyes anyaggal történő ellátásának – így különösen a tervezés, a beszerzés, az ellátás-biztosítás, a selejtezés – megszervezésére, koordinálására, szakmai irányítására, szakellenőrzésére kijelölt szakmai irányító szervezet,
 
-b) alsó küszöbértékű veszélyes katonai objektum: ahol a jelenlévő veszélyes anyagok mennyisége (beleértve a technológia irányíthatatlanná válása miatt várhatóan keletkező veszélyes anyagokat is) az 1. melléklet alapján meghatározható alsó küszöbértéket eléri, illetőleg meghaladja, de nem éri el a felső küszöbértéket;
+b) belső védelmi terv: a veszélyes anyagokkal kapcsolatos honvédségi üzemzavarok bekövetkezésének megelőzését, elhárítását, következményeinek mérséklését szolgáló intézkedések megtételét, az értesítési, riasztási, felkészítési feladatok veszélyes katonai objektumon, objektumrészen belüli végrehajtásának rendjét, feltételeit szabályozó honvédségi üzemeltetői okmány, ami a biztonsági dokumentáció melléklete,
 
-c) belső védelmi terv: a veszélyes anyagokkal kapcsolatos súlyos balesetek kialakulásának megelőzését, a balesetek elhárítását, következményeinek mérséklését szolgáló intézkedések megtételét, az értesítési, riasztási, felkészítési feladatok veszélyes katonai objektumon, objektumrészen belüli végrehajtásának rendjét, feltételeit szabályozó honvédségi üzemeltetői okmány;
+c) biztonsági dokumentáció: a veszélyes katonai objektum honvédségi üzemeltetője által készített dokumentum, amely tartalmazza a veszélyes anyagokkal kapcsolatos honvédségi üzemzavarok megelőzésére vonatkozó általános célkitűzéseket, továbbá annak az irányítási, vezetési és műszaki eszközrendszernek a bemutatását, amely biztosítja mind az ember, mind a környezet magas szintű védelmét, valamint annak bizonyítását, hogy a honvédségi üzemeltető a veszélyes anyagokkal kapcsolatos honvédségi üzemzavarok veszélyeit azonosította, szükség esetén azok kockázatát elemezte és értékelte,
 
-d)[^1] biztonsági elemzés: a honvédségi üzemeltető által készített dokumentum, amely tartalmazza a veszélyes katonai objektum honvédségi üzemeltetőjének a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésére vonatkozó általános célkitűzéseit, továbbá annak az irányítási, vezetési és műszaki eszközrendszernek a bemutatását, amely biztosítja mind az ember, mind a környezet magas szintű védelmét, valamint annak bizonyítását, hogy a honvédségi üzemeltető a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyeket azonosította, illetőleg a veszélyes anyagokkal kapcsolatos súlyos balesetek kockázatát elemezte és értékelte. A dokumentumnak elegendő információt kell szolgáltatnia a hatósági döntésekhez;
+d) dominóhatás: a veszélyes katonai objektumban bekövetkező olyan veszélyes anyagokkal kapcsolatos honvédségi súlyos baleset, amelynek hatása a közelben lévő veszélyes anyagokkal foglalkozó üzemre vagy más veszélyes katonai objektumra átterjedve a veszélyes anyagokkal kapcsolatos honvédségi súlyos balesetek bekövetkezésének valószínűségét megnöveli, vagy a bekövetkezett ilyen események következményeit súlyosbítja,
 
-e)[^2] biztonsági jelentés: a honvédségi üzemeltető által készített dokumentum, amely annak bizonyítására szolgál, hogy rendelkezik a veszélyes anyagokkal kapcsolatos súlyos baleseteket megelőző stratégiával és az annak végrehajtását szolgáló biztonsági irányítási rendszerrel, a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyeket azonosította, illetőleg a veszélyes anyagokkal kapcsolatos súlyos balesetek kockázatát elemezte és értékelte, a megelőzésükre a szükséges intézkedéseket megtette, kellő mértékű a létesítményeinek biztonsága, megbízhatósága. Rendelkezik működőképes belső védelmi tervvel. A jelentésnek elegendő információt kell szolgáltatnia a külső védelmi tervek elkészítéséhez és a hatósági döntésekhez;
+e) hatósági összekötő: a honvédségi üzemeltető állományába tartozó, a veszélyes anyagokkal kapcsolatos honvédségi üzemzavarok elleni védekezéssel kapcsolatos feladatok ellátására kijelölt, a honvédelmi szervezet veszélyes anyagaival kapcsolatos logisztikai feladatokért felelős személy,
 
-f) dominóhatás: a veszélyes katonai objektumban bekövetkező olyan baleset, amely a közelben lévő más veszélyes ipari üzemre vagy veszélyes katonai objektumra átterjedve a veszélyes anyagokkal kapcsolatos súlyos balesetek valószínűségét megnöveli, vagy a bekövetkezett veszélyes anyagokkal kapcsolatos súlyos baleset következményeit súlyosbítja;
+f) honvédelmi szervezet: a honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 346/2009. (XII. 30.) Korm. rendelet 1. § (1) bekezdése szerinti szervezet, a külképviseleti tevékenységet ellátó szervezetek, szervezeti egységek, valamint a szövetségi és nemzetközi szerződésekből eredő katonai kötelezettségeket teljesítő, a Magyar Honvédség hadrendje szerinti szervezet válságkezelő és béketámogató műveletekben részt vevő szervezeti egységei kivételével,
 
-g) építtető: a honvédelmi miniszter által építtetői feladatra feljogosított, veszélyes katonai objektumot létrehozó szervezet;
+g) honvédségi üzemeltető: az a honvédelmi szervezet, amely a küszöbérték egytizedét elérő vagy meghaladó mennyiségű veszélyes anyaggal végez honvédségi veszélyes tevékenységet,
 
-h) felső küszöbértékű veszélyes katonai objektum: ahol a jelenlévő veszélyes anyagok mennyisége (beleértve a technológia irányíthatatlanná válása miatt várhatóan keletkező veszélyes anyagokat is) az 1. melléklet alapján meghatározható felső küszöbértéket eléri, illetőleg meghaladja;
+h) honvédségi veszélyes tevékenység: a veszélyes katonai objektumban vagy a küszöbérték alatti nyilvántartott katonai objektumban a honvédségi üzemeltető által, veszélyes anyaggal végzett olyan tevékenység, amely veszélyes anyagokkal kapcsolatos honvédségi üzemzavar bekövetkezésének veszélyét hordozza magában,
 
-i) honvédségi üzemeltető: a Honvédelmi Minisztérium (a továbbiakban: HM), a minisztériumnak közvetlenül alárendelt szervezet, vagy olyan a Kormány, a HM által honvédelmi, katonai tevékenység végzése céljából létrehozott szervezet, amely alapszabály, alapító okirat alapján veszélyes katonai objektumot üzemeltet, vagy annak működésére döntő befolyást gyakorol, illetve olyan gazdálkodó szervezet, amely szerződésben vállalt kötelezettség alapján végzi e tevékenységet;
+i) katonai objektum: a honvédelmi szervezet elhelyezésére szolgáló létesítmény, a külön jogszabály szerinti honvédelmi és katonai célú építmény, a honvédelmi és katonai célú ingatlan, valamint a veszélyes anyag tárolására szolgáló katonai vagy katonai célú létesítmény, berendezés, tároló,
 
-j) rendkívüli esemény: a veszélyes katonai objektumban a rendeltetésszerű működés során, illetőleg a technológiai folyamatokban bekövetkező olyan nem várt esemény, amely azonnali beavatkozást igényel, és magában hordozza a veszélyes anyagokkal kapcsolatos súlyos baleset kialakulásának lehetőségét;
+j) küszöbérték: a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 219/2011. (X. 20.) Korm. rendelet (a továbbiakban: R.) melléklete alapján meghatározható alsó küszöbérték, ha a veszélyes anyagnak csak egy küszöbmennyisége van, akkor a küszöbmennyiség,
 
-k) veszélyes anyag: az 1. mellékletben meghatározott ismérveknek megfelelő anyag, keverék vagy készítmény, amely mint nyersanyag, termék, melléktermék, maradék, köztes termék vagy hulladék van jelen, beleértve azokat az anyagokat is, amelyekről feltételezhető, hogy egy baleset bekövetkezésekor létrejöhetnek;
+k) küszöbérték alatti nyilvántartott katonai objektum: az a veszélyes katonai objektum felügyeleti hatóság által nyilvántartott katonai objektum, ahol egy vagy több objektumrészben – ideértve a közös vagy kapcsolódó infrastruktúrát is – veszélyes anyagok vannak jelen a küszöbérték egytizedét elérő vagy azt meghaladó, de a küszöbértéket el nem érő mennyiségben,
 
-l) veszélyes anyagokkal kapcsolatos súlyos baleset: olyan mértékű veszélyes anyag kibocsátásával, tűzzel vagy robbanással járó rendkívüli esemény, amely a veszélyes katonai objektum működése során befolyásolhatatlan folyamatként megy végbe, és amely az objektumon belül, illetőleg azon kívül közvetlenül vagy lassan hatóan súlyosan veszélyezteti vagy károsítja az emberi egészséget, illetőleg a környezetet;
+l) veszélyes anyag: az R.-ben meghatározott ismérveknek megfelelő anyag, keverék vagy készítmény, akár nyersanyag, termék, melléktermék, maradék, köztes termék vagy hulladék formájában,
 
-m) veszélyes katonai objektum: egy adott honvédségi üzemeltető irányítása alatt álló, katonai célból üzemeltetett azon terület egésze, ahol egy vagy több veszélyes katonai objektum-részben – ideértve a közös vagy kapcsolódó infrastruktúrát is – veszélyes anyagok vannak jelen az 1. mellékletben meghatározott küszöbértéket elérő mennyiségben;
+m) veszélyes anyagokkal kapcsolatos honvédségi súlyos baleset: olyan veszélyes anyagokkal kapcsolatos honvédségi üzemzavar, amely befolyásolhatatlan folyamatként megy végbe, és amely a katonai objektumon belül, illetve azon kívül közvetlenül vagy közvetve, azonnal vagy lassan hatóan súlyosan veszélyezteti vagy károsítja az emberi egészséget, illetve a környezetet,
 
-n)[^3] veszélyes tevékenység: a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 31. pontja szerinti tevékenység;
+n) veszélyes anyagokkal kapcsolatos honvédségi üzemzavar: veszélyes katonai objektumban vagy küszöbérték alatti nyilvántartott katonai objektumban a rendeltetésszerű működés során vagy a technológiai folyamatokban bekövetkező olyan nem várt esemény, amely azonnali beavatkozást igényel, és az alábbi következmények legalább egyikével jár:
 
-o)[^4] veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes katonai objektum környezetében a hivatásos katasztrófavédelmi szerv illetékes területi szerve által kijelölt, az egyéni sérülés kockázatához igazodó terület.
+na) veszélyes anyaggal kapcsolatos tűz,
 
-[^1]: A 2. § d) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 23. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^2]: A 2. § e) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 23. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^3]: A 2. § n) pontja a 219/2011. (X. 20.) Korm. rendelet 52. § (1) bekezdése szerint módosított szöveg.
-[^4]: A 2. § o) pontja a 219/2011. (X. 20.) Korm. rendelet 52. § (2) bekezdése, a 74/2012. (IV. 13.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+nb) veszélyes anyaggal kapcsolatos robbanás,
+
+nc) mérgező, rákkeltő tulajdonságú veszélyes anyag kibocsátása,
+
+nd) oxidáló, tűz- vagy környezetre veszélyes tulajdonságú folyadék halmazállapotú veszélyes anyag kikerülése legalább 1000 kg mennyiségben,
+
+ne) egyéb veszélyes anyag kikerülése legalább a küszöbérték 1%-át elérő mennyiségben,
+
+o) veszélyes katonai objektum: az a katonai objektum, ahol egy vagy több objektumrészben – ideértve a közös vagy kapcsolódó infrastruktúrát is – veszélyes anyagok vannak jelen a küszöbértéket elérő vagy azt meghaladó mennyiségben,
+
+p) veszélyeztetett terület: az a terület, ahol honvédségi veszélyes tevékenység során bekövetkező, veszélyes anyagokkal kapcsolatos honvédségi súlyos balesetek által okozott mérgező, hősugárzási, ökotoxikus vagy túlnyomási hatások az emberi egészséget, a környezetet vagy a természeti értékeket károsíthatják.
+
+[^1]: Az 1. § a 110/2018. (VI. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § a 110/2018. (VI. 25.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,21 +1,13 @@
-## 21. §[^29] A külső védelmi tervezési és lakosságtájékoztatási feladatokat a 17. § szerint megküldött biztonsági jelentés kézhezvételét követően a hivatásos katasztrófavédelmi szerv területi és helyi szervei végzik az R. 23–27. § rendelkezéseinek megfelelően, azzal az eltéréssel, hogy a polgármester az R. 23. § (3) bekezdése szerinti hirdetményt nem teszi közzé és az R. 23. § (12) és (13) bekezdése nem alkalmazható.
-
 ## A jelentési, tájékoztatási rendszer
 
-22. § (1)[^30] A honvédségi üzemeltető köteles a Magyar Honvédség Központi Ügyeleti Szolgálata útján a veszélyes katonai objektum felügyeleti hatóságot, továbbá a hivatásos katasztrófavédelmi szerv területi szervét, az illetékes védelmi bizottság elnökét és a veszélyeztetett települések polgármestereit haladéktalanul tájékoztatni:
+22. §[^64] (1) A veszélyes katonai objektumban vagy a küszöbérték alatti nyilvántartott katonai objektumban bekövetkezett veszélyes anyagokkal kapcsolatos honvédségi üzemzavart a honvédségi üzemeltető köteles a veszélyes katonai objektum felügyeleti hatósághoz haladéktalanul bejelenteni.
 
-a) a veszélyes anyagokkal kapcsolatos súlyos baleset, rendkívüli esemény körülményeiről,
+(2) A bejelentést a 3. mellékletben meghatározott adattartalommal kell teljesíteni.
 
-b) a veszélyes anyagokkal kapcsolatos súlyos balesetben, rendkívüli eseményben szereplő veszélyes anyagokról,
+(3) A veszélyes anyagokkal kapcsolatos honvédségi üzemzavart a honvédségi üzemeltető minden esetben kivizsgálja, a vizsgálat eredményét dokumentálja, és tájékoztatásul megküldi a veszélyes katonai objektum felügyeleti hatósághoz.
 
-c) a lakosságra, az anyagi javakra és a környezetre gyakorolt hatások értékeléséhez szükséges adatokról,
+(4) A kivizsgálás célja a veszélyes anyagokkal kapcsolatos honvédségi üzemzavar bekövetkezése körülményeinek tisztázása.
 
-d) a megtett intézkedésekről.
+(5) A veszélyes anyagokkal kapcsolatos honvédségi súlyos baleseteket a veszélyes katonai objektum felügyeleti hatóság is kivizsgálja, a vizsgálat eredményéről, a lezárást követően írásban tájékoztatja a honvédségi üzemeltetőt és az anyagnem-felelőst.
 
-(2)[^31] A veszélyes katonai objektum felügyeleti hatóság a kivizsgálás lezárását követő nyolc napon belül a veszélyes katonai objektumban bekövetkezett veszélyes anyagokkal kapcsolatos súlyos balesetről, illetve a rendkívüli eseményről összefoglaló jelentés megküldésével a hivatásos katasztrófavédelmi szerv illetékes területi szervét tájékoztatja.
-
-(3) A honvédségi üzemeltető tájékoztatást küld a veszélyes katonai objektum felügyeleti hatóságnak abban az esetben, ha a technológia, a berendezések, a biztonsági irányítási rendszer alkalmazásakor vagy a védekezés területén szerzett saját tapasztalatok, továbbá a technikai fejlődés kapcsán tudomására jutó ismeretek, a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzése, és az ellenük való védekezés rendszerének áttekintését szükségessé teszik.
-
-[^29]: A 21. § a 219/2011. (X. 20.) Korm. rendelet 51. § (2) bekezdésével megállapított, a 74/2012. (IV. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^30]: A 22. § (1) bekezdés nyitó szövegrésze a 219/2011. (X. 20.) Korm. rendelet 52. § (6) bekezdése, a 74/2012. (IV. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^31]: A 22. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (75) bekezdése, a 219/2011. (X. 20.) Korm. rendelet 52. § (7) bekezdése, a 74/2012. (IV. 13.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^64]: A 22. § a 110/2018. (VI. 25.) Korm. rendelet 16. §-ával megállapított szöveg.

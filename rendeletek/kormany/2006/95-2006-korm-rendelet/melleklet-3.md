@@ -1,31 +1,61 @@
-3. melléklet a 95/2006. (IV. 18.) Korm. rendelethez
+3. melléklet a 95/2006. (IV. 18.) Korm. rendelethez[^104]
 
-## A biztonsági elemzés elkészítésének tartalmi és formai követelményei
+## A veszélyes anyagokkal kapcsolatos honvédségi üzemzavar bejelentésének kötelező tartalmi elemei
 
-1. Tartalmi követelmények
+1. Bejelentő adatai
 
-1.1. A biztonsági elemzés tartalmi követelményei megegyeznek a 2. melléklet 1. pontjában foglalt követelményekkel, az 1.9. és 1.11. pont kivételével.
+a) Veszélyes katonai objektum, küszöbérték alatti nyilvántartott katonai objektum megnevezése:
 
-1.2. A veszélyes katonai objektum építési engedélyezési eljárásával (beleértve a bővítést is) egy időben a veszélyes katonai objektum felügyeleti hatósághoz benyújtandó biztonsági elemzés tartalma:
+b) Veszélyes katonai objektum, küszöbérték alatti nyilvántartott katonai objektum besorolása (küszöbérték alatti nyilvántartott katonai objektum, veszélyes katonai objektum):
 
-a) a 2. melléklet 1.1.; 1.2.; 1.3.1.; 1.3.2. a), b); 1.3.3.; 1.3.5.; 1.4.; 1.8. a tervezett felszerelések és infrastruktúra; 1.7. az építési stádiumban előre látható szinten; 1.10.;
+c) Tevékenységi kör:
 
-b) a technológiában alkalmazott biztonsági megoldások (kémiai technológiai, gépészeti és iránytechnikai) értékelése;
+d) Telephely címe:
 
-c) a tervezési filozófia bemutatása azon létesítmények esetében, ahol veszélyes anyagokkal kapcsolatos súlyos baleseti veszéllyel lehet számolni. A dokumentációnak része lehet:
+2. Az eseménnyel kapcsolatban nyilatkozattételre kijelölt kapcsolattartó adatai
 
-ca) a felhasznált szerkezeti anyag kiválasztása,
+a) Neve:
 
-cb) az alapozás tervezése,
+b) Beosztása:
 
-cc) nagy nyomáson és magas hőmérsékleten üzemelő berendezések tervezése,
+c) Telefonszáma (mobil):
 
-cd) a méretezés,
+d) Fax:
 
-ce) a statikai megfontolások,
+e) E-mail-címe:
 
-cf) a külső behatás elleni védelem.
+3. Esemény adatai
 
-2. Formai követelmények
+a) Kezdete (dátum, időpont):
 
-A biztonsági elemzés formai követelményei megegyeznek a 2. melléklet 2. pontjában foglalt formai követelményekkel.
+b) Vége (dátum, időpont):
+
+4. Esemény kialakulásának valószínűsíthető helye
+
+5. Esemény kialakulásának valószínűsíthető oka
+
+6. Esemény által érintett objektumrész, technológia
+
+7. Esemény típusa (veszélyes anyaggal kapcsolatos tűz; veszélyes anyaggal kapcsolatos robbanás; mérgező, rákkeltő tulajdonságú veszélyes anyag kibocsátása; oxidáló, tűz- vagy környezetre veszélyes tulajdonságú veszélyes anyag kibocsátása)
+
+8. Eseményben részt vevő veszélyes anyag(ok) megnevezése, tulajdonsága (H-mondatok, halmazállapot) és mennyisége
+
+9. Esemény részletes leírása
+
+10. Megtett intézkedések (objektumrész leállítása, belső védelmi terv életbeléptetése, tűzoltóság értesítése, katasztrófavédelem illetékes területi szervének értesítése, egyéb üzemi intézkedés)
+
+11. Intézkedések részletes leírása
+
+12. Esemény következménye, hatások
+
+a) Sérültek száma (belső, külső):
+
+b) Elhunytak száma (belső, külső):
+
+c) Katonai objektum területén kívüli hatás (van, nincs):
+
+d) Elzárkóztatás történt (igen, nem):
+
+e) Kitelepítés történt (igen, nem):
+
+[^104]: A 3. melléklet a 110/2018. (VI. 25.) Korm. rendelet 18. § c) pontjával megállapított szöveg.
