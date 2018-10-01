@@ -1,0 +1,9 @@
+# 166/2018. (IX. 17.) Korm. rendelet
+
+a honvédelmi ágazat sugárvédelmi hatósági feladatairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-166-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-10-01 | 2018-166-20-22.1 | 166/2018. (IX. 17.) Korm. rendelet |
