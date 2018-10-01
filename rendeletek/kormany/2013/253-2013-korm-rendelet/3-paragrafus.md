@@ -24,7 +24,7 @@ j) a Rendőrség,
 
 k) a Magyar Honvédség Közegészségügyi-járványügyi Szolgálat,
 
-l)[^6] az Országos Közegészségügyi Intézet.
+l)[^6]
 
 (2) A NER végrehajtásában részt vevő (1) bekezdés szerinti szervezetek a folyamatos kapcsolattartás érdekében a NER-kapcsolattartásért felelős személyt, szervezetet jelölnek ki. A kapcsolattartó adatait, elérhetőségét az (1) bekezdés szerinti szervek megküldik a NER Tájékoztatási Központ részére. A kapcsolattartási adatokban beállott változásokat a NER Tájékoztatási Központ részére haladéktalanul meg kell küldeni.
 
@@ -36,4 +36,4 @@ l)[^6] az Országos Közegészségügyi Intézet.
 [^3]: A 3. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 237. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 227. § a) pontja szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés g) pontja a 379/2016. (XII. 2.) Korm. rendelet 237. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^6]: A 3. § (1) bekezdés l) pontját a 379/2016. (XII. 2.) Korm. rendelet 237. § (2) bekezdése iktatta be.
+[^6]: A 3. § (1) bekezdés l) pontját a 379/2016. (XII. 2.) Korm. rendelet 237. § (2) bekezdése iktatta be, hatályon kívül helyezte a 162/2018. (IX. 10.) Korm. rendelet 25. § a) pontja.
