@@ -1,3 +1,5 @@
+## „(7) Azon kincstári körön kívüli számlatulajdonosok, amelyek a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított 79. § (3) bekezdése értelmében értékpapírszámlával nem rendelkezhetnek, a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvény hatálybalépésekor meglévő értékpapírszámláikat azok lejáratáig fenntarthatják.”
+
 77. § Az államháztartásról szóló 2011. évi CXCV. törvény
 
 1.
@@ -72,7 +74,7 @@
 
 36.
 
-37.
+37. 39. § (5) bekezdésében a „főfelügyelő” szövegrész helyébe a „felügyelő” szöveg,
 
 38.
 
