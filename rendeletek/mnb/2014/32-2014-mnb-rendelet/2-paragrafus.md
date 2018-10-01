@@ -8,25 +8,25 @@ a) forinttól eltérő pénznemben folyósított hitel,
 
 b) devizában nyilvántartott, de forintban folyósított hitel;
 
-3.[^9] fizetési számla: fizetési műveletek teljesítésére szolgáló, az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam joga szerinti, a belső piaci pénzforgalmi szolgáltatásokról és a 97/7/EK, a 2002/65/EK, a 2005/60/EK és a 2006/48/EK irányelv módosításáról és a 97/5/EK irányelv hatályon kívül helyezéséről szóló, 2007. november 13-i 2007/64/EK európai parlamenti és tanácsi irányelv 4. cikk 3. pontjában, valamint a harmadik ország joga szerint meghatározott pénzforgalmi szolgáltatás keretében egy vagy több ügyfél nevére megnyitott számla;
+3.[^19] fizetési számla: fizetési műveletek teljesítésére szolgáló, az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam joga szerinti, a belső piaci pénzforgalmi szolgáltatásokról és a 97/7/EK, a 2002/65/EK, a 2005/60/EK és a 2006/48/EK irányelv módosításáról és a 97/5/EK irányelv hatályon kívül helyezéséről szóló, 2007. november 13-i 2007/64/EK európai parlamenti és tanácsi irányelv 4. cikk 3. pontjában, valamint a harmadik ország joga szerint meghatározott pénzforgalmi szolgáltatás keretében egy vagy több ügyfél nevére megnyitott számla;
 
-4. fogyasztó: a Polgári Törvénykönyvről szóló törvényben meghatározott fogalom;
+4.[^20]
 
 5. gépjármű piaci értéke: új gépjármű esetén a gépjármű bruttó vételára, használt gépjármű esetén a nemzetközi kereskedelmi járműadatbázissal rendelkező, Európában és Magyarországon is a teljes gépjárműszegmens által használt és elfogadott gépjármű értékelő rendszer felhasználásával számított eladási érték;
 
 6. havi törlesztőrészlet:
 
-a)[^10] valamely folyósított pénzkölcsön után, a hitelszerződésben foglaltak maradéktalan teljesülése esetén, az ügyfél által rendszeres időközönként megfizetendő pénzösszeg egy hónapra eső része, forintban kifejezve,
+a)[^21] valamely folyósított pénzkölcsön után, a hitelszerződésben foglaltak maradéktalan teljesülése esetén, az ügyfél által rendszeres időközönként megfizetendő pénzösszeg egy hónapra eső része, forintban kifejezve,
 
 b) hitelkártya-szerződés vagy fizetési számlához kapcsolódó hitelkeret esetén a hitelkeret 5 százaléka,
 
-c)[^11] olyan, jelzáloggal biztosított pénzkölcsön tekintetében, amelynél a hitelszerződés feltételei szerint a kamat mértéke legalább 5 éves kamatperiódusokban rögzített, az a) alpontban meghatározott havi törlesztőrészlet 85%-a, amennyiben az 5. § (1) bekezdésében meghatározott mutató az ezen alpontban meghatározott törlesztőrészlet a) pont szerint történő beszámítása mellett nem haladná meg a 6. § (2) bekezdés a)–c) alpontja szerinti értéket;
+c)[^22] az igénybe vett visszatérítendő, hazai vagy uniós költségvetési forrású támogatás után az ügyfél által visszatérítendő pénzösszeg egy hónapra eső része, forintban kifejezve;
 
 7. hitel: a Hpt.-ben meghatározott hitel és pénzkölcsön nyújtására létrejött ügylet;
 
-8.[^12] hitelnyújtó: Magyarország területén – ideértve a határon átnyúló szolgáltatást is – hitel- és pénzkölcsön, pénzügyi lízing vagy pénzforgalmi szolgáltatás pénzügyi szolgáltatásként való nyújtására jogosult személy vagy szervezet;
+8.[^23] hitelnyújtó: Magyarország területén – ideértve a határon átnyúló szolgáltatást is – hitel- és pénzkölcsön, pénzügyi lízing vagy pénzforgalmi szolgáltatás pénzügyi szolgáltatásként való nyújtására jogosult személy vagy szervezet;
 
-9.[^13] igazolt havi nettó jövedelem: az ügyfélnek egy naptári hónapra vonatkozó rendszeres,
+9.[^24] igazolt havi nettó jövedelem: az ügyfélnek egy naptári hónapra vonatkozó rendszeres,
 
 a) a munkáltató, az állami adóhatóság, a magyar vagy valamely külföldi állam ellátást folyósító szerve 12 hónapnál nem régebben, papír alapon vagy elektronikus úton kiállított igazolása (ideértve az állami adóhatóság által kiállított keresetkimutatást is) alapján meghatározható nettó jövedelmei összessége, amelyek után a felmerülő közterhek levonásra, megfizetésre kerültek,
 
@@ -48,10 +48,15 @@ e) az a)–d) alpont szerinti, forinttól eltérő pénznemű jövedelmének a M
 
 14. pénzügyi lízing: a Hpt.-ben meghatározott fogalom;
 
-15. ügyfél: hitelügyletben adósként, adóstársként szereplő fogyasztó.
+15.[^25] ügyfél: hitelügyletben adósként, adóstársként szereplő természetes személy.
 
-[^9]: A 2. § 3. pontja a 8/2016. (IV. 6.) MNB rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^10]: A 2. § 6. pont a) alpontja a 8/2016. (IV. 6.) MNB rendelet 3. § b) pontja szerint módosított szöveg.
-[^11]: A 2. § 6. pont c) alpontját a 8/2016. (IV. 6.) MNB rendelet 2. § (2) bekezdése iktatta be.
-[^12]: A 2. § 8. pontja a 8/2016. (IV. 6.) MNB rendelet 3. § c) pontja szerint módosított szöveg.
-[^13]: A 2. § 9. pontja a 29/2018. (VIII. 21.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+16.[^26] vállalkozó természetes személy: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény szerinti egyéni vállalkozó és mezőgazdasági őstermelő.
+
+[^19]: A 2. § 3. pontja a 8/2016. (IV. 6.) MNB rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^20]: A 2. § 4. pontját a 29/2018. (VIII. 21.) MNB rendelet 7. § a) pontja hatályon kívül helyezte.
+[^21]: A 2. § 6. pont a) alpontja a 8/2016. (IV. 6.) MNB rendelet 3. § b) pontja szerint módosított szöveg.
+[^22]: A 2. § 6. pont c) alpontját a 8/2016. (IV. 6.) MNB rendelet 2. § (2) bekezdése iktatta be, szövege a 29/2018. (VIII. 21.) MNB rendelet 2. § (1) bekezdésvel megállapított szöveg.
+[^23]: A 2. § 8. pontja a 8/2016. (IV. 6.) MNB rendelet 3. § c) pontja szerint módosított szöveg.
+[^24]: A 2. § 9. pontja a 29/2018. (VIII. 21.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^25]: A 2. § 15. pontja a 29/2018. (VIII. 21.) MNB rendelet 6. § f) pontja szerint módosított szöveg.
+[^26]: A 2. § 16. pontját a 29/2018. (VIII. 21.) MNB rendelet 2. § (3) bekezdése iktatta be.
