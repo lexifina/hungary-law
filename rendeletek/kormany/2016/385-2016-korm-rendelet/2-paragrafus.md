@@ -16,6 +16,10 @@ cc) az egészségfejlesztés (egészségvédelem, egészségnevelés és egészs
 
 cd) az egészségügyi igazgatás és koordináció területén,
 
-d) ellátja a jogszabályban a feladatkörébe utalt, az egészségügyi szolgáltatók feletti szakfelügyelet működtetésével összefüggő feladatokat.
+d) ellátja a jogszabályban a feladatkörébe utalt, az egészségügyi szolgáltatók feletti szakfelügyelet működtetésével összefüggő feladatokat,
+
+e)[^8] ellátja az egészségügyi szolgáltatók jogszabályban meghatározott, az infekciókontrollra vonatkozó kötelezettségeivel kapcsolatos hatósági feladatokat.
 
 (2) A kormányhivatal részt vesz a lakosság egészségének megőrzését célzó népegészségügyi programok kidolgozásában, irányítja, szervezi és koordinálja a programok végrehajtását.
+
+[^8]: A 2. § (1) bekezdés e) pontját a 164/2018. (IX. 11.) Korm. rendelet 2. §-a iktatta be.

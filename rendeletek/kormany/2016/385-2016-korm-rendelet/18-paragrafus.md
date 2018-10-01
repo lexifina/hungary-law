@@ -1,4 +1,4 @@
-## 17. § Ez a rendelet 2017. április 1-jén lép hatályba.
+## tekintetében az Emberi Erőforrások Minisztériuma jogutódja a Heim Pál Országos Gyermekgyógyászati Intézet.
 
 ## 18. § Ez a rendelet
 
