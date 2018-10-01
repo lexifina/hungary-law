@@ -110,6 +110,8 @@ H) Emberi erőforrások minisztere
 
 | 8 | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | irányítás |
 
+| 9 | Nemzeti Népegészségügyi Központ | irányítás |
+
 I) Honvédelmi miniszter
 
 |  | A | B |
@@ -154,4 +156,4 @@ L) Nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 | 2 | Szerencsejáték Felügyelet | irányítás |
 
-[^7]: Az 1. melléklet a 136/2018. (VII. 25.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet a 136/2018. (VII. 25.) Korm. rendelet 1. § e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 43. §-a szerint módosított szöveg.
