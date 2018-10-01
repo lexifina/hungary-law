@@ -1,0 +1,1 @@
+## „a) a 107. § alapján a helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó lemondott támogatás a központi költségvetésről szóló törvényben meghatározottak szerint egyenlő részletekben kerül levonásra a nettó finanszírozás során,”
