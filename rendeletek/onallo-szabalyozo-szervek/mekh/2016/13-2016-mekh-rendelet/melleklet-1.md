@@ -4,141 +4,143 @@
 
 1. Szállítási kapacitásdíjak és forgalmi díj:
 
-|  | A | B | C |
+|  |  | A) | B) | C) |
 
-| 1. | Az Áralkalmazási rendelet 1. § (1) bekezdés | Szállítási kapacitásdíj Ft/kWh/h/év | Szállítási forgalmi díj Ft/MWh |
+|  | 1. | Az Áralkalmazási rendelet 1. § (1) bekezdés | Szállítási kapacitásdíj Ft/kWh/h/év | Szállítási forgalmi díj Ft/MWh |
 
-| 2. | a) pont aa) alpont aaa), aaj), aal) és aam) alpontja (kiadási pontok) | 631,25 | 47,31 |
+|  | 2. | a) pont aa) alpont aaa), aaj), aal) és aam) alpontja (kiadási pontok) | 513,39 | 46,37 |
 
-| 3. | a) pont aa) alpont aao) alpontja (keverőköri kiadási pont) | 107,13 |
+|  | 3. | a) pont aa) alpont aao) alpontja (keverőköri kiadási pont) | 87,12 |
 
-| 4. | a) pont aa) alpont aac) alpontja (osztrák–magyar határ Baumgarten felőli betáplálási pont) | 1483,63 |
+|  | 4. | a) pont aa) alpont aac) alpontja (osztrák/magyar határ Baumgarten felőli betáplálási pont) | 1080,48 |
 
-| 5. | a) pont aa) alpont aai) alpontja (horvát–magyar határ Donji Miholjac felőli betáplálási pont) | 1483,63 |
+|  | 5. | a) pont aa) alpont aai) alpontja (horvát/magyar határ Donji Miholjac felőli betáplálási pont) | 1080,48 |
 
-| 6. | a) pont aa) alpont aad) alpontja (ukrán–magyar határ Beregovo felőli betáplálási pont) | 1483,63 |
+|  | 6. | a) pont aa) alpont aad) alpontja (ukrán/magyar határ Beregovo felőli betáplálási pont) | 1080,48 |
 
-| 7. | a) pont aa) alpont aak) alpontja (szlovák–magyar határ Vel’ké Zlievce felőli betáplálási pont) | 1483,63 |
+|  | 7. | a) pont aa) alpont aak) alpontja (szlovák/magyar határ Vel’ké Zlievce felőli betáplálási pont) | 1080,48 |
 
-| 8. | a) pont aa) alpont aan) alpontja (román–magyar határ Horia felőli betáplálási pont) | 1483,63 |
+|  | 8. | a) pont aa) alpont aan) alpontja (román/magyar határ Horia felőli betáplálási pont) | 1080,48 |
 
-| 9. | a) pont aa) alpont aae) alpontja (hazai termelés betáplálási pont) | 1335,26 |
+|  | 9. | a) pont aa) alpont aae) alpontja (hazai termelés betáplálási pont) | 972,43 |
 
-| 10. | a) pont ac) alpont acb) alpontja (tárolói betáplálási pont) | 156,75 |
+|  | 10. | a) pont ac) alpont acb) alpontja (tárolói betáplálási pont) | 114,16 |
 
-| 11. | a) pont aa) alpont aaf) alpontja (Kiskundorozsma határkeresztező kiadási pont) | 1663,59 |
+|  | 11. | a) pont aa) alpont aaf) alpontja szerinti Kiskundorozsma határkeresztező kiadási pont | 1705,52 |
 
-| 12. | a) pont aa) alpont aag) alpontja (Csanádpalota határkeresztező kiadási pont) | 740,02 |
+|  | 12. | a) pont aa) alpont aag) alpontja szerinti Csanádpalota határkeresztező kiadási pont | 708,24 |
 
-2. Szagosítási díj: 5843,98 Ft/l
+2. Szagosítási díj: 5608,63 Ft/l
 
 II. Földgázelosztási díj
 
-A rendszerhasználat legmagasabb hatósági díja
+A rendszerhasználat legmagasabb hatósági díja:
 
-a) Földgázelosztási díj elemei és mértékei az E.ON Dél-dunántúli Gázhálózati Zrt., az ISD Power Energiatermelő és Szolgáltató Kft. és a Csepeli Erőmű Kft. elosztási területén
+a) Földgázelosztási díj elemei és mértékei az E.ON Dél-dunántúli Gázhálózati Zrt., a Csepeli Erőmű Kft. és
 
-|  | A | B | C | D | E | F |
+az ISD Power Energiatermelő és Szolgáltató Kft. elosztási területén:
 
-| 1. | Értékesítési kategóriák | Elosztási átalánydíj Ft/MWh | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási kapacitásdíj Ft/kWh/h/év | Elosztási forgalmi díj Ft/MWh |
+|  |  | A) | B) | C) | D) | E) | F) |
 
-| 2. | Fogyasztásmérővel nem rendelkező felhasználók | 2729,40 |  |  |  |  |
+|  | 1. | Értékesítési kategóriák | Elosztási átalánydíj Ft/MWh | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási kapacitásdíj Ft/kWh/h/év | Elosztási forgalmi díj Ft/MWh |
 
-| 3. | 20 m3/h-nál kisebb névleges kapacitású fogyasztásmérővel rendelkező felhasználók |  | 9192 |  |  | 1100,49 |
+|  | 2. | Gázmérővel nem rendelkező felhasználók | 2701,64 |  |  |  |  |
 
-| 4. | 20 m3/h vagy annál nagyobb, de 100 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 6792 | 647 | 87,23 |
+|  | 3. | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználók |  | 9192 |  |  | 1100,49 |
 
-| 5. | 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 9300 | 886 | 76,30 |
+|  | 4. | 20 m3/h vagy annál nagyobb, de 100 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 7812 | 744 | 93,80 |
 
-| 6. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 8100 | 772 | 59,67 |
+|  | 5. | 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 9300 | 886 | 83,93 |
 
-b) Földgázelosztási díj elemei és mértékei az E.ON Közép-dunántúli Gázhálózati Zrt. és az OERG Kft. elosztási területén
+|  | 6. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 8508 | 811 | 62,65 |
 
-|  | A | B | C | D | E | F |
+b) Földgázelosztási díj elemei és mértékei az E.ON Közép-dunántúli Gázhálózati Zrt. és az OERG Kft. elosztási területén:
 
-| 1. | Értékesítési kategóriák | Elosztási átalánydíj Ft/MWh | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási kapacitásdíj Ft/kWh/h/év | Elosztási forgalmi díj Ft/MWh |
+|  |  | A) | B) | C) | D) | E) | F) |
 
-| 2. | Fogyasztásmérővel nem rendelkező felhasználók | 3120,81 |  |  |  |  |
+|  | 1. | Értékesítési kategóriák | Elosztási átalánydíj Ft/MWh | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási kapacitásdíj Ft/kWh/h/év | Elosztási forgalmi díj Ft/MWh |
 
-| 3. | 20 m3/h-nál kisebb névleges kapacitású fogyasztásmérővel rendelkező felhasználók |  | 9192 |  |  | 1318,71 |
+|  | 2. | Gázmérővel nem rendelkező felhasználók | 3 143,62 |  |  |  |  |
 
-| 4. | 20 m3/h vagy annál nagyobb, de 100 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 8472 | 807 | 92,86 |
+|  | 3. | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználók |  | 9 192 |  |  | 1 318,71 |
 
-| 5. | 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 10 920 | 1040 | 75,53 |
+|  | 4. | 20 m3/h vagy annál nagyobb, de 100 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 9 744 | 928 | 103,48 |
 
-| 6. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 10 416 | 993 | 67,53 |
+|  | 5. | 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 10 920 | 1 040 | 83,08 |
 
-c.1) Földgázelosztási díj elemei és mértékei az Égáz-Dégáz Földgázelosztó Zrt. elosztási területén
+|  | 6. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 10 944 | 1 043 | 70,91 |
 
-|  | A | B | C | D | E | F |
+c.1) Földgázelosztási díj elemei és mértékei az NKM Észak-Dél Földgázhálózati Zrt. elosztási területén:
 
-| 1. | Értékesítési kategóriák | Elosztási átalánydíj Ft/MWh | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási kapacitásdíj Ft/kWh/h/év | Elosztási forgalmi díj Ft/MWh |
+|  |  | A) | B) | C) | D) | E) | F) |
 
-| 2. | Fogyasztásmérővel nem rendelkező felhasználók | 2470,00 |  |  |  |  |
+|  | 1. | Értékesítési kategóriák | Elosztási átalánydíj Ft/MWh | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási kapacitásdíj Ft/kWh/h/év | Elosztási forgalmi díj Ft/MWh |
 
-| 3. | 20 m3/h-nál kisebb névleges kapacitású fogyasztásmérővel rendelkező felhasználók |  | 9192 |  |  | 923,23 |
+|  | 2. | Gázmérővel nem rendelkező felhasználók | 2437,07 |  |  |  |  |
 
-| 4. | 20 m3/h vagy annál nagyobb, de 100 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 6264 | 597 | 97,76 |
+|  | 3. | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználók |  | 9192 |  |  | 923,23 |
 
-| 5. | 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 7620 | 726 | 67,92 |
+|  | 4. | 20 m3/h vagy annál nagyobb, de 100 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 7044 | 671 | 108,79 |
 
-| 6. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 6912 | 659 | 76,34 |
+|  | 5. | 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 8184 | 779 | 74,71 |
 
-c.2) Elosztási átszállítási díj: 64,44 Ft/MWh
+|  | 6. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 7260 | 692 | 80,16 |
 
-d) Földgázelosztási díj elemei és mértékei a Főgáz Földgázelosztási Kft. elosztási területén
+c.2) Elosztási átszállítási díj: 79,68 Ft/MWh
 
-|  | A | B | C | D | E | F |
+d) Földgázelosztási díj elemei és mértékei az NKM Földgázhálózati Kft. elosztási területén:
 
-| 1. | Értékesítési kategóriák | Elosztási átalánydíj Ft/MWh | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási kapacitásdíj Ft/kWh/h/év | Elosztási forgalmi díj Ft/MWh |
+|  |  | A) | B) | C) | D) | E) | F) |
 
-| 2. | Fogyasztásmérővel nem rendelkező felhasználók | 2357,14 |  |  |  |  |
+|  | 1. | Értékesítési kategóriák | Elosztási átalánydíj Ft/MWh | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási kapacitásdíj Ft/kWh/h/év | Elosztási forgalmi díj Ft/MWh |
 
-| 3. | 20 m3/h-nál kisebb névleges kapacitású fogyasztásmérővel rendelkező felhasználók |  | 9192 |  |  | 792,47 |
+|  | 2. | Gázmérővel nem rendelkező felhasználók | 2315,13 |  |  |  |  |
 
-| 4. | 20 m3/h vagy annál nagyobb, de 100 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 6252 | 595 | 86,05 |
+|  | 3. | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználók |  | 9192 |  |  | 792,47 |
 
-| 5. | 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 6972 | 664 | 69,07 |
+|  | 4. | 20 m3/h vagy annál nagyobb, de 100 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 7188 | 684 | 98,96 |
 
-| 6. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 4668 | 445 | 76,12 |
+|  | 5. | 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 6972 | 664 | 75,98 |
 
-e) Földgázelosztási díj elemei és mértékei a Magyar Gázszolgáltató Kft. elosztási területén
+|  | 6. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 4908 | 467 | 79,93 |
 
-|  | A | B | C | D | E |
+e) Földgázelosztási díj elemei és mértékei a Magyar Gázszolgáltató Kft. elosztási területén:
 
-| 1. | Értékesítési kategóriák | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási kapacitásdíj Ft/kWh/h/év | Elosztási forgalmi díj Ft/MWh |
+|  |  | A) | B) | C) | D) | E) |
 
-| 2. | 20 m3/h-nál kisebb névleges kapacitású fogyasztásmérővel rendelkező felhasználók | 9192 |  |  | 935,55 |
+|  | 1. | Értékesítési kategóriák | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási kapacitásdíj Ft/kWh/h/év | Elosztási forgalmi díj Ft/MWh |
 
-| 3. | 20 m3/h vagy annál nagyobb, de 100 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  | 7032 | 669 | 101,06 |
+|  | 2. | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználók | 9 192 |  |  | 935,55 |
 
-| 4. | 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  | 9420 | 897 | 49,94 |
+|  | 3. | 20 m3/h vagy annál nagyobb, de 100 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  | 7 764 | 739 | 110,56 |
 
-| 5. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  | 6096 | 580 | 27,82 |
+|  | 4. | 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  | 10 356 | 987 | 51,27 |
 
-f) Földgázelosztási díj elemei és mértékei a Tigáz-DSO Földgázelosztó Kft. és a Natural Gas Service Ipari és Szolgáltató Kft. elosztási területén
+|  | 5. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  | 6 084 | 580 | 28,53 |
 
-|  | A | B | C | D | E | F |
+f) Földgázelosztási díj elemei és mértékei a Tigáz-DSO Földgázelosztó Kft. és a Natural Gas Service Ipari és Szolgáltató Kft. elosztási területén:
 
-| 1. | Értékesítési kategóriák | Elosztási átalánydíj Ft/MWh | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási kapacitásdíj Ft/kWh/h/év | Elosztási forgalmi díj Ft/MWh |
+|  |  | A) | B) | C) | D) | E) | F) |
 
-| 2. | Fogyasztásmérővel nem rendelkező felhasználók | 2514,65 |  |  |  |  |
+|  | 1. | Értékesítési kategóriák | Elosztási átalánydíj Ft/MWh | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási kapacitásdíj Ft/kWh/h/év | Elosztási forgalmi díj Ft/MWh |
 
-| 3. | 20 m3/h-nál kisebb névleges kapacitású fogyasztásmérővel rendelkező felhasználók |  | 9192 |  |  | 998,01 |
+|  | 2. | Gázmérővel nem rendelkező felhasználók | 2467,92 |  |  |  |  |
 
-| 4. | 20 m3/h vagy annál nagyobb, de 100 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 6528 | 621 | 92,14 |
+|  | 3. | 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználók |  | 9192 |  |  | 998,01 |
 
-| 5. | 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 8340 | 794 | 70,11 |
+|  | 4. | 20 m3/h vagy annál nagyobb, de 100 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 7500 | 714 | 101,76 |
 
-| 6. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 7188 | 685 | 83,49 |
+|  | 5. | 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 9168 | 873 | 77,12 |
+
+|  | 6. | 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó |  |  | 7188 | 685 | 87,66 |
 
 III. Földgáztárolási díj
 
 A tárolási díj elemei és mértékei:
 
-Kitárolási díj: 13,48 Ft/MWh
+Kitárolási díj: 17,04 Ft/MWh
 
-Betárolási díj: 55,19 Ft/MWh
+Betárolási díj: 73,65 Ft/MWh
 
 A tárolói kapacitásdíj kiszámítása a következő képlet alapján történik:
 
@@ -152,4 +154,4 @@ B: a rendszerhasználó betárolási kapacitás lekötése (kWh/nap)
 
 K: a rendszerhasználó kitárolási kapacitás lekötése (kWh/nap)
 
-[^1]: Az 1. melléklet a 7/2017. (VII. 13.) MEKH rendelet 22. §-ával megállapított szöveg.
+[^1]: Az 1. melléklet a 3/2018. (VI. 1.) MEKH rendelet 1. §-ával megállapított szöveg.
