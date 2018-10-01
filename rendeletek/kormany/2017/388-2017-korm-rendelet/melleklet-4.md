@@ -48,7 +48,7 @@
 
 | 1570 | Jelentés az emberi mérgezési esetekről | AGY | Évenkénti | az egészségügyi ellátást végző intézmények (kórházak klinikák egészségcentrumok) háziorvosok mentők | a tárgyévet követő március 31. |  | OSZIR-Országos Szakrendszeri Információs Rendszer |
 
-| 1572 | Jelentés a foglalkozási megbetegedésekről és fokozott expozíciós esetekről | AGY | Évenkénti | Országos Közegészségügyi Intézet Munkahigiénés és Foglalkozás-egészségügyi Igazgatóság | a tárgyévet követő március 10. | 1893/2006/EK Rendelet 1338/2008/EK Rendelet |  |
+| 1572 | Jelentés a foglalkozási megbetegedésekről és fokozott expozíciós esetekről | AGY | Évenkénti | Nemzeti Népegészségügyi Központ Munkahigiénés és Foglalkozás-egészségügyi Igazgatóság | a tárgyévet követő március 10. | 1893/2006/EK Rendelet 1338/2008/EK Rendelet |  |
 
 | 1576 | Jelentés az egészségügyi ellátás beruházási és felújítási kiadásainak alakulásáról | AGY | Évenkénti | (1) A közszolgáltatásban résztvevő valamennyi fekvő és járóbeteg szakellátást nyújtó egészségügyi intézmény, az Országos Mentőszolgálat és az Országos Vérellátó Szolgálat. |  |  |  |
 
@@ -56,7 +56,7 @@
 
 | 1578 | Jelentés a gyógyszertárakról | AGY | Évenkénti | Valamennyi működési engedéllyel rendelkező közforgalmú és intézeti gyógyszertár az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet közreműködésével | a tárgyévet követő február 28. |  |  |
 
-| 1626 | Adatgyűjtés az egészségügyi ágazati munkaügyi és bérnyilvántartási rendszeréhez | AGY | Évenkénti | A nem MÁK számfejtési körbe tartozó, valamint a tárgyévben MÁK számfejtési körből kilépett települési önkormányzatok, ÁNTSZ, valamennyi ÁNTSZ engedéllyel rendelkező, közszolgáltatásban résztvevő egészségügyi szolgáltató (kivéve a vállalkozási, vagy egyéni gazdasági tevékenység formájában működő egészségügyi szolgáltatókat, ha nem nyújtanak fekvő vagy járóbeteg szakellátást). | a tárgyévet követő február 28. |  |  |
+| 1626 | Adatgyűjtés az egészségügyi ágazati munkaügyi és bérnyilvántartási rendszeréhez | AGY | Évenkénti | A nem MÁK számfejtési körbe tartozó, valamint a tárgyévben MÁK számfejtési körből kilépett települési önkormányzatok, valamennyi működési engedéllyel rendelkező, közszolgáltatásban résztvevő egészségügyi szolgáltató (kivéve a vállalkozási, vagy egyéni gazdasági tevékenység formájában működő egészségügyi szolgáltatókat, ha nem nyújtanak fekvő vagy járóbeteg szakellátást). | a tárgyévet követő február 28. |  |  |
 
 | 1913 | Havi jelentés a gyógyszer-nagykereskedők gyógyszer beszerzéseiről és kiszállításairól valamint a gyógyszergyártók saját előállítású termékeinek kiszállításairól | AGY | Havonkénti | valamennyi gyógyszergyártó és gyógyszernagykereskedő | a tárgyidőszakot követő hónap 15. nap |  |  |
 

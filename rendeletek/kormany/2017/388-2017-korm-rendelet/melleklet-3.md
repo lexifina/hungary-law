@@ -296,4 +296,6 @@
 
 |  |  | (25) | Gondozás keretében börtönpártfogást igénybevevő fiatalkorúak számára vonatkozó adatok ügyforgalmi bontásban |
 
-3. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+3. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^2]
+
+[^2]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 38. §-a szerint módosított szöveg.
