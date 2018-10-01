@@ -1,5 +1,0 @@
-6. § (1) Ha a bejelentésből megállapítható, hogy a tervezett rendezvény bejelentése, megtartása a törvény rendelkezéseibe ütközik, de előzetesen nem tiltható meg, a rendőrség a szervezőt erre írásban figyelmezteti.
-
-(2) Ha a bejelentésből, vagy más módon egyértelműen megállapítható, hogy a tervezett rendezvény a törvény 2. § (3) bekezdésében foglaltakba fog ütközni, vagy a rendezvényen a résztvevők fegyveresen, illetőleg felfegyverkezve fognak megjelenni, vagy a rendezvényt a bejelentésnek a törvény 7. § a) és b) pontjai követelményeinek megfelelő tartalmától eltérően fogják megtartani, a figyelmeztetésnek tartalmaznia kell a jogkövetkezményekre — az esetleges feloszlatásra — vonatkozó felhívást is.
-
-(3) A (2) bekezdésben meghatározott jogkövetkezményekre való figyelmeztetést a vezető nemcsak a szervezővel közli, hanem a helyileg szokásos módon (pl. a tömegtájékoztatási eszközöket is igénybe véve) nyilvánosságra is hozza. Így jár el akkor is, ha a rendezvényre várhatóan nagy létszámú résztvevő készül, de annak megtartását — a bejelentésben megjelölt helyszínen, vagy időben — megtiltotta.
