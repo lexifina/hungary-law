@@ -18,28 +18,29 @@ d) U díjkategória: a D2 és a B2 díjkategóriába tartozó járművek által 
 
 (5) A Pest megyére megváltott jogosultsággal a Főváros közigazgatási határán belüli díjköteles úthálózat is használható, illetve kizárólag a Főváros területére eső díjköteles úthálózatra jogosultság nem váltható.
 
-(6) A jogosultság általános forgalmi adóval terhelt ára forintban a következő:
+(6)[^37] A jogosultság általános forgalmi adóval terhelt ára forintban a következő:
 
 |  | A | B | C | D | E |
 
 | 1 | Díjkategória | Heti | Havi | Éves | Megyei |
 
-| 2 | D1 | 2 975 | 4 780 | 42 980 | 5 000 |
+| 2 | D1 | 3 500 | 4 780 | 42 980 | 5 000 |
 
-| 3 | D2 | 5 950 | 9 560 | 42 980 | 10 000 |
+| 3 | D2 | 7 000 | 9 560 | 42 980 | 10 000 |
 
-| 4 | U | 2 975 | 4 780 | 42 980 | 5 000 |
+| 4 | U | 3 500 | 4 780 | 42 980 | 5 000 |
 
-| 5 | B2 | 13 385 | 21 975 | 199 975 | 20 000 |
+| 5 | B2 | 15 500 | 21 975 | 199 975 | 20 000 |
 
-(7)[^37] A motorkerékpár után fizetendő heti úthasználati jogosultság általános forgalmi adóval terhelt ára 1470 forint, a havi úthasználati jogosultság általános forgalmi adóval terhelt ára 2500 forint.
+(7)[^38] A motorkerékpár után fizetendő heti úthasználati jogosultság általános forgalmi adóval terhelt ára 1470 forint, a havi úthasználati jogosultság általános forgalmi adóval terhelt ára 2500 forint.
 
-(8)[^38]
+(8)[^39]
 
 [^32]: A 6. § az 57/2014. (XII. 30.) NFM rendelet 3. §-ával megállapított szöveg.
 [^33]: A 6. § (1) bekezdése az 58/2017. (XII. 29.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^34]: A 6. § (2) bekezdését az 58/2017. (XII. 29.) NFM rendelet 14. § (1) bekezdés b) pontja hatályon kívül helyezte.
 [^35]: A 6. § (3) bekezdése a 3/2015. (I. 29.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^36]: A 6. § (4) bekezdését a 75/2015. (XII. 29.) NFM rendelet 19. § b) pontja hatályon kívül helyezte.
-[^37]: A 6. § (7) bekezdése az 58/2017. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^38]: A 6. § (8) bekezdését a 3/2015. (I. 29.) NFM rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte az 58/2017. (XII. 29.) NFM rendelet 14. § (1) bekezdés b) pontja.
+[^37]: A 6. § (6) bekezdése a 13/2018. (VIII. 31.) ITM rendelet 1. §-ával megállapított szöveg.
+[^38]: A 6. § (7) bekezdése az 58/2017. (XII. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^39]: A 6. § (8) bekezdését a 3/2015. (I. 29.) NFM rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte az 58/2017. (XII. 29.) NFM rendelet 14. § (1) bekezdés b) pontja.

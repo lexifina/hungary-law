@@ -1,4 +1,4 @@
-7/A. §[^45] (1) Ha a gépjármű az ellenőrzéskor nem rendelkezik érvényes jogosultsággal – a (2) és a (3) bekezdésben foglalt kivétellel –, jogosulatlan úthasználat miatt a gépjármű kategóriájának megfelelő pótdíjat kell fizetni.
+7/A. §[^46] (1) Ha a gépjármű az ellenőrzéskor nem rendelkezik érvényes jogosultsággal – a (2) és a (3) bekezdésben foglalt kivétellel –, jogosulatlan úthasználat miatt a gépjármű kategóriájának megfelelő pótdíjat kell fizetni.
 
 (2) Nincs helye a jogosulatlan úthasználat miatt pótdíj kiszabásának a NÚSZ Zrt. központi rendszerének a NÚSZ Zrt. honlapján közzétett üzemszünete és az azt követő 60 percen belül végzett ellenőrzés alapján.
 
@@ -28,4 +28,4 @@ b) külföldi rendszámmal rendelkező járművek esetében – ha arra máskén
 
 (13) A NÚSZ Zrt. jogosult a pótdíjfizetésre kötelezett természetes személy kérelmére részletfizetést engedélyezni, amennyiben a kérelmező valószínűsíti, hogy a pótdíj egy összegben történő megfizetése jelentős anyagi terhet róna rá. A pótdíj megfizetésére kötelezett fizetési késedelme a részletfizetés kedvezményének fenntartását kizárja, és a tartozást egy összegben esedékessé teszi azzal, hogy kamat ebben az esetben sem követelhető.
 
-[^45]: A 7/A. §-t a 108/2007. (XII. 23.) GKM rendelet 7. §-a iktatta be, szövege az 58/2017. (XII. 29.) NFM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^46]: A 7/A. §-t a 108/2007. (XII. 23.) GKM rendelet 7. §-a iktatta be, szövege az 58/2017. (XII. 29.) NFM rendelet 9. § (1) bekezdésével megállapított szöveg.
