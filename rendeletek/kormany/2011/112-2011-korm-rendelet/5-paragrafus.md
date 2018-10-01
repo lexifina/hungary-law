@@ -14,7 +14,7 @@ c) légi fuvarozási tevékenység keretében végzett továbbítását nemzetk�
 
 (4) A radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló miniszteri rendelet (a továbbiakban: Rendelet1.) szerinti szállítási engedély megadása, visszavonása, módosítása során hozott döntését az OAH közli
 
-a) az Országos Közegészségügyi Intézettel (a továbbiakban: OKI),
+a)[^17]
 
 b) Budapest Főváros Kormányhivatalával,
 
@@ -28,7 +28,7 @@ a) az OAH-val,
 
 b) az országos tisztifőorvossal,
 
-c) az OKI-val,
+c)[^18]
 
 d) az engedélyes székhelye (telephelye) szerint illetékes közlekedési hatósággal és
 
@@ -52,6 +52,9 @@ c) az illetékes hivatásos katasztrófavédelmi szerv
 
 (10) A radioaktív anyagok szállítása, fuvarozása iránti kérelem kizárólag írásban terjeszthető elő. Ha az engedélyezési dokumentációt papír alapon terjesztik elő, a kérelmezőnek további egy példányt elektronikus adathordozón is mellékelnie kell az OAH által elfogadott fájlformátumokban. Az elfogadott fájlformátumok jegyzékét az OAH a honlapján közzéteszi.
 
-(11) Ha a járművön radioaktív anyagot tartalmazó berendezés állandó jelleggel történő, vagy a radioaktív anyagot tartalmazó küldemény különleges elhelyezése miatt a jármű átalakítása válik szükségessé, a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott átalakítási engedélyhez az OKI sugáregészségügyi szakvéleményét előzetesen be kell szerezni.
+(11)[^19] Ha a járművön radioaktív anyagot tartalmazó berendezés állandó jelleggel történő, vagy a radioaktív anyagot tartalmazó küldemény különleges elhelyezése miatt a jármű átalakítása válik szükségessé, a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott átalakítási engedélyhez az országos tisztifőorvos sugáregészségügyi szakvéleményét előzetesen be kell szerezni.
 
 [^16]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 329. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^17]: Az 5. § (4) bekezdés a) pontját a 162/2018. (IX. 10.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^18]: Az 5. § (5) bekezdés c) pontját a 162/2018. (IX. 10.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^19]: Az 5. § (11) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 17. §-a szerint módosított szöveg.
