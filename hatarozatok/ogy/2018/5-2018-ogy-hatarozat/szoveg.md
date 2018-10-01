@@ -356,7 +356,7 @@ Vécsey László (Fidesz)
 
 Hegedűs Lorántné (Jobbik)
 
-dr. Harangozó Tamás (MSZP)
+dr. Varga László (MSZP)[^31]
 
 Tagok: B. Nagy László (Fidesz)
 
@@ -368,13 +368,13 @@ Dunai Mónika (Fidesz)
 
 Farkas Flórián (Fidesz)
 
-dr. Fazekas Sándor (Fidesz)[^31]
+dr. Fazekas Sándor (Fidesz)[^32]
 
 Hadházy Sándor (Fidesz)
 
 Herczeg Tamás (Fidesz)
 
-Héjj Dávid Ádám (Fidesz)[^32]
+Héjj Dávid Ádám (Fidesz)[^33]
 
 Hirt Ferenc (Fidesz)
 
@@ -394,7 +394,7 @@ dr. Szűcs Lajos (Fidesz)
 
 dr. Tapolczai Gergely (Fidesz)
 
-dr. Aradszki András (KDNP)[^33]
+dr. Aradszki András (KDNP)[^34]
 
 dr. Vejkey Imre (KDNP)
 
@@ -402,13 +402,13 @@ dr. Fülöp Erik (Jobbik)
 
 Jakab Péter (Jobbik)
 
-Potocskáné Kőrösi Anita (Jobbik)[^34]
+Potocskáné Kőrösi Anita (Jobbik)[^35]
 
 Stummer János (Jobbik)
 
 Szilágyi György (Jobbik)
 
-dr. Varga László (MSZP)[^35]
+Molnár Gyula (MSZP)[^36]
 
 Hiszékeny Dezső (MSZP)
 
@@ -436,7 +436,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 
 6. A Magyarországi nemzetiségek bizottságának megbízatása 2018. május 9-én kezdődik.
 
-7.[^36]
+7.[^37]
 
 [^2]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
@@ -467,9 +467,10 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^28]: A 11/2018. (VI. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^29]: A 7/2018. (V. 11.) OGY határozat 1. pontja iktatta be.
 [^30]: A 10/2018. (VI. 5.) OGY határozat 1. pontja iktatta be.
-[^31]: A 10/2018. (VI. 5.) OGY határozat 2. pontja ikattta be.
-[^32]: A 7/2018. (V. 11.) OGY határozat 2. pontja iktatta be.
-[^33]: A 10/2018. (VI. 5.) OGY határozat 2. pontjával megállapított szöveg.
-[^34]: A 10/2018. (VI. 5.) OGY határozat 2. pontja iktatta be.
-[^35]: A 10/2018. (VI. 5.) OGY határozat 2. pontjával megállapított szöveg.
-[^36]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 19/2018. (X. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^32]: A 10/2018. (VI. 5.) OGY határozat 2. pontja ikattta be.
+[^33]: A 7/2018. (V. 11.) OGY határozat 2. pontja iktatta be.
+[^34]: A 10/2018. (VI. 5.) OGY határozat 2. pontjával megállapított szöveg.
+[^35]: A 10/2018. (VI. 5.) OGY határozat 2. pontja iktatta be.
+[^36]: A 19/2018. (X. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^37]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
