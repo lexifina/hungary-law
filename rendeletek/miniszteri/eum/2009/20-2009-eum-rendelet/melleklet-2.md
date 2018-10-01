@@ -1,4 +1,4 @@
-2. melléklet a 20/2009. (VI. 18.) EüM rendelethez[^32]
+2. melléklet a 20/2009. (VI. 18.) EüM rendelethez[^36]
 
 1. A NEAK adatszolgáltatása az országos antimikrobiális szerek felhasználásának adatbázisához
 
@@ -108,4 +108,4 @@ K – kísérő betegség
 
 Sz – szövődmény
 
-[^32]: A 2. mellékletet a 12/2012. (III. 6.) NEFMI rendelet 10. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 65. § k) pontja szerint módosított szöveg.
+[^36]: A 2. mellékletet a 12/2012. (III. 6.) NEFMI rendelet 10. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 65. § k) pontja szerint módosított szöveg.

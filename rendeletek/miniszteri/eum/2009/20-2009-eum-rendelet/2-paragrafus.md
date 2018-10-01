@@ -32,7 +32,13 @@ n) steril anyag-eszköz ellátás: az egészségügyi szolgáltatás nyújtása 
 
 o) járványügyi intézkedés: az egészségügyi ellátással összefüggő fertőzések átvitelének, szóródásának (járvány, járványveszély) megakadályozását célzó kötelezés;
 
-p) környezeti infekciókontroll: az egészségügyi ellátással összefüggő fertőzések megelőzése az egészségügyi intézmény mikrokörnyezetéből (levegő, víz, felületek) eredő rizikótényezők csökkentése révén.
+p) környezeti infekciókontroll: az egészségügyi ellátással összefüggő fertőzések megelőzése az egészségügyi intézmény mikrokörnyezetéből (levegő, víz, felületek) eredő rizikótényezők csökkentése révén;
+
+q)[^5] betegzóna: az egészségügyi ellátás olyan területe, melynek része a beteg és az őt körülvevő azon élettelen környezet, melyet a beteg maga megérinthet, vagy direkt módon a beteggel fizikai kontaktusba kerülhet;
+
+r)[^6] betegellátási pont: a betegzónán belül olyan hely, ahol egyidejűleg együttesen jelen van a beteg, az egészségügyi dolgozó és a beteg érintésével járó ápolás, betegellátás, gyógyítás.
 
 [^3]: A 2. § g) pontja a 12/2012. (III. 6.) NEFMI rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § i) pontja a 12/2012. (III. 6.) NEFMI rendelet 11. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § q) pontját a 32/2018. (IX. 28.) EMMI rendelet 1. §-a iktatta be.
+[^6]: A 2. § r) pontját a 32/2018. (IX. 28.) EMMI rendelet 1. §-a iktatta be.

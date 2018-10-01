@@ -1,8 +1,31 @@
-13. §[^21] (1) Az OIAB-ot az országos tisztifőorvos működteti.
+13. §[^26] (1) Az OIAB-ot a miniszter hozza létre.
 
-(2)[^22] Az OIAB tanácsadó testület, amely az alakuló ülésén elfogadott ügyrend szerint működik. Az OIAB elnöke az országos tisztifőorvos, titkára az országos tisztifőorvos javaslatára az ügyrendben meghatározott személy. Az OIAB tagja az OKI főigazgatója, az országos tisztifőgyógyszerész, a NEAK főigazgatója, a klinikai járványügy és mikrobiológia, infektológia, háziorvostan, gyermek alapellátás területén működő állandó minőségügyi szakfőorvosok, a feladattal megbízott szakfelügyelő főorvos, valamint az egészségügyi szakmai kollégium klinikai és járványügyi mikrobiológiai, infektológiai tagozatának vezetői, az egészségügyért felelős miniszter által vezetett minisztérium képviselője, a Nemzeti Élelmiszerlánc-biztonsági Hivatal képviselője.
+(2) Az OIAB a miniszter javaslattevő, véleményező, tanácsadói tevékenységet végző testülete, melynek feladata az egészségügyi ellátással összefüggő fertőzések és antimikrobiális rezisztencia helyzet értékelése és javaslattétel azon intézkedésekre és beavatkozásokra, melyekkel az egészségügyi ellátással összefüggő fertőzések kockázata csökkenthető, az antimikrobiális rezisztencia visszaszorítható.
 
-(3) Az OIAB feladata az egészségügyi ellátással összefüggő fertőzések megelőzése országos stratégiájának, akciótervének – beleértve az országos antibiotikum politikát is – kialakítása a 14. § (1) bekezdés a)–b) pontja szerinti adatbázisok felhasználásával és eredményeinek elemzése. Az OIAB éves tervet készít, évente elvégzi a terv végrehajtásának értékelését, és az eredményekről jelentést készít az egészségügyért felelős miniszter által vezetett minisztérium részére a tárgyévet követő április 15-ig.
+(3) Az OIAB vezetője az elnök, akit a miniszter jelöl ki.
 
-[^21]: A 13. § a 10/2011. (III. 30.) NEFMI rendelet 68. § (3) bekezdésével megállapított szöveg.
-[^22]: A 13. § (2) bekezdése a 33/2013. (V. 10.) EMMI rendelet 29. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 65. § f) és g) pontja szerint módosított szöveg.
+(4) Az OIAB-ot az országos tisztifőorvos működteti. Az OIAB az alakuló ülésén elfogadott ügyrend szerint működik.
+
+(5) Az OIAB titkárát az országos tisztifőorvos jelöli ki. Az OIAB állandó tagja az országos tisztifőorvos, az országos tisztifőgyógyszerész, a NEAK főigazgatója, a Nemzeti Élelmiszerlánc-biztonsági Hivatal képviselője. Az OIAB további tagjait a miniszter kéri fel.
+
+(6) Az OIAB feladatai:
+
+a) az egészségügyi ellátással összefüggő fertőzések és az antimikrobiális rezisztencia járványügyi helyzetének, valamint az antimikrobiális szer felhasználásnak az értékelése;
+
+b) adatgyűjtésekre történő javaslattétel;
+
+c) javaslattétel stratégiai jelentőségű központi beavatkozásokra és intézkedésekre;
+
+d) az egészségügyi intézményekben végzett infekciókontroll tevékenység elismerési és értékelési rendszerének kidolgozása és működtetése;
+
+e) a humánegészségügy és az állategészségügy együttműködésének elősegítése az antimikrobiális rezisztencia visszaszorítása érdekében;
+
+f) a stratégiai tervezésben, releváns szakpolitikák kialakításában, végrehajtásában és értékelésében történő közreműködés;
+
+g) részvétel járványügyi események kockázatértékelésében, a célzott intézkedések tervezésében, a beavatkozások értékelésében, kommunikációban;
+
+h) az IIAB-k és MIAB-ok jelentéseinek értékelése;
+
+i) éves jelentés készítése, továbbá felkérésre ad hoc jelentések készítése és ajánlások megfogalmazása a miniszter számára, aki dönt annak elfogadásáról és nyilvánosságra hozataláról.
+
+[^26]: A 13. § a 32/2018. (IX. 28.) EMMI rendelet 8. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## Az egészségügyi szolgáltató feladatai
 
-4. §[^7] (1) Az egészségügyi szolgáltató az e rendelet szerinti személyi és tárgyi feltételek biztosításával – az ellátás szintjének megfelelő – infekciókontroll tevékenységet folytat.
+4. §[^9] (1) Az egészségügyi szolgáltató az e rendelet szerinti személyi és tárgyi feltételek biztosításával – az ellátás szintjének megfelelő – infekciókontroll tevékenységet folytat.
 
 (2) Alapellátás, illetve járóbeteg-szakellátás keretében egy szakmában ellátást nyújtó egészségügyi szolgáltató infekciókontroll tevékenysége legalább a fertőzések átvitelének megakadályozását célzó előírásoknak megfelelő fertőtlenítési gyakorlatot, így különösen kéz-, bőr-, eszköz- és felületfertőtlenítést, sterilanyag ellátást, az előírásoknak megfelelő kommunális és veszélyes hulladékkezelés írásban is szabályozott bevezetését foglalja magában. Az egészségügyi szolgáltatóknál egészségügyi tevékenységet végző egészségügyi dolgozók esetében az infekciókontroll területét érintő képzést és rendszeres továbbképzést kell biztosítani.
 
@@ -28,4 +28,4 @@ b) a továbbképzést évi egy alkalommal valamennyi egészségügyi dolgozó sz
 
 (9) Az új belépő egészségügyi dolgozók (8) bekezdés szerinti képzésének a következő témaköröket kell tartalmaznia: a nosocomiális fertőzések jelentősége, nagyságrendje, terjedési módja és megelőzése; kézhigiéne; izolációs rendszabályok; védőeszköz használat; teendők multirezisztens kórokozók előfordulása során, illetve az egészségügyi szolgáltató helyi infekciókontrollal kapcsolatos eljárásrendjei.
 
-[^7]: A 4. § a 12/2012. (III. 6.) NEFMI rendelet 3. §-ával megállapított szöveg.
+[^9]: A 4. § a 12/2012. (III. 6.) NEFMI rendelet 3. §-ával megállapított szöveg.
