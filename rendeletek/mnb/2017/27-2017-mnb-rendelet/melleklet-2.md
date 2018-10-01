@@ -302,6 +302,6 @@
 
 | 7 | Z07 | Természetes személyek anonimizált jövedelmi és munkatörténet adatai | Országos Nyugdíjbiztosítási Főigazgatóság (a továbbiakban: ONYF) | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint |
 
-2. melléklet a 27/2017. (XI. 21.) MNB rendelethez[^4]
+2. melléklet a 27/2017. (XI. 21.) MNB rendelethez[^5]
 
-[^4]: A 2. melléklet „Negyedéves jelentés a jelzáloghitel-finanszírozás megfelelési mutatóról” (MNB azonosító kód: L72) megnevezésű adatszolgáltatáshoz kapcsolódó táblák és kitöltési előírások a 2. § (3) bekezdése alapján 2018. október 1-jén lépnek hatályba. A 2. melléklet a 9/2018. (III. 23.) MNB rendelet 2. § (3) bekezdése és a 2. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^5]: A 2. melléklet a 9/2018. (III. 23.) MNB rendelet 2. § (3) bekezdése és a 2. § (4) bekezdés c) pontja szerint módosított szöveg.

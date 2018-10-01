@@ -10,6 +10,6 @@ b) a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank ala
 
 (3) Az adatszolgáltató az 1. melléklet I. pontjában foglalt táblázat 37. sora szerinti „Napi jelentés a kamatderivatíva ügyletekre vonatkozóan” (MNB azonosító kód: K14) megnevezésű, 2018. január 2-ára mint tárgynapra vonatkozó adatszolgáltatásban a 2017. december 31-én élő kamatderivatíva ügyletek adatait is jelenti.
 
-(4)[^1] Az adatszolgáltató a P61 MNB azonosító kódú adatszolgáltatást az adatszolgáltatási tárgyú MNB rendeletek módosításáról és hatályon kívül helyezéséről szóló 9/2018. (III. 23.) MNB rendelet 7. melléklet 2. pontjával megállapított táblaszerkezetben és tartalommal első alkalommal 2018. április – 2018. június hónapra mint tárgyidőszakra vonatkozóan teljesíti, a teljesítési határidő 2018. július 13.
+(4)[^2] Az adatszolgáltató a P61 MNB azonosító kódú adatszolgáltatást az adatszolgáltatási tárgyú MNB rendeletek módosításáról és hatályon kívül helyezéséről szóló 9/2018. (III. 23.) MNB rendelet 7. melléklet 2. pontjával megállapított táblaszerkezetben és tartalommal első alkalommal 2018. április – 2018. június hónapra mint tárgyidőszakra vonatkozóan teljesíti, a teljesítési határidő 2018. július 13.
 
-[^1]: A 3. § (4) bekezdését a 9/2018. (III. 23.) MNB rendelet 2. § (1) bekezdése iktatta be.
+[^2]: A 3. § (4) bekezdését a 9/2018. (III. 23.) MNB rendelet 2. § (1) bekezdése iktatta be.
