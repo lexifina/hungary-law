@@ -14,7 +14,7 @@ c) a végtagok egyenértékdózis korlátja évi 500 mSv.
 
 (4)[^49] Tervezett sugárzási helyzetben egy adott személy által a teljes élete során kapott foglalkozási és veszélyhelyzet-elhárítási sugárterhelések összege nem haladhatja meg a 400 mSv effektív dózist.
 
-(5)[^50] A munkáltató kérelmére, az Országos Közegészségügyi Intézet (a továbbiakban: OKI) szakvéleménye alapján az OAH további, de legfeljebb évi 10 mSv nagyságú effektív dózist is engedélyezhet, ha a munkavállaló ehhez írásban hozzájárul, és a munkáltató igazolja az 5. §-ban az indokoltság elvére vonatkozó követelmények teljesülését.
+(5)[^50] A munkáltató kérelmére, az országos tisztifőorvos szakvéleménye alapján az OAH további, de legfeljebb évi 10 mSv nagyságú effektív dózist is engedélyezhet, ha a munkavállaló ehhez írásban hozzájárul, és a munkáltató igazolja az 5. §-ban az indokoltság elvére vonatkozó követelmények teljesülését.
 
 (6)[^51] Az OAH a (7) bekezdésben foglaltak teljesülése esetén – a veszélyhelyzeteket ide nem értve – egyes meghatározott munkavállalók számára jóváhagyhatja, hogy az őket érő személyi foglalkozási sugárterhelés túllépje a (2)–(5) bekezdésben előírt dóziskorlátokat, azzal a feltétellel, hogy ezeknek a sugárterheléseknek időben behatároltnak kell lenniük, konkrétan meghatározott munkavégzési területekre és feladatokra kell korlátozódniuk, és azok nem haladhatják meg az OAH által az adott esetre vonatkozóan megállapított sugárterhelési határértékeket.
 
@@ -39,7 +39,7 @@ f) az ilyen sugárterhelésekkel összefüggő valamennyi dózist külön rögz�
 [^47]: A 11. § a 27/2018. (II. 28.) Korm. rendelet 56. § 16. pontja szerint módosított szöveg.
 [^48]: A 12. § (1) bekezdése a 27/2018. (II. 28.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^49]: A 12. § (4) bekezdését a 27/2018. (II. 28.) Korm. rendelet 19. § (2) bekezdése iktatta be.
-[^50]: A 12. § (5) bekezdését a 27/2018. (II. 28.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^50]: A 12. § (5) bekezdését a 27/2018. (II. 28.) Korm. rendelet 19. § (2) bekezdése iktatta be, szövege a 162/2018. (IX. 10.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
 [^51]: A 12. § (6) bekezdését a 27/2018. (II. 28.) Korm. rendelet 19. § (2) bekezdése iktatta be.
 [^52]: A 12. § (7) bekezdését a 27/2018. (II. 28.) Korm. rendelet 19. § (2) bekezdése iktatta be.
 [^53]: A 12. § (8) bekezdését a 27/2018. (II. 28.) Korm. rendelet 19. § (2) bekezdése iktatta be.

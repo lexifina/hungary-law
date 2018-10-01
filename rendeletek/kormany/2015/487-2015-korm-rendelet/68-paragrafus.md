@@ -4,9 +4,9 @@ a) az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztif�
 
 b) kiadott, határozatlan érvényességi idejű sugárvédelmi képzés és továbbképzés tematikáját, valamint a vizsgakövetelményeket jóváhagyó határozatok 2016. december 31. napján hatályukat vesztik.
 
-(2)[^201]
+(2)[^203]
 
-(3)[^202] Az Egészségügyi Nyilvántartási és Képzési Központ, valamint a Magyar Mérnöki Kamara által az e kormányrendelet hatályba lépését megelőzően kiadott sugáregészségügyi, illetve sugárvédelmi szakértői engedélyek e rendelet vonatkozásában 2018. december 31-ig fogadhatóak el sugárvédelmi szakértői engedélyként.
+(3)[^204] Az Egészségügyi Nyilvántartási és Képzési Központ, valamint a Magyar Mérnöki Kamara által az e kormányrendelet hatályba lépését megelőzően kiadott sugáregészségügyi, illetve sugárvédelmi szakértői engedélyek e rendelet vonatkozásában 2018. december 31-ig fogadhatóak el sugárvédelmi szakértői engedélyként.
 
-[^201]: A 68. § (2) bekezdését a 27/2018. (II. 28.) Korm. rendelet 57. § n) pontja hatályon kívül helyezte.
-[^202]: A 68. § (3) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 41. pontja szerint módosított szöveg.
+[^203]: A 68. § (2) bekezdését a 27/2018. (II. 28.) Korm. rendelet 57. § n) pontja hatályon kívül helyezte.
+[^204]: A 68. § (3) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 41. pontja szerint módosított szöveg.

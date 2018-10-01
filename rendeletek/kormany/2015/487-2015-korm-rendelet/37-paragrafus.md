@@ -1,6 +1,6 @@
-## 36. §[^101] Az engedélyes a sugárvédelemmel kapcsolatos feladatainak ellátását sugárvédelmi szakértő és sugárvédelmi megbízott bevonásával végzi.
+## 36. §[^103] Az engedélyes a sugárvédelemmel kapcsolatos feladatainak ellátását sugárvédelmi szakértő és sugárvédelmi megbízott bevonásával végzi.
 
-37. §[^102] (1) Az atomenergia alkalmazójának a foglalkozási és a lakossági sugárterheléssel kapcsolatban alkalmazandó jogszabályi előírásoknak való megfeleléssel összefüggő kérdésekben történő tanácsadás érdekében sugárvédelmi szakértőt kell igénybe vennie.
+37. §[^104] (1) Az atomenergia alkalmazójának a foglalkozási és a lakossági sugárterheléssel kapcsolatban alkalmazandó jogszabályi előírásoknak való megfeleléssel összefüggő kérdésekben történő tanácsadás érdekében sugárvédelmi szakértőt kell igénybe vennie.
 
 (2) A sugárvédelmi szakértőt az atomenergia alkalmazója írásban bízza meg. A megbízást az atomenergia alkalmazójának vezető tisztségviselője és a sugárvédelmi szakértő aláírásával igazolja.
 
@@ -74,5 +74,5 @@ foglalt engedélyek iránti kérelmet és azok mellékletekeit.
 
 (10) A sugárvédelmi szakértői tevékenység ellátásához szükséges szakmai ismereteket, képesítési feltételeket és szakmai gyakorlatokat a 9. melléklet tartalmazza.
 
-[^101]: A 36. § a 27/2018. (II. 28.) Korm. rendelet 57. § f) pontja szerint módosított szöveg.
-[^102]: A 37. § a 27/2018. (II. 28.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^103]: A 36. § a 27/2018. (II. 28.) Korm. rendelet 57. § f) pontja szerint módosított szöveg.
+[^104]: A 37. § a 27/2018. (II. 28.) Korm. rendelet 34. §-ával megállapított szöveg.

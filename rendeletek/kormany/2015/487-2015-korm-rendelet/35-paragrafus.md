@@ -4,13 +4,13 @@
 
 a) a lakossági vagy a foglalkozási dóziskorlát túllépése,
 
-b)[^95] a lakossági dózismegszorítás túllépése,
+b)[^97] a lakossági dózismegszorítás túllépése,
 
 c) a sugárforrás elvesztése vagy jogosulatlan használata,
 
 d) a zárt sugárforrás zártságának megszűnése a szolgálati időn vagy annak engedélyezett meghosszabbításán belül, vagy
 
-e)[^96] minden olyan esemény, beleértve a tűzeseteket, emberi hibákat, fizikai védelmi eseményeket, berendezések meghibásodását és egyéb üzemzavarokat is, amelynek eredményeként
+e)[^98] minden olyan esemény, beleértve a tűzeseteket, emberi hibákat, fizikai védelmi eseményeket, berendezések meghibásodását és egyéb üzemzavarokat is, amelynek eredményeként
 
 ea) a munkavállalók nem tervezett, a vonatkozó éves dóziskorlát 1/10-ét meghaladó sugárterhelése következett be,
 
@@ -24,17 +24,17 @@ ee) radioaktív izotópok nem engedélyezett módon vagy valamely kivizsgálási
 
 (2) Az engedélyes a lakossági dóziskorlát túllépésének kivételével az (1) bekezdés szerinti esemény körülményeit köteles megvizsgálni, az esemény ismétlődésének vagy hasonló esemény bekövetkezésének megelőzését célzó javító intézkedéseket tenni.
 
-(3)[^97] Radioaktívhulladék-tároló létesítményben elhelyezett radioaktív sugárforrás kivételével az engedélyes köteles gondoskodni minden egyes sugárforrás sértetlenségének ellenőrzéséről minden olyan eseményt követően, beleértve a tűzeseteket is, amelynek során a sugárforrások károsodhattak. A már hulladékká minősített és kondicionált sugárforrások esetében a hulladékcsomag sértetlenségét kell vizsgálni.
+(3)[^99] Radioaktívhulladék-tároló létesítményben elhelyezett radioaktív sugárforrás kivételével az engedélyes köteles gondoskodni minden egyes sugárforrás sértetlenségének ellenőrzéséről minden olyan eseményt követően, beleértve a tűzeseteket is, amelynek során a sugárforrások károsodhattak. A már hulladékká minősített és kondicionált sugárforrások esetében a hulladékcsomag sértetlenségét kell vizsgálni.
 
-(4)[^98] Rendkívüli esemény bekövetkezése esetén az OAH elrendeli a dóziskorlát túllépésének gyanúja esetén a doziméterek soron kívüli kiértékelését, valamint az engedélyezett sugárvédelmi feltételek sérülésének bekövetkezése esetén a munkavégzés felfüggesztését.
+(4)[^100] Rendkívüli esemény bekövetkezése esetén az OAH elrendeli a dóziskorlát túllépésének gyanúja esetén a doziméterek soron kívüli kiértékelését, valamint az engedélyezett sugárvédelmi feltételek sérülésének bekövetkezése esetén a munkavégzés felfüggesztését.
 
-(5)[^99] Ha rendkívüli esemény következtében nukleáris veszélyhelyzet áll vagy állhat elő, az országos nukleárisbaleset-elhárítási rendszerről szóló kormányrendelet szerint kell eljárni a lakosságot érintő következmények elhárítása vagy enyhítése érdekében.
+(5)[^101] Ha rendkívüli esemény következtében nukleáris veszélyhelyzet áll vagy állhat elő, az országos nukleárisbaleset-elhárítási rendszerről szóló kormányrendelet szerint kell eljárni a lakosságot érintő következmények elhárítása vagy enyhítése érdekében.
 
-(6)[^100] Az atomenergia alkalmazójának rendkívüli esemény vagy nukleáris veszélyhelyzet bekövetkezése esetén szükséges teendőit az MSSZ-ben vagy különálló Balesetelhárítási Intézkedési Tervben kell rögzíteni. A rendkívüli esemény vagy nukleáris veszélyhelyzet kezelésére vonatkozó eljárást az OAH az 53. § (1) bekezdés 1., 2. és 4. pontjai szerinti engedélyezési eljárás során, nukleáris létesítmény esetén az NBSZ Kr. és radioaktívhulladék-tárolók esetén a TBSZ Kr. szerint hagyja jóvá.
+(6)[^102] Az atomenergia alkalmazójának rendkívüli esemény vagy nukleáris veszélyhelyzet bekövetkezése esetén szükséges teendőit az MSSZ-ben vagy különálló Balesetelhárítási Intézkedési Tervben kell rögzíteni. A rendkívüli esemény vagy nukleáris veszélyhelyzet kezelésére vonatkozó eljárást az OAH az 53. § (1) bekezdés 1., 2. és 4. pontjai szerinti engedélyezési eljárás során, nukleáris létesítmény esetén az NBSZ Kr. és radioaktívhulladék-tárolók esetén a TBSZ Kr. szerint hagyja jóvá.
 
-[^95]: A 35. § (1) bekezdés b) pontja a 27/2018. (II. 28.) Korm. rendelet 57. § e) pontja szerint módosított szöveg.
-[^96]: A 35. § (1) bekezdés e) pontja a 27/2018. (II. 28.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
-[^97]: A 35. § (3) bekezdése a 27/2018. (II. 28.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg.
-[^98]: A 35. § (4) bekezdése a 27/2018. (II. 28.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg.
-[^99]: A 35. § (5) bekezdését a 27/2018. (II. 28.) Korm. rendelet 33. § (2) bekezdése iktatta be.
-[^100]: A 35. § (6) bekezdését a 27/2018. (II. 28.) Korm. rendelet 33. § (2) bekezdése iktatta be.
+[^97]: A 35. § (1) bekezdés b) pontja a 27/2018. (II. 28.) Korm. rendelet 57. § e) pontja szerint módosított szöveg.
+[^98]: A 35. § (1) bekezdés e) pontja a 27/2018. (II. 28.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^99]: A 35. § (3) bekezdése a 27/2018. (II. 28.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg.
+[^100]: A 35. § (4) bekezdése a 27/2018. (II. 28.) Korm. rendelet 33. § (2) bekezdésével megállapított szöveg.
+[^101]: A 35. § (5) bekezdését a 27/2018. (II. 28.) Korm. rendelet 33. § (2) bekezdése iktatta be.
+[^102]: A 35. § (6) bekezdését a 27/2018. (II. 28.) Korm. rendelet 33. § (2) bekezdése iktatta be.

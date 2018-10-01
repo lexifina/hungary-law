@@ -62,6 +62,6 @@
 
 ## 2.1. A 2. pontban szereplő táblázat 7. sorában foglalt egyéb szövetekre megadott wT (0,12) érték a két nemet illetően az alábbiakban felsorolt 13 szervet, illetve szövetet érő dózis számtani közepére vonatkozik. Egyéb szövetek: mellékvesék, felső légutak, epehólyag, szív, vesék, nyirokcsomók, izom, szájnyálkahártya, hasnyálmirigy, prosztata (férfiak), vékonybél, lép, csecsemőmirigy, méh/méhnyak (nők).
 
-4. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^210]
+4. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^212]
 
-[^210]: A 4. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (1) bekezdésével megállapított szöveg.
+[^212]: A 4. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (1) bekezdésével megállapított szöveg.

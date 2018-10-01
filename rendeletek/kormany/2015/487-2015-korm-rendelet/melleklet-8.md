@@ -404,7 +404,7 @@
 
 | Egyéb berendezés: |
 
-8. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^214]
+8. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^216]
 
 A Munkahelyi Sugárvédelmi Szabályzat tartalmi követelményei
 
@@ -656,4 +656,4 @@ A Munkahelyi Sugárvédelmi Szabályzat tartalmi követelményei
 
 6.2.1.3.5. A sugársérültek vagy arra gyanús személyek helyszínen történő egészségügyi ellátása
 
-[^214]: A 8. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (4) bekezdésével megállapított szöveg.
+[^216]: A 8. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (4) bekezdésével megállapított szöveg.

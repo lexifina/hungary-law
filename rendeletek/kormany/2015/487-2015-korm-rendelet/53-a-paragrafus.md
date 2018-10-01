@@ -1,4 +1,4 @@
-53/A. §[^167] (1) Kiemelt, valamint I. sugárvédelmi kategóriába sorolt tevékenységek végzésére szolgáló létesítmények engedélyezése két ütemben történik. Az első ütemben a létesítmény kialakítása előtt a létesítésre irányuló engedélyezést kell folytatni az 53. § (1) bekezdés 1. vagy 2. pontja szerinti eljárásban. A második ütemben a létesítmény üzembe helyezésére vonatkozó engedélyezést kell lefolytatni az 53. § (1) bekezdés 1. vagy 2. pontja szerinti ismételt eljárás kezdeményezésével.
+53/A. §[^169] (1) Kiemelt, valamint I. sugárvédelmi kategóriába sorolt tevékenységek végzésére szolgáló létesítmények engedélyezése két ütemben történik. Az első ütemben a létesítmény kialakítása előtt a létesítésre irányuló engedélyezést kell folytatni az 53. § (1) bekezdés 1. vagy 2. pontja szerinti eljárásban. A második ütemben a létesítmény üzembe helyezésére vonatkozó engedélyezést kell lefolytatni az 53. § (1) bekezdés 1. vagy 2. pontja szerinti ismételt eljárás kezdeményezésével.
 
 (2) Az 53. § (1) bekezdés 1. és 2. pontja szerinti engedély kiemelt létesítmények, valamint I. sugárvédelmi kategóriába sorolt alkalmazás esetén, továbbá az 53. § (1) bekezdés 12. és 13. pontja szerinti engedélyezési eljárások során az OAH meghatározza a radioaktív anyag alkalmazására vagy az ionizáló sugárzást létrehozó berendezés üzemeltetésére vonatkozó üzemeltetési feltételeket és korlátokat és a szennyezett terület használatára vonatkozó feltételeket.
 
@@ -6,4 +6,4 @@
 
 (4) Az 53. § (1) bekezdés 1., 2. és 4. pontja szerinti engedély kiadása során a rendkívüli események és nukleáris veszélyhelyzetek kezelési tervének jóváhagyása is megtörténik.
 
-[^167]: Az 53/A. §-t a 27/2018. (II. 28.) Korm. rendelet 47. § (9) bekezdése iktatta be.
+[^169]: Az 53/A. §-t a 27/2018. (II. 28.) Korm. rendelet 47. § (9) bekezdése iktatta be.
