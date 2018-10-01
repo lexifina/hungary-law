@@ -24,7 +24,7 @@ d) a Budapesti Műszaki és Gazdaságtudományi Egyetem oktatóreaktora,
 
 e) a Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft.,
 
-f) az Országos Közegészségügyi Intézet,
+f)[^8] a Nemzeti Népegészségügyi Központ,
 
 g) a Magyarország területén sugárveszélyes tevékenység végzésére engedéllyel rendelkező szervezet,
 
@@ -39,3 +39,4 @@ i) az Országos Mentőszolgálat.
 (5) Az 1. § (2) bekezdésben foglalt feltételek fennállása esetén a veszélyhelyzet elhárításával kapcsolatos kormányzati kommunikációs tevékenységet a kormányzati koordinációs szerv vezetője hangolja össze.
 
 [^7]: A 7. § a 286/2017. (IX. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^8]: A 7. § (2) bekezdés f) pontja a 162/2018. (IX. 10.) Korm. rendelet 6. §-ával megállapított szöveg.

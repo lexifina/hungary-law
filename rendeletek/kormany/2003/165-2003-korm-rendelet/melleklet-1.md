@@ -1,4 +1,4 @@
-## 10. §[^9] Ez a rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, a Tanács 2013. december 5-i 2013/59/Euratom irányelvének való megfelelést szolgálja.
+## 10. §[^10] Ez a rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, a Tanács 2013. december 5-i 2013/59/Euratom irányelvének való megfelelést szolgálja.
 
 1. számú melléklet a 165/2003. (X. 18.) Korm. rendelethez
 
@@ -12,7 +12,7 @@
 
 4. A kidolgozott stratégia hatáskör szerint osztja fel a tájékoztatás területét az érintett szervek és szervezetek között országos, ágazati, megyei és létesítményi szinten.
 
-5.[^10] A fentiek mellett a kormányzati koordinációs szerv munkaszerve Lakossági Tájékoztatási Munkacsoportja által irányított és ellenőrzött szervek tájékoztató anyagát ellenőrizni kell az ellentmondások kiszűrése érdekében.
+5.[^11] A fentiek mellett a kormányzati koordinációs szerv munkaszerve Lakossági Tájékoztatási Munkacsoportja által irányított és ellenőrzött szervek tájékoztató anyagát ellenőrizni kell az ellentmondások kiszűrése érdekében.
 
 6. A tájékoztatásnak egyértelmű különbséget kell tennie a közvetlenül, illetve közvetve érintett lakosság között. A nukleáris létesítmény közelében élő lakosság számára nyújtott információknak részletesebbnek kell lennie, az egyértelmű és hatékony tevékenység végrehajtása érdekében.
 
@@ -24,5 +24,5 @@
 
 10. Minden tájékoztatást végző szerv vagy szervezet felelős az általa kiadott tájékoztatás vagy információ hitelességéért.
 
-[^9]: A 10. § a 286/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^10]: A 1. számú melléklet 5. pontja a 234/2011. (XI. 10.) Korm. rendelet 105. § (6) bekezdésével megállapított szöveg.
+[^10]: A 10. § a 286/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^11]: A 1. számú melléklet 5. pontja a 234/2011. (XI. 10.) Korm. rendelet 105. § (6) bekezdésével megállapított szöveg.
