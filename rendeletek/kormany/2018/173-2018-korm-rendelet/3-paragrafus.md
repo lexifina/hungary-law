@@ -1,0 +1,5 @@
+## 2. § A gyülekezési hatóság a bírság kiszabását mellőzi, ha a Gytv. 3. § (6) bekezdésébe ütköző, jogsértő magatartás az elkövetés körülményeire tekintettel csekély súlyú, és bírság megfizetése nélkül is kellő visszatartó hatás várható. Ebben az esetben a gyülekezési hatóság a közigazgatási szabályszegések szankcióiról szóló törvény szerinti figyelmeztetést alkalmaz.
+
+3. § (1) A gyülekezési hatóság a természetes személynek a teljesítési határidő letelte előtt előterjesztett kérelme alapján az őt terhelő bírságot végzésben mérsékelheti vagy korlátlanul enyhítheti, ha annak megfizetése az ügyfél és a vele együtt élő hozzátartozók megélhetését súlyosan veszélyezteti.
+
+(2) A gyülekezési hatóság a teljesítési határidő letelte előtt előterjesztett kérelem alapján a bírságot kivételes méltányosságból mérsékelheti vagy korlátlanul enyhítheti, különösen akkor, ha annak megfizetése a vállalkozási tevékenységet folytató természetes személy, jogi személy vagy egyéb szervezet ügyfél gazdálkodási tevékenységét ellehetetlenítené.

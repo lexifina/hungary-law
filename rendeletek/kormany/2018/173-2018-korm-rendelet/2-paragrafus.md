@@ -1,0 +1,3 @@
+## 1. § A gyülekezési jogról szóló 2018. évi LV. törvény (a továbbiakban: Gytv.) 21. §-a szerinti közigazgatási bírságot (a továbbiakban: bírság) a gyülekezési hatóság végleges döntésében megjelölt, a Magyar Államkincstár által erre a célra elkülönített központosított beszedési számlaszámra átutalási megbízás útján vagy készpénzátutalási megbízással kell megfizetni a bírságot kiszabó döntés véglegessé válásától számított harminc napon belül. Az átutalási megbízás vagy készpénzátutalási megbízás közlemény rovatába a „bírság” feltüntetése mellett a kötelezett nevére és a döntés számára kell hivatkozni.
+
+## 2. A bírság mérséklése, korlátlan enyhítése és kiszabásának mellőzése
