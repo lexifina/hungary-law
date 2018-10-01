@@ -294,7 +294,7 @@
 
 | 147. | Oroszlányi Szakorvosi és Ápolási Intézet | Oroszlány |
 
-| 148. | Országos Közegészségügyi Intézet | Budapest |
+| 148. | Nemzeti Népegészségügyi Központ | Budapest |
 
 | 149. | Állami Egészségügyi Ellátó Központ | Budapest |
 
