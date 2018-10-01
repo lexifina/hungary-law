@@ -4,8 +4,8 @@
 
 (2) Ha a helyszíni ellenőrzés alapján indokolt, az OAH értesíti az ORFK-t.
 
-(3)[^3] Az OAH, amennyiben saját eszközei a vizsgálathoz nem elegendőek, nukleáris anyag esetén értesíti az MTA EK-t, illetve más radioaktív anyag esetén az OKI-t, amely elvégzi a talált anyagnak az atomenergia alkalmazása körében a fizikai védelmi rendelet szerinti kategorizáláshoz szükséges vizsgálatokat.
+(3)[^3] Az OAH, amennyiben saját eszközei a vizsgálathoz nem elegendőek, nukleáris anyag esetén értesíti az MTA EK-t, illetve más radioaktív anyag esetén az országos tisztifőorvost, amely elvégzi a talált anyagnak az atomenergia alkalmazása körében a fizikai védelmi rendelet szerinti kategorizáláshoz szükséges vizsgálatokat.
 
 (4) Az OAH a helyszíni ellenőrzésről jegyzőkönyvet vesz fel, amelyet megküld az ORFK-nak és az AH-nak.
 
-[^3]: A 6. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 318. § b) pontja szerint módosított szöveg.
+[^3]: A 6. § (3) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
