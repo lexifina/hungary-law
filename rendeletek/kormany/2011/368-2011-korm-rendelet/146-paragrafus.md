@@ -1,8 +1,8 @@
-146. § (1)[^540] A nemzetiségi önkormányzatra, a társulásra és a térségi fejlesztési tanácsra a 145. § (1) és (2) bekezdését kell alkalmazni.
+146. § (1)[^551] A nemzetiségi önkormányzatra, a társulásra és a térségi fejlesztési tanácsra a 145. § (1) és (2) bekezdését kell alkalmazni.
 
-(2)[^541] A nemzetiségi önkormányzat, a társulás és a térségi fejlesztési tanács
+(2)[^552] A nemzetiségi önkormányzat, a társulás és a térségi fejlesztési tanács
 
-a)[^542] fizetési számlájához kapcsolódóan a 145. § (3) bekezdés a) és d) pontja szerinti alszámlákat,
+a)[^553] fizetési számlájához kapcsolódóan a 145. § (3) bekezdés a) és d) pontja szerinti alszámlákat,
 
 b) a letéti pénzeszközök kezelésére letéti számlát, és
 
@@ -10,6 +10,6 @@ c) devizaszámlát
 
 vezethet.
 
-[^540]: Az Ávr. 146. § (1) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 24. pontja szerint módosított szöveg.
-[^541]: Az Ávr. 146. § (2) bekezdés nyitó szövegrésze a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 25. pontja szerint módosított szöveg.
-[^542]: Az Ávr. 146. § (2) bbekezdés a) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 58. pontja szerint módosított szöveg.
+[^551]: Az Ávr. 146. § (1) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 24. pontja szerint módosított szöveg.
+[^552]: Az Ávr. 146. § (2) bekezdés nyitó szövegrésze a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 25. pontja szerint módosított szöveg.
+[^553]: Az Ávr. 146. § (2) bbekezdés a) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 58. pontja szerint módosított szöveg.

@@ -8,10 +8,10 @@
 
 (5)[^198] Ha a kötelezettséget vállaló szervhez önkormányzati biztost jelöltek ki, a kötelezettségvállaláshoz – a kötelezettségvállaló és a pénzügyi ellenjegyző aláírása mellett – a biztos külön ellenjegyzése is szükséges.
 
-(6)[^199] Ha a kötelezettséget vállaló szervhez költségvetési főfelügyelő, felügyelő került kirendelésre, a pénzügyi ellenjegyzőnek meg kell győződnie arról, hogy a költségvetési főfelügyelő, felügyelő az előzetes véleményezési jogát gyakorolhatta-e, ennek során az intézkedés végrehajtásának felfüggesztését nem javasolta. A kötelezettségvállalás pénzügyi ellenjegyzésére nem kerülhet sor, míg az intézkedés véleményezésére nem biztosítottak lehetőséget vagy a költségvetési főfelügyelő, felügyelő az intézkedés felfüggesztésére vonatkozó javaslatát fenntartja, és az intézkedés 61/A. § (5) bekezdése szerinti jóváhagyására nem került sor.
+(6)[^199] Ha a kötelezettséget vállaló szervhez költségvetési felügyelő került kirendelésre, a pénzügyi ellenjegyzőnek meg kell győződnie arról, hogy a költségvetési felügyelő az előzetes véleményezési jogát gyakorolhatta-e, ennek során az intézkedés végrehajtásának felfüggesztését nem javasolta. A kötelezettségvállalás pénzügyi ellenjegyzésére nem kerülhet sor, míg az intézkedés véleményezésére nem biztosítottak lehetőséget vagy a költségvetési felügyelő az intézkedés felfüggesztésére vonatkozó javaslatát fenntartja, és az intézkedés 61/A. § (5) bekezdése szerinti jóváhagyására nem került sor.
 
 [^195]: Az Ávr. 54. § (1) bekezdését az 56/2012. (III. 30.) Korm. rendelet 29. § (1) bekezdése hatályon kívül helyezte.
 [^196]: Az Ávr. 54. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
 [^197]: Az Ávr. 54. § (3) bekezdése az 56/2012. (III. 30.) Korm. rendelet 27. §-a, a 89/2016. (IV. 29.) Korm. rendelet 4. § 7. pontja szerint módosított szöveg.
 [^198]: Az Ávr. 54. § (5) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 30. § (2) bekezdés 3. pontja szerint módosított szöveg.
-[^199]: Az Ávr. 54. § (6) bekezdése a 243/2015. (IX. 8.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
+[^199]: Az Ávr. 54. § (6) bekezdése a 175/2018. (IX. 27.) Korm. rendelet 8. § 1. pontja szerint módosított szöveg.

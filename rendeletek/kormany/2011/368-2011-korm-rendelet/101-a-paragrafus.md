@@ -1,6 +1,6 @@
-101/A. §[^366] (1)[^367] A Kormány egyedi határozatán alapuló, vissza nem térítendő költségvetési támogatásra – a Kormány eltérő rendelkezése hiányában – e fejezet rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
+101/A. §[^376] (1)[^377] A Kormány egyedi határozatán alapuló, vissza nem térítendő költségvetési támogatásra – a Kormány eltérő rendelkezése hiányában – e fejezet rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(1a)[^368] Az (1) bekezdés szerinti támogatásra a határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet 3. § (1b) bekezdését minden esetben, más rendelkezéseit abban az esetben kell alkalmazni, ha e § eltérően nem rendelkezik.
+(1a)[^378] Az (1) bekezdés szerinti támogatásra a határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet 3. § (1b) bekezdését minden esetben, más rendelkezéseit abban az esetben kell alkalmazni, ha e § eltérően nem rendelkezik.
 
 (2) A támogatási döntés meghozatalához nem szükséges
 
@@ -50,13 +50,13 @@ e) a 76. § (1) bekezdés e) és i) pontját nem kell alkalmazni.
 
 (10) A kedvezményezett a támogatott tevékenység részletes bemutatását és a 76. § (1) bekezdés d) pontja szerinti költségtervet a támogatói okirat kiadásától számított hatvan napon belül küldi meg a támogatónak.
 
-(10a)[^369] A támogatási előlegként nyújtott költségvetési támogatást – a Kormány eltérő rendelkezése hiányában – a Kormány egyedi határozatának közzétételét követő tizenöt napon belül kell folyósítani.
+(10a)[^379] A támogatási előlegként nyújtott költségvetési támogatást – a Kormány eltérő rendelkezése hiányában – a Kormány egyedi határozatának közzétételét követő tizenöt napon belül kell folyósítani.
 
 (11) A kedvezményezett a megvalósításba a támogató előzetes tájékoztatása esetén vonhat be közreműködőket.
 
 (12) Az e § szerinti költségvetési támogatásokra a 81. § d) pontját és a 85. § (3) bekezdés első mondatát nem kell alkalmazni.
 
-[^366]: Az Ávr. 101/A. §-át a 425/2016. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
-[^367]: Az Ávr. 101/A. § (1) bekezdése a 140/2018. (VII. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^368]: Az Ávr. 101/A. § (1a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^369]: Az Ávr. 101/A. § (10a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 3. §-a iktatta be.
+[^376]: Az Ávr. 101/A. §-át a 425/2016. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^377]: Az Ávr. 101/A. § (1) bekezdése a 140/2018. (VII. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^378]: Az Ávr. 101/A. § (1a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^379]: Az Ávr. 101/A. § (10a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 3. §-a iktatta be.

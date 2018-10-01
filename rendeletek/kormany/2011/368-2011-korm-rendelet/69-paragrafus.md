@@ -24,8 +24,8 @@ i) – ha az meghatározásra került – a pályázati díj megfizetéséről s
 
 j) a pályázati kiírásban előírt egyéb adatokat.
 
-(1a)[^306] Külföldi pályázó esetén a támogató az (1) bekezdés b) pontjának alkalmazásától eltekinthet.
+(1a)[^316] Külföldi pályázó esetén a támogató az (1) bekezdés b) pontjának alkalmazásától eltekinthet.
 
 (2) A pályázat befogadását a pályázati kiírás a 75. § (2) és (3) bekezdése szerinti nyilatkozatok, dokumentumok benyújtásától teheti függővé.
 
-[^306]: Az Ávr. 69. § (1a) bekezdését a 224/2017. (VIII. 11.) Korm. rendelet 5. §-a iktatta be.
+[^316]: Az Ávr. 69. § (1a) bekezdését a 224/2017. (VIII. 11.) Korm. rendelet 5. §-a iktatta be.

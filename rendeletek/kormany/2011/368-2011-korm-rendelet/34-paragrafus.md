@@ -16,7 +16,7 @@ c) az olyan ügylet ellenértékét, amelyről az általános forgalmi adóról 
 
 (2a)[^127] Ha egyedi határozat a (2) bekezdés a) pontja szerinti előirányzatok vagy a (2) bekezdés b) pontja szerinti forrásokkal biztosított kiadási előirányzatok terhére történő előirányzat-átcsoportosításról rendelkezik, azt a Kincstár által vezetett fizetési számlák közötti (2) bekezdés szerinti átutalással kell végrehajtani.
 
-(2b)[^128]
+(2b)[^128] Az (1) bekezdésben és a (2) bekezdés b) pontjában foglaltaktól eltérően a fejezeti kezelésű előirányzatról nyújtott kutatás-fejlesztési támogatás Magyar Tudományos Akadémia és költségvetési szervei részére történő továbbadását a Kincstár által vezetett fizetési számlák közötti átutalással kell teljesíteni.
 
 (3) Az államháztartás központi alrendszerében a természetes személyek és az államháztartás központi alrendszerén kívüli jogi személyek, jogi személyiség nélküli egyéb szervezetek számára a kiadásokat a fizetési számlák megterhelésével vagy – ha jogszabály azt megengedi – készpénzes fizetéssel kell teljesíteni.
 
@@ -24,4 +24,4 @@ c) az olyan ügylet ellenértékét, amelyről az általános forgalmi adóról 
 [^125]: Az Ávr. 34. § (2) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^126]: Az Ávr. 34. § (2) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 16. §-ával megállapított, a 397/2014. (XII. 31.) Korm. rendelet 44. § 13. pontja szerint módosított szöveg.
 [^127]: Az Ávr. 34. § (2a) bekezdését a 413/2012. (XII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
-[^128]: Az Ávr. 34. § (2b) bekezdését a 64/2014. (III. 13.) Korm. rendelet 1. §-a iktatta, hatályon kívül helyezte a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 10. pontja.
+[^128]: Az Ávr. 34. § (2b) bekezdését újonnan a 175/2018. (IX. 27.) Korm. rendelet 1. §-a iktatta be.
