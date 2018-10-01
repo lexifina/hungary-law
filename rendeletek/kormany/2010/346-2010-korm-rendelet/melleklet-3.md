@@ -78,7 +78,7 @@ I. Központi finanszírozásúak
 
 | 8.5. Az Országos Mentőszolgálattal a mentésről szóló 5/2006. (II. 7.) EüM rendelet 10. § (4) bekezdése alapján mentési feladat elvégzésében közreműködő egészségügyi szolgáltató. | X |
 
-| 8.6. Állami Egészségügyi Ellátó Központ, Országos Közegészségügyi Intézet | X |
+| 8.6. Állami Egészségügyi Ellátó Központ, Nemzeti Népegészségügyi Központ | X |
 
 | 9. Országos Vízügyi Főigazgatóság /Vízügyi VPN/ | X | 9.1. Országos Vízügyi Főigazgatóság |  |
 
@@ -123,4 +123,4 @@ II. Egyedi finanszírozásúak
 [^134]: A 2. melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § a) pontja szerint módosított szöveg.
 [^135]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
 [^136]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
-[^137]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a, a 361/2017. (XI. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^137]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a, a 361/2017. (XI. 30.) Korm. rendelet 1. §-a, a 162/2018. (IX. 10.) Korm. rendelet 16. §-a szerint módosított szöveg.
