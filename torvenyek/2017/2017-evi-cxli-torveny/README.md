@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-141-00-00
 | --- | --- | --- |
 | 2017-11-14 | 2017. évi CXLI. törvény | 2017-141-00-00.0 (közlönyállapot) |
 | 2017-11-14 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-141-00-00.1 |
+| 2018-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-141-00-00.2 |
