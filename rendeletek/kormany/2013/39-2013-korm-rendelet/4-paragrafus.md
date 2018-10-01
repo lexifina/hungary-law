@@ -10,11 +10,11 @@ a) az Európai Gazdasági Térségről szóló megállapodásban részes állam 
 
 b) az akkreditált laboratórium által kiadott, a bevizsgálás eredményét rögzítő jegyzőkönyvet.
 
-(5)[^16] A kormányhivatal a bejelentéstől számított 30 napon belül a bejelentés alapján megvizsgálja, hogy a felhasználni tervezett adalékanyag szerepel-e a 4. melléklet szerinti tiltott adalékanyagok listáján, azzal, hogy ha az nem szerepel a listán és annak a listára való felvétele nem indokolt, a bejelentést tudomásul veszi, és erről tájékoztatja a bejelentőt. A kormányhivatal a bejelentésről tájékoztatja a fogyasztóvédelemért felelős minisztert és az egészségügyért felelős minisztert. Ha a kormányhivatal a 30 nap elteltével nem nyilatkozik, a bejelentett adalékanyag felhasználható.
+(5)[^16] A kormányhivatal a bejelentéstől számított 30 napon belül a bejelentés alapján megvizsgálja, hogy a felhasználni tervezett adalékanyag szerepel-e a 4. melléklet szerinti tiltott adalékanyagok listáján, azzal, hogy ha az nem szerepel a listán és annak a listára való felvétele nem indokolt, a bejelentést tudomásul veszi, és erről tájékoztatja a bejelentőt. A kormányhivatal a bejelentésről tájékoztatja a fogyasztóvédelemért felelős minisztert és az NNK-t. Ha a kormányhivatal a 30 nap elteltével nem nyilatkozik, a bejelentett adalékanyag felhasználható.
 
-(6)[^17] A (3) bekezdés szerint bejelentett adalékanyagokra vonatkozó tanulmányokat a felhasználás megkezdésétől számított 2 év elteltével a bejelentőnek meg kell küldenie az egészségügyért felelős miniszter által vezetett minisztérium részére. Az egészségügyért felelős miniszter által vezetett minisztérium a benyújtott dokumentáció alapján a benyújtástól számított 6 hónapon belül megvizsgálja, hogy a dokumentáció nem indokolja-e az adalékanyagnak a 4. melléklet szerinti tiltott adalékanyagok listáján történő szerepeltetését.
+(6)[^17] A (3) bekezdés szerint bejelentett adalékanyagokra vonatkozó tanulmányokat a felhasználás megkezdésétől számított 2 év elteltével a bejelentőnek meg kell küldenie az NNK részére. Az egészségügyért felelős miniszter által vezetett minisztérium a benyújtott dokumentáció alapján a benyújtástól számított 6 hónapon belül megvizsgálja, hogy a dokumentáció nem indokolja-e az adalékanyagnak a 4. melléklet szerinti tiltott adalékanyagok listáján történő szerepeltetését.
 
-(7)[^18] Ha az egészségügyért felelős miniszter úgy ítéli meg, hogy az adalékanyagot fel kell venni a 4. melléklet szerinti listára, az adalékanyag további felhasználását megtiltja. A tiltott adalékanyagokat fel kell venni a 4. mellékletben szereplő listára.
+(7)[^18] Ha az országos tisztifőorvos úgy ítéli meg, hogy az adalékanyagot fel kell venni a 4. melléklet szerinti listára, az adalékanyag további felhasználását megtiltja, és jogszabály-módosítást kezdeményez az egészségügyért felelős miniszternél a lista kibővítése érdekében.
 
 (8) A bejelentett adalékanyagtól eltérő adalékanyag, továbbá a dohány-adalékanyagnak a bejelentésben meghatározott feltételektől eltérő alkalmazása tilos.
 
@@ -24,6 +24,6 @@ b) az akkreditált laboratórium által kiadott, a bevizsgálás eredményét r�
 
 [^14]: A 4. § a 239/2016. (VIII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^15]: A 4. § (3) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 2. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 224. § (5) bekezdés c)–d) pontja, a 419/2016. (XII. 14.) Korm. rendelet 8. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^16]: A 4. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 224. § (5) bekezdés e), f), g), h) pontja szerint módosított szöveg.
-[^17]: A 4. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 224. § (5) bekezdés i) pontja szerint módosított szöveg.
-[^18]: A 4. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 224. § (2) bekezdésével megállapított szöveg.
+[^16]: A 4. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 224. § (5) bekezdés e), f), h) pontja, a 162/2018. (IX. 10.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^17]: A 4. § (6) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 22. § c) pontja szerint módosított szöveg. [A 162/2018. (IX. 10.) Korm. rendelet 22. § c) pontjával elrendelt módosítás a második mondatban nem vezethető át.]
+[^18]: A 4. § (7) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 21. §-ával megállapított szöveg.
