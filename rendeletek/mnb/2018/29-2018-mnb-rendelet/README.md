@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-29-20-2
 | --- | --- | --- |
 | 2018-08-22 | 2018-29-20-2C.1 | 29/2018. (VIII. 21.) MNB rendelet |
 | 2018-08-23 | 2018-29-20-2C.2 | 2010: CXXX. törvény |
+| 2018-10-01 | 2018-29-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

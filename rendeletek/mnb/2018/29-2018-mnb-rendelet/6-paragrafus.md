@@ -1,29 +1,23 @@
-## 5. §[^9]
+## 5. §[^3]
 
 ## 6. § A Rendelet
 
-a)[^10]
+a) 1. § (1) bekezdés a) pontjában a „fogyasztóval” szövegrész helyébe a „természetes személlyel” szöveg,
 
-b)[^11]
+b) 1. § (1) bekezdés b) pontjában a „fogyasztónak” szövegrész helyébe a „természetes személynek” szöveg, a „fogyasztót” szövegrész helyébe a „természetes személyt” szöveg, a „közeli hozzátartozói, élettársi” szövegrész helyébe a „hozzátartozói” szöveg,
 
-c)[^12]
+c) 1. § (2) bekezdés b) pontjában, (3) bekezdés b) pontjában az „a fogyasztó” szövegrész helyébe az „az ügyfél” szöveg,
 
-d)[^13]
+d) 1. § (3) bekezdés c) pontjában a „fogyasztó” szövegrész helyébe az „ügyfél” szöveg,
 
-e)[^14]
+e) 1. § (4) bekezdés b) pont bc) pontjában a „hitel.” szövegrész helyébe a „hitel, és” szöveg,
 
-f)[^15]
+f) 2. § 15. pontjában a „fogyasztó” szövegrész helyébe a „természetes személy” szöveg,
 
-g)[^16]
+g)[^4]
 
-h)[^17]
+h)[^5]
 
-[^9]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 6. § a) pontja a 8. § (2) bekezdése alapján 2018. október 1-jén lép hatályba.
-[^11]: A 6. § b) pontja a 8. § (2) bekezdése alapján 2018. október 1-jén lép hatályba.
-[^12]: A 6. § c) pontja a 8. § (2) bekezdése alapján 2018. október 1-jén lép hatályba.
-[^13]: A 6. § d) pontja a 8. § (2) bekezdése alapján 2018. október 1-jén lép hatályba.
-[^14]: A 6. § e) pontja a 8. § (2) bekezdése alapján 2018. október 1-jén lép hatályba.
-[^15]: A 6. § f) pontja a 8. § (2) bekezdése alapján 2018. október 1-jén lép hatályba.
-[^16]: A 6. § g) pontja a 8. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^17]: A 6. § h) pontja a 8. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. § g) pontja a 8. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^5]: A 6. § h) pontja a 8. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
