@@ -6,17 +6,17 @@
 
 (3) Az árut kísérő címkének vagy okmánynak olyan, a rendeltetésnek megfelelő anyagból kell készülnie, amelyet korábban ilyen célra nem használtak. A címkét, illetve az okmányt az Európai Unió legalább egyik hivatalos nyelvén kell kiállítani.
 
-(4)[^8] Az árut kísérő okmány lehet a NÉBIH, által rendszeresített okmány vagy a (6) bekezdés szerint kibővített tartalmú növényútlevél, illetve a forgalmazó által kiállított bármely olyan bizonylat vagy okmány (számla, nyugta, kísérő jegyzék, szállítólevél stb.), amelyet általában kereskedelmi célra használnak.
+(4)[^9] Az árut kísérő okmány lehet a NÉBIH, által rendszeresített okmány vagy a (6) bekezdés szerint kibővített tartalmú növényútlevél, illetve a forgalmazó által kiállított bármely olyan bizonylat vagy okmány (számla, nyugta, kísérő jegyzék, szállítólevél stb.), amelyet általában kereskedelmi célra használnak.
 
 (5) A címkén, csomagoláson, illetve okmányon jól látható és el nem távolítható módon fel kell tüntetni
 
 a) az „EK minőség” jelölést,
 
-b)[^9] Magyarország tagállami kódját,
+b)[^10] Magyarország tagállami kódját,
 
-c)[^10] a NÉBIH, nevét vagy azonosító kódját,
+c)[^11] a NÉBIH, nevét vagy azonosító kódját,
 
-d)[^11] a forgalmazói tevékenységre vonatkozó, a növénytermesztési hatáskörben eljáró járási hivatal által kiadott engedély számát,
+d)[^12] a forgalmazói tevékenységre vonatkozó, a növénytermesztési hatáskörben eljáró járási hivatal által kiadott engedély számát,
 
 e) az egyedi sorszámot, naptári hét- vagy tételszámot,
 
@@ -36,11 +36,11 @@ k) ha a dísznövény szaporítóanyag harmadik országból származik, az elő�
 
 a) az „EK minőség” jelölésének,
 
-b)[^12] a NÉBIH, nevének vagy kódjának,
+b)[^13] a NÉBIH, nevének vagy kódjának,
 
 c) a fajta, az alany vagy a növénycsoport nevének,
 
-d)[^13] a forgalmazói tevékenységre vonatkozó, a növénytermesztési hatáskörben eljáró járási hivatal által kiadott engedély számának, valamint
+d)[^14] a forgalmazói tevékenységre vonatkozó, a növénytermesztési hatáskörben eljáró járási hivatal által kiadott engedély számának, valamint
 
 e) harmadik országból való származás esetén az előállító ország nevének.
 
@@ -48,14 +48,14 @@ e) harmadik országból való származás esetén az előállító ország nevé
 
 (8) A címke és okmány csak az adott tételre érvényes, annak újbóli felhasználása tilos.
 
-(9)[^14] Az e rendeletben meghatározott információt tartalmazó címke és okmány kiállítására minden olyan forgalmazó jogosult, akit dísznövény szaporítóanyag forgalmazóként nyilvántartásba vettek, valamint a növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény (a továbbiakban: törvény) és e rendelet előírásait megtartja. Ha a NÉBIH, illetve a növénytermesztési hatáskörben eljáró járási hivatal ellenőrzése során azt állapítja meg, hogy a forgalmazó ezen feltételek valamelyikének nem felel meg, és a forgalomba hozatalt határozott időre megtiltja, a forgalmazó árut kísérő okmányt nem adhat ki.
+(9)[^15] Az e rendeletben meghatározott információt tartalmazó címke és okmány kiállítására minden olyan forgalmazó jogosult, akit dísznövény szaporítóanyag forgalmazóként nyilvántartásba vettek, valamint a növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény (a továbbiakban: törvény) és e rendelet előírásait megtartja. Ha a NÉBIH, illetve a növénytermesztési hatáskörben eljáró járási hivatal ellenőrzése során azt állapítja meg, hogy a forgalmazó ezen feltételek valamelyikének nem felel meg, és a forgalomba hozatalt határozott időre megtiltja, a forgalmazó árut kísérő okmányt nem adhat ki.
 
 (10) Ha dísznövény szaporítóanyagot nem dísznövény- termesztő vagy forgalmazó részére hoznak forgalomba, a címkézésre és okmánykiadásra vonatkozó követelmények az alapvető termékinformációk feltüntetésére korlátozódhatnak.
 
-[^8]: Az 5. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 92. § c) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 110. § a) pontja szerint módosított szöveg.
-[^9]: Az 5. § (5) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 36. §-a szerint módosított szöveg.
-[^10]: Az 5. § (5) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 92. § c) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 110. § a) pontja szerint módosított szöveg.
-[^11]: Az 5. § (5) bekezdés d) pontja a 24/2018. (VIII. 31.) AM rendelet 14. § a) pontjával megállapított szöveg.
-[^12]: Az 5. § (6) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 92. § c) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 110. § a) pontja szerint módosított szöveg.
-[^13]: Az 5. § (6) bekezdés d) pontja a 24/2018. (VIII. 31.) AM rendelet 14. § b) pontja szerint módosított szöveg.
-[^14]: Az 5. § (9) bekezdése a 70/2013. (VII. 31.) VM rendelet 92. § c) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § a) pontja szerint módosított szöveg.
+[^9]: Az 5. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 92. § c) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 110. § a) pontja szerint módosított szöveg.
+[^10]: Az 5. § (5) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 36. §-a szerint módosított szöveg.
+[^11]: Az 5. § (5) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 92. § c) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 110. § a) pontja szerint módosított szöveg.
+[^12]: Az 5. § (5) bekezdés d) pontja a 24/2018. (VIII. 31.) AM rendelet 14. § a) pontjával megállapított szöveg.
+[^13]: Az 5. § (6) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 92. § c) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 110. § a) pontja szerint módosított szöveg.
+[^14]: Az 5. § (6) bekezdés d) pontja a 24/2018. (VIII. 31.) AM rendelet 14. § b) pontja szerint módosított szöveg.
+[^15]: Az 5. § (9) bekezdése a 70/2013. (VII. 31.) VM rendelet 92. § c) pontja, a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § a) pontja szerint módosított szöveg.

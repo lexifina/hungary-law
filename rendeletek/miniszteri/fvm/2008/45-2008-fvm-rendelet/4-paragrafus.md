@@ -20,6 +20,17 @@ c) oltás esetén vírusokra nem fogékony alanyt használtak.
 
 (6)[^7] A hagymás dísznövények szaporítóanyagának – az (1)–(3) bekezdésben foglaltakon túl – közvetlenül olyan növényállományról kell származnia, amelyet a tenyészidőszak folyamán a növénytermesztési hatáskörben eljáró járási hivatal, valamint a növény- és talajvédelmi hatáskörben eljáró járási hivatal megvizsgált, és kártevőktől, kórokozóktól, valamint a károsítás bármilyen jelétől vagy tünetétől mentesnek talált.
 
+(7)[^8] A Palmae család 1. számú melléklet szerinti nemzetségeiből és fajaiból származó azon szaporítóanyagoknak, amelyek törzsátmérője a gyökérnyak felett meghaladja az 5 cm-t, az (1)–(4) bekezdésben foglaltakon túl meg kell felelniük az alábbi követelménynek:
+
+a) teljes életciklusuk alatt olyan területen nevelték őket, amelyről a növény- és talajvédelmi hatáskörben eljáró járási hivatal megállapította, hogy mentes a Rhynchophorus ferrugineus (Olivier) szervezettől, vagy
+
+b) a szaporítóanyagot a növény- és talajvédelmi hatáskörben eljáró járási hivatal négyhavonta a helyszínen ellenőrzi és igazolja, hogy az mentes a Rhynchophorus ferrugineus (Olivier) szervezettől, és
+
+ba) a szaporítóanyagot a forgalomba hozatalt megelőző két évben az Európai Unión belül található olyan területen nevelték, amelyet a Rhynchophorus ferrugineus (Olivier) behurcolása tekintetében teljes fizikai védelemmel láttak el, vagy
+
+bb) a szaporítóanyagon megfelelő megelőző kezeléseket alkalmaztak a károsító tekintetében.
+
 [^5]: A 4. § (5) bekezdés a) pontja a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § d) pontja szerint módosított szöveg.
 [^6]: A 4. § (5) bekezdés b) pontja a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § d) pontja szerint módosított szöveg.
 [^7]: A 4. § (6) bekezdése a 19/2014. (III. 12.) VM rendelet 24. § (2) bekezdés a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § d) pontja szerint módosított szöveg.
+[^8]: A 4. § (7) bekezdését a 24/2018. (VIII. 31.) AM rendelet 6. §-a iktatta be.

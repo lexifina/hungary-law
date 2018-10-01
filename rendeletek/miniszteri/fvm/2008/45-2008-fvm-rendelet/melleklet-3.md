@@ -314,6 +314,6 @@
 
 | Xeranthemum annuum Vasvirág | 92,0 | 0,2 | 55 |
 
-3. számú melléklet a 45/2008. (IV. 11.) FVM rendelethez[^38]
+3. számú melléklet a 45/2008. (IV. 11.) FVM rendelethez[^40]
 
-[^38]: A 3. számú melléklet a 24/2018. (VIII. 31.) AM rendelet 13. § b) pontjával megállapított szöveg.
+[^40]: A 3. számú melléklet a 24/2018. (VIII. 31.) AM rendelet 13. § b) pontjával megállapított szöveg.
