@@ -1,0 +1,3 @@
+## 27. § A biocid termékek engedélyezésének és forgalomba hozatalának egyes szabályairól szóló 316/2013. (VIII. 28.) Korm. rendelet [a továbbiakban: 316/2013. (VIII. 28.) Korm. rendelet] 24/C. §-a helyébe a következő rendelkezés lép:
+
+## „24/C. § Az egészségügyi kártevőirtószerekkel, valamint gázosítószerekkel végzett tevékenység szabályairól szóló miniszteri rendelet szerint irtószernek minősülő biocid termék az országos tisztifőorvos által – szakvélemény figyelembevételével – kiadott engedély birtokában hozható forgalomba. A kérelem adattartamát és a csatolandó dokumentumokat a 2. melléklet 2. pontja tartalmazza.”

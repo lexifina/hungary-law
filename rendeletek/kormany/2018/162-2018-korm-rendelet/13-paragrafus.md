@@ -1,0 +1,3 @@
+## 12. § Hatályát veszti a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény egészségügyi intézményekben történő végrehajtásáról szóló 356/2008. (XII. 31.) Korm. rendelet 16. § (2) bekezdésében az „az Országos Közegészségügyi Intézetet, valamint” szövegrész.
+
+## 11. Az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet módosítása

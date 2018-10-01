@@ -1,0 +1,3 @@
+## 13. § Az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet [a továbbiakban: 235/2009. (X. 20.) Korm. rendelet] 37/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A 37/B. § (1) bekezdése szerinti kutatások – az emberen végzett orvostudományi kutatások kivételével – engedélyezése esetén az engedélyező beszerzi az országos tisztifőorvos szakhatósági állásfoglalását is.”
