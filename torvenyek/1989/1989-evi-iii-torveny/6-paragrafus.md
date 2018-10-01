@@ -1,1 +1,0 @@
-6. § A közterületen tartandó rendezvény szervezését a rendezvény helye szerint illetékes rendőrkapitányságnak, Budapesten a Budapesti Rendőrfőkapitányságnak (a továbbiakban: rendőrség) legalább három nappal a rendezvény megtartásának tervezett időpontját megelőzően kell bejelenteni. A bejelentési kötelezettség a rendezvény szervezőjét terheli.

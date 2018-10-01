@@ -1,1 +1,0 @@
-Az Országgyűlés a gyülekezési szabadság érvényesülése érdekében — összhangban az Alaptörvény, valamint a Polgári és Politikai Jogok Nemzetközi Egyezségokmányának rendelkezéseivel —, a következő törvényt alkotja:
