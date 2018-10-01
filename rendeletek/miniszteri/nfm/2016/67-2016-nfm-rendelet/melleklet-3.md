@@ -1,4 +1,4 @@
-3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^25]
+3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^28]
 
 ## A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mértékének meghatározásakor figyelembe vett elismert fajlagos földgázár
 
@@ -58,19 +58,17 @@ Elismert ár = (QHazai termelés_tervezett * PHazai termelés + (QTény – QHaz
 
 4. Elismert ár meghatározása december hónapban:
 
-4.1. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és (QTény – QHazai termelés_tervezett –
+4.1. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) <= QHidegre elkülönített tárolói készlet, akkor
 
-QAllokált tárolói fedezés – QFedezett – QTervezett import) <= QHidegre elkülönített tárolói készlet, akkor
+Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár + QTervezett import * PAktuális import ár + (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) * PFedezett tárolói ár +
 
-4.2. Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár +
+Σ((QHazai termelés_negyedéves tény – QHazai termelés_negyedéves tervezett) * (PHazai termelés_negyedéves átlag – PAktuális import ár_negyedéves átlag)) – (MtMt –
 
-QTervezett import * PAktuális import ár + (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett – QTervezett import) * PFedezett tárolói ár + Σ((QHazai termelés_negyedéves tény – QHazai termelés_negyedéves tervezett) * (PHazai termelés_negyedéves átlag – PAktuális import ár_negyedéves átlag)) – (MtMt – MtMt-1) + CEGY) / QTény
+MtMt-1) + CEGY) / QTény
 
-Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és QHidegre elkülönített tárolói készlet = 0, akkor
+4.2. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és QHidegre elkülönített tárolói készlet = 0, akkor
 
-Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár + (QTény –
-
-QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett) * PAktuális import ár + Σ((QHazai termelés_negyedéves tény – QHazai termelés_negyedéves tervezett) * (PHazai termelés_negyedéves átlag – PAktuális import ár_negyedéves átlag)) – (MtMt – MtMt-1) + CEGY) / QTény
+Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QAllokált tárolói fedezés * PFedezett tárolói ár + QFedezett * PFedezett import ár + (QTény – QHazai termelés_tervezett – QAllokált tárolói fedezés – QFedezett) * PAktuális import ár + Σ((QHazai termelés_negyedéves tény – QHazai termelés_negyedéves tervezett) * (PHazai termelés_negyedéves átlag – PAktuális import ár_negyedéves átlag)) – (MtMt – MtMt-1) + CEGY) / QTény
 
 4.3. Ha QTény >= (QHazai termelés_tervezett + QAllokált tárolói fedezés + QFedezett + QTervezett import) és (QTény – QHazai termelés_tervezett –
 
@@ -216,4 +214,4 @@ PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) *
 
 6.34. ΣQTárolói fedezés: a havi tárolói fedezett mennyiségek összege;
 
-[^25]: A 3. melléklet a 38/2017. (IX. 29.) NFM rendelet 11. § (3) bekezdésével megállapított, a 8/2018. (III. 28.) NFM rendelet 7. § (3) bekezdése, a 3/2018. (VI. 29.) ITM rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^28]: A 3. melléklet a 38/2017. (IX. 29.) NFM rendelet 11. § (3) bekezdésével megállapított, a 8/2018. (III. 28.) NFM rendelet 7. § (3) bekezdése, a 3/2018. (VI. 29.) ITM rendelet 2. § (3) bekezdése, a 19/2018. (IX. 27.) ITM rendelet 7. § (3) bekezdése szerint módosított szöveg.
