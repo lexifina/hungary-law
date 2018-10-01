@@ -1,3 +1,3 @@
-39. §[^102]
+39. §[^104]
 
-[^102]: A 38–39. §-t a 41. § (3) bekezdése hatályon kívül helyezte.
+[^104]: A 38–39. §-t a 41. § (3) bekezdése hatályon kívül helyezte.

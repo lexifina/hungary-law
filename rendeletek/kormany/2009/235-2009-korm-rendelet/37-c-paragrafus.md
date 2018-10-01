@@ -1,6 +1,6 @@
-37/C. § (1) A 37/B. § (1) bekezdése szerinti kutatás engedélyezése esetén az engedélyező beszerzi az OKI szakhatósági állásfoglalását is.
+37/C. § (1)[^101] A 37/B. § (1) bekezdése szerinti kutatások – az emberen végzett orvostudományi kutatások kivételével – engedélyezése esetén az engedélyező beszerzi az országos tisztifőorvos szakhatósági állásfoglalását is.
 
-(2) Az OKI a szakhatósági állásfoglalás kialakítása során – az adott kutatás jellegének megfelelően – a kérelem és a benyújtott dokumentáció sugáregészségügyi megfelelőségét a 7. § a), d), f), l) és n) pontjában meghatározottakon túl a következő szempontok szerint vizsgálja:
+(2)[^102] Az országos tisztifőorvos a szakhatósági állásfoglalás kialakítása során – az adott kutatás jellegének megfelelően – a kérelem és a benyújtott dokumentáció sugáregészségügyi megfelelőségét a 7. § a), d), f), l) és n) pontjában meghatározottakon túl a következő szempontok szerint vizsgálja:
 
 a) a résztvevők, illetve a gondozók és segítők sugárterhelésének indokoltsága,
 
@@ -33,3 +33,6 @@ da) ha az atomenergia alkalmazására engedéllyel rendelkező végez kutatást,
 db) a kutatásban a besugárzást tervezők, jóváhagyók és kivitelezők szakmai és sugárvédelemmel összefüggő szakképesítését igazoló dokumentum másolata,
 
 e) a kutatás során az ionizáló sugárzásnak kitett résztvevők, a munkavállalók, a gondozók és segítők, valamint a lakosság várható sugárterhelésének becslését leíró kockázatelemzés.
+
+[^101]: A 37/C. § (1) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^102]: A 37/C. § (2) bekezdés nyitó szövegrésze a 162/2018. (IX. 10.) Korm. rendelet 14. §-a szerint módosított szöveg.
