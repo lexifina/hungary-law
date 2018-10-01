@@ -40,7 +40,7 @@
 
 ## e)[^25] a kémiai biztonságra kiterjedően:
 
-## az egészségügyért felelős miniszter;
+## az országos tisztifőorvos;
 
 ## f)[^26] súlyos ipari balesetek megelőzésére kiterjedően:
 
@@ -112,7 +112,7 @@
 
 ## j)[^40] kémiai biztonságra kiterjedően:
 
-## az Országos Közegészségügyi Intézet;
+## az országos tisztifőorvos;
 
 ## k)[^41] súlyos ipari balesetek megelőzésére kiterjedően:
 
@@ -209,7 +209,7 @@
 [^22]: A 3. számú melléklet I. pont I.2. alpont a) alpontja a 221/2014. (IX. 4.) Korm. rendelet 295. § b) pontja szerint módosított szöveg.
 [^23]: A 3. számú melléklet I. rész I.2. pont b) alpontja a 250/2017. (IX. 5.) Korm. rendelet 14. §-a szerint módosított szöveg.
 [^24]: A 3. számú melléklet I. pont I.2. alpont c) alpontja a 221/2014. (IX. 4.) Korm. rendelet 295. § d) pontja szerint módosított szöveg.
-[^25]: A 3. számú melléklet I. pont I.2. alpont e) alpontja a 221/2014. (IX. 4.) Korm. rendelet 295. § c) pontja szerint módosított szöveg.
+[^25]: A 3. számú melléklet I. pont I.2. alpont e) alpontja a 221/2014. (IX. 4.) Korm. rendelet 295. § c) pontja, a 162/2018. (IX. 10.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^26]: A 3. számú melléklet I.2.f) pontját a 118/2015. (V. 13.) Korm. rendelet 1. §-a iktatta be.
 [^27]: A 3. számú melléklet II.1. a) pontja a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^28]: A 3. számú melléklet II.1. b) pontja a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés c) pontja szerint módosított szöveg.
@@ -224,7 +224,7 @@
 [^37]: A 3. számú melléklet II.2. pontjának g) alpontja a 269/2006. (XII. 20.) Korm. rendelet 19. §-a, a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés j) pontja szerint módosított szöveg.
 [^38]: A 3. számú melléklet II. rész II.2. pont h) alpontja a 379/2016. (XII. 2.) Korm. rendelet 64. § (2) bekezdésével megállapított szöveg.
 [^39]: A 3. számú melléklet II. cím 2. pont i) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a, a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés k) pontja szerint módosított szöveg.
-[^40]: A 3. számú melléklet II. rész II.2. pont j) alpontja a 379/2016. (XII. 2.) Korm. rendelet 64. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^40]: A 3. számú melléklet II. rész II.2. pont j) alpontja a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^41]: A 3. számú melléklet II.2.k) pontja a 118/2015. (V. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^42]: A „tervezési folyamat” jelenti a terv, illetve program dokumentáció kidolgozásának folyamatát.
 [^43]: Releváns az a terv, illetve program, ami például a tervezési hierarchiában elfoglalt helyéből következően a vizsgált terv, illetve program számára előírásokat, szempontokat tartalmaz, vagy más módon hatással lehet a terv, illetve program megvalósítására, illetve a vizsgált terv, illetve program befolyásolja a másik terv, illetve program megvalósulását.

@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-2-20-22
 | 2017-01-01 | 2005-2-20-22.21 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-04-01 | 2005-2-20-22.22 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-09-06 | 2005-2-20-22.23 | 250/2017. (IX. 5.) Korm. rendelet |
+| 2018-10-01 | 2005-2-20-22.24 | 221/2014. (IX. 4.) Korm. rendelet |
