@@ -312,4 +312,4 @@
 
 2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^122]
 
-[^122]: A 2. számú melléklet a 250/2017. (IX. 5.) Korm. rendelet 10. § b) pontjával megállapított szöveg.
+[^122]: A 2. számú melléklet a 250/2017. (IX. 5.) Korm. rendelet 10. § b) pontjával megállapított, a 162/2018. (IX. 10.) Korm. rendelet 4. §-a szerint módosított szöveg.

@@ -30,7 +30,7 @@ b) meghatározza azon intézkedéseket, melyeket az üzemeltetőnek az ivóvíz 
 
 (8)[^34] Szükség esetén az ivóvíz-szolgáltatás helye szerinti illetékes népegészségügyi szerv a jóváhagyó határozatban az ivóvízbiztonsági tervben foglaltakon túl további feltételeket határoz meg a (7) bekezdés szerinti szempontok alapján, az ivóvízminőség biztonságának és elfogadhatóságának folyamatos, következetes biztosítására, valamint az ivóvízbiztonsági terv továbbfejlesztésére vonatkozóan.
 
-(9)[^35] A jóváhagyásra irányuló kérelemhez az üzemeltető az Országos Közegészségügyi Intézet (a továbbiakban: OKI) szakvéleményét csatolja.
+(9)[^35] A jóváhagyásra irányuló kérelemhez az üzemeltető a Nemzeti Népegészségügyi Központ (a továbbiakban: NNK) szakvéleményét csatolja.
 
 (10)[^36] Az üzemeltetőnek az ivóvízbiztonsági tervet évenként kötelezően felül kell vizsgálnia. Az ivóvízbiztonsági tervben eszközölt változásokat – különösen a kockázatértékelés, beavatkozási értékek, monitorozás gyakorisága terén – az illetékes népegészségügyi szerv felé be kell jelenteni.
 
@@ -64,7 +64,7 @@ c) üzemeltetői kivizsgálás, intézkedés és a veszélykezelési eljárás m
 [^32]: A 4. § (6) bekezdését a 65/2009. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 250/2017. (IX. 5.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
 [^33]: A 4. § (7) bekezdését a 65/2009. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 250/2017. (IX. 5.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
 [^34]: A 4. § (8) bekezdését a 65/2009. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^35]: A 4. § (9) bekezdését a 65/2009. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^35]: A 4. § (9) bekezdését a 65/2009. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 430/2013. (XI. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 162/2018. (IX. 10.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^36]: A 4. § (10) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 4. § (4) bekezdése iktatta be.
 [^37]: A 4. § (11) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 4. § (4) bekezdése iktatta be.
 [^38]: A 4. § (12) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 4. § (4) bekezdése iktatta be.

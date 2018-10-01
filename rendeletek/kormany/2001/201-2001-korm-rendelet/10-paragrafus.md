@@ -12,7 +12,7 @@
 
 (9)[^104]
 
-(10)[^105] A jelen rendeletben előírt, illetve vízminőségellenőrző vizsgálatot 2006. január 1. napját követően kizárólag akkreditáló szerv által a tevékenységre akkreditált és az országos tisztifőorvos megbízásából az OKI által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vevő laboratórium végezhet.
+(10)[^105] A jelen rendeletben előírt, illetve vízminőségellenőrző vizsgálatot 2006. január 1. napját követően kizárólag akkreditáló szerv által a tevékenységre akkreditált és az országos tisztifőorvos megbízásából az NNK által szervezett körvizsgálatokban évente és megfelelő eredménnyel részt vevő laboratórium végezhet.
 
 (11)[^106]
 
@@ -51,7 +51,7 @@ való megfelelést szolgálja.
 [^102]: A 10. § (7) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 51. § b) pontja hatályon kívül helyezte.
 [^103]: A 10. § (8) bekezdését a 65/2009. (III. 31.) Korm. rendelet 9. § (11) bekezdése hatályon kívül helyezte.
 [^104]: A 10. § (9) bekezdését a 313/2015. (X. 28.) Korm. rendelet 9. §-a hatályon kívül helyezte.
-[^105]: A 10. § (10) bekezdése a 47/2005. (III. 11.) Korm. rendelet 4. §-ával megállapított, a 65/2009. (III. 31.) Korm. rendelet 9. § (7) bekezdése, a 430/2013. (XI. 15.) Korm. rendelet 13. § h) pontja, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 9. és 16. pontja szerint módosított szöveg.
+[^105]: A 10. § (10) bekezdése a 47/2005. (III. 11.) Korm. rendelet 4. §-ával megállapított, a 65/2009. (III. 31.) Korm. rendelet 9. § (7) bekezdése, a 430/2013. (XI. 15.) Korm. rendelet 13. § h) pontja, a 379/2016. (XII. 2.) Korm. rendelet 46. § (2) bekezdés 16. pontja, a 162/2018. (IX. 10.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
 [^106]: A 10. § (11) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1039. pontja hatályon kívül helyezte, újonnan a 65/2009. (III. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be, újból hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 51. § b) pontja.
 [^107]: A 10. § (12) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 14. § (2) bekezdés d) pontja hatályon kívül helyezte.
 [^108]: A 10. § (13) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1039. pontja hatályon kívül helyezte, újonnan a 65/2009. (III. 31.) Korm. rendelet 7. § (4) bekezdése iktatta be, újból hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 51. § b) pontja.

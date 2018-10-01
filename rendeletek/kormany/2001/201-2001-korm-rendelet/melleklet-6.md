@@ -18,11 +18,11 @@
 
 ## 1. Ivóvízkezelésben használatos olyan vegyszerek (oxidáló, flokkuláló, koaguláló, stb.), amelyek minőségi követelményeire vonatkozó MSZ EN szabványnak a termékminőség megfelel. A szabványszámot és a szabványnak való megfelelést a termék címkézésén fel kell tüntetni.
 
-## 2. Ivóvízkezelésben használatos természetes ásványi és szervetlen segédanyagok, szűrőanyagok, amelyek minőségi követelményeire vonatkozóan van MSZ EN, MSZ EN ISO szabvány, vagy a bejelentéskötelesség alóli mentességet az OKI a termékről megállapítja. A szabványszámot és a szabványnak való megfelelést a termék címkézésén fel kell tüntetni.
+## 2. Ivóvízkezelésben használatos természetes ásványi és szervetlen segédanyagok, szűrőanyagok, amelyek minőségi követelményeire vonatkozóan van MSZ EN, MSZ EN ISO szabvány, vagy a bejelentéskötelesség alóli mentességet az NNK a termékről megállapítja. A szabványszámot és a szabványnak való megfelelést a termék címkézésén fel kell tüntetni.
 
-## 3. Közüzemi ivóvízkezelő eljárás, amely az A) rész szerinti elemeket nem tartalmazza, és a bejelentéskötelesség alóli mentességet az OKI a termékről megállapítja.
+## 3. Közüzemi ivóvízkezelő eljárás, amely az A) rész szerinti elemeket nem tartalmazza, és a bejelentéskötelesség alóli mentességet az NNK a termékről megállapítja.
 
-## 4. Azon termékek, amelyek esetében az OKI szakvéleményében megállapítja, hogy az alkalmazás közegészségügyi és ivóvízbiztonsági kockázata – speciális alkalmazási feltételek meghatározása nélkül – a fogyasztóra nézve elhanyagolható.
+## 4. Azon termékek, amelyek esetében az NNK szakvéleményében megállapítja, hogy az alkalmazás közegészségügyi és ivóvízbiztonsági kockázata – speciális alkalmazási feltételek meghatározása nélkül – a fogyasztóra nézve elhanyagolható.
 
 ## C) Bejelentés a használati melegvízzel és a medencés fürdővízzel érintkező termékcsoportok esetében
 
@@ -50,7 +50,7 @@
 
 ## 1.4. A termék felhasználási területe (részletezve)
 
-## 1.5. Az OKI által kiadott pozitív elbírálású szakvélemény
+## 1.5. Az NNK által kiadott pozitív elbírálású szakvélemény
 
 ## 1.6. Magyar nyelvű használati útmutató, vagy kezelési-üzemeltetési utasítás vagy gépkönyv, amely tartalmazza a közegészségügyi szempontú alkalmazási feltételeket
 
@@ -60,7 +60,7 @@
 
 ## III. A kormányhivatalhoz benyújtandó felülvizsgálati kérelem tartalmi követelményei
 
-## 1. A felülvizsgálatról szóló, OKI által kiadott pozitív elbírálású szakvélemény
+## 1. A felülvizsgálatról szóló, NNK által kiadott pozitív elbírálású szakvélemény
 
 ## 2. Gyártói nyilatkozat a termék változatlan gyártási körülményeiről
 
@@ -70,7 +70,7 @@
 
 ## 5. Magyar nyelvű használati útmutató, vagy kezelési-üzemeltetési utasítás vagy gépkönyv, amely tartalmazza a közegészségügyi szempontú alkalmazási feltételeket
 
-## IV. Az OKI szakvéleményezéshez benyújtandó dokumentumok
+## IV. Az NNK szakvéleményezéshez benyújtandó dokumentumok
 
 ## 1. A gyártásra vonatkozó minőségbiztosítás
 
@@ -88,11 +88,11 @@
 
 ## 8. Vízkezelő eljárás esetében olyan leírás és adatok, amelyek alapján a kezelés eredményessége, hatásai közegészségügyi és ivóvízbiztonsági szempontból megítélhetők
 
-## 9. A további szükséges dokumentumok listáját, valamint a szakvéleményezés menetére, a szakvéleményezés díjára vonatkozó információkat az OKI által a honlapján közzétett aktuális, terméktípusonként részletezett szakvéleményezési tájékoztatók tartalmazzák
+## 9. A további szükséges dokumentumok listáját, valamint a szakvéleményezés menetére, a szakvéleményezés díjára vonatkozó információkat az NNK által a honlapján közzétett aktuális, terméktípusonként részletezett szakvéleményezési tájékoztatók tartalmazzák
 
 ## V. Szempontok a vízellátásban használni kívánt szerkezeti anyagok vizsgálatához
 
-## A termékek minősítését az OKI a honlapján közzétett, terméktípusonként részletezett szakvéleményezési tájékoztatók szerint végzi.
+## A termékek minősítését az NNK a honlapján közzétett, terméktípusonként részletezett szakvéleményezési tájékoztatók szerint végzi.
 
 ## VI. A kormányhivatal a közegészségügyi kockázatok mérlegelése alapján további dokumentumok benyújtását írhatja elő.
 
@@ -156,9 +156,9 @@ I. Az ivóvízbiztonsági terv tartalmi követelményei
 
 6. Kockázatértékelés módszertana
 
-A kockázatértékelés elvégzése során az MSZ EN 15975-2 szabványban, vagy azzal egyenértékű nemzetközi vagy hazai ajánlásokban meghatározott általános kockázatértékelési elveket kell figyelembe venni. A módszertan alkalmasságát az OKI szakvéleményezési eljárás során értékeli.
+A kockázatértékelés elvégzése során az MSZ EN 15975-2 szabványban, vagy azzal egyenértékű nemzetközi vagy hazai ajánlásokban meghatározott általános kockázatértékelési elveket kell figyelembe venni. A módszertan alkalmasságát az NNK szakvéleményezési eljárás során értékeli.
 
-II. Az OKI szakvélemény kérelemhez benyújtandó dokumentumok
+II. Az NNK szakvélemény kérelemhez benyújtandó dokumentumok
 
 1. Hatályos ivóvízbiztonsági terv
 
@@ -168,6 +168,6 @@ II. Az OKI szakvélemény kérelemhez benyújtandó dokumentumok
 
 4. Vízjogi üzemeltetési engedély
 
-5. Az OKI a közegészségügyi szempontú értékeléshez további dokumentumok benyújtását kérheti.
+5. Az NNK a közegészségügyi szempontú értékeléshez további dokumentumok benyújtását kérheti.
 
-[^126]: A 6. számú mellékletet újonnan a 430/2013. (XI. 15.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 10. § d) pontjával megállapított szöveg.
+[^126]: A 6. számú mellékletet újonnan a 430/2013. (XI. 15.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 10. § d) pontjával megállapított, a 162/2018. (IX. 10.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
