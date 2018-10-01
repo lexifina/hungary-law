@@ -2,15 +2,9 @@ A Kormány
 
 1. egyetért a torontói Magyar Diaszpóra Missziós Központ létrehozásával;
 
-2. az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó támogatást nyújt az Első Magyar Református Egyház (First Hungarian Presbyterian Church) kedvezményezett szervezet részére az 1. pontban meghatározott célra, a 3. és 4. pontban meghatározott összegben;
+2.[^1] az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó támogatás nyújtásáról dönt az Első Magyar Református Egyház (First Hungarian Presbyterian Church) kedvezményezett szervezet részére az 1. pontban meghatározott célra, a 4. és 7. pontban meghatározott összegben;
 
-3. felhívja a nemzetgazdasági minisztert, hogy – az emberi erőforrások minisztere bevonásával – a 2018. évben gondoskodjon az 1. pontban foglalt cél megvalósítása érdekében 250 000 000 forint többletforrás biztosításáról a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport javára;
-
-Felelős: nemzetgazdasági miniszter
-
-emberi erőforrások minisztere
-
-Határidő: 2018. július 31.
+3.[^2]
 
 4. felhívja a nemzetgazdasági minisztert, hogy – az emberi erőforrások minisztere bevonásával – a 2019. évben gondoskodjon az 1. pontban foglalt cél megvalósítása érdekében 250 000 000 forint összegű költségvetési forrás biztosításáról a XX. Emberi Erőforrások Minisztériuma fejezet javára;
 
@@ -20,14 +14,32 @@ emberi erőforrások minisztere
 
 Határidő: a 2019. évi központi költségvetés tervezése során
 
-5. felhívja az emberi erőforrások miniszterét, hogy az 1. pontban meghatározott cél megvalósítására tegye meg a szükséges intézkedéseket a 2018. évi támogatási jogviszony létrehozása érdekében;
+5.[^3] felhívja a Kormány nemzetpolitikáért felelős tagját, hogy az 1. pont szerinti támogatási cél megvalósítása érdekében nyújtson – a Bethlen Gábor Alap irányításáért felelős Bizottság közreműködésével – a 2. pont szerinti kedvezményezett részére a 2018. költségvetési évben 250 000 000 forint költségvetési támogatást;
 
-Felelős: emberi erőforrások minisztere
+Felelős: a Kormány nemzetpolitikáért felelős tagja
 
-Határidő: a 3. pont szerinti forrás rendelkezésre állását követően azonnal
+Határidő: azonnal
 
-6. felhívja az emberi erőforrások miniszterét, hogy az 1. pontban meghatározott cél megvalósítására tegye meg a szükséges intézkedéseket a 2019. évi támogatási jogviszony létrehozása érdekében.
+6.[^4] felhívja a Kormány nemzetpolitikáért felelős tagját, hogy az 5. pontban meghatározottak szerint tegye meg a szükséges intézkedéseket
 
-Felelős emberi erőforrások minisztere
+a) a 2. pont szerinti kedvezményezettel a támogatási jogviszony létrehozása, valamint
+
+b) a támogatás egy összegben vagy több részletben, támogatási előlegként történő kifizetése
+
+érdekében;
+
+Felelős: a Kormány nemzetpolitikáért felelős tagja
+
+Határidő: azonnal
+
+7.[^5] felhívja a Kormány nemzetpolitikáért felelős tagját, hogy az 1. pont szerinti támogatási cél megvalósítása érdekében nyújtson – a Bethlen Gábor Alap irányításáért felelős Bizottság közreműködésével – a 2. pont szerinti kedvezményezett részére a 2019. költségvetési évben 250 000 000 forint költségvetési támogatást;
+
+Felelős: a Kormány nemzetpolitikáért felelős tagja
 
 Határidő: 2019. március 15.
+
+[^1]: A 2. pont az 1476/2018. (X. 1.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A 3. pontot az 1476/2018. (X. 1.) Korm. határozat 4. pontja visszavonta.
+[^3]: Az 5. pont az 1476/2018. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 6. pont az 1476/2018. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 7. pontot az 1476/2018. (X. 1.) Korm. határozat 2. pontja iktatta be.
