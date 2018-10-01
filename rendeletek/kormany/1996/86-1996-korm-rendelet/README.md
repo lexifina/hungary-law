@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-86-20-2
 | 2017-01-01 | 1996-86-20-22.48 | 145/2011. (VII. 27.) Korm. rendelet |
 | 2017-04-01 | 1996-86-20-22.49 | 145/2011. (VII. 27.) Korm. rendelet |
 | 2018-01-01 | 1996-86-20-22.50 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2018-10-01 | 1996-86-20-22.51 | 145/2011. (VII. 27.) Korm. rendelet |
