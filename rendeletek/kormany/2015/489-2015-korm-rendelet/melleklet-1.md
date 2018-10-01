@@ -30,6 +30,6 @@
 
 14. a Mecsekérc Zártkörűen Működő Részvénytársaság,
 
-15.[^4] OKI.
+15.[^4] Nemzeti Népegészségügyi Központ.
 
-[^4]: Az 1. melléklet 15. pontja a 379/2016. (XII. 2.) Korm. rendelet 317. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet 15. pontja a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontjával megállapított szöveg.

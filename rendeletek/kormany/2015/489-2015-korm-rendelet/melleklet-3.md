@@ -12,7 +12,7 @@ az OKSER ellenőrző tevékenységébe bevont vizsgálatok tárgya
 
 | 1 | OKSER tag | Adatszolgáltató központ | Vizsgálatok tárgya |
 
-| 2 | egészségügyért felelős miniszter által vezetett minisztérium és a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium és az | Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat Információs Központja (OKI) | levegő, szárazföldi környezet, vízi környezet, ivóvíz, környezeti gamma-dózisteljesítmény, az emberi szervezet belső radioaktív szennyezettsége és ezt okozó közvetítő közegek |
+| 2 | egészségügyért felelős miniszter által vezetett minisztérium és a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium és az | Egészségügyi Radiológiai Mérő és Adatszolgáltató Hálózat Információs Központja (Nemzeti Népegészségügyi Központ) | levegő, szárazföldi környezet, vízi környezet, ivóvíz, környezeti gamma-dózisteljesítmény, az emberi szervezet belső radioaktív szennyezettsége és ezt okozó közvetítő közegek |
 
 | 3 | az agrárpolitikáért felelős miniszter által vezetett minisztérium és az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium | Nemzeti Élelmiszerlánc-biztonsági Hivatal | levegő, ivóvíz, a talaj, a növényzet, a növényi és az állati eredetű élelmiszertermékek, takarmányok, mezőgazdasági tevékenységgel és erdőgazdálkodással összefüggő egyéb minták |
 
@@ -84,4 +84,4 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 3.1.2. (b) = a levegő aeroszol mérése az OMSZ által működtetett automata állomások bevonásával történik a Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
 
-[^5]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 317. § c) pontja szerint módosított szöveg.
+[^5]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja szerint módosított szöveg.
