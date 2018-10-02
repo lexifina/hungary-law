@@ -1,4 +1,4 @@
-## 21. § Hatályát veszti az atomenergiáról szóló 1996. évi CXVI. törvény honvédségi alkalmazásáról szóló 33/2002. (V. 3.) HM rendelet.
+## 21. §[^1]
 
 1. melléklet a 15/2018. (IX. 27.) HM rendelethez
 
@@ -23,3 +23,5 @@
 9. különleges formájú radioaktív anyag engedélyokiratának száma (amennyiben ismert);
 
 10. leltárba vétel ideje.
+
+[^1]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
