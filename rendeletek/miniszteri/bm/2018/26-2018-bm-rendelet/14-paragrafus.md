@@ -1,3 +1,5 @@
 ## 13. § Ez a rendelet 2018. október 1-jén lép hatályba.
 
-14. § Hatályát veszti a rendezvények rendjének biztosításával kapcsolatos rendőri feladatokról szóló 15/1990. (V. 14.) BM rendelet.
+14. §[^1]
+
+[^1]: A rendelet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

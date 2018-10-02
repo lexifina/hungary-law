@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-26-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-10-01 | 2018-26-20-0A.1 | 26/2018. (IX. 27.) BM rendelet |
+| 2018-10-02 | 2018-26-20-0A.2 | 2010: CXXX. törvény |
