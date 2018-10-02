@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-75-00-00
 | 2018-02-05 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-75-00-00.9 |
 | 2018-02-06 | 2010. évi CXXX. törvény | 2017-75-00-00.10 |
 | 2018-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-75-00-00.11 |
+| 2018-10-02 | 2010. évi CXXX. törvény | 2017-75-00-00.12 |
