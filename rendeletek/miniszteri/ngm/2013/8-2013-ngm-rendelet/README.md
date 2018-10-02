@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-8-20-2X
 | 2013-03-22 | 2013-8-20-2X.2 | 2010: CXXX. törvény |
 | 2014-04-23 | 2013-8-20-2X.3 | 17/2014. (IV. 8.) NGM rendelet |
 | 2015-02-20 | 2013-8-20-2X.4 | 17/2014. (IV. 8.) NGM rendelet |
+| 2018-10-02 | 2013-8-20-2X.5 | 17/2014. (IV. 8.) NGM rendelet |

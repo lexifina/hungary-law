@@ -92,7 +92,25 @@
 
 |  | 45. | 44. | Órás |
 
-2. melléklet a 8/2013. (III. 6.) NGM rendelethez[^3]
+|  | 46. | 45. | Kádár, bognár |
+
+|  | 47. | 46. | Magasépítő |
+
+|  | 48. | 47. | Műanyag-feldolgozó |
+
+|  | 49. | 48. | Olvasztár és öntő |
+
+|  | 50. | 49. | Papírgyártó és -feldolgozó |
+
+|  | 51. | 50. | Szárazépítő |
+
+|  | 52. | 51. | Tetőfedő |
+
+|  | 53. | 52. | Tisztítás-technológiai mester |
+
+|  | 54. | 53. | Vadászpuska műves |
+
+2. melléklet a 8/2013. (III. 6.) NGM rendelethez[^6]
 
 1. ÁCS, ÁLLVÁNYOZÓ
 
@@ -8830,50 +8848,4 @@ D A pozitív jövőképpel rendelkező életpálya, a proaktív életvezetés pe
 
 D Az élményközpontú gyakorlati képzés és a pozitív, negatív visszacsatolások motivációs megvalósításának ismerete
 
-E A pedagógiai eszközök és tudatos használatuk ismerete a gyakorlati munkában és a tanulóképzésben
-
-D A munkáltató foglalkozások tudatos használatának ismerete a tanulóképzésben
-
-E A célorientált munkavégzésre törekvés szerepének ismerete
-
-E A hatékonyság és erőforrás-takarékos feladatvégzés szerepének ismerete
-
-E A munkavégzési önállóság szerepének ismerete
-
-D A szakmai problémamegoldás képességének kialakítási ismerete
-
-D A minőségi munkavégzés és önellenőrző felelősségvállalás képességének formálási ismeretei
-
-E A szakmai problémamegoldás (szükség esetén csapatmunkában történő) kreatív módszereinek ismerete
-
-E A szakmai és együttműködési önfejlődés nyitottságának ismeretei
-
-E A nevelés és személyes példamutatás jelentőségének és szerepének ismeretei
-
-A szint megjelölésével a szakmai készségek:
-
-4 Köznyelvi beszédkészség
-
-4 Mennyiségérzék
-
-4 Szakmai nyelvű beszédkészség
-
-4 Olvasott szakmai szöveg megértése
-
-4 Elemi számolási készség
-
-3 Tervezési készség a feladatok megtervezéséhez, illesztéséhez
-
-3 Tervezési készség a szakmai gyakorlat megtervezéséhez
-
-3 Tervezési készség az életpálya tervezéshez és életvezetéshez
-
-4 Az élményközpontú gyakorlati képzés vezetésének készsége
-
-3 Motivációs készség
-
-3 A gyermek tanulásának segítése
-
-3 A pedagógiai módszerek használata
-
-[^3]: A 2. melléklet a 17/2014. (IV. 8.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 2. melléklet a 17/2014. (IV. 8.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 3. § (2) bekezdése, a 17/2018. (IX. 17.) ITM rendelet 3. § (2) bekezdése szerint módosított szöveg
