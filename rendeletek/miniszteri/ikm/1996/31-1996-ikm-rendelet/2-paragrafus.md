@@ -44,77 +44,77 @@ Az ipari mesterképzés szakmai
 
 18. [^19]
 
-19. Tetőfedő
+19. [^20]
 
-20. [^20]
+20. [^21]
 
-21. [^21]
+21. [^22]
 
-22. [^22]
+22. [^23]
 
-23. Magasépítő
+23. [^24]
 
-24. [^23]
+24. [^25]
 
-25. Papírgyártó
+25. [^26]
 
-26. Papírfeldolgozó
+26. [^27]
 
-27. [^24]
+27. [^28]
 
-28. [^25]
+28. [^29]
 
-29. [^26]
+29. [^30]
 
-30. [^27]
+30. [^31]
 
-31. [^28]
+31. [^32]
 
-32. [^29]
+32. [^33]
 
-33. [^30]
+33. [^34]
 
-34. [^31]
+34. [^35]
 
-35. [^32]
+35. [^36]
 
-36. [^33]
+36. [^37]
 
 37. Kelmefestő és -tisztító
 
-38. [^34]
+38. [^38]
 
-39. [^35]
+39. [^39]
 
-40. Öntő
+40. [^40]
 
-41. [^36]
+41. [^41]
 
 42. Lakberendező
 
 43. Dekoratőr, kirakatrendező
 
-44. [^37]
+44. [^42]
 
-45. [^38]
+45. [^43]
 
-46. [^39]
+46. [^44]
 
-47. [^40]
+47. [^45]
 
-48. [^41]
+48. [^46]
 
-49. [^42]
+49. [^47]
 
 50. Képkeretező és üvegező
 
 51. Kovács
 
-52. [^43]
+52. [^48]
 
-53. [^44]
+53. [^49]
 
-54. Kádár
+54. [^50]
 
 55. Kötő
 
@@ -122,2685 +122,137 @@ Az ipari mesterképzés szakmai
 
 57. Szűcs
 
-58. [^45]
+58. [^51]
 
-59. [^46]
+59. [^52]
 
 60. Porcelánkészítő
 
 1. VILLANYSZERELŐ
 
-mestervizsga szint és szakmai követelmények[^47]
+mestervizsga szint és szakmai követelmények[^53]
 
 2. SZOBAFESTŐ-MÁZOLÓ ÉS TAPÉTÁZÓ
 
-mestervizsga szint és szakmai követelmények[^48]
+mestervizsga szint és szakmai követelmények[^54]
 
 3. KŐMŰVES
 
-mestervizsga szint és szakmai követelmények[^49]
+mestervizsga szint és szakmai követelmények[^55]
 
 4. ASZTALOS
 
-mestervizsga szint és szakmai követelmények[^50]
+mestervizsga szint és szakmai követelmények[^56]
 
 5. VÍZVEZETÉK- ÉS KÖZPONTIFŰTÉS-SZERELŐ
 
-mestervizsga szint és szakmai követelmények[^51]
+mestervizsga szint és szakmai követelmények[^57]
 
 6. GÁZVEZETÉK- ÉS KÉSZÜLÉKSZERELŐ
 
-mestervizsga szint és szakmai követelmények[^52]
+mestervizsga szint és szakmai követelmények[^58]
 
 7. LÁTSZERÉSZ
 
-mestervizsga szint és szakmai követelmények[^53]
+mestervizsga szint és szakmai követelmények[^59]
 
 8. ÁCS-ÁLLVÁNYOZÓ
 
-mestervizsga szakmai követelmények[^54]
+mestervizsga szakmai követelmények[^60]
 
-9.[^55]
+9.[^61]
 
 10. KOZMETIKUS
 
-mestervizsga szint és szakmai követelmények[^56]
+mestervizsga szint és szakmai követelmények[^62]
 
 11. FODRÁSZ
 
-mestervizsga szint és szakmai követelmények[^57]
+mestervizsga szint és szakmai követelmények[^63]
 
 12. CUKRÁSZ
 
-mestervizsga szakmai követelmények[^58]
+mestervizsga szakmai követelmények[^64]
 
 13. NŐI SZABÓ (NŐIRUHA-KÉSZÍTŐ)
 
-mestervizsga szakmai követelmények[^59]
+mestervizsga szakmai követelmények[^65]
 
-14.[^60]
+14.[^66]
 
-15.[^61]
+15.[^67]
 
-16. ESZTERGÁLYOS mestervizsga szakmai követelmények[^62]
+16. ESZTERGÁLYOS mestervizsga szakmai követelmények[^68]
 
 17. HÁZTARTÁSIGÉP-SZERELŐ
 
-mestervizsga szakmai követelmények[^63]
+mestervizsga szakmai követelmények[^69]
 
-18.[^64]
+18.[^70]
 
-19. TETŐFEDŐ
-
-mestervizsga szakmai követelmények
-
-I. A mestervizsgára jelentkezés feltételei
-
-A) A mestervizsgához szükséges szakképesítések adatai:
-
-------------------------------
-
-A szakma (szakképesítés)
-
-OSZJ száma OKJ száma megnevezése
-
-------------------------------
-
-1623 31 5216 18 Tetőfedő
-
-valamint az ezzel egyenértékű (jogelőd) korábbi szakmai képesítések, továbbá:
-
-------------------------
-
-A szakma
-
-OKJ száma megnevezése
-
-------------------------
-
-52 5801 01 Magasépítő technikus
-
-Magasépítő mérnök
-
-Okleveles mérnök (építő,, építész)
-
-B) A mestervizsga előfeltételeként előírt szakmai gyakorlat:
-
--------------------------
-
-A szakmában eltöltött gyakorlat
-
-szakiránya időtartama
-
--------------------------
-
-Szakmunkás bizonyítvánnyal:
-
-Tetőfedő 4 év
-
-Tetőszigetelő 4 év
-
-Középfokú szakirányú végzettséggel:
-
-Magasépítész technikus 3 év
-
-Felsőfokú szakirányú végzettséggel:
-
-Magasépítő mérnök
-
-Okleveles építő- vagy építészmérnök 2 év
-
-Megjegyzés:
-
-A szakmai gyakorlat részidőkből is összeállhat, de az utolsó időszak a vizsgára jelentkezés időpontjánál ne legyen 1 évnél régebbi.
-
-II. A mester munkaterülete,
-
-a szakmához kapcsolódó tevékenységi körök
-
-2.1. A mester szakmai munkaterületének leírása
-
-Az 1623 szakszámú (31 5216 18 OKJ számú), tetőfedő szakmai képesítéssel rendelkező mester szakmájának gyakorlása során, önállóan – korszerű kézi és gépi eszközökkel, mérőműszerekkel, szerszámokkal, fa-, fém-, valamint felületkezelési anyagok felhasználásával –, az alábbi jellemző munkatevékenységeket végzi:
-
-– épületek és építmények magas és kishajlású lapos tetőinek héjalása;
-
-– új építése, meglévő javítása, felújítása, bontása, átépítése hazai és külhoni gyártású fedő- és szigetelőanyagok (szalma, nád, fazsindely, természetes pala, agyag és betoncserép, szálerősített síklemez, fém cserepes lemez, bitumenes zsindelylemez, szálerősített, műanyag, fém-, bitumenes hullámlemez, bevonat szigetelések, hagyományos szigetelőlemezek, korszerű szigetelőlemezek, műanyag fóliák és lemezek) alkalmazásával. A héjalás a sík és íves felületen készül;
-
-– csatlakozás a fedésperemekhez (eresz, orom, gerinc, élgerinc, vápa) vagy a héjaláson átvezetett szerkezetekhez (kémény, kibúvó, felülvilágító, tetőablak, strangszellőző, árboc stb.), egyéb kőműves, ács, bádogos szerkezetekhez (hófogók, tetőjárdák stb.);
-
-– épületek és építmények homlokzatának fedőelemekkel történő burkolása;
-
-– tetőkkel és homlokzatburkolásokkal összefüggő hőszigetelések kialakítása;
-
-– alátéthéjazatok építése, javítása, bontása;
-
-– csatlakozó kőműves, ács, bádogos szerkezetek felmérése, tetőfedéssel kapcsolatos értékelése, javítása, kiegészítése, pótlása, elhelyezése, átalakítása.
-
-– közreműködés szakértői, tervezői, engedélyezési eljárásban.
-
-2.2. A mester tevékenységi területe és feladatköre
-
-– Magas és lapos tetős fedések, homlokzatburkolások építése, javítása, cseréje.
-
-– A fedési munka szervezése, munkában résztvevők irányítása, a munka folyamatos és végső ellenőrzése.
-
-– Meglévő fedések hibáinak feltárása, felmérése, a beavatkozás szükségességének megállapítása.
-
-– Mennyiségi értékekkel alátámasztott, kalkulációra támaszkodó ajánlattétel műszaki alternatívákkal.
-
-– Végzett munka felmérése, elszámolása, üzemeltetési és karbantartási utasítás átadása.
-
-– Részvétel a tetőfedő tanulók gyakorlati, szakmai oktatásában.
-
-– Műszaki normatív, technológiai, egészségügyi, munkavédelmi, tűzvédelmi, környezetvédelmi előírások betartása, betartatása.
-
-– Tetőszerviz igény szerinti gyakorlása.
-
-III. Szakmai követelmények
-
-3.1. A szakma – mesterszintű – gyakorlása során előforduló legfontosabb feladatok (feladatcsoportok)
-
-– A fedés hierarchiájában előtte járó szakmák szakmai munkájának felmérése, ellenőrzése, minősítése, a megfelelősség megítélése, szükség esetén a javítás, pótlás elvégzése.
-
-– A fedendő, szigetelendő, burkolandó felület felmérése.
-
-– Javaslattétel az optimális anyag, segédanyag, segédszerkezet megválasztásához.
-
-– A kapcsolódó hőszigetelések elkészítése.
-
-– Az alátéthéjazat megépítése.
-
-– A tető- és homlokzatburkolás átszellőzésének kiépítése.
-
-– A közvetlen alátámasztó szerkezet (lécezés, deszkázat, nagytáblás elemek) kiosztása, megépítése.
-
-– A fedés, szigetelés, burkolás megépítése a fedésperemekkel együtt
-
-= fazsindellyel,
-
-= égetett agyagcseréppel,
-
-= betoncseréppel,
-
-= természetes palával,
-
-= szálerősített síklemezzel,
-
-= bitumenes zsindellyel,
-
-= hullámlemezzel (szálerősített, fém, műanyag, bitumenes),
-
-= homlokzatburkolás kis és táblás fedő- és burkolóelemekkel,
-
-= szigetelési rétegek készítése, felújítása,
-
-= bevonat-szigetelések,
-
-= hagyományos és korszerű bitumenes lemezekkel,
-
-= PVC lemezzel,
-
-= PIB lemezzel,
-
-= átvezetések, szegélyezések kiépítése.
-
-– Fedések, tetőszigetelések, homlokzatburkolások
-
-= karbantartása,
-
-= javítása,
-
-= felújítása (esetleg műemléki épületek, építmények esetében is),
-
-= átépítése.
-
-3.2. Követelmények
-
-3.2.1. Szakmai gyakorlati követelmények
-
-A mesterjelölt tudja:
-
-– elkészíteni a fedéseket, szigeteléseket vagy falburkolásokat,
-
-– a karbantartás, javítás vagy szanálás munkafolyamatát:
-
-= megszervezni, irányítani és ellenőrizni a teljes fedési, burkolási, szigetelési technológiai folyamatot.
-
-A tudás és készség szintje terjedjen ki az alábbi elemekre:
-
-– munkahelyi berendezkedésre (organizációs elrendezés);
-
-– munka-, baleset-, egészségvédelemre;
-
-– tűzvédelmi szabályok előírásaira;
-
-– környezetvédelmi szabályokra;
-
-– szerszámok, eszközök, gépek használatára, azok élezésére, karbantartására, esetleges javítására;
-
-– anyagok fogadására, raktározására, munkahelyi tárolására, előkészítésére, a felhasználására;
-
-– anyagok munkahelyi vizsgálatára, beépítési alkalmasságának megítélésére.
-
-– mészoltás, habarcskészítésre;
-
-– betonkészítésre, betonozásra (szerkezeti és hőszigetelő);
-
-– kiegészítő kőművesmunkák-falazatok, vakolatok, aljzatok készítésére;
-
-– faszerkezetekkel való műveletekre (hasítás, faragás, darabolás, fűrészelés, vésés, gyalulás, reszelés, fúrás, szegezés, hagyományos és betétes kötések;)
-
-– tetők teherhordó szerkezetének (fedélszékek, födémek) egyszerű vizsgálatára, alkalmasságának megítélésére;
-
-– egyszerű bádogos elemek elkészítésére, kész elemek beépítésére, beépített elemek vizsgálatára, igazítására;
-
-– hőszigetelések beszabására, rögzítésére;
-
-– átszellőzés kiépítésére, biztosítására;
-
-– alátéthéjazatok fektetésére, rögzítésére;
-
-– kiviteli munkák állványainak (munka, anyagtároló) építésére, minősítésére;
-
-– közvetlen alátámasztó szerkezet megválasztására, kitűzésére (zsinórozás), beépítésére;
-
-– a zsindely fedőelemek előkészítésére, válogatására, beépítésére;
-
-– égetett agyagcserepek méretellenőrzésére, válogatására, darabolására;
-
-– egyrétegű fedés sík égetett agyagcserepekkel való készítésére;
-
-– kétrétegű fedés (dupla, korona) sík égetett agyagcserepekkel való készítésére;
-
-– fedésperemek építésére, rögzítésére;
-
-– hornyolt égetett agyagcserepekkel való fedésre;
-
-– betoncserepek méretellenőrzésére, válogatására, darabolására;
-
-– egyrétegű, sík betoncserepekkel való fedésre;
-
-– kétrétegű, sík betoncserepekkel való fedésre;
-
-– hornyolt betoncserepekkel való fedésre;
-
-– fedésperemek szabására, építésére, rögzítésére;
-
-– gerinc, élgerincképzés kúpozással való megépítésére
-
-= száraz kúpozás,
-
-= habarcsozott kúpozás;
-
-– oromképzések bádoggal, speciális elemekkel való megépítésére;
-
-– természetes palával (rombusz, ónémet, halpikkely, téglány stb.) egyenes vagy emelt sorú megoldással való fedésre;
-
-– ereszképzésre természetes palával;
-
-– oromképzésre bádoggal vagy túlnyújtással;
-
-– gerinc-, élgerincképzés túlnyújtással vagy fémanyagú elemmel való kialakítására;
-
-– bekötések, záróelemek építésére ;
-
-– egyrétegű fedésre szálerősített sík lemezekkel
-
-= négyszöglemez, egyenes vagy emeltsorú,
-
-= rombusz (jobbos-balos), egyenes vagy emeltsorú,
-
-= sarkított négyzet (szabvány vagy francia);
-
-– egyrétegű szálerősített síklemezfedés ereszképzésére
-
-= dupla alátétsorral,
-
-= feles rombuszsorral,
-
-= alátétsorral, kiszögellő lemezzel;
-
-– kétrétegű fedések szálerősített síklemezzel való építésére;
-
-– orom, élgerinc, gerincképzés szálerősített síklemezzel való kialakítására
-
-= kúpozással,
-
-= szegősorral, túlnyújtással,
-
-= más anyagú elemmel (pl. bádog);
-
-– átvezetések építésére kiselemes (pikkely) fedéseknél;
-
-– tetősíkban fekvő ablakok beépítésére kiselemes fedéseknél, tekintettel az alátéthéjazatra is (fóliacsatorna);
-
-– speciális fedőelemek beépítésére pikkelyfedéseknél;
-
-– hófogók kiosztására, beépítésére;
-
-– betétes vápák (hajlatok) építésére pikkelyfedésnél
-
-= rövidelemes,
-
-= nagyelemes;
-
-– átfedett vápák készítésére pikkelyfedésnél
-
-= aláfektetett,
-
-= bekötött (német, osztrák, központi stb.);
-
-– kiselemes fedések falra felvezetés építésére;
-
-– íves felületek kiselemes átfedésére;
-
-– íves felületek mintaíveinek, deszkázatának, lécezésének kitűzésére, megépítésére;
-
-– bitumenes zsindelyfedés közvetlen alátámasztó szerkezetének építésére;
-
-– bitumenes zsindelyfedés alátéthéjazatának építésére;
-
-– bitumenes zsindelyfedés összefüggő, sík felületen való kialakítására;
-
-– bitumenes zsindelyfedés fedésperemeinek kialakítására;
-
-– íves felületek fedésére bitumenes zsindellyel;
-
-– vápaképzésre bitumenes zsindelylemezzel bekötött vagy átvezetett megoldással;
-
-– bitumenes zsindelytetők átszellőzésének megoldására;
-
-– toronyfedések kiépítésére kiselemekkel vagy bitumenes zsindellyel;
-
-– hullámlemez fedések alátámasztó szerkezeteinek ellenőrzésére, építésére;
-
-– hullámlemezek előkészítésére, átfedés mértékétől, fedésiránytól függő sarokvágások elkészítésére;
-
-– hullámlemezek fedésének megvalósítására
-
-= rögzítések előfúrása,
-
-= tömítések elhelyezése,
-
-= rögzítések;
-
-– hullámlemezfedésekre
-
-= eresz képzése (túlnyújtás vagy ereszelem),
-
-= gerincképzés (gerincelem),
-
-= oromképzés (túlnyújtás vagy bádogszegély);
-
-– elemes homlokzatburkolatok tartórendszerének megépítésére;
-
-– homlokzati hőszigetelések kialakítására;
-
-– homlokzatburkolás megépítésére különböző fedésképekkel, a peremek lezárásával;
-
-– lapos és kishajlású magastetők szigetelésére bevonatszigeteléssel;
-
-– a fogadó aljzat építésére, előkészítésére;
-
-– bitumenes lemezfedés (szigetelés) aljzatának előkészítésére, építésére;
-
-– hagyományos melegbitumenes lemezfedés megépítésére, beszabásokkal, csomópontképzéssel
-
-= eresszel párhuzamos fektetéssel,
-
-= ereszre merőleges fektetéssel (esetleg léces fektetéssel);
-
-– védőbevonat, védőréteg készítésére
-
-= nem járható tetőkön,
-
-= járható tetőkön;
-
-– modifikált, üveg vagy poliészter hordozójú bitumenes lemezszigetelés aljzatának építésére, előkészítésére;
-
-– bitumenes lemezszigetelések szabására, fektetésére, átvezetések építésére
-
-= öntapadó lemezzel,
-
-= rögzítéssel;
-
-– aljzatok építésére, felületek előkészítésére műanyag lemez szigetelésekhez;
-
-– műanyag leplek, lemezek előkészítésére, szabására;
-
-– műanyag lemez tetőszigetelések fektetésére felületi rögzítéssel, leterheléssel;
-
-– sarkok, átvezetések, falon vagy attikán való rögzítések kialakítására;
-
-– leterhelések, igénybevételtől függő felületvédelmek kiépítésére;
-
-– a tetők fedésének vagy szigetelésének, homlokzatburkolatoknak karbantartására, felújítására;
-
-– a tetők fedésének vagy szigetelésének (homlokzatburkolatoknak), fedőanyagoktól és fedésmódtól függő javítására (javítás előtti hibamegállapítással);
-
-– a tetők fedésének vagy szigetelésének, homlokzatburkolatának felújítására; a rétegek részbeni vagy teljes cseréjével, a meglévő fedés megtartásával, előkészítésével új fedőréteg fogadására alkalmassá tételével;
-
-– a teljes tetőfedés vagy szigetelés, homlokzatburkolás újraépítésére az alátámasztó és kiegészítő szerkezetek javításával, cseréjével;
-
-– a fedési vagy burkolási folyamatban résztvevők munkájának szervezésére, irányítására, számonkérésére, elszámolására;
-
-– a szakma tanulói munkájának – iskolai előrehaladással összefüggő – meghatározására, fogások megismertetésére, viselkedés és kommunikációs formák kialakítására, aktuális ismereteik gyakoroltatására, elmélyítésére, készség szintre vitelére.
-
-3.2.2. Követelmények a szakmai elmélet terén
-
-A mesterjelölt ismerje és tudja alkalmazni az alábbi tantárgyak, ismeretkörök alapvető elméleti anyagát:
-
-a) Szakmai ismeretek
-
-– a tető fogalma, feladata, rendeltetése;
-
-– a tető és tetőfedés története;
-
-– a fedélidom, fedélidom elemei;
-
-– a tető lejtése, a lejtés értelmezése;
-
-– a tetőhéjat fogalma, anyagai;
-
-– vízzáró és vízhatlan fedések;
-
-– épületfizikai alapfogalmak;
-
-– a tető formája;
-
-– hajlás és fedés összefüggése;
-
-– az egyes fedésmódok alkalmazási területei, lehetőségei, korlátai;
-
-– a tető tartószerkezete (fedélszékek, födémek);
-
-– fedélszékek fajtái, fesztávval való összefüggése;
-
-– fedélszékek anyaga, elemei;
-
-– fedélszékek elemeinek összeépítése, fakötések;
-
-– tetőfedésnél használt bádogos szerkezetek;
-
-– bádogos szerkezet anyagai; fémlemezek megmunkálása;
-
-– bádogos szerkezetek elhelyezése, rögzítése;
-
-– egyrétegű fedés sík cserepekkel (fedéskép, vízzárás, zsinórozás);
-
-– kétrétegű fedés sík cserepekkel (dupla-koronafedés, átfedések; zsinórozás-lécosztás);
-
-– fedés különböző hornyolt cserepekkel (oldal- és homlokhornyos; átfedés, lécosztás, zsinórozás);
-
-– cserépfedésnél használt rögzítések; szélirány;
-
-– fedésperemek specifikumai;
-
-– alátéthéjazatok szerepe, funkciója, építésmódja, anyagai a cserépfedésnél;
-
-– hőszigetelés a tetőn, a tetők átszellőzése; hideg–meleg tetők;
-
-– fedés természetes palával; fedésképek, fedési tartomány;
-
-– egyenes vonalú fedésmódok természetes palával, s azok fedésperemei (eresz, orom, gerinc, élgerinc, vápa), zsinórozás;
-
-– emeltsorú fedés természetes palával; fedésperemek; soremelés vonala, zsinórozás;
-
-– fazsindely fedések rövid és hosszú elemekkel; átfedések; fedésperemek;
-
-– egyrétegű négyszög szálerősített lemezfedés egyenes és emeltsorúan, fedésperemek megoldása, zsinórozás-lécezés;
-
-– rombusz szálerősített lemezfedés egyenes vagy emeltsorúan; jobbos–balos fedés; fedésperemek megoldása, zsinórozás-lécezés;
-
-– sarkított négyzet szálerősített lemezfedés; fedésperemek megoldása, rögzítések; zsinórozás-lécezés;
-
-– kétrétegű fedések sík szálerősített lemezből; közvetlen alátámasztó szerkezetek; lécezés-zsinórozás;
-
-– hőszigetelés és alátéthéjazat szálerősített síklemez fedéseknél; a tető átszellőzése;
-
-– vápaképzés kiselemes fedéseknél
-
-= betétes vápák,
-
-= átfedett vápák;
-
-– íves fedések kiselemes fedéseknél;
-
-– toronyfedések (kúp, gúla);
-
-– kiegészítő és speciális elemek beépítése kiselemes fedésekhez (szellőző, hófogó, átvezető, tetőablak);
-
-– bitumenes zsindelylemez fedések, rögzítések;
-
-– bitumenes zsindelylemez fedések alátétjei, specifikumai;
-
-– hullámlemez fedések szálerősített, fém, műanyag, bitumenes hullámlemezzel;
-
-– alátámasztás, rögzítések;
-
-– hullámlemez fedések specifikumai;
-
-– homlokzatburkolatok hőszigetelése, tartószerkezete;
-
-– homlokzatburkolás módjai, rögzítés, peremképzés;
-
-– lapos tetők fedése és rétegrendje, az egyes rétegek funkciója;
-
-– lapos tetők igénybevétele és épületfizikája;
-
-– bevonatszigetelések;
-
-– hagyományos bitumenlemez szigetelések;
-
-– modifikált bitumenlemez szigetelések;
-
-– műanyag lemez szigetelések;
-
-– kiselemes (pikkely) fedések karbantartása, javítása, felújítása, szanálása.
-
-b) Anyagismeret
-
-– építőanyagok csoportosítása, tulajdonságok, vizsgálat
-
-= rendszerezés,
-
-= általános, speciális tulajdonságok,
-
-= általános és munkahelyi vizsgálatok;
-
-– kötő- és adalékanyagok
-
-= hidraulikus kötőanyagok, fajta, minőség, alkalmazás, előállítás,
-
-= adalékanyagok (mállástermék, zúzalék, kavics, homok, agyag), alkalmazásuk;
-
-– habarcsok – összetétel, minőség, fajtái;
-
-– betonok – összetétel, megnevezés, fajtái, tulajdonságai, alkotók aránya, friss és megszilárdult beton vizsgálata, mintavétel, szilárdulás, utókezelés;
-
-– adalékszerek – kötésgyorsítók, -lassítók, plasztifikátorok stb.
-
-– a fa mint építőanyag
-
-= szerkezete,
-
-= csoportosítása, fajtái,
-
-= fizikai, mechanikai tulajdonságok;
-
-– a fa betegségei, védelme;
-
-– faáruk;
-
-– fémek
-
-= általános jellemzőik,
-
-= felhasználási terület,
-
-= fémvegyületek, ötvözetek;
-
-– fémek előállítása
-
-= ötvözés szükségessége,
-
-= fizikai tulajdonságok,
-
-= korrózió és korrózióvédelem,
-
-= bevonatok;
-
-– égetett agyag termékek
-
-= csoportosítás, alapanyag, gyártás,
-
-= minőségi követelmények,
-
-= vizsgálatok;
-
-– az agyagcserép formái, fajtái, jellemzői;
-
-– a tetőfedés betontermékei
-
-= alapanyag, gyártás,
-
-= minőségi előírások,
-
-= ellenőrzés, vizsgálat;
-
-– a betoncserép formái, fajtái, jellemzői;
-
-– a természetes pala
-
-= keletkezés, tulajdonságok,
-
-= feldolgozás;
-
-– szálerősített lemezek
-
-= gyártás, összetétel,
-
-= az erősítőszál,
-
-= tulajdonságok, vizsgálat;
-
-– szálerősített fedő- és burkolóelemek
-
-= formái, fajtái, jellemzői;
-
-– a bitumen-oxid, modifikált
-
-= előállítás,
-
-= minőség, vizsgálatok;
-
-– bitumenes lemezek
-
-= előállítás, összetétel, fajták,
-
-= hordozók, felületképzés,
-
-= vizsgálat, minősítés;
-
-– bitumenes lemez termékek
-
-= bitumenes zsindely,
-
-= szerves hordozójú lemezek,
-
-= szervetlen hordozójú lemezek,
-
-= szállítás, tárolás;
-
-– a hullámlemezek
-
-= szálerősített,
-
-= fém,
-
-= műanyag,
-
-= bitumenes,
-
-= előny, hátrány, minősítés, vizsgálat;
-
-– műanyagok, előállítás, tulajdonságok, méret
-
-= építőipari felhasználás,
-
-= műanyag szerkezetek,
-
-= műanyag fedőelemek;
-
-– műanyag lemezek
-
-= tulajdonságok, méret, megadás,
-
-= beépítés, összeférhetőség más anyagokkal,
-
-= ragasztók, tömítők, elválasztók;
-
-– hőszigetelő anyagok
-
-= tulajdonságok, jellemzők, vizsgálat,
-
-= műgyanta alapanyagú hőszigetelő anyagok,
-
-= ásványi anyagú hőszigetelő anyagok.
-
-c) Eszközök és gépismeret; munkavédelem, biztonságtechnika
-
-– kőműves munka szerszámai, gépei és biztonságtechnikája
-
-= kőműves szerszámok,
-
-= habarcskeverők,
-
-= betonkeverők,
-
-= vibrátorok, simítók;
-
-– ács szakma szerszámai, gépei és biztonságtechnikája
-
-= mérő- és segédeszközök,
-
-= kéziszerszámok,
-
-= kisgépek,
-
-= telepített gépek;
-
-– bádogos szakma szerszámai, gépei és biztonságtechnikája
-
-= mérő és segédeszközök,
-
-= kéziszerszámok,
-
-= kisgépek, gépek;
-
-– anyagmozgató és emelőberendezések és biztonságtechnikájuk;
-
-– a cserépfedés eszközei, szerszámai, gépei és biztonságtechnikájuk;
-
-– a pala és szálerősített lemezfedés eszközei, szerszámai, gépei és biztonságtechnikájuk;
-
-– a bitumenes szigetelőmunkák eszközei, szerszámai, gépei, berendezései és biztonságtechnikájuk;
-
-– a műanyag lemez szigetelő munkák eszközei, szerszámai gépei és biztonságtechnikájuk;
-
-– egyéni és egyéb védőfelszerelések a tetőfedésben;
-
-– a szakmai feladatcsoportokra jellemző veszélyforrásokat, azok elhárításának lehetőségeit, az egészséget nem veszélyeztető, biztonságos munkavégzéssel kapcsolatos munkavédelmi, tűzvédelmi, továbbá környezetvédelmi előírásokat, balesetek, foglalkozási megbetegedés esetén szükséges teendőket, beleértve az elsősegélynyújtást is;
-
-– speciális egészségvédelem a tetőfedésben;
-
-– tűzvédelem és megelőzés;
-
-– környezetvédelem.
-
-d) Szakrajz
-
-– rajz- és mérőeszközök;
-
-– ábrázolási alapfogalmak;
-
-– méretarány;
-
-– síkmértani ábrázolások;
-
-– testek ábrázolása;
-
-– anyagjelölések;
-
-– fedélidom szerkesztése;
-
-– valós hosszak és felületek szerkesztése;
-
-– csomópontok szerkesztése pikkelyfedéshez;
-
-– csomópontok szerkesztése tetőszigeteléshez;
-
-– rétegrendek és részletek lapos tetőkhöz;
-
-– soremelés vonalának szerkesztése;
-
-– vápaszög szerkesztése;
-
-– íves felületek kitűzésének szerkesztése;
-
-– építészeti tervfajták és terviratok;
-
-– tervolvasás.
-
-e) Szakmai számítások
-
-– egyszerű és összetett tetőfelület számítása;
-
-– anyagszükséglet számítása;
-
-– veszteségek meghatározása.
-
-IV. A szakmai minősítés és vizsgáztatás rendje
-
-A mestervizsga célja annak megállapítása, hogy a mesterjelölt
-
-– elsajátította-e a tevékenység gyakorlásához mesterszinten szükséges, szakmai elméleti és gyakorlati, vállalkozási és pedagógiai ismereteket,
-
-– képes-e munkáját magas színvonalon, önállóan végezni,
-
-– megfelel-e a vonatkozó hatályos rendeletben előírt feltételeknek,
-
-– rendelkezik-e a szakmai követelmények által támasztott tudáselemekkel, gyakorlati készségekkel; a vállalkozás működéséhez szükséges szakmai ismeretekkel.
-
-A mestervizsga részei:
-
-– szakmai gyakorlati vizsga,
-
-– szakmai elméleti (írásbeli, szóbeli) vizsga,
-
-– vállalkozási (gazdasági, jogi, munkaügyi stb.) ismeretek,
-
-– pedagógiai ismeretek.
-
-Megjegyzés:
-
-A vállalkozási és a pedagógiai ismeretek vizsga követelményrendszere valamennyi szakmában azonos, azokat a 31/1996. (VI. 19.) IKM rendelet tartalmazza.
-
-Az elméleti vizsgára bocsátás feltétele az előzőleg sikeresen végrehajtott szakmai gyakorlati vizsga.
-
-A vizsga egyéb kérdéseiben a Magyar Kézműves Kamara hatályos mestervizsga szabályzatának előírásait kell alkalmazni.
-
-A) Gyakorlati vizsga
-
-A gyakorlati vizsgát nagymodellen kell lebonyolítani odakészített anyagból.
-
-A jelölt két feladatot húz:
-
-a) kiselemes fedés 6 óra,
-
-b) tetőszigetelés 2 óra.
-
-A feladatok megvalósítását a vizsgabizottság folyamatosan figyelemmel kíséri, hogy az eltakart részek helyességéről is meg tudjon győződni. Az értékelést a zsűritagok önállóan végzik, az eredményről közösen döntenek. Vitás esetben az elnök dönt.
-
-B) Írásbeli vizsga
-
-Az írásbeli vizsga kérdéseit vizsgánként kell összeállítani úgy, hogy felölelje a tetőfedés szakmai skáláját, s részletes megoldást igényeljen.
-
-Tárgyai:
-
-– Szakmai ismeretek.
-
-– Anyagismeret.
-
-– Eszköz-, gépismeret, munkavédelem.
-
-– Szakrajz.
-
-– Szakszámítás.
-
-– Vállalkozási ismeretek.
-
-– Pedagógia ismeretek.
-
-A feladat időtartama 240 perc. A tárgyi feladatokat a jelöltek egyszerre megkapják, tehát a kidolgozás sorrendjét tetszőlegesen megválaszthatják. A lebonyolítás az érettségi írásbeli rendnek megfelelően történik. A feladatrészekhez a pontokat, s a minősítés ponthatárait is előre meg kell határozni.
-
-C) Szóbeli vizsga
-
-Tárgyai:
-
-– Szakmai ismeret.
-
-– Anyagismeret.
-
-– Eszköz-, gépismeret.
-
-– Munkavédelem.
-
-A jelölt tárgyanként húzza a kérdést, felkészülési idő 25 perc. A válaszok kifejtésére kérdésenként min. 5 percet kell biztosítani. A vizsgabizottság teljes létszámmal jelen van, s a válaszok után kérdéseket tehet fel a témával kapcsolatban. A választ minden vizsgabizottsági tag értékeli, a végeredményt közösen alakítják ki. Vitás esetben az elnök dönt.
-
-A vizsga eredményét a bizottság ,,megfelelt'' vagy ,,nem felelt meg'' minősítéssel állapítja meg. Sikertelen szóbeli vizsga esetén a szóbeli vizsgát teljes egészében meg kell ismételnie.
-
-D) A vizsga egyes részei alóli felmentés feltételei
-
-A jelölt felmentést kérhet
-
-a) építésztechnikusi végzettséggel
-
-– írásbeli:
-
-= szakrajz,
-
-= szakszámítás;
-
-b) főiskolai, egyetemi végzettséggel
-
-– írásbeli:
-
-= szakrajz,
-
-= szakszámítás,
-
-= anyagismeret;
-
-– szóbeli:
-
-= anyagismeret
-
-tantárgyakból.
-
-Felmentés a vizsgára jelentkezéskor a területileg illetékes kamarától, illetve a mestervizsga bizottság elnökétől kérhető, a felmentést igazoló dokumentumok benyújtásával.
-
-* * *
+19.[^71]
 
 20. SZERKEZETLAKATOS
 
-mestervizsga szakmai követelmények[^65]
+mestervizsga szakmai követelmények[^72]
 
 21. FÉNYKÉPÉSZ
 
-mestervizsga szint és szakmai követelmények[^66]
+mestervizsga szint és szakmai követelmények[^73]
 
 22. FÉMFORGÁCSOLÓ
 
-mesterszint és vizsgakövetelmények[^67]
+mesterszint és vizsgakövetelmények[^74]
 
-23. MAGASÉPÍTŐ
-
-mesterszint és vizsgakövetelmények
-
-I. A mestervizsgára jelentkezés feltételei
-
-1. A mestervizsgára jelentkezéshez az alábbi szakképesítések egyikével kell rendelkeznie a jelöltnek
-
-| Szakképesítés neve | Az OKJ-ben szereplő szakképesítés | Szakképesítés OSZJ szakmaszáma |
-
-| azonosító száma | FEOR száma |
-
-| Ács-állványozó | 33 5216 01 | 7612 | 1601 |
-
-| Kőműves | 31 5216 14 | 7611 | 1617–4 |
-
-| Magasépítő technikus | 52 5801 01 | 3123 | techn.szak. 41–0300 |
-
-| Mélyépítő technikus | 52 5801 02 | 3123 | techn.szak. 41–0400 |
-
-Ezenkívül még szakirányú (építész) közép-, illetve felsőfokú iskolai rendszerben megszerzett végzettség fogadható el.
-
-2. A mestervizsgához szükséges előírt szakmai gyakorlati idő
-
-Magasépítési munkaterületen eltöltött igazolt munkaviszony, egyéni vállalkozói tevékenység:
-
-szakmunkás bizonyítvánnyal 7 év
-
-középfokú szakirányú (technikusi) végzettséggel 5 év
-
-felsőfokú szakirányú végzettséggel 3 év
-
-Megjegyzés: A szakmai gyakorlat részidőkből is összeállhat, de az utolsó időszak a vizsgára jelentkezés időpontjában ne legyen két évnél rövidebb.
-
-II. A mester munkaterülete, tevékenységköre és feladatai
-
-1. A munkaterület rövid, jellemző leírása a mester tevékenységeinek fő felelősségi területeivel
-
-A) Magasépítő vállalkozásban részt vesz.
-
-B) Műszaki dokumentációt értelmez.
-
-C) Erőforrásokkal gazdálkodik.
-
-D) Az építkezés jogi, hatósági, tárgyi és műszaki feltételeit biztosítja.
-
-E) Az építést térben és időben organizálja.
-
-F) Hagyományos és korszerű magasépítési technológiákat alkalmaz.
-
-G) A közreműködők munkáját ellenőrzi, koordinálja és irányítja.
-
-H) Betartja és betartatja a munkavédelmi, tűzvédelmi és környezetvédelmi előírásokat.
-
-I) A minőségi előírásokat betartja és betartatja.
-
-J) Műszaki adminisztrációt végez és végeztet.
-
-K) A szakmai ismereteit fejleszti és átadja.
-
-2. A szakma mesterszintű gyakorlása során előforduló legfontosabb feladatcsoportok, feladatok
-
-A) – Az építési piacot figyelemmel kíséri.
-
-– Vállalkozási formát választ.
-
-– Beindítja és/vagy működteti a vállalkozást.
-
-– Közreműködik az ajánlattételben és a szerződéskötésben.
-
-– Jogosultságának megfelelő képviseletet lát el.
-
-– Elkészíti a létesítmény szakmai és utókalkulációs elemzését.
-
-B) – A tervdokumentációt ,,felbontja'', átvizsgálja, véleményezi és észrevételezi.
-
-– Az észrevételeket összegzi és műszaki bírálatot ad.
-
-– Javaslatot tesz a szükséges módosításokra.
-
-– Dönt az építmény kivitelezhetőségéről
-
-C) – Meghatározza a létszámszükségletet, munkáltatói jogokat gyakorol.
-
-– Meghatározza az anyag és szerkezeti elem szükségletet.
-
-– Meghatározza a gép-, eszköz- és energiaigényt.
-
-– Alvállalkozói és szállítói megbízásokat ad ki, és megköti a szerződéseket.
-
-– Elkészíti a létesítmény pénzügyi tervét.
-
-D) – Ellenőrzi a hatósági engedélyek, közműhozzájárulások meglétét.
-
-– Részt vesz az organizációs bejáráson.
-
-– Gondoskodik a munkaterület átadás-átvételéről.
-
-– Gondoskodik a felvonulási és ideiglenes létesítmények kiépítéséről.
-
-– Eleget tesz bejelentési kötelezettségének.
-
-– Kitűzi a létesítményt.
-
-E) – Organizációs helyszínrajzot készít.
-
-– Megvalósulási ütemtervet készít.
-
-– Irányítja az anyag- és géptelepítéseket.
-
-– A tervek alapján megszervezi és irányítja a munkavégzést.
-
-– Ellenőrzi a megvalósulási folyamatot, és aktualizálja az ütemterveket.
-
-F) – Irányítja a bontási, feltárási munkafolyamatokat.
-
-– Elvégzi a szükséges kitűzéseket.
-
-– Irányítja az alépítményi munkát (földművek, közművek építését, alapozás és szigetelés készítését).
-
-– Irányítja a felépítményi szerkezetek építését (teherhordó-, térelhatároló-, kémény- és falazott szellőző szerkezetek készítését).
-
-– Irányítja a kőműves és szakipari befejező munkákat.
-
-– Koordinálja és ellenőrzi az épületgépészeti és épületvillamossági munkákat.
-
-– Irányítja az átalakítási és felújítási munkákat.
-
-G) – Kapcsolatot tart az építtetővel, műszaki ellenőrrel és a tervezővel.
-
-– Szervezi és ellenőrzi az alvállalkozói szerződések teljesítését.
-
-– Szervezi és irányítja az anyagok és szerkezetek beszállítását.
-
-– Együttműködik a társvállalkozókkal, szolgáltatókkal.
-
-H) – Biztosítja a biztonságos munkahelyet.
-
-– Oktatja a dolgozókat a munkavédelemre és/vagy meggyőződik a munkavédelmi felkészültségükről, munka-alkalmasságukról.
-
-– Gondoskodik, a gépek, eszközök, előírás szerinti biztonságos telepítéséről és üzemeltetéséről.
-
-– Biztosítja az egyéni védőeszközök meglétét, ellenőrzi a használatukat.
-
-– Baleset esetén eleget tesz intézkedési kötelezettségének.
-
-– Eleget tesz a tűz- és környezetvédelmi követelményeknek.
-
-I) – Beszerzi és gondoskodik a szükséges minőségi tanúsításokról.
-
-– Ellenőrzi a minőségi bizonyítványok meglétét, és a beérkező anyagok és szerkezetek minőségét.
-
-– Biztosítja a saját készítésű anyagok és szerkezetek minőségét és azokat bizonylatolja.
-
-– Gondoskodik a helyes technológiai sorrendről és méretpontosságról.
-
-J) – Vezeti az építési naplót.
-
-– Jelentési kötelezettségeinek eleget tesz.
-
-– Belső bizonylatolási, adatszolgáltatási előírásoknak eleget tesz.
-
-– Gondoskodik a közbenső műszaki átadás-átvételről, dokumentálásukról.
-
-– A létesítményt készre jelenti, és részt vesz a műszaki átadás-átvételi eljáráson.
-
-K) – Figyelemmel kíséri az új anyagok, technológiák, munkamódszerek megjelenését.
-
-– Szakmai bemutatókon, rendezvényeken vesz részt.
-
-– Törekszik a számítástechnikai eszközök alkalmazására.
-
-– Segíti a pályakezdők beilleszkedését.
-
-– Biztosítja a szakképzés gyakorlati feltételeit.
-
-– Elősegíti munkatársai és a tanuló szakmai fejlődését.
-
-III. Szakmai követelmények
-
-A) Általános szakmai követelmények
-
-A magasépítő mester az elsajátított ismeretek birtokában képes elméleti tudását a gyakorlatban önállóan alkalmazni. Felismeri az építési folyamatok összefüggéseit, azokat képes összehangolni és tulajdonosi, vagy alkalmazotti minőségben irányítani. Megfelelő ismeret és készség birtokában, jártasnak kell lennie az építési előkészítés és tevékenység szervezési, valamint az adminisztrációs munkák végzésében.
-
-Az európai követelményeknek megfelelően ismernie kell a környezetvédelem és minőségbiztosítás általános céljait és legfontosabb fogalmait.
-
-B) Szakmai gyakorlati követelmények
-
-A magasépítő mesternek ismernie kell a szakma gyakorlatát, képesnek kell lennie egyes gyakorlati feladatok ellátására, azok tervezésére, szervezésére, ellenőrzésére és irányítására az alábbiak szerint:
-
-Legyen képes
-
-– műszaki dokumentációt értelmezni és felbontani,
-
-– műszaki javaslatot adni a szükséges módosításokra,
-
-– alaprajzot és metszetet készíteni és értelmezni,
-
-– organizációs munkamenetterveket készíteni és értelmezni,
-
-– organizációs elrendezési terveket készíteni és értelmezni,
-
-– építési és felmérési naplók vezetésére,
-
-– épületet és szerkezeti egységeit kitűzni,
-
-– körív részletpontjainak és íves felületek kitűzésére,
-
-– monolit vasbetonfödém zsaluzatának és állványzatának kitűzésére,
-
-– számítógép és szoftver segítségével költségvetést készíteni,
-
-– segédletek felhasználásával, műszaki terv alapján árajánlatot adni,
-
-– tervek (költségvetések) és segédletek alapján anyag- és szerkezetielem-szükségletet meghatározni,
-
-– tervek és segédletek alapján az építési munkák erőforrásigényét meghatározni,
-
-– vállalkozási szerződést kötni és betartani,
-
-– teodolit segítségével (poláris koordináta módszerrel) épületet kitűzni és felmérni,
-
-– teodolit segítségével épületmagasságot meghatározni,
-
-– hagyományos szintezőműszerrel (MOM, ZEISS) kitűzni,
-
-– lézeres szintezőműszerrel vagy csöves vízmértékkel burkolati réteget kitűzni, vagy ellenőrizni,
-
-– építési munkákat felmérni, felmérési vázlatot készíteni és munkákat igazoltatni az építtetővel.
-
-Tudjon
-
-– műszaki dokumentációt véleményezni, bírálni és észrevételezni,
-
-– műleírást készíteni és értelmezni,
-
-– organizációs műleírást készíteni és értelmezni,
-
-– vállalkozási hitelt felvenni,
-
-– részutalványt készíteni,
-
-– vasbetonoszlopot, -gerendát és előre gyártott vasbetonfödémet erőtanilag ellenőrizni,
-
-– területszintezési munkát végezni,
-
-– épületet alappont hálózatról kitűzni és felmérni,
-
-– nyílászáró szerkezetek helyét kitűzni vízszintes és magassági értelemben,
-
-– betonadalék-anyagot vizsgálni és minőségileg javítani, cementet és friss betont vizsgálni, és a beton keverési arányát megadni.
-
-C) Szakmai elméleti követelmények
-
-Legyen képes
-
-– az építés-kivitelezés eredményeinek számbavételére és költségeinek becslésére,
-
-– főbb építési anyagok felismerésére, szemrevételezés utáni minősítésére és átvételére,
-
-– anyagmozgatási, szállítási, tárolási folyamatok irányítására,
-
-– építési vállalkozói szerződések megfogalmazására és megkötésére,
-
-– helyszíni bejárási tárgyaláson részt venni és jegyzőkönyvet felvenni,
-
-– hálós tervezési módszerek felhasználására,
-
-– építési-kivitelezési tervdokumentációkat készíteni és észrevételezni,
-
-– biztonságtechnikai és környezetvédelmi előírásokat betartani és betartatni,
-
-– erőforrásigényeket meghatározni és időben biztosítani,
-
-– az építkezést térben és időben szervezni,
-
-– műszaki dokumentumokat készíteni és értelmezni,
-
-– építési munkaterületet átvenni és átadni,
-
-– garanciális bejárásokon részt venni, állást foglalni és a kötelezettségeknek eleget tenni.
-
-Tudja
-
-– az építési és technológiai szerelési munkák megkezdésének feltételeit,
-
-– a hagyományos és korszerű építési és szakipari technológiákat,
-
-– az épületvillamossági és épületgépészeti munkákat az építés folyamatába illeszteni.
-
-IV. A mestervizsga rendje
-
-A mestervizsgát az Országos Mestervizsga Szabályzat és a Magyar Kereskedelmi és Iparkamara egységes keretbe foglalt Mestervizsga Szabályzata szerint kell megszervezni és lebonyolítani.
-
-A mesterjelöltnek a Mestervizsga Bizottság előtt kell számot adnia arról, hogy elsajátította a vállalkozás gyakorlásához, vezetéséhez és a tanulóképzéshez szükséges ismereteket.
-
-A Mestervizsga Bizottság a vizsgaeredmények alapján dönt a MAGASÉPÍTŐ MESTER cím odaítéléséről.
-
-A mestervizsga részei és sorrendje:
-
-1. Gyakorlati vizsga.
-
-2. Szakmai írásbeli vizsga.
-
-3. Szóbeli vizsga, amelynek témakörei:
-
-– szakmai elmélet,
-
-– vállalkozói ismeretek (közgazdasági, jogi ismeretek),
-
-– pedagógiai ismeretek,
-
-A három vizsgarészt a megadott sorrendben, külön napokon kell lebonyolítani.
-
-1. Gyakorlati vizsga és értékelése
-
-A gyakorlati vizsga menetéről, az azzal összefüggő valamennyi szervezési kérdésről a Mestervizsga Bizottság dönt, az OMSZ–MKIK Vizsgaszabályzat szerint.
-
-A jelöltek a vizsga napján különböző vizsgakérdéseket húznak.
-
-A gyakorlati vizsga időtartama minimum 6 óra, maximum 8 óra. A szükséges részidőket a Vizsgabizottság határozza meg.
-
-A Mestervizsga Bizottság a vizsga megkezdése előtt közvetlenül ellenőrzi a helyszínt, a vizsgafeltételeket, és megadja a szükséges munkavédelmi eligazítást.
-
-A gyakorlati mestervizsga feladat (tevékenység) lehet:
-
-– tervdokumentáció észrevételezése (bírálata) és módosító javaslatok megtétele (méretkimutatás, árelemzés, költségvetés készítés, anyagkigyűjtés, műszaki megvalósíthatóság),
-
-– ideiglenes felvonulási épület vázlatterve (alaprajz, metszet),
-
-– organizációs elrendezési terv készítése,
-
-– organizációs megvalósítási ütemtervek készítése,
-
-– létesítmény kitűzése, felmérése,
-
-– anyagok, szerkezetek minőségi vizsgálata,
-
-– építési napló vezetése.
-
-A gyakorlati vizsga értékelése a Mestervizsga Bizottság által előre elkészített pontozólapon történik. A bizottság tagjai a mesterjelölt gyakorlati munkáját feladatrészenként egyeztetett szempontok alapján önállóan értékelik.
-
-A pontérték összetevői: szakszerűség, pontosság, minőség, technológiai tudás, készültségi fok. A vizsgázónak a ,,megfelelt'' minősítésért a maximálisan adható pontszám 50%-át kell elérnie. Aki ezt nem éri el, a gyakorlati vizsgán ,,nem felelt meg'' minősítésű. A gyakorlati vizsga megismétlésére, illetve a vizsga további menetére az OMSZ–MKIK Vizsgaszabályzat a mérvadó.
-
-2. Szakmai írásbeli vizsga és értékelése
-
-Írásbeli vizsga időtartama: 300 perc. A mesterjelölt számot ad az építőipari szakmai számítási, szerkesztési és tervezési készségéről. Az írásbeli vizsgán az alábbi témakörökből kerül ki 4 kérdés:
-
-– egyszerű épület kiviteli alaprajzának, metszetének és részletrajzainak készítése,
-
-– fa állványoszlop ellenőrzése,
-
-– vasbetongerenda fenékzsaluzatának számítása,
-
-– vasbetongerenda ellenőrzése hajlító igénybevételre
-
-– vasbetonoszlop ellenőrzése központos nyomásra,
-
-– műleírás készítése,
-
-– árajánlat adása,
-
-– építész műszaki tervrészlet elemzése, véleményezése és észrevételezése,
-
-– létszám-, anyag-, gép- és energia igények meghatározása,
-
-– munkaterület átadás-átvétele,
-
-– térbeli organizáció, organizációs helyszínrajz készítése,
-
-– technológiai sorrend,
-
-– bontási munkafolyamat technológiai sorrendje,
-
-– megvalósulási ütemtervek készítése (munkamenet, létszám, gép, pénzügyi ütemtervek valamelyike),
-
-– építési részmunkafolyamat megszervezése,
-
-– dúcolási munkák szerkezeti kialakítása és technológiája,
-
-– zsaluzási, állványozási munkák kialakítása és technológiája,
-
-– betonösszetétel tervezése,
-
-– betonkeverő-telep tervezése,
-
-– intézkedési feladatok baleset esetén,
-
-– építőipari minőségbiztosítás.
-
-Írásbeli vizsgán egy teremben lévő vizsgázók max. létszáma: 15 fő. A vizsga időtartama alatt szigorú felügyeletet kell biztosítani.
-
-Ha az írásbeli vizsga eredménye a maximálisan adható pontszám 50%-át nem éri el, a jelölt minősítése ,,nem felelt meg'', e százalék felett ,,megfelelt''.
-
-A vizsgarész ismétlésére, illetve a vizsga további menetére az OMSZ–MKIK Vizsgaszabályzat a mérvadó.
-
-3. Szóbeli vizsga
-
-A szóbeli vizsga helye a Mestervizsga Bizottság által meghatározott helyszín. A szóbeli vizsga három témakörének tételsorából az elnök által meghatározott sorrendben lehet tételt húzni, illetve a szóbeli vizsgát letenni. A három témakört külön-külön kell értékelni. A szóbeli vizsga mindhárom vizsgarész ,,megfelelt'' minősítése esetén érvényes. Egy-egy tétel kidolgozásához legalább 25 perc felkészülési időt kell biztosítani.
-
-A jelöltnek önállóan kell beszámolnia felkészültségéről. A vizsgabizottság tagjai csak akkor tehetnek fel kérdéseket, amikor a jelölt a feleletében elakad, vagy téved. Az objektív értékelés és minősítés érdekében a felelet meghallgatása után a vizsgabizottságnak joga a tétel anyagán belül újabb kérdéseket feltenni.
-
-A mesterjelölt szóbeli teljesítményét a Vizsgabizottság egyszerű szavazati többséggel ,,megfelelt'' vagy ,,nem felelt meg'' minősítéssel értékeli.
-
-Az eredménytelen szóbeli vizsgarész (vizsgarészek) megismétlése az OMSZ–MKIK Vizsgaszabályzat alapján történik.
-
-4. A mestervizsga egyes részei alóli felmentés feltételei
-
-A gyakorlati vizsga letétele alól felmentés nem adható. Az egyéb felmentési lehetőségeket az OMSZ–MKIK Vizsgaszabályzat tartalmazza.
-
-A VÁLLALKOZÁSI ISMERETEK
-
-mestervizsgarész célja és követelményei
-
-A vizsga célja az Országos Mestervizsga Szabályzat 2. § d), valamint a 3. § d) pontja értelmében a mestervizsgák szerves részét kell hogy képezzék az olyan általános és speciális vállalkozási ismeretek, amelyek lehetővé teszik a saját vállalkozásban a tulajdonosi, más személy üzleti vállalkozásában a beosztotti feladatok teljesítését.
-
-A mesternek kellő ismeretekkel kell rendelkeznie a termelés, az értékesítés és a gazdálkodás minden területén. Figyelemmel kell kísérnie a piac helyzetét, változásait, törekedve arra, hogy azokhoz ne csak alkalmazkodjon, hanem képes legyen a változtatás elősegítésére is. Ez széles látókört igényel, ezt hivatott elősegíteni a Vállalkozási ismeretek témakör követelményeinek elsajátítása.
-
-Követelmények
-
-A mesterjelölt:
-
-– Ismerje a vállalkozás és költségvetés között kialakuló sokoldalú kapcsolat elemeit, adórendszerünk jellemző vonásait, a munkavállalókat és a munkáltatókat terhelő adónemek szabályait.
-
-– Rendelkezzen a vállalkozásokra vonatkozó közgazdaságtani alapismeretekkel, valamint ismerje a vállalkozásokat érintő nemzetgazdasági, a makro- és mikroszinten bekövetkező jelentősebb gazdasági események lefolyásának törvényszerűségeit és az érvényesülő hatásmechanizmusokat.
-
-– Ismerje a hazai vállalkozások szervezeti formáit, az alapításukra és működtetésükre vonatkozó főbb jogszabályokat.
-
-– Ismerje az üzleti terv és a hitelterv elkészítésének folyamatát.
-
-– Ismerje a vállalkozás csődje, felszámolása és végelszámolása közben felmerülő feladatokat és eljárási szabályokat.
-
-– Ismerje a vállalkozás elszámolásának adminisztratív szabályait, a bizonylati fegyelem követelményeit.
-
-– Rendelkezzen a stratégiai tervezés lépéseire, a vezetési stílusra, a döntéshozatalra és az egyes döntések visszacsatolására vonatkozó ismeretekkel.
-
-– Ismerje a szerződéskötések tartalmi, alaki és formai követelményeit.
-
-– Ismerje a piac meghatározó elemeit, szereplőit, a várható termelői és fogyasztói magatartást, a vásárlói döntési folyamatokat, a fogyasztóvédelem rendelkezéseit.
-
-– Ismerje a szakmai és üzleti kapcsolatok közben felszínre kerülő erkölcsi, etikai és protokolláris szabályokat.
-
-– Legyen képes a vállalkozás munkaerő-szükségletét folyamatosan fejleszteni, ismerje a létszámleépítés, a munkaerő-átcsoportosítás, a bérgazdálkodás lehetőségeit és jogi szabályait.
-
-– Ismerje és alkalmazza a vállalkozásokkal összefüggésben a Munka Törvénykönyvét, a foglalkoztatási, a szakképzési, a munkavédelmi, a társadalombiztosítási és egyéb személyi ügyekkel kapcsolatos törvényeket.
-
-– Tudja alkalmazni az árstratégiákat és az árprogramokat, tudja összehangolni a termelés, az áruforgalom és a szolgáltatás elemeit.
-
-– Ismerje és alkalmazza a marketing alapfogalmait, különös tekintettel a marketing-mix elemeire.
-
-– Ismerje a jó minőségű áruhoz, szolgáltatáshoz való jogot.
-
-– Ismerje az ellenőrzésre jogosult hatóságokat és üzleti kötelezettségeit hatósági ellenőrzéskor.
-
-– Ismerje az anyaggazdálkodás elveit, szabályait és gyakorlatát (tervezés, beszerzés, raktározás, anyagmozgatás, tárolás).
-
-– Legyen képes a nyereségorientált tevékenység folytatására, a munkahely műszaki, pszichológiai és ergonómiai szempontok szerinti kialakítására.
-
-– Ismerje a vállalkozások információs rendszerének működését, a partnerekkel és a versenytársakkal történő kapcsolatok alakításának lehetőségét, az offenzív üzletpolitikát.
-
-– Élő kapcsolatot alakítson ki a Kamarával, az Ipartestületekkel és egyéb érdekképviseleti szervezetekkel annak érdekében, hogy a jogokat és a kötelezettségeket megismerve, azokat alkalmazni tudja a vállalkozása fellendítése érdekében.
-
-A PEDAGÓGIAI ISMERETEK
-
-mestervizsgarész célja és követelményei
-
-A vizsga célja a szakképzési törvény (1993. évi LXXVI. tv.) 17. § (3) bekezdése alapján a tanulók gyakorlati képzésével foglalkozó szakoktatók kiválasztásakor előnyben kell részesíteni a mestervizsgával rendelkező szakmunkásokat.
-
-Az Országos Mestervizsga Szabályzat 2. § b), valamint a 3. § e) pontja értelmében a mestervizsgák követelményeinek szerves részét kell képezzék az olyan alapvető, gyakorlatorientált pedagógiai ismeretek, melyek az adott szakmai területen a munkaerő-utánpótlás színvonalas képzéséhez nélkülözhetetlenek.
-
-A gyakorlati oktatást is végző mester szakmai munkájában a tanulók életkori sajátosságainak megfelelő, a képzési célok elérését elősegítő módszereket és eszközöket kell hogy alkalmazzon, az elért eredményeket pedig reálisan kell értékelje.
-
-Ezért a vizsga célja, egyrészt annak felmérése, hogy a mesterjelölt a magas szintű szakmai ismeretei mellett képes-e a tudását a szakképzés hazai rendszerében a tanulók felé közvetíteni, másrészt az oktatói tevékenység iránti érdeklődés felkeltése.
-
-Követelmények
-
-A mesterjelölt:
-
-– Átfogóan ismerje a hazai szakképzési rendszert, a szakképzési törvény és a szakmai vizsgáztatásról szóló rendelet legfontosabb ismérveit (pl. a tanulószerződésre vonatkozó előírásokat).
-
-– Ismerje a szakmai pedagógiai dokumentációk még használt régi és új fogalmait (OKJ, OSZJ, TSZJ, szakmai szint, tanterv, tanmenet, központi és helyi programok stb.).
-
-– Részletesen ismerje az adott szakma gyakorlati tantárgyprogramjának tartalmát, az iskolai szakmai elméleti programokat, valamint az iskola és a gyakorlati képzőhely munkájának koordinálási feladatait az elmélet és gyakorlat egységének megteremtése érdekében.
-
-– Részletesen ismerje szakmájában a gyakorlati képzés időrendi ütemezésének, a munka megtervezésének, előkészítésének lépéseit.
-
-– Ismerje az egyedi és a kiscsoportos gyakorlati képzés (team munka) szervezésének előnyeit és hátrányait.
-
-– Ismerje a tanítás-tanulási folyamat sajátosságait, az eredményességet befolyásoló tényezőket.
-
-– Legyen képes szakmájában az általános és speciális munkacselekvésekre történő felkészítésre: bemutatásra, gyakoroltatásra és korrigálásra.
-
-– Ismerje és az oktatásban, a szemléltetésben, a tanulók munkájának, szakmai fejlődésének ellenőrzésében és értékelésében használható módszereket és változatosan alkalmazza azokat.
-
-– Ismerje a módszerek megválasztásának kritériumait és legyen képes azok tudatos alkalmazására.
-
-– Ismerje a fegyelmezett, biztonságos, egészséget és környezetet nem veszélyeztető, minőségi munkára nevelés elvárásait.
-
-– Ismerje a pályaválasztás és a szakmai alkalmasság kritériumait.
-
-– Ismerje a tanulók életkori sajátosságait, azok legfontosabb pszichológiai és pedagógiai törvényszerűségeit.
-
-– Ismerje a személyiségfejlesztés lehetőségeit, legyen képes a tanulók kommunikációs képességének, flexibilitásának, kreativitásának, motivációjának elősegítésére.
-
-– Legyen képes a személyre szóló, segítő kapcsolat kialakítására a tanulókkal, a tanulócsoportokkal, a tanulók szüleivel és az iskola munkatársaival.
-
-– Legyen képes társadalmi alapértékeket (becsület, tisztesség, felelősség, pontosság, megbízhatóság stb.) közvetíteni.
-
-– Ismerje, és világosan, szabatosan és stílusosan alkalmazza az anyanyelvét és a műszaki nyelvet.
-
-– A szakma szeretetére, a szakmai öntudat erősítésére neveljen.
-
-* * *
+23.[^75]
 
 24. RUHAIPARI
 
-mesterszint és vizsgakövetelmények[^68]
+mesterszint és vizsgakövetelmények[^76]
 
-25. PAPÍRGYÁRTÓ
+25.[^77]
 
-mesterszint és vizsgakövetelmények
-
-I. A mestervizsgára jelentkezés feltételei
-
-1. A mestervizsgára jelentkezéshez az alábbi szakképesítések egyikével kell rendelkeznie a jelöltnek
-
-| Szakképesítés neve | Az OKJ-ben szereplő szakképesítés | Szakképesítés OSZJ szakmaszáma |
-
-| azonosító száma | FEOR száma |
-
-| Papírgyártó és -feldolgozó | 31 5243 05 | 8126 |  |
-
-| Papíripari technikus | 52 5411 07 | 3114 |  |
-
-| Cellulóz- és papírgyártó |  |  | 1000–1 |
-
-| Papírfeldolgozó |  |  | 1000–2 |
-
-Ezenkívül még szakirányú (papíripari) közép- illetve felsőfokú iskolai rendszerben megszerzett végzettség fogadható el.
-
-2. A mestervizsga előfeltételeként előírt szakmai gyakorlat időtartama:
-
-Papírgyártó és -feldolgozó (szakmunkás) 8 év
-
-Cellulóz- és papírgyártó 8 év
-
-Papírfeldolgozó 8 év
-
-Papíripari technikus (középfokú) 5 év
-
-Papíripari mérnök (üzemmérnök) 3 év
-
-Korhatár 25 év felett
-
-II. A mester szakmai munkaterülete, tevékenységköre és feladatai
-
-1. A mester szakmai munkaterületének leírása
-
-A mester tevékenységének fő felelősségi területei:
-
-A) A rostos féltermékgyártás előkészítése.
-
-B) A papírgyártás előkészítése.
-
-C) A rostos féltermékek gyártása.
-
-D) A papírgyártás.
-
-E) A rostos féltermékek kiszerelése.
-
-F) A papír kiszerelése.
-
-G) A készáru kezelése.
-
-H) Szervezés, irányítás.
-
-I) Külső- és belső információ fogadása, szerzése és felhasználása.
-
-J) A szakmai tapasztalatok és ismeretek átadása, fejlesztése.
-
-K) Környezetbarát módon történő tevékenykedés.
-
-L) Az erőforrásokkal való gazdálkodás.
-
-2. A szakma mesterszintű gyakorlása során előforduló legfontosabb feladatcsoportok és feladatok
-
-A) A rostos féltermékgyártás előkészítése során:
-
-– értelmezi a gyártási dokumentációkat,
-
-– az alap- és segédanyagokat minősíti és kiválasztja,
-
-– az alapanyagokat aprítja, darabolja,
-
-– osztályoz, tisztít.
-
-B) A papírgyártás előkészítése során:
-
-– a gyártási dokumentációkat értelmezi, kialakítja a behordási programot,
-
-– minősíti és kiválasztja az alap- és segédanyagokat (meghatározza az adott papír, illetve kartonfajta előállításához szükséges rost-, segéd- és adalékanyagok fajtáinak minőségválasztékát),
-
-– foszlat,
-
-– tisztít,
-
-– csomótalanítást végez,
-
-– őröl,
-
-– a papírpép tárolását és keverését végzi,
-
-– a papírpép szállítását (továbbítását) végzi,
-
-– festéktelenít (a nyomtatott papírhulladék kezelése során),
-
-– diszpergál,
-
-– segédanyagokat adagol (a behordási program alapján).
-
-C) A rostos féltermék gyártása során:
-
-– feltár,
-
-– rostosít,
-
-– mos, osztályoz,
-
-– fehérít,
-
-– ellenőriz és minősít,
-
-– a gyártás közbeni eredményeket értékeli és a szükséges korrekciókat elvégzi,
-
-– a berendezések működését, műszaki állapotát figyelemmel kíséri,
-
-– a műszerek kijelzését és a számítógépi adatokat értékeli,
-
-– az automatikák működését ellenőrzi.
-
-D) A papírgyártás során:
-
-– az anyagsűrűséget beállítja,
-
-– tisztít és osztályoz,
-
-– segédanyagokat adagol,
-
-– lapokat képez,
-
-– présel,
-
-– szárít,
-
-– felületkezelést végez,
-
-– simít,
-
-– feltekercsel,
-
-– ellenőriz és minősít,
-
-– értékeli a műszerek kijelzéseit és a számítógépi adatokat,
-
-– ellenőrzi az automatikák működését,
-
-– figyelemmel kíséri a berendezések működését és műszaki állapotát.
-
-E) A rostos féltermékek kiszerelése során:
-
-– víztelenít,
-
-– csomagol,
-
-– ellenőrzi és minősíti a késztermékeket,
-
-– irányítja a késztermékek tárolását és kiszállítását.
-
-F) A papír kiszerelése során:
-
-– áttekercsel,
-
-– simítást, tekercsvágást végez,
-
-– ívekre vág,
-
-– íves papírterméket válogat,
-
-– ívszámlálást végez,
-
-– ellenőriz, minősít,
-
-– csomagol.
-
-G) A készáru kezelése során:
-
-– figyelemmel kíséri a felhasználói igényeket,
-
-– terméket ajánl a felhasználási körülmények, az ár és a minőség figyelembevételével,
-
-– gondoskodik a termékminőség megóvásáról,
-
-– figyelemmel kíséri az árukiadást.
-
-H) A szervezési és irányítási tevékenysége során:
-
-– célokat határoz meg,
-
-– megoldási módokat keres,
-
-– megszervezi a végrehajtást,
-
-– motivál,
-
-– ellenőriz, szükség esetén beavatkozik,
-
-– gondoskodik a biztonságos munkavégzés feltételeiről,
-
-– betartja és betartatja a tűzvédelmi előírásokat.
-
-I) A külső és a belső információ fogadása, szerzése és felhasználása során:
-
-– kapcsolatot tart a munkájához kapcsolódó szakterületekkel,
-
-– a szaksajtót folyamatosan figyelemmel kíséri,
-
-– használja a helyi információs rendszert.
-
-J) A szakmai tapasztalatok és ismeretek átadása, fejlesztése során:
-
-– a szakirodalomból nyert ismereteket felhasználja,
-
-– segíti beosztottjainak szakmai fejlődését,
-
-– tapasztalatcseréken vesz részt.
-
-K) A környezetbarát módon történő tevékenykedés során:
-
-– az anyagkiválasztásnál figyelembe veszi a környezetvédelmi követelményeket,
-
-– a technológiai folyamatokat környezetbarát módon üzemelteti,
-
-– rendkívüli környezetszennyezés esetén azonnal intézkedik,
-
-– a területén keletkezett veszélyes hulladékok előírás szerinti kezeléséről gondoskodik.
-
-L) Az erőforrásokkal való gazdálkodás során:
-
-– az adott feladathoz hozzárendeli a beosztott létszámot,
-
-– rendkívüli feladat vagy létszámhiány esetén segítséget vesz igénybe,
-
-– gondoskodik a termelőberendezések kapacitásának kihasználásáról,
-
-– a technológiai utasításban szereplő anyag- és energianormákat betartja és betartatja,
-
-– használja a folyamatirányítási rendszert,
-
-– ellenőrzi a berendezések műszaki állapotát,
-
-– eldönti az üzemeltethetőséget,
-
-– hibalistát készít,
-
-– rangsorolja a javítások sürgősségét,
-
-– a termeléskiesést okozó váratlan meghibásodások elhárítására intézkedik,
-
-– ellenőrzi és átveszi a javított berendezéseket.
-
-III. Szakmai követelmények
-
-A) Általános szakmai követelmények
-
-A papírgyártó mester elsajátított ismeretei birtokában legyen képes:
-
-– elméleti ismereteit magas szinten alkalmazni,
-
-– szervező-ellenőrző munkáját önállóan végezni és munkatársait irányítani,
-
-– a gazdálkodás és az értékesítés adott területein is a munkavégzési, gazdasági és értékesítési feladatok ellátására,
-
-– következtetések levonására,
-
-– az európai követelmények szerint a környezetvédelem és a minőségbiztosítás általános céljainak megfelelően tevékenykedni.
-
-– rendkívüli környezetszennyezés esetén azonnal intézkedni.
-
-B) Szakmai gyakorlati követelmények
-
-A papírgyártó mesternek elsajátított ismeretei birtokában, feladatainak ellátása során képesnek kell lennie:
-
-– értelmezni és alkalmazni a gyártási dokumentációkat, előírásokat, utasításokat,
-
-– kiválasztani az adott féltermék előállításához leginkább megfelelő alap- és segédanyagokat a gazdaságossági és környezetvédelmi szempontok figyelembevételével.
-
-– felmérni és kiszámítani az adott termékmennyiség előállításának megfelelő alap- és segédanyag-szükségletet,
-
-– kiválasztani az adott papír vagy kartonfajta előállításához leginkább megfelelő rostanyagokat, segéd- és adalékanyagokat,
-
-– felmérni és kiszámítani az adott papírfajta gyártásához szükséges rostanyag, segéd- és adalékanyag-szükségletet,
-
-– a behordási program kialakítására.
-
-Tudnia kell ellenőrizni és irányítani:
-
-– az elsődleges és a másodlagos rostanyagok előkészítésének folyamatát,
-
-– a papírpép tárolását és a másodlagos rostanyagok kezelését,
-
-– az anyagsűrűség beállítását,
-
-– a papírpép tisztításának és osztályozásának folyamatát,
-
-– a segédanyagok előkészítését és adagolását,
-
-– a lapképzés, a préselés és a szárítás folyamatát,
-
-– a papírgépen belüli felületkezelés folyamatát,
-
-– a papír kiszerelésének folyamatát,
-
-– a készáru kezelését, a tárolás, a raktározás és a kiszállítás folyamatát.
-
-Tudnia kell:
-
-– ellenőrizni különféle előkészítő és gyártóberendezések működését,
-
-– figyelemmel kísérni a berendezések műszaki állapotát,
-
-– értékelni a műszerek kijelzéseit és a számítógépi adatokat, ellenőrizni az automatikák működését,
-
-– értékelni a gyártás közbeni eredményeket és a szükséges korrekciókat elvégezni,
-
-– ellenőrizni a gyártott papírminőséget,
-
-– gondoskodni a termékminőség megóvásáról,
-
-– használni a helyi információs rendszert.
-
-C) Szakmai elméleti követelmények
-
-A papírgyártó mesternek elsajátított ismeretei birtokában tudnia kell:
-
-– hogy a papír- és kartongyártás fontosabb növényei nyersanyagai milyen tulajdonságokkal rendelkeznek és milyen féltermékek előállítására alkalmasak,
-
-– az anyagbehordással és a papírgyártással összefüggő számításokat elvégezni, az eredményeket értékelni, a következtetéseket levonni,
-
-– hogy milyen technológiai folyamatok játszódnak le a papír- és kartongyártás egyes fázisaiban és ezeknek a folyamatoknak az elméleti alapjait (az őrlés, a lapképzés, a préselés, a szárítás elméletét),
-
-– hogy a gyártási folyamat egyes fázisaiban hogyan szabályozhatók a papírtulajdonságok,
-
-– működtetni a fa és a szalma előkészítésénél és a rostanyaggyártás különféle eljárásainál használatos berendezéseket,
-
-– a papírgépen belül és kívül történő felületi enyvezés és másolás technológiáit és berendezéseinek használatát,
-
-– a számítástechnika alapjait felhasználási szinten,
-
-– a fajlagos energiafelhasználás csökkentésének módjait,
-
-– a fajlagos vízfelhasználás csökkentésének módszereit és a vízrendszer korszerűsítésének lehetőségeit.
-
-Ismernie kell:
-
-– a másodlagos nyersanyagok fontosabb tulajdonságait, az egyéb rostanyagok jellemzőit és ezek hatását a papírtulajdonságok alakulására,
-
-– a papír- és a kartongyártás fontosabb segéd- és adalékanyagait, ezek hatását a papírtulajdonságok alakulására és a gyártási folyamatra,
-
-– a papír- és a kartongyártásnál alkalmazott szita- és nemezfajtákat, és a tárolásukra, használat közbeni karbantartásukra vonatkozó szabályokat,
-
-– a vegyszer- és a hőregenerálás során lejátszódó kémiai folyamatokat és berendezéseket,
-
-– a különböző rostanyagfajták jellemző tulajdonságait, a köztük lévő minőségi különbségeket, valamint az összefüggéseket a rostanyagok minősége és a belőlük készült papírtulajdonságok között,
-
-– a hulladékpapír nemesítésének módszereit,
-
-– a papír kiszereléséhez alkalmazott berendezések használatát,
-
-– a papírvizsgálati és a termékszabályokat,
-
-– a veszélyes hulladékkezelés szabályait,
-
-– a karbantartás alapvető típusait (a megelőző, az ütemezett, az állapotfüggő karbantartás stb.).
-
-Ismerje és alkalmazza:
-
-– az ISO minőségbiztosítási rendszert,
-
-– a rostanyaggyártásban, a papír- és a kartongyártásban szükséges környezetvédelmi megoldásokat.
-
-Rendelkeznie kell készáru ismerettel.
-
-IV. A mestervizsga rendje
-
-A mestervizsgát az Országos Mestervizsga Szabályzat és a Magyar Kereskedelmi és Iparkamara egységes keretbe foglalt Mestervizsga Szabályzat szerint kell megszervezni és lebonyolítani.
-
-A mesterjelöltnek a Mestervizsga Bizottság előtt kell számot adnia gyakorlati tudásáról és elméleti felkészültségéről.
-
-A Mestervizsga Bizottság a vizsga eredményei alapján dönt a PAPÍRGYÁRTÓ MESTER cím odaítéléséről.
-
-A mestervizsga részei és sorrendje:
-
-1. Gyakorlati vizsga.
-
-2. Szakmai írásbeli vizsga.
-
-3. Szóbeli vizsga, amelynek témakörei:
-
-– szakmai elmélet,
-
-– vállalkozói ismeretek (gazdasági és jogi ismeretek),
-
-– pedagógiai ismeretek.
-
-A három vizsgarészt külön napokon kell lebonyolítani a megadott sorrendben.
-
-1. Gyakorlati vizsga és értékelése
-
-A gyakorlati mestervizsga lebonyolításának menetéről, az azzal összefüggő valamennyi szervezési kérdéséről a Mestervizsga Bizottság dönt az OMSZ–MKIK egységes keretbe foglalt Mestervizsga Szabályzata szerint.
-
-A gyakorlati mestervizsga helye a Mestervizsga Bizottság által kijelölt helyszín.
-
-A gyakorlati vizsga időtartama minimum 4 óra, maximum 8 óra.
-
-A Mestervizsga Bizottság a vizsga megkezdése előtt ellenőrzi a helyszínt, a vizsgákhoz szükséges tárgyi feltételek meglétét, a szakmai gyakorlati mestervizsgatételeknek megfelelően és az eszközjegyzék alapján.
-
-A gyakorlati vizsga tételsor a következő feladattípusokat tartalmazza:
-
-– a rostanyag- és a papírgyártó üzemekben a tételben meghatározott berendezések működésének ellenőrzése, értékelése,
-
-– az adott technológiai folyamatok vizsgálata és minősítése,
-
-– a technológiai folyamatok paramétereinek mérése és értékelése üzemi körülmények között,
-
-– a laboratóriumi vizsgálatok,
-
-– technológiai folyamatok szabályozása szimulációs programok segítségével.
-
-A gyakorlati vizsga értékelése előre elkészített pontozólapokon történik, a részfeladatok külön-külön történő értékelése alapján.
-
-A mesterjelölt gyakorlati munkáját a Bizottság a munkavégzés szakszerűsége, pontossága, a technikai és technológiai folyamatok betartása és a munkavédelmi előírások alkalmazása alapján bírálja el.
-
-Az a jelölt, aki a gyakorlati vizsgán az egyes részfeladatokból külön-külön nem éri el a maximálisan adható pontszám 50%-át, annak minősítése ,,nem felelt meg''. Az eredménytelen vizsga megismétlésére az OMSZ–MKIK Vizsgaszabályzat a mérvadó.
-
-2. Szakmai írásbeli vizsga és értékelése
-
-Az írásbeli vizsga helye a Mestervizsga Bizottság által meghatározott helyszín. A tervezett időtartam: 240 perc.
-
-A szakmai írásbeli vizsga anyaga az alábbi témaköröket öleli fel:
-
-– az alapanyagok, a rostos féltermékek és a segédanyagok előkészítésével kapcsolatos számítási feladatokat,
-
-– a rostos féltermékek, a papír és a karton gyártásával és ezek kiszerelésével kapcsolatos számítási feladatokat (A számítási feladatok eredményeit írásban értékelni is kell!),
-
-– a nyersanyagok és a rostos féltermékek előkészítésével kapcsolatos feladatok,
-
-– a rostos féltermékgyártás és a papírgyártás témakörében a technológiai folyamatokat és a gépi berendezéseket, ezek üzemeltetési körülményeit,
-
-– a rostos féltermékek és a papír gyártásával kapcsolatos környezetvédelmi kérdéseket, környezetkímélő megoldásokat,
-
-– anyag- és készáruismeretet,
-
-– műszerismeretet, automatikát és a folyamatszabályozást.
-
-Az írásbeli vizsga értékelése a Bizottság által elkészített pontozólap alapján történik. Annak a jelöltnek, aki a maximálisan adható pontszám felét nem éri el, minősítése ,,nem felelt meg''. Az eredménytelen vizsga megismétlésére az OMSZ–MKIK Vizsgaszabályzat a mérvadó.
-
-3. Szóbeli vizsga és értékelése
-
-A szóbeli vizsga helye a Mestervizsga Bizottság által megválasztott helyszín.
-
-A szóbeli vizsga három témakörének tételsorából az elnök által meghatározott sorrendben lehet tételt húzni, illetve a szóbeli vizsgát letenni. A három témakört külön-külön kell értékelni. Mindhárom vizsgarész ,,megfelelt'' minősítése esetén érvényes a szóbeli vizsga.
-
-A mesterjelölt szóbeli vizsgáját a Vizsgabizottság egyszerű szavazati többséggel minősíti. Szavazategyenlőség esetén az elnök szavazata dönt. Egy-egy tétel feldolgozásához legalább 20–25 perc felkészülési időt kell biztosítani. A jelöltnek önállóan kell beszámolnia felkészültségéről, a Vizsgabizottság tagjai csak akkor tehetnek fel kérdéseket, amikor a jelölt feleletében elakad, rosszat mond, vagy helytelen következtetést von le, illetve a felelet továbbfolytatásához segítség szükséges. Amikor a jelölt befejezte feleletét, a Vizsgabizottságnak joga van a tétel anyagán belül újabb kérdéseket feltenni az objektív értékelés és minősítés érdekében.
-
-A jelölt nem megfelelő felkészültsége esetén újabb tétel húzását nem szabad engedélyezni.
-
-Az eredménytelen témakör (témakörök) megismétlése az OMSZ–MKIK Vizsgaszabályzat alapján történik.
-
-4. A mestervizsga egyes részei alóli felmentés feltételei
-
-A gyakorlati vizsga letétele, a szóbeli vizsga szakmai része alól felmentés nem adható.
-
-Az egyéb felmentési lehetőségeket az OMSZ–MKIK Vizsgaszabályzat tartalmazza.
-
-A VÁLLALKOZÁSI ISMERETEK
-
-mestervizsgarész célja és követelményei
-
-A vizsga célja az Országos Mestervizsga Szabályzat 2. § d), valamint a 3. § d) pontja értelmében a mestervizsgák szerves részét kell hogy képezzék az olyan általános és speciális vállalkozási ismeretek, amelyek lehetővé teszik a saját vállalkozásban a tulajdonosi, más személy üzleti vállalkozásában a beosztotti feladatok teljesítését.
-
-A mesternek kellő ismeretekkel kell rendelkeznie a termelés, az értékesítés és a gazdálkodás minden területén. Figyelemmel kell kísérnie a piac helyzetét, változásait, törekedve arra, hogy azokhoz ne csak alkalmazkodjon, hanem képes legyen a változtatás elősegítésére is. Ez széles látókört igényel, ezt hivatott elősegíteni a Vállalkozási ismeretek témakör követelményeinek elsajátítása.
-
-Követelmények
-
-A mesterjelölt:
-
-– Ismerje a vállalkozás és költségvetés között kialakuló sokoldalú kapcsolat elemeit, adórendszerünk jellemző vonásait, a munkavállalókat és a munkáltatókat terhelő adónemek szabályait.
-
-– Rendelkezzen a vállalkozásokra vonatkozó közgazdaságtani alapismeretekkel, valamint ismerje a vállalkozásokat érintő nemzetgazdasági, a makro- és mikroszinten bekövetkező jelentősebb gazdasági események lefolyásának törvényszerűségeit és az érvényesülő hatásmechanizmusokat.
-
-– Ismerje a hazai vállalkozások szervezeti formáit, az alapításukra és működtetésükre vonatkozó főbb jogszabályokat.
-
-– Ismerje az üzleti terv és a hitelterv elkészítésének folyamatát.
-
-– Ismerje a vállalkozás csődje, felszámolása és végelszámolása közben felmerülő feladatokat és eljárási szabályokat.
-
-– Ismerje a vállalkozás elszámolásának adminisztratív szabályait, a bizonylati fegyelem követelményeit.
-
-– Rendelkezzen a stratégiai tervezés lépéseire, a vezetési stílusra, a döntéshozatalra és az egyes döntések visszacsatolására vonatkozó ismeretekkel.
-
-– Ismerje a szerződéskötések tartalmi, alaki és formai követelményeit.
-
-– Ismerje a piac meghatározó elemeit, szereplőit, a várható termelői és fogyasztói magatartást, a vásárlói döntési folyamatokat, a fogyasztóvédelem rendelkezéseit.
-
-– Ismerje a szakmai és üzleti kapcsolatok közben felszínre kerülő erkölcsi, etikai és protokolláris szabályokat.
-
-– Legyen képes a vállalkozás munkaerő-szükségletét folyamatosan fejleszteni, ismerje a létszámleépítés, a munkaerő-átcsoportosítás, a bérgazdálkodás lehetőségeit és jogi szabályait.
-
-– Ismerje és alkalmazza a vállalkozásokkal összefüggésben a Munka Törvénykönyvét, a foglalkoztatási, a szakképzési, a munkavédelmi, a társadalombiztosítási és egyéb személyi ügyekkel kapcsolatos törvényeket.
-
-– Tudja alkalmazni az árstratégiákat és az árprogramokat, tudja összehangolni a termelés, az áruforgalom és a szolgáltatás elemeit.
-
-– Ismerje és alkalmazza a marketing alapfogalmait, különös tekintettel a marketing-mix elemeire.
-
-– Ismerje a jó minőségű áruhoz, szolgáltatáshoz való jogot.
-
-– Ismerje az ellenőrzésre jogosult hatóságokat és üzleti kötelezettségeit hatósági ellenőrzéskor.
-
-– Ismerje az anyaggazdálkodás elveit, szabályait és gyakorlatát (tervezés, beszerzés, raktározás, anyagmozgatás, tárolás).
-
-– Legyen képes a nyereségorientált tevékenység folytatására, a munkahely műszaki, pszichológiai és ergonómiai szempontok szerinti kialakítására.
-
-– Ismerje a vállalkozások információs rendszerének működését, a partnerekkel és a versenytársakkal történő kapcsolatok alakításának lehetőségét, az offenzív üzletpolitikát.
-
-– Élő kapcsolatot alakítson ki a Kamarával, az Ipartestületekkel és egyéb érdekképviseleti szervezetekkel annak érdekében, hogy a jogokat és a kötelezettségeket megismerve, azokat alkalmazni tudja a vállalkozása fellendítése érdekében.
-
-A PEDAGÓGIAI ISMERETEK
-
-mestervizsgarész célja és követelményei
-
-A vizsga célja a szakképzési törvény (1993. évi LXXVI. tv.) 17. § (3) bekezdése alapján a tanulók gyakorlati képzésével foglalkozó szakoktatók kiválasztásakor előnyben kell részesíteni a mestervizsgával rendelkező szakmunkásokat.
-
-Az Országos Mestervizsga Szabályzat 2. § b), valamint a 3. § e) pontja értelmében a mestervizsgák követelményeinek szerves részét kell képezzék az olyan alapvető, gyakorlatorientált pedagógiai ismeretek, melyek az adott szakmai területen a munkaerő-utánpótlás színvonalas képzéséhez nélkülözhetetlenek.
-
-A gyakorlati oktatást is végző mester szakmai munkájában a tanulók életkori sajátosságainak megfelelő, a képzési célok elérését elősegítő módszereket és eszközöket kell hogy alkalmazzon, az elért eredményeket pedig reálisan kell értékelje.
-
-Ezért a vizsga célja, egyrészt annak felmérése, hogy a mesterjelölt a magas szintű szakmai ismeretei mellett képes-e a tudását a szakképzés hazai rendszerében a tanulók felé közvetíteni, másrészt az oktatói tevékenység iránti érdeklődés felkeltése.
-
-Követelmények
-
-A mesterjelölt:
-
-– Átfogóan ismerje a hazai szakképzési rendszert, a szakképzési törvény és a szakmai vizsgáztatásról szóló rendelet legfontosabb ismérveit (pl. a tanulószerződésre vonatkozó előírásokat).
-
-– Ismerje a szakmai pedagógiai dokumentációk még használt régi és új fogalmait (OKJ, OSZJ, TSZJ, szakmai szint, tanterv, tanmenet, központi és helyi programok stb.).
-
-– Részletesen ismerje az adott szakma gyakorlati tantárgyprogramjának tartalmát, az iskolai szakmai elméleti programokat, valamint az iskola és a gyakorlati képzőhely munkájának koordinálási feladatait az elmélet és gyakorlat egységének megteremtése érdekében.
-
-– Részletesen ismerje szakmájában a gyakorlati képzés időrendi ütemezésének, a munka megtervezésének, előkészítésének lépéseit.
-
-– Ismerje az egyedi és a kiscsoportos gyakorlati képzés (team munka) szervezésének előnyeit és hátrányait.
-
-– Ismerje a tanítás-tanulási folyamat sajátosságait, az eredményességet befolyásoló tényezőket.
-
-– Legyen képes szakmájában az általános és speciális munkacselekvésekre történő felkészítésre: bemutatásra, gyakoroltatásra és korrigálásra.
-
-– Ismerje és az oktatásban, a szemléltetésben, a tanulók munkájának, szakmai fejlődésének ellenőrzésében és értékelésében használható módszereket és változatosan alkalmazza azokat.
-
-– Ismerje a módszerek megválasztásának kritériumait és legyen képes azok tudatos alkalmazására.
-
-– Ismerje a fegyelmezett, biztonságos, egészséget és környezetet nem veszélyeztető, minőségi munkára nevelés elvárásait.
-
-– Ismerje a pályaválasztás és a szakmai alkalmasság kritériumait.
-
-– Ismerje a tanulók életkori sajátosságait, azok legfontosabb pszichológiai és pedagógiai törvényszerűségeit.
-
-– Ismerje a személyiségfejlesztés lehetőségeit, legyen képes a tanulók kommunikációs képességének, flexibilitásának, kreativitásának, motivációjának elősegítésére.
-
-– Legyen képes a személyre szóló, segítő kapcsolat kialakítására a tanulókkal, a tanulócsoportokkal, a tanulók szüleivel és az iskola munkatársaival.
-
-– Legyen képes társadalmi alapértékeket (becsület, tisztesség, felelősség, pontosság, megbízhatóság stb.) közvetíteni.
-
-– Ismerje, és világosan, szabatosan és stílusosan alkalmazza az anyanyelvét és a műszaki nyelvet.
-
-– A szakma szeretetére, a szakmai öntudat erősítésére neveljen.
-
-* * *
-
-26. PAPÍRFELDOLGOZÓ
-
-mesterszint és vizsgakövetelmények
-
-I. A mestervizsgára jelentkezés feltételei
-
-1. A mestervizsgára jelentkezéshez az alábbi szakképesítések egyikével rendelkeznie kell a jelöltnek
-
-| Szakképesítés neve | Az OKJ-ben szereplő szakképesítés | Szakképesítés OSZJ szakmaszáma |
-
-| azonosító száma | FEOR száma |
-
-| Cellulóz- és papírgyártó |  |  | 1000–1 |
-
-| Papírfeldolgozó |  |  | 1000–2 |
-
-| Papírgyártó és -feldolgozó | 31 5243 05 | 8126 |  |
-
-| Papíripari technikus | 52 5411 07 | 3114 | 31–0400 |
-
-Ezenkívül még szakirányú (papíripari) közép-, illetve felsőfokú iskolai rendszerben megszerzett végzettség fogadható el és egyéb műszaki főiskolai vagy egyetemi végzettség.
-
-2. A mestervizsga előfeltételeként előírt szakmai gyakorlat időtartama
-
-Papírfeldolgozó-ipari munkaterületen eltöltött igazolt munkaviszony, és/vagy egyéni vállalkozói tevékenységből származó szakmai gyakorlat:
-
-szakmunkás bizonyítvánnyal 8 év
-
-középfokú szakirányú végzettséggel 8 év
-
-felsőfokú szakirányú végzettséggel 3 év
-
-felsőfokú műszaki végzettséggel 5 év
-
-II. A mester szakmai munkaterülete, tevékenységköre,
-
-és feladatai
-
-1. A mester munkaterülete
-
-Részt vesz a feldolgozó-ipari termékek gyártásának előkészítésében, a gyártás megszervezésében, irányításában, ellenőrzésében.
-
-Kiszolgálja, kezeli, felügyeli a papírfeldolgozó-üzemi gépeket és berendezéseket.
-
-Ápolja, karbantartja és karbantartatja a rábízott gépeket, berendezéseket, felel műszaki állapotukért, közreműködik a karbantartási feladatok végrehajtásában.
-
-Minőség-ellenőrzési vizsgálatokat végez az alap- és segédanyagok, valamint a késztermékek körében.
-
-Vészhelyzetben intézkedik a felügyelete alá tartozó gépek és berendezések biztonságos leállításáról, a közreműködő személyek biztonságáról, a munkavédelmi előírások betartásáról,
-
-Gondoskodik a késztermék tárolásáról, szállításáról, illetve ezek megszervezéséről.
-
-Végezheti laboratóriumi gépek, berendezések kezelését, üzemeltetését.
-
-Végezhet alapvető laboratóriumi tevékenységet (fizikai mennyiségek mérése, jellemzők meghatározása stb.).
-
-2. A mester tevékenységi területe, feladatköre
-
-A papírfeldolgozó mester akkor tud megfelelni a vele szemben támasztott követelményeknek, amennyiben
-
-– szakmai, elméleti ismereteit folyamatosan bővíti,
-
-– gazdag szakmai tapasztalatokkal rendelkezik,
-
-– személyisége, együttműködő készsége, kommunikációs készsége, szakmája és cége iránti elkötelezettsége és problémamegoldó készsége erre alkalmassá teszi.
-
-Jellemző feladatok:
-
-– értelmezi a konkrét gyártásra irányuló feladatot,
-
-– meghatározza és/vagy biztosítja a munkavégzés feltételeit,
-
-– kiválasztja az alap- és segédanyagokat, szükség esetén minősíti azokat,
-
-– a termék gyártásához szükséges papírfeldolgozási technológiát alkalmaz, kiválasztja a technológiai sort,
-
-– megszervezi, irányítja és ellenőrzi a gyártási folyamatot,
-
-– gazdálkodik a rendelkezésre álló erőforrásokkal,
-
-– meglévő tudását fejleszti és átadja,
-
-– kapcsolatot tart, egyeztet munkahelyi vezetőivel és munkatársaival,
-
-– kapcsolatot tart más, a tevékenységével összefüggő szakterületekkel.
-
-3. A szakma mesterszintű gyakorlása során előforduló legfontosabb feladatok
-
-Az adott feldolgozó-ipari termék gyártásához a szükséges előkészítés megszervezése, elvégzése a konkrét feladat értelmezéséből kiindulva:
-
-– összegyűjti a gyártással kapcsolatos dokumentációkat,
-
-– csoportosítja és rangsorolja a feladatokat,
-
-– részcélokat, határidőket szab meg,
-
-– megtervezi a feladatok végrehajtását.
-
-Meghatározza és/vagy biztosítja a munkavégzés feltételeit:
-
-– ellenőrzi a biztonságos munkavégzés személyi feltételeinek meglétét,
-
-– betartja és betartatja a tűzvédelmi és környezetvédelmi előírásokat,
-
-– betartja és betartatja a biztonságtechnikai előírásokat,
-
-– biztosítja a vagyonvédelmet,
-
-– folyamatosan biztosítja az üzemi rendet és tisztaságot,
-
-– javaslatot tesz a dolgozók munkakörülményeinek javítására.
-
-Kiválasztja az adott termék gyártásához szükséges alap- és segédanyagokat:
-
-– meghatározza a szükséges alap- és segédanyagokat,
-
-– ellenőrzi a gyártásra való alkalmasságot, a szabványelőírásoknak megfelelően bevizsgál és minősít, szükség esetén intézkedik,
-
-– felhasználásra előkészíti vagy előkészítteti az alap- és segédanyagokat,
-
-– véleményezi az alap- és segédanyagok felhasználhatóságát,
-
-– részt vesz az új alap- és segédanyagok kipróbálásában, és javaslatot tesz a kiválasztásra.
-
-Alkalmazza az adott termék gyártásához szükséges feldolgozó-ipari technológiákat:
-
-– a rendelkezésre álló berendezések, gépek ismeretében technológiai sort választ,
-
-– elvégzi a gépeken, berendezéseken a szükséges beállításokat,
-
-– próbagyártást végez,
-
-– a próbagyártás értékelése után elindítja a gyártást,
-
-– ellenőrzi és értékeli a gyártás közbeni eredményeket és a szükséges korrekciókat elvégezteti,
-
-– folyamatosan figyelemmel kíséri a berendezések működését, műszaki állapotát, és gondoskodik a hibák kijavításáról,
-
-– értékeli a műszerek kijelzéseit és a számítógépi adatokat,
-
-– ellenőrzi és dokumentálja a feladat végrehajtását,
-
-– közreműködik a gyártási dokumentációk összeállításában,
-
-– prototípusgyártást végez.
-
-Minősíti a papírfeldolgozó-ipari termékeket:
-
-– kiválasztja a minősítés paramétereit és a minősítéshez szükséges eszközöket,
-
-– megméri a vizsgálandó termék kívánt jellemzőit,
-
-– a mérési eredményeket dokumentálja,
-
-– az eredmények alapján minősít, és szükség esetén beavatkozik,
-
-– dönt a nem megfelelő termék kezeléséről,
-
-– nyomon követi az önellenőrzés folyamatát.
-
-Felméri és gazdálkodik a rendelkezésre álló erőforrásokkal:
-
-– meghatározza a feladat elvégzéséhez szükséges létszámot mind mennyiségi, mind minőségi szempontból,
-
-– kiosztja a személyre szabott feladatokat,
-
-– meghatározza a szükséges berendezéseket és eszközöket,
-
-– ellenőrzi a termelési kapacitás kihasználtságát,
-
-– biztosítja az előírt fajlagos mutatók teljesítését,
-
-– üzemzavar esetén intézkedik az elhárításáról, s elvégzi a szükséges átcsoportosításokat,
-
-– ellenőrzi és átveszi a javított berendezést,
-
-– intézkedik a berendezések karbantartásáról.
-
-A feladatok megoldása során napi munkakapcsolata:
-
-– egyeztet munkatársaival és munkahelyi vezetőivel,
-
-– kapcsolatot tart a munkájához szükséges szakterületekkel,
-
-– információkat fogad, szerez és felhasználja azokat,
-
-– használja a helyi információs, kommunikációs rendszereket és eszközöket,
-
-– helyesen használja a szakmai nyelvet.
-
-Fejleszti és átadja szaktudását:
-
-– az új feladat megoldásában hasznosítja korábbi tapasztalatait,
-
-– rendszeresen végez munkavédelmi, tűzvédelmi, szakmai és minőségügyi oktatást,
-
-– részt vesz szakmai rendezvényeken,
-
-– foglalkozik a tanulók szakmai, gyakorlati képzésével, segíti a szakma iránti érdeklődésük kibontakozását,
-
-– figyelemmel kíséri a szaksajtót, szakirodalmat.
-
-Vállalkozik:
-
-– megismeri a piaci környezetet,
-
-– összegyűjti a felhasználói igényeket,
-
-– kínálja termékeit,
-
-– ismeri és alkalmazza a vállalkozáshoz szükséges jogszabályokat.
-
-Szervezi és irányítja a készáru kezelését:
-
-– szervezi és irányítja a tárolást, szállítást, raktározást,
-
-– gondoskodik a késztermék minőségi megóvásáról,
-
-– figyelemmel kíséri az árukiadást.
-
-Környezetbarát módon tevékenykedik:
-
-– az anyagkiválasztásnál figyelembe veszi a környezetvédelmi követelményeket,
-
-– a technológiai folyamatokat környezetbarát módon üzemelteti,
-
-– rendkívüli környezetszennyezés esetén azonnal intézkedik,
-
-– gondoskodik a területén keletkezett hulladékok és veszélyes hulladékok előírás szerinti kezeléséről.
-
-Ismeri, betartja és alkalmazza a munkajogi, munkavédelmi, környezetvédelmi, tűzvédelmi és biztonságtechnikai előírásokat.
-
-III. Szakmai követelmények
-
-A) Általános szakmai követelmények
-
-A papírfeldolgozó mester elsajátított ismeretei birtokában legyen képes elméleti ismereteit magas szinten alkalmazni, szervező-ellenőrző munkáját önállóan végezni és munkatársait irányítani.
-
-Legyen képes a gazdálkodás és az értékesítés területén is a munkavégzési, gazdasági és értékesítési feladatok ellátására, következtetések levonására és a szükséges szervezési feladatai elvégzésére.
-
-Az európai követelményeknek megfelelően ismernie kell a környezetvédelem és a minőségbiztosítás általános céljait és a legfontosabb fogalmait.
-
-B) Szakmai gyakorlati követelmények
-
-A papírfeldolgozó mester feladatainak ellátása során legyen képes:
-
-– gyártási dokumentációkat, előírásokat, utasításokat értelmezni,
-
-– meghatározni és biztosítani a munkavégzés feltételeit,
-
-– kiválasztani az adott termék előállításához leginkább megfelelő alap- és segédanyagokat a gazdaságossági és környezetvédelmi szempontok figyelembevételével,
-
-– felmérni és kiszámítani az adott termékmennyiség előállításának megfelelő alap- és segédanyag-szükségletet,
-
-– a termék előállításához szükséges technológiai sorrendet összeállítani,
-
-– adott berendezésen, gépen a szükséges beállításokat elvégezni,
-
-– minősíteni alap- és segédanyagot, valamint készterméket,
-
-– gazdálkodni a rendelkezésre álló erőforrásokkal,
-
-– a technológiai sor valamennyi területén a munkafolyamatok szervezési, ellenőrzési feladatait ellátni.
-
-A feladatok ellátása során tudnia kell:
-
-– csoportosítani és rangsorolni, megtervezni és végrehajtani a feladatokat,
-
-– meghatározni részcélokat és határidőket,
-
-– felhasználásra előkészíteni az alap- és segédanyagokat,
-
-– ellenőrizni a gyártóberendezések működését,
-
-– figyelemmel kísérni a berendezések műszaki állapotát,
-
-– a feldolgozógépen a gyártást elindítani,
-
-– értékelni a gyártás közbeni eredményeket, és a szükséges korrekciókat elvégezni,
-
-– értékelni a műszerek jelzéseit és a számítógépes adatokat,
-
-– ellenőrizni az automatikák működését,
-
-– megszervezni és irányítani a készáru kezelését, a raktározás és szállítás folyamatát,
-
-– gondoskodni a termékminőség megóvásáról.
-
-A feladatok ellátása során alkalmazni kell:
-
-– tűz- és munkavédelmi előírásokat, valamint a környezetvédelmi előírásokat,
-
-– a biztonságtechnikai előírásokat,
-
-– a helyi információs rendszert és eszközöket.
-
-C) Szakmai elméleti követelmények
-
-A papírfeldolgozó mesternek ismernie (tudnia) kell:
-
-– melyek a féltermékgyártás nyersanyagai, s milyen féltermékgyártási eljárások vannak;
-
-– melyek a papír-, karton- és lemezgyártás főbb műveletei;
-
-– csoportosítani a papírtermékeket felhasználási területük szerint;
-
-– a főbb csoportok jellegzetességeit;
-
-– a papírtermékek vizsgálati, minősítési módszereit, ezen belül:
-
-= a papírok összetételének meghatározását,
-
-= általános vizsgálati módszereket,
-
-= mechanikai vizsgálatokat,
-
-= fizikai vizsgálatokat,
-
-= optikai tulajdonságok vizsgálatát,
-
-= nyomtathatósági vizsgálatokat,
-
-= késztermékek vizsgálati módszereit;
-
-– a papírfeldolgozásnál alkalmazott ragasztóanyagokat, a velük szemben támasztott követelményeket;
-
-– a papírfeldolgozó-iparban alkalmazott nyomóformák anyagait, a nyomóformák előállításának módját;
-
-– melyek a papírfeldolgozó-iparban használt műanyagok, azok tulajdonságai;
-
-– melyek a papír nemesítésénél használt nemesítőanyagok, és hogyan alkalmazzák;
-
-– milyen alapműveletek használatosak a papír, a karton és a lemez feldolgozásánál, és ezen belül:
-
-= a darabolási eljárásokat és gépeit,
-
-= a nyírás és kimetszés eljárásait,
-
-= a hajlítási élek kialakítását,
-
-= a dombornyomás és sajtolás elvét, gépeit,
-
-= az összeerősítésnél alkalmazott ragasztási, fűzési, hegesztési eljárásokat,
-
-= a nyomdaipari technológiákat, a feldolgozó-iparban alkalmazott flexográf és ofszetnyomtatást;
-
-– melyek a mechanikai műveletekkel előállított termékek és gyártástechnológiájuk, és ezen belül:
-
-= a zacskó-, tasak- és divattáskagyártás alap- és segédanyagait, az alkalmazott technológiákat,
-
-= a zsákgyártás gépsorait és működését,
-
-= a borítékgyártás alapműveleteit és gépi berendezéseit, a szakaszos és folyamatos borítékgyártást,
-
-= a füzetek fajtáit, használatos alapanyagokat, a különféle füzetek előállításának technológiai műveleteit,
-
-= az egészségügyi és háztartási papírtermékek fajtáit, a felhasznált anyagokkal szemben támasztott követelményeket, a gyártástechnológiákat,
-
-= a hullámtermékek fogalmát, fajtáit, összetételét, az alkalmazott alap- és segédanyagokat,
-
-= a korszerű HL gyártó gépeket és működésüket,
-
-= a HPL dobozok előállításának különféle módjait,
-
-= a szögletes, henger és kombidobozok fajtáit, előállításukat;
-
-– melyek a papírnemesítés műveletei, anyagai és gépei;
-
-– a bevonás, telítés, kasírozás fogalmát;
-
-– a felhordó- és eloszlatógépeket, szárítóberendezéseket;
-
-– a nemesített papírok csoportosítását, az egyes csoportok jellegzetes típusait;
-
-– melyek a csomagolástechnikában használt fogalmak, milyen követelményeket támaszt a csomagolástechnika a csomagolóanyagokkal és eszközökkel szemben;
-
-– elvégezni technológiai számítási feladatokat;
-
-– megtervezni a papírfeldolgozó-ipari termékek szabásmintáit;
-
-– alkalmazni az ISO minőségbiztosító rendszert;
-
-– a számítástechnika alapjait felhasználói szinten;
-
-– a munkavédelmi, tűzvédelmi előírásokat;
-
-– környezetvédelmi alapfogalmakat, a hulladék és veszélyes hulladék kezelésének szabályait.
-
-IV. A mestervizsga vizsga rendje
-
-A mestervizsgát az Országos Mestervizsga Szabályzat és a Magyar Kereskedelmi és Iparkamara egységes keretbe foglalt Mestervizsga Szabályzata szerint kell megszervezni és lebonyolítani.
-
-A mesterjelöltnek a Mestervizsga Bizottság előtt kell számot adni gyakorlati tudásáról és elméleti felkészültségéről.
-
-A Mestervizsga Bizottság a vizsga alapján dönt a PAPÍRFELDOLGOZÓ MESTER cím odaítéléséről.
-
-A mestervizsga részei:
-
-1. Gyakorlati vizsga.
-
-2. Szakmai írásbeli vizsga.
-
-3. Szóbeli vizsga, amelynek témakörei:
-
-– szakmai elmélet,
-
-– vállalkozási ismeretek (gazdasági és jogi ismeretek),
-
-– pedagógiai ismeretek.
-
-A három vizsgarészt külön napokon kell lebonyolítani a megadott sorrendben.
-
-1. Gyakorlati vizsga és értékelése
-
-A gyakorlati mestervizsga lebonyolításának menetéről, az azzal összefüggő valamennyi szervezési kérdésről a Mestervizsga Bizottság dönt az OMSZ–MKIK egységes keretbe foglalt Mestervizsga Szabályzata szerint.
-
-Tekintettel a papírfeldolgozó-ipar sajátosságaira (sokféle termék és gyártástechnológia) a gyakorlati vizsga két részből áll.
-
-A) A ,,Mestervizsga dolgozat'' szóbeli ismertetése és megvitatása
-
-B) Papírtermékek és feldolgozóipari termékek vizsgálata
-
-A) A mesterjelölt munkahelyén a munkahelyi vezető által megadott gyakorlatorientált feladatból választva kb. 15 gépelt oldalnyi terjedelemben ,,Mestervizsga-dolgozat''-ot készít, melynek feladatai a következők lehetnek:
-
-– adott termék gyártásánál felhasznált alap- és segédanyag-szükségletek meghatározása (mennyiség, minőség) és minősítése,
-
-– adott technológiai folyamatok vizsgálata és minősítése,
-
-– technológiai folyamatok paramétereinek mérése és értékelése,
-
-– javaslatok technológiai módosítások bevezetésére,
-
-– késztermékek vizsgálata a felhasználhatóság és a minőségi követelményeknek megfelelően.
-
-A feladatok, témák köre bővíthető az üzemi, helyi specialitások figyelembevételével.
-
-A ,,Mestervizsga-dolgozat'' 15–20 oldal terjedelmű, melyben szakmai számítások, grafikonok, táblázatok, mellékletek is helyet kapnak. A ,,Mestervizsga-dolgozat''-ot 1 példányban bekötötten, a Mestervizsga Bizottság által meghatározott időre (a gyakorlati vizsgát megelőzően) kell benyújtani. A gyakorlati vizsga ezen részének időtartama vizsgázónként 15–20 perc. Értékelése a ,,Mestervizsga-dolgozat'' előzetes minősítése, és a Vizsgabizottság által feltett kérdésre adott válaszok alapján történik.
-
-B) A gyakorlati vizsga a tételsorban meghatározott feladatok elvégzésével folytatódik, amelynek időtartama minimum 2 óra, maximum 4 óra.
-
-A gyakorlati vizsgát megelőző napon a Mestervizsga Bizottság kiválasztja a vizsgázók számának megfelelő számú gyakorlati vizsgakérdést, egyben felkéri a vizsgáztató intézményt a tételekben megadott feladatok elvégzéséhez szükséges eszközök és alapanyagok biztosítására. A vizsga napján a jelöltek kihúzzák a különböző vizsgakérdéseket.
-
-A Mestervizsga Bizottság a vizsga megkezdése előtt ellenőrzi a helyszínt, a vizsgákhoz szükséges tárgyi feltételek meglétét, a szakmai gyakorlati mestervizsgatételeknek megfelelően, és az eszközjegyzék alapján.
-
-A gyakorlati vizsga értékelése előre elkészített pontozó lapokon történik, a részfeladatok külön-külön történő értékelése alapján.
-
-A mesterjelölt gyakorlati munkáját a Vizsgabizottság a munkavégzés szakszerűsége, pontossága, az eszközök, berendezések megfelelő használata alapján bírálja el.
-
-Az a jelölt, aki a gyakorlati vizsgán az egyes részfeladatokból külön-külön nem éri el a maximálisan adható pontszám felét, annak minősítése ,,nem felelt meg''. Az eredménytelen vizsga megismétlésére az OMSZ–MKIK Vizsgaszabályzat a mérvadó.
-
-2. Szakmai írásbeli vizsga és értékelése
-
-Az írásbeli vizsga helye a Mestervizsga Bizottság által meghatározott helyszín.
-
-Tervezett időtartam: 240 perc.
-
-A szakmai írásbeli vizsga anyaga az alábbi témaköröket öleli fel:
-
-– féltermékgyártás (anyagok, technológiák),
-
-– papírtermékek gyártástechnológiája,
-
-– papírtermékek fajtái, csoportjai,
-
-– papírtermékek vizsgálati, minősítési módszerei,
-
-– papírfeldolgozó-ipari termékek előállításához alkalmazott alap- és segédanyagok,
-
-– mechanikai úton előállított termékek gyártástechnológiái,
-
-– papírnemesítési technológiák,
-
-– készáruismeret,
-
-– műszerismeret, automatika, folyamatszabályozás,
-
-– szakmai számítások (termékek méretezése, anyagszükséglet meghatározása stb.).
-
-Az írásbeli vizsga értékelése a Bizottság által elkészített pontozólap alapján történik.
-
-Annak a jelöltnek, aki a maximálisan adható pontszám felét nem éri el, minősítése ,,nem felelt meg''. Az eredménytelen vizsga megismétlésére az OMSZ–MKIK Vizsgaszabályzat a mérvadó.
-
-3. Szóbeli vizsga és értékelése
-
-A szóbeli vizsga helye a Mestervizsga Bizottság által megválasztott helyszín.
-
-A szóbeli vizsga három témakörének tételsorából az elnök által meghatározott sorrendben lehet tételt húzni, illetve a szóbeli vizsgát letenni.
-
-Egy-egy tétel feldolgozásához legalább 20 perc felkészülési időt kell biztosítani.
-
-A jelöltnek a szóbeli vizsga során önállóan kell beszámolnia elméleti felkészültségéről. A Vizsgabizottság tagjai csak akkor tesznek fel kérdéseket, amikor a jelölt feleletében elakad, rosszat mond, vagy helytelen következtetést von le, illetve a felelete folytatásához segítség szükséges.
-
-Amikor a jelölt befejezte feleletét, a Vizsgabizottságnak joga van – a tétel anyagán belül – további kérdéseket is feltenni az objektív értékelés és minősítés érdekében.
-
-A jelölt nem megfelelő felkészültsége esetén újabb tétel húzását nem szabad engedélyezni.
-
-A mesterjelölt szóbeli vizsgáját a Vizsgabizottság egyszerű szavazati többséggel minősíti. Mindhárom témarész ,,megfelelt'' minősítése esetén érvényes a szóbeli vizsga.
-
-Az eredménytelen szóbeli témakört (témakörök) megismétlése az OMSZ–MKIK Vizsgaszabályzat alapján történik.
-
-4. A mestervizsga egyes részei alóli felmentés feltételei
-
-A teljes gyakorlati vizsga letétele és a szóbeli vizsga szakmai része alól felmentés nem adható.
-
-Az egyéb felmentési lehetőségeket az OMSZ–MKIK Vizsgaszabályzat tartalmazza.
-
-A VÁLLALKOZÁSI ISMERETEK
-
-mestervizsgarész célja és követelményei
-
-A vizsga célja az Országos Mestervizsga Szabályzat 2. § d), valamint a 3. § d) pontja értelmében a mestervizsgák szerves részét kell hogy képezzék az olyan általános és speciális vállalkozási ismeretek, amelyek lehetővé teszik a saját vállalkozásban a tulajdonosi, más személy üzleti vállalkozásában a beosztotti feladatok teljesítését.
-
-A mesternek kellő ismeretekkel kell rendelkeznie a termelés, az értékesítés és a gazdálkodás minden területén. Figyelemmel kell kísérnie a piac helyzetét, változásait, törekedve arra, hogy azokhoz ne csak alkalmazkodjon, hanem képes legyen a változtatás elősegítésére is. Ez széles látókört igényel, ezt hivatott elősegíteni a Vállalkozási ismeretek témakör követelményeinek elsajátítása.
-
-Követelmények
-
-A mesterjelölt:
-
-– Ismerje a vállalkozás és költségvetés között kialakuló sokoldalú kapcsolat elemeit, adórendszerünk jellemző vonásait, a munkavállalókat és a munkáltatókat terhelő adónemek szabályait.
-
-– Rendelkezzen a vállalkozásokra vonatkozó közgazdaságtani alapismeretekkel, valamint ismerje a vállalkozásokat érintő nemzetgazdasági, a makro- és mikroszinten bekövetkező jelentősebb gazdasági események lefolyásának törvényszerűségeit és az érvényesülő hatásmechanizmusokat.
-
-– Ismerje a hazai vállalkozások szervezeti formáit, az alapításukra és működtetésükre vonatkozó főbb jogszabályokat.
-
-– Ismerje az üzleti terv és a hitelterv elkészítésének folyamatát.
-
-– Ismerje a vállalkozás csődje, felszámolása és végelszámolása közben felmerülő feladatokat és eljárási szabályokat.
-
-– Ismerje a vállalkozás elszámolásának adminisztratív szabályait, a bizonylati fegyelem követelményeit.
-
-– Rendelkezzen a stratégiai tervezés lépéseire, a vezetési stílusra, a döntéshozatalra és az egyes döntések visszacsatolására vonatkozó ismeretekkel.
-
-– Ismerje a szerződéskötések tartalmi, alaki és formai követelményeit.
-
-– Ismerje a piac meghatározó elemeit, szereplőit, a várható termelői és fogyasztói magatartást, a vásárlói döntési folyamatokat, a fogyasztóvédelem rendelkezéseit.
-
-– Ismerje a szakmai és üzleti kapcsolatok közben felszínre kerülő erkölcsi, etikai és protokolláris szabályokat.
-
-– Legyen képes a vállalkozás munkaerő-szükségletét folyamatosan fejleszteni, ismerje a létszámleépítés, a munkaerő-átcsoportosítás, a bérgazdálkodás lehetőségeit és jogi szabályait.
-
-– Ismerje és alkalmazza a vállalkozásokkal összefüggésben a Munka Törvénykönyvét, a foglalkoztatási, a szakképzési, a munkavédelmi, a társadalombiztosítási és egyéb személyi ügyekkel kapcsolatos törvényeket.
-
-– Tudja alkalmazni az árstratégiákat és az árprogramokat, tudja összehangolni a termelés, az áruforgalom és a szolgáltatás elemeit.
-
-– Ismerje és alkalmazza a marketing alapfogalmait, különös tekintettel a marketing-mix elemeire.
-
-– Ismerje a jó minőségű áruhoz, szolgáltatáshoz való jogot.
-
-– Ismerje az ellenőrzésre jogosult hatóságokat és üzleti kötelezettségeit hatósági ellenőrzéskor.
-
-– Ismerje az anyaggazdálkodás elveit, szabályait és gyakorlatát (tervezés, beszerzés, raktározás, anyagmozgatás, tárolás).
-
-– Legyen képes a nyereségorientált tevékenység folytatására, a munkahely műszaki, pszichológiai és ergonómiai szempontok szerinti kialakítására.
-
-– Ismerje a vállalkozások információs rendszerének működését, a partnerekkel és a versenytársakkal történő kapcsolatok alakításának lehetőségét, az offenzív üzletpolitikát.
-
-– Élő kapcsolatot alakítson ki a Kamarával, az Ipartestületekkel és egyéb érdekképviseleti szervezetekkel annak érdekében, hogy a jogokat és a kötelezettségeket megismerve, azokat alkalmazni tudja a vállalkozása fellendítése érdekében.
-
-A PEDAGÓGIAI ISMERETEK
-
-mestervizsgarész célja és követelményei
-
-A vizsga célja a szakképzési törvény (1993. évi LXXVI. tv.) 17. § (3) bekezdése alapján a tanulók gyakorlati képzésével foglalkozó szakoktatók kiválasztásakor előnyben kell részesíteni a mestervizsgával rendelkező szakmunkásokat.
-
-Az Országos Mestervizsga Szabályzat 2. § b), valamint a 3. § e) pontja értelmében a mestervizsgák követelményeinek szerves részét kell képezzék az olyan alapvető, gyakorlatorientált pedagógiai ismeretek, melyek az adott szakmai területen a munkaerő-utánpótlás színvonalas képzéséhez nélkülözhetetlenek.
-
-A gyakorlati oktatást is végző mester szakmai munkájában a tanulók életkori sajátosságainak megfelelő, a képzési célok elérését elősegítő módszereket és eszközöket kell hogy alkalmazzon, az elért eredményeket pedig reálisan kell értékelje.
-
-Ezért a vizsga célja, egyrészt annak felmérése, hogy a mesterjelölt a magas szintű szakmai ismeretei mellett képes-e a tudását a szakképzés hazai rendszerében a tanulók felé közvetíteni, másrészt az oktatói tevékenység iránti érdeklődés felkeltése.
-
-Követelmények
-
-A mesterjelölt:
-
-– Átfogóan ismerje a hazai szakképzési rendszert, a szakképzési törvény és a szakmai vizsgáztatásról szóló rendelet legfontosabb ismérveit (pl. a tanulószerződésre vonatkozó előírásokat).
-
-– Ismerje a szakmai pedagógiai dokumentációk még használt régi és új fogalmait (OKJ, OSZJ, TSZJ, szakmai szint, tanterv, tanmenet, központi és helyi programok stb.).
-
-– Részletesen ismerje az adott szakma gyakorlati tantárgyprogramjának tartalmát, az iskolai szakmai elméleti programokat, valamint az iskola és a gyakorlati képzőhely munkájának koordinálási feladatait az elmélet és gyakorlat egységének megteremtése érdekében.
-
-– Részletesen ismerje szakmájában a gyakorlati képzés időrendi ütemezésének, a munka megtervezésének, előkészítésének lépéseit.
-
-– Ismerje az egyedi és a kiscsoportos gyakorlati képzés (team munka) szervezésének előnyeit és hátrányait.
-
-– Ismerje a tanítás-tanulási folyamat sajátosságait, az eredményességet befolyásoló tényezőket.
-
-– Legyen képes szakmájában az általános és speciális munkacselekvésekre történő felkészítésre: bemutatásra, gyakoroltatásra és korrigálásra.
-
-– Ismerje és az oktatásban, a szemléltetésben, a tanulók munkájának, szakmai fejlődésének ellenőrzésében és értékelésében használható módszereket és változatosan alkalmazza azokat.
-
-– Ismerje a módszerek megválasztásának kritériumait és legyen képes azok tudatos alkalmazására.
-
-– Ismerje a fegyelmezett, biztonságos, egészséget és környezetet nem veszélyeztető, minőségi munkára nevelés elvárásait.
-
-– Ismerje a pályaválasztás és a szakmai alkalmasság kritériumait.
-
-– Ismerje a tanulók életkori sajátosságait, azok legfontosabb pszichológiai és pedagógiai törvényszerűségeit.
-
-– Ismerje a személyiségfejlesztés lehetőségeit, legyen képes a tanulók kommunikációs képességének, flexibilitásának, kreativitásának, motivációjának elősegítésére.
-
-– Legyen képes a személyre szóló, segítő kapcsolat kialakítására a tanulókkal, a tanulócsoportokkal, a tanulók szüleivel és az iskola munkatársaival.
-
-– Legyen képes társadalmi alapértékeket (becsület, tisztesség, felelősség, pontosság, megbízhatóság stb) közvetíteni.
-
-– Ismerje, és világosan, szabatosan és stílusosan alkalmazza az anyanyelvét és a műszaki nyelvet.
-
-– A szakma szeretetére, a szakmai öntudat erősítésére neveljen.
-
-* * *
+26.[^78]
 
 27. VENDÉGLŐS-FOGADÓS
 
-mestervizsga szint és szakmai követelmények[^69]
+mestervizsga szint és szakmai követelmények[^79]
 
 28. PINCÉR
 
-mesterszint és vizsgakövetelmények[^70]
+mesterszint és vizsgakövetelmények[^80]
 
 29. SZAKÁCS
 
-mestervizsga szint és szakmai követelmények[^71]
+mestervizsga szint és szakmai követelmények[^81]
 
-30.[^72]
+30.[^82]
 
 31. KÁRPITOS
 
-mestervizsgaszint és szakmai követelmények[^73]
+mestervizsgaszint és szakmai követelmények[^83]
 
 32. BŐRDÍSZMŰVES
 
-mestervizsgaszint és szakmai követelmények[^74]
+mestervizsgaszint és szakmai követelmények[^84]
 
 33. CIPÉSZ
 
-mestervizsgaszint és szakmai követelmények[^75]
+mestervizsgaszint és szakmai követelmények[^85]
 
 34. FELVONÓSZERELŐ
 
-mestervizsgaszint és szakmai követelmények[^76]
+mestervizsgaszint és szakmai követelmények[^86]
 
 35. FÉRFISZABÓ (férfiruha-készítő)
 
-mestervizsgaszint és szakmai követelmények[^77]
+mestervizsgaszint és szakmai követelmények[^87]
 
 36. IRODATECHNIKAIKÉSZÜLÉK-SZERELŐ
 
 (Irodagépműszerész)
 
-mestervizsgaszint és szakmai követelmények[^78]
+mestervizsgaszint és szakmai követelmények[^88]
 
 37. KELMEFESTŐ ÉS -TISZTÍTÓ
 
@@ -3330,557 +782,17 @@ A mestervizsga vállalkozási ismeretek és pedagógiai ismeretek vizsgarészei 
 
 38. KŐFARAGÓ
 
-mestervizsgaszint és szakmai követelmények[^79]
+mestervizsgaszint és szakmai követelmények[^89]
 
 39. MŰKŐKÉSZÍTŐ
 
-mestervizsgaszint és szakmai követelmények[^80]
+mestervizsgaszint és szakmai követelmények[^90]
 
-40. ÖNTŐ
-
-mestervizsgaszint és szakmai követelmények
-
-I. A mestervizsgára jelentkezés feltételei
-
-1. A mestervizsgához szükséges szakképesítések adatai
-
-A mestervizsgára jelentkezéshez az alábbi szakképesítések (szakmák) egyikével kell rendelkeznie a jelöltnek:
-
-------------------------
-
-A szakképesítés (szakma)
-
-megnevezése OKJ azonosító száma | OSZJ szakmaszáma
-
-------------------------
-
-Öntő 03 2 7415 01 10 07* |
-
-31 5232 05 |
-
-Öntészeti technikus 52 5432 05 | 11 0902
-
-A *-gal jelölt számok az 1995-ös OKJ-ben szerepelnek.
-
-Ezenkívül még szakirányú közép- és felsőfokú iskolai rendszerben megszerzett végzettség fogadható el.
-
-2. A mestervizsga előfeltételeként előírt szakmai gyakorlat
-
-Az öntészeti (öntvénygyártási) tevékenységet végző vállalatnál, gazdasági társaságnál, vállalkozónál eltöltött igazolt munkaviszony időtartama:
-
-------------------------
-
-A szakmában eltöltött gyakorlat
-
-szakiránya időtartama
-
-------------------------
-
-Szakirányú szakmunkás végzettséggel 10 év
-
-Szakirányú középfokú végzettséggel 5 év
-
-Felsőfokú szakirányú végzettséggel 3 év
-
-II. A mester munkaterülete,
-
-a szakmához kapcsolódó tevékenységkörök
-
-1. A mester szakmai munkaterületének leírása
-
-Az öntőmester különböző öntvény előállítást folytató gazdasági társaságnál vagy saját vállalkozásban vesz részt az öntvények gyártásának előkészítésében, a gyártás megszervezésében, végrehajtásában, irányításában, ellenőrzésében.
-
-2. A mester tevékenységi területe, feladatköre
-
-A szakma mesterszintű gyakorlása során előforduló legfontosabb feladatok:
-
-– Marketing tevékenységet végez:
-
-= piackutatási,
-
-= árképzési,
-
-= PR,
-
-= termékfejlesztési
-
-feladatokat lát el.
-
-– Az adott termék előállításához szükséges gyártáselőkészítési tevékenységet végez:
-
-= a rendelkezésére álló adatok alapján gyártási programot készít,
-
-= elkészíti (kapott dokumentáció esetén értelmezi) a gyártási dokumentációt,
-
-= átveszi a minta- vagy szerszámkészletet (szükség esetén legyártatja),
-
-= meghatározza és szükség szerint beszerzi a gyártáshoz szükséges alap- és segédanyagokat,
-
-= előkészíti a gyártáshoz szükséges szerszámokat, eszközöket.
-
-– Tevékenysége során formát, magot készít:
-
-= elkészíti a gyártáshoz szükséges formázó- és maghomok keveréket,
-
-= elkészíti a formákat, magokat,
-
-= öntésre előkészíti a formát (formákat),
-
-= tartós formába öntés esetén előkészíti a szerszámokat.
-
-– Végrehajtja az olvadék előállításra, öntésre vonatkozó feladatait:
-
-= összeállítja az olvasztáshoz szükséges betétet,
-
-= üzembe helyezi az olvasztóberendezést,
-
-= előállítja a folyékony fémet, szükség esetén kezeli az olvadékot,
-
-= végrehajtja az öntést.
-
-– Elvégzi az öntvénykikészítéshez kapcsolódó feladatokat:
-
-= kirámolja (üríti) a formaszekrényt, bontja a szerszámot,
-
-= elvégzi az öntvénytisztítást (homokolás, beömlő és táplálórendszer eltávolítás, szemcseszórás) és kikészítést,
-
-= minősíti az öntvényt,
-
-= szükség szerint öntvényjavításokat végez,
-
-= szükség esetén elvégzi az előírt hőkezelést,
-
-= hőkezelés után, igény estén revétlenítést végez.
-
-– Feladatai végrehajtása során minőségbiztosítási tevékenységet végez:
-
-= minősíti a beszállítókat,
-
-= biztosítja az alap- és segédanyagok elkülönített azonosított tárolását,
-
-= gondoskodik a hitelesített mérőműszerek alkalmazásáról,
-
-= betartja a technológiai előírásokat,
-
-= szabályozza vagy végrehajtja a gyártás előtti, a gyártásközi és végellenőrzést,
-
-= gondoskodik az öntvény azonosításáról,
-
-= hibamegelőző és helyesbítő tevékenységet folytat,
-
-= szabályozza a dokumentálás rendjét.
-
-– A tevékenységet előírás szerint dokumentálja:
-
-= a hatósági előírások betartását,
-
-= a munkaügyi nyilvántartást,
-
-= a minőségbiztosítási rendszer szerinti gyártási folyamatot,
-
-= a kiemelt gépek esetében gépidő nyilvántartást,
-
-= az elvégzett karbantartásokat,
-
-= a műszaki fejlesztési tevékenységet,
-
-= a szükséges adatszolgáltatási tevékenységet.
-
-– Műszaki fejlesztési tevékenységet végez:
-
-= javaslatot tesz a gyártás- és gyártmányfejlesztésre,
-
-= közreműködik a fejlesztés végrehajtásában,
-
-= részt vesz a műszaki fejlesztés eredményeinek kiértékelésében,
-
-= közreműködik az üzemszerű bevezetésben.
-
-– Humán erőforrás fejlesztési tevékenységet végez:
-
-= továbbképzi önmagát,
-
-= gondoskodik a munkatársak tovább- és átképzéséről,
-
-= minősíti beosztottjait,
-
-= gondoskodik a szakmai utánpótlás-nevelésről,
-
-= együttműködik a munkavállalói érdekképviselettel.
-
-– Tevékenysége során betartja a jogszabályokat, hatósági előírásokat:
-
-= a munka-, tűz- és környezetvédelmi törvény és az ehhez kapcsolódó rendeletek előírásait,
-
-= a Munka Törvénykönyvének előírásait,
-
-= a közegészségügyi előírásokat,
-
-= a biztonságtechnikai előírásokat,
-
-= a számviteli törvény rendelkezéseit,
-
-= az adózás rendjéről szóló törvényt,
-
-= részt vesz a belső szabályzatok kidolgozásában.
-
-– Karbantartási tevékenységet végeztet:
-
-= megtervezi a karbantartást,
-
-= hibaelemzést végeztet,
-
-= diagnosztikai méréseket végeztet,
-
-= üzemzavart elhárít,
-
-= elvégezteti a karbantartást,
-
-= karbantartás után átveszi a berendezést.
-
-III. Szakmai követelmények
-
-1. Általános szakmai követelmények
-
-Az öntőmester, elsajátított ismeretei alapján, képes elméleti tudását a gyakorlatban önállóan alkalmazni.
-
-Felismeri az öntvény előállítási folyamatok összefüggéseit, ezeket képes összehangolni és tulajdonosi vagy alkalmazotti minőségben végrehajtani, irányítani.
-
-Önállóan végzi az előkészítési, gyártási, marketing, értékesítési, gazdálkodási és adminisztrációs feladatait.
-
-Ismeri és munkavégzése során alkalmazza a munkavédelmi, tűzvédelmi, valamint az európai normák szerinti környezetvédelmi és minőségbiztosítási feladatokat.
-
-2. Szakmai elméleti követelmények
-
-Az öntőmesternek tudnia, ismernie kell:
-
-2.1. Melyek az öntvénygyártás alap- és segédanyagai:
-
-– a tartós formába történő öntés segédanyagait,
-
-– formázó- és maghomok keverékek előállításához szükséges anyagokat,
-
-– az olvadék-előállítás alap- és segédanyagait.
-
-2.2. A homokformázási eljárásokat.
-
-2.3. Az öntvényelőállítás technológiai folyamatát (homokformázás, precíziós öntés, kokillaöntés, nyomásos öntés).
-
-2.4. A járatos öntvény anyagcsoportok – vasalapú és nemvas fémötvözetek – szabvány szerinti jelét, főbb tulajdonságait.
-
-2.5. Az öntött termék vizsgálati, minősítési módszereit:
-
-– vegyelemzés,
-
-– mechanikai vizsgálat,
-
-– roncsolásmentes vizsgálat,
-
-– késztermék minősítés,
-
-– bizonylatolás.
-
-2.6. Az öntvénygyártás fontosabb gépi berendezéseit, ezen belül: típusait, működési elvüket
-
-– homok előkészítés gépei:
-
-= kollerjárat,
-
-= S-lapátos keverő,
-
-= csigás keverő,
-
-= gyorskeverők;
-
-– magkészítő gépek:
-
-= maglövő (cold box, hot box stb),
-
-= magfúvó,
-
-= keverő töltő;
-
-– formázógépek:
-
-= rázó,
-
-= rázó-préselő,
-
-= sajtoló,
-
-= szekrénynélküli,
-
-= homokröpítő,
-
-= impakt formázógép;
-
-– kokillázó gépek és nyomásos öntőgépek,
-
-– olvasztó berendezések:
-
-= indukciós,
-
-= ívkemence,
-
-= kupoló,
-
-= tégelykemence (koksz-, gáz-, olaj-, villamos ellenállás fűtésű),
-
-= lángkemence;
-
-– öntvénytisztító berendezések:
-
-= dobok,
-
-= szemcseszórók,
-
-= köszörűgépek,
-
-= vágókorongos darabolók,
-
-= hegesztőberendezések.
-
-2.7. Az öntészeti technológia elkészítéséhez szükséges alapvető számításokat [adagszámítás, beömlő és táplálórendszer számítás, terhelősúly számítás, valamint egyéb gyártástechnológiát befolyásoló számítások (pl. öntési idő és hőmérséklet, rámolási idő)].
-
-2.8. A különböző hőkezelési eljárásokat, alkalmazási területüket:
-
-– feszültségmentesítés,
-
-– lágyítás,
-
-– normalizálás,
-
-– edzés,
-
-– nemesítés.
-
-2.9. A minőségbiztosítási rendszer, gyártásra vonatkozó előírásait:
-
-– anyagok tárolása,
-
-– gyártási folyamat,
-
-– öntvényazonosítás – nyomon követhetőség.
-
-2.10. A karbantartási terv előírásait, a végrehajtás időszakait.
-
-2.11. Az öntvénygyártás területén alkalmazott mérő- és ellenőrző műszereket, laboratóriumi vizsgáló berendezéseket.
-
-2.12. A gyártási költségek összetevőit, az ár, költség, fedezet, nyereség, struktúra elemeit, meghatározásának módját.
-
-2.13. Az informatikai rendszerek általános és szakmaspecifikus alkalmazás lehetőségeit.
-
-2.14. A szakmára vonatkozó munka-, tűz- és környezetvédelmi előírásokat.
-
-2.15. Az üzem, műhely, munkahely telepítésére vonatkozó előírásokat.
-
-2.16. A marketing alapfogalmait, a marketing stratégiák lehetőségeit.
-
-3. Szakmai gyakorlati követelmények
-
-Az öntőmesternek ismernie kell a szakma gyakorlatát, képesnek kell lennie a gyakorlati feladatok ellátására, tervezésére, szervezésére, ellenőrzésére, irányítására.
-
-A fentiek alapján a feladatai végrehajtása során legyen képes:
-
-– a rendelkezésére álló alkatrészrajz értelmezésére, arról öntvényrajz és szükség esetén mintarendelő rajz készítésére,
-
-– a gyártási dokumentációk elkészítésére, értelmezésére,
-
-– a gyártás feltételeinek meghatározására, biztosítására,
-
-– az adott öntvény gyártásához szükséges alap- és segédanyagok meghatározására gazdaságossági megfontolások alapján,
-
-– a rendelkezésre álló technológiai berendezések üzemeltetésére, az előírt paraméterek beállítására,
-
-– a technológiai folyamat valamennyi elemének végrehajtására, utasításainak kiadására, szervezési, ellenőrzési feladatainak végrehajtására,
-
-– a minőségbiztosítási rendszer előírásainak végrehajtására,
-
-– a rendelkezésre álló erőforrásokkal való gazdálkodásra,
-
-– a marketing tevékenység ellátására.
-
-A feladatok ellátása során tudnia kell:
-
-– csoportosítani, rangsorolni, megtervezni és végrehajtani a feladatokat,
-
-– felhasználásra előkészíteni az alap- és segédanyagokat,
-
-– ellenőriznie a berendezések működését,
-
-– ellenőrizni a berendezések műszaki állapotát,
-
-– gyártás irányítását,
-
-– értékelni a gyártás közbeni eredményeket, a szükséges módosításokat elvégezni,
-
-– megszervezni és irányítani a raktározás és szállítás folyamatát.
-
-Munkavégzése során:
-
-– betartja a hatósági előírásokat,
-
-– alkalmazza a helyi sajátosságokra kialakított informatikai rendszert és eszközöket,
-
-– alkalmazza a vonatkozó szabvány előírásokat.
-
-IV. A szakmai minősítés és vizsgáztatás rendje
-
-A mestervizsgát a Magyar Kereskedelmi és Iparkamara Mestervizsga Szabályzatában (a továbbiakban: MKIK Vizsgaszabályzat) foglaltak szerint kell előkészíteni és megszervezni. A mesterjelöltnek a Mestervizsga Bizottság előtt kell számot adnia gyakorlati tudásáról és elméleti felkészültségéről. A Mestervizsga Bizottság a vizsgaeredmények alapján, a fenti Szabályzatban foglaltak figyelembevételével dönt az ÖNTŐMESTER cím odaítéléséről.
-
-A mestervizsga részei:
-
-– vállalkozási ismeretek (közgazdasági, jogi, munkaügyi stb. ismeretek) vizsga,
-
-– pedagógiai (munkapedagógiai) ismeretek vizsga,
-
-– szakmai gyakorlati vizsga,
-
-– szakmai elméleti (írásbeli, szóbeli) vizsga.
-
-Megjegyzés:
-
-A vállalkozási ismeretek és a pedagógiai ismeretek vizsgarész követelményrendszere egységes, azokat az adott szakképesítésért felelős minisztérium rendelete, az ipari mesterképzés szakmai és vizsgakövetelményeiről szóló 31/1996. (VI. 19.) IKM rendelet tartalmazza.
-
-A vizsga egyéb kérdéseiben az MKIK Vizsgaszabályzata előírásait kell alkalmazni.
-
-1. A szakmai gyakorlati vizsga (mesterremek-készítés) és értékelése
-
-– Az elkészítendő terméket a jelölt maga választhatja, vagy igény esetén a Vizsgabizottság jelöli ki.
-
-– A mesterremek feleljen meg a mesterjelöltekkel szemben támasztott magas szakmai, gyakorlati követelményeknek (pl. nagy alakbonyolultság, kézi osztás, hamis magok).
-
-– A feladat komplexitása olyan legyen, hogy elkészítési ideje legalább 2 munkanapot vegyen igénybe, de a 10 munkanapot ne haladja meg.
-
-– A jelölt önálló választása esetén a tervet a Vizsgabizottsággal jóvá kell hagyatni (részletes technológia, költségkalkuláció). A jóváhagyást a vizsga időpontját megelőző 60 nappal kell kezdeményezni.
-
-– A Vizsgabizottság a jóváhagyás kezdeményezésének időpontjától számított 3 héten belül dönt az elfogadásról vagy elutasításról.
-
-– A kivitelezés történhet a jelölt munkahelyén, vagy erre kijelölt műhelyben. A Vizsgabizottság ellenőrzése mellett, első esetben a munkahelyi vezetőnek igazolnia kell, hogy a jelölt önállóan végezte el a munkát.
-
-– A munka elkészítésének idejét és időtartamát a jelölt köteles előzetesen a Vizsgabizottságnak bejelenteni.
-
-– A Vizsgabizottság – mindkét esetben – a bejelentett időintervallumban folyamatosan vagy szúrópróbaszerűen ellenőrzi a jelöltet.
-
-– Az elkészített darab mellé beadandó:
-
-= a részletes technológiai leírás,
-
-= a költségkalkuláció.
-
-– A mesterremek és a hozzátartozó dokumentumok beadási határideje, a szakmai vizsgát megelőző tizedik nap.
-
-– A mesterremek értékeléséhez a Vizsgabizottság értékelő lapot készít, az alábbi értékelő kritériumok alapján:
-
-= a részletes technológia helyessége,
-
-= a gyártási dokumentáció szakszerűsége, külalakja,
-
-= a darab méretpontossága, alakhűsége, felületminősége, kivitele.
-
-A mesterremek értékelése a Vizsgabizottság által előre elkészített értékelőlap alapján történik. A pontozólapon szereplő értékelési szempontokat és az elérhető összpontszámot a gyakorlati vizsga előtt a vizsgázókkal ismertetni kell.
-
-A mesterremek akkor fogadható el, ha az értékelés során kapott pontszám eléri a maximálisan adható pontszám 50%-át.
-
-A jelölt minősítése 50% feletti összpontszám esetén ,,Megfelelt'', ez alatti eredmény esetén ,,Nem felelt meg''.
-
-2. A szakmai elméleti vizsga és értékelése
-
-A szakmai elméleti vizsga írásbeli és szóbeli részből áll.
-
-A) Irásbeli vizsga
-
-Az írásbeli vizsga helye a Vizsgabizottság által megválasztott helyszín.
-
-A vizsga időtartama: 4 óra.
-
-Az írásbeli vizsgát a következő 14 témakör ismeretanyagából kell összeállítani:
-
-2.1. A gyártáshoz szükséges műszaki dokumentációk készítése (alkatrészrajzról, öntvényrajz, mintarendelő rajz, műveleti utasítások).
-
-2.2. A formázás, alap- és segédanyagainak ismerete:
-
-– formázó- és maghomok keverékek és azok alkotórészei,
-
-– forma és magbevonó anyagok,
-
-– a formázókeverékek vizsgálati módszerei.
-
-2.3. Formázási módok, a formázás gép berendezései.
-
-2.4. Beömlő és tápláló rendszer, formaterhelés és záróerő számítás.
-
-2.5. Az olvasztás alap- és segédanyagai.
-
-2.6. Betétszámítás egy konkrét minőségű:
-
-– acélöntvény,
-
-– szürkeöntvény,
-
-– alumínium – és színesfém ötvözet – öntvény előállításához.
-
-2.7. Az olvadék-előállítás technológiai folyamata (ívkemence, indukciós és kupolókemencés, valamint tégelykemencés olvasztásnál).
-
-2.8. Az olvadék-előállítás gépi berendezései:
-
-– ívkemence,
-
-– indukciós kemence,
-
-– kupoló kemence (hideg- és forrószeles),
-
-– tégelykemence.
-
-2.9. Az öntvénytisztító gépek és berendezések.
-
-2.10. A vas-karbon, alumínium-szilícium, réz-ón, réz- cink állapotábra ismertetése.
-
-2.11. Szabványos ötvözetlen és ötvözött acélok, lemezgrafitos és gömbgrafitos öntöttvasak ismertetése.
-
-2.12. Hőkezelések elvei.
-
-2.13. Minőségbiztosítás, minőségtanúsítás.
-
-2.14. Szabványos öntészeti alumínium-, réz- és cinkötvözetek ismertetése.
-
-Az írásbeli vizsga értékelése a Vizsgabizottság által elkészített pontozólap alapján történik. Annak a jelöltnek, aki a maximálisan adható pontszám felét nem éri el, írásbeli vizsgájának minősítése: ,,nem felelt meg''.
-
-B) Szóbeli vizsga
-
-A szóbeli vizsga témakörei:
-
-– szakmai ismeretek,
-
-– környezetvédelem.
-
-A szóbeli vizsga helye a Vizsgabizottság által meghatározott helyszín.
-
-A szóbeli vizsga két témakörének tételsorából, az elnök által meghatározott sorrendben lehet tételt húzni, illetve a szóbeli vizsgát letenni.
-
-Egy tétel kidolgozásához a jelöltnek tantárgyanként legalább 20–25 perc felkészülési időt kell biztosítani.
-
-A jelöltnek önállóan kell beszámolni felkészültségéről. A vizsgabizottság tagjai csak akkor tesznek fel kérdéseket, ha a jelölt elakad feleletében, vagy az orientálás feltétlenül szükséges. A mesterjelölt felelete után, a Vizsgabizottságnak joga van a tételanyagon belül és azon felül újabb kérdéseket feltenni az objektív értékelés és minősítés érdekében.
-
-A szóbeli vizsga témaköreit külön-külön kell értékelni.
-
-A jelölt a szóbeli vizsgán megfelelt, ha a Vizsgabizottság egyszerű többséggel a tantárgyankénti feleleteket külön-külön elfogadja. Szavazategyenlőség esetén az elnök szavazata dönt.
-
-Sikertelen a szóbeli vizsga, ha a jelölt bármelyik témakörből a ,,nem felelt meg'' minősítést kapott.
-
-Az eredménytelen szóbeli vizsga megismétlése az MKIK Vizsgaszabályzat szerint történik.
-
-3. A vizsga egyes részei alóli felmentés lehetőségei és feltételei
-
-A gyakorlati vizsga (mesterremek-készítés), továbbá a szakmai írásbeli és szóbeli vizsgák alól felmentés nem adható.
-
-A mestervizsga vállalkozási ismeretek és pedagógiai ismeretek vizsgarészei alóli felmentés az MKIK Vizsgaszabályzata szerint adható.
-
-* * *
+40.[^91]
 
 41. HEGESZTŐ
 
-mestervizsgaszint és szakmai követelmények[^81]
+mestervizsgaszint és szakmai követelmények[^92]
 
 42. LAKBERENDEZŐ
 
@@ -4722,27 +1634,27 @@ A mestervizsga vállalkozási ismeretek és pedagógiai ismeretek vizsgarészei 
 
 44. ÉPÍTŐANYAG-IPARI MESTER
 
-mestervizsgaszint és szakmai követelmények[^82]
+mestervizsgaszint és szakmai követelmények[^93]
 
 45. CIPŐIPARI MESTER
 
-mestervizsgaszint és szakmai követelmények[^83]
+mestervizsgaszint és szakmai követelmények[^94]
 
 46. IPARI ELEKTRONIKAI MESTER
 
-mestervizsgaszint és szakmai követelmények[^84]
+mestervizsgaszint és szakmai követelmények[^95]
 
 47. FAIPARI MESTER
 
-mestervizsgaszint és szakmai követelmények[^85]
+mestervizsgaszint és szakmai követelmények[^96]
 
 48. BURKOLÓ
 
-mestervizsgaszint és szakmai követelmények[^86]
+mestervizsgaszint és szakmai követelmények[^97]
 
 49. ELEKTRONIKAI MŰSZERÉSZ
 
-mestervizsgaszint és szakmai követelmények[^87]
+mestervizsgaszint és szakmai követelmények[^98]
 
 50. KÉPKERETEZŐ ÉS ÜVEGEZŐ
 
@@ -5696,589 +2608,13 @@ A mestervizsga vállalkozási ismeretek és pedagógiai ismeretek vizsgarészei 
 
 52. NYOMDÁSZ (nyomtató)
 
-mestervizsgaszint és szakmai követelmények[^88]
+mestervizsgaszint és szakmai követelmények[^99]
 
 53. CSERÉPKÁLYHA- ÉS KANDALLÓÉPÍTŐ
 
-mestervizsgaszint és szakmai követelmények[^89]
+mestervizsgaszint és szakmai követelmények[^100]
 
-54. KÁDÁR
-
-mestervizsgaszint és szakmai követelmények
-
-I. A mestervizsgára jelentkezés feltételei
-
-1. A mestervizsgához szükséges szakképesítés(ek) adatai
-
-A mestervizsgára jelentkezéshez az alábbi szakképesítések (szakmák) egyikével kell rendelkeznie a jelöltnek:
-
-------------------------
-
-A szakképesítés (szakma)
-
-megnevezése OKJ azonosító száma | OSZJ szakmaszáma
-
-------------------------
-
-Kádár 33 5262 05 |
-
-szakképesítés, illetve a fentivel egyenértékű jogelőd szakmai végzettség.
-
-2. A mestervizsga előfeltételeként meghatározott szakmai gyakorlat
-
-A szakmában igazoltan eltöltött minimális gyakorlati idő:
-
-------------------------
-
-A szakmában eltöltött gyakorlat
-
-szakiránya időtartama
-
-------------------------
-
-Kádár 5 év
-
-II. A mester munkaterülete,
-
-a szakmához kapcsolódó tevékenységkörök
-
-1. A mester szakmai munkaterületének leírása
-
-A kádármester szakmájának gyakorlása során – korszerű kézi és gépi eszközökkel, műszerekkel –, megbízásra, megrendelésre, illetve egyedi tervezés alapján önállóan el tudja végezni a tevékenységre jellemző feladatokat.
-
-2. A mester tevékenységi területe és feladatköre
-
-Fából készült hordók, edények, eszközök, egyenes dongájú edények, valamint egyéb kádáripari termékek kézi és gépi technológiával történő előállítása (folyadékos hordók, nyitott kádak, edények, borászati edények, műszaki-ipari edények stb.), ezek karbantartása tisztítása, javítása, átrakása.
-
-III. Szakmai követelmények
-
-1. A szakma – mester szintű – gyakorlása során előforduló legfontosabb feladatok (feladatcsoportok)
-
-1.1. A munkatárgyak előállításához, javításához szükséges technológiai folyamatok műveleteinek elvégzése kéziszerszámokkal, gépesített kéziszerszámokkal, gépekkel.
-
-– Technológiai folyamatok:
-
-= faanyagok kézi és gépi megmunkálása,
-
-= hordók, edények összeállítása és megmunkálása,
-
-= fenékkészítés és befenekelések,
-
-= külső tisztítás és finom megmunkálás,
-
-= abroncsolások, vasalások,
-
-= tisztítások,
-
-= javítások.
-
-– A különböző műveletek elvégzéséhez szükséges:
-
-= szerszámok, készülékek, eszközök kiválasztása, balesetmentes, biztonságos beállítása, használata, karbantartása, tárolása, szerszámok élezése,
-
-= gépek, berendezések előkészítése, beállítása, kezelése,
-
-= ellenőrző mérőeszközök kiválasztása, használata a méret és minőség ellenőrzéséhez, méréséhez.
-
-– A munkatárgy elkészítéséhez:
-
-= a műveleti sorrend megállapítása, a munka megszervezése, a munkahely előkészítése,
-
-= alapanyagok, segédanyagok kiválasztása, előkészítése, felhasználása, tárolása,
-
-= anyagvizsgálatok elvégzése,
-
-= műszaki dokumentációk értelmezése, felhasználása.
-
-1.2. A szakmában előforduló munka- és egészségvédelmi, balesetelhárítási előírások betartása, védőberendezések használata, elsősegély nyújtása, tűzrendészeti előírások betartása.
-
-2. Követelmények
-
-Általános szakmai elvárások:
-
-A mesterjelölt ismerje:
-
-– a szakma gyakorlásához szükséges tevékenységek, műveletek célját,
-
-– a fentiek alkalmazását, legcélszerűbb sorrendjét, végrehajtásuk változatait,
-
-– a termékek elkészítésével kapcsolatos anyagmennyiségi, űrtartalom-meghatározását, terület- és kerületszámítások elvégzését,
-
-– a kézi- és gépi szerszámok, a készülékek, segédeszközök szerkezeti felépítését, élezését és a velük szemben támasztott követelményeket,
-
-– a munkatárgyak méreteinek ellenőrzéséhez szükséges mérőeszközök működési elvét, a mérés technikáját, és a méréssel kapcsolatos elméleti tudnivalókat,
-
-– a termékek anyagát, rendeltetését, szerkezetét, működési elvét, a velük szemben támasztott követelményeket és ezek teljesítésének ellenőrzését, a rájuk vonatkozó szabványokat,
-
-– a termelés szervezését, a munkavállalás bonyolítását, az árajánlat készítését és a részletes költségkimutatás elvégzését, az önálló vállalkozás gyakorlása közben felmerülő közgazdasági, jogi, igazgatási, hatósági, egészségügyi szabályokat, előírásokat,
-
-– a selejtet okozó tényezőket, megelőzésüket és kiküszöbölésüket,
-
-– a szakma gyakorlatában használatos rajzfajtákat, rajzszabványokat, ábrázolásmódokat, a méretarányok, méretmegadások jelképes jelölését, a rajzokon megadott technológiai utasítások értelmezését,
-
-– a kádáripari termékek műszaki rajzainak elkészítését,
-
-– az általános munkavédelmi, biztonságtechnikai, elsősegélynyújtási, munkaegészségügyi, tűzrendészeti előírásokat,
-
-– a tűz megelőzésére vonatkozó intézkedéseket és a tűzoltás szabályait, a tűzoltó készülékek kezelését,
-
-– az elektromos áram élettani hatásait, az áramütés elleni védekezés szabályait, intézkedés módjait az elektromos áram által okozott baleseteknél,
-
-– a szakmára, munkahelyre jellemző környezeti szennyezéseket.
-
-2.1. Szakmai elméleti követelmények
-
-A mesterjelölt ismerje és alkalmazza:
-
-– a szakmára, munkahelyre érvényes munkavédelmi előírásokat,
-
-– a szakmára vonatkozó biztonsági előírásokat a munkafolyamatokban,
-
-– a baleseteknél és tűzeseteknél alkalmazandó intézkedéseket, az elsősegélynyújtás szabályait és azok végrehajtásmódjait,
-
-– a mérgező anyagok, gyúlékony anyagok kezelésére vonatkozó előírásokat,
-
-– a környezetszennyezést csökkentő eljárásokat és módszereit,
-
-– nedvességtartalom meghatározása műszerrel vagy tapintással, szaglással.
-
-A mesterjelölt tudja a munkafolyamatot megtervezni és előkészíteni, a munka eredményeit értékelni.
-
-Részletesen:
-
-– a munkafolyamatok meghatározása és egyeztetése a szóban és írásban közölt adatok szerint, valamint a munkafolyamat megvalósításának biztosítása,
-
-– információk begyűjtése a gyártáshoz,
-
-– az alap- és segédanyag igény meghatározása a műszaki dokumentáció alapján,
-
-– az elkészítendő termék alapanyagainak kiválasztása a felhasználási céloknak megfelelően,
-
-– az alkatrészek elkészítéséhez alkalmas technológia, szerszámok, mérőeszközök, készülékek kiválasztása és előkészítése,
-
-– a munkahely előkészítése a munkafeladatok figyelembevételével,
-
-– a termék gyártási költségeinek becslése.
-
-2.2. Szakmai gyakorlati követelmények
-
-– A műszaki dokumentációkat olvasni, felhasználni.
-
-Részletesen:
-
-= szabvány, műszaki leírás, műveletterv, szabásjegyzék, anyagnorma, nézeti és metszeti rajzok olvasása, értelmezése és felhasználása jártasság szintjén;
-
-– Az ellenőrzést és mérést elvégezni.
-
-Részletesen:
-
-= hosszúságok mérése 0,5 mm-es pontossággal,
-
-= szögek ellenőrzése fix szögmérővel (hajlásminta),
-
-= a felületi érdesség megítélése a felület szerepétől függően,
-
-= a munkadarabok alakhűségének ellenőrzése tűzőmintával,
-
-= az alkatrészek és szerkezeti egységek helyzetének ellenőrzése és beállítása,
-
-= csínsugár meghatározása a csín kerületének ismeretében,
-
-= az edény űrtartalmának mérése 0,5 l-es pontossággal,
-
-= a folyadékmegtartó képesség ellenőrzése feltöltéssel,
-
-= korhadt donga felismerése szemrevételezéssel vagy kopogtatással,
-
-= anyaghibák felismerése faanyagokban és vasalatokon,
-
-= nedvességtartalom meghatározása műszerrel vagy tapintással.
-
-– Kézi forgácsolással és alakítással, dongamegmunkálást és vasalatokat készíteni:
-
-= tükrös dongaanyag előállítása rönkfából,
-
-= máglyázás, szárítás elkészítése,
-
-= dongaválogatás elvégzése méret- és anyagminőség szerint,
-
-= darabolás elvégzése,
-
-= nagyoló megmunkálás bárdolással,
-
-= íves felületek kialakítása görbekéssel és gyalulással,
-
-= plánparalell (csavart) felületek és ezekkel derék- vagy egyéb szöget bezáró élek gyalulása,
-
-= edényállítás elvégzése,
-
-= fejmagasság beállítása koflicolással,
-
-= tűzrakás, dongahajlítás, abroncsozás, kitüzelés, szintbeütögetés elvégzése oldalirányban,
-
-= bütügyalulás, belső és külső íves felületek gyalulása, csínvágás, fenékszél peremezése speciális gyalukkal,
-
-= fenékösszeállítás,
-
-= fenék összegezés, berajzolás, kanyarító fűrészelés elvégzése,
-
-= tömítés, gyékényezés, befenekelés elvégzése,
-
-= átmenő kúpos furatok és köldökcsaphely-furatok kialakítása természetes faanyagokban,
-
-= mázolás, lakkozás, ventúrozás elkészítése,
-
-= abroncsacél darabolása hidegvágóval,
-
-= abroncsacél lyukasztása lyukasztóval,
-
-= abroncsacél szegecselése kádárszegeccsel,
-
-= abroncsacél hajlítása, nyújtása (káfolása),
-
-= köracél darabolása vasfűrésszel és vágóval,
-
-= belső és külső menetek készítése fa- és fémanyagokba.
-
-– Javítási munkák végrehajtására az alábbi munkákat kell tudni végezni:
-
-= kifenekelés (felbontás),
-
-= átvizsgálás, hibabejelölés,
-
-= szétbontás,
-
-= penészes hordó javítása,
-
-= beszabás, csínvésés,
-
-= kiégetés (fából), kimosás, kikaparás,
-
-= átrakás.
-
-– Kiválasztani, használni, karbantartani és tárolni kell tudni az alábbi szerszámokat:
-
-= abroncshajtó kalapács (zecchammer), abroncshúzó, akonafúró, amerikai dongagyalu (amerikáner), félkézkalapács, belső dongagyalu (garb), belső edénygyalu (sab), bütüző (stemm) gyalu, fejsze, bunkó, csavarhúzó, csavarszorító, csípőfogó, csínvágó gyalu, csigafúró, darabolófűrész, dugóhúzó, egyes és kettős simítógyalu, eresztőgyalu (stossbankhobel), egyenes vonókés, görbe vonókés, fabunkó, fakalapács, faráspoly, fenékkihúzó, furdancs, fülfúró, fűrészfoghajtogató, fűrészreszelő, gyékényező kés, hasító fejsze, hasítóék, hasogató, harapófogó, hántológyalu (szarvasgyalu), hidegvágó, kanyarítófűrész, központfúró, laposfogó, laposvéső, lyukasztó, lyukfűrész, fenékszélgyalu, rókafarkfűrész, szekerce, színlőpenge, verőkés, drótkefe, gyökérkefe, kapacs.
-
-– Élezni kell tudni:
-
-= gyalukések, véső, fejsze, fűrészek, vonókések, hidegvágó, szekerce, kapacs, hasítóék, akonafúró, lyukasztó, körző, csavarhúzó, színlőpenge, harapófogó.
-
-– Felismerni, megválasztani, előkészíteni kell tudni:
-
-= a munkatermékek készítéséhez az alap-, segédanyagokat, félkész gyártmányokat, úgymint a fűrészárukat és erdei faválasztékokat akác, bükk, cser, erdei fenyő, eper, fűz, szelídgesztenye, gyertyán, jegenye-, luc-, vörösfenyő, nyár, nyír, hárs, tölgy, a farost és rétegelt lemezeket, faforgácslapokat,
-
-= a ragasztóanyagokat: glutin, kazeinenyveket, a műgyantaragasztókat,
-
-= a festékeket: olaj- és zománcfestékeket, alapozókat, lakkokat, hígítókat,
-
-= a fémből készült szerelvényeket, kötőelemeket, alapanyagokat: kéthegyű, bognár-, laposfejű-szegek, facsavarok, metrikus csavarok, szalagacélok, gömbacélok, kádárszegecsek, lemezszegecsek, alátétek, fülek, fogantyúk, lágyhuzalok, csavaranyák, szorítótuskók, vörösréz lemez, hordóajtózár,
-
-= a tömítő- és egyéb anyagokat: gyékény, kenderkóc, drót- és kenderkötél, kénrúd, kén és lenmagliszt,
-
-= a segédanyagokat: csiszolópapírok, oldószerek, rugók, gumi, faggyú, ventúr.
-
-– Főbb munkatermékek:
-
-= folyadékos hordók: szállító-, tároló-, ászok, díszhordó,
-
-= egyenes dongájú edények: kútveder, szüretelő-, fürdő-, taposó-, káposztáskádak, virágdézsák, lúgzódézsa, rajnai kanna, csobolyó, fertálydézsa, töltike (tölcsér), itatópitli, kármentő, puttony, cserződob.
-
-– Szerszámgépeken forgácsolással és forgácsmentes alakítással munkadarabok megmunkálását elvégezni.
-
-Részletesen:
-
-– A gépbeállítás általános feladatai:
-
-= fordulatszám, előtolósebesség beállítása a felületi minőségtől függően,
-
-= a szerszám kiválasztása a vágási geometria alapján,
-
-= forgácsolási helyzet, fogásmélység meghatározása és beállítása.
-
-– Fűrészelés:
-
-= darabolás karos leszabó körfűrészgépen és szalagfűrészen,
-
-= pontos hosszméretre vágás szög alatt, páros körfűrészgépen,
-
-= szeletelés szalagfűrészen,
-
-= görbe vonalú vágás szalagfűrészen előrajzolás után,
-
-= körlap kivágása szalagfűrészen tüskén,
-
-= körlap kivágása tányérkörfűrészen.
-
-– Gyalulás:
-
-= lap/él egyengetés síkba-derékszögbe, egyengető gyalugépen,
-
-= pontos vastagsági és szélességi méretre gyalulás vastagoló gyalugépen,
-
-= élgyalulás sugárirányban egyengető gyalugépen egyenes és domború él esetén (hordódonga),
-
-= domború és homorú felület kezelése,
-
-= domború és homorú lapok gyalulása dongagyalugépen,
-
-= élgyalulás élgyalugépen.
-
-– Edényállítás:
-
-= palástdongák állítóabroncsba vagy állítóformába helyezése, csíptetése az alkatrészek helyzetétől függően,
-
-= bütüvonal vagy középvonal síkba állítása.
-
-– Főzés:
-
-= főzőkád feltöltése, főzővíz felfűtése,
-
-= edénypalást vízbe helyezése, főzése.
-
-– Hajlítás, palástösszehúzás:
-
-= sodronyhurok meglazítása,
-
-= hordópalást pozicionálása, sodronyhurok felhelyezése,
-
-= palástösszehúzás, húzató abroncs felhelyezés.
-
-– Abroncsok utánhúzása:
-
-= munkadarab felhelyezése befogása,
-
-= dongák szintbeütögetése (richtolás),
-
-= abroncshúzás.
-
-– Utántüzelés:
-
-= edény felhelyezése a hőközlő berendezésre,
-
-= felső edényvég lefedése,
-
-= utántüzelés, abroncsok meghúzása.
-
-– Marás:
-
-= munkadarabok beállítása és befogása (megvezetése) az alak és az anyagtulajdonságok figyelembevételével,
-
-= a szerszámok kiválasztása a megmunkálási eljárások, alapanyagok, profilok figyelembevételével,
-
-= a szerszámok beállítása és befogása,
-
-= természetes faanyagok megmunkálása 0,2 mm méretpontossággal, különböző marószerszámokkal asztalos marógépen vezetővonalzó mellett, valamint sablon alapján, gyűrű mellett,
-
-= kombinált kettős végmegmunkáló géppel bütümarás, gárbolás, csínmarás végzése,
-
-= kúpos gyalugéppel (marógéppel) bütümarás végzése,
-
-= kombinált fenéklapkészítő géppel fenéklap körbevágásának és peremmarásának végzése.
-
-– Fúrás:
-
-= köldökcsaphely furatok kialakítása hosszlyukfúrógépen,
-
-= átmenő, kúpos furatok kialakítása állványos fúrógépen, természetes faanyagokban.
-
-– Esztergálás:
-
-= a munkadarab befogóeszközeinek kiválasztása és felszerelése,
-
-= szerszámok kiválasztása,
-
-= a munkadarabok beállítása és befogása,
-
-= edénypalást esztergálása kézben tartott gyaluval,
-
-= edénypalást csiszolása.
-
-– Köszörülés:
-
-= szerszámok élezése kézi köszörüléssel, elsősorban a gyalukések, vésők, hidegvágók, fúrók, szekercék, görbekések élezése állványos köszörűgépen.
-
-– Csiszolás:
-
-= csiszolópapír kiválasztása, szabása, végtelenítése, felszerelése,
-
-= csiszolás szalagcsiszoló gépen, felső tárgyasztalon,
-
-= síklapok csiszolása, alsó tárgyasztalon szalagcsiszoló gépen.
-
-– Abroncskészítés:
-
-= méretvétel,
-
-= szabás, lyukasztás kombinált abroncskészítő gépen,
-
-= szegecselés üllőn,
-
-= széthengerlés (káfolás) kombinált abroncskészítő gépben.
-
-– Forrasztás:
-
-= fűrészszalag végtelenítése keményforrasztással; a munkadarab előkészítése, a forrasztóanyag, folyósítószer kiválasztása, a forrasztó készülék üzembe helyezése.
-
-IV. A szakmai minősítés és vizsgáztatás rendje
-
-A mesterjelöltnek a Mestervizsga Bizottság előtt kell számot adni elméleti felkészültségéről, gyakorlati tudásáról.
-
-A mestervizsga célja annak megállapítása, hogy a mesterjelölt
-
-– elsajátította-e a kádártevékenység mesterszinten szükséges, szakmai elméleti és gyakorlati ismereteit a vállalkozása vezetéséhez szükséges vállalkozási, illetve a tanulóneveléshez szükséges pedagógiai alapismereteket,
-
-– képes-e munkáját magas színvonalon önállóan végezni,
-
-– rendelkezik-e a szakmai követelmények által támasztott tudáselemekkel, gyakorlati készségekkel.
-
-A mestervizsga részei:
-
-– vállalkozási ismeretek (közgazdasági, jogi, munkaügyi stb. ismeretek) vizsga,
-
-– pedagógiai (munkapedagógiai) ismeretek vizsga,
-
-– szakmai gyakorlati vizsga,
-
-– szakmai elméleti (írásbeli, szóbeli) vizsga.
-
-Megjegyzés:
-
-A vállalkozási ismeretek és a pedagógiai ismeretek vizsgarész követelményrendszere egységes, azokat az adott szakképesítésért felelős minisztérium rendelete, az ipari mesterképzés szakmai és vizsgakövetelményeiről szóló 31/1996. (VI. 19.) IKM rendelet tartalmazza.
-
-A vizsga egyéb kérdéseiben a Magyar Kereskedelmi és Iparkamara hatályos Mestervizsga Szabályzata (a továbbiakban: MKIK Vizsgaszabályzat) előírásait kell alkalmazni.
-
-1. A szakmai gyakorlati vizsga és értékelése
-
-A mesterjelöltnek magas fokú szakmai tudást igénylő vizsgaremeket és gyakorlati vizsgafeladatot kell elkészítenie.
-
-A vizsgaremek lehet egy kádáripari termék, hajlított dongájú edény, melyet a jelölt választ, előre elkészíthet és a Bizottság a vizsga helyszínén hagyja jóvá. A vizsgaremekkel együtt el kell készíteni a termék teljes műszaki dokumentációját (műszaki rajz, technológiai utasítás, anyagnorma stb.), valamint az előkalkulációs tervét, a kivitelre kiválasztott megoldások írásbeli indoklásával együtt.
-
-A vizsgaremeket a mesterjelöltnek a gyakorlati vizsga megkezdése előtt kell átadnia a Vizsgabizottságnak.
-
-A gyakorlati vizsga:
-
-Összetett feladat készítése, mely magában foglalja a tanult műveleteket és tudnivalókat, a vele szemben támasztott minőségi követelményeket.
-
-A gyakorlati vizsga időtartama: minimum 5 óra, maximum 8 óra.
-
-A gyakorlati vizsga tartalma:
-
-A vizsgamunka egy egyenesdongájú edény elkészítése kézi és gépi megmunkálással.
-
-A vizsgadaraboknak a következő műveleteket kell tartalmazniuk:
-
-– mérés, előrajzolás,
-
-– darabolás,
-
-– marás,
-
-– hegyezés, élillesztés,
-
-– állítás, tüzelés,
-
-– abroncskészítés,
-
-– végmegmunkálás,
-
-– csínvágás,
-
-– fenékkészítés, fenekelés,
-
-– tisztítás.
-
-A mestervizsga megkezdése előtt a mesterjelöltet munkavédelmi oktatásban kell részesíteni.
-
-Gyakorlati vizsgára az anyagot a Mestervizsga Bizottság biztosítja, a szerszámokat a mesterjelölt hozza magával.
-
-A gyakorlati vizsga értékelése:
-
-Az értékelést pontozólapok segítik. A gyakorlati vizsga értékelési szempontjait és az elérhető összpontszámot a gyakorlati vizsga előtt a vizsgázókkal ismertetni kell.
-
-Megfelelt minősítést kap a mesterjelölt, ha a gyakorlati feladatot 70% felett teljesítette.
-
-Az elméleti vizsgára bocsátás feltétele az előzőleg sikeresen végrehajtott szakmai gyakorlati vizsga.
-
-2. Szakmai elméleti vizsga és értékelése
-
-A szakmai elméleti vizsga írásbeli és szóbeli részből áll.
-
-A) Írásbeli vizsga
-
-Az írásbeli vizsga részei:
-
-– szakmai ismeretek,
-
-– szakrajz.
-
-Az írásbeli vizsga tartalma:
-
-Az írásbeli vizsga időtartama: 5 óra.
-
-A ,,Szakmai ismeretek'' vizsgatárgy teljesítésekor egy konkrét kádáripari termék (pl. boroshordó, virágedény) egészének vagy fő részének elkészítési menetét kell ismertetni, mely során a termékhez kapcsolódóan a jelöltnek egy-egy
-
-– szakszámtani,
-
-– anyagismereti,
-
-– gépismereti, munkavédelmi,
-
-– technológiai,
-
-kérdést kell megválaszolnia.
-
-A ,,Szakrajz'' vizsgatárgy tartalma:
-
-A ,,Szakmai ismeretek'' kérdésköréhez kapcsolódóan ugyanannak a kádáripari terméknek ábrázolása két nézetben a műszaki rajzra vonatkozó szabványok szerint. A szerkezeti összeépítéseknek, anyagjelöléseknek, méretezésnek a rajzon szerepelni kell.
-
-Az írásbeli vizsga értékelése:
-
-,,Megfelelt'' minősítést kap a mesterjelölt, ha az írásbeli feladatot 70% felett teljesítette.
-
-B) Szóbeli vizsga
-
-A szóbeli vizsga kérdéscsoportjai:
-
-– szakmai ismeretek,
-
-– anyagismeret,
-
-– gépismeret,
-
-– munkavédelmi ismeretek.
-
-A szóbeli vizsga tartalma:
-
-Szakmai ismeretek (a szakmai követelményekben felsorolt témák elméleti ismeretei).
-
-A vizsgakérdések az alábbi tantárgyakból kerülnek kidolgozásra:
-
-– Kádár szakmai ismeret (forgácsolási, alakítási technológiák).
-
-– Faipari anyagismeret (alap- és segédanyagok tulajdonságai, felhasználásuk).
-
-– Faipari gépismeret (kialakításuk, csoportosításuk, műszaki jellemzőik).
-
-– Munkavédelem (tűz elleni védekezés, gépek veszélyforrásai, biztonsági előírások).
-
-A mesterjelölt minden tantárgyból húzott tétel alapján ad feleletet.
-
-A válaszadáshoz szükséges felkészülés időtartama legfeljebb 40 perc lehet. Egy-egy mesterjelölt vizsgáztatására témánként minimum 8, maximum 15 percet lehet fordítani.
-
-A mesterjelöltnek önállóan kell felelnie, csak elakadás vagy a kérdés pontosítása esetén adható részére kisebb útbaigazítás. Válaszolás közben a mesterjelölt gondolatmenetét nem szabad megszakítani. A válasz kifejtése után a témához kapcsolódó kérdést bármely vizsgabizottsági tag feltehet. Ha az elhangzott válaszokból megállapítható, hogy a mesterjelölt a téma anyagával tisztában van, akkor az elnök félbeszakíthatja a válaszadást.
-
-A vizsga eredményét a Bizottság ,,megfelelt'' vagy ,,nem felelt meg'' minősítéssel állapítja meg. A jelölt ,,megfelelt'', ha a Vizsgabizottság egyszerű többséggel elfogadja feleletét. Sikertelen szóbeli vizsga esetén a szóbeli vizsgát teljes egészében meg kell ismételni.
-
-3. A vizsga egyes részei alóli felmentés lehetőségei és feltételei
-
-A gyakorlati vizsga alól felmentés nem adható.
-
-A szakirányú egyetemi, főiskolai végzettséggel, illetve akkreditált felsőfokú szakképesítéssel rendelkező jelöltnek a mestervizsga szóbeli vizsgarésze alól felmentés adható, az MKIK Vizsgaszabályzatában foglaltak szerint.
-
-A mestervizsga vállalkozási ismeretek és pedagógiai ismeretek vizsgarészei alóli felmentés az MKIK Vizsgaszabályzata szerint adható.
-
-* * *
+54.[^101]
 
 55. KÖTŐ
 
@@ -7598,15 +3934,15 @@ A mestervizsga vállalkozási ismeretek és pedagógiai ismeretek vizsgarészei 
 
 58. GÁZ- ÉS OLAJTÜZELŐ BERENDEZÉS-SZERELŐ, ÜZEMBE HELYEZŐ
 
-mestervizsga szint és szakmai követelmények[^90]
+mestervizsga szint és szakmai követelmények[^102]
 
 59. MOTORKERÉKPÁR-SZERELŐ ÉS -JAVÍTÓ
 
-mestervizsga szint és szakmai követelmények[^91]
+mestervizsga szint és szakmai követelmények[^103]
 
 60. PORCELÁNKÉSZÍTŐ
 
-mestervizsga szint és szakmai követelmények[^92]
+mestervizsga szint és szakmai követelmények[^104]
 
 I. A mestervizsgára jelentkezés feltételei
 
@@ -7798,6 +4134,90 @@ A mestervizsga célja és feladata annak megállapítása, hogy a mesterjelölt
 
 – rendelkezik-e a szakmai követelmények által támasztott tudáselemekkel, gyakorlati készségekkel, valamint a vállalkozás működtetéséhez szükséges szakmai, emberi tulajdonságokkal.
 
+A mestervizsgát a Magyar Kereskedelmi és Iparkamara Mestervizsga szabályzatában (a továbbiakban: MKIK Vizsgaszabályzat) foglaltak szerint kell előkészíteni és megszervezni.
+
+A sikertelen vizsgarészből a MKIK Vizsgaszabályzatban foglaltaknak megfelelően pótvizsgát kell tenni, de a többi vizsgarészből folyamatosan folytatható a vizsga.
+
+A mestervizsga részei
+
+– pedagógiai ismeretek, vállalkozási ismeretek,
+
+– szakmai elméleti vizsga (szakmai írásbeli és szóbeli),
+
+– szakmai gyakorlati vizsga.
+
+A vállalkozási ismeretek és a pedagógiai ismeretek vizsgarész követelményrendszerét e melléklet a 7. látszerész mestervizsga szint és szakmai követelményeket követően tartalmazza. A vizsga egyéb kérdéseiben az MKIK Vizsgaszabályzata előírásait kell alkalmazni.
+
+1. Szakmai gyakorlati vizsga értékelése
+
+A gyakorlati vizsga keretében a mesterjelöltnek szakmai gyakorlati tudásáról kell számot adnia. A gyakorlati vizsga két részből áll: mesterremeket és helyszíni gyakorlati vizsgafeladatot kell készítenie a mesterjelöltnek.
+
+A mesterremeknek egyedinek, technológiai kivitel szempontjából magas szintűnek, a lehető legtöbb különböző technológiával készülőnek és esztétikusnak kell lennie. A mesterremekről műszaki dokumentációt, műhelyrajzot kell készítenie a mesterjelöltnek. A mesterremek tárgyát a mestervizsga bizottság elnöke – a vizsgabizottsági tagokkal és a mesterjelölttel egyetértésben – mesterjelölt határozza meg. Elkészítésére 30 nap áll a mesterjelölt rendelkezésére. Az elkészítés folyamatát a mestervizsga bizottság tagjai közül megbízott konzulens kíséri figyelemmel, és dokumentálja írásos jegyzőkönyvben a mesterremek készítésének helyszínén. A konzultációs ellenőrzésre a készültségi fok figyelembevételével legalább 3 alkalommal kell sort keríteni. Az elkészült mesterremek a mesterjelölt tulajdonát képezi.
+
+A helyszíni gyakorlati vizsgafeladatot – a jelentkezők szakmai követelményének figyelembevételével – a mestervizsga bizottság határozza meg. A vizsga helyszínét a mestervizsga bizottság elnöke jelöli ki. A vizsgafeladat húzott tétel alapján „A” és „B” tételből tevődik össze.
+
+A vizsgabizottság gondoskodik a feladat elvégzéséhez szükséges anyagokról és eszközökről. A vizsga időtartama maximum 420 perc. A helyszíni gyakorlati vizsga megkezdésének előfeltétele az elkészült, és a vizsgabizottság által elfogadott mesterremek leadása. A vizsga teljesítményét a mesterremekkel együtt kell értékelni. Az értékelés pontozással történik.
+
+Értékelés szempontjai: az elérhető maximális pontszám 100 pont (technológiai és esztétikai kivitel), megfelelt minősítést kap az a vizsgázó, aki az elérhető pontszám legalább 60%-át elérte. A gyakorlati vizsga értékelési szempontjait és az elérhető összpontszámot a gyakorlati vizsga előtt a vizsgázókkal ismertetni kell.
+
+2. Szakmai elméleti vizsga és értékelése
+
+A szakmai elméleti vizsga írásbeli és szóbeli részből áll.
+
+Írásbeli vizsga:
+
+Az írásbeli vizsga tartalma:
+
+– technológia (a szakmát átfogó technológiai ismeret, szakmai számítás),
+
+– szakrajz (műhelyrajz, vetületi rajz, axonometrikus ábrázolás),
+
+– anyag- és gyártásismeret.
+
+Az írásbeli vizsga időtartama legfeljebb 240 perc.
+
+Az írásbeli vizsgára központilag kiadott tételek alapján kerül sor (amíg nincs központi feladatbank kialakítva, addig az adott vizsgafeladatot a vizsgabizottság a szakmai szint alapján állítja össze, amelyet a vizsgabizottság elnöke hagy jóvá).
+
+Tantárgyanként adható maximális pontszám: 100 pont.
+
+Számológépen, táblázatokon és rajzeszközökön kívül a mesterjelölt más segédeszközt nem használhat.
+
+Az írásbeli vizsgán minden kérdéscsoportot külön-külön kell értékelni, majd ezek figyelembevételével kell az írásbeli vizsgát minősíteni.
+
+A sikeres írásbeli vizsga minősítése: „megfelelt”. „Nem felelt meg” minősítést kell adni az írásbeli vizsgára, ha bármelyik témakör (tantárgy) megoldása „nem felelt meg”.
+
+„Megfelelt” minősítést kap az a jelölt, aki a pontszámok 60%-át témakörönként teljesítette.
+
+Szóbeli vizsga:
+
+A szakmai szóbeli vizsga témakörei:
+
+– anyagismeret,
+
+– technológiai ismeretek,
+
+– munkavédelmi és környezetvédelmi ismeretek,
+
+– művészettörténet, szakmatörténet.
+
+A mesterjelölt minden témakörből húzott tétel alapján ad feleletet.
+
+A felkészülés időtartama: 30 perc.
+
+A szóbeli vizsgán az egyes témaköröket külön-külön kell értékelni. (megfelelt – nem felelt meg)
+
+„Nem felelt meg” minősítést kell adni a szóbeli vizsgára, ha bármelyik témakör értékelése „nem felelt meg”.
+
+A sikeres szóbeli vizsga minősítése „megfelelt”.
+
+Minden témakört külön-külön értékelni kell, a minősítést a vizsgabizottság egyszerű szótöbbséggel dönti el.
+
+3. A vizsga egyes részei alóli felmentés lehetőségei és feltételei
+
+A gyakorlati vizsga alól felmentés nem adható.
+
+A szakirányú egyetemi, főiskolai végzettséggel, illetve akkreditált szakirányú felsőfokú szakképesítéssel rendelkező mesterjelöltnek a mestervizsga szóbeli vizsgarésze alól felmentés adható az MKIK Vizsgaszabályzatában foglaltak szerint. A mestervizsga vállalkozási ismeretek és pedagógiai ismeretek vizsgarészei alóli felmentés az MKIK Vizsgaszabályzata szerint adható.
+
 [^1]: A melléklet 8–21. pontját a 23/1997. (VI. 11.) IKIM rendelet 1. §-a, 22–30. pontját a 68/1997. (XII. 18.) IKIM rendelet 1. §-a, 31–57. pontját a 40/2001. (X. 24.) OM rendelet 1. §-a iktatta a szövegbe.
 [^2]: A melléklet 1. pontját hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
 [^3]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 2. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
@@ -7817,76 +4237,88 @@ A mestervizsga célja és feladata annak megállapítása, hogy a mesterjelölt
 [^17]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 16. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
 [^18]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 17. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
 [^19]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 18. pontját a 4/2015. (II. 19.) NGM rendelet 1. § (1) bekezdése hatályon kívül helyezte.
-[^20]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 20. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^21]: A melléklet 21. pontját hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
-[^22]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 22. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^23]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 24. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^24]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 27. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^25]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 28. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^26]: A melléklet 29. pontját hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
-[^27]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 30. pontját a 4/2015. (II. 19.) NGM rendelet 1. § (1) bekezdése hatályon kívül helyezte.
-[^28]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 31. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^29]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 32. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^30]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 33. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^31]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 34. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^32]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 35. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^33]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 36. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^34]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 38. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^35]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 39. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^36]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 41. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^37]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 44. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^38]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 45. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^39]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 46. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^40]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 47. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^41]: A melléklet 48. pontját hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
-[^42]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 49. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^43]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 52. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^44]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 53. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
-[^45]: A melléklet 58. pontját hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
-[^46]: A melléklet 59. pontját a 78/2013. (XII. 20.) NFM rendelet 2. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 2. § (2) bekezdése alapján a 2013. december 28-án folyamatban lévő képzéseket és vizsgákat a megkezdésükkor hatályos jogszabályoknak megfelelően kell befejezni.
-[^47]: A melléklet 1. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^48]: A melléklet 2. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 1. pontja hatályon kívül helyezte.
-[^49]: A melléklet 3. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^50]: A melléklet 4. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^51]: A melléklet 5. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 2. pontja hatályon kívül helyezte.
-[^52]: A melléklet 6. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^53]: A melléklet 7. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 3. pontja hatályon kívül helyezte.
-[^54]: A melléklet 8. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^55]: A melléklet 9. ÓRÁS mestervizsga szakmai követelmények alcímét a 4/2015. (II. 19.) NGM rendelet 1. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^56]: A melléklet 10. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^57]: A melléklet 11. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^58]: A melléklet 12. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 4. pontja hatályon kívül helyezte.
-[^59]: A melléklet 13. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 5. pontja hatályon kívül helyezte.
-[^60]: A melléklet 14. RÁDIÓ- ÉS HANGTECHNIKAI MŰSZERÉSZ mestervizsga szakmai követelmények alcímét a 4/2015. (II. 19.) NGM rendelet 1. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^61]: A melléklet 15. TELEVÍZIÓ- ÉS VIDEOTECHNIKAI MŰSZERÉSZ mestervizsga szakmai követelmények alcímét a 4/2015. (II. 19.) NGM rendelet 1. § (2) bekezdés c) pontja hatályon kívül helyezte.
-[^62]: A melléklet 16. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 6. pontja hatályon kívül helyezte.
-[^63]: A melléklet 17. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 7. pontja hatályon kívül helyezte.
-[^64]: A melléklet 18. BÁDOGOS ÉS ÉPÜLETBÁDOGOS szakmai követelmények alcímét a 4/2015. (II. 19.) NGM rendelet 1. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^65]: A melléklet 20. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 8. pontja hatályon kívül helyezte.
-[^66]: A melléklet 21. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^67]: A melléklet 22. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 9. pontja hatályon kívül helyezte.
-[^68]: A melléklet 24. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 10. pontja hatályon kívül helyezte.
-[^69]: A melléklet 27. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 11. pontja hatályon kívül helyezte.
-[^70]: A melléklet 28. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 12. pontja hatályon kívül helyezte.
-[^71]: A melléklet 29. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^72]: A melléklet KERESKEDŐ mesterszint és vizsgakövetelmények alcímét a 4/2015. (II. 19.) NGM rendelet 1. § (2) bekezdés e) pontja hatályon kívül helyezte.
-[^73]: A melléklet 31. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 13. pontja hatályon kívül helyezte.
-[^74]: A melléklet 32. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 14. pontja hatályon kívül helyezte.
-[^75]: A melléklet 33. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 15. pontja hatályon kívül helyezte.
-[^76]: A melléklet 34. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 16. pontja hatályon kívül helyezte.
-[^77]: A melléklet 35. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 17. pontja hatályon kívül helyezte.
-[^78]: A melléklet 36. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 18. pontja hatályon kívül helyezte.
-[^79]: A melléklet 38. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 19. pontja hatályon kívül helyezte.
-[^80]: A melléklet 39. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 20. pontja hatályon kívül helyezte.
-[^81]: A melléklet 41. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 21. pontja hatályon kívül helyezte.
-[^82]: A melléklet 44. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 22. pontja hatályon kívül helyezte.
-[^83]: A melléklet 45. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 23. pontja hatályon kívül helyezte.
-[^84]: A melléklet 46. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 24. pontja hatályon kívül helyezte.
-[^85]: A melléklet 47. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 25. pontja hatályon kívül helyezte.
-[^86]: A melléklet 48. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^87]: A melléklet 49. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 26. pontja hatályon kívül helyezte.
-[^88]: A melléklet 52. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 27. pontja hatályon kívül helyezte.
-[^89]: A melléklet 53. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 28. pontja hatályon kívül helyezte.
-[^90]: A melléklet 58. pontját a 19/2005. (VII. 8.) OM rendelet 1. §-ának (1) bekezdése iktatta be, hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
-[^91]: A melléklet 59. pontját a 19/2005. (VII. 8.) OM rendelet 1. §-ának (1) bekezdése iktatta a szövegbe, hatályon kívül helyezte a 78/2013. (XII. 20.) NFM rendelet 2. § (4) bekezdés b) pontja. E módosító rendelet 2. § (2) bekezdése alapján a 2013. december 28-án folyamatban lévő képzéseket és vizsgákat a megkezdésükkor hatályos jogszabályoknak megfelelően kell befejezni.
-[^92]: A melléklet 60. pontját a 19/2005. (VII. 8.) OM rendelet 1. §-ának (1) bekezdése iktatta a szövegbe, e módosító rendelet 2. §-a alapján a 2005. július 16. napja előtt megkezdett mesterképzéseket még a képzés megkezdésekor hatályos rendelkezések szerint kell lefolytatni, illetőleg befejezni.
+[^20]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 19. pontját a 17/2018. (IX. 17.) ITM rendelet 1. § (1) bekezdése hatályon kívül helyezte.
+[^21]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 20. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^22]: A melléklet 21. pontját hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
+[^23]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 22. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^24]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 23. pontját a 17/2018. (IX. 17.) ITM rendelet 1. § (1) bekezdése hatályon kívül helyezte.
+[^25]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 24. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^26]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 25. pontját a 17/2018. (IX. 17.) ITM rendelet 1. § (1) bekezdése hatályon kívül helyezte.
+[^27]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 26. pontját a 17/2018. (IX. 17.) ITM rendelet 1. § (1) bekezdése hatályon kívül helyezte.
+[^28]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 27. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^29]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 28. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^30]: A melléklet 29. pontját hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
+[^31]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 30. pontját a 4/2015. (II. 19.) NGM rendelet 1. § (1) bekezdése hatályon kívül helyezte.
+[^32]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 31. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^33]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 32. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^34]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 33. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^35]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 34. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^36]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 35. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^37]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 36. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^38]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 38. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^39]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 39. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^40]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 40. pontját a 17/2018. (IX. 17.) ITM rendelet 1. § (1) bekezdése hatályon kívül helyezte.
+[^41]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 41. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^42]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 44. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^43]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 45. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^44]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 46. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^45]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 47. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^46]: A melléklet 48. pontját hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
+[^47]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 49. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^48]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 52. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^49]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 53. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (1) bekezdése hatályon kívül helyezte.
+[^50]: A melléklet „Az ipari mesterképzés szakmai és vizsgakövetelményeinek jegyzéke” alcím 54. pontját a 17/2018. (IX. 17.) ITM rendelet 1. § (1) bekezdése hatályon kívül helyezte.
+[^51]: A melléklet 58. pontját hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
+[^52]: A melléklet 59. pontját a 78/2013. (XII. 20.) NFM rendelet 2. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 2. § (2) bekezdése alapján a 2013. december 28-án folyamatban lévő képzéseket és vizsgákat a megkezdésükkor hatályos jogszabályoknak megfelelően kell befejezni.
+[^53]: A melléklet 1. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^54]: A melléklet 2. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 1. pontja hatályon kívül helyezte.
+[^55]: A melléklet 3. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^56]: A melléklet 4. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^57]: A melléklet 5. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 2. pontja hatályon kívül helyezte.
+[^58]: A melléklet 6. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^59]: A melléklet 7. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 3. pontja hatályon kívül helyezte.
+[^60]: A melléklet 8. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^61]: A melléklet 9. ÓRÁS mestervizsga szakmai követelmények alcímét a 4/2015. (II. 19.) NGM rendelet 1. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^62]: A melléklet 10. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^63]: A melléklet 11. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^64]: A melléklet 12. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 4. pontja hatályon kívül helyezte.
+[^65]: A melléklet 13. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 5. pontja hatályon kívül helyezte.
+[^66]: A melléklet 14. RÁDIÓ- ÉS HANGTECHNIKAI MŰSZERÉSZ mestervizsga szakmai követelmények alcímét a 4/2015. (II. 19.) NGM rendelet 1. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^67]: A melléklet 15. TELEVÍZIÓ- ÉS VIDEOTECHNIKAI MŰSZERÉSZ mestervizsga szakmai követelmények alcímét a 4/2015. (II. 19.) NGM rendelet 1. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^68]: A melléklet 16. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 6. pontja hatályon kívül helyezte.
+[^69]: A melléklet 17. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 7. pontja hatályon kívül helyezte.
+[^70]: A melléklet 18. BÁDOGOS ÉS ÉPÜLETBÁDOGOS szakmai követelmények alcímét a 4/2015. (II. 19.) NGM rendelet 1. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^71]: A melléklet 19. TETŐFEDŐ mestervizsga szakmai követelmények alcímét a 17/2018. (IX. 17.) ITM rendelet 1. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^72]: A melléklet 20. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 8. pontja hatályon kívül helyezte.
+[^73]: A melléklet 21. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^74]: A melléklet 22. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^75]: A melléklet 23. MAGASÉPÍTŐ mesterszint és vizsgakövetelmények alcímét a 17/2018. (IX. 17.) ITM rendelet 1. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^76]: A melléklet 24. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 10. pontja hatályon kívül helyezte.
+[^77]: A melléklet 25. PAPÍRGYÁRTÓ mesterszint és vizsgakövetelmények alcímét a 17/2018. (IX. 17.) ITM rendelet 1. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^78]: A melléklet 26. PAPÍRFELDOLGOZÓ mesterszint és vizsgakövetelmények alcímét a 17/2018. (IX. 17.) ITM rendelet 1. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^79]: A melléklet 27. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 11. pontja hatályon kívül helyezte.
+[^80]: A melléklet 28. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 12. pontja hatályon kívül helyezte.
+[^81]: A melléklet 29. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^82]: A melléklet KERESKEDŐ mesterszint és vizsgakövetelmények alcímét a 4/2015. (II. 19.) NGM rendelet 1. § (2) bekezdés e) pontja hatályon kívül helyezte.
+[^83]: A melléklet 31. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 13. pontja hatályon kívül helyezte.
+[^84]: A melléklet 32. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 14. pontja hatályon kívül helyezte.
+[^85]: A melléklet 33. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 15. pontja hatályon kívül helyezte.
+[^86]: A melléklet 34. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 16. pontja hatályon kívül helyezte.
+[^87]: A melléklet 35. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 17. pontja hatályon kívül helyezte.
+[^88]: A melléklet 36. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 18. pontja hatályon kívül helyezte.
+[^89]: A melléklet 38. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 19. pontja hatályon kívül helyezte.
+[^90]: A melléklet 39. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 20. pontja hatályon kívül helyezte.
+[^91]: A melléklet 26. ÖNTŐ mestervizsgaszint és szakmai követelmények alcímét a 17/2018. (IX. 17.) ITM rendelet 1. § (2) bekezdés e) pontja hatályon kívül helyezte.
+[^92]: A melléklet 41. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 21. pontja hatályon kívül helyezte.
+[^93]: A melléklet 44. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 22. pontja hatályon kívül helyezte.
+[^94]: A melléklet 45. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 23. pontja hatályon kívül helyezte.
+[^95]: A melléklet 46. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 24. pontja hatályon kívül helyezte.
+[^96]: A melléklet 47. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 25. pontja hatályon kívül helyezte.
+[^97]: A melléklet 48. pontját a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^98]: A melléklet 49. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 26. pontja hatályon kívül helyezte.
+[^99]: A melléklet 52. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 27. pontja hatályon kívül helyezte.
+[^100]: A melléklet 53. pontját a 17/2014. (IV. 8.) NGM rendelet 2. § (2) bekezdés 28. pontja hatályon kívül helyezte.
+[^101]: A melléklet 54. KÁDÁR mestervizsgaszint és szakmai követelmények alcímét a 17/2018. (IX. 17.) ITM rendelet 1. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^102]: A melléklet 58. pontját a 19/2005. (VII. 8.) OM rendelet 1. §-ának (1) bekezdése iktatta be, hatályon kívül helyezte a 8/2013. (III. 6.) NGM rendelet 2. § (2) bekezdése.
+[^103]: A melléklet 59. pontját a 19/2005. (VII. 8.) OM rendelet 1. §-ának (1) bekezdése iktatta a szövegbe, hatályon kívül helyezte a 78/2013. (XII. 20.) NFM rendelet 2. § (4) bekezdés b) pontja. E módosító rendelet 2. § (2) bekezdése alapján a 2013. december 28-án folyamatban lévő képzéseket és vizsgákat a megkezdésükkor hatályos jogszabályoknak megfelelően kell befejezni.
+[^104]: A melléklet 60. pontját a 19/2005. (VII. 8.) OM rendelet 1. §-ának (1) bekezdése iktatta a szövegbe, e módosító rendelet 2. §-a alapján a 2005. július 16. napja előtt megkezdett mesterképzéseket még a képzés megkezdésekor hatályos rendelkezések szerint kell lefolytatni, illetőleg befejezni.
