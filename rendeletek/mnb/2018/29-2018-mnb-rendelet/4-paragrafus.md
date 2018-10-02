@@ -1,3 +1,3 @@
-## 3. § A Rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^7]
 
-## „(2) A hitelnyújtó a havi adósságszolgálatba az ügyfél összes – akár az ügyfél nyilatkozata, akár azon hitelinformációs rendszer lekérdezése alapján, amelyhez a hitelnyújtó csatlakozott vagy amelynek tagja – ismert, ugyanazon vagy bármely más hitelnyújtóval szemben fennálló hiteltartozása után fizetendő rendszeres havi törlesztőrészletet beszámítja. Amennyiben az ügyfél valamely más hitelügyletben adóstársként vesz részt, a hitelnyújtó az ezen másik hitel havi törlesztőrészletét az egyes adóstársak között egyenlő arányban megosztja, és az ügyfélre így eső havi törlesztőrészlet-hányadot tekinti az ügyfél ezen másik hitelből eredő havi törlesztőrészletének. Amennyiben az ügyfél visszatérítendő, hazai vagy uniós költségvetési forrású támogatást vett igénybe, a hitelnyújtó a havi adósságszolgálatba az ebből eredő havi törlesztőrészletet is beszámítja.”
+[^7]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,23 +1,29 @@
-## 5. §[^3]
+## 5. §[^9]
 
 ## 6. § A Rendelet
 
-a) 1. § (1) bekezdés a) pontjában a „fogyasztóval” szövegrész helyébe a „természetes személlyel” szöveg,
+a)[^10]
 
-b) 1. § (1) bekezdés b) pontjában a „fogyasztónak” szövegrész helyébe a „természetes személynek” szöveg, a „fogyasztót” szövegrész helyébe a „természetes személyt” szöveg, a „közeli hozzátartozói, élettársi” szövegrész helyébe a „hozzátartozói” szöveg,
+b)[^11]
 
-c) 1. § (2) bekezdés b) pontjában, (3) bekezdés b) pontjában az „a fogyasztó” szövegrész helyébe az „az ügyfél” szöveg,
+c)[^12]
 
-d) 1. § (3) bekezdés c) pontjában a „fogyasztó” szövegrész helyébe az „ügyfél” szöveg,
+d)[^13]
 
-e) 1. § (4) bekezdés b) pont bc) pontjában a „hitel.” szövegrész helyébe a „hitel, és” szöveg,
+e)[^14]
 
-f) 2. § 15. pontjában a „fogyasztó” szövegrész helyébe a „természetes személy” szöveg,
+f)[^15]
 
-g)[^4]
+g)[^16]
 
-h)[^5]
+h)[^17]
 
-[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 6. § g) pontja a 8. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^5]: A 6. § h) pontja a 8. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^9]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 6. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 6. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 6. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 6. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 6. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 6. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 6. § g) pontja a 8. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^17]: A 6. § h) pontja a 8. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
