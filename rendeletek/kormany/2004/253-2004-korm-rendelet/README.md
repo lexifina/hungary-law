@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-253-20-
 | 2016-06-08 | 2004-253-20-22.29 | 122/2016. (VI. 7.) Korm. rendelet |
 | 2016-12-01 | 2004-253-20-22.30 | 371/2016. (XI. 29.) Korm. rendelet |
 | 2018-01-01 | 2004-253-20-22.31 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2018-10-03 | 2004-253-20-22.32 | 39/2012. (III. 12.) Korm. rendelet |

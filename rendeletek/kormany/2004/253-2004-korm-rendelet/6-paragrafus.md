@@ -14,7 +14,7 @@
 
 (4)[^20] Fegyverek egyedi vagy típusjóváhagyó vizsgálatára és tanúsítására nem kell alkalmazni a megfelelőségértékelő szervezetek tevékenységéről szóló törvény rendelkezéseit.
 
-(5)[^21] Hatástalanított lőfegyver, illetve színházi fegyver csak akkor hozható kereskedelmi forgalomba, ha a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendeletben a fegyverek és lőszerek vizsgálatára kijelölt szerv megállapította, hogy hatástalanításának módja megfelel a 21. mellékletben, illetve a 22. mellékletben meghatározottaknak, megfelelőségét a beütött próbajel igazolja, és az egyedi vizsgálatról megfelelőnek minősített értékelésű tanúsítvánnyal rendelkezik.
+(5)[^21] Hatástalanított lőfegyver, illetve színházi fegyver csak akkor hozható kereskedelmi forgalomba, ha a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló miniszteri rendeletben a fegyverek és lőszerek vizsgálatára kijelölt szerv megállapította, hogy hatástalanításának módja megfelel a hatástalanított tűzfegyverek végleges működésképtelenségét biztosító hatástalanítási előírásokra és technikákra vonatkozó közös iránymutatások meghatározásáról szóló, 2015. december 15-i (EU) 2015/2403 bizottsági rendeletben (a továbbiakban: Bizottsági Rendelet), illetve a 22. mellékletben meghatározottaknak, megfelelőségét a beütött próbajel igazolja, és az egyedi vizsgálatról megfelelőnek minősített értékelésű tanúsítvánnyal rendelkezik.
 
 (6)[^22] Gáz- és riasztófegyver abban az esetben hozható be az ország területére, illetve hozható kereskedelmi forgalomba, ha nem tartalmaz lőfegyverdarabot, valamint alkalmatlan szilárd lövedék kilövésére.
 
@@ -22,5 +22,5 @@
 [^18]: A 6. § (1a) bekezdését az 50/2011. (III. 30.) Korm. rendelet 1. §-a iktatta be.
 [^19]: A 6. § (1b) bekezdését az 50/2011. (III. 30.) Korm. rendelet 1. §-a iktatta be.
 [^20]: A 6. § (4) bekezdését a 163/2010. (V. 11.) Korm. rendelet 9. §-a iktatta be.
-[^21]: A 6. § (5) bekezdését a 39/2012. (III. 12.) Korm. rendelet 4. §-a iktatta be.
+[^21]: A 6. § (5) bekezdését a 39/2012. (III. 12.) Korm. rendelet 4. §-a iktatta be, szövege a 181/2018. (X. 2.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^22]: A 6. § (6) bekezdését a 39/2012. (III. 12.) Korm. rendelet 4. §-a iktatta be.

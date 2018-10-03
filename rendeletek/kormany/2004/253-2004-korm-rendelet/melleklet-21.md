@@ -28,4 +28,4 @@
 
 21. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^217]
 
-[^217]: A 21. melléklet a 39/2012. (III. 12.) Korm. rendelet 28. § e) pontjával megállapított szöveg.
+[^217]: A 21. számú mellékletet a 181/2018. (X. 2.) Korm. rendelet 3. §-a hatályon kívül helyezte.
