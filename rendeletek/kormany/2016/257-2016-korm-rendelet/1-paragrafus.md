@@ -8,11 +8,13 @@
 
 3. csatlakozás: a szolgáltatások tényleges használatának megkezdése;
 
+3a.[^2] elektronikus fizetési és elszámolási rendszer: az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 1. § 15. pontjában meghatározott központi elektronikus ügyintézési szolgáltatás;
+
 4. interfész: adatok automatizált módon, elektronikus úton történő átadását lehetővé tevő kapcsolódási felület;
 
 5. központi szolgáltató: a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.) és az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság (a továbbiakban: IdomSoft Zrt.);
 
-6.[^2] önkormányzati ASP rendszer: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 114. § (2) bekezdése szerinti, a helyi önkormányzatok, valamint gazdálkodási szakrendszer esetében az önkormányzat által alapított költségvetési szerv feladatellátását támogató, számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást (Application Service Provider, ASP) nyújtó elektronikus információs rendszer;
+6.[^3] önkormányzati ASP rendszer: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 114. § (2) bekezdése szerinti, a helyi önkormányzatok, valamint gazdálkodási szakrendszer esetében az önkormányzat által alapított költségvetési szerv feladatellátását támogató, számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást (Application Service Provider, ASP) nyújtó elektronikus információs rendszer;
 
 7. rendszertámogatás: a fejlesztési időszakot követő hibajavítás, verziófrissítés, jogszabálykövetés;
 
@@ -21,4 +23,5 @@
 9. ügyféltámogatás: a működéssel kapcsolatos felhasználói segítségkérelmek megválaszolása.
 
 [^1]: Az 1. § 2. pontja a 100/2017. (IV. 28.) Korm. rendelet 1. §-ával megállapított, a 148/2018. (VIII. 13.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § 6. pontja a 361/2017. (XI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 3a. pontját a 179/2018. (X. 2.) Korm. rendelet 3. §-a iktatta be.
+[^3]: Az 1. § 6. pontja a 361/2017. (XI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

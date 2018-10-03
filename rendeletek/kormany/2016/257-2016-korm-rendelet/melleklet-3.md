@@ -1,3 +1,3 @@
-3. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^33]
+3. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^37]
 
-[^33]: A 3. melléklet a 100/2017. (IV. 28.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^37]: A 3. melléklet a 100/2017. (IV. 28.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

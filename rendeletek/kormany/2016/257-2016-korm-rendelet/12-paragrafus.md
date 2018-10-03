@@ -1,4 +1,4 @@
-12. §[^22] (1) A 2018. január 1. napjáig az önkormányzati ASP rendszerhez már csatlakozott önkormányzatokon túl
+12. §[^26] (1) A 2018. január 1. napjáig az önkormányzati ASP rendszerhez már csatlakozott önkormányzatokon túl
 
 a) 2019. január 1-jéig csatlakoznak az önkormányzati ASP rendszer
 
@@ -12,9 +12,9 @@ b) 2019. június 1-jéig csatlakoznak az interfészes csatlakozók, a (2) bekezd
 
 (3) A 3. § (2) bekezdés b) pontja szerinti települési portál rendszer használata a helyi önkormányzat számára nem kötelező. A rendszer használatával vagy használatának mellőzésével kapcsolatos igényét a helyi önkormányzat évente egyszer, a tárgyévet megelőző év június 30-áig jelezheti a Kincstár számára. Az önkormányzati ASP rendszer a portálszolgáltatást az igény jelzését követő év január 1-jétől biztosítja vagy szünteti meg. A települési portál felületére feltöltött tartalmakért az önkormányzati települési portál rendszer igénybevétele esetén is a helyi önkormányzat felel.
 
-(4) A (3) bekezdésben megjelölt igényt a 2019-es évre vonatkozóan a települési önkormányzat az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet és az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet módosításáról szóló 148/2018. (VIII. 13.) Korm. rendelet hatálybalépését[^23] követő 30 napon belül jelezheti.
+(4) A (3) bekezdésben megjelölt igényt a 2019-es évre vonatkozóan a települési önkormányzat az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet és az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet módosításáról szóló 148/2018. (VIII. 13.) Korm. rendelet hatálybalépését[^27] követő 30 napon belül jelezheti.
 
 (5) Az e §-ban megjelölt végső csatlakozási időpontnál korábbi csatlakozásra a Kincstár és a helyi önkormányzat megállapodása alapján kerülhet sor.
 
-[^22]: A 12. § a 148/2018. (VIII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
-[^23]: A hatálybalépés időpontja 2018. augusztus 16.
+[^26]: A 12. § a 148/2018. (VIII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^27]: A hatálybalépés időpontja 2018. augusztus 16.

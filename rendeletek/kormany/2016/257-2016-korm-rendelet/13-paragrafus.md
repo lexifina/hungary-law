@@ -1,6 +1,6 @@
-13. §[^24] (1) Interfésszel az a helyi önkormányzat csatlakozhat, amelynek interfészes csatlakozására az e-közigazgatásért felelős miniszter legkésőbb 2018. május 31-ig az engedélyt megadta.
+13. §[^28] (1) Interfésszel az a helyi önkormányzat csatlakozhat, amelynek interfészes csatlakozására az e-közigazgatásért felelős miniszter legkésőbb 2018. május 31-ig az engedélyt megadta.
 
-(2) Az (1) bekezdés szerinti helyi önkormányzatnak az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet és az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet módosításáról szóló 148/2018. (VIII. 13.) Korm. rendelet hatálybalépését[^25] követő 30 napon belül jeleznie kell, ha
+(2) Az (1) bekezdés szerinti helyi önkormányzatnak az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet és az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet módosításáról szóló 148/2018. (VIII. 13.) Korm. rendelet hatálybalépését[^29] követő 30 napon belül jeleznie kell, ha
 
 a) az interfész kiépítésével határidőre nem készül el, vagy
 
@@ -20,5 +20,5 @@ Ekkor az e-közigazgatásért felelős miniszter az interfészes csatlakozáshoz
 
 (8) A Kincstár – a 3. melléklet szerinti adatok nyilvántartását szabályozó előírások 2019. évi módosításokhoz kapcsolódó adatstruktúra-változásokat is figyelembe véve – az interfész-specifikáció teljes körű, végleges változatát legkésőbb 2019. március 15-ig az érintett önkormányzatok rendelkezésére bocsátja.
 
-[^24]: A 13. § a 148/2018. (VIII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
-[^25]: A hatálybalépés időpontja 2018. augusztus 16.
+[^28]: A 13. § a 148/2018. (VIII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^29]: A hatálybalépés időpontja 2018. augusztus 16.

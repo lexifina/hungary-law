@@ -1,3 +1,3 @@
-## 16. §[^29]
+## 16. §[^33]
 
-[^29]: A 16. §-t a 148/2018. (VIII. 13.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^33]: A 16. §-t a 148/2018. (VIII. 13.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.

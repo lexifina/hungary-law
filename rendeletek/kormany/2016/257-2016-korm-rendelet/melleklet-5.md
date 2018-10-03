@@ -1,4 +1,4 @@
-5. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^35]
+5. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^39]
 
 2019. január 1-jével csatlakozó önkormányzatok
 
@@ -378,4 +378,4 @@ LENTI VÁROS ÖNKORMÁNYZATA
 
 * A 12. § (2) bekezdésében foglalt eltérésekkel.
 
-[^35]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 100/2017. (IV. 28.) Korm. rendelet 10. § (3) bekezdése iktatta be, szövege a 148/2018. (VIII. 13.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^39]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 100/2017. (IV. 28.) Korm. rendelet 10. § (3) bekezdése iktatta be, szövege a 148/2018. (VIII. 13.) Korm. rendelet 2. §-a szerint módosított szöveg.
