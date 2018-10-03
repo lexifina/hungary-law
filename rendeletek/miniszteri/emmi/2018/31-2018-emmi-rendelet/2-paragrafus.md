@@ -1,0 +1,3 @@
+## 1. § A személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet 2. számú melléklet II. Fogyatékos személyek ellátása alcím II.2. Szakosított szolgáltatások megnevezésű táblázat „gondozó” sorában az „ápoló kiskorúak ellátása és súlyos, halmozottan sérült ellátottak esetén” szövegrész helyébe az „ápoló, kiskorúak ellátása és súlyos, halmozottan sérült ellátottak esetén +” szöveg lép.
+
+## 2. A vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet módosítása
