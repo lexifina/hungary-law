@@ -38,7 +38,7 @@
 
 | vezető ápoló | 1 fő (>100 fő) |  | 1 fő (>100 fő) |  |  |  |
 
-| gondozó | 30 fő, ebből min. 1 fő ápoló kiskorúak ellátása és súlyos, halmozottan sérült ellátottak esetén 40 fő | 16 fő | 10 fő | 2 fő | 1 fő |  |
+| gondozó | 30 fő, ebből min. 1 fő ápoló, kiskorúak ellátása és súlyos, halmozottan sérült ellátottak esetén + 40 fő | 16 fő | 10 fő | 2 fő | 1 fő |  |
 
 | ápoló |  |
 

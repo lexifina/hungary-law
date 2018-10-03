@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-1-20-85
 | 2017-10-21 | 2000-1-20-85.34 | 4/2004. (I. 28.) ESZCSM rendelet |
 | 2018-01-01 | 2000-1-20-85.35 | 9/2000. (VIII. 4.) SZCSM rendelet |
 | 2018-02-06 | 2000-1-20-85.36 | 7/2018. (II. 5.) EMMI rendelet |
+| 2018-10-03 | 2000-1-20-85.37 | 7/2018. (II. 5.) EMMI rendelet |
