@@ -14,7 +14,7 @@
 
 (3) Egyedileg azonosítandó személy adatainak igénylése esetén a nyilvántartás szerve adatszolgáltatást teljesít, amennyiben a közölt ismérveknek csak egy személy adata felel meg.
 
-(4)[^171] A nyilvántartás szerve az Nytv. 21. §-ának b)–g) és i)–j) pontjaiban, valamint 22–24. §-aiban meghatározott szervek, továbbá az állami és önkormányzati adóhatóságok, a Nemzeti Egészségbiztosítási Alapkezelő, valamint az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatkörében eljáró járási (fővárosi kerületi) hivatala, a nyugdíjbiztosítási igazgatási szervek, az egészségügyi igazgatás szervei, az országos tisztifőorvos, valamint a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala egyedileg azonosítandó személyre vonatkozó adatigénylése esetén a kérelemben közölt – személyazonosításra alkalmas – adatoknak megfelelő személyek adatait szolgáltatja.
+(4)[^171] A nyilvántartás szerve az Nytv. 21. § b)–j) pontjában, valamint 22–24. §-ában meghatározott szervek, továbbá az állami és önkormányzati adóhatóságok, a Nemzeti Egészségbiztosítási Alapkezelő, valamint az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatkörében eljáró járási (fővárosi kerületi) hivatala, a nyugdíjbiztosítási igazgatási szervek, az egészségügyi igazgatás szervei, az országos tisztifőorvos, valamint a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala egyedileg azonosítandó személyre vonatkozó adatigénylése esetén a kérelemben közölt – személyazonosításra alkalmas – adatoknak megfelelő személyek adatait szolgáltatja.
 
 (5) A nyilvántartás szerve az Nytv. 24. §-ában meghatározott szervek kutatási kérelmére a közölt hiányos, illetve töredékadatoknak megfelelő személyek adatait szolgáltatja.
 
@@ -27,4 +27,4 @@
 [^168]: Az R. 22. §-ának (2) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
 [^169]: Az R. 22. § (2a) bekezdését a 403/2015. (XII. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 3. pontja szerint módosított szöveg.
 [^170]: Az R. 22. § (2b) bekezdését a 403/2015. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
-[^171]: Az R. 22. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 11. § (13) bekezdésével megállapított szöveg.
+[^171]: Az R. 22. § (4) bekezdése a 179/2018. (X. 2.) Korm. rendelet 1. §-ával megállapított szöveg.

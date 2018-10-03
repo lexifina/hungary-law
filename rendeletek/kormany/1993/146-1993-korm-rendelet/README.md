@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-146-20-
 | 2017-07-01 | 1993-146-20-22.42 | 440/2016. (XII. 16.) Korm. rendelet |
 | 2017-08-26 | 1993-146-20-22.43 | 235/2017. (VIII. 18.) Korm. rendelet |
 | 2018-01-01 | 1993-146-20-22.44 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2018-10-03 | 1993-146-20-22.45 | 179/2018. (X. 2.) Korm. rendelet |
