@@ -8,7 +8,7 @@
 
 a) ha megállapítja, hogy a tárhely üres, haladéktalanul megszünteti a tárhelyet, és erről a felhasználót tájékoztatja;
 
-b)[^36] ha a tárhely nem üres, a szolgáltató haladéktalanul figyelmeztető üzenetet küld a felhasználó hivatalos elérhetőségére, melyben 5 munkanapos határidővel kéri a tárhely kiürítését. E határidő leteltével megszünteti a tárhelyet.
+b)[^48] ha a tárhely nem üres, a szolgáltató haladéktalanul figyelmeztető üzenetet küld a felhasználó hivatalos elérhetőségére, melyben 5 munkanapos határidővel kéri a tárhely kiürítését. E határidő leteltével megszünteti a tárhelyet.
 
 (4) A megszüntetésre kerülő tárhelyen tárolt adatokat a szolgáltató helyreállíthatatlan módon törli.
 
@@ -22,4 +22,4 @@ b)[^36] ha a tárhely nem üres, a szolgáltató haladéktalanul figyelmeztető 
 
 (9) A szolgáltató a hagyatékátadás jogerőre emelkedésétől számított 1 évig őrzi meg a dokumentumokat, melyeket az örökös kérelmére, e jogosultságának igazolását követően bocsátja rendelkezésére. Ha a hagyatékátadó végzés jogerőre emelkedésétől számított 1 éven belül a szolgáltatóhoz nem érkezik ilyen kérelem, a szolgáltató gondoskodik a korábban a tárhelyről letárolt dokumentumok helyreállíthatatlan módon való törléséről.
 
-[^36]: A 88. § (3) bekezdés b) pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
+[^48]: A 88. § (3) bekezdés b) pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.

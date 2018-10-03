@@ -1,6 +1,6 @@
 ## Összerendelési nyilvántartás
 
-134. § (1)[^52] Az összerendelési nyilvántartás KEÜSZ szolgáltatója összerendelési nyilvántartást vezet a személyiadat- és lakcímnyilvántartásban, a központi idegenrendészeti nyilvántartásban, valamint az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásában szereplő valamennyi élő természetes személyre vonatkozóan (a továbbiakban: természetes személyek összerendelési nyilvántartása).
+134. § (1)[^69] Az összerendelési nyilvántartás KEÜSZ szolgáltatója összerendelési nyilvántartást vezet a személyiadat- és lakcímnyilvántartásban, a központi idegenrendészeti nyilvántartásban, valamint az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásában szereplő valamennyi élő természetes személyre vonatkozóan (a továbbiakban: természetes személyek összerendelési nyilvántartása).
 
 (2) Az (1) bekezdésben meghatározott nyilvántartásokban kezelt adatok változásáról, így különösen az érintett személy haláláról nyilvántartást vezető szervek értesítik az összerendelési nyilvántartást kezelő szervet.
 
@@ -14,7 +14,7 @@ c) nem magyar állampolgár magyarországi tartózkodási státuszának megszűn
 
 ## esetén, az erre vonatkozó tény közhiteles nyilvántartásába történő bejegyzését követő 5 éven belül törölni kell.
 
-(4) Az összerendelési nyilvántartáshoz csak a felügyelet által kiadott ajánlásban meghatározott programozott felületen lehet hozzáférést biztosítani.
+(4)[^70]
 
 (5) Az összerendelési nyilvántartásból csak előzetesen regisztrált szervezetek számára, kizárólag automatizált interfész útján, a jogosultságuk ellenőrzését követően, a jogosultságuknak megfelelő adatokra vonatkozóan szolgáltatható adat.
 
@@ -34,19 +34,19 @@ e) az adatszolgáltatás címzettjének jogosultságát megalapozó jogszabályi
 
 (7) A természetes személyek összerendelési nyilvántartásából az arra jogosult személy részére az általa jogszerűen kezelt, természetes személyre vonatkozó titkosított kapcsolati kód alapján a kérelemben megjelölt nyilvántartásban szereplő ugyanazon természetes személy titkosított kapcsolati kódja szolgáltatható.
 
-(8)[^53] Az összerendelési nyilvántartás KEÜSZ szolgáltatója attribútum szolgáltatási ügynöki szolgáltatásként a (7) bekezdésben meghatározott szolgáltatáson túl az elektronikus ügyintézést biztosító szerv részére az alábbi szolgáltatásokat nyújthatja:
+(8)[^71] Az összerendelési nyilvántartás KEÜSZ szolgáltatója attribútum szolgáltatási ügynöki szolgáltatásként a (7) bekezdésben meghatározott szolgáltatáson túl az együttműködő szerv, a SZEÜSZ szolgáltatója, továbbá a KEÜSZ szolgáltatója részére indokolt kérelem alapján az alábbi szolgáltatásokat nyújtja:
 
-a)[^54] az arra jogosult részére az általa jogszerűen kezelt, természetes személyre vonatkozó titkosított kapcsolati kód alapján a természetes személy természetes személyazonosító adatainak szolgáltatása, az érintett nyilvántartásokat kezelő szervek bevonásával,
+a) az arra jogosult részére az általa jogszerűen kezelt, természetes személyre vonatkozó titkosított kapcsolati kód alapján a természetes személy természetes személyazonosító adatainak szolgáltatása, az érintett nyilvántartásokat kezelő szervek bevonásával,
 
 b) egy egyedi azonosítóhoz tartozó más nyilvántartásban alkalmazott egyedi azonosító vagy a természetes személyazonosító adatok szolgáltatása, a természetes személy egyedi vagy az ügyintézési rendelkezések nyilvántartásában rögzített hozzájárulása alapján,
 
-c)[^55] az elektronikus ügyintézést biztosító szerv által jogszerűen kezelt, természetes személyre vonatkozó titkosított kapcsolati kód alapján az ügyintézési rendelkezését leíró attribútumok szolgáltatása, az érintett nyilvántartást kezelő szerv bevonásával.
+c) az elektronikus ügyintézést biztosító szerv által jogszerűen kezelt, természetes személyre vonatkozó titkosított kapcsolati kód alapján az ügyintézési rendelkezését leíró attribútumok szolgáltatása, az érintett nyilvántartást kezelő szerv bevonásával.
 
 (9) Az attribútum szolgáltatási ügynöki szolgáltatást igénybe vevő szerv az összerendelési nyilvántartás szolgáltatója részére a szolgáltatás igénybevétele céljának megjelölésével egyidejűleg igazolni köteles
 
 a) az érintett adatok kezelésének jogszerűségét a vonatkozó jogszabályi rendelkezés megjelölésével, vagy
 
-b)[^56] az ügyfél hozzájárulását az azonosított ügyfél ügyintézésének lefolytatásához szükséges leíró attribútumainak kezeléséhez.
+b)[^72] az ügyfél hozzájárulását az azonosított ügyfél ügyintézésének lefolytatásához szükséges leíró attribútumainak kezeléséhez.
 
 (10) Az attribútum szolgáltatási ügynöki szolgáltatás
 
@@ -58,8 +58,7 @@ b) elektronikus ügyfélazonosítás esetén – közvetetten a KAÜ KEÜSZ szol
 
 (11) A (10) bekezdés b) pontja szerinti esetben az igénybevevő a választott azonosítási módtól függő azonosító adattal igényelheti az érintett ügyfél attribútumait.
 
-[^52]: A 134. § (1) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 6. § m) pontja szerint módosított szöveg.
-[^53]: A 134. § (8) bekezdés nyitó szövegrésze a 361/2017. (XI. 30.) Korm. rendelet 6. § m) pontja szerint módosított szöveg.
-[^54]: A 134. § (8) bekezdés a) pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § n) pontja szerint módosított szöveg.
-[^55]: A 134. § (8) bekezdés c) pontját a 361/2017. (XI. 30.) Korm. rendelet 5. § (6) bekezdése iktatta be.
-[^56]: A 134. § (9) bekezdés b) pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § o) pontja szerint módosított szöveg.
+[^69]: A 134. § (1) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 6. § m) pontja szerint módosított szöveg.
+[^70]: A 134. § (4) bekezdését a 179/2018. (X. 2.) Korm. rendelet 34. § a) pontja hatályon kívül helyezte.
+[^71]: A 134. § (8) bekezdése a 179/2018. (X. 2.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^72]: A 134. § (9) bekezdés b) pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § o) pontja szerint módosított szöveg.

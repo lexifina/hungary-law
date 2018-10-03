@@ -22,6 +22,8 @@ g) a bejelentések, panaszok kezelésének rendjét,
 
 h) a szolgáltató felelősségére vonatkozó rendelkezéseket.
 
-(4) A felügyelethez benyújtott általános szerződési feltételeket a szolgáltató az elektronikus tájékoztatás szabályai szerint közzéteszi.
+(4)[^24] A felügyelethez benyújtott általános szerződési feltételeket, valamint azok módosítását a szolgáltató az elektronikus tájékoztatás szabályai szerint haladéktalanul közzéteszi.
 
 (5) Ha a KEÜSZ, SZEÜSZ bizalmi szolgáltatásnak minősül, a (3) bekezdésben előírt információkat az általános szerződési feltételek helyett a szolgáltatási szabályzat is tartalmazhatja.
+
+[^24]: A 64. § (4) bekezdése a 179/2018. (X. 2.) Korm. rendelet 11. §-ával megállapított szöveg.

@@ -1,16 +1,16 @@
-## 157. §[^99]
+## 157. §[^140]
 
 ## 41. Hatályon kívül helyező rendelkezések
 
 158. § (1) Hatályát veszti
 
-a)–b)[^100]
+a)–b)[^141]
 
-c)[^101]
+c)[^142]
 
-(2)[^102]
+(2)[^143]
 
-[^99]: A 157. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^100]: A 158. § (1) bekezdés a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^101]: A 158. § (1) bekezdés c) pontja a 221/2017. (VIII. 7.) Korm. rendelet 10. §-a alapján nem lép hatályba.
-[^102]: A 158. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^140]: A 157. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^141]: A 158. § (1) bekezdés a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^142]: A 158. § (1) bekezdés c) pontja a 221/2017. (VIII. 7.) Korm. rendelet 10. §-a alapján nem lép hatályba.
+[^143]: A 158. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 36. [^78] Az információátadási szabályzat és az információátadási megállapodás adattartalma
+## 36. [^109] Az információátadási szabályzat és az információátadási megállapodás adattartalma
 
 151. § (1) Az információátadási szabályzat az E-ügyintézési tv.-ben és a 148. § (2) bekezdésében meghatározottakon túlmenően tartalmazza
 
@@ -24,9 +24,9 @@ bf) az együttműködő szerv által vezetett nyilvántartásokat, azok jogszab�
 
 c) ha az együttműködő szerv egységes információátadási szabályzat hatálya alatt áll, az egységes információátadási szabályzat megjelölését,
 
-d) az információátadási szolgáltatás keretében átvehető információk hitelességét biztosító ügyviteli, ellenőrzési és adattisztítási megoldások összefoglaló leírását,
+d)[^110]
 
-e) ha az információátadási szabályzat egyes részeinek nyilvános közzététele veszélyeztetné az információbiztonságot, e részek indokolással ellátott megjelölését,
+e)[^111]
 
 f) az információátadási szabályzat módosítása esetén követendő eljárást, valamint ezen belül az információátadási szolgáltatás igénybevevői tájékoztatásának a rendjét, valamint
 
@@ -44,4 +44,6 @@ b) az (1) bekezdés b)–g) pontjának csak azokat az adatait tartalmazza, a meg
 
 c) valamennyi a megállapodásban részes együttműködő szerv tekintetében tartalmazza annak az információátadási és egységes információátadási szabályzatnak a megjelölését, amelynek a hatálya alatt áll.
 
-[^78]: A 36. alcím (151. §) a 221/2017. (VIII. 7.) Korm. rendelet 7. § (10) bekezdésével megállapított szöveg.
+[^109]: A 36. alcím (151. §) a 221/2017. (VIII. 7.) Korm. rendelet 7. § (10) bekezdésével megállapított szöveg.
+[^110]: A 151. § (1) bekezdés d) pontját a 179/2018. (X. 2.) Korm. rendelet 34. § f) pontja hatályon kívül helyezte.
+[^111]: A 151. § (1) bekezdés e) pontját a 179/2018. (X. 2.) Korm. rendelet 34. § f) pontja hatályon kívül helyezte.
