@@ -1,0 +1,3 @@
+## 38. § Az R. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az állományok hálózati úton történő eljuttatása esetén, az adattrezor-archiváláshoz szükséges, az adatkezelő archiválási rendszere és az adattrezor központi megoldása közötti egységes formátumot biztosító eszközrendszert az őrzésért felelős szerv bocsátja az adatkezelő rendelkezésére. Az adatkezelő az archiváláshoz – a nemzetbiztonsági szolgálatok elektronikus információs rendszerei adattrezor-archiválását kivéve – ezt az eszközrendszert köteles használni. Az őrzésért felelős szerv gondoskodik az eszközrendszer üzemeltetéséről, logikai és fizikai védelméről, továbbá a rosszindulatú szoftverkódok és az illetéktelen hozzáférés megakadályozásáról.”
