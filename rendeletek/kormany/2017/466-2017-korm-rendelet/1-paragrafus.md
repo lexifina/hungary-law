@@ -6,7 +6,7 @@
 
 2. Felügyelet: az E-ügyintézési tv. 1. § 18. pontjában meghatározott Elektronikus Ügyintézési Felügyelet;
 
-3. kisméretű archív állomány: az adattrezor-archiválás mérete az adatokkal és a teljes futtatási környezettel együtt nem éri el a 300 megabájtot;
+3.[^1] kisméretű archív állomány: az adattrezor-archiválás mérete nem éri el a 300 megabájtot;
 
 4. Kormányzati Adattrezor: olyan kormányzati adatbank, amely az adattrezor-archivált állományokat fogadja és biztonságosan tárolja, őrzi, és az adatok adatkezelő részére történő kiadásával újraépíthetővé teszi a különböző informatikai rendszereket;
 
@@ -17,3 +17,5 @@
 7. Önkormányzati ASP rendszer: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 114. § (2) bekezdése szerinti elektronikus információs rendszer;
 
 8. teljes futtatási környezet: a számítógépen alkalmazott programok futtatásához szükséges szoftverkörnyezet, melynek részét képezi az operációs rendszer, a telepített programkönyvtárak, segédprogramok, rendszerbeállítások.
+
+[^1]: Az 1. § 3. pontja a 179/2018. (X. 2.) Korm. rendelet 35. §-ával megállapított szöveg.

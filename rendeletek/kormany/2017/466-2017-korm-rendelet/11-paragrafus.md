@@ -6,7 +6,7 @@
 
 (2) Az adattrezor-archiválás kiadását az adatkezelő akkor kezdeményezi, ha
 
-a) az elektronikus információs rendszere vagy nyilvántartása sérülése miatt visszaállításra van szükség, vagy
+a)[^7] az elektronikus információs rendszere vagy nyilvántartása sérülése miatt annak helyreállítására van szükség, és a helyreállítás más módon nem lehetséges, vagy
 
 b) próba-visszaállítást végez vagy a Felügyelet próba-visszaállítást rendelt el.
 
@@ -23,3 +23,5 @@ bb) védett, biztonságos hálózati kapcsolat útján történő rendelkezésre
 (4) Az átadás-átvétel folyamatát az őrzésért felelős szerv úgy dokumentálja, hogy abból egyértelműen azonosítható legyen a kiadott adattrezor-archiválás, a kiadás módja, valamint az átadó és az átvevő személye, rendelkezési jogosultsága.
 
 (5) Ha az adattrezor-archiválás megőrzése az archív állomány központi tárolóhelyre történő, logikai elkülönítést biztosító másolásával történik, az adattrezor-archiválás kiadását követően az őrzésért felelős szervnek helyreállíthatatlan módon törölnie kell az archív állományt a központi tárolóhelyen.
+
+[^7]: A 11. § (2) bekezdés a) pontja a 179/2018. (X. 2.) Korm. rendelet 40. §-ával megállapított szöveg.
