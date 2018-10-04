@@ -1,5 +1,0 @@
-## 2. § A Htr. 3. §-a a következő (3) és (4) bekezdéssel egészül ki:
-
-## „(3) Az ötmilliárd forintot el nem érő összegű határon túli költségvetési támogatás esetén támogatási szerződés alapján is nyújtható támogatás, így különösen a támogatás lebonyolításában részt vevő, (2) bekezdés szerinti szervezet, zálogjog biztosíték alkalmazása, vagy az Ávr. 88. § (1) bekezdés b)–c) pontjában meghatározott támogatás folyósítása esetén.
-
-## (4) Határon túli költségvetési támogatás esetén a támogatás nyújtásának feltételeként előírt ingatlan jelzálogjog biztosíték nyilvántartásba való bejegyzésének legkésőbb a jelzálogjoggal érintett ingatlanra vonatkozó hatósági használatbavételi engedély (vagy az ennek megfelelő, a helyi jog szerinti engedély) kiállításától vagy a biztosítékkal érintett ingatlanra vonatkozó tulajdonjog bejegyzésétől számított százhuszadik napon belül kell megtörténnie. A költségvetési támogatás folyósításának feltétele, hogy az ingatlan jelzálogjog biztosíték nyilvántartásba való bejegyzéséig az Ávr. 84. § (2) bekezdése szerinti biztosítékot kell nyújtani.”
