@@ -1,3 +1,0 @@
-## 36. § Az R. 2. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az adattrezor-archiválási kötelezettség az elektronikus ügyintézést biztosító szervet, továbbá a központi elektronikus ügyintézési szolgáltatást, valamint a szabályozott elektronikus ügyintézési szolgáltatást nyújtó szervet (a továbbiakban együtt: adatkezelő) terheli, az általa saját szoftverkörnyezetben kezelt elektronikus információs rendszereiben és a nyilvántartásaiban tárolt nem minősített adatok tekintetében vagy azokkal együtt a teljes futtatási környezet tekintetében. Ha az adatkezelő szerződés vagy jogszabályi kijelölés alapján adatfeldolgozót vesz igénybe, az adatfeldolgozással érintett adatok tekintetében az adattrezor-archiválást az adatkezelő az adatfeldolgozó útján látja el.”

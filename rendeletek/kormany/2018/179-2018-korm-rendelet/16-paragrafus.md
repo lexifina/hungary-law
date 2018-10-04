@@ -1,3 +1,3 @@
-## 15. §[^1]
+## 15. §[^5]
 
-[^1]: A 15. § a 45. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^5]: A 15. § a 45. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

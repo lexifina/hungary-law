@@ -1,3 +1,0 @@
-## 21. § Az eVhr. 134/B. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A KKSZB a csatlakozott szervek által a KKSZB szolgáltatáson keresztül zajló információátadásban tanúsítvány alapú titkosított adatforgalmat biztosít, a KKSZB az igénybevételével továbbított üzenetek tartalmát nem ismeri meg, azokat kizárólag továbbítja. Az átadott adatok tartalmáért és az adattovábbítás címzettje jogosultságának ellenőrzéséért az adatot átadó csatlakozott szerv a felelős. A KKSZB szolgáltatás keretében továbbított üzenetek e rendelet előírásának megfelelő hitelesítéséért és titkosításáért az adatot átadó csatlakozott szerv felelős. A KKSZB felelős a biztosított csatorna biztonságáért.”

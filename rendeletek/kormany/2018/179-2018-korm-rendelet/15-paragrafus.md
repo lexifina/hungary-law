@@ -1,7 +1,3 @@
-## „(9) A gazdálkodó szervezet küldemény átvételére jogosult meghatalmazottjának kell tekinteni:
+## 6–14. §[^4]
 
-## a) azt a dokumentumot vagy kézbesítési esemény igazolását fogadó személyt, aki részére a cégkapumegbízott az adott cégkapuhoz hozzáférést biztosított vagy
-
-## b) a gazdálkodó szervezetnek a cégkapuhoz csatlakozott informatikai rendszerét.
-
-## Vélelmezni kell azt is, hogy a cégkapuról érkező küldemény az adott cégkapu használatára jogosulttól származik.”
+[^4]: A 6–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
