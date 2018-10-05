@@ -6,6 +6,6 @@
 
 (3) Ha a nyugállományú katona önkéntes tartalékos katonai szolgálatot teljesített, halála esetén az elért rendfokozata közül a magasabb rendfokozat szerinti katonai temetést kell számára biztosítani.
 
-(4)[^2] A 3. § (2) bekezdése szerint minősítettek esetén a katonai tiszteletadással történő temetési szertartás nem alkalmazható. Az ettől való eltérést különös méltánylást érdemlő esetben, figyelemmel az elhunyt pályafutása során kifejtett érdemeire, valamint a haláleset körülményeire, a Honvéd Vezérkar főnöke engedélyezheti.
+(4)[^6] A 3. § (2) bekezdése szerint minősítettek esetén a katonai tiszteletadással történő temetési szertartás nem alkalmazható. Az ettől való eltérést különös méltánylást érdemlő esetben, figyelemmel az elhunyt pályafutása során kifejtett érdemeire, valamint a haláleset körülményeire, a Honvéd Vezérkar főnöke engedélyezheti.
 
-[^2]: Az 5. § (4) bekezdése a 11/2015. (IX. 28.) HM rendelet 2. §-ával megállapított szöveg.
+[^6]: Az 5. § (4) bekezdése a 11/2015. (IX. 28.) HM rendelet 2. §-ával megállapított szöveg.

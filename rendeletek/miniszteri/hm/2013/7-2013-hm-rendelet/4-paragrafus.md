@@ -12,9 +12,11 @@ d) a „Hősi halottá” nyilvánított elhunytak esetén emlékük megőrzés�
 
 e) a „Magyar Honvédség halottjává” nyilvánított elhunytak esetén emlékük megőrzésére sírjelet, síremléket állít, és a síremlékállításig, de legfeljebb a temetést követő 1 évig hozzájárul a temetési hely gondozásának költségeihez,
 
-f) a „Hősi halottá” és a „Magyar Honvédség halottjává” nyilvánított elhunytak esetén sírjel-, síremlékavatást, és koszorúzást rendez, illetve az elhunyt érdemei alapján emléktáblát, emlékhelyet létesíthet és
+f)[^2] a „Hősi halottá” és a „Magyar Honvédség halottjává” nyilvánított elhunytak esetén sírjel-, síremlékavatást és koszorúzást rendez, illetve az elhunyt érdemei alapján emléktáblát, emlékhelyet létesíthet,
 
-g) külföldi szolgálatteljesítés közben történő elhalálozás esetén megszervezi az elhunyt Magyarországra történő szállítását és fogadását.
+g)[^3] külföldi szolgálatteljesítés közben történő elhalálozás esetén megszervezi az elhunyt Magyarországra történő szállítását, fogadását és
+
+h)[^4] végrehajtja a nemzeti és állami ünnepek, katonatörténeti eseményekhez kapcsolódó ünnepi megemlékezést szolgáló kegyeleti koszorúzásokat.
 
 (2) Az (1) bekezdés e) pontja szerinti határidő leteltét követően
 
@@ -34,6 +36,9 @@ b) a Honvédséget a sírhely karbantartásával, gondozásával kapcsolatos kö
 
 (8) A „Katonai szolgálat halottjává” nyilvánított elhunyt esetén a temetési hely feletti rendelkezési jog a temetést követően átszáll az intézkedésre jogosult közeli hozzátartozóra.
 
-(9)[^1] A minősítésre jogosult parancsnok és a honvédelmi szervezetek vezetője honvéd, közalkalmazott és kormánytisztviselő elhalálozása esetén temetéskor és évfordulós koszorúzások alkalmával koszorút és sírcsokrot vásárolhat, illetve az intézkedésre jogosult közeli hozzátartozó részére gyásztáviratot küldhet.
+(9)[^5] A minősítésre jogosult parancsnok és a honvédelmi szervezet vezetője honvéd, közalkalmazott és kormánytisztviselő, valamint nyugállományú katona, nyugdíjas kormánytisztviselő és nyugdíjas közalkalmazott elhalálozása esetén temetéskor és évfordulós koszorúzások alkalmával koszorút és sírcsokrot vásárolhat, illetve az intézkedésre jogosult közeli hozzátartozó részére gyásztáviratot küldhet.
 
-[^1]: A 4. § (9) bekezdését a 11/2015. (IX. 28.) HM rendelet 1. §-a iktatta be.
+[^2]: A 4. § (1) bekezdés f) pontja a 16/2018. (IX. 27.) 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (1) bekezdés g) pontja a 16/2018. (IX. 27.) 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (1) bekezdés h) pontját a 16/2018. (IX. 27.) 2. § (2) bekezdése iktatta be.
+[^5]: A 4. § (9) bekezdését a 11/2015. (IX. 28.) HM rendelet 1. §-a iktatta be, szövege a 16/2018. (IX. 27.) 2. § (3) bekezdésével megállapított szöveg.

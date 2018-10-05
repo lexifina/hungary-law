@@ -1,4 +1,4 @@
-9. §[^5] (1) A Honvédség viseli
+9. §[^12] (1) A Honvédség viseli
 
 a) a „Hősi halottá” nyilvánított elhunytak esetén a 8. § (2) bekezdés c) és e) pontja szerinti költségeket legfeljebb a központi költségvetésről szóló törvényben a közszolgálati tisztviselőkre meghatározott illetményalap (a továbbiakban: illetményalap) tizenötszöröséig, valamint a 8. § (2) bekezdés a) és b) pontja szerinti költségnek a ténylegesen felmerült és a honvédelmi szervezet részére kiállított, számlával igazolt összegét,
 
@@ -28,9 +28,10 @@ gb) a „Magyar Honvédség halottjává” nyilvánított elhunytak esetén az 
 
 (4) A (2) és (3) bekezdés szerinti koszorú költségeként az illetményalap 0,2-szerese, sírcsokorra az illetményalap 0,1-szerese számolható el. A koszorú és sírcsokor költségeként elszámolható összeget október 15. és március 15. között 25%-kal kell növelni. A miniszter, a Honvédelmi Minisztérium (a továbbiakban: HM) parlamenti államtitkára, a HM közigazgatási államtitkára, valamint a Honvéd Vezérkar főnöke nevében elhelyezett koszorú költségeként az illetményalap 0,4-szerese számolható el.
 
-(5) A „Hősi halottá” nyilvánított elhunytak sírhelyét, urnafülkéjét és a temetési helye feletti rendelkezési jogot határozatlan időre kell megváltani vagy meghosszabbítani. A „Magyar Honvédség halottjává” vagy a „Katonai szolgálat halottjává” nyilvánított elhunyt temetési helye feletti rendelkezési jog egy alkalommal, legfeljebb 25 évre váltható meg, amelytől eltérni csak akkor lehet, ha a temetőt üzemeltető önkormányzat rendeletében a 25 éves időtartamnál hosszabb egyszeri megváltási időt határoz meg.
+(5)[^13] A „Hősi halottá” nyilvánított elhunytak sírhelyét, urnafülkéjét és a temetési helye feletti rendelkezési jogot határozatlan időre kell megváltani vagy meghosszabbítani. A „Magyar Honvédség halottjává” vagy a „Katonai szolgálat halottjává” nyilvánított elhunyt temetési helye feletti rendelkezési jog egy alkalommal, legfeljebb 25 évre váltható meg, amelytől eltérni csak akkor lehet, ha a temető fenntartásáért felelős helyi önkormányzat rendeletében a 25 éves időtartamnál hosszabb egyszeri megváltási időt határoz meg. Ettől eltérően az elhunyt pályafutására, halálának körülményeire való tekintettel a miniszter kérelemre egyedileg dönt a temetési hely feletti rendelkezési jog egy alkalommal történő újraváltásáról.
 
-(6)[^6] A 3. § (2) bekezdése szerint minősítettek eltemetésével összefüggő költségekhez való hozzájárulást a minősítésre jogosult parancsnok munkáltatói döntésben engedélyezi. A költségek megtérítésére és elszámolására a „Katonai szolgálat halottjára” vonatkozó rendelkezéseket kell alkalmazni.
+(6)[^14] A 3. § (2) bekezdése szerint minősítettek eltemetésével összefüggő költségekhez való hozzájárulást a minősítésre jogosult parancsnok munkáltatói döntésben engedélyezi. A költségek megtérítésére és elszámolására a „Katonai szolgálat halottjára” vonatkozó rendelkezéseket kell alkalmazni.
 
-[^5]: A 9. § a 11/2015. (IX. 28.) HM rendelet 4. §-ával megállapított szöveg.
-[^6]: A 9. § (6) bekezdése a 25/2016. (XII. 22.) HM rendelet 13. §-ával megállapított szöveg.
+[^12]: A 9. § a 11/2015. (IX. 28.) HM rendelet 4. §-ával megállapított szöveg.
+[^13]: A 9. § (5) bekezdése a 16/2018. (IX. 27.) 5. §-ával megállapított szöveg.
+[^14]: A 9. § (6) bekezdése a 25/2016. (XII. 22.) HM rendelet 13. §-ával megállapított szöveg.
