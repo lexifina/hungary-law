@@ -24,34 +24,35 @@ g) az ügyfél állatállományának egy részét vagy teljes egészét sújtó 
 
 h) az ügyfél gondossága ellenére az állatállománya egészének vagy egy részének elhullása vagy leölése;
 
-i) az ügyfél növényállományának egy részét vagy teljes egészét sújtó járványos, fertőző megbetegedés;
+i)[^5] az ügyfél növényállományának, illetve az ügyfél által termesztett gombafajoknak egy részét vagy teljes egészét sújtó fertőzés, illetve károsító járványos szintű előfordulásából eredő kártétel;
 
 j) zárlati, vagy Magyarország területén még nem honos károsító, illetve károkozó ellen hozott hatósági intézkedés;
 
 k) az intervenciós és export tevékenységgel összefüggő szállítási útvonalon bekövetkezett váratlan vagy tartós akadály, amelynek elhárítására az ügyfél önerejéből képtelen és az alternatív útvonal használata jelentős többletköltséggel jár.
 
-(2)[^5] Az (1) bekezdés a), b), c), d), f), j) és k) pontjában meghatározott esetekben a Kincstár az eseményt csak akkor ismeri el vis maiorként, ha annak bekövetkezését az ügyfél hatósági bizonyítvánnyal vagy más hitelt érdemlő módon bizonyítja.
+(2)[^6] Az (1) bekezdés a), b), c), d), f), j) és k) pontjában meghatározott esetekben a Kincstár az eseményt csak akkor ismeri el vis maiorként, ha annak bekövetkezését az ügyfél hatósági bizonyítvánnyal vagy más hitelt érdemlő módon bizonyítja.
 
 (3) Ha az esemény az (1) bekezdés e) pontjában meghatározott esetkörön belül tűzeset miatt következett be, akkor azt az ügyfélnek a tűzeset helye szerint illetékes tűzvédelmi hatóság által kiállított tűzeseti hatósági bizonyítvánnyal vagy tűzvizsgálati jelentéssel kell igazolnia.
 
-(4)[^6] Ha a bejelentés az (1) bekezdés e), g), h) vagy i) pontjában meghatározott eseményre vonatkozik – az (1) bekezdés e) pontjában meghatározott esetkörön belüli tűzeset kivételével –, akkor az esemény bekövetkezésének igazolása céljából a Kincstár
+(4)[^7] Ha a bejelentés az (1) bekezdés e), g), h) vagy i) pontjában meghatározott eseményre vonatkozik – az (1) bekezdés e) pontjában meghatározott esetkörön belüli tűzeset kivételével –, akkor az esemény bekövetkezésének igazolása céljából a Kincstár
 
 a) a bejelentés hiánytalan benyújtását követő tíz napon belül,
 
 b) ha a bejelentés támogatási vagy kifizetési kérelem beadási időszakban kerül benyújtásra, akkor a kérelembenyújtási időszakot követő tíz napon belül, hiányosan benyújtott bejelentés esetén a bejelentés hiánytalan benyújtását követő tíz napon belül megkeresi a Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 18. § (1) bekezdésében meghatározott szakhatóságot.
 
-(5)[^7] Ha az ügyfél az (1) bekezdés e) pontja szerinti eseménnyel érintett terület vonatkozásában vis maior bejelentést nyújt be és ugyanezen terület vonatkozásában korábban a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény szerinti kárbejelentést is tett, akkor a Kincstár az esemény bekövetkezésének igazolása során az általa működtetett mezőgazdasági kockázatkezelési adatbázis adatait is figyelembe veszi.
+(5)[^8] Ha az ügyfél az (1) bekezdés e) pontja szerinti eseménnyel érintett terület vonatkozásában vis maior bejelentést nyújt be és ugyanezen terület vonatkozásában korábban a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény szerinti kárbejelentést is tett, akkor a Kincstár az esemény bekövetkezésének igazolása során az általa működtetett mezőgazdasági kockázatkezelési adatbázis adatait is figyelembe veszi.
 
-(6)[^8]
+(6)[^9]
 
-(7)[^9]
+(7)[^10]
 
-(8)[^10]
+(8)[^11]
 
 [^4]: A 3. § (1) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 104. § b) pontja szerint módosított szöveg.
-[^5]: A 3. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 104. § b) pontja szerint módosított szöveg.
-[^6]: A 3. § (4) bekezdése a 66/2017. (XII. 22.) FM rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^7]: A 3. § (5) bekezdése a 66/2017. (XII. 22.) FM rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^8]: A 3. § (6) bekezdését a 66/2017. (XII. 22.) FM rendelet 33. §-a hatályon kívül helyezte.
-[^9]: A 3. § (7) bekezdését a 43/2017. (IX. 5.) FM rendelet 18. §-a hatályon kívül helyezte.
-[^10]: A 3. § (8) bekezdését a 88/2016. (XII. 29.) FM rendelet 105. §-a hatályon kívül helyezte.
+[^5]: A 3. § (1) bekezdés i) pontja a 28/2018. (X. 5.) AM rendelet 9. §-ával megállapított szöveg.
+[^6]: A 3. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 104. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § (4) bekezdése a 66/2017. (XII. 22.) FM rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (5) bekezdése a 66/2017. (XII. 22.) FM rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § (6) bekezdését a 66/2017. (XII. 22.) FM rendelet 33. §-a hatályon kívül helyezte.
+[^10]: A 3. § (7) bekezdését a 43/2017. (IX. 5.) FM rendelet 18. §-a hatályon kívül helyezte.
+[^11]: A 3. § (8) bekezdését a 88/2016. (XII. 29.) FM rendelet 105. §-a hatályon kívül helyezte.
