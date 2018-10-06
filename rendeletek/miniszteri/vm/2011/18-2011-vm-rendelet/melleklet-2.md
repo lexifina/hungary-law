@@ -40,6 +40,6 @@
 
 | 19 | 99 | Egyéb tejhasznú |
 
-2. melléklet a 18/2011. (III. 9.) VM rendelethez[^60]
+2. melléklet a 18/2011. (III. 9.) VM rendelethez[^62]
 
-[^60]: A 2. melléklet a 37/2017. (XII. 27.) MvM rendelet 22. § i) pontja szerint módosított szöveg.
+[^62]: A 2. melléklet a 37/2017. (XII. 27.) MvM rendelet 22. § i) pontja szerint módosított szöveg.
