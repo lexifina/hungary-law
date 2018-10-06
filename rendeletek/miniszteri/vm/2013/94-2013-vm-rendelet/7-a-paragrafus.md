@@ -1,10 +1,10 @@
-7/A. §[^36] (1) A csekély összegű támogatások nyújtásával kapcsolatos eljárásokra a 37/2011. (III. 22.) Korm. rendelet 11–11/A. §-ában foglaltak irányadók.
+7/A. §[^42] (1) A csekély összegű támogatások nyújtásával kapcsolatos eljárásokra a 37/2011. (III. 22.) Korm. rendelet 11–11/A. §-ában foglaltak irányadók.
 
 (2) Az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet), az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet), valamint az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
 (3) Nem nyújtható általános csekély összegű támogatás
 
-a) olyan vállalkozás számára, amely a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU rendelet szerinti halászati és akvakultúra ágazatban tevékenykedik;
+a)[^43] olyan vállalkozás számára, amely a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1379/2013/EU európai parlamenti és tanácsi rendelet szerinti halászati és akvakultúra ágazatban tevékenykedik;
 
 b) a mezőgazdasági termékek elsődleges termelésével kapcsolatos tevékenység finanszírozására;
 
@@ -56,4 +56,5 @@ bi) harmadik országba vagy tagállamba irányuló exporttal kapcsolatos tevéke
 
 c) amely az importáruval szemben belföldi áru használatához kötött.
 
-[^36]: A 7/A. §-t a 65/2016. (IX. 21.) FM rendelet 13. §-a iktatta be.
+[^42]: A 7/A. §-t a 65/2016. (IX. 21.) FM rendelet 13. §-a iktatta be.
+[^43]: A 7/A. § (3) bekezdés a) pontja a 28/2018. (X. 5.) AM rendelet 6. § c) pontja szerint módosított szöveg.

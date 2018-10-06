@@ -40,6 +40,8 @@ e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vag
 
 12.[^10] egy és ugyanazon vállalkozás: a 37/2011. (III. 22.) Korm. rendelet 2. § 5a. pontjában meghatározott vállalkozás.
 
+13.[^11] mezőgazdasági termék: az EUMSz I. mellékletében felsorolt termékek, a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1379/2013/EU európai parlamenti és tanácsi rendelet) hatálya alá tartozó halászati és akvakultúra-termékek kivételével,
+
 [^1]: Az 1. § 1. pont 1.1. alpontja a 36/2014. (IV. 4.) VM rendelet 92. §-ával megállapított szöveg.
 [^2]: Az 1. § 1. pont 1.2. alpontja a 36/2014. (IV. 4.) VM rendelet 92. §-ával megállapított szöveg.
 [^3]: Az 1. § 1. pont 1.3. alpontja a 18/2014. (X. 29.) FM rendelet 43. § (1) bekezdésével megállapított szöveg.
@@ -50,3 +52,4 @@ e) a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő település vag
 [^8]: Az 1. § 9. pontja a 18/2014. (X. 29.) FM rendelet 43. § (2) bekezdésével megállapított szöveg.
 [^9]: Az 1. § 11. pontját az 51/2016. (VII. 21.) FM rendelet 15. § (2) bekezdése iktatta be.
 [^10]: Az 1. § 12. pontját a 65/2016. (IX. 21.) FM rendelet 11. § (3) bekezdése iktatta be.
+[^11]: Az 1. § 13. pontját a 28/2018. (X. 5.) AM rendelet 3. §-a iktatta be.
