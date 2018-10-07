@@ -1,5 +1,0 @@
-## 4. § A 94/2013. (X. 10.) VM rendelet 3. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
-
-## „(1a) A kedvezményezett az 1305/2013/EU európai parlamenti és tanácsi rendelet 82. cikke szerinti kiegészítő nemzeti támogatásként a Vidékfejlesztési Programból megvalósuló, mezőgazdasági termékhez kapcsolódó beruházási intézkedésekhez (a továbbiakban: beruházási intézkedés) igénybe vett önerő és előfinanszírozására nyújtott, a már megkötött vagy új hitelhez, hitelkiváltáshoz és garanciaszerződéshez kapcsolódó kezességnek az egyes mezőgazdasági támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 28/2018. (X. 5.) AM rendelet [a továbbiakban: 28/2018. (X. 5.) AM rendelet] hatálybalépése után esedékes kezességi díjhoz jogosult igénybe venni az e rendelet szerinti támogatást.
-
-## (1b) Ha azonos elszámolható költségekhez kapcsolódóan a kezességi díj egy része de minimis támogatásként már a 28/2018. (X. 5.) AM rendelet hatálybalépését megelőzően elszámolásra került, akkor azt össze kell számítani az (1a) bekezdés szerinti, 1305/2013/EU európai parlamenti és tanácsi rendelet 82. cikke szerinti kiegészítő nemzeti támogatással.”
