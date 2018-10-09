@@ -430,7 +430,7 @@
 
 | 215. | Tiszaújváros Városi Rendelőintézet | Tiszaújváros |
 
-| 216. | Tiszavasvári Egészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségû Társaság | Tiszavasvári |
+| 216. |  |  |
 
 | 217. | Tokaji Egészségfejlesztő Központ Nonprofit Kft. | Tokaj |
 
@@ -518,7 +518,9 @@
 
 | 259. | ARNAUT PASA FÜRDŐJE Gyógyászati Korlátolt Felelősségű Társaság | Eger |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^63]
+| 260. | Vámospércs-Kistérségi Egészségügyi Szakellátó Nonprofit Korlátolt Felelősségű Társaság | Vámospércs |
+
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^64]
 
 ## Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót megillető bérkiegészítés mértéke
 
@@ -724,4 +726,4 @@
 
 | 17 | 49–51 | 46 600 | 49 114 | 56 724 |
 
-[^63]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^64]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.

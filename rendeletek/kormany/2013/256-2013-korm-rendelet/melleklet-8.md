@@ -38,6 +38,6 @@
 
 | 17 | 49–51 | 169 701 | 194 801 | 213 457 | 231 710 | 284 868 | 370 271 | 391 035 | 434 369 | 453 081 | 497 522 |
 
-8. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^68]
+8. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^69]
 
-[^68]: A 8. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés d) pontja iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 4. § b) pontjával megállapított szöveg.
+[^69]: A 8. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés d) pontja iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 4. § b) pontjával megállapított szöveg.
