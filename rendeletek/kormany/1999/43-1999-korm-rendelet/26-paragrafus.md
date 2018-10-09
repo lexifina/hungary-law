@@ -26,7 +26,7 @@ c) ha azt a biztosított fekvőbeteg-intézményben veszi igénybe, a felvételt
 
 (5)[^263] A teljesítményfinanszírozás során használt szakmai kódrendszerek és finanszírozási paraméterek – a NEAK bevonásával történő – folyamatos karbantartásáról, az ehhez szükséges adatok körének meghatározásáról és a változtatások szabályozásáról az egészségügyért felelős miniszter rendeletben gondoskodik.
 
-(6)[^264] A 14. életévét be nem töltött gyermek részére nyújtott, az 5. számú melléklet Összevont szakellátás jogcím járóbeteg-szakellátás és aktív fekvőbeteg-szakellátás előirányzatból finanszírozott ellátások elszámolása 1,1-es szorzó alkalmazásával történik.
+(6)[^264] A 14. életévét be nem töltött gyermek részére nyújtott, az 5. számú melléklet Összevont szakellátás jogcím járóbeteg-szakellátás és aktív fekvőbeteg-szakellátás előirányzatból finanszírozott ellátások elszámolása 1,2-es szorzó alkalmazásával történik.
 
 (7)[^265] A (6) bekezdés szerinti szorzó a 28. § (1e) bekezdése szerinti szorzóval egyidejűleg, valamint a 28/C. § (2) bekezdésének megfelelően elszámolt teljesítmények esetében nem alkalmazható.
 
@@ -37,5 +37,5 @@ c) ha azt a biztosított fekvőbeteg-intézményben veszi igénybe, a felvételt
 [^261]: A 26. § (4) bekezdését a 102/2003. (VII. 17.) Korm. rendelet 8. §-a iktatta be, a 264/2003. (XII. 24.) Korm. rendelet 27. §-ának (9) bekezdése alapján a 2004. január havi teljesítmények elszámolásától kezdődően hatályát vesztette. A 26. § (4) bekezdését újonnan az 58/2009. (III. 18.) Korm. rendelet 5. §-a iktatta be, alkalmazására lásd e módosító rendelet 18. § (3)–(5) bekezdését.
 [^262]: A 26. § (4a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 16. §-a iktatta be.
 [^263]: A 26. § (5) bekezdését az 58/2009. (III. 18.) Korm. rendelet 5. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
-[^264]: A 26. § (6) bekezdését újonnan a 464/2016. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^264]: A 26. § (6) bekezdését újonnan a 464/2016. (XII. 23.) Korm. rendelet 4. §-a iktatta be, szövege a 184/2018. (X. 8.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^265]: A 26. § (7) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
