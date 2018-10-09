@@ -1,0 +1,3 @@
+## 1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: 43/1999. Korm. rendelet) a következő 76/U. §-sal egészül ki:
+
+## „76/U. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet és az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet módosításáról szóló 184/2018. (X. 8.) Korm. rendelettel megállapított 26. § (6) bekezdését a 2018. augusztus havi teljesítmények elszámolásától kell alkalmazni.”
