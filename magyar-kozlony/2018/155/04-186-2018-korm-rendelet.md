@@ -1,0 +1,196 @@
+# A Kormány 186/2018. (X. 9.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 155. szám, 2018. október 9. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d494e0441fe1000084e1dd1f8dc06f924a9da06d/dokumentumok/ffcb43d2e2f19629bc2ac0c58c9d4a530d4b9596/letoltes)
+
+---
+
+A Kormány 186/2018. (X. 9.) Korm. rendelete
+egyes agrárszabályozási tárgyú kormányrendeletek módosításáról
+A Kormány
+az 1. § tekintetében a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez
+kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (1) bekezdés e) pontjában,
+a 2–5. § tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15d. pontjában,
+a 6–12. § tekintetében a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 72. § h) pontjában,
+a 13. § tekintetében az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 112. § (1) bekezdés
+a) pontjában,
+a 14. § és a 18. § b) és c) pontja tekintetében az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. §
+(1) bekezdés a) pontjában,
+a 15. § tekintetében a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 71. § 1. pontjában,
+a 16. § és a 18. § e) pontja tekintetében az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 90. § (5) bekezdés c) pontjában,
+a 17. § tekintetében a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 100. §
+(2) bekezdésében,
+a 18. § a) pontja tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok
+kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 21. § c) pontjában,
+a 18. § d) pontja tekintetében a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 34. § (2) bekezdés a)–e) pontjában,
+a 19. § tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdés b) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva, a következőket rendeli el:
+1. A kölcsönös megfeleltetési szabályok betartását ellenőrző szervekről szóló
+322/2007. (XII. 5.) Korm. rendelet módosítása
+1. §
+A kölcsönös megfeleltetési szabályok betartását ellenőrző szervekről szóló 322/2007. (XII. 5.) Korm. rendelet 3. §
+(2c) bekezdése helyébe a következő rendelkezés lép:
+„(2c) A fővárosi, illetve megyei katasztrófavédelmi igazgatóság által a (2a) bekezdés szerinti eljárásban hozott
+döntés esetében másodfokú hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság jár
+el. A mezőgazdasági és vidékfejlesztési támogatási szerv adatátadása alapján a kölcsönös megfeleltetési szabályok
+betartásának ellenőrzésére vonatkozó eredményeket a mezőgazdasági és vidékfejlesztési támogatási szerv felé
+a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság szolgáltatja.”
+2. Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és
+a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet módosítása
+2. §
+Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális
+támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 11. §
+(5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A Bizottság kérésére a miniszter az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet és
+a 717/2014/EU bizottsági rendelet hatálya alá tartozó mezőgazdasági, halászati, erdészeti és vadgazdálkodási
+(a továbbiakban együtt: agrár) és vidékfejlesztési állami támogatások esetében – a csekély összegű támogatásokra
+vonatkozó bizottsági rendeletekben meghatározott, a kifizető ügynökség által működtetett, a mezőgazdasági,
+agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes
+kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 26. § (1) bekezdés f) pontja szerint
+vezetett nyilvántartási rendszer alapján – az általa összeállított információkat továbbítja a Bizottság részére.”
+
+3. § (1) A 37/2011. (III. 22.) Korm. rendelet 11/A. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+„(2) Ha a kedvezményezett más, a tárgyévben vagy az azt megelőző két üzleti évben csekély összegű támogatást
+igénybe vett kedvezményezettel egy és ugyanazon vállalkozásnak minősül, – a kifizető ügynökség a 11. §
+(5) bekezdésében meghatározott nyilvántartási rendszerének hatálya alá tartozó támogatások esetében –
+az általános, halászati és mezőgazdasági csekély összegű támogatás igénybevételének feltétele, hogy
+a kedvezményezett a kifizető ügynökség részére nyilatkozzon arról, hogy mely egyéb vállalkozásokkal tekinthető
+egy és ugyanazon vállalkozásnak.
+(3) A (2) bekezdés szerinti nyilatkozatot kizárólag az egy és ugyanazon vállalkozásnak minősülő
+kedvezményezettnek kell megtenni a támogatás első alkalommal történő igénylésekor.”
+(2) A 37/2011. (III. 22.) Korm. rendelet 11/A. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) A kedvezményezett a támogatást nyújtó szervnek köteles nyilatkozni arról, hogy a (2) bekezdés szerinti
+nyilatkozattételi kötelezettségét teljesítette.”
+(3) A 37/2011. (III. 22.) Korm. rendelet 11/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Ha az egy és ugyanazon vállalkozásra vonatkozó tényállás változik vagy megszűnik, arról az érintett
+vállalkozások bármelyike jogosult legkésőbb a változást követő első alkalommal történő csekély összegű támogatás
+igénylésekor a kifizető ügynökségnek nyilatkozni.”
+(4) A 37/2011. (III. 22.) Korm. rendelet 11/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A Polgári Törvénykönyv szerinti átalakulást, egyesülést, szétválást követően a csekély összegű támogatás első
+alkalommal történő igénylésekor a jogutód kedvezményezett köteles a kifizető ügynökség részére az átalakulás,
+egyesülés, szétválás tényéről nyilatkozni.”
+4. §
+A 37/2011. (III. 22.) Korm. rendelet a következő 35/A. §-sal egészül ki:
+„35/A. § (1) Ha létező támogatási program másként nem rendelkezik, – az agrár- és vidékfejlesztési állami
+támogatások esetében – az uniós állami támogatási szabályokban euróban meghatározott összeg alkalmazása
+céljából a támogatástartalom forintról euróra történő átszámításánál a támogatási döntés napját megelőző hónap
+utolsó napján érvényes, az Európai Központi Bank által közzétett, két tizedesjegy pontossággal meghatározott
+devizaárfolyamot kell alkalmazni.
+(2) A kifizető ügynökség által a 11. § (5) bekezdése szerinti nyilvántartási rendszerben a támogatástartalom rögzítése
+euró értékben történik.”
+5. §
+A 37/2011. (III. 22.) Korm. rendelet
+a) 11/A. § (7) bekezdésében a„tájékoztatása”szövegrész helyébe a„nyilatkozata”szöveg,
+b) 11/A. § (8) bekezdésében a„tájékoztatást nyújt”szövegrész helyébe a„nyilatkozni köteles”szöveg,
+c) 11/A. § (9) bekezdésében az„Az (2) bekezdés szerinti nyilatkozat és az” szövegrész helyébe az„A (2) bekezdés
+szerinti nyilatkozat, valamint a” szöveg, a „tájékoztatások” szövegrész helyébe a „nyilatkozattételi
+kötelezettség”szöveg
+lép.
+3. A mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati
+adósságrendezési eljárás keretében árverés útján történő értékesítésének szabályairól szóló
+191/2014. (VII. 31.) Korm. rendelet módosítása
+6. § (1) A mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati adósságrendezési
+eljárás keretében árverés útján történő értékesítésének szabályairól szóló 191/2014. (VII. 31.) Korm. rendelet
+[a továbbiakban: 191/2014. (VII. 31.) Korm. rendelet] 1. § (2) bekezdése a következő j) ponttal egészül ki:
+[Az (1) bekezdés szerinti megkeresésben meg kell jelölni:]
+„j) végrehajtási eljárásban azt, hogy a föld folyamatos árverezése iránti hirdetménye közzétételre került-e, a földre
+vételi ajánlat érkezett-e, illetve a becsérték módosításra került-e.”
+(2) A 191/2014. (VII. 31.) Korm. rendelet 1. § (2a) bekezdése helyébe a következő rendelkezés lép:
+„(2a) A megkeresőnek igazolnia kell, hogy eleget tett a 17. §-ban foglaltaknak.”
+7. §
+A 191/2014. (VII. 31.) Korm. rendelet 7. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Tanya esetén legalább a kikiáltási ár 70%-ának – fogyasztóval kötött szerződésen alapuló követelés behajtása
+esetén legalább a kikiáltási árának – megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az
+
+egyetlen lakóingatlana, lakóhelye ebben van, és a végrehajtási eljárás megindítását megelőző 6 hónapban is ebben
+volt.”
+8. §
+A 191/2014. (VII. 31.) Korm. rendelet 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az eredménytelen árverés esetén megismételt árverést kell kitűzni, amelyre az e bekezdésben foglalt
+eltérésekkel az első árverés szabályait kell alkalmazni. A megismételt árverés során a felajánlott vételár nem lehet
+kevesebb a 7. § (2)–(4) bekezdése, illetve a 237/2009. (X. 20.) Korm. rendelet 4. § (2a) bekezdése szerinti minimálár
+összegénél. Ha a megismételt árverés is eredménytelen, a mezőgazdasági igazgatási szerv az árverést sikertelennek
+nyilvánítja, kivéve, ha felszámolási eljárás során a Cstv. 49/A. § (5) bekezdésében vagy 49/B. § (7) bekezdésében
+foglaltaknak megfelelően a becsértéknek megfelelő értékesítésre kerül sor.”
+9. §
+A 191/2014. (VII. 31.) Korm. rendelet 11. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az árverési jegyzőkönyvet az árverési vevő is aláírásával látja el.”
+10. §
+A 191/2014. (VII. 31.) Korm. rendelet 18. §-a helyébe a következő rendelkezés lép:
+„18. § (1) Végrehajtási eljárás esetén a végrehajtó a részére megküldött záradékolt árverési jegyzőkönyv másolatát
+kézbesíti az adósnak, egyidejűleg felhívja a földrészlettel együtt nyilvántartott épület, építmény 15 napon belül
+történő elhagyására. Amennyiben a felhívásban foglalt időpontig erre nem került sor, az árverési vevő a Vht. alapján
+kérelmezheti annak kiürítését.
+(2) A végrehajtó a Vht. alapján intézkedik a földrészlettel együtt nyilvántartott épületnek, építménynek az árverési
+vevő részére történő birtokbaadásáról.
+(3) Amennyiben a Földforgalmi törvény 35. § (7) bekezdése alapján a tulajdonszerzés jóváhagyása megtagadásra
+kerül, vagy az árverés sikertelen, a mezőgazdasági igazgatási szerv megkeresése alapján a végrehajtó a Vht. szerint
+közzéteszi a föld folyamatos árverezése iránti hirdetményét. A hirdetmény közzétételét követően, ha a földre
+vételi ajánlat érkezik a végrehajtóhoz, a végrehajtó az ajánlat érkezését követő 30 napon belül az árverés kitűzése,
+az árverési hirdetmény közzététele, továbbá az árverés lefolytatása érdekében ismét megkeresi az 1. §-ban
+foglaltaknak megfelelően a mezőgazdasági igazgatási szervet.
+(4) Ha a (3) bekezdés szerinti ismételt megkeresést követően az árverés sikertelen, a mezőgazdasági igazgatási
+szerv a Földforgalmi törvény 35. § (7) bekezdésének megfelelően megkeresi a végrehajtót a (3) bekezdésben foglalt
+intézkedések megtétele végett.”
+11. §
+A 191/2014. (VII. 31.) Korm. rendelet a következő 22. §-sal egészül ki:
+„22. § (1) E rendeletnek az egyes agrárszabályozási tárgyú kormányrendeletek módosításáról szóló 186/2018.
+(X. 9.) Korm. rendelettel [a továbbiakban: 186/2018. (X. 9.) Korm. rendelet] megállapított rendelkezéseit azokban
+a 186/2018. (X. 9.) Korm. rendelet hatálybalépése napján folyamatban lévő végrehajtási eljárásokban is alkalmazni
+kell, amelyekben a földárverések kitűzésére még nem került sor.
+(2) Ha a mezőgazdasági igazgatási szerv a 186/2018. (X. 9.) Korm. rendelet hatálybalépése napjáig már kitűzte
+árverésre a földet, a mezőgazdasági igazgatási szerv a 186/2018. (X. 9.) Korm. rendelettel megállapított 18. §
+rendelkezéseinek megfelelően jár el.”
+12. §
+Hatályát veszti a 191/2014. (VII. 31.) Korm. rendelet 5. § (1a) bekezdése.
+4. A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló
+383/2016. (XII. 2.) Korm. rendelet módosítása
+13. §
+A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.)
+Korm. rendelet [a továbbiakban: 383/2016. (XII. 2.) Korm. rendelet] 11. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) Az (1) bekezdés szerinti erdészeti hatóság felügyeleti szerveként a Pest Megyei Kormányhivatal jár el.”
+14. §
+A 383/2016. (XII. 2.) Korm. rendelet 17. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+[A kijelölt élelmiszerlánc-felügyeleti szerv a NÉBIH]
+„d) az Éltv. 5. § (6) bekezdésében, 15. § (5) bekezdésében, 17. § (5) bekezdésében, 17/B. § (4) bekezdésében,
+18. § (5a) bekezdésében, 23. § (5) és (6) bekezdésében, 24. § (1) bekezdés e) pontjában, 32. § (1) bekezdés c), d),
+n)–r), t), u)–w) pontjában, 32. § (2) bekezdés d) pontjában, 32. § (3) és (5) bekezdésében, 34. § (1) bekezdés g) és
+
+h) pontjában, 34. § (4) bekezdés a) és j) pontjában, 35. § (4) bekezdés d)–f) pontjában, 35. § (5) és (6) bekezdésében,
+35/A. §-ában, 37. § (1) bekezdés c) és d) pontjában, 37. § (3) bekezdés e), g) és i) pontjában, 38. § (1) bekezdés
+m), n), r) és t) pontjában, 38. § (5)–(7) bekezdésében, 38/A. § (1), (3)–(11) bekezdésében, 38/B. §-ában, 38/D. §
+(1) bekezdésében, 38/G. § (1) bekezdésében, 40. § (1)–(3) bekezdésében, 41. §-ában, 47/B. § (1), (11) és
+(12) bekezdésében, 47/C. § (3) bekezdésében, 63. § (1) bekezdés e) pontjában, 63/A. §-ában, 71. § (4), (5), (9) és
+(10) bekezdésében,”
+[foglaltak tekintetében.]
+15. §
+A 383/2016. (XII. 2.) Korm. rendelet 30. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A területi halgazdálkodási hatóság felügyeleti szerveként és a területi halgazdálkodási hatóság által első fokon
+hozott döntés esetében másodfokon a Pest Megyei Kormányhivatal jár el.”
+16. §
+A 383/2016. (XII. 2.) Korm. rendelet 37. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 29. § (2) bekezdésében
+foglaltak tekintetében a felszámolás tényének az ingatlan-nyilvántartásba történő feljegyzése, valamint az adós
+nevére vonatkozó adatváltozás átvezetése iránti megkeresésnek az illetékes elsőfokú ingatlanügyi hatóságok
+részére történő továbbítására a törvényszék székhelye szerint illetékes elsőfokú ingatlanügyi hatóságot,
+a fővárosban Budapest Főváros Kormányhivatala XI. Kerületi Hivatalát jelöli ki.”
+17. §
+A 383/2016. (XII. 2.) Korm. rendelet 60. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) A területi vadászati hatóság felügyeleti szerveként a Pest Megyei Kormányhivatal jár el.”
+18. §
+A 383/2016. (XII. 2.) Korm. rendelet
+a) 2. § (1) bekezdésében az„a földművelésügyi miniszter”szövegrész helyébe az„az agrárminiszter”szöveg,
+b) 18. § (3) bekezdés c) pontjában a „17. § (8) bekezdésében,” szövegrész helyébe a „17. § (8) bekezdésében,
+17/B. § (3) bekezdésében,”szöveg,
+c) 23. § (1) bekezdés a) pontjában a„19. § (1) bekezdésében,”szövegrész helyébe a„19. § (1) bekezdésében, 20. §
+(3a) bekezdésében,”szöveg,
+d) 28. § (1) bekezdés záró szövegrészében az„a földművelésügyi minisztert”szövegrész helyébe az„a minisztert”
+szöveg,
+e) 1. melléklet 15. pont 15.1. alpontjában a„Balatonboglár”szövegrész helyébe a„Fonyód”szöveg
+lép.
+19. §
+Hatályát veszti a 383/2016. (XII. 2.) Korm. rendelet 72. §-a.
+5. Záró rendelkezés
+20. §
+Ez a rendelet a kihirdetését követő ötödik napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
