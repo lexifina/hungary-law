@@ -1,3 +1,0 @@
-## 4. § Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet (a továbbiakban: 256/2013. Korm. rendelet) 4/B. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-## „(9) A munkáltató a tárgyévben ténylegesen kifizetett összegekről a tárgyévet követő március 31-ig köteles elszámolni a miniszter által meghatározott módon. Az elszámolás módját a miniszter az általa vezetett minisztérium és a NEAK honlapján legkésőbb a tárgyévet követő március 15-ig közzéteszi.”
