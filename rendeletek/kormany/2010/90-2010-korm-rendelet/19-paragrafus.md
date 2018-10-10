@@ -1,10 +1,10 @@
-## 18. §[^60]
+## 18. §[^62]
 
 ## 11. I. osztályú biztonsági terület helyszíne (minősített adat nyílt tárolása)
 
 19. § (1) Ahol minősített adat nyílt tárolására kerül sor, az I. osztályú biztonsági területet határoló falazat, födém és padozat legalább a 30 cm vastagságú tömör téglafal szilárdsági mutatóival egyenértékű falszerkezettel rendelkezik.
 
-(2)[^61] Az I. osztályú biztonsági terület helyiségeinek falazatán található ablakok, nyílások, áttörések az alábbi méretű fixen rögzített vagy a helyiség falazatán belül felszerelt nyitható és számkombinációs zárral kiegészített rácsszerkezettel rendelkeznek:
+(2)[^63] Az I. osztályú biztonsági terület helyiségeinek falazatán található ablakok, nyílások, áttörések az alábbi méretű fixen rögzített vagy a helyiség falazatán belül felszerelt nyitható és számkombinációs zárral kiegészített rácsszerkezettel rendelkeznek:
 
 a) nemzeti és külföldi „Bizalmas!” minősítési szintű minősített adatok esetén 140×140 mm-es kiosztású, legalább 10 mm átmérőjű köracélból vagy legalább 10 mm oldalhosszúságú négyzetacélból álló, rácspontokon körbehegesztett rácsszerkezet;
 
@@ -32,9 +32,9 @@ c) a (2) bekezdés c) pontjában említett rácsszerkezettel egyenértékű az a
 
 áttörésbiztos fokozattal rendelkezik.
 
-(5)[^62] A minősített adat nyílt tárolása esetén a helyszín az (1)–(4) bekezdésben meghatározottakon túl, fizikai biztonsági intézkedések keretében a biztonsági terület határán kialakított bejárathoz telepített beléptető rendszer mellett a 34. § szerinti személyes felügyelettel, vagy legalább a 27. § (3) bekezdésében meghatározott elektronikai jelzőrendszerrel és füstérzékelővel, valamint legalább a 28. § (5) bekezdésében előírt reagáló erő alkalmazásával biztosított.
+(5)[^64] A minősített adat nyílt tárolása esetén a helyszín az (1)–(4) bekezdésben meghatározottakon túl, fizikai biztonsági intézkedések keretében a biztonsági terület határán kialakított bejárathoz telepített beléptető rendszer mellett a 34. § szerinti személyes felügyelettel, vagy legalább a 27. § (3) bekezdésében meghatározott elektronikai jelzőrendszerrel és füstérzékelővel, valamint legalább a 28. § (5) bekezdésében előírt reagáló erő alkalmazásával biztosított.
 
-(6)[^63] Minősített adatot kezelő állami szerveknél, ahol nemzeti minősített adat nyílt tárolására kerül sor, az (1)–(4) bekezdésben előírtakat az alábbi feltételek együttes megléte esetén nem kell kiépíteni:
+(6)[^65] Minősített adatot kezelő állami szerveknél, ahol nemzeti minősített adat nyílt tárolására kerül sor, az (1)–(4) bekezdésben előírtakat az alábbi feltételek együttes megléte esetén nem kell kiépíteni:
 
 a) az I. osztályú biztonsági terület közvetlen környezetében személyi biztonsági tanúsítvánnyal rendelkező vagy a minősített adatot kezelő állami szervvel hivatásos szolgálati jogviszonyban, illetve a honvédek jogállásáról szóló törvény szerinti szolgálati viszonyban álló reagáló erő munkaidőn kívül legalább két óránként, véletlenszerű időpontban ellenőrzést hajt végre,
 
@@ -54,7 +54,7 @@ f) az I. osztályú biztonsági terület legalább 3. kategóriájú elektronika
 
 g) az I. osztályú biztonsági területet magába foglaló épület biztonsági világítással és zárt láncú kamerarendszerrel rendelkezik.
 
-[^60]: A 18. §-t a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés g) pontja hatályon kívül helyezte.
-[^61]: A 19. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^62]: A 19. § (5) bekezdése a 92/2010. (III. 31.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
-[^63]: A 19. § (6) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^62]: A 18. §-t a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés g) pontja hatályon kívül helyezte.
+[^63]: A 19. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^64]: A 19. § (5) bekezdése a 92/2010. (III. 31.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^65]: A 19. § (6) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be.

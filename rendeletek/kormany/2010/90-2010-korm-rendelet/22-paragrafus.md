@@ -6,8 +6,8 @@
 
 (2) A „Bizalmas!” vagy annál magasabb minősítési szintű minősített adat felhasználására kialakított helyszínen munkaidőn kívül minősített adatot nem tartalmazó elektronikus eszköz tárolása esetén a helyszín a biztonsági terület határán kialakított bejárathoz telepített beléptető rendszer mellett a 34. § szerinti személyes felügyelettel vagy elektronikai térvédelemmel és reagáló erő alkalmazásával biztosított.
 
-(3)[^67] A „Bizalmas!” vagy annál magasabb minősítési szintű minősített adatot tartalmazó papír alapú adathordozó – a munkaidőn túli birtokban tartás kivételével – adminisztratív zónában is felhasználható. Kivétel ez alól a NATO „Bizalmas!” vagy annál magasabb minősítési szintű minősített adat, valamint az EU és az EU intézményei „Szigorúan titkos!” minősítési szintű minősített adata, amely csak biztonsági területen használható fel.
+(3)[^69] A „Bizalmas!” vagy annál magasabb minősítési szintű minősített adatot tartalmazó papír alapú adathordozó – a munkaidőn túli birtokban tartás kivételével – adminisztratív zónában is felhasználható. Kivétel ez alól a NATO „Bizalmas!” vagy annál magasabb minősítési szintű minősített adat, valamint az EU és az EU intézményei „Szigorúan titkos!” minősítési szintű minősített adata, amely csak biztonsági területen használható fel.
 
 (4) Ha a minősített adatot képező objektum vagy tárgyi eszköz a mérete, vagy kialakítása miatt a 19–20. § szerint kialakított helyszínen nem helyezhető el és a minősített adat rendelkezésre állása más módon nem biztosítható, a biztonsági terület nyitott térben is kialakítható. Ennek során a helyszín a fizikai biztonsági intézkedések keretében a biztonsági terület határán kialakított bejárat beléptető rendszere mellett a 34. § szerinti személyes felügyelettel vagy elektronikai térvédelemmel és reagáló erővel vagy folyamatosan a helyszínen tartózkodó őrség alkalmazásával biztosított.
 
-[^67]: A 22. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^69]: A 22. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 11. §-ával megállapított szöveg.
