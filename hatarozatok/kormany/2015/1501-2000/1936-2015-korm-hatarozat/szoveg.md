@@ -52,7 +52,7 @@ a) felhívja az emberi erőforrások miniszterét, hogy – a művész bevonás�
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2016. január 31.
+Határidő: 2016. január 31.[^3]
 
 b) felhívja az emberi erőforrások miniszterét, hogy Szombathely Megyei Jogú Város Önkormányzata által kidolgozott tervek alapján, az a) alpont szerinti javaslatra vonatkozó döntést figyelembe véve – a forrásbiztosítás tekintetében a nemzetgazdasági miniszter és a belügyminiszter közreműködésével – tegyen javaslatot a Szombathelyi Képtárnak helyet adó épület felújításának támogatására,
 
@@ -62,7 +62,7 @@ nemzetgazdasági miniszter
 
 belügyminiszter
 
-Határidő: az épület felújítására vonatkozó önkormányzati terv kidolgozásához igazodva, a felújítás 2018. március 31-ig történő megvalósítását biztosítva
+Határidő: az épület felújítására vonatkozó önkormányzati terv kidolgozásához igazodva, a felújítás 2018. március 31-ig történő megvalósítását biztosítva[^4]
 
 6. a 2016. év Szent Márton Emlékévvé nyilvánításáról és az ahhoz kapcsolódó további feladatról szóló 1170/2015. (III. 24.) Korm. határozatban foglaltakat megerősítve kiemelten támogatja a Szombathelyi Szent Márton Terv és Szent Márton Programsorozat megvalósítását, amelyre figyelemmel
 
@@ -126,3 +126,5 @@ Határidő: azonnal
 
 [^1]: Az 1. pont c) alpontját az 1422/2016. (VII. 29.) Korm. határozat 10. pontja visszavonta.
 [^2]: Az 1. pont d) alpontját az 1657/2017. (IX. 13.) Korm. határozat 1. pontja iktatta be.
+[^3]: Az 1495/2018. (X. 10.) Korm. határozat 2. pontja alapján az 5. pont a) alpontja szerinti határidő 2018. december 31.
+[^4]: Az 1495/2018. (X. 10.) Korm. határozat 2. pontja alapján az 5. pont b) alpontja szerinti határidő 2020. december 31.
