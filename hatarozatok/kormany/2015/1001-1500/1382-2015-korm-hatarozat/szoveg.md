@@ -46,9 +46,9 @@ Felelős: emberi erőforrások minisztere
 
 nemzeti fejlesztési miniszter
 
-Határidő: első ütem, a tervezés lezárására: 2016. március 31.
+Határidő: első ütem, a tervezés lezárására: 2016. március 31.[^1]
 
-második ütem, a teljes körű felújítás megkezdése legkésőbb: 2018. március 15.
+második ütem, a teljes körű felújítás megkezdése legkésőbb: 2018. március 15.[^2]
 
 7. felhívja a nemzetgazdasági minisztert és a Miniszterelnökséget vezető minisztert, hogy tegyenek javaslatot a Kormány részére a debreceni Nagyerdő program befejezésének támogatására;
 
@@ -65,3 +65,6 @@ Felelős: belügyminiszter
 Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
+
+[^1]: Az 1495/2018. (X. 10.) Korm. határozat 1. pontja alapján az első ütem határideje 2019. augusztus 31.
+[^2]: Az 1495/2018. (X. 10.) Korm. határozat 1. pontja alapján a második ütem határideje 2020. február 1.
