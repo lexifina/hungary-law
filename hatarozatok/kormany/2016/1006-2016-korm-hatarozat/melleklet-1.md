@@ -284,13 +284,13 @@
 
 | 5. | GINOP-7.1.4-16 | Egyházi kulturális örökség turisztikai fejlesztése | 7,01 | standard | Meghirdetve 2016. júniusban |
 
-| 6. | GINOP-7.1.5-16 | Nemzeti parkok komplex turisztikai fejlesztése | 4,06 | standard | Meghirdetve 2016. márciusban |
+| 6. | GINOP-7.1.5-16 | Nemzeti parkok komplex turisztikai fejlesztése | 4,31 | standard | Meghirdetve 2016. márciusban |
 
 | 7. | GINOP-7.1.6-16 | Világörökségi helyszínek fejlesztése | 11,50 | standard | Meghirdetve 2016. októberben |
 
 | 7a. | GINOP-7.1.8-18 | Turisztikai attrakciók minősítési feltételrendszerének kialakítása | 1,00 | kiemelt | Meghirdetve 2018. januárban |
 
-| 8. | GINOP-7.1.9-17 | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése | 43,49 | standard | Meghirdetve 2017. márciusban |
+| 8. | GINOP-7.1.9-17 | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése | 43,24 | standard | Meghirdetve 2017. márciusban |
 
 8. A pénzügyi eszközökről szóló 8. prioritás
 
@@ -354,4 +354,4 @@
 [^4]: Az 1/A. pont d) alpontját az 1837/2017. (XI. 9.) Korm. határozat 1. pontja iktatta be.
 [^5]: Az 1/A. pont e) alpontját az 1092/2018. (III. 13.) Korm. határozat 1. pontja iktatta be.
 [^6]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja, az 1837/2017. (XI. 9.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1885/2017. (XI. 30.) Korm. határozat 2. pont a) alpontja, 3. pont 3.1–3.6. alpontja, az 1092/2018. (III. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1339/2018. (VII. 25.) Korm. határozat 1. pont a) alpontja és 2. pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja, az 1547/2016. (X. 19.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1859/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1.–2.7. pontja, az 1271/2017. (V. 29.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.6. alpontja, az 1837/2017. (XI. 9.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1885/2017. (XI. 30.) Korm. határozat 2. pont a) alpontja, 3. pont 3.1–3.6. alpontja, az 1092/2018. (III. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1339/2018. (VII. 25.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1490/2018. (X. 9.) Korm. határozat 3. pontja szerint módosított szöveg.
