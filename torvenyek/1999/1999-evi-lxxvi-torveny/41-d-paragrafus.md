@@ -1,4 +1,4 @@
-41/D. § (1) A 41/C. § (1) bekezdés e) pontja szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül a Hivatalnál kell benyújtani, amely azt az ügy irataival együtt – a (2) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz.
+41/D. § (1) A 41/C. § (2) bekezdés e) pontja szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül a Hivatalnál kell benyújtani, amely azt az ügy irataival együtt – a (2) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz.
 
 (2) Ha a kérelem elvi jelentőségű jogkérdést vet fel, a Hivatal e kérdésben írásbeli nyilatkozatot tehet és azt a kérelemmel, valamint az ügy irataival együtt harminc napon belül továbbítja a bírósághoz.
 

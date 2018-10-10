@@ -10,7 +10,7 @@ a) tudományos kutatáshoz vagy archiváláshoz szükséges,
 
 b) nyilvános könyvtári ellátás vagy a 38. § (5) bekezdésében meghatározott felhasználás céljára készül,
 
-c) megjelent mű kisebb részéről, illetve újság- vagy folyóiratcikkről belső intézményi célra készül, vagy
+c) megjelent mű kisebb részéről, továbbá újság- vagy folyóiratcikkről belső intézményi célra készül, vagy
 
 d)
 

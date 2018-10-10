@@ -2,9 +2,9 @@
 
 (2) Az általános közigazgatási rendtartásról szóló törvényt a következő eltérésekkel és kiegészítésekkel kell alkalmazni:
 
-a) a Hivatal a tényeket a kérelem keretei között, az ügyfél nyilatkozatai és állításai alapján vizsgálja;
+a) a Hivatal a tényeket a kérelem keretei között, az ügyfél nyilatkozatai és állításai alapján vizsgálja azzal, hogy az ügyfél hiánypótlásra vagy nyilatkozattételre két alkalommal is felhívható;
 
-b) a kérelem a kormányabaknál nem terjeszthető elő;
+b) a kérelem a kormányablaknál nem terjeszthető elő;
 
 c) nem alkalmazható az általános közigazgatási rendtartásról szóló törvény 26. §-a;
 
