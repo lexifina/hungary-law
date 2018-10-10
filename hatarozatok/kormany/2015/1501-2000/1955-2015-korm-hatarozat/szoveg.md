@@ -58,11 +58,11 @@ Felelős: emberi erőforrások minisztere
 
 nemzetgazdasági miniszter
 
-Határidő: 2016. február 29.
+Határidő: 2016. február 29.[^2]
 
 c) egyetért azzal, hogy a Nyíregyházi Állatpark fejlesztési lehetőségeinek áttekintésére a hazai állatkertek fejlesztésének átfogó koncepciójával foglalkozó külön munkacsoport keretei között kerüljön sor;
 
-7. egyetért azzal, hogy a nyíregyházi tiszavasvári úti sporttelepen kormányzati támogatással atlétikai centrum kerüljön 2018. március 31-ig[^2] megépítésre, és felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy Nyíregyháza Megyei Jogú Város Önkormányzatával együttműködve tegyenek javaslatot a Kormány részére az atlétikai centrum megvalósítását szolgáló beruházás koncepciójára és a beruházás megvalósításának a támogatására;
+7. egyetért azzal, hogy a nyíregyházi tiszavasvári úti sporttelepen kormányzati támogatással atlétikai centrum kerüljön 2018. március 31-ig[^3] megépítésre, és felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy Nyíregyháza Megyei Jogú Város Önkormányzatával együttműködve tegyenek javaslatot a Kormány részére az atlétikai centrum megvalósítását szolgáló beruházás koncepciójára és a beruházás megvalósításának a támogatására;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -79,4 +79,5 @@ emberi erőforrások minisztere
 Határidő: 2016. március 31.
 
 [^1]: Az 1. pont az 1209/2018. (IV. 5.) Korm. határozat 5. pontjával megállapított szöveg.
-[^2]: Az 1528/2017. (VIII. 14.) Korm. határozat alapján a Kormány – a Magyarország Kormánya és Nyíregyháza Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1955/2015. (XII. 17.) Korm. határozat 7. pontjától eltérően – egyetért azzal, hogy 2019. május 31-ig kerüljön megépítésre a nyíregyházi tiszavasvári úti sporttelepen kormányzati támogatással atlétikai centrum.
+[^2]: Az 1495/2018. (X. 10.) Korm. határozat 3. pontja alapján a 6. pont b) alpontja szerinti határidő 2018. december 31.
+[^3]: Az 1528/2017. (VIII. 14.) Korm. határozat alapján a Kormány – a Magyarország Kormánya és Nyíregyháza Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1955/2015. (XII. 17.) Korm. határozat 7. pontjától eltérően – egyetért azzal, hogy 2019. május 31-ig kerüljön megépítésre a nyíregyházi tiszavasvári úti sporttelepen kormányzati támogatással atlétikai centrum.

@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1955-30
 | 2015-12-17 | 2015-1955-30-22.1 | 1955/2015. (XII. 17.) Korm. határozat |
 | 2017-08-14 | 2015-1955-30-22.2 | 1528/2017. (VIII. 14.) Korm. határozat |
 | 2018-04-05 | 2015-1955-30-22.3 | 1209/2018. (IV. 5.) Korm. határozat |
+| 2018-10-10 | 2015-1955-30-22.4 | 1495/2018. (X. 10.) Korm. határozat |
