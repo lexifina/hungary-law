@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-11-20-2
 | 2016-07-11 | 2011-11-20-2V.14 | 3/2015. (I. 14.) EMMI rendelet |
 | 2017-01-01 | 2011-11-20-2V.15 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2017-01-05 | 2011-11-20-2V.16 | 2/2012. (I. 3.) NEFMI rendelet |
+| 2018-10-11 | 2011-11-20-2V.17 | 83/2022. (XII. 30.) BM rendelet |

@@ -30,13 +30,13 @@ n) gyógyszer indikátor ATC csoport: C09,
 
 o) gyógyszer indikátor ATC csoport: C10,
 
-p)[^4] gondozásban részesült krónikus obstruktív tüdőbetegek (COPD) aránya.
+p)[^5] gondozásban részesült krónikus obstruktív tüdőbetegek (COPD) aránya.
 
 (2) A gyermek körzetek a következő indikátorok alapján kerülnek értékelésre az 1. mellékletben meghatározottak szerint:
 
-a)[^5]
+a)[^6]
 
-b)[^6] meningococcus védőoltásban részesültek aránya a 3–24 hónaposak körében,
+b)[^7] meningococcus védőoltásban részesültek aránya a 3–24 hónaposak körében,
 
 c) vaspótló kezelésben részesültek aránya a 10–18 éves lányok esetében,
 
@@ -46,17 +46,17 @@ e) ügyeleti ellátásban részesültek aránya a betegforgalom tükrében,
 
 f) antibiotikumos kezelésben részesültek aránya,
 
-g)[^7] colecalciferol belsőleges oldatos csepp gyógyszerformájú készítmény adásában részesültek aránya a 3 éves kor alattiak körében,
+g)[^8] colecalciferol belsőleges oldatos csepp gyógyszerformájú készítmény adásában részesültek aránya a 3 éves kor alattiak körében,
 
-h)[^8] szűrővizsgálatok végzésének aránya a 6 éves kor alattiak körében,
+h)[^9] szűrővizsgálatok végzésének aránya a 6 éves kor alattiak körében,
 
-i)[^9] kizárólag anyatejes táplálásban részesültek aránya a 6 hónapos kor alattiak körében.
+i)[^10] kizárólag anyatejes táplálásban részesültek aránya a 6 hónapos kor alattiak körében.
 
 (3) Az (1) és (2) bekezdés szerinti indikátorok célcsoportjait, a célértékeket, az adott indikátorhoz kapcsolódóan kapható pontszámokat, az adatforrást és az indikátor számításának módját az 1. és 2. melléklet tartalmazza.
 
-[^4]: A 3. § (1) bekezdés p) pontját a 24/2014. (IV. 4.) EMMI rendelet 6. §-a iktatta be.
-[^5]: A 3. § (2) bekezdés a) pontját a 20/2012. (III. 28.) NEFMI rendelet 6. §-a hatályon kívül helyezte.
-[^6]: A 3. § (2) bekezdés b) pontja a 20/2012. (III. 28.) NEFMI rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^7]: A 3. § (2) bekezdés g) pontját a 20/2012. (III. 28.) NEFMI rendelet 2. § (2) bekezdése iktatta be.
-[^8]: A 3. § (2) bekezdés h) pontját a 20/2012. (III. 28.) NEFMI rendelet 2. § (2) bekezdése iktatta be.
-[^9]: A 3. § (2) bekezdés i) pontját a 20/2012. (III. 28.) NEFMI rendelet 2. § (2) bekezdése iktatta be.
+[^5]: A 3. § (1) bekezdés p) pontját a 24/2014. (IV. 4.) EMMI rendelet 6. §-a iktatta be.
+[^6]: A 3. § (2) bekezdés a) pontját a 20/2012. (III. 28.) NEFMI rendelet 6. §-a hatályon kívül helyezte.
+[^7]: A 3. § (2) bekezdés b) pontja a 20/2012. (III. 28.) NEFMI rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (2) bekezdés g) pontját a 20/2012. (III. 28.) NEFMI rendelet 2. § (2) bekezdése iktatta be.
+[^9]: A 3. § (2) bekezdés h) pontját a 20/2012. (III. 28.) NEFMI rendelet 2. § (2) bekezdése iktatta be.
+[^10]: A 3. § (2) bekezdés i) pontját a 20/2012. (III. 28.) NEFMI rendelet 2. § (2) bekezdése iktatta be.

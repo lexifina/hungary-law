@@ -1,5 +1,3 @@
-## I. Felnőtt és vegyes körzet indikátorai
-
 ## 1. Influenza elleni védőoltás indikátor (HSZI%) [3. § (1) bekezdés a) pontja]
 
 ## 1.1. Célcsoport: A háziorvosi szolgáltatóhoz bejelentkezett 65 éves és a feletti biztosítottak
@@ -112,7 +110,7 @@
 
 ## 2.3. Számítás:
 
-## NSZm% = NSZm / BB45–65 *100
+## NSZm% = NSZm / BB45–65*100
 
 ## NSZm%: a praxis TAJ körében népegészségügyi célú szervezett emlőszűrésen (mammográfia) részt vettek aránya
 
@@ -216,7 +214,7 @@
 
 ## 3.3. Számítás:
 
-## HSZGH1% = HSZGH1 / BB40–54 * 100
+## HSZGH1% = HSZGH1 / BB40–54* 100
 
 ## HSZGH1%: a praxis TAJ körében a rendszeresen vérnyomáscsökkentőt szedők aránya
 
@@ -320,7 +318,7 @@
 
 ## 4.3. Számítás:
 
-## HSZGH2% = HSZGH2 / BB55–69 * 100
+## HSZGH2% = HSZGH2 / BB55–69* 100
 
 ## HSZGH2%: a praxis TAJ körében a rendszeresen vérnyomáscsökkentőt szedők aránya
 
@@ -632,7 +630,7 @@
 
 ## 7.3. Számítás:
 
-## HSZGI% = HSZGI / BBi *100
+## HSZGI% = HSZGI / BBi*100
 
 ## HSZGI%: a praxis TAJ körében ischaemiás szívbetegek közül a rendszeresen béta-blokkolót szedők aránya
 
@@ -1122,7 +1120,7 @@
 
 ## 3.3. Számítás:
 
-## HSZV10–18% = HSZV10–18 / BB10–18 *100
+## HSZV10–18% = HSZV10–18/ BB10–18*100
 
 ## HSZV10–18%: a praxis TAJ körében vaspótló készítmény szedésének aránya a 10–18 éves lányok között
 
@@ -1278,7 +1276,7 @@
 
 ## 6.3. Számítás:
 
-## HSZA0–18% = HSZA0–18 / BB0–18 *100
+## HSZA0–18% = HSZA0–18/ BB0–18*100
 
 ## HSZA0–18%: a praxis TAJ körében antibiotikum rendelés aránya a 0–18 éves korúak között
 
@@ -1408,7 +1406,7 @@
 
 ## 9.6. Pontszám: 2
 
-2. melléklet a 11/2011. (III. 30.) NEFMI rendelethez[^18]
+2. melléklet a 11/2011. (III. 30.) NEFMI rendelethez[^19]
 
 I.
 
@@ -1442,7 +1440,7 @@ II.
 
 1.1.8. esomeprazol
 
-1.2. CÉLÉRTÉK: 9,15 Ft
+1.2. CÉLÉRTÉK: 9,67 Ft
 
 1.3. DOT korlát: 2000/negyedév
 
@@ -1458,7 +1456,7 @@ II.
 
 2.1.4. glimepirid
 
-2.2. CÉLÉRTÉK: 13,57 Ft
+2.2. CÉLÉRTÉK: 13,78 Ft
 
 2.3. DOT korlát: 2000/negyedév
 
@@ -1528,7 +1526,7 @@ II.
 
 3.1.31. telmisartan és amlodipin
 
-3.2. CÉLÉRTÉK: 11,50 Ft
+3.2. CÉLÉRTÉK: 11,67 Ft
 
 3.3. DOT korlát: 2000/negyedév
 
@@ -1556,8 +1554,8 @@ II.
 
 4.1.10. atorvastatin és amlodipin
 
-4.2. CÉLÉRTÉK: 25,30 Ft
+4.2. CÉLÉRTÉK: 25,12 Ft
 
 4.3. DOT korlát: 2000/negyedév
 
-[^18]: A 2. melléklet a 2/2012. (I. 3.) NEFMI rendelet 24. §-a, a 10/2012. (VII. 19.) EMMI rendelet 27. §-a, a 35/2012. (X. 31.) EMMI rendelet 2. §-a, az 56/2013. (VII. 31.) EMMI rendelet 44. §-a, a 76/2013. (XII. 10.) EMMI rendelet 7. §-a, a 41/2014. (VI. 30.) EMMI rendelet 20. §-a, a 47/2015. (X. 19.) EMMI rendelet 37. §-a, a 7/2016. (III. 30.) EMMI rendelet 29. §-a, a 13/2016. (VII. 8.) EMMI rendelet 1. §-a, a 44/2016. (XII. 28.) EMMI rendelet 55. §-a szerint módosított szöveg.
+[^19]: A 2. melléklet a 2/2012. (I. 3.) NEFMI rendelet 24. §-a, a 10/2012. (VII. 19.) EMMI rendelet 27. §-a, a 35/2012. (X. 31.) EMMI rendelet 2. §-a, az 56/2013. (VII. 31.) EMMI rendelet 44. §-a, a 76/2013. (XII. 10.) EMMI rendelet 7. §-a, a 41/2014. (VI. 30.) EMMI rendelet 20. §-a, a 47/2015. (X. 19.) EMMI rendelet 37. §-a, a 7/2016. (III. 30.) EMMI rendelet 29. §-a, a 13/2016. (VII. 8.) EMMI rendelet 1. §-a, a 44/2016. (XII. 28.) EMMI rendelet 55. §-a, a 33/2018. (X. 10.) EMMI rendelet 2. §-a szerint módosított szöveg.
