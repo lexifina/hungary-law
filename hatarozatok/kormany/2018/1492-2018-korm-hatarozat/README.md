@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1492-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-10-10 | 2018-1492-30-22.1 | 1492/2018. (X. 9.) Korm. határozat |
+| 2018-10-11 | 2018-1492-30-22.2 | 2010: CXXX. törvény |
