@@ -1,1 +1,0 @@
-## 1. § Az Emberi Erőforrás Fejlesztési Operatív Program keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 25/2018. (II. 26.) Korm. rendelet (a továbbiakban: Rendelet) 1. melléklete az 1. melléklet szerint módosul.
