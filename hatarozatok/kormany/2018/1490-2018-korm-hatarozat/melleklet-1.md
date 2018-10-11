@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat 1. melléklet 7. pontjában foglalt táblázat
-
-## a) C:6 mezőjében a „4,06” szövegrész helyébe a „4,31” szöveg,
-
-## b) C:8 mezőjében a „43,49” szövegrész helyébe a „43,24” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1490/2018. (X. 9.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (nettó, Ft) | Többlettámogatás legfeljebb (nettó, Ft) | Megnövelt támogatás legfeljebb (nettó, Ft) | Projekt rövid bemutatása |
 
 | 2. | GINOP-7.1.5-16- 2016-00002 | Kis-Balaton Látogatóközpont kialakítása és a Diás-szigeti Fekete István Emlékhely fejlesztése | Balaton-felvidéki Nemzeti Park Igazgatóság | 949 816 536 | 244 968 812 | 1 194 785 348 | A projekt eredményeként kialakításra kerül a Kis-Balaton Látogatóközpont tájba illeszkedő modern épületben, és megvalósul a Fekete István Emlékhely épületének rekonstrukciója. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
