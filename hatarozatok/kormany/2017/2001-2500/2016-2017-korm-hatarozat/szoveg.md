@@ -82,19 +82,27 @@ Határidő: az átcsoportosítás tekintetében azonnal
 
 a fel nem használt rész visszafizetése tekintetében a 15. pont a) alpontjában meghatározott jelentés tudomásulvételét követő 15 napon belül
 
+11a.[^1] egyetért azzal, hogy – a 9. és 11. ponttól eltérően – a 222/2017. (VIII. 11.) Korm. rendelet 2. § (2) bekezdés f), j), k), l) és m) pontjában foglalt előkészítési fázisokra – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak összegével együtt –
+
+a) a 2. pont b) alpontjában meghatározott beruházás tekintetében 275 789 899 forint,
+
+b) a 2. pont c) alpontjában meghatározott beruházás tekintetében 2 724 210 101 forint
+
+forrás kerüljön felhasználásra;
+
 12. egyetért azzal, hogy a 9. pontban meghatározott előkészítési fázist a KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: KKBK Nonprofit Zrt.) valósítsa meg;
 
 13. felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszter közreműködésével gondoskodjon a 2. pontban meghatározott beruházások előkészítésével összefüggő feladatok – a Beruházás Előkészítési Alap terhére nem támogatott előkészítési fázisok tekintetében, a 9. pontban biztosított forráson felül történő – finanszírozása érdekében, a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak összegével együtt
 
-a) a 2018. évben 8 025 000 000 forint, a 2019. évben 12 230 000 000 forint, a 2020. évben 6 482 000 000 forint, a 2021. évben 6 876 000 000 forint és a 2022. évben 1 270 000 000 forint forrás biztosításáról a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezet javára a KKBK Nonprofit Zrt. részére felhasználható módon,
+a)[^2] a 2018. évben 4 249 000 000 forint, a 2019. évben 12 230 000 000 forint, a 2020. évben 10 258 000 000 forint, a 2021. évben 6 876 000 000 forint és a 2022. évben 1 270 000 000 forint forrás biztosításáról a központi költségvetés XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, 5. Kemény Ferenc Program jogcím javára a KKBK Nonprofit Zrt. részére felhasználható módon.
 
-Felelős: nemzetgazdasági miniszter
+Felelős: pénzügyminiszter
 
-nemzeti fejlesztési miniszter
+Miniszterelnökséget vezető miniszter
 
-Határidő: a 2018. évi forrás tekintetében a felmerülés ütemében
+Határidő: a 2018. és 2019. évi forrás tekintetében a felmerülés ütemében
 
-a 2019., a 2020., a 2021. és a 2022. évi források tekintetében az adott évi központi költségvetés tervezése során
+a 2020., a 2021. és a 2022. évi források tekintetében az adott évi központi költségvetés tervezése során
 
 b) a 2018. évben 1 400 000 000 forint, a 2019. évben 1 400 000 000 forint, 2020. évben 358 000 000 forint és 2021. évben 100 000 000 forint pótlólagos forrás biztosításáról a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezet javára, a KKBK Nonprofit Zrt. által, a KKBK Nonprofit Zrt. működési támogatásával egységesen felhasználható módon;
 
@@ -110,13 +118,13 @@ a 2019., a 2020. és a 2021. évi források tekintetében az adott évi központ
 
 15. felhívja a kormánybiztost, hogy
 
-a) készítsen jelentést a Kormány számára a 222/2017. (VIII. 11.) Korm. rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében, a 9. pontban meghatározott előkészítési fázis végrehajtásának állapotáról, valamint az átcsoportosított forrás felhasznált összegéről,
+a)[^3] készítsen jelentést a Kormány számára a 222/2017. (VIII. 11.) Korm. rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében, a 11a. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint az átcsoportosított forrás felhasznált összegéről,
 
 Felelős: egyes kiemelt budapesti beruházásokért felelős kormánybiztos
 
 Határidő: 2019. január 30.
 
-b) az előkészítési fázis eredménye alapján készítsen előterjesztést a Kormány részére az előkészítés folytatásának kérdéséről;
+b)[^4] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az előkészítés folytatásának kérdéséről;
 
 Felelős: egyes kiemelt budapesti beruházásokért felelős kormánybiztos
 
@@ -128,8 +136,14 @@ Felelős: egyes kiemelt budapesti beruházásokért felelős kormánybiztos
 
 Határidő: a 2. pontban meghatározott egyes beruházásokra vonatkozó előkészítési és tervezési feladat lezárulását követően azonnal
 
-17. felhívja a kormánybiztost, hogy – a 15. és a 16. pont figyelembevételével – készítsen jelentést és számoljon be a Kormány részére minden költségvetési évben egyszer a 2. pontban meghatározott beruházások előkészítésének előrehaladásáról, valamint a 9. pont és a 13. pont szerinti források felhasználásáról.
+17.[^5] felhívja a kormánybiztost, hogy – a 15. és a 16. pont figyelembevételével – készítsen jelentést és számoljon be a Kormány részére minden költségvetési évben egyszer a 2. pontban meghatározott beruházások előkészítésének előrehaladásáról, valamint – a 11a. pont figyelembevételével – a 9. pont és a 13. pont szerinti források felhasználásáról.
 
 Felelős: egyes kiemelt budapesti beruházásokért felelős kormánybiztos
 
 Határidő: 2022-ig évente december 31-ig
+
+[^1]: A 11a. pontot az 1502/2018. (X. 12.) Korm. határozat 2. pontja iktatta be.
+[^2]: A 13. pont a) alpontja az 1502/2018. (X. 12.) Korm. határozat 3. pontjával megállapított szöveg.
+[^3]: A 15. pont a) alpontja az 1502/2018. (X. 12.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^4]: A 15. pont b) alpontja az 1502/2018. (X. 12.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^5]: A 17. pont az 1502/2018. (X. 12.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
