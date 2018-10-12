@@ -1,9 +1,1 @@
 6. § A 2012. évi XXIII. törvénnyel kihirdetett, a Magyarország Kormánya és a Szlovák Köztársaság Kormánya között a két ország közös államhatárán, Ipolydamásd és Helemba (Chl'aba) települések közötti közúti Ipoly-híd és a kapcsolódó létesítmények megépítéséről szóló Megállapodásnak a Kiegészítéssel egységes szerkezetbe foglalt, magyar nyelvű szövege közzétételéről a Kiegészítés hatálybalépését követően a közlekedésért felelős miniszter haladéktalanul gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
