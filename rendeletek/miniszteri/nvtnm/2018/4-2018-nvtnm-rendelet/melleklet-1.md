@@ -1,4 +1,4 @@
-## 5. § Hatályát veszti a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet központi kezelésű előirányzatai felhasználásáról szóló 18/2017. (VI. 16.) NFM rendelet.
+## 5. §[^2]
 
 1. melléklet a 4/2018. (X. 10.) NVTNM rendelethez
 
@@ -107,3 +107,5 @@
 | 50 | 278434 |  |  | Egyéb vagyonkezelési kiadások | Az előirányzat olyan kifizetésekre biztosít forrást, melyek az MNV Zrt. tulajdonosi joggyakorlásához kapcsolódnak és más előirányzati jogcímhez nem kapcsolhatók. Ilyen kiadások különösen, de nem kizárólagosan az MNV Zrt. által bérelt ingatlanok bérleti díjai, üzemeltetési jogok megváltásának kiadásai, az állami örökléssel kapcsolatos kiadások (főként hagyatéki hitelezői igények, temetési költségek, hagyatéki ingóságok szállítási költségei), egyes kártérítési, kártalanítási kiadások (amennyiben a kártalanítás megfizetésével az MNV Zrt. nem ingó- vagy ingatlan vételárat fizet meg). A kiadásokhoz előzetesen felszámított általános forgalmi adófizetés is kapcsolódhat. | A szolgáltatások teljesítését végző szerződéses partnerek, hatóságok, hivatali szervezetek. | - | - | Szerződés, megállapodás, hatósági előírás alapján | - | - | MNV Zrt. | - | - |
 
 | 51 | 278645 |  | Fejezeti tartalék |  | Az előirányzat a fejezet év közben felmerülő, előre nem látható kiadásaira használható fel. | - | - | - | Az előirányzat felhasználása fejezeten belüli átcsoportosítással történik a Fejezeti tartalék éves költségvetési törvényben meghatározott felhasználási szabályai szerint | - | - |  | - | - |
+
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
