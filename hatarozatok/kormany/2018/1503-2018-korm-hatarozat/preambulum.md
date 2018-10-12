@@ -1,0 +1,1 @@
+A Kormány – figyelemmel a Magyarország Kormánya és Sopron Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1217/2015. (IV. 17.) Korm. határozat 4. pontjára –
