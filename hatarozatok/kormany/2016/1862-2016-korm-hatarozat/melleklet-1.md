@@ -112,7 +112,7 @@ A Sopron-Fertő kiemelt turisztikai fejlesztési térségben európai uniós és
 
 | 11. | Belvárosi középkori várnegyed fejlesztése | 7,345 | hazai forrás |
 
-| 12. | Lőverek program (Modern Városok Program) | Fedett uszoda építése | 6,3 | hazai forrás |
+| 12. | Lőverek program (Modern Városok Program) | Fedett uszoda építése | 14,86 | hazai forrás |
 
 | 13. | Strandmedece megújítása | 0,3 | hazai forrás |
 
@@ -132,4 +132,4 @@ A Sopron-Fertő kiemelt turisztikai fejlesztési térségben európai uniós és
 
 | 21. | Vendégfogadás és szállásadás infrastruktúrájának megteremtése a Fertő tónál | 10,05 | hazai forrás |
 
-[^1]: Az 1. melléklet az 1527/2017. (VIII. 14.) Korm. határozat 3. pontja, az 1062/2018. (II. 26.) Korm. határozat 2. pontja és 6. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1527/2017. (VIII. 14.) Korm. határozat 3. pontja, az 1062/2018. (II. 26.) Korm. határozat 2. pontja és 6. pontja, az 1503/2018. (X. 12.) Korm. határozat 7. pontja szerint módosított szöveg.
