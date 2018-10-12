@@ -1,0 +1,1 @@
+## „(10a) A szállítás – a kérelmező felelősségére – a Kincstárnak a (2d) bekezdés szerint benyújtott kérelem tárgyában hozott döntése hiányában is megkezdhető, azonban kifizetési kérelem csak a Kincstár általi jóváhagyást követően nyújtható be.”
