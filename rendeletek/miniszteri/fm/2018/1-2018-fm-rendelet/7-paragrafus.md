@@ -34,13 +34,13 @@ a) ha a tevékenység nem saját tulajdonú ingatlanon valósul meg, az azt igaz
 
 b) ha a tevékenység más személy rendelkezési jogával terhelt ingatlanon valósul meg, az azt igazoló, 2. melléklet szerinti adattartalmú, teljes bizonyító erejű, eredeti magánokiratot, amely alapján a kérelmező jogosult a tevékenységet megvalósítani, és az ingatlant a művelésben tartási kötelezettsége lejártáig használni;
 
-c) az újratelepítési engedély vagy az átváltott telepítési engedély másolatát;
+c)[^6] az újratelepítési engedély vagy az átváltott telepítési engedély másolatát, kivéve a 2. § c) pontja szerinti tevékenység esetén;
 
-d) a hegybíró igazolását a tevékenységgel érintett terület termőhelyi kataszteri osztályáról és pontértékéről, ha az újratelepítési engedély vagy az átváltott telepítési engedély nem tartalmazza a tevékenységgel érintett terület termőhelyi kataszteri osztályát és pontértékét;
+d)[^7] a hegybíró igazolását a tevékenységgel érintett terület termőhelyi kataszteri osztályáról és pontértékéről, ha az újratelepítési engedély vagy az átváltott telepítési engedély nem tartalmazza a tevékenységgel érintett terület termőhelyi kataszteri osztályát és pontértékét, kivéve a 2. § c) pontja szerinti tevékenység esetén;
 
-e)[^6] a hegybíró igazolását a 3. melléklet A rész A oszlop 15. és 20. soraiban, valamint a 3. melléklet C rész A oszlop 3. sorában, A oszlop 4. sorában foglaltak teljesüléséről (ha az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja);
+e)[^8] a hegybíró igazolását a 3. melléklet A rész A oszlop 15. és 20. soraiban, valamint a 3. melléklet C rész A oszlop 3. sorában, A oszlop 4. sorában foglaltak teljesüléséről (ha az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja);
 
-f)[^7] a 3. melléklet A rész A oszlop 13. sorában, a 3. melléklet B rész A oszlop 11. sorában, valamint a 3. melléklet C rész A oszlop 8. sorában foglaltaknak való megfelelést igazoló iratok másolatát (ha az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja);
+f)[^9] a 3. melléklet A rész A oszlop 13. sorában, a 3. melléklet B rész A oszlop 11. sorában, valamint a 3. melléklet C rész A oszlop 8. sorában foglaltaknak való megfelelést igazoló iratok másolatát (ha az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja);
 
 g) a 3. melléklet A rész A oszlop 11. sorában, a 3. melléklet B rész A oszlop 9. sorában foglaltaknak való megfelelést bor előállítására vonatkozó érvényes borászati üzem működési engedély másolatával, valamint kapcsolt vállalkozás esetén arra vonatkozó irat másolatával, hogy a bor előállítására vonatkozó érvényes borászati üzem működési engedéllyel rendelkező kapcsolt vállalkozás a kérelmező kapcsolt vállalkozása (ha az ott meghatározott pontértékeket a kérelmező érvényesíteni kívánja);
 
@@ -53,5 +53,7 @@ j) a szőlőültetvény termesztéstechnológiai módszereinek javítása eseté
 (6) A szőlőültetvény termesztéstechnológiai módszereinek javítása esetén a meglévő támberendezésről készített vázrajzban fel kell tüntetni az oszlopok és karók méretét, egymástól mért távolságát, a huzalok átmérőjét és talajtól mért távolságukat, valamint a végoszlop rögzítésmódját.
 
 [^5]: A 7. § (2) bekezdése a 7/2018. (VI. 26.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^6]: A 7. § (5) bekezdés e) pontja a 7/2018. (VI. 26.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^7]: A 7. § (5) bekezdés f) pontja a 7/2018. (VI. 26.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^6]: A 7. § (5) bekezdés c) pontja a 30/2018. (X. 11.) AM rendelet 15. §-ával megállapított szöveg.
+[^7]: A 7. § (5) bekezdés d) pontja a 30/2018. (X. 11.) AM rendelet 15. §-ával megállapított szöveg.
+[^8]: A 7. § (5) bekezdés e) pontja a 7/2018. (VI. 26.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^9]: A 7. § (5) bekezdés f) pontja a 7/2018. (VI. 26.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.

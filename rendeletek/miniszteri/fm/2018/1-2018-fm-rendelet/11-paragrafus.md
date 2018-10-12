@@ -18,10 +18,12 @@ a) amely esetében a műveletet az egyéni terv benyújtását megelőzően kezd
 
 b) amely az egyéni terv benyújtását megelőző 10 borpiaci éven belül szerkezetátalakítási támogatásban részesült;
 
-c) a b) pontban meghatározott időszakot megelőzően szerkezetátalakítási és átállítási támogatás keretében a kizárólag az ültetvény támberendezésének megújítását célzó támogatásban részesült;
+c)[^13] amely a b) pontban meghatározott időszakot megelőzően szerkezetátalakítási és átállítási támogatás keretében az ültetvény támberendezésének megújítását célzó támogatásban részesült;
 
 d) amely támogatható területnagysága kisebb, mint 0,2 ha;
 
 e) amennyiben a hegybíró igazolása alapján az egyéni tervben megjelölt terület nem minősül termő ültetvénynek.
 
 (3) Az egyéni tervben kizárólag olyan szőlőfajta szerepelhet, amelyet a borkészítésre alkalmas szőlőfajták osztályba sorolásáról szóló miniszteri rendelet alapján engedélyezett kategóriába soroltak, vagy amelyet a Btv. 2. § 9. pontjának megfelelően a minőségi bortermelést szolgáló kísérleti ültetvény létesítésére szánnak (a továbbiakban: kísérleti szőlőfajta). Egy egyéni tervben legfeljebb 2 ha kísérleti szőlőfajta ültetése vagy átoltása szerepelhet.
+
+[^13]: A 11. § (2) bekezdés c) pontja a 30/2018. (X. 11.) AM rendelet 16. §-ával megállapított szöveg.

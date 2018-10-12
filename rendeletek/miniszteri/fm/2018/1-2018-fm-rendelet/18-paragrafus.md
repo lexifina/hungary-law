@@ -16,7 +16,7 @@ f) a kérelmező nem a 16. § (1) bekezdésnek megfelelő szaporítóanyagot has
 
 g) az ültetvény telepítésekor az újratelepítési engedély vagy az átváltott telepítési engedély rendelkezéseitől eltérően jártak el;
 
-h)[^13] az ültetvény nem minősül az 1. § i) pontja szerinti ültetvénynek;
+h)[^16] az ültetvény nem minősül az 1. § i) pontja szerinti ültetvénynek;
 
 i) a helyszíni ellenőrzés során megállapítást nyer, hogy a kérelmező használatában álló ültetvény nem a kérelemben megjelölt helyrajzi számú területen található;
 
@@ -28,4 +28,4 @@ l) azt a jóváhagyott egyéni tervben megjelölt tevékenység végrehajtásán
 
 m) amennyiben a megvalósított támberendezés technológiailag nem megfelelő.
 
-[^13]: A 18. § h) pontja a 7/2018. (VI. 26.) AM rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^16]: A 18. § h) pontja a 7/2018. (VI. 26.) AM rendelet 4. § (6) bekezdésével megállapított szöveg.

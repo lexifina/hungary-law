@@ -14,7 +14,7 @@
 
 ## * a földrajzi árujelző termékleírásában körülhatárolt termőterületén belül a termékleírásban engedélyezett szőlőfajtákkal beültetett terület nagysága
 
-6. melléklet az 1/2018. (II. 1.) FM rendelethez
+6. melléklet az 1/2018. (II. 1.) FM rendelethez[^28]
 
 Ültetvényleltár
 
@@ -46,6 +46,8 @@ Művelésmód: ……………………………
 
 * Az oszlop akkor töltendő, amikor az ültetési munka művelet elszámolása történik.
 
-** Az oszlop akkor töltendő, amikor a két borpiaci éves végrehajtás esetén a támberendezés létesítés művelet elszámolása történik.
+** Az oszlop akkor töltendő, amikor a két borpiaci éves végrehajtás esetén a támberendezés létesítés művelet vagy a szőlőültetvény termesztéstechnológiai módszereinek javítása, tevékenységelszámolása történik.
 
 *** Az oszlop minden esetben töltendő!
+
+[^28]: A 6. melléklet a 30/2018. (X. 11.) AM rendelet 19. §-a szerint módosított szöveg.
