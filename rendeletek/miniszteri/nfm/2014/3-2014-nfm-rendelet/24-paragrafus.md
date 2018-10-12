@@ -2,6 +2,6 @@
 
 24. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2)[^19]
+(2)[^21]
 
-[^19]: A 24. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 24. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

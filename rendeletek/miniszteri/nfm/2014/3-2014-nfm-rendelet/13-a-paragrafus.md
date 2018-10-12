@@ -1,4 +1,4 @@
-13/A. §[^12] (1) A Mattyók Aladár-díj a sport infrastruktúra-fejlesztés terén kiemelkedő tevékenységet végzők munkájának elismerésére adományozható.
+13/A. §[^14] (1) A Mattyók Aladár-díj a sport infrastruktúra-fejlesztés terén kiemelkedő tevékenységet végzők munkájának elismerésére adományozható.
 
 (2) Évente legfeljebb 5 díj adományozható.
 
@@ -6,4 +6,4 @@
 
 (4) A díj a március 15-i és az október 23-i nemzeti ünnep, valamint kiemelkedő szakmai események alkalmából adományozható.
 
-[^12]: A 13/A. §-t a 36/2015. (VI. 29.) NFM rendelet 4. §-a iktatta be.
+[^14]: A 13/A. §-t a 36/2015. (VI. 29.) NFM rendelet 4. §-a iktatta be.

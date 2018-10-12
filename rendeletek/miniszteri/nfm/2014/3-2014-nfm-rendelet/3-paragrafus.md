@@ -10,11 +10,11 @@ c) a Kiváló Bányász kitüntető cím esetében a szakma reprezentatív munka
 
 d) a Gyimesi Zoltán-díj esetében az OAH főigazgatója és az OAH Tudományos Tanácsának elnöke együttesen,
 
-e)[^7] a Fogyasztóvédelemért Érdemérem esetében a fogyasztóvédelemért felelős miniszter vezetése alatt álló minisztérium szervezeti és működési szabályzatában kijelölt szakmai vezető,
+e)[^8] a Fogyasztóvédelemért Érdemérem esetében a fogyasztóvédelemért felelős miniszter vezetése alatt álló minisztérium szervezeti és működési szabályzatában kijelölt szakmai vezető,
 
-f)[^8] a Mattyók Aladár-díj esetében az állami vagyon felügyeletéért és az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter vezetése alatt álló minisztérium szervezeti és működési szabályzatában kijelölt állami vezető útján az állam vagy helyi önkormányzat többségi befolyása alatt álló, a sport infrastruktúra-fejlesztéssel foglalkozó, illetve sportrendezvényeket lebonyolító gazdasági társaságok vezetői, az országos sportági szakszövetségek elnökei,
+f)[^9] a Mattyók Aladár-díj esetében az állami vagyon felügyeletéért és az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter vezetése alatt álló minisztérium szervezeti és működési szabályzatában kijelölt állami vezető útján az állam vagy helyi önkormányzat többségi befolyása alatt álló, a sport infrastruktúra-fejlesztéssel foglalkozó, illetve sportrendezvényeket lebonyolító gazdasági társaságok vezetői, az országos sportági szakszövetségek elnökei,
 
-g)[^9] a Pro Turismo-díj esetében a turizmussal kapcsolatos állami feladatok koordinálásáért felelős kormánybiztos, a Magyar Turisztikai Ügynökség vezérigazgatója, valamint a turisztikai és vendéglátóipari szakmai szervezetek.
+g)[^10]
 
 (3) Az elismerés adományozására vonatkozó javaslatot az elismerés adományozásának tervezett időpontja előtt legalább 45 nappal a miniszternek címezve – az 1. melléklet szerinti formai és tartalmi követelmények szerint – kell benyújtani a minisztérium elismeréshez kapcsolódó szakterületért felelős önálló szervezeti egységénél.
 
@@ -34,6 +34,6 @@ d) jogi ügyekért felelős főosztályának vezetője.
 
 (7) A Kitüntetési Bizottság működését ügyrend szabályozza.
 
-[^7]: A 3. § (2) bekezdés e) pontját a 41/2014. (X. 15.) NFM rendelet 2. §-a iktatta be.
-[^8]: A 3. § (2) bekezdés f) pontját a 36/2015. (VI. 29.) NFM rendelet 3. §-a iktatta be.
-[^9]: A 3. § (2) bekezdés g) pontját a 37/2016. (IX. 5.) NFM rendelet 2. §-a iktatta be.
+[^8]: A 3. § (2) bekezdés e) pontját a 41/2014. (X. 15.) NFM rendelet 2. §-a iktatta be.
+[^9]: A 3. § (2) bekezdés f) pontját a 36/2015. (VI. 29.) NFM rendelet 3. §-a iktatta be.
+[^10]: A 3. § (2) bekezdés g) pontját a 37/2016. (IX. 5.) NFM rendelet 2. §-a iktatta be, hatályon kívül helyezte az 1/2018. (X. 11.) MK rendelet 8. § b) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 7. §-át.

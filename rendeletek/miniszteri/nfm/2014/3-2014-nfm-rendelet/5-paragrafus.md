@@ -1,4 +1,4 @@
-5. § (1)[^10] Elismerés adományozására a következő alkalmakból kerül sor:
+5. § (1)[^11] Elismerés adományozására a következő alkalmakból kerül sor:
 
 a) március 15-i nemzeti ünnep,
 
@@ -14,7 +14,7 @@ f) augusztus 20-i állami ünnep,
 
 g) Bányásznap (minden év szeptember hónap első vasárnapja),
 
-h) turisztikai világnap (szeptember 27.),
+h)[^12]
 
 i) október 23-i nemzeti ünnep,
 
@@ -34,4 +34,5 @@ l) kiemelkedő szakmai alkalom, esemény, évforduló.
 
 (6) A Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a minisztérium honlapján közzé kell tenni az elismerés tényét, az elismerésben részesített nevét, beosztását és érdemeit, az elismerés megnevezését, továbbá az elismerés esetleges visszavonásának tényét és időpontját.
 
-[^10]: Az 5. § (1) bekezdése a 37/2016. (IX. 5.) NFM rendelet 3. §-ával megállapított szöveg.
+[^11]: Az 5. § (1) bekezdése a 37/2016. (IX. 5.) NFM rendelet 3. §-ával megállapított szöveg.
+[^12]: Az 5. § (1) bekezdés h) pontját az 1/2018. (X. 11.) MK rendelet 8. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 7. §-át.
