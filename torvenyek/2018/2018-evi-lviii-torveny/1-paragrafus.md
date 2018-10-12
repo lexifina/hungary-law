@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Közép- és Kelet-európai Halászati Fejlesztési Nemzetközi Szervezet (EUROFISH) létrehozásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
