@@ -1,551 +1,609 @@
-## Az egyes jelentős dísznövény fajok/fajcsoportok szaporítóanyaga minőségét hátrányosan befolyásoló,
+## Az egyes jelentős dísznövény fajok szaporítóanyaga minőségét hátrányosan befolyásoló, jellemző kórokozók és kártevők
 
-## jellemző kórokozók és kártevők
+|  | A | B |
 
-| Nemzetség vagy faj | Kórokozók, kártevők |
+| 1. | Nemzetség vagy faj | Kórokozók, kártevők |
 
-| – Begonia x hiemalis Fotch | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 2. | 1. Begonia x hiemalis Fotsch | Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-|  | – Aleyrodidae, különösen Bemisia tabaci |
+| 3. |  | 1.1 Aleyrodidae, különösen Bemisia tabaci |
 
-|  | – Aphelenchoides sp. |
+| 4. |  | 1.2 Aphelenchoides spp. |
 
-|  | – Ditylenchus destructor |
+| 5. |  | 1.3 Ditylenchus destructor |
 
-|  | – Meloidogyne sp. |
+| 6. |  | 1.4 Meloidogyne spp. |
 
-|  | – Myzus ornatus |
+| 7. |  | 1.5 Myzus ornatus |
 
-|  | – Otiorhynchus sulcatus |
+| 8. |  | 1.6 Otiorrhynchus sulcatus |
 
-|  | – Sciara |
+| 9. |  | 1.7 Sciara |
 
-|  | – Thysanoptera, különösen Frankliniella occidentalis |
+| 10. |  | 1.8 Thysanoptera, különösen Frankliniella occidentalis |
 
-|  | Baktériumok |
+| 11. |  | 2. Baktériumok |
 
-|  | – Erwinia chrysanthemi |
+| 12. |  | 2.1 Erwinia chrysanthemi |
 
-|  | – Rhodococcus fascians |
+| 13. |  | 2.2 Rhodococcus fascians |
 
-|  | – Xanthomonas campestris pv. begoniae |
+| 14. |  | 2.3 Xanthomonas campestris pv. begoniae |
 
-|  | Gombák |
+| 15. |  | 3. Gombák |
 
-|  | – Lisztharmat |
+| 16. |  | 3.1 Lisztharmat |
 
-|  | – Szárrothadás kórokozói (Phytophthora spp., Pythium spp. és Rhizoctonia spp.) |
+| 17. |  | 3.2 Szárrothadás kórokozói (Phytophthora spp., Pythium spp. és Rhizoctonia spp.) |
 
-|  | Vírusok és vírusszerű szervezetek, és különösen |
+| 18. |  | 4. Vírusok és vírusszerű szervezetek, és különösen |
 
-|  | – Levélfodrosodás |
+| 19. |  | 4.1 Levélfodrosodás |
 
-|  | – Tospovírusok (Tomato spotted wilt virus, Impatiens necrotic spot virus) |
+| 20. |  | 4.2 Toszpovírusok (Tomato spotted wilt vírus, Impatiens necrotic spot vírus) |
 
-| – Citrus | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 21. | 2. Citrus | 5. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-|  | – Aleurothrixus floccosus (Maskell) |
+| 22. |  | 5.1 Aleurothrixus floccosus (Mashell) |
 
-|  | – Meloidogyne sp. |
+| 23. |  | 5.2 Meloidogyne spp. |
 
-|  | – Parabemisia myricae (Kuwana) |
+| 24. |  | 5.3 Parabemisia myricae (Kuwana) |
 
-|  | – Tylenchulus semipenetrans |
+| 25. |  | 5.4 Tylenchulus semipenetrans |
 
-|  | Gombák |
+| 26. |  | 6. Gombák |
 
-|  | – Phytophthora spp. |
+| 27. |  | 6.1 Phytophthora spp. |
 
-|  | Vírusok és vírusszerű szervezetek, és különösen |
+| 28. |  | 7. Vírusok és vírusszerű szervezetek és különösen |
 
-|  | – Viroidok, pl. exocortis, cachexia-xyloporosis |
+| 29. |  | 7.1 Viroidok, pl. exocortis, cachexia-xyloporosis |
 
-|  | – A fiatal levelek psorosis-jellegű tüneteit előidéző betegségek, pl. psorosis, ring spot, cristacortis, impietratura, Concave gum |
+| 30. |  | 7.2 A fiatal levelek psorosis-jellegű tüneteit előidéző betegségek |
 
-|  | – Infectious variegation (fertőző levéltarkaság) |
+| 31. |  | 7.3 Psorosis, Ring Spot, Cristacortis, Impietratura, Concave gum |
 
-|  | – Citrus leaf rugose |
+| 32. |  | 7.4 Infectious variegation |
 
-| – Dendranthema x grandiflorum | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 33. |  | 7.5 Citrus leaf rugose |
 
-| Kitamura | – Agromyzidae |
+| 34. | 3. Dendranthema x grandiflorum (Ramat) Kitam | 8. Rovarok, atkák és fonalférgek fejlődésük valamennyi stádiumában |
 
-|  | – Aleyrodidae, különösen Bemisia tabaci |
+| 35. |  | 8.1 Agromyzidae |
 
-|  | – Aphelenchoides sp. |
+| 36. |  | 8.2 Aleyrodidae, különösen Bemisia tabaci |
 
-|  | – Diarthronomyia chrysanthemi |
+| 37. |  | 8.3 Aphelenchoides spp. |
 
-|  | – Lepidoptera, különösen |
+| 38. |  | 8.4 Diarthronomia chrysanthemi |
 
-|  | Cacoecimorpha pronubana, Epichoristodes acerbella |
+| 39. |  | 8.5 Lepidoptera, különösen Cacoecimorpha pronubana, Epichoristodes Acerbella |
 
-|  | – Thysanoptera, különösen Frankliniella occidentalis |
+| 40. |  | 8.6 Thysanoptera, különösen Frankliniella occidentalis |
 
-|  | Baktériumok |
+| 41. |  | 9. Baktériumok |
 
-|  | – Agrobacterium tumefaciens |
+| 42. |  | 9.1 Agrobacterium tumefaciens |
 
-|  | – Erwinia chrysanthemi |
+| 43. |  | 9.2 Erwinia chrysanthemi |
 
-|  | Gombák |
+| 44. |  | 10. Gombák |
 
-|  | – Fusarium oxysporum f. sp. chrysanthemi |
+| 45. |  | 10.1 Fusarium oxisporum spp. chrysanthemi |
 
-|  | – Puccinia chrysanthemi |
+| 46. |  | 10.2 Puccinia chrysanthemi |
 
-|  | – Pythium spp. |
+| 47. |  | 10.3 Pythium spp. |
 
-|  | – Rhizoctonia solani |
+| 48. |  | 10.4 Rhizoctonia solani |
 
-|  | – Verticillium spp. |
+| 49. |  | 10.5 Verticillium spp. |
 
-|  | Vírusok és vírusszerű szervezetek, és különösen |
+| 50. |  | 11. Vírusok és vírusszerű szervezetek, és különösen |
 
-|  | – Chrysanthemum B mozaic virus |
+| 51. |  | 11.1 Chrysanthemum B mozaik vírus |
 
-|  | – Tomato aspermy cucumovirus |
+| 52. |  | 11.2 Tomato aspermy cucumo vírus |
 
-| – Dianthus caryophyllus L. | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 53. | 4. Dianthus caryophyllus L. és hibridjei | 12. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-| és hibridjei | – Agromyzidae |
+| 54. |  | 12.1 Agromyzidae |
 
-|  | – Aleyrodidae, különösen Bemisia tabaci |
+| 55. |  | 12.2 Aleyrodidae, különösen Bemisia tabaci |
 
-|  | – Thysanoptera, különösen Frankliniella occidentalis |
+| 56. |  | 12.3 Thysanoptera, különösen Frankliniella occidentalis |
 
-|  | – Lepidoptera, különösen |
+| 57. |  | 12.4 Lepidoptera, különösen Cacoecimorpha pronubana, Epichoristodes acerbella |
 
-|  | Cacoecimorpha pronubana, Epichoristodes acerbella |
+| 58. |  | 13. Gombák |
 
-|  | Gombák |
+| 59. |  | 13.1 Alternaria dianthi |
 
-|  | – Alternaria dianthi |
+| 60. |  | 13.2 Alternaria dianthicola |
 
-|  | – Alternaria dianthicola |
+| 61. |  | 13.3 Fusarium oxisporum f. spp. dianthi |
 
-|  | – Fusarium oxysporum f. sp. dianthi |
+| 62. |  | 13.4 Mycosphaerella dianthi |
 
-|  | – Mycosphaerella dianthi |
+| 63. |  | 13.5 Phytophthora nicotiana spp. parasitica |
 
-|  | – Phytophthora nicotianae var. parasitica |
+| 64. |  | 13.6 Rhizoctonia solani |
 
-|  | – Rhizoctonia solani |
+| 65. |  | 13.7 Szárrothadás: Fusarium spp. és Pythium spp. |
 
-|  | – Szárrothadás: Fusarium sp. és Pythium spp. |
+| 66. |  | 13.8 Uromyces dianthi |
 
-|  | – Uromyces dianthi |
+| 67. |  | 14. Vírusok és vírusszerű szervezetek és különösen |
 
-|  | Vírusok és vírusszerű szervezetek, és különösen |
+| 68. |  | 14.1 Carnation etched ring caulimovírus |
 
-|  | – Carnation etched ring caulimovirus |
+| 69. |  | 14.2 Carnation mottle carmovírus |
 
-|  | – Carnation mottle carmovirus |
+| 70. |  | 14.3 Carnation necrotic fleck closterovírus |
 
-|  | – Carnation necrotic fleck closterovirus |
+| 71. |  | 14.4 Toszpovírusok (Paradicsom foltos hervadását okozó vírus, Impatiens üszökfolt vírus) |
 
-|  | – Tospovírusok (Tomato spotted wilt virus, Impatiens necrotic spot virus) |
+| 72. | 5. Euphorbia pulcherrima (Willd. ex Klotzsch) | 15. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-| – Euphorbia pulcherrima | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 73. |  | 15.1 Aleyrodidae, különösen Bemisia tabaci |
 
-| (Willd. ex Klotzsch) | – Aleyrodidae, különösen Bemisia tabaci |
+| 74. |  | 16. Baktériumok |
 
-|  | Baktériumok |
+| 75. |  | 16.1 Erwinia chrysanthemi |
 
-|  | – Erwinia chrysanthemi |
+| 76. |  | 17. Gombák |
 
-|  | Gombák |
+| 77. |  | 17.1 Fusarium spp. |
 
-|  | – Fusarium sp. |
+| 78. |  | 17.2 Pythium ultimum |
 
-|  | – Pythium ultimum |
+| 79. |  | 17.3 Phytophthora spp. |
 
-|  | – Phytophthora spp. |
+| 80. |  | 17.4 Rhizoctonia solani |
 
-|  | – Rhizoctonia solani |
+| 81. |  | 17.5 Thielaviopsis basicola |
 
-|  | – Thielaviopsis basicola |
+| 82. |  | 18. Vírusok és vírusszerű szervezetek és különösen |
 
-|  | Vírusok és vírusszerű szervezetek, és különösen |
+| 83. |  | 18.1 Toszpovírusok (Tomato spotted wilt vírus, Impatiens spot vírus) |
 
-|  | Tospovírusok (Tomato spotted wilt virus, Impatiens necrotic spot virus) |
+| 84. | 6. Gerbera L. | 19. Rovarok, atkák és fonálférgek a fejlődésük valamennyi stádiumában |
 
-| – Gerbera L. | Rovarok, atkák és fonalférgek a fejlődésük valamennyi szakaszában |
+| 85. |  | 19.1 Agromyzidae |
 
-|  | – Agromyzidae |
+| 86. |  | 19.2 Aleurodidae, különösen Bemisia tabaci |
 
-|  | – Aleyrodidae, különösen Bemisia tabaci |
+| 87. |  | 19.3 Aphelenchoides spp. |
 
-|  | – Aphelenchoides sp. |
+| 88. |  | 19.4 Lepidoptera |
 
-|  | – Lepidoptera |
+| 89. |  | 19.5 Meloidogyne |
 
-|  | – Meloidogyne sp. |
+| 90. |  | 19.6 Thysanoptera, különösen Frankliniella occidentalis |
 
-|  | – Thysanoptera, különösen Frankliniella occidentalis |
+| 91. |  | 20. Gombák |
 
-|  | Gombák |
+| 92. |  | 20.1 Fusarium spp. |
 
-|  | – Fusarium sp. |
+| 93. |  | 20.2 Phytophthora cryptogea |
 
-|  | – Phytophthora cryptogea |
+| 94. |  | 20.3 Lisztharmat |
 
-|  | – Lisztharmat |
+| 95. |  | 20.4 Rhizoctonia solani |
 
-|  | – Rhizoctonia solani |
+| 96. |  | 20.5 Verticillium spp. |
 
-|  | – Verticillium spp. |
+| 97. |  | 21. Vírusok és vírusszerű szervezetek és különösen |
 
-|  | Vírusok és vírusszerű szervezetek, és különösen |
+| 98. |  | 21.1 Toszpovírusok (Tomato spotted wilt vírus, Impatiens necrotic spot vírus) |
 
-|  | Tospovírusok (Tomato spotted wilt virus, Impatiens necrotic spot virus) |
+| 99. | 7. Gladiolus L. | 22. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-| – Gladiolus L. | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 100. |  | 22.1 Ditylenchus dipsaci |
 
-|  | – Ditylenchus dipsaci |
+| 101. |  | 22.2 Thysanoptera, különösen Frankliniella occidentalis |
 
-|  | – Thysanoptera, különösen Frankliniella occidentalis |
+| 102. |  | 23. Baktériumok |
 
-|  | Baktériumok |
+| 103. |  | 23.1 Pseudomonas marginata |
 
-|  | – Pseudomonas marginata |
+| 104. |  | 23.2 Rhodococcus fascians |
 
-|  | – Rhodococcus fascians |
+| 105. |  | 24. Gombák |
 
-|  | Gombák |
+| 106. |  | 24.1 Bortrytis gladiolorum |
 
-|  | – Bortrytis gladiolorum |
+| 107. |  | 24.2 Curvularia trifolii |
 
-|  | – Curvularia trifolii |
+| 108. |  | 24.3 Fusarium oxisporum spp. gladioli |
 
-|  | – Fusarium oxysporum f. sp. gladioli |
+| 109. |  | 24.4 Penicillium gladioli |
 
-|  | – Penicillium gladioli |
+| 110. |  | 24.5 Sclerotinia spp. |
 
-|  | – Sclerotinia spp. |
+| 111. |  | 24.6 Septoria gladioli |
 
-|  | – Septoria gladioli |
+| 112. |  | 24.7 Urocystis gladiolicola |
 
-|  | – Urocystis gladiolicola |
+| 113. |  | 24.8 Uromyces transversalis |
 
-|  | – Uromyces transversalis |
+| 114. |  | 25. Vírusok és vírusszerű szervezetek, és különösen |
 
-|  | Vírusok és vírusszerű szervezetek és különösen |
+| 115. |  | 25.1 Aster yellow mycoplasma |
 
-|  | – Aster yellows |
+| 116. |  | 25.2 Corky pit agent |
 
-|  | – Corky pit agent |
+| 117. |  | 25.3 Cucumber mosaic vírus |
 
-|  | – Cucumber mosaic virus |
+| 118. |  | 25.4 Gladiolus ringspot vírus (syn. Narcissus latent vírus) |
 
-|  | – Gladiolus ringspot virus (syn. Narcissus latent virus) |
+| 119. |  | 25.5 Tobacco rattle vírus |
 
-|  | – Tobacco rattle virus |
+| 120. |  | 26. Egyéb káros szervezetek: |
 
-|  | Egyéb káros szervezetek: |
+| 121. |  | 26.1 Cyperus esculentus |
 
-|  | – Cyperus esculentus |
+| 122. | 8. Lilium L. | 27. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-| – Lilium L. | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 123. |  | 27.1 Aphelenchoides spp. |
 
-|  | – Aphelenchoides sp. |
+| 124. |  | 27.2 Rhyzoglyphus spp. |
 
-|  | – Rhyzoglyphus spp. |
+| 125. |  | 27.3 Pratylenchus penetrans |
 
-|  | – Pratylenchus penetrans |
+| 126. |  | 27.4 Rotylenchus robustus |
 
-|  | – Rotylenchus robustus |
+| 127. |  | 27.5 Thysanoptera, különösen Frankliniella occidentalis |
 
-|  | – Thysanoptera, különösen Frankliniella occidentalis |
+| 128. |  | 28. Baktériumok |
 
-|  | Baktériumok |
+| 129. |  | 28.1 Erwinia carotovora subsp. carotovora |
 
-|  | – Erwinia carotovora subsp.carotovora |
+| 130. |  | 28.2 Rhodococcus fascians |
 
-|  | – Rhodococcus fascians |
+| 131. |  | 29. Gombák |
 
-|  | Gombák |
+| 132. |  | 29.1 Cylindrocarpon destructans |
 
-|  | – Cylindrocarpon destructans |
+| 133. |  | 29.2 Fusarium oxisporum f. sp. lilii |
 
-|  | – Fusarium oxysporum f. sp. lilii |
+| 134. |  | 29.3 Pythium spp. |
 
-|  | – Pythium spp. |
+| 135. |  | 29.4 Rhizoctonia spp. |
 
-|  | – Rhizoctonia spp. |
+| 136. |  | 29.5 Rhizopus spp. |
 
-|  | – Rhizopus spp. |
+| 137. |  | 29.6 Sclerotium spp. |
 
-|  | – Sclerotium spp. |
+| 138. |  | 30. Vírusok és vírusszerű szervezetek és különösen |
 
-|  | Vírusok és vírusszerű szervezetek, és különösen |
+| 139. |  | 30.1 Cucumber mosaic vírus |
 
-|  | – Cucumber mosaic virus |
+| 140. |  | 30.2 Lily symptomless vírus |
 
-|  | – Lily symptomless virus |
+| 141. |  | 30.3 Lily x vírus |
 
-|  | – Lily virus x |
+| 142. |  | 30.4 Tobacco rattle vírus |
 
-|  | – Tobacco rattle virus |
+| 143. |  | 30.5 Tulip breaking vírus |
 
-|  | – Tulip breaking virus |
+| 144. |  | 31. Egyéb káros szervezetek |
 
-|  | Egyéb káros szervezetek |
+| 145. |  | 31.1 Cyperus esculentus |
 
-|  | – Cyperus esculentus |
+| 146. | 9. Malus Miller | 32. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-| – Malus Miller | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 147. |  | 32.1 Anarsia lineatella |
 
-|  | – Anarsia lineatella |
+| 148. |  | 32.2 Eriosoma lanigerum |
 
-|  | – Eriosoma lanigerum |
+| 149. |  | 32.3 Pajzstetvek, különösen Epidiaspis leperii, Pseudaulacaspis pentagona, Quadraspidiotus perniciosus |
 
-|  | – Pajzstetvek, különösen |
+| 150. |  | 33. Baktériumok |
 
-|  | Epidiaspis leperii, Pseudaulacaspis pentagona, |
+| 151. |  | 33.1 Agrobacterium tumefaciens |
 
-|  | Quadraspidiotus perniciosus |
+| 152. |  | 33.2 Pseudomonas syringae pv. syringae |
 
-|  | Baktériumok |
+| 153. |  | 34. Gombák |
 
-|  | – Agrobacterium tumefaciens |
+| 154. |  | 34.1 Armillariella mellea |
 
-|  | – Pseudomonas syringae pv. syringae |
+| 155. |  | 34.2 Chondrostereum purpureum |
 
-|  | Gombák |
+| 156. |  | 34.3 Nectria galligena |
 
-|  | – Armillariella mellea |
+| 157. |  | 34.4 Phytophthora cactorum |
 
-|  | – Chondrostereum purpureum |
+| 158. |  | 34.5 Rosellinia necatrix |
 
-|  | – Nectria galligena |
+| 159. |  | 34.6 Venturia spp. |
 
-|  | – Phytophthora cactorum |
+| 160. |  | 34.7 Verticillium spp. |
 
-|  | – Rosellinia necatrix |
+| 161. |  | 35. Vírusok és vírusszerű szervezetek |
 
-|  | – Venturia spp. |
+| 162. |  | 35.1 Mind |
 
-|  | – Verticillium spp. |
+| 163. | 10. Narcissus L. | 36. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-|  | Vírusok és vírusszerű szervezetek |
+| 164. |  | 36.1 Aphelenchoides subtenuis |
 
-|  | Mind |
+| 165. |  | 36.2 Ditylenchus destructor |
 
-| – Narcissus L. | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 166. |  | 36.3 Eumerus spp. |
 
-|  | – Aphelenchoides subtenuis |
+| 167. |  | 36.4 Merodon equestris |
 
-|  | – Ditylenchus destructor |
+| 168. |  | 36.5 Pratylenchus penetrans |
 
-|  | – Eumerus sp. |
+| 169. |  | 36.6 Rhizoglyhidae |
 
-|  | – Merodon equestris |
+| 170. |  | 36.7 Tarsonemidae |
 
-|  | – Pratylenchus penetrans |
+| 171. |  | 37. Gombák |
 
-|  | – Rhizoglyphidae |
+| 172. |  | 37.1 Fusarium oxysporum f. sp. narcissi |
 
-|  | – Tarsonemidae |
+| 173. |  | 37.2 Sclerotinia spp. |
 
-|  | Gombák |
+| 174. |  | 37.3 Sclerotium bulborum |
 
-|  | – Fusarium oxysporum f. sp. narcissi |
+| 175. |  | 38. Vírusok és vírusszerű szervezetek, és különösen |
 
-|  | – Sclerotinia spp. |
+| 176. |  | 38.1 Tobacco rattle vírus |
 
-|  | – Sclerotium bulborum |
+| 177. |  | 38.2 Narcissus white streak argent |
 
-|  | Vírusok és vírusszerű szervezetek és különösen |
+| 178. |  | 38.3 Narcissus yellow stripe vírus |
 
-|  | – Tobacco rattle virus |
+| 179. |  | 39. Egyéb káros szervezetek |
 
-|  | – Narcissus white streak argent |
+| 180. |  | 39.1 Cyperus esculentus |
 
-|  | – Narcissus yellow stripe virus |
+| 181. | 11. Pelargonium L. | 40. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-|  | Egyéb káros szervezetek |
+| 182. |  | 40.1 Aleyrodidae, különösen Bemisia tabaci |
 
-|  | – Cyperus esculentus |
+| 183. |  | 40.2 Lepidoptera |
 
-| – Pelargonium L. | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 184. |  | 40.3 Thysanoptera, különösen a Frankliniella occidentalis |
 
-|  | – Aleyrodidae, különösen Bemisia tabaci |
+| 185. |  | 41. Baktériumok |
 
-|  | – Lepidoptera |
+| 186. |  | 41.1 Rhodococcus fascians |
 
-|  | – Thysanoptera, különösen a Frankliniella occidentalis |
+| 187. |  | 41.2 Xanthomonas campestris pv. pelargonii |
 
-|  | Baktériumok |
+| 188. |  | 42. Gombák |
 
-|  | – Rhodococcus fascians |
+| 189. |  | 42.1 Puccinia pelargonii zonalis |
 
-|  | – Xanthomonas campestris pv. pelargonii |
+| 190. |  | 42.2 Szárrothadás kórokozói (Botrytis spp., Pythium spp.) |
 
-|  | Gombák |
+| 191. |  | 42.3 Verticillium spp. |
 
-|  | – Puccinia pelargonii–zonalis |
+| 192. |  | 43. Vírusok és vírusszerű szervezetek és különösen |
 
-|  | – Szárrothadás kórokozói (Botrytis spp., Pythium spp.) |
+| 193. |  | 43.1 Pelargonium flower break carmovírus |
 
-|  | – Verticillium spp. |
+| 194. |  | 43.2 Pelargonium leaf curl tombusvírus |
 
-|  | Vírusok és vírusszerű szervezetek és különösen |
+| 195. |  | 43.3 Pelargonium line pattern vírus |
 
-|  | – Pelargonium flower break carmovirus |
+| 196. |  | 43.4 Toszpovírusok (Tomato spotted wilt vírus, Impatiens necrotic spot vírus) |
 
-|  | – Pelargonium leaf curl tombusvirus |
+| 197. | 12. Phoenix | 44. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-|  | – Pelargonium line pattern virus |
+| 198. |  | 44.1 Thysanoptera |
 
-|  | – Tospovírusok (Tomato spotted wilt virus, Impatiens necrotic spot virus) |
+| 199. |  | 45. Gombák |
 
-| – Phoenix | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 200. |  | 45.1 Exosporium palmivorum |
 
-|  | – Thysanoptera |
+| 201. |  | 45.2 Gliocladium vermoeseni |
 
-|  | Gombák |
+| 202. |  | 45.3 Graphiola phoenicis |
 
-|  | – Exosporium palmivorum |
+| 203. |  | 45.4 Pestalotia phoenicis |
 
-|  | – Gliocladium vermoeseni |
+| 204. |  | 45.5 Pythium spp. |
 
-|  | – Graphiola phoenicis |
+| 205. |  | 46. Vírusok és vírusszerű szervezetek |
 
-|  | – Pestalotia phoenicis |
+| 206. |  | 46.1 Mind |
 
-|  | – Pythium spp. |
+| 207. | 13. Pinus nigra | 47. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-|  | Vírusok és vírusszerű szervezetek |
+| 208. |  | 47.1 Blastophaga spp. |
 
-|  | Mind |
+| 209. |  | 47.2 Rhyacionia buoliana |
 
-| – Pinus nigra | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 210. |  | 48. Gombák |
 
-|  | – Blastophaga sp. |
+| 211. |  | 48.1 Ophodermium seditiosum |
 
-|  | – Rhyacionia buoliana |
+| 212. |  | 49. Vírusok és vírusszerű szervezetek és különösen |
 
-|  | Gombák |
+| 213. |  | 49.1 Mind |
 
-|  | – Ophodermium seditiosum |
+| 214. | 14. Prunus L. | 50. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-|  | Vírusok és vírusszerű szervezetek, és különösen |
+| 215. |  | 50.1 Capnodis tenebrionis |
 
-|  | Mind |
+| 216. |  | 50.2 Meloidogyne spp. |
 
-| – Prunus L. | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 217. |  | 50.3 Pajzstetvek, különösen Epidiaspis leperii, Pseudaulacaspis pentagona, Quadraspidiotus perniciosus |
 
-|  | – Capnodis tenebrionis |
+| 218. |  | 51. Baktériumok |
 
-|  | – Meloidogyne sp. |
+| 219. |  | 51.1 Agrobacterium tumefaciens |
 
-|  | – Pajzstetvek, különösen |
+| 220. |  | 51.2 Pseudomonas syringae pv. mors prunorum |
 
-|  | Epidiaspis leperii, Pseudaulacaspis pentagona, Quadraspidiotus perniciosus |
+| 221. |  | 51.3 Pseudomonas syringae pv. syringae |
 
-|  | Baktériumok |
+| 222. |  | 52. Gombák |
 
-|  | – Agrobacterium tumefaciens |
+| 223. |  | 52.1 Armillariella mellea |
 
-|  | – Pseudomonas syringae pv. mors-prunorum |
+| 224. |  | 52.2 Chondrostereum purpureum |
 
-|  | – Pseudomonas syringae pv. syringae |
+| 225. |  | 52.3 Nectria galligena |
 
-|  | Gombák |
+| 226. |  | 52.4 Rosellinia necatrix |
 
-|  | – Armillariella mellea |
+| 227. |  | 52.5 Taphrina deformans |
 
-|  | – Chondrostereum purpureum |
+| 228. |  | 52.6 Verticillium spp. |
 
-|  | – Nectria galligena |
+| 229. |  | 53. Vírusok és vírusszerű szervezetek és különösen |
 
-|  | – Rosellinia necatrix |
+| 230. |  | 53.1 Prune dwarf vírus |
 
-|  | – Taphrina deformans |
+| 231. |  | 53.2 Prunus necrotic ringspot vírus |
 
-|  | – Verticillium spp. |
+| 232. | 15. Pyrus L. | 54. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-|  | Vírusok és vírusszerű szervezetek, és különösen |
+| 233. |  | 54.1 Anarsia lineatella |
 
-|  | – Prune dwarf virus |
+| 234. |  | 54.2 Eriosoma lanigerum |
 
-|  | – Prunus necrotic ringspot virus |
+| 235. |  | 54.3 Pajzstetvek, különösen Epidiaspis leperii, Pseudaulacaspis pentagona, Quadraspidiotus perniciosus |
 
-| – Pyrus L. | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 236. |  | 55. Baktériumok |
 
-|  | – Anarsia lineatella |
+| 237. |  | 55.1 Agrobacterium tumefaciens |
 
-|  | – Eriosoma lanigerum |
+| 238. |  | 55.2 Pseudomonas syringae pv. syringae |
 
-|  | – Pajzstetvek, különösen |
+| 239. |  | 56. Gombák |
 
-|  | Epidiaspis leperli, Pseudaulacaspis pentagona, Quadraspidiotus perniciosus |
+| 240. |  | 56.1 Armillariella mellea |
 
-|  | Baktériumok |
+| 241. |  | 56.2 Chondrostereum purpureum |
 
-|  | – Agrobacterium tumefaciens |
+| 242. |  | 56.3 Nectria galligena |
 
-|  | – Pseudomonas syringae pv. syringae |
+| 243. |  | 56.4 Phytophthora spp. |
 
-|  | Gombák |
+| 244. |  | 56.5 Rosellinia necatrix |
 
-|  | – Armillariella mellea |
+| 245. |  | 56.6 Verticillium spp. |
 
-|  | – Chondrostereum purpureum |
+| 246. |  | 57. Vírusok és vírusszerű szervezetek |
 
-|  | – Nectria galligena |
+| 247. |  | 57.1 Mind |
 
-|  | – Phytophthora spp. |
+| 248. | 16. Rosa | 58. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-|  | – Rosellinia necatrix |
+| 249. |  | 58.1 Lepidoptera, különösen Epichoristodes acerbella, Cacoecimorpha pronubana |
 
-|  | – Verticillium spp. |
+| 250. |  | 58.2 Meloidogyne spp. |
 
-|  | Vírusok és vírusszerű szervezetek |
+| 251. |  | 58.3 Pratylenchus spp. |
 
-|  | Mind |
+| 252. |  | 58.4 Tetranychus urticae |
 
-| – Rosa | Rovarok, atkák és fonalférgek fejlődésük valamennyi szakaszában |
+| 253. |  | 59. Baktériumok |
 
-|  | – Lepidoptera, különösen |
+| 254. |  | 59.1 Agrobacterium tumefaciens |
 
-|  | Epichoristodes acerbella, Cacoecimorpha pronubana |
+| 255. |  | 60. Gombák |
 
-|  | – Meloidogyne sp. |
+| 256. |  | 60.1 Chondrostereum purpureum |
 
-|  | – Pratylenchus sp. |
+| 257. |  | 60.2 Coniothyrium spp. |
 
-|  | – Tetranychus urticae |
+| 258. |  | 60.3 Diplocarpon rosae |
 
-|  | Baktériumok |
+| 259. |  | 60.4 Peronospora sparsa |
 
-|  | – Agrobacterium tumefaciens |
+| 260. |  | 60.5 Phragmidium spp. |
 
-|  | Gombák |
+| 261. |  | 60.6 Rosellinia necatrix |
 
-|  | – Chondrostereum purpureum |
+| 262. |  | 60.7 Sphaeroteca pannosa |
 
-|  | – Coniothyrium spp. |
+| 263. |  | 60.8 Verticillium spp. |
 
-|  | – Diplocarpon rosae |
+| 264. |  | 61. Vírusok és vírusszerű szervezetek, és különösen |
 
-|  | – Peronospora sparsa |
+| 265. |  | 61.1 Apple mosaic vírus |
 
-|  | – Phragmidium spp. |
+| 266. |  | 61.2 Arabis mosaic nepovírus |
 
-|  | – Rosellinia necatrix |
+| 267. |  | 61.3 Prunus necrotic ringspot vírus |
 
-|  | – Sphaerotheca pannosa |
+| 268. | 17. Palmae, a következő nemzetségek és fajok tekintetében | 62. Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában |
 
-|  | – Verticillium spp. |
+| 269. | 17.1 Areca catechu L. | 62.1 Rhynchophorus ferrugineus (Olivier) |
 
-|  | Vírusok és vírusszerű szervezetek, és különösen |
+| 270. | 17.2 Syagrus romanzoffiana (Cham.) Glassman |
 
-|  | – Apple mosaic virus |
+| 271. | 17.3 Arenga pinnata (Wurmb) Merr. |
 
-|  | – Arabis mosaic nepovirus |
+| 272. | 17.4 Bismarckia Hildebr. & H. Wendl. |
 
-|  | – Prunus necrotic ringspot virus |
+| 273. | 17.5 Borassus flabellifer L. |
+
+| 274. | 17.6 Brahea armata S. Watson |
+
+| 275. | 17.7 Brahea edulis H. Wendl. |
+
+| 276. | 17.8 Butia capitata (Mart.) Becc. |
+
+| 277. | 17.9 Calamus merrillii Becc. |
+
+| 278. | 17.10 Caryota maxima Blume |
+
+| 279. | 17.11 Caryota cumingii Lodd. ex Mart. |
+
+| 280. | 17.12 Chamaerops humilis L. |
+
+| 281. | 17.13 Cocos nucifera L. |
+
+| 282. | 17.14 Corypha utan Lam. |
+
+| 283. | 17.15 Copernicia Mart. |
+
+| 284. | 17.16 Elaeis guineensis Jacq. |
+
+| 285. | 17.17 Howea forsteriana Becc. |
+
+| 286. | 17.18 Jubaea chilensis (Molina) Baill. |
+
+| 287. | 71.19 Livistona australis C. Martius |
+
+| 288. | 17.20 Livistona decora (W. Bull) Dowe |
+
+| 289. | 17.21 Livistona rotundifolia (Lam.) Mart. |
+
+| 290. | 17.22. Metroxylon sagu Rottb. |  |
+
+| 291. | 17.23 Roystonea regia (Kunth) O.F. Cook |
+
+| 292. | 17.24 Phoenix canariensis Chabaud |
+
+| 293. | 17.25 Phoenix dactylifera L. |
+
+| 294. | 17.26 Phoenix reclinata Jacq. |
+
+| 295. | 17.27. Phoenix roebelenii O’Brien |
+
+| 296. | 17.28 Phoenix sylvestris (L.) Roxb. |
+
+| 297. | 17.29 Phoenix theophrasti Greuter |
+
+| 298. | 17.30 Pritchardia Seem. & H. Wendl. |
+
+| 299. | 17.31 Ravenea rivularis Jum. & H. Perrier |
+
+| 300. | 17.32 Sabal palmetto (Walter) Lodd. ex Schult. & Schult.f. |
+
+| 301. | 17.33 Trachycarpus fortunei (Hook.) H. Wendl. |
+
+| 302. | 17.34 Washingtonia H. Wendl. |
 
 2. számú melléklet a 45/2008. (IV. 11.) FVM rendelethez

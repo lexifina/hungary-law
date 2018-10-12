@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-45-20-8
 | 2017-08-18 | 2008-45-20-82.7 | 70/2013. (VII. 31.) VM rendelet |
 | 2018-09-01 | 2008-45-20-82.8 | 24/2018. (VIII. 31.) AM rendelet |
 | 2018-10-01 | 2008-45-20-82.9 | 24/2018. (VIII. 31.) AM rendelet |
+| 2018-10-12 | 2008-45-20-82.10 | 30/2018. (X. 11.) AM rendelet |
