@@ -17,3 +17,10 @@
 (8) Ha a támogatás igénylője a fenntartó, és a támogatás átutalását megelőző ellenőrzés során a Kincstár megállapítja, hogy a nevelési-oktatási intézmény nem teljesítette az e rendeletben foglaltakat – különös tekintettel a nevelési-oktatási intézmény naprakész nyilvántartásvezetési kötelezettségére –, a kérelmező nem jogosult az érintett nevelési-oktatási intézmény esetében igényelhető támogatás igénybevételére.
 
 (9) Ha a szállító által az adott fenntartóhoz tartozó intézmények részére a tanév során kiszállított termékek összevont termékkategóriánkénti mennyisége kevesebb, mint a Kincstár által az adott fenntartó kapcsán az egyes összevont termékkategóriákra jóváhagyott mennyiség 80%-a, akkor a leszállított mennyiségre eső támogatási összeget a Kincstár a le nem szállított mennyiségre eső támogatás mértékével csökkenti.
+
+(10)[^25] Az 1308/2013/EU európai parlamenti és tanácsi rendelet célkitűzéseivel ellentétesen az ugyanezen rendeletből fakadó előnyök megszerzéséhez szükséges feltételeknek a jogszabályok kijátszásával történő, az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikke szerinti mesterséges megteremtése abban az esetben áll fenn, amennyiben bármely természetes vagy jogi személy az 1. § 3. pontjában meghatározott feltételek teljesítését az arra hatáskörrel rendelkező szerv által megállapított jogellenes cselekmény megvalósításával érte el az óvoda- és iskolatej programban foglalt célokkal ellentétes előnyök megszerzése érdekében.
+
+(11)[^26] Az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikkének alkalmazásában, ha az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételek mesterséges megteremtéséhez szükséges, a jogellenes magatartás és a támogatás céljával ellentétes előny elérése közötti ok-okozati összefüggés meglétét az arra hatáskörrel rendelkező szerv megállapítja, az így megszerzett előny a (6) bekezdésben hivatkozott jogosulatlan támogatásnak minősül.
+
+[^25]: A 17. § (10) bekezdését a 30/2018. (X. 11.) AM rendelet 13. §-a iktatta be.
+[^26]: A 17. § (11) bekezdését a 30/2018. (X. 11.) AM rendelet 13. §-a iktatta be.

@@ -1,4 +1,4 @@
-10. § (1) A fenntartónak az adott tanév kezdetét megelőző év május 5-éig előzetes ajánlattételi kiírást kell közzétennie, amelyben meg kell jelölnie az ellátandó intézményeket és azok adatait, és rögzítenie kell intézményenként a programban kiosztandó termékek körét. A szállító az ajánlatát legkésőbb az adott tanév kezdetét megelőző május 12-éig beérkezőleg köteles megküldeni. A szállító egy adott intézmény vonatkozásában csak azon termékeket szerepeltetheti az ajánlatában, amelyeket az ajánlati kiírásban az adott intézmény kapcsán a fenntartó előír.
+10. § (1)[^7] A fenntartónak az adott tanév kezdetét megelőző május 5-éig előzetes ajánlattételi kiírást kell közzétennie, amelyben meg kell jelölnie az ellátandó intézményeket és azok adatait, és rögzítenie kell intézményenként a programban kiosztandó termékek körét. A szállító az ajánlatát legkésőbb az adott tanév kezdetét megelőző május 12-éig beérkezőleg köteles megküldeni. A szállító egy adott intézmény vonatkozásában csak azon termékeket szerepeltetheti az ajánlatában, amelyeket az ajánlati kiírásban az adott intézmény kapcsán a fenntartó előír.
 
 (2) Ha egy adott nevelési-oktatási intézményben tanuló kedvezményezettek támogatott termékkel való ellátására több szállító tesz ajánlatot, akkor a szállítókat rangsorolni kell.
 
@@ -6,7 +6,7 @@
 
 (4) A szállítók rangsorolását az alábbi többletpontok szerint kell elvégezni:
 
-a)[^4] annak a szállítónak az ajánlatára, amely az élelmiszerlánc-felügyeleti szerv által engedélyezett tejipari feldolgozó üzemmel vagy tejtermelést folytató tenyészettel rendelkezik, vagy amelynek tulajdonosi körét vagy üzletrészét legalább 80% tulajdoni hányaddal tejfeldolgozó üzemmel vagy tejtermelést folytató tenyészettel rendelkező gazdasági szervezet vagy magánszemély birtokolja, 9 pont adható;
+a)[^8] annak a szállítónak az ajánlatára, amely az élelmiszerlánc-felügyeleti szerv által engedélyezett tejipari feldolgozó üzemmel vagy tejtermelést folytató tenyészettel rendelkezik, vagy amelynek tulajdonosi körét vagy üzletrészét legalább 80% tulajdoni hányaddal tejfeldolgozó üzemmel vagy tejtermelést folytató tenyészettel rendelkező gazdasági szervezet vagy magánszemély birtokolja, 9 pont adható;
 
 b) annak a szállítónak az ajánlatára, amely a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló 52/2010. (IV. 30.) FVM rendelet értelmében kistermelő, vagy a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. §-a alapján mikro-, kis- és középvállalkozás, 9 pont adható;
 
@@ -50,4 +50,8 @@ h) „III. ömlesztett sajt” esetében a 15. § (2) és (3) bekezdés f) pontj
 
 (12) A vállalások – különösen a promóciós intézkedések – megvalósulását a miniszter is jogosult helyszíni és adminisztratív ellenőrzés keretében ellenőrizni.
 
-[^4]: A 10. § (4) bekezdés a) pontja a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.
+(13)[^9] Abban az esetben, ha a folyamatban levő tanév során a leszállított termék minősége egy hónapon belül legalább három esetben, dokumentáltan nem felelt meg a 2. mellékletben meghatározott minőségi előírásoknak, és a minőségi problémák kialakulásáért a szállító tehető felelőssé, akkor az ajánlattételi felhívás során egyetlen fenntartó sem köteles figyelembe venni az adott szállító ajánlatát.
+
+[^7]: A 10. § (1) bekezdése a 30/2018. (X. 11.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^8]: A 10. § (4) bekezdés a) pontja a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^9]: A 10. § (13) bekezdését a 30/2018. (X. 11.) AM rendelet 8. § (2) bekezdése iktatta be.

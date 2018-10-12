@@ -16,13 +16,13 @@ e) a „II. gyümölcsdarabos joghurt” esetében 485 Ft/kg,
 
 f) a „III. ömlesztett sajt” esetében 1400 Ft/kg.
 
-(3) A 8. mellékletben meghatározott székhelyű nevelési-oktatási intézménybe járó általános iskolai tanulók, valamint az óvodások ellátása esetén igényelhető támogatás mértéke legfeljebb
+(3)[^24] Az óvodások, valamint a 8. mellékletben meghatározott székhelyű nevelési-oktatási intézménybe járó általános iskolai tanulók ellátása esetén igényelhető támogatás mértéke legfeljebb
 
 a) az „I/a. teljes/félzsíros tej” és „I/b. zsíros/félzsíros ízesített tej” esetében 20 Ft/dl,
 
 b) az „I/a. zsírszegény tej” és „I/b. zsírszegény ízesített tej” esetében 10 Ft/dl,
 
-c) az „I/c. natúr joghurt és „I/c. natúr kefir” esetében 230 Ft/kg,
+c) az „I/c. natúr joghurt” és „I/c. natúr kefir” esetében 230 Ft/kg,
 
 d) az „I/c. gyümölcsleves/ízesített joghurt” esetében 260 Ft/kg,
 
@@ -35,3 +35,5 @@ f) a „III. ömlesztett sajt” esetében 800 Ft/kg.
 (5) A sajátos nevelési igényű általános iskolai tanulók, valamint a sajátos nevelési igényű óvodások esetében igényelhető támogatási összeg a (2) bekezdés a)–f) pontjaiban meghatározott összeg, függetlenül attól, hogy a tanuló vagy óvodás gyógypedagógiai intézményben, vagy a többi tanulóval vagy óvodással együtt, azonos iskolai osztályban vagy óvodai csoportban részesül nevelésben, oktatásban, vagy fejlesztőiskolai oktatás keretében teljesíti a tankötelezettségét.
 
 (6) A nevelési-oktatási intézmény székhelyén kívül más településen működő feladatellátási hely esetén a 7. és 8. melléklet szerinti besorolás alapját az a település képezi, ahol a tagintézmény működik.
+
+[^24]: A 15. § (3) bekezdése a 30/2018. (X. 11.) AM rendelet 12. §-ával megállapított szöveg.

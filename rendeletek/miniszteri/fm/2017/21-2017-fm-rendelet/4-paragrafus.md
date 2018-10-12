@@ -10,7 +10,7 @@ c) „I/b. zsíros/félzsíros ízesített tej”: a Magyar Élelmiszerkönyv k�
 
 d) „I/b. zsírszegény ízesített tej”: a MÉ 13. melléklet B. rész 1.1.1. pontja szerint ízesített tejkészítmények azzal a feltétellel, hogy az ízesített késztermékben – az 1308/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (5) bekezdésének megfelelően a tejhányad legalább 90% (m/m) legyen, továbbá azzal a feltétellel, hogy a MÉ 13. számú melléklet B. rész 1.3. pontja szerinti zsírszegény kategóriába esik, és megfelel a 2017/40/EU felhatalmazáson alapuló bizottsági rendelet 10. cikk (2) bekezdésében foglalt feltételnek;
 
-e) „I/c. natúr joghurt” és „I/c. natúr kefir”: a MÉ 13. melléklet B. rész 2.1.1. pont a) és b) alpontjában meghatározott élőflórás savanyú natúr tejkészítmény (natúr joghurt és kefir), amely – az 1308/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (5) bekezdésének megfelelően – legalább 75 tömegszázalékban tartalmaz tejet, és megfelel a 2017/40/EU felhatalmazáson alapuló bizottsági rendelet 10. cikk (2) bekezdésében foglalt feltételnek;
+e)[^3] „I/c. natúr joghurt” és „I/c. natúr kefir”: a MÉ 13. melléklet B. rész 2.1.1. pont a) és b) alpontjában meghatározott élőflórás savanyú natúr tejkészítmény (natúr joghurt és kefir), amely – az 1308/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (5) bekezdésének megfelelően – 100 tömegszázalékban tartalmaz tejet, és megfelel a 2017/40/EU felhatalmazáson alapuló bizottsági rendelet 10. cikk (2) bekezdésében foglalt feltételnek;
 
 f) „I/c. gyümölcsleves/ízesített joghurt”: a MÉ 13. melléklet B. rész 2.1.2. pontjában meghatározott élőflórás savanyú tejkészítmény, amely gyümölcslével vagy egyéb ízesítőanyaggal ízesített, és – az 1308/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (5) bekezdésének megfelelően – legalább 90 tömegszázalékban tartalmaz tejet, valamint megfelel a 2017/40/EU felhatalmazáson alapuló bizottsági rendelet 10. cikk (2) bekezdésében foglalt feltételnek;
 
@@ -18,7 +18,7 @@ g) „II. gyümölcsdarabos joghurt”: a MÉ 13. melléklet B. rész 2.1.2. pon
 
 h) „III. ömlesztett sajt”: a MÉ 13. melléklet B. rész 7.1.1. vagy 7.1.2. pontjában meghatározott, nem ízesített ömlesztett sajtok, amelyek legfeljebb 10 tömegszázalékban tartalmaznak tejidegen összetevőt, és megfelelnek a MÉ 13. melléklet B. rész 7.3. pontja szerinti félzsíros vagy zsíros kategóriának, valamint a 2017/40/EU felhatalmazáson alapuló bizottsági rendelet 10. cikk (3) bekezdésében foglalt feltételnek.
 
-(2)[^2] Az (1) bekezdésben felsorolt termékeknek az 1308/2013/EU európai parlamenti és tanácsi rendelet VII. melléklet III. rész 1. pontja szerinti tejből kell készülniük, és meg kell felelniük a 2. mellékletben meghatározott minőségi követelményeknek.
+(2)[^4] Az (1) bekezdésben felsorolt termékeknek az 1308/2013/EU európai parlamenti és tanácsi rendelet VII. melléklet III. rész 1. pontja szerinti tejből kell készülniük, és meg kell felelniük a 2. mellékletben meghatározott minőségi követelményeknek.
 
 (3) A kiszállított termék kizárólag közvetlenül a kedvezményezett részére kerülhet kiosztásra. A kiosztásra kerülő termékeket a nevelési-oktatási intézmény más célra – így tovább feldolgozási, kereskedelmi, közétkeztetésben ételkészítési alapanyagul – nem használhatja fel.
 
@@ -36,4 +36,5 @@ c) 1 kg kiszállított „I/c. natúr joghurt” és „I/c. natúr kefir”, �
 
 d) 1 kg kiszállított „II. gyümölcsdarabos joghurt”: 0,87 liter
 
-[^2]: A 4. § (2) bekezdése a 22/2018. (VIII. 17.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (1) bekezdés e) pontja a 30/2018. (X. 11.) AM rendelet 6. §-ával megállapított szöveg.
+[^4]: A 4. § (2) bekezdése a 22/2018. (VIII. 17.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.

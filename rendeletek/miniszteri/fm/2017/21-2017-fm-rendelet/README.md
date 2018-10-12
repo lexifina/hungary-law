@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-21-20-1
 | 2017-04-27 | 2017-21-20-11.1 | 21/2017. (IV. 26.) FM rendelet |
 | 2017-04-28 | 2017-21-20-11.2 | 2010: CXXX. törvény |
 | 2018-08-18 | 2017-21-20-11.3 | 22/2018. (VIII. 17.) AM rendelet |
+| 2018-10-12 | 2017-21-20-11.4 | 30/2018. (X. 11.) AM rendelet |
