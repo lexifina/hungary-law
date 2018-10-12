@@ -4,7 +4,7 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-1.[^1] elismerési okirat: a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet alapján az állami elismerésről, valamint minősített elismerésről kiadott határozat
+1.[^1] elismerési okirat: a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet alapján kiadott, állami elismerésről szóló határozat;
 
 2. támogatási időszak: az elismerési okirat keltétől számított legfeljebb ötéves időtartam;
 
@@ -12,4 +12,4 @@
 
 4. termelési érték: a termelői csoport tagjai bizonylattal igazolt tagi árbevételének kompenzációs felárral csökkentett összege. A termelői csoport elismerésének dátumát követően csak a termelői csoporton keresztül történő értékesítésből származó tagi árbevétel képezheti a támogatás alapját.
 
-[^1]: A 2. § 1. pontja a 12/2010. (VIII. 30.) VM rendelet 1. §-ával megállapított szöveg.
+[^1]: A 2. § 1. pontja a 29/2018. (X. 11.) AM rendelet 1. §-ával megállapított szöveg.
