@@ -10,4 +10,6 @@ A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. t
 
 5. felhívom az innovációért és technológiáért felelős minisztert, a külgazdasági és külügyminisztert, valamint az igazságügyi minisztert, hogy az együttműködési megállapodások módosításának létrehozását követően az együttműködési megállapodások szövegének végleges megállapítására való felhatalmazásról szóló határozatok tervezetét haladéktalanul terjesszék a Kormány elé;
 
-6. visszavonom az egyrészről Izland, a Liechtensteini Hercegség, a Norvég Királyság, és másrészről a Magyar Köztársaság között az EGT Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás, valamint a Norvég Királyság és a Magyar Köztársaság között a Norvég Finanszírozási Mechanizmus 2009–2014-es időszakának végrehajtásáról szóló együttműködési megállapodás módosításának létrehozására adott felhatalmazásról szóló 26/2014. (III. 3.) ME határozatot.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
