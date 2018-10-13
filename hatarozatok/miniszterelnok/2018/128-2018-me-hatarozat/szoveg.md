@@ -10,4 +10,6 @@ A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. t
 
 5. felhívom az innovációért és technológiáért felelős minisztert, a külgazdasági és külügyminisztert, valamint az igazságügyi minisztert, hogy a Keretmegállapodás módosításának létrehozását követően a Keretmegállapodás szövegének végleges megállapítására való felhatalmazásról szóló határozat tervezetét haladéktalanul terjesszék a Kormány elé;
 
-6. visszavonom a kibővült Európai Unió gazdasági és társadalmi egyenlőtlenségei csökkentését célzó, a Svájci Szövetségi Tanács és a Magyar Kormány között létrejött Svájci–Magyar Együttműködési Program végrehajtásáról szóló Keretmegállapodás módosításának létrehozására adott felhatalmazásról szóló 25/2014. (III. 3.) ME határozatot.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
