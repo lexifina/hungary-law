@@ -1,3 +1,3 @@
-## 11. §[^13]
+## 11. §[^19]
 
-[^13]: A 11. § a 205/2015. (VII. 23.) Korm. rendelet 17. § a) pontja alapján nem lép hatályba.
+[^19]: A 11. § a 205/2015. (VII. 23.) Korm. rendelet 17. § a) pontja alapján nem lép hatályba.

@@ -8,6 +8,8 @@
 
 | 3. |  |  | mezőgazdasági felsőoktatási szakképzés | Agricultural Assistant | felsőfokú mezőgazdasági mérnökasszisztens | Agricultural Engineer Assistant | 5 |
 
+| 4/A. |  |  | gyógy- és fűszernövények felsőoktatási szakképzés | Medicinal Plants and Herbs | felsőfokú gyógynövény technológus | Medicinal Plant Technologist | 5 |
+
 | 4. |  |  | szőlész-borász felsőoktatási szakképzés | Viticulture and Enology | felsőfokú szőlész-borász mérnökasszisztens | Viticulture and Enology Engineer Assistant | 5 |
 
 | 5. | Informatika | Computer Science and Information Technology | gazdaságinformatikus felsőoktatási szakképzés | Business Information Technology | felsőfokú gazdaságinformatikus-asszisztens | Business Information Technologist Assistant | 5 |
@@ -38,6 +40,6 @@
 
 | 18. | Műszaki | Engineering Science | műszaki felsőoktatási szakképzés | Engineer Assistant | műszaki mérnökasszisztens | Technical Engineer Assistant | 5 |
 
-2. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^20]
+2. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^27]
 
-[^20]: A 2. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (1) bekezdése, a 357/2017. (XI. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^27]: A 2. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (1) bekezdése, a 357/2017. (XI. 29.) Korm. rendelet 2. §-a, a 188/2018. (X. 12.) Korm. rendelet 5. §-a szerint módosított szöveg.

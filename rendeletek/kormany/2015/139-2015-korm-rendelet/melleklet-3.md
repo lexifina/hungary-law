@@ -48,7 +48,7 @@
 
 | 23. |  |  | régészet | Archeology | régészet alapszakos bölcsész | Philologist in Archaeology | 6 |
 
-| 24. |  |  | romanisztika | Romance Philology | 1. romanisztika, francia alapszakos bölcsész 2. romanisztika, olasz alapszakos bölcsész 3. romanisztika, portugál alapszakos bölcsész 4. romanisztika, román alapszakos bölcsész 5. romanisztika, román nemzetiségi alapszakos bölcsész 6. romanisztika, spanyol alapszakos bölcsész | 1.Philologist in Romanistics, Specialized in French Studies; 2.Philologist in Romanistics, Specialized in Italian Studies; 3.Philologist in Romanistics, Specialized in Portuguese Studies; 4.Philologist in Romanistics, Specialized in Romanian Studies; 5.Philologist in Romanistics, Specialized in Romanian as Ethnic Minority Studies; 6.Philologist in Romanistics, Specialized in Spanish Studies | 6 |
+| 24. |  |  | újlatin nyelvek és kultúrák | Romance Philology and Cultures | 1. újlatin nyelvek és kultúrák francia alapszakos bölcsész 2. újlatin nyelvek és kultúrák olasz alapszakos bölcsész 3. újlatin nyelvek és kultúrák portugál alapszakos bölcsész 4. újlatin nyelvek és kultúrák román alapszakos bölcsész 5. újlatin nyelvek és kultúrák román nemzetiségi alapszakos bölcsész 6. újlatin nyelvek és kultúrák spanyol alapszakos bölcsész | 1. Philologist in Romanistics, Specialized in French Studies 2. Philologist in Romanistics, Specialized in Italian Studies 3. Philologist in Romanistics, Specialized in Portuguese Studies 4. Philologist in Romanistics, Specialized in Romanian Studies 5. Philologist in Romanistics, Specialized in Romanian as Ethnic Minority Studies 6. Philologist in Romanistics, Specialized in Spanish Studies | 6 |
 
 | 25. |  |  | romológia | Roma Studies | romológus | Romologist | 6 |
 
@@ -58,9 +58,11 @@
 
 | 28. |  |  | történelem | History | történelem alapszakos bölcsész | Philologist in History | 6 |
 
-| 29. | Társadalomtudomány | Social Science | informatikus könyvtáros | Library and Information Science | informatikus könyvtáros | Librarian and Information Scientist | 6 |
+| 29. | Társadalomtudomány | Social Science | informatikus könyvtáros | Library and Information Science | informatikus könyvtáros | Library and Information Scientist | 6 |
 
 | 30. |  |  | kommunikáció- és médiatudomány | Communication and Media Science | kommunikátor | Expert in Communication | 6 |
+
+| 30/A. |  |  | kulturális antropológia | Cultural Anthropology | kulturális antropológia alapszakos szakelőadó | Cultural Anthropologist | 6 |
 
 | 31. |  |  | nemzetközi tanulmányok | International Relations | nemzetközi kapcsolatok szakértő | International Relations Expert | 6 |
 
@@ -116,11 +118,13 @@
 
 | 56. |  |  | gépészmérnöki | Mechanical Engineering | gépészmérnök | Mechanical Engineer | 6 |
 
-| 57. |  |  | hivatásos repülőgép-vezetői | Professional Pilot | hivatásos pilóta | Professional Pilot | 6 |
+| 57. |  |  | repülőmérnöki | Professional Pilot | hivatásos pilóta | Professional Pilot | 6 |
 
 | 58. |  |  | ipari termék- és formatervező mérnöki | Industrial Design Engineering | ipari termék- és formatervező mérnök | Industrial Design Engineer | 6 |
 
 | 59. |  |  | járműmérnöki | Vehicle Engineering | járműmérnök | Vehicle Engineer | 6 |
+
+| 59/A. |  |  | jármű- üzemmérnöki | Vehicle Operational Engineering | jármű- üzemmérnök | Vehicle Operational Engineer | 6 |
 
 | 60. |  |  | könnyűipari mérnöki | Light Industrial Engineering | könnyűipari mérnök | Light Industry Engineer | 6 |
 
@@ -136,7 +140,7 @@
 
 | 66. |  |  | műszaki földtudományi | Earth Science Engineering | földtudományi mérnök | Earth Science Engineer | 6 |
 
-| 67. |  |  | műszaki menedzser | Technical Management | műszaki menedzser | Technical Manager | 6 |
+| 67. |  |  | műszaki menedzser | Engineering Management | műszaki menedzser | Engineering Manager | 6 |
 
 | 68. |  |  | műszaki szakoktató | Vocational Technical Instruction | műszaki szakoktató | Vocational Technical Instructor | 6 |
 
@@ -160,7 +164,7 @@
 
 | 78. |  |  | konduktor | Conductive Education | konduktor | Conductive Teacher | 6 |
 
-| 79. |  |  | óvodapedagógus | Pre-School Teaching | 1.óvodapedagógus; 2.nemzetiségi óvodapedagógus [zárójelben megjelölve a nemzetiségi (horvát, német, román, szerb, szlovák, szlovén) nyelvet, illetve a cigány-roma képzési irányultságot] | 1. Pre-School Teacher 2. Ethnic Minority (Croatian, German, Romanian, Serbian, Slovakian, Slovenian, Roma) Pre-School Teacher | 6 |
+| 79. |  |  | óvodapedagógus | Kindergarten Education | 1.óvodapedagógus; 2.nemzetiségi óvodapedagógus [zárójelben megjelölve a nemzetiségi (horvát, német, román, szerb, szlovák, szlovén) nyelvet, illetve a cigány-roma képzési irányultságot] | 1. Kindergarten Educator 2. Ethnic Minority (Croatian, German, Romanian, Serbian, Slovakian, Slovenian, Roma) Pre-School Teacher | 6 |
 
 | 80. |  |  | tanító | Primary School Teaching | 1.tanító 2.nemzetiségi tanító [zárójelben megjelölve a nemzetiségi (horvát, német, román, szerb, szlovák, szlovén) nyelvet, illetve a cigány-roma képzési irányultságot] | 1. Primary School Teacher 2. Ethnic Minority (Croatian, German, Romanian, Serbian, Slovakian, Slovenian, Roma) Primary School Teacher | 6 |
 
@@ -184,17 +188,17 @@
 
 | 90. | Művészet | Arts | alkotóművészet és muzikológia | Musical Creative Arts and Musicology | 1. zeneszerző 2. jazz-zeneszerző 3. muzikológus 4. zeneteoretikus 5. zenei asszisztens 6. elektronikus zenei médiaasszisztens 7. alkalmazott zeneszerző | 1. Composer 2. Jazz Composer 3. Musicologist 4. Music Theoretician 5. Music Assistant 6. Electronic Music Assistant 7. Composer of Applied Music | 6 |
 
-| 91. |  |  | animáció | Animation | animációs tervező | Animator | 6 |
+| 91. |  |  | animáció | Animation | animációs tervező | Animation Designer | 6 |
 
-| 92. |  |  | designkultúra | Design Culture | designelemző | Design Culture Specialist | 6 |
+| 92. |  |  | designkultúra | Design Culture | designelemző | Design Culture Expert | 6 |
 
 | 93. |  |  | előadó-művészet | Performance | 1. klasszikus zongora előadóművész 2. klasszikus orgona előadóművész 3. klasszikus csembaló előadóművész 4. klasszikus harmonika előadóművész 5. klasszikus hárfa előadóművész 6. klasszikus gitár előadóművész 7. klasszikus lant előadóművész 8. klasszikus cimbalom előadóművész 9. klasszikus hegedű előadóművész 10. klasszikus mélyhegedű előadóművész 11. klasszikus gordonka előadóművész 12. klasszikus gordon előadóművész 13. klasszikus furulya előadóművész 14. klasszikus fuvola előadóművész 15. klasszikus oboa előadóművész 16. klasszikus klarinét előadóművész 17. klasszikus szaxofon előadóművész 18. klasszikus fagott előadóművész 19. klasszikus kürt előadóművész 20. klasszikus trombita előadóművész 21. klasszikus tuba előadóművész 22. klasszikus harsona előadóművész 23. klasszikus ütőhangszeres előadóművész 24. klasszikus ének előadóművész 25. jazz-zongora előadóművész 26. jazzgitár előadóművész 27. jazzbasszusgitár előadóművész 28. jazzbőgő előadóművész 29. jazzszaxofon előadóművész 30. jazztrombita előadóművész 31. jazzharsona előadóművész 32. jazzdob előadóművész 33. jazzének előadóművész 34. zenekar- és kórusvezető előadóművész 35. egyházzene-orgona előadóművész 36. egyházzene-kórusvezető előadóművész 37. népi vonós (hegedű, brácsa, nagybőgő-cselló-ütőgardon) előadóművész 38. népi pengetős (citera-tambura-koboz-tekerő) előadóművész 39. népi fúvós (furulya-duda, klarinét-tárogató) előadóművész 40. népi cimbalom előadóművész 41. népi ének előadóművész | 1. Classical Instrumental Music Performer (Piano) 2. Classical Instrumental Music Performer (Organ) 3. Classical Instrumental Music Performer (Harpsichord) 4. Classical Instrumental Music Performer (Accordion) 5. Classical Instrumental Music Performer (Harp) 6. Classical Instrumental Music Performer (Guitar) 7. Classical Instrumental Music Performer (Lute) 8. Classical Instrumental Music Performer (Cimbalom / Dulcimer) 9. Classical Instrumental Music Performer (Violin) 10. Classical Instrumental Music Performer (Viola) 11. Classical Instrumental Music Performer (Cello) 12. Classical Instrumental Music Performer (Double Bass) 13. Classical Instrumental Music Performer (Recorder) 14. Classical Instrumental Music Performer (Flute) 15. Classical Instrumental Music Performer (Oboe) 16. Classical Instrumental Music Performer (Clarinet) 17. Classical Instrumental Music Performer (Saxophone) 18. Classical Instrumental Music Performer (Bassoon) 19. Classical Instrumental Music Performer (Horn) 20. Classical Instrumental Music Performer (Trumpet) 21. Classical Instrumental Music Performer (Trombone) 22. Classical Instrumental Music Performer (Tuba) 23. Classical Instrumental Music Performer (Percussion) 24. Classical Music Singer 25. Jazz Instrumental Performer (Jazz Piano) 26. Jazz Instrumental Performer (Jazz Guitar) 27. Jazz Instrumental Performer (Jazz Bass Guitar) 28. Jazz Instrumental Performer (Jazz Double Bass) 29. Jazz Instrumental Performer (Jazz Saxophone) 30. Jazz Instrumental Performer (Jazz Trumpet) 31. Jazz Instrumental Performer (Jazz Trombone) 32. Jazz Instrumental Performer (Jazz Drums) 33. Jazz Music Singer 34. Orchestral and Choral Conductor 35. Church Music Performer (Organ) 36. Church Music Performer (Choral Conducting) 37. Folk Music Performer on Bowed Strings (Violin-Viola/Double Bass-Cello-Gardon [Percussion Cello]) 38. Folk Music Performer on Plucked Strings (Zither-Tambura-Koboz [Historical Hungarian Lute] /Rotary Lute [Hurdy-gurdy]) 39. Folk Music Performer on Wind Instruments (Recorder-Bagpipe/Clarinet-Tarogato [Hungarian Folk Clarinet]) 40. Folk Music Performer on Cimbalom 41. Folk Song Performer | 6 |
 
-| 94. |  |  | építőművészet | Architectural Art | építőművész | Architectural Artist | 6 |
+| 94. |  |  | építőművészet | Architectural Design | építőművész | Architectural Designer | 6 |
 
 | 95. |  |  | formatervezés | Industrial and Product Design | formatervező | Industrial and Product Designer | 6 |
 
-| 96. |  |  | fotográfia | Photography | fotográfus tervező | Photographer | 6 |
+| 96. |  |  | fotográfia | Photography | fotográfus művész | Photographer | 6 |
 
 | 97. |  |  | képzőművészet-elmélet | Fine Art Theory | képzőművészeti elemző | Fine Art Theoretician | 6 |
 
@@ -204,13 +208,13 @@
 
 | 100. |  |  | média design | Media Design | média designer | Media Designer | 6 |
 
-| 101. |  |  | mozgókép | Motion Picture Studies | 1. mozgókép szakos film- és televíziórendező 2. mozgókép szakos vágó 3. mozgókép szakos hangmester 4. gyártásszervező, 5. kameraman 6. dramaturg | 1. Motion Picture Director 2. Motion Picture Editor 3. Motion Picture Sound Director 4. Producer 5. Cameraman 6. Dramaturg | 6 |
+| 101. |  |  | mozgókép | Motion Picture Studies | 1. mozgókép szakos film- és televíziórendező 2. mozgókép szakos filmvágó 3. mozgókép szakos hangmester 4. mozgókép szakos gyártásszervező 5. mozgókép szakos operatőr 6. mozgókép szakos filmíró | 1. Motion Picture Director 2. Motion Picture Editor 3. Motion Picture Sound Director 4. Motion Picture Line Producer 5. Motion Picture Cinematographer 6. Motion Picture Screenwriter | 6 |
 
 | 102. |  |  | táncművész | Dance | táncművész | Dancer | 6 |
 
 | 103. |  |  | táncos és próbavezető | Dance and Rehearsal Coaching | táncos és próbavezető | Dancer and Coach | 6 |
 
-| 104. |  |  | tárgyalkotás | Object Design | 1. kerámiatervező 2. üvegtervező 3. fémműves | 1. Ceramic Designer 2. Glass Designer 3. Metal Designer | 6 |
+| 104. |  |  | tárgyalkotás | Designer Making | tárgyalkotó | Designer Maker | 6 |
 
 | 105. |  |  | televíziós műsorkészítő | Television Production | televíziós műsorkészítő | Television Production Expert | 6 |
 
@@ -228,6 +232,6 @@
 
 | 112. |  |  | zenekultúra | Music Culture | zenekultúra szakember | Music Culture Expert | 6 |
 
-3. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^21]
+3. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^28]
 
-[^21]: A 3. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (2) bekezdése, a 357/2017. (XI. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^28]: A 3. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (2) bekezdése, a 357/2017. (XI. 29.) Korm. rendelet 3. §-a, a 188/2018. (X. 12.) Korm. rendelet 6. §-a szerint módosított szöveg.
