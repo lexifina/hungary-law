@@ -32,14 +32,9 @@
 
 ## Határidő: a támogatóiokirat-módosítás kiadásakor
 
-## 7. a Sopron–Fertő kiemelt turisztikai fejlesztési térség meghatározásáról és a térségben megvalósítandó egyes fejlesztések megvalósításához szükséges források biztosításáról szóló 1862/2016. (XII. 27.) Korm. határozat [a továbbiakban: 1862/2016. (XII. 27.) Korm. határozat] 1. mellékletét az 1. melléklet szerint módosítja.
+## 7.[^1]
 
-1. melléklet az 1503/2018. (X. 12.) Korm. határozathoz
+1. melléklet az 1503/2018. (X. 12.) Korm. határozathoz[^2]
 
-Az 1862/2016. (XII. 27.) Korm. határozat 1. mellékletében foglalt táblázat C:12 mezője helyébe a következő rendelkezés lép:
-
-|  | (C) |
-
-| (1.) | [Indikatív támogatási keret (Mrd Ft)] |
-
-| (12.) | 14,86 |
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az. 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
