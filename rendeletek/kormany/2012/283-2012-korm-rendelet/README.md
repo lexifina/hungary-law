@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-283-20-
 | 2015-11-27 | 2012-283-20-22.4 | 139/2015. (VI. 9.) Korm. rendelet |
 | 2016-07-01 | 2012-283-20-22.5 | 169/2016. (VII. 1.) Korm. rendelet |
 | 2017-12-23 | 2012-283-20-22.6 | 407/2017. (XII. 15.) Korm. rendelet |
+| 2018-10-13 | 2012-283-20-22.7 | 188/2018. (X. 12.) Korm. rendelet |
