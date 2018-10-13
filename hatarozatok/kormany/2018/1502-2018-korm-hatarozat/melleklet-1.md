@@ -28,43 +28,7 @@
 
 ## Határidő: a ca) és cb) alpontban meghatározottak szerint
 
-## 2. A Kemény Ferenc Sportlétesítmény-fejlesztési Program, valamint egyéb dél-pesti és észak-csepeli beruházások előkészítése és megtervezése érdekében szükséges intézkedésekről szóló 2016/2017. (XII. 22.) Korm. határozat (a továbbiakban: Korm. határozat) a következő 11a. ponttal egészül ki:
-
-## (A Kormány)
-
-## „11a. egyetért azzal, hogy – a 9. és 11. ponttól eltérően – a 222/2017. (VIII. 11.) Korm. rendelet 2. § (2) bekezdés f), j), k), l) és m) pontjában foglalt előkészítési fázisokra – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak összegével együtt –
-
-## a) a 2. pont b) alpontjában meghatározott beruházás tekintetében 275 789 899 forint,
-
-## b) a 2. pont c) alpontjában meghatározott beruházás tekintetében 2 724 210 101 forint
-
-## forrás kerüljön felhasználásra;”
-
-## 3. A Korm. határozat 13. pont a) alpontja helyébe a következő rendelkezés lép:
-
-## (A Kormány
-
-## felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszter közreműködésével gondoskodjon a 2. pontban meghatározott beruházások előkészítésével összefüggő feladatok – a Beruházás Előkészítési Alap terhére nem támogatott előkészítési fázisok tekintetében a 9. pontban biztosított forráson felül történő – finanszírozása érdekében a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak összegével együtt)
-
-## „a) a 2018. évben 4 249 000 000 forint, a 2019. évben 12 230 000 000 forint, a 2020. évben 10 258 000 000 forint, a 2021. évben 6 876 000 000 forint és a 2022. évben 1 270 000 000 forint forrás biztosításáról a központi költségvetés XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, 5. Kemény Ferenc Program jogcím javára a KKBK Nonprofit Zrt. részére felhasználható módon.
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: a 2018. és 2019. évi forrás tekintetében a felmerülés ütemében
-
-## a 2020., a 2021. és a 2022. évi források tekintetében az adott évi központi költségvetés tervezése során”
-
-## 4. A Korm. határozat
-
-## a) 15. pont a) alpontjában a „9. pontban” szövegrész helyébe a „11a. pontban” szöveg, a „fázis” szövegrész helyébe a „fázisok” szöveg,
-
-## b) 15. pont b) alpontjában a „fázis” szövegrész helyébe a „fázisok” szöveg,
-
-## c) 17. pontjában az „a 9. pont” szövegrész helyébe az „– a 11a. pont figyelembevételével – a 9. pont” szöveg
-
-## lép.
+## 2–4.[^1]
 
 1. melléklet az 1502/2018. (X. 12.) Korm. határozathoz
 
@@ -135,3 +99,5 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
