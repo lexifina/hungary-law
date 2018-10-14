@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-322-20-
 | 2015-04-12 | 2007-322-20-22.14 | 94/2015. (IV. 9.) Korm. rendelet |
 | 2017-01-01 | 2007-322-20-22.15 | 473/2016. (XII. 27.) Korm. rendelet |
 | 2017-02-15 | 2007-322-20-22.16 | 473/2016. (XII. 27.) Korm. rendelet |
+| 2018-10-14 | 2007-322-20-22.17 | 473/2016. (XII. 27.) Korm. rendelet |
