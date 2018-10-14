@@ -1,5 +1,6 @@
-## 72. § A Tfvt. 59. §-a szerinti telepítési engedélyezési eljárásban szakkérdésként vizsgálni kell, hogy a telepítéshez tervezett talajvédelmi intézkedések és a talaj tulajdonságai a telepítendő ültetvény igényeinek megfelelőek-e.
+## 72. §[^71]
 
-## 29.[^63]
+## 29.[^72]
 
-[^63]: A 29. alcímet (73. §) a 135/2017. (VI. 9.) Korm. rendelet 12. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^71]: A 72. §-t a 186/2018. (X. 9.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^72]: A 29. alcímet (73. §) a 135/2017. (VI. 9.) Korm. rendelet 12. § (2) bekezdés b) pontja hatályon kívül helyezte.

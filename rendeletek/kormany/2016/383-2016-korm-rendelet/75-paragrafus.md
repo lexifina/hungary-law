@@ -14,6 +14,6 @@ a) nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállí
 
 b) ásványi nyersanyag kitermeléssel jár, szakkérdésként kell vizsgálni a kitermelni tervezett ásványi nyersanyag mennyiségét, fajtáját, felhasználását, a hasznosítás módjának meghatározását, az ásványvagyon-védelmi szempontok érvényesítését, valamint a bányajáradék-fizetési kötelezettséget.
 
-(3)[^64] A mezőgazdasági célú tereprendezés engedélyezésére irányuló elsőfokú eljárásban a bányászati hatáskörben eljáró megyei kormányhivatalt, másodfokú eljárásban, ha a fellebbezés az elsőfokú eljárásban vizsgált szakkérdéssel kapcsolatos, a Magyar Bányászati és Földtani Szolgálatot kell szakértőként kirendelni.
+(3)[^73] A mezőgazdasági célú tereprendezés engedélyezésére irányuló elsőfokú eljárásban a bányászati hatáskörben eljáró megyei kormányhivatalt, másodfokú eljárásban, ha a fellebbezés az elsőfokú eljárásban vizsgált szakkérdéssel kapcsolatos, a Magyar Bányászati és Földtani Szolgálatot kell szakértőként kirendelni.
 
-[^64]: A 75. § (3) bekezdése a 162/2017. (VI. 28.) Korm. rendelet 88. §-a szerint módosított szöveg.
+[^73]: A 75. § (3) bekezdése a 162/2017. (VI. 28.) Korm. rendelet 88. §-a szerint módosított szöveg.

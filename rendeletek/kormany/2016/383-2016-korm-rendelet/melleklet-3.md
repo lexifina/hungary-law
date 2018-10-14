@@ -890,7 +890,7 @@ Szombathelyi járás
 
 Kőszegi járás
 
-18.[^69] Veszprém megye
+18.[^79] Veszprém megye
 
 18.1. Devecseri Járási Hivatal
 
@@ -942,4 +942,4 @@ Letenyei járás
 
 Zalaegerszegi járás
 
-[^69]: A 3. melléklet 18. pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (9) bekezdésével megállapított szöveg.
+[^79]: A 3. melléklet 18. pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (9) bekezdésével megállapított szöveg.

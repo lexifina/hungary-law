@@ -19,3 +19,7 @@ d) két vagy több területi halgazdálkodási hatóság illetékességi terüle
 (5) Ha a folyóvíz medre hosszanti, illetve keresztirányban több területi halgazdálkodási hatóság illetékességi területét is érinti, – a (4) bekezdés c) és d) pontjában foglalt kivétellel – az a területi halgazdálkodási hatóság jár el, amelynek az illetékességi területe szerinti megyénél a Hhvtv. hatálybalépését megelőzően a vízterület a halászati vízterületek nyilvántartásában szerepelt.
 
 (6) A Hhvtv. 67. § (2) bekezdése szerinti közigazgatási hatósági eljárásban a vízilétesítmény elhelyezkedése szerint illetékes területi halgazdálkodási hatóság jár el.
+
+(7)[^39] A területi halgazdálkodási hatóság felügyeleti szerveként és a területi halgazdálkodási hatóság által első fokon hozott döntés esetében másodfokon a Pest Megyei Kormányhivatal jár el.
+
+[^39]: A 30. § (7) bekezdését a 186/2018. (X. 9.) Korm. rendelet 15. §-a iktatta be.
