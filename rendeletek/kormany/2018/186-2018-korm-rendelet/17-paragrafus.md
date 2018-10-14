@@ -1,0 +1,3 @@
+## 16. § A 383/2016. (XII. 2.) Korm. rendelet 37. §-a a következő (2a) bekezdéssel egészül ki:
+
+## „(2a) A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 29. § (2) bekezdésében foglaltak tekintetében a felszámolás tényének az ingatlan-nyilvántartásba történő feljegyzése, valamint az adós nevére vonatkozó adatváltozás átvezetése iránti megkeresésnek az illetékes elsőfokú ingatlanügyi hatóságok részére történő továbbítására a törvényszék székhelye szerint illetékes elsőfokú ingatlanügyi hatóságot, a fővárosban Budapest Főváros Kormányhivatala XI. Kerületi Hivatalát jelöli ki.”
