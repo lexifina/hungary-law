@@ -22,12 +22,15 @@ g) felszámolási eljárással összefüggésben lefolytatásra kerülő földá
 
 h) felszámolási eljárásban, önkormányzati adósságrendezési eljárásban az adásvételi szerződés megkötésére vonatkozó határidőt,
 
-i) a földrészlettel együtt nyilvántartott épület, építmény árverezők számára történő megtekintésének lehetőségét, annak módját és feltételeit.
+i) a földrészlettel együtt nyilvántartott épület, építmény árverezők számára történő megtekintésének lehetőségét, annak módját és feltételeit,
 
-(2a)[^3] A megkeresőnek igazolnia kell, hogy eleget tett a 17. §-ban és a Vht. 140. § (2) bekezdésében foglaltaknak.
+j)[^3] végrehajtási eljárásban azt, hogy a föld folyamatos árverezése iránti hirdetménye közzétételre került-e, a földre vételi ajánlat érkezett-e, illetve a becsérték módosításra került-e.
+
+(2a)[^4] A megkeresőnek igazolnia kell, hogy eleget tett a 17. §-ban foglaltaknak.
 
 (3) Ha a becsérték felülvizsgálatát felszámolási eljárásban a hitelezői választmány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 49. § (2) bekezdése alapján kezdeményezte, a bíróság által jóváhagyott becsértéket kell a megkeresésben feltüntetni.
 
 [^1]: Az 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 274. §-a, az 523/2017. (XII. 29.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1a) bekezdését az 52/2017. (III. 20.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^3]: Az 1. § (2a) bekezdését az 523/2017. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (2) bekezdés j) pontját a 186/2018. (X. 9.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^4]: Az 1. § (2a) bekezdését az 523/2017. (XII. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 186/2018. (X. 9.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

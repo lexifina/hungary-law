@@ -10,9 +10,9 @@
 
 (6) A föld árverési vevője a legmagasabb összegű érvényes ajánlatot tevő árverező. Ha a legmagasabb összegű vételi ajánlatra vonatkozóan elővásárlásra jogosult tesz elfogadó nyilatkozatot, az elővásárlásra jogosult lesz az árverési vevő. Ha több elővásárlásra jogosult tesz vételi ajánlatot elfogadó nyilatkozatot, közülük az első ranghelycsoportban szereplő elővásárlásra jogosult lesz az árverési vevő. Ha ezen első ranghelycsoportban több elővásárlásra jogosult szerepel, a kikiáltó helyben lefolytatott sorsolással dönt.
 
-(7)[^21] Amennyiben a legmagasabb összegű érvényes ajánlatot tevő árverező a vételárat nem utalta át határidőben, az árverést a 7. § (8) bekezdése szerinti következő legmagasabb ajánlatot tevő árverező nyeri.
+(7)[^23] Amennyiben a legmagasabb összegű érvényes ajánlatot tevő árverező a vételárat nem utalta át határidőben, az árverést a 7. § (8) bekezdése szerinti következő legmagasabb ajánlatot tevő árverező nyeri.
 
-(8)[^22] Ha a (7) bekezdés szerinti ki nem fizetett földet alacsonyabb áron vették meg, mint amennyit a fizetést elmulasztó árverező ajánlott, a fizetést elmulasztó köteles a két ajánlat közötti különbözetet 15 napon belül megfizetni a mezőgazdasági igazgatási szerv részére.
+(8)[^24] Ha a (7) bekezdés szerinti ki nem fizetett földet alacsonyabb áron vették meg, mint amennyit a fizetést elmulasztó árverező ajánlott, a fizetést elmulasztó köteles a két ajánlat közötti különbözetet 15 napon belül megfizetni a mezőgazdasági igazgatási szerv részére.
 
-[^21]: A 8. § (7) bekezdését az 523/2017. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
-[^22]: A 8. § (8) bekezdését az 523/2017. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^23]: A 8. § (7) bekezdését az 523/2017. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^24]: A 8. § (8) bekezdését az 523/2017. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
