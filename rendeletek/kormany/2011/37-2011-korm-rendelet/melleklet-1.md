@@ -1,6 +1,6 @@
-## 42. §[^184]
+## 42. §[^188]
 
-1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^185]
+1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^189]
 
 ## Az egyes támogatási kategóriák
 
@@ -646,5 +646,5 @@
 
 18. Nem állami támogatás
 
-[^184]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^185]: Az 1. melléklet a 38/2016. (III. 3.) Korm. rendelet 11. § (1) bekezdés a) pontjával megállapított, a 483/2017. (XII. 28.) Korm. rendelet 2. § (1) bekezdése szerint módosíott szöveg.
+[^188]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^189]: Az 1. melléklet a 38/2016. (III. 3.) Korm. rendelet 11. § (1) bekezdés a) pontjával megállapított, a 483/2017. (XII. 28.) Korm. rendelet 2. § (1) bekezdése szerint módosíott szöveg.

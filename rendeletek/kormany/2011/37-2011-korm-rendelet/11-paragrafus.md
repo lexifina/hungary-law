@@ -8,7 +8,7 @@
 
 (4) A csekély összegű támogatások esetében a támogatást nyújtó gondoskodik az uniós állami támogatási szabályokban meghatározott támogatáshalmozódási szabályok betartásáról.
 
-(5)[^86] A Bizottság külön kérésére a miniszter az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet és a 717/2014/EU bizottsági rendelet hatálya alá tartozó mezőgazdasági, halászati, erdészeti és vadgazdálkodási (a továbbiakban együtt: agrár) és vidékfejlesztési állami támogatások esetében – a csekély összegű támogatásokra vonatkozó bizottsági rendeletek alkalmazásával kapcsolatos, a kifizető ügynökség által működtetett nyilvántartási rendszer alapján – az általa összeállított információkat továbbítja a Bizottság részére.
+(5)[^86] A Bizottság kérésére a miniszter az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet és a 717/2014/EU bizottsági rendelet hatálya alá tartozó mezőgazdasági, halászati, erdészeti és vadgazdálkodási (a továbbiakban együtt: agrár) és vidékfejlesztési állami támogatások esetében – a csekély összegű támogatásokra vonatkozó bizottsági rendeletekben meghatározott, a kifizető ügynökség által működtetett, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 26. § (1) bekezdés f) pontja szerint vezetett nyilvántartási rendszer alapján – az általa összeállított információkat továbbítja a Bizottság részére.
 
 (6)[^87] Az 1407/2013/EU bizottsági rendelet hatálya alá tartozó agrár- és vidékfejlesztési állami támogatások kedvezményezettjei vonatkozásában a (5) bekezdésben meghatározott nyilvántartási rendszer működtetése céljából
 
@@ -32,7 +32,7 @@ b) a mezőgazdasági és halászati csekély összegű támogatások halmozott �
 [^83]: A 11. § (1) bekezdés a 381/2012. (XII. 19.) Korm. rendelet 12. § b) pontja, az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
 [^84]: A 11. § (2) bekezdés a 381/2012. (XII. 19.) Korm. rendelet 12. § c) pontja, az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
 [^85]: A 11. § (3) bekezdése a 158/2014. (VI. 30.) Korm. rendelet 13. § 11. pontja szerint módosított szöveg.
-[^86]: A 11. § (5) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 67. § (7) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 547. §-ával megállapított, a 328/2016. (X. 28.) Korm. rendelet 15. § (2) bekezdés b) és c) pontja szerint módosított szöveg.
+[^86]: A 11. § (5) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 67. § (7) bekezdése iktatta be, szövege a 186/2018. (X. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^87]: A 11. § (6) bekezdését az 550/2013. (XII. 30.) Korm. rendelet 67. § (7) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 547. §-ával megállapított szöveg.
 [^88]: A 11. § (6) bekezdés a) pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 12. pontja, a 328/2016. (X. 28.) Korm. rendelet 15. § (2) bekezdés d) és e) pontja szerint módosított szöveg.
 [^89]: A 11. § (6) bekezdés b) pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 13. pontja, a 328/2016. (X. 28.) Korm. rendelet 15. § (2) bekezdés e) pontja, a 328/2016. (X. 28.) Korm. rendelet 15. § (2) bekezdés f) pontja szerint módosított szöveg.
