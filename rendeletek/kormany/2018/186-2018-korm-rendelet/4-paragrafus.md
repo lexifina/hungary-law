@@ -1,1 +1,0 @@
-## „(6) A Polgári Törvénykönyv szerinti átalakulást, egyesülést, szétválást követően a csekély összegű támogatás első alkalommal történő igénylésekor a jogutód kedvezményezett köteles a kifizető ügynökség részére az átalakulás, egyesülés, szétválás tényéről nyilatkozni.”
