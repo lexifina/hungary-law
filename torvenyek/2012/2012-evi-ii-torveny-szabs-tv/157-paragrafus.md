@@ -16,7 +16,7 @@ f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés céljából,
 
 g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás lefolytatása céljából.
 
-(1a) A bíróság, a szabálysértési hatóság a közvetítői eljárással összefüggésben a 82/A. § (5) bekezdésében foglalt feltétel megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a szabálysértési nyilvántartásokból a 155. § (2a) bekezdése szerint kezelt adatokat.
+(1a) A bíróság, a szabálysértési hatóság a közvetítői eljárással összefüggésben a 82/A. § (5) bekezdésében foglalt feltétel megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a szabálysértési nyilvántartásokból a 155. § (2b) bekezdése szerint kezelt adatokat.
 
 (2) A szabálysértési nyilvántartó szerv
 

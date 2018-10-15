@@ -32,7 +32,9 @@ j) a közvetítő a közvetítői eljárás eredményes lefolytatásáról táj�
 
 k) a magánindítványra üldözendő szabálysértés esetében a magánindítvány hiányzik és az már nem pótolható, illetve az illetékekről szóló törvényben meghatározott szabálysértési eljárási illeték megfizetésére felhívás ellenére nem került sor,
 
-l) megállapítható, hogy e törvény rendelkezései szerint a feljelentés elutasításának lett volna helye.
+l) megállapítható, hogy e törvény rendelkezései szerint a feljelentés elutasításának lett volna helye,
+
+m) a 10. § szerinti elzárást kizáró ok kerül a 178/B. § (11) bekezdése tekintetében megállapításra.
 
 (2) Az elkobzás alkalmazásáról szóló megszüntető határozatban a szabálysértési hatóság szabálysértési költséget állapíthat meg.
 

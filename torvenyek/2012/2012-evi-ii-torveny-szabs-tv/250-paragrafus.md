@@ -16,6 +16,10 @@ d) meghatározza a bírósági ügyintézők által szabálysértési eljárásb
 
 e) meghatározza a szabálysértési nyilvántartás kezelésével, valamint az abból történő adatigényléssel kapcsolatos közigazgatási hatósági eljárásra vonatkozó kiegészítő és eltérő szabályokat,
 
+f) meghatározza az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés szerinti eljárásra jogosult más szerv vagy szervezetek körét és feladataikat,
+
+g) meghatározza az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés elkövetőjének tulajdonában álló ingóságok ideiglenes tárolását végző szervet, illetve az ingóságok tárolására és megsemmisítésére vonatkozó részletes szabályokat.
+
 (2) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy
 
 a) a törvény végrehajtásával összefüggő feladatok ellátásának rendjét, a szabálysértési eljárás, valamint a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben a közérdekű munka végrehajtásának,
@@ -44,4 +48,4 @@ részletes szabályait rendeletben szabályozza.
 
 (3a) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy a szabálysértési szabályozásért felelős miniszterrel egyetértésben a járási hivatal 40/A. § szerinti általánostól eltérő illetékességét, valamint a járási hivatal eltérő illetékességgel történő eljárásának végrehajtási feltételeit rendeletben meghatározza.
 
-(4) Felhatalmazást kapnak a helyi önkormányzatok, a főváros tekintetében a fővárosi önkormányzat a 179/A. § (2) és (3) bekezdésében meghatározottak szerint, hogy a közrend, a közbiztonság, a közegészség és a kulturális értékek védelme érdekében rendeletben kijelöljék a közterület meghatározott részeit, ahol az életvitelszerűen megvalósuló közterületi tartózkodás jogellenesnek minősül.
+(4)

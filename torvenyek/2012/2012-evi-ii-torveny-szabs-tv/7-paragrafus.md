@@ -22,4 +22,4 @@ a) a büntetés, intézkedés kiszabásának további törvényi feltételeit,
 
 b) az egyes büntetések, valamint a helyszíni bírság kiszabásának kizártságát,
 
-c) a helyszíni eljárásra, valamint a büntetés, intézkedés végrehajtására vonatkozó eltérő szabályokat.
+c) az alkalmazható kényszerintézkedésekre, a helyszíni eljárásra, az előkészítő eljárásra, a bírósági eljárásra, valamint a büntetés, intézkedés végrehajtására vonatkozó eltérő szabályokat.
