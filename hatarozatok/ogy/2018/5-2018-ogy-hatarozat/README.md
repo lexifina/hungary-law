@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-5-30-41
 | 2018-06-11 | 2018-5-30-41.5 | 11/2018. (VI. 12.) OGY határozat |
 | 2018-07-02 | 2018-5-30-41.6 | 13/2018. (VII. 3.) OGY határozat |
 | 2018-10-01 | 2018-5-30-41.7 | 19/2018. (X. 3.) OGY határozat |
+| 2018-10-15 | 2018-5-30-41.8 | 21/2018. (X. 16.) OGY határozat |
