@@ -1,48 +1,48 @@
-21. § (1)[^64] Az ügyfél a kérelem benyújtásakor igazgatási-szolgáltatási díjat fizet postai befizetéssel vagy átutalással a NEAK Magyar Államkincstárnál vezetett 10032000-01301005 számú előirányzat-felhasználási keretszámlájára, melynek összege:
+21. § (1)[^61] Az ügyfél a kérelem benyújtásakor igazgatási-szolgáltatási díjat fizet postai befizetéssel vagy átutalással a NEAK Magyar Államkincstárnál vezetett 10032000-01301005 számú előirányzat-felhasználási keretszámlájára, melynek összege:
 
 a) egyszerűsített eljárásrend esetén
 
 aa) gyógyszer esetén 300 000 Ft,
 
-ab)[^65] tápszer és forgalomba hozatalra engedélyezett, a Szabványos Vényminta Gyűjteményben vagy a Gyógyszerkönyvben is szereplő gyógyszer esetén 30 000 Ft,
+ab)[^62] tápszer és forgalomba hozatalra engedélyezett, a Szabványos Vényminta Gyűjteményben vagy a Gyógyszerkönyvben is szereplő gyógyszer esetén 30 000 Ft,
 
 b) normál eljárásrend esetén 1 500 000 Ft.
 
-(2)[^66]
+(2)[^63]
 
-(3)[^67] Az e rendeletben megállapított igazgatási-szolgáltatási díjköteles tevékenység az általános forgalmi adóról szóló törvény hatálya alá nem tartozó szolgáltatásnak minősül.
+(3)[^64] Az e rendeletben megállapított igazgatási-szolgáltatási díjköteles tevékenység az általános forgalmi adóról szóló törvény hatálya alá nem tartozó szolgáltatásnak minősül.
 
-(4)[^68] A befizetett díj az eljáró szerv bevétele. A díj a kérelem visszavonása esetén, a felmerült költségek levonásával visszaigényelhető. Az eljáró szerv a bevételeket a nyilvántartásában elkülönítetten vezeti.
+(4)[^65] A befizetett díj az eljáró szerv bevétele. A díj a kérelem visszavonása esetén, a felmerült költségek levonásával visszaigényelhető. Az eljáró szerv a bevételeket a nyilvántartásában elkülönítetten vezeti.
 
-(5)[^69]
+(5)[^66]
 
-(6)[^70]
+(6)[^67]
 
 (7) Az Itv.
 
 a) 28. §-ának (2)–(3) bekezdésében foglaltakat a díjfizetési kötelezettség tekintetében,
 
-b)[^71]
+b)[^68]
 
-c)[^72] 32. §-ának (1) bekezdésében, illetve 79. §-ának (1) bekezdésében foglaltakat a díj visszatérítése tekintetében,
+c)[^69] 32. §-ának (1) bekezdésében, illetve 79. §-ának (1) bekezdésében foglaltakat a díj visszatérítése tekintetében,
 
-d)[^73] 86. §-ában foglaltakat az elévülés tekintetében értelemszerűen kell alkalmazni.
+d)[^70] 86. §-ában foglaltakat az elévülés tekintetében értelemszerűen kell alkalmazni.
 
-(8)[^74]
+(8)[^71]
 
 (9) A díjak nyilvántartására és elszámolására az államháztartás alrendszerébe tartozó, költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségeiről szóló hatályos jogszabályi előírásokat kell alkalmazni.
 
-(10)[^75]
+(10)[^72]
 
-[^64]: A 21. § (1) bekezdése a 10/2004. (XII. 15.) EüM rendelet 15. § (1) bekezdésével megállapított, nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 35. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^65]: A 21. § (1) bekezdése a) pontjának ab) alpontja az 53/2006. (XII. 28.) EüM rendelet 13. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult eljárásokban kell alkalmazni.
-[^66]: A 21. § (2) bekezdését a 4/2010. (VIII. 12.) NEFMI rendelet 5. § b) pontja hatályon kívül helyezte.
-[^67]: A 21. § (3) bekezdése a 10/2004. (XII. 15.) EüM rendelet 15. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 19. §-ának (6) bekezdése alapján a rendelkezést a folyamatban lévő kérelmekre, eljárásokra is alkalmazni kell.
-[^68]: A 21. § (4) bekezdése a 16/2007. (IV. 2.) EüM rendelet 1. § (1) bekezdése a) pontjának ab) alpontja szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a 2007. április 5. napját követően felírt vények esetében kell alkalmazni.
-[^69]: A 21. § (5) bekezdését a 4/2010. (VIII. 12.) NEFMI rendelet 5. § b) pontja hatályon kívül helyezte.
-[^70]: A 21. § (6) bekezdését a 45/2009. (XII. 18.) EüM rendelet 4. § (4) bekezdése hatályon kívül helyezte.
-[^71]: A 21. § (7) bekezdés b) pontját a 45/2009. (XII. 18.) EüM rendelet 4. § (4) bekezdése hatályon kívül helyezte.
-[^72]: A 21. § (7) bekezdésének c) pontja a 10/2004. (XII. 15.) EüM rendelet 15. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 19. §-ának (6) bekezdése alapján a rendelkezést a folyamatban lévő kérelmekre, eljárásokra is alkalmazni kell.
-[^73]: A 21. § (7) bekezdésének d) pontja a 10/2004. (XII. 15.) EüM rendelet 15. §-ának (2) bekezdésével megállapított, a 16/2007. (IV. 2.) EüM rendelet 1. § (1) bekezdése b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a 2007. április 5. napját követően felírt vények esetében kell alkalmazni.
-[^74]: A 21. § (8) bekezdését a 10/2004. (XII. 15.) EüM rendelet 19. § (3) bekezdésének a) pontja hatályon kívül helyezte.
-[^75]: A 21. § (10) bekezdését a 10/2004. (XII. 15.) EüM rendelet 15. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 45/2009. (XII. 18.) EüM rendelet 4. § (4) bekezdése.
+[^61]: A 21. § (1) bekezdése a 10/2004. (XII. 15.) EüM rendelet 15. § (1) bekezdésével megállapított, nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 35. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^62]: A 21. § (1) bekezdése a) pontjának ab) alpontja az 53/2006. (XII. 28.) EüM rendelet 13. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult eljárásokban kell alkalmazni.
+[^63]: A 21. § (2) bekezdését a 4/2010. (VIII. 12.) NEFMI rendelet 5. § b) pontja hatályon kívül helyezte.
+[^64]: A 21. § (3) bekezdése a 10/2004. (XII. 15.) EüM rendelet 15. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 19. §-ának (6) bekezdése alapján a rendelkezést a folyamatban lévő kérelmekre, eljárásokra is alkalmazni kell.
+[^65]: A 21. § (4) bekezdése a 16/2007. (IV. 2.) EüM rendelet 1. § (1) bekezdése a) pontjának ab) alpontja szerint módosított szöveg. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a 2007. április 5. napját követően felírt vények esetében kell alkalmazni.
+[^66]: A 21. § (5) bekezdését a 4/2010. (VIII. 12.) NEFMI rendelet 5. § b) pontja hatályon kívül helyezte.
+[^67]: A 21. § (6) bekezdését a 45/2009. (XII. 18.) EüM rendelet 4. § (4) bekezdése hatályon kívül helyezte.
+[^68]: A 21. § (7) bekezdés b) pontját a 45/2009. (XII. 18.) EüM rendelet 4. § (4) bekezdése hatályon kívül helyezte.
+[^69]: A 21. § (7) bekezdésének c) pontja a 10/2004. (XII. 15.) EüM rendelet 15. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 19. §-ának (6) bekezdése alapján a rendelkezést a folyamatban lévő kérelmekre, eljárásokra is alkalmazni kell.
+[^70]: A 21. § (7) bekezdésének d) pontja a 10/2004. (XII. 15.) EüM rendelet 15. §-ának (2) bekezdésével megállapított, a 16/2007. (IV. 2.) EüM rendelet 1. § (1) bekezdése b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a 2007. április 5. napját követően felírt vények esetében kell alkalmazni.
+[^71]: A 21. § (8) bekezdését a 10/2004. (XII. 15.) EüM rendelet 19. § (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^72]: A 21. § (10) bekezdését a 10/2004. (XII. 15.) EüM rendelet 15. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 45/2009. (XII. 18.) EüM rendelet 4. § (4) bekezdése.
