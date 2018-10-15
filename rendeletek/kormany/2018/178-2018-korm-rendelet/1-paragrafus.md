@@ -1,0 +1,1 @@
+## 1. Azon szerv vagy szervezetek körének és feladatainak meghatározása, amelyek segítségnyújtása az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés vonatkozásában együttműködésnek minősül
