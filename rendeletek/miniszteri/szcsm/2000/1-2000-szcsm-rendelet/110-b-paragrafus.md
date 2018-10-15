@@ -1,10 +1,10 @@
 ## Komplex szükségletfelmérés
 
-110/B. § (1)[^325] A támogatott lakhatás a komplex szükségletfelmérés eredménye alapján biztosítható. A komplex szükségletfelmérést az igénybevevőnek a szolgáltatást megalapozó körülményeiben történt változás esetén, de legkésőbb az első szükségletfelmérés időpontját követő másfél év múlva, ezt követően pedig legalább háromévente meg kell ismételni.
+110/B. § (1)[^324] A támogatott lakhatás a komplex szükségletfelmérés eredménye alapján biztosítható. A komplex szükségletfelmérést az igénybevevőnek a szolgáltatást megalapozó körülményeiben történt változás esetén, de legkésőbb az első szükségletfelmérés időpontját követő másfél év múlva, ezt követően pedig legalább háromévente meg kell ismételni.
 
-(2)[^326] A komplex szükségletfelmérést az intézményvezető által az intézmény munkatársai közül kijelölt személy és az intézményvezető kérésére a Főigazgatóság által kijelölt személy együtt végzi. A komplex szükségletfelmérés elvégzésére a Főigazgatóság részéről az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről szóló miniszteri rendelet szerinti komplex támogatási szükségletmérő képzés tanúsítványával rendelkező személy jelölhető ki.
+(2)[^325] A komplex szükségletfelmérést az intézményvezető által az intézmény munkatársai közül kijelölt személy és az intézményvezető kérésére a Főigazgatóság által kijelölt személy együtt végzi. A komplex szükségletfelmérés elvégzésére a Főigazgatóság részéről az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről szóló miniszteri rendelet szerinti komplex támogatási szükségletmérő képzés tanúsítványával rendelkező személy jelölhető ki.
 
-(2a)[^327] A komplex szükségletfelmérés végzésére kijelölhető személyekről a Főigazgatóság nyilvántartást vezet.
+(2a)[^326] A komplex szükségletfelmérés végzésére kijelölhető személyekről a Főigazgatóság nyilvántartást vezet.
 
 (3) A komplex szükségletfelmérés
 
@@ -12,15 +12,15 @@ a) szakmai módszereit a szociál- és nyugdíjpolitikáért felelős miniszter 
 
 b) eredményét a 14. számú melléklet szerint kell dokumentálni.
 
-(4)[^328] Ha az ellátást igénybevevő a komplex szükségletfelmérés eredményével nem ért egyet, azt az intézményvezetőhöz benyújtott kérelme alapján meg kell ismételni. A megismételt felmérést olyan, a (2) bekezdés szerinti személyek végezhetik, akik nem vettek részt az ellátást igénybevevő korábbi komplex szükségletfelmérésében. Ha az intézményben nincs ilyen kijelölhető személy, a Főigazgatóság két személyt jelöl ki.
+(4)[^327] Ha az ellátást igénybevevő a komplex szükségletfelmérés eredményével nem ért egyet, azt az intézményvezetőhöz benyújtott kérelme alapján meg kell ismételni. A megismételt felmérést olyan, a (2) bekezdés szerinti személyek végezhetik, akik nem vettek részt az ellátást igénybevevő korábbi komplex szükségletfelmérésében. Ha az intézményben nincs ilyen kijelölhető személy, a Főigazgatóság két személyt jelöl ki.
 
-(5)[^329] A komplex szükségletfelmérés költségét a fenntartó viseli.
+(5)[^328] A komplex szükségletfelmérés költségét a fenntartó viseli.
 
-(6)[^330] A komplex szükségletfelmérés eredménye más fenntartó által biztosított támogatott lakhatás igénybevételekor is felhasználható az (1) bekezdésben meghatározott időtartamon belül, kivéve, ha az igénybevevőnek a szolgáltatást megalapozó körülményeiben történt változás indokolja a komplex szükségletfelmérés ismételt elvégzését.
+(6)[^329] A komplex szükségletfelmérés eredménye más fenntartó által biztosított támogatott lakhatás igénybevételekor is felhasználható az (1) bekezdésben meghatározott időtartamon belül, kivéve, ha az igénybevevőnek a szolgáltatást megalapozó körülményeiben történt változás indokolja a komplex szükségletfelmérés ismételt elvégzését.
 
-[^325]: A 110/B. § (1) bekezdése a 2/2015. (I. 14.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^326]: A 110/B. § (2) bekezdése a 39/2015. (VIII. 28.) EMMI rendelet 2. § (1) bekezdésével megállapított, a 7/2018. (II. 5.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^327]: A 110/B. § (2a) bekezdésést a 39/2015. (VIII. 28.) EMMI rendelet 2. § (2) bekezdése iktatta be, szövege a 43/2016. (XII. 27.) EMMI rendelet 6. § e) pontja szerint módosított szöveg.
-[^328]: A 110/B. § (4) bekezdése a 39/2015. (VIII. 28.) EMMI rendelet 2. § (3) bekezdésével megállapított, a 43/2016. (XII. 27.) EMMI rendelet 6. § e) pontja szerint módosított szöveg.
-[^329]: A 110/B. § (5) bekezdését a 2/2015. (I. 14.) EMMI rendelet 9. § (2) bekezdése iktatta be.
-[^330]: A 110/B. § (6) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 25. §-a iktatta be.
+[^324]: A 110/B. § (1) bekezdése a 2/2015. (I. 14.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^325]: A 110/B. § (2) bekezdése a 39/2015. (VIII. 28.) EMMI rendelet 2. § (1) bekezdésével megállapított, a 7/2018. (II. 5.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^326]: A 110/B. § (2a) bekezdésést a 39/2015. (VIII. 28.) EMMI rendelet 2. § (2) bekezdése iktatta be, szövege a 43/2016. (XII. 27.) EMMI rendelet 6. § e) pontja szerint módosított szöveg.
+[^327]: A 110/B. § (4) bekezdése a 39/2015. (VIII. 28.) EMMI rendelet 2. § (3) bekezdésével megállapított, a 43/2016. (XII. 27.) EMMI rendelet 6. § e) pontja szerint módosított szöveg.
+[^328]: A 110/B. § (5) bekezdését a 2/2015. (I. 14.) EMMI rendelet 9. § (2) bekezdése iktatta be.
+[^329]: A 110/B. § (6) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 25. §-a iktatta be.

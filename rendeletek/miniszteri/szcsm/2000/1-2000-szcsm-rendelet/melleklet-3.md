@@ -140,13 +140,13 @@
 
 | MUNKAKÖRÖK | utcai szociális munka | hajléktalan személyek nappali melegedője |
 
-| intézményvezető | - a szociális munkatársak közül 1 fő, - integrált intézmény esetében az integrált intézmény vezetője vagy az általa kijelölt személy | 1 fő |
+| intézményvezető | – a szociális munkatársak közül 1 fő, – integrált intézmény esetében az integrált intézmény vezetője vagy az általa kijelölt személy | 1 fő |
 
-|  | szolgálatonként | 50 főre vetítve |
+|  | szolgálatonként | intézményenként | ezenfelül 50 főre vetítve |
 
-| szociális munkatárs | 2 fő | heti 20 óra |
+| szociális munkatárs | 2 fő | heti 20 óra | további heti 20 óra |
 
-| segítő | 1 fő |
+| segítő | 2 fő | további 1 fő |
 
 | IV. 2. |
 
