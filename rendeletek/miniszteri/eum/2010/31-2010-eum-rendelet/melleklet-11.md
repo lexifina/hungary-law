@@ -1,6 +1,6 @@
-11. melléklet a 31/2010. (V. 13.) EüM rendelethez[^19]
+11. melléklet a 31/2010. (V. 13.) EüM rendelethez[^23]
 
-## A rheumatoid arthritis diagnosztikájának és kezelésének finanszírozási eljárásrendje
+A rheumatoid arthritis diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
 1. Az eljárásrend tárgyát képező betegség, betegcsoport megnevezése
 
@@ -60,7 +60,11 @@ vagy
 
 4.4.4. 3 hónapig alkalmazott teljes dózisú vagy tolerálható dózisú DMARD kombinációs kezelés hatástalansága esetén engedélyezett társadalombiztosítási támogatással
 
-4.5. Autológ őssejttranszplantáció (opcionálisan, nem rutinszerű)
+4.5. Célzott szintetikus DMARD
+
+JAK gátlók: baricitinib, tofacitinib
+
+4.6. Autológ őssejttranszplantáció (opcionálisan, nem rutinszerű)
 
 5. Rheumatoid arthritis biológiai kezelése
 
@@ -116,7 +120,13 @@ vagy
 
 5.2.11. A kijelölt centrumban, RA kezelésében jártas, megfelelő tapasztalattal rendelkező reumatológus szakorvos kompetenciája az anti-TNF-α, az interleukin-6 receptor gátló és a B sejt gátló (rituximab) terápia indikálása és alkalmazása.
 
-6. Szövődmények monitorozása, ellenőrzése TNF-α gátló kezelés és az interleukin-6 receptor gátló terápiák alkalmazása esetén
+5.3. Célzott szintetikus DMARD terápia (JAK gátlók)
+
+5.3.1. Közepesen súlyos vagy súlyos aktív RA esetén azon betegeknél, akik esetében a 3 hónapig alkalmazott kombinációs DMARD (beleértve a metothrexátot, vagy hatástalanság és intolerancia esetén a leflunomid alkalmazást is) kezelés ellenére a DAS28 szerinti betegségaktivitás magas, illetve egyéb rossz prognosztikai faktorok (seropozitivitás, vagy struktúrális izületi károsodás, vagy magas betegség aktivitás, vagy kettő vagy több konvencionális DMARD kezelés hatástalansága vagy intoleranciája) állnak fenn.
+
+5.3.2. A JAK gátlók alkalmazása a biológiai terápiát követően kezdhető meg.
+
+6. Szövődmények monitorozása, ellenőrzése TNF-α gátló kezelés, interleukin-6 receptor gátló-, valamint JAK gátló terápiák alkalmazása esetén
 
 6.1. Opportunista infekciók
 
@@ -248,6 +258,8 @@ vagy
 
 7.2.6.6. CTLA-4 analóg: abatacept
 
+7.2.6.7. Célzott szintetikus DMARD terápia (JAK gátlók): baricitinib, tofacitinib
+
 8. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
 
 8.1. A területre fordított közkiadások alakulása, monitorozása.
@@ -292,43 +304,47 @@ vagy
 
 |  | A | B | C | D |
 
-| 1 | ATC kód | Hatóanyag | Kategória | Megjegyzés |
+|  | ATC kód | Hatóanyag | Kategória | Megjegyzés |
 
-| 2 | A07EC01 | sulfasalazin | DMARD | Betegségmódosító szerek |
+| 1 | A07EC01 | sulfasalazin | DMARD | Betegségmódosító szerek |
 
-| 3 | L01BA01 | metotrexát | DMARD | Betegségmódosító szerek |
+| 2 | L01BA01 | metotrexát | DMARD | Betegségmódosító szerek |
 
-| 4 | L04AA13 | LEF | DMARD | Betegségmódosító szerek |
+| 3 | L04AA13 | LEF | DMARD | Betegségmódosító szerek |
 
-| 5 | L04AD01 | ciklosporin | DMARD | Betegségmódosító szerek |
+| 4 | L04AD01 | ciklosporin | DMARD | Betegségmódosító szerek |
 
-| 6 | L04AX01 | azathioprin | DMARD | Betegségmódosító szerek |
+| 5 | L04AX01 | azathioprin | DMARD | Betegségmódosító szerek |
 
-| 7 | P01BA01 | chloroquin | DMARD | Betegségmódosító szerek |
+| 6 | P01BA01 | chloroquin | DMARD | Betegségmódosító szerek |
 
-| 8 | L04AB01 | etanercept | TNF alfa gátló | Biológiai terápia eszközei |
+| 7 | L04AB01 | etanercept | TNF alfa gátló | Biológiai terápia eszközei |
 
-| 9 | L04AA24 | abatacept | CTLA-4 analóg | Biológiai terápia eszközei |
+| 8 | L04AA24 | abatacept | CTLA-4 analóg | Biológiai terápia eszközei |
 
-| 10 | L04AB02 | infliximab | TNF alfa gátló | Biológiai terápia eszközei |
+| 9 | L04AA29 | tofacitinib | JAK gátló | Betegségmódosító szerek |
 
-| 11 | L04AB04 | adalimumab | TNF alfa gátló | Biológiai terápia eszközei |
+| 10 | L04AA37 | baricitinib | JAK gátló | Betegségmódosító szerek |
 
-| 12 | L04AB06 | golimumab | TNF alfa gátló | Biológiai terápia eszközei |
+| 11 | L04AB02 | infliximab | TNF alfa gátló | Biológiai terápia eszközei |
 
-| 13 | L04AB05 | certolizumab-pegol | TNF alfa gátló | Biológiai terápia eszközei |
+| 12 | L04AB04 | adalimumab | TNF alfa gátló | Biológiai terápia eszközei |
 
-| 14 | L04AC07 | tocilizumab | IL-6 R gátló | Biológiai terápia eszközei |
+| 13 | L04AB06 | golimumab | TNF alfa gátló | Biológiai terápia eszközei |
 
-| 15 | L01XC02 | rituximab | B sejt gátló | Biológiai terápia eszközei |
+| 14 | L04AB05 | certolizumab-pegol | TNF alfa gátló | Biológiai terápia eszközei |
 
-| 16 | M01A | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
+| 15 | L04AC07 | tocilizumab | IL-6 R gátló | Biológiai terápia eszközei |
 
-| 17 | H02AB04 | metilprednizolon | Szteroid | Szteroid gyógyszerek |
+| 16 | L01XC02 | rituximab | B sejt gátló | Biológiai terápia eszközei |
 
-| 18 | H02AB06 | prednizolon | Szteroid | Szteroid gyógyszerek |
+| 17 | M01A | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
 
-| 19 | H02AB08 | triamcinolon | Szteroid | Szteroid gyógyszerek |
+| 18 | H02AB04 | metilprednizolon | Szteroid | Szteroid gyógyszerek |
+
+| 19 | H02AB06 | prednizolon | Szteroid | Szteroid gyógyszerek |
+
+| 20 | H02AB08 | triamcinolon | Szteroid | Szteroid gyógyszerek |
 
 10. Fogalmak, rövidítések
 
@@ -366,4 +382,6 @@ AZA Azathioprin
 
 NSAID Non-steroid anti-inflammatory drug
 
-[^19]: A 11. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (9) bekezdésével megállapított szöveg.
+JAK Janus-kináz
+
+[^23]: A 11. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (9) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (5) bekezdése szerint módosított szöveg.

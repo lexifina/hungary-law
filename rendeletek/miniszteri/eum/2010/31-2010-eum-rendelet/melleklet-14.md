@@ -1,6 +1,6 @@
-14. melléklet a 31/2010. (V. 13.) EüM rendelethez[^22]
+14. melléklet a 31/2010. (V. 13.) EüM rendelethez[^26]
 
-## Az arthritis psoriatica diagnosztikájának és kezelésének finanszírozási eljárásrendje
+Az arthritis psoriatica diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
 1. Az eljárásrend tárgyát képező betegség, betegcsoport megnevezése
 
@@ -302,4 +302,4 @@ SSZ Szulfaszalazin
 
 NSAID Non-steroid anti-inflammatory drug
 
-[^22]: A 14. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (12) bekezdésével megállapított szöveg.
+[^26]: A 14. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (12) bekezdésével megállapított szöveg.

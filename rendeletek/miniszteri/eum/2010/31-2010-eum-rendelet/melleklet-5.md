@@ -1,5 +1,3 @@
-## A kemoterápia következtében kialakuló anémia kezelésének finanszírozási eljárásrendje
-
 ## 1. Az eljárásrend tárgyát képező betegség, betegcsoport megnevezése
 
 ## Daganatos megbetegedések
@@ -298,9 +296,9 @@
 
 ## OENO: Orvosi eljárások nemzetközi osztályozása
 
-5. melléklet a 31/2010. (V. 13.) EüM rendelethez[^12]
+5. melléklet a 31/2010. (V. 13.) EüM rendelethez[^17]
 
-## A Parkinson betegségcsoport diagnosztikájának és kezelésének finanszírozási eljárásrendje
+A Parkinson betegségcsoport diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
 1. Az eljárásrend tárgyát képező betegség, betegcsoport megnevezése
 
@@ -538,4 +536,4 @@ ATC Gyógyszerek anatómiai, terápiás, illetve kémiai osztályozása
 
 BNO Betegségek nemzetközi osztályozása
 
-[^12]: Az 5. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 9/2017. (V. 31.) EMMI rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^17]: Az 5. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 9/2017. (V. 31.) EMMI rendelet 6. § (1) bekezdése szerint módosított szöveg.

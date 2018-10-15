@@ -54,6 +54,8 @@
 
 ## 2.1. TNM klinikai klasszifikáció, primer tumor
 
+## 4K01723_0
+
 | T | Primer tumor |
 
 | TX | Primer tumor nem ítélhető meg |
@@ -80,6 +82,8 @@
 
 ## 2.2. TNM klinikai klasszifikáció, regionális nyirokcsomó
 
+## 4K01723_1
+
 | N | Regionális nyirokcsomók |
 
 | NX | Regionális nyirokcsomóáttét nem igazolható |
@@ -92,6 +96,8 @@
 
 ## 2.3. TNM klinikai klasszifikáció, Távoli áttétek
 
+## 4K01723_2
+
 | M | Távoli áttétek |
 
 | M0 | Távoli áttét nincs |
@@ -101,6 +107,8 @@
 ## Forrás: EAU Guidelines, renal cell carcinoma 2013
 
 ## 2.4. G Szövettani grading, Fuhrman szerinti felosztás
+
+## 4K01723_3
 
 | G | Szövettani grading Sejtmag mérete, Sejtmag alakja, Nucleolus |
 
@@ -260,11 +268,15 @@
 
 ## 5.1. Releváns BNO kódok
 
+## 4K01723_4
+
 | BNO | BNO megnevezése |
 
 | C64H0 | A vese rosszindulatú daganata, kivéve a vesemedencét |
 
 ## 5.2. Releváns OENO kódok
+
+## 4K01723_5
 
 | OENO | OENO megnevezése |
 
@@ -302,6 +314,8 @@
 
 ## 5.3. Releváns HBCS kódok
 
+## 4K01723_6
+
 | HBCS | HBCS megnevezése |
 
 | 566C | Vese, ureter, húgyhólyag jelentős műtétei daganat miatt |
@@ -313,6 +327,8 @@
 | 608Z | Vese-, húgyutak műtétei (kivéve: jelentős műtétek) súlyos társult betegséggel |
 
 ## 5.4. ATC kódok
+
+## 4K01723_7
 
 | ATC | ATC megnevezése |
 
@@ -330,6 +346,6 @@
 
 | L01XE17 | axitinib |
 
-3. melléklet a 31/2010. (V. 13.) EüM rendelethez[^10]
+3. melléklet a 31/2010. (V. 13.) EüM rendelethez[^15]
 
-[^10]: A 3. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^15]: A 3. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.

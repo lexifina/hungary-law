@@ -1,6 +1,6 @@
-15. melléklet a 31/2010. (V. 13.) EüM rendelethez[^23]
+15. melléklet a 31/2010. (V. 13.) EüM rendelethez[^27]
 
-## Oszteoporózis következtében kialakuló csonttörés primer prevenciójának finanszírozási eljárásrendje
+Oszteoporózis következtében kialakuló csonttörés primer prevenciójának finanszírozási eljárásrendje
 
 1. Az eljárásrend tárgyát képező betegség, betegcsoport megnevezése
 
@@ -362,4 +362,4 @@ HBCS Homogén betegségcsoport
 
 OENO Orvosi eljárások nemzetközi osztályozása
 
-[^23]: A 15. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (13) bekezdésével megállapított, a 15/2016. (VII. 15.) EMMI rendelet 4. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 75. § a) pontja, a 9/2017. (V. 31.) EMMI rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^27]: A 15. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (13) bekezdésével megállapított, a 15/2016. (VII. 15.) EMMI rendelet 4. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 75. § a) pontja, a 9/2017. (V. 31.) EMMI rendelet 6. § (2) bekezdése szerint módosított szöveg.

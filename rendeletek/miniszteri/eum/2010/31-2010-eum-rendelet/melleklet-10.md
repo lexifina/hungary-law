@@ -1,6 +1,12 @@
-10. melléklet a 31/2010. (V. 13.) EüM rendelethez[^18]
+## 8K30611_3
 
-## A plakkos psoriasis diagnosztikájának és kezelésének finanszírozási eljárásrendje
+| ATC: | Anatomical Therapeutic Chemical klasszifikáció |  |
+
+| BNO: | Betegségek nemzetközi osztályozása” |  |
+
+10. melléklet a 31/2010. (V. 13.) EüM rendelethez[^22]
+
+A plakkos psoriasis diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
 1. Az eljárásrend tárgyát képező betegség, betegcsoport megnevezése
 
@@ -224,7 +230,7 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 6.3.3. TNF-alfa gátlók: adalimumab, etanercept, infliximab (az alkalmazott támogatási kategória figyelembevételével)
 
-6.3.4. Interleukin-inhibior: usztekinumab
+6.3.4. Interleukin-inhibitor: usztekinumab, ixekizumab szekukinumab
 
 7. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
 
@@ -252,6 +258,8 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 8.2. Releváns ATC kódok
 
+## 8K30583Q_1
+
 |  | A | B | C | D |
 
 | 1 | ATC-kód |  | Hatóanyag |  | Kategória |  | Megjegyzés |
@@ -269,6 +277,10 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 | 7 | L04AB04 | adalimumab | BRMD | Biológiai terápia eszközei |
 
 | 8 | L04AC05 | usztekinumab | BRMD | Biológiai terápia eszközei |
+
+| 9 | L04AC10 | szekukinumab | BRMD | Biológiai terápia eszközei |
+
+| 10 | L04AC13 | ixekizumab | BRMD | Biológiai terápia eszközei |
 
 9. Fogalmak, rövidítések
 
@@ -324,4 +336,4 @@ UVB Ultraviola sugárzás B
 
 We Vörösvértest-süllyedés
 
-[^18]: A 10. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^22]: A 10. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (8) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (4) bekezdése szerint módosított szöveg.
