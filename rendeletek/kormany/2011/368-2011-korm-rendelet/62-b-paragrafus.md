@@ -1,4 +1,4 @@
-62/B. §[^272] (1) Az illetményszámfejtő programban a foglalkoztató egyedi adatrögzítés vagy a Kincstár által meghatározott tartalom és struktúra szerinti csoportos adatátadás útján rögzíti
+62/B. §[^273] (1) Az illetményszámfejtő programban a foglalkoztató egyedi adatrögzítés vagy a Kincstár által meghatározott tartalom és struktúra szerinti csoportos adatátadás útján rögzíti
 
 a) a biztosítotti bejelentéshez és az egyszerűsített foglalkoztatás bejelentéséhez szükséges adatokat,
 
@@ -22,7 +22,7 @@ az illetményszámfejtő programban rögzíti úgy, hogy az annak a hónapnak a 
 
 (4) Jogalap nélküli kifizetés esetén a jogszabály, a végrehajtható okirat vagy a foglalkoztatott hozzájárulása alapján történő levonásról – ha az más módon nem térült meg és személyi juttatás számfejtésére még sor kerül – a foglalkoztató írásban tájékoztatja a Kincstárt. A levonást a Kincstár érvényesíti.
 
-(5)[^273] A foglalkoztató az Art. 16. § (1) bekezdése és 1. melléklet 3. pontja szerinti, a foglalkoztatottak bejelentésével kapcsolatos kötelezettségét és az Art. 50. § (1) és (2) bekezdése szerinti, a személyi juttatásokat terhelő, továbbá azokkal összefüggésben felmerülő, az állami adó- és vámhatóság felé teljesítendő bevallási kötelezettségét és azok önellenőrzését a Kincstár útján teljesíti.
+(5)[^274] A foglalkoztató az Art. 16. § (1) bekezdése és 1. melléklet 3. pontja szerinti, a foglalkoztatottak bejelentésével kapcsolatos kötelezettségét és az Art. 50. § (1) és (2) bekezdése szerinti, a személyi juttatásokat terhelő, továbbá azokkal összefüggésben felmerülő, az állami adó- és vámhatóság felé teljesítendő bevallási kötelezettségét és azok önellenőrzését a Kincstár útján teljesíti.
 
-[^272]: Az Ávr. 62/B. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be, szövege a 243/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^273]: Az Ávr. 62/B. § (5) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^273]: Az Ávr. 62/B. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be, szövege a 243/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^274]: Az Ávr. 62/B. § (5) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 41. §-ával megállapított szöveg.

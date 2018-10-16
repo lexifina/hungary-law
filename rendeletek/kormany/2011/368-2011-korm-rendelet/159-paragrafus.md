@@ -1,3 +1,3 @@
-159. §[^592]
+159. §[^593]
 
-[^592]: Az Ávr. 159. §-át a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 19. pontja hatályon kívül helyezte.
+[^593]: Az Ávr. 159. §-át a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 19. pontja hatályon kívül helyezte.

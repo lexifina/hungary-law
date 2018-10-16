@@ -70,3 +70,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2018-07-27 | 2011-368-20-22.62 | 140/2018. (VII. 26.) Korm. rendelet |
 | 2018-08-31 | 2011-368-20-22.63 | 153/2018. (VIII. 31.) Korm. rendelet |
 | 2018-10-01 | 2011-368-20-22.64 | 175/2018. (IX. 27.) Korm. rendelet |
+| 2018-10-16 | 2011-368-20-22.65 | 194/2018. (X. 15.) Korm. rendelet |

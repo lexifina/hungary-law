@@ -1,4 +1,4 @@
-109/A. §[^403] (1) A felülvizsgálat során az Áht. 59. § (2) bekezdése szerinti helyszíni ellenőrzésre az Igazgatóság vezetője által kiadott ellenőrzési terv és az ellenőrök számára általa kiadott megbízólevél alapján kerülhet sor.
+109/A. §[^404] (1) A felülvizsgálat során az Áht. 59. § (2) bekezdése szerinti helyszíni ellenőrzésre az Igazgatóság vezetője által kiadott ellenőrzési terv és az ellenőrök számára általa kiadott megbízólevél alapján kerülhet sor.
 
 (2) Az ellenőrzési terv tartalmazza
 
@@ -32,4 +32,4 @@ e) a megbízólevél érvényességi idejét,
 
 f) az ellenőrzés kezdő időpontját, várható időtartamát.
 
-[^403]: Az Ávr. 109/A. §-át a 175/2015. (VII. 7.) Korm. rendelet 19. §-a iktatta be.
+[^404]: Az Ávr. 109/A. §-át a 175/2015. (VII. 7.) Korm. rendelet 19. §-a iktatta be.
