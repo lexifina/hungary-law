@@ -74,7 +74,9 @@
 
 | 4 | 10M e. r. gyakorló nadrág | db | 2 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 |
 
-| 5 | Gyakorló póló, sötétkék | db | 4 | 4* | 4* | 4* | 4* | 4* | 4* | 4* | 4* |
+| 5 | Gyakorló póló, sötétkék | db | 2 | 2 | 2 | 2 | 2 | 4 | 4 | 2 | 2 |
+
+| 5a | Teniszing, sötétkék* | db | 2 | 2 | 2 | 2 | 2 |  |  | 2 | 2 |
 
 | 6 | 10M e. r. gyakorló zubbony, felirattal | db | 1 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 |
 
@@ -718,4 +720,4 @@ a) Megjegyzés:
 
 | 18 | Fonott kardtartó, rejtett | db | 1 | 5 év |
 
-[^42]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^42]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a szerint módosított szöveg.
