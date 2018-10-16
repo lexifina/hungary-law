@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-56-20-8
 | 2017-01-01 | 2008-56-20-82.14 | 88/2016. (XII. 29.) FM rendelet |
 | 2017-02-14 | 2008-56-20-82.15 | 6/2017. (II. 13.) FM rendelet |
 | 2017-12-23 | 2008-56-20-82.16 | 8/2010. (II. 4.) FVM rendelet |
+| 2018-10-16 | 2008-56-20-82.17 | 8/2010. (II. 4.) FVM rendelet |
