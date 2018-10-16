@@ -174,11 +174,11 @@
 
 | 4. | pecsenyeliba, növendék liba, fiatal liba, hízott liba, pecsenyekacsa, növendék kacsa, hízott kacsa | I. negyedév | 708,64 |
 
-| II. negyedév | 1 107,80 |
+| II. negyedév | 1776,70 |
 
-| III. negyedév | 1 153,24 |
+| III. negyedév | 1153,24 |
 
-| IV. negyedév | 960,32 |
+| IV. negyedév | 291,42 |
 
 | 5. | növendék pulyka | I. negyedév | 620 |
 
@@ -190,6 +190,6 @@
 
 | 6. | Összesen |  | 12 000 |
 
-5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^100]
+5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^102]
 
-[^100]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^102]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
