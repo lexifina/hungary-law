@@ -8,4 +8,6 @@ A Kormány
 
 4. elfogadja a Megállapodás kihirdetéséről szóló törvénytervezetet, és elrendeli a Megállapodás szövegének végleges megállapítását követően annak az Országgyűléshez történő benyújtását, azzal, hogy a törvényjavaslat előadójának a Kormány a külgazdasági és külügyminisztert jelöli ki,
 
-5. visszavonja a Magyar Köztársaság és a Belarusz Köztársaság közötti, a beruházások ösztönzéséről és kölcsönös védelméről szóló Megállapodás aláírására történő felhatalmazásról szóló 2119/2004. (V. 21.) Korm. határozatot.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
