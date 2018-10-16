@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-44-00-00
 | 2018-07-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-44-00-00.1 |
 | 2018-08-01 | 2010. évi CXXX. törvény | 2018-44-00-00.2 |
 | 2018-10-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-44-00-00.3 |
+| 2018-10-16 | 2010. évi CXXX. törvény | 2018-44-00-00.4 |
