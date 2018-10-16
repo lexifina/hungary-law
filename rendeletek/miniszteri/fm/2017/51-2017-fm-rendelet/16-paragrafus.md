@@ -1,6 +1,5 @@
-## 15/A. §[^2] E rendeletnek az egyes központi költségvetési forrásból finanszírozott agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 9/2018. (IV. 3.) FM rendelettel [a továbbiakban: 9/2018. (IV. 3.) FM rendelet] megállapított 12. § (2) bekezdését a 9/2018. (IV. 3.) FM rendelet hatálybalépésekor[^3] folyamatban lévő ügyekben is alkalmazni kell.
+## 15/B. §[^5] E rendeletnek az agrártámogatások 2018. évi mértékének megállapításáról szóló 31/2018. (X. 15.) AM rendelettel megállapított 12. §-át a 2017. évi dohány termeléstől elválasztott támogatás kifizetése esetében kell alkalmazni.
 
 ## 15. Módosító rendelkezés
 
-[^2]: A 15/A. §-t a 9/2018. (IV. 3.) FM rendelet 5. §-a iktatta be.
-[^3]: A hatálybalépés időpontja 2018. április 4.
+[^5]: A 15/B. §-t a 31/2018. (X. 15.) AM rendelet 18. § (1) bekezdése iktatta be.
