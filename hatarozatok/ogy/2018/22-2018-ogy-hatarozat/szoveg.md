@@ -1,0 +1,3 @@
+1. Az Országgyűlés megállapítja, hogy az Állami Számvevőszék törvényi kötelezettségeit teljesítette, a gazdálkodását független könyvvizsgáló ellenőrizte, illetve erre vonatkozó pénzügyi beszámolóját hitelesnek minősítette, ezért a szervezet 2017. évi ellenőrzési tevékenységéről, működéséről, gazdálkodásáról készített beszámolót elfogadja.
+
+2. Az Országgyűlés a közpénzügyek átláthatóságát és a nemzeti vagyonnal való – Alaptörvényben foglalt – felelős gazdálkodást azzal erősíti meg, hogy támogatja az Állami Számvevőszék 2017. évi beszámolójának azon felvetését, mely szerint az Állami Számvevőszék által feltárt hiányosságok felszámolása érdekében az Állami Számvevőszék megállapításainak nagyobb ráhatása legyen a belső ellenőrzésre annak eredményessége növelése érdekében.
