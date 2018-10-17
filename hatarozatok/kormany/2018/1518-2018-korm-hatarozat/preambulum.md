@@ -1,0 +1,1 @@
+A Kormány a hazai verseny- és szabadidősport támogatása, a sportlétesítmény-infrastruktúra további fejlesztése, valamint a Nemzeti Stadionfejlesztési Program keretében megvalósítandó új Bozsik Stadion fejlesztésének elősegítése érdekében
