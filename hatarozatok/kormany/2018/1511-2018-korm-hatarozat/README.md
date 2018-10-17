@@ -1,0 +1,9 @@
+# 1511/2018. (X. 17.) Korm. határozat
+
+a Központi Maradványelszámolási Alapból és a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a 2017. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1511-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-10-17 | 2018-1511-30-22.1 | 1511/2018. (X. 17.) Korm. határozat |
