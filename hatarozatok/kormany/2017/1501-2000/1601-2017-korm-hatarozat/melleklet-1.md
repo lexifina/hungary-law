@@ -12,7 +12,7 @@
 
 ## Felelős: Országos Bírósági Hivatal elnöke, legfőbb ügyész, Miniszterelnökséget vezető miniszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 3 441 400 000 forint tekintetében 2019. január 31.
+## Határidő: a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 3 441 400 000 forint tekintetében 2019. június 30.
 
 ## b) a szociális hozzájárulási adóhoz kapcsolódó megtakarítások kezeléséről szóló 467/2016. (XII. 23.) Korm. rendelet 2. § b) pontjában meghatározott, adókulcscsökkentésből származó szabad forrásokból 26 106 004 602 forint felhasználását engedélyezi, és az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva abból a 2. melléklet szerinti átcsoportosítást rendeli el;
 
@@ -36,9 +36,9 @@
 
 ## g) egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1447/2017. (VII. 7.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 14. Kodály-év jogcímcsoport, K1. Személyi juttatások kiemelt előirányzat javára átcsoportosított 74 034 131 forintból 42 676 000 forint, K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat javára átcsoportosított 12 951 869 forintból 8 074 000 forint, K3. Dologi kiadások kiemelt előirányzat javára átcsoportosított 394 812 748 forintból 223 132 000 forint, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 240 000 forintból 10 000 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra;
 
-## h) egyetért azzal, hogy a Siketek és Nagyothallók Országos Szövetségének 2017. évi kiegészítő támogatása érdekében történő előirányzat-átcsoportosításról szóló 1267/2017. (V. 29.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 20. Társadalmi kohéziót erősítő tárcaközi integrációs szociális programok alcím, 6. Fogyatékos személyek esélyegyenlőségét elősegítő programok támogatása, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 500,0 millió forintból 2,2 millió forint a K3. Dologi kiadások kiemelt előirányzaton, 168,8 millió forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra.
+## h)[^2]
 
-## 2–9.[^2]
+## 2–9.[^3]
 
 1. melléklet az 1601/2017. (VIII. 31.) Korm. határozathoz
 
@@ -58,5 +58,6 @@ XLII. A költségvetés közvetlen bevételei és kiadásai
 
 XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások LXV. Bethlen Gábor Alap
 
-[^1]: Az 1. pont a) alpontja az 1133/2018. (III. 26.) Korm. határozat 14. pontja szerint módosított szöveg.
-[^2]: A 2–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja az 1133/2018. (III. 26.) Korm. határozat 14. pontja, az 1511/2018. (X. 17.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: Az 1. pont h) alpontját az 1514/2018. (X. 17.) Korm. határozat 2. pontja visszavonta.
+[^3]: A 2–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
