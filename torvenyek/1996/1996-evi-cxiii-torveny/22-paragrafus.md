@@ -1,4 +1,4 @@
-22. § (1) Az állami támogatás éves mértéke a lakáselőtakarékoskodó által az adott megtakarítási évben a lakástakarékpénztárnál az adott szerződés alapján betétként elhelyezett összeg harminc százaléka, legfeljebb azonban megtakarítási évenként hetvenkétezer forint. A támogatás mértékének és felső határának módosítása a már megkötött szerződéseket nem érinti.
+22. § (1) Az állami támogatás éves mértéke a lakás-előtakarékoskodó által az adott megtakarítási évben a lakástakarékpénztárnál az adott szerződés alapján betétként elhelyezett összeg harminc százaléka, legfeljebb azonban megtakarítási évenként hetvenkétezer forint. A támogatás mértékének és felső határának módosítása a már megkötött szerződéseket – a lakás-előtakarékossági szerződés megtakarítási idejének 29. § szerinti meghosszabbítását kivéve – nem érinti.
 
 (2) Lakásszövetkezet, illetve a társasház által a közös tulajdonú részek felújítása céljából kötött szerződések esetében az állami támogatás éves mértéke épületenként az adott megtakarítási évben a lakás-takarékpénztárnál betétként elhelyezett összeg harminc százaléka, legfeljebb azonban
 

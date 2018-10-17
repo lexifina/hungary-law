@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-113-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 1996-113-00-00.33 |
 | 2017-07-01 | 2017. évi LXIX. törvény | 1996-113-00-00.34 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 1996-113-00-00.35 |
+| 2018-10-17 | 2018. évi LXIII. törvény | 1996-113-00-00.36 |
