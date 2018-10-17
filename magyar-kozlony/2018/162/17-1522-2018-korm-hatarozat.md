@@ -1,0 +1,112 @@
+# A Kormány 1522/2018. (X. 17.) Korm. határozata
+
+Magyar Közlöny 2018. évi 162. szám, 2018. október 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/056f936b1999e026369bec0dcc8ca3706a12667a/dokumentumok/53e13734e92d8db7ffa822af9db09b0ee0864aad/letoltes)
+
+---
+
+A Kormány 1522/2018. (X. 17.) Korm. határozata
+a Pannónia Szíve Program keretében a Vál községben megvalósításra kerülő turisztikai és sportcélú
+fejlesztések előkészítéséről és támogatásáról
+A Kormány
+1. egyetért azzal, hogy Válon a műemléki védettség alatt álló Ürményi-kastély és parkjának szakszerű, a korábbi
+birtoktestet is figyelembe vevő, illetve a kastélypark eredeti állapotának minél teljesebb mértékű helyreállítására és
+felújítására irányuló fejlesztésekkel, ennek keretében a Vál közigazgatási területén elhelyezkedő, belterület 1009/3,
+1019/3 és 1019/4 helyrajzi számú ingatlanok állami tulajdonba kerülésével;
+2. az 1. pont érdekében felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti
+Vagyonkezelő Zártkörűen működő Részvénytársaság útján, az agrárminiszter, illetve a Nemzeti Földalapkezelő
+Szervezet bevonásával, a központi költségvetés XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások
+fejezete terhére gondoskodjon az 1. pontban megjelölt ingatlanoknak – legfeljebb a független szakértő által
+meghatározott értéken – az állam javára, per-, teher- és igénymentesen történő megvásárlásáról;
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+agrárminiszter
+Határidő: 2018. december 31.
+3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított
+jogkörében eljárva elrendeli a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény
+(a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 80. Egyes települési
+önkormányzatok működési és fejlesztési támogatása cím, 11. Vál Község Önkormányzata turisztikai és sportcélú
+fejlesztéseinek, valamint a fejlesztésekhez szükséges ingatlanvásárlás támogatása alcímmel történő kiegészítését;
+4. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok
+támogatásai fejezet, 80. Egyes települési önkormányzatok működési és fejlesztési támogatása cím, 11. Vál Község
+Önkormányzata turisztikai és sportcélú fejlesztéseinek, valamint a fejlesztésekhez szükséges ingatlanvásárlás
+támogatása alcím javára – a váli Ürményi-kastély műemléki helyreállításával összefüggésben út besorolású ingatlan
+önkormányzati tulajdonba kerülése érdekében 10 500 000 forint, valamint sportcélú beruházások megvalósításához
+kiegészítésként szükséges ingatlanok megvásárlása, közművesítése és útfejlesztés érdekében 85 000 000 forint –
+összesen 95 500 000 forint egyszeri átcsoportosítását, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai
+fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím terhére, az 1. melléklet szerint;
+Felelős: pénzügyminiszter
+belügyminiszter
+Határidő: azonnal
+5. egyetért azzal, hogy a 4. pont alapján átcsoportosított előirányzat terhére Vál Község Önkormányzata részére
+a belügyminiszter – külön pályázat és kérelem benyújtása nélkül, támogatási előlegként az államháztartásról szóló
+törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó – támogatást nyújtson,
+a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
+6. egyetért azzal, hogy a belügyminiszter az 5. pont szerinti költségvetési támogatást a támogatói okirat kiadását
+követően folyósítsa Vál Község Önkormányzata számára.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1522/2018. (X. 17.) Korm. határozathoz
+IX. Helyi önkormányzatok támogatásai
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+IX. Helyi önkormányzatok támogatásai
+
+376962 11
+K8 Egyéb felhalmozási célú kiadások 95 500 000
+359017 2 A helyi önkormányzatok működési célú kiegészítő támogatásai
+K5 Egyéb működési célú kiadások -95 500 000
+forintban
+Államház-
+tartási Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- Módosítás A módosítás
+egyedi szám szám szám cím cím előir. név név név cím cím (+/-) következő
+azonosító csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+forintban
+Államház-
+tartási Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- T Á M O G A T Á S
+A módosítás jogcíme
+Módosítás A módosítás
+egyedi szám szám szám cím cím előir. név név név cím cím (+/-) következő
+azonosító csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+Foglalkoztatottak létszáma (fő) - időszakra
+A támogatás folyósítása/zárolása (módosítása +/-) Összesen I. n.év II. n.év III. n.év IV. n.év
+Fejezetet irányító szerv időarányos
+Állami Számvevőszék teljesítményarányos
+Magyar Államkincstár egyéb: azonnal 95 500 000 95 500 000
+Pénzügyminisztérium
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+a Kormány hatáskörében
+Költségvetési év: 2018.
+A módosítást elrendelő
+jogszabály/határozat száma
+Egyes települési önkormányzatok működési és fejlesztési támogatása
+K I A D Á S O K
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+1 példány
+Államház-
+tartási egyedi
+azonosító
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Vál Község Önkormányzata turisztikai és sportcélú fejlesztéseinek,
+valamint a fejlesztésekhez szükséges ingatlanvásárlás támogatása
+A módosítás jogcíme
+2 példány
+A módosítást elrendelő
+jogszabály/határozat száma
+A módosítást elrendelő
+jogszabály/határozat száma
+Az adatlap 5 példányban töltendő ki
+1 példány
+1 példány
+B E V É T E L
+A módosítás jogcíme
