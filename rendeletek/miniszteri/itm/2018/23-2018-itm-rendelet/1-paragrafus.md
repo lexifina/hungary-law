@@ -1,0 +1,3 @@
+## 1. A PCB, valamint a PCB-t tartalmazó berendezések kezelésének részletes szabályairól szóló
+
+## 144/2012. (XII. 27.) VM rendelet módosítása
