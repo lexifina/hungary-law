@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1855-30
 | 2016-08-17 | 2015-1855-30-22.5 | 1182/2016. (IV. 11.) Korm. határozat |
 | 2017-01-31 | 2015-1855-30-22.6 | 1182/2016. (IV. 11.) Korm. határozat |
 | 2018-07-26 | 2015-1855-30-22.7 | 1182/2016. (IV. 11.) Korm. határozat |
+| 2018-10-17 | 2015-1855-30-22.8 | 1182/2016. (IV. 11.) Korm. határozat |

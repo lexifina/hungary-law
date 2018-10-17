@@ -12,7 +12,7 @@
 
 ## Felelős: Nemzeti Emlékezet Bizottságának Hivatala elnöke, Miniszterelnökséget vezető miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2016. június 30., a Külgazdasági és Külügyminisztérium fejezet részére átcsoportosított összeg tekintetében és a XI. Miniszterelnökség fejezet, 18. Felsőbbfokú Tanulmányok Intézete cím részére átcsoportosított összeg tekintetében 2016. december 31., az Emberi Erőforrás Támogatáskezelő cím javára átcsoportosított 196,6 millió forint tekintetében 2018. június 30., a Szovjetunióba hurcolt politikai foglyok és kényszermunkások emlékéve programjainak támogatása jogcímcsoport javára átcsoportosított 733,4 millió forint tekintetében 2018. december 31.
+## Határidő: 2016. június 30., a Külgazdasági és Külügyminisztérium fejezet részére átcsoportosított összeg tekintetében és a XI. Miniszterelnökség fejezet, 18. Felsőbbfokú Tanulmányok Intézete cím részére átcsoportosított összeg tekintetében 2016. december 31., az Emberi Erőforrás Támogatáskezelő cím javára átcsoportosított 196,6 millió forint tekintetében 2018. június 30., a Szovjetunióba hurcolt politikai foglyok és kényszermunkások emlékéve programjainak támogatása jogcímcsoport javára átcsoportosított 733,4 millió forint tekintetében 2018. december 31., az Egészségügyi ellátási és fejlesztési feladatok jogcímcsoport tekintetében 2019. június 30.
 
 ## 3–6.[^2]
 
@@ -208,7 +208,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont záró szövegrésze az 1182/2016. (IV. 11.) Korm. határozat 9. pontja, az 1301/2016. (VI. 13.) Korm. határozat 3. pontja, az 1438/2016. (VIII. 17.) Korm. határozat 3. pontja, az 1033/2017. (I. 31.) Korm. határozat 4. pontja, az 1347/2018. (VII. 26.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^1]: A 2. pont záró szövegrésze az 1182/2016. (IV. 11.) Korm. határozat 9. pontja, az 1301/2016. (VI. 13.) Korm. határozat 3. pontja, az 1438/2016. (VIII. 17.) Korm. határozat 3. pontja, az 1033/2017. (I. 31.) Korm. határozat 4. pontja, az 1347/2018. (VII. 26.) Korm. határozat 11. pontja, az 1511/2018. (X. 17.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^2]: A 3–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
