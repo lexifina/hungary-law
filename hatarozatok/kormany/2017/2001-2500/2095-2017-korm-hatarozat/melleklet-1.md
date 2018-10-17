@@ -4,7 +4,7 @@
 
 ## 3. egyetért azzal, hogy a 4. pontban meghatározott előkészítési fázisokat az Országos Mentőszolgálat valósítsa meg;
 
-## 4. az 1. pontban meghatározott beruházások előkészítésére a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés j), m), n), o) pontjai szerinti előkészítési fázisaira összesen 266 648 900 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2018. május 31-ig kell megvalósítani;
+## 4. az 1. pontban meghatározott beruházások előkészítésére a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés j), m), n), o) pontjai szerinti előkészítési fázisaira összesen 266 648 900 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2018. május 31-ig kell megvalósítani;[^1]
 
 ## 5. felhívja a nemzeti fejlesztési minisztert, hogy a Kvtv. 20. § (5) bekezdése szerinti jogkörében eljárva – a 4. pontban foglaltak megvalósítása érdekében – gondoskodjon a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 14. Országos Mentőszolgálat cím javára összesen – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 266 648 900 forint egyszeri átcsoportosításáról, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
 
@@ -28,13 +28,13 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2018. június 30.
+## Határidő: 2018. június 30.[^2]
 
 ## b) az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az 1. melléklet szerinti beruházások megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával;
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2018. július 31.
+## Határidő: 2018. július 31.[^3]
 
 ## 8. felhívja az emberi erőforrások miniszterét és a belügyminisztert, hogy az Országos Mentőszolgálat által használt mentőállomások jövőben tervezett fejlesztései esetén azok előkészítését egyeztessék, amennyiben a mentőállomás nem egészségügyi intézmény területén valósul meg.
 
@@ -44,7 +44,7 @@
 
 ## Határidő: folyamatos
 
-1. melléklet a 2095/2017. (XII. 28.) Korm. határozathoz
+1. melléklet a 2095/2017. (XII. 28.) Korm. határozathoz[^4]
 
 | A | B | C | D | E | F |
 
@@ -91,3 +91,8 @@
 | 20. | Zsámbék – új építés | Korm. rendelet 2. § j), m), n) és o) pontjai | 14 745 000 | 2018. 05. 31. | 2018. 06. 30. |
 
 | 21. | Zalaegerszeg – bontás, új építés | Korm. rendelet 2. § j), m), n) és o) pontjai | 42 332 250 | 2018. 05. 31. | 2018. 06. 30. |
+
+[^1]: Az 1511/2018. (X. 17.) Korm. határozat 6. pont a) alpontja alapján a meghatározott határidőtől eltérően az előkészítő fázisok megvalósításának határideje 2018. december 31.
+[^2]: Az 1511/2018. (X. 17.) Korm. határozat 6. pont b) alpontja alapján a meghatározott határidőtől eltérően a jelentés elkészítésének határideje 2019. január 30.
+[^3]: Az 1511/2018. (X. 17.) Korm. határozat 6. pont c) alpontja alapján a meghatározott határidőtől eltérően az előterjesztés elkészítésének határideje 2019. február 28.
+[^4]: Az 1511/2018. (X. 17.) Korm. határozat 6. pont d) alpontja alapján az 1. mellékletben foglalt táblázat E oszlopában foglaltaktól eltérően a megvalósítási határidők 2018. december 31., az 1511/2018. (X. 17.) Korm. határozat 6. pont e) alpontja alapján az 1. mellékletben foglalt táblázat F oszlopában foglaltaktól eltérően a jelentéskészítési határidők 2019. január 30.
