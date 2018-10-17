@@ -30,22 +30,6 @@
 
 | 14. | szálas fehérjetakarmány-növény termesztés támogatása | 16 989 |
 
-2. melléklet a 31/2018. (X. 15.) AM rendelethez
+2. melléklet a 31/2018. (X. 15.) AM rendelethez[^4]
 
-A 139/2007. (XI. 28.) FVM rendelet 4. számú melléklet 6. pontjában foglalt táblázat 4. sora helyébe a következő rendelkezés lép:
-
-|  | [A | B | C |
-
-| 1. | Baromfi megnevezése | Időszak | Támogatási keret (millió Ft)] |
-
-„
-
-| 4. | pecsenyeliba, növendék liba, fiatal liba, hízott liba, pecsenyekacsa, növendék kacsa, hízott kacsa | I. negyedév | 708,64 |
-
-| II. negyedév | 1776,70 |
-
-| III. negyedév | 1153,24 |
-
-| IV. negyedév | 291,42 |
-
-”
+[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
