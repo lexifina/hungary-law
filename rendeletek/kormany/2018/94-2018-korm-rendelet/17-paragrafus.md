@@ -14,8 +14,12 @@ e) az a)–d) pontokban meghatározott tevékenységek tekintetében a Kormány 
 
 f) előkészíti az a)–e) pontok szerinti tevékenységek ellátásához szükséges jogszabályokat.
 
+(1a)[^2] A Kormány és Budapest Főváros Önkormányzata együttműködése érdekében kormányhatározatban meghatározottak szerint Fővárosi Közfejlesztések Tanácsa működik. A Fővárosi Közfejlesztések Tanácsa kormányhatározat szerinti aktusait a Fővárosi Közfejlesztések Tanácsa erre vonatkozó döntése alapján a Hivatalos Értesítőben közzé kell tenni.
+
 (2) Amennyiben a nemzeti vagyon felügyeletéért felelős miniszter tulajdonosi jogkörgyakorlásába tartozó állami tulajdonú gazdasági társaság érintett az (1) bekezdésben meghatározott feladatok végrehajtásában, úgy a miniszter az (1) bekezdésben meghatározott feladatait a nemzeti vagyon felügyeletéért felelős miniszterrel együttműködésben végzi.
 
 (3) A miniszter a Budapest és a fővárosi agglomeráció fejlesztéséért való felelőssége keretében a jogerős építési vagy létesítési engedélyek megszerzéséig, a kivitelezési tervek elkészültéig és a kivitelezés megindításáról és a kivitelezéshez szükséges források biztosításáról szóló kormánydöntés meghozataláig – az egészségüggyel összefüggő építési beruházások kivételével – felügyeli a Budapesten megvalósuló valamennyi állami-kormányzati városfejlesztési beruházást.
 
 (4) Az (1)–(2) bekezdésben meghatározott tárgykörökben a Kormány részére előterjesztés kizárólag a miniszter előterjesztésében vagy a miniszter kifejezett és részletes véleményének ismertetésével nyújtható be.
+
+[^2]: A 17. § (1a) bekezdését a 195/2018. (X. 17.) Korm. rendelet 1. §-a iktatta be.

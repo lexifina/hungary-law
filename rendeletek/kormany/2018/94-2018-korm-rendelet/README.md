@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-94-20-2
 | 2018-09-01 | 2018-94-20-22.4 | 136/2018. (VII. 25.) Korm. rendelet |
 | 2018-09-27 | 2018-94-20-22.5 | 172/2018. (IX. 26.) Korm. rendelet |
 | 2018-10-01 | 2018-94-20-22.6 | 136/2018. (VII. 25.) Korm. rendelet |
+| 2018-10-18 | 2018-94-20-22.7 | 195/2018. (X. 17.) Korm. rendelet |
