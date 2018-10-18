@@ -38,11 +38,11 @@
 
 ## Határidő: azonnal
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1855/2015. (XI. 24.) Korm. határozat 2. pontjában a „2018. december 31.” szövegrész helyébe a „2018. december 31., az Egészségügyi ellátási és fejlesztési feladatok jogcímcsoport tekintetében 2019. június 30.” szöveg lép.
+## 3.[^1]
 
 ## 4. A Kormány egyetért azzal, hogy az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1313/2017. (VI. 8.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 59. Társadalmi felzárkózást segítő programok alcím, 5. Társadalmi, gazdasági, területi hátránykiegyenlítést elősegítő programok, szakkollégiumok jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 301 450 000 forintból 71 711 530 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő, valamint a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezeten belüli átcsoportosításról, egyes kormányhatározatok módosításáról szóló 1601/2017. (VIII. 31.) Korm. határozat 1. pont a) alpontjában a „2019. január 31.” szövegrész helyébe a „2019. június 30.” szöveg lép.
+## 5.[^2]
 
 ## 6. A Kormány az Országos Mentőszolgálat által használt egyes mentőállomások felújítása, újjáépítése beruházás előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 2095/2017. (XII. 28.) Korm. határozat
 
@@ -79,3 +79,6 @@
 ## 13. A Kormány egyetért azzal, hogy a Modern Városok Program keretében a győri Digitális Fejlesztési Központ szakmai megvalósításához szükséges 2018. évi forrás biztosítása érdekében történő előirányzat-átcsoportosításról szóló 1435/2018. (IX. 11.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 80 000 000 forintból 20 700 000 forint a K1. Személyi juttatások kiemelt előirányzaton, 4 036 500 forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton és 20 338 500 forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
 1. melléklet az 1511/2018. (X. 17.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
