@@ -26,4 +26,6 @@ Határidő: a források rendelkezésre állását követően azonnal
 
 4. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva engedélyezi, hogy a miniszterelnök kabinetfőnöke az Ingatlan felújítása érdekében a 2. pont b) alpontja szerinti összegben éven túli kötelezettséget vállaljon;
 
-5. visszavonja a Róheim-villa rekonstrukciójához és hasznosításához szükséges intézkedésekről szóló 1616/2015. (IX. 8.) Korm. határozatot, valamint a Róheim-villa rekonstrukciójához és hasznosításához szükséges intézkedésekről szóló 1753/2016. (XII. 14.) Korm. határozatot.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
