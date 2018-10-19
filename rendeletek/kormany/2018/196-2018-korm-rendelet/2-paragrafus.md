@@ -1,5 +1,0 @@
-## 1. § A Nemzeti Stadionfejlesztési Program keretében megvalósítandó egyes labdarúgó sportlétesítmény-fejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 15/2014. (I. 30.) Korm. rendelet (a továbbiakban: Rendelet) a következő 2. §-sal egészül ki:
-
-## „2. § (1) Az 1. mellékletben foglalt táblázat 13. sora szerinti fejlesztéssel összefüggő, az 1. § (1) bekezdése szerinti hatósági eljárásokban – a (2) bekezdésben foglaltak figyelembevételével – a Budapest XIX. kerület belterület 168207 helyrajzi számú ingatlan telkét rendezettnek kell tekinteni abban az esetben is, ha a telek helyi építési szabályzat szerinti kialakítása még nem történt meg.
-
-## (2) Az 1. mellékletben foglalt táblázat 13. sora szerinti fejlesztés esetében a használatbavételi engedély kiadásának feltétele az (1) bekezdésben megjelölt ingatlan tekintetében a helyi építési szabályzatban előírt telekhatár-rendezés végrehajtása, valamint annak ingatlan-nyilvántartásba történő bejegyzése.”
