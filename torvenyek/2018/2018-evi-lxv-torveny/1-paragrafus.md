@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és a Thaiföldi Királyság között a Mahachulalongkornrajavidyalaya Egyetemnek a Tan Kapuja Buddhista Főiskolával Együttműködésben való magyarországi működéséről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
