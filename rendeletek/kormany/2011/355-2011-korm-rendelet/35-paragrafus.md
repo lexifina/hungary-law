@@ -2,15 +2,15 @@
 
 35. § (1) A Hivatal az ellenőrzési jelentést
 
-a)[^18] a Hivatal ellenőrzési tervében szereplő vagy kormánydöntéssel elrendelt kormányzati ellenőrzés esetén a miniszterelnök útján a Kormány elé,
+a)[^19] a Hivatal ellenőrzési tervében szereplő vagy kormánydöntéssel elrendelt kormányzati ellenőrzés esetén a miniszterelnök útján a Kormány elé,
 
 b) a miniszterelnök által elrendelt kormányzati ellenőrzés esetén a miniszterelnök elé,
 
-c)[^19]
+c)[^20]
 
 terjeszti.
 
 (2) A Hivatal által készített jelentés nyilvánosságára az információs önrendelkezési jogról és az információszabadságról szóló törvény, valamint az egyes titokfajtákra vonatkozó törvények rendelkezései irányadóak.
 
-[^18]: A 35. § (1) bekezdés a) pontja a 95/2018. (V. 22.) Korm. rendelet 5. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^19]: A 35. § (1) bekezdés c) pontját a 95/2018. (V. 22.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^19]: A 35. § (1) bekezdés a) pontja a 95/2018. (V. 22.) Korm. rendelet 5. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^20]: A 35. § (1) bekezdés c) pontját a 95/2018. (V. 22.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
