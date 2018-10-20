@@ -23,3 +23,7 @@ a) ingatlanok esetében az (1) bekezdés a) pontja szerinti hatóság,
 b) kulturális javak esetében az e rendeletben foglaltak szerint kijelölt állami közgyűjtemény vagy örökségvédelmi háttérintézmény.
 
 (5) A hatóság ügyintézési határideje – ha a Kötv. vagy e rendelet eltérően nem rendelkezik – huszonöt nap.
+
+(6)[^4] A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (26) bekezdésében meghatározott örökségvédelmi hatóságként az (1) bekezdés a) pontjában meghatározott hatóság jár el.
+
+[^4]: A 3. § (6) bekezdését a 190/2018. (X. 12.) Korm. rendelet 2. §-a iktatta be.
