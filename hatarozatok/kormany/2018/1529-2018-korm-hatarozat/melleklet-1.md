@@ -18,7 +18,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:86 mezőjében a „0,61” szövegrész helyébe a „0,92” szöveg és D:88 mezőjében a „0,44” szövegrész helyébe a „0,68” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1529/2018. (X. 24.) Korm. határozathoz
 
@@ -29,3 +29,5 @@
 | 2. | KEHOP-1.6.0-15- 2016-00011 | Tűzoltó laktanyák kialakítása – Fehérgyarmat tűzoltóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | 435 000 000 | 242 750 639 | 677 750 639 | A projekt célja Fehérgyarmaton a tűzoltóság épületének megépítésével a térség mentő-tűzvédelmi lefedettségének magasabb szintű biztosítása, a katasztrófahelyzetek hatékony megelőzése, az élet és anyagi javak megóvása, valamint a beavatkozási készségek fejlesztése. A projekt eredményeként az emelt minőségű katasztrófavédelem előnyeit élvező lakosság száma 88 890 fő. |
 
 | 3. | KEHOP-1.6.0-15- 2016-00015 | Tűzoltó laktanyák kialakítása – Kiskőrös tűzoltóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | 605 000 000 | 314 847 409 | 919 847 409 | A projekt célja Kiskőrösön a tűzoltóság épületének megépítésével a térség mentő-tűzvédelmi lefedettségének magasabb szintű biztosítása, a katasztrófahelyzetek hatékony megelőzése, az élet és anyagi javak megóvása, valamint a beavatkozási készségek fejlesztése. A projekt eredményeként az emelt minőségű katasztrófavédelem előnyeit élvező lakosság száma 50 827 fő. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
