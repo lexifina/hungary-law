@@ -1,1 +1,0 @@
-## Szakképesítés és gyakorlat
