@@ -1,6 +1,6 @@
 17. § (1) Az országos erdőtűz adattár tartalmazza:
 
-a)[^7] az első riasztás dátumát és időpontját (év, hónap, nap, óra, perc), amikor a megyei, fővárosi katasztrófavédelmi igazgatóságot tájékoztatták a tűz észleléséről,
+a) az első riasztás dátumát és időpontját (év, hónap, nap, óra, perc), amikor a megyei, fővárosi katasztrófavédelmi igazgatóságot tájékoztatták a tűz észleléséről,
 
 b) az első beavatkozás dátumát és időpontját (év, hónap, nap, óra, perc), amikor az első tűzoltóegységek megérkeztek az erdőtűz helyszínére,
 
@@ -34,9 +34,6 @@ p) a tűzesettel kapcsolatos erdőfelügyeleti intézkedések rövid leírását
 
 q) az 50 hektár feletti erdőtüzek esetén a leégett terület határát ábrázoló térképet.
 
-(2) Az (1) bekezdésben meghatározott adatok közül az a)–i) pontban meghatározottakat az OKF szolgáltatja a tűz keletkezése után 30 napon belül.
+(2) Az (1) bekezdésben meghatározott adatok közül az a)–i) pontban meghatározottakat az OKF szolgáltatja a tűz keletkezése után 72 órán belül.
 
-(3)[^8] Ha a tűzoltóság a tűzoltásban nem vett részt, az erdészeti hatóság az erdőtüzet utólag jelzi a területileg illetékes megyei, fővárosi katasztrófavédelmi igazgatóságnak, és gondoskodik arról, hogy a tűzeset bevezetésre kerüljön az erdőtűz adattárba.
-
-[^7]: A 17. § (1) bekezdés a) pontja a 71/2012. (XII. 14.) BM rendelet 8. § f) pontja szerint módosított szöveg.
-[^8]: A 17. § (3) bekezdése a 71/2012. (XII. 14.) BM rendelet 8. § e) pontja szerint módosított szöveg.
+(3) Ha a tűzoltóság a tűzoltásban nem vett részt, a NÉBIH az erdőtüzet utólag jelzi az OKF-nek, és gondoskodik arról, hogy a tűzeset bevezetésre kerüljön az erdőtűz adattárba.

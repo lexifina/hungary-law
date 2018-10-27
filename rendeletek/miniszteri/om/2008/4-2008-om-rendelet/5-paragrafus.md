@@ -2,7 +2,7 @@
 
 (2) A megyék erdőtűz-veszélyeztetettségi besorolását a 2. melléklet tartalmazza.
 
-(3) Az erdészeti hatóság és az Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: OKF) együttműködve a közepes mértékben és a nagymértékben veszélyeztetett megyékre megyei védelmi tervet készít. A megyei védelmi tervet az erdészeti hatóság és az OKF a hivatalos honlapján közzéteszi.
+(3)[^4] A NÉBIH és a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: OKF) együttműködve a közepes mértékben és a nagymértékben veszélyeztetett megyékre megyei védelmi tervet készít. A megyei védelmi tervet a NÉBIH és az OKF a hivatalos honlapján közzéteszi.
 
 (4) A megyei védelmi terv tartalmazza
 
@@ -50,8 +50,9 @@ c) a tűz esetén értesítendő szervek elérhetőségét,
 
 d) a tűz esetén igénybe vehető eszközöket és azok elérhetőségét.
 
-(10)[^2]
+(10)[^5]
 
 (11) Az elkészített védelmi tervet és egyszerűsített védelmi tervet módosítani kell, ha a tűzvédelmi helyzetre kiható változás következik be.
 
-[^2]: Az 5. § (10) bekezdését a 44/2017. (XII. 29.) BM rendelet 34. § a) pontja hatályon kívül helyezte.
+[^4]: A 5. § (3) bekezdése a 29/2018. (X. 19.) BM rendelet 2. §-ával megállapított szöveg.
+[^5]: Az 5. § (10) bekezdését a 44/2017. (XII. 29.) BM rendelet 34. § a) pontja hatályon kívül helyezte.

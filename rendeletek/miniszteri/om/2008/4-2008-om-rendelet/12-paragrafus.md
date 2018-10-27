@@ -1,8 +1,8 @@
 ## Fokozott tűzveszély időszakára vonatkozó szabályok
 
-12. § (1) Az erdőgazdálkodó a tűzgyújtási tilalom ideje alatt a tűzvédelmi szempontból nagymértékben veszélyeztetett területek esetében köteles
+12. § (1)[^9] Az erdőgazdálkodó a fokozott tűzveszély időszaka alatt a tűzvédelmi szempontból nagymértékben veszélyeztetett területek esetében köteles
 
-a) az erdőbe vezető utak, ösvények, nyiladékok bejáratánál és a tűzrakó helyeken az általános tűzgyújtási tilalomra figyelmeztető táblát elhelyezni,
+a)[^10]
 
 b) a tűzgyújtási tilalomra vonatkozó rendelkezések megtartását folyamatosan ellenőrizni,
 
@@ -12,6 +12,8 @@ d) az erdőtűz oltására megfelelő munkacsoport, felszerelés és jármű ké
 
 (2) Az erdőgazdálkodó a tűzvédelmi szempontból kismértékben és közepesen veszélyeztetett területek esetében az (1) bekezdés a)–c) pontjában meghatározott kötelezettségeket teljesíti.
 
-(3)[^5]
+(3)[^11]
 
-[^5]: A 12. § (3) bekezdését a 44/2017. (XII. 29.) BM rendelet 34. § b) pontja hatályon kívül helyezte.
+[^9]: A 12. § (1) bekezdés nyitó szövegrésze a 29/2018. (X. 19.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^10]: A 12. § (1) bekezdés a) pontját a 29/2018. (X. 19.) BM rendelet 6. §-a hatályon kívül helyezte.
+[^11]: A 12. § (3) bekezdését a 44/2017. (XII. 29.) BM rendelet 34. § b) pontja hatályon kívül helyezte.
