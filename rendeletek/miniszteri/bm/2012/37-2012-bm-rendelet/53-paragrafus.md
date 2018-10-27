@@ -2,6 +2,6 @@
 
 (2) A polgármester és a jegyző elismerését bárki kezdeményezheti, az elismerésre a helyi önkormányzat képviselőtestülete és az illetékes kormányhivatal előzetes véleményezése alapján kerülhet sor.
 
-(3)[^64]
+(3)[^66]
 
-[^64]: Az 53. § (3) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 10. pontja hatályon kívül helyezte.
+[^66]: Az 53. § (3) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 10. pontja hatályon kívül helyezte.
