@@ -1,0 +1,3 @@
+A Kormány kiemelt célja a hatékony állam, ezért évek óta több eszközzel is csökkenti a bürokráciát. A cél az, hogy kizárólag annyian dolgozzanak a központi közigazgatásban, mint amennyire feltétlenül szükség van, tehát kevesebb tisztviselő legyen, de magasabb bérért. Ennek részeként a Kormány egyetért azzal, hogy a minisztériumok és a miniszterek irányítása vagy felügyelete alá tartozó szervek 2019. január 1. napjától kizárólag a feladataik ellátásához elengedhetetlenül szükséges létszámmal rendelkezzenek. A tervezhető és hosszútávon fenntartható kormányzati létszámgazdálkodás kialakításával párhuzamosan megtörténik a béremelés előkészítése is.
+
+A fentiek érdekében a Kormány
