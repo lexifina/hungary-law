@@ -388,27 +388,27 @@ Nyitrai Zsolt (Fidesz)
 
 Ovádi Péter (Fidesz)
 
-dr. Selmeczi Gabriella (Fidesz)
+dr. Budai Gyula (Fidesz)[^53]
 
-dr. Kerényi János (Fidesz)[^53]
+dr. Kerényi János (Fidesz)[^54]
 
 dr. Tapolczai Gergely (Fidesz)
 
-dr. Aradszki András (KDNP)[^54]
+dr. Aradszki András (KDNP)[^55]
 
 dr. Vejkey Imre (KDNP)
 
-dr. Steinmetz Ádám (Jobbik)[^55]
+dr. Steinmetz Ádám (Jobbik)[^56]
 
 Jakab Péter (Jobbik)
 
-Pintér Tamás (Jobbik)[^56]
+Pintér Tamás (Jobbik)[^57]
 
 Stummer János (Jobbik)
 
 Szilágyi György (Jobbik)
 
-Molnár Gyula (MSZP)[^57]
+Molnár Gyula (MSZP)[^58]
 
 Hiszékeny Dezső (MSZP)
 
@@ -436,7 +436,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 
 6. A Magyarországi nemzetiségek bizottságának megbízatása 2018. május 9-én kezdődik.
 
-7.[^58]
+7.[^59]
 
 [^2]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
@@ -489,9 +489,10 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^50]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
 [^51]: A 7/2018. (V. 11.) OGY határozat 2. pontja iktatta be.
 [^52]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
-[^53]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
-[^54]: A 10/2018. (VI. 5.) OGY határozat 2. pontjával megállapított szöveg.
-[^55]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^53]: A 28/2018. (X. 31.) OGY határozat 1. pontjával megállapított szöveg.
+[^54]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^55]: A 10/2018. (VI. 5.) OGY határozat 2. pontjával megállapított szöveg.
 [^56]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
-[^57]: A 19/2018. (X. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^58]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^58]: A 19/2018. (X. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^59]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
