@@ -4,6 +4,7 @@ a) a 2019. évre vonatkozó kötelezettségvállalás legfeljebb 153 265 890 468
 
 b)[^1] a 2020. évre vonatkozó kötelezettségvállalás legfeljebb 109 946 304 781 forint,
 
-c) a 2021. évre vonatkozó kötelezettségvállalás legfeljebb 6 376 654 355 forint.
+c)[^2] a 2021. évre vonatkozó kötelezettségvállalás legfeljebb 13 876 654 355 forint.
 
 [^1]: A határozat b) pontja az 1444/2018. (IX. 17.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A határozat c) pontja az 1548/2018. (X. 30.) Korm. határozat 4. pontja szerint módosított szöveg.
