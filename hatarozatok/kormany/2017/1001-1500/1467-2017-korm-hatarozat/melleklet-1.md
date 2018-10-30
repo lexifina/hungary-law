@@ -48,7 +48,13 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1467/2017. (VII. 25.) Korm. határozathoz
+## 5.[^1] A Kormány felhívja az innovációért és technológiáért felelős minisztert, hogy a turisztikai célú keskeny nyomközű kisvasutak fejlesztéséről szóló 1467/2017. (VII. 25.) Korm. határozat módosításáról szóló 1541/2018. (X. 30.) Korm. határozattal módosított 1. melléklet szerinti tartalommal módosítsa a Győr–Sopron–Ebenfurti Vasút Zártkörűen Működő Részvénytársasággal és a DKV Debreceni Közlekedési Zártkörűen Működő Részvénytársasággal kötött támogatási szerződéseket.
+
+## Felelős: innovációért és technológiáért felelős miniszter
+
+## Határidő: azonnal
+
+1. melléklet az 1467/2017. (VII. 25.) Korm. határozathoz[^2]
 
 | I/a. ütem – Tervezés |
 
@@ -56,7 +62,7 @@
 
 | Balatonfenyves Gazdasági Vasút: Imremajor (kiz.) – Csisztafürdő (bez.) tervezés | NFM | MÁV Zrt. |
 
-| Nagycenk Kastély állomás (bez.) – Fertőd Eszterházy Kastély állomás (bez.) vonalszakasz megvalósíthatósági tanulmány, engedélyezési és kiviteli tervek készítése | NFM | GYSEV Zrt. |
+| Nagycenk Kastély állomás (bez.) – Fertőd Eszterházy Kastély állomás (bez.) vonalszakasz megvalósíthatósági tanulmány készítése | NFM | GYSEV Zrt. |
 
 | Lillafüredi Állami Erdei Vasút pályarekonstrukció és korrekció tervezése | FM | ÉSZAKERDŐ Zrt. |
 
@@ -64,7 +70,7 @@
 
 | Kemencei Erdei Múzeumvasút Csarna-völgyi újjáépítés megvalósítási tanulmány, környezetvédelmi hatástanulmány, tervezés | FM | Ipoly Erdő Zrt. |
 
-| Debreceni Zsuzsi Erdei Vasút Debrecen nagyállomási bekötés tervezése | NFM | DKV Debreceni Közlekedési Zrt. |
+| Debreceni Zsuzsi Erdei Vasút Debrecen nagyállomási bekötés lehetőségeinek vizsgálata, megvalósíthatósági tanulmány készítése | NFM | DKV Debreceni Közlekedési Zrt. |
 
 | Bicske (bez.) – Felcsút Puskás Akadémia (kiz.) fonódó vágány (HM olajtárolótól csak kisvasút Felcsútig) | NFM | MÁV Zrt. |
 
@@ -131,3 +137,6 @@
 | Vál-völgyi Kisvasút Bicske–Lovasberény közötti eddig el nem készült szakaszai | NFM | MÁV Zrt. |
 
 Amennyiben az I. ütem tartalékkerete nem, vagy csak részlegesen kerül felhasználására, a megmaradó forrás a Gemenci Állami Erdei Vasút fejlesztésére fordítható.
+
+[^1]: Az 5. pontot az 1541/2018. (X. 30.) Korm. határozat 2. pontja iktatta be.
+[^2]: Az 1. melléklet az 1541/2018. (X. 30.) Korm. határozat 1. pontja szerint módosított szöveg.
