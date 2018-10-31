@@ -4,4 +4,6 @@
 
 (2) Az (1) bekezdés szerinti szervezet vezetője gondoskodik az intézkedési terv – különösen a szabálytalanságok kezelésével kapcsolatos intézkedések – megvalósításának folyamatos nyomon követéséről.
 
-(3) Az intézkedési terv végrehajtásáról az (1) bekezdés szerinti szervezet vezetője minden év november 15-ei zárónappal beszámolót készít, és annak elkészültét követő tizenöt napon belül a megvalósítást alátámasztó dokumentumokkal együtt benyújtja azt az audit hatóság részére.
+(3)[^4]
+
+[^4]: A 43. § (3) bekezdését a 199/2018. (X. 30.) Korm. rendelet 3. §-a hatályon kívül helyezte.

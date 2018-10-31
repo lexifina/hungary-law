@@ -1,11 +1,9 @@
-## 7. Az audit hatóság feladatai
+## 7. [^1] Az Európai Támogatásokat Auditáló Főigazgatóság feladatai
 
-10. § (1) A költségvetési hozzájárulással megvalósuló projektek tekintetében az audit hatóság
+## 10. § A költségvetési hozzájárulással megvalósuló projektek tekintetében az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF)
 
-a) elkészíti az audit stratégiát,
+a) elvégzi a projektmegvalósítással összefüggésben az Európai Bizottsághoz benyújtandó időközi- és záróegyenleg-kifizetés iránti kérelmekben szereplő költségek vizsgálatát a támogatási megállapodásban rögzített szempontok szerint, és
 
-b) elvégzi a rendszerellenőrzéseket, valamint
+b) a támogatási megállapodásban előírt feltételeknek való megfelelés esetén a projektek keretében elszámolható költségek valódiságáról, elszámolhatóságáról a támogatási megállapodásban meghatározott formában jelentést állít ki.
 
-c) elvégzi a projektekkel kapcsolatos záró elszámolások vizsgálatát és elkészíti a nemzeti hatóság teljeskörűségi nyilatkozatát megalapozó jelentést.
-
-(2) Az audit hatóság feladatait az Európai Támogatásokat Auditáló Főigazgatóság látja el.
+[^1]: A 7. alcím (10. §) a 199/2018. (X. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
