@@ -1,0 +1,1 @@
+## 5. § A Beruházások megvalósításával összefüggő közigazgatási hatósági ügyekben az ügyintézési határidő – a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével, vagy ha jogszabály rövidebbet nem állapít meg – 15 nap.
