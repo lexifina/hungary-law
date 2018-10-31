@@ -32,7 +32,7 @@
 
 ## Határidő: 2019. január 15.
 
-## 4. Az Európai Hálózatfinanszírozási Eszköz társfinanszírozásával megvalósítandó fejlesztésekhez szükséges éven túli kötelezettségvállaláshoz történő hozzájárulásról szóló 1179/2018. (III. 28.) Korm. határozat c) pontjában a „6 376 654 355” szövegrész helyébe a „13 876 654 355” szöveg lép.
+## 4.[^1]
 
 1. melléklet az 1548/2018. (X. 30.) Korm. határozathoz
 
@@ -149,3 +149,5 @@ Költségvetési év: 2018.
 | Pénzügyminisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
