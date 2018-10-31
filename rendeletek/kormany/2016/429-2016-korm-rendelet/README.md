@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-429-20-
 | --- | --- | --- |
 | 2016-12-30 | 2016-429-20-22.1 | 429/2016. (XII. 15.) Korm. rendelet |
 | 2017-06-10 | 2016-429-20-22.2 | 140/2017. (VI. 9.) Korm. rendelet |
+| 2018-10-31 | 2016-429-20-22.3 | 201/2018. (X. 30.) Korm. rendelet |
