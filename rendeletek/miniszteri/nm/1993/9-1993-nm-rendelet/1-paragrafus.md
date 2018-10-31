@@ -54,33 +54,35 @@ eb) kiegészítő indikációs meghatározásoknak és kezelési előírásoknak
 
 f)[^15] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokolloknak, akkor legfeljebb a legalacsonyabb egy fáziskezelési napra jutó súlyszám 70%-a számolható el kezelési naponként, és legfeljebb 5 kezelési napra, az első kezelési naptól számított 30 napon belül.
 
+(8a)[^16] A 99M 9711 és a 99M 9713 HBCs-k esetén – ideértve a HBCs-k kúraszerű ellátási formáit is – teljes díj elszámolása történik, ha a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendelet szerinti teljes kezelési sorozat befejeződött.
+
 (9) Az intézmény a 3. számú mellékletben meghatározott súlyszámot számolhatja el a (7) bekezdés a) pontja szerinti esetben, valamint a c) pontja szerinti ellátási esetben a felső határnapig teljesített ellátásért.
 
-(10)[^16] Az áthelyezett ellátási eset után – a neonatológiai intenzív centrumból (PIC) jelentett esetek, továbbá a besorolási tényezőnek minősülő beavatkozással járó ellátások (P jelű HBCs) kivételével – az intézmény nem jogosult az (1) bekezdés szerint járó súlyszámra, csak a teljes díj és a normatív ápolási idő hányadosaként meghatározott, az adott HBCs-re vonatkozó egy napra eső díj és a tényleges ellátási idő szorzatának megfelelő összegre.
+(10)[^17] Az áthelyezett ellátási eset után – a neonatológiai intenzív centrumból (PIC) jelentett esetek, továbbá a besorolási tényezőnek minősülő beavatkozással járó ellátások (P jelű HBCs) kivételével – az intézmény nem jogosult az (1) bekezdés szerint járó súlyszámra, csak a teljes díj és a normatív ápolási idő hányadosaként meghatározott, az adott HBCs-re vonatkozó egy napra eső díj és a tényleges ellátási idő szorzatának megfelelő összegre.
 
-(11)[^17] A rosszindulatú daganat miatt a szakmai szabályok szerint végzett radioterápia, kemoterápia és műtét – a sorrendtől függetlenül – egymásnak nem garanciális akadályai.
+(11)[^18] A rosszindulatú daganat miatt a szakmai szabályok szerint végzett radioterápia, kemoterápia és műtét – a sorrendtől függetlenül – egymásnak nem garanciális akadályai.
 
 (12) Az aktív fekvőbeteg-ellátási intézményben az elhunyt betegek finanszírozása 0,80000 HBCs súlyszámnál nem lehet kevesebb, függetlenül az ápolási időtől és a HBCs csoporttól.
 
-(13)[^18] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 18. §-a (6) bekezdésének m) pontja szerinti fogyatékos személy kísérője, a beteg vagy koraszülött gyermekét szoptató anya, továbbá az ellátásban részesülő, az ellátás igénybevételének megkezdésekor a 14. életévét be nem töltött biztosított szülője, törvényes képviselője és közeli hozzátartozója ellátásának finanszírozása napidíjjal történik, amelynek értéke a HBCs súlyszám aktuális forintértékének 0,02-szorosa.
+(13)[^19] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 18. §-a (6) bekezdésének m) pontja szerinti fogyatékos személy kísérője, a beteg vagy koraszülött gyermekét szoptató anya, továbbá az ellátásban részesülő, az ellátás igénybevételének megkezdésekor a 14. életévét be nem töltött biztosított szülője, törvényes képviselője és közeli hozzátartozója ellátásának finanszírozása napidíjjal történik, amelynek értéke a HBCs súlyszám aktuális forintértékének 0,02-szorosa.
 
-(13a)[^19] Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti, az újszülött 0–4 napos korban történő életkorhoz kötött szűrővizsgálatait az E. Alap a 7270 kódszámú „Újszülött, születési súly 2499 g felett, jelentős műtét nélkül, normális újszülött-diagnózissal” HBCs súlyszám 16 százalékával finanszírozza.
+(13a)[^20] Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti, az újszülött 0–4 napos korban történő életkorhoz kötött szűrővizsgálatait az E. Alap a 7270 kódszámú „Újszülött, születési súly 2499 g felett, jelentős műtét nélkül, normális újszülött-diagnózissal” HBCs súlyszám 16 százalékával finanszírozza.
 
-(14)[^20] A határnapon belüli ismételt felvétel (a 14. számú mellékletben meghatározott esetek kivételével) az előző ellátással összevonva egy ellátási esetnek számít. Az azonos HBCs-be tartozó kúraszerű ellátás – kivéve a 99M 959A-L, illetve a 9511–9515 HBCs-k – egyes kezelései (fázisok) egy ellátási esetnek számítanak, függetlenül attól, hogy ambuláns betegként vagy fekvőbetegként történt a kezelés.
+(14)[^21] A határnapon belüli ismételt felvétel (a 14. számú mellékletben meghatározott esetek kivételével) az előző ellátással összevonva egy ellátási esetnek számít. Az azonos HBCs-be tartozó kúraszerű ellátás – kivéve a 99M 959A-L, illetve a 9511–9515 HBCs-k – egyes kezelései (fázisok) egy ellátási esetnek számítanak, függetlenül attól, hogy ambuláns betegként vagy fekvőbetegként történt a kezelés.
 
-(15)[^21] A sürgősségi betegellátásban használt 0 alsó határnapos, illetve 6–24 órás kezelésre az azonos fődiagnózisnak megfelelő ,,M'' jelű HBCs szerinti garanciális ellátási szabály az irányadó.
+(15)[^22] A sürgősségi betegellátásban használt 0 alsó határnapos, illetve 6–24 órás kezelésre az azonos fődiagnózisnak megfelelő ,,M'' jelű HBCs szerinti garanciális ellátási szabály az irányadó.
 
-(16)[^22] A 3. számú mellékletben ,,társult és súlyos társult betegséggel'' szövegrésszel megjelölt HBCs esetén besorolási tényezőként figyelembe vehető az ápolást indokoló alapbetegség mellett fennálló kísérő betegség és az alapbetegség miatti szövődmény. Nem besorolási tényező a betegség kezelésével összefüggő szövődmény.Az alsó határnap előtt elbocsátott eset a ,,társult és súlyos társult betegséggel betegséggel'' elnevezésű HBCs-be nem sorolható be.
+(16)[^23] A 3. számú mellékletben ,,társult és súlyos társult betegséggel'' szövegrésszel megjelölt HBCs esetén besorolási tényezőként figyelembe vehető az ápolást indokoló alapbetegség mellett fennálló kísérő betegség és az alapbetegség miatti szövődmény. Nem besorolási tényező a betegség kezelésével összefüggő szövődmény.Az alsó határnap előtt elbocsátott eset a ,,társult és súlyos társult betegséggel betegséggel'' elnevezésű HBCs-be nem sorolható be.
 
-(17)[^23]
+(17)[^24]
 
-(18)[^24] A Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) a külön jelzéssel ellátott HBCs-ékhez tartozó ellátások indikációjának érvényesítésére szakmai bizottságot hozhat létre, amelybe az egészségügyi szakmai kollégium illetékes tagozatát és az országos tisztifőorvost a szakterület tekintetében illetékes szakfelügyelők delegálására kérheti fel. A bizottság feladata az ellenőrzés szakmai, módszertani előiratainak elkészítése. A bizottságot a NEAK működteti.
+(18)[^25] A Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) a külön jelzéssel ellátott HBCs-ékhez tartozó ellátások indikációjának érvényesítésére szakmai bizottságot hozhat létre, amelybe az egészségügyi szakmai kollégium illetékes tagozatát és az országos tisztifőorvost a szakterület tekintetében illetékes szakfelügyelők delegálására kérheti fel. A bizottság feladata az ellenőrzés szakmai, módszertani előiratainak elkészítése. A bizottságot a NEAK működteti.
 
-(19)[^25] Az (1) bekezdés szerint kerül finanszírozásra az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendeletben foglalt eljárásrend szerint engedélyezett – a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendeletben meghatározott protokollban foglalt és meghatározott, nemzetközi irányelveken és hazai szakmai tapasztalatokon alapuló protokollokban foglalt – indikáción túli gyógyszeres kezelés.
+(19)[^26] Az (1) bekezdés szerint kerül finanszírozásra az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendeletben foglalt eljárásrend szerint engedélyezett – a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló miniszteri rendeletben meghatározott protokollban foglalt és meghatározott, nemzetközi irányelveken és hazai szakmai tapasztalatokon alapuló protokollokban foglalt – indikáción túli gyógyszeres kezelés.
 
-(20)[^26] A műszívkezelés alkalmazásának finanszírozása annak időtartama alatt napidíjjal történik a fekvőbeteg- szakellátásban, amelynek értéke a HBCs súlyszám aktuális forintértékének 0,75-szorosa.
+(20)[^27] A műszívkezelés alkalmazásának finanszírozása annak időtartama alatt napidíjjal történik a fekvőbeteg- szakellátásban, amelynek értéke a HBCs súlyszám aktuális forintértékének 0,75-szorosa.
 
-(21)[^27]
+(21)[^28]
 
 [^2]: Az 1. § (1) bekezdése a 3/1997. (II. 13.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg. Az 1. §-t megelőző alcímet ugyanezen rendelet 7. §-a (2) bekezdésének a) pontja hatályon kívül helyezte. Az 1. § (1) bekezdése a 48/2005. (XI. 8.) EüM rendelet 7. § (2) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdése a 29/2010. (XII. 30.) NEFMI rendelet 6. § a) pontja, a 9/2012. (II. 28.) NEFMI rendelet 10. § a) pontja szerint módosított szöveg.
@@ -96,15 +98,16 @@ f)[^15] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 [^13]: Az 1. § (7) bekezdésének d) pontja a 3/1997. (II. 13.) NM rendelet 7. §-a (2) bekezdésének c) pontja szerint módosított szöveg.
 [^14]: Az 1. § (8) bekezdését a 7/1999. (IV. 7.) EüM rendelet 5. §-a (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 48/2005. (XI. 8.) EüM rendelet 1. §-a iktatta be. Az 1. § (8) bekezdésének bevezető szövegrésze a 22/2008. (V. 26.) EüM rendelet 1. § (1) bekezdésével megállapított, a 9/2012. (II. 28.) NEFMI rendelet 9. § a) pontja szerint módosított szöveg.
 [^15]: Az 1. § (8) bekezdésének f) pontja a 26/2006. (VI. 26.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^16]: Az 1. § (10) bekezdése a 7/2001. (III. 2.) EüM rendelet 1. §-ának (1) bekezdésével megállapított szöveg. Az 1. § (10) bekezdése a 25/2001. (VII. 5.) EüM rendelet 5. §-ának (3) bekezdése szerint módosított szöveg.
-[^17]: Az 1. § (11) bekezdését a 7/1999. (IV. 7.) EüM rendelet 5. §-a (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 49/2006. (XII. 28.) EüM rendelet 1. §-a iktatta be.
-[^18]: Az 1. § (13) bekezdését az 5/1998. (III. 11.) NM rendelet 1. §-a iktatta be, szövege a 15/2007. (III. 28.) EüM rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a rendelkezést a 2007. június havi kifizetésektől kell alkalmazni.
-[^19]: Az 1. § (13a) bekezdését a 23/2011. (V. 18.) NEFMI rendelet 1. §-a iktatta be.
-[^20]: Az 1. § (14) bekezdését az 5/1998. (III. 11.) NM rendelet 1. §-a iktatta be, szövege a 22/2008. (V. 26.) EüM rendelet 1. § (2) bekezdésével megállapított, a 29/2010. (XII. 30.) NEFMI rendelet 5. §-a, a 32/2016. (X. 27.) EMMI rendelet 2. § a) pontja szerint módosított szöveg.
-[^21]: Az 1. § új (15) bekezdését a 13/2000. (V. 12.) EüM rendelet 1.§-ának (4) bekezdése iktatta be.
-[^22]: Az 1. § eredeti (15) bekezdés számozását a 13/2000. (V. 12.) EüM rendelet 1. §-ának (4) bekezdése (16) bekezdésre változtatta. A 7/2001. (III. 2.) EüM rendelet 4. §-a (3) bekezdésének a) pontja módosította.
-[^23]: Az 1. § (17) bekezdését a 7/2001. (III. 2.) EüM rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 29/2009. (VIII. 14.) EüM rendelet 3. § (3) bekezdésének b) pontja hatályon kívül helyezte.
-[^24]: Az 1. § (18) bekezdését a 26/2006. (VI. 26.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege a 29/2010. (XII. 30.) NEFMI rendelet 7. §-a, a 70/2011. (XII. 23.) NEFMI rendelet 1. § a) pontja, az 54/2016. (XII. 30.) EMMI rendelet 2. § a)–b) pontja szerint módosított szöveg.
-[^25]: Az 1. § (19) bekezdését a 28/2009. (VIII. 7.) EüM rendelet 2. §-a iktatta be, szövege a 9/2012. (II. 28.) NEFMI rendelet 8. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
-[^26]: Az 1. § (20) bekezdését a 35/2010. (V. 14.) EüM rendelet 1. §-a iktatta be.
-[^27]: Az 1. § (21) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 1. §-a iktatta be, hatályon kívül helyezte a 9/2013. (I. 31.) EMMI rendelet 3. § a) pontja.
+[^16]: Az 1. § (8a) bekezdését a 37/2018. (X. 30.) EMMI rendelet 1. §-a iktatta be.
+[^17]: Az 1. § (10) bekezdése a 7/2001. (III. 2.) EüM rendelet 1. §-ának (1) bekezdésével megállapított szöveg. Az 1. § (10) bekezdése a 25/2001. (VII. 5.) EüM rendelet 5. §-ának (3) bekezdése szerint módosított szöveg.
+[^18]: Az 1. § (11) bekezdését a 7/1999. (IV. 7.) EüM rendelet 5. §-a (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 49/2006. (XII. 28.) EüM rendelet 1. §-a iktatta be.
+[^19]: Az 1. § (13) bekezdését az 5/1998. (III. 11.) NM rendelet 1. §-a iktatta be, szövege a 15/2007. (III. 28.) EüM rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a rendelkezést a 2007. június havi kifizetésektől kell alkalmazni.
+[^20]: Az 1. § (13a) bekezdését a 23/2011. (V. 18.) NEFMI rendelet 1. §-a iktatta be.
+[^21]: Az 1. § (14) bekezdését az 5/1998. (III. 11.) NM rendelet 1. §-a iktatta be, szövege a 22/2008. (V. 26.) EüM rendelet 1. § (2) bekezdésével megállapított, a 29/2010. (XII. 30.) NEFMI rendelet 5. §-a, a 32/2016. (X. 27.) EMMI rendelet 2. § a) pontja szerint módosított szöveg.
+[^22]: Az 1. § új (15) bekezdését a 13/2000. (V. 12.) EüM rendelet 1.§-ának (4) bekezdése iktatta be.
+[^23]: Az 1. § eredeti (15) bekezdés számozását a 13/2000. (V. 12.) EüM rendelet 1. §-ának (4) bekezdése (16) bekezdésre változtatta. A 7/2001. (III. 2.) EüM rendelet 4. §-a (3) bekezdésének a) pontja módosította.
+[^24]: Az 1. § (17) bekezdését a 7/2001. (III. 2.) EüM rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 29/2009. (VIII. 14.) EüM rendelet 3. § (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^25]: Az 1. § (18) bekezdését a 26/2006. (VI. 26.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege a 29/2010. (XII. 30.) NEFMI rendelet 7. §-a, a 70/2011. (XII. 23.) NEFMI rendelet 1. § a) pontja, az 54/2016. (XII. 30.) EMMI rendelet 2. § a)–b) pontja szerint módosított szöveg.
+[^26]: Az 1. § (19) bekezdését a 28/2009. (VIII. 7.) EüM rendelet 2. §-a iktatta be, szövege a 9/2012. (II. 28.) NEFMI rendelet 8. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
+[^27]: Az 1. § (20) bekezdését a 35/2010. (V. 14.) EüM rendelet 1. §-a iktatta be.
+[^28]: Az 1. § (21) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 1. §-a iktatta be, hatályon kívül helyezte a 9/2013. (I. 31.) EMMI rendelet 3. § a) pontja.
