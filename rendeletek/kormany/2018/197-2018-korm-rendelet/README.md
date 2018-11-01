@@ -1,0 +1,9 @@
+# 197/2018. (X. 24.) Korm. rendelet
+
+a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaságról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-197-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-11-01 | 2018-197-20-22.1 | 197/2018. (X. 24.) Korm. rendelet |
