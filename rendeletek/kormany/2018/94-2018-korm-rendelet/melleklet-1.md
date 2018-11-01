@@ -1,6 +1,6 @@
 ## 165. § Az e rendelet hatálybalépésekor hatályos más kormányrendeletben vagy miniszteri rendeletben a Kormány tagja feladat- és hatáskörét e rendelet szerint kell érteni.
 
-1. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^8]
+1. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^10]
 
 A Kormány tagja által irányított vagy felügyelt központi államigazgatási szervek
 
@@ -156,4 +156,4 @@ L) Nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 | 2 | Szerencsejáték Felügyelet | irányítás |
 
-[^8]: Az 1. melléklet a 136/2018. (VII. 25.) Korm. rendelet 1. § e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 43. §-a szerint módosított szöveg.
+[^10]: Az 1. melléklet a 136/2018. (VII. 25.) Korm. rendelet 1. § e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 43. §-a szerint módosított szöveg.
