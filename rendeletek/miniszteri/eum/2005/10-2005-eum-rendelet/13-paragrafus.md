@@ -2,6 +2,6 @@
 
 13. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)[^21]
+(2)[^22]
 
-[^21]: A 13. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 124. pontja hatályon kívül helyezte.
+[^22]: A 13. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 124. pontja hatályon kívül helyezte.

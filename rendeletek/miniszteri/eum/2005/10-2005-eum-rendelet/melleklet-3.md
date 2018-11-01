@@ -60,6 +60,6 @@
 
 ## OMSZ főigazgató/szolgálatvezető főorvos
 
-3. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez[^23]
+3. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez[^24]
 
-[^23]: A 3. számú melléklet a 68/2013. (XI. 15.) EMMI rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^24]: A 3. számú melléklet a 68/2013. (XI. 15.) EMMI rendelet 15. § (2) bekezdésével megállapított szöveg.

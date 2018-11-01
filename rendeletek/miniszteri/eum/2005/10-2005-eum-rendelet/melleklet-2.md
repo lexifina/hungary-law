@@ -22,6 +22,6 @@
 
 |  | aláírás |
 
-2. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez[^22]
+2. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez[^23]
 
-[^22]: A 2. számú melléklet a 68/2013. (XI. 15.) EMMI rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^23]: A 2. számú melléklet a 68/2013. (XI. 15.) EMMI rendelet 15. § (1) bekezdésével megállapított szöveg.

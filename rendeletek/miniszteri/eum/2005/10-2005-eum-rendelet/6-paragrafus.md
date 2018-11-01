@@ -4,4 +4,7 @@
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni akkor, ha a 2. § (1) bekezdés a) pont szerinti haladéktalan jelentési kötelezettségű eseményeket az alapellátást nyújtó egészségügyi szolgáltató jelentette be.
 
+(3)[^12] Az országos tisztifőorvos a hozzá a 6. § (1) bekezdése alapján bejelentett eseményeket – a saját hatáskörében megtett vagy tervezett intézkedések ismertetésével együtt – szóban haladéktalanul, de legkésőbb 1 órán belül írásban is továbbjelenti a minisztérium részére.
+
 [^11]: A 6. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 71. § b)–c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 46. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 6. § (3) bekezdését a 38/2018. (X. 31.) EMMI rendelet 11. § (1) bekezdése iktatta be.
