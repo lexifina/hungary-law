@@ -1,4 +1,4 @@
-13. §[^26] (1) Az OIAB-ot a miniszter hozza létre.
+13. §[^27] (1) Az OIAB-ot a miniszter hozza létre.
 
 (2) Az OIAB a miniszter javaslattevő, véleményező, tanácsadói tevékenységet végző testülete, melynek feladata az egészségügyi ellátással összefüggő fertőzések és antimikrobiális rezisztencia helyzet értékelése és javaslattétel azon intézkedésekre és beavatkozásokra, melyekkel az egészségügyi ellátással összefüggő fertőzések kockázata csökkenthető, az antimikrobiális rezisztencia visszaszorítható.
 
@@ -28,4 +28,4 @@ h) az IIAB-k és MIAB-ok jelentéseinek értékelése;
 
 i) éves jelentés készítése, továbbá felkérésre ad hoc jelentések készítése és ajánlások megfogalmazása a miniszter számára, aki dönt annak elfogadásáról és nyilvánosságra hozataláról.
 
-[^26]: A 13. § a 32/2018. (IX. 28.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^27]: A 13. § a 32/2018. (IX. 28.) EMMI rendelet 8. §-ával megállapított szöveg.

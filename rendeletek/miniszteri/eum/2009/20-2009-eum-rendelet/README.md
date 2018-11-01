@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-20-20-0
 | 2017-01-05 | 2009-20-20-0B.10 | 12/2012. (III. 6.) NEFMI rendelet |
 | 2017-04-01 | 2009-20-20-0B.11 | 12/2012. (III. 6.) NEFMI rendelet |
 | 2018-10-01 | 2009-20-20-0B.12 | 32/2018. (IX. 28.) EMMI rendelet |
+| 2018-11-01 | 2009-20-20-0B.13 | 38/2018. (X. 31.) EMMI rendelet |

@@ -1,4 +1,4 @@
-10. §[^21] (1) A fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónak ágyszámtól függetlenül IIAB-ot kell működtetnie.
+10. §[^22] (1) A fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónak ágyszámtól függetlenül IIAB-ot kell működtetnie.
 
 (2) Az IIAB az intézmény vezetésének javaslattételi, véleményezési joggal rendelkező szakmai tanácsadó testülete.
 
@@ -50,4 +50,4 @@ i) az intézmény fő ellátási profiljának megfelelő egyéb klinikai szakma 
 
 (9) A főigazgató az IIAB közreműködésével évente, továbbá – ha járványügyi esemény indokolttá teszi – soron kívüli jelentést küld az országos tisztifőorvosnak és a MIAB-nak az intézményi szintű egészségügyi ellátással összefüggő fertőzések és antimikrobiális rezisztencia járványügyi helyzetről, az infekciókontroll és antimikrobiális rezisztencia visszaszorítása érdekében végzett tevékenységéről és annak eredményeiről.
 
-[^21]: A 10. § a 32/2018. (IX. 28.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^22]: A 10. § a 32/2018. (IX. 28.) EMMI rendelet 6. §-ával megállapított szöveg.
