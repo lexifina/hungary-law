@@ -470,7 +470,7 @@ g) 2 hó infekciós kórképek molekuláris diagnosztikája
 
 h) 2 hó molekuláris módszerek járványok felderítésében
 
-i) 1 hó gyakorlat az Országos Közegészségügyi Intézetben
+i) 1 hó gyakorlat a Nemzeti Népegészségügyi Központban
 
 j) 12 hó speciális, mikrobiológiai területhez illeszkedő tudományos tevékenység beszámítható a szakképzésbe
 
@@ -1020,4 +1020,4 @@ j) kötelező tanfolyamok, elemei: nukleáris medicina, sugárvédelem, sugárte
 
 Részvétel szakvizsga előkészítő tanfolyamon.
 
-[^31]: Az 5. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 86. § d) pontja szerint módosított szöveg.
+[^31]: Az 5. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 86. § d) pontja, a 38/2018. (X. 31.) EMMI rendelet 18. §-a szerint módosított szöveg.
