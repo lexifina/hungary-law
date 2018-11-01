@@ -1204,7 +1204,7 @@
 
 ## – Az első bekezdés előírásait kell alkalmazni minden olyan vakcinára, mely vakcina antigének új kombinációjából áll, függetlenül attól, hogy a vakcinában lévő antigének közül egy vagy több, már része más, a Közösségben engedélyezett vakcinának.
 
-## – Jelen pont első, második és harmadik bekezdésének (értékelés és tanúsítvány) előírásai szerint, abban az esetben, ha egy vakcina-antigén-alapadat összeállítás olyan vakcinára vonatkozik, mely Magyarországon nem közösségi forgalomba hozatali engedélyezési eljárás alatt áll, és ha a vakcina olyan antigéneket tartalmaz, melyeket nem értékeltek a Közösség eljárása szerint, akkor a vakcina-antigén-alapadatok és későbbi változásainak tudományos és szakmai értékelését az OGYÉI végzi el az OKI bevonásával.
+## – Jelen pont első, második és harmadik bekezdésének (értékelés és tanúsítvány) előírásai szerint, abban az esetben, ha egy vakcina-antigén-alapadat összeállítás olyan vakcinára vonatkozik, mely Magyarországon nem közösségi forgalomba hozatali engedélyezési eljárás alatt áll, és ha a vakcina olyan antigéneket tartalmaz, melyeket nem értékeltek a Közösség eljárása szerint, akkor a vakcina-antigén-alapadatok és későbbi változásainak tudományos és szakmai értékelését az OGYÉI végzi el az NNK bevonásával.
 
 ## – Az előírások első, második, harmadik és negyedik bekezdésével kapcsolatban, az OGYÉI-nek figyelembe kell vennie a szóban forgó gyógyszer(ek) vakcina-antigén-alapadatainak tanúsítását és újratanúsítását vagy változtatását.
 
@@ -1753,7 +1753,7 @@
 [^161]: Az 1. melléklet 3. része az 54/2016. (XII. 30.) EMMI rendelet 48. § d) pontja szerint módosított szöveg.
 [^162]: Az 1. számú melléklet 3. rész 1. cím 1.1. pont a) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § h) és i) pontja szerint módosított szöveg.
 [^163]: Az 1. számú melléklet 3. rész 1. cím 1.1. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § i) pontja szerint módosított szöveg.
-[^164]: Az 1. számú melléklet 3. rész 1. cím 1.2. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § d) és e) pontja szerint módosított szöveg.
+[^164]: Az 1. számú melléklet 3. rész 1. pont 1.2. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 76. § d) és e) pontja, a 38/2018. (X. 31.) EMMI rendelet 12. § b) pontja szerint módosított szöveg.
 [^165]: Az 1. számú melléklet 3. rész 2. alcím 2.1. pont nyitó szövegrésze a 8/2018. (II. 13.) EMMI rendelet 31. § q) pontja szerint módosított szöveg.
 [^166]: Az 1. számú melléklet 3. rész 3. alcíme a 8/2018. (II. 13.) EMMI rendelet 31. § r) pontja szerint módosított szöveg.
 [^167]: Az 1. számú melléklet 4. része a 20/2010. (IV. 29.) EüM rendelet 2. §-ával megállapított szöveg.
