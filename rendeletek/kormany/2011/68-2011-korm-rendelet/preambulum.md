@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (2) bekezdésben meghatározott eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdés c) pontjában meghatározott feladatkörében eljárva – az Új Széchenyi Terv megvalósításának elősegítése érdekében – a következőket rendeli el:
