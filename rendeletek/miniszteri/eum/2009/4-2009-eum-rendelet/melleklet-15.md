@@ -1,6 +1,6 @@
 ## BEJELENTŐ LAP
 
-## Egészségügyért felelős miniszter által vezetett minisztérium számára
+## Nemzeti Népegészségügyi Központ számára
 
 ## a II.a osztályba tartozó, kifejezetten orvostechnikai eszközök fertőtlenítésére szánt eszközök
 

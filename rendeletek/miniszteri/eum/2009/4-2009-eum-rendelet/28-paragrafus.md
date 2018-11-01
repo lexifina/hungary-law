@@ -8,10 +8,10 @@
 
 (4)[^81] Az egészségügyi államigazgatási szerv (2)–(3) bekezdés szerinti határozatai ellen – az általános közigazgatási rendtartásról szóló törvény szerint – jogorvoslatnak van helye.
 
-(5)[^82] A gyártó, a forgalmazó vagy a meghatalmazott képviselő a tárgyévet megelőző naptári évben forgalomba hozott, a II.a osztályba tartozó, kifejezetten eszközök fertőtlenítésére szánt – biocidnak minősülő hatóanyagot tartalmazó – eszközről tárgyév március hónap első napjáig a 14. melléklet szerinti adatlap megküldésével köteles tájékoztatni az egészségügyért felelős miniszter által vezetett minisztériumot.
+(5)[^82] A gyártó, a forgalmazó vagy a meghatalmazott képviselő a tárgyévet megelőző naptári évben forgalomba hozott, a II.a osztályba tartozó, kifejezetten eszközök fertőtlenítésére szánt – biocidnak minősülő hatóanyagot tartalmazó – eszközről tárgyév március hónap első napjáig a 14. melléklet szerinti adatlap megküldésével köteles tájékoztatni az országos tisztifőorvost.
 
 [^78]: A 28. § (1) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 21. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 105. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés h) pontja szerint módosított szöveg.
 [^79]: A 28. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 65. § (1) bekezdés e) pontja, az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés i) pontja szerint módosított szöveg.
 [^80]: A 28. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 65. § (1) bekezdés e) pontja, az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés e) és j) pontja szerint módosított szöveg.
 [^81]: A 28. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 65. § (1) bekezdés e) pontja, a 8/2018. (II. 13.) EMMI rendelet 61. § b) pontja szerint módosított szöveg.
-[^82]: A 28. § (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 103. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés k) pontja és a (2) bekezdése szerint módosított szöveg.
+[^82]: A 28. § (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 103. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 63. § (2) bekezdése, a 38/2018. (X. 31.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.

@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-4-20-0B
 | 2017-01-01 | 2009-4-20-0B.16 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2017-04-01 | 2009-4-20-0B.17 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2018-02-14 | 2009-4-20-0B.18 | 29/2011. (VI. 7.) NEFMI rendelet |
+| 2018-11-01 | 2009-4-20-0B.19 | 38/2018. (X. 31.) EMMI rendelet |
