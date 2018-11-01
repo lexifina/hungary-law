@@ -14,7 +14,7 @@ b) a folyamatos oltási rend szerint végzett oltások adatait havonta, a jelent
 
 c) az 5. § (5) és (7) bekezdése szerinti kampányoltások adatait az oltás befejezését követő hónap 25. napjáig rögzíti az elektronikus járványügyi felügyeleti rendszerbe.
 
-(5)[^55] A védőoltásokra vonatkozó adatok a kormányhivatal, az országos tisztifőorvos és az Országos Közegészségügyi Intézet (a továbbiakban: OKI) számára a közös adatbázison keresztül elérhetők.
+(5)[^55] A védőoltásokra vonatkozó adatok a kormányhivatal, az országos tisztifőorvos számára a közös adatbázison keresztül elérhetők.
 
 (6)[^56]
 
@@ -24,21 +24,21 @@ a)[^58] az oltó-, illetve észlelő orvos a járási hivatalnak és egyidejűle
 
 b)[^59] a járási hivatal a kormányhivatalnak,
 
-c)[^60] a kormányhivatal az országos tisztifőorvosnak és az OKI-nak
+c)[^60] a kormányhivatal az országos tisztifőorvosnak
 
 haladéktalanul jelenti.
 
-(8)[^61] A kormányhivatal a (7) bekezdés szerinti esetet kivizsgálja, és annak eredményéről az országos tisztifőorvost és az OKI-t tájékoztatja.
+(8)[^61] A kormányhivatal a (7) bekezdés szerinti esetet kivizsgálja, és annak eredményéről az országos tisztifőorvost tájékoztatja.
 
 [^50]: A 13. § (1) bekezdése a 33/2006. (VIII. 23.) EüM rendelet 3. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § e) és f) pontja szerint módosított szöveg.
 [^51]: A 13. § (2) bekezdése a 33/2006. (VIII. 23.) EüM rendelet 3. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § f) pontja szerint módosított szöveg.
 [^52]: A 13. § (3) bekezdése a 30/2009. (X. 14.) EüM rendelet 3. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § f) pontja szerint módosított szöveg.
 [^53]: A 13. § (4) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 5. §-ával megállapított szöveg.
 [^54]: A 13. § (4) bekezdés a) pontja az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 8. pontja szerint módosított szöveg.
-[^55]: A 13. § (5) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 9. pontja szerint módosított szöveg.
+[^55]: A 13. § (5) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 9. pontja, a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^56]: A 13. § (6) bekezdését a 61/1999. (XII. 1.) EüM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
 [^57]: A 13. § (7) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^58]: A 13. § (7) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § f) és h) pontja szerint módosított szöveg.
 [^59]: A 13. § (7) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § e) és i) pontja szerint módosított szöveg.
-[^60]: A 13. § (7) bekezdés c) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 10. pontja szerint módosított szöveg.
-[^61]: A 13. § (8) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 11. pontja szerint módosított szöveg.
+[^60]: A 13. § (7) bekezdés c) pontja a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 10. pontja, a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^61]: A 13. § (8) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 8. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 11. pontja, a 38/2018. (X. 31.) EMMI rendelet 2. § (2) bekezdés c) pontja szerint módosított szöveg.

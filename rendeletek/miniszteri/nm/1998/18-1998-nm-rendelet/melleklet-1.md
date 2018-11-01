@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^191]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^193]
 
 A) Személyazonosító adatokkal együtt jelentendő
 
@@ -174,7 +174,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A székletet a járványügyi feladatok ellátására kijelölt parazitológiai laboratóriumba kell beküldeni. Szöveti amoebiasis gyanúja esetén szerológiai vizsgálatra alvadásgátló nélkül, sterilen vett vérmintát lehet az OKI részére megküldeni.
+Kötelező. A székletet a járványügyi feladatok ellátására kijelölt parazitológiai laboratóriumba kell beküldeni. Szöveti amoebiasis gyanúja esetén szerológiai vizsgálatra alvadásgátló nélkül, sterilen vett vérmintát lehet az NNK részére megküldeni.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -330,7 +330,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. Bőranthrax esetében a pustula, carbunculus vagy más elváltozás sterilen vett váladékát, szövetmintát futárral kell beküldeni az OKI referencia laboratóriumába. Tüdőanthrax esetében köpetet, vért, biopsziával vett szövetmintát, bélanthrax esetében székletet, meningitis/meningoencephalitis esetén liquort és vért kell beküldeni. Septicaemiás szövődmény esetében vért kell haemocultura palackban megfelelően csomagolva a laboratóriumba küldeni diagnosztikus vizsgálatra. Ha valamilyen ok miatt a beteg életében a laboratóriumi vizsgálat nem történhetett meg, boncolási anyag (lép, esetleg egyéb szervek) küldendő be laboratóriumi vizsgálatra csiszolt üvegdugós porüvegben. A mintavételkor viselt egyszer használatos gumikesztyűt és egyéb mintavételi, illetve védelmi eszközöket el kell égetni. Bioterror-esemény vagy közös terjesztő közeg (pl. intravénásan beadható drog) gyanúja esetén az azzal epidemiológiai kapcsolatban lévő betegtől származó klinikai mintákat és az eseményhez kapcsolódó környezeti mintákat haladéktalanul, futárral kell küldeni az OKI referencia laboratóriumába.
+Kötelező. Bőranthrax esetében a pustula, carbunculus vagy más elváltozás sterilen vett váladékát, szövetmintát futárral kell beküldeni az NNK referencia laboratóriumába. Tüdőanthrax esetében köpetet, vért, biopsziával vett szövetmintát, bélanthrax esetében székletet, meningitis/meningoencephalitis esetén liquort és vért kell beküldeni. Septicaemiás szövődmény esetében vért kell haemocultura palackban megfelelően csomagolva a laboratóriumba küldeni diagnosztikus vizsgálatra. Ha valamilyen ok miatt a beteg életében a laboratóriumi vizsgálat nem történhetett meg, boncolási anyag (lép, esetleg egyéb szervek) küldendő be laboratóriumi vizsgálatra csiszolt üvegdugós porüvegben. A mintavételkor viselt egyszer használatos gumikesztyűt és egyéb mintavételi, illetve védelmi eszközöket el kell égetni. Bioterror-esemény vagy közös terjesztő közeg (pl. intravénásan beadható drog) gyanúja esetén az azzal epidemiológiai kapcsolatban lévő betegtől származó klinikai mintákat és az eseményhez kapcsolódó környezeti mintákat haladéktalanul, futárral kell küldeni az NNK referencia laboratóriumába.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -464,7 +464,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A betegtől haladéktalanul, lehetőleg az antitoxikus terápia megkezdése előtt 20 ml alvadásgátló nélküli vért, csecsemő-botulizmus gyanúja esetén székletmintát kell venni, és – előzetes telefonos értesítéssel egy időben – haladéktalanul az OKI-nak meg kell küldeni. A házilag készített gyanús élelmiszerből a járási hivatal, a közfogyasztásra szánt élelmiszerből a területileg illetékes élelmiszerlánc-felügyeleti szerv munkatársa vesz mintát. Az élelmiszerminta vizsgálatát az élelmiszerlánc-felügyeleti szerv végzi.
+Kötelező. A betegtől haladéktalanul, lehetőleg az antitoxikus terápia megkezdése előtt 20 ml alvadásgátló nélküli vért, csecsemő-botulizmus gyanúja esetén székletmintát kell venni, és – előzetes telefonos értesítéssel egy időben – haladéktalanul az NNK-nak meg kell küldeni. A házilag készített gyanús élelmiszerből a járási hivatal, a közfogyasztásra szánt élelmiszerből a területileg illetékes élelmiszerlánc-felügyeleti szerv munkatársa vesz mintát. Az élelmiszerminta vizsgálatát az élelmiszerlánc-felügyeleti szerv végzi.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -584,7 +584,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. Beküldendő alvadásgátló nélkül vett vérminta a járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumba immunszerológiai vizsgálatra. Akut szakban ajánlott nyirokcsomó, csontvelőminta beküldése tenyésztés és PCR-vizsgálat céljából az OKI referencia laboratóriumába.
+Kötelező. Beküldendő alvadásgátló nélkül vett vérminta a járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumba immunszerológiai vizsgálatra. Akut szakban ajánlott nyirokcsomó, csontvelőminta beküldése tenyésztés és PCR-vizsgálat céljából az NNK referencia laboratóriumába.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -1022,7 +1022,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A betegség gyanúja esetén beküldendő három hét különbséggel vett savópár az OKI referencia laboratóriumába.
+Kötelező. A betegség gyanúja esetén beküldendő három hét különbséggel vett savópár az NNK referencia laboratóriumába.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -1136,7 +1136,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A valószínűsített betegtől származó székletmintát az OKI laboratóriumába kell küldeni. Ha V. cholerae gyanús baktériumtörzs kerül izolálásra a klinikai mikrobiológiai laboratóriumban vagy járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumban, a törzset járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat céljából megerősítő vizsgálatra – telefonon történő bejelentést követően – haladéktalanul az OKI referencia laboratóriumába kell beküldeni.
+Kötelező. A valószínűsített betegtől származó székletmintát az NNK laboratóriumába kell küldeni. Ha V. cholerae gyanús baktériumtörzs kerül izolálásra a klinikai mikrobiológiai laboratóriumban vagy járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumban, a törzset járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat céljából megerősítő vizsgálatra – telefonon történő bejelentést követően – haladéktalanul az NNK referencia laboratóriumába kell beküldeni.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -1358,7 +1358,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. Diagnosztikus, illetve felszabadító vizsgálat céljára a beteg torkából és orrából, egyéb lokalizáció esetén (vulva, sebdiphtheria) pedig ezekről a helyekről vett váladékot kell küldeni az OKI-ba bakteriológiai és toxinkimutatási vizsgálatra. A vizsgálati anyag vétele előtt nem szabad helyi kezelést (torokecsetelést, öblítést stb.) végezni.
+Kötelező. Diagnosztikus, illetve felszabadító vizsgálat céljára a beteg torkából és orrából, egyéb lokalizáció esetén (vulva, sebdiphtheria) pedig ezekről a helyekről vett váladékot kell küldeni az NNK-ba bakteriológiai és toxinkimutatási vizsgálatra. A vizsgálati anyag vétele előtt nem szabad helyi kezelést (torokecsetelést, öblítést stb.) végezni.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -1462,7 +1462,7 @@ Kötelező, a klinikai mintát a referencia laboratóriumba kell küldeni. Bekü
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező, az OKI referencia laboratóriumában történik.
+Kötelező, az NNK referencia laboratóriumában történik.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -1554,7 +1554,7 @@ Kórházban, a heveny tünetek lezajlásáig.
 
 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-A szerológiai vizsgálat kötelező. Alvadásgátló nélkül, sterilen vett vérmintát, majd 3-4 hét múlva ismételt vérmintát kell küldeni mikrobiológiai laboratóriumba, vagy – csak az OKI-ban végzett vizsgálatok (kötelező védőoltással megelőzhető betegségek, vérzéses lázak, kullancsencephalitis stb.) esetén – az OKI részére. A szerológiai vizsgálatoknak csak a savópárban észlelt titeremelkedés esetén vagy IgM osztályú ellenanyag kimutatása esetén van diagnosztikus értéke. Vírusizolálás céljára (az első napokban) a lehető legkorábbi időpontban legalább 2 egymást követő napon székletet, torokmosó folyadékot, liquort kell küldeni laboratóriumi vizsgálatra. Igen fontos a kísérőiraton a kórokozóra utaló gyanú megjelölése.
+A szerológiai vizsgálat kötelező. Alvadásgátló nélkül, sterilen vett vérmintát, majd 3-4 hét múlva ismételt vérmintát kell küldeni mikrobiológiai laboratóriumba, vagy – csak az NNK-ban végzett vizsgálatok (kötelező védőoltással megelőzhető betegségek, vérzéses lázak, kullancsencephalitis stb.) esetén – az NNK részére. A szerológiai vizsgálatoknak csak a savópárban észlelt titeremelkedés esetén vagy IgM osztályú ellenanyag kimutatása esetén van diagnosztikus értéke. Vírusizolálás céljára (az első napokban) a lehető legkorábbi időpontban legalább 2 egymást követő napon székletet, torokmosó folyadékot, liquort kell küldeni laboratóriumi vizsgálatra. Igen fontos a kísérőiraton a kórokozóra utaló gyanú megjelölése.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
@@ -1686,7 +1686,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A széklet diagnosztikus laboratóriumi vizsgálata kötelező. A mintát a járványügyi feladatok ellátására kijelölt laboratóriumba kell küldeni mikrobiológiai vizsgálatra. A kórokozó azonosítása az OKI referencia laboratóriumában történik. A diagnózis a székletből kitenyésztett törzsek toxintermelésének, illetve a toxinnak közvetlenül a székletből történő kimutatásán alapszik.
+Kötelező. A széklet diagnosztikus laboratóriumi vizsgálata kötelező. A mintát a járványügyi feladatok ellátására kijelölt laboratóriumba kell küldeni mikrobiológiai vizsgálatra. A kórokozó azonosítása az NNK referencia laboratóriumában történik. A diagnózis a székletből kitenyésztett törzsek toxintermelésének, illetve a toxinnak közvetlenül a székletből történő kimutatásán alapszik.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -1796,7 +1796,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-A széklet diagnosztikus laboratóriumi vizsgálata kötelező. A mintát a járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumba kell küldeni mikrobiológiai vizsgálatra. A kórokozó azonosítása az OKI referencia laboratóriumában történik. A diagnózis a székletből kitenyésztett törzsek toxintermelésének, illetve a toxinnak közvetlenül a székletből történő kimutatásán alapszik.
+A széklet diagnosztikus laboratóriumi vizsgálata kötelező. A mintát a járványügyi feladatok ellátására kijelölt mikrobiológiai laboratóriumba kell küldeni mikrobiológiai vizsgálatra. A kórokozó azonosítása az NNK referencia laboratóriumában történik. A diagnózis a székletből kitenyésztett törzsek toxintermelésének, illetve a toxinnak közvetlenül a székletből történő kimutatásán alapszik.
 
 2.3.3. Felszabadító vizsgalat:
 
@@ -1810,7 +1810,7 @@ Folyamatos és zárófertőtlenítés szükséges.
 
 3.1. A beteggel kontaktusba kerültek felkutatása:
 
-A beteg családi vagy intézeti környezetében élő személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett személyek közül kizárólag azoknál kell a megfigyelési idő alatt egy alkalommal székletbakteriológiai vizsgálatot végezni az OKI referencia laboratóriumában, akik a megjelölt intézményekbe járnak, illetve munkakörökben dolgoznak.
+A beteg családi vagy intézeti környezetében élő személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett személyek közül kizárólag azoknál kell a megfigyelési idő alatt egy alkalommal székletbakteriológiai vizsgálatot végezni az NNK referencia laboratóriumában, akik a megjelölt intézményekbe járnak, illetve munkakörökben dolgoznak.
 
 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
@@ -1896,7 +1896,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A széklet diagnosztikus laboratóriumi vizsgálata kötelező. A székletmintát diagnosztikus vizsgálatra a járványügyi feladat ellátására kijelölt laboratóriumba kell küldeni. A kórokozó azonosítása az OKI referencia laboratóriumában történik.
+Kötelező. A széklet diagnosztikus laboratóriumi vizsgálata kötelező. A székletmintát diagnosztikus vizsgálatra a járványügyi feladat ellátására kijelölt laboratóriumba kell küldeni. A kórokozó azonosítása az NNK referencia laboratóriumában történik.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -1910,7 +1910,7 @@ Folyamatos fertőtlenítés szükséges.
 
 3.1. A beteggel kontaktusba kerültek felkutatása:
 
-A beteg családi vagy intézeti környezetében élő személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett személyek közül kizárólag azoknál kell a megfigyelési idő alatt egy alkalommal székletbakteriológiai vizsgálatot végezni az OKI referencia laboratóriumában, akik a megjelölt intézményekbe járnak, illetve munkakörökben dolgoznak.
+A beteg családi vagy intézeti környezetében élő személyeket 7 napi időtartamra járványügyi megfigyelés alá kell helyezni. A járványügyi megfigyelés alá helyezett személyek közül kizárólag azoknál kell a megfigyelési idő alatt egy alkalommal székletbakteriológiai vizsgálatot végezni az NNK referencia laboratóriumában, akik a megjelölt intézményekbe járnak, illetve munkakörökben dolgoznak.
 
 3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
 
@@ -2002,7 +2002,7 @@ Kötelező. A betegség korai szakában, a vizsgálat: antibiotikus kezelés meg
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A mintát a járványügyi feladatok elvégzésre kijelölt laboratóriumba kell küldeni mikrobiológiai vizsgálatra. A kórokozó azonosítása az OKI referencia laboratóriumában történik.
+Kötelező. A mintát a járványügyi feladatok elvégzésre kijelölt laboratóriumba kell küldeni mikrobiológiai vizsgálatra. A kórokozó azonosítása az NNK referencia laboratóriumában történik.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -2110,7 +2110,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A betegség korai szakában, az antibiotikus kezelés megkezdése előtt vett székletet vagy a végbélből vattapálcikával vett váladékot tovább kell küldeni diagnosztikus vizsgálatra az OKI referencia laboratóriumába.
+Kötelező. A betegség korai szakában, az antibiotikus kezelés megkezdése előtt vett székletet vagy a végbélből vattapálcikával vett váladékot tovább kell küldeni diagnosztikus vizsgálatra az NNK referencia laboratóriumába.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -2154,7 +2154,7 @@ Diffúz adheziós E. coli enteritis (DAEC)
 
 BNO10: A04.4
 
-A kórokozóra jellemző a diffúz aggregatív adhéziós képesség. A patomechanizmus multifaktoriális. Megbetegedés elsősorban gyermekkorúakat érint. A megbetegedés gyanúja esetén a mintát az OKI referencia laboratóriumába kell küldeni vizsgálatra.
+A kórokozóra jellemző a diffúz aggregatív adhéziós képesség. A patomechanizmus multifaktoriális. Megbetegedés elsősorban gyermekkorúakat érint. A megbetegedés gyanúja esetén a mintát az NNK referencia laboratóriumába kell küldeni vizsgálatra.
 
 Febris flava
 
@@ -2222,11 +2222,11 @@ A beteget szúnyogmentes körülmények között kijelölt kórházban kell elk�
 
 2.3.1. Klinikai mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező, a diagnosztikus vizsgálat az OKI referencia laboratóriumában történik.
+Kötelező, a diagnosztikus vizsgálat az NNK referencia laboratóriumában történik.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező, az OKI-val történt előzetes megbeszélés alapján.
+Kötelező, az NNK-val történt előzetes megbeszélés alapján.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -2532,7 +2532,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A mintákat előzetes megbeszélés alapján az OKI-ba kell szállítani.
+Kötelező. A mintákat előzetes megbeszélés alapján az NNK-ba kell szállítani.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -3392,7 +3392,7 @@ Kötelező. Differenciáldiagnosztikai vizsgálat kötelező (herpesvírusok stb
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai laboratóriumi vizsgálat:
 
-Kötelező. A betegség gyanúja esetén alvadásgátló nélkül, sterilen vett vérmintát, és liquort kell küldeni szerológiai vizsgálatra az OKI-ba. A vérvételt 2-3 hét múlva meg kell ismételni. Diagnosztikus értéke a savópár vizsgálata alapján megállapított titeremelkedésnek vagy a specifikus IgM, illetve IgA kimutatásának van.
+Kötelező. A betegség gyanúja esetén alvadásgátló nélkül, sterilen vett vérmintát, és liquort kell küldeni szerológiai vizsgálatra az NNK-ba. A vérvételt 2-3 hét múlva meg kell ismételni. Diagnosztikus értéke a savópár vizsgálata alapján megállapított titeremelkedésnek vagy a specifikus IgM, illetve IgA kimutatásának van.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -3498,7 +3498,7 @@ Kötelező. Klinikai mikrobiológiai diagnosztikai vizsgálat céljából szerol
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. Járványügyi érdekből végzett diagnosztikus vizsgálat céljából tenyésztésre légúti vizsgálati anyagot (például bronchus váladék, BAL, pleuropunktátum, bronchoszkópos minta, mélylégúti köpet) vagy egyéb normálisan steril helyről vett testváladékot kell beküldeni az OKI-ba.
+Kötelező. Járványügyi érdekből végzett diagnosztikus vizsgálat céljából tenyésztésre légúti vizsgálati anyagot (például bronchus váladék, BAL, pleuropunktátum, bronchoszkópos minta, mélylégúti köpet) vagy egyéb normálisan steril helyről vett testváladékot kell beküldeni az NNK-ba.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -3630,7 +3630,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. 5-10 ml alvadásgátló nélkül, sterilen vett vérmintát kell az OKI referencia laboratóriumába vagy az illetékes kormányhivatal leptospirosis vizsgálatokra kijelölt, járványügyi feladatokat ellátó laboratóriumába küldeni. A pozitív eredményt a referencia-laboratóriumban mikroszkópos lízis-agglutinációs módszerrel kell megerősíteni. A referencia-laboratóriummal történt előzetes megbeszélés alapján tenyésztésre is lehet vizeletet küldeni. A kórokozó szerotípusát rendszerint csak ismételt vizsgálattal lehet megállapítani. Immunszerológiai vizsgálatra esetleg liquor cerebrospinális is küldendő.
+Kötelező. 5-10 ml alvadásgátló nélkül, sterilen vett vérmintát kell az NNK referencia laboratóriumába vagy az illetékes kormányhivatal leptospirosis vizsgálatokra kijelölt, járványügyi feladatokat ellátó laboratóriumába küldeni. A pozitív eredményt a referencia-laboratóriumban mikroszkópos lízis-agglutinációs módszerrel kell megerősíteni. A referencia-laboratóriummal történt előzetes megbeszélés alapján tenyésztésre is lehet vizeletet küldeni. A kórokozó szerotípusát rendszerint csak ismételt vizsgálattal lehet megállapítani. Immunszerológiai vizsgálatra esetleg liquor cerebrospinális is küldendő.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -3874,7 +3874,7 @@ Erythema migrans-t kivéve kötelező. A nem bejelentendő klinikai formák (íz
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Erythema migrans esetén nem kell, korai neuroborreliosis gyanúja esetén kötelező. Szerológiai vizsgálatok előzetes megbeszélést követően az OKI-ban, illetve ezen szerológiai vizsgálatra felkészült, járványügyi feladat ellátására kijelölt laboratóriumban. Szerológiai vizsgálat csak specifikus tünetek jelentkezésekor, és megfelelő anamnézis (ismert kullancsexpozíció vagy legalábbis a páciens mozgástere alapján ennek valószínűsíthetősége) esetén indokolt. Szerológiai vizsgálatra alvadásgátló nélkül levett vért, neuroborreliosis gyanúja esetén egy napon levett vér- és liquormintát kell beküldeni a laboratóriumba.
+Erythema migrans esetén nem kell, korai neuroborreliosis gyanúja esetén kötelező. Szerológiai vizsgálatok előzetes megbeszélést követően az NNK-ban, illetve ezen szerológiai vizsgálatra felkészült, járványügyi feladat ellátására kijelölt laboratóriumban. Szerológiai vizsgálat csak specifikus tünetek jelentkezésekor, és megfelelő anamnézis (ismert kullancsexpozíció vagy legalábbis a páciens mozgástere alapján ennek valószínűsíthetősége) esetén indokolt. Szerológiai vizsgálatra alvadásgátló nélkül levett vért, neuroborreliosis gyanúja esetén egy napon levett vér- és liquormintát kell beküldeni a laboratóriumba.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -3994,7 +3994,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A Lyssa-vírus kimutatására a betegnél elvégezhető a cornea kaparék immunfluorescens vizsgálata az OKI-ban.
+Kötelező. A Lyssa-vírus kimutatására a betegnél elvégezhető a cornea kaparék immunfluorescens vizsgálata az NNK-ban.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -4062,7 +4062,7 @@ Minden olyan személy, akinél az 1. pontban említett influenzavírusokra irán
 
 Nemzeti szinten megerősített eset
 
-Minden olyan személy, akinél az 1. pontban említett influenzavírusokra irányuló vizsgálat pozitív eredményű és a vizsgálatot az OKI, mint az európai uniós hálózatba tartozó Influenza referencia laboratóriuma végezte.
+Minden olyan személy, akinél az 1. pontban említett influenzavírusokra irányuló vizsgálat pozitív eredményű és a vizsgálatot az NNK, mint az európai uniós hálózatba tartozó Influenza referencia laboratóriuma végezte.
 
 Az Egészségügyi Világszervezet által megerősített eset
 
@@ -4116,7 +4116,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A laboratórium értesítését követően légúti, illetve torokváladék és vérminta, majd a betegség kezdetétől számított 10-14 nap múlva újabb vérminta küldendő szerológiai vizsgálatra az OKI-ba.
+Kötelező. A laboratórium értesítését követően légúti, illetve torokváladék és vérminta, majd a betegség kezdetétől számított 10-14 nap múlva újabb vérminta küldendő szerológiai vizsgálatra az NNK-ba.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -4210,7 +4210,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A betegség gyanúja esetén vizsgálat céljára vért, vastagcsepp és 2 kihúzott készítmény formájában, továbbá alvadásgátlóval (EDTA) levett vért kell az OKI-ba vagy a vizsgálat elvégzésére felkészült járványügyi feladatok ellátására kijelölt laboratórium parazitológiai osztályára küldeni.
+Kötelező. A betegség gyanúja esetén vizsgálat céljára vért, vastagcsepp és 2 kihúzott készítmény formájában, továbbá alvadásgátlóval (EDTA) levett vért kell az NNK-ba vagy a vizsgálat elvégzésére felkészült járványügyi feladatok ellátására kijelölt laboratórium parazitológiai osztályára küldeni.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -4308,7 +4308,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. Haladéktalanul beküldendő váladék (genny, vér, hemokultúra, légúti váladék, BAL) egyidejű telefon vagy fax értesítés mellett az OKI referencia laboratóriumába.
+Kötelező. Haladéktalanul beküldendő váladék (genny, vér, hemokultúra, légúti váladék, BAL) egyidejű telefon vagy fax értesítés mellett az NNK referencia laboratóriumába.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -4626,7 +4626,7 @@ Kötelező. A liquor- és vérmintából minden esetben mikroszkópos, tenyészt
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. Járványügyi érdekből végzett diagnosztikus vizsgálat céljából sikertelen tenyésztés esetében vér és liquor-mintát kell beküldeni az OKI-ba a kórokozó direkt kimutatása céljából molekuláris vizsgálattal (PCR), vagy más ilyen vizsgálatot végző járványügyi feladatokat ellátó vizsgáló laboratóriumba.
+Kötelező. Járványügyi érdekből végzett diagnosztikus vizsgálat céljából sikertelen tenyésztés esetében vér és liquor-mintát kell beküldeni az NNK-ba a kórokozó direkt kimutatása céljából molekuláris vizsgálattal (PCR), vagy más ilyen vizsgálatot végző járványügyi feladatokat ellátó vizsgáló laboratóriumba.
 
 Referencia laboratóriumba küldendő megerősítés céljából normálisan steril helyről (pl. liquorból vagy hemokultúrából) kitenyészett N.meningitidis törzs, vagy nem tenyészthető minta esetén maga a klinikai minta.
 
@@ -4734,7 +4734,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A betegség gyanúja esetén a betegtől vírusszerológiai vizsgálat céljára alvadásgátló nélkül, sterilen vett két vérmintát kell az OKI-ba küldeni a tünetek észlelésekor a betegség korai szakaszában és attól számított 14 nap elteltével. A tünetek kezdetének észlelésekor, vagy attól számított 1 héten belül víruskimutatás céljából Vírus Transzport Mediumban (VTM) garattörlet és vizeletminta is küldendő az OKI-ba. Diagnosztikus értéke a savópár vizsgálat alapján megállapított morbilli specifikus IgG osztályba tartozó ellenanyag legalább négyszeres titeremelkedésének, vagy a morbilli specifikus IgM osztályú ellenanyag vagy a vírusnukleinsav jelenlétének van.
+Kötelező. A betegség gyanúja esetén a betegtől vírusszerológiai vizsgálat céljára alvadásgátló nélkül, sterilen vett két vérmintát kell az NNK-ba küldeni a tünetek észlelésekor a betegség korai szakaszában és attól számított 14 nap elteltével. A tünetek kezdetének észlelésekor, vagy attól számított 1 héten belül víruskimutatás céljából Vírus Transzport Mediumban (VTM) garattörlet és vizeletminta is küldendő az NNK-ba. Diagnosztikus értéke a savópár vizsgálat alapján megállapított morbilli specifikus IgG osztályba tartozó ellenanyag legalább négyszeres titeremelkedésének, vagy a morbilli specifikus IgM osztályú ellenanyag vagy a vírusnukleinsav jelenlétének van.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -4854,7 +4854,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. Vér, liquor küldendő be az OKI működő referencia laboratóriumába.
+Kötelező. Vér, liquor küldendő be az NNK működő referencia laboratóriumába.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -4970,7 +4970,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. Beküldendő alvadásgátló nélkül vett vér a betegség első 10 napján, valamint 21-25. napja között az OKI referencia laboratóriumába. A vérmintával együtt beküldött légúti váladék (köpet, tracheaváladék, mély légúti minta stb.) PCR-vizsgálata a betegség korai, szeronegatív szakában diagnosztikus értékű lehet. Az erőteljes antibiotikum kezelés késleltetheti az ellenanyagválasz kialakulását, ezért ha a második vérminta eredménye is negatív, újabb minták küldendők be 2 hetes időközzel a betegség 6. hetéig.
+Kötelező. Beküldendő alvadásgátló nélkül vett vér a betegség első 10 napján, valamint 21-25. napja között az NNK referencia laboratóriumába. A vérmintával együtt beküldött légúti váladék (köpet, tracheaváladék, mély légúti minta stb.) PCR-vizsgálata a betegség korai, szeronegatív szakában diagnosztikus értékű lehet. Az erőteljes antibiotikum kezelés késleltetheti az ellenanyagválasz kialakulását, ezért ha a második vérminta eredménye is negatív, újabb minták küldendők be 2 hetes időközzel a betegség 6. hetéig.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -5082,7 +5082,7 @@ Kötelező. Diagnosztikus célra járványügyi feladat ellátásra kijelölt va
 
 2.3.3. Felszabadító vizsgálat:
 
-Felszabadító és ellenőrző vizsgálat céljára székletet és vizeletet kell küldeni az OKI referencia laboratóriumába. A paratífuszból gyógyult és az elkülönítés alól felszabadított személynél az utolsó pozitív lelettől számított 1 éven át havonta egy alkalommal széklet- és vizeletvizsgálatot kell végezni.
+Felszabadító és ellenőrző vizsgálat céljára székletet és vizeletet kell küldeni az NNK referencia laboratóriumába. A paratífuszból gyógyult és az elkülönítés alól felszabadított személynél az utolsó pozitív lelettől számított 1 éven át havonta egy alkalommal széklet- és vizeletvizsgálatot kell végezni.
 
 2.4. Fertőtlenítés:
 
@@ -5202,7 +5202,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A betegség gyanúja esetén a betegtől vírusszerológiai vizsgálat céljára alvadásgátló nélkül vett vért kell az OKI-ba küldeni. Az első alvadásgátló nélkül, sterilen vett vérmintát a betegség korai szakában, a másodikat két hét múlva kell beküldeni. A tünetek kezdetének észlelésekor vagy attól számított 1 héten belül víruskimutatás céljából Vírus Transzport Mediumban (VTM) garattörlet és vizeletminta is küldendő az OKI-ba. Diagnosztikus értéke a savópár vizsgálat alapján megállapított mumpsz specifikus IgG osztályú ellenanyag legalább négyszeres titeremelkedésnek vagy a mumpsz specifikus IgM osztályú ellenanyagok vagy a vírusnukleinsav jelenlétének van.
+Kötelező. A betegség gyanúja esetén a betegtől vírusszerológiai vizsgálat céljára alvadásgátló nélkül vett vért kell az NNK-ba küldeni. Az első alvadásgátló nélkül, sterilen vett vérmintát a betegség korai szakában, a másodikat két hét múlva kell beküldeni. A tünetek kezdetének észlelésekor vagy attól számított 1 héten belül víruskimutatás céljából Vírus Transzport Mediumban (VTM) garattörlet és vizeletminta is küldendő az NNK-ba. Diagnosztikus értéke a savópár vizsgálat alapján megállapított mumpsz specifikus IgG osztályú ellenanyag legalább négyszeres titeremelkedésnek vagy a mumpsz specifikus IgM osztályú ellenanyagok vagy a vírusnukleinsav jelenlétének van.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -5316,7 +5316,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. Egy év alatti betegnél pertussis gyanúja esetén minden esetben orrgarat váladék vizsgálata javasolt, amelyet az antibiotikumos kezelés megkezdése előtt kell levenni. A betegség gyanúja esetén a parapertussistól és egyéb kórokozók által okozott pertussis syndromától való elkülönítés céljából savópár küldendő az OKI-ba. Az első – alvadásgátló nélkül, sterilen vett – vérmintát a gyanú felvetésekor az antibiotikus kezelés megkezdése előtt, a másodikat 4-5 héttel később kell beküldeni. Oltott személy esetén – ha az utolsó védőoltás óta két évnél kevesebb idő telt el – a betegtől a betegség kezdetétől számított két héten belül vett orrgarat váladék küldendő be vizsgálatra.
+Kötelező. Egy év alatti betegnél pertussis gyanúja esetén minden esetben orrgarat váladék vizsgálata javasolt, amelyet az antibiotikumos kezelés megkezdése előtt kell levenni. A betegség gyanúja esetén a parapertussistól és egyéb kórokozók által okozott pertussis syndromától való elkülönítés céljából savópár küldendő az NNK-ba. Az első – alvadásgátló nélkül, sterilen vett – vérmintát a gyanú felvetésekor az antibiotikus kezelés megkezdése előtt, a másodikat 4-5 héttel később kell beküldeni. Oltott személy esetén – ha az utolsó védőoltás óta két évnél kevesebb idő telt el – a betegtől a betegség kezdetétől számított két héten belül vett orrgarat váladék küldendő be vizsgálatra.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -5450,7 +5450,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A betegség gyanúja esetén a mintákat haladéktalanul, egyidejű telefon/fax értesítés mellett külön futárral kell az OKI referencia laboratóriumába szállítani.
+Kötelező. A betegség gyanúja esetén a mintákat haladéktalanul, egyidejű telefon/fax értesítés mellett külön futárral kell az NNK referencia laboratóriumába szállítani.
 
 Diagnosztikus minta
 
@@ -5570,7 +5570,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. Beküldendő a betegség korai szakában, 3 egymást követő napon vett székletminta és garatöblítő folyadék (torokmosó folyadék), 1-2 liquor minta, valamint akut és rekonvaleszcens savó (intervallum legalább 21 nap, alvadásgátló nélkül, sterilen vett vér) kizárólag az OKI-ba. Halállal végződött esetekben a lehető legrövidebb időn belül elvégzett szekció anyagából agy- és gerincvelő-mintákat kell küldeni az OKI-ba.
+Kötelező. Beküldendő a betegség korai szakában, 3 egymást követő napon vett székletminta és garatöblítő folyadék (torokmosó folyadék), 1-2 liquor minta, valamint akut és rekonvaleszcens savó (intervallum legalább 21 nap, alvadásgátló nélkül, sterilen vett vér) kizárólag az NNK-ba. Halállal végződött esetekben a lehető legrövidebb időn belül elvégzett szekció anyagából agy- és gerincvelő-mintákat kell küldeni az NNK-ba.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -5678,7 +5678,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. Beküldendő a betegség első 10 napján, valamint a 21-25. napja között alvadásgátló nélkül, sterilen vett vérminta az OKI referencia laboratóriumába. A vérmintával együtt beküldött légúti váladék (köpet, tracheaváladék, mély légúti minta, stb.) vagy egyéb klinikai minta PCR-vizsgálata a betegség korai, szeronegatív szakában diagnosztikus értékű lehet. Az erőteljes antibiotikus kezelés késleltetheti az ellenanyagválasz kialakulását, ezért ha a második vérminta vizsgálati eredménye is negatív, újabb vérminták küldendők be előzetes konzultációt követően.
+NNK referencia laboratóriumába. A vérmintával együtt beküldött légúti váladék (köpet, tracheaváladék, mély légúti minta, stb.) vagy egyéb klinikai minta PCR-vizsgálata a betegség korai, szeronegatív szakában diagnosztikus értékű lehet. Az erőteljes antibiotikus kezelés késleltetheti az ellenanyagválasz kialakulását, ezért ha a második vérminta vizsgálati eredménye is negatív, újabb vérminták küldendők be előzetes konzultációt követően.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -5910,7 +5910,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A betegség gyanúja esetén a diagnózis tisztázása céljából alvadásgátló nélkül, sterilen vett két vérmintát kell küldeni az OKI-ba: az elsőt a betegség kezdetekor, a másodikat két hét múlva. Rubeola-gyanús klinikai tüneteket mutató, vagy a rubeola-fertőzésnek kitett, terhességük első három hónapjában lévő nőktől ugyancsak két vérmintát szükséges küldeni. Az első vérmintát az expozíciót követő 7 napon belül, ha pedig rubeola-gyanús tünetek jelentkeznek a terhesen, a kiütés megjelenését követő 3 napon belül kell levenni. A második vérmintát az expozíció vagy a kiütés megjelenése utáni 10-14. nap között kell levenni. A tünetek kezdetének észlelésekor vagy attól számított 1 héten belül víruskimutatás céljából Vírus Transzport Mediumban (VTM) garattörlet és vizeletminta is küldendő az OKI-ba. Diagnosztikus értéke a HAG vagy IgG ellenanyagszint legalább négyszeres titeremelkedésének, vagy a rubeola specifikus IgM osztályú ellenanyagok jelenlétének, vagy az aviditás érték szignifikáns emelkedésének, vagy a vírusnukleinsav jelenlétének van.
+Kötelező. A betegség gyanúja esetén a diagnózis tisztázása céljából alvadásgátló nélkül, sterilen vett két vérmintát kell küldeni az NNK-ba: az elsőt a betegség kezdetekor, a másodikat két hét múlva. Rubeola-gyanús klinikai tüneteket mutató, vagy a rubeola-fertőzésnek kitett, terhességük első három hónapjában lévő nőktől ugyancsak két vérmintát szükséges küldeni. Az első vérmintát az expozíciót követő 7 napon belül, ha pedig rubeola-gyanús tünetek jelentkeznek a terhesen, a kiütés megjelenését követő 3 napon belül kell levenni. A második vérmintát az expozíció vagy a kiütés megjelenése utáni 10-14. nap között kell levenni. A tünetek kezdetének észlelésekor vagy attól számított 1 héten belül víruskimutatás céljából Vírus Transzport Mediumban (VTM) garattörlet és vizeletminta is küldendő az NNK-ba. Diagnosztikus értéke a HAG vagy IgG ellenanyagszint legalább négyszeres titeremelkedésének, vagy a rubeola specifikus IgM osztályú ellenanyagok jelenlétének, vagy az aviditás érték szignifikáns emelkedésének, vagy a vírusnukleinsav jelenlétének van.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -6058,7 +6058,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. A betegség gyanúja esetén a diagnózis tisztázása céljából alvadásgátló nélkül, sterilen vett két vérmintát kell küldeni az OKI-ba.
+Kötelező. A betegség gyanúja esetén a diagnózis tisztázása céljából alvadásgátló nélkül, sterilen vett két vérmintát kell küldeni az NNK-ba.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -6566,7 +6566,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Kötelező. Torokváladék, légúti váladék mintát, bronchoalveoláris mosófolyadékot, 5 ml natív és 5 ml alvadásában heparinnal gátolt vérmintát, haemokultúrát, vizeletmintát, illetve post mortem vett szövetmintákat (lehetőség szerint fagyasztott metszeteket) kell az OKI illetékes laboratóriumának előzetes tájékoztatását követően, a biztonságos mintacsomagolás és szállítás szabályai szerint biztonsági szállítódobozban, futárral eljuttatni.
+Kötelező. Torokváladék, légúti váladék mintát, bronchoalveoláris mosófolyadékot, 5 ml natív és 5 ml alvadásában heparinnal gátolt vérmintát, haemokultúrát, vizeletmintát, illetve post mortem vett szövetmintákat (lehetőség szerint fagyasztott metszeteket) kell az NNK illetékes laboratóriumának előzetes tájékoztatását követően, a biztonságos mintacsomagolás és szállítás szabályai szerint biztonsági szállítódobozban, futárral eljuttatni.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -6660,7 +6660,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-Az OKI referencia laboratóriumába küldendő megerősítés és további tipizálás céljából a normálisan steril helyről (pl. liquorból vagy hemokultúrából) kitenyészett Streptococcus pneumoniae törzs.
+Az NNK referencia laboratóriumába küldendő megerősítés és további tipizálás céljából a normálisan steril helyről (pl. liquorból vagy hemokultúrából) kitenyészett Streptococcus pneumoniae törzs.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -6762,4 +6762,6 @@ Folyamatos fertőtlenítés szükséges.
 
 3. Teendők a beteg környezetében
 
-[^191]: Az 1. számú melléklet az 54/2015. (XI. 24.) EMMI rendelet 9. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 19–71. pontja, a 28/2017. (X. 25.) EMMI rendelet 6. §-a szerint módosított szöveg.
+3.1. A beteggel kontaktusba került személyek felkutatása:
+
+[^193]: Az 1. számú melléklet az 54/2015. (XI. 24.) EMMI rendelet 9. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 19–71. pontja, a 28/2017. (X. 25.) EMMI rendelet 6. §-a, a 38/2018. (X. 31.) EMMI rendelet 2. § (1) bekezdés 3–51. pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 2. § (1) bekezdés 34. pontjával elrendelt módosítás, amely szerint az 1. számú melléklet A) rész „Pertussis” megjelölésű rész 3.4. pontjában az „OKI” szövegrész helyébe az „NNK” szöveg lép, nem vezethető át.]
