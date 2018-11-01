@@ -34,7 +34,7 @@
 
 | 16. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó egészségügyi állás- és létszámkimutatásra vonatkozó adatok | Központi Statisztikai Hivatal | évente |
 
-| 17. | Az Eütv. 114. § (2) bekezdés m) pontja szerinti adatok | egészségügyért felelős miniszter által vezetett minisztérium | havonta |
+| 17. | Az Eütv. 114. § (2) bekezdés m) pontja szerinti adatok | Nemzeti Népegészségügyi Központ | havonta |
 
 | 18. | Az Eütv. 114. § (2) bekezdés n) pontja szerinti adatok | Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) | félévente |
 
