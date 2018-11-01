@@ -132,11 +132,25 @@ B) Központi hivatalok
 
 13.2. a gazdasági vezető
 
-C)[^15] Központi államigazgatási szervnek nem minősülő költségvetési szerv
+14.[^15] A Nemzeti Népegészségügyi Központnál
 
-1.[^16]
+14.1. a közbeszerzési eljárásban részt vevő munkakör
 
-2.[^17]
+14.2. a gyorsreagálási, a humánpolitikai, az igazgatási és a járványügyi feladatokat ellátó szervezeti egység vezetője
+
+14.3. a gazdasági vezető
+
+14.4. a biztonságszervezési, védelmi feladatokat ellátó, valamint az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+
+14.5. Nemzeti Biztonsági Laboratórium vezetője és helyettese
+
+14.6. az Országos Sugáregészségügyi Készenléti Szolgálattal kapcsolatos munkakör
+
+C)[^16] Központi államigazgatási szervnek nem minősülő költségvetési szerv
+
+1.[^17]
+
+2.[^18]
 
 2.1. a főigazgató és helyettese
 
@@ -150,19 +164,9 @@ C)[^15] Központi államigazgatási szervnek nem minősülő költségvetési sz
 
 2.6. a vezető projektmenedzser munkakör
 
-3–4.[^18]
+3–4.[^19]
 
-5.[^19] Országos Közegészségügyi Intézetnél
-
-5.1. a főigazgató és helyettese
-
-5.2. az igazgató
-
-5.3. a közbeszerzési eljárásban résztvevő munkakör
-
-5.4. a biztonságszervezési, védelmi feladatokat ellátó munkakör
-
-5.5. az Országos Sugáregészségügyi Készenléti Szolgálattal kapcsolatos munkakör
+5.[^20]
 
 6. Az Országos Mentőszolgálatnál
 
@@ -208,8 +212,9 @@ C)[^15] Központi államigazgatási szervnek nem minősülő költségvetési sz
 [^12]: Az 1. melléklet B) alcím 11. pontja a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^13]: Az 1. melléklet B) alcím 12. pontját a 4/2016. (II. 22.) EMMI rendelet 1. §-a iktatta be.
 [^14]: Az 1. melléklet B) alcím 13. pontját a 46/2016. (XII. 28.) EMMI rendelet 6. §-a iktatta be.
-[^15]: Az 1. melléklet C) alcíme a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^16]: Az 1. melléklet C) alcím 1. pontját az 54/2016. (XII. 30.) EMMI rendelet 98. § (2) bekezdés c) pontja hatályon kívül helyezte.
-[^17]: Az 1. melléklet C) rész 2. pontját a 45/2016. (XII. 28.) EMMI rendelet 11. §-a hatályon kívül helyezte.
-[^18]: Az 1. melléklet C) alcím 3–4. pontját az 54/2016. (XII. 30.) EMMI rendelet 98. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^19]: Az 1. melléklet C) rész 5. pont nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 98. § (1) bekezdés b) pontjával megállapított szöveg.
+[^15]: Az 1. melléklet B) rész 14. pontját a 38/2018. (X. 31.) EMMI rendelet 22. §-a iktatta be.
+[^16]: Az 1. melléklet C) alcíme a 4/2016. (II. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^17]: Az 1. melléklet C) alcím 1. pontját az 54/2016. (XII. 30.) EMMI rendelet 98. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^18]: Az 1. melléklet C) rész 2. pontját a 45/2016. (XII. 28.) EMMI rendelet 11. §-a hatályon kívül helyezte.
+[^19]: Az 1. melléklet C) alcím 3–4. pontját az 54/2016. (XII. 30.) EMMI rendelet 98. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^20]: Az 1. melléklet C) rész 5. pontját a 38/2018. (X. 31.) EMMI rendelet 22. §-a hatályon kívül helyezte.
