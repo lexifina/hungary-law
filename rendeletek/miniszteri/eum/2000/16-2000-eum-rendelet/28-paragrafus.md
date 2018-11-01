@@ -10,10 +10,10 @@
 
 (3)[^24] A sugársérült vagy az arra gyanús személy szakellátása a 12. számú mellékletben meghatározott egészségügyi intézményekben (a továbbiakban: kijelölt egészségügyi intézmény) történik, az országos tisztifőorvos szakmai közreműködésével. A kijelölt egészségügyi intézmény a kombinált sugársérült ellátására is alkalmas munkacsoportot hoz létre.
 
-(4)[^25] A kijelölt egészségügyi intézmény vezetője biztosítja a (3) bekezdés szerinti munkacsoportban résztvevő orvosok ötévenkénti sugárorvostani továbbképzését. A továbbképző tanfolyamot az Országos Közegészségügyi Intézet tartja, az országos tisztifőorvos által jóváhagyott képzési tematika alapján.
+(4)[^25] A kijelölt egészségügyi intézmény vezetője biztosítja a (3) bekezdés szerinti munkacsoportban résztvevő orvosok ötévenkénti sugárorvostani továbbképzését. A továbbképző tanfolyamot a Nemzeti Népegészségügyi Központ tartja, az országos tisztifőorvos által jóváhagyott képzési tematika alapján.
 
 [^21]: A 27. § az 54/2016. (XII. 30.) EMMI rendelet 16. § c) pontja szerint módosított szöveg.
 [^22]: A 28. § a 64/2005. (XII. 22.) EüM rendelet 3. §-ával megállapított szöveg.
 [^23]: A 28. § (2) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 16. § c) pontja szerint módosított szöveg.
 [^24]: A 28. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 16. § c) pontja szerint módosított szöveg.
-[^25]: A 28. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 27. § d) pontja, az 54/2016. (XII. 30.) EMMI rendelet 16. § d) pontja szerint módosított szöveg.
+[^25]: A 28. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 27. § d) pontja, az 54/2016. (XII. 30.) EMMI rendelet 16. § d) pontja, a 38/2018. (X. 31.) EMMI rendelet 5. §-a szerint módosított szöveg.
