@@ -1,1 +1,1 @@
-24. § A XII. Agrárminisztérium fejezet, 20. cím, 5. alcím, 8. Nemzeti agrártámogatások jogcímcsoport kiadási előirányzatáról kell teljesíteni a folyó költségként elszámolható, megszűnő agrár- és vidékfejlesztési támogatások korábbi években vállalt és 2019. évet terhelő áthúzódó fizetési kötelezettségeit. A XII. Agrárminisztérium fejezet, 20. cím, 5. alcím, 8. Nemzeti agrártámogatások jogcímcsoport kiadási előirányzatáról kell teljesíteni a kedvezőtlen adottságú térségekben gazdálkodók adósságrendezési programjának 2019. évet terhelő kiadásait is.
+24. §

@@ -1,1 +1,1 @@
-22. § A X. Igazságügyi Minisztérium fejezetet irányító szerv vezetője a X. Igazságügyi Minisztérium fejezet, 20. cím, 2. alcím, 29. A közigazgatási bírósági szervezet létrehozásának és működésének előkészítésével kapcsolatos kiadások támogatása jogcímcsoport terhére a XIV. Belügyminisztérium, valamint a XV. Pénzügyminisztérium fejezet javára átcsoportosíthat. Az átcsoportosított előirányzat terhére történő visszarendezésre a XIV. Belügyminisztérium, illetőleg a XV. Pénzügyminisztérium fejezetet irányító szerv vezetője jogosult.
+22. §
