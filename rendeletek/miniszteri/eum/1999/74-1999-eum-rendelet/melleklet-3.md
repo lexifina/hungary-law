@@ -254,7 +254,7 @@
 
 ## 5. Ásványvíz vizsgálatra akkreditált laboratórium helyszíni és a törzskönyvezéshez szükséges teljes körű laboratóriumi vizsgálatának eredménye, mely a kérelem benyújtásától számított egy éven belül, a kút üzemszerű állapotában történt mintavétel alapján készült.
 
-## 6.[^81] Az OKI közegészségügyi szempontú szakvéleménye teljes körű laboratóriumi vizsgálati eredmények alapján.
+## 6.[^81] Az NNK közegészségügyi szempontú szakvéleménye teljes körű laboratóriumi vizsgálati eredmények alapján.
 
 3. számú melléklet a 74/1999. (XII. 25.) EüM rendelethez
 
@@ -269,4 +269,4 @@
 [^78]: A 2. számú melléklet III. rész 4. pontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése szerint módosított szöveg.
 [^79]: A 2. számú melléklet III. pont 4.1 alpontja a 3/2012. (I. 3.) NEFMI rendelet 8. § (3) bekezdése szerint módosított szöveg.
 [^80]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújtani):” alcím 3. pontja a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^81]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújtani):” alcím 6. pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 13. § j) pontja szerint módosított szöveg.
+[^81]: A 2. számú melléklet III. rész „Mellékletek (két példányban kell benyújtani):” alcím 6. pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 22. § (1) bekezdése iktatta be, szövege a 38/2018. (X. 31.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.

@@ -26,10 +26,10 @@ f) a gyógyhely és védőterületének határvonalát tartalmazó terület-, il
 
 g)[^8] a települési önkormányzat képviselő-testületének a gyógyhellyé nyilvánítással kapcsolatos döntéséről készült irat másolatát,
 
-h)[^9] az Országos Közegészségügyi Intézet (a továbbiakban: OKI) szakvéleményét.
+h)[^9] a Nemzeti Népegészségügyi Központ (a továbbiakban: NNK) szakvéleményét.
 
 [^5]: A 3. § (3) bekezdés a) pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 14. § (1) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (3) bekezdés b) pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 14. § (1) bekezdése iktatta be.
 [^7]: A 3. § (3) bekezdés c) pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 14. § (1) bekezdése iktatta be.
 [^8]: A 3. § (3) bekezdés g) pontja a 11/2014. (II. 24.) EMMI rendelet 23. § a) pontja szerint módosított szöveg.
-[^9]: A 3. § (3) bekezdés h) pontját a 11/2014. (II. 24.) EMMI rendelet 14. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 13. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § (3) bekezdés h) pontját a 11/2014. (II. 24.) EMMI rendelet 14. § (2) bekezdése iktatta be, szövege a 38/2018. (X. 31.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
