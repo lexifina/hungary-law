@@ -8,7 +8,7 @@ b) az adott szakma képviseletében az egészségügyi szakmai kollégium tagoza
 
 c)[^2] az Állami Egészségügyi Ellátási Központ (a továbbiakban: ÁEEK),
 
-d)[^3]
+d)[^3] az országos tisztifőorvos
 
 e)[^4] a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK),
 
@@ -31,7 +31,7 @@ h) más, az egészségügyi ágazatban működő, a témakör szerint érintett 
 (6)[^10] Az egészségügyi szakmai irányelv elkészítéséhez a miniszter – szükség esetén az ÁEKK bevonásával – módszertani támogatást biztosít, illetve koordinálja azt.
 
 [^2]: A 6. § (1) bekezdés c) pontja a 23/2015. (IV. 28.) EMMI rendelet 145. § (1) bekezdésével megállapított szöveg.
-[^3]: A 6. § (1) bekezdés d) pontját az 54/2016. (XII. 30.) EMMI rendelet 90. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^3]: A 6. § (1) bekezdés d) pontját az 54/2016. (XII. 30.) EMMI rendelet 90. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan a 38/2018. (X. 31.) EMMI rendelet 19. §-a iktatta be.
 [^4]: A 6. § (1) bekezdés e) pontja az 54/2016. (XII. 30.) EMMI rendelet 90. § (1) bekezdésével megállapított szöveg.
 [^5]: A 6. § (1) bekezdés f) pontját az 54/2016. (XII. 30.) EMMI rendelet 90. § (3) bekezdés b) pontja hatályon kívül helyezte.
 [^6]: A 6. § (2) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 90. § (2) bekezdés a) pontja szerint módosított szöveg.
