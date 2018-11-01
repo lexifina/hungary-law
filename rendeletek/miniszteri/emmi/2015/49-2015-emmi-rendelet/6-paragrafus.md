@@ -1,6 +1,6 @@
 ## 5. Monitoring
 
-6. § (1)[^2] A Legionella-fertőzési kockázatot jelentő azon létesítmények esetén, ahol az 1. melléklet 9. pontja szerinti értékelés magas kockázatot állapít meg, az országos tisztifőorvosnak az Országos Közegészségügyi Intézet bevonásával készített módszertani levelében meghatározott gyakorisággal monitoringot kell végezni.
+6. § (1)[^2] A Legionella-fertőzési kockázatot jelentő azon létesítmények esetén, ahol az 1. melléklet 9. pontja szerinti értékelés magas kockázatot állapít meg, a Nemzeti Népegészségügyi Központ által kiadott módszertani útmutatóban meghatározott gyakorisággal monitoringot kell végezni.
 
 (2) A fokozott Legionella-fertőzési kockázatot jelentő létesítményekben minden esetben kötelező monitoring vizsgálatot végezni dokumentált módon, a (3)–(5) bekezdésben foglaltak szerint.
 
@@ -12,4 +12,4 @@
 
 (6) A (3)–(5) bekezdésben foglaltak szerint elvégzett valamennyi monitoring eredményt 5 évre visszamenőleg, azonnal hozzáférhető módon meg kell őrizni a létesítményben.
 
-[^2]: A 6. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 100. § a) pontja szerint módosított szöveg.
+[^2]: A 6. § (1) bekezdése a 38/2018. (X. 31.) EMMI rendelet 23. §-ával megállapított szöveg.
