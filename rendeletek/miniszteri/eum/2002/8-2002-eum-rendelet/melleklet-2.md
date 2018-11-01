@@ -14,7 +14,7 @@ b) középszintű környezeti sugár-egészségügyi laboratóriumok: összes b�
 
 II.[^13] A lakossági sugárterhelés meghatározása
 
-Az OKI az OKSER és az ERMAH adatbázisainak felhasználásával az atomenergiáról szóló 1996. évi CXVI. törvény 20. § (1) bekezdés g) pontjában foglaltak teljesítése érdekében
+Az NNK az OKSER és az ERMAH adatbázisainak felhasználásával az atomenergiáról szóló 1996. évi CXVI. törvény 20. § (1) bekezdés g) pontjában foglaltak teljesítése érdekében
 
 a) meghatározza a lakosság természetes forrásokból származó sugárterhelésének összetevőit olyan gyakorisággal, melynek alapján a sugárterhelés esetleges időbeli változása nyomon követhető,
 
@@ -24,4 +24,4 @@ c) meghatározza az atomenergiáról szóló 1996. évi CXVI. törvény egyes re
 
 [^11]: A 2. számú melléklet a 44/2009. (XII. 18.) EüM rendelet 16. § (2) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
 [^12]: A 2. számú melléklet I. pont 2. a) alpontja a 21/2012. (IV. 4.) NEFMI rendelet 43. §-ával megállapított szöveg.
-[^13]: A 2. számú melléklet II. pontja a 23/2015. (IV. 28.) EMMI rendelet 34. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 21. § b) pontja szerint módosított szöveg.
+[^13]: A 2. számú melléklet II. pont nyitó szövegrésze a 38/2018. (X. 31.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.
