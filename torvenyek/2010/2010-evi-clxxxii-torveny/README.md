@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-182-00-00
 | 2014-12-30 | 2014. évi XCIX. törvény | 2010-182-00-00.11 |
 | 2018-05-18 | 2018. évi V. törvény | 2010-182-00-00.12 |
 | 2018-08-04 | 2018. évi XLVII. törvény | 2010-182-00-00.13 |
+| 2018-11-01 | 2010. évi XLVII. törvény | 2010-182-00-00.14 |
