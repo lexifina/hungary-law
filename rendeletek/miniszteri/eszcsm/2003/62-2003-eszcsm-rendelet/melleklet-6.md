@@ -10,6 +10,6 @@
 
 6. számú melléklet a 62/2003. (X. 27.) ESZCSM rendelethez[^25]
 
-6K86535Q.pdf
+8K30925N.pdf
 
-[^25]: A 6. számú melléklet a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése b) pontjának ba), bc) és bh) alpontja, a 10/2011. (III. 30.) NEFMI rendelet 35. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 24. § b) pontja, a 23/2015. (IV. 28.) EMMI rendelet 54. § n)–t) pontja, az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^25]: A 6. számú melléklet a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése b) pontjának ba), bc) és bh) alpontja, a 10/2011. (III. 30.) NEFMI rendelet 35. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 24. § b) pontja, a 23/2015. (IV. 28.) EMMI rendelet 54. § n)–t) pontja, a 38/2018. (X. 31.) EMMI rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.

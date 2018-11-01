@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-62-20-0
 | 2015-11-25 | 2003-62-20-0M.6 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2017-01-01 | 2003-62-20-0M.7 | 12/2008. (III. 26.) EüM rendelet |
 | 2017-04-01 | 2003-62-20-0M.8 | 54/2016. (XII. 30.) EMMI rendelet |
+| 2018-11-01 | 2003-62-20-0M.9 | 54/2016. (XII. 30.) EMMI rendelet |
