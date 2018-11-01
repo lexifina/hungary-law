@@ -10,7 +10,7 @@
 
 a) a mérgezettek orvosi elsősegélynyújtását és egészségügyi ellátását végzők részére a betegellátáshoz szükséges mértékben;
 
-b)[^17] az Országos Közegészségügyi Intézet, valamint a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal és járási (fővárosi kerületi) hivatala részére;
+b)[^17] a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal és járási (fővárosi kerületi) hivatala részére;
 
 c)[^18] a munkavédelmi hatóság részére munkabalesetek, fokozott expozíciós esetek, foglalkozási megbetegedések megelőzéséhez;
 
@@ -50,7 +50,7 @@ i)[^20] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 [^14]: A 8. § (1) bekezdése a 25/2010. (V. 12.) EüM rendelet 1. § (7) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 17. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^15]: A 8. § (2) bekezdése a 25/2010. (V. 12.) EüM rendelet 2. § m) pontja szerint módosított szöveg.
 [^16]: A 8. § (3) bekezdés nyitó szövegrésze a 25/2010. (V. 12.) EüM rendelet 2. § n) pontja szerint módosított szöveg.
-[^17]: A 8. § (3) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 29. § f) pontja, az 54/2016. (XII. 30.) EMMI rendelet 17. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^17]: A 8. § (3) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 29. § f) pontja, a 38/2018. (X. 31.) EMMI rendelet 6. §-a szerint módosított szöveg.
 [^18]: A 8. § (3) bekezdésének c) pontja a 38/2008. (X. 3.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
 [^19]: [Az 54/2016. (XII. 30.) EMMI rendelet 17. § (1) bekezdés f) pontjában foglalt módosítás, mely szerint a 8. § (3) bekezdés f) pontjában „a környezet- és természetvédelmi, illetve a vízügyi vízügyi felügyeletek” szövegrész helyébe az „a környezet- és természetvédelmi, illetve a vízügyi hatóságok” szöveg lép, nem vezethető át.]
 [^20]: A 8. § (3) bekezdésének i) pontja a 38/2008. (X. 3.) EüM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
