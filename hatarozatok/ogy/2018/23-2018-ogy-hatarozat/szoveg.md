@@ -44,8 +44,10 @@ c) a második Nemzeti Éghajlatváltozási Stratégia nyomon követésére és �
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-5. Hatályát veszti a Nemzeti Éghajlatváltozási Stratégiáról szóló 29/2008. (III. 20.) OGY határozat.
+5.[^2]
 
 Melléklet a 23/2018. (X. 31.) OGY határozathoz
 
 20184130000023_1
+
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
