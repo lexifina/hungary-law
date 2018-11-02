@@ -22,4 +22,6 @@
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-5. Hatályát veszti a Magyar Honvédség részletes bontású létszámáról szóló 35/2013. (V. 16.) OGY határozat.
+5.[^2]
+
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
