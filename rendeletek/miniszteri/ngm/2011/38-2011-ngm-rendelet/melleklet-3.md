@@ -442,6 +442,8 @@
 
 | 10. | TDCP | 13674-87-8 | 5 mg/kg (tartalomra vonatkozó határérték) |
 
+| 11. | Fenol | 108-95-2 | 5 mg/l (kioldódási határérték) polimer anyagokban az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszereknek megfelelően vagy azokkal egyenértékű műszaki megoldások szerint 10 mg/kg (tartalomra vonatkozó határérték) tartósítószerként az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszereknek megfelelően vagy azokkal egyenértékű műszaki megoldások szerint |
+
 3. melléklet a 38/2011. (X. 5.) NGM rendelethez
 
 ## EK–MEGFELELŐSÉGI NYILATKOZAT

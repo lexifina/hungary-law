@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-38-20-2
 | 2018-01-01 | 2011-38-20-2X.10 | 51/2017. (XII. 29.) NGM rendelet |
 | 2018-09-19 | 2011-38-20-2X.11 | 26/2012. (VIII. 23.) NGM rendelet |
 | 2018-10-28 | 2011-38-20-2X.12 | 14/2018. (IX. 4.) ITM rendelet |
+| 2018-11-04 | 2011-38-20-2X.13 | 14/2018. (IX. 4.) ITM rendelet |

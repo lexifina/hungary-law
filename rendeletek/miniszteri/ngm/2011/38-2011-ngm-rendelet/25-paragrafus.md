@@ -26,6 +26,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (11)[^13] Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. mellékletének a műszaki fejlődéshez való hozzáigazítás céljából az ólom tekintetében történő módosításáról szóló, 2017. március 27-i (EU) 2017/738 tanácsi irányelvnek való megfelelést szolgálja.
 
+(12)[^14] Ez a rendelet a játékokban található vegyi anyagokra vonatkozó egyedi határértékek elfogadása céljából a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. melléklete C. függelékének a fenol tekintetében történő módosításáról szóló, 2017. május 3-i (EU) 2017/774 bizottsági irányelvnek való megfelelést szolgálja.
+
 [^4]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: A 25. § a 26/2012. (VIII. 23.) NGM rendelet 2. §-ával megállapított szöveg.
 [^6]: A 25. § (4) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
@@ -36,3 +38,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^11]: A 25. § (9) bekezdését a 6/2017. (V. 5.) NGM rendelet 10. § (1) bekezdése iktatta be.
 [^12]: A 25. § (10) bekezdését a 6/2017. (V. 5.) NGM rendelet 10. § (1) bekezdése iktatta be.
 [^13]: A 25. § (11) bekezdését a 14/2018. (IX. 4.) ITM rendelet 7. § (1) bekezdése iktatta be.
+[^14]: A 25. § (12) bekezdését a 14/2018. (IX. 4.) ITM rendelet 7. § (2) bekezdése iktatta be.
