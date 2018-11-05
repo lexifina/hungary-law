@@ -1,27 +1,35 @@
 1. A Kormány a Washington D. C.-ben található Kossuth Háznak a történelem folyamán az amerikai magyarság összetartozás-tudatának megtartásában betöltött szerepére figyelemmel egyetért a Kossuth Ház 2001 Massachusetts Ave NW Washington, DC 20036 számon található ingatlan (a továbbiakban: Ingatlan) tulajdonjogának egészben a Magyar Állam javára történő megvásárlásával.
 
-2. A Kormány a fenti cél érdekében
+2.[^1] A Kormány az 1. pont szerinti cél érdekében
 
-a) felhívja a nemzeti fejlesztési minisztert, hogy a külgazdasági és külügyminiszter közreműködésével folytasson tárgyalásokat, és tegye meg a szükséges lépéseket az 1. pontban foglaltak teljesítése érdekében;
+a) felhívja a külgazdasági és külügyminisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával folytasson tárgyalásokat az Ingatlan tulajdonosi körével, és amennyiben a Magyar Állam részére elfogadható alku kidolgozása lehetséges, úgy az 1. pontban foglaltak teljesítése érdekében szükséges szerződéseket kösse meg;
 
-Felelős: nemzeti fejlesztési miniszter
+Felelős: külgazdasági és külügyminiszter
 
-külgazdasági és külügyminiszter
+nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: azonnal
 
-b) felhívja a nemzetgazdasági minisztert és a Miniszterelnökséget vezető minisztert, hogy gondoskodjon az Ingatlan megvásárlásához szükséges költségvetési forrás biztosításáról – figyelembe véve a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLII. Költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap támogatása alcímen jelentkező megtakarítást is – a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 1. Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai jogcím javára;
+b) felhívja a pénzügyminisztert, hogy gondoskodjon az Ingatlan megvásárlása érdekében a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím javára a szükséges többletforrás biztosításáról;
 
-Felelős: nemzetgazdasági miniszter
+Felelős: pénzügyminiszter
 
-Miniszterelnökséget vezető miniszter
+külgazdasági és külügyminiszter
 
-Határidő: felmerülés ütemében
+Határidő: a felmerülés ütemében
 
-c) felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján a külgazdasági és külügyminiszter bevonásával gondoskodjon az 1. pontban megjelölt, az állam tulajdonába kerülő Ingatlannak a Külgazdasági és Külügyminisztérium részére történő vagyonkezelésbe adásáról.
+c) felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján gondoskodjon az Ingatlan megvásárlása érdekében szükséges előzetes egyetértő nyilatkozat és esetleges egyéb engedélyek kiadásáról;
 
-Felelős: nemzeti fejlesztési miniszter
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+Határidő: azonnal
+
+d) felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az MNV Zrt. útján, a külgazdasági és külügyminiszter bevonásával gondoskodjon az állam tulajdonába kerülő Ingatlannak a Külgazdasági és Külügyminisztérium részére történő vagyonkezelésbe adásáról.
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 külgazdasági és külügyminiszter
 
 Határidő: az Ingatlan tulajdonjogának megszerzését követően azonnal
+
+[^1]: A 2. pont az 1555/2018. (XI. 5.) Korm. határozattal megállapított szöveg.
