@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-14-20-7
 | 2018-10-28 | 2018-14-20-7Q.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-10-29 | 2018-14-20-7Q.4 | 2010: CXXX. törvény |
 | 2018-11-04 | 2018-14-20-7Q.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2018-11-05 | 2018-14-20-7Q.6 | 2010: CXXX. törvény |
