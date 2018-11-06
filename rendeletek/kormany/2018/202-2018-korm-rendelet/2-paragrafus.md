@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és az Ugandai Köztársaság Kormánya közötti oktatási együttműködési egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
