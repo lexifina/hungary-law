@@ -1,5 +1,3 @@
-## 1. §[^1]
-
 2. § (1) A miniszter a Statútum rendelet 140. § b), k) és o) pontjában meghatározott feladatainak körében a (2) bekezdés szerinti feladatokat a Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: KGH NKft.) útján, illetve annak közreműködésével látja el a (2) bekezdésben foglaltak szerint.
 
 (2) A KGH NKft. közreműködik Magyarország gazdasági kapcsolatainak a közép-európai térségben – különösen Ausztria, Horvátország, Lengyelország, Románia, Szerbia, Szlovákia, Szlovénia, Ukrajna, Lengyelország, Csehország és Magyarország területén – történő fejlesztésében, ennek keretében a KGH NKft.
@@ -53,5 +51,3 @@
 24. a miniszter iránymutatásának megfelelően részt vesz a külgazdasági attasék ismereteinek bővítésében, kiküldetésüket megelőzően felkészítésükben, továbbá
 
 25. végrehajtja a miniszter által meghatározott egyéb feladatokat.
-
-[^1]: Az 1. § a 4. § (2) bekezdése alapján a HEPA NZrt. jogutódlással történő létrejötte cégbírósági bejegyzésének napján lép hatályba.
