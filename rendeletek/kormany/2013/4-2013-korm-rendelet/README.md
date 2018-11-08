@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-4-20-22
 | 2017-12-12 | 2013-4-20-22.21 | 380/2017. (XII. 11.) Korm. rendelet |
 | 2017-12-31 | 2013-4-20-22.22 | 380/2017. (XII. 11.) Korm. rendelet |
 | 2018-01-01 | 2013-4-20-22.23 | 380/2017. (XII. 11.) Korm. rendelet |
+| 2018-11-08 | 2013-4-20-22.24 | 284/2014. (XI. 20.) Korm. rendelet |

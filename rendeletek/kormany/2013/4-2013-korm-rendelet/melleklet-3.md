@@ -6,17 +6,17 @@
 
 | 2. | XIV. fejezet 21. cím 1. alcím | Belügyminisztérium | A cím terhére vállalt kötelezettségek adatai, a kifizetésekkel kapcsolatos követelések. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 3. | XVII. fejezet 21. cím 2. alcím | Nemzeti Fejlesztési Minisztérium | A cím terhére vállalt kötelezettségek adatai, a kifizetésekkel kapcsolatos követelések | Havonta egyszer, a Kincstár által megállapított időpontban |
+| 3. | XXII. fejezet 21. cím 3. alcím | Miniszterelnöki Kormányiroda | A cím terhére vállalt kötelezettségek adatai, a kifizetésekkel kapcsolatos követelések. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
 | 4. | XX. fejezet 21. cím 1. alcím 1. jogcímcsoport 8. jogcím, 3. jogcímcsoport 8. jogcím | fővárosi és megyei kormányhivatalok | A jogtalanul igénybe vett ellátásokkal kapcsolatos követelések és kötelezettségek adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 5. | XX. fejezet 21. cím 2. alcím | kezelő szerv | a települési nemzetiségi önkormányzatok és a területi nemzetiségi önkormányzatok részére biztosított működési és feladatalapú támogatásokkal kapcsolatos kötelezettségvállalások és követelések adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
+| 5. | XI. fejezet 32. cím 6. alcím | kezelő szerv | A települési nemzetiségi önkormányzatok és a területi nemzetiségi önkormányzatok részére biztosított működési és feladatalapú támogatásokkal kapcsolatos kötelezettségvállalások és követelések adatai. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
 | 6. | XLI. fejezet | Államadósság Kezelő Központ Zrt. | Az előzetes elemi költségvetés, elemi költségvetés elkészítéséhez szükséges adatok | Az előzetes elemi költségvetés, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
 
 | 7. | A hitelekkel, kölcsönökkel, értékpapírokkal, más finanszírozási célú műveletekkel (pl. betételhelyezéssel, visszavonással, fedezeti ügyletekkel) kapcsolatos követelések és kötelezettségek, egyéb eszközök (pl. értékpapírok, betétek, devizaszámlák) adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 8. | XVII. fejezet 21. cím 1. alcím 1. jogcímcsoport, XVIII. fejezet 8. cím, XLII. fejezet 1. cím 1–6. és 8–18. alcím, 2–3. cím, 4. cím 1. alcím 9. jogcímcsoport 2. alcím 2. jogcímcsoport, 7. cím 2. alcím, 31. cím, 32. cím 1. alcím 22. jogcímcsoport, 33. cím 14–20. alcím | Nemzeti Adó- és Vámhivatal | Az előzetes elemi költségvetés, elemi költségvetés elkészítéséhez szükséges adatok | Az előzetes elemi költségvetés, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
+| 8. | XVII. fejezet 21. cím, 1. alcím, 1. jogcímcsoport, 3., 5–8. és 10. jogcím; XVIII. fejezet 8. cím; XLII. fejezet, 1. cím, 1–6. és 8–18. alcím, 2–3. cím, 4. cím, 1. alcím, 9. jogcímcsoport, 2. alcím, 2. jogcímcsoport, 7. cím, 2. alcím, 31. cím, 32. cím, 1. alcím 12., 22., 26 és 28. jogcímcsoport, 33. cím, 10–20. alcím | Nemzeti Adó- és Vámhivatal | Az előzetes elemi költségvetés, elemi költségvetés elkészítéséhez szükséges adatok. | Az előzetes elemi költségvetés, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
 
 | 9. | Az adókkal, vámokkal, illetékekkel, termékdíjjal, kapcsolódó közhatalmi bevételekkel (pótlékok, bírságok) kapcsolatos követelések és kötelezettségek, a tartozások fejében átvett eszközökkel kapcsolatos adatok. A vállalkozások folyó támogatásához kapcsolódó követelések és kötelezettségvállalások. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
@@ -36,7 +36,7 @@
 
 | 16. | XLII. fejezet 33. cím 7. alcím | Agrár-vállalkozási Hitelgarancia Alapítvány | A biztosított támogatásokról szóló kötelezettségvállalások (támogatói okiratok, támogatási szerződések) adatai Az állam által vállalt kezesség és viszont-garancia érvényesítéséből származó követelések és kötelezettségek adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 17. | XLII. 37. cím | Nemzetgazdasági Minisztérium | Az Európai Unió költségvetéséhez való hozzájárulásokkal kapcsolatos követelések és kötelezettségek. | Havonta egyszer, a Kincstár által megállapított időpontban |
+| 17. | XLII. fejezet, 37. cím | Pénzügy- minisztérium | Az Európai Unió költségvetéséhez való hozzájárulásokkal kapcsolatos követelések és kötelezettségek. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
 | 18. | nincs címrendhez kötve | Magyar Nemzeti Bank | Auditált éves beszámoló az állami részesedés értékeléséhez | Évente egyszer, a beszámoló elfogadását követően |
 

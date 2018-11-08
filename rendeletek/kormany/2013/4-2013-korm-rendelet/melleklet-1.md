@@ -10,19 +10,19 @@
 
 3. a központi költségvetésről szóló törvény 1. melléklet I. fejezet 8–11. címébe tartozó központi kezelésű előirányzatok,
 
-4. a központi költségvetésről szóló törvény 1. melléklet XI. fejezet 32. cím 1–3. alcímébe tartozó központi kezelésű előirányzatok,
+4. a központi költségvetésről szóló törvény 1. melléklet XI. fejezet 32. cím 1–3. és 6. alcímébe tartozó központi kezelésű előirányzatok,
 
 5. a központi költségvetésről szóló törvény 1. melléklet XIV. fejezet 21. cím 1. alcímébe tartozó központi kezelésű előirányzatok,
 
-6. a központi költségvetésről szóló törvény 1. melléklet XV. fejezet 26. cím 1. alcím 2. jogcímcsoportjába tartozó központi kezelésű előirányzatok,
+6. a központi költségvetésről szóló törvény 1. melléklet XVII. fejezet 21. cím 1. alcím 1. jogcímcsoport 3., 5–8. és 10. jogcímszámába tartozó központi kezelésű előirányzatok,
 
-7. a központi költségvetésről szóló törvény 1. melléklet XVII. fejezet 21. cím 1. és 2. alcímébe tartozó központi kezelésű előirányzatok,
+7. a központi költségvetésről szóló törvény 1. melléklet XVIII. fejezet 8. cím 1. alcímébe tartozó központi kezelésű előirányzatok,
 
-8. a központi költségvetésről szóló törvény 1. melléklet XVIII. fejezet 8. cím 1. alcímébe tartozó központi kezelésű előirányzatok,
+8. a központi költségvetésről szóló törvény 1. melléklet XX. fejezet 21. cím 1. alcímébe tartozó központi kezelésű előirányzatok,
 
-9. a központi költségvetésről szóló törvény 1. melléklet XX. fejezet 21. cím 1. és 2. alcímébe tartozó központi kezelésű előirányzatok és
+9. a központi költségvetésről szóló törvény 1. melléklet XXII. fejezet 21. cím 2. és 3. alcímébe tartozó központi kezelésű előirányzatok, valamint
 
-10. a központi költségvetésről szóló törvény 1. melléklet XLIII. fejezet 1 cím, 3. alcím 1. jogcímcsoportjában és a 2. cím 2. alcím 2. jogcímcsoport 1. jogcímszámába tartozó központi kezelésű előirányzatok.
+10. a központi költségvetésről szóló törvény 1. melléklet XLIII. fejezet 1. cím, 3. alcím 1. jogcímcsoportjába és a 2. cím 2. alcím 2. jogcímcsoport 1. jogcímszámába tartozó központi kezelésű előirányzatok.
 
 [^293]: Az 58. §-t a 497/2013. (XII. 29.) Korm. rendelet 110. §-a iktatta be, hatályát vesztette a 2010: CXXX. törvény 12. § (2) bekezdése alapján.
-[^294]: Az 1. melléklet a 380/2017. (XII. 11.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^294]: Az 1. melléklet a 203/2018. (XI. 5.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
