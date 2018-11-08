@@ -1,0 +1,9 @@
+# 203/2018. (XI. 5.) Korm. rendelet
+
+az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-203-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-11-08 | 2018-203-20-22.1 | 203/2018. (XI. 5.) Korm. rendelet |
