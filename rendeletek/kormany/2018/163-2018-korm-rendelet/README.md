@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-163-20-
 | 2018-09-11 | 2018-163-20-22.1 | 163/2018. (IX. 10.) Korm. rendelet |
 | 2018-09-12 | 2018-163-20-22.2 | 2010: CXXX. törvény |
 | 2018-11-07 | 2018-163-20-22.3 | 1/2018. (XI. 15.) KKM határozat |
+| 2018-11-08 | 2018-163-20-22.4 | 1/2018. (XI. 15.) KKM határozat |
