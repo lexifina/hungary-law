@@ -286,6 +286,6 @@
 
 | 2. | PIP Közép-Duna Menti Térségfejlesztési Nonprofit Korlátolt Felelősségű Társaság | 17-09-003039 | 2022. december 31. |
 
-2. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^3]
+2. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^4]
 
-[^3]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése szerint módosított szöveg.
