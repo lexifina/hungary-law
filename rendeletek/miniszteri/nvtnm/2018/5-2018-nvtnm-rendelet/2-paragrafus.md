@@ -1,0 +1,3 @@
+## 1. § Az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló 1/2018. (VI. 25.) NVTNM rendelet (a továbbiakban: Rendelet) a következő 3/A. §-sal egészül ki:
+
+## „3/A. § A Vtv. 3. § (2a) bekezdése, valamint az Nvtv. 7/A. § (1) bekezdés e) pontja alapján a 4. melléklet szerinti gazdasági társaságok tekintetében az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyeket, illetve a tulajdonosi joggyakorlás időtartamát a 4. melléklet szerint jelölöm ki.”
