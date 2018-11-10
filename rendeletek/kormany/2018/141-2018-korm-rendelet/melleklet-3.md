@@ -28,6 +28,8 @@
 
 | 13 | Alapanyaggyártásra és gőz kapacitás előállítására irányuló beruházás Kazincbarcikán és Berentén | Kazincbarcika közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3950 helyrajzi számú ingatlan Berente közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 679, 680 és 582/1 helyrajzi számú ingatlanok | Borsod-Abaúj-Zemplén Megyei Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^13]
+| 14 | Műanyag csomagoló fólia gyártó üzem létrehozására, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás Rétságon | Rétság közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 1012/5, 1012/3 és 1014 helyrajzi számú ingatlanok | Nógrád Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^13]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^14]
+
+[^14]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
