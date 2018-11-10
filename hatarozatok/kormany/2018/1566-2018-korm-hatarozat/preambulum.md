@@ -1,0 +1,1 @@
+A Kormány a Debreceni Egyetem vagyonkezelésében lévő, a Debrecen megyei jogú város külterületén található földrészletek beruházási célterületté nyilvánításáról szóló 1147/2018. (III. 26.) Korm. határozatban szereplő állami ingatlanok Debrecen Megyei Jogú Város Önkormányzata részére történő értékesítése érdekében
