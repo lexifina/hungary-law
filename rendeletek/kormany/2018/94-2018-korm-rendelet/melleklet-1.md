@@ -18,7 +18,7 @@ B) Miniszterelnök általános helyettese
 
 | 1 | A központi államigazgatási szerv neve | A miniszter hatásköre |
 
-| 2 | Magyar Nyelvstratégiai Intézet | irányítás |
+| 2 |  |  |
 
 | 3 | Nemzetstratégiai Kutatóintézet | irányítás |
 
@@ -112,6 +112,8 @@ H) Emberi erőforrások minisztere
 
 | 9 | Nemzeti Népegészségügyi Központ | irányítás |
 
+| 10 | Magyar Nyelvstratégiai Intézet | irányítás |
+
 I) Honvédelmi miniszter
 
 |  | A | B |
@@ -156,4 +158,4 @@ L) Nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 | 2 | Szerencsejáték Felügyelet | irányítás |
 
-[^10]: Az 1. melléklet a 136/2018. (VII. 25.) Korm. rendelet 1. § e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 43. §-a szerint módosított szöveg.
+[^10]: Az 1. melléklet a 136/2018. (VII. 25.) Korm. rendelet 1. § e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 43. §-a, a 206/2018. (XI. 10.) Korm. rendelet 8. §-a és 9. § a) pontja szerint módosított szöveg.
