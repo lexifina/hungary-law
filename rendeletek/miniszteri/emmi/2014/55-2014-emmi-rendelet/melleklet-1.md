@@ -304,9 +304,31 @@ tartalmazhat.
 
 | 74. | CUMYL-PeGaClone | 2-(1-methyl-1-phenyl-ethyl)-5-pentyl-pyrido[4,3-b]indol-1-one (IUPAC), 5-pentyl-2-(2-phenylpropan-2-yl)-2,5-dihydro-1H-pyrido[4,3-b]indol-1-one, 2-cumyl-5-pentyl-gamma-carbolin-1-one |
 
+| 75. | 5-fluoropentyl-3-pyridinoylindole | (1-(5-fluoropentyl)-1H-indol-3-yl)(pyridin-3-yl)methanone |
+
+| 76. | Phenibut | 4-amino-3-phenylbutanoic acid |
+
+| 77. | Mephtetramine, MTA, MTTA | 2-[(methylamino)methyl]- 3,4-dihydronaphthalen-1(2H)-one |
+
+| 78. | 2-fluorodeschloroketamine, 2-Fl-2’-Oxo-PCM, fluoroketamine, 2-FDCK, 2F-DK, 2-FDK, 2-FK | 2-(2-fluorophenyl)-2-(methylamino)cyclohexanone |
+
+| 79. | Dichloropane, RTI-111; RTI-4229-111; O-401 | methyl 3-(3,4-dichlorophenyl)-8-methyl-8- azabicyclo[3.2.1]octane-2-carboxylate |
+
+| 80. | AMAPN | 2-(methylamino)-1-(naphthalen-1-yl)propan-1-one |
+
+| 81. | 5Cl-bk-MPA, 5Cl-bk-methylthienylpropamine; 5Cl-bk-methiopropamine | 1-(5-chlorothiophen-2-yl)-2-(methylamino)propan-1-one |
+
+| 82. | 5F-Cumyl-PeGaClone, 5F-SGT-151 | 5-(5-fluoropentyl)-2-(2-phenylpropan-2-yl)-2,5-dihydro- 1H-pyrido[4,3-b]indol-1-one 2-cumyl-5-(5-fluoropentyl)-gamma-carbolin-1-one |
+
+| 83. | ALD-52, 1-acetyl-LSD | (6aR,9R)-4-acetyl-N,N-diethyl-7-methyl-6,6a,8,9- tetrahydroindolo[4,3-fg]quinoline-9-carboxamide |
+
+| 84. | ETH-LAD, 6-ethyl-6-nor-lysergic acid diethylamide | (6aR,9R)-N,N-diethyl-7-ethyl-4,6,6a,7,8,9-hexahydroindolo- [4,3-fg]quinoline-9-carboxamide |
+
+| 85. | diphenyl-PBP | 1-(1,3-diphenylpropan-2-yl)pyrrolidine |
+
 5.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek;
 
 5.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve az 5.2. alpontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
 [^1]: A 3. § a 6/2017. (V. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a, a 21/2017. (IX. 25.) EMMI rendelet 1. §-a, a 16/2018. (VII. 3.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a, a 21/2017. (IX. 25.) EMMI rendelet 1. §-a, a 16/2018. (VII. 3.) EMMI rendelet 1. §-a, a 39/2018. (XI. 8.) EMMI rendelet 1. §-a szerint módosított szöveg.
