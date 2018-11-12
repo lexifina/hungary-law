@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1563-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-11-11 | 2018-1563-30-22.1 | 1563/2018. (XI. 10.) Korm. határozat |
+| 2018-11-12 | 2018-1563-30-22.2 | 2010: CXXX. törvény |
