@@ -1,1 +1,3 @@
-## 7. § A Magyar Nyelvstratégiai Intézet létrehozásáról szóló 55/2014. (III. 4.) Korm. rendelet 1. §-ában a „kormányzati társadalmi kapcsolatok összehangolásáért” szövegrész helyébe a „kultúráért” szöveg lép.
+## 7. §[^29]
+
+[^29]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
