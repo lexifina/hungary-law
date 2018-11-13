@@ -8,6 +8,6 @@
 
 (5) Az európai uniós forrásból biztosított költségvetési támogatások esetén a közreműködő szervezet alkalmazásában álló személy is megbízható az érvényesítési feladatok ellátására. A megbízást írásba kell foglalni.
 
-(6)[^221] Ha az utalványozás elrendelésére elektronikus dokumentumban kerül sor, az írásos érvényesítés az utalványrendeletnek az érvényesítő legalább fokozott biztonságú elektronikus aláírásával történő ellátásával is igazolható. A (4) és (5) bekezdés szerinti írásos kijelölés, megbízás az arra jogosult legalább fokozott biztonságú elektronikus aláírásával ellátott elektronikus dokumentumban is történhet.
+(6)[^222] Ha az utalványozás elrendelésére elektronikus dokumentumban kerül sor, az írásos érvényesítés az utalványrendeletnek az érvényesítő legalább fokozott biztonságú elektronikus aláírásával történő ellátásával is igazolható. A (4) és (5) bekezdés szerinti írásos kijelölés, megbízás az arra jogosult legalább fokozott biztonságú elektronikus aláírásával ellátott elektronikus dokumentumban is történhet.
 
-[^221]: Az Ávr. 58. § (6) bekezdését a 499/2016. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
+[^222]: Az Ávr. 58. § (6) bekezdését a 499/2016. (XII. 28.) Korm. rendelet 8. §-a iktatta be.

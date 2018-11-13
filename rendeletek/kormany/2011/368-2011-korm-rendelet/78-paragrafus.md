@@ -1,3 +1,3 @@
-78. §[^340]
+78. §[^341]
 
-[^340]: Az Ávr. 78. §-át és a megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 25. § (2) bekezdés 5. pontja hatályon kívül helyezte.
+[^341]: Az Ávr. 78. §-át és a megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 25. § (2) bekezdés 5. pontja hatályon kívül helyezte.
