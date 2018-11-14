@@ -1,8 +1,0 @@
-## 16. § E rendelet 11. és 12. §-a – a tőkepiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 29/2017. (XI. 22.) MNB rendelet 9. és 10. §-ával együtt – az intézmények 575/2013/EU európai parlamenti és tanácsi rendelet szerinti felügyeleti adatszolgáltatása tekintetében végrehajtás-technikai standardok megállapításáról szóló 2014. április 16-i 680/2014/EU bizottsági végrehajtási rendelet 17. cikk (1) bekezdése végrehajtásához szükséges rendelkezéseket állapít meg.
-
-17. § (1)[^3]
-
-(2)[^4]
-
-[^3]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 17. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
