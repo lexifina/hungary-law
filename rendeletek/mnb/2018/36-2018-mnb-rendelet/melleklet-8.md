@@ -46,6 +46,6 @@
 
 ## IV.
 
-8. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^11]
+8. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^12]
 
-[^11]: A 8. melléklet a 15. § (2) bekezdés alapján 2019. január 1-jén lép hatályba.
+[^12]: A 8. melléklet a 15. § (2) bekezdés alapján 2019. január 1-jén lép hatályba.

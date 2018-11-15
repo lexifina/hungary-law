@@ -164,6 +164,6 @@
 
 ## A táblában annyi sort kell szerepeltetni, amennyi különböző fizetési sávban van egymillió euro vagy azt meghaladó összegű javadalmazásban részesülő, a kockázati profilra lényeges hatást gyakorló személy.
 
-14. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^15]
+14. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^16]
 
-[^15]: A 14. melléklet a 15. § (2) bekezdés alapján 2019. január 1-jén lép hatályba.
+[^16]: A 14. melléklet a 15. § (2) bekezdés alapján 2019. január 1-jén lép hatályba.

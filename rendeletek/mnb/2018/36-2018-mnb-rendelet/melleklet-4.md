@@ -270,6 +270,6 @@
 
 ## A táblákat a KAP rendszerben 2018. december 31-ei vonatkozási időpontra kell feltölteni.
 
-4. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^7]
+4. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^8]
 
-[^7]: A 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–7. és 12–37. sora, az ott meghatározott felügyeleti jelentések táblái a 15. § (2) bekezdés alapján 2019. január 1-jén lép hatályba.
+[^8]: A 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–7. és 12–37. sora, az ott meghatározott felügyeleti jelentések táblái a 15. § (2) bekezdés alapján 2019. január 1-jén lép hatályba.
