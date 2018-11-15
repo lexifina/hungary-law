@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1154-30
 | --- | --- | --- |
 | 2018-03-27 | 2018-1154-30-22.1 | 1154/2018. (III. 27.) Korm. határozat |
 | 2018-03-28 | 2018-1154-30-22.2 | 1174/2018. (III. 28.) Korm. határozat |
+| 2018-11-15 | 2018-1154-30-22.3 | 1573/2018. (XI. 15.) Korm. határozat |
