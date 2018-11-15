@@ -16,7 +16,7 @@ Határidő: az a) alpont tekintetében az Innovációs és Technológiai Miniszt
 
 a b) alpont tekintetében a felmerülés ütemében
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 30. Közúthálózat felújítása jogcímcsoport kiadási előirányzata terhére a 2019. évre vonatkozóan vállalható kötelezettségek mértékét legfeljebb 25 965 919 283 forintban állapítja meg;
+3.[^1] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 30. Közúthálózat felújítása jogcímcsoport kiadási előirányzata terhére a 2019. évre vonatkozóan vállalható kötelezettségek mértékét legfeljebb 29 362 677 179 forintban állapítja meg;
 
 4. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az e határozatban foglaltak végrehajtása érdekében összesen legfeljebb 24 800 000 000 forint összegben kötelezettségeket vállaljon;
 
@@ -41,3 +41,5 @@ Határidő: 2018. szeptember 30.
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2018. december 31.
+
+[^1]: A 3. pont az 1573/2018. (XI. 15.) Korm. határozat 4. pontja szerint módosított szöveg.
