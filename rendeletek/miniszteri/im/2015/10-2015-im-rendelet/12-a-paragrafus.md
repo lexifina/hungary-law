@@ -1,4 +1,4 @@
-12/A. §[^7] (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás beruházási, működési vagy zenei és irodalmi alkotások kiadásához nyújtott támogatásként nyújtható.
+12/A. §[^8] (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás beruházási, működési vagy zenei és irodalmi alkotások kiadásához nyújtott támogatásként nyújtható.
 
 (2) A támogatás – a nyomtatott vagy elektronikus formában közzétett sajtótermék és magazin kivételével – a következőkhöz nyújtható:
 
@@ -14,4 +14,4 @@ e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezés
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
 
-[^7]: A 12/A. §-t a 8/2018. (VI. 4.) IM rendelet 6. §-a iktatta be.
+[^8]: A 12/A. §-t a 8/2018. (VI. 4.) IM rendelet 6. §-a iktatta be.
