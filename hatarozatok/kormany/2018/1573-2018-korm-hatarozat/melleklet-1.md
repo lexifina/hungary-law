@@ -148,21 +148,11 @@
 
 ## Határidő: folyamatos
 
-## 2. A Magyarország vasúthálózat-fejlesztéseihez szükséges kötelezettségvállalásról szóló 1154/2018. (III. 27.) Korm. határozat [a továbbiakban: 1154/2018. (III. 27.) Korm. határozat] nyitó szövegrésze a következő negyedik francia bekezdéssel egészül ki:
+## 2.[^1]
 
-## (A Kormány tekintettel)
+## 3.[^2]
 
-## „– a Közép-Duna menti térségben tervezett országos és helyi közúti, valamint vasúti felújítások és fejlesztések megvalósításáról szóló 1573/2018. (XI. 15.) Korm. határozatra”
-
-## 3. Az 1154/2018. (III. 27.) Korm. határozat
-
-## a) a) pontjában a „17 607 070 752 forint,” szövegrész helyébe a „21 307 070 752 forint,” szöveg,
-
-## b) b) pontjában a „3 442 000 000 forint.” szövegrész helyébe a „6 742 000 000 forint.” szöveg
-
-## lép.
-
-## 4. Az M1 autópálya további helyreállításához és biztonságos üzemeltetéséhez szükséges feltételek biztosításáról szóló 1396/2018. (VIII. 30.) Korm. határozat 3. pontjában a „25 965 919 283 forintban” szövegrész helyébe a „29 362 677 179 forintban” szöveg lép.
+## 4.[^3]
 
 1. melléklet az 1573/2018. (XI. 15.) Korm. határozathoz
 
@@ -219,3 +209,7 @@ A. Országos közutakat érintő felújítások:
 B. Országos közutakat érintő fejlesztések:
 
 1. 6237. jelű M6 autópálya – 6. számú főút paksi összekötő út megvalósítása,
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
