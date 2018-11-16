@@ -228,6 +228,6 @@
 
 ## III–V.
 
-8. melléklet a 39/2018. (XI. 14.) MNB rendelethez[^11]
+8. melléklet a 39/2018. (XI. 14.) MNB rendelethez[^12]
 
-[^11]: A 8. melléklet a 13. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^12]: A 8. melléklet a 13. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
