@@ -8,59 +8,67 @@ b) konzultációt folytasson az emberi jogok magyarországi érvényesülését 
 
 c) konzultációt folytasson az emberi jogok magyarországi érvényesülését vizsgáló alkotmányos szervekkel,
 
-d) áttekintse a nemzetközi egyezményekből, megállapodásokból és egyéb nemzetközi kötelezettségvállalásokból fakadó, az emberi jogok érvényesülésével kapcsolatos feladatokat,
+d)[^1] áttekintse az Egyesült Nemzetek Szervezete, az Európa Tanács és az Európai Biztonsági és Együttműködési Szervezet keretében elfogadott egyezményekből, megállapodásokból, az európai uniós tagságból és egyéb nemzetközi kötelezettségvállalásokból fakadó, az emberi jogok érvényesülésével kapcsolatos feladatokat, valamint figyelemmel kísérje azok végrehajtását,
 
-e)[^1] közreműködjön az Egyesült Nemzetek Szervezete Emberi Jogi Tanács Egyetemes Időszakos Felülvizsgálat (UPR) Munkacsoportjának Magyarország vonatkozásában tett és Magyarország által elfogadott, valamint részben elfogadott ajánlások végrehajtásának figyelemmel kísérésében,
+e)[^2] közreműködjön az Egyesült Nemzetek Szervezete Emberi Jogi Tanács Egyetemes Időszakos Felülvizsgálat (UPR) Munkacsoportjának Magyarország vonatkozásában tett és Magyarország által elfogadott, valamint részben elfogadott ajánlások végrehajtásának figyelemmel kísérésében,
 
 f) javaslatokat tegyen a Kormány és az érintett központi államigazgatási szervek részére a jogalkotás és a jogalkalmazás vonatkozásában az emberi jogok még szélesebb érvényesülését biztosító szabályozásra, működésre, figyelemmel kísérje ezek megvalósítását, és
 
 g) elősegítse az emberi jogok magyarországi érvényesülésével kapcsolatos szakmai kommunikációt.
 
-3.[^2] A Munkacsoport tagja
+3.[^3] A Munkacsoport tagja
 
-a) a Belügyminisztérium parlamenti államtitkára,
+a) az Agrárminisztérium környezetügyért felelős államtitkára,
 
-b) az Emberi Erőforrások Minisztériumának
+b) a Belügyminisztérium közigazgatási államtitkára,
 
-ba) egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára,
+c) az Emberi Erőforrások Minisztériumának
 
-bb) szociális ügyekért és társadalmi felzárkózásért felelős államtitkára,
+ca) család- és ifjúságügyért felelős államtitkára,
 
-bc) család- és ifjúságügyért felelős államtitkára,
+cb) egészségügyért felelős államtitkára,
 
-bd) egészségügyért felelős államtitkára,
+cc) oktatásért felelős államtitkára,
 
-be) köznevelésért felelős államtitkára,
+cd) nemzetközi ügyekért felelős államtitkára,
 
-bf) parlamenti államtitkára,
+ce) szociális ügyekért és társadalmi felzárkózásért felelős államtitkára,
 
-c) a Honvédelmi Minisztérium parlamenti államtitkára,
+d) a Honvédelmi Minisztérium közigazgatási államtitkára,
 
-d) az Igazságügyi Minisztérium
+e) az Igazságügyi Minisztérium
 
-da) parlamenti államtitkára,
+ea) parlamenti államtitkára,
 
-db) európai uniós és nemzetközi igazságügyi együttműködésért felelős államtitkára,
+eb) európai uniós és nemzetközi igazságügyi együttműködésért felelős államtitkára,
 
-e) a Külgazdasági és Külügyminisztérium biztonságpolitikáért és nemzetközi együttműködésért felelős államtitkára,
+f) az Innovációs és Technológiai Minisztérium tudás- és innováció-menedzsmentért felelős államtitkára,
 
-f) a Miniszterelnökség európai uniós ügyekért felelős államtitkára
+g) a Külgazdasági és Külügyminisztérium biztonságpolitikáért felelős államtitkára,
 
-g) a Nemzetgazdasági Minisztérium munkaerőpiacért és képzésért felelős államtitkára, és
+h) a Miniszterelnökség
 
-h) a Földművelésügyi Minisztérium környezetügyért, agrárfejlesztésért és hungarikumokért felelős államtitkára.
+ha) civil és társadalmi kapcsolatokért felelős helyettes államtitkára,
+
+hb) egyházi és nemzetiségi kapcsolatokért felelős államtitkára,
+
+hc) európai uniós politikák kialakításáért és koordinációjáért felelős államtitkára,
+
+hd) üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős államtitkára és
+
+i) a Pénzügyminisztérium foglalkoztatáspolitikáért és vállalati kapcsolatokért felelős államtitkára.
 
 4. A Munkacsoport tagjai Munkacsoportban végzett tevékenységükért tiszteletdíjban nem részesülnek.
 
-5.[^3] A Munkacsoport tagját
+5.[^4] A Munkacsoport tagját
 
 a) ugyanazon minisztérium másik államtitkára vagy
 
 b) a Munkacsoport tagjának irányítása alá tartozó, általa kijelölt helyettes államtitkár helyettesítheti.
 
-6.[^4] A Munkacsoport elnöke az Igazságügyi Minisztérium parlamenti államtitkára, a Munkacsoport alelnöke az Igazságügyi Minisztérium európai uniós és nemzetközi igazságügyi együttműködésért felelős államtitkára.
+6.[^5] A Munkacsoport elnöke az Igazságügyi Minisztérium parlamenti államtitkára, a Munkacsoport alelnöke az Igazságügyi Minisztérium európai uniós és nemzetközi igazságügyi együttműködésért felelős államtitkára.
 
-7.[^5] A Munkacsoport elnöke a Munkacsoport ülésére tanácskozási joggal, eseti jelleggel meghívhat a Munkacsoport feladatkörét érintő tevékenységet végző
+7.[^6] A Munkacsoport elnöke a Munkacsoport ülésére tanácskozási joggal, eseti jelleggel meghívhat a Munkacsoport feladatkörét érintő tevékenységet végző
 
 a) állami vezetőt,
 
@@ -68,7 +76,7 @@ b) alkotmányos szerv képviselőjét, és
 
 c) központi államigazgatási szerv vezetőjét.
 
-8.[^6] A Munkacsoport szükség szerint, de félévente legalább egy alkalommal tart ülést. A Munkacsoport ülését a Munkacsoport elnöke hívja össze és vezeti, a Munkacsoport ülése vezetésében a Munkacsoport elnökét a Munkacsoport alelnöke helyettesíti. A Munkacsoport rendkívüli ülésének összehívását a Munkacsoport bármely tagja az indok egyértelmű megjelölésével kezdeményezheti a Munkacsoport elnökénél. A Munkacsoport ülése összehívásáról ebben az esetben a Munkacsoport elnöke dönt.
+8.[^7] A Munkacsoport szükség szerint, de félévente legalább egy alkalommal tart ülést. A Munkacsoport ülését a Munkacsoport elnöke hívja össze és vezeti, a Munkacsoport ülése vezetésében a Munkacsoport elnökét a Munkacsoport alelnöke helyettesíti. A Munkacsoport rendkívüli ülésének összehívását a Munkacsoport bármely tagja az indok egyértelmű megjelölésével kezdeményezheti a Munkacsoport elnökénél. A Munkacsoport ülése összehívásáról ebben az esetben a Munkacsoport elnöke dönt.
 
 9. A Munkacsoport működésének részletes szabályait ügyrendjében állapítja meg.
 
@@ -78,9 +86,9 @@ c) központi államigazgatási szerv vezetőjét.
 
 a) a Munkacsoport tagjai,
 
-b) az alapvető jogok biztosa, az Egyenlő Bánásmód Hatóság elnöke, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke, és
+b)[^8] az alapvető jogok biztosa, az Egyenlő Bánásmód Hatóság elnöke, a Központi Statisztikai Hivatal elnöke, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és
 
-c)[^7] a Munkacsoport elnöke és alelnöke által együttesen felkért, a Munkacsoport feladatkörét érintő tevékenységet végző
+c)[^9] a Munkacsoport elnöke és alelnöke által együttesen felkért, a Munkacsoport feladatkörét érintő tevékenységet végző
 
 ca) alkotmányos szerv képviselője, központi államigazgatási szerv vezetője,
 
@@ -90,15 +98,22 @@ cb) civil szervezetek, érdekképviseleti szervezetek és szakmai szervezetek k�
 
 13. Az Emberi Jogi Kerekasztal működésének részletes szabályait ügyrendjében állapítja meg.
 
-14.[^8] A Munkacsoport és az Emberi Jogi Kerekasztal működésével összefüggő szakmai előkészítő és adminisztratív feladatok ellátásáról – a Munkacsoport elnöke irányításával működő titkárság biztosításával – az Igazságügyi Minisztérium gondoskodik.
+13a.[^10] Az Emberi Jogi Kerekasztal az üléseit tematikus munkacsoportok keretében tartja.
+
+A tematikus munkacsoportok létrehozásáról, megszüntetéséről és a tematikus munkacsoportok elnökeinek kijelöléséről a Munkacsoport dönt. A tematikus munkacsoportok működéseinek részletes szabályait ügyrendjükben állapítják meg.
+
+14.[^11] A Munkacsoport és az Emberi Jogi Kerekasztal működésével összefüggő szakmai előkészítő és adminisztratív feladatok ellátásáról – a Munkacsoport elnöke irányításával működő titkárság biztosításával – az Igazságügyi Minisztérium gondoskodik.
 
 15. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 2. § e) pontja az 1123/2016. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 3. § az 1123/2016. (III. 10.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: Az 5. pont az 1488/2014. (VIII. 28.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: A 6. pont az 1488/2014. (VIII. 28.) Korm. határozat 3. pontjával megállapított szöveg.
-[^5]: A 7. pont az 1147/2012. (V. 11.) Korm. határozat 3. pontjával megállapított szöveg.
-[^6]: A 8. pont az 1488/2014. (VIII. 28.) Korm. határozat 4. pontjával megállapított szöveg.
-[^7]: A 11. pont c) alpontja az 1147/2012. (V. 11.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^8]: A 14. pont az 1488/2014. (VIII. 28.) Korm. határozat 5. pontjával megállapított szöveg.
+[^1]: A 2. pont d) alpontja az 1579/2018. (XI. 15.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. § e) pontja az 1123/2016. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 3. pont az 1579/2018. (XI. 15.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: Az 5. pont az 1488/2014. (VIII. 28.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 6. pont az 1488/2014. (VIII. 28.) Korm. határozat 3. pontjával megállapított szöveg.
+[^6]: A 7. pont az 1147/2012. (V. 11.) Korm. határozat 3. pontjával megállapított szöveg.
+[^7]: A 8. pont az 1488/2014. (VIII. 28.) Korm. határozat 4. pontjával megállapított szöveg.
+[^8]: A 11. pont b) alpontja az 1579/2018. (XI. 15.) Korm. határozat 3. pontjával megállapított szöveg.
+[^9]: A 11. pont c) alpontja az 1147/2012. (V. 11.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^10]: A 13a. pontot az 1579/2018. (XI. 15.) Korm. határozat 4. pontja iktatta be.
+[^11]: A 14. pont az 1488/2014. (VIII. 28.) Korm. határozat 5. pontjával megállapított szöveg.

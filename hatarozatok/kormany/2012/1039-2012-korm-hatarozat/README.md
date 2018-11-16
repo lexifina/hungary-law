@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1039-30
 | 2012-11-14 | 2012-1039-30-22.3 | 1490/2012. (XI. 13.) Korm. határozat |
 | 2014-08-29 | 2012-1039-30-22.4 | 1488/2014. (VIII. 28.) Korm. határozat |
 | 2016-03-11 | 2012-1039-30-22.5 | 1123/2016. (III. 10.) Korm. határozat |
+| 2018-11-16 | 2012-1039-30-22.6 | 1579/2018. (XI. 15.) Korm. határozat |
