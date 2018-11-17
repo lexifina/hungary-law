@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1-20-6F
 | 2018-08-31 | 2018-1-20-6F.1 | 1/2018. (VIII. 31.) TNM rendelet |
 | 2018-09-01 | 2018-1-20-6F.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-09-02 | 2018-1-20-6F.3 | 2010: CXXX. törvény |
+| 2018-11-17 | 2018-1-20-6F.4 | 3/2018. (XI. 16.) TNM rendelet |
