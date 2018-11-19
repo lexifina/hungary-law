@@ -6,16 +6,6 @@
 
 | 3. | IKOP-3.1.0-15-2015- 00001 | Az M3 metróvonal infrastruktúra rekonstrukciója | Budapesti Közlekedési Zártkörűen Működő Részvénytársaság | 137 500 000 000 | 35 221 000 000 | 44 779 000 000 | 172 721 000 000 | 44 779 000 000 | 217 500 000 000 | A projekt célja a budapesti M3-as metróvonalon a Kőbánya-Kispest és Újpest-Központ állomások közötti vágányfelépítmény, az alagútszerkezet, az áramellátás, a mozgólépcsők, a távközlés, a felügyeleti rendszerek, az állomások és a Kőér utcai járműtelep rekonstrukciója, valamint az állomások akadálymentesítése. |
 
-2. melléklet az 1580/2018. (XI. 17.) Korm. határozathoz
+2. melléklet az 1580/2018. (XI. 17.) Korm. határozathoz[^3]
 
-Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat 71. sora helyébe a következő rendelkezés lép:
-
-|  | (A) | (B) | (C) | (D) | (E) |
-
-| (1.) | (Felhívás azonosító jele) | (Projekt megnevezése) | (Támogatást igénylő neve) | [Projekt indikatív támogatási kerete (Mrd Ft)] | (Szakmai elvárások) |
-
-„
-
-| 71. | IKOP-3.1.0-15 | Az M3 metróvonal infrastruktúra rekonstrukciója | Budapesti Közlekedési Zártkörűen Működő Részvénytársaság | 172,721 (támogatási intenzitás: 100%) | A budapesti M3-as metróvonalon a Kőbánya-Kispest és Újpest-Központ állomások közötti vágányfelépítmény, az alagútszerkezet, az áramellátás, a mozgólépcsők, a távközlés, a felügyeleti rendszerek, az állomások és a Kőér utcai járműtelep rekonstrukciója, valamint az állomások akadálymentesítése. |
-
-”
+[^3]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

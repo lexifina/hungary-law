@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1580-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-11-18 | 2018-1580-30-22.1 | 1580/2018. (XI. 17.) Korm. határozat |
+| 2018-11-19 | 2018-1580-30-22.2 | 2010: CXXX. törvény |
