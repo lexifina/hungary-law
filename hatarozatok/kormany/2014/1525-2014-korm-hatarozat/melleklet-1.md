@@ -6,7 +6,7 @@
 
 ## c) keretében fejlesztésre kerülő b) pont szerinti ingatlan vagyonkezelője az NSK legyen,
 
-## d)[^1] összesen 4665,85 millió forint keretösszegű központi költségvetési forrásból valósul meg;
+## d)[^1] összesen 6 684 923 317 forint keretösszegű központi költségvetési forrásból valósul meg;
 
 ## 2. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján tegye meg a szükséges intézkedéseket a Gödöllő közigazgatási területén fekvő, 5880 helyrajzi számú ingatlan NSK vagyonkezelésébe kerülése érdekében;
 
@@ -55,6 +55,28 @@
 ## Felelős: nemzeti fejlesztési miniszter
 
 ## Határidő: azonnal
+
+## 8.[^4] felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon a Beruházás megvalósításához szükséges, legfeljebb 1 719 076 526 forint többletforrás ütemezett rendelkezésre állásáról a 2019. és 2020. költségvetési években, az alábbi ütemezés szerint:
+
+## a) a 2019. évben legfeljebb 833 347 170 forint,
+
+## b) a 2020. évben 885 729 356 forint;
+
+## Felelős: pénzügyminiszter
+
+## emberi erőforrások minisztere
+
+## Határidő: az a) alpont tekintetében a 2019. évi központi költségvetés végrehajtása során
+
+## a b) alpont tekintetében a 2020. évi központi költségvetés tervezése során
+
+## 9.[^5] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a Beruházással összefüggésben a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelési előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 34. Gödöllői uszoda beruházás jogcímcsoport kiadási előirányzatai terhére vállalható kötelezettségek 2019–2020. évekre vonatkozó felső korlátját
+
+## a) a 2019. évben legfeljebb 833 347 170 forintban,
+
+## b) a 2020. évben 885 729 356 forintban
+
+## állapítja meg.
 
 1. melléklet az 1525/2014. (IX. 18.) Korm. határozathoz
 
@@ -122,6 +144,8 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont d) alpontja az 1375/2017. (VI. 14.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: Az 1. pont d) alpontja az 1582/2018. (XI. 20.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 4. pont az 1104/2017. (III. 6.) Korm. határozat 8. pontja szerint módosított szöveg.
 [^3]: A 7. pontot az 1375/2017. (VI. 14.) Korm. határozat 2. pontja iktatta be.
+[^4]: A 8. pontot az 1582/2018. (XI. 20.) Korm. határozat 2. pontja iktatta be.
+[^5]: A 9. pontot az 1582/2018. (XI. 20.) Korm. határozat 2. pontja iktatta be.
