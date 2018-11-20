@@ -1,0 +1,1118 @@
+# Az Alkotmánybíróság 22/2018. (XI. 20.) AB határozata
+
+Magyar Közlöny 2018. évi 181. szám, 2018. november 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/31e042b096ae781c162b54df41ed64f4a64af929/dokumentumok/84d3b1be6536197ed1195a14d4c4c856c2db4737/letoltes)
+
+---
+
+Az Alkotmánybíróság 22/2018. (XI. 20.) AB határozata
+a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó
+rendelkezésekről szóló 2013. évi CLXXVII. törvény 22/C. alcímébe foglalt 53/C. §-ával összefüggő mulasztás
+megállapításáról
+Az Alkotmánybíróság teljes ülése jogszabály alaptörvény-ellenességének utólagos vizsgálata és folyamatban lévő
+ügyben alkalmazandó jogszabályi rendelkezés alaptörvény-ellenességének megállapítására és alkalmazásának
+kizárására irányuló bírói kezdeményezés tárgyában – dr. Czine Ágnes, dr. Hörcherné dr. Marosi Ildikó, dr. Pokol Béla,
+dr. Stumpf István és dr. Szalay Péter alkotmánybírók különvéleményével – meghozta a következő
+h a t á r o z a t o t:
+1. Az Alkotmánybíróság – hivatalból eljárva – megállapítja, hogy az Országgyűlés mulasztásban megnyilvánuló
+alaptörvény-ellenességet idézett elő azáltal, hogy a Polgári Törvénykönyvről szóló 2013. évi V. törvény
+hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény
+22/C. alcímébe foglalt 53/C. §-ában nem határozta meg az Alaptörvény B) cikk (1) bekezdésében
+szereplő jogállamiság alkotmányos alapértékéből fakadó jogbiztonság követelményének megfelelően
+a jogszabály rendelkezésén alapuló szerződésátruházás részletszabályait. Ezért az Alkotmánybíróság felhívja
+az Országgyűlést, hogy a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti szabályozással való
+összhang megteremtése érdekében jogalkotói feladatának 2019. március hó 31. napjáig tegyen eleget.
+2. Az Alkotmánybíróság a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő
+átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 22/C. alcímébe foglalt
+53/C. §-a alaptörvény-ellenességének megállapítására és megsemmisítésére irányuló indítványt és bírói
+kezdeményezést elutasítja.
+3. Az Alkotmánybíróság a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő
+átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény és a mező- és erdőgazdasági
+földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti
+szabályokról szóló 2013. évi CCXII. törvény módosításáról szóló 2015. évi CCXX. törvény egésze alaptörvény-
+ellenességének megállapítására és megsemmisítésére irányuló indítványt elutasítja.
+Az Alkotmánybíróság elrendeli e határozatának a Magyar Közlönyben való közzétételét.
+I n d o k o l á s
+I.
+[1] 1. Az Alaptörvény 24. cikk (2) bekezdés e) pontja, valamint az Alkotmánybíróságról szóló 2011. évi CLI. törvény
+(a továbbiakban: Abtv.) 24. § (1) bekezdése alapján ötvenhat országgyűlési képviselő (a továbbiakban:
+indítványozó1.) fordult az Alkotmánybírósághoz. Indítványukban a Polgári Törvénykönyvről szóló 2013. évi
+V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény
+és a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről
+és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosításáról szóló 2015. évi CCXX. törvény
+(a továbbiakban: Módtv.) egésze alaptörvény-ellenességének megállapítását, és a hatálybalépésének időpontjára
+visszamenőleges hatályú megsemmisítését kérték. A Módtv. alaptörvény-ellenességét az indítványozó1.
+az Alaptörvény B) cikk (1) bekezdése, M) cikk (2) bekezdése, P) cikk (2) bekezdése, valamint 38. cikk (1) bekezdése
+sérelmére alapozta.
+
+[2] 2. Az indítványozó1. álláspontja szerint a Módtv. közjogilag érvénytelen, mivel az Országgyűlés az Alaptörvényben
+előírt eljárási rendelkezés figyelmen kívül hagyásával, a sarkalatos többség helyett mindössze egyszerű többséggel
+döntött róla. A Módtv. elfogadásának részletes leírása mellett az indítvány hivatkozik arra, hogy a Módtv. a mező-
+és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és
+átmeneti szabályokról szóló 2013. évi CCXII. törvény (a továbbiakban: Fétv.) módosításával, illetve kiegészítésével
+a termőföldre vonatkozó haszonbérleti szerződésekre vonatkozó szabályokról rendelkezik. Az Alaptörvény P) cikk
+(2) bekezdése szerint „[a] termőföld és az erdők tulajdonjogának megszerzése, valamint hasznosítása (1) bekezdés
+szerinti célok eléréséhez szükséges korlátait és feltételeit, valamint az integrált mezőgazdasági termelésszervezésre
+és a családi gazdaságokra, továbbá más mezőgazdasági üzemekre vonatkozó szabályokat sarkalatos törvény
+határozza meg”, amely megfogalmazás utal a termőföld hasznosítására is. Az indítványozó1. érvelése szerint
+azoknak a szabályoknak, amelyek a hasznosítás (így az eladás és a bérbeadás) szabályainak megállapítása
+érdekében kerülnek megállapításra, az Alaptörvény P) cikk (2) bekezdése alapján sarkalatos szabályoknak kell
+lenniük, így elfogadásukhoz a szavazáson jelen lévő országgyűlési képviselők kétharmadának igen szavazatára
+van szükség. A termőfölddel kapcsolatos tulajdoni viszonyok (és a hozzá fűződő „egyéb dologi jogok”)
+szabályozása az indítvány szerint sarkalatos többséget követel meg akkor is, ha a termőföld tulajdonlásával vagy
+hasznosításával kapcsolatos norma valamely agrár tárgyú törvényben található, és akkor is, ha más törvényben kerül
+megfogalmazásra.
+[3] 3. Az indítványozó1. szerint a Módtv. a visszaható hatályú jogalkotás tilalmába, így az Alaptörvénynek
+a jogállamiságot előíró B) cikk (1) bekezdésébe is ütközik. A Módtv. javaslatának indokolása maga ismeri el
+a visszamenőleges hatályú jogalkotást akkor, amikor azt részletezi, hogy a módosítás hatálybalépése előtt
+kötött haszonbérleti szerződések esetében miként lehet alkalmazni a bérletidíj-módosítás lehetőségét. Ezzel
+a Módtv. durván beavatkozik a bérleti jogviszonyokba (nemcsak az állam tulajdonában álló földek tekintetében,
+hanem a magánszerződések esetén is), a folyamatos díjemelések és a szerződések egyoldalú felbonthatóságának
+lehetőségével ellehetetleníti a gazdálkodókat. Mivel a Módtv.-ben szabályozott módosító rendelkezések malam
+partem jellegű, tehát tiltott visszamenőleges hatályúnak tekinthetők, ezért azok alaptörvény-ellenes tartalmúnak
+minősülnek.
+[4] 4. Az indítványozó1. álláspontja szerint a Módtv. rendelkezései a földbérleti szerződések esetében az „azonnali
+szerződésmódosítás” lehetőségének törvényi biztosításával figyelmen kívül hagyják azokat a kritériumokat,
+amelyeket az Alkotmánybíróság korábbi határozataiban a jogszabály által történő alkotmányos szerződésmódosítás
+tekintetében meghatározott (clausula rebus sic stantibus, jelentős érdeksérelem, a jogalkotói beavatkozás
+szükségessége stb.). Mindezek alapján az indítvány szerint a Módtv. rendelkezései sértik az Alaptörvény M) cikk
+(2) bekezdésében foglaltakat.
+[5] 5. A Módtv.-nek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti
+és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvényt (a továbbiakban: Ptké.) egy új alcímmel
+kiegészítő szabálya a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.) szereplő
+szerződésátruházással kapcsolatos rendelkezéseket tartalmaz. Ezek a rendelkezések az indítványozó1. álláspontja
+szerint ellentétben állnak a Ptk.-ban szabályozott szerződésátruházásra vonatkozó szabályokkal, azokból semmilyen
+formában nem következnek, ezért sértik a normavilágosság követelményét, ezáltal pedig az Alaptörvény B) cikk
+(1) bekezdésébe ütköznek.
+[6] 6. A Kúria P.V. tanácsa (a továbbiakban: indítványozó2.) az előtte folyamatban lévő, az eljáró bíróság
+kijelölése iránti eljárásban – a per egyidejű felfüggesztése mellett, az Abtv. 25. § (1) bekezdése alapján –
+Pkk.V.24.545/2018/10. sorszámú végzésével bírói kezdeményezést terjesztett az Alkotmánybíróság elé. Ebben
+indítványozta a Ptké. 53/C. §-a alaptörvény-ellenességének megállapítását és megsemmisítését, továbbá
+a támadott jogszabályi rendelkezésnek a Kúria előtt a Pkk.V.24.545/2018. számon, a Pkk.V.24.591/2018. számon,
+a Pkk.V.24.643/2018. számon, a Pkk.V.24.583/2018. számon, a Pkk.V.24.642/2018. számon, a Pkk.V.24.584/2018.
+számon, a Pkk.V.24.548/2018. számon, valamint a Pkk.V.24.571/2018. számon folyamatban lévő ügyekben történő
+alkalmazása tilalmának elrendelését. Az indítványozó2. álláspontja szerint a támadott jogszabályi rendelkezés
+ellentétes az Alaptörvény B) cikk (1) bekezdésével, M) cikk (1) és (2) bekezdéseivel, XIII. cikk (1) bekezdésével, XV. cikk
+(2) bekezdésével, valamint XXVIII. cikk (1) bekezdésével.
+
+[7] 7. Az indítványozó2. a támadott jogszabályi rendelkezéssel összefüggő problémával az eljáró bíróság kijelölése
+iránti ügyekben szembesült. A Kúria a fent említett kijelölési ügyekkel összefüggésben megállapította, hogy azok
+tárgya egymással összefügg, ezért azokat a hozzá legkorábban felterjesztett kijelölési ügyhöz, Pkk.V.24.545/2018.
+ügyszámon egyesítette. A Kúria eljáró tanácsának tanácselnöke ezt követően indítványozta, hogy a Kúria azt
+ötfős tanácsban bírálja el, amellyel a Kúria Polgári Kollégiumának kollégiumvezetője egyetértett. Ezt követően
+az ügyben eljáró tanács a kijelölési eljárást felfüggesztette és rendelkezett a jelen indítvány Alkotmánybíróság elé
+terjesztéséről.
+[8] 8. Az indítványozó2. az ügy előzményeként rámutatott, hogy a Ptk. a 6:211. §-ában új jogintézményként szabályozza
+a teljes szerződéses pozícióban bekövetkező alanyváltozás alapesetét: a szerződésátruházást. A szerződésátruházás
+arra teremti meg a lehetőséget, hogy az egyik szerződő fél a teljes szerződési pozícióját átruházza egy harmadik
+személyre. A szerzdésátruházás sui generis háromoldalú szerződés az eredeti jogviszony alanyai (átruházó és
+kötelezett) és az átvállaló között. A szerződésátruházás eredményeképpen a szerződésbe belépő fél a szerződésből
+kilépő fél szerződési pozíciójába kerül. A szerződésátruházás jogintézményének kodifikációja során többször
+felvetődött a kérdés, hogy a szerződésátruházás következtében jogutódlás történik, avagy új szerződés jön létre
+(nováció) a felek között. Ezt a kodifikációs előkérdést a Ptk. – a bírói gyakorlattal egyezően – úgy döntötte el, hogy
+a szerződésátruházás intézményét jogutódlásként kezeli. A Ptk. a szerződésátruházásra vonatkozó előírásokat hívja
+fel arra az esetre is, ha egy kötelmi pozícióban jogszabályi előírás alapján következik be alanyváltozás (Ptk. 6:211. §).
+[9] A jogalkotó a Módtv.-vel módosította egyfelől a Ptké.-t, másfelől a Fétv.-t. Az indítványozó2. álláspontja
+szerint a fenti módosítás részeként a jogalkotó egy olyan szabályt helyezett el a Ptké. 53/C. §-ába, amely
+a szerződésátruházás Ptk. általi alapkonstrukcióját„borítja fel”, és számos jogalkalmazói nehézséget okoz.
+[10] Az indítványozó2. kiemelte, hogy az indítvány alapjául szolgáló ügyekben az eldöntendő kérdést azt képezi, hogy
+a kijelöléssel érintett haszonbérleti szerződésekben szereplő illetékességi kikötés érvényesnek tekinthető-e,
+figyelemmel a támadott jogszabályi rendelkezésekre. Az indítványozó2. szerint a kijelölési vitát a támadott
+szabályok döntik el.
+[11] A Kúriához felterjesztett ügyekben a felperes mint haszonbérlő a haszonbérleti díj megállapítása iránt indított
+keresetet az alperes mint haszonbérbeadóval szemben a Járásbíróságon. A bíróság illetékessége hiányát állapította
+meg, figyelemmel arra, hogy a becsatolt földhaszonbérleti szerződésekben a Pesti Központi Kerületi Bíróság
+(a továbbiakban: PKKB) kizárólagos illetékessége szerepel. Az áttételt követően eljáró PKKB szintén megállapította
+illetékessége hiányát és az ügy iratait felterjesztette a Kúriához az illetékes bíróság kijelölése érdekében. Indokolása
+szerint a Ptké. 53/C. § (2) bekezdésére figyelemmel a haszonbérbeadó személyében bekövetkezett változással új
+haszonbérleti szerződés jött létre, így a régi szerződésben szereplő illetékességi kikötés jogszabályba ütközik, mivel
+a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: régi Pp.) 41. § (6) bekezdése értelmében
+2009. június 30-át követően a PKKB illetékessége nem köthető ki. Mivel az új tulajdonos és a haszonbérlő között
+a Ptké. 53/C. §-a alapján új szerződés jött létre, a kikötés jogszabályba ütközik, ezért figyelmen kívül kell hagyni.
+[12] Amennyiben csupán az előző pontban említett rendelkezéseket kellene alkalmazni, egyértelmű lenne, hogy
+a régi Pp. módosítás előtti illetékességi kikötések alapján a PKKB-t kellene kijelölni az adott ügyek elbírálására. Ezt
+a helyzetet azonban alapjaiban változtatja meg a Ptké.-be iktatott 53/C. §-a. Nem vitásan az adott ügyekkel érintett
+perbeli ingatlanok tulajdonosi helyzetében nemrégiben (többségükben 2016-ban) változás állt be. Az új tulajdonos
+a bérletnek a régi Ptk.-ban rögzített szabálya alapján a haszonbérleti szerződésben a bérbeadó szerződéses
+pozíciójába lépett, áll az indítványban.
+[13] Az indítványozó2. szerint a Fétv. 110/A. §-ából az következne, hogy a földhaszonbérleti szerződések jogosulti
+oldalán alanycsere történt, a szerződésből eredő valamennyi jog és kötelezettség jogszabály – azaz a régi Ptk. 432. §
+(3) és (4) bekezdései – alapján száll át az új tulajdonosra. Ez az átszállás azonban önmagában nem eredményezi
+a szerződés novációját (vagyis a felek közötti új szerződés létrehozását), figyelemmel arra, hogy ezt a jogi helyzetet
+mind a bírói gyakorlat, mind a Ptk. csupán jogutódlásnak tekinti. Ettől eltérő eredményre vezet a Ptké. 53/C. §
+(2) bekezdésének alkalmazása, amely kimondja, hogy az (1) bekezdésben említett esetben a szerződésből kilépő
+és a szerződésben maradó fél tekintetében a szerződést megszűntnek, a szerződésbe belépő és a szerződésben
+maradó fél tekintetében pedig a szerződést az átszálló valamennyi jog és kötelezettség vonatkozásában
+a jogszabály rendelkezése alapján létrejött új szerződésnek kell tekinteni. Következésképpen a jogszabályi alapú
+szerződésátruházással új szerződés jön létre. Eszerint az alanyváltozás pillanatában létrejövő szerződés 2009. június
+30-a után megkötött szerződésnek minősül, azaz a PKKB illetékességét kimondó szerződéses kikötés a régi Pp. 41. §
+(6) bekezdésébe ütközik, ezért érvénytelen.
+
+[14] Az indítványozó2. az Alaptörvény B) cikk (1) bekezdésének állított sérelme körében az alábbiakra is hivatkozott:
+a Módtv. 1. §-a által a Ptké.-be iktatott 53/C. § a Ptké. hatálybalépése előtt megkötött szerződések esetében
+– amennyiben azokban a Ptké. hatálybalépését követően alanyváltozás történik – a szerződésben maradó és
+a szerződésbe belépő fél vonatkozásában a szerződést új szerződésnek minősíti. A korábbi kötelmi viszonyok
+létrehozásakor irányadó jogszabályi rendelkezések a szerződő felek jogviszonyára már nem irányadóak.
+[15] Az indítvány szerint tehát a támadott jogszabály által kimondott jogkövetkezmény egyértelmű: a szerződésben
+maradó fél és az új jogalany közötti szerződés új szerződésnek minősül. Ez a szabály azzal a következménnyel jár,
+hogy a szerződésre a„nováció”pillanatában hatályos jogszabályokat kell alkalmazni akkor is, ha az eredeti szerződés
+korábban jött létre. A támadott szabály hipotézise az életviszonyok rendkívül tág körét öleli át. A földhaszonbérletek
+esetén is a Ptk. alapozza meg az alanyváltozást, ebből következően a jogszabályi alanyváltozás minden esetköre
+(öröklés, jogutódlás, a tulajdonos személyében bekövetkező változás a bérleti szerződésnél) e körbe esik. Mindezek
+alapján az alanyváltozás oda vezet, hogy a változatlan formában fennálló kötelmekre a korábbi, a módosult
+kötelmekre az új szabályokat kell alkalmazni.
+[16] A Ptk.-nak a bírói gyakorlatra figyelemmel kialakított következetes szabályait rontja le a Ptké. támadott
+rendelkezése, amikor a jogszabályon alapuló alanyváltozásra a Ptk. szabályaitól eltérő jogkövetkezményt ír
+elő (nováció). Mindezekre tekintettel a Módtv. rendelkezéseivel a Ptké.-be iktatott jogszabályi rendelkezések
+(Ptké. 53/C. §) az Alaptörvény B) cikk (1) bekezdésébe ütköznek, sértik a jogállami jogbiztonság részét képező
+normavilágosság követelményét.
+[17] Az indítványozó2. szerint a polgári jogi dogmatikával szembemenő szabályozás a fentiek okán sérti az Alaptörvény
+XXVIII. cikk (1) bekezdése szerinti bírósághoz fordulás jogát, azzal összefüggésben pedig a perek észszerű
+határidőn belül való elbírálásának követelményét, mivel a támadott szabályozás következtében az eljáró bíróságok
+bizonytalan helyzetbe kerültek annak eldöntése során, hogy melyik bíróság illetékes az ügy elbírálására, ami
+az áttétel következtében perek elhúzódásához vezet.
+[18] A Ptké. 53/C. § (2) bekezdése a jogbiztonság követelményének megsértésén keresztül egyúttal az Alaptörvény
+M) cikkét és XIII. cikkét is sérti, mivel nem világos, hogy egy már teljesített szerződés esetében a Ptké. 53/C. §-a
+által kimondott nováció miként értelmezhető, áll az indítványban. A fentiekkel azonos okból kifolyólag
+a Ptké. 53/C. § (2) bekezdése sérti az Alaptörvény XIII. cikkében biztosított örökléshez való jogot is, mivel a támadott
+jogszabályhely megfogalmazásából következően annak alkalmazási köre kiterjed az öröklésre mint ipso iure
+jogutódlásra is. Az örökhagyó szerződései vonatkozásában ez magánjogilag értelmezhetetlen helyzetet teremt,
+mivel e kötelmek az öröklésnél mint egyetemes jogutódlásnál fogva átszállnak az örökösre, azonban a nováció miatt
+az örökös ebben az értelemben mégsem lesz jogutódja az örökhagyónak. Az indítványozó2. álláspontja szerint
+a jogátszállás időpontja alapján történő megkülönböztetés sérti az Alaptörvény XV. cikk (2) bekezdését.
+[19] 9. Az Alkotmánybíróság az indítványokat – az Alkotmánybíróság Ügyrendje 34. § (1) bekezdése alapján – egyesítette
+és egy eljárásban, tartalmuk szerint bírálta el.
+[20] 10. Eljárása során az Alkotmánybíróság az Abtv. 57. § (2) bekezdése alapján beszerezte az igazságügyi miniszter,
+valamint az egyéni képviselői indítvány alapján született törvényjavaslat előterjesztőjének véleményét.
+II.
+[21] 1. Az Alaptörvény érintett rendelkezései:
+„B) cikk (1) Magyarország független, demokratikus jogállam.”
+„M) cikk (1) Magyarország gazdasága az értékteremtő munkán és a vállalkozás szabadságán alapszik.
+(2) Magyarország biztosítja a tisztességes gazdasági verseny feltételeit. Magyarország fellép az erőfölénnyel való
+visszaéléssel szemben, és védi a fogyasztók jogait.”
+„P) cikk (1) A természeti erőforrások, különösen a termőföld, az erdők és a vízkészlet, a biológiai sokféleség,
+különösen a honos növény- és állatfajok, valamint a kulturális értékek a nemzet közös örökségét képezik, amelynek
+védelme, fenntartása és a jövő nemzedékek számára való megőrzése az állam és mindenki kötelessége.
+(2) A termőföld és az erdők tulajdonjogának megszerzése, valamint hasznosítása (1) bekezdés szerinti célok
+eléréséhez szükséges korlátait és feltételeit, valamint az integrált mezőgazdasági termelésszervezésre és a családi
+gazdaságokra, továbbá más mezőgazdasági üzemekre vonatkozó szabályokat sarkalatos törvény határozza meg.”
+„XIII. cikk (1) Mindenkinek joga van a tulajdonhoz és az örökléshez. A tulajdon társadalmi felelősséggel jár.”
+
+„XV. cikk (2) Magyarország az alapvető jogokat mindenkinek bármely megkülönböztetés, nevezetesen faj, szín, nem,
+fogyatékosság, nyelv, vallás, politikai vagy más vélemény, nemzeti vagy társadalmi származás, vagyoni, születési
+vagy egyéb helyzet szerinti különbségtétel nélkül biztosítja.”
+„XXVIII. cikk (1) Mindenkinek joga van ahhoz, hogy az ellene emelt bármely vádat vagy valamely perben a jogait és
+kötelezettségeit törvény által felállított, független és pártatlan bíróság tisztességes és nyilvános tárgyaláson, ésszerű
+határidőn belül bírálja el.”
+„38. cikk (1) Az állam és a helyi önkormányzatok tulajdona nemzeti vagyon. A nemzeti vagyon kezelésének és
+védelmének célja a közérdek szolgálata, a közös szükségletek kielégítése és a természeti erőforrások megóvása,
+valamint a jövő nemzedékek szükségleteinek figyelembevétele. A nemzeti vagyon megőrzésének, védelmének és
+a nemzeti vagyonnal való felelős gazdálkodásnak a követelményeit sarkalatos törvény határozza meg.”
+[22] 2. Az indítványok által támadott Módtv. rendelkezései:
+„1. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó
+rendelkezésekről szóló 2013. évi CLXXVII. törvény VI. Fejezete a következő 22/C. alcímmel egészül ki:
+»22/C. Szerződésátruházás
+[A Ptk. 6:211. §-ához]
+53/C. § (1) Ha a Ptk. hatálybalépése előtt kötött szerződésből származó valamennyi jog és kötelezettség Ptk.
+hatálybalépését követően jogszabály rendelkezése alapján száll át másra, úgy erre a Ptk. 6:211. §-át kell alkalmazni.
+(2) Az (1) bekezdés szerinti esetben a szerződésből kilépő és a szerződésben maradó fél tekintetében a szerződést
+megszűntnek, a szerződésbe belépő és a szerződésben maradó fél tekintetében pedig a szerződést az átszálló
+valamennyi jog és kötelezettség vonatkozásában a jogszabály rendelkezése alapján létrejött új szerződésnek kell
+tekinteni«.”
+„2. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes
+rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény (a továbbiakban: Fétv.) 50/A. §-a helyébe
+a következő rendelkezés lép:
+»50/A. § (1) A legalább 10 éves időtartamú haszonbérleti szerződés esetében a szerződő felek bármelyike
+az e §-ban foglaltak szerint a szerződéskötést követő 5 év elteltével – ha a haszonbérleti szerződés időtartama
+meghosszabbítás folytán éri el a 10 éves időtartamot, a meghosszabbítás időpontjától számított 5 év elteltével –,
+majd az első kezdeményezést követően 5 évente kezdeményezheti a haszonbérleti szerződés módosítását
+a haszonbérleti díjnak a kezdeményezéskor irányadó helyben szokásos piaci haszonbérleti díjra való módosítása
+érdekében, feltéve, hogy a haszonbérleti szerződés időtartamából legalább még 5 év van hátra.
+(2) A kezdeményezésben a piaci haszonbérleti díj mértékét igazságügyi szakértői vélemény alapján kell
+megállapítani. A haszonbérleti szerződés módosítására irányuló kezdeményezéshez csatolni kell az igazságügyi
+szakértői véleményt.
+(3) Ha a kezdeményezésben megjelölt piaci haszonbérleti díj mértéke a haszonbérleti szerződés szerinti
+haszonbérleti díj mértékétől legalább 20%-kal tér el, az ellenérdekű fél a kezdeményezés kézhezvételétől számított
+30 napos jogvesztő határidőn belül a haszonbérleti szerződést a gazdasági év végére felmondhatja.
+(4) Ha az ellenérdekű fél a kezdeményezéssel nem ért egyet, de a (3) bekezdésben foglaltak alkalmazására
+nincs mód, vagy azzal nem kíván élni, a kezdeményezés kézhezvételétől számított 30 napos jogvesztő határidőn
+belül a bíróságtól kérheti a piaci haszonbérleti díj meghatározását; ellenkező esetben a haszonbérleti díjat
+a kezdeményezésben megjelölt mértékben módosítottnak kell tekinteni.
+(5) Ha a bíróság által meghatározott haszonbérleti díj mértéke a korábbi haszonbérleti díj mértékétől legalább
+20%-kal tér el, az ellenérdekű fél a bíróság határozatának jogerőre emelkedésétől számított 30 napos jogvesztő
+határidőn belül a haszonbérleti szerződést a gazdasági év végére felmondhatja.
+(6) A felek az (1) bekezdésben szereplő, első szerződésmódosítási kezdeményezésre előírt, továbbá az azt követő
+szerződésmódosítási kezdeményezések közötti időtartamot, valamint a szerződésmódosítási kezdeményezés
+feltételeként előírt, a szerződés időtartamából hátralevő időtartamot 5 évnél rövidebb időtartamban is
+megállapíthatják. E § rendelkezéseitől a felek egyebekben érvényesen nem térhetnek el.«”
+
+„3. § A Fétv. XVIII. Fejezete a következő 110/A. §-sal egészül ki:
+»110/A. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és
+felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény és a mező- és erdőgazdasági földek forgalmáról
+szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi
+CCXII. törvény módosításáról szóló 2015. évi CCXX. törvénnyel (a továbbiakban: Módtv.) megállapított 50/A. §
+rendelkezéseit arra az új haszonbérleti szerződésre is alkalmazni kell, amely a Módtv. hatálybalépése előtt
+megkötött – illetve akár a hatálybalépés előtt, akár azt követően meghosszabbított –, a Módtv. hatálybalépését
+követően a föld tulajdonjogának átruházása folytán a haszonbérbe adó tulajdonos személyében bekövetkezett
+változásra tekintettel szerződésátruházás miatt megszűnt haszonbérleti szerződés helyébe lépett. Ebben az esetben
+az 50/A. § szerinti első kezdeményezés joga tekintetében irányadó időtartamba a szerződésátruházással megszűnt
+szerződés eltelt időtartamát is be kell számítani.«”
+III.
+[23] Az indítványok részben nem megalapozottak, részben ítélt dolognak minősülnek.
+[24] 1. Az Alkotmánybíróság megállapította, hogy az utólagos normakontroll indítványt ötvenhat országgyűlési
+képviselő írta alá, tehát az megfelel az Alaptörvény 24. § (2) bekezdése e) pontjában foglalt feltételnek. Ezen
+túlmenően az indítvány eleget tesz az Abtv. 52. § (1b) bekezdésében foglalt követelményeknek is, amennyiben
+tartalmazza azt az alaptörvényi rendelkezést, amely megalapozza az Alkotmánybíróság hatáskörét az indítvány
+elbírálására, az Alkotmánybíróság által vizsgálandó jogszabályi rendelkezéseket, az Alaptörvény megsértettnek
+állított rendelkezéseit, indokolást arra nézve, hogy a sérelmezett jogszabályhelyek miért ellentétesek az Alaptörvény
+megjelölt rendelkezéseivel, valamint kifejezett kérelmet arra vonatkozóan, hogy az Alkotmánybíróság állapítsa meg
+azok alaptörvény-ellenességét, és – visszamenőleges hatállyal – semmisítse meg azokat.
+[25] Az Alkotmánybíróság eljárása során megállapította, hogy az indítványozó1. által egészében támadott Módtv.
+a jogalkotásról szóló 2010. évi CXXX. törvény 12. §-a alapján 2016. január 7. napjától, vagyis az indítvány
+2016. február 18-ai benyújtását megelőzően már hatályát vesztette. Az Alkotmánybíróság hatásköre az utólagos
+normakontrollra irányuló eljárásban csak a hatályos jogszabályok vizsgálatára terjed ki, ezért az indítványt a Módtv.
+egészének alkotmányossági vizsgálata tekintetében elutasította.
+[26] Az Alkotmánybíróság gyakorlata töretlen azonban abban a tekintetben, hogy „ha az indítványozó egy új
+rendelkezés tartalmának alkotmányellenességét állítja, akkor az Alkotmánybíróság nem az új rendelkezést
+hatályba léptető, hanem a módosítás révén az új rendelkezést magába foglaló (inkorporáló) jogszabály
+alkotmányellenességét vizsgálja meg” {8/2003. (III. 14.) AB határozat, ABH 2003, 74, 81.; legutóbb megerősítette
+a 32/2014. (XI. 3.) AB határozat [19]}. Mindezekre tekintettel az alkotmánybíróság a jelen ügyben a Módtv. egésze
+alkotmányellenességének megállapítására irányuló indítvány elutasítása mellett az alkotmányossági vizsgálatot
+az inkorporáló jogszabályi rendelkezések, vagyis a Ptké. 53/C. §-a, illetve a Fétv. 50/A. §-a és 110/A. §-a tekintetében
+végezte el.
+[27] 2. Az Alkotmánybíróság az Alaptörvény 24. cikk (2) bekezdés b) pontjában foglalt felhatalmazás alapján az Abtv.
+25. § (1) bekezdés szerinti bírói kezdeményezésre felülvizsgálja az egyedi ügyben alkalmazandó jogszabály
+összhangját az Alaptörvénnyel. Ezért az Alkotmánybíróság megvizsgálta, hogy a bírói kezdeményezés megfelel-e
+az Abtv. 25. §-a szerinti feltételeknek. Az Abtv. 25. §-a önálló címként –„Bírói kezdeményezés egyedi normakontroll
+eljárás iránt” – meghatározza az ügytípusra vonatkozó különös szabályokat, amelyeket az Abtv. 51–52. §-ai
+az indítványra vonatkozó további formai és tartalmi feltételekkel egészítenek ki. Ezeket az Alkotmánybíróság
+korábbi határozataiban már értelmezte {összefoglalóan lásd a 3058/2015. (III. 31.) AB végzésben, Indokolás [8]–[23]}.
+A jelen esetben a bírói kezdeményezés ezeknek a követelményeknek megfelel.
+[28] 3. Az Alkotmánybíróság a 3278/2017. (XI. 2.) AB határozatban (a továbbiakban: Abh1.) már vizsgálta a Fétv.
+50/A. §-ának, valamint 110/A. §-ának alaptörvény-ellenességét az Alaptörvény B) cikk (1) bekezdésével, P) cikkével
+és 38. cikk (1) bekezdésével összefüggésben, és az indítványozó bírók kezdeményezését elutasította.
+[29] Az Abh1. a hivatkozott alaptörvényi rendelkezések állított sérelmével összefüggésben tehát már döntött
+a Fétv. 50/A. §-ának, valamint 110/A. §-ának alaptörvény-ellenességéről. Az Alkotmánybíróság ezért elsőként azt
+vizsgálta, ítélt dolog áll-e fenn az Abh1.-re tekintettel a Fétv. 50/A. §-át, valamint 110/A. §-át illetően.
+
+[30] Az Alkotmánybíróság jelen ügyben megállapította, hogy az indítványozó1. indítványának a Fétv. 50/A. §-ának,
+valamint 110/A. §-ának az Alaptörvény B) cikk (1) bekezdésével, P) cikkével és 38. cikk (1) bekezdésével
+összefüggésben alaptörvény-ellenességét állító részében ítélt dolog áll fenn, mivel az indítvány
+az Alkotmánybíróság által az Abh1.-ben érdemben már elbírált jogszabályi rendelkezések vizsgálatára irányul,
+és az indítványozó1. az Alaptörvénynek ugyanazokra a rendelkezéseire és azonos alkotmányos összefüggésre
+hivatkozva kéri az alaptörvény-ellenesség megállapítását. Mindezek alapján az Alkotmánybíróság az Abtv. 31. §
+(1) bekezdése szerinti törvényi feltétel fennállását állapította meg, erre tekintettel az indítványt ebben a részében
+az Abtv. 64. § f) pontja alapján visszautasította. [Hasonlóan döntött az Alkotmánybíróság a 3331/2017. (XII. 8.)
+AB végzésben (a továbbiakban: Abh2.)]
+[31] Az indítványozó1. a Fétv. 50/A. §-ának, valamint 110/A. §-ának alaptörvény-ellenességét az Alaptörvény M) cikk
+(2) bekezdésének sérelmén keresztül is állította. Az Alkotmánybíróság megállapította, hogy a támadott jogszabályi
+rendelkezések alaptörvény-ellenességét az Abh1.-ben és az Abh2.-ben ezen alaptörvényi rendelkezésre tekintettel –
+erre vonatkozó indítvány hiányában – nem vizsgálta, ezért az Alaptörvény M cikk (2) bekezdésének állított sérelme
+körében ítélt dolog nem áll fenn, erre tekintettel a támadott jogszabályi rendelkezéseket (Fétv. 50/A. §, valamint
+110/A. §) az Alaptörvény M) cikk (2) bekezdésével összefüggésben érdemben vizsgálta.
+[32] Az Alkotmánybíróság ezt követően azt vizsgálta, ítélt dolog áll-e fenn a Ptké. 53/C. §-át illetően. Ennek során
+megállapította, hogy a Ptké. hivatkozott rendelkezésének állított alaptörvény-ellenességét érdemben még nem
+vizsgálta, mivel az Abh1.-ben és az Abh2.-ben a hivatkozott jogszabályi rendelkezés alaptörvény-ellenességének
+megállapítására irányuló bírói indítványokat érdemi vizsgálat nélkül visszautasította, erre tekintettel a támadott
+jogszabályi rendelkezést (Ptké. 53/C. §) az Alaptörvény B) cikk (1) bekezdésének állított sérelmével összefüggésben
+érdemben vizsgálta.
+[33] 4. Az indítványozó1. álláspontja szerint a jogalkotó a Módtv. rendelkezései révén a földhaszonbérleti szerződések
+esetében az azonnali szerződésmódosítás lehetőségének törvényi biztosításával anélkül avatkozik be a már
+fennálló szerződéses kapcsolatokba, hogy a beavatkozás alkotmányos feltételeinek fennálltát igazolná, és ezáltal
+a szabályozás sérti az Alaptörvény M) cikk (2) bekezdésében foglaltakat.
+[34] Az Alkotmánybíróság töretlen gyakorlata szerint a szerződési szabadság az Alaptörvény M) cikke alapján védelmet
+élvez {3192/2012. (VII. 26.) AB határozat, Indokolás [18]}. Az Alkotmánybíróság – olyan ügyben, amelyben
+nemzetközi válság következtében Magyarországon előállt jelentős, kivételes és súlyos helyzetre reagáló jogszabály
+volt a vizsgálat tárgya – kifejtette azt is, hogy az állam jogszabállyal a szerződések tartalmát kivételesen – a clausula
+rebus sic stantibus elve alapján – változtathatja meg, de csak ugyanolyan feltételek fennállása esetén, mint amilyen
+feltételek fennállását a bírósági úton való szerződésmódosítás is megkövetel {3048/2013. (II. 28.) AB határozat,
+Indokolás [33], [36]}.
+[35] Az Alkotmánybíróság már a 32/1991. (VI. 6.) AB határozatában (ABH 1991, 146, 166.) rámutatott arra, hogy
+különösen a hosszú évekig fennálló szerződési jogviszonyokra a jelentős gazdasági – esetleg politikai –, pénzügyi és
+egyéb társadalmi változások nyilvánvalóan számottevő hatást, lényegi befolyást gyakorolnak. A szerződéskötéskor
+előre nem látott körülmények ugyanis lényegesen megváltoztathatják a szerződő felek helyzetét, a jogok és
+kötelezettségek arányát, és valamelyikük számára rendkívül terhessé vagy egyenesen lehetetlenné tehetik
+a szerződés változatlan tartalommal történő fenntartását, illetőleg a szerződés teljesítését. Ezekben a rendkívüli
+változást előidéző esetekben a törvények lehetővé teszik, hogy az egyes egyedi jogviszonyokba a bíróság
+beavatkozzék és módosítsa, a megváltozott körülményekhez igazítsa a tartós, hosszú lejáratú szerződések eredeti
+tartalmát. Kimondta az Alkotmánybíróság továbbá azt is, hogy ha a társadalmi méretű változások a szerződések
+nagy tömegét érintik, indokolt – és alkotmányosan nem kifogásolható –, hogy a jogviszonyok megváltoztatására,
+módosítására a törvényhozás dolgozzon ki általános megoldást. Az állam azonban jogszabállyal a fennálló
+szerződések tartalmát általában csak ugyanolyan feltételek fennállása esetén módosíthatja, változtathatja meg
+alkotmányosan, mint amilyen feltételek fennállását a bírósági úton való szerződésmódosítás megkövetel. Vagyis
+a tartós jogviszonyok jogszabállyal történő alakítására a clausula rebus sic stantibus tételének alkalmazásával
+kerülhet sor. Eszerint a jogalkotó – akárcsak a bíróság – akkor jogosult a fennálló és tartós szerződési jogviszonyokat
+módosítani, ha a szerződéskötést követően beállott valamely körülmény folytán a szerződés változatlan tartalommal
+történő fenntartása valamelyik fél lényeges jogos érdekét sérti, a körülményváltozás nem volt észszerűen
+előrelátható, továbbá, ha az túlmegy a normális változás kockázatán. A jogszabályi beavatkozásnak pedig további
+feltétele, hogy a lényeges körülményváltozás társadalmi méretű legyen, vagyis a szerződések nagy tömegét érintse.
+A törvényhozó feladata meghatározni és egyúttal felelőssége eldönteni, hogy melyek azok a területek, amelyeken
+a beavatkozás már jogalkotási követelmény. Azt pedig, hogy a beavatkozás feltételei alkotmányosan fennállnak-e,
+
+köteles bizonyítani. Vita esetén viszont az Alkotmánybíróság jogosult a beavatkozás alkotmányosságát eldönteni,
+ugyanúgy, ahogy a konkrét, egyes szerződésekben a (korábbi) Ptk. 241. §-a alapján esetenként a bíróság jár el, és
+a feltételek fennállása esetén módosítja a szerződések tartalmát.
+[36] Az Alkotmánybíróság szerint a fentiekben kifejtett elvek nem azt jelentik, hogy a Ptk. válna alkotmányos mércévé
+a szerződésekbe való állami beavatkozás megítélésénél, hanem csak azt, hogy a jogbiztonság követelményei,
+a szerződéses szabadság, a megkötött szerződés teljesítésébe vetett bizalom akkor érvényesülnek, ha az egyedi
+szerződések bírói úton való módosítása feltételeitől a jogalkotó a szerződések tömegének módosításakor nem
+térhet el. A magánjogi tartós jogviszonyok jogszabállyal történő alakítására a clausula rebus sic stantibus tételének
+alkalmazásával kerülhet sor. A bírói szerződésmódosítás a magánfelek eltérő érdekeinek új egyensúlyba hozására
+alkalmas eszköz az eset összes körülményeinek mérlegelésével. A törvényi úton történő szerződésmódosításnak is,
+amennyire lehet, mindegyik fél méltányos érdekeit figyelembe kell vennie, vagyis az ilyen szerződésmódosításnak
+is érdekegyensúlyra kell törekednie a megváltozott körülmények mellett {8/2014. (III. 20.) AB határozat, Indokolás,
+[90]–[91]}.
+[37] Az indítvány által is hivatkozott, és fentebb idézett 8/2014. (III. 20.) AB határozat – amely egyebek között
+az Alaptörvény II. cikkét, a B) cikk (1) bekezdését és az M) cikk (2) bekezdését értelmezte abból a szempontból, hogy
+jogszabály a hatálybalépése előtt megkötött szerződések tartalmát hogyan változtathatja meg – indokolásába
+foglaltakat megerősítette a 16/2015. (VI. 5.) AB határozat is (Indokolás [124]).
+[38] A Fétv. 50/A. §-a szerint a hosszabb távra (legalább 10 évre) kötött haszonbérleti szerződések esetén
+– a szerződéskötést követő 5 év elteltével – bármelyik szerződő fél kezdeményezheti a szerződésben meghatározott
+bérleti díjnak az adott időpontban irányadó, helyben szokásos piaci haszonbérleti díjra történő módosítását.
+Ez a lehetőség tehát mind a tulajdonos bérbeadót, mind pedig a haszonbérlőt megilleti, vagyis irányulhat
+a haszonbér emelésére (a bérbeadó részéről) és csökkentésére is (a haszonbérlő részéről), természetesen a piaci
+haszonbér függvényében. A kezdeményezéshez igazságügyi szakértői véleményt kell csatolni. Amennyiben a piaci
+haszonbérleti díj a szerződésben meghatározott díj mértékétől legalább 20%-kal eltér, az ellenérdekű fél 30 napos
+jogvesztő határidővel a szerződést felmondhatja, vagy bírósághoz fordulhat a piaci díj megállapítása érdekében.
+Ezek elmaradása esetén a haszonbérleti díjat a kezdeményezésben megjelölt mértékben módosítottnak kell
+tekinteni.
+[39] A bírósági eljárást a Fétv. rendelkezése szerint nem a módosítást kezdeményező, hanem az azt vitató félnek kell
+megindítania, és a jogszabály a bírósági döntést a piaci haszonbérleti díj meghatározására korlátozza. (Igazságügyi
+szakértői véleményt már a haszonbér módosítására vonatkozó kezdeményezéshez is csatolni kell.) Az ellenérdekű
+fél a bíróság határozatának jogerőre emelkedésétől számított 30 napos – ugyancsak jogvesztő – határidő mellett
+mondhatja fel a szerződést a gazdasági év végére.
+[40] A Fétv. 110. §-a a Fétv. 50/A. §-a szerinti szerződésmódosítási kezdeményezés alkalmazását a Módtv. hatálybalépése
+előtt megkötött azon haszonbérleti szerződések esetén is lehetővé teszi, amelyekben a Módtv. hatálybalépése után
+tulajdonosváltozás, vagyis jogszabályon alapuló szerződésátruházás következett be.
+[41] A Fétv. hivatkozott rendelkezései – sajátos szabályozási feltételek mellett – lehetőséget biztosítanak a felek számára
+a termőföldre vonatkozó haszonbérleti szerződés meghatározó tartalmi elemének, a bérleti díj összegének
+a módosítására. Ez a módosítási lehetőség a felek esetleges szerződési akaratának függvényében nem biztos,
+hogy szerepelt a korábban megkötött szerződésekben (bár ezt kizárni nem lehet). A jogszabály hatálybaléptével
+azonban ez a lehetőség – a jogszabály erejénél fogva – részévé vált a korábban már megkötött szerződéseknek
+is. Ez a körülmény mindenképp a szerződés elemeinek megváltozását, bővülését, tehát a szerződés módosulását
+eredményezi függetlenül attól, hogy az érintett felek ezzel a törvényi (szerződési) lehetőséggel élnek-e vagy sem.
+[42] A Fétv. 50/A. §-ába foglalt rendelkezések tehát a már megkötött szerződések – mögöttes – tartalmának
+megváltoztatását jelentik, figyelemmel a Ptk.-nak a szerződések módosítására vonatkozó általános szabályára.
+[43] A Ptk. általános szabálya szerint, ha jogszabály a szerződés valamely tartalmi elemét kötelezően meghatározza,
+a szerződés a jogszabály által előírt tartalommal jön létre. Ha jogszabály a hatálybalépése előtt megkötött
+szerződések tartalmát megváltoztatja, és a szerződés megváltozott tartalma valamelyik fél lényeges jogi
+érdekét sérti, ez a fél kérheti a bíróságtól a szerződés módosítását vagy a szerződéstől elállhat (Ptk. 6:60. §). Mivel
+a megváltozott szerződési tartalom csak a bérleti díj módosítására vonatkozó kezdeményezéssel realizálódik,
+a bérleti díj megváltoztatására vonatkozó támadott rendelkezések ezt a lehetőséget annyiban érintik, hogy ebben
+az esetben a szerződés megváltozott tartalma körében a bérleti díj megváltoztatása tekintetében lehet bírósághoz
+fordulni a piaci haszonbérleti díj meghatározására vonatkozóan (lex specialis).
+
+[44] Az Alkotmánybíróság ismertetett gyakorlata szerint az állam jogszabállyal a szerződések tartalmát kivételesen
+– a clausula rebus sic stantibus elve alapján – megváltoztathatja, de csak ugyanolyan feltételek fennállása esetén,
+mint amilyen feltételek fennállását a bírósági úton való szerződésmódosítás is megkövetel.
+[45] A bíróság általi szerződésmódosítás tekintetében a Ptk. az alábbi feltételeket határozza meg. Bármelyik fél
+a szerződés bírósági módosítását kérheti, ha a felek közötti tartós jogviszonyban a szerződés megkötését követően
+előállott körülmény következtében a szerződés változatlan feltételek melletti teljesítése lényeges jogi érdekét
+sértené, és a körülmények megváltozásának lehetősége a szerződés megkötésének időpontjában nem volt
+előrelátható; a körülmények megváltozását nem ő idézte elő; és a körülmények változása nem tartozik rendes üzleti
+kockázata körébe (Ptk. 6:192. §).
+[46] Az Alkotmánybíróságnak a támadott szabályozással összefüggésben tehát azt kellett vizsgálnia, hogy a módosítás
+elfogadásakor (2015. december) előálltak-e olyan körülmények, amelyek a tartós szerződéses jogviszonyokba
+való jogszabállyal történő beavatkozást szükségessé tették, és annak feltételit a jogalkotó, illetve a törvényjavaslat
+előterjesztője igazolta-e, ennek ismeretében a szabályozás ellentétes-e az Alaptörvény M) cikk (2) bekezdésében
+foglaltakkal.
+[47] A Módtv. javaslatának indokolása a Fétv. támadott rendelkezésének módosítására vonatkozóan az alábbiakat
+tartalmazza.
+„A törvény célja, hogy a hosszú távra kötött haszonbérleti szerződésekben a haszonbér módosításának jogát
+a törvény a Fétv. korábban elfogadott módosításához képest még megfelelőbben, és a felek érdekei közti
+egyensúly még hatékonyabb megteremtésével biztosítsa. […] Ennek egyik alapvető eleme; hogy a törvény
+nemcsak a haszonbérleti díj emelését, hanem annak csökkentését is lehetővé teszi annak érdekében, hogy ne csak
+a díjnövekedést mutató piaci folyamatokhoz, hanem adott esetben a díjcsökkentés felé mutató piaci folyamatokhoz
+is igazodni lehessen.
+Továbbá a haszonbérleti díj módosításának lehetősége eleve csak a hosszú távra kötött, vagyis legalább
+10 éves időtartamú szerződéseknél állna fenn (ideértve azt az esetet is, mikor meghosszabbítás folytán haladja
+meg a szerződés ezt az időtartamot), és a kiszámíthatóság érdekében a díjmódosítás a szerződéskötést
+(meghosszabbítást) követő 5 év elteltével, illetve azt követően 5 évente lehetne kezdeményezni és mindezt csak
+akkor, ha a szerződésből még 5 év van hátra. Ugyanakkor a törvény nem zárja el a feleket attól, hogyha ez mindkét
+fél érdekében áll, akkor ezen időtartamoknál rövidebb időtartamban is megállapodjanak [50/A. § (6) bekezdés].
+A díjmódosítási lehetőség továbbá nem a tulajdonosváltáshoz kötődik, hanem általában minden haszonbérbe adó,
+illetve haszonbérlő számára lehetőségként áll fenn, hiszen a haszonbérleti díj piaci mértékűre való módosításának
+igénye nemcsak a haszonbérleti szerződésbe belépő új tulajdonos, hanem általában minden haszonbérbe adó,
+valamint természetesen minden haszonbérlő részéről felmerülhet.”
+Az igazságügyi miniszter az Alkotmánybíróság megkeresésére adott állásfoglalásában előadta, hogy
+a Fétv. támadott módosítása lehetővé teszi azt, hogy a hosszú távra kötött haszonbérleti szerződésekben foglalt
+haszonbérleti díj piaci körülményekhez való igazítása érdekében – meghatározott időközönként – az a fél, akinek
+ez érdekében áll, kezdeményezhesse a haszonbérleti díj módosítását. A törvénymódosítás tehát figyelembe veszi
+az ellenérdekű fél méltányos érdekeit is a bírósághoz fordulás, illetve a szerződés felmondásának biztosítása által.
+Az állásfoglalás szerint a szabályozás azt célozta, hogy függetlenül az egyes haszonbérleti szerződések tartalmától,
+általánosan álljon rendelkezésre egy, mindkét szerződő fél érdekeit figyelembe vevő lehetőség arra, hogy
+az érdekelt fél kezdeményezhesse a haszonbérleti szerződés alapvető elemét képező haszonbérleti díj rendszeres
+felülvizsgálatát és újratárgyalását annak érdekében, hogy annak mértéke igazodhasson a gazdasági környezet
+időközi változásához.
+A törvényjavaslat előterjesztője (a Nemzeti Agrárgazdasági Kamara elnöke) az Alkotmánybíróság megkeresésére
+adott válaszában arra hivatkozott, hogy a haszonbérleti szerződésekre vonatkozó speciális szabályozás alapvető
+indokát a haszonbérlet szabályozásával összefüggő sajátos birtokpolitikai és gazdálkodási érdekek jelentik.
+Hangsúlyozta, hogy a mezőgazdasági termeléshez kapcsolódó birtokpolitikai és gazdaságpolitikai prioritások
+egyik sarkalatos pontja a jogszerű földhasználat tartósságának védelme, amely nem járhat a piaci szereplők közötti
+egyenlő versenyfeltételek sérelmével.
+A törvényjavaslat előterjesztője utalt arra, hogy tartós jogviszonyok esetében reálisan számolni kell azzal, hogy
+a jogviszony időtartama alatt a gazdasági élet bármely területén bármikor olyan változás következik be, amely
+a felek méltányos érdekeit érintheti.
+
+A törvényjavaslat előterjesztője rámutatott arra, a haszonbérletek esetében speciális körülmények azonosíthatók,
+melyek jellemzőit az alábbiak szerint foglalta össze:
+– az állami földekre a 20, illetve egyes esetekben az 50 évre szóló, és 2015 decemberében még hatályban lévő
+haszonbérleti szerződések döntő hányadát még az EU csatlakozás előtt kötötték,
+– az állami tulajdonban lévő földekre 2004. előtt kötött haszonbérleti szerződésekben döntően fix összegű
+(kezdetben egységesen 580 Ft/AK, illetve később 1230 Ft/AK), illetve inflációkövető haszonbérleti
+díjemelésekben állapodtak meg, mely összegek a szerződéskötés időpontjában többnyire tükrözték
+az aktuális földbérleti díjak piaci értékét,
+– 2003 végéig bizonytalan volt, hogy 2004-től kezdődően az ún. SPS (támogatásijogosultság-alapú) vagy
+a SAPS-TopUp (földhasználati alapú) támogatás kerül-e bevezetésre, melynek annyiban van jelentősége,
+hogy mindkét támogatási rendszer más-más prioritásokon alapul, így a földpiacra gyakorolt hatásuk is eltérő
+lett volna,
+– az EU közös agrárpolitikája – a költségvetési időszakokhoz igazodóan – 7 éves ciklusokra oszlik.
+Magyarország számára ezek a ciklusok az alábbiak szerint alakultak: 2004–2006, 2007–2013, 2014–2020.
+Ezen ciklusokon belül jellemzően megváltoztak a támogatási prioritások is, amelyek közvetlenül érintették
+a földhasználathoz kapcsolódó támogatások mértékét, az igénybevétel feltételeit.
+A fenti állítások alátámasztására a törvényjavaslat előterjesztője megküldte az Alkotmánybíróságnak a Központi
+Statisztikai Hivatal, az Agrárgazdasági Kutatóintézet, valamint a Mezőgazdasági és Vidékfejlesztési Hivatal által
+a tárgyban készített részletes kimutatásokat.
+A törvényjavaslat előterjesztője kiemelte, hogy a haszonbérleti díjak alakulása nem az infláció alakulásával, hanem
+a föld árakkal, illetve a föld alapú közösségi és nemzeti forrásból nyújtott támogatásokkal van összefüggésben.
+Ebben a körben utalt arra is, hogy az EU csatlakozást követően – jellemzően a közösségi forrásokból nyújtott
+támogatások növekedésével összhangban – a haszonbérleti díjak mértékének alakulása teljesen elszakadt
+az inflációtól.
+A törvényjavaslat előterjesztője utalt arra is, hogy a területalapú (SAPS) támogatás összege a 2004. évi 16 311 Ft/ha
+összegről 2014-re 69 085,14 Ft/ha összegre emelkedett. A magántulajdonban lévő földekre kötött haszonbérletek
+esetében a haszonbérleti díj mértéke jellemzően a területalapú támogatások összegének meghatározott
+százalékához köthető. Ezért támogatási szempontból méltányos, hogy a jogalkotó a 10. évet köthető időszak
+esetében lehetőséget ad a feleknek arra, hogy a haszonbérleti díjakat a piaci mértékhez igazítsák, azon esetekben
+pedig, ahol a haszonbérleti díj mértékének megállapítása fix összegben került megállapításra, illetve annak
+változtatására nem a piaci viszonyok alapján, hanem csak az inflációra hivatkozással, annak mértékéig kerülhet sor,
+a szerződés változatlan tartalommal történő fenntartása – annak hosszú távú jellege miatt – sérti a haszonbérbe adó
+jogait.
+A törvényjavaslat előterjesztője továbbá előadta, hogy a Nemzeti Földalap (a továbbiakban: NFA) az állami tulajdonú
+földekre a hosszú távú haszonbérleti szerződéseket döntően még az EU csatlakozást megelőző 3–5 évben kötötte
+meg, amikor még nem volt egyértelmű a csatlakozás időpontja, a csatlakozás feltételei, a földforgalmi szabályok
+konkrét feltételei, továbbá, hogy a föld árának, illetve a haszonbérleti díj összegének alakulása mennyiben lesz
+támogatásfüggő. Hivatkozott továbbá arra, hogy az NFA által megkötött haszonbérleti szerződések egy részét
+hosszú távra (20–50 év) kötötték meg, ilyen környezetben pedig az állami szervtől sem várható el, hogy a piaci
+viszonyok alakulását a teljes időtávra lemodellezze. A Módtv. miniszteri indokolása a fentiekkel összefüggésben
+kifejezetten rögzíti, hogy „a törvény célja, hogy a hosszú távra kötött kötött haszonbérleti szerződésekben
+a haszonbér módosításának jogát a törvény a Fétv. korábban elfogadott módosításához képest még megfelelőbben,
+és a felek érdekei közötti egyensúly még hatékonyabb megteremtésével biztosítsa. Ennek egyik alapvető eleme,
+hogy a törvény nemcsak a haszonbérleti díj emelését, hanem annak csökkentését is lehetővé teszi annak érdekében,
+hogy ne csak a díjnövekedést mutató piaci folyamatokhoz, hanem adott esetben a díjcsökkentés felé mutató piaci
+folyamatokhoz is igazodni lehessen”.
+[48] A törvényjavaslat előterjesztője kiemelte, hogy a jogszabály megalkotására többek között a „Földet a gazdáknak”
+Program (a továbbiakban: Program) végrehajtását segítő jogi helyzet kialakítása miatt került sor. A kormány
+2015 végén jelentette be, hogy birtokpolitikai megfontolásokból a Program keretében az állami tulajdonban
+lévő földek egy részét értékesíteni kívánja. A Program keretében földet vásárlók száma a 30 ezret meghaladta,
+az így értékesítésre kerülő földek döntő hányada hosszú távú haszonbérlettel terhelt, vagyis álláspontja szerint
+a szabályozás hatása társadalmi méretűnek tekinthető, mivel a regisztrált földművesek több mint egyharmadára
+terjed ki. Az Alkotmánybíróság emlékeztet rá, hogy a 27/2017. (X. 25.) AB határozatában – utólagos normakontroll
+
+hatáskörben eljárva – a Programról szóló 26/2016. (X. 27.) OGY határozat alaptörvény-ellenességének
+megállapítására és megsemmisítésére irányuló indítványt visszautasította.
+[49] Az Alkotmánybíróság hangsúlyozza, hogy az Abh1.-ben a Fétv. jelen ügyben is támadott rendelkezéseivel
+összefüggésben kimondta, hogy bizonyos esetekben pusztán az időmúlás következtében, a piaci viszonyokban
+bekövetkező változások okán szükségessé válhat olyan, elsődlegesen a felek gazdasági érdekeivel összefüggő,
+alkotmányosan is igazolható körülmény, amely a haszonbérleti díj tekintetében korábban létrejött megállapodások
+bizonyos időközönkénti felülvizsgálatát, módosítását indokolja. A Fétv. vizsgált rendelkezései éppen ezen
+(kényszerű) szerződésmódosításokkal összefüggő, mind tartalmi (a helyben szokásos piaci viszonyokhoz kötöttség),
+mind eljárási (igazságügyi szakértői vélemény kötelező előírása, bírósági díjmeghatározás) szempontból garanciális
+elemeket tartalmazó szabályokat állapítják meg. A Fétv. vizsgált, a hatálybalépésük előtt már létrejött tartós
+jogviszonyokra irányadó szabályai a haszonbérleti díj módosítása körében egy olyan új jogosultságot biztosítanak
+a szerződő felek számára, amellyel azok mindegyike élhet {Abh1., Indokolás [65], [72]}.
+[50] Az Alkotmánybíróság ismételten rámutat, hogy a támadott Fétv.-beli szabályozás alapján a haszonbérleti díj
+módosítása kezdeményezésének lehetősége a tulajdonosváltás tényétől függetlenül minden haszonbérbeadó,
+illetve minden haszonbérlő számára adott, a jogszabályban meghatározott 20%-os eltérés nincs pozitív vagy
+negatív irányban meghatározva. Ha az ellenérdekű fél a kezdeményezéssel nem ért egyet, de a szerződés
+felmondására nincs lehetőség (az eltérés nem éri el a 20%-ot, vagy ha az érintett nem kíván élni a szerződés
+felmondásának jogával), a 30 napos határidőn belül a bíróságtól kérheti a piaci haszonbérleti díj meghatározását.
+Amennyiben a bíróság által meghatározott haszonbérleti díj mértéke a korábbi haszonbérleti díj mértékétől
+legalább 20%-kal eltér, az ellenérdekű fél a bíróság döntésének jogerőre emelkedésétől számított 30 napos
+határidőn belül a haszonbérleti szerződést felmondhatja. Az Alkotmánybíróság úgy ítélte meg, hogy a szabályozás
+figyelemmel van az ellenérdekű felek érdekeire, továbbá a szerződés megváltozott tartalmával (haszonbérleti díj
+meghatározása) összefüggésben biztosítja számukra a bírósághoz fordulás jogát.
+[51] Megjegyzi az Alkotmánybíróság, hogy a Fétv. támadott rendelkezései csak a haszonbérleti díj módosítására
+vonatkozó speciális szabályokat tartalmaznak. Ebből következően a szerződés egyéb elemeinek módosítására
+vonatkozóan – elvileg – a Ptk. általános, szerződésmódosításra vonatkozó szabályait kell alkalmazni, amelyek
+a Ptk. 6:58. § (2) bekezdése alapján diszpozitív rendelkezések. Mindezen értelmezési keretek kialakítása ugyanakkor
+az ítélkező bíróságok feladata.
+[52] A támadott rendelkezések, vagyis a már megkötött tartós szerződések tartalmának módosításra vonatkozóan,
+annak indokaként tehát a jogalkotó, az igazságügyi miniszter, illetve a törvényjavaslat előterjesztője hivatkozott
+a körülmények előre nem látható megváltozására, bemutatta, hogy a megváltozott gazdasági környezetben
+a haszonbérleti díjak piaci mértékhez való igazításának kizárása miért okozhat érdeksérelmet, továbbá alappal
+hivatkozott a körülmények megváltozásának társadalmi méretűségére, illetve arra, hogy a haszonbérleti
+szerződések esetében a szerződéses és a piaci haszonbérleti díjak közötti 20%-os eltérés a normális kockázatvállalás
+részének tekinthető, míg az ezt meghaladó mérték jellemzően már olyan piaci körülményeket feltételez, amelyek
+észszerű kockázatvállalás mellett már nem prognosztizálhatóak.
+[53] Mindezek alapján az Alkotmánybíróság megállapította, hogy a tartós szerződéses kapcsolatok jogszabály útján
+történő módosításának feltételeit a jogalkotó, az igazságügyi miniszter, illetve törvényjavaslat előterjesztője
+igazolta, és annak indokait az Alkotmánybíróság jelen esetben megalapozottnak találta. Erre tekintettel
+az Alkotmánybíróság megállapította, hogy a Fétv. 50/A. §-ában foglalt rendelkezések, valamint ehhez kapcsolódóan
+a díjmódosítás kezdeményezéséhez szükséges időtartam számítására vonatkozó szabályokat tartalmazó 110/A. §-a
+nem sértik a szerződési szabadság alkotmányos követelményét, ezáltal nem ellentétesek az Alaptörvény M) cikk
+(2) bekezdésében foglaltakkal, ezért az indítványt ebben a részében elutasította.
+[54] 5. A Ptké. 53/C. § alaptörvény-ellenességét illetően az indítványok a polgári jogi dogmatika megsértése révén
+a normavilágosság követelményének, ezáltal az Alaptörvény B) cikk (1) bekezdésének sérelmére hivatkoznak.
+Az indítványok szerint a támadott rendelkezés a szerződésátruházás joghatását akként határozza meg, hogy
+az eredeti szerződő felek a szerződést megszüntetik, ezzel egy időben a szerződésben maradó fél a belépő féllel új
+szerződést köt, méghozzá az eredetivel azonos tartalommal, ami ellentétes a Ptk. szerződésátruházással kapcsolatos
+rendelkezéseivel.
+
+[55] Az indítványozó1. által a Módtv. egészét illetően a sarkalatos törvényi jellegből fakadó közjogi érvénytelenségre
+történő indítványozói hivatkozás a Ptké. szabályává vált rendelkezés tekintetében nem értelmezhető, ezért azt
+az Alkotmánybíróság érdemben nem vizsgálta.
+[56] 6. A szerződésátruházás a 2014. március 15-én hatályba lépett új Ptk. jogintézménye, célja a teljes szerződéses
+pozíció (jogok és kötelezettségek) átruházása. Az új Ptk.-nak a szerződésátruházásra vonatkozó miniszteri
+indokolása rögzíti, hogy „a kódex a magyar magánjogban először ad tételes szabályokat a szerződésátruházás
+jogintézményére.”Az indokolás továbbá rámutat, hogy„a Ptk. nem rendelkezik arról, hogy maga a szerződési pozíció
+átruházható-e. Míg az engedményezés és a tartozásátvállalás eredményeként kizárólag a kötelem jogosulti illetve
+kötelezetti pozíciójában következik be jogutódlás, addig a szerződésátruházás arra teremti meg a lehetőséget, hogy
+az egyik szerződő fél a teljes szerződési pozícióját átruházza egy harmadik személyre. Az átruházás eredményeként
+az eredeti szerződő fél szabadul a jogviszonyból, amely a szerződésbe belépő fél és az eredeti szerződés másik fele
+között marad fenn.”Az indokolás hangsúlyozza, hogy e kérdésben a bíró gyakorlat sem volt egységes.
+[57] „A szerződésátruházás szabályozásával megteremti a Ptk. a szerződési pozíció átruházásának a lehetőségét és
+a feltételeit. A szerződésátruházás egy sui generis háromoldalú szerződés az eredeti jogviszony alanyai (átruházó és
+kötelezett) és az átvállaló között. A szerződésátruházás eredményeképpen a szerződésbe belépő fél a szerződésből
+kilépő fél szerződési pozíciójába lép be. Mivel a szerződési pozíció nem más, mint jogok és kötelezettségek
+összessége, a szerződésbe belépő felet mindazok a jogok megilletik és mindazok a kötelezettségek terhelik,
+amelyek a szerződésből kilépő felet megillették, illetve terhelték. A szerződésátruházás gazdasági jelentőségét
+az adja, hogy a jogok mellett a kötelezettségek tekintetében is tiszta helyzetet teremt: a szerződésből kilépő fél
+minden kötelemből szabadul. A szerződésbe belépő félre szállnak át a szerződésátruházást megelőzően keletkezett
+kötelezettségek, így a szerződésbe belépő fél lesz felelős a szerződésből kilépő fél által okozott károkért is.”, áll
+az indokolásban.
+[58] A szerződésátruházás alapulhat szerződésen és jogszabályon. A jogszabályon alapuló szerződésátruházás
+esetére mond ki a Ptké. módosítása egy értelmezést tartalmazó rendelkezést, amely lehetővé teszi, hogy
+a Ptk. hatálybalépése előtt kötött szerződések esetében, ha valamennyi jog és kötelezettség jogszabály
+rendelkezése alapján átszáll, akkor ezt jogszabályon alapuló szerződésátruházásnak kell tekinteni. Ennek
+következtében az eredeti szerződő felek között a szerződés megszűnik, és az új szerződő felek között jön létre
+a korábbi tartalommal, külön jogi aktus nélkül [Ptké. 53/C. § (1) és (2) bekezdés].
+[59] Az Alkotmánybíróság megjegyzi, hogy a jogalkotó az indítványozó1. indítványának benyújtását követően
+– 2016. július 1-i hatállyal – a 2016. évi LXXVII. törvénnyel részben módosította a szerződésátruházás Ptk.-beli
+szabályait, amely körülményre az indítványozó2. is hivatkozott. Míg a korábbi szabályozás [vö. Ptk. 6:208. §
+(3) bekezdés] az alapul fekvő szerződéshez kapcsolódó biztosítékok tekintetében általános jelleggel rögzítette,
+hogy ezek a szerződés átruházásával megszűnnek, a módosítás következtében a törvény javaslatához fűzött
+miniszteri indokolás értelmében: „A Ptk. főszabálya szerint a szerződésátruházással a szerződés biztosítékai
+megszűnnek. A gyakorlati tapasztalatok ugyanakkor azt mutatják: nem indokolt, hogy a szerződésátruházással
+átszálló jogosultságok alapjául szolgáló kötelezettségeket biztosító biztosítékok megszűnjenek. A biztosíték
+nyújtójának helyzetét ugyanis nem befolyásolja, nem teszi terhesebbé a biztosíték jogosultjának személyében
+bekövetkező változás. A biztosíték megszűnése viszont szerződésbe belépő új jogosult számára hátrányos lenne.
+A szerződésátruházással összefüggésben csak akkor indokolt, hogy a biztosíték megszűnjön, ha az alanyváltozás
+a szerződésből származó kötelezettség tekintetében következik be. Ez utóbbi esetben ugyanis a biztosíték nyújtója
+számára nem közömbös az, hogy kit terhel az a kötelezettség, amelyért az által nyújtott biztosítékkal helyt kell
+állnia. Ezért a törvény alapján a szerződésátruházás következtében csak akkor szűnik meg a biztosíték, ha az az
+átruházott pozícióval járó kötelezettséget biztosít, és a biztosíték nyújtója a szerződésátruházáshoz nem járul
+hozzá. A módosítás következtében elhagyásra került a Ptk. azon rendelkezése is, amely szerint a zálogkötelezett
+hozzájárulása esetén az új zálogjog az eredeti zálogjog ranghelyén jön létre. A szerződésátruházással tehát
+a biztosíték vagy fennmarad, vagy megszűnik, és még akkor sem újul meg, hanem tovább él, ha a fennmaradására
+a biztosítéknyújtó hozzájárulása következtében kerül sor.”
+
+[60] A módosítás következtében tehát a jogalkotó a szerződés biztosítékai esetében egy sajátos „továbbélési” helyzetet
+teremt.
+[61] 7. A Ptké. vizsgált 53/C. § (1) bekezdésének rendelkezése szerint abban az esetben, ha a Ptk. hatálybalépése
+előtt kötött szerződésből származó valamennyi jog és kötelezettség a Ptk. hatálybalépését követően jogszabály
+rendelkezése alapján száll át másra, úgy erre a Ptk. 6:211. §-át kell alkalmazni.
+[62] A Ptk. 6:211. §-a szerint „[h]a valakinek egy szerződésből származó valamennyi joga és kötelezettsége jogszabály
+rendelkezése folytán száll át másra, a szerződésátruházás szabályait kell megfelelően alkalmazni.”
+[63] A vizsgált rendelkezés a Ptk. 6:211. §-ának (szerződésátruházás jogszabály rendelkezése alapján) konkretizálása
+a Ptk. hatálybalépése előtt kötött szerződésekre, ami önmagában funkciótlan, mivel a Ptké. 1. §-a szerint, ha
+e törvény eltérően nem rendelkezik, a Ptk. rendelkezéseit a hatálybalépését követően keletkezett tényekre és
+jogviszonyokra, valamint megtett jognyilatkozatokra kell alkalmazni. Ebben a vonatkozásban pedig a jogátruházást
+lehetővé tevő jogszabály alapján megtett jogcselekmény időpontjának, nem pedig az átruházandó szerződés
+megkötése időpontjának van jelentősége. (A Fétv. 50/A. §-a az általánoshoz képest speciális szabályt állapít
+meg a haszonbérleti szerződések esetére.) Ugyanakkor a támadott szabályozásnak az a következménye – mivel
+a szerződésátruházás szabályait nem specifikusan csak a föld haszonbérleti szerződésekre, hanem minden olyan
+esetre alkalmazni rendeli, amikor a szerződésátruházás fogalmilag lehetséges –, hogy a jogszabály rendelkezése
+folytán bekövetkezett szerződés átruházások esetén elvileg valamennyi, a szabályozás által érintett szerződés
+a szabályozás hatálya alá került.
+[64] Ugyanakkor hangsúlyozandó, hogy jogszabály rendelkezése alapján szállnak át a jogok és a kötelezettségek
+természetes személyek esetén az örökléssel [Ptk. 7:1. §], jogi személyek esetén a jogutódlással [Ptk. 3:39. §
+(1) bekezdés], továbbá bérleti szerződés esetén, ha a bérbeadó a szerződés megkötését követően a bérbe adott
+dolog tulajdonjogát átruházza [Ptk. 6:340. § (2) bekezdés].
+[65] A magánjogi kötelmi jogviszonyok a szerződő fél halálával vagy a jogutódlással – főszabály szerint – nem szűnnek
+meg. A kötelembe a Ptk. 7:1. §-a, illetve a 3:39. § (1) bekezdése alapján a jogutód belép, a kötelem a korábbi és
+az új jogalany között tovább él. Az öröklés az elhunyt tulajdonos vagyonában bekövetkező egyetemes (universalis)
+jogutódlás, amellyel a jogutód a vagyont vagy annak meghatározott hányadát mint egészet szerzi meg aktívákkal
+és passzívákkal együtt. Jogi személy más típusú jogi személlyé történő átalakulása esetén az átalakuló jogi személy
+megszűnik, jogai és kötelezettségei az átalakulással keletkező jogi személyre mint általános jogutódra szállnak át.
+[66] Mivel a Ptk. 6:211. §-a a szerződésátruházásra vonatkozó előírásokat hívja fel arra az esetre is, ha egy kötelmi
+pozícióban jogszabályi előírás alapján következik be alanyváltozás, így a jogszabályi alanyváltozás ezen esetkörei is
+elviekben a szabályozás tárgyi hatálya alá kerültek.
+[67] 8. A Módtv. javaslatának indokolása a Fétv. 110/A. §-ává vált rendelkezéshez kapcsolódóan mondja ki azt,
+hogy a haszonbérleti díj módosítására akkor kerülhet sor, ha „a módosítás hatályba lépését követően, az adott
+föld tulajdonjogának átruházása folytán a haszonbérbe adó tulajdonos személyében változás következett be.
+Tulajdonosváltás esetében ugyanis az új Ptk. azon – a haszonbérletre is irányadó – rendelkezése, mely szerint, ha
+a haszonbérbeadó a bérleti szerződés megkötését követően a haszonbérbe adott dolog tulajdonjogát átruházza,
+a tulajdonos személyében bekövetkezett változással a haszonbérleti szerződésből fakadó jogok és kötelezettségek
+tekintetében az új tulajdonos lép a haszonbérbeadó helyébe, tulajdonképpen jogszabály alapján történő szerződés
+átruházást (Ptk. 6:211. §) jelent.”
+[68] A szerződési pozíció jogszabály alapján történő átszállására vonatkozóan a Ptk. kodifikációját előkészítő szakértői
+anyag tartalmaz megállapításokat. (Vékás szerk.: A Polgári Törvénykönyv magyarázatokkal. Complex, 2013,
+676. oldal) Eszerint szerződésátruházásnak minősülhet a Ptk.-ban a bérleti szerződés azon szabálya, amely szerint
+a bérleti szerződés átszáll a vevőre a bérlet tárgyának átruházása esetén, vagy az utazási szerződés esetén maga
+a Ptk. rendelkezik a szerződési pozíció (megrendelőként történő) átruházásának jogáról. Ilyen helyzetről azonban
+a Ptk.-n kívül számos más jogszabály is rendelkezik, amelyek ebben az összefüggésben csak a szerződésátruházás-
+jellegű tényállás háromoldalúságának hiányáról szólnak, vagyis arról, hogy az alanyváltozáshoz a „szerződésben
+maradó” fél hozzájárulására szükség nincsen. Így a pénzintézetek között a betétállomány és más visszafizetendő
+pénzeszközök elfogadásából származó jogi pozíció átruházható a betétesek hozzájárulása nélkül (a hitelintézetekről
+és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 17/A. §), a biztosítók között átruházható
+a biztosítási szerződésállomány a jogosultak hozzájárulása nélkül (a biztosítási tevékenységről szóló 2014. évi
+LXXXVIII. törvény 118–120. §), a befektetési szolgáltató szerződéses állománya átruházható az ügyfelek
+jóváhagyása nélkül (a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető
+tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 140. §). Tekintettel arra, hogy a szerződésátruházás
+
+annak alapesetében háromoldalú, a szerződésből kilépő, a szerződésben maradó és a szerződésbe belépő fél
+megállapodása, ha jogszabály rendelkezik a szerződésátruházásról, akkor a jogszabálynak arról is rendelkeznie kell,
+hogy a szerződésben maradó fél hozzájárulása szükséges-e az átszálláshoz.
+[69] A jogszabályon alapuló szerződésátruházást a hatályos Ptk. nem illeti önálló megnevezéssel. A Ptké. 53/C. §
+(2) bekezdése szerint azonban az ilyen, jogszabály általi szerződésátruházás esetén a korábbi szerződés
+– a szerződésből kilépő és a szerződésben maradó fél között – megszűnik, és a szerződésben maradó fél
+tekintetében az„átruházott”szerződést új szerződésnek kell tekinteni.
+[70] Az igazságügyi miniszter az Alkotmánybíróság megkeresésére adott jogi véleményében úgy foglalt állást, hogy
+„a jogszabályon alapuló szerződésátruházás jogi tartalma nem vitásan az, hogy, hogy a szerződésből kilépő és
+a szerződésben maradó fél tekintetében a szerződést megszűntnek, a szerződésbe belépő és a szerződésben
+maradó fél tekintetében pedig a szerződést az átszálló valamennyi jog és kötelezettség vonatkozásában
+a jogszabály rendelkezése alapján létrejött új szerződésnek kell tekinteni. Ez utóbbi rendelkezés teljes mértékben
+összhangban van a Ptk. szerződésátruházásra vonatkozó szabályaival, amellyel kapcsolatban nem vitatható,
+hogy a felek által kötött háromoldalú megállapodás eredményeként a szerződésátruházással – nováció útján –
+egyfelől a szerződésben maradó és a szerződésből kilépő fél közötti szerződés megszüntetésére, másfelől pedig
+a szerződésbe belépő, valamint a szerződésben maradó fél között új szerződés létrejöttére kerül sor az eredeti
+szerződésből eredő jogoknak és kötelezettségeknek megfelelő tartalommal.”
+[71] A Ptk. 6:208. § (2) bekezdése a szerződésátruházás joghatásai körében nem rendelkezik sem a szerződés
+megszűnéséről, sem pedig egy új – a korábbival azonos tartalmú – szerződés keletkezéséről, és nem tesznek
+erről említést a fentebb hivatkozott jogszabályhelyek sem. Ugyanakkor a Ptk. a szerződésátruházás joghatásai
+körében arról sem rendelkezik, hogy az alanyváltozással összefüggésben a szerződéses pozíció átruházása
+során a szerződéses jogviszony folytonos és változatlan marad. A szerződésátruházás joghatását tekintve a Ptké.
+támadott rendelkezési adnak eligazítást. A Ptké. a Ptk.-hoz szorosan kapcsolódó norma, amelynek szabályozási célja
+a szabályozási átmenet biztosítása a magánjogi kódexváltásra tekintettel.
+[72] Az Alkotmánybíróság nem kíván állást foglalni az indítvány által felvetett azon dogmatikai kérdésben, hogy
+jogutódlást (másképpen fogalmazva a kötelem fennmaradását) vagy novációt (a felek közötti korábbi szerződés-
+megszűnését és új szerződés létrehozását) eredményez-e a szerződésátruházás, figyelemmel arra, hogy magának
+a novációnak a fogalma sem tisztázott a jogirodalomban és ebben a kérdésben a magánjogi jogtudomány is
+megosztott. A jogalkotó ugyanakkor ezt a dogmatikai kérdést eldöntötte, amikor erre a szerződéses konstrukcióra
+novációként tekint, amelyet az igazságügyi miniszter az Alkotmánybíróság megkeresésére adott jogi véleményében
+megerősített. A támadott Ptké.-beli értelmezést a jogalkalmazó szerveknek tehát magukra nézve irányadónak kell
+tekinteniük. Az Alkotmánybíróság ugyanakkor hangsúlyozza, hogy a nováció jogi természetére vonatkozóan sem
+a Ptk., sem a Ptké. nem tartalmaz kifejezett rendelkezést.
+[73] Az Alkotmánybíróság emlékeztet rá, hogy a polgári törvénykönyv 1913. évi tervezete (a továbbiakban: Tj.) az egyéb
+megszűnési okok között szabályozta volna az újítást. Ennek indokolása a következő:
+„I. Újítás. A Tj. szerint újítás forog fenn, ha a felek a követelést ugyanazon szolgáltatásra irányuló, de más jogalapon
+nyugvó új követeléssel helyettesítik, hatása pedig abban áll, hogy a régi követelés az újnak keletkezésével
+megszűnik (1045. §).
+Újítás alatt a Tj. csak a személycsere nélküli novatiót érti. Azt a novatiót, melynél a hitelező vagy az adós
+személye változik – delegatio, expromissio – külön nem szabályozza, mert azt tartja, hogy a gyakorlati szükséget
+az engedmény, tartozásátvállalás és utalvány jogintézményei is kielégítik. Nem lehet azonban kétség afelől, hogy
+a felek, ha jónak látják, a közöttük fennálló jogviszonyt olyan módon is megszüntethetik, hogy helyébe más hitelező
+javára vagy más adós terhére megalapított új kötelem lépjen.” (Képviselőházi irományok, 1910. XXXIII. kötet,
+131–133. oldal)
+[74] Az 1928. évi Magánjogi Törvényjavaslat az újítást az „Újítás. Elengedés. Egyesülés.” című fejezetben szabályozta
+a következők szerint:
+„I. Újítás.
+1278. §. Ha a felek a követelést ugyanolyan szolgáltatásra irányuló, de más jogalapon nyugvó új követelésre
+változtatják át (újítás), a régi követelés az újnak keletkezésével megszűnik, Az újítás szándékát nem lehet vélelmezni.
+1279. §. Semmis jogügyletből származtatott követelést nem lehet megújítani. Bírói úton nem érvényesíthető
+követelés megújítása esetében az új követelést sem lehet bírói úton megújítani.
+
+1280. §. A régi követelést biztosító kezesség, zálogjog és jelzálogjog ellenkező megállapodás hiányában az új
+követelés biztosítására is szolgál, amennyiben ez a régit a szolgáltatás terjedelme tekintetében meg nem haladja.
+A kezes és a zálognak vagy a jelzálognak a kötelmi viszonyon kívül álló tulajdonosa a régi követelésnek ellenvethető
+kifogásait az új követeléssel szemben is érvényesítheti, hacsak az újításhoz hozzá nem járult.” (Képviselőházi
+irományok, 1927. VIII. kötet, 341–342. o.)
+[75] A régi Ptk. miniszteri indokolása kimondja, hogy „[a] szerződés megújítása úgy, ahogy azt a bírói gyakorlatunk
+kialakította, voltaképpen nem a tartalom módosításának, hanem a kötelem megszűnésének és új kötelemmel való
+felváltásának volt az eszköze; minthogy azonban a lényege abban áll, hogy a felek a követelés jogalapját változtatják
+meg, ezzel voltaképpen a szerződés módosul. A javaslat nem is tekinti ezt a szerződés megszüntetésének és
+megújításának, hanem csupán jogcíme megváltozásának.” (A Magyar Népköztársaság Polgári Törvénykönyve,
+Budapest 1963, Közgazdasági és Jogi Könyvkiadó, 265. oldal).
+[76] „A XXII. fejezet a szerződés tartalmának és jogcímének módosításáról rendelkezik, az egyéb okból, pl. a szerződő
+felek személyének megváltozásával (engedmény, tartozásátvállalás), vagy szerződésszegés folytán bekövetkező
+módosulás már nem esik e fejezet körébe. A szorosan vett tartalomváltoztató szerződés mellett ez a fejezet
+tartalmazza a korábbi jogunkban a szerződés megújításaként ismert esetet (novatio), továbbá az egyezséget és
+a tartozáselismerést is.”(Országgyűlési irományok, 1958. I. kötet, 250–251. oldal)
+[77] Egyes jogrendszerek szerződésszüntető körülményként tárgyalják az újítás (novatio) esetét is, a szerződés
+jogcímének változásából eredő jogi következményekről a javaslat viszont – a XXII. fejezethez fűzött indokolásában
+mondottak alapján – „A szerződés módosítása” című fejezetben rendelkezik (239. §). (Országgyűlési irományok,
+1958. I. kötet, 295. oldal)
+[78] 9. A Ptké. 53/C. § (2) bekezdésébe foglalt, a jogalkotó által értelmező jellegűnek tartott szabály csak a jogszabály
+rendelkezése alapján bekövetkező szerződésátruházás eseteire vonatkozik, és a tartalma (megszűnés, illetve
+új szerződésnek tekintés) folytán alapvetően különbözteti meg egymástól a felek megállapodásán alapuló és
+a jogszabály rendelkezése alapján végbemenő szerződésátruházásnak tekintett tényállásokat.
+[79] A Ptké. vizsgált rendelkezése alapján tehát, ha a Ptk. hatálybalépése előtt kötött bármely szerződés esetében
+a szerződésből származó valamennyi jog és kötelezettség a Ptk. hatálybalépését követően jogszabály rendelkezése
+alapján száll át valamely más jogalanyra, akkor a korábbi szerződést megszűntnek kell tekinteni, és az „új” szerződő
+fél tekintetében egy új szerződés létrejöttét kell megállapítani. Ilyen rendelkezés a felek megállapodásán alapuló
+szerződésátruházás esetében nem érvényesül. Mindezen túlmenően a rendelkezés szükségképp hatással van
+a Ptk.-n kívüli – többek között a fentiekben hivatkozott – külön jogszabályok alapján történő szerződésátruházások
+eseteire is, mivel más helyzet állhat elő a módosítás hatálybalépése előtt ugyanazon jogszabály alapján végbement,
+illetve azt követően végbemenő, jogszabály általi„szerződésátruházások”tekintetében.
+[80] A szerződésátruházás annak a lehetőségét teremti meg, hogy az egyik szerződő fél a teljes szerződési pozícióját
+átruházza egy harmadik személyre. Az átruházás következtében az eredeti szerződő fél szabadul a jogviszonyból,
+amelynek következtében az a szerződésbe belépő fél és az eredeti szerződés másik fele között marad fenn. Mivel
+a szerződésátruházás eredményeképpen a szerződésbe belépő fél a szerződésből kilépő fél szerződési pozíciójába
+kerül, ennek következtében a jogviszony szabályozása alapvető jelentőségű a kötelmi és a felelősségi viszonyok
+(öröklés, jogutódlás, a tulajdonos személyében bekövetkező változás a bérleti szerződéseknél) átláthatósága és
+kiszámíthatósága körében.
+[81] Ezt tovább fokozza, hogy a szerződésátruházás alapjául szolgáló ügyletre vonatkozóan sem a Ptk., sem a Ptké. nem
+tartalmaz kifejezett formai előírást, ebből következően a szerződéses pozíció átruházásra irányuló szerződés
+létrejöhet szóban, írásban és ráutaló magatartással is.
+[82] 10. Az ismertetett szabályozási hiányosságok – figyelemmel arra is, hogy a jogalkotó csak a mezőgazdasági
+haszonbérletek estében állapított meg a szerződésátruházással összefüggő részletes szabályokat – a jogalkalmazó
+szervek számára értelmezési nehézséget okozhatnak a támadott Ptké.-beli rendelkezésekkel összefüggésben. Ezt
+a bizonytalanságot tovább erősíti, hogy a Ptké. 53/C. § (2) bekezdésébe foglalt szabály a vonatkozó előírásokat
+a szerződésmódosítás diszpozitív szabályaival szemben lényegében kógens rendelkezésekként szabályozza.
+
+[83] Az Alkotmánybíróságnak következetes a gyakorlata a tekintetben, hogy „[a] jogállam nélkülözhetetlen eleme
+a jogbiztonság. A jogbiztonság az állam – s elsősorban a jogalkotó – kötelességévé teszi annak biztosítását, hogy
+a jog egésze, egyes részterületei és az egyes jogszabályok is világosak, egyértelműek, működésüket tekintve
+kiszámíthatóak és előreláthatóak legyenek a norma címzettjei számára. Vagyis a jogbiztonság nem csupán az egyes
+normák egyértelműségét követeli meg, de az egyes jogintézmények működésének kiszámíthatóságát is. Ezért
+alapvetőek a jogbiztonság szempontjából az eljárási garanciák. Csak formalizált eljárás szabályainak követésével
+keletkezhet érvényes jogszabály, csak az eljárási normák betartásával működnek alkotmányosan a jogintézmények”
+{9/1992. (I. 30.) AB határozat, ABH 1992, 59, 65.; 33/2014. (XI. 7.) AB határozat, Indokolás [32], 8/2017. (IV. 18.)
+AB határozat, Indokolás [48]}.
+[84] Az Alkotmánybíróság hangsúlyozza, hogy a jogalkotó feladata annak számbavétele, hogy a szerződésátruházás,
+azon belül a jogszabályon alapuló szerződésátruházás mint az új Ptk. jogintézménye, mely a Ptk. hatálya alá tartozó,
+illetve azon kívüli szerződéses jogviszonyokat érint és ennek ismeretében a vonatkozó részletszabályok kialakítása
+szintén a jogalkotó feladata. A szabályozás kialakítása során – tekintettel a két törvény közötti funkcionális
+viszonyra – fokozott figyelemmel kell lennie a jogalkotónak arra, hogy a vagyoni forgalom körébe tartozó magánjogi
+jogviszonyok áttekinthetőek legyenek, tekintettel az egyes jogintézmények működésének kiszámíthatóságára és azt
+ezt célzó garanciális előírásokra.
+[85] 11. Az Abtv. 46. § (1) bekezdése felhatalmazza az Alkotmánybíróságot, hogy ha a hatáskörei gyakorlása során
+folytatott eljárásában a jogalkotó általi mulasztással előidézett alaptörvény-ellenesség fennállását állapítja meg,
+a mulasztást elkövető szervet – határidő megjelölésével – felhívja feladatának a teljesítésére. A törvényhely
+(2) bekezdésének c) pontja alapján a jogalkotói feladat elmulasztásának minősül, ha a jogi szabályozás
+Alaptörvényből levezethető lényeges tartalma hiányos.
+[86] Úgy ítélte meg az Alkotmánybíróság, hogy a Ptké. 53/C. §-ában rögzített szabályozás esetében lehetőség van arra,
+hogy az Abtv. 46. §-ában biztosított jogköre alapján, a hatályos jog kíméletével járjon el. Az Alkotmánybíróság
+észlelte ugyanis, hogy a szabályozás alaptörvény-ellenessége abból fakad, hogy a jogalkotó a jogszabályon alapuló
+szerződésátruházások esetében nem szabályozta az új Ptk. jogintézményeként megjelenő szerződésátruházás
+részletes szabályait. A szabályozás kialakítása során figyelemmel kell lennie a jogalkotónak a szerződésmódosítástól
+való elhatárolás kérdésére, valamint a nováció mint jogi konstrukció jogi természetének a maghatározására,
+figyelemmel a jogintézmény működésének kiszámíthatóságára és a szabályozás hatálya alá tartozó kötelmi és
+felelősségi viszonyok egyértelmű meghatározására, valamint azoknak a Ptk.-val mint a magánjog anyajogával való
+összhangjára. Ezért megállapította, hogy az Alaptörvénnyel való összhang helyreállítása nem a vizsgált szabályozás
+megsemmisítését, hanem a hatályos szöveg kiegészítését teszi szükségessé. Ilyen módon biztosíthatóvá válik, hogy
+a szerződésátruházás szabályozása megfeleljen a jogállami jogbiztonság követelményének.
+[87] A fentiekre tekintettel az Alkotmánybíróság – hivatalból eljárva – megállapította, hogy az Országgyűlés
+mulasztásban megnyilvánuló alaptörvény-ellenességet idézett elő azáltal, hogy a Ptké. 53/C. §-ában nem
+szabályozta az Alaptörvény B) cikk (1) bekezdéséből fakadó jogállami jogbiztonság követelményének megfelelően
+a jogszabály rendelkezésén alapuló szerződésátruházás részletszabályait. Ezért az Alkotmánybíróság felhívta
+az Országgyűlést, hogy a Ptk. szerinti szabályozással való összhang megteremtése érdekében jogalkotói feladatának
+2019. március hó 31. napjáig tegyen eleget.
+[88] Az Alkotmánybíróság úgy ítélte meg, hogy a jogalkotói mulasztás megállapításával és a jogalkotónak címzett
+felhívással megteremthető az összhang az Alaptörvény és a Ptk., valamint a Ptké. kapcsolódó rendelkezései között.
+Egyúttal az Alkotmánybíróság a Ptké. 53/C. §-a alaptörvény-ellenességének a megállapítására és megsemmisítésére
+irányuló indítványokat elutasította.
+[89] Tekintettel arra, hogy az Alaptörvény B) cikk (1) bekezdésén alapuló alkotmányossági vizsgálat eredményeként
+megállapította a szabályozás alaptörvény-ellenességét, és annak orvoslására az Abtv. 46. § (1) bekezdése szerint
+jogkövetkezményt alkalmazott, az Alkotmánybíróság az Alaptörvény M) cikk (1) és (2) bekezdéseire, XIII. cikk
+(1) bekezdésére, XV. cikk (2) bekezdésére és XXVIII. cikk (1) bekezdésére vonatkozó, az indítványozó2. által felhozott
+érvek megalapozottságának a vizsgálatát nem végezte el.
+[90] Mivel az Alkotmánybíróság nem semmisítette meg a Ptké. kifogásolt rendelkezéseit, az alkalmazási tilalom
+kimondására sincs lehetősége, ezért arról önállóan nem kellett döntenie.
+
+IV.
+[91] Az Alkotmánybíróság a határozat Magyar Közlönyben történő közzétételét az Abtv. 44. § (1) bekezdésének második
+mondata alapján rendelte el.
+Budapest, 2018. november 13.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke,
+előadó alkotmánybíró
+Dr. Balsai István s. k., Dr. Czine Ágnes s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Dienes-Oehm Egon s. k., Dr. Horváth Attila s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Hörcherné dr. Marosi Ildikó s. k., Dr. Juhász Imre s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Pokol Béla s. k., Dr. Salamon László s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Schanda Balázs s. k., Dr. Sulyok Tamás s. k.,
+alkotmánybíró az Alkotmánybíróság elnöke,
+ az aláírásban akadályozott
+ Dr. Stumpf István
+ alkotmánybíró helyett
+Dr. Szabó Marcel s. k., Dr. Sulyok Tamás s. k.,
+alkotmánybíró az Alkotmánybíróság elnöke,
+ az aláírásban akadályozott
+ Dr. Szalay Péter
+ alkotmánybíró helyett
+Dr. Szívós Mária s. k., Dr. Varga Zs. András s. k.,
+alkotmánybíró alkotmánybíró
+Alkotmánybírósági ügyszám: II/330/2016.
+Dr. Czine Ágnes alkotmánybíró különvéleménye
+[92] Nem értek egyet a rendelkező részben foglalt döntéssel, mert álláspontom szerint az Alkotmánybíróságnak
+a Ptké. 53/C. § (1) és (2) bekezdéseinek alaptörvény-ellenességét kellett volna megállapítania, és a támadott
+jogszabályi rendelkezéseket meg kellett volna semmisítenie.
+[93] 1. Az Alkotmánybíróság gyakorlata szerint az Alaptörvény B) cikk (1) bekezdésében foglalt jogállamiság
+klauzulából olvasható ki a jogbiztonság követelménye. Eszerint „a jogállamiság egyik legfontosabb alkotóeleme
+a jogbiztonság, amely – egyebek között – megköveteli, hogy a jogalanyoknak meglegyen a tényleges lehetőségük
+arra, hogy magatartásukat a jog előírásaihoz tudják igazítani” {34/2014. (XI. 14.) AB határozat, Indokolás [71]}.
+A jogbiztonság egyik alkotóeleme a normavilágosság követelménye {24/2013. (X. 4.) AB határozat, Indokolás [48];
+3098/2016. (V. 24.) AB határozat, Indokolás [30]}.
+[94] Az Alkotmánybíróság a normavilágosság követelményével kapcsolatban következetesen érvényesíti a korábbi
+gyakorlatában kimunkált elveket és alkotmányossági összefüggéseket [legutóbb megerősítette a 3296/2018.
+(X. 1.) AB határozat]. Eszerint a jogállamiság elvéből levezetett jogbiztonság az állam – s elsősorban a jogalkotó –
+kötelességévé teszi annak biztosítását, hogy a jog egésze, egyes részterületei és az egyes jogszabályok világosak,
+egyértelműek, működésüket tekintve kiszámíthatóak és előreláthatóak legyenek a norma címzettjei számára. Vagyis
+a jogbiztonság nem csak az egyes normák egyértelműségét követeli meg, de egyes jogintézmények működésének
+
+kiszámíthatóságát is [9/1992. (I. 30.) AB határozat, ABH 1992, 59, 65.]. A 26/1992. (IV. 30.) AB határozatban
+az Alkotmánybíróság arra mutatott rá, hogy a jogszabály értelmes és világos, a jogalkalmazás során felismerhető
+normatartalma is a jogbiztonságból fakadó követelmény (ABH 1992, 135, 142.).
+[95] Az Alkotmánybíróság korábbi gyakorlatában rámutatott arra is, hogy „[a] jogszabály mindig általánosságban,
+elvontan szabályoz, az absztrakt norma konkrét jogesetre alkalmazása – és ezáltal tartalommal kitöltése –
+a jogalkalmazó feladata. A jogalkalmazás során általában szükséges az alkalmazandó norma értelmezése, melyhez
+segítséget nyújthat maga a jogszabály (az értelmező rendelkezései vagy az indokolása, amelyből kitűnhet
+a jogalkotó szándéka), a hosszabb időn keresztül kialakult-kialakított jogi (értelmezési) gyakorlat stb. A nem kellő
+pontossággal megfogalmazott jogszabály is alkalmazható, ha a megfogalmazás pontatlansága a jogalkalmazás
+során, a jogalkalmazói értelmezés által – a kialakult jogi hagyományt, joggyakorlatot, valamint a jogalkotó
+szándékát szem előtt tartva – orvosolható” (534/E/2001. AB határozat, ABH 2002, 1283, 1291.). Az Alkotmánybíróság
+következetes gyakorlata alapján egy jogszabály vagy annak valamely rendelkezése csak akkor tekinthető
+a jogállamiság szerves részét képező jogbiztonság követelményébe ütközőnek, ha megfogalmazása olyannyira
+homályos, hogy jogalkalmazói értelmezéssel sem tölthető ki tartalommal, vagy határozatlansága lehetőséget
+ad a szubjektív jogalkalmazói döntésre, a különböző jogalkalmazók eltérő gyakorlatára, a jogegység hiányára
+(1263/B/1993. AB határozat, ABH 1994, 672, 673–674.).
+[96] Összefoglalóan megállapítható tehát, hogy a jogbiztonság követelményéből fakadóan a jogszabályoknak
+értelmes és világos, a jogalkalmazás során felismerhető normatartalmat kell hordoznia. A nem kellő pontossággal
+megfogalmazott jogszabály akkor vezet a jogbiztonság sérelmére, ha a jogszabály pontatlansága jogalkalmazói
+értelmezés által nem orvosolható.
+[97] 2. Az adott esetben a Kúria eljáró tanácsa azért fordult az Alkotmánybírósághoz, mert az indítvánnyal támadott
+„kazuisztikus és a polgári jogi dogmatikával szembenő szabályozás alapján a felek és a bíróságok is bizonytalan
+helyzetbe kerültek annak eldöntése során”, hogy miként kell a normát a gyakorlatban értelmezni. A Kúria álláspontja
+szerint a Ptké. 53/C. §-ában elhelyezett szabály „a szerződésátruházás Ptk. általi alapkonstrukcióját borítja fel”, és
+ezért számos jogalkalmazói nehézséget okoz.
+[98] A szerződésátruházás új eleme a magánjogi szabályozásnak. A jogintézmény szabályainak kidolgozása során
+abból indult ki a kodifikációs munkacsoport, hogy „[a] piacgazdaságra történő áttérés nyomán a szerződési pozíció
+átruházása iránt jelentőség gazdasági igény keletkezett”. A szerződésátruházás gazdasági jelentőségét pedig
+az adja, hogy „a jogok mellett a kötelezettségek tekintetében is tiszta helyzetet teremt: a szerződésből kilépő fél
+minden kötelemből szabadul. A szerződésbe belépő félre szállnak át a szerződésátruházást megelőzően keletkezett
+kötelezettségek, így a szerződésbe belépő fél lesz felelős a szerződésből kilépő fél által okozott károkért is.”
+[Gárdos Péter: Engedményezés, tartozásátvállalás és szerződésátruházás In: Vékás Lajos (szerk.): Szakértői Javaslat
+az új Polgári Törvénykönyv tervezetéhez. Complex, Budapest 2008. 860–861.] A Ptk. hatálybalépése előtt egyes
+törvények külön szabályozták a szerződésátruházás eseteit: például a Munka Törvénykönyvéről szóló 1992. évi
+XXII. törvény 85/A. §-a; a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 161. §
+(1) bekezdése; a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 93. § (1) bekezdése.
+[99] A szerződésátruházást tehát a régi Ptk. nem szabályozta. Ennek hiányában a gazdasági szereplőknek – jellemzően
+kereskedelmi jogviszonyokban – arra volt lehetőségük, hogy megállapodjanak abban: az egyik szerződő fél kilép, és
+helyette egy új fél kerül a szerződéses kapcsolatba. Az új szerződő felet pedig az eredeti szerződésből kilépő fél jogai
+illetik meg, és ugyanazon kötelezettségek terhelik. Ez a megállapodás ugyanakkor azt jelentette, hogy a szerződés
+az eredeti felek között megszűnt, és az eredeti szerződéssel azonos tartalmú új szerződés jött létre az eredeti
+szerződés egyik fele és az új fél között (nováció). Ez a megoldás ugyanakkor nem minősült szerződésátruházásnak,
+hanem a szerződés megszüntetésének egyik eseteként lehet értékelni. A felek ugyanis a jogcím módosítással új
+szerződést hoztak létre. (Jobbágyi Gábor – Fazekas Judit: Kötelmi jog. Szent István Társulat, Budapest, 2008. 88.)
+[100] Az indítványozó bírói tanács utalt arra, hogy a Ptk. hatálybalépése előtt a bírói gyakorlat már ismerte és elfogadta
+a szerződési pozíció átruházását (pl. BH 2006.409.). A közzétett bírói döntések elvi kiindulópontja ugyanakkor
+az volt, hogy „minden szerződési pozíció leírható engedményezhető követelések és átvállalható tartozások
+összességeként”. A szerződési pozíciók ugyanakkor „tartalmaznak olyan személyes kötelezettségvállalásokat és
+személyhez kötött követeléseket, amelyek nem ruházhatóak át, és olyan jogokat, amelyek a természetüknél fogva
+nem ruházhatóak át.” [Erről részletesen: Menyhárd Attila: Szerződésátruházás In: Osztovits András (szerk.): A Polgári
+Törvénykönyvről szóló 2013. évi V. törvény és a kapcsolódó jogszabályok nagykommentárja. Opten, Budapest,
+2014. 488–490.]
+
+[101] A szerződésátruházás kifejezett szabályozására a hatályos Ptk.-ban tehát részben azért volt szükség, mert
+az engedményezés és tartozásátvállalás szabályaival nem lehetett egy szerződéses jogviszonyból fakadó
+valamennyi jogot és kötelezettséget átruházni. A régi Ptk. szabályai alapján a feleknek csupán arra volt
+lehetőségük, hogy egy háromoldalú szerződésmódosításban rendezzék az eredeti szerződés megszüntetését,
+és az egyik fél kilépésével, valamint egy új félnek a szerződésbe történő belépésével új szerződést hozzanak létre.
+Ez a háromoldalú megállapodás ugyanakkor nem minősült jogutódlásnak, hanem az eredeti szerződés megszűnése
+mellett egy új szerződés létrejöttének.
+[102] Fontosnak tartom továbbá kiemelni azt is, hogy Eörsi Gyula a novációval összefüggésben éppen arra mutatott
+rá: „[e]z a jogi megoldás elsősorban arra irányul, hogy a jogosult pozícióját megerősítse. Az elévült követelés
+megújítása pl. a követelést ismét bíróilag érvényesíthetővé teszi; a kötelezett mindazoktól a kifogásaitól elesik,
+amelyeket a megújítás alkalmával nem tartott fenn; a megtámadható szerződés megújítás következtében
+megtámadhatatlanná válik”. (Eörsi Gyula: Kötelmi jog. In: Világhy Miklós – Eörsi Gyula: Magyar polgári jog,
+Tankönyvkiadó, Budapest 1965. 437.)
+[103] A fentiek alapján, úgy gondolom, a hatályos kötelmi jogi szabályozás rendszerében a szerződésátruházás lényege,
+hogy a szerződésből származó valamennyi jogot és kötelezettséget a felek az eredeti szerződés jogfolytonos
+fenntartásával tudnak átruházni. A jogintézmény ezen ismérvének ugyanakkor ellentmond a Ptké. 53/C. §
+(2) bekezdésében foglalt az a szabály, amely szerint „a szerződésből kilépő és a szerződésben maradó fél
+tekintetében a szerződést megszűntnek, a szerződésbe belépő és a szerződésben maradó fél tekintetében pedig
+a szerződést az átszálló valamennyi jog és kötelezettség vonatkozásában a jogszabály rendelkezése alapján létrejött
+új szerződésnek kell tekinteni.”
+[104] 3. A Ptké. célja olyan átmeneti szabályok megfogalmazása, amik egyértelművé teszik, hogy adott időpontban
+melyik törvény alkalmazandó. A Ptké. ezért a Ptk. alkalmazhatóságára nézve ad iránymutatást, tehát azt rendezi,
+hogy a Ptk. rendelkezéseit mikortól, mely anyagi jogi jogviszonyra, illetve mely anyagi jogi jogviszonyt keletkeztető,
+módosító vagy megszüntető tényre vagy jognyilatkozatra vonatkozóan kell alkalmazni. A Ptké. normaszöveg-
+javaslatához fűzött indokolás kifejezetten utalt arra, hogy„[a]z átnyúló jogviszonyokra – a Jat. 15. § (2) bekezdésére
+figyelemmel, ám annak alkalmazását egyszersmind ki is zárva – a törvény a Ptk. könyveinek sorrendjéhez igazodva
+speciális átmeneti szabályokat fogalmaz meg. A speciális szabályok között – hol azt a Ptk. egyes könyveibe
+tartozó jogviszonyok jellege megengedi –, kiemelt helyen találhatóak az egyes könyvek által szabályozott
+jogviszonyokra vonatkozó generális(abb) átmeneti szabályok. E generálisabb szabályokhoz képest azonban további,
+a Ptk. meghatározott jogintézményeihez, illetve rendelkezéseihez kötődő speciális rendelkezések is rögzítésre
+kerültek.”
+[105] Az adott esetben, úgy gondolom, hogy a jogalkotó nem egy ilyen szabályt alkotott a Ptké. 53/C. § (1) és
+(2) bekezdéseiben. Ez a szabályozás ugyanis tartalmában nem egy átmeneti szabály, amely a rendelkezés
+alkalmazhatóságára adna iránymutatást, hanem a jogintézmény egyik lényegi ismérve vonatkozásában tartalmaz
+eltérő rendelkezést. Ebből következően nem értek egyet azzal a többségi állásponttal, hogy a Ptké. 53/C. §
+(1) és (2) bekezdése „értelmező jellegű szabály” lenne. Véleményem szerint a rendelkezés valóban megbontja
+a Ptk. szerződésátruházásra vonatkozó szabályozási rendszerét, és ennek folytán a magánjogi jogviszonyok
+áttekinthetősége és a jogintézmény működésének kiszámíthatósága ellen hat.
+[106] A fentiek alapján, úgy gondolom, hogy a Ptké. 53/C. § (1) és (2) bekezdései sértik a jogbiztonság követelményét,
+ezért alaptörvény-ellenesek.
+Budapest, 2018. november 13.
+Dr. Czine Ágnes s. k.,
+alkotmánybíró
+Dr. Hörcherné dr. Marosi Ildikó alkotmánybíró különvéleménye
+[107] Nem értek egyet a többségi döntéssel, különösen a határozat rendelkező részének 1. és 2. pontjában foglaltakkal.
+Véleményem szerint ugyanis az alaptörvény-ellenesnek minősített törvényi rendelkezést az Alkotmánybíróságnak
+meg kell volna semmisítenie. Emellett a testület nem bírálta el az Abtv. 25. §-a alapján benyújtott bírói
+kezdeményezést, amelyet egyesített az Abtv. 24. § (1) bekezdése alapján folyamatban volt, országgyűlési képviselői
+indítványra indult üggyel.
+
+[108] 1. Az Alkotmánybíróság a többségi határozatban megállapította, hogy a Ptké. 53/C. §-a sérti az Alaptörvény B) cikk
+(1) bekezdését, és annak orvoslására, jogkövetkezményeként a mulasztás kimondását alkalmazta. Ezt a megoldást
+az Abtv. rendelkezéseire, valamint az eddigi gyakorlatra tekintettel kétségesnek tartom az alábbiak szerint.
+[109] 2. Az Alkotmánybíróság az Alaptörvény és az Abtv. keretei között jár el [lásd: Abtv. 39. § (3) bekezdés]. Az Abtv. 44. §
+(1) bekezdése úgy rendelkezik, hogy „ha az Alkotmánybíróság 24. § vagy a 25–26. § szerinti eljárásában a hatályos
+jogszabály vagy jogszabályi rendelkezés alaptörvény-ellenességét megállapítja, a jogszabályt vagy jogszabályi
+rendelkezést teljesen vagy részben megsemmisíti.” Ez alól nem tesz kivételt egyetlen Abtv.-beli rendelkezés sem.
+Az alaptörvény-sértés megállapítása a hatályos támadott szabály megsemmisítéséhez és jellemzően az alapul
+szolgáló ügyben való alkalmazási tilalom kimondásához vezet [vö. Abtv. 45. § (2) és (4) bekezdései].
+[110] Ehhez kapcsolódik az a következetes gyakorlat, amely szerint, ha az alaptörvény-sértés megállapításra kerül egy
+alaptörvényi szabály sérelme miatt, úgy az Alkotmánybíróság – ugyanazon jogszabályi rendelkezés vagy bírói
+döntés kapcsán – nem vizsgálja a további indítványi elemek megalapozottságát [lásd például: 6/2013. (III. 1.)
+AB határozat, Indokolás [240], 21/2014. (VII. 15.) AB határozat, Indokolás [108]}.
+[111] A mulasztást mint jogkövetkezményt – az Abtv. 46. § (1)–(2) bekezdéseiben található egyéb feltételek fennállása
+esetén – akkor lehet alkalmazni értelmezésem szerint, ha a sérelmezett szabály megfelel az Alaptörvénynek,
+de a jog szövetén olyan hiátus sejlik fel, amit a jogalkotónak kell orvosolnia. Mivel a jelen esetben a testület
+„az Alaptörvény B) cikk (1) bekezdésén alapuló alkotmányossági vizsgálat eredményeként megállapította
+a szabályozás alaptörvény-ellenességét” (Indokolás [89]), ezért az Abtv. 44. § (1) bekezdésére és gyakorlatára
+tekintettel meg kellett volna semmisítenie azt.
+[112] 3. A különböző indítványok egyesítése fő szabály szerint nem vezethet arra az eredményre, hogy az egyik vagy
+a másik indítvány bizonyos elemei az alkotmányossági felülvizsgálat számára elvesznek a normakontroll eljárásban.
+[113] A jelen esetben a bírói indítvány a Ptké. 53/C. § (1) bekezdésének tartalmi elemzése révén megállapította, hogy
+az azokra a szerződésekre vonatkozik, amelyeket
+– a Ptk. hatálybalépése előtt kötöttek,
+– a szerződésekből eredő valamennyi jog és kötelezettség jogszabály rendelkezése alapján száll át másra, és
+végül
+– a jogszabályhely az ilyen szerződésekre az új Ptk. 6:211. § alkalmazását írja elő.
+[114] Az indítvány értelmezésében a norma – hipotéziséből kiindulva – az életviszonyok, kötelmek rendkívül széles körét
+fogja át: idetartoznak az öröklési, a jogutódlással kapcsolatos, a bérleti jogviszonyok, de idetartozik akár a fogyasztói
+szerződések széles esetköre is. A jogi normán alapuló alanyváltozás szabályozásának ezen módja – a gyakorlatban
+szerzett bírói tapasztalatok alapján – oda vezet, hogy a változatlan formában fennálló kötelmekre a korábban
+hatályos, a módosult kötelmekre pedig az új szabályozást kell alkalmazni, a jogelőd kötelmeit a korábbi, a jogutód
+kötelmeit pedig az új szabályozás szerint kell megítélni. De nehezen kezelhető helyzetet eredményez az is a bírók
+szerint, hogy az új Ptk. hatálybalépése előtt megkötött szerződések esetében novációt eredményez az, ami az új
+Ptk. hatálybalépése után már jogutódlást jelent a felek viszonylatában. Utalt továbbá a bírói kezdeményezés arra
+is, hogy a Ptké. támadott rendelkezése értelmében valamennyi, fentiekben említett kötelem – függetlenül azok
+megkötésének idejétől – az új Ptk. hatálya alá kerül, ily módon kiterjesztve visszamenőlegesen annak egyebekben
+2014. március 15-én kezdődő időbeli hatályát. Minderre a bírói kezdeményezés szerint olyan körülmények között
+kerül sor, amikor a jogalkotó„vélhetőleg csak a földhaszonbérleti szerződésekkel kapcsolatos problematikát kívánta
+ekképpen rendezni” (Kúria indítványa, Indokolás [35]). Megjegyzendő, hogy az utóbbi megállapítást a többségi
+határozat indokolásába beemelt igazságügyi miniszteri, de különösen a Nemzeti Agrárgazdasági Kamara Elnökének
+állásfoglalása egyértelműen alátámasztja (Indokolás [33]).
+[115] Összességében tehát a bírói oldalról érkező aggály lényege abban állt, hogy túlságosan szélesre nyitotta
+a törvényalkotó a Ptké. – egyebekben anyagi jogi tartalmú – támadott szabályának tárgyi hatályát. Olyan
+szélesre, amely – szándékon túl – olyan szerződésekre is kiterjed, amelyek esetében például a szavatossági vagy
+egyéb kötelmi igények megítélése – elsődlegesen az időbeliség okán – kazuisztikussá válik, alkotmányjogi
+megközelítésben pedig alaptörvény-ellenes helyzetet keletkeztet. Másképpen megfogalmazva: a bírói
+kezdeményezés fő kérdése nem a törvényértelmezés nehézségében állt, hanem annak eredményében és
+véleményem szerint a testületnek erről is állást kellett volna foglalnia.
+[116] Az alaptörvény-ellenesség fentiek szerinti aggályát támasztotta alá a Kúria az Alaptörvény B) cikk (1) bekezdésének,
+az M) cikk (1) és (2) bekezdéseinek, a XIII. cikk (1) bekezdésének, a XV. cikk (2) bekezdésének, valamint a XXVIII. cikk
+(1) bekezdésének felhívásával és az egyes alaptörvényi rendelkezésekhez kapcsolt indokolással.
+
+[117] Ezek közül a többségi határozat kizárólag a jogállamiság részét képező jogbiztonság sérelmét vizsgálta meg,
+azonban számomra úgy tűnik, hogy arra nem a fentiek szerinti indokokra alapítottan került sor. Ily módon figyelmen
+kívül maradt a bírói indítvány alapproblémája.
+Budapest, 2018. november 13.
+Dr. Hörcherné dr. Marosi Ildikó s. k.,
+alkotmánybíró
+[118] A különvéleményhez csatlakozom.
+Budapest, 2018. november 13.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke,
+az aláírásban akadályozott
+Dr. Szalay Péter
+alkotmánybíró helyett
+Dr. Pokol Béla alkotmánybíró különvéleménye
+[119] Nem támogatom a mulasztás megállapítását a többségi határozat rendelkező részében. A hazai magánjogban az új
+Ptk. által bevezetett szerződésátruházás szabályzása nyitott maradt a felmerült problémákat tárgyaló tanulmányok
+tükrében. Ahogy erről Bodzási Balázs, az Igazságügyi Minisztérium volt helyettes államtitkára fogalmazott:
+„Két álláspont alakult ki a szerződésátruházás természetét illetően. Az egyik felfogás szerint szerződésmódosításról
+van szó, az eredeti szerződés jogfolytonos fennmaradása mellett. A másik nézet szerint azonban szerződésátruházás
+esetén ennél többre, novációra kerül sor (a fennálló szerződés megszüntetésére és ugyanazzal tartalommal
+új szerződés létrejöttére).” (Fontes Iuris 2015/3–4. 64. oldal) A kifejtése szerint az új jogintézmény céljának
+a jogutódlás és nem a nováció felel meg, és elemzi, hogy milyen mellékes szempontok miatt maradt vitatható
+ez a szabályozás, majd olyan Ptk.-módosítást sürget, mely ebbe az irányba tisztítja le a szerződésátruházást:
+„A vázolt gazdasági igényeket kielégítő, megnyugtató megoldást jelentene, ha a jogalkotó hatályon kívül helyezné
+a Ptk. 6:208. § (3) bekezdését. Ez egyben egyértelmű állásfoglalás is lenne a jogalkotó részéről arra nézve, hogy
+a szerződésátruházást nem tekinti novációnak.”(id. mű 65. oldal)
+[120] Ebből a háttérből szemlélve a tervezet rendelkező részének mulasztás-megállapítását a Ptké. 53/C. §-ához
+kapcsoltan, ez kevésnek tűnik számomra. Ugyanis ez – szemben a Ptk. szabályozás nyitva hagyásával – a nováció
+mellett teszi le a garast. Ezt pedig inkább szembenállónak kell tekinteni a jogintézmény céljával, mintsem annak
+konkretizálásnak. Ezért ha most életben hagyjuk az 53/C. § (2) bekezdését, mely a novációs jelleget rögzíti, és
+csak ennek részleteinek kidolgozására mondunk ki mulasztást, akkor ezzel bebetonozzuk ezt a céllal szembenálló
+szabályozást a magánjogba. Így én ennek megsemmisítése mellett láttam több indokot – felhozva a hiányos
+szabályozás jogbiztonságot sértő jellegét a B) cikk (1) bekezdésre támaszkodva –, és ezzel megadtuk volna
+a jogalkotónak a lehetőséget arra, hogy gondolja végig az elejétől fogva a novációs jelleg törlését és a jogutódlás
+jelleg rögzítését. Mivel a többséget nem tudtam meggyőzni erről, ezért különvéleményemben kívántam
+álláspontomnak hangot adni.
+Budapest, 2018. november 13.
+Dr. Pokol Béla s. k.,
+alkotmánybíró
+
+Dr. Stumpf István alkotmánybíró különvéleménye
+[121] Nem értek egyet a határozattal.
+[122] 1. Az Alaptörvény 24. cikk (2) bekezdés b) pontjának megfelelően az Alkotmánybíróság köteles lett volna a bíróság,
+jelen esetben a Kúria indítványát „soron kívül, de legkésőbb kilencven napon belül” elbírálni, és felülvizsgálni
+az alkalmazott jogszabály – a Ptké.-nek a 2015. évi CCXX. törvény 1. §-ával beiktatott 53/C. §-a – Alaptörvénnyel
+való összhangját a bírói kezdeményezés alapján. Az Alkotmánybíróság azonban a Kúria indítványát nem soron kívül
+bírálta el; egy nem soron kívüli eljáráshoz egyesítve elutasította azt, mégpedig úgy, hogy a Kúria kérelméhez képest
+csak részben vizsgálta felül a Ptké. vitatott rendelkezését.
+[123] Az Abtv. 41. § (1) bekezdése előírja: „Ha az Alkotmánybíróság a 24. § vagy a 25–26. § szerinti eljárásában a hatályos
+jogszabály vagy jogszabályi rendelkezés alaptörvény-ellenességét megállapítja, a jogszabályt vagy jogszabályi
+rendelkezést teljesen vagy részben megsemmisíti.” A jelen esetben bár az Alkotmánybíróság a Ptké. 53/C. §-át
+illetően „megállapította a szabályozás alaptörvény-ellenességét”, azt mégsem semmisítette meg. Az Abtv. 41. §
+(1) bekezdéséből fakadó kötelezettsége ellenére helybenhagyta az alaptörvénysértő rendelkezést, és mindössze egy
+felhívást címzett a jogalkotónak, mondván, hogy ezúton lesz „megteremthető az összhang” az Alaptörvény B) cikk
+(1) bekezdése, valamint a Ptké. között. Kétlem, hogy az Alaptörvény és az annak fundamentumát képező jogállam
+védelmét szolgálja, ha az „Alaptörvény védelmének legfőbb szerve” az Alaptörvényt sértő jogszabályokat nem
+semmisíti meg (a jogrendszerből nem iktatja ki, hanem inkább hatályukban megerősíti), a jogalkotót bízva meg,
+hogy védje meg ő (később) az Alaptörvény adott szabályát normaalkotás útján.
+[124] A Kúria az Alkotmánybíróság elé terjesztett kezdeményezésében megalapozottan állította, hogy a Ptké.-nek
+a 2015. évi CCXX. törvény 1. §-ával beiktatott 53/C. §-a alaptörvény-ellenes, sérti – mindenek előtt – az Alaptörvény
+B) cikk (1) bekezdését. Ez magának az Alkotmánybíróságnak a határozatából is kiderül. A Ptk. hatálybalépését
+rendezni hivatott Ptké. a polgári jogok és kötelezettségek átszállásának a Ptk. szerinti módjával szöges ellentétben
+álló szabályokat a jogbiztonság sérelme nélkül nem tartalmazhat. Nem rendelkezhet a Ptk.-val ellenkezően
+a korábban létrejött jogügyletek sorsáról sem, nem nevezheti azokat a Ptk.-val szemben megszűntnek (pusztán
+azért, hogy ugyanazon szerződéseket virtuálisan új szerződésként tüntethesse fel).
+[125] 2. Korábban, a 3278/2017. (XI. 2.) AB határozathoz fűzött különvéleményemben kifejtettem már, hogy
+a Fétv. 50/A. §-át és 110/A. §-át is az Alaptörvény B) cikk (1) bekezdésébe, mégpedig a visszamenőleges hatályú
+jogalkotás tilalmába ütközőnek tartom. Ezt, vagyis a Fétv. 50/A. §-ának és 110/A. §-ának a visszamenőleges
+hatályú hátrányos jogalkotás tilalmába ütközését korábbi határozatában az Alkotmánybíróság – álláspontom
+szerint – csak felszínesen vizsgálta, így megalapozatlanul jutott arra a következtetésre, hogy e szabályok nem
+sértik az Alaptörvényt. Nem tudok ezért egyetérteni a jelen ügyben azzal, hogy ítélt dologra hivatkozással mellőzte
+az Alkotmánybíróság a Fétv. 50/A. §-ának és 110/A. §-ának a visszamenőleges hatályú hátrányos jogalkotás
+tilalmába ütközésére irányuló vizsgálatát.
+[126] A Fétv. 50/A. §-ának és 110/A. §-ának a Módtv. 2016. január 6-i hatállyal beiktatott rendelkezései alapvető módon
+változtatták meg a már megkötött földhaszonbérleti szerződések módosítására vonatkozó, 2016 januárjáig
+hatályos szabályokat. Az új előírásokat olyan földhaszonbérleti szerződésekre is alkalmazni rendelik, amelyekre
+valójában nem is lehetne alkalmazni, ha a Ptké. 53/C. §-ának a szintén a Módtv. alapján beiktatott rendelkezése
+nem minősítette volna e szerződéseket virtuálisan új szerződéseknek (jóllehet azok ténylegesen már régebben
+megkötött, hosszabb ideje fennálló szerződések). Vagyis pusztán virtuálisan új szerződéseknek minősítve a már
+megkötött szerződéseket új szerződésmódosítási szabályokat rendelnek alkalmazni rájuk, félretéve ezáltal
+az irányadó szerződésmódosítási szabályokat. A szerződések ilyen virtuális átminősítésével pedig lényegében
+akkor is lehetővé teszik a fennálló szerződések megváltoztatását, ha az történetesen nem lenne alkotmányosan
+igazolható, azaz sérülne az a követelmény, amit az Alkotmánybíróság a 8/2014. (III. 20.) AB határozatának rendelkező
+részében lefektetett: „jogszabály a hatályba lépése előtt megkötött szerződések tartalmát kivételesen – a clausula
+rebus sic stantibus elve alapján – megváltoztathatja. Az állam jogszabállyal a szerződések tartalmát általában csak
+ugyanolyan feltételek fennállása esetén változtathatja meg alkotmányosan, mint amilyen feltételek fennállását
+a bírósági úton való szerződésmódosítás is megköveteli.”A 8/2014. (III. 20.) AB határozat indokolása ezen túlmenően
+rögzítette: „A törvényi úton történő szerződésmódosításnak is, amennyire lehet, mindegyik fél méltányos érdekeit
+figyelembe kell vennie, vagyis az ilyen szerződésmódosításnak is érdekegyensúlyra kell törekednie a megváltozott
+körülmények mellett”(Indokolás [91]).
+
+[127] Az Alkotmánybíróság a jelen ügyben sem foglalkozik, és a Fétv. 50/A. §-át és 110/A. §-át érintően a korábbi, Abh1.
+sem foglalkozott azzal, hogy a törvényi úton történő szerződésmódosításnak a Módtv. alapján helye lehetett-e.
+Az Alkotmánybíróság nem folytatta le azt a vizsgálatot, hogy a clausula rebus sic stantibus elve alapján legitim
+módon megszűntnek lehet-e tekinteni már megkötött szerződéseket, hogy így virtuálisan új szerződéseknek
+minősítve új szerződésmódosítási szabályokat alkalmazhasson rájuk a törvényhozó (lényegében törvényi úton
+megváltoztatva, megváltoztathatóvá téve ezáltal a már megkötött szerződések tartalmát). Az indítvány kapcsán így
+ítélt dologra, mivel az nincs, hivatkozni nem lehet.
+Budapest, 2018. november 13.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke,
+az aláírásban akadályozott
+Dr. Stumpf István
+alkotmánybíró helyett
+
+IX. Határozatok Tára
