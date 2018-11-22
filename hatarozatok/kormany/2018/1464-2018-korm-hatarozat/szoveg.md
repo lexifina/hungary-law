@@ -50,8 +50,6 @@ pénzügyminiszter
 
 Határidő: 2018. október 15.
 
-7. egyetért azzal, hogy az 1., 3. és 5. pont szerinti fejlesztések megvalósítására vonatkozóan együttműködési megállapodás kerüljön előkészítésre és megkötésre Debrecen Megyei Jogú Város Önkormányzatával, egyben felhatalmazza az innovációért és technológiáért felelős minisztert az együttműködési megállapodás aláírására.
+7.[^1]
 
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2018. október 15.
+[^1]: A 7. pontot az 1593/2018. (XI. 22.) Korm. határozat 2. pontja visszavonta.
