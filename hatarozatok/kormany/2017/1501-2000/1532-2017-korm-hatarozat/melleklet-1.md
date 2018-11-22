@@ -52,6 +52,8 @@
 
 ## Határidő: 2018. július 1.
 
+## 8.[^2] egyetért azzal, hogy a debreceni konténerterminál a debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő közúti, vasúti és közmű infrastruktúra fejlesztések részeként valósuljon meg.
+
 1. melléklet az 1532/2017. (VIII. 14.) Korm. határozathoz
 
 | XI. Miniszterelnökség XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017 millió forint |
@@ -119,3 +121,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^2]: A 8. pontot az 1594/2018. (XI. 22.) Korm. határozat 1. pontja iktatta be.
