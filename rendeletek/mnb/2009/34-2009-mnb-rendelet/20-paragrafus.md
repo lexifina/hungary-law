@@ -10,7 +10,7 @@ c) a fizetendő díjakhoz, jutalékokhoz, költségekhez kapcsolódó esetleges 
 
 d) a fizetendő díjak, jutalékok, költségek kiszámítását segítő példát.
 
-(2) Az elszámolóház díjszabályzata a díjakat az (1) bekezdés a) pontja szerint úgy határozza meg, hogy a nyújtott szolgáltatásokra külön állapítja meg a díjakat annak érdekében, hogy az ügyfél azok igénybevételéről szabadon dönthessen.
+(2)[^2]
 
 (3) A díjszabályzat a díjakat úgy állapítja meg, hogy azok folyamatosan biztosítsák a fizetési rendszer használatának hatékonyságát.
 
@@ -21,3 +21,5 @@ d) a fizetendő díjak, jutalékok, költségek kiszámítását segítő péld�
 (6) Az elszámolóház díjszabályzatát és annak módosítását az MNB engedélyezi.
 
 (7) Az elszámolóház a hatályos díjszabályzatát e rendelet 18. §-ának (1) és (4) bekezdése szerint teszi közzé.
+
+[^2]: A 20. § (2) bekezdését a 43/2018. (XI. 21.) MNB rendelet 4. §-a hatályon kívül helyezte.

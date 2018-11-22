@@ -1,3 +1,3 @@
-23. §[^2]
+23. §[^4]
 
-[^2]: A 23. §-t a (2) bekezdés hatályon kívül helyezte.
+[^4]: A 23. §-t a (2) bekezdés hatályon kívül helyezte.
