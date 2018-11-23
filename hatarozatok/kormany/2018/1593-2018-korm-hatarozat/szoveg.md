@@ -6,4 +6,6 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2018. december 15.
 
-2. visszavonja a debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő infrastruktúra-fejlesztésekről szóló 1464/2018. (IX. 25.) Korm. határozat 7. pontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
