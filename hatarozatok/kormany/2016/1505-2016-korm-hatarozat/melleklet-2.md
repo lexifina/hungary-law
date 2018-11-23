@@ -2,25 +2,25 @@
 
 ## 2022-ig történő megvalósításához biztosított forráskeret éves felosztása
 
-|  | A | B | C | D | E | F | G | H | I |
+|  | A | B | C | D | E | F | G | H | I | J |
 
-| 1. | Az előirányzat megnevezése | A projektek megvalósításához szükséges források éves keretösszege (bruttó, millió Ft) |
+| 1. |  | A projektek megvalósításához szükséges források éves keretösszege (bruttó, millió forint) |
 
-| 2. | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | Összesen |
+| 2. | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | Összesen |
 
-| 3. | IKOP 1. prioritása | 167 913 | 220 474 | 111 071 | 112 029 | 80 876 | 29 390 | 11 551 | 733 304 |
+| 3. | IKOP 1. prioritása | 167 913 | 220 474 | 111 071 | 112 029 | 80 876 | 29 390 | 11 551 | 0 | 733 304 |
 
-| 4. | IKOP 4. prioritása | 77 690 | 76 976 | 64 872 | 77 246 | 44 108 | 34 213 | 6 960 | 382 065 |
+| 4. | IKOP 4. prioritása | 77 690 | 76 976 | 64 872 | 77 246 | 44 108 | 34 213 | 6 960 | 0 | 382 065 |
 
-| 5. | Európai Hálózatfinanszírozási Eszköz | 5 675 | 27 130 | 26 370 | 10 073 | 0 | 0 | 0 | 69 248 |
+| 5. | Európai Hálózat- finanszírozási Eszköz | 5 675 | 27 130 | 26 370 | 10 073 | 0 | 0 | 0 | 0 | 69 248 |
 
-| 6. | Magyarország központi költségvetés hazai forrás | 98 383 | 214 597 | 267 702 | 402 192 | 219 469 | 136 955 | 63 844 | 1 403 142 |
+| 6. | Magyarország központi költség- vetése (hazai forrás) | 98 383 | 214 597 | 267 702 | 402 492 | 230 469 | 142 465 | 70 444 | 200 | 1 426 752 |
 
-| 7. | Összesen | 349 661 | 539 177 | 470 015 | 601 540 | 344 453 | 200 558 | 82 355 |  |
+| 7. | Összesen | 349 661 | 539 177 | 470 015 | 601 840 | 355 453 | 206 068 | 88 955 | 200 |  |
 
-| 8. | Mindösszesen | 2 587 759 |  |
+| 8. | Mindösszesen | 2 611 369 |  |
 
-2. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz[^7]
+2. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz[^8]
 
 | 1. IKOP 1. prioritása terhére megvalósítani tervezett közútfejlesztések megvalósításának tervezett ütemezése |
 
@@ -262,4 +262,8 @@
 
 | 66. | Mosonmagyaróvár déli tehermentesítő út 1. számú főút és 86. számú főút közötti szakasz megvalósításának előkészítése, valamint az M1 autópálya Moson pihenőhely átépítésével új autópálya csomópont megvalósításának előkészítése | 2018. II. negyedév | 2019. III. negyedév |
 
-[^7]: A 2. melléklet az 1982/2017. (XII. 19.) Korm. határozat 7. pontjával megállapított, az 1137/2018. (III. 26.) Korm. határozat 9. pontja, az 1153/2018. (III. 27.) Korm. határozat 6. pontja, az 1173/2018. (III. 28.) Korm. határozat 6. pontja, az 1181/2018. (III. 29.) Korm. határozat 6. pontja szerint módosított szöveg.
+| 67. | M35 autópálya új, Debrecen-Józsa csomópont építése, valamint M35 autópálya meglévő, 354. sz. főút csomópont átépítése | 2019. II. negyedév | 2021. IV. negyedév |
+
+| 68. | 33. sz. főút 2×2 sávra bővítése az M35 autópálya és az ipari fejlesztési terület között, a 33. sz. főút 2×2 sávra bővítése az ipari fejlesztési terület és a 3316. jelű összekötő út között, kerékpárút építése a 33. sz. főút mellett az M35 autópálya és az ipari fejlesztési terület között, valamint a 33. sz. főút csomópontjainak fejlesztése az M35 autópálya és a 35. sz. főút között | 2019. II. negyedév | 2022. IV. negyedév |
+
+[^8]: A 2. melléklet az 1982/2017. (XII. 19.) Korm. határozat 7. pontjával megállapított, az 1137/2018. (III. 26.) Korm. határozat 9. pontja, az 1153/2018. (III. 27.) Korm. határozat 6. pontja, az 1173/2018. (III. 28.) Korm. határozat 6. pontja, az 1181/2018. (III. 29.) Korm. határozat 6. pontja, az 1592/2018. (XI. 22.) Korm. határozat 8. pontja szerint módosított szöveg.

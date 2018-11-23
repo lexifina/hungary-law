@@ -1,4 +1,4 @@
-## 1.[^1] felhívja a nemzetgazdasági minisztert, a nemzeti fejlesztési minisztert és a Miniszterelnökséget vezető minisztert, hogy biztosítsanak a Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások összehangolásáról és azok 2022-ig történő megvalósításáról szóló 1371/2016. (VII. 15.) Korm. határozat 1. mellékletében meghatározott közútfejlesztési projektek (a továbbiakban: projektek) megvalósítása érdekében 2 587 759 millió forint költségvetési forrást az 1. melléklet szerint,
+## 1.[^2] felhívja a nemzetgazdasági minisztert, a nemzeti fejlesztési minisztert és a Miniszterelnökséget vezető minisztert, hogy biztosítsanak a Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások összehangolásáról és azok 2022-ig történő megvalósításáról szóló 1371/2016. (VII. 15.) Korm. határozat 1. mellékletében meghatározott közútfejlesztési projektek (a továbbiakban: projektek) megvalósítása érdekében 2 611 369 millió forint költségvetési forrást az 1. melléklet szerint,
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -38,37 +38,37 @@
 
 ## Határidő: 2016. november 30.
 
-## 6.[^2] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Közlekedési ágazati programok alcím, Kiemelt közúti projektek kiadási előirányzata (a továbbiakban: Előirányzat) terhére vállalható kötelezettségek mértékét a 2018–2022. évekre az alábbiak szerint állapítja meg:
+## 6.[^3] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Közlekedési ágazati programok alcím, Kiemelt közúti projektek kiadási előirányzata (a továbbiakban: Előirányzat) terhére vállalható kötelezettségek mértékét a 2019–2023. évekre az alábbiak szerint állapítja meg:
 
-## a) a 2018. évre vonatkozó kötelezettségvállalás felső korlátja 267 702 millió forint,
+## a) a 2019. évre vonatkozó kötelezettségvállalás felső korlátja: 402 492 millió forint,
 
-## b) a 2019. évre vonatkozó kötelezettségvállalás felső korlátja 402 192 millió forint,
+## b) a 2020. évre vonatkozó kötelezettségvállalás felső korlátja: 230 469 millió forint,
 
-## c) a 2020. évre vonatkozó kötelezettségvállalás felső korlátja 219 469 millió forint,
+## c) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja: 142 465 millió forint,
 
-## d) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 136 955 millió forint,
+## d) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja: 70 444 millió forint,
 
-## e) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja 63 844 millió forint,
+## e) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja: 200 millió forint,
 
-## 7.[^3] felhívja a nemzeti fejlesztési minisztert, hogy a 6. pontban meghatározott éven túli előirányzati korlátok figyelembevételével a már megkötött támogatási szerződéseket módosítsa,
+## 7.[^4] felhívja az innovációért és technológiáért felelős minisztert, hogy a 6. pontban meghatározott éven túli előirányzati korlátok és az 1. mellékletben foglalt források figyelembevételével a már megkötött támogatási szerződéseket módosítsa,
 
-## Felelős: nemzeti fejlesztési miniszter
+## Felelős: innovációért és technológiáért felelős miniszter
 
 ## Határidő: azonnal
 
-## 8.[^4] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a nemzeti fejlesztési miniszter az e határozatban foglaltak végrehajtása érdekében a 6. pont szerinti éven túli korlátok kapcsolódó pénzügyi tranzakciós illetékek és kincstári díjak összegével csökkentett mértékéig, összesen legfeljebb 1 397 515 millió forint összegben kötelezettségeket vállaljon, illetve a már megkötött támogatási szerződést ennek megfelelően módosítsa,
+## 8.[^5] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az e határozatban foglaltak végrehajtása érdekében, a 6. pont szerinti éven túli korlátok kapcsolódó pénzügyi tranzakciós illetékek és kincstári díjak összegével csökkentett mértékéig, összesen legfeljebb 1 421 043 millió forint összegben kötelezettségeket vállaljon, illetve a már megkötött támogatási szerződést ennek megfelelően módosítsa,
 
-## 9.[^5] felhívja az érintett minisztereket, hogy a 2018–2022. években az 1. melléklet szerinti források Előirányzaton való rendelkezésre állásáról gondoskodjon, azzal, hogy a 2. mellékletben foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista” című táblázat 40. valamint 55–56. sorában szereplő projektek tekintetében a 2018. évi költségvetés végrehajtása során tegyen javaslatot 330 millió forintnak az Előirányzat javára történő átcsoportosítására a Modern Városok Program végrehajtására rendelkezésre álló előirányzatok terhére.
+## 9.[^6] felhívja az érintett minisztereket, hogy a 2018–2022. években az 1. melléklet szerinti források Előirányzaton való rendelkezésre állásáról gondoskodjon, azzal, hogy a 2. mellékletben foglalt „4. Költségvetési forrásból megvalósítani tervezett közútfejlesztési projektlista” című táblázat 40. valamint 55–56. sorában szereplő projektek tekintetében a 2018. évi költségvetés végrehajtása során tegyen javaslatot 330 millió forintnak az Előirányzat javára történő átcsoportosítására a Modern Városok Program végrehajtására rendelkezésre álló előirányzatok terhére.
 
 ## Felelős: a 2018. év tekintetében a Miniszterelnökséget vezető miniszter, a nemzetgazdasági miniszter és a nemzeti fejlesztési miniszter, a 2019–2022. évek tekintetében a nemzeti fejlesztési miniszter és a nemzetgazdasági miniszter
 
 ## Határidő: a 2018. év tekintetében a 2018. évi központi költségvetés végrehajtása során, a 2019–2022. évek tekintetében a központi költségvetés tervezése során
 
-1. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz[^6]
+1. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz[^7]
 
-[^1]: Az 1. pont az 1958/2017. (XII. 15.) Korm. határozat 6. pontja, az 1181/2018. (III. 29.) Korm. határozat 7. pontja szerint módosított szöveg. [Az 1. pontnak az 1657/2017. (IX. 13.) Korm. határozat 9. pontjával elrendelt módosítása, amely szerint a „2 525 198 millió forint” szövegrész helyébe a „2 527 893 millió forint” szöveg lép, nem vezethető át.]
-[^2]: A 6. pontot az 1833/2016. (XII. 23.) Korm. határozat 5. pontja iktatta be, szövege az 1181/2018. (III. 29.) Korm. határozat 4. pontjával megállapított szöveg. [A 6. pontnak az 1656/2017. (IX. 13.) Korm. határozat 9. pontjával elrendelt módosítása, amely szerint az „1 295 596 millió forint” szövegrész helyébe az „1 340 581 millió forint” szöveg, a „212 200 millió forint” szövegrész helyébe a „212 447 millió forint” szöveg lép, nem vezethető át.]
-[^3]: A 7. pontot az 1833/2016. (XII. 23.) Korm. határozat 5. pontja iktatta be, szövege az 1181/2018. (III. 29.) Korm. határozat 4. pontjával megállapított szöveg.
-[^4]: A 8. pontot az 1657/2017. (IX. 13.) Korm. határozat 7. pontja iktatta be, szövege az 1181/2018. (III. 29.) Korm. határozat 4. pontjával megállapított szöveg.
-[^5]: A 9. pontot az 1958/2017. (XII. 15.) Korm. határozat 5. pontja iktatta be.
-[^6]: Az 1. melléklet az 1181/2018. (III. 29.) Korm. határozat 5. pontjával megállapított szöveg.
+[^2]: Az 1. pont az 1592/2018. (XI. 22.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^3]: A 6. pontot az 1833/2016. (XII. 23.) Korm. határozat 5. pontja iktatta be, szövege az 1592/2018. (XI. 22.) Korm. határozat 6. pontjával megállapított szöveg.
+[^4]: A 7. pontot az 1833/2016. (XII. 23.) Korm. határozat 5. pontja iktatta be, szövege az 1592/2018. (XI. 22.) Korm. határozat 6. pontjával megállapított szöveg.
+[^5]: A 8. pontot az 1657/2017. (IX. 13.) Korm. határozat 7. pontja iktatta be, szövege az 1592/2018. (XI. 22.) Korm. határozat 6. pontjával megállapított szöveg.
+[^6]: A 9. pontot az 1958/2017. (XII. 15.) Korm. határozat 5. pontja iktatta be.
+[^7]: Az 1. melléklet az 1592/2018. (XI. 22.) Korm. határozat 7. pontjával megállapított szöveg.
