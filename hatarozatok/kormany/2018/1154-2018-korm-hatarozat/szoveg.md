@@ -8,13 +8,20 @@ A Kormány tekintettel
 
 –[^2] a Közép-Duna menti térségben tervezett országos és helyi közúti, valamint vasúti felújítások és fejlesztések megvalósításáról szóló 1573/2018. (XI. 15.) Korm. határozatra
 
-az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Kiemelt célú beruházások támogatása alcím, Vasúthálózat fejlesztése jogcímcsoport kiadási előirányzatai terhére vállalható kötelezettségek mértékét a 2019–2020. évekre az alábbiak szerint állapítja meg:
+–[^3] a debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő közúti, vasúti és közmű infrastruktúra fejlesztések megvalósításáról, valamint a fejlesztésekkel összefüggő kormányhatározatok módosításáról szóló 1592/2018. (XI. 22.) Korm. határozatra
 
-a)[^3] a 2019. évre vonatkozó kötelezettségvállalás felső korlátja 21 307 070 752 forint,
+az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Kiemelt célú beruházások támogatása alcím, Vasúthálózat fejlesztése jogcímcsoport kiadási előirányzatai terhére vállalható kötelezettségek mértékét a 2019–2021. évekre az alábbiak szerint állapítja meg:[^4]
 
-b)[^4] a 2020. évre vonatkozó kötelezettségvállalás felső korlátja 6 742 000 000 forint.
+a)[^5] a 2019. évre vonatkozó kötelezettségvállalás felső korlátja 26 274 935 226 forint,
+
+b)[^6] a 2020. évre vonatkozó kötelezettségvállalás felső korlátja 35 757 675 137 forint,
+
+c)[^7] a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 34 352 267 065 forint.
 
 [^1]: A harmadik franciabekezdést az 1174/2018. (III. 28.) Korm. határozat 8. pontja iktatta be.
 [^2]: A határozat nyitó szövegrészének negyedik franciabekezdését az 1573/2018. (XI. 15.) Korm. határozat 2. pontja iktatta be.
-[^3]: A határozat a) pontja az 1573/2018. (XI. 15.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
-[^4]: A határozat b) pontja az 1573/2018. (XI. 15.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^3]: A határozat nyitó szövegrészének ötödik franciabekezdését az 1592/2018. (XI. 22.) Korm. határozat 10. pontja iktatta be.
+[^4]: Az 1592/2018. (XI. 22.) Korm. határozat 11. pont 11.1. alpontja szerint módosított szöveg.
+[^5]: A határozat a) pontja az 1592/2018. (XI. 22.) Korm. határozat 11. pont 11.2. alpontja szerint módosított szöveg.
+[^6]: A határozat b) pontja az 1592/2018. (XI. 22.) Korm. határozat 11. pont 11.3. alpontja szerint módosított szöveg.
+[^7]: A határozat c) pontját az 1592/2018. (XI. 22.) Korm. határozat 12. pontja iktatta be.
