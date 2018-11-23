@@ -36,25 +36,41 @@
 
 ## j)[^10] elfogadja, hogy
 
-## ja) az 1. melléklet 3. pontjában foglalt táblázat 4–8. sora szerinti felhívások keretösszege, valamint az ezen felhívások keretében megvalósuló kiemelt projektek indikatív támogatási kerete nem tartalmazza a felmerülő személyi juttatások és azok járulékai hazai forrását, a követelések behajtása érdekében felmerült költségek fedezetét, továbbá
+## ja)[^11] az 1. melléklet 3. pontjában foglalt táblázat 4–9. sora szerinti felhívások keretösszege, valamint az ezen felhívások keretében megvalósuló kiemelt projektek indikatív támogatási kerete nem tartalmazza a felmerülő személyi juttatások és azok járulékai hazai forrását, a követelések behajtása érdekében felmerült költségek fedezetét, továbbá
 
-## jb)[^11] az 1. melléklet 3. pontjában foglalt táblázat 2., 10., 11. és 14. sora szerinti felhívások keretösszege, valamint az ezen felhívások keretében megvalósuló kiemelt projektek indikatív támogatási kerete nem tartalmazza a megvalósítás során felmerülő hazai forrását,
+## jb)[^12] az 1. melléklet 3. pontjában foglalt táblázat 2., 10., 11. és 14. sora szerinti felhívások keretösszege, valamint az ezen felhívások keretében megvalósuló kiemelt projektek indikatív támogatási kerete nem tartalmazza a megvalósítás során felmerülő hazai forrását,
 
-## k)[^12]
+## k)[^13] jóváhagyja
 
-## l)[^13]
+## ka) a KÖFOP-1.0.0-VEKOP-15 azonosító számú, „Kormányzati hitelesítés szolgáltatás (Gov CA) kiterjesztése” című,
 
-## m)[^14] egyetért azzal, hogy az irányító hatóság éves fejlesztési keret módosítására tett javaslata alapján a 2. mellékletben foglalt táblázat F oszlopában szakmai elvárásként meghatározott egyedi feltételekben meghatározott módon a projektmenedzsment költség 30%-kal történő csökkentésével érintett projektek támogatási kerete az éves fejlesztési keretben és a támogatási szerződésekben átvezetésre kerüljön,
+## kb) a KÖFOP-1.0.0-VEKOP-15 azonosító számú, „E-ingatlan-nyilvántartás” című,
 
-## n)[^15] egyetért azzal, hogy a Nemzeti Közszolgálati Egyetem a KÖFOP végrehajtásához kapcsolódóan végzett Jó Állam Mutatók mérésével összefüggő illeszkedésvizsgálatra és a mérési módszertan kidolgozásának támogatására irányuló feladatait a megkezdhető kiemelt projektek támogatási szerződésének megkötéséig végezze el,
+## kc) a KÖFOP-1.0.0-VEKOP-15 azonosító számú, „Az önkormányzati ASP rendszer továbbfejlesztése és országos kiterjesztése (ASP 2.0)” című,
 
-## o)[^16] egyetért azzal, hogy az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény alapján meghatározott szociális hozzájárulási adó mindenkor hatályos mértékének alapulvételével az irányító hatóság vizsgálja felül az érintett, a KÖFOP forrásaiból finanszírozott projektekben felhasználni kívánt személyi jellegű költségek mértékét, és az így keletkező különbözettel az érintett projektek támogatási kerete az éves fejlesztési keretben csökkentésre kerüljön,
+## kd) a KÖFOP-1.0.0-VEKOP-15 azonosító számú, „Területi államigazgatás egységes működését támogató rendszerfejlesztések” című,
+
+## ke) a KÖFOP-1.0.0-VEKOP-15 azonosító számú, „A 21. század családtámogatása és nyugdíja” című,
+
+## kf) a KÖFOP-1.0.0-VEKOP-15 azonosító számú, „A hatáskör átcsoportosításból adódó szakrendszeri integrációs feladatok” című és
+
+## kg) a KÖFOP-1.0.0-VEKOP-15 azonosító számú, „Az egészségügyi ellátási rendszer pénzügyi irányítási és közigazgatási funkcióinak megújítása” című
+
+## kiemelt projekt a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1591/2018. (XI. 22.) Korm. határozat [a továbbiakban: 1591/2018. (XI. 22.) Korm. határozat] szerinti keretemelése, valamint a KÖFOP-1.0.0-VEKOP-15 azonosító számú, „Kormányhivatali ügyintézést támogató szakrendszerek és az egyablakos ügyintézés elérhetőségének fejlesztése” című kiemelt projekt nevesítése tekintetében a KÖFOP 1. prioritásának megemelt keretösszegén belül az eredeti keretösszeg 110%-át meghaladó rész terhére történő kötelezettségvállalást,
+
+## l)[^14] jóváhagyja a KÖFOP-2.1.3-VEKOP-15 azonosító számú, „A területi államigazgatási szervek humánerőforrásának fejlesztése” című kiemelt projekt 1591/2018. (XI. 22.) Korm. határozat szerinti keretemeléséből 265 000 000 forint, valamint a KÖFOP-2.1.7-VEKOP-18 azonosító számú, „Az állampolgári ügyintézés lehetőséginek szélesítése” című kiemelt projekt nevesítése tekintetében a KÖFOP 2. prioritásának megemelt keretösszegén belül az eredeti keretösszeg 110%-át meghaladó rész terhére történő kötelezettségvállalást,
+
+## m)[^15] egyetért azzal, hogy az irányító hatóság éves fejlesztési keret módosítására tett javaslata alapján a 2. mellékletben foglalt táblázat F oszlopában szakmai elvárásként meghatározott egyedi feltételekben meghatározott módon a projektmenedzsment költség 30%-kal történő csökkentésével érintett projektek támogatási kerete az éves fejlesztési keretben és a támogatási szerződésekben átvezetésre kerüljön,
+
+## n)[^16] egyetért azzal, hogy a Nemzeti Közszolgálati Egyetem a KÖFOP végrehajtásához kapcsolódóan végzett Jó Állam Mutatók mérésével összefüggő illeszkedésvizsgálatra és a mérési módszertan kidolgozásának támogatására irányuló feladatait a megkezdhető kiemelt projektek támogatási szerződésének megkötéséig végezze el,
+
+## o)[^17] egyetért azzal, hogy az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény alapján meghatározott szociális hozzájárulási adó mindenkor hatályos mértékének alapulvételével az irányító hatóság vizsgálja felül az érintett, a KÖFOP forrásaiból finanszírozott projektekben felhasználni kívánt személyi jellegű költségek mértékét, és az így keletkező különbözettel az érintett projektek támogatási kerete az éves fejlesztési keretben csökkentésre kerüljön,
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: folyamatos
 
-## p)[^17] felhívja a Miniszterelnökséget vezető minisztert, hogy az irányító hatóság útján
+## p)[^18] felhívja a Miniszterelnökséget vezető minisztert, hogy az irányító hatóság útján
 
 ## pa) vizsgálja meg a KÖFOP végrehajtása során bekövetkező, a kedvezményezettet érintő szervezeti változások esetleges eredményeként az érintett kedvezményezett általános forgalmi adó levonására vonatkozó jogával összefüggő változások hatásait, és ezzel összefüggésben a projektek támogatási keretét,
 
@@ -64,29 +80,29 @@
 
 ## Határidő: folyamatos
 
-## q)[^18] jóváhagyja az Európai Bizottsággal előzetesen egyeztetett KÖFOP módosítására vonatkozó javaslatot (a továbbiakban: javaslat), és felhívja a Miniszterelnökséget vezető minisztert, hogy az irányító hatósággal együttműködve gondoskodjon a javaslatnak az Európai Bizottság részére történő benyújtásáról,
+## q)[^19] jóváhagyja az Európai Bizottsággal előzetesen egyeztetett KÖFOP módosítására vonatkozó javaslatot (a továbbiakban: javaslat), és felhívja a Miniszterelnökséget vezető minisztert, hogy az irányító hatósággal együttműködve gondoskodjon a javaslatnak az Európai Bizottság részére történő benyújtásáról,
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: 2017. június 30.
 
-## r)[^19] felhívja a Miniszterelnökséget vezető minisztert, hogy az irányító hatóság útján gondoskodjon a KÖFOP-ban átcsoportosítani tervezett költségkeretek mértékének megfelelő kötelezettségek vállalásáról,
+## r)[^20] felhívja a Miniszterelnökséget vezető minisztert, hogy az irányító hatóság útján gondoskodjon a KÖFOP-ban átcsoportosítani tervezett költségkeretek mértékének megfelelő kötelezettségek vállalásáról,
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: folyamatos
 
-## s)[^20]
+## s)[^21]
 
-## t)[^21] jóváhagyja az r) alpont szerinti átcsoportosítás Európai Bizottság általi elfogadásáig a KÖFOP 1. prioritása keretében megvalósuló projektek tekintetében az eredeti keretösszeg 110%-át meghaladó rész terhére történő kötelezettségvállalást,
+## t)[^22] jóváhagyja az r) alpont szerinti átcsoportosítás Európai Bizottság általi elfogadásáig a KÖFOP 1. prioritása keretében megvalósuló projektek tekintetében az eredeti keretösszeg 110%-át meghaladó rész terhére történő kötelezettségvállalást,
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
 ## Határidő: folyamatos
 
-## u)[^22]
+## u)[^23]
 
-## v)[^23] az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet [a továbbiakban: 17/2017. (II. 1.) Korm. rendelet] 6/A. §-a alapján hozzájárul, hogy a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1287/2017. (VI. 2.) Korm. határozat szerinti,
+## v)[^24] az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet [a továbbiakban: 17/2017. (II. 1.) Korm. rendelet] 6/A. §-a alapján hozzájárul, hogy a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1287/2017. (VI. 2.) Korm. határozat szerinti,
 
 ## va) a KÖFOP-1.0.0-VEKOP-15 azonosító jelű, a „Közigazgatási szakrendszerek egységes eléréséhez és interoperabilitásához központi alkalmazás szintű szolgáltatások biztosítása” című,
 
@@ -96,17 +112,23 @@
 
 ## kiemelt projektek keretemelése és annak végrehajtása során a 17/2017. (II. 1.) Korm. rendelet 3–6. §-ában foglalt eljárási szabályok ne kerüljenek alkalmazásra.
 
-## w)[^24] a 17/2017. (II. 1.) Korm. rendelet 6/A. §-a alapján hozzájárul, hogy a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1936/2017. (XII. 8.) Korm. határozattal módosított, a KÖFOP-2.2.5-VEKOP-15 azonosító jelű, az „Átláthatóság a közpénzek felhasználásánál, államháztartási adattárház” című kiemelt projekt keretemelése és annak végrehajtása során a 17/2017. (II. 1.) Korm. rendelet 3. §-a ne kerüljön alkalmazásra,
+## w)[^25] a 17/2017. (II. 1.) Korm. rendelet 6/A. §-a alapján hozzájárul, hogy a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1936/2017. (XII. 8.) Korm. határozattal módosított, a KÖFOP-2.2.5-VEKOP-15 azonosító jelű, az „Átláthatóság a közpénzek felhasználásánál, államháztartási adattárház” című kiemelt projekt keretemelése és annak végrehajtása során a 17/2017. (II. 1.) Korm. rendelet 3. §-a ne kerüljön alkalmazásra,
 
-## x)[^25] a 17/2017. (II. 1.) Korm. rendelet 6/A. §-a alapján hozzájárul, hogy a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1056/2018. (II. 21.) Korm. határozattal módosított, a KÖFOP-1.0.0-VEKOP-15-2016-00024 azonosító számú, „A 21. század családtámogatása és nyugdíja” című kiemelt projekt keretemelése és annak végrehajtása során a 17/2017. (II. 1.) Korm. rendelet 3. §-a ne kerüljön alkalmazásra,
+## x)[^26] a 17/2017. (II. 1.) Korm. rendelet 6/A. §-a alapján hozzájárul, hogy a KÖFOP-1.0.0-VEKOP-15-2016-00024 azonosító számú, „A 21. század családtámogatása és nyugdíja” című kiemelt projekt
 
-## y)[^26] jóváhagyja a KÖFOP-1.0.0-VEKOP-15-2016-00024 azonosító számú, „A 21. század családtámogatása és nyugdíja” című kiemelt projekt keretemelése tekintetében a KÖFOP 1. prioritás eredeti keretösszegének 110%-át meghaladó rész terhére történő kötelezettségvállalást.
+## xa) a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1056/2018. (II. 21.) Korm. határozat szerinti keretemelése és annak végrehajtása során a 17/2017. (II. 1.) Korm. rendelet 3. §-a,
+
+## xb) 1591/2018. (XI. 22.) Korm. határozat szerinti keretemelése és annak végrehajtása során a 17/2017. (II. 1.) Korm. rendelet 3–5. §-a
+
+## ne kerüljön alkalmazásra,
+
+## y)[^27] jóváhagyja a KÖFOP-1.0.0-VEKOP-15-2016-00024 azonosító számú, „A 21. század családtámogatása és nyugdíja” című kiemelt projekt keretemelése tekintetében a KÖFOP 1. prioritás eredeti keretösszegének 110%-át meghaladó rész terhére történő kötelezettségvállalást.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^27]
+## 3.[^28]
 
-1. melléklet az 1004/2016. (I. 18.) Korm. határozathoz[^28]
+1. melléklet az 1004/2016. (I. 18.) Korm. határozathoz[^29]
 
 ## A KÖFOP éves fejlesztési kerete
 
@@ -130,19 +152,19 @@
 
 | 8. | KÖFOP-1.0.0-VEKOP-15 | Közúti gépjármű-, vízügyi és légügyi közlekedési-, engedélyezési és vizsgáztatási folyamatok ügyfélközpontú elektronizálása | 1,80 | kiemelt | Meghirdetve: 2015. szeptember |
 
-| 9. | KÖFOP-1.0.0-VEKOP-15 | Kormányzati hitelesítés szolgáltatás (Gov CA) kiterjesztése | 2,80 | kiemelt | Meghirdetve: 2015. szeptember |
+| 9. | KÖFOP-1.0.0-VEKOP-15 | Kormányzati hitelesítés szolgáltatás (Gov CA) kiterjesztése | 3,07 | kiemelt | Meghirdetve: 2015. szeptember |
 
 | 10. | KÖFOP-1.0.0-VEKOP-15 | Ügyfélkapcsolati rendszerek fejlesztése | 6,30 | kiemelt | Meghirdetve: 2015. szeptember |
 
 | 11. | KÖFOP-1.0.0-VEKOP-15 | Hivatalos küldeménykövető | 2,40 | kiemelt | Meghirdetve: 2015. szeptember |
 
-| 12. | KÖFOP-1.0.0-VEKOP-15 | E-ingatlan-nyilvántartás | 13,125 | kiemelt | Meghirdetve: 2015. szeptember |
+| 12. | KÖFOP-1.0.0-VEKOP-15 | E-ingatlan-nyilvántartás | 14,125 | kiemelt | Meghirdetve: 2015. szeptember |
 
 | 13. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatás informatikai infrastruktúrájának konszolidálása a költségek csökkentése érdekében | 16,35 | kiemelt | Meghirdetve: 2015. szeptember |
 
 | 14. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatási szakrendszerek egységes eléréséhez és interoperabilitásához központi alkalmazás szintű szolgáltatások biztosítása | 9,498 | kiemelt | Meghirdetve: 2015. szeptember |
 
-| 15. | KÖFOP-1.0.0-VEKOP-15 | Az önkormányzati ASP rendszer továbbfejlesztése és országos kiterjesztése (ASP 2.0) | 18,00 | kiemelt | Meghirdetve: 2015. szeptember |
+| 15. | KÖFOP-1.0.0-VEKOP-15 | Az önkormányzati ASP rendszer továbbfejlesztése és országos kiterjesztése (ASP 2.0) | 19,00 | kiemelt | Meghirdetve: 2015. szeptember |
 
 | 16. | KÖFOP-1.0.0-VEKOP-15 | A Belügyminisztérium által kezelt nemzeti adatvagyon nyilvántartások továbbfejlesztése, magas szintű szolgáltató képesség megteremtése a KÖFOP 1.1.1., 1.1.2. és 1.2.3. intézkedések támogatása érdekében, az érintett adatvagyon nyilvántartások Kormányzati Adatközpontba történő integrálásával | 5,46 | kiemelt | Meghirdetve: 2015. szeptember |
 
@@ -154,7 +176,7 @@
 
 | 20. |  |  |  |  |  |
 
-| 21. | KÖFOP-1.0.0-VEKOP-15 | Területi államigazgatás egységes működését támogató rendszerfejlesztések | 5,50 | kiemelt | Meghirdetve: 2015. szeptember |
+| 21. | KÖFOP-1.0.0-VEKOP-15 | Területi államigazgatás egységes működését támogató rendszerfejlesztések | 6,00 | kiemelt | Meghirdetve: 2015. szeptember |
 
 | 22. | KÖFOP-1.0.0-VEKOP-15 | EKEIDR egységes irat- és folyamatkezelő rendszer területi közigazgatásra történő kiterjesztése | 10,75 | kiemelt | Meghirdetve: 2015. szeptember |
 
@@ -168,7 +190,7 @@
 
 | 27. | KÖFOP-1.0.0-VEKOP-15 | Az egységes integrált állami vagyonnyilvántartás közhitelességének és adatkonzisztenciájának ellenőrzéséhez szükséges további fejlesztések | 2,58 | kiemelt | Meghirdetve: 2015. szeptember |
 
-| 28. | KÖFOP-1.0.0-VEKOP-15 | A 21. század családtámogatása és nyugdíja | 11,925 | kiemelt | Meghirdetve: 2015. szeptember |
+| 28. | KÖFOP-1.0.0-VEKOP-15 | A 21. század családtámogatása és nyugdíja | 22,635 | kiemelt | Meghirdetve: 2015. szeptember |
 
 | 29. |  |  |  |  |  |
 
@@ -184,17 +206,19 @@
 
 | 35. | KÖFOP-1.0.0-VEKOP-15 | A kormányhivatal irányításának hatékonyabbá tételét biztosító háttér kialakítása | 7,00 | kiemelt | Meghirdetve: 2015. szeptember |
 
-| 36. | KÖFOP-1.0.0-VEKOP-15 | A hatáskör átcsoportosításból adódó szakrendszeri integrációs feladatok | 10,00 | kiemelt | Meghirdetve: 2015. szeptember |
+| 36. | KÖFOP-1.0.0-VEKOP-15 | A hatáskör átcsoportosításból adódó szakrendszeri integrációs feladatok | 11,00 | kiemelt | Meghirdetve: 2015. szeptember |
 
 | 36a. | KÖFOP-1.0.0-VEKOP-15 | A szőlő és bor ágazat elektronikus ügyintézési és ellenőrzési rendszerének kialakítása és az elektronikus pincekönyv vezetési lehetőség biztosítása | 1,202 | kiemelt | Meghirdetve: 2015. szeptember |
 
 | 36b. | KÖFOP-1.0.0-VEKOP-15 | Földmegfigyelési Információs Rendszer (FIR) földmegfigyelési adatinfrastruktúra és szolgáltatások kialakítása | 7,00 | kiemelt | Meghirdetve: 2015. szeptember |
 
-| 36c. | KÖFOP-1.0.0-VEKOP-15 | Az egészségügyi ellátási rendszer pénzügyi irányítási és közigazgatási funkcióinak megújítása | 3,4 | kiemelt | Meghirdetve: 2015. szeptember |
+| 36c. | KÖFOP-1.0.0-VEKOP-15 | Az egészségügyi ellátási rendszer pénzügyi irányítási és közigazgatási funkcióinak megújítása | 3,90 | kiemelt | Meghirdetve: 2015. szeptember |
 
 | 36d. | KÖFOP-1.0.0-VEKOP-15 | A Nemzeti Akkreditáló Hatóság hatósági eljárásainak tudásalapú átalakítása és az ehhez kapcsolódó szervezeti és informatikai fejlesztés a közigazgatási szolgáltatások átfutási ideje csökkentésének és minősége javításának érdekében | 1,23 | kiemelt | Meghirdetve: 2015. szeptember |
 
 | 36e. | KÖFOP-1.0.0- VEKOP-15 | A bírósági igazgatás további elektronizálása (Digitális Bíróság) | 2,70 | kiemelt | Meghirdetve: 2015. szeptember |
+
+| 36f. | KÖFOP-1.0.0- VEKOP-15 | Kormányhivatali ügyintézést támogató szakrendszerek és az egyablakos ügyintézés elérhetőségének fejlesztése | 6,50 | kiemelt | 2018. |
 
 | 37. | KÖFOP-1.2.1-VEKOP-16 | Csatlakoztatási konstrukció az önkormányzati ASP rendszer országos kiterjesztéséhez | 8,50 | egyszerűsített | Meghirdetve: 2016.augusztus |
 
@@ -210,13 +234,13 @@
 
 | 3. | KÖFOP-2.1.2-VEKOP-15 | A jó kormányzást megalapozó közszolgálat-fejlesztés | 11,80 | kiemelt | Meghirdetve: 2015. december |
 
-| 4. | KÖFOP-2.1.3-VEKOP-15 | A területi államigazgatási szervek humánerőforrásának fejlesztése | 6,90 | kiemelt | Meghirdetve: 2015. december |
+| 4. | KÖFOP-2.1.3-VEKOP-15 | A területi államigazgatási szervek humánerőforrásának fejlesztése | 7,90 | kiemelt | Meghirdetve: 2015. december |
 
 | 5. | KÖFOP-2.1.4-VEKOP-16 | A Külgazdasági és Külügyminisztérium humánerőforrás-gazdálkodásának és belső képzési rendszerének fejlesztése | 1,55 | kiemelt | Meghirdetve: 2016. november |
 
 | 6. | KÖFOP-2.1.5-VEKOP-16 | A versenyképes közszolgálat személyzeti utánpótlásának stratégiai támogatása | 6,50 | kiemelt | Meghirdetve: 2016. június |
 
-| 7. |  |  |  |  |  |
+| 7. | KÖFOP-2.1.7-VEKOP-18 | Az állampolgári ügyintézés lehetőséginek szélesítése | 4,50 | kiemelt | 2018. |
 
 | 8. | KÖFOP-2.2.1-VEKOP-16 | A nemzetbiztonsági ellenőrzések elektronizálása a korrupciós esetek nagyobb arányú felderítése, illetve megelőzése érdekében | 1,50 | kiemelt | Meghirdetve: 2016. |
 
@@ -227,6 +251,8 @@
 | 11. |  |  |  |  |  |
 
 | 12. | KÖFOP-2.2.5-VEKOP-15 | Átláthatóság a közpénzek felhasználásánál, államháztartási adattárház | 6,715 | kiemelt | Meghirdetve: 2015. december |
+
+| 12a. | KÖFOP-2.2.6-VEKOP-18 | Jogszabályban rögzített közzétételi kötelezettségek alá eső adatok körének felülvizsgálata | 2,00 | kiemelt | 2018. |
 
 | 13. | KÖFOP-2.3.1-VEKOP-16 | Helyi közszolgáltatás információs rendszer fejlesztése és bevezetése (IKIR) | 4,00 | kiemelt | Meghirdetve: 2016. február |
 
@@ -284,21 +310,22 @@
 [^8]: Az 1. pont h) alpontja az 1369/2016. (VII. 13.) Korm. határozat 4. pont b) alpontja, az 1585/2016. (X. 25.) Korm. határozat 5. pont 5.1. alpontja, az 1287/2017. (VI. 2.) Korm. határozat 4. pont 4.1. alpontja szerint módosított szöveg.
 [^9]: Az 1. pont i) alpontját az 1936/2017. (XII. 8.) Korm. határozat 5. pontja hatályon kívül helyezte.
 [^10]: Az 1. pont j) alpontja az 1117/2017. (III. 13.) Korm. határozat 2. pontjával megállapított szöveg.
-[^11]: Az 1. pont j) alpont jb) alpontja az 1472/2018. (IX. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^12]: Az 1. pont k) alpontját az 1200/2016. (IV. 15.) Korm. határozat 2. pontja iktatta be, hatályon kívül helyezte az 1936/2017. (XII. 8.) Korm. határozat 5. pontja.
-[^13]: Az 1. pont l) alpontját újból hatályon kívül helyezte az 1117/2017. (III. 13.) Korm. határozat 9. pont b) alpontja.
-[^14]: Az 1. pont m) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1117/2017. (III. 13.) Korm. határozat 3. pontjával megállapított szöveg.
-[^15]: Az 1. pont n) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be.
-[^16]: Az 1. pont o) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1117/2017. (III. 13.) Korm. határozat 4. pontjával megállapított, az 1056/2018. (II. 21.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
-[^17]: Az 1. pont p) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be.
-[^18]: Az 1. pont q) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, szövege az 1287/2017. (VI. 2.) Korm. határozat 1. pontjával megállapított szöveg.
-[^19]: Az 1. pont r) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be.
-[^20]: Az 1. pont s) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, hatályon kívül helyezte az 1936/2017. (XII. 8.) Korm. határozat 5. pontja.
-[^21]: Az 1. pont t) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be.
-[^22]: Az 1. pont u) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be, hatályon kívül helyezte az 1936/2017. (XII. 8.) Korm. határozat 5. pontja.
-[^23]: Az 1. pont v) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be.
-[^24]: Az 1. pont w) alpontját az 1936/2017. (XII. 8.) Korm. határozat 2. pontja iktatta be.
-[^25]: Az 1. pont x) alpontját az 1936/2017. (XII. 8.) Korm. határozat 2. pontja iktatta be, szövege az 1056/2018. (II. 21.) Korm. határozat 1. pontjával megállapított szöveg.
-[^26]: Az 1. pont y) alpontját az 1056/2018. (II. 21.) Korm. határozat 2. pontja iktatta be.
-[^27]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: Az 1. melléklet az 1200/2016. (IV. 15.) Korm. határozat 3. és 5. pontja, az 1369/2016. (VII. 13.) Korm. határozat 2. pont a) alpontja és 3. pont 3.2–3.4. alpontja, az 1585/2016. (X. 25.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3–5.5. alpontja, az 1740/2016. (XII. 13.) Korm. határozat 1. pont a) alpontja, az 1117/2017. (III. 13.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1287/2017. (VI. 2.) Korm. határozat 3. pont a) alpontja és 4. pont 4.3–4.5. alpontja, az 1592/2017. (VIII. 28.) Korm. határozat 3. pont a) alpontja, az 1936/2017. (XII. 8.) Korm. határozat 4. pont a)–b) alpontja, az 1056/2018. (II. 21.) Korm. határozat 3. pont a) alpontja és a 4. pont b)–c) alpontja, az 1340/2018. (VII. 25.) Korm. határozat 1. pont 1.1. és 1.2. alpontja szerint módosított szöveg.
+[^11]: Az 1. pont j) alpont ja) alpontja az 1591/2018. (XI. 22.) Korm. határozat 4. pont 4.1. alpontja szerint módosított szöveg.
+[^12]: Az 1. pont j) alpont jb) alpontja az 1472/2018. (IX. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^13]: Az 1. pont k) alpontját újonnan az 1591/2018. (XI. 22.) Korm. határozat 1. pontja iktatta be.
+[^14]: Az 1. pont l) alpontját újonnan az 1591/2018. (XI. 22.) Korm. határozat 1. pontja iktatta be.
+[^15]: Az 1. pont m) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1117/2017. (III. 13.) Korm. határozat 3. pontjával megállapított szöveg.
+[^16]: Az 1. pont n) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be.
+[^17]: Az 1. pont o) alpontját az 1585/2016. (X. 25.) Korm. határozat 3. pontja iktatta be, szövege az 1117/2017. (III. 13.) Korm. határozat 4. pontjával megállapított, az 1056/2018. (II. 21.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^18]: Az 1. pont p) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be.
+[^19]: Az 1. pont q) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, szövege az 1287/2017. (VI. 2.) Korm. határozat 1. pontjával megállapított szöveg.
+[^20]: Az 1. pont r) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be.
+[^21]: Az 1. pont s) alpontját az 1117/2017. (III. 13.) Korm. határozat 4. pontja iktatta be, hatályon kívül helyezte az 1936/2017. (XII. 8.) Korm. határozat 5. pontja.
+[^22]: Az 1. pont t) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be.
+[^23]: Az 1. pont u) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be, hatályon kívül helyezte az 1936/2017. (XII. 8.) Korm. határozat 5. pontja.
+[^24]: Az 1. pont v) alpontját az 1287/2017. (VI. 2.) Korm. határozat 2. pontja iktatta be.
+[^25]: Az 1. pont w) alpontját az 1936/2017. (XII. 8.) Korm. határozat 2. pontja iktatta be.
+[^26]: Az 1. pont x) alpontját az 1936/2017. (XII. 8.) Korm. határozat 2. pontja iktatta be, szövege az 1591/2018. (XI. 22.) Korm. határozat 2. pontjával megállapított szöveg.
+[^27]: Az 1. pont y) alpontját az 1056/2018. (II. 21.) Korm. határozat 2. pontja iktatta be.
+[^28]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: Az 1. melléklet az 1200/2016. (IV. 15.) Korm. határozat 3. és 5. pontja, az 1369/2016. (VII. 13.) Korm. határozat 2. pont a) alpontja és 3. pont 3.2–3.4. alpontja, az 1585/2016. (X. 25.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3–5.5. alpontja, az 1740/2016. (XII. 13.) Korm. határozat 1. pont a) alpontja, az 1117/2017. (III. 13.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1287/2017. (VI. 2.) Korm. határozat 3. pont a) alpontja és 4. pont 4.3–4.5. alpontja, az 1592/2017. (VIII. 28.) Korm. határozat 3. pont a) alpontja, az 1936/2017. (XII. 8.) Korm. határozat 4. pont a)–b) alpontja, az 1056/2018. (II. 21.) Korm. határozat 3. pont a) alpontja és a 4. pont b)–c) alpontja, az 1340/2018. (VII. 25.) Korm. határozat 1. pont 1.1. és 1.2. alpontja, az 1591/2018. (XI. 22.) Korm. határozat 3. pont a) alpontja és 4. pont 4.2–4.3. alpontja szerint módosított szöveg.
