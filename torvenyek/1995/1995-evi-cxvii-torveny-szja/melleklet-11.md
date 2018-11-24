@@ -623,17 +623,3 @@ a) az üzemanyag-fogyasztási norma és az állami adó- és vámhatóság álta
 b) a számlával (számlákkal) igazolt üzemanyag-vásárlás vehető figyelembe, azonban a számla alapján figyelembe vett üzemanyag-mennyiség nem lehet több, mint az üzemi használatra az üzemanyag-fogyasztási normával számított mennyiség,
 
 azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév első napján választott üzemanyag-felhasználással összefüggő költségelszámolási módszertől – ideértve a választott üzemanyag-fogyasztási normát is – nem térhet el. Nem alkalmazható az a) pont rendelkezése, ha az egyéni vállalkozó az Áfa törvény szabályai szerint az üzemanyag általános forgalmi adóját levonásba helyezi.
-
-2.
-
-3.
-
-4.
-
-5. A saját tulajdonú nem kizárólag üzemi célú jármű – kivéve a személygépkocsit – beszerzési árával szemben a II. fejezet szerint átalányban érvényesíthető értékcsökkenési leírás. Az 1. pontban nem említett személygépkocsi esetén az átalány szerinti elszámolás a következő módon érvényesíthető: a II. fejezetben említett nyilvántartás vezetése mellett az éves bevételnek 1 százaléka, de legfeljebb egy személygépkocsi beszerzési árának a 10 százaléka vehető figyelembe, illetőleg a hivatkozott pontban meghatározott átalány címén egyébként elszámolt költség ezzel az összeggel növelhető. Egy adott személygépkocsi értéke alapján csak egy ízben, a használatbavétel évében vehető figyelembe ez az átalány. Más költségek az üzemi használattal arányosan számolhatók el az 1. pont vonatkozó rendelkezése szerint.
-
-6. Saját tulajdonú személygépkocsi esetében az üzemanyagköltségen kívül az 5. pontban foglaltak helyett és minden más költség (pl. fenntartás, javítás, felújítás) címén 15 Ft/km (általános személygépkocsi-normaköltség) elszámolása választható.
-
-7. A nem saját tulajdonú kizárólag üzemi célra használt jármű (kivéve a személygépkocsit) esetében elszámolható az üzemi használatra eső
-
-a) igazolt bérleti vagy lízingdíj (ez alól kivételt képez a személygépkocsi bérleti vagy lízingdíja),

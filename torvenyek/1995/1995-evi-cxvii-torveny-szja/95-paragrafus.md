@@ -6,8 +6,8 @@
 
 (4) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 1. számú melléklet 7. pont 7.40. alpontja a 2018. július 1-jét követően teljesített kifizetésekre is alkalmazható.
 
-(5) A 2019. január 1-jét megelőzően nyújtott lakáscélú munkáltatói támogatással összefüggésben az e törvény 2018. december 31-én hatályos szabályait alkalmazni kell.
+(5) A 2019. január 1-jét megelőzően nyújtott lakáscélú munkáltatói támogatás elszámolásával, felhasználásának igazolásával összefüggésben e törvény 2018. december 31-én hatályos szabályait kell alkalmazni.
 
-(6) Az Szja tv. 70. § (1) bekezdés c) pontjának és 1. számú melléklet 6.pont 6.3. alpontjának 2018. december 31-én hatályos rendelkezését a 2018-ban kezdődő biztosítási évre – de legfeljebb 2019. december 31-éig – megfizetett biztosítási díjakra lehet alkalmazni.
+(6) E törvénynek az adóköteles díjú személybiztosításokra és a kockázati biztosításra vonatkozó, továbbá azzal összefüggő egyéb, 2018. december 31-én hatályos rendelkezéseit a 2018-ban kezdődő biztosítási évben – de legfeljebb 2019. december 31-éig – még alkalmazni kell, azzal, hogy amennyiben a biztosítási díj vagy annak egy része a díjfizetés időpontjában a 6.3. alpont szerint adómentes bevételnek minősült, úgy ezen biztosítás adómentes díjjal fedezett biztosítási időszakában bekövetkezett biztosítási esemény alapján nyújtott szolgáltatásra az 1. számú melléklet 2018. december 31-én hatályos 6.6. és 6.7. alpontját kell alkalmazni.
 
 (7) Az állami adó- és vámhatóság az egyéni vállalkozók számára első alkalommal a 2018. évre vonatkozóan készít bevallási tervezetet.

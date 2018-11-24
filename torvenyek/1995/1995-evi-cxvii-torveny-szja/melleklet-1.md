@@ -184,7 +184,7 @@ b) a központi költségvetésből jövedelempótlék vagy annak megfelelő jogc
 
 4.12.1. hallgató részére
 
-a) nappali tagozaton az őt megillető juttatásként kifizetett
+a) a teljes idejű, a részidős, a távoktatásban megvalósuló képzésben részt vevőt, ideértve a doktori képzésben részt vevőt megillető juttatásként kifizetett
 
 – ösztöndíj,
 
@@ -192,9 +192,11 @@ a) nappali tagozaton az őt megillető juttatásként kifizetett
 
 – diákotthoni (kollégiumi) elhelyezését kiváltó lakhatási támogatás összege,
 
-b) nappali tagozaton a gyakorlati képzés idejére, duális képzés esetén az elméleti és a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
+b) a gyakorlati képzés idejére, duális képzés esetén az elméleti és a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
 
 c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Ösztöndíj, nemzeti felsőoktatási kiválóság ösztöndíj;
+
+d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályázat alapján nyújtott ösztöndíj;
 
 4.12.2. doktorjelölt részére a nemzeti felsőoktatási kiválóság ösztöndíj;
 
@@ -273,6 +275,8 @@ azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekinte
 4.42. a Magyar Művészeti Akadémiáról szóló törvényben meghatározott művészjáradék;
 
 4.43. az Országos Tudományos Diákköri Konferencián elért eredményért járó pénzjutalom.
+
+4.44. a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvényben meghatározott tudományos alkotói járadék.
 
 5.
 
@@ -589,6 +593,8 @@ b) a kifizető által ugyanazon magánszemélynek az adóévben legfeljebb 50 ez
 8.41. a közszolgálati médiaszolgáltatások digitális vételének biztosítása érdekében nyújtott – a műsorterjesztés és a digitális átállás szabályairól szóló törvényben meghatározott – állami támogatás.
 
 8.42. az Európai Unió valamely pénzügyi alapja vagy az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatásból a Családbarát Ország projekt keretében nem pénzben biztosított juttatás, így különösen a babacsomag, a kelengyecsomag.
+
+8.43. a hallgatók, diákok, oktatók széles köre számára köznevelési vagy felsőoktatási intézmény által működési körében meghirdetett rendezvény – ideértve a közösségépítő, hagyományőrző rendezvényeket is – keretében nyújtott szolgáltatás, továbbá a rendezvény összes költségének 10 százalékát meg nem haladó mértékben biztosított vendéglátás, a juttatás időpontjától függetlenül, akkor is, ha a rendezvényen a tanulókon, hallgatókon, tanárokon, oktatókon kívül más személy is részt vehet.
 
 9. Adómentességre vonatkozó vegyes rendelkezések:
 
