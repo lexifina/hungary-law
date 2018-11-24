@@ -36,6 +36,6 @@ q) az 50. § (2c) bekezdése szerinti igazolás megszerzésének időpontja, ill
 
 (2) A könyvvizsgáló cégek nyilvántartása tartalmazza a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezéséért, a minőségbiztosításért, a fegyelmi eljárásért, valamint a közfelügyeletért felelős szervek nevét és címét is.
 
-(3) Az (1) bekezdés l), m) és q) pontjában foglalt adatok kivételével az (1) és (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
+(3) Az (1) bekezdés l) és m) pontjában foglalt adatok kivételével az (1) és (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
 
 (4) A könyvvizsgáló cégek nyilvántartására megfelelően alkalmazni kell a 33. § (3) és (5) bekezdését is.

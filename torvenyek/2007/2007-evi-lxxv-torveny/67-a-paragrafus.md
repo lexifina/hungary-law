@@ -14,14 +14,4 @@
 
 (6) A közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló, könyvvizsgáló cég a Rendelet 15. cikk szerinti dokumentumokat a dokumentumok keletkezését követően legalább 8 évig köteles megőrizni.
 
-(7) A Rendelet 17. cikk (2) bekezdés b) pontja alapján
-
-a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti közérdeklődésre számot tartó hitelintézet,
-
-b) a biztosítási tevékenységről szóló törvény szerinti közérdeklődésre számot tartó biztosító és viszontbiztosító,
-
-c) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti közérdeklődésre számot tartó befektetési vállalkozás, és
-
-d) a tőkepiacról szóló törvény szerinti közérdeklődésre számot tartó kibocsátónak minősülő befektetési alapkezelő
-
-tekintetében a kamarai tag könyvvizsgáló, könyvvizsgáló cég jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására irányuló megbízása és a megújított megbízások együttesen legfeljebb 8 üzleti évre szólhatnak.
+(7)

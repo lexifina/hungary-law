@@ -38,6 +38,6 @@ q) az IFRS minősítéshez kapcsolódó szakmai minősítő vizsga követelmény
 
 (3) A nyilvántartás vezetésének célja annak hiteles dokumentálása, hogy a nyilvántartásban szereplő rendelkezik a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzéséhez előírt feltételekkel. A nyilvántartásban szereplők közérdekből nyilvános adatainak, az azokban bekövetkező változásoknak a közzététele az ellenőrzés lehetőségének a megteremtését, illetve az időszerű tájékoztatást szolgálja.
 
-(4) Az (1) bekezdés a), b), c), f), h), i), j), n) és o) pontjában, valamint a (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
+(4) Az (1) bekezdés a), b), c), f), h), i), j), n), o), p) és q) pontjában, valamint a (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
 
 (5) A kamara a tárgyévben nyilvántartásba vettek nyilvántartási számát, nevét, címét, valamint a korábban nyilvántartásba vettek ezen adataiban bekövetkezett változásokat a kamara lapjában évente közzéteszi, továbbá biztosítja, hogy a nyilvános adatok a kamara honlapján folyamatosan és bárki számára szabadon megtekinthetők legyenek.

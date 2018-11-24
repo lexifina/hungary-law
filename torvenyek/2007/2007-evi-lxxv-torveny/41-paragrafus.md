@@ -31,3 +31,5 @@ d) a könyvvizsgáló cég nyilvántartásból való törlése fegyelmi eljárá
 (5) A nyilvántartásból való törlést megállapító határozat véglegessé válása napjával a kamara visszavonja a 34. § (1) bekezdése alapján kiállított igazolást.
 
 (6) A nyilvántartásból való törlésről és annak okáról a kamara tájékoztatja azon államok illetékes hatóságait, amelyekben a gazdálkodó szervezet (szervezet) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult.
+
+(7) A könyvvizsgáló cég nyilvántartásból való törlésére irányuló eljárást – az (1) bekezdés d) pont kivételével – mindaddig fel kell függeszteni, ameddig a könyvvizsgáló céggel szemben az e törvény szerinti minőségellenőrzési eljárás, fegyelmi eljárás, illetve a 172/A. § és 178. § szerinti eljárás van folyamatban.

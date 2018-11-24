@@ -16,4 +16,6 @@ e) a tag halálával.
 
 (3) A tagsági viszony megszűnésének megállapítása tekintetében a kamara felvételi bizottsága jár el.
 
-(4) A 9/G. § (1) bekezdése szerinti igazolás visszavonása esetén a tagsági jogviszony az engedély visszavonásáról szóló döntés véglegessé válásának napján szűnik meg.
+(4) A 9/G. § (1) bekezdése szerinti igazolás visszavonása esetén a tagsági jogviszony az igazolás visszavonásáról szóló döntés véglegessé válásának napján szűnik meg.
+
+(5) A kamarai tagság megszűnésére irányuló eljárást – az (1) bekezdés e) pont kivételével – mindaddig fel kell függeszteni, ameddig a kamarai tag könyvvizsgálóval szemben az e törvény szerinti minőségellenőrzési eljárás, fegyelmi eljárás, illetve a 172/A. § és 178. § szerinti eljárás van folyamatban.
