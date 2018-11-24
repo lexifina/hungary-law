@@ -1,3 +1,1 @@
-122. § Az Art. 157. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A kockázatos adózói minősítés az (1) bekezdés a)–b), d), f) és g) pontja szerinti esetben a minősítés hatályának beálltától számított egy évig, az (1) bekezdés c) pontja szerinti esetben azon időpontig, amíg az adózó a be nem jelentett foglalkoztatottat foglalkoztató adózók közzétételi listáján szerepel, az (1) bekezdés e) pontja szerinti esetben a kényszertörlési eljárás időtartama alatt áll fenn. A minősítés jogkövetkezményeit nem kell alkalmazni, ha az adózó felszámolási, végelszámolási eljárás alatt áll. Ha az eljárás az adózó jogutód nélküli megszűnése nélkül zárul, az adózó kockázatos minősítésének jogkövetkezményeit ismét alkalmazni kell azzal, hogy az egyéves időtartamba a felszámolás, végelszámolás ideje nem számít bele.”
+122. §

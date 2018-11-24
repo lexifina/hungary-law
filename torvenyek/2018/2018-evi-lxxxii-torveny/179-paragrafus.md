@@ -1,3 +1,1 @@
-179. § Az Avt. 60. alcíme a következő 131/B. §-sal egészül ki:
-
-„131/B. § Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel (a továbbiakban. Módtv.1.) megállapított 1. §-t, 15. § (5a) bekezdését, 47. § (3) bekezdését, 52. § (7) bekezdését, 67. § (1) bekezdés b) pontját, a 123/A. §-át és 123/B. §-át a Módtv.1. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell.”
+179. §

@@ -1,9 +1,9 @@
 65. § Hatályát veszti az Áfa tv.
 
-1. 165/A. §-a;
+1.
 
-2. 206. § (1) bekezdés c) és d) pontja;
+2.
 
-3. 206. § (2) bekezdése;
+3.
 
-4. XV. Fejezet „Önálló pozíciószámonkénti nyilvántartáson alapuló módszer a fizetendő adó megállapítására” alcíme.
+4.

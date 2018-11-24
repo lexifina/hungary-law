@@ -1,5 +1,3 @@
 ## 5. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
 
-44. § A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény (a továbbiakban: Katv.) 1. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A kisvállalati adóval összefüggésben az adókötelezettséget, az adót befolyásoló, annak csökkenését eredményező szabály, adóelőny annyiban alkalmazható, érvényesíthető, amennyiben az annak alapjául szolgáló jogügylet (jogügyletek sorozata) megvalósítja a szabály, az adóelőny célját és tartalmát tekintve valós gazdasági, kereskedelmi okok alapozzák meg. Az alkalmazhatóságot, az érvényesíthetőséget annak kell bizonyítania, akinek az érdekében áll. Ha a jogügylet (jogügyletek sorozata) alapján az állapítható meg, hogy annak fő célja vagy egyik fő célja olyan adóelőny az egyik fél vagy a felek számára, amely ellentétes az alkalmazandó adójogszabály tárgyával vagy céljával, akkor a jogügylet (jogügyletek sorozata) alapján adóelőny nem érvényesíthető.”
+44. §
