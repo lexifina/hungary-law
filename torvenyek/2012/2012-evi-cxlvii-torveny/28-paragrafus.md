@@ -21,3 +21,5 @@
 (9) E törvénynek az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvénnyel megállapított 19. § (3) bekezdését az egyes törvényeknek a központi költségvetésről szóló törvény megalapozásával összefüggő, valamint egyéb célú módosításáról szóló 2012. évi CCVIII. törvény hatálybalépésekor folyamatban lévő bejelentésekre is alkalmazni kell.
 
 (10) Az adózó 27. § szerinti jogutód nélküli megszűnése esetén a bevallás benyújtásának határideje a megszűnés hónapját követő ötödik hónap utolsó napja.
+
+(11) A társasági adó hatálya alól a kisadózó vállalkozások tételes adójának hatálya alá bejelentkező adóalanyok esetében a 2. § 12. pontjában foglaltaktól eltérően nem kell a kisadózó vállalkozás bevételének tekinteni azt a bevételt, amelyet a Tao. tv. alapján a társasági adó alapjának kell tekinteni. E bevételeket a kisadózó vállalkozás bevételi nyilvántartásában fel kell tüntetni azzal a külön bejegyzéssel, hogy e bevételek a társasági adó alapját képezik.
