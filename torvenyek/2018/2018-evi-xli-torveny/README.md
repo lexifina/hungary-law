@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-41-00-00
 | 2018-08-26 | 2010. évi CXXX. törvény | 2018-41-00-00.8 |
 | 2018-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-41-00-00.9 |
 | 2018-09-02 | 2010. évi CXXX. törvény | 2018-41-00-00.10 |
+| 2018-11-24 | 2018. évi LXXXII. törvény | 2018-41-00-00.11 |
