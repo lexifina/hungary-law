@@ -1,0 +1,3 @@
+110. § Az Art. 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A felszámoló, a végelszámoló, kényszertörlési eljárás esetén a vezető tisztségviselő vagy – ha a kényszertörlési eljárást végelszámolás előzte meg – a volt végelszámoló által elkövetett jogsértés miatt a mulasztási bírságot és az eljárási bírságot felszámolás esetén a felszámolóval, végelszámolás esetén a végelszámolóval, kényszertörlési eljárás esetén a vezető tisztségviselővel vagy a volt végelszámolóval szemben kell megállapítani, azzal, hogy a felszámoló, a végelszámoló, a volt végelszámoló, illetve a vezető tisztségviselő akkor mentesül a mulasztási bírság, illetve az eljárási bírság alól, ha bizonyítja, hogy a jogsértés az ő érdekkörén kívül eső okra vezethető vissza.”

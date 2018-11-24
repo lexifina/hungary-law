@@ -1,0 +1,3 @@
+48. § A Katv. 20. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében, megállapodásában olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak, – az (1)–(4) bekezdésben foglaltaktól függetlenül – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést, megállapodást, feltéve, hogy a szerződés, megállapodás alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint kell megállapítani.”

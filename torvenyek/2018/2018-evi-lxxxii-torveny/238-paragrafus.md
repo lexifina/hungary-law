@@ -1,0 +1,13 @@
+238. § (1) Az MRP tv. 24/K. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az MRP szervezet megszűnésére a jogi személy megszűnésének általános szabályait kell alkalmazni azzal az eltéréssel, hogy az MRP alapjául szolgáló javadalmazási politika megszűnése esetén a legfőbb szerv köteles a kapcsolódó MRP szervezet jogutód nélküli megszüntetését elhatározni. A bíróság az MRP szervezet alapjául szolgáló javadalmazási politika semmisségét megállapító ítéletében elrendeli az MRP szervezet jogutód nélküli megszüntetését.”
+
+(2) Az MRP tv. 24/K. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Az MRP szervezet csődeljárására és felszámolási eljárására a csődeljárásról és a felszámolási eljárásról szóló törvényt a civil szervezetek csődeljárására, illetve felszámolási eljárására irányadó különös törvényi szabályokban foglalt eltérésekkel kell alkalmazni.”
+
+(3) Az MRP tv. 24/K. § (3) és (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az MRP szervezet jogutód nélküli megszűnése esetén, a megszűnés napjával, az alapítóra száll át minden olyan pénzügyi eszköz, amelynek pénzre történő átváltására meghatározott feltételek még nem következtek be.
+
+(4) Ha az alapítóra átszálló pénzügyi eszközt nem az alapító juttatta nem pénzbeli vagyoni hozzájárulásként az MRP szervezetnek, vagy az MRP alapjául szolgáló javadalmazási politika arról rendelkezett, hogy a pénzügyi eszköz vagy az ahhoz kapcsolódó tagi részesedés ellenérték fejében illeti meg a résztvevőt, a jogosult (így különösen a pénzügyi eszköz juttatója, illetve az ellenértéket egészben vagy részben már kifizető résztvevő) igényét a végelszámolás befejezését megelőzően kell teljesíteni.”

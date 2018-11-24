@@ -1,0 +1,3 @@
+123. § Az Art. 161. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha az adózó a jogszabálysértés elkövetésének időpontjában vagy a jogszabálysértés feltárásának, illetve az utólagos ellenőrzés megállapításairól szóló jegyzőkönyv keltének időpontjában kockázatos adózónak minősült, az állami adó- és vámhatóság az adóbírság és a mulasztási bírság kiszabását nem mellőzheti, és az általa kiszabható legkisebb bírság mértéke az egyébként kiszabható bírság felső határának harminc százaléka, a rögzített bírságösszeg vagy bírságmérték esetén a bírság mértéke az egyébként irányadó bírság százharminc százaléka.”

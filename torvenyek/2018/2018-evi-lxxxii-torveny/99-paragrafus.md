@@ -1,0 +1,3 @@
+99. § A Szocho tv. 19. § -a a következő szöveggel lép hatályba:
+
+„19. § Az egyéni vállalkozó az adót az Art. rendelkezései szerint havonta állapítja meg, és a tárgyhónapot követő hónap 12-éig vallja be és fizeti meg. Az egyéni vállalkozó és a kiegészítő tevékenységet folytató egyéni vállalkozó a vállalkozói osztalékalap után fizetendő adót a tárgyévre vonatkozó személyi jövedelemadó bevallásában vallja be és a bevallás benyújtására előírt határidő lejártáig fizeti meg.”
