@@ -58,7 +58,7 @@ d)
 
 22. a költségmentesség engedélyezése iránti eljárás, valamint a költségmentesség feltételei fennállásának igazolásához kiállított irat;
 
-23. az adó és járulék ügyben az adóhatóságnál, vámigazgatási ügyben a vámhatóságnál kezdeményezett első fokú eljárás – ideértve más hatóság adó, adó jellegű kötelezettség megállapításával kapcsolatos ilyen eljárását is –, kivéve az adó- és értékbizonyítvány kiállítása iránt kezdeményezett eljárást;
+23. az adó-, jövedéki- és járulékügyben, valamint a vámigazgatási ügyben kezdeményezett elsőfokú eljárás – ideértve a kizárólag ezen ügyek lefolytatása érdekében indított egyéb eljárásokat is –, kivéve az adó- és értékbizonyítvány kiállítása iránt kezdeményezett eljárást;
 
 24. a kárpótlási eljárás, a részaránytulajdonnal kapcsolatos eljárás és az ilyen eljárásokhoz szükséges irat, a kisajátítási eljárás, a kisajátítási járulékos költségek megtérítésére irányuló eljárás, valamint a kisajátítási kérelem benyújtására kötelezés iránti eljárás;
 

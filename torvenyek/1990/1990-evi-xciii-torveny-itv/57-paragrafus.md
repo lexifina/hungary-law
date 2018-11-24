@@ -1,6 +1,6 @@
 57. § (1) Illetékmentes a polgári és közigazgatási ügyekben:
 
-a) az eljárást megindító beadvány visszautasításáról – cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása nélküli visszautasításáról –, valamint az eljárás megszüntetéséről rendelkező döntés elleni fellebbezés, illetve felülvizsgálat, ha a megszüntetésre az elektronikus kapcsolattartásra vonatkozó szabályok megszegése miatt, a Pp. 259. §-ában foglalt okokból, vagy azért került sor, mert az eljárást megindító beadvány visszautasításának lett volna helye;
+a) az eljárás, ha a bíróság az eljárást (ideértve a fellebbezési és a felülvizsgálati eljárást is) megindító beadványt – cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása nélkül – visszautasítja, vagy az eljárást a Pp. 259. §-ában foglalt okokból, illetve az elektronikus kapcsolattartásra vonatkozó szabályok megszegése miatt vagy azért szünteti meg, mert az eljárást megindító beadvány visszautasításának lett volna helye, továbbá az ezen eljárásban hozott döntés elleni fellebbezés és felülvizsgálat;
 
 b) a költségkedvezmény tárgyában hozott határozat elleni jogorvoslati eljárás;
 
@@ -82,4 +82,4 @@ b) a büntetés-végrehajtási ügyben, büntetés vagy az intézkedés végreha
 
 a) a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolatának, illetve az írásban tett feljelentés megtételét igazoló irat másolatának egyszeri kiadása,
 
-b) a sértett részére a kihallgatásáról, valamint a sértett lakóhelyén, tartózkodási helyén, továbbá a szabálysértés helyszínén folytatott helyszíni szemléről készült jegyzőkönyv másolatának egyszeri kiadása.
+b) a sértett részére a kihallgatásáról, valamint a sértett lakcímén, tényleges tartózkodási helyén, továbbá a szabálysértés helyszínén folytatott helyszíni szemléről készült jegyzőkönyv másolatának egyszeri kiadása.

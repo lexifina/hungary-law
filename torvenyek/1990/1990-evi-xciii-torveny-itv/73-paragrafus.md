@@ -40,11 +40,11 @@ kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt
 
 (3a)
 
-(4) Elektronikus úton kezdeményezett közigazgatási hatósági eljárás esetén az eljárási illetéket az eljárás megindítását megelőzően banki átutalással vagy – a technikai feltételek megléte esetén – az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel kell megfizetni.
+(4) Elektronikus úton kezdeményezett közigazgatási hatósági eljárás esetén az eljárási illetéket az eljárás megindítását megelőzően banki átutalással vagy – a technikai feltételek megléte esetén – az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel kell megfizetni. Banki átutalással történő illetékfizetés esetén az átutalás közleményrovatában az ügyfél nevét, lakcímét vagy székhelyét, illetve – amennyiben az ismert – az ügyszámot kell feltüntetni.
 
 (4a) Az elektronikus úton kezdeményezett építésügyi hatósági, valamint az azokban szükséges szakhatósági eljárások illetékét készpénz átutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – ha erre lehetőség van – elektronikus fizetési és elszámolási rendszeren keresztül, az eljárás megindítását megelőzően vagy azt követően kell megfizetni. Az eljárási illeték megfizetését az átutalási megbízás elfogadásáról szóló nyilatkozat másolatával kell igazolni.
 
-(5) Az eljárási illeték előzetes megfizetését az eljárás megindításakor a (2) bekezdés a) pontjában szabályozott esetben a feladóvevénynek a kérelemhez csatolásával, a (4)–(4a) bekezdésekben szabályozott esetekben pedig a készpénzátutalási megbízás feladóvevényén szereplő azonosító szám (8 számjegyű azonosító), a megfizetett eljárási illeték összegének és a befizetés időpontjának feltüntetésével kell közölni az eljáró hatósággal.
+(5) Az eljárási illeték előzetes megfizetését az eljárás megindításakor a (2) bekezdés a) pontjában szabályozott esetben a feladóvevénynek a kérelemhez csatolásával, a (4a) bekezdés szerinti elektronikus eljárásban készpénz-átutalással történő illetékfizetés esetén a készpénz-átutalási megbízás feladóvevényén szereplő azonosító szám (8 számjegyű azonosító), a megfizetett eljárási illeték összegének és a befizetés időpontjának feltüntetésével kell közölni az eljáró hatósággal.
 
 (6) Az eljárási illetéket, ha azt elektronikusan kezdeményezett közigazgatási hatósági eljárás esetén az eljárás megindítását (kérelem előterjesztését) megelőzően nem fizették meg, legkésőbb az ügyazonosító ügyfél általi megismerését követő munkanapon kell megfizetni.
 

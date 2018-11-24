@@ -81,3 +81,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2018-01-01 | 2017. évi CXXX. törvény | 1990-93-00-00.162 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1990-93-00-00.163 |
 | 2018-07-26 | 2018. évi XLI. törvény | 1990-93-00-00.164 |
+| 2018-11-24 | 2018. évi LXXXII. törvény | 1990-93-00-00.165 |
