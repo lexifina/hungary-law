@@ -1,17 +1,3 @@
-## Az 1505/2016. (IX. 21.) Korm. határozat 2. melléklet 4. pontjában foglalt táblázat a következő 67. és 68. sorral egészül ki:
-
-|  | (A) | (B) | (C) |
-
-| (1) | (A tervezett projekt megnevezése) | (A megvalósítás tervezett kezdete) | (A megvalósítás tervezett befejezése) |
-
-| „ |  |  |  |
-
-| 67. | M35 autópálya új, Debrecen-Józsa csomópont építése, valamint M35 autópálya meglévő, 354. sz. főút csomópont átépítése | 2019. II. negyedév | 2021. IV. negyedév |
-
-| 68. | 33. sz. főút 2×2 sávra bővítése az M35 autópálya és az ipari fejlesztési terület között, a 33. sz. főút 2×2 sávra bővítése az ipari fejlesztési terület és a 3316. jelű összekötő út között, kerékpárút építése a 33. sz. főút mellett az M35 autópálya és az ipari fejlesztési terület között, valamint a 33. sz. főút csomópontjainak fejlesztése az M35 autópálya és a 35. sz. főút között | 2019. II. negyedév | 2022. IV. negyedév |
-
-## ”
-
 5. melléklet az 1592/2018. (XI. 22.) Korm. határozathoz
 
 | IX. Helyi önkormányzatok támogatásai ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2018. forintban |

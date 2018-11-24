@@ -224,69 +224,21 @@
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5. Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások összehangolásáról és azok 2022-ig történő megvalósításáról szóló 1371/2016. (VII. 15.) Korm. határozat [a továbbiakban: 1371/2016. (VII. 15.) Korm. határozat] 1. melléklete a 2. melléklet szerint módosul.
+## 5.[^1]
 
-## 6. Magyarország rövid- és középtávú közútfejlesztéseinek 2022-ig történő megvalósításához szükséges feltételek biztosításáról szóló 1505/2016. (IX. 21.) Korm. határozat [a továbbiakban: 1505/2016. (IX. 21.) Korm. határozat] 6–8. pontja helyébe a következő rendelkezések lépnek:
+## 6.[^2]
 
-## (A Kormány)
+## 7.[^3]
 
-## „6. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Közlekedési ágazati programok alcím, Kiemelt közúti projektek kiadási előirányzata (a továbbiakban: Előirányzat) terhére vállalható kötelezettségek mértékét a 2019–2023. évekre az alábbiak szerint állapítja meg:
+## 8.[^4]
 
-## a) a 2019. évre vonatkozó kötelezettségvállalás felső korlátja: 402 492 millió forint,
+## 9.[^5]
 
-## b) a 2020. évre vonatkozó kötelezettségvállalás felső korlátja: 230 469 millió forint,
+## 10.[^6]
 
-## c) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja: 142 465 millió forint,
+## 11.[^7]
 
-## d) a 2022. évre vonatkozó kötelezettségvállalás felső korlátja: 70 444 millió forint,
-
-## e) a 2023. évre vonatkozó kötelezettségvállalás felső korlátja: 200 millió forint,
-
-## 7. felhívja az innovációért és technológiáért felelős minisztert, hogy a 6. pontban meghatározott éven túli előirányzati korlátok és az 1. mellékletben foglalt források figyelembevételével a már megkötött támogatási szerződéseket módosítsa,
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: azonnal
-
-## 8. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az e határozatban foglaltak végrehajtása érdekében, a 6. pont szerinti éven túli korlátok kapcsolódó pénzügyi tranzakciós illetékek és kincstári díjak összegével csökkentett mértékéig, összesen legfeljebb 1 421 043 millió forint összegben kötelezettségeket vállaljon, illetve a már megkötött támogatási szerződést ennek megfelelően módosítsa,”
-
-## 7. Az 1505/2016. (IX. 21.) Korm. határozat 1. melléklete helyébe a 3. melléklet lép.
-
-## 8. Az 1505/2016. (IX. 21.) Korm. határozat 2. melléklete a 4. melléklet szerint módosul.
-
-## 9. Az 1505/2016. (IX. 21.) Korm. határozat 1. pontjában a „2 587 759 millió forint” szövegrész helyébe a „2 611 369 millió forint” szöveg lép.
-
-## 10. Magyarország vasúthálózat-fejlesztéseihez szükséges kötelezettségvállalásról szóló 1154/2018. (III. 27.) Korm. határozat [a továbbiakban: 1154/2018. (III. 27.) Korm. határozat] nyitó szövegrésze a következő ötödik franciabekezdéssel egészül ki:
-
-## (A Kormány tekintettel)
-
-## „– a debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő közúti, vasúti és közmű infrastruktúra fejlesztések megvalósításáról, valamint a fejlesztésekkel összefüggő kormányhatározatok módosításáról szóló 1592/2018. (XI. 22.) Korm. határozatra”
-
-## 11. Az 1154/2018. (III. 27.) Korm. határozat
-
-## 11.1. nyitó szövegrészben az „a 2019–2020. évekre” szövegrész helyébe az „a 2019–2021. évekre” szöveg,
-
-## 11.2. a) pontjában a „21 307 070 752 forint,” szövegrész helyébe a „26 274 935 226 forint,” szöveg,
-
-## 11.3. b) pontjában a „6 742 000 000 forint.” szövegrész helyébe a „35 757 675 137 forint,” szöveg
-
-## lép.
-
-## 12. Az 1154/2018. (III. 27.) Korm. határozat a következő c) ponttal egészül ki:
-
-## [A Kormány tekintettel
-
-## – a Békéscsaba, Hódmezővásárhely, Szeged és Szabadka térsége elővárosi közlekedése fejlesztésének támogatásáról szóló 1585/2017. (VIII. 28.) Korm. határozatra,
-
-## – a Budapest–Kolozsvár nagysebességű vasútvonal részletes megvalósíthatósági tanulmányának elkészítéséről szóló 1151/2018. (III. 26.) Korm. határozatra
-
-## – a Budapest–Varsó nagysebességű vasútvonal részletes megvalósíthatósági tanulmányának elkészítéséről szóló 1174/2018. (III. 28.) Korm. határozatra
-
-## – a Közép-Duna menti térségben tervezett országos és helyi közúti, valamint vasúti felújítások és fejlesztések megvalósításáról szóló 1573/2018. (XI. 15.) Korm. határozatra
-
-## az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Kiemelt célú beruházások támogatása alcím, Vasúthálózat fejlesztése jogcímcsoport kiadási előirányzatai terhére vállalható kötelezettségek mértékét a 2019–2020. évekre az alábbiak szerint állapítja meg:]
-
-## „c) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 34 352 267 065 forint.”
+## 12.[^8]
 
 1. melléklet az 1592/2018. (XI. 22.) Korm. határozathoz
 
@@ -369,3 +321,12 @@ közmű projektek
 | 6. | KÖZMŰ-4 | Az Észak-Nyugati Gazdasági Övezet tűzivíz- és használativíz-ellátását növelő, valamint szennyvízelvezetését biztosító hálózat kiépítése [1464/2018. (IX. 25.) Korm. határozat 5. pont d) alpont] | Debrecen MJV | 2019.10.30. |
 
 | 7. | KÖZMŰ-5 | Az Észak-Nyugati Gazdasági Övezet területén meglévő távközlési infrastruktúra kiváltásával és új távközlési hálózat kiépítése [1464/2018. (IX. 25.) Korm. határozat 5. pont e) alpont] | Debrecen MJV | 2019.09.30. |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
