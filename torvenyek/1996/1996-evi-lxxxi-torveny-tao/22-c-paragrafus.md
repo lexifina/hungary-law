@@ -38,7 +38,7 @@ cb) a cc) alpontban foglaltakra is figyelemmel tárgyi eszköz beruházásra, fe
 
 cc) a sportrendezvények biztonságáról szóló külön jogszabályban meghatározott biztonsági követelmények teljesülését szolgáló infrastruktúra-fejlesztésre,
 
-cd) képzéssel összefüggő feladatokra – azzal, hogy az ilyen jogcímen nyújtott támogatás az Európai Közösséget létrehozó Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet 5. szakaszával összhangban képzési támogatásként nyújtható –,
+cd) képzéssel összefüggő feladatokra – azzal, hogy az ilyen jogcímen nyújtott támogatás a 651/2014/EU bizottsági rendelet 31. cikkével összhangban képzési támogatásként nyújtható –,
 
 ce) a személyi jellegű ráfordításaira – azzal, hogy az ilyen jogcímen nyújtott támogatás csekély összegű (de minimis) támogatásként nyújtható –;
 
@@ -122,15 +122,15 @@ ec) (6) bekezdés bc) alpontjában foglaltak teljesülése esetén 30
 
 százalékát, kivéve, ha a beruházás, felújítás sportcélú ingatlanra irányul és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint utófinanszírozás keretében kerül a támogatott szerv részére kifizetésre. Ilyen esetben a jóváhagyott sportfejlesztési program alapján a támogatási időszakban a sportcélú ingatlanfejlesztés készültségével arányos elszámolás benyújtását és annak elfogadását követően nyújtható támogatás.
 
-(4a) A látvány-csapatsportban működő hivatásos sportszervezet, valamint az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a 30/I. § alkalmazandó, a (4) bekezdés c)–e) pontja szerinti mértékeket a támogatási igazolások összértékének támogatási szerződés keretében az (1) bekezdés a) pont ac) alpontjában, az (1) bekezdés b) pont bd) és bf) alpontjában, az (1) bekezdés c) pont cb), cd) és ce) alpontjában, valamint az (1) bekezdés d) pont dc) és de) alpontjában meghatározott jogcímekre nyújtott támogatáshoz kapcsolódó, a támogatott hivatásos sportszervezet vagy a 30/I. § szerinti szervezet részére megfizetett kiegészítő sportfejlesztési támogatással összevont értékére kell alkalmazni.
+(4a) A látvány-csapatsportban működő hivatásos sportszervezet, valamint az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a 30/I. § alkalmazandó, a (4) bekezdés c)–f) pontja szerinti mértékeket a támogatási igazolások összértékének támogatási szerződés keretében az (1) bekezdés a) pont ac) alpontjában, az (1) bekezdés b) pont bd) és bf)–bg) alpontjában, az (1) bekezdés c) pont cb), cd), ce) és cf) alpontjában, valamint az (1) bekezdés d) pont dc), de) és dg) alpontjában meghatározott jogcímekre nyújtott támogatáshoz kapcsolódó, a támogatott hivatásos sportszervezet vagy a 30/I. § szerinti szervezet részére azonos elszámolható költségekkel kapcsolatban megfizetett kiegészítő sportfejlesztési támogatással összevont értékére kell alkalmazni.
 
-(4b) Az (1) bekezdés c) pont cb), cd) és ce) alpontja és az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a 30/I. § alkalmazandó, az (1) bekezdés a) pont ac) alpontja, az (1) bekezdés b) pont bd) és bf) alpontja, az (1) bekezdés c) pont cb), cd) és ce) alpontja, az (1) bekezdés d) pont dc) és de) alpontja szerinti támogatás, valamint más helyi, regionális, államháztartási vagy európai uniós forrásból származó állami támogatás együttes összege jelenértéken nem haladhatja meg a (4) bekezdésben meghatározott mértékeket.
+(4b) Az (1) bekezdés c) pont cb), cd), ce) és cf) alpontja és az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a 30/I. § alkalmazandó, az (1) bekezdés a) pont ac) alpontja, az (1) bekezdés b) pont bd) és bf)–bg) alpontja, az (1) bekezdés c) pont cb), cd), ce) és cf) alpontja, az (1) bekezdés d) pont dc), de) és dg) alpontja szerinti támogatás, valamint más helyi, regionális, államháztartási vagy európai uniós forrásból származó állami támogatás együttes összege azonos elszámolható költségek tekintetében jelenértéken nem haladhatja meg a (4) bekezdésben meghatározott mértékeket.
 
 (5) Támogatási igazolás a támogatás igénybevételére jogosult szervezettel kapcsolatban csak akkor állítható ki, ha
 
 a) a támogatás igénybevételére jogosult szervezetnek nincs lejárt köztartozása,
 
-b) a korábban kapott állami támogatással megfelelő módon elszámolt,
+b) a korábban kapott állami támogatással, látvány-csapatsport támogatással megfelelő módon elszámolt,
 
 c) a látvány-csapatsportban sportvállalkozásként működő hivatásos vagy amatőr sportszervezettel szemben a bíróság nem rendelte el a csődeljárást vagy a sportszervezet felszámolását, továbbá amely sportszervezet nem áll végelszámolás vagy kényszer-végelszámolás vagy kényszertörlési eljárás alatt,
 
@@ -210,6 +210,6 @@ e) a jelenértékén legalább 10 millió forint értékű tárgyi eszköz beruh
 
 (10) Az e § alapján folyó sportfejlesztési program jóváhagyására, valamint a támogatási igazolás kiállítására irányuló eljárás tekintetében a támogatás igénybevételére jogosult szervezet a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezései alapján elektronikus úton tart kapcsolatot a sportfejlesztési program jóváhagyását, valamint a támogatási igazolás kiállítását végző szervezettel.
 
-(11) A beszerzéskor 100 ezer forintot meghaladó bekerülési értékű nyilvántartásba vett tárgyi eszköz a könyv szerinti érték leírásáig nem idegeníthető el, nem terhelhető meg, kivéve annak indoklásával és a jóváhagyást végző szervezet előzetes írásbeli hozzájárulásával.
+(11) A beszerzéskor 100 ezer forintot meghaladó bekerülési értékű nyilvántartásba vett tárgyi eszköz – ide nem értve a 22/C. § (6a) bekezdés szerinti esetet – a jogszabály szerinti kötelező fenntartási időszak vége, vagy a könyv szerinti érték leírása közül a később bekövetkező időpontig nem idegeníthető el, nem terhelhető meg, kivéve annak indoklásával és a jóváhagyást végző szervezet előzetes írásbeli hozzájárulásával.
 
 (12) Amennyiben az adózó a (3a) bekezdésben meghatározott összeget a támogatás adóévét követően, de legkésőbb a támogatás adóévére vonatkozó társasági adóbevallás benyújtására nyitva álló határidőig fizeti meg, akkor az adózó a (2) bekezdés szerinti adókedvezményt legfeljebb a (3) bekezdés szerint a részére kiállított támogatási igazolásban szereplő összeg 80 százalékáig veheti igénybe.
