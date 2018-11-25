@@ -2,6 +2,6 @@
 
 1.
 
-2. 257/D. §-ban az „Adóig. vhr.” helyébe az „Art.”
+2.
 
 szöveg lép.
