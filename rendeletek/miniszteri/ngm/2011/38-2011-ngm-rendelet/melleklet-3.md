@@ -432,7 +432,7 @@
 
 | 5. | 2-metil-izotiazolin-3(2H)-on | 2682-20-4 | 0,25 mg/kg (tartalomra vonatkozó határérték) vízalapú játékanyagokban |
 
-| 6. | Biszfenol-A | 80-05-7 | 0,1 mg/l (kioldódási határérték) az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszereknek megfelelően vagy azokkal egyenértékű műszaki megoldások szerint |
+| 6. | Biszfenol-A | 80-05-7 | 0,04 mg/l (kioldódási határérték) az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszerek szerint mérve vagy azokkal egyenértékű műszaki megoldások szerint |
 
 | 7. | Formamid | 75-12-7 | 20 μg/m3 (kibocsátási határérték) a habosított műanyagból készült játékok több mint 200 mg/kg formamidot (tartalmon alapuló küszöbérték) tartalmazó alapanyaga tekintetében végzett kibocsátásvizsgálat kezdete után legfeljebb 28 nappal |
 
