@@ -1,0 +1,1 @@
+Magyarország Európai Unió melletti Állandó Képviseletén új diplomata álláshely létesítéséről szóló 1562/2017. (VIII. 28.) Korm. határozat alapján az agrárpolitikai szakdiplomata kihelyezésével kapcsolatos költségek biztosítása érdekében a Kormány
