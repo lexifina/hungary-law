@@ -34,7 +34,7 @@
 
 ## miniszterelnök kabinetfőnöke
 
-## Határidő: 2017. június 30., a 2019. évi Maccabi Európa Játékok (EMG 2019.) Budapesten támogatása előirányzat javára biztosított 80 000 ezer forint és a Versenysport támogatása előirányzat javára biztosított 748 414 ezer forint tekintetében 2017. december 31.; – a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1821/2016. (XII. 22.) Korm. határozat 5. pont a), b) és c) alpontjára is figyelemmel – a Szovjetunióba hurcolt politikai foglyok és kényszermunkások emlékéve programjainak támogatása jogcímcsoport javára átcsoportosított 910 654 ezer forint és az Emberi Erőforrás Támogatáskezelő cím javára átcsoportosított 64 746 ezer forint tekintetében 2018. június 30., a a Területfejlesztéssel összefüggő feladatok jogcímcsoport javára átcsoportosított 1 441 000 ezer forint tekintetében 2018. december 31.
+## Határidő: 2017. június 30., a 2019. évi Maccabi Európa Játékok (EMG 2019.) Budapesten támogatása előirányzat javára biztosított 80 000 ezer forint és a Versenysport támogatása előirányzat javára biztosított 748 414 ezer forint tekintetében 2017. december 31.; – a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1821/2016. (XII. 22.) Korm. határozat 5. pont a), b) és c) alpontjára is figyelemmel – a Szovjetunióba hurcolt politikai foglyok és kényszermunkások emlékéve programjainak támogatása jogcímcsoport javára átcsoportosított 910 654 ezer forint és az Emberi Erőforrás Támogatáskezelő cím javára átcsoportosított 64 746 ezer forint tekintetében 2018. június 30., a a Területfejlesztéssel összefüggő feladatok jogcímcsoport javára átcsoportosított 1 441 000 ezer forint tekintetében 2019. június 30.
 
 ## c) egyetért azzal, hogy a belügyminiszter az 1. pont b) alpont szerint a IX. Helyi önkormányzatok támogatásai fejezet részére átcsoportosított 64 115 ezer forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében és egy összegben 64 115 ezer forint támogatást nyújtson Budapest I. kerület Budavári Önkormányzata (a továbbiakban: Önkormányzat) részére, valamint a támogatás felhasználásának és elszámolásának részletes feltételeiről támogatási szerződést kössön az Önkormányzattal, 2017. december 31-ig történő felhasználási kötelezettség előírása mellett;
 
@@ -64,7 +64,7 @@
 
 1. melléklet az 1438/2016. (VIII. 17.) Korm. határozathoz
 
-[^1]: Az 1. pont b) alpontja az 1033/2017. (I. 31.) Korm. határozat 5. pontja, az 1313/2017. (VI. 8.) Korm. határozat 6. pontja, az 1447/2017. (VII. 7.) Korm. határozat 11. pontja, az 1013/2018. (II. 2.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1033/2017. (I. 31.) Korm. határozat 5. pontja, az 1313/2017. (VI. 8.) Korm. határozat 6. pontja, az 1447/2017. (VII. 7.) Korm. határozat 11. pontja, az 1013/2018. (II. 2.) Korm. határozat 6. pontja, az 1603/2018. (XI. 27.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 8–12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
