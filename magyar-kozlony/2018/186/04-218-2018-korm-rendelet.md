@@ -1,0 +1,262 @@
+# A Kormány 218/2018. (XI. 27.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 186. szám, 2018. november 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/345da65b8fc2000c6308d2bc6463df7b64e6b504/dokumentumok/9df197c75b40e6857e8120830040d5cb962a6f87/letoltes)
+
+---
+
+A Kormány 218/2018. (XI. 27.) Korm. rendelete
+a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási
+Támogatási Eszköz és az Európai Szomszédsági Támogatási Eszköz egyes, határon átnyúló együttműködési
+programjainak végrehajtásához és intézményrendszerének finanszírozásához kapcsolódó
+kormányrendeletek módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15b. pontjában kapott felhatalmazás alapján
+a 2. alcím tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15. pontjában kapott felhatalmazás
+alapján,
+a 3. alcím tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15a. pontjában kapott
+felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről
+szóló 549/2013. (XII. 30.) Korm. rendelet módosítása
+1. §
+Az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013.
+(XII. 30.) Korm. rendelet [a továbbiakban: 549/2013. (XII. 30.) Korm. rendelet] 12. § (2) bekezdés a) pontja helyébe
+a következő rendelkezés lép:
+[A Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft. uniós feladatainak támogatása előirányzat célja
+a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: SZPI)
+által]
+„a) a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaságról szóló
+kormányrendeletben meghatározott tevékenységekből eredően,”
+(ellátott feladatok európai uniós támogatásból el nem számolható költségeinek finanszírozása.)
+2. §
+Az 549/2013. (XII. 30.) Korm. rendelet 12. § (2) bekezdés záró szövegrészében az „ellátott feladatok” szövegrész
+helyébe az„ellátott végrehajtó szervezeti és ügynökségi, közreműködő szervezeti, projekt megvalósítói, lebonyolítói
+
+feladatok, valamint a közös és közös horizontális, továbbá a nemzeti és nemzeti horizontális feladatok európai uniós
+forrásból nem fedezett, illetve”szöveg lép.
+2. A 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap és az Előcsatlakozási
+Támogatási Eszköz egyes, határon átnyúló együttműködési programjainak végrehajtásáról szóló
+126/2016. (VI. 7.) Korm. rendelet módosítása
+3. § (1) A 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap és az Előcsatlakozási Támogatási
+Eszköz egyes, határon átnyúló együttműködési programjainak végrehajtásáról szóló 126/2016. (VI. 7.) Korm.
+rendelet [a továbbiakban: 126/2016. (VI. 7.) Korm. rendelet] 3. § (1) bekezdés 14. pontja helyébe a következő
+rendelkezés lép:
+(E rendelet alkalmazásában)
+„14. IMIR 2014–2020 rendszer: a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap,
+az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági Támogatási Eszköz pénzügyi alapok területi
+együttműködéshez kapcsolódó egyes programjainak támogatásával megvalósuló programok és azok keretében
+megvalósuló projektek adatainak gyűjtésére, rendszerezésére szolgáló informatikai rendszer, ide nem értve a NAHU
+2014–2020 rendszer által kezelt nemzeti feladatokat,”
+(2) A 126/2016. (VI. 7.) Korm. rendelet 3. § (1) bekezdése a következő 22a. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„22a. NAHU 2014–2020 rendszer: a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap,
+az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági Támogatási Eszköz pénzügyi alapok területi
+együttműködéshez kapcsolódó egyes programjainak nemzeti feladatai ellátását támogató informatikai rendszer,”
+4. §
+A 126/2016. (VI. 7.) Korm. rendelet 4. § (2a) bekezdése helyébe a következő rendelkezés lép:
+„(2a) A (2) bekezdést nem kell alkalmazni
+a) az 1. § d) pontja szerinti együttműködési program Kisprojekt Alapjából finanszírozott kisprojektek és az 1. §
+a) pontja szerinti együttműködési programból finanszírozott kis- és középvállalkozások részére nyújtott támogatási
+konstrukcióban részt vevő kedvezményezettekre,
+b) az 1. § d) pontja szerinti együttműködési programból finanszírozott kis- és középvállalkozások részére nyújtott
+támogatási konstrukcióban részt vevő kis- és középvállalkozás kedvezményezettekre.”
+5. §
+A 126/2016. (VI. 7.) Korm. rendelet 7. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A hazai kedvezményezett és a hazai TA kedvezményezett köteles visszafizetni)
+„a) a hazai társfinanszírozást, ha a hazai társfinanszírozás kifizetésétől számított egy éven belül – TA
+kedvezményezett esetén az adott program által meghatározott végső költségelszámolási határidőig – nem nyújt be
+előlegelszámolást,”
+6. §
+A 126/2016. (VI. 7.) Korm. rendelet 8. § (1a) bekezdése helyébe a következő rendelkezés lép:
+„(1a) Nem biztosítható az (1) bekezdés szerinti megelőlegezés az 1. § d) pontja szerinti együttműködési program
+Kisprojekt Alapjából finanszírozott kisprojektek és az 1. § a) és d) pontja szerinti együttműködési programból
+finanszírozott kis- és középvállalkozások részére nyújtott támogatási konstrukcióban részt vevő kis- és
+középvállalkozás kedvezményezettek számára.”
+7. §
+A 126/2016. (VI. 7.) Korm. rendelet 12. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A hitelesítési tevékenységre kijelölt szervezet az ellenőrzött közbeszerzési eljárás lefolytatása során
+megállapított, sorozatos vagy ismétlődő, valamint a támogatási összeg korrekciójával járó jogsértések esetén
+jogosult a közbeszerzési eljárás lebonyolításával összefüggésben elszámolni kívánt költség arányos csökkentésére.
+Sorozatos vagy ismétlődő jogsértésnek minősül
+a) az ugyanazon közbeszerzési eljárásban előforduló legalább három ugyanolyan vagy különböző típusú eljárási
+jellegű, de a támogatási összeg korrekcióját nem eredményező jogsértés,
+b) ha a projekt keretében az adott kedvezményezett által több közbeszerzési eljárás lefolytatásával megbízott
+személy vagy szervezet az általa lefolytatott eljárásokban eljárásonként legalább kettő eljárási jellegű, de
+a támogatási összeg korrekcióját nem eredményező jogsértést követ el.”
+
+8. §
+A 126/2016. (VI. 7.) Korm. rendelet 28. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Közbeszerzést érintő jogsértés megállapítása esetén a 12. § (4) bekezdését kell megfelelően alkalmazni.”
+9. §
+A 126/2016. (VI. 7.) Korm. rendelet 27. alcíme helyébe a következő alcím lép:
+„27. Az IMIR 2014–2020 és a NAHU 2014–2020 rendszerre vonatkozó speciális szabályok
+68. § A négy szem elvének érvényesülését köteles biztosítani
+a) az irányító hatóság, a nemzeti hatóság, az igazoló hatóság, a közös titkárság és a hitelesítési tevékenységre
+kijelölt szervezet az uniós forrásokra vonatkozó szerződéskötés, a pénzügyi lebonyolítás, valamint ezen folyamatok
+adatainak az IMIR 2014–2020 rendszerben, továbbá
+b) a nemzeti hatóság, a hitelesítési tevékenységre kijelölt szervezet és a pénzügyi átutalási egység a hazai
+társfinanszírozási, valamint az uniós támogatás megelőlegezési szerződések vonatkozásában a szerződéskötés,
+a pénzügyi lebonyolítás, valamint ezen folyamatok adatainak a NAHU 2014–2020 rendszerben
+történő rögzítése során.
+69. § (1) Az 1. § a), b) és d) pontja szerinti együttműködési program végrehajtásában részt vevő
+a) valamennyi szervezet köteles az IMIR 2014–2020 rendszert használni a végrehajtási, kifizetési, ellenőrzési,
+monitoring és hitelesítési feladata ellátása során, valamint köteles felhasználni ezen feladatához kapcsolódó
+tájékoztatási kötelezettsége ellátásához,
+b) nemzeti hatóság, hitelesítési tevékenységre kijelölt szervezet és a pénzügyi átutalási egység köteles az a) pont
+szerinti informatikai rendszerhasználat mellett a NAHU 2014–2020 rendszert is használni a nemzeti funkciók teljes
+körű ellátása érdekében.
+(2) Az 1. § c), e) és f) pontja szerinti együttműködési program végrehajtásában részt vevő szervezet köteles a NAHU
+2014–2020 rendszert használni a hazai társfinanszírozási szerződés és megelőlegezési szerződés, valamint a kifizetés
+és visszafizetés kezelésére.
+70. § (1) Ha az IMIR 2014–2020 rendszer, illetve a NAHU 2014–2020 rendszer moduljainak alkalmazása egyes
+feladatok ellátását nem biztosítja, az adott modulban el nem végezhető feladatok, kifizetések rendezése – irányító
+hatóság, nemzeti hatóság vagy az igazoló hatóság által egyedileg meghatározott módon történő – dokumentálását
+kell biztosítani, és haladéktalanul gondoskodni kell az érintett modulokban az adatok teljes körű utólagos
+rögzítéséről.
+(2) Ha az IMIR 2014–2020 rendszer, illetve a NAHU 2014–2020 rendszer finanszírozási modulja nem biztosítja
+az átutalási megbízás rögzítését, akkor – az utalás igazoló hatóság, irányító hatóság vagy nemzeti hatóság által
+egyedileg meghatározott módon történő dokumentálása mellett – az átutalási megbízás kiállítása az IMIR
+2014–2020 rendszeren, illetve a NAHU 2014–2020 rendszeren kívül, papír alapon is történhet.
+(3) Az uniós támogatás Európai Bizottságtól való igénylése és az Európai Unióval történő elszámolás benyújtása
+az IMIR 2014–2020 rendszerben teljeskörűen rögzített adatok alapján, kizárólag az IMIR 2014–2020 rendszerben
+elkészített dokumentumokkal történhet.
+(4) Az egyes feladatok papír alapon történő elvégzésének kötelezettsége vonatkozik az értesítési, tájékoztatási
+kötelezettségre is.
+71. § Az IMIR 2014–2020 rendszerben, valamint a NAHU 2014–2020 rendszerben használt elektronikus
+aláírások a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi
+szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU
+európai parlamenti és tanácsi rendelet értelmében hiteles aláírásnak minősülnek, kiváltják az ahhoz fűződő
+joghatásokat és bírósági eljárásokban bizonyítékként elfogadhatók.
+71/A. § A kedvezményezett rendelkezésére bocsátott IMIR 2014–2020 rendszert egyedi jelszóval kell védeni. A jelszó
+biztonságáért, a jelszó használatával az IMIR 2014–2020 rendszerben elvégzett műveletekért a kedvezményezett
+felelős.”
+10. §
+A 126/2016. (VI. 7.) Korm. rendelet a következő 73/C. §-sal egészül ki:
+„73/C. § E rendeletnek a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap,
+az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági Támogatási Eszköz egyes, határon átnyúló
+együttműködési programjainak végrehajtásához és intézményrendszerének finanszírozásához kapcsolódó
+kormányrendeletek módosításáról szóló 218/2018. (XI. 27.) Korm. rendelettel (a továbbiakban: Módr.3) megállapított
+7. § (2) bekezdés a) pontját a Módr.3 hatálybalépésekor fennálló támogatási jogviszonyokban is alkalmazni kell.”
+
+11. §
+A 126/2016. (VI. 7.) Korm. rendelet
+a) 6. § (3) bekezdésében az„az IMIR”szövegrész helyébe az„a NAHU”szöveg,
+b) 6. § (4) bekezdésében az„az IMIR”szövegrész helyébe az„a NAHU”szöveg,
+c) 6. § (5) bekezdésében az„az IMIR”szövegrész helyébe az„a NAHU”szöveg,
+d) 6. § (6) bekezdésében az„az IMIR”szövegrész helyébe az„a NAHU”szöveg,
+e) 6. § (7) bekezdésében az„az IMIR”szövegrész helyébe az„a NAHU”szöveg,
+f) 6. § (8) bekezdésében az„együttes”szövegrész helyébe a„nemleges”szöveg,
+g) 7. § (1c) bekezdésében az„az IMIR”szövegrész helyébe az„a NAHU”szöveg,
+h) 9. § (10) bekezdésében az„együttes”szövegrész helyébe a„nemleges”szöveg,
+i) 9. § (11) bekezdésében az„az IMIR”szövegrész helyébe az„a NAHU”szöveg,
+j) 20. § (2) bekezdés c) pontjában az „IMIR 2014–2020” szövegrész helyébe az „IMIR 2014–2020 rendszerbe,
+illetve a NAHU 2014–2020”szöveg,
+k) 24. §-ában az „IMIR 2014–2020” szövegrész helyébe az „IMIR 2014–2020 rendszerben, illetve a NAHU
+2014–2020”szöveg,
+l) 61. § (2) bekezdésében az „IMIR 2014–2020” szövegrész helyébe az „IMIR 2014–2020 rendszerben, illetve
+a NAHU 2014–2020”szöveg
+lép.
+12. §
+Hatályát veszti a 126/2016. (VI. 7.) Korm. rendelet
+a) 26. alcíme,
+b) 73/A. § b) pontjában a„ , valamint megállapított 7. § (2) bekezdés a) pontját”szövegrész.
+3. A 2014–2020 programozási időszakban az Európai Szomszédsági Támogatási Eszközből
+társfinanszírozott Magyarország–Szlovákia–Románia–Ukrajna ENI Határon Átnyúló Együttműködési
+Program végrehajtásáról szóló 83/2018. (IV. 20.) Korm. rendelet módosítása
+13. § (1) A 2014–2020 programozási időszakban az Európai Szomszédsági Támogatási Eszközből társfinanszírozott
+Magyarország–Szlovákia–Románia–Ukrajna ENI Határon Átnyúló Együttműködési Program végrehajtásáról szóló
+83/2018. (IV. 20.) Korm. rendelet [83/2018. (IV. 20.) Korm. rendelet] 3. § (1) bekezdés 6. pontja helyébe a következő
+rendelkezés lép:
+(E rendelet alkalmazásában)
+„6. IMIR 2014–2020 rendszer: a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap,
+az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági Támogatási Eszköz pénzügyi alapok területi
+együttműködéshez kapcsolódó egyes programjainak támogatásával megvalósuló programok és azok keretében
+megvalósuló projektek adatainak gyűjtésére, rendszerezésére szolgáló informatikai rendszer, ide nem értve a NAHU
+2014–2020 rendszer által kezelt nemzeti feladatokat,”
+(2) A 83/2018. (IV. 20.) Korm. rendelet 3. § (1) bekezdése a következő 10a. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„10a. NAHU 2014–2020 rendszer: a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap,
+az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági Támogatási Eszköz pénzügyi alapok területi
+együttműködéshez kapcsolódó egyes programjainak nemzeti feladatai ellátását támogató informatikai rendszer,”
+14. §
+A 83/2018. (IV. 20.) Korm. rendelet 32. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A költségellenőrzési tevékenységre kijelölt szervezet az ellenőrzött közbeszerzési eljárás lefolytatása során
+megállapított, sorozatos vagy ismétlődő, valamint a támogatási összeg korrekciójával járó jogsértések esetén
+jogosult a közbeszerzési eljárás lebonyolításával összefüggésben elszámolni kívánt költség arányos csökkentésére.
+Sorozatos vagy ismétlődő jogsértésnek minősül
+a) az ugyanazon közbeszerzési eljárásban előforduló legalább három ugyanolyan vagy különböző típusú eljárási
+jellegű, de a támogatási összeg korrekcióját nem eredményező jogsértés,
+b) ha a projekt keretében az adott kedvezményezett által több közbeszerzési eljárás lefolytatásával megbízott
+személy vagy szervezet az általa lefolytatott eljárásokban eljárásonként legalább kettő eljárási jellegű, de
+a támogatási összeg korrekcióját nem eredményező jogsértést követ el.”
+
+15. §
+A 83/2018. (IV. 20.) Korm. rendelet 54. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Közbeszerzést érintő jogsértés megállapítása esetén a 32. § (4) bekezdését kell megfelelően alkalmazni.”
+16. §
+A 83/2018. (IV. 20.) Korm. rendelet V. Fejezete helyébe következő fejezet lép:
+„V. FEJEZET
+AZ IMIR 2014–2020 ÉS A NAHU 2014–2020 RENDSZERRE VONATKOZÓ SPECIÁLIS SZABÁLYOK
+73. § (1) A Program végrehajtásában részt vevő
+a) valamennyi szervezet köteles az IMIR 2014–2020 rendszert használni a végrehajtási, kifizetési, ellenőrzési,
+monitoring, költségellenőrzési és hitelesítési feladata ellátása során, valamint köteles felhasználni az ezen
+feladatához kapcsolódó tájékoztatási kötelezettsége ellátásához,
+b) nemzeti hatóság, a költségellenőrzési tevékenységre kijelölt szervezet és a pénzügyi átutalási egység köteles
+az a) pont szerinti informatikai rendszerhasználat mellett a NAHU 2014–2020 rendszert is használni a nemzeti
+funkciók teljes körű ellátása érdekében.
+(2) A nemzeti hatóság, a költségellenőrzési tevékenységre kijelölt szervezet és a pénzügyi átutalási egység
+köteles a NAHU 2014–2020 rendszert használni a hazai társfinanszírozási szerződés, valamint az annak alapján
+végrehajtandó kifizetés és visszafizetés kezelésére.
+74. § (1) Ha az IMIR 2014–2020 rendszer, illetve a NAHU 2014–2020 rendszer moduljainak alkalmazása egyes
+feladatok ellátását nem biztosítja, az adott modulban el nem végezhető feladatok, kifizetések rendezése
+– az irányító hatóság vagy a nemzeti hatóság által egyedileg meghatározott módon történő – dokumentálását kell
+biztosítani, és haladéktalanul gondoskodni kell az érintett modulokban az adatok teljes körű utólagos rögzítéséről.
+(2) Ha az IMIR 2014–2020 rendszer, illetve a NAHU 2014–2020 rendszer finanszírozási modulja nem biztosítja
+az átutalási megbízás rögzítését, akkor – az utalás irányító hatóság vagy nemzeti hatóság által egyedileg
+meghatározott módon történő dokumentálása mellett – az átutalási megbízás kiállítása az IMIR 2014–2020
+rendszeren, illetve a NAHU 2014–2020 rendszeren kívül, papír alapon is történhet. Az (1) bekezdésben
+meghatározott, a feladatok papír alapon történő elvégzésének kötelezettsége vonatkozik az értesítési, tájékoztatási
+kötelezettségekre is.
+74/A. § A kedvezményezett rendelkezésére bocsátott IMIR 2014–2020 rendszert egyedi jelszóval kell védeni. A jelszó
+biztonságáért, a jelszó használatával az IMIR 2014–2020 rendszerben elvégzett műveletekért a kedvezményezett
+felelős.
+74/B. § Az IMIR 2014–2020 rendszerben, illetve a NAHU 2014–2020 rendszerben használt elektronikus
+aláírások a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi
+szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU
+európai parlamenti és tanácsi rendelet értelmében hiteles aláírásnak minősülnek, kiváltják az ahhoz fűződő
+joghatásokat, és bírósági eljárásokban bizonyítékként elfogadhatók.”
+17. §
+A 83/2018. (IV. 20.) Korm. rendelet
+ 1. 3. § (1) bekezdés 16. pontjában a„monitoringbizottság”szövegrész helyébe a„monitoring bizottság”szöveg,
+ 2. 3. § (1) bekezdés 17. pontjában a „monitoringbizottsága” szövegrész helyébe a „monitoring bizottsága”
+szöveg,
+ 3. 3. § (1) bekezdés 22. pontjában a „monitoringbizottsága” szövegrész helyébe a „monitoring bizottsága”
+szöveg,
+ 4. 5. § nyitó szövegrészében a„monitoringbizottság”szövegrész helyébe a„monitoring bizottság”szöveg,
+ 5. 6. § (1) bekezdésében a„monitoringbizottság”szövegrész helyébe a„monitoring bizottság”szöveg,
+ 6. 6. § (2) bekezdés a) pontjában a„monitoringbizottság”szövegrész helyébe a„monitoring bizottság”szöveg,
+ 7. 12. § (1) bekezdésében a„közös titkárság”szövegrész helyébe a„közös technikai titkárság”szöveg,
+ 8. 15. § (10) bekezdésében a„monitoringbizottság”szövegrész helyébe a„közös monitoring bizottság”szöveg,
+ 9. 16. §-ában a„monitoringbizottság”szövegrész helyébe a„monitoring bizottság”szöveg,
+10. 21. §-ában a„monitoringbizottság”szövegrészek helyébe a„monitoring bizottság”szöveg,
+11. 27. § (1) bekezdésében az„az IMIR”szövegrész helyébe az„a NAHU”szöveg,
+12. 27. § (2) bekezdésében az„az IMIR”szövegrész helyébe az„a NAHU”szöveg,
+13. 27. § (3) bekezdésében az„az IMIR”szövegrész helyébe az„a NAHU”szöveg,
+14. 28. §-ában az„együttes”szövegrész helyébe a„nemleges”szöveg,
+15. 40. § (3) bekezdésében az„az IMIR”szövegrész helyébe az„a NAHU”szöveg,
+16. 40. § (4) bekezdésében az„Az IMIR”szövegrész helyébe az„A NAHU”szöveg,
+
+17. 42. §-ában az„az IMIR”szövegrész helyébe az„a NAHU”szöveg,
+18. 71. § (2) bekezdésében az „IMIR 2014–2020” szövegrész helyébe az „IMIR 2014–2020 rendszerben, illetve
+a NAHU 2014–2020”szöveg
+lép.
+18. §
+Hatályát veszti a 83/2018. (IV. 20.) Korm. rendelet
+a) 3. § (1) bekezdés 11. pontjában az„és a visszakövetelésekkel kapcsolatos feladatokat”szövegrész,
+b) 11. § (5) bekezdésében az„euróalapú”szövegrész,
+c) 63. § (1) bekezdés a) pontjában az „ , az 1303/2013/EU európai parlamenti és tanácsi rendelet 122. cikk
+(2) bekezdése szerinti esetben”szövegrész.
+4. Záró rendelkezések
+19. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
