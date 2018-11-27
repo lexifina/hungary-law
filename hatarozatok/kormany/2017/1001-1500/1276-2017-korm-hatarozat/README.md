@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1276-30
 | 2017-06-01 | 2017-1276-30-22.2 | 2010: CXXX. törvény |
 | 2017-12-27 | 2017-1276-30-22.3 | 2029/2017. (XII. 27.) Korm. határozat |
 | 2018-07-26 | 2017-1276-30-22.4 | 1347/2018. (VII. 26.) Korm. határozat |
+| 2018-11-27 | 2017-1276-30-22.5 | 1347/2018. (VII. 26.) Korm. határozat |
