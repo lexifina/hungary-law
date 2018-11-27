@@ -2,7 +2,7 @@
 
 ## 2. egyetért a Világbajnokság sikeres megrendezéséhez a 2018. évben szükséges legfeljebb 200 000 svájci franknak megfelelő forintösszegű rendezési jogdíj, valamint ezen felül legfeljebb 233 081 980 forint rendezési költség fedezetéül szolgáló központi költségvetési támogatás biztosításával;
 
-## 3. a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 19. § (4) bekezdésében és az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva az 1. pont szerinti támogatási cél megvalósításához 291 081 980 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 2. Országvédelmi Alap alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára, az 1. melléklet szerint;
+## 3.[^1] a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 19. § (4) bekezdésében és az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva az 1. pont szerinti támogatási cél megvalósításához 291 081 980 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 2. Országvédelmi Alap alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -14,7 +14,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2018. november 30.
+## Határidő: 2019. március 31.
 
 ## 4. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a Magyar Turisztikai Ügynökség Zrt. útján a Világbajnokság lebonyolításához kapcsolódó turisztikai szempontok érvényesítéséről, valamint a Bp2017 Nonprofit Kft. útján a Világbajnokság szervezésében történő közreműködésről.
 
@@ -89,3 +89,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont az 1603/2018. (XI. 27.) Korm. határozat 7. pontja szerint módosított szöveg.
