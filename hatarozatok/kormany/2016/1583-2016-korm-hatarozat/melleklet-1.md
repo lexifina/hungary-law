@@ -1,20 +1,20 @@
-## 1. felhívja a Miniszterelnökséget vezető minisztert, a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy gondoskodjanak a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság 1. mellékletben meghatározott, 2007–2013 közötti programozási időszakban megvalósított, közlekedési infrastruktúra fejlesztésére irányuló projektjei (a továbbiakban: projektek) európai uniós forrás terhére el nem számolható költségeinek az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja alapján legfeljebb nyolcmilliárd forint erejéig történő finanszírozásáról, az érintett programok hazai társfinanszírozáson felüli felhasználásával,
+## 1.[^2] felhívja a külgazdasági és külügyminisztert, az innovációért és technológiáért felelős minisztert és a pénzügyminisztert, hogy gondoskodjanak a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság 1. mellékletben meghatározott, 2007–2013 közötti programozási időszakban megvalósított, közlekedési infrastruktúra fejlesztésére irányuló projektjei (a továbbiakban: projektek) európai uniós forrás terhére el nem számolható költségeinek az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja alapján legfeljebb nyolcmilliárd forint erejéig történő finanszírozásáról, az érintett programok hazai társfinanszírozáson felüli felhasználásával,
 
-## Felelős: Miniszterelnökséget vezető miniszter
+## Felelős: külgazdasági és külügyminiszter
 
-## nemzeti fejlesztési miniszter
+## innovációért és technológiáért felelős miniszter
 
-## nemzetgazdasági miniszter
+## pénzügyminiszter
 
 ## Határidő: azonnal
 
-## 2. hozzájárul a projektek tekintetében az 1. pont szerinti forrás – támogatási szerződés keretében történő – biztosításához.
+## 2.[^3] hozzájárul a projektek tekintetében az 1. pont szerinti forrás – támogatási szerződés keretében történő – biztosításához.
 
-## Felelős: Miniszterelnökséget vezető miniszter
+## Felelős: külgazdasági és külügyminiszter
 
-## nemzeti fejlesztési miniszter
+## innovációért és technológiáért felelős
 
-## nemzetgazdasági miniszter
+## pénzügyminiszter
 
 ## Határidő: azonnal
 
@@ -563,3 +563,6 @@
 | 270. | NYDOP-4.3.1/C-2-09-2010-0011 | Körforgalmi csomópont építése Nyúl községben |
 
 | 271. | SPIS: 4300-595/2010 | Rédics–Göntérháza összekötő út építése |
+
+[^2]: Az 1. pont az 1621/2018. (XI. 27.) Korm. határozat a) pontja szerint módosított szöveg.
+[^3]: A 2. pont az 1621/2018. (XI. 27.) Korm. határozat b) pontja szerint módosított szöveg.
