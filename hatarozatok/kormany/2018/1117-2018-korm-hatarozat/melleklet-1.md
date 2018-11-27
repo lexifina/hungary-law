@@ -1,6 +1,6 @@
 ## 1. egyetért az Erdélyi Református Egyházkerület Ajtoni Református Egyházközségét érintő fejlesztési program (a továbbiakban: Beruházás) előkészítéseként a részére bemutatott és általa megtárgyalt műszaki tartalommal jóváhagyási, engedélyezési és kivitelezési terv elkészítésével;
 
-## 2. a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés l), m) és o) pontjai szerinti előkészületi fázisokra mindösszesen legfeljebb 250 000 000 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészületeket legkésőbb 2018. szeptember 30-ig kell megvalósítani;
+## 2.[^1] a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés l), m) és o) pontjai szerinti előkészületi fázisokra mindösszesen legfeljebb 250 000 000 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészületeket legkésőbb 2019. december 31-ig kell megvalósítani;
 
 ## 3. a Beruházás előkészítésének kormányzati felelőseként a Miniszterelnökséget vezető minisztert jelöli ki;
 
@@ -24,7 +24,7 @@
 
 ## Határidő: a 4. pont szerinti források rendelkezésre állását követően azonnal
 
-## 7. felhívja a Miniszterelnökséget vezető minisztert, hogy az Erdélyi Református Egyházkerület és az Ajtoni Református Egyházközség bevonásával a Kormány részére készítsen
+## 7.[^2] felhívja a Miniszterelnökséget vezető minisztert, hogy az Erdélyi Református Egyházkerület és az Ajtoni Református Egyházközség bevonásával a Kormány részére készítsen
 
 ## a) jelentést a Rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 2. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint a felhasznált forrás összegéről, valamint
 
@@ -32,9 +32,9 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: az a) alpont szerinti jelentésre 2018. október 31.
+## Határidő: az a) alpont szerinti jelentésre 2020. január 31.
 
-## a b) alpont szerinti előterjesztésre 2018. november 30.
+## a b) alpont szerinti előterjesztésre 2020. február 29.
 
 1. melléklet az 1117/2018. (III. 19.) Korm. határozathoz
 
@@ -109,3 +109,6 @@
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1603/2018. (XI. 27.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^2]: A 7. pont az 1603/2018. (XI. 27.) Korm. határozat 6. pontja szerint módosított szöveg.
