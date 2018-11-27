@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-2024-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-12-22 | 2017-2024-30-22.1 | 2024/2017. (XII. 22.) Korm. határozat |
+| 2018-11-27 | 2017-2024-30-22.2 | 1603/2018. (XI. 27.) Korm. határozat |
