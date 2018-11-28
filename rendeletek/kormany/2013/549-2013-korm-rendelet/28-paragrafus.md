@@ -1,3 +1,3 @@
-## IV. Fejezet[^137]
+## IV. Fejezet[^138]
 
-[^137]: A IV. fejezetet (28–31. §) a 427/2017. (XII. 19.) Korm. rendelet 11. § 15. pontja hatályon kívül helyezte.
+[^138]: A IV. fejezetet (28–31. §) a 427/2017. (XII. 19.) Korm. rendelet 11. § 15. pontja hatályon kívül helyezte.

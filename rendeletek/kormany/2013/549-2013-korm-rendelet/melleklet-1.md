@@ -1,6 +1,6 @@
-## 56. §[^242] E rendeletnek a Széchenyi Programirodákról szóló 68/2011. (IV. 28.) Korm. rendelet és az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 253/2017. (IX. 5.) Korm. rendelettel [a továbbiakban: 253/2017. (IX. 5.) Korm. rendelet] megállapított rendelkezéseit a 253/2017. (IX. 5.) Korm. rendelet hatálybalépésekor[^243] folyamatban lévő ügyekben is alkalmazni kell.
+## 56. §[^243] E rendeletnek a Széchenyi Programirodákról szóló 68/2011. (IV. 28.) Korm. rendelet és az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 253/2017. (IX. 5.) Korm. rendelettel [a továbbiakban: 253/2017. (IX. 5.) Korm. rendelet] megállapított rendelkezéseit a 253/2017. (IX. 5.) Korm. rendelet hatálybalépésekor[^244] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^244]
+1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^245]
 
 Kezelő szervi kijelölés
 
@@ -102,6 +102,6 @@ Kezelő szervi kijelölés
 
 | 48. | Alapok alapja EFOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-[^242]: Az 56. §-t a 253/2017. (IX. 5.) Korm. rendelet 4. §-a iktatta be.
-[^243]: A hatálybalépés időpontja 2017. szeptember 6.
-[^244]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a, a 427/2017. (XII. 19.) Korm. rendelet 9. §-a, a 106/2018. (VI. 15.) Korm. rendelet 10. § 30–43. pontja szerint módosított szöveg.
+[^243]: Az 56. §-t a 253/2017. (IX. 5.) Korm. rendelet 4. §-a iktatta be.
+[^244]: A hatálybalépés időpontja 2017. szeptember 6.
+[^245]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a, a 427/2017. (XII. 19.) Korm. rendelet 9. §-a, a 106/2018. (VI. 15.) Korm. rendelet 10. § 30–43. pontja szerint módosított szöveg.
