@@ -2,7 +2,7 @@
 
 63. § (1) A nemzeti hatóság a megállapított szabálytalanságokról jelentést küld
 
-a) az Európai Csalás Elleni Hivatal Koordinációs Iroda részére, az 1303/2013/EU európai parlamenti és tanácsi rendelet 122. cikk (2) bekezdése szerinti esetben a szabálytalanságot megállapító döntés meghozatalát követő tíz napon belül,
+a)[^24] az Európai Csalás Elleni Hivatal Koordinációs Iroda részére a szabálytalanságot megállapító döntés meghozatalát követő tíz napon belül,
 
 b) az audithatóság részére, évente egy alkalommal összesítetten, a számviteli év végét követő két hónapon belül.
 
@@ -13,3 +13,5 @@ b) az audithatóság részére, évente egy alkalommal összesítetten, a számv
 (4) Az (1) és a (2) bekezdés szerinti jelentést haladéktalanul el kell készíteni, ha a szabálytalanságnak Magyarország területén kívül is hatásai vannak.
 
 (5) Az (1) és a (2) bekezdés szerinti jelentés elküldése elektronikus úton történik.
+
+[^24]: A 63. § (1) bekezdés a) pontja a 218/2018. (XI. 27.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.

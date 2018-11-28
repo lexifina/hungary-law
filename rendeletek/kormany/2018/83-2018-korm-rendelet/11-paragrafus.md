@@ -16,6 +16,8 @@ c) egyenleg kifizetéseként
 
 (4) A közös technikai titkárság elvégzi a hitelesítést, majd ellenőrzi és jóváhagyja a benyújtott projekt-előrehaladási jelentést és kifizetési kérelmet az IMIR 2014–2020 rendszerben. Ha a kifizetési kérelmet a közös technikai titkárság elfogadja, akkor kiállítja a hitelesítési jelentést. Az irányító hatóság a közös technikai titkárság által kiállított hitelesítési jelentésben szereplő összeget ellenőrzi, kifizetésre jóváhagyja, és megküldi azt a pénzügyi átutalási egység részére az IMIR 2014–2020 rendszerben.
 
-(5) A pénzügyi átutalási egység a (4) bekezdés szerinti ellenőrzést és jóváhagyást követően gondoskodik az uniós támogatás elektronikus átutalásáról a vezető kedvezményezett euróalapú fizetési számlája javára a programszámla egyenlegének erejéig. A pénzügyi átutalási egység a programszámláról részteljesítést nem végez.
+(5)[^10] A pénzügyi átutalási egység a (4) bekezdés szerinti ellenőrzést és jóváhagyást követően gondoskodik az uniós támogatás elektronikus átutalásáról a vezető kedvezményezett fizetési számlája javára a programszámla egyenlegének erejéig. A pénzügyi átutalási egység a programszámláról részteljesítést nem végez.
 
 (6) A programszámláról csak akkor lehet átutalást kezdeményezni, ha az adatok az IMIR 2014–2020 rendszerben rögzítésre és jóváhagyásra kerültek.
+
+[^10]: A 11. § (5) bekezdése a 218/2018. (XI. 27.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
