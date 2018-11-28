@@ -1,5 +1,5 @@
-## 53. §[^9]
+## 53. §[^10]
 
 1. melléklet a 78/2014. (III. 14.) Korm. rendelethez
 
-[^9]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
