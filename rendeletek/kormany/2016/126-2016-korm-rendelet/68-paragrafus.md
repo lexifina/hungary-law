@@ -1,10 +1,13 @@
-## 67. § Az irányító hatóság, a nemzeti hatóság, az igazoló hatóság, a közös titkárság, a hitelesítési tevékenységre kijelölt szervezet, valamint a pénzügyi átutalási egység a szerződéskötés, a pénzügyi lebonyolítás, valamint ezen folyamatok adatainak az IMIR 2014–2020 rendszerben történő rögzítése során köteles biztosítani a négy szem elvének érvényesülését.
+## 67. §
 
-## 27. Az IMIR 2014–2020 rendszerre vonatkozó speciális szabályok
+## 27. [^98] Az IMIR 2014–2020 és a NAHU 2014–2020 rendszerre vonatkozó speciális szabályok
 
-68. § (1)[^87] Az 1. § a), b) és d) pontja szerinti együttműködési program végrehajtásában részt vevő szervezet köteles az IMIR 2014–2020 rendszert használni a végrehajtási, kifizetési, ellenőrzési, monitoring és hitelesítési feladata ellátása során, valamint köteles felhasználni ezen feladatához kapcsolódó tájékoztatási kötelezettsége ellátásához.
+## 68. § A négy szem elvének érvényesülését köteles biztosítani
 
-(2)[^88] Az 1. § c), e) és f) pontja szerinti együttműködési program végrehajtásában résztvevő szervezet köteles az IMIR 2014–2020 rendszert használni a hazai társfinanszírozási szerződés és megelőlegezési szerződés, valamint a kifizetés és visszafizetés kezelésére.
+a) az irányító hatóság, a nemzeti hatóság, az igazoló hatóság, a közös titkárság és a hitelesítési tevékenységre kijelölt szervezet az uniós forrásokra vonatkozó szerződéskötés, a pénzügyi lebonyolítás, valamint ezen folyamatok adatainak az IMIR 2014–2020 rendszerben, továbbá
 
-[^87]: A 68. § (1) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 22. pontja szerint módosított szöveg.
-[^88]: A 68. § (2) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 23. pontja szerint módosított szöveg.
+b) a nemzeti hatóság, a hitelesítési tevékenységre kijelölt szervezet és a pénzügyi átutalási egység a hazai társfinanszírozási, valamint az uniós támogatás megelőlegezési szerződések vonatkozásában a szerződéskötés, a pénzügyi lebonyolítás, valamint ezen folyamatok adatainak a NAHU 2014–2020 rendszerben
+
+történő rögzítése során.
+
+[^98]: A 27. alcím (68–71/A. §) a 218/2018. (XI. 27.) Korm. rendelet 9. §-ával megállapított szöveg.

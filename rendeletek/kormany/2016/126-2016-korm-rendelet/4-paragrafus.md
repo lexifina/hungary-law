@@ -6,7 +6,7 @@
 
 4. § (1) A határon átnyúló együttműködési programok keretében meghirdetett pályázatokon uniós támogatásra jóváhagyott projektek hazai kedvezményezettjei számára a kapcsolódó hazai társfinanszírozást további pályáztatás nélkül a nemzeti hatóság biztosítja. A nemzeti hatóság bocsátja rendelkezésre a kapcsolódó hazai társfinanszírozást a hazai TA kedvezményezett és az információs pont feladatot ellátó külföldi TA kedvezményezett részére.
 
-(2)[^14] A hazai társfinanszírozás mértéke
+(2)[^16] A hazai társfinanszírozás mértéke
 
 a) központi és köztestületi költségvetési szerv, valamint közvetlen vagy közvetett módon kizárólagosan állami tulajdonban lévő gazdasági társaság hazai kedvezményezett esetén a projektrész összes elszámolható költségeinek legfeljebb 15%-a,
 
@@ -16,15 +16,19 @@ c) hazai TA kedvezményezett, információs pont feladatot ellátó külföldi T
 
 ## lehet.
 
-(2a)[^15] A (2) bekezdést nem kell alkalmazni az 1. § d) pontja szerinti együttműködési program Kisprojekt Alapjából finanszírozott kisprojektek és az 1. § a) és d) pontja szerinti együttműködési programból finanszírozott kis- és középvállalkozások részére nyújtott támogatási konstrukcióban részt vevő kedvezményezettekre.
+(2a)[^17] A (2) bekezdést nem kell alkalmazni
 
-(2b)[^16] Az 1. § d) pontja szerinti együttműködési program Kisprojekt Alapjából finanszírozott kisprojektek és az 1. § a) és d) pontja szerinti együttműködési programból finanszírozott kis- és középvállalkozások részére nyújtott támogatási konstrukcióban részt vevő kedvezményezettekre hazai társfinanszírozásra nem jogosultak.
+a) az 1. § d) pontja szerinti együttműködési program Kisprojekt Alapjából finanszírozott kisprojektek és az 1. § a) pontja szerinti együttműködési programból finanszírozott kis- és középvállalkozások részére nyújtott támogatási konstrukcióban részt vevő kedvezményezettekre,
+
+b) az 1. § d) pontja szerinti együttműködési programból finanszírozott kis- és középvállalkozások részére nyújtott támogatási konstrukcióban részt vevő kis- és középvállalkozás kedvezményezettekre.
+
+(2b)[^18] Az 1. § d) pontja szerinti együttműködési program Kisprojekt Alapjából finanszírozott kisprojektek és az 1. § a) és d) pontja szerinti együttműködési programból finanszírozott kis- és középvállalkozások részére nyújtott támogatási konstrukcióban részt vevő kedvezményezettekre hazai társfinanszírozásra nem jogosultak.
 
 (3) A hazai társfinanszírozási támogatási szerződést – a TA projektek kivételével – a nemzeti hatóság megbízásából a hitelesítési tevékenységre kijelölt szervezet köti meg a hazai kedvezményezettel.
 
-(4)[^17] A hazai társfinanszírozási támogatási szerződést az 1. § c), e) és f) pontja szerinti együttműködési program esetén a nemzeti hatóság köti meg a hazai TA kedvezményezettel a TA költségvetés teljes hazai forrásai alapján, ha a hazai társfinanszírozás kifizetése a hazai TA kedvezményezett részére közvetlenül – nem az évente fizetendő tagállami hozzájárulás terhére – történik.
+(4)[^19] A hazai társfinanszírozási támogatási szerződést az 1. § c), e) és f) pontja szerinti együttműködési program esetén a nemzeti hatóság köti meg a hazai TA kedvezményezettel a TA költségvetés teljes hazai forrásai alapján, ha a hazai társfinanszírozás kifizetése a hazai TA kedvezményezett részére közvetlenül – nem az évente fizetendő tagállami hozzájárulás terhére – történik.
 
-(5)[^18] A hazai társfinanszírozás összege euróban kerül meghatározásra. A hazai társfinanszírozás kifizetése euróban történik a hazai kedvezményezett, a hazai TA kedvezményezett, az információs pont feladatot ellátó külföldi TA kedvezményezett és az 1. § f) pontja szerinti együttműködési program külföldi irányító hatóság euróban vezetett számlájára.
+(5)[^20] A hazai társfinanszírozás összege euróban kerül meghatározásra. A hazai társfinanszírozás kifizetése euróban történik a hazai kedvezményezett, a hazai TA kedvezményezett, az információs pont feladatot ellátó külföldi TA kedvezményezett és az 1. § f) pontja szerinti együttműködési program külföldi irányító hatóság euróban vezetett számlájára.
 
 (6) A hazai kedvezményezettel – ide nem értve a központi költségvetési szerv hazai kedvezményezettet – kötendő hazai társfinanszírozási támogatási szerződésben rendelkezni kell a hazai társfinanszírozás vonatkozásában az e rendeletben meghatározott jogcímen visszafizetendő támogatás visszafizetésének biztosítékáról, amely a hazai kedvezményezett választása szerint lehet
 
@@ -32,9 +36,9 @@ a) a hazai kedvezményezett valamennyi – jogszabály alapján beszedési megb�
 
 b) jelzálogjog,
 
-c)[^19] kezesség vagy
+c)[^21] kezesség vagy
 
-d)[^20] bankgarancia.
+d)[^22] bankgarancia.
 
 (7) A hazai TA kedvezményezettel kötendő hazai társfinanszírozási támogatási szerződés, illetve TA támogatási szerződés esetén a (6) bekezdésben meghatározott biztosítékok alkalmazhatók.
 
@@ -48,13 +52,13 @@ b) az 1303/2013/EU európai parlamenti és tanácsi rendelet 130. cikk (1) bekez
 
 c) a tagállami helytállás összegét a külföldi vagy hazai irányító hatóság részére a jogszabályi feltételek teljesülését igazoló, irányító hatóság által megküldött dokumentumok alapján,
 
-d)[^21] a hazai TA kedvezményezettek részére a külföldi partnerországi TA társfinanszírozás átmeneti megelőlegezését az 1. § a), b) és d) pontja szerinti együttműködési program esetén, ha az igazoló hatóság által kezelt vonatkozó programszámla alegyenlege a kifizetéseket nem teszi lehetővé.
+d)[^23] a hazai TA kedvezményezettek részére a külföldi partnerországi TA társfinanszírozás átmeneti megelőlegezését az 1. § a), b) és d) pontja szerinti együttműködési program esetén, ha az igazoló hatóság által kezelt vonatkozó programszámla alegyenlege a kifizetéseket nem teszi lehetővé.
 
-[^14]: A 4. § (2) bekezdése a 116/2017. (V. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^15]: A 4. § (2a) bekezdését a 116/2017. (V. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^16]: A 4. § (2b) bekezdését a 116/2017. (V. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^17]: A 4. § (4) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 7. pontja szerint módosított szöveg.
-[^18]: A 4. § (5) bekezdése a 116/2017. (V. 19.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^19]: A 4. § (6) bekezdés c) pontja a 116/2017. (V. 19.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
-[^20]: A 4. § (6) bekezdés d) pontja a 116/2017. (V. 19.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^21]: A 4. § (9) bekezdés d) pontját a 223/2016. (VII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^16]: A 4. § (2) bekezdése a 116/2017. (V. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^17]: A 4. § (2a) bekezdését a 116/2017. (V. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 218/2018. (XI. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^18]: A 4. § (2b) bekezdését a 116/2017. (V. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^19]: A 4. § (4) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 7. pontja szerint módosított szöveg.
+[^20]: A 4. § (5) bekezdése a 116/2017. (V. 19.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^21]: A 4. § (6) bekezdés c) pontja a 116/2017. (V. 19.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
+[^22]: A 4. § (6) bekezdés d) pontja a 116/2017. (V. 19.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^23]: A 4. § (9) bekezdés d) pontját a 223/2016. (VII. 22.) Korm. rendelet 1. §-a iktatta be.

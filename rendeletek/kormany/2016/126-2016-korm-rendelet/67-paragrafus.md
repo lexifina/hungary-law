@@ -1,1 +1,3 @@
-## 26. Ellenőrzés
+## 26.[^97]
+
+[^97]: A 26. alcímet (67. §) a 218/2018. (XI. 27.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.

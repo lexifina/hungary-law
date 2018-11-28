@@ -1,4 +1,4 @@
-## 71. § A kedvezményezett rendelkezésére bocsátott IMIR 2014–2020 rendszert egyedi jelszóval kell védeni. A jelszó biztonságáért, a jelszó használatával az IMIR 2014–2020 rendszerben elvégzett műveletekért a kedvezményezett felelős.
+## 71/A. § A kedvezményezett rendelkezésére bocsátott IMIR 2014–2020 rendszert egyedi jelszóval kell védeni. A jelszó biztonságáért, a jelszó használatával az IMIR 2014–2020 rendszerben elvégzett műveletekért a kedvezményezett felelős.
 
 ## 28. Panaszkezelés
 

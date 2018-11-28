@@ -31,3 +31,11 @@ l) az uniós támogatási szerződésnek és a hazai társfinanszírozási támo
 m) a vonatkozó teljesítésigazolások rendelkezésre állnak.
 
 (3) A hitelesítési tevékenységre kijelölt szervezet a hitelesítés részeként köteles ellenőrizni a közbeszerzésekről szóló törvény és a közbeszerzésekre vonatkozó uniós szabályok betartását. A hazai kedvezményezett köteles az általa lefolytatott valamennyi közbeszerzési eljárás teljes dokumentációját a hitelesítési tevékenységre kijelölt szervezet számára benyújtani. A közbeszerzési eljárás hazai és uniós jogszabályok szerinti lebonyolítása a hazai kedvezményezett felelőssége.
+
+(4)[^64] A hitelesítési tevékenységre kijelölt szervezet az ellenőrzött közbeszerzési eljárás lefolytatása során megállapított, sorozatos vagy ismétlődő, valamint a támogatási összeg korrekciójával járó jogsértések esetén jogosult a közbeszerzési eljárás lebonyolításával összefüggésben elszámolni kívánt költség arányos csökkentésére. Sorozatos vagy ismétlődő jogsértésnek minősül
+
+a) az ugyanazon közbeszerzési eljárásban előforduló legalább három ugyanolyan vagy különböző típusú eljárási jellegű, de a támogatási összeg korrekcióját nem eredményező jogsértés,
+
+b) ha a projekt keretében az adott kedvezményezett által több közbeszerzési eljárás lefolytatásával megbízott személy vagy szervezet az általa lefolytatott eljárásokban eljárásonként legalább kettő eljárási jellegű, de a támogatási összeg korrekcióját nem eredményező jogsértést követ el.
+
+[^64]: A 12. § (4) bekezdését a 218/2018. (XI. 27.) Korm. rendelet 7. §-a iktatta be.
