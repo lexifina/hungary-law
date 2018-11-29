@@ -1,1 +1,0 @@
-## „22a. NAHU 2014–2020 rendszer: a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági Támogatási Eszköz pénzügyi alapok területi együttműködéshez kapcsolódó egyes programjainak nemzeti feladatai ellátását támogató informatikai rendszer,”
