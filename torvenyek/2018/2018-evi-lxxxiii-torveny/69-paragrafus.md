@@ -13,11 +13,3 @@ e) a vízügyi, energiaipari, közlekedési és postai szolgáltatási ágazatba
 f) az elektronikus számlázás közbeszerzésben történő alkalmazásáról szóló 2014. április 16-i 2014/55/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
