@@ -46,4 +46,8 @@ u) mezőgazdasági termelő, kutató tevékenység során felhasználásra kerü
 
 v) a kutatás-fejlesztési és innovációs célú támogatásból megvalósuló beszerzésekre a 24000000-4-tól 24327500-7-ig és 24500000-9-tól 24965000-6-ig tartó CPV kódok által meghatározott áruk vonatkozásában;
 
-x) olyan beszerzés esetén, ahol a szerződésben foglalt feladatot az 5. § (1) bekezdése vagy a 7. § (2) bekezdése szerinti ajánlatkérő vagy az említett ajánlatkérők társulása jogszabályban vagy hatósági határozatban – az EUMSZ-szel összhangban – meghatározott kizárólagos jog alapján teljesíti.
+x) olyan beszerzés esetén, ahol a szerződésben foglalt feladatot az 5. § (1) bekezdése vagy a 7. § (2) bekezdése szerinti ajánlatkérő vagy az említett ajánlatkérők társulása jogszabályban vagy hatósági határozatban – az EUMSZ-szel összhangban – meghatározott kizárólagos jog alapján teljesíti;
+
+y) az éves nettó 10 millió forintot meg nem haladó árbevételű start szövetkezet által előállított áruk, teljesített szolgáltatások, illetve építési beruházások beszerzésére;
+
+z) a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény, valamint Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény alapján a Köztársasági Elnöki Hivatal által ellátott feladatok megvalósítása érdekében történő beszerzés esetén.

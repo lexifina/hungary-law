@@ -20,11 +20,11 @@ b) olyan építési beruházás, amely kórház, sportlétesítmény, szabadidő
 
 c) olyan szolgáltatás megrendelése, amely az a) vagy a b) pont szerinti építési beruházáshoz kapcsolódik.
 
-(3) A (2) bekezdésben foglaltak mellett a vissza nem térítendő támogatásból – ide nem értve a pénzügyi eszközzel kombinált vissza nem térítendő támogatásokat – megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet vagy személy, amelynek szolgáltatás megrendelését, árubeszerzését vagy építési beruházását az (1) bekezdésben meghatározott egy vagy több szervezet vagy személy legalább negyvenmillió forint összegben közvetlenül támogatja, kivéve, ha a beszerzés
+(3) A (2) bekezdésben foglaltak mellett a vissza nem térítendő támogatásból – ide nem értve a pénzügyi eszközzel kombinált vissza nem térítendő támogatásokat – megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet vagy személy – az egyházi jogi személyek kivételével –, amelynek beszerzését szolgáltatás megrendelés vagy árubeszerzés esetén legalább az adott beszerzésre irányadó uniós közbeszerzési értékhatárt elérő összegben, építési beruházás esetén legalább háromszázmillió forint összegben az (1) bekezdésben meghatározott egy vagy több szervezet vagy személy közvetlenül támogatja, kivéve, ha a beszerzés
 
-a) egyedi kormánydöntésben megállapított beruházási támogatásból,
+a) a beruházás ösztönzési célelőirányzat felhasználásáról szóló kormányrendelet szerinti támogatásból,
 
-b) egyedi munkahely-teremtési támogatásból,
+b) egyedi munkahelyteremtési támogatásból,
 
 c) képzési, továbbá tanműhely-létesítési és -fejlesztési támogatásból,
 

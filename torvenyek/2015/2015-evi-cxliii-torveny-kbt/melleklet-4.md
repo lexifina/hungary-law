@@ -17,11 +17,3 @@ A 73. § (4) bekezdésében hivatkozott környezetvédelmi, szociális és munka
 – 100. számú ILO-egyezmény a férfi és a női munkaerőnek egyenlő értékű munka esetén járó egyenlő díjazásáról
 
 – 182. számú ILO-egyezmény a gyermekmunka legrosszabb formáinak betiltásáról és felszámolására irányuló azonnali lépésekről
-
-– bécsi egyezmény a sztratoszferikus ózonréteg védelméről és annak Montreáli Jegyzőkönyve az ózonréteget lebontó anyagokról
-
-– a veszélyes hulladékok országhatárokat átlépő szállításának ellenőrzéséről és ártalmatlanításáról szóló bázeli egyezmény (Bázeli Egyezmény)
-
-– Stockholmi Egyezmény a környezetben tartósan megmaradó szerves szennyező anyagokról
-
-Rotterdami Egyezmény a nemzetközi kereskedelemben forgalmazott egyes veszélyes vegyi anyagok és peszticidek előzetes tájékoztatáson alapuló jóváhagyási eljárásáról (1998. szeptember 10.) és annak három regionális jegyzőkönyve

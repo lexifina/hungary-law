@@ -1,5 +1,5 @@
 ## Kommunikáció a közbeszerzési eljárás során
 
-40. § (1) A közbeszerzési és koncessziós beszerzési eljárást a Miniszterelnökség által üzemeltetett egységes, elektronikus közbeszerzési rendszer igénybevételével kell lebonyolítani.
+40. § (1) A közbeszerzési és koncessziós beszerzési eljárást a közbeszerzésekért felelős miniszter által üzemeltetett egységes, elektronikus közbeszerzési rendszer (a továbbiakban: EKR) igénybevételével kell lebonyolítani.
 
-(2) Az (1) bekezdés szerinti elektronikus közbeszerzési alkalmazás létrehozataláról, működéséről, valamint igénybe vételének feltételeiről külön jogszabály rendelkezik.
+(2) Az EKR működéséről, valamint igénybevételének részletes feltételeiről jogszabály rendelkezik. A rendszer használatáért az ajánlatkérő jogszabályban meghatározott mértékű díjat fizet, amely igazgatási szolgáltatási díjnak minősül.
