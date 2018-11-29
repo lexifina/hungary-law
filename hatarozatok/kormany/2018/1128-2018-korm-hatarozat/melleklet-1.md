@@ -16,7 +16,7 @@
 
 ## Határidő: felmerülés ütemében
 
-## 4. a Közalapítvány Budapest belterület 28766 helyrajzi számú, természetben az 1062 Budapest, Andrássy út 60. szám alatt található Terror Háza Múzeuma felújítása érdekében a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés a)–e), g)–h), valamint k)–o) pontja szerinti előkészítési fázisaira összesen 60 000 000 forint forrást biztosít a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2018. augusztus 31-ig kell megvalósítani;
+## 4. a Közalapítvány Budapest belterület 28766 helyrajzi számú, természetben az 1062 Budapest, Andrássy út 60. szám alatt található Terror Háza Múzeuma felújítása érdekében a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés a)–e), g)–h), valamint k)–o) pontja szerinti előkészítési fázisaira összesen 60 000 000 forint forrást biztosít a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2018. augusztus 31-ig kell megvalósítani;[^1]
 
 ## 5. a 4. pont szerinti beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
@@ -44,7 +44,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2018. október 31.
+## Határidő: 2018. október 31.[^2]
 
 1. melléklet az 1128/2018. (III. 19.) Korm. határozathoz
 
@@ -119,3 +119,6 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1631/2018. (XI. 29.) Korm. határozat 1. pont a) alpontja alapján az előkészítési fázisokat legkésőbb 2019. december 31-ig kell megvalósítani.
+[^2]: Az 1631/2018. (XI. 29.) Korm. határozat 1. pont b) alpontja alapján az emberi erőforrások minisztere 2020. február 29-ig készít előterjesztést a Kormány részére az előkészítési fázisok eredménye alapján a beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
