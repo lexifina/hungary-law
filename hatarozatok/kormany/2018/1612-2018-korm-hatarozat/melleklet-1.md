@@ -22,51 +22,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## 3.1. D:112 mezőjében a „0,16” szövegrész helyébe a „0,17” szöveg,
-
-## 3.2. E:112 mezőjében a „0,02” szövegrész helyébe a „0,03” szöveg,
-
-## 3.3. D:144 mezőjében a „0,15” szövegrész helyébe a „0,17” szöveg,
-
-## 3.4. E:144 mezőjében a „0,02” szövegrész helyébe a „0,01” szöveg,
-
-## 3.5. D:194 mezőjében a „0,11” szövegrész helyébe a „0,13” szöveg,
-
-## 3.6. D:198 mezőjében a „3,22” szövegrész helyébe a „3,33” szöveg,
-
-## 3.7. E:198 mezőjében a „0,49” szövegrész helyébe a „0,50” szöveg,
-
-## 3.8. D:215 mezőjében a „0,18” szövegrész helyébe a „0,21” szöveg,
-
-## 3.9. E:215 mezőjében a „0,03” szövegrész helyébe a „0,04” szöveg,
-
-## 3.10. D:217 mezőjében a „0,22” szövegrész helyébe a „0,23” szöveg,
-
-## 3.11. D:280 mezőjében a „0,24” szövegrész helyébe a „0,28” szöveg,
-
-## 3.12. D:289 mezőjében a „3,30” szövegrész helyébe a „3,80” szöveg,
-
-## 3.13. E:289 mezőjében a „0,59” szövegrész helyébe a „0,67” szöveg,
-
-## 3.14. D:292 mezőjében az „1,36” szövegrész helyébe az „1,57” szöveg,
-
-## 3.15. E:292 mezőjében a „0,24” szövegrész helyébe a „0,28” szöveg,
-
-## 3.16. D:294 mezőjében a „2,18” szövegrész helyébe a „2,34” szöveg,
-
-## 3.17. E:294 mezőjében a „0,39” szövegrész helyébe a „0,42” szöveg,
-
-## 3.18. D:297 mezőjében a „0,12” szövegrész helyébe a „0,13” szöveg,
-
-## 3.19. E:297 mezőjében a „0,02” szövegrész helyébe a „0,03” szöveg,
-
-## 3.20. D:316b mezőjében a „2,10” szövegrész helyébe a „2,39” szöveg,
-
-## 3.21. E:316b mezőjében a „0,38” szövegrész helyébe a „0,43” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1612/2018. (XI. 27.) Korm. határozathoz
 
@@ -99,3 +55,5 @@
 | 13. | KEHOP-2.2.2- 15-2017-00127 | Délkelet- Magyarországi szennyvízelvezetési és -kezelési fejlesztés 5. (DKMO 5) | Dombegyház Nagyközség Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 2 180 000 000 | 154 041 610 | 411 889 695 | 2 334 041 610 | A projekt keretében Dombegyház településen új szennyvíztisztító telepet létesítenek, és megvalósítják a csatornahálózat bővítését. |
 
 | 14. | KEHOP-2.2.2- 15-2017-00130 | Monostorpályi szennyvízelvezetés fejlesztése II. ütem | Monostorpályi Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 110 007 095 | 13 651 944 | 21 822 183 | 123 659 039 | A projekt keretében megvalósítják a Hosszúpályi központú szennyvízelvezetési agglomeráció Monostorpályi tagtelepülésén a csatornahálózat bővítését. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
