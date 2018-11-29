@@ -1,0 +1,3 @@
+10. § A Kbt. 39. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Amennyiben egyes közbeszerzési dokumentumok elektronikus, korlátlan, teljes körű hozzáférhetővé tétele nem lehetséges a 41/C. § (1) bekezdésében foglalt valamely okból, az ajánlatkérő az eljárást megindító felhívásban jelzi, hogy a közbeszerzési dokumentumokat milyen – adott esetben az elektronikus úttól eltérő – módon fogja a gazdasági szereplők rendelkezésére bocsátani, vagy a közbeszerzési dokumentumok bizalmas jellegének megőrzése érdekében milyen intézkedések alkalmazását írja elő és milyen módon lehet az érintett dokumentumhoz hozzáférni.”
