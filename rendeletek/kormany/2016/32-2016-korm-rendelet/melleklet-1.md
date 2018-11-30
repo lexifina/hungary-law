@@ -1,4 +1,4 @@
-## 9. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+## 10. §[^3] E rendeletnek a sportcélú beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 223/2018. (XI. 29.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 8/A. §-át a Módr. hatálybalépésekor[^4] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 32/2016. (II. 25.) Korm. rendelethez
 
@@ -41,3 +41,6 @@
 18. azok az 1–17. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez és üzembe helyezéséhez közvetlenül szükségesek,
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: A 10. §-t a 223/2018. (XI. 29.) Korm. rendelet 12. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2018. november 30.
