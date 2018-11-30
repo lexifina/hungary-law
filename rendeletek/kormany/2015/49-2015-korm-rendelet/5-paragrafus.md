@@ -1,8 +1,8 @@
-## 4. §[^4]
+## 4. §[^4] A Beruházásra irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet [a továbbiakban: 322/2015. (X. 30.) Korm. rendelet] 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
 
 5. § (1)[^5] Az 1. § (1) bekezdése szerinti beruházás járulékos közbeszerzési szolgáltatója, beruházáslebonyolítója és építési műszaki ellenőre kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.
 
 (2) Az (1) bekezdés szerinti beruházás-lebonyolítói feladatkörbe az épített környezet alakításáról és védelméről szóló 1997. LXXVIII. törvény 43. § (1) bekezdés c)–d), f), j) és k) pontjában, valamint az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet 7. § (3) bekezdésében foglalt feladatokon túlmenően – az építésügyi szakmagyakorlásra vonatkozó összeférhetetlenségi szabályok betartásával – minden olyan feladat, illetve tevékenység ellátása beletartozik, ami az építési tevékenység szakszerű megvalósításának előkészítésével, ellenőrzésével vagy irányításával kapcsolatos.
 
-[^4]: A 4. §-t a 458/2017. (XII. 28.) Korm. rendelet 184. § b) pontja hatályon kívül helyezte.
+[^4]: A 4. §-t a 458/2017. (XII. 28.) Korm. rendelet 184. § b) pontja hatályon kívül helyezte, újonnan a 223/2018. (XI. 29.) Korm. rendelet 7. §-a iktatta be.
 [^5]: Az 5. § (1) bekezdése a 267/2017. (IX. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
