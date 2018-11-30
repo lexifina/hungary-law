@@ -84,6 +84,6 @@
 
 42.
 
-43. 195. § (1) bekezdésében a „(részvényesi, tagsági stb.)” szövegrész helyébe a „(például részvényesi, tagsági)” szöveg, a „központi költségvetési szerv” szövegrész helyébe a „Kormány tagja, központi költségvetési szerv” szöveg
+43.
 
 lép.

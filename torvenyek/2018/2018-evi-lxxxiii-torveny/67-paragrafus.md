@@ -6,7 +6,7 @@
 
 3.
 
-4. 138. § (5) bekezdése,
+4.
 
 5.
 
@@ -58,6 +58,6 @@
 
 20.
 
-21. 195. § (4) bekezdésében az „eljárási”
+21.
 
 szövegrész.
