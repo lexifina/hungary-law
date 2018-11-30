@@ -1,0 +1,3 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Kézilabda Munkacsarnok-fejlesztési Program keretében megvalósuló, az 1. mellékletben felsorolt és megjelölt földrészleteken, illetve az ezen földrészletekből telekalakítási eljárások véglegessé válását követően kialakított földrészleteken megvalósuló beruházásokkal (a továbbiakban: Beruházások) összefüggő, a 2. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
