@@ -2,11 +2,11 @@
 
 6. § (1)[^6] Az 1. mellékletben foglalt táblázat
 
-a) 2., 3., 9., 13–16., 19., 20. és 24. sora szerinti beruházások építési műszaki ellenőre, akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházás-lebonyolítója,
+a)[^7] 2., 3., 9., 13–20. és 24. sora szerinti beruházások építési műszaki ellenőre, felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházás-lebonyolítója,
 
 b) 7. és 23. sora szerinti beruházások építési műszaki ellenőre és beruházás-lebonyolítója,
 
-c) 22. sora szerinti beruházások építési műszaki ellenőre és akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója
+c)[^8] 22. sora szerinti beruházások építési műszaki ellenőre és felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója
 
 ## kizárólagos joggal a Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.
 
@@ -14,3 +14,5 @@ c) 22. sora szerinti beruházások építési műszaki ellenőre és akkreditál
 
 [^5]: Az 5. § a 243/2017. (VIII. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^6]: A 6. § (1) bekezdése a 141/2018. (VII. 27.) Korm. rendelet 10. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^7]: A 6. § (1) bekezdés a) pontja a 223/2018. (XI. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^8]: A 6. § (1) bekezdés c) pontja a 223/2018. (XI. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.

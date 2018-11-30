@@ -1,7 +1,7 @@
-## 11. §[^13] Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított 6. § (1) bekezdését a Módr4. hatálybalépésekor[^14] folyamatban lévő ügyekben is alkalmazni kell.
+## 12. §[^18] E rendeletnek a sportcélú beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 223/2018. (XI. 29.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 6. § (1) bekezdés a) és c) pontját, valamint 6/A. §-át a Módr5. hatálybalépésekor[^19] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 203/2017. (VII. 10.) Korm. rendelethez[^15]
+1. melléklet a 203/2017. (VII. 10.) Korm. rendelethez[^20]
 
-[^13]: A 11. §-t a 141/2018. (VII. 27.) Korm. rendelet 11. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^14]: A hatálybalépés időpontja 2018. július 28.
-[^15]: Az 1. melléklet a 243/2017. (VIII. 28.) Korm. rendelet 3. §-a, a 464/2017. (XII. 28.) Korm. rendelet 3. §-a, az 526/2017. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^18]: A 12. §-t a 223/2018. (XI. 29.) Korm. rendelet 15. §-a iktatta be.
+[^19]: A hatálybalépés időpontja 2018. november 30.
+[^20]: Az 1. melléklet a 243/2017. (VIII. 28.) Korm. rendelet 3. §-a, a 464/2017. (XII. 28.) Korm. rendelet 3. §-a, az 526/2017. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
