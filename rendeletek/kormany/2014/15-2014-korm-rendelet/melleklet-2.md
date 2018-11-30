@@ -32,6 +32,8 @@
 
 | 15. | Paks labdarúgó sportlétesítmény-fejlesztése | Paks Város Önkormányzata | Paks közigazgatási területén fekvő, 2132 és 2133 helyrajzi számú ingatlanok |
 
+| 16. | Nyíregyháza labdarúgó sportlétesítmény-fejlesztése | Nemzeti Sportközpontok | Nyíregyháza közigazgatási területén fekvő, belterület 1391 helyrajzi számú ingatlan, illetve ezen földrészletből telekalakítási eljárás jogerős befejezését követően kialakított földrészlet |
+
 2. melléklet a 15/2014. (I. 30.) Korm. rendelethez
 
 ## Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
@@ -50,13 +52,13 @@
 
 7. tűzvédelmi hatósági eljárások,
 
-8.[^17]
+8.[^20]
 
 9. rendészeti hatósági eljárások,
 
 10. útügyi hatósági eljárások,
 
-11.[^18] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+11.[^21] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 12. műszaki biztonsági engedélyezési eljárások,
 
@@ -76,10 +78,10 @@
 
 20. közegészségügyi hatósági eljárások,
 
-20a.[^19] azok az 1–20. pontban nem szereplő hatósági engedélyezési és tudomásulvételi eljárások, amelyek az 1. § (1) bekezdése szerinti beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+20a.[^22] azok az 1–20. pontban nem szereplő hatósági engedélyezési és tudomásulvételi eljárások, amelyek az 1. § (1) bekezdése szerinti beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^17]: A 2. melléklet 8. pontját a 271/2016. (IX. 1.) Korm. rendelet 50. § (3) bekezdése hatályon kívül helyezte.
-[^18]: A 2. melléklet 11. pontja a 380/2016. (XII. 2.) Korm. rendelet 66. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 119. §-át.
-[^19]: A 2. melléklet 20a. pontját a 15/2016. (II. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^20]: A 2. melléklet 8. pontját a 271/2016. (IX. 1.) Korm. rendelet 50. § (3) bekezdése hatályon kívül helyezte.
+[^21]: A 2. melléklet 11. pontja a 380/2016. (XII. 2.) Korm. rendelet 66. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 119. §-át.
+[^22]: A 2. melléklet 20a. pontját a 15/2016. (II. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
