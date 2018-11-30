@@ -14,7 +14,7 @@ bc) az állatok jóléte és a mezőgazdasági célból tartott állatok termel�
 
 c) a b) pontban foglalt bármely célból gyógyszerek, élelmiszerek és takarmányok, valamint egyéb anyagok vagy termékek kifejlesztése vagy gyártása, azok minőségének, hatékonyságának és biztonságosságának ellenőrzése,
 
-d) a természetes környezet védelme,
+d) a természetes környezet védelme az emberek vagy állatok egészsége vagy jóléte,
 
 e) a fajok megőrzésére irányuló kutatás,
 
