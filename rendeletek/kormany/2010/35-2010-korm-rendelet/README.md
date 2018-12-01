@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-35-20-2
 | 2010-02-27 | 2010-35-20-22.1 | 35/2010. (II. 26.) Korm. rendelet |
 | 2011-01-01 | 2010-35-20-22.2 | 303/2010. (XII. 23.) Korm. rendelet |
 | 2015-01-01 | 2010-35-20-22.3 | 381/2014. (XII. 31.) Korm. rendelet |
+| 2018-12-01 | 2010-35-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
