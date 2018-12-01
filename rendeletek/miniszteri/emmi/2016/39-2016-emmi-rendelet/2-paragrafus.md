@@ -6,7 +6,7 @@ a)[^1] a Nemzeti Egészségbiztosítási Alapkezelő,
 
 b)[^2] az Emberi Erőforrások Minisztériuma,
 
-c)[^3]
+c)[^3] a Nemzeti Népegészségügyi Központ.
 
 d) az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet.
 
@@ -28,4 +28,4 @@ d) a követelmények ellenőrzésének menetét.
 
 [^1]: A 2. § (1) bekezdés a) pontja a 23. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (1) bekezdés b) pontja a 23. § (2) bekezdésével megállapított szöveg.
-[^3]: A 2. § (1) bekezdés c) pontját a 24. § hatályon kívül helyezte.
+[^3]: A 2. § (1) bekezdés c) pontját a 24. § hatályon kívül helyezte, újonnan a 38/2018. (X. 31.) EMMI rendelet 26. §-a iktatta be.
