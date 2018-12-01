@@ -8,4 +8,6 @@ a) vissza nem térítendő állami támogatás (a továbbiakban: családi otthon
 
 b) adó-visszatérítési támogatás;
 
-c) három vagy több gyermekes családok otthonteremtési kamattámogatása.
+c)[^1] többgyermekes családok otthonteremtési kamattámogatása.
+
+[^1]: Az 1. § c) pontja a 209/2018. (XI. 13.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.

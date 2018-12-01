@@ -1,4 +1,4 @@
-## 86. §[^160] A Módr2. hatálybalépését[^161] követően a menedékjogról szóló 2007. évi LXXX. törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkező személy nem jogosult családi otthonteremtési kedvezményre. A Módr2. hatálybalépését megelőzően benyújtott kérelmekre, megkötött támogatási szerződésekre, folyósított támogatásokra e rendeletnek a Módr2. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
+## 86. §[^167] A Módr2. hatálybalépését[^168] követően a menedékjogról szóló 2007. évi LXXX. törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkező személy nem jogosult családi otthonteremtési kedvezményre. A Módr2. hatálybalépését megelőzően benyújtott kérelmekre, megkötött támogatási szerződésekre, folyósított támogatásokra e rendeletnek a Módr2. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 
 1. melléklet a 16/2016. (II. 10.) Korm. rendelethez
 
@@ -16,5 +16,5 @@ d) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiak
 
 miatt megállapította, és az elkövető az igénylés időpontjában még nem mentesült a büntetett előélethez fűződő hátrányos jogkövetkezmények alól.
 
-[^160]: A 86. §-t a 26/2018. (II. 28.) Korm. rendelet 21. §-a iktatta be.
-[^161]: A hatálybalépés időpontja 2018. március 15.
+[^167]: A 86. §-t a 26/2018. (II. 28.) Korm. rendelet 21. §-a iktatta be.
+[^168]: A hatálybalépés időpontja 2018. március 15.
