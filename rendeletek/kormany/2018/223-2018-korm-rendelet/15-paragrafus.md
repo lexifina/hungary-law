@@ -1,3 +1,0 @@
-## 14. § A 203/2017. (VII. 10.) Korm. rendelet a következő 6/A. §-sal egészül ki:
-
-## „6/A. § Az 1. mellékletben foglalt táblázat 24. sora szerinti beruházásra irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet [a továbbiakban: 322/2015. (X. 30.) Korm. rendelet] 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.”

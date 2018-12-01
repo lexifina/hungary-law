@@ -1,3 +1,0 @@
-## 11. § Az újfehértói sportcentrum beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 32/2016. (II. 25.) Korm. rendelet [a továbbiakban: 32/2016. (II. 25.) Korm. rendelet] a következő 8/A. §-sal egészül ki:
-
-## „8/A. § A Beruházásra irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet [a továbbiakban: 322/2015. (X. 30.) Korm. rendelet] 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.”
