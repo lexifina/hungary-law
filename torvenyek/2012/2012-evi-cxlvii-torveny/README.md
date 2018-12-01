@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-147-00-00
 | 2018-07-26 | 2018. évi XLI. törvény | 2012-147-00-00.21 |
 | 2018-08-25 | 2018. évi XLI. törvény | 2012-147-00-00.22 |
 | 2018-11-24 | 2018. évi LXXXII. törvény | 2012-147-00-00.23 |
+| 2018-12-01 | 2018. évi XLI. törvény | 2012-147-00-00.24 |
