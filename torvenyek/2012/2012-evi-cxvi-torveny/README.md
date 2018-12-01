@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-116-00-00
 | 2017-04-01 | 2016. évi CLXVI. törvény | 2012-116-00-00.12 |
 | 2017-08-01 | 2017. évi LXXVII. törvény | 2012-116-00-00.13 |
 | 2018-09-01 | 2018. évi XLI. törvény | 2012-116-00-00.14 |
+| 2018-12-01 | 2018. évi XLI. törvény | 2012-116-00-00.15 |

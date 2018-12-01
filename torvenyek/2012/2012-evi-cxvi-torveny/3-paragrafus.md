@@ -44,7 +44,9 @@ n) a kincstár által, a köznevelési, a szociális, gyermekjóléti és gyerme
 
 o) a kincstár által az önkormányzatok forgótőke kezelésére, nettófinanszírozás lebonyolítására vezetett számlán megvalósuló fizetési művelet,
 
-p) az Észak-atlanti Szerződés tagállamainak és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részes államainak fegyveres erői és polgári állománya – ide nem értve a Magyar Honvédséget – részére vezetett számlán katonai cselekményeivel közvetlen összefüggésben végrehajtott fizetési művelet.
+p) az Észak-atlanti Szerződés tagállamainak és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részes államainak fegyveres erői és polgári állománya – ide nem értve a Magyar Honvédséget – részére vezetett számlán katonai cselekményeivel közvetlen összefüggésben végrehajtott fizetési művelet,
+
+q) a Széchenyi Pihenő Kártyához tartozó korlátozott fizetési számlára történő átutalás.
 
 (5) A (4) bekezdés b)–l) pontjában foglalt kincstári műveletek kivételével pénzügyi tranzakciós illetékfizetési kötelezettséget keletkeztet a kincstári számlavezetés körében
 
