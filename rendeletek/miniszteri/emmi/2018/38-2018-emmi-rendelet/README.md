@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-38-20-5
 | --- | --- | --- |
 | 2018-11-01 | 2018-38-20-5H.1 | 38/2018. (X. 31.) EMMI rendelet |
 | 2018-11-02 | 2018-38-20-5H.2 | 2010: CXXX. törvény |
+| 2018-12-01 | 2018-38-20-5H.3 | 2010: CXXX. törvény |
