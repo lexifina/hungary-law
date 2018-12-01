@@ -1,3 +1,5 @@
-## 7. § Hatályát veszti a Kézilabda Munkacsarnok-fejlesztési Program végrehajtása során megvalósuló beruházásokkal kapcsolatos feladatok ellátásáról szóló 121/2017. (VI. 2.) Korm. rendelet.
+## 7. §[^1]
 
 1. melléklet a 224/2018. (XI. 29.) Korm. rendelethez
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
