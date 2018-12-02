@@ -1,4 +1,4 @@
-## 5. § Hatályát veszti a minimális építőipari rezsióradíj 2017. évi mértékéről szóló 15/2017. (VI. 7.) MvM rendelet.
+## 5. §[^2]
 
 1. melléklet a 30/2018. (XI. 26.) ITM rendelethez
 
@@ -65,3 +65,5 @@ A minimális építőipari rezsióradíj költségnemei és értékei
 | 29. | Elvárt eredmény értéke [(23+25+27. sor összesen) × 0,02] | 65 |
 
 | 30. | Mindösszesen (23+25+27+29. sor) | 3300 |
+
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
