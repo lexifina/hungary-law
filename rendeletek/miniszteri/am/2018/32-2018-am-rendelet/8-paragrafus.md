@@ -1,0 +1,3 @@
+## 7. § A Tanyafejlesztési Program előirányzat keretében nyújtott támogatás 2016. évi igénybevételének feltételeiről szóló 30/2016. (IV. 29.) FM rendelet [a továbbiakban: 30/2016. (IV. 29.) FM rendelet] 10. alcíme a következő 16/A. §-sal egészül ki:
+
+## „16/A. § E rendeletnek a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás igénybevételének feltételeiről szóló egyes miniszteri rendeletek módosításáról szóló 32/2018. (XI. 29.) AM rendelettel [a továbbiakban: 32/2018. (XI. 29.) AM rendelet] megállapított 9. § (3) bekezdését a 32/2018. (XI. 29.) AM rendelet hatálybalépésekor folyamatban lévő támogatások esetében is alkalmazni kell.”
