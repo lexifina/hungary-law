@@ -1,6 +1,6 @@
-## 18. §[^5] E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrártárgyú támogatásokat szabályozó rendeletek módosításáról szóló 39/2017. (VIII. 7.) FM rendelettel [a továbbiakban: 39/2017. (VIII. 7.) FM rendelet] megállapított 7. § (1) bekezdés a) pontját, 7. § (3) bekezdés a) és b) pontját, valamint 8. § (9) bekezdését a 39/2017. (VIII. 7.) FM rendelet hatálybalépésekor[^6] folyamatban lévő ügyekben is alkalmazni kell.
+## 19. §[^8] E rendeletnek a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás igénybevételének feltételeiről szóló egyes miniszteri rendeletek módosításáról szóló 32/2018. (XI. 29.) AM rendelettel [a továbbiakban: 32/2018. (XI. 29.) AM rendelet] megállapított 9. § (3) bekezdését a 32/2018. (XI. 29.) AM rendelet hatálybalépésekor[^9] folyamatban lévő támogatások esetében is alkalmazni kell.
 
 1. melléklet a 20/2017. (IV. 26.) FM rendelethez
 
-[^5]: A 18. §-t a 39/2017. (VIII. 7.) FM rendelet 21. §-a iktatta be.
-[^6]: A hatálybalépés időpontja 2017. augusztus 8.
+[^8]: A 19. §-t a 32/2018. (XI. 29.) AM rendelet 9. §-a iktatta be.
+[^9]: A hatálybalépés időpontja 2018. december 2.
