@@ -1,0 +1,3 @@
+9. § (1) A támogatási döntésről szóló értesítés pályázó által történő kézhezvételét követő harminc naptári napon belül a miniszter a nyertes pályázónak támogatói okiratot küld, amelyben meghatározza a támogatás igénybevételének és felhasználásának részletes feltételeit. A támogatói okiratban meghatározott határidők a nyertes pályázó vagy a támogatásban részesülő ügyfél kérelme alapján egy alkalommal, legfeljebb harminc naptári nappal meghosszabbíthatóak.
+
+(2) A pályázati felhívásban előírt feltételeket, valamint a pályázatnak a támogatási döntés alapján elfogadott részét a támogatói okiratban foglaltak szerinti megvalósítási határidőn belül, de legkésőbb 2019. december 31-ig kell teljesíteni.
