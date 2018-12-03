@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-155-00-00
 | 2017-01-01 | 2016. évi CLXVIII. törvény | 1997-155-00-00.53 |
 | 2017-09-01 | 2016. évi CLXVIII. törvény | 1997-155-00-00.54 |
 | 2018-01-01 | 2017. évi L. törvény | 1997-155-00-00.55 |
+| 2018-12-03 | 2018. évi LXXVI. törvény | 1997-155-00-00.56 |

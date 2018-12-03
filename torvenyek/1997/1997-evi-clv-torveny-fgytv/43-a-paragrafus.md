@@ -1,6 +1,6 @@
 ## Együttműködés az Európai Gazdasági Térség államainak fogyasztóvédelmi hatóságaival
 
-43/A. § (1) A fogyasztóvédelmi hatóság látja el a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a következő irányelveket átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében:
+43/A. § (1) A fogyasztóvédelmi hatóság látja el a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a következő irányelveket átültető tagállami jogszabályokba ütköző Európai Unión belüli jogsértések tekintetében:
 
 a) az üzlethelyiségen kívül kötött szerződések esetén a fogyasztók védelméről szóló 85/577/EGK tanácsi irányelv,
 
@@ -24,8 +24,10 @@ j) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szó
 
 k) a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól szóló 2005/29/EK európai parlamenti és tanácsi irányelv.
 
-(2) A fogyasztóvédelmi hatóság látja el – szükség szerint a légiközlekedési hatóság megkeresésével – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról szóló 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseibe ütköző Európai Közösségen belüli jogsértések tekintetében.
+(2) A fogyasztóvédelmi hatóság látja el – szükség szerint a légiközlekedési hatóság megkeresésével – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról szóló 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseibe ütköző Európai Unión belüli jogsértések tekintetében.
 
 (3) A fogyasztóvédelmi hatóság végzi Magyarországon – összekötő hivatalként – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtásának összehangolását.
 
 (4) A kölcsönös jogsegély során a fogyasztóvédelmi hatóság a – 2008/282/EK bizottsági határozattal módosított – 2007/76/EK bizottsági határozatnak megfelelően jár el.
+
+(5) A fogyasztóvédelmi hatóság látja el a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását az (EU) 2018/302 rendeletbe ütköző Európai Unión belüli jogsértések tekintetében abban az esetben, ha a vevő az (EU) 2018/302 rendelet szerinti fogyasztónak minősül.
