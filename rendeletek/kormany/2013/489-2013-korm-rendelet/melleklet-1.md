@@ -1,5 +1,3 @@
-## 34. §[^53] E rendeletnek az általános közigazgatási rendtartásról szóló törvény hatálybalépésével összefüggő egyes kormányrendeletek módosításáról szóló 457/2017. (XII. 28.) Korm. rendelettel megállapított rendelkezéseit a rendelkezések hatálybalépését[^54] követően indult és a megismételt eljárásokban kell alkalmazni.
-
 1. melléklet a 489/2013. (XII. 18.) Korm. rendelethez
 
 ## A támogatás iránti kérelem, a kérelem módosítása, a pótigény, a lemondás és az elszámolás benyújtására szolgáló adatlapok és elektronikus formanyomtatványok kötelező adattartalma
@@ -29,6 +27,3 @@
 2.3. elszámolás esetén a 2.1. pontban foglaltakon túl azokra a támogatási összegekre vonatkozó adatok, amelyekre a fenntartó az elszámolás alapján jogosult, a visszafizetendő, illetve maradványösszeg, a teljesített feladatmutatókra, falugondnoki szolgáltatás és tanyagondnoki szolgáltatás esetén az igazolt munkaórák számára vonatkozó adatok, továbbá az elszámolás elbírálásához jogszabály alapján szükséges egyéb adatok.
 
 3. Tájékoztató adatok a szakmai dolgozók létszámáról és átlagbéréről.
-
-[^53]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 457/2017. (XII. 28.) Korm. rendelet 475. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^54]: A hatálybalépés napja 2017. december 31.
