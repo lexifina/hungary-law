@@ -2,7 +2,7 @@
 
 ## 8. § Az önkormányzati főépítész
 
-a)[^38] az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatallal és az érintett önkormányzatok főépítészeivel együttműködve elősegíti az illetékességi területét érintő területrendezési és településszerkezeti tervek összhangjának kialakítását,
+a)[^39] az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatallal és az érintett önkormányzatok főépítészeivel együttműködve elősegíti az illetékességi területét érintő területrendezési és településszerkezeti tervek összhangjának kialakítását,
 
 b) folyamatosan figyelemmel kíséri a rendezési eszközök hatályosulását, tapasztalatairól évente tájékoztatást ad, és négyévente összefoglaló jelentést készít a képviselő-testület (közgyűlés) részére,
 
@@ -18,7 +18,7 @@ g) vezeti a helyi önkormányzati tervtanácsot,
 
 h) gondoskodik a helyi tervtanács nyilvántartásának vezetéséről, és abból adatokat szolgáltat az állami főépítésznek,
 
-i)[^39] közreműködik a települési önkormányzat Étv.-ben meghatározott építésügyi feladatainak az ellátásában.
+i)[^40] közreműködik a települési önkormányzat Étv.-ben meghatározott építésügyi feladatainak az ellátásában.
 
-[^38]: A 8. § a) pontja a 70/2015. (III. 30.) Korm. rendelet 138. § (5) bekezdés h) pontja szerint módosított szöveg.
-[^39]: A 8. § i) pontját a 322/2012. (XI. 16.) Korm. rendelet 51. §-a iktatta be.
+[^39]: A 8. § a) pontja a 70/2015. (III. 30.) Korm. rendelet 138. § (5) bekezdés h) pontja szerint módosított szöveg.
+[^40]: A 8. § i) pontját a 322/2012. (XI. 16.) Korm. rendelet 51. §-a iktatta be.

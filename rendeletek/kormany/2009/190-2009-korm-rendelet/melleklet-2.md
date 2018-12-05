@@ -72,7 +72,7 @@
 
 ## 6. az építészeti-műszaki tervek tartalmi követelményeit.
 
-## 7.[^56] Makovecz Imre településfejlesztési-épülettervezési modelljét.
+## 7.[^57] Makovecz Imre településfejlesztési-épülettervezési modelljét.
 
 ## III. Terület- és településrendezési különös követelmények
 
@@ -100,10 +100,10 @@
 
 ## 6. a településrendezési eszközök tartalmi és egyeztetési követelményeit.
 
-## 7.[^57] Makovecz Imre településfejlesztési-épülettervezési modelljét.
+## 7.[^58] Makovecz Imre településfejlesztési-épülettervezési modelljét.
 
-2. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^58]
+2. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^59]
 
-[^56]: A melléklet II. alcím 7. pontját a 62/2014. (III. 6.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^57]: A melléklet III. alcím 7. pontját a 62/2014. (III. 6.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^58]: A 2. melléketet a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 138. § (6) bekezdés e) pontja.
+[^57]: A melléklet II. alcím 7. pontját a 62/2014. (III. 6.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^58]: A melléklet III. alcím 7. pontját a 62/2014. (III. 6.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^59]: A 2. melléketet a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 138. § (6) bekezdés e) pontja.
