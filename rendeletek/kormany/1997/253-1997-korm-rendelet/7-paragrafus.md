@@ -34,7 +34,7 @@ c) a párkánymagasság
 
 alkalmazásával.
 
-(4)[^29] A helyi építési szabályzat a helyi sajátosságok megőrzése vagy kialakítása érdekében további előírásokat, különösen az épület legmagasabb pontjának magasságát, az építészeti karakter jellemzőit meghatározó rendelkezést írhat elő.
+(4)[^29] A helyi építési szabályzat a helyi sajátosságok megőrzése vagy kialakítása érdekében további előírásokat írhat elő.
 
 (5)[^30] Az épületmagasság megállapítása során:
 
@@ -83,6 +83,6 @@ d) az egy telken álló épületek épületmagasságát külön-külön kell meg
 [^26]: A 7. § (3) bekezdés 7. pontja a 90/2012. (IV. 26.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^27]: A 7. § (3) bekezdés 8. pontja a 90/2012. (IV. 26.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^28]: A 7. § (3a) bekezdését a 314/2012. (XI. 8.) Korm. rendelet 48. §-a iktatta be. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^29]: A 7. § (4) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^29]: A 7. § (4) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 4. § (4) bekezdésével megállapított, a 217/2018. (XI. 27.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^30]: A 7. § (5) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
 [^31]: A 7. § (6) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be.

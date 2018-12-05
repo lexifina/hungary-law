@@ -1,4 +1,4 @@
-7. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^414]
+7. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^427]
 
 Az építmények rendeltetésszerű használatához szükséges, elhelyezendő kerékpárok számának megállapítása
 
@@ -34,9 +34,9 @@ Az építmények rendeltetésszerű használatához szükséges, elhelyezendő k
 
 | 14.b | Közösségi helyközi közlekedési megállóhely | Megállóhelyenként minimum 5 db |
 
-Függelék az Országos Településrendezési és Építési Követelményekhez[^415]
+Függelék az Országos Településrendezési és Építési Követelményekhez[^428]
 
-Ábrák[^416]
+Ábrák[^429]
 
 M708993A_0
 
@@ -66,6 +66,6 @@ M708996A_0
 
 | Hátsókert: | HK |
 
-[^414]: A 7. számú mellékletet a 182/2008. (VII. 14.) Korm. rendelet 51. § (6) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján rendelkezéseit a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^415]: A Függeléket a 90/2012. (IV. 26.) Korm. rendelet 31. § 32. pontja hatályon kívül helyezte.
-[^416]: Lásd 1997. MK 116. szám 8993-8996. oldal.
+[^427]: A 7. számú mellékletet a 182/2008. (VII. 14.) Korm. rendelet 51. § (6) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján rendelkezéseit a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^428]: A Függeléket a 90/2012. (IV. 26.) Korm. rendelet 31. § 32. pontja hatályon kívül helyezte.
+[^429]: Lásd 1997. MK 116. szám 8993-8996. oldal.

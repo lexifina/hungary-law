@@ -10,9 +10,10 @@ b) a rendeltetésszerű használata a gyalogosok közlekedését nem zavarja, bi
 
 c) a járművezetők kilátását nem gátolja, a közúti forgalmi jelzések felismerését nem akadályozza, a közút forgalmát nem veszélyezteti,
 
-d) a közművek elhelyezését, üzemeltetését, karbantartását nem akadályozza (2. ábra).
+d)[^149] a közművek elhelyezését, üzemeltetését, karbantartását nem akadályozza.
 
-(3)[^149] A járdán építmények, köztárgyak, berendezések, korlátok csak az előírt szélességű gyalogossáv és az úttest felőli biztonsági sáv közötti berendezési sávban állhatnak. Növényzet a gyalogossáv és a telekhatár közötti területen is telepíthető. A kijelölt gyalogos-átkelőhelyektől a forgalom haladási irányával ellenkező irányban, továbbá a gyalogos-átkelőhely nélküli forgalmi csomópontban az úttest szegélyének sarokpontjától mért 5,00 m-en belüli részén 0,50 m-nél magasabb építmény, kilátást zavaró köztárgy, berendezés és növényzet nem állhat.
+(3)[^150] A járdán építmények, köztárgyak, berendezések, korlátok csak az előírt szélességű gyalogossáv és az úttest felőli biztonsági sáv közötti berendezési sávban állhatnak. Növényzet a gyalogossáv és a telekhatár közötti területen is telepíthető. A kijelölt gyalogos-átkelőhelyektől a forgalom haladási irányával ellenkező irányban, továbbá a gyalogos-átkelőhely nélküli forgalmi csomópontban az úttest szegélyének sarokpontjától mért 5,00 m-en belüli részén 0,50 m-nél magasabb építmény, kilátást zavaró köztárgy, berendezés és növényzet nem állhat.
 
 [^148]: A 39. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^149]: A 39. § (3) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 32. § 30. pontja szerint módosított szöveg.
+[^149]: A 39. § (2) bekezdés d) pontja a 217/2018. (XI. 27.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^150]: A 39. § (3) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 32. § 30. pontja szerint módosított szöveg.

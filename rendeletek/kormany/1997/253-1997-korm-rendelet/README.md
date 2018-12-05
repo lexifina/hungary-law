@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-253-20-
 | 2017-01-01 | 1997-253-20-22.46 | 191/2016. (VII. 13.) Korm. rendelet |
 | 2017-06-24 | 1997-253-20-22.47 | 157/2017. (VI. 16.) Korm. rendelet |
 | 2018-01-01 | 1997-253-20-22.48 | 477/2017. (XII. 28.) Korm. rendelet |
+| 2018-12-05 | 1997-253-20-22.49 | 217/2018. (XI. 27.) Korm. rendelet |

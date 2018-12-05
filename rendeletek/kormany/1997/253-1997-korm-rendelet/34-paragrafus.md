@@ -8,7 +8,7 @@ b)[^111] oldalhatáron álló beépítési mód esetén annak egyik építési h
 
 c) ikres beépítési mód esetén a szomszédos telkek egymás felőli építési határvonala a telkek közös oldalhatára legyen,
 
-d)[^112] zártsorú beépítési mód esetén annak a telek előkerti építési határvonalához csatlakozó oldalai a telek két oldalhatára legyen (1. ábra).
+d)[^112] zártsorú beépítési mód esetén annak a telek előkerti építési határvonalához csatlakozó oldalai a telek két oldalhatára legyen.
 
 (2)[^113] A helyi építési szabályzat, szabályozási terv építési vonalakat meghatározhat.
 
@@ -16,6 +16,6 @@ d)[^112] zártsorú beépítési mód esetén annak a telek előkerti építési
 
 [^110]: A 34. § (1) bekezdés nyitó szövegrésze a 314/2012. (XI. 8.) Korm. rendelet 55. § g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
 [^111]: A 34. § (1) bekezdés b) pontja a 90/2012. (IV. 26.) Korm. rendelet 32. § 20. pontja szerint módosított szöveg.
-[^112]: A 34. § (1) bekezdés d) pontja a 90/2012. (IV. 26.) Korm. rendelet 31. § 21. pontja szerint módosított szöveg.
+[^112]: A 34. § (1) bekezdés d) pontja a 90/2012. (IV. 26.) Korm. rendelet 31. § 21. pontja, a 217/2018. (XI. 27.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^113]: A 34. § (2) bekezdésének második mondatát a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
 [^114]: A 34. § (3) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 10. §-a iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 32. § 21. pontja szerint módosított szöveg.
