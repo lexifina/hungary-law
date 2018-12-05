@@ -1190,7 +1190,7 @@
 
 | 38 | 334927 | 834629 | 21° 32' 15,13'' | 48° 19' 52,42'' |
 
-2. melléklet a 485/2016. (XII. 28.) Korm. rendelethez
+2. melléklet a 485/2016. (XII. 28.) Korm. rendelethez[^4]
 
 ## A Tokaj-hegyaljai történelmi borvidék kultúrtáj világörökségi terület világörökségi kezelési terve
 
@@ -1614,6 +1614,8 @@ c) világörökségi tanácsadói szolgáltatás indítása.
 
 4.2.3. Szükséges az 1.2.2. pont szerinti pincéket veszélyeztető kijelölt beépítésre szánt területek felülvizsgálata, fejlesztésük korlátozása.
 
+4.2.4. A világörökségi területen újonnan létesítendő ipari, mezőgazdasági, kereskedelmi-szolgáltató rendeltetésű építmények a területi tervtanács által meghatározott homlokzatának vagy homlokzatainak takarását kétszintű növényállománnyal kell biztosítani. A tervtanács az ilyen módon takarandó homlokzatot a tervtanács által meghatározott magaslati pontokról, továbbá gyorsforgalmi utak, főutak, országos mellékutakról való láthatóság alapján határozza meg. A kétszintű növényállomány faszintjében magas növésű, őshonos fafajokat, a cserjeszintre őshonos cserjéket kell ültetni.
+
 4.3. Világörökségi tilalmak
 
 4.3.1. A világörökségi terület kezelését a világörökségi terület kiemelkedő egyetemes értéke és az azt hordozó attribútumok fizikai állapotának és hitelességének sérelme nélkül kell végezni.
@@ -1621,6 +1623,20 @@ c) világörökségi tanácsadói szolgáltatás indítása.
 4.3.2. Óriásplakátokat és egyéb reklámokat az 1.2. pontban felsorolt attribútumok – különösen a tájkarakter és a természeti értékek – látványának érvényesülését sértő, korlátozó módon nem lehet elhelyezni.
 
 4.3.3. A településcsoportonként elkészítendő településszerkezeti terven (1:25 000 – 10 000 lépték) szőlőtelepítésre nem alkalmasnak jelölt alacsony térszínen nem adható szőlőtelepítési támogatás.
+
+4.3.4. Újonnan létesített ipari, mezőgazdasági vagy kereskedelmi-szolgáltató rendeltetésű építmények esetében
+
+a) nem alkalmazható a területi tervtanács által meghatározott, környezetbe nem illő szín vagy anyag,
+
+b) nem alkalmazható közterületről látszó, 10 m2-nél nagyobb egybefüggő felületen tükröződő, nagy fényvisszaverő tulajdonságú anyag,
+
+c) az építmény legmagasabb pontja – beleértve minden építményrészt, tetőfelépítményt, az építmény tetőzetén elhelyezett antennát, kéményt, szellőzőt, egyéb tartozékot és műszaki berendezést – nem lehet magasabb 15 méternél,
+
+d) nem alkalmazható a világörökségi helyszínről látható fényfestés és éjszakai díszvilágítás,
+
+e) az építmény oldalankénti egybefüggő homlokzati felületeinek vízszintesen mért hossza nem haladhatja meg a 100 métert, és
+
+f) az egyes építmények közötti távolság nem lehet kevesebb, mint 20 méter.
 
 5. Társadalmi-szakmai részvétel a kezelési terv alkalmazása során
 
@@ -1663,3 +1679,5 @@ c) a helyszíni ellenőrzéseket fotódokumentációval kell kiegészíteni, ame
 d) az egyes bányatelkekre vonatkozó monitoring tervek véleményezésébe és jóváhagyásába a bányatelek megállapításának, módosításának, az ásványi nyersanyag feltárására, kitermelésére, a meddőhányó hasznosítására, a kitermelés szüneteltetésére, a bánya bezárására vonatkozó műszaki üzemi terv és a tájrendezési terv jóváhagyása, valamint bányászati létesítmények építésének és üzembe helyezésének engedélyezési eljárásaiban szakhatóságként eljáró hatóságokat be kell vonni;
 
 e) az egyeztetett tervek alapján készült éves összefoglaló monitoring jelentéseket és az azok alapján tervezett, szükséges hatáscsökkentő intézkedéseket, illetve azok eredményeit a véleményező, jóváhagyó szakhatóságoknak folyamatosan meg kell küldeni, az érdekelt felek részére pedig hozzáférhetővé kell tenni.
+
+[^4]: A 2. melléklet a 217/2018. (XI. 27.) Korm. rendelet 26. §-a szerint módosított szöveg.
