@@ -1,0 +1,82 @@
+# A Kormány 228/2018. (XII. 5.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 192. szám, 2018. december 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4e0d199fca1011e8d242b546a239acf5be7673f4/dokumentumok/309ea09fd7f2b60d6865ed562f02aa357ae5d4bb/letoltes)
+
+---
+
+A Kormány 228/2018. (XII. 5.) Korm. rendelete
+a támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló
+60/2014. (III. 6.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15. pont a) és b) alpontjában, valamint
+15a. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. §
+A támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.)
+Korm. rendelet [a továbbiakban: 60/2014. (III. 6.) Korm. rendelet] 2. §-a a következő 11a. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„11a. NAHU 2014–2020 rendszer: a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap és
+az Előcsatlakozási Támogatási Eszköz egyes, határon átnyúló együttműködési programjainak végrehajtásáról szóló
+126/2016. (VI. 7.) Korm. rendelet 3. § (1) bekezdés 22a. pontja, valamint a 2014–2020 programozási időszakban
+az Európai Szomszédsági Támogatási Eszközből társfinanszírozott Magyarország–Szlovákia–Románia–Ukrajna
+ENI Határon Átnyúló Együttműködési Program végrehajtásáról szóló 83/2018. (IV. 20.) Korm. rendelet 3. §
+(1) bekezdés 10a. pontja szerinti rendszer,”
+2. §
+A 60/2014. (III. 6.) Korm. rendelet a következő 9/A. §-sal egészül ki:
+„9/A. § (1) Az egyes támogatási jogviszonyok tekintetében a támogató az adatkezelő.
+(2) A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet]
+6. alcíme szerinti feladatok tekintetében a 272/2014. (XI. 5.) Korm. rendelet 8. § (1) bekezdése szerinti koordináló
+szervezet az adatkezelő.
+(3) A FAIR-ban rögzített adatok tekintetében az 5. § (1) bekezdése szerinti feladatok vonatkozásában az adatgazda
+az adatkezelő.”
+3. §
+A 60/2014. (III. 6.) Korm. rendelet 25/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A miniszter által vezetett minisztérium a miniszternek az európai uniós források felhasználásával, valamint
+a nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikával összefüggő feladatait
+– ide nem értve az 5. § (1) bekezdés f) pontjában, valamint a Kormány tagjainak feladat- és hatásköréről szóló
+94/2018. (V. 22.) Korm. rendelet 39. § (2) bekezdés a), c)–f) és i) pontjában meghatározott feladatokat –, így
+különösen az informatikai rendszerek szoftverfejlesztésével és alkalmazásüzemeltetésével kapcsolatos feladatokat
+
+az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság bevonásával, az Európai Unió működéséről szóló
+szerződés 106. cikk (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes
+vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról
+szóló, 2011. december 20-i 2012/21/EU bizottsági határozattal összhangban láthatja el.”
+4. §
+A 60/2014. (III. 6.) Korm. rendelet
+a) 1. § (1) bekezdésében a„w
+ww.szec
+henyi20
+20.h
+u”szövegrész helyébe a„w
+ww.paly
+azat.go
+v.h
+u”szöveg,
+b) 2. § 10a. pontjában a „rendszer” szövegrész helyébe a „rendszer, ide nem értve a NAHU 2014–2020 rendszer
+által kezelt nemzeti feladatokat”szöveg,
+c) 7/A. §-ában a„w
+ww.szec
+henyi20
+20.h
+u”szövegrész helyébe a„w
+ww.paly
+azat.g
+ov.h
+u”szöveg,
+d) 25/A. § (1a) bekezdésében a „rendszerek” szövegrész helyébe a „rendszerek – ide nem értve a NAHU
+2014–2020 rendszert –”szöveg,
+e) 25/A. § (3) bekezdésében a„miniszter elkészíti és a w
+ww.szec
+henyi20
+20.h
+u”szövegrész helyébe a„monitoring
+felelős elkészíti és a w
+ww.pa
+lyazat.go
+v.h
+u”szöveg
+lép.
+5. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
