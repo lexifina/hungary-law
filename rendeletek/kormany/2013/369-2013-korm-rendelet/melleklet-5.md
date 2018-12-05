@@ -42,7 +42,7 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
 2.5. Fejlesztő foglalkoztatás esetén – a 2.1. pontban foglaltakon túl – csatolni kell a foglalkoztatási hely használati jogcímét bizonyító egyéb okirat másolatát, ha a tulajdoni lap a használat jogcímét nem igazolja.
 
-2.6. Családsegítés és gyermekjóléti szolgáltatás, bölcsőde, mini bölcsőde, alternatív napközbeni ellátás, Biztos Kezdet Gyerekház, gyermekek átmeneti házi gondozása, gyermekek átmeneti otthona, utógondozó otthon és területi gyermekvédelmi szakszolgáltatás esetén – a 2.1. pontban foglaltakon túl – csatolni kell a kötelezően alkalmazandó személyek és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személyek nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 15. § (8) bekezdésében meghatározott kizáró okok.
+2.6. Családsegítés és gyermekjóléti szolgáltatás, bölcsőde, mini bölcsőde, alternatív napközbeni ellátás, Biztos Kezdet Gyerekház, tanoda, gyermekek átmeneti házi gondozása, gyermekek átmeneti otthona, utógondozó otthon és területi gyermekvédelmi szakszolgáltatás esetén – a 2.1. pontban foglaltakon túl – csatolni kell a kötelezően alkalmazandó személyek és a jogszabályban meghatározott munkakörben vagy önkéntes jogviszonyban foglalkoztatott más személyek nyilatkozatát arra vonatkozóan, hogy velük szemben nem állnak fenn a Gyvt. 15. § (8) bekezdésében meghatározott kizáró okok.
 
 2.7. Munkahelyi bölcsőde esetén – a 2.1. pontban foglaltakon túl – csatolni kell
 
@@ -118,4 +118,4 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
 3.3.3. a 2.1.5. és a 2.1.6. pont szerinti iratot abban az esetben kell csatolni, ha az engedélyes által nyújtott szolgáltatásra megkötött ellátási szerződés, illetve az Szt. 90. § (4) bekezdése szerinti megállapodás az időszakos férőhelyekre nem terjedt ki.
 
-[^162]: Az 5. melléklet a 457/2017. (XII. 28.) Korm. rendelet 456. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^162]: Az 5. melléklet a 457/2017. (XII. 28.) Korm. rendelet 456. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át. Az 5. melléklet a 226/2018. (XII. 4.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
