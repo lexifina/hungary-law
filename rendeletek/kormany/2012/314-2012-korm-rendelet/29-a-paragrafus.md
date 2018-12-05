@@ -1,55 +1,35 @@
-29/A. § (1) A polgármester a koncepció, a stratégia, a településrendezési eszközök, a kézikönyv és a településképi rendelet tekintetében a társadalmi bevonás keretében a (3) bekezdés szerint, az önkormányzati rendelet partnerségi egyeztetési szabályai szerinti helyen és módon tájékoztatja a partnereket (előzetes tájékoztató), de legalább
+29/A. §[^106] (1) A polgármester – a széles körű társadalmi bevonás és a nyilvánosság biztosítása érdekében – a koncepció, a stratégia, a településrendezési eszközök, a kézikönyv és a településképi rendelet készítése és módosítása során az önkormányzat rendeletében megállapított partnerségi egyeztetés szabályai szerinti helyen és módon tájékoztatja a partnereket, valamint biztosítja számukra a véleményezés lehetőségét.
 
-a) közterületen elhelyezett hirdetőfelületen,
+(2) Ha az önkormányzat rendeletében szigorúbb követelményt nem állapít meg, a partnerségi egyeztetés előzetes tájékoztató szakaszból és munkaközi tájékoztató szakaszból áll, amelynek részletes szabályait a (3)–(6) bekezdés tartalmazza.
 
-b)[^104] ha van ilyen, helyi lapban,,
+(3) Előzetes tájékoztató szakasz lefolytatása csak a koncepció, a stratégia, a kézikönyv és a településképi rendelet készítése, valamint a településrendezési eszközök teljes eljárásban történő készítése során szükséges. Az előzetes tájékoztatás lakossági fórum megtartásával, továbbá az előzetes javaslatoknak az önkormányzat honlapján, a közterületi hirdetőfelületen és – ha van ilyen – a helyi lapban való együttes közzétételével történik.
 
-c) ha van ilyen, önkormányzati honlapon, és
+(4) Munkaközi tájékoztató szakasz lefolytatása a koncepció, a stratégia, a településrendezési eszköz, a kézikönyv és a településképi rendelet készítése és módosítása során is szükséges.
 
-d) lakossági fórumon.
+(5) A munkaközi tájékoztatás lakossági fórum megtartásával, továbbá az elkészült tervezetnek az önkormányzat honlapján, a közterületi hirdetőfelületen és – ha van ilyen – a helyi lapban való együttes közzétételével történik
 
-(2) A polgármester az elkészült koncepció, stratégia, településrendezési eszköz, kézikönyv és településképi rendelet tekintetében – a széleskörű nyilvánosság biztosításával – partnerségi véleményezésre bocsátja a (3) bekezdés szerint, az önkormányzati rendelet partnerségi egyeztetési szabályai szerinti helyen és módon (munkaközi tájékoztató), de legalább
+a) a koncepció és a stratégia készítésénél,
 
-a) közterületen elhelyezett hirdetőfelületen,
+b) a településrendezési eszközök teljes eljárásban vagy egyszerűsített eljárásban történő készítésénél és módosításánál, az egyeztetés véleményezési szakaszában,
 
-b)[^105] ha van ilyen, helyi lapban,,
+c) a településrendezési eszközök tárgyalásos eljárásában történő készítésénél és módosításánál, az egyeztetés végső véleményezési szakaszának kezdeményezése előtt,
 
-c) ha van ilyen, önkormányzati honlapon, és
+d) a kézikönyv és a településképi rendelet készítésénél.
 
-d) lakossági fórumon
+(6) A munkaközi tájékoztatás lakossági fórum megtartásával és az elkészült tervezetnek az önkormányzat honlapján való közzétételével történik
 
-## ismerteti annak tartalmát.
+a) a koncepció és a stratégia módosításánál,
 
-(3) A koncepció, a stratégia, a településrendezési eszközök, a kézikönyv és a településképi rendelet készítésénél, módosításánál a (1) és (2) bekezdésben foglalt minimális tájékoztatási forma a következő:
+b) a 32. § (6) bekezdés b) pontban foglalt esetben,
 
-a)[^106] az (1) bekezdés szerinti tájékoztatási követelményeket a kézikönyv, a településképi rendelet készítésénél, a koncepció, stratégia készítésénél valamint a településrendezési eszközök teljes eljárásban történő készítésénél, módosításánál teljeskörűen,
+c) a településrendezési eszközök állami főépítészi eljárásban történő készítésénél és módosításánál, a záró szakmai vélemény megkérése előtt,
 
-b) a (2) bekezdésben foglalt követelményeket
+d) a kézikönyv és a településképi rendelet módosításánál.
 
-ba) a koncepció és stratégia készítésénél teljeskörűen, módosításánál a (2) bekezdés a) vagy c) pontja szerinti módon,
+(7) Ha az önkormányzat rendeletében szigorúbb követelményt nem állapít meg,
 
-bb) a településrendezési eszközök teljes eljárásban vagy egyszerűsített eljárásban történő készítésénél, módosításánál a véleményezési szakaszban teljeskörűen,
+a) az előzetes tájékoztatót és az elkészült tervezetet a lakossági fórum időpontját megelőzően legalább 8 nappal az önkormányzati honlapon – továbbá a (3) és az (5) bekezdésben meghatározott esetekben az ott meghatározott egyéb helyen – meg kell jeleníteni,
 
-bc) a településrendezési eszközök tárgyalásos eljárásában történő készítésénél, módosításánál a végső véleményezési szakasz kezdeményezése előtt a partnerekkel történő véleményeztetés során teljeskörűen, a 32. § (6) bekezdés b) pontban foglalt esetben a (2) bekezdés a) vagy c) pontja szerinti módon,
+b) az észrevételeket és javaslatokat a lakossági fórumon szóban, továbbá a lakossági fórumtól számított 8 napon belül papír alapon vagy elektronikusan lehet megtenni.
 
-bd) a településrendezési eszközök állami főépítészi eljárásban történő módosításánál a záró vélemény megkérése előtt a (2) bekezdés a) vagy c) pontja szerint módon,
-
-be)[^107] kézikönyv, településképi rendelet készítésénél teljeskörűen, módosításánál a (2) bekezdés a) vagy c) pontja szerinti módon kell teljesíteni.
-
-## kell teljesíteni.
-
-(4) A koncepció, a stratégia, a településrendezési eszközök, a kézikönyv és a településképi rendelet készítéséről vagy módosításáról a partnerek az előzetes tájékoztatóval és az elkészült tervezettel kapcsolatos javaslatokat, észrevételeket az önkormányzati rendelet partnerségi egyeztetési szabályai szerint teszik meg, de
-
-a)[^108] ha a (3) bekezdés szerint van lakossági fórum, azt megelőzően legalább 8 nappal korábban az elkészült tervezetet a (3) bekezdés szerint a hirdetőfelületen, – ha van ilyen – a helyi lapban, honlapon meg kell jeleníteni,
-
-b) az észrevételeket, javaslatokat
-
-ba) a lakossági fórumon szóban, illetve a lakossági fórumtól számított 8 napon belül – kivéve, ha e rendelet ennél hosszabb határidőt állapít meg –,
-
-bb) ha a (3) bekezdés szerint nincs lakossági fórum, a (2) bekezdés a) vagy c) pontja szerinti közzétételtől számított 8 napon belül
-
-[^104]: A 29/A. § (1) bekezdés b) pontja a 16/2018. (II. 13.) Korm. rendelet 14. § 13. pontjával megállapított szöveg.
-[^105]: A 29/A. § (2) bekezdés b) pontja a 16/2018. (II. 13.) Korm. rendelet 14. § 13. pontjával megállapított szöveg.
-[^106]: A 29/A. § (3) bekezdés a) pontja a 16/2018. (II. 13.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
-[^107]: A 29/A. § (3) bekezdés b) pont be) alpontja a 16/2018. (II. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^108]: A 29/A. § (4) bekezdés a) pontja a 16/2018. (II. 13.) Korm. rendelet 14. § 14. pontja szerint módosított szöveg.
+[^106]: A 29/A. § a 217/2018. (XI. 27.) Korm. rendelet 19. §-ával megállapított szöveg.

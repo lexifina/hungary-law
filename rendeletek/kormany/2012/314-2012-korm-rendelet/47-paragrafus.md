@@ -1,6 +1,6 @@
-## 46/F. §[^181] E rendeletnek az egyes kormányrendeleteknek a toronyházak építésének szabályozásával kapcsolatos módosításáról szóló 150/2018. (VIII. 13.) Korm. rendelettel (a továbbiakban: Mód.Kr. 6.) megállapított 26. § (1) bekezdés a) pontját és 26. § (2) bekezdését a Mód.Kr. 6. hatálybalépésekor[^182] folyamatban lévő építésügyi hatósági eljárásokban és településképi véleményezési eljárásokban is alkalmazni kell.
+## 46/G. §[^190] E rendeletnek a településtervezéssel és területrendezéssel összefüggő kormányrendeletek módosításáról szóló 217/2018. (XI. 27.) Korm. rendelettel (a továbbiakban: Mód. Kr.7.) megállapított 6. § (2b) bekezdését, 42. § (2) bekezdését, 42/A. § (3a) és (3b) bekezdését, valamint 2. mellékletét a Mód. Kr.7. hatálybalépésekor[^191] folyamatban lévő integrált településfejlesztési stratégia és településrendezési eszköz készítése és módosítása során is alkalmazni kell.
 
 ## 34. Módosuló és hatályon kívül helyező rendelkezések
 
-[^181]: A 46/F. §-t a 150/2018. (VIII. 13.) Korm. rendelet 22. §-a iktatta be.
-[^182]: A hatálybalépés időpontja 2018. augusztus 14.
+[^190]: A 46/G. §-t a 217/2018. (XI. 27.) Korm. rendelet 22. §-a iktatta be.
+[^191]: A hatálybalépés időpontja 2018. december 5.

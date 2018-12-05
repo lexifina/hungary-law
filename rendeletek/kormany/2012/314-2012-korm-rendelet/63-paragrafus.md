@@ -1,3 +1,3 @@
-## 62. §[^197]
+## 62. §[^206]
 
-[^197]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^206]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

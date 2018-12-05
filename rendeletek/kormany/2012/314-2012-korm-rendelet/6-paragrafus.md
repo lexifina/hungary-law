@@ -6,10 +6,10 @@
 
 (2a)[^26] Az 1. és a 2. mellékletben meghatározott tartalmi elemek részletezettségét az önkormányzati főépítész írásban határozza meg.
 
-(2b)[^27] Az okos város a stratégiáját a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Tudásközpont) által biztosított okos város módszertan alapján készíti el.
+(2b)[^27] Az okos város a stratégiáját – a (2) és a (2a) bekezdés figyelembevételével – a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Tudásközpont) által biztosított okos város módszertan alapján készíti el.
 
 (3) A stratégia végrehajtásáról szóló beszámolóról a helyi önkormányzat képviselő-testülete évente dönt.
 
 [^25]: A 6. § (2) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^26]: A 6. § (2a) bekezdését a 400/2016. (XII. 5.) Korm. rendelet 8. §-a iktatta be.
-[^27]: A 6. § (2b) bekezdését az 56/2017. (III. 20.) Korm. rendelet 4. §-a iktatta be.
+[^27]: A 6. § (2b) bekezdését az 56/2017. (III. 20.) Korm. rendelet 4. §-a iktatta be, szövege a 217/2018. (XI. 27.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.

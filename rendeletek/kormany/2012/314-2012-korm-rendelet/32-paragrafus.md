@@ -1,14 +1,14 @@
 ## 31. §
 
-## 24. [^111] A településrendezési eszközök készítése, módosítása egyeztetésének és elfogadásának szabályai
+## 24. [^109] A településrendezési eszközök készítése, módosítása egyeztetésének és elfogadásának szabályai
 
 32. § (1) A településrendezési eszközök egyeztetési eljárása e rendeletben meghatározottak szerint lehet:
 
 a) teljes,
 
-b) egyszerűsített vagy
+b)[^110] egyszerűsített,
 
-c) tárgyalásos,
+c)[^111] tárgyalásos vagy
 
 d)[^112] állami főépítészi
 
@@ -58,7 +58,9 @@ e) a településképi rendelettel történő összhang megteremtése érdekében
 
 (8)[^119] A kiemelt nemzeti emlékhely és településkép-védelmi környezetének területét és a területhez közvetlenül kapcsolódó területet érintő településrendezési eszköz egyeztetése során a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló kormányrendeletben foglalt településrendezési eszközök egyeztetésére vonatkozó szabályokat is alkalmazni kell.
 
-[^111]: A 24. alcím címe a 400/2016. (XII. 5.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^109]: A 24. alcím címe a 400/2016. (XII. 5.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^110]: A 32. § (1) bekezdés b) pontja a 217/2018. (XI. 27.) Korm. rendelet 24. § b) pontjával megállapított szöveg.
+[^111]: A 32. § (1) bekezdés c) pontja a 217/2018. (XI. 27.) Korm. rendelet 24. § c) pontjával megállapított szöveg.
 [^112]: A 32. § (1) bekezdés d) pontját a 400/2016. (XII. 5.) Korm. rendelet 19. § (1) bekezdése iktatta be.
 [^113]: A 32. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^114]: A 32. § (3) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 28. § f) pontja szerint módosított szöveg.
