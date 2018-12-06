@@ -1,3 +1,3 @@
-2. melléklet a 60/2014. (III. 6.) Korm. rendelethez[^61]
+2. melléklet a 60/2014. (III. 6.) Korm. rendelethez[^63]
 
-[^61]: A 2. melléklet a 183/2015. (VII. 10.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^63]: A 2. melléklet a 183/2015. (VII. 10.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
