@@ -1,6 +1,6 @@
-## 11. §[^13]
+## 11. §[^15]
 
-1. melléklet a 120/2017. (VI. 1.) Korm. rendelethez[^14]
+1. melléklet a 120/2017. (VI. 1.) Korm. rendelethez[^16]
 
 NYILATKOZAT
 
@@ -10,5 +10,5 @@ A nyilatkozatot kiállító neve, aláírása.
 
 A nyilatkozat kiállításának dátuma.
 
-[^13]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: Az 1. melléklet a 151/2018. (VIII. 13.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^15]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: Az 1. melléklet a 151/2018. (VIII. 13.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

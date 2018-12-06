@@ -12,8 +12,8 @@ e) azt a feltételt, hogy az ösztöndíjszerződés abban az időpontban lép h
 
 f) a hallgatói jogviszony szünetelésének, megszűnésének rendjét,
 
-g)[^12] a 6. § (3) bekezdés e) pontjában megjelölt kötelezettségről szóló tájékoztatást.
+g)[^14] a 6. § (3) bekezdés e) pontjában megjelölt kötelezettségről szóló tájékoztatást.
 
 (2) Az ösztöndíjszerződés – az Nftv. 59. § (1) bekezdés a) pontjában foglalt kivétellel – megszűnik, ha az ösztöndíjas hallgatói jogviszonya megszűnik.
 
-[^12]: A 8. § (1) bekezdés g) pontját a 151/2018. (VIII. 13.) Korm. rendelet 5. §-a iktatta be.
+[^14]: A 8. § (1) bekezdés g) pontját a 151/2018. (VIII. 13.) Korm. rendelet 5. §-a iktatta be.
