@@ -40,15 +40,7 @@
 
 ## Határidő: azonnal
 
-## 2. A Kormány visszavonja
-
-## a) a KEOP-1.1.1/B/10-11-2013-0002 azonosító számú („A fővárosi hulladékgazdálkodási rendszer környezetbarát technológiáinak bővítése, a hulladékfeldolgozás és újrahasznosítás arányának növelése” című) projekt szakaszolásáról szóló 1698/2014. (XI. 26.) Korm. határozatot,
-
-## b) a KEOP-1.2.0/09-11-2011-0052 azonosító számú („Fegyvernek és Örményes szennyvízelvezetése és tisztítása” című), valamint a KEOP-1.1.1/B/10-11-2013-0005 azonosító számú („Szilárdhulladék-gazdálkodási rendszer továbbfejlesztése a Heves Megyei Regionális Hulladékgazdálkodási Társulás területén” című) projekt forrásszerkezetének módosításáról szóló 1998/2015. (XII. 28.) Korm. határozatot,
-
-## c) a KEOP-2.4.0/2F/09-11-2012-0003 azonosító számú („Berhida Ipartelep szennyezett területek kármentesítése” című) és a KEOP-2.4.0/2F/09-2010-0008 azonosító számú („Az MH Ócsai üzemanyagraktár területén feltárt szénhidrogén szennyezettség kármentesítése” című) projektek támogatásának növeléséről, szakaszolásáról és a projektek második szakaszában felmerülő költségek fedezetének biztosításáról szóló 1335/2016. (VII. 4.) Korm. határozatot,
-
-## d) az „A fővárosi hulladékgazdálkodási rendszer környezetbarát technológiáinak bővítése, a hulladékfeldolgozás és újrahasznosítás arányának növelése” című projekt támogatásának növeléséről és forrásszerkezetének módosításáról szóló 1462/2016. (VIII. 24.) Korm. határozatot.
+## 2.[^1]
 
 1. melléklet az 1637/2018. (XII. 5.) Korm. határozathoz
 
@@ -63,3 +55,5 @@
 | 3. | KEOP-1.1.1/B/10- 11-2013-0005; KEHOP-3.2.2-15- 2016-00002 | Szilárdhulladék-gazdálkodási rendszer továbbfejlesztése a Heves Megyei Regionális Hulladékgazdálkodási Társulás területén | Heves Megyei Regionális Hulladékgazdálkodási Társulás | 3 234 368 568 | 645 929 994 | – | 3 856 248 498 | 24 050 064 |
 
 | 4. | KEOP-2.4.0/2F/09- 11-2012-0003; KEHOP-3.3.1-16- 2016-00002 | Berhida Ipartelep szennyezett területek kármentesítése | Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság | 6 308 350 198 | 4 287 843 401 | 1 754 350 452 | 8 841 843 147 | – |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
