@@ -1,0 +1,1 @@
+A Kormány a Magyarország Kormánya és Veszprém Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1284/2016. (VI. 7.) Korm. határozat 4. pont a) alpontjának végrehajtása érdekében
