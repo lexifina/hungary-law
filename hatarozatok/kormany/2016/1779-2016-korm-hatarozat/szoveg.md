@@ -4,11 +4,11 @@ egyetértve a szórvány- és tömbmagyarság azon igényével, hogy a nemzeti i
 
 1. elfogadja az óvodák, bölcsődék, iskola-óvoda komplexumok, kapcsolódó köznevelési intézmények építését, fejlesztését, az óvodapedagógusok képzését, az egészségügyi, sport és rekreációs szolgáltatások fejlesztését, a védőnői szolgálat fejlesztését és a virtuális óvoda létrehozását is magában foglaló Kárpát-medencei óvodafejlesztési programot (a továbbiakban: Program);
 
-2. felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon a Program végrehajtásáról;
+2.[^1] felhívja a miniszterelnök általános helyettesét, hogy gondoskodjon a Program végrehajtásáról;
 
-Felelős: Miniszterelnökséget vezető miniszter
+Felelős: a miniszterelnök általános helyettese
 
-Határidő: 2018. december 31.
+Határidő: 2020. december 31.
 
 3. felhívja a nemzetgazdasági minisztert, hogy a Program egyházi vonatkozású elemeinek megvalósítása érdekében gondoskodjon 2016-ban 8995,0 millió forint költségvetési forrás biztosításáról a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet LXV. Bethlen Gábor Alap fejezetben;
 
@@ -37,3 +37,5 @@ Felelős: Miniszterelnökséget vezető miniszter
 Szabolcs-Szatmár-Bereg megye és Kárpátalja (Закарпатська область) együttműködésének és összehangolt fejlesztési feladatainak kormányzati koordinációjáért felelős kormánybiztos
 
 Határidő: 2017. január 15.
+
+[^1]: A 2. pont az 1661/2018. (XII. 6.) Korm. határozat 2. pontjával megállapított szöveg.
