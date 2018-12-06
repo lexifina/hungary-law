@@ -1,5 +1,3 @@
-## „k) finanszírozási időszak: ha törvény vagy e rendelet másként nem rendelkezik,
+## 3. §[^3]
 
-## ka) tanoda esetén az általános pályázati eljárás lefolytatását követő naptári év,
-
-## kb) a ka) alpontban nem említett szolgáltatás esetén az általános pályázati eljárás lefolytatását követő év január 1-jétől az azt követő harmadik év december 31-éig terjedő időszak;”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

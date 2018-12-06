@@ -1,5 +1,3 @@
-## 5. § A Tkr. 4. § (5) bekezdése a következő k) ponttal egészül ki:
+## 5. §[^5]
 
-## (A pályázati kiírás tartalmazza különösen)
-
-## „k) tanoda esetén az alaptámogatás várható összegét és az egy feladategységre jutó támogatás várható összegét.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

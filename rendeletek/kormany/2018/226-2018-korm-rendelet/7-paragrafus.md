@@ -1,5 +1,3 @@
-## 6. § A Tkr. 5. § (5) bekezdése a következő g) ponttal egészül ki:
+## 6. §[^6]
 
-## (A pályázathoz csatolni kell)
-
-## „g) tanoda esetén a pályázó nyilatkozatát, hogy vállalja a statisztikai célú adatszolgáltatást a Központi Statisztikai Hivatal felé.”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

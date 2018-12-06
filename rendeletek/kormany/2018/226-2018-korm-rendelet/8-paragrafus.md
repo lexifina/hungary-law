@@ -1,5 +1,3 @@
-## 7. § A Tkr. 6. § (3) bekezdése a következő d) ponttal egészül ki:
+## 7. §[^7]
 
-## (A bizottság)
-
-## „d) egy tagját tanoda esetén a Roma Koordinációs Tanács kéri fel,”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
