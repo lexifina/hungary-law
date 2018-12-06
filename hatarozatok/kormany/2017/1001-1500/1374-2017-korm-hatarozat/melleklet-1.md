@@ -96,7 +96,7 @@
 
 | 5. | KEHOP-2.1.5- 16-2017-00001 | Budapest ivóvízellátó hálózatának fejlesztése | Budapest Főváros Önkormányzata és NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság konzorciuma | 2017. szeptember 30. | 2018. március 31. | 2018. szeptember 30. | 2019. március 31. | 2018. június 30. | 2018. december 31. |
 
-| 6. | KEHOP-2.3.0- 16-2017-00001 | Budapesti szennyvíziszapok hosszú távú kezelése, ártalmatlanítása, hasznosítása | Budapest Főváros Önkormányzata és NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság konzorciuma | 2018. június 30. | 2018. június 30. | 2018. december 31. | 2019. június 30. | 2018. szeptember 30. | 2019. március 31. |
+| 6. |  |  |  |  |  |  |  |  |  |
 
 | 7. | IKOP-2.1.0-15- 2016-00008 | Szántód–Kőröshegy–Balatonszentgyörgy vasútvonal korszerűsítése és kiegészítő munkák elvégzése | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság (a továbbiakban: NIF Zrt.) | – | – | – | – | – | Benyújtása megtörtént. |
 
@@ -132,4 +132,4 @@
 
 [^1]: A 2/A. pontot az 1996/2017. (XII. 19.) Korm. határozat 2. pontja iktatta be.
 [^2]: A 7. pont az 1996/2017. (XII. 19.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^3]: Az 1. melléklet az 1124/2018. (III. 19.) Korm. határozat 3. pontjával megállapított szöveg.
+[^3]: Az 1. melléklet az 1124/2018. (III. 19.) Korm. határozat 3. pontjával megállapított, az 1636/2018. (XII. 5.) Korm. határozat 10. pont b) alpontja szerint módosított szöveg.
