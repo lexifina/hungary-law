@@ -1,1 +1,0 @@
-## „a) kézikönyv és településképi rendelet tervezetét partnerségi véleményezésre bocsátja a 29/A. § (1) vagy (5) bekezdése szerinti helyen, a kézikönyv és a településképi rendelet módosításának tervezetét partnerségi véleményezésre bocsátja a 29/A. § (1) vagy (6) bekezdése szerinti helyen,”
