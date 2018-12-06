@@ -16,11 +16,7 @@
 
 ## 4. egyetért azzal, hogy a belügyminiszter a támogatást – a 3. pont szerinti megállapodás megkötését követően, legkésőbb 2015. január 31-ig történő elszámolási kötelezettséggel – folyósítsa Veszprém Megyei Jogú Város Önkormányzata számára;
 
-## 5. felhívja a nemzetgazdasági minisztert, hogy a 2015–2023. évek központi költségvetésének előkészítése során gondoskodjon a Veszprém Aréna multifunkcionális sport- és rendezvénycsarnok építési beruházásával összefüggő tőke- és kamattartozás átvállalásához szükséges forrás tervezéséről.
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: a 2015–2023. évi központi költségvetések tervezése során
+## 5.[^1]
 
 1. melléklet az 1056/2014. (II. 11.) Korm. határozathoz
 
@@ -79,3 +75,5 @@
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni..
+
+[^1]: Az 5. pontot az 1659/2018. (XII. 6.) Korm. határozat 15. pontja visszavonta.
