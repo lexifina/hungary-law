@@ -1,0 +1,254 @@
+# A Kormány 234/2018. (XII. 6.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 195. szám, 2018. december 6. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/XGmIc877QDwEJKN7b8Sq5c06c8d52ea3f/dokumentumok/06eff185ce27612bf7d81d0904589c8fc059bace/letoltes)
+
+---
+
+A Kormány 234/2018. (XII. 6.) Korm. rendelete
+a közigazgatási ösztöndíjjal kapcsolatos egyes kormányrendeletek módosításáról
+A Kormány a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 2. pontjában kapott felhatalmazás
+alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A Magyar Közigazgatási Ösztöndíjról szóló 228/2011. (X. 28.) Korm. rendelet (a továbbiakban: Korm. rendelet)
+az 1. §-t megelőzően a következő alcím címmel egészül ki:
+„1. A Magyar Közigazgatási Ösztöndíj célja, időtartama”
+2. §
+A Korm. rendelet 1. §-a helyébe a következő rendelkezés lép:
+„1. § A Magyar Közigazgatási Ösztöndíj (a továbbiakban: Ösztöndíjprogram) a Kormány által alapított ösztöndíj,
+amelynek célja a megfelelően képzett, szakmailag elhivatott, gyakorlati tapasztalattal rendelkező, a nemzeti
+közigazgatás iránt elkötelezett szakember-utánpótlás biztosítása.”
+3. §
+A Korm. rendelet a 2. §-t megelőzően a következő alcím címmel egészül ki:
+„2. Az Ösztöndíjprogram szervezete és működtetése”
+4. §
+A Korm. rendelet 2. § (2) bekezdése a következő a) ponttal egészül ki:
+[A miniszternek az (1) bekezdés szerinti tevékenységében közreműködik]
+„a) a miniszter által vezetett minisztérium (a továbbiakban: minisztérium),”
+5. § (1) A Korm. rendelet 3. § b) pont bb) és bc) alpontja helyébe a következő rendelkezések lépnek:
+(A miniszter jóváhagyja)
+„bb) az Ösztöndíjprogram működési szabályzatát (a továbbiakban: Programszabályzat),
+bc) a minisztériumnak az Ösztöndíjprogram végrehajtásával kapcsolatos éves beszámolóját,”
+(2) A Korm. rendelet 3. §-a a következő c), d) és e) ponttal egészül ki:
+(A miniszter)
+„c) megállapítja az Ösztöndíjprogramba felvehető ösztöndíjasok számát,
+d) megállapítja az Ösztöndíjprogram időtartamát, valamint
+e) megállapítja az ösztöndíj havi összegét – a szakmai gyakorlat hazai és külföldi szakaszára eltérő összegben –,
+amelyet a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzé kell tenni.”
+
+6. § (1) A Korm. rendelet 4. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A minisztérium)
+„b) lefolytatja a pályázati eljárást, amely során a fogyatékos fiatalok tekintetében az egyenlő bánásmód és
+az egyenlő esélyű hozzáférés követelményét megtartja,”
+(2) A Korm. rendelet 4. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(A minisztérium)
+„e) gondoskodik az Ösztöndíjprogram részét képező képzések és programok megszervezéséről és lebonyolításáról,”
+(3) A Korm. rendelet 4. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+(A minisztérium)
+„g) éves beszámolót készít a miniszter számára az Ösztöndíjprogram végrehajtásáról,”
+(4) A Korm. rendelet 4. § (1) bekezdés k) pontja helyébe a következő rendelkezés lép:
+(A minisztérium)
+„k) ellátja az Ösztöndíjprogram pénzügyi-ügyviteli feladatait,”
+7. § (1) A Korm. rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A PIB a minisztériumok 1-1 delegáltjából, valamint a fővárosi és megyei kormányhivatalt (a továbbiakban:
+kormányhivatal) vezető kormánymegbízott által delegált 1-1 vezetői munkakört betöltő állami tisztviselőből álló
+testület, amelynek elnökét a miniszter jelöli ki a minisztériumának vezetői munkakört betöltő kormánytisztviselői
+közül.”
+(2) A Korm. rendelet 5. §-a a következő (1a)–(1c) bekezdéssel egészül ki:
+„(1a) A PIB tagjának e megbízatása megszűnik
+a) a tag megbízatásról való lemondásával,
+b) a tag felmentésével vagy
+c) a tag halálával.
+(1b) A PIB tagját a PIB elnöke mentheti fel, az őt kijelölő miniszter előzetes véleményének kikérését követően, ha
+a) egy naptári éven belül legalább három alkalommal felróhatóan nem tett eleget a PIB működésével kapcsolatos
+személyes közreműködést igénylő kötelezettségének,
+b) súlyosan megsérti a PIB működési rendjére vonatkozó szabályokat.
+(1c) A megjelölt tagokon kívül a miniszter felkérheti a PIB tagjának azt a kiemelkedő szakmai tudással rendelkező
+személyt, akinek a szakmai tapasztalata hozzájárul az Ösztöndíjprogram eredményes megvalósításához.”
+(3) A Korm. rendelet 5. §-a a következő (5a) bekezdéssel egészül ki:
+„(5a) A PIB tagja – kivéve az (1c) bekezdésében jelölt PIB tag – kijelöli az általa képviselt minisztérium vagy
+kormányhivatal tekintetében a mentorokat (a továbbiakban: mentor).”
+8. §
+A Korm. rendelet a 7. §-t megelőzően a következő alcím címmel egészül ki:
+„3. Jelentkezés és kiválasztás az Ösztöndíjprogramba”
+9. §
+A Korm. rendelet 7. §-a a következő (5)–(7) bekezdéssel egészül ki:
+„(5) A minisztérium kiválasztást végző tisztviselője nem lehet
+a) a pályázó közeli hozzátartozója,
+b) olyan személy, aki a pályázóval közvetlen irányítási, felügyeleti, ellenőrzési, vagy elszámolási kapcsolatban áll,
+továbbá
+c) olyan személy, akitől egyébként az elfogulatlan eljárás nem várható el.
+(6) Az (5) bekezdésben meghatározott összeférhetetlenség fennállását az arról történő tudomásszerzést követően
+haladéktalanul be kell jelenteni a miniszternek. Ha az összeférhetetlenség fennállását a kiválasztási bizottság tagja
+bejelentette, vagy a bizottsági tag az összeférhetetlenség fennállására figyelemmel egyébként kizárásra került,
+a miniszter haladéktalanul új tagot jelöl ki a kiválasztási bizottságba.
+(7) Az Ösztöndíjprogramban egy alkalommal lehet részt venni.”
+10. §
+A Korm. rendelet a 8. §-t megelőzően a következő alcím címmel egészül ki:
+„4. A befogadó intézmény”
+
+11. §
+A Korm. rendelet 8. §-a helyébe a következő rendelkezés lép:
+„8. § (1) Az ösztöndíjat elnyert személy az Ösztöndíjprogram keretében szakmai gyakorlaton vesz részt a PIB által
+meghatározott befogadó intézménynél. Befogadó intézmény a Kttv. hatálya alá tartozó államigazgatási szerv és
+fővárosi és megyei kormányhivatal lehet.
+(2) A szakmai gyakorlat a közigazgatás szervezetére, működésére és a tisztviselői hivatásra vonatkozó gyakorlati
+ismeretek megszerzésére irányuló mentorált tanulási folyamat, amely az ismeretek és készségek fejlesztését
+az egyéni tapasztalatszerzés és a szervezett képzés eszközével biztosítja.
+(3) A szakmai gyakorlat – nemzetközi közigazgatási mobilitási megállapodás keretében – részben külföldi
+közigazgatási szervnél töltött gyakorlatot is magában foglal.
+(4) Ha a (3) bekezdés szerinti külföldi gyakorlatszerzés nem biztosítható, az ösztöndíjas részére központi
+államigazgatási szerv külföldön működő szervezeti egységénél, illetve irányított, felügyelt szervénél történő külföldi
+gyakorlatszerzés is előírható.
+(5) A (4) bekezdés szerinti külföldi gyakorlatra való elhelyezés a központi államigazgatási szerv kapcsolattartásra
+kijelölt belföldi szervezeti egységén (a továbbiakban: kapcsolattartó) keresztül is történhet. Kapcsolattartó kijelölése
+esetén az ösztöndíjas külföldi gyakorlatra helyezésével összefüggő feladatok ellátása során a minisztérium és
+a kapcsolattartó kölcsönösen együttműködve jár el.
+(6) A (3) vagy a (4) bekezdés szerinti külföldi gyakorlatszerzés kötelező, a teljesítése alól felmentés nem adható.”
+12. §
+A Korm. rendelet a 8. §-t követően a következő alcím címmel és 8/A. §-sal egészül ki:
+„5. Az ösztöndíjas jogai és kötelezettségei
+8/A. § (1) A szakmai gyakorlattal kapcsolatos jogokat és kötelezettségeket az ösztöndíjas, a befogadó intézmény és
+a minisztérium által aláírt ösztöndíjas szerződés határozza meg.
+(2) Az ösztöndíjas szerződésnek tartalmaznia kell különösen:
+a) a felek nevét, illetve megnevezését és az ösztöndíjas szerződés megkötése szempontjából lényeges adatait,
+b) az ösztöndíjas szerződés keletkezésének és megszűnésének időpontját,
+c) az ösztöndíj havi összegét, kifizetésének időpontját, módját,
+d) a szakmai gyakorlat helyét, munkarendjét,
+e) a szakmai tapasztalatszerzést segítő, a befogadó intézmény kormánytisztviselői közül kijelölt mentor
+megjelölését,
+f) az ösztöndíjas szakmai gyakorlattal kapcsolatos jogait és kötelezettségeit,
+g) az adatkezelésre vonatkozó felhatalmazást,
+h) a szerződés közös megegyezéssel történő megszüntetésének lehetőségét,
+i) a rendkívüli felmondás eseteit, és
+j) az ösztöndíjprogram sikeres teljesítésére vonatkozó feltételeket.
+(3) Ha a pályázó az ösztöndíj odaítéléséről szóló értesítésben megjelölt határidőn belül nem köti meg az ösztöndíjas
+jogviszonyt létrehozó szerződést, a minisztérium új határidő kitűzésével felhívja a szerződés megkötésére.
+A felhívásban megjelölt határidő eredménytelen elteltét követően a kiválasztási eljárás során legmagasabb
+pontszámot szerzett ösztöndíjasok listáján következő eredményt elért pályázó lép a helyébe, amelyről a pályázót
+haladéktalanul értesítik.”
+13. § (1) A Korm. rendelet 9. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(Az ösztöndíjas szerződés alapján az ösztöndíjas köteles)
+„c) tevékenységét havonta – a mentor által végzett értékelés keretében – értékelni,”
+(2) A Korm. rendelet 9. § (1) bekezdése a következő d)–e) ponttal egészül ki:
+(Az ösztöndíjas szerződés alapján az ösztöndíjas köteles)
+„d) tevékenységéről az Ösztöndíjprogram végén a Programszabályzatban meghatározottak szerint beszámolót
+készíteni, valamint
+e) előzetesen jelezni a befogadó intézmény és a minisztérium felé, hogy a fogyatékos személyek jogairól és
+esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény hatálya alá tartozó ösztöndíjas személy esetében
+milyen speciális tárgyi és egyéb feltételek biztosítása szükséges a munkavégzéshez.”
+14. §
+A Korm. rendelet a 9/A. §-t megelőzően a következő alcím címmel egészül ki:
+„6. Az Ösztöndíjprogram lezárása és záróminősítése”
+
+15. § (1) A Korm. rendelet 9/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az ösztöndíjas az Ösztöndíjprogram végén záróvizsgát tesz.”
+(2) A Korm. rendelet 9/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A záróvizsga eredményes teljesítésének elősegítése érdekében a minisztérium vizsgafelkészítőt szervez.”
+(3) A Korm. rendelet 9/A. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) Nem kell záróvizsgát tennie annak, aki kormányzati szolgálati jogviszony létesítése esetén a közigazgatási
+alapvizsga-kötelezettség teljesítése alól jogszabály alapján mentesülne.”
+16. §
+A Korm. rendelet a 9/A. §-t követően a következő 9/B–9/C. §-sal egészül ki:
+„9/B. § (1) Az Ösztöndíjprogram teljesítését követően az ösztöndíjas a Programszabályzatban meghatározott módon
+záróminősítést kap (a továbbiakban: záróminősítés).
+(2) A záróminősítés megállapítása a mentor általi havi értékelések, a minisztérium által szervezett képzéseken való
+részvétel, a záróvizsga sikeressége, valamint az Ösztöndíjprogram végén az ösztöndíjas által készített beszámoló
+Programszabályzatban meghatározott módon számszerűsített eredménye alapján történik.
+(3) A záróminősítés három fokozata: kiválóan megfelelt, jól megfelelt és megfelelt.
+9/C. § (1) Az Ösztöndíjprogram Kttv. 47. § (4) bekezdése szerinti sikeres teljesítésének minősül
+a) amennyiben az ösztöndíjasnak a befogadó intézmény az ösztöndíjprogram részét képező 10 hónapos szakmai
+gyakorlat teljesítését megelőzően, de legalább 6 hónap teljesítését követően képzettségének megfelelő
+állásajánlatot tesz, vagy
+b) amennyiben az ösztöndíjas záróminősítése kiválóan megfelelt vagy jól megfelelt.
+(2) Ha létrejön a jogviszony, az (1) bekezdés a) pont szerinti esetben záróminősítésre nem kerül sor.”
+17. §
+A Korm. rendelet a 10. §-t megelőzően a következő alcím címmel egészül ki:
+„7. A mentor”
+18. §
+A Korm. rendelet 10. §-a helyébe a következő rendelkezés lép:
+„10. § (1) Az ösztöndíjas szakmai tevékenységét a Programszabályzatban meghatározott módszertan szerint mentor
+segíti.
+(2) Mentorrá a minisztérium vagy kormányhivatal olyan tisztviselője jelölhető ki, aki felsőfokú iskolai végzettséggel
+és legalább két éves közigazgatási gyakorlattal rendelkezik.
+(3) A mentor a befogadó intézmény ösztöndíjast fogadó szervezeti egységénél foglalkoztatott kormánytisztviselő
+vagy állami tisztviselő. A mentor feladata különösen az ösztöndíjas szakmai gyakorlati programtervének elkészítése,
+az ösztöndíjas munkájának szakmai irányítása, és az ösztöndíjas rendszeres értékelése a Programszabályzatban
+foglaltak szerint (a továbbiakban: havi értékelés).
+(4) Mentori tevékenység kizárólag a hivatali szervezetének vezetője által a Kttv. 154. § (3) bekezdése alapján
+megállapított rendkívüli, célhoz köthető feladatként végezhető.
+(5) A mentor köteles részt venni a mentori felkészítésen.”
+19. §
+A Korm. rendelet a 11. §-t megelőzően a következő alcím címmel egészül ki:
+„8. Távollét”
+20. §
+A Korm. rendelet 11. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Ha az ösztöndíjas a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 3. § (1) és (2) bekezdése hatálya alá
+tartozó felsőfokú végzettségi szintet biztosító képzésben vesz részt, a befogadó intézmény vizsgánként, a vizsga
+napját is beszámítva két munkanapra mentesíti az ösztöndíjast munkavégzési kötelezettsége alól. Vizsgának
+az oktatási intézmény által meghatározott számonkérés minősül.”
+21. §
+A Korm. rendelet a 12. §-t megelőzően a következő alcím címmel egészül ki:
+„9. Az ösztöndíjas jogviszony megszűnése”
+
+22. § (1) A Korm. rendelet 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az ösztöndíjas szerződést a minisztérium – a befogadó intézmény javaslatára – azonnali hatállyal felmondja, ha
+az ösztöndíjas
+a) önhibájából nem teljesíti az ösztöndíjas szerződésben foglalt feltételeket, vagy
+b) mentor általi havi értékelés során két egymást követő hónapban nem megfelelt értékelést kap.”
+(2) A Korm. rendelet 12. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) Az ösztöndíjas kérelmére a PIB elnöke méltányosságból részletfizetést biztosíthat, a visszafizetendő összeget
+mérsékelheti, vagy a visszafizetéstől eltekinthet.”
+23. §
+A Korm. rendelet 15. § (1) helyébe a következő rendelkezés lép:
+„(1) A befogadó intézmény nem ajánl fel állást az ösztöndíjasnak, ha az ösztöndíjas záróminősítése nem éri el
+a kiválóan megfelelt vagy jól megfelelt szintet.”
+24. §
+A Korm. rendelet a 17. §-t megelőzően a következő alcím címmel egészül ki:
+„10. Záró rendelkezések”
+25. §
+A Korm. rendelet a következő 24. §-sal egészül ki:
+„24. § E rendeletnek a közigazgatási ösztöndíjjal kapcsolatos egyes kormányrendeletek módosításáról szóló
+234/2018. (XII. 6.) Korm. rendelettel megállapított rendelkezéseit a 2019. évben induló Ösztöndíjprogramtól
+kezdődően kell alkalmazni.”
+26. §
+A Korm. rendelet
+a) 2. § (1) bekezdésében az„ösztöndíj program”szövegrész helyébe az„Ösztöndíjprogram”,
+b) 4. § (1) bekezdés a) pontjában az „az ösztöndíjprogram működési szabályzatát” szövegrész helyébe
+az„a Programszabályzatot”,
+c) 4. § (1) bekezdés b) pontjában a„pályázati”szövegrész helyébe a„pályáztatási és kiválasztási”,
+d) 4. § (1) bekezdés d) pontjában az„ösztöndíj program”szövegrész helyébe az„Ösztöndíjprogram”,
+e) 4. § (1) bekezdés f) pontjában a„szervezi”szövegrész helyébe a„felügyeli”,
+f) 4. § (1) bekezdés j) pontjában a„szerződés”szövegrész helyébe a„szerződések”,
+g) 5. § (2) bekezdés b) pontjában a „meghatározza” szövegrész helyébe az „a minisztérium javaslata alapján
+meghatározza”,
+h) 6. § nyitó szövegrészében az „Az ösztöndíj program működési szabályzata” szövegrész helyébe
+az„A Programszabályzat”,
+i) 7. § (1) bekezdésében az„ösztöndíj program”szövegrész helyébe az„Ösztöndíjprogram”,
+j) 9/A. § (5) bekezdésében a„– vagy vizsgarész – nem”szövegrész helyébe az„egy alkalommal”
+szöveg lép.
+27. §
+Hatályát veszti a Korm. rendelet
+a) 5. § (2) bekezdés c) és d) pontja,
+b) 6. § e) és f) pontja,
+c) 9. § (4) és (6) bekezdésében, valamint 14. § (1) bekezdésében a„kormánytisztviselői”szövegrész,
+d) 9. § (5) bekezdésében a„kormánytisztviselői”szövegrészek,
+e) 9/A. § (6) bekezdésében az „Amennyiben az ösztöndíjas a (7) bekezdésben foglaltak alapján a záróvizsga
+első vizsgarésze alól mentesül, részére a minisztérium a második vizsgarész eredményes teljesítése esetén
+tanúsítványt állít ki.”szövegrész,
+f) 12. § (5) bekezdésében az„Az ösztöndíjas indokolását a PIB megvizsgálja.”szövegrész,
+g) 15. § (2) bekezdése,
+h) 16. §-a,
+i) 19. §-a,
+j) 22. §-a.
+28. §
+Hatályát veszti a fogyatékos felsőoktatási hallgatók közigazgatási ösztöndíjprogramjának létrehozásáról szóló
+555/2013. (XII. 31.) Korm. rendelet.
+
+29. §
+Hatályát veszti a Területi Közigazgatási Ösztöndíjról és egyes kormányrendeletek módosításáról szóló 377/2014.
+(XII. 31.) Korm. rendelet.
+30. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
