@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1199-30
 | 2015-03-31 | 2015-1199-30-22.1 | 1199/2015. (III. 31.) Korm. határozat |
 | 2015-04-01 | 2015-1199-30-22.2 | 2010: CXXX. törvény |
 | 2017-09-12 | 2015-1199-30-22.3 | 1654/2017. (IX. 12.) Korm. határozat |
+| 2018-12-06 | 2015-1199-30-22.4 | 1654/2017. (IX. 12.) Korm. határozat |

@@ -8,8 +8,6 @@
 
 | BKISZ csatornázás II. szakasz | 6,79 |
 
-| HUHA II. Új Hulladék-hasznosító és Iszapégető Erőmű | 50 |
-
 | A fővárosi hulladékgazdálkodási rendszer környezetbarát technológiájának bővítése, a hulladékfeldolgozás és újrahasznosítás arányának növelése II. szakasz | 5,9 |
 
 | Városháza épületének korszerűsítése | 5 |
@@ -18,4 +16,4 @@
 
 | Budapest XIII. kerületi Dagály Strandfürdő helyszínéhez kötődő árvédelmi művek megvalósítása és a keresztező (kapcsolódó) létesítmények kiváltása és átépítése | 5 |
 
-[^3]: A 4. melléklet az 1654/2017. (IX. 12.) Korm. határozat szerint módosított szöveg.
+[^3]: A 4. melléklet az 1654/2017. (IX. 12.) Korm. határozat, az 1636/2018. (XII. 5.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
