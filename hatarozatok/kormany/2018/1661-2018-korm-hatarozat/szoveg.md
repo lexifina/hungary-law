@@ -34,22 +34,9 @@ Felelős: pénzügyminiszter
 
 Határidő: a da)–dc) alpont szerint
 
-2. A Kárpát-medencei óvodafejlesztési program első üteméről szóló 1779/2016. (XII. 15.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
+3.[^2]
 
-„2. felhívja a miniszterelnök általános helyettesét, hogy gondoskodjon a Program végrehajtásáról;
-
-Felelős: a miniszterelnök általános helyettese
-
-Határidő: 2020. december 31.”
-
-3. A Kárpát-medencei óvodafejlesztési program második üteméről szóló 1763/2017. (XI. 7.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
-
-(A Kormány)
-
-„2. felhívja a miniszterelnök általános helyettesét, hogy gondoskodjon a Program második ütemének végrehajtásáról;
-
-Felelős: a miniszterelnök általános helyettese
-
-Határidő: 2020. december 31.”
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
