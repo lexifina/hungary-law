@@ -16,6 +16,8 @@ mint ügyfele számára gyakorolja.
 
 (3) A helyi önkormányzat polgármesteri hivatalának, a közös önkormányzati hivatalnak, a megyei önkormányzat hivatalának, a képviselő-testület szervének, valamint a nemzetiségi önkormányzat hivatalának, illetve szervének kamarai jogtanácsosa, az adott helyi önkormányzat, annak képviselő-testülete, közgyűlése, szerve, továbbá az adott nemzetiségi önkormányzat, annak szerve, valamint a helyi önkormányzattal, illetve a nemzetiségi önkormányzattal fenntartói viszonyban álló szerv számára, a szerv feladat- és hatáskörét érintő ügyben ügyvédi tevékenységet folytathat.
 
+(3a) A minisztérium és a Miniszterelnöki Kormányiroda kamarai jogtanácsosa ügyvédi tevékenységet folytathat annak a tárca nélküli miniszternek a feladat- és hatáskörét érintő ügyben, amelynek a munkáját a munkáltatója segíti.
+
 (4) A kamarai jogtanácsos területi kamara tagjaként az ügyvédi tevékenységek közül
 
 a) jogi képviselet ellátását,
