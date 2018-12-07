@@ -1,1 +1,1 @@
-4. § A Szerződés 10. cikke szerinti, a Szerződés elválaszthatatlan részét képező az „A magyar–szlovák államhatár vonala változásainak dokumentációja – III., IV., VIII. határszakasz – 2013” című okmányt az 1. melléklet tartalmazza.
+4. §
