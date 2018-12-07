@@ -1,12 +1,14 @@
-10. §[^39] (1) Az ösztöndíjas szakmai tevékenységét az ösztöndíj program működési szabályzatában ajánlott módszertan szerint mentor segíti.
+## 7. [^73] A mentor
 
-(2)[^40] A mentor a mentori pályázati eljárás minisztérium általi lefolytatását követően a PIB által kijelölt, a befogadó intézménynél foglalkoztatott kormánytisztviselő. A mentor feladata különösen az ösztöndíjas szakmai gyakorlati programtervének elkészítése, és az ösztöndíjas rendszeres értékelése az ösztöndíj program működési szabályzatában foglaltak szerint.
+10. §[^74] (1) Az ösztöndíjas szakmai tevékenységét a Programszabályzatban meghatározott módszertan szerint mentor segíti.
 
-(3)[^41] Mentori tevékenység kizárólag a minisztérium hivatali szervezetének vezetője által a Kttv. 154. § (3) bekezdése alapján megállapított rendkívüli, célhoz köthető feladatként végezhető.
+(2) Mentorrá a minisztérium vagy kormányhivatal olyan tisztviselője jelölhető ki, aki felsőfokú iskolai végzettséggel és legalább két éves közigazgatási gyakorlattal rendelkezik.
 
-(4)[^42] A PIB által kijelölt mentor köteles részt venni a mentori felkészítésen. A mentori felkészítés alól abban az esetben adható mentesség, ha a kijelölt mentor az ösztöndíj program korábbi részében már részt vett mentori felkészítésen.
+(3) A mentor a befogadó intézmény ösztöndíjast fogadó szervezeti egységénél foglalkoztatott kormánytisztviselő vagy állami tisztviselő. A mentor feladata különösen az ösztöndíjas szakmai gyakorlati programtervének elkészítése, az ösztöndíjas munkájának szakmai irányítása, és az ösztöndíjas rendszeres értékelése a Programszabályzatban foglaltak szerint (a továbbiakban: havi értékelés).
 
-[^39]: A 10. § a 392/2012. (XII. 20.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^40]: A 10. § (2) bekezdése a 377/2014. (XII. 31.) Korm. rendelet 19. § (7) bekezdésével megállapított szöveg.
-[^41]: A 10. § (3) bekezdése a 251/2016. (VIII. 24.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^42]: A 10. § (4) bekezdését a 377/2014. (XII. 31.) Korm. rendelet 19. § (8) bekezdése iktatta be.
+(4) Mentori tevékenység kizárólag a hivatali szervezetének vezetője által a Kttv. 154. § (3) bekezdése alapján megállapított rendkívüli, célhoz köthető feladatként végezhető.
+
+(5) A mentor köteles részt venni a mentori felkészítésen.
+
+[^73]: A 7. alcím címét a 234/2018. (XII. 6.) Korm. rendelet 17. §-a iktatta be.
+[^74]: A 10. § a 234/2018. (XII. 6.) Korm. rendelet 18. §-ával megállapított szöveg.
