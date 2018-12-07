@@ -14,7 +14,7 @@
 
 (8)[^16] Ha a benyújtott operatív program vagy a módosításának elfogadása iránti kérelem nem felel meg az e rendeletben, az 1308/2013/EU európai parlamenti és tanácsi rendeletben, a 891/2017/EU bizottsági rendeletben, illetve a 892/2017/EU bizottsági rendeletben foglalt feltételeknek, a miniszter a kérelmezőt hiánypótlásra szólítja fel. Ha a benyújtott hiánypótlás alapján továbbra sem állapítható meg az operatív program elfogadása feltételeinek való megfelelés, akkor a miniszter azonos tárgyban ismételten hiánypótlási felhívás kibocsátására jogosult. A hiánypótlási felhívás teljesítésére nyitva álló időszak az ügyfél kérelmére egy alkalommal legfeljebb az eredetileg megszabott időszak felével meghosszabbítható.
 
-(9)[^17] Ha a benyújtott operatív program vagy annak módosítása nem tartalmazza a benyújtás évében vagy az azt követő évben végrehajtásra kerülő, adott tevékenység szokásos piaci árnak való megfelelést – a 12. §-ban meghatározottaknak megfelelően – alátámasztó dokumentumokat, akkor a kérelem az adott tevékenység vonatkozásában hiánypótlás kibocsátása nélkül elutasításra kerül.
+(9)[^17]
 
 (10) A miniszter az operatív program és ezek módosításai, valamint a 29. § (3) bekezdése szerinti értesítés elfogadására vonatkozó döntését közli a kérelem benyújtójával és a Kincstárral. A miniszter az operatív program és módosításainak elfogadásáról szóló döntésével egyidejűleg az elfogadott program és módosításai egy példányát, valamint a (3) bekezdés szerinti operatívprogram-módosítást elektronikus adathordozón megküldi a Kincstár részére.
 
@@ -22,4 +22,4 @@
 [^14]: A 16. § (2) bekezdése a 6/2018. (VI. 22.) AM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^15]: A 16. § (5) bekezdése a 6/2018. (VI. 22.) AM rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^16]: A 16. § (8) bekezdése a 6/2018. (VI. 22.) AM rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^17]: A 16. § (9) bekezdése a 6/2018. (VI. 22.) AM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^17]: A 16. § (9) bekezdését a 35/2018. (XII. 6.) AM rendelet 40. §-a hatályon kívül helyezte.

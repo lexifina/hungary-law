@@ -974,7 +974,7 @@
 
 ## - Költségkalkulációk, energetikai és egyéb számítások készítésének költsége számla alapján.
 
-5. melléklet az 50/2017. (X. 10.) FM rendelethez[^33]
+5. melléklet az 50/2017. (X. 10.) FM rendelethez[^35]
 
 OPERATÍV PROGRAM
 
@@ -1510,4 +1510,4 @@ INTÉZKEDÉSEK 5.2. táblázat
 
 INTÉZKEDÉSEK 5.3. táblázat
 
-[^33]: Az 5. melléklet a 6/2018. (VI. 22.) AM rendelet 17. §-a és 18. § b) pontja szerint módosított szöveg.
+[^35]: Az 5. melléklet a 6/2018. (VI. 22.) AM rendelet 17. §-a és 18. § b) pontja szerint módosított szöveg.

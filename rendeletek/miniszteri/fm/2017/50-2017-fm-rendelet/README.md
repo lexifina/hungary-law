@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-50-20-1
 | 2018-01-01 | 2017-50-20-11.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-01-02 | 2017-50-20-11.4 | 2010: CXXX. törvény |
 | 2018-06-25 | 2017-50-20-11.5 | 6/2018. (VI. 22.) AM rendelet |
+| 2018-12-07 | 2017-50-20-11.6 | 35/2018. (XII. 6.) AM rendelet |

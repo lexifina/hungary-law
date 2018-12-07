@@ -1,4 +1,4 @@
-## 33/A. §[^23] E rendeletnek a zöldség-gyümölcs termelői szervezetek kiegészítő nemzeti támogatásáról szóló 53/2016. (VII. 21.) FM rendelet és a zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelet módosításáról szóló 6/2018. (VI. 22.) AM rendelettel [a továbbiakban: 6/2018. (VI. 22.) AM rendelet] megállapított 16. § (1) bekezdését a 6/2018. (VI. 22.) AM rendelet hatálybalépését[^24] követően megkezdett tevékenységek tekintetében kell alkalmazni.
+## 33/B. §[^25] E rendeletnek az egyes agrárágazati támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 35/2018. (XII. 6.) AM rendelettel [a továbbiakban: 35/2018. (XII. 6.) AM rendelet] hatályon kívül helyezett 16. § (9) bekezdését a 35/2018. (XII. 6.) AM rendelet hatálybalépésekor[^26] folyamatban lévő eljárásokban sem kell alkalmazni.
 
 ## 21. Az Európai Unió jogának való megfelelés
 
@@ -18,5 +18,5 @@ f) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcs- é
 
 g) az egyes gyümölcsfélék termelőinek nyújtandó ideiglenes rendkívüli támogatási intézkedések megállapításáról szóló, 2017. április 20-i 2017/1165/EU felhatalmazáson alapuló bizottsági rendelet
 
-[^23]: A 33/A. §-t a 6/2018. (VI. 22.) AM rendelet 16. §-a iktatta be.
-[^24]: A hatálybalépés időpontja 2018. június 25.
+[^25]: A 33/B. §-t a 35/2018. (XII. 6.) AM rendelet 39. §-a iktatta be.
+[^26]: A hatálybalépés időpontja 2018. december 7.
