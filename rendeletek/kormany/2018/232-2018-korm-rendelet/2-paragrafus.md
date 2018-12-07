@@ -1,0 +1,1 @@
+## 1. § A Kormány a Nemzetközi Mezőgazdasági Kutatóközpontok Konzorciumának nemzetközi szervezetként történő létrehozásáról szóló, 2011. szeptember 13-án Montpellier-ben aláírt Megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
