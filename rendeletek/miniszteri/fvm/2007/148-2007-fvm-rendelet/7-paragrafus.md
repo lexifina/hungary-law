@@ -2,7 +2,7 @@
 
 ## Támogatás forrása
 
-7. § (1)[^67] A támogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklete XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg, számlaszáma: 10032000-01220191-51200002.
+7. § (1)[^67] A támogatás forrása az agrárpolitikáért felelős miniszter által vezetett minisztérium 10032000-01220191-51200002 számú Nemzeti agrártámogatások előirányzat-felhasználási keretszámla.
 
 (2)[^68] A 2016. évben rendelkezésre álló keret összege 9500 millió forint, amelyből 2500 millió forint a baromfi ágazatban, 7000 millió forint az egyéb állattenyésztési ágazatban kerül felhasználásra. Ha a baromfi ágazatban vagy az egyéb állattenyésztési ágazatban a jóváhagyott támogatás mértéke meghaladja az adott ágazatra a 2016. évben rendelkezésre álló keretből felhasználható összeget, akkor a 2016. évben elvégzett szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekben foglalt jogos igények a másik ágazatban felhasználható keret terhére is teljesíthetőek. A 2016. évben rendelkezésre álló keret terhére a 2016. évben elvégzett szolgáltatásokra benyújtott támogatási kérelmekben foglalt jogos igények és a 2015. évben elvégzett szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekben foglalt, de még ki nem fizetett jogos igények teljesíthetők.
 
@@ -15,7 +15,7 @@
 (6)[^72] A 2018. évben rendelkezésre álló keret összege 12 000 millió forint, amelyből 2500 millió forintot a baromfi ágazatban, 8000 millió forintot az egyéb állattenyésztési ágazatban, 1500 millió forintot pedig vemhes üszők állat-egészségügyi szolgáltatására, gyógykezelésére és immunizálására kell felhasználni. Ha a baromfi ágazatban vagy az egyéb állattenyésztési ágazatban megállapított támogatás mértéke meghaladja az adott ágazatra a 2018. évben rendelkezésre álló keretből felhasználható összeget, akkor a 2018. évben elvégzett szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekben foglalt jogos igények az e bekezdésben meghatározott más ágazatokban felhasználható keretek terhére is teljesíthetőek. E keretek terhére a 2018. évben elvégzett szolgáltatásokra benyújtott támogatási kérelmekben foglalt jogos igények és a 2017. évben elvégzett szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekben foglalt, de még ki nem fizetett jogos igények teljesíthetők.
 
 [^66]: A 6/C. §-t a 23/2011. (III. 28.) VM rendelet 7. §-a iktatta be, szövege a 78/2016. (XII. 12.) FM rendelet 8. § j) pontja, a 6/2017. (II. 13.) FM rendelet 8. § f) pontja szerint módosított szöveg.
-[^67]: A 7. § (1) bekezdése a 6/2017. (II. 13.) FM rendelet 7. §-ával megállapított szöveg.
+[^67]: A 7. § (1) bekezdése a 35/2018. (XII. 6.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^68]: A 7. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 3. § (1) bekezdésével megállapított, a 80/2016. (XII. 13.) FM rendelet 3. §-a szerint módosított szöveg.
 [^69]: A 7. § (3) bekezdése a 65/2016. (IX. 21.) FM rendelet 3. § (1) bekezdésével megállapított, szövege a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja szerint módosított szöveg.
 [^70]: A 7. § (4) bekezdését újonnan a 25/2016. (IV. 11.) FM rendelet 13. §-a iktatta be.
