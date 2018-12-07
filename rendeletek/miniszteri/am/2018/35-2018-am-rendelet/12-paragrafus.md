@@ -1,0 +1,3 @@
+## 11. § A szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet [a továbbiakban: 127/2009. (IX. 29.) FVM rendelet] a következő 61/C. §-sal egészül ki:
+
+## „61/C. § A 14. § (2) és (2a) bekezdésében foglaltaktól eltérően a 2017-ben szüretelt szőlőre kiadott és határidőben első borászati termék származási bizonyítványra át nem váltott szőlő származási bizonyítvánnyal a Hktv. 41. § szerinti mulasztási bírság megfizetése mellett legkésőbb 2019. január 15-ig lehet kérelmezni az első borászati termék származási bizonyítvány kiadását.”
