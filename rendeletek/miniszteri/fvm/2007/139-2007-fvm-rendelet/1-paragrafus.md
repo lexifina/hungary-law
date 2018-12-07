@@ -6,7 +6,7 @@ a) átminősítés: a baromfinak az ivarérése vagy a hasznosítása, a tartás
 
 b) baromfiállomány: egy baromfitelepre legfeljebb 14 napos – pulyka és tyúk állomány esetében legfeljebb 28 napos – kikelési időszak alatt letelepített azonos fajú és fajtájú baromfi;
 
-c)[^3] baromfitelep: olyan állattartó hely, amely baromfitartásra alkalmas létesítményekkel felszerelt és szerepel az élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörében eljáró járási kormányhivatal nyilvántartásában;
+c)[^3] baromfitelep: olyan állattartó hely, amely baromfitartásra alkalmas létesítményekkel felszerelt és szerepel az élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörében eljáró járási hivatal nyilvántartásában;
 
 d)[^4] fiatal liba: nemre való tekintet nélkül a legfeljebb kilencven napos, tömő alapanyagnak vagy vágási célra nevelt liba;
 
@@ -110,7 +110,7 @@ d) átminősített előnevelt (növendék) pulykára, valamint
 
 e) levágott összes baromfifélére,
 
-## legfeljebb 12 milliárd forint összegig állapítható meg. A támogatási keret a 4. számú mellékletben foglaltak alapján, baromfi megnevezés-csoportonként és naptári negyedévenként elkülönített támogatási keretek szerint kerül felosztásra.
+## legfeljebb 12,6 milliárd forint összegig állapítható meg. A támogatási keret a 4. számú mellékletben foglaltak alapján, baromfi megnevezés-csoportonként és naptári negyedévenként elkülönített támogatási keretek szerint kerül felosztásra.
 
 (6a)[^15] A 2015. támogatási évben rendelkezésre álló keretösszeg 11 250 millió forint.
 
@@ -146,7 +146,7 @@ eb) a 4–5. § szerinti támogatás a vágást követően igényelhető.
 
 [^1]: Az 1. §-t megelőző alcímet a 80/2015. (XII. 4.) FM rendelet 1. §-a iktatta be.
 [^2]: Az 1. § (1) bekezdése a 68/2011. (VII. 14.) VM rendelet 1. §-ával megállapított szöveg.
-[^3]: Az 1. § (1) bekezdés c) pontja a 40/2015. (VII. 13.) FM rendelet 1. § (2) bekezdés a) pontja, a 43/2017. (IX. 5.) FM rendelet 2. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés c) pontja a 40/2015. (VII. 13.) FM rendelet 1. § (2) bekezdés a) pontja, a 35/2018. (XII. 6.) AM rendelet 3. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (1) bekezdés d) pontja a 80/2015. (XII. 4.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (1) bekezdés m) pontja a 80/2015. (XII. 4.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (1) bekezdés u) pontja a 6/2017. (II. 13.) FM rendelet 2. §-ával megállapított szöveg.
@@ -157,7 +157,7 @@ eb) a 4–5. § szerinti támogatás a vágást követően igényelhető.
 [^11]: Az 1. § (3a) bekezdését a 68/2011. (VII. 14.) VM rendelet 3. §-a iktatta be, hatályon kívül helyezte az 58/2015. (IX. 24.) FM rendelet 5. §-a hatályon kívül helyezte.
 [^12]: Az 1. § (4) bekezdése a 33/2014. (IV. 4.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^13]: Az 1. § (5) bekezdése a 80/2012. (VII. 30.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^14]: Az 1. § (6) bekezdése a 33/2014. (XII. 10.) FM rendelet 1. § (1) bekezdésével megállapított, záró szövegrésze a 80/2015. (XII. 4.) FM rendelet 9. § a) pontja szerint módosított szöveg.
+[^14]: Az 1. § (6) bekezdése a 33/2014. (XII. 10.) FM rendelet 1. § (1) bekezdésével megállapított, záró szövegrésze a 80/2015. (XII. 4.) FM rendelet 9. § a) pontja, a 35/2018. (XII. 6.) AM rendelet 3. § b) pontja szerint módosított szöveg.
 [^15]: Az 1. § (6a) bekezdését újonnan a 33/2014. (XII. 10.) FM rendelet 1. § (1) bekezdése iktatta be, szövege a 80/2015. (XII. 4.) FM rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^16]: Az 1. § (6b) bekezdését újonnan a 33/2014. (XII. 10.) FM rendelet 1. § (1) bekezdése iktatta be, szövege a 80/2015. (XII. 4.) FM rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^17]: Az 1. § (6c)–(6d) bekezdését a 33/2014. (XII. 10.) FM rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 25/2016. (IV. 11.) FM rendelet 7. §-a.

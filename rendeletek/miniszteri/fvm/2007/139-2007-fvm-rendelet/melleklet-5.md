@@ -176,7 +176,7 @@
 
 | II. negyedév | 1776,70 |
 
-| III. negyedév | 1153,24 |
+| III. negyedév | 1753,24 |
 
 | IV. negyedév | 291,42 |
 
@@ -188,8 +188,8 @@
 
 | IV. negyedév | 620 |
 
-| 6. | Összesen |  | 12 000 |
+| 6. | Összesen |  | 12 600 |
 
-5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^102]
+5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^100]
 
-[^102]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^100]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
