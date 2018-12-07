@@ -46,7 +46,7 @@
 
 2.1.4. Üzemméret (mezőgazdasági csoportmentességi rendelet I. melléklete szerinti mikro-, kis- vagy középvállalkozás)
 
-2.2.[^26] Szőlőültetvény adatai (helyrajzi számonként külön sorban kell feltüntetni):
+2.2.[^57] Szőlőültetvény adatai (helyrajzi számonként külön sorban kell feltüntetni):
 
 2.2.1. Településnév
 
@@ -64,4 +64,4 @@
 
 5. Keltezés, aláírás
 
-[^26]: A 2b. melléklet 2.2 pont nyitó szövegrésze a 6/2017. (II. 13.) FM rendelet 35. § b) pontjával megállapított szöveg.
+[^57]: A 2b. melléklet 2.2 pont nyitó szövegrésze a 6/2017. (II. 13.) FM rendelet 35. § b) pontjával megállapított szöveg.

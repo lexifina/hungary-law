@@ -1,3 +1,21 @@
+## Támogatás összege és mértéke körülhatárolt területen található szőlőültetvényen elvégzett növényegészségügyi felszámolás esetén
+
+| A | B | C | D |
+
+| Hasznosítás kódja | Szőlőültetvény hasznosítása | Támogatás összege (Ft/ha) | Támogatás mértéke (%) |
+
+| 1. | Borszőlő | legfeljebb 12 000 forint | a kijuttatott növényvédőszer vételárának 75%-a, illetve – amennyiben a növényvédőszert a gépi bérmunka-szolgáltatást végző vásárolja meg és juttatja ki, úgy – a gépi bérmunka-szolgáltatás ellenértékének 75%-a |
+
+| 2. | Csemegeszőlő |
+
+| 3. | Kísérleti szőlő |
+
+| 4. | NÉBIH által prebázis, bázis vagy certifikált kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag |
+
+| 5. | NÉBIH által standard kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag |
+
+| 6. | Szőlőoltvány-iskolában nevelt és szőlőültetvény létesítésére alkalmas ültetési anyag |
+
 2a. melléklet a 9/2016. (II. 15.) FM rendelethez
 
 ## Támogatási kérelem adattartalma (szőlőtermelő)
@@ -18,7 +36,7 @@
 
 2.2. Növényegészségügyi felszámolás
 
-3.[^25] Szőlőültetvény adatai (helyrajzi számonként külön sorban kell feltüntetni)
+3.[^56] Szőlőültetvény adatai (helyrajzi számonként külön sorban kell feltüntetni)
 
 3.1. Településnév
 
@@ -52,4 +70,4 @@
 
 8. Keltezés, aláírás
 
-[^25]: A 2a. melléklet 3. pont nyitó szövegrésze a 6/2017. (II. 13.) FM rendelet 35. § b) pontjával megállapított szöveg.
+[^56]: A 2a. melléklet 3. pont nyitó szövegrésze a 6/2017. (II. 13.) FM rendelet 35. § b) pontjával megállapított szöveg.

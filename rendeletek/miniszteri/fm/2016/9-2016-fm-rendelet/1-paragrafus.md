@@ -34,7 +34,7 @@ o) szőlőültetvény: szőlővel beültetett, szőlő művelési ágban nyilvá
 
 p) szőlő szaporítóanyag: a borszőlő vagy a csemegeszőlő ültetési anyagának termelésére szolgáló, a NÉBIH által prebázis, bázis, certifikált vagy standard kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag, valamint a szőlőoltvány-iskolában nevelt, szőlőültetvény létesítésére alkalmas ültetési anyag;
 
-q) tárgyév: a támogatási kérelem benyújtásának naptári éve;
+q)[^2] tárgyév: a kifizetési kérelem benyújtásának naptári éve;
 
 r) termelői szerveződés: szőlőtermelői tagsággal működő,
 
@@ -45,3 +45,4 @@ rb) a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről
 s) védekezési időszak: a tárgyév május 1-től július 31-ig terjedő időszaka.
 
 [^1]: Az 1. § h) pontja a 42/2017. (VIII. 17.) FM rendelet 225. §-a szerint módosított szöveg.
+[^2]: Az 1. § q) pontja a 35/2018. (XII. 6.) AM rendelet 26. § a) pontja szerint módosított szöveg.

@@ -1,45 +1,21 @@
-1b. melléklet a 9/2016. (II. 15.) FM rendelethez
+## Támogatás összege és mértéke nem körülhatárolt területen található szőlőültetvényen elvégzett növényegészségügyi megelőzés esetén
 
-## Megelőzési támogatás igénybevételére vonatkozó kérelem adattartalma (a támogatás igénylésére felhatalmazott termelői szerveződés)
+| A | B | C | D |
 
-1. Termelői szerveződés adatai
+| Hasznosítás kódja | Szőlőültetvény hasznosítása | Támogatás összege (Ft/ha) | Támogatás mértéke (%) |
 
-1.1. Termelői szerveződés azonosító adatai
+| 1. | Borszőlő | legfeljebb 12 000 forint, de kérelmenként maximum 240 000 forint | a kijuttatott növényvédőszer vételárának 75%-a, illetve – amennyiben a növényvédőszert a gépi bérmunka-szolgáltatást végző vásárolja meg és juttatja ki, úgy – a gépi bérmunka-szolgáltatás ellenértékének 75%-a |
 
-1.1.1. Név
+| 2. | Csemegeszőlő |
 
-1.1.2. Kapcsolattartási információk
+| 3. | Kísérleti szőlő |
 
-1.1.3. Eljárási törvény szerinti ügyfél-azonosító
+| 4. | NÉBIH által prebázis, bázis vagy certifikált kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag | legfeljebb 12 000 forint |
 
-1.2. Vissza nem térítendő támogatás becsült összege (forint)
+| 5. | NÉBIH által standard kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag | legfeljebb 12 000 forint, de kérelmenként maximum 240 000 forint |
 
-1.3. Nyilatkozatok
+| 6. | Szőlőoltvány-iskolában nevelt és szőlőültetvény létesítésére alkalmas ültetési anyag | legfeljebb 12 000 forint |
 
-2. Termelői szerveződésben tagsággal rendelkező szőlőtermelő adatai
+1b. melléklet a 9/2016. (II. 15.) FM rendelethez[^55]
 
-2.1. Termelői szerveződésben tagsággal rendelkező szőlőtermelő azonosító adatai:
-
-2.1.1. Név
-
-2.1.2. Kapcsolattartási információk
-
-2.1.3. Eljárási törvény szerinti ügyfél-azonosító
-
-2.1.4. Üzemméret (mezőgazdasági csoportmentességi rendelet I. melléklete szerinti mikro-, kis- vagy középvállalkozás)
-
-2.2.[^24] Szőlőültetvény adatai (helyrajzi számonként külön sorban kell feltüntetni)
-
-2.2.1. Településnév
-
-2.2.2. Helyrajzi szám
-
-2.2.3. Szőlőültetvény nagysága (hektár)
-
-2.2.4. Szőlőültetvény hasznosítása
-
-(borszőlő; csemegeszőlő; kísérleti szőlő; szőlő szaporítóanyag: prebázis, bázis, certifikált vagy standard kategóriájúként elismert és nyilvántartásba vett nemes és alany szaporító alapanyag; szőlőoltvány-iskolában nevelt és szőlőültetvény létesítésére alkalmas ültetési anyag)
-
-3. Keltezés, aláírás
-
-[^24]: Az 1a. melléklet 2. pont nyitó szövegrésze a 6/2017. (II. 13.) FM rendelet 35. § b) pontjával megállapított szöveg.
+[^55]: Az 1b. melléklet a 35/2018. (XII. 6.) AM rendelet 27. § (2) bekezdésével megállapított szöveg.
