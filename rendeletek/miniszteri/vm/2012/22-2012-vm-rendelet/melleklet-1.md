@@ -1,6 +1,6 @@
-## 25. §[^55] A termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló 9/2015. (III. 13.) FM rendelettel [a továbbiakban: 9/2015. (III. 13.) FM rendelet] megállapított 14. §-t a 9/2015. (III. 13.) FM rendelet hatálybalépésekor[^56] folyamatban lévő ügyekben is alkalmazni kell.
+## 25. §[^56] A termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló 9/2015. (III. 13.) FM rendelettel [a továbbiakban: 9/2015. (III. 13.) FM rendelet] megállapított 14. §-t a 9/2015. (III. 13.) FM rendelet hatálybalépésekor[^57] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 22/2012. (III. 9.) VM rendelethez[^57]
+1. melléklet a 22/2012. (III. 9.) VM rendelethez[^58]
 
 1. táblázat: Felsőoktatás
 
@@ -3100,6 +3100,6 @@
 
 | 130. | 51 | 344 | 8 | Termékdíj ügyintéző |
 
-[^55]: A 25. §-t a 9/2015. (III. 13.) FM rendelet 25. § (2) bekezdése iktatta be.
-[^56]: A hatálybalépés időpontja 2015. március 16.
-[^57]: Az 1. melléklet a 97/2013. (X. 22.) VM rendelet 26. §-ával megállapított szöveg.
+[^56]: A 25. §-t a 9/2015. (III. 13.) FM rendelet 25. § (2) bekezdése iktatta be.
+[^57]: A hatálybalépés időpontja 2015. március 16.
+[^58]: Az 1. melléklet a 97/2013. (X. 22.) VM rendelet 26. §-ával megállapított szöveg.

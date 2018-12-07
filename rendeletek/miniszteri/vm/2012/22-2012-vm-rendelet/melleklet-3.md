@@ -1,4 +1,4 @@
-3. melléklet a 22/2012. (III. 9.) VM rendelethez[^58]
+3. melléklet a 22/2012. (III. 9.) VM rendelethez[^59]
 
 ## A Herman Ottó Intézet által a húsmarha és a juh ágazatokban nyújtott kérődző szerkezetátalakítási nemzeti program feltételeinek teljesítéséhez szervezett képzések felsorolása és tartalmi meghatározása
 
@@ -174,4 +174,4 @@
 
 | 1.7 Gazdasági és vállalkozási ismeretek |
 
-[^58]: A 3. mellékletet a 48/2012. (V. 16.) VM rendelet 11. §-a iktatta be, szövege a 65/2013. (VII. 29.) VM rendelet 12. §-ával megállapított, a 36/2015. (VI. 30.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^59]: A 3. mellékletet a 48/2012. (V. 16.) VM rendelet 11. §-a iktatta be, szövege a 65/2013. (VII. 29.) VM rendelet 12. §-ával megállapított, a 36/2015. (VI. 30.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
