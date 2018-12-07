@@ -9,3 +9,5 @@ eredő követelések fejében vonható végrehajtás alá.
 (2) A társadalombiztosítási kifizetőhellyel rendelkező foglalkoztatók által jogszabály alapján nyitott külön számlán elhelyezett, a foglalkoztatottak egészségbiztosítási ellátása céljára elkülönítve kezelt pénzösszeg a foglalkoztatót terhelő, harmadik személyekkel szemben fennálló tartozás fejében nem vonható végrehajtás alá.
 
 (3) Az egészségügyi szolgáltatót megillető, az Egészségbiztosítási Alapból az egészségügyi szolgáltatás finanszírozására folyósított, és e célra a kötelező egészségbiztosítás ellátásairól szóló törvény alapján elkülönítetten kezelt pénzösszeg csak a finanszírozási szerződésben foglalt feladatok ellátásából eredő követelések fejében vonható végrehajtás alá.
+
+(4) A Széchenyi Pihenő Kártya kibocsátásának és felhasználásának szabályairól szóló kormányrendelet alapján nyitott korlátozott rendeltetésű fizetési számlán elhelyezett, az adóst megillető pénzösszeg harmadik személyekkel szemben fennálló tartozás fejében nem vonható végrehajtás alá.
