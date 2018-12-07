@@ -40,6 +40,6 @@
 
 | Kelt: .............................................................. | .......................................................................................... Bizonyítványt kérelmező aláírása |  |  |
 
-8/A. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^245]
+8/A. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^246]
 
-[^245]: A 8/A. számú mellékletet a 60/2015. (X. 8.) FM rendelet 9. § (1) bekezdés a) pontja iktatta be, szövege a 19/2018. (VII. 27.) AM rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^246]: A 8/A. számú mellékletet a 60/2015. (X. 8.) FM rendelet 9. § (1) bekezdés a) pontja iktatta be, szövege a 19/2018. (VII. 27.) AM rendelet 4. § (5) bekezdésével megállapított szöveg.

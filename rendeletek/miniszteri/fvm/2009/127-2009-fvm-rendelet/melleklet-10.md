@@ -72,6 +72,6 @@
 
 |  |  |  |  |  | P.H. | Hegybíró aláírása |
 
-10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^248]
+10. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^249]
 
-[^248]: A 10. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § c) pontjával megállapított, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés c) és g) pontja, és (5) bekezdés a) és b) pontja, az 59/2017. (XII. 18.) FM rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^249]: A 10. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § c) pontjával megállapított, a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés c) és g) pontja, és (5) bekezdés a) és b) pontja, az 59/2017. (XII. 18.) FM rendelet 12. § (2) bekezdése szerint módosított szöveg.

@@ -1,6 +1,6 @@
 14. §[^63] (1)[^64] A borászati termék származási bizonyítvány kiadását a hegybíró által nyilvántartott, gazdasági aktaszámmal rendelkező természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet kérelmezi személyesen, postai úton a HNT által rendszeresített és a HNT honlapján közzétett nyomtatványon vagy elektronikus úton a HNT honlapján közzétett módon. A nyomtatványon a kérelmezőnek legalább a 10. számú melléklet szerinti adatokat kell megadnia.
 
-(2)[^65] Az első borászati termék származási bizonyítvány kiadását legkésőbb a szüretet követő év december 15-ig kell kérelmezni a borászati üzem fekvése szerint illetékes hegybírónál. A tokaji borkülönlegességek és a november 30-át követően szüretelt szőlőből készült borászati termékek előállítása esetén az első borászati termék származási bizonyítványt a szüretet követő év március 31-ig kell kérelmezni. Az első borászati termék származási bizonyítvány iránti kérelemben a bor mennyiségét seprős újborban kell megadni. A kérelemhez csatolni kell:
+(2)[^65] Az első borászati termék származási bizonyítvány kiadását legkésőbb a szüretet követő év január 15-ig kell kérelmezni a borászati üzem fekvése szerint illetékes hegybírónál. A tokaji borkülönlegességek és a november 30-át követően szüretelt szőlőből készült borászati termékek előállítása esetén az első borászati termék származási bizonyítványt a szüretet követő év március 31-ig kell kérelmezni. Az első borászati termék származási bizonyítvány iránti kérelemben a bor mennyiségét seprős újborban kell megadni. A kérelemhez csatolni kell:
 
 a)[^66] a szőlő származási bizonyítvány egy példányát, és
 
@@ -34,7 +34,7 @@ c) forgalomba hozatali engedély igénylése.
 
 [^63]: A 14. § a 128/2012. (XII. 14.) VM rendelet 5. §-ával megállapított szöveg.
 [^64]: A 14. § (1) bekezdése a 21/2016. (III. 31.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^65]: A 14. § (2) bekezdés nyitó szövegrésze a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja, a 43/2017. (IX. 5.) FM rendelet 3. § b) pontja, az 59/2017. (XII. 18.) FM rendelet 13. § h) pontja szerint módosított szöveg.
+[^65]: A 14. § (2) bekezdés nyitó szövegrésze a 60/2015. (X. 8.) FM rendelet 10. § (5) bekezdés a) pontja, a 43/2017. (IX. 5.) FM rendelet 3. § b) pontja, a 35/2018. (XII. 6.) AM rendelet 12. §-a szerint módosított szöveg.
 [^66]: A 14. § (2) bekezdés a) pontja a 60/2015. (X. 8.) FM rendelet 10. § (3) bekezdése szerint módosított szöveg.
 [^67]: A 14. § (2) bekezdés b) pontja a 60/2015. (X. 8.) FM rendelet 10. § (1) bekezdés d) pontja és a (4) bekezdés a) pontja szerint módosított szöveg.
 [^68]: A 14. § (2a) bekezdését az 59/2017. (XII. 18.) FM rendelet 6. § (1) bekezdése iktatta be, szövege a 7/2018. (VI. 26.) AM rendelet 2. § (3) bekezdésével megállapított szöveg.

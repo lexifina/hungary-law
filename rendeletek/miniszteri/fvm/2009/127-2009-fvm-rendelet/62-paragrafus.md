@@ -1,4 +1,4 @@
-## 61/B. §[^228] Ha a 2018. évben bekövetkezett, egyes szőlőfajták érését rendkívüli mértékben meggyorsító időjárási viszonyok miatt a szüretet 2018. július 15-e és 31-e között kell végrehajtani, akkor a szüret időpontjának 2018. augusztus 1-jét kell tekinteni.
+## 61/C. §[^229] A 14. § (2) és (2a) bekezdésében foglaltaktól eltérően a 2017-ben szüretelt szőlőre kiadott és határidőben első borászati termék származási bizonyítványra át nem váltott szőlő származási bizonyítvánnyal a Hktv. 41. § szerinti mulasztási bírság megfizetése mellett legkésőbb 2019. január 15-ig lehet kérelmezni az első borászati termék származási bizonyítvány kiadását.
 
 ## Hatályukat vesztő rendelkezések
 
@@ -20,4 +20,4 @@ g) a védett eredetű borok minősítéséhez kapcsolódó borvizsgáló bizotts
 
 h) az Országos Borszakértő Bizottságról szóló 58/2005. (VI. 28.) FVM rendelet.
 
-[^228]: A 61/B. §-t a 19/2018. (VII. 27.) AM rendelet 3. §-a iktatta be.
+[^229]: A 61/C. §-t a 35/2018. (XII. 6.) AM rendelet 11. §-a iktatta be.
