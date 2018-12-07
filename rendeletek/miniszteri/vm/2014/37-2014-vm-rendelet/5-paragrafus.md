@@ -1,6 +1,6 @@
 ## 5. A támogatási kérelem benyújtása
 
-5. § (1)[^6] A támogatási kérelmet a fűszerpaprika-termelőnek a tárgyév május 1-je és augusztus 5-e között a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett nyomtatványon kell postai úton benyújtania a Kincstárhoz.
+5. § (1)[^7] A támogatási kérelmet a fűszerpaprika-termelőnek a tárgyév május 1-je és augusztus 5-e között a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett nyomtatványon kell postai úton benyújtania a Kincstárhoz.
 
 (2) A támogatási kérelemhez mellékelni kell a 4. § c)–e) pontjában foglalt nyilatkozatokat, és
 
@@ -20,4 +20,4 @@ bc) a termeltetővel vagy termelői csoporttal kötött szerződés másolatát,
 
 bd) a termeltető vagy termelői csoport által a fűszerpaprika-termelő részére átadott fémzárolt vetőmag mennyiségét és nettó árát, valamint a származás megjelölését tartalmazó, a termeltető vagy a termelői csoport által kiállított dokumentumot.
 
-[^6]: Az 5. § (1) bekezdése a 40/2015. (VII. 13.) FM rendelet 6. § (2) bekezdés b) pontja, a 88/2016. (XII. 29.) FM rendelet 66. § a)–b) pontja szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdése a 40/2015. (VII. 13.) FM rendelet 6. § (2) bekezdés b) pontja, a 88/2016. (XII. 29.) FM rendelet 66. § a)–b) pontja szerint módosított szöveg.
