@@ -1,3 +1,0 @@
-## 1. § A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet 2/A. § b) pontjában az „az egyházakkal való kapcsolattartás koordinációjáért felelős minisztert” szövegrész helyébe az „az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős minisztert” szöveg lép.
-
-## 2. Az „Ösztöndíjprogram Keresztény Fiataloknak” elnevezésű ösztöndíjprogramról és a felsőoktatásban részt vevő hallgatók juttatásairól és az általuk fizetendő egyes térítésekről szóló 51/2007. (III. 26.) Korm. rendelet módosításáról szóló 120/2017. (VI. 1.) Korm. rendelet módosítása
