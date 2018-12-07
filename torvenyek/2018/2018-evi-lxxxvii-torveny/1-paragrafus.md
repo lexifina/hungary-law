@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és a Vietnami Szocialista Köztársaság között a polgári ügyekben nyújtandó kölcsönös jogsegélyről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
