@@ -10,8 +10,10 @@
 
 (5) A Kincstár a kifizetési kérelmekről a kérelem hiánytalanná válását követő negyvenöt napon belül döntést hoz, és a forrás rendelkezésre állása esetén haladéktalanul, de legkésőbb a 2017/39/EU bizottsági végrehajtási rendelet 5. cikk (3) bekezdése szerinti határidőn belül elrendeli a támogatás jogos összegének a kérelmező által az ügyfél-nyilvántartási rendszerben megadott fizetési számlára történő átutalását.
 
-(6) A kérelemben kedvezményezett típusonként megbontva fel kell tüntetni a termékmennyiséget és a bruttó vételárat, abban az esetben is, ha a kedvezményezett típusok támogatási intenzitása azonos.
+(6)[^33] A kérelemben végső kedvezményezett típusonként megbontva fel kell tüntetni a termékmennyiséget és a bruttó vételárat, abban az esetben is, ha a végső kedvezményezett típusok támogatási intenzitása azonos.
 
 (7) A kifizetési kérelemben a 7. § (4) bekezdésében meghatározott módosítási határidő lejártáig fel nem tüntetett, vagy a kifizetési kérelemhez csatolt számlákon nem szereplő termékmennyiséget a Kincstár nem veszi figyelembe a támogatási összeg meghatározása során.
 
 (8) A támogatási összeg megállapítása a számlán feltüntetett nettó egységár és általános forgalmi adókulcs alapján történik a 15. §-ban meghatározottak szerint.
+
+[^33]: A 14. § (6) bekezdése a 35/2018. (XII. 6.) AM rendelet 33. § d) pontja szerint módosított szöveg.

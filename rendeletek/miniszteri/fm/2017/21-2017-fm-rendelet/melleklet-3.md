@@ -28,6 +28,6 @@
 
 ## 3.5. Nagyobb kiszerelési egységű termék (ún. lédig termék) kiosztását az élelmiszerbiztonság veszélyeztetése nélkül úgy kell elvégezni, hogy a termékben minőségi romlás ne következzen be.
 
-3. melléklet a 21/2017. (IV. 26.) FM rendelethez[^28]
+3. melléklet a 21/2017. (IV. 26.) FM rendelethez[^39]
 
-[^28]: A 3. melléklet a 30/2018. (X. 11.) AM rendelet 14. §-ával megállapított szöveg.
+[^39]: A 3. melléklet a 30/2018. (X. 11.) AM rendelet 14. §-ával megállapított szöveg.

@@ -6,7 +6,7 @@
 
 a) az ellátott feladatellátási hely nevét, pontos címét, OM azonosítóját, a feladatellátási hely kódját;
 
-b)[^23] az ellátott kedvezményezett típusát, az adott kedvezményezett típusú gyermekeknek leszállított termékmennyiséget (db), valamint az adott kedvezményezett típusú gyermekeknek leszállított termékmennyiség bruttó ellenértékét abban az esetben, amikor a számlán szereplő termékek eltérő kedvezményezett típusú gyermekek részére kerültek leszállításra, és az egyes kedvezményezett típusú gyermekek esetében eltérő a támogatási intenzitás;
+b)[^32] az ellátott végső kedvezményezett típusát, az adott végső kedvezményezett típusú gyermekeknek leszállított termékmennyiséget (db), valamint az adott végső kedvezményezett típusú gyermekeknek leszállított termékmennyiség bruttó ellenértékét abban az esetben, amikor a számlán szereplő termékek eltérő végső kedvezményezett típusú gyermekek részére kerültek leszállításra, és az egyes végső kedvezményezett típusú gyermekek esetében eltérő a támogatási intenzitás;
 
 c) a leszállított termék 4. § (1) bekezdése szerinti pontos kategóriáját és kiszerelését – tej, illetve ízesített tej esetében annak zsírtartalmát is.
 
@@ -14,4 +14,4 @@ c) a leszállított termék 4. § (1) bekezdése szerinti pontos kategóriáját
 
 (4) Ha a szállító az előfinanszírozó és a bruttó számlaérték meghaladja a számla támogatástartalmát, akkor a fenntartó a szállítónak a bruttó számlaérték és a támogatástartalom különbözetét fizeti meg. Valamely jogosultsági feltétel fenntartó hibájából eredő nemteljesülése esetén a fenntartó köteles a szállító részére a kieső támogatás összegét megfizetni.
 
-[^23]: A 13. § (2) bekezdés b) pontja a 30/2018. (X. 11.) AM rendelet 11. §-ával megállapított szöveg.
+[^32]: A 13. § (2) bekezdés b) pontja a 30/2018. (X. 11.) AM rendelet 11. §-ával megállapított, a 35/2018. (XII. 6.) AM rendelet 33. § d) pontja szerint módosított szöveg.

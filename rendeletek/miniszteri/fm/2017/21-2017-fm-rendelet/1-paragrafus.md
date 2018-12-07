@@ -6,7 +6,7 @@
 
 2. fenntartó: a nemzeti köznevelési törvény 4. § 9. pontja szerinti természetes vagy jogi személy;
 
-3.[^1] kedvezményezettek: az óvoda- és iskolatej programban részt vevő óvodások, általános iskolai tanulók, sajátos nevelési igényű óvodások és sajátos nevelési igényű általános iskolai tanulók együttesen;
+3.[^1]
 
 4. megyei kormányhivatal: a mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő területi kezelésű kérelemkezelési, helyszíni ellenőrzési, megyei ügyfélszolgálati feladatkörében eljáró megyei kormányhivatal;
 
@@ -32,7 +32,10 @@ c) adott tanév január 1. és február utolsó napja közötti időszaka,
 
 d) adott tanév március 1. és április 30. közötti időszaka és
 
-e) adott tanév május 1. és július 31. közötti időszaka.
+e) adott tanév május 1. és július 31. közötti időszaka;
 
-[^1]: Az 1. § 3. pontja a 30/2018. (X. 11.) AM rendelet 5. §-ával megállapított szöveg.
+12.[^3] végső kedvezményezettek: az óvoda- és iskolatej programban részt vevő óvodások, általános iskolai tanulók, sajátos nevelési igényű óvodások és sajátos nevelési igényű általános iskolai tanulók együttesen.
+
+[^1]: Az 1. § 3. pontját a 35/2018. (XII. 6.) AM rendelet 34. §-a hatályon kívül helyezte.
 [^2]: Az 1. § 10. pontja a 22/2018. (VIII. 17.) AM rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 12. pontját a 35/2018. (XII. 6.) AM rendelet 31. §-a iktatta be.
