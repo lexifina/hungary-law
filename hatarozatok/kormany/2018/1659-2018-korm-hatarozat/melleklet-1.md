@@ -74,7 +74,7 @@
 
 ## 14. egyetért azzal, hogy a Beruházással összefüggésben az NSK mentesüljön a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontjában foglalt tilalom alól;
 
-## 15. visszavonja a Veszprém Aréna multifunkcionális sport- és rendezvénycsarnok építési beruházásával összefüggő tőke- és kamattartozás átvállalásáról szóló 1056/2014. (II. 11.) Korm. határozat 5. pontját.
+## 15.[^1]
 
 1. melléklet az 1659/2018. (XII. 6.) Korm. határozathoz
 
@@ -155,3 +155,5 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
