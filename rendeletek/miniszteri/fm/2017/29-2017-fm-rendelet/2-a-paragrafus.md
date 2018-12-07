@@ -1,4 +1,4 @@
-## 2a.[^2] Az egyes kérelmek és az intézményi változások bejelentésének benyújtására vonatkozó közös szabályok
+## 2a.[^7] Az egyes kérelmek és az intézményi változások bejelentésének benyújtására vonatkozó közös szabályok
 
 2/A. § (1) A kérelmező a 2018/2019. tanítási évre és azt követő tanítási évekre vonatkozó, a 3. § (1) bekezdése szerinti, a programban történő részvételének előzetes jóváhagyása iránti kérelmet, a 4. § és a 8. § szerinti megállapodások vagy megállapodás-módosítások jóváhagyása iránti kérelmet, a 6. § (1)–(3) bekezdése szerinti kérelmeket, a 16. § (3) bekezdése szerinti bejelentést, valamint a 16. § (1) bekezdése szerinti kifizetési kérelmet és azok mellékleteit a Magyar Államkincstár (a továbbiakban: Kincstár) által erre a célra rendszeresített, elektronikus űrlapon köteles benyújtani.
 
@@ -14,4 +14,4 @@
 
 (7) Az ügyfél vagy a meghatalmazott által bejelentett kapcsolattartási forma megváltoztatása esetén a Kincstár a másik kapcsolattartási formára történő áttérés ügyfél általi bejelentését követő tíz napon belül készült dokumentumokat a korábbi kapcsolattartási formában is megküldheti az ügyfél vagy meghatalmazottja részére.
 
-[^2]: A 2a. alcímet (2/A. §) a 3/2018. (II. 6.) FM rendelet 2. §-a iktatta be.
+[^7]: A 2a. alcímet (2/A. §) a 3/2018. (II. 6.) FM rendelet 2. §-a iktatta be.

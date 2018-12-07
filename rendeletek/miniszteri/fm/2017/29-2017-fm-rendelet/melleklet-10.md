@@ -280,7 +280,7 @@
 
 ## szállító fenntartó
 
-10. melléklet a 29/2017. (VI. 7.) FM rendelethez[^36]
+10. melléklet a 29/2017. (VI. 7.) FM rendelethez[^43]
 
 Fenntartói nyilatkozat az iskolagyümölcs- és iskolazöldség-programban történő részvételről
 
@@ -300,4 +300,4 @@ Kelt: .......................... (település), ................................
 
 fenntartó
 
-[^36]: A 10. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (8) bekezdésével megállapított szöveg.
+[^43]: A 10. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (8) bekezdésével megállapított szöveg.

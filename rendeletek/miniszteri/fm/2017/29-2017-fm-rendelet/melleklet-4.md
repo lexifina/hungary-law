@@ -84,6 +84,6 @@
 
 ## 5. A kóstoltatás keretében a tanulók zöldség-, gyümölcsfogyasztásának és egészséges életmódjának ösztönzése érdekében verseny, pályázat, jutalom szervezhető.
 
-4. melléklet a 29/2017. (VI. 7.) FM rendelethez[^31]
+4. melléklet a 29/2017. (VI. 7.) FM rendelethez[^38]
 
-[^31]: A 4. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^38]: A 4. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (3) bekezdésével megállapított, a 35/2018. (XII. 6.) AM rendelet 38. §-a szerint módosított szöveg.

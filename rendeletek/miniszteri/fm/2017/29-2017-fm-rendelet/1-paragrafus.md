@@ -4,7 +4,7 @@
 
 1. adag: egy tanuló részére egy foglalkozási napon kiosztandó termék mennyisége;
 
-2. fenntartó: a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: köznevelési törvény) 4. § 9. pontja szerinti, az iskolagyümölcs- és iskolazöldség-programban – e rendelet szerint – kedvezményezett tanulók nevelését, oktatását végző köznevelési intézmény fenntartására jogosult természetes vagy jogi személy;
+2.[^2] fenntartó: a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: köznevelési törvény) 4. § 9. pontja szerinti, az iskolagyümölcs- és iskolazöldség-programban – e rendelet szerint – végső kedvezményezett tanulók nevelését, oktatását végző köznevelési intézmény fenntartására jogosult természetes vagy jogi személy;
 
 3. gyümölcslé: a gyümölcslevekről és egyes hasonló, emberi fogyasztásra szánt termékekről szóló, 2001. december 20-i 2001/112/EK tanácsi irányelv I. melléklet I. fejezet 1. pont a) alpontjában meghatározott, hozzáadott cukrot és édesítőszert nem tartalmazó, csomagolt és jelölt termék;
 
@@ -27,3 +27,5 @@
 12. termelői szervezet: az 1308/2013/EU európai parlamenti és tanácsi rendelet 152. és 154. cikkében meghatározott feltételekkel elismert szervezet;
 
 13. zöldség-gyümölcs termelői csoport: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet 125e. cikkében meghatározott szervezet, figyelemmel a 203a. cikk (4) bekezdésében foglaltakra.
+
+[^2]: Az 1. § 2. pontja a 35/2018. (XII. 6.) AM rendelet 37. § a) pontja szerint módosított szöveg.

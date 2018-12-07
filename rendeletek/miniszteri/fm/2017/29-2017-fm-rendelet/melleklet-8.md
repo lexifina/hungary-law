@@ -16,6 +16,6 @@
 
 | 5. |  |  |  |  |  |  |  |
 
-8. melléklet a 29/2017. (VI. 7.) FM rendelethez[^34]
+8. melléklet a 29/2017. (VI. 7.) FM rendelethez[^41]
 
-[^34]: A 8. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (6) bekezdésével megállapított szöveg.
+[^41]: A 8. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (6) bekezdésével megállapított szöveg.

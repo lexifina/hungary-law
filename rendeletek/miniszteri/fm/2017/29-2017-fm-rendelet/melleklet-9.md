@@ -46,6 +46,6 @@
 
 ## 9.5. hozzájárul ahhoz, hogy a Kincstár által működtetett monitoring rendszerben nyilvántartott adataihoz a költségvetési támogatás utalványozója, folyósítója, a XIX. Uniós fejlesztések fejezetből biztosított költségvetési támogatás esetén a közreműködő szervezet, ennek hiányában az irányító hatóság (a továbbiakban együtt: a támogatás folyósítója), az Állami Számvevőszék, a Kormányzati Ellenőrzési Hivatal, az Európai Támogatásokat Auditáló Főigazgatóság, az állami adóhatóság, a csekély összegű támogatások nyilvántartásában érintett szervek hozzáférjenek.
 
-9. melléklet a 29/2017. (VI. 7.) FM rendelethez[^35]
+9. melléklet a 29/2017. (VI. 7.) FM rendelethez[^42]
 
-[^35]: A 9. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (7) bekezdésével megállapított szöveg.
+[^42]: A 9. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (7) bekezdésével megállapított szöveg.

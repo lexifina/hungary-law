@@ -42,6 +42,6 @@
 
 ## d) a Támogatási törvény 59. § (3) bekezdése alapján a jogosulatlanul igénybe vett támogatás és az egyéb fizetési kötelezettség adók módjára behajtandó köztartozásnak minősülnek, amelyet az állami adóhatóság hajt be.
 
-3. melléklet a 29/2017. (VI. 7.) FM rendelethez[^30]
+3. melléklet a 29/2017. (VI. 7.) FM rendelethez[^37]
 
-[^30]: A 3. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^37]: A 3. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (2) bekezdése szerint módosított szöveg.

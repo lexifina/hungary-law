@@ -314,39 +314,7 @@
 
 ## A tankerületi központ által kötött megállapodások esetében a számlákat a köznevelési intézmény székhelye szerint illetékes tankerületi központ részére kell megküldeni.
 
-## 8. Számviteli elszámolás a fenntartónál, ha az költségvetési szerv
-
-## a) Kötelezettségvállalás nyilvántartásba vétele a költségvetési számvitel szerint
-
-## T0021 – K053122
-
-## b) A számla kézhezvételét és teljesítésigazolását követően költségvetési évben esedékes végleges kötelezettségvállalás nyilvántartásba vétele költségvetési számvitel szerint
-
-## T053122 – K0021
-
-## T0022 – K053122
-
-## c) A számla kézhezvételét és teljesítésigazolását követően költségvetési évben esedékes kötelezettség könyvelése a pénzügyi számvitel szerint
-
-## T 211 – K 4213
-
-## d) A szállítói számlák kifizetéséről szóló támogatói értesítést követően a számlák megtérítésének pénzforgalom nélküli elszámolása a költségvetési számvitel szerint
-
-## da) Követelésként T09162 – K0041
-
-## db) Teljesítésként T005 – K09163
-
-## dc) A korábban elszámolt végleges kötelezettségvállalás teljesítéseként T053123 – K003
-
-## e) A szállítói számlák kifizetéséről szóló támogatói értesítést követően a számlák megtérítésének pénzforgalom nélküli elszámolása a pénzügyi számvitel szerint
-
-## ea) Követelésként T3511 – K922
-
-## eb) Teljesítésként (korábban elszámolt kötelezettségek és a követelés összevezetése)
-
-## T4213 – K3511
-
-## f) A gyümölcskiosztás elszámolása anyagköltségként T51 – K211
+## 8.
 
 ## 9. Az átvevő és a szállító kötelezettségei
 
@@ -380,6 +348,6 @@
 
 ## szállító fenntartó
 
-5. melléklet a 29/2017. (VI. 7.) FM rendelethez[^32]
+5. melléklet a 29/2017. (VI. 7.) FM rendelethez[^39]
 
-[^32]: Az 5. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^39]: Az 5. melléklet a 3/2018. (II. 6.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.
