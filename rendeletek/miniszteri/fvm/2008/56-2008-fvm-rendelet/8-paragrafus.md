@@ -2,7 +2,7 @@
 
 8. § (1)[^15] A támogatás forrása a Magyarország központi költségvetéséről szóló törvény 1. melléklete XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Nemzeti agrártámogatások jogcímcsoporton elkülönített keretösszeg, számlaszáma: 10032000-01220191-51200002.
 
-(2)[^16] A 2018. évben rendelkezésre álló támogatási keret összege 4000 millió Ft, amelynek terhére a 2017. évben elvégzett, de ki nem fizetett szolgáltatások után járó jogos igények és a 2018. évben elvégzett szolgáltatások támogatása teljesíthető.
+(2)[^16] A 2018. évben rendelkezésre álló támogatási keret összege 4500 millió forint, amelynek terhére a 2017. évben elvégzett, de ki nem fizetett szolgáltatások után járó jogos igények és a 2018. évben elvégzett szolgáltatások támogatása teljesíthető.
 
 (3)[^17] A (2) bekezdésében meghatározott keretek 80%-os kihasználtságáról a Kincstár köteles az agrárpolitikáért felelős minisztert tájékoztatni.
 
@@ -15,7 +15,7 @@
 (7)[^21] A 2015. évben rendelkezésre álló támogatási keret összege 3 650 000 000 Ft, amelynek terhére a 2014. évben elvégzett, de ki nem fizetett szolgáltatások után járó jogos igények és a 2015. évben elvégzett szolgáltatások támogatása teljesíthető.
 
 [^15]: A 8. § (1) bekezdése a 6/2017. (II. 13.) FM rendelet 11. §-ával megállapított szöveg.
-[^16]: A 8. § új (2) bekezdését a 8/2010. (II. 4.) FVM rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (4) bekezdésre változtatta. A 8. § (2) bekezdése a 66/2017. (XII. 22.) FM rendelet 3. §-ával megállapított, a 31/2018. (X. 15.) AM rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^16]: A 8. § új (2) bekezdését a 8/2010. (II. 4.) FVM rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (4) bekezdésre változtatta. A 8. § (2) bekezdése a 66/2017. (XII. 22.) FM rendelet 3. §-ával megállapított, a 35/2018. (XII. 6.) AM rendelet 10. §-a szerint módosított szöveg.
 [^17]: A 8. § új (3) bekezdését a 8/2010. (II. 4.) FVM rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta. A 8. § (3) bekezdése a 24/2010. (X. 20.) VM rendelet 2. § (2) bekezdése, a 88/2016. (XII. 29.) FM rendelet 31. § b) pontja szerint módosított szöveg.
 [^18]: A 8. § (2) bekezdése számozását (4) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 1. § (2) bekezdése, szövege a 75/2012. (VII. 25.) VM rendelet 3. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 31. § b) pontja szerint módosított szöveg.
 [^19]: A 8. § eredeti (3) bekezdésének számozását (5) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 1. § (2) bekezdése, szövege a 88/2016. (XII. 29.) FM rendelet b) pontja szerint módosított szöveg.
