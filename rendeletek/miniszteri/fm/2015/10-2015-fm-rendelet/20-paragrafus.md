@@ -1,6 +1,6 @@
 ## 19. A rövid vágásfordulójú fás szárú energetikai ültetvény
 
-20. §[^97] (1) Rövid vágásfordulójú fás szárú energetikai ültetvény abban az esetben vehető figyelembe ökológiai jelentőségű területként, ha azon nem használnak sem műtrágyát, sem növényvédő szert.
+20. §[^100] (1) Rövid vágásfordulójú fás szárú energetikai ültetvény abban az esetben vehető figyelembe ökológiai jelentőségű területként, ha azon nem használnak sem műtrágyát, sem növényvédő szert.
 
 (2) A mezőgazdasági termelőnek az egységes kérelmében nyilatkoznia kell arról, hogy az ökológiai jelentőségű területként bejelentett rövid vágásfordulójú fás szárú energetikai ültetvényen nem használ sem műtrágyát, sem növényvédő szert. Amennyiben a mezőgazdasági termelő nyilatkozata szerint az adott ökológiai jelentőségű területen növényvédő szert vagy műtrágyát használ, a terület nem fogadható el ökológiai jelentőségű területként.
 
@@ -8,4 +8,4 @@
 
 (4) Ha az ellenőrzés eredményeképpen megállapítást nyer, hogy a mezőgazdasági termelő a gazdálkodási naplót nem vagy hiányosan vezette vagy annak adatai alapján nem bizonyítható egyértelműen, hogy betartotta az adott ökológiai jelentőségű terület teljes egészén az (1) bekezdésben előírtakat, abban az esetben a terület nem fogadható el ökológiai jelentőségű területként.
 
-[^97]: A 20. § a 8/2018. (III. 29.) FM rendelet 27. §-ával megállapított szöveg.
+[^100]: A 20. § a 8/2018. (III. 29.) FM rendelet 27. §-ával megállapított szöveg.

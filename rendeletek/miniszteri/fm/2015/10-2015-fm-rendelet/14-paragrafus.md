@@ -1,6 +1,6 @@
 ## 14. Az ökológiai jelentőségű terület elhelyezkedése
 
-14. §[^82] (1) Az ökológiai jelentőségű területnek a mezőgazdasági termelő által az egységes kérelmében bejelentett MePAR-ban támogatható szántóterületen vagy azzal szomszédosan kell elhelyezkednie oly módon, hogy a szomszédos elemek esetében a szántóterület és az ökológiai jelentőségű terület közös határvonala egybefüggően minimum harminc méter hosszú legyen.
+14. §[^85] (1) Az ökológiai jelentőségű területnek a mezőgazdasági termelő által az egységes kérelmében bejelentett MePAR-ban támogatható szántóterületen vagy azzal szomszédosan kell elhelyezkednie oly módon, hogy a szomszédos elemek esetében a szántóterület és az ökológiai jelentőségű terület közös határvonala egybefüggően minimum harminc méter hosszú legyen.
 
 (2) A táblaszegély és a folyóvíz, illetve az állóvíz menti vízvédelmi sávok abban az esetben számolhatók el ökológiai jelentőségű területként, ha azok az egységes kérelemben bejelentett szántóterülettel közvetlenül szomszédosan helyezkednek el. Fás sáv esetében az ökológiai jelentőségű terület és a mezőgazdasági termelő által az egységes kérelmében bejelentett szántóterület között legfeljebb öt méter szélességű, szilárd burkolattal nem fedett egyéb terület lehet.
 
@@ -12,4 +12,4 @@
 
 (6) A rövid vágásfordulójú fás szárú energetikai ültetvénynek és az erdősített területnek a mezőgazdasági termelő által az egységes kérelmében bejelentett szántóterületen vagy egyéb más támogatható területen kell elhelyezkednie.
 
-[^82]: A 14. § a 8/2018. (III. 29.) FM rendelet 25. §-ával megállapított szöveg.
+[^85]: A 14. § a 8/2018. (III. 29.) FM rendelet 25. §-ával megállapított szöveg.

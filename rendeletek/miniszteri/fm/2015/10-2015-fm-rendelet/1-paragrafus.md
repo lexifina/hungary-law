@@ -50,7 +50,7 @@ c) a szántóterülettel legalább harminc méter hosszan szomszédos;
 
 19.[^16] ökológiai gazdálkodásba vont terület: tanúsító szervezet által tanúsított, a mezőgazdasági termékek és élelmiszerek ökológiai gazdálkodási követelmények szerinti tanúsításáról, előállításáról, forgalmazásáról, jelöléséről és ellenőrzésének eljárásrendjéről szóló 34/2013. (V. 14.) VM rendelet [a továbbiakban: 34/2013. (V. 14.) VM rendelet] szerint hasznosított földterület;
 
-20.[^17] ökológiai jelentőségű másodvetés: a tárgyévre az egységes kérelemben bejelentett első növény betakarítása után és a következő év első növényének vetése előtt, tárgyév október 1-jéig – a 3. mellékletben felsorolt vagy a 22. § (2) bekezdésében meghatározott, legalább két fajból – vetett növényállomány, amelyet zöldtrágyának vagy téli takarónövénynek használnak, és a következő évi első növény vetése előtt beforgatnak;
+20.[^17] ökológiai jelentőségű másodvetés: a tárgyévre az egységes kérelemben bejelentett első növény betakarítása után és a következő év első növényének vetése előtt, tárgyév október 1-jéig – a 3. mellékletben felsorolt vagy a 22. § (2) bekezdésében meghatározott, legalább két fajból – vetett növényállomány, amelyet zöldtrágyának vagy téli takarónövénynek használnak, és a következő évi első növény vetése előtt beforgatnak vagy bedolgoznak;
 
 21.[^18] parlagon hagyott terület: adott tárgyévre vonatkozóan támogatható területen elhelyezkedő szántóterület, amelyen a pihentetési időszakban semmilyen növénykultúrát nem vetnek vagy telepítenek, és nem takarítanak be;
 
@@ -94,7 +94,7 @@ c) a szántóterülettel legalább harminc méter hosszan szomszédos;
 [^14]: Az 1. § (1) bekezdés 17. pontja a 72/2016. (XI. 3.) FM rendelet 7. §-ával megállapított szöveg.
 [^15]: Az 1. § (1) bekezdés 18. pontja a 13/2017. (III. 17.) FM rendelet 32. § (2) bekezdésével megállapított szöveg.
 [^16]: Az 1. § (1) bekezdés 19. pontja a 72/2016. (XI. 3.) FM rendelet 7. §-ával megállapított szöveg.
-[^17]: Az 1. § (1) bekezdés 20. pontja a 13/2017. (III. 17.) FM rendelet 32. § (3) bekezdésével megállapított szöveg.
+[^17]: Az 1. § (1) bekezdés 20. pontja a 35/2018. (XII. 6.) AM rendelet 19. §-ával megállapított szöveg.
 [^18]: Az 1. § (1) bekezdés 21. pontja a 43/2017. (IX. 5.) FM rendelet 6. § (2) bekezdésével megállapított, a 8/2018. (III. 29.) FM rendelet 35. § b) pontja szerint módosított szöveg.
 [^19]: Az 1. § (1) bekezdés 22. pontja a 72/2016. (XI. 3.) FM rendelet 7. §-ával megállapított szöveg.
 [^20]: Az 1. § (1) bekezdés 23. pontja a 72/2016. (XI. 3.) FM rendelet 7. §-ával megállapított szöveg.

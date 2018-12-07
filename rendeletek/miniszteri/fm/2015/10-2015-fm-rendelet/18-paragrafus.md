@@ -1,6 +1,6 @@
 ## 17. A parlagon hagyott terület
 
-18. §[^95] (1) A parlagon hagyott terület akkor minősül ökológiai jelentőségű területnek, ha annak pihentetési időtartama legalább a tárgyév január 1-jétől augusztus 31-éig tart és a pihentetés időtartama alatt a terület teljes egészén nem használnak növényvédő szert.
+18. §[^98] (1) A parlagon hagyott terület akkor minősül ökológiai jelentőségű területnek, ha annak pihentetési időtartama legalább a tárgyév január 1-jétől augusztus 31-éig tart és a pihentetés időtartama alatt a terület teljes egészén nem használnak növényvédő szert.
 
 (2) A mezőgazdasági termelőnek az egységes kérelmében nyilatkoznia kell arról, hogy az ökológiai jelentőségű területként bejelentett parlagon hagyott területen az (1) bekezdés szerinti pihentetés időtartama alatt nem folytat mezőgazdasági termelést és nem használ növényvédő szert. Amennyiben a mezőgazdasági termelő nyilatkozata szerint az adott ökológiai jelentőségű területen a pihentetési időszakban mezőgazdasági termelést folytat vagy növényvédő szert használ, a terület nem fogadható el ökológiai jelentőségű területként.
 
@@ -12,4 +12,4 @@
 
 (6) Az öt évnél hosszabb ideig – ökológiai jelentőségű terület céljára – parlagon hagyott területet is szántóterületnek kell tekinteni.
 
-[^95]: A 18. § a 8/2018. (III. 29.) FM rendelet 27. §-ával megállapított szöveg.
+[^98]: A 18. § a 8/2018. (III. 29.) FM rendelet 27. §-ával megállapított szöveg.

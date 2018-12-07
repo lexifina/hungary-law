@@ -10,6 +10,15 @@ c)[^32] az állandó gyepterületen és az ideiglenes gyepterületen – amennyi
 
 (2) Az a terület, amelyen mezőgazdasági termelés folyik, de nagymértékű, súlyos lágyszárú vagy fás szárú vagy nagymértékű, súlyos és maradandó fás szárú gyomosodás észlelhető, a vizsgált támogatási évben nem támogatható. A nagymértékű, súlyos és maradandó fás szárú gyomosodás esetén a területet a Mezőgazdasági Parcella Azonosító Rendszerről szóló miniszteri rendelet értelmében nem támogatható területté kell átsorolni.
 
+(3)[^33] Az a terület, amelyre vonatkozóan a parlagfű elleni közérdekű védekezés végrehajtásának, valamint az állami, illetve a közérdekű védekezés költségei megállapításának és igénylésének részletes szabályairól szóló 221/2008. (VIII. 30.) Korm. rendelet [a továbbiakban: 221/2008. (VIII. 30.) Korm. rendelet] 1. §-a alapján parlagfű elleni közérdekű védekezést rendelnek el, a vizsgált támogatási évben nem támogatható.
+
+(4)[^34] A (3) bekezdés szerinti meg nem felelés megállapításához a Kincstár a földmérési és térinformatikai államigazgatási szerv által működtetett, a parlagfűvel szennyezett területekkel kapcsolatos adatbázisból a 221/2008. (VIII. 30.) Korm. rendelet 4. §-ában foglaltak szerint a vizsgált támogatási év szeptember 15-éig rendelkezésére bocsátott térinformatikai adatokat veszi figyelembe.
+
+(5)[^35] A (3) bekezdés szerinti meg nem felelés adott mezőgazdasági parcella vonatkozásában abban az esetben állapítható meg, ha az adatbázis szerinti területre a mezőgazdasági parcella területe legalább 3 méterrel úgy nyúlik túl, hogy a túlnyúlással érintett terület nagysága eléri a 0,03 hektárt.
+
 [^30]: A 2. § a 13/2017. (III. 17.) FM rendelet 33. §-ával megállapított szöveg.
 [^31]: A 2. § (1) bekezdés a) pontja a 8/2018. (III. 29.) FM rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^32]: A 2. § (1) bekezdés c) pontja a 8/2018. (III. 29.) FM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^33]: A 2. § (3) bekezdését a 35/2018. (XII. 6.) AM rendelet 20. §-a iktatta be.
+[^34]: A 2. § (4) bekezdését a 35/2018. (XII. 6.) AM rendelet 20. §-a iktatta be.
+[^35]: A 2. § (5) bekezdését a 35/2018. (XII. 6.) AM rendelet 20. §-a iktatta be.

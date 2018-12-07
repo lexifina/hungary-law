@@ -1,6 +1,6 @@
 ## 21. Az ökológiai jelentőségű másodvetés
 
-22. §[^110] (1) Az ökológiai jelentőségű másodvetés Magyarország bármely MePAR-ban támogatható területén, az 5. mellékletben foglaltak szerint vehető figyelembe ökológiai jelentőségű területként.
+22. §[^113] (1) Az ökológiai jelentőségű másodvetés Magyarország bármely MePAR-ban támogatható területén, az 5. mellékletben foglaltak szerint vehető figyelembe ökológiai jelentőségű területként.
 
 (2) Ha az ökológiai jelentőségű másodvetés növényállományának valamely faja nem szerepel a 3. mellékletben, akkor a Kincstár az egységes nemzetközi binominális nómenklatúra, és az Európai Bizottság Mezőgazdasági és Vidékfejlesztési Főigazgatóságának Kommunikációs elektronikus felületére 2014. október 1-jéig bejelentett növényfaj lista alapján állapítja meg, hogy az adott növényfajjal vagy azokból készített magkeverékkel bevetett földterület figyelembe vehető-e ökológiai jelentőségű területként.
 
@@ -14,4 +14,4 @@
 
 (7) Ha az ellenőrzés eredményeképpen megállapítást nyer, hogy a gazdálkodó nem vagy hiányosan vezeti a gazdálkodási naplót, vagy annak tartalmával nem tudja egyértelműen bizonyítani a 3. melléklet szerinti növényfajok keverékének felhasználását, vagy azt, hogy a (3) bekezdésben előírt időszak teljes egészében a másodvetés a területen megtalálható volt, vagy nem tudja bizonyítani, hogy a (3) bekezdésben előírt időszak teljes egészében betartotta az ökológiai jelentőségű másodvetés teljes egészén a (3) bekezdésben előírt növényvédő szer és csávázószer mentességi előírást, akkor a földterület nem fogadható el ökológiai jelentőségű területként.
 
-[^110]: A 22. § a 8/2018. (III. 29.) FM rendelet 29. §-ával megállapított szöveg.
+[^113]: A 22. § a 8/2018. (III. 29.) FM rendelet 29. §-ával megállapított szöveg.
