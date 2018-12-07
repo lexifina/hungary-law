@@ -1,0 +1,1 @@
+4. § Az Országgyűlés az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó, Genfben, 1975. november 14-én kelt vámegyezmény Mellékleteinek módosításait (a továbbiakban: Melléklet-módosítás) e törvénnyel kihirdeti.
