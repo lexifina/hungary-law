@@ -4,7 +4,7 @@ a) a zöldség, gyümölcs szerkezetátalakítási programban való részvétel 
 
 b) a dohány szerkezetátalakítási programban való részvétel esetében 4 eurót kell figyelembe venni.
 
-(1a)[^21] A szerkezetátalakítási program alapján vállalt elismert tevékenységből származó árbevétel, mint feltétel nem vagy csak részleges teljesítése esetén, a 2012. évtől kezdődően a Kincstár a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kéréseiről szóló 2007. évi XVII. törvényben foglaltak szerint nem teljesítési bírságot szab ki, az alábbiak szerint:
+(1a)[^21] A szerkezetátalakítási program alapján vállalt elismert tevékenységből származó árbevétel, mint feltétel nem vagy csak részleges teljesítése esetén, a 2012. évtől kezdődően a Kincstár a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Eljárási törvény) foglaltak szerint nem teljesítési bírságot szab ki, az alábbiak szerint:
 
 a) a zöldség, gyümölcs szerkezetátalakítási programban való részvétel esetében, az elmaradt árbevétel összegének 430 forintos egységértékeiként 1 euró,
 
@@ -18,7 +18,7 @@ b) a dohány szerkezetátalakítási programban való részvétel esetében, az 
 
 (5)[^24] Az (1) és (1a) bekezdésben foglalt szankciók egyidejűleg összevontan nem alkalmazhatóak, közülük a magasabb összegű bírság alkalmazandó.
 
-[^21]: A 6. § (1a) bekezdését a 4/2012. (II. 7.) VM rendelet 4. § (1) bekezdése iktatta be, nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 44. § e) pontja szerint módosított szöveg.
+[^21]: A 6. § (1a) bekezdését a 4/2012. (II. 7.) VM rendelet 4. § (1) bekezdése iktatta be, nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 44. § e) pontja, a 35/2018. (XII. 6.) AM rendelet 14. § (2) bekezdése szerint módosított szöveg.
 [^22]: A 6. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 44. § e) pontja szerint módosított szoveg.
 [^23]: A 6. § (4) bekezdését az 56/2011. (VI. 17.) VM rendelet 3. §-a iktatta be, szövege a 88/2016. (XII. 29.) FM rendelet 44. § f) pontja szerint módosított szöveg.
 [^24]: A 6. § (5) bekezdését a 4/2012. (II. 7.) VM rendelet 4. § (2) bekezdése iktatta be.
