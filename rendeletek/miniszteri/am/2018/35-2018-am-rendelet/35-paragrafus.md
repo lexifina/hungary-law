@@ -1,3 +1,5 @@
-## 34. § Hatályát veszti a 21/2017. (IV. 26.) FM rendelet 1. § 3. pontja.
+## 34. §[^38]
 
 ## 16. Az iskolagyümölcs- és iskolazöldség-program végrehajtásáról szóló 29/2017. (VI. 7.) FM rendelet módosítása
+
+[^38]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## 13. § A zöldség, gyümölcs és a dohány szerkezetátalakítási nemzeti program Európai Mezőgazdasági Garancia Alapból finanszírozott különleges támogatásának igénybevételéhez kapcsolódó feltételek megállapításáról szóló 29/2010. (III. 30.) FVM rendelet [a továbbiakban: 29/2010. (III. 30.) FVM rendelet] a következő 17/A. §-sal egészül ki:
+## 13. §[^14]
 
-## „17/A. § A zöldség-, illetve gyümölcs szerkezetátalakítási támogatási jogosultság 2018. december 31-ével megszűnik, és ahhoz ezt követően szerkezetátalakítási programon alapuló támogatási jogviszonyból eredő jogok, illetve kötelezettségek – az Eljárási törvény 36. § (3) bekezdésében és 62/A–64/A. §-ában foglaltak kivételével – nem kapcsolódnak.”
-
-14. § (1) A 29/2010. (III. 30.) FVM rendelet 3. § (4) bekezdésében a „megyei kormányhivatal földművelésügyi igazgatósága (a továbbiakban: földművelésügyi igazgatóság)” szövegrész helyébe a „megyei kormányhivatal földművelésügyi igazgatási hatáskörben eljáró megyeszékhely szerinti járási hivatala (a továbbiakban: földművelésügyi igazgatóság)” szöveg lép.
-
-(2) A 29/2010. (III. 30.) FVM rendelet 6. § (1a) bekezdésében az „a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről 2007. évi XVII. törvényben” szövegrész helyébe az „a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Eljárási törvény)” szöveg lép.
+[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

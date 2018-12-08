@@ -1,3 +1,3 @@
-## 1. § A baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 139/2007. (XI. 28.) FVM rendelet [a továbbiakban: 139/2007. (XI. 28.) FVM rendelet] a következő 16. §-sal egészül ki:
+## 1. §[^1]
 
-## „16. § E rendeletnek az egyes agrárágazati támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 35/2018. (XII. 6.) AM rendelettel [a továbbiakban: 35/2018. (XII. 6.) AM rendelet] megállapított 1. § (6) bekezdését és 4. számú mellékletét a 2018. III. negyedévre benyújtott támogatás kifizetése iránti kérelemre indult, a 35/2018. (XII. 6.) AM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

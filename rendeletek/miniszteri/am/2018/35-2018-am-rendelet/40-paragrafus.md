@@ -1,3 +1,3 @@
-## 39. § A zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelet [a továbbiakban: 50/2017. (X. 10.) FM rendelet] a következő 33/B. §-sal egészül ki:
+## 39. §[^43]
 
-## „33/B. § E rendeletnek az egyes agrárágazati támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 35/2018. (XII. 6.) AM rendelettel [a továbbiakban: 35/2018. (XII. 6.) AM rendelet] hatályon kívül helyezett 16. § (9) bekezdését a 35/2018. (XII. 6.) AM rendelet hatálybalépésekor folyamatban lévő eljárásokban sem kell alkalmazni.”
+[^43]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

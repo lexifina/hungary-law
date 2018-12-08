@@ -1,3 +1,3 @@
-## 8. §[^3]
+## 8. §[^9]
 
-[^3]: A 8. § (2) bekezdése a 43. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^9]: A 8. § a 43. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

@@ -1,3 +1,5 @@
-## 38. § Hatályát veszti a 29/2017. (VI. 7.) FM rendelet 4. mellékletében foglalt Megállapodás 8. pontja.
+## 38. §[^42]
 
 ## 17. A zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelet módosítása
+
+[^42]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
