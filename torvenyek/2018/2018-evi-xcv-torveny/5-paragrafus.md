@@ -1,3 +1,0 @@
-5. § A Hszt. 350. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A 140. § (2) és (3) bekezdésétől eltérően 2022. december 31-ig a túlszolgálat ellentételezéseként a hivatásos állomány tagját – az állományilletékes és annál magasabb parancsnok kivételével – választása alapján szabadidő vagy díjazás illeti meg. A túlszolgálatért annak időtartamával megegyező, ha pedig a túlszolgálatot a heti pihenőnapon vagy munkaszüneti napon teljesítették, a túlszolgálat kétszeresének megfelelő szabadidő vagy díjazás jár. A túlszolgálatért díjazásként annak idejére távolléti díj jár, amelyet legkésőbb a tárgyhónapot követő második hónapban kell kifizetni.”
