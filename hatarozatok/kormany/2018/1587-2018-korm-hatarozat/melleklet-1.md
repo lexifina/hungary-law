@@ -244,6 +244,8 @@
 
 ## b) az OVT átalakításáról az OVT elnöke gondoskodik.
 
-## 36. Hatályát veszti a vízgazdálkodási tanácsokról szóló 1382/2013. (VI. 27.) Korm. határozat.
+## 36.[^1]
 
 1. melléklet az 1587/2018. (XI. 22.) Korm. határozathoz
+
+[^1]: A 36. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
