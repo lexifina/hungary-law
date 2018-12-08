@@ -8,9 +8,7 @@
 
 (4)
 
-(5) Az Üttv. 66. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A minisztérium és a Miniszterelnöki Kormányiroda kamarai jogtanácsosa ügyvédi tevékenységet folytathat annak a tárca nélküli miniszternek a feladat- és hatáskörét érintő ügyben, amelynek a munkáját a munkáltatója segíti.”
+(5)
 
 (6)
 
