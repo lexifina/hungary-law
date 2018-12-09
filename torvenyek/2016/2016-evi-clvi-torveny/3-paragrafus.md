@@ -18,6 +18,8 @@ a) a turisztikai fejlesztések szakpolitikai céljainak és irányelveinek kidol
 
 b) a turisztikai térségen belüli turisztikai fejlesztés szakmai tervezése, a megvalósítás turisztikai térségen belüli és azok közötti szakmai összehangolása, valamint
 
-c) szakmailag meghatározni, megtervezni és összehangolni az egyes turisztikai térségeken belül és azok között a turisztikai fejlesztések tekintetében a turisztikai térség megközelítését biztosító térségi és helyi infrastruktúrához, a kulturális örökség védelméhez, az épített és természeti környezet védelméhez, a társadalmi, környezeti fenntarthatósághoz, továbbá a turizmussal összefüggő marketingtevékenységhez szükséges turisztikai kapacitásokat és feladatokat, valamint szakmailag összehangolni azok végrehajtását.
+c) szakmailag meghatározni, megtervezni és összehangolni az egyes turisztikai térségeken belül és azok között a turisztikai fejlesztések tekintetében a turisztikai térség megközelítését biztosító térségi és helyi infrastruktúrához, a kulturális örökség védelméhez, az épített és természeti környezet védelméhez, a társadalmi, környezeti fenntarthatósághoz, továbbá a turizmussal összefüggő marketingtevékenységhez szükséges turisztikai kapacitásokat és feladatokat, valamint szakmailag összehangolni azok végrehajtását,
 
-(5) Az állam a (4) bekezdésben foglalt feladatokat a Magyar Turisztikai Ügynökség Zrt. útján látja el.
+d) a kiemelt állami turisztikai beruházások végrehajtása, valamint a kiemelt állami turisztikai beruházások során létrejött létesítmények üzemeltetése, fenntartása és hasznosítása.
+
+(5) Az állam a (4) bekezdés a)–c) pontjában foglalt feladatokat a Magyar Turisztikai Ügynökség Zrt., a (4) bekezdés d) pontjában foglalt feladatokat a 4. § (1) bekezdés szerint létrehozott gazdasági társaságok útján, a Kormány rendeletében meghatározottak szerint látja el.

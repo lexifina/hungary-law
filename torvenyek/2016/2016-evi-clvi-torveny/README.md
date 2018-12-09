@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-156-00-00
 | --- | --- | --- |
 | 2016-12-30 | 2016. évi CLVI. törvény | 2016-156-00-00.0 (közlönyállapot) |
 | 2016-12-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-156-00-00.1 |
+| 2018-12-09 | 2018. évi XCVII. törvény | 2016-156-00-00.2 |
