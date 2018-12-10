@@ -1,9 +1,1 @@
-3. § (1) A Törvény 6. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
-
-„(3a) A vagyonkezelő által teljesített beruházás, felújítás megvalósításával, új eszköz létrehozatalával vagy beszerzésével összefüggésben a feleknek egymással szemben megtérítési kötelezettsége nem keletkezik. Az állami vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek a vagyonkezelő – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – a tulajdonosi joggyakorló által vezetett vagyonnyilvántartásban történő, az állami vagyonnal való gazdálkodásról szóló kormányrendeletben foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
-
-(3b) A vagyonkezelő, az általa végzett beruházásokkal összefüggésben e törvény erejénél fogva jogosult a bontással járó munkálatok elvégzésére a saját selejtezési szabályzata alapján azzal, hogy a vagyonkezelő köteles a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére, illetve jogosult a hulladéknak nem minősülő vissznyeremény anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval. A vissznyeremény anyagok értékesítéséből származó bevétel a vagyonkezelőt illeti meg azzal, hogy a vagyonkezelő köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlanok értékének megőrzésére, gyarapítására vagy a vagyon cél szerinti fenntartására fordítani.”
-
-(2) A Törvény 6. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A vagyonkezelőt megilletik a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (8) bekezdése szerinti tulajdonosi jogok és terhelik a tulajdonos kötelezettségei, azzal, hogy az állami tulajdonban álló ingatlanok tekintetében az építési tevékenység megvalósítása céljából a vagyonkezelő által kezdeményezett hatósági eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.”
+3. §
