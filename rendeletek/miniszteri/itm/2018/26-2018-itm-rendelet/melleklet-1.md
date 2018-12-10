@@ -1,4 +1,4 @@
-## 6. § Hatályát veszti a szakmai vizsga szervezésére vonatkozó engedély megszerzésére irányuló engedélyezési eljárás igazgatási szolgáltatási díjáról és a díj megfizetésének szabályairól szóló 12/2010. (IV. 20.) SZMM rendelet.
+## 6. §[^2]
 
 1. melléklet a 26/2018. (XI. 8.) ITM rendelethez
 
@@ -47,3 +47,5 @@ A fővárosi és megyei kormányhivatalok igazgatási szolgáltatási díjak fog
 | 20. | Veszprém Megyei Kormányhivatal | 10048005-00299516-00000000 |
 
 | 21. | Zala Megyei Kormányhivatal | 10049006-00299509-00000000 |
+
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
