@@ -1,0 +1,67 @@
+# A Kormány 236/2018. (XII. 10.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 196. szám, 2018. december 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/5XkwiSmRyBaQidZBo0yQ5c07f3ff1c4a0/dokumentumok/d1997987b6b867738fe03d3ce88454d1d8e73b8f/letoltes)
+
+---
+
+A Kormány 236/2018. (XII. 10.) Korm. rendelete
+az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól
+szóló 43/1999. (III. 3.) Korm. rendelet módosításáról
+A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) pontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló
+43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Kr.) 28/A. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Az (1) bekezdés szerinti egészségügyi szolgáltató a 4602 szakmakódú szervezeti egységek által végzett
+ellátásokról a 13. számú melléklet szerinti adattartalmú adatlapot köteles a havi teljesítményjelentéssel egyidejűleg
+megküldeni a finanszírozó számára. Az adatlap nélkül a szervezeti egységen nyújtott ellátás nem finanszírozható.
+Az adatlap formanyomtatványát és annak kitöltési útmutatóját a NEAK a honlapján közzéteszi.”
+2. §
+A Kr. a következő 76/V. §-sal egészül ki:
+„76/V. § Az egészségügyi szolgáltató az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő
+finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 236/2018. (XII. 10.)
+Korm. rendelettel megállapított 28/A. § (5) bekezdésében megállapított kötelezettségét első ízben a 2019. márciusi
+teljesítményjelentésével egyidejűleg teljesíti.”
+3. §
+A Kr. az 1. melléklet szerinti 13. számú melléklettel egészül ki.
+4. §
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 236/2018. (XII. 10.) Korm. rendelethez
+„13. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez
+Sürgősségi ellátási esetről szóló adatlap adattartalma
+1. Egészségügyi szolgáltató neve
+2. Osztály neve
+3. Osztály azonosítója
+4. Szakmakód
+5. Térítési kategória
+6. Személyazonosító típusa
+7. Személyazonosító jel
+8. Ellátás azonosító (Törzsszám/Naplósorszám)
+9. A beteg neve
+10. A beteg érvényes biztosításának országa vagy a beteg állampolgársága
+11. A beteg anyja neve
+12. A beteg születési neve
+13. Beteg neme
+14. Születés dátuma
+
+15. Felvétel jellege
+16. Kísérő személy
+17. Lakcím
+18. Lakcím típusa
+19. A megjelenés időpontja
+20. A távozás időpontja
+21. Triázs időpontja
+22. Triázs kategória
+23. Re-Triázs időpontja (1)
+24. Re-Triázs kategória (1)
+25. Re-Triázs időpontja (2)
+26. Re-Triázs kategória (2)
+27. Beteg státusza változásának időpontja
+28. Az ellátó orvos kódja
+29. Továbbküldés
+30. Továbbküldés szakmakódja
+31. A beteg státusza
+32. Diagnózisok (megnevezés típusa, kódja, oldalisága)
+33. Ellátási esemény (megnevezés, első ellátási esemény, illetve ennek kódja)”
