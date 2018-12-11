@@ -22,9 +22,9 @@ a) a miniszter által vezetett minisztérium részéről a gyermek- és ifjúsá
 
 b) az országos önkormányzati érdekszövetségek által közösen jelölt egy személy;
 
-c) az alábbi szervezetek által jelölt, az ifjúsági területen tevékenykedő egy-egy személy:
+c)[^1] az alábbi szervezetek által jelölt, az ifjúsági területen tevékenykedő egy-egy személy:
 
-ca) Ifjúsági Szolgáltatók Országos Szövetsége,
+ca) Magyar Ifjúsági Konferencia Egyesület,
 
 cb) Hallgatói Önkormányzatok Országos Konferenciája,
 
@@ -32,7 +32,11 @@ cc) Nagycsaládosok Országos Egyesülete,
 
 cd) Magyar Cserkészszövetség,
 
-ce)[^1] Magyar Diáksport Szövetség;
+ce) Magyar Diáksport Szövetség,
+
+cf) Fiatal Vállalkozók Országos Szövetsége,
+
+cg) Fiatal Gazdák Magyarországi Szövetsége – AGRYA;
 
 d) azon egyházak, illetőleg felekezetek által közösen jelölt két személy, amely egyházak, illetőleg felekezetek a Magyarország területén mind az általános és középiskolai nevelésben és oktatásban, mind a felsőoktatási alap- és mesterképzésben és a doktori képzésben hitéleti, illetőleg nem hitéleti célú oktatást, nevelést és képzést biztosító köz- és akkreditált belföldi felsőoktatási intézményekkel rendelkeznek.
 
@@ -60,7 +64,9 @@ a) a megbízatásra méltatlanná válik,
 
 b) a megbízatásból adódó feladatokat nem látja el, vagy nem képes ellátni.
 
-10.[^2] A Tanács működtetésével kapcsolatos titkársági teendőket az Emberi Erőforrás Támogatáskezelő látja el.
+9a.[^2] A Tanács ülésein állandó meghívottként tanácskozási joggal részt vesz a Roma Szakkollégiumok Egyesület által jelölt egy személy.
+
+10.[^3] A Tanács működtetésével kapcsolatos titkársági teendőket az Emberi Erőforrás Támogatáskezelő látja el.
 
 11. A Tanács a miniszter által – a Tanács tagjainak előzetes véleményére figyelemmel – meghatározott ügyrend és munkaterv szerint, de legalább negyedévente ülésezik. A Tanács feladatainak végrehajtásáról évente két alkalommal írásban tájékoztatja a minisztert.
 
@@ -70,5 +76,6 @@ b) a megbízatásból adódó feladatokat nem látja el, vagy nem képes ellátn
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: Az 5. pont c) pont ce) alpontját az 1222/2015. (IV. 20.) Korm. határozat 1. pontja iktatta be.
-[^2]: A 10. pont az 1428/2016. (VIII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: Az 5. pont c) alpontja az 1671/2018. (XII. 10.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 9a. pontot az 1671/2018. (XII. 10.) Korm. határozat 2. pontja iktatta be.
+[^3]: A 10. pont az 1428/2016. (VIII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
