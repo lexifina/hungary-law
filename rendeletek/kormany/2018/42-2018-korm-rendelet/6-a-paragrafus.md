@@ -4,7 +4,13 @@
 
 (2) A Beruházás esetén egy épületre vonatkozóan az építési engedély akkor is megadható, ha a létesítendő épület helyszínéül szolgáló terület jelenleg több telekből áll, továbbá az épület építési teleknek nem minősülő területen is elhelyezhető.
 
+(2a)[^4] Világesemény idejére és az azt követő állapotra vonatkozóan a Beruházás esetében az építési engedély ütemezetten is megkérhető.
+
+(2b)[^5] A Dunai Evezős Központ részét képező Evezős Klubházra vonatkozóan egy építési engedély iránti kérelem több telekre is előterjeszthető.
+
 (3) Az építtető az épület használatbavételi engedélyének kiadásáig köteles gondoskodni arról, hogy a Beruházás keretében megvalósított építési tevékenységgel érintett telek az alkalmazandó településrendezési és építési követelményeknek megfelelően kialakításra és az ingatlan-nyilvántartásba bejegyzésre kerüljön.
 
 [^2]: A 6. § a 142/2018. (VII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^3]: A 6/A. §-t a 142/2018. (VII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^4]: A 6/A. § (2a) bekezdését a 239/2018. (XII. 12.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^5]: A 6/A. § (2b) bekezdését a 239/2018. (XII. 12.) Korm. rendelet 1. § (1) bekezdése iktatta be.

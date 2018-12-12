@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-42-20-2
 | 2018-03-14 | 2018-42-20-22.1 | 42/2018. (III. 13.) Korm. rendelet |
 | 2018-03-15 | 2018-42-20-22.2 | 2010: CXXX. törvény |
 | 2018-08-04 | 2018-42-20-22.3 | 142/2018. (VII. 30.) Korm. rendelet |
+| 2018-12-12 | 2018-42-20-22.4 | 239/2018. (XII. 12.) Korm. rendelet |
