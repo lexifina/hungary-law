@@ -1,0 +1,52 @@
+# A Kormány 242/2018. (XII. 13.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 199. szám, 2018. december 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/zbRuMgEpw4XwOyVfGoId5c097cf2b505e/dokumentumok/7c51390b9f40ef5140c21cb50f1b0ea64e74e3da/letoltes)
+
+---
+
+A Kormány 242/2018. (XII. 13.) Korm. rendelete
+egyes egészségbiztosítási tárgyú kormányrendeletek módosításáról
+A Kormány
+a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) pontjában kapott felhatalmazás
+alapján,
+a 2. alcím tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2j) bekezdésében kapott
+felhatalmazás alapján,
+a 3. alcím tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés c) pontjában
+és (2j) bekezdésében kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes
+szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosítása
+1. §
+Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól
+szóló 43/1999. (III. 3.) Korm. rendelet 27. § (2a) bekezdésében az „a 2013. november 1. és 2014. október 31. közötti
+időszakban”szövegrész helyébe az„a tárgyévet megelőző finanszírozási évben”szöveg lép.
+2. A gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának, valamint
+a támogatás megváltoztatásának szabályairól szóló 451/2017. (XII. 27.) Korm. rendelet módosítása
+2. §
+A gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának, valamint a támogatás
+megváltoztatásának szabályairól szóló 451/2017. (XII. 27.) Korm. rendelet 10. § (9) bekezdése helyébe a következő
+rendelkezés lép:
+„(9) A NEAK a (8) bekezdés szerinti közzététellel egyidejűleg felhívja az adott támogatási csoportban lévő eszközök
+forgalomba hozóit, hogy ha a (8) bekezdés szerinti eljárás eredményeként kialakult referenciaár mértékéig
+– a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással
+történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletben meghatározott
+csoportok esetén legfeljebb a referenciaár +5%-os mértékéig – terjedően árcsökkentési ajánlattal kívánnak élni,
+
+azt egy alkalommal, a (8) bekezdés szerinti közzétételt követő 5 napon belül tehetik meg, azzal, hogy az ajánlat
+a (8) bekezdés szerinti eljárás során kialakult referenciaeszköz státuszát, valamint a referenciaárat nem befolyásolja.”
+3. A gyógyszerek társadalombiztosítási támogatásba történő befogadásának, a befogadás és
+a támogatás mértéke megállapításának, valamint a támogatás megváltoztatásának részletes
+szabályairól szóló 452/2017. (XII. 27.) Korm. rendelet módosítása
+3. §
+A gyógyszerek társadalombiztosítási támogatásba történő befogadásának, a befogadás és a támogatás mértéke
+megállapításának, valamint a támogatás megváltoztatásának részletes szabályairól szóló 452/2017. (XII. 27.)
+Korm. rendelet 13. § (9) bekezdés e) pontjában
+a) a „14. § (4) bekezdése és a 15. § (2) bekezdése” szövegrész helyébe a „15. § (5) bekezdése és a 16. §
+(2) bekezdése”szöveg,
+b) az„a 3%-ot”szövegrész helyébe az„az 1%-ot”szöveg
+lép.
+4. Záró rendelkezések
+4. §
+Ez a rendelet 2019. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
