@@ -26,15 +26,18 @@ ab) lebonyolításával
 
 kapcsolatos feladatokat,
 
-b)[^41] a földművelésügyi miniszter egyetértésével elkészíti az Üzletszabályzatot; továbbá
+b)[^41] az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) egyetértésével elkészíti az Üzletszabályzatot; továbbá
 
 c) ellátja az Üzletszabályzatban meghatározott egyéb feladatokat.
 
 (4) Az (3) bekezdés a) pont ab) alpontja vonatkozásában a lebonyolítás során ellátja a támogatások elszámolásával, az informatikai rendszer fejlesztésével és üzemeltetésével kapcsolatos feladatokat.
+
+(5)[^42] A KAVOSZ Zrt. a jogszabályi változásokból, illetve az Agrár Széchenyi Kártya Kezességi Üzletszabályzat módosításokból adódó változások miatt a miniszter előzetes egyetértése nélkül is módosíthatja az Üzletszabályzatot, amely módosításokról a módosítás hatálybalépését követő tizenöt napon belül köteles tájékoztatni a minisztert.
 
 [^36]: Az 5. § (1) bekezdése a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése, a 88/2016. (XII. 29.) FM rendelet 45. § b) pontja szerint módosított szöveg.
 [^37]: Az 5. § (2) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 45. § c) pontjával megállapított szöveg.
 [^38]: Az 5. § (2) bekezdés a) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
 [^39]: Az 5. § (2) bekezdés d) pontja a 77/2015. (XII. 1.) FM rendelet 13. § (6) bekezdésével megállapított szöveg.
 [^40]: Az 5. § (3) bekezdés nyitó szövegrésze a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^41]: Az 5. § (3) bekezdés b) pontja a 18/2014. (X. 29.) FM rendelet 19. § b) pontja szerint módosított szöveg.
+[^41]: Az 5. § (3) bekezdés b) pontja a 37/2018. (XII. 10.) AM rendelet 10. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^42]: Az 5. § (5) bekezdését a 37/2018. (XII. 10.) AM rendelet 10. § (1) bekezdése iktatta be.
