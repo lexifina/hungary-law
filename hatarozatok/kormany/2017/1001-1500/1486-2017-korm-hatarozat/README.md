@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1486-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-07-31 | 2017-1486-30-22.1 | 1486/2017. (VII. 31.) Korm. határozat |
+| 2018-12-13 | 2017-1486-30-22.2 | 1676/2018. (XII. 13.) Korm. határozat |

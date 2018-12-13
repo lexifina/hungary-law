@@ -1,6 +1,6 @@
 A Kormány
 
-1. egyetért a Vadászati Világkiállítás 2021. évben Magyarországon történő megrendezésével;
+1.[^1]
 
 2. egyetért a Magyarország Kormánya és a Nemzetközi Vadászati és Vadvédelmi Tanács (CIC) (a továbbiakban: Tanács) közti együttműködési megállapodás (a továbbiakban: Együttműködési Megállapodás) módosításával, valamint annak bemutatott szövegével;
 
@@ -53,3 +53,5 @@ Felelős: emberi erőforrások minisztere
 földművelésügyi miniszter
 
 Határidő: az Európai Lovas Játékok részletes programjának kidolgozását követően azonnal
+
+[^1]: Az 1. pontot az 1676/2018. (XII. 13.) Korm. határozat 7. pontja visszavonta.
