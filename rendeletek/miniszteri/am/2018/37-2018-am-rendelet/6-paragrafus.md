@@ -1,0 +1,11 @@
+6. § (1) Az igénylőlap az Üzletszabályzatban nevesített szervezetek területileg illetékes irodáiban folyamatosan nyújtható be. A mezőgazdasági vállalkozásnak az igénylőlaphoz csatolnia kell a 4. § szerinti nyilatkozatokat, az Üzletszabályzatban meghatározott dokumentumokat, valamint nyilatkoznia kell az Üzletszabályzatban előírt feltételek elfogadásáról. Ha a mezőgazdasági vállalkozás rendelkezik társult szervezet által kibocsátott ajánlással – amely igazolja, hogy mezőgazdasági tevékenységet folytat –, akkor azt csatolnia kell az igénylőlaphoz, amely regisztrációs díjfizetési kedvezményre jogosít. A kezelési költségtámogatást a mezőgazdasági vállalkozás szintén az igénylőlapon igényelheti.
+
+(2) A kezelési költségen kívüli költségtámogatás iránti kérelmet a mezőgazdasági vállalkozás évente január 1. és 31. között, valamint július 1. és 31. között a Kincstár által rendszeresített és honlapján közzétett nyomtatványon nyújthatja be a Kincstárhoz. A támogatási kérelemhez csatolni kell a mezőgazdasági vállalkozás által igényelt támogatási igényt alátámasztó számlák, számviteli bizonylatok másolatát, valamint a költségek és díjak megfizetését igazoló bizonylatok másolatát. A benyújtott számlák, számviteli bizonylatok esetében az ellenérték megfizetésének dátuma legfeljebb tizenkét hónappal lehet korábbi, mint a támogatási kérelem benyújtásának időpontja.
+
+(3) A KAVOSZ Zrt. a hitelszerződés hatálybalépésére vonatkozó banki adatszolgáltatást követő tíz napon belül adatot szolgáltat a Kincstár részére a kamattámogatás, a kezességi díjtámogatás és a kezelési költségtámogatás támogatástartalmáról.
+
+(4) A Kincstár a mezőgazdasági csekély összegű támogatás megállapítása esetén a kamattámogatásról, kezességi díjtámogatásról és a kezelési költségtámogatásról támogatástartalom-igazolást állít ki, amelyet a KAVOSZ Zrt.-től kapott adatok beérkezésétől számított harminc napon belül megküld a mezőgazdasági vállalkozás részére.
+
+(5) A Kincstár a (2) bekezdés szerinti támogatási kérelem Kincstárhoz történő beérkezésétől számított hatvan napon belül tájékoztatja a mezőgazdasági vállalkozást a kezelési költségen kívüli költségtámogatás támogatástartalmáról.
+
+(6) A támogatáshoz kapcsolódó iratokat és dokumentumokat a hitelszerződés hatálybalépésétől, illetve a támogatási döntés közlésétől számított tíz évig meg kell őrizni.
