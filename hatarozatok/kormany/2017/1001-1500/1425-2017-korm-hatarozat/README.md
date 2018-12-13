@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1425-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-06-29 | 2017-1425-30-22.1 | 1425/2017. (VI. 29.) Korm. határozat |
+| 2018-12-13 | 2017-1425-30-22.2 | 1672/2018. (XII. 13.) Korm. határozat |

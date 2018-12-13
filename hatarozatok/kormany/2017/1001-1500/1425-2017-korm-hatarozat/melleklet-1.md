@@ -16,7 +16,7 @@
 
 ## 4. egyetért azzal, hogy az Egészséges Budapest Program előkészítéséről szóló 1333/2016. (VII. 4.) Korm. határozat 1. pont d) alpontjában megjelölt, 40 000,0 millió forint összegből 18 300,0 millió forintra 2017. évben kötelezettségvállalás történjen, és annak kifizetésére a 2018. évi központi költségvetés terhére kerüljön sor.
 
-1. melléklet az 1425/2017. (VI. 29.) Korm. határozathoz
+1. melléklet az 1425/2017. (VI. 29.) Korm. határozathoz[^1]
 
 AZ EGÉSZSÉGES BUDAPEST PROGRAM 2017. ÉVI FEJLESZTÉSEI
 
@@ -48,7 +48,7 @@ AZ EGÉSZSÉGES BUDAPEST PROGRAM 2017. ÉVI FEJLESZTÉSEI
 
 | Heim Pál Gyermekkórház | 200 000 000 | Orvosi műszer ellátottság javítása. | 659 000 000 | Gyermekbaleseti és gyermeksürgősségi, valamint a Gyöngyösi utcai épületek tervezése, a Gyöngyösi utcai serdülő és ifjúsági pszichiátria, valamint addiktológiai központ kivitelezési munkálatai. |
 
-| Semmelweis Egyetem Kútvölgyi Klinikai Tömb | 0 |  | 1 083 000 000 | Új „G” épület megvalósítása, a műemléki kórházépület felújítása, egy kisebb sürgősségi osztály kialakítása. |
+| Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő | 0 |  | 1 083 000 000 | Új „G” épület megvalósítása, a műemléki kórházépület felújítása, egy kisebb sürgősségi osztály kialakítása. |
 
 | Országos Reumatológiai és Fizioterápiás Intézet ORFI | 200 000 000 | Orvosi műszer ellátottság javítása. Informatikai fejlesztések. | 805 000 000 | A Lukács épület állagmegóvó rekonstrukciós munkálatai, a Központi Szakambulancia épületének külső felújítása és nyílászáróinak cseréje, az Esplanade épület VI. emeletén található aktív reumatológiai osztály felújítása. Új épületrész építése, a jelenlegi kórházi épületek (Esplanade és Lukács épület) klinikai osztályainak komfortosítására, a személyzeti és közösségi terek felújítása. |
 
@@ -83,3 +83,5 @@ AZ EGÉSZSÉGES BUDAPEST PROGRAM 2017. ÉVI FEJLESZTÉSEI
 |  |  | 18 300 000 000 |
 
 | 40 000 000 000 |
+
+[^1]: Az 1. melléklet az 1672/2018. (XII. 13.) Korm. határozat 17. pontja szerint módosított szöveg.
