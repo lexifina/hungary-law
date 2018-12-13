@@ -26,13 +26,13 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1673/2017. (IX. 21.) Korm. határozathoz
+1. melléklet az 1673/2017. (IX. 21.) Korm. határozathoz[^1]
 
 Az Egészséges Budapest Program keretében megvalósuló járóbetegszakellátás-fejlesztések
 
 |  | Fejlesztést igénylő szakrendelő és fejlesztés megnevezése | Fejlesztés rövid tartalma | Fejlesztés bruttó összege (Ft) |
 
-| 1 | Semmelweis Egyetem Kútvölgyi Klinikai Tömb – XII. kerületi (Hegyvidéki) szakrendelő kialakítása | A járóbeteg-szakrendelő épület teljes építészeti felújítása, klimatizálása, energetikai korszerűsítése. A Szent János Kórház szakrendeléseinek ütemezett átköltöztetése a Semmelweis Egyetem Kútvölgyi Klinikai Tömb járóbeteg-szakrendelőibe. Diagnosztikai és terápiás eszközpark cseréje és fejlesztése (digitális RTG, ultrahang), szakrendelők bútorzatának modernizálása. Informatikai rendszer eszközparkjának korszerűsítése, beteghívó rendszer kiépítése. | 9 365 533 430 |
+| 1 | Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő – XII. kerületi (Hegyvidéki) szakrendelő kialakítása | A járóbeteg-szakrendelő épület teljes építészeti felújítása, klimatizálása, energetikai korszerűsítése. A Szent János Kórház szakrendeléseinek ütemezett átköltöztetése a Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő járóbeteg-szakrendelőibe. Diagnosztikai és terápiás eszközpark cseréje és fejlesztése (digitális RTG, ultrahang), szakrendelők bútorzatának modernizálása. Informatikai rendszer eszközparkjának korszerűsítése, beteghívó rendszer kiépítése. | 9 365 533 430 |
 
 | 2 | II. kerület Egészségügyi Szolgálat – integrált járóbeteg-szakellátás megvalósítása | A II. kerületi Frankel Leó utcában új, többemeletes, korszerű szakrendelő épület megépítése, külső telephelyek átköltöztetése, az orvostechnikai eszközök modernizálása, egynapos sebészet és kúraszerű ellátások fejlesztése, informatikai rendszer eszközparkjának korszerűsítése. | 6 808 627 130 |
 
@@ -49,3 +49,5 @@ Az Egészséges Budapest Program keretében megvalósuló járóbetegszakellát�
 | 8 | Általános tervezési és beruházási céltartalék (5%) | 1 007 000 000 |
 
 | ÖSSZESEN | 21 149 585 840 |
+
+[^1]: Az 1. melléklet az 1672/2018. (XII. 13.) Korm. határozat 17. pontja szerint módosított szöveg.
