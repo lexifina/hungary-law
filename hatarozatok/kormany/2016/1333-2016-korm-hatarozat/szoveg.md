@@ -42,16 +42,6 @@ emberi erőforrások minisztere
 
 Határidő: 2017-ben felmerülés ütemében
 
-2. egyetért a Semmelweis Egyetem Kútvölgyi Klinikai Tömb beruházásának befejezésével, valamint a Semmelweis Egyetem Kútvölgyi Klinikai Tömb egyetemi fenntartásból állami fenntartásba történő átvételével, továbbá
+2.[^1]
 
-a) egyrészről egyetért azzal, hogy a Semmelweis Egyetem Kútvölgyi Klinikai Tömb kiemelt központi szerepet kapjon a fővárosi egészségügy fejlesztése során;
-
-b) másrészről a magyar sport versenyképességének megtartása és erősítése, a sport – mint hasznos és megtérülő társadalmi befektetés – és az azon keresztül megvalósuló egészségtudatos életmód támogatása érdekében
-
-ba) felhívja az emberi erőforrások miniszterét, hogy a sportegészségügyi feladatok komplex ellátása, továbbá az ehhez kapcsolódó sportegészségügyi szolgáltatások színvonalának emelése és az azokhoz való hozzáférés megkönnyítése, illetve az Országos Sportegészségügyi Intézet feladatainak hatékonyabb ellátása érdekében e feladatokat koordináló miniszteri biztost nevezzen ki,
-
-bb) egyetért azzal, hogy az Országos Sportegészségügyi Intézet elhelyezésére a Semmelweis Egyetem Kútvölgyi Klinikai Tömb telephelyén kerüljön sor.
-
-Felelős: emberi erőforrások minisztere [a b) pontban foglaltak tekintetében a ba) alpont szerinti miniszteri biztos útján]
-
-Határidő: azonnal
+[^1]: A 2. pontot az 1672/2018. (XII. 13.) Korm. határozat 8. pontja visszavonta.
