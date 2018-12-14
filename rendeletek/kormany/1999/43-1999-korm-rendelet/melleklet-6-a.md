@@ -56,7 +56,9 @@
 
 |  |  | Fiatal szakorvosok támogatása | 1 046,2 |
 
-| 13. | Célelőirányzatok összesen | 38 733,4 |
+|  |  | Működési és ösztönző támogatás | 55 000,0 |
+
+| 13. | Célelőirányzatok összesen | 93 733,4 |
 
 | 15. | Mentés | 43 664,7 |
 
@@ -90,7 +92,7 @@
 
 | 21. | Gyógyító-megelőző ellátás céltartalék | 0,0 |
 
-| ÖSSZESEN | 1 245 677,9 |
+| ÖSSZESEN | 1 300 677,9 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^623]
 
