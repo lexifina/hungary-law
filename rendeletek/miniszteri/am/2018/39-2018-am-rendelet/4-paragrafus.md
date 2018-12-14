@@ -1,0 +1,35 @@
+## 3. § A támogatás forrása az agrárpolitikáért felelős miniszter által vezetett minisztérium 10032000-01220191-51200002 számú, Nemzeti agrártámogatások előirányzat-felhasználási keretszámla.
+
+## 4. § E rendelet szerinti támogatásra az a jogi személy, egyéb gazdálkodó szervezet, valamint a személyi jövedelemadóról szóló 1995. évi CXVII. törvény szerint mezőgazdasági őstermelői igazolvánnyal rendelkező természetes személy – ideértve a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 5. § 5. pontjában meghatározott családi gazdálkodót is – (a továbbiakban együtt: igénylő) jogosult, aki vagy amely
+
+a) a Tv. 28. § (3) bekezdése szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a támogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét a Tv. alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben,
+
+b) a támogatási kérelem benyújtásának időpontjában
+
+ba) nem áll felszámolási, végelszámolási eljárás alatt,
+
+bb) megfelel az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: 2011. évi CXCV. törvény) 50. § (1) bekezdés a) pontjában meghatározott rendezett munkaügyi kapcsolatok követelményeinek, valamint a 2011. évi CXCV. törvény 50. § (1) bekezdés c) pontja alapján átlátható szervezetnek minősül,
+
+bc) a mezőgazdasági termelők részére nyújtandó közvetlen támogatás igénybevételére vonatkozó szabályokról szóló miniszteri rendelet szerint közvetlen támogatásra jogosult mezőgazdasági termelőnek minősül,
+
+c) nem címzettje érvényben lévő támogatás visszafizetésére kötelező olyan európai bizottsági határozatnak, amely a támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította,
+
+d) eleget tesz a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet előírásainak,
+
+e) a támogatási alapot képező állatok nevelését, hizlalását, termelését saját kockázatára végzi, saját vagy integrátori finanszírozással a vágósertést közvetlenül vagy közvetve vágásra, feldolgozásra vagy külföldi értékesítésre, a tenyészkoca süldőt hazai vagy külföldi továbbtenyésztésre adja át,
+
+f) vállalja az 5. § (1) bekezdés a)–e) pontjában és a 14. § (1) bekezdés a)–b) pontjában meghatározott kötelezettségvállalások egy éven át történő folytatását;
+
+g) a tevékenységének megfelelő, az érintett termékpályán működő, olyan államilag elismert termelői csoport, Beszerzési és Értékesítő Szövetkezet, tenyésztő szervezet, terméktanács vagy szakmai szervezet tagja, amely nyitott tagsággal rendelkezik,
+
+h) eleget tesz a Sertés-ENAR rendelet előírásainak,
+
+i) a támogatási évben valamennyi állategészségügyi nyilvántartási kötelezettségének eleget tesz, valamint betartja az állategészségügyi és állatvédelmi szabályokat,
+
+j) nem minősül az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 6. §-a szerinti nehéz helyzetben lévő vállalkozásnak,
+
+k) jogerős határozatban megállapított, jogosulatlanul igénybe vett agrár- vagy agrár-vidékfejlesztési támogatásból eredő tartozással nem rendelkezik,
+
+l) az 5. § (1) bekezdése és a 14. § (1) bekezdése szerinti kötelezettségvállalásokra vonatkozó állatjóléti előírások módosulása esetén az azon túlmutató, e rendelet szerinti állatjóléti kötelezettségvállalásnak a módosulás hatálybalépésének napjától megfelel, és
+
+m) a b)–l) pontban foglaltakról a támogatási kérelem benyújtásával egyidejűleg nyilatkozik.
