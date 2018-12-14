@@ -32,7 +32,7 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: azonnal
 
-8. az Egészséges Budapest Program előkészítéséről szóló 1333/2016. (VII. 4.) Korm. határozat 2. pontját visszavonja;
+8.[^1]
 
 9. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 1425/2017. Korm. határozat 1. mellékletének a Szent János Kórházra vonatkozó sora és – a 17. ponttal módosított – Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő sora, valamint az 1673/2017. Korm. határozat 1. melléklet 1. sora, továbbá a „Semmelweis XXI. Fejlesztési Projekt” tervezési folyamatainak megkezdéséről szóló 1945/2017. (XII. 12.) Korm. határozat (a továbbiakban: 1945/2017. Korm. határozat) 5. pont c) alpontja szerinti források tárgyában a szükséges módosító intézkedések megtételéről;
 
@@ -97,3 +97,5 @@ Felelős: emberi erőforrások minisztere
 Határidő: a 2019. évi központi költségvetés végrehajtása során a felmerülés ütemében
 
 17. egyetért azzal, hogy az 1425/2017. Korm. határozat 1. mellékletében és az 1673/2017. Korm. határozat 1. mellékletében a „Semmelweis Egyetem Kútvölgyi Klinikai Tömb” szövegrész „Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő” szövegre módosul.
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
