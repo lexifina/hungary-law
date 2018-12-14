@@ -52,7 +52,7 @@
 
 ## Határidő: 2019. december 31.
 
-## 7. visszavonja a 2021. évben megrendezésre kerülő Vadászati Világkiállítás és egyes kapcsolódó feladatok ellátásához szükséges források biztosításáról szóló 1486/2017. (VII. 31.) Korm. határozat 1. pontját.
+## 7.[^1]
 
 1. melléklet az 1676/2018. (XII. 13.) Korm. határozathoz
 
@@ -67,3 +67,5 @@ Az „Egy a természettel” Nemzetközi Vadászati és Természeti Kiállítás
 | 3. | Agreement on the Conservation of African-Eurasian Migratory Waterbirds (AEWA – Megállapodás az afrikai-eurázsiai vonuló vízimadarak védelméről) Meeting of the Parties (MOP – Részes Felek Konferenciája) | nemzetközi konferencia | agrárminiszter, a 2021. évi „Egy a természettel” Nemzetközi Vadászati és Természeti Kiállítás és az ehhez kapcsolódó Rendezvénysorozat lebonyolításáért felelős kormánybiztos |
 
 | 4. | CIC Közgyűlés | nemzetközi konferencia | agrárminiszter, a 2021. évi „Egy a természettel” Nemzetközi Vadászati és Természeti Kiállítás és az ehhez kapcsolódó Rendezvénysorozat lebonyolításáért felelős kormánybiztos |
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
