@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-39-20-2
 | 2018-04-17 | 2013-39-20-22.13 | 507/2017. (XII. 29.) Korm. rendelet |
 | 2018-05-06 | 2013-39-20-22.14 | 72/2018. (IV. 16.) Korm. rendelet |
 | 2018-10-01 | 2013-39-20-22.15 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-12-14 | 2013-39-20-22.16 | 244/2018. (XII. 13.) Korm. rendelet |

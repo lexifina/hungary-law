@@ -1,4 +1,4 @@
-4/A. §[^19] (1) A jellegzetes ízesítésű dohánytermékek forgalomba hozatala tilos, ide nem értve a dohánytermékek előállításához nélkülözhetetlen adalékanyagok – például az érlelési folyamat során elveszett cukortartalmat pótló cukor – használatát, ha az adalékanyagok nem eredményeznek jellegzetes ízesítésű terméket, és nem növelik jelentős vagy mérhető módon a dohánytermék függőséget okozó hatását, toxicitását, továbbá az el nem égett formában rákkeltő, mutagén vagy reprodukciót károsító tulajdonságait (a továbbiakban: CMR tulajdonság).
+4/A. §[^20] (1) A jellegzetes ízesítésű dohánytermékek forgalomba hozatala tilos, ide nem értve a dohánytermékek előállításához nélkülözhetetlen adalékanyagok – például az érlelési folyamat során elveszett cukortartalmat pótló cukor – használatát, ha az adalékanyagok nem eredményeznek jellegzetes ízesítésű terméket, és nem növelik jelentős vagy mérhető módon a dohánytermék függőséget okozó hatását, toxicitását, továbbá az el nem égett formában rákkeltő, mutagén vagy reprodukciót károsító tulajdonságait (a továbbiakban: CMR tulajdonság).
 
 (2) Tilos az alkotóelemeikben – így a szűrőben, a papírban, a csomagolásban, a kapszulában, illetve az érintett dohánytermék illatát vagy ízét vagy füstintenzitásának megváltoztatását lehetővé tevő minden technikai megoldásban – ízesítést tartalmazó dohánytermékek forgalomba hozatala.
 
@@ -8,4 +8,4 @@
 
 (5) A cigarettától és a cigarettadohánytól eltérő dohánytermékek esetében az (1)–(3) bekezdésben foglalt tilalmak nem alkalmazandók.
 
-[^19]: A 4/A. §-t a 239/2016. (VIII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^20]: A 4/A. §-t a 239/2016. (VIII. 16.) Korm. rendelet 4. §-a iktatta be.
