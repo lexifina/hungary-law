@@ -30,6 +30,8 @@
 
 | 14 | Műanyag csomagoló fólia gyártó üzem létrehozására, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás Rétságon | Rétság közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 1012/5, 1012/3 és 1014 helyrajzi számú ingatlanok | Nógrád Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^14]
+| 15 | Debreceni Regionális és Innovációs Tudományos Technológiai Park bővítése, valamint munkahelyteremtő beruházás megvalósítása | Debrecen közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 0378/2, 0378/10, 0378/12, 0378/13, 0378/14, 0378/15, 0378/16, 0378/17, 0378/18, 0392/7, 0392/11, 0392/28, 0392/29, 0392/30, 0392/31, 0392/44, 0392/45, 0392/46, 0392/47, 0392/48, 17117/66, 17118/16, 17118/17, 17118/26, 17118/48, 17118/49 helyrajzi számok alatt található ingatlanok | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^14]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^16]
+
+[^16]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
