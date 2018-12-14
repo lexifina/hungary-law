@@ -1,0 +1,1 @@
+15. § Az Országgyűlés elrendeli, hogy az Ny. Alap 5386,8 millió forint hiányát a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet térítse meg 2018. december 28-áig a LXXI. Nyugdíjbiztosítási Alap fejezet, 1. cím, 6. Költségvetési hozzájárulások alcím javára.

@@ -1,0 +1,1 @@
+12. § Az Országgyűlés megállapítja, hogy a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény végrehajtásáról szóló 2017. évi CLXX. törvény 13–15. §-ában előírt megtérítési, visszautalási, elszámolási és befizetési kötelezettségek teljesítése megtörtént.
