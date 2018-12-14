@@ -1,4 +1,4 @@
-## lép.
+## 10. §[^1]
 
 1. melléklet a 37/2018. (XII. 10.) AM rendelethez
 
@@ -71,3 +71,5 @@
 33. Fekete eperfa
 
 34. Fekete berkenye
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
