@@ -1,0 +1,67 @@
+## 1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva az International Center for Settlement Of Investment Disputes (ICSID) előtt indított ICSID ARB/17/27 ügyszámú eljárásban az állami képviselet feladatainak ellátása érdekében 300 000 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet, 2. A Nemzeti Földalappal kapcsolatos kiadások cím, 4. A vagyongazdálkodás egyéb kiadásai alcím, 2. Eljárási költségek, díjak jogcímcsoport terhére, a Kvtv. 1. melléklet XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet, 2. A Nemzeti Földalappal kapcsolatos kiadások cím, 4. A vagyongazdálkodás egyéb kiadásai alcím, 1. Tanácsadók, értékbecslők és jogi képviselők díja jogcímcsoport javára, az 1. melléklet szerint;
+
+## Felelős: pénzügyminiszter
+
+## agrárminiszter
+
+## Határidő: azonnal
+
+## 2. felhívja a pénzügyminisztert, hogy az agrárminiszter bevonásával gondoskodjon az 1. pontban foglalt feladat további ellátásához szükséges 686 000 000 forint biztosításáról a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet, 2. A Nemzeti Földalappal kapcsolatos kiadások cím, 4. A vagyongazdálkodás egyéb kiadásai alcím, 1. Tanácsadók, értékbecslők és jogi képviselők díja jogcímcsoport javára.
+
+## Felelős: pénzügyminiszter
+
+## agrárminiszter
+
+## Határidő: 2019. január 31.
+
+1. melléklet az 1679/2018. (XII. 15.) Korm. határozathoz
+
+| XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2018. forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XLIV. |  |  |  |  |  | A Nemzeti Földalappal kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 2 |  |  |  |  |  | A Nemzeti Földalappal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 4 |  |  |  |  |  | A vagyongazdálkodás egyéb kiadásai |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 296168 |  |  |  | 1 |  |  |  |  |  | Tanácsadók, értékbecslők és jogi képviselők díja |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 300 000 000 |  |  |  |
+
+| 296179 |  |  |  | 2 |  |  |  |  |  | Eljárási költségek, díjak |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | -300 000 000 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
+
+| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár |  | 1 példány |  |  | egyéb: |  | azonnal |  | 300 000 000 |  |  |  |  |  |  |  |  |  |  |  | 300 000 000 |
+
+| Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
