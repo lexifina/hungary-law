@@ -76,9 +76,9 @@
 
 ## Jármű jellege:
 
-## (K)Típus-jóváhagyási szám:
+## (K) EK típusjóváhagyási szám:
 
-## EK típus-jóváhagyási szám:
+## Nemzeti típusjóváhagyási szám:
 
 ## Összeépítési/átalakítási engedélyszám:
 
@@ -200,9 +200,9 @@
 
 ## Jármű jellege:
 
-## (K)Típus-jóváhagyási szám:
+## (K) EK típusjóváhagyási szám:
 
-## EK típus-jóváhagyási szám:
+## Nemzeti típusjóváhagyási szám:
 
 ## Összeépítési/átalakítási engedélyszám:
 
@@ -388,9 +388,9 @@
 
 ## Jármű jellege:
 
-## (K)Típus-jóváhagyási szám:
+## (K) EK típusjóváhagyási szám:
 
-## EK típus-jóváhagyási szám:
+## Nemzeti típusjóváhagyási szám:
 
 ## Összeépítési/átalakítási engedélyszám:
 
@@ -426,6 +426,6 @@
 
 ## Aláírás:
 
-2. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^384]
+2. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^400]
 
-[^384]: A 2. számú mellékletet a 11/2000. (V. 24.) KHVM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^400]: A 2. számú mellékletet a 11/2000. (V. 24.) KHVM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
