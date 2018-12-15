@@ -1,3 +1,0 @@
-## 1. § A Debrecen megyei jogú város külterületén, az Észak-Nyugati Gazdasági Övezetben ipari telephely kialakításával és a területen megvalósuló munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 58/2018. (III. 26.) Korm. rendelet (a továbbiakban: R1.) a következő 8. §-sal egészül ki:
-
-## „8. § A debreceni Észak-Nyugati Gazdasági Övezettel, valamint a Debreceni Regionális és Innovációs Tudományos Technológiai Park bővítésével összefüggő kormányrendeletek módosításáról szóló 243/2018. (XII. 13.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 1. mellékletet a Módr3. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
