@@ -92,7 +92,7 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 
 ## 3. Hagyományos benzinmotoros járművek és szabályozatlan keverékképzésű, katalizátoros járművek vizsgálata
 
-## 3.1. A felülvizsgálatot, a szennyezőanyag-kibocsátást alapjáraton és emelt fordulatszámú üresjáraton mérve, a magyar szabványnak megfelelő, kereskedelmi forgalomban beszerezhető, egyedileg nem adalékolt tüzelőanyaggal kell elvégezni.
+## 3.1. A felülvizsgálatot, a szennyezőanyag-kibocsátást alapjáraton mérve, a magyar szabványnak megfelelő, kereskedelmi forgalomban beszerezhető, egyedileg nem adalékolt tüzelőanyaggal kell elvégezni.
 
 ## 3.2. A jármű gyári értékeinek meghatározása
 
@@ -102,9 +102,9 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 
 ## 3.2.3. Alapjárati CO (V/V%) koncentráció, gyári érték hiányában az MR-ben megengedhető legnagyobb érték.
 
-## 3.2.4. Emelt üresjárati fordulatszám gyári értéke min./max. (min.–1) - vagy annak hiányában az MR-ben meghatározott érték.
+## 3.2.4.
 
-## 3.2.5. Szabályozatlan keverékképzéssel üzemelő, katalizátorral felszerelt négyütemű motoros jármű esetén λ (lambda – légviszony) tényező gyári értéke vagy gyári adat alapjáraton vagy annak hiányában az MR-ben meghatározott érték.
+## 3.2.5.
 
 ## 3.3. Szemrevételezéssel történő vizsgálatok
 
@@ -130,7 +130,7 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 
 ## 3.4. A motor üzemi, mérés kész állapotának biztosítása (kondicionálás). A motort és a kipufogó rendszert üzemi hőmérsékletre kell melegíteni.
 
-## 3.5. A jármű 3.2. pont szerinti jellemzőinek mérése és dokumentálása emelt fordulatszámon (a fordulatszámot az emelt fordulatú méréshez adott fordulatszámon legalább 10 s ideig kell tartani).
+## 3.5.
 
 ## 3.6. A jármű 3.2. pont szerinti jellemzőinek mérése és dokumentálása alapjáraton. (a fordulatszámot alapjáraton legalább 10 s ideig kell tartani).
 
@@ -162,7 +162,7 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 
 ## 4.2.5. Emelt üresjárati CO (V/V%) koncentráció, gyári érték hiányában az MR-ben megengedhető legnagyobb érték.
 
-## 4.2.6. Lambda (λ) érték a λ (lambda – légviszony) tényező gyári értéke alapjáraton vagy annak hiányában az MR-ben meghatározott érték.
+## 4.2.6. Lambda (λ) érték a λ (lambda – légviszony) tényező gyári értéke emelt üresjárati fordulatszámon vagy annak hiányában az MR.-ben meghatározott érték.
 
 ## 4.2.7. Katalizátorkondicionálás (gyártómű előírása szerint).
 
@@ -202,7 +202,7 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 
 ## 4.5. A jármű 4.2. pont szerinti jellemzőinek mérése és dokumentálása emelt fordulatszámon (a fordulatszámot az emelt fordulatú méréshez adott fordulatszámon legalább 10 s ideig kell tartani).
 
-## 4.6. A jármű 4.2. pont szerinti jellemzőinek mérése és dokumentálása alapjáraton. (a fordulatszámot alapjáraton legalább 10 s ideig kell tartani).
+## 4.6. A jármű 4.2. pont szerinti jellemzőinek mérése és dokumentálása alapjáraton, a 4.2.6. pontban meghatározott λ (lambda – légviszony) tényező kivételével. (a fordulatszámot alapjáraton legalább 10 s ideig kell tartani).
 
 ## 4.7. A mérést a vizsgabiztos választásától függően be lehet fejezni vagy szükség esetén (pl. mérés közben fordulatszámejtés, ventilátorbeindulás vagy bármely más mérést zavaró körülmény esetén) meg lehet ismételni.
 
@@ -230,7 +230,7 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 
 ## 5.4.2. Amennyiben a kommunikáció nem jön létre, a motort leállítva ismételten meg kell kísérelni a kapcsolat létrehozását.
 
-## 5.4.3. Amennyiben a kapcsolat nem hozható létre, a vizsgálatot a 4. pont szerinti technológiával kell lefolytatni.
+## 5.4.3. Amennyiben a kapcsolat nem hozható létre, vagy az OBD-ből kiolvasott adatok egymásnak ellentmondanak, a vizsgálatot a 4. pont szerinti technológiával kell lefolytatni.
 
 ## 5.5. Fedélzeti diagnosztikai rendszer (OBD) vizsgálata
 
@@ -242,25 +242,25 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 
 ## 5.5.4. A kipufogógáz- és működési vizsgálat eredményeinek értékelése és megjelenítése.
 
-## 5.6. A jármű gyári értékeinek meghatározása
+## 5.6. A jármű gyári értékeinek meghatározása.
 
-## 5.6.1. A motorhőmérséklet (°C) – a gyártó vagy a forgalmazó által üzem-meleg állapotra megadott legkisebb motorolaj hőmérséklet vagy minimum 60 °C.
+## 5.6.1. A motorhőmérséklet (°C) - a gyártó vagy a forgalmazó által üzem-meleg állapotra megadott legkisebb motorolaj hőmérséklet vagy minimum 60 °C.
 
-## 5.6.2. Emelt üresjárati fordulatszám gyári értéke min./max. (min.–1) annak hiányában az MR-ben meghatározott érték.
+## 5.6.2. Alapjárati fordulatszám min./max. (min.-1).
 
-## 5.6.3. Emelt üresjárati CO (V/V%) koncentráció, gyári érték hiányában az MR-ben megengedhető legnagyobb érték.
+## 5.6.3. Alapjárati CO (V/V%) koncentráció, gyári érték hiányában az MR.-ben megengedhető legnagyobb érték.
 
-## 5.6.4. Lambda (λ) érték a λ (lambda – légviszony) tényező gyári értéke alapjáraton vagy annak hiányában az MR-ben meghatározott érték.
+## 5.6.4. Emelt üresjárati fordulatszám gyári értéke min./max. (min.-1) annak hiányában az MR.-ben meghatározott érték.
 
-## 5.6.5. Katalizátorkondicionálás (gyártómű előírása szerint).
+## 5.6.5. Emelt üresjárati CO (V/V%) koncentráció, gyári érték hiányában az MR.-ben megengedhető legnagyobb érték.
 
-## – Kondicionálási idő [s] és fordulatszám [min.–1]
+## 5.6.6. Lambda (λ) érték a λ (lambda – légviszony) tényező gyári értéke emelt üresjárati fordulatszámon vagy annak hiányában az MR.-ben meghatározott érték.
 
-## Adat hiányában t = 120 s; n = 2500 min.–1.
+## 5.6.7. Katalizátorkondicionálás (gyártómű előírása szerint).
 
-## 5.6.6. Alapjárati CO (V/V%) koncentráció, gyári érték hiányában az MR-ben megengedhető
+## - Kondicionálási idő [s] és fordulatszám [min.-1]
 
-## legnagyobb érték.
+## Adat hiányában t = 120 s; n = 2500 min.-1.
 
 ## 5.7. Szemrevételezéssel történő vizsgálatok
 
@@ -280,57 +280,47 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 
 ## 5.9. A jármű jellemzőinek mérése és dokumentálása emelt fordulatszámon (a fordulatszámot az emelt fordulatú méréshez adott fordulatszámon legalább 10 s ideig kell tartani).
 
-## 5.10. A jármű jellemzőinek mérése és dokumentálása alapjáraton (a fordulatszámot alapjáraton legalább 10 s ideig kell tartani).
+## 5.10. 5.10. A jármű 5.6. pont szerinti jellemzőinek mérése és dokumentálása alapjáraton – az 5.6.6. pont szerinti λ (lambda – légviszony) tényező kivételével és emelt üresjárati fordulatszámon (a fordulatszámot alapjáraton legalább 10 s ideig kell tartani).
 
 ## 5.11. A mérést a vizsgabiztos választásától függően be lehet fejezni vagy szükség esetén (pl. mérés közben fordulatszámejtés, ventilátorbeindulás vagy bármely más mérést zavaró körülmény esetén) meg lehet ismételni.
 
-## 5.12. Euro 6 (15-ös környezetvédelmi osztály) környezetvédelmi osztályú gépkocsi esetén a jármű környezetvédelmi felülvizsgálatának minősítése
+## 5.12. Euro 6 vagy jobb (15-ös környezetvédelmi osztály, vagy nagyobb benzin üzemű) környezetvédelmi osztályú gépkocsi esetén a jármű környezetvédelmi felülvizsgálatának minősítése
 
-## MEGFELEL
+## MEGFELEL,
 
-## – ha a szemrevételezéses ellenőrzés eredménye valamennyi ellenőrizendő tétel esetében megfelelt,
+## - ha a szemrevételezéses ellenőrzés eredménye valamennyi ellenőrizendő tétel esetében megfelelt,
 
-## – az OBD kiolvasás eredménye a jármű környezetterhelésére nézve a gyártó ajánlása alapján megfelelő, és
+## - az OBD kiolvasás eredménye a jármű környezetterhelésére nézve a gyártó ajánlása alapján megfelelő, és
 
-## – a Readiness ellenőrzés megfelelt, és
+## - a Readiness ellenőrzés megfelelt (vagy a nem végrehajtott teszt nem hibára utal, pl. új járművek esetén), és,
 
-## – a MIL funkció megfelelt, és
+## - a MIL funkció megfelelt, és
 
-## – a hibatároló értéke „0”, vagy
+## - a hibatároló értéke „0”, vagy
 
-## – amennyiben az OBD kapcsolat nem hozható létre, a 4. pont szerinti
-
-## vizsgálat alapján megfelelő
-
-## – Euro 6-nál (15-ös környezetvédelmi osztály) rosszabb környezetvédelmi osztályú gépkocsi esetén a mért gázkoncentráció értékek a gyári előírásoknak, illetve azok hiányában az MR-ben meghatározott értékeknek megfelelnek
-
-## NEM FELEL MEG
-
-## – minden, az előbbitől eltérő esetben.
+## - amennyiben az OBD kapcsolat nem hozható létre vagy az OBD-ből kiolvasott adatok egymásnak ellentmondanak, a 4. pont szerinti vizsgálat alapján megfelelő.”
 
 ## 5.13. Euro 6-nál (15-ös környezetvédelmi osztály) rosszabb környezetvédelmi osztályú gépkocsi esetén a jármű környezetvédelmi felülvizsgálatának minősítése
 
-## MEGFELEL
+## MEGFELEL,
 
-## – ha a szemrevételezéses ellenőrzés eredménye valamennyi ellenőrizendő tétel esetében megfelelt,
+## - ha a szemrevételezéses ellenőrzés eredménye valamennyi ellenőrizendő tétel esetében megfelelt,
 
-## – az OBD kiolvasás eredménye a jármű környezetterhelésére nézve a gyártó ajánlása alapján megfelelő, és
+## - az OBD kiolvasás eredménye a jármű környezetterhelésére nézve a gyártó ajánlása alapján megfelelő, és
 
-## – a Readiness ellenőrzés megfelelt, és
+## - a Readiness ellenőrzés megfelelt (vagy a nem végrehajtott teszt nem hibára utal, pl. új járművek esetén), és
 
-## – a MIL funkció megfelelt, és
+## - a MIL funkció megfelelt, és
 
-## – a hibatároló értéke „0”, és
+## - a hibatároló értéke „0”, és
 
-## – a mért gázkoncentráció értékek a gyári előírásoknak, illetve azok hiányában az MR-ben meghatározott értékeknek megfelelnek, vagy
+## - a mért gázkoncentráció értékek a gyári előírásoknak, illetve azok hiányában az MR.-ben meghatározott értékeknek megfelelnek, vagy
 
-## – amennyiben az OBD kapcsolat nem hozható létre, a 4. pont szerinti
-
-## vizsgálat alapján megfelelő
+## - amennyiben az OBD kapcsolat nem hozható létre vagy az OBD-ből kiolvasott adatok egymásnak ellentmondanak, a 4. pont szerinti vizsgálat alapján megfelelő;
 
 ## NEM FELEL MEG
 
-## – minden, az előbbitől eltérő esetben.
+## - minden, az előbbiektől eltérő esetben.
 
 ## 6. Kompresszió gyújtású motorral szerelt járművek vizsgálata
 
@@ -354,11 +344,9 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 
 ## 10 másodpercet kell várni.
 
-## 6.2.5. A megengedett füstölés legnagyobb (ha rendelkezésre áll: legkisebb) értéke – fényelnyelés [m–1]
+## 6.2.5. A megengedett füstölés legnagyobb (ha rendelkezésre áll: legkisebb) értéke - fényelnyelés [m-1].
 
-## A mérési módhoz tartozó, járműgyártó által adott, a 72/306/EGK tanácsi irányelvnek megfelelő típustáblán jelölt érték, annak hiányában az MR-ben meghatározott megengedett legnagyobb érték. A leszabályozási fordulatszám mérési idejének megadása
-
-## Gyártó által adott; 1 s ≤ t ≤ 5 s közötti érték, gyártói adat hiányában 5 s.
+## A mérési módhoz tartozó, járműgyártó által adott, a 72/306/EGK tanácsi irányelvnek megfelelő típustáblán jelölt érték, vagy a járműgyártó által egyéb módon meghatározott érték, annak hiányában az MR.-ben meghatározott megengedett legnagyobb érték. A leszabályozási fordulatszám mérési idejének megadása. Gyártó által adott; 1 s ≤ t ≤ 5 s közötti érték, gyártói adat hiányában 5 s.
 
 ## 6.3. Szemrevételezéssel történő vizsgálatok
 
@@ -434,7 +422,7 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 
 ## 7.6. Amennyiben a kapcsolat nem hozható létre, a vizsgálatot a 6. pont szerinti technológiával kell lefolytatni.
 
-## 7.7. Fedélzeti diagnosztikai rendszer (OBD) vizsgálata
+## 7.7. Fedélzeti diagnosztikai rendszer (OBD) vizsgálata.
 
 ## 7.7.1. Az OBD rendszer készenléti állapotának (Readiness) ellenőrzése.
 
@@ -444,39 +432,39 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 
 ## 7.7.4. A felülvizsgálat (füstölésmérés és OBD kiolvasás) eredményének értékelése.
 
-## 7.6. A jármű gyári értékeinek meghatározása
+## 7.8. A jármű gyári értékeinek meghatározása
 
-## 7.6.1. A motorhőmérséklet (°C) – a gyártó vagy a forgalmazó által üzem-meleg állapotra megadott legkisebb motorolaj hőmérséklet, annak hiányában minimum 80 °C.
+## 7.8.1. A motorhőmérséklet (°C) - a gyártó vagy a forgalmazó által üzem-meleg állapotra megadott legkisebb motorolaj hőmérséklet, annak hiányában minimum 80 °C.
 
-## 7.6.2. Alapjárati fordulatszám min./max. (min.–1).
+## 7.8.2. Alapjárati fordulatszám min./max. (min.-1).
 
-## 7.6.3. Leszabályozási fordulatszám [min–1] (min./max.) vagy tűréssel – ha rendelkezésre áll, egyébként az első gyorsítás során felvett átlagos érték +/– 5% tűréssel.
+## 7.8.3. Leszabályozási fordulatszám [min.-1] (min./max.) vagy tűréssel - ha rendelkezésre áll, egyébként az első gyorsítás során felvett átlagos érték +/- 5% tűréssel.
 
-## 7.6.4. A szabadgyorsítás ütemezett végrehajtásához szükséges legnagyobb (leszabályozási) fordulatszámon való tartás előírt ideje, tx (s) vagy előírt adat hiányában
+## 7.8.4. A szabadgyorsítás ütemezett végrehajtásához szükséges legnagyobb (leszabályozási) fordulatszámon való tartás előírt ideje, tx (s) vagy előírt adat hiányában
 
-## – M1 és N1 kategóriájú járművek esetében 0,5 s < tx < 2,0 s; (ajánlott idő 1 s)
+## - M1 és N1 kategóriájú járművek esetében 0,5 s < tx < 2,0 s; (ajánlott idő 1 s)
 
-## – M2 és M3 valamint N2 és N3 kategóriájú járművek esetében tx ≥ 2,0 s, (ajánlott idő 2 s).
+## - M2 és M3, valamint N2 és N3 kategóriájú járművek esetében tx ≥ 2,0 s, (ajánlott idő 2 s).
 
 ## A nagy teljesítményű dízelmotorok esetében a gázpedál kiengedését követően legalább 10 másodpercet kell várni.
 
-## 7.6.5. A megengedett füstölés legnagyobb (ha rendelkezésre áll: legkisebb) értéke – fényelnyelés [m–1]
+## 7.8.5. A megengedett füstölés legnagyobb értéke - fényelnyelés [m-1].
 
-## A mérési módhoz tartozó, járműgyártó által adott, az MR. A. Függelék A/11. számú mellékletében meghatározott típustáblán jelölt érték, annak hiányában az MR-ben meghatározott határérték.
+## A mérési módhoz tartozó, járműgyártó által adott, az MR. A. Függelék A/11. számú mellékletében meghatározott típustáblán jelölt érték, vagy a járműgyártó által egyéb módon meghatározott érték, annak hiányában az MR.-ben meghatározott határérték.
 
-## A leszabályozási fordulatszám mérési idejének megadása
+## A leszabályozási fordulatszám mérési idejének megadása.
 
 ## Gyártó által adott; 1 s ≤ t ≤ 5 s közötti érték, gyártói adat hiányában 5 s.
 
-## 7.7. Szemrevételezéssel történő vizsgálatok
+## 7.9. Szemrevételezéssel történő vizsgálatok
 
-## 7.7.1. A kipufogórendszer szemrevételezéses ellenőrzése a rendszer teljességének, szabályszerű állapotának és tömítettségének vizsgálata érdekében.
+## 7.9.1. A kipufogórendszer szemrevételezéses ellenőrzése a rendszer teljességének, szabályszerű állapotának és tömítettségének vizsgálata érdekében.
 
-## 7.7.2. A gyártó által felszerelt kibocsátás csökkentő berendezések szemrevételezéses ellenőrzése a rendszer teljességének, szabályszerű állapotának és tömítettségének vizsgálata érdekében.
+## 7.9.2. A gyártó által felszerelt kibocsátás csökkentő berendezések szemrevételezéses ellenőrzése a rendszer teljességének, szabályszerű állapotának és tömítettségének vizsgálata érdekében.
 
-## 7.7.3. Két kipufogórendszerrel szerelt járművek esetén a szemrevételezést követően 3 db szabadgyorsítást kell végrehajtani a két csővégződésen távozó füst azonosságának szubjektív ellenőrzésére. Különbség esetén a nagyobb füstölést mutató csőben kell a további ellenőrzést végrehajtani.
+## 7.9.3. Két kipufogórendszerrel szerelt járművek esetén a szemrevételezést követően 3 db szabadgyorsítást kell végrehajtani a két csővégződésen távozó füst azonosságának szubjektív ellenőrzésére. Különbség esetén a nagyobb füstölést mutató csőben kell a további ellenőrzést végrehajtani.
 
-## 7.7.4. A szemrevételezés kiterjed:
+## 7.9.4. A szemrevételezés kiterjed:
 
 ## a) a kipufogó rendszer tömítettség, tömörség, a kibocsátásmérést befolyásoló minden szivárgás;
 
@@ -494,69 +482,67 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 
 ## h) a légkondicionáló tömörség;
 
-## i) a lambda szonda sértetlenség; és
+## i) a lambda és/vagy nyomásmérő szonda sértetlenség és
 
 ## j) a zavarjelző (MIL) lámpa működés
 
 ## ellenőrzésére
 
-## 7.8. A motor mérésre kész állapotának biztosítása:
+## 7.10. A motor mérésre kész állapotának biztosítása:
 
-## Az Euro VI és Euro 6 (15, 16-os környezetvédelmi osztályú) –tól rosszabb besorolású gépkocsi esetében a motor üzemi, mérés kész állapotának biztosítása. A motort, illetve ha van ilyen a kipufogógáz-kezelő rendszert, a mérést, továbbá az egyéb kipufogógáz-összetételt befolyásoló szerkezetet, alkatrészeket a hibátlan működéshez szükséges, előírásszerű, üzemi állapotba kell hozni.
+## Az Euro VI és Euro 6-tól (15-ös, 16-os környezetvédelmi osztályú) rosszabb besorolású gépkocsi esetében a motor üzemi, mérés kész állapotának biztosítása. A motort, illetve ha van ilyen a kipufogógáz-kezelő rendszert, a mérést, továbbá az egyéb kipufogógáz-összetételt befolyásoló szerkezetet, alkatrészeket a hibátlan működéshez szükséges, előírásszerű, üzemi állapotba kell hozni.
 
 ## A jármű füstölésének mérését közvetlenül megelőzően, a kipufogórendszerben lerakódott szennyezés eltávolítása céljából legalább háromszor, teljes töltéssel a leszabályozási fordulatszámra, illetve speciális esetben a vizsgálatra előírt fordulatszámra kell gyorsítani a motort. Az automata sebességváltóval ellátott járművek esetében a gyártó által meghatározott fordulatszámra, illetve ha ez az adat nem áll rendelkezésre, a leszabályozási fordulatszám kétharmadára kell gyorsítani a motort. A gyorsításoknál a gázpedált már a maximális fordulatszám elérésekor hirtelen fel kell engedni.
 
-## 7.9. A jármű környezetvédelmi állapotának ellenőrzése
+## 7.11. A jármű környezetvédelmi állapotának ellenőrzése
 
-## Szabadgyorsításos vizsgálat, amely a füstölési értékek és a füstölési eredmény értékeléséhez szükséges adatok mérésére és dokumentálására szolgál. A gázpedált gyorsan és határozottan (1s-nál rövidebb idő alatt), ütközésig kell nyomni és – az automatikus nyomatékváltóval szerelt járművek kivételével – a gyár által adott ideig leszabályozási fordulatszámon kell tartani. Automatikus nyomatékváltóval felszerelt járműveknél a leszabályozási fordulatszám helyett a gyártó által megadott fordulatszámot, illetve ha ez az adat nem áll rendelkezésre, a leszabályozási fordulatszám kétharmadát és a gyártó által megadott technológiát kell alkalmazni a füstölés mérésére. A járművet jellemző füstölés a feltételt kielégítő, utolsó három csúcsérték számtani középértéke (két tizedesre kerekítve). Ennek kiszámítása során figyelmen kívül lehet hagyni azokat a méréseket, amelyek eredménye jelentősen eltér a mért középértéktől, illetve az olyan statisztikai számítások eredményétől, amelyek figyelembe veszik a mérések szórását.
+## Szabadgyorsításos vizsgálat, amely a füstölési értékek és a füstölési eredmény értékeléséhez szükséges adatok mérésére és dokumentálására szolgál. A gázpedált gyorsan és határozottan (1s-nál rövidebb idő alatt), ütközésig kell nyomni és - az automatikus nyomatékváltóval szerelt járművek kivételével - a gyár által adott ideig leszabályozási fordulatszámon kell tartani. Automatikus nyomatékváltóval felszerelt járműveknél a leszabályozási fordulatszám helyett a gyártó által megadott fordulatszámot, illetve ha ez az adat nem áll rendelkezésre, a leszabályozási fordulatszám kétharmadát és a gyártó által megadott technológiát kell alkalmazni a füstölés mérésére. A járművet jellemző füstölés a feltételt kielégítő, utolsó három csúcsérték számtani középértéke (két tizedesre kerekítve). Ennek kiszámítása során figyelmen kívül lehet hagyni azokat a méréseket, amelyek eredménye jelentősen eltér a mért középértéktől, illetve az olyan statisztikai számítások eredményétől, amelyek figyelembe veszik a mérések szórását.
 
-## 7.10. A mérést a vizsgabiztos választásától függően be lehet fejezni vagy szükség esetén meg lehet ismételni.
+## 7.12. A mérést a vizsgabiztos választásától függően be lehet fejezni vagy szükség esetén meg lehet ismételni.
 
-## 7.11. Az Euro VI és Euro 6 (15, 16-os környezetvédelmi osztályú) gépkocsi esetén,
-
-## a jármű környezetvédelmi felülvizsgálatának minősítése,
-
-## MEGFELEL
-
-## – ha az OBD kiolvasás eredménye a gyártó ajánlása alapján megfelelő, és
-
-## – ha a szemrevételezés eredménye valamennyi ellenőrizendő tétel esetében megfelelt, és
-
-## – ha a READINESS végrehajtott, továbbá
-
-## – ha a hibatárolóban nincs hiba, és
-
-## – ha nincs manipulálásra (pl. hiba kód, technológiailag indokolatlan törlése) utaló nyom, vagy
-
-## – amennyiben az OBD kapcsolat nem hozható létre, a 6. pont szerinti vizsgálat alapján megfelelő,
-
-## NEM FELEL MEG
-
-## – minden, az előbbitől eltérő esetben.
-
-## 7.12. Az Euro VI és Euro 6-tól (15, 16-os környezetvédelmi osztályú) rosszabb besorolású jármű környezetvédelmi felülvizsgálatának minősítése
+## 7.13. Az Euro VI és Euro 6 (15-ös, 16-os környezetvédelmi osztályú, vagy magasabb dízel üzemű) vagy jobb besorolású motorral felszerelt gépkocsi esetén a jármű környezetvédelmi felülvizsgálatának minősítése
 
 ## MEGFELEL,
 
-## – ha a szemrevételezéses ellenőrzés eredménye valamennyi ellenőrizendő tétel esetében megfelelt, és
+## - ha az OBD kiolvasás eredménye a gyártó ajánlása alapján megfelelő, és
 
-## – a jármű közel azonos idejű szabadgyorsításos méréséből számított jellemző füstölés értéke a gyári értékeket, azok hiányában az MR-ben meghatározott feltételeket teljesíti, vagy ha a jármű szellőztetés alatti két egymás utáni füstölése a határérték felénél kisebb és
+## - ha a szemrevételezés eredménye valamennyi ellenőrizendő tétel esetében megfelelt, és
 
-## – ha az OBD (EOBD) kiolvasás eredménye a gyártó ajánlásával összhangban van, a READINESS végrehajtott, továbbá a hibatárolóban nincs hiba, és nincs manipulálásra utaló nyom, vagy
+## - ha a READINESS végrehajtott (vagy a nem végrehajtott teszt nem hibára utal, pl. új járművek esetén), továbbá
 
-## – ha az OBD kapcsolat nem hozható létre, a 6. pont szerinti vizsgálat alapján megfelelő,
+## - ha a hibatárolóban nincs hiba, és
+
+## - ha nincs manipulálásra (pl. hiba kód, technológiailag indokolatlan törlése) utaló nyom, vagy
+
+## - amennyiben az OBD kapcsolat nem hozható létre vagy az OBD-ből kiolvasott adatok egymásnak ellentmondanak, a 6. pont szerinti vizsgálat alapján megfelelő,
 
 ## NEM FELEL MEG
 
-## – minden, az előbbitől eltérő esetben, vagy
+## - minden, az előbbiektől eltérő esetben.
 
-## a) ha az előírásszerű mérés nem hajtható végre vagy a mérés eredménye alapján, a jármű jellemző füstölés értéke az MR-ben meghatározott feltételeket nem teljesíti,
+## 7.14. Az Euro VI és Euro 6-tól (15-ös, 16-os környezetvédelmi osztályú) rosszabb besorolású jármű környezetvédelmi felülvizsgálatának minősítése
+
+## MEGFELEL,
+
+## - ha a szemrevételezéses ellenőrzés eredménye valamennyi ellenőrizendő tétel esetében megfelelt, és
+
+## - a jármű közel azonos idejű szabadgyorsításos méréséből számított jellemző füstölés értéke a gyári értékeket, azok hiányában az MR.-ben meghatározott feltételeket teljesíti, vagy ha a jármű szellőztetés alatti két egymás utáni füstölése a határérték felénél kisebb, és
+
+## - ha az OBD (EOBD) kiolvasás eredménye a gyártó ajánlásával összhangban van, a READINESS végrehajtott (vagy a nem végrehajtott teszt nem hibára utal, pl. új járművek esetén), továbbá a hibatárolóban nincs hiba, és nincs manipulálásra utaló nyom, vagy
+
+## - ha az OBD kapcsolat nem hozható létre vagy az OBD-ből kiolvasott adatok egymásnak ellentmondanak, a 6. pont szerinti vizsgálat alapján megfelelő,
+
+## NEM FELEL MEG
+
+## - minden, az előbbiektől eltérő esetben, vagy
+
+## a) ha az előírásszerű mérés nem hajtható végre vagy a mérés eredménye alapján, a jármű jellemző füstölés értéke az MR.-ben meghatározott feltételeket nem teljesíti,
 
 ## b) ha az előírásnak megfelelően végrehajtott szennyezés eltávolítása céljából történő gyorsításoknál mért három füstölési érték közül kettő az érvényes határérték háromszorosánál nagyobb,
 
 ## c) ha az előírásnak megfelelően végrehajtott első két alapjáratról történő, teljes töltéses szabadgyorsítás során mért mindkét füstölési érték nagyobb a járműre érvényes határérték kétszeresénél, vagy
 
-## d) ha legalább az utolsó három szabadgyorsítási ciklus mérési eredményének számtani közepe meghaladja a határértéket. Ennek kiszámítása során figyelmen kívül lehet hagyni azokat a méréseket, amelyek eredménye jelentősen eltér a mért középértéktől, illetve az olyan statisztikai számítások eredményétől, amelyek figyelembe veszik a mérések szórását.
+## d) ha legalább az utolsó három szabadgyorsítási ciklus mérési eredményének számtani közepe meghaladja a határértéket; ennek kiszámítása során figyelmen kívül lehet hagyni azokat a méréseket, amelyek eredménye jelentősen eltér a mért középértéktől, illetve az olyan statisztikai számítások eredményétől, amelyek figyelembe veszik a mérések szórását.
 
 ## 8. Monovalens gáznemű tüzelőanyaggal (pl. földgáz, LPG, hidrogén) üzemelő járművek
 
@@ -619,6 +605,8 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 ## 9.2.2. csak a kompressziós gyújtású motor üzemanyagával működtetve a járműnek megfelelő 6. vagy 7. pontban leírt eljárás szerint, vagy
 
 ## 9.2.3. a jármű vagy a rendszer gyártója által megadott eljárásnak megfelelően a 8. pontban leírt eljárás szerint.
+
+## 10. Az 1.3. pontban meghatározott, a járművek fedélzeti számítógépével kommunikálni képes OBD vagy EOBD kiolvasókat legkésőbb 2022. május 20-ig kell a közlekedési hatóság informatikai rendszeréhez illeszthetővé tenni történő illeszthetőségét legkésőbb alkalmazni.
 
 ## 1. függelék
 
