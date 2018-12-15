@@ -1,3 +1,0 @@
-## 1. § A dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet (a továbbiakban: Rendelet) 4. §-a a következő (11) bekezdéssel egészül ki:
-
-## „(11) E § alkalmazásában nem minősül új adalékanyagnak, és nem esik a (3) bekezdésben meghatározott bejelentési kötelezettség alá az az adalékanyag, amelyet a gyártó 2016. augusztus 20-át megelőzően jogszabályi felhatalmazás vagy külön engedély alapján használni volt jogosult a dohánytermék gyártásához, feltéve, hogy az nem szerepel a 4. melléklet szerinti tiltott adalékanyagok listáján.”
