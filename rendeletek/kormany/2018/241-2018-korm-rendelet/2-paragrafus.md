@@ -8,7 +8,7 @@ c) a 2018. december 31-éig lejáró szállítói tartozásokra,
 
 d) a 2018. december 31-éig lejáró egyéb tartozásokra
 
-## 2018. december 31-éig használhatja fel, azzal, hogy a sorrendben következő pontban meghatározott célra csak akkor használható fel a támogatás, ha a sorrendben azt megelőző pont szerinti tartozását a szolgáltató már kiegyenlítette.
+2018. december 31-éig használhatja fel, azzal, hogy a sorrendben következő pontban meghatározott célra csak akkor használható fel a támogatás, ha a sorrendben azt megelőző pont szerinti tartozását a szolgáltató már kiegyenlítette.
 
 (2) Az 1. § (1) bekezdése szerinti működési támogatás intézményi felújításra, beruházásra, fejlesztésre nem használható fel.
 
