@@ -4,7 +4,7 @@ A Kormány a három kiemelt területen benyújtandó, összesen négy tervezett 
 
 a) az éghajlat-politikai integrált projekt tekintetében legfeljebb 1922,0 millió forint a Nemzeti Fejlesztési Minisztérium fejezetben,
 
-b) a természetvédelmi és környezetvédelmi integrált projektek tekintetében legfeljebb 5709,4 millió forint a Földművelésügyi Minisztérium fejezetben,
+b) a természetvédelmi és környezetvédelmi integrált projektek tekintetében legfeljebb 5709,4 millió forint a Földművelésügyi Minisztérium fejezetben,[^1]
 
 c) a környezetvédelmi (vízgyűjtő-gazdálkodási) integrált projekt tekintetében legfeljebb 3600,0 millió forint a Belügyminisztérium fejezetben;
 
@@ -37,3 +37,5 @@ nemzeti fejlesztési miniszter
 földművelésügyi miniszter
 
 Határidő: a 2018–2024. évi központi költségvetések tervezése során
+
+[^1]: Az 1683/2018. (XII. 15.) Korm. határozat 3. pontja alapján a központi költségvetés XII. Agrárminisztérium fejezetében legfeljebb 18 170 763 eurónak megfelelő forintösszeget szükséges biztosítani az évente teljesítendő hazai önrészhez.
