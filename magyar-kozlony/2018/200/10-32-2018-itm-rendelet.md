@@ -1,0 +1,963 @@
+# Az innovációs és technológiai miniszter 32/2018. (XII. 15.) ITM rendelete
+
+Magyar Közlöny 2018. évi 200. szám, 2018. december 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/Fu8uEei0gGx48MH6mj505c0eb3623bee0/dokumentumok/5e7b205e64ce56b3596e889ab05ff2ffdfc5fe03/letoltes)
+
+---
+
+Az innovációs és technológiai miniszter 32/2018. (XII. 15.) ITM rendelete
+a Nemzeti Foglalkoztatási Alap képzési alaprészéből a szakképzésért és felnőttképzésért felelős miniszter
+egyedi döntésével nyújtható képzési, továbbá tanműhely-létesítési és -fejlesztési támogatások részletes
+szabályairól szóló 3/2015. (II. 13.) NGM rendelet módosításáról
+A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény 23. § (2) bekezdés
+e) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet
+116. § 23. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló
+94/2018. (V. 22.) Korm. rendelet 64. § 1. és 2. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel
+egyetértésben – a következőket rendelem el:
+1. § (1) A Nemzeti Foglalkoztatási Alap képzési alaprészéből a szakképzésért és felnőttképzésért felelős miniszter egyedi
+döntésével nyújtható képzési, továbbá tanműhely-létesítési és -fejlesztési támogatások részletes szabályairól szóló
+3/2015. (II. 13.) NGM rendelet (a továbbiakban: R.) 2. §-a a következő 6a. és 6b. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„6a. kiemelt ágazat: az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről
+szóló 150/2012. (VII. 6.) Korm. rendelet 1. melléklet 2.2.6. pontjában szereplő ágazatok közül az I. Egészségügy,
+II. Egészségügyi technika, VIII. Épületgépészet, IX. Gépészet, XI. Villamosipar és elektronika, XII. Távközlés,
+XIII. Informatika, XIV. Vegyipar, XV. Vegyész, XVI. Építőipar, XXII. Közlekedésgépész, XXVIII. Turisztika, XXXI. Agrár
+gépész, XXXVI. Élelmiszeripar XL. Közlekedés, szállítmányozás és logisztika,
+6b. kiemelt ágazat körébe tartozó képzés: az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék
+módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet 1. mellékletében foglalt 1. és 2. táblázat
+alapján a kiemelt ágazatokba tartozóan besorolható szakképesítés és részszakképesítés,”
+(2) Az R. 2. §-a a következő 11a. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„11a. projekt zárásának napja:
+a) képzési támogatás vonatkozásában az utolsó, támogatással érintett képzés befejezésének napja,
+b) tanműhely-létesítési vagy -fejlesztési támogatás vonatkozásában
+ba) immateriális javak és tárgyi eszközök beszerzése esetén az utolsó üzembe helyezés napja,
+bb) ingatlan építése esetében az építési munkálatok befejezését követően a használatba vételi engedély véglegessé
+válásának napja,
+bc) a ba) és bb) alpontban foglaltak egy projekten belüli támogatása estében az üzembe helyezés és a használatba
+vételi engedély véglegessé válásának napja közül a későbbi időpont,”
+(3) Az R. 2. § 17. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„17. újonnan létesített munkahelyek száma: a kedvezményezettnél a munka törvénykönyvéről szóló 2012. évi
+I. törvény (a továbbiakban: Mt.) szerinti munkaviszonyt létesített és a munkát Magyarországon végző személyeknek
+a támogatásra vonatkozó igény benyújtásának a napját megelőző 12 hónap átlagos statisztikai állományi létszáma
+és a projekt zárásának napja szerinti hónap statisztikai állományi létszáma közötti növekmény.”
+2. §
+Az R. 4. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A képzési támogatás mértéke a támogatással érintett képzésben részt vevő személyenként átlagosan
+legfeljebb 4 ezer eurónak megfelelő forintösszeg azzal, hogy a támogatás mértéke nem haladhatja meg
+kedvezményezettenként és képzési projektenként a 2 millió eurónak megfelelő forintösszeget.”
+3. §
+Az R. 5. §-a helyébe a következő rendelkezés lép:
+„5. § (1) A tanműhely-létesítési vagy -fejlesztési támogatás intenzitása – az 5/A. §-ban meghatározott kivétellel –
+nem haladhatja meg az elszámolható költségek 73%-át.
+(2) A tanműhely-létesítési vagy -fejlesztési támogatás mértéke tanulószerződéssel gyakorlati képzésben részt vevő
+tanulónként átlagosan
+a) legfeljebb 8 ezer eurónak megfelelő forintösszeg azzal, hogy a támogatás mértéke nem haladhatja meg
+kedvezményezettenként a 2 millió eurónak megfelelő forintösszeget,
+
+b) a szakképzésről szóló 2011. évi CLXXXVII. törvény 2. § 51. pontjában meghatározott ágazati képző központ
+(a továbbiakban: ágazati képző központ) kedvezményezett esetében továbbá ha, a támogatással érintett
+tanműhelyben folyó képzés valamely kiemelt ágazat körébe tartozik legfeljebb 10 ezer eurónak megfelelő
+forintösszeg azzal, hogy a támogatás mértéke nem haladhatja meg kedvezményezettenként a 2,5 millió eurónak
+megfelelő forintösszeget.
+(3) A támogatás maximumának (2) bekezdés szerinti számításához szükséges tanulói létszám meghatározásakor
+a támogatási kérelemben vállalt, 8. § b) pontja szerinti tanulói létszámnövekmény mellett a kérelem benyújtása
+napján már azt a tanulószerződéssel foglalkoztatott tanulót is figyelembe kell venni, akinek a gyakorlati képzése
+a létrehozandó tanműhelyben fog megvalósulni.”
+4. §
+Az R. a következő 5/A. §-sal egészül ki:
+„5/A. § Tanműhely-létesítési vagy -fejlesztési támogatás az elszámolható költségek 100%-a mértékig nyújtható
+a) ágazati képző központ részére, valamint
+b) azon hozzájárulásra kötelezettnek, amely vállalja, hogy a tanulószerződés alapján folytatott gyakorlati képzését
+vagy annak egy részét a támogatás terhére beszerzett eszközökkel a szakképző iskola tanműhelyében – e tárgyban
+megkötött megállapodás alapján – valósítja meg.”
+5. §
+Az R. 7. §-a a következő (7)–(9) bekezdéssel egészül ki:
+„(7) Ha a támogatással érintett külső képzés megvalósítására nem Magyarország területén kerül sor,
+a kedvezményezettnek a képzésre vonatkozóan megállapodást kell kötnie a képzésben részt vevő munkavállalóval.
+A megállapodásnak tartalmaznia kell:
+a) a képzést megvalósító szervezet megnevezését, címét (székhelyét), azonosító számát;
+b) a képzés
+ba) év, hónap, nap szerinti kezdési időpontját,
+bb) óraszám és helyszín szerinti ütemezését,
+bc) befejezésének tervezett időpontját,
+bd) elvégzésével megszerezhető kompetencia vagy dokumentum megjelölését;
+c) a képzésről való megengedett hiányzás mértékét és ennek túllépése esetén a képzésben részt vevőt érintő
+következményeket.
+(8) A (7) bekezdés szerint folytatott képzés esetében
+a) a képzési programnak tartalmaznia kell
+aa) a képzés megnevezését és a megszerezhető kompetenciát,
+ab) a tervezett képzési időt,
+ac) a képzés egyéni felkészítés vagy csoportos képzés formájának megjelölését,
+ad) a tananyag tartalmát, terjedelmét,
+ae) a maximális csoportlétszámot,
+af) a képzés elvégzéséről szóló igazolás kiadásának feltételeit,
+b) a résztvevők által aláírt jelenléti ívet kell vezetni, és
+c) a képzési program szerinti tényleges megvalósítást dokumentálni kell.
+(9) A támogató 26. § (1) bekezdésében meghatározott ellenőrzési jogköre gyakorlásának biztosítása érdekében
+a (7) és (8) bekezdésben meghatározott feltételek teljesülését igazoló magyar nyelvű dokumentumokat, és a külső
+képzés esetében megkötésre kerülő szolgáltatási szerződést a kedvezményezettnek kell biztosítania.”
+6. §
+Az R. 8. § b) pontja helyébe a következő rendelkezés lép:
+(A tanműhely-létesítési vagy -fejlesztési támogatásban az a szakképzési hozzájárulásra kötelezett részesíthető,)
+„b) amely a tanulószerződés alapján gyakorlati képzésben részt vevő tanulók létszámát − a támogatás iránti kérelem
+benyújtását megelőző két tanév szakképző iskolai tanulólétszám átlagához képest – a létrehozandó tanműhelyben
+tervezett gyakorlati képzésben legalább huszonöt fővel növeli a támogatás iránti kérelem benyújtását követő
+második tanév végéig, és ezt a létszámot a létszámnövekmény elérésének napját követő hónaptól számított
+legalább három év 1–6. és 9–12. hónapjában folyamatosan fenntartja.”
+
+7. §
+Az R. a következő 8/A. §-sal egészül ki:
+„8/A. § (1) Az 5/A. § b) pontjában meghatározott megállapodást a 14. § (2) bekezdésben meghatározott kérelemhez
+csatolni kell.
+(2) Az (1) bekezdés szerinti megállapodásnak tartalmaznia kell:
+a) a megállapodást kötő felek
+aa) nevét,
+ab) székhelyét,
+ac) adószámát,
+ad) cégjegyzékszámát, szakképző iskola esetén OM azonosítóját,
+b) a gyakorlati képzés célját és tartalmát,
+c) a gyakorlati képzés szakképző iskolában megvalósított részének
+ca) helyszínét,
+cb) naptári évenként meghatározott tervezett képzési időtartamát,
+d) a gyakorlati képzésen használt, a támogatás terhére beszerzett eszközök listáját,
+e) az iskolai tanműhely gyakorlati képzési célokra történő biztosításának feltételeit, különös tekintettel a kárviselés
+szabályaira,
+f) a támogatás terhére beszerzett eszköznek esetlegesen a szakképző iskola által gyakorlati képzési célra történő
+használatának feltételeit, különös tekintettel az eszköz fenntartási és javítási költségei viselésének szabályaira,
+g) a támogató 26. §-ban rögzített ellenőrzési joga gyakorlásának biztosítását szolgáló, a szakképző iskolát érintő
+feltételeket.”
+8. §
+Az R. 15. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A támogatási szerződésben a támogatott projekt megkezdésére, zárására, valamint a kapott támogatás
+elszámolására vonatkozóan meghatározott határidő
+a) három és hat hónap közötti időtartamú meghosszabbításáról a támogató,
+b) hat hónapot meghaladó időtartamú meghosszabbításáról a miniszter
+dönt.”
+9. §
+Az R. 22. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A kedvezményezett a képzési időszak alatt benyújtott beszámolóiban a támogatási szerződés módosítása
+nélkül az egyes elszámolható költségek teljes költséghez viszonyított arányát illetően legfeljebb 50%-ban térhet
+el a támogatás iránti kérelemben foglalt arányoktól azzal, hogy a képzési időszak végén a beszámolók összesített
+adatai alapján az egyes költségek teljes költséghez viszonyított aránya legfeljebb 25%-os eltérést mutathat
+a támogatás iránti kérelemben megjelölt arányokhoz képest.”
+10. §
+Az R. 25. §-a helyébe a következő rendelkezés lép:
+„25. § (1) A gyakorlati képzést közvetlenül szolgáló tárgyi eszközt a kedvezményezett köteles elkülönítetten
+nyilvántartani és az üzembe helyezés napjától 5 évig – ingatlan esetében a használatbavételi engedély véglegessé
+válása napjától 10 évig – gyakorlati képzés céljaira használni azzal, hogy ebbe az időtartamba nem számítható be
+a gyakorlati képzés szünetelésének időtartama.
+(2) Az (1) bekezdésben meghatározott időszak alatt a tárgyi eszköz termelési célra történő használatából
+származó bevételt a kedvezményezett köteles az általa folytatott gyakorlati képzés céljaira fordítani a támogatási
+szerződésben meghatározott módon.”
+11. §
+Az R. 27. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Ha a tanműhely-létesítési vagy -fejlesztési támogatásban részesített kedvezményezett a 25. §-ban megállapított
+fenntartási kötelezettsége időtartamának lejárta előtt
+a) megszűnik,
+b) a támogatással érintett gyakorlati képzést kettő, egymást követő tanéven túl szünetelteti, vagy
+c) a támogatással érintett gyakorlati képzést megszünteti
+a fenntartási időszak hátralévő hónapjaira időarányosan eső támogatási összeget vissza kell követelni.”
+
+12. §
+Az R. a következő 30/A. §-sal egészül ki:
+„30/A. § (1) E rendeletnek a Nemzeti Foglalkoztatási Alap képzési alaprészéből a szakképzésért és felnőttképzésért
+felelős miniszter egyedi döntésével nyújtható képzési, továbbá tanműhely-létesítési és -fejlesztési támogatások
+részletes szabályairól szóló 3/2015. (II. 13.) NGM rendelet módosításáról szóló 32/2018. (XII. 15.) ITM rendelettel
+(a továbbiakban: Mód. r.) megállapított 2. § 6a. és 6b. pontját, 11. pont a) alpontját, 11a. és 17. pontját, 4. §
+(4) bekezdését, 5. §-át, 5/A. §-át, 7. § (1) bekezdés f) és g) pontját, 8. § b) pontját, 8/A. §-át, 14. § (1) és (2) bekezdését,
+15. § (1) bekezdését, 22. § (4) és (5) bekezdését, 25. §-át, 27. § (2) bekezdését, az 5. mellékletet, a 7. melléklet 1.1. és
+1.2. pontját, 2.2.1. és 2.2.2. pontját a Mód. r. hatálybalépése előtt benyújtott, de elbírálásra nem került támogatás
+iránti kérelem esetében akkor kell alkalmazni, ha a kérelmező a Mód. r. hatálybalépésétől számított 30 napon belül
+a Mód. r.-rel megállapított 3. vagy 4. melléklet szerint új támogatás iránti kérelmet nyújt be a miniszternek.
+(2) E rendeletnek a Mód. r.-rel megállapított 15. § (3) bekezdését a Mód. r. hatálybalépése előtt megkötött
+támogatási szerződések tekintetében a Mód. r. hatálybalépését követően felmerülő határidő-hosszabbítási igény
+esetében kell alkalmazni.”
+13. §
+Az R.
+a) 1. melléklete helyébe az 1. melléklet,
+b) 2. melléklete helyébe a 2. melléklet,
+c) 3. melléklete helyébe a 3. melléklet,
+d) 4. melléklete helyébe a 4. melléklet,
+e) 5. melléklete helyébe az 5. melléklet
+lép.
+14. §
+Az R.
+ 1. 2. § 11. pont a) alpontjában az„új munkahely létrehozásával összefüggő”szövegrész helyébe az„első”szöveg,
+ 2. 3. §-ában a „nem működési célból nyújtott, visszafizetési kötelezettség nélküli végleges támogatás”
+szövegrész helyébe a„vissza nem térítendő támogatás”szöveg,
+ 3. 4. § (1) bekezdésében az „intezitás” szövegrész helyébe az „intenzitás” szöveg, a „figyelmbe” szövegrész
+helyébe a„figyelembe”szöveg,
+ 4. 6. § (1) és (2) bekezdésében az„5. § (2)”szövegrész helyébe az„5. § (2) és (3)”szöveg,
+ 5. 7. § (1) bekezdés f) pontjában a „teljes” szövegrész helyébe az „a képzésük megkezdésekor a munkakörükre
+meghatározott napi munkaidőnek megfelelő”szöveg,
+ 6. 7. § (1) bekezdés g) pontjában a„18”szövegrész helyébe a„24”szöveg,
+ 7. 7. § (2) bekezdésében a„2. § 15. pontja”szövegrész helyébe a„2. § 17. pontja”szöveg,
+ 8. 13. § (3) bekezdésében, 14. § (4) bekezdésében, 15. § (1) bekezdésében a „30” szövegrész helyébe
+a„60”szöveg,
+ 9. 14. § (1) bekezdésében az „5. melléklet szerinti nyilatkozat” szövegrész helyébe az „5. mellékletben foglalt
+I. számú nyilatkozat”szöveg,
+10. 14. § (2) bekezdésében az „5. melléklet szerinti nyilatkozat” szövegrész helyébe az „5. mellékletben foglalt
+II. számú nyilatkozat”szöveg,
+11. 22. § (1) bekezdésében a„(2)–(6)”szövegrész helyébe a„(2)–(5)”szöveg,
+12. 22. § (4) bekezdésében az „− a támogató egyetértésével –” szövegrész helyébe az „− a támogató előzetes
+egyetértésével –”szöveg,
+13. 23. §-ában a„kérelem adatai”szövegrész helyébe a„kérelem adatai, a fejlesztések költségkalkulációja”szöveg,
+14. 6. melléklet 1.1.8. pontjában a „kérelemírásra, valamint a támogatáséletútja alatti bármilyen,
+a támogatásmegvalósítására irányuló” szövegrész helyébe a „kérelem elkészítésére, valamint a támogatás
+időszaka alatt a támogatás megvalósításával, az elszámolások elkészítésével összefüggő”szöveg,
+15. 6. melléklet 1.5.1. pontjában az„ÁFÁ-val”szövegrész helyébe az„ÁFA-val”szöveg,
+16. 7. melléklet 1.1. és 1.2. pontjában, 2.2.1. és 2.2.2. pontjában a „teljes munkaidőben” szövegrész helyébe
+az„a képzésük megkezdésekor a munkakörükre meghatározott napi munkaidőnek megfelelő munkaidőben”
+szöveg
+lép.
+
+15. § (1) Hatályát veszti az R.
+a) 8. § c) pontja,
+b) 16. § (2)–(5) bekezdése,
+c) 6. melléklet 1.5.4. pontja.
+(2) Hatályukat vesztik az R. 19. § (2) bekezdésében a„csak”szövegrészek.
+16. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+17. §
+Ez a rendelet a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal
+összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet I. és II. fejezetének,
+valamint III. fejezet 31. cikkének hatálya alá tartozó támogatást tartalmaz.
+ Dr. Palkovics László s. k.,
+ innovációért és technológiáért felelős miniszter
+
+1. melléklet a 32/2018. (XII. 15.) ITM rendelethez
+„1. melléklet a 3/2015. (II. 13.) NGM rendelethez
+"1. melléklet a 3/2015. (II. 13.) NGM rendelethez
+1. melléklet a …/2018. (…) ITM rendelethez
+A B
+1.1. cégszerű megnevezése:
+1.2. címe (székhelye) és elérhetőségei:
+1.3. adószáma:
+1.4. képviselőjének neve, beosztása:
+1.5. cégmérete *
+1.6.
+tulajdonosának (tulajdonosainak) neve és
+címe:
+1.7. üzleti tevékenységének bemutatása:
+1.8.
+a támogatásra vonatkozó igényének
+benyújtási napját megelőző 12 hónap
+átlagos statisztikai állományi létszáma:
+A B
+2.1.
+A projekt zárása napja hónapjának tervezett
+statisztikai állományi létszáma:
+2.2. Az új munkahelyek száma (2.1. - 1.8.):
+2.3.
+Az új munkahelyek létesítésének időszaka
+(év, hónap -- év, hónap):
+2.4. Az új munkahelyek létesítésének célja:
+2.5. Az új munkahelyek létesítésének helyszíne:
+A B
+3.1.
+A képzési program időszaka
+(év, hónap, nap -- év, hónap, nap)
+3.2. A képzésben résztvevők száma:
+3.3.
+Tervezett képzések megnevezése és
+lebonyolításuk helyszíne:
+4.1.
+4.2. közvetlenül a projekthez kapcsolódó
+útiköltség
+4.3. anyagok és fogyóeszközök, kizárólag a
+képzési projekt céljaira való használatuk
+mértékéig
+4.4. az eszközök és berendezések
+értékcsökkenése, kizárólag a képzési
+projekt céljaira való használatuk mértékéig
+4.5. közvetlenül a projekthez kapcsolódó
+szállásköltség
+4.6.
+4.7.
+4.8. adminisztrációs költségek
+4.9. rezsiköltségek
+4.10. bérleti díj
+5.1.
+5.2.
+5.3.
+5.4.
+Keltezés
+Szándéknyilatkozat
+a Nemzeti Foglalkoztatási Alap képzési alaprészéből
+a szakképzésért és felnőttképzésért felelős miniszter döntésével nyújtható képzési támogatáshoz
+C
+A nyilatkozatot benyújtó
+1.
+Tervezett elszámolható
+költségek:
+az oktatók személyi jellegű ráfordításai azokra az órákra vonatkozóan, amikor az oktatók
+részt vesznek a képzésen
+az oktatóknak és a képzés résztvevőinek
+közvetlenül a képzési projekthez kapcsolódó
+működési költségei:
+a képzési projekthez kapcsolódó tanácsadás költségei
+(cégszerű aláírás)"
+A képzési projekt megvalósításához szükséges állami támogatás összege (HUF)
+4.
+a képzés résztvevőinek személyi jellegű ráfordításai azokra az órákra vonatkozóan,
+amikor a képzés résztvevői részt vesznek a képzésen
+………………………………
+A képzési program adatai:
+A B
+Tervezetten felmerülő költségek
+(IGEN / NEM szó szerepeltetése a
+rubrikában)
+Az új munkahelyek adatai:
+C
+2.
+3.
+általános közvetett költségek azokra az
+órákra vonatkozóan, amikor a képzés
+résztvevői részt vesznek a képzésen:
+
+Az állami támogatás összegének és a képzésben résztvevők számának hányadosa (EUR/fő)
+A
+C
+** A szándéknyilatkozat benyújtását megelőző hónap utolsó munkanapján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyam alapján.
+* kisvállalkozás vagy középvállalkozás vagy nagyvállalkozás (az egyes vállalkozási méretek definíciója a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási
+kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU BIZOTTSÁGI RENDELET 1. sz. mellékletében található)
+A képzési projekt megvalósításához szükséges állami támogatás összege (EUR) **
+C
+A képzési projekt megvalósításának teljes elszámolható költsége (HUF)
+B
+
+2. melléklet a 32/2018. (XII. 15.) ITM rendelethez
+„2. melléklet a 3/2015. (II. 13.) NGM rendelethez
+"2. melléklet a 3/2015. (II. 13.) NGM rendelethez
+2. melléklet a …/2018. (…) ITM rendelethez
+
+A
+A B
+B C
+C D
+D E
+E F
+F
+A B
+1.1. cégszerű megnevezése:
+1.2. címe (székhelye) és elérhetőségei:
+1.3. adószáma:
+1.4. képviselőjének neve, beosztása:
+1.5. tulajdonosának (tulajdonosainak) neve és címe:
+1.6. üzleti tevékenységének bemutatása:
+1.7. jelenlegi alkalmazotti létszáma:
+A B
+1.1. cégszerű megnevezése:
+1.2. címe (székhelye) és elérhetőségei:
+1.3. adószáma:
+1.4. képviselőjének neve, beosztása:
+1.5. tulajdonosainak neve és címe:
+1.6. tulajdonosai üzleti tevékenységeinek bemutatása:
+1.7. jelenlegi alkalmazotti (oktatói) létszáma:
+A B
+2.1.
+A Támogatási Kérelem tervezett benyújtási időpontját (tanévét)
+megelőző két tanév tanulószerződéses létszámainak átlaga:
+2.2.
+A tanulószerződéssel rendelkező tanulók tervezett létszáma a
+Támogatási Kérelem benyújtási időpontját (tanévét) követő második
+tanév végén:
+2.3.
+A tanulószerződéssel rendelkező tanulók létszámának tervezett
+növekménye (2.2. - 2.1.):
+2.4.
+A támogatással létrehozandó tanműhelyben gyakorlati képzésben
+részesülő tanulók tervezett létszáma:
+2.5.
+A tanulószerződéses létszám-növekmény létrehozásának időszaka
+(tanév -- tanév):
+2.6. Gyakorlati szakképzés keretében jelenleg oktatott szakképesítések:
+2.7
+A tanulói létszámnövekmény létrehozásának és fenntartásának
+időszakában gyakorlati képzés keretében a támogatással létrehozott
+tanműhelyben oktatni tervezett szakképesítések:
+A B
+3.1. A tanműhely jelenlegi állapotának, felszerelésének leírása:
+3.2.
+Tervezett fejlesztések leírása, időszaka, a tanműhely (a gyakorlati
+képzést szolgáló eszközök) helyszínének megjelölése : **
+A C
+4.1.
+4.2.
+4.3.
+4.4.
+4.5.
+Keltezés
+Szándéknyilatkozat
+a Nemzeti Foglalkoztatási Alap képzési alaprészéből a szakképzésért és felnőttképzésért felelős miniszter döntésével nyújtható
+tanműhely-létesítési és -fejlesztési támogatáshoz
+A tanműhely-fejlesztési projekt tervezett teljes, elszámolható beruházási összege (HUF)
+*** A szándéknyilatkozat benyújtását megelőző hónap utolsó munkanapján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyam alapján.
+1 / A
+A nyilatkozatot benyújtó
+gyakorlati szakképzésének
+adatai:
+Az állami támogatásnak (HUF) a tervezett teljes, elszámolható beruházási összeghez (HUF) viszonyított aránya
+(%):
+A nyilatkozatot ágazati képző
+központként benyújtó *:
+1 / B
+3.
+Tanműhely adatok
+C
+(cégszerű aláírás)"
+A tanműhely-fejlesztési projekt megvalósításához szükséges állami támogatás összege (EUR) ***
+………………………………………………………………………………….
+* a szakképzésről szóló 2011. évi CLXXXVII. törvény 2. § 51. pontjában meghatározott ágazati képző központ
+** amennyiben a szándéknyilatkozatot benyújtó a tanulószerződés alapján folytatott gyakorlati képzését vagy annak egy részét a támogatás terhére beszerzett eszközökkel egy szakképző iskola
+tanműhelyében – e tárgyban megkötött megállapodás alapján – valósítja meg, fel kell tüntetni a szakképző iskola nevét, címét és OM azonosítóját.
+A z igényelt támogatásnak (EUR) és a támogatással létrehozni tervezett tanműhelyben gyakorlati képzésben
+részesülő tanulók tervezett létszámának hányadosa (4.4.C / 2.4.C) (EUR / fő)
+C
+C
+C
+Költség adatok
+4.
+B
+2.
+A tanműhely fejlesztési projekt megvalósításához szükséges állami támogatás összege (HUF)
+A nyilatkozatot önálló
+gazdálkodó szervezetként
+benyújtó:
+
+3. melléklet a 32/2018. (XII. 15.) ITM rendelethez
+„3. melléklet a 3/2015. (II. 13.) NGM rendelethez
+"3. melléklet a 3/2015. (II. 13.) NGM rendelethez
+3. melléklet a …/2018. (…) ITM rendelethez
+A B
+1.1. cégszerű megnevezése:
+1.2. címe (székhelye) és elérhetőségei:
+1.3. adószáma:
+1.4. képviselőjének neve, beosztása, e-mail címe:
+1.5. cégmérete *
+1.6. tulajdonosának (tulajdonosainak) neve és címe:
+1.7. üzleti tevékenységének bemutatása:
+1.8.
+a támogatásra vonatkozó igényének benyújtási napját
+megelőző 12 hónap átlagos statisztikai állományi
+létszáma:
+A B
+2.1.
+A projekt zárása napja hónapjának tervezett statisztikai
+állományi létszáma:
+2.2. Az új munkahelyek száma (2.1. - 1.8.):
+2.3.
+Az új munkahelyek létesítésének időszaka
+(év, hónap -- év, hónap):
+2.4. Az új munkahelyek létesítésének célja:
+2.5. Az új munkahelyek létesítésének helyszíne:
+D E F G
+.….. év (HUF) (a
+támogatásról szóló
+miniszteri döntést
+megelőző év)
+……. év (HUF)
+(a támogatásról
+szóló miniszteri
+döntés éve)
+.….. év (HUF) (a
+támogatásról szóló
+miniszteri döntést
+követő 1. év)
+.….. év (HUF) (a
+támogatásról szóló
+miniszteri döntést
+követő 2. év)
+3.1.
+3.2.1.
+közvetlenül a projekthez kapcsolódó
+útiköltség
+3.2.2.
+anyagok és fogyóeszközök, kizárólag a
+képzési projekt céljaira való használatuk
+mértékéig
+3.2.3.
+az eszközök és berendezések
+értékcsökkenése, kizárólag a képzési
+projekt céljaira való használatuk mértékéig
+3.2.4.
+közvetlenül a projekthez kapcsolódó
+szállásköltség
+3.3.
+3.4.
+3.5.1. adminisztrációs költségek
+3.5.2. rezsiköltségek
+3.5.3. bérleti díj
+3.6.
+3.7.
+3.8.
+3.9.
+3.10.
+3.11.
+3.12.
+3.13.
+3.14.
+3.15.
+3.16.
+3.17.
+4.
+A B C D E F G H I
+A képzéscsoport
+neve
+A képzés neve és az elsajátítandó főbb kompetenciák
+a képzés típusa
+(külső vagy belső)
+a képzés helyszíne (ország)
+a képzés várható
+kezdése és befejezése
+(év, hó --- év, hó)
+a képzés összes
+résztvevőre vetített
+óraszáma
+a képzésben
+résztvevők létszáma
+tervezett elszámolható
+költség (HUF)
+fajlagos
+költség (HUF
+/ fő)
+5.1.
+5.2.
+5.3.
+5.4.
+5.5.
+Összesen:
+………………….
+Keltezés
+……………………………………
+2.
+C
+C
+3.5.
+Elszámolható költségek évenként (folyó ár, HUF):
+C
+Igényelt támogatási összegek évenként (folyó ár, HUF):
+Igényelt támogatás mindösszesen (folyó ár, HUF):
+Támogatástartalom (az igényelt támogatás mindösszesen, jelenértéken) (HUF):
+Az igényelt (folyó áron számított) teljes támogatási összeg (EUR) ***
+Az új
+munkahelyek
+adatai:
+A nyilatkozatot
+benyújtó:
+(cégszerű aláírás)"
+Támogatás-intenzitás (jelenérték) (3.12./ 3.11.) (%) **
+A képzésben résztvevők összlétszáma ****
+Egy-egy képzésben résztvevő személyre átlagosan jutó támogatási összeg (3.14. / 3.15.) ; (EUR / fő)
+** A támogatási-intenzitás nem haladhatja meg az elszámolható költségek 50 %-át. A támogatási intenzitás az elszámolható költségek 70 %-ának megfelelő maximális támogatási intenzitásig növelhető a következők szerint:
+a) megváltozott munkaképességű vagy hátrányos helyzetű munkavállalóknak biztosított képzés esetében 10 százalékponttal;
+b) középvállalkozásoknak nyújtott támogatás esetében 10 százalékponttal, kisvállalkozásoknak nyújtott támogatás
+esetében pedig 20 százalékponttal.
+* kisvállalkozás vagy középvállalkozás vagy nagyvállalkozás (az egyes vállalkozási méretek definíciója a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló
+651/2014/EU BIZOTTSÁGI RENDELET 1. sz. mellékletében található)
+B
+általános közvetett költségek azokra az órákra
+vonatkozóan, amikor a képzés résztvevői részt vesznek a
+képzésen:
+Elszámolható költségek mindösszesen (folyó ár, HUF):
+a képzési projekthez kapcsolódó tanácsadás költségei
+az oktatóknak és a képzés résztvevőinek a közvetlenül a
+képzési projekthez kapcsolódó működési költségei:
+3.2.
+Képzési
+költségkalkuláció
+A
+az oktatók személyi jellegű ráfordításai azokra az órákra vonatkozóan, amikor az oktatók részt vesznek a képzésen
+3.
+1.
+5.
+A képzési program teljes időszaka (év, hónap, nap --- év, hónap, nap)
+a képzés résztvevőinek személyi jellegű ráfordításai azokra az órákra vonatkozóan, amikor a képzés résztvevői részt
+vesznek a képzésen
+***** hátrányos helyzetű munkavállaló: bármely olyan személy, aki:
+a) az előző 6 hónapban nem állt rendszeres, fizetett alkalmazásban; vagy
+b) 15 és 24 év közötti életkorú; vagy
+c) nem szerzett középfokú végzettséget vagy szakmai képesítést (az oktatás egységes nemzetközi osztályozási rendszerének 3. szintje), vagy a nappali tagozatos tanulmányait legfeljebb két éve fejezte be, és még nem állt rendszeres, fizetett alkalmazásban; vagy
+d) 50 éven felüli személy; vagy
+e) egy vagy több eltartottal egyedül élő felnőtt; vagy
+f) valamely tagállamban olyan ágazatban vagy szakmában dolgozik, amelyben a két nem megoszlásában mutatkozó különbség legalább 25%-kal meghaladja a tagállam valamennyi gazdasági ágazatára összességében jellemző átlagos különbséget, és aki az
+alulreprezentált nemhez tartozik; vagy
+g) egy tagállam etnikai kisebbségéhez tartozik, és akinek szakmai, nyelvi képzésre vagy szakmai tapasztalatszerzésre van szüksége ahhoz, hogy javuljon a tartós foglalkoztatásra való esélye;
+megváltozott munkaképességű munkavállaló: bármely olyan személy, aki:
+a) a nemzeti jog szerint megváltozott munkaképességű munkavállaló; vagy
+b) aki olyan hosszan tartó fizikai, értelmi, szellemi vagy érzékszervi károsodással él, amely különböző akadályok fellépése mellett korlátozhatja az adott személy teljes, hatékony és más munkavállalókkal egyenlő szerepvállalását a munkakörnyezetben;
+A képzésben résztvevők összlétszámán belül a megváltozott munkaképességű vagy hátrányos helyzetű személyek száma *****
+Támogatási Kérelem
+a Nemzeti Foglalkoztatási Alap képzési alaprészéből a szakképzésért és felnőttképzésért felelős miniszter döntésével nyújtható képzési támogatáshoz
+*** a támogatási kérelem benyújtását megelőző hónap utolsó munkanapján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyam alapján
+**** a képzésben részt vevők összlétszámának meghatározása során a több támogatott képzésben is részt vett munkavállaló csak egyszer vehető figyelembe.
+Elszámolható költségek mindösszesen (jelenérték, HUF)
+Diszkont kamatláb (%)
+
+4. melléklet a 32/2018. (XII. 15.) ITM rendelethez
+„4. melléklet a 3/2015. (II. 13.) NGM rendelethez
+"4. melléklet a 3/2015. (II. 13.) NGM rendelethez
+4. melléklet a …/2018. (…) ITM rendelethez
+A B
+1/A 1. cégszerű megnevezése:
+1/A 2. címe (székhelye) és elérhetőségei:
+1/A 3. adószáma:
+1/A 4. képviselőjének neve, beosztása, e-mail címe:
+1/A 5. tulajdonosának (tulajdonosainak) neve és címe:
+1/A 6. üzleti tevékenységének bemutatása:
+1/A 7. jelenlegi alkalmazotti létszáma:
+A B
+1/B 1. cégszerű megnevezése:
+1/B 2. címe (székhelye) és elérhetőségei:
+1/B 3. adószáma:
+1/B 4. képviselőjének neve, beosztása, e-mail címe:
+1/B 5. tulajdonosainak neve és címe:
+1/B 6. tulajdonosai üzleti tevékenységének bemutatása:
+1/B 7. jelenlegi alkalmazotti (oktatói) létszáma:
+A B C D E F G H I
+2.1.
+2.2. A szakképesítés neve és OKJ száma
+létszáma a Támogatási
+Kérelem benyújtási
+időpontját (tanévét)
+megelőző második
+tanévben
+létszáma a Támogatási
+Kérelem benyújtási
+időpontját (tanévét)
+megelőző tanévben
+átlaglétszáma a Támogatási
+Kérelem benyújtási
+időpontját (tanévét)
+megelőző két tanévben
+tervezett létszáma a
+Támogatási Kérelem
+benyújtási időpontját
+(tanévét) követő
+tanévben
+tervezett létszáma a
+Támogatási Kérelem
+benyújtási időpontját
+(tanévét) követő
+második tanév végén
+létszámának
+tervezett
+növekménye (G - E)
+tervezett létszáma a
+támogatással létrehozni
+tervezett tanműhelyben folyó
+gyakorlati képzésben
+2.3.
+2.4.
+2.5.
+2.6.
+2.7. ÖSSZESEN: 0 0 0 0 0 0 0
+A B
+3.1. Jelenlegi helyszín és alapterület
+3.2. Jelenlegi állapot, felszereltség
+3.3.
+A fejlesztéssel létrejövő tanműhely helyszíne és a
+fejlesztés eredményeként létrejövő alapterülete **
+3.4. A fejlesztéssel létrejövő állapot, felszereltség
+3.5.
+Információk a tanműhely működtetéséhez, a
+gyakorlati szakképzés megvalósításához a
+fejlesztést követően szükséges személyi feltételek
+rendelkezésre állásáról
+3.6.
+A tanulói létszámfejlesztést megalapozó
+kapcsolatok, együttműködés szakképző
+intézményekkel
+Az állami
+támogatással
+fejleszteni tervezett
+tanműhely adatai
+2.
+Tanulói
+létszámadatok
+A tanulószerződéses tanulók
+3.
+1 / A
+A kérelmet önálló
+gazdálkodó
+szervezetként
+benyújtó
+C
+Támogatási Kérelem
+a Nemzeti Foglalkoztatási Alap képzési alaprészéből a szakképzésért és felnőttképzésért felelős miniszter döntésével nyújtható tanműhely-létesítési és -fejlesztési támogatáshoz
+C
+C
+1 / B
+A kérelmet ágazati
+képző központként
+benyújtó *
+
+"4. melléklet a 3/2015. (II. 13.) NGM rendelethez
+A B C D
+A fejlesztések
+költségkalkulációja
+Építési célú beruházás költségcsoportjai
+Nettó / Bruttó
+költségek összesen
+(HUF)***
+Igényelt támogatási
+összeg (HUF)
+4.1. Egyéb kiegészítő erőforrások
+4.2. Keverékek és ideiglenes segédszerkezetek
+4.3. Alépítményi munkák
+4.4. Építőmesteri munkák
+4.5. Szakipari munkák
+4.6. Közmű és vízépítési munkák
+4.7. Közlekedés építési munkák
+4.8. Elektromos munkák
+4.9. Épületgépészeti munkák
+4.10. Kiegészítő tevékenységek, létesítmények
+4.11. Technológiai szerelési munkák
+4.12. Összesen: 0
+A fejlesztések
+költségkalkulációja
+Építési célú beruházás költségcsoportjai
+Nettó / Bruttó
+költségek összesen
+(HUF)***
+Igényelt támogatási
+összeg (HUF)
+4.13. Egyéb kiegészítő erőforrások
+4.14. Keverékek és ideiglenes segédszerkezetek
+4.15. Alépítményi munkák
+4.16. Építőmesteri munkák
+4.17. Szakipari munkák
+4.18. Közmű és vízépítési munkák
+4.19. Közlekedés építési munkák
+4.20. Elektromos munkák
+4.21. Épületgépészeti munkák
+4.22. Kiegészítő tevékenységek, létesítmények
+4.23. Technológiai szerelési munkák
+4.24. Összesen: 0
+A fejlesztések
+költségkalkulációja
+Építési célú beruházás költségcsoportjai
+Nettó / Bruttó
+költségek összesen
+(HUF)***
+Igényelt támogatási
+összeg (HUF)
+4.25. Egyéb kiegészítő erőforrások
+4.26. Keverékek és ideiglenes segédszerkezetek
+4.27. Alépítményi munkák
+4.28. Építőmesteri munkák
+4.29. Szakipari munkák
+4.30. Közmű és vízépítési munkák
+4.31. Közlekedés építési munkák
+4.32. Elektromos munkák
+4.33. Épületgépészeti munkák
+4.34. Kiegészítő tevékenységek, létesítmények
+4.35. Technológiai szerelési munkák
+4.36. Összesen: 0
+4.37. ÉPÍTÉSI CÉLÚ BERUHÁZÁS ÖSSZESEN:
+0 0
+4. …. év
+(a támogatásról szóló
+miniszteri döntés
+éve)
+…. év
+(a támogatásról szóló
+miniszteri döntést
+követő év)
+….. év
+(a támogatásról szóló
+miniszteri döntést
+megelőző év)
+
+"4. melléklet a 3/2015. (II. 13.) NGM rendelethez
+4. melléklet a …/2018. (…) ITM rendelethez
+A fejlesztések
+költségkalkulációja
+Beszerzésre kerülő tárgyi eszközök Mennyiség (db)
+Nettó / Bruttó egységár
+(HUF / db) ***
+Nettó / Bruttó költségek
+összesen (HUF) ***
+4.38.
+4.39.
+4.40.
+4.41.
+4.42.
+4.43.
+4.44.
+4.45. Összesen: 0 0
+A fejlesztések
+költségkalkulációja
+Beszerzésre kerülő tárgyi eszközök Mennyiség (db)
+Nettó / Bruttó egységár
+(HUF / db) ***
+Nettó / Bruttó költségek
+összesen (HUF) ***
+Igényelt támogatási
+összeg (HUF)
+4.46.
+4.47.
+4.48.
+4.49.
+4.50.
+4.51.
+4.52.
+4.53. Összesen: 0 0
+A fejlesztések
+költségkalkulációja
+Beszerzésre kerülő tárgyi eszközök Mennyiség (db)
+Nettó / Bruttó egységár
+(HUF / db) ***
+Nettó / Bruttó költségek
+összesen (HUF) ***
+Igényelt támogatási
+összeg (HUF)
+4.54.
+4.55.
+4.56.
+4.57.
+4.58.
+4.59.
+4.60.
+4.61. Összesen: 0 0
+4.62.
+BESZERZÉSRE KERÜLŐ TÁRGYI ESZKÖZÖK
+ÖSSZESEN:
+0 0 0
+A B C D E F
+4.63.
+4.64. 0
+4.65.
+4.66. 0
+4.67.
+4.68. #DIV/0!
+4.69.
+4.70.
+Keltezés ……………………………….................................................
+(cégszerű aláírás)"
+4.
+IGÉNYELT TÁMOGATÁSI ÖSSZEG (FOLYÓ ÁR; EUR) *****
+….. év
+(a támogatásról szóló
+miniszteri döntést
+megelőző év)
+… év
+(a támogatásról szóló
+miniszteri döntés
+éve)
+….. év
+(a támogatásról szóló
+miniszteri döntést
+követő év)
+DISZKONT KAMATLÁB (%) ****
+A fejlesztések
+összesítő
+költségkalkulációja
+** Építési célú beruházás esetén a Támogatási Kérelemhez csatolandó a tervezett beruházás helyszínrajza és a létrehozandó tanműhely alaprajza. Továbbá amennyiben a támogatási kérelemet benyújtó a tanulószerződés alapján folytatott gyakorlati képzését vagy
+annak egy részét a támogatás terhére beszerzett eszközökkel egy szakképző iskola tanműhelyében – e tárgyban megkötött megállapodás alapján – valósítja meg, fel kell tüntetni a szakképző iskola nevét, címét és OM azonosítóját is.
+* a szakképzésről szóló 2011. évi CLXXXVII. törvény 2. § 51. pontjában meghatározott ágazati képző központ
+***** Az EUR érték kiszámításához a támogatási kérelem benyújtását megelőző hónap utolsó munkanapján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell figyelembe venni.
+ÉPÍTÉSI CÉLÚ BERUHÁZÁS ÉS BESZERZÉSRE KERÜLŐ TÁRGYI ESZKÖZÖK KÖLTSÉGE MINDÖSSZESEN (HUF; FOLYÓ ÁR):
+ÉPÍTÉSI CÉLÚ BERUHÁZÁS ÉS BESZERZÉSRE KERÜLŐ TÁRGYI ESZKÖZÖK KÖLTSÉGE MINDÖSSZESEN (HUF; A TÁMOGATÁS
+MEGÍTÉLÉSÉNEK ÉVÉRE SZÁMÍTOTT JELENÉRTÉK):
+IGÉNYELT TÁMOGATÁS MINDÖSSZESEN (FOLYÓ ÁR; HUF)
+TÁMOGATÁSTARTALOM (JELENÉRTÉK; HUF)
+**** Az aktuális diszkont kamatláb mértékéről a következő honlap ad tájékoztatást: http://tvi.kormany.hu/referencia-rata
+*** A Nettó vagy Bruttó megjelölések közül a nem relevánsat törölni kell.
+TÁMOGATÁSI INTENZITÁS (4.67. F / 4.65. F) (%)
+AZ IGÉNYELT TÁMOGATÁSI ÖSSZEGNEK (EUR) ÉS A TÁMOGATÁSI KÉRELEM BENYÚJTÁSI IDŐPONTJÁT (TANÉVÉT) KÖVETŐ
+MÁSODIK TANÉV VÉGÉTŐL A TÁMOGATÁSSAL FEJLESZTETT TANMŰHELYBEN TANULÓSZERZŐDÉSSEL GYAKORLATI
+KÉPZÉSBEN RÉSZT VEVŐ TANULÓK LÉTSZÁMÁNAK HÁNYADOSA (4.69.F / 2.7.I)
+#ZÉRÓOSZTÓ!
+
+5. melléklet a 32/2018. (XII. 15.) ITM rendelethez
+„5. melléklet a 3/2015. (II. 13.) NGM rendelethez
+I. A képzési támogatást kérelmező nyilatkozata
+Alulírott .........................., a ............................... Kérelmező törvényes képviselőjeként (cégszerű aláírásra jogosult személy)
+nyilatkozom arról, hogy:
+1. a támogatási kérelemben foglalt adatok, információk és dokumentumok valódiak, hitelesek és teljes körűek;
+2. a Kérelmező nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás alatt, ellene jogerős végzéssel elrendelt
+csődeljárás vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás nincs folyamatban;
+3. a Kérelmező megfelel az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 48/B. §-ában és
+50. §-ában meghatározott követelményeknek;
+4. a Kérelmező a költségvetési támogatás tekintetében ÁFA adólevonási joggal rendelkezik / nem rendelkezik (a nem
+megfelelő rész törlendő);
+5. a Kérelmezőnek nem áll fenn harmadik személy irányában olyan kötelezettsége, amely a költségvetési támogatás
+céljának megvalósulását meghiúsíthatja;
+6. a Kérelmező a támogató által előírt biztosítékokat rendelkezésre bocsátja legkésőbb a költségvetési támogatás
+folyósítását megelőzően (a biztosítéknak a támogatási jogviszony alapján fennálló kötelezettségek megszűnéséig
+rendelkezésre kell állnia);
+7. a támogatással érintett képzésekben a munka törvénykönyvéről szóló 2012. évi I. törvény szerint munkaviszonyban
+álló munkavállalók vesznek részt;
+8. a támogatással érintett képzésekben résztvevő munkavállalók tervezett létszáma nem több, mint az újonnan
+létesített munkahelyek tervezett száma;
+9. a támogatással érintett képzési program nem tartozik külön jogszabályban meghatározott munkakör betöltésének
+feltételeként előírt képzések közé, és nem tartozik azon képzések körébe, melyekről a kérelmezőnek külön
+jogszabály alapján gondoskodnia kell;
+10. a Kérelmező a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal
+összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet 1. cikk (2) bekezdés
+c)–d) pontjában, (3) bekezdés c) pontjában, (4) bekezdés a) pontjában és (5) bekezdésében meghatározott
+korlátozásokat betartja;
+11. a Kérelmező nem minősül az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos
+eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-a hatálya alá tartozó
+vállalkozásnak;
+12. a Kérelmező kijelenti, hogy – ha a képzési támogatást olyan projekthez igényli, amelynek céljai között szerepel egy
+regionális beruházási támogatásban részesülő beruházás munkavállalóinak képzése – a képzés nem feltétlenül
+szükséges az új beruházás beindításához és működtetéséhez;
+13. a Kérelmező kijelenti, hogy az azonos azonosítható elszámolható költségek tekintetében az alábbiak szerint
+részesült támogatásban:
+a) a támogatás jogalapja (európai bizottsági jogszabály száma és jogcím megnevezése):
+b) a támogatás odaítélésének időpontja:
+c) a támogatást nyújtó szervezet:
+d) a támogatás összege és a halmozandó elszámolható költségek összege költségnemenként felsorolva:
+14. a Kérelmező kijelenti, hogy a támogatással kapcsolatos jogszabályi rendelkezéseket ismeri, azoknak megfelel és
+vállalja az azokból fakadó kötelezettségek maradéktalan teljesítését;
+15. a Kérelmező jelen nyilatkozathoz csatoltan benyújtja
+a. a nevében aláírásra jogosult személy vagy személyek pénzügyi intézmény által igazolt, ügyvéd vagy
+kamarai jogtanácsos által ellenjegyzett vagy közjegyző által hitelesített aláírás mintáját vagy az aláírásminta
+közjegyző által hitesített másolatát,
+b. a létesítő okiratának vagy jogszabályban meghatározott nyilvántartásba vételét igazoló okiratának eredeti
+példányát,
+c. a saját forrás rendelkezésre állásáról szóló nyilatkozatát,
+
+16. az átlátható szervezetnek minősüléséről szóló nyilatkozatát.
+Kelt: ......................................................................
+...................................................................................
+a Kérelmező törvényes képviselőjének aláírása
+Kérelmező neve, székhelye, adószáma: ..........................................................., .......................................
+P. H.”
+II. A tanműhely-létesítési vagy -fejlesztési támogatást kérelmező nyilatkozata
+Alulírott .........................., a ............................... Kérelmező törvényes képviselőjeként (cégszerű aláírásra jogosult személy)
+nyilatkozom arról, hogy:
+1. a támogatási kérelemben foglalt adatok, információk és dokumentumok valódiak, hitelesek és teljes körűek;
+2. a Kérelmező nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás alatt, ellene jogerős végzéssel elrendelt
+csődeljárás vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás nincs folyamatban;
+3. a Kérelmező megfelel az Áht. 48/B. §-ában és 50. §-ában meghatározott követelményeknek;
+4. a Kérelmező a költségvetési támogatás tekintetében ÁFA adólevonási joggal rendelkezik / nem rendelkezik (a nem
+megfelelő rész törlendő);
+5. a Kérelmező a tanulószerződéssel gyakorlati képzésben részt vevő tanulók létszámát − a támogatás iránti kérelem
+benyújtását megelőző két tanév szakképző iskolai tanulólétszám átlagához képest – a létrehozandó tanműhelyben
+tervezett gyakorlati képzésben legalább huszonöt fővel növeli a támogatás iránti kérelem benyújtását követő
+második tanév végéig, és ezt a létszámot további, legalább három év 1–6. és 9–12. hónapjaiban folyamatosan
+fenntartja;
+6. a Kérelmező azonos azonosítható elszámolható költségekre vonatkozóan más támogatásban nem részesül;
+7. a Kérelmező kijelenti, hogy a támogatással kapcsolatos jogszabályi rendelkezéseket ismeri, azoknak megfelel és
+vállalja az azokból fakadó kötelezettségek maradéktalan teljesítését;
+8. a Kérelmező jelen nyilatkozathoz csatoltan benyújtja
+a. a nevében aláírásra jogosult személy vagy személyek pénzügyi intézmény által igazolt, ügyvéd vagy
+kamarai jogtanácsos által ellenjegyzett vagy közjegyző által hitelesített aláírás mintáját vagy az aláírás minta
+közjegyző által hitesített másolatát,
+b. a létesítő okiratának vagy jogszabályban meghatározott nyilvántartásba vételét igazoló okiratának eredeti
+példányát,
+c. a saját forrás rendelkezésre állásáról szóló nyilatkozatát,
+d. az átlátható szervezetnek minősüléséről szóló nyilatkozatát,
+e. – ha releváns – nyilatkozatát arra vonatkozóan, hogy rendelkezik a szakképzésről szóló 2011. évi
+CLXXXVII. törvény 43. § (7) bekezdése szerinti, a nyilvántartást vezető szerv által kiállított igazolással.
+Kelt: ......................................................................
+...................................................................................
+a Kérelmező törvényes képviselőjének aláírása
+Kérelmező neve, székhelye, adószáma: ..........................................................., .......................................
+P. H.”
+
+IX. Határozatok Tára
