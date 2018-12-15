@@ -124,6 +124,8 @@ ha a távolságot az érintett tagállam engedélyezi.
 
 (25)[^34] E rendelet értelmében megbízó: az a természetes vagy jogi személy, aki a fuvarlevélen vagy egy azzal egyenértékű dokumentumon megbízóként kerül megnevezésre, illetve akinek a nevében vagy megbízásából a fuvartársasággal a fuvarszerződést megkötötték.
 
+(26)[^35] A rendelet alkalmazásában a gépjármű és pótkocsija közlekedésbiztonsági és környezetvédelmi szempontból kiemelten fontos pótalkatrészei és tartozékai azok a pótalkatrészek és tartozékok, amelyek a gépjármű vagy pótkocsija tekintetében az 1. számú mellékletben meghatározott követelmények teljesítését befolyásolják vagy befolyásolhatják, így különösen a futóművek, a rugózás és lengéscsillapítás, a kormányberendezés, a fékberendezés, a jármű alváz és karosszéria, a vonóberendezések, a meghajtó motor, annak működését szolgáló vezérlő és kiszolgáló egységei, a kipufogó rendszer és kipufogógáz utókezelő berendezések, valamint az előzőek elemei, ide nem értve a szabványos kötőelemeket.
+
 [^4]: A 2. § (1) bekezdése a 12/2000. (V. 24.) KHVM rendelet 1.§-ának (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (3) bekezdése a 40/2015. (VI. 30.) NFM rendelet 1. §-ával megállapított szöveg.
 [^6]: A 2. § (4) bekezdését a 13/1993. (V. 12.) KHVM rendelet 1. §-a iktatta be, szövegét újonnan a 35/2004. (III. 30.) GKM rendelet 1. § (1) bekezdése iktatta be.
@@ -155,3 +157,4 @@ ha a távolságot az érintett tagállam engedélyezi.
 [^32]: A 2. § (23) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
 [^33]: A 2. § (24) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
 [^34]: A 2. § (25) bekezdését az 1/2018. (I. 18.) NFM rendelet 4. §-a iktatta be.
+[^35]: A 2. § (26) bekezdését a 28/2018. (XI. 15.) ITM rendelet 10. §-a iktatta be.

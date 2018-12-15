@@ -1,6 +1,6 @@
 ## A segédmotoros kerékpárra vonatkozó további műszaki feltételek
 
-115. §[^230] (1) A segédmotoros kerékpárnak a külső zajra (elhaladási zaj), valamint a hajtómotor kipufogógáz szennyezőanyag-tartalmára vonatkozó jóváhagyási jellel kell rendelkeznie.
+115. §[^234] (1) A segédmotoros kerékpárnak a külső zajra (elhaladási zaj), valamint a hajtómotor kipufogógáz szennyezőanyag-tartalmára vonatkozó jóváhagyási jellel kell rendelkeznie.
 
 (2) Segédmotoros kerékpárra csak jóváhagyási jellel ellátott fényszórót, helyzetjelző lámpát és irányjelző lámpát szabad felszerelni. Segédmotoros kerékpáron mind a segédmotoros kerékpárhoz mind a gépjárműhöz jóváhagyott lámpák alkalmazhatók.
 
@@ -10,7 +10,7 @@
 
 — a gyártási számot a gyártónak,
 
-–[^231] az azonosítási jelet a gyártónak, a forgalmazónak vagy a közlekedési hatóságnak.
+–[^235] az azonosítási jelet a gyártónak, a forgalmazónak vagy a közlekedési hatóságnak.
 
-[^230]: A 115. § új (1) bekezdését a 21/1995. (XII. 15.) KHVM rendelet 13. §-a iktatta a szövegbe, s egyidejűleg az eredeti (1)-(3) bekezdés számozását (2)-(4) bekezdésre változtatta.
-[^231]: A 115. § (4) bekezdés második franciabekezdése a 67/2009. (XI. 27.) KHEM rendelet 9. § (6) bekezdése szerint módosított szöveg.
+[^234]: A 115. § új (1) bekezdését a 21/1995. (XII. 15.) KHVM rendelet 13. §-a iktatta a szövegbe, s egyidejűleg az eredeti (1)-(3) bekezdés számozását (2)-(4) bekezdésre változtatta.
+[^235]: A 115. § (4) bekezdés második franciabekezdése a 67/2009. (XI. 27.) KHEM rendelet 9. § (6) bekezdése szerint módosított szöveg.

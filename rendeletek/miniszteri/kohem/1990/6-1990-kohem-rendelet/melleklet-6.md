@@ -2,39 +2,37 @@
 
 ## 1. Gépkocsi
 
-## 8K00359M_0
+## 8K33557M_0
 
-|  | A | B | C | D | E | F | G |
+|  | A | B | C | D | E | F | G | H |
 
-| 1. | A beépített belsőégésű motor jellege | Gyártási időpont / környezetvédelmi osztály jelzés (kód) | Szénmonoxid alapjáraton és emelt fordulatszámon5 (CO [tf%]) | Szénhidrogén (CH [ppm]), vagy lambda alapjáraton |
+| 1. | A beépített belsőégésű motor jellege | Gyártási időpont / környezetvédelmi osztály jelzés (kód) | Szén- monoxid alapjáraton (CO [tf%]) | Szén- monoxid emelt üresjárati fordulat számon5 (CO [tf%]) | Szénhidrogén (CH [ppm]) vagy lambda emelt üresjárati fordulat- számon |
 
-| 2. | Otto- rendszerű | Kipufogógáz utókezelés nélkül | Négyütemű |  |  |  | - |
+| 2. | Otto- rend- szerű | Kipufogógáz utókezelés nélkül | Négy- ütemű | 1992. január 1. előtt gyártott | 0 | 4,5 | - | - |
 
-| 3. | 1992. január 1. előtt gyártott | 0 | 4,5 |  |
+| 3. | 1992. január 1. után gyártott | 0 | 3,5 | - | - |
 
-| 4. | 1992. január 1. után gyártott | 0 | 3,5 |  |
+| 4. | Kétütemű | 0 | 2,5 | - | 20006 |
 
-| 5. | Kétütemű | 0 | 2,5 | 20006 |
+| 5. | Kipufogógáz utó- kezeléssel | 3 komponensre ható katalitikus utókezelő berendezés, szabályozott keverékképzéssel | 2,4 | 0,5 | 0,3 | 0,97<λ<1,03 |
 
-| 6. | Kipufogógáz utókezeléssel | 3 komponensre ható katalitikus utókezelő berendezés, szabályozott keverékképzéssel | 2, 4 | 0,5 / 0,3 | 0,97< λ <1,03 |
+| 6. |  |  | 5, 6, 9, 14, 15 | 0,3 | 0,2 |  |
 
-| 7. | 5, 6, 9, 14, 15 | 0,3 / 0,2 |
+| 7. |  | egyéb utánégető | négy- ütemű motornál | 1 | 1,0 | - | - |
 
-| 8. | egyéb után- égető | négyütemű motornál | 1 | 1,0 | λ >1,00 |
+| 8. |  | kétütemű motornál | 1 | 1,5 | - | 20006 |
 
-| 9. | kétütemű motornál | 1 | 1,5 | 2000 |
+| 9. | Dízel- rend- szerű |  |  | Szabadgyorsításos füstkibocsátás [K (m-1)]7 |
 
-| 10. | Dízel- rendszerű |  |  | Szabadgyorsításos füstkibocsátás [K (m-1)]7 |
+| 10. |  | 0, 3 | normál (szívó) motor: 2,5 |
 
-| 11. |  | 0, 3 | normál (szívó) motor: 2,5 |
+| 11. | feltöltött, füstkorlátozó nélkül: 3,0 |
 
-| 12. |  | feltöltött, füstkorlátozó nélkül: 3,0 |
+| 12. |  | 4, 5 | 2 |
 
-| 13. |  | 4, 5 | 2,0 |
+| 13. |  | 7, 8, 10, 11, 12, 13 | 1,5 |
 
-| 14. |  | 7, 8, 10, 11, 12, 13 | 1,5 |
-
-| 15. |  | 14, 15 | 0,5 |
+| 14. |  | 14, 15, 16 | 0,5” |
 
 ## A táblázathoz tartozó megjegyzések:
 
@@ -150,6 +148,6 @@
 
 ## (12) Az Euro-VI. kibocsátási határértéket az 582/2011/EU bizottsági rendelet XV. mellékletével (2011.06.25. L167/163) módosított, a nehéz tehergépjárművek kibocsátásai (Euro-VI) tekintetében a gépjárművek és motorok típusjóváhagyásáról, a járművek javítására és karbantartására vonatkozó információkhoz való hozzáférésről szóló 595/2009/EK európai parlamenti és tanácsi rendelet I. melléklete határozza meg.
 
-6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^293]
+6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^303]
 
-[^293]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+[^303]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.

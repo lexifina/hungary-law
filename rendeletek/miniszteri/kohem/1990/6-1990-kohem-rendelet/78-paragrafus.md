@@ -10,13 +10,13 @@
 
 (5) A nem zárt vezetőfülkéjű lassú járművet és a mezőgazdasági vontatót fel kell szerelni legalább egy — a jármű bal oldalán elhelyezett — visszapillantó tükörrel.
 
-(6)[^184] Az 1999. december 31. napját követően használatba vett, N2 és N3 kategóriába tartozó, a 661/2009/EK európai parlamenti és tanácsi rendelet IV. MELLÉKLET 46. számú előírásnak nem megfelelő járművet – a (7) bekezdésben meghatározott kivétellel – az utasoldalon fel kell szerelni az előírásnak megfelelő IV. osztályba tartozó nagy látószögű, valamint V. osztályba tartozó közelre látó visszapillantó tükörrel.
+(6)[^188] Az 1999. december 31. napját követően használatba vett, N2 és N3 kategóriába tartozó, a 661/2009/EK európai parlamenti és tanácsi rendelet IV. MELLÉKLET 46. számú előírásnak nem megfelelő járművet – a (7) bekezdésben meghatározott kivétellel – az utasoldalon fel kell szerelni az előírásnak megfelelő IV. osztályba tartozó nagy látószögű, valamint V. osztályba tartozó közelre látó visszapillantó tükörrel.
 
-(7)[^185] Nem kell a járművet a (6) bekezdésben meghatározott visszapillantó tükrökkel felszerelni, ha:
+(7)[^189] Nem kell a járművet a (6) bekezdésben meghatározott visszapillantó tükrökkel felszerelni, ha:
 
 a) a 7,5 tonna legnagyobb megengedett össztömeget meg nem haladó járműre az V. osztályba tartozó tükrök felszerelése a 79. §-ban meghatározott módon nem lehetséges,
 
 b) a jármű az utasoldalon olyan nagy látószögű és közelre látó visszapillantó tükrökkel van felszerelve, amelyek összesen lefedett látótere teljesíti a 79. § (4) bekezdésében meghatározott követelményeket.
 
-[^184]: A 78. § (6) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 1. §-a iktatta be, szövege a 44/2014. (X. 31.) NFM rendelet 5. §-ával megállapított szöveg.
-[^185]: A 78. § (7) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 1. §-a iktatta be.
+[^188]: A 78. § (6) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 1. §-a iktatta be, szövege a 44/2014. (X. 31.) NFM rendelet 5. §-ával megállapított szöveg.
+[^189]: A 78. § (7) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 1. §-a iktatta be.

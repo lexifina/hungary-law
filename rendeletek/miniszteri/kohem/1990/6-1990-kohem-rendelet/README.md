@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-6-20-5E
 | 2018-03-31 | 1990-6-20-5E.92 | 53/2017. (XII. 22.) NFM rendelet |
 | 2018-05-20 | 1990-6-20-5E.93 | 2/2018. (II. 5.) NFM rendelet |
 | 2018-08-30 | 1990-6-20-5E.94 | 11/2018. (VIII. 29.) ITM rendelet |
+| 2018-12-15 | 1990-6-20-5E.95 | 28/2018. (XI. 15.) ITM rendelet |

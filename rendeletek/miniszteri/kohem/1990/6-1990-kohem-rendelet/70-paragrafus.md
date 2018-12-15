@@ -1,6 +1,6 @@
 ## Fényvisszaverőre vonatkozó üzemeltetési műszaki feltételek
 
-70. § (1)[^170] Hátsó fényvisszaverővel minden gépjárművet, mezőgazdasági vontatót, lassú járművet és pótkocsit fel kell szerelni. A járműre felszerelendő hátsó fényvisszaverők száma:
+70. § (1)[^174] Hátsó fényvisszaverővel minden gépjárművet, mezőgazdasági vontatót, lassú járművet és pótkocsit fel kell szerelni. A járműre felszerelendő hátsó fényvisszaverők száma:
 
 – oldalkocsi nélküli motorkerékpár és a motorkerékpár 0,80 méternél nem szélesebb pótkocsija esetében 1 db
 
@@ -18,4 +18,4 @@ A hátsó fényvisszaverő által visszavert fény csak piros lehet. A pótkocsi
 
 (6) A járművön túlnyúló rakomány megjelölésére szolgáló — a járművön alkalmilag használt — fényvisszaverőkre a pótkocsi fényvisszaverőjére vonatkozó rendelkezéseket kell értelemszerűen alkalmazni azzal az eltéréssel, hogy a gépjármű, a mezőgazdasági vontató és a lassú jármű rakományán lévő hátsó fényvisszaverő háromszög alakú nem lehet.
 
-[^170]: A 70. § (1) bekezdése a 40/2015. (VI. 30.) NFM rendelet 4. §-ával megállapított szöveg.
+[^174]: A 70. § (1) bekezdése a 40/2015. (VI. 30.) NFM rendelet 4. §-ával megállapított szöveg.

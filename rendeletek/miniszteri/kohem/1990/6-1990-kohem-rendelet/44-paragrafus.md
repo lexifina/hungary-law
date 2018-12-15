@@ -1,6 +1,6 @@
 ## Tompított fényszóróra vonatkozó további műszaki feltételek
 
-44. § (1)[^146] A járműre csak jóváhagyási jellel ellátott tompított fényszórót szabad felszerelni. A jármű egyedi forgalomba helyezésének engedélyezése során – a tompított fényszóró által biztosított megvilágítási kép vizsgálata alapján – e rendelkezés alól a közlekedési hatóság felmentést adhat.
+44. § (1)[^150] A járműre csak jóváhagyási jellel ellátott tompított fényszórót szabad felszerelni. A jármű egyedi forgalomba helyezésének engedélyezése során – a tompított fényszóró által biztosított megvilágítási kép vizsgálata alapján – e rendelkezés alól a közlekedési hatóság felmentést adhat.
 
 (2) A tompított fényszórót az oldalkocsi nélküli motorkerékpáron és az oldalkocsis motorkerékpáron a motorkerékpár hosszirányú függőleges felezősíkjában gépkocsin és motoros triciklin úgy kell elhelyezni, hogy a tompított fényszóró átvilágított felületének a külső széle a jármű legszélső pontjától 0,40 méternél távolabb, a két tompított fényszóró átvilágított felületének a belső szélei egymáshoz 0,60 méternél közelebb nem lehetnek. Az olyan motoros triciklin és lassú járművön, amelyen egy tompított fényszóró van felszerelve, a tompított fényszóró átvilágított felületének a bal széle a jármű bal oldali legszélső pontjától 0,40 méternél távolabb nem lehet.
 
@@ -14,4 +14,4 @@
 
 (7) Ha a személygépkocsi terhelési állapotának megváltoztatásakor a tompított fényszóró rendeletben előírt beállítási értéke másként nem tartható, a fényszórónak szerszám használata nélkül átállíthatónak kell lennie.
 
-[^146]: A 44. § (1) bekezdése a 12/2000. (V. 24.) KHVM rendelet 9. §-ával megállapított és a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.
+[^150]: A 44. § (1) bekezdése a 12/2000. (V. 24.) KHVM rendelet 9. §-ával megállapított és a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.
