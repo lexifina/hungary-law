@@ -1,0 +1,1 @@
+Az Országgyűlésről szóló 2012. évi XXXVI. törvény 143. § (2) bekezdésében, valamint az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 43. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 107. §-ában meghatározott feladatkörömben eljárva a következőket rendelem el:
