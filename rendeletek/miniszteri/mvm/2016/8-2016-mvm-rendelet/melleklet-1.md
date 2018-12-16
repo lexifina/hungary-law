@@ -1,6 +1,6 @@
-## 44. §[^11]
+## 44. §[^13]
 
-1. melléklet a 8/2016. (III. 25.) MvM rendelethez[^12]
+1. melléklet a 8/2016. (III. 25.) MvM rendelethez[^14]
 
 XI. Miniszterelnökség fejezet 2018. évi költségvetési kiadási előirányzatainak feladatterve
 
@@ -222,11 +222,13 @@ XI. Miniszterelnökség fejezet 2018. évi költségvetési kiadási előirányz
 
 | 86 | 349306 |  | 32/5 Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |
 
+| 86a. | 377106 |  |  | 32/5/2 PIP Közép-Duna Menti Térségfejlesztési Nonprofit Kft. tőkeemelése | PIP Közép-Duna Menti Térségfejlesztési Nonprofit Kft.-ben az állam nevében végrehajtott tőkeemelésre szolgál | PIP Közép-Duna Menti Térségfejlesztési Nonprofit Kft. | – | – | Alapítói határozat alapján tőkeemelés jogcímén | – | – | – | – | – |
+
 | 87 | 360973 |  |  | 32/5/3 Részesedés- vásárlással összefüggésben felmerülő kiadások | Az előirányzat célja a Magyar Nemzeti Vagyonkezelő Zrt. által az állami vagyonról szóló 2007. évi CVI. törvény 29. § (3) bekezdése és az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 6. § (1) bekezdése alapján a Miniszterelnökség részére kiadott meghatalmazás alapján a Miniszterelnökség által gazdálkodó szervezetben tagsági, részesedési viszony megszerzésére irányuló kifizetések teljesítése. | jogi személyek és természetes személyek | - | - | egyösszegű kifizetéssel vagy részletekben történő kifizetéssel | - | - | - | - | - |
 
 | 88 | 361951 |  |  | 32/5/4 A Miniszterelnökség tulajdonosi joggyakorlásába tartozó gazdasági társaságok tőkeemelése | Az előirányzat a Miniszterelnökség tulajdonosi joggyakorlásába tartozó gazdasági társaságban az állam nevében végrehajtott tőkeemelésére szolgál. | A Miniszter-elnökség tulajdonosi joggyakorlásába tartozó, az állam tulajdonában lévő gazdasági társaságok. | - | - | Alapítói/ részvényesi határozat alapján | - | - | - | - | - |
 
 | 89. | 376562 |  |  | 32/5/5 A Miniszterelnökség tulajdonosi joggyakorlásába tartozó gazdasági társaságok működéséhez szükséges hozzájárulás | A Miniszterelnökség tulajdonosi joggyakorlásába tartozó gazdasági társaságok egyéb módon nem fedezett, nem szakmai jellegű, működési költségeinek finanszírozása. Az előirányzat terhére támogatás már megkezdett vagy megvalósult tevékenységre is nyújtható. | Miniszterelnökség tulajdonosi joggyakorlásába tartozó gazdasági társaság | pályázati rendszeren kívül, kérelemre hozott egyedi döntés alapján támogatói okirattal | biztosítható | egyösszegű kifizetéssel vagy időarányos/ teljesítmény- arányos részletekben történő kifizetéssel | támogatói okirat szerint | támogatói okirat szerint | – | – | – |
 
-[^11]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: Az 1. melléklet a 4/2018. (II. 15.) MvM rendelet 1. §-ával megállapított, a 7/2018. (III. 28.) MvM rendelet 2. §-a, a 9/2018. (VII. 20.) MvM rendelet 2–3. §-a, a 11/2018. (IX. 13.) MvM rendelet 2. §-a, a 12/2018. (XI. 12.) MvM rendelet 2. §-a és 5. §-a szerint módosított szöveg.
+[^13]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: Az 1. melléklet a 4/2018. (II. 15.) MvM rendelet 1. §-ával megállapított, a 7/2018. (III. 28.) MvM rendelet 2. §-a, a 9/2018. (VII. 20.) MvM rendelet 2–3. §-a, a 11/2018. (IX. 13.) MvM rendelet 2. §-a, a 12/2018. (XI. 12.) MvM rendelet 2. §-a és 5. §-a, a 14/2018. (XII. 15.) MvM rendelet 2. §-a szerint módosított szöveg.
