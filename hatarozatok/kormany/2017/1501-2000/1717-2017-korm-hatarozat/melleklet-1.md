@@ -50,7 +50,7 @@
 
 | 19. | Bököny Község fejlesztési feladatainak támogatása | útfelújítás, közterület-fejlesztés | 18,0 |
 
-| 20. | Bősárkány Nagyközség fejlesztési feladatainak támogatása | bölcsőde kialakítása | 10,0 |
+| 20. | Bősárkány Nagyközség fejlesztési feladatainak támogatása | útfelújítás | 10,0 |
 
 | 21. | Budapest II. kerület fejlesztési feladatainak támogatása | közterületek fejlesztése | 21,5 |
 
@@ -78,7 +78,7 @@
 
 | 33. | Csákvár Város fejlesztési feladatainak támogatása | járda- és parkolóépítés | 40,0 |
 
-| 34. | Csanytelek Község fejlesztési feladatainak támogatása | piac kialakítása | 40,0 |
+| 34. | Csanytelek Község fejlesztési feladatainak támogatása | utak korszerűsítése | 40,0 |
 
 | 35. | Csepreg Város fejlesztési feladatainak támogatása | 1956-os emlékmű befejezése | 8,0 |
 
@@ -274,7 +274,7 @@
 
 | 40. | Szászberek Község fejlesztési feladatainak támogatása | út- és járdafelújítás, emléktábla készítése | 16,5 |
 
-| 41. | Szászfa Község fejlesztési feladatainak támogatása | csapadékvíz-elvezetés | 10,0 |
+| 41. | Szászfa Község fejlesztési feladatainak támogatása | útfelújítás | 10,0 |
 
 | 42. | Szentdomonkos Község fejlesztési feladatainak támogatása | útfelújítás, vízelvezetés | 30,0 |
 
@@ -336,7 +336,7 @@
 
 ## Határidő: azonnal
 
-## 4. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – az egyes települési önkormányzatok fejlesztési feladatainak támogatása érdekében – a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére 485,6 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 38. Helyi érdekű települési fejlesztések III. cím alábbi alcímei javára, az 1. melléklet szerint:
+## 4.[^3] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – az egyes települési önkormányzatok fejlesztési feladatainak támogatása érdekében – a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére 485,6 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 38. Helyi érdekű települési fejlesztések III. cím alábbi alcímei javára, az 1. melléklet szerint:
 
 ## millió forintban
 
@@ -346,7 +346,7 @@
 
 | 2. | Kecskemét Megyei Jogú Város fejlesztési feladatainak támogatása | út- és járdafelújítás, közterületek fejlesztése | 75,5 |
 
-| 3. | Miskolc Megyei Jogú Város fejlesztési feladatainak támogatása | út- és járdafelújítás, parkolóépítés | 80,5 |
+| 3. | Miskolc Megyei Jogú Város fejlesztési feladatainak támogatása | út- és járdafelújítás | 80,5 |
 
 | 4. | Pécs Megyei Jogú Város fejlesztési feladatainak támogatása | járdafelújítás | 38,0 |
 
@@ -366,13 +366,13 @@
 
 ## Határidő: azonnal
 
-## 5.[^3] egyetért azzal, hogy a belügyminiszter a 2–4. pontok szerint átcsoportosított előirányzat terhére, az abban meghatározott támogatási célra, pályázat és támogatási kérelem benyújtása nélkül, támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján az érintett települési önkormányzatok részére költségvetési támogatást nyújtson, ha a 2–4. pontokban ismertetett támogatási cél igazoltan önkormányzati tulajdon fejlesztésére, törvényben meghatározott önkormányzati feladat ellátásához kapcsolódó fejlesztésre irányul, ha az így létrejövő vagyon az önkormányzat számviteli nyilvántartásában jelenik meg;
+## 5.[^4] egyetért azzal, hogy a belügyminiszter a 2–4. pontok szerint átcsoportosított előirányzat terhére, az abban meghatározott támogatási célra, pályázat és támogatási kérelem benyújtása nélkül, támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján az érintett települési önkormányzatok részére költségvetési támogatást nyújtson, ha a 2–4. pontokban ismertetett támogatási cél igazoltan önkormányzati tulajdon fejlesztésére, törvényben meghatározott önkormányzati feladat ellátásához kapcsolódó fejlesztésre irányul, ha az így létrejövő vagyon az önkormányzat számviteli nyilvántartásában jelenik meg;
 
-## 6.[^4] egyetért azzal, hogy a belügyminiszter az 5. pont szerinti költségvetési támogatást az önkormányzati tulajdon fejlesztésére, törvényben meghatározott önkormányzati feladat ellátásához kapcsolódó fejlesztésre irányuló támogatói okirat kiadását követően folyósítsa az érintett települési önkormányzatok számára;
+## 6.[^5] egyetért azzal, hogy a belügyminiszter az 5. pont szerinti költségvetési támogatást az önkormányzati tulajdon fejlesztésére, törvényben meghatározott önkormányzati feladat ellátásához kapcsolódó fejlesztésre irányuló támogatói okirat kiadását követően folyósítsa az érintett települési önkormányzatok számára;
 
 ## 7. egyetért azzal, hogy ha a 2–4. pontok szerinti költségvetési támogatás az érintett települési önkormányzatok számára a 2017. évben nem vagy nem teljes összegben kerül folyósításra, a 2018. évben a IX. Helyi önkormányzatok támogatásai fejezetben azonos elnevezéssel létrehozott címekre, alcímekre e határozatot kell alkalmazni;
 
-## 8.[^5] felhívja a belügyminisztert, hogy ha a 2–4. pontok szerinti költségvetési támogatás célja nem önkormányzati tulajdont érintő fejlesztésre, törvényben meghatározott önkormányzati feladat ellátásához kapcsolódó fejlesztésre irányul, gondoskodjon a megfelelő fejlesztési költség átcsoportosításáról az érintett fejezetet irányító miniszter részére az Áht. 33. § (4) bekezdés b) pontja szerint;
+## 8.[^6] felhívja a belügyminisztert, hogy ha a 2–4. pontok szerinti költségvetési támogatás célja nem önkormányzati tulajdont érintő fejlesztésre, törvényben meghatározott önkormányzati feladat ellátásához kapcsolódó fejlesztésre irányul, gondoskodjon a megfelelő fejlesztési költség átcsoportosításáról az érintett fejezetet irányító miniszter részére az Áht. 33. § (4) bekezdés b) pontja szerint;
 
 ## Felelős: belügyminiszter
 
@@ -414,8 +414,9 @@
 
 1. melléklet az 1717/2017. (X. 3.) Korm. határozathoz
 
-[^1]: A 2. pont az 1993/2017. (XII. 19.) Korm. határozat 1. pont a) alpontja, az 1082/2018. (III. 13.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
-[^2]: A 3. pont az 1993/2017. (XII. 19.) Korm. határozat 1. pont b) alpontja, az 1082/2018. (III. 13.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
-[^3]: Az 5. pont az 1993/2017. (XII. 19.) Korm. határozat 2. a) pontja szerint módosított szöveg.
-[^4]: A 6. pont az 1993/2017. (XII. 19.) Korm. határozat 2. b) pontja szerint módosított szöveg.
-[^5]: A 8. pont az 1993/2017. (XII. 19.) Korm. határozat 2. c) és d) pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1993/2017. (XII. 19.) Korm. határozat 1. pont a) alpontja, az 1082/2018. (III. 13.) Korm. határozat 1. pont a) alpontja, az 1697/2018. (XII. 17.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont az 1993/2017. (XII. 19.) Korm. határozat 1. pont b) alpontja, az 1082/2018. (III. 13.) Korm. határozat 1. pont b) alpontja, az 1697/2018. (XII. 17.) Korm. határozat 10. pont b) alpontja szerint módosított szöveg.
+[^3]: A 4. pont az 1697/2018. (XII. 17.) Korm. határozat 10. pont c) alpontja szerint módosított szöveg.
+[^4]: Az 5. pont az 1993/2017. (XII. 19.) Korm. határozat 2. a) pontja szerint módosított szöveg.
+[^5]: A 6. pont az 1993/2017. (XII. 19.) Korm. határozat 2. b) pontja szerint módosított szöveg.
+[^6]: A 8. pont az 1993/2017. (XII. 19.) Korm. határozat 2. c) és d) pontja szerint módosított szöveg.
