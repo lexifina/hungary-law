@@ -1,0 +1,179 @@
+# A Kormány 1697/2018. (XII. 17.) Korm. határozata
+
+Magyar Közlöny 2018. évi 201. szám, 2018. december 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/jtsZscbYuUJ326pDVyGb5c10eb6c87e80/dokumentumok/bbd5c2118c6f85338e4f0998b59ce6fb07b716e5/letoltes)
+
+---
+
+A Kormány 1697/2018. (XII. 17.) Korm. határozata
+a települési önkormányzat támogatásáról, egyes települési önkormányzatok támogatását érintő
+kormányhatározatok módosításáról és intézmény átadás-átvételhez kapcsolódó fejezetek közötti
+előirányzat-átcsoportosításról
+A Kormány
+1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított
+jogkörében eljárva elrendeli a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény
+(a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 83. Zagyvarékas Község
+Önkormányzata egyes fejlesztéseinek támogatása címmel történő kiegészítését;
+2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – a Zagyva-híd felújításának támogatása érdekében –
+a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú
+kiegészítő támogatásai cím terhére 65 910 244 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet
+IX. Helyi önkormányzatok támogatásai fejezet, 83. Zagyvarékas Község Önkormányzata egyes fejlesztéseinek
+támogatása cím javára, az 1. melléklet szerint;
+Felelős: pénzügyminiszter
+belügyminiszter
+Határidő: azonnal
+3. egyetért azzal, hogy a belügyminiszter a 2. pont szerint átcsoportosított előirányzat terhére az ott
+meghatározott célra, Zagyvarékas Község Önkormányzata részére, külön pályázat és kérelem benyújtása nélkül,
+az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya
+alá tartozó egyedi támogatást nyújtson a támogatás felhasználásának és elszámolásának részletes feltételeit
+meghatározó támogatói okirat alapján;
+4. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti egyedi költségvetési támogatást a támogatói okirat
+kiadását követően támogatási előlegként folyósítsa a kedvezményezett települési önkormányzat számára;
+5. elrendeli a Kvtv. 19. § (1) bekezdés a) pontjában biztosított jogkörében eljárva a Kvtv. 1. melléklet, IX. Helyi
+önkormányzatok támogatásai fejezet, 1. A helyi önkormányzatok általános működésének és ágazati feladatainak
+támogatása cím, 4. A települési önkormányzatok gyermekétkeztetési feladatainak támogatása alcím terhére
+a Kvtv. 1. melléklet, XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím javára 1 805 000 forint
+egyszeri átcsoportosítását, az 1. melléklet szerint;
+Felelős: pénzügyminiszter
+emberi erőforrások minisztere
+belügyminiszter
+Határidő: azonnal
+6. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok
+támogatásai fejezet
+a) 13. Helyi érdekű települési fejlesztések I. cím, 41. Gödöllő Város fejlesztési feladatainak támogatása alcím terhére
+– Gödöllő Város Önkormányzata uszoda közúti kapcsolatainak fejlesztése érdekében – 50 000 000 forint,
+b) 14. Helyi érdekű települési fejlesztések II. cím, 21. Sajókeresztúr Község fejlesztési feladatainak támogatása
+alcím terhére – Sajókeresztúr Község Önkormányzata 26141. jelű bekötőút 0+008 km és a 0+660 km
+szelvények közötti szakaszának felújítása érdekében – 38 848 000 forint
+egyszeri átcsoportosítását, a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok
+cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 34. Gödöllői uszoda beruházás jogcímcsoport javára
+50 000 000 forint összegben, valamint a XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti
+kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 30. jogcímcsoport, Közúthálózat felújítása
+jogcímcsoport javára 38 848 000 forint összegben, az 1. melléklet szerint;
+Felelős: pénzügyminiszter
+emberi erőforrások minisztere
+innovációért és technológiáért felelős miniszter
+belügyminiszter
+Határidő: azonnal
+7. egyetért azzal, hogy az innovációért és technológiáért felelős miniszter, valamint az emberi erőforrások minisztere
+a 6. pont szerint átcsoportosított összeg terhére intézkedjen az érintett fejlesztések megvalósítása érdekében;
+
+8. úgy dönt, hogy az egyes települési önkormányzatok feladatainak támogatása érdekében történő előirányzat-
+átcsoportosításokról szóló 1818/2016. (XII. 22.) Korm. határozat
+a) 2. pontjában foglalt táblázat„Támogatási cél”oszlopának 45. sorában a„Pesterzsébeti gyalogos- és kerékpáros
+híd utasforgalmi, kereskedelmi és vendéglátó kiszolgáló egységekkel projekt megvalósítása” szövegrésztől
+eltérően„pesterzsébeti önkormányzati beruházások, felújítások”szöveg,
+b) 3. pontjában foglalt táblázat„Támogatási cél” oszlopának 41. sorában a„belterületi kerékpárút építése, óvoda
+felújítása”szövegrésztől eltérően„belterületi kerékpárút építése, önkormányzati épület fejlesztése”szöveg,
+c) 5. pontjában foglalt táblázat„Támogatási cél” oszlopának 55. sorában a„tornaszoba kialakítása” szövegrésztől
+eltérően„vízelvezetés és útfelújítás”szöveg
+kerül;
+9. úgy dönt, hogy az egyes települési önkormányzatok feladatainak támogatása érdekében a IX. Helyi
+önkormányzatok támogatásai fejezetben történő előirányzat-átcsoportosításról szóló 1680/2017. (IX. 21.)
+Korm. határozat 2. pont a) alpontjában az „infrastrukturális fejlesztések megvalósítása érdekében” szövegrésztől
+eltérően az „infrastrukturális fejlesztések részben államháztartáson kívüli szervezet részére támogatásnyújtással
+történő megvalósítása érdekében”szöveg kerül;
+10. úgy dönt, hogy a helyi érdekű települési fejlesztések érdekében szükséges források biztosításáról, valamint
+a IX. Helyi önkormányzatok támogatásai és a XX. Emberi Erőforrások Minisztériuma költségvetési fejezetek közötti
+előirányzat-átcsoportosításról szóló 1717/2017. (X. 3.) Korm. határozat
+a) 2. pontjában foglalt táblázat„Támogatási cél”oszlopának
+aa) 20. sorában a„bölcsőde kialakítása”szövegrésztől eltérően az„útfelújítás”szöveg,
+ab) 34. sorában a„piac kialakítása”szövegrésztől eltérően az„utak korszerűsítése”szöveg,
+b) 3. pontjában foglalt táblázat„Támogatási cél” oszlopának 41. sorában a„csapadékvíz-elvezetés” szövegrésztől
+eltérően az„útfelújítás”szöveg,
+c) 4. pontjában foglalt táblázat „Támogatási cél” oszlopának 3. sorában az „út- és járdafelújítás, parkolóépítés”
+szövegrésztől eltérően az„út- és járdafelújítás”szöveg
+kerül.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1697/2018. (XII. 17.) Korm. határozathoz
+IX. Helyi önkormányzatok támogatásai
+XVII. Innovációs és Technológiai Minisztérium
+XX. Emberi Erőforrások Minisztériuma
+forintban
+Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- A módosítás jogcíme Módosítás A módosítás
+szám szám szám cím cím előir. név név név cím cím K I A D Á S O K (+/-) következő
+csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+IX. Helyi önkormányzatok támogatásai
+1 A helyi önkormányzatok általános működésének és ágazati feladatainak támogatása
+368673 4
+K5 -1 805 000
+359017 2 A helyi önkormányzatok működési célú kiegészítő támogatásai
+K5 Egyéb működési célú kiadások -65 910 244
+377139 83
+K8 Egyéb felhalmozási célú kiadások 65 910 244
+13 Helyi érdekű települési fejlesztések I.
+370940 41 Gödöllő Város fejlesztési feladatainak támogatása
+K8 Egyéb felhalmozási célú kiadások -50 000 000
+14 Helyi érdekű települési fejlesztések II.
+371562 21 Sajókeresztúr Község fejlesztési feladatainak támogatása
+K8 Egyéb felhalmozási célú kiadások -38 848 000
+XVII. Innovációs és Technológiai Minisztérium
+20 Fejezeti kezelésű előirányzatok
+32 Közlekedési ágazati programok
+358584 30 Közúthálózat felújítása
+K6 Beruházások 38 848 000
+XX. Emberi Erőforrások Minisztériuma
+227942 5 Egyetemek, főiskolák
+K3 1 805 000
+20 Fejezeti kezelésű előirányzatok
+24 Sportlétesítmények fejlesztése és kezelése
+348439 34 Gödöllői uszoda beruházás
+K6 Beruházások 50 000 000
+forintban
+Államháztartási Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- B E V É T E L A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím előir. név név név cím cím (+/-) következő
+azonosító csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+forintban
+Államháztartási Fejezet Cím Alcím Jog- Jog- Kiemelt Fejezet Cím Alcím Jog- Jog- T Á M O G A T Á S A módosítás jogcíme Módosítás A módosítás
+egyedi szám szám szám cím cím előir. név név név cím cím (+/-) következő
+azonosító csop. szám szám csop. név Kiemelt előirányzat évre
+szám név neve áthúzódó
+hatása
+XVII. Innovációs és Technológiai Minisztérium
+20 Fejezeti kezelésű előirányzatok
+32 Közlekedési ágazati programok
+358584 30 Közúthálózat felújítása 38 848 000
+XX. Emberi Erőforrások Minisztériuma
+227942 5 Egyetemek, főiskolák 1 805 000
+20 Fejezeti kezelésű előirányzatok
+24 Sportlétesítmények fejlesztése és kezelése
+348439 34 Gödöllői uszoda beruházás 50 000 000
+Foglalkoztatottak létszáma (fő) - időszakra
+Foglalkoztatottak létszáma (fő) - időszakra
+A támogatás folyósítása/zárolása (módosítása +/-) Összesen I.n.év II. n.év III.n.év IV.n.év
+Fejezetet irányító szerv időarányos
+Állami Számvevőszék teljesítményarányos
+Magyar Államkincstár egyéb: azonnal 156 563 244 156 563 244
+Pénzügyminisztérium
+* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+2 példány
+A módosítást elrendelő
+jogszabály/határozat száma
+A módosítást elrendelő
+jogszabály/határozat száma
+Az adatlap 5 példányban töltendő ki
+1 példány
+1 példány
+1 példány
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
+a Kormány hatáskörében
+Költségvetési év: 2018.
+A módosítást elrendelő
+jogszabály/határozat száma
+Államháztartási
+egyedi
+azonosító
+2017. évi C. tv. 19. § (1) bek. a) pont
+A települési önkormányzatok gyermekétkeztetési feladatainak támogatása
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű
+Dologi kiadások
+Zagyvarékas Község Önkormányzata egyes fejlesztéseinek támogatása
+Egyéb működési célú kiadások
