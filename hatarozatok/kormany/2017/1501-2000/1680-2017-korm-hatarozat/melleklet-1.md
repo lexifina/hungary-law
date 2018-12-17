@@ -16,9 +16,9 @@
 
 ## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím terhére elrendeli:
 
-## a) az 1. pont a) alpontja szerinti címre az infrastrukturális fejlesztések megvalósítása érdekében 1000,0 millió forint,
+## a)[^1] az 1. pont a) alpontja szerinti címre az infrastrukturális fejlesztések részben államháztartáson kívüli szervezet részére támogatásnyújtással történő megvalósítása érdekében 1000,0 millió forint,
 
-## b)[^1] az 1. pont b) alpontja szerinti címre a közösségi célt szolgáló ingatlanok (hrsz. 56, 1079/1, 1148, 1212/2, 1484) megújítása céljából 1200,5 millió forint,
+## b)[^2] az 1. pont b) alpontja szerinti címre a közösségi célt szolgáló ingatlanok (hrsz. 56, 1079/1, 1148, 1212/2, 1484) megújítása céljából 1200,5 millió forint,
 
 ## c) az 1. pont c) alpontja szerinti címre a városfejlesztési program folytatásának elősegítése érdekében a 6365/1 helyrajzi számú ingatlan megvásárlásához 460,0 millió forint,
 
@@ -34,15 +34,15 @@
 
 ## 3. egyetért azzal, hogy a belügyminiszter
 
-## a)[^2] a 2. pont szerint átcsoportosított összegek terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy vagy több részletben nyújtson támogatást az érintett önkormányzatok részére, valamint
+## a)[^3] a 2. pont szerint átcsoportosított összegek terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy vagy több részletben nyújtson támogatást az érintett önkormányzatok részére, valamint
 
-## b)[^3] a támogatások felhasználásának és elszámolásának részletes feltételeiről támogatási szerződést kössön az önkormányzatokkal, vagy részükre támogatói okiratot adjon ki;
+## b)[^4] a támogatások felhasználásának és elszámolásának részletes feltételeiről támogatási szerződést kössön az önkormányzatokkal, vagy részükre támogatói okiratot adjon ki;
 
 ## Felelős: belügyminiszter
 
 ## Határidő: azonnal
 
-## 4.[^4] egyetért azzal, hogy a belügyminiszter a 2. pont szerinti támogatást a 3. pont b) alpontja szerinti támogatási szerződés megkötését vagy a támogatói okirat kiadását követően folyósítsa az önkormányzatok számára.
+## 4.[^5] egyetért azzal, hogy a belügyminiszter a 2. pont szerinti támogatást a 3. pont b) alpontja szerinti támogatási szerződés megkötését vagy a támogatói okirat kiadását követően folyósítsa az önkormányzatok számára.
 
 ## Felelős: belügyminiszter
 
@@ -114,7 +114,8 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont b) alpontja a 2143/2017. (XII. 29.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^2]: A 3. pont a) alpontja az 1796/2017. (XI. 8.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
-[^3]: A 3. pont b) alpontja az 1796/2017. (XI. 8.) Korm. határozat 6. pont b) alpontja szerint módosított szöveg.
-[^4]: A 4. pont az 1796/2017. (XI. 8.) Korm. határozat 6. pont c) alpontja szerint módosított szöveg.
+[^1]: A 2. pont a) alpontja az 1697/2018. (XII. 17.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A 2. pont b) alpontja a 2143/2017. (XII. 29.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: A 3. pont a) alpontja az 1796/2017. (XI. 8.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
+[^4]: A 3. pont b) alpontja az 1796/2017. (XI. 8.) Korm. határozat 6. pont b) alpontja szerint módosított szöveg.
+[^5]: A 4. pont az 1796/2017. (XI. 8.) Korm. határozat 6. pont c) alpontja szerint módosított szöveg.
