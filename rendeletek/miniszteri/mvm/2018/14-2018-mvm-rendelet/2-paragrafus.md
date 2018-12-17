@@ -1,3 +1,3 @@
-## 1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet (a továbbiakban: R.) 42. §-a a következő (7) bekezdéssel egészül ki:
+## 1. §[^1]
 
-## „(7) E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a Miniszterelnökség fejezet címrendjének módosításáról szóló 1600/2018. (XI. 26.) Korm. határozattal összefüggő módosításáról szóló 14/2018. (XII. 15.) MvM rendelettel (a továbbiakban: Módr5.) megállapított rendelkezéseit a Módr5. hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
