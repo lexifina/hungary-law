@@ -116,7 +116,7 @@
 
 | 44. | Budapest XVIII. kerület feladatainak támogatása | óvoda és bölcsőde kapacitásbővítése | 100,0 |
 
-| 45. | Budapest XX. kerület feladatainak támogatása | Pesterzsébeti gyalogos és kerékpáros híd utasforgalmi, kereskedelmi és vendéglátó kiszolgáló egységekkel projekt megvalósítása | 1 000,0 |
+| 45. | Budapest XX. kerület feladatainak támogatása | pesterzsébeti önkormányzati beruházások, felújítások | 1 000,0 |
 
 | 46. | Budapest XXI. kerület feladatainak támogatása | Csepel és Szigetszentmiklós határszakaszán lévő utak felújítása | 800,0 |
 
@@ -296,7 +296,7 @@
 
 | 40. | Kiskunhalas Város feladatainak támogatása | önkormányzati ingatlanok fejlesztése a lovas iskola megvalósítása érdekében | 400,0 |
 
-| 41. | Kiskunmajsa Város feladatainak támogatása II. | belterületi kerékpárút építése, óvoda felújítása | 1 015,0 |
+| 41. | Kiskunmajsa Város feladatainak támogatása II. | belterületi kerékpárút építése, önkormányzati épület fejlesztése | 1 015,0 |
 
 | 42. | Kistarcsa Város feladatainak támogatása | útfelújítás | 200,0 |
 
@@ -684,7 +684,7 @@
 
 | 54. | Velence Város feladatainak támogatása | Hajdú-tanya vízellátásának kiépítése | 100,0 |
 
-| 55. | Veszprémvarsány Község feladatainak támogatása | tornaszoba kialakítása | 20,0 |
+| 55. | Veszprémvarsány Község feladatainak támogatása | vízelvezetés és útfelújítás | 20,0 |
 
 | 56. | Vezseny Község feladatainak támogatása | magnezit átemelő átépítése | 5,2 |
 
@@ -712,9 +712,9 @@
 
 1. melléklet az 1818/2016. (XII. 22.) Korm. határozathoz[^6]
 
-[^1]: A 2. pont az 1883/2016. (XII. 28.) Korm. határozat 3. pont a) alpontja, az 1345/2017. (VI. 9.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1883/2016. (XII. 28.) Korm. határozat 3. pont a) alpontja, az 1345/2017. (VI. 9.) Korm. határozat 1. pontja, az 1697/2018. (XII. 17.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
 [^2]: A 2. pont g) alpontja az 1722/2017. (X. 9.) Korm. határozat 3. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont a) pontja szerint módosított szöveg.
-[^3]: A 3. pont az 1345/2017. (VI. 9.) Korm. határozat 2. pontja, az 1722/2017. (X. 9.) Korm. határozat 4. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont b) pontja, az 1082/2018. (III. 13.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^3]: A 3. pont az 1345/2017. (VI. 9.) Korm. határozat 2. pontja, az 1722/2017. (X. 9.) Korm. határozat 4. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont b) pontja, az 1082/2018. (III. 13.) Korm. határozat 4. pont a) alpontja, az 1697/2018. (XII. 17.) Korm. határozat 8. pont b) alpontja szerint módosított szöveg.
 [^4]: A 4. pont az 1345/2017. (VI. 9.) Korm. határozat 3. pontja, az 1722/2017. (X. 9.) Korm. határozat 5. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont c) pontja, az 1082/2018. (III. 13.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
-[^5]: Az 5. pont az 1345/2017. (VI. 9.) Korm. határozat 4. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont d) pontja szerint módosított szöveg.
+[^5]: Az 5. pont az 1345/2017. (VI. 9.) Korm. határozat 4. pontja, az 1796/2017. (XI. 8.) Korm. határozat 4. pont d) pontja, az 1697/2018. (XII. 17.) Korm. határozat 8. pont c) alpontja szerint módosított szöveg.
 [^6]: Az 1. melléklet az 1883/2016. (XII. 28.) Korm. rendelet 3. pont b) alpontja szerint módosított szöveg.
