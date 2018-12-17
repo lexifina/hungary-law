@@ -1,0 +1,5 @@
+Magyarország jövője a jelen gyermekeiben és fiataljaiban, az ifjú tehetségekben rejlik. A felnövekvő nemzedékek elhivatottsága, tehetsége és kitartása adja azt a hajtóerőt, amely a jelenben még befektetést kíván, de annál több eredményhez segítheti hazánkat. A Kormány célkitűzései között szerepel a kiemelkedő teljesítményre képes fiatalok megtalálása és célzott segítése annak érdekében, hogy tehetségük kibontakozzon, és a lehető legjobban hasznosuljon. E célkitűzések megvalósítását szolgálják a jelen cselekvési programban tervezett intézkedések.
+
+A Kormány
+
+a Nemzeti Tehetség Program elfogadásáról, a Nemzeti Tehetség Program finanszírozásának elveiről, valamint a Nemzeti Tehetségügyi Koordinációs Fórum létrehozásának és működésének elveiről szóló 126/2008. (XII. 4.) OGY határozat 1. számú mellékleteként elfogadott, 2008–2028. évekre vonatkozó Nemzeti Tehetség Programban meghatározott célkitűzések végrehajtása érdekében
