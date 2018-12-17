@@ -20,7 +20,7 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: a felmerülés ütemében
 
-5. felhívja a nemzetgazdasági minisztert, hogy a váci Munkaerő-piaci Elhelyezkedést Segítő Speciális Fejlesztő Központ létrehozásához szükséges egyes kormányhatározatok módosításáról szóló 1531/2017. (VIII. 14.) Korm. határozat 2. pontjában foglalt, a váci ferences templom (2600 Vác, belterület 3515/2 helyrajzi szám) belső rekonstrukciójának megvalósítása érdekében gondoskodjon legfeljebb 569 803 280 forint forrás biztosításáról a 2018. évi Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport javára;
+5.[^1] felhívja a nemzetgazdasági minisztert, hogy a váci Munkaerő-piaci Elhelyezkedést Segítő Speciális Fejlesztő Központ létrehozásához szükséges egyes kormányhatározatok módosításáról szóló 1531/2017. (VIII. 14.) Korm. határozat 2. pontjában foglalt, a váci ferences templom (2600 Vác, belterület 3515/2 helyrajzi szám) belső rekonstrukciójának megvalósítása érdekében, valamint a volt ferences rendház befejező munkálataihoz gondoskodjon legfeljebb 569 803 280 forint forrás biztosításáról a 2018. évi Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport javára;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -46,4 +46,7 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: 2018. március 15.
 
-8. egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, valamint a fejezeti stabilitási tartalék előirányzatok felhasználásáról szóló 1679/2016. (XI. 29.) Korm. határozat 1. pontjától eltérően az elszámolási és a visszatérítési kötelezettség határideje 2018. december 31-e legyen.
+8.[^2] egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, valamint a fejezeti stabilitási tartalék előirányzatok felhasználásáról szóló 1679/2016. (XI. 29.) Korm. határozat 1. pontjától eltérően az elszámolási és a visszatérítési kötelezettség határideje 2019. június 30.-e legyen.
+
+[^1]: Az 5. pont az 1710/2018. (XII. 17.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^2]: A 8. pont az 1710/2018. (XII. 17.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
