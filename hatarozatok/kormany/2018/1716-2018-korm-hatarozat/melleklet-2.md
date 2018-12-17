@@ -1,0 +1,133 @@
+## Ösztöndíjprogram Keresztény Fiataloknak („Scholarship Programme for Christian Young People”) 2017/2018. tanév tavaszi félév
+
+## Felsőoktatási intézmény megnevezése Ösztöndíj mértéke
+
+## Budapesti Műszaki és Gazdaságtudományi Egyetem: 12 820 000 Ft
+
+## Liszt Ferenc Zeneművészeti Egyetem: 2 354 000 Ft
+
+## Pázmány Péter Katolikus Egyetem: 12 153 000 Ft
+
+## Debreceni Egyetem: 29 828 000 Ft
+
+## Miskolci Egyetem: 7 270 500 Ft
+
+## Pécsi Tudományegyetem: 55 221 380 Ft
+
+## Összesen: 119 646 880 Ft
+
+## Ösztöndíjprogram Keresztény Fiataloknak („Scholarship Programme for Christian Young People”) 2018/2019. tanév őszi félév
+
+## Felsőoktatási intézmény megnevezése Ösztöndíj mértéke
+
+## Budapesti Műszaki és Gazdaságtudományi Egyetem: 67 684 000 Ft
+
+## Debreceni Egyetem: 69 423 500 Ft
+
+## Dunaújvárosi Egyetem: 8 390 000 Ft
+
+## Eötvös Loránd Tudományegyetem: 10 839 000 Ft
+
+## Eszterházy Károly Egyetem: 5 029 500 Ft
+
+## Miskolci Egyetem: 6 132 000 Ft
+
+## Liszt Ferenc Zeneművészeti Egyetem: 5 038 000 Ft
+
+## Pázmány Péter Katolikus Egyetem: 32 123 000 Ft
+
+## Pécsi Tudományegyetem: 72 941 380 Ft
+
+## Szent István Egyetem: 22 828 000 Ft
+
+## Szegedi Tudományegyetem: 25 859 000 Ft
+
+## Összesen: 326 287 380 Ft
+
+## A két félév összes kiadása: 445 934 260 Ft
+
+2. melléklet az 1716/2018. (XII. 17.) Korm. határozathoz
+
+| Fejezetek megnevezése: XI. Miniszterelnökség XX. Emberi Erőforrások Minisztériuma ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2018. forintban |
+
+| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  | 28 |  |  |  |  |  | Üldözött keresztények segítésének feladatai |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 367217 |  |  |  |  | 1 |  |  |  |  |  | Ösztöndíjprogram támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -445 934 260 |  |  |  |
+
+|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 227942 |  | 5 |  |  |  |  |  | Egyetemek, főiskolák |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K4 |  |  |  |  |  | Ellátottak pénzbeli juttatásai |  |  |  |  |  |  |  |  | 401 658 260 |  |  |  |
+
+|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 2 |  |  |  |  |  | Normatív finanszírozás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 333795 |  |  |  | 2 |  |  |  |  |  | Nem állami felsőoktatási intézmények támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 44 276 000 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
+
+| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
+
+| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  | 28 |  |  |  |  |  | Üldözött keresztények segítésének feladatai |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 367217 |  |  |  |  | 1 |  |  |  |  |  | Ösztöndíjprogram támogatása |  |  |  |  |  |  |  |  | -445 934 260 |  |  |  |
+
+|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 227942 |  | 5 |  |  |  |  |  | Egyetemek, főiskolák |  |  |  |  |  |  |  |  |  |  |  |  | 401 658 260 |  |  |  |
+
+|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  | 2 |  |  |  |  |  | Normatív finanszírozás |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 333795 |  |  |  | 2 |  |  |  |  |  | Nem állami felsőoktatási intézmények támogatása |  |  |  |  |  |  |  |  | 44 276 000 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  | Összesen |  |  |  |  |  |  |  |  | I. n.év | II. n.év | III. n.év | IV. n.év |
+
+| Fejezetet irányító szerv |  | 2 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár |  |  |  | 1 példány |  |  | egyéb: azonnal |  |  | 445 934 260 |  |  |  |  |  |  |  |  |  |  |  | 445 934 260 |
+
+| Pénzügyminisztérium |  |  |  |  | 1 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
