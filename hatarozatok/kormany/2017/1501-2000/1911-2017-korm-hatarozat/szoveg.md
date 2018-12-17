@@ -8,7 +8,7 @@ b) az archivális raktárhoz kapcsolódó szolgáltató raktárnak a Budapest, b
 
 történő megvalósítását célzó beruházás előkészítésével;
 
-2.[^1] az 1. pont a) alpont szerinti beruházás a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés j), m) és o) pontja szerinti előkészítési fázisaira összesen 467 930 000 forint, az 1. pont b) alpont szerinti beruházás Korm. rendelet 2. § (2) bekezdés b), f), m) és o) pontjai szerinti előkészítési fázisaira összesen 484 790 000 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére, azzal, hogy az előkészítési fázisokat az 1. pont a) alpontja szerinti beruházás tekintetében 2019. március 31-ig, az 1. pont b) alpontja szerinti beruházás tekintetében 2019. december 31-ig kell megvalósítani;
+2.[^1] az 1. pont a) alpont szerinti beruházás a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés j), m) és o) pontja szerinti előkészítési fázisaira összesen 467 930 000 forint, az 1. pont b) alpont szerinti beruházás Korm. rendelet 2. § (2) bekezdés b), f), m) és o) pontjai szerinti előkészítési fázisaira összesen 484 790 000 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére, azzal, hogy az előkészítési fázisokat az 1. pont a) alpontja szerinti beruházás tekintetében legkésőbb 2019. október 31-ig, az 1. pont b) alpontja szerinti beruházás tekintetében 2019. december 31-ig kell megvalósítani;
 
 3. az 1. pont a) és b) alpontjai szerinti beruházás előkészítésének kormányzati felelőseként a nemzeti fejlesztési minisztert jelöli ki;
 
@@ -28,7 +28,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 emberi erőforrások minisztere
 
-Határidő: az 1. pont a) alpontja szerinti beruházás tekintetében 2019. április 30., az 1. pont b) alpontja szerinti beruházás tekintetében 2019. december 31.
+Határidő: az 1. pont a) alpontja szerinti beruházás tekintetében 2019. november 30., az 1. pont b) alpontja szerinti beruházás tekintetében 2019. december 31.
 
 b)[^3] készítsen előterjesztést az 1. pont szerinti beruházások megvalósításának további kérdéseiről, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, az ütemezés és a felelősök bemutatásával.
 
@@ -36,7 +36,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 emberi erőforrások minisztere
 
-Határidő: az 1. pont a) alpontja szerinti beruházás tekintetében 2019. április 30., az 1. pont b) alpontja szerinti beruházás tekintetében 2019. december 31.
+Határidő: az 1. pont a) alpontja szerinti beruházás tekintetében 2019. november 30., az 1. pont b) alpontja szerinti beruházás tekintetében 2019. december 31.
 
 7.[^4] egyetért azzal, hogy a 2. pont alapján az 1. pont b) alpontja szerinti beruházásra biztosított 484 790 000 forint forrás összegből 230 570 000 forint az 1. pont a) alpontja szerinti beruházás Korm. rendelet 2. § (2) bekezdés j), m) és o) pontja szerinti előkészítési fázisaira kerüljön felhasználásra azzal, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter kezdeményezésére kerüljön sor az 1. pont b) alpontja szerinti beruházás előkészítéséhez szükséges forrás visszapótlására a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: 2019. évi Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2019. évi Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 1. Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai jogcím javára.
 
@@ -44,7 +44,7 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: a visszapótlás tekintetében a felmerülés ütemében, a fel nem használt rész visszafizetése tekintetében a 6. pont a) alpontja szerinti jelentés tudomásulvételét követő 15 napon belül
 
-[^1]: A 2. pont az 1427/2018. (IX. 10.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
-[^2]: A 6. pont a) alpontja az 1427/2018. (IX. 10.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
-[^3]: A 6. pont b) alpontja az 1427/2018. (IX. 10.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^1]: A 2. pont az 1427/2018. (IX. 10.) Korm. határozat 2. pont a) alpontja, az 1710/2018. (XII. 17.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 6. pont a) alpontja az 1427/2018. (IX. 10.) Korm. határozat 2. pont b) alpontja, az 1710/2018. (XII. 17.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^3]: A 6. pont b) alpontja az 1427/2018. (IX. 10.) Korm. határozat 2. pont c) alpontja, az 1710/2018. (XII. 17.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
 [^4]: A 7. pontot az 1427/2018. (IX. 10.) Korm. határozat 1. pontja iktatta be.
