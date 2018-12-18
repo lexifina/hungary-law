@@ -1,4 +1,4 @@
-## 2. §[^5] A hulladékgazdálkodási közszolgáltatás ideiglenes ellátását (a továbbiakban: ideiglenes ellátás) és a szükségellátást megelőzően a településen hulladékgazdálkodási közszolgáltatást végző gazdálkodó szervezet a folyamatos ellátás biztosítása érdekében – a személyes adatok kivételével – az ideiglenes ellátáshoz vagy a szükségellátáshoz kapcsolódó, hulladékszállításhoz és hulladékkezelésre történő átadáshoz szükséges adatokat a katasztrófavédelmi szerv – és ideiglenes ellátás esetén – a Koordináló szerv részére annak felhívására haladéktalanul átadja.
+## 2. §[^5] A hulladékgazdálkodási közszolgáltatás ideiglenes ellátását (a továbbiakban: ideiglenes ellátás) és a szükségellátást megelőzően a településen hulladékgazdálkodási közszolgáltatást végző gazdálkodó szervezet a folyamatos ellátás biztosítása érdekében – a személyes adatok kivételével – az ideiglenes ellátáshoz vagy a szükségellátáshoz kapcsolódó, hulladékszállításhoz és hulladékkezelésre történő átadáshoz szükséges adatokat a katasztrófavédelmi szerv és a Koordináló szerv részére annak felhívására haladéktalanul átadja.
 
 ## 2. Az ideiglenes ellátás
 
@@ -46,7 +46,7 @@ c)[^12] országos környezetvédelmi hatóságot, valamint
 
 d)[^13] a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős minisztert.
 
-[^5]: A 2. § a 330/2016. (XI. 4.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § a 330/2016. (XI. 4.) Korm. rendelet 7. § b) pontja, a 249/2018. (XII. 17.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdése a 330/2016. (XI. 4.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § (2) bekezdés b) pontja a 330/2016. (XI. 4.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^8]: A 3. § (4) bekezdés d) pontja a 330/2016. (XI. 4.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

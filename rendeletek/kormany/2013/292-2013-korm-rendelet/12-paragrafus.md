@@ -2,20 +2,14 @@
 
 ## 4. A díjfizetés és az elszámolás
 
-12. § (1) A szükségellátás település egészére vetített költségét a katasztrófavédelmi szerv, az ingatlanhasználó által fizetendő költséget a település egészére vetített költség figyelembevételével – a (2) bekezdés d) pontja szerinti költségelemet is meghatározva – a települési önkormányzat állapítja meg.
+12. §[^18] (1) A szükségellátás költségét a katasztrófavédelmi szerv állapítja meg.
 
-(2) A szükségellátás költségeinek meghatározásánál
+(2) A szükségellátás költségeinek meghatározásánál érvényesíteni lehet:
 
-a) szolgáltatás igénybevétele miatt fizetendő kártalanítás összegét,
+a) a szolgáltatás igénybevétele miatt fizetendő kártalanítás összegét,
 
 b) a hulladék szállításának és kezelésének költségét,
 
-c) a hulladék gyűjtéséhez szükséges fogyó eszközök biztosításának, valamint a biztonságos munkavégzéséhez szükséges eszközök költségét,
+c) a hulladék gyűjtéséhez szükséges fogyóeszközök biztosításának, valamint a biztonságos munkavégzéséhez szükséges eszközök költségét.
 
-d) a települési önkormányzatnál felmerülő számlázási és díjbeszedési költséget
-
-## lehet érvényesíteni.
-
-(3) A szükségellátás természetes személy ingatlanhasználót terhelő költsége meghatározásánál a 4. § (1) bekezdésének szabályait megfelelően alkalmazni kell.
-
-(4) A szükségellátás költségének mértékéről és megfizetésének módjáról a települési önkormányzat a helyben szokásos módon, továbbá, ha azzal rendelkezik, a honlapján való közzététellel értesíti a lakosságot.
+[^18]: A 12. § a 249/2018. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.

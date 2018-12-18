@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-292-20-
 | 2017-01-01 | 2013-292-20-22.10 | 330/2016. (XI. 4.) Korm. rendelet |
 | 2018-07-15 | 2013-292-20-22.11 | 105/2018. (VI. 15.) Korm. rendelet |
 | 2018-07-26 | 2013-292-20-22.12 | 132/2018. (VII. 23.) Korm. rendelet |
+| 2018-12-18 | 2013-292-20-22.13 | 249/2018. (XII. 17.) Korm. rendelet |
