@@ -34,7 +34,7 @@
 
 ## Határidő: 2019. december 31.
 
-## 5. visszavonja a hazai pályakerékpáros edzőcsarnokok megvalósítását célzó beruházások előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 2020/2017. (XII. 22.) Korm. határozatot.
+## 5.[^1]
 
 1. melléklet az 1695/2018. (XII. 17.) Korm. határozathoz
 
@@ -113,3 +113,5 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
