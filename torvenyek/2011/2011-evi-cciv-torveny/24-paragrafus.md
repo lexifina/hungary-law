@@ -30,6 +30,8 @@ c) szerinti vezetői illetménypótlék mértékét a rektor, kancellár tekinte
 
 d) 69. §-ában foglaltaktól kormányrendelet a magasabb vezető vezetői illetménypótlékának számítási alapja tekintetében eltérhet,
 
-e) 70. § (2) bekezdésétől kormányrendelet eltérhet.
+e) 70. § (2) bekezdésétől kormányrendelet eltérhet,
 
-(7) Az állami felsőoktatási intézményben a 13. § (2) bekezdése és a 13/A. § (2) bekezdés e) pontja szerinti munkáltatói jogok gyakorlásának rendjét a rektor és a kancellár utasításban szabályozza. A munkáltatói jogkör gyakorlásának rendjében bekövetkezett változásokról – ideértve a munkáltatói jogok utasításban történő átruházását is – az érintettet közvetlenül írásban is értesíteni kell és az utasítást szervezeti és működési szabályzattal azonos módon közzé kell tenni.
+f) 20/A. § (6) bekezdésében foglaltakat azzal kell alkalmazni, hogy a kancellári pályázati eljárásban a bizottságban a felsőoktatási intézmény rektora részt vesz.
+
+(7) Az állami felsőoktatási intézményben a 13. § (2) bekezdése, a 13/A. § (2) bekezdés e) pontja és a 14. § (3) bekezdése szerinti munkáltatói jogok gyakorlásának rendjét a rektor és a kancellár utasításban szabályozza. A munkáltatói jogkör gyakorlásának rendjében bekövetkezett változásokról – ideértve a munkáltatói jogok utasításban történő átruházását is – az érintettet közvetlenül írásban is értesíteni kell és az utasítást szervezeti és működési szabályzattal azonos módon közzé kell tenni.

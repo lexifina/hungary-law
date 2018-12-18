@@ -214,7 +214,7 @@
 
 ## e) doktori iskolai tagság,
 
-## f) oktatói tevékenységét mely szak, szakok képzése keretében folytatja.
+## f)
 
 ## 2. Az 1. pontban fel nem sorolt személyes és különleges adat az érintett írásbeli hozzájárulásával tartható nyilván.
 

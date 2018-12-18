@@ -2,11 +2,13 @@
 
 (2) Alapképzésre és osztatlan képzésre történő felvétel
 
-a) feltétele az érettségi vizsga sikeres teljesítése,
+a) feltétele az érettségi vizsga sikeres teljesítése vagy felsőfokú végzettséget igazoló oklevél,
 
 b) feltétele lehet meghatározott szintű nyelvtudás,
 
-c) feltétele lehet egészségügyi –, szakmai –, pályaalkalmassági vizsgálat.
+c) feltétele lehet egészségügyi –, szakmai –, pályaalkalmassági vizsgálat,
+
+d) feltétele lehet gyakorlati vizsga teljesítése.
 
 (3) A felvételi eljárást megelőzően legalább két évvel
 
@@ -14,7 +16,7 @@ a) a Kormány rendeletben határozza meg a felsőoktatási intézménybe törté
 
 b) az azonos szakon képzést folytató felsőoktatási intézmények – a kormányrendeletben foglaltak szerint – szakonként egységes alkalmassági, szóbeli felvételi vizsgakövetelményeket határozhatnak meg.
 
-(4) Mesterképzésre az vehető fel, aki alapképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett.
+(4) Mesterképzésre az vehető fel, aki legalább alapképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett.
 
 (5) Szakirányú továbbképzésre az vehető fel, aki alapképzésben vagy mesterképzésben szerzett fokozattal és szakképzettséggel rendelkezik. Szakirányú továbbképzés esetében felvételi előfeltételként meghatározott munkakör betöltése, meghatározott időtartamú szakmai gyakorlat, további szakképzettség megléte is kiköthető.
 

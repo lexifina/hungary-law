@@ -1,1 +1,1 @@
-41/G. § Az elsőfokú eljárásban igazolási kérelem nem terjeszthető elő.
+41/G. § Az eljárás során igazolási kérelem nem terjeszthető elő.

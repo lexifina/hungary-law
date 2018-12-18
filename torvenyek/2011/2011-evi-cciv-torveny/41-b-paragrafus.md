@@ -1,1 +1,1 @@
-41/B. § Az elsőfokú döntés a közléssel véglegessé válik.
+41/B. § A döntés a közléssel véglegessé válik.

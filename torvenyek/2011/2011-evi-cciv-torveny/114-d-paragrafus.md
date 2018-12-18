@@ -8,7 +8,7 @@ ba) a képzési és kutatási szakaszban 1 680 000 Ft/év,
 
 bb) a kutatási és disszertációs szakaszban 2 160 000 Ft/év,
 
-bc) a doktori képzés során sikeres fokozatszerzés esetén egyszeri 400 000 Ft.
+bc) a doktori fokozatszerzés esetén egyszeri 400 000 Ft.
 
 c) a nemzeti felsőoktatási ösztöndíjban részesülők normatívája 400 000 Ft/év,
 

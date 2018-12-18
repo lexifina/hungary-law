@@ -12,7 +12,7 @@ b) magyar állami részösztöndíjjal támogatott hallgató,
 
 c) önköltséges hallgató.
 
-(2) Az (1) bekezdésben meghatározott hallgatók számára – kormányrendeletben meghatározottak szerint – a magyar állam biztosítja a hallgatói hitel igénybevételének lehetőségét.
+(2) A hallgatók számára – kormányrendeletben meghatározottak szerint – a magyar állam biztosítja a hallgatói hitel igénybevételének lehetőségét.
 
 (2a)
 

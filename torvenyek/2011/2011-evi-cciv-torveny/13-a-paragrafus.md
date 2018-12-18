@@ -10,7 +10,7 @@ c) a felsőoktatási intézmény rendelkezésére álló források felhasználá
 
 d) gyakorolja az intézmények részvételével működő gazdasági társaságokban és gazdálkodó szervezetekben a tulajdonosi jogokat,
 
-e) a 13. § (2) bekezdésében meghatározott kivétellel munkáltatói jogot gyakorol a felsőoktatási intézményben foglalkoztatott alkalmazottak felett, gondoskodik a jogszabályoknak megfelelő pénzügyi-szakmai kompetencia biztosításáról,
+e) a 13. § (2) bekezdésében, valamint a 14. § (3) bekezdésében meghatározott kivétellel munkáltatói jogot gyakorol a felsőoktatási intézményben foglalkoztatott alkalmazottak felett, gondoskodik a jogszabályoknak megfelelő pénzügyi-szakmai kompetencia biztosításáról,
 
 f) gondoskodik a gazdasági vezetői feladatok ellátásáról, megbízza a gazdasági vezetőt, visszavonja a gazdasági vezető megbízását,
 

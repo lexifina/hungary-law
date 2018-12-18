@@ -16,9 +16,9 @@ d) külföldi felsőoktatási intézmények esetében ellenőrzésének eredmén
 
 e) felhívja a felsőoktatási intézmény figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezi annak megszüntetésére, ha megállapítja, hogy a felsőoktatási intézmény a jogszabályban, az intézményi szabályzatban, illetve hatósági döntésben foglalt előírásokat megsértette, és a jogszabály, a szabályzat vagy a hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható.
 
-(3) Az oklevél-, oklevélmelléklet-nyomtatvány előállításához, forgalmazásához az oktatási hivatal engedélye szükséges.
+(3)
 
-(4) A 67. §-ban és e § (1)–(3) bekezdésében szabályozott eljárásokra, hatósági ellenőrzésekre az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
+(4) A 67. §-ban és e § (1)–(2) bekezdésében szabályozott eljárásokra, hatósági ellenőrzésekre az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
 
 (5) Az ügyintézési határidő
 

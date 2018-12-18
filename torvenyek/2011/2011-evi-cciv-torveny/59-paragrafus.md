@@ -8,7 +8,7 @@ b) ha a hallgató bejelenti, hogy megszünteti a hallgatói jogviszonyát, a bej
 
 c) ha a hallgató nem folytathatja tanulmányait magyar állami (rész)ösztöndíjjal támogatott képzésben, és önköltséges képzésben nem kívánja azt folytatni,
 
-d) az adott képzési ciklust, illetve a szakirányú továbbképzés, felsőoktatási szakképzés esetén az utolsó képzési időszakot követő első záróvizsga-időszak utolsó napján,
+d) azon félév utolsó napján, amelyben a hallgató a végbizonyítványt (abszolutóriumot) megszerezte,
 
 e) felsőoktatási szakképzésben, ha a hallgató tanulmányainak folytatására egészségileg alkalmatlanná vált, és a felsőoktatási intézményben nem folyik másik, megfelelő felsőoktatási szakképzés, vagy a hallgató nem kíván továbbtanulni, illetve a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább, a megszüntetés tárgyában hozott döntés véglegessé válásának napján,
 
@@ -22,11 +22,11 @@ i) ha a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vev
 
 j) ha a doktorandusz a komplex vizsgát nem teljesíti, a kötelezettség elmulasztásának, illetve sikertelenségének napján,
 
-k) a doktori képzésben az abszolutórium megszerzésével,
+k)
 
 l) a doktori képzés azon nyolcadik féléve végén, amelyre a hallgató bejelentkezett.
 
-(2) Az (1) bekezdés d) pontjában foglaltak szerint nem szűnik meg az alapképzésben részt vevő hallgató hallgatói jogviszonya, ha az alapfokozat megszerzését követően a soron következő félévre mesterképzésre felvételt nyert.
+(2)
 
 (3) A felsőoktatási intézmény egyoldalú nyilatkozattal is megszünteti annak a hallgatónak a hallgatói jogviszonyát, aki
 

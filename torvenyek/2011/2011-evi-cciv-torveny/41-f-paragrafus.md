@@ -19,3 +19,5 @@ a) annak elbírálására a felsőoktatási információs rendszer működésé�
 b) idő előtti vagy elkésett,
 
 c) nyilvánvalóan nem az előterjesztésére jogosulttól származik.
+
+(3) A felvételi eljárásban méltányosságnak helye nincs.

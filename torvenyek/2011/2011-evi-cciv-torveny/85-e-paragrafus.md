@@ -2,4 +2,4 @@
 
 (2) Az ebben az alcímben foglalt hallgatói juttatások az államilag támogatott hallgatót a támogatási idő tartama alatt a magyar állami ösztöndíjas hallgatóval azonos mértékben, módon és feltételekkel illeti meg.
 
-(3) A 85/C. § a) és b) pontjában meghatározott teljesítmény vagy szociális alapú ösztöndíjra kormányrendelet szerint jogosult hallgatót e juttatás – a 85/C. § a) pont ac) alpontjában, valamint b) pont bd) alpontjában foglalt ösztöndíjat ide nem értve – legfeljebb a 47. § szerinti támogatási idővel azonos időtartamban illeti meg.
+(3) A 85/C. § a) és b) pontjában meghatározott teljesítmény vagy szociális alapú ösztöndíjra kormányrendelet szerint jogosult hallgatót e juttatás – a 85/C. § a) pont ac) alpontjában, valamint b) pont bc) és bd) alpontjában foglalt ösztöndíjat ide nem értve – legfeljebb a 47. § szerinti támogatási idővel azonos időtartamban illeti meg.

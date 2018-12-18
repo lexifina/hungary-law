@@ -4,6 +4,6 @@
 
 (2) A felvételi eljárás a jelentkező felsőoktatási intézmény által meghirdetett képzésre való jelentkezési kérelmére indul meg.
 
-(3) Jelentkező az, aki a jelentkezési lapon megjelölt képzésen részt kíván venni. Ellenkező bizonyításig a jelentkezési kérelem benyújtójának a jelentkezőt kell tekinteni.
+(3) Jelentkező az, aki a jelentkezési kérelemben megjelölt képzésen részt kíván venni. Ellenkező bizonyításig a jelentkezési kérelem benyújtójának a jelentkezőt kell tekinteni.
 
 (4) Az eljárást hivatalból is meg kell indítani, ha erre a felügyeleti szerv utasítást ad vagy bíróság kötelez.

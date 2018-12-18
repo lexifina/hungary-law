@@ -2,7 +2,7 @@
 
 82. § (1) A magyar állami (rész)ösztöndíjjal támogatott képzés keretében a hallgató által térítési díj fizetése mellett igénybe vehető:
 
-a) az alap- és mesterképzés tantervében magyar nyelven meghatározott, magyar nyelven oktatott ismereteknek – a hallgató választása alapján – nem magyar nyelven történő oktatása,
+a) az alap- és mesterképzés tantervében magyar nyelven meghatározott, magyar nyelven oktatott ismereteknek – a hallgató választása alapján – nem magyar nyelven történő oktatása, ide nem értve azt, ha a tanterv idegen nyelven kötelezően teljesítendő tanulmányi követelményt tartalmaz,
 
 b) a felsőoktatási intézmény eszközeivel előállított, a felsőoktatási intézmény által a hallgató részére biztosított, a hallgató tulajdonába kerülő dolog (pl. sokszorosított segédletek),
 

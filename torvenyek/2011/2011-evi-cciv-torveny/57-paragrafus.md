@@ -32,6 +32,6 @@ c) a döntést megváltoztatja,
 
 d) a döntést megsemmisíti, és a döntéshozót új eljárás lefolytatására utasítja.
 
-(6) A jogorvoslati kérelem elbírálása során a tényállás tisztázására, az igazolásra, a döntés alakjára, tartalmára, a döntés kérelemre vagy hivatalból történő kijavítására, kiegészítésére, módosítására vagy visszavonására az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A másodfokú döntés a közléssel végleges.
+(6) A jogorvoslati kérelem elbírálása során az igazolásra, a döntés alakjára, tartalmára, a döntés kérelemre vagy hivatalból történő kijavítására, kiegészítésére, módosítására vagy visszavonására az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A másodfokú döntés a közléssel végleges.
 
 (7)
