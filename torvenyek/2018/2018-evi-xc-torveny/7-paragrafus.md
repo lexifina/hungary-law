@@ -1,5 +1,1 @@
-7. § Az elismerési törvény 55. § (6) bekezdése helyébe a következő rendelkezés lép, és a § a következő (7) bekezdéssel egészül ki.
-
-„(6) Az ebben a szakaszban szabályozott riasztás ellen a 11. § szerinti hatósághoz fellebbezés nyújtható be. A határozatot a riasztási mechanizmusban közreműködő hatóság a (3) bekezdés szerinti tartalommal és a riasztásról szóló tájékoztatás megadásával megegyező időpontban írásban közli azzal a személlyel, akit a szakma gyakorlásától eltiltottak vagy akinek a szakmagyakorlási jogát felfüggesztették. A fellebbezés tényéről a riasztási mechanizmusban közreműködő hatóság a fellebbezés kézhezvételét követő három napon belül tájékoztatást ad a belső piaci információs rendszeren keresztül a többi tagállam illetékes hatóságának.
-
-(7) A riasztási mechanizmusban közreműködő hatóság a szakma gyakorlásától eltiltó vagy a szakmagyakorlást felfüggesztő döntés visszavonásának hatálybalépését vagy az ilyen döntés időbeli hatályának leteltét követő három napon belül az (1) bekezdés szerint nyújtott tájékoztatást visszavonja.”
+7. §

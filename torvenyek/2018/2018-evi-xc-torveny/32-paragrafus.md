@@ -2,17 +2,17 @@
 
 a) 44. § (1) bekezdés b) pontja és (3) bekezdés b) pontja,
 
-b) 48/B. § (4) bekezdésében az „és a 48/A. § c) pontjában foglaltak a hitéleti képzés sajátos követelményeinek figyelembe vételével érvényesíthetők” szövegrész,
+b)
 
-c) 48/K. §-ában a „ , másodfokon az oktatásért felelős miniszter” szövegrész,
+c)
 
-d) 48/N. § (3) bekezdése,
+d)
 
-e) 48/S. §-ában a „c) és” szövegrész,
+e)
 
 f) 52/A. § (1) bekezdésében az „és oklevélmellékletet” szövegrész,
 
-g) 53. § (4) bekezdésében az „ , a 45. § (2) bekezdésben szabályozott” szövegrész,
+g)
 
 h) 57. § (6) bekezdésében az „a tényállás tisztázására,” szövegrész,
 
@@ -22,7 +22,7 @@ j) 68. § (3) bekezdése,
 
 k) 79. § (2) bekezdése,
 
-l) 114/A. § (1) bekezdésében a „ , doktori képzésre”szövegrész,
+l)
 
 m) 114/D. § (1) bekezdés b) pont bc) alpontjában a „képzés során sikeres” szövegrész,
 

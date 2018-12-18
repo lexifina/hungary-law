@@ -28,13 +28,13 @@
 
 14. 46. § (2) bekezdésében az „Az (1) bekezdésben meghatározott hallgatók” szövegrész helyébe az „A hallgatók”,
 
-15. 47. § (1a) bekezdésében a „továbbá a Kormány” szövegrész helyébe a „szakmai tanárszakon, továbbá a Kormány”,
+15.
 
 16. 47. § (3) bekezdésében az „Egy adott fokozat (oklevél)” szövegrész helyébe az „Az (1) bekezdés szerinti képzésben az oklevél”,
 
-17. 48/B. § (1) bekezdésében a „b) pontjában” szövegrész helyébe a „b) és c) pontjában”,
+17.
 
-18. 48/B. § (4) bekezdésében a „48/A. § b) és d) pontjában” szövegrész helyébe a „48/A. §-ban”,
+18.
 
 19. 68. § (4) bekezdésében a „(1)–(3) bekezdésében” szövegrész helyébe a „(1)–(2) bekezdésében”,
 
@@ -42,10 +42,10 @@
 
 21. 85/E. § (3) bekezdésében a „bd) alpontjában” szövegrész helyébe a „bc) és bd) alpontjában”,
 
-22. 108. § 4. pontjában az „illetve azokra” szövegrész helyébe az „illetve ha azt a felsőoktatási intézmény szabályzata lehetővé teszi, azokra”,
+22.
 
-23. 114/D. § (1) bekezdés a) pontjában a „119 000 Ft/év” szövegrész helyébe a „128 520 Ft/év”, e) pontjában a „60 000 Ft/év” szövegrész helyébe a „67 200 Ft/év”, f) pontjában a „11 900 Ft/év” szövegrész helyébe a „14 566 Ft/év”,
+23.
 
-24. 114/D. § (1) bekezdés a) pontjában a „128 520 Ft/év” szövegrész helyébe a „166 600 Ft/év”
+24.
 
 szöveg lép.

@@ -9,9 +9,3 @@
 (4) A 26. § és a 32. § l) pontja 2019. szeptember 1-jén lép hatályba.
 
 (5) A 31. § 24. pontja 2020. február 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Dr. Latorcai János s. k.,az Országgyűlés alelnöke
