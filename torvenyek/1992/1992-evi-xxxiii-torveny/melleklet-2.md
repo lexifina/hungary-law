@@ -871,3 +871,51 @@ Kollégiumi nevelőtanár
 |
 
 37
+
+|
+
+56.
+
+|
+
+Szakmódszertant oktató tanár
+
+|
+
+3.
+
+|
+
+47
+
+|
+
+57.
+
+|
+
+Szakmódszertant oktató tanár
+
+|
+
+2.
+
+|
+
+42
+
+|
+
+58.
+
+|
+
+Szakmódszertant oktató tanár
+
+|
+
+1.
+
+|
+
+37
