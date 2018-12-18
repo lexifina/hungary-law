@@ -132,7 +132,7 @@
 
 ## Határidő: a támogatási szerződésnek a támogatás felhasználása és utólagos elszámolása feltételeinek, valamint a feladat műszaki tartalmának és ütemezésének rögzítésével való megkötése esetében a 11. pont 11.1. alpontja teljesülését követően azonnal
 
-## 16. visszavonja a Budapest Liszt Ferenc Nemzetközi Repülőtérre vezető gyorsforgalmi út fejlesztésével kapcsolatos intézkedésekről szóló 1194/2018. (IV. 4.) Korm. határozatot.
+## 16.[^1]
 
 1. melléklet az 1693/2018. (XII. 17.) Korm. határozathoz
 
@@ -207,3 +207,5 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
