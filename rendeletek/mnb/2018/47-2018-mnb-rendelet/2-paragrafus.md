@@ -1,0 +1,3 @@
+2. § (1) A Magyar Nemzeti Bank (a továbbiakban: MNB) Innovációs Pénzügyi Tesztkörnyezetet (a továbbiakban: IPT) működtet, amelynek célja, hogy a pénzügyi szervezetek ügyfeleik számára innovatív megoldást nyújtsanak, különösen a pénzügyi szervezetek szolgáltatásai igénybevételi módjának megújítása és hatékonyságának növelése tekintetében.
+
+(2) Az IPT-ben való részvétel feltétele, hogy az MNB a pénzügyi szervezet kérelmére az MNB tv. 48. § (1) bekezdés a) pontja szerinti engedélyezési eljárásra vonatkozó eljárási szabályok szerint, a 4. § (1) bekezdés szerinti határozatában foglalt időponttól engedélyezze a 4. § (2)–(3) bekezdésében meghatározott MNB rendelet egyes rendelkezéseitől való eltérést, legfeljebb 12 hónapig, legfeljebb 10 000 ügyfél vonatkozásában.
