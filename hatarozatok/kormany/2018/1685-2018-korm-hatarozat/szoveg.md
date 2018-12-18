@@ -32,4 +32,6 @@ emberi erőforrások minisztere
 
 Határidő: a felmerülés ütemében
 
-4. a Nemzeti Oltóanyaggyár megvalósításának előkészítéséhez kapcsolódó feladatokról szóló 1101/2018. (III. 19.) Korm. határozatot visszavonja.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
