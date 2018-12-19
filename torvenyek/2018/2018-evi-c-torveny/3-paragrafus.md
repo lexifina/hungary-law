@@ -1,0 +1,1 @@
+3. § Az Országgyűlés megerősíti azon meggyőződést, hogy az állami önállóságát őrző Magyarország és Lengyelország történelmi sorsközösségre épülő szoros kapcsolata elengedhetetlen előfeltétele úgy a nemzeti érdekeink érvényesítésének, mint Közép-Európa befolyása növekedésének az európai együttműködés rendszerében.

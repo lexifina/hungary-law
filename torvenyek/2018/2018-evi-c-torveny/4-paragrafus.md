@@ -1,0 +1,1 @@
+4. § Az Országgyűlés felhatalmazza a Kormányt, hogy az oktatási rendszer irányítására vonatkozó jogkörében meghozza mindazokat a döntéseket, amelyek elősegítik a lengyel–magyar barátság továbbélését a jövő nemzedékekben.
