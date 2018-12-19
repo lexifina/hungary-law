@@ -6,11 +6,11 @@
 
 (2a)[^126] Az EESZT útján kiállított elektronikus vény alapján történő gyógyszerkiadás 2017. november 1. napjától kötelező.
 
-(2b)[^127] A 11/B. § (1) bekezdésétől eltérően 2017. november 1. és 2018. december 31. között minden elektronikus vényen történő gyógyszerrendelés esetében kötelező papíralapú, az orvos aláírását és orvosi bélyegzőjének lenyomatát is tartalmazó felírási igazolást készíteni, és azt a beteg részére átadni.
+(2b)[^127] A 11/B. § (1) bekezdésétől eltérően 2017. november 1. és 2019. december 31. között minden elektronikus vényen történő gyógyszerrendelés esetében kötelező papíralapú, az orvos aláírását és orvosi bélyegzőjének lenyomatát is tartalmazó felírási igazolást készíteni, és azt a beteg részére átadni.
 
-(2c)[^128] A (8) bekezdés alkalmazása során 2018. december 31. napjáig a felírási igazolást a Nemzeti Egészségbiztosítási Alapkezelő által gyógyszerrendelés céljára rendszeresített vényre kell kinyomtatni.
+(2c)[^128] A (2b) bekezdés alkalmazása során 2019. december 31. napjáig a felírási igazolást a Nemzeti Egészségbiztosítási Alapkezelő által gyógyszerrendelés céljára rendszeresített vényre kell kinyomtatni.
 
-(2d)[^129] A felírási igazolást a gyógyszertár 2018. december 31. napjáig köteles megőrizni. A gyógyszer kiszolgáltatója a felírási igazolást 2019. január 1. napját követően az expediálás tényének rögzítése után visszaadja a gyógyszer kiváltójának.
+(2d)[^129] A felírási igazolást a gyógyszertár 2019. december 31. napjáig köteles megőrizni. A gyógyszer kiszolgáltatója a felírási igazolást 2020. január 1. napját követően az expediálás tényének rögzítése után visszaadja a gyógyszer kiváltójának.
 
 (3)[^130]
 
@@ -30,9 +30,9 @@ d)[^134] a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok
 [^124]: A 24. § (1) bekezdése a 67/2004. (VII. 29.) ESZCSM rendelet 1. § (1) bekezdése szerint módosított szöveg, amely módosítás az eredeti augusztus 1-jei hatálybalépést szeptember 1-jére változtatta.
 [^125]: A 24. § (2) bekezdésének második mondatát a 67/2004. (VII. 29.) ESZCSM rendelet 1. § (2) bekezdése iktatta be.
 [^126]: A 24. § (2a) bekezdését a 29/2017. (X. 31.) EMMI rendelet 14. §-a iktatta be.
-[^127]: A 24. § (2b) bekezdését a 29/2017. (X. 31.) EMMI rendelet 14. §-a iktatta be.
-[^128]: A 24. § (2c) bekezdését a 29/2017. (X. 31.) EMMI rendelet 14. §-a iktatta be.
-[^129]: A 24. § (2d) bekezdését a 29/2017. (X. 31.) EMMI rendelet 14. §-a iktatta be.
+[^127]: A 24. § (2b) bekezdését a 29/2017. (X. 31.) EMMI rendelet 14. §-a iktatta be, szövege a 42/2018. (XII. 18.) EMMI rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^128]: A 24. § (2c) bekezdését a 29/2017. (X. 31.) EMMI rendelet 14. §-a iktatta be, szövege a 42/2018. (XII. 18.) EMMI rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^129]: A 24. § (2d) bekezdését a 29/2017. (X. 31.) EMMI rendelet 14. §-a iktatta be, szövege a 42/2018. (XII. 18.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^130]: A 24. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 32. pontja hatályon kívül helyezte.
 [^131]: A 24. § (4) bekezdését a 47/2005. (XI. 4.) EüM rendelet 19. § (3) bekezdésének b) pontja hatályon kívül helyezte.
 [^132]: A 24. § (5) bekezdése a 47/2005. (XI. 4.) EüM rendelet 18. §-ával megállapított szöveg.
