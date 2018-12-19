@@ -12,11 +12,13 @@ d) a felhasználó földgázt hoz be harmadik országból,
 
 e) a felhasználó földgázt hoz be az Európai Unió tagállamából,
 
-f) a felhasználó a szervezett piacon földgázt vásárol.
+f) a felhasználó a szervezett piacon földgázt vásárol,
 
-(3) A tagi hozzájárulás megfizetése a (2) bekezdés a) pontja esetében a földgáz egyetemes szolgáltatót, b) pontja esetében a földgázkereskedőt, c) pontja esetében a földgáztermelőt, d)–f) pontjai esetében a felhasználót terheli.
+g) a földgázkereskedő saját célra földgázt használ fel.
 
-(4) A tagi hozzájárulás alapja a (2) bekezdés a)–c) pontjai esetén az értékesített földgáz mennyisége, a (2) bekezdés d)–f) pontjai esetén a vásárolt vagy importált földgáz mennyisége kilowattórában mérve.
+(3) A tagi hozzájárulás megfizetése a (2) bekezdés a) pontja esetében a földgáz egyetemes szolgáltatót, b) és g) pontja esetében a földgázkereskedőt, c) pontja esetében a földgáztermelőt, d)–f) pontjai esetében a felhasználót terheli.
+
+(4) A tagi hozzájárulás alapja a (2) bekezdés a)–c) pontjai esetén az értékesített földgáz mennyisége, a (2) bekezdés d)–f) pontjai esetén a vásárolt vagy importált földgáz mennyisége, a (2) bekezdés g) pontja esetén a felhasznált földgáz mennyisége kilowattórában mérve.
 
 (4a) A 4. § (5) bekezdés szerinti készletértékesítés esetén a tagi hozzájárulás mértékének a (4) bekezdés szerint történő megállapítása során az értékesített földgáz ellenértékeként befolyt pénzösszeget csökkentő tételként kell figyelembe venni.
 
@@ -24,7 +26,9 @@ f) a felhasználó a szervezett piacon földgázt vásárol.
 
 a) a (2) bekezdés a)–c) és az e)–f) pontjai esetében az általános forgalmi adóról szóló törvény szerinti teljesítés időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre,
 
-b) a (2) bekezdés d) pontja esetében a belföldi forgalom számára történő vámkezeléskor, a belföldi forgalom számára vámkezelt mennyiségre
+b) a (2) bekezdés d) pontja esetében a belföldi forgalom számára történő vámkezeléskor, a belföldi forgalom számára vámkezelt mennyiségre,
+
+c) a (2) bekezdés g) pontja esetében a felhasználás időpontjában, a saját célra felhasznált mennyiségre
 
 vonatkozik.
 

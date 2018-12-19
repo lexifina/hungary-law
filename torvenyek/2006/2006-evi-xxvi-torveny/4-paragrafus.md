@@ -1,8 +1,8 @@
-4. § (1) A földgáz biztonsági készletet a miniszter által – a 4. § (7) bekezdésében foglaltak figyelembevételével – rendeletben meghatározott olyan biztonsági földgáztárolóban kell elhelyezni, amelynek kitárolási kapacitása legalább napi 20 millió m3 és amely ezt a napi kitárolási mennyiséget 600 millió m3 földgáz biztonsági készlet tárolása esetén legalább a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 2004/67/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 994/2010/EU európai parlamenti és a tanácsi rendelet (a továbbiakban: 994/2010 EU rendelet) 8. cikk (1) bekezdés c) pontjában meghatározott időtartamon belül biztosítani képes.
+4. § (1) A földgáz biztonsági készletet a miniszter által rendeletben meghatározott olyan biztonsági földgáztárolóban kell elhelyezni, amely a kitárolási kapacitást legalább a 2017/1938/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés c) pontjában meghatározott időtartamon belül képes biztosítani.
 
 (2) A földgáz biztonsági készlet mértékét, valamint erre tekintettel a készletértékesítési vagy készletbeszerzési kötelezettség mértékét és feltételeit, a földgáz biztonsági készlet mértékéhez tartozó kötelező minimum betárolási és kitárolási kapacitásokat, továbbá az értékesítés módját, a visszapótlásra kötelezettet, a visszapótlás feltételeit és rendjét a miniszter rendeletben határozza meg.
 
-(3) A miniszter a biztonsági földgázkészlet mértékét az (1) bekezdésben meghatározott keretek között – az ellátás-biztonsági kockázatok mérlegelésével, a rendelkezésre álló földgázforrások alapján, valamint a 994/2010/EU rendeletben meghatározott Megelőzési Cselekvési Tervben és a Vészhelyzeti Tervben foglaltakkal összhangban – a Hivatal elnöke javaslatának figyelembevételével határozza meg. A Hivatal javaslatát a miniszter által meghatározott határidőn belül köteles megküldeni.
+(3) A miniszter a biztonsági földgázkészlet mértékét az (1) bekezdésben meghatározott keretek között – az ellátás-biztonsági kockázatok mérlegelésével, a rendelkezésre álló földgázforrások alapján, valamint a 2017/1938/EU európai parlamenti és tanácsi rendeletben meghatározott Megelőzési Cselekvési Tervben és a Vészhelyzeti Tervben foglaltakkal összhangban – a Hivatal elnöke javaslatának figyelembevételével határozza meg. A Hivatal javaslatát a miniszter által meghatározott határidőn belül köteles megküldeni.
 
 (4) Készletbeszerzési vagy készletértékesítési kötelezettség esetén a Szövetségnek a földgáz betárolását vagy kitárolását a miniszter rendeletében meghatározott ütemezéssel és határidővel kell végrehajtania.
 
@@ -10,7 +10,7 @@
 
 (6) Amennyiben a Szövetség által betárolt biztonsági készletet tároló földalatti gáztárolóban készletértékesítést követően szabad kapacitások állnak a Szövetség rendelkezésére, ezen szabad kapacitásokat a Szövetség másodlagos kapacitás-kereskedelemben értékesítheti. A szabad kapacitások értékesítésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
 
-(7) A készletezési kötelezettség kizárólag a Magyar Állam közvetlen vagy közvetett többségi tulajdonában álló biztonsági földgáztárolóban tárolt és a biztonsági földgáztároló engedélyessel kötött szerződés alapján tároltatott földgázzal teljesíthető.
+(7)
 
 (8) A földgáz biztonsági készlet a Szövetség tulajdonát képezi. A Szövetség jogosult a földgáz biztonsági készletezés céljára földgázt beszerezni (vásárolni), valamint a (3) bekezdés, illetve az 5. § (1) bekezdés szerinti felhasználás esetén földgázt értékesíteni. A Szövetség földgáz beszerzési, illetve földgáz értékesítési kötelezettsége nem minősül a földgázellátásról szóló 2008. évi XL. törvény szerint földgáz kereskedelemnek.
 

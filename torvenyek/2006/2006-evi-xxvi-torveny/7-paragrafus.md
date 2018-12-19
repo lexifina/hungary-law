@@ -6,7 +6,7 @@ a) a Hivatal által kiadott működési engedéllyel rendelkező
 
 aa) földgáz egyetemes szolgáltató,
 
-ab) felhasználóknak földgázt értékesítő földgázkereskedő;
+ab) felhasználóknak földgázt értékesítő vagy saját célra földgázt felhasználó földgázkereskedő;
 
 b) felhasználóknak földgázt értékesítő földgáztermelő;
 

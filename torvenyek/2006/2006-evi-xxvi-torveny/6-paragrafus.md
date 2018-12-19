@@ -12,7 +12,7 @@ d) gondoskodik a felhasznált földgáz biztonsági készlet e törvény szerint
 
 e) vezeti a tagsági nyilvántartást;
 
-f) meghatározza a tagi hozzájárulás mértékét – a Közgyűlés által – az éves költségvetés keretében a Szövetség Alapszabályában (a továbbiakban: Alapszabály) rögzített szabályok szerint, és közzétételre a miniszter elé terjeszti;
+f) meghatározza a tagi hozzájárulás mértékét – a Közgyűlés által – az éves költségvetés keretében a Szövetség Alapszabályában (a továbbiakban: Alapszabály) rögzített szabályok szerint, és a miniszter részére tájékoztatásul megküldi;
 
 g) gondoskodik a tagi hozzájárulás beszedéséről;
 
