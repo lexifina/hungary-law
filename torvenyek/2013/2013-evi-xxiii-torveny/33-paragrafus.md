@@ -14,4 +14,4 @@ c) a működésének várható ráfordításait.
 
 (5) A Szövetség az éves költségvetés alapján meghatározza a termékcsoportonkénti egységnyi tagi hozzájárulás mértékét.
 
-(6) A termékcsoportonkénti tagi hozzájárulás mértékét a miniszter a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi.
+(6) A termékcsoportonkénti tagi hozzájárulás mértékéről a Szövetség a minisztert tájékoztatja.

@@ -98,7 +98,7 @@ E pont alkalmazásában:
 
 a) adalék: olyan szénhidrogént nem tartalmazó vegyület, amely egy kőolajtermékhez hozzáadva vagy azzal elvegyítve megváltoztatja a kőolajtermék tulajdonságait;
 
-b) bioüzemanyag: a Büat. 1. § 1. pontjában meghatározott termék;
+b) bioüzemanyag: a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény (a továbbiakban: Büat.) 1. § 1. pontjában meghatározott termék;
 
 c) biomassza: a Büat. 1. § 3. pontjában meghatározott termék.
 

@@ -8,7 +8,7 @@ b) a közgyűlés elé terjeszti a Szövetség előző évi költségvetésének
 
 c) javaslatot tesz a közgyűlésnek a Szövetséget megillető, az éves költségvetésben elért bevételi többlet vagy kiadási megtakarítás felhasználására,
 
-d) jóváhagyja a Szövetség üzletszabályzatát,
+d)
 
 e) javaslatot tesz a közgyűlésnek e törvényben meghatározott feladatainak ellátásához szükséges hitel felvételére,
 

@@ -1,4 +1,4 @@
-17. § (1) A Szövetség a miniszter által jóváhagyott alapszabály alapján működik.
+17. § (1) A Szövetség a miniszter által közzétett alapszabály alapján működik.
 
 (2) Az alapszabályban meg kell határozni:
 
@@ -38,6 +38,6 @@ n)
 
 o) mindazokat a kérdéseket, amelyeket e törvény és az Fbkt. kötelezően előír.
 
-(3) Az alapszabályt a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a Szövetség honlapján közzé kell tenni.
+(3) Az alapszabályt a Szövetség honlapján közzé kell tenni.
 
-(4) Az alapszabály és annak módosítása a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben való közzétételtől kezdődően alkalmazandó.
+(4) Az alapszabály és annak módosítása a közzétételtől kezdődően alkalmazandó.

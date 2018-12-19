@@ -8,7 +8,7 @@ a) az adóraktár engedélyese, a bejegyzett kereskedő, az eseti bejegyzett ker
 
 b) a jövedéki engedélyes kereskedő, illetve a felhasználói engedélyes az Európai Unió más tagállamában szabad forgalomba bocsátott kőolajterméket e tagállamból beszerez,
 
-c) az adóraktár engedélyese a kőolajterméket az adóraktáron belül felhasználja, kivéve a jövedéki termék előállításához történő felhasználást,
+c) az adóraktár engedélyese a kőolajterméket az adóraktáron belül felhasználja, kivéve a jövedéki termék előállításához és minőség-ellenőrzés céljára történő felhasználást,
 
 d) az adóraktár engedélyese a kőolajterméket a víziközlekedésről szóló törvény szerinti gazdasági célú hajózási tevékenységet végző hajók (ideértve a kompot is) üzemanyagtartályába betölti,
 
