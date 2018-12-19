@@ -21,11 +21,3 @@ i) 30. §-a és 92. § 20. pontja a földgázellátás biztonságának megőrzé
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) A 11. alcím a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

@@ -46,9 +46,9 @@
 
 23. 145. § (4) bekezdésében az „a Hivatal hagyja jóvá.” szövegrész helyébe az „a Hivatal hagyja jóvá, amely árak esetében a 141. § (2) bekezdésében és (4)–(9) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell.” szöveg,
 
-24. 148. § (2) bekezdésében a „0,05 Ft/kWh” szövegrész helyébe a „0 Ft/kWh” szöveg,
+24.
 
-25. 148. § (3) bekezdésében a „0,09 Ft/kWh” szövegrész helyébe a „0,08 Ft/kWh” szöveg,
+25.
 
 26. 168. § (2) bekezdésének b) pontjában a „piacelemzés alapján jelentős piaci erővel rendelkező engedélyes azonosítására vagy kötelezettség előírására irányuló” szöveg helyébe a „jelentős piaci erő” szöveg,
 

@@ -6,6 +6,4 @@
 
 (3) E törvénynek az energetikai tárgyú törvények, valamint egyes klímapolitikai és adózási tárgyú törvények módosításáról szóló 2018. évi XCIX. törvénnyel (a továbbiakban: Mód. 8. törvény) megállapított 10. § (2) bekezdésében meghatározott tanúsítványt első alkalommal 2019. július 1-jéig kell a Hivatal számára benyújtani.”
 
-(2) A Get. 146/O. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) E törvénynek a Mód. 8. törvénnyel megállapított 129. § (1) és (1b) bekezdését első alkalommal a 2019. évi felügyeleti díjbevallás során – a 2018. évi árbevételre vonatkozóan – kell alkalmazni.”
+(2)

@@ -1,3 +1,1 @@
-55. § A Vet. 142. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Annak érdekében, hogy az elosztók az elosztási díjból és a közvilágítási elosztási díjból származó árbevételből az indokolt költségeik arányában részesedjenek, az elosztók közötti kiegyenlítő fizetést (a továbbiakban: kiegyenlítő fizetés) lehetővé tevő, átlátható, a rendszerhasználati díjakhoz kapcsolódó elszámolási rendszert kell működtetni. Az elszámolási rendszer működését az átviteli rendszerirányító által e célból létrehozott elkülönített számla, az elosztók által az elkülönített számlára kötelezően befizetendő pénzeszköz és az átviteli rendszerirányító által az elkülönített számláról az elosztók részére kötelezően kifizetendő pénzeszköz biztosítja.”
+55. §

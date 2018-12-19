@@ -18,7 +18,7 @@
 
 9. 96. § (7) bekezdésében a „Hivatalt írásban tájékoztatni” szövegrész helyébe a „Hivatalt elektronikus úton tájékoztatni” szöveg,
 
-10. 100/A. § (2) bekezdés b) pont ba) alpontjában a „10 m3/óra feletti” szövegrész helyébe a „10 m3/óra és az a feletti” szöveg,
+10.
 
 11. 103. § (3) bekezdésében az „az egyetemes szolgáltatás keretében földgázt vételező felhasználók” szövegrész helyébe az „az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges mennyiség mértékéig a hazai termelésű földgáz árát” szöveg,
 
