@@ -1,4 +1,4 @@
-32/B. §[^25] (1) A 32/A. § (1) bekezdés rendelkezéseinek alkalmazása során a havonta nettó módon számított 200 000 forintot meghaladó kifizetésnél ajánlattevő az igénybe vett alvállalkozónak a teljesítésért – visszatartási kötelezettség nélkül – abban az esetben fizethet, ha
+32/B. §[^26] (1) A 32/A. § (1) bekezdés rendelkezéseinek alkalmazása során a havonta nettó módon számított 200 000 forintot meghaladó kifizetésnél ajánlattevő az igénybe vett alvállalkozónak a teljesítésért – visszatartási kötelezettség nélkül – abban az esetben fizethet, ha
 
 a) az alvállalkozó az ajánlattevő rendelkezésére bocsát a tényleges kifizetés időpontjától számított 30 napnál nem régebbi nemleges adóigazolást,
 
@@ -8,4 +8,4 @@ c) az ajánlattevő rendelkezésére bocsátja az adóigazgatási eljárás rés
 
 (2) Az ajánlattevő az általános adóigazolás rendelkezésre bocsátása után az abban szereplő köztartozás erejéig visszatartja a kifizetést. Ha az általános adóigazolásban szereplő köztartozás ellenére az ajánlattevő elmulasztja a visszatartást, a kifizetés erejéig egyetemlegesen felel az alvállalkozót a kifizetés időpontjában terhelő köztartozásért. A visszatartási kötelezettség az általános forgalmi adóra nem terjed ki.
 
-[^25]: A 32/B. §-t a 475/2017. (XII. 28.) Korm. rendelet 64. §-a iktatta be.
+[^26]: A 32/B. §-t a 475/2017. (XII. 28.) Korm. rendelet 64. §-a iktatta be.
