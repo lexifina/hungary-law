@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és a Kínai Népköztársaság között a Fudan Egyetem magyarországi felsőoktatási tevékenységének támogatásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
