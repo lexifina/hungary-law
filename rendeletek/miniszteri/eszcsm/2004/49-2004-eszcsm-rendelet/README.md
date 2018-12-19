@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-49-20-0
 | 2017-01-01 | 2004-49-20-0M.12 | 37/2016. (XII. 15.) EMMI rendelet |
 | 2017-04-01 | 2004-49-20-0M.13 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2017-10-30 | 2004-49-20-0M.14 | 28/2017. (X. 25.) EMMI rendelet |
+| 2018-12-19 | 2004-49-20-0M.15 | 9/2015. (II. 10.) EMMI rendelet |
