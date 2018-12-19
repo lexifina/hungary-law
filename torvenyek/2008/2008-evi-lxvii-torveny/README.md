@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-67-00-00
 | 2018-01-01 | 2017. évi CLIX. törvény | 2008-67-00-00.20 |
 | 2018-07-26 | 2018. évi XLI. törvény | 2008-67-00-00.21 |
 | 2018-11-24 | 2018. évi LXXXII. törvény | 2008-67-00-00.22 |
+| 2018-12-19 | 2018. évi XCIX. törvény | 2008-67-00-00.23 |

@@ -17,3 +17,5 @@
 (8) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 6. § (3) bekezdés l) pontját, (13)–(17) bekezdését és 10. § 12. pontját első alkalommal a 2017. június 30-át követően megkezdett beruházások tekintetében lehet alkalmazni.
 
 (9) Az adózás előtti eredményt csökkenti az e törvény szerinti adóalanyiságot megelőző adóévekben elszámolt terven felüli értékcsökkenés visszaírása miatt az adóévben bevételként elszámolt összeg. E rendelkezést az adózó első alkalommal a 2018-ban kezdődő adóév adókötelezettségének megállapítása során jogosult alkalmazni.
+
+(10) E törvénynek az energetikai tárgyú törvények, valamint egyes klímapolitikai és adózási tárgyú törvények módosításáról szóló 2018. évi XCIX. törvénnyel megállapított 6. § (2) bekezdés b) pontját az egyetemes szolgáltatást igénybe vevő lakossági földgázfogyasztók részére biztosított téli rezsicsökkentésről szóló kormányrendelet alapján véglegesen átadott pénzeszközre vonatkozóan első alkalommal a 2018. évi adókötelezettség megállapításakor kell alkalmazni.
