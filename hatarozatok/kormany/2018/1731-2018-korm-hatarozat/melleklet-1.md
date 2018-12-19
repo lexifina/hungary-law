@@ -64,20 +64,8 @@
 
 ## Határidő: folyamatos
 
-## 11. visszavonja
-
-## a) a kiemelt kerékpáros útvonalak fejlesztésének finanszírozásáról szóló 1635/2016. (XI. 17.) Korm. határozatot,
-
-## b) a kiemelt kerékpáros útvonalak fejlesztésének finanszírozásáról szóló 1012/2017. (I. 11.) Korm. határozatot,
-
-## c) az Európai Kerékpárút Hálózat (EuroVelo) 6. számú nemzetközi kerékpáros útvonal Dömös és Szentendre közötti szakaszának fejlesztéséről szóló 1013/2017. (I. 11.) Korm. határozatot,
-
-## d) a kiemelt kerékpáros útvonalak fejlesztésének finanszírozásáról szóló 1012/2017. (I. 11.) Korm. határozat módosításáról szóló 1240/2018. (IV. 25.) Korm. határozatot,
-
-## e) az egyes közlekedési tárgyú kormányhatározatok módosításáról szóló 1441/2017. (VII. 4.) Korm. határozatot,
-
-## f) az egyes térségi kerékpáros útvonalak megvalósításához és előkészítéséhez szükséges kormányzati intézkedésekről szóló 2004/2017. (XII. 22.) Korm. határozatot, valamint
-
-## g) az állami tulajdonban álló, nemzetgazdasági szempontból kiemelt fontosságú gazdálkodó szervezetek megközelíthetőségét elősegítő beruházásokhoz szükséges pénzügyi fedezet biztosításáról szóló 2034/2017. (XII. 27.) Korm. határozat 1. pont c) alpontját és 4. pontját.
+## 11.[^1]
 
 1. melléklet az 1731/2018. (XII. 18.) Korm. határozathoz
+
+[^1]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
