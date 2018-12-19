@@ -6,11 +6,11 @@
 
 ## 4. § Az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatások esetében
 
-a)[^2] a 2. mellékletben foglalt táblázat 10., 16., 17., 24. és 26. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti kulturális és kulturális örökség megőrzését előmozdító támogatás,
+a)[^3] a 2. mellékletben foglalt táblázat 10., 16., 17., 24. és 26. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti kulturális és kulturális örökség megőrzését előmozdító támogatás,
 
-b)[^3] a 2. mellékletben foglalt táblázat 17. és 26. sora alapján az 1407/2013/EU bizottsági rendelet szerinti támogatás
+b)[^4] a 2. mellékletben foglalt táblázat 17. és 26. sora alapján az 1407/2013/EU bizottsági rendelet szerinti támogatás
 
 nyújtható.
 
-[^2]: A 4. § a) pontja a 3/2018. (XI. 16.) TNM rendelet 2. §-a szerint módosított szöveg.
-[^3]: A 4. § b) pontja a 3/2018. (XI. 16.) TNM rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 4. § a) pontja a 3/2018. (XI. 16.) TNM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 4. § b) pontja a 3/2018. (XI. 16.) TNM rendelet 2. §-a szerint módosított szöveg.
