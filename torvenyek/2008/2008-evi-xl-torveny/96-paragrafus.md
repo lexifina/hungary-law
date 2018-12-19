@@ -14,7 +14,7 @@
 
 (6a) A (6) bekezdés szerint befolyt pótdíjból a szállítási rendszerirányítónak nem képződhet nyeresége.
 
-(7) A szállítási rendszerirányító minden földgázellátási zavarból fakadó korlátozásról haladéktalanul, annak okairól legkésőbb a korlátozás feloldását követő 8 napon belül köteles a Hivatalt írásban tájékoztatni. A Hivatal minden elrendelt korlátozás esetében kivizsgálja, hogy a korlátozást a szállítási rendszerirányító indokoltan rendelte-e el. Ha a Hivatal megállapítja, hogy a szállítási rendszerirányító a korlátozást neki felróható okból indokolatlanul rendelte el, bírságot szabhat ki. A szállítási rendszerirányító köteles az indokolatlanul elrendelt korlátozás következtében a felhasználókat ért kárt megtéríteni.
+(7) A szállítási rendszerirányító minden földgázellátási zavarból fakadó korlátozásról haladéktalanul, annak okairól legkésőbb a korlátozás feloldását követő 8 napon belül köteles a Hivatalt elektronikus úton tájékoztatni. A Hivatal minden elrendelt korlátozás esetében kivizsgálja, hogy a korlátozást a szállítási rendszerirányító indokoltan rendelte-e el. Ha a Hivatal megállapítja, hogy a szállítási rendszerirányító a korlátozást neki felróható okból indokolatlanul rendelte el, bírságot szabhat ki. A szállítási rendszerirányító köteles az indokolatlanul elrendelt korlátozás következtében a felhasználókat ért kárt megtéríteni.
 
 (8) Műszaki üzemzavar esetén a rendszerüzemeltető köteles a hiba megszüntetése iránt haladéktalanul intézkedni, ennek érdekében jogosult a szükséges intézkedéseket és az üzemzavar elhárításához szükséges cselekményeket külön engedély nélkül megtenni.
 

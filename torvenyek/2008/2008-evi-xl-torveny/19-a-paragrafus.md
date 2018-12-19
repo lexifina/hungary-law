@@ -1,1 +1,1 @@
-19/A. § Az elosztóhálózat-használati szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékével és alkalmazásukkal kapcsolatos rendelkezéseket a Hivatal elnöke rendeletben határozza meg.
+19/A. § Az elosztóhálózat-használati szerződés felek általi megszegése megállapításának ellenőrzési, szakértői vizsgálati és dokumentálási szabályait, valamint a jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket a Hivatal elnöke rendeletben határozza meg.

@@ -12,4 +12,4 @@
 
 (5) A földgázkereskedő és a földgázelosztó a (4) bekezdés szerinti kötelezettség teljesítése érdekében az üzletszabályzatukban meghatározott feltételek szerint megállapodást kötnek.
 
-(6) A földgázkereskedő és a felhasználó közötti földgáz-kereskedelmi szerződésből, valamint a földgázelosztó és a felhasználó között létrejött elosztóhálózat-használati szerződésből eredő polgári jogi igények két év alatt évülnek el. Az elévülés a követelés esedékességének napján kezdődik.
+(6) A földgázkereskedő és a felhasználó közötti földgáz-kereskedelmi szerződésből, valamint a földgázelosztó és a felhasználó között létrejött elosztóhálózat-használati szerződésből eredő polgári jogi igények három év alatt évülnek el. Az elévülés a követelés esedékességének napján kezdődik.

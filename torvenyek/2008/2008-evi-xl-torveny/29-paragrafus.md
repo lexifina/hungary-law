@@ -26,4 +26,4 @@ d) külön jogszabályban meghatározott pihenőnapon.
 
 (5) Ha a földgázellátásból kikapcsolt felhasználó rendezi valamennyi lejárt tartozását és a 106. § (3) bekezdés szerinti rendeletben és a 106/A. § (1) bekezdés szerinti rendeletben meghatározott külön díjat (a továbbiakban: külön díj) is megfizeti, a földgázkereskedő annak tudomására jutását követően legkésőbb 24 órán belül köteles kezdeményezni a felhasználónak az ellátásba történő ismételt bekapcsolását, e kötelezettség elmulasztása a földgázkereskedő részéről súlyos szerződésszegésnek minősül.
 
-(6) A földgázelosztó az (5) bekezdés szerinti kezdeményezésnek köteles az azt követő munkanapon eleget tenni.
+(6) A földgázelosztó az (5) bekezdés szerinti kezdeményezésnek köteles 24 órán belül eleget tenni.

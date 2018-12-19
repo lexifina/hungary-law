@@ -67,3 +67,5 @@ c) az azonos típusú működési engedéllyel rendelkező engedélyesekkel és 
 (16) A Hivatal köteles a miniszter számára külön jogszabályban meghatározott adatokat szolgáltatni.
 
 (17) A vezetékes PB-gáz szolgáltató, a PB-gáz forgalmazó köteles a Hivatal, továbbá a miniszter számára jogszabályban meghatározott adatokat szolgáltatni.
+
+(18) A rendszeres és rendkívüli adatszolgáltatásra kötelezett a tevékenységének megkezdése előtt vagy annak szüneteltetése alatt a Hivatal részére teljesítendő adatszolgáltatási kötelezettség alól a Hivatal elnökének rendeletében meghatározottak szerint mentességet kaphat.

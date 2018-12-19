@@ -10,8 +10,10 @@ c) a 128/A. § (6) bekezdése szerinti eljárásban két hónap,
 
 d) az e törvény hatálya alá tartozó panaszeljárásban 55 nap,
 
-e) a III/A. Fejezetben szabályozott eljárásokban 15 hónap.
+e) a III/A. Fejezetben szabályozott eljárásokban 15 hónap,
 
-(3) A Hivatal elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak alkalmazási szabályairól szóló rendeletében szabályozott, a nem téli fogyasztási időszakra vonatkozó igazolási kérelem tárgyában a Hivatal hatósági bizonyítványt bocsát ki. A hatósági bizonyítvány kiállítására irányuló eljárás automatikus, és nem érinti a Hivatal ellenőrzési jogát a nem téli fogyasztási időszakra vonatkozó felhasználások vonatkozásában.
+f) a jelentős piaci erő eljárásban 8 hónap.
+
+(3)
 
 (4) A 127. § b), c), l) és ly) pontjában közvetlenül érintett az engedélyes.

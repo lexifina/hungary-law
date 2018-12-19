@@ -10,12 +10,14 @@
 
 (5) A szállítási rendszerüzemeltető és a földgázelosztó szabad kapacitásait gázévre, gázév negyedévére, hónapjára, napjára és gáznapon belül a gáznap hátralevő részére vonatkozóan, egész órában meghatározott időtartamokra ajánlja fel lekötésre.
 
-(6) A szállítási rendszerüzemeltető megszakítható kapacitást csak abban az esetben ajánlhat fel, amennyiben az adott betáplálási-kiadási ponton a nem megszakítható kapacitás kapacitástermékenként a Hivatal elnökének rendeletében meghatározott mértékben lekötésre került. Megszakítható kapacitás nem kínálható fel a felkínált nem megszakítható kapacitás terhére. A szállítási rendszerüzemeltető nem különíthet el nem megszakítható kapacitásként felkínálható kapacitást megszakítható kapacitásként való felkínálás céljából.
+(5a) A földgázszállító rendszeren egy adott kapacitástermék vonatkozásában a kapacitástermék minősége a teljes használati időszak alatt vagy kizárólag nem megszakítható, vagy kizárólag megszakítható lehet.
+
+(6) Megszakítható kapacitás nem kínálható fel a felkínált nem megszakítható kapacitás terhére. A szállítási rendszerüzemeltető nem különíthet el nem megszakítható kapacitásként felkínálható kapacitást megszakítható kapacitásként való felkínálás céljából.
 
 (7) A földgáztárolói engedélyes szabad kapacitásait tárolói évre és tárolói éven belüli, üzletszabályzatában meghatározott időszakra ajánlja fel lekötésre.
 
 (8) A rendszer-összekötési pont, valamint a szállítóvezeték és a földgáztároló csatlakozási pontján a szállítói betáplálási-kiadási pont kapacitástermékeit a 2017/459 bizottsági rendeletben meghatározott aukciós naptár szerint, az egyéb betáplálási-kiadási pontok és a tároló szabad kapacitásait az e törvény végrehajtásáráról szóló kormányrendeletben rögzített időpontokban kell lekötésre felajánlani.
 
-(9) A határkeresztező gázvezetéknek valamely szomszédos nem EU-tagállam földgázszállító rendszeréhez kapcsolódó betáplálási-kiadási pontjára – a (10) bekezdés szerinti kivétellel – a rendszer-összekötési pontra vonatkozó rendelkezéseket kell alkalmazni.
+(9) A határkeresztező gázvezetéknek valamely szomszédos nem EU-tagállam földgázszállító rendszeréhez kapcsolódó betáplálási-kiadási pontjára a rendszer-összekötési pontra vonatkozó rendelkezéseket kell alkalmazni, figyelemmel a 2017/459 bizottsági rendelet előírásaira.
 
 (10) Valamely szomszédos nem EU-tagállam földgázszállító rendszeréhez kapcsolódó határkeresztező gázvezeték betáplálási-kiadási pontja vonatkozásában a Hivatal elnöke rendeletben állapíthatja meg a rendszer-összekötési pontra vonatkozó rendelkezésektől eltérő szabályok alkalmazását.

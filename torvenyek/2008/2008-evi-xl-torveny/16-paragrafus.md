@@ -32,7 +32,7 @@ h) a szállítási rendszerüzemeltető felfüggesztette a szállítói rendszer
 
 (3) A földgázelosztó a felhasználási helyre való bejutás érdekében a járásbírósághoz fordulhat, amennyiben a felhasználó akadályozza vagy meghiúsítja:
 
-a) a fogyasztásmérő berendezés leolvasását, ellenőrzését, cseréjét,
+a) a fogyasztásmérő berendezés leolvasását, ellenőrzését, cseréjét vagy leszerelését,
 
 b) szerződésszegés vagy szerződés nélküli vételezés esetén a földgázelosztási szolgáltatásból történő felfüggesztést,
 
@@ -46,7 +46,7 @@ b) az adott felhasználási helyre történő bejutási kísérlete sikertelen v
 
 (4) A járási hivatal határozatában
 
-a) a fogyasztásmérő berendezés leolvasásának, ellenőrzésének, cseréjének,
+a) a fogyasztásmérő berendezés leolvasásának, ellenőrzésének, cseréjének vagy leszerelésének,
 
 b) a földgázelosztási szolgáltatásból történő felfüggesztéshez szükséges intézkedéseknek, vagy
 

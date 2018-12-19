@@ -2,7 +2,7 @@
 
 (2) Az egyetemes szolgáltatás ára miniszteri rendeletben meghatározott elemeinek szabályozása négyéves árszabályozási ciklusokkal történik.
 
-(3) Az árszabályozási ciklusra érvényes szabályokat az árszabályozási ciklus indulását megelőzően a miniszter az egyetemes szolgáltatás ára esetében a 107. § (3) bekezdése szerinti rendeletben, az egyetemes szolgáltató által a felhasználó igénye alapján vagy a felhasználó szerződésszegése esetén külön díj esetében végzett szolgáltatások díjai esetében a 106/A. § (1) bekezdése szerinti rendeletben állapítja meg.
+(3) Az árszabályozási ciklusra érvényes szabályokat az árszabályozási ciklus indulását megelőzően a miniszter az egyetemes szolgáltatás ára esetében a 107. § (3) bekezdése szerinti rendeletben, az egyetemes szolgáltató által a felhasználó igénye alapján vagy a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások díjai esetében a 106/A. § (1) bekezdése szerinti rendeletben állapítja meg.
 
 (4) A Hivatal az egyetemes szolgáltatás árának megállapítására és az árszabályozási ciklusra érvényes szabályokra vonatkozó javaslatát a következő árszabályozási ciklus kezdetét legalább 40 nappal megelőzően megküldi a miniszter részére.
 

@@ -36,7 +36,7 @@ q) a szerződött szolgáltatásért fizetendő díj meghatározásának módja.
 
 (2) Az egyetemes szolgáltató köteles az egyetemes szolgáltatási szerződés üzletszabályzatban meghatározott, általa egyoldalúan változtatható feltételeinek várható módosítása esetén, azok hatálybalépése előtt legalább 30 nappal
 
-a) a módosítás tartalmát legalább egy országos napilapban és legalább egy helyi lapban, legalább 2 alkalommal közzétenni,
+a)
 
 b) a módosítást az ügyfélszolgálati irodákban és honlapján közzétenni,
 

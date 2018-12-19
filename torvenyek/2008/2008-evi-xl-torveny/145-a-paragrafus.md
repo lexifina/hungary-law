@@ -1,1 +1,1 @@
-145/A. § E törvény 124/B. §-ának rendelkezéseit a földgáz biztonsági készletezéssel összefüggésben egyes törvények módosításáról szóló 2012. évi CCXVIII. törvény hatálybalépését követően létrehozott vagy a 124/A. § szerint megvásárolt biztonsági földgáztárolókra kell alkalmazni.
+### 145/A. §

@@ -2,6 +2,8 @@
 
 (1a) Kereskedési platform szállítási rendszerüzemeltető általi működtetése során biztosítani kell e tevékenység jogi és számviteli szétválasztását a szállítási rendszerüzemeltető más tevékenységeitől.
 
+(1b) A kereskedési platformot működtető köteles a kereskedési platform szabályzat szerinti ügyletekről a Hivatal elnökének rendeletében meghatározott módon adatot szolgáltatni.
+
 (2) A kereskedési platformon az ügyletek pénzügyi elszámolását törvényben meghatározott, a kereskedési platformot működtető által kiírt pályázaton nyertes központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet végzi.
 
 (3) A kereskedési platformon ügyletet kizárólag a kereskedési platformon tagsággal rendelkezők köthetnek. A kereskedési platform tagja lehet
@@ -34,7 +36,7 @@ ha megfelel a kereskedési platform szabályzatában meghatározott követelmén
 
 (8) Földgázellátási üzemzavar és válsághelyzet esetén a szállítási rendszerüzemeltető javaslatot tesz a Hivatalnak a kereskedési platformon, valamint a szervezett piacon történő kereskedés felfüggesztésére.
 
-(9) A kereskedési platformot működtető köteles biztosítani a rendszerhasználók számára a kereskedelmi egyensúlytalanságuk feloldására irányuló gáznapon belüli földgáz kereskedelemnek a lehetőségét a 312/2014/EU bizottsági rendelet és a kereskedési platform szabályzata szerint.
+(9) A kereskedési platformot működtető köteles biztosítani a rendszerhasználók számára a kereskedelmi egyensúlytalanságuk feloldására irányuló, a gáznap előtt a gáznapra vonatkozó és a gáznapon belüli földgáz kereskedelemnek a lehetőségét a 312/2014/EU bizottsági rendelet és a kereskedési platform szabályzata szerint.
 
 (10) A 312/2014/EU bizottsági rendelet 10. cikk (2) bekezdése szerint létrehozott egyensúlyozó platformra a (2)–(9) bekezdésben foglalt előírásokat megfelelően kell alkalmazni.
 
