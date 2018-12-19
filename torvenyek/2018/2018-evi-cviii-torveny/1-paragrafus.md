@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Ausztrália Kormánya között kőolajkészletezési szerződések tárgyában kötött megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
