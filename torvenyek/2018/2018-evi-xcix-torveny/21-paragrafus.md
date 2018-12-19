@@ -1,0 +1,3 @@
+21. § A Tszt. 18/B. §-a helyébe a következő rendelkezés lép:
+
+„18/B. § Az engedélyes könyvvizsgálója a beszámolóhoz kiadott független könyvvizsgálói jelentésben köteles igazolni, hogy a vállalkozás által kidolgozott és alkalmazott számviteli szétválasztási szabályok, valamint az egyes tevékenységek közötti tranzakciók árazása biztosítják a vállalkozás tevékenységei közötti keresztfinanszírozás-mentességet.”

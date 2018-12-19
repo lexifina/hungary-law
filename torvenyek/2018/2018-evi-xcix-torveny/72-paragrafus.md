@@ -1,0 +1,3 @@
+72. § A Get. 63/B. §-a helyébe a következő rendelkezés lép:
+
+„63/B. § A felhasználó az elosztóhálózat-használati és a földgáz-kereskedelmi szerződéseiben elektronikus kapcsolattartást is választhat. Ebben az esetben az e törvényben és e törvény végrehajtására kiadott kormányrendeletben a felhasználó és az engedélyes közötti kapcsolattartásra előírt írásbeliség kötelezettsége elektronikus úton is teljesíthető.”

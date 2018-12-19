@@ -1,0 +1,3 @@
+44. § A Vet. 62. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Ha az egyetemes szolgáltatás keretében a villamosenergia-vásárlási szerződés megszűnése esetén a felhasználó a szerződésből eredő elszámolási és fizetési kötelezettségeinek nem tett eleget, és a felhasználó azonos felhasználási helyen ismételten villamosenergia-vásárlási szerződés megkötését kezdeményezi az egyetemes szolgáltatónál, az egyetemes szolgáltató jogosult az új villamosenergia-vásárlási szerződés megkötését a korábbi jogviszony alapján fennálló, el nem évült követelésből származó elszámolási és fizetési kötelezettség teljesítéséhez kötni.”

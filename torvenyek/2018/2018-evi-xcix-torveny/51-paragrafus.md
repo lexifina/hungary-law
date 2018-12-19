@@ -1,0 +1,5 @@
+51. § A Vet. 105/A. §-a helyébe a következő rendelkezés lép:
+
+„105/A. § (1) Az integrált, valamint a több engedéllyel rendelkező villamosenergia-ipari vállalkozás könyvvizsgálója az Szt. szerinti éves beszámolóhoz kiadott független könyvvizsgálói jelentésben köteles igazolni, hogy a vállalkozás által kidolgozott és alkalmazott számviteli szétválasztási szabályok, valamint az egyes tevékenységek közötti tranzakciók árazása biztosítják a vállalkozás üzletágai közötti keresztfinanszírozás-mentességet.
+
+(2) Az integrált, valamint több engedéllyel rendelkező villamosenergia-ipari vállalkozásnak engedélyesi tevékenységként tevékenységi beszámolót kell készítenie az éves beszámoló elfogadásáig, amelyet a mérleg fordulónapját követő ötödik hónap utolsó napjáig egy példányban kell a Hivatalnak benyújtani elektronikus formában. A villamosenergia-ipari vállalkozás ebben az esetben köteles nyilatkozni, hogy mely engedélyekre vonatkozóan nyújtotta be az éves beszámolót.”
