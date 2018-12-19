@@ -6,7 +6,7 @@
 
 a) korlátozott villamosenergia-kereskedelmi engedélyezési ügyekben 30 nap,
 
-b) piacelemzés alapján jelentős piaci erővel rendelkező engedélyes azonosítására vagy kötelezettség előírására irányuló eljárásban 8 hónap,
+b) jelentős piaci erő eljárásban 8 hónap,
 
 c) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára 4 hónap, majd az eljárás felfüggesztését és az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 714/2009/EK rendelet 3. cikk (1) bekezdésében meghatározott eljárási határidejének leteltét követően a határozat közzétételére vagy annak módosítására további, a 714/2009/EK rendelet 3. cikk (2) bekezdésében meghatározott időtartam,
 

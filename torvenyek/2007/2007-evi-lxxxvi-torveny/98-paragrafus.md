@@ -1,6 +1,6 @@
 ## A bírság kiszabása
 
-98. § (1) A 96–97. §-ban meghatározott esetekben a bírság kiszabásakor a Hivatal mérlegeli a jogsértés körülményeit, különös tekintettel a következőkre:
+98. § (1) Az 57. § (5) bekezdésében, a 95. § (6) bekezdésében, valamint a 96–97. §-ban meghatározott esetekben a bírság kiszabásakor a Hivatal mérlegeli a jogsértés körülményeit, különös tekintettel a következőkre:
 
 a) a jogsértés súlya (a villamosenergia-ellátás veszélyeztetésének mértéke, a magánérdekek sérelmének köre, kiterjedtsége);
 

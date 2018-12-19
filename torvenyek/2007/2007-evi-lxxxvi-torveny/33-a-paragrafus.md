@@ -1,6 +1,6 @@
 33/A. § (1) Az elosztó a felhasználási helyre való bejutás érdekében a járásbírósághoz fordulhat, amennyiben a rendszerhasználó akadályozza vagy meghiúsítja:
 
-a) a fogyasztásmérő leolvasását, ellenőrzését vagy cseréjét,
+a) a fogyasztásmérő leolvasását, ellenőrzését, cseréjét vagy leszerelését,
 
 b) szerződésszegés vagy szerződés nélküli vételezés esetén az ellátásból történő kikapcsolást vagy
 
@@ -14,7 +14,7 @@ b) az adott felhasználási helyre történő bejutási kísérlete sikertelen v
 
 (2) A járásbíróság
 
-a) a fogyasztásmérő leolvasásának, ellenőrzésének vagy cseréjének,
+a) a fogyasztásmérő leolvasásának, ellenőrzésének, cseréjének vagy leszerelésének,
 
 b) az ellátásból történő kikapcsolásnak vagy
 

@@ -4,7 +4,7 @@
 
 (3) Az egyetemes szolgáltató által kötelezően nyújtott egyetemes szolgáltatás árát, az áralkalmazási feltételeket, az árszabályozás kereteit, a 146. § (1) bekezdés szerinti szolgáltatások körét és külön díjait a Hivatal javaslata alapján a miniszter rendeletben állapítja meg. A Hivatal a javaslatát a rendelet tervezett hatálybalépését megelőzően legalább 45 nappal megküldi a miniszternek.
 
-(4) A (3) bekezdés szerinti rendeletben meg nem állapított, de az egyes egyetemes szolgáltatók által jogszerűen alkalmazott árszabások árát és áralkalmazási feltételeit az egyetemes szolgáltató kérelmére a Hivatal hagyja jóvá.
+(4) A (3) bekezdés szerinti rendeletben meg nem állapított, de az egyes egyetemes szolgáltatók által jogszerűen alkalmazott árszabások árát és áralkalmazási feltételeit az egyetemes szolgáltató kérelmére a Hivatal hagyja jóvá, amely árak esetében a 141. § (2) bekezdésében és (4)–(9) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell.
 
 (5) A villamosenergia-iparban fennálló vagy eltöltött munkaviszonnyal összefüggésben nyújtott kedvezményes árú villamosenergia-ellátás szabályozásában bekövetkező változást az ellátási körülmények megváltozásának kell tekinteni.
 

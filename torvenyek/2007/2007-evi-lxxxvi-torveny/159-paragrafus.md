@@ -30,9 +30,9 @@
 
 14. a folyamatos és biztonságos villamosenergia-ellátás fenntartása érdekében kivizsgálja az erőművek teljesítőképességében beálló változásokat, indokolatlan termelés-visszatartás esetén megállapítja az erőművi teljesítőképesség felajánlandó mértékét,
 
-15. e törvény szerint jóváhagyja az engedélyes Ptk szerinti átalakulását, egyesülését, illetve szétválását, a jegyzett tőke értékének csökkentését, az engedélyesekben történő részesedés- és befolyásszerzést, az olyan jogügyletek végrehajtását, amelyek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást az átviteli rendszerirányító vagy annak irányító részvényese felett, az engedélyes működési engedélyében felsorolt engedélyhez kötött tevékenységeinek más személy általi végzését, valamint a működési engedélyben meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházását, átengedését, lízingbe adását, illetve egyéb módon tartós használatba adását, megterhelését vagy biztosítékul lekötését,
+15. e törvény szerint jóváhagyja az engedélyest érintő cégjogi eseményt, az engedélyesekben történő befolyásszerzést, és az olyan jogügyletek végrehajtását, amelyek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást az átviteli rendszerirányító vagy annak irányító részvényese felett, az engedélyes működési engedélyében felsorolt engedélyhez kötött tevékenységeinek más személy általi végzését, valamint a működési engedélyben meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházását, átengedését, lízingbe adását, vagy egyéb módon tartós használatba adását, megterhelését vagy biztosítékul lekötését,
 
-16. felülvizsgálja a szénipari szerkezetátalakítási támogatásra jogosult bányavállalkozó szénipari szerkezetátalakítási támogatásának kifizetésére vonatkozó kérelmét, és javaslatot tesz a miniszternek a kifizethető szénipari szerkezetátalakítási támogatás mértékére, és
+16.
 
 17. végrehajtja a 714/2009/EK rendelet 19. cikkében meghatározott feladatokat,
 
@@ -54,7 +54,7 @@
 
 6. vizsgálja az öt évet meghaladó időtartamú szerződéseket a tekintetben, hogy megfelelnek-e a 96. § (1) bekezdésében felsorolt jogszabályokban és uniós jogi aktusokban meghatározott kötelezettségeinek, kivéve, ha ennek vizsgálatára a versenyhatóság rendelkezik hatáskörrel, és
 
-7. meghatározza az átvételi kötelezettség alá eső villamos energia mennyiségét és a kötelező átvétel időtartamát,
+7. meghatározza a kötelező átvétel és prémium típusú támogatás időtartamát, valamint a támogatás alá eső villamos energia mennyiségét, továbbá a biomassza vagy biogáz felhasználásával történő villamosenergia-termelés fenntartásának ösztönzésére szolgáló prémium mértékét,
 
 8. ellátja a villamosenergia-piacot érintően az 1227/2011/EU európai parlamenti és tanácsi rendeletben meghatározott, a nemzeti szabályozó hatóságra vonatkozó feladatokat, illetve ezzel összefüggésben ellenőrzési-, nagykereskedelmi piacfelügyeleti eljárást végez,
 

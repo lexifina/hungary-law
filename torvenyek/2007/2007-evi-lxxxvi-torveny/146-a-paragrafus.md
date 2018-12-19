@@ -38,4 +38,4 @@ díjmentes.
 
 (11) Az elosztó a csatlakozási igény befogadását nem tagadhatja meg, ha a csatlakozás valamennyi jogszabályi feltétele teljesül.
 
-(12) A nem engedélyköteles kiserőmű esetében rendszerhasználónként mind szabadvezeték, mind földkábel esetén összesen legfeljebb 3000 méter hosszúságú, termelői elosztó hálózathoz tartozó vezeték és közcélú hálózathoz tartozó vezeték létesítése, továbbá a csatlakozási pont biztosításához szükséges, az elosztó hálózathoz tartozó átalakító- és kapcsolóberendezés létesítése vagy fejlesztése díjmentes.
+(12)

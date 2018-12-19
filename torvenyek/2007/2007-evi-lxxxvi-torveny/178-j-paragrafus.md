@@ -18,4 +18,4 @@ c) meglévő kisfeszültségű szabadvezetékes elosztó hálózathoz történő
 
 d) meglévő csatlakozó vezeték újraüzemelésére.
 
-(4) A (3) bekezdés szerinti felújítást a számvitelről szóló 2000. évi C. törvény 3. § (4) bekezdés 8. pontja szerint, az átalakítást az országos településrendezési és építési követelményekről szóló kormányrendelet rendelkezései szerint kell értelmezni.
+(4) A (3) bekezdés szerinti felújítást az Szt. 3. § (4) bekezdés 8. pontja szerint, az átalakítást az országos településrendezési és építési követelményekről szóló kormányrendelet rendelkezései szerint kell értelmezni.

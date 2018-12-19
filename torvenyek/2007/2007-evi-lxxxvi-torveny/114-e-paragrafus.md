@@ -8,9 +8,11 @@ b) 8. cikk (1)–(4) bekezdése szerinti, nagykereskedelmi energiapiacokon megva
 
 c) 8. cikk (5) bekezdése szerinti információ-szolgáltatási kötelezettség,
 
-d) 9. cikk (1)–(2) és (4)–(5) bekezdése szerinti nyilvántartásba vétel, és
+d) 9. cikk (1)–(2) és (4)–(5) bekezdése szerinti nyilvántartásba vétel,
 
-e) 15. cikke szerinti értesítési kötelezettség
+e) 15. cikke szerinti értesítési kötelezettség, valamint a piaci visszaélések azonosítására vonatkozó eredményes intézkedések és eljárások kialakítására és fenntartására vonatkozó kötelezettség és
+
+f) 4. cikk (2) bekezdés szerinti információátadási kötelezettség
 
 teljesítését.
 

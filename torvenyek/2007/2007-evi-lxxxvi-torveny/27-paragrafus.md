@@ -2,6 +2,10 @@
 
 (2) A hálózati engedélyes az átviteli vagy az elosztó hálózathoz való csatlakozást egy adott csatlakozási pontra kizárólag a hálózat műszaki jellemzőire tekintettel tagadhatja meg. A hálózati engedélyes az adott csatlakozási pontra való csatlakozás megtagadásáról a (3) bekezdésben meghatározottakkal együtt legkésőbb a rendszerhasználói igény bejelentését követő 15 napon belül köteles írásban tájékoztatni a rendszerhasználót.
 
+(2a) Ha a kiserőmű a csatlakozási pont kialakítását középfeszültségen, a kiserőmű elhelyezésére szolgáló telek határán igényli, akkor az elosztó köteles ezt az igényt – figyelembe véve a (2) és a (2b) bekezdésben foglaltakat is – teljesíteni.
+
+(2b) Ha az adott csatlakozási szerződések megkötése előtt több, egymással szomszédos telephelyen létesítendő kiserőmű nyújt be elosztó hálózatra vonatkozó csatlakozási igényt, akkor a csatlakozási pontokat – a (2a) bekezdéstől eltérően – úgy is ki lehet jelölni, hogy a hálózati csatlakozások közös kapcsolóberendezésben valósuljanak meg, de az egyes csatlakozási pontok egyike sem lehet 500 méternél messzebb az adott kiserőmű elhelyezésére szolgáló telek határától.
+
 (3) A hálózati engedélyesnek az átviteli vagy elosztó hálózathoz való csatlakozás megtagadásakor meg kell határoznia azokat a feltételeket, amelyek teljesülése esetén a csatlakozás biztosítható, és a műszaki lehetőségek fennállása vagy megteremthetősége esetén köteles egy másik csatlakozási pontot kijelölni.
 
 (3a) Az átviteli rendszerirányító nem tagadhatja meg erőmű átviteli hálózathoz való csatlakozását
@@ -18,9 +22,11 @@ b) 132 kV-os feszültségszintre történő csatlakozás esetén, ha
 
 ba) a felhasználó rendelkezik az átviteli rendszerirányító nyilatkozatával, amely szerint a csatlakozást a hálózatból vételezett teljesítmény nagysága indokolja és az átviteli átalakító- és kapcsolóberendezésben történő csatlakozás költsége alacsonyabb az elosztóhálózatra történő csatlakozás költségénél,
 
-bb) a felhasználó felhasználási helye a csatlakozási pontként szolgáló átviteli átakító- és kapcsolóberendezés közvetlen szomszédságában álló ingatlanon található, valamint
+bb) a felhasználó felhasználási helye a csatlakozási pontként szolgáló átviteli átalakító- és kapcsolóberendezés közvetlen szomszédságában álló ingatlanon található, valamint
 
-bc) a felhasználás célja a nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló kormányrendeletben felsorolt nyilvántartás működtetése.
+bc) a felhasználás célja a nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló kormányrendeletben felsorolt nyilvántartás működtetése, vagy
+
+c) 132 kV-os feszültségszintre történő csatlakozás esetén, ha a felhasználás célja 500 MW-ot meghaladó névleges teljesítőképességű gépegységgel rendelkező erőmű létesítési munkáihoz szükséges villamos energia biztosítása.
 
 (4) A Hivatal a rendszerhasználó kérelmére felülvizsgálja a csatlakozás megtagadásának jogszerűségét. Amennyiben a csatlakozás megtagadása nem a (2)–(3) bekezdésben meghatározott jogszabályi előírásoknak megfelelően történt, a Hivatal az érintett hálózati engedélyest határozatban kötelezi az átviteli, illetve elosztó hálózathoz való csatlakozás biztosítására. A Hivatal a csatlakozás megtagadásának felülvizsgálatára irányuló kérelmet a döntéshez szükséges dokumentumok teljes körű rendelkezésre állásától számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmező rendszerhasználót és az érintett hálózati engedélyest értesíteni. A Hivatal eljárása díjmentes.
 

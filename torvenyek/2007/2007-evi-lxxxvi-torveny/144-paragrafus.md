@@ -2,4 +2,4 @@
 
 (2) Az átviteli rendszerirányító átviteli díjból származó bevételének – a 142. § (6) bekezdés szerinti kiegyenlítő fizetések végrehajtása érdekében – az elosztók között megosztott, 143. § (6) bekezdés szerinti rendeletben foglalt része árengedménynek minősül. A megosztott részre az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdésében és 77. § (3) bekezdésében meghatározottakat kell alkalmazni.
 
-(3) A rendszerszintű szolgáltatás keretében az átviteli rendszerirányító által lekötött kapacitások, valamint a rendszerszintű szolgáltatás szempontjából annak elválaszthatatlan részét képező, igénybevett villamos energia számviteli szempontból a helyi adókról szóló 1990. évi C. törvény 52. § 40. pontja szerinti közvetített szolgáltatásnak minősül.
+(3) A rendszerszintű szolgáltatás keretében az átviteli rendszerirányító által lekötött kapacitások, valamint a rendszerszintű szolgáltatás szempontjából annak elválaszthatatlan részét képező, igénybevett villamos energia számviteli szempontból a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Helyi adó tv.) 52. § 40. pontja szerinti közvetített szolgáltatásnak minősül.

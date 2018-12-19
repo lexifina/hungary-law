@@ -1,4 +1,4 @@
-5. § (1) A termelői engedélyes a villamosenergia-ellátási szabályzatokban előírt rendszerszintű szolgáltatások biztosításához szükséges erőművi teljesítőképességét köteles felajánlani, azt valamint a villamosenergia-termelését indokolatlanul nem tarthatja vissza. A Hivatal különösen akkor minősíti indokolatlan visszatartásnak a termelői engedélyes eljárását, ha
+5. § (1) A termelői engedélyes a villamosenergia-ellátási szabályzatokban előírt rendszerszintű szolgáltatások – kivéve a kiegyenlítő szabályozási kapacitás szolgáltatás – biztosításához szükséges erőművi teljesítőképességét köteles felajánlani, azt valamint a villamosenergia-termelését indokolatlanul nem tarthatja vissza. A Hivatal különösen akkor minősíti indokolatlan visszatartásnak a termelői engedélyes eljárását, ha
 
 a) a visszatartás nem üzemzavar vagy elsődleges energiaforrás-hiány következménye,
 
@@ -12,4 +12,4 @@ c) nem a termelő berendezésre vonatkozó környezetvédelmi, hatékonysági k�
 
 (4) A Hivatal az indokolatlan visszatartás megállapítása esetén a 96. § (1) bekezdés a)–b) pontjaiban meghatározott jogkövetkezményt alkalmazhatja, valamint határozatban meghatározza az erőművi teljesítőképesség felajánlandó mértékét.
 
-(5) A kiserőművek esetén az (1) bekezdésben foglalt felajánlási kötelezettség az üzemi szabályzatban meghatározottak szerint közösen is teljesíthető. A részletes szabályokat a villamosenergia-ellátási szabályzatok tartalmazzák.
+(5) A kiserőművek esetén az (1) bekezdésben foglalt felajánlási kötelezettség a villamosenergia-ellátási szabályzatokban meghatározottak szerint közösen is teljesíthető. A részletes szabályokat a villamosenergia-ellátási szabályzatok tartalmazzák.

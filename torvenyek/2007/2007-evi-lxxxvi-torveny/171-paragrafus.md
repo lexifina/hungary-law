@@ -24,19 +24,15 @@
 
 (7)
 
-(8) A Kormány a szükséges feltételek fennállása esetén dönt a 9. § szerinti rendszereket felváltó, külön jogszabályban meghatározott zöld bizonyítvány-rendszer bevezetéséről. A Kormány e bekezdés szerinti, zöld bizonyítvány-rendszer bevezetésével kapcsolatos döntése nem érinti a döntés meghozatalát megelőzően a Hivatal által kiadott határozatokban meghatározott átvételi kötelezettség alá eső villamos energia mennyiséget, az átvétel időtartamát, az e határozatok alapján átvételi kötelezettség alá eső villamos energiának az e törvény, illetve a felhatalmazása alapján kiadott külön jogszabály szerint meghatározott átvételi árát és a (6) bekezdés szerinti szerződések érvényességét.
+(8)
 
-(9) A bevezetés időpontjának megállapításakor figyelembe kell venni
+(9)
 
-a) a megújuló energiaforrást és a hulladékból nyert energiát felhasználó erőművek teljesítőképességét annak érdekében, hogy az általuk kibocsátott zöld bizonyítványok megfelelő kínálatot biztosítsanak a villamosenergia-vásárlók részére, és
+(10)
 
-b) a zöld bizonyítvány-rendszer nemzetközi tapasztalatait.
+(11)
 
-(10) A (9) bekezdésben foglaltakról a Hivatal kétévente tájékoztatja a Kormányt.
-
-(11) A 9. § szerinti rendszerek mellett a Kormány a Hivatal javaslatára dönt a külön jogszabályban meghatározott kapcsolt bizonyítvány-rendszer bevezetéséről. A kapcsolt bizonyítvány-rendszer szabályozására a Hivatal 2011. szeptember 1-jéig javaslatot tesz a Kormány számára. A Kormány e bekezdés szerinti, kapcsolt bizonyítvány-rendszer bevezetésével kapcsolatos döntése nem érintheti a döntés meghozatalát megelőzően a Hivatal által kiadott határozatokban meghatározott átvételi kötelezettség alá eső villamos energia mennyiséget, az átvétel időtartamát és az (5) bekezdés szerinti szerződések érvényességét.
-
-(12) A zöld, illetve kapcsolt bizonyítvány-rendszer bevezetése esetén a villamosenergia-kereskedő, a felhasználónak közvetlenül értékesítő termelői engedélyes, valamint a villamos energiát importáló felhasználó köteles a külön jogszabályban meghatározott mértékű villamosenergia-termelésnek megfelelő zöld és kapcsolt bizonyítványt beszerezni.
+(12)
 
 (13) Az Európai Bizottság adott bányavállalkozó esetében történt jóváhagyását követően, az adott bányavállalkozó esetében jóváhagyott mértékben 2018. december 31-éig szénipari szerkezetátalakítási támogatást lehet téríteni.
 

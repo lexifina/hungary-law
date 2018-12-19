@@ -1,4 +1,4 @@
-72. § (1) Az átviteli rendszerirányító, az elosztó hálózati engedélyes és a szervezett villamosenergia-piac engedélyese, valamint – az (5) bekezdésben foglaltak kivételével – a villamosenergia-kereskedő és a villamos energia termelői működési engedélyes üzletszabályzatot dolgoz ki.
+72. § (1) Az átviteli rendszerirányító, az elosztó hálózati engedélyes és a szervezett villamosenergia-piac engedélyese, valamint – az (5) bekezdésben foglaltak kivételével – a villamosenergia-kereskedő és az 50 MW és az ezt meghaladó névleges teljesítőképességű erőműre vonatkozó termelői működési engedélyes üzletszabályzatot dolgoz ki.
 
 (1a) Az üzletszabályzat készítésére kötelezett engedélyes honlapot tart fenn.
 

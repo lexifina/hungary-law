@@ -1,6 +1,6 @@
 ## Az engedély megszegése
 
-96. § (1) A Hivatal az engedélyes jelen törvényben, a végrehajtására kiadott külön jogszabályokban, a 714/2009/EK rendeletben, az Európai Bizottság által a 714/2009/EK rendelet alapján kiadott általános hatályú közvetlenül alkalmazandó uniós jogi aktusban, uniós jogi rendelkezésben, az Ügynökség az Energiaszabályozók Együttműködési Ügynökségéről szóló, 2009. július 13-i 713/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 713/2009/EK rendelet) alapján kiadott kötelező erejű határozatában, a villamosenergia-ellátási szabályzatokban, valamint az üzletszabályzatában, vagy a Hivatal által kiadott határozatokban meghatározott kötelezettségeinek megszegése esetén
+96. § (1) A Hivatal az engedélyes törvényben, kormányrendeletben, e törvény végrehajtására kiadott külön jogszabályokban, a 714/2009/EK rendeletben, az Európai Bizottság által a 714/2009/EK rendelet alapján kiadott általános hatályú közvetlenül alkalmazandó uniós jogi aktusban, uniós jogi rendelkezésben, az Ügynökség az Energiaszabályozók Együttműködési Ügynökségéről szóló, 2009. július 13-i 713/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 713/2009/EK rendelet) alapján kiadott kötelező erejű határozatában, a villamosenergia-ellátási szabályzatokban, valamint az üzletszabályzatában, vagy a Hivatal által kiadott határozatokban meghatározott kötelezettségeinek megszegése esetén
 
 a) a jogkövetkezményekre való utalás mellett írásban felszólítja az engedélyest a kötelezettségei betartására,
 
