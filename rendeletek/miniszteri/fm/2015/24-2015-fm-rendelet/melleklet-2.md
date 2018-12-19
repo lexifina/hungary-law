@@ -180,4 +180,8 @@ A központi kezelésű előirányzatokra vonatkozó különös rendelkezések
 
 | 72 |  |  |  | 1_Állami erdőgazdasági társaságok tőkeemelése | Az állami tulajdonú erdőgazdasági társaságok felett törvényben kijelölt tulajdonosi jogok gyakorlása keretében történő tőkeemelés. | állami tulajdonban lévő erdőgazdasági társaságok | - | - | 1. egy összegben, vagy 2. részletekben történő kifizetéssel | - | - | - | - | - |
 
-[^11]: A 2. melléklet a 86/2016. (XII. 20.) FM rendelet 2. § (3) bekezdésével megállapított szöveg.
+| 73 | 376862 |  |  | 2_Tulajdonosi joggyakorlással kapcsolatos egyéb kiadások | 1. Az állami tulajdonú gazdasági társaságok feletti tulajdonosi jogok gyakorlásával összefüggő kötelezettségek, és 2. a Budapest XII. kerület, Eötvös út 59. szám alatti (10497/7 hrsz.) ingatlan állami tulajdonba vételéhez kapcsolódó Áfa fizetési kötelezettség finanszírozása. | 1. állami tulajdonban lévő gazdasági társaság 2. költségvetési szerv | – | – | 1. egy összegben, vagy 2. részletekben történő kifizetéssel | – | – | – | – | – |
+
+| 74 | 377017 |  |  | 3_Nemzeti Agrár- kutatási és Innovációs Központ tulajdonosi joggyakorlá- sába tartozó kiadások | Nemzeti Agrárkutatási és Innovációs Központ tulajdonosi joggyakorlá- sába tartozó társaságok tőkeemelése | 1. A Nemzeti Agrárkutatási és Innovációs Központ tulajdonosi joggyakorlásába tartozó állami tulajdonú társaságok részére tulajdonosi jogok gyakorlása keretében történő 1.1. tőkeemelés, 1.2. részesedés- vásárlás, és 1.3. pótbefizetés finanszírozása | A Nemzeti Agrárkutatási és Innovációs Központ tulajdonosi joggyakorlásába tartozó állami tulajdonú társaságok | – | – | 1. egy összegben, vagy 2. részletekben történő kifizetéssel | – | – | Nemzeti Agrár- kutatási és Innovációs központ | – | – |
+
+[^11]: A 2. melléklet a 86/2016. (XII. 20.) FM rendelet 2. § (3) bekezdésével megállapított, a 41/2018. (XII. 18.) AM rendelet 1. § (2) bekezdése szerint módosított szöveg.
