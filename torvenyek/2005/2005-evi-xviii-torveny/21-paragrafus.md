@@ -4,13 +4,13 @@
 
 21. § (1) Távhőtermelő létesítmény, távhővezeték-hálózat, illetve annak részét képező berendezés, vezeték, valamint hőközpont elhelyezéséhez és üzemeltetéséhez szükséges idegen ingatlan használatára az engedélyes
 
-a) előmunkálati jogot,
+a)
 
 b) vezetékjogot,
 
-c) használati jogot,
+c) használati jogot és
 
-d) kisajátítást és
+d)
 
 e) biztonsági övezet kijelölést
 

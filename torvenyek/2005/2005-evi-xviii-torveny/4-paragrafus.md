@@ -10,7 +10,7 @@ a) kiadja, módosítja vagy visszavonja a távhőtermelő létesítmény létes�
 
 b) ellenőrzi a távhőtermelő és távhőszolgáltató működési engedélyében előírt követelmények, feltételek betartását, e tekintetben együttműködik a fogyasztóvédelmi hatósággal, továbbá a felhasználói érdekképviseletekkel;
 
-c) jóváhagyja az engedélyezési hatáskörébe tartozó engedélyes átalakulását, valamint az engedélyesekben történő befolyásszerzés, illetőleg a jegyzett tőke értékének változását;
+c) jóváhagyja az e törvény hatálya alá tartozó engedélyest érintő, a 19. § (1) bekezdése szerinti cégjogi eseményeket, valamint az engedélyesben történő befolyásszerzéseket;
 
 d) ellátja az ármegállapítással összefüggő, e törvényben meghatározott feladatokat;
 
@@ -20,8 +20,10 @@ f) negyedévenként rendszeresen vagy eseti felhívásra tájékoztatja az energ
 
 g) elvégzi a távhőszolgáltató működési területén a felhasználói elégedettségi szint, továbbá a távhőszolgáltatóval szembeni elvárás, valamint a távhőszolgáltatás jellemzőinek felmérését.
 
-(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
+(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél, a befolyásszerzőnél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
 
 (3) A Hivatal ellenőrzési feladatainak teljesítése érdekében, annak mértékéig jogosult a (2) bekezdésben meghatározottaktól eseti és rendszeres információt kérni, jogszabályban vagy hatósági döntésben előírt kötelezettségével, engedélyhez kötött tevékenységével vagy a távhőszolgáltatási támogatással kapcsolatos iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is.
 
 (4) Közigazgatási perben nincs helye a keresetlevél halasztó hatálya elrendelésének, ha a Hivatal határozatában a távhőszolgáltatási támogatás igénybevételének jogszerűsége, engedélyes kijelölése vagy engedélyének visszavonása tárgyában döntött.
+
+(5) A Hivatal véglegessé vált határozatait – a személyes és védett adatok kivételével – a honlapján közzéteszi.

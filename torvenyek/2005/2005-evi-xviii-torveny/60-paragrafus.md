@@ -18,7 +18,7 @@ h) a távhő előállítására szolgáló megújuló energia hasznosításának
 
 i) a távhőszolgáltatás árképzése átláthatóságának biztosítása érdekében, a távhőszolgáltatók által közérdekből közzéteendő adatok – különösen a távhőszolgáltatással kapcsolatos árszabályozás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját;
 
-j) az előmunkálati jog engedélyezésének részletes szabályait,
+j)
 
 k) a műszaki biztonsági szerv vagy szervek kijelölését,
 
@@ -54,4 +54,4 @@ i) állapítja meg a Hivatal miniszter részére történő adatszolgáltatási 
 
 (4)
 
-(5) A Hivatal elnöke rendeletben állapítja meg az engedélyes és az értékesítő által rendszeres és rendkívüli adatszolgáltatás keretében szolgáltatandó adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség határidejét.
+(5) A Hivatal elnöke rendeletben állapítja meg az engedélyes és az értékesítő által rendszeres és rendkívüli adatszolgáltatás keretében szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait.

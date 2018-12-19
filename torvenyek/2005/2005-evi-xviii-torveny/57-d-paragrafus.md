@@ -11,3 +11,5 @@
 (6) A földgáztüzelésen alapuló hőtermelési technológiát alkalmazó távhőtermelő – ideértve a távhőtermelői engedéllyel rendelkező távhőszolgáltatót is – köteles minden év július 1-jéig a következő gázévre vonatkozó földgáz beszerzési szerződést megkötni, és azt a Hivatal számára megküldeni.
 
 (7) Ha az engedélyes és az értékesítő az (5) bekezdésben foglalt határidőn belül nem nyújt tájékoztatást, szolgáltat adatot vagy foglal állást, a Hivatal a tájékoztatás, adatszolgáltatás, állásfoglalás hiányában is javaslatot tehet a miniszter részére.
+
+(8) Az adatszolgáltatásra kötelezett a tevékenységének megkezdése előtt vagy annak szüneteltetése alatt a Hivatal részére teljesítendő adatszolgáltatási kötelezettség alól a Hivatal elnökének rendeletében meghatározottak szerint mentességet kaphat.
