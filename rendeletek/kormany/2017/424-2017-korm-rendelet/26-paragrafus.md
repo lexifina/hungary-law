@@ -1,3 +1,5 @@
+## 25. §
+
 ## II. Fejezet
 
 ## AZ ELEKTRONIKUS ÁRLEJTÉS RÉSZLETES SZABÁLYAI
