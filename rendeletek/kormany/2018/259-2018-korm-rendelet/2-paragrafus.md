@@ -1,0 +1,1 @@
+## 1. § Hatályát veszti az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet 27. § (1) bekezdésében az „ , és az alvállalkozói teljesítés aránya nem haladja meg a Kbt. 138. § (1) és (5) bekezdésében meghatározott mértéket” szövegrész.
