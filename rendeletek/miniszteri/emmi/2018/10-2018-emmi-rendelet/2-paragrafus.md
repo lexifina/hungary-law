@@ -14,7 +14,7 @@ d) ellátási igény: a PET-ellátás elvégzése érdekében a PET Központi V�
 
 e) előjegyzés: az az ellátási igény, amely alapján a beteg kérelmére a PET-ellátást a PETVR által megállapított legkorábbi irányidőponthoz képest legalább 5 nappal későbbi időpontra tervezik;
 
-f) eseti elbírálási díj: az egyedi ellátási igények elbírálásban részt vevő Bizottsági, Szakmai Albizottsági vezetők és tagok részére esetenként biztosított díjazás;
+f)[^1]
 
 g) irányidőpont: az engedélyezett PET-ellátás elvégzésére a PETVR által meghatározott munkanap;
 
@@ -39,3 +39,5 @@ p) Szakmai Team: az egészségügyi szolgáltatások nyújtásához szükséges 
 q) tervezett megjelenési időpont: a PET-ellátás elvégzésének a beteggel közölt tervezett időpontja, melyet a munkanap, óra, perc megjelölésével kell megadni;
 
 r) várakozási idő: az igény regisztrálásától kezdődően az ellátás lelet kiadásával záruló befejezésig tartó időszak naptári napban meghatározva.
+
+[^1]: A 2. § f) pontját a 45/2018. (XII. 19.) EMMI rendelet 4. § (3) bekezdés a) pontja hatályon kívül helyezte.

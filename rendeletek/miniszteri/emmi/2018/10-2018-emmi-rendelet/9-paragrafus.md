@@ -14,4 +14,6 @@ f) értékelése alapján írásban jelzi a szükséges jogszabály módosítás
 
 (2) A Minőségellenőrzési Albizottság tagjait a NEAK főigazgatója bízza meg az e rendelet szerinti feladatok ellátásával. A Minőségellenőrzési Albizottság 3 tagból áll, amelyek közül egy a vezetője. A Minőségellenőrzési Albizottság vezetőjét a NEAK főigazgatója a tagok közül kéri fel. A Minőségellenőrzési Albizottság tagjai közül egy személy nukleáris medicina végzettséggel, 1 személy pedig a PET-vizsgálatra beutalás tekintetében az Ebtv.Vhr. 3. § (1) bekezdésében feltételként meghatározott szakmák valamelyikének megfelelő végzettséggel kell, hogy rendelkezzen, 1 személyt pedig a NEAK kormánytisztviselői közül kell kinevezni.
 
-(3) A Minőségellenőrzési Albizottság tagjai tekintetében a 7. § (7), (8) és – a NEAK kormánytisztviselő tag kivételével – (10) bekezdését alkalmazni kell.
+(3)[^6] A Minőségellenőrzési Albizottság tagjai tekintetében a 7. § (7) bekezdését alkalmazni kell.
+
+[^6]: A 9. § (3) bekezdése a 45/2018. (XII. 19.) EMMI rendelet 4. § (2) bekezdésével megállapított szöveg.

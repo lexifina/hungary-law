@@ -14,6 +14,9 @@ d) rögzíti a PETVR-ben a beteg állapotáról, az értékelési eljárásról 
 
 (4) A Szakmai Albizottság vezetője a tagok közül jelöli ki a helyetteseit.
 
-(5) A Szakmai Albizottság tagjai tekintetében a 7. § (6)–(8) és (10) bekezdését alkalmazni kell.
+(5)[^4] A Szakmai Albizottság tagjai tekintetében a 7. § (6) és (7) bekezdését alkalmazni kell.
 
-(6) A Szakmai Albizottság munkáját bírálatszervező segíti. A Szakmai Albizottság bírálatszervezője tekintetében a 7. § (9) és (10) bekezdését alkalmazni kell.
+(6)[^5] A Szakmai Albizottság munkáját bírálatszervező segíti. A Szakmai Albizottság bírálatszervezője tekintetében a 7. § (9) bekezdését alkalmazni kell.
+
+[^4]: A 8. § (5) bekezdése a 45/2018. (XII. 19.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^5]: A 8. § (6) bekezdése a 45/2018. (XII. 19.) EMMI rendelet 4. § (3) bekezdés c) pontja szerint módosított szöveg.

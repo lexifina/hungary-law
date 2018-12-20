@@ -26,8 +26,11 @@ c) rögzíti a PETVR-ben a beteg állapotáról, az értékelési eljárásról 
 
 (7) A Bizottság tagjainak megbízása két évre szól. Az új tagok kinevezéséig a korábbi Bizottság a munkáját folyamatosan ellátja.
 
-(8) A Bizottság tagja csak az lehet, aki vállalja, hogy az e rendelet szerinti feladatok ellátására irányuló megbízási szerződés megkötésétől számított 30 napon belül és a megbízási jogviszony megszűnésekor az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény melléklete szerinti vagyonnyilatkozatot tesz a NEAK felé.
+(8)[^2]
 
 (9) A Bizottság munkáját bírálatszervező segíti, aki továbbítja az elbírálandó ellátási igényeket a Bizottság tagjainak részére, és nyilvántartja a bizottsági tagok rendelkezésre állását.
 
-(10) A Bizottság tagjai, valamint a bírálatszervező az e rendelet szerinti feladatait a NEAK-kal kötött megbízási szerződésen alapuló megbízási jogviszony keretében végzi.
+(10)[^3]
+
+[^2]: A 7. § (8) bekezdését a 45/2018. (XII. 19.) EMMI rendelet 4. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^3]: A 7. § (10) bekezdését a 45/2018. (XII. 19.) EMMI rendelet 4. § (3) bekezdés b) pontja hatályon kívül helyezte.
