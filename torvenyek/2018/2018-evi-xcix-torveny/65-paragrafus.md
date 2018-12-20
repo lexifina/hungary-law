@@ -1,45 +1,45 @@
 65. § (1) Hatályát veszti a Vet.
 
-1. 3. § 28., 72. és 78. pontja,
+1.
 
 2.
 
-3. 27/A. §-a,
+3.
 
-4. 50/B. §-a,
+4.
 
-5. 146/A. § (12) bekezdése,
+5.
 
 6.
 
 7.
 
-8. 159. § (1) bekezdés 16. pontja,
+8.
 
-9. 170. § (1) bekezdés 21. pontjában az „, a kapcsolt mérlegkör tagsági szerződés” szövegrész,
+9.
 
 10.
 
 11.
 
-12. 170. § (1) bekezdés 55. pontja,
+12.
 
-13. 171. § (8)–(12) bekezdése,
+13.
 
 14.
 
-15. 172. §-a,
+15.
 
-16. 173. §-a,
+16.
 
-17. 178/C. §-a,
+17.
 
-18. 178/M. §-a,
+18.
 
-19. 178/N. § (2) bekezdése,
+19.
 
 20.
 
-21. 184. § (2) bekezdése.
+21.
 
-(2) Hatályukat vesztik a Vet. 105. § (3) és (4) bekezdésében a „számviteli” szövegrészek.
+(2)
