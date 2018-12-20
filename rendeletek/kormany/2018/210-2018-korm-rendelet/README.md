@@ -1,0 +1,9 @@
+# 210/2018. (XI. 20.) Korm. rendelet
+
+az energiafogyasztást befolyásoló termék energiacímkézéséről és termékismertetővel való ellátásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-210-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-12-20 | 2018-210-20-22.1 | 210/2018. (XI. 20.) Korm. rendelet |
