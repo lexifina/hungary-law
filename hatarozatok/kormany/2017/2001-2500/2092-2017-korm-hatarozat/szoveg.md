@@ -2,11 +2,11 @@
 
 2. A Kormány a lakosság egészségi állapotának javítása érdekében felhívja az emberi erőforrások miniszterét, hogy
 
-a) gondoskodjon a keringési betegségek megelőzését célzó komplex program megvalósításáról;
+a)[^1] gondoskodjon a keringési betegségek megelőzését célzó komplex program megvalósításáról;
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2018. december 31.
+Határidő: 2020. június 30.
 
 b) a keringési betegségek megelőzését célzó komplex program megvalósítása érdekében az általa vezetett minisztérium középtávú fejlesztési forrásainak tervezése és felhasználása során vegye figyelembe a komplex programban meghatározott feladatokat;
 
@@ -14,8 +14,11 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: folyamatos
 
-c) a keringési betegségek megelőzését célzó komplex program megvalósításáról készítsen jelentést a Kormány részére.
+c)[^2] a keringési betegségek megelőzését célzó komplex program megvalósításáról készítsen jelentést a Kormány részére.
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: a 2019. évtől kezdődően minden év március 1.
+Határidő: a 2021. március 1.
+
+[^1]: A 2. pont a) alpontja az 1764/2018. (XII. 20.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 2. pont c) alpontja az 1764/2018. (XII. 20.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
