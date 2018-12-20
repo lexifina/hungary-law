@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-307-20-
 | 2012-11-03 | 2012-307-20-22.1 | 307/2012. (X. 29.) Korm. rendelet |
 | 2012-11-04 | 2012-307-20-22.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2012-307-20-22.3 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2018-12-20 | 2012-307-20-22.4 | 210/2018. (XI. 20.) Korm. rendelet |
