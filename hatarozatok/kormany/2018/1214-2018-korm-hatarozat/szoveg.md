@@ -16,13 +16,7 @@ nemzeti fejlesztési miniszter
 
 Határidő: az ingatlanforgalmi értékbecslés rendelkezésre állását követően azonnal
 
-4. felhívja a nemzeti fejlesztési minisztert, hogy – az MNV Zrt. útján és az emberi erőforrások minisztere mint oktatásért felelős miniszter bevonásával – tegye meg a szükséges intézkedéseket az 1. pontban meghatározott ingatlan a Közép-Budai Tankerületi Központ részére történő vagyonkezelésbe adása érdekében;
-
-Felelős: nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-Határidő: az ingatlan állami tulajdonba kerülését követően azonnal
+4.[^1]
 
 5. felhívja a nemzeti fejlesztési minisztert, hogy – az emberi erőforrások minisztere mint oktatásért felelős miniszter bevonásával – készítsen előterjesztést az 1. pontban nevesített ingatlanon megvalósuló tornacsarnok kialakítása érdekében.
 
@@ -31,3 +25,5 @@ Felelős: nemzeti fejlesztési miniszter
 emberi erőforrások minisztere
 
 Határidő: az ingatlan állami tulajdonba kerülését követően azonnal
+
+[^1]: A 4. pontot az 1755/2018. (XII. 20.) Korm. határozat 5. pontja visszavonta.
