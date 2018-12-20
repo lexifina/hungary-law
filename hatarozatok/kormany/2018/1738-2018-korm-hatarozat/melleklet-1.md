@@ -24,54 +24,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:108 mezőjében a „0,08” szövegrész helyébe a „0,14” szöveg,
-
-## b) E:108 mezőjében a „0,01” szövegrész helyébe a „0,02” szöveg,
-
-## c) D:132 mezőjében a „0,13” szövegrész helyébe a „0,17” szöveg,
-
-## d) E:132 mezőjében a „0,02” szövegrész helyébe a „0,03” szöveg,
-
-## e) D:136 mezőjében a „0,08” szövegrész helyébe a „0,12” szöveg,
-
-## f) D:142 mezőjében a „0,10” szövegrész helyébe a „0,12” szöveg,
-
-## g) D:145 mezőjében a „0,16” szövegrész helyébe a „0,20” szöveg,
-
-## h) E:145 mezőjében a „0,02” szövegrész helyébe a „0,03” szöveg,
-
-## i) D:174 mezőjében a „0,12” szövegrész helyébe a „0,20” szöveg,
-
-## j) E:174 mezőjében a „0,02” szövegrész helyébe a „0,03” szöveg,
-
-## k) D:187 mezőjében a „0,03” szövegrész helyébe a „0,04” szöveg,
-
-## l) D:193 mezőjében a „0,30” szövegrész helyébe a „0,37” szöveg,
-
-## m) E:193 mezőjében a „0,05” szövegrész helyébe a „0,06” szöveg,
-
-## n) D:201 mezőjében a „0,19” szövegrész helyébe a „0,25” szöveg,
-
-## o) E:201 mezőjében a „0,03” szövegrész helyébe a „0,04” szöveg,
-
-## p) D:202 mezőjében a „0,19” szövegrész helyébe a „0,25” szöveg,
-
-## q) E:202 mezőjében a „0,03” szövegrész helyébe a „0,04” szöveg,
-
-## r) D:275 mezőjében a „0,45” szövegrész helyébe a „0,57” szöveg,
-
-## s) E:275 mezőjében a „0,05” szövegrész helyébe a „0,07” szöveg,
-
-## t) D:281 mezőjében a „0,20” szövegrész helyébe a „0,44” szöveg,
-
-## u) E:281 mezőjében a „0,04” szövegrész helyébe a „0,08” szöveg,
-
-## v) D:316d mezőjében az „1,26” szövegrész helyébe az „1,86” szöveg,
-
-## w) E:316d mezőjében a „0,19” szövegrész helyébe a „0,26” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1738/2018. (XII. 18.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
