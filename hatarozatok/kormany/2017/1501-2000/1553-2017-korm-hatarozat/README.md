@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1553-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-08-18 | 2017-1553-30-22.1 | 1553/2017. (VIII. 18.) Korm. határozat |
+| 2018-12-20 | 2017-1553-30-22.2 | 1759/2018. (XII. 20.) Korm. határozat |

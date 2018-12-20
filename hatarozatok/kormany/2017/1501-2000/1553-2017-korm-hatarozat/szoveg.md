@@ -40,16 +40,9 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-7. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon az Ingatlanok Magyar Állam tulajdonába kerüléséről szóló előterjesztés elkészítéséről és a Modern Városok Program Bizottsághoz történő benyújtásáról;
+7.[^1]
 
-Felelős: nemzeti fejlesztési miniszter
+8.[^2]
 
-Határidő: a 6. pont szerinti értékbecslések és a Kecskemét 478/2 helyrajzi számú ingatlannak a Kecskemét Megyei Jogú Város Önkormányzata által forgalomképes vagyoni körbe történő átsorolását követően
-
-8. felhívja a Miniszterelnökséget vezető minisztert, hogy a nemzeti fejlesztési miniszter bevonásával az Ingatlanok tulajdonjogának Magyar Állam javára történő megszerzése érdekében 2017. évben szükséges, legfeljebb a független ingatlanforgalmi szakértő által megállapított forgalmi érték alapján meghatározott összegű forrás – a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: 2017. évi Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások költségvetési fejezet javára a 2017. évi Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére történő – átcsoportosítása céljából gondoskodjon előterjesztés benyújtásáról az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdése szerinti döntés kezdeményezése érdekében.
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-nemzeti fejlesztési miniszter
-
-Határidő: az értékbecslést követően azonnal
+[^1]: A 7. pontot az 1759/2018. (XII. 20.) Korm. határozat 4. pontja visszavonta.
+[^2]: A 8. pontot az 1759/2018. (XII. 20.) Korm. határozat 4. pontja visszavonta.
