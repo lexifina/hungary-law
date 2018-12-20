@@ -1,0 +1,1 @@
+A Kormány – figyelemmel a Modern Városok Program keretében a Liszt Ferenc Zeneművészeti Egyetem kecskeméti Kodály Zoltán Zenepedagógiai Intézetének infrastruktúra fejlesztéséről szóló 1553/2017. (VIII. 18.) Korm. határozat (a továbbiakban: Korm. határozat) 5. pontjára –
