@@ -1,0 +1,365 @@
+## 1. jóváhagyólag tudomásul veszi a Magyar–Horvát Kisebbségi Vegyes Bizottság 2018. március 6-án, Budapesten megtartott XIV. ülésén kidolgozott és elfogadott, valamint a Magyar–Horvát Kisebbségi Vegyes Bizottság előző ülésén elfogadott ajánlások teljesítésének állásáról folytatott kölcsönös tájékoztatást követően fenntartott, az 1. mellékletben közzétett ajánlásokat;
+
+## 2. felhívja a miniszterelnök általános helyettesét, mint a Kormány nemzetpolitikáért felelős tagját, hogy a Magyar–Horvát Kisebbségi Vegyes Bizottság ajánlásainak tudomásulvételéről értesítse az érintett feleket;
+
+## Felelős: a miniszterelnök általános helyettese
+
+## Határidő: a határozat közzétételét követő 15. nap
+
+## 3. felhívja a feladat- és hatáskörrel rendelkező minisztereket, valamint felkéri a Nemzeti Média- és Hírközlési Hatóság elnökét, hogy az 1. melléklet 1. pontjában közzétett ajánlások végrehajtásának lehetőségét vizsgálják meg az alábbiak szerint:
+
+## 3.1. az ajánlások 3. alpontja tekintetében:
+
+## Felelős: emberi erőforrások minisztere
+
+## Határidő: 2019. március 31.
+
+## 3.2. az ajánlások 5. alpontja tekintetében:
+
+## Felelős: külgazdasági és külügyminiszter
+
+## Határidő: 2019. március 31.
+
+## 3.3. az ajánlások 7. alpontja tekintetében:
+
+## Felelős: innovációért és technológiáért felelős miniszter
+
+## Határidő: 2019. március 31.
+
+## 3.4. az ajánlások 8. alpontja tekintetében:
+
+## Felelős: innovációért és technológiáért felelős miniszter
+
+## Határidő: folyamatos
+
+## 3.5. az ajánlások 9. alpontja tekintetében:
+
+## Felelős: emberi erőforrások minisztere
+
+## Határidő: 2019. március 31.
+
+## 3.6. az ajánlások 10. alpontja tekintetében:
+
+## Felelős: emberi erőforrások minisztere
+
+## Határidő: folyamatos
+
+## 3.7. az ajánlások 11. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## emberi erőforrások minisztere
+
+## Határidő: 2019. március 31.
+
+## 3.8. az ajánlások 12. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## emberi erőforrások minisztere
+
+## pénzügyminiszter
+
+## Határidő: 2019. december 31.
+
+## 3.9. az ajánlások 14. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## emberi erőforrások minisztere
+
+## pénzügyminiszter
+
+## Határidő: 2019. december 31.
+
+## 3.10. az ajánlások 15. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## Határidő: 2019. március 31.
+
+## 3.11. az ajánlások 16. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## Határidő: 2019. március 31.
+
+## 3.12. az ajánlások 17. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## emberi erőforrások minisztere
+
+## Határidő: folyamatos
+
+## 3.13. az ajánlások 18. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## Határidő: folyamatos
+
+## 3.14. az ajánlások 19. alpontja tekintetében:
+
+## Felelős: emberi erőforrások minisztere
+
+## Határidő: folyamatos
+
+## 3.15. az ajánlások 22. alpontja tekintetében:
+
+## Felelős: emberi erőforrások minisztere
+
+## Határidő: folyamatos
+
+## 3.16. az ajánlások 23. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## Határidő: 2019. március 31.
+
+## 3.17. az ajánlások 25. alpontja tekintetében:
+
+## Felelős: emberi erőforrások minisztere Nemzeti Média- és Hírközlési Hatóság elnökének felkérésével
+
+## Határidő: 2019. március 31.
+
+## 3.18. az ajánlások 26. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## Határidő: folyamatos
+
+## 3.19. az ajánlások 28. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## emberi erőforrások minisztere
+
+## Határidő: 2019. március 31.
+
+## 3.20. az ajánlások 31. alpontja tekintetében:
+
+## Felelős: Miniszterelnökséget vezető miniszter
+
+## emberi erőforrások minisztere
+
+## Határidő: 2019. március 31.
+
+## 3.21. az ajánlások 32. alpontja tekintetében:
+
+## Felelős: innovációért és technológiáért felelős miniszter
+
+## Határidő: 2019. december 31.
+
+## 3.22. az ajánlások 33. alpontja tekintetében:
+
+## Felelős: emberi erőforrások minisztere
+
+## Határidő: 2019. március 31.
+
+## 3.23. az ajánlások 36. alpontja tekintetében:
+
+## Felelős: emberi erőforrások minisztere
+
+## Határidő: 2019. március 31.
+
+## 3.24. az ajánlások 37. alpontja tekintetében:
+
+## Felelős: emberi erőforrások minisztere
+
+## Határidő: 2020. december 31.
+
+## 3.25. az ajánlások 40. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## Miniszterelnökséget vezető miniszter
+
+## emberi erőforrások minisztere
+
+## Határidő: 2019. március 31.
+
+## 3.26. az ajánlások 42. alpontja tekintetében:
+
+## Felelős: emberi erőforrások minisztere a Nemzeti Média- és Hírközlési Hatóság felkérésével
+
+## Határidő: 2019. március 31.
+
+## 3.27. az ajánlások 44. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## emberi erőforrások minisztere
+
+## Határidő: 2019. március 31.
+
+## 3.28. az ajánlások 45. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## emberi erőforrások minisztere
+
+## Határidő: 2019. március 31.
+
+## 3.29. az ajánlások 50. alpontja tekintetében:
+
+## Felelős: a miniszterelnök általános helyettese
+
+## külgazdasági és külügyminiszter
+
+## emberi erőforrások minisztere
+
+## Határidő: folyamatos
+
+## 4. felhívja a feladat- és hatáskörrel rendelkező minisztereket, hogy az 1. melléklet 2. pontjában közzétett ajánlások végrehajtásának lehetőségét vizsgálják meg az alábbiak szerint:
+
+## 4.1. az ajánlások 1. alpontja tekintetében:
+
+## Felelős: Miniszterelnökséget vezető miniszter
+
+## külgazdasági és külügyminiszter
+
+## emberi erőforrások minisztere
+
+## Határidő: folyamatos
+
+1. melléklet az 1742/2018. (XII. 20.) Korm. határozathoz
+
+1. A Magyar–Horvát Kisebbségi Vegyes Bizottság 2018. március 6-án, Budapesten megtartott XIV. ülésén az előző ülésen elfogadott ajánlások teljesítésének állásáról folytatott kölcsönös tájékoztatást követően a következő ajánlások fenntartásában állapodott meg:
+
+1. A KVB javasolja a horvát félnek, hogy további eszközök biztosításával segítse elő az eszéki–rétfalui (Osijek–Retfala), csúzai (Suza), nagypiszanicai (Velika Pisanica), várdaróci (Vardarac), sepsei (Kotlina), vörösmarti (Zmajevac) református templomok, valamint a nagybodolyai (Podolje) katolikus templom felújítási munkálatainak folytatását, illetve befejezését. A KVB üdvözli mindkét fél folyamatos beruházásait a magyar kisebbség számára jelentőséggel bíró református templomok felújításában.
+
+2. A KVB megállapítja, hogy 2013. január 20-án életbe lépett a Határon Átnyúló Együttműködési Fórum létrehozására vonatkozó kétoldalú megállapodás, amelyet a felek a két kormány 2009. szeptember 17-én, Barcson megtartott harmadik együttes ülésén írtak alá; a megállapodást a magyar fél a 293/2009. (XII. 21.) számú kormányrendeletben, a horvát fél pedig a Hivatalos Közlönyben 10/2012. szám alatt közzétett, 2012. november 29-én kelt kormányrendeletben hirdette ki. Mindkét fél üdvözli a Magyar–Horvát Regionális Koordinációs Fórum alapjául szolgáló kormányközi megállapodást, mert annak működését a határon átnyúló együttműködések erősítése végett kiemelten fontosnak tartja. A KVB továbbra is javasolja, hogy a horvát fél nevezze ki a társelnököt és a Fórum tagjait, amit a magyar fél már megtett.
+
+3. A KVB megállapítja, hogy a horvátországi magyar gyermekek zánkai és a magyarországi horvát gyermekek Pag szigeti táboroztatásának támogatása mindkét fél részéről csak részben valósult meg. A KVB javasolja mindkét félnek, vizsgálja meg, illetve tegyen intézkedéseket a szükséges anyagi források biztosítására 100-100 horvát, illetve magyar gyermek anyaországi táboroztatásához.
+
+4. A KVB javasolja a horvát félnek, vizsgálja meg az Országos Horvát Önkormányzat Pag szigeti (hrsz. 132/3 és 132/4) ingatlan feletti jogai kibővítésének lehetőségét, mely ingatlant az OHÖ a Magyarországi Horvátok Kulturális, Képzési és Szabadidő Központja színtereként tart fenn. A KVB üdvözli az OHÖ elmúlt időszakban nevezett épületre fordított befektetéseit (tetőszerkezet felújítás, ingatlan földhivatali telekkönyvi hitelesítése, wellness központ kialakítása). A KVB üdvözli a magyar félnek az épület felújítás első szakasza lezárásához nyújtott pénzügyi támogatását.
+
+5. A KVB üdvözli, hogy a Horvát Köztársaság Európai Uniós csatlakozása óta megnyílt az út az európai területi társulások (ETT) alapítása előtt, és ennek eredményeként már két magyar–horvát ETT is működik a határszakaszon, melyek új tagokkal bővültek és nyertes pályázatokat bonyolítanak le. A KVB továbbra is javasolja mindkét félnek, tegyék intenzívebbé az együttműködést annak érdekében, hogy az ETT-k a 2014–2020 közötti fejlesztési periódus sikeres szereplői legyenek, valamint további tagokkal bővüljenek.
+
+6. A KVB megállapítja, hogy Magyarországon külön forrás áll rendelkezésre a nemzetiségi önkormányzatok uniós pályázati önrészének és előfinanszírozásának biztosítására. A KVB javasolja a horvát félnek, hogy az uniós fejlesztésű projektekben a horvátországi nemzetiségek számára is biztosított legyen az önrész és előfinanszírozás lehetősége.
+
+7. A KVB továbbra is fontosnak tartja a két ország közötti vasúti összeköttetés biztosítását, különösen a Pécs–Pélmonostor (Beli Manastir)–Eszék (Osijek) és a Budapest–Szarajevó (Sarajevo) vonatjáratok újbóli biztosításának lehetőségét, mely az egyetlen tömegközlekedési lehetőség a Magyarországon tanuló drávaszögi és kelet-szlavóniai középiskolások és egyetemisták számára. A KVB javasolja mindkét félnek, hogy az illetékes szaktárcák bevonásával mielőbb hozzák létre a Pécs–Pélmonostor–Eszék személyszállítási vasúti kapcsolatokat.
+
+A KVB mindkét félnek javasolja, segítsék elő az Eszék (Osijek) és Pécs közti rendszeres autóbuszjáratok visszaállítását.
+
+8. A KVB üdvözli, hogy jelentős előrehaladás történt a V/C páneurópai közlekedési folyosó nyomvonalán levő M6–A5 autópályáknak mindkét oldalon teljes autópálya keresztmetszetben kialakított összeköttetése, az M60 gyorsforgalmi út ütemezett megvalósítása és a horvát oldali csatlakozás (Pécs–Barcs (E6) – Virovitica – Nova Gradiška (E661) valamint a Sárok–Főherceglak (Kne¤evo) kisléptékű útkapcsolat horvát oldali szakaszának megvalósítása érdekében szükséges műszaki előkészítés terén. A KVB támogatja, hogy az államhatáron átvezető közúti kapcsolatok fejlesztése Magyarország és Horvátország közúti szervezeteinek és szakértőinek együttműködése keretében meghatározott ütemezésben és tartalommal kerüljön végrehajtásra.
+
+9. A KVB továbbra is javasolja a magyar félnek, vizsgálja meg annak lehetőségét, hogy az igényeknek megfelelően új oktatói státusz létesítésére és finanszírozására kerülhessen sor a Pécsi Tudományegyetem Bölcsészettudományi Kar Szlavisztika Intézetének Horvát Tanszékén.
+
+10. A KVB javasolja a felek kölcsönösen szorgalmazzák, hogy az eszéki J. J. Strossmayer Egyetem Magyar Nyelv és Irodalom Tanszéke és a Pécsi Tudományegyetem Bölcsészettudományi Kar Szlavisztika Intézetének Horvát Tanszéke a jövőben is végezhessen olyan kutatásokat, amelyekkel hozzájárulnak a magyarországi horvátokról és a horvátországi magyarokról szóló tudáshoz és annak gazdagításához, amivel nemcsak a horvát és a magyar nyelv tanulását, hanem a horvát és a magyar néprajz megismerését is előmozdítják.
+
+11. A KVB javasolja a feleknek, hogy a továbbiakban is támogassák a kisebbségkutatásokkal kapcsolatos projekteket. A KVB javasolja a magyar félnek „A magyarországi horvát bibliográfia 1918-tól napjainkig” című kutatási projekt befejezéséhez szükséges támogatást, és kéri a horvát felet, hogy vizsgálja meg a támogatás lehetőségét.
+
+12. A KVB üdvözli, hogy a magyar fél a pécsi Miroslav Krle¤a Horvát Óvoda, Általános Iskola, Gimnázium és Kollégium zökkenőmentes működése érdekében az intézményfenntartással járó többlettámogatást beépítette az Országos Horvát Önkormányzat költségvetésébe.
+
+A KVB javasolja a magyar félnek, hogy a pécsi Miroslav Krle¤a Horvát Óvoda, Általános Iskola, Gimnázium és Kollégium folyamatosan bővülő tanulói létszámára való tekintettel vizsgálja meg a tanterembővítéshez és új tornaterem építéséhez szükséges pénzeszközök biztosításának lehetőségét európai uniós források bevonásával. A KVB javasolja mindkét félnek, hogy támogassák a beadásra került pályázatot.
+
+13. A KVB megállapítja, hogy befejeződött a Horvátországi Magyar Oktatási és Művelődési Központ (HMOMK) kollégiumának megépítéséhez szükséges engedélyek kiadásával kapcsolatos eljárás, valamint üdvözli, hogy a horvát fél a 2018. és 2019. évi állami költségvetésben biztosította a diákotthon megépítéséhez szükséges forrásokat.
+
+A KVB javasolja a horvát félnek a kollégium működéséhez szükséges személyi és tárgyi feltételek biztosítását.
+
+A KVB javasolja továbbá a horvát félnek, vizsgálja meg a Horvátországi Magyar Oktatási és Művelődési Központ többcélú terme korszerűsítéséhez szükséges pénzügyi támogatás lehetőségét, valamint energiahatékonyság céljából törekedjen az egész épület szigetelésére különböző pénzügyi források felhasználásával.
+
+14. A KVB megállapítja, hogy a Hercegszántói Horvát Tanítási Nyelvű Óvoda, Általános Iskola és Kollégium bővítésének második fázisához (tanterem, konyha, közösségi színtér és tanulói társas terek) a tervek elkészültek, és a magyar fél az előkészületekhez pénzügyi támogatást biztosított. KVB javasolja a magyar félnek, vizsgálja meg a projekt folytatásának finanszírozását különböző pénzügyi források bevonásával. E projektet mindkét fél kiemelten fontosnak tartja a magyarországi horvát kisebbség szempontjából.
+
+15. A KVB továbbra is javasolja a horvát félnek, hogy vizsgálja meg pénzeszközök biztosításának lehetőségét a kórógyi (Koro≡) tornaterem megépítéséhez, valamint kéri a magyar felet, hogy a felmerülő igények esetén lehetőségeihez mérten járuljon hozzá a beruházáshoz.
+
+16. A KVB továbbra is javasolja a horvát félnek, tekintse át az újbezdáni (Novi Bezdan) és kórógyi (Koro≡) óvodák megépítésének lehetőségeit, valamint kéri a magyar felet, hogy a felmerülő igények esetén lehetőségeihez mérten járuljon hozzá a beruházáshoz.
+
+17. A KVB javasolja a magyar félnek, hogy továbbra is kiemelten támogassa a horvát kétnyelvű közoktatási intézményeket, illetőleg azon oktatási intézmények fenntartását, amelyekben horvát nyelvet is oktatnak, valamint azokat, amelyek a magyarországi horvát tanulók oktatása és nevelése szempontjából fontosak. A KVB javasolja a feleknek, hogy lehetőségeikhez mérten vizsgálják meg a horvát nemzetiségi képzést folytató oktatási intézmények többletfinanszírozásának lehetőségét.
+
+18. A KVB üdvözli, hogy a magyar fél oktatási-nevelési támogatást biztosít a Horvátországban magyar nyelven tanulmányokat folytató diákoknak, és javasolja a magyar félnek, hogy folytassa a támogatás biztosítását. A KVB javasolja a horvát félnek, vizsgálja meg a Magyarországon horvát nyelvoktatásban részesülő diákoknak nyújtandó hasonló támogatás lehetőségét.
+
+19. A KVB javasolja a horvát félnek, hogy a magyar nyelvű oktatás igényeinek megfelelően folytassa az összes szükséges magyar nyelvű tankönyv kiadásának támogatását.
+
+A KVB javasolja a magyar félnek, hogy a jövőben is folytassa a tankönyvek biztosítását a magyarországi horvát nyelvű oktatás feltételeinek javítása érdekében, valamint támogassa az eredeti tankönyvek fejlesztését és a magyar nyelvű tankönyvek horvát nyelvre való fordítását. A KVB javasolja a Croatica Nonprofit Kft. kiadóval megkezdett tárgyalások folytatását.
+
+20. A KVB üdvözli, hogy a horvát fél által biztosított forrásokból a tervezett határidőben megépült a laskói (Lug) általános iskola tornaterme. A KVB továbbá kéri a horvát felet, vizsgálja meg a külső sportpálya és a tereprendezés befejezésének lehetőségét.
+
+21. A KVB üdvözli, hogy a magyar fél támogatásával Nardán újra megkezdi működését a horvát nyelvű óvoda. A KVB üdvözli, hogy a magyar fél támogatásával Szombathelyen megkezdődött a Horvát Oktatási Központ felmenő rendszerű kialakítása a nyugat-magyarországi horvátok részére, valamint a Miroslav Krle¤a Horvát Oktatási Központ tagintézményeként megalapították a Szombathelyi Horvát Óvodát, és megkezdődött a kétnyelvű általános iskola engedélyezési eljárása. A köznevelési feladatok biztosításához elengedhetetlenül szükséges az intézmény önálló elhelyezése saját ingatlanban. Az ingatlanfejlesztés I. üteméhez a magyar fél időközben támogatást biztosított.
+
+22. A KVB üdvözli, hogy a magyar fél sikeresen befejezte a pécsi horvát színház megépítését. A KVB üdvözli mindkét fél hozzájárulását e jelentős projekt megvalósításához.
+
+A KVB üdvözli, hogy a Pécs Megyei jogú Város Önkormányzatának Közgyűlése határozata alapján megkezdődtek a tárgyalások az Országos Horvát Önkormányzattal a Horvát Színház átadásáról és későbbi működésének feltételeiről.
+
+A KVB javasolja mindkét félnek, tekintsék át a színházi programokkal, vendégszereplésekkel és koprodukciókkal kapcsolatos jövőbeni együttműködés lehetőségét.
+
+23. A KVB javasolja a magyar félnek, vizsgálja meg annak lehetőségét, hogy a Croatica Nonprofit Kft. keretében létrehozott Horvát Kulturális – Információs Központ működésének támogatása kerüljön be a költségvetési törvénynek az Országos Horvát Önkormányzat által fenntartott intézmények finanszírozási rovatába.
+
+24. A KVB javasolja a horvát félnek, hogy lehetőségeihez mérten biztosítsa a laskói (Lug) kultúrotthon építéséhez szükséges forrásokat. A KVB üdvözli, hogy a horvát fél a laskói (Lug) Ifjúsági Otthon építésének befejezéséhez, valamint a Horvátországi Magyarok Demokratikus Közössége számára 2018-ban az Ifjúsági Otthon szükségleteit kiszolgáló laskói telekvásárlásához pénzügyi támogatást biztosított.
+
+25. A KVB üdvözli a Médiaszolgáltatás-támogató és Vagyonkezelő Alap nemzetiségi műsorkészítés javítására tett erőfeszítéseit, és szorgalmazza e feltételek további javítását, különös tekintettel a nemzetiségi anyagok kölcsönös digitális archiválására és a nem kereskedelmi célú hozzáférés jelentős könnyítésére.
+
+A KVB javasolja a feleknek, hogy a közszolgálati médiaszolgáltatásaikban növeljék a nemzetiségi tartalmú anyanyelvű műsorokat, javítsák e műsorkészítés feltételeit és biztosítsák a műsorokhoz való szabad hozzáférést.
+
+A KVB javasolja mindkét félnek a személyi, szervezeti és technikai együttműködési lehetőségek további erősítését, különösen a közszolgálati médiaszolgáltatók közötti együttműködési megállapodás formájában.
+
+26. A KVB javasolja a feleknek, vizsgálják meg horvátországi lelkipásztorok biztosítását Magyarország horvátok lakta régióiban a horvát katolikus anyanyelvű hitélet elősegítése érdekében, valamint állandó lelkipásztor biztosításának a lehetőségét a zágrábi és a vukovári magyar katolikusok anyanyelvű hitélete gyakorlásának az elősegítése érdekében.
+
+27. A KVB megállapítja, hogy a magyar fél teljesítette kötelezettségét a magyarországi horvát közösség temetőinek a fenntartása és védelme érdekében, valamint temetőik dokumentálása, gondozása, történeti, művészi, néprajzi értékű síremlékeinek szakszerű megóvása érdekében. A KVB javasolja, hogy a horvát fél is ugyanezt tegye meg a horvátországi magyar közösség számára.
+
+28. A KVB üdvözli, hogy a magyar fél támogatta a Zornica című horvát katolikus folyóirat megjelentetését, továbbá javasolja a magyar félnek, hogy vizsgálja meg annak lehetőségét, hogy a folyóirat kiadásának költségei kerüljenek be a költségvetési törvény által garantált Országos Horvát Önkormányzat működési és média támogatás rovatába, ezzel biztosítva a folyamatos megjelentetést.
+
+29. A KVB üdvözli, hogy a magyar fél az Országos Horvát Önkormányzat költségvetésében folyamatosan biztosítja a magyarországi horvátok hetilapja, a Hrvatski Glasnik zavartalan megjelenését.
+
+30. A KVB üdvözli, hogy mindkét fél jelentős erőfeszítéseket tett a kisebbségi műsorok két ország elektronikus médiumaiban történő megjelenése érdekében.
+
+31. A KVB javasolja, hogy a felek – a kétoldalú munkatervvel összhangban – vizsgálják meg a fiumei (rijekai) kikötő történelmi épületeinek megmentését szolgáló uniós projekt előkészítésének, kidolgozásának és végrehajtásának lehetőségét.
+
+32. A KVB javasolja a feleknek, hogy a két ország közti közúti összeköttetés javítása, valamint a személyek és áruk szabad mozgásának elősegítése érdekében vizsgálják meg a két ország közötti határszakasz Dráva és Mura folyón épülő új hidakkal (pl. Murakeresztúr – Kotoriba között), valamint határátkelőhelyekkel való ellátásának szükségességét és lehetőségeit, különösen a Barcs (Terezino Polje) és Drávaszabolcs (Donji Miholjac) közti határszakasz vonatkozásában, ami nagy jelentőséggel bír a magyarországi horvát nemzetiség és a horvátországi magyar nemzeti közösség számára.
+
+33. A KVB javasolja a magyar félnek, hogy a felmerülő igények és a vonatkozó jogszabályok alapján vizsgálja meg annak lehetőségét, hogy a budapesti Eötvös Loránd Tudományegyetem Bölcsészettudományi Karán újraalakuljon az önálló Kroatisztika Tanszék, figyelembe véve a budapesti egyetem jogelődje által kialakított 140 éves kroatisztikai hagyományt, valamint a két horvát nyelvi tanulmányokat kínáló intézmény, a budapesti Eötvös Loránd Tudományegyetem és a Nyugat-magyarországi Egyetem szombathelyi központjának megvalósult egyesülését.
+
+34. A KVB javasolja a horvát félnek, hogy az igényeknek megfelelően, vizsgálja meg a Zágrábi Egyetem Bölcsészettudományi Kara Hungarológiai Tanszékén újabb nyelvtanári álláshely létesítését.
+
+35. A KVB javasolja a horvát félnek, hogy folytassa a horvátországi egyetemeken továbbtanuló diákoknak történő ösztöndíj-folyósítást, valamint törekedjen arra, hogy minden érdekelt horvát származású, Horvátországban tanuló hallgatónak ösztöndíjat biztosítson. A KVB továbbá javasolja a horvát félnek, hogy vizsgálja meg a Horvátországban tanuló magyarországi horvát egyetemi hallgatók egészségbiztosítási ellátásával kapcsolatos hiányosságok megoldását.
+
+36. A KVB javasolja a magyar félnek, hogy a Horvátországba irányuló államközi ösztöndíjakról szóló végső döntés meghozatala előtt a Tempus Közalapítvány kérje ki az Országos Horvát Önkormányzat illetékes testületének véleményét.
+
+37. A KVB javasolja a horvát félnek a magyar nemzetiségű tanulóknak szóló kerettanterv mielőbbi kidolgozását, valamint javasolja a horvát félnek, hogy támogassa a „Magyar anyanyelvápolás“ tantárgyhoz kapcsolódó tankönyvek szerkesztésének és kiadásának finanszírozását.
+
+A KVB javasolja a magyar félnek, hogy a nemzetiségi tankönyvfejlesztési terv keretében segítse elő a horvát nemzetiségi nyelvoktató iskolák számára szükséges tankönyvek szerkesztésének és kiadásának finanszírozását, így különösen „A horvát nyelv ápolása/Njegovanje hrvatskog jezika” c. könyvre, amelyre vonatkozóan az Országos Horvát Önkormányzat kidolgozott koncepcióval rendelkezik.
+
+38. A KVB üdvözli, hogy a magyar fél támogatta a Magyarországi Horvátok Tudományos Intézetének elhelyezését, továbbá hozzájárult a hazai horvát közösség köznevelési, kulturális és tudományos centrumának létrehozása keretében a pécsi Horvát Ház kialakításához.
+
+39. A KVB továbbra is javasolja a horvát félnek, vizsgálja meg a magyarországi horvát kiadványok rendszeres megvásárlásának lehetőségét, és továbbítsa azokat a horvátországi könyvtárakba, hogy elérhetők legyenek a horvát közönség számára.
+
+40. A KVB javasolja a feleknek, hogy az Emberi Erőforrások Minisztériuma és a Horvát Köztársaság Kulturális Minisztériuma által a kulturális együttműködésről kötendő új szerződés előkészületei során konzultáljanak a horvátországi magyarok, illetve a magyarországi horvátok megválasztott képviselőivel.
+
+A KVB megállapítja, hogy a magyar fél támogatást biztosított a Magyarországon élő horvát nemzetiségre vonatkozó történelmi adatbázis létrehozásához, és a kulturális együttműködési programban foglaltakkal összhangban kéri a horvát felet, hogy ugyanezt biztosítsa a Horvátországban élő magyar közösség számára is.
+
+A felek megállapodtak abban, hogy pénzügyi lehetőségeikhez mérten együttműködnek a kulturális örökség kutatására, dokumentálására, fenntartására és helyreállítására irányuló projektekben.
+
+41. A KVB üdvözli, hogy a magyar fél támogatást biztosított az Országos Horvát Önkormányzat stratégiai tervében szereplő Magyarországi Horvátok Lexikonja szerkesztéséhez, és javasolja a horvát félnek, hogy továbbra is támogassa a Magyarországi Horvátok Tudományos Intézete legfontosabb projektjének megvalósítását.
+
+42. A KVB üdvözli azt a jelentős támogatást, amit a magyar fél a Croatica Nonprofit Kft. épületében található többcélú terem és a Croatica internetes rádióállomás működéséhez biztosított. A KVB javasolja a magyar félnek, vizsgálja meg a 2018. évben induló internetes televízió munkájához és működtetéséhez szükséges források biztosításának lehetőségét. A KVB javasolja felvenni a Croatica Nonprofit Kft. keretében működő Horvát Média Központ tevékenysége kiszélesítésének támogatását internettévé szolgáltatással, valamint javasolja az új médiatartalom beindításához és működtetéséhez szükséges források biztosítása megvizsgálásának lehetőségét. Emellett a KVB javasolja a magyar félnek, hogy vizsgálja meg a Croatica Nonprofit Kft. archívumában fellelhető horvát nemzetiségi anyagok digitális archiválása finanszírozásának lehetőségét, és a horvát közösség részére nem kereskedelmi célú hozzáférés lehetőségét.
+
+43. A KVB üdvözli a horvát fél által 2018. évben az Új Magyar Képes Újság hetilap és a Drávatáj televíziós műsor szerkesztősége székhelyének megépítéséhez biztosított anyagi forrásokat.
+
+A KVB üdvözli, hogy a horvát fél biztosítja a Horvátországi Magyarok Demokratikus Közössége által kiadott Új Magyar Képes Újság magyar nyelvű hetilap megjelentetéséhez és a Drávatáj magyar nyelvű televíziós műsorhoz szükséges pénzügyi támogatást.
+
+A KVB javasolja a horvát félnek, biztosítson rendszeres költségvetési tételt az Állami Költségvetésben a Horvátországi Magyarok Demokratikus Közössége által kiadott Új Magyar Képes Újság magyar nyelvű hetilap kiadására és a szerkesztőség működtetésére és a Drávatáj televíziós műsorra.
+
+44. A KVB javasolja, hogy a magyar fél vizsgálja meg rendszeres támogatás biztosításának lehetőségét az Országos Horvát Önkormányzat által fenntartott, már meglévő és az újonnan alapított nemzetiségi kulturális intézmények működéséhez.
+
+45. A KVB javasolja a magyar félnek, hogy vizsgálja meg a horvát katolikus anyanyelvű hitélet építészeti örökségének megőrzése érdekében a rendkívül rossz állapotban lévő Felsőszentmártoni Római Katolikus Templom felújításának támogatását, valamint a drávasztárai templom belső terének felújítását és restaurálását.
+
+46. A KVB javasolja a horvát félnek, hogy vizsgálja meg a magyarországi horvát intézmények, valamint egyéb jogi személyek és szervezetek számára a horvátországi projektfinanszírozási pályázatokon való részvételt.
+
+47. A KVB továbbra is javasolja a horvát félnek, hogy tegyen lépéseket a zágrábi Ady Endre Magyar Kultúrkör székházának hosszú távú megoldása ügyében figyelembe véve mindazt, amit az Ady Endre Kultúrkör a zágrábi magyaroknak és Zágráb városának jelent.
+
+48. A KVB javasolja a horvát félnek, vizsgálja meg a kórógyi (Koro≡) kultúrotthon teljes körű felújításának lehetőségét.
+
+49. A KVB üdvözli, hogy a horvát fél támogatásából kialakításra került a pélmonostori (Beli Manastir) Magyar Ház, melynek átadása 2017 novemberében megtörtént.
+
+50. KVB javasolja a feleknek, hogy a közös keresztény múltra, valamint az európai keresztény hagyományokra és közös múltbeli eseményekre és személyiségekre való megemlékezés jegyében folytassák a közös rendezvények és egyéb események megtartását az érintett intézmények irányelveinek és a két állam hatályos jogszabályai és előírásainak megfelelően.
+
+51. A magyar fél javasolja a horvát félnek, tegyenek lépéseket annak érdekében, hogy a klisszai (Klis) vár falán helyezzék ki az ott született Árpád-házi Szent Margit emlékét őrző márványtáblát.
+
+2. A Magyar–Horvát Kisebbségi Vegyes Bizottság 2018. március 6-án, Budapesten tartott XIV. ülésén a következő ajánlásokat fogalmazta meg a két ország kormányai számára:
+
+1. A KVB javasolja a feleknek, hogy mindkét országban minél többen támogassák aláírásukkal a Minority SafePack – Egymillió aláírás a sokszínű Európáért elnevezésű, a kisebbségi közösségek európai uniós jogvédelmének megteremtését célzó Nemzeti Kisebbségvédelmi Kezdeményezést, tekintettel arra, hogy olyan ügyről van szó, amely hosszú távon nagymértékben befolyásolhatja a magyar és a horvát őshonos nemzeti kisebbség jogainak biztosítását.
+
+2. A KVB üdvözli, hogy a magyar fél 2018-tól egy művelődésszervező fizetésével segíti az eszéki Horvátországi Magyar Oktatási és Művelődési Központ kulturális feladatainak ellátását. A KVB továbbra is javasolja a horvát félnek, hogy mielőbb biztosítson az intézményben egy művelődésszervezői státust, az intézmény 1999-ben elfogadott statútuma alapján, a Központ teljes körű működésének biztosítása érdekében.
+
+A KVB javasolja a horvát félnek, a magyarországi horvát nemzetiségi oktatási tapasztalatok figyelembe vételével vizsgálja meg magyar nyelvi előkészítő indításának lehetőségét az eszéki Horvátországi Magyar Oktatási és Művelődési Központban.
