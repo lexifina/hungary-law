@@ -1,0 +1,1 @@
+A Kormány a Magyar Posta Zártkörűen Működő Részvénytársaság (a továbbiakban: Magyar posta Zrt.) által az állam részére nyújtott egyes szolgáltatások ellentételezéséhez szükséges forrás biztosítása érdekében
