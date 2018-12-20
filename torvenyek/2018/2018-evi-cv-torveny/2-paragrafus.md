@@ -1,3 +1,1 @@
-2. § A Ktv. a következő 11/A. §-sal egészül ki:
-
-„11/A. § Ha e törvény 4. § (3) bekezdése alapján lefolytatott pályázat eredményes, a koncessziós szerződés megkötésével egyidejűleg a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdésében foglalt feltételeknek megfelelő szerződés megszűnik.”
+2. §
