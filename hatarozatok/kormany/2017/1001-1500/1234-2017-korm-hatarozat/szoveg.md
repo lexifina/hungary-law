@@ -1,6 +1,6 @@
 A Kormány a lakosság egészségi állapotának javítása érdekében
 
-1. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a következő programok megvalósításáról:
+1.[^1] felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a következő programok megvalósításáról:
 
 a) „Helybe visszük a szűrővizsgálatokat” program,
 
@@ -12,7 +12,7 @@ d) az a)–c) pontban foglalt népegészségügyi intézkedéseket támogató �
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2018. december 31.
+Határidő: 2020. június 30.
 
 2. felhívja az emberi erőforrások miniszterét, hogy dolgozza ki az 1. pont c) alpontja szerinti komplex programra vonatkozó előterjesztést;
 
@@ -74,8 +74,11 @@ ab) 2018. évi európai uniós forrás: 675,3 millió forint;
 
 b) az 1. pont c) alpontja tekintetében 2017. és 2018. évi összes európai uniós forrás: 1176,8 millió forint;
 
-6. felhívja az emberi erőforrások miniszterét, hogy az 1. és 2. pont szerinti intézkedések megvalósításáról készítsen jelentést a Kormány részére.
+6.[^2] felhívja az emberi erőforrások miniszterét, hogy az 1. és 2. pont szerinti intézkedések megvalósításáról készítsen jelentést a Kormány részére.
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: a 2018. évtől kezdődően minden év március 1.
+Határidő: a 2021. március 1.
+
+[^1]: Az 1. pont az 1764/2018. (XII. 20. Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^2]: A 6. pont az 1764/2018. (XII. 20. Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
