@@ -28,18 +28,9 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a 3. pontban megjelölt többletforrás rendelkezésre állását követően
 
-5. felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy a Program 2018. évi indításához (kikötői infrastruktúra fejlesztéséhez, vízi útvonalak kijelöléséhez, tíz hajó vásárlásához, képzések lebonyolításához, hajózási információs rendszer kiépítéséhez, illetve a későbbi új útvonalak előkészítéséhez) a MAHART Zrt. számára gondoskodjon 2 790 000 000 forint többletforrás biztosításáról a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet javára;
+5.[^1]
 
-Felelős: nemzetgazdasági miniszter
+6.[^2]
 
-nemzeti fejlesztési miniszter
-
-Határidő: felmerülés ütemében
-
-6. felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy a Keleti-főcsatorna bevonása érdekében (új útvonalak kialakítása, kikötők létesítése, hajópark bővítése tíz hajóval) a 2019. évben a MAHART Zrt. számára gondoskodjon 1 770 000 000 forint többletforrás biztosításáról a Magyarország 2019. évi központi költségvetése XVII. Nemzeti Fejlesztési Minisztérium fejezet javára.
-
-Felelős: nemzetgazdasági miniszter
-
-nemzeti fejlesztési miniszter
-
-Határidő: a 2019. évi központi költségvetés tervezése során
+[^1]: Az 5. pontot az 1761/2018. (XII. 20.) Korm. rendelet 4. pontja visszavonta.
+[^2]: A 6. pontot az 1761/2018. (XII. 20.) Korm. rendelet 4. pontja visszavonta.
