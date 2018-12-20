@@ -1,1 +1,0 @@
-## 1. § A nemzetiségi és egyházi célú, valamint az üldözött keresztények megsegítését célzó fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 1/2018. (VIII. 31.) TNM rendelet (a továbbiakban: R.) 2. melléklete az 1. melléklet szerint módosul.
