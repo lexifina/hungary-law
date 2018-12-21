@@ -1,1 +1,1 @@
-105. § Nem lép hatályba az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 28. § (2) bekezdése.
+105. §

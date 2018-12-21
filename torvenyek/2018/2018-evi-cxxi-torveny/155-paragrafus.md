@@ -3,11 +3,3 @@
 (2) E törvény 16. § (3) bekezdése és 24. § f) pontja az Alaptörvény 46. § (6) bekezdése alapján sarkalatosnak minősül.
 
 (3) E törvény 86. §-a az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

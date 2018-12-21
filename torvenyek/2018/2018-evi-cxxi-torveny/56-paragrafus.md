@@ -1,1 +1,1 @@
-56. § A Szaztv. 37. § (3) bekezdésében a „központi ügyfél-regisztrációs szerv” szövegrész helyébe a „központi ügyfél-regisztrációs szerv, valamint a (2) bekezdés d) pontja szerinti közúti közlekedési nyilvántartás járműnyilvántartását vezető szerv” szöveg lép.
+56. §
