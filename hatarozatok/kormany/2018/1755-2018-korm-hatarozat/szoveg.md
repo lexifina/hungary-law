@@ -30,4 +30,6 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: e határozat közzétételét követő hat hónapon belül
 
-5. visszavonja a Budapest II. Kerületi Szabó Lőrinc Kéttannyelvű Általános Iskola és Gimnázium tornacsarnoka megvalósításához szükséges ingatlanvásárlásról szóló 1214/2018. (IV. 6.) Korm. határozat 4. pontját.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
