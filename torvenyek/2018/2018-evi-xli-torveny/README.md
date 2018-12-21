@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-41-00-00
 | 2018-11-24 | 2018. évi LXXXII. törvény | 2018-41-00-00.11 |
 | 2018-12-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-41-00-00.12 |
 | 2018-12-02 | 2010. évi CXXX. törvény | 2018-41-00-00.13 |
+| 2018-12-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-41-00-00.14 |
