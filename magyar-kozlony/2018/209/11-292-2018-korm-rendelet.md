@@ -1,0 +1,117 @@
+# A Kormány 292/2018. (XII. 21.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 209. szám, 2018. december 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/gp4SEHJnNtmw68YWSahX5c1aa0e80b874/dokumentumok/dd82ad295f630940ab7308cb468a715d71acb540/letoltes)
+
+---
+
+A Kormány 292/2018. (XII. 21.) Korm. rendelete
+a postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes
+szabályairól, valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból
+kizárt vagy feltételesen szállítható küldeményekről szóló 335/2012. (XII. 4.) Korm. rendelet módosításáról
+A Kormány a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 78. § (1) bekezdés a), b) és c) pontjában kapott felhatalmazás
+alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól,
+valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból kizárt vagy feltételesen
+szállítható küldeményekről szóló 335/2012. (XII. 4.) Korm. rendelet (a továbbiakban: Rendelet) 5. §-a helyébe
+a következő rendelkezés lép:
+„5. § Az egyetemes postai szolgáltatások keretében küldeményenkénti díjszabás szerint feladott küldeményekkel
+kapcsolatos postai szolgáltatás igénybevételéhez szükséges nyomtatványokat – az adott alkalommal feladásra
+
+kerülő küldeményekhez igazodó mennyiségben – e rendelet eltérő rendelkezésének hiányában a postai szolgáltató
+díjmentesen bocsátja rendelkezésre. E nyomtatványokat a postai szolgáltató által kitöltendő adatok kivételével
+hiánytalanul, kitöltötten kell a küldemény feladásakor a postai szolgáltató számára átadni.”
+2. § (1) A Rendelet 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A postai küldeményt a címzett vagy e rendelet eltérő rendelkezésének hiányában az egyéb jogosult átvevő
+részére kell kézbesíteni. Egyéb jogosult átvevőnek a 15. § (4) bekezdése és a 16. § (4) bekezdése szerinti alkalmi
+átvevő, a 16. § (3) bekezdésében meghatározott helyettes átvevő, a 19. §-ban meghatározott meghatalmazott,
+valamint a 20. §-ban meghatározott közvetett kézbesítő minősül. A postai küldemény feladója a postai küldemény
+feladásakor utólagosan igazolható módon tett nyilatkozatában rendelkezhet úgy, hogy az egyéb jogosult átvevői
+kör vonatkozásában a postai szolgáltató az általános szerződési feltételeknek a postai küldemények kézbesítésére
+vonatkozó részében meghatározottak szerint korlátozó intézkedést alkalmazzon.”
+(2) A Rendelet 9. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A postai küldemény kézbesítésével vagy kézbesítési kísérletével kapcsolatos tények igazolása, valamint a postai
+szolgáltatásokhoz kapcsolódó többletszolgáltatás teljesítése érdekében a postai szolgáltató az erre rendszeresített
+technikai eszközzel hely és időpont adatokat is rögzíthet.”
+3. §
+A Rendelet 16. §-a a következő (6) és (7) bekezdéssel egészül ki:
+„(6) A postai küldemény érkezéséről szóló értesítés céljából
+a) a postai szolgáltatási szerződés létrejöttekor a feladó, vagy
+b) a postai szolgáltatáshoz igénybevett kiegészítő szolgáltatás megrendelésekor a címzett írásban
+a postai szolgáltató rendelkezésére bocsáthatja a címzett mobiltelefonszámát vagy elektronikus levélcímét vagy
+az az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény
+szerinti hivatalos elérhetőségét (a továbbiakban együtt: elektronikus elérhetőség). A postai szolgáltató a Postatv.
+41. § (3) bekezdésében valamint az e rendeletben az értesítő elhelyezésére vagy hátrahagyására vonatkozó
+rendelkezéseket ebben az esetben azzal az eltéréssel alkalmazhatja, hogy a küldemény érkezéséről ezen
+az elektronikus elérhetőségen értesítheti a címzettet.
+(7) Amennyiben a postai szolgáltató a postai küldemények érkezéséről a (6) bekezdés szerinti elektronikus
+elérhetőségen értesíti a címzettet, ugyanabban az értesítésben – könyvelt postai küldemények esetében legalább
+a küldemények egyedi azonosító jelzésének külön-külön történő feltüntetésével – több azonos fajtájú küldemény
+érkezéséről is adhat tájékoztatást, ha az érintett postai küldemények kézbesítési kísérletének napja, valamint átvételi
+helye és időtartama azonos.”
+4. § (1) A Rendelet 22. § (5a) bekezdése helyébe a következő rendelkezés lép:
+„(5a) Saját kezű aláírásnak minősül az is, ha a címzett vagy egyéb jogosult átvevő a kézbesítési okiraton vagy
+az aláírást rögzítő egyéb technikai eszközzel rögzítendő adatként, továbbá a tértivevényen vagy a tértivevénynek
+megfelelő elektronikus dokumentumon rögzítendő adatként a személyét hitelesen, utólag általa nem vitatható
+módon tanúsító jelzést helyez el. A jelzés használatának részletes szabályait a postai szolgáltató általános szerződési
+feltételeiben határozza meg. A jelzés hitelességét tanúsító okiratot a címzett vagy egyéb jogosult átvevő és a postai
+szolgáltató a jelzés utolsó használatát követő három évig köteles megőrizni.”
+(2) A Rendelet 22. §-a a következő (5b) bekezdéssel egészül ki:
+„(5b) Tértivevény többletszolgáltatással feladott postai küldemény kézbesítésekor a küldemény átvételének
+igazolásaként a tértivevénynek vagy a tértivevénynek megfelelő elektronikus dokumentumnak tartalmaznia
+kell az átvevő személy olvasható nevét, továbbá azon az átvevő saját kezű aláírásán túl – kivéve, ha a küldeményt
+a címzett veszi át – fel kell tüntetni az átvétel jogcímét is.”
+5. §
+A Rendelet 24. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+[Nem minősül a küldemény átvétele megtagadásának, amennyiben]
+„b) a címzetten és meghatalmazotton kívüli egyéb jogosult átvevő nem kívánja átvenni a küldeményt, vagy
+elzárkózik a kézbesítéskor esedékes díj megfizetésétől, az átvétel jogcímének vagy személyazonosságának
+igazolásától, továbbá a kézbesítési okirat, a tértivevény vagy a tértivevénynek megfelelő elektronikus dokumentum
+aláírásától vagy az átvétel során feltüntetendő adatok rögzítésétől.”
+
+6. §
+A Rendelet 12. alcíme a következő 26/A. §-sal egészül ki:
+„26/A. § A Postatv. 41. § (11) bekezdése szerinti eszköz- és rendszerkövetelmények teljesülése abban az esetben
+megfelelő, amennyiben a felhasznált eszköz és informatikai rendszer biztosítja a rendszerelemek zártságát,
+és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint annak észrevétlen
+módosítását. A felhasznált eszköznek és informatikai rendszernek meg kell felelnie az általános információbiztonsági
+zártsági követelményeknek is. Ennek érdekében a postai szolgáltatónak adminisztratív, fizikai és logikai
+intézkedésekkel biztosítani kell az általános információbiztonsági zártsági követelmények teljesülését.”
+7. §
+A Rendelet 28. §-a helyébe a következő rendelkezés lép:
+„28. § (1) A hivatalos irat feladójának
+a) a küldeményen szereplő címzés mellett, továbbá
+b) ha a feladó a feladást igazoló okiratként a postai szolgáltató és a feladó által is elektronikusan visszakereshető,
+elektronikus formában rögzített adatbázist alkalmaz, ez esetben az e feladást igazoló okiraton is
+meg kell jelölnie, hogy sikertelen személyes kézbesítési kísérlet esetében milyen adattartalmú tájékoztatással kell
+a címzettet a hivatalos irat érkezéséről értesíteni.
+(2) A hivatalos irat tértivevényének tartalmi és formai követelményeit az Egyetemes Postai Közszolgáltatási
+Szerződés tartalmazza.”
+8. §
+A Rendelet 30. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Hivatalos irat kézbesítésekor a küldemény átvételének igazolásaként a kézbesítési okiraton, vagy az aláírást
+rögzítő egyéb technikai eszközön, a tértivevényen az átvevő saját kezű aláírásán túl fel kell tüntetni az átvevő
+személy olvasható nevét, az átvevő személyazonosságát igazoló okmány elnevezését, betűjelét, számát és – kivéve,
+ha a küldeményt a címzett veszi át – az átvétel jogcímét is, valamint helyettes átvevőnek történő átadás esetén
+a hozzátartozói jogcímet is.”
+9. § (1) A Rendelet 31. § (3) bekezdés i) pontja helyébe a következő rendelkezés lép:
+[Az értesítőnek tartalmaznia kell:]
+„i) a küldemény átvételére való jogosultság e rendeletben meghatározott jogcímeiről és a jogosultság igazolásának
+módjáról szóló, a postai szolgáltató általános szerződési feltételeinek a hivatalos iratok kézbesítésére vonatkozó
+rendelkezéseiben foglalt tájékoztató tartalom elérhetőségét, valamint amennyiben a küldeményt kizárólag
+a címzett veheti át, az erre vonatkozó figyelmeztetést,”
+(2) A Rendelet 31. § (3) bekezdés k) pontja helyébe a következő rendelkezés lép:
+[Az értesítőnek tartalmaznia kell:]
+„k) a küldemény kézbesítési kísérletét végző kézbesítő olvasható nevét vagy a személyazonossága azonosítását
+lehetővé tévő egyéb jelzést,”
+10. §
+A Rendelet 33. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A feladó legkésőbb 2020. január 1-ig köteles a saját költségén gondoskodni az Egyetemes Postai
+Közszolgáltatási Szerződésben a hivatalos irat feladásához rendszeresített és kötelezően alkalmazandó tértivevény
+tartalmi és formai követelményeinek megfelelő tértivevény előállításáról. A feladónak a tértivevényen minden
+esetben meg kell jelölnie, hogy sikertelen személyes kézbesítési kísérlet esetében milyen adattartalmú értesítést kell
+a címzett részére hátrahagyni.”
+11. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

@@ -1,0 +1,263 @@
+# A Kormány 290/2018. (XII. 21.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 209. szám, 2018. december 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/gp4SEHJnNtmw68YWSahX5c1aa0e80b874/dokumentumok/dd82ad295f630940ab7308cb468a715d71acb540/letoltes)
+
+---
+
+A Kormány 290/2018. (XII. 21.) Korm. rendelete
+az egyes informatikai és elektronikus ügyintézési tárgyú kormányrendeletek módosításáról
+A Kormány a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 35/A. §
+(1) bekezdésében kapott felhatalmazás alapján,
+a 2. és 4. alcím vonatkozásában az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+a 3. alcím vonatkozásában az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII.
+törvény 105. § (3) bekezdés k) pontjában, 105. § (5a) bekezdés a) és c) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló
+335/2005. (XII. 29.) Korm. rendelet módosítása
+1. §
+Hatályát veszti a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.)
+Korm. rendelet 1. melléklet 9. pontja.
+2. A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló
+309/2011. (XII. 23.) Korm. rendelet módosítása
+2. § (1) A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet
+[a továbbiakban: 309/2011. (XII. 23.) Korm. rendelet] 2/A. melléklete az 1. melléklet szerint módosul.
+(2) A 309/2011. (XII. 23.) Korm. rendelet 3. melléklete helyébe a 2. melléklet lép.
+3. Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet módosítása
+3. §
+Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet [a továbbiakban: 451/2016.
+(XII. 19.) Korm. rendelet] 3. melléklete a 4. melléklet szerint módosul.
+4. A Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet módosítása
+4. §
+A Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet [a továbbiakban: KAK Korm.
+rendelet] 3. melléklete a 3. melléklet szerint módosul.
+5. Záró rendelkezések
+5. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+6. § (1) E rendelet 2. és 4. alcíme a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti
+és tanácsi irányelv 15. cikkének való megfelelést szolgálja.
+(2) E rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti
+és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 290/2018. (XII. 21.) Korm. rendelethez
+A 309/2011. (XII. 23.) Korm. rendelet 2/A. melléklete a következő 3. és 4. ponttal egészül ki:
+„3. A Külgazdasági és Külügyminisztérium
+belföldön nem köteles a központi szolgáltatótól igénybe venni az 1. melléklet
+a) A) alcím 1. pont 1.2., 1.3. alpontjában, 2. pont 2.4., 2.9–2.10. alpontjában és 3. pont 3.1. alpontjában, valamint
+b) B) alcím 1., 3., 9., 12., 13., 14., 15., 16., 19. pontjában
+felsorolt szolgáltatásokat, a szolgáltatásokhoz kapcsolódó informatikai beszerzések kivételével.
+
+4. A 2. és 3. pontban rögzítetteken túlmenően a Külgazdasági és Külügyminisztérium belföldön nem köteles
+a központi szolgáltatótól igénybe venni az 1. melléklet A) alcím 1. pont 1.5. alpontjában rögzített szolgáltatást,
+beleértve a szolgáltatáshoz kapcsolódó informatikai beszerzésekről való gondoskodást is.”
+2. melléklet a 290/2018. (XII. 21.) Korm. rendelethez
+„3. melléklet a 309/2011. (XII. 23.) Korm. rendelethez
+Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kötelezően biztosítandó
+központosított alkalmazás-üzemeltetési és e rendszereket érintő alkalmazás-fejlesztési szolgáltatások
+1. Az önkormányzati ASP rendszer keretében működő gazdálkodási szakrendszer
+2. Külön jogszabályban meghatározott személyiadat- és lakcímnyilvántartáshoz kapcsolódó rendszerek (SZL,
+SZIG, eSZIG, LIG, cím és körzetnyilvántartás, TSZR, ESZF, Nemzeti Arcképtár /NAT/)
+3. Külön jogszabályban meghatározott központi címregiszter (KCR)
+4. Külön jogszabályban meghatározott központi idegenrendészeti nyilvántartáshoz kapcsolódó egyes
+rendszerek (IDR, ISZL, IDEGEN)
+5. Külön jogszabályban meghatározott közúti közlekedési nyilvántartáshoz kapcsolódó rendszerek (JÁRMŰ,
+Vezetői engedély /VEN/, Származásellenőrzés /SZENY/, Közlekedési Okmánytár, PARKIG, eredetiségvizsgálat
+/KERT/, Útdíj-díjmentes, EUCARIS)
+6. Külön jogszabályban meghatározott közlekedési biztonsági kiszolgáló rendszer (KBKR)
+7. Külön jogszabályban meghatározott elektronikus útdíj rendszer gyorsítótár (e-Útdíj)
+8. Külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási rendszer (IGFB)
+9. Külön jogszabályban meghatározott közúti közlekedési előéleti pontrendszer (Pontrendszer)
+10. Külön jogszabályban meghatározott elektronikus anyakönyvi rendszer (EAK)
+11. Külön jogszabályban meghatározott arcképelemzési nyilvántartás és arcképelemző rendszer (ÁAAR)
+12. Külön jogszabályban meghatározott egyéni vállalkozó nyilvántartási rendszer (EVNY)
+13. Külön jogszabályban meghatározott szabálysértési nyilvántartási rendszerhez kapcsolódó egyes rendszerek
+(SZNYR, STAT-VIR)
+14. Külön jogszabályban meghatározott bűnügyi nyilvántartási rendszerhez kapcsolódó egyes rendszerek
+(HCR-bűnügyi, ERHAB)
+15. Külön jogszabályban meghatározott központi útiokmány nyilvántartási rendszer (EPASS)
+16. Külön jogszabályban meghatározott elektronikus ügyfélazonosítást segítő és elektronikus ügyintézést
+támogató rendszerek (UKAPU), Összerendelési Nyilvántartáshoz kapcsolódó rendszerek (ÖNY),
+Az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartása
+(3NYT), Időszakos Értesítési Szolgáltatás (RÉR), Részleges Kódú Telefonos Azonosítás (RKTA), Elektronikus
+hatósági ügyintézést és tájékoztatást segítő internetes szolgáltató rendszer
+17. Elektronikus hatósági ügyintézést és tájékoztatást segítő internetes szolgáltató rendszer – Webes Ügysegéd
+(WÜ)
+18. Elektronikus hatósági ügyintézést és tájékoztatást segítő telefonos szolgáltató rendszer (Effector)
+19. Külön jogszabályban meghatározott Schengeni Információs Rendszer magyar nemzeti részének központi
+informatikai elemei (SIS II NS.CP)
+20. Külön jogszabályban meghatározott nemzeti egységes kártya-kibocsátási keretrendszer (NEK)
+21. Jogügyletek biztonságát szolgáló keretrendszer (JÜB)
+22. Külön jogszabályban meghatározott jármű figyelőztetési rendszer üzemeltetése (Figyelőztetés)
+23. Külön jogszabályban meghatározott központi tanúvédelmi rendszer üzemeltetése (KTR, BÁSTYA)
+24. A szolgálati lőfegyverek, lőszerek, robbanóanyagok és pirotechnikai eszközök tárolásának és biztonsági
+követelményeinek meghatározásáról, a lőfegyverek, lőszerek és fegyverzeti tartozékok kezelésének,
+nyilvántartásának, őrzésének és ellenőrzésének szabályozásáról szóló 13/2013. (IV. 11.) ORFK utasítás alapján
+kialakított szolgálati lőfegyver-nyilvántartás (Fegyver)
+25. Külön jogszabályban meghatározott Magyar igazolvány rendszer (MIG)
+26. Külön jogszabályban nevesített Központi Ügyfél-regisztrációs Nyilvántartás (KÜNY)
+27. Szakrendszeri Kódképző és Kapcsolatkezelő Alkalmazások
+28. Általános Közigazgatási Statisztikai Adatgyűjtő Rendszer
+
+29. Elektronikus Felügyeleti és Ellenőrzési Rendszer
+30. A központi okmány keretrendszer mellett kialakított Integrált Napló
+31. Vezetői Információs Portál
+32. Központi Jogosultságkezelő Rendszer
+33. Központi Okmánytár Okmányfeldolgozó és Lekérdező Rendszer (KOTAR)
+34. Iratérvényességi Nyilvántartás rendszer
+35. Központi Közigazgatási Adatszolgáltató és Adatfogadó Rendszer (KAAR)
+36. Központi okmánygyártás (SZIG, Útlevél, VEN, Magyar igazolvány), (MOKA)
+37. Okmányügyek Intézését Segítő Mobilalkalmazás rendszer (OkmányApp)
+38. Okmányok Képfelvételező és adatfeldolgozó rendszere (Fotoshop)
+39. Központi Okmány megszemélyesítő Rendszer (Erkölcsi bizonyítvány, Származásellenőrzési határozatok,
+Gépjármű törzskönyv)
+40. Egyéb okmánymegszemélyesítő rendszerek: Szolgálati igazolványok, Diákigazolvány, Vitorlás kártya, Polgárőr
+kártya
+41. Integrált Portál alapú lekérdező rendszer (IPL)
+42. Központi Certifikáció és tanúsítvány generáló rendszer
+43. Elektronikus Kormányiroda (EKI)
+44. Központi Időpontfoglaló Alkalmazás
+45. Nemzeti Konzultációk IT kiszolgáló rendszere
+46. Központi Közigazgatási Naplórendszer (NLR)
+47. A Magyar Nemzeti Public Key Directory
+48. Mobil okmányirodai időpontfoglalás
+49. Kormányablakok Tudástárát működtető Szerkesztőségi rendszer és Portál
+50. Külön jogszabályban meghatározott, az Európai unió tagállamainak bíróságai által magyar állampolgárokkal
+szemben hozott ítéletek nyilvántartásához kapcsolódó rendszerek (HCR-tagállami)
+51. Központi Kormányzati Hírlevélküldő rendszer
+52. Jogszabályban meghatározott helyi közszolgáltatás információs rendszer (IKIR)
+53. Központi Médiatár informatikai rendszer
+54. Büntetőeljárási ügyviteli nyilvántartási rendszer
+55. Elektronikus modus operandi rendszer (kriminalisztikai nyilvántartás)
+56. A rendvédelmi szervek feladatkörébe utalt közhatalmi díj- és szankciójellegű bevételek kezelését támogató
+pénzügyi analitikus nyilvántartás
+57. Elővezetések kezelését biztosító ügyviteli nyilvántartási rendszer
+58. Független Rendészeti Panasztestület eljárást támogató rendszer
+59. Határrendészeti, határellenőrzési és idegenrendészeti eljárást támogató ügyviteli nyilvántartási rendszer
+60. Határrendészeti, igazgatásrendészeti, idegenrendészeti, közrendvédelmi, közlekedésrendészeti egységes
+rendészeti statisztika
+61. A rendvédelmi szervek feladatkörébe utalt közigazgatási bírság kezelését támogató ügyviteli nyilvántartási
+rendszer
+62. Közlekedési eljárások kezelését támogató ügyviteli nyilvántartási rendszer
+63. Központi Érkeztető Rendszer
+64. Központosított rendvédelmi adattári lekérdező rendszer
+65. Rendvédelmi közterületi intézkedéstámogató és lekérdező mobileszköz rendszer
+66. Küldemény Dokumentumtár Szolgáltatás
+67. Minősített adatkezelést és adatgyűjtést támogató ügyviteli nyilvántartási rendszer
+68. Objektív Felelősség ügyviteli nyilvántartási rendszer
+69. Objektumokba való beléptetést támogató rendszer
+70. Országos polgári lőfegyver nyilvántartási rendszer
+71. Pénzmosás elleni eljárások ügyviteli nyilvántartási rendszere
+72. Polgári Veszélyhelyzeti Információs Rendszer
+73. Rendőrség engedélyügyekkel kapcsolatos rendszer
+74. Rendvédelmi állampolgári tájékoztató rendszer
+75. Rendvédelmi bér- és egyéb juttatások kifizetését támogató rendszer
+76. Rendvédelmi célú jármű elhaladási adattár
+
+77. Rendvédelmi, általános és minősített elektronikus ügyviteli nyilvántartási, iratkezelési és feladatkezelési
+rendszer
+78. Rendvédelmi gépjármű nyilvántartás
+79. Rendvédelmi kereső, kutató, elemzéstámogató rendszer
+80. Rendvédelmi keretrendszer szolgáltatások
+81. Rendvédelmi közterületi feladatokat támogató rendszer
+82. Rendvédelmi munkaidő nyilvántartás
+83. Rendvédelmi rendszeradminisztrációs szolgáltatások
+84. Rendvédelmi sajtótevékenységet támogató ügyviteli nyilvántartási rendszer
+85. Rendvédelmi Törzs tevékenységét támogató rendszer
+86. Rendvédelmi vezetők feladattámogató rendszere
+87. Sportrendészeti nyilvántartás
+88. Szabálysértési eljárások kezelését támogató ügyviteli nyilvántartási rendszer
+89. Szakértői (daktiloszkópiai) nyilvántartási rendszer
+90. A rendvédelmi szervek gazdálkodási szakterületeihez tartozó, igazgatással összefüggő nyilvántartások
+(Szerződés-, Energetikai-, Ingatlan-, Adomány nyilvántartás, Ruházati ellátást támogató rendszer)
+91. A belügyminiszter irányítása alatt álló egyes fegyveres szervek hivatásos állományú tagjai
+teljesítményértékelésének ajánlott elemeiről, az ajánlott elemek alkalmazásához kapcsolódó eljárási
+szabályokról, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 26/2013. (VI. 26.) BM
+rendelet által előírt teljesítményértékelést támogató rendszer
+92. Rendvédelmi téradat elemző és publikáló térképészeti rendszer
+93. Tevékenységirányítási, bevetési térképkezelő és segélyhívás-adatlap kezelő rendszer
+94. Ügyeleti jelentőszolgálati és vezetői tájékoztató kommunikációs rendszer
+95. Rendvédelmi elektronikus ügyintézési portál és űrlapkezelő rendszer
+96. Ideiglenes Rendszámtáblák Nyilvántartásának rendszere
+97. Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendeletben meghatározott
+Munkafolyamat Kezelő Rendszer Kormányablakok számára
+98. Elektronikus ügyintézést támogató IKR rendszer”
+3. melléklet a 290/2018. (XII. 21.) Korm. rendelethez
+A KAK Korm. rendelet 3. melléklete a következő 2–44. sorokkal egészül ki:
+[A) B) C)
+Sorszám A rendszer elnevezése A rendszer jellege]
+„2. Büntetőeljárási ügyviteli nyilvántartási rendszer szakrendszer
+3. Elektronikus modus operandi rendszer (kriminalisztikai nyilvántartás) szakrendszer
+4. A rendvédelmi szervek feladatkörébe utalt közhatalmi díj- és szankciójellegű
+bevételek kezelését támogató pénzügyi analitikus nyilvántartás
+szakrendszer
+5. Elővezetések kezelését biztosító ügyviteli nyilvántartási rendszer szakrendszer
+6. Független Rendészeti Panasztestület eljárást támogató rendszer szakrendszer
+7. Határrendészeti, határellenőrzési és idegenrendészeti eljárást támogató
+ügyviteli nyilvántartási rendszer
+szakrendszer
+8. Határrendészeti, igazgatásrendészeti, idegenrendészeti, közrendvédelmi,
+közlekedésrendészeti egységes rendészeti statisztika
+szakrendszer
+9. A rendvédelmi szervek feladatkörébe utalt közigazgatási bírság kezelését
+támogató ügyviteli nyilvántartási rendszer
+szakrendszer
+10. Közlekedési eljárások kezelését támogató ügyviteli nyilvántartási rendszer szakrendszer
+11. Központi Érkeztető Rendszer szakrendszer
+12. Központosított rendvédelmi adattári lekérdező rendszer szakrendszer
+13. Rendvédelmi közterületi intézkedéstámogató és lekérdező mobileszköz
+rendszer
+szakrendszer
+14. Küldemény Dokumentumtár Szolgáltatás szakrendszer
+
+15. Minősített adatkezelést és adatgyűjtést támogató ügyviteli nyilvántartási
+rendszer
+szakrendszer
+16. Objektív Felelősség ügyviteli nyilvántartási rendszer szakrendszer
+17. Objektumokba való beléptetést támogató rendszer szakrendszer
+18. Országos polgári lőfegyver nyilvántartási rendszer szakrendszer
+19. Pénzmosás elleni eljárások ügyviteli nyilvántartási rendszere szakrendszer
+20. Polgári Veszélyhelyzeti Információs Rendszer szakrendszer
+21. Rendőrség engedélyügyekkel kapcsolatos rendszer szakrendszer
+22. Rendvédelmi állampolgári tájékoztató rendszer szakrendszer
+23. Rendvédelmi bér- és egyéb juttatások kifizetését támogató rendszer szakrendszer
+24. Rendvédelmi célú jármű elhaladási adattár szakrendszer
+25. Rendvédelmi, általános és minősített elektronikus ügyviteli nyilvántartási,
+iratkezelési és feladatkezelési rendszer
+szakrendszer
+26. Rendvédelmi gépjármű nyilvántartás szakrendszer
+27. Rendvédelmi kereső, kutató, elemzéstámogató rendszer szakrendszer
+28. Rendvédelmi keretrendszer szolgáltatások szakrendszer
+29. Rendvédelmi közterületi feladatokat támogató rendszer szakrendszer
+30. Rendvédelmi munkaidő nyilvántartás szakrendszer
+31. Rendvédelmi rendszeradminisztrációs szolgáltatások szakrendszer
+32. Rendvédelmi sajtótevékenységet támogató ügyviteli nyilvántartási rendszer szakrendszer
+33. Rendvédelmi Törzs tevékenységét támogató rendszer szakrendszer
+34. Rendvédelmi vezetők feladattámogató rendszere szakrendszer
+35. Sportrendészeti nyilvántartás szakrendszer
+36. Szabálysértési eljárások kezelését támogató ügyviteli nyilvántartási rendszer szakrendszer
+37. Szakértői (daktiloszkópiai) nyilvántartási rendszer szakrendszer
+38. A rendvédelmi szervek gazdálkodási szakterületeihez tartozó, igazgatással
+összefüggő nyilvántartások (Szerződés-, Energetikai-, Ingatlan-, Adomány
+nyilvántartás, Ruházati ellátást támogató rendszer)
+szakrendszer
+39. A belügyminiszter irányítása alatt álló egyes fegyveres szervek hivatásos
+állományú tagjai teljesítményértékelésének ajánlott elemeiről, az ajánlott
+elemek alkalmazásához kapcsolódó eljárási szabályokról, a minősítés
+rendjéről és a szervezeti teljesítményértékelésről szóló 26/2013. (VI. 26.)
+BM rendelet által előírt teljesítményértékelést támogató rendszer
+szakrendszer
+40. Rendvédelmi téradat elemző és publikáló térképészeti rendszer szakrendszer
+41. Tevékenységirányítási, bevetési térképkezelő és segélyhívás-adatlap kezelő
+rendszer
+szakrendszer
+42. Ügyeleti jelentőszolgálati és vezetői tájékoztató kommunikációs rendszer szakrendszer
+43. Rendvédelmi elektronikus ügyintézési portál és űrlapkezelő rendszer szakrendszer
+44. Ideiglenes Rendszámtáblák Nyilvántartásának rendszere szakrendszer”
+4. melléklet a 290/2018. (XII. 21.) Korm. rendelethez
+A 451/2016. (XII. 19.) Korm. rendelet 3. melléklet I. alcímében lévő táblázat 9. sora helyébe a következő sor lép:
+(I. Az önhibán kívüli akadályozottság hatálya alatt álló szervek
+A B
+1. Elektronikus ügyintézést biztosító szerv megnevezése Az önhibán kívüli akadályozottság időtartama)
+„
+9. Miniszterelnöki Kormányiroda 2018. 05. 22. – 2019. 12. 31.
+”
