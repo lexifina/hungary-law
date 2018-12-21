@@ -4,4 +4,4 @@
 
 (3) A 15–18. §, valamint az 41–46. § és az 1. melléklet 2018. május 10-én lép hatályba.
 
-(4) A 3. § (3) bekezdése, az 5. §, a 7. §, a 8. § (3) bekezdése és a 19. § 2019. január 1-jén lép hatályba.
+(4) A 3. § (3) bekezdése, az 5. § és a 19. § 2020. január 1-jén lép hatályba.
