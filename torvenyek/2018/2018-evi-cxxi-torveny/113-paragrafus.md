@@ -1,0 +1,3 @@
+113. § Az Ibtv. 4. §-a helyébe a következő rendelkezés lép:
+
+„4. § Az elektronikus információs rendszerekre és eszközökre, szervezetekre nemzetközi egyezmények vagy nemzetközi szabványok alapján, illetve az ezeken alapuló hazai követelmények vagy ajánlások alapján kiadott biztonsági tanúsítványokat, illetve független, képesített ellenőr által készített ellenőri jelentéseket a hatóság az eljárása során figyelembe veszi.”

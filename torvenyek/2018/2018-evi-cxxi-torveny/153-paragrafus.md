@@ -1,0 +1,7 @@
+## 32. A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény módosítása
+
+153. § A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény a következő 6/A. alcímmel kiegészülve lép hatályba:
+
+„6/A. A Kormány pénzügyi kötelezettségvállalása
+
+10/A. § A Kormány az Európai Unión, az Európai Gazdasági Térségen, valamint a Svájci Államszövetségen belüli állam állampolgára vagy az ilyen államban bejegyzett jogi személy vagy egyéb szervezet számára a 2. § (4) bekezdésében meghatározott tevékenységet folytató, magyarországi székhelyű gazdasági társaságban történő tulajdonszerzéséhez – különös tekintettel az ilyen jogi személy vagy egyéb szervezet vezető tisztségviselője vagy munkavállalója által közvetlenül vagy közvetett módon, vagy munkavállalói résztulajdonosi program keretében történő tulajdonszerzésre – felhatalmazást adhat pénzügyi kötelezettség vállalására az állami támogatási szabályokkal összeegyeztethető módon. Ilyen pénzügyi kötelezettség lehet különösen az állami kezességvállalás, garancia, az állami költségvetési támogatás, a Polgári Törvénykönyvről szóló pénzkölcsön.”

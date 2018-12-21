@@ -1,0 +1,1 @@
+104. § Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 17. § (1) bekezdésében a „rendtartásról szóló törvény” szövegrész helyébe a „rendtartásról szóló törvény alapján zár alá vehető” szöveg lép.
