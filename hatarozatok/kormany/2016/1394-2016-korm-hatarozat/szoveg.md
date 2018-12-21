@@ -100,15 +100,21 @@ a turizmussal kapcsolatos állami feladatok koordinálásáért felelős kormán
 
 Határidő: 2016. szeptember 30.
 
-e) felhívja a nemzeti fejlesztési minisztert, a turizmussal kapcsolatos állami feladatok koordinálásáért felelős kormánybiztost és az emberi erőforrások miniszterét, hogy vizsgálják meg az Önkormányzat által kidolgozott, az Intercisa Múzeum új helyen történő elhelyezésére, valamint a múzeum által jelenleg használt épület szállodai célra történő átalakítására és hasznosítására vonatkozó terveket, továbbá a vizsgálat alapján tegyenek javaslatot a funkcióváltást szolgáló tervek megvalósításával kapcsolatos intézkedésekre, a megvalósítás támogatására;
+e)[^1] a városi múzeum- és szállodafejlesztés céljából
 
-Felelős: nemzeti fejlesztési miniszter
+ea) felhívja a miniszterelnök kabinetfőnökét és az emberi erőforrások miniszterét, hogy az Önkormányzattal és a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársasággal együttműködve vizsgálják meg a g) alpontban foglalt beruházás területén egy szálloda- vagy egyéb, sport- vagy turisztikai célú szálláshely megvalósításának lehetőségét;
 
-a turizmussal kapcsolatos állami feladatok koordinálásáért felelős kormánybiztos
+Felelős: a miniszterelnök kabinetfőnöke
 
 emberi erőforrások minisztere
 
-Határidő: 2016. szeptember 30.
+Határidő: azonnal
+
+eb) felhívja az emberi erőforrások miniszterét, hogy az Intercisa Múzeum európai uniós forrásból megvalósuló fejlesztése során működjön együtt az Önkormányzattal, az új kiállítások, továbbá az azokhoz kapcsolódó komplex múzeumpedagógiai programcsomagok koncepciójának kidolgozása érdekében;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: folyamatosan
 
 f) felhívja a nemzeti fejlesztési minisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával vizsgálja meg az egykori II. számú rendelőintézet épületének hasznosítására vonatkozó önkormányzati terveket és a vizsgálat eredményéről, a hasznosítás, illetve uniós fejlesztési források bevonásának lehetőségéről tájékoztassa a Kormányt;
 
@@ -140,6 +146,7 @@ Felelős: az 1–6. pontban felelősként megjelölt miniszterek
 
 Határidő: azonnal
 
-8.[^1]
+8.[^2]
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 6. pont e) alpontja az 1805/2018. (XII. 21.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
