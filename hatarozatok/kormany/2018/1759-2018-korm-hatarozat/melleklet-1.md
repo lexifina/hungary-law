@@ -24,7 +24,7 @@
 
 ## a Kecskemét 481 helyrajzi számú ingatlan esetében a Kada Elek Közgazdasági Szakgimnázium használatát biztosító megállapodás megszűnését követően azonnal
 
-## 4. visszavonja a Korm. határozat 7. és 8. pontját.
+## 4.[^1]
 
 1. melléklet az 1759/2018. (XII. 20.) Korm. határozathoz
 
@@ -89,3 +89,5 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
