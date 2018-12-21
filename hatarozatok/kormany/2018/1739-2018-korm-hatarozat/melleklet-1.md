@@ -40,7 +40,7 @@
 
 ## Határidő: a 2020–2022. évekre vonatkozó költségvetési törvények tervezésekor
 
-## 8. visszavonja az 1377/2015. (VI. 9.) Korm. határozatot.
+## 8.[^1]
 
 1. melléklet az 1739/2018. (XII. 20.) Korm. határozathoz
 
@@ -59,3 +59,5 @@
 | 6. | Nomád Baradla Kemping és Turistaszálló | korszerűsítés | 6 000 000 | Aggteleki Nemzeti Park Igazgatóság |
 
 | 7. | Szalamandra Ház és Erdei Iskola | korszerűsítés | 34 000 000 | Aggteleki Nemzeti Park Igazgatóság |
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
