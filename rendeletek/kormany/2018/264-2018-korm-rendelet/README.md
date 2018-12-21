@@ -1,0 +1,9 @@
+# 264/2018. (XII. 20.) Korm. rendelet
+
+a kormányablakok működésével összefüggő egyes kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-264-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2018-12-21 | 2018-264-20-22.1 | 264/2018. (XII. 20.) Korm. rendelet |
