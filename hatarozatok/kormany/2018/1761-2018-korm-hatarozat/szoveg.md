@@ -24,4 +24,6 @@ a miniszterelnök kabinetfőnöke
 
 Határidő: a 2020. évi központi költségvetés tervezése során
 
-4. visszavonja a „Magyarországi nyaralóhajózás alapjainak és hátterének megteremtésével kapcsolatos program” elindításáról szóló 1870/2017. (XI. 29.) Korm. határozat 5. és 6. pontját.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
