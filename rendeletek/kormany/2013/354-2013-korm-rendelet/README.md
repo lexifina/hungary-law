@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-354-20-
 | 2015-12-18 | 2013-354-20-22.5 | 335/2015. (XI. 10.) Korm. rendelet |
 | 2016-01-01 | 2013-354-20-22.6 | 198/2015. (VII. 23.) Korm. rendelet |
 | 2016-12-01 | 2013-354-20-22.7 | 335/2016. (XI. 11.) Korm. rendelet |
+| 2018-12-21 | 2013-354-20-22.8 | 269/2018. (XII. 20.) Korm. rendelet |
