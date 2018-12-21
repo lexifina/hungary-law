@@ -2,9 +2,9 @@
 
 2. § (1) A kéményseprő-ipari tevékenységet – a 10. § (1) bekezdés a) pontjában meghatározott kivétellel –
 
-a) a Kormány által kijelölt szervezet (a továbbiakban: kéményseprő-ipari szerv) közfeladatként
+a) a Kormány által jogszabályban kijelölt szervezet (a továbbiakban: kéményseprő-ipari szerv) közfeladatként
 
-aa) a természetes személy tulajdonában lévő és gazdálkodó szervezet székhelyeként, telephelyeként, fióktelepeként be nem jegyzett ingatlan esetében, ideértve a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény (a továbbiakban: NETtv.) alapján az állam tulajdonát képező, a NETtv. 22. § (1) bekezdése szerinti bérlő használatában lévő ingatlant is,
+aa) a természetes személy tulajdonában lévő és gazdálkodó szervezet székhelyeként, telephelyeként, fióktelepeként be nem jegyzett ingatlan esetében, ideértve a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény (a továbbiakban: NETtv.) alapján az állam tulajdonát képező, a NETtv. 22. § (1) bekezdése szerinti bérlő használatában lévő ingatlant, valamint a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 3. § (1) bekezdése szerinti ingatlant is,
 
 ab) a kizárólag az aa) alpont szerinti ingatlanokból álló társasház, lakásszövetkezeti lakóépület esetében, amelyben az égéstermék-elvezető társasházi osztatlan közös tulajdonban van,
 
