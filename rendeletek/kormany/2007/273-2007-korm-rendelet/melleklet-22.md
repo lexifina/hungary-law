@@ -120,5 +120,9 @@ c) frissgőz nyomás (bar).
 
 9.2. névleges hő teljesítőképesség (MW),
 
+9.3. hőcserélő névleges teljesítőképessége (MW)
+
+a) keverék hűtő,
+
 [^531]: A Vhr. 22. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (12) bekezdésével megállapított szöveg.
 [^532]: A Vhr 22. számú melléklete a 497/2017. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
