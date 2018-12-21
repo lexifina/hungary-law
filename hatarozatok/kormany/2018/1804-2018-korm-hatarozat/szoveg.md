@@ -1,0 +1,1 @@
+A Kormány visszavonja a Fényeslitke–Komoró intermodális közforgalmú ipari-logisztikai területen tervezett beruházás kapcsán szükséges egyes intézkedésekről szóló 1389/2016. (VII. 21.) Korm. határozatot.
