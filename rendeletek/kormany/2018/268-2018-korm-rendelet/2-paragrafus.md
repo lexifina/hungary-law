@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Horvát Köztársaság Kormánya között a közös államhatáron lévő közúti hidak üzemeltetéséről, fenntartásáról és rekonstrukciójáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
