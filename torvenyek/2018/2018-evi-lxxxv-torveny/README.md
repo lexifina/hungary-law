@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-85-00-00
 | --- | --- | --- |
 | 2018-12-07 | 2018. évi LXXXV. törvény | 2018-85-00-00.0 (közlönyállapot) |
 | 2018-12-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-85-00-00.1 |
+| 2018-12-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-85-00-00.2 |
