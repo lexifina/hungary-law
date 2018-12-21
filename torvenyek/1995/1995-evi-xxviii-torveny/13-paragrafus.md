@@ -10,7 +10,7 @@ d) a jogszabály kiadására feljogosított szervek bevonását a 6. § (2) beke
 
 e) a nemzeti szabványosítás területén a nemzetgazdasági érdekek képviseletének rendjét,
 
-f) a nemzetközi, az európai szabványügyi szervezetekkel és az egyes tagországok nemzeti szabványügyi szervezeteivel való együttműködés rendjét, ide nem értve a 8. § (1) bekezdésének f) pontjában foglalt feladatok ellátását,
+f) a nemzetközi, az európai szabványügyi szervezetekkel és az egyes tagországok nemzeti szabványügyi szervezeteivel való együttműködés rendjét, ide nem értve a 8. § (1) bekezdés 6. pontjában foglalt feladatok ellátását,
 
 g) a nemzeti szabványok megalkotására, valamint jóváhagyására, módosítására és visszavonására vonatkozó eljárási rend kiadását,
 
