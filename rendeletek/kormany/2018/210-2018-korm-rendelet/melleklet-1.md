@@ -1,4 +1,4 @@
-## 7. § Hatályát veszti az energiával kapcsolatos termékek energia- és egyéb erőforrás-fogyasztásának címkézéssel és előírt termékismertetővel történő megadásáról szóló 193/2011. (IX. 22.) Korm. rendelet.
+## 7. §[^2]
 
 1. melléklet a 210/2018. (XI. 20.) Korm. rendelethez
 
@@ -13,3 +13,5 @@ b) az elvégzett tervezési számítások eredményeit, amennyiben azok rendelke
 c) a vizsgálati jelentéseket – amennyiben rendelkezésre állnak –, beleértve az egyéb európai uniós jogszabályokban meghatározott, kijelölt szervezetek által készítetteket is;
 
 d) ha ugyanazon értékeket más, hasonló modellek esetében is felhasználják, akkor ezen modellek azonosítását lehetővé tevő hivatkozásokat.
+
+[^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

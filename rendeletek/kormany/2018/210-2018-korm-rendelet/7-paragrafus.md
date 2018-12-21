@@ -1,3 +1,3 @@
-## 6. § A fogyasztóvédelmi hatóság által kiszabott egyes bírságokról szóló 307/2012. (X. 29.) Korm. rendelet 1. §-a helyébe a következő rendelkezés lép:
+## 6. §[^1]
 
-## „1. § A fogyasztóvédelmi hatóság által a fogyasztóvédelemről szóló 1997. évi CLV. törvény 47. § (1) bekezdés i) pontja, valamint a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 15. § (2) bekezdés h) pontja alapján kiszabott bírságot a Pest Megyei Kormányhivatal (a továbbiakban: kormányhivatal) Magyar Államkincstárnál – a 10023002-01040030-00000000 számlaszámon – vezetett bírság és egyéb központosított bevételek beszedési számlájára kell befizetni.”
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
