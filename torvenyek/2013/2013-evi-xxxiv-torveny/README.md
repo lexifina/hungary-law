@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-34-00-00
 | 2017-11-24 | 2017. évi CLIX. törvény | 2013-34-00-00.18 |
 | 2018-01-01 | 2017. évi CXXX. törvény | 2013-34-00-00.19 |
 | 2018-05-18 | 2018. évi V. törvény | 2013-34-00-00.20 |
+| 2018-12-21 | 2018. évi XCVI. törvény | 2013-34-00-00.21 |
