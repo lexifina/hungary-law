@@ -8,7 +8,7 @@ b) amelyek között olyan kapcsolat áll fenn, hogy egy vállalkozás kizáróla
 
 (3) Kapcsolódó vállalkozások azok, amelyek egymással az alábbiakban felsorolt valamely kapcsolatban állnak:
 
-a) egy vállalkozás egy másik vállalkozás tulajdoni részesedésének (részvényeinek) vagy a szavazatának a többségével rendelkezik, vagy
+a) egy vállalkozás egy másik vállalkozásban a szavazatok többségével rendelkezik, vagy
 
 b) egy vállalkozás egy másik vállalkozásban jogosult arra, hogy a vezető tisztségviselők vagy a felügyelő bizottság tagjai többségét megválassza vagy visszahívja, vagy
 
