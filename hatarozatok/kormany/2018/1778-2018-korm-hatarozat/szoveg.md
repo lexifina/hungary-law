@@ -64,6 +64,6 @@ nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: első alkalommal 2020. október 31., ezt követően minden második év október 31. napja
 
-8. visszavonja a KKV-szektor hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásának növelésére javasolt lépésekről szóló 2102/2017. (XII. 28.) Korm. határozatot;
+8–9.[^1]
 
-9. visszavonja a tárgyéven túli kötelezettségvállalás jóváhagyásáról szóló 2054/2017. (XII. 27.) Korm. határozatot.
+[^1]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
