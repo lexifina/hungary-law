@@ -68,6 +68,8 @@
 
 | 31. | VOLÁN Buszpark Kereskedelmi és Szolgáltató Kft. | 01-09-284691 | 2022. december 31. |
 
+| 32. | Corvinus Nemzetközi Befektetési Zártkörűen Működő Részvénytársaság | 01-10-043547 | 2022. december 31. |
+
 ## II. Tulajdonosi joggyakorló: az Agrárminisztérium
 
 |  | A | B | C |
@@ -200,7 +202,7 @@
 
 | 7. | Neumann János Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 01-09-920343 | 2022. december 31. |
 
-| 8. | Dél-Pest Megyei Térségi Integrált Szakképző Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-292926 | 2022. december 31. |
+| 8. | Nemzeti Vasúti Pályaműködtető Zártkörűen Működő Részvénytársaság | 01-10-047622 | 2022. december 31. |
 
 | 9. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2022. december 31. |
 
