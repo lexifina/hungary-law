@@ -14,7 +14,7 @@ b) ennek hiányában, ha a küldő közölte a válaszadási elektronikus postaf
 
 c) egyéb esetben papír alapon
 
-értesíti.
+## értesíti.
 
 (6) Ha a küldő az elektronikus ügyintézési rendelkezésében igényli az időszaki értesítést, úgy a nevében történt, a (4) bekezdés és a 25. § szerint elutasított benyújtás tényét az értesítésben szerepeltetni kell.
 

@@ -10,7 +10,7 @@ b) osztottan, az ügyeket intéző szervezeti egységnél, vagy
 
 c) vegyes rendszerben, az a) és b) pontban foglaltak együttes alkalmazásával
 
-szervezheti meg.
+## szervezheti meg.
 
 (2) A szerv az elintézett ügyek iratait irattárában helyezi el.
 

@@ -10,7 +10,7 @@ a) a papír alapú ügyiratokat – biztosítva azok gyors és hatékony visszak
 
 b) az elektronikus ügyiratokat – SZEÜSZR-ben meghatározott elektronikus dokumentumtárolási szolgáltatás szabályainak figyelembevételével – az iratkezelési szabályzatában meghatározottak szerint, elektronikus irattárban
 
-kell tárolnia.
+## kell tárolnia.
 
 (5)[^115] A központi irattárba
 
@@ -20,7 +20,7 @@ b) a 41. § (4) bekezdésében meghatározottak szerinti iktatás esetén – az
 
 c) a 43. § (3) bekezdése szerint elkészített adathordozókat
 
-kell leadni, vagy a központi irattárba adásról a 43. § (5) bekezdés szerint kell gondoskodni.
+## kell leadni, vagy a központi irattárba adásról a 43. § (5) bekezdés szerint kell gondoskodni.
 
 (6)[^116] A közfeladatot ellátó szerv irattározási feladatainak ellátására elektronikus iratok esetében a SZEÜSZR-ben meghatározott, az elektronikus ügyintézési felügyelet engedélyével rendelkező elektronikus dokumentumtárolási szolgáltatót vehet igénybe. A SZEÜSZ szolgáltató ez esetben a közfeladatot ellátó szerv adatfeldolgozójaként jár el.
 

@@ -2,7 +2,7 @@
 
 1. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^165]
 
-Az egységes kormányzati ügyiratkezelő rendszer érkeztető rendszerébe bevont szervek
+## Az egységes kormányzati ügyiratkezelő rendszer érkeztető rendszerébe bevont szervek
 
 1. Miniszterelnökség
 
@@ -20,7 +20,7 @@ Az egységes kormányzati ügyiratkezelő rendszer érkeztető rendszerébe bevo
 
 8.[^168] Innovációs és Technológiai Minisztérium
 
-9.[^169] Miniszterelnöki Kormányiroda
+9.[^169]
 
 10.[^170] Kormányzati Ellenőrzési Hivatal
 
@@ -97,7 +97,7 @@ Az egységes kormányzati ügyiratkezelő rendszer érkeztető rendszerébe bevo
 [^166]: Az 1. melléklet 4. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (1) bekezdés 1. pontjával megállapított szöveg.
 [^167]: Az 1. melléklet 7. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (1) bekezdés 2. pontjával megállapított szöveg.
 [^168]: Az 1. melléklet 8. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (1) bekezdés 3. pontjával megállapított szöveg.
-[^169]: Az 1. melléklet 9. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
+[^169]: Az 1. melléklet 9. pontját a 290/2018. (XII. 21.) Korm. rendelet 1. §-a hatályon kívül helyezte.
 [^170]: Az 1. melléklet 10. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^171]: Az 1. melléklet 11. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^172]: Az 1. melléklet 12. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.

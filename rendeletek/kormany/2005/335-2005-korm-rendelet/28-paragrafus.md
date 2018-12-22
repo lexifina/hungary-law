@@ -1,3 +1,5 @@
+## a közfeladatot ellátó szerv a továbbiakban iratként a hiteles elektronikus másolatot kezeli.
+
 28. § (1)[^41] Felbontás nélkül dokumentáltan a címzettnek kell továbbítani azokat a küldeményeket,
 
 a) amelyek „s.k.” felbontásra szólnak,

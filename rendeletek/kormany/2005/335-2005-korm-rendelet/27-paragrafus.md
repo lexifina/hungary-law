@@ -20,7 +20,5 @@ a) a SZEÜSZR alapján a papír alapú irat hiteles elektronikus irattá alakít
 
 b) a közfeladatot ellátó szerv a külön jogszabály alapján az eredeti papír alapú irat ügyfél részére történő visszaadásáról rendelkezett,
 
-a közfeladatot ellátó szerv a továbbiakban iratként a hiteles elektronikus másolatot kezeli.
-
 [^39]: A 27. § a 196/2013. (VI. 13.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^40]: A 27. § (2) bekezdése a 323/2014. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.

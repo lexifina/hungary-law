@@ -1,6 +1,6 @@
 4. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^208]
 
-Kötelezően biztosítandó központosított irattári szolgáltatások
+## Kötelezően biztosítandó központosított irattári szolgáltatások
 
 1. Középszintű iratrendezés (dobozolás, jegyzékelés), selejtezés a köziratok kezelésének szakmai irányításáért felelős miniszter által meghatározott irategyüttesek tekintetében
 
