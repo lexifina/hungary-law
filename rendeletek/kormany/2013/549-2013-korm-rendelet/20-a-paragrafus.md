@@ -18,6 +18,7 @@ c) az „Ős-Dráva” nemzeti program
 
 (4) A fejezetet irányító szerv vezetője az előirányzat kezelésére elkülönített előirányzat-felhasználási keretszámlát nyit a kincstárban.
 
-(5) Lebonyolító szerv igénybevétele esetén a fejezetet irányító szerv vezetője az előirányzat-felhasználási keretszámlára rendelkezési jogot biztosít a lebonyolító szervezet részére.
+(5)[^83] Lebonyolító szerv igénybevétele esetén a fejezetet irányító szerv vezetője az előirányzat-felhasználási keretszámlához kapcsolódó alszámlára rendelkezési jogot biztosít a lebonyolító szervezet részére.
 
 [^82]: A 8/A. alcímet (20/A–20/D. §) a 401/2016. (XII. 5.) Korm. rendelet 6. §-a iktatta be.
+[^83]: A 20/A. § (5) bekezdése a 294/2018. (XII. 21.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
