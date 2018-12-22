@@ -1,3 +1,0 @@
-18. § Az Nvtv. 6. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az állam és a helyi önkormányzat közös tulajdonában álló, az 1. mellékletben meghatározott csatornák, tározók, árvízvédelmi fővédvonalak, egyéb vízi létesítmények és vízi közművek, valamint terek és parkok tulajdonközössége – közös tulajdon megszüntetés jogcímén – megszüntethető. A közös tulajdon megszüntetésére kizárólag az egyik tulajdonostárs tulajdoni hányadának ingyenesen, nyilvántartási értéken a másik tulajdonostárs részére történő átruházásával kerülhet sor, feltéve, ha a tulajdon átruházása a közfeladat ellátását nem veszélyezteti.”
