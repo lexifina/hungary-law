@@ -1,0 +1,1 @@
+## 5. § Az 1. § (1) bekezdésében meghatározott ingatlanon – a műemléki értékek figyelembevételével – bontási tevékenység bontási engedély nélkül végezhető azzal, hogy az építőipari kivitelezési tevékenység végzéséről elektronikus építési naplót kell vezetni.
