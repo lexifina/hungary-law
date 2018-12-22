@@ -20,7 +20,7 @@ I. Az önhibán kívüli akadályozottság hatálya alatt álló szervek
 
 | 8. | Miniszterelnöki Kabinetiroda | 2018. 01. 01. – 2018. 07. 31. |
 
-| 9. | Miniszterelnöki Kormányiroda | 2018. 05. 22. – 2018. 12. 31. |
+| 9. | Miniszterelnöki Kormányiroda | 2018. 05. 22. – 2019. 12. 31. |
 
 | 10. | Magyar Államkincstár (a II. pontban megjelölt ügyek tekintetében) | 2018. 01. 01. – 2018. 07. 31. |
 
@@ -44,4 +44,4 @@ II. Az önhibán kívüli akadályozottság hatálya az I. pontban meghatározot
 
 | 3. | Látvány-csapatsport országos sportági szakszövetsége | A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 22/C. § (1) bekezdés a)–e) pontjaiban meghatározott támogatással kapcsolatos hatáskörök szerinti ügyek |
 
-[^145]: A 3. mellékletet az 521/2017. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 101/2018. (VI. 11.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^145]: A 3. mellékletet az 521/2017. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 101/2018. (VI. 11.) Korm. rendelet 38. §-a, a 290/2018. (XII. 21.) Korm. rendelet 3. §-a szerint módosított szöveg.
