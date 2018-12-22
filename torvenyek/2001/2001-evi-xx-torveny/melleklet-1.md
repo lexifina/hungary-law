@@ -8,7 +8,7 @@ Az MFB Zrt. a 3. § (5) bekezdése alapján az állam nevében a következő gaz
 
 3. Kisvállalkozás-fejlesztő Pénzügyi Zártkörűen Működő Részvénytársaság
 
-4. Corvinus Nemzetközi Befektetési Zártkörűen Működő Részvénytársaság
+4.
 
 5.
 

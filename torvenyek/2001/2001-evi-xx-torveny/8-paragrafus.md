@@ -8,7 +8,7 @@ b) hitelintézetnek nem minősülő egy ügyféllel vagy egy ügyfélcsoport nem
 
 (1a) Az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az (1) bekezdés alkalmazása során az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek kizárólag az MFB Zrt.-vel fennálló kapcsolatukra tekintettel képeznének egyetlen kockázati tényezőt.
 
-(2) Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 102. § (1) bekezdésében, 110. §, 112. § és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.
+(2) Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 102. § (1) bekezdésében, 110. §, 112. §, és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül. Az MFB Zrt. esetében a Hpt. 100. § (1) bekezdésében foglaltakat nem kell alkalmazni, ha az MFB Zrt.-vel szoros kapcsolatban álló vállalkozás által kibocsátott, tagsági jogot megtestesítő értékpapír ügyfél általi megvásárlásával az MFB Zrt. és a vele szoros kapcsolatban álló vállalkozás között a szoros kapcsolat megszűnik.
 
 (2a) Az 575/2013/EU rendelet 114–134. cikkétől eltérően az MFB Zrt. esetében a hazai pénznemben denominált, uniós forrásokból alapok alapját végrehajtó szervezetként finanszírozott kitettségekhez 0%-os kockázati súlyt kell rendelni.
 
