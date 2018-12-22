@@ -20,4 +20,6 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: azonnal
 
-3. visszavonja az IMIR 2014–2020 informatikai rendszer finanszírozásához szükséges intézkedésekről és a 2015. évi költségvetési maradványok egy részének felhasználásáról szóló 1607/2016. (XI. 8.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
