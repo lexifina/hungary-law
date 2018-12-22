@@ -20,9 +20,13 @@
 
 9. a támogatott tevékenységhez szükséges jogerős hatósági engedélyeket, az építésiengedély-köteles tevékenységekhez szükséges jogerős építésügyi hatósági engedély kivételével,
 
-10. építésiengedély-köteles tevékenység esetén a jogerős építési engedélyt,
+10.[^4] építésiengedély-köteles tevékenység esetén a jogerős építési engedélyt – amennyiben arra a támogatási szerződés lehetőséget biztosít, legkésőbb a beruházás kivitelezésének megkezdéséhez szükséges támogatási részösszeg átutalásáig, annak feltételeként –, vagy építéshatósági vagy tervezői nyilatkozatot arról, hogy a beruházás nem építésiengedély-köteles,
 
 11. beruházási célú költségvetési támogatás esetén – a támogatási szerződésben foglaltaknak megfelelően – a kedvezményezett nyilatkozatát arról, hogy tizenöt évig biztosítja a létesítmény támogatási szerződésben foglalt célú fenntartását, üzemeltetését, illetve ha a kedvezményezett az ingatlan vagyonkezelője, a tulajdonos nyilatkozata is szükséges,
+
+11a.[^5] sportcélú ingatlanra irányuló építésiengedély-köteles tevékenységgel összefüggő felhalmozási célú költségvetési támogatás esetén – amennyiben arra a támogatási szerződés lehetőséget biztosít, legkésőbb a támogatás, vagy a támogatás első részletének kedvezményezett részére történő átutalásáig, annak feltételeként – a kedvezményezett nyilatkozatát arról, hogy a tárgyi eszköz üzembe helyezését követően tizenöt évig biztosítja a létesítmény támogatási szerződésben foglalt célú fenntartását, üzemeltetését, illetve ha a kedvezményezett az ingatlan használója vagy vagyonkezelője, a létesítmény támogatási szerződésben foglalt célú fenntartásának igazolásához a tulajdonos nyilatkozata vagy a használó, vagyonkezelő és a tulajdonos között létrejött, a fenti feltételeket biztosító szerződés csatolása is szükséges,
+
+11b.[^6] sportcélú ingatlanra irányuló nem építésiengedély-köteles tevékenységgel összefüggő felhalmozási célú költségvetési támogatás esetén – amennyiben arra a támogatási szerződés lehetőséget biztosít, legkésőbb a támogatás, vagy a támogatás első részletének kedvezményezett részére történő átutalásáig, annak feltételeként – a kedvezményezett nyilatkozatát arról, hogy a tárgyi eszköz üzembe helyezését követően öt évig biztosítja a létesítmény támogatási szerződésben foglalt célú fenntartását, üzemeltetését, illetve ha a kedvezményezett az ingatlan használója vagy vagyonkezelője, a létesítmény támogatási szerződésben foglalt célú fenntartásának igazolásához a tulajdonos nyilatkozata vagy a használó, vagyonkezelő és a tulajdonos között létrejött, a fenti feltételeket biztosító szerződés csatolása is szükséges,
 
 12. a doppingellenes tevékenység szabályairól szóló kormányrendelet alapján a doppingellenes tevékenységet végző kedvezményezett nyilatkozatát, igazolását arról, hogy doppingellenes feladatainak eleget tesz,
 
@@ -38,7 +42,7 @@
 
 (2) Az (1) bekezdés 6. pontjában meghatározott személyes adatok kedvezményezett részéről történő szolgáltatása önkéntes, de azok támogató részére való rendelkezésre bocsátása és a kezelésükhöz való hozzájárulás a költségvetési támogatás feltételét képezi.
 
-(3) A támogató a kedvezményezettet hiánypótlásra szólítja fel, ha a kedvezményezett nem nyújtja be a támogatási szerződés megkötéséhez szükséges dokumentumokat. Hiánypótlásra csak egy alkalommal, a felszólítás kézhezvételétől számított harminc napon belül van lehetőség, ennek elmulasztása esetén igazolásnak nincs helye. A hiánypótlás ideje a támogatási szerződés megkötésére meghatározott határidőbe nem számít bele.
+(3)[^7] A támogató a kedvezményezettet hiánypótlásra szólítja fel, ha a kedvezményezett nem nyújtja be a támogatási szerződés megkötéséhez szükséges dokumentumokat. Hiánypótlásra két alkalommal, az első felszólítás kézhezvételétől számított harminc napon belül, valamint a második felszólítás kézhezvételétől számított tizenöt napon belül van lehetőség, a határidő elmulasztása esetén igazolásnak nincs helye. A hiánypótlások időtartama a támogatási szerződés megkötésére meghatározott határidőbe nem számít bele.
 
 (4) A 32. § (2) bekezdése szerinti esetben a kezesi felelősséggel helytálló sportszövetségnek az (1) bekezdés 2. pontja szerinti dokumentumot, valamint a tartozás visszafizetése esetére az azonnali beszedési megbízás alkalmazására vonatkozó meghatalmazást kell csatolnia.
 
@@ -47,3 +51,7 @@
 [^1]: A 17. § (1) bekezdés 1. pontja a 393/2017. (XII. 13.) Korm. rendelet 72. § (1) bekezdésével megállapított szöveg.
 [^2]: A 17. § (1) bekezdés 2. pontja a 393/2017. (XII. 13.) Korm. rendelet 72. § (1) bekezdésével megállapított szöveg.
 [^3]: A 17. § (1) bekezdés 4. pontja a 393/2017. (XII. 13.) Korm. rendelet 72. § (2) bekezdésével megállapított szöveg.
+[^4]: A 17. § (1) bekezdés 10. pontja a 279/2018. (XII. 21.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^5]: A 17. § (1) bekezdés 11a. pontját a 279/2018. (XII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^6]: A 17. § (1) bekezdés 11b. pontját a 279/2018. (XII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^7]: A 17. § (3) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
