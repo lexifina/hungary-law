@@ -16,7 +16,7 @@
 
 ## 21 súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
 
-14. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^34]
+14. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^40]
 
 KÖZBESZERZÉSI ADATBÁZIS
 
@@ -122,4 +122,4 @@ V. szakasz: Az eljárás eredménye 1
 
 VI. szakasz: Kiegészítő információk
 
-[^34]: A 14. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^40]: A 14. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (5) bekezdésével megállapított szöveg.

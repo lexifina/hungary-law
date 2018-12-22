@@ -26,7 +26,7 @@
 
 ## 2 adott esetben
 
-15. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^35]
+15. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^41]
 
 KÖZBESZERZÉSI ADATBÁZIS
 
@@ -104,4 +104,4 @@ V. szakasz: Az eljárás, illetve részvételi szakasz eredménye 1
 
 VI. szakasz: Kiegészítő információk
 
-[^35]: A 15. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (6) bekezdésével megállapított szöveg.
+[^41]: A 15. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (6) bekezdésével megállapított szöveg.

@@ -6,8 +6,8 @@
 
 (4) A költségtérítés befizetésére nyitva álló határidő eredménytelen eltelte esetén a hirdetmény ellenőrzésért felelős szervezeti egység a kérelmet visszavontnak tekinti, és erről kérelmezőt – és a Hatóság elnökét is – öt munkanapon belül írásban tájékoztatja.
 
-(5)[^13] A költségtérítés mértéke egységesen 80 000 forint.
+(5)[^14] A költségtérítés mértéke egységesen 80 000 forint.
 
 (6) A költségtérítés befizetésére a 13. § (3)–(5) bekezdése és a 14. § c) pontja megfelelően alkalmazandó.
 
-[^13]: A 15. § (5) bekezdése a 43/2016. (XII. 30.) MvM rendelet 4. §-ával megállapított szöveg.
+[^14]: A 15. § (5) bekezdése a 43/2016. (XII. 30.) MvM rendelet 4. §-ával megállapított szöveg.

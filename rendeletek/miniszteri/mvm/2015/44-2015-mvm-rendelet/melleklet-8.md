@@ -26,7 +26,7 @@
 
 ## 15 ezt az információt itt vagy – adott esetben – az ajánlattételi felhívásban adja meg
 
-8. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^31]
+8. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^37]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -178,4 +178,4 @@ V. szakasz: Az eljárás eredménye 1
 
 VI. szakasz: Kiegészítő információk
 
-[^31]: A 8. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^37]: A 8. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (2) bekezdésével megállapított szöveg.

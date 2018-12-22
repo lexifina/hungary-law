@@ -16,6 +16,8 @@ e) a szerződés módosításáról szóló tájékoztató esetében: 100 000 fo
 
 f) az a) és c)–e) pontok alá nem tartozó hirdetmények esetében: 80 000 forint.
 
+(2a)[^13] A (2) bekezdés c) pontja szerinti ellenőrzési díjat nem kell befizetni, ha a hirdetmény feladása az EKR jogszabályban meghatározott üzemzavara miatt, kizárólag az ajánlattételi és részvételi határidő kötelező meghosszabbítása céljából szükséges.
+
 (3) Az ellenőrzési díjat a Hatóságnak a Magyar Államkincstárnál vezetett MNB 10032000-01720361-00000000 számú számlájára kell befizetni.
 
 (4) Az ellenőrzési díj kizárólag átutalással teljesíthető. Az átutalások beazonosíthatóságának biztosítása érdekében az átutaláskor a „Közlemény”, vagy ennek értelemszerűen megfelelő rovatban meg kell adni azon hirdetmény nyilvántartási számát (KÉ szám/évszám), amely vonatkozásában az ellenőrzési díj megfizetésre kerül.
@@ -29,3 +31,4 @@ f) az a) és c)–e) pontok alá nem tartozó hirdetmények esetében: 80 000 fo
 [^10]: A 4. alcím címe a 43/2016. (XII. 30.) MvM rendelet 11. § 5. pontjával megállapított szöveg.
 [^11]: A 13. § (2) bekezdése a 43/2016. (XII. 30.) MvM rendelet 3. §-ával megállapított szöveg.
 [^12]: A 13. § (2) bekezdés a) pontja az 1/2018. (II. 5.) MvM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^13]: A 13. § (2a) bekezdését a 21/2018. (XII. 21.) MvM rendelet 1. §-a iktatta be.

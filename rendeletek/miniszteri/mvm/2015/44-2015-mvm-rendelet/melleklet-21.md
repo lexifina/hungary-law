@@ -12,6 +12,6 @@
 
 ## 2 adott esetben
 
-21. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^37]
+21. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^43]
 
-[^37]: A 21. mellékletet a 43/2016. (XII. 30.) MvM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^43]: A 21. mellékletet a 43/2016. (XII. 30.) MvM rendelet 13. § (2) bekezdése hatályon kívül helyezte.

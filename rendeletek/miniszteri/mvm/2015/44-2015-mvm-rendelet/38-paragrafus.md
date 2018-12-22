@@ -4,6 +4,6 @@
 
 (2) A Kbt. 79. § (2) bekezdése szerinti, a részvételi jelentkezések elbírálására vonatkozó írásbeli összegezés mintáját a 15. melléklet tartalmazza.
 
-(3)[^23] A Kbt. 43. § (1) bekezdés e) pontja szerinti részvételi jelentkezések és az ajánlatok elbírálásáról szóló összegezés közzététele esetén a 36. § (1)–(5) bekezdése szerint kell eljárni, azzal, hogy az ajánlatok elbírálásáról szóló összegezés Közbeszerzési Adatbázisba történő feltöltésével egyidejűleg az ahhoz tartozó és annak tartalmával megegyező elektronikus adatlapot is ki kell tölteni. A Kbt. 43. § (1) bekezdés e) pontja szerinti közzététel a kitöltött elektronikus adatlapból generált pdf-dokumentum automatikus csatolásával is teljesíthető.
+(3)[^24] A Kbt. 43. § (1) bekezdés e) pontja szerinti részvételi jelentkezések és az ajánlatok elbírálásáról szóló összegezés közzététele esetén a 36. § (1)–(5) bekezdése szerint kell eljárni, azzal, hogy az ajánlatok elbírálásáról szóló összegezés Közbeszerzési Adatbázisba történő feltöltésével egyidejűleg az ahhoz tartozó és annak tartalmával megegyező elektronikus adatlapot is ki kell tölteni. A Kbt. 43. § (1) bekezdés e) pontja szerinti közzététel a kitöltött elektronikus adatlapból generált pdf-dokumentum automatikus csatolásával is teljesíthető.
 
-[^23]: A 38. § (3) bekezdése a 18/2017. (VI. 27.) MvM rendelet 1. §-ával megállapított szöveg.
+[^24]: A 38. § (3) bekezdése a 18/2017. (VI. 27.) MvM rendelet 1. §-ával megállapított szöveg.
