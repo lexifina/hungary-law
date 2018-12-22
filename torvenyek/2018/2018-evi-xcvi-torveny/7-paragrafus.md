@@ -1,5 +1,0 @@
-7. § A KKVtv. 13. és 14. §-a helyébe a következő rendelkezések lépnek:
-
-„13. § Az elkülönített állami pénzalap és a központi költségvetésben meghatározott célelőirányzat kezelője, a Magyar Nemzeti Bank (a továbbiakban: MNB) elnöke, valamint a Közbeszerzési Hatóság elnöke összesített adatokat szolgáltat a miniszter részére a KKV-k részesedéséről a támogatásokból, a vállalkozói hitelekből és a közbeszerzésekből.
-
-14. § A Központi Statisztikai Hivatal elnöke, az állami adóhatóság adatot szolgáltat a miniszter részére a KKV szektor helyzetéről és gazdálkodásáról.”
