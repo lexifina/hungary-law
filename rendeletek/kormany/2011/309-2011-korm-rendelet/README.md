@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-309-20-
 | 2018-05-22 | 2011-309-20-22.19 | 95/2018. (V. 22.) Korm. rendelet |
 | 2018-06-12 | 2011-309-20-22.20 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2018-07-01 | 2011-309-20-22.21 | 112/2018. (VI. 25.) Korm. rendelet |
+| 2018-12-22 | 2011-309-20-22.22 | 290/2018. (XII. 21.) Korm. rendelet |
