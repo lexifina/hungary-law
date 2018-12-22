@@ -1,0 +1,1 @@
+## „c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy, az Európai Területi Együttműködés határmenti programok keretében kötött támogatási szerződések esetén a külgazdasági ügyekért felelős miniszter vagy az általa írásban kijelölt személy,”
