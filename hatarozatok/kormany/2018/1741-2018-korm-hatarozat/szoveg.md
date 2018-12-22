@@ -14,24 +14,6 @@ c) felhívja a külpolitikáért felelős minisztert, hogy szükség esetén az 
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. A Kormány visszavonja
+3.[^1]
 
-a) az egyes nemzetközi pénzügyi intézményeknél a Magyar Köztársaságot képviselő kormányzó felmentéséről és új kormányzók kinevezéséről szóló 2214/2002. (VII. 24.) Korm. határozatot,
-
-b) az egyes nemzetközi pénzügyi intézményeknél a Magyar Köztársaságot képviselő kormányzók és helyettes kormányzók felmentéséről és új kormányzók és helyettes kormányzók kinevezéséről szóló 2047/2004. (III. 4.) Korm. határozatot,
-
-c) az egyes nemzetközi pénzügyi intézményeknél a Magyar Köztársaságot képviselő kormányzó és helyettes kormányzó felmentéséről, valamint új kormányzó és helyettes kormányzó kinevezéséről szóló 2285/2004. (XI. 13.) Korm. határozatot,
-
-d) az egyes nemzetközi pénzügyi intézményeknél a Magyar Köztársaságot képviselő kormányzó és helyettes kormányzó felmentéséről, valamint új kormányzó és helyettes kormányzó kinevezéséről szóló 2135/2005. (VII. 8.) Korm. határozatot,
-
-e) az egyes nemzetközi pénzügyi intézményeknél a Magyar Köztársaságot képviselő kormányzó és helyettes kormányzó felmentéséről, valamint új kormányzó és helyettes kormányzó kinevezéséről szóló 2208/2006. (XI. 30.) Korm. határozatot,
-
-f) az egyes nemzetközi pénzügyi intézményeknél a Magyar Köztársaságot képviselő kormányzó és helyettes kormányzó felmentéséről, valamint új kormányzó és helyettes kormányzó kinevezéséről szóló 2040/2008. (III. 29.) Korm. határozatot,
-
-g) a Nemzetközi Beruházásbiztosítási Ügynökségnél a Magyar Köztársaságot képviselő kormányzótanácsi tagok felmentéséről, valamint új kormányzótanácsi tagok kinevezéséről szóló 1089/2011. (IV. 13.) Korm. határozatot,
-
-h) az egyes nemzetközi pénzügyi intézményeknél a Magyarországot képviselő kormányzótanácsi tagok felmentéséről, valamint új kormányzótanácsi tagok kinevezéséről szóló 1183/2013. (IV. 5.) Korm. határozat 1. pont b) és c) alpontját,
-
-i) az egyes nemzetközi pénzügyi intézményeknél a Magyarországot képviselő kormányzótanácsi tag felmentéséről, valamint új kormányzótanácsi tag kinevezéséről szóló 1197/2014. (IV. 1.) Korm. határozatot és
-
-j) a Nemzetközi Újjáépítési és Fejlesztési Banknál Magyarországot képviselő kormányzótanácsi tag felmentéséről, valamint új kormányzótanácsi tag kinevezéséről szóló 1796/2015. (XI. 10.) Korm. határozatot.
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
