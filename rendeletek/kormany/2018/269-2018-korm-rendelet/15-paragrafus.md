@@ -1,5 +1,3 @@
-## 14. § A 354/2013. (X. 7.) Korm. rendelet 9. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 14. §[^11]
 
-## (A hatóság – az IMI-rendszerben a megkeresések intézésén túlmenően –)
-
-## „b) együttműködik az IMI-koordinátorokkal, az uniós szervekkel, hivatalokkal, ügynökségekkel és az Európai Bizottsággal az IMI-rendszer megfelelő működése érdekében, ennek keretében részükre az IMI-rendszer alkalmazásáról – az általuk igényeltek szerint, a szükséges körben – adatot szolgáltat, és jelez bármilyen, az IMI-rendszer alkalmazásával összefüggésben felmerült problémát,”
+[^11]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

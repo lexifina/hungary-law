@@ -1,3 +1,3 @@
-## 16. §[^5]
+## 16. §[^13]
 
-[^5]: A 16. § a 18. § (2) bekezdése alapján 2019. február 16-án lép hatályba.
+[^13]: A 16. § a 18. § (2) bekezdése alapján 2019. február 16-án lép hatályba.

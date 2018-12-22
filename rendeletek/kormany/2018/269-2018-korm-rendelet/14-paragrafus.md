@@ -1,5 +1,3 @@
-## 13. § A 354/2013. (X. 7.) Korm. rendelet 7. § c) pontja helyébe a következő rendelkezés lép:
+## 13. §[^10]
 
-## (A delegált IMI-koordinátor)
-
-## „c) közvetít a más EGT-állam illetékes hatósága, az uniós szervek, hivatalok és ügynökségek és az általa koordinált hatóság között felmerülő, egy adott megkeresés teljesítésével összefüggő vitás kérdésben a vita rendezése érdekében,”
+[^10]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

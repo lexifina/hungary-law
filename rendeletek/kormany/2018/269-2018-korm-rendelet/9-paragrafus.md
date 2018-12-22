@@ -1,3 +1,3 @@
-## 8. § A belső piaci információs rendszer hazai működéséről és az abban való részvételnek a szabályairól, valamint a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv szerinti bejelentési kötelezettség teljesítéséről szóló 354/2013. (X. 7.) Korm. rendelet [a továbbiakban: 354/2013. (X. 7.) Korm. rendelet] 2. §-a helyébe a következő rendelkezés lép:
+## 8. §[^5]
 
-## „2. § Az IMI-koordinátorok és a hatóságok a közvetlenül az IMI-rendszerben való részvétellel és az IMI-rendszer használatával összefüggő ügyekben egymással, az uniós szervekkel, hivatalokkal és ügynökségekkel, valamint az Európai Bizottsággal elektronikus úton, az IMI-rendszeren belül vagy – ha az IMI-rendszeren belül erre nincs mód – erre a célra rendszeresített elektronikus levélcímen keresztül tartanak kapcsolatot.”
+[^5]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

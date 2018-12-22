@@ -1,5 +1,3 @@
-## 10. § A 354/2013. (X. 7.) Korm. rendelet 4. §-a a következő c) ponttal egészül ki:
+## 10. §[^7]
 
-## (E rendelet alkalmazásában)
-
-## „c) uniós szerv, hivatal és ügynökség: az IMI rendelet 5. cikk g) pontja szerinti IMI-szereplő, amelyet az IMI-rendszerben regisztráltak.”
+[^7]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
