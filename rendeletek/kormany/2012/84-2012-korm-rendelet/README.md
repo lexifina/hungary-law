@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-84-20-2
 | 2017-04-11 | 2012-84-20-22.19 | 78/2017. (IV. 6.) Korm. rendelet |
 | 2017-08-08 | 2012-84-20-22.20 | 221/2017. (VIII. 7.) Korm. rendelet |
 | 2018-10-03 | 2012-84-20-22.21 | 179/2018. (X. 2.) Korm. rendelet |
+| 2018-12-22 | 2012-84-20-22.22 | 291/2018. (XII. 21.) Korm. rendelet |
