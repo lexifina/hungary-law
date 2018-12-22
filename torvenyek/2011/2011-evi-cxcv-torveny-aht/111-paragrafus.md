@@ -14,7 +14,7 @@
 
 (7) Azon kincstári körön kívüli számlatulajdonosok, amelyek a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított 79. § (3) bekezdése értelmében értékpapírszámlával nem rendelkezhetnek, a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvény hatálybalépésekor meglévő értékpapírszámláikat azok lejáratáig fenntarthatják.
 
-(8)
+(8) E törvénynek az államháztartásról szóló 2011. évi CXCV. törvény és egyéb törvények módosításáról szóló 2018. évi CXXVII. törvénnyel megállapított 52/A. § (3) bekezdését az államháztartásról szóló 2011. évi CXCV. törvény és egyéb törvények módosításáról szóló 2018. évi CXXVII. törvény hatálybalépését megelőzően meghozott támogatási döntések esetében is alkalmazni kell.
 
 (9) A VI. Fejezetet a 2012. január 1-jén vagy azt követően benyújtott támogatási igényekre, pályázati úton biztosított költségvetési támogatás esetén a 2012. január 1-jén vagy azt követően megjelentetett pályázati kiírásokra, valamint a 2012. január 1-jét megelőzően megjelentetett pályázati kiírások alapján 2014. január 1-jén vagy azt követően benyújtott pályázatokra és az azok alapján nyújtott költségvetési támogatásokra kell alkalmazni. Az e törvény alapján nyújtott támogatásra a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvényt nem kell alkalmazni.
 
