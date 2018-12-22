@@ -50,4 +50,6 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a támogatói okirat kiadásakor
 
-10. visszavonja a Modern Városok Program keretében Szeged Megyei Jogú Város tömegközlekedése elektromos alapra helyezésének lehetőségéről szóló 1932/2017. (XII. 8.) Korm. határozatot.
+10.[^2]
+
+[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

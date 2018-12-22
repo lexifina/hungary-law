@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1798-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-12-21 | 2018-1798-30-22.1 | 1798/2018. (XII. 21.) Korm. határozat |
+| 2018-12-22 | 2018-1798-30-22.2 | 1067/2020. (III. 3.) Korm. határozat |
