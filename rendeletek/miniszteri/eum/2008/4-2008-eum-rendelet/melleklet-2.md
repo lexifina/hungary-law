@@ -1,3419 +1,2365 @@
-## A Magyarországon kiállított orvosi, szakorvos, háziorvosi oklevelek és az azokkal egyenértékű, feltétel nélkül elismerésre kerülő oklevelek
+## A) Az orvosok számára előírt képesítés megszerzését tanúsító okiratok az alapképzésben
 
-## A) Az orvosi oklevelek megnevezései, kibocsátó szervei, valamint a képesítést kísérő igazolások Magyarországon, valamint az egyes tagállamokban:
+|  | A | B | C | D | E |
 
-| Ország | Oklevél megnevezése | Kibocsátó szerv | Képesítést kísérő igazolás |
+|  | Ország | Előírt képesítés megszerzését tanúsító okirat | Kibocsátó szerv | A képesítés megszerzését tanúsító okiratot kísérő igazolás | Hivatkozási dátum |
 
-| Belgium | Diplôme de «médecin»/Master in de geneeskunde (Orvosi oklevél/Orvostudományi mesteroklevél) | Les universités/De universiteiten (Egyetemek) Le Jury compétent d’enseignement de la Communauté française (A Francia Közösség illetékes oktatási bizottsága)/De bevoegde Examencommissie van de Vlaamse Gemeenschap (A Flamand Közösség illetékes vizsgáztató bizottsága) |  |
+| 1. | Ausztria/ Österreich | Urkunde über die Verleihung des akademischen Grades Doktor der gesamten Heilkunde (bzw. Doctor medicinae univer-sae, Dr.med.univ.) | Medizinische Fakultät einer Universität, bzw Medizinische Universität |  | 1994.1.1. |
 
-| Bulgária | Диплома за висше образование на образователно- квалификационна степен „магистър по Медицина” и професионална квалификация "Магистър-лекар”(Felsőfokú diploma a „medicina magisztere” fokozatú szakképzésről és a „magiszter-orvos” szakképzettségről) | Университет (Egyetem) |  |
+| 2. | Belgium/ België/Belgique/ Belgien | Diploma van arts/Diplőme de docteur en médecine Diplőme de »médecin«/Master in de geneeskunde | - Les universités/De universiteiten - Le Jury compétent d’enseignement de la Communauté française/De bevoegde Examencommissie van de Vlaamse Gemeenschap |  | 1976.12.20. |
 
-| Cseh Köztársaság | Diplom o ukončení studia ve studijním programu všeobecné lékařství (doktor medicíny, MUDr.) [Az általános orvosképzés tanulmányi program befejezését igazoló oklevél (orvosdoktor, MUDr. – medicinae universalis doctor)] | Lékářská fakulta univerzity v České republice (A Cseh Köztársaság egyetemeinek orvostudományi kara) |  |
+| 3. | Bulgária/ България | Диплома за висше образование на образователно-квалифи- кационна степен »магистър« по Медицина и професионална квалификация »Магистър-лекар« | Университет |  | 2007.1.1. |
 
-| Dánia | Bevis for kandidatuddannels en i medicine (cand.med.) | Universitet | 1. Autorisation som laege, udstedt af Sundhedsstyrelsen og (Orvosi jogosítvány, amelyet az Egészségügyi Igazgatóság állít ki) 2. Tilladelse til selvstaendigt virke som laege (dokumentation for gennemført praktisk uddannelse), udstedt af Sundhedsstyrelsen (Engedély önálló orvosi tevékenység végzésére (a gyakorlati képzés elvégzését bizonyító okirat), az Egészségügyi Igazgatóság állítja ki) |
+| 4. | Ciprus/Κύπρος | Πιστοποιητικό Εγγραφής Ιατρού | Ιατρικό Συμβούλιο |  | 2004.5.1. |
 
-| Németország | 1. Zeugnis über die Ärztliche Prüfung (Orvosi vizsgabizonyítvány) 2. Zeugnis über die Arztliche Staatsprüfung und Zeugnis über die Vorbereitungszeit als Medizinalassistent, soweit diese nach den deutschen Rechtsvorschriften noch für den Abschluss der ärztlichen Ausbildung vorgesehen war (Orvosi államvizsga bizonyítvány és bizonyítvány az orvosi asszisztensi előkészítő gyakorlati időszak letöltéséről) | Zuständige Behörden (Illetékes hatóságok) |  |
+| 5. | Cseh Köztársaság/ Česká Republika | Diplom o ukončení studia ve studijním programu všeobecné lékařství (doktor medicíny, MUDr.) | Lékářská fakulta univerzity v České republice |  | 2004.5.1. |
 
-| Észtország | Arstikraad Degree in Medicine (MD) Diplom arstiteaduse őppekava läbimise kohta (Oklevél az orvostudományi képzési követelmények teljesítéséről) | Tartu Ülikool (Tartui Egyetem) |  |
+| 6. | Dánia/ Danmark | Bevis for kandidatuddannelsen i medicin (cand.med.) Bevis for bestået lægevidenskabelig embedseksamen (cand. med.) | Universitet Styrelsen for Patientsikkerhed Medicinsk universitetsfakultet | - Autorisation som læge, udstedt af Sundhedssty-relsen og - Tilladelse til selvstændigt virke som læge (dokumentation for gennemført praktisk uddannelse), udstedt af Sundhedssty-relsen | 1976.12.20. |
 
-| Görögország | Πτυχíο Ιατρικηζ (Egyetemi orvosi oklevél) | 1. Ιατρικη Σχολη Πανεπιστημiου (Egyetem orvostudományi kara) 2. Σχολη Επιστημων Υγεiαζ, Τμημα Ιατρικηζ Πανεπιστημiου (Egyetem egészségtudományi karának orvostudományi intézete) |  |
+|  |  | - Autorisation som læge og tilladelse til selvstændigt virke som læge |  |
 
-| Spanyolország | Título de licenciado en Medicina y Cirugía(Egyetemi orvosdoktori oklevél) Titulo de Graduado/a en Medicina | 1. Ministerio de Educación y Cultura (Oktatási és Kulturális Minisztérium) 2. El rector de una Universidad (Egyetemi rektor) |  |
+| 7. | Egyesült Királyság/United Kingdom | Primary qualification | Competent examining body | Certificate of experience | 1976.12.20. |
 
-| Franciaország | Diplôme de fin de deuxiéme cycle des études médicales(Az orvostudomány terén folytatott második képzési ciklus befejezését igazoló oklevél) | Universités (Egyetemek) |  |
+| 8. | Észtország/Eesti | Arstikraad Degree in Medicine (MD) Diplom arstiteaduse õppekava läbimise kohta | Tartu Ülikool |  | 2004.5.1. |
 
-| Horvátország | Diploma „doktor medicine/ doktorica medicine” („Orvostudományok doktora/doktornője” oklevél) | Medicinski fakultati sceučilista u Republici Hrvatskoj (A Horvát Köztársaság egyetemeinek orvosi karai) |  |
+| 9. | Finnország/Suomi/Finland | Lääketieteen lisensiaatin tutkin-to/Medicine licentiatexamen | Yliopisto |  | 1994.1.1. |
 
-| Írország | Primary qualification (Alapképesítés) | Competent examining body (Illetékes vizsgáztató testület) | Certificate of experience (Bizonyítvány gyakorlatról) |
+| 10. | Franciaország/ France | Diplőme de fin de deuxième cycle des études médicales | Universités |  | 1976.12.20. |
 
-| Izland | Embættispróf í læknisfræði, candidatus medicinae (cand. Med.) | Háskóli Íslands | Vottorð um viðbótarnám (kandidatsár) útgefið af Heilbrigðis- og Tryggingamálaráðuneytinu |
+| 11. | Görögország/ Ελλάς | Πτυχίο Ιατρικής | – Ιατρική Σχολή Πανεπιστημίου, – Σχολή Επιστημών Υγείας, Τμήμα Ιατρικής Πανεπιστημίου |  | 1981.1.1. |
 
-| Olaszország | Diploma di laurea in medicina e chirurgia (Egyetemi orvosi és sebészi oklevél) | Universita (Egyetem) | Diploma di abilitazione all’esercizio della medicina e chirurgia (Orvosi és sebészi praxisra feljogosító oklevél) |
+| 12. | Hollandia/ Nederland | Getuigschrift van met goed gevolg afgelegd artsexamen | Faculteit Geneeskunde |  | 1976.12.20. |
 
-| Ciprus | Πιστοποιητικó Εγγραψηζ Ιατρου (Bizonyítvány az orvosi nyilvántartásba vételről) | Ιατρικó Συμβουλιο (Orvosi Tanács) |  |
+| 13. | Horvátország/ Hrvatska | Diploma »doktor medicine/doktorica medicine« | Medicinski fakulteti sveučilišta u Republici Hrvatskoj |  | 2013.7.1. |
 
-| Lettország | Ārsta diploms (Orvosi oklevél) | Universitātes tipa augstskola (Egyetemi típusú főiskola) |  |
+| 14. | Írország/Ireland | Primary qualification | Competent examining body | Certificate of experience | 1976.12.20. |
 
-| Liechtenstein | Minden, az A) pontban felsorolt oklevél, amelyet valamely másik tagállamban állítottak ki | Illetékes hatóságok | Gyakorlati képzési bizonyítvány |
+| 15. | Izland/ Ísland | Embættispróf í læknisfræði, candidatus medicinae (cand. Med.) | Háskóli Íslands | Vottorð um viðbótarnám (kandidatsár) útgefið af Heilbrigðis-og Tryggingamála-ráðuneytinu | 1994.1.1. |
 
-| Litvánia | 1. Aukštojo mokslo diplomas, nurodantis suteiktą gydytojo kvalifikaciją (Orvosi képesítés megszerzését tanúsító felsőoktatási oklevél) 2. Magistro diplomas (medicinos magistro kvalifikacinis laipsnis ir gydytojo kvalifikacija) | Universitetas (Egyetem) | 1. Internatūros pažymėjimas, nurodantis suteiktą medicinos gydytojo profesinę kvalifikaciją (Általános orvosi szakbizonyítvány megszerzését tanúsító internatúra-bizonyítvány) 2. Internaturos pazymejimas (medicinos gydytojo profesine kvalifikacija) |
+| 16. | Lengyelország/ Polska | Dyplom ukończenia studiów wyższych na kierunku lekarskim z tytułem »lekarza« | szkoły wyższe | Świadectwo złożenia Lekarskiego Egzaminu Państwowego (1) (3) /Świadectwo złożenia Lekarskiego Egzaminu Końcowego (2) (3) | 2004.5.1. |
 
-| Luxemburg | Diplőme d’Etat de docteur en médecine, chirurgie et accouchements (Állami orvos-, sebész- és szülészdoktori oklevél) | Jury d’examen d’Etat (Állami vizsgabizottság) | Certificat de stage (Gyakorlati képzési bizonyítvány) |
+| 17. | Lettország/Latvija | ārsta diploms | Universitātes tipa augstskola |  | 2004.5.1. |
 
-| Magyarország | Okleveles orvosdoktor oklevél (dr. med.) | Egyetem |  |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Minden, az A) pontban felsorolt oklevél, amelyet valamely másik tagállamban állítottak ki | Illetékes hatóságok | Gyakorlati képzési bizonyítvány | 1995.5.1. |
 
-| Málta | Lawrja ta’ Tabib tal-Medicina u l-Kirurgija (Általános orvosi és sebészi képesítés) | Universita` ta’ Malta (Máltai Egyetem) | Certifikat ta’ registrazzjoni mahrug mill-Kunsill Mediku (Az Orvosi Tanács által kiállított bizonyítvány a nyilvántartásba vételről) |
+| 19. | Litvánia/Lietuva | 1. Aukštojo mokslo diplomas, nurodantis suteiktą gydytojo kvalifikaciją | Universitetas | 1. Internatūros pažymėjimas, nurodantis suteiktą medicinos gydytojo profesinę kvalifikaciją | 2004.5.1. |
 
-| Hollandia | Getuigschrift van met goed gevolg afgelegd artsexamen (Bizonyítvány jó eredménnyel letett orvosi vizsgáról) | Faculteit Geneeskunde (Orvostudományi Kar) |  |
+| 2. Magistro diplomas (medicinos magistro kvalifikacinis laipsnis ir gydytojo kvalifikacija) |  | 2. Internatūros pažymėjimas (medicinos gydytojo profesinė kvalifikacija) |  |
 
-| Norvégia | Vitnemål for fullført grad candidata/candidatus medicinae, röv.: cand.med. (Candidata/candidatus medicinae, röv.: cand.med. fokozat megszerzést tanúsító oklevél) | Medisinsk universitetsfakultet (Egyetem orvostudományi kara) | Bekreftelse på praktisk tjeneste som lege utstedt av kompetens offentlig myndighet (Az illetékes hatóság által kiállított, gyakorlat elvégzését tanúsító oklevél) |
+| 20. | Luxemburg/ Luxembourg | Diplőme d’Etat de docteur en médecine, chirurgie et accouchements | Jury d’examen d’Etat | Certificat de stage | 1976.12.20. |
 
-| Ausztria | Urkunde über die Verleihung des akademischen Grades Doktor der gesamten Heilkunde (bzw. Doctor medicinae universae, Dr.med.univ.) [Általános orvosi (ill. a Doctor medicinae universae, Dr. med. univ.) tudományos fokozat odaítéléséről szóló oklevél] | Medizinische Fakultät einer Universität, bzw Medizinische Universitat (Egyetemi Orvostudományi Kar) |  |
+| 21. | Magyarország | Okleveles orvosdoktor oklevél (dr. med.) | Egyetem |  | 2004.5.1. |
 
-| Lengyelország | Dyplom ukończenia studiów wyższych na kierunku lekarskim z tytułem „lekarza” (Egyetemi orvostudományi kar elvégzését igazoló oklevél „orvos” címmel) | szkoly wyzsze | Swiadectwo zlozenia Lekarskiego Egzaminu Panstwowego (1) (3)/Swiad ectwo zlozenia Lekarskiego Egzaminu Koncowego (2) (3) |
+| 22. | Málta/Malta | Lawrja ta’ Tabib tal-Mediċina u l-Kirurġija | Universita` ta’ Malta | Ċertifikat ta’ reġistrazzjoni maħruġ mill-Kunsill Mediku | 2004.5.1. |
 
-| Portugália | Carta de Curso de licenciatura em medicina(Orvosi tanulmányok befejezését tanúsító oklevél) | Universidades (Egyetemek) | Certificado emitido pela Ordem dos Médicos(Az Orvosi Kamara által kibocsátott bizonyítvány) |
+| 23. | Németország /Deutschland | - Zeugnis über die Ärztliche Prüfung | Zuständige Behörden |  | 1976.12.20. |
 
-| Románia | Diplomă de licenţă de doctor medic (Orvosi egyetemi oklevél) (Orvos) | Universităţi (Tudományegyetem) |  |
+| - Zeugnis über die Ärztliche Staatsprüfung und Zeugnis über die Vorbereitungszeit als Medizinalassistent, soweit diese nach den deutschen Rechtsvorschriften noch für den Abschluss der ärztlichen Ausbildung vorgesehen war |  |  |  |
 
-| Szlovénia | Diploma, s katero se podeljuje strokovni naslov „doktor medicine/doktorica medicine” (Az orvostudomány doktora/doktornője szakmai cím odaítéléséről szóló oklevél) | Univerza (Egyetem) |  |
+| 24. | Norvégia/Norge | Vitnemål for fullført grad candidata/candidatus medicinae, röv.: cand.med. (Candidata/candidatus medicinae, röv.: cand.med. fokozat megszerzést tanúsító oklevél) | Medisinsk universitetsfakultet (Egyetem orvostudományi kara) | Bekreftelse på praktisk tjeneste som lege utstedt av kompetens offentlig myndighet (Az illetékes hatóság által kiállított, gyakorlat elvégzését tanúsító oklevél) | 1994.1.1 |
 
-| Szlovákia | DIPLOM vseobecné lekárstvo doktor vseobecného lekárstva (MUDr.) | Univerzita |  |
+| 25. | Olaszország/ Italia | Diploma di laurea in medicina e chirurgia | Università | Diploma di abilitazione all’esercizio della medicina e chirurgia | 1976.12.20. |
 
-| Finnország | Lääketieteen lisensiaatin tutkinto/medicine licentiatexamen (Egyetemi fokozatú orvosi képesítés) | Yliopisto |  |
+| 26. | Portugália/ Portugal | Carta de Curso de licenciatura em medicina Certificado de mestrado integrado em medicina | Universidades | Certificado emitido pela Ordem dos Médicos | 1986.1.1. |
 
-| Svédország | Läkarexamen (Orvosi oklevél) | Universitet eller högskola | Bevis om legitimation som lakare, utfärdas av Socialstyrelsen |
+| 27. | Románia/ România | Diplomă de licenţă de doctor medic Diploma de licență şi master (4) | Universităţi Ministerul Educației Naționale (4) |  | 2007.1.1. |
 
-| Svájc | 1. Diplôme fédéral demédecin (Szövetségi orvosi oklevél) 2. Eidgenössisches Arztdiplom (Szövetségi okleveles orvos) 3. Diploma federale dimedico (Szövetségi orvosi oklevél) | Département fédéral de l’intérieur (Szövetségi Belügyminisztérium) Eidgenössisches Departement des Innern (Szövetségi Belügyminisztérium) Dipartimento federale dell’interno (Szövetségi Belügyminisztérium) |  |
+| 28. | Spanyolország/ España | Título de Licenciado en Medicina y Cirugía Título de Licenciado en Medicina Título de Graduado/a en Medicina | - Ministerio de Educación y Cultura - El rector de una Universidad |  | 1986.1.1. |
 
-| Egyesült Királyság | Primary qualification (Alapképesítés) | Competent examining body (Illetékes vizsgáztató testület) | Certificate of experience (Bizonyítvány gyakorlatról) |
+| 29. | Svédország/ Sverige | Läkarexamen | Universitet eller högskola | Bevis om legitimation som läkare, utfärdat av Socialstyrelsen | 1994.1.1. |
 
-## (1) 2012-ig
+| 30. | Svájc/ Schweizerische Eidgenossen- schaft/ Confédération suisse/ Confederazione Svizzera/ Confederaziun svizra | 1. Diplőme fédéral demédecin (Szövetségi orvosi oklevél) 2. Eidgenössisches Arztdiplom (Szövetségi okleveles orvos) 3. Diploma federale dimedico (Szövetségi orvosi oklevél) | Département fédéral de l’intérieur (Szövetségi Belügyminisztérium) Eidgenössisches Departement des Innern (Szövetségi Belügyminisztérium) Dipartimento federale dell’interno (Szövetségi Belügyminisztérium) |  | 2002.6.1. |
 
-## (2) 2013-tól
+| 31. | Szlovénia/ Slovenija | Diploma, s katero se podeljuje strokovni naslov »doktor medicine/doktorica medicine« | Univerza | Potrdilo o Opravljenem Strokovnem Izpitu za Poklic Zdravnik/ Zdravnica | 2004.5.1. |
 
-## (3) 2017. október 1-jéig az előírt képesítés megszerzését tanúsító okirathoz mellékelni kell a posztgraduális szakmai gyakorlat teljesítéséről szóló igazolást (»stażĤpodyplomowy«).
+| 32. | Szlovákia/ Slovensko | DIPLOM všeobecné lekárstvo doktor všeobecného lekárstva (»MUDr.«) | Univerzita |  | 2004.5.1. |
 
-## B) A szakorvosi oklevelek általános megnevezései, kibocsátó szervei Magyarországon valamint az egyes tagállamokban:
+|  | (1) 2012-ig. (2) 2013-tól. (3) 2017. október 1-jéig az előírt képesítés megszerzését tanúsító okirathoz mellékelni kell a posztgraduális szakmai gyakorlat teljesítéséről szóló igazolást (»staż podyplomowy«). (4) 2011-től. |
 
-| Ország | Oklevél megnevezése | Kibocsátó szerv |
+## B) A szakorvosok számára előírt képesítés megszerzését tanúsító okiratok
 
-| Belgium | Bijzondere beroepstitel van geneesheer-specialist (Szakorvosi különleges foglalkozási cím)/ Titre professionnel particulier de médecin spécialiste (Szakorvosi szakmai cím birtokosa) | Minister bevoegd voor Volksgezondheid (Népegészségügyért felelős miniszter) / Ministre de la Santé publique (Népegészségügyi Miniszter) |
+|  | A. | B. | C. | D. |
 
-| Bulgária | Свидетелство за призната специалност(Bizonyítvány az elismert szakképesítésről) | Университет(Egyetem) |
+|  | Ország | Előírt képesítés megszerzését tanúsító okirat | Kibocsátó szerv | Hivatkozási dátum |
 
-| Cseh Köztársaság | Diplom o specializaci (Szakosodásról szóló oklevél) | Ministerstvo zdravotnictví (Egészségügyi Minisztérium) |
+| 1. | Ausztria/ Österreich | Facharztdiplom | Österreichische Ärztekammer | 1994.1.1. |
 
-| Dánia | Bevis for tilladelse til at betegne sig som speciallaege (Bizonyítvány a szakorvosi cím megszerzéséről) | Sundhedsstyrelsen (Egészségügyi Igazgatóság) |
+| 2. | Belgium/België/Belgique/ Belgie | Bijzondere beroepstitel van genees-heer-specialist/Titre professionnel particulier de médecin spécialiste | Minister bevoegd voor Volksgezond-heid/Ministre de la Santé publique | 1976.12.20. |
 
-| Németország | Fachärztliche Anerkennung (Elismert szakorvosi bizonyítvány) | Landesärztekammer (Tartományi orvosi kamara) |
+| 3. | Bulgária/България | Свидетелство за призната специалност | Университет | 2007.1.1. |
 
-| Észtország | Residentuuri lopetamist toendav tunnistus Residentuuri lőputunnistus eriarstiabi erialal (Rezidentúra záróbizonyítvány szakorvosi szakon) | Tartu Ülikool (Tartui Egyetem) |
+| 4. | Ciprus/Κύπρος | Πιστοποιητικό Αναγνώρισης Ειδικότητας | Ιατρικό Συμβούλιο | 2004.5.1. |
 
-| Görögország | Τιτλοζ Ιατρικηζ Ειδικóτηταζ (Szakorvosi bizonyítvány) | 1. Περιφέρεια 2. Νομαρχιακη Αυτοδιοíκηση (Megyei önkormányzat) 3. Νομαρχíα (Megyefőnökség (prefektúra)) |
+| 5. | Cseh Köztársaság/ Česká Republika | Diplom o specializaci | Ministerstvo zdravotnictví | 2004.5.1. |
 
-| Spanyolország | Título de Especialista (Szakorvosi képesítés) | Ministerio de Educación y Cultura (Oktatási és Kulturális |
+| 6. | Dánia/ Danmark | Bevis for tilladelse i lat betegne sig som speciallæge | Sundhedsstyrelsen Styrelsen for Patientsikkerhed | 1976.12.20. |
 
-| Franciaország | 1. Certificat d’études spéciales de médicine accompagné du diplôme d’Etat de docteur en médecine (Orvostudományok doktora állami oklevéllel kísért szakorvosi tanulmányokat igazoló bizonyítvány) 2. Attestation de médecin spécialiste qualifié accompagnée du diplôme d’Etat de docteur en médecine (Orvostudományok doktora állami oklevéllel kísért szakorvosi képesítési bizonyítvány) 3. Diplôme d’études spécialisées ou diplôme d’études spécialisées complémentaires qualifiant de médecine accompagné du diplôme d’Etat de docteur en médecine (Orvostudományok doktora állami oklevéllel kísért szakorvosi vagy kiegészítő szakosított tanulmányokat igazoló oklevél) | 1. Universités (Egyetemek) 2. Conseil de l’Ordre des médecins (Orvosi Kamara Tanácsa) 3. Universités (Egyetemek) |
+| 7. | Egyesült Királyság/United Kingdom | Certificate of Completion of training | Postgraduate Medical Education and Training Board General Medical Council | 1976.12.20. 2010.4.1. |
 
-| Horvátország | Diploma o specijalističom usavrsavanju (Szakorvosi képzést igazoló oklevél) | Ministrastvo nadležno za zdravstvo (Egészségügyért felelős minisztérium) |
+| 8. | Észtország/Eesti | Residentuuri lõpetamist tõendav tunnistus Residentuuri lõputunnistus eriarstiabi erialal | Tartu Ülikool | 2004.5.1. |
 
-| Írország | Certificate of Specialist doctor (Szakorvosi bizonyítvány) | Competent authority (Illetékes hatóság) |
+| 9. | Finnország/Suomi/Finland | Erikoislääkärin tutkinto/Specialläkare-xamen | Yliopisto | 1994.1.1. |
 
-| Izland | Sérfræðileyfi (Szakosodás/szakorvosi engedély) | Heilbrigðis- og Tryggingamálaráðuneyti (Egészségügyi és Társadalombiztosítási Minisztérium) |
+| 10. | Franciaország/France | 1. Certificat d’études spéciales de médecine accompagné du diplőme d’Etat de docteur en médecine | 1. Universités | 1976.12.20. |
 
-| Olaszország | Diploma di medico specialista (Szakorvosi oklevél) | Universita (Egyetem) |
+| 2. Attestation de médecin spécialiste qualifié accompagnée du diplőme d’Etat de docteur en médecine | 2. Conseil de l’Ordre des médecins |
 
-| Ciprus | Πιστοποιητικó Αναγνωρισηζ Ειδικóτηταζ (Szakképesítő bizonyítvány) | Ιατρικó Συμβουλιο (Orvosi Tanács) |
+| 3. Diplőme d’études spécialisées ou diplőme d’études spécialisées complémentaires qualifiant de médecine accompagné du diplőme d’Etat de docteur en médecine | 3. Universités |
 
-| Lettország | „Sertifikāts” – kompetentu iestāzu izsniegts dokuments, kas apliecina, ka persona ir nokārtojusi sertifikācijas eksāmenu specialitātē („Bizonyítvány” – kompetens intézmények által kibocsátott irat, amely igazolja, hogy a személy letette a szakvizsgát a szakmában) | 1. Latvijas Ārstu biedrība (Lett Orvosok Egyesülete) 2. Latvijas Ārstniecības personu profesionālo organizāciju savienība (Lett Egészségügyi Dolgozók Szakszervezeteinek Szövetsége) |
+| 11. | Görögország/Ελλάς | Τίτλος Ιατρικής Ειδικότητας | 1. Περιφέρεια 2. Νομαρχιακή Αυτοδιοίκηση 3. Νομαρχία | 1981.1.1. |
 
-| Liechtenstein | Minden, a B) pontban felsorolt oklevél, amelyet valamely másik tagállamban állítottak ki | Illetékes hatóságok |
+| 12. | Hollandia/ Nederland | Bewijs van inschrijving in een Specialistenregister | - Medische Specialisten Registratie Commissie (MSRC) van de Koninklijke Nederlandsche Maatschap-pij tot bevordering der Geneeskunst - Sociaal-Geneeskundigen Registratie Commissie (SGRC) van de Koninklijke Nederlandsche Maatschap-pij tot Bevordering der Geneeskunst | 1976.12.20. |
 
-| Litvánia | Rezidentūros pažymejimas, nurodantis suteiktą gydytojo specialisto profesinę kvalifikaciją (Szakorvosi bizonyítvány megszerzését tanúsító rezidentúra-bizonyítvány) Rezidenturos pazymejimas (gydytojo specialisto profesine kvalifikacija) | Universitetas (Egyetem) |
+| Diploma geneeskundig specialist | - Registratiecommissie Geneeskundig Specialisten (RGS) van de Koninklijke Nederlandsche Maatschap-pij tot Bevordering der Geneeskunst (1) |
 
-| Luxemburg | Certificat de médecin spécialiste (Szakorvosi bizonyítvány) | Ministre de la Santé publique (Népegészségügyi Minisztérium) |
+| 13. | Horvátország/Hrvatska | Diploma o specijalističkom usavrša-vanju | Ministarstvo nadležno za zdravstvo | 2013.7.1. |
 
-| Magyarország | Szakorvosi bizonyítvány | Nemzeti Vizsgabizottság |
+| 14. | Írország/Ireland | Certificate of Specialist doctor | Competent authority | 1976.12.20. |
 
-| Málta | Certificat ta’ Specjalista Mediku (Szakorvosi bizonyítvány) | Kumitat ta’ Approvazzjoni dwar Specjalisti (Szakképzettséget Elismerő Bizottság) |
+| 15. | Izland/ Ísland | Sérfræðileyfi (Szakosodás/szakorvosi engedély) | Heilbrigðis-og Tryggingamálaráðuneyti (Egészségügyi és Társadalombiztosítási Minisztérium) | 1994.1.1. |
 
-| Hollandia | Bewijs van inschrijving in een Specialistenregister(Igazolás szakorvosi nyilvántartásba történő felvételről) | 1. Medisch Specialisten Registratie Commissie (MSRC) van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst [Holland Királyi Orvostudományi Fejlesztési Társaság Szakorvosi Nyilvántartási Bizottsága (MSRC)] 2. Sociaal-Geneeskundigen Registratie Commissie (SGRC) van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst (Holland Királyi Orvostudományi Fejlesztési Társaság Társadalom-orvostani Nyilvántartási Bizottsága) |
+| 16. | Lengyelország/ Polska | Dyplom uzyskania tytułu specjalisty | Centrum Egzaminów Medycznych | 2004.5.1. |
 
-| Diploma geneeskunding specialist | Registratiecommissie Geneeskunding Specialisten (RGS) van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst (1) |
+| 17. | Lettország/ Latvija | »Sertifikāts«-kompetentu iestāžu izsniegts dokuments, kas apliecina, ka persona ir nokārtojusi sertifikācijas eksāmenu specialitātē | Latvijas Ārstu biedrība Latvijas Ārstniecības personu profesionālo organizāciju savienība | 2004.5.1. |
 
-| Norvégia | Spesialistgodkjenning (Szakorvosi oklevél) | Den norske laegeforening ihht. delegert myndighet (A norvég orvosi kamara által jóváhagyott hatóság) |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Minden, a B) pontban felsorolt oklevél, amelyet valamely másik tagállamban állítottak ki | Illetékes hatóságok | 1995.5.1. |
 
-| Ausztria | Facharztdiplom (Szakorvosi oklevél) | Österreichische Ärztekammer (Osztrák Orvosi Kamara) |
+| 19. | Litvánia/Lietuva | 1. Rezidentūros pažymėjimas, nurodantis suteiktą gydytojo specialisto profesinę kvalifikaciją 2. Rezidentūros pažymėjimas (gydytojo specialisto profesinė kvalifikacija) | Universitetas | 2004.5.1. |
 
-| Lengyelország | Dyplom uzyskania tytułu specjalisty (Szakorvosi címet adó oklevél) | Centrum Egzaminów Medycznych (Orvostudományi Vizsgáztató Központ) |
+| 20. | Luxemburg/Luxembourg | Certificat de médecin spécialiste | Ministre de la Santé publique | 1976.12.20. |
 
-| Portugália | Titulo de especialista(Szakorvosi cím) | Ordem dos Médicos (Orvosi Kamara) |
+| 21. | Magyarország | Szakorvosi bizonyítvány | Nemzeti Vizsgabizottság | 2004.5.1. |
 
-| Románia | Certificat de medic specialist (Szakorvosi oklevél) | Ministerul Sănătăţii |
+| 22. | Málta/Malta | Ċertifikat ta’ Speċjalista Mediku | Kumitat ta’ Approvazzjoni dwar Speċ-jalisti | 2004.5.1. |
 
-| Szlovénia | Potrdilo o opravljenem specialističnem izpitu (A szakorvosi vizsga letételéről szóló igazolás) | 1. Ministrstvo za zdravje (Egészségügyi Minisztérium) 2. Zdravniska zbornica Slovenije (Szlovén Orvosi Kamara) |
+| 23. | Németország/Deutschland | Fachärztliche Anerkennung | Landesärztekammer | 1976.12.20. |
 
-| Szlovákia | Diplom o špecializácii (Szakosításról szóló oklevél) | 1. Slovenská zdravotnícka univerzita (Szlovák Egészségügyi Egyetem) 2. Univerzita Komenského v Bratislave (Pozsonyi Komenský Egyetem) 3. Univerzita Pavla Jozefa Šafárika v Košiciach (Kassai Pavol Jozef Šafárik Egyetem) |
+| 24. | Norvégia/Norge | Spesialistgodkjenning (Szakorvosi oklevél) | Den norske laegeforening ihht. delegert myndighet (A norvég orvosi kamara által jóváhagyott hatóság) | 1994.1.1. |
 
-| Finnország | Erikoislääkärin tutkinto/specialläkarexamen (Szakorvosi képesítés) | Yliopisto |
+| 25. | Olaszország/ Italia | Diploma di medico specialista | Università | 1976.12.20. |
 
-| Svédország | Bevis om specialkompetens som läkare, utfärdat av Socialstyrelsen (A Társadalombiztosítási Igazgatóság által kiadott szakorvosi oklevél) | Socialstyrelsen (Társadalombiztosítási Igazgatóság) |
+| 26. | Portugália/Portugal | Titulo de especialista | Ordem dos Médicos | 1986.1.1. |
 
-| Svájc | Diplôme de médecin spécialiste (Szakorvos) Diplom als Facharzt (Szakorvos) Diploma di medico specilista (Szakorvos) | Département fédéral de l’intérieur et Fédération des médecins suisses (Szövetségi Belügyminisztérium) Eidgenössisches Departement des Innern und Verbindung der Schweizer Ärztinnen und Ärzte Dipartimento federale dell’interno e Federazione dei medici svizzeri |
+| 27. | Románia/România | Certificat de medic specialist | Ministerul Sănătăţii | 2007.1.1. |
 
-| Egyesült Királyság | Certificate of completion of training (Bizonyítvány képzés teljesítéséről) | Postgraduate Medical Education and Training Board (Posztgraduális Orvosi Oktatási és Képzési Tanács) General Medical Council (2010. április 1-től) |
+| 28. | Spanyolország/España | Título de Especialista | Ministerio de Educación y Cultura | 1986.1.1. |
 
-## (1) 2013. januártól.
+| 29. | Svédország/Sverige | Bevis om specialkompetens som läkare, utfärdat av Socialstyrelsen | Socialstyrelsen | 1994.1.1. |
 
-## C) Az egyes szakorvosi szakképesítések megnevezései Magyarországon, valamint az egyes tagállamokban:
+| 30. | Svájc/Schweizerische Eidgenossenschaft/ Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Diplőme de médecin spécialiste (Szakorvos) Diplom als Facharzt (Szakorvos) Diploma di medico specilista (Szakorvos) | Département fédéral de l’intérieur et Fédération des médecins suisses (Szövetségi Belügyminisztérium) Eidgenössisches Departement des Innern und Verbindung der Schweizer Ärztinnen und Ärzte Dipartimento federale dell’interno e Federazione dei medici svizzeri | 2002.6.1. |
 
-|  |  | A | B |
+| 31. | Szlovénia/Slovenija | Potrdilo o opravljenem specialističnem izpitu | 1. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije | 2004.5.1. |
 
-|  |  | Ország | Megnevezés |
+| 32. | Szlovákia/Slovensko | Diplom o špecializácii | 1. Slovenská zdravotnícka univerzita 2. Univerzita Komenského v Bratislave 3. Univerzita Pavla Jozefa Šafárika v Košiciach | 2004.5.1. |
 
-|  | 1. | Allergológia A képzés legrövidebb időtartama: 3 év |
+|  | (1) 2013. januártól. |
 
-|  | 2. | Belgium | – |
+## C) A szakorvosi képzések megnevezései
 
-|  | 3. | Bulgária | Клинична алергология |
+## 1. Aneszteziológia és általános sebészet
 
-|  | 4. | Cseh Köztársaság | Alergologie a klinická imunologie |
+|  | A. | B. | C. |
 
-|  | 5. | Dánia | – |
+|  |  | Aneszteziológia | Általános sebészet |
 
-|  | 6. | Németország | – |
+|  |  | Minimális képzési idő: 3 év | Minimális képzési idő: 5 év |
 
-|  | 7. | Észtország | – |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  | 8. | Görögország | Aλλεργιολογία |
+| 1. | Ausztria/Österreich | Anästhesiologie und Intensivmedizin | - Chirurgie - Allgemeinchirurgie und Viszeralchirur-gie (1) |
 
-|  | 9. | Spanyolország | Alergología |
+| 2. | Belgium/ België/Belgique/ Belgien | Anesthésie-réanimation/Anesthesie- reani-matie | Chirurgie/Heelkunde |
 
-|  | 10. | Franciaország | – |
+| 3. | Bulgária/България | Анестезиология и интензивно лечение | Хирургия |
 
-|  | 11. | Horvátország | Alergologija i klinička imunologija |
+| 4. | Ciprus/Κύπρος | Αναισθησιολογία | Γενική Χειρουργική |
 
-|  | 12. | Írország | – |
+| 5. | Cseh Köztársaság/ Česká Republika | Anesteziologie a intenzivní medicína | Chirurgie |
 
-|  | 13. | Izland | Ofnæmislaekningar |
+| 6. | Dánia/ Danmark | Anæstesiologi | Kirurgi |
 
-|  | 14. | Olaszország | Allergologia ed immunologia clinica |
+| 7. | Egyesült Királyság/United Kingdom | Anaesthetics | General surgery |
 
-|  | 15. | Ciprus | Aλλεργιολογία |
+| 8. | Észtország/Eesti | Anestesioloogia | Üldkirurgia |
 
-|  | 16. | Lettország | Alergoloģija |
+| 9. | Finnország/Suomi/Finland | Anestesiologia ja tehohoito/Anestesiologi och intensivvård | Yleiskirurgia/Allmän kirurgi |
 
-|  | 17. | Liechtenstein | Allergologie und klinische Immunologie |
+| 10. | Franciaország/France | Anesthésie-réanimation | Chirurgie générale |
 
-|  | 18. | Litvánia | Alergologija ir klinikiné imunologija |
+| 11. | Görögország/Ελλάς | Αναισθησιολογία | Χειρουργική |
 
-|  | 19. | Luxemburg | – |
+| 12. | Hollandia/Nederland | Anesthesiologie | Heelkunde |
 
-|  | 20. | Magyarország | Allergológia és klinikai immunológia |
+| 13. | Horvátország/Hrvatska | Anesteziologija, reanimatologija i intenzivna medicina | Opća kirurgija |
 
-|  | 21. | Málta | – |
+| 14. | Írország/Ireland | Anaesthesia | General surgery |
 
-|  | 22. | Hollandia | Allergologie (hatályon kívül helyezve: 1996. augusztus 12.) |
+| 15. | Izland/ Ísland | Svæfinga-og gjörgæslulæknisfræði | Skurðlækningar |
 
-|  | 23. | Norvégia | – |
+| 16. | Lengyelország/Polska | Anestezjologia i intensywna terapia | Chirurgia ogólna |
 
-|  | 24. | Ausztria | – |
+| 17. | Lettország/Latvija | Anestezioloģija un reanimatoloģija | Ķirurģija |
 
-|  | 25. | Lengyelország | Alergologia |
+| 18. | Litvánia/Lietuva | Anesteziologija reanimatologija | Chirurgija |
 
-|  | 26. | Portugália | Imuno-alergologia |
+| 19. | Liechtenstein/ Fürstentum Liechtenstein | Anästhesiologie | Chirurgie |
 
-|  |  | 27. | Románia | Alergologie şi imunologie clinică |
+| 20. | Luxemburg/Luxembourg | Anesthésie-réanimation | Chirurgie générale |
 
-|  |  | 28. | Szlovénia | – |
+| 21. | Magyarország | Aneszteziológia és intenzív terápia | Sebészet |
 
-|  |  | 29. | Szlovákia | Klinická imunológia a alergológia |
+| 22. | Málta/Malta | Anesteżija u Kura Intensiva | Kirurġija Ġenerali |
 
-|  |  | 30. | Finnország | – |
+| 23. | Németország/Deutschland | Anästhesiologie | (Allgemeine) Chirurgie |
 
-|  |  | 31. | Svédország | Allergisjukdomar |
+| 24 | Norvégia/Norge | Anestesiologi | Generell kirurgi |
 
-|  |  | 32. | Svájc | Allergologie et immunologie clinique Allergologie und klinische Immunologie Allergologia e immunológia clinica |
+| 25. | Olaszország/ Italia | Anestesia, rianimazione e terapia intensiva Anestesia, rianimazione, terapia intensiva e del dolore (2) | Chirurgia generale |
 
-|  |  | 33. | Egyesült Királyság | – |
+| 26. | Portugália/Portugal | Anestesiologia | Cirurgia geral |
 
-|  |  | 35. | Aneszteziológia A képzés legrövidebb időtartama: 3 év |
+| 27. | Románia/România | Anestezie şi terapie intensivă | Chirurgie generală |
 
-|  |  | 36. | Belgium | Anesthésie-réanimation/Anesthesie- reanimatie |
+| 28. | Spanyolország/España | Anestesiología y Reanimación | Cirugía general y del aparato digestivo |
 
-|  |  | 37. | Bulgária | Анестезиология и интензивно лечение |
+| 29. | Svédország/Sverige | Anestesi och intensivvård | Kirurgi |
 
-|  |  | 38. | Cseh Köztársaság | Anesteziologie a intenzivní medicína |
+| 30. | Svájc/ Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Anesthésiologie Anästhesiologie Anestesiologia | Chirurgie Chirurgie Chirurgia |
 
-|  |  | 39. | Dánia | Anæstesiologi |
+| 31. | Szlovákia/Slovensko | Anestéziológia a intenzívna medicína | Chirurgia |
 
-|  |  | 40. | Németország | Anästhesiologie |
+| 32. | Szlovénia/Slovenija | Anesteziologija, reanimatologija in periope-rativna intenzivna medicina | Splošna kirurgija |
 
-|  |  | 41. | Észtország | Anestesioloogia |
+|  | (1) 2015. júniustól. (2) 2015. februártól. |
 
-|  |  | 42. | Görögország | Aναισθησιολογία |
+## 2. Idegsebészet és Szülészet-nőgyógyászat
 
-|  |  | 43. | Spanyolország | Anestesiología y Reanimación |
+|  | A. | B. | C. |
 
-|  |  | 44. | Franciaország | Anesthésie-Réanimation |
+|  |  | Idegsebészet | Szülészet-nőgyógyászat |
 
-|  |  | 45. | Horvátország | Anesteziologija, reanimatologija i intenziva medicina |
+|  |  | Minimális képzési idő: 5 év | Minimális képzési idő: 4 év |
 
-|  |  | 46. | Írország | Anaesthesia |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 47. | Izland | Svæfinga- og gjörgæslulæknisfræði |
+| 1. | Ausztria/Österreich | Neurochirurgie | Frauenheilkunde und Geburtshilfe |
 
-|  |  | 48. | Olaszország | Anestesia, rianimazione e terapia intensiva |
+| 2. | Belgium/ België/Belgique/ Belgien | Neurochirurgie | Gynécologie - obstétrique/Gynaecologie - verloskunde |
 
-|  |  | 49. | Ciprus | Aναισθησιολογία |
+| 3. | Bulgária/България | Неврохирургия | Акушерство и гинекология |
 
-|  |  | 50. | Lettország | Anestezioloģija un reanimatoloģija |
+| 4. | Ciprus/Κύπρος | Νευροχειρουργική | Μαιευτική – Γυναικολογία |
 
-|  |  | 51. | Liechtenstein | Anästhesiologie |
+| 5. | Cseh Köztársaság/ Česká Republika | Neurochirurgie | Gynekologie a porodnictví |
 
-|  |  | 52. | Litvánia | Anesteziologija reanimatologija |
+| 6. | Dánia/ Danmark | Neurokirurgi | Gynækologi og obstetrik |
 
-|  |  | 53. | Luxemburg | Anesthésie-réanimation |
+| 7. | Egyesült Királyság/United Kingdom | Neurosurgery | Obstetrics and gynaecology |
 
-|  |  | 54. | Magyarország | Aneszteziológia és intenzív terápia |
+| 8. | Észtország/Eesti | Neurokirurgia | Sünnitusabi ja günekoloogia |
 
-|  |  | 55. | Málta | Anesteżija u Kura Intensiva |
+| 9. | Finnország/Suomi/Finland | Neurokirurgia/Neurokirurgi | Naistentaudit ja synnytykset/Kvinnosjuk-do-mar och förlossningar |
 
-|  |  | 56. | Hollandia | Anesthesiologie |
+| 10. | Franciaország/France | Neurochirurgie | Gynécologie - obstétrique |
 
-|  |  | 57. | Norvégia | Anestesiologi |
+| 11. | Görögország/Ελλάς | Νευροχειρουργική | Μαιευτική-Γυναικολογία |
 
-|  |  | 58. | Ausztria | Anästhesiologie und Intensivmedizin |
+| 12. | Hollandia/Nederland | Neurochirurgie | Obstetrie en Gynaecologie |
 
-|  |  | 59. | Lengyelország | Anestezjologia i intensywna terapia |
+| 13. | Horvátország/Hrvatska | Neurokirurgija | Ginekologija i opstetricija |
 
-|  |  | 60. | Portugália | Anestesiologia |
+| 14. | Írország/Ireland | Neurosurgery | Obstetrics and gynaecology |
 
-|  |  | 61. | Románia | Anestezie şi terapie intensivă |
+| 15. | Izland/ Ísland | Taugaskurðlækningar | Fæðingar- og kvenlækningar |
 
-|  |  | 62. | Szlovénia | Anesteziologija, reanimatologija in perioperativna intenzivna medicina |
+| 16. | Lengyelország/Polska | Neurochirurgia | Położnictwo i ginekologia |
 
-|  |  | 63. | Szlovákia | Anestéziológia a intenzívna medicína |
+| 17. | Lettország/Latvija | Neiroķirurģija | Ginekoloģija un dzemdniecība |
 
-|  |  | 64. | Finnország | Anestesiologia ja tehohoito/ Anestesiologi och intensivvård |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Neurochirurgie | Gynäkologie und Geburtshilfe |
 
-|  |  | 65. | Svédország | Anestesi och intensivvård |
+| 19. | Litvánia/Lietuva | Neurochirurgija | Akušerija ginekologija |
 
-|  |  | 66. | Svájc | Anesthésiologie Anästhesiologie Anestesiologia |
+| 20. | Luxemburg/Luxembourg | Neurochirurgie | Gynécologie - obstétrique |
 
-|  |  | 67. | Egyesült Királyság | Anaesthetics |
+| 21. | Magyarország | Idegsebészet | Szülészet-nőgyógyászat |
 
-|  |  | 68. | Arc-, állcsont- és szájsebészet (orvosi és fogorvosi alapképzés) A képzés legrövidebb időtartama: 4 év |
+| 22. | Málta/Malta | Newrokirurġija | Ostetriċja u Ġinekoloġija |
 
-|  |  | 69. | Belgium | Stomatologie et chirurgie orale et maxillo- faciale/ Stomatologie en mond-, kaak- en aangezichtschirurgie |
+| 23. | Németország/Deutschland | Neurochirurgie | Frauenheilkunde und Geburtshilfe |
 
-|  |  | 70. | Bulgária | Дентална, орална и лицево-челюстна хирургия |
+| 24. | Norvégia/Norge | Nevrokirurgi | Fødselshjelp og kvinnesykdommer |
 
-|  |  | 71. | Cseh Köztársaság | – |
+| 25. | Olaszország/ Italia | Neurochirurgia | Ginecologia e ostetricia |
 
-|  |  | 72. | Dánia | – |
+| 26. | Portugália/Portugal | Neurocirurgia | Ginecologia e obstetricia |
 
-|  |  | 73. | Németország | Mund-, Kiefer- und Gesichtschirurgie Mund-Kiefer-Gesichtschirurgie (2006-tól) |
+| 27. | Románia/România | Neurochirurgie | Obstetrică-ginecologie |
 
-|  |  | 74. | Észtország | – |
+| 28. | Spanyolország/España | Neurocirugía | Obstetricia y ginecología |
 
-|  |  | 75. | Görögország | ΣτοματικήĤ καιĤ ΓναθοπροσωπικήĤ Χειρουργική (2014. július 10-től) |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Neurochirurgie Neurochirurgie Neurochirurgia | Gynécologie et obstétrique Gynäkologie und Geburtshilfe Ginecologia e ostetricia |
 
-|  |  | 76. | Spanyolország | – |
+| 30. | Svédország/Sverige | Neurokirurgi | Obstetrik och gynekologi |
 
-|  |  | 77. | Franciaország | – |
+| 31. | Szlovákia/Slovensko | Neurochirurgia | Gynekológia a pőrodníctvo |
 
-|  |  | 78. | Horvátország | – |
+| 32. | Szlovénia/Slovenija | Nevrokirurgija | Ginekologija in porodništvo |
 
-|  |  | 79. | Írország | Oral and maxillo-facial surgery |
+## 3. Belgyógyászat és Szemészet
 
-|  |  | 80. | Izland | – |
+|  | A | B | C |
 
-|  |  | 81. | Olaszország | – |
+|  |  | Belgyógyászat | Szemészet |
 
-|  |  | 82. | Ciprus | Σταματο-Γναθο- ροσωποχειρουργικη |
+|  |  | Minimális képzési idő: 5 év | Minimális képzési idő: 3 év |
 
-|  |  | 83. | Lettország | – |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 84. | Liechtenstein | Kiefer- und Gesichtschirurgie |
+| 1. | Ausztria/Österreich | Innere Medizin | Augenheilkunde und Optometrie |
 
-|  |  | 85. | Litvánia | – |
+| 2. | Belgium/ België/Belgique/ Belgien | Médecine interne/Inwendige geneeskunde | Ophtalmologie/Oftalmologie |
 
-|  |  | 86. | Luxemburg | Chirurgie dentaire, orale et maxillo-faciale |
+| 3. | Bulgária/България | Вътрешни болести | Очни болести |
 
-|  |  | 87. | Magyarország | Arc-állcsont-szájsebészet |
+| 4. | Ciprus/Κύπρος | Παθολογία | Οφθαλμολογία |
 
-|  |  | 88. | Málta | Kirurgija tal-ghadam tal-wicc |
+| 5. | Cseh Köztársaság/ Česká Republika | Vnitřní lékařství | Oftalmologie |
 
-|  |  | 89. | Hollandia | – |
+| 6. | Dánia/ Danmark |  | Oftalmologi |
 
-|  |  | 90. | Norvégia | Kjevekirurgi og munnhulesykdommer |
+| 7. | Egyesült Királyság/United Kingdom | General (internal) medicine | Ophthalmology |
 
-|  |  | 91. | Ausztria | Mund-, Kiefer- und Gesichtschirurgie |
+| 8. | Észtország/Eesti | Sisehaigused | Oftalmoloogia |
 
-|  |  | 92. | Lengyelország | – |
+| 9. | Finnország/Suomi/Finland | Sisätaudit/Inre medicin | Silmätaudit/Ögonsjukdomar |
 
-|  |  | 93. | Portugália | – |
+| 10. | Franciaország/France | Médecine interne | Ophtalmologie |
 
-|  |  | 94. | Románia | – |
+| 11. | Görögország/Ελλάς | Παθολογία | Οφθαλμολογία |
 
-|  |  | 95. | Szlovénia | – |
+| 12. | Hollandia/Nederland | Interne geneeskunde | Oogheelkunde |
 
-|  |  | 96. | Szlovákia | – |
+| 13. | Horvátország/Hrvatska | Opća interna medicina | Oftalmologija i optometrija |
 
-|  |  | 97. | Finnország | Suu- ja leukakirurgia/Oral och maxillofacial kirurgi |
+| 14. | Írország/Ireland | General (Internal) Medicine | Ophthalmic surgery Ophthalmology (1) |
 
-|  |  | 98. | Svédország | – |
+| 15. | Izland/ Ísland | Lyflækningar | Augnlækningar |
 
-|  |  | 99. | Svájc | Mund-, Kiefer- und Gesichtschirurgie Chirurgie orale et maxillo-faciale Chirurgia oro-maxillo-facciale |
+| 16. | Lengyelország/Polska | Choroby wewnętrzne | Okulistyka |
 
-|  |  | 100. | Egyesült Királyság | Oral and maxillo-facial surgery |
+| 17. | Lettország/Latvija | Internā medicīna | Oftalmoloģija |
 
-|  |  | 101. | Arc- és állkapocs-sebészet (orvosi alapképzés) A képzés legrövidebb időtartama: 5 év |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Innere Medizin | Augenheilkunde |
 
-|  |  | 102. | Belgium | – |
+| 19. | Litvánia/Lietuva | Vidaus ligos | Oftalmologija |
 
-|  |  | 103. | Bulgária | Лицево-челюстна хирургия |
+| 20. | Luxemburg/Luxembourg | Médecine interne | Ophtalmologie |
 
-|  |  | 104. | Cseh Köztársaság | Maxilofaciální chirurgie |
+| 21. | Magyarország | Belgyógyászat | Szemészet |
 
-|  |  | 105. | Dánia | – |
+| 22. | Málta/Malta | Mediċina Interna | Oftalmoloġija |
 
-|  |  | 106. | Németország | – |
+| 23. | Németország/Deutschland | Innere Medizin | Augenheilkunde |
 
-|  |  | 107. | Észtország | – |
+| 24. | Norvégia/Norge | Indremedisin | Øyesykdommer |
 
-|  |  | 108. | Görögország | – |
+| 25. | Olaszország/ Italia | Medicina interna | Oftalmologia |
 
-|  |  | 109. | Spanyolország | Cirugía oral y maxilofacial |
+| 26. | Portugália/Portugal | Medicina interna | Oftalmologia |
 
-|  |  | 110. | Franciaország | Chirurgie maxillo-faciale et stomatologie |
+| 27. | Románia/România | Medicină internă | Oftalmologie |
 
-|  |  | 111. | Horvátország | Maksilofacijalna kirurgija |
+| 28. | Spanyolország/España | Medicina interna | Oftalmología |
 
-|  |  | 112. | Írország | – |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Médecine interne Innere Medizin Medicina interna | Ophtalmologie Ophthalmologie Oftalmologia |
 
-|  |  | 113. | Izland | – |
+| 30. | Svédország/Sverige | Internmedicin | Ögonsjukdomar (oftalmologi) |
 
-|  |  | 114. | Olaszország | Chirurgia maxillo-facciale |
+| 31. | Szlovákia/Slovensko | Vnútorné lekárstvo | Oftalmológia |
 
-|  |  | 115. | Ciprus | – |
+| 32. | Szlovénia/Slovenija | Interna medicina | Oftalmologija |
 
-|  |  | 116. | Lettország | Mutes, sejas un žokļu ķirurģija |
+|  | (1) 1991/1992-től. |
 
-|  |  | 117. | Liechtenstein | – |
+## 4. Fül-orr-gégegyógyászat és Csecsemő-és gyermekgyógyászat
 
-|  |  | 118. | Litvánia | Veido ir žandikaulių chirurgija |
+|  | A. | B. | C. |
 
-|  |  | 119. | Luxemburg | Chirurgie maxillo-faciale |
+|  |  | Fül-orr-gégegyógyászat | Csecsemő- és gyermekgyógyászat |
 
-|  |  | 120. | Magyarország | Szájsebészet (hatályon kívül helyezve: 2007. szeptember 30.) |
+|  |  | Minimális képzési idő: 3 év | Minimális képzési idő: 4 év |
 
-|  |  | 121. | Málta | – |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 122. | Hollandia | – |
+| 1. | Ausztria/Österreich | - Hals-, Nasen- und Ohrenkrankheiten - Hals-, Nasen- und Ohrenheilkunde (1) | Kinder- und Jugendheilkunde |
 
-|  |  | 123. | Norvégia | – |
+| 2. | Belgium/ België/Belgique/ Belgien | Oto-rhino-laryngologie/Otorhinolaryngolo-gie | Pédiatrie/Pediatrie |
 
-|  |  | 124. | Ausztria | Mund-, Kiefer- und Gesichtschirurgie (2013. február 28-ig) |
+| 3. | Bulgária/България | Ушно-носно-гърлени болести | Педиатрия |
 
-|  |  | 125. | Lengyelország | Chirurgia szczękowo-twarzowa |
+| 4. | Ciprus/Κύπρος | Ωτορινολαρυγγολογία | Παιδιατρική |
 
-|  |  | 126. | Portugália | Cirurgia maxilo-facial |
+| 5. | Cseh Köztársaság/ Česká Republika | Otorinolaryngologie | Dĕtské lékařství |
 
-|  |  | 127. | Románia | – |
+| 6. | Dánia/ Danmark | Oto-rhino-laryngologi | Pædiatri |
 
-|  |  | 128. | Szlovénia | Maksilofacialna kirurgija |
+| 7. | Egyesült Királyság/United Kingdom | Otolaryngology | Paediatrics |
 
-|  |  | 129. | Szlovákia | Maxilofaciálna chirurgia |
+| 8. | Észtország/Eesti | Otorinolarüngoloogia | Pediaatria |
 
-|  |  | 130. | Finnország | – |
+| 9. | Finnország/Suomi/Finland | Korva-, nenä- ja kurkkutaudit/Öron-, näs-och halssjukdomar | Lastentaudit/Barnsjukdomar |
 
-|  |  | 131. | Svédország | – |
+| 10. | Franciaország/France | Oto-rhino-laryngologie et chirurgie cervico-faciale | Pédiatrie |
 
-|  |  | 132. | Svájc | – |
+| 11. | Görögország/Ελλάς | Ωτορινολαρυγγολογία | Παιδιατρική |
 
-|  |  | 133. | Egyesült Királyság | – |
+| 12. | Hollandia/Nederland | Keel-, neus- en oorheelkunde | Kindergeneeskunde |
 
-|  |  | 134. | Általános haematológia A képzés legrövidebb időtartama: 3 év |
+| 13. | Horvátország/Hrvatska | Otorinolaringologija | Pedijatrija |
 
-|  |  | 135. | Belgium | – |
+| 14. | Írország/Ireland | Otolaryngology | Paediatrics |
 
-|  |  | 136. | Bulgária | Клинична хематология |
+| 15. | Izland/ Ísland | Háls-, nef- og eyrnalækningar | Barnalækningar |
 
-|  |  | 137. | Cseh Köztársaság | Hematologie a transfúzní lékařství |
+| 16. | Lengyelország/Polska | Otorynolaryngologia | Pediatria |
 
-|  |  | 138. | Dánia | Intern mecicin: hæmatologi |
+| 17. | Lettország/Latvija | Otolaringoloģija | Pediatrija |
 
-|  |  | 139. | Németország | Innere Medizin und Schwerpunkt Hämatologie und Onkologie/ Innere Medizin und Hamatologie und Onkologie (2009. októbertől) |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Hals-, Nasen- und Ohrenkrankheiten | Kinderheilkunde |
 
-|  |  | 140. | Észtország | Hematoloogia |
+| 19. | Litvánia/Lietuva | Otorinolaringologija | Vaikų ligos |
 
-|  |  | 141. | Görögország | Aιματολογία |
+| 20. | Luxemburg/Luxembourg | Oto-rhino-laryngologie | Pédiatrie |
 
-|  |  | 142. | Spanyolország | Hematología y hemoterapia |
+| 21. | Magyarország | Fül-orr-gégegyógyászat | Csecsemő- és gyermekgyógyászat |
 
-|  |  | 143. | Franciaország | – |
+| 22. | Málta/Malta | Otorinolaringoloġija | Pedjatrija |
 
-|  |  | 144. | Horvátország | Hematologija |
+| 23. | Németország/Deutschland | Hals-Nasen-Ohrenheilkunde | Kinder- und Jugendmedizin |
 
-|  |  | 145. | Írország | Haematology (clinical and laboratory) |
+| 24. | Norvégia/Norge | Øre-nese-halssykdommer | Barnesykdommer |
 
-|  |  | 146. | Izland | Blóðmeinafræði |
+| 25. | Olaszország/ Italia | Otorinolaringoiatria | Pediatria |
 
-|  |  | 147. | Olaszország | Ematologia |
+| 26. | Portugália/Portugal | Otorrinolaringologia | Pediatria |
 
-|  |  | 148. | Ciprus | Aιματολογία |
+| 27. | Románia/România | Otorinolaringologie | Pediatrie |
 
-|  |  | 149. | Lettország | Hematoloģija |
+| 28. | Spanyolország/España | Otorrinolaringología | Pediatría y sus áreas especificas |
 
-|  |  | 150. | Liechtenstein | Hämatologie |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Oto-rhino-laryngologie Oto-Rhino-Laryngologie Otorinolaringoiatria | Pédiatrie Kinder- und Jugendmedizin Pediatria |
 
-|  |  | 151. | Litvánia | Hematologija |
+| 30. | Svédország/Sverige | Öron-, näs- och halssjukdomar (oto-rhino-laryngologi) | Barn- och ungdomsmedicin |
 
-|  |  | 152. | Luxemburg | Hématologie |
+| 31. | Szlovákia/Slovensko | Otorinolaryngológia | Pediatria |
 
-|  |  | 153. | Magyarország | Hematológia |
+| 32. | Szlovénia/Slovenija | Otorinolaringológija | Pediatrija |
 
-|  |  | 154. | Málta | Ematologija |
+|  | (1) 2015. júniustól. |
 
-|  |  | 155. | Hollandia | – |
+## 5. Tüdőgyógyászat és Urológia
 
-|  |  | 156. | Norvégia | Blodsykdommer |
+|  | A. | B. | C. |
 
-|  |  | 157. | Ausztria | – |
+|  |  | Tüdőgyógyászat | Urológia |
 
-|  |  | 158. | Lengyelország | Hematologia |
+|  |  | Minimális képzési idő: 4 év | Minimális képzési idő: 5 év |
 
-|  |  | 159. | Portugália | Imuno-hemoterapia |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 160. | Románia | Hematologie |
+| 1. | Ausztria/Österreich | - Lungenkrankheiten - Innere Medizin und Pneumologie (2) | Urologie |
 
-|  |  | 161. | Szlovénia | Innere Medizin und Hamatologie und internistische Onkologie |
+| 2. | Belgium/ België/Belgique/ Belgien | Pneumologie | Urologie |
 
-|  |  | 162. | Szlovákia | Hematológia a transfúziológia |
+| 3. | Bulgária/България | Пневмология и фтизиатрия | Урология |
 
-|  |  | 163. | Finnország | Kliininen hematologia / Klinisk hematologi |
+| 4. | Ciprus/Κύπρος | Πνευμονολογία – Φυματιολογία | Ουρολογία |
 
-|  |  | 164. | Svédország | Hematologi |
+| 5. | Cseh Köztársaság/ Česká Republika | Pneumologie a ftizeologie | Urologie |
 
-|  |  | 165. | Svájc | Hématologie Hämatologie Ematologia |
+| 6. | Dánia/ Danmark | Intern medicin: lungesygdomme | Urologi |
 
-|  |  | 166. | Egyesült Királyság | Haematology |
+| 7. | Egyesült Királyság/United Kingdom | Respiratory medicine | Urology |
 
-|  |  | 167. | Baleseti és sürgősségi orvostan A képzés legrövidebb időtartama: 5 év |
+| 8. | Észtország/Eesti | Pulmonoloogia | Uroloogia |
 
-|  |  | 168. | Belgium | – |
+| 9. | Finnország/Suomi/Finland | Keuhkosairaudet ja allergologia/Lungsjuk-domar och allergologi | Urologia/Urologi |
 
-|  |  | 169. | Bulgária | Спешна медицина |
+| 10. | Franciaország/France | Pneumologie | Chirurgie urologique |
 
-|  |  | 170. | Cseh Köztársaság | – Traumatologie – Urgentní medicína |
+| 11. | Görögország/Ελλάς | Φυματιολογία- Πνευμοvολογία | Ουρολογία |
 
-|  |  | 171. | Dánia | – |
+| 12. | Hollandia/Nederland | Longziekten en tuberculose | Urologie |
 
-|  |  | 172. | Németország | – |
+| 13. | Horvátország/Hrvatska | Pulmologija | Urologija |
 
-|  |  | 173. | Észtország | – |
+| 14. | Írország/Ireland | Respiratory medicine | Urology |
 
-|  |  | 174. | Görögország | – |
+| 15. | Izland/ Ísland | Lungnalækningar | Þvagfæraskurðlækningar |
 
-|  |  | 175. | Spanyolország | – |
+| 16. | Lengyelország/Polska | Choroby płuc | Urologia |
 
-|  |  | 176. | Franciaország | – |
+| 17. | Lettország/Latvija | Ftiziopneimonoloģija | Uroloģija |
 
-|  |  | 177. | Horvátország | Hitna medicina |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Pneumologie | Urologie |
 
-|  |  | 178. | Írország | Emergency medicine |
+| 19. | Litvánia/Lietuva | Pulmonologija | Urologija |
 
-|  |  | 179. | Izland | – |
+| 20. | Luxemburg/Luxembourg | Pneumologie | Urologie |
 
-|  |  | 180. | Olaszország | Medicina d’emergenza-urgenza (2006. február 17-től) |
+| 21. | Magyarország | Tüdőgyógyászat | Urológia |
 
-|  |  | 181. | Ciprus | – |
+| 22. | Málta/Malta | Mediċina Respiratorja | Uroloġija |
 
-|  |  | 182. | Lettország | – |
+| 23. | Németország/Deutschland | - Pneumologie - Innere Medizin und Pneumologie (1) | Urologie |
 
-|  |  | 183. | Liechtenstein | – |
+| 24. | Norvégia/Norge | Lungesykdommer | Urologi |
 
-|  |  | 184. | Litvánia | – |
+| 25. | Olaszország/ Italia | Malattie dell’apparato respiratorio | Urologia |
 
-|  |  | 185. | Luxemburg | – |
+| 26. | Portugália/Portugal | Pneumologia | Urologia |
 
-|  |  | 186. | Magyarország | Oxyológia és sürgősségi orvostan |
+| 27. | Románia/România | Pneumologie | Urologie |
 
-|  |  | 187. | Málta | Medicina tal-Accidenti u 1-Emergenza |
+| 28. | Spanyolország/España | Neumología | Urología |
 
-|  |  | 188. | Hollandia | – |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Pneumologie Pneumologie Pneumologia | Urologie Urologie Urologia |
 
-|  |  | 189. | Norvégia | – |
+| 30. | Svédország/Sverige | Lungsjukdomar (pneumologi) | Urologi |
 
-|  |  | 190. | Ausztria | – |
+| 31. | Szlovákia/Slovensko | Pneumológia a ftizeológia | Urológia |
 
-|  |  | 191. | Lengyelország | Medycyna ratunkowa |
+| 32. | Szlovénia/Slovenija | Pnevmologija | Urologija |
 
-|  |  | 192. | Portugália | – |
+|  | (1) 2011. júliustól. (2) 2015. júniustól. |
 
-|  |  | 193. | Románia | Medicină de urgenţă |
+## 6. Ortopédia és Patológia
 
-|  |  | 194. | Szlovénia | – |
+|  | A. | B. | C. |
 
-|  |  | 195. | Szlovákia | Úrazová chirurgia/ Urgentná medicina |
+|  |  | Ortopédia | Patológia |
 
-|  |  | 196. | Finnország | Akuuttilaaketiede/ Akutmedicin |
+|  |  | Minimális képzési idő: 5 év | Minimális képzési idő: 4 év |
 
-|  |  | 197. | Svédország | – |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 198. | Svájc | – |
+| 1. | Ausztria/Österreich | - Orthopädie und Orthopädische Chirurgie - Orthopädie und Traumatologie (2) | - Pathologie - Klinische Pathologie und Molekularpathologie (2) - Klinische Pathologie und Neuropathologie |
 
-|  |  | 199. | Egyesült Királyság | Emergency medicine |
+| 2. | Belgium/ België/Belgique/ Belgien | Chirurgie orthopédique/Orthopedische heelkunde | Anatomie pathologique/Pathologische anatomie |
 
-|  |  | 200. | Belgyógyászat A képzés legrövidebb időtartama: 5 év |
+| 3. | Bulgária/България | Ортопедия и травматология | Обща и клинична патология |
 
-|  |  | 201. | Belgium | Médecine interne/Inwendige geneeskunde |
+| 4. | Ciprus/Κύπρος | Ορθοπεδική | Παθολογοανατομία – Ιστολογία |
 
-|  |  | 202. | Bulgária | Вътрешни болести |
+| 5. | Cseh Köztársaság/ Česká Republika | Ortopedie | Patologie |
 
-|  |  | 203. | Cseh Köztársaság | Vnitřní lékařství |
+| 6. | Dánia/ Danmark | Ortopædisk kirurgi | Patologisk anatomi og cytology |
 
-|  |  | 204. | Dánia | – |
+| 7. | Egyesült Királyság/United Kingdom | Trauma and orthopaedic surgery | Histopathology |
 
-|  |  | 205. | Németország | Innere Medizin |
+| 8. | Észtország/Eesti | Ortopeedia | Patoloogia |
 
-|  |  | 206. | Észtország | Sisehaigused |
+| 9. | Finnország/Suomi/Finland | Ortopedia ja traumatologia/Ortopedi och traumatologi | Patologia/Patologi |
 
-|  |  | 207. | Görögország | Пαθολογία |
+| 10. | Franciaország/France | Chirurgie orthopédique et traumatologie | Anatomie et cytologie pathologiques |
 
-|  |  | 208. | Spanyolország | Medicina interna |
+| 11. | Görögország/Ελλάς | Ορθοπεδική | Παθολογική Ανατομική |
 
-|  |  | 209. | Franciaország | Médecine interne |
+| 12. | Hollandia/Nederland | Orthopedie | Pathologie |
 
-|  |  | 210. | Horvátország | Opća interna medicina |
+| 13. | Horvátország/Hrvatska | Ortopedija i traumatologija | Patologija Patologija i citologija (3) |
 
-|  |  | 211. | Írország | General (Internal) medicine |
+| 14. | Írország/Ireland | Trauma and orthopaedic surgery | Histopathology |
 
-|  |  | 212. | Izland | Lyflækningar |
+| 15. | Izland/ Ísland | Bæklunarskurðlaekningar | Vefjameinafræði |
 
-|  |  | 213. | Olaszország | Medicina interna |
+| 16. | Lengyelország/Polska | Ortopedia i traumatologia narządu ruchu | Patomorfologia |
 
-|  |  | 214. | Ciprus | Пαθολογία |
+| 17. | Lettország/Latvija | Traumatoloģija un ortopēdija | Patoloģija |
 
-|  |  | 215. | Lettország | Internā medicīna |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Orthopädische Chirurgie | Pathologie |
 
-|  |  | 216. | Liechtenstein | Innere Medizin |
+| 19. | Litvánia/Lietuva | Ortopedija traumatologija | Patologija |
 
-|  |  | 217. | Litvánia | Vidaus ligos |
+| 20. | Luxemburg/Luxembourg | Orthopédie | Anatomie pathologique |
 
-|  |  | 218. | Luxemburg | Médecine interne |
+| 21. | Magyarország | Ortopédia és traumatológia | Patológia |
 
-|  |  | 219. | Magyarország | Belgyógyászat |
+| 22. | Málta/Malta | Kirurġija Ortopedika | Istopatoloġija |
 
-|  |  | 220. | Málta | Medicina Interna |
+| 23. | Németország/Deutschland | - Orthopädie (und Unfallchirurgie) - Orthopädie und Unfallchirurgie (1) | Pathologie |
 
-|  |  | 221. | Hollandia | Interne geneeskunde |
+| 24. | Norvégia/Norge | Ortopedisk kirurgi | Patologi |
 
-|  |  | 222. | Norvégia | Indremedisin |
+| 25. | Olaszország/Italia | Ortopedia e traumatologia | Anatomia patologica |
 
-|  |  | 223. | Ausztria | Innere Medizin |
+| 26. | Portugália/Portugal | Ortopedia | Anatomia patologica |
 
-|  |  | 224. | Lengyelország | Choroby wewnetrzne |
+| 27. | Románia/România | Ortopedie şi traumatologie | Anatomie patologică |
 
-|  |  | 225. | Portugália | Medicina interna |
+| 28. | Spanyolország/España | Cirugía ortopédica y traumatología | Anatomía patológica |
 
-|  |  | 226. | Románia | Medicină internă |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Chirurgie orthopédique et traumatologie de l’appareil locomoteur Orthopädische Chirurgie und Traumatologie des Bewegungsapparates Chirurgia ortopedica e traumatologia del sistema motorio | Pathologie Pathologie Patologia |
 
-|  |  | 227. | Szlovénia | Interna medicina |
+| 30. | Svédország/Sverige | Ortopedi | Klinisk patologi |
 
-|  |  | 228. | Szlovákia | Vnútorné lekárstvo |
+| 31. | Szlovákia/Slovensko | Ortopédia | Patologická anatómia |
 
-|  |  | 229. | Finnország | Sisätaudit/Inre medicin |
+| 32. | Szlovénia/Slovenija | - Ortopedska kirurgija; Travmatologija | Patologija |
 
-|  |  | 230. | Svédország | Internmedicin |
+|  | (1) 2006. májustól. (2) 2015. júniustól. (3) 2015. november 3-tól. |
 
-|  |  | 231. | Svájc | Médecine interne Innere Medizin Medicina interna |
+## 7. Neurológia és Pszichiátria
 
-|  |  | 232. | Egyesült Királyság | General (internal) medicine |
+|  | A. | B. | C. |
 
-|  |  | 233. | Bőr- és nemibeteg-gyógyászat A képzés legrövidebb időtartama: 3 év |
+|  |  | Neurológia | Pszichiátria |
 
-|  |  | 234. | Belgium | Dermato-vénéréologie/Dermato-venereologie |
+|  |  | Minimális képzési idő: 4 év | Minimális képzési idő: 4 év |
 
-|  |  | 235. | Bulgária | Кожни и венерически болести |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 236. | Cseh Köztársaság | Dermatovenerologie |
+| 1. | Ausztria/Österreich | Neurologie | Psychiatrie und Psychotherapeutische Medizin |
 
-|  |  | 237. | Dánia | Dermato-venerologi |
+| 2. | Belgium/ België/Belgique/ Belgien | Neurologie | Psychiatrie, particulièrement de l’adulte/ Psychiatrie, meer bepaald in de volwas-senpsychiatrie |
 
-|  |  | 238. | Németország | Haut- und Geschlechtskrankheiten |
+| 3. | Bulgária/България | Нервни болести | Психиатрия |
 
-|  |  | 239. | Észtország | Dermatoveneroloogia |
+| 4. | Ciprus/Κύπρος | Νευρολογία | Ψυχιατρική |
 
-|  |  | 240. | Görögország | Δερματολογία – Aψροδισιολογία |
+| 5. | Cseh Köztársaság/ Česká Republika | Neurologie | Psychiatrie |
 
-|  |  | 241. | Spanyolország | Dermatología médico-quirúrgica y venereología |
+| 6. | Dánia/ Danmark | Neurologi | Psykiatri |
 
-|  |  | 242. | Franciaország | Dermatologie et vénéréologie |
+| 8. | Egyesült Királyság/United Kingdom | Neurology | General psychiatry |
 
-|  |  | 243. | Horvátország | Dermatologija i venerologija |
+| 9. | Észtország/Eesti | Neuroloogia | Psühhiaatria |
 
-|  |  | 244. | Irország | – |
+| 10. | Finnország/Suomi/Finland | Neurologia/Neurologi | Psykiatria/Psykiatri |
 
-|  |  | 245. | Izland | Húð- og kynsjúkdómalaekningar |
+| 11. | Franciaország/France | Neurologie | Psychiatrie |
 
-|  |  | 246. | Olaszország | Dermatologia e venerologia |
+| 12. | Görögország/Ελλάς | Νευρολογία | Ψυχιατρική |
 
-|  |  | 247. | Ciprus | Δερματολογία – Aψροδισιολογία |
+| 13. | Hollandia/Nederland | Neurologie | Psychiatrie |
 
-|  |  | 248. | Lettország | Dermatoloģija un veneroloģija |
+| 14. | Horvátország/Hrvatska | Neurologija | Psihijatrija |
 
-|  |  | 249. | Liechtenstein | Dermatologie und Venereologie |
+| 15. | Írország/Ireland | Neurology | Psychiatry |
 
-|  |  | 250. | Litvánia | Dermatovenerologija |
+| 16. | Izland/ Ísland | Taugalækningar | Geðlækningar |
 
-|  |  | 251. | Luxemburg | Dermato-vénéréologie |
+| 17. | Lengyelország/Polska | Neurologia | Psychiatria |
 
-|  |  | 252. | Magyarország | Bőrgyógyászat |
+| 18. | Lettország/Latvija | Neiroloģija | Psihiatrija |
 
-|  |  | 253. | Málta | Dermato-venerejologija |
+| 19. | Liechtenstein/ Fürstentum Liechtenstein | Neurologie | Psychiatrie und Psychotherapie |
 
-|  |  | 254. | Hollandia | Dermatologie en venerologie |
+| 20 | Litvánia/Lietuva | Neurologija | Psichiatrija |
 
-|  |  | 255. | Norvégia | Hudsykdommer og veneriske sykdommer |
+| 21. | Luxemburg/Luxembourg | Neurologie | Psychiatrie |
 
-|  |  | 256. | Ausztria | Haut- und Geschlechtskrankheiten |
+| 20. | Magyarország | Neurológia | Pszichiátria |
 
-|  |  | 257. | Lengyelország | Dermatológia i wenerologia |
+| 22. | Málta/Malta | Newroloġija | Psikjatrija |
 
-|  |  | 258. | Portugália | Dermatovenereologia |
+| 23. | Németország/Deutschland | Neurologie | Psychiatrie und Psychotherapie |
 
-|  |  | 259. | Románia | Dermatovenerologie |
+| 24. | Norvégia/Norge | Nevrologi | Psykiatri |
 
-|  |  | 260. | Szlovénia | Dermatovenerologija |
+| 25. | Olaszország/Italia | Neurologia | Psichiatria |
 
-|  |  | 261. | Szlovákia | Dermatovenerológia |
+| 26. | Portugália/Portugal | Neurologia | Psiquiatria |
 
-|  |  | 262. | Finnország | Ihotaudit ja allergologia/ Hudsjukdomar och allergologi |
+| 27. | Románia/România | Neurologie | Psihiatrie |
 
-|  |  | 263. | Svédország | Hud- och könssjukdomar |
+| 28. | Spanyolország/España | Neurología | Psiquiatría |
 
-|  |  | 264. | Svájc | Dermatologie et vénéréologie Dermatologie und Venerologie Dermatologia e venerologia |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Neurologie Neurologie Neurologia | Psychiatrie et psychothérapie Psychiatrie und Psychotherapie Psichiatria e psicoterapia |
 
-|  |  | 265. | Egyesült Királyság | – |
+| 30. | Svédország/Sverige | Neurologi | Psykiatri |
 
-|  |  | 266. | Csecsemő- és gyermekgyógyászat A képzés legrövidebb időtartama: 4 év |
+| 31. | Szlovákia/Slovensko | Neurológia | Psychiatria |
 
-|  |  | 267. | Belgium | Pédiatrie/Pediatrie |
+| 32. | Szlovénia/Slovenija | Nevrologija | Psihiatrija |
 
-|  |  | 268. | Bulgária | Педиатрия |
+## 8. Radiológia és Sugárterápia
 
-|  |  | 269. | Cseh Köztársaság | Detské lékařství |
+|  | A. | B. | C. |
 
-|  |  | 270. | Dánia | Pædiatri |
+|  |  | Radiológia | Sugárterápia |
 
-|  |  | 271. | Németország | Kinderб кха Ткжехапеасщсх |
+|  |  | Minimális képzési idő: 4 év | Minimális képzési idő: 4 év |
 
-|  |  | 272. | Észtország | Pediaatria |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 273. | Görögország | Пαιδιατρικη |
+| 1. | Ausztria/Österreich | Radiologie | Strahlentherapie-Radioonkologie |
 
-|  |  | 274. | Spanyolország | Pediatria y sus áreas especificas |
+| 2. | Belgium/ België/Belgique/ Belgien | Radiodiagnostic/Röntgendiagnose | Radiothérapie-oncologie/ Radiotherapie-oncologie |
 
-|  |  | 275. | Franciaország | Pédiatrie |
+| 3. | Bulgária/България | Образна диагностика | Лъчелечение |
 
-|  |  | 276. | Horvátország | Pedijatrija |
+| 4. | Ciprus/Κύπρος | Ακτινολογία | Ακτινοθεραπευτική Ογκολογία |
 
-|  |  | 277. | Írország | Paediatrics |
+| 5. | Cseh Köztársaság/ Česká Republika | Radiologie a zobrazovací metody | Radiační onkologie |
 
-|  |  | 278. | Izland | Barnalækningar |
+| 6. | Dánia/ Danmark | Radiologi | Klinisk Onkologi |
 
-|  |  | 279. | Olaszország | Pédiatria |
+| 7. | Egyesült Királyság/United Kingdom | Clinical radiology | Clinical oncology |
 
-|  |  | 280. | Ciprus | Пαιδιατρικη |
+| 8. | Észtország/Eesti | Radioloogia | Onkoloogia |
 
-|  |  | 281. | Lettország | Pediatrija |
+| 9. | Finnország/Suomi/Finland | Radiologia/Radiologi | Syöpätaudit/Cancersjukdomar |
 
-|  |  | 282. | Liechtenstein | Kinderheilkunde |
+| 10. | Franciaország/France | Radiodiagnostic et imagerie médicale | Oncologie option oncologie radiothérapique |
 
-|  |  | 283. | Litvánia | Vaikų ligos |
+| 11. | Görögország/Ελλάς | Ακτινοδιαγνωστική | Ακτινοθεραπευτική – Ογκολογία |
 
-|  |  | 284. | Luxemburg | Pédiatrie |
+| 12. | Hollandia/Nederland | Radiologie | Radiotherapie |
 
-|  |  | 285. | Magyarország | Csecsemő- és gyermekgyógyászat |
+| 13. | Horvátország/Hrvatska | Klinička radiologija | Onkologija i radioterapija |
 
-|  |  | 286. | Málta | Pedjatrija |
+| 14. | Írország/Ireland | Radiology | Radiation oncology |
 
-|  |  | 287. | Hollandia | Kindergeneeskunde |
+| 15. | Izland/ Ísland | Geislalækningar | - |
 
-|  |  | 288. | Norvégia | Barnesykdommer |
+| 16. | Lengyelország/Polska | Radiologia i diagnostyka obrazowa | Radioterapia onkologiczna |
 
-|  |  | 289. | Ausztria | Kinder- und Jugendheilkunde |
+| 17. | Lettország/Latvija | Diagnostiskā radioloģija | Terapeitiskā radioloģija |
 
-|  |  | 290. | Lengyelország | Pediatria |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | - | Medizinische Radiologie/Radio Onkologie |
 
-|  |  | 291. | Portugália | Pediatria |
+| 19. | Litvánia/Lietuva | Radiologija | Onkologija radioterapija |
 
-|  |  | 292. | Románia | Pediatrie |
+| 20. | Luxemburg/Luxembourg | Radiodiagnostic | Radiothérapie |
 
-|  |  | 293. | Szlovénia | Pediatrija |
+| 21. | Magyarország | Radiológia | Sugárterápia |
 
-|  |  | 294. | Szlovákia | Pediatria |
+| 22. | Málta/Malta | Radjoloġija | Onkoloġija u Radjoterapija |
 
-|  |  | 295. | Finnország | Lastentaudit / Barnsjukdomar |
+| 23. | Németország/Deutschland | (Diagnostische) Radiologie | Strahlentherapie |
 
-|  |  | 296. | Svédország | Barn- och ungdomsmedicin |
+| 24. | Norvégia/Norge | - | - |
 
-|  |  | 297. | Svájc | Pédiatrie Kinder- und Jugendmedizin Pediatria |
+| 25. | Olaszország/Italia | Radiodiagnostica | Radioterapia |
 
-|  |  | 298. | Egyesült Királyság | Paediatrics |
+| 26. | Portugália/Portugal | Radiodiagnóstico | Radioterapia Radioncologia |
 
-|  |  | 299. | Diagnosztikai radiológia A képzés legrövidebb időtartama: 4 év |
+| 27. | Románia/România | Radiologie-imagistică medicală | Radioterapie |
 
-|  |  | 300. | Belgium | Radiodiagnostic / Röntgendiagnose |
+| 28. | Spanyolország/España | Radiodiagnóstico | Oncología radioterápica |
 
-|  |  | 301. | Bulgária | Образна диагностика |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | - | Radio-oncologie/radiothérapie Radio-Onkologie/Strahlentherapie Radio-oncologia/radioterapia |
 
-|  |  | 302. | Cseh Köztársaság | Radiologie a zobrazovací metody |
+| 30. | Svédország/Sverige | Medicinsk radiologi Radiologi (2) | Tumörsjukdomar (allmän onkologi) Onkologi (1) |
 
-|  |  | 303. | Dánia | Radiologi |
+| 31. | Szlovákia/Slovensko | Rádiológia | Radiačná onkológia |
 
-|  |  | 304. | Németország | (Diagnostische) Radiologie |
+| 32. | Szlovénia/Slovenija | Radiologija | Radioterapija in onkologija |
 
-|  |  | 305. | Észtország | Radioloogia |
+|  | (1) 2008. szeptembertől. (2) 2015. májustól. |
 
-|  |  | 306. | Görögország | Aκτινοδιαγνωστικη |
+## 9. Plasztikai Sebészet és Klinikai biológia
 
-|  |  | 307. | Spanyolország | Radiodiagnóstico |
+|  | A. | B. | C. |
 
-|  |  | 308. | Franciaország | Radiodiagnostic et imagerie médicale |
+|  |  | Plasztikai sebészet | Klinikai biológia |
 
-|  |  | 309. | Horvátország | Klinička radiologija |
+|  |  | Minimális képzési idő: 5 év | Minimális képzési idő: 4 év |
 
-|  |  | 310. | Írország | Radiology |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 311. | Izland | Geislagreining |
+| 1. | Ausztria/Österreich | Plastische, Ästhetische und Rekonstruktive Chirurgie Plastische, Rekonstruktive und Ästhetische Chirurgie (3) | Medizinische Biologie |
 
-|  |  | 312. | Olaszország | Radiodiagnostica |
+| 2. | Belgium/ België/Belgique/ Belgien | Chirurgie plastique, reconstructrice et est-hétique/Plastische, reconstructieve en esthetische heelkunde | Biologie clinique/Klinische biologie |
 
-|  |  | 313. | Ciprus | Aκτινολογία |
+| 3. | Bulgária/България | Пластично-възстановителна и естетична хирургия | Клинична лаборатория |
 
-|  |  | 314. | Lettország | Diagnostiskā radioloģija |
+| 4. | Ciprus/Κύπρος | Πλαστική Χειρουργική |  |
 
-|  |  | 315. | Liechtenstein | Medizinische Radiologie/Radiodiagnostik |
+| 5. | Cseh Köztársaság/ Česká Republika | Plastická chirurgie |  |
 
-|  |  | 316. | Litvánia | Radiologija |
+| 6. | Dánia/ Danmark | Plastikkirurgi |  |
 
-|  |  | 317. | Luxemburg | Radiodiagnostic |
+| 7. | Egyesült Királyság/United Kingdom | Plastic surgery |  |
 
-|  |  | 318. | Magyarország | Radiológia |
+| 8. | Észtország/Eesti | Plastika- ja rekonstruktiivkirurgia | Laborimeditsiin |
 
-|  |  | 319. | Málta | Radjologija |
+| 9. | Finnország/Suomi/Finland | Plastiikkakirurgia/Plastikkirurgi |  |
 
-|  |  | 320. | Hollandia | Radiologie |
+| 10. | Franciaország/France | Chirurgie plastique, reconstructrice et esthétique | Biologie médicale |
 
-|  |  | 321. | Norvégia | Radiologi |
+| 11. | Görögország/Ελλάς | Πλαστική Χειρουργική | Ιατρική βιοπαθολογία (5) |
 
-|  |  | 322. | Ausztria | Radiologie |
+| 12. | Hollandia/Nederland | Plastische chirurgie |  |
 
-|  |  | 323. | Lengyelország | Radiologia i diagnostyka obrazowa |
+| 13. | Horvátország/Hrvatska | Plastična, rekonstrukcijska i estetska kirurgija |  |
 
-|  |  | 324. | Portugália | Radiodiagnóstico |
+| 14. | Írország/Ireland | Plastic, reconstructive and aesthetic surgery |  |
 
-|  |  | 325. | Románia | Radiologie-imagistică medicală |
+| 15. | Izland/ Ísland | Lýtalækningar | Diagnostyka laboratoryjna |
 
-|  |  | 326. | Szlovénia | Radiologija |
+| 16. | Lengyelország/Polska | Chirurgia plastyczna | Diagnostyka laboratoryjna |
 
-|  |  | 327. | Szlovákia | Rádiológia |
+| 17. | Lettország/Latvija | Plastiskā ķirurģija |  |
 
-|  |  | 328. | Finnország | Radiologia/Radiologi |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Plastische- und Wiederherstellungschirurgie | Laboratorinė medicina |
 
-|  |  | 329. | Svédország | Medicinsk radiologi |
+| 19. | Litvánia/ Lietuva | Plastinė ir rekonstrukcinė chirurgija | Laboratorinė medicina |
 
-|  |  | 330. | Svájc | Radiologie Radiologie Radiologia |
+| 20. | Luxemburg/Luxembourg | Chirurgie plastique | Biologie clinique |
 
-|  |  | 331. | Egyesült Királyság | Chlinical radiology |
+| 21. | Magyarország | Plasztikai és égés- sebészet | Orvosi laboratóriumi diagnosztika |
 
-|  |  | 332. | Endokrinológia A képzés legrövidebb időtartama: 3 év |
+| 22. | Málta/Malta | Kirurġija Plastika |  |
 
-|  |  | 333. | Belgium | – |
+| 23. | Németország/Deutschland | - Plastische (und Ästhetische) Chirurgie - Plastische und Ästhetische Chirurgie (1) | Laboratoriumsmedizin (2) |
 
-|  |  | 334. | Bulgária | Ендокринология и болести на обмяната |
+| 24. | Norvégia/Norge | Plastikkirurgi | Patologia clinica Patologia clinica e biochimica clinica (4) |
 
-|  |  | 335. | Cseh Köztársaság | Diabetologie a endokrinologie |
+| 25. | Italia | Chirurgia plastica, ricostruttiva ed estetica | Patologia clinica Patologia clinica e biochimica clinica (4) |
 
-|  |  | 336. | Dánia | Intern medicin: endokrinologi |
+| 26. | Portugália/Portugal | Cirurgia plástica, estética e reconstrutiva | Patologia clínica |
 
-|  |  | 337. | Németország | Innere Medizin und Schwerpunkt Endokrinologie und Diabetologie/ Innere Medizin und Endokrinologie und Diabetologie (2009. októbertől) |
+| 27. | Románia/România | Chirurgie plastică, estetică şi microchirurgie reconstructivă | Medicină de laborator |
 
-|  |  | 338. | Észtország | Endokrinoloogia |
+| 28. | Spanyolország/España | Cirugía plástica, estética y reparadora | Análisis clínicos |
 
-|  |  | 339. | Görögország | Ενδοκρινολογία |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Chirurgie plastique, reconstructive et esthétique Plastische, Rekonstruktive und Ästhetische Chirurgie Chirurgia plastica, ricostruttiva ed estetica |  |
 
-|  |  | 340. | Spanyolország | Endocrinología y nutrición |
+| 30. | Svédország/ Sverige | Plastikkirurgi |  |
 
-|  |  | 341. | Franciaország | Endocrinologie – diabète – maladies métaboliques |
+| 31. | Szlovákia/Slovensko | Plastická chirurgia | Laboratórna medicína |
 
-|  |  | 342. | Horvátország | Endokrinologija i dijabetologija |
+| 32. | Szlovénia/Slovenija | Plastična, rekonstrukcijska in estetska kirurgija |  |
 
-|  |  | 343. | Írország | Endocrinology and diabetes mellitus |
+|  | (1) 2006-tól. (2) 2012-től. (3) 2015. júniustól. (4) 2015. júniustól. (5) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1994. december 30. |
 
-|  |  | 344. | Izland | Efnaskipta- og innkirtlalækningar |
+## 10. Mikrobiológia és bakteriológia és Biokémia
 
-|  |  | 345. | Olaszország | Endocrinologia e malattie del ricambio |
+|  | A. | B. | C. |
 
-|  |  | 346. | Ciprus | Ενδοκρινολογία |
+|  |  | Mikrobiológia és bakteriológia | Biokémia |
 
-|  |  | 347. | Lettország | Endokrinoloģija |
+|  |  | Minimális képzési idő: 4 év | Minimális képzési idő: 4 év |
 
-|  |  | 348. | Liechtenstein | Endokrinologie-Diabetologie |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 349. | Litvánia | Endokrinologija |
+| 1. | Ausztria/Österreich | - Hygiene und Mikrobiologie - Klinische Mikrobiologie und Hygiene (4) - Klinische Mikrobiologie und Virologie (4) | Medizinische und Chemische Labordiagnostik |
 
-|  |  | 350. | Luxemburg | Endocrinologie, maladies du métabolisme et de la nutrition |
+| 2. | Belgium/ België/Belgique/Belgien |  |  |
 
-|  |  | 351. | Magyarország | Endokrinológia |
+| 3. | Bulgária/България | Микробиология | Биохимия |
 
-|  |  | 352. | Málta | Endokrinologija u Dijabete |
+| 4. | Ciprus/Κύπρος | Μικροβιολογία |  |
 
-|  |  | 353. | Hollandia | – |
+| 5. | Cseh Köztársaság/ Česká Republika | Lékařská mikrobiologie | Klinická biochemie |
 
-|  |  | 354. | Norvégia | Endokrinologi |
+| 6. | Dánia/ Danmark | Klinisk mikrobiologi | Klinisk biokemi |
 
-|  |  | 355. | Ausztria | Innere Medizin und Endokrinologie und Diabetologie |
+| 7. | Egyesült Királyság/United Kingdom | Medical microbiology and virology | Chemical pathology |
 
-|  |  | 356. | Lengyelország | Endokrynologia |
+| 8. | Észtország/Eesti |  |  |
 
-|  |  | 357. | Portugália | Endocrinologia/Nutrição |
+| 9. | Finnország/Suomi/Finland | Kliininen mikrobiologia/Klinisk mikrobiologi | Kliininen kemia/Klinisk kemi |
 
-|  |  | 358. | Románia | Endocrinologie |
+| 10. | Franciaország/France |  |  |
 
-|  |  | 359. | Szlovénia | – |
+| 11. | Görögország/Ελλάς | – Ιατρική Βιοπαθολογία – Μικροβιολογία | Ιατρική βιοπαθολογία (6) |
 
-|  |  | 360. | Szlovákia | Endokrinológia |
+| 12. | Hollandia/Nederland | Medische microbiologie | Klinische chemie (2) |
 
-|  |  | 361. | Finnország | Endokrinologia/Endokrinologi |
+| 13. | Horvátország/Hrvatska | Klinička mikrobiologija |  |
 
-|  |  | 362. | Svédország | Endokrina sjukdomar |
+| 14. | Írország/Ireland | Microbiology | Chemical pathology |
 
-|  |  | 363. | Svájc | Endocrinologie-diabétologie Endokrinologie-Diabetologie Endocrinologia-diabetologia |
+| 15. | Izland/ Ísland | Sýklafræði | Vefjameinafræði |
 
-|  |  | 364. | Egyesült Királyság | Endocrinology and diabetes mellitus |
+| 16. | Lengyelország/Polska | Mikrobiologia lekarska |  |
 
-|  |  | 365. | Érsebészet A képzés legrövidebb időtartama: 5 év |
+| 17. | Lettország/Latvija | Mikrobioloģija |  |
 
-|  |  | 366. | Belgium | Chirurgie des vaisseaux/ Bloedvatenheelkunde (hatályon kívül helyezve: 1983. január 1-től) |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | - | Pathologie |
 
-|  |  | 367. | Bulgária | Съдова хирургия |
+| 19. | Litvánia/Lietuva |  |  |
 
-|  |  | 368. | Cseh Köztársaság | Cévní chirurgie |
+| 20. | Luxemburg/Luxembourg | Microbiologie | Chimie biologique |
 
-|  |  | 369. | Dánia | Karkirurgi |
+| 21. | Magyarország | Orvosi mikrobiológia |  |
 
-|  |  | 370. | Németország | Gefäßchirurgie |
+| 22. | Málta/Malta | Mikrobijoloġija | Patoloġija Kimika |
 
-|  |  | 371. | Észtország | Kardiovaskulaarkirurgia |
+| 23. | Németország/Deutschland | - Mikrobiologie (Virologie) und Infektionsepidemiologie - Mikrobiologie, Virologie und Infektionsepidemiologie (3) | Laboratoriumsmedizin (1) |
 
-|  |  | 372. | Görögország | Aγγειοχειρουργικη |
+| 24. | Norvégia/Norge | Medisinsk mikrobiologi | Patologi |
 
-|  |  | 373. | Spanyolország | Angiología y cirugía vascular |
+| 25. | Olaszország/Italia | Microbiologia e virologia | Biochimica clinica (5) |
 
-|  |  | 374. | Franciaország | Chirurgie vasculaira |
+| 26. | Portugália/Portugal |  |  |
 
-|  |  | 375. | Horvátország | Vascularna kirurgija |
+| 27. | Románia/România |  |  |
 
-|  |  | 376. | Írország | – |
+| 28. | Spanyolország/España | Microbiología y parasitología | Bioquímica clínica |
 
-|  |  | 377. | Izland | Æðaskurðleakningar |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | - | Pathologie Pathologie Patologia |
 
-|  |  | 378. | Olaszország | Chirurgia vascolare |
+| 30. | Svédország/Sverige | Klinisk bakteriologi Klinisk mikrobiologi (7) | Klinisk kemi |
 
-|  |  | 379. | Ciprus | Χειρουργικη Aγγεiων |
+| 31. | Szlovákia/Slovensko | Klinická mikrobiológia | Klinická biochémia |
 
-|  |  | 380. | Lettország | Asinsvadu ķirurģija |
+| 32. | Szlovénia/Slovenija | Klinična mikrobiologija | Medicinska biokemija |
 
-|  |  | 381. | Liechtenstein | – |
+|  | (1) 2012-ig. (2) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 2000. április 4. (3) 2006. májustól. (4) 2015. júniustól. (5) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 2015. június 3. (6) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1994. december 30. (7) 2015. májustól. |
 
-|  |  | 382. | Litvánia | Kraujagyslių chirurgija |
+## 11. Immunológia és Mellkassebészet
 
-|  |  | 383. | Luxemburg | Chirurgie vasculaire |
+|  | A. | B. | C. |
 
-|  |  | 384. | Magyarország | Érsebészet |
+|  |  | Immunológia | Mellkassebészet |
 
-|  |  | 385. | Málta | Kirurgija Vaskolari |
+|  |  | Minimális képzési idő: 4 év | Minimális képzési idő: 5 év |
 
-|  |  | 386. | Hollandia | – |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 387. | Norvégia | Karkirurgi |
+| 1. | Ausztria/Österreich | - Immunologie - Klinische Immunologie (2) | Thoraxchirurgie |
 
-|  |  | 388. | Ausztria | Allgemeinchirurgie und Gefaßchirurgie |
+| 2. | Belgium/ België/Belgique/ Belgien |  | Chirurgie thoracique/Heelkunde op de thorax (1) |
 
-|  |  | 389. | Lengyelország | Chirurgia naczyniowa |
+| 3. | Bulgária/България | Клинична имунология | Гръдна хирургия Кардиохирургия |
 
-|  |  | 390. | Portugália | Angologia/Cirurgia vascular |
+| 4. | Ciprus/Κύπρος | Ανοσολογία | Χειρουργική Θώρακος |
 
-|  |  | 391. | Románia | Chirurgie vasculară |
+| 5. | Cseh Köztársaság/ Česká Republika | Alergologie a klinická imunologie | Hrudní chirurgie |
 
-|  |  | 392. | Szlovénia | Kardiovaskularna kirurgija |
+| 6. | Dánia/ Danmark | Klinisk immunologi | Thoraxkirurgi |
 
-|  |  | 393. | Szlovákia | Cievna chirurgia |
+| 7. | Egyesült Királyság/United Kingdom | Immunology | Cardo-thoracic surgery |
 
-|  |  | 394. | Finnország | Verisuonikirurgia/Kärlkirurgi |
+| 8. | Észtország/Eesti |  | Torakaalkirurgia |
 
-|  |  | 395. | Svédország | – |
+| 9. | Finnország/Suomi/Finland |  | Sydän-ja rintaelinkirurgia/Hjärt- och thoraxkirurgi |
 
-|  |  | 396. | Svájc | – |
+| 10. | Franciaország/France |  | Chirurgie thoracique et cardiovasculaire |
 
-|  |  | 397. | Egyesült Királyság | Vascular surgery |
+| 11. | Görögország/Ελλάς |  | Χειρουργική Θώρακος |
 
-|  |  | 398. | Farmakológia A képzés legrövidebb időtartama: 4 év |
+| 12. | Hollandia/Nederland |  | Cardio-thoracale chirurgie |
 
-|  |  | 399. | Belgium | – |
+| 13. | Horvátország/Hrvatska | Alergologija i klinička imunologija |  |
 
-|  |  | 400. | Bulgária | Клинична фармакология и терапия Фармакология |
+| 14. | Írország/Ireland | Immunology (clinical and laboratory) | Cardiothoracic surgery |
 
-|  |  | 401. | Cseh Köztársaság | Klinická farmakologie |
+| 15. | Izland/ Ísland | Ónæmisfræði | Brjóstholsskurðlækningar |
 
-|  |  | 402. | Dánia | Klinisk farmakologi |
+| 16. | Lengyelország/Polska | Immunologia kliniczna | Chirurgia klatki piersiowej |
 
-|  |  | 403. | Németország | Pharmakologie und Toxikologie |
+| 17. | Lettország/Latvija | Imunoloģija | Torakālā ķirurģija Sirds ķirurgs |
 
-|  |  | 404. | Észtország | – |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Allergologie und klinische Immunologie | Herz- und thorakale Gefässchirurgie |
 
-|  |  | 405. | Görögország | – |
+| 19. | Litvánia/Lietuva |  | Krūtinės chirurgija |
 
-|  |  | 406. | Spanyolország | Farmacología clínica |
+| 20. | Luxemburg/Luxembourg | Immunologie | Chirurgie thoracique |
 
-|  |  | 407. | Franciaország | – |
+| 21. | Magyarország | Allergológia és klinikai immunológia | Mellkassebészet |
 
-|  |  | 408. | Horvátország | Klinička farmakologija s toksikologijom |
+| 22. | Málta/Malta | Immunoloġija | Kirurġija Kardjo-Toraċika |
 
-|  |  | 409. | Írország | Clinical pharmacology and therapeutics |
+| 23. | Németország/Deutschland |  | Thoraxchirurgie |
 
-|  |  | 410. | Izland | Lyfjafræði |
+| 24. | Norvégia/Norge | Immunologi og transfusjonsmedisin | Thoraxkirurgi |
 
-|  |  | 411. | Olaszország | Farmacologia |
+| 25. | Olaszország/Italia |  | - Chirurgia toracica - Cardiochirurgia |
 
-|  |  | 412. | Ciprus | – |
+| 26. | Portugália/Portugal |  | Cirurgia cardiotorácica |
 
-|  |  | 413. | Lettország | – |
+| 27. | Románia/România |  | Chirurgie toracică |
 
-|  |  | 414. | Liechtenstein | Klinische Pharmakologie und Toxikologie |
+| 28. | Spanyolország/España | Inmunología | - Cirugía torácica - Cirugía cardiovascular |
 
-|  |  | 415. | Litvánia | – |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | - | Chirurgie cardiaque et vasculaire thoracique Herz- und thorakale Gefässchirurgie Chirurgia del cuore e dei vasi toracici |
 
-|  |  | 416. | Luxemburg | – |
+| 30. | Svédország/Sverige | Klinisk immunologi (3) | Thoraxkirurgi |
 
-|  |  | 417. | Magyarország | Klinikai farmakológia |
+| 31. | Szlovákia/Slovensko | Klinická imunológia a alergológia | Hrudníková chirurgia |
 
-|  |  | 418. | Málta | Farmakologija Klinika u t-Terapewtika |
+| 32. | Szlovénia/Slovenija |  | Torakalna kirurgija |
 
-|  |  | 419. | Hollandia | – |
+|  | (1) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1983. január 1. (2) 2015. júniustól. (3) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 2017. június 14. |
 
-|  |  | 420. | Norvégia | Klinisk farmakologi |
+## 12. Gyermeksebészet és Érsebészet
 
-|  |  | 421. | Ausztria | Pharmakologie und Toxikologie |
+|  | A. | B. | C. |
 
-|  |  | 422. | Lengyelország | Farmakologia kliniczna |
+|  |  | Gyermeksebészet | Érsebészet |
 
-|  |  | 423. | Portugália | – |
+|  |  | Minimális képzési idő: 5 év | Minimális képzési idő: 5 év |
 
-|  |  | 424. | Románia | Farmacologie clinică |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 425. | Szlovénia | – |
+| 1. | Ausztria/Österreich | Kinder- und Jugendchirurgie | Allgemeinchirurgie und Gefäßchirurgie |
 
-|  |  | 426. | Szlovákia | Klinická farmakológia |
+| 2. | Belgium/ België/Belgique/ Belgien |  | Chirurgie des vaisseaux/Bloedvatenheelkun-de (1) |
 
-|  |  | 427. | Finnország | Kliininen farmakologia ja lääkehoito/ Klinisk farmakologi och läkemedelsbehandling |
+| 3. | Bulgária/България | Детска хирургия | Съдова хирургия |
 
-|  |  | 428. | Svédország | Klinisk farmakologi |
+| 4. | Ciprus/Κύπρος | Χειρουργική Παίδων | Χειρουργική Αγγείων |
 
-|  |  | 429. | Svájc | Pharmacologie et toxicologie cliniques Klinische Pharmakologie und Toxikologie Farmacologia e tossicologia cliniche |
+| 5. | Cseh Köztársaság/ Česká Republika | Dĕtská chirurgie | Cévní chirurgie |
 
-|  |  | 430. | Egyesült Királyság | Clinical pharmacology and therapeutics |
+| 6. | Dánia/ Danmark |  | Karkirurgi |
 
-|  |  | 431. | Fizioterápia A képzés legrövidebb időtartama: 3 év |
+| 7. | Egyesült Királyság/United Kingdom | Paediatric surgery | Vascular surgery |
 
-|  |  | 432. | Belgium | Médecine physique et réadaptation/Fysische geneeskunde en revalidatie |
+| 8. | Észtország/Eesti | Lastekirurgia | Kardiovaskulaarkirurgia |
 
-|  |  | 433. | Bulgária | Физикална и рехабилитационна медицина |
+| 9. | Finnország/Suomi/Finland | Lastenkirurgia/Barnkirurgi | Verisuonikirurgia/Kärlkirurgi |
 
-|  |  | 434. | Cseh Köztársaság | Rehabilitační a fyzikální medicína |
+| 10. | Franciaország/France | Chirurgie infantile | Chirurgie vasculaire |
 
-|  |  | 435. | Dánia | – |
+| 11. | Görögország/Ελλάς | Χειρουργική Παίδων | Αγγειοχειρουργική |
 
-|  |  | 436. | Németország | Physikalische und Rehabilitative Medizin |
+| 12. | Hollandia/Nederland |  |  |
 
-|  |  | 437. | Észtország | Taastusravi ja füsiaatria |
+| 13. | Horvátország/Hrvatska | Dječja kirurgija | Vaskularna kirurgija |
 
-|  |  | 438. | Görögország | Фσικη Ιατρικη και Aποκατασταση |
+| 14. | Írország/Ireland | Paediatric surgery |  |
 
-|  |  | 439. | Spanyolország | Medicina física y rehabilitación |
+| 15. | Izland/ Ísland | Barnaskurðlkæningar | Æðaskurðleakningar |
 
-|  |  | 440. | Franciaország | Médecine physique et de réadaptation |
+| 16. | Lengyelország/Polska | Chirurgia dziecięca | Chirurgia naczyniowa |
 
-|  |  | 441. | Horvátország | Fizikalna medicina i rehabilitacija |
+| 17. | Lettország/Latvija | Bērnu ķirurģija | Asinsvadu ķirurģija |
 
-|  |  | 442. | Írország | – |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Kinderchirurgie | - |
 
-|  |  | 443. | Izland | Orku- og endurhaefingarlækningar |
+| 19. | Litvánia/Lietuva | Vaikų chirurgija | Kraujagyslių chirurgija |
 
-|  |  | 444. | Olaszország | Medicina fisica e riabilitazione |
+| 20. | Luxemburg/Luxembourg | Chirurgie pédiatrique | Chirurgie vasculaire |
 
-|  |  | 445. | Ciprus | Фσικη Ιατρικη και Aποκατασταση |
+| 21. | Magyarország | Gyermeksebészet | Érsebészet |
 
-|  |  | 446. | Lettország | Rehabilitoloģija Fiziskā rehabilitācija Ceska republika |
+| 22. | Málta/Malta | Kirurgija Pedjatrika | Kirurġija Vaskolari |
 
-|  |  | 447. | Liechtenstein | Physikalische Medizin und Rehabilitation |
+| 23. | Németország/Deutschland | Kinderchirurgie | Gefäßchirurgie |
 
-|  |  | 448. | Litvánia | Fiziné medicina ir reabilitacija |
+| 24. | Norvégia/Norge | Barnekirurgi | Karkirurgi |
 
-|  |  | 449. | Luxemburg | Rééducation et réadaptation fonctionnelles |
+| 25. | Olaszország/Italia | Chirurgia pediatrica | Chirurgia vascolare |
 
-|  |  | 450. | Magyarország | Fizikális medicina és rehabilitációs orvoslás |
+| 26. | Portugália/Portugal | Cirurgia pediátrica | Angologia/Cirurgia vascular |
 
-|  |  | 451. | Málta | – |
+| 27. | Románia/România | Chirurgie pediatrică | Chirurgie vasculară |
 
-|  |  | 452. | Hollandia | Revalidatiegeneeskunde |
+| 28. | Spanyolország/España | Cirugía pediátrica | Angiología y cirugía vascular |
 
-|  |  | 453. | Norvégia | Fysikalsk medisin og rehabilitering |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Chirurgie pédiatrique Kinderchirurgie Chirurgia pediatrica | - |
 
-|  |  | 454. | Ausztria | Physikalische Medizin und Allgemeine Rehabilitation |
+| 30. | Svédország/Sverige | Barn- och ungdomskirurgi | Kärlkirurgi |
 
-|  |  | 455. | Lengyelország | Rehabilitacja medyczna |
+| 31. | Szlovákia/Slovensko | Detská chirurgia | Cievna chirurgia |
 
-|  |  | 456. | Portugália | Medicina física e de reabilitação |
+| 32. | Szlovénia/Slovenija |  | Kardiovaskularna kirurgija |
 
-|  |  | 457. | Románia | Reabilitare Medicala |
+|  | (1) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1983. január 1. |
 
-|  |  | 458. | Szlovénia | Fizikalna in rehabilitacijska medicina |
+## 13. Kardiológia és Gasztroenterológia
 
-|  |  | 459. | Szlovákia | Fyziatria, balneológia a liečebná rehabilitácia |
+|  | A. | B. | C. |
 
-|  |  | 460. | Finnország | Fysiatria/Fysiatri |
+|  |  | Kardiológia | Gasztroenterológia |
 
-|  |  | 461. | Svédország | Rehabiliteringsmedicin |
+|  |  | Minimális képzési idő: 4 év | Minimális képzési idő: 4 év |
 
-|  |  | 462. | Svájc | Médecine physique et réadaptation Physikalische Medizin und Rehabilitation Medicina fisica e riabilitazione |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 463. | Egyesült Királyság | – |
+| 1. | Ausztria/Österreich | Innere Medizin und Kardiologie | Innere Medizin und Gastroenterologie und Hepatologie |
 
-|  |  | 464. | Foglalkozás-orvostan A képzés legrövidebb időtartama: 4 év |
+| 2. | Belgium/ België/Belgique/ Belgien | Cardiologie | Gastro-entérologie/Gastro-enterologie |
 
-|  |  | 465. | Belgium | Médecine du travail/ Arbeidsgeneeskunde |
+| 3. | Bulgária/България | Кардиология | Гастроентерология (1) |
 
-|  |  | 466. | Bulgária | Трудова медицина |
+| 4. | Ciprus/Κύπρος | Καρδιολογία | Γαστρεντερολογία |
 
-|  |  | 467. | Cseh Köztársaság | Pracovní lékařství |
+| 5. | Cseh Köztársaság/ Česká Republika | Kardiologie | Gastroenterologie |
 
-|  |  | 468. | Dánia | Arbejdsmedicin |
+| 6. | Dánia/ Danmark | Intern medicin: kardiologi | Intern medicin: gastroenterology og hepato-logi |
 
-|  |  | 469. | Németország | Arbeitsmedizin |
+| 7. | Egyesült Királyság/United Kingdom | Cardiology | Gastroenterology |
 
-|  |  | 470. | Észtország | – |
+| 8. | Észtország/Eesti | Kardioloogia | Gastroenteroloogia |
 
-|  |  | 471. | Görögország | Ιατρικη τηζ Εργασiαζ |
+| 9. | Finnország/Suomi/Finland | Kardiologia/Kardiologi | Gastroenterologia/Gastroenterologi |
 
-|  |  | 472. | Spanyolország | Medicina del trabajo |
+| 10. | Franciaország/France | Cardiologie et maladies vasculaires | Gastro-entérologie et hépatologie |
 
-|  |  | 473. | Franciaország | Médecine du travail |
+| 11. | Görögország/Ελλάς | Καρδιολογία | Γαστρεντερολογία |
 
-|  |  | 474. | Horvátország | Medicina rada i športa |
+| 12. | Hollandia/Nederland | Cardiologie | Maag-darm-leverziekten |
 
-|  |  | 475. | Írország | Occupational medicine |
+| 13. | Horvátország/Hrvatska | Kardiologija | Gastroenterologija |
 
-|  |  | 476. | Izland | Atvinnulaekningar |
+| 14. | Írország/Ireland | Cardiology | Gastro-enterology |
 
-|  |  | 477. | Olaszország | Medicina del lavoro |
+| 15. | Izland/ Ísland | Hjartalaekningar | Meltingarlækningar |
 
-|  |  | 478. | Ciprus | Ιατρικη τηζ Εργασiαζ |
+| 16. | Lengyelország/Polska | Kardiologia | Gastrenterologia |
 
-|  |  | 479. | Lettország | Arodslimības |
+| 17. | Lettország/Latvija | Kardioloģija | Gastroenteroloģija |
 
-|  |  | 480. | Liechtenstein | Arbeitsmedizin |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Kardiologie | Gastroenterologie |
 
-|  |  | 481. | Litvánia | Darbo medicina |
+| 19. | Litvánia/Lietuva | Kardiologija | Gastroenterologija |
 
-|  |  | 482. | Luxemburg | Médecine du travail |
+| 20. | Luxemburg/Luxembourg | Cardiologie et angiologie | Gastro-enterologie |
 
-|  |  | 483. | Magyarország | Foglalkozás-orvostan (üzemorvostan) |
+| 21. | Magyarország | Kardiológia | Gasztroenterológia |
 
-|  |  | 484. | Málta | Medicina Okkupazzjonali |
+| 22. | Málta/Malta | Kardjoloġija | Gastroenteroloġija |
 
-|  |  | 485. | Hollandia | Arbeid en gezondheid, bedrijfsgeneeskunde Arbeid en gezondheid, verzekeringsgeneeskunde |
+| 23. | Németország/Deutschland | - Innere Medizin und Schwerpunkt Kardiologie - Innere Medizin und Kardiologie (2) | - Innere Medizin und Schwerpunkt Gastroenterologie - Innere Medizin und Gastroenterologie (2) |
 
-|  |  | 486. | Norvégia | Arbeidsmedisin |
+| 24. | Norvégia/Norge | Hjertesykdommer | Fordøyelsessykdommer |
 
-|  |  | 487. | Ausztria | Arbeitsmedizin/ Arbeitsmedizin und angewandte Physiologie (2015. júniustól) |
+| 25. | Olaszország/Italia | Malattie dell’apparato cardiovascolare | Gastroenterologia Malattie dell’apparato digerente (3) |
 
-|  |  | 488. | Lengyelország | Medycyna pracy |
+| 26. | Portugália/Portugal | Cardiologia | Gastrenterologia |
 
-|  |  | 489. | Portugália | Medicina do trabalho |
+| 27. | Románia/România | Cardiologie | Gastroenterologie |
 
-|  |  | 490. | Románia | Medicina muncii |
+| 28. | Spanyolország/España | Cardiología | Aparato digestivo |
 
-|  |  | 491. | Szlovénia | Medicina dela, prometa in športa |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Cardiologie Kardiologie Cardiologia | Gastroentérologie Gastroenterologie Gastroenterologia |
 
-|  |  | 492. | Szlovákia | Pracovné lekárstvo |
+| 30. | Svédország/Sverige | Kardiologi | Medicinsk gastroenterologi och hepatologi |
 
-|  |  | 493. | Finnország | Työteryeyshuolto / Företagshälsovård |
+| 31. | Szlovákia/Slovensko | Kardiológia | Gastroenterológia |
 
-|  |  | 494. | Svédország | Yrkes- och miljömedicin |
+| 32. | Szlovénia/Slovenija | Kardiologija in vaskularna medicina | Gastroenterologija |
 
-|  |  | 495. | Svájc | Médecine du travail Arbeitsmedizin Medicina del lavoro |
+|  | (1) 2010. szeptember 14-ig. (2) 2009. októbertől. (3) 2015. júniustól. |
 
-|  |  | 496. | Egyesült Királyság | Occupational medicine |
+## 14. Reumatológia és Általános hematológia
 
-|  |  | 497. | Fül-orr-gégegyógyászat A képzés legrövidebb időtartama: 3 év |
+|  | A. | B. | C. |
 
-|  |  | 498. | Belgium | Oto-rhino-laryngologie/ Otorhinolaryngologie |
+|  |  | Reumatológia | Általános hematológia |
 
-|  |  | 499. | Bulgária | Ушно-носно-гърлени болести |
+|  |  | Minimális képzési idő: 4 év | Minimális képzési idő: 3 év |
 
-|  |  | 500. | Cseh Köztársaság | Otorinolaryngologie |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 501. | Dánia | Oto-rhino-laryngologi |
+| 1. | Ausztria/Österreich | Innere Medizin und Rheumatologie | Innere Medizin und Hämatologie und internistische Onkologie |
 
-|  |  | 502. | Németország | Hals-Nasen-Ohrenheilkunde |
+| 2. | Belgium/ België/Belgique/ Belgien | Rhumathologie/reumatologie |  |
 
-|  |  | 503. | Észtország | Otorinolarüngoloogia |
+| 3. | Bulgária/България | Ревматология | Клинична хематология |
 
-|  |  | 504. | Görögország | Ωτορινολαρυγγολογία |
+| 4. | Ciprus/Κύπρος | Ρευματολογία | Αιματολογία |
 
-|  |  | 505. | Spanyolország | Otorrinolaringología |
+| 5. | Cseh Köztársaság/ Česká Republika | Revmatologie | Hematologie a transfúzní lékařství |
 
-|  |  | 506. | Franciaország | Oto-rhino-laryngologie et chirurgie cervico-faciale |
+| 6. | Dánia/ Danmark | Intern medicin: reumatologi | Intern medicin: hæmatologi |
 
-|  |  | 507. | Horvátország | Otorinolaringologija |
+| 7. | Egyesült Királyság/United Kingdom | Rheumatology | Haematology |
 
-|  |  | 508. | Írország | Otolaryngology |
+| 8. | Észtország/Eesti | Reumatoloogia | Hematoloogia |
 
-|  |  | 509. | Izland | Háls-, nef- og eyrnalækningar |
+| 9. | Finnország/Suomi/Finland | Reumatologia/Reumatologi | Kliininen hematologia/Klinisk hematologi |
 
-|  |  | 510. | Olaszország | Otorinolaringoiatria |
+| 10. | Franciaország/France | Rhumatologie |  |
 
-|  |  | 511. | Ciprus | Ωτορινολαρυγγολογία |
+| 11. | Görögország/Ελλάς | Ρευματολογία | Αιματολογία |
 
-|  |  | 512. | Lettország | Otolaringologija |
+| 12. | Hollandia/Nederland | Reumatologie |  |
 
-|  |  | 513. | Liechtenstein | Hals-, Nasen- und Ohrenkrankheiten |
+| 13. | Horvátország/Hrvatska | Reumatologija | Hematologija |
 
-|  |  | 514. | Litvánia | Otorinolaringologija |
+| 14. | Írország/Ireland | Rheumatology | Haematology (clinical and laboratory) |
 
-|  |  | 515. | Luxemburg | Oto-rhino-laryngologie |
+| 15. | Izland/ Ísland | Gigtarlækningar | Blóðmeinafræði |
 
-|  |  | 516. | Magyarország | Fül-orr-gégegyógyászat |
+| 16. | Lengyelország/Polska | Reumatologia | Hematologia |
 
-|  |  | 517. | Málta | Otorinolaringologija |
+| 17. | Lettország/Latvija | Reimatoloģija | Hematoloģija |
 
-|  |  | 518. | Hollandia | Keel-, neus- en oorheelkunde |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Rheumatologie | Hämatologie |
 
-|  |  | 519. | Norvégia | Øre-nese-halssykdommer |
+| 19. | Litvánia/Lietuva | Reumatologija | Hematologija |
 
-|  |  | 520. | Ausztria | Hals-, Nasen-und Ohrenkrankheiten/ Hals-, Nasen-und Ohrenheilkunde (2015. júniustól) |
+| 20. | Luxemburg/Luxembourg | Rhumatologie | Hématologie |
 
-|  |  | 521. | Lengyelország | Otorynolaryngologia |
+| 21. | Magyarország | Reumatológia | Hematológia |
 
-|  |  | 522. | Portugália | Otorrinolaringológia |
+| 22. | Málta/Malta | Rewmatoloġija | Ematoloġia |
 
-|  |  | 523. | Románia | Otorinolaringologie |
+| 23. | Németország/Deutschland | - Innere Medizin und Schwerpunkt Rheu-matologie - Innere Medizin und Rheumatologie (1) | - Innere Medizin und Schwerpunkt Häma-tologie und Onkologie - Innere Medizin und Hämatologie und Onkologie (1) |
 
-|  |  | 524. | Szlovénia | Otorinolaringologija |
+| 24. | Norvégia/Norge | Revmatologi | Blodsykdommer |
 
-|  |  | 525. | Szlovákia | Otorinolaryngológia |
+| 25. | Olaszország/Italia | Reumatologia | Ematologia |
 
-|  |  | 526. | Finnország | Korva-, nenä- ja kurkkutaudit/Öron-, näs- och halssjukdomar |
+| 26. | Portugália/Portugal | Reumatologia | Imuno-hemoterapia |
 
-|  |  | 527. | Svédország | Öron-, näs- och halssjukdomar (oto-rhino-laryngologi) |
+| 27. | Románia/România | Reumatologie | Hematologie |
 
-|  |  | 528. | Svájc | Oto-rhino-laryngologie Oto-Rhino-Laryngologie Otorinolaringoiatria |
+| 28. | Spanyolország/España | Reumatología | Hematología y hemoterapia |
 
-|  |  | 529. | Egyesült Királyság | Otolaryngology |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Rhumatologie Rheumatologie Reumatologia | Hématologie Hämatologie Ematologia |
 
-|  |  | 530. | Gasztroenterológia A képzés legrövidebb időtartama: 4 év |
+| 30. | Svédország/Sverige | Reumatologi | Hematologi |
 
-|  |  | 531. | Belgium | Gastro-entérologie/Gastro-enterologie |
+| 31. | Szlovákia/Slovensko | Reumatológia | Hematológia a transfúziológia |
 
-|  |  | 532. | Bulgária | Гастроентерология (2010. szeptember 14-ig) |
+| 32. | Szlovénia/Slovenija | Revmatologija | Hematologija |
 
-|  |  | 533. | Cseh Köztársaság | Gastroenterologie |
+|  | (1) 2009. októbertől. |
 
-|  |  | 534. | Dánia | Intern medicin: gastroenterology og hepatologi |
+## 15. Endokrinológia és Fizioterápia
 
-|  |  | 535. | Németország | Innere Medizin und Schwerpunkt Gastroenterologie/ Innere Medizin und Gastroenterologie (2009. októbertől) |
+|  | A. | B. | C. |
 
-|  |  | 536. | Észtország | Gastroenteroloogia |
+|  |  | Endokrinológia | Fizioterápia |
 
-|  |  | 537. | Görögország | Γαστρεντερολογία |
+|  |  | Minimális képzési idő: 3 év | Minimális képzési idő: 3 év |
 
-|  |  | 538. | Spanyolország | Aparato digestivo |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 539. | Franciaország | Gastro-entérologie et hépatologie |
+| 1. | Ausztria/Österreich | Innere Medizin und Endokrinologie und Diabetologie | Physikalische Medizin und Allgemeine Rehabilitation |
 
-|  |  | 540. | Horvátország | Gastorenterologija |
+| 2. | Belgium/ België/Belgique/ Belgien |  | Médecine physique et réadaptation/Fysische geneeskunde en revalidatie |
 
-|  |  | 541. | Írország | Gastro-enterology |
+| 3. | Bulgária/България | Ендокринология и болести на обмяната | Физикална и рехабилитационна медицина |
 
-|  |  | 542. | Izland | Meltingarlækningar |
+| 4. | Ciprus/Κύπρος | Ενδοκρινολογία | Φυσική Ιατρική και Αποκατάσταση |
 
-|  |  | 543. | Olaszország | Gastroenterologia |
+| 5. | Cseh Köztársaság/ Česká Republika | Diabelotologie a endokrinologie | Rehabilitační a fyzikální medicína |
 
-|  |  | 544. | Ciprus | Γαστρεντερολογία |
+| 6. | Dánia/ Danmark | Intern medicin: endokrinologi |  |
 
-|  |  | 545. | Lettország | Gastroenteroloģija |
+| 7. | Egyesült Királyság/United Kingdom | Endocrinology and diabetes mellitus |  |
 
-|  |  | 546. | Liechtenstein | Gastroenterologie |
+| 8. | Észtország/Eesti | Endokrinoloogia | Taastusravi ja füsiaatria |
 
-|  |  | 547. | Litvánia | Gastroenterologija |
+| 9. | Finnország/Suomi/Finland | Endokrinologia/Endokrinologi | Fysiatria/Fysiatri |
 
-|  |  | 548. | Luxemburg | Gastro-entérologie |
+| 10. | Franciaország/France | Endocrinologie - diabète - maladies métaboliques | Médecine physique et de réadaptation |
 
-|  |  | 549. | Magyarország | Gasztroenterológia |
+| 11. | Görögország/Ελλάς | Ενδοκρινολογία | Φυσική Ιατρική και Αποκατάσταση |
 
-|  |  | 550. | Málta | Gastroenterologija |
+| 12. | Hollandia/Nederland |  | Revalidatiegeneeskunde |
 
-|  |  | 551. | Hollandia | Maag-darm-leverziekten |
+| 13. | Horvátország/Hrvatska | Endokrinologija i dijabetologija | Fizikalna medicina i rehabilitacija |
 
-|  |  | 552. | Norvégia | Fordøyelsessykdommer |
+| 14. | Írország/Ireland | Endocrinology and diabetes mellitus |  |
 
-|  |  | 553. | Ausztria | Innere Medizin und Gastroenterologie und Hepatologie |
+| 15. | Izland/ Ísland | Efnaskipta- og innkirtlalækningar | Orku- og endurhaefingarlækningar |
 
-|  |  | 554. | Lengyelország | Gastrenterologia |
+| 16. | Lengyelország/Polska | Endokrynologia | Rehabilitacja medyczna |
 
-|  |  | 555. | Portugália | Gastrenterologia |
+| 17. | Lettország/Latvija | Endokrinoloģija | Rehabilitoloģija Fiziskā rehabilitācija Fizikālā medicīna |
 
-|  |  | 556. | Románia | Gastroenterologie |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Endokrinologie-Diabetologie | Physikalische Medizin und Rehabilitation |
 
-|  |  | 557. | Szlovénia | Gastroenterologija |
+| 19. | Litvánia/Lietuva | Endokrinologija | Fizinė medicina ir reabilitacija |
 
-|  |  | 558. | Szlovákia | Gastroenterológia |
+| 20. | Luxemburg/Luxembourg | Endocrinologie, maladies du métabolisme et de la nutrition | Rééducation et réadaptation fonctionnelles |
 
-|  |  | 559. | Finnország | Gastroenterologia/Gastroenterologi |
+| 21. | Magyarország | Endokrinológia Endokrinológia és anyag-cserebetegségek | Fizikális medicina és rehabilitációs orvoslás Rehabilitációs medicina (4) |
 
-|  |  | 560. | Svédország | Medicinsk gastroenterologi och hepatologi |
+| 22. | Málta/Malta | Endokrinoloġija u Dijabete |  |
 
-|  |  | 561. | Svájc | Gastroentérologie Gastroenterologie Gastroenterologia |
+| 23. | Németország/Deutschland | - Innere Medizin und Schwerpunkt En-dokrinologie und Diabetologie - Innere Medizin und Endokrinologie und Diabetologie (1) | Physikalische und Rehabilitative Medizin |
 
-|  |  | 562. | Egyesült Királyság | Gastro-enterology |
+| 24. | Norvégia/Norge | Endokrinologi | Fysikalsk medisin og rehabilitering |
 
-|  |  | 563. | Geriátria A képzés legrövidebb időtartama: 4 év |
+| 25. | Olaszország/Italia | Endocrinologia e malattie del ricambio Endocrinologia e malattie del metabolismo (2) | Medicina fisica e riabilitazione Medicina fisica e riabilitativa (2) |
 
-|  |  | 564. | Belgium | Gériatrie/Geriatrie |
+| 26. | Portugália/Portugal | Endocrinologia/Nutrição | Medicina física e de reabilitação |
 
-|  |  | 565. | Bulgária | Гериатрична медицина |
+| 27. | Románia/România | Endocrinologie | Reabilitare Medicală |
 
-|  |  | 566. | Cseh Köztársaság | Geriatrie |
+| 28. | Spanyolország/España | Endocrinología y nutrición | Medicina física y rehabilitación |
 
-|  |  | 567. | Dánia | Intern medicin: geriatric |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Endocrinologie-diabétologie Endokrinologie-Diabetologie Endocrinologia-diabetologia | Médecine physique et réadaptation Physikalische Medizin und Rehabilitation Medicina fisica e riabilitazione |
 
-|  |  | 568. | Németország | – |
+| 30 | Svédország/Sverige | Endokrina sjukdomar Endokrinologi och diabetologi (3) | Rehabiliteringsmedicin |
 
-|  |  | 569. | Észtország | – |
+| 31. | Szlovákia/Slovensko | Endokrinológia | Fyziatria, balneológia a liečebná rehabilitácia |
 
-|  |  | 570. | Görögország | – |
+| 32. | Szlovénia/Slovenija |  | Fizikalna in rehabilitacijska medicina |
 
-|  |  | 571. | Spanyolország | Geriatría |
+|  | (1) 2009. októbertől. (2) 2015. februártól. (3) 2008. szeptembertől. (4) 2016. szeptembertől. |
 
-|  |  | 572. | Franciaország | – |
+## 16. Neuropszichiátria és Bőr-és nemibeteg-gyógyászat
 
-|  |  | 573. | Horvátország | – |
+|  | A. | B. | C. |
 
-|  |  | 574. | Írország | Geriatric medicine |
+|  |  | Neuropszichiátria | Bőr- és nemibeteg-gyógyászat |
 
-|  |  | 575. | Izland | Öldrunarlækningar |
+|  |  | Minimális képzési idő: 5 év | Minimális képzési idő: 3 év |
 
-|  |  | 576. | Olaszország | Geriatria |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 577. | Ciprus | Γηριατρικη |
+| 1. | Ausztria/Österreich | Neurologie und Psychiatrie (6) | Haut- und Geschlechtskrankheiten |
 
-|  |  | 578. | Lettország | – |
+| 2. | Belgium/ België/Belgique/ Belgien | Neuropsychiatrie (1) | Dermato-vénéréologie/Dermato- venereolo-gie |
 
-|  |  | 579. | Liechtenstein | Geriatrie |
+| 3. | Bulgária/България |  | Кожни и венерически болести |
 
-|  |  | 580. | Litvánia | Geriatrija |
+| 4. | Ciprus/Κύπρος | Νευρολογία – Ψυχιατρική | Δερματολογία – Αφροδισιολογία |
 
-|  |  | 581. | Luxemburg | Gériatrie |
+| 5. | Cseh Köztársaság/ Česká Republika |  | Dermatovenerologie |
 
-|  |  | 582. | Magyarország | Geriátria |
+| 6. | Dánia/ Danmark |  | Dermato-venerologi |
 
-|  |  | 583. | Málta | Gerjatrija |
+| 7. | Egyesült Királyság/United Kingdom |  |  |
 
-|  |  | 584. | Hollandia | Klinische geriatrie |
+| 8. | Észtország/Eesti |  | Dermatoveneroloogia |
 
-|  |  | 585. | Norvégia | Geriatri |
+| 9. | Finnország/Suomi/Finland |  | Ihotaudit ja allergologia/ Hudsjukdomar och allergologi |
 
-|  |  | 586. | Ausztria | – |
+| 10. | Franciaország/France | Neuropsychiatrie (2) | Dermatologie et vénéréologie |
 
-|  |  | 587. | Lengyelország | Geriatria |
+| 11. | Görögország/Ελλάς | Νευρολογία – Ψυχιατρική | Δερματολογία – Αφροδισιολογία |
 
-|  |  | 588. | Portugália | – |
+| 12. | Hollandia/Nederland | Zenuw - en zielsziekten (5) | Dermatologie en venerologie |
 
-|  |  | 589. | Románia | Geriatrie şi gerontologie |
+| 13. | Horvátország/Hrvatska |  | Dermatologija i venerologija |
 
-|  |  | 590. | Szlovénia | – |
+| 14. | Írország/Ireland |  |  |
 
-|  |  | 591. | Szlovákia | Geriatria |
+| 15. | Izland/ Ísland |  | Húð- og kynsjúkdómalaekningar |
 
-|  |  | 592. | Finnország | Geriatria / geriatri |
+| 16. | Lengyelország/Polska |  | Dermatologia i wenerologia |
 
-|  |  | 593. | Svédország | Geriatrik |
+| 17. | Lettország/Latvija |  | Dermatoloģija un veneroloģija |
 
-|  |  | 594. | Svájc | – |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein |  | Dermatologie und Venereologie |
 
-|  |  | 595. | Egyesült Királyság | Geriatric medicine |
+| 19. | Litvánia/Lietuva |  | Dermatovenerologija |
 
-|  |  | 596. | Gyermekpszichiátria A képzés legrövidebb időtartama: 4 év |
+| 20. | Luxemburg/Luxembourg | Neuropsychiatrie (4) | Dermato-vénéréologie |
 
-|  |  | 597. | Belgium | Psychiatrie, particulierement en psychiatrie infanto-juvénile/Psychiatrie, meer bepaald in de kinder- en jeugdpsychiatrie |
+| 21. | Magyarország |  | Bőrgyógyászat |
 
-|  |  | 598. | Bulgária | Детска психиатрия |
+| 22. | Málta/Malta |  | Dermato-venerejoloġija |
 
-|  |  | 599. | Cseh Köztársaság | Dětská a dorostová psychiatrie |
+| 23. | Németország/Deutschland | Nervenheilkunde (Neurologie und Psychiatrie) | Haut - und Geschlechtskrankheiten |
 
-|  |  | 600. | Dánia | Børne- og ungdomspsykiatri |
+| 24. | Norvégia/Norge |  | Hudsykdommer og veneriske sykdommer |
 
-|  |  | 601. | Németország | Kinder- und Jugendpsychiatrie und -psychotherapie |
+| 25. | Olaszország/ Italia | Neuropsichiatria (3) | Dermatologia e venereologia |
 
-|  |  | 602. | Észtország | – |
+| 26. | Portugália/Portugal |  | Dermatovenereologia |
 
-|  |  | 603. | Görögország | Παιδοψυχιατρικη |
+| 27. | Románia/România |  | Dermatovenerologie |
 
-|  |  | 604. | Spanyolország | – |
+| 28. | Spanyolország/España |  | Dermatología médico-quirúrgica y venereología |
 
-|  |  | 605. | Franciaország | Pédopsychiatrie (hatályon kívül helyezve: 1991. január 1.) |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra |  | Dermatologie et vénéréologie Dermatologie und Venerologie Dermatologia e venerologia |
 
-|  |  | 606. | Horvátország | Dječja i adolescentna psihijatrija |
+| 30. | Svédország/Sverige |  | Hud- och könssjukdomar |
 
-|  |  | 607. | Írország | Child and adolescent psychiatry |
+| 31. | Szlovákia/Slovensko | Neuropsychiatria | Dermatovenerológia |
 
-|  |  | 608. | Izland | Barna- og unglingageðlækningar |
+| 32. | Szlovénia/Slovenija |  | Dermatovenerologija |
 
-|  |  | 609. | Olaszország | Neuropsichiatria infantile |
+|  | A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: (1) 1987. augusztus 1., kivéve azon személyek esetében, akik képzésüket ezen időpontot megelőzően kezdték meg. (2) 1971. december 31. (3) 1999. október 31. (4) Szakmai képesítés megszerzését tanúsító okiratot nem adnak ki az 1982. március 5. után megkezdett képzések esetében. (5) 1984. július 9. (6) 2004. március 31. |
 
-|  |  | 610. | Ciprus | Παιδοψυχιατρικη |
+## 17. Radiológia és Gyermekpszichiátria
 
-|  |  | 611. | Lettország | Bērnu psihiatrija |
+|  | A. | B. | C. |
 
-|  |  | 612. | Liechtenstein | Kinder- und Jugendpsychiatrie und -psychotherapie |
+|  |  | Radiológia | Gyermekpszichiátria |
 
-|  |  | 613. | Litvánia | Vaikų ir paauglių psichiatrija |
+|  |  | Minimális képzési idő: 4 év | Minimális képzési idő: 4 év |
 
-|  |  | 614. | Luxemburg | Psychiatrie infantile |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 615. | Magyarország | Gyermek- és ifjúsági pszichiátria |
+| 1. | Ausztria/Österreich | Radiologie (6) | - Kinder- und Jugendpsychiatrie - Kinder- und Jugendpsychiatrie und Psychotherapeutische Medizin (8) |
 
-|  |  | 616. | Málta | – |
+| 2. | Belgium/ België/Belgique/ Belgien |  | Psychiatrie, particulièrement en psychiatrie infanto-juvénile/Psychiatrie, meer bepaald in de kinder- en jeugdpsychiatrie |
 
-|  |  | 617. | Hollandia | – |
+| 3. | Bulgária/България | Радиобиология | Детска психиатрия |
 
-|  |  | 618. | Norvégia | Barne- og ungdomspsykiatri |
+| 4. | Ciprus/Κύπρος |  | Παιδοψυχιατρική |
 
-|  |  | 619. | Ausztria | Kinder- und Jugendpsychiatrie/ Kinder- und Jugendpsychiatrie und Psychotherapeutische Medizin (2015. júniustól) |
+| 5. | Cseh Köztársaság/ Česká Republika |  | Dĕtská a dorostová psychiatrie |
 
-|  |  | 620. | Lengyelország | Psychiatria dzieci i młodziezy |
+| 6. | Dánia/ Danmark |  | Børne- og ungdomspsykiatri |
 
-|  |  | 621. | Portugália | Psiquiatria da infância e da adolescência |
+| 7. | Egyesült Királyság/United Kingdom |  | Child and adolescent psychiatry |
 
-|  |  | 622. | Románia | Psihiatrie pediatrică |
+| 8. | Észtország/Eesti |  |  |
 
-|  |  | 623. | Szlovénia | Otroška in mladostniška psihiatrija |
+| 9. | Finnország/Suomi/Finland |  | Lastenpsykiatria/Barnpsykiatri |
 
-|  |  | 624. | Szlovákia | Detská psychiatria |
+| 10. | Franciaország/France | Electro-radiologie (2) | Pédopsychiatrie (7) |
 
-|  |  | 625. | Finnország | Lastenpsykiatria / Barnpsykiatri |
+| 11. | Görögország/Ελλάς | Ακτινολογία – Ραδιολογία | Παιδοψυχιατρική |
 
-|  |  | 626. | Svédország | Barn- och ungdomspsykiatri |
+| 12. | Hollandia/Nederland | Radiologie (5) |  |
 
-|  |  | 627. | Svájc | Psychiatrie et psychothérapie d’enfants et d’adolescents Kinder- und Jugendpsychiatrie und -psychotherapie Psichiatria e psicoterapia infantile e dell’adolescenza |
+| 13. | Horvátország/Hrvatska | Klinička radiologija | Dječja i adolescentna psihijatrija |
 
-|  |  | 628. | Egyesült Királyság | Child and adolescent psychiatry |
+| 14. | Írország/Ireland |  | Child and adolescent psychiatry |
 
-|  |  | 629. | Gyermeksebészet A képzés legrövidebb időtartama: 5 év |
+| 15. | Izland/ Ísland | Geislalækningar | Barna- og unglingageðlækningar |
 
-|  |  | 630. | Belgium | – |
+| 16. | Lengyelország/Polska |  | Psychiatria dzieci i młodzieży |
 
-|  |  | 631. | Bulgária | Детска хирургия |
+| 17. | Lettország/Latvija |  | Bērnu psihiatrija |
 
-|  |  | 632. | Cseh Köztársaság | Dětská chirurgie |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | - | Kinder- und Jugendpsychiatrie und -psychotherapie |
 
-|  |  | 633. | Dánia | – |
+| 19. | Litvánia/Lietuva |  | Vaikų ir paauglių psichiatrija |
 
-|  |  | 634. | Németország | Kinderchirurgie |
+| 20. | Luxemburg/Luxembourg | Électroradiologie (4) | Psychiatrie infantile |
 
-|  |  | 635. | Észtország | Lastekirurgia |
+| 21. | Magyarország | Radiológia | Gyermek- és ifjúsági pszichiátria Gyermek- és ifjúságpszichiátria |
 
-|  |  | 636. | Görögország | Χειρουργικη Παίδων |
+| 22. | Málta/Malta |  |  |
 
-|  |  | 637. | Spanyolország | Cirugía pediátrica |
+| 23. | Németország/Deutschland | Radiologie | Kinder - und Jugendpsychiatrie und - psychotherapie |
 
-|  |  | 638. | Franciaország | Chirurgie infantile |
+| 24. | Norvégia/Norge | - | Barne- og ungdomspsykiatri |
 
-|  |  | 639. | Horvátország | Dječja kirurgija |
+| 25. | Olaszország/Italia | Radiologia (3) | Neuropsichiatria infantile |
 
-|  |  | 640. | Írország | Paediatric surgery |
+| 26. | Portugália/Portugal | Radiologia | Psiquiatria da infância e da adolescência |
 
-|  |  | 641. | Izland | Barnaskurðlkæningar |
+| 27. | Románia/România |  | Psihiatrie pediatrică |
 
-|  |  | 642. | Olaszország | Chirurgia pediatrica |
+| 28. | Spanyolország/España | Electroradiología (1) |  |
 
-|  |  | 643. | Ciprus | Χειρουργικη Παiων |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | - | Psychiatrie et psychothérapie d’enfants et d’adolescents Kinder- und Jugendpsychiatrie und -psychotherapie Psichiatria e psicoterapia infantile e dell’adolescenza |
 
-|  |  | 644. | Lettország | Bērnu ķirurģija |
+| 30. | Svédország/Sverige |  | Barn- och ungdomspsykiatri |
 
-|  |  | 645. | Liechtenstein | Kinderchirurgie |
+| 31. | Szlovákia/Slovensko |  | Detská psychiatria |
 
-|  |  | 646. | Litvánia | Vaikų chirurgija |
+| 32. | Szlovénia/Slovenija | Radiologija | Otroška in mladostniška psihiatrija |
 
-|  |  | 647. | Luxemburg | Chirurgie pédiatrique |
+|  | A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: (1) 1984. február 1. (2) 1971. december 3. (3) 1993. október 31. (4) Szakmai képesítés megszerzését tanúsító okiratot nem adnak ki az 1982. március 5. után megkezdett képzések esetében. (5) 1984. július 8. (6) 2004. március 31. (7) 1991. január 1. (8) 2015. júniustól. |
 
-|  |  | 648. | Magyarország | Gyermeksebészet |
+## 18. Geriátria és Nefrológia
 
-|  |  | 649. | Málta | Kirurgija Pedjatrika |
+|  | A. | B. | C. |
 
-|  |  | 650. | Hollandia | – |
+|  |  | Geriátria | Nefrológia |
 
-|  |  | 651. | Norvégia | Barnekirurgi |
+|  |  | Minimális képzési idő: 4 év | Minimális képzési idő: 4 év |
 
-|  |  | 652. | Ausztria | Kinder- und Jugendchirurgie |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 653. | Lengyelország | Chirurgia dziecieca |
+| 1. | Ausztria/Österreich |  | Innere Medizin und Nephrologie |
 
-|  |  | 654. | Portugália | Cirurgia pediátrica |
+| 2. | Belgium/ België/Belgique/ Belgien | Gériatrie/Geriatrie |  |
 
-|  |  | 655. | Románia | Chirurgie pediatrică |
+| 3. | Bulgária/България | Гериатрична медицина | Нефрология |
 
-|  |  | 656. | Szlovénia | – |
+| 4. | Ciprus/Κύπρος | Γηριατρική | Νεφρολογία |
 
-|  |  | 657. | Szlovákia | Detská chirurgia |
+| 5. | Cseh Köztársaság/ Česká Republika | Geriatrie | Nefrologie |
 
-|  |  | 658. | Finnország | Lastenkirurgia/Barnkirurgi |
+| 6. | Dánia/ Danmark | Intern medicin: geriatric | Intern medicin: nefrologi |
 
-|  |  | 659. | Svédország | Barn- och ungdomskirurgi |
+| 7. | Egyesült Királyság/United Kingdom | Geriatric medicine | Renal medicine |
 
-|  |  | 660. | Svájc | Chirurgie pédiatrique Kinderchirurgie Chirurgia pediatrica |
+| 8. | Észtország/Eesti |  | Nefroloogia |
 
-|  |  | 661. | Egyesült Királyság | Paediatric surgery |
+| 9. | Finnország/Suomi/Finland | Geriatria/Geriatri | Nefrologia/Nefrologi |
 
-|  |  | 662. | Idegsebészet A képzés legrövidebb időtartama: 5 év |
+| 10. | Franciaország/France |  | Néphrologie |
 
-|  |  | 663. | Belgium | Neurochirurgie |
+| 11. | Görögország/Ελλάς |  | Νεφρολογία |
 
-|  |  | 664. | Bulgária | Неврохирургия |
+| 12. | Hollandia/Nederland | Klinische geriatrie |  |
 
-|  |  | 665. | Cseh Köztársaság | Neurochirurgie |
+| 13. | Horvátország/Hrvatska | Gerijatrija | Nefrologija |
 
-|  |  | 666. | Dánia | Neurokirurgi |
+| 14. | Írország/Ireland | Geriatric medicine | Nephrology |
 
-|  |  | 667. | Németország | Neurochirurgie |
+| 15. | Izland/ Ísland | Öldrunarlækningar | Nýrnalækningar |
 
-|  |  | 668. | Észtország | Neurokirurgia |
+| 16. | Lengyelország/Polska | Geriatria | Nefrologia |
 
-|  |  | 669. | Görögország | Νευροχειρουργικη |
+| 17. | Lettország/Latvija |  | Nefroloģija |
 
-|  |  | 670. | Spanyolország | Neurocirugía |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Geriatrie | Nephrologie |
 
-|  |  | 671. | Franciaország | Neurochirurgie |
+| 19. | Litvánia/Lietuva | Geriatrija | Nefrologija |
 
-|  |  | 672. | Horvátország | Neurokirurgija |
+| 20. | Luxemburg/Luxembourg | Gériatrie | Néphrologie |
 
-|  |  | 673. | Írország | Neurosurgery |
+| 21. | Magyarország | Geriátria | Nefrológia |
 
-|  |  | 674. | Izland | Taugaskurðlækningar |
+| 22. | Málta/Malta | Ġerjatrija | Nefroloġija |
 
-|  |  | 675. | Olaszország | Neurochirurgia |
+| 23. | Németország/Deutschland |  | - Innere Medizin und Schwerpunkt Nephrologie - Innere Medizin und Nephrologie (1) |
 
-|  |  | 676. | Ciprus | Νευροχειρουργικη |
+| 24. | Norvégia/Norge | Geriatri | Nyresykdommer |
 
-|  |  | 677. | Lettország | Neiroķirurģija |
+| 25. | Olaszország/Italia | Geriatria | Nefrologia |
 
-|  |  | 678. | Liechtenstein | Neurochirurgie |
+| 26. | Portugália/Portugal |  | Nefrologia |
 
-|  |  | 679. | Litvánia | Neurochirurgija |
+| 27. | Románia/România | Geriatrie şi gerontologie | Nefrologie |
 
-|  |  | 680. | Luxemburg | Neurochirurgie |
+| 28. | Spanyolország/España | Geriatría | Nefrología |
 
-|  |  | 681. | Magyarország | Idegsebészet |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | - | Néphrologie Nephrologie Nefrologia |
 
-|  |  | 682. | Málta | Newrokirurgija |
+| 30. | Svédország/Sverige | Geriatrik | Medicinska njursjukdomar (nefrologi) Njurmedicin (2) |
 
-|  |  | 683. | Hollandia | Neurochirurgie |
+| 31. | Szlovákia/Slovensko | Geriatria | Nefrológia |
 
-|  |  | 684. | Norvégia | Nevrokirurgi |
+| 32. | Szlovénia/Slovenija |  | Nefrologija |
 
-|  |  | 685. | Ausztria | Neurochirurgie |
+|  | (1) 2009. októbertől. (2) 2015. májustól. |
 
-|  |  | 686. | Lengyelország | Neurochirurgia |
+## 19. Infektológia és Társadalom-orvostan és szociális orvostan
 
-|  |  | 687. | Portugália | Neurocirurgia |
+|  | A. | B. | C. |
 
-|  |  | 688. | Románia | Neurochirurgie |
+|  |  | Infektológia | Társadalom-orvostan és szociális orvostan |
 
-|  |  | 689. | Szlovénia | Nevrokirurgija |
+|  |  | Minimális képzési idő: 4 év | Minimális képzési idő: 4 év |
 
-|  |  | 690. | Szlovákia | Neurochirurgia |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 691. | Finnország | Neurokirurgia/Neurokirurgi |
+| 1. | Ausztria/Österreich | Innere Medizin und Infektiologie | - Sozialmedizin - Public Health (1) |
 
-|  |  | 692. | Svédország | Neurokirurgi |
+| 2. | Belgium/ België/Belgique/ Belgien |  |  |
 
-|  |  | 693. | Svájc | Neurochirurgie Neurochirurgie Neurochirurgia |
+| 3. | Bulgária/България | Инфекциозни болести | Социална медицина и здравен мениджмънт комунална хигиена |
 
-|  |  | 694. | Egyesült Királyság | Neurosurgery |
+| 4. | Ciprus/Κύπρος | Λοιμώδη Νοσήματα (3) | – Υγειονολογία – Κοινοτική Ιατρική |
 
-|  |  | 695. | Immunológia A képzés legrövidebb időtartama: 4 év |
+| 5. | Cseh Köztársaság/ Česká Republika | Infekční lékařství | Hygiena a epidemiologie |
 
-|  |  | 696. | Belgium | – |
+| 6. | Dánia/ Danmark | Intern medicin: infektionsmedicin | Samfundsmedicin |
 
-|  |  | 697. | Bulgária | Клинична имунология |
+| 8. | Egyesült Királyság/United Kingdom | Infectious diseases | Public health medicine |
 
-|  |  | 698. | Cseh Köztársaság | Alergologie a klinická imunologie |
+| 9. | Észtország/Eesti | Infektsioonhaigused |  |
 
-|  |  | 699. | Dánia | Klinisk immunologi |
+| 10. | Finnország/Suomi/Finland | Infektiosairaudet/Infektionssjukdomar | Terveydenhuolto/Hälsovård |
 
-|  |  | 700. | Németország | – |
+| 11. | Franciaország/France |  | Santé publique et médecine sociale |
 
-|  |  | 701. | Észtország | – |
+| 12. | Görögország/Ελλάς |  | Κοινωνική Iατρική |
 
-|  |  | 702. | Görögország | – |
+| 13. | Hollandia/Nederland |  | Maatschappij en gezondheid |
 
-|  |  | 703. | Spanyolország | Immunologia |
+| 14. | Horvátország/Hrvatska | Infektologija | Javnozdravstvena medicina |
 
-|  |  | 704. | Franciaország | – |
+| 15. | Írország/Ireland | Infectious diseases | Public health medicine |
 
-|  |  | 705. | Horvátország | Alergologija i klinička imunologija |
+| 16 | Izland/ Ísland | Smitsjúkdómar | Félagslækningar |
 
-|  |  | 706. | Írország | Immunology (clinical and laboratory) |
+| 17. | Lengyelország/Polska | Choroby zakaźne | Zdrowie publiczne, epidemiologia (1) |
 
-|  |  | 707. | Izland | Ónæmisfræði |
+| 18. | Lettország/Latvija | Infektoloģija |  |
 
-|  |  | 708. | Olaszország | – |
+| 19. | Liechtenstein/ Fürstentum Liechtenstein | Infektiologie | Prävention und Gesundheitswesen |
 
-|  |  | 709. | Ciprus | Aνοσολογία |
+| 20. | Litvánia/Lietuva | Infektoloģija |  |
 
-|  |  | 710. | Lettország | Imunoloģija |
+| 21. | Luxemburg/Luxembourg | Maladies contagieuses | Santé publique |
 
-|  |  | 711. | Liechtenstein | Allergologie und klinische Immunologie |
+| 22. | Magyarország | Infektológia | Megelőző orvostan és népegészségtan |
 
-|  |  | 712. | Litvánia | – |
+| 23. | Málta/Malta | Mard Infettiv | Saħħa Pubblika |
 
-|  |  | 713. | Luxemburg | Immunologie |
+| 24. | Németország/Deutschland |  | Öffentliches Gesundheitswesen |
 
-|  |  | 714. | Magyarország | Allergológia és klinikai immunológia |
+| 25. | Norvégia/Norge | Infeksjonssykdommer | Samfunnsmedisin |
 
-|  |  | 715. | Málta | Immunologija |
+| 26. | Olaszország/ Italia | Malattie infettive Malattie infettive e tropicali (2) | Igiene e medicina preventiva |
 
-|  |  | 716. | Hollandia | – |
+| 27. | Portugália/Portugal | Doenças infecciosas | Saúde pública |
 
-|  |  | 717. | Norvégia | Immunologi og transfusjonsmedisin |
+| 28. | Románia/România | Boli infecţioase | publică şi management |
 
-|  |  | 718. | Ausztria | Immunologie/ Klinische Immunologie (2015. júniustól) |
+| 29. | Spanyolország/España |  | Medicina preventiva y salud pública |
 
-|  |  | 719. | Lengyelország | Immunologia kliniczna |
+| 30. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Infektiologie Infectiologie Malattie infettive | Prévention et santé publique Prevention und Gesundheitswesen Prevenzione e salute pubblica |
 
-|  |  | 720. | Portugália | – |
+| 31. | Svédország/Sverige | Infektionssjukdomar | Socialmedicin |
 
-|  |  | 721. | Románia | – |
+|  | Szlovákia/Slovensko | Infektológia | Verejné zdravotníctvo |
 
-|  |  | 722. | Szlovénia | – |
+| 32. | Szlovénia/Slovenija | Infektologija | Javno zdravje |
 
-|  |  | 723. | Szlovákia | Klinická imunológia a alergológia |
+|  | (1) 2015. júniustól. (2) 2015. februártól. (3) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 2016. december 8. |
 
-|  |  | 724. | Finnország | – |
+## 20. Farmakológia és foglalkozás-orvostan
 
-|  |  | 725. | Svédország | Klinisk immunologi |
+|  | A. | B. | C. |
 
-|  |  | 726. | Svájc | – |
+|  |  | Farmakológia | Foglalkozás-orvostan |
 
-|  |  | 727. | Egyesült Királyság | Immunology |
+|  |  | Minimális képzési idő: 4 év | Minimális képzési idő: 4 év |
 
-|  |  | 728. | Infektológia A képzés legrövidebb időtartama: 4 év |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 729. | Belgium | – |
+| 1. | Ausztria/Österreich | Pharmakologie und Toxikologie | - Arbeitsmedizin - Arbeitsmedizin und angewandte Physiologie (1) |
 
-|  |  | 730. | Bulgária | Инфекциозни болести |
+| 2. | Belgium/ België/Belgique/ Belgien |  | Médecine du travail/Arbeidsgeneeskunde |
 
-|  |  | 731. | Cseh Köztársaság | Infekční lékařství |
+| 3. | Bulgária/България | Клинична фармакология и терапия Фармакология | Трудова медицина |
 
-|  |  | 732. | Dánia | Intern medicin: Infektionsmedicin |
+| 4. | Ciprus/Κύπρος |  | Ιατρική της Εργασίας |
 
-|  |  | 733. | Németország | – |
+| 5. | Cseh Köztársaság/ Česká Republika | Klinická farmakologie | Pracovní lékařství |
 
-|  |  | 734. | Észtország | Infektsioonhaigused |
+| 6. | Dánia/ Danmark | Klinisk farmakologi | Arbejdsmedicin |
 
-|  |  | 735. | Görögország | – |
+| 7. | Egyesült Királyság/United Kingdom | Clinical pharmacology and therapeutics | Occupational medicine |
 
-|  |  | 736. | Spanyolország | – |
+| 8. | Észtország/Eesti |  |  |
 
-|  |  | 737. | Franciaország | – |
+| 9. | Finnország/Suomi/Finland | Kliininen farmakologia ja lääkehoito/Klinisk farmakologi och läkemedelsbehandling | Työterveyshuolto/Företagshälsovård |
 
-|  |  | 738. | Horvátország | Infektologija |
+| 10. | Franciaország/France |  | Médecine du travail |
 
-|  |  | 739. | Írország | Infectious diseases |
+| 11. | Görögország/Ελλάς |  | Ιατρική της Εργασίας |
 
-|  |  | 740. | Izland | Smitsjúkdómar |
+| 12. | Hollandia/Nederland |  | - Arbeid en gezondheid, bedrijfsgenees-kunde - Arbeid en gezondheid, verzekeringsge-neeskunde |
 
-|  |  | 741. | Olaszország | Malattie infettive |
+| 13. | Horvátország/Hrvatska | Klinička farmakologija s toksikologijom | Medicina rada i športa |
 
-|  |  | 742. | Ciprus | Λοιμώδη Nοσήματα |
+| 14. | Írország/Ireland | Clinical pharmacology and therapeutics Pharmaceutical Medicine (4) | Occupational medicine |
 
-|  |  | 743. | Lettország | Infektoloģija |
+| 15. | Izland/ Ísland | Lyfjafræði | Atvinnulaekningar |
 
-|  |  | 744. | Liechtenstein | Infektiologie |
+| 16. | Lengyelország/Polska | Farmakologia kliniczna | Medycyna pracy |
 
-|  |  | 745. | Litvánia | Infektologija |
+| 17. | Lettország/Latvija |  | Arodslimības |
 
-|  |  | 746. | Luxemburg | Maladies contagieuses |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Klinische Pharmakologie und Toxikologie | Arbeitsmedizin |
 
-|  |  | 747. | Magyarország | Infektológia |
+| 19. | Litvánia/Lietuva |  | Darbo medicina |
 
-|  |  | 748. | Málta | Mard Infettiv |
+| 20. | Luxemburg/Luxembourg |  | Médecine du travail |
 
-|  |  | 749. | Hollandia | – |
+| 21. | Magyarország | Klinikai farmakológia | Foglalkozás-orvostan (üzemorvostan) Foglalkozás-orvostan |
 
-|  |  | 750. | Norvégia | Infeksjonssykdommer |
+| 22. | Málta/Malta | Farmakoloġija Klinika u t-Terapewtika | Mediċina Okkupazzjonali |
 
-|  |  | 751. | Ausztria | Innere Medizin und Infektiologie |
+| 23. | Németország/Deutschland | Pharmakologie und Toxikologie | Arbeitsmedizin |
 
-|  |  | 752. | Lengyelország | Choroby zakaźne |
+| 24. | Norvégia/Norge | Klinisk farmakologi | Arbeidsmedisin |
 
-|  |  | 753. | Portugália | Doenças infecciosas |
+| 25. | Olaszország/ Italia | Farmacologia Farmacologia e tossicologia clinica (2) | Medicina del lavoro |
 
-|  |  | 754. | Románia | Boli infecţioase |
+| 26. | Portugália/Portugal |  | Medicina do trabalho |
 
-|  |  | 755. | Szlovénia | Infektologija |
+| 27. | Románia/România | Farmacologie clinică | Medicina muncii |
 
-|  |  | 756. | Szlovákia | Infektológia |
+| 28. | Spanyolország/España | Farmacología clínica | Medicina del trabajo |
 
-|  |  | 757. | Finnország | Infektiosairaudet/ Infektionssjukdomar |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Pharmacologie et toxicologie cliniques | Médecine du travail Arbeitsmedizin Medicina del lavoro |
 
-|  |  | 758. | Svédország | Infektionssjukdomar |
+| 30. | Svédország/Sverige | Klinisk farmakologi | Yrkes- och miljömedicin Arbets- och miljömedicin (3) |
 
-|  |  | 759. | Svájc | Infektiologie Infectiologie Malattie infettive |
+| 31. | Szlovákia/Slovensko | Klinická farmakológia | Pracovné lekárstvo |
 
-|  |  | 760. | Egyesült Királyság | Infectious diseases |
+| 32. | Szlovénia/Slovenija |  | Medicina dela, prometa in športa |
 
-|  |  | 761. | Kardiológia A képzés legrövidebb időtartama: 4 év |
+|  | (1) 2015. júniustól. (2) 2015. februártól. (3) 2008. szeptembertől. (4) 2017. júliustól. |
 
-|  |  | 762. | Belgium | Cardiologie |
+## 21. Allergológia és Nukleáris medicina
 
-|  |  | 763. | Bulgária | Кардиология |
+|  | A. | B. | C. |
 
-|  |  | 764. | Cseh Köztársaság | Kardiologie |
+|  |  | Allergológia | Nukleáris medicina |
 
-|  |  | 765. | Dánia | Intern medicin: Kardiologi |
+|  |  | Minimális képzési idő: 3 év | Minimális képzési idő: 4 év |
 
-|  |  | 766. | Németország | Innere Medizin und Schwerpunkt Kardiologie/ Innere Medizin und Kardiologie (2009. októbertől) |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 767. | Észtország | Kardioloogia |
+| 1. | Ausztria/Österreich |  | Nuklearmedizin |
 
-|  |  | 768. | Görögország | Καρδιολογία |
+| 2. | Belgium/ België/Belgique/ Belgien |  | Médecine nucléaire/Nucleaire geneeskunde |
 
-|  |  | 769. | Spanyolország | Cardiología |
+| 3. | Bulgária/България | Клинична алергология | Нуклеарна медицина |
 
-|  |  | 770. | Franciaország | Cardiologie et maladies vasculaires |
+| 4. | Ciprus/Κύπρος | Αλλεργιολογία | Πυρηνική Ιατρική |
 
-|  |  | 771. | Horvátország | Kardiologija |
+| 5. | Cseh Köztársaság/ Česká Republika | Alergologie a klinická imunologie | Nukleární medicína |
 
-|  |  | 772. | Írország | Cardiology |
+| 6. | Dánia/ Danmark |  | Klinisk fysiologi og nuklearmedicin |
 
-|  |  | 773. | Izland | Hjartalaekningar |
+| 7. | Egyesült Királyság/United Kingdom |  | Nuclear medicine |
 
-|  |  | 774. | Olaszország | Malattie dell’apparato cardiovascolare |
+| 8. | Észtország/Eesti |  |  |
 
-|  |  | 775. | Ciprus | Καρδιολογία |
+| 9. | Finnország/Suomi/Finland |  | Kliininen fysiologia ja isotooppilääketiede/ Klinisk fysiologi och nukleärmedicin |
 
-|  |  | 776. | Lettország | Kardioloģija |
+| 10. | Franciaország/France |  | Médecine nucléaire |
 
-|  |  | 777. | Liechtenstein | Kardiologie |
+| 11. | Görögország/Ελλάς | Αλλεργιολογία | Πυρηνική Ιατρική |
 
-|  |  | 778. | Litvánia | Kardiologija |
+| 12. | Hollandia/Nederland | Allergologie (1) | Nucleaire geneeskunde |
 
-|  |  | 779. | Luxemburg | Cardiologie et angiologie |
+| 13. | Horvátország/Hrvatska | Alergologija i klinička imunologija | Nuklearna medicina |
 
-|  |  | 780. | Magyarország | Kardiológia |
+| 14. | Írország/Ireland |  |  |
 
-|  |  | 781. | Málta | Kardjologija |
+| 15. | Izland/ Ísland | Ofnæmislaekningar | Ísótópagreining |
 
-|  |  | 782. | Hollandia | Cardiologie |
+| 16. | Lengyelország/Polska | Alergologia | Medycyna nuklearna |
 
-|  |  | 783. | Norvégia | Hjertesykdommer |
+| 17. | Lettország/Latvija | Alergoloģija |  |
 
-|  |  | 784. | Ausztria | Innere Medizin und Kardiologie |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Allergologie und klinische Immunologie | Nuklearmedizin |
 
-|  |  | 785. | Lengyelország | Kardiologia |
+| 19. | Litvánia/Lietuva | Alergologija ir klinikinė imunologija |  |
 
-|  |  | 786. | Portugália | Cardiologia |
+| 20. | Luxemburg/Luxembourg |  | Médecine nucléaire |
 
-|  |  | 787. | Románia | Cardiologie |
+| 21. | Magyarország | Allergológia és klinikai immunológia | Nukleáris medicina |
 
-|  |  | 788. | Szlovénia | Kardiologija in vaskularna medicina |
+| 22. | Málta/Malta |  | Mediċina Nukleari |
 
-|  |  | 789. | Szlovákia | Kardiológia |
+| 23. | Németország/Deutschland |  | Nuklearmedizin |
 
-|  |  | 790. | Finnország | Kardiologia/Kardiologi |
+| 24. | Norvégia/Norge | - | Nukleærmedisin |
 
-|  |  | 791. | Svédország | Kardiologi |
+| 25. | Olaszország/Italia | Allergologia ed immunologia clinica | Medicina nucleare |
 
-|  |  | 792. | Svájc | Cardiologie Kardiologie Cardiologia |
+| 26. | Portugália/Portugal | Imuno-alergologia | Medicina nuclear |
 
-|  |  | 793. | Egyesült Királyság | Cardiology |
+| 27. | Románia/România | Alergologie şi imunologie clinică | Medicină nucleară |
 
-|  |  | 794. | Klinikai biológia A képzés legrövidebb időtartama: 4 év |
+| 28. | Spanyolország/España | Alergología | Medicina nuclear |
 
-|  |  | 795. | Belgium | Biologie clinique/Klinische biologie |
+| 39. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Allergologie et immunologie clinique Allergologie und klinische Immunologie Allergologia e immunológia clinica | Nuklearmedizin Médecine nucléaire Medicina nucleare |
 
-|  |  | 796. | Bulgária | Клинична лаборатория |
+| 30. | Svédország/Sverige | Allergisjukdomar | Nukleärmedicin Nuklearmedicin (2) |
 
-|  |  | 797. | Cseh Köztársaság | – |
+| 31. | Szlovákia/Slovensko | Klinická imunológia a alergológia | Nukleárna medicína |
 
-|  |  | 798. | Dánia | – |
+| 32. | Szlovénia/Slovenija |  | Nuklearna medicina |
 
-|  |  | 799. | Németország | Laboratoriumsmedizin (2012-től) |
+|  | (1) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1996. augusztus 12. (2) 2008. szeptembertől. |
 
-|  |  | 800. | Észtország | Laborimeditsiin |
+## 22. Arc-és állkapocs-sebészet (orvosi alapképzés) és Haematológia
 
-|  |  | 801. | Görögország | – |
+|  | A. | B. | C. |
 
-|  |  | 802. | Spanyolország | Análisis clínicos |
+|  |  | Arc- és állkapocs-sebészet (orvosi alapképzés) | Haematológia |
 
-|  |  | 803. | Franciaország | Biologie médicale |
+|  |  | Minimális képzési idő: 5 év | Minimális képzési idő: 4 év |
 
-|  |  | 804. | Horvátország | – |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 805. | Írország | – |
+| 1. | Ausztria/Österreich | Mund- Kiefer - und Gesichtschirurgie (2) |  |
 
-|  |  | 806. | Izland | – |
+| 2. | Belgium/ België/Belgique/ Belgien |  |  |
 
-|  |  | 807. | Olaszország | Patologia clinica |
+| 3. | Bulgária/България | Лицево-челюстна хирургия | Трансфузионна хематология |
 
-|  |  | 808. | Ciprus | – |
+| 4. | Ciprus/Κύπρος |  |  |
 
-|  |  | 809. | Lettország | – |
+| 5. | Cseh Köztársaság/ Česká Republika | Maxilofaciální chirurgie |  |
 
-|  |  | 810. | Liechtenstein | – |
+| 6. | Dánia/ Danmark |  |  |
 
-|  |  | 811. | Litvánia | Laboratorinė medicina |
+| 7. | Egyesült Királyság/United Kingdom |  |  |
 
-|  |  | 812. | Luxemburg | Biologie clinique |
+| 8. | Észtország/Eesti |  |  |
 
-|  |  | 813. | Magyarország | Orvosi laboratóriumi diagnosztika |
+| 9. | Finnország/Suomi/Finland |  |  |
 
-|  |  | 814. | Málta | – |
+| 10. | Franciaország/France | Chirurgie maxillo-faciale et stomatologie | Hématologie |
 
-|  |  | 815. | Hollandia | – |
+| 11. | Görögország/Ελλάς |  |  |
 
-|  |  | 816. | Norvégia | – |
+| 12. | Hollandia/Nederland |  |  |
 
-|  |  | 817. | Ausztria | Medizinische Biologie |
+| 13. | Horvátország/Hrvatska | Maksilofacijalna kirurgija |  |
 
-|  |  | 818. | Lengyelország | Diagnostyka laboratoryjna |
+| 14. | Írország/Ireland |  |  |
 
-|  |  | 819. | Portugália | Patologia clínica |
+| 15. | Izland/ Ísland | - | Blóðmeinafræði |
 
-|  |  | 820. | Románia | Medicină de laborator |
+| 16. | Lengyelország/Polska | Chirurgia szczekowo-twarzowa |  |
 
-|  |  | 821. | Szlovénia | – |
+| 17. | Lettország/Latvija | Mutes, sejas un žokļu ķirurģija |  |
 
-|  |  | 822. | Szlovákia | Laboratórna medicína |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | Kiefer- und Gesichtschirurgie | Hämatologie |
 
-|  |  | 823. | Finnország | – |
+| 19. | Litvánia/Lietuva | Veido ir žandikaulių chirurgija |  |
 
-|  |  | 824. | Svédország | – |
+| 20. | Luxemburg/Luxembourg | Chirurgie maxillo-faciale | Hématologie biologique |
 
-|  |  | 825. | Svájc | – |
+| 21. | Magyarország | Arc-, állcsont- és szájsebészet (1) | Haematológia |
 
-|  |  | 826. | Egyesült Királyság | – |
+| 22. | Málta/Malta |  |  |
 
-|  |  | 827. | Mellkassebészet A képzés legrövidebb időtartama: 5 év |
+| 23. | Németország/Deutschland |  |  |
 
-|  |  | 828. | Belgium | Chirurgie thoracique/Heelkunde op de thorax (hatályon kívül helyezés időpontja 1983. január 1.) |
+| 24. | Norvégia/Norge | Kjevekirurgi og munnhulesykdommer | Blodsykdommer |
 
-|  |  | 829. | Bulgária | Гръдна хирургия Кардиохирургия |
+| 25. | Italia | Chirurgia maxillo-facciale |  |
 
-|  |  | 830. | Cseh Köztársaság | Hrudní chirurgie |
+| 26. | Portugália/Portugal | Cirurgia maxilo-facial | Hematologia clinica |
 
-|  |  | 831. | Dánia | Thoraxkirurgi |
+| 27. | Románia/România |  |  |
 
-|  |  | 832. | Németország | Thoraxchirurgie |
+| 28. | Spanyolország/España | Cirugía oral y maxilofacial |  |
 
-|  |  | 833. | Észtország | Torakaalkirurgia |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Mund-, Kiefer- und Gesichtschirurgie Chirurgie orale et maxillo-faciale Chirurgia oro-maxillo-facciale | Hématologie Hämatologie Ematologia |
 
-|  |  | 834. | Görögország | Χειρουργική Θώρακος |
+| 30 | Svédország/Sverige |  |  |
 
-|  |  | 835. | Spanyolország | Cirugía torácica/ Cirugía cardiovascular |
+| 31. | Szlovákia/Slovensko | Maxilofaciálna chirurgia |  |
 
-|  |  | 836. | Franciaország | Chirurgie thoracique et cardiovasculaire |
+| 32. | Szlovénia/Slovenija | Maxilofacialna kirurgija |  |
 
-|  |  | 837. | Horvátország | – |
+|  | A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: (1) 2007. szeptember 30. (2) 2013. február 28. |
 
-|  |  | 838. | Írország | Cardiothoracic surgery |
+## 23. Sztomatológia és Bőrgyógyászat
 
-|  |  | 839. | Izland | Brjóstholsskurðlækningar |
+|  | A. | B. | C. |
 
-|  |  | 840. | Olaszország | Chirurgia toracica/ Cardiochirurgia |
+|  |  | Sztomatológia | Bőrgyógyászat |
 
-|  |  | 841. | Ciprus | Χειρουργική Θώρακος |
+|  |  | Minimális képzési idő: 3 év | Minimális képzési idő: 4 év |
 
-|  |  | 842. | Lettország | Torakālā ķirurģija |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 843. | Liechtenstein | Herz- und thorakale Gefässchirurgie |
+| 1. | Ausztria/Österreich |  |  |
 
-|  |  | 844. | Litvánia | Krūtinės chirurgija |
+| 2. | Belgium/ België/Belgique/ Belgien |  |  |
 
-|  |  | 845. | Luxemburg | Chirurgie thoracique |
+| 3. | Bulgária/България |  |  |
 
-|  |  | 846. | Magyarország | Mellkassebészet |
+| 4. | Ciprus/Κύπρος |  |  |
 
-|  |  | 847. | Málta | Kirurgija Kardjo-Toracika |
+| 5. | Cseh Köztársaság/ Česká Republika |  |  |
 
-|  |  | 848. | Hollandia | Cardio-thoracale chirurgie |
+| 6. | Dánia/ Danmark |  |  |
 
-|  |  | 849. | Norvégia | Thoraxkirurgi |
+| 7. | Egyesült Királyság/United Kingdom |  | Dermatology |
 
-|  |  | 850. | Ausztria | Thoraxchirurgie |
+| 8. | Észtország/Eesti |  |  |
 
-|  |  | 851. | Lengyelország | Chirurgia klatki piersiowej |
+| 9. | Finnország/Suomi/Finland |  |  |
 
-|  |  | 852. | Portugália | Cirurgia cardiotorácica |
+| 10. | Franciaország/France | Stomatologie |  |
 
-|  |  | 853. | Románia | Chirurgie toracică |
+| 11. | Görögország/Ελλάς |  |  |
 
-|  |  | 854. | Szlovénia | Torakalna kirurgija |
+| 12. | Hollandia/Nederland |  |  |
 
-|  |  | 855. | Szlovákia | Hrudníková chirurgia |
+| 13. | Horvátország/Hrvatska |  |  |
 
-|  |  | 856. | Finnország | Sydän-ja rintaelinkirurgia/Hjärt och thoraxkirurgi |
+| 14. | Írország/Ireland |  | Dermatology |
 
-|  |  | 857. | Svédország | Thoraxkirurgi |
+| 15. | Izland/ Ísland |  | Húð- og kynsjúkdómalaekningar |
 
-|  |  | 858. | Svájc | Chirurgie cardiaque et vasculaire thoracique Herz- und thorakale Gefässchirurgie Chirurgia del cuore e dei vasi toracici |
+| 16. | Lengyelország/Polska |  |  |
 
-|  |  | 859. | Egyesült Királyság | Cardo-thoracic surgery |
+| 17. | Lettország/Latvija |  |  |
 
-|  |  | 860. | Mikrobiológia és bakteriológia A képzés legrövidebb időtartama: 4 év |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | - | Dermatologie und Venereologie |
 
-|  |  | 861. | Belgium | – |
+| 19. | Litvánia/Lietuva |  |  |
 
-|  |  | 862. | Bulgária | Микробиология |
+| 20. | Luxemburg/Luxembourg | Stomatologie |  |
 
-|  |  | 863. | Cseh Köztársaság | Lékařská mikrobiologie |
+| 21. | Magyarország |  | Bőrgyógyászat |
 
-|  |  | 864. | Dánia | Klinisk mikrobiologi |
+| 22. | Málta/Malta |  | Dermatoloġija |
 
-|  |  | 865. | Németország | Mikrobiologie (Virologie) und Infektionsepidemiologie/ Mikrobiologie, Virologie und Infektionsepidemiologie (2006. májustól) |
+| 23. | Németország/Deutschland |  |  |
 
-|  |  | 866. | Észtország | – |
+| 24. | Norvégia/Norge | Bevis for gjennomgatt spesialistutdanning i Kjeveortopedi (Fogszabályozó szakfogorvosi képzés elvégzését bizonyító oklevél) | Hudsykdommer og veneriske sykdommer |
 
-|  |  | 867. | Görögország | Ιατρική Βιοπαθολογία /Μικροβιολογία |
+| 25. | Olaszország/ Italia | Odontostomatologia (1) |  |
 
-|  |  | 868. | Spanyolország | Microbiología y parasitología |
+| 26. | Portugália/Portugal | Estomatologia |  |
 
-|  |  | 869. | Franciaország | – |
+| 27. | Románia/România |  |  |
 
-|  |  | 870. | Horvátország | Klinička mikrobiologija |
+| 28. | Spanyolország/España | Estomatología |  |
 
-|  |  | 871. | Írország | Microbiology |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra | Diplom für Kieferorthopädie Diplőme fédéral d’orthodontiste Diploma di ortodontista | Dermatologie et vénéréologie Dermatologie und Venerologie Dermatologia e venerologia |
 
-|  |  | 872. | Izland | Sýklafræði |
+| 30. | Svédország/Sverige |  |  |
 
-|  |  | 873. | Olaszország | Microbiologia e virologia |
+| 31. | Szlovákia/Slovensko |  |  |
 
-|  |  | 874. | Ciprus | Μικροβιολογία |
+| 32. | Szlovénia/Slovenija |  |  |
 
-|  |  | 875. | Lettország | Mikrobiologija |
+|  | (1) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1994. december 31. |
 
-|  |  | 876. | Liechtenstein | – |
+## 24. Nemi betegségek és Trópusi betegségek
 
-|  |  | 877. | Litvánia | – |
+|  | A. | B. | C. |
 
-|  |  | 878. | Luxemburg | Microbiologie |
+|  |  | Nemi betegségek | Trópusi betegségek |
 
-|  |  | 879. | Magyarország | Orvosi mikrobiológia |
+|  |  | Minimális képzési idő: 4 év | Minimális képzési idő: 4 év |
 
-|  |  | 880. | Málta | Mikrobijologija |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 881. | Hollandia | Medische microbiologie |
+| 1. | Ausztria/Österreich |  | - Spezifische Prophylaxe und Tropenmedizin - Klinische Immunologie und Spezifische Prophylaxe und Tropenmedizin (1) |
 
-|  |  | 882. | Norvégia | Medisinsk mikrobiologi |
+| 2. | Belgium/België/Belgique/ Belgien |  |  |
 
-|  |  | 883. | Ausztria | Hygiene und Mikrobiologie/ Klinische Mikrobiologie und Hygiene (2015. júniustól)/ Klinische Mikrobiologie und Virologie (2015. júniustól) |
+| 3. | Bulgária/България |  |  |
 
-|  |  | 884. | Lengyelország | Mikrobiologia lekarska |
+| 4. | Ciprus/Κύπρος |  |  |
 
-|  |  | 885. | Portugália | – |
+| 5. | Cseh Köztársaság/ Česká Republika |  |  |
 
-|  |  | 886. | Románia | – |
+| 6. | Dánia/ Danmark |  |  |
 
-|  |  | 887. | Szlovénia | Klinična mikrobiologija |
+| 7. | Egyesült Királyság/United Kingdom | Genito-urinary medicine | Tropical medicine |
 
-|  |  | 888. | Szlovákia | Klinická mikrobiológia |
+| 8. | Észtország/Eesti |  |  |
 
-|  |  | 889. | Finnország | Kliininen mikrobiologia/Klinisk mikrobiologi |
+| 9. | Finnország/Suomi/Finland |  |  |
 
-|  |  | 890. | Svédország | Klinisk bakteriologi |
+| 10. | Franciaország/France |  |  |
 
-|  |  | 891. | Svájc | – |
+| 11. | Görögország/Ελλάς |  |  |
 
-|  |  | 892. | Egyesült Királyság | Medical microbiology and virology |
+| 12. | Hollandia/Nederland |  |  |
 
-|  |  | 893. | Nefrológia A képzés legrövidebb időtartama: 4 év |
+| 13. | Horvátország/Hrvatska |  |  |
 
-|  |  | 894. | Belgium | – |
+| 14. | Írország/Ireland | Genito-urinary medicine | Tropical medicine |
 
-|  |  | 895. | Bulgária | Нефрология |
+| 15. | Izland/ Ísland |  | - |
 
-|  |  | 896. | Cseh Köztársaság | Nefrologie |
+| 16. | Lengyelország/Polska |  | Medycyna transportu |
 
-|  |  | 897. | Dánia | Intern medicin: nefrologi |
+| 17. | Lettország/Latvija |  |  |
 
-|  |  | 898. | Németország | Innere Medizin und Schwerpunkt Nephrologie/ Innere Medizin und Nephrologie (2009. októbertől) |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein |  | Tropenmedizin |
 
-|  |  | 899. | Észtország | Nefroloogia |
+| 19. | Litvánia/Lietuva |  |  |
 
-|  |  | 900. | Görögország | Νεψρολογία |
+| 20. | Luxemburg/Luxembourg |  |  |
 
-|  |  | 901. | Spanyolország | Nefrología |
+| 21. | Magyarország |  | Trópusi betegségek |
 
-|  |  | 902. | Franciaország | Néphrologie |
+| 22. | Málta/Malta | Mediċina Uro-ġenetali |  |
 
-|  |  | 903. | Horvátország | Nefrologija |
+| 23. | Németország/Deutschland |  |  |
 
-|  |  | 904. | Írország | Nephrology |
+| 24. | Norvégia/Norge |  | - |
 
-|  |  | 905. | Izland | Nýrnalækningar |
+| 25. | Olaszország/Italia |  | Medicina tropicale (2) |
 
-|  |  | 906. | Olaszország | Nefrologia |
+| 26. | Portugália/Portugal |  | Medicina tropical |
 
-|  |  | 907. | Ciprus | Νεψρολογία |
+| 27. | Románia/România |  |  |
 
-|  |  | 908. | Lettország | Nefroloģija |
+| 28. | Spanyolország/España |  |  |
 
-|  |  | 909. | Liechtenstein | Nephrologie |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra |  | Médecine tropicale et médecine des voyages Tropen- und Reisemedizin Medicina tropicale e medicina di viaggio |
 
-|  |  | 910. | Litvánia | Nefrologija |
+| 30. | Svédország/Sverige |  |  |
 
-|  |  | 911. | Luxemburg | Néphrologie |
+| 31. | Szlovákia/Slovensko |  | Tropická medicína |
 
-|  |  | 912. | Magyarország | Nefrológia |
+| 32. | Szlovénia/Slovenija |  |  |
 
-|  |  | 913. | Málta | Nefrologija |
+|  | (1) 2015. júniustól. (2) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 2015. június 3. |
 
-|  |  | 914. | Hollandia | – |
+## 25. Gasztroenterológiai sebészet és Baleseti és sürgősségi orvostan
 
-|  |  | 915. | Norvégia | Nyresykdommer |
+|  | A. | B. | C. |
 
-|  |  | 916. | Ausztria | Innere Medizin und Nephrologie |
+|  |  | Gasztroenterológiai sebészet | Baleseti és sürgősségi orvostan |
 
-|  |  | 917. | Lengyelország | Nefrologia |
+|  |  | Minimális képzési idő: 5 év | Minimális képzési idő: 5 év |
 
-|  |  | 918. | Portugália | Nefrologia |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 919. | Románia | Nefrologie |
+| 1. | Ausztria/Österreich |  |  |
 
-|  |  | 920. | Szlovénia | Nefrologija |
+| 2. | Belgium/ België/Belgique/ Belgien | Chirurgie abdominale/Heelkunde op het abdomen (1) |  |
 
-|  |  | 921. | Szlovákia | Nefrológia |
+| 3. | Bulgária/България | Гастроентерологичнa хирургия | Спешна медицина |
 
-|  |  | 922. | Finnország | Nefrologia/nefrologi |
+| 4. | Ciprus/Κύπρος |  |  |
 
-|  |  | 923. | Svédország | Medicinska njursjukdomar (nefrologi) |
+| 5. | Cseh Köztársaság/ Česká Republika |  | - Traumatologie - Urgentní medicína |
 
-|  |  | 924. | Svájc | Néphrologie Nephrologie Nefrologia |
+| 6. | Dánia/ Danmark |  |  |
 
-|  |  | 925. | Egyesült Királyság | Renal medicine |
+| 7. | Egyesült Királyság/United Kingdom |  | Emergency medicine |
 
-|  |  | 926. | Neurológia A képzés legrövidebb időtartama: 4 év |
+| 8. | Észtország/Eesti |  |  |
 
-|  |  | 927. | Belgium | Neurologie |
+| 9. | Finnország/Suomi/Finland | Gastroenterologinen kirurgia/Gastroentero-logisk kirurgi | Akuuttilääketiede/Akutmedicin |
 
-|  |  | 928. | Bulgária | Нервни болести |
+| 10. | Franciaország/France | Chirurgie viscérale et digestive |  |
 
-|  |  | 929. | Cseh Köztársaság | Neurologie |
+| 11. | Görögország/Ελλάς |  |  |
 
-|  |  | 930. | Dánia | Neurologi |
+| 12. | Hollandia/Nederland |  |  |
 
-|  |  | 931. | Németország | Neurologie |
+| 13. | Horvátország/Hrvatska | Abdominalna kirurgija | Hitna medicina |
 
-|  |  | 932. | Észtország | Neuroloogia |
+| 14. | Írország/Ireland |  | Emergency medicine |
 
-|  |  | 933. | Görögország | Νευρολογία |
+| 15. | Izland/ Ísland |  |  |
 
-|  |  | 934. | Spanyolország | Neurología |
+| 16. | Lengyelország/Polska |  | Medycyna ratunkowa |
 
-|  |  | 935. | Franciaország | Neurologie |
+| 17. | Lettország/Latvija |  |  |
 
-|  |  | 936. | Horvátország | Neurologija |
+| 18. | Litvánia/Lietuva | Abdominalinė chirurgija |  |
 
-|  |  | 937. | Írország | Neurology |
+| 19. | Liechtenstein/ Fürstentum Liechtenstein |  |  |
 
-|  |  | 938. | Izland | Taugalækningar |
+| 20. | Luxemburg/Luxembourg | Chirurgie gastro-entérologique |  |
 
-|  |  | 939. | Olaszország | Neurologia |
+| 21. | Magyarország |  | Oxyológia és sürgősségi orvostan |
 
-|  |  | 940. | Ciprus | Νευρολογία |
+| 22. | Málta/Malta |  | Mediċina tal-Aċċidenti u l-Emerġenza Mediċina tal-Emerġenza (4) |
 
-|  |  | 941. | Lettország | Neiroloģija |
+| 23. | Németország/Deutschland | Visceralchirurg ie |  |
 
-|  |  | 942. | Liechtenstein | Neurologie |
+| 24. | Norvégia/Norge |  |  |
 
-|  |  | 943. | Litvánia | Neurologija |
+| 25. | Olaszország/ Italia | Chirurgia dell’apparato digerente (3) | Medicina d’emergenza-urgenza (2) |
 
-|  |  | 944. | Luxemburg | Neurologie |
+| 26. | Portugália/Portugal |  |  |
 
-|  |  | 945. | Magyarország | Neurológia |
+| 27. | Románia/România |  | Medicină de urgenţă |
 
-|  |  | 946. | Málta | Newrologija |
+| 28. | Spanyolország/España |  |  |
 
-|  |  | 947. | Hollandia | Neurologie |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra |  |  |
 
-|  |  | 948. | Norvégia | Nevrologi |
+| 30. | Svédország/Sverige |  | Akutsjukvård |
 
-|  |  | 949. | Ausztria | Neurologie |
+| 31. | Szlovákia/Slovensko | Gastroenterologická chirurgia | - Ůrazová chirurgia - Urgentná medicína |
 
-|  |  | 950. | Lengyelország | Neurologia |
+| 32. | Szlovénia/Slovenija | Abdominalna kirurgija | Urgentna medicina |
 
-|  |  | 951. | Portugália | Neurologia |
+|  | (1) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 1983. január 1. (2) 2006. február 17-től. (3) A hatályon kívül helyezés időpontja a 27. cikk (3) bekezdése értelmében: 2015. június 3. (4) 2003. november 21-től. |
 
-|  |  | 952. | Románia | Neurologie |
+## 26. Klinikai neurofiziológia és Arc-állcsont-szájsebészet (orvosi és fogorvosi alapképzés)
 
-|  |  | 953. | Szlovénia | Nevrologija |
+|  | A. | B. | C. |
 
-|  |  | 954. | Szlovákia | Neurológia |
+|  |  | Klinikai neurofiziológia | Arc-állcsont-szájsebészet (orvosi és fogorvosi alapképzés) (1) |
 
-|  |  | 955. | Finnország | Neurologia/Neurologi |
+|  |  | Minimális képzési idő: 4 év | Minimális képzési idő: 4 év |
 
-|  |  | 956. | Svédország | Neurologi |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 957. | Svájc | Neurologie Neurologie Neurologia |
+| 1. | Ausztria/Österreich |  | Mund-, Kiefer- und Gesichtschirurgie |
 
-|  |  | 958. | Egyesült Királyság | Neurology |
+| 2. | Belgium/ België/Belgique/ Belgien |  | Stomatologie et chirurgie orale et maxillo-faciale/Stomatologie en mond-, kaak- en aangezichtschirurgie |
 
-|  |  | 959. | Nukleáris medicina A képzés legrövidebb időtartama: 4 év |
+| 3. | Bulgária/България |  | Дентална, орална и лицево-челюстна хирургия |
 
-|  |  | 960. | Belgium | Médecine nucléaire/Nucleaire geneeskunde |
+| 4. | Ciprus/Κύπρος |  | Στοματο-Γναθο-Προσωποχειρουργική |
 
-|  |  | 961. | Bulgária | Нуклеарна медицина |
+| 5. | Cseh Köztársaság/ Česká Republika |  |  |
 
-|  |  | 962. | Cseh Köztársaság | Nukleární medicína |
+| 6. | Dánia/ Danmark |  |  |
 
-|  |  | 963. | Dánia | Klinisk fysiologi og nuklearmedicin |
+| 7. | Egyesült Királyság/United Kingdom | Clinical neurophysiology | Oral and maxillo-facial surgery |
 
-|  |  | 964. | Németország | Nuklearmedizin |
+| 8. | Észtország/Eesti |  |  |
 
-|  |  | 965. | Észtország | – |
+| 9. | Finnország/Suomi/Finland | Kliininen neurofysiologia/Klinisk neurofysiologi | Suu- ja leukakirurgia/Oral och maxillofacial kirurgi |
 
-|  |  | 966. | Görögország | Πυρηνική Ιατρική |
+| 10. | Franciaország/France |  |  |
 
-|  |  | 967. | Spanyolország | Medicina nuclear |
+| 11. | Görögország/Ελλάς |  | Στοματική και Γναθοπροσωπική Χειρουργική (3) |
 
-|  |  | 968. | Franciaország | Médecine nucléaire |
+| 12. | Hollandia/Nederland |  |  |
 
-|  |  | 969. | Horvátország | Nuklearna medicina |
+| 13. | Horvátország/Hrvatska |  |  |
 
-|  |  | 970. | Írország | – |
+| 14. | Írország/Ireland | Clinical neurophysiology | Oral and maxillo-facial surgery |
 
-|  |  | 971. | Izland | Ísótópagreining |
+| 15. | Izland/ Ísland |  | - |
 
-|  |  | 972. | Olaszország | Medicina nucleare |
+| 16. | Lengyelország/Polska |  |  |
 
-|  |  | 973. | Ciprus | Πυρηνική Ιατρική |
+| 17. | Lettország/Latvija |  |  |
 
-|  |  | 974. | Lettország | – |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | ………………………. | Kiefer- und Gesichtschirurgie |
 
-|  |  | 975. | Liechtenstein | Nuklearmedizin |
+| 19. | Litvánia/Lietuva |  |  |
 
-|  |  | 976. | Litvánia | – |
+| 20. | Luxemburg/Luxembourg |  | Chirurgie dentaire, orale et maxillo-faciale |
 
-|  |  | 977. | Luxemburg | Médecine nucléaire |
+| 21. | Magyarország | Klinikai neurofiziológia | Arc-állcsont-szájsebészet |
 
-|  |  | 978. | Magyarország | Nukleáris medicina |
+| 22. | Málta/Malta | Newrofiżjoloġija Klinika | Kirurġija tal-għadam tal-wiċċ |
 
-|  |  | 979. | Málta | Medicina Nukleari |
+| 23. | Németország/Deutschland |  | - Mund-, Kiefer- und Gesichtschirurgie - Mund-Kiefer-Gesichtschirurgie (2) |
 
-|  |  | 980. | Hollandia | Nucleaire geneeskunde |
+| 24. | Norvégia/Norge |  | Kjevekirurgi og munnhulesykdommer |
 
-|  |  | 981. | Norvégia | Nukleærmedisin |
+| 25. | Olaszország/Italia |  |  |
 
-|  |  | 982. | Ausztria | Nuklearmedizin |
+| 26. | Portugália/Portugal |  |  |
 
-|  |  | 983. | Lengyelország | Medycyna nuklearna |
+| 27. | Románia/România |  | Chirurgie Orală şi Maxilo-facială (4) |
 
-|  |  | 984. | Portugália | Medicina nuclear |
+| 28. | Spanyolország/España | Neurofisiologia clínica |  |
 
-|  |  | 985. | Románia | Medicină nucleară |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra |  | Mund-, Kiefer- und Gesichtschirurgie Chirurgie orale et maxillo-faciale Chirurgia oro-maxillo-facciale |
 
-|  |  | 986. | Szlovénia | Nuklearna medicina |
+| 30. | Svédország/Sverige | Klinisk neurofysiologi |  |
 
-|  |  | 987. | Szlovákia | Nukleárna medicína |
+| 31. | Szlovákia/Slovensko |  |  |
 
-|  |  | 988. | Finnország | Kliininen fysiologia ja isotooppilääketiede/ Klinisk fysiologi och nukleärmedicin |
+| 32. | Szlovénia/Slovenija |  |  |
 
-|  |  | 989. | Svédország | Nukleärmedicin |
+|  | (1) Az arc-állcsont-szájsebész előírt képesítésének megszerzését igazoló okirat kiadásához szükséges képzés (orvosi és fogorvosi alapképzés) előfeltétele az orvosi alapképzés (24. cikk) befejezése és hitelesítése mellett a fogorvosi alapképzés (34. cikk) befejezése és hitelesítése. (2) 2006-tól. (3) 2014. július 10-től. (4) 2009-től. |
 
-|  |  | 990. | Svájc | Nuklearmedizin Médecine nucléaire Medicina nucleare |
+## 27. Orvosi onkológia és orvosi genetika
 
-|  |  | 991. | Egyesült Királyság | Nuclear medicine |
+|  | A. | B. | C. |
 
-|  |  | 992. | Ortopédia A képzés legrövidebb időtartama: 5 év |
+|  |  | Orvosi onkológia | Orvosi genetika |
 
-|  |  | 993. | Belgium | Chirurgie orthopédique/Orthopedische heelkunde |
+|  |  | Minimális képzési idő: 5 év | Minimális képzési idő: 4 év |
 
-|  |  | 994. | Bulgária | Ортопедия и травматология |
+|  | Ország | Szakmai cím | Szakmai cím |
 
-|  |  | 995. | Cseh Köztársaság | Ortopedie |
+| 1. | Ausztria/Österreich |  | Medizinische Genetik |
 
-|  |  | 996. | Dánia | Ortopædisk kirurgi |
+| 2. | Belgium/ België/Belgique/ Belgien | Oncologie médicale/Medische oncologie |  |
 
-|  |  | 997. | Németország | Orthopädie (und Unfallchirurgie)/ Orthopädie und Unfallchirurgie (2006. májustól) |
+| 3. | Bulgária/България | Медицинска онкология | Медицинска генетика |
 
-|  |  | 998. | Észtország | Ortopeedia |
+| 4. | Ciprus/Κύπρος | Ακτινοθεραπευτική Ογκολογία |  |
 
-|  |  | 999. | Görögország | Ορθοπεδική |
+| 5. | Cseh Köztársaság/ Česká Republika | Klinická onkologie | Lékařská genetika |
 
-|  |  | 1000. | Spanyolország | Cirugía ortopédica y traumatología |
+| 6. | Dánia/ Danmark |  | Klinisk genetik |
 
-|  |  | 1001. | Franciaország | Chirurgie orthopédique et traumatologie |
+| 7. | Egyesült Királyság/United Kingdom | Medical oncology | Clinical genetics |
 
-|  |  | 1002. | Horvátország | Ortopedija i traumatologija |
+| 8. | Észtország/Eesti |  | Meditsiinigeneetika |
 
-|  |  | 1003. | Írország | Trauma and Orthopaedic surgery |
+| 9. | Finnország/Suomi/Finland |  | Perinnöllisyyslääketiede/Medicinsk genetik |
 
-|  |  | 1004. | Izland | Bæklunarskurðlaekningar |
+| 10. | Franciaország/France | Oncologie | Génétique médicale |
 
-|  |  | 1005. | Olaszország | Ortopedia e traumatologia |
+| 11. | Görögország/Ελλάς | Παθολογική Ογκολογία |  |
 
-|  |  | 1006. | Ciprus | Ορθοπεδική |
+| 12. | Hollandia/Nederland |  | Klinische genetica |
 
-|  |  | 1007. | Lettország | Traumatoloģija un ortopēdija |
+| 13. | Horvátország/Hrvatska |  |  |
 
-|  |  | 1008. | Liechtenstein | Orthopädische Chirurgie |
+| 14. | Írország/Ireland | Medical oncology | Clinical genetics |
 
-|  |  | 1009. | Litvánia | Ortopedija traumatologija |
+| 15. | Izland/ Ísland |  |  |
 
-|  |  | 1010. | Luxemburg | Orthopédie |
+| 16. | Lengyelország/Polska | Onkologia kliniczna | Genetyka kliniczna |
 
-|  |  | 1011. | Magyarország | Ortopédia és traumatológia |
+| 17. | Lettország/Latvija | Onkoloģija ķīmijterapija | Medicīnas ģenētika |
 
-|  |  | 1012. | Málta | Kirurgija Ortopedika |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein |  |  |
 
-|  |  | 1013. | Hollandia | Orthopedie |
+| 19. | Litvánia/Lietuva | Chemoterapinė onkologija | Genetika |
 
-|  |  | 1014. | Norvégia | Ortopedisk kirurgi |
+| 20. | Luxemburg/Luxembourg | Oncologie médicale | Médecine génétique |
 
-|  |  | 1015. | Ausztria | Orthopädie und Orthopädische Chirurgie/ Orthopädie und Traumatologie (2015. májustól) |
+| 21. | Magyarország | Klinikai onkológia | Klinikai genetika |
 
-|  |  | 1016. | Lengyelország | Ortopedia i traumatologia narządu ruchu |
+| 22. | Málta/Malta |  | Ġenetika Klinika/Medika |
 
-|  |  | 1017. | Portugália | Ortopedia |
+| 23. | Németország/Deutschland |  | Humangenetik |
 
-|  |  | 1018. | Románia | Ortopedie şi traumatologie |
+| 24. | Norvégia/Norge |  |  |
 
-|  |  | 1019. | Szlovénia | Ortopedska kirurgija; Travmatologija |
+| 25. | Olaszország/ Italia | Oncologia medica | Genetica medica |
 
-|  |  | 1020. | Szlovákia | Ortopédia |
+| 26. | Portugália/Portugal | Oncologia médica | Genética médica |
 
-|  |  | 1021. | Finnország | Ortopedia ja traumatologia/Ortopedi och traumatologi |
+| 27. | Románia/România | Oncologie medicală | Genetică medicală |
 
-|  |  | 1022. | Svédország | Ortopedi |
+| 28. | Spanyolország/España | Oncología Médica |  |
 
-|  |  | 1023. | Svájc | Chirurgie orthopédique et traumatologie de l’appareil locomoteur Orthopädische Chirurgie und Traumatologie des Bewegungsapparates Chirurgia ortopedica e traumatologia del sistema motorio |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/Confédération suisse/Confederazione Svizzera/Confederaziun svizra |  |  |
 
-|  |  | 1024. | Egyesült Királyság | Trauma and orthopaedic surgery |
+| 30. | Svédország/Sverige | Onkologi | Klinisk genetik |
 
-|  |  | 1025. | Orvosi genetika A képzés legrövidebb időtartama: 4 év |
+| 31. | Szlovákia/Slovensko | Klinická onkológia | Lekárska genetica |
 
-|  |  | 1026. | Belgium | – |
+| 32. | Szlovénia/Slovenija | Internistična onkologija | Klinična genetika |
 
-|  |  | 1027. | Bulgária | Медицинска генетика |
+## D) A háziorvosok számára előírt képesítés megszerzését tanúsító okiratok
 
-|  |  | 1028. | Cseh Köztársaság | Lékařská genetika |
+|  | A. | B. | C. |  |
 
-|  |  | 1029. | Dánia | Klinisk genetik |
+|  | Ország | Előírt képesítés megszerzését tanúsító okirat | Szakmai cím | Hivatkozási dátum |
 
-|  |  | 1030. | Németország | Humangenetik |
+| 1. | Ausztria/Österreich | Diplom über die besondere Ausbildung in der Allgemeinmedizin | Arzt für Allgemeinmedizin | 1994.12.31. |
 
-|  |  | 1031. | Észtország | Meditsiinigeneetika |
+| 2. | Belgium/ België/Belgique/ Belgien | Bijzondere beroepstitel van huisarts/ Titre professionnel particulier de médecin généraliste | Huisarts/Médecin généraliste | 1994.12.31. |
 
-|  |  | 1032. | Görögország | – |
+| 3. | Bulgária/България | Свидетелство за призната специалност по Обща медицина | Лекар-специалист по Обща медицина | 2007.1.1. |
 
-|  |  | 1033. | Spanyolország | – |
+| 4. | Ciprus/Κύπρος | Τίτλος Ειδικότητας Γενικής Ιατρικής | Ιατρός Γενικής Ιατρικής | 2004.5.1. |
 
-|  |  | 1034. | Franciaország | Génétique médicale |
+| 5. | Cseh Köztársaság/ Česká republika | Diplom o specializaci všeobecné praktické lékařství | Všeobecný praktický lékař | 2004.5.1. |
 
-|  |  | 1035. | Horvátország | – |
+| 6. | Dánia/ Danmark | Bevis for tilladelse til at betegne sig som speciallæge i almen medicin | Alment praktiserende læge/Speciallæge i almen medicin | 1994.12.31. |
 
-|  |  | 1036. | Írország | Clinical genetics |
+| 7. | Egyesült Királyság/United Kingdom | Certificate of completion of training | General practitioner | 1994.12.31. |
 
-|  |  | 1037. | Izland | – |
+| 8. | Észtország/Eesti | Residentuuri lõpetamist tõendav tunnistus Diplom peremeditsiini erialal | Perearst | 2004.5.1. |
 
-|  |  | 1038. | Olaszország | Genetica medica |
+| 9. | Finnország/Suomi/ Finland | Todistus yleislääketieteen erityiskoulu-tuksesta/Bevis om särskild allmänläkarutbildning | Yleislääketieteen erityiskoulutuksen suorittanut laillistettu lääkäri/Legitime-rad läkare som har fullgjort särskild allmänläkarutbildning | 1994.1.1. |
 
-|  |  | 1039. | Ciprus | – |
+| 10. | Franciaország/France | Diplőmes d’études spécialisées de médecine générale accompagnés du diplőme d’Etat de docteur en médecine | Médecin qualifié en médecine générale | 1994.12.31. |
 
-|  |  | 1040. | Lettország | Medicīnas ģenētika |
+| 11. | Görögország/Ελλάς | Τίτλος ιατρικής ειδικότητας γενικής ιατρικής | Iατρός με ειδικότητα γενικής ιατρικής | 1994.12.31. |
 
-|  |  | 1041. | Liechtenstein | – |
+| 12. | Hollandia/Nederland | Certificaat van inschrijving in een specialistenregister van huisartsen Diploma geneeskundig specialist | Huisarts, Verpleeghuisarts en arts voor verstandelijk gehandicapte Registratie Commissie (HVRC) Registratiecommissie Geneeskundig Specialisten (RGS) van de Koninklijke Nederlandsche Maatschap- pij tot Bevordering der Geneeskunst (1) | 1994.12.31. |
 
-|  |  | 1042. | Litvánia | Genetika |
+| 13. | Horvátország/Hrvatska | Diploma o specijalističkom usavrša-vanju | specijalist obiteljske medicine | 2013.7.1. |
 
-|  |  | 1043. | Luxemburg | Médecine génétique |
+| 14. | Írország/Ireland | Certificate of specific qualifications in general medical practice | General medical practitioner | 1994.12.31. |
 
-|  |  | 1044. | Magyarország | Klinikai genetika |
+| 15. | Izland/ Ísland | - |  | 1994.1.1. |
 
-|  |  | 1045. | Málta | – |
+| 16. | Lengyelország/Polska | Dyplom uzyskania tytułu specjalisty w dziedzinie medycyny rodzinnej | Specjalista w dziedzinie medycyny rodzinnej | 2004.5.1. |
 
-|  |  | 1046. | Hollandia | Klinische genetica |
+| 17. | Lettország/Latvija | Ģimenes ārsta sertifikāts | Ģimenes (vispārējās prakses) ārsts | 2004.5.1. |
 
-|  |  | 1047. | Norvégia | – |
+| 18. | Liechtenstein/ Fürstentum Liechtenstein | - |  | 1995.5.1. |
 
-|  |  | 1048. | Ausztria | Medizinische Genetik |
+| 19. | Litvánia/Lietuva | 1. Šeimos gydytojo rezidentūros pažymėjimas 2. Rezidentūros pažymėjimas (šeimos gydytojo profesinė kvalifikacija) | Šeimos medicinos gydytojas Šeimos gydytojas | 2004.5.1. |
 
-|  |  | 1049. | Lengyelország | Genetyka kliniczna |
+| 20. | Luxemburg/ Luxembourg | Diplőme de formation spécifique en medicine générale | Médecin généraliste | 1994.12.31. |
 
-|  |  | 1050. | Portugália | Genética médica |
+| 21. | Magyarország | Háziorvostan szakorvosa bizonyítvány | Háziorvostan szakorvosa | 2004.5.1. |
 
-|  |  | 1051. | Románia | Genetica medicala |
+| 22. | Málta/Malta | Tabib tal-familja | Mediċina tal-familja | 2004.5.1. |
 
-|  |  | 1052. | Szlovénia | Klinična genetika |
+| 23. | Németország/ Deutschland | Zeugnis über die spezifische Ausbildung in der Allgemeinmedizin | Facharzt/ Fachärztin für Allgemeinmedizin | 1994.12.31. |
 
-|  |  | 1053. | Szlovákia | Lekárska genetica |
+| 24. | Norvégia/Norge | - |  | 1994.1.1 |
 
-|  |  | 1054. | Finnország | Perinnöllisyyslääketiede/Medicinsk genetik |
+| 25. | Olaszország/ Italia | - Attestato di formazione specifica in medicina generale - Diploma di formazione specifica in medicina generale | Medico di medicina generale | 1994.12.31. |
 
-|  |  | 1055. | Svédország | – |
+| 26. | Portugália/Portugal | Título de especialista em medicina geral e familiar | Especialista em medicina geral e familiar | 1994.12.31. |
 
-|  |  | 1056. | Svájc | – |
+| 27. | Románia/România | Certificat de medic specialist medicină de familie | Medic specialist medicină de familie | 2007.1.1. |
 
-|  |  | 1057. | Egyesült Királyság | Clinical genetics |
+| 28. | Spanyolország/ Es-paña | Título de especialista en medicina familiar y comunitaria | Especialista en medicina familiar y comunitaria | 1994.12.31. |
 
-|  |  | 1058. | Orvosi onkológia A képzés legrövidebb időtartama: 5 év |
+| 29. | Svájc/Schweizerische Eidgenossenschaft/ Confédération suisse/Confederazione Svizzera/ Confederaziun svizra | Médecin praticien Praktischer Arzt Medico generico |  | 2002.6.1. |
 
-|  |  | 1059. | Belgium | Oncologie médicale/ Medische oncologie |
+| 30. | Svédország/Sverige | Bevis om specialistkompetens i allmänmedicin | Specialist i allmänmedicin | 1994.12.31. |
 
-|  |  | 1060. | Bulgária | Медицинска онкология |
+| 31. | Szlovákia/Slovensko | Diplom o špecializácii v odbore »všeo-becné lekárstvo« | Všeobecný lekár | 2004.5.1. |
 
-|  |  | 1061. | Cseh Köztársaság | Klinická onkologie |
+| 32. | Szlovénia/Slovenija | Potrdilo o opravljenem specialističnem izpitu iz družinske medicine | Specialist družinske medicine/Specialistka družinske medicine | 2004.5.1. |
 
-|  |  | 1062. | Dánia | – |
+|  | (1) 2013. januártól. |
 
-|  |  | 1063. | Németország | – |
+## E) Feltétel nélküli elismerés a szerzett jogok esetén
 
-|  |  | 1064. | Észtország | – |
+## 1. Feltétel nélkül elismerésre kerül a tagállam által a tagállami állampolgár részére kiállított, a következő időpontok előtt megkezdett, a képzés sikeres elvégzését tanúsító orvosi oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek:
 
-|  |  | 1065. | Görögország | Παθολογική Ογκολογία |
+## 1.1. 1976. december 20. Belgium, Dánia, Németország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia és az Egyesült Királyság,
 
-|  |  | 1066. | Spanyolország | – |
+## 1.2. 1981. január 1. Görögország,
 
-|  |  | 1067. | Franciaország | Oncologie |
+## 1.3. 1986. január 1. Spanyolország és Portugália,
 
-|  |  | 1068. | Horvátország | – |
+## 1.4. 1994. január 1. Izland, Norvégia, Ausztria, Finnország és Svédország,
 
-|  |  | 1069. | Írország | Medical oncology |
+## 1.5. 1995. május 1. Liechtenstein,
 
-|  |  | 1070. | Izland | – |
+## 1.6. 2002. június 1. Svájc,
 
-|  |  | 1071. | Olaszország | Oncologia medica |
+## 1.7. 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Lengyelország, Szlovénia, Szlovákia,
 
-|  |  | 1072. | Ciprus | Ακτινοθεραπευτική Ογκολογία |
+## 1.8. 2007. január 1. Bulgária és Románia,
 
-|  |  | 1073. | Lettország | Onkoloģija ķīmijterapija |
-
-|  |  | 1074. | Liechtenstein | – |
-
-|  |  | 1075. | Litvánia | Chemoterapinė onkologija |
-
-|  |  | 1076. | Luxemburg | Oncologie médicale |
-
-|  |  | 1077. | Magyarország | Klinikai onkológia |
-
-|  |  | 1078. | Málta | – |
-
-|  |  | 1079. | Hollandia | – |
-
-|  |  | 1080. | Norvégia | – |
-
-|  |  | 1081. | Ausztria | – |
-
-|  |  | 1082. | Lengyelország | Onkologia kliniczna |
-
-|  |  | 1083. | Portugália | Oncologia médica |
-
-|  |  | 1084. | Románia | Oncologie medicala |
-
-|  |  | 1085. | Szlovénia | Internistična onkologija |
-
-|  |  | 1086. | Szlovákia | Klinická onkológia |
-
-|  |  | 1087. | Finnország | – |
-
-|  |  | 1088. | Svédország | – |
-
-|  |  | 1089. | Svájc | – |
-
-|  |  | 1090. | Egyesült Királyság | Medical oncology |
-
-|  |  | 1091. | Patológia A képzés legrövidebb időtartama: 4 év |
-
-|  |  | 1092. | Belgium | Anatomie pathologique/Pathologische anatomie |
-
-|  |  | 1093. | Bulgária | Обща и клинична патология |
-
-|  |  | 1094. | Cseh Köztársaság | Patologie |
-
-|  |  | 1095. | Dánia | Patologisk anatomi og cytology |
-
-|  |  | 1096. | Németország | Pathologie |
-
-|  |  | 1097. | Észtország | Patoloogia |
-
-|  |  | 1098. | Görögország | Παθολογική Aνατομική |
-
-|  |  | 1099. | Spanyolország | Anatomía patológica |
-
-|  |  | 1100. | Franciaország | Anatomie et cytologie pathologiques |
-
-|  |  | 1101. | Horvátország | Patologija |
-
-|  |  | 1102. | Írország | Histopathology |
-
-|  |  | 1103. | Izland | Vefjameinafræði |
-
-|  |  | 1104. | Olaszország | Anatomia patologica |
-
-|  |  | 1105. | Ciprus | Παθολογοανατομία – Ιστολογία |
-
-|  |  | 1106. | Lettország | Patoloģija |
-
-|  |  | 1107. | Liechtenstein | Pathologie |
-
-|  |  | 1108. | Litvánia | Patologija |
-
-|  |  | 1109. | Luxemburg | Anatomie pathologique |
-
-|  |  | 1110. | Magyarország | Patológia |
-
-|  |  | 1111. | Málta | Istopatologija |
-
-|  |  | 1112. | Hollandia | Pathologie |
-
-|  |  | 1113. | Norvégia | Patologi |
-
-|  |  | 1114. | Ausztria | Pathologie/ Klinische Patholoie und Molekularpathologie (2015. júniustól)/ Klinische Patholoie und Neuropathologie |
-
-|  |  | 1115. | Lengyelország | Patomorfologia |
-
-|  |  | 1116. | Portugália | Anatomia patologica |
-
-|  |  | 1117. | Románia | Anatomie patologică |
-
-|  |  | 1118. | Szlovénia | Patologija |
-
-|  |  | 1119. | Szlovákia | Patologická anatómia |
-
-|  |  | 1120. | Finnország | Patologia/Patologi |
-
-|  |  | 1121. | Svédország | Klinisk patologi |
-
-|  |  | 1122. | Svájc | Pathologie Pathologie Patologia |
-
-|  |  | 1123. | Egyesült Királyság | Histopathology |
-
-|  |  | 1124. | Plasztikai sebészet A képzés legrövidebb időtartama: 5 év |
-
-|  |  | 1125. | Belgium | Chirurgie plastique, reconstructrice et esthétique/ Plastische, reconstructieve en esthetische heelkunde |
-
-|  |  | 1126. | Bulgária | Пластично-възстановителна и естетична хирургия |
-
-|  |  | 1127. | Cseh Köztársaság | Plastická chirurgie |
-
-|  |  | 1128. | Dánia | Plastikkirurgi |
-
-|  |  | 1129. | Németország | Plastische (und Ästhetische) Chirurgie/ Plastische und Ästhetische Chirurgie (2006-tól) |
-
-|  |  | 1130. | Észtország | Plastika- ja rekonstruktiivkirurgia |
-
-|  |  | 1131. | Görögország | Πλαστική Χειρονργική |
-
-|  |  | 1132. | Spanyolország | Cirugía plástica, estética y reparadora |
-
-|  |  | 1133. | Franciaország | Chirurgie plastique, reconstructrice et esthétique |
-
-|  |  | 1134. | Horvátország | Plastična, rekonstrukcijska estetska kirurgija |
-
-|  |  | 1135. | Írország | Plastic, reconstructive and aesthetic surgery |
-
-|  |  | 1136. | Izland | Lýtalækningar |
-
-|  |  | 1137. | Olaszország | Chirurgia plastica, ricostruttiva ed estetica |
-
-|  |  | 1138. | Ciprus | Πλαστική Χειρονργική |
-
-|  |  | 1139. | Lettország | Plastiskā ķirurģija |
-
-|  |  | 1140. | Liechtenstein | Plastische- und Wiederherstellungschirurgie |
-
-|  |  | 1141. | Litvánia | Plastinė ir rekonstrukcinė chirurgija |
-
-|  |  | 1142. | Luxemburg | Chirurgie plastique |
-
-|  |  | 1143. | Magyarország | Plasztikai (égési) sebészet |
-
-|  |  | 1144. | Málta | Kirurgija Plastika |
-
-|  |  | 1145. | Hollandia | Plastische chirurgie |
-
-|  |  | 1146. | Norvégia | Plastikkirurgi |
-
-|  |  | 1147. | Ausztria | Plastische, Ästhetische und Rekonstruktive Chirurgie/ Plastische, Rekonstruktive und Ästhetische Chirurgie (2015. júniustól) |
-
-|  |  | 1148. | Lengyelország | Chirurgia plastyczna |
-
-|  |  | 1149. | Portugália | Cirurgia plástica, estética e reconstrutiva |
-
-|  |  | 1150. | Románia | Chirurgie plastică, estetica si microchirurgie reconstructivă |
-
-|  |  | 1151. | Szlovénia | Plastična, rekonstrukcijska in estetska kirurgija |
-
-|  |  | 1152. | Szlovákia | Plastická chirurgia |
-
-|  |  | 1153. | Finnország | Plastiikkakirurgia/Plastikkirurgi |
-
-|  |  | 1154. | Svédország | Plastikkirurgi |
-
-|  |  | 1155. | Svájc | Chirurgie plastique, reconstructive et esthétique Plastische, Rekonstruktive und Ästhetische Chirurgie Chirurgia plastica, ricostruttiva ed estetica |
-
-|  |  | 1156. | Egyesült Királyság | Plastic surgery |
-
-|  |  | 1157. | Pszichiátria A képzés legrövidebb időtartama: 4 év |
-
-|  |  | 1158. | Belgium | Psychiatrie, particulierement de l’adulte/Psychiatrie, meer bepaald in de volwassenpsychiatrie |
-
-|  |  | 1159. | Bulgária | Психиатрия |
-
-|  |  | 1160. | Cseh Köztársaság | Psychiatrie |
-
-|  |  | 1161. | Dánia | Psykiatri |
-
-|  |  | 1162. | Németország | Psychiatrie und Psychotherapie |
-
-|  |  | 1163. | Észtország | Psühhiaatria |
-
-|  |  | 1164. | Görögország | Ψυχιατρική |
-
-|  |  | 1165. | Spanyolország | Psiquiatría |
-
-|  |  | 1166. | Franciaország | Psychiatrie |
-
-|  |  | 1167. | Horvátország | Psihijatrija |
-
-|  |  | 1168. | Írország | Psychiatry |
-
-|  |  | 1169. | Izland | Geðlækningar |
-
-|  |  | 1170. | Olaszország | Psichiatria |
-
-|  |  | 1171. | Ciprus | Ψυχιατρική |
-
-|  |  | 1172. | Lettország | Psihiatrija |
-
-|  |  | 1173. | Liechtenstein | Psychiatrie und Psychotherapie |
-
-|  |  | 1174. | Litvánia | Psichiatrija |
-
-|  |  | 1175. | Luxemburg | Psychiatrie |
-
-|  |  | 1176. | Magyarország | Pszichiátria |
-
-|  |  | 1177. | Málta | Psikjatrija |
-
-|  |  | 1178. | Hollandia | Psychiatrie |
-
-|  |  | 1179. | Norvégia | Psykiatri |
-
-|  |  | 1180. | Ausztria | Psychiatrie und Psychotherapeutische Medizin |
-
-|  |  | 1181. | Lengyelország | Psychiatria |
-
-|  |  | 1182. | Portugália | Psiquiatria |
-
-|  |  | 1183. | Románia | Psihiatrie |
-
-|  |  | 1184. | Szlovénia | Psihiatrija |
-
-|  |  | 1185. | Szlovákia | Psychiatria |
-
-|  |  | 1186. | Finnország | Psykiatria/Psykiatri |
-
-|  |  | 1187. | Svédország | Psykiatri |
-
-|  |  | 1188. | Svájc | Psychiatrie et psychothérapie Psychiatrie und Psychotherapie Psichiatria e psicoterapia |
-
-|  |  | 1189. | Egyesült Királyság | General psychiatry |
-
-|  |  | 1190. | Radiológia A képzés legrövidebb időtartama: 4 év |
-
-|  |  | 1191. | Belgium | – |
-
-|  |  | 1192. | Bulgária | Радиобиология |
-
-|  |  | 1193. | Cseh Köztársaság | – |
-
-|  |  | 1194. | Dánia | – |
-
-|  |  | 1195. | Németország | Radiologie |
-
-|  |  | 1196. | Észtország | – |
-
-|  |  | 1197. | Görögország | Aκτινογία – Ραδιολογία |
-
-|  |  | 1198. | Spanyolország | Electroradiología (hatályon kívül helyezve: 1984. február 1.) |
-
-|  |  | 1199. | Franciaország | Electro-radiologie (hatályon kívül helyezve 1971. december 3.) |
-
-|  |  | 1200. | Horvátország | Klinička radiologija |
-
-|  |  | 1201. | Írország | – |
-
-|  |  | 1202. | Izland | Geislalækningar |
-
-|  |  | 1203. | Olaszország | Radiologia (hatályon kívül helyezve: 1993. október 31.) |
-
-|  |  | 1204. | Ciprus | – |
-
-|  |  | 1205. | Lettország | – |
-
-|  |  | 1206. | Liechtenstein | – |
-
-|  |  | 1207. | Litvánia | – |
-
-|  |  | 1208. | Luxemburg | Électroradiologie (Szakmai képesítés megszerzését tanúsító okiratot nem adnak ki az 1982. március 5-e után megkezdett képzések esetében.) |
-
-|  |  | 1209. | Magyarország | Radiológia |
-
-|  |  | 1210. | Málta | – |
-
-|  |  | 1211. | Hollandia | Radiologie (hatályon kívül helyezve: 1984. július 8.) |
-
-|  |  | 1212. | Norvégia | – |
-
-|  |  | 1213. | Ausztria | Radiologie (hatályon kívül helyezve: 2004. március 31.) |
-
-|  |  | 1214. | Lengyelország | – |
-
-|  |  | 1215. | Portugália | Radiologia |
-
-|  |  | 1216. | Románia | – |
-
-|  |  | 1217. | Szlovénia | Radiologija |
-
-|  |  | 1218. | Szlovákia | – |
-
-|  |  | 1219. | Finnország | – |
-
-|  |  | 1220. | Svédország | – |
-
-|  |  | 1221. | Svájc | – |
-
-|  |  | 1222. | Egyesült Királyság | – |
-
-|  |  | 1223. | Reumatológia A képzés legrövidebb időtartama: 4 év |
-
-|  |  | 1224. | Belgium | Rhumathologie/reumatologie |
-
-|  |  | 1225. | Bulgária | Ревматология |
-
-|  |  | 1226. | Cseh Köztársaság | Revmatologie |
-
-|  |  | 1227. | Dánia | Intern medicin: reumatologi |
-
-|  |  | 1228. | Németország | Innere Medizin und Schwerpunkt Rheumatologie/ Innere Medizin und Rheumatologie (2009. októbertől) |
-
-|  |  | 1229. | Észtország | Reumatoloogia |
-
-|  |  | 1230. | Görögország | Ρευματολογία |
-
-|  |  | 1231. | Spanyolország | Reumatología |
-
-|  |  | 1232. | Franciaország | Rhumathologie |
-
-|  |  | 1233. | Horvátország | Reumatologija |
-
-|  |  | 1234. | Írország | Rheumatology |
-
-|  |  | 1235. | Izland | Gigtarlækningar |
-
-|  |  | 1236. | Olaszország | Reumatologia |
-
-|  |  | 1237. | Ciprus | Ρευματολογία |
-
-|  |  | 1238. | Lettország | Reimatoloģija |
-
-|  |  | 1239. | Liechtenstein | Rheumatologie |
-
-|  |  | 1240. | Litvánia | Reumatologija |
-
-|  |  | 1241. | Luxemburg | Rhumathologie |
-
-|  |  | 1242. | Magyarország | Reumatológia |
-
-|  |  | 1243. | Málta | Rewmatologija |
-
-|  |  | 1244. | Hollandia | Reumatologie |
-
-|  |  | 1245. | Norvégia | Revmatologi |
-
-|  |  | 1246. | Ausztria | Inner Medizin und Rheumatologie |
-
-|  |  | 1247. | Lengyelország | Reumatologia |
-
-|  |  | 1248. | Portugália | Reumatologia |
-
-|  |  | 1249. | Románia | Reumatologie |
-
-|  |  | 1250. | Szlovénia | Revmatologija |
-
-|  |  | 1251. | Szlovákia | Reumatológia |
-
-|  |  | 1252. | Finnország | Reumatologia/Reumatologi |
-
-|  |  | 1253. | Svédország | Reumatologi |
-
-|  |  | 1254. | Svájc | Rhumatologie Rheumatologie Reumatologia |
-
-|  |  | 1255. | Egyesült Királyság | Rheumatology |
-
-|  |  | 1256. | Sebészet A képzés legrövidebb időtartama: 5 év |
-
-|  |  | 1257. | Belgium | Chirurgie/Heelkunde |
-
-|  |  | 1258. | Bulgária | Хирургия |
-
-|  |  | 1259. | Cseh Köztársaság | Chirurgie |
-
-|  |  | 1260. | Dánia | Kirurgi |
-
-|  |  | 1261. | Németország | (Allgemeine) Chirurgie |
-
-|  |  | 1262. | Észtország | Üldkirurgia |
-
-|  |  | 1263. | Görögország | Χειρονργική |
-
-|  |  | 1264. | Spanyolország | Cirugía general y del aparato digestivo |
-
-|  |  | 1265. | Franciaország | Chirurgie générale |
-
-|  |  | 1266. | Horvátország | Opća kirurgija |
-
-|  |  | 1267. | Írország | General surgery |
-
-|  |  | 1268. | Izland | Skurðlækningar |
-
-|  |  | 1269. | Olaszország | Chirurgia generale |
-
-|  |  | 1270. | Ciprus | Γενική Χειρουργική |
-
-|  |  | 1271. | Lettország | Ķirurģija |
-
-|  |  | 1272. | Liechtenstein | Chirurgie |
-
-|  |  | 1273. | Litvánia | Chirurgija |
-
-|  |  | 1274. | Luxemburg | Chirurgie générale |
-
-|  |  | 1275. | Magyarország | Sebészet |
-
-|  |  | 1276. | Málta | Kirurgija Generali |
-
-|  |  | 1277. | Hollandia | Heelkunde |
-
-|  |  | 1278. | Norvégia | Generell kirurgi |
-
-|  |  | 1279. | Ausztria | Chirurgie/ Allgemeinchirurgie und Viszeralchirurgie (2015. júniustól) |
-
-|  |  | 1280. | Lengyelország | Chirurgia ogólna |
-
-|  |  | 1281. | Portugália | Cirurgia geral |
-
-|  |  | 1282. | Románia | Chirurgie generală |
-
-|  |  | 1283. | Szlovénia | Splošna kirurgija |
-
-|  |  | 1284. | Szlovákia | Chirurgia |
-
-|  |  | 1285. | Finnország | Yleiskirurgia/Allmän kirurgi |
-
-|  |  | 1286. | Svédország | Kirurgi |
-
-|  |  | 1287. | Svájc | Chirurgie Chirurgie Chirurgia |
-
-|  |  | 1288. | Egyesült Királyság | General surgery |
-
-|  |  | 1289. | Sugárterápia A képzés legrövidebb időtartama: 4 év |
-
-|  |  | 1290. | Belgium | Radiothérapie-oncologie/Radiotherapie-oncologie |
-
-|  |  | 1291. | Bulgária | Лъчелечение |
-
-|  |  | 1292. | Cseh Köztársaság | Radiační onkologie |
-
-|  |  | 1293. | Dánia | Klinisk Onkologi |
-
-|  |  | 1294. | Németország | Strahlentherapie |
-
-|  |  | 1295. | Észtország | Onkoloogia |
-
-|  |  | 1296. | Görögország | Aκτινοθεραπευτική – Ογκολογία |
-
-|  |  | 1297. | Spanyolország | Oncología radioterápica |
-
-|  |  | 1298. | Franciaország | Oncologie option oncologie radiothérapique |
-
-|  |  | 1299. | Horvátország | Onkologija i radioterapija |
-
-|  |  | 1300. | Írország | Radiation oncology |
-
-|  |  | 1301. | Izland | – |
-
-|  |  | 1302. | Olaszország | Radioterapia |
-
-|  |  | 1303. | Ciprus | Ακτινοθεραπευτική Ογκολογία |
-
-|  |  | 1304. | Lettország | Terapeitiskā radioloģija |
-
-|  |  | 1305. | Liechtenstein | Medizinische Radiologie/Radio Onkologie |
-
-|  |  | 1306. | Litvánia | Onkologija radioterapija |
-
-|  |  | 1307. | Luxemburg | Radiothérapie |
-
-|  |  | 1308. | Magyarország | Sugárterápia |
-
-|  |  | 1309. | Málta | Onkologija u Radjoterapija |
-
-|  |  | 1310. | Hollandia | Radiotherapie |
-
-|  |  | 1311. | Norvégia | – |
-
-|  |  | 1312. | Ausztria | Strahlentherapie – Radioonkologie |
-
-|  |  | 1313. | Lengyelország | Radioterapia onkologiczna |
-
-|  |  | 1314. | Portugália | Radioterapia |
-
-|  |  | 1315. | Románia | Radioterapie |
-
-|  |  | 1316. | Szlovénia | Radioterapija in onkologija |
-
-|  |  | 1317. | Szlovákia | Radiačná onkológia |
-
-|  |  | 1318. | Finnország | Syöpätaudit/Cancersjukdomar |
-
-|  |  | 1319. | Svédország | Tumörsjukdomar (allmän onkologi) |
-
-|  |  | 1320. | Svájc | Radio-oncologie/radiothérapie Radio-Onkologie/Strahlentherapie Radio-oncologia/radioterapia |
-
-|  |  | 1321. | Egyesült Királyság | Clinical oncology |
-
-|  |  | 1322. | Szemészet A képzés legrövidebb időtartama: 3 év |
-
-|  |  | 1323. | Belgium | Ophtalmologie/Oftalmologie |
-
-|  |  | 1324. | Bulgária | Очни болести |
-
-|  |  | 1325. | Cseh Köztársaság | Oftalmologie |
-
-|  |  | 1326. | Dánia | Oftalmologi |
-
-|  |  | 1327. | Németország | Augenheilkunde |
-
-|  |  | 1328. | Észtország | Oftalmoloogia |
-
-|  |  | 1329. | Görögország | Οψθαλμολογία |
-
-|  |  | 1330. | Spanyolország | Oftalmología |
-
-|  |  | 1331. | Franciaország | Ophtalmologie |
-
-|  |  | 1332. | Horvátország | Oftalmonologija i ortopetrija |
-
-|  |  | 1333. | Írország | Ophthalmic surgery/ Ophthalmology (1991/1992-től) |
-
-|  |  | 1334. | Izland | Augnlækningar |
-
-|  |  | 1335. | Olaszország | Oftalmologia |
-
-|  |  | 1336. | Ciprus | Οψθαλμολογία |
-
-|  |  | 1337. | Lettország | Oftalmoloģija |
-
-|  |  | 1338. | Liechtenstein | Augenheilkunde |
-
-|  |  | 1339. | Litvánia | Oftalmologija |
-
-|  |  | 1340. | Luxemburg | Ophtalmologie |
-
-|  |  | 1341. | Magyarország | Szemészet |
-
-|  |  | 1342. | Málta | Oftalmologija |
-
-|  |  | 1343. | Hollandia | Oogheelkunde |
-
-|  |  | 1344. | Norvégia | Øyesykdommer |
-
-|  |  | 1345. | Ausztria | Augenheilkunde und Optometrie |
-
-|  |  | 1346. | Lengyelország | Okulistyka |
-
-|  |  | 1347. | Portugália | Oftalmologia |
-
-|  |  | 1348. | Románia | Oftalmologie |
-
-|  |  | 1349. | Szlovénia | Oftalmologija |
-
-|  |  | 1350. | Szlovákia | Oftalmológia |
-
-|  |  | 1351. | Finnország | Silmätaudit/Ögonsjukdomar |
-
-|  |  | 1352. | Svédország | Ögonsjukdomar (oftalmologi) |
-
-|  |  | 1353. | Svájc | Ophtalmologie Ophthalmologie Oftalmologia |
-
-|  |  | 1354. | Egyesült Királyság | Ophthalmology |
-
-|  |  | 1355. | Szülészet-nőgyógyászat A képzés legrövidebb időtartama: 4 év |
-
-|  |  | 1356. | Belgium | Gynécologie-obstétrique/Gynaecologie-verloskunde |
-
-|  |  | 1357. | Bulgária | Акушерство и гинекология |
-
-|  |  | 1358. | Cseh Köztársaság | Gynekologie a porodnictví |
-
-|  |  | 1359. | Dánia | Gynaekologi og obstetrik |
-
-|  |  | 1360. | Németország | Frauenheilkunde und Geburtshilfe |
-
-|  |  | 1361. | Észtország | Sünnitusabi ja günekoloogja |
-
-|  |  | 1362. | Görögország | Μαιευτική-Γυναικολογία |
-
-|  |  | 1363. | Spanyolország | Obstetricia y ginecología |
-
-|  |  | 1364. | Franciaország | Gynécolo – obstétrique |
-
-|  |  | 1365. | Horvátország | Ginekologija i opstetricija |
-
-|  |  | 1366. | Írország | Obstetrics and gynaecology |
-
-|  |  | 1367. | Izland | Fæðingar- og kvenlækningar |
-
-|  |  | 1368. | Olaszország | Ginecologia e ostetricia |
-
-|  |  | 1369. | Ciprus | Μαιευτική-Γυναικολογία |
-
-|  |  | 1370. | Lettország | Ginekoloģija un dzemdniecība |
-
-|  |  | 1371. | Liechtenstein | Gynäkologie und Geburtshilfe |
-
-|  |  | 1372. | Litvánia | Akušerija ginekologija |
-
-|  |  | 1373. | Luxemburg | Gynécologie – obstétrique |
-
-|  |  | 1374. | Magyarország | Szülészet-nőgyógyászat |
-
-|  |  | 1375. | Málta | Ostetricja u Ginekologija |
-
-|  |  | 1376. | Hollandia | Obstetrie en Gynaecologie |
-
-|  |  | 1377. | Norvégia | Fødselshjelp og kvinnesykdommer |
-
-|  |  | 1378. | Ausztria | Frauenheilkunde und Geburtshilfe |
-
-|  |  | 1379. | Lengyelország | Położnictwo i ginekologia |
-
-|  |  | 1380. | Portugália | Ginecologia e obstetricia |
-
-|  |  | 1381. | Románia | Obstetrică-ginecologie |
-
-|  |  | 1382. | Szlovénia | Ginekologija in porodništvo |
-
-|  |  | 1383. | Szlovákia | Gynekológia a pőrodníctvo |
-
-|  |  | 1384. | Finnország | Naistentaudit ja synnytykset/Kvinnosjukdomar och förlossningar |
-
-|  |  | 1385. | Svédország | Obstetrik och gynekologi |
-
-|  |  | 1386. | Svájc | Gynécologie et obstétrique Gynäkologie und Geburtshilfe Ginecologia e ostetricia |
-
-|  |  | 1387. | Egyesült Királyság | Obstetrics and gynaecology |
-
-|  |  | 1388. | Társadalomorvostan és szociális orvostan A képzés legrövidebb időtartama: 4 év |
-
-|  |  | 1389. | Belgium | – |
-
-|  |  | 1390. | Bulgária | Социална медицина и здравен мениджмънт Комунална хигиена |
-
-|  |  | 1391. | Cseh Köztársaság | Hygiena a epidemiologie |
-
-|  |  | 1392. | Dánia | Samfundsmedicin |
-
-|  |  | 1393. | Németország | Öffentliches Gesundheitswesen |
-
-|  |  | 1394. | Észtország | – |
-
-|  |  | 1395. | Görögország | Κοινωνική Ιατρική |
-
-|  |  | 1396. | Spanyolország | Medicina preventiva y salud pública |
-
-|  |  | 1397. | Franciaország | Santé publique et médecine sociale |
-
-|  |  | 1398. | Horvátország | Javnozdravstvena medicina |
-
-|  |  | 1399. | Írország | Public health medicine |
-
-|  |  | 1400. | Izland | Félagslækningar |
-
-|  |  | 1401. | Olaszország | Igiene e medicina preventiva |
-
-|  |  | 1402. | Ciprus | Υγειονολογία Κοινωνική Ιατρική |
-
-|  |  | 1403. | Lettország | – |
-
-|  |  | 1404. | Liechtenstein | Prävention und Gesundheitswesen |
-
-|  |  | 1405. | Litvánia | – |
-
-|  |  | 1406. | Luxemburg | Santé publique |
-
-|  |  | 1407. | Magyarország | Megelőző orvostan és népegészségtan |
-
-|  |  | 1408. | Málta | Sahha Pubblika |
-
-|  |  | 1409. | Hollandia | Maatschappij en gezondheid |
-
-|  |  | 1410. | Norvégia | Samfunnsmedisin |
-
-|  |  | 1411. | Ausztria | Sozialmedizin/ Public Health (2015. júniustól) |
-
-|  |  | 1412. | Lengyelország | Zdrowie publiczne, epidemiologia |
-
-|  |  | 1413. | Portugália | Saúde pública |
-
-|  |  | 1414. | Románia | Sănătate publică şi management |
-
-|  |  | 1415. | Szlovénia | Javno zdravje |
-
-|  |  | 1416. | Szlovákia | Verejné zdravotníctvo |
-
-|  |  | 1417. | Finnország | Terveydenhuolto/Hälsovård |
-
-|  |  | 1418. | Svédország | Socialmedicin |
-
-|  |  | 1419. | Svájc | Prévention et santé publique Prevention und Gesundheitswesen Prevenzione e salute pubblica |
-
-|  |  | 1420. | Egyesült Királyság | Public health medicine |
-
-|  |  | 1421. | Trópusi betegségek A képzés legrövidebb időtartama: 4 év |
-
-|  |  | 1422. | Belgium | – |
-
-|  |  | 1423. | Bulgária | – |
-
-|  |  | 1424. | Cseh Köztársaság | – |
-
-|  |  | 1425. | Dánia | – |
-
-|  |  | 1426. | Németország | – |
-
-|  |  | 1427. | Észtország | – |
-
-|  |  | 1428. | Görögország | – |
-
-|  |  | 1429. | Spanyolország | – |
-
-|  |  | 1430. | Franciaország | – |
-
-|  |  | 1431. | Horvátország | – |
-
-|  |  | 1432. | Írország | Tropical medicine |
-
-|  |  | 1433. | Izland | – |
-
-|  |  | 1434. | Olaszország | Medicina tropicale |
-
-|  |  | 1435. | Ciprus | – |
-
-|  |  | 1436. | Lettország | – |
-
-|  |  | 1437. | Liechtenstein | Tropenmedizin |
-
-|  |  | 1438. | Litvánia | – |
-
-|  |  | 1439. | Luxemburg | – |
-
-|  |  | 1440. | Magyarország | Trópusi betegségek |
-
-|  |  | 1441. | Málta | – |
-
-|  |  | 1442. | Hollandia | – |
-
-|  |  | 1443. | Norvégia | – |
-
-|  |  | 1444. | Ausztria | Spezifische Prophylaxe und Tropenmedizin/ Klinische Immunologie und Spezifische Prophylaxe und Tropenmedizin (2015. júniustól) |
-
-|  |  | 1445. | Lengyelország | Medycyna transportu |
-
-|  |  | 1446. | Portugália | Medicina tropical |
-
-|  |  | 1447. | Románia | – |
-
-|  |  | 1448. | Szlovénia | – |
-
-|  |  | 1449. | Szlovákia | Tropická medicína |
-
-|  |  | 1450. | Finnország | – |
-
-|  |  | 1451. | Svédország | – |
-
-|  |  | 1452. | Svájc | Médecine tropicale et médecine des voyages Tropen- und Reisemedizin Medicina tropicale e medicina di viaggio |
-
-|  |  | 1453. | Egyesült Királyság | Tropical medicine |
-
-|  |  | 1454. | Tüdőgyógyászat A képzés legrövidebb időtartama: 4 év |
-
-|  |  | 1455. | Belgium | Pneumologie |
-
-|  |  | 1456. | Bulgária | Пневмология и фтизиатрия |
-
-|  |  | 1457. | Cseh Köztársaság | Pneumologie a ftizeologie |
-
-|  |  | 1458. | Dánia | Intern medicin: lungesygdomme |
-
-|  |  | 1459. | Németország | Pneumologie/ Inner Medizin und Pneumologie (2011. júliustól) |
-
-|  |  | 1460. | Észtország | Pulmonoloogia |
-
-|  |  | 1461. | Görögország | Φυματιολογία- Πνευμονολογία |
-
-|  |  | 1462. | Spanyolország | Neumologia |
-
-|  |  | 1463. | Franciaország | Pneumologie |
-
-|  |  | 1464. | Horvátország | Pulmonologija |
-
-|  |  | 1465. | Írország | Respiratory medicine |
-
-|  |  | 1466. | Izland | Lungnalækningar |
-
-|  |  | 1467. | Olaszország | Malattie dell’apparato respiratorio |
-
-|  |  | 1468. | Ciprus | Πνευμονολογία – Φυματιολογία |
-
-|  |  | 1469. | Lettország | Ftiziopneimonoloģija |
-
-|  |  | 1470. | Liechtenstein | Pneumologie |
-
-|  |  | 1471. | Litvánia | Pulmonologija |
-
-|  |  | 1472. | Luxemburg | Pneumologie |
-
-|  |  | 1473. | Magyarország | Tüdőgyógyászat |
-
-|  |  | 1474. | Málta | Medicina Respiratorja |
-
-|  |  | 1475. | Hollandia | Longziekten en tuberculose |
-
-|  |  | 1476. | Norvégia | Lungesykdommer |
-
-|  |  | 1477. | Ausztria | Lungenkrankheiten/ Inner Medizin und Pneumologie (2015. júniustól) |
-
-|  |  | 1478. | Lengyelország | Choroby płuc |
-
-|  |  | 1479. | Portugália | Pneumologia |
-
-|  |  | 1480. | Románia | Pneumologie |
-
-|  |  | 1481. | Szlovénia | Pnevmologija |
-
-|  |  | 1482. | Szlovákia | Pneumológia a ftizeológia |
-
-|  |  | 1483. | Finnország | Keuhkosairaudet ja allergologia/Lungsjukdomar och allergologi |
-
-|  |  | 1484. | Svédország | Lungsjukdomar (pneumologi) |
-
-|  |  | 1485. | Svájc | Pneumologie Pneumologie Pneumologia |
-
-|  |  | 1486. | Egyesült Királyság | Respiratory medicine |
-
-|  |  | 1487. | Urológia A képzés legrövidebb időtartama: 5 év |
-
-|  |  | 1488. | Belgium | Urologie |
-
-|  |  | 1489. | Bulgária | Урология |
-
-|  |  | 1490. | Cseh Köztársaság | Urologie |
-
-|  |  | 1491. | Dánia | Urologi |
-
-|  |  | 1492. | Németország | Urologie |
-
-|  |  | 1493. | Észtország | Uroloogia |
-
-|  |  | 1494. | Görögország | Ουρολογία |
-
-|  |  | 1495. | Spanyolország | Urología |
-
-|  |  | 1496. | Franciaország | Chirurgie urologique |
-
-|  |  | 1497. | Horvátország | Urologija |
-
-|  |  | 1498. | Írország | Urology |
-
-|  |  | 1499. | Izland | Þvagfæraskurðlækningar |
-
-|  |  | 1500. | Olaszország | Urologia |
-
-|  |  | 1501. | Ciprus | Ουρολογία |
-
-|  |  | 1502. | Lettország | Uroloģija |
-
-|  |  | 1503. | Liechtenstein | Urologie |
-
-|  |  | 1504. | Litvánia | Urologija |
-
-|  |  | 1505. | Luxemburg | Urologie |
-
-|  |  | 1506. | Magyarország | Urológia |
-
-|  |  | 1507. | Málta | Urologija |
-
-|  |  | 1508. | Hollandia | Urologie |
-
-|  |  | 1509. | Norvégia | Urologi |
-
-|  |  | 1510. | Ausztria | Urologie |
-
-|  |  | 1511. | Lengyelország | Urologia |
-
-|  |  | 1512. | Portugália | Urologia |
-
-|  |  | 1513. | Románia | Urologie |
-
-|  |  | 1514. | Szlovénia | Urologija |
-
-|  |  | 1515. | Szlovákia | Urológia |
-
-|  |  | 1516. | Finnország | Urologia/Urologi |
-
-|  |  | 1517. | Svédország | Urologi |
-
-|  |  | 1518. | Svájc | Urologie Urologie Urologia |
-
-|  |  | 1519. | Egyesült Királyság | Urology |
-
-## D) A háziorvosi oklevelek megnevezései Magyarországon, valamint az egyes tagállamokban:
-
-| Ország | Oklevél megnevezése |
-
-| Belgium | Bijzondere beroepstitel van huisarts/Titre professionnel particulier de médecin généraliste |
-
-| Bulgária | Свидетелство за призната специалност по Обща медицина |
-
-| Cseh Köztársaság | Diplom o specializaci všeobecné praktické lékařství |
-
-| Dánia | Bevis for tilladelse til at betegne sig som speciallaege i almen medicin |
-
-| Németország | Zeugnis über die spezifische Ausbildung in der Allgemeinmedizin |
-
-| Esztország | Residentuuri lopetamist toendav tunnistus Diplom peremeditsiini erialal |
-
-| Görögország | Τίτλος ιατρικής ειδικóτητας γενικής ιατρικής |
-
-| Spanyolország | Titulo de especialista en medicina familiar y comunitaria |
-
-| Franciaország | Diplômes d’études spécialisées de médicine générale accompagné du diplôme d’Etat de docteur en médicine |
-
-| Horvátország | Diploma o specijalističkom usavršavanju |
-
-| Írország | Certificate of specific qualifications in general medical practice |
-
-| Izland | Almennt heimilislækningaleyfi (Evrópulækningaleyfi) |
-
-| Olaszország | Attestato di formazione specifica in medicina generale/ Diploma di formazione specifica in medicina generale |
-
-| Ciprus | Τίτλος Ειδικότητας Γενικής Ιατρικής |
-
-| Lettország | Ģimenes ārsta sertifikāts |
-
-| Liechtenstein | – |
-
-| Litvánia | Šeimos gydytojo rezidentūros pažymėjimas/ Rezidenturos pazyméjimas (seimos gydytojo profesiné kvalifikacija) |
-
-| Luxemburg | Diplome de formation spécifique en medicine générale |
-
-| Magyarország | Háziorvostan szakorvosa bizonyítvány |
-
-| Málta | Tabib tal-familja |
-
-| Hollandia | Certificaat van inschrijving in een specialistenregister van huisartse/ Diploma geneeskunding specialist |
-
-| Norvégia | Bevis for kompetanse som allmenpraktiserende lege |
-
-| Ausztria | Diplom über die besondere Ausbildung in der Allgemeinmedizin |
-
-| Lengyelország | Dyplom uzyskania tytułu specjalisty w dziedzinie medycyny rodzinnej |
-
-| Portugália | Título de especialista em medicina geral e familiar |
-
-| Románia | Certificat de medic specialist medicină de familie |
-
-| Szlovénia | Potrdilo o opravljeni specialisticnem izpitu iz družinske medicine |
-
-| Szlovákia | Diplom o špecializácii v odbore „všeobecné lekárstvo” |
-
-| Finnország | Todistus yleislääkeiteen erityiskoulutuksesta/Bevis om särskild allmänläkarutbildning |
-
-| Svédország | Bevis om specialistkompetens i allmänmedicin |
-
-| Svájc | Diplom als praktischer Arzt/praktische Ärztin Diplôme de médecin praticien Diploma di medico generico |
-
-| Egyesült Királyság | Certificate of completion of training |
-
-## E) A háziorvosi szakképesítés megnevezései Magyarországon, valamint az egyes tagállamokban:
-
-| Ország | Megnevezés |
-
-| Belgium | Huisarts /Médecin généraliste |
-
-| Bulgária | Лекар-специалист по Обща медицина |
-
-| Cseh Köztársaság | Všeobecný praktický lékař |
-
-| Dánia | Alment praktiserende læge/Speciallæge I almen medicin |
-
-| Németország | Facharzt/Fachärztin für Allgemeinmedizin |
-
-| Észtország | Perearst |
-
-| Görögország | Ιατρoς με ειδικóτητα γενικής ιατρικής |
-
-| Spanyolország | Especialista en medicina familiar y comunitaria |
-
-| Franciaország | Médecin qualifié en médecine générale |
-
-| Horvátország | Specijalist obiteljske medicine |
-
-| Írország | General medical practitioner |
-
-| Izland | – |
-
-| Olaszország | Medico di medicina generale |
-
-| Ciprus | Ιατρoς Γενικής Iατρικής |
-
-| Lettország | Ģimenes (vispārējās prakses) ārsts |
-
-| Liechtenstein | – |
-
-| Litvánia | Šeimos medicinos gydytojas/ Seimos gydytojas |
-
-| Luxemburg | Médecin généraliste |
-
-| Magyarország | Háziorvostan szakorvosa |
-
-| Málta | Medicina tal-familja |
-
-| Hollandia | Huisarts, Verpleeghuisarts en arts voor verstandelijk gehandicapte Registratie Commissie (HVRC)/ Registratiecommissie Geneeskundig Specialisten (RGS) van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst (2013. januártól) |
-
-| Norvégia | – |
-
-| Ausztria | Arzt für Allgemeinmedizin |
-
-| Lengyelország | Specjalista w dziedzinie medycyny rodzinnej |
-
-| Portugália | Especialista em medicina geral e familiar |
-
-| Románia | Medic specialist medicină de familie |
-
-| Szlovénia | Specialist družinske medicine/Specialistka družinske medicine |
-
-| Szlovákia | Všeobecný lekár |
-
-| Finnország | Yleislääkeieteen erityiskoulutuksen suorittanut laillistettu lääkäri/ Legitimerand läkare som har fullgjort särskild allmänläkarutbildning |
-
-| Svédország | Specialist i allmänmedicin |
-
-| Svájc | Médecin praticien Praktischer Arzt Medico generico |
-
-| Egyesült Királyság | General practitioner |
-
-## F) Feltétel nélküli elismerés a szerzett jogok esetén
-
-## a) Feltétel nélkül elismerésre kerül a tagállam által a tagállami állampolgár részére kiállított, a következő időpontok előtt megkezdett, a képzés sikeres elvégzését tanúsító orvosi oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek:
-
-## aa) 1976. december 20. Belgium, Dánia, Németország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia és az Egyesült Királyság,
-
-## ab) 1981. január 1. Görögország,
-
-## ac) 1986. január 1. Spanyolország és Portugália,
-
-## ad) 1994. január 1. Izland, Norvégia, Ausztria, Finnország és Svédország,
-
-## ae) 1995. május 1. Liechtenstein,
-
-## af) 2002. június 1. Svájc,
-
-## ag) 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Lengyelország, Szlovénia, Szlovákia,
-
-## ah) 2007. január 1. Bulgária és Románia,
-
-## ai) 2013. július 1. Horvátország
+## 1.9. 2013. július 1. Horvátország
 
 ## esetében, ha az oklevelet olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet.
 
-## b) Feltétel nélkül elismerésre kerül a tagállam által a tagállami állampolgár részére kiállított, a következő időpontok előtt megkezdett, a képzés sikeres elvégzését tanúsító szakorvosi oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek:
+## 2. Feltétel nélkül elismerésre kerül a tagállam által a tagállami állampolgár részére kiállított, a következő időpontok előtt megkezdett, a képzés sikeres elvégzését tanúsító szakorvosi oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek:
 
-## ba) 1976. december 20. Belgium, Dánia, Németország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia és az Egyesült Királyság,
+## 2.1. 1976. december 20. Belgium, Dánia, Németország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia és az Egyesült Királyság,
 
-## bb) 1981. január 1. Görögország,
+## 2.2. 1981. január 1. Görögország,
 
-## bc) 1986. január 1. Spanyolország és Portugália,
+## 2.3. 1986. január 1. Spanyolország és Portugália,
 
-## bd) 1994. január 1. Izland, Norvégia, Ausztria, Finnország és Svédország,
+## 2.4. 1994. január 1. Izland, Norvégia, Ausztria, Finnország és Svédország,
 
-## be) 1995. május 1. Liechtenstein,
+## 2.5. 1995. május 1. Liechtenstein,
 
-## bf) 2002. június 1. Svájc,
+## 2.6. 2002. június 1. Svájc,
 
-## bg) 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Lengyelország, Szlovénia, Szlovákia,
+## 2.7. 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Lengyelország, Szlovénia, Szlovákia,
 
-## bh) 2007. január 1. Bulgária és Románia,
+## 2.8. 2007. január 1. Bulgária és Románia,
 
-## bi) 2013. július 1. Horvátország
+## 2.9. 2013. július 1. Horvátország
 
 ## esetében, ha az oklevelet olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet.
 
-## c) Feltétel nélkül elismerésre kerül a tagállami állampolgár részére kiállított, a volt Német Demokratikus Köztársaság területén megszerzett, a képzés sikeres elvégzését tanúsító orvosi oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek, amennyiben:
+## 3. Feltétel nélkül elismerésre kerül a tagállami állampolgár részére kiállított, a volt Német Demokratikus Köztársaság területén megszerzett, a képzés sikeres elvégzését tanúsító orvosi oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek, amennyiben 1990. október 3. előtt megkezdett képzést igazol, és azt olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet. Ezen orvosi oklevél a birtokosát feljogosítja arra, hogy Németország területén orvosi tevékenységet ugyanolyan feltételek mellett gyakorolja, mint amilyen feltételek mellett az adott tevékenység az illetékes német hatóság által odaítélt és az A) pontban említett képesítés megszerzését tanúsító okirat birtokában gyakorolható.
 
-## – 1990. október 3. előtt megkezdett képzést igazol és azt olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet. Ezen orvosi oklevél a birtokosát feljogosítja arra, hogy Németország területén orvosi tevékenységet ugyanolyan feltételek mellett gyakorolja, mint amilyen feltételek mellett az adott tevékenység az illetékes német hatóság által odaítélt és az A) pontban említett képesítés megszerzését tanúsító okirat birtokában gyakorolható.
+## 4. Feltétel nélkül elismerésre kerül a tagállami állampolgár részére kiállított, a volt Német Demokratikus Köztársaság területén megszerzett, a képzés sikeres elvégzését tanúsító szakorvosi oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek, amennyiben 1992. április 3. előtt megkezdett képzést igazol, és az oklevelet olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet. Ezen szakorvosi oklevél a birtokosát feljogosítja arra, hogy Németország területén orvosi tevékenységet ugyanolyan feltételek mellett gyakorolja, mint amilyen feltételek mellett az adott tevékenység az illetékes német hatóság által odaítélt és a B) pontban említett képesítés megszerzését tanúsító okirat birtokában gyakorolható.
 
-## d) Feltétel nélkül elismerésre kerül a tagállami állampolgár részére kiállított, a volt Német Demokratikus Köztársaság területén megszerzett, a képzés sikeres elvégzését tanúsító szakorvosi oklevél, amely nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek, amennyiben:
+## 5. Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1993. január 1-jét megelőzően a volt Csehszlovákiában állították ki, vagy akinek a képzése ezen időpontot megelőzően a volt Csehszlovákiában kezdődött, amennyiben a Cseh Köztársaság illetékes hatósága tanúsítja, hogy a Cseh Köztársaság területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett cseh képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet a Cseh Köztársaság területén.
 
-## – 1992. április 3. előtt megkezdett képzést igazol és az oklevelet olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet. Ezen szakorvosi oklevél a birtokosát feljogosítja arra, hogy Németország területén orvosi tevékenységet ugyanolyan feltételek mellett gyakorolja, mint amilyen feltételek mellett az adott tevékenység az illetékes német hatóság által odaítélt és a B) pontban említett képesítés megszerzését tanúsító okirat birtokában gyakorolható.
+## 6. Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1993. január 1-jét megelőzően a volt Csehszlovákiában állították ki, vagy akinek a képzése ezen időpontot megelőzően a volt Csehszlovákiában kezdődött, amennyiben Szlovákia illetékes hatósága tanúsítja, hogy Szlovákia területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett szlovák képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Szlovákia területén.
 
-## e) Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1993. január 1-jét megelőzően a volt Csehszlovákiában állították ki vagy akinek a képzése ezen időpontot megelőzően a volt Csehszlovákiában kezdődött, amennyiben a Cseh Köztársaság illetékes hatósága tanúsítja, hogy a Cseh Köztársaság területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett cseh képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet a Cseh Köztársaság területén.
+## 7. Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1991. augusztus 20-át megelőzően a volt Szovjetunióban állították ki, vagy akinek a képzése ezen időpontot megelőzően a volt Szovjetunióban kezdődött, amennyiben Észtország illetékes hatósága tanúsítja, hogy Észtország területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett észt képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Észtország területén.
 
-## f) Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1993. január 1-jét megelőzően a volt Csehszlovákiában állították ki vagy akinek a képzése ezen időpontot megelőzően a volt Csehszlovákiában kezdődött, amennyiben Szlovákia illetékes hatósága tanúsítja, hogy Szlovákia területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett szlovák képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Szlovákia területén.
+## 8. Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1991. augusztus 21-ét megelőzően a volt Szovjetunióban állították ki, vagy akinek a képzése ezen időpontot megelőzően a volt Szovjetunióban kezdődött, amennyiben Lettország illetékes hatósága tanúsítja, hogy Lettország területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett lett képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Lettország területén.
 
-## g) Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1991. augusztus 20-át megelőzően a volt Szovjetunióban állították ki vagy akinek a képzése ezen időpontot megelőzően a volt Szovjetunióban kezdődött, amennyiben Észtország illetékes hatósága tanúsítja, hogy Észtország területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett észt képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Észtország területén.
+## 9. Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1990. március 11-ét megelőzően a volt Szovjetunióban állították ki, vagy akinek a képzése ezen időpontot megelőzően a volt Szovjetunióban kezdődött, amennyiben Litvánia illetékes hatósága tanúsítja, hogy Litvánia területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett litván képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Litvánia területén.
 
-## h) Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1991. augusztus 21-ét megelőzően a volt Szovjetunióban állították ki vagy akinek a képzése ezen időpontot megelőzően a volt Szovjetunióban kezdődött, amennyiben Lettország illetékes hatósága tanúsítja, hogy Lettország területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett lett képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Lettország területén.
+## 10. Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1991. június 25-ét megelőzően a volt Jugoszláviában állították ki, vagy akinek a képzése ezen időpontot megelőzően a volt Jugoszláviában kezdődött, amennyiben Szlovénia illetékes hatósága tanúsítja, hogy Szlovénia területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett szlovén képesítések.
 
-## i) Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1990. március 11-ét megelőzően a volt Szovjetunióban állították ki vagy akinek a képzése ezen időpontot megelőzően a volt Szovjetunióban kezdődött, amennyiben Litvánia illetékes hatósága tanúsítja, hogy Litvánia területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett litván képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Litvánia területén.
+## A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Szlovénia területén.
 
-## j) Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1991. június 25-ét megelőzően a volt Jugoszláviában állították ki vagy akinek a képzése ezen időpontot megelőzően a volt Jugoszláviában kezdődött, amennyiben Szlovénia illetékes hatósága tanúsítja, hogy Szlovénia területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett szlovén képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Szlovénia területén.
+## 11. Feltétel nélkül elismerésre kerül a tagállam által azon tagállami állampolgár részére kiállított oklevél, akinek orvosi, szakorvosi, háziorvosi oklevele nem felel meg az A), B), C) vagy D) pontban említett megnevezéseknek, amennyiben az oklevelet – a tagállam illetékes hatósága vagy szerve által kiadott – olyan igazolás kíséri, amely tanúsítja, hogy az adott orvosi, szakorvosi, háziorvosi oklevelet az európai közösségi jog által meghatározott minimális képzési követelményeknek megfelelő képzés sikeres teljesítését követően állították ki, és az azt kiállító tagállam úgy tekinti, mint az e melléklet A), B, C) vagy D) pontjában megnevezett oklevelet, képesítést.
 
-## k) Feltétel nélkül elismerésre kerül a tagállam által azon tagállami állampolgár részére kiállított oklevél, akinek orvosi, szakorvosi, háziorvosi oklevele nem felel meg az A), B), C) vagy D) pontban említett megnevezéseknek, amennyiben az oklevelet – a tagállam illetékes hatósága vagy szerve által kiadott – olyan igazolás kíséri, amely tanúsítja, hogy az adott orvosi, szakorvosi, háziorvosi oklevelet az európai közösségi jog által meghatározott minimális képzési követelményeknek megfelelő képzés sikeres teljesítését követően állították ki és az azt kiállító tagállam úgy tekinti, mint az e melléklet A), B, C) vagy D) pontjában megnevezett oklevelet, képesítést.
+## 12. Feltétel nélkül elismerésre kerül a szakorvosi oklevél azon tagállami állampolgár esetében, akinek 1975. június 20-án hatályos szabályozás alapján a nem teljes munkaidejű szakorvosi képzése 1983. december 31-éig megkezdődött, amennyiben az oklevelet olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet.
 
-## l) Feltétel nélkül elismerésre kerül a szakorvosi oklevél azon tagállami állampolgár esetében, akinek 1975. június 20-án hatályos szabályozás alapján a nem teljes munkaidejű szakorvosi képzése 1983. december 31-éig megkezdődött, amennyiben az oklevelet olyan igazolás kíséri, amely szerint az adott tagállami állampolgár az igazolás kiadását megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta az adott tevékenységet.
+## 13. Feltétel nélkül elismerésre kerül azon tagállami állampolgár részére Spanyolországban kiállított szakorvosi oklevél, aki szakképzését 1995. január 1-je előtt befejezte, ha a szóban forgó képzés nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek, amennyiben az oklevelet az illetékes spanyol hatóság által kiadott olyan igazolás kíséri, amely tanúsítja, hogy az adott tagállami állampolgár letette a vonatkozó spanyol jogszabályban (1479/99. sz. királyi rendelet) foglalt szakmai alkalmassági vizsgát.
 
-## m) Feltétel nélkül elismerésre kerül azon tagállami állampolgár részére Spanyolországban kiállított szakorvosi oklevél, aki szakképzését 1995. január 1-je előtt befejezte, ha a szóban forgó képzés nem felel meg az európai közösségi jog által meghatározott minimális képzési követelményeknek, amennyiben az oklevelet az illetékes spanyol hatóság által kiadott olyan igazolás kíséri, amely tanúsítja, hogy az adott tagállami állampolgár letette a vonatkozó spanyol jogszabályban (1479/99. sz. királyi rendelet) foglalt szakmai alkalmassági vizsgát.
+## 14. Feltétel nélkül elismerésre kerül a tagállam illetékes hatósága által a tagállami állampolgár számára kiállított olyan igazolás, amely tanúsítja, hogy az orvos a D) pontban említett, háziorvosi képesítés megszerzését tanúsító okirat hiányában a következőkben felsorolt időpontig az orvosi szakmára alkalmazandó – az általános orvosi szakmai tevékenységek gyakorlásának megkezdésére jogosító – rendelkezések erejénél fogva jogosult a háziorvosi tevékenységnek az adott tagállam szociális biztonsági rendszere keretében történő gyakorlására és aki az említett időpontig a tagállam területén letelepedett, valamint akinek az orvosi, szakorvosi oklevele feltétel nélkül elismerhető.
 
-## n) Feltétel nélkül elismerésre kerül a tagállam illetékes hatósága által a tagállami állampolgár számára kiállított olyan igazolás, amely tanúsítja, hogy az orvos a D) pontban említett, háziorvosi képesítés megszerzését tanúsító okirat hiányában a következőkben felsorolt időpontig az orvosi szakmára alkalmazandó – az általános orvosi szakmai tevékenységek gyakorlásának megkezdésére jogosító – rendelkezések erejénél fogva jogosult a háziorvosi tevékenységnek az adott tagállam szociális biztonsági rendszere keretében történő gyakorlására és aki az említett időpontig a tagállam területén letelepedett, valamint akinek az orvosi, szakorvosi oklevele feltétel nélkül elismerhető.
+## 14.1. 1994. december 31. Belgium, Dánia, Németország, Görögország, Spanyolország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia, Ausztria, Portugália, Finnország, Svédország és az Egyesült Királyság,
 
-## na) 1994. december 31. Belgium, Dánia, Németország, Görögország, Spanyolország, Franciaország, Írország, Olaszország, Luxemburg, Hollandia, Ausztria, Portugália, Finnország, Svédország és az Egyesült Királyság,
+## 14.2. 2002. június 1. Svájc,
 
-## nb) 2002. június 1. Svájc,
+## 14.3. 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Lengyelország, Szlovénia, Szlovákia,
 
-## nc) 2004. május 1. a Cseh Köztársaság, Észtország, Ciprus, Lettország, Litvánia, Málta, Lengyelország, Szlovénia, Szlovákia,
+## 14.4. 2007. január 1. Bulgária és Románia,
 
-## nd) 2007. január 1. Bulgária és Románia,
-
-## ne) 2013. július 1. Horvátország
+## 14.5. 2013. július 1. Horvátország
 
 ## esetében.
 
-## A fenti igazolást ugyanolyan hatályúnak kell tekinteni, mint a külön jogszabályban meghatározott, a háziorvosi szakképzettség megszerzését tanúsító okiratot.
+## 15. Feltétel nélkül elismerésre kerül az Olaszországban megszerzett és az irányelv V. melléklet 5.1.2. és 5.1.3. pontjában felsorolt szakorvosi képesítés azon orvosok esetében, akik szakorvosi képzésüket 1983. december 31. után és 1991. január 1. előtt kezdték meg, feltéve, hogy a képesítés megszerzését tanúsító okirathoz csatolják azt az illetékes olaszországi hatóságok által kiállított igazolást, amelynek értelmében az érintett orvos Olaszországban ugyanazon az érintett szakterületen ténylegesen és jogszerűen, az igazolás kiállítását megelőző tíz éven belül legalább hét egymást követő évben szakorvosként tevékenykedett.
 
-## o) Feltétel nélkül elismerésre kerül az Olaszországban megszerzett és az irányelv V. melléklet 5.1.2. és 5.1.3. pontjában felsorolt szakorvosi képesítés azon orvosok esetében, akik szakorvosi képzésüket 1983. december 31. után és 1991. január 1. előtt kezdték meg, feltéve, hogy a képesítés megszerzését tanúsító okirathoz csatolják azt az illetékes olaszországi hatóságok által kiállított igazolást, amelynek értelmében az érintett orvos Olaszországban ugyanazon az érintett szakterületen ténylegesen és jogszerűen, az igazolás kiállítását megelőző tíz éven belül legalább hét egymást követő évben szakorvosként tevékenykedett.
+2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^13]
 
-2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^12]
-
-[^12]: A 2. számú melléklet az 50/2009. (XII. 30.) EüM rendelet 1. § b) pontja, a 12/2010. (X. 15.) NEFMI rendelet 1. § b) pontja, a 24/2012. (IV. 18.) NEFMI rendelet 6. §-a, a 61/2013. (VIII. 22.) EMMI rendelet 1. § b) pontja, az 56/2015. (XII.17.) EMMI rendelet 1. § b) pontja, a 28/2016. (IX. 29.) EMMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 2. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § b) pontjával megállapított szöveg.
