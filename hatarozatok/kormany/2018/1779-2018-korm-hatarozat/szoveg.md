@@ -10,4 +10,6 @@ Felelős: Nemzeti Adó- és Vámhivatal vezetője
 
 Határidő: 2019. november 30.
 
-3. A központi költségvetést megillető kötelezettségek egységes nyilvántartásának kialakításáról szóló 1077/2018. (III. 13.) Korm. határozatban a „2019. január 1.” szövegrész helyébe a „2020. január 1.” szöveg lép.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
