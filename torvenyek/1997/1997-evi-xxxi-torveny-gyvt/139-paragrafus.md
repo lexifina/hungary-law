@@ -10,6 +10,10 @@ c) a térítési díj fizetési kötelezettség teljesítésére, elmaradására
 
 (1b) Biztos Kezdet Gyerekház szolgáltatás esetén az (1) bekezdés szerinti nyilvántartás kizárólag a 138. § (1) bekezdés a)–c) és f) pontjában foglaltakat tartalmazza.
 
+(1c) Gyermekek napközbeni ellátása esetén az (1) bekezdés szerinti nyilvántartás kizárólag a gyermek személyazonosító adatait és társadalombiztosítási azonosító jelét, valamint a 138. § (1) bekezdés b)–e) pontjában és az (1) bekezdés b) és c) pontjában foglaltakat tartalmazza.
+
+(1d) Gyermekek napközbeni ellátása esetén az (1c) bekezdés szerinti nyilvántartásként kell elfogadni azt az ellátást nyújtó személy vagy az intézmény vezetője által vezetett más, a szolgáltatás nyújtásával kapcsolatos nyilvántartást is, amely az (1c) bekezdésben meghatározott adatokat tartalmazza.
+
 (2) A kincstár a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
 a) a személyes gondoskodásban részesülő személy
@@ -42,11 +46,13 @@ f) a fiatal felnőtt hatósági döntéssel elrendelt utógondozása esetén
 
 fa) a határozatot hozó szerv nevét, a határozat számát, keltét, véglegessé válásának napját,
 
-fb) a hatósági döntés jellegét (utógondozás elrendelése, otthonteremtési támogatás igénybevétele miatti utógondozás elrendelése).
+fb) a hatósági döntés jellegét (utógondozás elrendelése, otthonteremtési támogatás igénybevétele miatti utógondozás elrendelése),
+
+g) családi bölcsőde és munkahelyi bölcsőde esetén a gyermek törvényes képviselőjének személyazonosító adatait, ha a törvényes képviselő a kisgyermeket nevelők munkaerőpiaci visszatérésének támogatására irányuló Gazdaságfejlesztési és Innovációs Operatív Program keretében térítésidíj-támogatásban részesül.
 
 (3) Nem kell a (2) bekezdés szerinti nyilvántartásba venni az adatokat
 
-a) a gyermekek napközbeni ellátásánál, ha a fenntartó a központi költségvetésből támogatásban nem részesül,
+a) a gyermekek napközbeni ellátásánál, ha a fenntartó a központi költségvetésből támogatásban nem részesül, és a gyermek törvényes képviselője a kisgyermeket nevelők munkaerőpiaci visszatérésének támogatására irányuló Gazdaságfejlesztési és Innovációs Operatív Program keretében térítésidíj-támogatásban nem részesül,
 
 b)
 
