@@ -1,1 +1,3 @@
-## „(3) A támogató a kedvezményezettet hiánypótlásra szólítja fel, ha a kedvezményezett nem nyújtja be a támogatási szerződés megkötéséhez szükséges dokumentumokat. Hiánypótlásra két alkalommal, az első felszólítás kézhezvételétől számított harminc napon belül, valamint a második felszólítás kézhezvételétől számított tizenöt napon belül van lehetőség, a határidő elmulasztása esetén igazolásnak nincs helye. A hiánypótlások időtartama a támogatási szerződés megkötésére meghatározott határidőbe nem számít bele.”
+## 13. §[^5]
+
+[^5]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
