@@ -44,6 +44,10 @@ l) a személyre szabott ügyintézési felület szolgáltatáshoz kapcsolódó a
 
 tarthatók nyilván.
 
+(2a) A központi nyugdíjbiztosítási szerv az állami adóhatóság felé fennálló adatszolgáltatási és jogszabályon alapuló egyéb kötelezettségének teljesítése érdekében kezeli a jogosult adóazonosító jelét.
+
+(2b) A nyugdíjbiztosítási igazgatási szervek a 883/2004/EK európai parlamenti és tanácsi rendelet 76. cikke szerinti együttműködés keretében az EGT-állam által nyújtott ellátások megállapítása, illetve folyósítása céljából, az ahhoz szükséges ideig kezelik a részükre megküldött, a (2) bekezdésben nem említett adatokat.
+
 (3) A 96. § (2) bekezdése alapján nyilvántartásba vett adatokból
 
 a) az állami adóhatóság, valamint a vámhatóság az ellenőrzési feladatok érdekében az a) pont szerinti adatok, valamint a d) pontból a munkahelyre vonatkozó,
@@ -79,3 +83,11 @@ szerinti adatok igénylésére jogosultak.
 (9)
 
 (10) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a nyugdíjbiztosítási igazgatási szervek által e törvény szerint kezelt személyes és különleges adatokat.
+
+(11) Ha törvény másként nem rendelkezik, a nyugdíjbiztosítási igazgatási szervek nyilvántartásában a biztosítottra, volt biztosítottra, illetve a jogosultra vonatkozó adatok kezelését
+
+a) – a b) pontban nem említett esetben – a biztosított, volt biztosított, illetve a jogosult halálát követő 5 év elteltével,
+
+b) hozzátartozói nyugellátás megállapítása esetén a biztosított, volt biztosított után megállapított hozzátartozói nyugellátás – több hozzátartozói nyugellátás esetén az utoljára megszűnt ellátás – megszűnését követő 15 év elteltével, de legkésőbb a biztosított, volt biztosított után hozzátartozói nyugellátásban részesülő személy – több hozzátartozói nyugellátásban részesülő személy esetén az utoljára elhunyt személy – halálát követő 5 év elteltével
+
+korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célból – fel kell oldani, ha a biztosított, volt biztosított, illetve a jogosult valamely nyilvántartott adatára nyugdíjbiztosítási, vagy a nyugdíjfolyósító igazgatóság által folyósított más ellátással kapcsolatos jogosultság érvényesítése érdekében szükség van. A korlátozás alól feloldott adatok kezelését az a) és b) pontban foglaltak szerint kell ismételten korlátozni. A 20 éve folyamatosan korlátozottan kezelt adatokat törölni kell.

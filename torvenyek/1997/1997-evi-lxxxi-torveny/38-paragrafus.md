@@ -14,7 +14,7 @@ f) az álláskeresési támogatás folyósításának időtartamát, ha az elő�
 
 g) azt az időt, amely az 1997. december 31-én hatályos rendelkezések szerint szolgálati időnek minősült,
 
-h) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti fejlesztési jogviszonyban foglalkoztatott személy tekintetében a fejlesztési foglalkoztatási óradíj folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
+h) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitáció keretében vagy fejlesztési jogviszonyban foglalkoztatott személy tekintetében a munka-rehabilitációs díj, illetve a fejlesztési foglalkoztatási díj folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
 
 i) az Rjtv. szerinti rehabilitációs járadék folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
 

@@ -2,11 +2,11 @@
 
 80. § (1) Ha a nyugdíjbiztosítási igazgatási szerv a nyugellátás iránti igényt jogszabálysértően utasította el, a nyugellátást – kérelemre vagy hivatalból – az eredeti igénybejelentés időpontjának figyelembevételével meghatározott időponttól kezdődően állapítja meg.
 
-(1a) A nyugdíjbiztosítási igazgatási szerv a nyugellátást – kérelemre vagy hivatalból – a nyugellátás eredeti kezdő időpontjától kezdődően magasabb összegben újra megállapítja, ha
+(1a) A nyugdíjbiztosítási igazgatási szerv a nyugellátást – kérelemre vagy hivatalból – a nyugellátás eredeti kezdő időpontjától kezdődően, a nyugellátás eredeti kezdő időpontjában alkalmazandó jogszabályok alapján, magasabb összegben, vagy az igénylő számára egyébként kedvezőbb módon újra megállapítja, ha
 
-a) a nyugellátást jogszabálysértően állapította meg az igénylőnek járónál alacsonyabb összegben, vagy
+a) a nyugellátást jogszabálysértően állapították meg az igénylőnek járónál alacsonyabb összegben, vagy az igénylő számára egyébként kedvezőtlenebb módon, vagy
 
-b) a nyugellátás összegét jogszerűen állapította meg, de a magasabb összegben történő újra megállapítás az azóta tudomására jutott tények, adatok vagy bizonyítékok alapján indokolt.
+b) a nyugellátás összegét jogszerűen állapították meg, de a magasabb összegben vagy az igénylő számára egyébként kedvezőbb módon történő újra megállapítás az azóta tudomására jutott tények, adatok vagy bizonyítékok alapján indokolt.
 
 (1b) Az (1) bekezdés és az (1a) bekezdés a) pontja szerinti esetben, valamint ha a nyugellátást a nyugdíjbiztosítási igazgatási szerv vagy a nyugdíjfolyósító szerv jogszabálysértése miatt nem folyósították, a jogszabálysértés megállapításától számított öt éven belül járó összeget és az (5) bekezdés szerinti késedelmi kamatot ki kell fizetni a jogosultnak.
 
@@ -22,7 +22,7 @@ b) a nyugellátás összegét jogszerűen állapította meg, de a magasabb össz
 
 (5) A késedelmi kamat naptári napokra számított mértéke a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
 
-(6) Ha a nyugdíjbiztosítási igazgatási szerv a nyugellátást jogszabálysértően állapította meg az igénylőnek járónál magasabb összegben, a nyugellátást egy ízben, az azt megállapító döntés véglegessé válásától számított öt éven belül, hivatalból alacsonyabb összegben újra megállapítja.
+(6) Ha a nyugellátást jogszabálysértően állapították meg az igénylőnek járónál magasabb összegben, vagy az igénylő számára egyébként kedvezőbb módon, a nyugdíjbiztosítási igazgatási szerv a nyugellátást egy ízben, az azt megállapító döntés véglegessé válásától számított öt éven belül, a nyugellátás eredeti kezdő időpontjában alkalmazandó jogszabályok alapján, hivatalból alacsonyabb összegben, vagy az igénylő számára egyébként kedvezőtlenebb módon újra megállapítja.
 
 (7) Ha a nyugdíjbiztosítási igazgatási szerv jogszabálysértően arra nem jogosultnak állapított meg nyugellátást, a nyugellátást az azt megállapító döntés véglegessé válásától számított öt éven belül, hivatalból megszünteti.
 

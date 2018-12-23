@@ -1,4 +1,4 @@
-66. § (1) Különös méltánylást érdemlő körülmények fennállása esetén a kormányrendeletben meghatározott nyugdíjbiztosítási igazgatási szerv vezetője
+66. § (1) Különös méltánylást érdemlő körülmények fennállása esetén a kormányrendeletben meghatározott nyugdíjbiztosítási igazgatási szerv méltányosságból
 
 a) az öregségi nyugdíjkorhatárt elérő személy, a megváltozott munkaképességű özvegy és az árva részére kivételes nyugellátást (a továbbiakban együtt: kivételes nyugellátás) állapíthat meg,
 
