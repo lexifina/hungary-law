@@ -8,11 +8,11 @@
 
 a) szarvasmarhafélék: szarvasmarha, bivaly, bölény (a továbbiakban együtt: szarvasmarha),
 
-b) lófélék: ló, szamár, öszvér,
+b)[^2] lófélék: a 90/427/EGK és a 2009/156/EK tanácsi irányelv alapján a lófélék azonosítási módszerei tekintetében alkalmazandó szabályok meghatározásáról (lóútlevélről szóló rendelet) szóló, 2015. február 17-i 2015/262 EU bizottsági végrehajtási rendelet 2. cikk a) pontjában meghatározott állatok,
 
-c)[^2] sertés: a Suidae családba tartozó bármely állat, beleértve a nem kizárólag bemutatás, vagy közvetlenül vadászati hasznosítás céljából fogságban tartott vaddisznót is;
+c)[^3] sertés: a Suidae családba tartozó bármely állat, beleértve a nem kizárólag bemutatás, vagy közvetlenül vadászati hasznosítás céljából fogságban tartott vaddisznót is;
 
-d) juh és kecske,
+d)[^4] juh- és kecskefélék,
 
 e) baromfi és egyéb madárfajok (a továbbiakban együtt: baromfi): házityúk, pulyka, kacsa, lúd, gyöngytyúk, galamb, fácán, fogoly, fürj, laposmellű futómadár (strucc, emu),
 
@@ -24,58 +24,68 @@ h) halfajok,
 
 i) méh,
 
-j)[^3] a c) és az e) alpontokban felsoroltaktól eltérő fajú egyéb vadászható vadfajok
+j)[^5] a c) és az e) alpontokban felsoroltaktól eltérő fajú egyéb vadászható nagyvadfajok
 
-k)[^4]
+k)[^6]
 
-2. árutermelő/kereskedő tenyészet típus: állatot tenyésztési, végtermék-előállítási, kereskedői vagy nem gazdasági céllal tartó tenyészet;
+2.[^7] állattartó tenyészet típus: állatot tenyésztési, végtermék-előállítási, kereskedői vagy nem gazdasági céllal tartó tenyészet;
 
-3.[^5]
+3.[^8]
 
-4.[^6] állattartó/üzemeltető (a továbbiakban együtt: állattartó): az a természetes személy vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki/amely a tartott állatokért, illetve egy adott létesítmény üzemeltetéséért akár állandó, akár ideiglenes jelleggel felelős;
+4.[^9] állattartó/üzemeltető (a továbbiakban együtt: állattartó): az a természetes személy vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki/amely a tartott állatokért, illetve egy adott létesítmény üzemeltetéséért akár állandó, akár ideiglenes jelleggel felelős;
 
-5. Baromfi Információs Rendszer (a továbbiakban: BIR): a baromfi állománymozgások, a keltetések és a baromfi törzsállományok nyilvántartására létrehozott számítógépes rendszer;
+5.[^10] BIR: a baromfi állománymozgások, a keltetések és a baromfi törzsállományok, valamint meghatározott járványügyi helyzet esetén a bejelentett létszámadatok nyilvántartására létrehozott Baromfi Információs Rendszer;
 
-6. ENAR: a szarvasmarhák, a sertések, a juhok és a kecskék Egységes Nyilvántartási és Azonosítási Rendszereinek összefoglaló elnevezése;
+6.[^11] ENAR: a szarvasmarha-, a juh- és kecskefélék Egységes Nyilvántartási és Azonosítási Rendszereinek, valamint a Sertés Nyomonkövetési Rendszernek az összefoglaló elnevezése;
 
-7.[^7] ENAR-koordinátor: az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) által kijelölt hatósági állatorvos, aki irányítja és ellenőrzi az adott megyében a TIR és az ENAR működtetését;
+7.[^12] ENAR-koordinátor: az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) által kijelölt állami tisztviselő, aki irányítja és ellenőrzi az adott megyében a TIR és az ENAR működtetését;
 
-8.[^8] ENAR-felelős: a tenyészetekben az állatok jelölésének végrehajtásáért és a számára előírt ENAR feladatok ellátásáért felelős személy. A megyei körzetekbe sorolt tenyészetekben a megyei kormányhivatal által kijelölt körzeti kapcsolattartó állatorvos, önálló tenyészetekben az állattartó vagy megbízottja;
+8.[^13] ENAR-felelős: a tenyészetekben az állatok jelölésének végrehajtásáért és a számára előírt ENAR feladatok ellátásáért felelős személy. A megyei körzetekbe sorolt tenyészetekben a megyei kormányhivatal által kijelölt körzeti kapcsolattartó állatorvos, önálló tenyészetekben az állattartó vagy megbízottja;
 
 9. kapcsolattartó személy: a szarvasmarha, a sertés, a juh és kecske fajok egyikét sem tartó tenyészetekben az állattartó által kijelölt személy, aki a kapcsolatot tarja a TIR üzemeltetőivel. Baromfi- vagy halkeltetőkben a keltetésvezető;
 
-10.[^9]
+10.[^14]
 
 11. megyei körzet: egy kapcsolattartó állatorvoshoz rendelt szarvasmarha- és/vagy sertéstartó tenyészetek összessége;
 
-12. Országos Adatbázis: a tenyészetek, a tartási helyek, az állatok, az állatmozgások nyilvántartására, valamint az ezekkel kapcsolatos adatok kezelésére, feldolgozására és az arra jogosultak részére adat szolgáltatására létrehozott TIR, ENAR és BIR rendszerek központi számítógépes adatbázisa;
+12.[^15] Országos Adatbázis: az élelmiszerlánc-felügyeleti információs rendszer részét képező, a tenyészetek, a tartási helyek, az állatok, az állatmozgások, az állatlétszámok nyilvántartására, valamint az ezekkel kapcsolatos adatok kezelésére, feldolgozására és az arra jogosultak részére adat szolgáltatására létrehozott TIR, ENAR és BIR rendszerek központi számítógépes adatbázisa;
 
-13.[^10] Országos Állategészségügyi Információs Rendszer (a továbbiakban: OÁIR): a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) élőállat- és állati eredetű termékszállítás ellenőrzési, járványügyi, állatjóléti, élelmiszer-higiéniai, élelmiszer minőségellenőrzési, takarmányfelügyeleti, gyógyszer-ellenőrzési és laboratóriumi diagnosztikai feladatainak támogatására kialakított információs rendszer;
+13.[^16] Országos Állategészségügyi Információs Rendszer (a továbbiakban: OÁIR): a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) élőállat- és állati eredetű termékszállítás ellenőrzési, járványügyi, állatjóléti, élelmiszer-higiéniai, élelmiszer minőségellenőrzési, takarmányfelügyeleti, gyógyszer-ellenőrzési és laboratóriumi diagnosztikai feladatainak támogatására kialakított információs rendszer;
 
-14.[^11] önálló tenyészet: olyan árutermelő/kereskedő vagy karantén típusú, szarvasmarhát és/vagy sertést tartó tenyészet, amelyben a megyei kormányhivatal 5. § szerinti engedélyével az állattartó saját maga vagy megbízottja útján látja el az ENAR-ral kapcsolatos feladatokat;
+14.[^17] önálló tenyészet: olyan állattartó vagy karantén típusú, szarvasmarhát és/vagy sertést tartó tenyészet, amelyben a megyei kormányhivatal 5. § szerinti engedélyével az állattartó saját maga vagy megbízottja útján látja el az ENAR-ral kapcsolatos feladatokat;
 
-15. tartási hely: bármely olyan, egy járványügyi egységet képező létesítmény, építmény vagy fedetlen gazdaság esetén bármely olyan hely, ahol az (1) bekezdés szerinti állatokat állandó vagy időszakos jelleggel tartanak, vagy ahol ilyen állatok tartózkodnak, beleértve a vágóhidakat, a halfeldolgozókat, a keltető üzemeket és az állati hulla megsemmisítőket. Több létesítmény, építmény egy tartási helynek tekintendő, ha az állatok egymással közvetlenül érintkezhetnek, függetlenül az ott tartott állatok fajától, hasznosításuk módjától. Amennyiben egy tartási helyen több tenyészet található, úgy azoknak azonos állategészségügyi minősítésűnek kell lenniük;
+15.[^18] tartási hely: bármely olyan, egy járványügyi egységet képező létesítmény, építmény vagy fedetlen gazdaság esetén bármely olyan hely, ahol az (1) bekezdés szerinti állatokat állandó vagy időszakos jelleggel tartanak, vagy ahol ilyen állatok tartózkodnak, beleértve a vágóhidakat, a halfeldolgozókat, a keltető üzemeket és az állati melléktermék-feldolgozókat. Több létesítmény, építmény egy tartási helynek tekintendő, ha az állatok egymással közvetlenül érintkezhetnek, függetlenül az ott tartott állatok fajától, hasznosításuk módjától. Amennyiben egy tartási helyen több tenyészet található, úgy azoknak azonos állategészségügyi minősítésűnek kell lenniük;
+
+15a.[^19] Tartási helyek és tenyészetek összerendelése: a tartott állatok és azok tényleges tartási helyének az Országos Adatbázisban történő összerendelése.
 
 16. támogatás: minden olyan nemzeti hatáskörben vagy az Európai Unió közös agrárpolitikája magyarországi végrehajtásának keretében teljesített pénzbeni kifizetés vagy olyan nyújtott kedvezmény, amelynek pénzben meghatározott értéke van, és amelyhez a folyósításon túl a kedvezményezett állattartó által teljesítendő kötelezettség tartozik;
 
 17. tenyészet: egy állattartó a hozzá tartozó tartási hellyel együtt;
 
-18.[^12] tenyésztési hatóság: a NÉBIH;
+18.[^20]
 
 19. tyúktojás egyenérték: különböző fajhoz tartozó baromfi félék tojásainak tyúktojáshoz rendelt viszonyító száma, amely a keltető üzemek kapacitásának egységes meghatározását szolgálja. Ennek megfelelően egy darab gyöngytyúktojás egy tyúktojás egyenértéknek, egy darab lúdtojás három tyúktojás egyenértéknek, egy kacsa, illetve pulykatojás két tyúktojás egyenértéknek, egy darab strucctojás huszonhárom tyúktojás egyenértéknek, valamint egy darab emutojás tíz tyúktojás egyenértéknek felel meg;
 
-20.[^13] Útmutató: a NÉBIH által készített és a www.enar.hu honlapon közzétett TIR formanyomtatvány-gyűjtemény és kitöltési-eljárási tájékoztató.
+20.[^21] Útmutató: a NÉBIH által készített és a www.enar.hu honlapon közzétett TIR formanyomtatvány-gyűjtemény és kitöltési-eljárási tájékoztató.
 
 [^1]: Az 1. § a 22/2014. (III. 14.) VM rendelet 46. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § 1. pont c) alpontja a 4/2009. (I. 16.) FVM rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § 1. pont j) alpontja a 4/2009. (I. 16.) FVM rendelet 30. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § 1. pont k) alpontját a 4/2009. (I. 16.) FVM rendelet 32. § (2) bekezdése hatályon kívül helyezte.
-[^5]: A 2. § 3. pontját a 88/2013. (X. 2.) VM rendelet 43. § a) pontja hatályon kívül helyezte.
-[^6]: A 2. § 4. pontja a 22/2014. (III. 14.) VM rendelet 46. § b) pontja szerint módosított szöveg.
-[^7]: A 2. § 7. pontja a 42/2017. (VIII. 17.) FM rendelet 98. § a) pontja szerint módosított szöveg.
-[^8]: A 2. § 8. pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
-[^9]: A 2. § 10. pontját a 88/2013. (X. 2.) VM rendelet 43. § a) pontja hatályon kívül helyezte.
-[^10]: A 2. § 13. pontja a 88/2013. (X. 2.) VM rendelet 42. § 3. pontja szerint módosított szöveg.
-[^11]: A 2. § 14. pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
-[^12]: A 2. § 18. pontja a 88/2013. (X. 2.) VM rendelet 42. § 5. pontja szerint módosított szöveg.
-[^13]: A 2. § 20. pontja a 88/2013. (X. 2.) VM rendelet 37. §-ával megállapított szöveg.
+[^2]: A 2. § 1. pont b) alpontja a 40/2018. (XII. 15.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 1. pont c) alpontja a 4/2009. (I. 16.) FVM rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 1. pont d) alpontja a 40/2018. (XII. 15.) AM rendelet 5. § a) pontjával megállapított szöveg.
+[^5]: A 2. § 1. pont j) alpontja a 4/2009. (I. 16.) FVM rendelet 30. § (2) bekezdésével megállapított, a 40/2018. (XII. 15.) AM rendelet 5. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § 1. pont k) alpontját a 4/2009. (I. 16.) FVM rendelet 32. § (2) bekezdése hatályon kívül helyezte.
+[^7]: A 2. § 2. pontja a 40/2018. (XII. 15.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^8]: A 2. § 3. pontját a 88/2013. (X. 2.) VM rendelet 43. § a) pontja hatályon kívül helyezte.
+[^9]: A 2. § 4. pontja a 22/2014. (III. 14.) VM rendelet 46. § b) pontja szerint módosított szöveg.
+[^10]: A 2. § 5. pontja a 40/2018. (XII. 15.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^11]: A 2. § 6. pontja a 40/2018. (XII. 15.) AM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^12]: A 2. § 7. pontja a 42/2017. (VIII. 17.) FM rendelet 98. § a) pontja, a 40/2018. (XII. 15.) AM rendelet 5. § d) pontja szerint módosított szöveg.
+[^13]: A 2. § 8. pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
+[^14]: A 2. § 10. pontját a 88/2013. (X. 2.) VM rendelet 43. § a) pontja hatályon kívül helyezte.
+[^15]: A 2. § 12. pontja a 40/2018. (XII. 15.) AM rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^16]: A 2. § 13. pontja a 88/2013. (X. 2.) VM rendelet 42. § 3. pontja szerint módosított szöveg.
+[^17]: A 2. § 14. pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja, a 40/2018. (XII. 15.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^18]: A 2. § 15. pontja a 40/2018. (XII. 15.) AM rendelet 5. § e) pontja szerint módosított szöveg.
+[^19]: A 2. § 15a. pontját a 40/2018. (XII. 15.) AM rendelet 4. § (5) bekezdése iktatta be.
+[^20]: A 2. § 18. ponját a 40/2018. (XII. 15.) AM rendelet 6. § a) pontja hatályon kívül helyezte.
+[^21]: A 2. § 20. pontja a 88/2013. (X. 2.) VM rendelet 37. §-ával megállapított szöveg.

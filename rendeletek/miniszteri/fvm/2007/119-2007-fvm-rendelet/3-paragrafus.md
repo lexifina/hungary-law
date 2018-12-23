@@ -1,23 +1,19 @@
 ## Tartási helyek létesítése, tenyészetek kialakítása
 
-3. § (1)[^14] Tartási helyek létesítéséhez, tenyészetek kialakításához a megyei kormányhivatal hozzájárulása szükséges.
+3. § (1)[^22] Tartási helyek létesítéséhez, tenyészetek kialakításához a megyei kormányhivatal hozzájárulása szükséges.
 
-(2) Az állattartónak a nyilvántartásba vételi bejelentése során, ha az állattartóhoz több tartási hely tartozik, akkor – a (6) bekezdésben foglaltak kivételével – ezekből különböző tenyészeteket kell kialakítania.
+(2)[^23] Az állattartónak a nyilvántartásba vételi bejelentése során, a hozzá tartozó tartási helyenként különböző tenyészetet kell kialakítania.
 
 (3) Egy tenyészetnek egy időben csak egy állattartója lehet. Ha egy tartási helyen több állattartó is tart állatot, akkor minden állattartónak külön kell kialakítania és bejelentenie egy tenyészetet.
 
-(4) Egy tenyészet csak egyféle [árutermelő/kereskedő, vágóhíd/halfeldolgozó, karantén, baromfi- és halkeltető, mesterséges termékenyítő állomás, piac (állatvásár), rakodóhely (gyűjtőállomás), állategészségügyi intézmény, állatkiállítás, állati hulladék megsemmisítő állomás, etető/itató hely, pihentető hely, vagy az Útmutatóban felsorolt egyéb] típusú lehet.
+(4)[^24] Egy tenyészet csak egyféle [állattartó, vágóhíd, halfeldolgozó, karantén, baromfikeltető, halkeltető, mesterséges termékenyítő állomás, piac (állatvásár), rakodóhely, gyűjtőállomás, állategészségügyi intézmény, állatkiállítás, állati eredetű melléktermék feldolgozó, ellenőrző állomás (pihentető hely) vagy az Útmutatóban felsorolt egyéb] típusú lehet.
 
-(5) Egy tartási hely ugyanannak az állattartónak csak egy tenyészetéhez tartozhat.
+(5)[^25] Egy tartási hely – méhek esetében az állandó tartási hely – ugyanannak az állattartónak csak egy tenyészetéhez tartozhat, kivéve, ha a tenyészetek minősítése eltér.
 
-(6)[^15] Az állattartó írásbeli kérelmére, a megyei kormányhivatal engedélyezheti földrajzilag elkülönült tartási helyekből egy tenyészet kialakítását és nyilvántartását, amennyiben az ott tartott állatok állategészségügyi minősítése megegyezik és a tartási helyek ugyanazon megye területén vannak. Az állattartó erre vonatkozó kérelmének tartalmaznia kell:
+(6)[^26]
 
-a) az egy tenyészetbe kerülő tartási helyeket a címük feltüntetésével;
-
-b) az állatok tartási helyek közötti mozgásának leírását; és
-
-c)[^16] az állattartó nyilatkozatát arról, hogy szarvasmarha, sertés, juh, kecske és baromfi fajok esetében vállalja a tartási helyek közötti állatmozgás naprakész nyilvántartását és az ezzel összefüggő adatok ellenőrző hatóság részére történő szolgáltatását, továbbá az egy tenyészetkódon történő nyilvántartásból adódó következményeket, egy esetleges forgalmi korlátozást igénylő hatósági állategészségügyi intézkedés esetén.
-
-[^14]: A 3. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
-[^15]: A 3. § (6) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
-[^16]: A 3. § (6) bekezdés c) pontja a 88/2013. (X. 2.) VM rendelet 42. § 6. pontja szerint módosított szöveg.
+[^22]: A 3. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
+[^23]: A 3. § (2) bekezdése a 40/2018. (XII. 15.) AM rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^24]: A 3. § (4) bekezdése a 40/2018. (XII. 15.) AM rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^25]: A 3. § (5) bekezdése a 40/2018. (XII. 15.) AM rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^26]: A 3. § (6) bekezdését a 40/2018. (XII. 15.) AM rendelet 6. § b) pontja hatályon kívül helyezte.

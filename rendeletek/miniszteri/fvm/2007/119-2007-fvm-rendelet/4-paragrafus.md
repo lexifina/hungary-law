@@ -4,79 +4,83 @@
 
 a) mindazokat a 3. § (4) bekezdésében felsorolt típusú tenyészeteket, amelyekben szarvasmarhát, sertést, juhot vagy kecskét tartanak;
 
-b) mindazon, a 2. § 1. pontjában felsorolt további állatfajokat tartó árutermelő/kereskedő típusú tenyészeteket, amelyek eleget tesznek az alábbi feltételek bármelyikének:
+b)[^27] mindazon, a 2. § 1. pontjában felsorolt további állatfajokat tartó állattartó típusú tenyészeteket, amelyek eleget tesznek az alábbi feltételek bármelyikének:
 
 ba) külön jogszabály alapján állategészségügyi regisztrációra kötelezettek,
 
-bb)[^17] az állattartó telepe üzemeltetéséhez vagy a tartott állatok után támogatást kíván igénybe venni;
+bb)[^28] az állattartó telepe üzemeltetéséhez vagy a tartott állatok után támogatást kíván igénybe venni;
 
-c)[^18] minden olyan tartási helyet, illetve tenyészetet, ahol legalább egy lóféle állatot tartanak;
+c)[^29] minden olyan tartási helyet, illetve tenyészetet, ahol legalább egy lóféle állatot tartanak;
 
-d) mindazon baromfitartó árutermelő/kereskedő tenyészeteket, amelyek eleget tesznek az alábbi feltételek bármelyikének:
+d)[^30] mindazon baromfitartó állattartó tenyészeteket, amelyek eleget tesznek az alábbi feltételek bármelyikének:
 
-da)[^19] külön jogszabály szerinti, a NÉBIH által nyilvántartott nagy létszámú állattartó teleppel rendelkeznek,
+da)[^31] külön jogszabály szerinti, a NÉBIH által nyilvántartott nagy létszámú állattartó teleppel rendelkeznek,
 
 db) a tenyészetéből vágóhídra szállítanak baromfit,
 
 dc) külön jogszabály szerinti kistermelői élelmiszer-termelési (vágási) engedéllyel rendelkeznek;
 
-e) mindazon házi nyúl vagy prémesállat-tartó árutermelő/kereskedő tenyészeteket, amelyek eleget tesznek az alábbi feltételek bármelyikének:
+e)[^32] mindazon házi nyúl vagy prémesállat-tartó állattartó tenyészeteket, amelyek eleget tesznek az alábbi feltételek bármelyikének:
 
 ea) legalább ötven nőivarú állatot és szaporulatát tartják,
 
 eb) az állattartó külön jogszabály szerinti kistermelői élelmiszer-termelési (vágási) engedéllyel rendelkezik;
 
-f) mindazon haltartó árutermelő/kereskedő tenyészeteket, amelyek legalább harminc hektár halastóval rendelkeznek;
+f)[^33] mindazon haltartó tenyészeteket, amelyek halastóval rendelkeznek;
 
-g)[^20] minden méhészetet, a méhek állandó tartási helyével;
+g)[^34] minden méhészetet, a méhek állandó tartási helyével;
 
-h) a rendelet hatálya alá eső bármelyik állatfajt fogadó vágóhidakat és gyűjtőállomásokat, a halfeldolgozókat, a halkeltetőket és azokat a baromfikeltetőket, amelyeknél a keltetőgépekbe egyszerre összesen ezer tyúktojás egyenértéknél több rakható be;
+h)[^35] a 2. § 1. pontjában felsorolt állatfajokat fogadó vágóhidakat és gyűjtőállomásokat, halfeldolgozókat, halkeltetőket és a nem csak saját célra keltető baromfikeltetőket;
 
-i)[^21] azokat a vadászható vadfaj tartási helyeket, ahol nem kizárólag bemutatás, vagy közvetlenül vadászati hasznosítás céljából fogságban tartott vadászható vadfajokat tartanak.
+i)[^36] a vadászható nagyvadfaj tartási helyeket.
 
-(2)[^22] Az állattartó a NÉBIH által rendszeresített formanyomtatványon, írásban benyújtott kérelemben jelenti be az Országos Adatbázishoz új tenyészetét és tartási helyeit, valamint a tenyészet vagy a tartási hely bármely adatában bekövetkezett változást annak megtörténtét követő 14 napon belül. A bejelentésnek tartalmaznia kell az ENAR-koordinátor, illetve a hatósági állatorvos ellenjegyzését különösen az alábbi esetekben:
+(2)[^37] Az állattartó a NÉBIH honlapján közzétett módon, formanyomtatványon vagy elektronikus felületen benyújtott kérelemben jelenti be az Országos Adatbázishoz új tenyészetét és tartási helyét, valamint a tenyészet vagy a tartási hely bármely adatában bekövetkezett változást, annak megtörténtét követő 14 napon belül. A bejelentésnek tartalmaznia kell az ENAR-koordinátor, illetve a hatósági állatorvos ellenjegyzését különösen az alábbi esetekben:
 
 a) tenyészet bejelentésekor,
 
-b) egy tenyészethez második, illetve minden további tartási hely bejelentésekor,
+b) a tenyészet adatainak módosításakor, kivéve ügyfél-azonosító bejelentésekor,
 
-c) tenyészet adatainak módosításakor, kivéve ügyfél-regisztrációs szám bejelentésekor,
+c) tartási hely adatainak módosításakor, kivéve méhcsaládszám, létszámadatok vagy baromfi esetén a hasznosítás módosításakor.
 
-d) tartási hely adatainak módosításakor, kivéve kocalétszám, méhcsaládszám, vagy baromfi esetén hasznosítás módosításakor.
-
-(3)[^23] Az állattartó és tartási helye egy tenyészetként egy tenyészetkódon tartandó nyilván az Országos Adatbázisban. A megyei kormányhivatal tenyészetként tartható nyilván az árutermelő tenyészet állattartója több tartási helyével abban az esetben, ha az állományok állategészségügyi minősítése azonos.
+(3)[^38] Az állattartó és tartási helye egy tenyészetként egy tenyészetkódon tartandó nyilván az Országos Adatbázisban.
 
 (4) Új tenyészet bejelentéséhez minden esetben be kell jelenteni a következő adatokat:
 
-a) az állattartó nevét és ügyfél-regisztrációs számát;
+a)[^39] az állattartó nevét és ügyfél-azonosítóját;
 
-b)[^24] a megyei kormányhivatal nevét és azonosítóját;
+b)[^40] a megyei kormányhivatal nevét és azonosítóját;
 
-c) a tenyészet címét;
+c)[^41] a tenyészet levelezési címét;
 
 d) a tenyészet típusát;
 
 e) a tenyészet minősítését az alábbi esetekben:
 
-ea) ha árutermelő/kereskedő típussal kereskedő telepet jelentenek be,
+ea)[^42] ha állattartó típussal kereskedő telepet jelentenek be,
 
-eb) ha az árutermelő/kereskedő típusú tenyészet kistermelői élelmiszer-termelési (vágási) engedéllyel rendelkezik,
+eb)[^43] ha az állattartó típusú tenyészet kistermelői élelmiszer-termelési (vágási) engedéllyel rendelkezik,
 
 ec) ha a rakodóhely típusú tenyészet az Európai Unió által elismert gyűjtőállomás,
 
 ed) ha méhanyanevelő méhészetet jelentenek be;
 
-f) önálló tenyészethez, juh- és kecsketartó tenyészethez, ha az állattartó nem természetes személy, valamint a szarvasmarha, sertés, juh vagy kecske ENAR-ban közreműködő nem árutermelő/kereskedő vagy karantén típusú tenyészethez az ENAR-felelős nevét és elérhetőségét;
+ee)[^44] ha a tenyészet vadaspark, vadaskert vagy vadfarm,
+
+ef)[^45] ha a vágóhíd típusú tenyészet a vágóállatok vágás utáni minősítéséről szóló rendelet alapján minősítő hely üzemeltetésére nem kötelezett;
+
+f)[^46] önálló tenyészethez, juh- és kecsketartó tenyészethez, ha az állattartó nem természetes személy, valamint a szarvasmarha, sertés, juh vagy kecske ENAR-ban közreműködő nem állattartó vagy karantén típusú tenyészethez az ENAR-felelős nevét és elérhetőségét;
 
 g) baromfi- és halkeltetőkhöz a keltetésvezető nevét és elérhetőségét;
 
 h) az e) és f) pontokba nem sorolható tenyészetekhez, ha az állattartó nem természetes személy, a kapcsolattartó személy nevét és elérhetőségét;
 
-i) árutermelő/kereskedő vagy karantén típusú, szarvasmarha- vagy sertéstartó tenyészethez a tenyészet besorolását (önálló vagy megyei körzetbe sorolt), megyei körzetbe sorolt tenyészethez a körzet kódját és a kapcsolattartó állatorvos nevét;
+i)[^47] állattartó vagy karantén típusú, szarvasmarha- vagy sertéstartó tenyészethez a tenyészet besorolását (önálló vagy megyei körzetbe sorolt), megyei körzetbe sorolt tenyészethez a körzet kódját és a kapcsolattartó állatorvos nevét;
 
-j)[^25] a tenyészet állategészségügyi azonosító számát, amennyiben a megyei kormányhivatal már adott számára ilyen azonosítószámot.
+j)[^48] a tenyészet állategészségügyi azonosító számát, amennyiben a megyei kormányhivatal már adott számára ilyen azonosítószámot;
 
-(5) Új tenyészet bejelentése csak akkor fogadható el, ha egyidejűleg legalább egy hozzá tartozó tartási helyet is bejelentenek, vagy legalább egy már nyilvántartott tartási helyen bejelenti az állattartó legalább egy állatfaj tartását.
+k)[^49] nagylétszámú állattartó telep esetén a szolgáltató állatorvosnak vagy az állategészségügyi szolgáltatónak az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 38/B. § (1a) bekezdése szerinti FELIR azonosítóját.
+
+(5)[^50] Új tenyészet bejelentése csak akkor fogadható el, ha egyidejűleg egy hozzá tartozó tartási helyet bejelentettek, vagy egy már nyilvántartott tartási helyen bejelenti az állattartó legalább egy állatfaj tartását.
 
 (6) Új tartási hely bejelentéséhez minden esetben be kell jelenteni a következő adatokat:
 
@@ -88,7 +92,7 @@ ba) a tartás/vágás kezdetének dátumát,
 
 bb) a kapacitást;
 
-c) sertéstartás esetén a kocalétszámot;
+c)[^51]
 
 d) a hasznosítás módját a következő esetekben:
 
@@ -98,20 +102,42 @@ db) házityúk tartása esetén (tojás vagy hús),
 
 dc) kacsa vagy lúd tartása esetén (hús vagy máj);
 
-e) méh tartása esetén a méhcsaládok számát.
+e) méh tartása esetén a méhcsaládok számát,
 
-(7)[^26]
+f)[^52] árutermelő sertés- és baromfiállomány esetén a betelepíteni kívánt állomány létszámát fajonként.
 
-(8)[^27] Ha az állattartó természetes személy, akkor halála esetén, ha jogi személy vagy jogi személyiséggel nem rendelkező szervezet, akkor felszámolása vagy megszűnése esetén az új állattartó kötelessége a változások bejelentése.
+(7)[^53]
 
-[^17]: A 4. § (1) bekezdés b) pont bb) alpontja a 88/2013. (X. 2.) VM rendelet 42. § 7. pontja szerint módosított szöveg.
-[^18]: A 4. § (1) bekezdés c) pontja a 88/2013. (X. 2.) VM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^19]: A 4. § (1) bekezdés d) pont da) alpontja a 88/2013. (X. 2.) VM rendelet 42. § 8. pontja szerint módosított szöveg.
-[^20]: A 4. § (1) bekezdés g) pontja a 95/2008. (VII. 25.) FVM rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^21]: A 4. § (1) bekezdés i) pontját a 4/2009. (I. 16.) FVM rendelet 31. §-a iktatta be.
-[^22]: A 4. § (2) bekezdése a 88/2013. (X. 2.) VM rendelet 38. § (2) bekezdésével megállapított szöveg.
-[^23]: A 4. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 98. § c) pontja szerint módosított szöveg.
-[^24]: A 4. § (4) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
-[^25]: A 4. § (4) bekezdés j) pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
-[^26]: A 4. § (7) bekezdését a 88/2013. (X. 2.) VM rendelet 43. § b) pontja hatályon kívül helyezte.
-[^27]: A 4. § 8. pontja a 22/2014. (III. 14.) VM rendelet 46. § b) pontja szerint módosított szöveg.
+(8)[^54] Ha az állattartó természetes személy, akkor halála esetén, ha jogi személy vagy jogi személyiséggel nem rendelkező szervezet, akkor felszámolása vagy megszűnése esetén az új állattartó kötelessége a változások és a hiányzó adatok bejelentése.
+
+(9)[^55] Az állattartó köteles bejelenteni meghatározott járványügyi helyzet esetén az Országos Főállatorvos határozatában meghatározott jelölési és nyilvántartáshoz szükséges adatokat.
+
+[^27]: A 4. § (1) bekezdés b) pont nyitó szövegrésze a 40/2018. (XII. 15.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^28]: A 4. § (1) bekezdés b) pont bb) alpontja a 88/2013. (X. 2.) VM rendelet 42. § 7. pontja szerint módosított szöveg.
+[^29]: A 4. § (1) bekezdés c) pontja a 88/2013. (X. 2.) VM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^30]: A 4. § (1) bekezdés d) pont nyitó szövegrésze a 40/2018. (XII. 15.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^31]: A 4. § (1) bekezdés d) pont da) alpontja a 88/2013. (X. 2.) VM rendelet 42. § 8. pontja szerint módosított szöveg.
+[^32]: A 4. § (1) bekezdés e) pont nyitó szövegrésze a 40/2018. (XII. 15.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^33]: A 4. § (1) bekezdés f) pontja a 40/2018. (XII. 15.) AM rendelet 4. § (9) bekezdésével megállapított szöveg.
+[^34]: A 4. § (1) bekezdés g) pontja a 95/2008. (VII. 25.) FVM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^35]: A 4. § (1) bekezdés h) pontja a 40/2018. (XII. 15.) AM rendelet 4. § (10) bekezdésével megállapított szöveg.
+[^36]: A 4. § (1) bekezdés i) pontját a 4/2009. (I. 16.) FVM rendelet 31. §-a iktatta be, szövege a 40/2018. (XII. 15.) AM rendelet 4. § (11) bekezdésével megállapított szöveg.
+[^37]: A 4. § (2) bekezdése a 40/2018. (XII. 15.) AM rendelet 4. § (12) bekezdésével megállapított, nyitó szövegrésze a 40/2018. (XII. 15.) AM rendelet 5. § f) pontja szerint módosított szöveg.
+[^38]: A 4. § (3) bekezdése a 40/2018. (XII. 15.) AM rendelet 4. § (13) bekezdésével megállapított szöveg.
+[^39]: A 4. § (4) bekezdés a) pontja a 40/2018. (XII. 15.) AM rendelet 5. § g) pontja szerint módosított szöveg.
+[^40]: A 4. § (4) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
+[^41]: A 4. § (4) bekezdés c) pontja a 40/2018. (XII. 15.) AM rendelet 5. § h) pontjával megállapított szöveg.
+[^42]: A 4. § (4) bekezdés e) pont ea) alpontja a 40/2018. (XII. 15.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^43]: A 4. § (4) bekezdés e) pont eb) alpontja a 40/2018. (XII. 15.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^44]: A 4. § (4) bekezdés e) pont ee) alpontját a 40/2018. (XII. 15.) AM rendelet 4. § (14) bekezdése iktatta be.
+[^45]: A 4. § (4) bekezdés e) pont ef) alpontját a 40/2018. (XII. 15.) AM rendelet 4. § (14) bekezdése iktatta be.
+[^46]: A 4. § (4) bekezdés f) pontja a 40/2018. (XII. 15.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^47]: A 4. § (4) bekezdés i) pontja a 40/2018. (XII. 15.) AM rendelet 5. § c) pontja szerint módosított szöveg.
+[^48]: A 4. § (4) bekezdés j) pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
+[^49]: A 4. § (4) bekezdés k) pontját a 40/2018. (XII. 15.) AM rendelet 4. § (15) bekezdése iktatta be.
+[^50]: A 4. § (5) bekezdése a 40/2018. (XII. 15.) AM rendelet 4. § (16) bekezdésével megállapított szöveg.
+[^51]: A 4. § (6) bekezdés c) pontját a 40/2018. (XII. 15.) AM rendelet 6. § c) pontja hatályon kívül helyezte.
+[^52]: A 4. § (6) bekezdés f) pontját a 40/2018. (XII. 15.) AM rendelet 4. § (17) bekezdése iktatta be.
+[^53]: A 4. § (7) bekezdését a 88/2013. (X. 2.) VM rendelet 43. § b) pontja hatályon kívül helyezte.
+[^54]: A 4. § 8. pontja a 22/2014. (III. 14.) VM rendelet 46. § b) pontja, a 40/2018. (XII. 15.) AM rendelet 5. § i) pontja szerint módosított szöveg.
+[^55]: A 4. § (9) bekezdését a 40/2018. (XII. 15.) AM rendelet 4. § (18) bekezdése iktatta be.
