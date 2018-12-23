@@ -2,10 +2,10 @@
 
 a)–e)
 
-f) 11/A. §-ában a „ ,10/A. §” szöveg;
+f)
 
 g)
 
-h) 1. melléklet 4. pontja;
+h)
 
 i)
