@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-112-00-00
 | 2013-01-02 | 2010. évi CXXX. törvény | 2012-112-00-00.6 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2012-112-00-00.7 |
 | 2017-01-01 | 2016. évi CLXVII. törvény | 2012-112-00-00.8 |
+| 2018-12-23 | 2018. évi CXIX. törvény | 2012-112-00-00.9 |
