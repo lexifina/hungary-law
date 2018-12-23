@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2018. december 31.[^1]
+## Határidő: 2019. június 30.[^1]
 
 1. melléklet az 1671/2017. (IX. 19.) Korm. határozathoz
 
@@ -80,4 +80,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A határozat az 1080/2018. (III. 13.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: A határozat 1806/2018. (XII. 23.) Korm. határozat 6. pontja szerint módosított szöveg.
