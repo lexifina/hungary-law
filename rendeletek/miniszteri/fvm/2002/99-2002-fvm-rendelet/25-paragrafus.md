@@ -1,6 +1,6 @@
 ## be kell küldeni az Országos Adatbázishoz.
 
-25. §[^70] (1) Az állattartó köteles:
+25. §[^76] (1) Az állattartó köteles:
 
 a) gondoskodni arról, hogy a szarvasmarha szállítása vagy hajtása esetén a marhalevél kísérje az állatot, továbbá azt az ellenőrző élelmiszerlánc-felügyeleti szerv, valamint a közúti forgalmat ellenőrző rendőrhatóság felhívására bemutatni;
 
@@ -26,4 +26,4 @@ f) a tenyészetében született borjú születését 10 napon belül bejelenteni
 
 (2) Közvetlenül a tenyészetből külföldre szállított állat esetén a marhalevél (beérkezés-bejelentő és kikerülés bejelentő szelvény nélkül) az állatot kíséri, mint szarvasmarha útlevél.
 
-[^70]: A 25. § a 88/2013. (X. 2.) VM rendelet 14. §-ával megállapított szöveg.
+[^76]: A 25. § a 88/2013. (X. 2.) VM rendelet 14. §-ával megállapított szöveg.

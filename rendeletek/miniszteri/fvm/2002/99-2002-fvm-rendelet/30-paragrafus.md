@@ -1,6 +1,6 @@
-## 29. §[^81]
+## 29. §[^89]
 
-30. §[^82] (1) Európai uniós tagállamba történő kiszállítás vagy harmadik országba történő export esetén az állatok rakodásakor közreműködő hatósági állatorvos köteles:
+30. §[^90] (1) Európai uniós tagállamba történő kiszállítás vagy harmadik országba történő export esetén az állatok rakodásakor közreműködő hatósági állatorvos köteles:
 
 a) a marhalevél felső részét és a külön jogszabályban meghatározott egyéb dokumentumokat az állattal együtt a célországba küldeni;
 
@@ -16,5 +16,5 @@ c) ha a kiszállítás vagy az export meghiúsult, a már beszállított állato
 
 (3) Az ideiglenesen kiszállított vagy exportált állat visszaérkezésekor az állattartó köteles a szarvasmarha visszaküldött marhalevelét, valamint állat-egészségügyi bizonyítványát az ENAR-felelősnek 3 napon belül leadni. Az ENAR-felelős 4 napon belül új marhalevelet igényel az Országos Adatbázistól.
 
-[^81]: A 29. §-t a 88/2013. (X. 2.) VM rendelet 24. § e) pontja hatályon kívül helyezte.
-[^82]: A 30. § a 88/2013. (X. 2.) VM rendelet 19. §-ával megállapított szöveg.
+[^89]: A 29. §-t a 88/2013. (X. 2.) VM rendelet 24. § e) pontja hatályon kívül helyezte.
+[^90]: A 30. § a 88/2013. (X. 2.) VM rendelet 19. §-ával megállapított szöveg.

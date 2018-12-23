@@ -18,19 +18,21 @@
 
 8. tenyészetkód: a tenyészet azonosító száma a Tenyészet Információs Rendszer (a továbbiakban: TIR) nyilvántartásában,
 
-9. tenyésztési hatóság: a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH),
+9.[^4]
 
-10. Útmutató: a szarvasmarha egyedi jelölésére és nyilvántartására vonatkozó segédlet, amelyet a tenyésztési hatóság készít el, tart naprakészen és tesz közzé a www.enar.hu honlapon,
+10.[^5] Útmutató: a szarvasmarha egyedi jelölésére és nyilvántartására vonatkozó segédlet, amelyet a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) készít el, tart naprakészen és tesz közzé a www.enar.hu honlapon,
 
 11. állat-egészségügyi bizonyítvány: az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló 87/2012. (VIII. 27.) VM rendelet 2. melléklete szerinti okirat,
 
-12.[^4] marhalevél: az állat központi nyilvántartásba vételét és a központi adatbázisban nyilvántartott adatait, valamint az állattartó személyét tanúsító, az állat másik tagállamba vagy harmadik országba történő kiszállítása esetén útlevélként alkalmazandó, az állat-egészségügyi bizonyítványhoz kötelezően csatolandó hatósági bizonyítvány,
+12.[^6] marhalevél: az állat központi nyilvántartásba vételét és a központi adatbázisban nyilvántartott adatait, valamint az állattartó személyét tanúsító, az állat másik tagállamba vagy harmadik országba történő kiszállítása esetén útlevélként alkalmazandó, az állat-egészségügyi bizonyítványhoz kötelezően csatolandó hatósági bizonyítvány,
 
-13.[^5] útlevélszám: az egyed nyilvántartási száma és a marhalevél kiadási sorszáma együtt.
+13.[^7] útlevélszám: az egyed nyilvántartási száma és a marhalevél kiadási sorszáma együtt.
 
-(2)[^6] Az e rendeletben nem meghatározott fogalmakra a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet 2. §-a irányadó.
+(2)[^8] Az e rendeletben nem meghatározott fogalmakra a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet 2. §-a irányadó.
 
 [^3]: A 2. § eredeti szövegének számozását (1) bekezdésre változtatta a 119/2007. (X. 18.) FVM rendelet 15. § (1) bekezdése. A 2. § (1) bekezdése a 88/2013. (X. 2.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § (1) bekezdés 12. pontja a 88/2013. (X. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: A 2. § (1) bekezdés 13. pontja a 88/2013. (X. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: A 2. § (2) bekezdését a 119/2007. (X. 18.) FVM rendelet 15. § (1) bekezdése iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta.
+[^4]: A 2. § (1) bekezdése 9. pontját a 40/2018. (XII. 15.) AM rendelet 3. §-a hatályon kívül helyezte.
+[^5]: A 2. § (1) bekezdés 10. pontja a 40/2018. (XII. 15.) AM rendelet 2. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés 12. pontja a 88/2013. (X. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés 13. pontja a 88/2013. (X. 2.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § (2) bekezdését a 119/2007. (X. 18.) FVM rendelet 15. § (1) bekezdése iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta.

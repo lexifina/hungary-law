@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-99-20-8
 | 2017-01-01 | 2002-99-20-82.12 | 88/2013. (X. 2.) VM rendelet |
 | 2017-08-18 | 2002-99-20-82.13 | 42/2017. (VIII. 17.) FM rendelet |
 | 2017-12-30 | 2002-99-20-82.14 | 118/2008. (V. 8.) Korm. rendelet |
+| 2018-12-23 | 2002-99-20-82.15 | 40/2018. (XII. 15.) AM rendelet |
