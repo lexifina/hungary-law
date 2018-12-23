@@ -1,0 +1,3 @@
+5. § A Tny. 70. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A baleset üzemiségét és a megbetegedés foglalkozási jellegét (a továbbiakban együtt: a baleset üzemisége) az ezt megállapító, a kötelező egészségbiztosítás ellátásairól szóló törvény alapján hozott, véglegessé vált határozat igazolja. Ha a kérelmet azért utasítják el, mert a baleset üzemiségét – véglegessé vált határozattal – még nem állapították meg, és az igénylő a kérelmét a baleset üzemiségének megállapítását követően újra benyújtja, a baleseti hozzátartozói nyugellátást az eredeti igénybejelentés időpontjának figyelembevételével kell megállapítani.”

@@ -1,0 +1,3 @@
+18. § A Cst. 26. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A gyermekgondozást segítő ellátás havi összege gyermekenként – ide nem értve az egyazon várandósságból született ikergyermekeket – azonos az öregségi nyugdíj mindenkori legkisebb összegével. Az egyazon várandósságból született ikergyermekek esetében az ellátás havi összege megegyezik az öregségi nyugdíj mindenkori legkisebb összegének és az ikergyermekek számának szorzatával. Töredékhónap esetén egy naptári napra a havi összeg harmincad része jár.”

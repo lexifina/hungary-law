@@ -1,0 +1,5 @@
+## 5. Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény módosítása
+
+24. § Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény 3. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Aki a nyugdíjbiztosítási átutalást követően a magyar nyugdíjrendszerben további jogosultságot szerez, a korábbi nyugdíjbiztosítási átutalással érintett időt követő naptól a kérelem benyújtásának napjáig terjedő időre kérheti az újabb nyugdíjbiztosítási átutalást. Az újabb nyugdíjbiztosítási átutalásra az (1)–(6) bekezdésben foglaltakat kell alkalmazni azzal, hogy ahol az (1) bekezdés a nyugdíjbiztosítási átutalásra jogosító jogviszony létrejöttének napját megelőző napig terjedő időt említi, azon a korábbi nyugdíjbiztosítási átutalással érintett időt követő naptól a kérelem benyújtásának napjáig terjedő időt kell érteni.”
