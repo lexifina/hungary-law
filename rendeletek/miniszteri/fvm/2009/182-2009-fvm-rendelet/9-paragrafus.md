@@ -2,7 +2,7 @@
 
 (2)[^22] A közzététel alapján a gyártók által benyújtott jelölőeszközök minőségét és a gyártóval szemben támasztott feltételek meglétét a NÉBIH a meghirdetett feltételek szerint megvizsgálja.
 
-(3)[^23] Az engedélyezett jelölőeszközöket és segédeszközöket, továbbá azok gyártóinak listáját a NÉBIH a VM hivatalos lapjában és a www.enar.hu honlapon teszi közzé. A közzétételről a NÉBIH az engedélyezést követő 30 napon belül intézkedik.
+(3)[^23] Az engedélyezett jelölőeszközöket és segédeszközöket, továbbá azok gyártóinak listáját a NÉBIH a www.enar.hu honlapon teszi közzé. A közzétételről a NÉBIH az engedélyezést követő 30 napon belül intézkedik.
 
 (4)[^24] Az állatok jelölésére kizárólag a NÉBIH által engedélyezett jelölőeszközök és segédeszközök használhatóak fel.
 
@@ -16,6 +16,6 @@
 
 [^21]: A 9. § (1) bekezdése a 88/2013. (X. 2.) VM rendelet 54. §-ával megállapított szöveg.
 [^22]: A 9. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 118. § b) pontja szerint módosított szöveg.
-[^23]: A 9. § (3) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (41) bekezdése, a 70/2013. (VII. 31.) VM rendelet 118. § b) és g) pontja szerint módosított szöveg.
+[^23]: A 9. § (3) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (41) bekezdése, a 70/2013. (VII. 31.) VM rendelet 118. § b) és g) pontja, a 40/2018. (XII. 15.) AM rendelet 10. § a) pontja szerint módosított szöveg.
 [^24]: A 9. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 118. § b) pontja szerint módosított szöveg.
 [^25]: A 9. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 148. §-ával megállapított szöveg.
