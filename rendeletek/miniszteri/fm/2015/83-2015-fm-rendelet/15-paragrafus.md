@@ -1,6 +1,6 @@
 ## 7. A sertés szállítólevél és a kiegészítő bizonylatok és felhasználásuk követelményei
 
-15. § (1) Állatmozgás során a sertéseket az útmutatóban meghatározott minta szerinti szállítólevélnek kell kísérnie. A sertés szállítólevelet az útmutatóban foglaltak szerint négy példányban kell kitölteni. A kiegészítő bizonylatokat az útmutató tartalmazza.
+15. § (1)[^6] Állatmozgás során a sertéseket az útmutatóban meghatározott minta szerinti szállítólevélnek kell kísérnie. A sertés szállítólevelet az útmutatóban foglaltak szerint öt példányban kell kitölteni. A kiegészítő bizonylatokat az útmutató tartalmazza.
 
 (2) A sertés szállítólevélen fel kell tüntetni
 
@@ -23,3 +23,5 @@ g) az f) pont szerinti bizonyítvány kiállítására jogosult állatorvos bél
 (4) A sertés szállítólevél a számvitelről szóló 2000. évi C. törvény 168. §-a szerinti szigorú számadású bizonylat.
 
 (5) A sertés szállítólevelet a 3. § (1) bekezdése szerinti esetekben is ki kell állítani.
+
+[^6]: A 15. § (1) bekezdése a 40/2018. (XII. 15.) AM rendelet 12. §-a szerint módosított szöveg.

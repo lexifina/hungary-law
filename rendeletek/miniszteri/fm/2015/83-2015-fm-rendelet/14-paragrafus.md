@@ -31,3 +31,7 @@ h) a tenyészkoca fialásainak dátuma, a vemhesítő kan ENAR száma és a szü
 i) a tenyészsertés fajta (keresztezési konstrukció) kódja, kiesés oka és dátuma;
 
 j) a tenyészkan első termékenyítésre vagy fedeztetésre való használatának dátuma.
+
+(3)[^5] A NÉBIH hozzáférést biztosít az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 35/A. §-a alapján elismert tanúsító szervezeteknek az ökológiai gazdálkodást folytató sertéstartók állományainak azonosítási, létszám- és szállítási adataihoz. A tanúsító szervezetek az adatokat kizárólag az ökológiai termelés ellenőrzésével és tanúsításával kapcsolatban használhatják fel.
+
+[^5]: A 14. § (3) bekezdését a 40/2018. (XII. 15.) AM rendelet 11. § (3) bekezdése iktatta be.

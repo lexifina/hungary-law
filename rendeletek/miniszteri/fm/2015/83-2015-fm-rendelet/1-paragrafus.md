@@ -37,3 +37,7 @@ b) tenyészetkód, jelölőkalapács alkalmazása esetén;
 15. útmutató: a NÉBIH által készített és saját honlapján közzétett sertés ENAR formanyomtatvány-gyűjtemény és kitöltési-eljárási tájékoztató.
 
 (2) Az e rendeletben meg nem határozott fogalmakra a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet (a továbbiakban: TIR rendelet) 2. §-a szerinti fogalmakat is alkalmazni kell.
+
+(3)[^1] Az állatokat az e rendeletben meghatározott módon kell megjelölni, továbbá úgy kell nyilvántartani és szállításkor kísérő dokumentummal ellátni, hogy azonosítható legyen az állat születéskori tenyészete és az azt követő valamennyi tenyészet, ahol az állat tartózkodott.
+
+[^1]: Az 1. § (3) bekezdését a 40/2018. (XII. 15.) AM rendelet 11. § (1) bekezdése iktatta be.
