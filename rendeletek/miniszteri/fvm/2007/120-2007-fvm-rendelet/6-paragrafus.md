@@ -2,7 +2,7 @@
 
 ## feladatai
 
-## 6. § A BIR működtetésével kapcsolatban a tenyésztési hatóság feladatai:
+## 6. §[^16] A BIR működtetésével kapcsolatban a NÉBIH feladatai:
 
 a) ellátja a BIR működtetésével, fejlesztésével kapcsolatos feladatokat;
 
@@ -13,3 +13,5 @@ c) gondoskodik arról, hogy a jogosult felhasználók az Országos Adatbázisbó
 d) elkészíti és közzéteszi az Útmutatót, gondoskodik a szükséges nyomtatványok hozzáférhetővé tételéről a felhasználók számára;
 
 e) külön jogszabály szerint kiadja a BIR által képzett törzsállomány azonosító számot.
+
+[^16]: A 6. § nyitó szövegrésze a 40/2018. (XII. 15.) AM rendelet 8. § a) pontja szerint módosított szöveg.

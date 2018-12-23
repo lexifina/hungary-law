@@ -2,6 +2,6 @@
 
 ## Módosuló jogszabályok
 
-12. §[^15]
+12. §[^20]
 
-[^15]: A 12. §-t a 88/2013. (X. 2.) VM rendelet 48. §-a hatályon kívül helyezte.
+[^20]: A 12. §-t a 88/2013. (X. 2.) VM rendelet 48. §-a hatályon kívül helyezte.
