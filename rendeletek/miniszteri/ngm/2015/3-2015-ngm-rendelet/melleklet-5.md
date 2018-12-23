@@ -1,115 +1,237 @@
 | Támogatási Kérelem a Nemzeti Foglalkoztatási Alap képzési alaprészéből a szakképzésért és felnőttképzésért felelős miniszter döntésével nyújtható tanműhely-létesítési és -fejlesztési támogatáshoz |
 
-|  | A |  | B | C | D |  |  |  |
+|  | A |  | B | C |
 
-| 1. | A kérelmet benyújtó adatai: | 1.1. | Cégszerű megnevezése: |  |  |  |  |  |  |
+| 1 / A | A kérelmet önálló gazdálkodó szervezetként benyújtó | 1/A 1. | cégszerű megnevezése: |  |  |  |  |  |  |  |
 
-| 1.2. | Címe (székhelye) és elérhetőségei: |  |  |  |  |  |  |
+| 1/A 2. | címe (székhelye) és elérhetőségei: |  |  |  |  |  |  |  |
 
-| 1.3. | Adóazonosító száma: |  |  |  |  |  |  |
+| 1/A 3. | adószáma: |  |  |  |  |  |  |  |
 
-| 1.4. | Képviselőjének neve, beosztása: |  |  |  |  |  |  |
+| 1/A 4. | képviselőjének neve, beosztása, e-mail címe: |  |  |  |  |  |  |  |
 
-| 1.5. | A cég tulajdonosi hátterének bemutatása: |  |  |  |  |  |
+| 1/A 5. | tulajdonosának (tulajdonosainak) neve és címe: |  |  |  |  |  |  |  |
 
-| 1.6. | A cég profiljának bemutatása: |  |  |  |  |  |  |
+| 1/A 6. | üzleti tevékenységének bemutatása: |  |  |  |  |  |  |  |
 
-| 1.7. | Jelenlegi alkalmazotti létszám: |  |  |  |  |  |  |
+| 1/A 7. | jelenlegi alkalmazotti létszáma: |  |  |  |  |  |  |  |
 
-| 1.8. | A kérelem benyújtását megelőző két üzleti év árbevétele: |  |  |  |  |  |
+|  | A |  | B | C |
 
-| 1.9. | A kérelem benyújtását megelőző két üzleti évben az Szht.* 8. §-a alapján elszámolt éves csökkentő tétel összege: |  |  |  |  |
+| 1 / B | A kérelmet ágazati képző központként benyújtó * | 1/B 1. | cégszerű megnevezése: |  |  |  |  |  |  |  |
 
-| 1.10. | A megelőző két év árbevételének és az Szht. szerinti csökkentő tételnek a hányadosa |  |  |  |  |
+| 1/B 2. | címe (székhelye) és elérhetőségei: |  |  |  |  |  |  |  |
 
-|  | A |  | B | C | D | E | F | G | H |
+| 1/B 3. | adószáma: |  |  |  |  |  |  |  |
 
-| 2. | Tanulói létszámadatok az állami támogatásból fejleszteni tervezett tanműhelyben | 2.1. |  | A tanulószerződéses tanulók |
+| 1/B 4. | képviselőjének neve, beosztása, e-mail címe: |  |  |  |  |  |  |  |
 
-| 2.2. | Szakképesítés | létszáma a támogatási kérelem benyújtását megelőző második iskolai tanévben | létszáma a támogatási kérelem benyújtását megelőző iskolai tanévben | átlaglétszáma a támogatási kérelem benyújtását megelőző két iskolai tanévben | létszáma a Kérelem benyújtásának iskolai tanévében | tervezett létszáma a támogatási kérelem benyújtását követő iskolai tanévben | tervezett létszáma a támogatási kérelem benyújtását követő második iskolai tanév végén |
+| 1/B 5. | tulajdonosainak neve és címe: |  |  |  |  |  |  |  |
 
-| 2.3. |  |  |  |  |  |  |  |
+| 1/B 6. | tulajdonosai üzleti tevékenységének bemutatása: |  |  |  |  |  |  |  |
 
-| 2.4. |  |  |  |  |  |  |  |
+| 1/B 7. | jelenlegi alkalmazotti (oktatói) létszáma: |  |  |  |  |  |  |  |
 
-| 2.5. |  |  |  |  |  |  |  |
+|  | A |  | B | C | D | E | F | G | H | I |
 
-| 2.6. |  |  |  |  |  |  |  |
+| 2. | Tanulói létszámadatok | 2.1. |  | A tanulószerződéses tanulók |  |  |  |  |  |  |
 
-|  | Összesen: |  |  |  |  |  |  |  |  |
+| 2.2. | A szakképesítés neve és OKJ száma | létszáma a Támogatási Kérelem benyújtási időpontját (tanévét) megelőző második tanévben | létszáma a Támogatási Kérelem benyújtási időpontját (tanévét) megelőző tanévben | átlaglétszáma a Támogatási Kérelem benyújtási időpontját (tanévét) megelőző két tanévben | tervezett létszáma a Támogatási Kérelem benyújtási időpontját (tanévét) követő tanévben | tervezett létszáma a Támogatási Kérelem benyújtási időpontját (tanévét) követő második tanév végén | létszámának tervezett növekménye (G - E) | tervezett létszáma a támogatással létrehozni tervezett tanműhelyben folyó gyakorlati képzésben |
 
-|  | A |  | B | C |  |  |  |
+| 2.3. |  |  |  |  |  |  |  |  |
 
-| 3. | Az állami támogatással fejleszteni tervezett tanműhely adatai | 3.1. | Jelenlegi alapterület |  |  |  |  |  |  |
+| 2.4. |  |  |  |  |  |  |  |  |
 
-| 3.2. | Jelenlegi állapot, felszereltség |  |  |  |  |  |  |
+| 2.5. |  |  |  |  |  |  |  |  |
 
-| 3.3. | A tervezett fejlesztés eredményeként létrejövő alapterület |  |  |  |  |
+| 2.6. |  |  |  |  |  |  |  |  |
 
-| 3.4. | A tervezett fejlesztéssel létrejövő állapot, felszereltség |  |  |  |  |  |
+| 2.7. | ÖSSZESEN: | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-| 3.5. | Információk a tanműhely működtetéséhez, a gyakorlati szakképzés megvalósításához a fejlesztést követően szükséges személyi feltételek rendelkezésre állásáról |  |  |
+|  | A |  | B | C |
 
-| 3.6. | A tanulói létszámfejlesztést megalapozó kapcsolatok, együttműködés szakképző intézményekkel |  |  |
+| 3. | Az állami támogatással fejleszteni tervezett tanműhely adatai | 3.1. | Jelenlegi helyszín és alapterület |  |  |  |  |  |  |  |
 
-|  | A |  | B | C | D | E | F | G |  |
+| 3.2. | Jelenlegi állapot, felszereltség |  |  |  |  |  |  |  |
 
-| 4. | A fejlesztések költségkalkulációja | 4.1. | Építési célú beruházás költségnemei ** | Mennyiség (db) | Nettó / Bruttó egységár HUF / db) ** | Nettó / Bruttó ár összesen (HUF)** | Igényelt támogatási összeg (HUF) | Önrész mértéke (%) |  |
+| 3.3. | A fejlesztéssel létrejövő tanműhely helyszíne és a fejlesztés eredményeként létrejövő alapterülete ** |  |  |  |  |  |  |  |
 
-| 4.2. |  |  |  |  |  |  |  |
+| 3.4. | A fejlesztéssel létrejövő állapot, felszereltség |  |  |  |  |  |  |  |
 
-| 4.3. |  |  |  |  |  |  |  |
+| 3.5. | Információk a tanműhely működtetéséhez, a gyakorlati szakképzés megvalósításához a fejlesztést követően szükséges személyi feltételek rendelkezésre állásáról |  |  |  |  |  |  |  |
 
-| 4.4. |  |  |  |  |  |  |  |
+| 3.6. | A tanulói létszámfejlesztést megalapozó kapcsolatok, együttműködés szakképző intézményekkel |  |  |  |  |  |  |  |
 
-| 4.5. |  |  |  |  |  |  |  |
+|  | A |  | B | C | D |  |  |  |  |  |
 
-| 4.6. |  |  |  |  |  |  |  |
+| 4. | A fejlesztések költségkalkulációja |  | Építési célú beruházás költségcsoportjai | Nettó / Bruttó költségek összesen (HUF)*** | Igényelt támogatási összeg (HUF) |  |  |  |  |  |
 
-| 4.7. | Összesen: |  |  |  |  |  |  |
+| ….. év (a támogatásról szóló miniszteri döntést megelőző év) | 4.1. | Egyéb kiegészítő erőforrások |  |  |  |  |  |  |  |
 
-| 4.8. | Beszerzésre kerülő tárgyi eszközök | Mennyiség (db) | Nettó / Bruttó egységár (HUF / db) *** | Nettó / Bruttó ár összesen (HUF) ** | Igényelt támogatási összeg (HUF) | Önrész mértéke (%) |  |
+| 4.2. | Keverékek és ideiglenes segédszerkezetek |  |  |  |  |  |  |  |
 
-| 4.9. |  |  |  |  |  |  |  |
+| 4.3. | Alépítményi munkák |  |  |  |  |  |  |  |
 
-| 4.10. |  |  |  |  |  |  |  |
+| 4.4. | Építőmesteri munkák |  |  |  |  |  |  |  |
 
-| 4.11. |  |  |  |  |  |  |  |
+| 4.5. | Szakipari munkák |  |  |  |  |  |  |  |
 
-| 4.12. |  |  |  |  |  |  |  |
+| 4.6. | Közmű és vízépítési munkák |  |  |  |  |  |  |  |
 
-| 4.13. |  |  |  |  |  |  |  |
+| 4.7. | Közlekedés építési munkák |  |  |  |  |  |  |  |
 
-| 4.14. |  |  |  |  |  |  |  |
+| 4.8. | Elektromos munkák |  |  |  |  |  |  |  |
 
-| 4.15. |  |  |  |  |  |  |  |
+| 4.9. | Épületgépészeti munkák |  |  |  |  |  |  |  |
 
-| 4.16. | Összesen: |  |  |  |  |  |  |
+| 4.10. | Kiegészítő tevékenységek, létesítmények |  |  |  |  |  |  |  |
 
-| 4.17. | MINDÖSSZESEN: |  |  |  |  |  |  |
+| 4.11. | Technológiai szerelési munkák |  |  |  |  |  |  |  |
 
-| 4.18. | Igényelt támogatási összeg (EUR)**** |  |  |  |  |  |
+| 4.12. | Összesen: | 0 |  |  |  |  |  |  |
 
-| 4.19. | Az igényelt támogatási összegnek (EUR) és a támogatási kérelem benyújtását követő második iskolai tanév végén a támogatással fejlesztett tanműhely tanulószerződéses létszámának hányadosa |  |  |  |
+| A fejlesztések költségkalkulációja |  | Építési célú beruházás költségcsoportjai | Nettó / Bruttó költségek összesen (HUF)*** | Igényelt támogatási összeg (HUF) |  |  |  |  |  |
 
-| 4.20. | A támogatás lehívásának tervezett éves ütemezése: |  |  |  |  |  |
+| …. év (a támogatásról szóló miniszteri döntés éve) | 4.13. | Egyéb kiegészítő erőforrások |  |  |  |  |  |  |  |
 
-| 4.21. |  | …… év | …… év | …… év | …… év | öszesen |  |
+| 4.14. | Keverékek és ideiglenes segédszerkezetek |  |  |  |  |  |  |  |
 
-| 4.22. | TERVEZETT TÁMOGATÁSI ÖSSZEGEK (HUF) |  |  |  |  |  |
+| 4.15. | Alépítményi munkák |  |  |  |  |  |  |  |
 
-|  | * A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény |  |  |  |
+| 4.16. | Építőmesteri munkák |  |  |  |  |  |  |  |
 
-|  | ** A költségnemek az építési normagyűjtemény alapján azonosíthatóak a következő honlap segítségével: http://e-kerelem-engy.mvh.gov.hu/web_engy/regszlogin.do |
+| 4.17. | Szakipari munkák |  |  |  |  |  |  |  |
 
-|  | *** A Nettó vagy Bruttó megjelölések közül a nem relevánsat törölni kell. |  |  |  |  |  |
+| 4.18. | Közmű és vízépítési munkák |  |  |  |  |  |  |  |
 
-|  | **** A támogatási kérelem benyújtását megelőző hónap utolsó munkanapján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyam alapján. |
+| 4.19. | Közlekedés építési munkák |  |  |  |  |  |  |  |
 
-|  | Keltezés |  |  |  | ………………………………................................................. |  |
+| 4.20. | Elektromos munkák |  |  |  |  |  |  |  |
 
-|  |  |  |  |  | (cégszerű aláírás) |  |
+| 4.21. | Épületgépészeti munkák |  |  |  |  |  |  |  |
 
-5. melléklet a 3/2015. (II. 13.) NGM rendelethez[^2]
+| 4.22. | Kiegészítő tevékenységek, létesítmények |  |  |  |  |  |  |  |
 
-[^2]: Az 5. melléklet a 21/2015 (VIII. 28.) NGM rendelet 16. § b) pontja szerint módosított szöveg.
+| 4.23. | Technológiai szerelési munkák |  |  |  |  |  |  |  |
+
+| 4.24. | Összesen: | 0 |  |  |  |  |  |  |
+
+| A fejlesztések költségkalkulációja |  | Építési célú beruházás költségcsoportjai | Nettó / Bruttó költségek összesen (HUF)*** | Igényelt támogatási összeg (HUF) |  |  |  |  |  |
+
+| …. év (a támogatásról szóló miniszteri döntést követő év) | 4.25. | Egyéb kiegészítő erőforrások |  |  |  |  |  |  |  |
+
+| 4.26. | Keverékek és ideiglenes segédszerkezetek |  |  |  |  |  |  |  |
+
+| 4.27. | Alépítményi munkák |  |  |  |  |  |  |  |
+
+| 4.28. | Építőmesteri munkák |  |  |  |  |  |  |  |
+
+| 4.29. | Szakipari munkák |  |  |  |  |  |  |  |
+
+| 4.30. | Közmű és vízépítési munkák |  |  |  |  |  |  |  |
+
+| 4.31. | Közlekedés építési munkák |  |  |  |  |  |  |  |
+
+| 4.32. | Elektromos munkák |  |  |  |  |  |  |  |
+
+| 4.33. | Épületgépészeti munkák |  |  |  |  |  |  |  |
+
+| 4.34. | Kiegészítő tevékenységek, létesítmények |  |  |  |  |  |  |  |
+
+| 4.35. | Technológiai szerelési munkák |  |  |  |  |  |  |  |
+
+| 4.36. | Összesen: | 0 |  |  |  |  |  |  |
+
+|  | 4.37. | ÉPÍTÉSI CÉLÚ BERUHÁZÁS ÖSSZESEN: | 0 | 0 |  |  |  |  |  |
+
+| 4. | A fejlesztések költségkalkulációja |  | Beszerzésre kerülő tárgyi eszközök | Mennyiség (db) | Nettó / Bruttó egységár (HUF / db) *** | Nettó / Bruttó költségek összesen (HUF) *** |  |  |  |  |
+
+| ….. év (a támogatásról szóló miniszteri döntést megelőző év) | 4.38. |  |  |  |  |  |  |  |  |
+
+| 4.39. |  |  |  |  |  |  |  |  |
+
+| 4.40. |  |  |  |  |  |  |  |  |
+
+| 4.41. |  |  |  |  |  |  |  |  |
+
+| 4.42. |  |  |  |  |  |  |  |  |
+
+| 4.43. |  |  |  |  |  |  |  |  |
+
+| 4.44. |  |  |  |  |  |  |  |  |
+
+| 4.45. | Összesen: | 0 |  | 0 |  |  |  |  |
+
+| A fejlesztések költségkalkulációja |  | Beszerzésre kerülő tárgyi eszközök | Mennyiség (db) | Nettó / Bruttó egységár (HUF / db) *** | Nettó / Bruttó költségek összesen (HUF) *** | Igényelt támogatási összeg (HUF) |  |  |  |
+
+| … év (a támogatásról szóló miniszteri döntés éve) | 4.46. |  |  |  |  |  |  |  |  |
+
+| 4.47. |  |  |  |  |  |  |  |  |
+
+| 4.48. |  |  |  |  |  |  |  |  |
+
+| 4.49. |  |  |  |  |  |  |  |  |
+
+| 4.50. |  |  |  |  |  |  |  |  |
+
+| 4.51. |  |  |  |  |  |  |  |  |
+
+| 4.52. |  |  |  |  |  |  |  |  |
+
+| 4.53. | Összesen: | 0 |  | 0 |  |  |  |  |
+
+| A fejlesztések költségkalkulációja |  | Beszerzésre kerülő tárgyi eszközök | Mennyiség (db) | Nettó / Bruttó egységár (HUF / db) *** | Nettó / Bruttó költségek összesen (HUF) *** | Igényelt támogatási összeg (HUF) |  |  |  |
+
+| ….. év (a támogatásról szóló miniszteri döntést követő év) | 4.54. |  |  |  |  |  |  |  |  |
+
+| 4.55. |  |  |  |  |  |  |  |  |
+
+| 4.56. |  |  |  |  |  |  |  |  |
+
+| 4.57. |  |  |  |  |  |  |  |  |
+
+| 4.58. |  |  |  |  |  |  |  |  |
+
+| 4.59. |  |  |  |  |  |  |  |  |
+
+| 4.60. |  |  |  |  |  |  |  |  |
+
+| 4.61. | Összesen: | 0 |  | 0 |  |  |  |  |
+
+|  | 4.62. | BESZERZÉSRE KERÜLŐ TÁRGYI ESZKÖZÖK ÖSSZESEN: | 0 |  | 0 | 0 |  |  |  |
+
+| A |  | B | C | D | E | F |  |  |  |
+
+| A fejlesztések összesítő költségkalkulációja | 4.63. | DISZKONT KAMATLÁB (%) **** |  |  |  |  |  |  |  |
+
+| 4.64. | ÉPÍTÉSI CÉLÚ BERUHÁZÁS ÉS BESZERZÉSRE KERÜLŐ TÁRGYI ESZKÖZÖK KÖLTSÉGE MINDÖSSZESEN (HUF; FOLYÓ ÁR): | 0 |  |  |  |
+
+| 4.65. | ÉPÍTÉSI CÉLÚ BERUHÁZÁS ÉS BESZERZÉSRE KERÜLŐ TÁRGYI ESZKÖZÖK KÖLTSÉGE MINDÖSSZESEN (HUF; A TÁMOGATÁS MEGÍTÉLÉSÉNEK ÉVÉRE SZÁMÍTOTT JELENÉRTÉK): |  |  |  |  |
+
+| 4.66. | IGÉNYELT TÁMOGATÁS MINDÖSSZESEN (FOLYÓ ÁR; HUF) | 0 |  |  |  |
+
+| 4.67. | TÁMOGATÁSTARTALOM (JELENÉRTÉK; HUF) |  |  |  |  |
+
+| 4.68. | TÁMOGATÁSI INTENZITÁS (4.67. F / 4.65. F) (%) | #ZÉRÓOSZTÓ! |  |  |  |
+
+| 4.69. | IGÉNYELT TÁMOGATÁSI ÖSSZEG (FOLYÓ ÁR; EUR) ***** |  |  |  |  |
+
+| 4.70. | AZ IGÉNYELT TÁMOGATÁSI ÖSSZEGNEK (EUR) ÉS A TÁMOGATÁSI KÉRELEM BENYÚJTÁSI IDŐPONTJÁT (TANÉVÉT) KÖVETŐ MÁSODIK TANÉV VÉGÉTŐL A TÁMOGATÁSSAL FEJLESZTETT TANMŰHELYBEN TANULÓSZERZŐDÉSSEL GYAKORLATI KÉPZÉSBEN RÉSZT VEVŐ TANULÓK LÉTSZÁMÁNAK HÁNYADOSA (4.69.F / 2.7.I) |  |  |  |  |
+
+|  | * a szakképzésről szóló 2011. évi CLXXXVII. törvény 2. § 51. pontjában meghatározott ágazati képző központ |
+
+|  | ** Építési célú beruházás esetén a Támogatási Kérelemhez csatolandó a tervezett beruházás helyszínrajza és a létrehozandó tanműhely alaprajza. Továbbá amennyiben a támogatási kérelemet benyújtó a tanulószerződés alapján folytatott gyakorlati képzését vagy annak egy részét a támogatás terhére beszerzett eszközökkel egy szakképző iskola tanműhelyében – e tárgyban megkötött megállapodás alapján – valósítja meg, fel kell tüntetni a szakképző iskola nevét, címét és OM azonosítóját is. |
+
+|  | *** A Nettó vagy Bruttó megjelölések közül a nem relevánsat törölni kell. |
+
+|  | **** Az aktuális diszkont kamatláb mértékéről a következő honlap ad tájékoztatást: http://tvi.kormany.hu/referencia-rata |
+
+|  | ***** Az EUR érték kiszámításához a támogatási kérelem benyújtását megelőző hónap utolsó munkanapján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell figyelembe venni. |
+
+|  | Keltezés |  |  | ………………………………................................................. |  |  |  |  |
+
+|  |  |  |  |  | (cégszerű aláírás) |  |  |  |  |  |
+
+5. melléklet a 3/2015. (II. 13.) NGM rendelethez[^48]
+
+[^48]: Az 5. melléklet a 32/2018. (XII. 15.) ITM rendelet 13. § e) pontjával megállapított szöveg.

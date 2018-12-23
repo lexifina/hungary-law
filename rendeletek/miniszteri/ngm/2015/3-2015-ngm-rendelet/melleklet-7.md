@@ -20,7 +20,7 @@
 
 ## 1.1.7. adótanácsadás és könyvelés díja,
 
-## 1.1.8. forráslehetőségek feltérképezésére és támogatási kérelemírásra, valamint a támogatáséletútja alatti bármilyen, a támogatásmegvalósítására irányuló tanácsadás díja,
+## 1.1.8.[^49] forráslehetőségek feltérképezésére és támogatási kérelem elkészítésére, valamint a támogatás időszaka alatt a támogatás megvalósításával, az elszámolások elkészítésével összefüggő tanácsadás díja,
 
 ## 1.1.9. biztosítéknyújtáshoz kapcsolódó költségek,
 
@@ -74,15 +74,15 @@
 
 ## 1.5. Egyéb általános előírások
 
-## 1.5.1. Ha a kedvezményezett a beruházás, illetve a beruházás hasznosítása során általános forgalmi adó (a továbbiakban: ÁFA) levonására nem jogosult, akkor a támogatás számításának alapja a projekt ÁFÁ-val növelt, bruttó összköltsége, a projekt költségvetését bruttó módon kell megtervezni.
+## 1.5.1.[^50] Ha a kedvezményezett a beruházás, illetve a beruházás hasznosítása során általános forgalmi adó (a továbbiakban: ÁFA) levonására nem jogosult, akkor a támogatás számításának alapja a projekt ÁFA-val növelt, bruttó összköltsége, a projekt költségvetését bruttó módon kell megtervezni.
 
 ## 1.5.2. Ha a kedvezményezett ÁFA adóalany, vagy még nem ÁFA adóalany, de a beruházás, illetve a beruházás hasznosításával azzá válik és ÁFA levonására egészben vagy részben jogosult, akkor a támogatás alapja a projekt ÁFA nélkül számított nettó összköltsége.
 
 ## 1.5.3. A földterület, a telek, az épületek és az egyéb eszközök lízingbevételével kapcsolatos költségek abban az esetben számolhatóak el, ha zártvégű pénzügyi lízing formájában valósul meg, és a lízingszerződés tartalmazza az eszköznek a lízing időtartam lejárta utáni megvásárlására vonatkozó kötelezettségét, mely határidő azonban nem lehet későbbi, mint a beruházás befejezésének dátuma.
 
-## 1.5.4. Bérelt ingatlanon történő megvalósítás esetén a földterület, a telek és épületek bérleti díja, melyek a beruházás megvalósítási időszaka alatt merülnek fel, elszámolható költségeknek minősülnek. További feltétel, hogy bérleti szerződés határozatlan idejű legyen, vagy határozott idejű szerződés esetén annak időtartama tíz évvel meghaladja a beruházás befejezésének tervezett dátumát.
+## 1.5.4.[^51]
 
-7. melléklet a 3/2015. (II. 13.) NGM rendelethez
+7. melléklet a 3/2015. (II. 13.) NGM rendelethez[^52]
 
 | A visszafizetendő tőkeösszeg számítása a képzési támogatás-nyújtás feltételeként vállalt foglalkoztatási kötelezettség nemteljesítése esetén |
 
@@ -94,7 +94,7 @@
 
 | lezárulását |  |
 
-| követő 18 hónap során folyamatosan munkaviszonyban, < 0.7 teljes |  |
+| követő 18 hónap során folyamatosan munkaviszonyban, < 0.7 a képzésük megkezdésekor a munkakörükre meghatározott napi munkaidőnek megfelelő |  |
 
 | munkaidőben foglalkoztatott munkavállalók száma |  |
 
@@ -106,7 +106,7 @@
 
 | lezárulását |  |
 
-| követő 18 hónap során folyamatosan munkaviszonyban, < 0.7 teljes |  |
+| követő 18 hónap során folyamatosan munkaviszonyban, < 0.7 a képzésük megkezdésekor a munkakörükre meghatározott napi munkaidőnek megfelelő |  |
 
 | munkaidőben foglalkoztatott munkavállalók száma |  |
 
@@ -120,10 +120,15 @@
 
 | 2.2.1. | Ha a képzésben részt vett munkavállalók összlétszáma több, mint a támogatási kérelem szerint képzésbe vonni tervezett létszám, abban az esetben a teljesítéshez hiányzó létszám (L): |
 
-| L = (kérelem szerint képzésbe vonni tervezett létszám * 0,7) – a képzésben részt vett munkavállalók közül képzésük lezárulását követő 18 hónap során folyamatosan munkaviszonyban, teljes munkaidőben foglalkoztatott munkavállalók száma |
+| L = (kérelem szerint képzésbe vonni tervezett létszám * 0,7) – a képzésben részt vett munkavállalók közül képzésük lezárulását követő 18 hónap során folyamatosan munkaviszonyban, a képzésük megkezdésekor a munkakörükre meghatározott napi munkaidőnek megfelelő munkaidőben foglalkoztatott munkavállalók száma |
 
 | 2.2.2. | Ha a képzésben részt vett munkavállalók összlétszáma megegyezik vagy kevesebb, mint a támogatási kérelem szerint képzésbe vonni tervezett létszám, abban az esetben a teljesítéshez hiányzó létszám (L): |
 
-| L = (képzésben részt vett munkavállalók létszáma * 0,7) – a képzésben részt vett munkavállalók közül képzésük lezárulását követő 18 hónap során folyamatosan munkaviszonyban, teljes munkaidőben foglalkoztatott munkavállalók száma |
+| L = (képzésben részt vett munkavállalók létszáma * 0,7) – a képzésben részt vett munkavállalók közül képzésük lezárulását követő 18 hónap során folyamatosan munkaviszonyban, a képzésük megkezdésekor a munkakörükre meghatározott napi munkaidőnek megfelelő munkaidőben foglalkoztatott munkavállalók száma |
 
 | 3. | A visszafizetendő tőkeösszeg a 2.1. pont szerinti összeg és a 2.2.1. vagy 2.2.2. alpont szerinti létszám szorzataként számítandó. |
+
+[^49]: A 6. melléklet 1.1.8. pontja a 32/2018. (XII. 15.) ITM rendelet 14. § 14. pontja szerint módosított szöveg.
+[^50]: A 6. melléklet 1.5.1. pontja a 32/2018. (XII. 15.) ITM rendelet 14. § 15. pontja szerint módosított szöveg.
+[^51]: A 6. melléklet 1.5.4. pontját a 32/2018. (XII. 15.) ITM rendelet 15. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^52]: A 7. melléklet a 32/2018. (XII. 15.) ITM rendelet 14. § 16. pontja szerint módosított szöveg.

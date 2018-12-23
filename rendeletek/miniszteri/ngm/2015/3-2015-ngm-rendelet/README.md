@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-3-20-2X
 | --- | --- | --- |
 | 2015-02-14 | 2015-3-20-2X.1 | 3/2015. (II. 13.) NGM rendelet |
 | 2015-10-01 | 2015-3-20-2X.2 | 21/2015 (VIII. 28.) NGM rendelet |
+| 2018-12-23 | 2015-3-20-2X.3 | 32/2018. (XII. 15.) ITM rendelet |
