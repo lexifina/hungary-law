@@ -10,12 +10,9 @@ Határidő: felmerülés ütemében
 
 a) a 2017-ben felmerülő feladatok finanszírozására a XII. Földművelésügyi Minisztérium fejezet, 1. Földművelésügyi Minisztérium igazgatása cím javára 24 050 000 forintot, a 2. Nemzeti Élelmiszerlánc-biztonsági Hivatal cím javára 126 556 000 forintot, a 8. Nemzeti Agrárkutatási és Innovációs Központ cím javára 63 500 000 forintot,
 
-b) a 2018-ban felmerülő feladatok finanszírozására a XII. Földművelésügyi Minisztérium fejezet, 1. Földművelésügyi Minisztérium igazgatása cím javára 75 950 000 forintot, a 2. Nemzeti Élelmiszerlánc-biztonsági Hivatal cím javára 719 298 000 forintot, a 8. Nemzeti Agrárkutatási is Innovációs Központ cím javára 190 500 000 forintot,
+b)[^1] a 2018-ban felmerülő feladatok finanszírozására a XII. Agrárminisztérium fejezet, 1. Agrárminisztérium igazgatása cím javára 52 750 000 forintot, a 2. Nemzeti Élelmiszerlánc-biztonsági Hivatal cím javára 719 298 000 forintot, a 8. Nemzeti Agrárkutatási is Innovációs Központ cím javára 213 700 000 forintot,
 
-c) a 2019-ben felmerülő feladatok finanszírozására a XII. Földművelésügyi Minisztérium fejezet, 1. Földművelésügyi Minisztérium igazgatása cím javára 21 683 000 forintot, a 2. Nemzeti Élelmiszerlánc-biztonsági Hivatal cím javára 237 026 000 forintot.
+c)[^2] a 2019-ben felmerülő feladatok finanszírozására a XII. Agrárminisztérium fejezet, 1. Agrárminisztérium igazgatása cím javára 10 918 000 forintot, a 2. Nemzeti Élelmiszerlánc-biztonsági Hivatal cím javára 237 026 000 forintot, a 8. Nemzeti Agrárkutatási is Innovációs Központ cím javára 10 765 000 forintot.
 
-Felelős: nemzetgazdasági miniszter
-
-Határidő: az a) és a b) pont tekintetében a felmerülés ütemében
-
-a c) pont tekintetétben az éves költségvetési tervezés menetében
+[^1]: A 2. pont b) pontja az 1806/2018. (XII. 23.) Korm. határozat 7. pontjával megállapított szöveg.
+[^2]: A 2. pont c) pontja az 1806/2018. (XII. 23.) Korm. határozat 7. pontjával megállapított szöveg.
