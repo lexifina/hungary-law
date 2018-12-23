@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1766-30
 | 2018-03-29 | 2017-1766-30-22.4 | 1184/2018. (III. 29.) Korm. határozat |
 | 2018-08-31 | 2017-1766-30-22.5 | 1184/2018. (III. 29.) Korm. határozat |
 | 2018-11-27 | 2017-1766-30-22.6 | 1184/2018. (III. 29.) Korm. határozat |
+| 2018-12-23 | 2017-1766-30-22.7 | 1184/2018. (III. 29.) Korm. határozat |
