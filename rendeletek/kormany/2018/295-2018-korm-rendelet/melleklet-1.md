@@ -1,4 +1,4 @@
-## 6. § Hatályát veszti az AlcoWorld Zártkörűen Működő Részvénytársaság Fényeslitke külterületén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 214/2016. (VII. 21.) Korm. rendelet.
+## 6. §[^2]
 
 1. melléklet a 295/2018. (XII. 21.) Korm. rendelethez
 
@@ -51,3 +51,5 @@ A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentő
 23. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
