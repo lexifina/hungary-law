@@ -1,3 +1,5 @@
 ## 4. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-5. § Hatályát veszti az állam öröklése és az államot megillető egyéb jogok gyakorlása esetén a Magyar Állam képviseletéről szóló 45/2002. (XII. 25.) PM rendelet.
+5. §[^2]
+
+[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
