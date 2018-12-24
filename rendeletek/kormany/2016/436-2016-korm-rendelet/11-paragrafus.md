@@ -8,26 +8,39 @@ b) a szavatolótőke-szükséglet
 
 ## belső modell alapján történő számítása engedélyezését, akkor a Felügyelet és az érintett felügyeleti hatóságok együttesen járnak el (a továbbiakban: többoldalú eljárás) az engedély megadása vagy az engedély feltételekkel történő megadása vonatkozásában.
 
-(2) Ha a Felügyelet látja el a csoportfelügyeletet, akkor az (1) bekezdésben meghatározott eljárás megkezdésekor a Felügyelet
+(1a)[^5] Az (1) bekezdés szerinti kérelmet a csoportfelügyeletet ellátó felügyeleti hatósághoz kell benyújtani.
 
-a) haladéktalanul továbbítja a szükséges információkat és dokumentumokat a felügyeleti kollégium tagjai számára, és
+(2)[^6] Ha a Felügyelet látja el a csoportfelügyeletet, akkor az (1) bekezdésben meghatározott eljárás megkezdésekor a Felügyelet haladéktalanul továbbítja a teljes – (1) bekezdés szerinti – kérelmet a felügyeleti kollégium tagjai számára.
 
-b) ezzel egyidejűleg tájékoztatja a felügyeleti kollégium tagjait a határozattervezetre vonatkozó vélemény, elemzés és fenntartás Felügyelet részére történő megküldésének határidejéről.
+(3)[^7] A Felügyelet mint csoportfelügyeleti hatóság a többoldalú eljárás keretében csak valamennyi, az eljárásban részt vevő tagállam érintett felügyeleti hatósága egyetértésével hozhat érvényes határozatot, amely határozat meghozatalának határideje a hiánytalan kérelem beérkezésétől számított hat hónap.
 
-(3) A Felügyelet a többoldalú eljárás keretében csak valamennyi, az eljárásban részt vevő tagállam érintett felügyeleti hatósága egyetértésével hozhat érvényes határozatot (a továbbiakban: többoldalú eljárás keretében hozott határozat), amely határozat meghozatalának határideje a hiánytalan kérelem beérkezésétől számított hat hónap.
+(4)[^8] Ha az eljárásban részt vevő tagállam érintett felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a Felügyelet mint csoportfelügyeleti hatóság a többoldalú eljárás lezárultát követően, az eljárásban részt vevő valamennyi tagállam érintett felügyeleti hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
 
-(4) Ha az eljárásban részt vevő tagállam érintett felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, akkor a (3) bekezdésben rögzített határidőn belül az eljárásban részt vevő bármelyik tagállam érintett felügyeleti hatósága kérésére a Felügyelet az EBFH-val a többoldalú eljárás eredménytelensége vonatkozásában egyeztetést köteles folytatni, vagy saját kezdeményezésére egyeztetést folytathat.
+(5)[^9] Ha a (3) bekezdésben foglalt hat hónapos időszak során valamelyik érintett felügyeleti hatóság az ügyet az EBFH elé utalja, akkor a Felügyelet mint csoportfelügyeleti hatóság elhalasztja döntését és megvárja az EBFH által esetleg hozott határozatot.
 
-(5) Ha az eljárásban részt vevő tagállam érintett felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a Felügyelet a többoldalú eljárás lezárultát követő tíz munkanapon belül, az eljárásban részt vevő valamennyi tagállam érintett felügyeleti hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
+(6)[^10]
 
-(6) Ha a Felügyelet a (4) bekezdés szerinti egyeztetést folytat az EBFH-val, akkor a (3) bekezdéstől eltérően az eljárás határideje az EBFH-nak az európai felügyeleti hatóság (az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) létrehozásáról, valamint a 716/2009/EK határozat módosításáról és a 2009/79/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1094/2010/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1094/2010/EU rendelet) 19. cikk (3) bekezdése szerinti határozatának a Felügyelet részére történő átadását követő tíz munkanap elteltével jár le.
+(7)[^11] Az (5) bekezdés esetén a megkeresést követő egy hónapon belül az EBFH – az európai felügyeleti hatóság (az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) létrehozásáról, valamint a 716/2009/EK határozat módosításáról és a 2009/79/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1094/2010/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1094/2010/EU rendelet) 19. cikk (3) bekezdése szerinti – kötelező erejű határozatot hozhat. Ez esetben a Felügyelet mint csoportfelügyeleti hatóság az EBFH határozatnak megfelelően hozza meg saját határozatát, amelyet az érintett felügyeleti hatóságok irányadónak tekintenek, és teljesítik az abban foglaltakat.
 
-(7) A (6) bekezdés esetén a megkeresést követő egy hónapon belül az EBFH határozatot hoz. A Felügyelet mint a csoportfelügyeletért felelős hatóság az EBFH határozatnak megfelelően hozza meg saját határozatát, amelyet az érintett felügyeleti hatóságok irányadónak tekintenek, és teljesítik az abban foglaltakat.
+(7a)[^12] Amennyiben az EBFH az 1094/2010/EU rendelet 41. cikk (2) és (3) bekezdése, illetve 44. cikk (1) bekezdés harmadik albekezdése szerint javasolt határozatot elutasítja és nem hoz kötelező erejű határozatot, akkor a Felügyelet mint csoportfelügyeleti hatóság hozza meg a végső döntést, amelyet az érintett felügyeleti hatóságok irányadónak tekintenek, és teljesítik az abban foglaltakat.
 
-(8) A Felügyelet az (5) és (7) bekezdés szerinti – részletes indokolást is tartalmazó – határozatát közli a többoldalú eljárásban részt vevő valamennyi tagállam érintett felügyeleti hatóságával, az EBFH-val és a csoportfelügyelet alá tartozó anyavállalattal.
+(8)[^13] A Felügyelet a (4), (7) és (7a) bekezdés szerinti – részletes indokolást is tartalmazó – határozatát közli a többoldalú eljárásban részt vevő valamennyi tagállam érintett felügyeleti hatóságával, az EBFH-val és a csoportfelügyelet alá tartozó anyavállalattal.
 
 (9) Ha az eljárás lefolytatására másik tagállam érintett felügyeleti hatósága jogosult, és a Felügyelet érintett felügyeleti hatóság, akkor a Felügyelet az eljárásra jogosult tagállam érintett felügyeleti hatósága által meghatározott határidőn belül megküldi a véleményét, fenntartását.
 
 (10) Ha a csoportfelügyelet tekintetében érintett felügyeleti hatóság – amely nem a Felügyelet – az (1) bekezdés szerinti eljárást követően döntést hozott, határozata Magyarországon közvetlenül alkalmazandó és végrehajtható. A Felügyelet a tagállam érintett felügyeleti hatósága határozatának szövegét magyar nyelven a honlapján közzéteszi. A Felügyelet hatáskörébe tartozó szervezet tekintetében a más tagállam érintett felügyeleti hatósága által hozott határozatban foglaltak végrehajtására, teljesítésének ellenőrzésére, az ellenőrzés alapján hozható intézkedésre a Felügyelet által hozott határozatokra vonatkozó magyar jogszabályok alkalmazandóak.
 
 (11) Ha a Felügyelet nem a csoportfelügyeletért felelős hatóság, és a felügyelete alá tartozó, csoportbeli biztosító vagy viszontbiztosító kockázati profilja jelentősen eltér a belső modell alapjául szolgáló feltevésektől, akkor többlettőke-követelményt írhat elő a biztosító vagy viszontbiztosító számára, amíg az nem bizonyítja megnyugtatóan a Felügyelet számára, hogy nem indokolt a többlettőke-követelmény. A Felügyelet ezen határozatáról és annak indokolásáról írásban tájékoztatja a csoportfelügyeletért felelős hatóságot és a többi érintett hatóságot.
+
+(11a)[^14] Kivételes esetben, ha a Felügyelet megítélése szerint a (11) bekezdés szerinti többlettőke-követelmény-előírás – a rendelkezésre álló bizonyítékok alapján – nem lenne elegendő a helyzet rendezéséhez, a Felügyelet előírhatja az érintett biztosító vagy viszontbiztosító számára, hogy standard formula alapján számítsa ki a szavatolótőke-szükségletét. A Felügyelet továbbá – a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló 43/2015. (III. 12.) Korm. rendelet 59. § (1) bekezdés a) és c) pontjában foglalt esetekkel összhangban – többlettőke-követelményt is előírhat az említett biztosítónak vagy viszontbiztosítónak a standard formula alkalmazásából eredő szavatolótőke-szükségletéhez. A Felügyelet e határozatairól és azok indokolásáról írásban tájékoztatja a csoportfelügyeletért felelős hatóságot és a többi érintett hatóságot.
+
+[^5]: A 11. § (1a) bekezdését a 278/2018. (XII. 21.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^6]: A 11. § (2) bekezdése a 278/2018. (XII. 21.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^7]: A 11. § (3) bekezdése a 278/2018. (XII. 21.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^8]: A 11. § (4) bekezdése a 278/2018. (XII. 21.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^9]: A 11. § (5) bekezdése a 278/2018. (XII. 21.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^10]: A 11. § (6) bekezdését a 278/2018. (XII. 21.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^11]: A 11. § (7) bekezdése a 278/2018. (XII. 21.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^12]: A 11. § (7a) bekezdését a 278/2018. (XII. 21.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^13]: A 11. § (8) bekezdése a 278/2018. (XII. 21.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^14]: A 11. § (11a) bekezdését a 278/2018. (XII. 21.) Korm. rendelet 4. § (5) bekezdése iktatta be.
