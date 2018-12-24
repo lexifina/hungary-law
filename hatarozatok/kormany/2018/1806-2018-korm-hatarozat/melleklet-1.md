@@ -114,23 +114,15 @@
 
 ## 5. A Kormány egyetért azzal, hogy az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1275/2017. (V. 31.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 1. Állami Egészségügyi Ellátó Központ alcím, K7. Felújítások kiemelt előirányzat javára átcsoportosított 104 300 000 forintból 6 119 000 forint a K1. Személyi juttatások kiemelt előirányzaton, 1 358 000 forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 40 854 000 forint a K3. Dologi kiadások kiemelt előirányzaton és 55 969 000 forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 6. A Felvidéken megvalósuló programok és támogatások finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1671/2017. (IX. 19.) Korm. határozatban a „2018. december 31.” szövegrész helyébe a „2019. június 30.” szöveg lép.
+## 6.[^1]
 
-## 7. A Nemzeti Borkincstár Program keretében az állami tulajdonban lévő muzeális borok állagmegóvásával kapcsolatos kormányzati feladatokról szóló 1685/2017. (IX. 21.) Korm. határozat 2. pont b) és c) alpontja helyébe a következő rendelkezések lépnek:
-
-## (A Kormány a Nemzeti Borkincstár Program végrehajtása keretében a szükséges költségvetési források biztosítása mellett
-
-## felhívja a nemzetgazdasági minisztert, hogy a Nemzeti Borkincstár Program végrehajtása érdekében 2017–2019. években gondoskodjon összesen legfeljebb 1 458 563 000 forint többletforrásként történő biztosításáról az alábbi megosztásban:)
-
-## „b) a 2018-ban felmerülő feladatok finanszírozására a XII. Agrárminisztérium fejezet, 1. Agrárminisztérium igazgatása cím javára 52 750 000 forintot, a 2. Nemzeti Élelmiszerlánc-biztonsági Hivatal cím javára 719 298 000 forintot, a 8. Nemzeti Agrárkutatási is Innovációs Központ cím javára 213 700 000 forintot,
-
-## c) a 2019-ben felmerülő feladatok finanszírozására a XII. Agrárminisztérium fejezet, 1. Agrárminisztérium igazgatása cím javára 10 918 000 forintot, a 2. Nemzeti Élelmiszerlánc-biztonsági Hivatal cím javára 237 026 000 forintot, a 8. Nemzeti Agrárkutatási is Innovációs Központ cím javára 10 765 000 forintot.”
+## 7.[^2]
 
 ## 8. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, tárgyéven túli kötelezettségvállalás engedélyezéséről és egyes kormányhatározatok módosításáról szóló 1707/2017. (IX. 25.) Korm. határozattal – figyelemmel az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1727/2017. (X. 10.) Korm. határozat 2. pontjára – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 6. A Budapesti Planetárium épületének felújítása jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 66 829 940 forintból 6 981 755 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 9. Az Országvédelmi Alapból történő, valamint a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1766/2017. (XI. 7.) Korm. határozat 1. pontjában a „2018. június 30.” szövegrész helyébe a „2018. június 30., a Kormányzati infokommunikációs szolgáltatások előirányzat javára átcsoportosított 1 659 976 000 forint tekintetében 2019. március 31.” szöveg lép.
+## 9.[^3]
 
-## 10. A Felvidéken megvalósuló programok és támogatások további finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1777/2017. (XI. 7.) Korm. határozatban a „2018. december 31.” szövegrész helyébe a „2019. június 30.” szöveg lép.
+## 10.[^4]
 
 ## 11. A Kormány egyetért azzal, hogy a fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról szóló 2029/2017. (XII. 27.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 41. Egyedi sportlétesítmény-fejlesztések támogatása jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 938 000 000 forintból 63 600 000 forint a K1. Személyi juttatások kiemelt előirányzaton, 12 402 000 forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 355 746 415 forint a K3. Dologi kiadások kiemelt előirányzaton és 506 251 585 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra a központi költségvetés címrendjének a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelettel összefüggő módosításáról szóló 1272/2018. (VI. 15.) Korm. határozat figyelembevételével.
 
@@ -138,13 +130,7 @@
 
 ## 13. A Kormány egyetért azzal, hogy a Concerto Akadémia Nonprofit Kft. működési többlettámogatásának biztosításáról szóló 1143/2018. (III. 26.) Korm. határozatban (a továbbiakban: Határozat) foglaltaktól eltérően a Határozat alapján biztosított forrást a Concerto Akadémia Nonprofit Kft. – működőképességének megőrzése céljából – személyi és dologi kiadásainak finanszírozására is fordíthassa.
 
-## 14. Az Európai Hálózatfinanszírozási Eszköz társfinanszírozásával megvalósítandó fejlesztésekhez szükséges éven túli kötelezettségvállaláshoz történő hozzájárulásról szóló 1179/2018. (III.28.) Korm. határozat b) és c) pontja helyébe a következő rendelkezések lépnek:
-
-## [A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontja szerinti jogkörében eljárva a központi költségvetés Nemzeti Fejlesztési Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Európai uniós fejlesztési programok alcím, Európai Hálózatfinanszírozási Eszköz (CEF) projektek jogcímcsoport kiadási előirányzatai terhére vállalható kötelezettségek mértékét a 2019–2021. évekre az alábbiak szerint állapítja meg:]
-
-## „b) a 2020. évre vonatkozó kötelezettségvállalás legfeljebb 113 500 789 177 forint,
-
-## c) a 2021. évre vonatkozó kötelezettségvállalás legfeljebb 10 375 014 959 forint.”
+## 14.[^5]
 
 ## 15. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő átcsoportosításról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, fejezetek közötti és fejezeten belüli átcsoportosításról, a Honvédelmi Minisztérium fejezet szociális hozzájárulási adó felhasználásáról és egyes kormányhatározatok módosításáról szóló 1347/2018. (VII. 26.) Korm. határozat (a továbbiakban: Határozat1) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 28. Üldözött keresztények segítésének feladatai jogcímcsoport, 2. Intervenciós Támogatási Keret jogcím K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 143 441 651 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
@@ -154,10 +140,17 @@
 
 ## 18. A Kormány egyetért azzal, hogy a Kék Bolygó Klímavédelmi Alapítvány támogatásáról szóló 1507/2018. (X. 15.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 47. Kék Bolygó Klímavédelmi Alapítvány támogatása jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 499 225 000 forintból 51 430 000 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 19. A Kormány a Nemzeti Stadionfejlesztési Program keretében megvalósítandó új Bozsik Stadion fejlesztésével kapcsolatos további intézkedésekről szóló 1518/2018. (X. 17.) Korm. határozat 4. pontját és 1. mellékletét visszavonja.
+## 19.[^6]
 
 ## 20. A Kormány egyetért azzal, hogy a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet terhére megvalósítandó előirányzat-átcsoportosításról szóló 1599/2018. (XI. 26.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 1. Az NVTNM tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások alcím, 6. Az NVTNM tulajdonosi joggyakorlása alá tartozó társaságok bérfejlesztésének ellentételezése jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 796 480 500 forintból 110 578 000 forint a 9. Az NVTNM tulajdonosi joggyakorlása alá tartozó társaságok támogatása jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzaton; valamint a 9. Az NVTNM tulajdonosi joggyakorlása alá tartozó társaságok támogatása jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 1 000 000 000 forintból 179 000 000 forint a 6. Az NVTNM tulajdonosi joggyakorlása alá tartozó társaságok bérfejlesztésének ellentételezése jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzaton és 821 000 000 forint a 11. Az NVTNM tulajdonosi joggyakorlása alá tartozó társaságok tőkeemelése, pótbefizetése jogcímcsoport K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra.
 
 ## 21. A Kormány egyetért azzal, hogy az Országvédelmi Alapból történő átcsoportosításról, a fejezeti stabilitási tartalék előirányzat felhasználásáról, a Szociális célú nem állami humánszolgáltatások támogatása fejezeti kezelésű előirányzat túllépésének jóváhagyásáról és egyes kormányhatározatok módosításáról szóló 1603/2018. (XI. 27.) Korm. határozat 2. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 35. Tatabányai multifunkcionális csarnok beruházás jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 19 651 000 forintból 15 000 000 forint a K1. Személyi juttatások kiemelt előirányzaton, 2 925 000 forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 1 726 000 forint a K3. Dologi kiadások kiemelt előirányzaton, valamint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 102 477 000 forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra.
 
 1. melléklet az 1806/2018. (XII. 23.) Korm. határozathoz
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 19. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
