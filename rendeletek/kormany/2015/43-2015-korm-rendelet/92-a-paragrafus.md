@@ -1,3 +1,3 @@
-## 92. §[^20]
+## 92. §[^22]
 
-[^20]: A 92. §-t a 94. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^22]: A 92. §-t a 94. § (2) bekezdés b) pontja hatályon kívül helyezte.

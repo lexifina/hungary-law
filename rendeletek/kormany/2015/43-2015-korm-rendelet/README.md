@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-43-20-2
 | 2015-11-26 | 2015-43-20-22.3 | 346/2015. (XI. 19.) Korm. rendelet |
 | 2016-01-01 | 2015-43-20-22.4 | 295/2015. (X. 8.) Korm. rendelet |
 | 2016-01-02 | 2015-43-20-22.5 | 2010: CXXX. törvény |
+| 2018-12-24 | 2015-43-20-22.6 | 278/2018. (XII. 21.) Korm. rendelet |
