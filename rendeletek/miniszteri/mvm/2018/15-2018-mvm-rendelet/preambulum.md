@@ -1,0 +1,1 @@
+A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (2) bekezdés n) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 14. § 14. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
