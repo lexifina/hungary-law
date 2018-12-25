@@ -104,4 +104,8 @@ b) a járművet a személyszállítást végző üzemeltető, annak tagja, a vel
 
 38. utazási okmány: e törvény alkalmazásában utazási jogosultság, illetve kedvezmény megjelenítésére, igénybevételére és igazolására szolgáló dokumentum;
 
-39. közösségi autóbérlő rendszer: személygépkocsi-kölcsönző rendszer, amely díj ellenében, érvényes, Magyarország területén személygépkocsi közúton történő vezetésére jogosító okmánnyal rendelkező, előzetesen regisztrált felhasználók számára folyamatosan igénybe vehető, továbbá központi telematikai rendszerrel irányított módon, automatizált helyszíni kölcsönzési folyamat alkalmazásával, az üzemeltetési területen belül szabad felhasználást biztosítva működik.
+39. közösségi autóbérlő rendszer: személygépkocsi-kölcsönző rendszer, amely díj ellenében, érvényes, Magyarország területén személygépkocsi közúton történő vezetésére jogosító okmánnyal rendelkező, előzetesen regisztrált felhasználók számára folyamatosan igénybe vehető, továbbá központi telematikai rendszerrel irányított módon, automatizált helyszíni kölcsönzési folyamat alkalmazásával, az üzemeltetési területen belül szabad felhasználást biztosítva működik;
+
+40. átszállójegy: egy vagy több vasúttársaság által működtetett, egymást követő vasúti szolgáltatásokra jogosító szállítási szerződést képviselő menetjegy vagy menetjegyek;
+
+41. nagy sebességű személyszállítási szolgáltatások: egymástól 200 km-t meghaladó távolságra lévő két helyszín között, közbenső megállók nélkül közlekedő olyan személyszállítási szolgáltatások, amelyek speciális konstrukciójú, nagy sebességű, legalább 250 km/h sebességre kialakított vonalakon működnek, és átlagosan e sebességgel közlekednek.

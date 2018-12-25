@@ -14,9 +14,13 @@ a) a jogosult természetes személyazonosító adatai (családi és utónév, sz
 
 b) a jogosult lakhelye vagy tartózkodási helye, valamint levelezési címe,
 
-c) a munkaviszony, kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszony, szakmai gyakorlat kezdete, illetve vége, valamint
+c) a munkaviszony, kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti, kormánytisztviselői, állami vezetői szolgálati, ösztöndíjas foglalkoztatási, ösztöndíjas jogviszony, szakmai gyakorlat kezdete, illetve vége,
 
-d) nyugdíjas esetén a saját jogú vagy hozzátartozói nyugellátás, valamint egyéb nyugdíjszerű társadalombiztosítási ellátás ténye és megállapításának kezdő időpontja, illetve megszűnésének időpontja.
+d) nyugdíjas esetén a saját jogú vagy hozzátartozói nyugellátás, valamint egyéb nyugdíjszerű társadalombiztosítási ellátás ténye és megállapításának kezdő időpontja, illetve megszűnésének időpontja,
+
+e) a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatározott, a menetkedvezményre való jogosultság igazolásához szükséges adatok,
+
+f) a jogosult képmása a kedvezmény igénybevételére jogosító igazolvány kiállítása céljából.
 
 (6) Az adatkezelésre e § alapján jogosult (e szakasz alkalmazásában a továbbiakban: menetkedvezményi adatkezelő) az (5) bekezdésben meghatározott adatokat az utazási kedvezmény biztosítása, a kedvezmény igénybevételére jogosító igazolvány kiállítása, az igazolványokról vezetett nyilvántartás vezetése érdekében kezeli. A menetkedvezményi adatkezelő az (5) bekezdésben meghatározott adatokat 3 évig tartja nyilván. A menetkedvezményi adatkezelő biztosítja az adatok védelmét vétlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, nyilvánosságra kerüléssel szemben, továbbá azt, hogy azokhoz jogosulatlan személy ne férjen hozzá.
 

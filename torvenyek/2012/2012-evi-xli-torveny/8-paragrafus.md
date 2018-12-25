@@ -20,7 +20,7 @@ figyelemfelhívó jelzést és ismertetést elhelyezni az elektronikus biztonsá
 
 (4) A rögzített kép-, hang- vagy kép- és hangfelvételt felhasználás hiányában a rögzítéstől számított 16. napon meg kell semmisíteni vagy törölni kell. Felhasználásnak minősül, ha a rögzített kép-, illetve hangfelvétel bírósági vagy hatósági eljárásban bizonyítékként felhasználásra vagy bíróság, hatóság részére ilyen eljárás során benyújtásra kerül.
 
-(5) Akinek jogát vagy jogos érdekét a (4) bekezdés szerinti kép-, illetve hangfelvétel érinti, a (3) bekezdésben foglaltaknak megfelelően a rögzítéstől számított 15 napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy a kép- illetve hangfelvételt annak kezelője ne semmisítse meg vagy ne törölje.
+(5) Akinek jogát vagy jogos érdekét a (4) bekezdés szerinti kép-, illetve hangfelvétel érinti, a rögzítéstől számított 15 napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy a kép- illetve hangfelvételt annak kezelője ne semmisítse meg vagy ne törölje.
 
 (6) Bíróság vagy hatóság megkeresésére a rögzített kép-, illetve hangfelvételt a bíróságnak vagy a hatóságnak haladéktalanul meg kell küldeni. Ha a megkeresésre attól számított 72 órán belül, hogy a megsemmisítés vagy törlés mellőzését az (5) bekezdés alapján kérték, nem kerül sor, és a (4) bekezdésben meghatározott határidő letelt, a rögzített kép- illetve hangfelvételt meg kell semmisíteni, vagy törölni kell.
 

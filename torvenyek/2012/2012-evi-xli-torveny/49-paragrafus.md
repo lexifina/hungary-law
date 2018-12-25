@@ -16,7 +16,7 @@ d) az autóbuszos személyszállítási szolgáltatásnak a 181/2011/EU rendelet
 
 e) az autóbusszal díj ellenében végzett személyszállítási és saját számlás személyszállítási tevékenység végzésére vonatkozó szabályokat,
 
-f) az autóbuszos közúti személyszállítási tevékenységre, a közlekedésszervező tevékenységére vonatkozó piacfelügyeleti eljárásra, a piacfelügyeleti díj alkalmazására, számítására és megállapítására vonatkozó részletes szabályokat, továbbá a piacfelügyeleti bírság mértékére és alkalmazására vonatkozó szabályokat,
+f) az autóbuszos közúti személyszállítási tevékenységre, a közlekedésszervező tevékenységére vonatkozó piacfelügyeleti eljárásra, a piacfelügyeleti díj megfizetésére vonatkozó részletes szabályokat, továbbá a piacfelügyeleti bírság mértékére és alkalmazására vonatkozó szabályokat,
 
 g) a vasúti személyszállítási szolgáltatások területén a kötelező nem baleseti kárfedezet biztosításának részletes szabályait,
 
@@ -49,6 +49,8 @@ e) a 48. §-ban meghatározott, a vasúti személyszállítási közszolgáltat�
 f) a 19. § (1a) bekezdése szerinti közlekedésszakmai feltételek és hozzáférési feltételek részletes szabályait,
 
 g) a 45. § szerinti, az új nemzetközi vasúti személyszállítási szolgáltatások eljárásainak díjait
+
+h) az autóbuszos hatóság eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésére kezelésére, nyilvántartására és visszatérítésére vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben
 
 rendeletben állapítsa meg.
 
