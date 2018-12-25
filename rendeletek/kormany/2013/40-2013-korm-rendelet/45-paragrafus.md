@@ -8,6 +8,6 @@ b) a helyettesítésre, csökkentésre és tökéletesítésre vonatkozó előí
 
 (3) A nem szakmai jellegű projekt-összefoglalók nem tartalmazzák a felhasználónak és személyzetének nevét és címét.
 
-(4)[^48] A Pest Megyei Kormányhivatal közzéteszi az engedélyezett projektek nem szakmai jellegű összefoglalóit és azok módosításait.
+(4)[^49] A Pest Megyei Kormányhivatal közzéteszi az engedélyezett projektek nem szakmai jellegű összefoglalóit és azok módosításait.
 
-[^48]: A 45. § (4) bekezdése a 240/2017. (VIII. 28.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^49]: A 45. § (4) bekezdése a 240/2017. (VIII. 28.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.

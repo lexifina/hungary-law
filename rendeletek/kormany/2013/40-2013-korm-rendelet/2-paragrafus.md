@@ -20,4 +20,6 @@
 
 10. „károsító klinikai állapot”: valamely személy normális fizikai vagy lelki működésre irányuló képességének csökkenése;
 
-11. „elismert állattartási gyakorlat”: az állatok tenyésztése vagy tartása során rutinszerűen alkalmazott minden olyan eljárás, mely az állat szaporítását, valamint jólétének, megfelelő egészségi állapotának, és fajtaazonosságának ellenőrzését és fenntartását szolgálja.
+11.[^4] „elismert állattartási gyakorlat”: az állatok tenyésztése vagy tartása során rutinszerűen alkalmazott minden olyan eljárás, mely az állat szaporítását, valamint jólétének és megfelelő egészségi állapotának ellenőrzését és fenntartását szolgálja.
+
+[^4]: A 2. § 11. pontja a 248/2018. (XII. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.

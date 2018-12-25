@@ -22,13 +22,13 @@ h) kutya (Canis familiaris),
 
 i) macska (Felis catus),
 
-j)[^4] a nem emberszabású főemlős állatok összes faja,
+j)[^5] a nem emberszabású főemlős állatok összes faja,
 
 k) dél-afrikai karmosbéka (Xenopus laevis), nyugati karmosbéka (Xenopus tropicalis), gyepi béka (Rana temporaria), északi leopárdbéka (Rana pipiens),
 
 l) zebradánió (Danio rerio).
 
-(2)[^5] Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatóság) a kísérlet engedélyezése során kérelemre tudományos indokok alapján mentességet adhat az (1) bekezdés a)–i), illetve k)–l) pontjai alól.
+(2)[^6] Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatóság) a kísérlet engedélyezése során kérelemre tudományos indokok alapján mentességet adhat az (1) bekezdés a)–i), illetve k)–l) pontjai alól.
 
-[^4]: A 3. § (1) bekezdés j) pontja a 189/2013. (VI. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^5]: A 3. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés j) pontja a 189/2013. (VI. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § a) pontja szerint módosított szöveg.
