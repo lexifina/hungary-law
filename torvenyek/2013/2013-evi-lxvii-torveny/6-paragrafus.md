@@ -8,6 +8,8 @@ a) az úthasználat megkezdését megelőzően váltott viszonylati jegy alapjá
 
 b) valamely útdíjszolgáltatóval az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó szerződés hatálya idején, ha bevallással és a díjfizetéssel összefüggő, e törvény felhatalmazása alapján kiadott rendeletben meghatározott kötelezettségének az úthasználó eleget tesz.
 
+(2a) A közlekedésért felelős miniszter (a továbbiakban: miniszter) rendeletben meghatározhatja azon útdíjköteles elemi útszakaszok körét, amelyek használata a (2) bekezdésben megjelölt feltételek fennállása hiányában sem keletkeztet jogosulatlan úthasználatot, amennyiben az ezen útdíjköteles elemi útszakaszokon az úthasználati jogosultság keletkezésének és fennállásának miniszteri rendeletben megállapított különös szabályai szerint keletkezik úthasználati jogosultság.
+
 (3) Nem alapozza meg az úthasználati jogosultságot, ha a fedélzeti eszközt az úthasználó nem az arra vonatkozó szabályoknak megfelelően használja, vagy olyan fedélzeti eszköz útján teljesít bevallást, amelyet a fedélzeti eszközt regisztráló útdíjszolgáltató az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek szerint érvénytelenítette.
 
 (4) Az útdíjszedő megállapítja az útdíj összegét és beszedi az adott útdíjköteles elemi útszakasz vonatkozásában e törvény szerint bevallást benyújtó útdíjszolgáltatótól. Az útdíj útdíjszedő részére történő megfizetésnek nem lehet feltétele, hogy az annak megfelelő pénzösszeg az útdíjszolgáltatóhoz a díjfizetésre kötelezettől beérkezzen.

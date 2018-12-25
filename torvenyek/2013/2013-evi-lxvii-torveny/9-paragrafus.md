@@ -10,7 +10,7 @@ c) útdíjköteles elemi útszakasz kezelői feladatait ellátó,
 
 ca) a koncessziós közúton végzett üzemeltetői feladata ellátása érdekében a koncessziós társaság vagy az általa üzemeltetői feladatokkal megbízott gazdasági társaság által üzemeltetett gépjárműveket,
 
-cb) a ca) alpont alá nem tartozó országos közút esetében az országos közút kezelésére a közlekedésért felelős miniszter (a továbbiakban: miniszter) által kijelölt közútkezelő által a közútkezelői feladata ellátása érdekében üzemeltetett, valamint a téli időszakban az országos közút kezelőjével kötött szerződés szerint, az országos közút kezelőjének cégjegyzésre jogosult képviselője által igazoltan a téli úttisztítási-, síkosságmentesítési feladatokat végző gépjárműveket;
+cb) a ca) alpont alá nem tartozó országos közút esetében az országos közút kezelésére a miniszter által kijelölt közútkezelő által a közútkezelői feladata ellátása érdekében üzemeltetett, valamint a téli időszakban az országos közút kezelőjével kötött szerződés szerint, az országos közút kezelőjének cégjegyzésre jogosult képviselője által igazoltan a téli úttisztítási-, síkosságmentesítési feladatokat végző gépjárműveket;
 
 d) az útdíjszedőt a feladatait ellátó gépjárművei után,
 
@@ -28,7 +28,7 @@ j) a Magyarországgal szomszédos állam közúthálózatának kezelői feladata
 
 k) az államhatárról szóló törvényben meghatározott tömeges bevándorlás okozta válsághelyzetben elrendelt szállítási feladatok végrehajtásában részt vevők által üzemben tartott gépjárművet az ezen feladat ellátása során.
 
-(2) Nem kell díjat fizetni a közút lezárásának vagy forgalma korlátozásának, elterelésének időtartama alatt azon az egyébként útdíjköteles elemi útszakaszon, amelyet a közút lezárására, vagy forgalmának korlátozására, elterelésére jogosult szervek terelőútként jelöltek ki.
+(2)
 
 (3) A miniszter a közúti forgalom biztonságát veszélyeztető módon vesztegelő gépjárművek elszállításának szabályairól szóló miniszteri rendeletben a közlekedés biztonsága érdekében pihenőhelyre szállított autók vonatkozásában az (1) bekezdéstől eltérő szabályokat állapíthat meg az útdíjköteles gépjárművek vonatkozásában.
 
