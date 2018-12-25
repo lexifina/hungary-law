@@ -1,0 +1,7 @@
+## 8. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
+
+51. § A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény „A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő ügyekre vonatkozó eltérő rendelkezések” alcíme a következő 6/S. §-sal egészül ki:
+
+„6/S. § (1) A nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított közlekedésfejlesztési projektek megvalósításához szükséges homok, kavics és agyag ásványi nyersanyag – ideértve mindezek változatait és keverékeit is – (a továbbiakban együtt: töltésanyag) kitermelésére a 12. § (5) bekezdés h) pontjában kapott felhatalmazás alapján vagy a végleges építési engedélyben megállapított nyomvonal 10-10 km szélességű környezetében célkitermelőhely létesíthető.
+
+(2) A célkitermelőhely létesítésére, üzemeltetésére, megszüntetésére és hatósági felügyeletére vonatkozóan a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 17/A. § (2)–(3) bekezdésében és a 17/B–17/E. §-ában foglalt rendelkezések az irányadóak.”

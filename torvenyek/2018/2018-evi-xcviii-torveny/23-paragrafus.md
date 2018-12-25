@@ -1,0 +1,3 @@
+23. § Az Lt. 48. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A légialkalmassági tanúsítvány határozatlan időtartamig érvényes. A légialkalmassági felülvizsgálati tanúsítvány egy évig érvényes, és a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló miniszteri rendeletben meghatározott feltételek mellett két alkalommal meghosszabbítható alkalmanként további egy évvel. Az állami célú légiközlekedésben a légialkalmassági bizonyítvány határozott időtartamig érvényes, időbeli hatályát a katonai légügyi hatóság időszakos alkalmassági vizsgálat után meghosszabbíthatja.”

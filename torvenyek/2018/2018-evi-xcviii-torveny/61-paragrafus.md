@@ -1,0 +1,5 @@
+61. § Az Sztv. 32. alcíme a következő 48/A. §-sal egészül ki:
+
+„48/A. § (1) Az 1371/2007/EK európai parlamenti és tanácsi rendelet és a 2010/40/EU európai parlamenti és tanácsi irányelv sérelme nélkül, a miniszter rendeletben előírhatja a belföldi személyszállítási szolgáltatásokat működtető vállalkozó vasúti társaságok számára, hogy a menet- és átszállójegy-kiadás, valamint a helyfoglalások vonatkozásában csatlakozzanak egy közös információs és integrált jegykiadó rendszerhez.
+
+(2) A közös információs és integrált jegykiadó rendszer létrehozását követően a miniszter gondoskodik arról, hogy az ne okozzon piaci torzulást vagy a vállalkozó vasúti társaságok közötti megkülönböztetést, és hogy a rendszert egy jogi személy vagy a személyszállítási szolgáltatásokat nyújtó összes vállalkozó vasúti társaságot tömörítő társulás irányítsa.”
