@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-467-20-
 | 2018-01-02 | 2017-467-20-22.2 | 2010: CXXX. törvény |
 | 2018-07-01 | 2017-467-20-22.3 | 112/2018. (VI. 25.) Korm. rendelet |
 | 2018-12-22 | 2017-467-20-22.4 | 2010: CXXX. törvény |
+| 2018-12-25 | 2017-467-20-22.5 | 2010: CXXX. törvény |

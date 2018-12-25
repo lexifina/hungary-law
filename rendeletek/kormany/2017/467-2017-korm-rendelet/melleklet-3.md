@@ -84,6 +84,8 @@ A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban 
 
 | 1 | Központi Médiatár informatikai rendszer | központi rendszer |
 
+| 2. | okos város központi platformszolgáltatás | központi rendszer |
+
 | 2. | Büntetőeljárási ügyviteli nyilvántartási rendszer | szakrendszer |
 
 | 3. | Elektronikus modus operandi rendszer (kriminalisztikai nyilvántartás) | szakrendszer |
@@ -170,4 +172,4 @@ A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban 
 
 | 44. | Ideiglenes Rendszámtáblák Nyilvántartásának rendszere | szakrendszer |
 
-[^4]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 290/2018. (XII. 21.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^4]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 252/2018. (XII. 17.) Korm. rendelet 9. §-a, a 290/2018. (XII. 21.) Korm. rendelet 4. §-a szerint szerint módosított szöveg. Alkalmazására lásd a 252/2018. (VI. 25.) Korm. rendelet 7. §-át.
