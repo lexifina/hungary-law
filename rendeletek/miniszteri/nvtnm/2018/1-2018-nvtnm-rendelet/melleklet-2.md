@@ -222,6 +222,10 @@
 
 | 3. | Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság | 01-09-327932 | 2022. december 31. |
 
+| 4. | Comitatus-Energia Beruházási Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság | 05-10-000475 | 2022. december 31. |
+
+| 5. | Manevi Zártkörű Részvénytársaság | 01-10-043414 | 2022. december 31. |
+
 ## IX. Tulajdonosi joggyakorló: a Miniszterelnöki Kabinetiroda
 
 |  | A | B | C |
@@ -267,6 +271,8 @@
 | 9. | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | 01-09-916308 | 2022. december 31. |
 
 | 10. | Várgondnokság Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-919323 | 2022. december 31. |
+
+| 11. | DBC Dél-budai Centrum Projekt Beruházó és Ingatlanfejlesztő Zártkörűen Működő Részvénytársaság | 01-10-049996 | 2022. december 31. |
 
 ## XI. Tulajdonosi joggyakorló: a Pénzügyminisztérium
 
