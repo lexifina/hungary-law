@@ -1,6 +1,6 @@
 2. § E törvény rendelkezéseit
 
-a) az 1. számú melléklet szerinti autópályák, autóutak és gyorsutak, valamint azok csomóponti elemei (a továbbiakban együtt: gyorsforgalmi utak),
+a) az 1. számú melléklet szerinti autópályák és autóutak, valamint azok csomóponti elemei (a továbbiakban együtt: gyorsforgalmi utak),
 
 b) a gyorsforgalmi utakkal egy beruházásban megvalósuló közutak,
 
