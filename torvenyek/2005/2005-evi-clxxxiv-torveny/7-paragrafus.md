@@ -4,15 +4,15 @@
 
 a) kivizsgálja
 
-aa) a 216/2008/EK európai parlamenti és tanácsi rendelet II. melléklete hatálya alá nem tartozó polgári légijárművel belföldön bekövetkezett légiközlekedési balesteket és súlyos repülőeseményeket,
+aa) a 2018/1139/EU európai parlamenti és tanácsi rendelet I. melléklete hatálya alá nem tartozó polgári légijárművel belföldön bekövetkezett légiközlekedési balesteket és súlyos repülőeseményeket,
 
 ab) a lajstromozásra kötelezett úszólétesítményekkel bekövetkezett nagyon súlyos víziközlekedési baleseteket és a lajstromozásra nem kötelezett úszólétesítményekkel bekövetkezett halált okozó nagyon súlyos víziközlekedési baleseteket,
 
 ac) a súlyos vasúti baleseteket,
 
-ad) az 1. § (2) bekezdésben meghatározott, a 216/2008/EK európai parlamenti és tanácsi rendelet II. melléklete hatálya alá nem tartozó polgári légijárművel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, ha a légiközlekedési baleset, súlyos repülőesemény helyszíne szerint illetékes kivizsgáló szerv nem folytat vizsgálatot;
+ad) az 1. § (2) bekezdésben meghatározott, a 2018/1139/EU európai parlamenti és tanácsi rendelet I. melléklete hatálya alá nem tartozó polgári légijárművel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, ha a légiközlekedési baleset, súlyos repülőesemény helyszíne szerint illetékes kivizsgáló szerv nem folytat vizsgálatot;
 
-b) kivizsgálhatja – az állami légijármű kivételével – azokat a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletének hatálya alá tartozó légijárművekkel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, a lajstromozásra nem kötelezett úszólétesítménnyel bekövetkezett – az (1) bekezdés a) pont ab) alpontjában nem szereplő – nagyon súlyos víziközlekedési baleseteket, valamint az egyéb közlekedési eseményeket, amelyek megítélése szerint
+b) kivizsgálhatja – az állami légijármű kivételével – azokat a 2018/1139/EU európai parlamenti és tanácsi rendelet I. mellékletének hatálya alá tartozó légijárművekkel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, a lajstromozásra nem kötelezett úszólétesítménnyel bekövetkezett – az (1) bekezdés a) pont ab) alpontjában nem szereplő – nagyon súlyos víziközlekedési baleseteket, valamint az egyéb közlekedési eseményeket, amelyek megítélése szerint
 
 ba) más körülmények között közlekedési balesethez vezethettek volna,
 

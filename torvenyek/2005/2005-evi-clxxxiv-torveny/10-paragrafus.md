@@ -6,9 +6,9 @@
 
 (3) A 376/2014/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében meghatározott eseményeket
 
-a) a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében meghatározott légijármű – az állami légijármű kivételével – parancsnoka, vagy ha a parancsnoknak nem áll módjában, a személyzet egyéb tagja,
+a) a 2018/1139/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott légijármű – az állami légijármű kivételével – parancsnoka, vagy ha a parancsnoknak nem áll módjában, a személyzet egyéb tagja,
 
-b) a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében meghatározott légijármű – az állami légijármű kivételével –, vagy annak alkatrésze, berendezése tervezésében, gyártásában, karbantartásában, üzembe helyezésében, üzemben tartásában, üzemeltetésében, műszaki alkalmasságának megállapításában részt vevő személy
+b) a 2018/1139/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott légijármű – az állami légijármű kivételével –, vagy annak alkatrésze, berendezése tervezésében, gyártásában, karbantartásában, üzembe helyezésében, üzemben tartásában, üzemeltetésében, műszaki alkalmasságának megállapításában részt vevő személy
 
 köteles a tudomásszerzést követően haladéktalanul személyesen vagy a légiközlekedésről szóló törvényben meghatározott baleseti ügyeleti szolgálat útján jelenteni a közlekedésbiztonsági szervnek a 376/2014/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott adattartalommal.
 

@@ -12,7 +12,7 @@ d) akitől a közlekedési baleset vagy az egyéb közlekedési esemény tárgyi
 
 e) a vizsgálat által érintett szerv (gazdálkodó szervezet) vezető tisztségviselőjének vagy tulajdonosának közeli hozzátartozója.
 
-(2) A közlekedésbiztonsági szerv vizsgálóbizottsága vezetőjének és kormánytisztviselő tagjainak a következő végzettséggel és képesítéssel kell rendelkezniük:
+(2) A közlekedésbiztonsági szerv vizsgálóbizottsága vezetőjének és foglalkoztatott tagjainak a következő végzettséggel és képesítéssel kell rendelkezniük:
 
 a) szakirányú felsőfokú iskolai végzettség és az érintett szakterületen legalább öt év szakmai gyakorlat, valamint
 
