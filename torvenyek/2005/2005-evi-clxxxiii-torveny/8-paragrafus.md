@@ -2,7 +2,7 @@
 
 a) az üzleti jó hírnévvel,
 
-b) országos működési engedély esetén – a (3) bekezdésben meghatározottak figyelembevételével – a pénzügyi teljesítőképességgel,
+b) országos működési engedély, valamint a vasúti személyszállítási tevékenység vasút-villamossal országos vasúti pályahálózat igénybevételével történő végzése esetén – a (3) bekezdésben meghatározottak figyelembevételével – a pénzügyi teljesítőképességgel,
 
 c) a szakmai alkalmassággal,
 

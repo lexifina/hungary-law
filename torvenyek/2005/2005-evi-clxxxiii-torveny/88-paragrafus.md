@@ -66,7 +66,7 @@ rendeletben állapítsa meg.
 
 12. a vasúti pályák nyilvántartásának vezetésére vonatkozó részletes szabályokra vonatkozó anyagi jogi rendelkezéseket,
 
-13. a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésére és vizsgáztatására, a vasúti vizsgaközpont és képzőszervezetek működésére, a képzési engedélyre, továbbá a vasúti járművezetői gyakorlatra vonatkozó anyagi jogi szabályokat,
+13. a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésére és vizsgáztatására, a vasúti vizsgaközpont és képzőszervezetek működésére, a képzési engedélyre, továbbá a vasúti járművezetői gyakorlatra vonatkozó szabályokat,
 
 14. a vasúti járművek
 
@@ -119,6 +119,8 @@ rendeletben állapítsa meg.
 35. a különleges kötöttpályás közlekedési rendszer üzemeltetési szabályzatának tartalmi és a formai követelményeire, valamint vasúti közlekedési hatósági jóváhagyására vonatkozó szabályokat, valamint a különleges kötöttpályás közlekedési rendszer üzemeltetési engedélyezési szabályait,
 
 36. közutaknak és magánutaknak turisztikai hajtánypálya által történő keresztezésére vonatkozó szabályokat
+
+37. a 3/B. § (7) bekezdésében meghatározott szervezet kijelölését és a szervezet által ellátandó vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat
 
 rendeletben állapítsa meg.
 

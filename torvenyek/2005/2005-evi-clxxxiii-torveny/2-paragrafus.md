@@ -92,6 +92,8 @@ b) fizikai összeköttetésben van más vasúti pályahálózattal, azonban az �
 
 2.26. vasút-villamos pályahálózat: az országos vasúti pályahálózat, a helyi, a városi és az elővárosi vasúti pályahálózat azon részeinek összessége, amelyen a vasút-villamos közlekedik, vagy vasút-villamossal szolgáltatást kívánnak végezni.
 
+2.27. a köz- és a magánszféra partnersége: közfeladatot ellátó szervek és a pályahálózat-működtetőjétől eltérő egy vagy több vállalkozás közötti, kötelező erejű megállapodás, amely alapján ezen vállalkozások részben vagy egészben kiépítik vagy finanszírozzák a vasúti infrastruktúrát, vagy megszerzik a pályahálózat-működtetői jogosultságokat egy előre meghatározott időtartamra.
+
 3. A vasúti pályahálózati kapacitás elosztásával és a díjképzéssel kapcsolatos fogalmak:
 
 3.1. díjbeszedés: a pályahálózat-működtető által biztosított teljesítésigazolási dokumentumok alapján a hálózat-hozzáférési díj, illetve annak összetevőiről szóló számlák, azzal egyenértékű bizonylatok – továbbá külső számviteli szolgáltató alkalmazása esetén a számlakiállítás alapjául szolgáló bizonylat – kiállítása a pályahálózat-működtető nevében, és a hálózat-hozzáférési díjnak a pályahálózat-működtetőnél történő befolyásának ellenőrzése;
@@ -108,13 +110,11 @@ b) fizikai összeköttetésben van más vasúti pályahálózattal, azonban az �
 
 a) a belföldön bejegyzett vasúti társaság,
 
-b) vasúti árutovábbítás céljából más EGT-tagállamban létrejött, a 2012/34/EU európai parlamenti és tanácsi irányelvvel összhangban kiállított működési engedéllyel rendelkező vállalkozó vasúti társaság,
+b) más EGT-tagállamban létrejött, a 2012/34/EU európai parlamenti és tanácsi irányelvvel összhangban kiállított működési engedéllyel rendelkező vállalkozó vasúti társaság,
 
-c) nemzetközi személyszállítás céljából más EGT-tagállamban létrejött, a 2012/34/EU európai parlamenti és tanácsi irányelvvel összhangban kiállított működési engedéllyel rendelkező vállalkozó vasúti társaság,
+c) külföldön létrejött vállalkozó vasúti társaság nemzetközi szerződés rendelkezése vagy viszonosság esetén,
 
-d) külföldön létrejött vállalkozó vasúti társaság nemzetközi szerződés rendelkezése vagy viszonosság esetén,
-
-e) vállalkozó vasúti társaságok nemzetközi csoportosulása;
+d) vállalkozó vasúti társaságok nemzetközi csoportosulása;
 
 3.7. kapacitásbővítési terv: a vasúti pályahálózat egy meghatározott szakaszának túlterhelt pályahálózattá való minősítéséhez vezető kapacitáshiány enyhítését célzó, meghatározott ütemterv szerint végrehajtandó intézkedés vagy intézkedések sorozata;
 
@@ -162,15 +162,21 @@ e) vállalkozó vasúti társaságok nemzetközi csoportosulása;
 
 4.11. vasúti pálya üzemeltetése: a vasúti pálya és tartozékai, valamint ezek működéséhez szükséges eszközök üzem- és forgalombiztos-állapotban tartása, folyamatos működésének biztosítása és műszaki felügyelete;
 
-4.12. vasúti pályahálózat működtetése:
+4.12. vasúti pályahálózat működtetése
 
-a) a vasúti pályahálózat üzemeltetése (beleértve a vagyonkezelési, vagyonműködtetési tevékenységeket is), létesítése, felújítása, fejlesztése, amely utóbbi a hálózattervezést, pénzügyi és beruházástervezést, valamint az infrastruktúra építését és korszerűsítését foglalja magában,
+a) a vasúti pályahálózat fejlesztése: hálózattervezés, pénzügyi és beruházástervezés, valamint a vasúti pályahálózat építése és korszerűsítése;
 
-b) a vasúti pályahálózat karbantartása, amely a vasúti pályahálózat rendeltetésszerű használatának biztosítását és az ahhoz szükséges tevékenységeket jelenti,
+b) a vasúti pályahálózat üzemeltetése: a menetvonalak elosztása, forgalomirányítás és a hálózat-hozzáférési díjak meghatározása és beszedése;
 
-c) a vasúti pályahálózat megszüntetése, valamint az ezekhez közvetlenül kapcsolódó tevékenységek, továbbá
+c) a vasúti pályahálózat karbantartása: a meglévő vasúti pályahálózat állagának és kapacitásának megőrzését célzó munkák;
 
-d) a forgalomirányítás, az ellenőrző-irányító, biztosító- és a jelzőrendszer működtetése, továbbá vasúti pályahálózat használatával összefüggő – a 2. mellékletben meghatározott – szolgáltatások nyújtása;
+d) a vasúti pályahálózat felújítása: a meglévő vasúti pályahálózaton belüli cserékre irányuló nagyobb munkák, amelyek nem változtatják meg annak összteljesítményét;
+
+e) a vasúti pályahálózat korszerűsítése: a vasúti pályahálózaton belüli módosításokra irányuló nagyobb munkák, amelyek javítják annak összteljesítményét;
+
+f) a vasúti pályahálózat megszüntetése, valamint az ezekhez közvetlenül kapcsolódó tevékenységek, továbbá
+
+g) az ellenőrző-irányító, biztosító- és a jelzőrendszer működtetése, továbbá vasúti pályahálózat használatával összefüggő – a 2. mellékletben meghatározott – szolgáltatások nyújtása;
 
 4.13. vasúti személyközlekedtetés: természetes személyek vasúti járművel, nem fő tevékenységként, saját célból, ellenszolgáltatás nélkül végzett szállítása;
 
@@ -188,17 +194,25 @@ d) a forgalomirányítás, az ellenőrző-irányító, biztosító- és a jelző
 
 5.1. döntéshozatali, jogi és szervezeti szempontból független pályahálózat-működtető: az az országos jelentőségű vasútvonalat működtető pályahálózat-működtető, amely megfelel a pályahálózat-működtető függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételekről szóló rendeletben meghatározott feltételeknek;
 
-5.2. integrált vasúti társaság: olyan vállalkozó vasúti társaság, amely belföldön vasúti pályahálózat-működtetést is végez;
+5.2. vertikálisan integrált vállalkozás: olyan vállalkozás, amelynek esetében:
+
+a) a pályahálózat-működtető egy olyan vállalkozás irányítása alatt áll, amely egyben a pályahálózat-működtető hálózatán vasúti szolgáltatásokat nyújtó egy vagy több vállalkozó vasúti társaságot is irányít;
+
+b) a pályahálózat-működtető egy vagy több olyan vállalkozó vasúti társaság irányítása alatt áll, amely a pályahálózat-működtető hálózatán vasúti szolgáltatásokat nyújt;
+
+c) a pályahálózat-működtető hálózatán vasúti szolgáltatásokat nyújtó egy vagy több vállalkozó vasúti társaság a pályahálózat-működtető irányítása alatt áll; vagy
+
+d) a vállalkozás különálló részlegekből áll, magában foglal egy pályahálózat-működtetőt és egy vagy több, saját jogi személyiséggel nem rendelkező részleget, amelyek vasúti szállítási szolgáltatásokat nyújtanak.
 
 5.3.
 
-5.4. kiszolgáló létesítmény üzemeltetője: olyan természetes személy vagy gazdasági társaság, aki vagy amely egy vagy több kiszolgáló létesítmény üzemeltetéséért felel, vagy vállalkozó vasúti társaságok számára egy vagy több, a 2. melléklet 2–4. pontja szerinti szolgáltatást nyújt;
+5.4. kiszolgáló létesítmény üzemeltetője: olyan természetes személy vagy gazdálkodó szervezet, aki vagy amely egy vagy több kiszolgáló létesítmény üzemeltetéséért felel, vagy vállalkozó vasúti társaságok számára egy vagy több, a 2. melléklet 2–4. pontja szerinti szolgáltatást nyújt;
 
 5.5.
 
 5.6. nem független pályahálózat-működtető: az a pályahálózat-működtető, amely a pályahálózat-működtető függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételekről szóló rendeletben meghatározott feltételeknek nem felel meg;
 
-5.7. pályahálózat-működtető: azon gazdálkodó szervezet, amely vasúti pályahálózat működtetését végzi, ideértve – a tulajdonosi jogok gyakorlójaként, vagyonkezelőként vagy vagyonműködtetőként – a vasúti pálya és annak tartozékai vagyonkezelését, vagyonműködtetését is;
+5.7. pályahálózat-működtető: olyan szervezet vagy társaság, amely egy hálózat vasúti infrastruktúrájának működtetését, karbantartását és felújítását biztosítja, valamint részt vesz annak fejlesztésében.
 
 5.8. vasúti társaság: a pályahálózat-működtető, a vállalkozó vasúti társaság, valamint a vasúti tevékenységet bejelentés alapján végző gazdálkodó szervezet;
 

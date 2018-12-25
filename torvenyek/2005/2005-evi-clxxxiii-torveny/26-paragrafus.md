@@ -4,7 +4,7 @@
 
 a) pályahálózat-működtető,
 
-b) az integrált vasúti társaság,
+b) a vertikálisan integrált vállalkozás,
 
 c) központi költségvetési szerv vagy
 

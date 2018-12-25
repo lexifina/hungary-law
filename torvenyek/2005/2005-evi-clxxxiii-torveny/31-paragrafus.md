@@ -10,7 +10,7 @@ b) a vasúti pályahálózat működtetője – a veszélyhelyzet megszűnéséi
 
 c) a vasút területét igénybe vevő, illetve a vasút területén tartózkodó személyeknek az ott érvényben lévő biztonsági rendelkezéseket és szabályokat meg kell tartaniuk.
 
-(3) A vasúti pályahálózat működtetője köteles haladéktalanul intézkedni a veszélyhelyzet megszüntetése, valamint üzemzavar vagy baleset esetén a megfelelő működés mielőbbi helyreállítása érdekében. A vasúti pályahálózat működtetője ennek érdekében jogosult a vasúti pályahálózatot használó vasúti társaság eszközeit igénybe venni.
+(3) A pályahálózat-működtető a vasúti közlekedés műszaki hiba vagy baleset miatti zavara esetén köteles minden szükséges intézkedést megtenni a zavar előtti állapot visszaállítása érdekében. E célból vészhelyzeti tervet kell kidolgoznia, amelyben felsorolja a zavar esetén értesítendő szerveket. A határokon átnyúló közlekedést potenciálisan befolyásoló zavar esetén a pályahálózat-működtetőnek minden lényeges információt meg kell osztania azokkal a pályahálózat-működtetőkkel, amelyek hálózatát és közlekedését az adott zavar érintheti. Az érintett pályahálózat-működtetőknek együtt kell működniük a határokon átnyúló forgalom helyreállítása céljából.
 
 (4) A vasutat keresztező vagy megközelítő út, vezeték, légijármű leszálló-pálya, illetve egyéb építmény (pl. közvilágítás, reklám, közúti jelzőlámpák) létesítéséhez, átalakításához vagy megszüntetéséhez, a terep szintjét megváltoztató földmunka és fásítás, illetve bányászati tevékenység végzéséhez – jogszabály eltérő rendelkezésének hiányában – a vasúti pályahálózat működtetőjének hozzájárulása is szükséges.
 

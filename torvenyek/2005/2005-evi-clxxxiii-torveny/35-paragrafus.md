@@ -20,13 +20,13 @@ b) a vasúti közlekedés biztonságával kapcsolatos munkakörökben foglalkozt
 
 (5a) Az éves felügyeleti díj mértéke:
 
-a) pályahálózat-működtető, valamint integrált vasúti társaság vasúti pályahálózatot működtető szervezeti egysége esetén
+a) pályahálózat-működtető, valamint vertikálisan integrált vállalkozás vasúti pályahálózatot működtető szervezeti egysége esetén
 
 aa) 200 km üzemeltetett vasúti hálózatig: 1 016 000 forint,
 
 ab) 200 km feletti üzemeltetett vasúti hálózatnál: 1 845 000 forint,
 
-b) vállalkozó vasúti társaság, valamint integrált vasúti társaság vállalkozó vasúti tevékenységet végző szervezeti egysége esetén, a vállalkozó vasúti tevékenységenként külön-külön
+b) vállalkozó vasúti társaság, valamint vertikálisan integrált vállalkozás vállalkozó vasúti tevékenységet végző szervezeti egysége esetén, a vállalkozó vasúti tevékenységenként külön-külön
 
 ba) 1–50 darab vasúti járművet üzembentartó vasúti társaság esetén 601 000 forint,
 

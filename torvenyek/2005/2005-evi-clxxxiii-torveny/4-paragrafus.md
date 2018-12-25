@@ -12,6 +12,6 @@ b) a közlekedési hatóság.
 
 (4) A 2004/49/EK irányelv szerinti vasútbiztonsági hatóság Magyarországon a közlekedési hatóság.
 
-(5) A vasúti közlekedés igazgatásának szervezete jogi, szervezeti és döntéshozatali szempontból a pályahálózat-működtetőktől, a Vasúti Pályakapacitás-elosztó Szervezettől (a továbbiakban: VPSZ), a kapacitásfoglalásra jogosultaktól, a vállalkozó vasúti társaságoktól továbbá a beszerző egységektől és szervezetektől függetlenül működik.
+(5) A vasúti közlekedés igazgatásának szervezete jogi, szervezeti és döntéshozatali szempontból a pályahálózat-működtetőktől, a VPSZ-től, a kapacitásfoglalásra jogosultaktól, a vállalkozó vasúti társaságoktól továbbá a beszerző egységektől és szervezetektől függetlenül működik.
 
 (6) Az (5) bekezdésben meghatározottakon túl a vasúti igazgatási szerv a vasúti személyszállítási közszolgáltatási szerződések odaítélésében részt vevő állami, önkormányzati szervektől függetlenül működik.

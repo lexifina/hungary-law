@@ -1,6 +1,6 @@
 ## Foglalási díj
 
-67/L. § (1) A hozzáférésre jogosult és a pályahálózat-működtető között a vasúti pályahálózat-kapacitás biztosítására vonatkozó szerződésben – integrált vasúti társaság esetében az általa működtetett vasúti pályahálózatra vonatkozóan a belső megállapodás alapján – a pályahálózat-működtető foglalásidíj-fizetési kötelezettséget állapíthat meg, amelynek célja a kapacitás hatékony kihasználása.
+67/L. § (1) A hozzáférésre jogosult és a pályahálózat-működtető között a vasúti pályahálózat-kapacitás biztosítására vonatkozó szerződésben – vertikálisan integrált vállalkozás esetében az általa működtetett vasúti pályahálózatra vonatkozóan a belső megállapodás alapján – a pályahálózat-működtető foglalásidíj-fizetési kötelezettséget állapíthat meg, amelynek célja a kapacitás hatékony kihasználása.
 
 (2) A foglalási díjat a pályahálózat-működtető köteles kiszabni azon hozzáférésre jogosultak esetében, amelyek rendszeresen nem használják ki a nekik odaítélt menetvonalakat vagy azok egy részét.
 

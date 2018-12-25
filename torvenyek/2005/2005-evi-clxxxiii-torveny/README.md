@@ -42,3 +42,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-183-00-00
 | 2018-01-02 | 2017. évi LXIII. törvény | 2005-183-00-00.51 |
 | 2018-05-18 | 2018. évi V. törvény | 2005-183-00-00.52 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2005-183-00-00.53 |
+| 2018-12-25 | 2018. évi XCVIII. törvény | 2005-183-00-00.54 |

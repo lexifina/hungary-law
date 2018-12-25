@@ -5,3 +5,5 @@
 (2) A 36–36/A. § rendelkezéseit a különleges kötöttpályás közlekedési rendszerek esetében azzal az eltéréssel kell alkalmazni, hogy az ott szabályozottaktól eltérően az alapvizsgáztatást és az időszakos vizsgáztatást a képzési rendeletben meghatározott esetekben a különleges kötöttpályás közlekedési rendszer üzemvezetője végzi. Tevékenységét a közlekedési hatóság ellenőrzi.
 
 (3) A 36/B. §-ban foglaltakat a különleges kötöttpályás közlekedési rendszerek esetében azzal az eltéréssel kell alkalmazni, hogy a §-tól eltérően az egészségi alkalmasság megállapítását a kormányrendeletben meghatározott esetekben foglalkozás-egészségügyi orvos végzi.
+
+(4) Az országos jelentőségű vasútvonalat magában foglaló keskeny nyomtávolságú vasút munkavállalójára, munkavégzésre irányuló egyén jogviszonyban foglalkoztatottjára és önkéntes munkavégzőjére a képzési és egészségügyi alkalmassági követelmények tekintetében a különleges kötöttpályás közlekedésre vonatkozó rendelkezéseket kell alkalmazni.

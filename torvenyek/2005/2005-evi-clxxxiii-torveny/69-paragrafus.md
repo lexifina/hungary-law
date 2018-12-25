@@ -40,9 +40,9 @@
 
 17. a 64. § (5) bekezdése szerint a díj további felszámításának jóváhagyása,
 
-18. az érintett szervezetek vagy a nemzetközi személyszállítási szolgáltatást nyújtani szándékozó vállalkozó vasúti társaság kérelmére indult eljárásban annak megállapítása, hogy a nyújtani tervezett szolgáltatás fő célja a különböző EGT-tagállamokban található állomások közötti személyszállítás-e,
+18.
 
-19. a vasúti személyszállítási közszolgáltatási szerződés gazdasági egyensúlya veszélyeztetésének vizsgálata nemzetközi vasúti személyszállítási szolgáltatás bevezetésére tekintettel,
+19. a vasúti személyszállítási közszolgáltatási szerződés gazdasági egyensúlya veszélyeztetésének vizsgálata,
 
 20. a vasúti személyszállítási közszolgáltatási szerződésben rögzített kötelezettségek ellentételezésének biztosítása érdekében a személyszállítási törvényben meghatározott pénzügyi ellentételezési kötelezettség megállapítása,
 
@@ -50,7 +50,7 @@
 
 22. a vasúti pályahálózat-kapacitás elosztási folyamatának, és a vasúti pályahálózathoz való nyílt hozzáférésre jogosult, valamint a pályahálózat-működtető között a Hálózati Üzletszabályzatban foglaltak szerinti kedvezmények biztosítására vonatkozó tárgyalások felügyelete,
 
-23. integrált vasúti társaság 67/T. § (1) bekezdése szerinti belső megállapodásának jóváhagyása, az abban foglaltak ellenőrzése, valamint annak megsértése esetén mérlegelési jogkörben bírság alkalmazása,
+23. vertikálisan integrált vállalkozás 67/T. § (1) bekezdése szerinti belső megállapodásának jóváhagyása, az abban foglaltak ellenőrzése, valamint annak megsértése esetén mérlegelési jogkörben bírság alkalmazása,
 
 24. a térségi és az elővárosi pályahálózat kijelölése, valamint – ha e törvény eltérően nem rendelkezik – a pályahálózat-működtető, a hozzáférésre jogosult vagy a VPSZ kérelme alapján döntés nyílt hozzáférés alól mentessé történő minősítéséről,
 

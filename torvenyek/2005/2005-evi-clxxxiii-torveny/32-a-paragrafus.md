@@ -8,7 +8,7 @@
 
 (4) Amennyiben a biztonsági szervezet a biztonságirányítási rendszer részét képezi,
 
-a) azt pályahálózat működtető vasúti társaság és integrált vasút társaság esetében a vasútbiztonsági engedélyben,
+a) azt pályahálózat működtető vasúti társaság és vertikálisan integrált vállalkozás esetében a vasútbiztonsági engedélyben,
 
 b) egyéb esetben a vasútbiztonsági tanúsítványban
 

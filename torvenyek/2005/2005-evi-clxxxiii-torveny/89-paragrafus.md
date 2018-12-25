@@ -12,7 +12,9 @@ d) a vasúti rendszer Közösségen belüli kölcsönös átjárhatóságáról 
 
 e) a közösségi vasutak biztonságáról szóló 2004/49/EK irányelv (vasúti biztonsági irányelv) módosításáról szóló, 2008. december 16-i 2008/110/EK európai parlamenti és tanácsi irányelv 1. cikk 1. és 2. pontja, 5. pont b) pontja, valamint 7. és 9. pontja;
 
-f) a 88. § (2) bekezdés 1–6. és 14. pontjában adott felhatalmazás alapján kiadott rendeletekkel együtt; az egységes európai vasúti térség létrehozásáról szóló, 2012. november 21-i 2012/34/EU európai parlamenti és tanácsi irányelv.
+f) a 88. § (2) bekezdés 1–6. és 14. pontjában adott felhatalmazás alapján kiadott rendeletekkel együtt; az egységes európai vasúti térség létrehozásáról szóló, 2012. november 21-i 2012/34/EU európai parlamenti és tanácsi irányelv;
+
+g) a 2012/34/EU európai parlamenti és tanácsi irányelvnek a belföldi vasúti személyszállítási szolgáltatások piacának megnyitása és a vasúti infrastruktúra irányítása tekintetében történő módosításáról szóló, 2016. december 14-i 2016/2370/EU európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 

@@ -10,11 +10,11 @@ a) pályahálózat-működtető,
 
 b) vállalkozó vasúti társaság,
 
-c) olyan gazdasági társaság, amely nem minősül sem pályahálózat-működtetőnek, sem vállalkozó vasúti társaságnak,
+c) olyan gazdálkodó szervezet, amely nem minősül sem pályahálózat-működtetőnek, sem vállalkozó vasúti társaságnak,
 
-d) természetes személy vagy
+d) természetes személy
 
-e) egyéni vállalkozó.
+e)
 
 (2) Azon kiszolgáló létesítményeken, amelyeken a pályahálózat-működtető alapszolgáltatást nyújt (minimális szolgáltatási csomag), a járulékos szolgáltatásokat, mint a kiszolgáló létesítményekhez való hozzáférés biztosítását és a kiszolgáló létesítményekkel nyújtott szolgáltatásokat a pályahálózat-működtető jogosult és köteles nyújtani, a kiegészítő szolgáltatásokat és a mellékszolgáltatásokat a pályahálózat-működtető nyújthatja.
 
