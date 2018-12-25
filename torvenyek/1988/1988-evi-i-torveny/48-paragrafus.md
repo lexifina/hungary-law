@@ -198,7 +198,7 @@ c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatá
 
 d) a közlekedésrendészetért felelős miniszter, hogy a közlekedésrendészeti intézkedések végrehajtásának módját;
 
-e) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a közlekedési hatóság eljárási, felügyeleti és egyéb díjait, a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatásának díjait, valamint a díjaknak az eljáró hatóság és a vizsgaközpont, továbbá az irányítási, a felügyeleti és az ellenőrzési feladatot ellátó szervezetek közötti megosztása szabályait,
+e) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a közlekedési hatóság eljárási, felügyeleti és egyéb díjait, a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatásának díjait, a pályaalkalmassági eljárás díját, valamint a díjaknak az eljáró hatóság és a vizsgaközpont, továbbá az irányítási, a felügyeleti és az ellenőrzési feladatot ellátó szervezetek közötti megosztása szabályait,
 
 f) a miniszter, hogy a 18. § (7) bekezdésében, a 20. § (1) bekezdésében és a 29/A. § (1) bekezdésében meghatározott bírság kivetésének szabályait és a bírság felhasználásának rendjét az államháztartásért felelős miniszterrel egyetértésben,
 

@@ -8,4 +8,4 @@ b) Budapest Főváros Önkormányzata esetében az a) pontban foglaltaktól elt�
 
 kell érteni.
 
-(2) A fővárosi közgyűlés az (1) bekezdésben foglalt feladatait az önkormányzat többségi tulajdonában álló gazdasági társaság útján is elláthatja.
+(2) A helyi önkormányzat képviselőtestülete – Budapest Főváros Önkormányzata esetében a Fővárosi Közgyűlés – az (1) bekezdésben foglalt feladatait a 33. § (1) bekezdés a) pontja, valamint a 33. § (1) bekezdés b) pont bb) és bc) alpontja szerinti gazdálkodó szervezet útján is elláthatja.

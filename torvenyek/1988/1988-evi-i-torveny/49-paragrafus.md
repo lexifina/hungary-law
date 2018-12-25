@@ -14,7 +14,11 @@ e) a közúti közlekedésben használt menetíró készülékekről, a közúti
 
 f) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet;
 
-g) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 49. alpontja alapján kiadott jogszabállyal együtt – a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendelet 12. cikk (1) bekezdése.
+g) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 49. alpontja alapján kiadott jogszabállyal együtt – a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendelet 12. cikk (1) bekezdése;
+
+h) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 4., 28. és 32. alpontja alapján kiadott jogszabállyal együtt – a 2010/40/EU európai parlamenti és tanácsi irányelvnek a közúti biztonsággal kapcsolatos, minimális általános forgalmi információk lehetőség szerinti, a felhasználók számára térítésmentes biztosításához szükséges adatok és eljárások tekintetében való kiegészítéséről szóló 2013. május 15-i 886/2013/EU bizottsági rendelet,
+
+i) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 4., 28. és 32. alpontja alapján kiadott jogszabállyal együtt a 2010/40/EU európai parlamenti és tanácsi irányelvnek az EU egészére kiterjedő valós idejű forgalmi információs szolgáltatások nyújtása tekintetében történő kiegészítéséről szóló 2014. december 18-i 2015/962/EU bizottsági rendelet
 
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

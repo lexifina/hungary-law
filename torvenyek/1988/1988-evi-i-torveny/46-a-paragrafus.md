@@ -10,6 +10,6 @@ d) a közlekedési hatóság tevékenységével összefüggésben – jogszabál
 
 személyes és egészségi állapotra, kóros szenvedélyre vonatkozó különleges adatait kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képesítéseket – ezek hitelességének utólagos igazolása céljából – nyilvántartani.
 
-(2) Az (1) bekezdés a) pontjával összefüggésben az adatok kezelésére és nyilvántartására a vizsgaközpont is jogosult.
+(2) Az (1) bekezdés a) és b) pontjában foglalt adatok kezelésére és nyilvántartására a vizsgaközpont is jogosult.
 
 (3) A közlekedési hatóság jogosult a 22/B. § (1) bekezdésében és a 44/A. § (1) bekezdésében meghatározott rendelkezések alapján személyes adatok nyilvántartására és kezelésére.

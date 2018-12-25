@@ -1,4 +1,4 @@
-46/D. § (1) A jogszerű vizsgáztatás, vizsgálat és ellenőrzés, illetve a visszaélések kiszűrése és a megfelelő felelősségre vonás kezdeményezése érdekében a közlekedési hatóság jogosult
+46/D. § (1) A jogszerű vizsgáztatás, vizsgálat és ellenőrzés, illetve a visszaélések kiszűrése és a megfelelő felelősségre vonás kezdeményezése érdekében a közlekedési hatóság, vizsgaközpont jogosult
 
 a) a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatása,
 

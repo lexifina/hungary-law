@@ -2,9 +2,9 @@
 
 (2) A Fejlesztési Program 15 éves távlatban tartalmazza a beruházások útkategória besorolását és keresztmetszeti jellemzőit, a következő fejlesztési típusok figyelembevételével:
 
-a) új autópályák, autóutak és gyorsutak (a továbbiakban együttesen: gyorsforgalmi utak) vagy főutak, ezek ütemezetten épített szakaszai, valamint csomópontjaik és a közúthálózatba illeszkedéshez szükséges mellékúti kapcsolatok építése,
+a) új autópályák és autóutak (a továbbiakban együttesen: gyorsforgalmi utak) vagy főutak, ezek ütemezetten épített szakaszai, valamint csomópontjaik és a közúthálózatba illeszkedéshez szükséges mellékúti kapcsolatok építése,
 
-b) meglévő mellékút főúttá, főút gyorsforgalmi úttá, gyorsút autóúttá vagy autópályává, autóút autópályává történő átépítése,
+b) meglévő mellékút főúttá, főút gyorsforgalmi úttá, autóút autópályává történő átépítése,
 
 c) gyorsforgalmi út vagy főút szélesítése 4 vagy több forgalmi sávra legalább 5 km hosszban.
 
