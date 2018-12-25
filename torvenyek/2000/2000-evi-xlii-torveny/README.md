@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-42-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2000-42-00-00.43 |
 | 2018-05-18 | 2018. évi V. törvény | 2000-42-00-00.44 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2000-42-00-00.45 |
+| 2018-12-25 | 2018. évi XCVIII. törvény | 2000-42-00-00.46 |

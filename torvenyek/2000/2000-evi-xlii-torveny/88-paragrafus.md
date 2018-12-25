@@ -90,7 +90,9 @@ rendeletben történő megállapítására.
 
 24. a víziút más nyomvonalas létesítmény által történő megközelítése, keresztezése részletes szabályainak az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszterrel egyetértésben kiadott,
 
-25. az úszólétesítményeken történő elsősegélynyújtás, valamint az egyes úszólétesítményeken az orvosi szolgálat rendszeresítése szabályainak és az ezekhez szükséges személyi és tárgyi feltételek biztosításának az egészségügyért felelős miniszterrel egyetértésben kiadott
+25. az úszólétesítményeken történő elsősegélynyújtás, valamint az egyes úszólétesítményeken az orvosi szolgálat rendszeresítése szabályainak és az ezekhez szükséges személyi és tárgyi feltételek biztosításának az egészségügyért felelős miniszterrel egyetértésben kiadott,
+
+26. a 2. § (4) bekezdésében meghatározott szervezet és a szervezet által ellátandó, vízi közlekedéssel összefüggő kutatási, fejlesztési és koordinációs feladatok
 
 rendeletben történő megállapítására.
 
