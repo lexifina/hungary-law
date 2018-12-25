@@ -1,6 +1,6 @@
-## 48/C. §[^533] A tuberkulózis esetfinanszírozási programban (a továbbiakban: TEF program) a Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház (a továbbiakban: ellátásszervező koordinátor) vesz részt. Az ellátásszervező koordinátor a kezeléssorozat szakmai vezetője.
+## 48/C. §[^534] A tuberkulózis esetfinanszírozási programban (a továbbiakban: TEF program) a Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház (a továbbiakban: ellátásszervező koordinátor) vesz részt. Az ellátásszervező koordinátor a kezeléssorozat szakmai vezetője.
 
-48/D. §[^534] (1) A TEF program szerinti kezeléssorozatban betegek bevonása a TBC Surveillance Központ engedélye alapján történhet. A TEF programba a multidrog rezisztens és a látens tuberkulózisban szenvedő betegek nem vonhatóak be.
+48/D. §[^535] (1) A TEF program szerinti kezeléssorozatban betegek bevonása a TBC Surveillance Központ engedélye alapján történhet. A TEF programba a multidrog rezisztens és a látens tuberkulózisban szenvedő betegek nem vonhatóak be.
 
 (2) A TBC Surveillance Központ minden hónap 5. munkanapjáig megküldi a finanszírozó részére a TEF program szerinti kezeléssorozatba bevont betegek TAJ azonosítóját.
 
@@ -12,5 +12,5 @@
 
 (6) A kezeléssorozat időtartama legalább 6, legfeljebb 12 hónap lehet. A kezeléssorozatba 2018. december 31-ét követően beteget bevonni nem lehet.
 
-[^533]: A 48/C. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
-[^534]: A 48/D. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^534]: A 48/C. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^535]: A 48/D. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.

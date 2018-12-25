@@ -18,7 +18,10 @@ b)[^331] az egészségügyi ellátórendszer fejlesztéséről szóló törvény
 
 (4)[^332] Az egészségügyi szolgáltató akkor is jogosult az R. 16. számú melléklete szerinti díjazásra, ha a (3) bekezdés a) pontja szerinti telephelyen működő osztály kapacitását olyan telephelyre csoportosítja át, amely az R. 16. számú melléklete szerinti díjazásban nem részesült.
 
+(5)[^333] Az (1) bekezdés szerinti egészségügyi szolgáltató a 4602 szakmakódú szervezeti egységek által végzett ellátásokról a 13. számú melléklet szerinti adattartalmú adatlapot köteles a havi teljesítményjelentéssel egyidejűleg megküldeni a finanszírozó számára. Az adatlap nélkül a szervezeti egységen nyújtott ellátás nem finanszírozható. Az adatlap formanyomtatványát és annak kitöltési útmutatóját a NEAK a honlapján közzéteszi.
+
 [^329]: A 28/A. §-t a 318/2006. (XII. 23.) Korm. rendelet 12. §-a iktatta be, szövege az 58/2009. (III. 18.) Korm. rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 18. § (3)–(5) bekezdését.
 [^330]: A 28/A. § (3) bekezdését a 125/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.
 [^331]: A 28/A. § (3) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 26. § j) pontja szerint módosított szöveg.
 [^332]: A 28/A. § (4) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^333]: A 28/A. § (5) bekezdését a 236/2018. (XII. 10.) Korm. rendelet 1. §-a iktatta be.
