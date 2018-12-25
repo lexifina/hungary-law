@@ -1,4 +1,4 @@
-4. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelethez[^82]
+4. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelethez[^80]
 
 A LÉGTÉRSZERKEZET MÓDOSÍTÁSÁRA IRÁNYULÓ JAVASLAT KÖTELEZŐ TARTALMI ELEMEI
 
@@ -46,11 +46,11 @@ A LÉGTÉRSZERKEZET MÓDOSÍTÁSÁRA IRÁNYULÓ JAVASLAT KÖTELEZŐ TARTALMI ELE
 
 3.5. a biztonsági felmérés elkészítését vezető személy alkalmasságának igazolása,
 
-3.6.[^83] a 3.5. pontban említett személy nyilatkozata arra vonatkozóan, hogy a biztonsági felmérés megfelel a vonatkozó szabályozásnak [EUROCONTROL Safety Regulatory Requirement (ESARR) előírásai, különös tekintettel az ESARR 2, ESARR 4 és a hozzájuk kapcsolódó útmutató anyagokra, ICAO ANNEX 11 és Doc 9426, valamint e rendelet előírásai],
+3.6.[^81] a 3.5. pontban említett személy nyilatkozata arra vonatkozóan, hogy a biztonsági felmérés megfelel a vonatkozó szabályozásnak [EUROCONTROL Safety Regulatory Requirement (ESARR) előírásai, különös tekintettel az ESARR 2, ESARR 4 és a hozzájuk kapcsolódó útmutató anyagokra, ICAO ANNEX 11 és Doc 9426, valamint e rendelet előírásai],
 
 3.7. repülőtér létesítése vagy fejlesztése esetén a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet szerinti létesítési vagy fejlesztési engedély.
 
-4.[^84] Az ESARR előírásoknak megfelelő repülésbiztonsági felmérés elkészítésének elsajátítására alkalmas képzettségek a következők:
+4.[^82] Az ESARR előírásoknak megfelelő repülésbiztonsági felmérés elkészítésének elsajátítására alkalmas képzettségek a következők:
 
 4.1. Az EUROCONTROL – Institute of Air Navigation Services (Léginavigációs Szolgálatok Képzőintézete) képzése a következő képzési modulokkal:
 
@@ -64,6 +64,6 @@ Safety Assessment for Practitioners (SAF-SA2).
 
 4.2. Az EUROCONTROL által elfogadott, a 4.1. pontban meghatározott képzési modulokkal azonos szintű egyéb repülésbiztonsági felmérés elkészítésének elsajátítására alkalmas képzés.
 
-[^82]: A 4. mellékletet az 56/2011. (XI. 8.) NFM rendelet 7. §-a iktatta be.
-[^83]: A 4. melléklet 3. pont 3.6. alpontja a 25/2017. (VI. 30.) NFM rendelet 15. § e) pontja szerint módosított szöveg.
-[^84]: A 4. melléklet 4. pontja a 9/2018. (III. 29.) NFM rendelet 4. §-ával megállapított szöveg.
+[^80]: A 4. mellékletet az 56/2011. (XI. 8.) NFM rendelet 7. §-a iktatta be.
+[^81]: A 4. melléklet 3. pont 3.6. alpontja a 25/2017. (VI. 30.) NFM rendelet 15. § e) pontja szerint módosított szöveg.
+[^82]: A 4. melléklet 4. pontja a 9/2018. (III. 29.) NFM rendelet 4. §-ával megállapított szöveg.

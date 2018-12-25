@@ -36,7 +36,7 @@
 
 2. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^80]
+együttes rendelethez[^78]
 
 ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
 
@@ -488,7 +488,7 @@ II. ATS ÁTRUHÁZÁS
 
 3.1. Előzetes koordinációs légterek
 
-## 7K32986_1
+## 8K35050M_1
 
 |  | A | B | C | D |
 
@@ -624,7 +624,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 1. TIZ légterek
 
-## 7K32986_2
+## 8K35050M_2
 
 |  | A | B | C |
 
@@ -1168,6 +1168,8 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 19. | LHSDZLHGR/Gyúró 4 km sugarú kör 472339N 0184518E középpont körül | 6500’ (2000 m) AMSL/GND |  |
 
+| 20. | LHSDZLHOY/Őcsény 2NM sugarú kör a 461843N 184549E középpont körül | FL145 (4400m STD)/GND |  |
+
 IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 1. Időszakosan korlátozott légterek
@@ -1682,4 +1684,4 @@ IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 |  | 2. További szabályok: 2.1. A polgári légiforgalom a jelzett magasságtartományon kívüli első iránymagasságot használhatja. 2.2. Az időszakosan korlátozott légterek (TRA-k) munkanapokon legkorábban napkelte előtt 30 perccel, legkésőbb pedig helyi idő szerint 24.00 óráig, a munkaszüneti napot, illetve ünnepnapot megelőző munkanapokon legkésőbb helyi idő szerint 17.00 óráig vehetőek igénybe. 2.3. Az LHTRA 13, 14A, 14B, 14C és 15A, 15B, 15C kivételével valamennyi időszakosan korlátozott légtérben a Magyar Honvédség vagy más szövetséges fegyveres erő kijelölt katonai szervezete légvédelmi irányító szolgálatot biztosít. Az LHTRA 13, 14A, 14B, 14C és 15A, 15B, 15C légterek a szolnoki katonai légiforgalmi irányító szolgálat illetékességi körzetei. |
 
-[^80]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított szöveg.
+[^78]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a szerint módosított szöveg.

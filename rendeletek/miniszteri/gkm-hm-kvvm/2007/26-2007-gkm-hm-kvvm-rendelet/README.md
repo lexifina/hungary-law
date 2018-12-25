@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-26-20-0
 | 2018-01-01 | 2007-26-20-0L.23 | 55/2017. (XII. 27.) NFM rendelet |
 | 2018-04-13 | 2007-26-20-0L.24 | 9/2018. (III. 29.) NFM rendelet |
 | 2018-10-20 | 2007-26-20-0L.25 | 24/2018. (X. 19.) ITM rendelet |
+| 2018-12-25 | 2007-26-20-0L.26 | 33/2018. (XII. 17.) ITM rendelet |
