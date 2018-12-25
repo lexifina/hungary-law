@@ -12,7 +12,7 @@ b) az egyéb kötöttpályás közlekedési rendszerekkel kapcsolatos építés�
 
 c) az egyéb kötöttpályás vizsgaközpont kijelölését,
 
-d) a vasúti igazgatási szerv által kiszabható bírság és közlekedési hatóság által kiszabható bírság megfizetésére vonatkozó szabályokat,
+d) a vasúti igazgatási szerv által kiszabható bírság megállapításának szempontjaira és megfizetésére, továbbá a közlekedési hatóság által kiszabható bírság megfizetésére vonatkozó szabályokat,
 
 e) az e törvény szerinti szakértői tevékenység folytatásának a részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 
