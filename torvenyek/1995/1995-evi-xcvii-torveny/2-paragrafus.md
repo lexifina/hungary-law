@@ -51,3 +51,5 @@ g) a j) pontjában említett feladatot a miniszter, a környezetvédelemért fel
 h) a k) pontjában említett feladatot a honvédelemért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter és az egészségügyért felelős miniszterrel együttesen
 
 látja el.
+
+(3) A miniszter látja el – az általa kijelölt szervezet útján – a légiközlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat. A kijelölt szervezet számára – a külön jogszabályban meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.

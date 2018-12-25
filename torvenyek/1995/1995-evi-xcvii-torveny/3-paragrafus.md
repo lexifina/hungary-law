@@ -1,6 +1,6 @@
 ## Hatósági jogkör
 
-3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EGK tanácsi irányelv, az 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendeletben és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
+3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a 2018/1139/EU európai parlamenti és tanácsi rendeletben és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
 
 (1a) Az e §-ban meghatározott eljárások tekintetében sommás eljárásnak nincs helye.
 
@@ -42,7 +42,13 @@ k) a légiközlekedés védelmében közreműködő szervezetek védelmi program
 
 l) a légiközlekedés-védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének, működtetésének jóváhagyása,
 
-m) repülésbiztonsági szervezet engedélyezése.
+m) repülésbiztonsági szervezet engedélyezése,
+
+n) az állami célú légiközlekedéssel összefüggő repülésbiztonsági szervezet engedélyezése,
+
+o) az állami légijárművekkel előforduló légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
+
+p) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése.
 
 (2c) Az ügyintézési határidő 90 nap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
 
@@ -52,11 +58,21 @@ a) a harmadik fél részére történő földi kiszolgálást végzők, valamint
 
 b) a repülőtér zajgátló védőövezetének kijelölésére irányuló,
 
-c) a légiközlekedési szakszemélyzet szakirányú képzéséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló,
+c) a légiközlekedési szakszemélyzet szakirányú képzéséhez, vizsgáztatásához és értékeléséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló,
 
 d) repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló,
 
-e) a léginavigációs szolgálatok tanúsítására irányuló hatósági eljárásokban.
+e) a léginavigációs szolgálatok tanúsítására irányuló, valamint hatósági eljárásokban,
+
+f) a repülés-egészségügyi központok engedélyeinek kiadására és módosítására irányuló hatósági eljárásokban,
+
+g) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér esetében a harmadik fél részére történő földi kiszolgálást végzők, valamint a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló hatósági eljárásokban,
+
+h) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér zajgátló védőövezetének kijelölésére irányuló hatósági eljárásokban,
+
+i) az állami légiközlekedési szakszemélyzet szakirányú képzéséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló hatósági eljárásokban,
+
+j) állami légiközlekedési szakszemélyzet oktatására használt repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló hatósági eljárásokban.
 
 hatósági eljárásokban.
 
@@ -72,17 +88,23 @@ d) a repülőtérrend jóváhagyására irányuló,
 
 e) a légitársaság üzletszabályzatának és módosításának jóváhagyására irányuló, valamint
 
-f) légiközlekedés védelmi tiszt kijelölésének jóváhagyására irányuló hatósági eljárásokban.
+f) légiközlekedés védelmi tiszt kijelölésének jóváhagyására irányuló hatósági eljárásokban,
+
+g) az állami légijármű nyilvántartásba vételére irányuló hatósági eljárásokban,
+
+h) az állami légijármű típusalkalmassági vizsgálatára irányuló hatósági eljárásokban,
+
+i) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér repülőtérrendjének jóváhagyására irányuló hatósági eljárásokban.
 
 (2f) Az ügyintézési határidő 70 nap a katonai légügyi hatóság következő közigazgatási hatósági eljárásaiban:
 
 a) állami légi jármű és légijármű-berendezés karbantartó szervezetek jóváhagyása,
 
-b) az állami légijárművekkel előforduló légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
+b)
 
-c) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése, valamint
+c)
 
-d) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér zajgátló védőövezetének kijelölése.
+d)
 
 (2g) Az ügyintézési határidő 4 hónap a katonai légügyi hatóság légi kutató-mentő tevékenység engedélyezésére vonatkozó közigazgatási hatósági eljárásában.
 
@@ -92,7 +114,7 @@ d) az állami repülések céljára szolgáló repülőtér és a közös felhas
 
 (2j) A katonai légügyi hatóság eljárásaiban 21 napon belül kell az eljárási cselekményt teljesíteni és a végzést meghozni.
 
-(2k) A katonai légügyi hatóság eljárásai során a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(2k)
 
 (2l) A külföldi állami légi jármű magyar légtérbe való be- és átrepülésének engedélyezésére irányuló eljárásban sommás eljárásnak nincs helye.
 
@@ -102,7 +124,7 @@ d) az állami repülések céljára szolgáló repülőtér és a közös felhas
 
 (3) A légiközlekedési hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
-(3a) A légiközlekedési hatósági eljárással összefüggő igazgatási szolgáltatási díj fizetése alól mentesül a Magyar Honvédség.
+(3a) A légiközlekedési hatósági eljárással összefüggő igazgatási szolgáltatási díj fizetése alól mentesül a Magyar Honvédség és a honvédelemért felelős miniszter közvetlen irányítása alá tartozó, nem gazdasági társasági formában működő szervezet.
 
 (3b) A katonai légügyi hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 

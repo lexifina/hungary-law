@@ -30,7 +30,7 @@ n) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedé
 
 o) az Európai Parlament és a Tanács 1070/2009/EK rendelete (2009. október 21.) az 549/2004/EK, az 550/2004/EK, az 551/2004/EK és az 552/2004/EK rendeletnek az európai légiközlekedési rendszer teljesítményének és fenntarthatóságának javítását célzó módosításáról;
 
-p)
+p) a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2018. július 4-i 2018/1139/EU európai parlamenti és tanácsi rendelet és az 1178/2011/EU rendelet bejelentett képzési szervezetek tekintetében történő módosításáról szóló 2018/1119/EU bizottsági rendelet;
 
 q) a légiforgalmi adatok és légiforgalmi tájékoztatások minőségével kapcsolatos követelményeknek az egységes európai égbolt keretében történő meghatározásáról szóló, 2010. január 26-ai 73/2010/EU bizottsági rendelet,
 

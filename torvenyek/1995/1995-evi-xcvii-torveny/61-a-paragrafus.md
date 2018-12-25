@@ -56,6 +56,6 @@ p) a pilóta nélküli légijárművek használatát támogató, az aktuális l�
 
 (5) A Társaság a főtevékenysége ellátását elősegítő szolgáltató tevékenységeket is elláthat.
 
-(6) A (2) bekezdésben megjelölt társaság a (3) bekezdésben meghatározott tevékenységével összefüggésben, hosszú távú üzleti érdekeinek elérése céljából gazdasági társaságban kisebbségi vagy többségi tulajdonrészt szerezhet, valamint gazdasági társaságot alapíthat.
+(6) A (2) bekezdésben megjelölt társaság üzleti érdekeinek elérése céljából gazdasági társaságban kisebbségi vagy többségi tulajdonrészt szerezhet, valamint gazdasági társaságot alapíthat.
 
 (7) A Társaság társadalmi közszükségletet kielégítő, rendeltetése folytán vasárnap és munkaszüneti napon is működő munkáltató.

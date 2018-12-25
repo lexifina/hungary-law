@@ -8,7 +8,7 @@
 
 ## A típusalkalmasság
 
-46. § (1) A 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijárműnek – a 12. § (1) bekezdésében meghatározott repülőeszköz, pilóta nélküli légijármű, valamint a (2) bekezdésben meghatározott légijármű kivételével – rendelkeznie kell a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatáról szóló rendelet szerint a légiközlekedési hatóság által kiadott
+46. § (1) A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijárműnek – a 12. § (1) bekezdésében meghatározott repülőeszköz, pilóta nélküli légijármű, valamint a (2) bekezdésben meghatározott légijármű kivételével – rendelkeznie kell a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatáról szóló rendelet szerint a légiközlekedési hatóság által kiadott
 
 a) típusalkalmassági tanúsítvánnyal vagy
 

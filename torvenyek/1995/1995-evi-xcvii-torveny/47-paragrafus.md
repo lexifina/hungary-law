@@ -1,1 +1,1 @@
-47. § A 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légi jármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatának részletes szabályait a Kormány rendeletben határozza meg.
+47. § A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légi jármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatának részletes szabályait a Kormány rendeletben határozza meg.

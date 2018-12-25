@@ -121,3 +121,7 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 42. pilóta nélküli állami légijármű: a honvédelmi, a vámhatósági, a rendőrségi és határőrizeti szervek céljára szolgáló olyan légijármű, amelyet úgy terveztek és úgy tartanak üzemben, hogy vezetését nem a fedélzeten tartózkodó személy végzi.
 
 43. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény 2. § a) pontjában meghatározott személy.
+
+44. légialkalmassági tanúsítvány: típusalkalmassági tanúsítvánnyal rendelkező légijármű esetében az adott típushoz tartozó, gyártási számmal, lajstromjellel rendelkező egyedi légijármű esetében a típusalkalmasságra vonatkozó előírásoknak való megfelelést tanúsító, határozatlan időtartamig érvényes hatósági okmány;
+
+45. légialkalmassági felülvizsgálati tanúsítvány: a 44. pontban meghatározott légialkalmassági tanúsítvánnyal rendelkező légijárműhöz tartozó, a folyamatos légialkalmassági feltételeknek a kiadás napján való megfelelést igazoló, meghatározott ideig érvényes hatósági okmány.

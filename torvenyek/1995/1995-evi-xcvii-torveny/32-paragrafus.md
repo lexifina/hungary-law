@@ -14,7 +14,7 @@ d) a bejelentő szervezet nevét és elérhetőségét.
 
 (4) A terrorizmust elhárító szerv és az Alkotmányvédelmi Hivatal a bejelentés beérkezésétől számított legfeljebb 48 órán belül megküldi a szakvéleményét az általános rendőrségi feladatokat ellátó szervnek.
 
-(5) Az általános rendőrségi feladatokat ellátó szerv közbiztonsági célból vagy a (4) bekezdésben meghatározott szakvélemények alapján a 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijárművek vagy repülőeszközök vezetésére irányuló, továbbá az ejtőernyős képzés végzését megtilthatja.
+(5) Az általános rendőrségi feladatokat ellátó szerv közbiztonsági célból vagy a (4) bekezdésben meghatározott szakvélemények alapján a 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijárművek vagy repülőeszközök vezetésére irányuló, továbbá az ejtőernyős képzés végzését megtilthatja.
 
 (6) Az általános rendőrségi feladatokat ellátó szerv az (5) bekezdés szerinti döntését legfeljebb a (4) bekezdés szerinti szakvélemények megérkezését követő 24 órán belül határozatban közli a bejelentővel.
 

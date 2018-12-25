@@ -17,3 +17,5 @@ c) a 71. § 12. pont g) alpontjában
 meghatározott tevékenység folytatásához.
 
 (3) Pilóta nélküli légijárművel légiközlekedési tevékenység – a 71. § 10. pont e) alpontjában meghatározott kivétellel – légiközlekedési hatósághoz tett, az e törvény végrehajtási rendeletében meghatározott előzetes bejelentést követően folytatható.
+
+(4) A 71. § 10. pont b) alpontjában szereplő légiközlekedési tevékenység a légiközlekedési hatósághoz tett, előzetes bejelentést követően folytatható. A 965/2012/EU bizottsági rendeletben meghatározott követelményrendszert a légiközlekedési hatóság ellenőrzi.

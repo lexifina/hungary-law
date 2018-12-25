@@ -16,11 +16,11 @@ b) a Magyarország teljes területére vonatkozó, a helyi átlagos terepszinthe
 
 c) a Magyarország teljes területére vonatkozó, a helyi átlagos terepszinthez viszonyítva legalább 100 m magasságú tereptárgyak adatait tartalmazó 1 Terület adatbázis,
 
-d) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan miniszteri rendeletben meghatározott adattartalmú 2 Terület adatbázis,
+d) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan kormányrendeletben meghatározott adattartalmú 2 Terület adatbázis,
 
-e) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan miniszteri rendeletben meghatározott adattartalmú 3 Terület adatbázis,
+e) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan kormányrendeletben meghatározott adattartalmú 3 Terület adatbázis,
 
-f) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan miniszteri rendeletben meghatározott adattartalmú 4 Terület adatbázis,
+f) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan kormányrendeletben meghatározott adattartalmú 4 Terület adatbázis,
 
 g) a Magyarország teljes területére vonatkozó, legalább 10x10 méteres rácsháló méretű digitális domborzatmodell.
 
@@ -34,4 +34,4 @@ g) a Magyarország teljes területére vonatkozó, legalább 10x10 méteres rác
 
 (8) A (6) bekezdésben foglaltaktól eltérően a Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat a Magyarország légiközlekedési terep és akadály adatbázisában szereplő, a feladatai ellátása érdekében szükséges adatokat, valamint a légiforgalmi tájékoztatás rendjéről, a légiforgalmi tájékoztató szolgálat ellátásának szabályairól és a Magyarország légiközlekedési terep és akadály adatbázisának adattartalmára vonatkozó szabályokról szóló miniszteri rendelet alapján a részére szolgáltatandó adatokat díj- és költségmentesen kapja meg.
 
-(9) A Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat az adatbázis adatait kizárólag saját feladatai ellátásához használhatja, az adatbázist és tartalmát harmadik fél részére nem adhatja át, de feladatai körében az adatbázisból a légiforgalmi tájékoztatás rendjéről, a légiforgalmi tájékoztató szolgálat ellátásának szabályairól és a Magyarország légiközlekedési terep és akadály adatbázisának adattartalmára vonatkozó szabályokról szóló miniszteri rendeletben meghatározott tájékoztató kiadványokban adatok közlésére jogosult.
+(9) A Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat az adatbázis adatait kizárólag saját feladatai ellátásához használhatja, az adatbázist és tartalmát harmadik fél részére nem adhatja át, de feladatai körében az adatbázisból a légiforgalmi tájékoztatás rendjéről, a légiforgalmi tájékoztató szolgálat ellátásának a szabályairól szóló miniszteri rendeletben és a repülőtér akadálykorlátozási felületeinek kijelöléséről, a légiközlekedési akadályok jelölésének részletes szabályairól, valamint Magyarország légiközlekedési terep és akadály adatbázisának létrehozásáról és fenntartásáról szóló kormányrendeletben, meghatározott tájékoztató kiadványokban adatok közlésére jogosult.

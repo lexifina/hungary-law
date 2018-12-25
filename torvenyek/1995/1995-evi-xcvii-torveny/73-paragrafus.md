@@ -44,7 +44,7 @@ x) a tagállamok és harmadik országok közötti légiközlekedési szolgáltat
 
 y) a bajba jutott vagy eltűnt légijárművek megsegítését, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenységet ellátó légi kutató-mentő szolgálat szervezetét, működésének, fenntartásának, riasztásának és a mentéssel járó költségek viselésének a rendjét, e tevékenységek engedélyezésére vonatkozó szabályokat, valamint
 
-z) a légiközlekedési terep és akadály adatbázis létrehozásának és működtetésének szabályait, valamint az adatbázist működtető szervezet kijelölését,
+z) a légiközlekedési terep és akadály adatbázis létrehozásának, működtetésének és adattartalmának szabályait, valamint az adatbázist működtető szervezet kijelölését,
 
 zs) a repülőtér akadálykorlátozási felületeinek kijelölésére és a légiközlekedési akadályok jelölésére vonatkozó szabályokat.
 

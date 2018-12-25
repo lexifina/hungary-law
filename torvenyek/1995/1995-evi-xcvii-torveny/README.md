@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-97-00-00
 | 2018-01-02 | 2016. évi LXVII. törvény | 1995-97-00-00.61 |
 | 2018-05-18 | 2018. évi V. törvény | 1995-97-00-00.62 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1995-97-00-00.63 |
+| 2018-12-25 | 2018. évi XCVIII. törvény | 1995-97-00-00.64 |

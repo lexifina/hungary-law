@@ -1,8 +1,8 @@
 ## A légialkalmasság
 
-48. § (1) A 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű – a 12. § (1) bekezdésében meghatározott repülőeszköz és 25 kg maximális felszálló tömeg alatti pilóta nélküli légijármű, valamint a (2) bekezdésben meghatározott légijármű kivételével – akkor tartható üzemben, ha rendelkezik a légiközlekedési hatóságnak a polgári légijármű légialkalmassági követelményeiről, légialkalmassági vizsgálatáról és a légialkalmassági tanúsítványról szóló rendelet szerinti
+48. § (1) A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű – a 12. § (1) bekezdésében meghatározott repülőeszköz és 25 kg maximális felszálló tömeg alatti pilóta nélküli légijármű, valamint a (2) bekezdésben meghatározott légijármű kivételével – akkor tartható üzemben, ha rendelkezik a légiközlekedési hatóságnak a polgári légijármű légialkalmassági követelményeiről, légialkalmassági vizsgálatáról és a légialkalmassági tanúsítványról szóló rendelet szerinti
 
-a) légialkalmassági tanúsítványával vagy
+a) légialkalmassági tanúsítványával és légialkalmassági felülvizsgálati tanúsítványával vagy
 
 b) egyedi repülési engedélyével.
 
@@ -10,7 +10,7 @@ b) egyedi repülési engedélyével.
 
 (3) A légiközlekedési hatóság az európai uniós és a nemzeti előírásoknak való megfelelés esetén, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság az állami légijárművek nyilvántartásáról, gyártásáról és javításáról, valamint a típus- és légialkalmasságáról szóló miniszteri rendeletben foglalt feltételeknek való megfelelés esetén a légijármű légialkalmasságának vizsgálata során elfogadja más állam hatóságának a légialkalmasságot tanúsító igazolását.
 
-(4) A légialkalmassági tanúsítvány határozatlan időtartamig hatályos. Az állami célú légiközlekedésben a légialkalmassági bizonyítvány határozott időtartamig hatályos, időbeli hatályát a katonai légügyi hatóság időszakos alkalmassági vizsgálat után meghosszabbíthatja.
+(4) A légialkalmassági tanúsítvány határozatlan időtartamig érvényes. A légialkalmassági felülvizsgálati tanúsítvány egy évig érvényes, és a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló miniszteri rendeletben meghatározott feltételek mellett két alkalommal meghosszabbítható alkalmanként további egy évvel. Az állami célú légiközlekedésben a légialkalmassági bizonyítvány határozott időtartamig érvényes, időbeli hatályát a katonai légügyi hatóság időszakos alkalmassági vizsgálat után meghosszabbíthatja.
 
 (5) A légialkalmassági tanúsítvány, valamint a katonai légügyi hatóság által kiadott légialkalmassági bizonyítvány hatályának fennállása alatt biztosítani kell a légijármű jogszabályban meghatározott folyamatos légialkalmasságának fenntartását. A légialkalmassági vizsgálatot soron kívül akkor is el kell végezni, ha a légijárművön a légialkalmasságot befolyásoló – külön jogszabályban meghatározott – javítást vagy módosítást végeztek.
 
