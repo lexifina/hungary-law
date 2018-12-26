@@ -1,1 +1,0 @@
-## 1. § Az állatkísérletekről szóló 40/2013. (II. 14.) Korm. rendelet 2. § 11. pontjában a „jólétének, megfelelő egészségi állapotának, és fajtaazonosságának ellenőrzését és fenntartását” szövegrész helyébe a „jólétének és megfelelő egészségi állapotának ellenőrzését és fenntartását” szöveg lép.

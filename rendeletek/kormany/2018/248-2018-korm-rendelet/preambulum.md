@@ -1,1 +1,0 @@
-A Kormány az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 49. § (3) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
