@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-66-00-00
 | 2017-07-05 | 2017. évi XCIV. törvény | 1995-66-00-00.40 |
 | 2017-07-08 | 2017. évi LXVII. törvény | 1995-66-00-00.41 |
 | 2017-12-14 | 2017. évi CLXXX. törvény | 1995-66-00-00.42 |
+| 2018-12-26 | 2018. évi CVI. törvény | 1995-66-00-00.43 |
