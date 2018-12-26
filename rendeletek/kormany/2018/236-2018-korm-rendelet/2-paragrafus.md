@@ -1,3 +1,0 @@
-## 1. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Kr.) 28/A. §-a a következő (5) bekezdéssel egészül ki:
-
-## „(5) Az (1) bekezdés szerinti egészségügyi szolgáltató a 4602 szakmakódú szervezeti egységek által végzett ellátásokról a 13. számú melléklet szerinti adattartalmú adatlapot köteles a havi teljesítményjelentéssel egyidejűleg megküldeni a finanszírozó számára. Az adatlap nélkül a szervezeti egységen nyújtott ellátás nem finanszírozható. Az adatlap formanyomtatványát és annak kitöltési útmutatóját a NEAK a honlapján közzéteszi.”
