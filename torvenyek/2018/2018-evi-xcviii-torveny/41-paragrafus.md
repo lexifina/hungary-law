@@ -1,3 +1,1 @@
-41. § A Vtv. 31. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A pályahálózat-működtető a vasúti közlekedés műszaki hiba vagy baleset miatti zavara esetén köteles minden szükséges intézkedést megtenni a zavar előtti állapot visszaállítása érdekében. E célból vészhelyzeti tervet kell kidolgoznia, amelyben felsorolja a zavar esetén értesítendő szerveket. A határokon átnyúló közlekedést potenciálisan befolyásoló zavar esetén a pályahálózat-működtetőnek minden lényeges információt meg kell osztania azokkal a pályahálózat-működtetőkkel, amelyek hálózatát és közlekedését az adott zavar érintheti. Az érintett pályahálózat-működtetőknek együtt kell működniük a határokon átnyúló forgalom helyreállítása céljából.”
+41. §

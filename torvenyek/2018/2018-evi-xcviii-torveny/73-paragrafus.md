@@ -1,13 +1,3 @@
-## 12. A vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény módosítása
-
-73. § A vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény 24. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„d) a vasúti igazgatási szerv által kiszabható bírság megállapításának szempontjaira és megfizetésére, továbbá a közlekedési hatóság által kiszabható bírság megfizetésére vonatkozó szabályokat,”
-
-(rendeletben állapítsa meg.)
-
 ## 13. Záró rendelkezések
 
 73. § (1) Ez a törvény – a (2)–(4) bekezdésben meghatározott kivétellel – 2018. december 25-én lép hatályba.
