@@ -1,1 +1,0 @@
-Az Országgyűlés az Európai Parlament és a Tanács nép- és lakásszámlálásról szóló 763/2008/EK (2008. július 9.) rendeletének, valamint a statisztikáról szóló 1993. évi XLVI. törvény 6. § (1) bekezdésének c) pontjában foglaltaknak megfelelően a 2011. évi népszámlálásról a következő törvényt alkotja:
