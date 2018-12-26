@@ -14,7 +14,7 @@ d) a haváriaesemény kapcsán felmerülő költség
 
 ## vehető figyelembe.
 
-(4)[^2] A kijelölt közérdekű szolgáltató az ideiglenes begyűjtési ellátás teljes idejére számított indokolt többletköltségei iránti igényét az ellátásért felelős önkormányzathoz nyújtja be a közérdekű szolgáltató kijelöléséről szóló döntés véglegessé válásától számított tíz napon belül.
+(4)[^3] A kijelölt közérdekű szolgáltató az ideiglenes begyűjtési ellátás teljes idejére számított indokolt többletköltségei iránti igényét az ellátásért felelős önkormányzathoz nyújtja be a közérdekű szolgáltató kijelöléséről szóló döntés véglegessé válásától számított tíz napon belül.
 
 (5) Az ellátásért felelős önkormányzat a (4) bekezdésben meghatározott igényt, annak ellenőrzését követően, véleményével ellátva 5 napon belül továbbítja a MEKH részére.
 
@@ -30,4 +30,4 @@ c) az indokolt többletköltségnek a kijelölés teljes idejére vonatkozó, é
 
 (8) A MEKH az (1) bekezdésben meghatározott feladatának ellátásához szükséges tájékoztatást, adatot kérhet a katasztrófavédelmi szerv központi szervétől és a települési önkormányzattól.
 
-[^2]: A 12. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 553. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^3]: A 12. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 553. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

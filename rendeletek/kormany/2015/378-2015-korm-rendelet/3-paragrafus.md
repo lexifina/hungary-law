@@ -38,8 +38,9 @@ d) az ideiglenes begyűjtési ellátással érintett települések szerint illet
 
 e) az ideiglenes begyűjtési ellátást megelőzően a településen közszolgáltatást végző gazdálkodó szervezettel.
 
-(7) Az ideiglenes begyűjtési ellátásra történő kijelölés időtartama a kijelölés meghosszabbítása esetén sem haladhatja meg a három évet.
+(7)[^2] Az ideiglenes begyűjtési ellátásra történő kijelölés időtartama a kijelölés meghosszabbítása esetén sem haladhatja meg az öt évet.
 
 (8) Az ideiglenes begyűjtési ellátásra kijelölt közérdekű szolgáltató a kijelölését követő 8 napon belül egyeztet az érintett települések víziközmű szolgáltatóival és önkormányzataival az átadási helyek és kapacitások biztosítása érdekében, valamint a közműcsatlakozással nem rendelkező ingatlanok számáról és elhelyezkedéséről. Az egyeztetés sikertelensége esetén a kijelölt közérdekű szolgáltató értesíti a kijelölő katasztrófavédelmi szervet.
 
 [^1]: A 2/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 552. §-a iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^2]: A 3. § (7) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 5. §-a szerint módosított szöveg.
