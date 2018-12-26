@@ -1,0 +1,1 @@
+3. § A Kultv. 56. § (5) bekezdésében a „nyomtatott” szövegrész helyébe a „nyomtatott és elektronikus” szöveg, 78/B. § (2) és (2a) bekezdésében, valamint 87/A. § (2) és (3) bekezdésében a „mesterfokozattal és szakirányú szakképzettséggel” szövegrész helyébe a „szakirányú mesterfokozatú szakképzettséggel” szöveg lép.
