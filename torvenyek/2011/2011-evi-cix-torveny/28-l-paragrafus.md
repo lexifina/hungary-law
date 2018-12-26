@@ -37,11 +37,3 @@ g) aki a művészjáradék megállapítását megalapozó elismerésről lemondo
 (3) Aki több művészeti elismerésben, vagy több alkalommal azonos elismerésben részesült, csak az egyik elismerése alapján részesülhet művészjáradékban.
 
 (4) A művészjáradék havi mértéke az öregségi teljes nyugdíj jogszabályban meghatározott legkisebb összegének 425%-a. A művészjáradék élethosszig tartó juttatás.
-
-## IV. Fejezet
-
-## ZÁRÓ RENDELKEZÉSEK
-
-## 9/A. Felhatalmazó rendelkezés
-
-28/L. § Felhatalmazást kap a Kormány, hogy a rendes és a levelező tagokat megillető életjáradék mértékét, a folyósítására vonatkozó részletes szabályokat, valamint az életjáradékban részesített tag elhalálozása esetén megállapítható hozzátartozói ellátásokra vonatkozó szabályokat rendeletben állapítsa meg.
