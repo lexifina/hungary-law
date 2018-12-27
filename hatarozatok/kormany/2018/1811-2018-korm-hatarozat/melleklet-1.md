@@ -26,9 +26,13 @@
 
 ## c) 24. sorában rögzített támogatás a váci Munkaerő-piaci Elhelyezkedést Segítő Speciális Fejlesztő Központ létrehozásával összefüggő egyes további intézkedésekről 2038/2017. (XII. 27.) Korm. határozat
 
+## d)[^1] 38–40. sorában rögzített támogatások az egyes szerzetesrendi fejlesztések megvalósításához szükséges intézkedésekről szóló 1390/2016. (VII. 21.) Korm. határozat,
+
+## e)[^2] 41. sorában rögzített támogatás az esztergomi Nagyboldogasszony és Szent Adalbert Főszékesegyház rekonstrukciójának további támogatásához szükséges kormányzati intézkedésekről szóló 1756/2018. (XII. 20.) Korm. határozat
+
 ## részleges végrehajtására szolgálnak.
 
-1. melléklet az 1811/2018. (XII. 23.) Korm. határozathoz
+1. melléklet az 1811/2018. (XII. 23.) Korm. határozathoz[^3]
 
 | Sorszám | Kedvezményezett | Támogatási cél | Támogatási összeg (forint) |
 
@@ -105,3 +109,15 @@
 | 36 | Hernádkak Református Egyházközség | Hernádkaki Református Templom felújítása | 60 000 000 |
 
 | 37 | Magyar Máltai Szeretetszolgálat Egyesület | Kiegészítő jellegű támogatás biztosítása | 390 000 000 |
+
+| 38. | Csornai Premontrei Prépostság | A Csornai Premontrei Prépostság türjei épületegyüttesének (Türje, belterület 1 és 6/2 helyrajzi számú ingatlanok) felújítása és turisztikai célú fejlesztése | 1 000 000 000 |
+
+| 39. | Magyar Bencés Kongregáció Szent Mór Perjelség | A Magyar Bencés Kongregáció Szent Mór Perjelsége győri templomának és rendházának (Győr, belterület 6900 és 6899 helyrajzi számú ingatlanok) örökségi rehabilitációja és közösségi-kulturális funkcióbővítése | 1 000 000 000 |
+
+| 40. | Magyarok Nagyasszonya Ferences Rendtartomány | A Magyarok Nagyasszonya Ferences Rendtartomány közép-magyarországi fejlesztései | 300 000 000 |
+
+| 41. | Esztergom-Budapesti Főegyházmegye | Az esztergomi Nagyboldogasszony és Szent Adalbert Főszékesegyház rekonstrukciójának kiegészítő támogatása | 4 488 700 000 |
+
+[^1]: A 4. pont d) alpontját az 1835/2018. (XII. 27.) Korm. határozat 3. pontja iktatta be.
+[^2]: A 4. pont e) alpontját az 1835/2018. (XII. 27.) Korm. határozat 3. pontja iktatta be.
+[^3]: Az 1. melléklet az 1835/2018. (XII. 27.) Korm. határozat 4. pontja szerint módosított szöveg.
