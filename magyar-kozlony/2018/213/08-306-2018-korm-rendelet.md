@@ -1,0 +1,202 @@
+# A Kormány 306/2018. (XII. 27.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 213. szám, 2018. december 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/stpVC34kxE6rRCbl9k7s5c1d6d1b77daa/dokumentumok/afd34a9f04dc034fcd6dbd59ae282584d7b6cd44/letoltes)
+
+---
+
+A Kormány 306/2018. (XII. 27.) Korm. rendelete
+egyes gyermekvédelmi tárgyú kormányrendeletek módosításáról
+A Kormány a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés a), d), k), m) és
+q) pontjában kapott felhatalmazás alapján,
+a 12. § tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotó hatáskörében,
+a 13. § tekintetében a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés
+f) pontjában kapott felhatalmazás alapján,
+a 14–17. §-ok tekintetében a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés
+h) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló
+149/1997. (IX. 10.) Korm. rendelet módosítása
+1. § (1) A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet
+(a továbbiakban: Gyer.) 24. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+„(4) Ha a szülők a gyermek külföldi tartózkodási helyének kijelölésében nem tudnak egyezségre jutni, a gyámhivatal
+tájékoztatja a feleket a szülői felügyeleti jog gyakorlásának rendezése iránti bírósági eljárás megindításának
+lehetőségéről, valamint arról, hogy a gyermek tervezett külföldi tartózkodási helyének figyelembevételével kérhetik
+
+a kapcsolattartás rendezését vagy annak megváltoztatását. A gyámhivatal tájékoztatása – a gyermek tervezett
+külföldi tartózkodási helyére figyelemmel – kiterjed a gyermek jogellenes elvitelének várható jogkövetkezményeire.
+(5) A gyermek huzamos időtartamú vagy letelepedés céljából történő külföldre távozása esetén a gyámhivatal
+a) határozatában tájékoztatja a gyermek törvényes képviselőjét
+aa) a lakcímváltozásra vonatkozó jogszabályban előírt bejelentési kötelezettségéről,
+ab) a tanköteles tanuló tanulmányainak külföldön történő folytatására vonatkozó bejelentési kötelezettségéről, és
+ac) arról, hogy kérheti a kapcsolattartás megváltoztatását;
+b) határozatában tájékoztatja a kapcsolattartásra jogosult szülőt
+ba) arról, hogy ha erre irányuló kérelem hiányában az eljárás során a kapcsolattartás rendezésére, megváltoztatására
+nem került sor, a külföldre költözést követő három hónapon belül kérheti a gyámhivataltól a kapcsolattartás
+rendezését, megváltoztatását, feltéve, hogy a gyermek a törvényes képviselőjével az Európai Unió valamely
+tagállamába jogszerűen távozik, és
+bb) a gyermek külföldre költözését követően a kapcsolattartás rendezésére vonatkozó határozat végrehajtása iránti
+eljárás megindításának lehetőségeiről és feltételeiről;
+c) jóváhagyó határozatában rögzíti, hogy a gyermek előre meghatározható vagy előre meg nem határozható
+huzamos időtartamra, vagy letelepedés céljából távozik külföldre;
+d) – ha hatásköre erre kiterjed – kérelemre dönt a kapcsolattartás rendezéséről vagy megváltoztatásáról, ideértve
+a szülők egyezségének jóváhagyását is,
+e) a gyermek külföldi tartózkodási helyének kijelöléséről szóló határozatát közli a családtámogatási ellátást folyósító
+szervvel.”
+(2) A Gyer. 24. §-a a következő (6) bekezdéssel egészül ki:
+„(6) A gyermek külföldi tartózkodási helyének kijelölésére irányuló kérelem elutasítása esetén a gyámhivatal
+határozatában tájékoztatja a gyermek törvényes képviselőjét – a gyermek tervezett külföldi tartózkodási helyére
+figyelemmel – a gyermek jogellenes elvitelének várható jogkövetkezményeiről.”
+2. §
+A Gyer. 30/D. §-a helyébe a következő rendelkezés lép:
+„30/D. § (1) A közvetítő haladéktalanul, de legfeljebb a közvetítői megbeszélés elmaradásától számított öt napon
+belül értesíti a gyámhivatalt, ha a közvetítői eljárás megindítására a Kvtv. 29. §-a alapján nem került sor.
+(2) A közvetítő a közvetítői eljárás befejezéséről nyolc napon belül értesíti a gyámhivatalt. Ha a felek között
+a közvetítői eljárás során született megállapodás, az értesítés a megállapodás egy példányának megküldésével
+történik.
+(3) Ha a felek a közvetítői eljárás során a 29/A. § (1) bekezdésében foglaltakról nem tudnak teljeskörűen
+megállapodni, a gyámhivatal a felek között létrejött részegyezség jóváhagyásáról, valamint a vitás kérdésekben
+a gyermek érdekében dönt.
+(4) A gyámhivatal a felek közötti egyezség, részegyezség jóváhagyása esetén a döntésében rögzíti a közvetítői
+eljárás során született megállapodás tartalmát.”
+3. §
+A Gyer. 30/H. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A szülők egymással, illetve a nevelésbe vett gyermekkel való megfelelő együttműködés kialakítása érdekében
+a gyámhivatal – hivatalból, vagy a szülő vagy a gyermekvédelmi gyám kérelmére – gyermekvédelmi közvetítői
+eljárás vagy támogatott közvetítői eljárás igénybevételét rendeli el.”
+4. §
+A Gyer. 37. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A kijelölt gyámhivatal az örökbefogadhatóvá nyilvánítással és annak meghosszabbításával egyidejűleg
+a gyermek érdekében a szülő kapcsolattartási jogát szünetelteti. A kijelölt gyámhivatal a kapcsolattartás
+szünetelését az örökbefogadhatóvá nyilvánítás időtartamára rendeli el. A 31. § (4) bekezdése szerinti időtartamot
+a (3) bekezdés a) pontja szerinti örökbefogadhatónak nyilvánítás során figyelmen kívül kell hagyni.”
+5. §
+A Gyer. 84. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) Ha a védelembe vételi eljárás részben vagy egészben a gyermeknek a kapcsolattartással összefüggő
+veszélyeztetettsége miatt indult, a gyámhivatal megkeresi a kapcsolattartásra jogosult szülő lakó- vagy tartózkodási
+helye szerinti család- és gyermekjóléti központot a Gyvt. 68. § (3) bekezdésében foglalt intézkedés iránti javaslattétel
+és a gyermek lakó- vagy tartózkodási helye szerinti család- és gyermekjóléti központtal való együttműködés
+érdekében.”
+
+6. §
+A Gyer. 87. § a)–c) pontjai helyébe a következő rendelkezések lépnek:
+(A védelembe vételről szóló határozat rendelkező része a 14. §-ban meghatározottakon kívül tartalmazza)
+„a) a család- és gyermekjóléti központ felhívását a védelembe vételhez kapcsolódó gyermekjóléti szolgáltatási
+feladatok esetmenedzselésének ellátására, a család- és gyermekjóléti szolgálattal együtt a védelembe vétel melletti
+szociális segítőmunka biztosítására és – a gyermeknek a kapcsolattartással összefüggő veszélyeztetettsége miatt
+elrendelt védelembe vétel esetén – a kapcsolattartásra jogosult szülő lakó- vagy tartózkodási helye szerinti család-
+és gyermekjóléti központtal való együttműködésre,
+b) a gyermek lakó- vagy tartózkodási helye szerinti család- és gyermekjóléti központ felhívását a gondozási-nevelési
+tervnek a határozat véglegessé válását követő tizenöt napon belül történő elkészítésére és a gyámhivatalnak
+történő megküldésére,
+c) a gyermek, a gyermeket gondozó szülő és a kapcsolattartásra jogosult szülő kötelezését a család- és
+gyermekjóléti szolgálat, valamint a család- és gyermekjóléti központ munkatársával való együttműködésre,”
+7. §
+A Gyer. 91. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) A gyámhivatal megszüntetheti a gyermeknek a kapcsolattartással összefüggő veszélyeztetettsége miatt
+elrendelt védelembe vételét, ha sor került a kapcsolattartási jog korlátozására, szüneteltetésére vagy megvonására.”
+8. §
+A Gyer. a következő 168/A. §-sal és azt megelőzően a következő alcímmel egészül ki:
+„Eljárás a gyámrendeléssel kapcsolatos ügyekben
+168/A. § (1) Ha a magyar állampolgárságú gyermek tekintetében külföldön szokásos tartózkodási hellyel rendelkező
+gyám kirendelésének szükségessége merül fel, a gyámhivatal – a 2201/2003/EK rendelet 56. cikke vagy a szülői
+felelősséggel és a gyermekek védelmét szolgáló intézkedésekkel kapcsolatos együttműködésről, valamint az ilyen
+ügyekre irányadó joghatóságról, alkalmazandó jogról, elismerésről és végrehajtásról szóló, Hágában, 1996. október
+19-én kelt Egyezmény kihirdetéséről szóló 2005. évi CXL. törvény 33. cikke alapján – a Minisztériumon keresztül
+megkeresi a gyámként kirendelhető személy szokásos tartózkodási helye szerinti fogadó állam központi hatóságát.
+A gyámhivatal a megkeresésben tájékozódik arról, hogy a fogadó állam jogszabályai alapján szükséges-e előzetes
+hozzájárulás a gyermek részére családbafogadó gyám kirendelésével megvalósuló, a fogadó államban történő
+elhelyezéshez.
+(2) A fogadó állam előzetes hozzájárulásának szükségessége esetén a gyámhivatal a Minisztériumon keresztül
+megküldi a fogadó állam központi hatósága számára a hozzájárulásról való döntéshez szükséges, fordítással ellátott
+dokumentumokat.
+(3) A gyámhivatal a fogadó állam előzetes hozzájárulását követően gondoskodik a családbafogadó gyám
+kirendeléséről, és ezzel a gyermeknek a fogadó államban történő elhelyezéséről. A fogadó állam előzetes
+hozzájárulásának hiányában a gyámhivatal a gyermek számára más személyt rendel ki családbafogadó gyámként,
+vagy ha ez nem lehetséges, a gyermekvédelmi gondoskodás más formáját választva rendezi a gyermek sorsát.”
+9. §
+A Gyer. a következő 200. §-sal és azt megelőzően a következő alcímmel egészül ki:
+„Az Európai Unió jogának való megfelelés
+200. § E rendelet
+a) 166. §-a, 166/A. §-a és 168/A. §-a a házassági ügyekben és a szülői felelősségre vonatkozó eljárásban
+a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon
+kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet III. Fejezet 4. Szakasza, 56. cikke, II. és
+III. melléklete és
+b) 169/A. §-a a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről
+és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-i 4/2009/EK
+tanácsi rendelet
+végrehajtásához szükséges rendelkezéseket állapít meg.”
+10. §
+A Gyer.
+a) 30/A. § (1) bekezdésében a „gyámhatóság a felek együttes kérelmére vagy hivatalból rendeli el” szövegrész
+helyébe a „gyámhivatal a felek együttes kérelmére vagy hivatalból rendeli el – az előtte folyó eljárás
+felfüggesztésével egyidejűleg – végzésben”szöveg,
+
+b) 31. § (2), (4) és (5) bekezdésében a „– kérelemre –” szövegrész helyébe a „– kérelemre vagy hivatalból –”
+szöveg,
+c) 62. § (3) bekezdésében a„gyámot rendel”szövegrész helyébe a„gyermekvédelmi gyámot rendel”szöveg,
+d) 87. § d) pontjában a „szülő” szövegrész helyébe a „gyermeket gondozó szülő, a kapcsolattartásra jogosult
+szülő”szöveg,
+e) 91. § (1) bekezdésében az„a (2) bekezdésben”szövegrész helyébe az„az (1a) és a (2) bekezdésben”szöveg
+lép.
+11. §
+Hatályát veszti a Gyer.
+a) 37. § (6) bekezdése,
+b) 73/A. §-a.
+2. A Szociális és Gyermekvédelmi Főigazgatóságról szóló 316/2012. (XI. 13.) Korm. rendelet módosítása
+12. §
+A Szociális és Gyermekvédelmi Főigazgatóságról szóló 316/2012. (XI. 13.) Korm. rendelet 5. § (1) bekezdése
+a következő l) ponttal egészül ki:
+[A Kormány az Szt. 58. § (1) bekezdése szerinti és – a gyermekek napközbeni ellátása kivételével – a Gyvt. 96. §
+(7) bekezdése szerinti módszertani feladatokat ellátó szervként a Főigazgatóságot jelöli ki. A Főigazgatóság módszertani
+feladatai keretében]
+„l) kiemelten figyelemmel kíséri a gyermekek esélynövelő szolgáltatásait, kidolgozza a gyermekek esélynövelő
+szolgáltatásaihoz kapcsolódó szakmai módszertani dokumentumokat, valamint ellátja a gyermekek esélynövelő
+szolgáltatásai tekintetében a pályáztatási eljáráshoz kapcsolódó szakmai ellenőrzési és monitoring feladatokat.”
+13. §
+A Szociális és Gyermekvédelmi Főigazgatóságról szóló 316/2012. (XI. 13.) Korm. rendelet 2. alcíme a következő
+5/B. §-sal egészül ki:
+„5/B. § A Kormány a Főigazgatóság központi szervét jelöli ki a Gyvt. 38/A. § (4)–(8) bekezdése szerinti„Biztos Kezdet
+Gyerekház Dokumentációs Rendszer”elnevezésű nyilvántartási rendszer vezetésére.”
+3. A nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló
+513/2013. (XII. 29.) Korm. rendelet módosítása
+14. §
+A nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló 513/2013. (XII. 29.)
+Korm. rendelet (a továbbiakban: Nszr.) 11. §-a a következő (6) bekezdéssel egészül ki:
+„(6) Ha a nevelőszülő más működtetőnél kíván nevelőszülői tevékenységet végezni, vagy a jelenlegi működtetőjénél
+végzett tevékenysége mellett kíván más működtetőnél is nevelőszülői feladatokat ellátni, és azt a jelenlegi
+működtető nem engedélyezi, az új működtetővel a keretmegállapodást a jelenlegi működtetőnél fennálló
+jogviszonya megszüntetését és a jelenlegi működtetővel kötött keretmegállapodása megszüntetési záradékkal
+történő ellátását követően kötheti meg.”
+15. §
+Az Nszr. 14. § e) pontja a következő ei) alponttal egészül ki:
+(A nevelőszülő tájékoztatja a működtetőt és a gyermekvédelmi gyámot azonnal a saját életkörülményeiben
+bekövetkezett vagy várható lényeges változásról, valamint olyan tényről, mely lényeges változást eredményezhet
+az általa nevelt gyermek életében, így különösen)
+„ei) ha más működtetőnél kíván nevelőszülői feladatokat ellátni.”
+16. §
+Az Nszr. a következő 32. §-sal egészül ki:
+„32. § (1) A nevelőszülő a Gyvt. – egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények
+módosításáról szóló 2018. évi CXVII. törvénnyel megállapított – 165. § (2) bekezdés c) pontja szerinti nyilatkozatát
+2019. február 28-áig juttatja el a működtetőnek.
+(2) A működtető a 2019. január 1-jén fennálló keretmegállapodásokat a keretmegállapodás 11. § (1) bekezdés
+t) pontja tekintetében 2019. március 31-éig módosítási záradékkal látja el, ha az a Gyvt. – egyes szociális,
+gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel
+megállapított –
+
+a) 165. § (1) bekezdése szerinti, a nevelőszülő képesítés megszerzésére irányuló kötelezettség teljesítésére előírt
+határidő változása, vagy
+b) 165. § (2) bekezdés c) pontja szerinti, a nevelőszülő képesítés megszerzése alóli felmentési ok
+miatt szükséges.”
+17. §
+Az Nszr. 14. § e) pont ea) alpontjában és 25. § d) pontjában a „Gyvt. 15. § (8) bekezdésében” szövegrész helyébe
+a„Gyvt. 10/A. § (1) bekezdésében”szöveg lép.
+4. Záró rendelkezések
+18. §
+Ez a rendelet 2019. január 1-jén lép hatályba.
+19. §
+A 8. § a házassági ügyekben és a szülői felelősségre vonatkozó eljárásban a joghatóságról, valamint a határozatok
+elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló,
+2003. november 27-i 2201/2003/EK tanácsi rendelet 56. cikke végrehajtásához szükséges rendelkezéseket állapít
+meg.
+ Orbán Viktor s. k.,
+ miniszterelnök

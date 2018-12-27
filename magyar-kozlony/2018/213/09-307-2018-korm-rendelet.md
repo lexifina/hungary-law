@@ -1,0 +1,428 @@
+# A Kormány 307/2018. (XII. 27.) Korm. rendelete
+
+Magyar Közlöny 2018. évi 213. szám, 2018. december 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/stpVC34kxE6rRCbl9k7s5c1d6d1b77daa/dokumentumok/afd34a9f04dc034fcd6dbd59ae282584d7b6cd44/letoltes)
+
+---
+
+A Kormány 307/2018. (XII. 27.) Korm. rendelete
+szakképzési és felnőttképzési tárgyú kormányrendeletek módosításáról
+A Kormány
+a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény 23. § (1) bekezdés
+a) pontjában,
+a 2. alcím tekintetében a szakképzésről szóló 2011. évi CLXXXVII. törvény 88. § (3) bekezdés a) pontjában,
+a 3. alcím, valamint az 1. melléklet tekintetében a szakképzésről szóló 2011. évi CLXXXVII. törvény 88. § (3) bekezdés c), d) és
+i) pontjában,
+a 4. alcím tekintetében a felnőttképzésről szóló 2013. évi LXXVII. törvény 28. § (1) bekezdés a) pontjában,
+az 5. alcím tekintetében a szakképzésről szóló 2011. évi CLXXXVII. törvény 88. § (1) bekezdésében,
+a 6. alcím tekintetében a szakképzésről szóló 2011. évi CLXXXVII. törvény 88. § (7) bekezdésében,
+a 7. alcím tekintetében a szakképzésről szóló 2011. évi CLXXXVII. törvény 88. § (1a) bekezdésében
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A gyakorlati képzés költségeinek a szakképzési hozzájárulás terhére történő elszámolásánál
+figyelembe vehető gyakorlati képzési normatívák mértékéről és a csökkentő tétel számításáról szóló
+280/2011. (XII. 20.) Korm. rendelet módosítása
+1. §
+A gyakorlati képzés költségeinek a szakképzési hozzájárulás terhére történő elszámolásánál figyelembe vehető
+gyakorlati képzési normatívák mértékéről és a csökkentő tétel számításáról szóló 280/2011. (XII. 20.) Korm. rendelet
+(a továbbiakban: R1.) 5. § (2) bekezdés b) pontja a következő bd) alponttal egészül ki:
+(Az alapcsökkentő tétel éves összege – ha a tanulószerződés hatálya a tárgyév teljes időtartamára fennáll – tanulónként
+az alapnormatíva összegének és a tanulószerződésben megnevezett szakképesítéshez tartozó, az Sztv. alapján indított)
+„bd) nappali rendszerű, a tizenegyedik és tizenkettedik évfolyamon tanulószerződés alapján folyó szakgimnáziumi
+oktatás esetében a 2. vagy 3. mellékletben meghatározott szakképesítésenkénti súlyszorzó szorzatának 50%-a.”
+
+2. §
+Az R1. 5/A. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+[Az Szht. 8. § (1a) bekezdés a) pontjában meghatározott – kizárólag az aktiválás évében igénybe vehető – beruházási
+kiegészítő csökkentő tétel mértéke évente a tanulószerződéses tanulók éves létszáma átlagának és az alapnormatíva
+összege]
+„a) 1–10 főt foglalkoztató és a kizárólag önfoglalkoztatásra irányuló egyéni vállalkozói tevékenységet folytató
+kötelezett esetén 38%-ának,”
+(a szorzata.)
+3. §
+Az R1.
+a) 2. mellékletében foglalt táblázat D:118 mezőjében a„0,8910”szövegrész helyébe az„1,2524”szöveg,
+b) 2. mellékletében foglalt táblázat D:121 mezőjében a„0,8910”szövegrész helyébe az„1,6730”szöveg,
+c) 2. mellékletében foglalt táblázat D:175 mezőjében a„0,8910”szövegrész helyébe az„1,2524”szöveg,
+d) 2. mellékletében foglalt táblázat D:322 mezőjében a„0,8910”szövegrész helyébe az„1,5307”szöveg,
+e) 3. mellékletében foglalt táblázat D:130 mezőjében a„0,8910”szövegrész helyébe az„1,2524”szöveg,
+f) 3. mellékletében foglalt táblázat D:133 mezőjében a„0,8910”szövegrész helyébe az„1,6730”szöveg,
+g) 3. mellékletében foglalt táblázat D:187 mezőjében a„0,8910”szövegrész helyébe az„1,2524”szöveg,
+h) 3. mellékletében foglalt táblázat D:349 mezőjében a„0,8910”szövegrész helyébe az„1,5307”szöveg
+lép.
+2. Az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről
+szóló 150/2012. (VII. 6.) Korm. rendelet módosítása
+4. §
+Az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012.
+(VII. 6.) Korm. rendelet
+a) 1. mellékletében foglalt 1. táblázat
+aa) K:225 mezőjében és K:476 mezőjében a „lakásgazdálkodásért és lakáspolitikáért” szövegrész
+helyébe a„szakképzésért és felnőttképzésért”szöveg,
+ab) K:355 mezőjében a „foglalkoztatáspolitikáért” szövegrész helyébe a „szakképzésért és
+felnőttképzésért”szöveg,
+b) 3. mellékletében foglalt táblázat C:3 mezőjében az „5522/4 Kisegítő ápoló” szövegrész helyébe az „5222/4
+Kisegítő ápoló”szöveg
+lép.
+3. A komplex szakmai vizsgáztatás szabályairól szóló 315/2013. (VIII. 28.) Korm. rendelet módosítása
+5. §
+A komplex szakmai vizsgáztatás szabályairól szóló 315/2013. (VIII. 28.) Korm. rendelet
+(a továbbiakban: R2.) 9. § (3) bekezdése a következő e) ponttal egészül ki:
+(A vizsgabejelentésnek tartalmaznia kell:)
+„e) mellék-szakképesítés megszerzésére irányuló vizsga esetén e ténynek a rögzítését.”
+6. §
+Az R2. 41. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+„(1a) A vizsgabizottság elnöke és a vizsgaszervező vezetője által hitelesített törzslap külív az alábbi adatokat
+tartalmazza:
+1. a szakképzési feladatot ellátó hatóság vizsgaazonosítója;
+2. a vizsgaszervező
+a) megnevezése és címe, valamint
+b) OM azonosítója, ha a vizsgaszervező köznevelési intézmény;
+3. a vizsgaszervezésre feljogosító jogszabály vagy határozat száma, a határozatot kiadmányozó hatóság
+megnevezése;
+4. a vizsgán megszerezhető részszakképesítés, szakképesítés, szakképesítés-ráépülés azonosító száma és
+megnevezése;
+5. a vizsgaszervező mellett működő vizsgabizottság előtt vizsgát tett vizsgázók száma, valamint a kezdő és
+a befejező törzslapszám;
+6. a vizsga helyszíne és időpontja;
+
+7. a vizsgabizottság elnökének, tagjainak – külön megjelölve a képző intézményt képviselő tagot –, a vizsga
+jegyzőjének és a vizsgaszervező vezetőjének az aláírása; továbbá
+8. tájékoztatás arról, hogy
+a) a törzslap a szakképzési feladatot ellátó hatóság Országos Törzslapnyilvántartó Rendszeréből került
+kinyomtatásra,
+b) a törzslap a vizsgán a vizsgabizottság előtt vizsgázók vizsgaszervező által rögzített adatait és eredményeit
+tartalmazza, valamint
+c) a törzslap adatai a kinyomtatott és hitelesített példány elküldését követően nem módosíthatók.
+(1b) A törzslap belív az alábbi adatokat tartalmazza:
+1. törzslap száma;
+2. a vizsgázó
+a) neve, születési neve,
+b) születési helye, ideje,
+c) anyja születési neve,
+d) tanulói azonosító száma;
+3. a képző intézmény
+a) megnevezése és címe, valamint
+b) OM azonosítója, ha a képző intézmény köznevelési intézmény;
+4. a 3. pont szerinti képző intézmény képzésének
+a) engedélyére szóló nyilvántartásba vételi száma és a nyilvántartásba vétel időpontja vagy az engedély
+megszerzése alóli mentesség jogszabályi hivatkozása,
+b) kezdési és befejezési időpontja;
+5. a részszakképesítés, szakképesítés, szakképesítés-ráépülés
+a) azonosító száma és megnevezése,
+b) Magyar Képesítési Keretrendszer szerinti szintje,
+c) Európai Képesítési Keretrendszer szerinti szintje;
+6. a vizsgázó szakmai vizsgán elért eredménye osztályzattal;
+7. a szakmai vizsgabizottság határozata és záradékok;
+8. a kiállított bizonyítvány sorozatjele és sorszáma;
+9. a vizsgafeladatok megnevezése a szakmai és vizsgakövetelmény szerinti sorrendben; valamint
+10. a 9. pont szerinti vizsgafeladatokhoz kapcsolódó vizsgatevékenység jellege, értékelési súlyaránya és az elért
+eredmény osztályzattal.”
+7. §
+Az R2. 44. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+„(1a) A vizsgabizottság elnöke és a vizsgaszervező vezetője által hitelesített bizonyítvány az alábbi adatokat
+tartalmazza:
+1. a bizonyítvány sorozatjele, sorszáma;
+2. a bizonyítvány kiállításának alapjául szolgáló törzslap száma;
+3. a vizsgázó
+a) neve, születési neve,
+b) születési helye, ideje,
+c) anyja születési neve, valamint
+d) tanulói azonosító száma;
+4. a képző intézmény megnevezése;
+5. a vizsgaszervező megnevezése, amely mellett működő szakmai vizsgabizottság előtt a vizsgázó szakmai vizsgát
+tett;
+6. a szakmai vizsga eredménye osztályzattal;
+7. az azonosító szám és a megnevezés megjelölésével tájékoztatás arról, hogy a bizonyítvány az Szt. 9. §-a
+értelmében melyik, az Országos Képzési Jegyzékben meghatározott szakképesítés, részszakképesítés,
+szakképesítés-ráépülés megszerzését igazolja;
+
+8. a 7. pont szerinti szakképesítés, részszakképesítés, szakképesítés-ráépülés
+a) Magyar Képesítési Keretrendszer szerinti szintje,
+b) Európai Képesítési Keretrendszer szerinti szintje;
+9. a bizonyítvány kiállításának helye és ideje; valamint
+10. a szakmai vizsgabizottság elnökének és a vizsgaszervező vezetőjének az aláírása.
+(1b) A bizonyítvány formanyomtatványát az állami szakképzési és felnőttképzési szerv a honlapján közzéteszi.”
+8. § (1) Az R2. 46. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A magyar és az angol nyelvű bizonyítvány-kiegészítő ingyenesen és elektronikus formában, külön kérésre
+papíralapú iratként kerül kiadásra.”
+(2) Az R2. 46. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A német, francia, spanyol vagy olasz nyelvű bizonyítvány-kiegészítő elektronikus formában, külön kérésre
+papíralapú iratként kerül kiadásra, a kiadásáért a kérelmező térítési díjat fizet a vizsgaszervező részére. A térítési
+díj a bizonyítvány-kiegészítő kiadásával kapcsolatos igazolt költség fedezetéül szolgál, amelynek összege a teljes
+munkaidőben foglalkoztatott munkavállaló részére megállapított, az adott naptári év január 1-jén érvényes kötelező
+legkisebb munkabér (minimálbér) havi összegének öt százaléka bizonyítvány-kiegészítőnként.”
+9. §
+Az R2. a következő 21/A. alcímmel egészül ki:
+„21/A. A mellék-szakképesítés megszerzésére irányuló vizsgára vonatkozó különös szabályok
+59/A. § (1) A mellék-szakképesítés megszerzésére irányuló vizsga megszervezésére és lebonyolítására az iskolai
+rendszerű szakképzésben tartott vizsgára vonatkozó szabályokat kell alkalmazni az ebben az alcímben foglalt
+eltérésekkel.
+(2) Mellék-szakképesítés megszerzésére irányuló vizsga a szakgimnáziumokban, a szakgimnáziumok középiskolai
+évfolyamain tanulók számára szervezhető.
+(3) A mellék-szakképesítés megszerzésére irányuló vizsga esetén összevont vizsga az OKJ szerint azonos
+szakmacsoportba tartozó szakképesítések vonatkozásában is szervezhető.
+(4) A vizsgázónak a mellék-szakképesítés megszerzésére irányuló vizsgára való jelentkezéskor be kell mutatnia
+a szakképzés befejezését igazoló bizonyítványként a vizsgát közvetlenül megelőző tanulmányi időszak teljesítését
+igazoló bizonyítványt vagy félévi értesítőt.
+(5) Ha a mellék-szakképesítés megszerzésére irányuló vizsgán megszerezhető szakképesítés vagy részszakképesítés
+szakmai és vizsgakövetelményei lehetőséget adnak a szakmai érettségi vizsgatárgy eredményének a vizsga
+eredményébe történő beszámítására, akkor a vizsgázónak a vizsgára történő jelentkezéskor a jelentkezési lapon
+nyilatkoznia kell arról, hogy kéri-e a beszámítást.
+(6) Ha a sikertelen vizsgát követő vizsgaidőszak a vizsgázó érettségi vizsgájának a vizsgaidőszaka,
+a mellék-szakképesítés megszerzésére irányuló vizsga javító- vagy pótlóvizsgájára csak a vizsgázó erre irányuló
+írásbeli kérelmére kerülhet sor, és a vizsgaszervező a javító- vagy pótlóvizsga lehetőséget az érettségi vizsga
+vizsgaidőszakát követő vizsgaidőszakban is köteles biztosítani.
+(7) Ha a mellék-szakképesítés megszerzésére irányuló vizsga vizsgaszervezője a bizonyítvány kiállítása és kiadása
+előtt jogutód nélkül megszűnik, a bizonyítványt az állami szakképzési és felnőttképzési szerv állítja ki. Ebben
+az esetben a törzslapot a 3. melléklet 15. pontja szerinti záradékkal is el kell látni.
+59/B. § (1) Ha a mellék-szakképesítés megszerzésére irányuló vizsgán megszerezhető szakképesítés vagy
+részszakképesítés érettségi végzettséghez kötött és a mellék-szakképesítés megszerzésére irányuló
+vizsga eredményesen zárult, akkor a törzslapot a 3. melléklet 9. pontja szerinti záradékkal kell ellátni és
+a vizsgaszervezőnek a vizsgázó részére az 59/D. § (1) bekezdése szerinti adattartalmú, az elektronikus rendszerből
+kinyomtatott, a vizsgabizottság körbélyegzőjével hitelesített igazolást kell kiadnia. A 43. § (1) bekezdése szerint
+kiállított törzslapot a 48. § (1) bekezdése szerint meg kell küldeni a szakképzési feladatot ellátó hatóságnak.
+(2) Az (1) bekezdés szerinti vizsgához kapcsolódóan a bizonyítvány a vizsgát követő három éven belül, az érettségi
+bizonyítvány megszerzését követően, a törzslapnak az elektronikus rendszerben a 3. melléklet 10. pontja szerinti
+záradékkal történő ellátása és a bizonyítvány sorozatjelének és sorszámának a törzslapon történő feltüntetése
+mellett, a kiállítás dátumának feltüntetésével állítható ki. A bizonyítványon a vizsgaelnök nevét jól olvashatóan,
+nyomtatott betűvel, nem fakuló tintával kell az aláírás helyén feltüntetni és a bizonyítványt a vizsgabizottság
+körbélyegzőjének lenyomatával hitelesíteni.
+
+(3) A bizonyítvány kiállítását követően a törzslapot kettő példányban ki kell nyomtatni és a kinyomtatott törzslap
+egy példányát a vizsgaszervező vezetője által hitelesítetten a 48. § (1) bekezdése szerinti határidővel meg kell
+küldeni a szakképzési feladatot ellátó hatóságnak.
+(4) Ha a mellék-szakképesítés megszerzésére irányuló vizsgán megszerezhető szakképesítés vagy részszakképesítés
+érettségi végzettséghez kötött és a vizsga eredménytelen volt, akkor a törzslapot a 3. melléklet 4. pontja szerinti
+záradékkal kell ellátni.
+59/C. § (1) Ha a vizsgázó kéri az 59/A. § (5) bekezdése szerinti beszámítást, akkor a vizsgán csak a beszámítással nem
+érintett vizsgafeladatokhoz kapcsolódó tudásról kell számot adnia (a továbbiakban: részvizsga).
+(2) Részvizsga esetén a részvizsgán teljesített vizsgafeladatok eredményét kell a törzslapon rögzíteni. Ha
+a beszámítással nem érintett összes vizsgafeladat eredményes, akkor a 3. melléklet 11. pontja szerinti záradékkal
+ellátott törzslapot kell a 43. § (1) bekezdése szerint kiállítani és a 48. § (1) bekezdése szerint beküldeni a szakképzési
+feladatot ellátó hatóságnak. A teljesített vizsgafeladatokról a vizsgaszervező, az 59/D. § (1) bekezdése szerinti
+adattartalmú, az elektronikus rendszerből kinyomtatott, a vizsgabizottság körbélyegzőjének lenyomatával
+hitelesített igazolást állít ki a vizsgázó számára. Az igazoláson fel kell tüntetni, hogy mely vizsgafeladat eredménye
+kerül az eredményes szakmai érettségi vizsgatárgy alapján megállapításra.
+(3) Az eredményes részvizsgához kapcsolódóan a bizonyítvány a mellék-szakképesítés szakmai és
+vizsgakövetelményének megváltozásáig, de legalább a vizsgázó 12. évfolyamos tanulmányai utáni első
+vizsgaidőszakot követően egy évig,
+a) érettségi végzettséghez nem kötött szakképesítés vagy részszakképesítés esetén a beszámítás alapjául
+szolgáló érettségi szakmai vizsgatárgy eredményes letételét igazoló dokumentum bemutatását és annak alapján
+a bizonyítvány érdemjegyének megállapítását követően,
+b) érettségi végzettséghez kötött szakképesítés vagy részszakképesítés esetén a beszámítás alapjául szolgáló
+érettségi bizonyítvány, tanúsítvány bemutatását és annak alapján a bizonyítvány érdemjegyének megállapítását
+követően
+állítható ki.
+(4) A (3) bekezdés szerint kiállított bizonyítványon a vizsgaelnök nevét jól olvashatóan, nyomtatott betűvel, nem
+fakuló tintával kell az aláírás helyén feltüntetni és a bizonyítványt a vizsgabizottság körbélyegzőjének lenyomatával
+hitelesíteni. A bizonyítványhoz tartozó törzslapra az elektronikus rendszerben rá kell vezetni a hiányzó eredményt,
+a kiállított bizonyítvány sorozatjelét és sorszámát, a kiállítás dátumát, valamint a törzslapot
+a) a (3) bekezdés a) pontja esetében a 3. melléklet 12. pontja szerinti,
+b) a (3) bekezdés b) pontja esetében a 3. melléklet 13. pontja szerinti
+záradékkal kell ellátni.
+(5) A bizonyítvány kiállítását követően a törzslapot kettő példányban ki kell nyomtatni és a kinyomtatott törzslap
+egy példányát a vizsgaszervező vezetője által hitelesítetten a 48. § (1) bekezdése szerinti határidővel meg kell
+küldeni a szakképzési feladatot ellátó hatóságnak.
+(6) Ha a (3) bekezdés szerinti határidőig nem kerül sor a bizonyítvány kiállításához szükséges dokumentum
+bemutatására, a törzslapot a 3. melléklet 14. pontja szerinti záradékkal kell lezárni.
+(7) A részvizsga változó díjának meghatározásakor a kategóriába sorolást csak a beszámítással nem érintett
+vizsgatevékenységek szakmai és vizsgakövetelményben foglalt adatai alapján kell elvégezni.
+59/D. § (1) A szakmai vizsga, részvizsga teljesítéséről kiállított igazolás az alábbi adatokat tartalmazza:
+1. a vizsgázó
+a) neve, születési neve,
+b) születési helye, ideje,
+c) anyja születési neve, valamint
+d) tanulói azonosító száma;
+2. tájékoztatás arról, hogy a vizsgázó
+a) melyik vizsgaszervező mellett működő szakmai vizsgabizottság előtt, valamint
+b) melyik – az azonosító szám és megnevezés megjelölésével – szakképesítés, részszakképesítés szakmai vizsgáját,
+részvizsgáját
+tette le;
+3. a vizsgafeladatok megnevezése a szakmai és vizsgakövetelmény szerinti sorrendben;
+4. a 3. pont szerinti vizsgafeladatokhoz kapcsolódó vizsgatevékenység jellege, értékelési súlyaránya és az elért
+eredmény osztályzattal;
+
+5. a szakmai vizsga eredménye osztályzattal;
+6. tájékoztatás arról, hogy
+a) az igazolás állam által elismert szakképzettséget nem tanúsít, valamint
+b) az Szt. 9. § (4) bekezdése értelmében az igazolásban megjelölt szakképesítés, részszakképesítés megszerzését
+igazoló bizonyítvány az érettségi végzettség megszerzését követően állítható ki;
+7. a bizonyítvány kiállításának helye és ideje;
+8. tájékoztatás arról, hogy
+a) a törzslap a szakképzési feladatot ellátó hatóság Országos Törzslapnyilvántartó Rendszeréből került
+kinyomtatásra,
+b) a törzslap a fentiek szerinti vizsgán a vizsgabizottság előtt vizsgázók vizsgaszervező által rögzített adatait és
+eredményeit tartalmazza, valamint
+c) a törzslap adatai a kinyomtatott és hitelesített példány elküldését követően nem módosíthatók; továbbá
+9. a szakmai vizsgabizottság elnökének és a vizsgaszervező vezetőjének az aláírása.
+(2) Az igazolás formanyomtatványát az állami szakképzési és felnőttképzési szerv a honlapján közzéteszi.”
+10. §
+Az R2. 65. §-a helyébe a következő rendelkezés lép:
+„65. § A 46. § (3) bekezdése és a 4. melléklet a készségekkel és képesítésekkel kapcsolatban nyújtott jobb
+szolgáltatások közös keretrendszeréről (Europass) és a 2241/2004/EK határozat hatályon kívül helyezéséről szóló,
+2018. április 18-i (EU) 2018/646 európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket
+állapít meg.”
+11. §
+Az R2. a következő 66. §-sal egészül ki:
+„66. § (1) A 2019. január 1-jét megelőzően hatályos 2. melléklet szerinti tartalmú és kitöltetlen bizonyítványok
+2019. december 31-ig használhatók fel.
+(2) Az (1) bekezdés szerinti bizonyítványt annak kiállításakor a keltezés feletti részen a 3. melléklet 16. pontja szerinti
+záradékkal kell ellátni.”
+12. §
+Az R2. a következő 67. §-sal egészül ki:
+„67. § A 46. § (3) bekezdésében foglaltakat a szakképzési és felnőttképzési tárgyú kormányrendeletek módosításáról
+szóló 307/2018. (XII. 27.) Korm. rendelet hatálybalépését követően benyújtott kérelmek esetén kell alkalmazni.”
+13. §
+Az R2. 3. melléklete az 1. melléklet szerint módosul.
+14. §
+Az R2.
+a) 41. § (1) bekezdésében az„az 1. melléklet szerinti törzslap”szövegrész helyébe az„a törzslap”szöveg,
+b) 44. § (1) bekezdésében az „a 2. melléklet alapján” szövegrész helyébe az „az (1a) bekezdés szerinti
+adattartalommal”szöveg
+lép.
+15. §
+Hatályát veszti az R2. 1. és 2. melléklete.
+4. A felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárásra és
+követelményrendszerre, a felnőttképzést folytató intézmények nyilvántartásának vezetésére, valamint
+a felnőttképzést folytató intézmények ellenőrzésére vonatkozó részletes szabályokról szóló
+393/2013. (XI. 12.) Korm. rendelet módosítása
+16. §
+A felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárásra és követelményrendszerre,
+a felnőttképzést folytató intézmények nyilvántartásának vezetésére, valamint a felnőttképzést folytató intézmények
+ellenőrzésére vonatkozó részletes szabályokról szóló 393/2013. (XI. 12.) Korm. rendelet (a továbbiakban: R3.) 29. §
+(1) bekezdése a következő 18. ponttal egészül ki:
+[A kormányhivatal az Fktv. 20. § (5) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés
+c) pontjában meghatározott jogalany]
+„18. nem végeztette el tevékenységének kétévente kötelező külső értékelését.”
+
+17. §
+Hatályát veszti az R3.
+a) 11. § (1a) bekezdése,
+b) 11. § (2) bekezdésében az„és az (1a)”szövegrész,
+c) 25. § (2) bekezdése.
+5. A Nemzeti Szakképzési és Felnőttképzési Hivatalról szóló 319/2014. (XII. 13.) Korm. rendelet módosítása
+18. §
+A Nemzeti Szakképzési és Felnőttképzési Hivatalról szóló 319/2014. (XII. 13.) Korm. rendelet
+(a továbbiakban: R4.) 5. § (1) bekezdés 27. pontja helyébe a következő rendelkezés lép:
+(A Hivatal)
+„27. a képző és pihenő központon keresztül biztosítja a miniszter által vezetett minisztérium szakképzéssel és
+felnőttképzéssel kapcsolatos feladatokat ellátó szervezeti egységei, valamint a Hivatal és a szakképzési centrumok
+számára képzések, továbbképzések, szakmai fórumok lebonyolítását,”
+19. § (1) Az R4. 5/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Hivatal a szakképzési centrum tekintetében középirányító szervként gyakorolja – az államháztartásról szóló
+2011. évi CXCV. törvény 9. § b), valamint e)–i) pontja szerinti hatáskörök keretein belül – a nemzeti köznevelésről
+szóló törvényben és szakképzésről szóló törvényben a fenntartó számára meghatározott hatásköröket és
+a szakképzési centrum tevékenységének pénzügyi ellenőrzését.”
+(2) Az R4. 5/A. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+„(1a) Az (1) bekezdésben meghatározott feladatai ellátása során a Hivatal
+1. javaslatot tesz a miniszter részére szakképzési centrum létesítésére, átszervezésére, megszüntetésére,
+alapfeladatának módosítására, nevének megállapítására irányuló döntés meghozatalára, közreműködik a döntés
+előkészítésében, a javaslattételt megelőzően beszerzi a jogszabály alapján véleményezési, egyetértési joggal
+rendelkezők véleményét, egyetértését,
+2. a miniszter részére felterjeszti a szakképzési centrum alapító okiratát, annak módosító vagy megszüntető okiratát,
+3. jóváhagyja a szakképzési centrum szervezeti és működési szabályzatát, illetve éves munkatervét,
+4. a szakképzési centrumok javaslata alapján átfogó beruházási tervet készít, valamint összegzi a szakképzési
+centrumok fejlesztési terveit, majd gondoskodik ezeknek a miniszter felé történő továbbításáról,
+5. értékeli a szakképzési centrum szakmai feladatai végrehajtásához szükséges feltételek meglétét, valamint szervezi
+és irányítja azok megteremtését,
+6. szervezi, irányítja és ellenőrzi a szakképzési centrumok gazdálkodását, és ennek keretében ellátja az irányító szerv
+hatáskörébe sorolt előirányzat- és vagyongazdálkodási feladatokat is,
+7. meghatározza a szakképzési centrumok előirányzatainak felhasználására vonatkozó irányelveket, figyelemmel
+kíséri a költségvetés végrehajtását, illetve az ellátandó feladatok teljesülését,
+8. érvényesíti, illetve – módszertani segítséget is nyújtva – érvényesítteti a szakképzési centrumok tevékenységében
+a közfeladatok ellátására vonatkozó követelményeket, és az erőforrásokkal, így különösen a szakképzési centrum
+költségvetési előirányzatával, létszámával és a vagyonkezelésében vagy használatában álló vagyonnal való
+szabályszerű és hatékony gazdálkodás követelményeit, valamint ellenőrzi és számon kéri azok megvalósulását,
+9. ellátja a szakképzési centrumok költségvetés tervezéssel összefüggő feladatait, és előterjeszti azokat
+a miniszternek,
+10. ellátja a szakképzési centrumok éves és évközi költségvetési beszámolási tevékenységével kapcsolatos irányító
+szervi feladatokat, és gondoskodik azok határidőre történő benyújtásáról, felülvizsgálatáról, majd a miniszter felé
+történő továbbításáról,
+11. szükség esetén javaslatot tesz a miniszter felé az erőforrások szakképzési centrumok közötti átcsoportosítására,
+illetve egyéb intézkedésre,
+12. folyamatos nyilvántartást vezet a szakképzési centrumok gazdálkodásáról, így különösen az előirányzatokkal
+és létszámmal való gazdálkodásról, valamint összegyűjti és ellenőrzi a kötelező, rendszeres és eseti jellegű
+adatszolgáltatásokat, szükség szerint összesítve továbbítja azokat a miniszter felé,
+13. kizárólagos joggal ellátja a szakképzési centrumok által használt egységes informatikai rendszerek, elektronikus
+adatbázisok és alkalmazások üzemeltetésével és informatikai fejlesztésével kapcsolatos, valamint az adatkezeléshez
+kapcsolódó, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti
+adatfeldolgozói feladatokat,
+
+14. ellátja a nemzeti köznevelésről szóló 2011. évi CXC. törvény 37. § (3) bekezdésében meghatározott fenntartói
+feladatokat,
+15. végrehajtja a miniszter által meghatározott egyéb feladatokat.
+(1b) A Hivatal (1a) bekezdés 13. pontjában meghatározott kizárólagos üzemeltetési, fejlesztési és adatfeldolgozási
+kötelezettsége azon adatbázisokra és alkalmazásokra terjed ki, amelyeket ő maga hozott létre, vagy amelyek
+tekintetében a szoftverhez, mint szerzői műhöz kapcsolódó felhasználási jogokat megszerezte.”
+20. §
+Az R4.
+a) 2. § (1) bekezdésében
+aa) a„főigazgató”szövegrész helyébe az„elnök”szöveg,
+ab) a„főigazgató-helyettesek”szöveg helyébe az„elnökhelyettesek”szöveg,
+b) 2. § (2) bekezdésében
+ba) az„A főigazgató-helyetteseket”szöveg helyébe az„Az elnökhelyetteseket”szöveg,
+bb) a„főigazgatója”szövegrész helyébe az„elnöke”szöveg,
+c) 5/A. § (2) bekezdésében a„Hivatal főigazgatója”szövegrész helyébe a„Hivatal elnöke”szöveg
+lép.
+21. §
+Hatályát veszti az R4.
+a) 5. § (1) bekezdés 25. pontja,
+b) 5. § (6) bekezdésében a„valamint a Nemzeti Képesítési Bizottság”szövegrész.
+6. A Szakképzési Hídprogramban részt vevő tanulók ösztöndíjáról, valamint a részt vevő pedagógusok
+pótlékáról szóló 322/2016. (X. 27.) Korm. rendelet módosítása
+22. §
+A Szakképzési Hídprogramban részt vevő tanulók ösztöndíjáról, valamint a részt vevő pedagógusok pótlékáról szóló
+322/2016. (X. 27.) Korm. rendelet
+a) 2. mellékletében foglalt
+aa) 12. Pedagógusok pótlékának igénylése megnevezésű táblázat 12.3. sorában az„f=e*0,27”szövegrész
+helyébe az„f=e* a mindenkori szociális hozzájárulási adó mértéke”szöveg,
+ab) 13. Pedagógusok pótlékának pótigénylése (az első évfolyam első félévében) megnevezésű táblázat
+13.3. sorában az „f=e*0,27” szövegrész helyébe az „f=e* a mindenkori szociális hozzájárulási adó
+mértéke”szöveg,
+b) 3. mellékletében foglalt 11. Pedagógusok pótlékának elszámolása megnevezésű táblázat 11.3. sorában
+a„h=g*0,27”szövegrész helyébe a„h=g* a mindenkori szociális hozzájárulási adó mértéke”szöveg
+lép.
+7. A szakképzési feladatot ellátó hatóság kijelöléséről és a szakképzési hatósági feladatok ellátásáról
+szóló 483/2016. (XII. 28.) Korm. rendelet módosítása
+23. §
+Hatályát veszti a szakképzési feladatot ellátó hatóság kijelöléséről és a szakképzési hatósági feladatok ellátásáról
+szóló 483/2016. (XII. 28.) Korm. rendelet 2. § c) pontja.
+8. Záró rendelkezések
+24. §
+Ez a rendelet 2019. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 307/2018. (XII. 27.) Korm. rendelethez
+Az R2. 3. melléklete a következő 9–16. ponttal egészül ki:
+(ZÁRADÉKOK)
+„„9. a) „A vizsgán a vizsgakövetelményeknek megfelelt, .................................................... részszakképesítés megszerzését
+igazoló bizonyítványa az érettségi végzettség megszerzését követően adható ki.”
+9. b)„A vizsgán a vizsgakövetelményeknek megfelelt, .................................................... szakképesítés megszerzését igazoló
+bizonyítványa az érettségi végzettség megszerzését követően adható ki.”
+10. a) „A .................................................... dátummal kiállított, .................................................... számú érettségi bizonyítványa
+alapján a részszakképesítés megszerzését igazoló bizonyítványa .................................................... dátummal kiadásra
+került.”
+10. b) „A .................................................... dátummal kiállított, .................................................... számú érettségi bizonyítványa
+alapján a szakképesítés megszerzését igazoló bizonyítványa .................................................... dátummal kiadásra került.”
+11. „A vizsgán a(z) .................................................... vizsgafeladato(ka)t eredményesen teljesítette, vizsgaeredménye
+a szakmai érettségi vizsgatárgy eredményes teljesítését követően kerül megállapításra.”
+12. a) „A .................................................... dátummal kiállított, .................................................... számú érettségi bizonyítványa
+vagy a(z) .................................................... számú érettségi törzslapkivonata alapján a vizsgakövetelményeknek
+megfelelt, .................................................... dátummal .................................................... részszakképesítés megszerzését igazoló
+bizonyítványt kapott.”
+12. b) „A .................................................... dátummal kiállított, .................................................... számú érettségi bizonyítványa
+vagy a(z)…….. számú érettségi törzslapkivonata alapján a vizsgakövetelményeknek megfelelt, ...........................................
+......... dátummal .................................................... szakképesítés megszerzését igazoló bizonyítványt kapott.”
+13. a) „A .................................................... dátummal kiállított, .................................................... számú érettségi bizonyítványa
+alapján a vizsgakövetelményeknek megfelelt, .................................................... dátummal ....................................................
+részszakképesítés megszerzését igazoló bizonyítványt kapott.”
+13. b) „A .................................................... dátummal kiállított, .................................................... számú érettségi bizonyítványa
+alapján a vizsgakövetelményeknek megfelelt, .................................................... dátummal ....................................................
+szakképesítés megszerzését igazoló bizonyítványt kapott.”
+14. „A .................................................... megnevezésű vizsgafeladat(ok) esetében a felmentés alapjául szolgáló
+dokumentumokat határidőig nem mutatta be, a vizsga eredménytelen.”
+15.„A mellék-szakképesítés megszerzésére irányuló vizsga vizsgaszervezője a bizonyítvány kiállítása és kiadása előtt
+jogutód nélkül megszűnt, ezért a bizonyítványt az állami szakképzési és felnőttképzési szerv állította ki.”
+16.„A fenti képesítés
+Magyar Képesítési Keretrendszer szerinti szintje:
+Európai Képesítési Keretrendszer szerinti szintje:”“
