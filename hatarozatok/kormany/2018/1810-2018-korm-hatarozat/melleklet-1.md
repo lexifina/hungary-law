@@ -16,7 +16,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1810/2018. (XII. 23.) Korm. határozathoz
+1. melléklet az 1810/2018. (XII. 23.) Korm. határozathoz[^1]
 
 | Sorszám | Kedvezményezett neve | Támogatási cél | Támogatási összeg (forint) |
 
@@ -68,7 +68,7 @@
 
 | 24. | Szlovákiai Református Keresztyén Egyház | Kárpát-medencei óvodafejlesztési program támogatása | 1 644 095 000 |
 
-| 25. | Kárpátaljai Magyar Pedagógusszövetség | Kárpát-medencei óvodafejlesztési program támogatása | 888 790 736 |
+| 25. | Kárpátaljai Magyar Pedagógusszövetség | Kárpát-medencei óvodafejlesztési program támogatása | 858 210 961 |
 
 | 26. | Kárpát-medencei Magyarság Evangelizációjáért Alapítvány | Kárpát-medencei Magyarság Egység támogatása | 30 000 000 |
 
@@ -82,15 +82,15 @@
 
 | 31. | Sapientia Alapítvány | A szervezet ingatlan-beruházásainak támogatása | 2 520 000 000 |
 
-| 32. | Szent Mihály és Gábor Arkangyalok Magyar Görög Katolikus Plébánia | A nagypereskei görög katolikus műemlék templom felújításának támogatása | 89 000 000 |
+| 32. | Görögkatolikus Egyház Nagypeleske | A nagypeleskei görög katolikus műemlék templom felújításának támogatása | 89 000 000 |
 
-| 33. | Keresztelő Szent János Plébánia | Szatmárnémeti görög katolikus templom felújítási munkálatainak támogatása | 19 000 000 |
+| 33. | Keresztelő Szent János Görögkatolikus Parókia | Szatmárnémeti görög katolikus templom felújítási munkálatainak támogatása | 19 000 000 |
 
 | 34. | Futball Club Csíkszereda Egyesület | Márton Áron Tehetséggondozó Központ működésének támogatása | 170 000 000 |
 
 | 35. | Futball Club Lendva 1903 | A szervezet működésének és fejlesztésének támogatása | 300 000 000 |
 
-| 36. | DAC Academy AF | A szervezet működésének és fejlesztésének támogatása | 1 350 000 000 |
+| 36. | DAC Academy a.s. | A szervezet működésének és fejlesztésének támogatása | 1 350 000 000 |
 
 | 37. | „TSC” Labdarúgó Klub | A szervezet működésének és fejlesztésének támogatása | 1 400 000 000 |
 
@@ -100,8 +100,10 @@
 
 | 40. | Futball Club Csíkszereda Egyesület | A szervezet működésének és fejlesztésének támogatása | 2 000 000 000 |
 
-| 41. | Sepsiszentgyörgyi Labdarúgó Akadémai (Sepsi OSK) | A szervezet működésének és fejlesztésének támogatása | 2 100 000 000 |
+| 41. | SEPSI OSK S.A. (Sepsiszentgyörgy) | A szervezet működésének és fejlesztésének támogatása | 2 100 000 000 |
 
 | 42. | Osijek FC Labdarúgó Akadémia | A szervezet működésének és fejlesztésének támogatása | 1 000 000 000 |
 
 | 43. | Bicskei Torna Club Egyesület | Határon túli ingatlanfejlesztés támogatása | 120 000 000 |
+
+[^1]: Az 1. melléklet az 1835/2018. (XII. 27.) Korm. határozat 2. pontja szerint módosított szöveg.
