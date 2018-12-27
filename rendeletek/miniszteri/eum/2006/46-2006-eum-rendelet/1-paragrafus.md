@@ -10,6 +10,9 @@
 
 (6)[^3] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 5/B. § k) pontja szerinti intézményi várólistának, illetve u) pontja szerinti előjegyzési listának az egészségügyi szolgáltató honlapjáról elérhetőnek kell lennie.
 
+(7)[^4] A várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006. (XII. 23.) Korm. rendelet 12. § (1) bekezdésében meghatározott PET/CT központi várólista nyilvántartási rendszernek a PET-ellátásra szóló beutaló kiállítására jogosult szakorvos egészségügyi szolgáltatója, valamint a PET-ellátást végző egészségügyi szolgáltató honlapjáról elérhetőnek kell lennie.
+
 [^1]: Az 1. § (2) bekezdését a 8/2012. (VI. 29.) EMMI rendelet 5. § a) pontja hatályon kívül helyezte.
 [^2]: Az 1. § (5) bekezdése a 8/2012. (VI. 29.) EMMI rendelet 5. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (6) bekezdése a 11/2014. (II. 24.) EMMI rendelet 45. §-ával megállapított szöveg.
+[^4]: Az 1. § (7) bekezdését a 45/2018. (XII. 19.) EMMI rendelet 3. §-a iktatta be.
