@@ -20,8 +20,6 @@ Határidő: az a) alpont tekintetében a 2019. évi központi költségvetés v�
 
 a b)–d) alpontok tekintetében a 2020–2022. évi költségvetés tervezése során
 
-3. felhívja a miniszterelnök általános helyettesét, hogy a Beruházás megvalósítása érdekében, a 2. pont a) alpont szerinti forrás terhére adjon ki – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a alapján – támogatói okiratot az Esztergom-Budapesti Főegyházmegye részére elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében pedig visszafizetési kötelezettség rögzítésével.
+3.[^1]
 
-Felelős: a miniszterelnök általános helyettese
-
-Határidő: a 2019. évi forrás rendelkezésre állását követően azonnal
+[^1]: A 3. pontot az 1835/2018. (XII. 27.) Korm. határozat 5. pontja visszavonta.
