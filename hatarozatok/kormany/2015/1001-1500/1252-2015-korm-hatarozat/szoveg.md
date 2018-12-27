@@ -75,3 +75,17 @@ emberi erőforrások minisztere
 nemzetgazdasági miniszter
 
 Határidő: azonnal
+
+8.[^1] Zalaegerszeg kulturális életének élénkítése, a város kulturális szerepének erősítése céljából
+
+a) egyetért a zalaegerszegi Hevesi Sándor Színház felújításának támogatásával,
+
+b) felhívja a Miniszterelnökséget vezető minisztert és az emberi erőforrások miniszterét, hogy Zalaegerszeg Megyei Jogú Város Önkormányzatával egyeztetve tegyék meg a szükséges intézkedéseket az a) alpont szerinti rekonstrukciót és fejlesztést szolgáló beruházás előkészítéséhez és megvalósításához szükséges források biztosítására.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+emberi erőforrások minisztere
+
+Határidő: 2018. december 31.
+
+[^1]: A 8. pontot az 1826/2018. (XII. 27.) Korm. határozat iktatta be.
