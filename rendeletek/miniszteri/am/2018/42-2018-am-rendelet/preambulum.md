@@ -1,0 +1,1 @@
+A természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 19. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 79. § 10. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
