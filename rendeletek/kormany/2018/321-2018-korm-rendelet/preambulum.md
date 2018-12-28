@@ -1,0 +1,1 @@
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotó hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva, az államháztartásról szóló 2011. évi CXCV. törvény 49. §-ában foglaltak figyelembevételével a következőket rendeli el:
