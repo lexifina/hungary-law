@@ -16,7 +16,7 @@ c) a dokumentáció és a nyilvántartások hiányossága, vagy
 
 d)[^98] az ellenőrzött szerv, illetve szervezeti egység jogsértő magatartása
 
-az ellenőrzés folytatását akadályozza.
+## az ellenőrzés folytatását akadályozza.
 
 (3)[^99] A belső ellenőrzési vezető az ellenőrzés megszakítása vagy felfüggesztése esetén arról írásban tájékoztatja az ellenőrzött szerv, illetve szervezeti egység vezetőjét, melyben az ellenőrzés felfüggesztése esetén határidő megállapításával egyúttal felhívja az ellenőrzött szerv, illetve szervezeti egység vezetőjét az akadály megszüntetésére. Az ellenőrzés megszakításáról vagy felfüggesztéséről a belső ellenőrzési vezető egyidejűleg írásban tájékoztatja az ellenőrzési tervét jóváhagyó vezetőt.
 

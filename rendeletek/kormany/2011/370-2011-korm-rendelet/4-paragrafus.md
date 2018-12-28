@@ -1,3 +1,5 @@
+## kialakításáért, működtetéséért és fejlesztéséért.
+
 ## 4. § A belső kontrollrendszer tartalmazza mindazon elveket, eljárásokat és belső szabályzatokat, melyek biztosítják, hogy
 
 a) a költségvetési szerv valamennyi tevékenysége és célja összhangban legyen a szabályszerűséggel, szabályozottsággal, valamint a gazdaságosság, hatékonyság és eredményesség követelményeivel,

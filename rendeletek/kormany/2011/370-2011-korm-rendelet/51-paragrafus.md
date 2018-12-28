@@ -16,8 +16,8 @@ g) kapcsolatot tart az illetékes európai uniós intézményekkel, a tagállamo
 
 h) felelős a belső kontrollrendszerrel és a belső ellenőrzéssel kapcsolatos kommunikációért és az érintett hazai szervezetekkel való kapcsolattartásért.
 
-(2)[^117] Az államháztartásért felelős miniszter az államháztartási belső kontrollrendszer helyzetéről és működéséről a tárgyévet követő évben július 31-ig éves jelentést terjeszt elő a Kormány részére, melyet előzetesen a szakmai egyeztető fórum érintett témacsoportjai megtárgyalnak.
+(2)[^117] Az államháztartásért felelős miniszter az államháztartási belső kontrollrendszer helyzetéről és működéséről a tárgyévet követő évben július 31-ig éves összefoglalót készít, melyet a szakmai egyeztető fórum érintett témacsoportjai megtárgyalnak.
 
 [^115]: Az 51. § (1) bekezdés nyitó szövegrésze a 175/2015. (VII. 7.) Korm. rendelet 35. § 9. pontja szerint módosított szöveg.
 [^116]: Az 51. § (1) bekezdés e) pontja a 414/2012. (XII. 29.) Korm. rendelet 11. § (7) bekezdésével megállapított szöveg.
-[^117]: Az 51. § (2) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 11. § (8) bekezdésével megállapított szöveg.
+[^117]: Az 51. § (2) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 33. §-ával megállapított szöveg.

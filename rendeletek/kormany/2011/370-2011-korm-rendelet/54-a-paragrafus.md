@@ -10,7 +10,5 @@ c) a Magyar Kármentő Alap Kármentő Bizottság esetében annak elnökét,
 
 d) az a)–c) pontban foglaltakon kívüli más jogi személy esetén a vezető tisztségviselő vagy a vezető tisztségviselőkből álló testület vezetőjét
 
-kell érteni.
-
 [^122]: Az 54. § a 414/2012. (XII. 29.) Korm. rendelet 11. § (10) bekezdésével megállapított, a 465/2015. (XII. 29.) Korm. rendelet 34. § 22. pontja szerint módosított szöveg.
 [^123]: Az 54/A. §-t a 497/2013. (XII. 29.) Korm. rendelet 68. §-a iktatta be, szövege a 465/2015. (XII. 29.) Korm. rendelet 32. §-ával megállapított szöveg.

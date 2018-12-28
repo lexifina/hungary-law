@@ -6,7 +6,7 @@ a)[^69] az irányító szerv belső ellenőrzési vezetőjét a fejezetet irány
 
 b) az irányító szerv irányítása alá tartozó költségvetési szervek belső ellenőrzési vezetőjét – az irányító szerv vezetőjének egyetértésével – a költségvetési szerv vezetője
 
-nevezi ki, menti fel és helyezi át.
+## nevezi ki, menti fel és helyezi át.
 
 (2)[^70] A Kormány irányítása alá tartozó fejezet fejezetet irányító szervének belső ellenőrzési vezetője kinevezéséhez az államháztartásért felelős miniszter, a kinevezéshez, felmentéshez, illetve áthelyezéshez a Hivatal elnökének előzetes véleményét ki kell kérni. A kinevezéshez kapcsolódóan a jelölt szakmai életrajzát és a kinevezés indokait, a felmentéshez, illetve áthelyezéshez kapcsolódóan pedig annak indokait kell csatolni.
 

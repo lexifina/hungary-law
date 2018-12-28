@@ -4,7 +4,7 @@ a) ideiglenes kapacitás kiegészítés vagy
 
 b) speciális szakértelem szükségessége esetén
 
-külső szolgáltató bevonására javaslatot tenni a költségvetési szerv vezetőjének.
+## külső szolgáltató bevonására javaslatot tenni a költségvetési szerv vezetőjének.
 
 (2) Ha a költségvetési szerv nem foglalkoztat belső ellenőrt, a költségvetési szerv vezetője köteles gondoskodni a költségvetési szerv belső ellenőrzési tevékenységének külső szolgáltató bevonásával történő megszervezéséről és ellátásáról.
 
