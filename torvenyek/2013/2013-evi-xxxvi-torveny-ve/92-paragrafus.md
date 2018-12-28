@@ -19,3 +19,5 @@ b) annak a – 277. § (2) bekezdése szerinti – településnek, illetve külk
 (4) A magyarországi lakcímmel nem rendelkező választópolgár – ha a kérelmet elektronikus azonosítás nélkül nyújtja be – köteles megadni, a magyarországi lakcímmel rendelkező választópolgár megadhatja a postacímét, e-mail címét vagy telefaxszámát, ahova a 95. § (3) bekezdése szerinti értesítés megküldését kéri.
 
 (5) A magyarországi lakcímmel nem rendelkező választópolgár a személyi azonosítója helyett megadhatja a személyazonosságát igazoló hatósági igazolványának számát.
+
+(6) A polgárok személyi és lakcím adatait tartalmazó nyilvántartásban nem szereplő választópolgár megadhatja a lakcímét.

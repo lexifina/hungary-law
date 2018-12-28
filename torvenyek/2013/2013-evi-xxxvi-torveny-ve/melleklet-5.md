@@ -20,7 +20,7 @@
 
 ## ba) nevét és lakcímét,
 
-## bb) személyi azonosítóját, ennek hiányában magyar hatóság által kiállított útlevelének vagy személyazonosító igazolványának számát,
+## bb) személyi azonosítóját, ennek hiányában magyar hatóság által kiállított útlevelének vagy személyazonosító igazolványának vagy vezetői engedélyének számát,
 
 ## bc) független jelölésének tényét vagy annak megjelölését, hogy melyik jelölő szervezet egyéni jelöltje, illetve melyik jelölő szervezet listáján szerepel,
 

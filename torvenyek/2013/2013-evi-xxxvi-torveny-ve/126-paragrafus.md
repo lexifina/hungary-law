@@ -8,12 +8,18 @@ c) az ajánlás megfelel a 122. §-ban foglalt követelményeknek.
 
 (2) Nem tekinthető érvénytelenségi oknak, ha az ajánló választópolgár
 
-a) nem tüntette fel a neve mellett a „dr.” megjelölést, de azt a szavazóköri névjegyzék tartalmazza;
+a) adatai az alábbi okból nem egyeznek meg a központi névjegyzék vagy a polgárok személyi és lakcím adatait tartalmazó nyilvántartás, a központi útiokmány-nyilvántartás vagy a vezetőiengedély-nyilvántartás adataival, de a választópolgár személyazonossága kétséget kizáróan megállapítható:
 
-b) feltüntette, de a szavazóköri névjegyzékben nem szerepel a neve részeként az ifjabb, idősebb, özvegy vagy más előtag, illetve ezen előtagok rövidítése,
+aa) ékezethiba,
 
-c) a neve esetében a szavazóköri névjegyzékben szereplő több utónév közül csak az egyiket tüntette fel,
+ab) írásmódbeli eltérés,
 
-d) lakcímében a település nevét, a közterület elnevezését vagy jellegét a szavazóköri névjegyzékben szereplő formától eltérően adta meg, de a lakcím az ellenőrzés során egyértelműen beazonosítható,
+ac) földrajzi név idegen nyelvű megjelölése,
 
-e) lakcímében a lépcsőház, emelet, ajtó megjelölését nem tüntette fel, vagy az eltér a szavazóköri névjegyzékben szereplő adattól.
+ad) adat más nyelven történő megadása,
+
+ae) több utóneve egyikének elhagyása, „dr.” megjelölés elhagyása vagy feltüntetése, az ifjabb, idősebb, özvegy vagy más előtag, illetve ezen előtagok rövidítésének feltüntetése,
+
+b) lakcímében a település nevét, a közterület elnevezését vagy jellegét a szavazóköri névjegyzékben szereplő formától eltérően adta meg, de a lakcím az ellenőrzés során egyértelműen beazonosítható,
+
+c) lakcímében a lépcsőház, emelet, ajtó megjelölését nem tüntette fel, vagy az eltér a szavazóköri névjegyzékben szereplő adattól.

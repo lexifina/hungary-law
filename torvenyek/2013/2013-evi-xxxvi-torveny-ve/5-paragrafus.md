@@ -4,7 +4,7 @@
 
 (2) Külképviseleti megfigyelő csak a központi névjegyzékben szereplő választópolgár lehet.
 
-(3) A külképviseleti megfigyelőt a Nemzeti Választási Bizottságnál – nevének és személyi azonosítójának, ennek hiányában magyar állampolgárságát igazoló okirata típusának és számának közlésével – a magyarországi szavazást megelőző tizedik napig kell bejelenteni. A Nemzeti Választási Bizottság a külképviseleti megfigyelőt nyilvántartásba veszi. A Nemzeti Választási Iroda a külképviseleti megfigyelő nevét és személyi azonosítóját, ennek hiányában magyar állampolgárságát igazoló okirata típusát és számát megküldi a külképviseleti választási iroda vezetőjének.
+(3) A külképviseleti megfigyelőt a Nemzeti Választási Bizottságnál – nevének és személyi azonosítójának, ennek hiányában személyazonosságát igazoló hatósági igazolványa típusának és számának közlésével – a magyarországi szavazást megelőző tizedik napig kell bejelenteni. A Nemzeti Választási Bizottság a külképviseleti megfigyelőt nyilvántartásba veszi. A Nemzeti Választási Iroda a külképviseleti megfigyelő nevét és személyi azonosítóját, ennek hiányában személyazonosságát igazoló hatósági igazolványa típusát és számát megküldi a külképviseleti választási iroda vezetőjének.
 
 (4) A Nemzeti Választási Bizottság által nyilvántartásba vett külképviseleti megfigyelő jelen lehet a külképviseleti választási iroda munkájánál. A külképviseleti megfigyelő
 

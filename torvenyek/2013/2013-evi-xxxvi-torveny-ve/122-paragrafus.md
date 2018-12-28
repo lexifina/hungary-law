@@ -2,7 +2,7 @@
 
 122. § (1) Az a választópolgár ajánlhat jelöltet, aki a választáson a választókerületben választójoggal rendelkezik.
 
-(2) Az ajánlóívre rá kell vezetni az ajánlást adó választópolgár nevét, személyi azonosítóját, magyarországi lakcímét, valamint az anyja nevét. Az ajánlóívet az ajánló választópolgár saját kezűleg aláírja.
+(2) Az ajánlóívre rá kell vezetni az ajánlást adó választópolgár nevét, személyi azonosítóját, magyarországi lakcímét. Az ajánlóívet az ajánló választópolgár saját kezűleg aláírja.
 
 (3) Egy választópolgár több jelöltet is ajánlhat.
 
@@ -10,4 +10,4 @@
 
 (5) Az ajánlás nem vonható vissza.
 
-(6) Az ajánlóíven az ajánlást gyűjtő személy feltünteti nevét és aláírását.
+(6) Az ajánlóíven az ajánlást gyűjtő személy feltünteti nevét, személyi azonosítóját – ha nem rendelkezik személyi azonosítóval, a személyazonosságát igazoló hatósági igazolványának számát – és aláírását.

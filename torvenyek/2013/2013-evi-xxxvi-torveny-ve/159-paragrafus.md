@@ -1,1 +1,1 @@
-159. § A jelölő szervezet nevének, rövidített nevének, illetve jelképének változását a szavazólap jóváhagyását követően a szavazólapon nem kell átvezetni.
+159. § A jelölő szervezet nevét valamennyi ajánlóíven és szavazólapon ugyanazon formában kell feltüntetni, függetlenül a jelölő szervezet nevének megváltozásától.

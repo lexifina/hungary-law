@@ -6,7 +6,7 @@
 
 ## b) a választópolgár személyi azonosítóját,
 
-## c) a választópolgár magyarországi lakóhelyének és tartózkodási helyének címét,
+## c) a választópolgár lakóhelyének és tartózkodási helyének címét,
 
 ## d) a választópolgár anyja nevét,
 
@@ -40,6 +40,10 @@
 
 ## o) a külföldön élő, magyarországi lakcímmel nem rendelkező választópolgár központi névjegyzékbe vételének, illetve a 97. § (1) bekezdés b) pontjában meghatározott cselekmény központi névjegyzékben történt rögzítésének dátumát,
 
-## p) ha a magyarországi lakcímmel nem rendelkező választópolgár a szavazási levélcsomag személyes átvételét kérte, az átvételre megjelölt település megjelölését.
+## p) a magyarországi lakcímmel nem rendelkező választópolgár esetében
+
+## pa) az átvételre megjelölt település megjelölését, ha a szavazási levélcsomag személyes átvételét kérte,
+
+## pb) a postacímet, ha a szavazási levélcsomag postai kézbesítését kérte.
 
 2/A. melléklet a 2013. évi XXXVI. törvényhez

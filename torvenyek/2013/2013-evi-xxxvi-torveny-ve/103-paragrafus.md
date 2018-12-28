@@ -12,7 +12,7 @@ ab) személyesen vagy elektronikus azonosítással elektronikus úton a szavazá
 
 ac) a szavazást megelőző második napon 16 órát követően elektronikus azonosítással elektronikus úton a szavazás napján 12 óráig,
 
-b) az illetékes szavazatszámláló bizottsághoz meghatalmazott útján vagy levélben a szavazás napján, legkésőbb 12 óráig
+b) az illetékes szavazatszámláló bizottsághoz meghatalmazott útján vagy meghatalmazással nem rendelkező személy általi kézbesítésével a szavazás napján, legkésőbb 12 óráig
 
 kell benyújtani.
 

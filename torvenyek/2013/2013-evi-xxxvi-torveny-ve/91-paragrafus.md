@@ -14,7 +14,7 @@ a) levélben,
 
 b) elektronikus azonosítását követően elektronikusan,
 
-c) elektronikusan azonosítás nélkül elektronikusan
+c) elektronikus azonosítás nélkül elektronikusan
 
 nyújthatja be a Nemzeti Választási Irodához.
 

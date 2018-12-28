@@ -4,4 +4,4 @@
 
 (2) Ha a választópolgár a kérelmet nem az elbírálásra jogosult helyi választási irodához nyújtja be, a kérelmet a helyi választási iroda haladéktalanul átteszi az elbírálásra jogosult helyi választási irodához.
 
-(3) A 103. § (2) bekezdés a) pont ab) alpontja és b) pontja szerinti kérelmet a szavazatszámláló bizottság bírálja el.
+(3) A 103. § (2) bekezdés a) pont ac) alpontja és b) pontja szerinti kérelmet a szavazatszámláló bizottság bírálja el.
