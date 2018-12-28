@@ -1,5 +1,0 @@
-A Kormány
-
-1. hozzájárul a KEOP-7.9.0/12-2013-0038 azonosító számú és „Complex hulladékkezelési, hulladékártalmatlanítási és hulladék hasznosítási stratégiai tervezése és kidolgozása hulladékból történő energiatermelés céljából” című pályázathoz tartozó „Vállalkozási szerződés 3 db Hulladékmonitoring Állomás építési kivitelezésére (gázgyűjtő kutak, gázbekötő vezetékek, gázszabályozó állomások, gázgyűjtő gerincvezetékek, kondenzvíz leválasztó akna, gázkezelő konténer egység, depógáz égető kemence létesítésére), valamint kapcsolódó 3 db hulladék-monitoring és kutató laboratórium beszerzése a szükséges installációk kiépítésével.” tárgyú közbeszerzési eljárás (a továbbiakban: közbeszerzési eljárás) megindításához a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 114/B. § (1) bekezdés alapján;
-
-2. tudomásul veszi, hogy a közbeszerzési eljárás eredményeként megkötendő szerződések teljesítésének várható határideje 2015. szeptember 25.
