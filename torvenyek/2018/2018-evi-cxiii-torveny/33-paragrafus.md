@@ -1,0 +1,9 @@
+33. § Az 1. §, a 12. §, a 13. §, a 14. §, és a 15. § az 1976. szeptember 20-i 76/787/ESZAK, EGK, Euratom tanácsi határozathoz csatolt, az Európai Parlament tagjainak közvetlen és általános választójog alapján történő választásáról szóló okmány módosításáról szóló, 2018. július 13-i (EU, Euratom) 2018/994 tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+
+Áder János s. k.,
+
+köztársasági elnök
+
+Kövér László s. k.,
+
+az Országgyűlés elnöke
