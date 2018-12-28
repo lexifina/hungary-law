@@ -52,6 +52,6 @@
 
 | Melléklet: A jogszabályban meghatározott igazgatási szolgáltatási díj megfizetését igazoló banki bizonylat másolati példánya |
 
-2. melléklet a 440/2015. (XII. 28.) Korm. rendelethez[^12]
+2. melléklet a 440/2015. (XII. 28.) Korm. rendelethez[^13]
 
-[^12]: A 2. melléklet a 379/2016. (XII. 2.) Korm. rendelet 315. § (1) bekezdés b) pontjával megállapított szöveg.
+[^13]: A 2. melléklet a 379/2016. (XII. 2.) Korm. rendelet 315. § (1) bekezdés b) pontjával megállapított szöveg.

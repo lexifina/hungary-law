@@ -1,4 +1,4 @@
-10. § (1) A Tao. támogatás felhasználása során kizárólag a támogatás időtartama (tárgyév) alatt, az Emtv.-ben meghatározott támogatási célok megvalósítása során felmerült költségek számolhatók el. Tárgyévnek a Tao. támogatás pénzügyi jóváírásának éve tekintendő.
+10. § (1)[^7] A Tao. támogatás felhasználása során kizárólag a támogatás időtartama (tárgyév) alatt, az Emtv.-ben meghatározott támogatási célok megvalósítása során felmerült költségek számolhatók el. Tárgyévnek a Tao. támogatás pénzügyi jóváírásának éve tekintendő azzal, hogy a 2018. év tekintetében a pénzügyi jóváírás határideje 2019. január 15. napja.
 
 (2) A tárgyév december 31-éig vállalt kötelezettségek pénzügyi teljesítése a tárgyévet követő év június 30-áig történhet meg.
 
@@ -37,3 +37,5 @@ m) a közvetítő szervezet szolgáltatásának ellenértéke.
 (6) A támogatott előadó-művészeti szervezet köteles a Tao. támogatás felhasználásáról elkülönített, naprakész nyilvántartást vezetni és azt a felhasználás évét követő 10 évig megőrizni.
 
 (7) Azonos vagy részben azonos, azonosítható elszámolható költségek esetén a Tao. támogatás abban az esetben halmozható más, az Atr. 2. § 1. pontja szerinti állami támogatással, ha az nem vezet a 9. § szerinti támogatási intenzitás túllépéséhez.
+
+[^7]: A 10. § (1) bekezdése a 317/2018. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
