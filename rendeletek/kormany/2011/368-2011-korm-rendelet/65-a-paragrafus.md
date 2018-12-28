@@ -1,10 +1,10 @@
-## [Az Áht. 48/A. §-ához][^307]
+## [Az Áht. 48/A. §-ához][^317]
 
-65/A. §[^308] (1)[^309] Ha jogszabály – a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatások esetén jogszabály vagy a Kormány határozata – a támogatás biztosításának módjáról nem rendelkezik, arról
+65/A. §[^318] (1)[^319] Ha jogszabály – a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatások esetén jogszabály vagy a Kormány határozata – a támogatás biztosításának módjáról nem rendelkezik, arról
 
 a) a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatások esetén támogatói okiratot kell kibocsátani,
 
-b)[^310] az a) ponttól eltérő más esetben
+b)[^320] az a) ponttól eltérő más esetben
 
 ba) ötmilliárd forintot el nem érő összegű költségvetési támogatás esetén támogatói okiratot kell kibocsátani,
 
@@ -14,7 +14,7 @@ bb) ötmilliárd forintot elérő vagy azt meghaladó összegű költségvetési
 
 (3) Ha a támogatás biztosítására fejezetek közötti előirányzat-átcsoportosítással kerül sor, a támogatási szerződésre az Áht. 33. § (4) bekezdése szerinti megállapodás e rendeletben meghatározott tartalmi és formai követelményeit is alkalmazni kell.
 
-[^307]: Az Ávr. 65/A. §-át megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
-[^308]: Az Ávr. 65/A. §-át újonnan a 465/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
-[^309]: Az Ávr. 65/A. § (1) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^310]: Az Ávr. 65/A. § (1) bekezdés b) pontja a 140/2018. (VII. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^317]: Az Ávr. 65/A. §-át megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^318]: Az Ávr. 65/A. §-át újonnan a 465/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^319]: Az Ávr. 65/A. § (1) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^320]: Az Ávr. 65/A. § (1) bekezdés b) pontja a 140/2018. (VII. 26.) Korm. rendelet 1. §-ával megállapított szöveg.

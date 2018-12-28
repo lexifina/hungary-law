@@ -1,5 +1,5 @@
 ## [Az Áht. 36. § (6) bekezdéséhez]
 
-47. §[^167] A rendkívüli kormányzati intézkedésekre szolgáló tartalékból átcsoportosított előirányzat terhére kizárólag a költségvetési évben, az adott költségvetési évre szóló teljesítéssel vállalható kötelezettség.
+47. §[^173] A rendkívüli kormányzati intézkedésekre szolgáló tartalékból átcsoportosított előirányzat terhére kizárólag a költségvetési évben, az adott költségvetési évre szóló teljesítéssel vállalható kötelezettség.
 
-[^167]: Az Ávr. 47. §-a a 89/2016. (IV. 29.) Korm. rendelet 4. § 4. pontja szerint módosított szöveg.
+[^173]: Az Ávr. 47. §-a a 89/2016. (IV. 29.) Korm. rendelet 4. § 4. pontja szerint módosított szöveg.

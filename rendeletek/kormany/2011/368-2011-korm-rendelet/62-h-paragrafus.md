@@ -1,10 +1,10 @@
-62/H. §[^296] (1)[^297] A Kincstár a személyi jövedelemadó megállapításával és elszámolásával kapcsolatos feladatok ellátása keretében elkészíti az adóévet követő év január 31-én jogviszonyban álló foglalkoztatottaknak az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti összesített igazolását.
+62/H. §[^306] (1)[^307] A Kincstár a személyi jövedelemadó megállapításával és elszámolásával kapcsolatos feladatok ellátása keretében elkészíti az adóévet követő év január 31-én jogviszonyban álló foglalkoztatottaknak az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti összesített igazolását.
 
-(2)[^298] A Kincstár az általa készített, az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti összesített igazolást a foglalkoztatott részére történő átadására jogszabályban meghatározott határnapot megelőző ötödik munkanapig elektronikus úton átadja a foglalkoztatónak.
+(2)[^308] A Kincstár az általa készített, az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti összesített igazolást a foglalkoztatott részére történő átadására jogszabályban meghatározott határnapot megelőző ötödik munkanapig elektronikus úton átadja a foglalkoztatónak.
 
-(3)[^299] A Kincstár az általa készített, az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti összesített igazolást és az (1) bekezdés szerinti nyilatkozatok alapján elkészített elszámolást az annak foglalkoztatott részére történő átadására jogszabályban meghatározott határnapot megelőző ötödik munkanapig megelőzően elektronikus úton átadja a foglalkoztatónak.
+(3)[^309] A Kincstár az általa készített, az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti összesített igazolást és az (1) bekezdés szerinti nyilatkozatok alapján elkészített elszámolást az annak foglalkoztatott részére történő átadására jogszabályban meghatározott határnapot megelőző ötödik munkanapig megelőzően elektronikus úton átadja a foglalkoztatónak.
 
-[^296]: Az Ávr. 62/H. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
-[^297]: Az Ávr. 62/H. § (1) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 43. §-ával megállapított szöveg.
-[^298]: Az Ávr. 62/H. § (2) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 43. §-ával megállapított szöveg.
-[^299]: Az Ávr. 62/H. § (3) bekezdése a 243/2015. (IX. 8.) Korm. rendelet 7. §-ával megállapított, a 499/2016. (XII. 28.) Korm. rendelet 22. § 9. pontja, a 475/2017. (XII. 28.) Korm. rendelet 47. § 4. pontja szerint módosított szöveg.
+[^306]: Az Ávr. 62/H. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
+[^307]: Az Ávr. 62/H. § (1) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^308]: Az Ávr. 62/H. § (2) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^309]: Az Ávr. 62/H. § (3) bekezdése a 243/2015. (IX. 8.) Korm. rendelet 7. §-ával megállapított, a 499/2016. (XII. 28.) Korm. rendelet 22. § 9. pontja, a 475/2017. (XII. 28.) Korm. rendelet 47. § 4. pontja szerint módosított szöveg.

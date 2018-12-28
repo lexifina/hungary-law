@@ -2,26 +2,26 @@
 
 111. § A visszafizetési kötelezettség, illetve a helyi önkormányzatot megillető pótlólagos támogatás átutalásra kerülő összegének megállapítása és teljesítése során
 
-a)[^414] a b)–h) pontban meghatározott kivétellel a támogatások egyenlegét,
+a)[^438] a b)–h) pontban meghatározott kivétellel a támogatások egyenlegét,
 
 b) a pénzbeli szociális ellátások kiegészítése összegének egyenlegét,
 
 c) a könyvtári, közművelődési és múzeumi feladatok támogatása összegének egyenlegét,
 
-d)[^415] a települési önkormányzatok által fenntartott, illetve támogatott előadó-művészeti szervezetek támogatása összegének egyenlegét,
+d)[^439] a települési önkormányzatok által fenntartott, illetve támogatott előadó-művészeti szervezetek támogatása összegének egyenlegét,
 
 e) a költségvetési támogatások és a vis maior támogatások összegét jogcímenként,
 
-f)[^416] a tárgyévet megelőző évről áthúzódó bérkompenzáció támogatása összegét,
+f)[^440] a tárgyévet megelőző évről áthúzódó bérkompenzáció támogatása összegét,
 
-g)[^417] a települési önkormányzatok szociális feladatainak egyéb támogatása összegét, és
+g)[^441] a települési önkormányzatok szociális feladatainak egyéb támogatása összegét, és
 
-h)[^418] a szociális ágazati összevont pótlék összegének egyenlegét
+h)[^442] a szociális ágazati összevont pótlék összegének egyenlegét
 
 kell figyelembe venni.
 
-[^414]: Az Ávr. 111. § a) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 16. pontja szerint módosított szöveg.
-[^415]: Az Ávr. 111. § d) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 17. pontja szerint módosított szöveg.
-[^416]: Az Ávr. 111. § f) pontját a 175/2015. (VII. 7.) Korm. rendelet 20. §-a iktatta be.
-[^417]: Az Ávr. 111. § g) pontját a 175/2015. (VII. 7.) Korm. rendelet 20. §-a iktatta be.
-[^418]: Az Ávr. 111. § h) pontját a 175/2015. (VII. 7.) Korm. rendelet 20. §-a iktatta be, szövege a 264/2016. (VIII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^438]: Az Ávr. 111. § a) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 16. pontja szerint módosított szöveg.
+[^439]: Az Ávr. 111. § d) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 17. pontja szerint módosított szöveg.
+[^440]: Az Ávr. 111. § f) pontját a 175/2015. (VII. 7.) Korm. rendelet 20. §-a iktatta be.
+[^441]: Az Ávr. 111. § g) pontját a 175/2015. (VII. 7.) Korm. rendelet 20. §-a iktatta be.
+[^442]: Az Ávr. 111. § h) pontját a 175/2015. (VII. 7.) Korm. rendelet 20. §-a iktatta be, szövege a 264/2016. (VIII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.

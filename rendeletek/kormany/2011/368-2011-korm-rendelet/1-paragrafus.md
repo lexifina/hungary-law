@@ -24,8 +24,9 @@
 
 9. támogatott tevékenység időtartama: támogatási szerződésben meghatározott olyan időtartam, amely során felmerülő, a támogatott tevékenység megvalósításához kapcsolódó költségek elszámolhatóak,
 
-10. törzskönyvi okirat: a törzskönyvi jogi személy törzskönyvi nyilvántartásba vétele, törzskönyvi nyilvántartásba vett adatai változásának bejelentése és a törzskönyvi jogi személy törzskönyvi nyilvántartásból való törlése során a kérelemhez csatolandó valamennyi okirat – a vezetői kinevezésről, megbízásról szóló okirat kivételével –, valamint a Kincstárnak a törzskönyvi nyilvántartás vezetése során keletkezett döntése és más okirata.
+10.[^4] törzskönyvi okirat: a törzskönyvi jogi személy törzskönyvi nyilvántartásba vétele, törzskönyvi nyilvántartásba vett adatai változásának bejelentése és a törzskönyvi jogi személy törzskönyvi nyilvántartásból való törlése során a kérelemhez csatolandó valamennyi okirat – a vezetői kinevezésről, megbízásról és felmentésről, a vezetői megbízás visszavonásáról, megszüntetéséről szóló okirat és bankszámla-szerződés kivételével –, valamint a Kincstárnak a törzskönyvi nyilvántartás vezetése során keletkezett döntése és más okirata.
 
 [^1]: Az Ávr. I. fejezete (1–1/D. §) a 397/2014. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^2]: Az Ávr. 1. § 3. pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 1. pontja, a 264/2016. (VIII. 31.) Korm. rendelet 25. § 1. pontja szerint módosított szöveg.
 [^3]: Az Ávr. 1. § 4. pontja a 224/2017. (VIII. 11.) Korm. rendelet 14. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^4]: Az Ávr. 1. § 10. pontja a 310/2018. (XII. 27.) Korm. rendelet 31. § 1. pontja szerint módosított szöveg.
