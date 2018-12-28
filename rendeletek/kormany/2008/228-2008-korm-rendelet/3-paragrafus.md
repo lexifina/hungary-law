@@ -10,7 +10,7 @@ b) hitelesítés: a hitelesítési tevékenységre kijelölt szervezet által v�
 
 c)[^3] partner szintű hitelesítési nyilatkozat: a hitelesítési tevékenységre kijelölt szervezet által a partner részére kiadott, a hitelesítés tényét igazoló dokumentum;
 
-d)[^4] programszámla: a közösségi támogatás fogadása céljából, adott programozási időszakra, a program fejezetet irányító szerv vezetője kezdeményezésére a központi költségvetésről szóló törvény uniós fejlesztések költségvetési fejezete irányító szervének vezetője (a továbbiakban: fejezetet irányító szerv vezetője) által euróban nyitott közös fizetési számla;
+d)[^4] programszámla: a közösségi támogatás fogadása céljából, adott programozási időszakra, a Közös Irányító Hatóság által euróban nyitott közös fizetési számla;
 
 e)[^5] partner: több jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság által közösen megvalósítandó projekt esetén adott projektrész megvalósításáért a partnerségi megállapodás aláírásával felelősséget viselő, magyarországi székhellyel rendelkező, a Támogatási Eszközből származó közösségi támogatásban, illetve hazai társfinanszírozásban részesülő fél;
 
@@ -30,7 +30,7 @@ k)[^9] Technikai Segítségnyújtás projekt kedvezményezettje: Technikai Segí
 
 [^2]: A 2. § a 137/2010. (IV. 28.) Korm. rendelet 28. § (1) bekezdése, a 312/2013. (VIII. 27.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
 [^3]: A 3. § (1) bekezdés c) pontja az 550/2013. (XII. 30.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
-[^4]: A 3. § (1) bekezdés d) pontja az 550/2013. (XII. 30.) Korm. rendelet 34. §-ával megállapított, és a 37. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés d) pontja az 550/2013. (XII. 30.) Korm. rendelet 34. §-ával megállapított, és a 37. § b) pontja, a 312/2018. (XII. 27.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdésének e) pontja a 160/2009. (VIII. 3.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (1) bekezdésének g) pontja a 160/2009. (VIII. 3.) Korm. rendelet 52. § (2) bekezdésével megállapított, a 304/2011. (XII. 23.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^7]: A 3. § (1) bekezdésének i) pontját a 160/2009. (VIII. 3.) Korm. rendelet 52. § (3) bekezdése iktatta be.

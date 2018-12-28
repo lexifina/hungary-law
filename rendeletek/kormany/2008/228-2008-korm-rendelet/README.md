@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-228-20-
 | 2014-09-05 | 2008-228-20-22.11 | 550/2013. (XII. 30.) Korm. rendelet |
 | 2015-07-08 | 2008-228-20-22.12 | 312/2013. (VIII. 27.) Korm. rendelet |
 | 2018-07-19 | 2008-228-20-22.13 | 160/2009. (VIII. 3.) Korm. rendelet |
+| 2018-12-28 | 2008-228-20-22.14 | 550/2013. (XII. 30.) Korm. rendelet |
