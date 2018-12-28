@@ -58,9 +58,9 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | MAHOP-5.3.1-2016 | A halászati termékekre és akvakultúra-termékekre irányuló piaci értékesítési intézkedések támogatása | 0,400 | standard | Meghirdetve: 2017. február |
+| 2. | MAHOP-5.3.1-2016 | A halászati termékekre és akvakultúra-termékekre irányuló piaci értékesítési intézkedések támogatása | 0,240 | standard | Meghirdetve: 2017. február |
 
-| 3. | MAHOP-5.3.2-2016 | Kommunikációs és promóciós kampány a halfogyasztás népszerűsítésére (Kapj rá!) | 0,800 | kiemelt | Meghirdetve: 2016. december |
+| 3. | MAHOP-5.3.2-2016 | Kommunikációs és promóciós kampány a halfogyasztás népszerűsítésére (Kapj rá!) | 0,960 | kiemelt | Meghirdetve: 2016. december |
 
 | 4. | MAHOP-5.3.3-2016 | A halászati és akvakultúra-termékek feldolgozására irányuló beruházások támogatása | 2,406 | standard | Meghirdetve: 2016. december |
 
@@ -76,4 +76,4 @@
 
 [^1]: Az 1. pont b) alpontját az 1174/2017. (IV. 3.) Korm. határozat 3. pontja hatályon kívül helyezte.
 [^2]: Az 1. pont c) alpontját az 1198/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be.
-[^3]: Az 1. melléklet az 1198/2016. (IV. 15.) Korm. határozat 2. pontjával megállapított, az 1449/2016. (VIII. 17.) Korm. határozat 1. pont a) alpontja és 2. pont a)–e) alpontja, az 1741/2016. (XII. 13.) Korm. határozat 1. pont a) alpontja, 2. pontja és 3. pont a) alpontja, az 1174/2017. (IV. 3.) Korm. határozat 1. pont a) alpontja és 2. pont a)–f) alpontja, az 1436/2018. (IX. 11.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^3]: Az 1. melléklet az 1198/2016. (IV. 15.) Korm. határozat 2. pontjával megállapított, az 1449/2016. (VIII. 17.) Korm. határozat 1. pont a) alpontja és 2. pont a)–e) alpontja, az 1741/2016. (XII. 13.) Korm. határozat 1. pont a) alpontja, 2. pontja és 3. pont a) alpontja, az 1174/2017. (IV. 3.) Korm. határozat 1. pont a) alpontja és 2. pont a)–f) alpontja, az 1436/2018. (IX. 11.) Korm. határozat 1. pont a) alpontja, az 1831/2018. (XII. 27.) Korm. határozat 3. pont a)–b) alpontja szerint módosított szöveg.
