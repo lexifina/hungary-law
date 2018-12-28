@@ -20,7 +20,7 @@ g) az Európai Bizottság által végzett ellenőrzésekre adandó tagállami v�
 
 h) minőségértékelés keretében a folyamatba épített ellenőrzéseket, továbbá a rendszer- és mintavételes ellenőrzéseket végző szervezetek tekintetében a jogszabályok, a módszertani útmutatók, a nemzetközi ellenőrzési standardok alkalmazásának és végrehajtásának figyelemmel kíséréséről, vizsgálatáról,
 
-i)[^65] az európai uniós támogatások ellenőrzésének helyzetére vonatkozó beszámoló készítéséről a Kormány számára.
+i)[^65]
 
 (3) Az ellenőrzési hatóság az Európai Bizottság és az államháztartásért felelős miniszter iránymutatásai, valamint a nemzetközileg elfogadott standardok alapján
 
@@ -63,6 +63,6 @@ f) végrehajtja az adminisztratív hibák, valamint az operatív program megval�
 [^62]: A 7. § (2) bekezdés a) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 3. pontja szerint módosított szöveg.
 [^63]: A 7. § (2) bekezdés b) pontja a 302/2013. (VII. 29.) Korm. rendelet 54. § c) pontja szerint módosított szöveg.
 [^64]: A 7. § (2) bekezdés d) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 4. pontja szerint módosított szöveg.
-[^65]: A 7. § (2) bekezdés i) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 12. pontja szerint módosított szöveg.
+[^65]: A 7. § (2) bekezdés i) pontját a 310/2018. (XII. 27.) Korm. rendelet 1. §-a hatályon kívül helyezte.
 [^66]: A 7. § (3) bekezdés a) pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 5. pontja szerint módosított szöveg.
 [^67]: A 7. § (4) bekezdés c) pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 8. pontja szerint módosított szöveg.
