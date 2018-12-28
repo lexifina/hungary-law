@@ -1,4 +1,4 @@
-## 14. §[^13] A debreceni Észak-Nyugati Gazdasági Övezettel, valamint a Debreceni Regionális és Innovációs Tudományos Technológiai Park bővítésével összefüggő kormányrendeletek módosításáról szóló 243/2018. (XII. 13.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 2. mellékletben foglalt táblázat 15. sorát a Módr6. hatálybalépésekor[^14] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 15. §[^15] Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 320/2018. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr7.) megállapított 2. mellékletben foglalt táblázat 16. sorát a Módr7. hatálybalépésekor[^16] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -56,5 +56,5 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^13]: A 14. §-t a 243/2018. (XII. 13.) Korm. rendelet 3. §-a iktatta be.
-[^14]: A hatálybalépés időpontja 2018. december 14.
+[^15]: A 15. §-t a 320/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^16]: A hatálybalépés időpontja 2018. december 28.

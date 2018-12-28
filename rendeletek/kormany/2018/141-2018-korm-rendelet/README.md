@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-141-20-
 | 2018-10-31 | 2018-141-20-22.6 | 2010: CXXX. törvény |
 | 2018-11-10 | 2018-141-20-22.7 | 2010: CXXX. törvény |
 | 2018-12-14 | 2018-141-20-22.8 | 243/2018. (XII. 13.) Korm. rendelet |
+| 2018-12-28 | 2018-141-20-22.9 | 320/2018. (XII. 27.) Korm. rendelet |
