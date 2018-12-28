@@ -1,12 +1,12 @@
 ## nyújtható.
 
-5. § (1)[^7] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, a 2012/21/EU bizottsági határozat, a 360/2012/EU bizottsági rendelet és a SA.38425 (2014/N). számú bizottsági határozat hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+5. § (1)[^12] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, a 2012/21/EU bizottsági határozat, a 360/2012/EU bizottsági rendelet és a SA.38425 (2014/N). számú bizottsági határozat hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
 (2) A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
 
 (3) Nem ítélhető meg támogatás
 
-a)[^8] – a 4. § c) pont szerinti támogatás kivételével – azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatának nem tett eleget,
+a)[^13] – a 4. § c) pont szerinti támogatás kivételével – azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatának nem tett eleget,
 
 b) a 4. § a)–c) pontja szerinti támogatás kivételével nehéz helyzetben lévő vállalkozás részére,
 
@@ -26,7 +26,7 @@ g) ha azt import áru helyett hazai áru használatától teszik függővé,
 
 h) olyan feltétellel, amely az európai uniós jog megsértését eredményezi.
 
-(4)[^9] A 651/2014/EU bizottsági rendelet alapján – a 4. § a), e) és f) pontja szerinti támogatás kivételével – támogatás csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
+(4)[^14] A 651/2014/EU bizottsági rendelet alapján – a 4. § a), e) és f) pontja szerinti támogatás kivételével – támogatás csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
 (5) Azonos vagy részben azonos azonosítható elszámolható költségek esetén az e rendelet szerinti támogatás abban az esetben halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással, ha az nem vezet a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás túllépéséhez.
 
@@ -44,29 +44,26 @@ b) megváltozott munkaképességű munkavállaló foglalkoztatásához bértámo
 
 c) megváltozott munkaképességű munkavállaló foglalkoztatásával járó többletköltség ellentételezéséhez nyújtott támogatás esetén vállalkozásonként és évenként meghaladja a 10 millió eurónak megfelelő forintösszeget,
 
-d)[^10] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 100 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente az 50 millió eurónak megfelelő forintösszeget,
+d)[^15] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 150 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente az 75 millió eurónak megfelelő forintösszeget,
 
-e)[^11] sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 15 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja az 50 millió eurónak megfelelő forintösszeget.
+e)[^16] sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott beruházási támogatás esetén meghaladja a projektenként 30 millió eurónak megfelelő vagy 100 millió eurónak megfelelő forintösszeget, sportlétesítményekre nyújtott működési támogatás esetén meghaladja a létesítményenként évente 2 millió eurónak megfelelő forintösszeget,
 
-(10) E rendelet alapján
+f)[^17] audiovizuális alkotásokra vonatkozó támogatási programokra nyújtott támogatás esetén programonként évente meghaladja az 50 millió eurónak megfelelő forintösszeget.
 
-a)[^12]
+(10)[^18] E rendelet alapján
 
-b) a 4. § b) pontja szerinti támogatás esetén 2019. december 31-ig,
+a) a 4. § b) pontja szerinti támogatás esetén 2019. december 31-ig,
 
-c) a 4. § c) pontja szerinti támogatás esetén 2021. június 30-ig,
+b) a 4. § c) pontja szerinti támogatás esetén 2024. december 31-ig,
 
-d)[^13] a 4. § a), d)–f) pontja szerinti támogatás esetén 2021. június 30-ig,
+c) a 4. § a), d)–f), i) és j) pontja szerinti támogatás esetén 2021. június 30-ig,
 
-e) a 4. § h) pontja szerinti támogatás esetén 2019. június 30-ig,
+d) a 4. § h) pontja szerinti támogatás esetén 2019. június 30-ig
 
-f)[^14] a 4. § i) pontja szerinti támogatás esetén 2021. június 30-ig
-
-[^7]: Az 5. § (1) bekezdése a 24/2016. (VIII. 30.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^8]: Az 5. § (3) bekezdés a) pontja a 24/2016. (VIII. 30.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^9]: Az 5. § (4) bekezdése a 24/2016. (VIII. 30.) EMMI rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^10]: Az 5. § (9) bekezdés d) pontját a 24/2016. (VIII. 30.) EMMI rendelet 4. §-a iktatta be.
-[^11]: Az 5. § (9) bekezdés e) pontját a 47/2016. (XII. 28.) EMMI rendelet 3. §-a iktatta be.
-[^12]: Az 5. § (10) bekezdés a) pontját a 24/2016. (VIII. 30.) EMMI rendelet 10. § a) pontja hatályon kívül helyezte.
-[^13]: Az 5. § (10) bekezdés d) pontja a 24/2016. (VIII. 30.) EMMI rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^14]: Az 5. § (10) bekezdés f) pontját a 47/2016. (XII. 28.) EMMI rendelet 4. §-a iktatta be.
+[^12]: Az 5. § (1) bekezdése a 24/2016. (VIII. 30.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^13]: Az 5. § (3) bekezdés a) pontja a 24/2016. (VIII. 30.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (4) bekezdése a 24/2016. (VIII. 30.) EMMI rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^15]: Az 5. § (9) bekezdés d) pontját a 24/2016. (VIII. 30.) EMMI rendelet 4. §-a iktatta be, szövege a 48/2018. (XII. 27.) EMMI rendelet 11. § c) pontja szerint módosított szöveg.
+[^16]: Az 5. § (9) bekezdés e) pontját a 47/2016. (XII. 28.) EMMI rendelet 3. §-a iktatta be, szövege a 48/2018. (XII. 27.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^17]: Az 5. § (9) bekezdés f) pontját a 48/2018. (XII. 27.) EMMI rendelet 5. §-a iktatta be.
+[^18]: Az 5. § (10) bekezdése a 48/2018. (XII. 27.) EMMI rendelet 6. §-ával megállapított szöveg.
