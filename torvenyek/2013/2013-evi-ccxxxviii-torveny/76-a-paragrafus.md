@@ -1,0 +1,1 @@
+76/A. § Ha a külképviseletről érkezett urnában lezáratlan boríték van, az le nem adott szavazatnak számít, és külön kell csomagolni.

@@ -7,3 +7,5 @@
 (3) Az aláírásgyűjtő íven az aláírást gyűjtő személy feltünteti nevét és személyi azonosítóját, továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 
 (4) Egy választópolgár a kezdeményezést csak egyszer támogathatja, a további aláírásai érvénytelenek.
+
+(5) A kezdeményezés támogatására a településen lakóhellyel vagy – ha legkésőbb az aláírásgyűjtő ív hitelesítését megelőző harmincadik napig tartózkodási helyet létesített – bejelentett tartózkodási hellyel rendelkező választópolgár jogosult.

@@ -2,7 +2,7 @@
 
 15. § (1) Országos népszavazás elrendelésére irányuló választópolgári kezdeményezést a Nemzeti Választási Iroda által kiadott aláírásgyűjtő íven lehet támogatni. A támogató aláírás nem vonható vissza.
 
-(2) Az aláírásgyűjtő ívre rá kell vezetni az aláírást adó választópolgár olvasható családi és utónevét, személyi azonosítóját vagy a személyi azonosítóval nem rendelkező választópolgár magyar állampolgárságát igazoló okiratának számát, valamint az anyja nevét. Az aláírásgyűjtő ívet az ajánló választópolgár saját kezűleg aláírja. A választópolgár adatainak a kérdéssel azonos oldalon kell szerepelniük.
+(2) A választópolgár adatainak a kérdéssel azonos oldalon kell szerepelniük. Az aláírásgyűjtő ívet az ajánló választópolgár saját kezűleg aláírja. Az aláírásgyűjtő ívre rá kell vezetni az aláírást adó választópolgár olvasható családi és utónevét, valamint személyi azonosítóját és lakcímét. A magyarországi lakcímmel nem rendelkező választópolgár az aláírásgyűjtő ívre a személyi azonosítója és a lakcíme helyett a személyazonosságát igazoló hatósági igazolványa számát és a születési idejét is rávezetheti.
 
 (3) Egy választópolgár a kezdeményezést csak egy aláírással támogathatja, a további aláírásai érvénytelenek.
 
@@ -10,6 +10,6 @@
 
 a) nevét,
 
-b) személyi azonosítóját vagy magyar állampolgárságát igazoló okiratának számát,
+b) személyi azonosítóját vagy személyazonosságát igazoló hatósági igazolványa számát,
 
 továbbá az aláírásgyűjtő ívet az aláírásával látja el.

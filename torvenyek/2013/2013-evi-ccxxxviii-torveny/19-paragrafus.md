@@ -1,6 +1,6 @@
 ## 5. Az aláírások ellenőrzése
 
-19. § (1) A szervező az aláírásgyűjtő ívek 14. § (1) bekezdésben meghatározott átvételét követő százhúsz napon belül, egy alkalommal nyújthatja be a népszavazás kitűzésére irányuló állampolgári kezdeményezés aláírásgyűjtő íveit a Nemzeti Választási Irodához az aláírások ellenőrzése céljából. E határidőbe a 18. § (1) bekezdésében meghatározott időtartam és a 19/B. § (6) bekezdés a) pontja szerinti szünetelés nem számít bele.
+19. § (1) A szervező az aláírásgyűjtő ívek 14. § (1) bekezdésben meghatározott átvételét követő százhúsz napon belül, egy alkalommal nyújthatja be a népszavazás kitűzésére irányuló állampolgári kezdeményezés aláírásgyűjtő íveit a Nemzeti Választási Irodához az aláírások ellenőrzése céljából. E határidőbe a 18. § (1) bekezdésében meghatározott időtartam és a 19/B. § (6) bekezdés b) pontja szerinti szünetelés nem számít bele.
 
 (2) Ha a szervező az aláírásgyűjtő ívek iránti igényét a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét vagy jogorvoslat esetén a Kúria döntésének a Magyar Közlönyben történt közzétételét követő hetedik nap után nyújtja be, az (1) bekezdés szerinti határidőt a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét vagy jogorvoslat esetén a Kúria döntésének a Magyar Közlönyben történt közzétételét követő hetedik naptól kell számítani.
 

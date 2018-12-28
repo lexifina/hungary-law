@@ -1,6 +1,6 @@
 4. § (1) A kérdést legalább húsz, de legfeljebb harminc választópolgár támogató aláírásával ellátva kell benyújtani.
 
-(2) A támogató aláírások gyűjtését megelőzően a szervezőnek az adatkezelést az adatvédelmi nyilvántartásba be kell jelentenie.
+(2)
 
 (3) A támogató választópolgár aláírására a 15. § (2) és (3) bekezdését kell alkalmazni.
 

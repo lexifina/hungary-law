@@ -2,9 +2,9 @@
 
 3. § (1) A szervezőnek a népszavazásra javasolt kérdést, az aláírásgyűjtés megkezdése előtt – a kérdés hitelesítése céljából – be kell nyújtania a Nemzeti Választási Bizottsághoz.
 
-(2) Egy aláírásgyűjtő íven egy kérdés szerepelhet.
+(2) Egy kezdeményezésben egy kérdés szerepelhet.
 
-(3) A magánszemély szervező a kérdés benyújtásakor a nevét, lakcímét és személyi azonosítóját, ennek hiányában a magyar állampolgárságát igazoló okirata számát közli a Nemzeti Választási Bizottsággal.
+(3) A magánszemély szervező a kérdés benyújtásakor a nevét, lakcímét és személyi azonosítóját, ennek hiányában a személyazonosságát igazoló hatósági igazolványa számát közli a Nemzeti Választási Bizottsággal.
 
 (4) Az egyéb egyesület a létesítő okiratát is csatolja a kérdés benyújtásakor.
 
