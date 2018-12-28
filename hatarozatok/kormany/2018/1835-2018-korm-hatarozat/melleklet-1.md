@@ -28,32 +28,17 @@
 
 ## d) egyetért azzal, hogy a fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, valamint egyes kormányhatározatok módosításáról szóló 1806/2018. (XII. 23.) Korm. határozat 1. pont g) alpontjával a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 86. Önkormányzatok feladatainak 2018. évi döntések szerinti támogatása cím, 1. Budapest Főváros II. Kerületi Önkormányzata pesthidegkúti Gyarmati Dezső Uszoda kivitelezésének támogatása alcím javára átcsoportosított forrás a pesthidegkúti Gyarmati Dezső Uszoda kivitelezésére és környezetének megújítására kerüljön felhasználásra.
 
-## 2. A határon túli célú költségvetési támogatások biztosításáról szóló 1810/2018. (XII. 23.) Korm. határozat 1. mellékletében foglalt táblázat
+## 2.[^1]
 
-## a) 25. sorában a „888 790 736” szövegrész helyébe a „858 210 961” szöveg;
+## 3.[^2]
 
-## b) 32. sorában a „Szent Mihály és Gábor Arkangyalok Magyar Görög Katolikus Plébánia” szövegrész helyébe a „Görögkatolikus Egyház Nagypeleske” szöveg, a „nagypereskei” szövegrész helyébe a „nagypeleskei” szöveg;
+## 4.[^3]
 
-## c) 33. sorában a „Keresztelő Szent János Plébánia” szövegrész helyébe a „Keresztelő Szent János Görögkatolikus Parókia” szöveg;
-
-## d) 36. sorában a „DAC Academy AF” szövegrész helyébe a „DAC Academy a.s.” szöveg; valamint
-
-## e) 41. sorában a „Sepsiszentgyörgyi Labdarúgó Akadémai (Sepsi OSK)” szövegrész helyébe a „SEPSI OSK S.A. (Sepsiszentgyörgy)” szöveg
-
-## lép.
-
-## 3. Az egyházi célú támogatások biztosításáról szóló 1811/2018. (XII. 23.) Korm. határozat (a továbbiakban: Korm. határozat) 4. pontja a következő d) és e) ponttal egészül ki:
-
-## (Az 1. mellékletben foglalt táblázat)
-
-## „d) 38–40. sorában rögzített támogatások az egyes szerzetesrendi fejlesztések megvalósításához szükséges intézkedésekről szóló 1390/2016. (VII. 21.) Korm. határozat,
-
-## e) 41. sorában rögzített támogatás az esztergomi Nagyboldogasszony és Szent Adalbert Főszékesegyház rekonstrukciójának további támogatásához szükséges kormányzati intézkedésekről szóló 1756/2018. (XII. 20.) Korm. határozat”
-
-## (részleges végrehajtására szolgálnak.)
-
-## 4. A Korm. határozat 1. melléklete a 2. melléklet szerint módosul.
-
-## 5. A Kormány visszavonja az esztergomi Nagyboldogasszony és Szent Adalbert Főszékesegyház rekonstrukciójának további támogatásához szükséges kormányzati intézkedésekről szóló 1756/2018. (XII. 20.) Korm. határozat 3. pontját.
+## 5.[^4]
 
 1. melléklet az 1835/2018. (XII. 27.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
