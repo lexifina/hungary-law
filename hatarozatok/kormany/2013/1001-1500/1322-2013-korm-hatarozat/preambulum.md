@@ -1,1 +1,0 @@
-A Kormány áttekintette a 2014–2020 közötti európai uniós fejlesztési források felhasználására irányuló programok tervezésének jelenlegi állását, és a releváns programozási dokumentumok számára bemutatott tervezetei alapján
