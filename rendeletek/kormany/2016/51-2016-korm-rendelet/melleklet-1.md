@@ -24,4 +24,6 @@ Kijelölt építési beruházások
 
 | 9. | Ónod, Ónodi vár |
 
-[^3]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a, a 110/2017. (IV. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
+| 10. | Budapest IX. kerület, Kinizsi utca 12. szám alatti ingatlan |
+
+[^3]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a, a 110/2017. (IV. 28.) Korm. rendelet 1. §-a, a 316/2018. (XII. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
