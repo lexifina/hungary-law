@@ -1,6 +1,6 @@
 ## 2. A rendelet alkalmazása
 
-2. § (1)[^7] A költségvetési szerv, a központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapja kezelő szerve, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (1) bekezdésében meghatározott tulajdonosi joggyakorló szervezet, továbbá törvény vagy miniszteri rendelet által a tulajdonosi jogok gyakorlására feljogosított szervezet (a továbbiakban együtt: tulajdonosi joggyakorló szervezet), valamint a helyi önkormányzat, nemzetiségi önkormányzat, társulás, térségi fejlesztési tanács e rendelet előírásai szerint tesz eleget beszámolási és könyvvezetési kötelezettségének.
+2. § (1)[^7] A költségvetési szerv, a központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapja kezelő szerve, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (1) bekezdésében meghatározott tulajdonosi joggyakorló szervezet, továbbá törvény vagy miniszteri rendelet által a tulajdonosi jogok gyakorlására feljogosított szervezet, vagy személy (a továbbiakban együtt: tulajdonosi joggyakorló szervezet), valamint a helyi önkormányzat, nemzetiségi önkormányzat, társulás, térségi fejlesztési tanács e rendelet előírásai szerint tesz eleget beszámolási és könyvvezetési kötelezettségének.
 
 (2)[^8] A központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapja kezelő szerve, a tulajdonosi joggyakorló szervezet, és a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás, a térségi fejlesztési tanács beszámolási feladatait az Áht. 6/C. §-a alapján ellátó szerv az ezekkel összefüggő beszámolási és könyvvezetési feladatai teljesítésére a saját vagyonától, költségvetésétől elkülönített könyvvezetést vezet.
 
@@ -8,6 +8,6 @@
 
 (4)[^9] Az 1. mellékletben meghatározott központi kezelésű előirányzatokkal kapcsolatos beszámolási és könyvvezetési feladatokat a Magyar Államkincstár (a továbbiakban: Kincstár) látja el. A Kincstár beszámolási és könyvvezetési feladatainak teljesítéséhez a 2. mellékletben nevesített szervezetek e rendelet szerinti részletező nyilvántartásokat vezetnek, és azok adatai alapján a Kincstár által meghatározott gyakorisággal adatot szolgáltatnak a Kincstárnak. Ilyen esetben a könyvvezetés alapjául az e szervezetek által megküldött adatszolgáltatások minősülnek.
 
-[^7]: A 2. § (1) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 22. § 1. pontja, a 310/2018. (XII. 27.) Korm. rendelet 36. § 1. pontja szerint módosított szöveg.
 [^8]: A 2. § (2) bekezdése a 20/2015. (II. 17.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 83. §-ával megállapított, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 3. pontja szerint módosított szöveg.
