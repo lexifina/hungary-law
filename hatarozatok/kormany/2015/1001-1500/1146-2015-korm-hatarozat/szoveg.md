@@ -1,1 +1,0 @@
-A Kormány előzetesen hozzájárul a KDOP-3.1.1/A-09-2f-2011-0001 azonosító számú, „Tata, Kossuth tér városközpont értékmegőrző rehabilitációja” című projekt keretében kiírni tervezett, Tata város Kossuth terének kivitelezése építési beruházás tárgyú közbeszerzési eljárás 2015. február 1-jét követő megindításához.
