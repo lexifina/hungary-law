@@ -1,0 +1,3 @@
+## 19. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 93. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) A költségvetési támogatás, a saját forrás felhasználása és a támogatott tevékenység részletes szöveges ismertetése helyett – ha jogszabály, támogatói okirat vagy támogatási szerződés másként nem rendelkezik – a kedvezményezett nyilatkozatot tehet arról, hogy a rendelkezésére bocsátott támogatást a támogatási célnak megfelelően, jogszerűen és a támogatási szerződésben meghatározottak szerint használta fel, amelyhez a számviteli bizonylatokról készített összesítőt csatolni köteles.”
