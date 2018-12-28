@@ -1,1 +1,0 @@
-A Kormány a magyar társadalom és gazdaság hosszú távú fejlesztésének a megalapozása, továbbá az ország előtt megnyíló uniós támogatások eredményes és hatékony felhasználása érdekében elfogadja a Gazdaságfejlesztési Operatív Program, valamint a Végrehajtás Operatív Program 2007–2008. évekre vonatkozó Akcióterveit.
