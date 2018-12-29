@@ -6,7 +6,7 @@
 
 3. 4. § (1) bekezdés 125. pont c) alpontjában az „a közvetített biztosítási szerződés nem-életbiztosítási szerződés és nem tartalmaz felelősségi kockázatot, kivéve, ha az ilyen fedezet” szövegrész helyébe az „a közvetített biztosítási termék nem tartalmaz életbiztosítási vagy felelősségi kockázatot, kivéve, ha az ilyen életbiztosítási vagy felelősségi kockázat fedezete” szöveg,
 
-4. 103. § (4) bekezdésében az „a (2) bekezdés a)–c) pontjában” szövegrész helyébe a „(2) bekezdésében” szöveg,
+4.
 
 5. 134/A. § (4) bekezdésében és 376. § (4) bekezdésében az „5 órányi továbbképzésnek” szövegrész helyébe az „5 órányi képzésnek, illetve továbbképzésnek” szöveg,
 

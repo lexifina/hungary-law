@@ -6,9 +6,7 @@
 
 3. 106. § (5) bekezdés a) pontjában a „pénzforgalmi” szövegrész helyébe a „fizetési” szöveg,
 
-4. 116. § (1) bekezdésében a „hitelintézet” szövegrész helyébe a „hitelintézet, továbbá a Felügyelet” szöveg,
-
-5. 116. § (2) bekezdés b) pontjában az „az intézményen” szövegrész helyébe az „a hitelintézeten” szöveg,
+4–5.
 
 6. 209. § (9) bekezdésében a „pénzeszközökből” szövegrész helyébe a „pénzeszközökből azzal, hogy nem felelős a székhely ország betétbiztosítási rendszerének rendelkezéseinek megfelelő eljárásért” szöveg,
 

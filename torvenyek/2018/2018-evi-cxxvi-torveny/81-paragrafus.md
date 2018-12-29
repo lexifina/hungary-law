@@ -1,6 +1,6 @@
 81. § A Pft.
 
-a) 10. § (1) bekezdés e) pont ee) alpontjában a „49–51.” szövegrész helyébe a „49–52/A.” szöveg,
+a)
 
 b) 34. §-ában a „49. §-tól és az 50. §-tól” szövegrész helyébe a „49. §-tól, az 50. §-tól, az 52. §-tól és az 52/A. §-tól” szöveg,
 

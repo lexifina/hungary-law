@@ -4,9 +4,7 @@ a) 8. § (1a) bekezdésében a „követelményekre, az algoritmikus” szövegr
 
 b) 8. § (2) bekezdésében a „lakossági és szakmai” szövegrész helyébe a „lakossági és a 49. § szerinti szakmai” szöveg,
 
-c) 24/G. § (1) bekezdésében a „vállalkozás hatékony” szövegrész helyébe a „vállalkozás, továbbá a Felügyelet hatékony” szöveg,
-
-d) 24/G. § (3) bekezdésében a „jogsértés intézményen belüli” szövegrész helyébe a „jogsértés befektetési vállalkozáson belüli” szöveg,
+c)–d)
 
 e) 29/A. § (3) bekezdés e) pontjában az „összeférhetetlenségre vonatkozó” szövegrész helyébe az „összeférhetetlenségre és a jogsértések jelentésére vonatkozó” szöveg,
 

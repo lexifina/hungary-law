@@ -8,7 +8,7 @@ c) 53. § (1a) bekezdésében a „w) pontja,” szövegrész helyébe a „w) p
 
 d) 53. § (5c) bekezdés nyitó szövegrészében a „miatt hozott” szövegrész helyébe a „miatt, illetve az Fnyt.-ben meghatározott intézkedésekről hozott” szöveg,
 
-e) 53/B. § (1) bekezdésében az „illetve a Bszt.” szövegrész helyébe az „a Tpt., illetve a Bszt.” szöveg,
+e)
 
 f) 58. § (1) bekezdésében az „az Eüsztv. rendelkezéseit” szövegrész helyébe az „az elektronikus kapcsolattartásra az Eüsztv. rendelkezéseit” szöveg,
 

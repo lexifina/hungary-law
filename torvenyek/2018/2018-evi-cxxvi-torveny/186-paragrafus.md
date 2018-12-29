@@ -17,11 +17,3 @@ c) az európai kockázatitőke-alapokról szóló 345/2013/EU rendelet és az eu
 d) a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről szóló 575/2013/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2401 európai parlamenti és tanácsi rendelet,
 
 e) az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
