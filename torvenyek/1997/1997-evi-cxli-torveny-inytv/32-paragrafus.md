@@ -20,7 +20,7 @@ g) a szerződő felek állampolgárságra vonatkozó nyilatkozatát.
 
 a) a nyilatkozattevő az okiratot saját kezűleg írta és aláírta, vagy
 
-b) két, az okiraton névvel és lakcímmel megnevezett tanú aláírásával igazolja, hogy a nyilatkozattevő a nem általa írt okiratot előttük írta alá, vagy aláírását előttük saját kezű aláírásának ismerte el, vagy
+b) két, az okiraton névvel és lakcímmel – vagy a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 6. § (1) bekezdés 108a. pontja szerinti esetben névvel és a munkáltató címével (székhelyével, telephelyével, fióktelepével), valamint a személyazonosításra alkalmas hatósági igazolvány típusával és számával – megnevezett tanú aláírásával igazolja, hogy a nyilatkozattevő a nem általa írt okiratot előttük írta alá, vagy aláírását előttük saját kezű aláírásának ismerte el, vagy
 
 c) az okiratot a közjegyző készítette, vagy
 
