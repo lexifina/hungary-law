@@ -1,5 +1,3 @@
-## Környezeti hatásvizsgálat köteles tevékenységek
-
 | A. Sor- szám | B. A tevékenység megnevezése | C. Küszöbérték, feltétel |
 
 | Mezőgazdaság, vadgazdálkodás, erdőgazdálkodás |
@@ -176,9 +174,9 @@
 
 | 56. | Az 1. számú melléklet 1–55. pont B. és C. oszlopában és a 3. számú melléklet 1–128. pont B. és C. oszlopában meghatározott tevékenységek, illetve létesítmények olyan megváltoztatása vagy bővítése, ahol a változtatás az 1. számú melléklet 1–55. pont B. és C. oszlopában meghatározott tevékenység, illetve létesítmény megvalósítását jelenti |  |
 
-2. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^250]
+2. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^251]
 
-## Az egységes környezethasználati engedélyhez kötött tevékenységek
+Az egységes környezethasználati engedélyhez kötött tevékenységek
 
 A megadott küszöbértékek a termelési kapacitásokra, a kibocsátási kapacitásokra vagy a teljesítményre vonatkoznak. Amennyiben ugyanazon létesítményben több, azonos jellegű és küszöbértékkel rendelkező tevékenységet végeznek, akkor ezen tevékenységek kapacitásának összegét kell figyelembe venni a küszöbértékkel történő összehasonlításnál. A hulladékkezelési tevékenységek esetében ezt a számítás kell alkalmazni az 5.1. és az 5.3. pontban említett tevékenységeknél.
 
@@ -400,6 +398,8 @@ ahol „A” a késztermék termelő kapacitásban foglalt állati eredetű nyer
 
 A 9.2. c) pont ca) és cb) alpontjában foglaltak értelmezését elősegíti a következő ábra, melynek vízszintes (x) tengelye ábrázolja „A” lehetséges értékeit.
 
+4K12969M_0
+
 9.3. Kizárólag tej kezelése és feldolgozása, ha a beérkezett tej mennyisége nagyobb mint 200 tonna/nap (évi átlagban).
 
 10. Állati anyagok feldolgozása
@@ -440,4 +440,4 @@ Anyagok, tárgyak vagy termékek felületi kezelése szerves oldószerekkel, kü
 
 14.4. A települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelv hatályán kívül eső, az e mellékletben felsorolt tevékenységeket végző létesítmények által kibocsátott szennyvíz kezelése önálló üzemeltetésben.
 
-[^250]: A 2. melléklet a 480/2013. (XII. 17.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 311. §-a szerint módosított szöveg.
+[^251]: A 2. melléklet a 480/2013. (XII. 17.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 311. §-a szerint módosított szöveg.

@@ -1,5 +1,7 @@
 ## Adatlap a környezeti hatások jelentőségének vizsgálatához
 
+## 7K08590M_0
+
 | A tervezett tevékenység neve ....................................................................................................................................................................................................... |
 
 | A tevékenység(ek) megnevezése a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: Khvr.) 3. számú melléklete szerint: ........................................................... | A tevékenység(ek) sorszáma a Khvr. 3. számú melléklete szerint: ............................................................. | A tevékenység(ek) mérete (a Khvr. 3. számú melléklet szerinti mértékegységben meghatározva): ................................................................ |
@@ -88,6 +90,6 @@
 
 ## Amennyiben az adatlap bármely pontjára vonatkozóan az eljárásban egyébként benyújtott dokumentáció részletesebb információt tartalmaz, kérjük az adott pontban jelezni.
 
-14. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^325]
+14. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^326]
 
-[^325]: A 14. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 24. §-a iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 74. § (6) bekezdés b) pontja.
+[^326]: A 14. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 24. §-a iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 74. § (6) bekezdés b) pontja.

@@ -1,4 +1,4 @@
-## Az előzetes konzultáció során vizsgálandó szakkérdések és a szakkérdések vizsgálatára feladatkörrel rendelkező közigazgatási szervek
+## 6K78002M_0
 
 |  |  | A szakkérdés vizsgálatának feltétele | Szakkérdés |  | Közigazgatási szerv |
 
@@ -28,6 +28,6 @@
 
 | 9. |  | Ha a kérelem a területfejlesztési koncepciók, programok és a területrendezési tervek tartalmi követelményeiről szóló jogszabály szerinti országos vagy térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények megvalósítására, valamint azok jelentős módosítására irányul |  | A területrendezési tervekkel való összhang tekintetében |  | állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal |
 
-13. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^324]
+13. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^325]
 
-[^324]: A 13. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 23. §-a iktatta be, szövege a 100/2014. (III. 25.) Korm. rendelet 5. § (5) bekezdése, a 139/2017. (VI. 9.) Korm. rendelet 10. § e) alpontja szerint módosított szöveg.
+[^325]: A 13. számú mellékletet a 82/2011. (V. 18.) Korm. rendelet 23. §-a iktatta be, szövege a 100/2014. (III. 25.) Korm. rendelet 5. § (5) bekezdése, a 139/2017. (VI. 9.) Korm. rendelet 10. § e) alpontja szerint módosított szöveg.

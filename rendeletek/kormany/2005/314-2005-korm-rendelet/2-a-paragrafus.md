@@ -18,7 +18,7 @@ a) az ügyben érdemi döntésre jogosult, környezetvédelmi és természetvéd
 
 b) a szakhatóság a szakhatósági állásfoglalásának kialakítását megelőzően
 
-## megkeresi a vízvédelmi hatóságot, amely nyilatkozik arról, hogy a megkeresésben szereplő tervezett tevékenység jelentős hatással bír-e a felszíni és felszín alatti vizekre.
+megkeresi a vízvédelmi hatóságot, amely nyilatkozik arról, hogy a megkeresésben szereplő tervezett tevékenység jelentős hatással bír-e a felszíni és felszín alatti vizekre.
 
 (5)[^38] A (4) bekezdésben foglaltakat a másodfokú eljárás során is alkalmazni kell azzal, hogy a másodfokú hatóság vagy szakhatóság a felülvizsgálat során a másodfokon eljáró vízvédelmi hatóságot keresi meg.
 

@@ -1,4 +1,4 @@
-20. §[^161] (1) Ha a kérelem minősített adatot vagy üzleti titoknak minősülő adatot tartalmaz, akkor azokat a kérelemhez külön iratban kell csatolni.
+20. §[^162] (1) Ha a kérelem minősített adatot vagy üzleti titoknak minősülő adatot tartalmaz, akkor azokat a kérelemhez külön iratban kell csatolni.
 
 (2) A környezetvédelmi hatóság a szakhatóság megkeresése során a kérelmet és mellékleteit kizárólag elektronikus úton bocsátja a szakhatóság rendelkezésre, az elektronikus úton közzétett kérelem és mellékletei elérési helyének megadásával.
 
@@ -22,7 +22,7 @@ a) az érintett létesítmény földrajzi helye és a helyi környezeti feltéte
 
 b) az érintett létesítmény műszaki jellemzői
 
-## miatt.
+miatt.
 
 (9) A környezetvédelmi hatóság a (8) bekezdésben foglaltak esetén – a miniszter útján – tájékoztatja az Európai Bizottságot.
 
@@ -30,14 +30,14 @@ b) az érintett létesítmény műszaki jellemzői
 
 (11) Az egységes környezethasználati engedély részletes tartalmi követelményeit a 11. számú melléklet tartalmazza.
 
-(12)[^162] Az engedély kettő vagy több olyan létesítményre vagy létesítményrészre is kiterjedhet, amelyet ugyanazon környezethasználó az adott telephelyen üzemeltet. Ilyen esetben a környezetvédelmi hatóság a tevékenység végzésének feltételeit az engedélyben úgy határozza meg, hogy az egyes létesítmények önállóan is megfeleljenek az e rendeletben megállapított követelményeknek.
+(12)[^163] Az engedély kettő vagy több olyan létesítményre vagy létesítményrészre is kiterjedhet, amelyet ugyanazon környezethasználó az adott telephelyen üzemeltet. Ilyen esetben a környezetvédelmi hatóság a tevékenység végzésének feltételeit az engedélyben úgy határozza meg, hogy az egyes létesítmények önállóan is megfeleljenek az e rendeletben megállapított követelményeknek.
 
 (13) Ha az elérhető legjobb technika alkalmazásával a vonatkozó jogszabályok szerinti környezetvédelmi célállapot elérése, illetve a szennyezettségi határértékek betartása nem biztosítható, a környezetvédelmi hatóság további feltételeket ír elő.
 
 (14) Olyan tevékenységek esetében, amelyekre vonatkozóan törvény biztonsági elemzés, illetve jelentés elkészítését írja elő, a biztonsági elemzést, illetve a jelentést az engedélyezés során a környezetvédelmi hatóság figyelembe veszi.
 
-(15)[^163]
+(15)[^164]
 
-[^161]: A 20. § a 480/2013. (XII. 17.) Korm. rendelet 3. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
-[^162]: A 20. § (12) bekezdése a 88/2017. (IV. 10.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^163]: A 20. § (15) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 63. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^162]: A 20. § a 480/2013. (XII. 17.) Korm. rendelet 3. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^163]: A 20. § (12) bekezdése a 88/2017. (IV. 10.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^164]: A 20. § (15) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 63. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

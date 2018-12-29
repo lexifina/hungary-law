@@ -1,4 +1,4 @@
-20/A. §[^164] (1) Az egységes környezethasználati engedély meghatározott időre, de legalább tíz évre adható meg a (2) bekezdésben foglalt kivétellel.
+20/A. §[^165] (1) Az egységes környezethasználati engedély meghatározott időre, de legalább tíz évre adható meg a (2) bekezdésben foglalt kivétellel.
 
 (2) A környezetvédelmi hatóság az egységes környezethasználati engedélyt 5 évre adja ki,
 
@@ -14,11 +14,11 @@ e) új tevékenység első alkalommal történő engedélyezése esetén.
 
 (3) Az egységes környezethasználati engedélyben foglalt engedélyek időbeli hatályát az azokra vonatkozó külön jogszabályi előírások szerint kell megállapítani.
 
-(4)[^165] Az engedélyben foglalt követelményeket és előírásokat az Európai Bizottság adott tevékenységre vonatkozó elérhető legjobb technikakövetkeztetésekről szóló határozatának kihirdetésétől számított négy éven belül, de legalább az engedély kiadásától vagy legutolsó felülvizsgálatától számított ötévente a Kvt.-nek a környezetvédelmi felülvizsgálatra vonatkozó szabályai szerint – az e rendeletben foglaltakra is figyelemmel – felül kell vizsgálni. A felülvizsgálat során a környezetvédelmi hatóság minden, monitoringból vagy ellenőrzésből származó információt, továbbá az engedély kiadása vagy legutolsó felülvizsgálata óta kihirdetett vonatkozó elérhető legjobb technikakövetkeztetést felhasznál.
+(4)[^166] Az engedélyben foglalt követelményeket és előírásokat az Európai Bizottság adott tevékenységre vonatkozó elérhető legjobb technikakövetkeztetésekről szóló határozatának kihirdetésétől számított négy éven belül, de legalább az engedély kiadásától vagy legutolsó felülvizsgálatától számított ötévente a Kvt.-nek a környezetvédelmi felülvizsgálatra vonatkozó szabályai szerint – az e rendeletben foglaltakra is figyelemmel – felül kell vizsgálni. A felülvizsgálat során a környezetvédelmi hatóság minden, monitoringból vagy ellenőrzésből származó információt, továbbá az engedély kiadása vagy legutolsó felülvizsgálata óta kihirdetett vonatkozó elérhető legjobb technikakövetkeztetést felhasznál.
 
-(4a)[^166] Ha a tevékenység nem tartozik az elérhető legjobb technikakövetkeztetések egyikének hatálya alá sem, az engedélyben foglalt követelményeket és előírásokat a Kvt.-nek a környezetvédelmi felülvizsgálatra vonatkozó szabályai szerint – az e rendeletben foglaltakra is figyelemmel – felül kell vizsgálni abban az esetben, ha az elérhető legjobb technikák fejlődése lehetővé teszi a kibocsátások jelentős mértékű csökkentését.
+(4a)[^167] Ha a tevékenység nem tartozik az elérhető legjobb technikakövetkeztetések egyikének hatálya alá sem, az engedélyben foglalt követelményeket és előírásokat a Kvt.-nek a környezetvédelmi felülvizsgálatra vonatkozó szabályai szerint – az e rendeletben foglaltakra is figyelemmel – felül kell vizsgálni abban az esetben, ha az elérhető legjobb technikák fejlődése lehetővé teszi a kibocsátások jelentős mértékű csökkentését.
 
-(5)[^167] A környezetvédelmi hatóság hat hónappal az egységes környezethasználati engedély időbeli hatályának lejártát megelőzően értesíti a környezethasználót a lejárat időpontjáról és a tevékenység továbbfolytatásának feltételeiről. Az értesítés elmaradása miatt a környezetvédelmi hatósággal szemben kárigény nem érvényesíthető, továbbá az nem mentesíti a környezethasználót a tevékenység folytatásához szükséges eljárás kellő időben történő kezdeményezése, valamint a tevékenység jogellenes folytatása miatti felelősség alól.
+(5)[^168] A környezetvédelmi hatóság hat hónappal az egységes környezethasználati engedély időbeli hatályának lejártát megelőzően értesíti a környezethasználót a lejárat időpontjáról és a tevékenység továbbfolytatásának feltételeiről. Az értesítés elmaradása miatt a környezetvédelmi hatósággal szemben kárigény nem érvényesíthető, továbbá az nem mentesíti a környezethasználót a tevékenység folytatásához szükséges eljárás kellő időben történő kezdeményezése, valamint a tevékenység jogellenes folytatása miatti felelősség alól.
 
 (6) Az engedély időbeli hatályának lejártakor, ha a környezethasználó a tevékenységet továbbra is folytatni kívánja, a Kvt.-nek a környezetvédelmi felülvizsgálatra vonatkozó rendelkezéseit kell alkalmazni az e rendeletben foglaltakra is figyelemmel.
 
@@ -50,7 +50,7 @@ b) az engedélyt visszavonja vagy a kérelmet elutasítja, és szükség esetén
 
 (13) Az egységes környezethasználati engedélyezési eljárásban, ha országhatáron átterjedő jelentős környezeti hatás feltételezhető, a 12. § (4) bekezdése, valamint a 13–15. § szerinti eljárást kell alkalmazni, ha nemzetközi szerződés ettől eltérően nem rendelkezik.
 
-[^164]: A 20/A. §-t a 480/2013. (XII. 17.) Korm. rendelet 4. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
-[^165]: A 20/A. § (4) bekezdése a 88/2017. (IV. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^166]: A 20/A. § (4a) bekezdését a 88/2017. (IV. 10.) Korm. rendelet 5. §-a iktatta be.
-[^167]: A 20/A. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^165]: A 20/A. §-t a 480/2013. (XII. 17.) Korm. rendelet 4. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^166]: A 20/A. § (4) bekezdése a 88/2017. (IV. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^167]: A 20/A. § (4a) bekezdését a 88/2017. (IV. 10.) Korm. rendelet 5. §-a iktatta be.
+[^168]: A 20/A. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés d) pontja szerint módosított szöveg.

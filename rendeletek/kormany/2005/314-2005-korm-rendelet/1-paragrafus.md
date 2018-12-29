@@ -22,11 +22,11 @@ ea) jelentősek, környezeti hatásvizsgálat és egységes környezethasználat
 
 eb) nem jelentősek, egységes környezethasználati engedélyezési eljárás
 
-## alapján egységes környezethasználati
+alapján egységes környezethasználati
 
 f)[^3] a 3. számú mellékletben szerepel, azonban nem éri el a 3. számú mellékletben meghatározott küszöbértéket, vagy a 3. számú mellékletben a tevékenységre megállapított feltétel nem teljesül, de a környezetvédelmi hatóság más hatósági, szakhatósági eljárásban megállapította, hogy a tevékenység várható környezeti hatásai jelentősek, akkor környezeti hatásvizsgálati eljárás alapján környezetvédelmi
 
-## engedély szükséges.
+engedély szükséges.
 
 (4)[^4] A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárást a környezethasználó kérelmére a környezetvédelmi hatóság – önálló engedélyezési eljárások lefolytatása helyett – összevontan folytatja le. Ha a környezethasználó nem kéri összevont eljárás lefolytatását, akkor a tevékenység megkezdéséhez környezetvédelmi és egységes környezethasználati engedély szükséges. A környezetvédelmi engedély megszerzése az egységes környezethasználati engedélyezési eljárást megelőzi.
 

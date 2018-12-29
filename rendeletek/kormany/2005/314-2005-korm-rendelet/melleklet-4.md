@@ -1,6 +1,6 @@
-## ”
+## „
 
-## 3. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^251]
+## 3. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^252]
 
 ## A környezetvédelmi hatóság előzetes vizsgálatban hozott döntésétől függően környezeti hatásvizsgálatra kötelezett tevékenységek
 
@@ -314,7 +314,7 @@
 
 | b) 10 000 m3 össztároló-kapacitástól egyéb éghető gázok esetében |
 
-| c) 500 m3 össztároló-kapacitástól védett természeti területen, Natura 2000 területen, barlang védőövezetén |
+| c) 500 m3össztároló-kapacitástól védett természeti területen, Natura 2000 területen, barlang védőövezetén |
 
 | 97. | Szén, lignit önálló felszíni tárolója | a) 100 000 t össztároló-kapacitástól |
 
@@ -394,7 +394,7 @@
 
 | Nómenklatúrába nem besorolt tevékenységek, illetve létesítmények |
 
-| 116. | „A” típusú izotóplaboratórium | méretmegkötés nélkül |
+| 116. | A” típusú izotóplaboratórium | méretmegkötés nélkül |
 
 | 117. | Mélyfúrás kiépített fúrólétesítménnyel (amennyiben nem a listában felsorolt más tevékenység része) | vízbázis védőövezetén (ha a tevékenység megkezdését a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló jogszabály a védőövezeten nem zárja ki), vagy védett természeti területen, Natura 2000 területen, barlang védőövezetén |
 
@@ -452,6 +452,8 @@
 
 | 132. | A 3. számú melléklet 1–128. pontjában feltüntetett mennyiségi küszöbérték alatti tevékenység bővítése, ha az a bővítés következtében eléri vagy meghaladja a küszöbértéket, kivéve, ha a bővítés az 1. számú melléklet B. és C. oszlopa szerint meghatározott tevékenység vagy létesítmény megvalósítása |  |
 
+## ”
+
 4. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez
 
-[^251]: A 3. számú melléklet a 145/2012. (VII. 3.) Korm. rendelet 40. § (4) bekezdésével megállapított, a 175/2012. (VII. 26.) Korm. rendelet 2. §-a, a 441/2012. (XII. 29.) Korm. rendelet 10. § (4)–(5) bekezdése, az 559/2013. (XII. 31.) Korm. rendelet 30. §-a, a 100/2014. (III. 25.) Korm. rendelet 5. § (1) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 24. §-a, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja, a 343/2017. (XI. 15.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^252]: 

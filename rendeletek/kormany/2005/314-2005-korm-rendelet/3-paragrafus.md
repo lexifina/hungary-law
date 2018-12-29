@@ -24,7 +24,7 @@ d) a dokumentáció elérési helyére vonatkozó tájékoztatást,
 
 e) az eljárás megindításának napját és az ügyintézési határidőt, az ügyintéző nevét és hivatali elérhetőségét.
 
-(4)[^45] A környezetvédelmi hatóság a közlemény közzétételével egyidejűleg a tevékenység telepítési helye szerinti település jegyzőjének megküldi a közleményt, a kérelem és mellékleteinek nyomtatott példányát, a feltételezhetően érintett települések jegyzőinek a közleményt. A jegyző haladéktalanul, de legkésőbb öt napon belül gondoskodik a közlemény közterületen és a helyben szokásos egyéb módon történő közhírré tételéről. A jegyző a közlemény közhírré tételét követő öt napon belül tájékoztatja a környezetvédelmi hatóságot a közhírré tétel időpontjáról és helyéről, a telepítési hely szerinti település jegyzője ezeken felül a kérelem és mellékletei nyomtatott példányába való betekintési lehetőség módjáról is.
+(4)[^45] A környezetvédelmi hatóság a közlemény közzétételével egyidejűleg a tevékenység telepítési helye szerinti település jegyzőjének megküldi a közleményt, a kérelem és mellékleteinek elektronikus példányát, a feltételezhetően érintett települések jegyzőinek a közleményt. A jegyző haladéktalanul, de legkésőbb öt napon belül gondoskodik a közlemény közterületen és a helyben szokásos egyéb módon történő közhírré tételéről. A jegyző a közlemény közhírré tételét követő öt napon belül tájékoztatja a környezetvédelmi hatóságot a közhírré tétel időpontjáról és helyéről, a telepítési hely szerinti település jegyzője ezeken felül a kérelem és mellékletei elektronikus példányába való betekintési lehetőség módjáról is.
 
 (5)[^46] Katonai titokvédelem alá eső tevékenység esetén a kérelemről és az előzetes vizsgálati dokumentációról a környezetvédelmi hatóság csak a telepítés helye szerinti, valamint a feltételezetten érintett települések jegyzőjét tájékoztatja.
 
@@ -39,7 +39,7 @@ e) az eljárás megindításának napját és az ügyintézési határidőt, az 
 [^42]: A 3. § (2) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja, a 477/2016. (XII. 27.) Korm. rendelet 33. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^43]: A 3. § (2a) bekezdését a 139/2017. (VI. 9.) Korm. rendelet 1. §-a iktatta be.
 [^44]: A 3. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 155. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^45]: A 3. § (4) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b)–c) pontja szerint módosított szöveg.
+[^45]: A 3. § (4) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b)–c) pontja, a 289/2018. (XII. 21.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^46]: A 3. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^47]: A 3. § (6) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 31. §-a hatályon kívül helyezte.
 [^48]: A 3. § (7) bekezdését a 110/2010. (IV. 9.) Korm. rendelet 2. §-a iktatta be, szövege a 228/2010. (VIII. 13.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) és e) pontja szerint módosított szöveg.

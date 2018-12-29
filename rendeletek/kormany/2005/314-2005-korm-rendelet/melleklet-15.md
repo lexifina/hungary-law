@@ -1,6 +1,6 @@
-15. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^326]
+15. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^327]
 
-## Az egységes környezethasználati engedély köteles tevékenységek környezeti kockázatértékelésének szempontrendszere
+Az egységes környezethasználati engedély köteles tevékenységek környezeti kockázatértékelésének szempontrendszere
 
 1. Egy éven belül helyszíni ellenőrzést kell tartani, ha:
 
@@ -26,4 +26,4 @@
 
 2.3. a tárgyi évet megelőző évben a létesítmény az engedélyben meghatározott feltételeket teljesítette.
 
-[^326]: A 15. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 11. § (5) bekezdése iktatta be.
+[^327]: A 15. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 11. § (5) bekezdése iktatta be.
