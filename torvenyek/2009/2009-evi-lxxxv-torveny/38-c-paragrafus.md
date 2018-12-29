@@ -14,7 +14,7 @@ d) kizárólag az ügyfele által megjelölt fizetési számlákhoz és az azokh
 
 e) nem kér fizetési számlához kapcsolódó érzékeny fizetési adatot és
 
-f) az ügyfele által kifejezetten igényelt számlainformációs szolgáltatástól eltérő célból nem használ és nem tárol adatokat, valamint nem fér hozzá adatokhoz.
+f) az ügyfele által kifejezetten igényelt számlainformációs szolgáltatástól eltérő célból nem használ és nem tárol adatokat, valamint nem fér hozzá adatokhoz, a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott adatkezelési és adatvédelmi követelményeknek megfelelő jogszabályi előírásokkal összhangban.
 
 (4) A fizetési számlát vezető pénzforgalmi szolgáltató – a számlainformációs szolgáltatás igénybevétele érdekében –
 

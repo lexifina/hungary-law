@@ -62,7 +62,7 @@ c) akinek a fizetési számláját hatósági átutalási megbízás vagy átuta
 
 18. munkanap: az a nap, amelyen az ügyfél pénzforgalmi szolgáltatója fizetési művelet teljesítése céljából nyitva tart,
 
-18a. online módon hozzáférhető fizetési számla: olyan fizetési számla, amely vonatkozásában lehetőség van számítástechnikai eszközök közvetlen kapcsolata útján fizetési megbízást adni, valamint adatokhoz, információkhoz hozzáférni,
+18a. online módon hozzáférhető fizetési számla: olyan fizetési számla, amely vonatkozásában lehetőség van számítástechnikai eszközök közvetlen kapcsolata útján fizetési megbízást adni, valamint adatokhoz, információkhoz hozzáférni, ide nem értve az olyan korlátozott rendeltetésű fizetési számlát, amelyen lévő pénzeszközök kizárólag jogszabályban meghatározott célokra használhatók fel,
 
 19. pénz: bankjegy, érme, számlapénz, és az elektronikus pénz,
 

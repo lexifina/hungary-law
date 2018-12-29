@@ -8,7 +8,7 @@
 
 (4) A kedvezményezett pénzforgalmi szolgáltatója a (3) bekezdésben meghatározott felelősségének fennállása esetén haladéktalanul köteles biztosítani, hogy a kedvezményezett számláján jóváírt fizetési művelet összege a kedvezményezett rendelkezésére álljon. Ebben az esetben a kedvezményezett fizetési számláján történő jóváírás értéknapja nem lehet későbbi, mint az a nap, amely a hibátlan teljesítés esetén lett volna.
 
-(5) Az (1) és (3) bekezdésben foglaltak kivételével a fizetési művelet nem teljesítéséért vagy hibás teljesítéséért a fizető fél felé a saját pénzforgalmi szolgáltatója felel.
+(5) Az (1), (3) és (4) bekezdésben foglaltak kivételével a fizetési művelet nem teljesítéséért vagy hibás teljesítéséért a fizető fél felé a saját pénzforgalmi szolgáltatója felel.
 
 (6) A fizető fél pénzforgalmi szolgáltatója az (5) bekezdésben meghatározott felelősségének fennállása esetén haladéktalanul köteles a nem teljesített vagy hibásan teljesített fizetési művelet összegét a fizető fél részére visszatéríteni, és a fizetési számlát olyan állapotba hozni, mintha a hibásan teljesített fizetési műveletre nem került volna sor. A fizető fél fizetési számláján a jóváírás értéknapja nem lehet későbbi, mint az összeggel való megterhelés napja.
 

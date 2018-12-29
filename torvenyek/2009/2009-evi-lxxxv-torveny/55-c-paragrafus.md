@@ -2,7 +2,7 @@
 
 a) online fér hozzá fizetési számlájához,
 
-b) elektronikus távoli fizetési műveletet kezdeményez,
+b) elektronikus fizetési műveletet kezdeményez,
 
 c) bármely műveletet olyan távoli csatornán keresztül hajt végre, ami fizetéssel kapcsolatos csalásokra és más visszaélésekre adhat módot.
 

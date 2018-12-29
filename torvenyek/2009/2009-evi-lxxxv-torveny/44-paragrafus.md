@@ -1,4 +1,4 @@
-44. § (1) A jóvá nem hagyott fizetési művelet teljesítése esetén – függetlenül attól, hogy azt fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltatón keresztül kezdeményezték vagy sem – a fizető fél fizetési számláját vezető pénzforgalmi szolgáltató – kivéve, ha az adott helyzetben észszerű okból az ügyfél csalására gyanakszik, és ezen okról írásban tájékoztatja a Felügyeletet – köteles
+44. § (1) A jóvá nem hagyott fizetési művelet teljesítése esetén – függetlenül attól, hogy azt fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltatón keresztül kezdeményezték vagy sem – a fizető fél fizetési számláját vezető pénzforgalmi szolgáltató – kivéve, ha az adott helyzetben észszerű okból csalásra gyanakszik, és ezen okról írásban tájékoztatja a Felügyeletet – köteles
 
 a) azután, hogy tudomást szerzett vagy tájékoztatták a műveletről haladéktalanul, de legkésőbb az ezt követő munkanap végéig megtéríteni a fizető fél részére a jóvá nem hagyott fizetési művelet összegét, és
 
