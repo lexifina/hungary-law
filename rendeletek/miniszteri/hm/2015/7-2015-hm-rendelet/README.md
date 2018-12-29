@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-7-20-15
 | 2018-01-27 | 2015-7-20-15.12 | 1/2018. (I. 26.) HM rendelet |
 | 2018-03-01 | 2015-7-20-15.13 | 3/2018. (II. 28.) HM rendelet |
 | 2018-07-28 | 2015-7-20-15.14 | 12/2018. (VII. 27.) HM rendelet |
+| 2018-12-29 | 2015-7-20-15.15 | 20/2018. (XII. 28.) HM rendelet |

@@ -6,9 +6,11 @@ a) III., IV. vagy V. besorolási osztályba tartozó beosztásból a II. besorol
 
 b) III. besorolási osztályba tartozó beosztásból az V. besorolási osztályba,
 
-c) VI. besorolási osztályba tartozó beosztásból a II. vagy az V. besorolási osztályba vagy
+c)[^70] VI. besorolási osztályba tartozó beosztásból a II. vagy az V. besorolási osztályba,
 
-d) a Hjt. 6. melléklete szerinti felsővezetői beosztásból a II. vagy az V. besorolási osztályba
+d)[^71] a Hjt. 6. melléklete szerinti felsővezetői beosztásból a II. vagy az V. besorolási osztályba vagy
+
+e)[^72] az 1. § (1) bekezdése szerinti beosztásból a II. vagy az V. besorolási osztályba
 
 ## tartozó külföldi beosztásba kerül áthelyezésre, részére a külföldön ellátott beosztás alapján megállapított alapilletmény összege és a tartós külföldi szolgálatot megelőző napon érvényes alapilletmény összege közötti különbözetet a külszolgálat időtartamára külszolgálati kiegészítő illetmény címén kell megállapítani.
 
@@ -18,3 +20,6 @@ d) a Hjt. 6. melléklete szerinti felsővezetői beosztásból a II. vagy az V. 
 
 [^68]: A 29/E. alcímet (48/E. §) az 1/2018. (I. 26.) HM rendelet 40. §-a iktatta be.
 [^69]: A 48/E. § (1) bekezdés nyitó szövegrésze a 12/2018. (VII. 27.) HM rendelet 47. § d) pontja szerint módosított szöveg.
+[^70]: A 48/E. § (1) bekezdés c) pontja a 20/2018. (XII. 28.) HM rendelet 104. § 14. pontja szerint módosított szöveg.
+[^71]: A 48/E. § (1) bekezdés d) pontja a 20/2018. (XII. 28.) HM rendelet 104. § 15. pontja szerint módosított szöveg.
+[^72]: A 48/E. § (1) bekezdés e) pontját a 20/2018. (XII. 28.) HM rendelet 101. §-a iktatta be.

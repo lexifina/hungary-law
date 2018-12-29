@@ -20,6 +20,6 @@
 
 | 9 | – | Az 1. § (1) bekezdés alá tartozók | 3,13 |
 
-6. melléklet a 7/2015. (VI. 22.) HM rendelethez[^139]
+6. melléklet a 7/2015. (VI. 22.) HM rendelethez[^143]
 
-[^139]: A 6. mellékletet a 25/2016. (XII. 22.) HM rendelet 89. §-a iktatta be.
+[^143]: A 6. mellékletet a 25/2016. (XII. 22.) HM rendelet 89. §-a iktatta be.
