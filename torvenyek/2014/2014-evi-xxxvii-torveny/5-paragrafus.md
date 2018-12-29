@@ -15,3 +15,5 @@
 a) a szanálási terv lényegi részét, így különösen az 1. melléklet A) pont 1. és 6. alpontja szerinti információt,
 
 b) a szanálhatósági vizsgálat lefolytatása és a szanálhatósági akadályok elhárítása érdekében az 1. melléklet pontjaiban – így különösen az 1. melléklet A) pont 5., 8., 11. és 14. alpontjában – meghatározott információt.
+
+(8) A szanálási feladatkörében eljáró MNB a szanálási tervről, valamint azok módosításáról tájékoztatja a Felügyeletet.

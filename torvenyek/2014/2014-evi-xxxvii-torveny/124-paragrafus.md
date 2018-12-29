@@ -1,6 +1,6 @@
 ## 63. Együttműködés harmadik országbeli hatóságokkal
 
-124. § (1) A szanálási feladatkörében eljáró MNB harmadik ország szanálási hatóságával szanálási együttműködési megállapodást köthet, ha a harmadik állam rendelkezik a magyar jogszabályok által támasztott adatkezelési és adatvédelmi követelményeknek megfelelő jogszabályi előírásokkal.
+124. § (1) A szanálási feladatkörében eljáró MNB érintett harmadik országbeli hatósággal szanálási együttműködési megállapodást köthet, ha a harmadik ország rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott adatkezelési és adatvédelmi követelményeknek megfelelő jogszabályi előírásokkal, valamint az Európai Unió nem kötött a harmadik országgal szanálási együttműködési megállapodást. A szanálási feladatkörében eljáró MNB érintett harmadik országbeli hatósággal kötött szanálási együttműködési megállapodásának a (2) bekezdés szerinti azon tárgykörei, amelyekről az Európai Uniónak az érintett harmadik országgal kötött együttműködési megállapodása nem rendelkezik, az utóbbi hatálybalépését követően is érvényben és hatályban maradnak.
 
 (2) Az együttműködési megállapodás kitér az alábbiakra:
 
@@ -16,6 +16,6 @@ e) együttes szanálási intézkedések esetén a nyilvános kommunikáció koor
 
 f) az a)–e) pont szerinti információcserére és együttműködésre vonatkozó eljárások és szabályok, többek között – adott esetben – válságkezelő csoportok létrehozása és működtetése révén.
 
-(3) A szanálási feladatkörében eljáró MNB honlapján közzéteszi, hogy melyik harmadik országok szanálási hatóságával kötött szanálási együttműködési megállapodást.
+(3) A szanálási feladatkörében eljáró MNB honlapján közzéteszi, hogy melyik érintett harmadik országbeli hatósággal kötött szanálási együttműködési megállapodást.
 
-(4) Harmadik országok szanálási hatóságaival való információcserére az együttműködési megállapodás rendelkezései az irányadóak.
+(4) Az érintett harmadik országbeli hatóságokkal való információcserére az együttműködési megállapodás rendelkezései az irányadóak.

@@ -20,7 +20,7 @@ c) az olyan értékpapíroknak, amelyek értékét a szanálási feladatkörben 
 
 a) intézményre vagy csoportra kidolgozott szanálási terv tekintetében,
 
-b) reorganizációs terv tekintetében és eleget tesz-e a 69. § (4) bekezdés b) és c) pontjában meghatározott értékek összege fedezetének.
+b) reorganizációs terv tekintetében és eleget tesz-e a 61. § (2a) bekezdésében, valamint a 69. § (4) bekezdés b) és c) pontjában meghatározott értékek összege fedezetének.
 
 (7) Az intézmény és az 1. § szerinti pénzügyi vállalkozás által kibocsátott vagy keletkeztetett bármilyen értékpapír vagy kötelezettség – amely nem mentesül a hitelezői feltőkésítés alól, nem a Hpt. 57. § (1) bekezdés a) és b) pontjába sorolandó betét, és nem EGT-állam jogszabályai által szabályozott – olyan szerződéses feltételt tartalmaz, amely
 

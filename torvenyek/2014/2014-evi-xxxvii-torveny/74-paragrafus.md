@@ -4,17 +4,17 @@
 
 ## 33. Tőkeelemek leírása vagy átalakítása
 
-74. § (1) A szanálási feladatkörében eljáró MNB az e törvényben meghatározott körülmények és feltételek fennállása esetén jogosult az intézmény tőkeelemeinek leírására, valamint az intézmény tagsági részesedésévé történő átalakítására.
+74. § (1) A szanálási feladatkörében eljáró MNB az e törvényben meghatározott körülmények és feltételek fennállása esetén jogosult az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás tőkeelemeinek leírására, valamint az intézmény tagsági részesedésévé történő átalakítására.
 
-(2) A tőkeelemek leírására vagy átalakítására vonatkozó jogosultságot gyakorolhatja önállóan vagy szanálási eszközzel együtt, ha a szanálási feltételek teljesülnek.
+(2) A tőkeelemek leírására vagy átalakítására vonatkozó jogosultságot a szanálási feladatkörében eljáró MNB önállóan vagy szanálási eszközzel együtt gyakorolja, ha a szanálási feltételek teljesülnek.
 
-(3) A szanálási feladatkörében eljáró MNB akkor gyakorolhatja az intézmény által kibocsátott kiegészítő alapvető és járulékos tőkeelem tekintetében a leírásra vagy átalakításra vonatkozó jogosultságát
+(3) A szanálási feladatkörében eljáró MNB akkor gyakorolhatja az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás által kibocsátott kiegészítő alapvető és járulékos tőkeelem tekintetében a leírásra vagy átalakításra vonatkozó jogosultságát
 
-a) ha megállapítja, hogy az intézmény nem lesz többé életképes, kivéve ha gyakorolja a kiegészítő alapvető és járulékos tőkeelemek kapcsán a leírásra vagy az átalakításra való jogosultságot;
+a) ha megállapítja, hogy az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás nem lesz többé életképes, kivéve ha gyakorolja a kiegészítő alapvető és járulékos tőkeelemek kapcsán a leírásra vagy az átalakításra való jogosultságot;
 
 b) az anyavállalat szintjén kibocsátott tőkeelemek esetében, ha ezeket a tőkeelemeket a Felügyelet elismeri a szavatoló tőke követelményeknek az anyavállalat szintjén történő egyéni vagy összevont alapon történő teljesítéseként, és a szanálási feladatkörében eljáró MNB megállapítja, hogy a csoport nem lesz többé életképes, hacsak a szóban forgó instrumentumok kapcsán nem gyakorolják a leírásra vagy átalakításra vonatkozó jogosultságot;
 
-c) ha az intézmény rendkívüli állami pénzügyi támogatást igényel; vagy
+c) ha az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás rendkívüli állami pénzügyi támogatást igényel; vagy
 
 d) az e törvényben meghatározott állami tőkeemelés során.
 

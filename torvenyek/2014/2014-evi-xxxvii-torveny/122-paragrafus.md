@@ -10,6 +10,6 @@ c) a Magyarországon székhellyel vagy lakóhellyel rendelkező vagy kifizetend�
 
 d) a harmadik országbeli szanálási eljárások elismerése vagy végrehajtása jelentős költségvetési következményekkel járna Magyarország számára; vagy
 
-e) az elismerés vagy a végrehajtás a közérdekkel ellentétes lenne.
+e) az elismerés vagy a végrehajtás a magyar joggal ellentétes lenne.
 
 (2) A szanálási feladatkörében eljáró MNB az (1) bekezdés d) pontjában foglalt kérdésben kikéri a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter véleményét.

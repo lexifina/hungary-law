@@ -2,7 +2,7 @@
 
 99. § (1) Ha a szanálási feladatkörében eljáró MNB
 
-a) a szanálás alatt álló valamely intézmény eszközeinek, forrásainak, jogainak vagy kötelezettségeinek egy részét, de nem az egészét ruházza át egy másik szervezetre, vagy
+a) a szanálás alatt álló valamely intézmény eszközeinek, forrásainak, jogainak vagy kötelezettségeinek egy részét, de nem az egészét egy másik szervezetre, vagy a szanálási eszköz alkalmazása során az áthidaló intézménytől, illetve a szanálási vagyonkezelőtől egy másik személyre ruházza át, vagy
 
 b) a 85. § (1) bekezdés f) pontjában meghatározott jogosultságokat gyakorolja,
 

@@ -1,6 +1,6 @@
 12. § (1) A szanálhatósági akadályok kezelése vagy megszüntetése érdekében a szanálási feladatkörében eljáró MNB – a Felügyelettel történt előzetes egyeztetést követően – előírhatja az intézmény számára
 
-a) a kritikus funkciók ellátására vonatkozó – csoporton belüli vagy harmadik felekkel kötött – szolgáltatási szerződések kidolgozását és megkötését, illetve módosítását;
+a) a csoporton belüli finanszírozási rendszerek vagy ezek hiánya felülvizsgálatát, vagy a kritikus funkciók ellátására vonatkozó – csoporton belüli vagy harmadik felekkel kötött – szolgáltatási szerződések kidolgozását és megkötését, illetve módosítását;
 
 b) az egyéni és összesített kitettségek értékének felső határát;
 
@@ -8,7 +8,7 @@ c) a szanálási célok szempontjából fontos konkrét vagy általános tájék
 
 d) egyes eszközök elidegenítését;
 
-e) új vagy meglévő üzletágak fejlesztésének, illetve új vagy meglévő termékek értékesítésének a korlátozását, megszüntetését vagy megkezdésétől való tartózkodást;
+e) jelenlegi vagy tervezett tevékenységek, új vagy meglévő üzletágak fejlesztésének, illetve új vagy meglévő termékek értékesítésének a korlátozását, megszüntetését vagy megkezdésétől való tartózkodást;
 
 f) az intézmény, illetve a közvetlenül vagy közvetve az ellenőrző befolyása alatt álló, csoporthoz tartozó bármely vállalkozás jogi vagy működési struktúráinak összetettségét csökkentő változtatásokat annak érdekében, hogy a kritikus funkciók a szanálási eszközök alkalmazása révén jogi és működési szempontból elkülöníthetők legyenek más funkcióktól; vagy
 
@@ -20,4 +20,4 @@ h) a szavatoló tőkére és a leírható vagy átalakítható kötelezettségek
 
 (3) A szanálhatósági akadályok kezelése vagy megszüntetése érdekében a szanálási feladatkörében eljáró MNB – a Felügyelettel történt előzetes egyeztetést követően – előírhatja az intézmény számára, ha az vegyes tevékenységű holding társaság leányvállalata, hogy a vegyes tevékenységű holding társaság hozzon létre külön pénzügyi holding társaságot az intézmény feletti ellenőrző befolyás gyakorlására, ha ez az intézmény szanálásának elősegítése érdekében szükséges.
 
-(4) A szanálási feladatkörében eljáró MNB az (1)–(3) bekezdés szerinti eljárása során – az arányosság elvére is tekintettel – figyelembe veszi, hogy a szanálhatósági akadályok milyen fenyegetést jelentenek a pénzügyi közvetítőrendszer stabilitására nézve, és azt, hogy a szanálhatósági akadály kezelésére vagy megszüntetésére alkalmazandó intézkedések milyen hatást gyakorolnak az intézmény üzleti tevékenységére és stabilitására, valamint a gazdasági növekedéshez való hozzájárulási képességére.
+(4) A szanálási feladatkörében eljáró MNB az (1)–(3) bekezdés szerinti eljárása során – a Felügyelettel, valamint adott esetben a makroprudenciális feladatkörében eljáró MNB-vel történő egyeztetést követően – az arányosság elvére is tekintettel figyelembe veszi, hogy a szanálhatósági akadályok milyen fenyegetést jelentenek a pénzügyi közvetítőrendszer stabilitására nézve, és azt, hogy a szanálhatósági akadály kezelésére vagy megszüntetésére alkalmazandó intézkedések milyen hatást gyakorolnak az intézmény üzleti tevékenységére és stabilitására, a gazdasági növekedéshez való hozzájárulási képességére, a pénzügyi szolgáltatások belső piacára, valamint az EGT-államok vagy az EGT egészének pénzügyi stabilitására.

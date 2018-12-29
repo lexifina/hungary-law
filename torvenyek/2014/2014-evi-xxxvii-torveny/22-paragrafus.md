@@ -4,7 +4,7 @@
 
 ## 10. Független értékelés
 
-22. § (1) A szanálási intézkedés meghozatalára vonatkozó döntést megelőzően a szanálási feladatkörében eljáró MNB gondoskodik arról, hogy az intézmény eszközeinek és forrásainak megbízható és valós értékelését (a továbbiakban: független értékelés) független, jogszabályban meghatározott szakmai és összeférhetetlenségi követelményeknek megfelelő személy (a továbbiakban: független értékelő) végezze.
+22. § (1) A szanálási intézkedés meghozatalára vonatkozó döntést megelőzően a szanálási feladatkörében eljáró MNB gondoskodik arról, hogy az intézmény, 1. § (1) bekezdés szerinti pénzügyi vállalkozás eszközeinek és forrásainak megbízható és valós értékelését (a továbbiakban: független értékelés) független, jogszabályban meghatározott szakmai és összeférhetetlenségi követelményeknek megfelelő személy (a továbbiakban: független értékelő) végezze.
 
 (2) A független értékelők névjegyzékét a szanálási feladatkörében eljáró MNB vezeti, és honlapján közzéteszi. A független értékelői nyilvántartásban fel kell tüntetni:
 

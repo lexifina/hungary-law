@@ -6,7 +6,7 @@ b) biztosíttatnia kell az intézménynél a hitelezői feltőkésítésbe bevon
 
 c) ha a szanálási terv alapján bizonyos leírható vagy átalakítható kötelezettségek a hitelezői feltőkésítésből kizárásra kerülhetnek vagy a részleges átruházás keretében sor kerülhet teljes egészében egy átvevő fél részére való átruházásukra, akkor ezen esetekben elegendő leírható és átalakítható tőkeelemmel kell az intézménynek ezt követően is rendelkeznie a b) pontban meghatározottak teljesülése érdekében,
 
-d) az intézmény mérete, tevékenysége, finanszírozási modellje és kockázati profilja figyelembevételével,
+d) az intézmény mérete, tevékenysége, finanszírozási modellje és kockázati profilja,
 
 e) az OBA szanálási célú hozzájárulási kötelezettségének lehetséges mértéke,
 

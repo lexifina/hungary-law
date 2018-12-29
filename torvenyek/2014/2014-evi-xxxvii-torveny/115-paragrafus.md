@@ -44,7 +44,7 @@ ba) más EGT-állam szanálási hatóságával,
 
 bb) más EGT-állam illetékes felügyeleti hatóságaival, illetékes minisztériumokkal, központi bankokkal, betétbiztosítási és befektetés-védelmi rendszerekkel, a fizetésképtelenségi eljárásokért felelős hatóságokkal,
 
-bc) az Európai Bankhatósággal,
+bc) az EBH-val,
 
 bd) az Európai Bizottsággal,
 

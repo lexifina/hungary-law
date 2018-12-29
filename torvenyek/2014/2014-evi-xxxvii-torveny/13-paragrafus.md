@@ -1,6 +1,6 @@
 ## 5. A csoport szanálhatóságának értékelése és a csoportszintű szanálhatóság akadályainak kezelése vagy megszüntetése
 
-13. § (1) Egy csoport – a 17. § figyelembevétele mellett – akkor szanálható, ha a szanálási feladatkörében eljáró MNB, mint csoportszintű szanálási hatóság megítélése szerint a csoporttal szembeni fizetésképtelenségi eljárás vagy a csoportnak a szanálási terv alapján történő szanálása során
+13. § (1) Egy csoport – a 17. § figyelembevétele mellett – akkor szanálható, ha a csoportszintű szanálási hatóság megítélése szerint a csoporttal szembeni fizetésképtelenségi eljárás vagy a csoportnak a szanálási terv alapján történő szanálása során
 
 a) fenntartható a kritikus funkciók folytonossága, és
 

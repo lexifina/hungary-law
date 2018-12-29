@@ -8,7 +8,7 @@ a) a jogsértés folytatásától való eltiltás;
 
 b) a vezetői állású személyek legfeljebb hat hónapig terjedő felfüggesztése;
 
-c) természetes személlyel szemben legfeljebb öt millió eurónak megfelelő forint összegű pénzbírság kiszabása;
+c) természetes személlyel szemben legfeljebb egymilliárd-ötszázötvenötmillió-nyolcszázötvenezer forint összegű pénzbírság kiszabása;
 
 d) jogi személy esetében a jogi személy előző üzleti évi teljes éves nettó árbevétele legfeljebb 10%-ának megfelelő pénzbírság;
 

@@ -14,7 +14,11 @@ c) az átruházási jogosultságot a szanálás alatt álló intézménnyel kapc
 
 (4) Valamely személy az (1) és (2) bekezdésben meghatározott időszak vége előtt is élhet a szerződés szerinti felmondási jogával, ha értesítést kap a szanálási feladatkörében eljáró MNB-től arra vonatkozóan, hogy a szerződés szerinti jogok és kötelezettségek nem kerülnek átruházásra az átvevőhöz, az áthidaló intézményhez vagy a szanálási vagyonkezelőhöz, valamint nem terjed ki rá a hitelezői feltőkésítés.
 
-(5) Ha a szanálási feladatkörében eljáró MNB gyakorolja az (1) és (2) bekezdésben a felmondási jog felfüggesztésére vonatkozóan meghatározott jogosultságot, és nem került sor a (4) bekezdés szerinti értesítésre, akkor a szerződés szerinti jogok és kötelezettségek más szervezethez történő átruházása esetén a szerződő fél csak akkor gyakorolhatja az adott szerződés feltételei szerinti felmondási jogot, ha az átvevőnél, az áthidaló intézménynél vagy a szanálási vagyonkezelőnél a szerződésszegés legalább három napig folyamatosan fennáll.
+(5) Ha a szanálási feladatkörében eljáró MNB gyakorolja az (1) és (2) bekezdésben a felmondási jog felfüggesztésére vonatkozóan meghatározott jogosultságot, és nem került sor a (4) bekezdés szerinti értesítésre, akkor
+
+a) a szerződés szerinti jogok és kötelezettségek más szervezethez történő átruházása esetén a szerződő fél csak akkor gyakorolhatja az adott szerződés feltételei szerinti felmondási jogot, ha az átvevőnél, az áthidaló intézménynél vagy a szanálási vagyonkezelőnél a felmondásra okot adó esemény legalább három napig folytatólagosan fennáll vagy bekövetkezik,
+
+b) a szerződés szerinti jogok és kötelezettségek szanálás alatt álló intézménynél történő maradása esetén, amennyiben a szanálási feladatkörében eljáró MNB a szóban forgó szerződés tekintetében nem alkalmazta az 57. § (1) bekezdés a) pontja szerinti hitelezői feltőkésítést, a felmondási jog a felfüggesztés időtartamát követően a szerződési feltételeknek megfelelően gyakorolható.
 
 (6) A szanálási feladatkörében eljáró MNB-nek az e § szerinti jogosultság gyakorlásakor figyelembe kell vennie az intézkedés pénzügyi piacok zavartalan működésére gyakorolt hatását.
 

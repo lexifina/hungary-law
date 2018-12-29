@@ -2,7 +2,7 @@
 
 (2) A titoktartási szabályok betartására való tekintettel a szanálási feladatkörében eljáró MNB az EU-szintű anyavállalat által rendelkezésére bocsátott információkból továbbítja
 
-a) az Európai Bankhatóságnak (a továbbiakban: EBH) a csoportszintű szanálási terv tekintetében az EBH feladata ellátásához szükséges információkat,
+a) az EBH-nak a csoportszintű szanálási terv tekintetében az EBH feladata ellátásához szükséges információkat,
 
 b) a leányvállalat szanálási hatóságának az illetékességi feladata ellátásához szükséges információkat,
 

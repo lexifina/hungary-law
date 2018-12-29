@@ -6,11 +6,13 @@
 
 (4) Ha az eljárásban részt vevő EGT-állam szanálási hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, akkor
 
-a) ha a csoportszintű szanálási hatóság a szanálási feladatkörében eljáró MNB, akkor kizárólag az EU-szintű anyavállalat tekintetében hozhat egyedileg határozatot,
+a) ha a csoportszintű szanálási hatóság a szanálási feladatkörében eljáró MNB, akkor kizárólag az EU-szintű anyavállalat tekintetében hozhat egyedileg határozatot, amelynek meghozatalakor figyelembe veszi az eljárásban részt vevő EGT-állam szanálási hatósága által kifejtett véleményeket, fenntartásokat,
 
-b) ha a csoportban lévő leányvállalat szanálási hatósága a szanálási feladatkörében eljáró MNB, akkor a leányvállalat tekintetében hozhat egyedileg határozatot.
+b) ha a csoportban lévő leányvállalat szanálási hatósága a szanálási feladatkörében eljáró MNB, akkor a leányvállalat tekintetében hozhat egyedileg határozatot
 
-(5) A szanálási feladatkörében eljáró MNB a többoldalú eljárás eredménytelenséggel történő lezárultát követő tíz munkanapon belül hozza meg határozatát azzal, hogy a többoldalú eljárás keretében hozott határozatot előkészítő eljárásban részt vevő valamennyi EGT-állam illetékes szanálási hatóságának megküldi azt.
+azzal, hogy a határozatáról a szanálási kollégium valamennyi tagját értesíti.
+
+(5) A szanálási feladatkörében eljáró MNB a többoldalú eljárás eredménytelenséggel történő lezárultát követő 1 hónapon belül hozza meg határozatát az egyetértő szanálási hatóságokkal azzal, hogy a többoldalú eljárás keretében hozott határozatot előkészítő eljárásban részt vevő valamennyi EGT-állam illetékes szanálási hatóságának megküldi azt.
 
 (6) Ha a csoporton belüli leányvállalat szanálási hatósága úgy ítéli meg, hogy a székhelye szerinti EGT-állama költségvetési hatáskörének sérelme áll fenn, és a (3) bekezdés alapján az EBH-hoz fordult vagy a többoldalú eljárás keretében hozott határozatot a részvétele nélkül hozta meg a többi hatóság, akkor a szanálási feladatkörében eljáró MNB által irányított szanálási kollégium keretein belül kezdeményezheti a csoport szintű szanálási terv – ideértve a szavatoló tőkére és leírható, illetve átalakítható kötelezettségre vonatkozó minimumkövetelmény újraértékelését.
 

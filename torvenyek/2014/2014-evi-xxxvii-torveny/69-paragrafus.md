@@ -18,7 +18,7 @@ alapján.
 
 a) amely hitelviszonyt megtestesítő értékpapírból került tulajdonjogot megtestesítő értékpapírrá átalakításra és amelyet a hitelviszonyt megtestesítő értékpapír szerződéses feltételei szerint – a szanálási feltételek teljesüléséről szóló döntést megelőzően – tagsági részesedést megtestesítő értékpapírrá alakítottak,
 
-b) ahol a kiegészítő alapvető és a járulékos tőkeelemek a 80. § szerint elsődleges alapvető tőkeelemmé kerültek átalakításra.
+b) ahol a kiegészítő alapvető és a járulékos tőkeelemek a 79. § szerint elsődleges alapvető tőkeelemmé kerültek átalakításra.
 
 (4) A szanálási feladatkörében eljáró MNB az (1) bekezdés szerinti intézkedése során mérlegeli
 
@@ -30,4 +30,4 @@ c) a 61. § alapján leírandó vagy átalakítandó tőkeelemek összegét.
 
 (5) Ha az intézmény a Hpt. 126–134. §-a alapján és a Bszt. 37–39. §-a alapján befolyásoló részesedést szerezne, akkor a Felügyelet az eljárást a lehető leggyorsabban lefolytatja, hogy a hitelezői feltőkésítést, a tőkeelemek leírását vagy átalakítását ne akadályozza.
 
-(6) Ha az (5) bekezdésben foglalt eljárás nem fejeződött be a hitelezői feltőkésítés, tőkeelem leírása vagy átalakítása alkalmazásáig, és a hitelezői feltőkésítés, tőkeelem leírása vagy átalakítása eredményeként befolyásoló részesedés megszerzése vagy befolyásoló részesedés mértékének növelése történt, akkor a 42. § (3) bekezdésében meghatározottak szerint kell eljárni.
+(6) Ha az (5) bekezdésben foglalt eljárás nem fejeződött be a hitelezői feltőkésítés, tőkeelem leírása vagy átalakítása alkalmazásáig, és a hitelezői feltőkésítés, tőkeelem leírása vagy átalakítása eredményeként befolyásoló részesedés megszerzése vagy befolyásoló részesedés mértékének növelése történt, akkor a 39. § (3) bekezdésében meghatározottak szerint kell eljárni.

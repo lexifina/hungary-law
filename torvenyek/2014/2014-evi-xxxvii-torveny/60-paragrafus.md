@@ -4,7 +4,7 @@ a) a leírható vagy átalakítható kötelezettségek által nem fedezett veszt
 
 b) a szanálás alatt álló intézmény részvényeinek, más tagsági részesedéseinek vagy tőkeelemeinek megvásárlásával a 61. § (1) bekezdés b) pontja alapján a tőkemegfelelés helyreálljon.
 
-(2) Az (1) bekezdés szerinti hozzájárulás akkor nyújtható, ha a szanálás időpontjában a független értékelés alapján megállapítható, hogy
+(2) Az (1) bekezdés szerinti hozzájárulás akkor nyújtható, ha a szanálási eljárás alatt a független értékelés alapján megállapítható, hogy
 
 a) a veszteségek fedezéséhez és a feltőkésítéshez a részvényesek, a tagi részesedéssel rendelkezők vagy tőkeelemek tulajdonosai, valamint a hitelezői feltőkésítés hatálya alá tartozó hitelezők a hitelezői feltőkésítés megvalósítása keretében hozzájárultak a szanálás alatt álló intézménynek a teljes – szavatoló tőkéjét is magában foglaló – a kötelezettségállományának 8%-át elérő mértékben, valamint
 
@@ -19,6 +19,8 @@ b) a Szanálási Alapba a 133. § (1) bekezdés a) pont ac) pontja szerint befiz
 c) a Szanálási Alapba a 133. § (1) bekezdés b)–c) pontja szerint befizetett összegből.
 
 (4) Ha a (2) bekezdés b) pontjában meghatározott 5%-os határértékig hozzájárult a Szanálási Alap, valamint megtörtént a nem fedezett és nem elsőbbségi kötelezettségek (ideértve a biztosított betétek kártalanítási értékhatár feletti értékrész) leírása vagy átalakítása, akkor a szanálási feladatkörében eljáró MNB rendkívüli körülmények esetén egyéb források bevonását kezdeményezheti az e törvényben foglalt rendelkezések betartása mellett.
+
+(4a) Ha a (4) bekezdésben meghatározott feltételek teljesülnek, a Szanálási Alap a Szanálási Alap tagjai által fizetett csatlakozási díj és rendszeres éves díj addig fel nem használt forrásaiból is adhat hozzájárulást.
 
 (5) A (2) bekezdés a) pontjától eltérően a Szanálási Alap akkor is nyújthat (1) bekezdés szerinti hozzájárulást, ha
 

@@ -8,13 +8,15 @@ b) a szanálási feladatkörében eljáró MNB az elsődleges alapvető tőkeele
 
 c) a kiegészítő alapvető és járulékos tőkeelemek tőkeösszege leírásra vagy elsődleges alapvető tőkeelemekké való átalakításra kerül, a szükséges mértékig és a kiegészítő alapvető és járulékos tőkeelemek veszteségviselő képessége erejéig.
 
-(2) Egy kiegészítő alapvető és járulékos tőkeelem tőkeösszege leírásra kerül, ha:
+(2) Ha egy kiegészítő alapvető és járulékos tőkeelem tőkeösszege leírásra kerül, akkor:
 
-a) csökkenése tartós, és
+a) csökkentése tartós, a 61. § (3) bekezdésben meghatározott kártalanítási mechanizmussal összhangban lévő bármilyen leírást feltételezve,
 
-b) a kiegészítő alapvető és járulékos tőkeelemek tulajdonosaival szemben nem marad fenn az instrumentum leírásra került összegének megfelelő vagy azzal kapcsolatos kötelezettség, kivéve az esetleges már felhalmozott kötelezettségeket, valamint a leírási jogosultság gyakorlásának jogszerűségét vizsgáló perben hozott jogerős ítélet eredményeként esetlegesen felmerülő károkkal kapcsolatos kötelezettségeket.
+b) a kiegészítő alapvető és járulékos tőkeelemek tulajdonosaival szemben nem maradhat fenn az instrumentum leírásra került összegének megfelelő vagy azzal kapcsolatos kötelezettség, kivéve a leírás időpontjában már megnyílt kötelezettségeket, valamint a leírási jogosultság gyakorlásának jogszerűségét vizsgáló perben hozott jogerős ítélet eredményeként esetlegesen felmerülő károkkal kapcsolatos kötelezettségeket, és
 
-(3) A kiegészítő alapvető és járulékos tőkeelemeknek az (1) bekezdés b) pontja szerinti átalakítása céljából a szanálási feladatkörében eljáró MNB előírhatja az intézmény számára, hogy bocsásson ki elsődleges alapvető tőkeelemeket a kiegészítő alapvető és járulékos tőkeelemek tulajdonosai számára. A kiegészítő alapvető és járulékos tőkeelemek csak akkor alakíthatók át, ha
+c) az érintett tőkeelemek tulajdonosai nem jogosultak semmilyen kártalanításra, kivéve a (3) bekezdés szerinti kibocsátással megvalósuló ellentételezést.
+
+(3) A kiegészítő alapvető és járulékos tőkeelemeknek az (1) bekezdés c) pontja szerinti átalakítása céljából a szanálási feladatkörében eljáró MNB előírhatja az intézmény számára, hogy bocsásson ki elsődleges alapvető tőkeelemeket a kiegészítő alapvető és járulékos tőkeelemek tulajdonosai számára. A kiegészítő alapvető és járulékos tőkeelemek csak akkor alakíthatók át, ha
 
 a) az érintett elsődleges alapvető tőkeelemeket az intézmény vagy az intézmény anyavállalata bocsátja ki, a Felügyelet vagy adott esetben az anyavállalat illetékes felügyeleti hatóságának az egyetértésével;
 
@@ -24,4 +26,4 @@ c) az elsődleges alapvető tőkeelemeket az átalakítási jogosultság gyakorl
 
 d) az egyes kiegészítő alapvető és járulékos tőkeelemek kapcsán nyújtott elsődleges alapvető tőke mennyiségét meghatározó átváltási ráta megfelel a 76. §-ban meghatározott alapelveknek.
 
-(4) Az elsődleges alapvető tőkének a (3) bekezdéssel összhangban történő rendelkezésre bocsátása céljából a szanálási feladatkörében eljáró MNB előírhatja az intézmény számára, hogy mindenkor rendelkezzen a megfelelő mennyiségű elsődleges alapvető tőke kibocsátásához szükséges előzetes engedéllyel.
+(4) Az elsődleges alapvető tőkének a (3) bekezdéssel összhangban történő rendelkezésre bocsátása céljából a szanálási feladatkörében eljáró MNB előírhatja az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás számára, hogy mindenkor rendelkezzen a megfelelő mennyiségű elsődleges alapvető tőke kibocsátásához szükséges előzetes engedéllyel.

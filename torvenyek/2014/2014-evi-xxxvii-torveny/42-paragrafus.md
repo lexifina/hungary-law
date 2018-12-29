@@ -1,6 +1,6 @@
 ## 21. A vagyonértékesítés eljárási követelményei
 
-42. § (1) Eszközök és források, jogok és kötelezettségek, valamint az intézményben lévő tagsági részesedések összefüggő csoportjai külön is átruházhatóak.
+42. § (1) Eszközök és források, jogok és kötelezettségek, valamint az intézményben, 1. § (1) bekezdés szerinti pénzügyi vállalkozásban lévő tagsági részesedések összefüggő csoportjai külön is átruházhatóak.
 
 (2) A vagyonértékesítési eszköz alkalmazása során az alábbi követelményeknek kell megfelelni:
 

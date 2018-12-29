@@ -18,7 +18,7 @@
 
 ## 9. annak ismertetése, hogy hogyan finanszírozhatók a szanálási opciók a szanálási alap igénybevételét megengedve, de rendkívüli állami pénzügyi támogatás – ide nem értve az állami tőkeemelés – igénybe vétele nélkül;
 
-## 10. a különböző lehetséges forgatókönyveknek megfelelően alkalmazható különféle szanálási stratégiák részletes leírása;
+## 10. a különböző lehetséges forgatókönyveknek és az alkalmazandó ütemterveknek megfelelően alkalmazható különféle szanálási stratégiák részletes leírása;
 
 ## 11. a kritikus jellegű kölcsönös függőségi kapcsolatok bemutatása;
 

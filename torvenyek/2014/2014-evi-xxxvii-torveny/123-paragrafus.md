@@ -14,7 +14,7 @@ b) a következő feltételek közül egy vagy több teljesül:
 
 ba) a magyarországi fióktelep már nem teljesíti vagy valószínűleg nem fogja tudni teljesíteni az engedélyezésére és működésére vonatkozó, magyar jog által előírt feltételeket, és nincs kilátás arra, hogy bármilyen más, magánszektorbeli, felügyeleti vagy releváns harmadik országbeli intézkedés révén megfelelő időkereten belül a fióktelep újra teljesítené a feltételeket, vagy megakadályozható lenne fizetésképtelenné válása,
 
-bb) a harmadik országbeli intézmény a szanálási feladatkörében eljáró MNB álláspontja szerint nem képes, nem akarja vagy valószínűleg nem lesz képes kifizetni a magyarországi hitelezők felé fennálló kötelezettségeit vagy a fióktelepen keresztül létrejött vagy a fióktelep könyveiben nyilvántartott, nem vitatott kötelezettségeit azok esedékessé válásakor, és a szanálási feladatkörében eljáró MNB meggyőződött arról, hogy az említett harmadik országbeli intézménnyel összefüggésben ésszerű időn belül nem került sor harmadik országbeli szanálási eljárásra vagy fizetésképtelenségi eljárásra vagy annak kezdeményezésére;
+bb) a harmadik országbeli intézmény a szanálási feladatkörében eljáró MNB álláspontja szerint nem képes, nem akarja vagy valószínűleg nem lesz képes kifizetni az EGT-állambeli hitelezők felé fennálló kötelezettségeit vagy a fióktelepen keresztül létrejött vagy a fióktelep könyveiben nyilvántartott, nem vitatott kötelezettségeit azok esedékessé válásakor, és a szanálási feladatkörében eljáró MNB meggyőződött arról, hogy az említett harmadik országbeli intézménnyel összefüggésben ésszerű időn belül nem került sor harmadik országbeli szanálási eljárásra vagy fizetésképtelenségi eljárásra vagy annak kezdeményezésére;
 
 c) az alábbi körülmények valamelyike fennáll
 

@@ -6,6 +6,8 @@
 
 1. anyavállalat: a Hpt. 6. § (1) bekezdésében meghatározott fogalom;
 
+1a. állami támogatások uniós keretrendszere: az Európai Unió működéséről szóló szerződés 107–109. cikkei által és az Európai Unió működéséről szóló szerződés 108. cikk (4) bekezdése vagy 109. cikke alapján megalkotott vagy elfogadott rendeletek és valamennyi uniós aktus – többek között iránymutatások, közlemények és értesítések – által létrehozott keretrendszer;
+
 2. átruházási jogosultság: a szanálás alatt álló intézményben lévő tagsági részesedés, hitelviszonyt megtestesítő instrumentum, eszköz, forrás, jogosultság és kötelezettség, illetve ezek valamilyen kombinációjának egy átvevőhöz történő átruházására vonatkozó jogosultság;
 
 3. átváltási ráta: az a tényező, amely meghatározza azon elsődleges alapvető tőkeelemek mennyiségét, amelyekre a tőkeelemek, valamint a hitelezői feltőkésítésbe bevonható kötelezettségek átalakítása során a szanálási feladatkörében eljáró Magyar Nemzeti Bank a kiegészítő alapvető tőke és a járulékos tőke elemeit átváltja;
@@ -37,6 +39,8 @@
 16. ellenőrző befolyás: a Hpt. 6. § (1) bekezdés 18. pontjában meghatározott fogalom;
 
 17. elsődleges alapvető tőke: az Európai Parlamentnek és a Tanácsnak a hitelintézetekre és a befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 575/2013/EU rendeletben (a továbbiakban: 575/2013/EU rendelet) ekként meghatározott fogalom;
+
+17a. érintett anyaintézmény: olyan tagállami anyaintézmény, EU-szintű anyaintézmény, pénzügyi holding társaság, vegyes pénzügyi holding társaság, vegyes tevékenységű holding társaság, tagállami pénzügyi holding társaság anyavállalatok, EU-szintű pénzügyi holding társaság anyavállalatok, tagállami vegyes pénzügyi holding társaság anyavállalatok vagy EU-szintű vegyes pénzügyi holding társaság anyavállalatok, amelynek tekintetében a hitelezői feltőkésítés alkalmazására kerül sor;
 
 18. érintett harmadik országbeli hatóság: szanálási intézkedéseknek megfelelő intézkedés alkalmazására feljogosított harmadik országbeli hatóság;
 
@@ -74,6 +78,8 @@
 
 34. hitelintézet: a Hpt. 8. § (1) bekezdésében meghatározott szervezet, valamint az Integrációs Szervezet;
 
+34a. hitelviszonyt megtestesítő instrumentum: kötvény és az átruházható követelések más formája, adósságot keletkeztető vagy elismerhető instrumentum, és a hitelviszonyt megtestesítő instrumentum megszerzésére feljogosító instrumentum;
+
 35. Integrációs Szervezet: a Szhitv.-ben meghatározott fogalom;
 
 36. illetékes felügyeleti hatóság: 575/2013/EU rendeletben illetékes hatóságként meghatározott fogalom;
@@ -95,6 +101,8 @@
 44. MNB: Magyar Nemzeti Bank;
 
 45. MNB rendkívüli likviditási hitele: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 36. §-a szerinti és a 18. §-ában meghatározott monetáris politikai eszközök közé nem tartozó, egyedi feltételek mellett nyújtott rendkívüli jegybanki hitel;
+
+45a. munkavállalói képviselő: a munka törvénykönyvében meghatározott fogalom;
 
 46. nettó eszközérték: az eszközállomány csökkentve a kötelezettség állománnyal;
 
@@ -134,7 +142,7 @@ db) teljes hozamcsere-ügylet, hitelkockázati felárhoz kapcsolódó csereügyl
 
 dc) a da) vagy db) alpontban említett megállapodásokhoz hasonló, a csereügyletek vagy származtatott ügyletek piacán rendszeresen kötött megállapodás vagy tranzakció;
 
-e) bankközi hitelezési megállapodások;
+e) három hónapos vagy annál rövidebb futamidejű bankközi hitelezési megállapodások;
 
 f) az a)–e) pontban említett szerződések vagy ügyletek bármelyikére vonatkozó keretmegállapodások;
 
@@ -153,6 +161,8 @@ f) az a)–e) pontban említett szerződések vagy ügyletek bármelyikére vona
 58. szanálást finanszírozó rendszer: EGT-állam által a szanálási intézkedések hatékony alkalmazásához szükséges pénzügyi források rendelkezésre állása érdekében létrehozott rendszer;
 
 59. szavatoló tőke: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+
+59a. szavatoló tőke követelmények: az 575/2013/EU rendelet 92–98. cikkében meghatározott követelmények;
 
 60. szövetkezeti hitelintézet: a Szhitv. alapján a szövetkezeti hitelintézetek integrációjában részt vevő hitelintézet;
 

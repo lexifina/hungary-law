@@ -2,7 +2,7 @@
 
 a) a betétbiztosítás tekintetében a kártalanítási kötelezettség alá tartozó betétrészre, ideértve az OBA által biztosított betétek kártalanítási kötelezettség alá tartozó betétrészeket,
 
-b) a Bszt. 5. § (2) bekezdés a) és b) pontja szerinti tevékenység keretében kötelezettségként nyilvántartott követelésre, így különösen a Beva által biztosított követelésekre, ideértve a tartós befektetési szerződésből és a nyugdíj-előtakarékossági szerződésből eredő követelést is,
+b) a Bszt. 5. § (2) bekezdés a) és b) pontja szerinti tevékenység keretében kötelezettségként nyilvántartott követelésre, így különösen a Beva által biztosított követelésekre, ideértve a tartós befektetési szerződésből és a nyugdíj-előtakarékossági szerződésből eredő követelést is, továbbá a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvényben meghatározott ÁÉKBV vagy ABA nevében kezelt eszközt vagy pénzt, feltéve, hogy az ÁÉKBV vagy ABA az alkalmazandó fizetésképtelenségi jog alapján védelemben részesül,
 
 c) a fedezett kötelezettségekre a fedezettség mértékéig, ideértve a fedezett kötvényeket és a jelzáloglevelet,
 

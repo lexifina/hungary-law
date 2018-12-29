@@ -8,7 +8,7 @@ a) a szankciót természetes személyre szabta ki, és a személyes adatok nyilv
 
 b) a nyilvánosságra hozatal veszélyeztetné a pénzügyi piacok stabilitását vagy valamely folyamatban lévő büntetőeljárást; vagy
 
-c) a nyilvánosságra hozatal – ha meghatározható – aránytalan veszteséget okozna az érintett intézménynek.
+c) a nyilvánosságra hozatal – ha meghatározható – aránytalan veszteséget okozna az érintett intézménynek vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozásnak.
 
 (4) A (3) bekezdésben foglalt esetkörökben a név nélküli közzététel helyett az MNB dönthet a döntés – legfeljebb 60 nappal – halasztott közzétételéről is, ha alappal feltételezhető, hogy a halasztás időszaka alatt a név nélküli nyilvánosságra hozatal indokai meg fognak szűnni.
 

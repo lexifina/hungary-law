@@ -1,12 +1,12 @@
 ## 11. A független értékelés célja
 
-23. § (1) A független értékelés alapvető célja a fizetésképtelen vagy a rendelkezésre álló információk alapján várhatóan fizetésképtelenné váló intézmény eszközei és forrásai értékének a megállapítása.
+23. § (1) A független értékelés alapvető célja a fizetésképtelen vagy a rendelkezésre álló információk alapján várhatóan fizetésképtelenné váló intézmény, 1. § (1) bekezdés szerinti pénzügyi vállalkozás eszközei és forrásai értékének a megállapítása.
 
 (2) A független értékelés kiegészítő céljai:
 
 a) információt szolgáltatni annak megállapításához, hogy teljesülnek-e a szanálási feltételek, illetve a tőkeelemek leírására vagy átalakítására vonatkozó feltételek;
 
-b) ha a szanálási feltételek teljesülnek, információt nyújtani az intézmény tekintetében alkalmazandó szanálási intézkedés alkalmazhatóságáról;
+b) ha a szanálási feltételek teljesülnek, információt nyújtani az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás tekintetében alkalmazandó szanálási intézkedés alkalmazhatóságáról;
 
 c) hitelezői feltőkésítés és a tőkeelemek leírására vagy átalakítására vonatkozó jogosultság alkalmazása esetén információt nyújtani az arra vonatkozó döntéshez, hogy milyen mértékben kerüljön sor az intézményben lévő tagsági részesedések bevonására, leírására vagy átalakítására és milyen mértékben kerüljön sor a kiegészítő alapvető és járulékos tőkeelemek leírására vagy átalakítására;
 
