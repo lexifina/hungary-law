@@ -52,3 +52,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-326-20-
 | 2017-09-19 | 2011-326-20-22.44 | 233/2017. (VIII. 14.) Korm. rendelet |
 | 2017-12-30 | 2011-326-20-22.45 | 516/2017. (XII. 29.) Korm. rendelet |
 | 2018-01-01 | 2011-326-20-22.46 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2018-12-29 | 2011-326-20-22.47 | 379/2016. (XII. 2.) Korm. rendelet |

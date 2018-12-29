@@ -6,13 +6,13 @@
 
 a) járművet engedély nélkül átalakították,
 
-b)[^284] a járművel a közúti forgalomban részt vesznek annak ellenére, hogy a jármű
+b)[^285] a járművel a közúti forgalomban részt vesznek annak ellenére, hogy a jármű
 
-ba)[^285]
+ba)[^286]
 
 bb) forgalmi engedélyének „H” adatmezőben szereplő érvényességi ideje vagy az ideiglenes forgalomban tartási engedélyének az érvényességi ideje lejárt vagy
 
-bc)[^286] műszaki vizsgálatra történő berendelésére vonatkozó végleges határozatban foglaltaknak határidőben nem tettek eleget,
+bc)[^287] műszaki vizsgálatra történő berendelésére vonatkozó végleges határozatban foglaltaknak határidőben nem tettek eleget,
 
 c) a jármű közúti forgalomban való további részvétele közvetlen balesetveszéllyel jár és a járművel ennek ellenére közlekednek,
 
@@ -38,9 +38,9 @@ g) az új típusú rendszámmal rendelkező járművön nincs regisztrációs ma
 
 (8) A (6) bekezdés alapján megküldött ideiglenes forgalomban tartási engedélyt és a hatósági jelzést a közlekedési igazgatási hatóság visszavonja.
 
-(9)[^287] Az ellenőrző hatósági személy a helyszínen elveszi az M, az SP és a P betűjelű ideiglenes rendszámtáblát, az indítási naplót, valamint az ideiglenes forgalomban tartási engedélyt vagy az ideiglenes forgalmi engedélyt, ha a jármű vezetője, vontatott jármű esetén – feltéve, hogy a vontató és a vontatott jármű egy vezetővel vesz részt a közúti forgalomban – az M, az SP és a P betűjelű ideiglenes rendszámtáblával ellátott járművet vontató jármű vezetője, az ideiglenes rendszámtáblát a 69. § (1) bekezdésében, 69/A. §-ban és 70. §-ban meghatározott feltételektől eltérően használta, nem előírásszerűen vezette az indítási naplót vagy az ideiglenes rendszámtábla nem az arra jogosult járműre van felszerelve.
+(9)[^288] Az ellenőrző hatósági személy a helyszínen elveszi az M, az SP és a P betűjelű ideiglenes rendszámtáblát, az indítási naplót, valamint az ideiglenes forgalomban tartási engedélyt vagy az ideiglenes forgalmi engedélyt, ha a jármű vezetője, vontatott jármű esetén – feltéve, hogy a vontató és a vontatott jármű egy vezetővel vesz részt a közúti forgalomban – az M, az SP és a P betűjelű ideiglenes rendszámtáblával ellátott járművet vontató jármű vezetője, az ideiglenes rendszámtáblát a 69. § (1) bekezdésében, 69/A. §-ban és 70. §-ban meghatározott feltételektől eltérően használta, nem előírásszerűen vezette az indítási naplót vagy az ideiglenes rendszámtábla nem az arra jogosult járműre van felszerelve.
 
-[^284]: A 96. § (1) bekezdés b) pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (10) bekezdésével megállapított szöveg.
-[^285]: A 96. § (1) bekezdés b) pont ba) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^286]: A 96. § (1) bekezdés b) pont bc) alpontja a 457/2017. (XII. 28.) Korm. rendelet 368. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^287]: A 96. § (9) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^285]: A 96. § (1) bekezdés b) pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (10) bekezdésével megállapított szöveg.
+[^286]: A 96. § (1) bekezdés b) pont ba) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^287]: A 96. § (1) bekezdés b) pont bc) alpontja a 457/2017. (XII. 28.) Korm. rendelet 368. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^288]: A 96. § (9) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 21. §-ával megállapított szöveg.
