@@ -1,16 +1,16 @@
 21. § (1) Ha e törvény másként nem rendelkezik, értékpapír nyilvános forgalomba hozatala, illetve szabályozott piacra történő bevezetése vagy multilaterális kereskedési rendszerbe történő regisztrációja esetén a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését vagy az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy kibocsátási tájékoztatót (a továbbiakban: tájékoztató) és a Bizottság 809/2004/EK rendeletének 31. cikkében meghatározott hirdetményt (a továbbiakban: hirdetmény) köteles közzétenni.
 
+(1a) Tájékoztató és hirdetmény közzététele helyett a 3. számú melléklet szerinti tartalommal kell minimum tájékoztatót készíteni olyan értékpapír nyilvános forgalomba hozatala esetén, amelynek ajánlattételi ellenértéke tizenkét hónapon belül európai uniós szinten egymillió eurónál vagy annak megfelelő összegnél kisebb.
+
+(1b) A kibocsátó, illetve az ajánlattevő az (1a) bekezdés szerinti minimum tájékoztatót a Felügyelet jóváhagyását követően észszerű időn belül elérhetővé teszi a kibocsátó, illetve az ajánlattevő honlapján.
+
 (2) Nem kell tájékoztatót és hirdetményt közzétenni:
 
 a) tizenkét hónapnál rövidebb eredeti lejáratú pénzpiaci eszköz forgalomba hozatala esetén;
 
 b) nyílt végű befektetési alapra kibocsátott befektetési jegy forgalomba hozatala esetén;
 
-c) értékpapír szabályozott piacra történő bevezetése esetén, ha
-
-ca) a szabályozott piacra bevezetendő értékpapír kibocsátási összértéke tizenkét hónapon belül nem haladja meg uniós szinten az ötmillió eurót vagy az annak megfelelő összeget, és
-
-cb) az ugyanazon sorozatba tartozó értékpapírt ugyanazon szabályozott piacra már bevezették;
+c)
 
 d) értékpapír multilaterális kereskedési rendszerbe történő regisztrációja esetén, ha
 

@@ -4,7 +4,7 @@ a) az állam,
 
 b) a költségvetési szerv,
 
-c) a tartósan, száz százalékban állami tulajdonban lévő gazdasági társaság,
+c)
 
 d) a helyi önkormányzat,
 
@@ -20,13 +20,15 @@ i) a Hpt.-ben meghatározott pénzügyi intézmény,
 
 j) az MNB,
 
-k) az Alap tagjánál vezető állású személy és ezek közeli hozzátartozója, továbbá
+k) az Alap tagjánál vezető állású személy és ezek közeli hozzátartozója,
 
 l) az Alap tagjában öt százalékot elérő vagy azt meghaladó közvetlen, illetőleg közvetett tulajdoni részesedéssel vagy szavazati joggal rendelkező vállalkozás vagy természetes személy és ennek ellenőrzött társasága, valamint természetes személy tulajdonos esetén ennek közeli hozzátartozója
 
+m) az Alap tagjának könyvvizsgálója
+
 követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseire.
 
-(2) Az (1) bekezdés k)–l) pontjában meghatározott ok akkor zárja ki a kártalanítást, ha az a kártalanítási igény alapjául szolgáló szerződés megkötésétől a kártalanítási igény benyújtásáig terjedő időszakban, vagy annak egy része alatt fennállt az Alap azon tagjánál, amellyel kapcsolatban kártalanítási eljárásra kerül sor.
+(2) Az (1) bekezdés k)–m) pontjában meghatározott ok akkor zárja ki a kártalanítást, ha az a kártalanítási igény alapjául szolgáló szerződés megkötésétől a kártalanítási igény benyújtásáig terjedő időszakban, vagy annak egy része alatt fennállt az Alap azon tagjánál, amellyel kapcsolatban kártalanítási eljárásra kerül sor.
 
 (3) Az Alap által nyújtott biztosítás nem terjed ki az olyan ügyletből eredő követelésre sem, amely esetében a bíróság jogerős ügydöntő határozata megállapította, hogy a befektetés forrása bűncselekményből származott.
 
