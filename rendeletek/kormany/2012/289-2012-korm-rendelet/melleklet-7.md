@@ -156,7 +156,7 @@
 
 ## b) térvilágítás fénytechnikai felülvizsgálati jegyzőkönyvei (a más hatóság által engedélyezett utasforgalmi létesítményekre vonatkozóan is).
 
-7. melléklet a 289/2012. (X. 11.) Korm. rendelethez[^85]
+7. melléklet a 289/2012. (X. 11.) Korm. rendelethez[^92]
 
 A különleges kötöttpályás közlekedési rendszer építmények megszüntetési engedélyezési eljárásaiban benyújtandó dokumentációk jegyzéke
 
@@ -224,4 +224,4 @@ a) műszaki leírás;
 
 b) a megmaradó világítási berendezések állapotterve.
 
-[^85]: A 7. mellékletet a 431/2017. (XII. 20.) Korm. rendelet 54. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.
+[^92]: A 7. mellékletet a 431/2017. (XII. 20.) Korm. rendelet 54. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.

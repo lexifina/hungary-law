@@ -1,4 +1,4 @@
-## 24. §[^23] A használatbavételi engedélyről szóló határozatnak – az Ákr.-ben foglaltakon túlmenően – tartalmaznia kell:
+## 24. §[^25] A használatbavételi engedélyről szóló határozatnak – az Ákr.-ben foglaltakon túlmenően – tartalmaznia kell:
 
 a) az engedélyezett építmény megnevezését, az építési engedély számát és keltét,
 
@@ -8,7 +8,7 @@ c) a forgalom biztonságát nem veszélyeztető hibák, hiányosságok felsorol�
 
 d) az építtető figyelmeztetését, hogy a hibák, hiányosságok megszüntetésére előírt határidő eredménytelen eltelte esetén a használatbavételi engedély hatályát vesztheti,
 
-e)[^24] kötelezést a vasúti létesítmény használatbavételét engedélyező határozat véglegessé válását követő 30 napon belül, az ingatlan vonatkozásában bekövetkezett változás átvezetésére irányuló kérelem, valamint a megvalósult állapotról készült változási vázrajz földhivatalhoz történő benyújtására.
+e)[^26] kötelezést a vasúti létesítmény használatbavételét engedélyező határozat véglegessé válását követő 30 napon belül, az ingatlan vonatkozásában bekövetkezett változás átvezetésére irányuló kérelem, valamint a megvalósult állapotról készült változási vázrajz földhivatalhoz történő benyújtására.
 
-[^23]: A 24. § nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 408. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^24]: A 24. § e) pontja a 457/2017. (XII. 28.) Korm. rendelet 408. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^25]: A 24. § nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 408. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^26]: A 24. § e) pontja a 457/2017. (XII. 28.) Korm. rendelet 408. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

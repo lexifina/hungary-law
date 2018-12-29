@@ -24,7 +24,7 @@
 
 ## ae) munkagépek tárolása, anyagtároló területek megközelítése céljából két évnél rövidebb időtartamra ideiglenes céllal létesülő vágányok,
 
-## af)[^74] építési forgalom lebonyolítására, vagy rendkívüli események helyreállítására szolgáló vágány építése, az eseményt kiváltó ok megszűnéséig, vagy az engedélyköteles tevékenység befejezéséig, de legfeljebb a használatbavétel időpontjáig kerülnek megépítésre,
+## af)[^81] építési forgalom lebonyolítására, vagy rendkívüli események helyreállítására szolgáló vágány építése, az eseményt kiváltó ok megszűnéséig, vagy az engedélyköteles tevékenység befejezéséig, de legfeljebb a használatbavétel időpontjáig kerülnek megépítésre,
 
 ## ag) vasúti alépítményi szerkezetek kialakítása, cseréje, megerősítése;
 
@@ -34,9 +34,9 @@
 
 ## bb) olyan biztosító, vagy védelmi berendezések bontása, amelyeknél a védendő vasúti pálya megszűnik, és a biztosító, vagy védelmi berendezés nincs szerkezeti függésben elbontásra nem kerülő berendezéssel,
 
-## bc)[^75] vasúti átjárót fedező sorompó berendezés létesítése, átalakítása és megszüntetése, ha annak működése nincs összefüggésben vasúti biztosító berendezéssel vagy közúti forgalomirányító fényjelző készülékkel,
+## bc)[^82] vasúti átjárót fedező sorompó berendezés létesítése, átalakítása és megszüntetése, ha annak működése nincs összefüggésben vasúti biztosító berendezéssel vagy közúti forgalomirányító fényjelző készülékkel,
 
-## bd)[^76] vasúti biztosítóberendezés, vagy folyamatirányító automatika, központi forgalomirányító berendezés olyan, az 1. és 2. mellékletnek megfelelően dokumentált átalakítása, amely a berendezés rendszerét annak teljes hatáskörzetére kiterjedően nem változtatja meg.
+## bd)[^83] vasúti biztosítóberendezés, vagy folyamatirányító automatika, központi forgalomirányító berendezés olyan, az 1. és 2. mellékletnek megfelelően dokumentált átalakítása, amely a berendezés rendszerét annak teljes hatáskörzetére kiterjedően nem változtatja meg.
 
 ## be) vasúti pályára telepített járműdiagnosztikai berendezések létesítése, átalakítása és megszüntetése, ha nem kapcsolódnak jelző vagy biztosítóberendezéshez,
 
@@ -48,7 +48,7 @@
 
 ## bi) kizárólag jelzőeszközök elhelyezését szolgáló létesítmények, jelzőhidak telepítése, bontása;
 
-## c)[^77] vasúti hidak, alagutak, támfalak, esetében:
+## c)[^84] vasúti hidak, alagutak, támfalak, esetében:
 
 ## ca) 5 m vagy annál kisebb szabadnyílású állandó jellegű híd létesítése, vagy megszüntetése,
 
@@ -60,35 +60,35 @@
 
 ## ce) vasúti alagút olyan átalakítása, amely az alagút erőtani szerkezetét nem változtatja meg,
 
-## cf)[^78] tám- és bélésfal, görgetegfogó fal létesítése és bontása, ha idegen tulajdonú területet nem érint;
+## cf)[^85] tám- és bélésfal, görgetegfogó fal létesítése és bontása, ha idegen tulajdonú területet nem érint;
 
-## cg)–ch)[^79]
+## cg)–ch)[^86]
 
 ## d) vasúti villamos felsővezeték és a hozzá kapcsolt berendezések esetében:
 
-## da)[^80]
+## da)[^87]
 
 ## db) a felsővezetéki hosszlánc, munkavezeték cseréje, ha nem jár sebesség növeléssel,
 
 ## dc) a kapcsoló szekrények, kapcsolókertek átalakítása, ha az áramköri kialakítás nem változik,
 
-## dd)[^81] építési forgalom lebonyolítására, vagy rendkívüli események helyreállítására szolgáló felsővezetéki berendezések telepítése, az eseményt kiváltó ok megszűnéséig, vagy az engedélyköteles tevékenység befejezéséig, de legfeljebb két évre kerülnek beépítésre;
+## dd)[^88] építési forgalom lebonyolítására, vagy rendkívüli események helyreállítására szolgáló felsővezetéki berendezések telepítése, az eseményt kiváltó ok megszűnéséig, vagy az engedélyköteles tevékenység befejezéséig, de legfeljebb két évre kerülnek beépítésre;
 
 ## e) vasúti térvilágítási berendezések átépítése, bővítése, ha a fénytechnikai paraméterek, a megvilágítás, fénysűrűség, térbeli egyenletesség előírt értéke nem változik, zavaró hatások nem keletkeznek;
 
-## f)[^82]
+## f)[^89]
 
-5. melléklet a 289/2012. (X. 11.) Korm. rendelethez[^83]
+5. melléklet a 289/2012. (X. 11.) Korm. rendelethez[^90]
 
 A különleges kötöttpályás közlekedési rendszer építmények építési engedélyezési eljárásaiban benyújtandó iratok
 
-[^74]: A 4. melléklet a) pont af) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^75]: A 4. melléklet b) pont bc) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^76]: A 4. melléklet b) pont bd) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^77]: A 4. melléklet c) pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
-[^78]: A 4. melléklet c) pont cf) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^79]: A 4. melléklet c) pont cg)–ch) alpontját a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése hatályon kívül helyezte.
-[^80]: A 4. melléklet d) pont da) alpontját a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése hatályon kívül helyezte.
-[^81]: A 4. melléklet d) pont dd) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
-[^82]: A 4. melléklet f) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése hatályon kívül helyezte.
-[^83]: Az 5. mellékletet a 431/2017. (XII. 20.) Korm. rendelet 54. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.
+[^81]: A 4. melléklet a) pont af) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^82]: A 4. melléklet b) pont bc) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^83]: A 4. melléklet b) pont bd) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^84]: A 4. melléklet c) pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
+[^85]: A 4. melléklet c) pont cf) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^86]: A 4. melléklet c) pont cg)–ch) alpontját a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése hatályon kívül helyezte.
+[^87]: A 4. melléklet d) pont da) alpontját a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése hatályon kívül helyezte.
+[^88]: A 4. melléklet d) pont dd) alpontja a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
+[^89]: A 4. melléklet f) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (9) bekezdése hatályon kívül helyezte.
+[^90]: Az 5. mellékletet a 431/2017. (XII. 20.) Korm. rendelet 54. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.
