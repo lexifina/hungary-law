@@ -36,9 +36,9 @@ b) szervezetet azonosító adatok: név, rövidített név, székhely, telephely
 
 15. biztosításközvetítő: az a természetes vagy jogi személy, aki javadalmazás ellenében biztosításközvetítői tevékenységet végez, ide nem értve
 
-a) a saját kockázatvállalásával összefüggő, saját jogú értékesítési tevékenységet végző biztosítót és a vele jogviszonyban álló, részére közvetlenül értékesítési tevékenységet végző, biztosításközvetítőnek nem minősülő természetes személyeket (a továbbiakban: biztosító közreműködői),
+a) a saját kockázatvállalásával összefüggő, saját jogú értékesítési tevékenységet végző biztosítót és a vele munkaviszonyban álló, részére közvetlenül értékesítési tevékenységet végző, biztosításközvetítőnek nem minősülő természetes személyeket (a továbbiakban: biztosító közreműködői),
 
-b) a saját kockázatvállalásával összefüggő, saját jogú viszontbiztosítási értékesítési tevékenységet végző viszontbiztosítót és a vele jogviszonyban álló, részére közvetlenül értékesítési tevékenységet végző, viszontbiztosítás-közvetítőnek nem minősülő természetes személyeket (a továbbiakban: viszontbiztosító közreműködői),
+b) a saját kockázatvállalásával összefüggő, saját jogú viszontbiztosítási értékesítési tevékenységet végző viszontbiztosítót és a vele munkaviszonyban álló, részére közvetlenül értékesítési tevékenységet végző, viszontbiztosítás-közvetítőnek nem minősülő természetes személyeket (a továbbiakban: viszontbiztosító közreműködői),
 
 c) a kiegészítő biztosításközvetítői tevékenységet végző személyt (beleértve a 368. § (1) bekezdése szerinti személyt is);
 
@@ -342,9 +342,9 @@ d) tájékoztatás nyújtása viszontbiztosítási termékekről, illetve viszon
 
 a) a személy fő szakmai tevékenysége nem a biztosítási értékesítés,
 
-b) a közvetített biztosítási szerződés kiegészítője valamely szolgáltató által kínált terméknek vagy nyújtott szolgáltatásnak,
+b) a közvetített biztosítási termék kiegészítője valamely szolgáltató által kínált terméknek vagy nyújtott szolgáltatásnak,
 
-c) a közvetített biztosítási szerződés nem-életbiztosítási szerződés és nem tartalmaz felelősségi kockázatot, kivéve, ha az ilyen fedezet kiegészíti a személy által fő szakmai tevékenységeként kínált terméket vagy nyújtott szolgáltatást,
+c) a közvetített biztosítási termék nem tartalmaz életbiztosítási vagy felelősségi kockázatot, kivéve, ha az ilyen életbiztosítási vagy felelősségi kockázat fedezete kiegészíti a személy által fő szakmai tevékenységeként kínált terméket vagy nyújtott szolgáltatást,
 
 d) a biztosítótól az ügyfélnek járó összeget előzetesen nem vesz át;
 

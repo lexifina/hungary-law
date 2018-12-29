@@ -6,7 +6,9 @@ a) a biztosításközvetítői tevékenységet irányító személyében törté
 
 b) a székhely címének megváltozását,
 
-c) saját tőkéjének a 388. § (1) és a 399. § (1) bekezdésében írt minimális tőke mértéke alá csökkenését.
+c) saját tőkéjének a 388. § (1) és a 399. § (1) bekezdésében írt minimális tőke mértéke alá csökkenését,
+
+d) a 407. § (5) bekezdés h)–j) pontjában foglalt adataik változását.
 
 (2) A többes ügynök és az alkusz köteles a Felügyeletnek harminc napon belül bejelenteni a törzstőke (alaptőke) felemelését vagy leszállítását.
 

@@ -8,7 +8,7 @@
 
 ## 176. A biztosításközvetítők és a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetek nyilvántartása
 
-407. § (1) A Felügyelet az e törvény alapján bejelentett vagy engedélyezett biztosításközvetítői tevékenységet végző személyekről, ezen személyek értékesítési tevékenységért felelős vezetőjéről, valamint a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetekről és ezen gazdálkodó szervezetek értékesítési tevékenységért felelős vezetőiről a velük kapcsolatos engedélyezési, illetve felügyeleti feladatok ellátása céljából nyilvántartást vezet.
+407. § (1) A Felügyelet az e törvény alapján bejelentett vagy engedélyezett biztosításközvetítői tevékenységet végző személyekről, e személyek értékesítési tevékenységért felelős vezetőjéről, valamint a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetekről és e gazdálkodó szervezetek értékesítési tevékenységért felelős személyeiről a velük kapcsolatos engedélyezési, illetve felügyeleti feladatok ellátása céljából nyilvántartást vezet.
 
 (2) Az (1) bekezdés szerinti nyilvántartásba vételhez kapcsolódó bejelentés űrlapjának a Felügyelet honlapján közvetlenül kitölthetőnek és benyújthatónak kell lennie.
 
@@ -44,11 +44,11 @@ j) a 376. § szerinti képzési, illetve továbbképzési követelmények teljes
 
 (5) A biztosításközvetítési tevékenységet végző gazdálkodó szervezetek nyilvántartása a gazdálkodó szervezet alábbi adatait tartalmazza:
 
-a) a gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, az értékesítési tevékenységért felelős vezető neve;
+a) a gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, az értékesítési tevékenységért felelős vezető azonosító adatai;
 
 b) nyilvántartási száma és annak kelte;
 
-c) azon tagállam vagy tagállamok neve, amelyek tekintetében a biztosításközvetítői tevékenység folytatására vonatkozó szándékát a 422. § szerint a Felügyeletnek bejelentette (fióktelep létesítése esetén a fióktelep általános képviselőjének nevével együtt);
+c) azon tagállam vagy tagállamok neve, amelyek tekintetében a biztosításközvetítői tevékenység folytatására vonatkozó szándékát a 422. § szerint a Felügyeletnek bejelentette (fióktelep létesítése esetén a fióktelep általános képviselőjének vagy a fióktelep vezetéséért felelős személy nevével együtt);
 
 d) a biztosításközvetítői tevékenység jellege (független, függő);
 
@@ -60,32 +60,30 @@ g) státusza (aktív, inaktív);
 
 h) a biztosításközvetítői tevékenységet végző gazdálkodó szervezetben minősített befolyással rendelkező részvényesek vagy tagok azonosító adatai és a befolyás mértéke;
 
-i) a biztosításközvetítői tevékenységet végző gazdálkodó szervezettel szoros kapcsolatban álló személyek azonosító adatai.
+i) a biztosításközvetítői tevékenységet végző gazdálkodó szervezettel szoros kapcsolatban álló személyek azonosító adatai;
+
+j) biztosításközvetítő gazdálkodó szervezet nyilatkozata arra vonatkozóan, hogy a h) és i) pontban említett minősített befolyás vagy szoros kapcsolat nem akadályozza meg a Felügyelet felügyeleti jogkörének tényleges gyakorlását.
 
 (6) A kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetek nyilvántartása az alábbi adatokat tartalmazza:
 
-a) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, az értékesítési helyszínenként kijelölendő értékesítési tevékenységért felelős vezető neve;
+a) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, az értékesítési helyszínenként kijelölendő értékesítési tevékenységért felelős személy azonosító adatai;
 
 b) nyilvántartási száma és annak kelte;
 
-c) azon tagállam vagy tagállamok neve, amelyek tekintetében a kiegészítő biztosításközvetítői tevékenység folytatására vonatkozó szándékát a 422. § szerint a Felügyeletnek bejelentette (fióktelep létesítése esetén a fióktelep általános képviselőjének nevével együtt);
+c) azon tagállam vagy tagállamok neve, amelyek tekintetében a kiegészítő biztosításközvetítői tevékenység folytatására vonatkozó szándékát a 422. § szerint a Felügyeletnek bejelentette (fióktelep létesítése esetén a fióktelep általános képviselőjének vagy a fióktelep vezetéséért felelős személy nevével együtt);
 
-d) a biztosító, a többes ügynök, illetve az alkusz neve, amellyel közvetítésre irányuló jogviszonyban áll (a változások nyomon követésével), valamint a kiegészítő biztosításközvetítésre irányuló jogviszony kezdete és vége, a jogviszony megnevezése (a változások nyomon követésével);
+d) a biztosító, többes ügynök vagy alkusz neve, amellyel vagy amelyekkel közvetítésre irányuló jogviszonyban áll (a változások nyomon követésével), valamint a kiegészítő biztosításközvetítésre irányuló jogviszony kezdete és vége, a jogviszony megnevezése (a változások nyomon követésével);
 
-e) az értékesítési helyszínenként kijelölendő értékesítési tevékenységért felelős vezetőnek a 376. §-ban meghatározott követelményeknek történő megfelelésének ténye;
+e) az értékesítési helyszínenként kijelölendő értékesítési tevékenységért felelős személynek a 376. §-ban meghatározott követelményeknek történő megfelelésének ténye;
 
 f) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetben minősített befolyással rendelkező részvényesek vagy tagok azonosító adatai és a befolyás mértéke;
 
-g) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezettel szoros kapcsolatban álló személyek azonosító adatai.
+g) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezettel szoros kapcsolatban álló személyek azonosító adatai,
 
-(7) Az (5) és (6) bekezdésben meghatározott azonosító adatok
+h) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet nyilatkozata arra vonatkozóan, hogy az f) és g) pontban említett minősített befolyás vagy szoros kapcsolat nem akadályozza meg a Felügyelet felügyeleti jogkörének tényleges gyakorlását.
 
-a) természetes személy esetén: neve és születési neve, születési helye, születési ideje, anyja neve, lakcíme;
+(7) A Felügyelet a (4)–(6) bekezdésben meghatározott adatokat a biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenység megszűnését követő tíz évig kezelheti.
 
-b) gazdálkodó szervezet esetén: neve, rövidített neve, székhelye, adószáma, képviseletére jogosultak neve és beosztása.
+(8) Az (1) bekezdésben meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
 
-(8) A Felügyelet a (4)–(6) bekezdésben meghatározott adatokat a biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenység megszűnését követő tíz évig kezelheti.
-
-(9) Az (1) bekezdésben meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
-
-(10) A Felügyelet megtagadja az e § szerinti nyilvántartásba vételt vagy a 431. § (1) bekezdés d) pontja szerinti intézkedést alkalmazza, amennyiben a 412. § szerinti nyilvántartásokban feltüntetett szoros kapcsolat olyan harmadik ország természetes személyével vagy gazdálkodó szervezetével áll fenn, amelynek jogszabályai megakadályozzák a Felügyeletet felügyeleti jogköreinek tényleges gyakorlásában.
+(9) A Felügyelet megtagadja a felügyeleti nyilvántartásba vételt vagy a 431. § (1) bekezdés d) pontja szerinti intézkedést alkalmazza, amennyiben az e § és a 412. § szerinti nyilvántartásokban feltüntetett szoros kapcsolat olyan harmadik ország természetes személyével vagy gazdálkodó szervezetével áll fenn, amelynek jogszabályai megakadályozzák a Felügyeletet felügyeleti jogköreinek tényleges gyakorlásában.

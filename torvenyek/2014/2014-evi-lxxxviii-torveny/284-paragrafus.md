@@ -1,6 +1,6 @@
 ## 112. A határon átnyúló szolgáltatás végzésének bejelentése és szabályai
 
-284. § (1) Ha a magyarországi székhelyű biztosító határon átnyúló szolgáltatásként első alkalommal kíván biztosítási tevékenységet végezni másik tagállam területén, köteles ezt a Felügyeletnek előzetesen bejelenteni és meghatározni a másik tagállamban vállalni tervezett kockázatokat.
+284. § (1) Ha a magyarországi székhelyű biztosító határon átnyúló szolgáltatásként első alkalommal kíván biztosítási, illetve viszontbiztosítási tevékenységet végezni másik tagállam területén, köteles ezt a Felügyeletnek előzetesen bejelenteni és meghatározni a másik tagállamban vállalni tervezett kockázatokat.
 
 (2) A Felügyelet az (1) bekezdés szerinti bejelentés kézhezvételétől számított egy hónapon belül írásban tájékoztatja a másik tagállam felügyeleti hatóságát arról, hogy
 

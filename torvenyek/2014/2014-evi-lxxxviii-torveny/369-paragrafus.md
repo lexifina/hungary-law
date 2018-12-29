@@ -38,6 +38,6 @@ birtokában végezheti a biztosításközvetítői tevékenységét.
 
 (7) Az a természetes személy, aki a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsga birtokában biztosításközvetítői tevékenység végzésére jogosult lenne, de a felügyeleti nyilvántartásból történő törléstől vagy – nyilvántartásba vétel hiányában – a hatósági vizsga letételétől számított öt év már eltelt, abban az esetben vehető fel a felügyeleti nyilvántartásba, ha újból hatósági vizsgát tesz.
 
-(8) A (3) bekezdés c) pontja szerinti feltételnek a biztosításközvetítői és a kiegészítő biztosításközvetítői tevékenységet végző személy értékesítési tevékenységért felelős vezetőjének is meg kell felelnie.
+(8) A (3) bekezdés c) pontja szerinti feltételnek a biztosításközvetítői tevékenységet végző gazdálkodó szervezet értékesítési tevékenységért felelős vezetőjének és a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet értékesítési tevékenységért felelős személyének is meg kell felelnie.
 
 (9) A 75/A. § (2) bekezdésében foglalt, a jó hírnév fennállásának ellenőrzésére vonatkozó rendelkezéseket az alkuszoknak és a többes ügynököknek is megfelelően alkalmazniuk kell azon – velük jogviszonyban álló – személyek vonatkozásában, akikre vonatkozóan a 69/A. § szerinti jó hírnév követelménye fennáll.

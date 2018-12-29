@@ -16,7 +16,7 @@ d) nem teljesíti a minimális tőkeszükségletet, vagy ha ennek kockázata a k
 
 e) más vállalkozásban saját jegyzett tőkéjének tíz százalékát meghaladó részesedést szerez,
 
-f) a vezető állású személyek, valamint az egyéb vezetők kinevezésére, foglalkoztatására vagy megbízatására került sor, továbbá kinevezés, foglalkoztatás vagy megbízatás megszűnésére került sor,
+f) a vezető állású személyek, valamint az egyéb vezetők kinevezésére, foglalkoztatására vagy megbízatására került sor, továbbá, ha a kinevezésük, foglalkoztatásuk vagy megbízatásuk megszűnésére került sor, ez utóbbi esetben az okot is megjelölve, amennyiben a megszűnés oka a szakmai alkalmassággal és üzleti megbízhatósággal kapcsolatos követelmények nem teljesülése,
 
 g) a székhelye megváltozott,
 
@@ -24,7 +24,7 @@ h) könyvvizsgálót bízott meg vagy – a (2) bekezdésben meghatározott eset
 
 i) hitelviszonyból származó kötelezettségeinek értéke meghaladja a jegyzett tőkéjének öt százalékát,
 
-j) a biztosításközvetítői belső nyilvántartásában a 412. § (3) bekezdés f) pont fa) alpontjában meghatározott adatokban változás következett be,
+j)
 
 k) a 446. § (7) bekezdésében meghatározottak szerint annak tényét, hogy az egyik biztosítási ágból a szavatolótőke-szükséglete fedezésére más ágban rendelkezésre álló, figyelembe vehető szavatolótőke-elemet felhasznált.
 

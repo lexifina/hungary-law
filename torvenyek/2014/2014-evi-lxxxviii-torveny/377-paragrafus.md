@@ -1,4 +1,4 @@
-## 169. A megtakarítási jellegű életbiztosítások jutalékfizetési szabályai
+## 169. A megtakarítási jellegű életbiztosításokkal összefüggő jutalékfizetési szabályok
 
 377. § (1) A megtakarítási jellegű életbiztosítási szerződés vonatkozásában a kifizetett jutalék összege nem haladhatja meg a jutalékfizetés időpontjáig a biztosítóhoz beérkezett biztosítási díj összegét.
 

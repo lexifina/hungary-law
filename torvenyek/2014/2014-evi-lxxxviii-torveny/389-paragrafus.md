@@ -10,6 +10,8 @@ d) a tevékenység végzéséhez szükséges személyi feltétellel.
 
 (2) A többes ügynök köteles biztosításközvetítői tevékenysége irányításáért felelős természetes személyt munkaviszony keretében foglalkoztatni.
 
+(2a) A (2) bekezdés szerinti személy az adott többes ügynöknél értékesítési tevékenységért felelős vezetői pozíciót is elláthat.
+
 (3) A (2) bekezdésben meghatározott biztosításközvetítői tevékenység irányításáért felelős természetes személy az lehet, aki
 
 a) büntetlen előéletű,

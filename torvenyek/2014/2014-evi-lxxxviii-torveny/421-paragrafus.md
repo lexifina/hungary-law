@@ -8,4 +8,4 @@
 
 (5) A többes ügynöki, illetve az alkuszi tevékenység azt követően kezdhető meg újra, ha a többes ügynök, illetve az alkusz a tevékenység megkezdéséhez előírt feltételek fennállását igazolja a Felügyeletnek.
 
-(6) A tevékenység megkezdéséhez előírt feltételek fennállásának igazolása esetén a Felügyelet határozatban állapítja meg a felfüggesztés megszűnését, és e határozat kiadásával egyidejűleg a többes ügynököt, illetve az alkuszt valamint tevékenység irányítót a felügyeleti nyilvántartásban aktív státuszba helyezi.
+(6) A tevékenység megkezdéséhez előírt feltételek fennállásának igazolása esetén a Felügyelet határozatban állapítja meg a felfüggesztés megszűnését, és e határozat kiadásával egyidejűleg a többes ügynököt, illetve az alkuszt a felügyeleti nyilvántartásban aktív státuszba helyezi.

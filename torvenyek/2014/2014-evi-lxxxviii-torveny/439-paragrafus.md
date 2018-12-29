@@ -8,7 +8,7 @@ c) a biztosítók 269. § (9) bekezdés a) pontjában meghatározott belső adat
 
 d) a többes ügynök és az alkusz jelentésének szabályaira,
 
-e) a biztosításközvetítő – biztosító, többes ügynök vagy alkusz általi – nyilvántartásba történő, a 411. § (1) bekezdésében és a 412. § (6)–(7) bekezdésében meghatározott bejelentésére,
+e) a biztosításközvetítő – biztosító, többes ügynök vagy alkusz általi – nyilvántartásba történő, a 411. § (1) bekezdésében és a 412. § (8) és (9) bekezdésében meghatározott bejelentésére,
 
 f) a gépjármű-felelősségbiztosítási termék adatszolgáltatásának szabályaira,
 

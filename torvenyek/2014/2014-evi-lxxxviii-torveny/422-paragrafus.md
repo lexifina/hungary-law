@@ -30,7 +30,7 @@ d) adott esetben a közvetített termékek 1. és 2. melléklet szerinti ágazat
 
 e) a fióktelep vagy állandó jelenlét címe, ahonnan a fogadó tagállamban az iratok beszerezhetők;
 
-f) az általános képviselő vagy vezetésért felelős személy neve.
+f) az általános képviselő vagy a fióktelep vezetéséért felelős személy neve.
 
 (5) A Felügyelet az (1) bekezdésben foglalt bejelentés kézhezvételétől számított egy hónapon belül megküldi a (3) és (4) bekezdésben foglalt adatokat a másik tagállam felügyeleti hatóságának.
 

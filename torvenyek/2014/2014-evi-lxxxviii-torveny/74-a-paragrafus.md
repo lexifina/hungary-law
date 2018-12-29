@@ -1,0 +1,1 @@
+74/A. § A biztosító vagy a viszontbiztosító vezető állású személye, valamint egyéb vezetője köteles a biztosítónak vagy a viszontbiztosítónak két munkanapon belül bejelenteni, ha a szakmai alkalmassággal és üzleti megbízhatósággal kapcsolatos követelményeknek már nem felel meg.

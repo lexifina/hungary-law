@@ -1,4 +1,4 @@
-310. § (1) A szavatolótőke-szükséglet szintjének helyreállítása érdekében az intézkedések megtételére jóváhagyott helyreállítási terv hat hónapos időszaka a biztosító vagy a viszontbiztosító kérelmére három hónappal meghosszabbítható.
+310. § (1) A szavatolótőke-szükséglet szintjének helyreállítása, illetve a kockázati profil csökkentése érdekében az intézkedések megtételére jóváhagyott helyreállítási terv hat hónapos időszaka a biztosító vagy a viszontbiztosító kérelmére három hónappal meghosszabbítható.
 
 (2) Kivételesen kedvezőtlen helyzetekben, amikor jelentős piaci részesedéssel vagy az érintett biztosítási üzletágban szerzett jelentős részesedéssel rendelkező biztosító vagy a viszontbiztosító pénzügyi helyzetét súlyosan vagy kedvezőtlenül befolyásolja
 

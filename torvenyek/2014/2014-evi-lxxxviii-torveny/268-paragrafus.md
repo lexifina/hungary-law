@@ -10,7 +10,7 @@ d) az alapszabály módosítását,
 
 e) a kötelező gépjármű-felelősségbiztosítást művelő biztosító esetén a tagállamokban megbízott kárrendezési megbízottjait, ezeknek a feladataik ellátásával összefüggő adatait, illetve az ezekben az adatokban bekövetkezett változásokat,
 
-f) a biztosításközvetítői belső nyilvántartásában a 412. § (3) és (4) bekezdésében – ide nem értve a 412. § (3) bekezdés b) és f) pontjában, valamint a 412. § (4) bekezdés b) pontjában – meghatározott adatokban bekövetkezett változásokat,
+f)
 
 g) hitelintézetben, pénzügyi vállalkozásban, befektetési vállalkozásban vagy befektetési alapkezelőben szerzett, a minősített befolyás minimális szintjénél kisebb részesedését,
 

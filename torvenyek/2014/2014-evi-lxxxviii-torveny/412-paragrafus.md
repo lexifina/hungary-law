@@ -42,11 +42,11 @@ k) a 69/A. § szerinti jó hírnév követelményének történő megfelelés ig
 
 (4) A biztosításközvetítő gazdálkodó szervezetekről vezetett belső nyilvántartás – a biztosításközvetítő adataiban a közvetítői jogviszony tartama alatt bekövetkezett változások nyomon követésével és dokumentálásával – az alábbi adatokat tartalmazza:
 
-a) a biztosításközvetítői tevékenységet végző gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, az értékesítési tevékenységért felelős vezető neve;
+a) a biztosításközvetítői tevékenységet végző gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, az értékesítési tevékenységért felelős vezető azonosító adatai;
 
 b) nyilvántartási száma és annak kelte;
 
-c) azon tagállam vagy tagállamok neve, amelyek tekintetében a biztosításközvetítői tevékenység folytatására vonatkozó szándékát a 422. § szerint a Felügyeletnek bejelentette (fióktelep létesítése esetén a fióktelep általános képviselőjének nevével együtt);
+c) azon tagállam vagy tagállamok neve, amelyek tekintetében a biztosításközvetítői tevékenység folytatására vonatkozó szándékát a 422. § szerint a Felügyeletnek bejelentette (fióktelep létesítése esetén a fióktelep általános képviselője vagy a fióktelep vezetéséért felelős személy nevével együtt);
 
 d) a biztosításközvetítői tevékenység jellege (független, függő);
 
@@ -60,36 +60,36 @@ h) a biztosításközvetítői tevékenységet végző gazdálkodó szervezetben
 
 i) a biztosításközvetítői tevékenységet végző gazdálkodó szervezettel szoros kapcsolatban álló személyek azonosító adatai;
 
-j) biztosításközvetítő gazdálkodó szervezet nyilatkozata arra vonatkozóan, hogy a h) és i) pontokban említett tulajdoni részesedés vagy szoros kapcsolat nem akadályozza meg a Felügyelet felügyeleti jogkörének tényleges gyakorlását.
+j) biztosításközvetítő gazdálkodó szervezet nyilatkozata arra vonatkozóan, hogy a h) és i) pontban említett minősített befolyás vagy szoros kapcsolat nem akadályozza meg a Felügyelet felügyeleti jogkörének tényleges gyakorlását.
 
 (5) A kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetekről vezetett belső nyilvántartás – a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet adataiban a közvetítői jogviszony tartama alatt bekövetkezett változások nyomon követésével és dokumentálásával – az alábbi adatokat tartalmazza:
 
-a) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, az értékesítési helyszínenként kijelölendő értékesítési tevékenységért felelős vezető neve;
+a) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, az értékesítési helyszínenként kijelölendő értékesítési tevékenységért felelős személy azonosító adatai;
 
-b) értelemszerűen a (4) bekezdés b)–c) és g)–i) pontjában foglalt adatok;
+b) értelemszerűen a (4) bekezdés b), c) és g) pontjában foglalt adatok;
 
 c) az általa közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása (amennyiben a kiegészítő biztosításközvetítő tevékenységet végző gazdálkodó szervezet nem alkusz vagy többes ügynök számára végez tevékenységet);
 
 d) az általa alkalmazott vagy megbízott kiegészítő biztosításközvetítői tevékenységet végző természetes személyek neve;
 
-e) a biztosítóval, a többes ügynökkel vagy az alkusszal fennálló, kiegészítő biztosításközvetítésre irányuló jogviszony kezdete és vége.
+e) a biztosítóval, a többes ügynökkel vagy az alkusszal fennálló, kiegészítő biztosításközvetítésre irányuló jogviszony kezdete és vége;
+
+f) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetben minősített befolyással rendelkező részvényesek vagy tagok azonosító adatai és a befolyás mértéke;
+
+g) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezettel szoros kapcsolatban álló személyek azonosító adatai;
+
+h) a kiegészítő biztosításközvetítő gazdálkodó szervezet nyilatkozata arra vonatkozóan, hogy az f) és g) pontban említett minősített befolyás vagy szoros kapcsolat nem akadályozza meg a Felügyelet felügyeleti jogkörének tényleges gyakorlását.
 
 (6) A 368. § (1) bekezdése szerinti személyekről vezetett belső nyilvántartás – a 368. § (1) bekezdése szerinti személy adataiban a jogviszonya tartama alatt bekövetkezett változások nyomon követésével és dokumentálásával – az alábbi adatokat tartalmazza:
 
 a) értelemszerűen a (4) bekezdés a) pontjában foglalt adatok, ide nem értve az értékesítési tevékenységért felelős vezető nevét;
 
-b) az általa közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása (amennyiben a kiegészítő biztosításközvetítő tevékenységet végző gazdálkodó szervezet nem alkusz vagy többes ügynök számára végez tevékenységet); valamint
+b) az általa közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása (amennyiben a kiegészítő biztosításközvetítő tevékenységet végző gazdálkodó szervezet nem alkusz vagy többes ügynök számára végez tevékenységet); és
 
 c) értékesítési helyszínenként legalább egy személy neve, aki biztosítási értékesítéssel foglalkozik.
 
-(7) A (4) és (5) bekezdésben meghatározott azonosító adatok
+(7) Az (1) bekezdésben meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő az adott belső nyilvántartást vezető biztosító, többes ügynök vagy alkusz, amely az adatokat az adott személlyel vagy szervezettel fennálló jogviszonya megszűnését követő öt évig kezelheti.
 
-a) természetes személy esetén: neve és születési neve, születési helye, születési ideje, anyja neve, lakcíme;
+(8) A (3)–(5) bekezdésben meghatározott adatokban bekövetkezett változásokat – ide nem értve a (9) bekezdésben meghatározott adatváltozásokat, továbbá a (3) bekezdés b) és f) pontjában, valamint a (4) bekezdés b) pontjában meghatározott adatok változását – az adott belső nyilvántartást vezető biztosító, a többes ügynök vagy alkusz köteles – a Magyar Nemzeti Bank elnöke által kiadott rendeletben meghatározott módon – a Felügyeletnek a változás belső nyilvántartásba történő bejegyzésétől számított harminc napon belül bejelenteni.
 
-b) gazdálkodó szervezet esetén: neve, rövidített neve, székhelye, adószáma, képviseletére jogosultak neve és beosztása.
-
-(8) Az (1) bekezdésben meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő az adott belső nyilvántartást vezető biztosító, többes ügynök vagy alkusz, amely az adatokat az adott személlyel vagy szervezettel fennálló jogviszonya megszűnését követő öt évig kezelheti.
-
-(9) A (3)–(6) bekezdésben meghatározott adatokban bekövetkezett változásokat – ide nem értve a (3) bekezdés b) pontjában, d) pont dc) alpontjában és f) pontjában, a (4) bekezdés b) pontjában meghatározott adatokat, valamint a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet nyilvántartási számát és annak keltét – az adott belső nyilvántartást vezető biztosító, a többes ügynök vagy alkusz köteles – a Magyar Nemzeti Bank elnöke által kiadott rendeletben meghatározott módon – a Felügyeletnek harminc napon belül bejelenteni.
-
-(10) A biztosító, a többes ügynök és az alkusz köteles a (3) bekezdés d) pont dc) alpontjában és f) pont fa) alpontjában, a (4) bekezdés e) pontjában és az (5) bekezdés e) pontjában meghatározott adatokban bekövetkezett változást a Felügyeletnek két munkanapon belül bejelenteni.
+(9) A biztosító, a többes ügynök és az alkusz köteles a (3) bekezdés d) pont dc) alpontjában és f) pont fa) alpontjában, a (4) bekezdés e) pontjában és h)–j) pontjában, az (5) bekezdés e)–h) pontjában meghatározott adatokban bekövetkezett változást – a Magyar Nemzeti Bank elnöke által kiadott rendeletben meghatározott módon – a Felügyeletnek a változás belső nyilvántartásba történő bejegyzésétől számított két munkanapon belül bejelenteni.

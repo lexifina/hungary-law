@@ -4,7 +4,7 @@
 
 (2a) A 4. melléklet B) pontja szerinti termékismertető 4. alpontja szerinti tájékoztatást minden életbiztosítási szerződés esetén (ide nem értve a határozott idejű kockázati életbiztosítási szerződéseket) meg kell adni az ügyfél számára.
 
-(3) A biztosítót a 152. §-ban, az (1)–(2) és (5) bekezdésben és a 155. § (1) bekezdésben meghatározott kötelezettség
+(3) A biztosítót a 152. §-ban, az (1)–(2a) és (5) bekezdésben és a 155. § (1) bekezdésben meghatározott kötelezettség
 
 a) nem terheli, ha a szerződés viszontbiztosítási szerződés, valamint a szerződés nagykockázatra létrejövő biztosítási szerződés,
 

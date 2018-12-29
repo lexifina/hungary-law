@@ -1,10 +1,10 @@
 427/A. § (1) Ha a Felügyelet azt észleli, hogy a másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy magyarországi fióktelepe vagy a Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenységével összefüggésben megszegi az MNBtv. 43. § (2) bekezdés t) pontjában meghatározott jogszabályokat, a 431. § (1) bekezdés a)–c), k) és m) pontjában foglalt intézkedéseket alkalmazhatja.
 
-(2) Ha a másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy magyarországi fióktelepe vagy a Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenysége
+(2) Ha a másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy
 
-a) teljes egészében vagy elsődlegesen Magyarország területére irányul,
+a) magyarországi fióktelepe vagy a Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenysége teljes egészében vagy elsődlegesen Magyarország területére irányul,
 
-b) a másik tagállamban a székhely létesítésének kizárólagos célja, hogy mentesüljön a magyarországi jogszabályok betartása alól, és
+b) székhelye másik tagállamban történő létesítésének kizárólagos célja, hogy mentesüljön a magyarországi jogszabályok betartása alól, és
 
 c) tevékenysége súlyosan veszélyezteti a fogyasztók érdekeit,
 

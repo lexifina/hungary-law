@@ -15,3 +15,5 @@ cb) azon személyek érdekeinek a megóvása indokolja, amelyek számára e tev�
 d) megállapítja, hogy a természetes személy biztosításközvetítő tevékenysége súlyosan vagy ismételten jogszabálysértő.
 
 (2) A harmadik országbeli biztosításközvetítő fióktelep biztosításközvetítő nyilvántartásban szereplő státusza inaktív szerepeltetéséről a Felügyelet – az (1) bekezdésben foglaltakon túlmenően – akkor is dönt, ha a biztosításközvetítő székhelye szerinti ország jogszabályai alapján már nem jogosult biztosításközvetítői tevékenység végzésére.
+
+(3) Az (1) bekezdés szerinti döntéséről a Felügyelet tájékoztatja azt a tagállamot, ahol a biztosításközvetítő fióktelepen keresztül, állandó jelenlét formájában vagy határon átnyúló szolgáltatás keretében biztosításközvetítői tevékenységet végez.
