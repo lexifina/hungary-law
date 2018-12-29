@@ -1,6 +1,6 @@
 ## 16. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-17. § (1) A 2014–2016. évekre vonatkozó munkaprogram az e rendelet hatálybalépését követően készül el, összhangban a 6. § (1) bekezdésével.
+17. § (1)[^35]
 
 (2) Ez a rendelet a következő rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
@@ -13,3 +13,5 @@ c) a Menekültügyi, a Migrációs és Integrációs Alap létrehozásáról, a 
 d) a Belső Biztonsági Alap részét képező, a rendőrségi együttműködés, a bűnmegelőzés és a bűnözés elleni küzdelem, valamint a válságkezelés pénzügyi támogatására szolgáló eszköz létrehozásáról és a 2007/125/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 513/2014/EU európai parlamenti és tanácsi rendelet;
 
 e) a Belső Biztonsági Alap részét képező, a külső határok és a vízumügy pénzügyi támogatására szolgáló eszköz létrehozásáról és az 574/2007/EK határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 515/2014/EU európai parlamenti és tanácsi rendelet.
+
+[^35]: A 17. § (1) bekezdését a 323/2018. (XII. 28.) Korm. rendelet 39. § d) pontja hatályon kívül helyezte.
