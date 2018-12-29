@@ -1,0 +1,3 @@
+## 11. § A díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet [a továbbiakban: 261/2011. (XII. 7.) Korm. rendelet] 22. §-a a következő (2a) bekezdéssel egészül ki:
+
+## „(2a) A konténer és a cserefelépítmény fuvarozása akkor kezdhető meg, ha a feladó a fuvarozó részére átadta a konténer vagy a cserefelépítmény tömegét, fontosabb jellemzőit tanúsító bizonylatot, amelyet a fuvarozás során árukísérő okmányként kell kezelni és a járműben kell tartani.”
