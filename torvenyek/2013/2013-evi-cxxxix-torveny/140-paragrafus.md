@@ -96,7 +96,7 @@ ax) a belső piac integritásának védelme és alternatív finanszírozási for
 
 b) az Európai Bankhatóságot
 
-ba) a hitelintézet, a pénzforgalmi intézmény, az elektronikuspénz kibocsátó intézmény számára kiadott tevékenységi (működési) engedélyről, valamint annak visszavonásáról az indoklással együtt,
+ba) a hitelintézet, a pénzforgalmi intézmény, az elektronikuspénz kibocsátó intézmény számára kiadott tevékenységi (működési) engedélyéről – hitelintézet esetén azzal, hogy melyik betétbiztosítási rendszerhez csatlakozott –, valamint annak visszavonásáról az indoklással együtt,
 
 bb) a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
 
@@ -146,7 +146,7 @@ bx) a Hpt. 112. § (5) bekezdése és a Bszt. 24/D. § (5) bekezdése szerinti e
 
 by) Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mentesítésről,
 
-bz) az illetékes szanálási hatóságokkal való egyeztetés után a szavatoló tőkére, a leírható és átalakítható kötelezettségekre vonatkozó Szantv. 65. § (3) bekezdésében meghatározott követelmények alkalmazásáról,
+bz) az illetékes szanálási hatóságokkal való egyeztetés után a szavatoló tőkére, a leírható és átalakítható kötelezettségekre vonatkozó Szantv. 65. § (3) bekezdésében és 68. § (1) bekezdésében meghatározott követelmények alkalmazásáról,
 
 bzs) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti határozatokról, valamint az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről;
 
@@ -219,3 +219,5 @@ bb) a pénzforgalmi szolgáltatók által az MNB rendelkezésére bocsátott inf
 (8) Az MNB a (3) bekezdés a), e), g) és n) pontja szerinti bejelentést az EGT állama pénzügyi felügyeleti hatóságainak is megküldi.
 
 (9) A Pénzügyi Békéltető Testület tevékenységére vonatkozóan az Európai Bizottság felé a Bizottság által kidolgozott formanyomtatványon tájékoztatást ad.
+
+(10) Az MNB értesítheti az Európai Értékpapír-piaci Hatóságot az olyan helyzetekről, amikor a befektetési vállalkozást érintő helyszíni ellenőrzés vagy vizsgálat elvégzéséhez vagy információcseréhez kapcsolódó felügyeleti megkeresését elutasították vagy nem jártak el észszerű időben.

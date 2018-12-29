@@ -22,7 +22,7 @@ d) a miniszter által megbízott szakértő.
 
 (7) Felügyelőbizottsági tagnak hitelintézeti, pénzügyi, illetve számviteli kérdésekben kiemelkedő szakmai ismeretekkel rendelkező, valamint az országgyűlési képviselők választásán választható magyar állampolgárt lehet jelölni.
 
-(8) A felügyelőbizottság tagjainak megbízatása az Országgyűlés megbízatásának időtartamára szól, és az Országgyűlés megbízatásának megszűnéséig tart.
+(8) A felügyelőbizottság tagjainak megbízatása azon év december 31. napjáig tart, amely évben az Országgyűlés megbízatása megszűnik.
 
 (9) A felügyelőbizottsági tagot az őt megválasztó Országgyűlés, illetve az őt megbízó miniszter hívhatja vissza.
 

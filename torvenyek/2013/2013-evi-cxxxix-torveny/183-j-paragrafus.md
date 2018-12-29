@@ -1,0 +1,1 @@
+183/J. § A pénzügyi közvetítőrendszert érintő egyes törvények jogharmonizációs célú módosításáról szóló 2018. évi CXXVI. törvény (a továbbiakban: Módtv.3.) 85. § (1) bekezdésével megállapított 14. § (8) bekezdést a hatálybalépésekor megbízatásukat töltő felügyelőbizottsági tagok megbízatásának időtartama tekintetében is alkalmazni kell.

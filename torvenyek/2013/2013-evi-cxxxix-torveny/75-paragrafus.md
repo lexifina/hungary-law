@@ -18,6 +18,16 @@ bf) bírságot szab ki, vagy
 
 bg) fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez
 
+bh) előírja a 2016/1011/EU európai parlamenti és tanácsi rendelet szerinti referenciamutató-kezelő vagy felügyelt szervezet számára, hogy hagyjon fel a jogsértő magatartással és tartózkodjon annak megismétlésétől,
+
+bi) kötelezi a 2016/1011/EU európai parlamenti és tanácsi rendelet alapján a jogsértésből származó nyereség visszafizetésére vagy a jogsértés révén elkerült veszteség ellentételezésére, ha az összegszerűen meghatározható,
+
+bj) nyilvánosan figyelmezteti a jogsértésért felelős, a 2016/1011/EU európai parlamenti és tanácsi rendelet szerinti referenciamutató-kezelőt vagy felügyelt szervezetet, a jogsértés jellegét megjelölve,
+
+bk) visszavonja vagy felfüggeszti a jogsértésért felelős, a 2016/1011/EU európai parlamenti és tanácsi rendelet szerinti referenciamutató-kezelő engedélyét vagy nyilvántartásba vételét,
+
+bl) ideiglenesen eltiltja a jogsértésért felelős természetes személyt a 2016/1011/EU európai parlamenti és tanácsi rendelet szerinti referenciamutató-kezelőnél vagy felügyelt adatszolgáltatónál a vezetői funkciók gyakorlásától
+
 [az a) és b) pont a továbbiakban együtt: intézkedés.]
 
 (2) Az MNB abban az esetben is alkalmazhat intézkedést, ha azt külföldi pénzügyi hatóság kezdeményezi.

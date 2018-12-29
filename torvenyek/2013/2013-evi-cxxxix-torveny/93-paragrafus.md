@@ -32,7 +32,7 @@ a) az engedély nélkül vagy bejelentés hiányában végzett tevékenység ese
 
 b) a vállalatfelvásárlásra vonatkozó szabályok megsértése esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig,
 
-c) a 76. § (12) bekezdésében meghatározottak megsértése esetén a piacfelügyeleti bírság összege a 76. § (12) bekezdésében rögzített összegig,
+c) a Tpt. 405. § (3) és (4) bekezdésében meghatározottak megsértése esetén a piacfelügyeleti bírság összege a Tpt. 405. § (3) és (4) bekezdésében rögzített összegig,
 
 d) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettség, valamint a 12–14. cikkében előírt fedezetlen ügyletkötési korlátozások megsértése esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig
 
@@ -40,13 +40,13 @@ terjedhet.
 
 (5a) Nem természetes személy ügyfél esetén az ügyfél piacfelügyeleti bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben kiszabható piacfelügyeleti bírság összege – a 93. § (5) bekezdés alkalmazásán felül – százezer forinttól százmillió forintig terjedhet.
 
-(6) A kiszabható piacfelügyeleti bírság felső határa az (5) bekezdés c) pontjától eltérően az elért árfolyamnyereség vagy elkerült árfolyamveszteség négyszáz százaléka, ha az árfolyam-különbözet mértéke tételesen kimutatható és az magasabb, mint az (5) bekezdés c) pontjában meghatározott bírságtétel felső határa.
+(6)
 
 (7) Ha az MNB a piacfelügyeleti rendelkezések betartását az ellenőrzési eljárás keretében ellenőrzi, akkor az ellenőrzési eljárásra a 90. és 91. §-t is alkalmazni kell.
 
-(8) Ha az MNB a piacfelügyeleti rendelkezések megsértését ellenőrzési eljárás során észleli, akkor e rendelkezések megsértése miatt az (1)–(6) bekezdésben meghatározott intézkedéseket alkalmazhatja.
+(8) Ha az MNB a piacfelügyeleti rendelkezések megsértését ellenőrzési eljárás során észleli, akkor e rendelkezések megsértése miatt az (1)–(5) bekezdésben meghatározott intézkedéseket alkalmazhatja.
 
-(9) Ha az ellenőrzési eljárás keretében megállapított tényállás alapján a 75. § (1) bekezdésében meghatározott esetkörök mellett piacfelügyeleti rendelkezések megsértése is megvalósult, az MNB valamennyi jogsértésre egységes intézkedést is alkalmazhat, amely a 75. és 76. §-ban meghatározottakon kívül kiterjed az (1)–(6) bekezdésekben foglalt intézkedésekre is.
+(9) Ha az ellenőrzési eljárás keretében megállapított tényállás alapján a 75. § (1) bekezdésében meghatározott esetkörök mellett piacfelügyeleti rendelkezések megsértése is megvalósult, az MNB valamennyi jogsértésre egységes intézkedést is alkalmazhat, amely a 75. és 76. §-ban meghatározottakon kívül kiterjed az (1)–(5) bekezdésekben foglalt intézkedésekre is.
 
 (10) Ha az MNB a 39. §-ban meghatározott törvények hatálya alá tartozó személyekre és szervezetekre vonatkozó jogszabályi rendelkezések vagy az MNB által hozott határozatban foglaltak megsértését piacfelügyeleti eljárás során észleli, akkor e rendelkezések megsértése miatt a 75. §-ban meghatározott intézkedéseket alkalmazhatja.
 

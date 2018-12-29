@@ -44,23 +44,7 @@ bb) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség �
 
 (11) A (10) bekezdésben foglalt összegek közül minden esetben a magasabb összeget kell alkalmazni.
 
-(12) Az 596/2014/EU európai parlamenti és tanácsi rendelet megsértése esetén
-
-a) természetes személy esetében
-
-aa) az 596/2014/EU európai parlamenti és tanácsi rendelet 14. és 15. cikkének megsértése esetén a bírság mértéke legfeljebb 1 555 850 000 forint,
-
-ab) az 596/2014/EU európai parlamenti és tanácsi rendelet 16. és 17. cikkének megsértése esetén a bírság mértéke legfeljebb 311 170 000 forint,
-
-ac) az 596/2014/EU európai parlamenti és tanácsi rendelet 18., 19. és 20. cikkének megsértése esetén a bírság mértéke legfeljebb 155 585 000 forint;
-
-b) vállalkozás esetében
-
-ba) az 596/2014/EU európai parlamenti és tanácsi rendelet 14. és 15. cikkének megsértése esetén a bírság mértéke legfeljebb 4 667 550 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti árbevétel 15%-a, azzal, hogy ha a vállalkozás anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel,
-
-bb) az 596/2014/EU európai parlamenti és tanácsi rendelet 16. és 17. cikkének megsértése esetén a bírság mértéke legfeljebb 777 925 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti árbevétel 2%-a, azzal, hogy ha a vállalkozás anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel,
-
-bc) az 596/2014/EU európai parlamenti és tanácsi rendelet 18., 19. és 20. cikkének megsértése esetén a bírság mértéke legfeljebb 311 170 000 forint.
+(12)
 
 (13) Az Európai Parlament és a Tanács (EU) 2015/2365 rendelete megsértése esetén
 

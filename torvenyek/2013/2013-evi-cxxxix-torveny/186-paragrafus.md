@@ -14,7 +14,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 
 (5) A 40. §
 
-a) (1) bekezdése a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet 15. cikk (3) bekezdésének,
+a)
 
 b) (2) bekezdése a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet,
 
@@ -41,6 +41,10 @@ k) (21) bekezdése a 600/2014 európai parlamenti és tanácsi rendeletnek egyes
 l) (22) bekezdése a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelet
 
 m) (25) bekezdése a lakossági befektetési csomagtermékekkel, illetve biztosítási alapú befektetési termékekkel kapcsolatos kiemelt információkat tartalmazó dokumentumokról szóló, 2014. november 26-i 1286/2014/EU európai parlamenti és tanácsi rendelet
+
+n) (26) bekezdése a pénzpiaci alapokról szóló, 2017. június 14-i (EU) 2017/1131 európai parlamenti és tanácsi rendelet,
+
+o) (27) bekezdése az európai kockázatitőke-alapokról szóló 345/2013/EU rendelet és az európai szociális vállalkozási alapokról szóló 346/2013/EU rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1991 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 

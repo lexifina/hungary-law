@@ -1,4 +1,4 @@
-40. § (1) Az MNB a 39. § (3) bekezdésében meghatározott feladatai során ellátja a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet végrehajtását.
+40. § (1)
 
 (2) Az MNB a 39. § (1) bekezdés l) pontjában meghatározott feladatai során ellátja a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
 
@@ -47,3 +47,7 @@
 (24) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2015. november 25-i (EU) 2015/2365 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2015/2365 európai parlamenti és tanácsi rendelet] 16. cikke szerinti illetékes hatóságként az (EU) 2015/2365 európai parlamenti és tanácsi rendelet végrehajtását.
 
 (25) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az 1286/2014/EU európai parlamenti és tanácsi rendelet szerinti illetékes hatóságként az 1286/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
+
+(26) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a pénzpiaci alapokról szóló, 2017. június 14-i (EU) 2017/1131 európai parlamenti és tanácsi rendelet végrehajtását.
+
+(27) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja az európai kockázatitőke-alapokról szóló 345/2013/EU rendelet és az európai szociális vállalkozási alapokról szóló 346/2013/EU rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1991 európai parlamenti és tanácsi rendelet végrehajtását.
