@@ -4,7 +4,7 @@
 
 a) a kiállító az okiratot saját kezűleg írta és aláírta,
 
-b) két tanú igazolja, hogy az okirat aláírója a részben vagy egészben nem általa írt okiratot előttük írta alá, vagy aláírását előttük saját kezű aláírásának ismerte el; igazolásként az okiratot mindkét tanú aláírja, továbbá az okiraton a tanúk nevét és lakóhelyét – ennek hiányában tartózkodási helyét – olvashatóan is fel kell tüntetni,
+b) két tanú igazolja, hogy az okirat aláírója a részben vagy egészben nem általa írt okiratot előttük írta alá, vagy aláírását előttük saját kezű aláírásának ismerte el; igazolásként az okiratot mindkét tanú aláírja, továbbá az okiraton a tanúk nevét és – ha törvény eltérően nem rendelkezik – lakóhelyét, ennek hiányában tartózkodási helyét olvashatóan is fel kell tüntetni,
 
 c) az okirat aláírójának aláírását vagy kézjegyét az okiraton bíró vagy közjegyző hitelesíti,
 
