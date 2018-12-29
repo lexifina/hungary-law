@@ -242,6 +242,8 @@ c) létesítő okirat, megállapodás alapján döntő befolyást gyakorolhat a 
 
 83. portfóliókezelés: a Bszt.-ben meghatározott tevékenység;
 
+83a. PPA: pénzpiaci alap, amely az (EU) 2017/1131 európai parlamenti és tanácsi rendelettel összhangban engedélyezett ÁÉKBV vagy ABA;
+
 84. prime bróker: olyan hitelintézet, befektetési vállalkozás vagy prudenciális szabályozás és folyamatos felügyelet alá tartozó más vállalkozás, amely szerződő félként szolgáltatást kínál a szakmai befektetők számára elsősorban pénzügyi eszközökre vonatkozó ügyletek finanszírozása vagy végrehajtása érdekében, és amely más szolgáltatásokat is nyújthat, például a Tpt. szerinti elszámolást és teljesítést, valamint letéti őrzést, letétkezelést, értékpapír-kölcsönzést, igényekre szabott technológia- és működéstámogatási szolgáltatásokat;
 
 85. referencia-tagállam: az az EGT-állam, amelynek felügyeleti hatóságai jogosultak nem uniós ABAK engedélyezési eljárása és felügyelete tekintetében eljárni;

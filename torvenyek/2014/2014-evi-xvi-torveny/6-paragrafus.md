@@ -16,13 +16,13 @@ be) a befektetőkkel kapcsolatos nyilvántartások vezetése,
 
 bf) hozamfizetés,
 
-bg) az ÁÉKBV-alapkezelő által kezelt kollektív befektetési értékpapír forgalomba hozatalával és folyamatos forgalmazásával összefüggő adminisztrációs feladatok,
+bg) kollektív befektetési értékpapír forgalomba hozatalával és folyamatos forgalmazásával összefüggő adminisztrációs feladatok,
 
 bh) a megkötött ügyletek teljesítése, a bizonylatok megküldését is ideértve,
 
 bi) nyilvántartások vezetése;
 
-c) az ÁÉKBV-alapkezelő által kezelt kollektív befektetési értékpapír forgalomba hozatala és folyamatos forgalmazása.
+c) kollektív befektetési értékpapír forgalmazása és az ÁÉKBV-alapkezelő által kezelt kollektív befektetési értékpapír forgalomba hozatala.
 
 (2) Az ÁÉKBV-alapkezelő a kollektív portfóliókezelési tevékenység mellett kizárólag az alábbi tevékenységeket végezheti rendszeres gazdasági tevékenysége keretében, az a)–c) pontban meghatározott tevékenységek esetén az adott tevékenységre előírt engedély birtokában és figyelemmel a (3) bekezdésre:
 
