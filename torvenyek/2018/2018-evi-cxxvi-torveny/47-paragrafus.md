@@ -1,0 +1,3 @@
+47. § Az Fnyt. 47. § (5a) bekezdése helyébe a következő rendelkezés lép:
+
+„(5a) A Felügyelet a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének méretét, jellegét, nagyságrendjét és összetettségét figyelembe véve értékeli a kockázatmenedzsment során alkalmazott hitelminősítési eljárások megfelelőségét, ideértve a hitelminősítő intézetekről szóló, 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdés b) pontjában meghatározott hitelminősítő intézetek által kiadott hitelminősítések befektetési politikában meghatározott szerepét, és szükség esetén ösztönzi az ilyen hivatkozások hatásainak mérséklését annak érdekében, hogy csökkenjen e hitelminősítések kizárólagos és automatikus figyelembevétele.”

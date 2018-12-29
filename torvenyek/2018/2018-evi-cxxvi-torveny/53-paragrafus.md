@@ -1,0 +1,3 @@
+53. § Az Fnyt. 62/A. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Amennyiben a határon átnyúló átadás során a Felügyelet és az átadásban részt vevő más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézmény székhely szerint illetékes hatósága között nézetkülönbség áll fenn a hatóságok bármelyikének eljárásával, intézkedésének tartalmával vagy intézkedésének hiányával kapcsolatban – ideértve a határon átnyúló átadás engedélyének megadásával vagy megtagadásával kapcsolatos határozatot is –, a Felügyelet az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságnál nem kötelező jellegű közvetítést kezdeményezhet.”
