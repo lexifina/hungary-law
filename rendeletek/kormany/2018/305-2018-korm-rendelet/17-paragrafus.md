@@ -1,3 +1,3 @@
-## 16. § Az Sznyr. 50. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 16. §[^5]
 
-## „(1) A működést engedélyező szerv a 2018. december 31-én vagy azt követően hatályukat vesztő ideiglenes hatályú bejegyzések hatályát hivatalból – kizárólag ellátási érdekből – 2020. december 31-éig más jogszabályi felhatalmazás hiányában is meghosszabbíthatja, ha a fenntartó benyújtja a határozatlan vagy határozott idejű bejegyzéshez szükséges feltételek megteremtésére vonatkozó szakmai tervét vagy az ennek érdekében igényelt európai uniós forrás felhasználására megkötött támogatási szerződés másolatát. A működést engedélyező szerv a meghosszabbítás kérdésében 2019. március 31-éig dönt. A döntés véglegessé válásáig az ideiglenes hatályú bejegyzés hatálya meghosszabbodik.”
+[^5]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

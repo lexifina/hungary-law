@@ -1,4 +1,4 @@
-## 23. §[^7]
+## 23. §[^8]
 
 ## 7. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–15. §, a 17–23. § és az 1–3. melléklet 2019. január 1-jén lép hatályba.
 
-[^7]: A 23. § a 24. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^8]: A 23. § a 24. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
