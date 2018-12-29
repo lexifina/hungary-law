@@ -1,0 +1,1 @@
+## 2. § A nyomvonal határát meghatározó pontok tengelypontoktól mért távolsága a P1 ponttól P267 pontig, PJ1 ponttól PJ3 pontig, PB1 ponttól PB4 pontig és KP1 ponttól KP4 pontig a 2. mellékletben méterben meghatározott távolság.
