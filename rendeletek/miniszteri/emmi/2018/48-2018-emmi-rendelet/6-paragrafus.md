@@ -1,5 +1,3 @@
-## 5. § A Rendelet 5. § (9) bekezdése a következő f) ponttal egészül ki:
+## 5. §[^5]
 
-## [Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege a 651/2014/EU bizottsági rendelet szerinti]
-
-## „f) audiovizuális alkotásokra vonatkozó támogatási programokra nyújtott támogatás esetén programonként évente meghaladja az 50 millió eurónak megfelelő forintösszeget.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
