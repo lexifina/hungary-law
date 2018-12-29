@@ -1,4 +1,4 @@
-## 18. §[^149] A 6. § (3) bekezdés n) pontja a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i 98/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (3) bekezdésének, 9. cikk (2) bekezdésének végrehajtásához szükséges rendelkezéseket állapít meg.
+## 18. §[^149]
 
 1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^150]
 
@@ -64,7 +64,7 @@
 
 3.20. Zala Megyei Rendőr-főkapitányság, Zalaegerszeg
 
-[^149]: Az újabb 18. §-t a 275/2016. (IX. 15.) Korm. rendelet 2. §-a iktatta be.
+[^149]: Az újabb 18. §-t a 275/2016. (IX. 15.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 298/2018. (XII. 21.) Korm. rendelet 3. § b) pontja.
 [^150]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^151]: Az 1. melléklet címe a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával módosított szöveg.
 [^152]: Az 1. melléklet 1. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
