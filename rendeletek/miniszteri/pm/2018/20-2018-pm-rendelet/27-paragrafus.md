@@ -1,0 +1,3 @@
+27. § (1) A NAV tv. 36/H. § (1) bekezdésére is figyelemmel a 26. § (3) és (4) bekezdése szerint kell eljárni akkor is, ha a pénzügyőr a NAV tv. 36/E. §-a vagy a 36/G. §-a alapján a birtokos távollétében hatolt be a magánlakásba, illetve a magánlakásnak és közterületnek nem minősülő egyéb helyre, helyiségbe. A NAV tv. 36/H. § (1) bekezdése szerinti tájékoztatási kötelezettség akkor is fennáll, ha a behatolást követően a magánlakás, illetve a magánlakásnak és közterületnek nem minősülő egyéb hely, helyiség biztonságosan lezárható.
+
+(2) Ha a pénzügyőr a NAV tv. 36/F. § (1) bekezdése szerinti esetben és célból székhelynek, illetve telephelynek is használt magánlakásba kíván belépni, a magánlakásban való intézkedésre vonatkozó szabályok alapján kell eljárni.

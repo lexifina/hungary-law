@@ -1,0 +1,3 @@
+18. § (1) A NAV bűnügyi igazgatóságához történő előállítás a fogva tartott személy szabadon bocsátásáig vagy őrizetének elrendeléséig, illetve letartóztatásáig, de legfeljebb a NAV tv. 36/D. § (4) bekezdésében meghatározott ideig tart.
+
+(2) Ha az előállítás időtartamának a NAV tv. 36/D. § (4) bekezdése szerinti meghosszabbítása válik szükségessé, ennek tényét és időtartamát a fogva tartott személlyel – a személyi szabadság korlátozása 8. órájának lejártát megelőzően – szóban közölni kell, és a meghosszabbítás tényét, okát, időtartamát, illetve annak közlését az előállításról készített jelentésen, valamint az előállítás időtartamáról kiállított igazoláson, az engedélyezésre jogosult vezető aláírásával együtt fel kell tüntetni.
