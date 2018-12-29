@@ -14,7 +14,7 @@ e) a címzett – a 26. § (3) bekezdése szerinti bejelentés tartalma alapján
 
 f) a levélszekrénybe történő elhelyezéssel vagy személyes átadással történő kézbesítés vagy az értesítő hátrahagyása nem lehetséges (jelzése: kézbesítés akadályozott),
 
-g)[^21] a 26. § (3) bekezdése szerinti bejelentés vagy nyilatkozat alapján a természetes személy meghalt, a szervezet megszűnt (jelzése: bejelentve: meghalt/megszűnt).
+g)[^28] a 26. § (3) bekezdése szerinti bejelentés vagy nyilatkozat alapján a természetes személy meghalt, a szervezet megszűnt (jelzése: bejelentve: meghalt/megszűnt).
 
 (2) A kézbesíthetetlenség (1) bekezdésben meghatározott okát a postai szolgáltató az ott meghatározott jelzésnek megfelelően köteles a kézbesítési okiraton vagy az aláírást rögzítő egyéb technikai eszközön, valamint a küldeményen vagy a kísérőokiraton feltüntetni, valamint a postai küldeményt a feladónak visszakézbesíteni.
 
@@ -22,4 +22,4 @@ g)[^21] a 26. § (3) bekezdése szerinti bejelentés vagy nyilatkozat alapján a
 
 (4) A postai szolgáltató a kézbesíthetetlenség (1) és (3) bekezdésben meghatározott okáról e-mail, rövid szöveges üzenet vagy egyéb technikai eszköz alkalmazásával tájékoztatja a feladót, ha erről vele egyedi szerződésben vagy az általános szerződési feltételek alapján megállapodott.
 
-[^21]: A 25. § (1) bekezdés g) pontját a 102/2014. (III. 25.) Korm. rendelet 3. § (9) bekezdése iktatta be.
+[^28]: A 25. § (1) bekezdés g) pontját a 102/2014. (III. 25.) Korm. rendelet 3. § (9) bekezdése iktatta be.

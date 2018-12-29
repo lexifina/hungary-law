@@ -1,4 +1,4 @@
-## 23. §[^20] A postai szolgáltató általános szerződési feltételeiben jogosult a könyvelt küldemény kézbesítését – a 22. §-ban megállapított rendelkezésekben foglaltakon túl – további, az átvételi jogcím és a személyazonosság igazolása vonatkozásában a címzett vagy egyéb jogosult átvevő által kötelezően teljesítendő előírások teljesítésétől függővé tenni.
+## 23. §[^26] A postai szolgáltató általános szerződési feltételeiben jogosult a könyvelt küldemény kézbesítését – a 22. §-ban megállapított rendelkezésekben foglaltakon túl – további, az átvételi jogcím és a személyazonosság igazolása vonatkozásában a címzett vagy egyéb jogosult átvevő által kötelezően teljesítendő előírások teljesítésétől függővé tenni.
 
 ## 10. A postai küldemény átvételének megtagadása
 
@@ -10,8 +10,7 @@
 
 a) a címzett vagy meghatalmazott a kézbesítéskor esedékes díj megfizetését az összeg mértéke vagy a fizetési mód miatt csak a kézbesítési kísérletet követően, a Postatv. 42. § (1) bekezdésében rögzített rendelkezésre tartási időn belül vállalja teljesíteni, vagy
 
-b) a címzetten és meghatalmazotton kívüli egyéb jogosult átvevő nem kívánja átvenni a küldeményt, vagy elzárkózik a kézbesítéskor esedékes díj megfizetésétől, az átvétel jogcímének vagy személyazonosságának igazolásától, továbbá a kézbesítési okirat vagy tértivevény aláírásától vagy az átvétel során feltüntetendő adatok rögzítésétől.
+b)[^27] a címzetten és meghatalmazotton kívüli egyéb jogosult átvevő nem kívánja átvenni a küldeményt, vagy elzárkózik a kézbesítéskor esedékes díj megfizetésétől, az átvétel jogcímének vagy személyazonosságának igazolásától, továbbá a kézbesítési okirat, a tértivevény vagy a tértivevénynek megfelelő elektronikus dokumentum aláírásától vagy az átvétel során feltüntetendő adatok rögzítésétől.
 
-Ezen esetekben a címzett részére a küldemény érkezéséről értesítőt kell hátrahagyni.
-
-[^20]: A 23. § a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés d) pontja szerint módosított szöveg.
+[^26]: A 23. § a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés d) pontja szerint módosított szöveg.
+[^27]: A 24. § (3) bekezdés b) pontja a 292/2018. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
