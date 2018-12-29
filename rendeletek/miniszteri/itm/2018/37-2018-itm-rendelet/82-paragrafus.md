@@ -1,0 +1,1 @@
+## 81. § Jogszabály eltérő rendelkezése hiányában e rendelet szabályait kell alkalmazni a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvényben megállapított eredeti előirányzattal rendelkező és eredeti előirányzattal nem rendelkező fejezeti kezelésű előirányzatokkal való 2019. évi gazdálkodás során.
