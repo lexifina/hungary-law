@@ -56,8 +56,11 @@ számított három munkanapon belül írásban, igazolható módon, legfeljebb h
 
 (12)[^14] Az állam tulajdonát képező, a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 22. § (1) bekezdése szerinti bérlő használatában lévő ingatlanok címadatait az ingatlanok vagyonkezelője a kéményseprő-ipari ellátási területekre vonatkozóan megyei bontásban negyedévenként, a negyedév első hónapjának 5. napjáig elektronikusan, szerkeszthető formában átadja a kéményseprő-ipari szervnek, illetve a Kstv. 10. § (3) bekezdés szerinti szolgáltatónak.
 
-(13)[^15] Ha a kéményseprő-ipari tevékenységet ellátó tevékenysége során megállapítja, hogy az ingatlan tulajdonosának az ingatlan időlegesen használt ingatlanként való bejelentése nem valós, vagy az ingatlan e minőségének megszűnését nem jelentette be, értesíti a tűzvédelmi hatóságot.
+(12a)[^15] A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 3. § (1) bekezdése szerinti, a helyi önkormányzat tulajdonát képező ingatlanok címadatait a helyi önkormányzat vagy az ingatlan vagyonkezelője a kéményseprő-ipari ellátási területekre vonatkozóan megyei bontásban negyedévenként, a negyedév első hónapjának 5. napjáig elektronikusan, szerkeszthető formában átadja a kéményseprő-ipari szervnek, illetve a Kstv. 10. § (3) bekezdés szerinti szolgáltatónak.
+
+(13)[^16] Ha a kéményseprő-ipari tevékenységet ellátó tevékenysége során megállapítja, hogy az ingatlan tulajdonosának az ingatlan időlegesen használt ingatlanként való bejelentése nem valós, vagy az ingatlan e minőségének megszűnését nem jelentette be, értesíti a tűzvédelmi hatóságot.
 
 [^13]: A 4. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 573. § (5) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
 [^14]: A 4. § (12) bekezdését a 263/2017. (IX. 11.) Korm. rendelet 4. §-a iktatta be.
-[^15]: A 4. § (13) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 573. § (6) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^15]: A 4. § (12a) bekezdését a 323/2018. (XII. 28.) Korm. rendelet 56. §-a iktatta be.
+[^16]: A 4. § (13) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 573. § (6) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
