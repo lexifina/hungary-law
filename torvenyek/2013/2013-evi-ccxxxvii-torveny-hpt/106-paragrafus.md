@@ -20,7 +20,7 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 
 (5) A (2) bekezdésben meghatározott korlátozás nem vonatkozik
 
-a) a hitelintézetnél vezetett pénzforgalmi számlához kapcsolódó hitelkeretre, valamint
+a) a hitelintézetnél vezetett fizetési számlához kapcsolódó hitelkeretre, valamint
 
 b) a munkáltató által adott fizetési előleg vagy lakás-, illetve más szociális célú kölcsönre
 

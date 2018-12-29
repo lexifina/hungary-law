@@ -2,11 +2,11 @@
 
 a) a költségvetési szerv,
 
-b) a tartósan száz százalékban állami tulajdonban lévő gazdasági társaság,
+b)
 
 c) a helyi önkormányzat,
 
-d) a biztosító, az önkéntes kölcsönös biztosító pénztár, valamint a magánnyugdíjpénztár,
+d) a biztosító, a viszontbiztosító, az önkéntes kölcsönös biztosító pénztár, valamint a magánnyugdíjpénztár,
 
 e) a befektetési alap, a befektetési alapkezelő,
 
@@ -14,7 +14,7 @@ f) a Nyugdíjbiztosítási Alap, valamint ezek kezelő szervezetei és a nyugdí
 
 g) az elkülönített állami pénzalap,
 
-h) a pénzügyi intézmény,
+h) a pénzügyi intézmény és a pénzforgalmi intézmény,
 
 i) az MNB,
 
@@ -24,11 +24,11 @@ k) a kötelező vagy önkéntes betétbiztosítási, intézményvédelmi, befekt
 
 l)–m)
 
-n) a kockázati tőketársaság és a kockázati tőkealap
+n)
 
 betéteire, valamint a felsoroltak külföldi megfelelőinek betéteire.
 
-(2) Az OBA által nyújtott biztosítás nem terjed ki az olyan betétre, amelyről bíróság jogerős ítélettel megállapította, hogy az abban elhelyezett összeg pénzmosásból származik, valamint a hitelintézet szavatoló tőkéjére és a hitelintézet által kibocsátott hitelviszonyt megtestesítő értékpapírra.
+(2) Az OBA által nyújtott biztosítás nem terjed ki az olyan betétre, amelyről bíróság jogerős ítélettel megállapította, hogy az abban elhelyezett összeg pénzmosásból származik, valamint a hitelintézet szavatoló tőkéjére, továbbá a hitelintézet által kibocsátott hitelviszonyt megtestesítő értékpapírra és saját váltóra.
 
 (3) Az (1) bekezdés a) és c) pontjától eltérően az OBA által nyújtott biztosítás kiterjed a helyi önkormányzat, valamint a helyi önkormányzat által alapított költségvetési szerv betétjére, amennyiben a tárgyévet két évvel megelőző évi beszámolója adatai alapján a helyi önkormányzat költségvetési mérlegfőösszege nem haladja meg az ötszázezer eurót.
 

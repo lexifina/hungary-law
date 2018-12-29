@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-237-00-00
 | 2018-01-13 | 2017. évi CXLV. törvény | 2013-237-00-00.40 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2013-237-00-00.41 |
 | 2018-08-08 | 2018. évi LIV. törvény | 2013-237-00-00.42 |
+| 2018-12-29 | 2018. évi CXXVI. törvény | 2013-237-00-00.43 |

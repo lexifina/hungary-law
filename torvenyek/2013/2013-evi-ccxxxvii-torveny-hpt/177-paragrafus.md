@@ -70,6 +70,18 @@ a) végrehajtásával fenntartható vagy helyreállítható a hitelintézet vagy
 
 b) alkalmazhatósága a vonatkozó stressz-forgatókönyvek alapján reálisan akkor is feltételezhető, ha egyidejűleg más hitelintézet is helyreállítási tervet hajt végre.
 
+(15a) A Felügyelet a hitelintézet által benyújtott helyreállítási tervet értékeli, figyelemmel a hitelintézet
+
+a) szervezeti felépítésének összetettségére,
+
+b) kockázati profiljára, valamint
+
+c) tőkehelyzetére és finanszírozási struktúrájára.
+
+(15b) A Felügyelet a hitelintézet által benyújtott helyreállítási tervet a szanálási feladatkörében eljáró MNB rendelkezésére bocsátja azzal, hogy a szanálási feladatkörében eljáró MNB által adott javaslatokat a Felügyelet megvizsgálja.
+
 (16) Ha az értékelés alapján a helyreállítási terv hiányos vagy a végrehajtásának akadályai lehetnek, a Felügyelet határozatban kötelezi a hitelintézetet a helyreállítási terv két hónapon belüli átdolgozására, mely határidő egy hónappal meghosszabbítható.
 
 (17) A (16) bekezdés szerinti határozat meghozatala előtt a Felügyelet lehetőséget biztosít a hitelintézet számára, hogy a Felügyelet által feltárt hiányosságok, végrehajtási akadályok tárgyában észrevételt tegyen.
+
+(18) Ha a hitelintézet a Felügyelet szerint nem a (16) bekezdés szerinti határozatnak megfelelően dolgozta át a helyreállítási tervet, akkor a Felügyelet határozatában rögzíti az újbóli átdolgozás módját, eszközeit, elemeit és részleteit.

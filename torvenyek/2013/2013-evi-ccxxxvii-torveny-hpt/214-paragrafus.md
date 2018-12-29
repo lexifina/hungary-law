@@ -1,6 +1,6 @@
 ## 87. Az OBA által fizetett kártalanítás
 
-214. § (1) Az OBA a kártalanításra jogosult személy részére azon betétkövetelésből, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 33. § (1) bekezdése alapján vonta vissza, vagy amelynek felszámolását a bíróság elrendelte, először a tőke, majd a kamat összegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig – a (4) bekezdésben foglalt kivétellel – forintban fizeti ki kártalanításként.
+214. § (1) Az OBA a kártalanításra jogosult személy részére azon betétkövetelésből, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 33. § (1) bekezdése vagy 33. § (2) bekezdés c) pontja alapján vonta vissza, vagy amelynek felszámolását a bíróság elrendelte, először a tőke, majd a kamat összegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig – a (4) bekezdésben foglalt kivétellel – forintban fizeti ki kártalanításként.
 
 (2) A kártalanítás forintösszegét a kártalanítás 217. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes a jegybanki feladatkörében eljáró MNB által közzétett hivatalos devizaárfolyam alapján kell meghatározni.
 
@@ -8,7 +8,7 @@
 
 (4) A Magyarországon székhellyel rendelkező hitelintézet külföldi fióktelepénél elhelyezett betétek alapján járó kártalanítást az OBA a fióktelep országának hivatalos devizanemében fizeti ki. Ha a fióktelep országának hivatalos devizája nem euró, először a kártalanítási összeghatárnak megfelelő forintösszeget kell a 217. § (1) bekezdésében meghatározott kezdő időpontot megelőző napon érvényes, a jegybanki feladatkörében eljáró MNB által közzétett hivatalos devizaárfolyamon megállapítani, majd ugyanezen napi a jegybanki feladatkörében eljáró MNB által közzétett hivatalos forint/devizaárfolyamon a fióktelep országának hivatalos devizájában a kártalanítás összegét megállapítani.
 
-(5) Az OBA azon betétkövetelés tőkeösszege után, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 33. § (1) bekezdése alapján vonta vissza, vagy amelynek felszámolását a bíróság elrendelte, a még nem tőkésített és ki nem fizetett kamatot a kártalanítás 217. § (1) bekezdésében meghatározott kezdő időpontjáig legfeljebb az (1) bekezdésben meghatározott összeghatárig a szerződés szerinti kamatlábbal téríti meg a kártalanításra jogosult személy részére.
+(5) Az OBA azon betétkövetelés tőkeösszege után, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 33. § (1) bekezdése vagy 33. § (2) bekezdés c) pontja alapján vonta vissza, vagy amelynek felszámolását a bíróság elrendelte, a még nem tőkésített és ki nem fizetett kamatot a kártalanítás 217. § (1) bekezdésében meghatározott kezdő időpontját megelőző napig legfeljebb az (1) bekezdésben meghatározott összeghatárig a szerződés szerinti kamatlábbal téríti meg a kártalanításra jogosult személy részére.
 
 (6) Nyereménybetétek esetén – a betét elhelyezésének időpontjától függetlenül – a betétes legfeljebb az (1) bekezdésben meghatározott összeghatárig a betét névértékének megfelelő összegű kártalanításra jogosult.
 
@@ -24,7 +24,7 @@
 
 (12)
 
-(13) A betétes elhalálozása esetén – a betétek elhelyezésének időpontjától függetlenül – az örökhagyó és az örökösök betétjét a hagyatékátadó végzés vagy a bírósági ítélet jogerőre emelkedésétől számított egy évig vagy a rögzített kamatozású kamatperiódus végéig – a kettő közül a későbbi időpontig – külön betétnek kell tekinteni és az (1)–(3) bekezdés szerinti kártalanítási összeghatár meghatározásánál nem kell összevonni az örökösök más betéteivel. Az örökhagyó betétje után a kártalanítás az (1)–(3) bekezdésben meghatározott összeghatárig fizetendő ki, függetlenül az örökösök számától. Ezt a rendelkezést a közös betétekre is alkalmazni kell.
+(13) A betétes elhalálozása esetén – a betétek elhelyezésének időpontjától függetlenül – az örökhagyó és az örökösök betétjét a hagyatékátadó végzés vagy a bírósági ítélet jogerőre emelkedésétől számított egy évig vagy a rögzített kamatozású kamatperiódus végéig – a kettő közül a későbbi időpontig – külön betétnek kell tekinteni, és az (1)–(3) bekezdés szerinti kártalanítási összeghatár meghatározásánál nem kell összevonni az örökösök más betéteivel. Az örökhagyó betétje után a kártalanítás az (1)–(3) bekezdésben meghatározott összeghatárig fizetendő ki, függetlenül az örökösök számától. Ezt a rendelkezést a közös betétekre is alkalmazni kell. Ha az örökhagyót a 214/A. § alapján elhelyezett betétei után magasabb összegű kártalanítás illette volna meg, akkor az örökösöket megilleti a magasabb összeg a hagyatékátadó végzés vagy a bírósági ítélet jogerőre emelkedésétől számított három hónapig, a 214/A. § (1) bekezdésében meghatározott összeghatárig, függetlenül az örökösök számától.
 
 (14) Az (1)–(3) bekezdés alkalmazása során az egyéni vállalkozó által elhelyezett betét – elhelyezésének időpontjától függetlenül – az ugyanazon személy által magánszemélyként elhelyezett betéttől külön betétnek minősül.
 

@@ -16,7 +16,7 @@ vonatkozásában információt ad.
 
 (5) A tagintézetek betétbiztosítással kapcsolatos kötelezettségeinek teljesítését – ideértve az adatoknak az OBA kifizető rendszerének megfelelő rendelkezésre állását és a betétek személyenként történő összevonását – a Felügyelet a helyszínen ellenőrzi. Az OBA ellenőrzéssel kapcsolatos javaslatát a Felügyelet figyelembe veszi az éves ellenőrzési tervének kialakításakor.
 
-(6) A tagintézet köteles a betétekre és a betétesekre vonatkozó – a 2. melléklet szerinti – azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából az OBA kérésére öt munkanapon belül átadhatóak legyenek.
+(6) A tagintézet köteles a betétekre és a betétesekre vonatkozó – a 2. melléklet szerinti – azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából, az OBA által kérteknek megfelelően az OBA kérésére öt munkanapon belül átadhatóak legyenek.
 
 (7) Az OBA a tagintézetek által megküldött adatállományok alapján legalább háromévente, indokolt esetben gyakrabban teszteli kifizető rendszerének működését. A tesztelés érdekében a tagintézetek által megküldött adatokat az OBA kizárólag a teszteléshez használja fel, a tesztelést követően törli az adatokat.
 

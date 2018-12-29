@@ -340,6 +340,8 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 
 108. tartós adathordozó: olyan eszköz, amely az ügyfél számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését;
 
+108a. teljes bizonyító erejű magánokirat: az e törvény hatálya alá tartozó pénzügyi intézmény és az ügyfele között létrejött szerződés, és az e törvény hatálya alá tartozó magánokirati formában tett jognyilatkozat akkor is teljes bizonyító erejű magánokiratnak minősül, ha az megfelel a polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdés b) pontjában foglaltaknak azzal az eltéréssel, hogy ha a tanú a pénzügyi intézmény munkavállalója, akkor a lakóhelye vagy tartózkodási helye helyett együttesen a munkáltatója címét (székhelyét, telephelyét, fióktelepét), valamint a személyazonosításra alkalmas hatósági igazolvány típusát és számát is feltüntetheti a magánokiraton;
+
 109. teljes hiteldíj mutató: a fogyasztónak nyújtott hitelről szóló törvényben meghatározott fogalom;
 
 110. teljesítményjavadalmazás: a javadalmazás azon része, amelyet a hitelintézet az alapjavadalmazáson felül biztosíthat a vezető állású személynek és a munkavállalónak, ha az a munkaszerződésben meghatározottakat meghaladó teljesítményt nyújt vagy abban nem rögzített feladatokat lát el;
@@ -456,7 +458,7 @@ la) amelynek célja digitális tartalom és hangalapú szolgáltatások vásárl
 
 lb) amelyet elektronikus eszközről vagy annak segítségével hajtanak végre és a kapcsolódó szolgáltatói számlára terhelik jótékonysági tevékenység keretében vagy jegyvásárlás céljából,
 
-feltéve, hogy az egyszeri fizetési művelet összege nem haladja meg az ezerötszáz forintot és a fizetési műveletek kumulált összege egy előfizetőre nézve – ideértve az előre feltöltött egyenleggel rendelkező előfizetőket is – naptári hónaponként nem haladja meg a kilencvenezer forintot,
+feltéve, hogy az egyszeri fizetési művelet összege nem haladja meg a tizenötezer forintot és a fizetési műveletek kumulált összege egy előfizetőre nézve – ideértve az előre feltöltött egyenleggel rendelkező előfizetőket is – naptári hónaponként nem haladja meg a kilencvenezer forintot,
 
 m) a pénzforgalmi szolgáltatók és közvetítői vagy fióktelepeik közötti sajátszámlás fizetési művelet,
 

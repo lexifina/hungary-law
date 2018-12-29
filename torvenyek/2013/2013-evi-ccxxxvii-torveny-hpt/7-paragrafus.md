@@ -8,7 +8,7 @@
 
 a) a 3. § (2) bekezdés a)–d) és f) pontjában meghatározott kiegészítő pénzügyi szolgáltatási tevékenységet,
 
-b) a biztosítási tevékenységről szóló törvényben foglalt feltételekkel biztosításközvetítői tevékenységet,
+b) – a biztosítási tevékenységről szóló törvényben foglalt feltételekkel – hitelintézet esetén biztosításközvetítői tevékenységet, pénzügyi vállalkozás esetén biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenységet,
 
 c) Tpt.-ben meghatározott feltételekkel értékpapír-kölcsönzést, részvényesi meghatalmazotti (nominee) tevékenységet, Bszt.-ben meghatározott feltételekkel befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást, valamint a Bszt. 111–116. §-a szerinti közvetítői tevékenységet és árutőzsdei szolgáltató által végezhető tevékenységet,
 
@@ -34,7 +34,9 @@ m) az autópályák, autóutak és főutak használatáért fizetendő, megtett 
 
 n) a 3. § (1) bekezdés j) pontján kívüli pénzletét kezeléshez kapcsolódó szolgáltatást
 
-o) elektronikuspénz-értékesítői tevékenységet
+o) elektronikuspénz-értékesítői tevékenységet,
+
+p) hitelintézet esetén a vele szoros kapcsolatban álló vállalkozások számára szolgáltatások nyújtását
 
 végezhet.
 

@@ -2,7 +2,7 @@
 
 219. § (1) Ha az OBA a betéteseknek kártalanítást fizetett ki, a hitelintézettel szembeni követelés – a kifizetett összeg erejéig – a betétesről az OBA-ra száll át. A követelés átszállásával az OBA a korábbi jogosult helyébe lép. Az OBA a 217. § (1) bekezdésében meghatározott esetekben az átszállt követeléseket jogosult érvényesíteni.
 
-(1a) Ha az OBA hozzájárul egy hitelintézet szanálásának finanszírozásához, a hozzájárulás összegének erejéig az OBA-nak követelése keletkezik az érintett hitelintézettel szemben, amely követelést a Cstv. 57. § (1) bekezdés c) pontját követő és a d) pontját megelőző kielégítési csoportba szükséges sorolni.
+(1a) Ha az OBA hozzájárul egy hitelintézet szanálásának finanszírozásához, a hozzájárulás összegének erejéig az OBA-nak követelése keletkezik az érintett hitelintézettel szemben, amely követelést az 57. § (1) bekezdés a) pontja szerinti kielégítési csoportba szükséges sorolni.
 
 (1b) Az OBA a 217. § (1) bekezdésében meghatározott esetekben a szövetkezeti hitelintézetek integrációjában részvevő hitelintézettel szembeni követelését az Szhitv.-ben meghatározott egyetemlegesség alapján jogosult érvényesíteni a Szövetkezeti Hitelintézetek Tőkefedezeti Alapjával, az Integrációs Szervezettel, a Központi Bankkal, illetve a többi szövetkezeti hitelintézettel szemben.
 

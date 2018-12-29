@@ -1,6 +1,6 @@
 ## 50. Befektetésekre vonatkozó egyéb korlátozások
 
-102. § (1) A hitelintézet – nettó értéken számított – összes közvetlen és közvetett befektetése nem haladhatja meg szavatoló tőkéjének száz százalékát.
+102. § (1) A hitelintézet – nettó értéken számított – összes befektetése nem haladhatja meg szavatoló tőkéjének százhuszonöt százalékát.
 
 (2) A hitelintézet az (1) bekezdésben meghatározott befektetésnél nem veszi figyelembe
 

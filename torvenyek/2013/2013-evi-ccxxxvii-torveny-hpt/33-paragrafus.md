@@ -10,6 +10,6 @@ a) a bíróság elrendeli a hitelintézet felszámolását,
 
 b) a hitelintézet az OBA-val fennálló tagsági jogviszonya kizárással megszűnt,
 
-c)
+c) a nem vitatott betétből eredő tartozását az esedékességét követő öt napon belül képtelen visszafizetni, és nem valószínű a későbbi visszafizetés sem.
 
 (3) Hitelintézet tevékenységi engedélyét a Felügyelet a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter jóváhagyásával vonhatja vissza.
