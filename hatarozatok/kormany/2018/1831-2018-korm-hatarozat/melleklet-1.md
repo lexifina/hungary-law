@@ -12,15 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Magyar Halgazdálkodási Operatív Program éves fejlesztési keretének megállapításáról szóló 1056/2016. (II. 17.) Korm. határozat
-
-## a) 1. melléklet 4. pontjában foglalt táblázat C:2 mezőjében a „0,400” szövegrész helyébe a „0,240” szöveg,
-
-## b) 1. melléklet 4. pontjában foglalt táblázat C:3 mezőjében a „0,800” szövegrész helyébe a „0,960” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:3a mezőjében a „0,800” szövegrész helyébe a „0,960” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1831/2018. (XII. 27.) Korm. határozathoz
 
@@ -29,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | MAHOP-5.3.2-2016- 2017-00001 | Kommunikációs és promóciós kampány a halfogyasztás népszerűsítésére (Kapj rá!) | Agrármarketing Centrum Nonprofit Korlátolt Felelősségű Társaság | 800 058 000 | 160 011 600 | 960 069 600 | A projekt célja piackutatások, valamint kommunikációs és promóciós kampányok lebonyolítása révén növelni a halfogyasztást, megismertetve a hazai fogyasztókkal a halételek sokféleségét, a fiatalabb korosztályt ráébreszteni arra, hogy a nemzetközi viszonylatban népszerű halfogyasztás jól beilleszthető a reformétkezésbe. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
