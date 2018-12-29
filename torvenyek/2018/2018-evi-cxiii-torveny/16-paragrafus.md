@@ -1,3 +1,0 @@
-16. § A Ve. 355. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A 332. § (2) bekezdése, 338. § (3a) bekezdése, 341/A. §, 343. § (2) bekezdése és 344. § – az Alaptörvény XXXIII. cikk (2) bekezdésével és az Európai Parlament tagjainak választásáról és jogállásáról szóló 2003. évi CXIII. törvénnyel együtt – az 1976. szeptember 20-i 76/787/ESZAK, EGK, Euratom tanácsi határozathoz csatolt, az Európai Parlament tagjainak közvetlen és általános választójog alapján történő választásáról szóló okmány módosításáról szóló 2018. július 13-i (EU, Euratom) 2018/994 tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.”
