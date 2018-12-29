@@ -2,26 +2,26 @@
 
 32. § (1) Hatályát veszti az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-1.[^11]
+1.[^21]
 
-2. „[Az Áht. 43. §-ához]” alcíme,
+2.[^22]
 
-3.[^12]
+3.[^23]
 
-4. 5. melléklet 14a. sora.
+4.[^24]
 
 (2) Hatályát veszti az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-1. 62. § (1) bekezdés záró szövegrészében a „ , fejlesztett és működtetett” szövegrész,
+1–2.[^25]
 
-2. 75. § (3) bekezdés a) pontjában a „pénzügyi intézmény által igazolt,” szövegrész,
+3–4.[^26]
 
-3–4.[^13]
+5–6.[^27]
 
-5. 140. § (8) bekezdésében az „a következő havi nettó finanszírozás során ismét megkísérli a lemondással érintett összeg érvényesítését. Ennek ismételt meghiúsulása esetén a Kincstár” szövegrész, és
-
-6. 167/E. § (1) bekezdés 2. pont b) alpontjában az „ , az önkormányzati rendelet hatálya alá tartozó közművelődési intézmény létesítése, átszervezése, megszüntetése esetében” szövegrész.
-
-[^11]: A 32. § (1) bekezdés 1. pontja a 41. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^12]: A 32. § (1) bekezdés 3. pontja a 41. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^13]: A 32. § (2) bekezdés 3–4. pontja a 41. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^21]: A 32. § (1) bekezdés 1. pontja a 41. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^22]: A 32. § (1) bekezdés 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 32. § (1) bekezdés 3. pontja a 41. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^24]: A 32. § (1) bekezdés 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 32. § (2) bekezdés 1–2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 32. § (2) bekezdés 3–4. pontja a 41. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^27]: A 32. § (2) bekezdés 5–6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

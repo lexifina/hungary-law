@@ -1,3 +1,3 @@
-## 11. §[^2]
+## 11. §[^3]
 
-[^2]: A 11. § a 41. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^3]: A 11. § a 41. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

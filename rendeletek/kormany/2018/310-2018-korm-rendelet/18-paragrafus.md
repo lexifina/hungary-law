@@ -1,1 +1,0 @@
-## „(8a) A költségvetési támogatások esetén a kedvezményezett által e célra megadott elektronikus címre elektronikusan – változatlan tartalom visszaidézésére alkalmas formában – megküldött támogatói okirat abban az időpontban minősül hivatalosan közöltnek, amikor az a kedvezményezett számára hozzáférhetővé vált.”
