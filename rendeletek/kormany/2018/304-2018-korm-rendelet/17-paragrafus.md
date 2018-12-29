@@ -1,4 +1,4 @@
-## 16. §[^4]
+## 16. §[^5]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–12. § és a 14–16. § 2019. január 1-jén lép hatályba.
 
-[^4]: A 16. § a 17. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^5]: A 16. § a 17. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

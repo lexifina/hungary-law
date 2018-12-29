@@ -1,3 +1,3 @@
-## 13. § Az Mmtr. 48. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 13. §[^3]
 
-## „(5) A 29. § (1) bekezdésében foglaltaktól eltérően a 2019. évre kiírt pályázaton nyertes munkáltatóval a Kormányhivatal 1 évre köt keretszerződést.”
+[^3]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
