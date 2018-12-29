@@ -34,7 +34,7 @@ fd) az Európai Unió tagállamának központi bankja, az Európai Központi Ban
 
 amely valamely rendszer résztvevője, és amelynek a rendszerben továbbított transzfer megbízásokból adódó fizetési kötelezettségeket teljesítenie kell;
 
-g) központi szerződő fél: az a szervezet, amely a rendszer intézményeinek transzfer megbízásai tekintetében – a jogviszonyba belépve – mindannyiukkal szemben kizárólagos szerződő félként jár el;
+g) központi szerződő fél: a 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában meghatározott fogalom;
 
 h) közvetett résztvevő: az az intézmény, központi szerződő fél, teljesítő fél, elszámoló fél vagy rendszerüzemeltető, amely a transzfer megbízásokat teljesítő rendszer valamely résztvevőjével szerződéses kapcsolatban áll abból a célból, hogy transzfer megbízásait e résztvevő bonyolítsa le számára a rendszeren keresztül, feltéve, hogy a közvetett résztvevő a rendszerüzemeltető számára ismert;
 
@@ -44,7 +44,7 @@ ia) amikor három vagy több résztvevő – kivéve a rendszerüzemeltető, a t
 
 ib) amely kijelölésre kerül és a kijelölő hatóság értesíti erről az Európai Értékpapír-piaci Hatóságot;
 
-j) résztvevő: az intézmény, a központi szerződő fél, a teljesítő fél, az elszámoló fél, valamint a rendszerüzemeltető;
+j) résztvevő: az intézmény, a központi szerződő fél, a központi szerződő fél klíringtagja, a teljesítő fél, az elszámoló fél, valamint a rendszerüzemeltető;
 
 k) transzfer megbízás: valamely résztvevő rendelkezése, hogy egy pénzösszeget, illetőleg átruházható értékpapírt valamely hitelintézetnél, központi szerződő félnél, központi banknál vagy a teljesítő félnél vezetett számlán történő jóváírással bocsássanak a kedvezményezett rendelkezésére;
 

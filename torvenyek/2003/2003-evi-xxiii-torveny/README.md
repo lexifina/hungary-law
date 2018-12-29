@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-23-00-00
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 2003-23-00-00.13 |
 | 2015-07-07 | 2015. évi LXXXV. törvény | 2003-23-00-00.14 |
 | 2016-01-01 | 2015. évi LXXXV. törvény | 2003-23-00-00.15 |
+| 2018-12-29 | 2018. évi CXXVI. törvény | 2003-23-00-00.16 |
