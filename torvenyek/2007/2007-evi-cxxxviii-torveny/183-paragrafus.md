@@ -18,7 +18,9 @@ g) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve
 
 h) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról,
 
-i) az Európai Parlament és Tanács 2016. április 16-i 2014/56/EU irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról.
+i) az Európai Parlament és Tanács 2016. április 16-i 2014/56/EU irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról,
+
+j) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrumentumok kielégítési sorrendben elfoglalt helye tekintetében történő módosításáról szóló, 2017. december 12-i (EU) 2017/2399 európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény
 

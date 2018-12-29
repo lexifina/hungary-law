@@ -2,7 +2,7 @@
 
 a) csak kötvények, strukturált pénzügyi termékek, kibocsátási egységek, valamint – figyelemmel a b) pontban foglaltakra – bizonyos származtatott termékek vonatkozásában és kizárólag az ügyfél beleegyezése esetén folytathat egymásnak megfelelő ügyfélmegbízásokat párosító kereskedést,
 
-b) nem alkalmazhat egymásnak megfelelő ügyfélmegbízásokat párosító kereskedést azon származtatott termékekre vonatkozóan, amelyek a származtatott termékek olyan kategóriájába tartoznak, amelyet a 648/2012/EU rendelet 5. cikkével összhangban elszámolási kötelezettség hatálya alá tartozónak nyilvánítottak,
+b) nem alkalmazhat egymásnak megfelelő ügyfélmegbízásokat párosító kereskedést azon származtatott termékekre vonatkozóan, amelyek a származtatott termékek olyan kategóriájába tartoznak, amelyet a 648/2012/EU európai parlamenti és tanácsi rendelet 5. cikkével összhangban elszámolási kötelezettség hatálya alá tartozónak nyilvánítottak,
 
 c) csak a likvid piaccal nem rendelkező állampapírok vonatkozásában folytathat egymásnak megfelelő ügyfélmegbízásokat párosító kereskedésen kívüli saját számlára történő kereskedést.
 

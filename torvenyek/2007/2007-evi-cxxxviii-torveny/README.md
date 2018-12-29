@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-138-00-00
 | 2018-01-13 | 2017. évi CXLV. törvény | 2007-138-00-00.52 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2007-138-00-00.53 |
 | 2018-08-08 | 2018. évi LIV. törvény | 2007-138-00-00.54 |
+| 2018-12-29 | 2018. évi CXXVI. törvény | 2007-138-00-00.55 |

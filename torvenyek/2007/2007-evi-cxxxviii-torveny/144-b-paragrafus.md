@@ -12,7 +12,7 @@ b) a Kbftv. szerinti befektetési alapok,
 
 c) egyéb pénzügyi intézmények, ideértve a Bit. szerinti biztosítókat és viszontbiztosítókat és a a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény szerinti foglalkoztatói nyugdíjszolgáltató intézményeket,
 
-d) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló Európai Parlament és Tanács 2012. július 4-ei 648/2012/EU rendelet 2. cikk 8. pontjában meghatározott nem pénzügyi szerződő felek,
+d) a 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 8. pontjában meghatározott nem pénzügyi szerződő felek,
 
 e) a kibocsátási egységek vagy azok származtatott termékei esetében az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény szerinti üzemeltetők.
 

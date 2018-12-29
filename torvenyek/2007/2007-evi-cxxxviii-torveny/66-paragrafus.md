@@ -12,6 +12,6 @@ c) értékpapír forgalomba hozatala során a befektetési vállalkozás lebonyo
 
 (3) A (2) bekezdés b) pontja esetében nyújtott halasztott pénzügyi teljesítés során a befektetési vállalkozás az ügyfelet terhelő fizetési kötelezettséget elkülönített letéti számla javára teljesíti.
 
-(4) A befektetési vállalkozás a halasztott pénzügyi teljesítésre vonatkozó szabályokról a 43. § (9) bekezdésének d) pontja szerint tájékoztatja az ügyfelet.
+(4) A befektetési vállalkozás a halasztott pénzügyi teljesítésre vonatkozó szabályokról tájékoztatja az ügyfelet.
 
 (5) A halasztott pénzügyi teljesítésre a befektetési hitelezésre vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a halasztott pénzügyi teljesítés időtartama nem lehet hosszabb, mint az ügyfél fizetési kötelezettsége esedékességétől számított tizenöt nap.

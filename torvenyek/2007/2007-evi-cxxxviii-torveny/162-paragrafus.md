@@ -72,6 +72,18 @@ a) végrehajtásával fenntartható vagy helyreállítható a befektetési váll
 
 b) alkalmazhatósága a vonatkozó stressz-forgatókönyvek alapján reálisan akkor is feltételezhető, ha egyidejűleg más befektetési vállalkozás is helyreállítási tervet hajt végre.
 
+(16a) A Felügyelet a befektetési vállalkozás által benyújtott helyreállítási tervet értékeli, figyelemmel a befektetési vállalkozás
+
+a) szervezeti felépítésének összetettségére,
+
+b) kockázati profiljára,
+
+c) tőkehelyzetére és finanszírozási struktúrájára.
+
+(16b) A Felügyelet a befektetési vállalkozás által benyújtott helyreállítási tervet a szanálási feladatkörében eljáró MNB rendelkezésére bocsátja azzal, hogy a szanálási feladatkörében eljáró MNB által adott javaslatokat a Felügyelet megvizsgálja.
+
 (17) Ha az értékelés alapján a helyreállítási terv hiányos vagy a végrehajtásának akadályai lehetnek, a Felügyelet határozatban kötelezi a befektetési vállalkozást a helyreállítási terv kettő hónapon belüli átdolgozására, mely határidő egy hónappal meghosszabbítható.
 
 (18) A (17) bekezdés szerinti határozat meghozatala előtt a Felügyelet lehetőséget biztosít a befektetési vállalkozás számára, hogy a Felügyelet által feltárt hiányosságok, végrehajtási akadályok tárgyában észrevételt tegyen.
+
+(19) Ha a befektetési vállalkozás a Felügyelet szerint nem a (17) bekezdés szerinti határozatnak megfelelően dolgozta át a helyreállítási tervet, akkor a Felügyelet határozatában rögzíti az újbóli átdolgozás módját, eszközeit, elemeit és részleteit.

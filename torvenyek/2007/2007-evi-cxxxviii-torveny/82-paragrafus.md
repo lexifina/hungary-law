@@ -24,7 +24,7 @@ f) a végrehajtási helyszínekről,
 
 g) a szerződéskötéshez, valamint – egy korábban megkötött és hatályban lévő szerződés (a továbbiakban: keretszerződés) létrehozatala esetében – az egyes ügyletek megkötéséhez kapcsolódó költségről, díjról, amely a leendő szerződő felet terheli.
 
-(2) A szerződéskötést megelőző tájékoztatási kötelezettség teljesítése során az árutőzsdei szolgáltató nem alkalmazza a 43. § (3) bekezdésének b) pontjában, (5) bekezdésének a), c) és d) pontjában és (8) bekezdésének g)–j) pontjában foglaltakat.
+(2)
 
 (3) Nem kell az (1) bekezdésben meghatározott tájékoztatást megadni abban az esetben, ha
 

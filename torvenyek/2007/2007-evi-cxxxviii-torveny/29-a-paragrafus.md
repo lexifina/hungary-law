@@ -40,7 +40,7 @@ c) VI/A. Fejezetét,
 
 d) X–XIII. Fejezetét,
 
-e) összeférhetetlenségre vonatkozó szabályait,
+e) összeférhetetlenségre és a jogsértések jelentésére vonatkozó szabályait,
 
 f) XX. Fejezetét,
 

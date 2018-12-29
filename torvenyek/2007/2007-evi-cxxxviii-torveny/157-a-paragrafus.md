@@ -10,7 +10,7 @@ a) piaci visszaélés megelőzése,
 
 b) a szabályszerű árazási és teljesítési feltételek támogatása, ideértve a piactorzító pozíciók megelőzését is, és a leszállítási hónapban a származtatott termékek árai és az alapul szolgáló áruk azonnali árai közötti konvergencia biztosítását, nem sértve az alapul szolgáló áru piacán az árfeltárást.
 
-(3) A pozíciólimitek nem alkalmazandók az olyan – a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló Európai Parlament és Tanács 2012. július 4-ei 648/2012/EU rendelet 2. cikk 9. pontjában meghatározott – nem pénzügyi szerződő fél által vagy annak nevében tartott pozíciókra, amelyekről objektíven mérhető adatok alapján megállapítható, hogy csökkentik e nem pénzügyi szerződő fél kereskedelmi tevékenységéhez közvetlenül kapcsolódó kockázatokat.
+(3) A pozíciólimitek nem alkalmazandók az olyan – a 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 9. pontjában meghatározott – nem pénzügyi szerződő fél által vagy annak nevében tartott pozíciókra, amelyekről objektíven mérhető adatok alapján megállapítható, hogy csökkentik e nem pénzügyi szerződő fél kereskedelmi tevékenységéhez közvetlenül kapcsolódó kockázatokat.
 
 (4) A Felügyelet felülvizsgálja a pozíciólimiteket, amennyiben az alapul szolgáló áruból leszállítható mennyiségben vagy a nyitott pozícióban jelentős változás áll be, vagy a piacon egyéb jelentős változás következik be. A leszállítható mennyiségnek és a nyitott pozíciónak a meghatározása alapján – az Európai Értékpapír-piaci Hatóság által meghatározott számítási módszertannal összhangban – a Felügyelet a pozíciólimiteket újraszámolja.
 

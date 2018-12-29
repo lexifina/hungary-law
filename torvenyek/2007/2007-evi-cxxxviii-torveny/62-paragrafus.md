@@ -28,4 +28,4 @@ f) a megbízás jellegét vagy bármely más, a megbízás végrehajtása szempo
 
 (7) Az ügyfél kérésére a befektetési vállalkozás a végrehajtási politikában foglalt rendelkezések alkalmazásának bemutatásával igazolja, hogy az ügyfél megbízását a végrehajtási politikában foglaltaknak megfelelően hajtotta végre, és a Felügyelet kérésére igazolja, hogy e §-ban és a 63. §-ban foglaltaknak megfelelően járt el.
 
-(8) A befektetési vállalkozás a megbízás ügyfél nevében történő végrehajtását követően tájékoztatja az ügyfelet a megbízás végrehajtásának helyszínéről. A befektetési vállalkozás rendszeres időközönkénti jelentésében részletezi az egyes pénzügyi eszközökre vonatkozóan az árat, a végrehajtás gyorsaságát és valószínűségét.
+(8) A befektetési vállalkozás a megbízás ügyfél nevében történő végrehajtását követően tájékoztatja az ügyfelet a megbízás végrehajtásának helyszínéről.
