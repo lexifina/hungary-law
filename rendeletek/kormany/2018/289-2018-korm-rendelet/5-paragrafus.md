@@ -1,3 +1,3 @@
-## 4. §[^2]
+## 4. §[^5]
 
-[^2]: A 4. § a 32. § (2) bekezdése alapján 2019. január 21-én lép hatályba.
+[^5]: A 4. § a 32. § (2) bekezdése alapján 2019. január 21-én lép hatályba.

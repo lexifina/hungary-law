@@ -1,1 +1,3 @@
-## 29. § A 355/2017. (XI. 29.) Korm. rendelet 1. melléklete helyébe a 7. melléklet lép.
+## 29. §[^34]
+
+[^34]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

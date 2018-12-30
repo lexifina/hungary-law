@@ -1,3 +1,3 @@
-## 5. §[^3]
+## 5. §[^6]
 
-[^3]: Az 5. § a 32. § (2) bekezdése alapján 2019. január 21-én lép hatályba.
+[^6]: Az 5. § a 32. § (2) bekezdése alapján 2019. január 21-én lép hatályba.

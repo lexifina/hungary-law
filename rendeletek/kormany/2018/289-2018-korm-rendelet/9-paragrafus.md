@@ -1,3 +1,3 @@
-## 8. §[^6]
+## 8. §[^9]
 
-[^6]: A 8. § a 32. § (2) bekezdése alapján 2019. január 21-én lép hatályba.
+[^9]: A 8. § a 32. § (2) bekezdése alapján 2019. január 21-én lép hatályba.
