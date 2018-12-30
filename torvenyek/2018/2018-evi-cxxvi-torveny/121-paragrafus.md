@@ -2,12 +2,12 @@
 
 a)
 
-b) 49. § (1) bekezdésében az „és c)” szövegrész,
+b)
 
 c)
 
-d) 213. § (1) bekezdés b) és n) pontja,
+d)
 
 e)
 
-f) 294. § (2) bekezdése.
+f)

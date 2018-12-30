@@ -1,3 +1,1 @@
-112. § A Hpt. 234. § (8a) bekezdése helyébe a következő rendelkezés lép:
-
-„(8a) Ha a (8) bekezdés alapján előírt rendkívüli fizetési kötelezettség veszélyeztetné a hitelintézet azonnali vagy mindenkori fizetőképességét – azaz likviditását vagy a szolvenciáját –, akkor a Felügyelet részben vagy egészben elhalaszthatja a hitelintézet rendkívüli befizetési kötelezettségének elrendelését. A rendkívüli befizetés legfeljebb 6 hónappal halasztható el azzal, hogy a hitelintézet kérelmére a halasztás meghosszabbítható. Az elhalasztott rendkívüli befizetési kötelezettséget akkor kell teljesíteni, ha a befizetés már nem veszélyezteti a hitelintézet azonnali vagy mindenkori fizetőképességét.”
+112. §
