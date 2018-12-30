@@ -1,9 +1,0 @@
-## 1. § A postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól, valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból kizárt vagy feltételesen szállítható küldeményekről szóló 335/2012. (XII. 4.) Korm. rendelet (a továbbiakban: Rendelet) 5. §-a helyébe a következő rendelkezés lép:
-
-## „5. § Az egyetemes postai szolgáltatások keretében küldeményenkénti díjszabás szerint feladott küldeményekkel kapcsolatos postai szolgáltatás igénybevételéhez szükséges nyomtatványokat – az adott alkalommal feladásra kerülő küldeményekhez igazodó mennyiségben – e rendelet eltérő rendelkezésének hiányában a postai szolgáltató díjmentesen bocsátja rendelkezésre. E nyomtatványokat a postai szolgáltató által kitöltendő adatok kivételével hiánytalanul, kitöltötten kell a küldemény feladásakor a postai szolgáltató számára átadni.”
-
-2. § (1) A Rendelet 9. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A postai küldeményt a címzett vagy e rendelet eltérő rendelkezésének hiányában az egyéb jogosult átvevő részére kell kézbesíteni. Egyéb jogosult átvevőnek a 15. § (4) bekezdése és a 16. § (4) bekezdése szerinti alkalmi átvevő, a 16. § (3) bekezdésében meghatározott helyettes átvevő, a 19. §-ban meghatározott meghatalmazott, valamint a 20. §-ban meghatározott közvetett kézbesítő minősül. A postai küldemény feladója a postai küldemény feladásakor utólagosan igazolható módon tett nyilatkozatában rendelkezhet úgy, hogy az egyéb jogosult átvevői kör vonatkozásában a postai szolgáltató az általános szerződési feltételeknek a postai küldemények kézbesítésére vonatkozó részében meghatározottak szerint korlátozó intézkedést alkalmazzon.”
-
-(2) A Rendelet 9. §-a a következő (7) bekezdéssel egészül ki:

@@ -1,1 +1,0 @@
-## „(7) A postai küldemény kézbesítésével vagy kézbesítési kísérletével kapcsolatos tények igazolása, valamint a postai szolgáltatásokhoz kapcsolódó többletszolgáltatás teljesítése érdekében a postai szolgáltató az erre rendszeresített technikai eszközzel hely és időpont adatokat is rögzíthet.”
