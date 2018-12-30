@@ -1,4 +1,4 @@
-## 120. §[^134]
+## 120. §[^138]
 
 ## 10. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 12. § és a 69. § 2020. január 1-jén lép hatályba.
 
-[^134]: A 120. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^138]: A 120. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

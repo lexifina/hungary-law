@@ -1,7 +1,3 @@
-## 101. § Az R5. 48/E. § (1) bekezdése a következő e) ponttal egészül ki:
+## 101. §[^101]
 
-## [Ha az állomány a Hjt.vhr. 69/A. § (5) bekezdése szerinti beosztásban tartós külföldi szolgálatot teljesítő tagja a tartós külföldi szolgálat megkezdését megelőzően betöltött,]
-
-## „e) az 1. § (1) bekezdése szerinti beosztásból a II. vagy az V. besorolási osztályba”
-
-## (tartozó külföldi beosztásba kerül áthelyezésre, részére a külföldön ellátott beosztás alapján megállapított alapilletmény összege és a tartós külföldi szolgálatot megelőző napon érvényes alapilletmény összege közötti különbözetet a külszolgálat időtartamára külszolgálati kiegészítő illetmény címén kell megállapítani.)
+[^101]: A 101. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

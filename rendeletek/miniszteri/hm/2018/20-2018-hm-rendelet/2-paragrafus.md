@@ -1,3 +1,3 @@
 ## 1. §[^1]
 
-[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

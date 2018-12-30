@@ -1,3 +1,3 @@
-## 109. §[^123]
+## 109. §[^127]
 
-[^123]: A 109. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^127]: A 109. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

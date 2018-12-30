@@ -4,4 +4,4 @@
 
 ## 7/2015. (VI. 22.) HM rendelet módosítása
 
-[^95]: A 95. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^95]: A 95. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
