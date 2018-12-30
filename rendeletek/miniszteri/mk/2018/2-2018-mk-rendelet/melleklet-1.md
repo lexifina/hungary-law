@@ -1,4 +1,4 @@
-## 35. § Hatályát veszti a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 3/2016. (IV. 29.) MK rendelet.
+## 35. §[^1]
 
 1. melléklet a 2/2018. (XII. 28.) MK rendelethez
 
@@ -45,3 +45,5 @@ XXI. Miniszterelnöki Kabinetiroda fejezet 2018. évi fejezeti és központi kez
 | 19. |  | 21 Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |
 
 | 20. | 377062 | 21/1/1 A Magyar Turisztikai Ügynökség Zrt. tulajdonosi joggyakorlása alá tartozó társaságok támogatása | Az MTÜ Zrt. tulajdonosi joggyakorlása alá tartozó társaságok részére a minimálbér-emelés és garantált bérminimum-emelés hatásainak ellensúlyozásához szükséges forrás biztosítása e célnak megfelelő kormányhatározati rendelkezés alapján biztosított források rendelkezésre állása esetén. | Az MTÜ Zrt. tulajdonosi joggyakorlása alá tartozó társaságok | kormányhatározatban foglaltak szerint hozott egyedi döntés alapján kiadott támogatói okirat vagy támogatási szerződés útján, egyedi döntés és a kijelölt kedvezményezettel kötött támogatási szerződés vagy támogatói okirat útján | igen | egyösszegű kifizetéssel, részletekben történő kifizetéssel | támogatási szerződés, támogatói okirat szerint |  | MTÜ Zrt. |  |
+
+[^1]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
