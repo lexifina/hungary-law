@@ -98,7 +98,7 @@
 
 ## ef) az Áfa tv. hatályán kívüli értékesítések, szolgáltatások forgalma.
 
-## 1.2. Az fa) pont alkalmazásában a Kereskedelmi Vámtarifa (vtsz.) 2002. év július hó 31. napján hatályos besorolási rendjét kell irányadónak tekinteni.
+## 1.2.
 
 ## 2. A forgalmi adatok gyűjtését bizonylat szinten (nyugta, egyszerűsített számla) és napi szinten is biztosítani kell.
 
