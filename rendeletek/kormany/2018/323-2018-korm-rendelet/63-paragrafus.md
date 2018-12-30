@@ -1,4 +1,4 @@
-## 62. §[^23]
+## 62. §[^26]
 
 ## 20. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) Az 59. § az e rendelet kihirdetését követő hatodik hónap első napján lép hatályba.
 
-[^23]: A 62. § a 63. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^26]: A 62. § a 63. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
