@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-85-00-00
 | 2017-03-16 | 2017. évi II. törvény | 1996-85-00-00.32 |
 | 2017-07-01 | 2017. évi XLIX. törvény | 1996-85-00-00.33 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 1996-85-00-00.34 |
+| 2018-12-31 | 2018. évi CXI. törvény | 1996-85-00-00.35 |

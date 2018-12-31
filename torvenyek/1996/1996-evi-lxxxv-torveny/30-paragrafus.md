@@ -1,6 +1,6 @@
 30. § (1) Teljes személyes díjmentességben részesül:
 
-a) a Magyar Állam,
+a) a Magyar Állam, költségvetési szerv,
 
 b) az egyházi jogi személy.
 
