@@ -16,6 +16,8 @@ ae) adóazonosító jelét vagy adószámát,
 
 af) ügyfél-azonosító számát;
 
+ag) az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti élelmiszerlánc-felügyeleti információs rendszer (a továbbiakban: FELIR) azonosító számát;
+
 b) jogi személy tagja, valamint a jogszabály alapján adatszolgáltatásra kötelezett jogi személyek
 
 ba) cégnevét,
@@ -30,7 +32,9 @@ be) adószámát,
 
 bf) ügyfél-azonosító számát,
 
-bg) képviselőjének nevét, lakcímét.
+bg) képviselőjének nevét, lakcímét,
+
+bh) FELIR azonosító számát.
 
 (2) A Hegyközségek Nemzeti Tanácsa jogosult kezelni a hegyközségek tagjainak, valamint a jogszabály alapján adatszolgáltatásra kötelezett személyek (1) bekezdésben meghatározott adatait.
 
@@ -63,3 +67,5 @@ j) a Központi Statisztikai Hivatal
 részére adhatja át.
 
 (6) A hegyközség az (1) bekezdés szerinti adatokat a hegyközségi tag tagsági jogviszonya megszűnésének évét követő ötödik év végéig jogosult kezelni.
+
+(7) A hegyközségek ügyintézője az (1) bekezdés szerinti adatok kezelése során köteles betartani az adatvédelemre vonatkozó előírásokat.

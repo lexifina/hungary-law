@@ -16,7 +16,7 @@ e) aki a tisztségviselői tevékenységtől, mint foglalkozástól eltiltó jog
 
 (3) Egyidejűleg nem viselhetnek tisztséget a hegyközségben a polgári törvénykönyv szerinti közeli hozzátartozók valamint az élettársak, bejegyzett élettársak. Az alapszabály az összeférhetetlenség további eseteit is meghatározhatja.
 
-(4) Nem választható meg tisztségviselőnek, akinek hegyközségi járuléktartozása áll fent, illetve adatszolgáltatási kötelezettségének nem tett eleget.
+(4) Nem választható meg tisztségviselőnek, akinek hegyközségi járulék vagy mulasztási bírság tartozása van, illetve az adatszolgáltatási kötelezettségének nem tett eleget.
 
 (5) Azt a tényt, hogy a (2) bekezdés d) és e) pontja szerinti kizáró okok nem állnak fenn, a tisztségviselő személy hatósági bizonyítvánnyal igazolja.
 

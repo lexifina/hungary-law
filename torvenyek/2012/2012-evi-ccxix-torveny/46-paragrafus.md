@@ -1,5 +1,5 @@
 ## 27. Gazdasági tevékenység
 
-46. § (1) Hegyközségi szervezet gazdasági tevékenységet nem folytathat, gazdasági társaságnak nem lehet tagja és ilyen társaságban részesedést nem szerezhet.
+46. § (1) Hegyközségi szervezet szőlészeti-borászati termelési vagy – a közösségi borpromóció kivételével – kereskedelmi tevékenységet nem folytathat.
 
-(2) A hegyközségi szervezet – tagjainak szolgáltatásokkal való ellátása céljából vagy más, gazdasági tevékenységet is igénylő feladata ellátása érdekében – nonprofit gazdasági társaságot alapíthat.
+(2) Hegyközségi szervezet gazdasági társaságnak nem lehet tagja, ilyen társaságban részesedést nem szerezhet. Hegyközségi szervezet nonprofit gazdasági társaságot alapíthat.

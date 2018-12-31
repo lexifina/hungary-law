@@ -1,5 +1,13 @@
 43. § (1) A Hegyközségek Nemzeti Tanácsa közigazgatási hatósági ügyben eljáró tisztségviselője, illetve ügyintézője csak olyan büntetlen előéletű személy lehet, aki a közigazgatási alapvizsgát letette, vagy vállalja, hogy kinevezése esetén a vizsgát a Hegyközségek Nemzeti Tanácsának főtitkára által meghatározott határidőn – de kinevezésétől számított legkésőbb egy éven – belül leteszi. A határidő elmulasztása esetén a tisztségviselő, illetve ügyintéző munkaviszonya megszűnik.
 
-(2) A 38. § f) pontjában meghatározott ügyekben eljáró ügyintéző csak olyan jogi végzettséggel rendelkező személy lehet, aki felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának elnöke gyakorolja, vagy akinek a megbízója a Hegyközségek Nemzeti Tanácsa.
+(2) A fellebbezés elbírálásában eljáró ügyintézőnek jogi vagy szakirányú felsőfokú végzettséggel kell rendelkeznie.
 
 (3) A szervezeti és működési szabályzatban kell meghatározni a közigazgatási hatósági ügyben eljáró személy kizárás miatt vagy bármely más okból való akadályoztatása esetére a feltételeknek megfelelő másik személy kijelölésére vonatkozó szabályokat.
+
+(4) E törvény, valamint a szőlőtermesztésről és a borgazdálkodásról szóló törvény alapján a hegybíró hatáskörébe tartozó ügyekben
+
+a) nincs helye sommás eljárásnak,
+
+b) a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+(5) A hegybíró felügyeleti szerve a Hegyközségek Nemzeti Tanácsának főtitkára.

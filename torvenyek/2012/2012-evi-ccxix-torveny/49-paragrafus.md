@@ -22,6 +22,6 @@ kell fedezni.
 
 (6) Az (5) bekezdés szerinti hegyközségi járulék mértéke nem lehet több a szőlészeti, illetve a borászati termelők számára az adott évre megállapított hegyközségi járulék mértékének a hegyközségek területének nagyságával súlyozott országos átlagánál.
 
-(7) Az Európai Gazdasági Térség valamely szerződő államából továbbfeldolgozási célból behozott borászati termék mennyisége után a Hegyközségek Nemzeti Tanácsa által megállapított mértékű hegyközségi járulékot kell fizetni a feldolgozás helye szerint illetékes hegyközség részére.
+(7) Az Európai Gazdasági Térség valamely szerződő államából továbbfeldolgozási célból behozott borászati termék mennyisége után a Hegyközségek Nemzeti Tanácsa által megállapított mértékű hegyközségi járulékot kell fizetni, amelynek 50%-a a feldolgozás helye szerint illetékes hegyközséget és 50%-a a Hegyközségek Nemzeti Tanácsát illeti meg.
 
 (8) A (7) bekezdés szerinti hegyközségi járulék mértéke nem lehet több a borászati termelők számára az adott évre megállapított hegyközségi járulék mértékének a hegyközségek területének nagyságával súlyozott országos átlagánál. A fizetendő hegyközségi járulék összegéből le kell vonni azt az összeget, amelyet az Európai Gazdasági Térség valamely szerződő államában ilyen jogcímen a behozatalt megelőzően kötelező jelleggel megfizettek, feltéve, hogy azt nem igényelték vissza.

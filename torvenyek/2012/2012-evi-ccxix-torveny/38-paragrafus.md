@@ -12,7 +12,7 @@ d) termékek piacra jutását elősegítő szolgáltatásokat szervez;
 
 e) képviselheti a hegyközséget a származás-, minőség- és eredetvédelemmel kapcsolatos ügyekben;
 
-f) elbírálja a hegybíró közigazgatási hatósági ügyben hozott elsőfokú határozata ellen benyújtott fellebbezést;
+f)
 
 g) együttműködik a szőlő- és bortermeléssel kapcsolatban feladatokat ellátó hatóságokkal és intézményekkel;
 
