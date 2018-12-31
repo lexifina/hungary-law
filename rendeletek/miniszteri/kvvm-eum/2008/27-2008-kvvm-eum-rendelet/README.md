@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-27-20-0
 | --- | --- | --- |
 | 2009-08-01 | 2008-27-20-0N.2 | 27/2008. (XII. 3.) KvVM–EüM együttes rendelet |
 | 2016-02-01 | 2008-27-20-0N.3 | 91/2015. (XII. 23.) FM rendelet |
+| 2018-12-31 | 2008-27-20-0N.4 | 17/2018. (X. 10.) AB határozat |
