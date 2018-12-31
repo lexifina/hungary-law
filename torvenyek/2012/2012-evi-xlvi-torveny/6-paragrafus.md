@@ -70,6 +70,8 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 
 (11) Az adatszolgáltató díjmentesen szolgáltatja a 2. § (2) bekezdésében meghatározott állami alapmunkák végzéséhez szükséges adatokat. Az adatszolgáltatás hálózati szolgáltatón keresztüli adathozzáféréssel is biztosítható.
 
+(11a) Alapponthálózati pontokra vonatkozó földmérési jel elhelyezését biztosító közérdekű használati jog bejegyzéséhez szükséges önálló vázlat elkészítéséhez az adatszolgáltatás és az állami átvételi eljárás díjmentes.
+
 (12) A 18. § (7) és (8) bekezdése, valamint a 19. § (8) bekezdése alapján átadott adatokért az állami átvételi alkalmasság megállapítását követően az adatállománnyal rendelkezni jogosult a 3. § (1) bekezdés a), b), e), f), h) és i) pontjában meghatározott állami alapadatok adatbázisaiból, valamint a miniszter felelősségi körébe tartozó állami topográfiai térképi adatbázis felhasználásával készült digitális domborzatmodellből külön megállapodás alapján díjmentes kompenzációs adatigénylésre jogosult.
 
 (13) A honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból a Magyar Honvédség szervezetei és a Katonai Nemzetbiztonsági Szolgálat feladataik ellátásához, valamint szakirányú fejlesztéséhez a honvédelem térképészeti támogatásáért felelős szervtől a szakmai ellátási normák alapján díjmentesen igényelhetnek adatot.
@@ -109,3 +111,5 @@ a) folyamatosan a 3. § (1) bekezdés d) pontjában foglalt adatbázishoz,
 b) évente egyszer a 3. § (1) bekezdés e) és f) pontjában foglalt adatbázisokhoz.
 
 (25) Mindazon állami és önkormányzati szervek, amelyek díj-, költség- és térítésmentesen hozzáférnek a 3. § (1) bekezdés d)–f) pontjába tartozó állami alapadatok adatbázisaihoz, az általuk kezelt adatbázisaikból díj-, költség- és térítésmentesen biztosítanak hozzáférést a földmérési és térinformatikai államigazgatási szerv számára a 3. § (1) bekezdés d)–f) pontjába tartozó állami alapadatok adatbázisok felújításával és aktualizálásával kapcsolatos feladatainak ellátásához.
+
+(26) A mezőgazdasági és vidékfejlesztési támogatási szerv az Integrált Igazgatási és Ellenőrzési Rendszerben történő felhasználás céljából minden év januárjában – díjmentesen, de az adatszolgáltatáshoz kapcsolódó munkadíj megfizetése mellett – hozzáférhet az állami ingatlan-nyilvántartási térképi adatbázisból előállított, a Mezőgazdasági Parcella Azonosító Rendszer részét képező kataszteri fedvény adataihoz.
