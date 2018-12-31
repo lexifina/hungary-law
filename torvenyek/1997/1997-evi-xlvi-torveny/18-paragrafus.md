@@ -30,4 +30,6 @@ c) a vadászat gyakorlása során a szakmai irányelveknek, valamint a vadászet
 
 (4) Az (1) bekezdés e) pontja szerinti perindításra az a tag jogosult, aki a határozat meghozatalában nem vett részt, vagy aki a határozat meghozatalában részt vett és ellene szavazott.
 
-(5)–(6)
+(5)
+
+(6)

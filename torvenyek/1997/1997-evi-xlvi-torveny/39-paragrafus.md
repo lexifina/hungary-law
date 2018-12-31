@@ -2,4 +2,14 @@
 
 39. § (1) Ez a törvény a kihirdetését követő 30. napon lép hatályba.
 
-(2)–(7)
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
