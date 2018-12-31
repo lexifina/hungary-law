@@ -36,9 +36,11 @@ lb) a közúti közlekedésről szóló törvényben meghatározott ellenőrző 
 
 m) a 46. § (2) bekezdésében foglalt adatok tekintetében – az Egészségbiztosítási Alapot, illetve a Nyugdíjbiztosítási Alapot megillető megtérítési követelések érvényesítése céljából – az egészségbiztosítási szerv és a nyugdíjbiztosítási szerv, a káresemény időpontja szerinti adatokra vonatkozóan;
 
-n) a 46. § (2) bekezdésének a) pontjában foglalt adatok tekintetében – jogának vagy jogos érdekének érvényesítése céljából, indokolt körben – bármely természetes személy, illetve jogi személy, egyéni vállalkozó, egyéni cég a felhasználás céljának és jogalapjának igazolása mellett.
+n) a 46. § (2) bekezdésének a) pontjában foglalt adatok tekintetében – jogának vagy jogos érdekének érvényesítése céljából, indokolt körben – bármely természetes személy, illetve jogi személy, egyéni vállalkozó, egyéni cég a felhasználás céljának és jogalapjának igazolása mellett;
 
-(2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e), l) és m) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti számítógépes kommunikációs kapcsolat segítségével – teljesíti.
+o) a 46. § (2) bekezdés e) pontjában meghatározott adatok tekintetében – a gépjármű hatósági jelzése alapján – a biztosítási kockázatviselés fennállásának tényére vonatkozóan a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvényben (a továbbiakban: Kknyt.) meghatározott járműéletút-adatszolgáltatás céljából a Kknyt.-ben meghatározott központi közúti közlekedési nyilvántartó szerv.
+
+(2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e), l), m) és o) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti számítógépes kommunikációs kapcsolat segítségével – teljesíti.
 
 (2a) A kötvénynyilvántartó szerv az egészségbiztosítási szerv és a nyugdíjbiztosítási szerv részére az adatigénylés teljesítése érdekében közvetlen hozzáférést biztosít a kötvénynyilvántartás (1) bekezdés m) pontjában meghatározott adataihoz.
 
@@ -47,3 +49,5 @@ n) a 46. § (2) bekezdésének a) pontjában foglalt adatok tekintetében – jo
 (4) Az (1) bekezdésben foglalt információk szolgáltatásáért, az ehhez szükséges számítógépes nyilvántartási és adatszolgáltatási rendszer folyamatos működtetéséért és az adatigénylésért a biztosítók kötelesek a kötvénynyilvántartó szervnek díjat fizetni. Díjként a biztosítók a magyarországi telephelyű gépjárművek kötelező gépjármű-felelősségbiztosításából származó negyedévi díjbevételük 0,5%-át kötelesek a tárgynegyedévet követő hónap utolsó napjáig a kötvénynyilvántartó szerv részére átutalni.
 
 (5) Az (1) bekezdés b)–m) pontjaiban meghatározott adatigénylők részére történő adatszolgáltatás díjmentes.
+
+(6) Az (1) bekezdés o) pontjában foglalt adatátadás valamint ezen adatok tekintetében a Kknyt.-ben meghatározott informatikai platformon keresztül történő járműéletút-adatszolgáltatás díjmentes.

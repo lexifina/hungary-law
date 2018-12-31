@@ -16,7 +16,7 @@ ab) jogi személy, egyéni cég, egyéni vállalkozó esetén annak megnevezés�
 
 ac) 52. § (6) bekezdése szerint képzett kártörténeti rendszer azonosító számát;
 
-b) a gépjármű hatósági jelzését (rendszámát) és alvázszámát, típusát, kategóriáját;
+b) a gépjármű rendszámát és alvázszámát, típusát, kategóriáját, egy adott gépjárműhöz nem köthető ideiglenes rendszámra kötött biztosítási szerződés esetén a rendszámot, valamint az ideiglenes rendszám kiadásának évét;
 
 c) rendszámváltozás esetén annak időpontját és a korábbi rendszámot;
 
@@ -32,13 +32,15 @@ h) a kifizetett kárösszeg meghatározott szabályok szerinti visszafizetésén
 
 i) a bonus-malus osztályt.
 
+(4a) A kárnyilvántartás a (4) bekezdésben meghatározottakon túl tartalmazza továbbá a károsult gépjármű és a káresemény (4) bekezdés b) és f) pontok szerinti adatait.
+
 (5) A 36. § (8) bekezdésének a), b) és e) pontjában meghatározott üzemben tartó esetében a káresemény kapcsán a (4) bekezdés a)–b) és f)–h) pontjaiban meghatározott adatok kerülnek nyilvántartásra.
 
 (6) A kárnyilvántartó szerv a (4) bekezdésben felsorolt adatokat egy üzemben tartó vonatkozásában az utolsó biztosítási szerződéssel kapcsolatos bármely adat keletkezését követő 7 évig kezeli.
 
 (7) A kárnyilvántartó szerv a (4) bekezdésben felsorolt adatokat a 36. § (8) bekezdésének a), b) és e) pontjában meghatározott üzemben tartót illetően a káresetre vonatkozó utolsó adat keletkezését követő 7 év elteltével törli, amennyiben a nyilvántartásban ezen üzemben tartóval kapcsolatban, ezen időtartam alatt a (6) bekezdés szerint adat nem keletkezik.
 
-(8) A kárnyilvántartó szerv a (4) bekezdés f)–h) pontjaiban felsorolt adatokat azok keletkezésétől számított 30 év elteltével törli.
+(8) A kárnyilvántartó szerv a (4) bekezdés f)–h) pontjában és a (4a) bekezdésben megjelölt adatokat azok keletkezésétől számított 30 év elteltével törli.
 
 (9) A kárnyilvántartó szerv kérelemre köteles átadni vagy hozzáférhetővé tenni:
 
@@ -58,8 +60,14 @@ g) a (4) bekezdésben foglalt adatok tekintetében – nemzetbiztonsági védele
 
 h) a (4) bekezdésben foglalt adatok tekintetében – törvényben meghatározott szabálysértési hatósági eljárások lefolytatása, illetve közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a rendőrség;
 
-i) a (4) bekezdésben foglalt adatok tekintetében – közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a közlekedési igazgatási hatóság
+i) a (4) bekezdésben foglalt adatok tekintetében – közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a közlekedési igazgatási hatóság;
+
+j) a (4a) bekezdésben foglalt adatokat – a károk kezelése és rendezése céljából – a károkozó gépjármű üzemben tartójának biztosítója, a Kártalanítási Számla kezelője;
+
+k) a (4) bekezdés b)–c) és f) pontjában, továbbá a (4a) bekezdésben meghatározott adatokat elektronikus úton – a Kknyt. járműéletút-adatszolgáltatás céljából – a Kknyt.-ben meghatározott központi közúti közlekedési nyilvántartó szerv
 
 részére.
 
 (10) A kárnyilvántartó szerv az üzemben tartó kérelmére köteles – a kérelem beérkezését követő 15 napon belül – a kérelmet megelőző időszak vonatkozásában – amennyiben ezen időszak tartama az öt évet meghaladja, úgy legalább ötéves időszakra visszamenőleg – a (4) bekezdésben meghatározott adatokról írásban igazolást kiadni más tagállam által előírt felelősségbiztosítási kötelezettség alapján kötendő szerződéssel kapcsolatos kedvezmény érvényesítése céljából.
+
+(11) A (9) bekezdésben meghatározott adatszolgáltatás, továbbá ezen adatok tekintetében a Kknyt.-ben meghatározott informatikai platformon keresztül történő járműéletút-adatszolgáltatás díjmentes.
