@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-64-00-00
 | 2017-10-02 | 2010. évi CXXX. törvény | 2017-64-00-00.4 |
 | 2018-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-64-00-00.5 |
 | 2018-01-02 | 2010. évi CXXX. törvény | 2017-64-00-00.6 |
+| 2018-12-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-64-00-00.7 |
