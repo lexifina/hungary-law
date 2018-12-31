@@ -1,1 +1,0 @@
-16. § Az Országgyűlés a pénzügyi teljesítéssel nem járó ügyletek elszámolásának rendezése érdekében jóváhagyja a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet 2. Az állami vagyonnal kapcsolatos kiadások cím 1. alcím, 1. jogcímcsoport, 2. Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai jogcím 1425,7 millió forint összegű túllépését.
