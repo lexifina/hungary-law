@@ -66,3 +66,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2018-05-18 | 2018. évi V. törvény | 1988-1-00-00.97 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1988-1-00-00.98 |
 | 2018-12-25 | 2018. évi XCVIII. törvény | 1988-1-00-00.99 |
+| 2018-12-31 | 2016. évi CXLIV. törvény | 1988-1-00-00.100 |
