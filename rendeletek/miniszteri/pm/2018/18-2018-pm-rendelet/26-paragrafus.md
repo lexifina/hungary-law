@@ -1,4 +1,4 @@
-## 25. §[^22]
+## 25. §[^24]
 
 ## 7. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Ez a rendelet 2019. február 4-én hatályát veszti.
 
-[^22]: A 25. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^24]: A 25. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

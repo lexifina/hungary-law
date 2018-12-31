@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-18-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-12-30 | 2018-18-20-53.1 | 18/2018. (XII. 20.) PM rendelet |
+| 2018-12-31 | 2018-18-20-53.2 | 2010: CXXX. törvény |

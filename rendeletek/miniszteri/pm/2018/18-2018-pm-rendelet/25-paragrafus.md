@@ -1,3 +1,3 @@
-## 24. §[^21]
+## 24. §[^23]
 
-[^21]: A 24. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^23]: A 24. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 19. §[^16]
+## 19. §[^18]
 
-[^16]: A 19. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^18]: A 19. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

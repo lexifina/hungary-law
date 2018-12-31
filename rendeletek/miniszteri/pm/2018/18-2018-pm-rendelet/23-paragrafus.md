@@ -1,3 +1,3 @@
-## 22. §[^19]
+## 22. §[^21]
 
-[^19]: A 22. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^21]: A 22. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

@@ -1,6 +1,6 @@
-## 27. §[^23]
+## 27. §[^25]
 
-1. melléklet a 18/2018. (XII. 20.) PM rendelethez[^24]
+1. melléklet a 18/2018. (XII. 20.) PM rendelethez[^26]
 
-[^23]: A 27. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^24]: Az 1. melléklet a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^25]: A 27. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^26]: Az 1. melléklet a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

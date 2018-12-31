@@ -1,3 +1,3 @@
-## 21. §[^18]
+## 21. §[^20]
 
-[^18]: A 21. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^20]: A 21. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
