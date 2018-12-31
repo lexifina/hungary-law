@@ -22,6 +22,8 @@
 
 9. halászat: a halnak vagy más hasznos víziállatnak megengedett módon és eszközzel halgazdálkodási vízterületen történő rekreációs vagy bemutatási célú, illetve ökológiai célú, szelektív fogása, továbbá gyűjtése, ide nem értve a horgászatot;
 
+9a. halfogásra alkalmas állapot: a választott horgászmódszernek megfelelően előkészített horgászkészség vagy a választott halászmódszernek megfelelően előkészített halászeszköz, amely az adott állapotában, módosítás nélküli használatával alkalmas a hal fogására;
+
 10. halgazdálkodás: a természetes vizek halállományának védelmével, megújításával és hasznosításával összefüggő tevékenységek, valamint az akvakultúra és az egyéb haltermelési tevékenységek gyűjtőfogalma;
 
 11. halgazdálkodási vízterület: az a vízfolyás vagy állóvíz, amely jellegének megváltoztatása nélkül időszakosan vagy állandóan alkalmas a hal életfeltételeinek biztosítására, ide nem értve a haltermelési létesítményt;
@@ -46,7 +48,13 @@ felhasználásával történik;
 
 16. horgászat: rekreációs célból a halnak halgazdálkodási vízterületen és haltermelési létesítményben az e törvényben és a végrehajtására kiadott rendeletben megengedett módon és horgászkészséggel vagy a csalihalnak 1 négyzetméternél nem nagyobb emelőhálóval való fogása;
 
+16a. horgászati célú halgazdálkodás: olyan halgazdálkodási forma, ahol a fő tevékenység a horgászat vagy a horgászathoz szükséges halállomány biztosítása;
+
 17. horgászkészség: horgászati célú, halfogásra alkalmas eszköz, amely legalább horgászbotból, horgászzsinórból áll, és legfeljebb három horoggal van felszerelve;
+
+17a. horgászszervezet: a horgászszövetség, valamint annak bírósági nyilvántartásba vett horgászati célú halgazdálkodást folytató tagszervezete, cégbíróságon bejegyzett, horgászati célú halgazdálkodást folytató gazdálkodó szervezet tagja, továbbá a bírósági nyilvántartásba vett horgászegyesület;
+
+17b. horgászszövetség: a Magyar Országos Horgász Szövetség mint a horgászok és a horgászszervezetek országos érdekképviseletét és koordinációját ellátó, bírósági nyilvántartásba vett szervezet;
 
 18. ívóhely: az ivarérett halak csoportosan vagy párosan felkeresett szaporodási helye, ahol az ívási felület és az ívási feltételek rendelkezésre állnak a szaporodáshoz;
 

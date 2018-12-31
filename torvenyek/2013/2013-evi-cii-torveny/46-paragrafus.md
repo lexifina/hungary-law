@@ -18,7 +18,7 @@ e) búvárszigony vagy más, halfogásra alkalmas búváreszköz használata,
 
 f) gereblyézés alkalmazása,
 
-g) hurokvető halászati módszer alkalmazása; sorhoroggal, csapóhoroggal történő halfogási módszer alkalmazása,
+g) hurokvető halászati módszer alkalmazása; sorhoroggal, csapóhoroggal történő vagy rugó elven működő önakasztós halfogási módszer alkalmazása,
 
 h) a 2. § 21. pontja szerinti nyakzó háló alkalmazása,
 
@@ -44,7 +44,7 @@ b) az egyenáramú elektromos eszköz tulajdonosának nevét és címét;
 
 c) az egyenáramú elektromos eszköz gyártmányát, típusát, gyártási számát;
 
-d) az egyenáramú elektromos eszköz minősítési-üzembehelyezési vizsgaigazolásának számát;
+d) az egyenáramú elektromos eszköz minősítési-üzembehelyezési vizsgájának helyét és időpontját;
 
 e) az egyenáramú elektromos eszköz elektromos érintésvédelmi felülvizsgálat helyét és időpontját;
 

@@ -4,7 +4,7 @@
 
 2. a halászati engedély, az állami halászjegy, az állami horgászjegy, a turista állami horgászjegy mintáját, tartalmával és kiadásával összefüggő részletes feltételeket, valamint a halászati engedélyt, az állami halászjegyet, állami horgászjegyet igénylő nyilatkozatának részletes szabályait;
 
-3. az állami halász- és horgászvizsgára vonatkozó részletes előírásokat, a vizsgáztatásban való közreműködés szabályait, az állami horgászvizsga és az állami halászvizsga vizsgadíjának mértékét és megfizetésének módját, az állami horgászvizsga és az állami halászvizsga letétele alóli mentesítés feltételeit, valamint a halászati engedély kiváltásához szükséges vizsga és képzettség követelményeit;
+3. az állami halászvizsgára és az állami horgászvizsgára vonatkozó részletes előírásokat, a vizsgáztatásban való közreműködés szabályait, az állami halászvizsga vizsgadíjának mértékét és megfizetésének módját, az állami horgászvizsga és az állami halászvizsga letétele alóli mentesítés feltételeit, valamint a halászati engedély kiváltásához szükséges vizsga és képzettség követelményeit;
 
 4. a halászati, halgazdálkodási szakirányú végzettséggel rendelkező személy foglalkoztatására vonatkozó előírásokat és a halászati tevékenységekhez kapcsolódó képzettségi előfeltételekre vonatkozó szabályokat;
 
@@ -20,9 +20,9 @@
 
 10. az állami halászjegy, az állami horgászjegy és a turista állami horgászjegy, valamint a papíralapú és az elektronikus fogási napló és a fogási tanúsítvány díját, megfizetésének és kezelésének részletes szabályait;
 
-11.
+11. a bemutatási célú horgászat részletes szabályait;
 
-12. az idegen és nem honos halfajok telepítésének és haltermelésben történő felhasználásának szabályait; a Pannon biogeográfiai régión kívülről behozott hal haltermelő létesítménybe telepítésének feltételeit és módját, valamint a Pannon biogeográfiai régióból származó hal halgazdálkodási vízterületre történő telepítésének feltételeit és módját;
+12. az idegen és nem honos halfajok telepítésének és haltermelésben történő felhasználásának szabályait; a Pannon biogeográfiai régión kívülről behozott hal haltermelési létesítménybe telepítésének feltételeit és módját, valamint a Pannon biogeográfiai régióból származó hal halgazdálkodási vízterületre történő telepítésének feltételeit és módját;
 
 13. a halgazdálkodási hatóság által vezetett nyilvántartások tartalmával és vezetésével kapcsolatos részletes szabályokat;
 
@@ -36,33 +36,33 @@
 
 18. halfajonként a kifogható mérettartományt, a korlátozások alóli mentesítés szabályait, valamint a halfajonként naponta és évente kifogható mennyiségeket, az ez alóli mentesség szabályait;
 
-19. a halászati őrök és társadalmi halőrök nyilvántartására, vizsgakövetelményére, továbbképzésére, működésére, esküjének szövegére, valamint a halászati őr szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
+19. a halászati őrök és társadalmi halőrök nyilvántartására, vizsgakövetelményére, továbbképzésére, működésére, esküjének szövegére, valamint a hivatásos halőr szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
 
 20. a haltermelési létesítmények típusait és a telepíthető halfajokat;
 
-21. a halgazdálkodásra jogosult által kötelezően végzendő halgazdálkodási tevékenységek körét;
+21. a horgászszövetség és a halgazdálkodásra jogosult által kötelezően végzendő halgazdálkodási tevékenységek körét;
 
 22. a területi jegy részletes tartalmi követelményeit; valamint a fogási tanúsítvány nyomtatványtömb részletes formai és tartalmi követelményeit;
 
 23. a horgászat és a rekreációs célú halászat országos rendjét;
 
-24. a halgazdálkodásra jogosult által a halgazdálkodási hatóságnak évente kötelezően benyújtandó, fogásokról készített jelentés formai és tartalmi követelményeit;
+24. a horgászszövetség és a halgazdálkodásra jogosult által a halgazdálkodási hatóságnak évente kötelezően benyújtandó, a horgászfogásokról és a rekreációs célú halászat fogásairól készített jelentés formai és tartalmi követelményeit;
 
-25. a veszélyeztetett halállományok mentésének részletes szabályait, az állománymentést végző szervezet kijelölését, és a felmerült költségek viselésére vonatkozó rendelkezéseket;
+25. a veszélyeztetett őshonos halállományok mentésének részletes szabályait és a felmerült költségek viselésére vonatkozó rendelkezéseket;
 
-26. a halfogásra jogosító okmányokkal rendelkező értelmi fogyatékos, vak vagy gyengénlátó személy horgászatára vonatkozó szabályokat;
+26.
 
 27. a többéves halgazdálkodási kezelési tervek tartalmi elemeit;
 
-28. a halgazdálkodásra jogosult által évente kötelezően elkészítendő fogási jelentés tartalmi elemeit;
+28. a halgazdálkodásra jogosult által évente kötelezően elkészítendő halászatra vonatkozó fogási jelentés tartalmi elemeit;
 
 29. a halgazdálkodási vízterületen vagy annak részén folytatott haltermelés feltételeit;
 
 30. a papíralapú és az elektronikus fogási napló tartalmi elemeit, leadási határidejét, feldolgozásának, összesítésének és adatszolgáltatásának módját;
 
-31. a halgazdálkodási hatóság által elvégeztetett halállománymentésre vonatkozó szabályokat;
+31. a halgazdálkodási hatóság vagy a horgászszövetség által elvégeztetett halállománymentésre vonatkozó szabályokat;
 
-32.
+32. a horgásznyilvántartásba-vételre, valamint a Magyar Horgászkártya tartalmára, igénylésére, díjára és érvényességére vonatkozó szabályokat;
 
 33. az egyes víztípusok halgazdálkodási értéke alapján a halgazdálkodási jog haszonbérletéért fizetendő haszonbérleti díj, a vagyonkezelésbe adható halgazdálkodási jog esetében a vagyonkezelési díj mértékét, valamint e díjak megfizetése alóli felmentés és az e díjakra vonatkozó díjkedvezmény szabályait;
 

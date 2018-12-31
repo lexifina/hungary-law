@@ -12,14 +12,16 @@ d) aki tiltott vagy nem megengedett eszközzel, illetve módon halászik vagy ho
 
 (3) Az (1) bekezdés szerinti eltiltás időtartama három hónaptól három évig terjedhet. Az eltiltás időtartamát a halgazdálkodási hatóság az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre – tekintettel határozza meg a halvédelmi bírságot kiszabó határozatban.
 
-(4) A halászati engedély, állami halászjegy, halász fogási napló megsemmisülését vagy elvesztését a jogosult haladéktalanul köteles bejelenteni a halgazdálkodási hatóságnak. A halgazdálkodási hatóság a megsemmisült vagy elveszett okmányt a jogosult kérelmére az e törvény végrehajtására kiadott rendelet szerinti díj megfizetése ellenében pótolja.
+(4) A halászati engedély vagy a hozzá tartozó fogási napló vagy fogási tanúsítvány megsemmisülését vagy elvesztését annak jogosultja haladéktalanul köteles bejelenteni a halgazdálkodási hatóságnak. A halgazdálkodási hatóság a megsemmisült vagy elveszett okmányt a jogosult kérelmére az e törvény végrehajtására kiadott rendelet szerinti díj megfizetése ellenében pótolja.
 
-(5) Az állami horgászjegy vagy horgász fogási napló megsemmisülését vagy elvesztését a jogosult,
+(4a) Az állami horgászjegy, horgász fogási napló, állami halászjegy, halász fogási napló megsemmisülését vagy elvesztését annak jogosultja haladéktalanul köteles bejelenteni a (3) bekezdés szerinti szervezetnek. A horgászszövetség a megsemmisült vagy elveszett okmányt a jogosult kérelmére az e törvény végrehajtására kiadott rendelet szerinti díj megfizetése ellenében pótolja.
 
-a) az állami horgászjegyet kiállító halgazdálkodási hatóság megbízása alapján a horgászok és a horgász egyesületek országos érdekképviseletét és koordinációját ellátó, bírósági nyilvántartásba vett szervezet, mint az állami horgászjegy és a horgász fogási napló forgalmazásával megbízott azon forgalmazási pontján, ahol számára az okmány kiadásra került vagy
+(5) Az állami horgászjegy, horgász fogási napló, az állami halászjegy, halász fogási napló megsemmisülését vagy elvesztését annak jogosultja
 
-b) ha az a) pontban meghatározott helyen az állami horgászjegy forgalmazása megszűnt, a horgászok és a horgász egyesületek országos érdekképviseletét és koordinációját ellátó, bírósági nyilvántartásba vett szervezetnek
+a) a horgászszövetség által a forgalmazással megbízott horgászszervezet azon forgalmazási pontján, ahol számára az okmány kiadásra került, vagy
+
+b) ha az a) pontban meghatározott helyen az állami horgászjegy vagy az állami halászjegy forgalmazása megszűnt, a horgászszövetségnek
 
 haladéktalanul köteles bejelenteni.
 
-(6) Az (5) bekezdésben meghatározott szervezet a megsemmisült, illetve elveszett állami horgászjegyet vagy horgász fogási naplót a jogosult kérelmére az e törvény végrehajtására kiadott rendelet szerinti díj megfizetése ellenében pótolja.
+(6)

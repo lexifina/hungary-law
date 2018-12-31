@@ -1,4 +1,4 @@
-29. § (1) A halgazdálkodási jog haszonbérletére irányuló pályázati felhívást a halgazdálkodási hatóság írja ki.
+29. § (1) A halgazdálkodási jog haszonbérletére irányuló pályázati felhívást a halgazdálkodási hatóság írja ki, amelyről köteles a horgászszövetséget egyidejűleg írásban értesíteni.
 
 (2) A benyújtott pályázatokról – az e törvény végrehajtására kiadott rendeletben szereplő szempontrendszer alapján – a halgazdálkodási hatóság és a 62. §-ban szereplő testület javaslatának figyelembevételével a miniszter dönt.
 

@@ -1,0 +1,1 @@
+23/C. § A nyilvántartott halgazdálkodási vízterületnek az állam vagy az önkormányzat tulajdonában álló partján a horgászati tevékenység végzése csak a halgazdálkodásra jogosult hozzájárulásával korlátozható, ide nem értve a halgazdálkodási hatóság által elrendelt korlátozást.

@@ -16,7 +16,7 @@ f) a jogsértővel szemben korábban kiszabott halgazdálkodási bírság mért�
 
 g) a jogsértéssel érintett nyilvántartott halgazdálkodási vízterület típusát, nagyságát, illetve különleges rendeltetésű jellegét, valamint a jogsértéssel érintett halgazdálkodási kíméleti területeit,
 
-h) a halgazdálkodásra jogosult által alkalmazott halászati őrök számát
+h) a halgazdálkodásra jogosult által alkalmazott hivatásos halőrök számát
 
 veszi figyelembe.
 

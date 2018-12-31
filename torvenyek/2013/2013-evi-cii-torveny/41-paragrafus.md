@@ -4,7 +4,7 @@
 
 a) a 70. életévét betöltött,
 
-b) a 40. § (3) bekezdésében meghatározott,
+b) a 40. § (3) bekezdésében meghatározott, horgászegyesületi tagsággal nem rendelkező gyermekhorgász,
 
 c) a 40. § (5) bekezdésében meghatározott, és
 

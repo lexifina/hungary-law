@@ -26,9 +26,9 @@ c) a vízi életközösség biológiai sokféleségét fenntartani,
 
 d) a vízi élőhelyeket és a természeti környezetet megóvni,
 
-e) a halászati őrzést és a halvédelmet hatékonyan működtetni,
+e) a halőrzést és a halvédelmet hatékonyan működtetni,
 
-f) a halgazdálkodási vízterületen elhelyezkedő vízilétesítmények rendeltetésszerű üzemeltetéséhez fűződő vízgazdálkodási szempontok figyelembe vételére, és
+f) a nyilvántartott halgazdálkodási vízterületen elhelyezkedő vízilétesítmények rendeltetésszerű üzemeltetéséhez fűződő vízgazdálkodási szempontokat figyelembe venni, és
 
 g) az egyéb társadalmi, gazdasági közérdeket figyelembe venni.
 

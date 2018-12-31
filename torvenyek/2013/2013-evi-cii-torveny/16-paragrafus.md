@@ -42,7 +42,7 @@ c) jelentős sportesemény megrendezése
 
 a) a génállomány megőrzése érdekében,
 
-b) a természetvédelmi érdekek érvényesítése miatt,
+b) kiemelkedő természetvédelmi érdekek érvényesítése miatt,
 
 c) oktatási és kutatási célból, vagy
 

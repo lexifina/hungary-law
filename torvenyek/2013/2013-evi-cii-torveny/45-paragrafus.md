@@ -8,15 +8,19 @@ aa) bemutatási célú halászat, ökológiai célú, szelektív célú halásza
 
 ab) rekreációs célú halászat esetén az állami halászjegyet, a területi jegyet és a halász fogási naplót,
 
-ac) horgászat esetén az állami horgászjegyet vagy a turista állami horgászjegyet, a területi jegyet és a horgász fogási naplót;
+ac) horgászat esetén a horgászegyesületi tagságot igazoló, a horgászszövetség által kiadott Magyar Horgászkártyát, a papíralapú állami horgászjegyet vagy a turista állami horgászjegyet, területi jegyet és a horgász fogási naplót;
 
-b) a nem nyilvántartott halgazdálkodási vízterületen az állami horgászjegyet és a fogási naplót vagy a turista állami horgászjegyet és a fogási naplót,
+b) a nem nyilvántartott halgazdálkodási vízterületen folytatott horgászat esetén az állami horgászjegyet és a fogási naplót vagy a turista állami horgászjegyet és a fogási naplót,
 
 c) a haltermelési létesítményen folytatott horgászat esetén az állami horgászjegyet vagy a turista állami horgászjegyet,
 
-– a továbbiakban együtt: halfogásra jogosító okmányok –, és azokat a halgazdálkodási hatóság, a halgazdálkodásra jogosult, a halászati őr, a mezőőr, a természetvédelmi őr, a társadalmi halőr és a rendvédelmi hatóság ellenőrzésre felhatalmazott képviselőjének felhívására bemutatni és átadni.
+d) horgászszervezet által hasznosított haltermelési létesítményen az ac) pont szerinti okmányokat
 
-(2) A halfogásra jogosító okmányokat a halfogásra irányuló tevékenység végzése közben a jogosult köteles magánál tartani, amelyek csak a személyazonosság igazolására szolgáló arcképes igazolvány birtokában jogosítják az okmányok birtokosát a halfogásra.
+(a továbbiakban együtt: halfogásra jogosító okmányok) –, és azokat a halgazdálkodási hatóság, a halgazdálkodásra jogosult, a mezőőr, a természetvédelmi őr, az állami halőr, a hivatásos halőr, a társadalmi halőr és a rendvédelmi hatóság ellenőrzésre felhatalmazott képviselőjének felhívására bemutatni és átadni.
+
+(1a) Elektronikus formában kiadott halfogásra jogosító okmányok esetében a halfogásra irányuló tevékenység jogosultságának igazolását az érintett személy a horgászhelyen és a horgászat teljes ideje alatt – az (1) bekezdésben foglaltaktól eltérően – informatikai eszközén keresztül köteles biztosítani.
+
+(2) A halfogásra jogosító okmányok csak arcképes személyazonosító okmánnyal együttesen jogosítják az okmányok birtokosát halfogásra.
 
 (3) Halgazdálkodási vízterületen állami horgászjegy és fogási napló, nyilvántartott halgazdálkodási vízterületen turista állami horgászjegy, állami horgászjegy, halászati engedély vagy állami halászjegy, valamint fogási napló vezetése nélkül történő halfogás, az arra irányuló vagy arra alkalmas tevékenység jogosulatlan horgászatnak vagy jogosulatlan halászatnak minősül.
 

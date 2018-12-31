@@ -1,0 +1,1 @@
+23/D. § A nyilvántartott halgazdálkodási vízterületen más által, ellenszolgáltatás ellenében tervezett horgásztatás, horgászvezetés, horgászhely-biztosítás, más horgászati célú szolgáltatás, valamint horgásztábor vagy horgászverseny-szervezés csak a halgazdálkodásra jogosult előzetes hozzájárulásával végezhető.
