@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-17-00-00
 | 2018-01-02 | 2017. évi CCV. törvény | 2007-17-00-00.42 |
 | 2018-05-18 | 2018. évi V. törvény | 2007-17-00-00.43 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2007-17-00-00.44 |
+| 2018-12-31 | 2018. évi CXI. törvény | 2007-17-00-00.45 |
