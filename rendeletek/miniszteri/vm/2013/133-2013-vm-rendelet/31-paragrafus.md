@@ -1,8 +1,10 @@
+## 30/B. §[^133] A bemutatási célú horgászati tevékenységet a horgászszövetség részére elektronikus úton a tevékenység megkezdését 8 nappal megelőzően be kell jelenteni.
+
 ## 9. A halgazdálkodás tervszerűsége alcímhez
 
 31. § (1) Nem minősül a halgazdálkodási tervtől való jelentős eltérésnek és a halgazdálkodási terv módosítása nélkül végezhető:
 
-a)[^102] a halgazdálkodási tervben meghatározott halfajokból a terv szerinti mennyiség 150%-át meg nem haladó telepítés, amely a halgazdálkodási hatóság számára bejelentett terv feletti telepítésként végezhető,
+a)[^134] a halgazdálkodási tervben meghatározott halfajokból a terv szerinti mennyiség 150%-át meg nem haladó telepítés, amely a halgazdálkodási hatóság számára bejelentett terv feletti telepítésként végezhető,
 
 b) a halgazdálkodási tervben nem szereplő őshonos halfajok kísérleti telepítése, amelynek egyedszáma illetve tömege nem haladja meg az adott korosztályból tervezett összes telepítés 10%-át,
 
@@ -12,16 +14,23 @@ d) a halgazdálkodási tervben szereplő halfajok és korosztályok éves telep�
 
 (2) Különleges rendeltetésű halgazdálkodási vízterületre vagy 200 hektárnál nagyobb kiterjedésű vagy folyóvíz esetében 20 kilométernél hosszabb halgazdálkodási vízterületre halgazdálkodási tervet csak halászati, halgazdálkodási felsőfokú szakirányú képzettséggel rendelkező személy készíthet.
 
-(3)[^103] A halászati, halgazdálkodási felsőfokú szakirányú képzettséget a terv benyújtásával egyidejűleg kell igazolni a halgazdálkodási hatóság felé.
+(3)[^135] A halászati, halgazdálkodási felsőfokú szakirányú képzettséget a terv benyújtásával egyidejűleg kell igazolni a halgazdálkodási hatóság felé.
 
-(3a)[^104] Ha a halgazdálkodási vízterület jó ökológiai állapotának fenntartása vagy annak javítása érdekében ökológiai célú, szelektív halászat alkalmazása szükséges, a halgazdálkodási tervnek tartalmaznia kell az ökológiai célú, szelektív halászattal elérni kívánt célállapotot, az érintett halfajokat és kifogásra tervezett mennyiségüket, továbbá szükség szerint az ökológiai célú, szelektív halászat végzésével kapcsolatos egyéb lényeges feltételeket.
+(3a)[^136] Ha a halgazdálkodási vízterület jó ökológiai állapotának fenntartása vagy annak javítása érdekében ökológiai célú, szelektív halászat alkalmazása szükséges, a halgazdálkodási tervnek tartalmaznia kell az ökológiai célú, szelektív halászattal elérni kívánt célállapotot, az érintett halfajokat és kifogásra tervezett mennyiségüket, továbbá szükség szerint az ökológiai célú, szelektív halászat végzésével kapcsolatos egyéb lényeges feltételeket.
 
-(4)[^105]
+(4)[^137]
 
-(5)[^106] A halgazdálkodási terv érvényességét indokolt esetben a halgazdálkodásra jogosult kérelemére, a halgazdálkodási hatóság legfeljebb 90 nappal meghosszabbíthatja.
+(5)[^138] A halgazdálkodási terv érvényességét indokolt esetben a halgazdálkodásra jogosult kérelemére, a halgazdálkodási hatóság legfeljebb 90 nappal meghosszabbíthatja.
 
-[^102]: A 31. § (1) bekezdés a) pontja az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.
-[^103]: A 31. § (3) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.
-[^104]: A 31. § (3a) bekezdését az 56/2015. (IX. 24.) FM rendelet 13. §-a iktatta be.
-[^105]: A 31. § (4) bekezdését a 70/2017. (XII. 29.) FM rendelet 11. § (2) bekezdés e) pontja hatályon kívül helyezte.
-[^106]: A 31. § (5) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.
+(6)[^139] Halgazdálkodási tevékenységet – az engedélyezett halmentés eseteinek, valamint a halőrzés biztosításának kivételével – kizárólag a halgazdálkodási hatóság által jóváhagyott halgazdálkodási terv alapján a halgazdálkodásra jogosult, vagy a Hhvtv. 22. § (3) bekezdés e) pontja szerinti alhaszonbérleti jogosultság esetén a horgászszövetség végezhet vagy végeztethet.
+
+(7)[^140] A Hhvtv. 22. § (3) bekezdés e) pont szerinti alhaszonbérleti jogosultság esetén az ökológiai célú, szelektív halászatok országos koordinációja és monitorozása a horgászszövetség feladata.
+
+[^133]: A 30/B. §-t a 45/2018. (XII. 28.) AM rendelet 26. §-a iktatta be.
+[^134]: A 31. § (1) bekezdés a) pontja az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.
+[^135]: A 31. § (3) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.
+[^136]: A 31. § (3a) bekezdését az 56/2015. (IX. 24.) FM rendelet 13. §-a iktatta be.
+[^137]: A 31. § (4) bekezdését a 70/2017. (XII. 29.) FM rendelet 11. § (2) bekezdés e) pontja hatályon kívül helyezte.
+[^138]: A 31. § (5) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.
+[^139]: A 31. § (6) bekezdését a 45/2018. (XII. 28.) AM rendelet 27. §-a iktatta be.
+[^140]: A 31. § (7) bekezdését a 45/2018. (XII. 28.) AM rendelet 27. §-a iktatta be.

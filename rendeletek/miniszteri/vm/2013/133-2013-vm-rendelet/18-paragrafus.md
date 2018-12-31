@@ -1,12 +1,12 @@
-18. § (1)[^40] Az állami halászjegyet a halgazdálkodási hatóság adja ki.
+18. § (1)[^58] Az állami halászjegyet a horgászszövetség adja ki.
 
-(1a)[^41] Az állami halászjegy kiadásának napjától kezdve a következő év január 31. napjáig érvényes.
+(1a)[^59] Az állami halászjegy kiadásának napjától kezdve a következő év január 31. napjáig érvényes.
 
-(2) Az állami halászjegy adattartalmát a 3. melléklet tartalmazza.
+(2)[^60] Az állami halászjegy kötelező adattartalmát a halgazdálkodási hatóság honlapján teszi közzé.
 
-(3)[^42] Az állami halászjegy 1 db, legfeljebb 16 m2 háló területű aktív halászeszköz, és 3 db, az engedélyes azonosítására alkalmas jelöléssel ellátott, legfeljebb 2 méter karika átmérőjű varsa egyidejű alkalmazására jogosít fel. A varsákat úgy lehet alkalmazni, hogy az eszközök között mért távolság sehol nem lehet kevesebb az alkalmazott varsa és terelő elemei teljes hosszának tízszeresénél, de legalább 50 méternél.
+(3)[^61] Az állami halászjegy 1 db, legfeljebb 16 m2 háló területű aktív halászeszköz, és 3 db, az engedélyes azonosítására alkalmas – vízfelszín felett, szabad szemmel is jól látható, a halgazdálkodási hatóság részére bejelentett – jelöléssel ellátott, legfeljebb 2 méter karika-átmérőjű varsa egyidejű alkalmazására jogosít fel. A varsákat úgy kell alkalmazni, hogy az eszközök között mért távolság sehol nem lehet kevesebb az alkalmazott varsa és terelő elemei teljes hosszának tízszeresénél, de legalább 50 méternél.
 
-(4)[^43] Az állami halászjegy váltására feltételként előírt állami halászvizsga a halgazdálkodási hatóság által szervezett díjköteles tanfolyam eredményes elvégzésével szerezhető meg.
+(4)[^62] Az állami halászjegy váltására feltételként előírt állami halászvizsga a halgazdálkodási hatóság által szervezett díjköteles tanfolyam eredményes elvégzésével szerezhető meg.
 
 (5) Az állami halászvizsgán a jelöltnek számot kell adni:
 
@@ -24,22 +24,24 @@ f) a zsákmánnyal történő kíméletes bánásmódról;
 
 g) a halak tartósításának módjairól;
 
-h) a halászati őrzés ismeretéről, továbbá
+h)[^63] a halőrzés ismeretéről, továbbá
 
 i) a halászati tevékenységgel kapcsolatos biztonsági, vízügyi, természet- és környezetvédelmi szabályokról.
 
-(6)[^44] Az állami halászvizsga tanfolyam részletes szakmai anyagát a halgazdálkodásért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) a Pest Megyei Kormányhivatal bevonásával állítja össze.
+(6)[^64] Az állami halászvizsga tanfolyam részletes szakmai anyagát a halgazdálkodásért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) a halgazdálkodási hatóság bevonásával állítja össze.
 
-(7)[^45] Az állami halászvizsga bizonyítványok kiadásáról a halgazdálkodási hatóságok gondoskodnak. Az állami halászvizsga bizonyítvány adattartalmát a 3. melléklet tartalmazza.
+(7)[^65] Az állami halászvizsga bizonyítványok kiadásáról a halgazdálkodási hatóságok gondoskodnak. Az állami halászvizsga bizonyítvány adattartalmát a halgazdálkodási hatóság honlapján teszi közzé.
 
-(8)[^46] Az állami halászvizsgát tett személyekről a halgazdálkodási hatóság nyilvántartást vezet.
+(8)[^66] Az állami halászvizsgát tett személyekről a halgazdálkodási hatóság nyilvántartást vezet.
 
 (9) Az állami halászvizsga tanfolyam szervezésének költségeit a tanfolyamon résztvevők viselik.
 
-[^40]: A 18. § (1) bekezdése a 41/2014. (XII. 23.) FM rendelet 1. §-ával megállapított, az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.
-[^41]: A 18. § (1a) bekezését az 56/2015. (IX. 24.) FM rendelet 5. §-a iktatta be.
-[^42]: A 18. § (3) bekezdése a 44/2014. (IV. 14.) VM rendelet 19. §-ával megállapított szöveg.
-[^43]: A 18. § (4) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.
-[^44]: A 18. § (6) bekezdése a 89/2016. (XII. 29.) FM rendelet 22. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^45]: A 18. § (7) bekezdése az 56/2015. (IX. 24) FM rendelet 22. § 17. pontja szerint módosított szöveg.
-[^46]: A 18. § (8) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.
+[^58]: A 18. § (1) bekezdése a 41/2014. (XII. 23.) FM rendelet 1. §-ával megállapított, a 45/2018. (XII. 28.) AM rendelet 34. § h) pontja szerint módosított szöveg.
+[^59]: A 18. § (1a) bekezését az 56/2015. (IX. 24.) FM rendelet 5. §-a iktatta be.
+[^60]: A 18. § (2) bekezdése a 45/2018. (XII. 28.) AM rendelet 34. § i) és l) pontja szerint módosított szöveg.
+[^61]: A 18. § (3) bekezdése a 45/2018. (XII. 28.) AM rendelet 11. §-ával megállapított szöveg.
+[^62]: A 18. § (4) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.
+[^63]: A 18. § (5) bekezdés h) pontja a 45/2018. (XII. 28.) AM rendelet 34. § j) pontja szerint módosított szöveg.
+[^64]: A 18. § (6) bekezdése a 89/2016. (XII. 29.) FM rendelet 22. § (6) bekezdés a) pontja, a 45/2018. (XII. 28.) AM rendelet 34. § k) pontja szerint módosított szöveg.
+[^65]: A 18. § (7) bekezdése az 56/2015. (IX. 24) FM rendelet 22. § 17. pontja, a 45/2018. (XII. 28.) AM rendelet 34. § l) pontja szerint módosított szöveg.
+[^66]: A 18. § (8) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.

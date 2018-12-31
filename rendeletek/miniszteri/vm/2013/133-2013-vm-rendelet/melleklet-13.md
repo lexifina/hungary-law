@@ -1,22 +1,16 @@
-| 1. Állami halászjegy díja | 2000 |
+| 1. Állami halászjegy díja | 2000 Ft |
 
-| 2. Állami horgászjegy díja | 2000 |
+| 2. Állami horgászjegy díja | 2000 Ft |
 
-| 3. |  |
+| 3. Turista állami horgászjegy díja | 2000 Ft |
 
-| 4. Állami halászvizsga díja | 7000 |
+| 4. Állami halász és állami horgász fogási napló díja | 200 Ft |
 
-| 5. Állami horgászvizsga díja | 3500 |
+| 5. Állami halászvizsga díja | 7000 Ft |
 
-| 6. Állami horgászvizsga díja gyermek és ifjúsági horgász részére | 1000 |
+| 6. Fogási tanúsítvány (nyomtatvány tömb) kiadásának díja | 2000 Ft |
 
-| 7. Turista állami horgászjegy díja | 2000 |
-
-| 8. Állami halász és horgász fogási napló díja | 200 |
-
-| 9. Fogási tanúsítvány (nyomtatvány tömb) kiadásának díja | 1000 |
-
-13. melléklet a 133/2013. (XII. 29.) VM rendelethez[^188]
+13. melléklet a 133/2013. (XII. 29.) VM rendelethez[^198]
 
 1. A Nemzeti Élelmiszerlánc-biztonsági Hivatal fizetési számlája:
 
@@ -66,4 +60,4 @@
 
 | 19. | Zala Megyei Kormányhivatal | 10049006-00302993-00000000 |
 
-[^188]: A 13. mellékletet a 41/2014. (XII. 23.) FM rendelet 5. § (2) bekezdése iktatta be, szövege az 56/2015. (IX. 24.) FM rendelet 22. § 46–47. pontja és 24. § (2) bekezdése, a 89/2016. (XII. 29.) FM rendelet 22. § (6) bekezdés g)–h) pontja szerint módosított szöveg.
+[^198]: A 13. mellékletet a 41/2014. (XII. 23.) FM rendelet 5. § (2) bekezdése iktatta be, szövege az 56/2015. (IX. 24.) FM rendelet 22. § 46–47. pontja és 24. § (2) bekezdése, a 89/2016. (XII. 29.) FM rendelet 22. § (6) bekezdés g)–h) pontja szerint módosított szöveg.

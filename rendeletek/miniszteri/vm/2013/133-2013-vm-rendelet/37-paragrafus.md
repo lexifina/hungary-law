@@ -1,3 +1,3 @@
-37. §[^127]
+37. §[^170]
 
-[^127]: A 37–38. §-át a 70/2017. (XII. 29.) FM rendelet 11. § (2) bekezdés g) pontja hatályon kívül helyezte.
+[^170]: A 37–38. §-át a 70/2017. (XII. 29.) FM rendelet 11. § (2) bekezdés g) pontja hatályon kívül helyezte.

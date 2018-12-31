@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-133-20-
 | 2016-12-15 | 2013-133-20-2Y.10 | 75/2016. (XI. 30.) FM rendelet |
 | 2017-01-01 | 2013-133-20-2Y.11 | 89/2016. (XII. 29.) FM rendelet |
 | 2018-01-01 | 2013-133-20-2Y.12 | 70/2017. (XII. 29.) FM rendelet |
+| 2018-12-31 | 2013-133-20-2Y.13 | 45/2018. (XII. 28.) AM rendelet |
