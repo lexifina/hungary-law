@@ -2,4 +2,4 @@
 
 a)
 
-b)
+b) 104. § (7) bekezdés ba) pontja.
