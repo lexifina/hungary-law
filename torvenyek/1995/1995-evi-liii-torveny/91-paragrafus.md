@@ -8,4 +8,4 @@
 
 (5) A környezetvédelmi szakhatóság a szakhatósági állásfoglalását a megkeresés beérkezését követő naptól számított huszonegy napon belül köteles megadni. A szakhatósági állásfoglalás megadására tizenöt nap áll rendelkezésre, ha az eljáró hatóság a sürgősséget megkeresésében megindokolja.
 
-(6) A környezetvédelmi hatóság által az előzetes vizsgálati és a környezeti hatásvizsgálati eljárásban, továbbá a (3) bekezdésben meghatározott eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(6) A környezetvédelmi hatóság által az előzetes vizsgálati, a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásban, továbbá az egységes környezethasználati engedély felülvizsgálatára irányuló eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
