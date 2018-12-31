@@ -1,6 +1,6 @@
 85. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
-1. a táj jellege, a természeti értékek, az egyedi tájértékek és a tájképi adottságok megóvására vonatkozó szabályokat;
+1. a táj védelmére vonatkozó szabályokat;
 
 2. a vadon élő szervezet egyede országba történő behozatalának, átszállításának, kivitelének, mesterséges körülmények közötti szaporításának, tartásának, termesztésbe, tenyésztésbe vonásának, keresztezésének, természetbe kijuttatásának, értékesítésének feltételeit és módját;
 
@@ -98,7 +98,9 @@
 
 31. a Magyarországon, illetve a regionális szinten veszélyt jelentő idegenhonos inváziós fajok körét;
 
-32. az Európai Unió számára, valamint a tagállami, illetve regionális szinten veszélyt jelentő idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzésével és kezelésével összefüggő részletszabályokat.
+32. az Európai Unió számára, valamint a tagállami, illetve regionális szinten veszélyt jelentő idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzésével és kezelésével összefüggő részletszabályokat;
+
+33. a natúrpark elnevezés használatát és a natúrparkok működésének részletes szabályait;
 
 (3) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben
 

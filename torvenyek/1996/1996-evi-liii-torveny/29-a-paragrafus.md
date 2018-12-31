@@ -1,1 +1,1 @@
-29/A. § Természeti terület, védett természeti terület, valamint ezen területek meghatározott része tekintetében a miniszter – ha annak nemzetközi gyakorlatban kialakult és elfogadott feltételei fennállnak – a natúrpark elnevezés használatához hozzájárulhat.
+### 29/A. §

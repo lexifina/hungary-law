@@ -32,6 +32,6 @@ n) természetkímélő megoldás (természetkímélő gazdálkodás): olyan, a f
 
 o) egyed (példány): élő szervezet, annak valamennyi fejlődési szakasza, alakja, állapota és származéka, valamint az elpusztult élőlény, illetve az a termék vagy készítmény, amelyről csomagolása vagy egyéb irat, adat, illetve körülmény alapján megállapítható, hogy a felsoroltak valamelyikéből készült, illetve ezek valamelyikéből származó összetevőt tartalmaz;
 
-q) natúrpark: az ország jellegzetes természeti, tájképi és kultúrtörténeti értékekben gazdag, a természetben történő aktív kikapcsolódás, felüdülés, gyógyulás, fenntartható turizmus és a természetvédelmi oktatás, nevelés, ismeretterjesztés, továbbá a természetkímélő gazdálkodás megvalósítását szolgáló nagyobb kiterjedésű területe, amely e jogszabályban foglaltaknak megfelelően jön létre;
+q) natúrpark: a helyi közösségek (önkormányzatok, társadalmi szervezetek, gazdálkodó szervezetek és az érintett lakosság) összefogása eredményeként létrejövő, a táji, természeti és kulturális értékek megőrzésén és fenntartható hasznosításán alapuló terület- és vidékfejlesztési célok megvalósulását is támogató, meghatározott területre vonatkozó együttműködés, amely e törvény végrehajtására kiadott jogszabály szerint jön létre;
 
 r) ökoszisztéma-szolgáltatás: az 1143/2014/EU európai parlamenti és tanácsi rendelet 3. cikk 6. pontja szerint azok a javak (termékek és szolgáltatások), amelyeket az ökológiai rendszer természetes vagy átalakított formájában nyújt, növelve a társadalom és a tagjainak jóllétét.
