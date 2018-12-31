@@ -1,0 +1,3 @@
+60. § Az Evt. a következő 9/B. §-sal egészül ki:
+
+„9/B. § Az állam 100%-os tulajdonában álló földrészleten harmadik személy által végzett kitermelésből származó, forgalomba nem hozott és az állam nevében tulajdonosi jogokat gyakorló tulajdonosi joggyakorlásába tartozó faanyagot, az állam nevében tulajdonosi jogokat gyakorló személy a 90/K. § (7) bekezdésben meghatározott személyeknek – a 90/K. § (7) bekezdésben meghatározott feladataik ellátásának elősegítése érdekében – ingyenesen tulajdonba adhatja, amely átadás nem minősül forgalomba hozatalnak. A faanyagot ingyenesen tulajdonba adó személy köteles az ingóság átruházásának tényét a honlapján nyilvánosságra hozni.”
