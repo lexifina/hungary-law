@@ -32,9 +32,7 @@
 
 40/D. üzemi laboratórium: olyan nem állami laboratórium, amely vizsgálati eredményeit kizárólag a fenntartó vállalkozás és az ezzel azonos csoportos adószám alá tartozó vállalkozások önellenőrzési rendszereiben használja fel, és amely szolgáltatásként nem végez vizsgálatot;”
 
-8. Az Éltv. Mellékletének 53. pontja helyébe a következő rendelkezés lép:
-
-„53. ökológiai termelés: az Öko EK rendelet 3. cikkének a) 1. pontjában meghatározott fogalom szerinti tevékenység;”
+8.
 
 9. Az Éltv. Mellékletének 67. pontja helyébe a következő rendelkezés lép:
 
