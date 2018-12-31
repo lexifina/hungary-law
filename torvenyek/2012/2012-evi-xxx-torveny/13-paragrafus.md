@@ -1,3 +1,11 @@
 13. § (1) A HB az e törvény végrehajtására kiadott jogszabályban meghatározottak és az alapszabálya szerint eljárva dönt a hozzá az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint benyújtott javaslat alapján javasolt kiemelkedő nemzeti érték Hungarikumok Gyűjteményébe történő felvételéről. A Hungarikumok Gyűjteményébe felvett hungarikumok adatait a HB saját honlapján közzéteszi.
 
 (2) A Hungarikumok Gyűjteményében a hungarikumokkal kapcsolatosan nyilván kell tartani különösen a hungarikum megnevezését, fellelhetőségét, rövid, lényegre törő bemutatását, különleges, egyedi jellemzőit, amely kiemeli a nemzeti értékek köréből, az esetlegesen más területeken megjelenő változatait, valamint a fellelhető bibliográfiai jegyzéket.
+
+(3) A HB jogosult a Magyar Értéktár és a Hungarikumok Gyűjteményében szereplő nemzeti értékek felülvizsgálatára, amely során:
+
+a) amennyiben a már felvett nemzeti érték leírása kiegészítésre szorul, elfogadhatja annak módosított szövegét;
+
+b) egymással szoros kapcsolatban álló kiemelkedő nemzeti értékeket, hungarikumokat, egységes elnevezés alatt, a nemzeti értékek alcímben való feltüntetésével kezelhet;
+
+c) dönthet a nemzeti érték Magyar Értéktárból, Hungarikumok Gyűjteményéből való törléséről.

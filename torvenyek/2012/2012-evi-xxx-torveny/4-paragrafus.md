@@ -7,3 +7,5 @@
 (3) A megyei önkormányzat a megyei értékek azonosításával, a megyei értéktár létrehozatalával és annak gondozásával, valamint adatainak a Magyar Értéktárba történő megküldésével megbízhat a megye területén működő, nemzeti értékek azonosítását, gondozását végző állami, megyei önkormányzati, egyházi vagy civil szervezetet, közalapítványt, ilyen szervezet által fenntartott intézményt vagy annak szervezeti egységeit (a továbbiakban együtt: megyei szervezet). A megyei szervezet jogai megegyeznek a Megyei Értéktár Bizottság jogaival.
 
 (4) A Megyei Értéktár Bizottság létrehozásáról vagy a (3) bekezdés szerinti feladatok ellátásával történő megbízásról a megyei önkormányzat a létrehozást, megbízást követő 30 napon belül tájékoztatja a HB-t.
+
+(5) A megyei önkormányzat közigazgatási területén fellelhető, illetve az ott létrehozott nemzeti érték felvételét a megyei értéktárba bárki írásban kezdeményezheti az adott érték fellelhetőségének helye szerint illetékes megyei közgyűlés elnökéhez címzett javaslatában.
