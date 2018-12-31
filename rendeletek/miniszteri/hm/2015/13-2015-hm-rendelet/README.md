@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-13-20-1
 | --- | --- | --- |
 | 2015-12-04 | 2015-13-20-15.1 | 13/2015. (XII. 3.) HM rendelet |
 | 2015-12-05 | 2015-13-20-15.2 | 2010: CXXX. törvény |
+| 2018-12-31 | 2015-13-20-15.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
