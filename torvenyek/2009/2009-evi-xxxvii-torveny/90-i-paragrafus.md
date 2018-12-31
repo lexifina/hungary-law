@@ -2,4 +2,4 @@
 
 (2) A faanyag kereskedelmi lánccal kapcsolatos ellenőrzésekhez az erdészeti hatóság a rendőrség, az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság közreműködését igényelheti.
 
-(3) A fatermékek forgalmazásának hatékony ellenőrzése érdekében az erdészeti hatóság és a rendőrség, az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság köteles egymással együttműködni.
+(3) A fatermékek forgalmazásának hatékony ellenőrzése érdekében az erdészeti hatóság és a rendőrség, az állami adó- és vámhatóság, a rendészetért felelős miniszter által vezetett minisztérium, valamint az önkormányzati adóhatóság köteles egymással együttműködni.

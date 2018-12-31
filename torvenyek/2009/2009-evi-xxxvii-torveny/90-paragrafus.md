@@ -1,6 +1,6 @@
 ## A faanyag származásának igazolása
 
-90. § (1) A fakitermelés jogosultja, illetve a kitermelt erdei faválasztékkal rendelkezni jogosult vagy annak meghatalmazottja az erdőből, az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületről, szabad rendelkezésű erdőből, fásításból, valamint e törvény hatálya alá nem tartozó területről kitermelt erdei faválaszték származásáról köteles a szállításhoz szükséges igazolást (a továbbiakban: szállítójegy) kiállítani.
+90. § (1) Az erdei faválaszték közúti járművön vagy keskeny nyomtávú vasúton történő szállítását – a (2) bekezdésben meghatározott eset kivételével – csak a szállítás megkezdése előtt, minden szállítmányra külön kiállított, e törvény végrehajtására kiadott jogszabályban meghatározott szállítójegy alapján lehet végezni.
 
 (2) Nem szükséges szállítójegyet kiállítani az erdőrészleten belül végzett közelítéshez, valamint az erdőben kialakított farakodó és az erdőrészlet közötti szállításhoz, ha a készletre vétel a farakodón erdőrészletre elkülönítetten történik.
 

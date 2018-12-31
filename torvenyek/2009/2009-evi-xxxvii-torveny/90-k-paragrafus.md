@@ -20,7 +20,9 @@ d)
 
 e) erdővédelmi bírságot szab ki,
 
-f)–i)
+f) faanyag kereskedelmi lánccal kapcsolatos tevékenységhez használt szállítójármű használatának tiltására vagy korlátozására vonatkozó döntés alapján az erdészeti hatóság kezdeményezi a jármű forgalomból történő ideiglenes kivonását a közlekedési igazgatási hatóságnál.
+
+g)–i)
 
 j) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezi a faanyag kereskedelmi lánc szereplőjét azzal, hogy a szereplő a hibák, hiányosságok megszüntetése érdekében tett intézkedéséről köteles értesíteni az erdészeti hatóságot.
 
@@ -32,4 +34,14 @@ j) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére 
 
 (5) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyelete keretében végzett intézkedéseiről haladéktalanul értesíti a forgalomba hozásért felelős piaci szereplőt, importőrt.
 
-(6) A faanyag kereskedelmi lánc hatósági felügyelete során elkobzottfatermék az értékesítés vagy megsemmisítés helyett közérdekű célra is felhasználható.
+(6) A faanyag kereskedelmi lánc hatósági felügyelete során elkobzott fatermék az értékesítés vagy megsemmisítés helyett közérdekű célra is felhasználható, illetve tulajdonjoga ingyenesen átruházható.
+
+(7) Az erdészeti hatóság az elkobzott faanyagot szerződéssel
+
+a) helyi önkormányzat részére jogszabályban foglalt feladatai elősegítése érdekében,
+
+b) közhasznú szervezet részére, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében,
+
+c) egyház, egyházi jogi személy részére, hitéleti feladatai elősegítése vagy az általa végzett állami – így különösen oktatási, szociális, család-, gyermek- és ifjúságvédelmi – feladatok ellátásának elősegítése érdekében
+
+ingyenesen tulajdonba adhatja.
