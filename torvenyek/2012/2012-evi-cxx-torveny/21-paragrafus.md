@@ -12,7 +12,7 @@ tarthat magánál.
 
 (2) A település közigazgatási területének belterületnek nem minősülő, elsősorban mezőgazdasági, erdőművelési célra szolgáló részén, szolgálati feladatainak ellátása során nyíltan viselve
 
-a) a mezőőr, valamint a hegyőr, a halászati őr – jogszabályban meghatározott közegészségügyi okból, a légiközlekedés biztonsága, valamint az okszerű mezőgazdasági termelés biztosítása érdekében meghatározott állatok riasztása, elejtése, gyérítése, és állományának szabályozása érdekében – sörétes lőfegyvert,
+a) a mezőőr, valamint a hegyőr, az állami halőr és a hivatásos halőr – jogszabályban meghatározott közegészségügyi okból, a légiközlekedés biztonsága, valamint az okszerű mezőgazdasági termelés biztosítása érdekében meghatározott állatok riasztása, elejtése, gyérítése, és állományának szabályozása érdekében – sörétes lőfegyvert,
 
 b) az erdészeti hatóság rendészeti feladatokat ellátó tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet, természetvédelmi őr önvédelmi célból, a hivatásos vadász – nagyvad utánkeresése során a kegyelemlövéshez – maroklőfegyvert,
 

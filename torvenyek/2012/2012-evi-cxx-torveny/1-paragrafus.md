@@ -22,7 +22,7 @@ g) a rendészeti feladatokat ellátó erdészeti szakszemélyzetre,
 
 h) a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzetre,
 
-i) a halászati őrre,
+i) az állami halőrre és a hivatásos halőrre,
 
 j) a közterület-felügyelőre,
 
