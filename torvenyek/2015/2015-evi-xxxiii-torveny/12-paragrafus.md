@@ -1,1 +1,0 @@
-12. § Az e törvény hatálya alá tartozó ingatlanokra vonatkozó jogok, az ingatlanok tulajdonjogának megszerzése, illetve a beruházás során a Magyarország 2015. évi központi költségvetéséről szóló törvény 2014. évi C. törvény 20. § (2) bekezdése szerinti szabályokat nem kell alkalmazni.

@@ -1,1 +1,0 @@
-10. § A beruházás érdekében települési önkormányzat a tulajdonában lévő önkormányzati vagyon tulajdonjogát az állam javára versenyeztetés mellőzésével átruházhatja, vagy a tulajdonjog állam javára történő ingyenes átruházására vonatkozó megállapodást köthet.
