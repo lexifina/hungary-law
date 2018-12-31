@@ -14,6 +14,8 @@ alapján kerülhet sor.
 
 (2b) A Ptk. bejegyeztetési kötelezettségre vonatkozó rendelkezéseit nem kell alkalmazni, ha a közbenső jogszerzést jogerős bírói döntés, vagy jogerős közjegyzői végzés megállapítja.
 
+(2c) A bejegyzésnek a (2a) bekezdés b) pontja alapján történő törlése esetén a törlésről rendelkező határozat hatálya a bejegyzésen alapuló további bejegyzésekre is kiterjed.
+
 (3) Nincs szükség okiratra és kérelemre, ha olyan jogot vagy tényt kell törölni, amelynek megszűnése az ingatlan-nyilvántartásból kétségtelenül megállapítható.
 
 (4) Nem kell okiratot csatolni a kérelemhez, amennyiben a haszonélvezeti, a tartási vagy az életjáradéki jog, továbbá a használat jogának a jogosult elhalálozása következtében történő megszűnése a személyiadat- és lakcímnyilvántartásban szereplő adatokból kétségtelenül megállapítható.

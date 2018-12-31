@@ -9,3 +9,5 @@
 (3)
 
 (4) A földmérési és térképészeti tevékenységről szóló törvény szerinti felmérési, térképezési és területszámítási hiba kijavítása tárgyában hozott határozatot a széljegyzett beadványok rangsorára való tekintet nélkül kell az ingatlan-nyilvántartásban átvezetni.
+
+(5) A zálogjog, az ahhoz kapcsolódó elidegenítési és terhelési tilalom vagy elidegenítési tilalom, illetve a végrehajtási jog törlése tárgyában hozott határozatot a széljegyzett beadványok rangsorára való tekintet nélkül kell az ingatlan-nyilvántartásban átvezetni.
