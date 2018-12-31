@@ -1,0 +1,1 @@
+A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 72. § (1) bekezdés 1., 2., 3., 10., 12., 15., 19., 21., 23., 26., 30. pontjában foglalt felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 79. § 7. pontjában, valamint a 86. § (1) bekezdésben meghatározott feladatkörömben eljárva a következőket rendelem el:
