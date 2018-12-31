@@ -1,3 +1,1 @@
-10. § (1)
-
-(2)–(3)
+10. § A helyszíni ellenőrzést a tevékenység megvalósításának elbírálására alkalmas időben, a tenyészidőszakon belül kell elvégezni.
