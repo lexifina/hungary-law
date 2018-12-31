@@ -10,11 +10,13 @@ d) az előírások szerint mért és azonosított műszaki és rögzített képi
 
 e) az okmányok adattartalmának egyezőségére és eltérésére vonatkozó megállapításokat,
 
-f) az előzetes eredetiség-ellenőrzés során megállapított minősítést, és az erről kiállított hatósági bizonyítvány sorszámát,
+f) az előzetes eredetiségvizsgálat dátumát, a vizsgálat során megállapított minősítést, és az erről kiállított hatósági bizonyítvány sorszámát,
 
 g) a külön jogszabályban meghatározott minősítés esetén szükséges egyéb hatósági intézkedéseket, azok idejét, az ügyintézőnek a nyilvántartó által képzett jogosultságazonosítóját,
 
 h) a jármű azonosító és műszaki adatait, valamint motorjának egyedi azonosító jelét, illetve kódját.
+
+i) az előzetes eredetiségvizsgálatot lefolytató vizsgálóállomás megnevezését és címét.
 
 (2) Az (1) bekezdés a)–h) pontjában szereplő adatokat az előzetes eredetiségvizsgálati eljárás során rögzítik.
 
