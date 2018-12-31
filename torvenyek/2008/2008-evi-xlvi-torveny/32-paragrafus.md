@@ -8,7 +8,7 @@ b) gondoskodik az élelmiszerlánc területén az iskolarendszeren kívüli hat�
 
 c) végzi az ellenőrzések során vett minták vizsgálati eredményeinek országos értékelését az élelmiszerlánc-felügyelet, élelmiszer- és takarmányminőség vonatkozásában;
 
-d) laboratóriumokat működtet, illetve kijelöli az e törvény szerinti hatósági ellenőrzések során vett minták vizsgálatait végző állami laboratóriumokat, és ezek jegyzékét honlapján közzéteszi;
+d) laboratóriumokat működtet, illetve kijelöli az e törvény szerinti hatósági ellenőrzések során vett minták vizsgálatait végző nem állami laboratóriumokat, és ezek jegyzékét honlapján közzéteszi;
 
 e) egyes állat- és növénybetegségek területenkénti vagy országos előfordulásának és a fertőzöttség mértékének tisztázására, továbbá az élelmiszerek és takarmányok biztonságának és minőségének laboratóriumi vizsgálatára felmérő (monitoring) rendszert működtet, valamint ellenőrző, illetve engedélyezési eljárást megalapozó vizsgálatokat végeztet;
 
@@ -38,7 +38,7 @@ q) kockázatbecslést végez, illetve felkérésre közreműködik más szervek 
 
 r) koordinálja az érintett hatóságok között az ellenőrzési tervek, illetve módszerek egyeztetését, összehangolását, és az ellenőrzési tapasztalatok közös értékelését, illetve közös ellenőrzési jelentések készítését;
 
-s) ellátja az e törvény hatálya alá tartozó termékekkel kapcsolatos tanúsítványok ellenőrzési és felügyeleti feladatait;
+s) ellátja az e törvény hatálya alá tartozó termékekkel, szolgáltatásokkal és tevékenységekkel kapcsolatos tanúsítványok ellenőrzési, felügyeleti és minősítési feladatait;
 
 t) központi kockázatkezelési rendszert működtet a járványos állatbetegségek, zárlati károsítók, illetve élelmiszerlánc-események megelőzése, felszámolása, utókezelése, valamint a hatósági intézkedések koordinációja érdekében;
 
@@ -68,7 +68,9 @@ b) meghatározza a növényvédelmi, növény-egészségügyi eljárások vizsg�
 
 c) gondoskodik a zárlati károsítók felderítéséről, megelőzéséhez, illetve felszámolásához szükséges intézkedések megtételéről;
 
-d) működteti a növényvédelem, továbbá a talaj- és agrárkörnyezet-védelem élelmiszerbiztonsággal és növényvédelemmel kapcsolatos monitoring- és információs rendszerét.
+d) működteti a növényvédelem, továbbá a talaj- és agrárkörnyezet-védelem élelmiszerbiztonsággal és növényvédelemmel kapcsolatos monitoring- és információs rendszerét;
+
+e) biztosítja a növényvédelmi gépek műszaki felülvizsgálatára vonatkozó tevékenység szakmai felügyeletét.
 
 (5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több megyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása, valamint az élelmiszerlánc-felügyeleti díj megfizetésének ellenőrzése során
 

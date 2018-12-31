@@ -2,7 +2,7 @@
 
 a) az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter),
 
-b) az élelmiszerlánc-felügyelettel kapcsolatos vizsgálatot végző laboratóriumok,
+b) az élelmiszerlánc-felügyelettel kapcsolatos vizsgálatot végző állami laboratóriumok,
 
 c)
 

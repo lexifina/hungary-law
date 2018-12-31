@@ -1,48 +1,74 @@
 38. § (1) Az élelmiszerlánc-felügyeleti szerv az élelmiszerlánc hatósági felügyeletével kapcsolatos feladatainak ellátása érdekében az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint nyilvántartást vezet
 
-a) az állatorvosokról;
+1. az állatorvosokról;
 
-b) a termelőkről, állattartókról, állattartó tenyészetekről, állatkereskedőkről;
+2. a termelőkről, állattartókról, lófélék esetében az állat tulajdonosáról, tenyészetekről, állattartási helyekről, állatkereskedőkről;
 
-c) az élelmiszer- és a takarmány-vállalkozásokról;
+3. az élelmiszer- és a takarmány-vállalkozásokról;
 
-d) a közúti élőállat-szállításra engedélyezett gépjárművezetőkről, az állatkísérőkről, állatszállítókról, állatszállítmányozókról;
+4. a közúti élőállat-szállításra engedélyezett gépjárművezetőkről, az állatkísérőkről, állatszállítókról, állatszállítmányozókról;
 
-e) az élelmiszer-biztonsági felügyelet alá tartozó helyekről;
+5. az élelmiszer-biztonsági felügyelet alá tartozó helyekről;
 
-f) az állat-egészségügyi felügyelet alá tartozó helyekről;
+6. az állat-egészségügyi felügyelet alá tartozó helyekről;
 
-g) a takarmányozási hatósági felügyelet alá tartozó helyekről;
+7. a takarmányozási hatósági felügyelet alá tartozó helyekről;
 
-h) a növényvédelmi felügyelet alá tartozó helyekről, eszközökről;
+8. a növényvédelmi felügyelet alá tartozó helyekről, eszközökről;
 
-i) a nem állami laboratóriumokról;
+9. a nem állami laboratóriumokról;
 
-j) az állat-egészségügyi szolgáltató létesítményekről;
+10. az állat-egészségügyi szolgáltató létesítményekről;
 
-k) a közúti élőállat-szállításra engedélyezett gépjárművekről;
+11. a közúti élőállat-, állati eredetű melléktermék szállításra engedélyezett gépjárművekről;
 
-l) az állatgyógyászati terméket forgalomba hozókról, illetve gyártókról;
+12. az állatgyógyászati terméket forgalomba hozókról, illetve gyártókról;
 
-m) az engedélyköteles termék magyarországi forgalomba hozatali és felhasználási engedélyéről;
+13. az engedélyköteles termék magyarországi forgalombahozatali és felhasználási engedélyéről;
 
-n) az engedélyköteles termékek vásárlási és felhasználási engedélyeiről;
+14. az engedélyköteles termékek vásárlási és felhasználási engedélyeiről;
 
-o) az engedélyezett állatgyógyászati termékekről, az engedélyezett mikrochipekről;
+15. az engedélyezett állatgyógyászati termékekről, az engedélyezett mikrochipekről;
 
-p) az egyedi azonosítású állatokról;
+16. az egyedi azonosítású állatokról, törzsállományokról;
 
-q) a Növényvédelmi Gépek Jegyzékében azokról a növényvédelmi géptípusokról, amelyekre a benyújtott nyilatkozat alapján forgalomba hozatali engedélyt adott ki;
+17. a Növényvédelmi Gépek Jegyzékében azokról a növényvédelmi géptípusokról, amelyekre a benyújtott nyilatkozat alapján forgalombahozatali engedélyt adott ki;
 
-r) a tanúsító szervezetekről;
+18. a tanúsító szervezetekről;
 
-s) a gombaszakellenőrökről;
+19. a gombaszakellenőrökről;
 
-t) élelmiszerlánc-felügyeleti díj bevallására, illetve fizetésére kötelezettekről;
+20. élelmiszerlánc-felügyeleti díj bevallására, illetve fizetésére kötelezettekről;
 
-u) a légi permetezés iránti kérelmekről és az ezzel kapcsolatos döntésekről;
+21. a légi permetezés iránti kérelmekről és az ezzel kapcsolatos döntésekről;
 
-v) a növényorvosokról és a növényvédelmi szolgáltatási tevékenységet végzőkről.
+22. a növényorvosokról, a növényvédelmi gépek felülvizsgálatát végzőkről, a növényvédelmi szolgáltatási tevékenységet végzőkről, és a növényvédelmi munkavégzőkről;
+
+23. kistermelői élelmiszer előállítást és forgalmazást végzőkről;
+
+24. élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyagot és tárgyat előállítókról és az első magyarországi forgalomba hozókról;
+
+25. faanyagok és fa csomagolóanyag kezelőkről és javítókról;
+
+26. állat-nyomonkövetési és járványügyi felügyeletet biztosító
+
+a) ENAR-koordinátorokról,
+
+b) ENAR-kapcsolattartókról,
+
+c) sertéságazati területi felelősökről,
+
+d) juh- és kecskefélék területi felelőseiről,
+
+e) lóazonosításért felelős személyekről,
+
+f) állatjóléti felelősökről,
+
+g) vágóállat minősítőkről,
+
+h) vágóhídi segédszemélyzetről;
+
+27. a bejelentett termésnövelő anyagokról.
 
 (2) Az (1) bekezdésben megjelölt nyilvántartás tartalmazza
 
@@ -52,11 +78,11 @@ b) a nyilvántartásba vétel alapjául szolgáló hatósági engedély, bizony�
 
 c) az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá tartozó adatkörben
 
-ca) természetes személyek esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító számot,
+ca) természetes személyek esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító jelet, egyéni vállalkozó természetes személy esetén a székhelyet és adószámot, őstermelő természetes személy esetén az adószámot is,
 
 cb) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, adóazonosító számot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
 
-(2a) Az (1) bekezdés c), l), m), n), o), q) és r) pontja szerinti nyilvántartás a (2) bekezdés b) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(2a) Az (1) bekezdés 3.,12.,13.,14.,15.,17.,18. és 27. pontja szerinti nyilvántartás a (2) bekezdés b) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (3) Élelmiszer-, illetve takarmányvállalkozások, valamint a növényvédelmi szolgáltató vállalkozások működési engedélyének kiadásáról, visszavonásáról vagy módosításáról szóló határozatot az élelmiszerlánc-felügyeleti szervvel is közölni kell, azok nyilvántartásba vétele céljából.
 
@@ -73,3 +99,5 @@ b) társasági adóbevallás szerinti éves nettó árbevételének összegérő
 c) által végzett tevékenységekről.
 
 (7) Az állami adó- és vámhatóság megkeresésre tájékoztatja az élelmiszerlánc-felügyeleti szervet az adó- és vámtitkot képező adatról vagy információról, ha az az ügyfél személyének azonosításához vagy az élelmiszerlánc-felügyeleti szerv hatósági feladatának ellátásához szükséges. Az állami adó- és vámhatóság az adózás rendjéről szóló törvényben meghatározott, az állami adó- és vámhatóság által működtetett EKAER-ben a 4. § szerint az élelmiszerlánc-felügyeleti szerv felügyeleti hatáskörébe tartozó termékekkel összefüggésben rögzített adatokat a rögzítést követően haladéktalanul, elektronikus úton továbbítja az élelmiszerlánc-felügyeleti szerv részére az ügyfél személyének azonosítása és az élelmiszerlánc-felügyeleti szerv hatósági feladatának ellátása céljából.
+
+(8) A tanúsító szervezet az általa vezetett ökológiai gazdálkodással összefüggő nyilvántartásból – a tanúsítási rendszerében részt vevő gazdasági szereplővel, a szerződéskötéssel, a gazdasági szereplők ellenőrzésének és tanúsításának folyamatával, valamint az 10/A. § szerinti tanúsítványokkal kapcsolatban – az élelmiszerlánc-felügyeleti szerv részére az e törvényben meghatározott feladatok ellátása céljából e törvény végrehajtására kiadott rendeletben meghatározottak szerint köteles adatot szolgáltatni.

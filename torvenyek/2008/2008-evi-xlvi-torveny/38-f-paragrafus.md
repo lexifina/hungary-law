@@ -12,4 +12,6 @@ c) az országos járványvédelmi központtal együttműködve javaslatot tesz a
 
 d) megszervezi a zárlat alatti területeken található gazdaságok ellenőrzését és a szükséges mintavételek elvégzését,
 
-e) napi jelentés formájában tájékoztatja az Országos Járványvédelmi Központot a járványhelyzet alakulásáról.
+e) napi jelentés formájában tájékoztatja az Országos Járványvédelmi Központot a járványhelyzet alakulásáról,
+
+f) elrendelheti az 51. § (3) bekezdésben meghatározott állatjárványügyi intézkedéseket.

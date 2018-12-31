@@ -6,7 +6,7 @@
 
 a) az élelmiszer – beleértve a borászati terméket, az ízesített bort, ízesített boralapú italokat és az ízesített boralapú koktélokat, a pálinkát és a törkölypálinkát – termelésére, előállítására, szállítására, tárolására és forgalomba hozatalára;
 
-b) a vadon élő növény begyűjtésére, a kifogott hal és az elejtett vad szállítására és felhasználására;
+b) a vadon élő növény begyűjtésére, a kifogott hal és más hasznos víziállat, valamint az élő vad és az elejtett vad szállítására és felhasználására;
 
 c) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyag, tárgy, eszköz és gép előállítására, higiéniai alkalmasságának, megfelelőségének ellenőrzésére és forgalomba hozatalára;
 
@@ -28,6 +28,8 @@ k) a növényvédelmi gép, növényvédő szer kijuttatására szolgáló szór
 
 l) az állatok etetésére szánt takarmány előállítására, tárolására, szállítására, forgalomba hozatalára, felhasználására;
 
-m) az élelmiszerlánc-eseményekkel összefüggő tájékoztatásra.
+m) az élelmiszerlánc-eseményekkel összefüggő tájékoztatásra;
+
+n) a kedvtelésből tartott állatok állategészségügyi, járványügyi felügyeletére.
 
 (3) Nem terjed ki a törvény alkalmazási köre az élelmiszerek magánfogyasztásra történő előállítására, valamint – takarmányhigiéniai szempontból – a takarmányhigiénia követelményeinek meghatározásáról szóló, az Európai Parlament és a Tanács 2005. január 12-i 183/2005/EK rendelete 2. cikke (2) bekezdésének a)–d) pontjában szabályozott tevékenységekre.

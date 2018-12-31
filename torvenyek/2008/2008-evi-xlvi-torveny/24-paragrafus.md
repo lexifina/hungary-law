@@ -18,4 +18,10 @@ e) az élelmiszerlánc-felügyeleti szerven keresztül működteti a 882/2004/EK
 
 (2) Az állam az (1) bekezdésben foglaltak figyelembevételével – az éves költségvetési törvényben meghatározott módon – a központi költségvetésben biztosítja az élelmiszerlánc-felügyeleti szerv nemzeti és nemzetközi követelményeknek megfelelő szintű működésének fedezetét.
 
-(3) Az állam az élelmiszerlánc felügyeletével összefüggő feladata ellátásáért való felelőssége körében, különösen a végső fogyasztók egészségének és az élelmiszerlánc valamennyi szereplője érdekének védelme, valamint a biztonságos, illetve a megfelelő minőségű élelmiszer előállításának és forgalmazásának elősegítése érdekében, az ehhez szükséges ismeretek széles körű terjesztésével, tájékoztatások, képzések, oktatás biztosításával járul hozzá a tudatos felhasználói szemlélet kialakításához.
+(3) Az állam az élelmiszerlánc felügyeletével összefüggő feladata ellátásáért való felelőssége körében, különösen a végső fogyasztók egészségének és az élelmiszerlánc valamennyi szereplője érdekének védelme, valamint a biztonságos, illetve a megfelelő minőségű élelmiszer előállításának és forgalmazásának elősegítése érdekében
+
+a) az ehhez szükséges ismeretek széles körű terjesztésével, tájékoztatások, képzések, oktatás biztosításával hozzájárul a tudatos felhasználói szemlélet kialakításához;
+
+b) élelmiszerfogyasztási, táplálkozási adatokat gyűjt, többek között az élelmiszerekkel elfogyasztott szennyezőanyagoknak való étrendi kitettség meghatározása érdekében;
+
+c) felméréseket végez a fogyasztókra, valamint az e törvény hatálya alá tartozó vállalkozókra vonatkozóan.

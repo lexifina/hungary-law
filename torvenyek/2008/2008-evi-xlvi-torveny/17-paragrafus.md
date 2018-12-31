@@ -20,7 +20,7 @@ a) az e törvény végrehajtására kiadott jogszabályban számára előírt, a
 
 b) a földet a talaj szennyezését okozó anyagoktól megóvni, a földhasználat során környezetkímélő tápanyag-gazdálkodást folytatni.
 
-(4) A földhasználó köteles az adott év június 30. napjáig az ingatlanon a parlagfű virágbimbójának kialakulását megakadályozni, és ezt követően ezt az állapotot a vegetációs időszak végéig folyamatosan fenntartani.
+(4) A földhasználó köteles az ingatlanon a parlagfű virágbimbójának kialakulását megakadályozni, és ezt követően ezt az állapotot a vegetációs időszak végéig folyamatosan fenntartani.
 
 (5) A növényvédő szer, valamint a termésnövelő anyag felhasználására és forgalomba hozatalára vonatkozó engedély jogosultja, valamint az EK-műtrágya első magyarországi forgalmazója köteles évenként március 1-jéig az előző naptári évre vonatkozóan a magyarországi forgalmáról jelentést készíteni és azt elektronikus úton megküldeni az élelmiszerlánc-felügyeleti szerv részére. A jelentésnek tartalmaznia kell a forgalmazott növényvédő szer, termésnövelő anyag, illetve EK-műtrágya tételes megnevezését és mennyiségét, a felhasznált csomagolóeszköz mennyiségét és fajtáját.
 

@@ -6,17 +6,19 @@ b) a gyepmesteri, illetve ebrendészeti tevékenység végzését;
 
 c) az idegen állományból származó állatok fogadására kiválasztott elkülönítőt (karantén), valamint dönt az állatok elkülönítésének (karanténozásának) feltételeiről;
 
-d) az állat-egészségügyi szolgáltató létesítmények, az e törvény végrehajtására kiadott jogszabályban meghatározott fajú és létszámú állatot tartó gazdaság, gyepmesteri telep, ebrendészeti telep, állatmenhely, állatpanzió, állatrakodó, gyűjtőállomás, kereskedői telep, etető-itató állomás, pihentetőállomás, valamint állati eredetű melléktermék kezelését, feldolgozását, ártalmatlanítását végző vállalkozás működését;
+d) az állat-egészségügyi szolgáltató létesítmények, az e törvény végrehajtására kiadott jogszabályban meghatározott fajú és létszámú állatot tartó gazdaság, gyepmesteri telep, ebrendészeti telep, állatmenhely, állatpanzió, állatrakodó, gyűjtőállomás, kereskedői telep, állatvásártér, ellenőrző állomás (pihenőhely), valamint állati eredetű melléktermék kezelését, feldolgozását, ártalmatlanítását végző vállalkozás működését;
 
 e) az élelmiszert előállító üzemekből származó, takarmányként felhasználható melléktermékek kezelését, felhasználását, további feldolgozását;
 
-f) az állatok jelölésére szolgáló mikrochip forgalomba hozatalát;
+f) az állatok jelölésére szolgáló transzponder forgalomba hozatalát;
 
-g) az állatgyógyászati készítmények és hatóanyagaik üzemi méretű előállítását, egyes állatgyógyászati termékek gyakorlati kipróbálását;
+g) az állatgyógyászati termékek üzemi méretű előállítását, egyes állatgyógyászati termékek gyakorlati kipróbálását;
 
 h) egyes állatgyógyászati termékek első forgalomba hozatalát, országba történő behozatalát; valamint
 
-i) az állatgyógyászati termékekkel végzett forgalomba hozatali tevékenységet.
+i) az állatgyógyászati termékekkel végzett forgalomba hozatali tevékenységet;
+
+j) az e törvény végrehajtására kiadott jogszabályban meghatározott állatot tartó gazdaság benépesítését, valamint állatok részvételével tartott rendezvények (állatvásár, állatpiac, állatkiállítás, állatverseny, állatbemutató) tartását.
 
 (2) Állat-egészségügyi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban foglaltak szerint ellenőrzi
 
@@ -46,7 +48,7 @@ l) az élő állat kereskedelmét, szállítását, szállításra való alkalma
 
 (3) Állat-egészségügyi hatósági feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban foglaltak szerint elrendeli:
 
-a) a járványveszély esetén szükséges járványügyi intézkedéseket, továbbá a közcélú igénybevételt;
+a) a járványveszély esetén szükséges járványügyi intézkedéseket, továbbá a közcélú igénybevételt, és a betegség iránt fogékony állatok, fajok és korcsoportok szerinti nyilvántartásba vételét, összeírását (cenzus), szűrését;
 
 b) az emberre is veszélyes betegségben elhullott vagy emiatt leölt állatok tetemei, valamint a járványügyi szempontból szigorúbb intézkedést igénylő állati eredetű melléktermékek, fertőzött anyagok, eszközök ártalmatlanná tételét és meghatározza annak módját;
 
@@ -66,10 +68,12 @@ e) kiállítja az áru nemzetközi kereskedelméhez szükséges állat-egészsé
 
 f) az e törvény végrehajtására kiadott jogszabályban foglaltak szerint megtilthatja áru behozatalát, Magyarország területéről történő kiszállítását, vagy az ország területén történő átszállítását;
 
-g) részt vesz az állatgyógyászati készítmények előállításának, forgalomba hozatalának, országba történő behozatalának ellenőrzésében;
+g) részt vesz az állatgyógyászati termékek előállításának, forgalomba hozatalának, országba történő behozatalának ellenőrzésében;
 
 h) irányítja és ellenőrzi a jogszabályokban előírt állat-egészségügyi feladatok végrehajtását, az e törvény végrehajtására kiadott jogszabályban meghatározott esetben részt vesz a végrehajtásban;
 
 i) elvégzi az állatgyógyászati készítmények – az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban előírt – vizsgálatát, kivizsgálja az állatgyógyászati készítmények minőségi problémáit és feltételezett mellékhatásait, és intézkedik azok megelőzése és megszüntetése érdekében;
 
-j) működteti az államilag előírt állat-egészségügyi feladatok ellátásához szükséges oltó- és kórjelző anyagok központi tárolóját és elosztóját.
+j) működteti az államilag előírt állat-egészségügyi feladatok ellátásához szükséges oltó- és kórjelző anyagok központi tárolóját és elosztóját;
+
+k) vezeti a bejelentési kötelezettség alá tartozó fertőző állatbetegségekre vonatkozó nyilvántartást.

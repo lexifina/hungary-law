@@ -1,16 +1,4 @@
-42. § (1) Az élelmiszerlánc-felügyeleti szerv
-
-a) védekezést;
-
-b) állami védekezést;
-
-c) közérdekű védekezést;
-
-d) járványügyi intézkedést;
-
-e) az emberi egészséget veszélyeztető élelmiszerlánc-esemény elhárítása érdekében hozott intézkedést
-
-elrendelő határozata fellebbezésre való tekintet nélkül végrehajtható.
+42. § (1)
 
 (2) A védekezésre kötelező, valamint a közérdekű védekezést elrendelő határozat hirdetmény útján közölhető akkor is, ha a termelő, illetve a földhasználó ismeretlen.
 

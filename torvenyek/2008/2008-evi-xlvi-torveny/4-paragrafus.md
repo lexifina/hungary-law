@@ -36,6 +36,8 @@ p) az élelmiszerláncra kiterjedő vizsgálatokat végző laboratóriumokra;
 
 q) az e törvény hatálya alá tartozó termék előállítására, forgalmazására vonatkozó ellenőrzési és felügyeleti feladatok ellátására;
 
-r) az e törvény hatálya alá tartozó termékkel kapcsolatos tanúsítványokra vonatkozó ellenőrzési és felügyeleti feladatok ellátására;
+r) az e törvény hatálya alá tartozó termékkel, szolgáltatásokkal és tevékenységekkel kapcsolatos tanúsítványokra vonatkozó ellenőrzési, felügyeleti és minősítési feladatok ellátására;
 
-s) az e törvény hatálya alá tartozó termékekkel kapcsolatos tájékoztatási szabályok feltüntetésére.
+s) az e törvény hatálya alá tartozó termékekkel kapcsolatos tájékoztatási szabályok feltüntetésére;
+
+t) a víziállat-termelő létesítményekben természetes vízi telepítésre vagy étkezési célra termelt hal, vagy más hasznos víziállat tartására, szállítására, forgalomba hozatalára, felhasználására.

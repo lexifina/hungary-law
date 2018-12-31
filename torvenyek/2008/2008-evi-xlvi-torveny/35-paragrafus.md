@@ -26,7 +26,7 @@ c) vizsgálja az élelmiszer-ipari gépek, berendezések higiéniai alkalmasság
 
 d) értékeli, elemzi, és közzéteszi az élelmiszerek okozta megbetegedésekkel kapcsolatos információkat;
 
-e) az egészségügyi államigazgatási szerv szakvéleménye alapján elvégzi az új élelmiszerre vonatkozó kérelem elsődleges értékelését;
+e) az Európai Unió közvetlenül alkalmazandó uniós jogi aktusai szerint kérelemre elvégzi az új élelmiszer státusz meghatározását;
 
 f) tájékoztatást nyújt az élelmiszer-biztonsággal kapcsolatban felmerülő aktuális kérdésekről, problémákról, megelőzésük módjáról.
 

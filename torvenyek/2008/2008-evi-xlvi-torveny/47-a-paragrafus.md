@@ -25,3 +25,5 @@ c) az élelmiszerlánc szereplői közötti hálózati kapcsolatok rendszerét.
 (4) A (3) bekezdés szerint meghatározott kockázatok kezelése során a prioritásokat – a felügyeleti díjból befolyt éves keretösszeg nyújtotta lehetőségek figyelembevételével – átlátható módon a több éves tervben és az éves ellenőrzési tervben kell meghatározni.
 
 (5) A jogellenes tevékenységet folytató élelmiszerlánc-szereplők felderítése érdekében, a (3) bekezdésben foglaltak figyelembevételével az élelmiszerlánc-felügyeleti szerv létrehozza és működteti az intelligens élelmiszerlánc-elemzési rendszert.
+
+(6) Az eljáró szerv az ágazati stratégiai célok teljesülésének mérése, valamint ágazati intézkedések megalapozott tervezése érdekében a FELIR-ben tárolt adatokra alapozva stratégiai hatásvizsgálati és monitoring rendszert működtet.

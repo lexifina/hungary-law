@@ -6,4 +6,4 @@
 
 (3) Az élelmiszer-rendész számára a rendőrség szolgálati igazolványt és szolgálati jelvényt állít ki a munkáltató kezdeményezésére.
 
-(4) Az élelmiszer-rendészek vonatkozásában alkalmazni kell az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény (a továbbiakban: Rendészeti tv.) 5. §-ában, 6. § (1) bekezdésében, 7–14. §-ában, 21. § (1) bekezdésében, valamint 22. §-ában foglaltakat.
+(4) Az élelmiszer-rendészek vonatkozásában alkalmazni kell az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény (a továbbiakban: Rendészeti tv.) 5. §-ában, 6. § (1) bekezdésében, 7–14. §-ában, 21. § (1) bekezdésének a) és b) pontjában, valamint 22. §-ában és 23. §-ában foglaltakat.

@@ -16,6 +16,10 @@ b) elvégzi a monitoringtervben vagy a jogszabályokban előírt mintavételt é
 
 c) a hatósági feladatok ellátását támogató, kisegítő tevékenységet végez;
 
-d) részt vesz az állami laboratóriumok és a laboratóriumi hálózat működtetésében, valamint kísérleti vizsgálatok végzésében.
+d) részt vesz az állami laboratóriumok és a laboratóriumi hálózat működtetésében, valamint kísérleti vizsgálatok végzésében;
+
+e) közreműködik az élelmiszerláncot érintő nemzeti és uniós minőségrendszerekkel kapcsolatos feladatok ellátásában.
 
 (6) Az élelmiszerlánc-felügyeleti szerv az ÉBC-vel az élelmiszerlánc-felügyeleti feladatokkal kapcsolatos közreműködés érdekében megállapodást köthet, amelyben rendelkezik egyúttal a pénzügyi fedezet biztosításáról, a szakmai teljesítés és az elszámolás rendjéről, illetve a feladatellátáshoz eszközöket biztosíthat.
+
+(7) Az ÉBC – az (5) bekezdésben meghatározott – feladatai ellátása során a 38/A. § (3) bekezdése szerinti adatokat a FELIR-ben kezeli.

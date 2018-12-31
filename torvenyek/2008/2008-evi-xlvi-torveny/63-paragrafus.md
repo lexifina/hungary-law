@@ -10,7 +10,7 @@ ab) a növényvédő szerek és termésnövelő anyagok forgalomba hozatalára �
 
 ac) a növények termesztése, a növények, növényi termékek és egyéb anyagok hasznosítása, feldolgozása, tárolása, szállítása és forgalomba hozatala növény-egészségügyi szabályainak betartására;
 
-ad) növényvédelmi gépek forgalomba hozatalára és működtetésére;
+ad) növényvédelmi gépek forgalomba hozatalára és működtetésére, valamint műszaki felülvizsgálatára;
 
 ae) a zöldség és gyümölcs termesztésére, tárolására és forgalomba hozatalára;
 
@@ -24,7 +24,7 @@ ai) az állatok állat-egészségügyi felügyeletére és ellátására;
 
 aj) az élelmiszer-termelésre, -előállításra, -feldolgozásra, -tárolásra, -szállításra és -forgalomba hozatalára;
 
-ak) az állatgyógyászati termékek előállítására, kereskedelmére, és felhasználására;
+ak) az állatgyógyászati termékek előállítására, kereskedelmére, reklámozására és felhasználására;
 
 al) a növényi és állati eredetű melléktermékek gyűjtésére, kezelésére, tárolására, szállítására, forgalomba hozatalára, felhasználására;
 

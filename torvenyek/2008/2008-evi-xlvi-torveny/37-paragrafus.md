@@ -8,6 +8,8 @@ c) az engedélyköteles termékek forgalomba hozatalát és felhasználását;
 
 d) a megváltozott minőségű növényvédő szerek forgalomba hozatalát, illetve használatát – ide nem értve a lejárt felhasználhatósági idejű növényvédő szereket.
 
+(1a) Az e törvény végrehajtására kiadott jogszabályban meghatározott – az (1) bekezdés c) és d) pontja hatálya alá nem tartozó – esetekben az élelmiszerlánc-felügyeleti szerv nyilvántartásba veszi a bejelentett termésnövelő anyagokat.
+
 (2) Növény- és talajvédelmi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban meghatározottak, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusai szerint ellenőrzi
 
 a) a termelők károsítók ellen folytatott növényvédelmi tevékenységét, a kijuttatástechnikai, az egészségügyi és a kémiai biztonságot, az engedélyköteles termékek felhasználásához rendelt szakképesítés meglétét, a növényvédő szer felhasználási és vásárlási engedély érvényességét;
@@ -26,7 +28,9 @@ g) a növény-egészségügyi szempontból nyilvántartott termelőknél a nyilv
 
 h) a zöldséget, gyümölcsöt, és az előállításukkal, forgalomba hozatalukkal kapcsolatos követelmények betartását;
 
-i) a növényvédelmi gépek alkalmasságát igazoló forgalomba hozatali engedély, valamint a kijuttatástechnikai alkalmasságát igazoló működési engedély érvényességét.
+i) a növényvédelmi gépek alkalmasságát igazoló forgalomba hozatali engedély, valamint a kijuttatástechnikai alkalmasságát igazoló működési engedély érvényességét;
+
+j) a növényvédelmi gépek műszaki felülvizsgálatára vonatkozó tevékenységet.
 
 (3) Növény- és talajvédelmi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint
 

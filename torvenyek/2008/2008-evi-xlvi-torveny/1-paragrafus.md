@@ -18,4 +18,6 @@ e) az emberi fogyasztásra kerülő, valamint az élelmiszerek alapanyagául szo
 
 f) az állatok, közvetve az ember egészségét nem veszélyeztető, biztonságos és megfelelő minőségű takarmány felhasználása révén a takarmányfelhasználók érdekeinek, a végső fogyasztók biztonságának védelme, a környezetvédelmi szempontok érvényre jutásának elősegítése;
 
-g) haszonállatok tenyésztése során egészséges utódállomány létrehozásának biztosítása.
+g) haszonállatok tenyésztése során egészséges utódállomány létrehozásának biztosítása;
+
+h) az élelmiszerláncban a lehetséges antimikrobiális rezisztencia-előfordulás csökkentésének elősegítése.

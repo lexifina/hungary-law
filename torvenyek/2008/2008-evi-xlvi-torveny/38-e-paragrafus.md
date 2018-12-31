@@ -18,4 +18,6 @@ f) együttműködik a piaci szereplőkkel,
 
 g) tájékoztatja a sajtót,
 
-h) rendkívüli esemény esetén azonnal, egyéb esetben napi jelentés formájában folyamatosan tájékoztatja az országos főállatorvost.
+h) rendkívüli esemény esetén azonnal, egyéb esetben napi jelentés formájában folyamatosan tájékoztatja az országos főállatorvost,
+
+i) elrendelheti az 51. § (3) bekezdésben meghatározott állat-járványügyi intézkedéseket.

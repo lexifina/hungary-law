@@ -22,4 +22,8 @@ j) elkészíti az élelmiszerlánccal kapcsolatos akcióterveket;
 
 k) nyilvántartásba veszi az élelmiszer-rendészeket és vezeti az élelmiszer-rendészek névjegyzékét;
 
-l) járványveszély vagy rendkívüli élelmiszerlánc-esemény esetén – az 53. § (3) bekezdése szerint – közvetlenül rendelkezhet szolgáltató állatorvos közcélú igénybevételéről.
+l) járványveszély vagy rendkívüli élelmiszerlánc-esemény esetén – az 53. § (3) bekezdése szerint – közvetlenül rendelkezhet szolgáltató állatorvos közcélú igénybevételéről;
+
+m) összeállítja az élelmiszerlánc-felügyeleti szerv és a 38/A. § (3a) bekezdése szerinti hatóságok elektronikus hatósági ügyintézése során intézhető ügyek kataszterét,
+
+n) irányítja az élelmiszerlánc-felügyeleti szerv és eljáró hatóság vonatkozásában az országos nyomonkövetést támogató informatikai rendszerek működtetését és használatát.

@@ -2,13 +2,13 @@
 
 33. § Az élelmiszerlánc-felügyeleti szerv
 
-a) az e törvény végrehajtására kiadott jogszabályban foglaltak szerint engedélyezi, nyilvántartja és ellenőrzi a nem állami laboratóriumokat;
+a) az e törvény végrehajtására kiadott jogszabályban foglaltak szerint engedélyezi és ellenőrzi a nem állami szolgáltató laboratóriumokat, valamint nyilvántartásba veszi és ellenőrzi a nem állami üzemi laboratóriumokat;
 
-b) az állat-, valamint a növény-egészségügyi – illetve a ba) és bb) alpontok esetében az egyéb – határállomásokon
+b) az állat-, valamint a növény-egészségügyi határállomásokkal rendelkező – illetve a ba) és bb) alpontok esetében az egyéb – határátkelőhelyeken,
 
-ba) ellenőrzi az élelmiszer-, illetve takarmánybiztonsági, -minőségi, állat-, és növény-egészségügyi rendelkezések megtartását;
+ba) ellenőrzi az élelmiszer-, illetve takarmánybiztonsági, -minőségi, állat- és növény-egészségügyi rendelkezések megtartását;
 
-bb) végrehajtja az áru okirat-ellenőrzését, azonosságvizsgálatát és fizikális ellenőrzését, valamint a monitoringtervben vagy a jogszabályokban előírt mintavételét;
+bb) végrehajtja az áru, a személyes poggyászban található állati termékek, továbbá nem kereskedelmi célból behozott, kedvtelésből tartott állatok okirat-ellenőrzését, azonosságvizsgálatát és fizikális ellenőrzését (valamint jogszabályban előírt mintavételét);
 
 bc) ellenőrzi az állatok szállításra való alkalmasságát, a kísérő dokumentációt, valamint a szállítóeszközt;
 

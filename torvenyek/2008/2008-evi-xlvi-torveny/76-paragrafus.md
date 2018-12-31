@@ -56,7 +56,7 @@ k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerek
 
 11. a növényvédő szer kis- és nagykereskedelmi forgalomba hozatalának részletes szabályait;
 
-12. a termésnövelő anyagok engedélyezésének, tárolásának, jelölésének, forgalomba hozatalának, felhasználásának és ezek ellenőrzésének részletes szabályait;
+12. a termésnövelő anyagok engedélyezésének, nyilvántartásba vételének, tárolásának, jelölésének, forgalomba hozatalának, felhasználásának és ezek ellenőrzésének részletes szabályait;
 
 13. a zöldség és gyümölcs ellenőrzésére vonatkozó részletes szabályokat;
 
@@ -82,7 +82,7 @@ k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerek
 
 24. az állatgyógyászati készítmények és egyes állatgyógyászati termékek előállítására, törzskönyvezésére, gyakorlati kipróbálására, forgalomba hozatalára, rendelésére, felhasználására, az állatgyógyászatban használt elektroorvosi eszközök használatára vonatkozó részletes szabályokat, a gyógyszeres takarmányok előállításának, forgalomba hozatalának, felhasználásának, az állatgyógyászatban használatos gyógyhatású készítmények, ápolószerek, segédanyagok forgalomba hozatalának feltételeit;
 
-25. a nem állami laboratóriumok engedélyezésének és működésének részletes szabályait;
+25. a nem állami laboratóriumok engedélyezésének, nyilvántartásba vételének és működésének részletes szabályait;
 
 26. az élelmiszer-előállítás, -tárolás, továbbá -szállítás szabályait;
 
@@ -98,7 +98,7 @@ k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerek
 
 32. az ivóvíz, az ásványvíz, a forrásvíz és az ízesített víz palackozásának és forgalomba hozatalának szabályait;
 
-33. a mezőgazdasági termékek és élelmiszerek ökológiai és integrált gazdálkodási követelmények szerinti tanúsításának, előállításának, forgalomba hozatalának és jelölésének egyes szabályait, valamint a tanúsító szervezet elismerésére, működésére, felügyeletére, az elismerés felfüggesztésére, visszavonására vonatkozó szabályokat;
+33. a mezőgazdasági termékek és élelmiszerek ökológiai és integrált gazdálkodási követelmények szerinti tanúsításának, előállításának, forgalomba hozatalának és jelölésének egyes szabályait, valamint a tanúsító szervezet elismerésére, működésére, adatszolgáltatására, felügyeletére, az elismerés felfüggesztésére, visszavonására vonatkozó szabályokat;
 
 34. az élelmiszerekkel érintkezésbe kerülő anyagok felhasználásának szabályait;
 
@@ -152,7 +152,7 @@ a)
 
 b) az élelmiszerek mikrobiológiai szennyezettségének megengedhető mértékét, valamint a radioaktív és vegyi szennyezettséggel kapcsolatos előírásokat;
 
-c) az új élelmiszerek közösségi engedélyezésével kapcsolatos eljárási rendelkezéseket.
+c)
 
 (5) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 

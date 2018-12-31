@@ -6,7 +6,7 @@ a) a 28. § d) pontja és a 32. § (1) bekezdés f) pontja szerinti mentesítés
 
 b) a 18. § (1) bekezdés f) és h) pontja, valamint (4) bekezdése szerinti bejelentések nyomonkövetését,
 
-c) az e törvény végrehajtására kiadott jogszabályokban meghatározott fogékony állatok fajok és korcsoportok szerinti összeírását,
+c) az e törvény végrehajtására kiadott jogszabályokban meghatározott fertőző állatbetegségekre fogékony állatoknak fajok és korcsoportok szerinti összeírását, a 34. § (3) bekezdés a) pontja szerinti összeírását (cenzus),
 
 d) a DATAVET naprakész működtetését,
 

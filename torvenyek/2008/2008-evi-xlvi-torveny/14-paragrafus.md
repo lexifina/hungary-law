@@ -20,6 +20,6 @@
 
 (9) A 13. § rendelkezéseinek betartásáért a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott reklámozó felel.
 
-(10) A törvény hatálya alá tartozó termék forgalmazását, szállítását vagy raktározását végző személy felelős a termék biztonságosságáért és minőségéért, amennyiben a felelős személye az (1)–(9) bekezdésben meghatározottak szerint nem állapítható meg.
+(10) A 14/A. §-ban foglaltakért a termék előállítója, nem hazai előállítású termék esetében az első magyarországi forgalomba hozó felelős. A 14/A. §-ban foglaltakért a termék forgalmazója is felelős, ha a 14/A. § (2) vagy (4) bekezdése szerinti hibát ő okozta, vagy az általa felismerhető lett volna.
 
-(11) A 14/A. § (2) és (4) bekezdésében meghatározott termék forgalomba hozataláért az előállító, nem hazai előállítású termék esetében az első magyarországi forgalomba hozó felelős.
+(11) A törvény hatálya alá tartozó termék forgalmazását, szállítását vagy raktározását végző személy felelős a termék biztonságosságáért, minőségéért és jelöléséért, amennyiben a felelős személye az (1)–(10) bekezdésben meghatározottak szerint nem állapítható meg.

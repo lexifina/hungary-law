@@ -24,7 +24,7 @@ j) állatának az e törvény végrehajtására kiadott jogszabályban meghatár
 
 (2) Az (1) bekezdés f) pontjában meghatározott kötelezettség vonatkozik
 
-a) az állattenyésztésre, szaporításra, vadászatra, halászatra jogosult személyre, illetve szervezet vezetőjére; továbbá arra, aki
+a) az állattenyésztésre, szaporításra, vadászatra, halgazdálkodásra jogosult személyre, illetve szervezet vezetőjére; továbbá arra, aki
 
 b) a tulajdonos képviseletében az állattartó telepet (üzemet) vezeti;
 

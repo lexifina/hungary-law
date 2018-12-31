@@ -32,7 +32,7 @@ l) elkülönített vagy zárt vágás;
 
 m) állatleölés (leöletés);
 
-n) fertőzésközvetítő anyag, eszköz, tárgy, élelmiszer, takarmány, állati eredetű melléktermék, állati eredetű termék ártalmatlanná tétele;
+n) fertőzésközvetítő anyag, eszköz, tárgy, élelmiszer, takarmány, állati eredetű melléktermék gyűjtése, szállítása és ártalmatlanná tétele, valamint állati eredetű termék ártalmatlanná tétele;
 
 o) fertőtlenítés;
 

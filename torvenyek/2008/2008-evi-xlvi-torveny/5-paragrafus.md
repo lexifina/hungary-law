@@ -22,6 +22,6 @@ c) a növények, illetve a növényi eredetű élelmiszer közvetlenül emberi f
 
 (5) Növények termesztése során növénytáplálási, illetve talajvédelmi céllal csak az e törvény végrehajtására kiadott jogszabályban meghatározott mértéket meg nem haladó szennyezőanyag-tartalmú termésnövelő anyag használható fel.
 
-(6) Engedélyköteles terméket Magyarországon csak az élelmiszerlánc-felügyeleti szerv által kiadott engedély alapján, e törvény végrehajtására kiadott jogszabály szerint lehet forgalomba hozni és felhasználni.
+(6) Engedélyköteles terméket Magyarországon csak az élelmiszerlánc-felügyeleti szerv által kiadott engedély alapján, vagy az élelmiszerlánc-felügyeleti szerv általi nyilvántartásba vételt követően, e törvény végrehajtására kiadott jogszabály szerint lehet forgalomba hozni és felhasználni.
 
 (7)

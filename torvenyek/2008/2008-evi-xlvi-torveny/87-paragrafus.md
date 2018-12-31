@@ -32,7 +32,7 @@ E törvény alkalmazásában:
 
 12. élelmiszer-higiénia: a 852/2004/EK rendelet 2. cikkének a) pontja szerinti fogalom;
 
-13. élelmiszer-jelölés: az 1169/2011/EU rendelet 2. cikk (2) bekezdés j) pontja szerinti fogalom;
+13. élelmiszer-jelölés: az 1169/2011/EU rendelet 2. cikk (2) bekezdés j) pontja szerinti fogalom továbbá távértékesítés esetén ezen kívül a távértékesítést elősegítő anyagban, vagy más megfelelő, az élelmiszer-vállalkozó által egyértelműen meghatározott eszközökön szereplő, az élelmiszerre vonatkozó bármilyen szöveg, adat, védjegy, márkanév, ábra vagy szimbólum;
 
 14. élelmiszer-csomagolóanyag: olyan anyag, amelyet az élelmiszerek burkolására, megóvására, kezelésére, szállítására használnak az élelmiszerlánc bármely szakaszában;
 
@@ -52,11 +52,13 @@ E törvény alkalmazásában:
 
 21. élelmiszerlánc: azon folyamatok összessége, melyek szereplői közvetlen vagy közvetett hatással vannak az élelmiszerre a talajvédelem, agrár-környezetvédelem, növénytermesztés, növény-egészségügy, növényvédelem, az engedélyköteles termék és az állatgyógyászati termék előállítása, forgalomba hozatala és felhasználása, az élelmiszer- és takarmány-előállítás, szállítás, tárolás és forgalomba hozatal, felhasználás, az állat tartása, szállítása, forgalomba hozatala, az állat-egészségügy, a növényi és állati eredetű melléktermék kezelés, tárolás, szállítás, forgalomba hozatal és felhasználás során;
 
+21/A. élelmiszerlánc szereplő: az e jogszabály által meghatározott személy, továbbá bármely más személy vagy szervezet, aki/amely az élelmiszerláncban termeléssel, előállítással, feldolgozással, tárolással, szállítással, forgalomba hozatallal vagy felhasználással összefüggő tevékenységet folytat.
+
 22. élelmiszerlánc-esemény: az élelmiszerláncban bekövetkező olyan e törvény hatálya alá tartozó esemény, mely az élelmiszerlánc-felügyeleti szerv hatósági intézkedését teszi szükségessé;
 
 23. elsődleges termelés: a 178/2002/EK rendelet 3. cikk 17. pontja szerinti meghatározás,
 
-24. engedélyköteles termék: a növényvédő szer, növényvédőszer-hatóanyag, -adalékanyag, -segédanyag, a növényvédelmi hatású termék, a növényvédelmi célú eszköz és anyag (a műszerek kivételével), valamint a termésnövelő anyag (kivéve az EK-műtrágyát), engedélyköteles továbbá az alkalmazás célja szerint ezekre visszavezethető egyéb termék, amelynek forgalomba hozatala és felhasználása engedélyhez kötött;
+24. engedélyköteles termék: a növényvédő szer, növényvédőszer-adalékanyag, -segédanyag, a növényvédelmi hatású termék, a növényvédelmi célú eszköz és anyag (a műszerek kivételével), valamint a termésnövelő anyag, amelynek forgalomba hozatala és felhasználása engedélyhez vagy nyilvántartásba vételhez kötött;
 
 25. feldolgozás: a 852/2004/EK rendelet 2. cikkének m) pontja szerinti fogalom;
 
@@ -65,6 +67,8 @@ E törvény alkalmazásában:
 27. feldolgozott termék: a 852/2004/EK rendelet 2. cikkének o) pontja szerinti fogalom;
 
 28. felhasználó: a végső fogyasztó, valamint az élelmiszert tevékenységéhez felhasználó élelmiszer-vállalkozás;
+
+28/A. FELIR felhasználó: aki a FELIR-t feladatai ellátásához használja.
 
 29. forgalomba hozatal: az élelmiszerek vagy takarmányok tekintetében a 178/2002/EK rendelet 3. cikkének 8. pontja szerinti fogalom, egyéb esetben a termék készentartása eladás céljára, beleértve az eladásra való felkínálását vagy ingyenes vagy ellenérték fejében történő átadásának bármely egyéb formáját, valamint az eladását, forgalmazását vagy átadásának egyéb módját;
 
@@ -75,6 +79,8 @@ E törvény alkalmazásában:
 30/B. gyógynövény termék: olyan vadon termett vagy termesztett – az e törvény végrehajtására kiadott rendeletben meghatározott – növény vagy növény feldolgozásával előállított – külön jogszabály szerint gyógyszernek nem minősülő – előnyös élettani hatással rendelkező termék, amelyet emberi fogyasztásra szánnak, illetve amelyet várhatóan emberek fogyasztanak el;
 
 31. gyógyszeres takarmány: olyan takarmány, amely az állatgyógyászati készítményekre vonatkozó jogszabályokban meghatározott anyagot is tartalmaz;
+
+31/A. halgazdálkodási akvakultúra: vízi szervezetek olyan tartása vagy tenyésztése, amelynek során e szervezetek szaporodását (növekedését) a környezet természetes eltartóképességét meghaladó mértékben növelő technológiákat alkalmaznak, és amelyben e szervezetek a tartási vagy a tenyésztési szakaszokban – a lehalászással bezárólag – egy vagy több természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet tulajdonában maradnak;
 
 32. harmadik ország: az Európai Unión kívüli ország;
 
@@ -96,9 +102,15 @@ E törvény alkalmazásában:
 
 39/A. közétkeztetés: olyan vendéglátó tevékenység, amelynek során fogyasztók meghatározott csoportját vendéglátó ipari termékekkel, többnyire előre megrendelés alapján, a nap egy-egy meghatározott időszakában, meghatározott időtartamban látnak el, különösen oktatási, gyermek-, szociális, egészségügyi-, bentlakásos intézményben, táborban és munkahelyen;
 
-40. laboratórium: az élelmiszerlánc bármely szakaszában fizikai, kémiai, biológiai komponensek, radioaktív szennyezők vizsgálatát, így különösen analitikai, virológiai, szerológiai, géntechnológiával módosított szervezet, mikrobiológiai, mikológiai, enthomológiai, károsító-diagnosztikai, toxikológiai vagy radiológiai vizsgálatot, továbbá egyéb, az élelmiszerek és takarmányok biztonságosságát, illetve az élelmiszerekre és takarmányokra vonatkozó minőségi előírásoknak való megfelelését ellenőrző vizsgálatot végző laboratórium;
+40. laboratórium: az élelmiszerlánc bármely szakaszában fizikai, kémiai, biológiai komponensek, radioaktív szennyezők vizsgálatát, így különösen analitikai, virológiai, szerológiai, géntechnológiával módosított szervezet, mikrobiológiai, mikológiai, entomológiai, károsító-diagnosztikai, toxikológiai vagy radiológiai vizsgálatot, továbbá egyéb, az élelmiszerek és takarmányok biztonságosságát, illetve az élelmiszerekre és takarmányokra vonatkozó minőségi előírásoknak való megfelelését ellenőrző vizsgálatot végző laboratórium, ide nem értve a termelési folyamat részeként mérési pontként működtetett vagy azt kiszolgáló vizsgálati feladatokat ellátó, vagy elkülönített mátrixon mintavételt, illetve vizsgálati tevékenységet végző laboratóriumot;
 
 40/A. létesítmény: a 852/2004/EK rendelet 2. cikk (1) bekezdés c) pontja szerinti fogalom;
+
+40/B. nem állam által működtetett laboratórium: olyan laboratórium, amely a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) kijelölése hiányában hatósági intézkedést megalapozó vizsgálatot nem végez;
+
+40/C. szolgáltató laboratórium: olyan nem állami laboratórium, amely vizsgálati eredményeit ingyenes vagy térítéses formában egyéb, azonos csoportos adószám alá nem tartozó vállalkozás számára készíti el;
+
+40/D. üzemi laboratórium: olyan nem állami laboratórium, amely vizsgálati eredményeit kizárólag a fenntartó vállalkozás és az ezzel azonos csoportos adószám alá tartozó vállalkozások önellenőrzési rendszereiben használja fel, és amely szolgáltatásként nem végez vizsgálatot;
 
 41. szolgáltató állatorvos: a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló törvény szerinti állat-egészségügyi szolgáltató tevékenység végzésére jogosult állatorvos;
 
@@ -192,7 +204,7 @@ hoznak;
 
 66. tiltott anyagok: olyan anyagok, amelyeket takarmány vagy élelmiszer nem tartalmazhat az állatok, illetve az ember egészségének vagy a környezet veszélyeztetése vagy károsítása miatt;
 
-67. új élelmiszer: az új élelmiszerekről és az új élelmiszer-összetevőkről szóló, az Európai Parlament és a Tanács 1997 január 27-i 258/97/EK rendelet 1. cikkének (2) bekezdésében meghatározott fogalom;
+67. új élelmiszer: az új élelmiszerekről, az 1169/2011/EU európai parlament és tanácsi rendelet módosításáról, valamint a 258/97/EK európai parlament és tanácsi rendelet és az 1852/2001/EK bizottsági rendelet hatályon kívül helyezéséről szóló, az Európai Parlament és Tanács 2015. november 25-i 2015/2283 rendelet 3. cikkének (2) bekezdésének a) pontjában meghatározott fogalom;
 
 68. új takarmány: sem határozott, sem határozatlan időtartamra szóló engedéllyel nem rendelkező, az e törvény végrehajtására kiadott jogszabályban, illetve az Európai Unió kötelező jogi aktusában foglaltak szerint engedélyköteles takarmány;
 
