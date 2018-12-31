@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-144-00-00
 | 2017-12-12 | 2017. évi CCIV. törvény | 2016-144-00-00.7 |
 | 2018-07-01 | 2017. évi CXLV. törvény | 2016-144-00-00.8 |
 | 2018-07-02 | 2010. évi CXXX. törvény | 2016-144-00-00.9 |
+| 2018-12-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-144-00-00.10 |
