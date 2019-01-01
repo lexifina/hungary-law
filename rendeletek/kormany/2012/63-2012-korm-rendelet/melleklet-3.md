@@ -8,6 +8,6 @@
 
 | 3. | az előzésre vonatkozó szabályok (amennyiben a Szabs. tv. 219. §-ában meghatározott közúti közlekedés rendjének megzavarása szabálysértés nem állapítható meg) | KRESZ 14. § (1) bekezdés f) és g) pontja; 34. § (8) bekezdés | 10 000 | 20 000 |
 
-3. melléklet a 63/2012. (IV. 2.) Korm. rendelethez[^5]
+3. melléklet a 63/2012. (IV. 2.) Korm. rendelethez[^6]
 
-[^5]: A 3. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^6]: A 3. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
