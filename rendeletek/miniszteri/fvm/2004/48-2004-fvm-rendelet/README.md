@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-48-20-8
 | 2017-12-17 | 2004-48-20-82.24 | 16/2011. (III. 2.) VM rendelet |
 | 2018-06-27 | 2004-48-20-82.25 | 4/2018. (VI. 22.) AM rendelet |
 | 2018-09-01 | 2004-48-20-82.26 | 16/2011. (III. 2.) VM rendelet |
+| 2019-01-01 | 2004-48-20-82.27 | 44/2018. (XII. 20.) AM rendelet |

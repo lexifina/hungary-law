@@ -1,10 +1,10 @@
-33. § (1)[^81] Ha a vetőmag-előállító a növényállomány szántóföldi ellenőrzésének eredményével nem ért egyet, az ellenőrzést követő 24 órán belül a NÉBIH-nél írásban ellenőrzés-felülvizsgálatot kérhet. A minősítés-felülvizsgálat megtörténtéig a növényállományban semmiféle tevékenységet – így különösen szelekciót, gyomirtást, növényvédelmi tevékenységet – nem szabad folytatni, illetve végezni.
+## 32. §[^81]
 
-(2) Nem kérhető felülvizsgálat olyan esetekben, ha a kizárás helyrehozhatatlan – fajtatisztaságot veszélyeztető – hiba, például idegen beporzás miatt történt.
+33. §[^82] (1) Ha a vetőmag-előállító a növényállomány szántóföldi ellenőrzésének eredményével nem ért egyet, és az ellenőrzést követő 24 órán belül minősítés-felülvizsgálatot kezdeményez, annak megtörténtéig a növényállományban semmiféle tevékenység – ideértve a szelekciót, a gyomirtást, a növényvédelmi tevékenységet – nem folytatható vagy végezhető. A szántóföldi minősítés-felülvizsgálatra a NÉBIH szántóföldi ellenőrzésre vonatkozó szabályzata irányadó.
 
-(3)[^82] A NÉBIH köteles a bejelentő szántóföldi ellenőrzéssel kapcsolatos kifogását előzetes értesítés mellett a bejelentéstől számított 72 órán belül megvizsgálni.
+(2) Nem kérhető felülvizsgálat olyan esetekben, ha a kizárás helyrehozhatatlan – fajtatisztaságot veszélyeztető – hiba miatt történt, ideértve az idegen beporzást is.
 
-(4) A felülvizsgálat költségei a vetőmag-előállítót terhelik, kivéve, ha a minősítés módosítására a minősítő hibájából kerül sor.
+(3) Az (1) bekezdés szerinti felülvizsgálat költségei a vetőmag-előállítót terhelik, kivéve, ha a minősítés módosítására a minősítő hibájából kerül sor.
 
-[^81]: A 33. § (1) bekezdése a 45/2008. (IV. 11.) FVM rendelet 14. § (2) bekezdése, a 67/2012. (VII. 10.) VM rendelet 6. § (9) bekezdése szerint módosított szöveg.
-[^82]: A 33. § (3) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^81]: A 32. §-t a 44/2018. (XII. 20.) AM rendelet 11. § c) pontja hatályon kívül helyezte.
+[^82]: A 33. § a 44/2018. (XII. 20.) AM rendelet 5. §-ával megállapított szöveg.

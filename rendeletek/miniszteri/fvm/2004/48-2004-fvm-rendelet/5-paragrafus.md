@@ -2,9 +2,9 @@
 
 5. § (1)[^23] Átmeneti és az Európai Unión belül ki nem küszöbölhető vetőmaghiány esetén engedélyezhető a Nemzeti Fajtajegyzékben és a Közösségi Fajtajegyzékben nem szereplő fajta vetőmagjának, illetve az e rendeletben foglaltaknak meg nem felelő vetőmag átmeneti forgalomba hozatala.
 
-(2)[^24] Az (1) bekezdés szerinti engedély iránti kérelmet a NÉBIH-hez írásban kell benyújtani.
+(2)[^24]
 
-(3)[^25] A NÉBIH egyetértése esetén a kérelmet – az (5) bekezdés szerinti eset kivételével – az Európai Unió Mezőgazdasági, Kertészeti és Erdészeti Vetőmagok és Szaporítóanyagok Állandó Bizottságának (a továbbiakban: Állandó Bizottság) továbbítja. Az engedélyről a NÉBIH támogató előterjesztését elbírálva az Állandó Bizottság dönt.
+(3)[^25] A NÉBIH egyetértése esetén az (1) bekezdés szerinti engedély iránti kérelmet – az (5) bekezdés szerinti eset kivételével – az Európai Unió Mezőgazdasági, Kertészeti és Erdészeti Vetőmagok és Szaporítóanyagok Állandó Bizottságának (a továbbiakban: Állandó Bizottság) továbbítja. Az engedélyről a NÉBIH támogató előterjesztését elbírálva az Állandó Bizottság dönt.
 
 (4)[^26] A NÉBIH az Állandó Bizottság engedélyező döntését követően jogosult az engedményezett vetőmagtétel – a szaporítási fok által meghatározott címke színének megfelelő – címkéjét kiállítani, amelyen minden esetben fel kell tüntetni az engedményezés tényét, továbbá, hogy a vetőmag kevésbé szigorú követelményeknek felel meg.
 
@@ -15,8 +15,8 @@
 (7)[^29] A 217/2006/EK rendelet 2. cikkének (1) bekezdése szerinti kapcsolattartó pont Magyarország tekintetében a NÉBIH.
 
 [^23]: Az 5. § (1) bekezdése a 16/2011. (III. 2.) VM rendelet 4. §-ával megállapított szöveg.
-[^24]: Az 5. § (2) bekezdése a 45/2008. (IV. 11.) FVM rendelet 14. § (2) bekezdése, a 67/2012. (VII. 10.) VM rendelet 6. § (5) bekezdése szerint módosított szöveg.
-[^25]: Az 5. § (3) bekezdése a 70/2006. (IX. 27.) FVM rendelet 4. § (2) bekezdésével megállapított, a 16/2011. (III. 2.) VM rendelet 32. § e) pontja, a 67/2012. (VII. 10.) VM rendelet 6. § (2) és (3) bekezdése szerint módosított szöveg.
+[^24]: Az 5. § (2) bekezdését a 44/2018. (XII. 20.) AM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^25]: Az 5. § (3) bekezdése a 70/2006. (IX. 27.) FVM rendelet 4. § (2) bekezdésével megállapított, a 16/2011. (III. 2.) VM rendelet 32. § e) pontja, a 67/2012. (VII. 10.) VM rendelet 6. § (2) és (3) bekezdése, a 44/2018. (XII. 20.) AM rendelet 10. § a) pontja szerint módosított szöveg.
 [^26]: Az 5. § (4) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (3) bekezdése szerint módosított szöveg.
 [^27]: Az 5. § (5) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (3) bekezdése, a 24/2016. (IV. 8.) FM rendelet 24. § c) pontja szerint módosított szöveg.
 [^28]: Az 5. § (6) bekezdését a 70/2006. (IX. 27.) FVM rendelet 4. § (3) bekezdése iktatta be, szövege a 16/2011. (III. 2.) VM rendelet 32. § f) pontja, a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.

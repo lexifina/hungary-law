@@ -10,7 +10,7 @@ c) megfelelő: 3,
 
 d) gyenge: 2.
 
-(3)[^69] Ha a tábla mérete szerint kijelölt mintaterek felében a faj-, illetve a fajtatisztasági vizsgálat eredményei a bírált fokra megengedett határértéket 100%-kal meghaladják, a vizsgálat tovább nem folytatható, a szaporító tábla növényállományát alkalmatlannak kell minősíteni.
+(3)[^70] Ha a tábla mérete szerint kijelölt mintaterek felében a faj-, illetve a fajtatisztasági vizsgálat eredményei a bírált fokra megengedett határértéket 100%-kal meghaladják, a vizsgálat tovább nem folytatható, a szaporító tábla növényállományát alkalmatlannak kell minősíteni.
 
 (4) A mintatereken a név szerint felsorolt idegen fajú növényeket darabszám szerint kell megállapítani és feljegyezni. A végső minősítő vizsgálaton csak azokat kell figyelembe venni, amelyek a szaporított növényállomány betakarításának idejére magot (termést) érlelhetnek.
 
@@ -24,11 +24,11 @@ c) közepes mértékű és 2-es minősítő számmal értékelendő a gyomosság
 
 d) erős a gyomosság akkor, ha a gyomnövények a talaj felszínét 30%-nál nagyobb mértékben borítják és a gyomfejlettség a minősítést akadályozza; az ilyen szaporítás növényállományát – 3-as minősítő számmal értékelve – alkalmatlannak kell minősíteni.
 
-(6)[^70] A támasztónövényes vetőmag-szaporítás esetén a támasztónövény
+(6)[^71] A támasztónövényes vetőmag-szaporítás esetén a támasztónövény
 
 a) nem számít idegen fajnak vagy gyomnak a mintatereken,
 
 b) nem akadályozhatja a vetőmag-szaporítás céljából termesztett növényállomány ellenőrzését.
 
-[^69]: A 23. § (3) bekezdése a 24/2016. (IV. 8.) FM rendelet 24. § h) pontja szerint módosított szöveg.
-[^70]: A 23. § (6) bekezdését a 24/2016. (IV. 8.) FM rendelet 15. §-a iktatta be.
+[^70]: A 23. § (3) bekezdése a 24/2016. (IV. 8.) FM rendelet 24. § h) pontja szerint módosított szöveg.
+[^71]: A 23. § (6) bekezdését a 24/2016. (IV. 8.) FM rendelet 15. §-a iktatta be.

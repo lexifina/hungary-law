@@ -1,4 +1,4 @@
-3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^205]
+3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^202]
 
 A takarmánynövény-vetőmagvak forgalomba hozatali feltételei
 
@@ -36,7 +36,7 @@ A. rész
 
 | 13. | Fonalas csenkesz (Festuca filiformis Pourr) | Szuperelit, Elit, I. szaporítási fok |
 
-| 14. | Hibrid perje (Lolium x hybridum Hausskn) | Szuperelit, Elit, I. szaporítási fok |
+| 14. | Hibrid perje (Lolium x boucheanum Kunth) | Szuperelit, Elit, I. szaporítási fok |
 
 | 15. | Juhcsenkesz (Festuca ovina L.) | Szuperelit, Elit, I. szaporítási fok |
 
@@ -684,7 +684,7 @@ I. Mintavétel
 
 | 1. | Faj | Egy tétel legnagyobb tömege (tonna) | Kiszerelt csomagolási egységek tömege legfeljebb (kg) | Alapminta legalább (kg) | Laboratóriumi minta legalább (g) | Tisztaság vizsgálati minta legalább (g) | Idegen magvizsgálati minta (g) |
 
-| 2. | Fűfélék |
+| 2. | Fűfélék1 |
 
 | 3. | Alaszkai rozsnok (Bromus sitchensis) | 10 | 5 | 5 | 200 | 20 | 200 |
 
@@ -708,7 +708,7 @@ I. Mintavétel
 
 | 13. | Fonalas csenkesz (Festuca filiformis) | 10 | 5 | 2 | 100 | 2,5 | 30 |
 
-| 14. | Hibrid perje (Lolium x hybridum Hausskn) | 10 | 5 | 5 | 200 | 6 | 60 |
+| 14. | Hibrid perje (Lolium x boucheanum Kunth) | 10 | 5 | 5 | 200 | 6 | 60 |
 
 | 15. | Juhcsenkesz (Festuca ovina) | 10 | 5 | 2 | 100 | 2,5 | 30 |
 
@@ -814,6 +814,8 @@ I. Mintavétel
 
 A tétel maximális tömege nem haladható meg több mint 5%-kal.
 
+1. A tétel maximális tömege 25 tonnára növelhető, amennyiben a szállító erre vonatkozó engedélyt kapott az illetékes hatóságtól.
+
 II. Vetőmagvizsgálati követelmények és minősítési határértékek
 
 1. A forgalomba hozott vetőmagtételeknek meg kell felelniük az alább felsorolt feltételeknek. A vetőmagvizsgálat a vonatkozó magyar módszertani szabványok szerint történik.
@@ -858,7 +860,7 @@ II. Vetőmagvizsgálati követelmények és minősítési határértékek
 
 | 14. | Fonalas csenkesz (Festuca filiformis) | 75 |  | 85 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
 
-| 15. | Hibridperje (Lolium x hybridum Hausskn) | 75 |  | 96 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
+| 15. | Hibrid perje (Lolium x boucheanum Kunth) | 75 |  | 96 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
 
 | 16. | Juhcsenkesz (Festuca ovina) | 75 |  | 85 | 0,3 | 20 (a) | 5 | 5 |  |  |  | 0 | 0 | 2 |  | 14 | – |
 
@@ -1012,4 +1014,4 @@ f) A Lupinuis spp.-hez tartozó fajtákban a keserű magok százalékban kifejez
 
 1.2.2.1. Táblázat:
 
-[^205]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése, az 57/2017. (XII. 14.) FM rendelet 3. §-a, a 24/2018. (VIII. 31.) AM rendelet 4–5. §-a szerint módosított szöveg.
+[^202]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése, az 57/2017. (XII. 14.) FM rendelet 3. §-a, a 24/2018. (VIII. 31.) AM rendelet 4–5. §-a, a 44/2018. (XII. 20.) AM rendelet 9. §-a és 10. § e)–i) pontja szerint módosított szöveg.
