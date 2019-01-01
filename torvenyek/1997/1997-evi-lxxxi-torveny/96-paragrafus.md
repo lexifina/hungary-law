@@ -60,11 +60,13 @@ d) az egészségügyi ellátást nyújtó szervek (személyek) az egészségügy
 
 e) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalai és a cégbíróságok külön törvényben meghatározottak,
 
-f) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése céljából az a), d) és f) pont,
+f) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése, valamint a menekültügyi eljárás során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a (2) bekezdés a), d) és f) pontja,
 
 g) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából az a)–e) pontjai,
 
-h) az állami szakképzési és felnőttképzési szerv a pályakövetési rendszer működtetése céljából a d) pont
+h) az állami szakképzési és felnőttképzési szerv a pályakövetési rendszer működtetése céljából a d) pont,
+
+i) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók esetében a (2) bekezdés a), c), valamint a g)–h) pont
 
 szerinti adatok igénylésére jogosultak.
 
@@ -80,7 +82,7 @@ szerinti adatok igénylésére jogosultak.
 
 (8) Az érintett személy vagy képviselője a nyugdíjbiztosítási igazgatási szervek által vezetett nyilvántartásba betekinthet, kérelmére a róla nyilvántartott adatokról a nyugdíjbiztosítási igazgatási szerv kivonatot állít ki.
 
-(9)
+(9) A központi nyugdíjbiztosítási szerv a szociális hatáskörben, valamint gyermekvédelmi és gyámügyi hatáskörben eljáró járási hivatal, valamint a települési önkormányzat jegyzője mint gyámhatóság részére a pénzbeli és természetbeni szociális és a gyermekvédelmi ellátások megállapítása céljából közvetlen hozzáférést biztosít a (2) bekezdés a) és h) pontja alapján nyilvántartott adatokat tartalmazó – külön e célra kialakított – adatbázishoz.
 
 (10) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a nyugdíjbiztosítási igazgatási szervek által e törvény szerint kezelt személyes és különleges adatokat.
 

@@ -26,7 +26,7 @@ a) az álláskeresési járadék, a munkanélküli-járadék, a vállalkozói j�
 
 b) a gyermekgondozást segítő ellátás, gyermekgondozási segély, a gyermeknevelési támogatás és a gyermekgondozási díj összegét,
 
-c) a nyugdíjjárulék-köteles szociális és gyermekvédelmi ellátások (gyermeknevelési támogatás, ápolási díj) összegét,
+c) a nyugdíjjárulék-köteles szociális és gyermekvédelmi ellátások (gyermekek otthongondozási díja, ápolási díj) összegét,
 
 d) a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény (a továbbiakban: Péptv.) 3–5. §-a szerinti prémiumévek program, illetve különleges foglalkoztatási állomány keretében járó juttatás összegét,
 

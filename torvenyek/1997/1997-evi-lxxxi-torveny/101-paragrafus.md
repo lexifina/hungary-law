@@ -32,7 +32,7 @@ m)
 
 n) a kivételes nyugellátás megállapításának, továbbá a kivételes nyugdíjemelés és az egyszeri segély engedélyezésének részletes szabályait,
 
-o) a 18. § (2b)–(2c) bekezdés szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonyokat, valamint a gyermekgondozást segítő ellátásban vagy súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekre tekintettel megállapított ápolási díjban eltöltött idővel szerzett jogosultsági idővel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati időket;
+o) a 18. § (2b)–(2c) bekezdés szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonyokat, valamint a gyermekgondozást segítő ellátásban vagy a gyermekek otthongondozási díjában eltöltött idővel szerzett jogosultsági idővel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati időket;
 
 p) az özvegyi járadék számítására vonatkozó szabályokat;
 
