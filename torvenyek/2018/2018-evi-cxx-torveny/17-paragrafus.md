@@ -1,0 +1,3 @@
+17. § A NEFE törvény 15. §-a helyébe a következő rendelkezés lép:
+
+„15. § A külpolitikáért felelős miniszter a nemzetközi fejlesztési együttműködés, az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter a nemzetközi humanitárius segítségnyújtás vonatkozásában minden év október 31-ig jelentést készít a Kormány részére az előző évi tevékenységről. A jelentést, annak Kormány általi elfogadását követően, a külpolitikáért felelős miniszter, illetve a az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter az általa vezetett minisztérium honlapján nyilvánosságra hozza.”
