@@ -6,6 +6,7 @@
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézés lehetőségét egységes személyre szabott ügyintézési felületen és közvetlenül a Szellemi Tulajdon Nemzeti Hivatalának internetes honlapján üzemeltetett elektronikus ügyintézési rendszeren keresztül biztosítja.
 
-(3) Az elektronikus űrlap díjtalanul érhető el. Az ügyfél vagy képviselője az általa kitöltött és elektronikus úton benyújtott iparjogvédelmi beadványt az annak beérkeztét követően megjelenített kapcsolati mutatón (linken) tekintheti meg és töltheti le; a Szellemi Tulajdon Nemzeti Hivatala a beérkezett iparjogvédelmi beadványt az ügyfél elektronikus levélcímére nem küldi vissza.
+(3)[^2] Az elektronikus űrlap díjtalanul érhető el.
 
 [^1]: Az 1. § a 477/2016. (XII. 27.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (3) bekezdése a 220/2018. (XI. 27.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-147-20-
 | 2014-05-08 | 2007-147-20-22.8 | 138/2014. (IV. 30.) Korm. rendelet |
 | 2015-01-01 | 2007-147-20-22.9 | 371/2014. (XII. 30.) Korm. rendelet |
 | 2017-01-01 | 2007-147-20-22.10 | 477/2016. (XII. 27.) Korm. rendelet |
+| 2019-01-01 | 2007-147-20-22.11 | 220/2018. (XI. 27.) Korm. rendelet |

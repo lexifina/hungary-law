@@ -1,16 +1,3 @@
-7. § (1) Az iparjogvédelmi beadvány benyújtására szolgáló elektronikus űrlaphoz a következő mellékletek kizárólag az e rendelet mellékletének 2. pontjában meghatározott, képi elemek megjelenítésére is alkalmas adatmegjelenítési formátumban csatolhatók:
+## 6. §[^9] Az iparjogvédelmi beadvány benyújtására szolgáló elektronikus űrlaphoz kizárólag az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet (a továbbiakban: Eürkr.) 1. mellékletében meghatározott, kötelezően elfogadandó formátumú, valamint az Eürkr. 17. § (2) bekezdése alapján közzétett formátumú mellékletek csatolhatók.
 
-a) szabadalmi bejelentés esetén – a (4) bekezdésben meghatározott kivétellel – a leírás egy vagy több igényponttal, a kivonat és az elsőbbségi irat;
-
-b)[^13] európai szabadalmi bejelentés igénypontjainak fordítása és e fordítás kijavítása esetén az igénypontok; európai szabadalom szövegének fordítása és e fordítás kijavítása esetén – a (4) bekezdésben meghatározott kivétellel – a leírás egy vagy több igényponttal;
-
-c)[^14] használatiminta-oltalmi bejelentés esetén a leírás egy vagy több igényponttal és az elsőbbségi irat.
-
-(2)–(3)[^15]
-
-(4)[^16] A szabadalmi leírás külön részeként elkészítendő szekvencialista, illetve az arra vonatkozó táblázat kizárólag az e rendelet mellékletének 3. pontjában meghatározott szövegszerű adatmegjelenítési formátumban csatolható.
-
-[^13]: A 7. § (1) bekezdésének új b) pontját a 159/2009. (VII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be, egyidejűleg az eredeti b) pont megjelölését c) pontra változtatva.
-[^14]: A 7. § (1) bekezdése eredeti b) pontjának megjelölését c) pontra változtatta a 159/2009. (VII. 30.) Korm. rendelet 3. § (1) bekezdése, szövege a 477/2016. (XII. 27.) Korm. rendelet 39. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^15]: A 7. § (2)–(3) bekezdését a 341/2010. (XII. 28.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
-[^16]: A 7. § (4) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^9]: A 6. § a 220/2018. (XI. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
