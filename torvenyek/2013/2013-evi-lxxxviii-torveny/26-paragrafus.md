@@ -22,7 +22,7 @@ b) az Rtv. szerinti titkos információgyűjtést folytathat, illetve
 
 c) nemzetközi körözést rendelhet el.
 
-(4) A körözési eljárást lefolytató szerv a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 117. és 139. §-a alapján elrendelt körözés végrehajtása során
+(4) A körözési eljárást lefolytató szerv a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 117. §-a, 139. §-a és 178/B. §-a alapján elrendelt körözés végrehajtása során
 
 a) az Rtv. 29–30. §-a, 32–33. §-a, 35/A. §-a, 38–41. §-a, 42. § (1) bekezdése, valamint 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja, illetve
 

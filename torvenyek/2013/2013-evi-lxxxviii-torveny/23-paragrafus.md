@@ -14,4 +14,4 @@ c) kiskorú esetében a kiskorú utolsó ismert lakóhelye szerinti illetékes g
 
 (4) Ha az eltűntnek nyilvánított személy bármely magyar hatóságnál vagy külképviseletnél kétséget kizáró módon igazolja személyazonosságát, írásban nyilatkoztatni kell arról, hogy hozzájárul-e az általa közölt tartózkodási helyének a (2) bekezdés a) és b) pontjában meghatározott személyekkel történő közléséhez, majd haladéktalanul értesíteni kell az (1) bekezdés szerinti, eltűntnek nyilvánító szervet. A nyilatkozat megtagadását az adatközléshez való hozzájárulás megtagadásának kell tekinteni.
 
-(5) A (4) bekezdésben meghatározott esetben az (1) bekezdés szerinti, eltűntnek nyilvánító szerv az eltűntnek nyilvánító határozatot visszavonja, és erről a nyilvántartót értesíti.
+(5) A (4) bekezdésben meghatározott esetben az (1) bekezdés szerinti, eltűntnek nyilvánító szerv az eltűntnek nyilvánító határozatot visszavonja és ezzel egyidejűleg a körözés visszavonásáról is intézkedik.

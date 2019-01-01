@@ -12,6 +12,8 @@
 
 (3a) Ha az NBSZ a személyazonosítást elősegítő informatikai rendszere üzemeltetése során olyan találatot észlel, amely olyan körözött személy azonosítását segíti elő, akinek az adatai közérdekből nyilvánosak és a találat jelzése a 8. § (6) bekezdése szerinti egyedi ügy érdekeit nem sérti, a rendszer értesíti a körözési eljárást lefolytató szervet a találatról.
 
+(3b) Ha az idegenrendészeti hatóság és a menekültügyi hatóság a személyazonosítást elősegítő informatikai rendszere üzemeltetése során találatot észlel, értesíti a körözési eljárást lefolytató szervet.
+
 (4) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv, az útlevélhatóság és a központi közúti közlekedési nyilvántartó szerv okmány kiadásával kapcsolatos eljárás során ellenőrzi a körözött személyek nyilvántartását. Ha a szerv az ügyfelet a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget elektronikus úton értesíti.
 
 (4a) Jogszabály alapján állampolgársági bizonyítvány, honosítási okirat kiadására feladat- és hatáskörrel rendelkező szerv eljárása során a kérelmezővel és a kérelmező által felhasznált okmánnyal kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában és a körözött dolgok nyilvántartásában. Ha az eljáró szerv az ügyfelet a körözött személyek nyilvántartásában, illetve az ügyfél által az eljárás során felhasznált okmányt a körözött dolgok nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.

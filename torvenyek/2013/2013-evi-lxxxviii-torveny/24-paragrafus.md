@@ -10,6 +10,6 @@
 
 (5) A rendőrség szervei hatáskörtől és illetékességtől függetlenül gondoskodnak a körözött személlyel vagy dologgal kapcsolatban tudomásukra jutott információ ellenőrzéséről, a nyilvántartásban való rögzítésről.
 
-(6) A körözési eljárást lefolytató szerv a körözési eljárás során elektronikus hírközlési szolgáltatótól helymeghatározási adatot kérhet.
+(6) A körözési eljárást lefolytató szerv a körözési eljárás során az adatigénylés céljának pontos megjelölésével az elektronikus hírközlési szolgáltatótól a felhasználóval és az előfizetővel kapcsolatban helymeghatározási adatokat, hívásforgalmi adatokat, valamint az adatigénylés céljával összefüggő előfizetői adatokat kérhet.
 
 (7) A körözési eljárást lefolytató szerv a körözési eljárás során a pénzügyi intézménytől és a pénzforgalmi intézménytől adatokat igényelhet a készpénzt-helyettesítő fizetési eszköz használatának helyszínére és időpontjára vonatkozóan.
