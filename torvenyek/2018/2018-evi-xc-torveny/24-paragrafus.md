@@ -1,1 +1,3 @@
-24. §
+24. § Az Nftv. 76. §-a a következő (9) bekezdéssel egészül ki:
+
+„(9) Ha az e §-ban meghatározott követelmények bizonyítása érdekében nemzetközi jogsegély igénybevétele szükséges, akkor az oktatási hivatal közvetlenül a származási állam oktatását irányító szervet keresi meg. Ha azonban olyan államról van szó, amely a 2001. évi XCIX. törvénnyel kihirdetett, a felsőoktatási képesítéseknek az európai régióban történő elismeréséről szóló, 1997. április 11-én, Lisszabonban aláírt Egyezményt (a továbbiakban: Lisszaboni Egyezmény) magára nézve kötelezőnek ismerte el, akkor az oktatási hivatal a nemzetközi jogsegélykérelmet közvetlenül a Lisszaboni Egyezmény IX.2. Cikke szerinti külföldi információs központhoz intézi.”

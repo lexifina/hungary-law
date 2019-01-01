@@ -32,9 +32,9 @@
 
 16.
 
-17.
+17. 48/B. § (1) bekezdésében a „b) pontjában” szövegrész helyébe a „b) és c) pontjában”,
 
-18.
+18. 48/B. § (4) bekezdésében a „48/A. § b) és d) pontjában” szövegrész helyébe a „48/A. §-ban”,
 
 19.
 

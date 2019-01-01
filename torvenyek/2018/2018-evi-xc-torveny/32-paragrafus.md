@@ -2,13 +2,13 @@
 
 a)
 
-b)
+b) 48/B. § (4) bekezdésében az „és a 48/A. § c) pontjában foglaltak a hitéleti képzés sajátos követelményeinek figyelembe vételével érvényesíthetők” szövegrész,
 
-c)
+c) 48/K. §-ában a „ , másodfokon az oktatásért felelős miniszter” szövegrész,
 
-d)
+d) 48/N. § (3) bekezdése,
 
-e)
+e) 48/S. §-ában a „c) és” szövegrész,
 
 f)
 
