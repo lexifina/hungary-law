@@ -4,7 +4,7 @@
 
 1. biztosító: a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) szerinti biztosító;
 
-2. biztosítási szolgáltatás: a casco biztosítás, a vagyon- és balesetbiztosítás nyújtása;
+2. biztosítási szolgáltatás: a casco biztosítás, a vagyon- és balesetbiztosítás, a kötelező gépjármű-felelősségbiztosítás;
 
 3. kötelező gépjármű-felelősségbiztosítás: a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (Kgfb. tv.) szerinti biztosítás;
 
