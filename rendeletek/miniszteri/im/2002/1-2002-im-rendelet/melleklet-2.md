@@ -232,6 +232,8 @@
 
 ## 1413 Szigetszentmiklósi Járásbíróság
 
+## 1414 Érdi Járásbíróság
+
 ## 1499 Pest Megyei Közigazgatási és Munkaügyi Bíróság
 
 ## 1500 Kaposvári Törvényszék
