@@ -30,7 +30,7 @@ g)[^45] tanoda esetén a pályázó nyilatkozatát, hogy vállalja a statisztika
 
 h)[^46] a pályázónak a közpénzekből nyújtott támogatások átláthatóságáról szóló törvény alapján benyújtandó nyilatkozatát, és – a nyilatkozat tartalmától függően – közzétételi kérelmét,
 
-i)[^47] Biztos Kezdet Gyerekház esetén a pályázó nyilatkozatát, hogy vállalja a központi dokumentációs rendszer használatát, és a statisztikai célú adatszolgáltatást a Központi Statisztikai Hivatal felé.
+i)[^47] Biztos Kezdet Gyerekház esetén a pályázó nyilatkozatát, hogy vállalja a statisztikai célú adatszolgáltatást a Központi Statisztikai Hivatal felé.
 
 (6)[^48] Hiányosan beadott pályázat esetén a Főigazgatóság a pályázót egy alkalommal az elektronikus pályázatkezelő rendszere útján – a felhívásnak az elektronikus pályázatkezelő rendszerben a pályázó számára rendelkezésre álló értesítési tárhelyre érkezésétől (a továbbiakban: tárhelyre érkezés) számított 8 napos határidővel – hiánypótlásra hívja fel.
 
@@ -48,6 +48,6 @@ i)[^47] Biztos Kezdet Gyerekház esetén a pályázó nyilatkozatát, hogy váll
 [^44]: Az 5. § (5) bekezdés f) pontját a 140/2011. (VII. 21.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^45]: Az 5. § (5) bekezdés g) pontját újonnan a 226/2018. (XII. 4.) Korm. rendelet 6. §-a iktatta be.
 [^46]: Az 5. § (5) bekezdés h) pontját a 140/2011. (VII. 21.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^47]: Az 5. § (5) bekezdés i) pontját a 322/2013. (VIII. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 419/2051. (XII. 23.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^47]: Az 5. § (5) bekezdés i) pontját a 322/2013. (VIII. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 419/2051. (XII. 23.) Korm. rendelet 19. § (3) bekezdésével megállapított, a 305/2018. (XII. 27.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^48]: Az 5. § (6) bekezdése a 279/2009. (XII. 9.) Korm. rendelet 22. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^49]: Az 5. § (8) bekezdését a 279/2009. (XII. 9.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.

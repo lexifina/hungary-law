@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-191-20-
 | 2017-08-26 | 2008-191-20-22.28 | 419/2015. (XII. 23.) Korm. rendelet |
 | 2018-01-01 | 2008-191-20-22.29 | 381/2017. (XII. 11.) Korm. rendelet |
 | 2018-12-05 | 2008-191-20-22.30 | 226/2018. (XII. 4.) Korm. rendelet |
+| 2019-01-01 | 2008-191-20-22.31 | 305/2018. (XII. 27.) Korm. rendelet |
