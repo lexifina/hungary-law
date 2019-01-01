@@ -27,11 +27,3 @@ k) a Nemzeti Üdülési Szolgálat és
 l) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény alapján Beruházási Ügynökségként kijelölt gazdasági társaság
 
 [az a)–l) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].”
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
