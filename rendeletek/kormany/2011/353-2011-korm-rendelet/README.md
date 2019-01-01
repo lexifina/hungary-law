@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-353-20-
 | 2016-01-01 | 2011-353-20-22.8 | 234/2013. (VI. 30.) Korm. rendelet |
 | 2016-08-31 | 2011-353-20-22.9 | 264/2016. (VIII. 31.) Korm. rendelet |
 | 2017-01-01 | 2011-353-20-22.10 | 264/2016. (VIII. 31.) Korm. rendelet |
+| 2019-01-01 | 2011-353-20-22.11 | 310/2018. (XII. 27.) Korm. rendelet |
