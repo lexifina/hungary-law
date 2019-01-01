@@ -1,6 +1,6 @@
 32. § (1) A közalkalmazotti jogviszony csak különösen indokolt esetben szüntethető meg felmentéssel
 
-a) ha a közalkalmazott házastársa (élettársa) nem rendelkezik önálló, legalább az országosan kötelező legkisebb munkabérnek megfelelő jövedelemmel és legalább három eltartott gyermeke van;
+a) ha a közalkalmazott házastársa, élettársa nem rendelkezik önálló, legalább az országosan kötelező legkisebb munkabérnek megfelelő jövedelemmel és legalább három eltartott gyermeke van;
 
 b) ha a közalkalmazott egyedülálló, eltartott gyermeke tizennyolc éves koráig, valamint
 

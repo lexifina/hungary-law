@@ -4,9 +4,9 @@
 
 a) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatók által foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
 
-b) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatóknál az adott ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
+b) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatóknál az adott ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át.
 
-c) amely az adott fenntartott munkáltatók legalább 20%-ában reprezentatív, legalább egy ágazatban.
+c)
 
 (3) Ágazati (alágazati, szakágazati) szinten azt a szakszervezetet kell reprezentatívnak tekinteni, amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri az ágazatban (alágazatban, szakágazatban) foglalkoztatott közalkalmazottak létszámának 10%-át.
 
