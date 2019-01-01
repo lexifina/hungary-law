@@ -26,7 +26,7 @@ c) a családjában olyan gyermeket gondoz, akinek rendszeres gyermekvédelmi ked
 
 d) számára egészségügyi szolgáltatás igénybevétele céljából a szociális rászorultságot megállapították,
 
-e) ápolási díjban, közgyógyellátásban, rokkantsági járadékban részesül,
+e) gyermekek otthongondozási díjában vagy ápolási díjban, közgyógyellátásban, rokkantsági járadékban részesül,
 
 f) fogyatékossági támogatásra, vakok személyi járadékára vagy magasabb összegű családi pótlékra jogosult,
 
