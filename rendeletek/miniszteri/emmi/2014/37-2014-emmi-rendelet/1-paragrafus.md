@@ -8,7 +8,7 @@ b) valamennyi, közétkeztetési szolgáltatást saját, működő főzőkonyhá
 
 (2)[^3] E rendelet rendelkezéseit – az 5. § (1) és (2) bekezdése, valamint a 15. § kivételével – az idősek számára étkezést biztosító szociális alapszolgáltatásokra, idősek nappali ellátását nyújtó és idősek bentlakásos intézményeire, valamint a tanuló ifjúság üdülésének és táborozásának egészségügyi feltételeiről szóló miniszteri rendeletben meghatározott táborozásra nem kell alkalmazni.
 
-(3)[^4] E rendelet rendelkezéseit a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó ellátások közül a családi bölcsődére, a munkahelyi bölcsődére, a napközbeni gyermekfelügyeletre, az alternatív nappali ellátásra, a helyettes szülői ellátásra, valamint a nevelőszülői ellátásra nem kell alkalmazni.
+(3)[^4] E rendelet rendelkezéseit a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó ellátások közül a családi bölcsődére, a munkahelyi bölcsődére, a napközbeni gyermekfelügyeletre, az alternatív nappali ellátásra, a gyermekek esélynövelő szolgáltatásaira, a helyettes szülői ellátásra, valamint a nevelőszülői ellátásra nem kell alkalmazni.
 
 (4)[^5]
 
@@ -18,5 +18,5 @@ b) valamennyi, közétkeztetési szolgáltatást saját, működő főzőkonyhá
 
 [^2]: Az 1. § (1) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (2) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (3) bekezdését a 36/2016. (XII. 8.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^4]: Az 1. § (3) bekezdését a 36/2016. (XII. 8.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 40/2018. (XII. 4.) EMMI rendelet 25. §-ával megállapított szöveg.
 [^5]: Az 1. § (4) bekezdése a 43/2014. (VIII. 19.) EMMI rendelet 19. §-a alapján nem lép hatályba.

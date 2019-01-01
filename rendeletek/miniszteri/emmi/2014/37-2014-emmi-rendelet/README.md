@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-37-20-5
 | 2016-12-16 | 2014-37-20-5H.4 | 36/2016. (XII. 8.) EMMI rendelet |
 | 2017-01-01 | 2014-37-20-5H.5 | 36/2016. (XII. 8.) EMMI rendelet |
 | 2017-04-13 | 2014-37-20-5H.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2019-01-01 | 2014-37-20-5H.7 | 36/2016. (XII. 8.) EMMI rendelet |
