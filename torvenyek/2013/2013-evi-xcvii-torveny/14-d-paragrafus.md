@@ -1,0 +1,3 @@
+14/D. § (1) A méltatlansági nyilvántartásban történő adatkezelés célja a méltatlansági eljárás lefolytathatóságának, a méltatlansági eljárás során történő döntés-előkészítésnek és határozathozatalnak biztosítása, a méltatlanság megállapíthatósága, továbbá a szolgálati viszony és egyéb munkavégzésre irányuló jogviszony létesítési, a honvéd tisztjelölti és a honvéd altiszt-jelölti szolgálati viszony létesítési akadály megállapíthatóságának biztosítása.
+
+(2) A méltatlansági nyilvántartásban szereplő adatok az érintett személyre irányadó – az eljárás befejezésekor hatályos jogszabályok alapján megállapított – öregségi nyugdíj korhatárig kezelhetők, ha a szolgálati viszony megszüntetésére került sor.

@@ -20,7 +20,7 @@ ag) nem, családi állapot,
 
 ah) adóazonosító jel, társadalombiztosítási azonosító jel, állampolgárság,
 
-ai) személyazonosító igazolvány száma, érvényességi ideje, útlevél száma, érvényességi ideje, lakcímet igazoló hatósági igazolvány száma,
+ai) személyazonosító igazolvány okmányazonosítója, érvényességi ideje, útlevél száma, érvényességi ideje, lakcímet igazoló hatósági igazolvány száma,
 
 b) a hozzátartozók adatai:
 
@@ -30,7 +30,7 @@ bb) gyermek(ek) neve, (születési neve), lakóhelye (állandó lakcíme), tart�
 
 bc) eltartottak száma, az eltartás kezdete,
 
-c) iskolai végzettségre, szakképzettségre, egyéb képesítésre, tanfolyami végzettségre, tudományos fokozatra vonatkozó adatok:
+c) iskolai végzettségre, szakképzettségre, egyéb képesítésre, tanfolyami végzettségre, tudományos fokozatra vonatkozó adatok, azokat igazoló okiratok másolatai:
 
 ca) valamennyi iskolai végzettség,
 
@@ -42,7 +42,7 @@ cd) meghatározott beosztás betöltésére jogosító okirat(ok) adatai,
 
 ce) idegennyelv-ismeret (bizonyítványok, tanúsítványok) adatai,
 
-cf) gépjárművezetői engedélyre vonatkozó adatok,
+cf) gépjárművezetői engedélyre, gépkezelői jogosítványra vonatkozó adatok,
 
 d) a korábbi foglalkoztatási (alkalmazási, biztosítási) jogviszonyra vonatkozó adatok:
 
@@ -60,7 +60,7 @@ df) teljesített hivatásos, szerződéses, önkéntes tartalékos és hadkötel
 
 e) a szolgálati beosztásra vonatkozó adatok:
 
-ea) a fegyveres szerv megnevezése,
+ea) a honvédségi szervezet megnevezése,
 
 eb) a szolgálati viszony jellege, állománycsoport,
 
@@ -136,6 +136,8 @@ gt) a személy számára a Honvédség által biztosított igazolványokra vonat
 
 gu) szolgálatteljesítési idő,
 
+gv) a 3. melléklet adatai közül az érintett családi és utóneve, honvéd esetében rendfokozat, születési hely, idő, anyja születési neve, beosztása, munkaköre, lakóhelye, az elkövetett fegyelemsértés megnevezése, a kiszabott fenyítés,
+
 h) mozgósításra vonatkozó adatok,
 
 i) a szolgálatteljesítési kötelezettséggel nem járó távollétek adatai:
@@ -146,7 +148,7 @@ ib) illetmény nélküli szabadság,
 
 ic) a szolgálati viszony szünetelése,
 
-j) illetményre, végkielégítésre, leszerelési segélyre, jubileumi jutalomra, juttatásokra, költségtérítésekre, kedvezményekre és támogatásokra vonatkozó adatok,
+j) illetményre, végkielégítésre, visszailleszkedési támogatásra, jubileumi jutalomra, juttatásokra, költségtérítésekre, kedvezményekre és támogatásokra vonatkozó adatok,
 
 k) összeférhetetlenségre vonatkozó adatok:
 
@@ -188,4 +190,10 @@ re) szolgálathalasztás oka,
 
 s) a nyugellátásra (szolgálati járandóságra) és a társadalombiztosítási jogosultságra vonatkozó adatok (nyugdíj, nyugellátás típusa, nyugdíjazás kezdete, nyugdíjas törzsszám, nyugdíj összege, szüneteltetési adatok),
 
-t) vércsoportja és RH faktora.
+t) vércsoportja és RH faktora,
+
+u) személyügyi törzsszám,
+
+v) fokozati vizsgára, vizsgahalasztásra vonatkozó adatok,
+
+z) minősítő vizsgára vonatkozó adatok.

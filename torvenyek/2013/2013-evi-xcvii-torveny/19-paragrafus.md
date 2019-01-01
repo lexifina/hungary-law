@@ -1,33 +1,33 @@
-## 11. A pénzügyi nyilvántartás
+## 10. A pénzügyi nyilvántartás
 
-19. § (1) Pénzügyi nyilvántartásban kell kezelni a honvédek és a rendelkezésre állás időszakában az önkéntes tartalékos katonák 14. melléklet szerinti személyes adatait.
+19. § (1) Pénzügyi szakterület által kell kezelni a Honvédség személyi állománya 14. melléklet szerinti személyes adatait.
 
-(2) A pénzügyi nyilvántartást a Honvédség központi pénzügyi és számviteli szerve vezeti.
+(2) A pénzügyi szakterület által kezelt adatokat a Honvédség központi pénzügyi és számviteli szerve vezeti.
 
-(3) A pénzügyi nyilvántartás célja az (1) bekezdés szerinti személyeket pénzben megillető járandóságok, juttatások és költségtérítések kifizethetőségének biztosítása.
+(3) A pénzügyi szakterület által végzett adatkezelés célja az (1) bekezdés szerinti személyeket pénzben megillető járandóságok, juttatások és költségtérítések kifizethetőségének biztosítása.
 
-(4) A pénzügyi nyilvántartásban szereplő adatok a szolgálati viszony megszűnéséig vagy megszüntetéséig kezelhetők.
+(4) A pénzügyi szakterület által kezelt adatok az érintett pénzügyi ellátásával, valamint az ehhez fűződő adatszolgáltatási kötelezettségekkel kapcsolatos jogszabályokban előírt időtartamig kezelhetők.
 
-(5) A pénzügyi nyilvántartásban szereplő adatokhoz a pénzbeli járandóságok, juttatások és költségtérítések folyósításával kapcsolatos döntések előkészítése, meghozatala, a kifizethetőség biztosítása és a törvényességi felügyelet gyakorlása céljából elektronikus úton közvetlenül hozzáférhetnek és az azok alapjául szolgáló iratokba betekinthetnek:
+(5) A pénzügyi szakterület által kezelt adatokhoz a pénzbeli járandóságok, juttatások és költségtérítések folyósításával kapcsolatos döntések előkészítése, meghozatala, a kifizethetőség biztosítása, a törvényességi felügyelet gyakorlása, valamint a követelések érvényesítése céljából elektronikus úton közvetlenül hozzáférhetnek és az azok alapjául szolgáló iratokba betekinthetnek:
 
-a) a miniszter által vezetett minisztérium állami vezetői, valamint a Honvéd Vezérkar főnöke,
+a) a miniszter, a miniszter által vezetett minisztérium állami vezetői, valamint a Magyar Honvédség parancsnoka,
 
-b) a Honvédség központi személyügyi szerve,
+b) a Honvédség központi személyügyi szerv kijelölt tagja,
 
-c) a miniszter által vezetett minisztérium személyügyi szerve,
+c) a honvédelmi szervezet állománya vonatkozásában a honvédelmi szervezet személyügyi szerv, vezénylés, kirendelés esetén a vezénylés, kirendelés helye szerinti honvédelmi szervezet kijelölt tagja,
 
-d) a honvédségi szervezet állománya vonatkozásában a honvédségi szervezet személyügyi szerve,
+d) az alárendeltjei vonatkozásában a szolgálati elöljáró és az állományilletékes parancsnok,
 
-e) az alárendeltjei vonatkozásában a szolgálati elöljáró és az állományilletékes parancsnok,
+e) a honvédelmi szervezeteknél az érintett fegyelmi, szabályszegési, szabálysértési, büntető, méltatlansági, kártérítési, valamint szociális ügyében eljáró személy,
 
-f) a Honvédségnél az érintett szociális ügyében eljáró személy,
+f) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző személy,
 
-g) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző,
+g) a honvédelmi szervezetek jogi képviseletét ellátó szervezet kijelölt tagja, valamint a követelések érvényesítésében eljáró személy,
 
-h) a Honvédség jogi képviseletét ellátó szervezet,
+h) a honvédelmi szervezeteknél munkaügyi ellenőrzést végző szerv kijelölt tagja,
 
-i) a Honvédségnél munkaügyi ellenőrzést végző szerv, és
+i) az államháztartási belső ellenőrzési tevékenységet végző személy,
 
-j) a Honvédségnél az érintett illetmény számfejtését végző szerv.
+j) a honvédelmi szervezeteknél az érintett illetmény számfejtését végző szerv kijelölt tagja, és
 
-(6) A pénzügyi nyilvántartásban kezelt adatokhoz történő hozzáférést és az azok alapjául szolgáló okmányokba történő betekintést a Honvédség központi pénzügyi és számviteli szervének vezetője írásban engedélyezi.
+k) a szolgálati, illetve a szakmai elöljárói ellenőrzéseket végrehajtó személy.

@@ -1,15 +1,27 @@
 ## 6. A személyügyi nyilvántartás
 
-10. § (1) A személyügyi nyilvántartásban kell kezelni a honvédek és a rendelkezésre állás időszakában az önkéntes tartalékos katonák valamint ezek társadalombiztosítási, szociális vagy kegyeleti gondoskodásra jogosult hozzátartozóinak a 2. melléklet szerinti adatait.
+10. § (1) A személyügyi szakterület által kell kezelni a Honvédség személyi állománya, valamint ezek társadalombiztosítási, szociális vagy kegyeleti gondoskodásra jogosult hozzátartozóinak és az egyéb munkavégzésre irányuló jogviszonyban foglalkoztatottak 2. melléklet szerinti adatait.
 
-(2) A személyügyi nyilvántartást a Honvédség központi személyügyi szerve vezeti.
+(2) A személyügyi szakterület által kezelt adatokat a 6. § (1) bekezdése szerinti hozzáférésnek megfelelően a honvédelmi szervezet személyügyi szerve, illetve a Honvédség központi személyügyi szerve, valamint a miniszter által vezetett minisztériumban foglalkoztatottak tekintetében a személyügyi feladatok ellátására kijelölt szerv kezeli.
 
-(3) A személyügyi nyilvántartásban történő adatkezelés célja
+(3) A (2) bekezdésben felsorolt adatkezelők közös adatkezelésük tartalmát, felelősségi köreiket szerződésben rögzítik.
 
-a) a szolgálati viszonnyal összefüggő munkáltatói döntések, a jognyilatkozatok előkészítésének és meghozatalának biztosítása,
+(4) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a személyügyi feladatok ellátása során adatfeldolgozói tevékenységet végez, melynek feltételeit szerződés tartalmazza.
 
-b) a szolgálati viszonnyal összefüggő jogok gyakorolhatóságának és kötelezettségek teljesíthetőségének biztosítása,
+(5) A személyügyi nyilvántartásban történő adatkezelés célja
+
+a) a szolgálati viszonnyal, illetve az egyéb munkavégzésre irányuló jogviszonnyal összefüggő munkáltatói döntések, a jognyilatkozatok és munkáltatói döntések előkészítésének és meghozatalának biztosítása,
+
+b) a szolgálati viszonnyal, illetve az egyéb munkavégzésre irányuló jogviszonnyal összefüggő jogok gyakorolhatóságának és kötelezettségek teljesíthetőségének biztosítása,
 
 c) a hozzátartozót megillető társadalombiztosítási, szociális és kegyeleti gondoskodás megállapításának és folyósításának biztosítása.
 
-(4) A honvédek és a rendelkezésre állás időszakában az önkéntes tartalékos katonák adatai a szolgálati viszony megszűnéséig vagy megszüntetéséig kezelhetők. A hozzátartozók adatai a honvédek és az önkéntes tartalékos katonák szolgálati viszonyának megszűnéséig vagy megszüntetéséig kezelhetők.
+(6) A Honvédség személyi állománya adatait a szolgálati viszony, illetve az egyéb munkavégzésre irányuló jogviszony megszűnését vagy megszüntetését követően – a 13/A. § szerinti szolgálaton kívüliek állományába tartozók kivételével –
+
+a) a 16. § (4) bekezdése alapján az érdekvédelmi szakterületért felelős honvédségi szervezet,
+
+b) a kiképzett tartalékosok adatait az adatpontosítás idejére a Honvédség katonai igazgatási és központi adatfeldolgozó szerve,
+
+c) minden egyéb esetben a nyilvántartás alapjául szolgáló iratokat a központi irattározásra kijelölt szerve
+
+kezeli tovább.

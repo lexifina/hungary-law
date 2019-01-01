@@ -1,23 +1,17 @@
-8. § (1) A Honvédség a szolgálati viszony létesítéséhez, fenntartásához, módosításához, megszüntetéséhez kapcsolódóan az alkalmasság felmérése és minősítése, valamint az egészségi, pszichikai és fizikai alkalmassági feltételek fennállásának megállapítása céljából kezeli
+## 4/A. Egészségügyi célú honvédelmi adatkezelés
 
-a) a szolgálati viszonyt létesíteni szándékozó személy, valamint
+8. § (1) Az egészségügyi adatkezelést végző honvédelmi szervezet a szolgálati viszony létesítéséhez, fenntartásához, módosításához, megszüntetéséhez, valamint a honvédségi ösztöndíjszerződés megkötéséhez kapcsolódóan az egészségi, pszichikai és fizikai alkalmasság vizsgálata, minősítése és ellenőrzése céljából kezeli
 
-b) a hivatásos állományú katonának, a szerződéses állományú katonának, a honvéd tisztjelöltnek, a honvéd altiszt-jelöltnek és a rendelkezésre állás időszakában az önkéntes tartalékos katonának
+a) a hivatásos állományú katonának, a szerződéses állományú katonának, a honvéd tisztjelöltnek, a honvéd altiszt-jelöltnek, az önkéntes tartalékos katonának és a honvédségi ösztöndíjas hallgatónak jelentkezők, valamint
 
-egészségi, pszichikai és fizikai alkalmassági vizsgálat során keletkezett különleges személyes adatait.
+b) a hivatásos állományú katona, a szerződéses állományú katona, a honvéd tisztjelölt, a honvéd altiszt-jelölt és az önkéntes tartalékos katona
 
-(2) Az adatok köre az egészségi, pszichikai és fizikai állapotra vonatkozó,
+16. melléklet 1. pontja szerinti adatait.
 
-a) az alkalmasság felméréséhez és az alkalmassági minősítéshez felhasznált, és
+(2) Az (1) bekezdésben meghatározott személyes adatokat, továbbá az ezeket tartalmazó dokumentációt – a feladatellátáshoz szükséges mértékben – az alkalmasság vizsgálatában, minősítésében és ellenőrzésében részt vevő orvos, pszichológus, ergonómus, egészségügyi szakdolgozó, illetve bizottság kezelheti. Az adatkezelők felhívására az érintett köteles adatainak átadására.
 
-b) az alkalmasság minősítését tartalmazó
+(3) A 16. melléklet 1. pont f) alpont fb) alpontja szerinti adatokhoz elektronikus úton közvetlenül hozzáférhet az alkalmasság vizsgálatában, minősítésében és ellenőrzésében részt vevő orvos, illetve bizottság, kivéve, ha ez ellen az érintett írásban kifejezetten tiltakozik. Az érintettet tájékoztatni kell a tiltakozás lehetőségéről.
 
-különleges személyes adat.
+(4) A vizsgálatot kérő szervezet részére kizárólag a 16. melléklet 1. pont j) alpontja szerinti adat továbbítható. Az állományilletékes parancsnok továbbá jogosult kezelni a 16. melléklet 1. pont i) alpontja szerinti adatot, valamint az alkalmasság vizsgálatának, ellenőrzésének kezdeményezését megelőzően jogszerűen tudomására jutott egészségügyi adatot.
 
-(3) Az (1) bekezdésben meghatározott célból az egészségi, pszichikai és fizikai állapotra vonatkozó különleges személyes adatokat, a vizsgálatok teljes egészségügyi dokumentációját az alkalmasság megállapításában részt vevő orvos valamint bizottság kezelheti, illetve azok kizárólag a részükre továbbíthatók.
-
-(4) A munkáltatói jogkört gyakorló és a honvédségi szervezet személyügyi szerve részére – a fizikai felmérés részletes eredményén kívül – kizárólag a (2) bekezdés b) pontjában meghatározott adat továbbítható. Ha az alkalmassági vizsgálatot a munkáltatói jogkört gyakorló kezdeményezi, az alkalmassági vizsgálat megindulása előtt tudomására jutott egészségügyi adatot is jogosult kezelni és az egészségügyi adatot az eljárásban részt vevő orvos, valamint orvosi bizottság részére továbbíthatja.
-
-(5) Az alkalmassági vizsgálat megállapításait a vizsgálatot végző a munkáltatói jogkört gyakorlónak és az alapellátást végző orvosnak továbbítja.
-
-(6) A vizsgálatok megállapításai a szolgálati viszony megszűnéséig vagy megszüntetéséig kezelhetők. Ha a szolgálati viszony egészségi vagy pszichikai alkalmatlanság alapján szűnt meg, az alkalmasság minősítését tartalmazó adatok az állomány tagjának haláláig kezelhetők.
+(5) Az alkalmasság vizsgálata, minősítése és ellenőrzése során felhasznált, illetve keletkezett egészségügyi dokumentációt az adatfelvételtől számított 30 évig kell megőrizni. Az egyéb dokumentációban szereplő adatok a szolgálati viszony megszűnéséig vagy megszüntetéséig kezelhetők. A (1) bekezdés a) pontjában meghatározott személyek esetében – a szolgálati viszony létrejötte hiányában – a végleges alkalmatlanság tényét tartalmazó minősítést az egészségügyi dokumentáció megőrzési idejével megegyező ideig kell kezelni. Minden további adat a jelentkező hozzájárulása alapján, az abban meghatározott ideig kezelhető.

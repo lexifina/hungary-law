@@ -8,7 +8,7 @@ a) a személyi igazolójegy birtokosa nevét és a 10. melléklet j) pontja szer
 
 b) a HUNGARY feliratot, és
 
-c) a személyi igazolójegy birtokosa vércsoportját és RH faktorát.
+c)
 
 (3) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a személyi igazolójegyről annak kiadásától a szolgálati viszony megszűnését vagy megszüntetését követő 5 évig nyilvántartást vezet, amely az (1) bekezdés szerinti adatokat valamint a személyi igazolójegy kiállításának dátumát tartalmazza.
 

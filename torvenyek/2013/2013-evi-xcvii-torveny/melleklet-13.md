@@ -32,7 +32,7 @@ bc) munkaköri azonosító kód,
 
 bd) előmenetel,
 
-c) a honvédségi szolgálati igazolvány, az ideiglenes szolgálati igazolvány, a hatósági és ellenőri igazolvány, a személyi igazolójegy, belépési engedély adatai,
+c) a honvédségi szolgálati igazolvány, az a hatósági és ellenőri igazolvány, a személyi igazolójegy, belépési engedély adatai,
 
 d) a rendelkezésre álló iratok, vagy szóbeli bejelentések, beszámolók alapján megállapítható információk:
 

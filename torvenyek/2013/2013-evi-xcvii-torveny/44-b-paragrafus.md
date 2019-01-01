@@ -1,6 +1,6 @@
-## 27/b. Genfi Egyezménynek megfelelő személyi azonossági igazolvány kiadásával kapcsolatos adatkezelés
+## 27/b. Genfi Egyezménynek megfelelő személyazonossági igazolvány kiadásával kapcsolatos adatkezelés
 
-44/B. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a Honvédség személyi állományába tartozók részére a különleges jogrend – kivéve a veszélyhelyzet – időszakában, valamint a Magyarország területén kívüli szolgálat teljesítése és nemzetközi szerződés alapján teljesített szolgálat teljesítése időszakában a sebesültek és betegek felkutatására, felszedésére és szállítására, vagy a betegség megelőzésére alkalmazott személyzet, az egészségügyi alakulatok által alkalmazott személyzet, továbbá a tábori lelkészek azonosítása és speciális státuszuk igazolása biztosítására szolgáló személyi azonossági igazolvány kiadása céljából a 10. melléklet szerinti adatokat kezeli a személyi azonossági igazolvány kiadásától a Honvédséggel fennálló jogviszony megszűnését vagy megszüntetését követő 5 évig.
+44/B. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a Honvédség személyi állományába tartozók részére a különleges jogrend – kivéve a veszélyhelyzet – időszakában, valamint a Magyarország területén kívüli szolgálat teljesítése és nemzetközi szerződés alapján teljesített szolgálat teljesítése időszakában a sebesültek és betegek felkutatására, felszedésére és szállítására, vagy a betegség megelőzésére alkalmazott személyzet, az egészségügyi alakulatok által alkalmazott személyzet, továbbá a tábori lelkészek azonosítása és speciális státuszuk igazolása biztosítására szolgáló személyazonossági igazolvány kiadása céljából a 10. melléklet szerinti adatokat kezeli a személyazonossági igazolvány kiadásától a Honvédséggel fennálló jogviszony megszűnését vagy megszüntetését követő 5 évig.
 
 (2) A személyi azonossági igazolvány angol és magyar nyelven tartalmazza
 
@@ -8,7 +8,7 @@ a) az igazolvány megnevezését,
 
 b) az igazolvány birtokosának nevét és a 10. melléklet e)–h) pontja szerinti adatokat,
 
-c) az igazolvány birtokosa szolgálati, kormánytisztviselői, közalkalmazotti igazolványának egyedi azonosítóját és érvényességi idejét,
+c) a személyazonossági igazolvány egyedi azonosítóját és érvényességi idejét,
 
 d) az igazolvány kiállításának dátumát,
 
@@ -22,10 +22,10 @@ h) „Az igazolvány birtokosa Magyarország állampolgára. Tagja a Magyar Honv
 
 i) az „egészségügyi személy” vagy „egyházi személy” feliratot.
 
-(3) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a személyi azonossági igazolványokról
+(3) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a személyazonossági igazolványokról
 
 a) az (1) bekezdésben meghatározott időtartam alatt nyilvántartást vezet, amely az (1) bekezdés és (2) bekezdés a), c) és d) pontja szerinti adatokat tartalmazza, továbbá
 
-b) az (1) bekezdés szerinti jogosultság megszűnését követő 5 év elteltével nyilvántartást vezet, amely a (2) bekezdés a), c) és d) pontja szerinti, valamint a személyi azonossági igazolvány megsemmisítésének, érvénytelenítésének időpontjára vonatkozó adatokat tartalmazza.
+b) az (1) bekezdés szerinti jogosultság megszűnését követő 5 év elteltével nyilvántartást vezet, amely a (2) bekezdés a), c) és d) pontja szerinti, valamint a személyazonossági igazolvány megsemmisítésének, érvénytelenítésének időpontjára vonatkozó adatokat tartalmazza.
 
 (4) A (3) bekezdés szerinti nyilvántartások közhiteles nyilvántartásnak minősülnek.

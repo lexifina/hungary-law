@@ -1,19 +1,31 @@
 3. melléklet a 2013. évi XCVII. törvényhez
 
-A fegyelmi nyilvántartásban kezelhető adatok
+A fegyelmi szakterület nyilvántartásban és a fegyelmi információs rendszerben kezelhető adatok
 
-a) a 2. melléklet a) pont aa), ac), ad) és af) alpontja, e) pont ea), eb) és ee) alpontja, g) pont gm) alpontja és j) pontja szerinti adatok,
+a) az érintett családi és utóneve, honvéd esetén rendfokozata,
 
-b) a szolgálatteljesítés szerinti helyőrség,
+b) születési helye, ideje,
 
-c) a fegyelmi, a szabálysértési és a büntetőeljárást elrendelő, felfüggesztő, megszüntető szerv megnevezése, a határozat száma, kelte,
+c) anyja születési neve,
 
-d) a fegyelemsértés, a szabályszegés, a szabálysértés, a bűncselekmény megnevezése, minősítése,
+d) beosztása, munkaköre,
 
-e) a jogerős határozatban, illetve ügydöntő határozatban megállapított tényállás rövid leírása,
+e) lakóhelye,
 
-f) a jogkövetkezmény neme és mértéke, a jogkövetkezmény alkalmazásának mellőzése esetén annak oka,
+f) a fegyelmi, szabálysértési, büntető-, méltatlansági eljárás alapjául szolgáló ok keletkezésének ideje és körülményei,
 
-g) a méltatlansági eljárás adatai,
+g) károkozás esetén a kár összege, megállapításának módja,
 
-h) a szankció hatálya, a hatály alóli mentesülés időpontja.
+h) a bizonyítékok, így különösen a tanúvallomás, a szakértői nyilatkozat, a szemléről készült jegyzőkönyv, a szakmai kivizsgálásról készített jelentés,
+
+i) az érintett felelőssége mértékének alapjául szolgáló illetménye,
+
+j) minősítésekre, teljesítményértékelésekre vonatkozó adatok,
+
+k) azok a tények, amelyek a felelősség elbírálásához szükségesek, így különösen a vagyoni viszonyokat, a családi és szociális, illetve az egyéb méltányolható körülményeket érintő adatok,
+
+l) az érintett személyes meghallgatása során előadott lényeges, így különösen a tényállásra, a felelősségére vonatkozó, valamint az enyhítő és súlyosbító körülményeket tartalmazó nyilatkozata,
+
+m) az érintett felelőssége fennállásának vagy annak hiányának megállapítása,
+
+n) a kiszabott fenyítés, büntetés.

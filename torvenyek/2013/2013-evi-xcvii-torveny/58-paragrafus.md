@@ -6,7 +6,7 @@ a) a 60. §-ban foglalt esetben a belgyógyász sorozó szakorvos,
 
 b) a hadköteles személyes megjelenéssel történő sorozása esetén a belgyógyász és a sebész sorozó szakorvos, valamint a pszichológus.
 
-(3) Az elsőfokú sorozóbizottság munkájában a sorozó központ vezetője igényének megfelelően a sorozás helye szerinti település alapján illetékes járási hivatal vezetője által határozatban kijelölt kisegítő személyek vesznek részt.
+(3) Az elsőfokú sorozóbizottság munkájában a sorozó központ vezetője igényének megfelelően a sorozás helye szerinti település polgármestere által határozatban kijelölt kisegítő személyek vesznek részt.
 
 (4) Az elsőfokú sorozóbizottság orvos tagjait a sorozó központ vezetőjének megkeresése alapján az orvost foglalkoztató egészségügyi intézet vezetője, illetve a sorozás helye szerint illetékes egészségügyi államigazgatási szerv jelöli ki.
 

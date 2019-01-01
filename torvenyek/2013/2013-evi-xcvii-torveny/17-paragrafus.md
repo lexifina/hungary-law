@@ -1,17 +1,9 @@
-## 9. A szolgálaton kívüliek nyilvántartása
+## 9. Kártérítési nyilvántartás
 
-17. § (1) A szolgálaton kívüliek nyilvántartásában kell kezelni a Hjt. szerinti szolgálaton kívüliek állományába tartozó személyek 6. melléklet szerinti adatait. A szolgálaton kívüliek nyilvántartásába az érintettet a kérelmére lehet felvenni.
+17. § (1) A kártérítési nyilvántartásban kell kezelni a Honvédség személyi állománya 17. melléklet szerinti adatait.
 
-(2) A szolgálaton kívüliek nyilvántartását a Honvédség központi személyügyi nyilvántartó szerve vezeti.
+(2) Az (1) bekezdés szerinti adatokat a honvédelmi szervezet, fellebbezés esetén a fellebbezés elbírálására jogosult honvédelmi szervezet kezeli.
 
-(3) A szolgálaton kívüliek nyilvántartásának célja a hivatásos állományba történő visszavétel elősegítése, továbbá a hivatásos állományból kiváló személy honvédségi kötődésének fenntartása.
+(3) A kártérítési nyilvántartásban történő adatkezelés célja a kártérítési eljárás lefolytathatóságának, a kártérítési eljárás során történő döntés-előkészítésnek és határozathozatalnak biztosítása, a megállapított kártérítés és azok teljesítésének naprakész megállapíthatósága.
 
-(4) Szolgálaton kívüliek adatai a szolgálaton kívüliek nyilvántartásában annak az évnek az utolsó napjáig kezelhetőek, amikor
-
-a) a Hjt. 76. § (2) bekezdésében meghatározott időtartam letelik,
-
-b) az érintett öregségi nyugdíjra jogosultságot szerzett, vagy
-
-c) az egyéb közszolgálati jogviszony keretében történő foglalkoztatása megszűnik.
-
-(5) Ha törvény eltérően nem rendelkezik, a szolgálaton kívüliek nyilvántartásából az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottakon túl adatszolgáltatás nem teljesíthető.
+(4) A kártérítési nyilvántartásban szereplő adatok a szolgálati viszony megszűnéséig vagy megszüntetéséig kezelhetők. Ha az érintett szolgálati viszonya a kiszabott kártérítés teljesítése előtt szűnik meg vagy kerül megszüntetésre, úgy a kártérítési nyilvántartásban szereplő adatok a kártérítés teljesítéséig kezelhetők.

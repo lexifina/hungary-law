@@ -4,6 +4,6 @@ a) békeidőszakban a 27. § szerinti nyilvántartás vezetése a katonai szerve
 
 b) hadkötelezettség fennállása idején a hadköteles nyilvántartás vezetése, a Honvédség hadkötelesekkel történő hadkiegészítése,
 
-c) a Honvédség és a rendvédelmi szervek részére szükséges gazdasági és anyagi szolgáltatási kötelezettség teljesítése érdekében az igénybevétel tervezéséhez szükséges nyilvántartás vezetése,
+c) a honvédelmi szervezetek, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség részére szükséges gazdasági és anyagi szolgáltatási kötelezettség teljesítése érdekében az igénybevétel tervezéséhez szükséges nyilvántartás vezetése,
 
-d) szükségállapot, megelőző védelmi helyzet, rendkívüli állapot és váratlan támadás idején részvétel a Honvédség és a rendvédelmi szervek részére szükséges gazdasági és anyagi szolgáltatási kötelezettség teljesítésének előkészítésében.
+d) szükségállapot, megelőző védelmi helyzet, rendkívüli állapot és váratlan támadás idején részvétel a honvédelmi szervezetek, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség részére szükséges gazdasági és anyagi szolgáltatási kötelezettség teljesítésének előkészítésében.

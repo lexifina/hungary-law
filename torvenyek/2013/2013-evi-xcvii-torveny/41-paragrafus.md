@@ -1,6 +1,6 @@
-## 24. A honvédségi szolgálati, kormánytisztviselői és közalkalmazotti igazolvány kiadásával kapcsolatos adatkezelés
+## 24. A honvédségi szolgálati, kormánytisztviselői, közalkalmazotti és honvédelmi alkalmazotti igazolvány kiadásával kapcsolatos adatkezelés
 
-41. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a honvédek szolgálati viszonya fennállásának igazolására szolgáló szolgálati igazolványának, valamint a Honvédség személyi állományába tartozást igazoló kormánytisztviselői és közalkalmazotti igazolvány kiadása érdekében a 10. melléklet szerinti adatokat kezeli a Honvédséggel fennálló szolgálati, kormánytisztviselői és közalkalmazotti jogviszony létrejöttétől a jogviszony megszűnését vagy megszüntetését követő 5 évig.
+41. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a honvédek szolgálati viszonya fennállásának igazolására szolgáló szolgálati igazolványának, valamint a Honvédség személyi állományába tartozást igazoló kormánytisztviselői, közalkalmazotti és honvédelmi alkalmazotti igazolvány kiadása érdekében a 10. melléklet szerinti adatokat kezeli a Honvédséggel fennálló szolgálati, kormánytisztviselői, közalkalmazotti és honvédelmi alkalmazotti jogviszony létrejöttétől a jogviszony megszűnését vagy megszüntetését követő 5 évig.
 
 (2) A szolgálati igazolvány, a kormánytisztviselői és a közalkalmazotti igazolvány tartalmazza
 

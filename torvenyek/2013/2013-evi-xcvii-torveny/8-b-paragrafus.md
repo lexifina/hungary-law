@@ -1,0 +1,3 @@
+8/B. § (1) A 8. § (1) bekezdés b) pontjában meghatározott személyekre vonatkozó – a 16. melléklet 1. és 2. pontjában meghatározott – személyes adatokhoz közvetlenül hozzáférhet, valamint az adatokat tartalmazó dokumentációba betekinthet az utaltsági rend szerinti alapellátást végző honvéd-egészségügyi szolgálat.
+
+(2) Az alkalmassági minősítés érvényessége alatt folytatott gyógykezelés esetén az érintett köteles átadni a gyógykezeléssel kapcsolatos egészségügyi adatait. A minősítést érdemben befolyásoló betegségre vonatkozó egészségügyi dokumentációt az alapellátást végző honvéd-egészségügyi szolgálat – az érintett tájékoztatását követően – továbbítja a minősítésre jogosult bizottságnak.

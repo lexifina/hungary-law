@@ -1,6 +1,6 @@
 ## 20. Bejelentési kötelezettség
 
-37. § (1) A hadköteles a 36. § szerinti adatszolgáltatást követően az abban foglalt adatokat érintő változást a rá vonatkozó behívhatósági korhatár betöltéséig bejelenti, valamint haladéktalanul bejelenteni köteles a 4. melléklet r) pont rg) alpontja szerinti félbeszakítási ok megszűnését.
+37. § (1) A hadköteles a 36. § szerinti adatszolgáltatást követően az abban foglalt adatokat érintő változást a rá vonatkozó behívhatósági korhatár betöltéséig bejelenti, valamint haladéktalanul bejelenteni köteles a 4. melléklet q) pont qg) alpontja szerinti félbeszakítási ok megszűnését.
 
 (2) Az (1) bekezdésben meghatározott kötelezettség nem terheli azt a hadkötelest, aki a szolgálat teljesítése alóli felmentéséről értesítést kapott.
 

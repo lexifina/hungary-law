@@ -1,23 +1,25 @@
 ## III. Fejezet
 
-## A SZOLGÁLATI VISZONNYAL KAPCSOLATOS NYILVÁNTARTÁSOK KÖRE
+## HONVÉDSÉGI MUNKÁLTATÓI ÉS EGYÉB HONVÉDSÉGI ADATKEZELÉSEK
 
 ## 4. Általános szabályok
 
-6. § (1) A honvédek jogállásáról szóló 2012. évi CCV. törvényben (a továbbiakban: Hjt.) meghatározott, a honvéd jogállásával összefüggő jogok érvényesítése és kötelezettségek teljesítése céljából
+6. § (1) Az e törvény által meghatározott adatokról az egyes nyilvántartások személyi köre tekintetében, törvényekben meghatározott jogok érvényesítése és kötelezettségek teljesítése céljából papíralapú és elektronikus nyilvántartást kell vezetni. Az elektronikus nyilvántartás a HM Költségvetés Gazdálkodási Információs Rendszer (a továbbiakban: HM KGIR). Az adatkezelés alapelveinek megfelelően, különböző jogosultsági szintű hozzáféréssel biztosított az alábbi szakterületek nyilvántartásai számára a HM KGIR-ban szereplő adatok kezelése:
 
-a) toborzó nyilvántartást,
+a) toborzó szakterület,
 
-b) személyügyi nyilvántartást,
+b) személyügyi szakterület,
 
-c) fegyelmi nyilvántartást,
+c) fegyelmi szakterület,
 
-d) érdekvédelmi nyilvántartást,
+d) érdekvédelmi szakterület, és
 
-e) szolgálaton kívüliekre vonatkozó nyilvántartást, és
+e) pénzügyi szakterület.
 
-f) pénzügyi nyilvántartást
+(2) A HM KGIR tekintetében a Honvédség központi pénzügyi és számviteli szerve, a saját személyi állományára vonatkozó adatkezelési feladatai kivételével, adatfeldolgozói feladatokat lát el és e tekintetben szerződést köt az egyes adatkezelő honvédelmi szervezetekkel.
 
-kell vezetni.
+(3) Az (1) bekezdésben meghatározott adatkezeléseken túl, az e törvény által meghatározott személyi körre vonatkozóan, jogok érvényesítése és kötelezettségek teljesítése céljából e fejezet szerinti nyilvántartásokat kell vezetni.
 
-(2) Az (1) bekezdés szerinti nyilvántartások elektronikus nyilvántartások.
+(4) Az egyes adatkezelők az általuk nyilvántartott adatok alapjául szolgáló eredeti iratokat vagy másolatait is kezelik.
+
+(5) Az e fejezet szerint kezelt adatokat a HM adatvédelmi és információszabadsággal összefüggő feladatokat ellátó szervezeti egységének kijelölt állománya, valamint az adatkezelő honvédelmi szervezet adatvédelmi tisztviselője az adatkezelési szabályok betartásának ellenőrzéséhez szükséges mértékben megismerheti.

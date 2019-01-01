@@ -1,43 +1,41 @@
 ## 8. Az érdekvédelmi nyilvántartás
 
-16. § (1) Az érdekvédelmi nyilvántartásban kell kezelni a (4) bekezdés a)–d) pontja szerinti személyek 5. melléklet szerinti adatait.
+16. § (1) Az érdekvédelmi szakterület kezeli a (4) bekezdés szerinti személyek 5. melléklet szerinti adatait.
 
 (2) Az (1) bekezdés szerinti nyilvántartás közhiteles nyilvántartásnak minősül.
 
-(3) Az érdekvédelmi nyilvántartást a Honvédség katonai igazgatási és központi adatfeldolgozó szerve a társadalombiztosítási, a szociális és a kegyeleti ellátásra való jogosultság megszűnéséig vezeti.
+(3) Az érdekvédelmi szakterület által kezelt adatokat a Honvédség katonai igazgatási és központi adatfeldolgozó szerve a társadalombiztosítási, a szociális és a kegyeleti ellátásra való jogosultság megszűnéséig vezeti.
 
 (4) Az érdekvédelmi nyilvántartásban történő adatkezelés célja
 
-a) a nyugállományú katonának,
+a) a honvédségi nyugdíjasnak, a nyugállományú katonának, a köztársasági elnök által szolgálaton kívüli állományba felvett személynek,
 
-b) a hivatásos, a szerződéses és az önkéntes tartalékos, vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggő baleset, betegség, sebesülés vagy haláleset miatt társadalombiztosítási és szociális ellátásra jogosultaknak,
+b) a hivatásos, a szerződéses és az önkéntes tartalékos, vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggő baleset, betegség, sebesülés vagy haláleset miatt társadalombiztosítási, illetve szociális ellátásra jogosultaknak,
 
-c) a korábban hadkötelezettség alapján katonai szolgálatot teljesítetteknek, és
+c) a korábban hadkötelezettség alapján katonai szolgálatot teljesítetteknek,
 
-d) az a)–c) pont szerint ellátásra jogosult hozzátartozóinak
+d) az a)–c) pont szerint ellátásra jogosult hozzátartozóinak, és
 
-társadalombiztosítási, szociális, kegyeleti ellátásai megállapításának és folyósításának biztosítása.
+e) az egyéb munkavégzésre irányuló jogviszony alapján foglalkoztatott állomány esetén a jogviszony megszűnését vagy megszüntetését követően, a Honvédséggel kötött egyéni megállapodás alapján
 
-(5) Az (1) bekezdés szerinti adatokat – ha ez a személyügyi nyilvántartásban rendelkezésre áll – a személyügyi nyilvántartásból kell átvezetni az érdekvédelmi nyilvántartásba.
+társadalombiztosítási, szociális, kegyeleti ellátásai megállapításának és folyósításának biztosítása, valamint elismerés adományozása.
 
-(6) Az érdekvédelmi nyilvántartásban szereplő adatokat valamint az azok alapjául szolgáló iratokat a (3) bekezdés szerinti idő eltelte után megőrzésre a Honvédség központi irattározásra kijelölt szervezetének kell átadni.
+(5) A (4) bekezdés d) pontja szerinti állomány esetén az érdekvédelmi szakterület számára előírt adatokat – az érintett hozzájárulásával – a Honvédség katonai igazgatási és központi adatfeldolgozó szerve rögzíti a HM KGIR adatbázisába.
 
-(7) Az érdekvédelmi nyilvántartásban kezelt adatokhoz társadalombiztosítási, szociális, kegyeleti ellátás megállapításának és folyósításának céljából elektronikus úton közvetlenül hozzáférhetnek és annak alapjául szolgáló okmányokba betekinthetnek:
+(6) Az érdekvédelmi szakterület által kezelt adatok alapjául szolgáló iratokat a (3) bekezdés szerinti idő eltelte után megőrzés érdekében a Honvédség központi irattározásra kijelölt szervezete kezeli tovább.
 
-a) a miniszter által vezetett minisztérium állami vezetői, valamint a Honvéd Vezérkar főnöke,
+(7) Az érdekvédelmi nyilvántartásban kezelt adatokhoz társadalombiztosítási, szociális, kegyeleti ellátás megállapításának és folyósításának, valamint elismerés adományozásának céljából elektronikus úton közvetlenül hozzáférhetnek és annak alapjául szolgáló okiratokba betekinthetnek:
+
+a) miniszter, a miniszter által vezetett minisztérium állami vezetői, valamint a Magyar Honvédség parancsnoka,
 
 b) a Honvédség központi személyügyi szerve,
 
-c) az alárendeltjei vonatkozásában a minősítést végző személy és az állományilletékes parancsnok,
+c) az állomány érintett tagjait illetően a fegyelmi, rehabilitációs, valamint a szociális ügyben eljáró, valamint az elismerés adományozásának előkészítésében eljáró személy,
 
-d) az állomány érintett tagjait illetően a fegyelmi, valamint a szociális ügyben eljáró személy,
+d) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző személy,
 
-e) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző,
+e) a honvédelmi szervezetek jogi képviseletét ellátó szervezet kijelölt tagja,
 
-f) a Honvédség jogi képviseletét ellátó szervezet,
+f) a honvédelmi szervezeteknél az érintett illetmény számfejtését végző szervek kijelölt tagja,
 
-g) a Honvédségnél az érintett illetmény számfejtését végző szervek,
-
-h) az önkéntes tartalékos katonák adatai tekintetében a katonai igazgatás lakóhely szerint illetékes területi szervei,
-
-i) a honvédelmi baleset és a honvédelmi úti baleset kivizsgálására létrehozott bizottság tagjai, a baleseti naplót vezető szolgálat.
+g) az önkéntes tartalékos katonák adatai tekintetében a katonai igazgatás lakóhely szerint illetékes területi szervek kijelölt tagjai.

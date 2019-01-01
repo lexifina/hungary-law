@@ -38,7 +38,7 @@ fc) a tartozás jogcímenkénti összege és a teljesítésre vonatkozó adatok;
 
 g) béren kívüli juttatásokra vonatkozó adatok:
 
-ga) a béren kívüli juttatás felhasználására jogosító kártya száma, speciális azonosítói,
+ga) a béren kívüli juttatás felhasználására jogosító korlátozott rendeltetésű fizetési számla száma, kártya száma, speciális azonosítói,
 
 gb) érvényes jogcímekre átutalt összegek adatai,
 

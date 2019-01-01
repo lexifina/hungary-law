@@ -40,4 +40,10 @@ bj) tengelyek száma,
 
 bk) engedélyezett sebessége,
 
-bl) kezelők száma.
+bl) kezelők száma,
+
+bm) légijármű felszálló tömege, hasznos teherszállítási képessége, hatótávolsága, repülési magassága,
+
+bn) ejtőernyő típusa,
+
+bo) légijármű előkészítő és kiszolgáló eszközök, berendezés típusa.

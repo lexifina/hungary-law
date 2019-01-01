@@ -22,4 +22,4 @@ i) a nyugállomány tagja és a szolgálati járandóságra jogosult esetében a
 
 j) személyi azonosító,
 
-k) személyügyi törzsszám.
+k)

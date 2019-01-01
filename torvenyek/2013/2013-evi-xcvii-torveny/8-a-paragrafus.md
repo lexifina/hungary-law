@@ -1,27 +1,13 @@
-8/A. § (1) A honvédelmi egészségkárosodási ellátást megállapító szerv a honvédelmi egészségkárosodási ellátással kapcsolatos jogosultság elbírálása, valamint a honvédelmi egészségkárosodási ellátással kapcsolatos feladatok ellátása céljából kezeli a honvédelmi egészségkárosodási ellátásban részesülő személy 15. melléklet szerinti adatait.
+8/A. § § (1) Az egészségügyi adatkezelést végző honvédelmi szervezet a szolgálati viszony fenntartásához, módosításához, megszüntetéséhez kapcsolódóan a felülvizsgálati eljárás lefolytatása, a betegség katonai kötelmekkel való összefüggésének véleményezése, valamint az egészségügyi szabadság és felmentések engedélyezése céljából kezeli a 8. § (1) bekezdés b) pontjában meghatározott személyek 16. melléklet 2. pontja szerinti adatait.
 
-(2) A honvédelmi egészségkárosodási ellátással kapcsolatos nyilvántartásba betekinthetnek a honvédelmi egészségkárosodási ellátással kapcsolatos döntés előkészítése, meghozatala, végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása céljából:
+(2) Az (1) bekezdésben meghatározott személyes adatokat, továbbá az ezeket tartalmazó dokumentációt – a feladatellátáshoz szükséges mértékben – a felülvizsgálati, engedélyezési és véleményezési tevékenységben részt vevő orvos, pszichológus, ergonómus, egészségügyi szakdolgozó, illetve bizottság kezelheti. Az adatkezelők felhívására az érintett köteles adatainak átadására.
 
-a) a honvédelemért felelős miniszter (a továbbiakban: miniszter), a miniszter által vezetett minisztérium állami vezetői, valamint a Honvéd Vezérkar főnöke,
+(3) A 16. melléklet 2. pont e) alpontja szerinti adatokhoz elektronikus úton közvetlenül hozzáférhet a felülvizsgálati, engedélyezési és véleményezési tevékenység során eljáró orvos, illetve bizottság, kivéve, ha ez ellen az érintett írásban kifejezetten tiltakozik. Az érintettet tájékoztatni kell a tiltakozás lehetőségéről.
 
-b) a Honvédség központi személyügyi szerve,
+(4) Az állományilletékes parancsnok és személyügyi szerv részére kizárólag a 16. melléklet 2. pont i) alpontja szerinti adat továbbítható. Az állományilletékes parancsnok jogosult kezelni a felülvizsgálati eljárás kezdeményezését megelőzően jogszerűen tudomására jutott egészségügyi adatot. A Honvédség központi pénzügyi szervének a 16. melléklet 2. pont a)–c), db), gc), továbbá h)–i) alpontjaihoz tartozó adatokat át kell adni.
 
-c) a miniszter által vezetett minisztérium személyügyi szerve,
+(5) A betegség katonai kötelmekkel való összefüggésének véleményezése esetén a Honvédség közegészségügyi és járványügyi szolgálata részére a 16. melléklet 2. pont i) alpont szerinti adatot az érintettre vonatkozó teljes adatállománnyal együtt kell továbbítani.
 
-d) a honvédségi szervezet saját állománya vonatkozásában a honvédségi szervezet személyügyi szerve,
+(6) Az egészségkárosodás mértékéről szóló szakvélemény beszerzése céljából a rehabilitációs szakértői szerv részére a megváltozott munkaképességű személyek ellátásairól szóló törvényben felsorolt személyes adatok továbbíthatók.
 
-e) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző személy,
-
-f) a Honvédség jogi képviseletét ellátó szervezet,
-
-g) a Honvédségnél az érintett illetmény számfejtését végző szerv.
-
-(3) Az adatkezelés
-
-a) a jogosultság megállapítása esetén a honvédelmi egészségkárosodási ellátásra való jogosultság megszűnését követő ötödik év december 31-ig,
-
-b) abban az esetben, ha a jogosultság megállapítására nem kerül sor, az erről hozott döntés elleni, a Hjt. 186. § (1) bekezdése szerinti keresetindításra nyitva álló határidő leteltét követő harminc napig, keresetindítás esetén a bíróság döntésének jogerőre emelkedéséig
-
-tart.
-
-(4) A honvédelmi egészségkárosodási ellátás megállapításakor, valamint megszűnésekor a honvédelmi egészségkárosodási ellátást megállapító szerv köteles ennek tényéről a megváltozott munkaképességű személyek ellátásait folyósító szervet, valamint a baleseti ellátást folyósító szerveket és a nyugdíjigazgatási szerveket tizenöt napon belül tájékoztatni.
+(7) Az (1) bekezdésben meghatározott feladatok ellátása során felhasznált, illetve keletkezett egészségügyi dokumentációt az adatfelvételtől számított 30 évig kell megőrizni. Az egyéb dokumentációban szereplő adatok a szolgálati viszony megszűnéséig vagy megszüntetéséig kezelhetők. Ha a szolgálati viszony egészségi vagy pszichikai alkalmatlanság alapján szűnt meg, az alkalmasság minősítésére vonatkozó adatot az egészségügyi dokumentáció megőrzési idejével megegyező ideig kell kezelni.

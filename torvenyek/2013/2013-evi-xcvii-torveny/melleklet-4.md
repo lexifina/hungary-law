@@ -96,7 +96,7 @@ qb) megszerzett katonai szakképzettsége,
 
 qc) az elért rendfokozata,
 
-qd) a szolgálat teljesítésének helye (a katonai, a Hvt. szerinti rendvédelmi szerv, közintézmény),
+qd) a szolgálat teljesítésének helye (a katonai, a Hvt. szerinti rendvédelmi szerv, az Országgyűlési Őrség és a Nemzeti Adó- és Vámhivatal, közintézmény),
 
 qe) a szolgálat során elért címei, osztályos fokozata és a megszerzett szakmai gyakorlata,
 

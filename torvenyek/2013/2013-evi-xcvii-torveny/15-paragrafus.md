@@ -1,19 +1,25 @@
-15. § (1) A fegyelmi nyilvántartásban kezelt adatokhoz a fegyelmi határozat jogkövetkezményeinek megállapítása, a fegyelmi fenyítés hatályának fennállása, felügyeleti és ellenőrzési jogkör gyakorlása céljából elektronikus úton közvetlenül hozzáférhet valamint az annak alapjául szolgáló iratokba betekinthetnek:
+15. § (1) A fegyelmi információs rendszerben kell kezelni a honvédek és az önkéntes tartalékos katonák 3. melléklet a), d) és f) pontjában meghatározott adatain túl
 
-a) a miniszter által vezetett minisztérium állami vezetői, valamint a Honvéd Vezérkar főnöke,
+a) a pszichikai állapotra vonatkozó adatokat,
 
-b) az alárendeltjei vonatkozásában az állományilletékes parancsnok,
+b) az elszenvedett sérülésre és gyógyulási időtartamára vonatkozó adatokat, valamint
 
-c) a honvédségi szervezet saját állománya vonatkozásában a honvédségi szervezet jogi és igazgatási szervezete,
+c) a korábbi öngyilkossági kísérletre vonatkozó adatokat.
 
-d) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző,
+(2) A fegyelmi információs rendszerben történő adatkezelés célja
 
-e) a Honvédség jogi képviseletét ellátó szervezet,
+a) a Honvédség magas fokú fegyelmének fenntartása érdekében a honvédelmi szervezeteknél történt, a katonai fegyelemre és a honvédelmi szervezetek fegyelmi helyzetére kiható eseményekről a Magyar Honvédség parancsnokának tájékoztatása,
 
-f) az adott ügyben érintett személy tekintetében a fegyelmi, a szabálysértési, a méltatlansági és a büntetőeljárásban eljáró személy,
+b) az a) pontban meghatározott események megelőzése,
 
-g) a Honvédségnél az érintett illetmény számfejtését végző szervek, és
+c) a honvédelmi szervezetek egységes joggyakorlatának elősegítése.
 
-h) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve.
+(3) A fegyelmi információs rendszerben szereplő
 
-(2) A fegyelmi nyilvántartáshoz történő hozzáférést, illetve az annak alapjául szolgáló iratokba történő betekintést a miniszter engedélyezi.
+a) adatokat a honvédelmi szervezet kezeli,
+
+b) az adatokkal kapcsolatos adatkezelési feladatokat a honvédelmi szervezet jogi és igazgatási szolgálatának állománya és a nyomozótiszt látja el,
+
+c) adatokba a 14/E. §-ban meghatározott személyek tekinthetnek be,
+
+d) adatok a keletkezésüktől számított 15 évig kezelhetők.

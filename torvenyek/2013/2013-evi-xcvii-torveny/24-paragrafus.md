@@ -1,15 +1,19 @@
-24. § (1) A honvédségi szervezet személyi állományának kiértesíthetősége céljából a honvédségi szervezet vezetője a honvédségi szervezet személyi állományának kiértesítésére és kiértesíthetőségére vonatkozó adatokat kezelheti.
+## 13/D. Kiértesítéssel kapcsolatos nyilvántartás
 
-(2) A honvédségi szervezet személyi állományának tagjáról a következő adatok kezelhetők:
+24. § (1) A honvédelmi szervezet kiértesíthetőség céljából kezeli a honvédelmi szervezetnél szolgálatot teljesítő, munkát végző személyi állomány kiértesítésére és kiértesíthetőségére vonatkozó adatait, valamint más honvédelmi szervezetnél szolgálatot teljesítő, munkát végző személyi állomány kiértesítésére és kiértesíthetőségére vonatkozó adatait, ha részükre a szolgálatteljesítés, munkavégzés helyeként az adott honvédelmi szervezet kerül meghatározásra.
+
+(2) Belső szabályozóban létrehozott készenléti szolgálatban több honvédelmi szervezet állományából szolgálatot teljesítő, munkát végző személyi állomány kiértesítésére és kiértesíthetőségére vonatkozó adatokat a kiértesítési kötelezettséggel rendelkező honvédelmi szervezet kezeli.
+
+(3) Az (1) és (2) bekezdésben meghatározott személyi állomány tagjáról a következő adatok kezelhetők:
 
 a) név, rendfokozat, beosztás,
 
 b) lakcím, tartózkodási hely, telefonszám, valamint
 
-c) a jelenlétre, illetve távollétre vonatkozó adatok (jelen, szolgálatban, vezényelve, szolgálati úton, egészségügyi, illetve beteg szabadságon, kórházban, szabadságon, pihenő napon, engedély nélkül távol, egyéb okból távol).
+c) a jelenlétre, illetve távollétre vonatkozó adatok (jelen, szolgálatban, vezényelve, szolgálati úton, egészségügyi, illetve beteg szabadságon, kórházban, szabadságon, pihenőnapon, engedély nélkül távol, egyéb okból távol).
 
-(3) A honvédségi szervezet személyi állományának tagja a (2) bekezdés szerinti adataiban bekövetkezett változást haladéktalanul köteles bejelenteni a honvédségi szervezet vezetőjének. Az adatokat a bejelentést követően a honvédségi szervezet vezetője által meghatározott rendben azonnal pontosítani kell.
+(4) Az (1) és (2) bekezdésben meghatározott honvédelmi szervezet személyi állományának tagja a (3) bekezdés szerinti adataiban bekövetkezett változást haladéktalanul köteles bejelenteni az (1) és (2) bekezdés szerinti honvédelmi szervezetnek. Az adatokat a bejelentést követően a honvédelmi szervezet vezetője által meghatározott rendben azonnal pontosítani kell.
 
-(4) A (2) bekezdésben meghatározott adatok a honvédségi szervezet személyi állománya tagjának a honvédségi szervezettel fennálló szolgálati viszonyának idejéig kezelhetők.
+(5) A (3) bekezdésben meghatározott adatok az (1) és (2) bekezdés szerinti honvédelmi szervezet személyi állománya tagjának a honvédelmi szervezettel fennálló szolgálati viszonyának idejéig, illetve vezénylésének, kirendelésének megszüntetéséig, a munkavégzés helyének megváltozásáig kezelhetők.
 
-(5) A (2) bekezdés a) és b) pontja szerinti adatok csak a kiértesítés végrehajtása céljából használhatók fel.
+(6) A (3) bekezdés a) és b) pontja szerinti adatok csak a kiértesítés céljából használhatók fel.
