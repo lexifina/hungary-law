@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-118-20-
 | 2016-12-01 | 2001-118-20-22.19 | 335/2016. (XI. 11.) Korm. rendelet |
 | 2017-12-01 | 2001-118-20-22.20 | 345/2017. (XI. 16.) Korm. rendelet |
 | 2018-01-01 | 2001-118-20-22.21 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2019-01-01 | 2001-118-20-22.22 | 273/2018. (XII. 20.) Korm. rendelet |

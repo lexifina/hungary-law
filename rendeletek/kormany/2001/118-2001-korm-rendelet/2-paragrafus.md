@@ -18,7 +18,17 @@ g)[^7] kölcsönvevő: az új Mt. 214. § (1) bekezdés c) pontjában meghatáro
 
 h)[^8] közfoglalkoztatásra irányuló munkaerő-kölcsönzés: a közfoglalkoztatási jogviszony keretében történő munkaerő-kölcsönzés;
 
-i)[^9] közhasznú kölcsönző: helyi vagy nemzetiségi önkormányzat, illetve ezek társulása, valamint az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 32. §-a szerinti közhasznú szervezet.
+i)[^9] közhasznú kölcsönző: helyi vagy nemzetiségi önkormányzat, illetve ezek társulása, valamint az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 32. §-a szerinti közhasznú szervezet;
+
+j)[^10] közteher:
+
+ja) a kölcsönbeadót a munkabér megfizetésével összefüggésben terhelő mindazon – kedvezményekkel csökkentett – adók, járulékok, hozzájárulások, amelyek alapja a munkabér, és amelyek bevallására és megfizetésére a kölcsönbeadó mint kifizető köteles,
+
+jb) egyszerűsített foglalkoztatás esetén az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efotv.) által meghatározott, a kölcsönbeadót terhelő tételes összeg, vagy
+
+jc) az Efotv. 8. § (4) bekezdésében foglaltak alapján fizetendő összeg;
+
+k)[^11] munkaerő-kölcsönzési díj: a munkaerő-kölcsönzési szerződés alapján, a kölcsönzött munkavállaló kikölcsönzésére tekintettel a kölcsönbeadót megillető ellenérték általános forgalmi adó nélkül számított összege.
 
 (2) Külföldi munkavégzésre irányuló magán-munkaközvetítés esetén az (1) bekezdés c) pontjában meghatározott jogviszony tartalmára a fogadó ország vonatkozó jogszabályai az irányadók.
 
@@ -28,3 +38,5 @@ i)[^9] közhasznú kölcsönző: helyi vagy nemzetiségi önkormányzat, illetve
 [^7]: A 2. § (1) bekezdés g) pontja a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés c) pontja, a 335/2016. (XI. 11.) Korm. rendelet 1. § (13) bekezdés a) pontja szerint módosított szöveg.
 [^8]: A 2. § (1) bekezdés h) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be.
 [^9]: A 2. § (1) bekezdés i) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be, szövege a 135/2012. (VI. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^10]: A 2. § (1) bekezdés j) pontját a 273/2018. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
+[^11]: A 2. § (1) bekezdés k) pontját a 273/2018. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
