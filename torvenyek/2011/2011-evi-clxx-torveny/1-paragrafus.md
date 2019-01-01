@@ -6,9 +6,9 @@
 
 1. § E törvény és az e törvény felhatalmazása alapján kiadott jogszabály alkalmazásában
 
-a) életjáradékra jogosult: az a természetes személy, aki az életjáradék nyújtójával megkötött, ügyvéd által ellenjegyzett szerződés alapján a tulajdonában álló lakóingatlan tulajdonjogát az életjáradék nyújtójára átruházta, ennek fejében haláláig havi rendszerességgel a szerződésben meghatározott pénzösszegre (a továbbiakban: járadék) jogosult,
+a)
 
-b) életjáradék nyújtója: életjáradéki szerződés megkötésével üzletszerűen foglalkozó olyan magyarországi székhelyű gazdasági társaság, amelynek tevékenységét a pénzügyi közvetítőrendszer felügyeletét ellátó állami hatóság felügyeli,
+b)
 
 c) háztartás: az egy lakóingatlanban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező természetes személyek közössége,
 
@@ -18,7 +18,7 @@ e) hitelező: az a pénzügyi intézmény és pénzügyi intézménynek nem min�
 
 f) jelzáloghitel-szerződés: a hiteladós és a pénzügyi intézmény között létrejött kölcsönszerződés – ideértve az életbiztosítási szerződéssel vagy lakás-előtakarékossági szerződéssel kombinált kölcsönszerződést, továbbá a jogszabályon alapuló állami készfizető kezességvállalással érintett kölcsönszerződéseket is –, amelynek hitelkockázati fedezete Magyarország területén lévő lakóingatlanon alapított jelzálogjog,
 
-g) hozzátartozó: a házastárs, élettárs, szülő, gyermek, örökbefogadott, mostoha- és nevelt gyermek, örökbefogadó, mostoha- és nevelőszülő,
+g)
 
 h) lakóingatlan: a lakás céljára létesített és egy vagy több helyrajzi számon nyilvántartott vagy közös tulajdonban álló, de önállóan forgalomképes, műszakilag összetartozó olyan ingatlan, amely az ingatlan-nyilvántartásban
 
@@ -50,4 +50,4 @@ na) lakhatásra alkalmas olyan ingatlan, amely nem minősül lakóingatlannak é
 
 nb) olyan lakóingatlan, amelyre a bérleti jogviszony megszűnt, vagy
 
-nc) olyan lakhatási célú ingatlan, amelyen bérleti jogviszony nem áll fenn és a Kormány által kihirdetett veszélyhelyzetben a károsultak átmeneti ingyenes elhelyezését szolgálja vagy jogszabályban meghatározott más módon hasznosításra kerül.
+nc)

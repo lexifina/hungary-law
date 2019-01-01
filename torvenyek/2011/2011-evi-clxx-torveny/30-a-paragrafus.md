@@ -1,7 +1,1 @@
-30/A. § E törvénynek a Nemzeti Eszközkezelővel kapcsolatos egyes törvények módosításáról szóló 2013. évi LIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépésekor
-
-a) folyamatban lévő ügyekre és
-
-b) – a Módtv.-vel megállapított 18. § (3) bekezdése kivételével – már megkötött szerződésekre
-
-is alkalmazni kell.
+30/A. § A Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvénnyel módosított 22. és 23. § rendelkezéseit a Nemzeti Eszközkezelővel 2019. január 1-jén fennálló lakásbérleti jogviszonyokra is alkalmazni kell.
