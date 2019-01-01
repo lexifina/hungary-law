@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-31-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-12-16 | 2018-31-20-7Q.1 | 31/2018. (XII. 15.) ITM rendelet |
+| 2019-01-01 | 2018-31-20-7Q.2 | Nemzeti Jogszabálytár (egységes szerkezet) |

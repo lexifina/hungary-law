@@ -1,3 +1,1 @@
-## 3. §[^3]
-
-[^3]: A 3. § az 5. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## 3. § Az R. 1. melléklete helyébe a 2. melléklet lép.
