@@ -1,4 +1,4 @@
-## 35–44. §[^7]
+## 35–44. §[^8]
 
 ## 6. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 15. § 2019. január 1-jén lép hatályba.
 
-[^7]: A 35–44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 35–44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
