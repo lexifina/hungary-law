@@ -4,13 +4,15 @@ a) a honvéd tisztjelölttel,
 
 b) a honvéd altiszt-jelölttel,
 
-c) a legénységi állomány azon tagjával, aki a Honvédség által szervezett, kizárólag katonai munkakör betöltésére jogosító honvéd altiszt-képzést eredményesen befejezte, vagy
+c) a legénységi állomány azon tagjával, aki a honvédelmi szervezet által szervezett, kizárólag katonai munkakör betöltésére jogosító honvéd altiszt-képzést eredményesen befejezte, vagy
 
-d) a miniszteri rendeletben meghatározottak szerint legalább öt év szerződéses tiszti vagy altiszti szolgálati viszonnyal rendelkező személlyel, feltéve, hogy az állománycsoport-váltással nem jár,
+d) a miniszteri rendeletben meghatározottak szerint szerződéses szolgálati viszonnyal, önkéntes tartalékos szolgálati viszonnyal, honvédelmi szervezettel fennálló kormányzati szolgálati jogviszonnyal, közalkalmazotti jogviszonnyal, honvédelmi alkalmazotti jogviszonnyal vagy munkaviszonnyal rendelkező személlyel,
 
 e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományából áthelyezésre kerülő személlyel.
 
 (2) Az (1) bekezdés szerinti korlátozást nem kell alkalmazni akkor, ha törvény a szolgálati viszony létesítését és fenntartását a hivatásos állományba vételhez köti.
+
+(2a) Szerződéses állomány tagjának hivatásos állományba vétele során a 31. § (4) bekezdését nem kell alkalmazni.
 
 (3) Szerződéses szolgálati viszony azzal létesíthető, aki első alkalommal
 

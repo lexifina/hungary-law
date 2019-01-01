@@ -8,7 +8,7 @@ b) a tudomására jutott tények alapján külön eljárás nélkül állapítja
 
 (3) Tettenérés vagy írásbeli beismerés esetén a 151. § (1) bekezdése nem alkalmazható. A méltatlansági eljárás felfüggesztéséről vagy az eljárás folytatásáról a méltatlansági bizottság üléséig a munkáltatói jogkört gyakorló, azt követően a méltatlansági bizottság dönt.
 
-(4) Meg kell szüntetni a méltatlansági eljárást akkor is, ha az eljárás alapjául szolgáló cselekmény nem eredményezi a Honvédség működéséhez szükséges közbizalom súlyos veszélyeztetését.
+(4) Meg kell szüntetni a méltatlansági eljárást akkor is, ha az eljárás alapjául szolgáló cselekmény nem eredményezi a honvédelmi szervezet működéséhez szükséges közbizalom súlyos veszélyeztetését.
 
 (5) A méltatlanságot megállapító határozat ellen az állomány tagja fellebbezést nyújthat be. A méltatlansági eljárás során hozott jognyilatkozatok csak a méltatlanságot megállapító határozat ellen benyújtott fellebbezésben sérelmezhetők. A fellebbezés benyújtásának a szolgálati viszony megszűnésére nincs halasztó hatálya.
 

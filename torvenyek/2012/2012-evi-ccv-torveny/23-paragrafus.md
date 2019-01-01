@@ -13,3 +13,5 @@ e) nem állíthat elő, nem terjeszthet, nem tehet közzé, nem jelentethet meg,
 (2) Az állomány tagja más kereső tevékenységet a 81. § szerint folytathat, és az összeférhetetlenséget köteles haladéktalanul megszüntetni.
 
 (3) A miniszter közjogi szervezetszabályozó eszközben megtilthatja, hogy az állomány tagja internetes felületen magánszemélyként való megnyilvánulásakor, magánvélemény nyilvánításakor az állományba tartozására vonatkozó adatot hozzon nyilvánosságra.
+
+(4) A miniszter közjogi szervezetszabályozó eszközben megtilthatja vagy korlátozhatja az állomány tagjának az internetes közösségi portálokon, illetve képmegosztó felületeken való megjelenését, amennyiben az biztonsági érdeket sérthet, vagy a Honvédség társadalmi megítélését ronthatja.

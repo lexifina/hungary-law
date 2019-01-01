@@ -20,12 +20,14 @@ d) aki a betöltendő munkakör ellátásához szükséges tevékenység folytat
 
 e) aki próbára bocsátás intézkedés hatálya alatt áll,
 
-f) akinek lefokozására vagy szolgálati viszonyának megszüntetésére fegyelmi fenyítésként vagy méltatlanság megállapítása miatt került sor, a jogerőre emelkedéstől számított 5 évig, vagy
+f) akinek lefokozására szolgálati viszonyának megszüntetésére fegyelmi fenyítésként méltatlanság megállapítása miatt került sor, a jogerőre emelkedéstől számított 5 évig,
 
-g) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll.
+g) aki két évnél súlyosabb szabadságvesztéssel büntetendő bűncselekmény gyanúja miatt büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
+
+h) akivel szemben a jogviszony létesítésekor jogviszony-megszűnési ok áll fenn.
 
 (3) Az öregségi nyugdíjban, korhatár előtti ellátásban vagy szolgálati járandóságban részesülő személy állományba vételéről a munkáltatói jogkört gyakorló – az öregségi nyugdíjnak, korhatár előtti ellátásnak vagy a szolgálati járandóságnak a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny. tv.) 83/C. § (1) bekezdése, illetve a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény (a továbbiakban: Kenytv.) 11. § (1) bekezdése szerint történő szüneteltetés érdekében, az érintett személy nevének és társadalombiztosítási azonosító jelének megküldésével – haladéktalanul értesíti a nyugdíjfolyósító szervet.
 
-(4) Azt a tényt, hogy a (2) bekezdésben meghatározott kizáró ok vele szemben nem áll fenn, a szolgálati viszony létesítését megelőzően, a szolgálati viszonyt létesíteni szándékozó személy hatósági bizonyítvánnyal igazolja.
+(4) Azt a tényt, hogy a (2) bekezdés a)–g) pontjában meghatározott kizáró ok vele szemben nem áll fenn, a szolgálati viszony létesítését megelőzően, a szolgálati viszonyt létesíteni szándékozó személy hatósági bizonyítvánnyal igazolja.
 
 (5) A tábori lelkész szolgálati viszonyának létesítéséhez a bevett egyház egyetértése is szükséges.

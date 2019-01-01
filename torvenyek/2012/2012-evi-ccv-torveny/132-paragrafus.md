@@ -22,4 +22,4 @@ távolléti díjnak megfelelő összeg.
 
 (2b) Az állomány 58/A. § (2) bekezdése alapján rendelkezési állományba tartozó tagja esetében is alkalmazni kell a (2) bekezdést azzal az eltéréssel, hogy ha az állomány érintett tagja esetében az (1) bekezdés szerinti jubileumi jutalomra jogosító szolgálati viszonyban töltött idő elérésének napja a szolgálati viszony szünetelése időszakára esik, és a jubileumi jutalom alapját képező szolgálati idő alapján az adott időszakra vonatkozóan jubileumi jutalomban nem részesült, a Hjt. szerinti jubileumi jutalmat – egyéb kizáró ok hiányában – részére utólag, legkésőbb a szolgálati viszony szünetelésének utolsó napját követő második hónap 5. napjáig, vagy ha szolgálati viszonya ennél korábbi időpontban megszűnik, a szolgálati viszony megszűnése napjáig kell folyósítani.
 
-(3) Az állomány azon tagja részére, aki alapilletményre az 5. melléklet VII. besorolási osztály alapján jogosult, és a tartós külföldi szolgálata alatt válik jogosulttá jubileumi jutalomra, a jubileumi jutalmat a külföldi szolgálatot megelőző napon érvényes illetménye figyelembevételével számított távolléti díj alapján kell megállapítani.
+(3)

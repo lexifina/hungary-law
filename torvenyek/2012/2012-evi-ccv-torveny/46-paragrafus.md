@@ -1,6 +1,6 @@
 ## 27. A rendelkezési állomány
 
-46. § (1) A Honvédség rendelkezési állományába tartozik,
+46. § (1) A honvédelmi szervezet rendelkezési állományába tartozik,
 
 a) az állomány azon tagja, aki Magyarországon települő katonai szervezetnél teljesít szolgálatot, a vezénylés időtartamára,
 
@@ -36,7 +36,7 @@ p) az állomány azon tagja, akinek a szolgálati beosztása létszámcsökkent�
 
 q) az állomány azon tagja, aki az egészségügyi felsőfokú szakirányú szakképzési rendszerben szakorvos-jelöltként vesz részt, az előírt képzési idő tartamára,
 
-r) a hivatásos tiszti állomány legalább százados és a hivatásos altiszti állomány legalább főtörzsőrmesteri rendfokozattal rendelkező tagja, akinek szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, vagy maximális várakozási ideje letelt és annak meghosszabbítására a 86. § (3) bekezdése szerint nem került sor, vagy akivel szemben az e) pont szerinti ok megszűnt és továbbfoglalkoztatására nincs lehetőség, a kormányzati szolgálati, az állami szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
+r) a hivatásos tiszti állomány legalább főhadnagy és a hivatásos altiszti állomány legalább törzsőrmester rendfokozattal rendelkező tagja, akinek szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, vagy maximális várakozási ideje letelt és annak meghosszabbítására a 86. § (3) bekezdése szerint nem került sor, vagy akivel szemben az e) pont szerinti ok megszűnt és továbbfoglalkoztatására nincs lehetőség, a kormányzati szolgálati, az állami szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
 
 s) a hivatásos állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja, aki egészségi vagy pszichikai okból katonai szolgálatra alkalmatlan, a kormányzati szolgálati, az állami szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) vagy (1a) bekezdésében meghatározott időtartamra,
 
@@ -48,7 +48,7 @@ v) a hivatásos állomány azon tagja, aki a KNBSZ-nél szolgálati beosztásra 
 
 (2) Meg kell szüntetni az (1) bekezdés f)–i), k)–m), p) és u) pontja szerinti rendelkezési állományt, ha az állomány tagjának megfelelő szolgálati beosztásba helyezésére nincs lehetőség.
 
-(3) Az állomány (1) bekezdés q) pontja alá tartozó tagjának szolgálati feladatait a Honvédség egészségügyi szervezetének vezetője határozza meg.
+(3) Az állomány (1) bekezdés q) pontja alá tartozó tagjának szolgálati feladatait a honvédelmi szervezet egészségügyi szervezetének vezetője határozza meg.
 
 (4) Ha e törvény eltérően nem rendelkezik, a rendelkezési állomány megszűnését vagy megszüntetését követően a munkáltatói jogkört gyakorló
 

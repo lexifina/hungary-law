@@ -1,0 +1,1 @@
+58/D. § A szolgálati viszony 58/A. § szerinti szünetelésének időtartama alatt az állomány tagjára az elismerésekkel kapcsolatos szabályokat – miniszteri rendeletben meghatározottak szerint – alkalmazni kell.

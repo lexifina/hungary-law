@@ -32,6 +32,6 @@ b) az (1) vagy (1a) bekezdés szerinti időtartam lejárta előtt megszűnik, ha
 
 (3) Ha a hivatásos állomány tagja munkaviszony létesítése miatt kéri a szolgálati viszonya megszűnésének megállapítását, az (1) bekezdés szerinti időtartam hátralevő részére számított távolléti díjnak megfelelő összegre, illetve a 47. § (1a) bekezdése szerinti esetben az ott meghatározott összegre jogosult.
 
-(4) A hivatásos állomány tagja, a Honvédség és a kormányzati személyügyi igazgatási feladatokat ellátó szerv a rendelkezési állomány időtartama alatt az 59. § (2) bekezdés c) pontja szerinti áthelyezés elősegítése érdekében kölcsönösen együttműködve kötelesek eljárni.
+(4) A hivatásos állomány tagja, a honvédelmi szervezet és a kormányzati személyügyi igazgatási feladatokat ellátó szerv a rendelkezési állomány időtartama alatt az 59. § (2) bekezdés c) pontja szerinti áthelyezés elősegítése érdekében kölcsönösen együttműködve kötelesek eljárni.
 
 (5) Ha törvény a tartalékállományba helyezettek foglalkoztatására járulékcsökkentési kedvezményt biztosít, vagy lehetővé teszi annak személyi juttatásokra történő felhasználását, e rendelkezéseket a 46. § (1) bekezdés r) vagy s) pontja szerint rendelkezési állományba áthelyezett személyt foglalkoztatóra is alkalmazni kell.

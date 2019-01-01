@@ -1,6 +1,6 @@
 12. § (1) Az érvénytelen jognyilatkozat alapján létrejött szolgálati viszonyból származó, jóhiszeműen szerzett és gyakorolt jogokat, illetve kötelezettségeket úgy kell tekinteni, mintha azok érvényes jognyilatkozat alapján állnának fenn.
 
-(2) Az érvénytelen jognyilatkozat alapján létrejött szolgálati viszony e törvény erejénél fogva megszűnik. Ha az érvénytelenségi ok a Honvédség oldalán merült fel, a 62. § (1) bekezdés b) pontja szerinti felmentés szabályait kell alkalmazni. Ha az érvénytelenségi ok a szolgálatteljesítés
+(2) Az érvénytelen jognyilatkozat alapján létrejött szolgálati viszony e törvény erejénél fogva megszűnik. Ha az érvénytelenségi ok a honvédelmi szervezet oldalán merült fel, a 62. § (1) bekezdés b) pontja szerinti felmentés szabályait kell alkalmazni. Ha az érvénytelenségi ok a szolgálatteljesítés
 
 a) megkezdése előtt megállapításra kerül, akkor az érvénytelenséget előidéző ok megszüntetéséig az állomány tagja a szolgálatteljesítést nem kezdheti meg,
 

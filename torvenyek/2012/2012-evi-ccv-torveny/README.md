@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-205-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2012-205-00-00.30 |
 | 2018-08-15 | 2018. évi XLVIII. törvény | 2012-205-00-00.31 |
 | 2018-12-07 | 2018. évi XCV. törvény | 2012-205-00-00.32 |
+| 2019-01-01 | 2018. évi CX. törvény | 2012-205-00-00.33 |

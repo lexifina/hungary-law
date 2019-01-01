@@ -16,7 +16,7 @@ e) megelőző védelmi helyzetben és rendkívüli állapot idején egyéb katon
 
 f) közreműködni a honvédelmi nevelés programjának megvalósításában,
 
-g) a Honvéd Vezérkar főnöke által elrendelt feladatokat ellátni,
+g) a Magyar Honvédség parancsnoka által elrendelt feladatokat ellátni,
 
 h) a minősített adat védelmére vonatkozó szabályokat betartani, és
 

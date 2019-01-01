@@ -1,6 +1,6 @@
 ## 102. A fellebbezés
 
-182. § (1) Ha e törvény eltérően nem rendelkezik, az állomány tagja az első fokú határozat ellen a közléstől számított 15 napon belül írásban fellebbezést nyújthat be. Fellebbezésnek kell tekinteni – elnevezésére tekintet nélkül – minden olyan beadványt, amelyben az állomány tagja a munkáltatói jogkört gyakorló vagy a miniszter által kijelölt honvédségi szervezet által hozott határozatot sérelmezi, vagy annak megváltoztatását kéri, kivéve, ha kérelme a határozat érdemi rendelkezését nem érintő kijavításra vagy kiegészítésre irányul.
+182. § (1) Ha e törvény eltérően nem rendelkezik, az állomány tagja az első fokú határozat ellen a közléstől számított 15 napon belül írásban fellebbezést nyújthat be. Fellebbezésnek kell tekinteni – elnevezésére tekintet nélkül – minden olyan beadványt, amelyben az állomány tagja a munkáltatói jogkört gyakorló vagy a miniszter által kijelölt honvédelmi szervezet által hozott határozatot sérelmezi, vagy annak megváltoztatását kéri, kivéve, ha kérelme a határozat érdemi rendelkezését nem érintő kijavításra vagy kiegészítésre irányul.
 
 (2) Az (1) bekezdéstől eltérően
 

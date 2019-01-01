@@ -1,4 +1,4 @@
-130. § (1) Az illetményből levonásnak csak jogszabály, vagy – a levonásmentes illetményrészig –, végrehajtható határozat vagy az állomány tagjának írásbeli hozzájárulása alapján van helye. A Honvédség az előlegnyújtásból eredő követelését a 141/A. és 141/B. § szerinti esetek kivételével – a levonásmentes illetményrészig – az állomány tagja illetményéből levonhatja. Az illetménnyel szemben beszámításnak nincs helye. A levonásmentes illetményrész nem engedményezhető.
+130. § (1) Az illetményből levonásnak csak jogszabály, vagy – a levonásmentes illetményrészig –, végrehajtható határozat vagy az állomány tagjának írásbeli hozzájárulása alapján van helye. A honvédelmi szervezet az előlegnyújtásból eredő követelését a 141/A. és 141/B. § szerinti esetek kivételével – a levonásmentes illetményrészig – az állomány tagja illetményéből levonhatja. Az illetménnyel szemben beszámításnak nincs helye. A levonásmentes illetményrész nem engedményezhető.
 
 (2) A jogalap nélkül folyósított illetmény hatvan napon belül az előlegnyújtásból eredő követelésre vonatkozó szabályok szerint az állomány tagjától levonható.
 

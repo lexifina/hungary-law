@@ -26,4 +26,4 @@ f) a tanszékvezetői tevékenység folytatásához.
 
 (6) Az állomány tagja a szolgálati feladathoz kapcsolódó közszerepléséért tiszteletdíjat nem fogadhat el.
 
-(7) Az (1)–(3) és az (5) bekezdés szerinti előzetes engedély megadásáról vagy elutasításáról a munkáltatói jogkört gyakorló a szolgálati érdeket mérlegelve dönt. Nem adható engedély, ha a más kereső tevékenység ellentétes a Honvédség feladataival vagy a szolgálat kötelességszerű, pártatlan ellátását, illetve a Honvédség tekintélyét veszélyezteti.
+(7) Az (1)–(3) és az (5) bekezdés szerinti előzetes engedély megadásáról vagy elutasításáról a munkáltatói jogkört gyakorló a szolgálati érdeket mérlegelve dönt. Nem adható engedély, ha a más kereső tevékenység ellentétes a honvédelmi szervezetek feladataival vagy a szolgálat kötelességszerű, pártatlan ellátását, illetve a honvédelmi szervezetek tekintélyét veszélyezteti.

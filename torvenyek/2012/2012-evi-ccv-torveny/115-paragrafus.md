@@ -1,6 +1,6 @@
 ## 67. A szülési szabadság és az illetmény nélküli szabadság
 
-115. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult azzal, hogy ebből legalább két hetet köteles igénybe venni. A szülési szabadságot az anya kérelmére úgy kell kiadni, hogy legfeljebb négy hét a szülés várható időpontja elé essen.
+115. § (1) Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult azzal, hogy ebből legalább két hetet köteles igénybe venni. A szülési szabadságot úgy kell kiadni, hogy abból négy hét lehetőleg a szülés várható időpontja elé essen.
 
 (2) A szülési szabadságot az (1) bekezdés szerinti időtartamból még hátralévő időre engedélyezni kell továbbá
 

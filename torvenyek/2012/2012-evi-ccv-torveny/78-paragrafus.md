@@ -32,7 +32,7 @@ e) a 79. § szerinti kötelezettségének eleget tenni,
 
 f) az előírt képzésben kiképzésen részt venni, a vizsgákat letenni,
 
-g) a szolgálatteljesítés alatt és szolgálaton kívül is a Honvédség tagjához és szolgálati beosztásához méltó magatartást tanúsítani,
+g) a szolgálatteljesítés alatt és szolgálaton kívül is a honvédelmi szervezet tagjához és szolgálati beosztásához méltó magatartást tanúsítani,
 
 h) a rendelkezésére bocsátott fegyverzetet, felszerelést, ruházatot, egyéb eszközöket és anyagokat rendeltetésszerűen használni, megőrizni, és karbantartott állapotát fenntartani,
 
@@ -44,4 +44,4 @@ j) a minősített adatot megőrizni, továbbá azok védelmére vonatkozó szab�
 
 (4) A miniszter az egészségügyért felelős miniszterrel egyetértésben rendeletben határozza meg azokat a fertőző betegségeket, amelyek esetén a megbetegedési veszély, a szolgálati beosztáshoz, illetve egyes szolgálati feladatokhoz kapcsolódóan – így különösen a külföldi szolgálat végrehajtása során – az állomány tagjának vagy egyes csoportjainak egészségét és biztonságát veszélyeztető biológiai kóroki tényező kockázatának elkerülése érdekében kötelező védőoltás elrendelésének van helye.
 
-(5) A kötelező védőoltást a Honvédség közegészségügyi-járványügyi hatósági feladatokat ellátó szerv vezetőjének javaslata alapján a Honvéd Vezérkar főnöke rendeli el. A Honvéd Vezérkar főnöke által elrendelt kötelező védőoltás alól az egészségügyről szóló törvény szerinti mentesítést az állomány védőoltásra kötelezett tagja vagy kezelőorvosa a Honvédség közegészségügyi-járványügyi hatósági feladatokat ellátó szervének vezetőjénél kezdeményezheti.
+(5) A kötelező védőoltást a honvédelmi szervezetek közegészségügyi-járványügyi hatósági feladatokat ellátó szerv vezetőjének javaslata alapján a Magyar Honvédség parancsnoka rendeli el. A Magyar Honvédség parancsnoka által elrendelt kötelező védőoltás alól az egészségügyről szóló törvény szerinti mentesítést az állomány védőoltásra kötelezett tagja vagy kezelőorvosa a honvédelmi szervezetek közegészségügyi-járványügyi hatósági feladatokat ellátó szervének vezetőjénél kezdeményezheti.

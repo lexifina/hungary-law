@@ -1,6 +1,6 @@
 ## 7. A jognyilatkozat közlése
 
-8. § (1) A jognyilatkozatot a címzettel közölni kell.
+8. § (1) A jognyilatkozatot a címzettel közölni kell. Jogi képviselővel eljáró címzett esetén a jognyilatkozatot a jogi képviselővel kell közölni.
 
 (2) A jognyilatkozat akkor tekinthető közöltnek, ha azt a címzett vagy az átvételre jogosult más személynek átadják, illetve az elektronikus dokumentum részükre hozzáférhetővé válik. A közlés akkor is hatályos, ha a címzett vagy az átvételre jogosult más személy az átvételt megtagadja, vagy azt szándékosan megakadályozza. Erről jegyzőkönyvet kell felvenni.
 

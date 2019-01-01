@@ -4,10 +4,10 @@
 
 (2) Miniszteri rendelet a külszolgálati ellátmány helyett az állomány ideiglenes külföldi szolgálatot teljesítő tagjának külföldi napidíjat állapíthat meg. Az önként vállalt ideiglenes külföldi szolgálat esetén az állomány tagja külföldi napidíjáról előzetesen írásban lemondhat.
 
-(3) A miniszter rendeletben külföldi napidíj-kiegészítést állapíthat meg.
+(3) A miniszter rendeletben külföldi napidíj-kiegészítést, kiegészítő juttatást, a külföldi szolgálat jellegétől függően költségtérítéseket és átalány-költségtérítéseket állapíthat meg.
 
 (4) A tartós külföldi szolgálatot teljesítő részére a külföldi szolgálata időtartama alatt megállapítható illetményelemek körét és jogosultsági szabályait a miniszter rendeletben határozza meg.
 
-(5)
+(5) A miniszter rendeletben határozza meg a külföldi szolgálatra tekintettel adható juttatások azon körét, amelynek mértéke vagy megállapításának, illetve folyósításának rendje tekintetében a KNBSZ főigazgatója saját hatáskörben határozhatja meg a KNBSZ tartós külföldi szolgálatot teljesítő állományára vonatkozó szabályokat.
 
 (6) Az (1) és a (2) bekezdés a hazai ösztöndíján felül a honvéd tisztjelöltre és a honvéd altiszt-jelöltre is irányadó. Ettől eltérően a pályázati forrásból finanszírozott külföldi képzés esetén a honvéd tisztjelölt a hazai ösztöndíjára jogosult, továbbá részére a kiküldő a rendelkezésére álló pályázati forrás terhére további juttatásokat állapíthat meg.

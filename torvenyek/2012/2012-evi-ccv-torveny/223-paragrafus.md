@@ -6,7 +6,7 @@
 
 a) aki egyenruhában nyilvános helyen, mások előtt megbotránkozást keltő magatartást tanúsít,
 
-b) aki a Honvédség tekintélyét és a működéséhez szükséges közbizalom megóvását veszélyeztető tevékenységet folytat vagy magatartást tanúsít,
+b) aki a honvédelmi szervezet tekintélyét és a működéséhez szükséges közbizalom megóvását veszélyeztető tevékenységet folytat vagy magatartást tanúsít,
 
 c) akit szándékos bűncselekmény elkövetése miatt a bíróság szabadságvesztésre ítélt.
 

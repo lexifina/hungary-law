@@ -2,7 +2,7 @@
 
 ## A HVT. 36. § (1) BEKEZDÉS H) PONTJA, VALAMINT (2) BEKEZDÉS A) PONTJA SZERINTI FELADATBAN RÉSZTVEVŐ ÁLLOMÁNYRA VONATKOZÓ KÜLÖN SZABÁLYOK
 
-237/A. § (1) A Honvédség Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti feladatban résztvevő állománya vonatkozásában a 49. §, a 95. §, a 96. § (1)–(2) bekezdése, a 100–107. §, a 218. § (1) bekezdése, valamint a 247/H. § alkalmazása a (2) bekezdés szerint felfüggeszthető.
+237/A. § (1) A honvédelmi szervezet Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti feladatban résztvevő állománya vonatkozásában a 49. §, a 95. §, a 96. § (1)–(2) bekezdése, a 100–107. §, a 218. § (1) bekezdése, valamint a 247/H. § alkalmazása a (2) bekezdés szerint felfüggeszthető.
 
 (1a) A Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti feladatban résztvevő önkéntes tartalékos állomány tekintetében a 219. §-ban foglaltaktól kedvezőbb szabályok is megállapíthatóak.
 

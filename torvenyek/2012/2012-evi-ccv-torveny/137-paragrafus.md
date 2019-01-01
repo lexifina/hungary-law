@@ -1,6 +1,6 @@
 ## 80. A lakhatás-támogatási rendszer
 
-137. § (1) A Honvédség – különösen a 25. § (1) bekezdés szerinti kötelezettség teljesítésének elősegítése érdekében – lakhatás-támogatási rendszert működtet.
+137. § (1) A honvédelmi szervezet – különösen a 25. § (1) bekezdés szerinti kötelezettség teljesítésének elősegítése érdekében – lakhatás-támogatási rendszert működtet.
 
 (2) A lakhatás támogatása
 
@@ -30,4 +30,4 @@ a) a miniszter által vezetett minisztérium rendelkezése alatt lévő lakások
 
 b) a lakáscélú munkáltatói kölcsönök törlesztéséből származó bevétel.
 
-(6) Az (5) bekezdés a) pontja szerinti, a miniszter által vezetett minisztériumot megillető bevétel a Honvédség technikai modernizációjára és infrastrukturális fejlesztéseire is felhasználható.
+(6) Az (5) bekezdés a) pontja szerinti, a miniszter által vezetett minisztériumot megillető bevétel a honvédelmi szervezet technikai modernizációjára és infrastrukturális fejlesztéseire is felhasználható.

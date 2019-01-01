@@ -12,7 +12,7 @@ d) – az 58/A. §-ban foglaltak kivételével – állami vezetővé történő
 
 e) a magyar állampolgárság megszűnésével,
 
-f) a más állam állampolgárságának megszerzésével akkor, ha az állampolgárság megszerzésére az állomány tagjának közrehatására, vagy kifejezett beleegyezésével került sor, és az befolyásolja közreműködését a Honvédség feladatainak ellátásában,
+f) a más állam állampolgárságának megszerzésével akkor, ha az állampolgárság megszerzésére az állomány tagjának közrehatására, vagy kifejezett beleegyezésével került sor, és az befolyásolja közreműködését a honvédelmi szervezet feladatainak ellátásában,
 
 g) az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvényben meghatározott, jogviszony megszűnését eredményező esetekben,
 
@@ -30,7 +30,7 @@ m) a 162. § (1) bekezdés c) pontja szerinti katonai szolgálatra méltatlansá
 
 n) ha az egészségi okból katonai szolgálatra való alkalmatlansága megállapítását követően honvédelmi egészségkárosodási járadékra való jogosultságát állapítják meg,
 
-o) ha az egészségi okból katonai szolgálatra való alkalmatlansága megállapítását követően a honvédségi szervezetnél történő munkaviszony létesítésére tekintettel részére honvédelmi egészségkárosodási keresetkiegészítést állapítanak meg,
+o) ha az egészségi okból katonai szolgálatra való alkalmatlansága megállapítását követően a honvédelmi szervezetnél történő munkaviszony létesítésére tekintettel részére honvédelmi egészségkárosodási keresetkiegészítést állapítanak meg,
 
 p) az a)–o) pontban nevesített eseteken kívül, ha e törvény azt kifejezetten elrendeli.
 

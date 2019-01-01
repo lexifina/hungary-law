@@ -28,6 +28,6 @@ b) elbírálására irányuló eljárásban az eljárási határidő 60 nap.
 
 (10) A baleseti járadék megállapításával, továbbfolyósításával kapcsolatos eljárásban az eljáró szerv az eljárást felfüggesztheti az orvosszakértői szervnek az egészségkárosodás mértéke megállapítására irányuló eljárása időtartamára.
 
-(11) A baleseti járadékra való jogosultság tárgyában hozott határozat ellen benyújtott fellebbezést a miniszter bírálja el.
+(11) A baleseti járadékra való jogosultság tárgyában hozott döntés ellen benyújtott fellebbezést a miniszter bírálja el.
 
 (12) A baleseti járadékra való jogosultság vizsgálatának és megállapításának szabályait kormányrendelet határozza meg.

@@ -10,6 +10,6 @@ feltéve, hogy a szolgálati beosztás ellátásához miniszteri rendeletben el�
 
 (2) A megbízásra az eredeti beosztás ellátása alóli mentesítéssel kerülhet sor, és a megbízás időtartama az egy évet nem haladhatja meg.
 
-(3) A megbízás időtartama alatt az állomány tagja részére a megbízással betöltött beosztás szerinti illetmény jár, amelyből a távolléti díjba tartozó illetményelemek együttes összege nem lehet kevesebb az eredeti beosztása betöltésének utolsó napján járó illetménye távolléti díjba tartozó illetményelemeinek együttes összegénél.
+(3) A megbízás időtartama alatt az állomány tagja részére a megbízással betöltött beosztás szerinti illetmény jár. Ha a megbízással betöltött beosztás szerinti illetmény távolléti díjba tartozó elemeinek együttes összege kevesebb, mint az eredeti beosztás szerinti illetmény távolléti díjba tartozó elemeinek együttes összege, akkor az illetmény távolléti díjba tartozó elemeit az eredeti beosztás szerint kell megállapítani.
 
 (4) A megbízás bármikor, indokolás nélkül megszüntethető.

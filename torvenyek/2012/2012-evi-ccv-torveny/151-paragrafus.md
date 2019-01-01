@@ -2,7 +2,7 @@
 
 a) az állomány tagja tartós távolléte, vagy egészségi állapota miatt önhibáján kívüli okból az eljárási cselekményben nem tud részt venni, illetve az eljárási jogait nem tudja gyakorolni,
 
-b) a kötelezettségszegés elbírálása olyan előzetes kérdéstől függ, melynek eldöntése bíróság, más hatóság, honvédségi szervezet vagy szakértő hatáskörébe tartozik.
+b) a kötelezettségszegés elbírálása olyan előzetes kérdéstől függ, melynek eldöntése bíróság, más hatóság, honvédelmi szervezet vagy szakértő hatáskörébe tartozik.
 
 (2) Az eljárás felfüggesztése
 

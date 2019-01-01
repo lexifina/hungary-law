@@ -2,9 +2,9 @@
 
 111. § (1) A szabadság mértékének megállapításakor a szolgálati rend szerinti munkanapok mellett figyelembe kell venni a 108. § szerinti időtartamokat, a szülési szabadságot, a gyermek gondozása céljából igénybe vett illetmény nélküli szabadság első 6 hónapját, a hozzátartozó ápolása miatt kapott 30 napot meg nem haladó illetmény nélküli szabadságot, és minden olyan munkában nem töltött időt, amelyre az állomány tagja illetményre jogosult.
 
-(2) Az állomány tagja részére a szabadság arányos része jár, ha a szolgálati viszonya év közben kezdődött vagy szűnt meg, továbbá, ha a szabadság mértékét érintő változásra év közben kerül sor.
+(2) Az állomány tagja részére a szabadság arányos része jár, ha a szolgálati viszonya év közben kezdődött vagy szűnt meg, továbbá, ha a szabadságra való jogosultságot és a szabadság mértékét érintő változásra év közben kerül sor.
 
-(3) A szabadság mértékének megállapításakor nem lehet figyelembe venni
+(3) A szabadságra való jogosultság és a szabadság mértékének megállapításakor nem lehet figyelembe venni
 
 a) a 46. § (1) bekezdés n) vagy o) pontja szerinti rendelkezési állományba tartozás,
 
@@ -18,7 +18,7 @@ e) a katonai fogdán végrehajtani rendelt szabadságvesztés büntetés
 
 időtartamát.
 
-(4) A (3) bekezdés szerinti időtartamokat a szabadság mértékének megállapításakor utólag akkor kell figyelembe venni, ha
+(4) A (3) bekezdés szerinti időtartamokat a szabadságra való jogosultság és a szabadság mértékének megállapításakor utólag akkor kell figyelembe venni, ha
 
 a) a fegyelmi eljárást felelősség megállapítása nélkül szüntetik meg,
 

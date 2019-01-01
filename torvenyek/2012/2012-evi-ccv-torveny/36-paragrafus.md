@@ -2,7 +2,7 @@
 
 36. § (1) Az állomány tagját az állományba vételt követően a munkáltatói jogkört gyakorló kinevezi az első rendfokozatába és az első szolgálati beosztásába. A közkatona és a szerződéses pályakezdő kinevezésének feltétele az alapkiképzés teljesítése.
 
-(1a) Az (1) bekezdéstől eltérően az állomány tagja az állományba vétellel egyidejűleg első szolgálati beosztásba történő kinevezés nélkül is vezényelhető a 42. § (2) bekezdés c) pontja alapján bírósági szervezetnél, a bíróságok igazgatási feladatait ellátó szervezetnél, az ügyészi szervezetnél vagy a Honvédség tevékenységét elősegítő egyesületnél, a 42. § (2) bekezdés d) pontja alapján vagy a 42. § (2) bekezdés e) pontja alapján történő szolgálatteljesítésre.
+(1a) Az (1) bekezdéstől eltérően az állomány tagja az állományba vétellel egyidejűleg első szolgálati beosztásba történő kinevezés nélkül is vezényelhető a 42. § (2) bekezdés c) pontja alapján bírósági szervezetnél, a bíróságok igazgatási feladatait ellátó szervezetnél, az ügyészi szervezetnél vagy a honvédelmi szervezet tevékenységét elősegítő egyesületnél, a 42. § (2) bekezdés d) pontja alapján vagy a 42. § (2) bekezdés e) pontja alapján történő szolgálatteljesítésre.
 
 (2) A kinevezési okmánynak tartalmaznia kell
 

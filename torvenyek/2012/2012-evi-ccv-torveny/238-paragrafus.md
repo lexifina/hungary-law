@@ -22,23 +22,23 @@ g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
-1. a szolgálati viszony létesítésével, módosításával, megszűnésével, megszüntetésével, a Honvédség tájékoztatási kötelezettsége teljesítésével, a szolgálati viszony megszűnésekor, megszüntetésekor az elszámolással és az igazolással kapcsolatos szabályokat,
+1. a szolgálati viszony létesítésével, módosításával, megszűnésével, megszüntetésével, a honvédelmi szervezet tájékoztatási kötelezettsége teljesítésével, a szolgálati viszony megszűnésekor, megszüntetésekor az elszámolással és az igazolással kapcsolatos szabályokat,
 
 2. a külföldi szolgálatteljesítéssel, a tisztjelölti, az altiszt-jelölti, az önkéntes tartalékos szolgálati viszonnyal, a nyugállományú katona és a szolgálaton kívüliek jogállásával összefüggő személyügyi feladatokkal kapcsolatos szabályokat,
 
-3. a miniszter munkáltatói jogkörébe nem tartozó munkáltatói jogköröket, a munkáltatói részjogköröket, e jogkörök gyakorlására jogosultak körét és hatáskörüket,
+3. a kiemelt munkáltatói jogkörökön kívüli munkáltatói jogköröket, a munkáltatói részjogköröket, e jogkörök gyakorlására jogosultak körét és hatáskörüket,
 
 4. a munkáltatói döntések és a jognyilatkozatok kiadásának rendjét, ezek tartalmi követelményeit, a képviselet szabályait, a külföldre utazás bejelentésének szabályait,
 
-5. az önkéntes tartalékos szolgálati viszony típusait, az önkéntes tartalékos katona behívását elrendelő okmány kiadásának feltételeit és tartalmi elemeit, a szolgálatteljesítés átütemezésének, elhalasztásának módját, feltételeit és következményeit, valamint az ezekre vonatkozó kérelmek elbírálásának rendjét,
+5. az önkéntes tartalékos szolgálati viszony típusait, az önkéntes tartalékos katona behívását elrendelő okmány kiadásának feltételeit és tartalmi elemeit, a szolgálatteljesítés rendjét, valamint átütemezésének, elhalasztásának módját, feltételeit és következményeit, illetve az ezekre vonatkozó kérelmek elbírálásának rendjét,
 
 6. azokat a szolgálati beosztásokat, amelyek pályázat útján tölthetők be, a pályázat kiírásának és elbírálásának rendjét,
 
 7. a rész-szolgálatteljesítés engedélyezésére vonatkozó szabályokat, a kérelem tartalmi elemeit,
 
-8. az állomány tagjára vonatkozó teljesítményértékelés ajánlott elemeit, és az ajánlott elemekhez kapcsolódó eljárási rendet, a honvéd tisztjelölt és a honvéd altiszt-jelölt teljesítményértékelésének elemeit, és a kapcsolódó eljárási rendet,
+8. az állomány tagja teljesítményértékelésének esetköreit, az állomány tagjára vonatkozó teljesítményértékelés ajánlott elemeit, és az ajánlott elemekhez kapcsolódó eljárási rendet, a honvéd tisztjelölt és a honvéd altiszt-jelölt teljesítményértékelésének elemeit, és a kapcsolódó eljárási rendet,
 
-9. az előmeneteli rangsorolás, a kiválasztás, a minősítő vizsgára jelentkezés és vizsgáztatás rendjét, a vizsgáztatásért felelős szervezet kijelölését,
+9. az előmenetel tervezése, a kiválasztás, a minősítő vizsgára jelentkezés és vizsgáztatás rendjét, a vizsgáztatásért felelős szervezet kijelölését,
 
 10. a más kereső tevékenység bejelentésével, engedélyezésével, az összeférhetetlenség megszüntetésével és tilalma megszegése következményeivel kapcsolatos eljárást,
 
@@ -58,17 +58,17 @@ g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati
 
 18. az illetmény, az ösztöndíj, a végkielégítés, a visszailleszkedési támogatás, az önkéntes tartalékos szolgálat vállalását ösztönző juttatás, a szerződés-hosszabbítási díj, a jubileumi jutalom, a szabadságmegváltás, a túlszolgálati díj és a céljuttatás megállapítására és folyósítására vonatkozó szabályokat, a teljesítményjuttatás megállapításának alapelveit,
 
-19. a fokozati vizsgakötelezettségre, a vizsgára jelentkezés és a vizsgáztatás rendjére, a vizsgáztatásért felelős szervezet kijelölésére, a fokozati vizsga halasztására, valamint a fokozati vizsga alóli mentesülésre vonatkozó részletes szabályokat,
+19. a fokozati vizsgára, a vizsgára jelentkezés és a vizsgáztatás rendjére, a vizsgáztatásért felelős szervezet kijelölésére, a fokozati vizsga halasztására vonatkozó részletes szabályokat,
 
 20. az illetménypótlékok, egyéb pótlékok – ide nem értve a területi pótlékot –, valamint a szerződéskötési díj és a rendelkezésre állási díj jogosultságával, megállapításával, kifizetésével kapcsolatos szabályokat,
 
-21. a szerződés-hosszabbítási díj és a visszailleszkedési támogatás visszafizetésével kapcsolatos szabályokat, továbbá az illetménygazdálkodás rendjét,
+21. a szerződés-hosszabbítási díj, a visszailleszkedési támogatás és a 74/A. § szerinti juttatás visszafizetésével kapcsolatos szabályokat, továbbá az illetménygazdálkodás rendjét,
 
 22. a honvédeknek, a nyugállományú katonáknak és a közeli hozzátartozóiknak, élettársaiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások, természetbeni ellátás fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és – visszatérítési kötelezettség esetén – az elengedés részletes rendjét,
 
-23. a lakhatási támogatási formákat, az egyes lakhatási támogatásokra való jogosultság feltételeit, az igényjogosultság elbírálásának és teljesítésének módját, a miniszter által vezetett minisztérium vagyonkezelésében álló lakások bérleti és különszolgáltatási díját, a lakott forgalmi értéke és a szolgálatban töltött idő figyelembevételével kialakítandó tényleges elidegenítési vételár képzését tartalmazó szabályokat, a végleges letelepedés támogatásának szabályait, a szolgálati hely szerinti település vonzáskörzetének meghatározását, valamint az állomány hősi halottá nyilvánított tagja részére nyújtott kamatmentes kölcsönből fennálló tartozás elengedésének, továbbá a túlélő hozzátartozó lakhatási támogatásának részletes szabályait, a legénységi állományúakra, az állomány próbaidős tagjára, a nyugállományú katonára vonatkozó eltérő szabályokat,
+23. a lakhatási támogatási formákat, az egyes lakhatási támogatásokra való jogosultság feltételeit, az igényjogosultság elbírálásának és teljesítésének módját, a végleges letelepedés támogatásának szabályait, a szolgálati hely szerinti település vonzáskörzetének meghatározását, valamint az állomány hősi halottá nyilvánított tagja túlélő hozzátartozói lakhatási támogatásának részletes szabályait, a legénységi állományúakra, az állomány próbaidős tagjára, a nyugállományú katonára vonatkozó eltérő szabályokat,
 
-24. a napi és a heti szolgálatteljesítési időre, a szolgálatteljesítési időkeretre, különösen annak kiszámítására és az elszámolásra vonatkozó végrehajtási szabályokat, a szolgálatteljesítési idő egyenlőtlen, vasárnapra vagy munkaszüneti napra történő beosztására, a túlszolgálat, az őr-, az ügyeleti és a készenléti szolgálat, továbbá a nemzetközi kötelezettséggel összefüggő feladatvégzésre kijelölésen alapuló egyéb készenléti tevékenység elrendelésére, nyilvántartására, az ezeket követő pihenőidő vagy szabadnap kiadására,, valamint az ellentételezésük nyilvántartására, a visszarendelés következtében szolgálatteljesítéssel töltött idő ellentételezésére, a szabadság nyilvántartására és kiadására vonatkozó szabályokat, továbbá az olyan jellegű szolgálati beosztásokat, amelyekhez az éves szolgálatteljesítési időkeret kapcsolható,
+24. a napi és a heti szolgálatteljesítési időre, a szolgálatteljesítési időkeretre, különösen annak kiszámítására és az elszámolásra vonatkozó végrehajtási szabályokat, a szolgálatteljesítési idő egyenlőtlen, vasárnapra vagy munkaszüneti napra történő beosztására, a túlszolgálat, az őr-, az ügyeleti és a készenléti szolgálat, továbbá a nemzetközi kötelezettséggel összefüggő feladatvégzésre kijelölésen alapuló egyéb készenléti tevékenység elrendelésére, nyilvántartására, az ezeket követő pihenőidő vagy szabadnap kiadására, valamint az ellentételezésük nyilvántartására, a visszarendelés következtében szolgálatteljesítéssel töltött idő ellentételezésére, a szabadság nyilvántartására és kiadására, a szülési szabadság kiadására vonatkozó szabályokat, továbbá az olyan jellegű szolgálati beosztásokat, amelyekhez az éves szolgálatteljesítési időkeret kapcsolható, továbbá a merevszárnyú szállító légijármű szakszemélyzetre irányadó napi pihenőidőt, a napi szolgálatteljesítés befejezése és a következő napi szolgálatteljesítés megkezdése közötti egybefüggő pihenőidőt, valamint az osztott napi szolgálatteljesítés esetén alkalmazandó kötelező pihenőidőt,
 
 25. a kiegészítő támogatások megállapításának és folyósításának szabályait, a térítéses szolgáltatásokat és az azokra jogosultak körét, valamint a szolgáltatások térítésének szabályait,
 
@@ -80,7 +80,7 @@ g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati
 
 29. a ruházati ellátások rendszerét, módját, fajtáit, összegét, az egyenruházati utánpótlási ellátmány kötelező felhasználásának mértékét, a ruházati ellátással, valamint az ellátásra jogosultság megszűnésével összefüggő elszámolás rendjét és okmányait, a ruházati ellátási normák kialakítását, kiadását és tartalmi követelményeit,
 
-30. a különféle típusú külföldi szolgálatot teljesítők külszolgálati ellátmányát és egyéb költségtérítését, az ideiglenes külföldi szolgálatot teljesítők részére nyújtható külföldi napidíj mértékét, a külföldi napidíj-kiegészítés folyósításának eseteit és mértékét, továbbá mindezek megállapításának, kifizetésének, és elszámolásának rendjét,
+30. a különféle típusú külföldi szolgálatot teljesítők külszolgálati ellátmányát és egyéb költségtérítését, átalány-költségtérítését, az ideiglenes külföldi szolgálatot teljesítők részére nyújtható külföldi napidíj mértékét, a külföldi napidíj-kiegészítés és a kiegészítő juttatás folyósításának eseteit és mértékét, mindezek megállapításának, kifizetésének, és elszámolásának rendjét, továbbá a külföldi szolgálatra tekintettel adható juttatások azon körét, amelynek mértéke vagy megállapításának, illetve folyósításának rendje tekintetében a KNBSZ főigazgatója a KNBSZ tartós külföldi szolgálatot teljesítő állományára vonatkozóan sajátos szabályokat határozhat meg,
 
 31. a fegyelmi eljárás lefolytatásának, az előzetes vizsgálat elrendelésének és lefolytatásának szabályait, az eljárási cselekményekre nyitva álló határidőket, az elmulasztásuk jogkövetkezményeit, az értesítésre és a felhívásra irányadó szabályokat, a határozatok formai és tartalmi követelményeit, a vizsgáló, a bizottság kijelölésének és eljárásának, a kizárás és az elfogultság bejelentésének és elbírálásának rendjét, a képviseletre, a tényállás tisztázására, a fenyítés kiszabására irányadó szabályokat,
 
@@ -98,10 +98,20 @@ g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati
 
 38. a szolgálaton kívüliekre irányadó sajátos szabályokat,
 
-39. a Honvédség által nyújtott tanulmányi támogatás formáját és mértékét, a tanulmányi szerződés megkötésének feltételeit, a tanulmányi szerződés közös megegyezéssel történő megszüntetésének szabályait, a megtérítési kötelezettség érvényesítésének rendjét és a fizetési könnyítés és a mentesítési eljárás szabályait, valamint a honvédségi ösztöndíjas hallgatók ösztöndíjszerződéséből eredő megtérítési kötelezettség szabályait.
+39. a honvédelmi szervezet által nyújtott tanulmányi támogatás formáját és mértékét, a tanulmányi szerződés megkötésének feltételeit, a tanulmányi szerződés közös megegyezéssel történő megszüntetésének szabályait, a megtérítési kötelezettség érvényesítésének, ideértve a halasztás engedélyezésének rendjét, rendjét és a fizetési könnyítés és a mentesítési eljárás szabályait, valamint a honvédségi ösztöndíjas hallgatók ösztöndíjszerződéséből eredő megtérítési kötelezettség szabályait,
+
+40. a hivatásos és szerződéses állomány tagja nyelvvizsga díjának megtérítésére vonatkozó szabályokat,
+
+41. a speciális végzettsége, képzettsége, valamint az általa ellátandó feladat fontossága vagy speciális jellege miatt a honvédelmi szervezet kiemelt érdekében alkalmazandó önkéntes tartalékos katona alapkiképzésére, tényleges szolgálatteljesítésére, behívására, szolgálatteljesítési idő beosztására, túlszolgálat elrendelésére, valamint az illetményére vonatkozó eltérő szabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg
 
 a) azon fertőző betegségek körét, amelyek esetén kötelező védőoltás elrendelésének van helye a megbetegedési veszély miatt, a szolgálati beosztáshoz, illetve a szolgálati feladatokhoz kapcsolódóan, és
 
 b) a katonai feladat végrehajtása közben elvégezhető egészségügyi tevékenységeket, ezen egészségügyi tevékenységek elvégzéséhez szükséges egészségügyi szakkiképzések körét, a szakkiképzési követelményeket, azok szakmai tartalmát és kijelölje a szakkiképzés lefolytatására jogosított intézmények körét.
+
+(4) Felhatalmazást kap a miniszter, hogy az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg
+
+a) a miniszter által vezetett minisztérium vagyonkezelésében álló lakások bérleti és különszolgáltatási díját,
+
+b) a lakott forgalmi értéke és a szolgálatban töltött idő figyelembevételével kialakítandó tényleges elidegenítési vételár képzését tartalmazó szabályokat.

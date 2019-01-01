@@ -30,8 +30,16 @@ aa) e törvény szerinti illetmény-megállapításban szereplő alapilletmény 
 
 ab) ha az aa) alponttól eltérően e törvény alapján magasabb alapilletményben részesült, ez utóbbi alapján, vagy
 
-b) ha az a) pont aa) alpontja alapján nem állapítható meg a besorolás, vagy a rendelkezési állományba helyezést megelőzően betöltött beosztás a VII. besorolási osztályba tartozott, és nem részesült az a) pont ab) alpontja szerinti magasabb alapilletményben sem, akkor az I. besorolási osztály és a viselt rendfokozatnak megfelelő besorolási kategória alapján
+b) ha az a) pont aa) alpontja alapján nem állapítható meg a besorolás, vagy a rendelkezési állományba helyezést megelőzően betöltött beosztás 2018. január 1-je előtt az e törvény 2017. december 31-én hatályos rendelkezései szerinti VII. besorolási osztályba tartozott, és nem részesült az a) pont ab) alpontja szerinti magasabb alapilletményben sem, akkor az I. besorolási osztály és a viselt rendfokozatnak megfelelő besorolási kategória alapján
 
 kell megállapítani.
 
 (6) Az állomány 46. § (1) bekezdés u) pontja alapján rendelkezési állományba tartozó tagja a rendelkezési állományba helyezését megelőző napon érvényes alapilletményére jogosult.
+
+(7) Az (1)–(4) bekezdést az állomány 46. § (1) bekezdés e) pontja szerinti rendelkezési állományba tartozó, vagy a nem Magyarországon települő honvédelmi szervezet vagy a Magyarországon települő honvédelmi szervezet külföldön működő szervezeti elemének szolgálati beosztásában tartós külföldi szolgálatot teljesítő tagja esetében azzal az eltéréssel kell alkalmazni, hogy ha a tartós külföldi szolgálatot megelőző napon alapilletményre
+
+a) eltérő besorolási osztály szerint volt jogosult, mint a külföldi szolgálat során betöltött beosztáshoz tartozó besorolási osztály, vagy
+
+b) a (4) bekezdés d) vagy e) pontja alapján volt jogosult,
+
+akkor a külföldi szolgálat alatt részére járó alapilletményt a magasabb illetményt biztosító besorolási osztály vagy vezénylő zászlósi vagy felsővezetői beosztási szint szerint kell részére megállapítani.

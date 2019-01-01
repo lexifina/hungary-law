@@ -21,3 +21,5 @@
 (9) A jogorvoslat módjára és határidejére a munkáltatói döntésben – döntési lap formájában hozott munkáltatói döntés esetében az arról készített határozatban – utalni kell. Ha törvény alapján bírósági eljárásnak van helye, a jogorvoslatról való tájékoztatásnak tartalmaznia kell az eljáró bíróság és az alperes megnevezését, a jogorvoslat előterjesztésére nyitva álló határidőt, valamint azt a felhívást, hogy a keresetlevelet a határidő végéig postára kell adni. Ha a határidő jogvesztő, a felhívásnak arra is ki kell terjednie, hogy a keresetlevélnek a határidő végéig a bírósághoz vagy az intézkedésre jogosult első fokú hatósághoz meg kell érkeznie.
 
 (10) A jogról lemondó vagy az abból engedő jognyilatkozat kizárólag írásban érvényes, és kiterjesztően nem értelmezhető.
+
+(11) Az irat formájú munkáltatói döntést a kiállítás alapjául szolgáló ok feltüntetésén túl egyéb indokolással ellátni nem kell.

@@ -18,4 +18,4 @@ b) attól az időponttól, amikor a sérelem folytán bekövetkezett munkaképes
 
 c) a rokkantsági nyugdíj, a baleseti rokkantsági nyugdíj, a rokkantsági ellátás vagy a rehabilitációs ellátás folyósításának időpontjától kezdődik.
 
-(4) Járadékigény 6 hónapnál régebbi időre visszamenőleg csak akkor érvényesíthető, ha a jogosultat a követelés érvényesítésében mulasztás nem terheli, és a Honvédség a 177. § (1) bekezdésében meghatározott kötelezettségét elmulasztotta. 3 évnél régebbi időre visszamenőleg járadékigény nem érvényesíthető.
+(4) Járadékigény 6 hónapnál régebbi időre visszamenőleg csak akkor érvényesíthető, ha a jogosultat a követelés érvényesítésében mulasztás nem terheli, és a honvédelmi szervezet a 177. § (1) bekezdésében meghatározott kötelezettségét elmulasztotta. 3 évnél régebbi időre visszamenőleg járadékigény nem érvényesíthető.

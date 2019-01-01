@@ -32,6 +32,8 @@ a) az illetmény nélküli szabadság időtartamára,
 
 b) ha a 46. § (1) bekezdés b) pontja alapján rendelkezési állományba tartozik, és illetményére a más szerv foglalkoztatottjaira vonatkozó szabályok az irányadók,
 
-c) ha a 46. § (1) bekezdés j) pontja alapján rendelkezési állományba tartozik, vagy
+c) ha a 46. § (1) bekezdés j) pontja alapján rendelkezési állományba tartozik,
 
-d) a jogellenes távollét időtartamára.
+d) a jogellenes távollét időtartamára, vagy
+
+e) a szolgálati viszony 58. § (1) bekezdése és 58/A. § (1) bekezdése szerinti szünetelése időtartamára.

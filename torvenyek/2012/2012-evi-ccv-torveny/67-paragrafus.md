@@ -10,7 +10,7 @@ c) a várandósság ideje,
 
 d) a szülést követő 3 hónap, a szülési szabadság és a gyermekgondozás céljából kapott illetmény nélküli szabadság, és illetmény nélküli szabadság igénybevétele nélkül is a gyermek 3 éves kora,
 
-e) a házastárs tartós külföldi kiküldetése miatt kapott illetmény nélküli szabadság,
+e) a házastárs, élettárs tartós külföldi kiküldetése miatt kapott illetmény nélküli szabadság,
 
 f) az állomány nő tagjának jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének ideje, de legfeljebb ennek megkezdésétől számított 6 hónap,
 

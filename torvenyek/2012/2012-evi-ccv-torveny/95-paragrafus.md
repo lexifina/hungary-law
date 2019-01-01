@@ -2,13 +2,13 @@
 
 (2) Készenléti jellegű beosztáshoz kapcsolódó szolgálati rendet állapít meg a munkáltatói jogkört gyakorló, ha
 
-a) a szolgálati feladatainak jellege miatt – hosszabb időszak alapulvételével – az állomány tagja a rendes szolgálatteljesítési ideje legalább egyharmadában fizikai vagy szellemi erőkifejtéssel járó, vagy fokozott figyelmet igénylő szolgálatteljesítés nélkül áll a Honvédség rendelkezésére, vagy
+a) a szolgálati feladatainak jellege miatt – hosszabb időszak alapulvételével – az állomány tagja a rendes szolgálatteljesítési ideje legalább egyharmadában fizikai vagy szellemi erőkifejtéssel járó, vagy fokozott figyelmet igénylő szolgálatteljesítés nélkül áll a honvédelmi szervezet rendelkezésére, vagy
 
 b) a szolgálatteljesítés – különösen a munkakör sajátosságára, a szolgálatteljesítés feltételeire tekintettel – az állomány tagja számára az általánoshoz képest lényegesen alacsonyabb igénybevétellel jár.
 
 (3) Folyamatos ügyeleti szolgálat ellátására szervezett beosztáshoz kapcsolódó szolgálati rendet állapít meg a munkáltatói jogkört gyakorló, ha
 
-a) a honvédségi szervezet alapfeladata megszakítás nélküli működést igényel,
+a) a honvédelmi szervezet alapfeladata megszakítás nélküli működést igényel,
 
 b) az állomány tagjának munkaköri leírásban rögzített szolgálati feladata az a) ponthoz közvetlenül kapcsolódik, és
 

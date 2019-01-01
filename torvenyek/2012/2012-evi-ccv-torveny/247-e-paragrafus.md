@@ -10,7 +10,7 @@ b) a jogviszony megszűnéséig megszerzett szerződéses szolgálati idő figye
 
 visszailleszkedési támogatásra jogosult, azzal, hogy az a) és a b) pont alapján megállapított összegek közül a jogosult választása szerinti összeget kell a részére kifizetni.
 
-(3a) Miniszteri rendeletben meghatározottak szerint a (3) bekezdés b) pontja szerinti mértéknél legfeljebb kéthavi mértékkel magasabb összegű visszailleszkedési támogatásra jogosult a legénységi állomány tagja, ha szolgálati viszonya megszűnésekor legalább két év időtartamra miniszteri rendeletben meghatározott feltételekkel önkéntes tartalékos szolgálati viszonyt létesít.
+(3a)
 
 (4) Ha a 2015. június 30-án szerződéses állományban lévő tiszt, altiszt szerződéses jogviszonyának megszűnésekor jogosult e törvény alapján végkielégítésre, akkor
 

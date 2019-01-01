@@ -4,7 +4,7 @@
 
 (2) A tisztjelölti szolgálati viszony létesítésének további feltétele, hogy a honvéd tisztjelölttel szemben hallgatói jogviszonyt kizáró körülmény nem áll fenn. Nem köthető ösztöndíjszerződés azzal, akinek ösztöndíjas hallgatói jogviszonya vagy tisztjelölti szolgálati viszonya kizárás-fenyítés jogerős kiszabásával, lemondással, tanulmányi kötelezettség önhibából történő elmulasztása miatt vagy méltatlanság jogerős megállapításával szűnt meg.
 
-(3) Az ösztöndíjszerződést, és annak módosítását írásba kell foglalni. A honvéd tisztjelölt az ösztöndíjszerződés megkötésével vállalja, hogy honvédtiszti tanulmányait legjobb képességei szerint folytatja, és hivatásos állományba vételét követően, legalább a honvédtiszti alapképzés kétszeresének megfelelő időtartamban a Honvédségnél szolgálatot teljesít. A Honvédség azt vállalja, hogy a honvéd tisztjelölt honvédtiszti tanulmányait támogatja, ezek befejezését követően hivatásos állományba veszi, és megfelelő szolgálati beosztásban foglalkoztatja.
+(3) Az ösztöndíjszerződést, és annak módosítását írásba kell foglalni. A honvéd tisztjelölt az ösztöndíjszerződés megkötésével vállalja, hogy honvédtiszti tanulmányait legjobb képességei szerint folytatja, és hivatásos állományba vételét követően, legalább a honvédtiszti alapképzés kétszeresének megfelelő időtartamban a honvédelmi szervezetnél szolgálatot teljesít. A honvédelmi szervezet azt vállalja, hogy a honvéd tisztjelölt honvédtiszti tanulmányait támogatja, ezek befejezését követően hivatásos állományba veszi, és megfelelő szolgálati beosztásban foglalkoztatja.
 
 (4) A honvéd tisztjelölt a beiratkozást követő egy félév időtartamban katonai alapfelkészítésen vesz részt. A katonai alapfelkészítés megkezdése előtt a honvéd tisztjelölt honvéd esküt tesz.
 

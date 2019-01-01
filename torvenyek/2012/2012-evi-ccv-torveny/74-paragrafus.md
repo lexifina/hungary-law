@@ -22,13 +22,9 @@ i) harmincöt év: tízhavi
 
 távolléti díjnak megfelelő összeg.
 
-(3) Miniszteri rendeletben meghatározottak szerint a (2) bekezdés szerinti mértéknél legfeljebb kéthavi mértékkel magasabb összegű visszailleszkedési támogatásra jogosult a legénységi állomány tagja, ha szolgálati viszonya megszűnésekor legalább két év időtartamra miniszteri rendeletben meghatározott feltételekkel önkéntes tartalékos szolgálati viszonyt létesít.
+(3)
 
-(3a) Miniszteri rendeletben meghatározottak szerint legfeljebb kéthavi távolléti díjnak megfelelő összegű visszailleszkedési támogatásra jogosult a legénységi állomány tagja, ha
-
-a) az (1) bekezdés szerinti módon megszűnő szerződéses szolgálati viszony tényleges időtartama nem éri el az öt évet, és
-
-b) a szerződéses szolgálati viszony megszűnésekor legalább két év időtartamra miniszteri rendeletben meghatározott feltételekkel önkéntes tartalékos szolgálati viszonyt létesít.
+(3a)
 
 (4) Ha a legénységi állomány tagja a szolgálatteljesítési kötelezettség alóli mentesítés ideje alatt költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 

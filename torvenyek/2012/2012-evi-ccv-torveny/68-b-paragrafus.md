@@ -6,9 +6,9 @@
 
 (4) A honvédelmi egészségkárosodási keresetkiegészítésre jogosultság abban az esetben állapítható meg, ha a katonai szolgálatra való alkalmatlanság megállapításától, illetve a 46. § (1) bekezdés g) pontja szerinti rendelkezési állomány megszűnésétől számított negyvenöt napon belül az (1) bekezdésben meghatározott eljárás eredményeként az állomány tagjának
 
-a) szolgálati viszonya honvédségi szervezetnél, a KNBSZ-be, a miniszter fenntartói irányítása alá tartozó köznevelési intézménybe vagy az NKE katonai felsőoktatási szervezeti egységébe az 59. § (2) bekezdés c) pontja szerinti közalkalmazotti vagy kormányzati szolgálati jogviszonyba történő áthelyezéssel szűnik meg,
+a) szolgálati viszonya honvédelmi szervezetnél, a KNBSZ-be, a miniszter fenntartói irányítása alá tartozó köznevelési intézménybe vagy az NKE katonai felsőoktatási szervezeti egységébe az 59. § (2) bekezdés c) pontja szerinti közalkalmazotti vagy kormányzati szolgálati jogviszonyba történő áthelyezéssel szűnik meg,
 
-b) felajánlott munkavállalói munkakör elfogadására tekintettel honvédségi szervezetnél munkaviszonyt létesít,
+b) felajánlott munkavállalói munkakör elfogadására tekintettel honvédelmi szervezetnél munkaviszonyt létesít,
 
 c) szolgálati viszonya a felajánlott másik, egészségi állapotának megfelelő szolgálati beosztásba történő áthelyezésre tekintettel nem szűnik meg,
 

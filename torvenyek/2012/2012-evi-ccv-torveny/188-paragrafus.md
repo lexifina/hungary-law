@@ -11,3 +11,5 @@ c) az állomány tagja a jogorvoslati kérelmét írásban visszavonta, a vissza
 d) a bíróság a keresetet jogerősen elbírálta, a jogerő beállta napján.
 
 (2) Az (1) bekezdés a)–c) pontja esetén a jogerőre emelkedett határozatot hozó a jogerőt és a határozat végrehajthatóságát a határozat eredeti példányára vezetett záradékkal tanúsítja, amelyben feltünteti a jogerő és a végrehajthatóság napját.
+
+(3) Az egészségkárosodási ellátás továbbfolyósítása, megszüntetése valamint a kiegészítő támogatás tárgyában hozott határozat fellebbezésre tekintet nélkül végrehajtható.

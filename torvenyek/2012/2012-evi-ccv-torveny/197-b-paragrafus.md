@@ -1,1 +1,1 @@
-197/B. § A 88. § (4a) bekezdése szerinti hatáskört a KNBSZ hivatásos állományú tagja vonatkozásában a KNBSZ főigazgatója gyakorolja.
+197/B. § A főigazgató a 87. § (5) bekezdésében foglaltakon túl a teljesítményértékelés további tartalmi elemeit és szempontjait is meghatározhatja.

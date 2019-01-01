@@ -1,0 +1,1 @@
+247/U. § Az állomány Módtv4. hatálybalépését megelőzően magasabb beosztásba kinevezett, de egyidejűleg elő nem léptetett tagjai előléptetésére – ha ezen előléptetésük a Módtv4. hatálybalépéséig nem történt meg – a kinevezésük időpontjában hatályos szabályokat kell alkalmazni.

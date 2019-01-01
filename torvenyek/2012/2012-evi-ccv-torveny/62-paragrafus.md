@@ -2,7 +2,7 @@
 
 62. § (1) A szolgálati viszony felmentéssel megszüntethető, ha
 
-a) az Országgyűlés, a Kormány, a miniszter döntése alapján a Honvédségnél létszámcsökkentést kell végrehajtani, és emiatt az állomány tagjának további szolgálatára nincs lehetőség,
+a) az Országgyűlés, a Kormány, a miniszter döntése alapján a honvédelmi szervezetnél létszámcsökkentést kell végrehajtani, és emiatt az állomány tagjának további szolgálatára nincs lehetőség,
 
 b) az állomány tagjának szolgálati beosztása átszervezés következtében megszűnt, és emiatt további szolgálatára nincs lehetőség,
 

@@ -10,14 +10,14 @@ bb) amelyhez a károsult a megrongálódott dolog hasznosításával hozzájutot
 
 bc) amelyhez a károsult a károkozás folytán megtakarított kiadások eredményeként jutott hozzá,
 
-bd) amelyhez a károsult a Honvédség által, a javára megkötött biztosítás révén jut és
+bd) amelyhez a károsult a honvédelmi szervezet által, a javára megkötött biztosítás révén jut és
 
 be) amelyhez a károsult a 173/A. § és a 177. § (1b) bekezdése alapján jutott.
 
 (2) Kártérítésként járadékot is meg lehet állapítani. Rendszerint járadékot kell megállapítani akkor, ha a kártérítés a károsult vagy a vele szemben tartásra jogosult közeli hozzátartozója vagy élettársa tartását, vagy tartásának kiegészítését hivatott szolgálni.
 
-(3) Ha a kárnak vagy egy részének mértéke pontosan nem számítható ki, a Honvédség olyan összegű általános kártérítés megfizetésére köteles, amely a károsult teljes anyagi kárpótlására alkalmas. Általános kártérítés járadékként is megállapítható.
+(3) Ha a kárnak vagy egy részének mértéke pontosan nem számítható ki, a honvédelmi szervezet olyan összegű általános kártérítés megfizetésére köteles, amely a károsult teljes anyagi kárpótlására alkalmas. Általános kártérítés járadékként is megállapítható.
 
 (4) Az elmaradt jövedelem kiszámításánál a társadalombiztosítási szabályok szerinti járulékot le kell vonni.
 
-(5) A megállapított sérelemdíj összegéből kizárólag azt az összeget kell levonni, amelyhez a sérelemdíjra jogosult a Honvédség által, a javára megkötött biztosítás révén jut.
+(5) A megállapított sérelemdíj összegéből kizárólag azt az összeget kell levonni, amelyhez a sérelemdíjra jogosult a honvédelmi szervezet által, a javára megkötött biztosítás révén jut.

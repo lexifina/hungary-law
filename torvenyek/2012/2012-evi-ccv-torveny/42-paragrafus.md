@@ -20,7 +20,7 @@ b) Magyarországon települő katonai szervezetnél történő szolgálatteljes�
 
 c) más szervnél történő szolgálatteljesítésre,
 
-d) az NKE-n vagy a miniszter fenntartása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézményben (a továbbiakban együtt: nem katonai oktatási intézmény) történő szolgálatteljesítésre,
+d) az NKE-n vagy a miniszter fenntartása alá tartozó, honvédelmi szervezetnek nem minősülő köznevelési intézményben (a továbbiakban együtt: nem katonai oktatási intézmény) történő szolgálatteljesítésre,
 
 e) a KNBSZ-nél történő szolgálatteljesítésre,
 
@@ -30,4 +30,4 @@ g) képzésen történő részvételre
 
 vezényelhető.
 
-(3) Az (1) és a (2) bekezdésen túl a szolgálati viszony módosításának minősül különösen a szerződés módosítása, a megbízás, a szolgálati viszony szünetelése, a maximális várakozási idő meghosszabbítása és az illetmény nélküli szabadság biztosítása.
+(3) Az (1) és a (2) bekezdésen túl a szolgálati viszony módosításának minősül különösen a kirendelés, a szerződés módosítása, a megbízás, a szolgálati viszony szünetelése, a maximális várakozási idő meghosszabbítása és az illetmény nélküli szabadság biztosítása.

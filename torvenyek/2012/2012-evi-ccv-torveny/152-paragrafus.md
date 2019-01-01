@@ -6,7 +6,7 @@ a) szolgálati beosztásával járó jogait nem gyakorolhatja,
 
 b) szolgálati fegyverét és a szolgálati okmányait köteles leadni,
 
-c) honvédségi szervezet területére csak a munkáltatói jogkört gyakorló engedélyével léphet be,
+c) honvédelmi szervezet területére csak a munkáltatói jogkört gyakorló engedélyével léphet be,
 
 d) egyenruháját nem viselheti, ha a munkáltatói jogkör gyakorlója a felfüggesztés alapjául szolgáló fegyelemsértésre tekintettel annak viselését írásban megtiltotta,
 

@@ -1,4 +1,4 @@
-104. § (1) A túlszolgálatért az állomány tagját annak időtartamával azonos mértékű szabadidő illeti meg. A szabadidőt a túlszolgálatot követően harminc napon belül kell kiadni. Ha a szabadidő e határidőben való kiadása a honvédségi szervezet zavartalan működését veszélyezteti, azt legkésőbb a túlszolgálatot követő hat hónapon belül kell biztosítani.
+104. § (1) A túlszolgálatért az állomány tagját annak időtartamával azonos mértékű szabadidő illeti meg. A szabadidőt a túlszolgálatot követően harminc napon belül kell kiadni. Ha a szabadidő e határidőben való kiadása a honvédelmi szervezet zavartalan működését veszélyezteti, azt legkésőbb a túlszolgálatot követő hat hónapon belül kell biztosítani.
 
 (2) Az (1) bekezdés szerinti ellentételezés kétszeresére jogosult az állomány tagja, ha a túlszolgálatot a heti pihenőnapon vagy munkaszüneti napon teljesítette.
 

@@ -4,7 +4,7 @@ I. A tiszti és az altiszti állomány tagjának esküje
 
 Az eskü szövege:
 
-„Én ........................................ tiszt/altiszt esküszöm, hogy Magyarországot híven szolgálom, hűséges honvédje leszek. Magyarország függetlenségét, az állampolgárok jogait és szabadságát bátran, a törvények betartásával és betartatásával, a rám bízott honvédek és fegyverek erejével, életem árán is megvédem. Elöljáróim parancsainak engedelmeskedem, alárendeltjeimet jogaik tiszteletben tartásával vezetem, róluk emberséggel és felelősséggel gondoskodom.”
+„Én ........................................ tiszt/altiszt esküszöm, hogy Magyarországot híven szolgálom, hűséges honvédje leszek. Magyarország függetlenségét, az állampolgárok jogait és szabadságát bátran, az Alaptörvény és a törvények betartásával és betartatásával, a rám bízott honvédek és fegyverek erejével, életem árán is megvédem. Elöljáróim parancsainak engedelmeskedem, alárendeltjeimet jogaik tiszteletben tartásával vezetem, róluk emberséggel és felelősséggel gondoskodom.”
 
 (Az esküt tevő meggyőződése szerint:)
 

@@ -2,4 +2,4 @@
 
 (2) A 24 órás őr- és ügyeleti szolgálat esetén 1 nap pihenőidőt, a pihenőnapon és a munkaszüneti napon teljesített szolgálat után további még 1 szabadnapot kell biztosítani az állomány tagja részére. A laktanyai készenléti szolgálat esetén az első 24 óra után 1 nap, ezen túl 48 óránként további 1-1 nap szabadnapot kell biztosítani. Amennyiben az állomány laktanyán kívüli készenléti szolgálatot teljesítő tagja részére 24 órát elérően, a szolgálat céljával összefüggő feladat kerül elrendelésre, és a munkáltatói jogkört gyakorló meghatározza a szolgálatteljesítés helyét, úgy a szolgálatteljesítés helyére való megérkezéstől kezdődően a laktanyai készenléti szolgálatnak megfelelően kell a szabadnapokat biztosítani.
 
-(3) A pihenőidőt a szolgálat leadása után nyomban, a szabadnapot pedig legkésőbb kilencven napon belül kell kiadni.
+(3) A pihenőidőt a szolgálat leadása után nyomban, a szabadnapot pedig legkésőbb kilencven napon belül, vagy ha a szabadnapot szolgálati elfoglaltság miatt igazoltan nem lehet kiadni, azt legkésőbb hat hónapon belül kell biztosítani.

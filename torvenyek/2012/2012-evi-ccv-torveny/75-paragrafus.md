@@ -2,7 +2,7 @@
 
 75. § (1) Nem vehető vissza hivatásos állományba, akinek szolgálati viszonya az 59. § (1) bekezdés c) pontja, vagy a 68. § (1) bekezdés k)–m) pontja szerint szűnt meg, vagy aki azt az 59. § (2) bekezdés e) pontja szerint megszüntette.
 
-(2) A visszavétel esetén az állomány tagja rendfokozatát szolgálati beosztásának, iskolai végzettségének, szakképzettségének megfelelően kell megállapítani azzal, hogy a visszavételt követő kezdő rendfokozata nem haladhatja meg a korábbi hivatásos szolgálati viszonya megszűnésekor, megszüntetésekor viselt rendfokozatát.
+(2) A visszavétel esetén az állomány tagja rendfokozatát szolgálati beosztásának, iskolai végzettségének, szakképzettségének megfelelően kell megállapítani azzal, hogy a visszavételt követő kezdő rendfokozata nem haladhatja meg a korábbi hivatásos szolgálati viszonya megszűnésekor, megszüntetésekor viselt rendfokozatát. Ettől eltérő rendfokozatot a Magyar Honvédség parancsnoka engedélyezhet, ha a magasabb rendfokozattal történő visszavételhez szolgálati érdek fűződik.
 
 (3) A visszavételkor legfeljebb 6 hónapig terjedő próbaidő köthető ki, azzal, hogy ha a szolgálati viszony megszűnése és a hivatásos állományba visszavétel között több mint tíz év telt el, próbaidő kikötése kötelező.
 

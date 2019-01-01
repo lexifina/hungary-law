@@ -1,6 +1,6 @@
 ## 53. A teljesítményértékelés
 
-87. § (1) Az állomány tagját a munkáltatói jogkört gyakorló mérlegelési jogkörében eljárva, írásban rendszeresen értékeli. A teljesítményértékelés célja az előmenetel objektivitásának biztosítása, az egyéni kezdeményezésen és a vezetői elgondoláson alapuló hatékony kiválasztási rendszer működtetése.
+87. § (1) Az állomány tagját a munkáltatói jogkört gyakorló mérlegelési jogkörében eljárva, írásban, miniszteri rendeletben meghatározott időközönként, illetve esetekben értékeli. A teljesítményértékelés célja az előmenetel objektivitásának biztosítása, az egyéni kezdeményezésen és a vezetői elgondoláson alapuló hatékony kiválasztási rendszer működtetése.
 
 (2) A tiszti és az altiszti állomány tagjáról jogszabályban meghatározott esetekben, de legalább évente egyszer teljesítményértékelést kell készíteni. A legénységi állomány tagját csak a várakozási idő leteltekor, magasabb beosztásba kinevezése előtt, vagy az altiszti beosztásba történő felkészítése előtt, vagy szolgálati beosztás ellátására való alkalmatlanság felmerülésekor kell értékelni. A Tábori Lelkészi Szolgálat tagját nem kell értékelni.
 

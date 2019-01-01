@@ -1,3 +1,3 @@
 ## 110. A VIII. és a IX. Fejezethez kapcsolódó rendelkezések
 
-197/A. § A főigazgató a 87. § (5) bekezdésében foglaltakon túl a teljesítményértékelés további tartalmi elemeit és szempontjait is meghatározhatja.
+197/A. § A 79. §-tól eltérően az egészségi, pszichikai és fizikai alkalmasság ellenőrzésére vonatkozó további szabályokat a miniszter eltérően is meghatározhatja.
