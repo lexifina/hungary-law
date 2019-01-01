@@ -1,1 +1,0 @@
-A Kormány az állami beruházások megvalósításának elősegítése, a beruházások előkészítési folyamatának javítására rendelt költségvetési előirányzat hatékony felhasználásával kapcsolatos kormányzati döntési hatáskörök célszerű megosztása érdekében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva a következőket rendeli el:

@@ -1,1 +1,0 @@
-## 6. § A kormányzati döntéshozatal politikai döntéshozó fórumai, így különösen a Stratégiai Kabinet, illetve a Gazdasági Kabinet által megtárgyalt előterjesztés nyomán a Kormány döntést hoz, amelyet határozataként közzétesz.
