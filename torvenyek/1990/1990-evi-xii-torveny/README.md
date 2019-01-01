@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-12-00-00
 | 2014-06-06 | 2014. évi XXI. törvény | 1990-12-00-00.8 |
 | 2018-01-01 | 2017. évi CLXXX. törvény | 1990-12-00-00.9 |
 | 2018-05-18 | 2018. évi V. törvény | 1990-12-00-00.10 |
+| 2019-01-01 | 2018. évi CIV. törvény | 1990-12-00-00.11 |
