@@ -6,23 +6,23 @@ b) családtag:
 
 ba) az EGT-állampolgár házastársa,
 
-bb) a magyar állampolgár házastársa,
+bb)
 
 bc) az EGT-állampolgár vagy házastársa 21. életévet be nem töltött vagy eltartott leszármazója,
 
-bd) a magyar állampolgár vagy házastársa 21. életévet be nem töltött vagy eltartott leszármazója,
+bd)
 
 be) – ha e törvény másként nem rendelkezik – az EGT-állampolgár vagy házastársa eltartott felmenője, valamint
 
-bf) a magyar állampolgár vagy házastársa felmenője,
+bf)
 
-bg) a kiskorú magyar állampolgár felett szülői felügyeleti joggal rendelkező személy,
+bg)
 
 bh) akinek az eljáró idegenrendészeti hatóság családtagként való beutazását és tartózkodását engedélyezi,
 
 bi) az EGT-állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített,
 
-bj) a magyar állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített;
+bj)
 
 c) keresőtevékenységet folytat:
 

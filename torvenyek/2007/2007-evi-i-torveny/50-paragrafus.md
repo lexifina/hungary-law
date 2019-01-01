@@ -12,6 +12,10 @@ c) a kiutasított személlyel szemben a 40. § (2) bekezdés a)–c) pontja, val
 
 (2) A kitoloncolásról az idegenrendészeti kiutasítást elrendelő határozatban vagy önálló határozatban kell rendelkezni. Bírósági kiutasítás esetén a kitoloncolást a bírósági kiutasítás végrehajtásáról hozott végzésben vagy önálló végzésben kell elrendelni, amellyel szemben – a (4) bekezdésben meghatározott kivétellel – jogorvoslatnak nincs helye.
 
+(2a) A kitoloncolást elrendelő határozatot vagy végzést az idegenrendészeti hatóság módosítja a kitoloncolás végrehajtásának módja tekintetében, amennyiben azt a kitoloncolás végrehajtása során bekövetkezetett változások, így különösen a kiutasított személy magatartása, vagy egyéb, a kitoloncolás végrehajtásának módját befolyásoló tények indokolják. A módosító határozat vagy végzés ellen jogorvoslatnak nincs helye.
+
+(2b) A kiutasító döntésben meghatározott célországot az idegenrendészeti hatóság módosítja, amennyiben azt a kiutasított személy felróható magatartása, így különösen állampolgársága vonatkozásában tett valótlan tényközlése, vagy egyéb, a kiutasítás célországát befolyásoló tények indokolják. A módosító határozat vagy végzés ellen végrehajtási kifogásnak van helye. A végrehajtási kifogás a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő. A végrehajtási kifogás tárgyában hozott döntés ellen jogorvoslatnak nincs helye.
+
 (3) A kitoloncolást elrendelő határozat vagy végzés végrehajtásának felfüggesztése nem kérelmezhető.
 
 (4) A kitoloncolás foganatosításának módja ellen az érintett végrehajtási kifogást terjeszthet elő.

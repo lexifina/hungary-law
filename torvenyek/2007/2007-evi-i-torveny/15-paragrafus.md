@@ -7,3 +7,5 @@
 (4) Az ország elhagyására irányuló kötelezettséget a határozat véglegessé válását követő harmadik hónap utolsó napjáig kell teljesíteni.
 
 (5) Az eljáró idegenrendészeti hatóság a tartózkodási jog megszűnésének tényét megállapító határozatban az EGT-állampolgár vagy a családtag részére kiállított, tartózkodási jogot igazoló okmány érvénytelenségét megállapítja és az okmányt visszavonja.
+
+(6) Amennyiben a harmadik országbeli állampolgár a 8. § (1) bekezdése szerinti kérelmét az eljáró idegenrendészeti hatóság elutasítja, a harmadik országbeli állampolgár köteles Magyarország területét a (4) bekezdésben foglaltak szerint elhagyni.
