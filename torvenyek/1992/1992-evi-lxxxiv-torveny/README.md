@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-84-00-00
 | 2017-11-01 | 2017. évi CXXI. törvény | 1992-84-00-00.44 |
 | 2017-12-12 | 2017. évi CLXXVIII. törvény | 1992-84-00-00.45 |
 | 2018-07-26 | 2018. évi XL. törvény | 1992-84-00-00.46 |
+| 2019-01-01 | 2014. évi XCIX. törvény | 1992-84-00-00.47 |

@@ -4,4 +4,4 @@
 
 ## A Nyugdíjbiztosítási Alap költségvetése
 
-12–14. §
+12. §

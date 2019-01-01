@@ -2,4 +2,4 @@
 
 ## Háziorvosi szolgálat
 
-21–22. §
+21. §

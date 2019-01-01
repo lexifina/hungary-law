@@ -1,1 +1,1 @@
-1–12. számú melléklet az 1992. évi LXXXIV. törvényhez
+1. számú melléklet az 1992. évi LXXXIV. törvényhez

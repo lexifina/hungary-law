@@ -12,7 +12,9 @@ mint a vonatkozó pénzügyi alap kezelője dönt.
 
 (3) A Kormány az Alapokkal való gazdálkodást érintő, az Alapok kezelőinek jogkörébe utalt hatáskörök gyakorlására elveket és szabályokat állapíthat meg. Így különösen a Kormány határozza meg:
 
-a)–b)
+a)
+
+b)
 
 c)
 
@@ -36,7 +38,9 @@ Az a)–c) pontokban foglaltakat nyilvánosságra kell hozni.
 
 (9) A társadalombiztosítási alapok kezelői kötelesek gazdaságos, hatékony és költségtakarékos, a járulékfizetők érdekeit szolgáló gazdálkodást folytatni a társadalombiztosítási alapok kezelése során.
 
-(10)–(11)
+(10)
+
+(11)
 
 (12)
 

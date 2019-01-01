@@ -16,7 +16,7 @@ b)
 
 3.
 
-4. a gyermekgondozási díj, a gyermekgondozást segítő ellátás, a gyermeknevelési támogatás, az ápolási díj után fizetett nyugdíjjárulék,
+4. a gyermekgondozási díj, a gyermekgondozást segítő ellátás, a gyermeknevelési támogatás, a gyermekek otthongondozási díja, az ápolási díj után fizetett nyugdíjjárulék,
 
 5.
 
