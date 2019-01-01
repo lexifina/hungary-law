@@ -8,4 +8,4 @@
 
 (2) A tisztségéhez fűződő, e törvényben nem szabályozott egyéb jogosultságok tekintetében a legfőbb ügyész a Kúria elnökével, a legfőbb ügyész helyettes a Kúria elnökhelyettesével, a főosztályvezető ügyész a Kúria kollégiumvezetőjével azonos beosztásúnak minősül.
 
-(3) A legfőbb ügyész – hivatalos és magánprogramokra kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyi védelemre jogosult.
+(3) A legfőbb ügyész – hivatalos és magánprogramokra kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre jogosult.

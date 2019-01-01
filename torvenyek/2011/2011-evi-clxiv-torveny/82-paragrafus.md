@@ -10,4 +10,4 @@ b) életmódjával, illetve magatartásával hivatása tekintélyét sérti vagy
 
 (4) Az ügyész a szóban elhangzott figyelmeztetés írásba foglalását igényelheti, amellyel szemben a (3) bekezdésben foglaltak szerint van helye jogorvoslatnak.
 
-(5) A fegyelmi eljárást le kell folytatni, ha az ügyésszel szemben szándékos bűncselekmény miatt büntetőeljárás – ide nem értve a magánvádló feljelentése vagy a pótmagánvádló vádindítványa alapján indult eljárást – indult.
+(5) A fegyelmi eljárást le kell folytatni, ha az ügyésszel szemben szándékos bűncselekmény miatt büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvádas eljárást – indult.

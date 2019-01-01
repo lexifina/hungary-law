@@ -18,4 +18,6 @@ megfelelő beosztási pótlék illeti meg.
 
 (5) A címmel az illetményalap tizenöt százalékának megfelelő összegű címpótlék jár havonta.
 
-(6)–(7)
+(6)
+
+(7)

@@ -18,7 +18,7 @@ g) összeférhetetlenségének megállapításával;
 
 h) hivatalvesztés fegyelmi büntetést kiszabó jogerős fegyelmi határozattal;
 
-i) a bíróságnak vele szemben szabadságvesztést, közérdekű munkát kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
+i) a bíróságnak vele szemben szabadságvesztést, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
 
 j) a 17. § (5) bekezdésében szabályozott esetben;
 

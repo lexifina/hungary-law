@@ -12,7 +12,7 @@ e) összeférhetetlenségének megállapításával (47. §);
 
 f) hivatalvesztése kimondásával;
 
-g) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
+g) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
 
 h) halálával;
 
@@ -28,7 +28,7 @@ i) ha a 11. § (1) bekezdésében meghatározott feltételek valamelyike már ne
 
 (6) A (3) és (5) bekezdésben említett munkáltatói intézkedést a legfőbb ügyész teszi meg. A volt legfőbb ügyész helyettest a Legfőbb Ügyészségen vagy kérésére alacsonyabb szintű ügyészségen más – lehetőleg vezető – ügyészi munkakörbe kell áthelyezni. A volt legfőbb ügyész helyettest áthelyezése esetén „címzetes főügyész” cím és a beosztási pótlékon kívül – választása szerint – a legfőbb ügyészségi főosztályvezető-helyettes ügyész vezetői pótlékával azonos összegű címpótlék vagy az új munkakörére megállapított vezetői pótlék illeti meg. A volt legfőbb ügyész helyettes fizetési fokozatba sorolását az áthelyezés nem érinti.
 
-(7) A köztársasági elnök a legfőbb ügyész javaslatára kimondja a legfőbb ügyész helyettes hivatalvesztését, ha a legfőbb ügyész helyettes neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ítéletben megállapított bűntettet követett el, vagy más módon tisztségére méltatlanná vált.
+(7) A köztársasági elnök a legfőbb ügyész javaslatára kimondja a legfőbb ügyész helyettes hivatalvesztését, ha a legfőbb ügyész helyettes neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ügydöntő határozatban megállapított bűntettet követett el, vagy más módon tisztségére méltatlanná vált.
 
 (8) Az (1) bekezdés c) pontjában említett esetben a legfőbb ügyész helyettest hathavi átlagilletményének megfelelő összeg illeti meg.
 

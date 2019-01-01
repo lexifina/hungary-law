@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-164-00-00
 | 2017-09-01 | 2017. évi LXXXVII. törvény | 2011-164-00-00.17 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2011-164-00-00.18 |
 | 2018-09-01 | 2018. évi XL. törvény | 2011-164-00-00.19 |
+| 2019-01-01 | 2018. évi CXXII. törvény | 2011-164-00-00.20 |

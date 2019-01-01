@@ -16,7 +16,7 @@ f) összeférhetetlenségének megállapításával (47. §);
 
 g) hivatalvesztése kimondásával;
 
-h) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
+h) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
 
 i) halálával;
 
