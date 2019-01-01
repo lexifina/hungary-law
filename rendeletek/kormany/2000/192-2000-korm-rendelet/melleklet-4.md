@@ -78,7 +78,7 @@
 
 ## D) Adózott eredmény (±C–16)
 
-## E)[^158]
+## E)[^160]
 
 ## Az eredménykimutatás egyes tételeire vonatkozó
 
@@ -88,7 +88,7 @@
 
 ## 2. A saját tulajdonú, saját használatú ingatlanok bevételkorrekcióját a 02. Biztosítástechnikai bevételek befektetésekből és a 09. Befektetések bevételei sorban kell kimutatni, a működési költségek között ilyen jogcímen elszámolt tételek összegével megegyezően.
 
-4. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^159]
+4. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^161]
 
 ## Az összevont (konszolidált) mérleg előírt tagolása a következő kiegészítésekkel tér el az 1. számú melléklet szerinti mérleg tagolásától:
 
@@ -118,5 +118,5 @@
 
 5. A G) Kötelezettség pont kiegészül az alábbi VIII. sorral:
 
-[^158]: A 3. számú melléklet E) pontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte.
-[^159]: A 4. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a szerint módosított szöveg, e módosító rendelet 14. § (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, (3) bekezdése alapján a 2003. évi üzleti évről készített beszámolóra is alkalmazhatók.
+[^160]: A 3. számú melléklet E) pontját a 484/2015. (XII. 29.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte.
+[^161]: A 4. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a szerint módosított szöveg, e módosító rendelet 14. § (1) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, (3) bekezdése alapján a 2003. évi üzleti évről készített beszámolóra is alkalmazhatók.
