@@ -1,0 +1,7 @@
+# 2018. évi LXXVII. törvény egyes törvények külügyi igazgatási tárgyú módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-77-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2019-01-01 | 2018. évi LXXVII. törvény | 2018-77-00-00.0 (közlönyállapot) |
