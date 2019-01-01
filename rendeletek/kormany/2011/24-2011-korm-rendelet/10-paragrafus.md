@@ -4,6 +4,6 @@
 
 2. alágazat: három számjegyű TEÁOR-kóddal jelzett tevékenységi terület,
 
-3.[^30] szakágazat: négy számjegyű TEÁOR-kóddal jelzett tevékenységi terület, költségvetési szerv esetében az államháztartásért felelős miniszter rendeletében szabályozott, az államháztartás szakágazati rendje szerinti hat számjegyű kóddal jelzett államháztartási szakfeladat négy számjegyű TEÁOR-kódnak való megfeleltetése.
+3.[^33] szakágazat: négy számjegyű TEÁOR-kóddal jelzett tevékenységi terület, költségvetési szerv esetében az államháztartásért felelős miniszter rendeletében szabályozott, az államháztartás szakágazati rendje szerinti hat számjegyű kóddal jelzett államháztartási szakfeladat négy számjegyű TEÁOR-kódnak való megfeleltetése.
 
-[^30]: A 10. § 3. pontja a 345/2017. (XI. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^33]: A 10. § 3. pontja a 345/2017. (XI. 16.) Korm. rendelet 8. §-ával megállapított szöveg.

@@ -8,7 +8,11 @@
 
 (5)[^2] A Kjt. 6/B. §-ára tekintettel kizárólag az országos reprezentativitás megállapításánál – a Közalkalmazottak Országos Munkaügyi Tanácsában (a továbbiakban: KOMT) történő részvétel céljából – kell figyelembe venni a rendvédelmi feladatokat ellátó szerveknél foglalkoztatott közalkalmazottak létszámát.
 
-(6) Az (1)–(5) bekezdésben foglalt adatokat a 3. § (2) bekezdésében meghatározott igazolás hónapjának első napján közalkalmazotti jogviszonyban álló személyek létszáma alapján kell megállapítani.
+(6)[^3] A Kjt. 7. § (2) bekezdésének alkalmazása tekintetében az ágazati szintű reprezentativitás megállapítása során a tankerületi központoknál foglalkoztatott közalkalmazottak létszámát a gazdasági tevékenységek egységes ágazati osztályozási rendszere szerint a 85 Oktatás ágazatban, azon belül a 850 Tankerületek közoktatási kódja elnevezésű technikai kód alatt, a tankerületi központok szervezeti egységeként működő köznevelési intézményeknél foglalkoztatott közalkalmazottakra vonatkozó létszámadatok összesítésével kell megállapítani.
+
+(7)[^4] Az (1)–(6) bekezdésben foglalt adatokat a 3. § (2) bekezdésében meghatározott igazolás hónapjának első napján közalkalmazotti jogviszonyban álló személyek létszáma alapján kell megállapítani.
 
 [^1]: Az 1. § a 89/2014. (III. 20.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (5) bekezdése a 157/2015. (VI. 25.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^3]: Az 1. § (6) bekezdése a 273/2018. (XII. 20.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (7) bekezdését a 273/2018. (XII. 20.) Korm. rendelet 16. § (2) bekezdése iktatta be.

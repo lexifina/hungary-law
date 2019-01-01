@@ -1,16 +1,14 @@
-5. § (1)[^12] A 2. és 4. §-ban szereplő adatszolgáltatási kötelezettségnek a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) honlapján elérhető Munkaügyi Kapcsolatok Információs Rendszerben működő „Közalkalmazotti szakszervezeti taglétszám elektronikus adatgyűjtő rendszer”-en (a továbbiakban: MKIR rendszer) keresztül kell eleget tenni. Ettől eltérően a Magyar Államkincstár Területi Igazgatósága elektronikus adathordozó alkalmazásával is teljesítheti adatszolgáltatási kötelezettségét.
+5. §[^17] (1) A 2. és 4. §-ban meghatározott adatszolgáltatási kötelezettségnek a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) honlapján elérhető Munkaügyi Kapcsolatok Információs Rendszerben működő „Közalkalmazotti szakszervezeti taglétszám elektronikus adatgyűjtő rendszer”-en (a továbbiakban: MKIR rendszer) keresztül kell eleget tenni.
 
-(2)[^13] Az elektronikus úton történő adatszolgáltatás érdekében az MKIR rendszert üzemeltető miniszter az adatszolgáltatásra kötelezettet a bejelentkezésétől számított 5 napon belül elektronikusan, az internetes felület felhasználására jogosító, 8 számjegyből álló, véletlenszerűen generált belépési azonosító kóddal látja el.
+(2) Az elektronikus úton történő adatszolgáltatás érdekében az MKIR rendszert üzemeltető miniszter az adatszolgáltatásra kötelezettet a bejelentkezésétől számított 5 napon belül elektronikusan, az internetes felület felhasználására jogosító, 8 számjegyből álló, véletlenszerűen generált belépési azonosító kóddal látja el.
 
-(3)[^14] Az adatokat legkésőbb a reprezentativitás megállapítása évének október 15. napjáig
+(3) Az adatokat legkésőbb a reprezentativitás megállapítása évének május 31. napjáig
 
 a) az adatszolgáltatásra kötelezett
 
-aa) Magyar Államkincstár Területi Igazgatósága,
+aa) fenntartó,
 
-ab) fenntartó,
-
-ac) munkáltatónál működő szakszervezet, szakszervezeti központ
+ab) munkáltatónál működő szakszervezet, szakszervezeti központ
 
 ## a miniszternek elektronikus úton,
 
@@ -18,6 +16,12 @@ b) az adatszolgáltatásra kötelezett munkáltatónál működő szakszervezet,
 
 c) a munkáltatónál működő adatszolgáltatásra kötelezett szakszervezet saját felettes szakszervezeti központjának
 
-[^12]: Az 5. § (1) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 30. § (1) bekezdésével megállapított, a 89/2014. (III. 20.) Korm. rendelet 4. § (11) bekezdése, a 318/2014. (XII. 13.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
-[^13]: Az 5. § (2) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 30. § (3) bekezdés a) pontja, a 89/2014. (III. 20.) Korm. rendelet 4. § (12) bekezdése, a 318/2014. (XII. 13.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^14]: Az 5. § (3) bekezdése a 345/2017. (XI. 16.) Korm. rendelet 7. §-ával megállapított szöveg.
+## küldi meg.
+
+(4) Az (1)–(3) bekezdéstől eltérően a Magyar Államkincstár
+
+a) a 2. § (2) bekezdés a) pontjában foglalt adatszolgáltatási kötelezettségét legkésőbb a megállapítás évének március 15. napjáig,
+
+b) a (2) bekezdés b) pontjában rögzített adatszolgáltatási kötelezettségét legkésőbb a megállapítás évének április 20. napjáig
+
+[^17]: Az 5. § a 273/2018. (XII. 20.) Korm. rendelet 18. §-ával megállapított szöveg.

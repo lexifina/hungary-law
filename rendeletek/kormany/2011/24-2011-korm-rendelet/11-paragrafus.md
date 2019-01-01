@@ -1,8 +1,8 @@
 11. § (1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-(2)[^31]
+(2)[^34]
 
-(3)[^32]
+(3)[^35]
 
-[^31]: A 11. § (2) bekezdés a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^32]: A 11. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 542. §-a hatályon kívül helyezte.
+[^34]: A 11. § (2) bekezdés a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 11. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 542. §-a hatályon kívül helyezte.
