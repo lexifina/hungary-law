@@ -30,6 +30,6 @@
 
 15. területszervezési kezdeményezés;
 
-16. a helyi önkormányzat tulajdonában álló nemzeti vagyon tulajdonjogának az állam vagy más helyi önkormányzat javára történő ingyenes átruházására, ilyen vagyon ingyenes átvételére vonatkozó döntés,
+16. a helyi önkormányzati vagyon tulajdonjogának ingyenes átruházására vagy nemzeti vagyon tulajdonjogának ingyenes átvételére vonatkozó döntés;
 
 17. amit törvény a képviselő-testület át nem ruházható hatáskörébe utal.
