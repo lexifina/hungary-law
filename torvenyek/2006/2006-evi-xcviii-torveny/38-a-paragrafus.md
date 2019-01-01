@@ -8,7 +8,7 @@ c) aki keresőképtelen,
 
 d) aki fizetés nélküli szabadságát tölti,
 
-e) akinek ápolási díjat folyósítanak, ennek időtartama alatt, kivéve, ha a folyósításban részesülő az ellátás folyósítása alatt munkát végez,
+e) akinek gyermekek otthongondozási díját vagy ápolási díjat folyósítanak, ennek időtartama alatt, kivéve, ha a folyósításban részesülő az ellátás folyósítása alatt munkát végez,
 
 f) akinek gyermeknevelési támogatást folyósítanak, ennek időtartama alatt, kivéve, ha a folyósításban részesülő az ellátás folyósítása alatt munkát végez,
 

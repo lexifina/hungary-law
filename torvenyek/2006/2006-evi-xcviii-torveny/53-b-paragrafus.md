@@ -1,6 +1,6 @@
 53/B. § (1) A közforgalmú gyógyszertár működtetője kérelmére az egészségügyi államigazgatási szerv – a (2a) bekezdésben foglalt kivétellel – akkor engedélyezi a közforgalmú gyógyszertár áthelyezését,
 
-a) ha a gyógyszertárnak helyet adó ingatlan bérleti joga az ingatlan tulajdonosának a bérlőt hátrányosan érintő rendelkezése okán megszűnik, vagy
+a) ha a gyógyszertárnak helyet adó ingatlan használatát biztosító jogosultság – különösen a bérleti jogviszony vagy a tulajdonjog – megszűnik, vagy
 
 b) ha a gyógyszertárnak helyet adó ingatlan megsemmisül, vagy
 
