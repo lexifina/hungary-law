@@ -1,3 +1,3 @@
-26. §[^109]
+26. §[^107]
 
-[^109]: Az Ávr. 26. §-át a 260/2014. (X. 15.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^107]: Az Ávr. 26. §-át a 260/2014. (X. 15.) Korm. rendelet 11. §-a hatályon kívül helyezte.

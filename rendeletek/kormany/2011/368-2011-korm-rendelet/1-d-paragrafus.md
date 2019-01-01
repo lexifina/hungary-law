@@ -1,8 +1,7 @@
-1/D. §[^9] A központi költségvetés
+1/D. §[^9] A központi költségvetés XLIII. fejezetébe sorolt
 
-a) XLIII. fejezetébe sorolt, a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos költségvetési bevételek és költségvetési kiadások elszámolására szolgáló központi kezelésű előirányzatok kezelő szerve az MNV Zrt.,
+a) a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos költségvetési bevételek és költségvetési kiadások elszámolására szolgáló központi kezelésű előirányzatok kezelő szerve az MNV Zrt.,
 
-b)[^10] a XVII. fejezetbe sorolt, az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) tulajdonosi joggyakorlása alá tartozó szervezetekkel kapcsolatos költségvetési bevételek és költségvetési kiadások elszámolására szolgáló központi kezelésű előirányzatok kezelő szerve az MFB Zrt.
+b) Beruházási Ügynökség feladatkörébe tartozó kormányzati beruházásokkal kapcsolatos költségvetési bevételek és költségvetési kiadások elszámolására szolgáló központi kezelésű előirányzatok kezelő szerve a Beruházási Ügynökségként kijelölt gazdasági társaság.
 
-[^9]: Az Ávr. 1/D. §-a a 175/2015. (VII. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^10]: Az Ávr. 1/D. § b) pontja a 295/2016. (IX. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^9]: Az Ávr. 1/D. §-a a 310/2018. (XII. 27.) Korm. rendelet 11. §-ával megállapított szöveg.
