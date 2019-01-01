@@ -1,6 +1,6 @@
 5. § (1) A szolgáltató – a Széchenyi Pihenő Kártyával kezdeményezett fizetés elfogadás esetén – kizárólag a szolgáltató tevékenységi körébe tartozó, a Széchenyi Pihenő Kártya juttatás felhasználásnak jogszerűen megfelelő és az alábbi felsorolásban szereplő belföldi szolgáltatást nyújthat a munkavállaló és társkártyával rendelkező közeli hozzátartozója részére:
 
-a) az SZJA törvény 71. § (1) bekezdés b) pont ba) alpontja szerinti szálláshely alszámla terhére
+a)[^4] az Szja tv. 71. (1) bekezdés a) pontja szerinti szálláshely alszámla terhére
 
 aa) szálláshely-szolgáltatás (TEÁOR'08 55.10., 55.20., 55.30.),
 
@@ -12,7 +12,7 @@ ad) fizikai közérzetet javító szolgáltatás (TEÁOR'08 96.04-ből a gyógyf
 
 ae) máshová nem sorolt egyéb szórakoztatás, szabadidős tevékenység (TEÁOR'08 93.29-ből a strandszolgáltatás);
 
-b) az SZJA törvény 71. § (1) bekezdés b) pont bb) alpontja szerinti vendéglátás alszámla terhére
+b)[^5] az Szja tv. 71. (1) bekezdés b) pontja szerinti vendéglátás alszámla terhére
 
 ba) éttermi, mozgó vendéglátás (TEÁOR'08 56.10.),
 
@@ -24,7 +24,7 @@ bd) fizikai közérzetet javító szolgáltatás (TEÁOR'08 96.04-ből a gyógyf
 
 be) máshová nem sorolt egyéb szórakoztatás, szabadidős tevékenység (TEÁOR'08 93.29-ből a strandszolgáltatás);
 
-c) az SZJA törvény 71. § (1) bekezdés b) pont bc) alpontja szerinti szabadidő alszámla terhére
+c)[^6] az Szja tv. 71. (1) bekezdés c) pontja szerinti szabadidő alszámla terhére
 
 ca) egyéb humán-egészségügyi ellátás (TEÁOR'08 86.90-ből a fizioterápiás szolgáltatás, a dentálhigiéniai kezelés, a diagnosztikai szolgáltatás, a terhesgondozás és az egyéb, máshová nem sorolt humán-egészségügyi ellátás),
 
@@ -59,3 +59,7 @@ co) szabadidős, sporteszköz kölcsönzése (TEÁOR'08 77.21.),
 cp) szálláshely-szolgáltatás (TEÁOR'08 55.10., 55.20., 55.30.).
 
 (2) A szolgáltató a munkavállaló és társkártyával rendelkező közeli hozzátartozója rendelkezésére álló, Széchenyi Pihenő Kártya juttatásként utalt pénzeszközt készpénzre vagy készpénz-helyettesítő fizetési eszközre nem válthatja át.
+
+[^4]: Az 5. § (1) bekezdés a) pontjának nyitó szövegrésze a 311/2018. (XII. 27.) Korm. rendelet 40. § 4. pontja szerint módosított szöveg.
+[^5]: Az 5. § (1) bekezdés b) pontjának nyitó szövegrésze a 311/2018. (XII. 27.) Korm. rendelet 40. § 5. pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdés c) pontjának nyitó szövegrésze a 311/2018. (XII. 27.) Korm. rendelet 40. § 6. pontja szerint módosított szöveg.
