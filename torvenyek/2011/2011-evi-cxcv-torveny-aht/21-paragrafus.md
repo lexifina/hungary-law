@@ -6,7 +6,7 @@
 
 (4) A céltartalék olyan, a központi költségvetésről szóló törvényben meghatározott költségvetési kiadási előirányzat, amely évközi kormányzati intézkedés fedezetéül szolgál, és amelynek célját és rendeltetését egyidejűleg meghatározták, azonban a költségvetési kiadási előirányzat felhasználásának fejezet, cím, alcím szerinti megoszlása a központi költségvetésről szóló törvény elfogadásakor még nem ismert.
 
-(4a) A központi költségvetésről szóló törvényben fejezeti stabilitási tartalékot kell képezni a központi költségvetésről szóló törvényben nem szerepeltetett új feladatok, valamint az abban szerepeltetett feladatok bővítése előirányzati fedezetének biztosítására. A fejezeti stabilitási tartalék felhasználásának szabályait a Kormány rendeletben állapítja meg.
+(4a)
 
 (5) Ha a központi költségvetésről szóló törvény – ide nem értve a fejezeti általános tartalékot – az (1)–(4) bekezdésben foglaltakon kívül más tartalék létrehozásáról rendelkezik, a központi költségvetésről szóló törvényben meg kell határozni a tartalék célját, felhasználásának módját és feltételeit.
 

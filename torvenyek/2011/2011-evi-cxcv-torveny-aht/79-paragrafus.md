@@ -22,11 +22,13 @@ h) a Nemzeti Eszközkezelő Zrt.,
 
 i) az Országgyűlés által, a Kormány által és a megyei önkormányzat által alapított közalapítványok,
 
-j) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik, és
+j) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
 
-k) a Nemzeti Üdülési Szolgálat
+k) a Nemzeti Üdülési Szolgálat és
 
-[az a)–k) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].
+l) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény alapján Beruházási Ügynökségként kijelölt gazdasági társaság
+
+[az a)–l) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].
 
 (2a) A kincstári körön kívüli számlatulajdonos kérelmére a (2) bekezdésben meghatározott kötelezettség teljesítése alól az államháztartásért felelős miniszter felmentést adhat.
 

@@ -14,7 +14,7 @@
 
 4. az elfogadott központi költségvetésről szóló törvény alapján fejezetenként a fejezetet irányító szervet, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervét, a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok esetén a kezelő szerv kijelölésének módját, feltételeit, a kezelő szerv által ellátható feladatokat, a központi és fejezeti kezelésű előirányzat, elkülönített állami pénzalap nem költségvetési szervi formában működő kezelő szervének szabályzataira, szervezeti felépítésére, pénzügyi feladatokat ellátó alkalmazottaira vonatkozó sajátos követelményeket, az államháztartás önkormányzati alrendszerében az irányító szervet,
 
-5. a rendkívüli kormányzati intézkedésekre szolgáló tartalék és a fejezeti stabilitási tartalék felhasználásának rendjét,
+5. a rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásának rendjét,
 
 6. az 51. § (4) bekezdése szerinti költségvetési támogatásokat, valamint e költségvetési támogatásoknak a kincstárnál vezetett fizetési számlára történő folyósításával és felhasználásával kapcsolatos részletes szabályokat,
 
