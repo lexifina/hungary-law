@@ -132,17 +132,17 @@ C) Központi hivatal
 
 5.6. a különös hatásköri ügyekkel foglalkozó szervezeti egység valamennyi munkaköre,
 
-5.7. a belső adatvédelmi felelősi, adatvédelmi referensi és biztonsági megbízotti feladatokat ellátók munkaköre, a biztonsági referens és főreferens munkaköre, a biztonsági vezető, a Biztonsági Főosztály személyi állományába tartozó jogi szakreferens,
+5.7.[^4] a belső adatvédelmi felelősi, adatvédelmi referensi és biztonsági megbízotti feladatokat ellátók munkaköre, a biztonsági referens és főreferens munkaköre, a biztonsági vezető, a Biztonsági Főosztály személyi állományába tartozó valamennyi foglalkoztatott,
 
-5.8. a belső ellenőr,
+5.8.[^5] a kiemelt belső ellenőr,
 
 5.9. a dokumentációs, a szervezetbiztonsági, a beruházási, az ellátási, a folyószámla-felügyeleti feladatot ellátó szervezeti egység vezetője,
 
 5.10. a Központi Irányítás közbeszerzési feladatokat ellátó szervezeti egység, a pénzmosás elleni információs iroda, az OLAF koordinációs iroda valamennyi munkaköre,
 
-5.11. a Központi Irányítás azon foglalkoztatottja, aki munkaköri leírása alapján kockázatkezelési módszertanok, módszerek kidolgozásában közreműködik,
+5.11.[^6] a munkaköri leírásuk alapján kockázatkezelési feladatokat ellátó foglalkoztatottak,
 
-5.12.[^4]
+5.12.[^7]
 
 5.13. a Központi Irányítás rendészeti feladatokat ellátó szervezeti egység vezetője és azon foglalkoztatottja, aki munkaköri leírása alapján ügyeletesi, védelemigazgatási vagy EDR diszpécserszolgálati feladatot lát el,
 
@@ -152,7 +152,7 @@ C) Központi hivatal
 
 5.16. a Kiemelt Adó- és Vámigazgatóság valamennyi vezetője, az igazgatóhelyettesek közvetlen munkatársai, továbbá az Általános Főosztály, illetve a Különös Hatásköri Ellenőrzési Főosztály ellenőrzési, hatósági és adóügyi munkakörcsoportjaiból kijelölt foglalkoztatottak, az igazgatóság azon foglalkoztatottjai, akik munkaköri leírásuk alapján az Általános Főosztály különös illetékességi körébe tartozó adózók adatait tartalmazó adatállománnyal kapcsolatba kerülnek,
 
-5.17.[^5] a Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága azon főosztályainak vezetői, foglalkoztatottjai, továbbá azon kijelölt megyei (fővárosi) adó- és vámigazgatóságokon eljáró ügyfélszolgálati foglalkoztatottak, akik munkaköri leírásuk alapján a Kiemelt Adó- és Vámigazgatóság különös hatáskörébe tartozó egyes adózók ügyeit intézik,
+5.17.[^8] a Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága azon főosztályainak vezetői, foglalkoztatottjai, továbbá azon kijelölt megyei (fővárosi) adó- és vámigazgatóságokon eljáró ügyfélszolgálati foglalkoztatottak, akik munkaköri leírásuk alapján a Kiemelt Adó- és Vámigazgatóság különös hatáskörébe tartozó egyes adózók ügyeit intézik,
 
 5.18. az informatikai feladatokat ellátó intézet alaptevékenységébe tartozó szervezeti egységek vezetői,
 
@@ -176,7 +176,7 @@ C) Központi hivatal
 
 5.28. a Nemzeti Adó- és Vámhivatal azon foglalkoztatottja, akinek a munkaköri feladatainak ellátásához Személyi Biztonsági Tanúsítvány megléte szükséges.
 
-6.[^6] A Nemzeti Akkreditáló Hatóságnál
+6.[^9] A Nemzeti Akkreditáló Hatóságnál
 
 6.1. a főosztályvezető, a főosztályvezető-helyettes, az osztályvezető,
 
@@ -223,6 +223,9 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szerv
 [^1]: Az 1. melléklet B) részét a 47/2015. (XII. 30.) NGM rendelet 27. §-a hatályon kívül helyezte, újonnan a 62/2016. (XII. 29.) NGM rendelet 31. §-a iktatta be.
 [^2]: Az 1. melléklet C) rész 1. pontját a 62/2016. (XII. 29.) NGM rendelet 31. §-a hatályon kívül helyezte.
 [^3]: Az 1. melléklet C) rész 5. pontját a 47/2015. (XII. 30.) NGM rendelet 27. §-a iktatta be.
-[^4]: Az 1. melléklet C) rész 5. pont 5.12. alpontját a 37/2017. (XI. 6.) NGM rendelet 5. §-a hatályon kívül helyezte.
-[^5]: Az 1. melléklet C) rész 5. pont 5.17. alpontja a 37/2017. (XI. 6.) NGM rendelet 5. §-ával megállapított szöveg.
-[^6]: Az 1. melléklet C) Központi hivatal rész 6. pontját a 15/2016. (V. 24.) NGM rendelet 1. §-a iktatta be.
+[^4]: Az 1. melléklet C) rész 5. pont 5.7. alpontja a 18/2018. (XII. 20.) PM rendelet 16. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet C) rész 5. pont 5.8. alpontja a 18/2018. (XII. 20.) PM rendelet 16. § b) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet C) rész 5. pont 5.11. alpontja a 18/2018. (XII. 20.) PM rendelet 16. § c) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet C) rész 5. pont 5.12. alpontját a 37/2017. (XI. 6.) NGM rendelet 5. §-a hatályon kívül helyezte.
+[^8]: Az 1. melléklet C) rész 5. pont 5.17. alpontja a 37/2017. (XI. 6.) NGM rendelet 5. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet C) Központi hivatal rész 6. pontját a 15/2016. (V. 24.) NGM rendelet 1. §-a iktatta be.
