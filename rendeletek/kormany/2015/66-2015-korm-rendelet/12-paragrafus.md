@@ -1,6 +1,6 @@
 12. § (1) A kormánymegbízott minden év február 28. napjáig – a (2) bekezdésben meghatározott szervek bevonásával – a fővárosi és megyei kormányhivatal előző évi tevékenységéről, valamint a (2) és (4) bekezdésben meghatározott kérdésekről szóló összegző beszámolót készít, amelyet megküld a közigazgatás-szervezésért felelős miniszter részére.
 
-(2)–(3)[^15]
+(2)–(3)[^16]
 
 (4) A fővárosi és megyei kormányhivatal beszámolójának tartalmaznia kell különösen:
 
@@ -16,7 +16,7 @@ e) a fővárosi és megyei kormányhivatal és a járási hivatalok általános 
 
 f) a fővárosi és megyei kormányhivatal, valamint a járási hivatal kormányablakainak, továbbá más ügyfélszolgálatainak működési tapasztalatait,
 
-g)[^16]
+g)[^17]
 
 h) a fővárosi és megyei államigazgatási kollégium működésének, tevékenységének tapasztalatait,
 
@@ -24,5 +24,5 @@ i) a fővárosi és megyei kormányhivatalhoz benyújtott panaszokkal és közé
 
 j) egyéb, a közigazgatás-szervezésért felelős miniszter által meghatározott szempontokat.
 
-[^15]: A 12. § (2)–(3) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 18. § (5) bekezdés a) pontja hatályon kívül helyezte.
-[^16]: A 12. § (4) bekezdés g) pontját a 171/2017. (VI. 29.) Korm. rendelet 18. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^16]: A 12. § (2)–(3) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 18. § (5) bekezdés a) pontja hatályon kívül helyezte.
+[^17]: A 12. § (4) bekezdés g) pontját a 171/2017. (VI. 29.) Korm. rendelet 18. § (5) bekezdés b) pontja hatályon kívül helyezte.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-66-20-2
 | 2017-07-01 | 2015-66-20-22.10 | 171/2017. (VI. 29.) Korm. rendelet |
 | 2018-01-01 | 2015-66-20-22.11 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-09-04 | 2015-66-20-22.12 | 155/2018. (IX. 3.) Korm. rendelet |
+| 2019-01-01 | 2015-66-20-22.13 | 86/2019. (IV. 23.) Korm. rendelet |
