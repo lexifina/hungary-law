@@ -14,4 +14,4 @@ f) 58/A. § (2b) bekezdés d) pontja,
 
 g) 99/C. § (9) bekezdés a) pontja.
 
-(2) Hatályát veszti az Szt. 20. § (6) bekezdés a) pontja.
+(2)

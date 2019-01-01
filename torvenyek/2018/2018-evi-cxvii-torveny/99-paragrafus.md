@@ -12,10 +12,4 @@
 
 „b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában, ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, gyermekek otthongondozási díja, ápolási díj folyósítása alatt a tag személyes közreműködését, az egyházi szolgálati viszonyban álló egyházi személy egyházi szolgálatát, az egyéni vállalkozó e tevékenységét személyesen folytatja;”
 
-(3) A szociális hozzájárulási adóról szóló 2018. évi LII. törvény
-
-a) 5. § (2) bekezdés f) pontjában és 11. § (2) bekezdésében a „csecsemőgondozási díj” szövegrész helyébe a „csecsemőgondozási díj, örökbefogadói díj” szöveg,
-
-b) 7. § (6) bekezdés a) és c) pontjában, 9. § (1) bekezdés a) és c) pontjában a „csecsemőgondozási díjban” szövegrész helyébe a „csecsemőgondozási díjban, örökbefogadói díjban” szöveg
-
-lép.
+(3)

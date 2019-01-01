@@ -1,3 +1,1 @@
-68. § Az Ebtv. 42/D. §-a a következő (11) bekezdéssel egészül ki:
-
-„(11) Ha a biztosított ugyanazon nevelt gyermekre tekintettel a 42/A. § és a 42/F. § szerint is jogosult gyermekgondozási díjra, az így megállapított gyermekgondozási díjak együttes összege nem haladhatja meg az (1) bekezdésben meghatározott maximális összeget. Ha az ellátás egybeszámított összege meghaladná az (1) bekezdésben megállapított legmagasabb összeget, a gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.”
+68. §
