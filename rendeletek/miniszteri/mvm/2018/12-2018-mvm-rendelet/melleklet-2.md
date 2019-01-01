@@ -1,3 +1,13 @@
-2. melléklet a 12/2018. (XI. 12.) MvM rendelethez[^6]
+2. melléklet a 12/2018. (XI. 12.) MvM rendelethez
 
-[^6]: A 2. melléklet a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+1. Az R. 1. mellékletében foglalt táblázat 10h. sora helyébe a következő sor lép:
+
+|  | (ÁHT azonosító | Cím- név | Alcím- név | Jogcím- csoport név | Jogcímnév | Előirányzat célja | Kifizetésben részesülők köre | Támogatás biztosításának módja | Támogatási előleg | Rendelkezésre bocsátás módja | Visszafizetés határideje | Biztosíték | Kezelő szerv | Lebonyolító szerv | Európai uniós forrásból finanszírozott költségvetési támogatás közreműködő szervezete) |
+
+| „10h. | 376051 |  |  |  | 30/1/11/8 A fővárosi kerületi belterületi szilárd burkolat nélküli utak szilárd burkolattal történő ellátásának támogatása | Az előirányzat fedezetül szolgál a fővárosi kerületi belterületi szilárd burkolat nélküli utak szilárd burkolattal történő ellátásának támogatására. Az előirányzat terhére támogatás a támogatás igénylésének lehetőségéről szóló tájékoztató kiküldését követően megkezdett tevékenységre is nyújtható. | Fővárosi kerületi önkormányzat, NIF Zrt. | kérelemre hozott egyedi döntés alapján támogatási szerződéssel vagy támogatói okirattal vagy megállapodással | előleg biztosítható | egyösszegű kifizetéssel vagy időarányos/ teljesítmény- arányos részletekben történő kifizetéssel | szerződés/ okirat/ megállapodás szerint | Ávr. 84. § (2) bekez- dése alapján, a költség- vetési támogatás összegét meghaladó biztosítéki értékig vagy összeghatár megjelölése nélkül | – | – | –” |
+
+2. Az R. 1. mellékletében foglalt táblázat a következő 10i. sorral egészül ki:
+
+|  | (ÁHT azonosító | Cím- név | Alcím- név | Jogcím- csoport név | Jogcímnév | Előirányzat célja | Kifizetésben részesülők köre | Támogatás biztosításának módja | Támogatási előleg | Rendelkezésre bocsátás módja | Visszafizetés határideje | Biztosíték | Kezelő szerv | Lebonyolító szerv | Európai uniós forrásból finanszírozott költségvetési támogatás közreműködő szervezete) |
+
+| „10i. | 376217 |  |  |  | 30/1/11/9 Kiemelt Nemzetközi Sportesemény Stratégia és sportesemény pályázatok | Az előirányzat fedezetül szolgál a kiemelt budapesti beruházásokért és nemzetközi sportpályázatokért felelős kormánybiztos feladatkörébe tartozó kiemelt nemzetközi sportesemények megpályázásával és lebonyolításával kapcsolatos 2030-ig tartó időszak kormányzati stratégiájának kidolgozásával és végrehajtásával kapcsolatos költségekre. Az előirányzat terhére támogatás már megkezdett vagy megvalósult tevékenységre is nyújtható. | KKBK NZrt., hazai sportszövetség | Pályázati rendszeren kívül vagy meghívásos pályázat útján, kérelemre hozott egyedi döntés alapján támogatási szerződéssel és/vagy támogatói okirattal | előleg biztosítható | egyösszegű kifizetéssel vagy időarányos/ teljesítmény- arányos részletekben történő kifizetéssel | szerződés/ okirat szerint | Ávr. 84. § (2) bekezdés alapján, a költség-vetési támogatás összegét meghaladó biztosítéki értékig vagy összeghatár megjelölése nélkül | – | – | –” |
