@@ -12,7 +12,7 @@ e) jegyző,
 
 f) másik választási bizottság tagja, választási iroda tagja,
 
-g) a Magyar Honvédséggel szolgálati jogviszonyban álló személy, valamint
+g) a Magyar Honvédséggel szolgálati jogviszonyban álló hivatásos és szerződéses katona, honvéd tisztjelölt, honvéd altiszt-jelölt, és a tényleges szolgálatot ellátó önkéntes tartalékos katona, valamint
 
 h) jelölt.
 
