@@ -1,4 +1,4 @@
-12. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^73]
+12. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^74]
 
 1. 2017. november 1-jétől a kompenzáció bérszámfejtéséhez szükséges, a 9. melléklet alapján számított összegek az orvosok, fogorvosok esetében:
 
@@ -92,4 +92,4 @@
 
 | 21. | 620 820 |  | 30 820 | 30 820 |
 
-[^73]: A 12. mellékletet a 399/2017. (XII. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^74]: A 12. mellékletet a 399/2017. (XII. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be.

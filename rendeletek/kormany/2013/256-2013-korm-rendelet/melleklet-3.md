@@ -32,7 +32,7 @@
 
 | 16. | Battonya Város Egészségügyi és Szociális Ellátó Szervezet | Battonya |
 
-| 17. | Békés Megyei Körös-menti Szociális Centrum | Szarvas |
+| 17. | Békés Megyei Körös-menti Szociális Centrum | Mezőkovácsháza |
 
 | 18. | Békés Megyei Központi Kórház | Gyula |
 
@@ -520,7 +520,9 @@
 
 | 260. | Vámospércs-Kistérségi Egészségügyi Szakellátó Nonprofit Korlátolt Felelősségű Társaság | Vámospércs |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^64]
+| 261. | Százhalombattai Egészségügyi Közalapítvány | Százhalombatta |
+
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^65]
 
 ## Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót megillető bérkiegészítés mértéke
 
@@ -726,4 +728,4 @@
 
 | 17 | 49–51 | 46 600 | 49 114 | 56 724 |
 
-[^64]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^65]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
