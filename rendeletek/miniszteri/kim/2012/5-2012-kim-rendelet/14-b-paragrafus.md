@@ -1,10 +1,10 @@
-## 12/B. [^73] Az egyszerűsített támogatásokra vonatkozó különös szabályok
+## 12/B. [^78] Az egyszerűsített támogatásokra vonatkozó különös szabályok
 
 14/B. § (1) Egyszerűsített támogatásra – beérkezési sorrendben, az erre vonatkozó keret kimerüléséig – jogosult az a helyi vagy területi hatókörű civil szervezet, amely
 
 a) a támogatási igény benyújtását megelőző két évben letétbe helyezett teljes és közzétett számviteli beszámolóval rendelkezik,
 
-b) a pályázat megjelenését megelőző két lezárt üzleti évben a beszámolóval igazolható éves összes bevétele egyik évben sem éri el az ötmillió forintot, és
+b)[^79] a pályázat megjelenését megelőző utolsó két lezárt üzleti évben a beszámolóval igazolható éves összes bevétele egyik évben sem éri el az ötmillió forintot, és
 
 c) az adott költségvetési év forrása tekintetében nem nyújtott be a Civil tv. 56. § (1) bekezdés b)–g), i) és j) pontjaira vonatkozó támogatási igényt.
 
@@ -20,4 +20,5 @@ c) az adott költségvetési év forrása tekintetében nem nyújtott be a Civil
 
 (7) A II. fejezet 6–8. címeiben szabályozott, az elszámolást, az ellenőrzést, az Alap támogatásaiból történő kizárást érintő eljárásokban az a kollégium a döntéshozó, amelyhez a pályázatot benyújtották.
 
-[^73]: A 12/B. alcímet (14/B. §) a 23/2017. (X. 3.) EMMI rendelet 8. §-a iktatta be.
+[^78]: A 12/B. alcímet (14/B. §) a 23/2017. (X. 3.) EMMI rendelet 8. §-a iktatta be.
+[^79]: A 14/B. § (1) bekezdés b) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § g) pontja szerint módosított szöveg.
