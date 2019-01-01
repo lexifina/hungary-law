@@ -1,6 +1,6 @@
 1. melléklet a 2001. évi XX. törvényhez
 
-Az MFB Zrt. a 3. § (5) bekezdése alapján az állam nevében a következő gazdálkodó szervezetekben gyakorol tulajdonosi jogokat:
+Az MFB Zrt. a 3. § (5) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény 3. § (1) bekezdése alapján az állam nevében a következő gazdálkodó szervezetekben gyakorol tulajdonosi jogokat:
 
 1. Garantiqa Hitelgarancia Zártkörűen Működő Részvénytársaság
 
@@ -14,4 +14,4 @@ Az MFB Zrt. a 3. § (5) bekezdése alapján az állam nevében a következő gaz
 
 6. Regionális Fejlesztési Holding Zártkörűen Működő Részvénytársaság
 
-7. Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság
+7.
