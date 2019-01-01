@@ -28,10 +28,12 @@ h) 8-nál több együttlakó személy esetén legalább 4,5 lakószoba
 
 4. szolgálati hely szerinti település vonzáskörzete: az a település, amelynek a szolgálati hely szerinti településtől közforgalom számára nyitott, szilárd burkolatú úton mért távolsága legfeljebb 40 km, és a szolgálati hely szerinti település a járat üzemeltetője által közzétett menetrend szerint a tömegközlekedési eszközzel legfeljebb egy óra alatt megközelíthető;
 
-5. helyőrségi szálló: a honvédelmi szerv intézményi területén belül elkerített, közterületről önállóan megközelíthető vagy az intézményi területen kívül elhelyezkedő, állami tulajdonú HM vagyonkezelői jogú vagy a honvédelmi szerv által bérelt olyan szállóépület, épületrész, kivételesen HM rendelkezésű lakás, amelyben a szállodai jelleggel berendezett szobákban a fekvőhelyek száma szerinti férőhelyek (a továbbiakban együtt: szálló férőhely) vannak;
+5.[^1] helyőrségi szálló: a honvédelmi szervezet intézményi területén belül elkerített, közterületről önállóan megközelíthető vagy az intézményi területen kívül elhelyezkedő, állami tulajdonú HM vagyonkezelői jogú vagy a honvédelmi szervezet által bérelt olyan szállóépület, épületrész, kivételesen HM rendelkezésű lakás, amelyben a szállodai jelleggel berendezett szobákban a fekvőhelyek száma szerinti férőhelyek (a továbbiakban együtt: szálló férőhely) vannak;
 
 6. az állomány tagja: a Magyar Honvédség hivatásos vagy szerződéses tiszti, altiszti állományba tartozó tagja;
 
 7. az állomány egyedülálló tagja: az állomány olyan tagja, aki nem él házastársi vagy élettársi kapcsolatban vagy saját háztartásában nem gondoskodik olyan gyermek eltartásáról, aki után családi pótlékban részesül;
 
 8. közeli hozzátartozó: a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozó, továbbá az élettárs, bejegyzett élettárs, valamint mindezek egyeneságbeli rokona.
+
+[^1]: Az 1. § 5. pontja a 22/2018. (XII. 28.) HM rendelet 7. § a) pontja szerint módosított szöveg.

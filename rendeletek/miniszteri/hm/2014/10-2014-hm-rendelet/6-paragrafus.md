@@ -1,10 +1,10 @@
 6. § (1) Meg kell szüntetni a lakáspénz folyósítását, ha
 
-1. a támogatott személy vagy 2014. július 31-ét követően a házastársa, élettársa a honvédelmi szervtől munkáltatói kölcsönben, vissza nem térítendő juttatásban vagy egyszeri pénzbeli támogatásban részesült;
+1.[^36] a támogatott személy vagy 2014. július 31-ét követően a házastársa, élettársa a honvédelmi szervezettől munkáltatói kölcsönben, vissza nem térítendő juttatásban vagy egyszeri pénzbeli támogatásban részesült;
 
-2.[^20] a támogatott személy vagy a támogatott személy házastársa, élettársa, saját háztartásban eltartott gyermeke a támogatott személy szolgálati helye szerinti településen vagy annak vonzáskörzetében önállóan vagy együttesen legalább a méltányolható lakásigény alsó határának megfelelő, beköltözhető magántulajdonú lakás tulajdonjogát vagy haszonélvezeti jogát szerezte meg;
+2.[^37] a támogatott személy vagy a támogatott személy házastársa, élettársa, saját háztartásban eltartott gyermeke a támogatott személy szolgálati helye szerinti településen vagy annak vonzáskörzetében önállóan vagy együttesen legalább a méltányolható lakásigény alsó határának megfelelő, beköltözhető magántulajdonú lakás tulajdonjogát vagy haszonélvezeti jogát szerezte meg;
 
-3.[^21] a támogatott személy vagy annak házastársa, élettársa a lakáspénzzel érintett mellett másik HM rendelkezésű lakás bérleti jogát szerezte meg;
+3.[^38] a támogatott személy vagy annak házastársa, élettársa a lakáspénzzel érintett mellett másik HM rendelkezésű lakás bérleti jogát szerezte meg;
 
 4. a támogatott személy vagy annak házastársa, élettársa a támogatott személy szolgálati helye szerinti településen vagy annak vonzáskörzetében lévő, a HM rendelkezési körébe nem tartozó állami vagy önkormányzati tulajdonú lakás bérleti jogát szerezte meg;
 
@@ -18,7 +18,7 @@
 
 9. a támogatott személy vagy annak házastársa, élettársa részére lakbértámogatás vagy lakásüzemeltetési hozzájárulás került megállapításra;
 
-10. a támogatásban részesülő, 52. életévét be nem töltött személy a lakáspénz megállapításának feltételeként előírt lakástakarékpénztári megtakarítás fennállását nem igazolta;
+10.[^39]
 
 11. a támogatásban részesülő személyt időközben egy évet meghaladó időtartamú külföldi szolgálatra vezénylik feltéve, hogy családját az általa bérelt lakásban nem hagyja hátra;
 
@@ -28,9 +28,9 @@
 
 14. a támogatott személy hivatásos vagy szerződéses katonai szolgálati viszonya megszűnt;
 
-15.[^22] a támogatott személy a lakáspénzt nem a lakhatásának megoldására fordította, vagy azzal más módon visszaélt, így különösen akkor, ha azért közölt valótlan adatot, vagy valós adatot, körülményt azért hallgatott el, hogy azzal jogtalan vagyoni előnyre tegyen szert, vagy
+15.[^40] a támogatott személy a lakáspénzt nem a lakhatásának megoldására fordította, vagy azzal más módon visszaélt, így különösen akkor, ha azért közölt valótlan adatot, vagy valós adatot, körülményt azért hallgatott el, hogy azzal jogtalan vagyoni előnyre tegyen szert, vagy
 
-16.[^23] a támogatott személy a lakáspénz folyósításának megkezdésétől számított 30 napon belül nem igazolja, hogy a támogatott lakástól eltérően bejelentett lakó- vagy tartózkodási helyről történő napi munkába járáshoz a honvédelmi szervtől utazási költségtérítésben nem részesül.
+16.[^41] a támogatott személy a lakáspénz folyósításának megkezdésétől számított 30 napon belül nem igazolja, hogy a támogatott lakástól eltérően bejelentett lakó- vagy tartózkodási helyről történő napi munkába járáshoz a honvédelmi szervezettől utazási költségtérítésben nem részesül.
 
 (2) Nem kell alkalmazni:
 
@@ -38,9 +38,9 @@ a) az (1) bekezdés 2. pontját, ha a lakás az illetékes építésügyi hatós
 
 b) az (1) bekezdés 5. és 6. pontját, ha az állami vagy önkormányzati lakás tulajdonjogának megszerzésére nyilvános pályázat útján került sor;
 
-c) az (1) bekezdés 10. pontját, ha a lízinghez támogatásban részesülő személy igazolja, hogy lakástakarékpénztári megtakarítása időközben a nyolcéves futamidőt elérte.
+c)[^42]
 
-(3)[^24] A 3/B. §-ban foglalt kivétellel az olyan szolgálati hely szerinti településre történt áthelyezés esetén, amelynek a vonzáskörzetébe a lakáspénzzel érintett lakóingatlan fekvése szerinti település nem tartozik bele, a lakáspénz folyósítását
+(3)[^43] A 3/B. §-ban foglalt kivétellel az olyan szolgálati hely szerinti településre történt áthelyezés esetén, amelynek a vonzáskörzetébe a lakáspénzzel érintett lakóingatlan fekvése szerinti település nem tartozik bele, a lakáspénz folyósítását
 
 a) az állomány egyedülálló tagja esetében az áthelyezést követő 3. hónap utolsó napjával,
 
@@ -60,8 +60,11 @@ c) a haláleset bekövetkezésétől számított 6. hónap utolsó napjáig tov�
 
 (6) Az (5) bekezdés szerinti továbbfolyósítás feltétele a lakóingatlanban együtt élő özvegy, túlélő élettárs vagy gyermek bérleti vagy lízingdíj fizetési kötelezettségének hitelt érdemlő igazolása. Továbbfolyósítás esetén a lakáspénzt a személyi jövedelemadó és társadalombiztosítási járulék várható összegével növelt összegben kell megállapítani. Az emelt összegű lakáspénz megállapítása során a folyósításért felelős pénzügyi szerv együttműködik az illetékes helyi lakásgazdálkodási szervvel. A folyósítás során a kifizető számára előírt levonásokat érvényesíteni kell.
 
-[^20]: A 6. § (1) bekezdés 2. pontja az 1/2018. (I. 26.) HM rendelet 38. § (3) bekezdése szerint módosított szöveg.
-[^21]: A 6. § (1) bekezdés 3. pontja az 1/2018. (I. 26.) HM rendelet 36. §-ával megállapított szöveg.
-[^22]: A 6. § (1) bekezdés 15. pontja a 15/2015. (XII. 21.) HM rendelet 36. § a) pontja szerint módosított szöveg.
-[^23]: A 6. § (1) bekezdés 16. pontját a 15/2015. (XII. 21.) HM rendelet 33. §-a iktatta be.
-[^24]: A 6. § (3) bekezdés nyitó szövegrésze a 15/2015. (XII. 21.) HM rendelet 36. § b) pontja szerint módosított szöveg.
+[^36]: A 6. § (1) bekezdés 1. pontja a 22/2018. (XII. 28.) HM rendelet 7. § c) pontja szerint módosított szöveg.
+[^37]: A 6. § (1) bekezdés 2. pontja az 1/2018. (I. 26.) HM rendelet 38. § (3) bekezdése szerint módosított szöveg.
+[^38]: A 6. § (1) bekezdés 3. pontja az 1/2018. (I. 26.) HM rendelet 36. §-ával megállapított szöveg.
+[^39]: A 6. § (1) bekezdés 10. pontját a 22/2018. (XII. 28.) HM rendelet 8. §-a hatályon kívül helyezte.
+[^40]: A 6. § (1) bekezdés 15. pontja a 15/2015. (XII. 21.) HM rendelet 36. § a) pontja szerint módosított szöveg.
+[^41]: A 6. § (1) bekezdés 16. pontját a 15/2015. (XII. 21.) HM rendelet 33. §-a iktatta be, szövege a 22/2018. (XII. 28.) HM rendelet 7. § c) pontja szerint módosított szöveg.
+[^42]: A 6. § (2) bekezdés c) pontját a 22/2018. (XII. 28.) HM rendelet 8. §-a hatályon kívül helyezte.
+[^43]: A 6. § (3) bekezdés nyitó szövegrésze a 15/2015. (XII. 21.) HM rendelet 36. § b) pontja szerint módosított szöveg.
