@@ -10,11 +10,11 @@ b) fél naptári napként kell figyelembe venni azt a napot, amelynek során a k
 
 (4) Ha a kiküldött a kiküldetés időtartama alatt díjtalan ebédben, illetve vacsorában részesül, az adott naptári napra jutó napidíját étkezésenként 30%-kal csökkenteni kell.
 
-(5)[^25] A napidíjat az ideiglenes külföldi kiküldetés megkezdése előtt – az érintett választása szerint – készpénzben vagy bankszámlára való átutalással ki kell fizetni. A kiküldött a kiküldetés befejező időpontját követő öt munkanapon belül köteles elszámolni.
+(5)[^26] A napidíjat az ideiglenes külföldi kiküldetés megkezdése előtt – az érintett választása szerint – készpénzben vagy bankszámlára való átutalással ki kell fizetni. A kiküldött a kiküldetés befejező időpontját követő öt munkanapon belül köteles elszámolni.
 
-(6)[^26] A külföldi napidíj összegét terhelő közterhet a rendvédelmi szerv – vagy a vezényeltek esetében a fogadó szerv – költségvetési gazdálkodásért felelős szerve a hivatásos állományú illetményéből levonja.
+(6)[^27] A külföldi napidíj összegét terhelő közterhet a rendvédelmi szerv – vagy a vezényeltek esetében a fogadó szerv – költségvetési gazdálkodásért felelős szerve a hivatásos állományú illetményéből levonja.
 
 (7) Az ideiglenes külföldi kiküldetést teljesítő személy a kiküldetés befejező időpontját követő három munkanapon belül – büntetőjogi felelősség terhe mellett – nyilatkozik arról, hogy a kiküldetés időtartama alatt részesült-e díjtalan ebédben, illetve vacsorában, továbbá – ha részére a napidíj teljes összegét előre kifizették – a kiküldetés befejező időpontját követő öt munkanapon belül visszafizeti a (4) bekezdésben meghatározott összeget.
 
-[^25]: A 19/A. § (5) bekezdése a 9/2018. (IV. 25.) BM rendelet 58. §-ával megállapított szöveg.
-[^26]: A 19/A. § (6) bekezdése a 9/2018. (IV. 25.) BM rendelet 58. §-ával megállapított szöveg.
+[^26]: A 19/A. § (5) bekezdése a 9/2018. (IV. 25.) BM rendelet 58. §-ával megállapított szöveg.
+[^27]: A 19/A. § (6) bekezdése a 9/2018. (IV. 25.) BM rendelet 58. §-ával megállapított szöveg.

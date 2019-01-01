@@ -1,6 +1,6 @@
 ## 48. § A hivatásos állomány tagja a munkáltatói kölcsön teljes összegének felhasználását, valamint a hitelcél megvalósulását az alábbi okiratok, bizonylatok másolatának benyújtásával köteles igazolni:
 
-a)[^70] lakás tulajdonjogának megszerzése esetén az érvényes adásvételi szerződés alapján a teljes vételár megfizetéséről szóló okirat,
+a)[^71] lakás tulajdonjogának megszerzése esetén az érvényes adásvételi szerződés alapján a teljes vételár megfizetéséről szóló okirat,
 
 b) lakás építése vagy bővítése esetén
 
@@ -10,4 +10,4 @@ bb) egyszerű bejelentéshez kötött építési tevékenységnél a felépíté
 
 c) lakáskorszerűsítés esetén a munkáltatói kölcsön folyósítását megelőző hat hónapon belül és azt követő tizenkét hónapon belül a hivatásos állomány tagja nevére kiállított számla, valamint az elvégzett munka ellenértékéről kiállított bizonylat; benyújtásuk kötelező a folyósítást követő tizenkét hónapon belül.
 
-[^70]: A 48. § a) pontja a 9/2018. (IV. 25.) BM rendelet 64. § l) pontja szerint módosított szöveg.
+[^71]: A 48. § a) pontja a 9/2018. (IV. 25.) BM rendelet 64. § l) pontja szerint módosított szöveg.
