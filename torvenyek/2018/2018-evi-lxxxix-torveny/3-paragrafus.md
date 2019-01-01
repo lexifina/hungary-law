@@ -6,7 +6,7 @@ b) társadalombiztosítási azonosító jel vagy
 
 c) személyazonosító okmány száma.
 
-(2) Az (1) bekezdés szerinti adatok a sikeres azonosításig kezelhetők.
+(2)
 
 (3) Az oktatási nyilvántartás működéséért felelős szerv a nyilvántartott személyek 2. § a)–h) és l) pontja szerinti adatairól – azonosítás, ellenőrzés és pontosítás céljából – térítésmentesen, elektronikus úton adatot igényel a személyiadat- és lakcímnyilvántartást kezelő szervtől.
 

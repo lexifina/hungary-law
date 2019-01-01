@@ -10,16 +10,10 @@ d) 73. § (3) bekezdés i) pontjában az „a 3. mellékletben foglaltak szerint
 
 e) 110. § (1) bekezdés 6. pontjában az „ , az oktatói azonosító számmal és a hallgatói azonosító számmal” szövegrész,
 
-f) 3. melléklet I. fejezet I/B. alcím 4. pont e) alpontja,
+f)
 
 g) 3. melléklet II. fejezete, III. fejezet 1–4. pontja, 6. pont 6.3. és 6.4. alpontja, 7–9. pontja és V. fejezete,
 
 h) 5. melléklete,
 
 i) 7. melléklete.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Dr. Latorcai János s. k.,az Országgyűlés alelnöke
