@@ -116,6 +116,8 @@
 
 | 55. | Vezető technikus |  |  |  | * | * |  |  |  |  |  |  | * |  |  |
 
+| 56. | Fegyveres biztonsági őr | * | * | * | * |  |  |  |  |  |  |  |  |  |  |
+
 ## * Azon munkakörök, melyek nem tartoznak a büntetés-végrehajtási szervnél rendszeresített hivatásos szolgálati beosztásokat és az azok betöltéséhez szükséges képesítési követelményeket meghatározó miniszteri rendeletben meghatározott szolgálati tevékenységek közé.
 
 3. melléklet a 37/2011. (X. 28.) BM rendelethez[^19]

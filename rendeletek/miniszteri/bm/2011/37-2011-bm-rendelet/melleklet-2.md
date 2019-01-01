@@ -480,4 +480,4 @@
 
 2. melléklet a 37/2011. (X. 28.) BM rendelethez[^18]
 
-[^18]: A 2. melléklet a 37/2015. (VI. 16.) BM rendelet 47. §-a szerint módosított szöveg.
+[^18]: A 2. melléklet a 37/2015. (VI. 16.) BM rendelet 47. §-a, a 37/2018. (XII. 28.) BM rendelet 14. §-a szerint módosított szöveg.
