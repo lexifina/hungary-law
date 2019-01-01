@@ -1,6 +1,6 @@
-## Óvodai és iskolai szociális segítő szolgáltatás[^89]
+## Óvodai és iskolai szociális segítő szolgáltatás[^70]
 
-25. §[^90] (1) Az óvodai és iskolai szociális segítő szolgáltatás a gyermek veszélyeztetettségének megelőzése érdekében a szociális segítő munka eszközeivel támogatást nyújt a köznevelési intézménybe járó gyermeknek, a gyermek családjának és a köznevelési intézmény pedagógusainak.
+25. §[^71] (1) Az óvodai és iskolai szociális segítő szolgáltatás a gyermek veszélyeztetettségének megelőzése érdekében a szociális segítő munka eszközeivel támogatást nyújt a köznevelési intézménybe járó gyermeknek, a gyermek családjának és a köznevelési intézmény pedagógusainak.
 
 (2) Az óvodai és iskolai szociális segítő egyéni, csoportos és közösségi szociális munkát végez, valamint gyermek- és ifjúságvédelmi feladatokat lát el. Ennek keretében segíti
 
@@ -18,5 +18,5 @@ f) a jelzőrendszer működését.
 
 (3) Ha a köznevelési intézmény foglalkoztat gyermek- és ifjúságvédelmi felelőst, az intézményt érintő gyermekvédelmi feladatokat az óvodai és iskolai szociális segítő a gyermek- és ifjúságvédelmi felelőssel együttműködésben látja el.
 
-[^89]: A 25. §-t megelőző alcím a 2/2018. (I. 18.) EMMI rendelet 9. §-ával megállapított szöveg.
-[^90]: A 25. § a 2/2018. (I. 18.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^70]: A 25. §-t megelőző alcím a 2/2018. (I. 18.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^71]: A 25. § a 2/2018. (I. 18.) EMMI rendelet 10. §-ával megállapított szöveg.

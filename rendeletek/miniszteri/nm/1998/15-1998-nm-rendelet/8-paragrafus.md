@@ -12,19 +12,19 @@ a) az igénybe vevő és törvényes képviselője nevét, elérhetőségét,
 
 b) az esetkezelést végző családsegítő nevét, elérhetőségét,
 
-c)[^77]
+c)[^58]
 
-d)[^78]
+d)[^59]
 
-e)[^79]
+e)[^60]
 
 (3) Az együttműködési megállapodást az intézményvezető írásban köti meg a szolgáltatást igénybe vevővel azzal, hogy a megállapodást az Szt. 122/A. §-a alá tartozó szolgáltatás esetében a szolgáltatást nyújtónak is alá kell írnia.
 
 (4) Az együttműködési megállapodás megkötését követő 15 napon belül kell elkészíteni az esetnapló A) részét és B) részének 1. és 2. pontját.
 
-(5)[^80] Az együttműködési megállapodás egy évre köthető, ezt követően annak indokoltságát felül kell vizsgálni, kivéve a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés esetén.
+(5)[^61] Az együttműködési megállapodás egy évre köthető, ezt követően annak indokoltságát felül kell vizsgálni, kivéve a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés esetén.
 
-[^77]: A 8. § (2) bekezdés c) pontját az 1/2017. (II. 14.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
-[^78]: A 8. § (2) bekezdés d) pontját az 1/2017. (II. 14.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
-[^79]: A 8. § (2) bekezdés e) pontját az 1/2017. (II. 14.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
-[^80]: A 8. § (5) bekezdését az 1/2017. (II. 14.) EMMI rendelet 4. §-a iktatta be.
+[^58]: A 8. § (2) bekezdés c) pontját az 1/2017. (II. 14.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
+[^59]: A 8. § (2) bekezdés d) pontját az 1/2017. (II. 14.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
+[^60]: A 8. § (2) bekezdés e) pontját az 1/2017. (II. 14.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
+[^61]: A 8. § (5) bekezdését az 1/2017. (II. 14.) EMMI rendelet 4. §-a iktatta be.

@@ -1,6 +1,4 @@
-## 5/D. §[^74] A Biztos Kezdet Gyerekházban a szolgáltatás nyújtása a miniszter által jóváhagyott módszertan alapján folyik. A miniszter a módszertant az általa vezetett minisztérium honlapján és a Szociális Ágazati Portálon közzéteszi, valamint gondoskodik annak folyamatos frissítéséről.
-
-## 2. CÍM[^75]
+## 2. CÍM[^56]
 
 ## CSALÁDSEGÍTÉS ÉS GYERMEKJÓLÉTI SZOLGÁLTATÁS
 
@@ -8,5 +6,4 @@
 
 (2) A családsegítés és gyermekjóléti szolgáltatás feladatait tájékoztatás nyújtásával, szociális segítőmunkával, valamint más személy, illetve szervezet által nyújtott szolgáltatások, ellátások közvetítésével látja el.
 
-[^74]: Az 5/D. §-t a 2/2018. (I. 18.) EMMI rendelet 6. §-a iktatta be.
-[^75]: A II. Fejezet 2. Címe (6–33. §) az 55/2015. (XI. 30.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^56]: A II. Fejezet 2. Címe (6–33. §) az 55/2015. (XI. 30.) EMMI rendelet 3. §-ával megállapított szöveg.

@@ -2,9 +2,9 @@
 
 ## Befogadás
 
-64. § (1)[^159] A gyermekek átmeneti otthona az otthonba történő befogadásról haladéktalanul értesíti a gyermek lakóhelye szerinti család- és gyermekjóléti szolgálatot, amennyiben az átmeneti gondozást hatósági intézkedés előzte meg, a család- és gyermekjóléti központot.
+64. § (1)[^140] A gyermekek átmeneti otthona az otthonba történő befogadásról haladéktalanul értesíti a gyermek lakóhelye szerinti család- és gyermekjóléti szolgálatot, amennyiben az átmeneti gondozást hatósági intézkedés előzte meg, a család- és gyermekjóléti központot.
 
-(2)[^160] A gyermekek átmeneti otthonában fizetendő térítési díjról a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló kormányrendelet rendelkezik.
+(2)[^141] A gyermekek átmeneti otthonában fizetendő térítési díjról a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló kormányrendelet rendelkezik.
 
-[^159]: A 64. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 11. § e) pontja szerint módosított szöveg.
-[^160]: A 64. § (2) bekezdése a 28/2010. (XII. 30.) NEFMI rendelet 25. § j) pontja szerint módosított szöveg.
+[^140]: A 64. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 11. § e) pontja szerint módosított szöveg.
+[^141]: A 64. § (2) bekezdése a 28/2010. (XII. 30.) NEFMI rendelet 25. § j) pontja szerint módosított szöveg.

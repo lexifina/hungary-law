@@ -1,9 +1,9 @@
-97. § (1)[^247] A nevelőszülői foglalkoztatási jogviszonyban álló személyt, mint nevelőszülői férőhelyet biztosítót – a működtető és a jelentkező személy közös kérelmére – a szakszolgálat nyilvántartásba veszi. A több megyére kiterjedően ellátást nyújtó működtető több szakszolgálattól is kérheti a nevelőszülő nyilvántartásba vételét.
+97. § (1)[^228] A nevelőszülői foglalkoztatási jogviszonyban álló személyt, mint nevelőszülői férőhelyet biztosítót – a működtető és a jelentkező személy közös kérelmére – a szakszolgálat nyilvántartásba veszi. A több megyére kiterjedően ellátást nyújtó működtető több szakszolgálattól is kérheti a nevelőszülő nyilvántartásba vételét.
 
-(2)[^248] A szakszolgálat olyan nevelőszülőnél történő elhelyezésre tehet a gyámhivatalnak javaslatot, akivel a nevelőszülői hálózatot működtető a Gyvt. 66/B. § (1) bekezdése szerinti keret-megállapodást kötött. A gyámhivatal elhelyezési döntését és a hatóság ideiglenes hatályú elhelyezési döntését követően a működtető haladéktalanul a Gyvt. 66/B. § (1) bekezdése szerinti kiegészítő megállapodást köt a nevelőszülővel.
+(2)[^229] A szakszolgálat olyan nevelőszülőnél történő elhelyezésre tehet a gyámhivatalnak javaslatot, akivel a nevelőszülői hálózatot működtető a Gyvt. 66/B. § (1) bekezdése szerinti keret-megállapodást kötött. A gyámhivatal elhelyezési döntését és a hatóság ideiglenes hatályú elhelyezési döntését követően a működtető haladéktalanul a Gyvt. 66/B. § (1) bekezdése szerinti kiegészítő megállapodást köt a nevelőszülővel.
 
-(3)[^249]
+(3)[^230]
 
-[^247]: A 97. § (1) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^248]: A 97. § (2) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^249]: A 97. § (3) bekezdését a 83/2013. (XII. 29.) EMMI rendelet 19. § b) pontja hatályon kívül helyezte.
+[^228]: A 97. § (1) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^229]: A 97. § (2) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^230]: A 97. § (3) bekezdését a 83/2013. (XII. 29.) EMMI rendelet 19. § b) pontja hatályon kívül helyezte.

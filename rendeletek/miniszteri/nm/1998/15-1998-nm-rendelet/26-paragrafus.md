@@ -1,4 +1,4 @@
-26. §[^91] (1) Az óvodai és iskolai szociális segítő szolgáltatás ellátásáról a család- és gyermekjóléti központ együttműködési megállapodást köt a köznevelési intézménnyel.
+26. §[^72] (1) Az óvodai és iskolai szociális segítő szolgáltatás ellátásáról a család- és gyermekjóléti központ együttműködési megállapodást köt a köznevelési intézménnyel.
 
 (2) Az (1) bekezdés szerinti együttműködési megállapodás tartalmazza
 
@@ -12,4 +12,4 @@ bb) a szolgáltatás nyújtásához szükséges külön helyiséget és az infra
 
 (3) Az óvodai és iskolai szociális segítő szolgáltatás nyújtása a miniszter által jóváhagyott módszertan alapján folyik. A miniszter a módszertant az általa vezetett minisztérium honlapján és a Szociális Ágazati Portálon közzéteszi, valamint gondoskodik annak folyamatos frissítéséről.
 
-[^91]: A 26. § a 2/2018. (I. 18.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^72]: A 26. § a 2/2018. (I. 18.) EMMI rendelet 10. §-ával megállapított szöveg.
