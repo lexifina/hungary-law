@@ -24,10 +24,15 @@ e) ha a tervezett vízhasználat, vízimunka, vízilétesítmény állami tulajd
 
 f) valamennyi vízhasználat, vízimunka, vízilétesítmény esetén – elvi vízjogi és fennmaradási engedélynél az erre irányuló kérelemnél, vízhasználat önálló engedélyezése esetén a vízjogi üzemeltetési engedély iránti kérelemnél, különben a vízjogi létesítési engedély iránti kérelemnél – a vízügyi igazgatóság vízügyi objektumazonosítási nyilatkozata meglétét.
 
-(5) A vízügyi igazgatóság a vízügyi objektumazonosítási nyilatkozatát az engedélyezési tervdokumentáció – elvi vízjogi engedélyezés esetén a műszaki megoldást tartalmazó dokumentáció – alapján, a megkeresés megérkezésétől számított tizenöt napon belül adja ki, amely tartalmazza
+(5)[^2] A vízügyi igazgatóság a nyilatkozatát az engedélyezési tervdokumentáció – elvi vízjogi engedélyezés esetén a műszaki megoldást tartalmazó dokumentáció –, valamint a vízügyi igazgatóság által közzétett módon történő megkeresés alapján, a megkeresés megérkezésétől számított húsz napon belül adja ki a kérelmezőnek. A vízügyi igazgatóság nyilatkozata tartalmazza
 
-a) a vízügyi objektumazonosítót, és a nyilatkozat kiállítását megalapozó dokumentáció számát és kiállítási dátumát,
+a) a vízügyi objektumazonosítót, a nyilatkozat kiállítását megalapozó dokumentáció számát és kiállítási dátumát,
 
-b) vízügyi igazgatósági vagyonkezelésben lévő ingatlan érintettsége esetén a vagyonkezelői hozzájárulást, vagy a hozzájárulás elutasítására vonatkozó nyilatkozatot és annak indokolását,
+b) vízügyi igazgatósági vagyonkezelésben lévő ingatlan érintettsége esetén a vagyonkezelői hozzájárulást, feltétellel történő hozzájárulást vagy a hozzájárulás elutasítását és annak indokolását,
 
-c) a (4) bekezdés e) pontja szerinti érintettség esetén a vagyonkezelői hozzájárulást, vagy – ha az igényelt vízkészlet mennyiségi korlát vagy vízvédelmi ok miatt nem vehető igénybe, vagy a tervezett megvalósítás a felszín alatti víztartó képződmények, a felszíni víz medrének, a vízilétesítményeknek fenntartását, üzemeltetését vagy a vízkárelhárítást veszélyezteti – a hozzájárulás elutasítására vonatkozó nyilatkozatot és annak indokolását, továbbá hozzájárulás esetén a víztest(ek) állapotára és az igénybe venni kívánt vízkészlet jellegére vonatkozó adatokat.
+c) a (4) bekezdés e) pontja szerinti érintettség esetén a vagyonkezelői hozzájárulást, vagy – ha az igényelt vízkészlet mennyiségi korlát vagy vízvédelmi ok miatt nem vehető igénybe, vagy a tervezett megvalósítás a felszín alatti víztartó képződmények, a felszíni víz medrének, a vízilétesítmények fenntartását, üzemeltetését vagy a vízkárelhárítást veszélyezteti – a hozzájárulás elutasítását és annak indokolását, továbbá hozzájárulás esetén a víztest(ek) állapotára és az igénybe venni kívánt vízkészlet jellegére vonatkozó adatokat.
+
+(6)[^3] A vízügyi igazgatóság nem ad vízügyi objektumazonosítót abban az esetben, ha a kérelem részét képező, az (5) bekezdés b) vagy c) pontjában meghatározott vagyonkezelői hozzájárulást elutasítja.
+
+[^2]: Az 1/B. § (5) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1/B. § (6) bekezdését a 288/2018. (XII. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.

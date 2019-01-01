@@ -1,3 +1,3 @@
-## A gázveszélyes vízkészletet igénybe vevő vízilétesítmény vízjogi létesítési, valamint üzemeltetési engedélyének kiadására irányuló eljárás[^69]
+## A gázveszélyes vízkészletet igénybe vevő vízilétesítmény vízjogi létesítési, valamint üzemeltetési engedélyének kiadására irányuló eljárás[^74]
 
-[^69]: Az 5/G. §-t megelőző alcímet az 518/2017. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^74]: Az 5/G. §-t megelőző alcímet az 518/2017. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
