@@ -78,7 +78,7 @@ postai szolgáltatások
 
 |
 
-kormányzati informatikai, elektronikus hálózatok
+kormányzati elektronikus információs rendszerek
 
 |
 
@@ -130,11 +130,7 @@ vízbázisok védelme
 
 |
 
-Jogrend – Kormányzat
-
 |
-
-kormányzati rendszerek, létesítmények, eszközök
 
 |
 
@@ -142,15 +138,11 @@ kormányzati rendszerek, létesítmények, eszközök
 
 |
 
-közigazgatási szolgáltatások
-
 |
 
 40
 
 |
-
-igazságszolgáltatás
 
 |
 

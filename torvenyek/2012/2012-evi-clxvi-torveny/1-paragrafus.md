@@ -18,14 +18,8 @@ g) nemzeti létfontosságú rendszerelem: e törvény alapján kijelölt olyan l
 
 h) üzemeltető: az a természetes, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely az eszköz, létesítmény, rendszer rendszerelemének tulajdonosa, engedélyese, rendelkezésre jogosultja vagy napi működéséért felelős,
 
-i) hálózati és információs rendszer:
+i)
 
-ia) az elektronikus hírközlő hálózat,
+j)
 
-ib) minden olyan eszköz vagy egymással összekapcsolt vagy kapcsolatban álló eszközök csoportja, amelyek közül egy vagy több valamely program alapján digitális adatok automatizált kezelését végzi, vagy
-
-ic) az ia) és ib) alpontban szereplő elemek által működésük, használatuk, védelmük és karbantartásuk céljából tárolt, kezelt, visszakeresett vagy továbbított digitális adatok,
-
-j) biztonsági esemény: minden olyan esemény, amely ténylegesen kedvezőtlen hatást gyakorol a hálózati és információs rendszerek biztonságára,
-
-k) biztonsági esemény kezelése: a biztonsági események észlelését, elemzését és elszigetelését, valamint a rájuk való reagálást támogató eljárások.
+k)

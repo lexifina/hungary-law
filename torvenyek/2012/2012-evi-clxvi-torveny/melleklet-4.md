@@ -552,11 +552,7 @@ vízbázisok védelme
 
 |
 
-Jogrend – Kormányzat
-
 |
-
-kormányzati rendszerek, létesítmények, eszközök
 
 |
 
@@ -570,8 +566,6 @@ kormányzati rendszerek, létesítmények, eszközök
 
 |
 
-közigazgatási szolgáltatások
-
 |
 
 |
@@ -583,8 +577,6 @@ közigazgatási szolgáltatások
 |
 
 |
-
-igazságszolgáltatás
 
 |
 

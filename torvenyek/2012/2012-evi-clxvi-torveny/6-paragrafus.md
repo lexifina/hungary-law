@@ -14,4 +14,6 @@
 
 (6a) Az üzemeltető a bekövetkezett rendkívüli eseményekről haladéktalanul tájékoztatja a hivatásos katasztrófavédelmi szerv területi szervének ügyeleti szolgálatát, valamint a jogszabályban kijelölt ágazati szervet. Ha a bekövetkezett rendkívüli eseménnyel összefüggő kockázatot az üzemeltetői biztonsági tervben nem vizsgálták, úgy az újonnan felmerülő kockázat kezelésére az üzemeltető a (6) bekezdésben foglaltak szerint soron kívül módosítja az üzemeltetői biztonsági tervet.
 
+(6b) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője az általa bejelentendő biztonsági eseményről annak bekövetkezését követően haladéktalanul tájékoztatja a kormányrendeletben kijelölt eseménykezelő központot.
+
 (7) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője gondoskodik a biztonsági összekötő személy foglalkoztatásáról, és folyamatosan biztosítja a tevékenységéhez szükséges feltételeket. A biztonsági összekötő személy feladata a kapcsolattartás az üzemeltető és a kijelölési eljárásban részt vevő hatóságok, szakhatóságok között. Biztonsági összekötőnek az a büntetlen előéletű személy jelölhető ki, aki kormányrendeletben meghatározott képzettséggel rendelkezik. A büntetlen előéletre vonatkozó követelmény teljesülését a biztonsági összekötő igazolja.

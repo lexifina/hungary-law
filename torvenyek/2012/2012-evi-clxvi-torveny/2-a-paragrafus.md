@@ -6,7 +6,7 @@
 
 a) az 1–3. melléklet alapján meghatározott alágazata a 4. melléklet alapján megfeleltethető a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i (EU) 2016/1148 európai parlamenti és tanácsi irányelv szerinti valamely ágazatnak vagy alágazatnak,
 
-b) az általa nyújtott szolgáltatás nyújtása hálózati és információs rendszerektől függ, és
+b) az általa nyújtott szolgáltatás nyújtása elektronikus információs rendszerektől függ, és
 
 c) az általa nyújtott szolgáltatást érintő biztonsági esemény jelentős zavart okozna az általa nyújtott szolgáltatás biztosításában.
 
