@@ -2,9 +2,9 @@
 
 ## A VILLAMOS ENERGIA RENDSZERHASZNÁLATI DÍJAK SZÁMLÁZÁSI FELTÉTELEI
 
-## 11. Az átviteli rendszerirányító által kibocsátott számlák
+## 11. [^8] Az átviteli rendszerirányító és az elosztók által kibocsátott számviteli bizonylatok
 
-21. §[^8] (1) Az átviteli rendszerirányító havonta egy számlát állít ki a díjfizetésre kötelezetteknek, de az átviteli hálózat díjfizetési szempontból eltérő feszültségszintjein egyszerre csatlakozó díjfizetésre kötelezettek esetében feszültségszintenként egy-egy számlát is kiállíthat.
+21. § (1) Az átviteli rendszerirányító az átviteli díjról havonta egy számlát állít ki a díjfizetésre kötelezetteknek, de az átviteli hálózat díjfizetési szempontból eltérő feszültségszintjein egyszerre csatlakozó díjfizetésre kötelezettek esetében feszültségszintenként egy-egy számlát is kiállíthat.
 
 (2) A számla tartalmazza:
 
@@ -14,4 +14,4 @@ b) az átviteli díjat,
 
 c) a kötelezettnek az a) és b) pont alapján a tárgyhóra számított fizetési kötelezettségét.
 
-[^8]: A 21. § a 6/2017. (VII. 13.) MEKH rendelet 4. §-ával megállapított szöveg.
+[^8]: A 11. alcím (21–22. §) a 12/2018. (XII. 15.) MEKH rendelet 2. §-ával megállapított szöveg.

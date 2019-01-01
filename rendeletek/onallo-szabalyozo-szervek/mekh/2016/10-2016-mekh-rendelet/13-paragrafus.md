@@ -1,5 +1,3 @@
-## szorzata alapján realizál, a VET 144. § (2) bekezdése szerinti, utólag adott árengedmény jogcímen a Hivatal elnöke által a VET 143. § (6) bekezdése alapján rendeletben megállapított arányok szerint köteles megosztani az elosztói engedélyesek között. A tárgyhavi átviteli díjjal szemben csak a tárgyhóra vonatkozó árengedmény érvényesíthető, és elosztói engedélyesenként az általános forgalmi adó nélkül számított utólagos tárgyhavi árengedmény összege nem érheti el a tárgyhavi árengedmény alapjául szolgáló tárgyhavi átviteli díj általános forgalmi adó és tárgyhavi árengedmény nélkül számított összegét.
-
 ## III. Fejezet
 
 ## AZ ÁTVITELI DÍJ ALKALMAZÁSÁNAK SZABÁLYAI
