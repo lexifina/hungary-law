@@ -224,6 +224,40 @@
 
 | Budakörnyéki Járásbíróság | 1 |
 
+| Budaörsi Járásbíróság | 1 |
+
+| Ceglédi Járásbíróság | 1 |
+
+| Dabasi Járásbíróság | 2 |
+
+| Dunakeszi Járásbíróság | 2 |
+
+| Érdi Járásbíróság | 1 |
+
+| Gödöllői Járásbíróság | 3 |
+
+| Monori Járásbíróság | 2 |
+
+| Nagykátai Járásbíróság | 1 |
+
+| Nagykőrösi Járásbíróság | 1 |
+
+| Ráckevei Járásbíróság | 1 |
+
+| Szentendrei Járásbíróság | 1 |
+
+| Szigetszentmiklósi Járásbíróság | 2 |
+
+| Váci Járásbíróság | 1 |
+
+| Összesen: | 20 |
+
+## XIV.
+
+## Budapest Környéki Törvényszék
+
+| Budakörnyéki Járásbíróság | 1 |
+
 | Budaörsi Járásbíróság | 2 |
 
 | Ceglédi Járásbíróság | 1 |
@@ -346,6 +380,6 @@
 
 | Összesen: | 9 |
 
-2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^148]
+2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^149]
 
-[^148]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatva. A 2. számú melléklet a 21/2016. (X. 11.) IM rendelet 16. §-ával megállapított szöveg.
+[^149]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatva. A 2. számú melléklet a 21/2016. (X. 11.) IM rendelet 16. §-ával megállapított szöveg.

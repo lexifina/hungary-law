@@ -30,7 +30,7 @@
 
 ## P. H.
 
-4. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^150]
+4. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^151]
 
 Bírósági Végrehajtási Szakvizsga Bizottság
 
@@ -64,4 +64,4 @@ a vizsgabizottság elnöke
 
 P. H.
 
-[^150]: Az eredeti 3. számú melléklet megjelölését 4. számú mellékletre változtatta a 2/2011. (II. 3.) KIM rendelet 8. §-a, szövege a 43/2015. (XII. 30.) IM rendelet 2. § (8) bekezdés b) pontjával megállapított szöveg.
+[^151]: Az eredeti 3. számú melléklet megjelölését 4. számú mellékletre változtatta a 2/2011. (II. 3.) KIM rendelet 8. §-a, szövege a 43/2015. (XII. 30.) IM rendelet 2. § (8) bekezdés b) pontjával megállapított szöveg.

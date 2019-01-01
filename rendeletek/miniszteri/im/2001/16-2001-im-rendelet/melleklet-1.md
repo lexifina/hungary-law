@@ -1,6 +1,6 @@
-## 78. §[^146] A miniszter a Szigetszentmiklósi Járásbíróság mellett létesített álláshelyek közül egyet – a Ráckevei Járásbíróság mellett létesített álláshely megszűnésével összefüggésben – a Ráckevei Járásbíróság mellé kinevezett végrehajtó áthelyezésével tölt be 2017. január 1. napjával.
+## 79. §[^147] A miniszter az Érdi Járásbíróság mellett létesített álláshelyet – a Budaörsi Járásbíróság mellett létesített álláshely megszűnésével összefüggésben – a Budaörsi Járásbíróság mellé kinevezett végrehajtó áthelyezésével tölt be 2019. január 1. napjával.
 
-1. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^147]
+1. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^148]
 
-[^146]: A 78. §-t a 21/2016. (X. 11.) IM rendelet 13. §-a iktatta be.
-[^147]: Az 1. számú melléklet a 4/2004. (II. 27.) IM rendelet 3. § (3) bekezdése, a 27/2004. (VIII. 26.) IM rendelet 3. § (7) bekezdése, a 6/2008. (III. 1.) IRM rendelet 2. § (7)–(9) bekezdése, a 28/2008. (XII. 10.) IRM rendelet 6. §-a, valamint 7. § (2) bekezdése, a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 34. pontja, az 57/2012. (XII. 28.) KIM rendelet 10. § (3) bekezdés e) pontja, az 5/2016. (III. 8.) IM rendelet 13. § (14) bekezdése, a 21/2016. (X. 11.) IM rendelet 14–15. §-a szerint módosított szöveg.
+[^147]: A 79. §-t a 31/2018. (XII. 19.) IM rendelet 1. §-a iktatta be.
+[^148]: Az 1. számú melléklet a 4/2004. (II. 27.) IM rendelet 3. § (3) bekezdése, a 27/2004. (VIII. 26.) IM rendelet 3. § (7) bekezdése, a 6/2008. (III. 1.) IRM rendelet 2. § (7)–(9) bekezdése, a 28/2008. (XII. 10.) IRM rendelet 6. §-a, valamint 7. § (2) bekezdése, a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 34. pontja, az 57/2012. (XII. 28.) KIM rendelet 10. § (3) bekezdés e) pontja, az 5/2016. (III. 8.) IM rendelet 13. § (14) bekezdése, a 21/2016. (X. 11.) IM rendelet 14–15. §-a, a 31/2018. (XII. 19.) IM rendelet 2. §-a szerint módosított szöveg.
