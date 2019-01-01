@@ -1,4 +1,4 @@
-163. § (1) A Közbeszerzési Döntőbizottság tízezer forinttól ötszázezer forintig terjedő eljárási bírsággal sújthatja a kérelmezőt vagy a jogorvoslati eljárás egyéb résztvevőjét, ha
+163. § (1) A Közbeszerzési Döntőbizottság esetenként tízezer forinttól, természetes személy esetén ötszázezer forintig, jogi személy vagy egyéb szervezet esetén egymillió forintig terjedő eljárási bírsággal sújthatja a kérelmezőt vagy a jogorvoslati eljárás egyéb résztvevőjét, ha
 
 a) hamis adatot közöl vagy az ügy elbírálása szempontjából lényeges adatot elhallgat;
 

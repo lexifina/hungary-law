@@ -1,6 +1,6 @@
 149. § (1) A kérelemben meg kell jelölni
 
-a) a kérelmező és képviselőjének nevét, székhelyét (lakóhelyét), a kérelmezői jogosultságot alátámasztó tényeket;
+a) a kérelmező és a 145. § (7) bekezdés szerinti képviselőjének nevét, székhelyét (lakóhelyét), a kérelmezői jogosultságot alátámasztó tényeket;
 
 b) a kérelemmel érintett közbeszerzési eljárás ajánlatkérőjének nevét, székhelyét, a közbeszerzés tárgyát és – részajánlattétel esetében – a jogorvoslattal érintett részt, vagy a közbeszerzési eljárás mellőzésével történő beszerzés esetében a beszerző nevét, székhelyét és a beszerzés tárgyát;
 

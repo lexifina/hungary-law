@@ -11,3 +11,5 @@ d) ha a hirdetmény nélküli tárgyalásos eljárás megkezdéséről a Közbes
 (2) Az (1) bekezdésben foglaltak mellett a Közbeszerzési Hatóság elnöke a Közbeszerzési Döntőbizottság hivatalból való eljárását kezdeményezheti különösen, ha az ajánlatkérő a Közbeszerzési Hatóság felhívása ellenére az előírt határidőben nem teszi közzé a 43. § (1) bekezdés a)–f) pontja szerinti adatokat, információkat, dokumentumokat a Közbeszerzési Adatbázisban.
 
 (3) Az (1)–(2) bekezdés szerinti kezdeményezésre a 152. § (2)–(8) bekezdését kell alkalmazni.
+
+(4) Az (1) bekezdés c) pontja szerint kezdeményezett jogorvoslati eljárás esetén a tudomásra jutás időpontja megegyezik a 187. § (2) bekezdés j) pontja szerint lefolytatott hatósági ellenőrzés befejezésének napjával.

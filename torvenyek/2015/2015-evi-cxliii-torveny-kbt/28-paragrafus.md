@@ -14,7 +14,7 @@ d) szakmai kamarák által ajánlott díjszabások,
 
 e) szakmai kamarák által előállított és karbantartott, megvalósítási értéken alapuló, részletes építési adatbázis,
 
-f) a Közbeszerzési Hatóság által kiadott árstatisztika,
+f)
 
 g) az ajánlatkérő korábbi, hasonló tárgyra irányuló szerződéseinek elemzése.
 

@@ -23,3 +23,5 @@
 (11) E törvénynek a Mód3. tv. által megállapított 5. § (3) bekezdésének rendelkezései a Mód3. tv. hatálybalépésekor fennálló támogatási jogviszonyok alapján még fel nem használt –, az egyházi jogi személyek esetében a támogató felé még el nem számolt – támogatás esetében is alkalmazhatók, kivéve, ha a támogatás felhasználása céljából olyan közbeszerzési eljárás van folyamatban, amelyben az ajánlatkérő az 53. §-ban foglaltaknak megfelelően már nem léphet vissza a közbeszerzéstől.
 
 (12) E törvénynek a Mód3. tv. 11. §-a által megállapított 40. § (2) bekezdését alkalmazni kell a Mód3. tv. hatályba lépése előtt az EKR-ben megindított eljárásokért – az elektronikus közbeszerzés részletes szabályairól szóló kormányrendelet alapján – fizetett rendszerhasználati díjakra is.
+
+(13) E törvénynek a Mód3. tv. által megállapított 177. § (3) bekezdésének rendelkezéseit a Mód3. tv. által megállapított 177. § (3) bekezdés hatálybalépését követő igényérvényesítésekre kell alkalmazni.

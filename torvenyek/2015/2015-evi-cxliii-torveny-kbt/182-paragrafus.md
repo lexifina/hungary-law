@@ -1,6 +1,6 @@
 ## A Hatóság keretében működő Tanács
 
-182. § (1) A Tanács tizenhárom tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
+182. § (1) A Tanács tizenöt tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
 
 (2) A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:
 
@@ -22,7 +22,13 @@ h) a munkáltatók országos érdekképviseletei és az országos gazdasági kam
 
 i) a Magyar Mérnöki Kamara elnöke és a Magyar Építész Kamara elnöke által közösen kijelölt személy;
 
-j) a felelős akkreditált közbeszerzési szaktanácsadók szakmai testülete által kijelölt személy.
+j) a felelős akkreditált közbeszerzési szaktanácsadók szakmai testülete által kijelölt személy;
+
+k) az innovációért felelős miniszter által kijelölt személy;
+
+l) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
+
+m) a Nemzeti Adó- és Vámhivatal elnöke vagy az általa kijelölt személy.
 
 (3) A Tanács elnöke a Hatóság elnöke. A Tanács alelnöke a Hatóság alelnöke.
 
@@ -40,8 +46,8 @@ a) országgyűlési képviselő vagy nemzetiségi szószóló;
 
 b) büntetett előéletű.
 
-(9) A tagok megbízatása legalább két évre szól.
+(9) A tagok megbízatása legfeljebb két évre szól.
 
 (10) A tagok kijelölésének és visszahívásának a (7)–(9) bekezdés esetén kívüli szabályait a kijelölő szervezetek állapítják meg úgy, hogy a Tanács működőképessége állandóan biztosítható legyen.
 
-(11) A tagok megbízatásukat személyesen kötelesek ellátni. A tagok tiszteletdíjra jogosultak, amelynek havi mértékét a Hatóság szervezeti és működési szabályzata rögzíti.
+(11) A tagok megbízatásukat személyesen kötelesek ellátni.

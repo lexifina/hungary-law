@@ -8,9 +8,9 @@ a) az alaptalan kérelmet elutasítja;
 
 b) a hivatalból indított vagy folytatott eljárásban megállapítja a jogsértés hiányát;
 
-c) megállapítja a jogsértés megtörténtét;
+c) megállapítja a jogsértés megtörténtét, és a 62. § (1) bekezdés q) pont szerinti kizáró ok alkalmazása érdekében a közbeszerzési eljárás vagy a koncessziós beszerzési eljárás eredményeként kötött szerződés e törvényben előírt rendelkezéseinek megsértése esetén dönt annak súlyosságáról;
 
-d) megállapítja a jogsértés megtörténtét és alkalmazza a (3) bekezdésben felsorolt jogkövetkezményeket;
+d) megállapítja a jogsértés megtörténtét, a 62. § (1) bekezdés q) pont szerinti kizáró ok alkalmazása érdekében a közbeszerzési eljárás vagy a koncessziós beszerzési eljárás eredményeként kötött szerződés e törvényben előírt rendelkezéseinek megsértése esetén dönt annak súlyosságáról és alkalmazza a (3) bekezdésben felsorolt jogkövetkezményeket;
 
 e) a (6) bekezdésben meghatározott esetekben a jogsértés megállapítása mellett bírságot szab ki;
 
@@ -62,8 +62,22 @@ b) az a közbeszerzési eljárásban megkísérelte jogtalanul befolyásolni az 
 
 (10) A (8) bekezdés alkalmazásában a Közbeszerzési Döntőbizottság az ajánlattevőt, alvállalkozót, illetve a közbeszerzési eljárásban részt vett más szervezetet vagy személyt nemcsak a jövőre nézve, hanem a vizsgált közbeszerzési eljárásban, továbbá egyéb folyamatban lévő közbeszerzési eljárás vonatkozásában is köteles eltiltani a közbeszerzési eljárásban való részvételtől, illetve a szerződés megkötésétől, ha az érintett eljárásokban az eljárás eredményének megküldésére még nem került sor. A (9) bekezdés szerinti esetben a Közbeszerzési Döntőbizottság az ajánlattevőt, alvállalkozót, illetve a közbeszerzési eljárásban részt vett más szervezetet vagy személyt kizárólag a vizsgált közbeszerzési eljárásban tilthatja el a közbeszerzési eljárásban való részvételtől, illetve a szerződés megkötésétől.
 
-(11) A Közbeszerzési Döntőbizottság annak eldöntésében, hogy indokolt-e a bírság kiszabása, valamint a bírság összegének, illetve az eltiltás időtartamának megállapításában az eset összes körülményét – így különösen a jogsértés súlyát, a közbeszerzés tárgyát és értékét, a jogsértésnek a közbeszerzési eljárást lezáró döntésre gyakorolt befolyását, az e törvénybe ütköző magatartás ismételt tanúsítását, a jogsértőnek az eljárást segítő együttműködő magatartását, a jogsértés megtörténte és a jogorvoslati eljárás megindítása között eltelt hosszú időtartamot, támogatásból megvalósult beszerzés esetén azt a körülményt, ha a jogsértéshez más szerv eljárásában a támogatás visszafizetésére vonatkozó szankció kapcsolódhat – figyelembe veszi. A bírság összegének és az eltiltás időtartamának megállapításakor figyelembe kell venni azt is, ha a jogsértés nyilvánvalóan szándékos volt.
+(11) A Közbeszerzési Döntőbizottság annak eldöntésében, hogy indokolt-e a bírság kiszabása, valamint a bírság összegének – továbbá a 62. § (1) bekezdés q) pont szerinti jogsértés megállapítása esetén az eltiltás időtartamának – megállapításában az eset összes körülményét, így különösen
 
-(12) Ha a Közbeszerzési Döntőbizottság megsemmisíti az ajánlatkérőnek az eljárást lezáró döntését, az ajánlatkérő köteles a határozat végrehajthatóságának időpontjától számított harminc napon belül új eljárást lezáró döntést hozni. Ha az eljárás előre láthatólag nem eredménytelen, döntése meghozatala előtt – határidő tűzésével – be kell szereznie valamennyi érvényes ajánlatot tevő nyilatkozatát arról, hogy ajánlatát fenntartja. Ha az ajánlattevő a megadott határidőben nem nyilatkozott, úgy kell tekinteni, hogy ajánlatát nem tartja fenn. Ha az ajánlatkérő az eljárásban való részvételt ajánlati biztosíték adásához kötötte, az ajánlatát fenntartó ajánlattevőnek igazolnia kell az ajánlati biztosíték fenntartását vagy újbóli rendelkezésre bocsátását az ajánlati kötöttségnek az ajánlatkérő által meghatározott új idejére.
+a) a jogsértés súlyát,
+
+b) a közbeszerzés tárgyát és értékét,
+
+c) a jogsértésnek a közbeszerzési eljárást lezáró döntésre gyakorolt befolyását,
+
+d) az e törvénybe ütköző magatartásnak az adott közbeszerzés vonatkozásában történt ismételt tanúsítását,
+
+e) a jogsértés megtörténte és a jogorvoslati eljárás megindítása között eltelt hosszú időtartamot,
+
+f) támogatásból megvalósult beszerzés esetén azt a körülményt, ha a jogsértéshez más szerv eljárásában a támogatás visszafizetésére vonatkozó szankció kapcsolódhat
+
+figyelembe veszi. A bírság összegének és az eltiltás időtartamának megállapításakor figyelembe kell venni azt is, ha a jogsértés nyilvánvalóan szándékos volt.
+
+(12) Ha a Közbeszerzési Döntőbizottság megsemmisíti az ajánlatkérőnek az eljárást lezáró döntését, az ajánlatkérő köteles a határozat véglegességének időpontjától számított harminc napon belül új eljárást lezáró döntést hozni. Ha az eljárás előre láthatólag nem eredménytelen, döntése meghozatala előtt – határidő tűzésével – be kell szereznie valamennyi érvényes ajánlatot tevő nyilatkozatát arról, hogy ajánlatát fenntartja. Ha az ajánlattevő a megadott határidőben nem nyilatkozott, úgy kell tekinteni, hogy ajánlatát nem tartja fenn. Ha az ajánlatkérő az eljárásban való részvételt ajánlati biztosíték adásához kötötte, az ajánlatát fenntartó ajánlattevőnek igazolnia kell az ajánlati biztosíték fenntartását vagy újbóli rendelkezésre bocsátását az ajánlati kötöttségnek az ajánlatkérő által meghatározott új idejére.
 
 (13) Ha a Közbeszerzési Döntőbizottság e § szerinti határozatában megállapítja a közbeszerzésre, illetve a közbeszerzési eljárásra vonatkozó jogszabályok megsértését, az ajánlatkérőként, illetve az ajánlattevőként szerződő fél – a Közbeszerzési Döntőbizottság határozatának kézbesítésétől számított harminc napon belül – elállhat az érintett közbeszerzési eljárás alapján megkötött szerződéstől, feltéve, hogy a jogsértés befolyásolta a közbeszerzési eljárást lezáró döntést.

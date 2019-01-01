@@ -13,3 +13,5 @@
 (3) A Hatóság költségvetését a központi költségvetésről szóló törvény Országgyűlés költségvetési fejezetén belül önálló címként kell megtervezni. A Hatóság előirányzatának terhére az Országgyűlés jóváhagyása nélkül év közben nem hajtható végre átcsoportosítás.
 
 (4) A Hatóság keretében Tanács (a továbbiakban: Tanács) és Közbeszerzési Döntőbizottság (a továbbiakban: Döntőbizottság) működik.
+
+(5) A Hatóságnál foglalkoztatottak jogviszonyára – az e törvényben foglalt eltérésekkel – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) rendelkezéseit kell alkalmazni.

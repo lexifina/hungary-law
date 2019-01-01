@@ -1,6 +1,6 @@
 151. § (1) A Közbeszerzési Döntőbizottság a jogorvoslati eljárást legkésőbb a 148. § (1)–(9) bekezdésének, a 149. § (1)–(2) bekezdésének, valamint a 150. § (1)–(2) bekezdésének megfelelő kérelem beérkezését követő munkanapon indítja meg.
 
-(2) A Közbeszerzési Döntőbizottság hiánypótlási felhívást bocsát ki, ha
+(2) A Közbeszerzési Döntőbizottság öt napos határidő tűzésével hiánypótlási felhívást bocsát ki, ha
 
 a) a kérelem a 149. § (1) bekezdése szerinti adatokat nem tartalmazza,
 
@@ -10,7 +10,7 @@ c) nem csatolták a meghatalmazott képviselő meghatalmazását, vagy
 
 d) a kérelmet és annak kötelező mellékleteit nem az Eüsztv.-ben meghatározott elektronikus úton nyújtották be.
 
-Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a Közbeszerzési Döntőbizottság a kérelmet elutasítja, kivéve, ha a (3) bekezdés alkalmazásának van helye.
+Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a Közbeszerzési Döntőbizottság a kérelmet visszautasítja, kivéve, ha a (3) bekezdés alkalmazásának van helye.
 
 (3) Ha a jogorvoslati eljárással érintett közbeszerzési eljárás irataiból a közbeszerzés becsült értéke a kérelmező számára nem ismerhető meg, ezen tényt jogorvoslati kérelmében köteles a Közbeszerzési Döntőbizottság tudomására hozni. Ez esetben a Közbeszerzési Döntőbizottság – a rendelkezésre álló adatok alapján – hiánypótlási felhívás keretében közli a kérelmezővel az igazgatási szolgáltatási díj alapjául szolgáló becsült érték összegét.
 
