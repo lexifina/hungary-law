@@ -22,7 +22,7 @@
 
 ## Nyilvántartási szám (adatváltozás esetén)
 
-3. melléklet a 47/2011. (XII. 15.) BM rendelethez[^40]
+3. melléklet a 47/2011. (XII. 15.) BM rendelethez[^43]
 
 ## Szakértői nyilvántartás tartalma
 
@@ -36,4 +36,4 @@
 
 5. a megbízás egyedi azonosítója.
 
-[^40]: A 3. mellékletet a 10/2017. (VI. 1.) BM rendelet 23. §-a iktatta be.
+[^43]: A 3. mellékletet a 10/2017. (VI. 1.) BM rendelet 23. §-a iktatta be.
