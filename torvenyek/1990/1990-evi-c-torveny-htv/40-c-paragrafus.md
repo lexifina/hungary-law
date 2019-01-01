@@ -14,19 +14,19 @@ e) az 52. § 40. pontja szerinti közvetített szolgáltatásnak megfelelő ügy
 
 f) az (1) bekezdés szerinti ügylettel összefüggő fedezeti ügylet esetén azzal az összeggel, amellyel az (1) bekezdés szerinti ügyletről kiállított bizonylaton (számlán) szereplő értéket az IFRS-ek szerint a bevétel (árbevételt) elszámolásakor csökkenteni kell,
 
-g) az IAS 17 Lízingek című standard szerinti pénzügyi lízingnek megfelelő szerződés esetén a lízingfutamidő kezdetének adóévében a lízingbe (visszlízingbe) adónál a lízingfutamidő kezdetekor megjelenített követelés kezdeti közvetlen költségeket nem tartalmazó értékével,
+g) az IFRS 16 Lízingek című standard szerinti pénzügyi lízingnek megfelelő szerződés esetén a lízingfutamidő kezdetének adóévében a lízingbe (visszlízingbe) adónál a lízingfutamidő kezdetekor megjelenített követelés kezdeti közvetlen költségeket nem tartalmazó értékével,
 
 h) a nem a szokásos tevékenység keretében keletkezett áruértékesítésből, szolgáltatásnyújtásból származó bevétellel,
 
-i) az általános forgalmi adóról szóló törvény szerinti üzletág átruházásakor az üzletág átruházásáért kapott, az átadott eszközök – az átadott kötelezettségek értékével csökkentett – piaci értékét meghaladó ellenértékkel,
+i)
 
-j) az IAS 17 Lízingek című standard szerinti operatív lízingnek megfelelő szerződés esetén a lízingbe (visszlízingbe) adónál az IAS 17 Lízingek című standard 50. bekezdése szerint árbevételként elszámolt összeggel,
+j) az IFRS 16 Lízingek című standard szerinti operatív lízingnek megfelelő szerződés esetén a lízingbe (visszlízingbe) adónál az IFRS 16 Lízingek című standard 81. bekezdése szerinti összeggel,
 
 k) az IFRS 15 Vevői szerződésekből származó bevétel című standard 70–71. bekezdése alapján az ügyleti ár csökkenéseként elszámolt, vevőnek fizetendő ellenérték összegével,
 
 l) az IFRS 4. Biztosítási szerződések című standard szerinti biztosítóként a biztosítási szerződésből kapott bevétellel,
 
-m) azzal a származékos leszállítási ügyletnek nem minősülő, a szokásos tevékenység keretében végzett áruértékesítésről, szolgáltatásnyújtásról vagy az a), e) és g)–l) pont szerinti ügyletről kiállított bizonylaton (számlán) feltüntetett – általános forgalmi adó nélküli – összeggel (vevőtől várt ellenszolgáltatással), amelyet a vállalkozó az adóévben vagy azt követően az IFRS-ek szerint bevételként (árbevételként) vagy az a)–l) pontok szerinti bevételnövelő tételként nem számolhat el,
+m) azzal a származékos leszállítási ügyletnek nem minősülő, a szokásos tevékenység keretében végzett áruértékesítésről, szolgáltatásnyújtásról vagy az a), e) és g)–l) pont szerinti ügyletről kiállított bizonylaton (számlán) feltüntetett – általános forgalmi adó nélküli – összeggel (vevőtől várt ellenszolgáltatással), amelyet a vállalkozó az IFRS-ek szerint bevételként (árbevételként) vagy az a)–l) pontok szerinti bevételnövelő tételként nem számolt vagy nem számolhat el,
 
 feltéve, ha azt a vállalkozó az (1) bekezdés szerinti bevételként nem vette figyelembe.
 

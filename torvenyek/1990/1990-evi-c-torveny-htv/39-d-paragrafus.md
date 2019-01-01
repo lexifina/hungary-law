@@ -1,13 +1,3 @@
 ## A foglalkoztatás növeléséhez kapcsolódó adóalap-mentesség
 
-39/D. § (1) Az állandó jellegű iparűzési tevékenység utáni adóalap csökkenthető az adóévi működés hónapjai alapján számított adóévi átlagos statisztikai állományi létszámnak az előző adóévi működés hónapjai alapján az előző adóévre számított átlagos statisztikai állományi létszámhoz képest bekövetkezett – főben kifejezett – növekménye után 1 millió forint/fő összeggel.
-
-(2) Nem vehető igénybe az adóalap-mentesség azon létszámbővítéshez, amely állami támogatás igénybevételével jött létre. E bekezdés alkalmazásában állami támogatás a Nemzeti Foglalkoztatási Alapból folyósított olyan támogatás, amelynek feltétele új munkahely létesítése.
-
-(3) Az átlagos statisztikai állományi létszámot a Központi Statisztikai Hivatal Útmutató a munkaügy-statisztikai adatszolgáltatáshoz c. kiadvány 2015. január 1-jén érvényes szabályai szerint kell – két tizedesjegy pontossággal – számítani. Az adóévi átlagos statisztikai állományi létszám számítása során figyelmen kívül kell hagyni azt, aki egyébként a statisztikai állományi létszámba tartozik, ám állományba kerülését közvetlenül megelőzően a vállalkozóval a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő vállalkozásnál tartozott az átlagos statisztikai állományi létszámba.
-
-(4) Az adóévben jogelőd nélkül alakult vállalkozó – magánszemély vállalkozónál vállalkozónak az adóévet megelőző két adóév egyikében sem minősülő vállalkozó – esetén az előző adóévi statisztikai állományi létszámnak nulla főt kell tekinteni. Az adóévben átalakulással, egyesüléssel, szétválással létrejött vállalkozó esetén az adóévet megelőző adóév statisztikai állományi létszámának a jogelőd vállalkozó statisztikai állományi létszámát kell tekinteni. Az adóévben szétválással (különválás, kiválás) létrejött vállalkozók esetén az adóévet megelőző adóév számított statisztikai állományi létszámának a jogelőd vállalkozó statisztikai állományi létszámának olyan arányával számított összegét kell tekinteni, amilyen arányt a szétválással létrejött vállalkozók végleges vagyonmérlegeiben külön-külön feltüntetett vagyonérték képvisel a szétválással létrejött vállalkozók végleges vagyonmérlegeiben szereplő együttes vagyonértékben. Az adóévben egyesüléssel (összeolvadás, beolvadás) létrejött vállalkozó esetén az adóévet megelőző év statisztikai állományi létszámának az egyesülés előtt meglévő jogelőd vállalkozók együttes statisztikai állományi létszámát kell tekinteni.
-
-(5) Az adóalap-mentesség az adóévet követően az adóévről szóló bevallásban vehető igénybe.
-
-(6) Ha az adóévben a vállalkozó átlagos statisztikai állományi létszáma az előző adóév átlagos statisztikai állományi létszámához képest 5%-ot meghaladó mértékben csökken, akkor az adóévet megelőző adóévre igénybe vett adóalap-mentesség összegével a Htv. 39. §-ának (1) bekezdése szerinti adóalapot meg kell növelni.
+### 39/D. §

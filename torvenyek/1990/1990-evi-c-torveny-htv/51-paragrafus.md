@@ -1,3 +1,3 @@
 51. § (1) Ha az önkormányzat a helyi adót bevezeti, az adóalany köteles a bevezetett adó megállapításához szükséges valamennyi – az önkormányzat felhívásában megjelölt – adatot szolgáltatni az adott év január 1-jei állapotának, illetve évközi bevezetés esetén a rendelet hatálybalépése napjának megfelelően.
 
-(2) Az önkormányzati adóhatóság hatáskörébe tartozó adók, adók módjára behajtandó köztartozások (e rendelkezés alkalmazásában együtt: adó) nyilvántartása során – az adó megállapításához szükséges adatokon túlmenően – csak az adózás rendjéről szóló törvényben meghatározott adóazonosító jelet és a természetes személyazonosító adatokat tartja nyilván.
+(2)

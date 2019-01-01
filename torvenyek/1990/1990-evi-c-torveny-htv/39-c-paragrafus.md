@@ -1,11 +1,9 @@
 ## Az önkormányzat által nyújtható adómentesség, adókedvezmény
 
-39/C. § (1) Az önkormányzat rendeletében a (2)–(3) bekezdésben foglaltak alapján jogosult adómentességet, adókedvezményt megállapítani a vállalkozó számára.
+39/C. § (1) Az önkormányzat rendeletében a (2)–(4) bekezdésben foglaltak alapján jogosult adómentességet, adókedvezményt megállapítani a vállalkozó számára.
 
-(2) Az adómentesség, adókedvezmény csak azt a vállalkozót illetheti meg, akinek/amelynek a 39. § (1) bekezdés, illetőleg a 39/A. § vagy 39/B. § alapján számított (vállalkozási szintű) adóalapja nem haladja meg a 2,5 millió Ft-ot. Az önkormányzat az adómentességre, adókedvezményre való jogosultság szempontjából 2,5 millió Ft-nál alacsonyabb adóalap-összeget is meghatározhat.
+(2) Az önkormányzat rendeletében adómentességet, adókedvezményt állapíthat meg annak a vállalkozónak, akinek/amelynek a 39. § (1) bekezdés, illetőleg a 39/A. § vagy 39/B. § alapján számított (vállalkozási szintű) adóalapja nem haladja meg a 2,5 millió Ft-ot. Az önkormányzat az adómentességre, adókedvezményre való jogosultság szempontjából 2,5 millió Ft-nál alacsonyabb adóalapösszeget is meghatározhat. Az adómentesség, adókedvezmény terjedelmének, mértékének valamennyi mentességre jogosult vállalkozó számára azonosnak kell lennie.
 
-(3) Az adómentesség, adókedvezmény terjedelmének, mértékének valamennyi – a (2) bekezdésben foglaltaknak megfelelő – vállalkozó számára azonosnak kell lennie.
+(3) Az önkormányzat rendeletében jogosult a háziorvos, védőnő vállalkozó számára adómentességet, adókedvezményt megállapítani, feltéve, ha annak vállalkozási szintű iparűzési adóalapja az adóévben a 20 millió forintot nem haladja meg. Az adómentességnek, adókedvezménynek valamennyi háziorvos, védőnő vállalkozó számára azonosnak kell lennie.
 
-(4) Az (1)–(3) bekezdésben foglaltaktól eltérően az önkormányzat rendeletében jogosult a háziorvos, védőnő vállalkozó számára mentességet, kedvezményt megállapítani, feltéve, ha annak vállalkozási szintű iparűzési adóalapja az adóévben a 20 millió forintot nem haladja meg. Az adómentességnek, adókedvezménynek valamennyi háziorvos, védőnő vállalkozó számára azonosnak kell lennie.
-
-(5)
+(4) Az önkormányzat jogosult arra, hogy rendeletében adómentességet vagy adókedvezményt állapítson meg a vállalkozó azon beruházásának értéke vagy annak egy része után, melyet a vállalkozó az adóévben helyezett üzembe. Az önkormányzat – ha az adómentességként vagy adókedvezményként igénybe vehető beruházás értéke meghaladja az adóévben a településre megállapított adóalap vagy adó összegét – rendeletében meghatározhatja azt is, hogy a vállalkozó a beruházás értéke adómentességként vagy adókedvezményként igénybe nem vett része után az adóévet követő adóévben, adóévekben vehesse igénybe az adómentességet, adókedvezményt. Az önkormányzat az adómentesség mértékét a településre kimutatott adóalap, az adókedvezmény mértékét a településre kimutatott adó%-ában korlátozhatja. Az adómentesség, adókedvezmény terjedelmének, mértékének valamennyi vállalkozó számára azonosnak kell lennie.

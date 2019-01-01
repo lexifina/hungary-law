@@ -8,7 +8,7 @@ b) az önkormányzat által megállapított adóalap, adómérték, adókedvezm�
 
 c) a b) pontban említett rendelkezések hatályba lépésének napjáról,
 
-d) az önkormányzat honlapjának címéről, valamint legalább egy adóügyi információs telefonszámról, elektronikus levélcímről, és az önkormányzati adóhatóság levelezési címéről (a továbbiakban: elérhetőségi információk),
+d) az önkormányzat honlapjának címéről, valamint legalább egy adóügyi információs telefonszámról, elektronikus levélcímről, hivatali kapu azonosítóról,, és az önkormányzati adóhatóság levelezési címéről (a továbbiakban: elérhetőségi információk),
 
 e) a helyi adónem, a települési adónem pénzforgalmi jelzőszámáról,
 

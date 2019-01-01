@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-100-00-00
 | 2017-11-01 | 2017. évi LXXVII. törvény | 1990-100-00-00.64 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 1990-100-00-00.65 |
 | 2018-07-26 | 2018. évi XLI. törvény | 1990-100-00-00.66 |
+| 2019-01-01 | 2018. évi XLI. törvény | 1990-100-00-00.67 |

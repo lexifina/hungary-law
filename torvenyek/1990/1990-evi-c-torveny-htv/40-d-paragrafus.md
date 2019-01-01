@@ -8,9 +8,9 @@ b) a nyújtott szolgáltatások után az IFRS 15 Vevői szerződésekből szárm
 
 c) az IAS 32 Pénzügyi instrumentumok: bemutatás című standard 11. bekezdése szerinti pénzügyi instrumentum üzleti évben való eladása esetén, az elért nyereséggel, nyereségjellegű különbözettel,
 
-d) az IAS 17 Lízingek című standard szerinti pénzügyi lízingnek megfelelő szerződés esetén a lízingfutamidő kezdetének adóévében a lízingbe (visszlízingbe) adónál a lízingfutamidő kezdetekor megjelenített követelés kezdeti közvetlen költségeket nem tartalmazó értékével,
+d) az IFRS 16 Lízingek című standard szerinti pénzügyi lízingnek megfelelő szerződés esetén a lízingfutamidő kezdetének adóévében a lízingbe (visszlízingbe) adónál a lízingfutamidő kezdetekor megjelenített követelés kezdeti közvetlen költségeket nem tartalmazó értékével,
 
-e) az IAS 17 Lízingek című standard szerinti operatív lízingnek megfelelő szerződés esetén a lízingbe (visszlízingbe) adónál az (1) bekezdésben foglaltak alapján figyelembe nem vett, az IAS 17 Lízingek című standard 50. bekezdése szerint árbevételként elszámolt összeggel,
+e) az IFRS 16 Lízingek című standard szerinti operatív lízingnek megfelelő szerződés esetén a lízingbe (visszlízingbe) adónál az (1) bekezdésben foglaltak alapján figyelembe nem vett, az IFRS 16 Lízingek című standard 81. bekezdése szerinti összeggel,
 
 f) a nem a szokásos tevékenység keretében keletkezett áruértékesítésből, szolgáltatásnyújtásból származó bevétellel
 
@@ -20,6 +20,6 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 
 a) az üzleti évben ráfordításként elszámolt (fizetett, járó) kamattal,
 
-b) az IAS 17 Lízingek című standard alapján pénzügyi lízingnek minősülő szerződés alapján a lízingbeadónál kereskedelmi áruként nyilvántartásba nem vett eszköz IAS 2 Készletek című standard alapján megállapított, a pénzügyi lízingbe adáskor meglévő könyv szerinti értékével,
+b) az IFRS 16 Lízingek című standard alapján pénzügyi lízingnek minősülő szerződés alapján a lízingbeadónál kereskedelmi áruként nyilvántartásba nem vett eszköz IAS 2 Készletek című standard alapján megállapított, a pénzügyi lízingbe adáskor meglévő könyv szerinti értékével,
 
 c) a saját követelés értékesítéséből keletkezett, az üzleti évben elszámolt nyereség összegével.

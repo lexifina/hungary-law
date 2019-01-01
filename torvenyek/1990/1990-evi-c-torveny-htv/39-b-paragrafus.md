@@ -14,15 +14,11 @@ fizeti meg.
 
 (5) A (3) bekezdés szerinti adóalap-megállapítást választó kisadózó vállalkozást e minőségére tekintettel – a 41. §-ban és az adózás rendjéről szóló törvényben foglaltaktól eltérően, a (6)–(7) bekezdésekben foglaltak kivételével – adóelőleg-bejelentési, -bevallási, és -fizetési kötelezettség, valamint adóbevallás-benyújtási kötelezettség, továbbá a 39. § (2) bekezdése szerinti adóalap-megosztási kötelezettség nem terheli.
 
-(6) A (3) bekezdés szerinti adóalap-megállapítást alkalmazó kisadózó vállalkozás adóbevallást nyújt be,
+(6) A (3) bekezdés szerinti adóalap-megállapítást alkalmazó kisadózó vállalkozás a naptári év egészére (mint adóévre) egy adóbevallást nyújt be az adóévet követő év január 15-ig, ha
 
-a)
+a) az adóévre fizetendő adó az adóévre ténylegesen megfizetett adóösszegnél azért kevesebb, mert a kisadózó vállalkozások tételes adójában az adófizetési kötelezettség – egy vagy több alkalommal – szünetelt,
 
-b) az adóévet követő év január 15-ig, ha
-
-ba) a (3) bekezdés szerint az adóévre fizetendő adó a (4) bekezdés alapján az adóévre ténylegesen megfizetett adóösszegnél azért kevesebb, mert a kisadózó vállalkozások tételes adójában az adófizetési kötelezettség szünetelésének volt helye,
-
-bb) az önkormányzat rendelete alapján az adóévben adóalap-mentességre, adókedvezményre, a 39/D. § alapján az adóalap vagy a 40/A. § alapján az adó csökkentésére jogosult és az adót csökkenteni kívánja.
+b) az önkormányzat rendelete alapján az adóévben adóalap-mentességre, adókedvezményre, a 40/A. § alapján az adó csökkentésére jogosult és a fizetendő adót csökkenteni kívánja.
 
 (7)
 

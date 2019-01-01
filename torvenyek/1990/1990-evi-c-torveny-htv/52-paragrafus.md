@@ -100,15 +100,15 @@ i) sportvállalkozásnál: az a) alpont szerinti nettó árbevétel, csökkentve
 
 25. alapkutatás, alkalmazott kutatás, kísérleti fejlesztés közvetlen költsége: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (1) bekezdés t) pontja szerint az adózás előtti eredményt csökkentő összeg, azzal, hogy a helyi iparűzési adóalap megállapítása során a felmerült költséget csak egyszer lehet figyelembe venni;
 
-26. vállalkozó: a gazdasági tevékenységet saját nevében és kockázatára haszonszerzés céljából, üzletszerűen végző
+26. vállalkozó: a Polgári Törvénykönyvről szóló törvény szerinti bizalmi vagyonkezelési szerződés alapján kezelt vagyon, valamint a gazdasági tevékenységet saját nevében és kockázatára haszonszerzés céljából, üzletszerűen végző
 
 a) a személyi jövedelemadóról szóló törvényben meghatározott egyéni vállalkozó,
 
 b) a személyi jövedelemadóról szóló törvényben meghatározott mezőgazdasági őstermelő, feltéve, hogy őstermelői tevékenységéből származó bevétele az adóévben a 600 000 forintot meghaladja,
 
-c) a jogi személy, ideértve azt is, ha az felszámolás vagy végelszámolás alatt áll,
+c) jogi személy, ideértve azt is, ha az felszámolás, kényszertörlés vagy végelszámolás alatt áll,
 
-d) egyéni cég, egyéb szervezet, ideértve azt is, ha azok felszámolás vagy végelszámolás alatt állnak;
+d) egyéni cég, egyéb szervezet, ideértve azt is, ha azok felszámolás, kényszertörlés vagy végelszámolás alatt állnak;
 
 27. önkormányzat költségvetése javára megállapított adó: mindazon adók, illetékek, adójellegű kötelezettségek, amelyeknek az önkormányzat költségvetése javára való teljesítését jogszabály írja elő.
 
@@ -136,11 +136,11 @@ d) a bizalmi vagyonkezelésbe adott vagyon esetén a kezelt vagyonba tartozó ha
 
 32. alvállalkozói teljesítések értéke: az adóalany által továbbadott (számlázott) olyan alvállalkozói teljesítés értéke, amelynek végzése során az adóalany mind megrendelőjével, mind alvállalkozójával a Polgári Törvénykönyv (Ptk.) szerinti – írásban kötött – vállalkozási szerződéses kapcsolatban áll. Ide értendő annak a – közvetített szolgáltatásnak nem minősülő – szolgáltatásnak az ellenértéke is, amelyet az adóalany az általa értékesített új (a használatbavételi engedély jogerőre emelkedését vagy véglegessé válását megelőzően vagy azt követően első ízben értékesített) lakás előállításához a Ptk. szerinti, írásban megkötött vállalkozási szerződés alapján vesz igénybe. Az e pont szerinti értékkel az adóalany akkor csökkentheti a nettó árbevételét, ha azzal a 22. pont a) alpontja szerint jogdíjként, a 36. pont szerint eladott áruk beszerzési értékeként, a 37. pont szerint anyagköltségként vagy a 40. pont szerint közvetített szolgáltatások értékeként nettó árbevételét nem csökkentette;
 
-33. szociális intézmény: a szociális ellátásokról szóló törvényben meghatározott személyes szociális gondoskodást nyújtó szervezet, vállalkozás,
+33. szociális intézmény: a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott nappali, illetve bentlakásos ellátást vagy támogatott lakhatást biztosító szervezet;
 
 34. beszerző, értékesítő szövetkezet: az a szövetkezet, amelynek nettó árbevétele legalább 95%-ban tagjai részére történő értékesítésből vagy tagjai termékeinek értékesítéséből származik;
 
-35. közszolgáltató szervezet: a Magyar Posta Zrt., a Magyar Rádió Zrt., a Magyar Televízió Zrt., a Duna Televízió Zrt., a Magyar Távirati Iroda Zrt., a Diákhitel Központ Zrt., a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság. Közszolgáltató szervezet továbbá a vasúti pályahálózatot üzemeltető feltéve, ha nettó árbevétele legalább 55%-ban a vasúti pályahálózat működtetéséből származik, valamint a helyi- és helyközi menetrendszerinti tömegközlekedési szolgáltatást nyújtó feltéve, ha nettó árbevétele legalább 55%-ban a tömegközlekedési szolgáltatás nyújtásából származik;
+35. közszolgáltató szervezet: a Magyar Posta Zrt., a Duna Médiaszolgáltató Nonprofit Zrt., a Diákhitel Központ Zrt., a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság. Közszolgáltató szervezet továbbá a vasúti pályahálózatot üzemeltető feltéve, ha nettó árbevétele legalább 55%-ban a vasúti pályahálózat működtetéséből származik, valamint a helyi- és helyközi menetrendszerinti tömegközlekedési szolgáltatást nyújtó feltéve, ha nettó árbevétele legalább 55%-ban a tömegközlekedési szolgáltatás nyújtásából származik;
 
 36. eladott áruk beszerzési értéke: a kettős könyvvitelt vezető vállalkozások esetében a vásárolt és változatlan formában eladott anyagoknak, áruknak – a számvitelről szóló törvény szerint az eladott áruk beszerzési értékeként elszámolt – bekerülési (beszerzési) értéke. Az egyszeres könyvvitelt, valamint – a személyi jövedelemadóról szóló törvény hatálya alá tartozó – pénzforgalmi nyilvántartást vezető vállalkozók esetében a tárgyévi árubeszerzésre fordított kiadás, csökkentve a kifizetett árukészlet leltár szerinti záró értékével, növelve a kifizetett árukészlet leltár szerinti nyitó értékével. Csökkenti az eladott áruk beszerzési értékét az az érték, amellyel az adóalany a 37. pont szerint anyagköltségként, a 32. pont szerint alvállalkozói teljesítés értékeként, a 40. pont szerint közvetített szolgáltatások értékeként nettó árbevételét csökkentette,
 
@@ -182,9 +182,31 @@ származó ellenérték (bevétel);
 
 52. sportvállalkozás: főtevékenységként sporttevékenységet [TEÁOR '08 93.1] végző, a sportról szóló törvény szerinti azon sportvállalkozás, amely az adóévben indult mindazon sportág sportszövetsége által kiírt, szervezett, rendezett vagy engedélyezett versenyrendszerben, amely sportágban versenyző játékjogának használati jogával rendelkezik;
 
-53.
+53. közszolgálati kötelezettség:
 
-54.
+a) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény szerinti közalkalmazotti jogviszony,
+
+b) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény szerinti szolgálati jogviszony,
+
+c) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerinti állami vezetői jogviszony,
+
+d) az Állami Számvevőszékről szóló 2011. évi LXVI. törvény szerinti szolgálati jogviszony,
+
+e) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény szerinti ügyész szolgálati jogviszony,
+
+f) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény szerinti jogviszony,
+
+g) a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti szolgálati jogviszony,
+
+h) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti szolgálati viszony,
+
+i) az állami tisztviselőkről szóló 2016. évi LII. törvény szerinti állami szolgálati jogviszony,
+
+j) a külön jogszabály által mentelmi jogot biztosító jogállás
+
+keretében végzett kötelezettség;
+
+54. beruházás: az adómentességet, adókedvezményt rendeletében biztosító önkormányzat illetékességi területén üzembe helyezett, a számvitelről szóló törvény szerinti olyan beruházás, amelyet a vállalkozó vesz első ízben használatba;
 
 55–59.
 
