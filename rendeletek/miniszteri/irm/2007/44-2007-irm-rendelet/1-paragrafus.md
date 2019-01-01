@@ -18,6 +18,25 @@ f) a bv. szerv parancsnoka, igazgatója, főigazgató főorvosa, ügyvezető iga
 
 g) a fogvatartott nem védőként eljáró jogi képviselője, törvényes képviselője, illetve meghatalmazás alapján eljáró egyéb képviselője (a továbbiakban: fogvatartott képviselője).
 
+(2a)[^2] A (2) bekezdésben foglaltaktól eltérően a Büntetés-végrehajtási Szervezet Oktatási, Továbbképzési és Rehabilitációs Központja területére beléphet
+
+a) a bv. szervezet személyi állományának tagja,
+
+b) a hivatalos vagy szolgálati ügyben eljáró személy,
+
+c) a bűnmegelőzési célú látogatás keretén belül az oktatási intézmények oktatója, valamint 14. életévét betöltött tanulója, hallgatója,
+
+d) az igazgató által engedélyezett személy,
+
+e) a bv. szervezet személyi állományának oktatásában részt vevő társszervek személyi állományának tagjai, egyéb oktatók,
+
+f) a központilag szervezett sportversenyek és szakmai versenyek résztvevői, meghívott vendégei,
+
+g) a továbbképzésen, szakmai értekezleten, konferencián részt vevő személy,
+
+h) az üdülő szálláshely-szolgáltatást igénybevevő személy.
+
 (3) A bv. szerv területére belépő személyt a belépés szabályairól, illetve a bv. szerv rendjére és biztonságára vonatkozó előírásokról tájékoztatni kell.
 
 [^1]: Az 1. § (2) bekezdés e) pontja a 34/2013. (VI. 30.) BM rendelet 28. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2a) bekezdését a 37/2018. (XII. 28.) BM rendelet 7. §-a iktatta be.

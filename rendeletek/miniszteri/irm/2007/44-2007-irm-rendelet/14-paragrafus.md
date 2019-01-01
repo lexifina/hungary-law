@@ -1,3 +1,3 @@
-14–15. §[^9]
+14–15. §[^14]
 
-[^9]: A 14–15. §-a e rendelet 13. § (3) bekezdése alapján hatályát vesztette.
+[^14]: A 14–15. §-a e rendelet 13. § (3) bekezdése alapján hatályát vesztette.
