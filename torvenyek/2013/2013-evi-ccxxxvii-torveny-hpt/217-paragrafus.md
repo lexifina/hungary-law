@@ -8,7 +8,7 @@ b)
 
 c) a felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzése közzétételének
 
-időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártalanítás kezdő időpontja] megkezdi és húsz munkanapon belül a betétesek rendelkezésére bocsátja a kártalanítást.
+időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártalanítás kezdő időpontja] megkezdi és tizenöt munkanapon belül a betétesek rendelkezésére bocsátja a kártalanítást.
 
 (1a) A kártalanítás (1) bekezdésben meghatározott kifizetéséhez a betétesnek nem kell kérelmet benyújtania.
 
