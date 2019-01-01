@@ -1,0 +1,3 @@
+## 3. § A Korm. rendelet 33. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A sportrendezvény rendezési jogára vonatkozó pályázat benyújtási határidejét megelőzően legalább negyvenöt nappal a 4. melléklet 4. sorában meghatározott szervezet – a 33/A. § (1) bekezdésében meghatározott esetet kivéve – a sportesemény megrendezésének szándékát és az előirányzat terhére nyújtandó költségvetési támogatás iránti kérelmét tartalmazó regisztrációs kérelmet nyújt be a miniszter részére. A regisztrációs kérelmet az 5. melléklet szerinti – a minisztérium honlapján is közzétett – formanyomtatvány alkalmazásával kell postai és elektronikus úton megküldeni.”
