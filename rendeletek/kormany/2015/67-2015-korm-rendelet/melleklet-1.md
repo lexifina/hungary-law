@@ -1,66 +1,66 @@
 ## 3. §[^1] 2017. április 1-jével állami foglalkoztatási szervi feladatkörében a Pest Megyei Kormányhivatal Szigetszentmiklósi Járási Hivatala jogosult eljárni az állami foglalkoztatási szervi feladatkörében eljáró, Pest Megyei Kormányhivatal Ráckevei Járási Hivatala előtt már folyamatban lévő hatósági eljárásokban, ha az eljárásban szereplő ügyfél lakóhelye, tartózkodási helye, vagy ennek hiányában értesítési címe, illetve székhelye, telephelye vagy fióktelepe a Szigetszentmiklósi Járás illetékességi területén van.
 
-1. melléklet a 67/2015. (III. 30.) Korm. rendelethez
+1. melléklet a 67/2015. (III. 30.) Korm. rendelethez[^2]
 
 1. Budapest Főváros Kormányhivatala
 
 1.1. III. Kerületi Hivatala
 
-1.1.1. Székhelye: 1039 Budapest III. Heltai Jenő tér 7.
+1.1.1. Székhelye: Budapest III.
 
 1.1.2. Illetékesség: I., II., III. kerület
 
 1.2. IV. Kerületi Hivatala
 
-1.2.1. Székhelye: 1043 Budapest IV. Kassai utca 24/b.
+1.2.1. Székhelye: Budapest IV.
 
 1.2.2. Illetékesség: IV., XIV., XV. kerület
 
 1.3. VIII. Kerületi Hivatala
 
-1.3.1. Székhelye: 1082 Budapest VIII. Kisfaludy u. 11.
+1.3.1. Székhelye: Budapest VIII.
 
 1.3.2. Illetékesség: V., VII., VIII. kerület
 
 1.4. IX. Kerületi Hivatala
 
-1.4.1. Székhelye: 1092 Budapest IX. Ráday u. 42–44.
+1.4.1. Székhelye: Budapest IX.
 
 1.4.2. Illetékesség: IX., XI., XII., XXII. kerület
 
 1.5. IX. Kerületi Hivatala
 
-1.5.1. Székhelye: 1096 Budapest IX. Haller u. 6.
+1.5.1. Székhelye: Budapest IX.
 
 1.5.2. Illetékesség: Fővárosi hajléktalan álláskeresők ügyeinek intézése
 
-1.6. XIII. Kerületi Hivatala
+1.6. X. Kerületi Hivatala
 
-1.6.1. Székhelye: 1137 Budapest XIII. Katona József u. 25.
+1.6.1. Székhelye: Budapest X.
 
-1.6.2. Illetékesség: VI., XIII. kerület
+1.6.2. Illetékesség: X., XVI., XVII. kerület
 
-1.7. XVI. Kerületi Hivatala
+1.7. XIII. Kerületi Hivatala
 
-1.7.1. Székhelye: 1163 Budapest XVI. Vívó u. 2.
+1.7.1. Székhelye: Budapest XIII.
 
-1.7.2. Illetékesség: X., XVI., XVII. kerület
+1.7.2. Illetékesség: VI., XIII. kerület, Margitsziget
 
 1.8. XVIII. Kerületi Hivatala
 
-1.8.1. Székhelye: 1181 Budapest XVIII. Darus u. 5.
+1.8.1. Székhelye: Budapest XVIII.
 
 1.8.2. Illetékesség: XVIII., XIX. kerület
 
 1.9. XX. Kerületi Hivatala
 
-1.9.1. Székhelye: 1203 Budapest XX. János utca 6.
+1.9.1. Székhelye: Budapest XX.
 
 1.9.2. Illetékesség: XX., XXIII. kerület
 
 1.10. XXI. Kerületi Hivatala
 
-1.10.1. Székhelye: 1211 Budapest XXI. Mansfeld Péter u. 1.
+1.10.1. Székhelye: Budapest XXI.
 
 1.10.2. Illetékesség: XXI. kerület
 
@@ -710,7 +710,7 @@ Vásárosbéc
 
 Zádor
 
-3.[^2] Bács-Kiskun megye
+3.[^3] Bács-Kiskun megye
 
 3.1. Bajai Járási Hivatal
 
@@ -4078,7 +4078,7 @@ Szécsényfelfalu
 
 Varsány
 
-14.[^3] Pest megye
+14.[^4] Pest megye
 
 14.1. Budakeszi Járási Hivatal,
 
@@ -5834,7 +5834,7 @@ Udvari
 
 Varsád
 
-18.[^4] Vas megye
+18.[^5] Vas megye
 
 18.1. Celldömölki Járási Hivatal
 
@@ -7353,6 +7353,7 @@ Zalaszentmihály
 Zalatárnok
 
 [^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 52/2017. (III. 20.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^2]: Az 1. melléklet 3. pontja a 193/2015. (VII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^3]: Az 1. melléklet 14. pontja az 52/2017. (III. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 1. melléklet 18. pontja a 473/2016. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet a 273/2018. (XII. 20.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet 3. pontja a 193/2015. (VII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet 14. pontja az 52/2017. (III. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. melléklet 18. pontja a 473/2016. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.

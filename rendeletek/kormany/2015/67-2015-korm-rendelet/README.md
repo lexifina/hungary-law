@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-67-20-2
 | 2015-07-22 | 2015-67-20-22.3 | 193/2015. (VII. 21.) Korm. rendelet |
 | 2017-01-01 | 2015-67-20-22.4 | 473/2016. (XII. 27.) Korm. rendelet |
 | 2017-04-01 | 2015-67-20-22.5 | 2010: CXXX. törvény |
+| 2019-01-01 | 2015-67-20-22.6 | 273/2018. (XII. 20.) Korm. rendelet |
