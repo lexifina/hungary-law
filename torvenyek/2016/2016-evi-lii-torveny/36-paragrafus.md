@@ -1,7 +1,0 @@
-36. § (1) A fővárosi és megyei kormányhivatalokkal kormányzati szolgálati jogviszonyban állók tekintetében e törvény rendelkezéseit 2017. január 1. napjától kell alkalmazni.
-
-(2) Ha 2017. január 1-jét megelőzően a fővárosi és megyei kormányhivatalokkal jogviszonyban álló állami szolgálati jogviszonyba sorolt állami tisztviselő a Kttv. szerinti címadományozásban részesült, vagy 2016. december 31-én főtanácsadói vagy tanácsadói munkakört töltött be, 2017. január 1-jétől a cím használatára nem jogosult, azonban ha a Kttv. 126–128. §-a és a 133–142. §-a alapján járó illetménye magasabb, mint e törvény alapján megállapított illetmény, akkor arra 2017. június 30-áig jogosult. 2017. július 1-jétől e törvény szerint kell megállapítani az állami tisztviselő illetményét.
-
-(3) Az (1) bekezdés szerinti kormánytisztviselőket, illetve kormányzati ügykezelőket 2017. január 1. napjával a jogviszonyváltásra vonatkozó szabályoknak az ezen alcímben meghatározott eltérésekkel történő alkalmazásával állami tisztviselőként, illetve állami ügykezelőként állami szolgálati jogviszonyba be kell sorolni azzal, hogy a jogviszonyváltás kezdő napja 2017. január 1. napja.
-
-(4) Mentesül a 14. § szerinti továbbképzési kötelezettség alól a fővárosi és megyei kormányhivataloknál foglalkoztatott állami tisztviselő, ha 2017. január 1. napjáig közigazgatási szakvizsgára jelentkezett és azt 2017. június 30. napjáig teljesíti.
