@@ -48,7 +48,7 @@
 
 | 11. | Gyógyszerek vizsgálata | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (OGYÉI) |
 
-| 12. | Közlekedéspszichológiai kérdések, vizsgálatok | közlekedésért felelős miniszter |
+| 12. | Közlekedéspszichológiai kérdések, vizsgálatok | KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaság |
 
 4. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^9]
 
