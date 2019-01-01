@@ -1,3 +1,3 @@
-## 10. §[^1]
+## 10. §[^3]
 
-[^1]: A 10. §-t a 12. § hatályon kívül helyezte.
+[^3]: A 10. §-t a 12. § hatályon kívül helyezte.

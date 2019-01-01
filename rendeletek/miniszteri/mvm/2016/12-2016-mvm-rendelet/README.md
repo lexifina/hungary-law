@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-12-20-6
 | 2016-05-01 | 2016-12-20-6N.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2016-12-20-6N.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-01-02 | 2016-12-20-6N.4 | 2010: CXXX. törvény |
+| 2019-01-01 | 2016-12-20-6N.5 | 32/2018. (XII. 19.) IM rendelet |
