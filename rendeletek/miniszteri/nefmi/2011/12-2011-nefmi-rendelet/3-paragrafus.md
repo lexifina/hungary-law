@@ -1,4 +1,4 @@
-3. § (1)[^9] A szakmai kollégium és mindegyik tagozata és tanácsa – az ÁEEK koordinálásával – ügyrendet és munkatervet dolgoz ki. A szakmai kollégium ügyrendjét és munkatervét a miniszter, a tagozatok ügyrendjét és munkatervét a szakmai kollégium elnöke, a tanácsok ügyrendjét és munkatervét az azonos elnevezésű tagozat vezetője hagyja jóvá.
+3. § (1)[^9] A szakmai kollégium és mindegyik tagozata, valamint tanácsa – az ÁEEK koordinálásával, a 2. melléklet szerinti tagozat esetén az országos gyógyintézet közreműködésével – ügyrendet és munkatervet dolgoz ki. A szakmai kollégium ügyrendjét és munkatervét a miniszter, a tagozatok ügyrendjét és munkatervét a szakmai kollégium elnöke, a tanácsok ügyrendjét és munkatervét az azonos elnevezésű tagozat vezetője hagyja jóvá.
 
 (1a)[^10] Az (1) bekezdés szerinti ügyrend – e rendelet keretei között – legalább a következőkről rendelkezik:
 
@@ -22,7 +22,7 @@ meghatározása.
 
 (4)[^13] Az e § szerinti ügyrendeket és munkaterveket a szakmai kollégium honlapján a szakmai kollégium, a tagozatok és a tanácsok tagjai, valamint a miniszter és az ÁEEK részére hozzáférhetővé kell tenni.
 
-[^9]: A 3. § (1) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § (1) bekezdése a 47/2018. (XII. 21.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^10]: A 3. § (1a) bekezdését a 44/2014. (X. 27.) EMMI rendelet 2. § (1) bekezdése iktatta be.
 [^11]: A 3. § (1a) bekezdés f) pontját az 54/2015. (XI. 24.) EMMI rendelet 39. § (2) bekezdése iktatta be.
 [^12]: A 3. § (3) bekezdését az 54/2015. (XI. 24.) EMMI rendelet 45. §-a hatályon kívül helyezte.

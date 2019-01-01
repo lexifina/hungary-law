@@ -1,4 +1,4 @@
-6. § (1)[^20] A tagozatok – az adott tagozat szakterületének megfelelően – véleményt nyilvánítanak
+6. § (1)[^22] A tagozatok – az adott tagozat szakterületének megfelelően – véleményt nyilvánítanak
 
 a) az egészségügy finanszírozási rendszeréről,
 
@@ -22,10 +22,10 @@ j) minden olyan kérdésben, amelyet jogszabály a szakmai kollégium feladatáv
 
 (2) A tagozatok a miniszter felkérésére az egészségügy területén bármely egyéb szakmai kérdésben véleményt nyilvánítanak, és ellátják a felkérésben foglalt feladatokat.
 
-(3)[^21] A tagozat vezetője – a tagozat szakmai véleményének kialakításához – az országos tisztifőorvos vagy az általa megbízott személy, az érintett szakterülettel foglalkozó állandó minőségügyi szakfőorvos, illetve minőségügyi szakterületi vezető, az országos tisztifőgyógyszerész, az országos gyógyintézetek, országos társ-gyógyintézetek, az egészségügyi képzést, illetve szakképzést végző intézmények és a tanácsok szakmai véleményét kérheti, és koordinálja az adott szakmai kérdés egyeztetését.
+(3)[^23] A tagozat vezetője – a tagozat szakmai véleményének kialakításához – az országos tisztifőorvos vagy az általa megbízott személy, az érintett szakterülettel foglalkozó állandó minőségügyi szakfőorvos, illetve minőségügyi szakterületi vezető, az országos tisztifőgyógyszerész, az országos gyógyintézetek, országos társ-gyógyintézetek, az egészségügyi képzést, illetve szakképzést végző intézmények és a tanácsok szakmai véleményét kérheti, és koordinálja az adott szakmai kérdés egyeztetését.
 
-(4)[^22] A tagozat vezetője a tanácsoknál szakmai irányelv elkészítését kezdeményezheti.
+(4)[^24] A tagozat vezetője a tanácsoknál szakmai irányelv elkészítését kezdeményezheti.
 
-[^20]: A 6. § (1) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 40. §-ával megállapított szöveg.
-[^21]: A 6. § (3) bekezdése a 33/2013. (V. 10.) EMMI rendelet 27. § a) pontja, a 38/2017. (XII. 29.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
-[^22]: A 6. § (4) bekezdése a 44/2014. (X. 27.) EMMI rendelet 9. § b) pontja szerint módosított szöveg.
+[^22]: A 6. § (1) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 40. §-ával megállapított szöveg.
+[^23]: A 6. § (3) bekezdése a 33/2013. (V. 10.) EMMI rendelet 27. § a) pontja, a 38/2017. (XII. 29.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^24]: A 6. § (4) bekezdése a 44/2014. (X. 27.) EMMI rendelet 9. § b) pontja szerint módosított szöveg.

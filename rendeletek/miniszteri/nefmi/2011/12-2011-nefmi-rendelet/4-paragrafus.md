@@ -1,4 +1,4 @@
-## 3/A. §[^14] Az ÁEEK az e rendelet szerinti jegyzőkönyv, emlékeztető, ügyrend és munkaterv kötelező formai elemeit a szakmai kollégium honlapján közzéteszi.
+## 3/A. §[^14] Az ÁEEK és a 2. melléklet szerinti országos gyógyintézet az e rendelet szerinti jegyzőkönyv, emlékeztető, ügyrend és munkaterv kötelező formai elemeit a szakmai kollégium honlapján közzéteszi.
 
 ## 2. A szakmai kollégium tisztségviselői
 
@@ -14,5 +14,5 @@ c) meghatározzák a tagozatok közötti feladatmegosztást.
 
 (3) A szakmai kollégium az elnök kezdeményezésére évente legalább egy alkalommal tart ülést. A szakmai kollégium ülését a miniszter soron kívül összehívhatja.
 
-[^14]: A 3/A. §-t a 44/2014. (X. 27.) EMMI rendelet 3. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 123. § d) pontja szerint módosított szöveg.
+[^14]: A 3/A. §-t a 44/2014. (X. 27.) EMMI rendelet 3. §-a iktatta be, szövege a 47/2018. (XII. 21.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^15]: A 4. § (2) bekezdés b) pontja a 44/2014. (X. 27.) EMMI rendelet 4. §-ával megállapított szöveg.
