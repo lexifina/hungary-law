@@ -10,31 +10,23 @@ b) az európai szabadalmi bejelentés közzétett igénypontjainak magyar nyelv�
 
 c) képviselet esetén annak igazolását.
 
-(2) A kérelmet egy példányban kell benyújtani, és annak tartalmaznia kell:
+(2)[^9] A kérelmet egy példányban kell benyújtani, és annak az Szt. 84/E. § (3) bekezdésében meghatározott adatokon kívül tartalmaznia kell:
 
-a) a bejelentő nevét és címét;
+a) az igénypontok magyar nyelvű fordításának benyújtásáról szóló hatósági tájékoztatás közlésére irányuló kérést;
 
-b) az igénypontok magyar nyelvű fordításának benyújtásáról szóló hatósági tájékoztatás közlésére irányuló kérést;
+b) az európai szabadalmi bejelentés bejelentési napját és számát;
 
-c) az európai szabadalmi bejelentés bejelentési napját és számát;
+c) elsőbbség érvényesítése esetén az alapbejelentés bejelentési napját, országát és számát;
 
-d) elsőbbség érvényesítése esetén az alapbejelentés bejelentési napját, országát és számát;
+d) az európai szabadalmi bejelentés közzétételének napját és számát;
 
-e) az európai szabadalmi bejelentés közzétételének napját és számát;
+e) a találmány címét magyar nyelven;
 
-f)[^9] a találmány címét magyar nyelven;
+f) a találmány nemzetközi osztályjelzetét;
 
-g) a találmány nemzetközi osztályjelzetét;
-
-h) a feltaláló nevét; ha a feltaláló kérte, hogy mellőzzék nevének feltüntetését a szabadalmi iratokon, erre a kérelemben utalni kell, és a feltaláló nevét külön lapon kell megadni;
-
-i) képviselet esetén a képviselő nevét és címét;
-
-j) a kérelem mellékleteinek felsorolását;
-
-k) a bejelentő, illetve mindegyik bejelentő vagy a képviselő aláírását.
+g) a kérelem mellékleteinek felsorolását.
 
 (3)[^10] Az igénypontok fordítását a 2. § (2)–(5) bekezdéseiben foglaltak szerint kell elkészíteni, azzal az eltéréssel, hogy azt egy példányban kell benyújtani.
 
-[^9]: A 10. § (2) bekezdés f) pontja a 35/2011. (XII. 22.) KIM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 10. § (2) bekezdése a 30/2018. (XII. 12.) IM rendelet 4. §-ával megállapított szöveg.
 [^10]: A 10. § (3) bekezdése a 35/2011. (XII. 22.) KIM rendelet 1. §-ával megállapított szöveg.

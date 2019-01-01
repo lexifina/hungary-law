@@ -1,29 +1,25 @@
 ## A bejelentési kérelem
 
-3. § (1) A bejelentési kérelmet egy példányban kell benyújtani, és annak tartalmaznia kell:
+3. §[^4] (1) A bejelentési kérelmet egy példányban kell benyújtani, és annak az Szt. 57. § (3) bekezdésében meghatározott adatokon kívül tartalmaznia kell:
 
 a) a szabadalom megadására irányuló kérést;
 
 b) a találmány címét (tárgyának rövid és szabatos megjelölését, amely nem tartalmazhat fantázianevet);
 
-c) a bejelentő nevét és címét, több bejelentő esetén az igényjogosultság arányát is, ha az nem egyenlő;
+c) több bejelentő esetén az igényjogosultság arányát, ha az nem egyenlő;
 
-d) a feltaláló nevét és címét, több feltaláló esetén a szerzőség arányát is, ha az nem egyenlő; ha a feltaláló írásban kéri, hogy mellőzzék nevének feltüntetését a szabadalmi iratokon, erre a bejelentési kérelemben utalni kell, és a feltaláló nevét külön lapon kell megadni;
+d) több feltaláló esetén a szerzőség arányát, ha az nem egyenlő;
 
-e) képviselet esetén a képviselő nevét és címét;
+e) uniós vagy belső elsőbbség igénylése esetén az erre irányuló nyilatkozatot, feltüntetve uniós elsőbbségnél a külföldi bejelentés bejelentési napját, országát és számát, belső elsőbbségnél pedig a folyamatban lévő bejelentés ügyszámát;
 
-f) uniós vagy belső elsőbbség igénylése esetén az erre irányuló nyilatkozatot, feltüntetve uniós elsőbbségnél a külföldi bejelentés bejelentési napját, országát és számát, belső elsőbbségnél pedig a folyamatban lévő bejelentés ügyszámát;
+f) származtatás, illetőleg megosztás esetén az erre irányuló nyilatkozatot, megjelölve az alapul szolgáló bejelentés ügyszámát;
 
-g) származtatás, illetőleg megosztás esetén az erre irányuló nyilatkozatot, megjelölve az alapul szolgáló bejelentés ügyszámát;
+g) a találmány kiállításon történt bemutatása esetén a kiállítási nyilatkozatot, feltüntetve a kiállítás megnevezését és időpontját;
 
-h) a találmány kiállításon történt bemutatása esetén a kiállítási nyilatkozatot, feltüntetve a kiállítás megnevezését és időpontját;
+h) nyilatkozatot arról, hogy a bejelentő a találmány feltalálója vagy annak jogutódja;
 
-i) nyilatkozatot arról, hogy a bejelentő a találmány feltalálója vagy annak jogutódja;
+i) a bejelentési kérelem mellékleteinek felsorolását, feltüntetve az egyes iratok lapszámát és példányszámát is.
 
-j) a bejelentési kérelem mellékleteinek felsorolását, feltüntetve az egyes iratok lapszámát és példányszámát is;
+(2) A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában (a továbbiakban: Hivatal) díjtalanul beszerezhető formanyomtatvány vagy a Hivatal honlapjáról letölthető elektronikus űrlap kitöltésével is elkészíthető.
 
-k) a bejelentő, illetve mindegyik bejelentő vagy a képviselő aláírását.
-
-(2)[^4] A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában (a továbbiakban: Hivatal) díjtalanul beszerezhető formanyomtatvány kitöltésével is elkészíthető.
-
-[^4]: A 3. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^4]: A 3. § a 30/2018. (XII. 12.) IM rendelet 3. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 2. § (1) A bejelentési kérelmet, a leírást az igénypontokkal, a rajzokat és a kivonatot külön lapon kezdve kell elkészíteni, és külön-külön folyamatos, a lap felső közepén elhelyezett számozással kell ellátni; az azokban foglaltaknak egymással összhangban kell állniuk.
 
-(2)[^1] A leírást az igénypontokkal, a rajzokat és a kivonatot három-három azonos példányban kell benyújtani, gyűrődéstől, szakadástól vagy behajtástól mentes lapokon; azok elektronikus eljárással és közvetlenül sokszorosíthatók legyenek meghatározatlan másolati példányszámban.
+(2)[^1] A leírást az igénypontokkal, a rajzokat és a kivonatot elektronikus kapcsolattartás esetén egy, egyéb esetben három azonos példányban kell benyújtani, gyűrődéstől, szakadástól vagy behajtástól mentes lapokon; azok elektronikus eljárással és közvetlenül sokszorosíthatók legyenek meghatározatlan másolati példányszámban.
 
 (3) A bejelentés egészében az azonos fogalmakra azonos megnevezést kell használni; a műszaki fogalmakra a magyar megnevezéseket, ilyenek hiányában a nemzetközi gyakorlatban elfogadott megnevezéseket, a mértékadatokra a külön jogszabályban meghatározott egységeket, ilyenek hiányában pedig a nemzetközi gyakorlatban elfogadott egységeket kell alkalmazni.
 
@@ -22,6 +22,6 @@ c) a szöveget gépírással vagy nyomtatással kell elkészíteni, másfeles va
 
 (7)[^3] A leírásban szerepeltetni kell a rajzon feltüntetett valamennyi hivatkozási jelet, és a leírás csak a rajzon is szereplő hivatkozási jelet tartalmazhat. A hivatkozási jeleket a leírásban a megvalósítási mód ismertetésénél, az alkotóelem megnevezése előtt zárójel nélkül, az igénypontokban és a kivonatban a megnevezés után zárójelben, a megnevezés minden előfordulása esetén fel kell tüntetni. Ugyanazokat az alkotóelemeket azonos hivatkozási jelekkel kell ellátni az egész bejelentésben.
 
-[^1]: A 2. § (2) bekezdése a 30/2012. (VI. 25.) KIM rendelet 8. §-a szerint módosított szöveg.
+[^1]: A 2. § (2) bekezdése a 30/2012. (VI. 25.) KIM rendelet 8. §-a, a 30/2018. (XII. 12.) IM rendelet 9. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (3a) bekezdését a 30/2012. (VI. 25.) KIM rendelet 5. § (1) bekezdése iktatta be.
 [^3]: A 2. § (7) bekezdése a 30/2012. (VI. 25.) KIM rendelet 5. § (2) bekezdésével megállapított szöveg.

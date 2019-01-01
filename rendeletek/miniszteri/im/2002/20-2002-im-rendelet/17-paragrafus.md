@@ -1,23 +1,21 @@
 ## A növényfajta-oltalmi bejelentési kérelem
 
-## 17. § A növényfajta-oltalmi bejelentési kérelmet egy példányban kell benyújtani, és annak tartalmaznia kell:
+## 17. §[^28] A növényfajta oltalmi bejelentési kérelmet egy példányban kell benyújtani, és annak az Szt. 114/I. § (3) bekezdésében meghatározott adatokon kívül tartalmaznia kell:
 
-a) a növényfajta-oltalom megadására irányuló kérést;
+a) a növényfajta oltalom megadására irányuló kérést;
 
 b) a növényfajta fajtanevét;
 
 c) a növényfaj nevét és latin nevét;
 
-d) a bejelentő nevét és címét, több bejelentő esetén az igényjogosultság arányát is, ha az nem egyenlő;
+d) több bejelentő esetén az igényjogosultság arányát, ha az nem egyenlő;
 
-e) a nemesítő nevét és címét, több nemesítő esetén a szerzőség arányát is, ha az nem egyenlő; ha a nemesítő írásban kéri, hogy mellőzzék nevének feltüntetését a növényfajta-oltalmi iratokon, erre a bejelentési kérelemben utalni kell, és a nemesítő nevét külön lapon kell megadni;
+e) több nemesítő esetén a szerzőség arányát, ha az nem egyenlő;
 
-f) képviselet esetén a képviselő nevét és címét;
+f) az UPOV-egyezmény által meghatározott elsőbbség igénylése esetén az erre irányuló nyilatkozatot, feltüntetve a külföldi bejelentés bejelentési napját, országát és számát;
 
-g) az UPOV-egyezmény által meghatározott elsőbbség igénylése esetén az erre irányuló nyilatkozatot, feltüntetve a külföldi bejelentés bejelentési napját, országát és számát;
+g) nyilatkozatot arról, hogy a bejelentő a növényfajta nemesítője vagy annak jogutódja;
 
-h) nyilatkozatot arról, hogy a bejelentő a növényfajta nemesítője vagy annak jogutódja;
+h) a bejelentési kérelem mellékleteinek felsorolását, feltüntetve az egyes iratok lapszámát és példányszámát is.
 
-i) a bejelentési kérelem mellékleteinek felsorolását, feltüntetve az egyes iratok lapszámát és példányszámát is;
-
-j) a bejelentő, illetve mindegyik bejelentő vagy a képviselő aláírását.
+[^28]: A 17. § a 30/2018. (XII. 12.) IM rendelet 8. §-ával megállapított szöveg.
