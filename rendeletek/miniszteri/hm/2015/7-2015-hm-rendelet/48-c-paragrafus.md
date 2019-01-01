@@ -1,4 +1,4 @@
-## 29/C. [^57] A legénységi kiegészítő illetmény
+## 29/C. [^69] A legénységi kiegészítő illetmény
 
 48/C. § (1) A legénységi állomány tagja – a (2) bekezdésben foglalt kivétellel – legénységi kiegészítő illetményre jogosult.
 
@@ -12,24 +12,24 @@ c) a Hjt. 147. § (1) bekezdés d) pontja szerinti fenyítés időtartamára.
 
 (3) A legénységi kiegészítő illetmény havi összege
 
-a)[^58] az érettségi vizsgával, vagy annál magasabb iskolai végzettséggel rendelkező legénységi állományú katona esetében az az összeg, amennyivel a havi alapilletményének, honvédelmi szolgálati díjának, valamint a 46. § szerinti kiegészítő illetményének együttes összege kevesebb 236 276 Ft-nál, vagy
+a)[^70] az érettségi vizsgával, vagy annál magasabb iskolai végzettséggel rendelkező legénységi állományú katona esetében az az összeg, amennyivel a havi alapilletményének, honvédelmi szolgálati díjának, valamint a 46. § szerinti kiegészítő illetményének együttes összege kevesebb 244 443 Ft-nál, vagy
 
-b)[^59] az érettségi vizsgánál alacsonyabb legmagasabb iskolai végzettséggel rendelkező legénységi állományú katona esetében az az összeg, amennyivel a havi alapilletményének, honvédelmi szolgálati díjának, valamint a 46. § szerinti kiegészítő illetményének együttes összege kevesebb
+b)[^71] az érettségi vizsgánál alacsonyabb legmagasabb iskolai végzettséggel rendelkező legénységi állományú katona esetében az az összeg, amennyivel a havi alapilletményének, honvédelmi szolgálati díjának, valamint a 46. § szerinti kiegészítő illetményének együttes összege kevesebb
 
-ba)[^60] közkatona esetében 193 317 Ft-nál,
+ba)[^72] közkatona esetében 200 000 Ft-nál,
 
-bb)[^61] őrvezető rendfokozattal rendszeresített beosztás betöltése esetén 204 058 Ft-nál,
+bb)[^73] őrvezető rendfokozattal rendszeresített beosztás betöltése esetén 211 111 Ft-nál,
 
-bc)[^62] tizedes rendfokozattal rendszeresített beosztás betöltése esetén 214 799 Ft-nál,
+bc)[^74] tizedes rendfokozattal rendszeresített beosztás betöltése esetén 222 223 Ft-nál,
 
-bd)[^63] szakaszvezető rendfokozattal rendszeresített beosztás betöltése esetén 236 276 Ft-nál.
+bd)[^75] szakaszvezető rendfokozattal rendszeresített beosztás betöltése esetén 244 443 Ft-nál.
 
 (4) Ha a (3) bekezdés alapján kiszámított összeg nem éri el az 1000 Ft-ot, vagy ha a legénységi állomány tagja alapilletményének és honvédelmi szolgálati díjának együttes összege a rá irányadó, (3) bekezdés szerinti összeghatárral megegyezik vagy annál magasabb, akkor a legénységi állomány tagja a (3) bekezdésben foglaltak helyett 1000 Ft összegű legénységi kiegészítő illetményre jogosult.
 
-[^57]: A 29/C. alcímet (48/C. §) a 25/2016. (XII. 22.) HM rendelet 83. §-a iktatta be.
-[^58]: A 48/C. § (3) bekezdés a) pontja az 1/2018. (I. 26.) HM rendelet 42. § b) pontja szerint módosított szöveg.
-[^59]: A 48/C. § (3) bekezdés b) pont nyitó szövegrésze az 1/2018. (I. 26.) HM rendelet 42. § c) pontja szerint módosított szöveg.
-[^60]: A 48/C. § (3) bekezdés b) pont ba) alpontja az 1/2018. (I. 26.) HM rendelet 42. § d) pontja szerint módosított szöveg.
-[^61]: A 48/C. § (3) bekezdés b) pont bb) alpontja az 1/2018. (I. 26.) HM rendelet 42. § e) pontja szerint módosított szöveg.
-[^62]: A 48/C. § (3) bekezdés b) pont bc) alpontja az 1/2018. (I. 26.) HM rendelet 42. § f) pontja szerint módosított szöveg.
-[^63]: A 48/C. § (3) bekezdés b) pont bd) alpontja az 1/2018. (I. 26.) HM rendelet 42. § g) pontja szerint módosított szöveg.
+[^69]: A 29/C. alcímet (48/C. §) a 25/2016. (XII. 22.) HM rendelet 83. §-a iktatta be.
+[^70]: A 48/C. § (3) bekezdés a) pontja az 1/2018. (I. 26.) HM rendelet 42. § b) pontja, a 20/2018. (XII. 28.) HM rendelet 104. § 9. pontja szerint módosított szöveg.
+[^71]: A 48/C. § (3) bekezdés b) pont nyitó szövegrésze az 1/2018. (I. 26.) HM rendelet 42. § c) pontja szerint módosított szöveg.
+[^72]: A 48/C. § (3) bekezdés b) pont ba) alpontja a 20/2018. (XII. 28.) HM rendelet 104. § 10. pontja szerint módosított szöveg.
+[^73]: A 48/C. § (3) bekezdés b) pont bb) alpontja a 20/2018. (XII. 28.) HM rendelet 104. § 11. pontja szerint módosított szöveg.
+[^74]: A 48/C. § (3) bekezdés b) pont bc) alpontja a 20/2018. (XII. 28.) HM rendelet 104. § 12. pontja szerint módosított szöveg.
+[^75]: A 48/C. § (3) bekezdés b) pont bd) alpontja a 20/2018. (XII. 28.) HM rendelet 104. § 13. pontja szerint módosított szöveg.

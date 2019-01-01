@@ -1,9 +1,9 @@
-## 90. §[^124]
+## 90. §[^140]
 
-91. §[^125] (1) E rendeletnek a Módr.-rel megállapított 35. § (1) bekezdés a) pont ab) alpontját és b) pontját 2016. január 1-jétől kell alkalmazni.
+91. §[^141] (1) E rendeletnek a Módr.-rel megállapított 35. § (1) bekezdés a) pont ab) alpontját és b) pontját 2016. január 1-jétől kell alkalmazni.
 
-(2) Az állomány (1) bekezdés alapján fokozott igénybevételi pótlékra jogosult tagja részére a 2016. január 1-jétől a Módr. hatálybalépéséig[^126] esedékes – ki nem fizetett – fokozott igénybevételi pótlékot legkésőbb a Módr. hatálybalépését követő hónapra járó illetménnyel együtt kell kifizetni.
+(2) Az állomány (1) bekezdés alapján fokozott igénybevételi pótlékra jogosult tagja részére a 2016. január 1-jétől a Módr. hatálybalépéséig[^142] esedékes – ki nem fizetett – fokozott igénybevételi pótlékot legkésőbb a Módr. hatálybalépését követő hónapra járó illetménnyel együtt kell kifizetni.
 
-[^124]: A 90. §-t a 9/2016. (VI. 29.) HM rendelet 19. §-a iktatta be, hatályon kívül helyezte a 14/2017. (X. 18.) HM rendelet 5. §-a.
-[^125]: A 91. §-t a 9/2016. (VI. 29.) HM rendelet 19. §-a iktatta be.
-[^126]: A hatálybalépés időpontja 2016. július 1.
+[^140]: A 90. §-t a 9/2016. (VI. 29.) HM rendelet 19. §-a iktatta be, hatályon kívül helyezte a 14/2017. (X. 18.) HM rendelet 5. §-a.
+[^141]: A 91. §-t a 9/2016. (VI. 29.) HM rendelet 19. §-a iktatta be.
+[^142]: A hatálybalépés időpontja 2016. július 1.
