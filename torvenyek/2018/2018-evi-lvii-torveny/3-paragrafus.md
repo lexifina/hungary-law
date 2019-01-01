@@ -1,0 +1,1 @@
+3. § A külföldi befektető a miniszterhez történő bejelentés és a bejelentés tudomásulvételének visszaigazolását követően szerezheti meg a 2. § (4) bekezdésében meghatározott tevékenység folytatásához nélkülözhetetlen infrastruktúrák, berendezések és eszközök használati vagy működtetési jogát (a továbbiakban együtt: üzemeltetési jog).

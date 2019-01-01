@@ -1,0 +1,3 @@
+4. § (1) A külföldi befektetőnek a 2. § (1) bekezdés a) pontjában vagy (2) bekezdésében meghatározott mértéket elérő tulajdonrésze, illetve a 2. § (1) bekezdés b) pontjában meghatározott befolyása mellett működő gazdasági társaság a 2. § (4) bekezdése szerinti tevékenység folytatását (a továbbiakban: újonnan felvett tevékenység) a miniszterhez történő bejelentés és a bejelentés tudomásulvételének visszaigazolását követően kezdheti meg.
+
+(2) Az (1) bekezdés szerinti kötelezettség a 2. § (4) bekezdésében meghatározott tevékenységnek a gazdasági társaság főtevékenységeként vagy további tevékenységi köreként a cégnyilvántartásba történő bejegyzésével keletkezik.
