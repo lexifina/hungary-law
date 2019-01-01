@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-204-00-00
 | 2017-12-21 | 2017. évi CCIV. törvény | 2017-204-00-00.0 (közlönyállapot) |
 | 2017-12-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-204-00-00.1 |
 | 2018-12-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-204-00-00.2 |
+| 2019-01-01 | 2010. évi CXXX. törvény | 2017-204-00-00.3 |
