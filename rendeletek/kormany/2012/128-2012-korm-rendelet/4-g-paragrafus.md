@@ -1,1 +1,0 @@
-## kézbesítettnek kell tekinteni.
