@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-219-20-
 | 2017-01-01 | 2012-219-20-22.8 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-11-01 | 2012-219-20-22.9 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2012-219-20-22.10 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2019-01-01 | 2012-219-20-22.11 | 425/2012. (XII. 29.) Korm. rendelet |
