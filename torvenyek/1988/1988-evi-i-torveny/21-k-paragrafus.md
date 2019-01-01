@@ -4,9 +4,11 @@
 
 a) az alábbi célok érdekében működteti a Nemzeti Tengelysúlymérő Rendszert:
 
-aa) a közúti közlekedés ellenőrzésének támogatására, az ellenőrzésre való kiválasztásra, ideértve az ezekhez kapcsolódó kockázatértékelési tevékenységet is, valamint
+aa) a közúti közlekedés ellenőrzésének támogatására, az ellenőrzésre való kiválasztásra, ideértve az ezekhez kapcsolódó kockázatértékelési tevékenységet is,
 
-ab) a 20. § (1) bekezdésében, továbbá a 21. § (1) bekezdés d) és i) pontjában meghatározott felelősség megállapítására;
+ab) a 20. § (1) bekezdésében, továbbá a 21. § (1) bekezdés d) és i) pontjában meghatározott felelősség megállapítására, valamint
+
+ac) a jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási fedezet nélkül közlekedő gépjárművek forgalomból – amennyiben az Ákr. 40. §-ában meghatározott feltételek fennállnak, automatikus döntéshozatali eljárás keretében – történő kivonásának automatikus kezdeményezésére;
 
 b) az a) pontban meghatározottakkal összefüggésben az állami adó- és vámhatóság jogszabályban meghatározott feladatainak ellátásához szükséges adatszolgáltatást teljesít.
 
@@ -127,3 +129,7 @@ a 20. § (4) bekezdésben foglalt határidő lejártát követően törölni kel
 (10) A (3) bekezdés szerinti adatokat abban az esetben, ha jogsértés megállapítására nem kerül sor, a (2) bekezdésben meghatározott adatátadástól számított 30 napon belül törölni kell.
 
 (11) A közlekedési hatóság jogosult a külföldi hatósági jelzéssel ellátott jármű rendszámát a vélelmezett szabályszegés elkövetésének helyét és idejét, valamint a helymeghatározás egyéb jellemző adatait, az ellenőrzés képi felvételeit az ellenőrzés időpontjától számított 2 évig megőrizni, ha helyszíni ellenőrzésre nem került sor, illetve a jármű üzembentartó személyének automatizált lekérdezés útján történő megállapítására nincsen mód.
+
+(12) Ha a Nemzeti Tengelysúlymérő Rendszer keretében kezelt adatok alapján a gépjármű kötelező gépjármű felelősség-biztosítási fedezetének hiánya vélelmezhető és a (6) bekezdés szerinti intézkedés nem történt, a közlekedési hatóság a jármű rendszámát, a vélelmezett szabályszegés elkövetésének helyét és idejét, a helymeghatározás egyéb jellemző adatait, továbbá az ellenőrzés képi felvételeit az ellenőrzés időpontjától számított 15 napig tárolja.
+
+(13) Ha a (12) bekezdésben meghatározott határidő 15. napján a kötvénynyilvántartás adataival történő ismételt összevetés eredményként a gépjármű kötelező gépjármű felelősség-biztosítási fedezetének hiánya állapítható meg és a gépjármű üzembentartójában változás nem történt, a közlekedési hatóság a jogsértés elkövetésének helyét és idejét, a helymeghatározás egyéb jellemző adatait, továbbá az ellenőrzés képi felvételeit elektronikus úton megküldi a gépjármű üzembentartójának lakcíme (székhelye) szerinti közlekedési igazgatási hatóságnak.

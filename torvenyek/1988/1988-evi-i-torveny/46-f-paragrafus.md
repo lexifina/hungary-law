@@ -1,1 +1,1 @@
-46/F. § Az e törvénynek a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 57. § (1) bekezdésével megállapított 18. § (8) bekezdése szerinti vizsgaközponti feladatokat a 48. § (3) bekezdés a) pont 8. alpontjában foglalt felhatalmazás alapján kiadott kormányrendelettel történő kijelölés hatálybalépéséig a közlekedési hatóság végzi.
+### 46/F. §

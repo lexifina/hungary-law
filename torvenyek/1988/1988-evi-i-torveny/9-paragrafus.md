@@ -16,4 +16,4 @@ c) a gyalogosok részére szolgáló vasúti gyalogos-átkelőhely és a kizár�
 
 (5) A 20. § (11) bekezdésében felsorolt szervezetek által végrehajtott közúti és telephelyi ellenőrzéssel összefüggő elsőfokú döntéssel szemben fellebbezésnek van helye.
 
-(6) A közúti gépjárművezetők pályaalkalmassági vizsgálatát a közlekedési hatóság végzi. A közúti gépjárművezetők pályaalkalmassági vizsgálata ügyében hozott elsőfokú döntés ellen fellebbezésnek van helye.
+(6)

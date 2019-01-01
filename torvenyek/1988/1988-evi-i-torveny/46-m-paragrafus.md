@@ -1,0 +1,3 @@
+46/M. § (1) Az e törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2018. évi XCVIII. törvénnyel (a továbbiakban: Módtv3.) megállapított 18. § (1) bekezdésében foglalt rendelkezések a Módtv3. hatálybalépésekor folyamatban lévő, járművezetői vizsgabiztosok, műszaki vizsgabiztosok, szakoktatók, iskolavezetők, valamint utánképzési foglalkozásvezetők képzését és továbbképzését nem érintik.
+
+(2) Az e törvénynek a Módtv3. által megállapított 24/A. § (6) bekezdése szerinti nyilvántartásban a 2018. december 31. napján szereplő vizsgabiztost úgy kell tekinteni, hogy a vizsgabiztosi tevékenység folytatásához engedéllyel rendelkezik.
