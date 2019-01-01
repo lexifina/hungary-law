@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-100-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2012-100-00-00.31 |
 | 2018-08-07 | 2018. évi XLIII. törvény | 2012-100-00-00.32 |
 | 2018-10-01 | 2018. évi LV. törvény | 2012-100-00-00.33 |
+| 2019-01-01 | 2018. évi CXVIII. törvény | 2012-100-00-00.34 |
