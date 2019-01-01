@@ -1,1 +1,1 @@
-8. § A miniszter ellátja a központi államigazgatási szervek területi szervei feletti, jogszabályban szereplő, a fővárosi és megyei kormányhivatal által végzett ellenőrzés szakmai irányítását, és ennek keretében gyakorolja a szakmai irányító miniszter jogait.
+8. §

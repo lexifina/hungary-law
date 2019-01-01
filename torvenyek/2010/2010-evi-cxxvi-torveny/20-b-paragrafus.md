@@ -1,1 +1,1 @@
-20/B. § A járási hivatal állami tisztviselői, valamint munkavállalói felett a munkáltatói jogokat – ha e törvény eltérően nem rendelkezik – a hivatalvezető gyakorolja. A járási hivatal állami tisztviselőjének kinevezni, illetve felmenteni javasolt személyről a hivatalvezető tájékoztatja a kormánymegbízottat, aki a kinevezni javasolt személlyel, illetve a felmentéssel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki állami tisztviselőnek, illetve nem kerülhet felmentésre.
+20/B. §
