@@ -206,11 +206,11 @@ C) Központi hivatalok
 
 1.6.[^25] a Bevándorlási és Menekültügyi Hivatal központi ügyeletén ügyeletes munkakört betöltő személy
 
-1.7. a befogadó állomás és a menekültügyi őrzött befogadó központ igazgatója, gazdasági osztályvezetője
+1.7.[^26]
 
-2.[^26]
+2.[^27]
 
-3.[^27]
+3.[^28]
 
 D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
@@ -234,7 +234,7 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 2.1. az igazgató
 
-3.[^28] Nemzeti Szakértői és Kutató Központ
+3.[^29] Nemzeti Szakértői és Kutató Központ
 
 3.1. a főigazgató és a főigazgató-helyettesek
 
@@ -250,7 +250,7 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 3.7. az arcképelemző tevékenység ellátásában részt vevő munkakörök
 
-4.[^29]
+4.[^30]
 
 [^2]: Az 1. melléklet A) rész 1. pont 1.20. alpontját a 37/2016. (IX. 1.) BM rendelet 15. §-a iktatta be.
 [^3]: Az 1. melléklet A) rész 1. pont 1.21. alpontját az 58/2016. (XII. 22.) BM rendelet 49. §-a iktatta be.
@@ -276,7 +276,8 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 [^23]: Az 1. melléklet C) rész 1. pont 1.3. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
 [^24]: Az 1. melléklet C) rész 1. pont 1.5. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
 [^25]: Az 1. melléklet C) rész 1. pont 1.6. pontja az 58/2016. (XII. 22.) BM rendelet 49. §-a szerint módosított szöveg.
-[^26]: Az 1. melléklet C) rész 2. pontját az 58/2016. (XII. 22.) BM rendelet 49. §-a hatályon kívül helyezte.
-[^27]: Az 1. melléklet C) pont 3. pontját a 29/2016. (VII. 15.) BM rendelet 36. §-a hatályon kívül helyezte.
-[^28]: Az 1. melléklet D) rész 3. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte, újonnan az 58/2016. (XII. 22.) BM rendelet 49. §-a iktatta be.
-[^29]: Az 1. melléklet D) rész 4. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte.
+[^26]: Az 1. melléklet C) rész 1. pont 1.7. alpontját a 35/2018. (XII. 21.) BM rendelet 21. §-a hatályon kívül helyezte.
+[^27]: Az 1. melléklet C) rész 2. pontját az 58/2016. (XII. 22.) BM rendelet 49. §-a hatályon kívül helyezte.
+[^28]: Az 1. melléklet C) pont 3. pontját a 29/2016. (VII. 15.) BM rendelet 36. §-a hatályon kívül helyezte.
+[^29]: Az 1. melléklet D) rész 3. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte, újonnan az 58/2016. (XII. 22.) BM rendelet 49. §-a iktatta be.
+[^30]: Az 1. melléklet D) rész 4. pontját a 37/2016. (IX. 1.) BM rendelet 15. §-a hatályon kívül helyezte.
