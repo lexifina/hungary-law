@@ -14,6 +14,8 @@
 
 | 5. | igazgató | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | – | RSZV |
 
+| 5a. | igazgató- helyettes | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | – | RSZV |
+
 | 6. | főosztályvezető | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
 
 | 7. | főosztályvezető- helyettes | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
@@ -26,65 +28,77 @@
 
 | 1. | SZOLGÁLATI BEOSZTÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG | EGYÉB SZAKKÉPZETTSÉG | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
-| 2. | osztályvezető- helyettes | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam+ RSZV |
+| 2. | osztályvezető- helyettes | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | RSZV |
 
-| 3. | ügyeletvezető | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam+ RSZV |
+| 3. | ügyeletvezető I. | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam+ RSZV |
 
-| 4. | kiemelt főreferens | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam+ RSZV |
+| 3a. | ügyeletvezető II. | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | RSZV |
 
-| 5. | kiemelt főelőadó | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 4. | kiemelt főreferens | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam*+ RSZV |
+
+| 5. | kiemelt főelőadó | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | nem szükséges |
 
 | 6. | kiemelt biztonsági főtiszt | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 7. | főmérnök | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 7. | főmérnök | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | nem szükséges |
 
 | 8. | biztonsági főtiszt | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 9. | mérnök | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 9. | mérnök | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | nem szükséges |
 
-| 10. | rajparancsnok | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
+| 10. | rajparancsnok | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | nem szükséges |
 
 ## III. Tiszti besorolási osztályba tartozó szolgálati beosztások képesítési követelményei a nem alapfeladatokat ellátók esetében
 
-|  | A | B | C | D | E |
+|  |  | A | B | C | D | E |
 
-| 1. | SZOLGÁLATI BEOSZTÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG | EGYÉB SZAKKÉPZETTSÉG | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
+|  | 1. | SZOLGÁLATI BEOSZTÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG | EGYÉB SZAKKÉPZETTSÉG | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
-| 2. | kiemelt főreferens | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
+|  | 2. | osztályvezető- helyettes* | szakirányú felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | RSZV |
 
-| 2a. | jogtanácsos | szakirányú felsőfokú végzettség | felsőfokú rendészeti szakképzettség | szolgálati beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
+|  | 3. | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
 
-| 3. | kiemelt főelőadó | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | nem szükséges |
+|  | 4. | kiemelt főreferens* | szakirányú felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | RSZV |
+
+|  | 5. | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
+
+|  | 6. | jogtanácsos | jogi egyetemi végzettség | felsőfokú rendészeti szakképzettség | jogi szakvizsga | RSZV |
+
+|  | 7. | kiemelt főelőadó* | szakirányú felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | nem szükséges |
+
+|  | 8. | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | nem szükséges |
+
+## a) *: A szolgálati beosztáshoz meghatározott képesítési követelmények vonatkozásában a 2. vagy 3., a 4. vagy 5., illetve a 7. vagy 8. sorban foglalt követelményeket kell teljesíteni.
 
 ## IV. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások képesítési követelményei az alapfeladatokat ellátók esetében
 
-|  | A | B | C | D | E |
+|  |  | A | B | C | D | E |
 
-| 1. | SZOLGÁLATI BEOSZTÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG | EGYÉB SZAKKÉPZETTSÉG | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
+|  | 1. | SZOLGÁLATI BEOSZTÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG | EGYÉB SZAKKÉPZETTSÉG | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
-| 2. | csoportvezető | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
+|  | 2. | csoportvezető | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 3. | szolgálat- parancsnok | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | szolgálati beosztásnak megfelelő szakképesítés | nem szükséges |
+|  | 3. | szolgálat- parancsnok | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 4. | szakreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
+|  | 4. | szakreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 5. | szolgálat- parancsnok-helyettes | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | szolgálati beosztásnak megfelelő szakképesítés | nem szükséges |
+|  | 5. | szolgálat-parancsnok- helyettes | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 5a. | ügyeletes | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | szolgálati beosztásnak megfelelő szakképesítés | nem szükséges |
+|  | 6. | ügyeletes | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 6. | főreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
+|  | 7. | főreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 7. | technikus | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | beosztásnak megfelelő szakképesítés | nem szükséges |
+|  | 8. | technikus | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 8. | helyszínbiztosító | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
+|  | 9. | helyszínbiztosító | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 9. | lakásbiztosító | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
+|  | 10. | lakásbiztosító | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 10. | biztonsági gépkocsivezető | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
+|  | 11. | biztonsági gépkocsivezető | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 11. | objektumőr I. | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51861 03) | nem szükséges | nem szükséges |
+|  | 12. | objektumőr I. | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-| 12. | objektumőr II. | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
+|  | 13. | objektumőr II. | középiskolai végzettség, érettségi | rendőr tiszthelyettes szakképesítés (OKJ 54 861 01) | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
 ## V. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások képesítési követelményei a nem alapfeladatokat ellátók esetében
 
@@ -93,6 +107,8 @@
 | 1. | SZOLGÁLATI BEOSZTÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG | EGYÉB SZAKKÉPZETTSÉG | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
 | 2. | szakreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | beosztásnak megfelelő szakképesítés | nem szükséges |
+
+| 2a. | csoportvezető | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | beosztásnak megfelelő szakképesítés | nem szükséges |
 
 | 3. | főreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | beosztásnak megfelelő szakképesítés | nem szükséges |
 
@@ -109,6 +125,26 @@
 ## a) Főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (BA).
 
 ## b) Az informatikai, híradó- és biztonságtechnikai feladatokra rendszeresített kiemelt főreferens, főmérnök, mérnök szolgálati beosztásokban felsőfokú végzettségként kizárólag felsőoktatásban szerzett egyetemi vagy főiskolai villamos-, biztonságtechnikai mérnök, mérnök-informatikus felsőfokú végzettség fogadható el.
+
+## 1.3. Szakirányú felsőfokú végzettség:
+
+## A felsőoktatásban szerezhető képesítések jegyzékéről és az új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendeletben szereplő felsőfokú képzettségek valamelyike
+
+## a) a jogi, igazgatási szakterületen,
+
+## b) az ügyviteli és adatvédelmi szakterületen,
+
+## c) a humánigazgatási (személyügy, munkaügy, szociális és társadalombiztosítási igazgatás) szakterületen,
+
+## d) az oktatási, képzési, nevelési szakterületen,
+
+## e) az informatikai fejlesztés és infrastruktúra szakterületen,
+
+## f) a sajtó és tájékoztatási szakterületen,
+
+## g) a pénzügyi, számviteli szakterületen,
+
+## h) a műszaki-logisztikai fejlesztési, fenntartási és ellátási szakterületen.
 
 ## 2. Felsőfokú rendészeti szakképzettség:
 
@@ -135,6 +171,10 @@
 ## 4.2. Beosztáshoz előírt szaktanfolyam:
 
 ## A szolgálati beosztás ellátásához szükséges ismereteket adó, munkaköri leírásban rögzített rendészeti tárgyú iskolarendszeren kívüli képzés.
+
+## 4.3. Beosztáshoz előírt szaktanfolyam*:
+
+## Az Országgyűlési Őrség Személyvédelmi Igazgatóságon szolgálatot teljesítők esetében a szolgálati beosztás ellátásához szükséges ismereteket adó, munkaköri leírásban rögzített rendészeti tárgyú iskolarendszeren kívüli képzés.
 
 ## 5. Megfeleltetések:
 
@@ -188,7 +228,9 @@
 
 ## j) tűzvédelmi szakmérnök szakképesítés;
 
-## k) főiskolai szintű tűzvédelmi mérnök szak.
+## k) főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+
+## l) tűzvédelmi tervezési szakmérnök.
 
 ## 5. Megfeleltetések:
 
@@ -244,7 +286,7 @@
 
 ## Ha a tűzoltás vezetői jogosultság megszerzése az a) pont szerint történt, akkor a beosztást betöltő személynek a tűzoltás vezetői jogosultság megszerzésétől számított 5 éven belül meg kell szereznie a legalább középszintű (tűzoltó szerparancsnok) szakképesítést. Ha a szakképesítés, szakmai képesítés megszerzésére határidőben nem kerül sor, a beosztást betöltő személy a továbbiakban a tűzoltás, műszaki mentés vezetési jogosultsághoz kötött beosztást nem töltheti be.
 
-3. melléklet az 56/2012. (XI. 22.) BM rendelethez[^248]
+3. melléklet az 56/2012. (XI. 22.) BM rendelethez[^249]
 
 ## Az Országgyűlési Őrségnél idegennyelv-tudási pótlékra jogosító szolgálati beosztások
 
@@ -260,4 +302,4 @@
 
 6. az Országgyűlési Őrség parancsnoka által meghatározott egyéb szolgálati beosztások, ahol az idegen nyelv használata a szolgálat ellátásához szükséges
 
-[^248]: A 3. melléklet a 9/2018. (IV. 25.) BM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^249]: A 3. melléklet a 9/2018. (IV. 25.) BM rendelet 17. § (3) bekezdésével megállapított szöveg.

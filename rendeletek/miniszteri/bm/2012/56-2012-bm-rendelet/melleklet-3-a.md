@@ -1,8 +1,8 @@
-3/A. melléklet az 56/2012. (XI. 22.) BM rendelethez[^249]
+3/A. melléklet az 56/2012. (XI. 22.) BM rendelethez[^250]
 
 ## Az Országgyűlési Őrség őrszolgálati, folyamatos ügyeleti szolgálat ellátására szervezett és készenléti jellegű szolgálati beosztásai
 
-1. Őrszolgálati szolgálati beosztások: az Objektumvédelmi Igazgatóság Objektumvédelmi Főosztály Országház Biztonsági Osztály, Országgyűlés Irodaház és Bázis Őrségi Osztály, valamint Rendezvénybiztosító Osztály
+1.[^251] Őrszolgálati szolgálati beosztások: az Objektumvédelmi Igazgatóság Országház Biztonsági Osztály, Országgyűlés Irodaház és Bázis Őrségi Osztály, valamint Rendezvénybiztosító Osztály
 
 a) objektumőr I.,
 
@@ -14,11 +14,13 @@ d) szolgálatparancsnok-helyettes
 
 szolgálati beosztása.
 
-2. Folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások:
+2.[^252] Folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások:
 
-a) az ügyeletvezető,
+a) az ügyeletvezető I.,
 
-b) az ügyeletes
+b) az ügyeletvezető II.,
+
+c) az ügyeletes
 
 szolgálati beosztás.
 
@@ -38,4 +40,6 @@ szolgálati beosztása,
 
 b) a Személyvédelmi Igazgatóság Személybiztosító Osztály valamennyi szolgálati beosztása, az osztályvezető szolgálati beosztás kivételével.
 
-[^249]: A 3/A. mellékletet a 9/2018. (IV. 25.) BM rendelet 17. § (4) bekezdése iktatta be.
+[^250]: A 3/A. mellékletet a 9/2018. (IV. 25.) BM rendelet 17. § (4) bekezdése iktatta be.
+[^251]: A 3/A. melléklet 1. pont nyitó szövegrésze a 34/2018. (XII. 20.) BM rendelet 6. § c) pontja szerint módosított szöveg.
+[^252]: A 3/A. melléklet 2. pontja a 34/2018. (XII. 20.) BM rendelet 6. § c) pontjával megállapított szöveg.

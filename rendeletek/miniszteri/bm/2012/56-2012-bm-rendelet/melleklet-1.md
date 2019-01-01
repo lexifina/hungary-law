@@ -1,4 +1,4 @@
-1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^246]
+1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^247]
 
 ## Az Országgyűlési Őrség szolgálati beosztásai
 
@@ -6,50 +6,94 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
 
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | kiemelt vezető | központi szerv vezetője | parancsnok | 300 |  |
+| 3. | kiemelt vezető | központi szerv vezetője | parancsnok | 550 |  |
 
-| 4. | központi szerv vezetőjének helyettese | parancsnok-helyettes | 300 | 300 |
+| 4. | kiemelt vezető | központi szerv vezetőjének helyettese | parancsnok-helyettes | 550 | 550 |
 
-| 5. | közép-vezető | szakirányító 1 | igazgató | 300 |  |
+| 5. | középvezető | szakirányító 1 | igazgató | 550 |  |
 
-| 6. | szakirányító 2 | főosztályvezető | 300 | 300 |
+| 6. | középvezető | szakirányító 2 | igazgató-helyettes | 550 |  |
 
-| 7. | beosztott vezető | főosztályvezető-helyettes 1 | főosztályvezető- helyettes | 500 | 400 |
+| 7. | középvezető | szakirányító 2 | főosztályvezető | 550 | 550 |
 
-| 8. | főosztályvezető-helyettes 2 | osztályvezető | 500 | 400 |
+| 8. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes | 550 650* | 550 |
+
+| 9. | beosztott vezető | főosztályvezető- helyettes 2 | osztályvezető | 550 650* | 550 |
 
 II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
-| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | D | osztályvezető-helyettes | 450 |  |
+| 3. | D | osztályvezető-helyettes | 500 650* | 500 |
 
-| 4. | ügyeletvezető | 450 |  |
+| 4. | D | ügyeletvezető I. | 500 |  |
 
-| 5. | kiemelt főreferens | 450 | 350 |
+| 5. | D | ügyeletvezető II. | 450 |  |
 
-| 5a. | jogtanácsos | 450 |  |
+| 6. | D | kiemelt főreferens | 500 600* | 450 |
 
-| 6. | C | kiemelt főelőadó | 450 | 350 |
+| 7. | D | jogtanácsos |  | 550 |
 
-| 7. | kiemelt biztonsági főtiszt | 650 |  |
+| 8. | C | kiemelt főelőadó | 500 | 450 |
 
-| 8. | főmérnök | 450 |  |
+| 9. | C | kiemelt biztonsági főtiszt | 650 |  |
 
-| 9. | B | biztonsági főtiszt | 550 |  |
+| 10. | C | főmérnök | 550 |  |
 
-| 10. | mérnök | 400 |  |
+| 11. | B | biztonsági főtiszt | 550 |  |
 
-| 11. | rajparancsnok | 400 |  |
+| 12. | B | mérnök | 400 |  |
+
+| 13. | B | rajparancsnok | 400 |  |
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^246]: Az 1. melléklet a 34/2015. (VI. 16.) BM rendelet 3. § (1) bekezdésével megállapított, a 47/2016. (XI. 23.) BM rendelet 6. § (1) bekezdése, a 9/2018. (IV. 25.) BM rendelet 17. § (1) bekezdése szerint módosított szöveg.
+|  | A | B | C | D |
+
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | D | csoportvezető | 500 | 500 |
+
+| 4. | D | szolgálatparancsnok | 500 |  |
+
+| 5. | D | szakreferens | 500 | 450 |
+
+| 6. | D | ügyeletes | 450 |  |
+
+| 7. | C | szolgálatparancsnok-helyettes | 450 |  |
+
+| 8. | C | főreferens | 450 | 400 |
+
+| 9. | C | technikus | 450 |  |
+
+| 10. | C | helyszínbiztosító | 600 |  |
+
+| 11. | C | lakásbiztosító | 600 |  |
+
+| 12. | C | biztonsági gépkocsivezető | 650 |  |
+
+| 13. | B | objektumőr I. | 450 |  |
+
+| 14. | B | beosztott tűzoltó I. | 450 |  |
+
+| 15. | A | objektumőr II. | 450 |  |
+
+| 16. | A | beosztott tűzoltó II. | 450 |  |
+
+IV. Megjegyzések
+
+1. 650*: Az Országgyűlési Őrség Személyvédelmi Igazgatóság vezetői beosztást betöltő állomány esetében a hivatásos pótlék mértéke 650%.
+
+2. 600*: Az Országgyűlési Őrség Személyvédelmi Igazgatóságon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 600%.
+
+[^247]: Az 1. melléklet a 34/2018. (XII. 20.) BM rendelet 6. § a) pontjával megállapított szöveg.
