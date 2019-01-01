@@ -6,7 +6,9 @@
 
 3.
 
-4–5.
+4. 116. § (1) bekezdésében a „hitelintézet” szövegrész helyébe a „hitelintézet, továbbá a Felügyelet” szöveg,
+
+5. 116. § (2) bekezdés b) pontjában az „az intézményen” szövegrész helyébe az „a hitelintézeten” szöveg,
 
 6.
 

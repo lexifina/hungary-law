@@ -8,7 +8,7 @@ c)
 
 d)
 
-e)
+e) 53/B. § (1) bekezdésében az „illetve a Bszt.” szövegrész helyébe az „a Tpt., illetve a Bszt.” szöveg,
 
 f)
 

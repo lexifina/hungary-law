@@ -6,7 +6,7 @@
 
 3.
 
-4.
+4. 103. § (4) bekezdésében az „a (2) bekezdés a)–c) pontjában” szövegrész helyébe a „(2) bekezdésében” szöveg,
 
 5.
 
