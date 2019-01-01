@@ -6,7 +6,7 @@
 
 (3) Az (1) és (2) bekezdésben meghatározott pénzügyi tranzakciós illetékfizetési kötelezettséget nem befolyásolja, hogy a fizető fél pénzforgalmi szolgáltatója a fizetési műveletet a fizető fél fizetési számlájának egyenlege vagy a részére biztosított hitelkeret terhére teljesíti.
 
-(4) Az (1) és (2) bekezdéstől eltérően nem keletkeztet pénzügyi tranzakciós illetékfizetési kötelezettséget
+(4) Az (1) és (2) bekezdéstől eltérően nem keletkeztet pénzügyi tranzakciós illetékfizetési kötelezettséget:
 
 a) az (5) bekezdésben foglaltak kivételével az ugyanazon pénzforgalmi szolgáltató által eltérő számlák között végrehajtott fizetési művelet, ha a fizető fél és a kedvezményezett személye megegyezik (ideértve többek között, ha a fizetési műveletre a magánszemély egyéni vállalkozói és magánszemélykénti számlája között kerül sor), vagy ha a terhelendő és a jóváírandó számla tulajdonosainak köre legalább részben azonos,
 
@@ -46,7 +46,11 @@ o) a kincstár által az önkormányzatok forgótőke kezelésére, nettófinans
 
 p) az Észak-atlanti Szerződés tagállamainak és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részes államainak fegyveres erői és polgári állománya – ide nem értve a Magyar Honvédséget – részére vezetett számlán katonai cselekményeivel közvetlen összefüggésben végrehajtott fizetési művelet,
 
-q) a Széchenyi Pihenő Kártyához tartozó korlátozott fizetési számlára történő átutalás.
+q) a Széchenyi Pihenő Kártyához tartozó korlátozott fizetési számlára történő átutalás,
+
+r) a természetes személyek kincstárnál vezetett, állampapír-forgalmazás érdekében igénybe vett ügyfélszámlája és más számlavezetőnél vezetett fizetési számlája között lebonyolított fizetési művelet,
+
+s) az elektronikus fizetési és elszámolási rendszer önkormányzati ASP-rendszer keretében biztosított szolgáltatásaihoz kapcsolódó elszámolási számla terhére megvalósított fizetési művelet.
 
 (5) A (4) bekezdés b)–l) pontjában foglalt kincstári műveletek kivételével pénzügyi tranzakciós illetékfizetési kötelezettséget keletkeztet a kincstári számlavezetés körében
 

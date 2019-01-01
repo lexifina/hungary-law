@@ -2,11 +2,11 @@
 
 6. § (1) A pénzügyi tranzakciós illeték alapja
 
-a) a b)–h) pont szerinti kivétellel az az összeg, amellyel a pénzforgalmi szolgáltató a fizető fél fizetési számláját – a fizető fél saját vagy a kedvezményezett megbízása alapján – megterheli,
+a) a b)–j) pont szerinti kivétellel az az összeg, amellyel a pénzforgalmi szolgáltató a fizető fél fizetési számláját – a fizető fél saját vagy a kedvezményezett megbízása alapján – megterheli,
 
 b) készpénzátutalás esetén az átutalási megbízásban szereplő pénzösszeg,
 
-c) a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés esetén a kedvezményezett pénzforgalmi szolgáltatójának átutalt, ennek hiányában a kedvezményezett részére fizetett összeg,
+c) a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés esetén a kedvezményezett pénzforgalmi szolgáltatójának átutalt, ennek hiányában a kedvezményezett részére megfizetett összeg,
 
 d) kölcsöntörlesztés esetén az az összeg, amellyel a pénzforgalmi szolgáltató az ügyfél fizetési számláját megterheli, illetve amelyet az ügyfél a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézménynek készpénzben megfizet,
 
@@ -16,7 +16,9 @@ f) a pénzváltási tevékenység végzésre jogosult hitelintézet, valamint p�
 
 g) jutalék- és díjbevételek esetén az az összeg, amellyel a pénzforgalmi szolgáltató a fizető fél fizetési számláját megterheli, illetve amelyet a készpénz-helyettesítő fizetési eszközre tekintettel felszámít,
 
-h) a fizető fél által a kedvezményezett útján kezdeményezett fizetés esetén a fizető fél ugyanazon készpénz-helyettesítő fizetési eszközzel lebonyolított előző naptári évi fizetési műveletei.
+h) a fizető fél által a kedvezményezett útján kezdeményezett fizetés esetén a fizető fél ugyanazon készpénz-helyettesítő fizetési eszközzel lebonyolított előző naptári évi fizetési műveletei,
+
+i) magánszemély fizetési számlájáról (kivéve a magánszemély egyéni vállalkozói számlájáról) történő átutalás esetén átutalásonként a 20 ezer forintot meghaladó összeg.
 
 (2) Külföldi pénznemre szóló fizetési megbízás, kölcsöntörlesztés, jutalék és díjbevétel felszámítás és pénzváltási tevékenység esetén az (1) bekezdés szerinti összeget a teljesítési napon érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.
 
