@@ -70,7 +70,7 @@
 
 | 12.2 | Ft/hó/fő | fő | hó | Ft | Ft | Ft |  |  |  |  |
 
-| 12.3 | b | c | d | e=b*c*d | f=e*0,27 | g=e+f |  |  |  |  |
+| 12.3 | b | c | d | e=b*c*d | f=e* a mindenkori szociális hozzájárulási adó mértéke | g=e+f |  |  |  |  |
 
 | 12.4 | 8 000 |  |  | 0 | 0 | 0 |  |  |  |  |
 
@@ -86,7 +86,7 @@
 
 | 13.2 | Ft/hó/fő | fő | hó | Ft | Ft | Ft |  |  |  |  |
 
-| 13.3 | b | c | d | e=b*c*d | f=e*0,27 | g=e+f |  |  |  |  |
+| 13.3 | b | c | d | e=b*c*d | f=e* a mindenkori szociális hozzájárulási adó mértéke | g=e+f |  |  |  |  |
 
 | 13.4 | 8 000 |  |  | 0 | 0 | 0 |  |  |  |  |
 
@@ -152,7 +152,7 @@
 
 |  |  |  | aláírás |  |  |  |  |  |
 
-3. melléklet a 322/2016. (X. 27.) Korm. rendelethez
+3. melléklet a 322/2016. (X. 27.) Korm. rendelethez[^3]
 
 | Szakképzési Hídprogram ösztöndíj és pótlék elszámolása |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -206,7 +206,7 @@
 
 | 11.2 | Ft/hó/fő | félév első napja | félév második hónapjának 15. napja (csak ha d>c) | évfolyamot sikeresen teljesítők/képzést lezáró vizsgákat sikeresen teljesítők száma* | összesen: f=5*c+4*(d-c)+2e, ha d-c>0; f=5*c+2*e, ha d-c<0 vagy d-c=0 | Ft | Ft | Ft | Ft | Ft | Ft | Ft |  |  |
 
-| 11.3 | b | c | d | e | f | g=f*b | h=g*0,27 | i=g+h | j | k | l=j+k | m=l-i |  |  |
+| 11.3 | b | c | d | e | f | g=f*b | h=g* a mindenkori szociális hozzájárulási adó mértéke | i=g+h | j | k | l=j+k | m=l-i |  |  |
 
 | 11.4 | 8 000 |  |  |  |  | 0 | 0 | 0 |  |  | 0 | 0 |  |  |
 
@@ -237,3 +237,5 @@
 |  |  |  |  |  | P.H. |  |  |  |  |  |  |  |  |  |
 
 |  |  |  |  |  |  | aláírás |  |  |  |  |  |  |
+
+[^3]: A 3. melléklet a 307/2018. (XII. 27.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.

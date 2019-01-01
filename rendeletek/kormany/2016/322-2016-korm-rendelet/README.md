@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-322-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-11-04 | 2016-322-20-22.1 | 322/2016. (X. 27.) Korm. rendelet |
+| 2019-01-01 | 2016-322-20-22.2 | 307/2018. (XII. 27.) Korm. rendelet |
