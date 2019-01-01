@@ -32,6 +32,6 @@ e) a munkaviszony napjainak száma.
 
 a) az egyszerűsített foglalkoztatás bejelentését követő két órán belül, vagy
 
-b) ha a bejelentésben foglaltak szerint a foglalkoztatás a bejelentés napját követő napon kezdődött, vagy ha a bejelentés egy napnál hosszabb időtartamú munkaviszonyra vonatkozott, a módosítás bejelentés napján délelőtt 8 óráig
+b) ha a bejelentésben foglaltak szerint a foglalkoztatás a bejelentés napját követő napon kezdődött, vagy ha a bejelentés egy napnál hosszabb időtartamú munkaviszonyra vonatkozott, a módosítás bejelentés napján délelőtt 9 óráig
 
 van lehetőség, ezt követően a munkáltató a közteher-fizetési kötelezettségének köteles eleget tenni. A bejelentés módosítására az (1) bekezdésben foglaltak szerint kerülhet sor, függetlenül attól, hogy bejelentési kötelezettségének eredetileg a munkáltató melyik módon tett eleget.
