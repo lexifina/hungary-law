@@ -10,7 +10,7 @@ c) a vízpolitika terén a közösségi fellépés kereteinek meghatározásár�
 
 való megfelelést szolgálja.
 
-(3)[^20] E rendelet a 2008/105/EK európai parlamenti és tanácsi irányelv alapján a vízpolitika keretében uniós szintű monitoring alá helyezendő anyagok megfigyelési listájának összeállításáról szóló 2015. március 20-i 2015/495/EU bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+(3)[^20] E rendelet a vízpolitika területén uniós szintű monitoring alá helyezendő anyagok megfigyelési listájának a 2008/105/EK európai parlamenti és tanácsi irányelv alapján történő összeállításáról és az (EU) 2015/495 bizottsági végrehajtási határozat hatályon kívül helyezéséről szóló 2018. június 5-i (EU) 2018/840 bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^19]: A 11. § (2) bekezdése a 49/2015. (IX. 8.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^20]: A 11. § (3) bekezdését a 49/2015. (IX. 8.) BM rendelet 4. § (2) bekezdése iktatta be.
+[^20]: A 11. § (3) bekezdését a 49/2015. (IX. 8.) BM rendelet 4. § (2) bekezdése iktatta be, szövege a 36/2018. (XII. 21.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.

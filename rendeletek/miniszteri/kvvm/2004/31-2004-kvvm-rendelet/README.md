@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-31-20-0
 | 2015-01-01 | 2004-31-20-0N.6 | 72/2014. (XII. 22.) BM rendelet |
 | 2015-04-01 | 2004-31-20-0N.7 | 11/2015. (III. 31.) BM rendelet |
 | 2015-09-15 | 2004-31-20-0N.8 | 49/2015. (IX. 8.) BM rendelet |
+| 2019-01-01 | 2004-31-20-0N.9 | 49/2015. (IX. 8.) BM rendelet |

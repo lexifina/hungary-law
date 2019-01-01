@@ -18,11 +18,11 @@ c) a külön jogszabályban meghatározott védett területek monitorozása eset
 
 (5)[^10] Az (1)–(4) bekezdésben meghatározott követelmények teljesülnek a 7. számú melléklet szerinti szabványok alkalmazásával.
 
-(6)[^11] Az Európai Unió valamennyi vízgyűjtő kerületére vonatkozóan új, magas szintű és egységes monitoring információkkal ellátó mechanizmust – a megfigyelési listán szereplő anyagok monitorozását – kell működtetni a lehetséges kockázatok feltérképezése céljából. A mechanizmusnak egy megfigyelési listán ideiglenesen feltüntetett, korlátozott számú anyagra és korlátozott számú monitoring helyszínre kell vonatkoznia, ugyanakkor reprezentatív adatokat kell szolgáltatnia, amelyek megfelelnek az elsőbbségi anyagok uniós meghatározási folyamatának céljára. A 8. mellékletben lévő megfigyelési listán szereplő minden egyes anyagot legalább 12 hónapon át a 9. mellékletben kijelölt mintavételi helyeken kell monitorozni. Az első megfigyelési lista esetében a megfigyelési időszak 2015. szeptember 14-én kezdődik. A monitoringot évente kétszer, a téli és a nyári időszakban kell végezni.
+(6)[^11] Az Európai Unió valamennyi vízgyűjtő kerületére vonatkozóan új, magas szintű és egységes monitoring információkkal ellátó mechanizmust – a megfigyelési listán szereplő anyagok monitorozását – kell működtetni a lehetséges kockázatok feltérképezése céljából. A mechanizmusnak egy megfigyelési listán ideiglenesen feltüntetett, korlátozott számú anyagra és korlátozott számú monitoring helyszínre kell vonatkoznia, ugyanakkor reprezentatív adatokat kell szolgáltatnia, amelyek megfelelnek az elsőbbségi anyagok uniós meghatározási folyamatának céljára. A 8. mellékletben lévő megfigyelési listán szereplő minden egyes anyagot legalább 12 hónapon át a 9. mellékletben kijelölt mintavételi helyeken kell monitorozni. A monitoringot évente kétszer, a téli és a nyári időszakban kell végezni.
 
 [^6]: A 6. § a 49/2015. (IX. 8.) BM rendelet 10. §-a szerint módosított szöveg.
 [^7]: 221/2004. (VII. 21.) Korm. r. 7. § (1)–(4) bek.
 [^8]: 221/2004. (VII. 21.) Korm. r. 8–10. §.
 [^9]: A 7. § (4) bekezdése a 34/2008. (XII. 31.) KvVM rendelet 2. §-ával megállapított szöveg.
 [^10]: A 7. § (5) bekezdését a 34/2008. (XII. 31.) KvVM rendelet 2. §-a iktatta be.
-[^11]: A 7. § (6) bekezdését a 49/2015. (IX. 8.) BM rendelet 3. §-a iktatta be.
+[^11]: A 7. § (6) bekezdését a 49/2015. (IX. 8.) BM rendelet 3. §-a iktatta be, szövege a 36/2018. (XII. 21.) BM rendelet 3. § (3) bekezdése szerint módosított szöveg.
