@@ -1,0 +1,3 @@
+9. § A Hvt. 12. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A honvédelmi munkakötelezettség nem terjed ki a Honvédség tényleges állományú tagjaira, honvédelmi alkalmazottaira, közalkalmazottaira és munkavállalóira, a honvédelemért felelős miniszter által vezetett minisztérium kormánytisztviselőire, kormányzati ügykezelőire, a rendvédelmi szervek hivatásos állományú tagjaira, kormánytisztviselőire, köztisztviselőire és közalkalmazottaira, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjaira, valamint az Országgyűlési Őrség hivatásos állományú tagjaira, köztisztviselőire és munkavállalóira.”

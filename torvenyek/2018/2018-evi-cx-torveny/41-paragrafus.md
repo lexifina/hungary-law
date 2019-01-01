@@ -1,0 +1,5 @@
+41. § A Hvt. 54/C. §-a helyébe a következő rendelkezés lép:
+
+„54/C. § (1) A katonai rendész feladatait önállóan vagy a rendőrséggel, illetve a KNBSZ kijelölt állományával, a katonai ügyésszel vagy a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyésszel együttműködésben teljesíti.
+
+(2) A katonai rendészet erőit a KNBSZ főigazgatójának kezdeményezésére a Magyar Honvédség parancsnoka kirendelheti az 54/A. § (2) bekezdés d), e), f), és g) pontjai szerinti feladatok ellátására, amennyiben a KNBSZ által ellátott nemzetbiztonsági védelem alá eső személyek biztonságának szavatolása érdekében ez szükséges. A KNBSZ főigazgatójának kezdeményezésére történt kirendelés esetén a katonai rendészet a feladatait a KNBSZ kijelölt állományával együttműködve látja el.”
