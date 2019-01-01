@@ -1,8 +1,8 @@
 29. § Felhatalmazást kap
 
-a) az egészségügyért felelős miniszter és a miniszter arra, hogy állapítsa meg a felügyelők egészségi és fizikai alkalmassági követelményeit;
+a) az egészségügyért felelős miniszter és a közterület-felügyelet szabályozásáért felelős miniszter arra, hogy állapítsa meg a felügyelők egészségi és fizikai alkalmassági követelményeit;
 
-b) a miniszter, hogy rendeletben szabályozza
+b) a közterület-felügyelet szabályozásáért felelős miniszter, hogy rendeletben szabályozza
 
 ba) a kerékbilincs alkalmazásával, a járművek elszállításával, valamint az ezen intézkedések során felmerült költségekkel kapcsolatos szabályokat;
 

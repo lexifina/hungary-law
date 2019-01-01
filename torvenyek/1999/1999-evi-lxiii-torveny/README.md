@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-63-00-00
 | 2016-11-26 | 2016. évi CXVI. törvény | 1999-63-00-00.16 |
 | 2018-01-01 | 2017. évi L. törvény | 1999-63-00-00.17 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1999-63-00-00.18 |
+| 2019-01-01 | 2018. évi CXXI. törvény | 1999-63-00-00.19 |
