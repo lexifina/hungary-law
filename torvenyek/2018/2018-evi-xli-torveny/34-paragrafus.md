@@ -1,1 +1,1 @@
-### 34. §
+34. § Az Ekho tv. 7. §-ában az „a Tbj.” szövegrész helyébe az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) rendelkezései” szöveg lép.

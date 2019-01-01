@@ -1,1 +1,3 @@
-### 152. §
+152. § A Tbj. 15. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Baleseti ellátásra, baleseti hozzátartozói nyugellátásra jogosult a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvényben (a továbbiakban: Tny. tv.) és a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben (a továbbiakban: Eb. tv.) meghatározottak szerint – a biztosítottakon túl – az, aki saját jogú nyugdíjasként az 5. § (1) bekezdés a), b), g) pontjában (ide nem értve az Mt. szerint munkaviszonyban álló saját jogú nyugdíjasnak minősülő személyt), valamint a (2) bekezdésében meghatározott jogviszonyban áll.”

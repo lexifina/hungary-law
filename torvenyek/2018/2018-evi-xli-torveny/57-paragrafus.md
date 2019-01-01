@@ -1,3 +1,5 @@
+## „a) a Kkv. tv. szerint mikro- vagy kisvállalkozásnak minősülő gazdasági társaság,”
+
 ## II. Fejezet
 
 ## A KÖZVETETT ADÓZÁST ÉRINTŐ TÖRVÉNYEK MÓDOSÍTÁSA

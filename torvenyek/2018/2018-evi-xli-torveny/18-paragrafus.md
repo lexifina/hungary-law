@@ -1,10 +1,10 @@
 18. § Hatályát veszti az Szja tv.
 
-1.
+1. 3. § 64. pontja,
 
 2.
 
-3.
+3. 13. § a) pontja,
 
 4.
 
@@ -14,29 +14,29 @@
 
 7.
 
-8.
+8. 71. § (6) bekezdés,
 
-9.
+9. 89. § (6) bekezdés,
 
 10.
 
 11.
 
-12.
+12. 1. számú melléklet 2. pont 2.7. alpontja,
 
-13.
+13. 1. számú melléklet 2. pont 2.11. alpontja,
 
-14.
+14. 1. számú melléklet 6. pont 6.3. alpontja,
 
-15.
+15. 1. számú melléklet 7. pont 7.38. alpont b) pontja,
 
 16.
 
 17.
 
-18.
+18. 1. számú melléklet 9. pont 9.3. alpontja,
 
-19.
+19. 1. számú melléklet 9. pont 9.7. alpontja,
 
 20.
 

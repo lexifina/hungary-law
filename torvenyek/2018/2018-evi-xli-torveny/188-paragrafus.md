@@ -2,6 +2,6 @@
 
 1.
 
-2.
+2. 268. § (1) bekezdés 15. pontjában a „valamint” szövegrész,
 
-3.
+3. 269. § (3) bekezdése.
