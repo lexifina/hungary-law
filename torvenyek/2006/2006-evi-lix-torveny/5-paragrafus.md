@@ -2,8 +2,8 @@
 
 5. § (1)
 
-(2) A 4/A. § alapján megállapított és bevallott különadót az adózás előtti eredmény terhére kell elszámolni, azzal, hogy a felügyeleti adatszolgáltatás céljából évközi főkönyvi zárásra és főkönyvi kivonat készítésére kötelezett pénzügyi szervezetnek az éves különadót időarányosan kell az évközi eredményben bemutatnia. A 4/B. § alapján megállapított és bevallott hitelintézeti különadó üzleti évre (adóévre) fizetett (fizetendő) összegét a társasági adó számviteli elszámolására vonatkozó szabályok szerint kell kimutatni. A hitelintézet által az adóévre (üzleti évre) fizetendő társasági adó alapjának megállapításánál az adózás előtti eredményt csökkenti a hitelintézetek különadója adóévre (üzleti évre) fizetett (fizetendő) összege.
+(2) A 4/A. § alapján megállapított és bevallott különadót a számviteli törvény III. Fejezete szerinti beszámolót készítő pénzügyi szervezetnek az adózás előtti eredmény terhére kell elszámolni.
 
-(3)
+(3) A felügyeleti adatszolgáltatás céljából évközi főkönyvi zárásra és főkönyvi kivonat készítésére kötelezett, az éves beszámolóját a számviteli törvény III. Fejezete szerint összeállító pénzügyi szervezetnek a 4/A. § alapján megállapított és bevallott éves különadót időarányosan kell az évközi eredményben bemutatnia.
 
 (4)

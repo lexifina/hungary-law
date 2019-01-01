@@ -1,6 +1,6 @@
 ## Általános rendelkezések
 
-1. § (1) A 4/A. §-ban, 4/B. §-ban és a 4/D. §-ban meghatározott személy különadó fizetésére kötelezett.
+1. § (1) A 4/A. §-ban és a 4/D. §-ban meghatározott személy különadó fizetésére kötelezett.
 
 (2) A különadóból származó bevétel a központi költségvetést illeti meg.
 

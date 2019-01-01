@@ -12,11 +12,11 @@
 
 5–6.
 
-7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, befektetési vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő;
+7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő;
 
 8. pénzügyi vállalkozás: a Hpt. szerinti pénzügyi vállalkozás, ide nem értve a Tanács 1083/2006/EK rendeletének 44. cikk b) pont (ii) alpontja alapján felmerülő feladatok ellátására létrejött pénzügyi vállalkozást, továbbá a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást;
 
-9. befektetési vállalkozás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény (Bszt.) szerinti befektetési vállalkozás;
+9.
 
 10. tőzsde: a tőkepiacról szóló törvény (a továbbiakban: Tpt.) szerinti tőzsde;
 
@@ -66,7 +66,7 @@ m) ha a j) pont szerinti nyilatkozat az eszközök értékét devizában tartalm
 
 n) a j) pont szerinti nyilatkozat hibájából eredő adóhiány és az ahhoz kapcsolódó minden jogkövetkezmény az adóalanyt terheli;
 
-15. mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege;
+15. mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege, illetve az IFRS-ek alapján meghatározott, ennek megfeleltethető összeg;
 
 16. értékpapírszámla: a Tpt. szerinti értékpapírszámla;
 
@@ -76,7 +76,7 @@ n) a j) pont szerinti nyilatkozat hibájából eredő adóhiány és az ahhoz ka
 
 19. korrigált nettó árbevétel:
 
-a) befektetési vállalkozásoknál: a befektetési szolgáltatási tevékenység bevételei csökkentve a befektetési szolgáltatási tevékenység ráfordításaival;
+a)
 
 b) tőzsdénél: a tőzsdei tevékenység bevételei növelve a számvitelről szóló 2000. évi C. törvény 77. § (3) bekezdés k)–o) pontjai hatálya alá tartozó egyéb bevételeken kívüli egyéb bevételekkel;
 

@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-59-00-00
 | 2017-08-01 | 2017. évi LXXVII. törvény | 2006-59-00-00.27 |
 | 2017-11-24 | 2017. évi CLXIII. törvény | 2006-59-00-00.28 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 2006-59-00-00.29 |
+| 2019-01-01 | 2018. évi XLI. törvény | 2006-59-00-00.30 |
