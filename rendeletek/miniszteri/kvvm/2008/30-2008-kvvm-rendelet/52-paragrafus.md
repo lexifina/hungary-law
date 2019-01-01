@@ -6,6 +6,6 @@
 
 (3) A beavatkozások tervezése során törekedni kell a meder és a parti sáv természetközeli állapotának kialakítására, majd ennek fenntartására.
 
-(4)[^13] Nagyvizek levezetésével kapcsolatos beavatkozások tervezése során törekedni kell árvízcsúcs-csökkentő tározók és záportározók létesítésére, és az időszakosan vízjárta területek vízvisszatartásba történő bekapcsolása lehetőségének biztosítására.
+(4)[^20] Nagyvizek levezetésével kapcsolatos beavatkozások tervezése során törekedni kell árvízcsúcs-csökkentő tározók és záportározók létesítésére, és az időszakosan vízjárta területek vízvisszatartásba történő bekapcsolása lehetőségének biztosítására.
 
-[^13]: Az 52. § (4) bekezdését a 80/2011. (VIII. 3.) VM rendelet 8. §-a iktatta be.
+[^20]: Az 52. § (4) bekezdését a 80/2011. (VIII. 3.) VM rendelet 8. §-a iktatta be.

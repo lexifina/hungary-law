@@ -1,6 +1,6 @@
 ## Öntözés
 
-69. §[^15] (1) Az öntözés céljából történő vízkivételek során a kivett víz mennyiségét meg kell határozni vízbeszerzési létesítményként
+69. §[^23] (1)[^24] Az öntözés céljából történő vízkivételek során a kivett víz mennyiségét meg kell határozni vízbeszerzési létesítményenként
 
 a) folyamatosan mérő hitelesített vízmérővel,
 
@@ -12,4 +12,5 @@ c) felszíni vízkivétel esetén hiteles vagy kalibrált vízállásmérővel v
 
 (3) Ha a mérés műszaki szempontból és méréstechnikailag nem megoldható, akkor a vízkészletjárulék kiszámításáról szóló miniszteri rendeletben meghatározott számítást kell alkalmazni.
 
-[^15]: A 69. § a 34/2016. (VIII. 2.) BM rendelet 12. §-ával megállapított szöveg.
+[^23]: A 69. § a 34/2016. (VIII. 2.) BM rendelet 12. §-ával megállapított szöveg.
+[^24]: A 69. § (1) bekezdés nyitó szövegrésze a 36/2018. (XII. 21.) BM rendelet 4. § (7) bekezdés g) pontja szerint módosított szöveg.

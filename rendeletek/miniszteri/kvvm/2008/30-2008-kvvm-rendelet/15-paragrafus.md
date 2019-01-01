@@ -6,6 +6,6 @@
 
 (4) A szennyvízelvezető rendszer és -tisztító telep üzemeltetőjének a legfontosabb gépészeti berendezések hideg tartalékával, valamint tartalék áramforrással kell rendelkeznie, amelyek teljesítményének elegendőnek kell lennie a folyamatos és biztonságos üzemeltetéshez.
 
-(5)[^3] Olyan használt termálvizet, amelynek hatására a közcsatorna falán vízkő válhat ki, tilos közvetlenül a közcsatornába vezetni.
+(5)[^4] Olyan használt termálvizet, amelynek hatására a közcsatorna falán vízkő válhat ki, tilos közvetlenül a közcsatornába vezetni.
 
-[^3]: A 15. § (5) bekezdését a 80/2011. (VIII. 3.) VM rendelet 5. §-a iktatta be.
+[^4]: A 15. § (5) bekezdését a 80/2011. (VIII. 3.) VM rendelet 5. §-a iktatta be.

@@ -2,6 +2,6 @@
 
 (2) Az útfeljárót – a keresztező út jellegének figyelembevételével – a vonatkozó előírásoknak megfelelően kell kialakítani.
 
-(3)[^11] Az elsőrendű árvízvédelmi vonalat a közforgalomtól sorompóval el kell zárni, ha azon egyébként nincs kijelölt közforgalmú út.
+(3)[^17] Az árvízvédelmi töltéseken való közlekedés szabályozására, ha azon egyébként nincs kijelölt közforgalmú út, a helyi viszonyoknak megfelelő közlekedést szabályozó töltéstartozékokat, így sorompókat, kerékvetőket és tiltó táblákat kell elhelyezni. A közforgalmú útnak nem minősülő töltések használata az árvízvédelmi töltés fenntartója által szabályozottan történhet.
 
-[^11]: A 35. § (3) bekezdése a 80/2011. (VIII. 3.) VM rendelet 7. §-ával megállapított szöveg.
+[^17]: A 35. § (3) bekezdése a 36/2018. (XII. 21.) BM rendelet 4. § (4) bekezdésével megállapított szöveg.
