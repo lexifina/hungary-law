@@ -2,6 +2,12 @@
 
 41/B. § (1) A Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: Hivatal) kérelemre – a felhasználás módjához és mértékéhez igazodó díj megállapítása mellett – engedélyt ad az árva mű felhasználására. A felhasználási engedély legfeljebb öt évre szól, Magyarország területére terjed ki, nem kizárólagos, nem átruházható, további felhasználási engedély adására és a mű átdolgozására (29. §) nem jogosít.
 
+(1a) Ha az (1) bekezdés szerinti kérelmet az épület mint építészeti alkotás tulajdonosa terjeszti elő,
+
+a) az engedély az építészeti alkotás átdolgozására (29. §) is kiterjedhet,
+
+b) az engedély kérelemre indokolt esetben egy alkalommal az eredeti engedély időtartamával, de legfeljebb öt évvel meghosszabbítható.
+
 (2) Az (1) bekezdésben említett díjat a jogosult személyének vagy tartózkodási helyének ismertté válását követően kell megfizetni, ha a felhasználás jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja. Ha a felhasználás közvetve vagy közvetlenül jövedelemszerzés vagy jövedelemfokozás célját szolgálja, a díjat a Hivatalnál letétbe kell helyezni. A díj letétbe helyezése a felhasználás megkezdésének feltétele.
 
 (3) Ha a jogosult személye vagy tartózkodási helye a felhasználási engedély hatálya alatt ismertté válik, a Hivatal a jogosult, illetve a felhasználó kérelmére a felhasználási engedélyt a jogosult személye vagy tartózkodási helye ismertté válásának napjával kezdődő hatállyal visszavonja azzal, hogy a felhasználás a jogosult személye vagy tartózkodási helye ismertté válásának napján meglévő mértékig, az engedély alapján még hátralévő időtartamig, de legfeljebb a jogosult személye vagy tartózkodási helye ismertté válásának napjától egy évig folytatható.

@@ -8,7 +8,7 @@
 
 (2) A jogosultkutatás során legalább az árva mű felhasználásával kapcsolatos részletes szabályokról szóló kormányrendeletben – az érintett mű vagy teljesítmény típusa szerint – meghatározott információforrásokat igénybe kell venni.
 
-(3) A jogosultkutatást abban az országban kell elvégezni, amelyben a művet vagy teljesítményt először kiadták vagy – kiadás hiányában – először sugározták.
+(3) A jogosultkutatást abban az országban kell elvégezni, amelyben a művet vagy teljesítményt először nyilvánosságra hozták.
 
 (4) A (3) bekezdéstől eltérően, a filmalkotással vagy más audiovizuális művel kapcsolatos jogosultkutatást az előállító székhelye vagy szokásos tartózkodási helye szerinti országban kell elvégezni.
 
