@@ -1,19 +1,23 @@
-## 20. §[^33] A hozzájárulás folyósítását meg kell szüntetni, ha az abban részesített személy a részére időközben felajánlott szállóférőhelyet vagy a méltányolható lakásigény mértékének megfelelő BM rendelkezésű lakást, legalább két esetben, alapos indok nélkül nem fogadja el.
+## 20. §[^35]
 
 ## Záró rendelkezések
 
-21. §[^34] (1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+21. §[^36] (1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
 (2) E rendelet nem érinti a hatálybalépése előtt megkötött megállapodásokban foglaltakat.
 
-(3)[^35] A Bűnügyi Szakértői és Kutatóintézetnél 2014. március 1. napján igazságügyi alkalmazotti szolgálati jogviszonyban továbbfoglalkoztatott, 2014. február 28. napján szállóférőhely használati jogosultsággal rendelkező vagy bérleti, albérleti hozzájárulásban részesülő közalkalmazottak szállóférőhely használatai jogosultságát, bérleti, albérleti hozzájárulását a foglalkoztatási jogviszony jellegének megváltozása nem érinti.
+(3)[^37] A Bűnügyi Szakértői és Kutatóintézetnél 2014. március 1. napján igazságügyi alkalmazotti szolgálati jogviszonyban továbbfoglalkoztatott, 2014. február 28. napján szállóférőhely használati jogosultsággal rendelkező vagy bérleti, albérleti hozzájárulásban részesülő közalkalmazottak szállóférőhely használatai jogosultságát, bérleti, albérleti hozzájárulását a foglalkoztatási jogviszony jellegének megváltozása nem érinti.
 
-(4)[^36] A Nemzeti Közszolgálati Egyetem azon dolgozóit – ideértve a kirendelt és vezényelt állományt is –, akik 2011. december 31-én a Rendőrtiszti Főiskolával szolgálati jogviszonyban álltak, jogviszonyuk megszűnéséig e rendelet alkalmazásában belügyi szolgálati jogviszonyban állónak kell tekinteni.
+(4)[^38] A Nemzeti Közszolgálati Egyetem azon dolgozóit – ideértve a kirendelt és vezényelt állományt is –, akik 2011. december 31-én a Rendőrtiszti Főiskolával szolgálati jogviszonyban álltak, jogviszonyuk megszűnéséig e rendelet alkalmazásában belügyi szolgálati jogviszonyban állónak kell tekinteni.
 
-(5)[^37] A Nemzeti Szakértői és Kutató Központnál 2017. január 1-jével továbbfoglalkoztatott, 2016. december 31. napján szállóférőhely használati jogosultsággal rendelkező vagy bérleti, albérleti hozzájárulásban részesülő szállóférőhely használati jogosultságát, bérleti, albérleti hozzájárulását a foglalkoztatási jogviszony jellegének megváltozása nem érinti.
+(5)[^39] A Nemzeti Szakértői és Kutató Központnál 2017. január 1-jével továbbfoglalkoztatott, 2016. december 31. napján szállóférőhely használati jogosultsággal rendelkező vagy bérleti, albérleti hozzájárulásban részesülő szállóférőhely használati jogosultságát, bérleti, albérleti hozzájárulását a foglalkoztatási jogviszony jellegének megváltozása nem érinti.
 
-[^33]: A 20. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta a szövegbe, e módosító rendelet 10. §-ának (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^34]: A 14. § eredeti számozását a 31/2003. (VII. 18.) BM rendelet 6. §-a 21. §-ra változtatta.
-[^35]: A 21. § (3) bekezdését a 42/2012. (VIII. 23.) BM rendelet 8. § c) pontja hatályon kívül helyezte, újonnan a 16/2014. (II. 28.) BM rendelet 9. §-a iktatta be.
-[^36]: A 21. § (4) bekezdését a 42/2012. (VIII. 23.) BM rendelet 7. §-a iktatta be, szövege a 81/2012. (XII. 28.) BM rendelet 11. §-a szerint módosított szöveg.
-[^37]: A 21. § (5) bekezdését az 58/2016. (XII. 22.) BM rendelet 9. § (1) bekezdése iktatta be.
+(6)[^40] A rendeletnek az egyes lakhatási támogatásokkal, valamint egyéb belügyi feladatokkal kapcsolatos miniszteri rendeletek módosításáról szóló 31/2018. (XII. 19.) BM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésének időpontjában[^41] folyamatban lévő eljárásokban és megismételt eljárásokban is alkalmazni kell.
+
+[^35]: A 20. §-t a 31/2003. (VII. 18.) BM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 31/2018. (XII. 19.) BM rendelet 8. §-a.
+[^36]: A 14. § eredeti számozását a 31/2003. (VII. 18.) BM rendelet 6. §-a 21. §-ra változtatta.
+[^37]: A 21. § (3) bekezdését a 42/2012. (VIII. 23.) BM rendelet 8. § c) pontja hatályon kívül helyezte, újonnan a 16/2014. (II. 28.) BM rendelet 9. §-a iktatta be.
+[^38]: A 21. § (4) bekezdését a 42/2012. (VIII. 23.) BM rendelet 7. §-a iktatta be, szövege a 81/2012. (XII. 28.) BM rendelet 11. §-a szerint módosított szöveg.
+[^39]: A 21. § (5) bekezdését az 58/2016. (XII. 22.) BM rendelet 9. § (1) bekezdése iktatta be.
+[^40]: A 21. § (6) bekezdését a 31/2018. (XII. 19.) BM rendelet 6. §-a iktatta be.
+[^41]: A hatálybalépés időpontja 2019. január 1.

@@ -1,6 +1,6 @@
 ## Bérleti, albérleti hozzájárulás
 
-13. § (1)[^19] A belügyi szervvel szolgálati jogviszonyban álló személy bérleti, albérleti, illetve operatív lízing díj hozzájárulásban részesíthető.
+13. § (1)[^19] A belügyi szervvel szolgálati jogviszonyban álló személy (a továbbiakban: dolgozó) bérleti, albérleti, illetve operatív lízing díj hozzájárulásban részesíthető.
 
 (2)[^20] A hozzájárulás nyújtható
 
@@ -20,7 +20,7 @@ d)[^21] kivételes szolgálati érdek fennállása esetén a BM rendelkezésű l
 
 (6)[^24] A hozzájárulás egy évig folyósítható. Az egy éves időtartam lejártát követően a támogatás iránti kérelem – a feltételek fennállásának igazolásával – ismételten benyújtható.
 
-[^19]: A 13. § (1) bekezdése a 42/2012. (VIII. 23.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^19]: A 13. § (1) bekezdése a 42/2012. (VIII. 23.) BM rendelet 5. § (1) bekezdésével megállapított, a 31/2018. (XII. 19.) BM rendelet 7. §-a szerint módosított szöveg.
 [^20]: A 13. § (2) bekezdése a 42/2012. (VIII. 23.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^21]: A 13. § (2) bekezdés d) pontját a 75/2012. (XII. 18.) BM rendelet 1. §-a iktatta be.
 [^22]: A 13. § (4) bekezdése a 42/2012. (VIII. 23.) BM rendelet 5. § (2) bekezdésével megállapított, az 58/2016. (XII. 22.) BM rendelet 9. § (2) bekezdése szerint módosított szöveg.
