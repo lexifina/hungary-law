@@ -1,4 +1,4 @@
-2. melléklet a 92/2010. (III. 31.) Korm. rendelethez[^62]
+2. melléklet a 92/2010. (III. 31.) Korm. rendelethez[^73]
 
 Az NBF elnöke az egyszerűsített telephely biztonsági tanúsítvány kiadásához a Cég-adatlapot az alábbi adattartalommal rendszeresíti:
 
@@ -20,7 +20,7 @@ Az NBF elnöke az egyszerűsített telephely biztonsági tanúsítvány kiadás�
 
 1.8. az alapító tagok
 
-1.9. a gazdálkodó szervezet jelenlegi tulajdonosainak megnevezése
+1.9.[^74] a gazdálkodó szervezet legalább öt százalékot meghaladó vagyoni hozzájárulással rendelkező tagjának, alapítójának, részvényesének természetes személyazonosító adatai
 
 1.10. a gazdálkodó szervezet érdekeltsége más cégekben
 
@@ -40,7 +40,7 @@ Az NBF elnöke az egyszerűsített telephely biztonsági tanúsítvány kiadás�
 
 2.1. a gazdálkodó szervezet vezetőjének természetes személyazonosító adatai
 
-2.2. a vezetőtestület tagjainak természetes személyazonosító adatai
+2.2.[^75] az ügyvezetést ellátó személyek természetes személyazonosító adatai
 
 2.2. a felügyelőbizottság tagjainak megnevezése
 
@@ -60,4 +60,6 @@ a gazdálkodó szervezet minősített szerződésben történő részvétele
 
 5. NYILATKOZATOK
 
-[^62]: A 2. mellékletet a 224/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^73]: A 2. mellékletet a 224/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^74]: A 2. melléklet 1. pont 1.9. alpontja a 323/2018. (XII. 28.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^75]: A 2. melléklet 2. pont 2.2. alpontja a 323/2018. (XII. 28.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.

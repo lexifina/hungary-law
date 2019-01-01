@@ -4,13 +4,15 @@ a) a gazdálkodó szervezet a 7. § (2) bekezdés a), b) és d) pontja, valamint
 
 b) a gazdálkodó szervezet vezetője kötelezi magát arra, hogy végrehajtási szerződést csak olyan gazdálkodó szervezettel köt, amely a 10/A. § (1) bekezdésében meghatározott érvényes telephely biztonsági tanúsítvánnyal rendelkezik,
 
-c) a biztonsági vezető intézkedik a 10/A. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvány kiállítását követő minden ötödik évben a kiállítás hónapjának utolsó napjáig az ismételten kitöltött Cég-adatlap NBF részére történő megküldéséről, amely alapján az NBF elnökének megkeresésére a nemzetbiztonsági szolgálat elvégzi a gazdálkodó szervezet újbóli cégellenőrzését.
+c) a biztonsági vezető intézkedik a 10/A. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvány kiállítását követő minden ötödik évben a kiállítás hónapjának utolsó napjáig az ismételten kitöltött Cég-adatlap NBF részére történő megküldéséről, amely alapján az NBF elnökének megkeresésére a nemzetbiztonsági szolgálat elvégzi a gazdálkodó szervezet újbóli cégellenőrzését,
+
+d)[^48] azon gazdálkodó szervezet esetén, amelynek alapítása és a Cég-adatlap benyújtása között nem telt el legalább két év, a biztonsági vezető intézkedik a 10/A. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvány kiállítását követő második évben a kiállítás hónapjának utolsó napjáig – ezt követően a c) pontban meghatározottak szerint – az ismételten kitöltött Cég-adatlap NBF részére történő megküldéséről, amely alapján az NBF elnökének megkeresésére a nemzetbiztonsági szolgálat elvégzi a gazdálkodó szervezet újbóli cégellenőrzését.
 
 (2) A 10/A. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet az (1) bekezdés c) pontja szerinti kötelezettségének, ha
 
-a) telephely biztonsági tanúsítvánnyal is rendelkezik, akkor a 7. § (1) bekezdés g) pontjában,
+a)[^49] telephely biztonsági tanúsítvánnyal is rendelkezik, akkor a 7. § (1) bekezdés g) és h) pontjában,
 
-b) egyszerűsített telephely biztonsági tanúsítvánnyal is rendelkezik, akkor a 7. § (2) bekezdés e) pontjában
+b)[^50] egyszerűsített telephely biztonsági tanúsítvánnyal is rendelkezik, akkor a 7. § (2) bekezdés e) és f) pontjában
 
 foglaltak teljesítésével tesz eleget.
 
@@ -28,4 +30,9 @@ c) a cégellenőrzésről készült szakvélemény kockázati tényezőt tartalm
 
 d) a 7. § (3) bekezdés a) pontja szerinti bejelentési kötelezettségének a gazdálkodó szervezet biztonsági vezetője nem tesz eleget vagy
 
-e) a gazdálkodó szervezet (1) bekezdés c) pontja szerint kezdeményezett cégellenőrzése nem történt meg.
+e)[^51] a gazdálkodó szervezet (1) bekezdés c) és d) pontja szerint kezdeményezett cégellenőrzése nem történt meg.
+
+[^48]: A 10/B. § (1) bekezdés d) pontját a 323/2018. (XII. 28.) Korm. rendelet 7. §-a iktatta be.
+[^49]: A 10/B. § (2) bekezdés a) pontja a 323/2018. (XII. 28.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^50]: A 10/B. § (2) bekezdés b) pontja a 323/2018. (XII. 28.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^51]: A 10/B. § (5) bekezdés e) pontja a 323/2018. (XII. 28.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
