@@ -1,3 +1,1 @@
-31. § Az Éltv. 23. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az e törvény végrehajtására kiadott jogszabályban meghatározott – az (1) bekezdés hatálya alá nem tartozó – esetekben az élelmiszer-, illetve a takarmányvállalkozás, valamint az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyagot és tárgyat előállító és az első magyarországi forgalomba hozó köteles az élelmiszer- vagy takarmányvállalkozási, valamint az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyagot és tárgyat előállítói és az első magyarországi forgalomba hozói tevékenység folytatására irányuló szándékát az élelmiszerlánc-felügyeleti szervnek bejelenteni.”
+31. §

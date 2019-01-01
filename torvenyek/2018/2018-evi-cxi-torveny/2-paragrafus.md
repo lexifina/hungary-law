@@ -1,1 +1,1 @@
-2. § A Kvt. 91. § (6) bekezdésében az „előzetes vizsgálati és a környezeti hatásvizsgálati eljárásban, továbbá a (3) bekezdésben meghatározott eljárásban” szövegrész helyébe az „előzetes vizsgálati, a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásban, továbbá az egységes környezethasználati engedély felülvizsgálatára irányuló eljárásban” szöveg lép.
+2. §

@@ -1,3 +1,1 @@
-29. § Az Éltv. 19. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az állati eredetű melléktermék – így különösen az elhullott állat tetemének – tulajdonosa saját költségén köteles annak elszállításáról, ártalmatlanná tételéről az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban előírt módon gondoskodni. Az állati eredetű melléktermék tulajdonosa, illetve annak szállítását, kezelését, tárolását, feldolgozását, felhasználását vagy ártalmatlanítását végző minden üzemeltető az élelmiszerlánc-felügyeleti szerv felé az e törvény végrehajtására kiadott jogszabály szerinti éves jelentési kötelezettséget elektronikus úton köteles teljesíteni.”
+29. §

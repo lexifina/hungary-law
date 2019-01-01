@@ -1,3 +1,1 @@
-128. § A Hhvtv. 65/A. §-a helyébe a következő rendelkezés lép:
-
-„65/A. § A halgazdálkodási hatósági eljárás keretében elkobzott, ideiglenesen visszatartott vagy tulajdonosa által hátrahagyott horgászkészséget, halászeszközt, egyéb eszközt – ha az erről szóló döntés véglegessé válásának vagy a hátrahagyott eszköz elkobzásának, ideiglenes visszatartásának vagy megtalálásának időpontjától számított hat hónapon belül nem jelentkezik érte tulajdonosa – a halgazdálkodási hatóság köteles hasznosításra felajánlani az eljárásban érintett halgazdálkodásra jogosult részére, valamint a felajánlás elfogadása hiányában jogosult megsemmisíttetni vagy a tulajdonos nevében és helyett rendelkezni vele.”
+128. §
