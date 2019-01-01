@@ -28,4 +28,6 @@ a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhess
 
 b) a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék, egészségkárosodott személyek szociális járadékai és a kivételes rokkantsági ellátás kivételével a megváltozott munkaképességű személyek ellátása folyósításának idejét.
 
-c) a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a Tbj. 34. §-a szerint kötött megállapodás alapján szerzett szolgálati időt, amennyiben a megállapodást 2011. december 31-éig megkötötték.
+c) a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a Tbj. 34. §-a szerint kötött megállapodás alapján szerzett szolgálati időt, amennyiben a megállapodást 2011. december 31-éig megkötötték,
+
+d) a gyermekek otthongondozási díja és az ápolási díj folyósításának idejét.

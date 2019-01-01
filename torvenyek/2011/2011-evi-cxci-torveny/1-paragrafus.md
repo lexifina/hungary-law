@@ -26,7 +26,7 @@ b) az uniós rendeletek hatálya alá tartozó személy esetén az EGT-államban
 
 9. rehabilitáció: orvosi, szociális, képzési, foglalkoztatási és egyéb tevékenységek komplex rendszere, amelynek célja a megváltozott munkaképességű személy munkaerő-piaci integrációja, megfelelő munkahelyen történő foglalkoztatásra való felkészítése, továbbá a munkaképességének megfelelő munkahelyen történő elhelyezés biztosítása;
 
-10. rendszeres pénzellátás: a szociális igazgatásról és szociális ellátásokról szóló törvény által rendszeres pénzellátásként felsorolt ellátások, valamint a szociális biztonsági tárgyú nemzetközi egyezmények, továbbá az uniós rendeletek alapján külföldi szerv által folyósított, ezekkel azonos típusú ellátások, ide nem értve a hadigondozottak és nemzeti gondozottak ellátásait, a nemzeti helytállásért elnevezésű pótlékot, az ápolási díjat, a Tny. szerinti hozzátartozói nyugellátásokat és a gyermekgondozást segítő ellátást.
+10. rendszeres pénzellátás: a szociális igazgatásról és szociális ellátásokról szóló törvény által rendszeres pénzellátásként felsorolt ellátások, valamint a szociális biztonsági tárgyú nemzetközi egyezmények, továbbá az uniós rendeletek alapján külföldi szerv által folyósított, ezekkel azonos típusú ellátások, ide nem értve a hadigondozottak és nemzeti gondozottak ellátásait, a nemzeti helytállásért elnevezésű pótlékot, a gyermekek otthongondozási díját, az ápolási díjat, a Tny. szerinti hozzátartozói nyugellátásokat és a gyermekgondozást segítő ellátást.
 
 11. egyéni vállalkozó: a Tbj. 4. § b) pontjában meghatározott személy;
 

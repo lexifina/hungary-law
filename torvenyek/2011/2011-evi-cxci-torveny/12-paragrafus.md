@@ -1,4 +1,4 @@
-12. § (1) A rokkantsági ellátás összege
+12. § (1) A rokkantsági ellátás havi összege
 
 a) a 3. § (2) bekezdés b) pont ba) alpontja és az 5. § (2) bekezdés a) pontja szerinti esetben a havi átlagjövedelem 40 százaléka, de legalább az alapösszeg 30 százaléka és legfeljebb az alapösszeg 45 százaléka,
 
@@ -8,7 +8,7 @@ c) a 3. § (2) bekezdés b) pont bc) alpontja szerinti esetben a havi átlagjöv
 
 d) a 3. § (2) bekezdés b) pont bd) alpontja szerinti esetben a havi átlagjövedelem 70 százaléka, de legalább az alapösszeg 55 százaléka és legfeljebb az alapösszeg 150 százaléka.
 
-(2) Ha a rokkantsági ellátásban részesülő személy havi átlagjövedelemmel nem rendelkezik, a rokkantsági ellátás összege
+(2) Ha a rokkantsági ellátásban részesülő személy havi átlagjövedelemmel nem rendelkezik, a rokkantsági ellátás havi összege
 
 a) a 3. § (2) bekezdés b) pont ba) alpontja és az 5. § (2) bekezdés a) pontja szerinti esetben az alapösszeg 30 százaléka,
 

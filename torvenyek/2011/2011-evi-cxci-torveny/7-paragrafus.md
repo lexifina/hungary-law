@@ -12,6 +12,8 @@
 
 (4b) A folyósítás felfüggesztése időtartamának lejártát követően a megváltozott munkaképességű személyek ellátásait folyósító szerv hivatalból intézkedik a rehabilitációs pénzbeli ellátás ismételt folyósításáról.
 
+(4c) A folyósítás felfüggesztésének időtartamára folyósított rehabilitációs pénzbeli ellátást a felfüggesztés időtartamának lejártát követően folyósított ellátásból le kell vonni, vagy azt a rehabilitációs ellátás megszűnése, illetve megszüntetése esetén vissza kell követelni. A levonás legfeljebb a rehabilitációs pénzbeli ellátás 50%-áig terjedhet.
+
 (5) A rehabilitációs ellátás időtartamát meghosszabbítani nem lehet.
 
 (6) A rehabilitációs ellátás – a rehabilitációs hatóság komplex minősítésében foglalt körülményekre tekintettel – a jogosultsági feltételek fennállása esetén ismételten megállapítható.

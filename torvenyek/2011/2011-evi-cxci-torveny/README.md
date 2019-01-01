@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-191-00-00
 | 2017-06-02 | 2017. évi XLIV. törvény | 2011-191-00-00.30 |
 | 2018-01-01 | 2017. évi L. törvény | 2011-191-00-00.31 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2011-191-00-00.32 |
+| 2019-01-01 | 2018. évi CXVII. törvény | 2011-191-00-00.33 |

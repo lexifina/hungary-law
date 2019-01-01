@@ -1,1 +1,1 @@
-26. § A rehabilitációs hatóság komplex minősítése szerinti megváltozott munkaképességű személy külön törvényben meghatározott Rehabilitációs kártyára jogosult, ha a komplex minősítés alapján foglalkoztathatósága rehabilitációval helyreállítható, vagy tartós foglalkozási rehabilitációt igényel.
+### 26. §

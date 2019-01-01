@@ -2,7 +2,7 @@
 
 (2) A komplex minősítés időbeli hatálya
 
-a) végleges egészségi állapotú, valamint a 19. § (1a) bekezdése vagy a 38/C. § alapján a felülvizsgálat alól mentesülő személy esetén a megváltozott munkaképességű személy haláláig,
+a) végleges egészségi állapotú, valamint az 5. § (2) bekezdése, a 19. § (1a) bekezdése vagy a 38/C. § alapján a felülvizsgálat alól mentesülő személy esetén a megváltozott munkaképességű személy haláláig,
 
 b) amennyiben a rehabilitációhoz szükséges időtartamot e törvény értelmében meg kell határozni, a rehabilitációhoz szükséges időtartam végéig, vagy
 
