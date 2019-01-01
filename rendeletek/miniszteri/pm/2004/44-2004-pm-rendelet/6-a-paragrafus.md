@@ -1,6 +1,6 @@
-## A bírósági eljárási illeték elektronikus úton történő megfizetése és ellenőrzése[^30]
+## A bírósági eljárási illeték elektronikus úton történő megfizetése és ellenőrzése[^32]
 
-6/A. §[^31] (1) A közjegyző által fizetési meghagyásos eljárásban és a fizetési meghagyás alapján indult végrehajtási eljárásban hozott határozat ellen elektronikus úton benyújtott fellebbezés utáni bírósági eljárási illetéket átutalással kell megfizetni az illetékes törvényszék Kincstárnál vezetett – a bíróságok központi honlapján közzétett – illeték-bevételi számlájára.
+6/A. §[^33] (1) A közjegyző által fizetési meghagyásos eljárásban és a fizetési meghagyás alapján indult végrehajtási eljárásban hozott határozat ellen elektronikus úton benyújtott fellebbezés utáni bírósági eljárási illetéket átutalással kell megfizetni az illetékes törvényszék Kincstárnál vezetett – a bíróságok központi honlapján közzétett – illeték-bevételi számlájára.
 
 (2) Az átutalás közlemény rovatában fel kell tüntetni az eljáró bíróságnak a bírósági végrehajtási ügyvitelről és pénzkezelésről szóló 1/2002. (I. 17.) IM rendelet 1. számú mellékletében meghatározott jelzőszámát (a továbbiakban: jelzőszám) és az eljárási illetékfizetésre kötelezett fél nevét, továbbá a fellebbezéssel támadott határozat ügyszámát és az ügyszámmal egy sorban, ahhoz törtvonallal kapcsolva feltüntetett sorszámot (a továbbiakban együtt: ügyszám).
 
@@ -32,5 +32,5 @@ d) a csatlakozó felülvizsgálati illetéket a Kúria
 
 (9) Az (1)–(8) bekezdésben foglaltakat megfelelően kell alkalmazni, ha a fél a bírósági eljárási illetéket nem elektronikus úton kezdeményezett eljárásban fizeti meg átutalással vagy az Elektronikus Fizetési és Elszámolási Rendszeren keresztül.
 
-[^30]: A 6/A. §-t megelőző alcímet az 5/2011. (II. 11.) NGM rendelet 2. §-a iktatta be.
-[^31]: A 6/A. §-t az 5/2011. (II. 11.) NGM rendelet 2. §-a iktatta be, szövege az 52/2017. (XII. 29.) NGM rendelet 15. §-ával megállapított szöveg.
+[^32]: A 6/A. §-t megelőző alcímet az 5/2011. (II. 11.) NGM rendelet 2. §-a iktatta be.
+[^33]: A 6/A. §-t az 5/2011. (II. 11.) NGM rendelet 2. §-a iktatta be, szövege az 52/2017. (XII. 29.) NGM rendelet 15. §-ával megállapított szöveg.
