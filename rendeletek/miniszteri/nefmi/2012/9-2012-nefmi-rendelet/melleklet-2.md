@@ -6,6 +6,10 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 11011 |  | Elsősegély | O | O | O | O | O | O | O | O | O | O | O | O |
 
+| 11030 |  | Sürgősségi beteg osztályozás (triázs) |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 11031 |  | Sürgősségi beteg újra-osztályozás (re-triázs) |  |  |  |  |  |  |  |  |  |  |  |  |
+
 | 11041 |  | Vizsgálat | O | O | O | O | O | O | O | O | O | O | O | O |
 
 | 11042 |  | Vizsgálat a rendelőn kívül | O | O | O | O | O | O | O | O | O | O | O | O |
@@ -143,6 +147,10 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 | 13 | 14 | 16 | 18 | 19 | 22 | 24 | 26 | 28 | 29 | 31 | 32 | 33 | 34 | 38 | 39 | 40 | 46 | 48 | 50 | 51 | 54 | 55 | 56 | 59 | 601 | 604 | 65 | A2 | 7803 | Oenokód2 |
 
 | O | O | O | O | O | O | O | O | O | O | O | O | O | O |  | O | O | O | O | O | O | O | O | O | O | O |  | O | O |  | 11011 |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  | 11030 |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  | 11031 |
 
 | O | O | O | O | O | O | O |  | O | O | O | O | O | O | O | O | O | O | O |  |  |  | O | O |  | O |  | O | O |  | 11041 |
 
@@ -426,4 +434,4 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 12310 |  | Impedancia audiometria (Tympanometria + stapedius refl.) |  |  |  |  | O | X |  |  |  |  |  |  |
 
-[^11]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (2) bekezdése és (6) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 6. § (1) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 6. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (2)–(4) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 2. § (1) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 4. § (1) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^11]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (2) bekezdése és (6) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 6. § (1) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 6. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (2)–(4) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 2. § (1) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 4. § (1) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 6. § (2) bekezdése, a 44/2018. (XII. 19.) EMMI rendelet 5. § (1) bekezdése szerint módosított szöveg.
