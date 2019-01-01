@@ -98,4 +98,7 @@ A Cash-flow kimutatás sorainak tartalma
 
 12. A „19. Kapott hozamok” között a pénzügyileg befolyt kamatok, osztalékok összegét kell figyelembe venni, beleértve az értékpapírok között kimutatott más befektetési alap által kibocsátott befektetési jegyek után kapott hozamokat is.
 
+13.[^87] A befektetési alap a „IV. Pénzeszközök változása (±I±II±III. sorok) ±” sort saját döntése alapján továbbtagolhatja a Tv. 7. számú melléklet „A Cash-flow kimutatás sorainak tartalma” alcím 21. pont f) alpontja szerinti megbontásban.
+
 [^86]: A 4. számú mellékletet a 325/2009. (XII. 29.) Korm. rendelet 42. §-a iktatta be; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^87]: A 4. melléklet „A Cash-flow kimutatás sorainak tartalma” alcím 13. pontját a 309/2018. (XII. 27.) Korm. rendelet 3. §-a iktatta be.
