@@ -344,17 +344,17 @@
 
 ## 18. Befektetési eredmény (13–17)
 
-## 19.[^12] Működési tevékenység adózás előtti eredménye (9±18)
+## 19.[^14] Működési tevékenység adózás előtti eredménye (9±18)
 
-## 20.[^13] Nyugdíjkonstrukciók eredménye (A/I/19±A/II/17±B/21)
+## 20.[^15] Nyugdíjkonstrukciók eredménye (A/I/19±A/II/17±B/21)
 
-## 21.[^14] Adózás előtti eredmény (19±20)
+## 21.[^16] Adózás előtti eredmény (19±20)
 
-## 22.[^15] Adófizetési kötelezettség
+## 22.[^17] Adófizetési kötelezettség
 
-## 23.[^16] Adózott eredmény (21-22)
+## 23.[^18] Adózott eredmény (21-22)
 
-## 24–29.[^17]
+## 24–29.[^19]
 
 3. számú melléklet a 399/2007. (XII. 27.) Korm. rendelethez
 
@@ -436,9 +436,9 @@ bc) nyugdíjtechnikai tartalékokba való átvezetésre
 
 20. Befektetési egységhez kötött nyugdíjkonstrukció tartalékát érintő eredmény (7–8–9±17–18+19)
 
-[^12]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 19. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
-[^13]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 20. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
-[^14]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 21. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
-[^15]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 22. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
-[^16]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 24–29. alpontját a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdése hatályon kívül helyezte.
-[^17]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 23. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
+[^14]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 19. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 20. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
+[^16]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 21. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
+[^17]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 22. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
+[^18]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 24–29. alpontját a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdése hatályon kívül helyezte.
+[^19]: A 2. számú melléklet „C. MŰKÖDÉSI TEVÉKENYSÉG” pont 23. alpontja a 484/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.

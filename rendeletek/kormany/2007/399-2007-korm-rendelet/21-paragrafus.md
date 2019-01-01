@@ -24,7 +24,7 @@
 
 10. a kölcsönbeadott értékpapírok típusait és azok együttes értékét;
 
-11. az Szt. 7. számú melléklete szerinti cash-flow kimutatást azzal, hogy az kiegészül a „3/A. Értékelési különbözetek ±”, valamint a „7/A. Különféle egyéb kötelezettség állományváltozása ±” sorral és a 18., illetve a 23. sorába adat nem állítható;
+11.[^8] az Szt. 7. számú melléklete szerinti cash-flow kimutatást azzal, hogy az kiegészül a „3/A. Értékelési különbözetek ±”, valamint a „7/A. Különféle egyéb kötelezettség állományváltozása ±” sorral és a 20., illetve 24. sorába adat nem állítható;
 
 12. a szolgáltatások kifizetésével kapcsolatban felmerült költségeket jogcímenként és nyugdíjkonstrukciónkénti részletezésben;
 
@@ -38,3 +38,4 @@
 
 [^6]: A 21. § 1. pontja a 331/2008. (XII. 30.) Korm. rendelet 38. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
 [^7]: A 21. § 1a. pontját a 480/2016. (XII. 28.) Korm. rendelet 89. §-a iktatta be.
+[^8]: A 21. § 11. pontja a 309/2018. (XII. 27.) Korm. rendelet 12. §-a szerint módosított szöveg.
