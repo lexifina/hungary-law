@@ -2,13 +2,15 @@
 
 3/A. § (1) A nyilvántartást vezető szerv
 
-a) vezeti az egyéni vállalkozók nyilvántartását,
+a) vezeti az egyéni vállalkozók nyilvántartását, e körben törli a nyilvántartásból a jogszabálysértő bejegyzést, javítja a hibás bejegyzést, illetve pótolja az elmulasztott bejegyzést,
 
 b) működteti a nyilvántartási és ügyviteli feladatokat szolgáló informatikai rendszert,
 
-c) a 19/B. § szerint hatósági ellenőrzést végez, valamint
+c) a 19/B. § szerint hatósági ellenőrzést végez,
 
-d) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
+d) szakmai irányítást és felügyeletet gyakorol a (2) bekezdés a) és c)–f) pontban meghatározott tevékenység felett, valamint
+
+e) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 
 (2) Az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró, Kormány által rendeletben kijelölt szerv (a továbbiakban: Hatóság)
 

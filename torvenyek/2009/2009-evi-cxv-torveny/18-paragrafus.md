@@ -6,6 +6,8 @@
 
 (3) A szünetelés bejelentését követően, annak tartama alatt az egyéni vállalkozó egyéni vállalkozói tevékenységet nem végezhet, egyéni vállalkozói tevékenységhez kötődő új jogosultságot nem szerezhet, új kötelezettséget nem vállalhat. Az egyéni vállalkozó tevékenységének folytatása során a szünetelésig keletkezett és azt követően esedékessé váló fizetési kötelezettségeit a szünetelés ideje alatt is köteles teljesíteni.
 
+(3a) Az egyéni vállalkozó tevékenységének szünetelése alatt kizárólag székhelyének változását jelentheti be a nyilvántartást vezető szervnek.
+
 (4) Az egyéni vállalkozó szüneteltetett egyéni vállalkozói tevékenységét a változásbejelentési űrlapon benyújtott, az egyéni vállalkozói tevékenység folytatására vonatkozó, a nyilvántartást vezető szervnél megfelelő módon tett bejelentésével folytathatja. A bejelentésben nyilatkozni kell arról, hogy az egyéni vállalkozó az egyéni vállalkozói tevékenység folytatására előírt feltételeknek továbbra is megfelel. A tevékenység folytatásának kezdő napja a bejelentést követő nap. A nyilvántartást vezető szerv a szünetelés záró napját bejegyzi az egyéni vállalkozók nyilvántartásába, és erről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot a Központi Statisztikai Hivatalt, valamint a Hatóságot.
 
 (5) Igazolvánnyal rendelkező egyéni vállalkozó tevékenysége szüneteltetésének a feltétele, hogy az egyéni vállalkozó igazolványát a Hatóságnak személyesen vagy postai úton leadja. Az igazolványt a Hatóság az igazolvány beérkezésének vagy leadásának napján érvényteleníti, és ennek tényét bejegyzi a nyilvántartásba.

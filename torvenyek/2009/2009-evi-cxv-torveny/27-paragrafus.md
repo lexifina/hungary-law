@@ -3,3 +3,5 @@
 (2) Egyéni cég és tagja nem lehet gazdasági társaságban korlátlanul felelős tag.
 
 (3) Ha az egyéni vállalkozói tevékenység folytatására való jogosultság egyéni cég alapítása miatt szűnik meg, a jogosultság megszűnéséig az egyéni vállalkozóként vállalt kötelezettségeiért a természetes személy és az egyéni cég korlátlanul és egyetemlegesen felel.
+
+(4) A cégbíróság az egyéni céget bejegyző végzésben rögzíti az egyéni vállalkozó nyilvántartási számát.
