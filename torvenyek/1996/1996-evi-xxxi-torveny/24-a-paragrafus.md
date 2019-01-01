@@ -14,7 +14,7 @@ e) kiadja a tűzoltóságok Szerelési Szabályzatát, a rendkívüli állapotba
 
 f) koordinálja és ellenőrzi az önkormányzati tűzoltóságok költségvetés tervezésével kapcsolatos feladatait,
 
-g) folyamatosan ellenőrzi az önkormányzati tűzoltóságok és az önkéntes tűzoltó egyesületek költségvetési és egyéb forrásból származó pénzeszközei felhasználását,
+g) a hivatásos katasztrófavédelmi szerv területi szerve útján folyamatosan ellenőrzi az önkormányzati tűzoltóságok és az önkéntes tűzoltó egyesületek költségvetési és egyéb forrásból származó pénzeszközei felhasználását,
 
 h) a hivatásos katasztrófavédelmi szerv területi szerve útján ellenőrzi az önkormányzati tűzoltóság, a létesítményi tűzoltóság és a tűzoltási és műszaki mentési feladatokat ellátó önkéntes tűzoltó egyesület tevékenységét,
 

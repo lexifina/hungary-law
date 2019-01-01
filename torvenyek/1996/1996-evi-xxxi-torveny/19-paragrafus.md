@@ -12,9 +12,9 @@ c) kereskedelmi szálláshelyet üzemeltetnek.
 
 a) robbanásveszélyes osztályba tartozó anyagot állítanak elő, dolgoznak fel, tárolnak és az egy telephelyen előállított, feldolgozott, tárolt anyag együttes, egyidejű mennyisége meghaladja az 1000 kg vagy liter mennyiséget,
 
-b) tűzveszélyes osztályba tartozó anyagot, terméket tárolnak és az egy telephelyen a szabadtéri és az épületen belüli tárolásra szolgáló összesített alapterület meghaladja az 1000 m2-t,
+b) tűzveszélyes osztályba tartozó anyagot, terméket tárolnak és az egy telephelyen a szabadtéri és az épületen belüli tárolásra szolgáló összesített alapterület meghaladja az 1000 m2-t, vagy
 
-c) ipari vagy mezőgazdasági tevékenységet végeznek és a családtagokkal együtt a munkavégzésben részt vevő munkavállalók egyidejű létszáma meghaladja a 100 főt, vagy
+c)
 
 d) olyan épületrészt, épületet üzemeltetnek, bérelnek,
 

@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-31-00-00
 | 2015-07-16 | 2015. évi CXX. törvény | 1996-31-00-00.32 |
 | 2016-01-01 | 2015. évi CLXXIX. törvény | 1996-31-00-00.33 |
 | 2018-01-01 | 2017. évi L. törvény | 1996-31-00-00.34 |
+| 2019-01-01 | 2018. évi CXXI. törvény | 1996-31-00-00.35 |
