@@ -6,6 +6,6 @@ a) a szabálysértési hatóságot, illetve az előkészítő eljárást lefolyt
 
 b) amennyiben az elkövető pártfogó felügyelet hatálya alatt áll, abban az esetben a pártfogó felügyelőt,
 
-c)[^14] a fiatalkorú elkövető törvényes képviselőjét, a fiatalkorú lakóhelye, tartózkodási helye szerint illetékes gyámhatóságot, valamint – ha a fiatalkorú megelőző pártfogás alatt áll – a gyámhatóság útján a megelőző pártfogót.
+c)[^15] a fiatalkorú elkövető törvényes képviselőjét, a fiatalkorú lakóhelye, tartózkodási helye szerint illetékes gyámhatóságot, valamint – ha a fiatalkorú megelőző pártfogás alatt áll – a gyámhatóság útján a megelőző pártfogót.
 
-[^14]: A 9. § c) pontja a 81/2015. (XII. 23.) BM rendelet 26. §-ával megállapított szöveg.
+[^15]: A 9. § c) pontja a 81/2015. (XII. 23.) BM rendelet 26. §-ával megállapított szöveg.
