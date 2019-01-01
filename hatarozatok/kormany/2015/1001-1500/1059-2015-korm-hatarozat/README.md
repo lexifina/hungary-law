@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1059-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-02-18 | 2015-1059-30-22.1 | 1059/2015. (II. 18.) Korm. határozat |
+| 2019-01-01 | 2015-1059-30-22.2 | 2011. évi CXCV. törvény |
