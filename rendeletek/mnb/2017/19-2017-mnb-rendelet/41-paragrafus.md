@@ -1,1 +1,0 @@
-41. § Amennyiben a szolgáltató belső kockázatértékelése nem képezi részét a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló szabályzatának, úgy azt a szolgáltatónak a nemzeti kockázatértékelés megismerését követő negyvenöt napon belül kell elkészítenie, amelyről öt napon belül tájékoztatja az MNB-t.
