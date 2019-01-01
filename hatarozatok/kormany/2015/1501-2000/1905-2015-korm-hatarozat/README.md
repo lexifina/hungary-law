@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1905-30
 | 2017-04-03 | 2015-1905-30-22.4 | 1245/2016. (V. 18.) Korm. határozat |
 | 2018-07-26 | 2015-1905-30-22.5 | 1245/2016. (V. 18.) Korm. határozat |
 | 2018-08-31 | 2015-1905-30-22.6 | 1245/2016. (V. 18.) Korm. határozat |
+| 2019-01-01 | 2015-1905-30-22.7 | 2011. évi CXCV. törvény |
