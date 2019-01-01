@@ -1,10 +1,10 @@
-## 10. §[^17]
+## 10. §[^18]
 
 ## Záró rendelkezések
 
 11. § (1) Ez a rendelet 1998. szeptember 1-jén lép hatályba.
 
-(2)[^18]
+(2)[^19]
 
-[^17]: A 10. §-t a 44/2017. (XII. 29.) BM rendelet 4. §-a hatályon kívül helyezte.
-[^18]: A 11. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 185. pontja hatályon kívül helyezte.
+[^18]: A 10. §-t a 44/2017. (XII. 29.) BM rendelet 4. §-a hatályon kívül helyezte.
+[^19]: A 11. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 3. § 185. pontja hatályon kívül helyezte.

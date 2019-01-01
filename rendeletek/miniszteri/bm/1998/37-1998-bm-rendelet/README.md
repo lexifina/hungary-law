@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-37-20-0
 | 2016-01-01 | 1998-37-20-0A.15 | 80/2015. (XII. 23.) BM rendelet |
 | 2017-01-01 | 1998-37-20-0A.16 | 58/2016. (XII. 22.) BM rendelet |
 | 2018-01-01 | 1998-37-20-0A.17 | 41/2009. (IX. 15.) IRM rendelet |
+| 2019-01-01 | 1998-37-20-0A.18 | 37/2018. (XII. 28.) BM rendelet |
