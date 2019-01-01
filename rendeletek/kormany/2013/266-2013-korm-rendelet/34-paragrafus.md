@@ -12,10 +12,10 @@
 
 a) kamarai tagsághoz kötött jogosultság esetén kötelező és szakmai,
 
-b)[^49] a kamarai tagsághoz nem kötött jogosultság esetén a 4. §-ban meghatározott tevékenységet folytató szakmagyakorló kivételével kötelező és szakmai
+b)[^50] a kamarai tagsághoz nem kötött jogosultság esetén a 4. §-ban meghatározott tevékenységet folytató szakmagyakorló kivételével kötelező és szakmai
 
 továbbképzés.
 
 (4) A szakmagyakorlónak az első továbbképzési időszaka alatt a 38. § (2) bekezdése szerinti beszámolóval végződő kötelező továbbképzést kell teljesítenie.
 
-[^49]: A 34. § (3) bekezdés b) pontja a 482/2016. (XII. 28.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^50]: A 34. § (3) bekezdés b) pontja a 482/2016. (XII. 28.) Korm. rendelet 36. §-ával megállapított szöveg.

@@ -8,7 +8,7 @@ ba) párbeszédre épülően (online),
 
 bb) amennyiben információtechnológiai feltételei fennállnak, nem párbeszédre épülően (offline).
 
-(2)[^35] A kérelmező a kérelmet írásban – papír alapon vagy elektronikus adathordozón, az Ákr.-ben meghatározottakon túl – benyújthatja
+(2)[^36] A kérelmező a kérelmet írásban – papír alapon vagy elektronikus adathordozón, az Ákr.-ben meghatározottakon túl – benyújthatja
 
 a) bármely területi kamaránál,
 
@@ -24,4 +24,4 @@ b) az Építésügyi Szolgáltató Pont feladatait ellátó önkormányzati jegy
 
 (7) A szakmagyakorló haladéktalanul köteles írásban bejelenteni a területi kamarához a bejegyzett adataiban bekövetkezett változást. Az adatváltozásnak és a tevékenység megszüntetésének a bejelentésére a szolgáltatási tevékenység bejelentésére vonatkozó szabályokat kell megfelelően alkalmazni.
 
-[^35]: A 25. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 444. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^36]: A 25. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 444. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

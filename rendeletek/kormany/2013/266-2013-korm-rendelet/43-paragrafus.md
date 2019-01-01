@@ -18,7 +18,7 @@ d) a szakmagyakorlási tevékenység folytatásának feltételei hiánya esetén
 
 e) az energetikai tanúsítványok tekintetében a független ellenőrzési rendszert működtető szerv kezdeményezésére.
 
-(2)[^61] A területi kamara titkára az (1) bekezdés c) pontja szerinti megkeresésre a 44. § szerinti jogkövetkezményt állapít meg, és ezzel egyidejűleg a döntése megküldése mellett a kamarai tagsághoz kötött szakmagyakorlási tevékenység esetén a területi kamara etikai-fegyelmi bizottságánál is eljárást kezdeményez a kamarai tag ellen.
+(2)[^62] A területi kamara titkára az (1) bekezdés c) pontja szerinti megkeresésre a 44. § szerinti jogkövetkezményt állapít meg, és ezzel egyidejűleg a döntése megküldése mellett a kamarai tagsághoz kötött szakmagyakorlási tevékenység esetén a területi kamara etikai-fegyelmi bizottságánál is eljárást kezdeményez a kamarai tag ellen.
 
 (3) A jogkövetkezményt megállapító területi kamara titkára a döntését az OÉNY e-szankció alkalmazásban rögzített jogkövetkezmények figyelembevételével hozza meg az e-rendszerben.
 
@@ -26,9 +26,9 @@ e) az energetikai tanúsítványok tekintetében a független ellenőrzési rend
 
 (5) A jogkövetkezményeket megállapító döntés meghozatala előtt a területi kamara titkára minden esetben köteles ellenőrizni, hogy e-szankció alkalmazással rögzített adatállományban, az adott szakmagyakorlóval szemben jogkövetkezmény állapítottak-e meg. Amennyiben a szabályozás a fokozatosság elve alapján súlyosabb szankciót is kilátásba helyez, a jogkövetkezmény megállapításakor az e-szankció adatállományban rögzített valamennyi jogkövetkezményt figyelembe kell venni, függetlenül attól, hogy a szankciót mely hatóság vagy szerv állapította meg.
 
-(6)[^62] Az e rendelet alapján megállapított bírság összege – egy éven belüli ismételt bírságolandó szabálytalanság esetén – az előzőleg megállapított bírság 150%-ánál kevesebb nem lehet.
+(6)[^63] Az e rendelet alapján megállapított bírság összege – egy éven belüli ismételt bírságolandó szabálytalanság esetén – az előzőleg megállapított bírság 150%-ánál kevesebb nem lehet.
 
 (7) Az építésügyi és az építésfelügyeleti hatóság a szakmagyakorlási tevékenységre vonatkozó jogszabályok, szakmai szabályok megsértése miatt – hatáskör hiányában vagy kormányrendeletben előírt esetekben – az OÉNY e-szankció elektronikus alkalmazás használatával köteles elektronikus úton megkeresni a névjegyzéket vezető területi kamarát. A területi kamara, az elektronikus megkeresés alapján, harminc napon belül köteles eljárást indítani a szakmagyakorlási tevékenységet folytató ellen, és az eljárást lezáró döntéséről a megkereső hatóságot az OÉNY e-szankció elektronikus alkalmazás használatával elektronikus úton értesíteni.
 
-[^61]: A 43. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 20. pontja szerint módosított szöveg.
-[^62]: A 43. § (6) bekezdése a 62/2014. (III. 6.) Korm. rendelet 48. § c) pontja szerint módosított szöveg.
+[^62]: A 43. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 20. pontja szerint módosított szöveg.
+[^63]: A 43. § (6) bekezdése a 62/2014. (III. 6.) Korm. rendelet 48. § c) pontja szerint módosított szöveg.
