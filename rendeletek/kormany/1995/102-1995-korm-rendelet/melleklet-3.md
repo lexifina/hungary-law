@@ -16,6 +16,8 @@
 
 | Visszamenőleges | V |
 
+| Lejárt | L |
+
 | Neme | Kód |
 
 | Férfi | 1 |
@@ -40,7 +42,7 @@
 
 | Meghalt | E |
 
-| Táppénz jellege (TP. jell.) | Kód |
+| Keresőképtelenség jellege | Kód |
 
 | Üzemi baleset | „1 |
 
@@ -60,6 +62,6 @@
 
 | Veszélyeztetett terhesség | „9 |
 
-3. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^55]
+3. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^57]
 
-[^55]: A 3. számú mellékletet a 127/1999. (VIII. 13.) Korm. rendelet 4. §-ának (3) bekezdése, valamint 3. számú melléklete iktatta a szövegbe.
+[^57]: A 3. számú mellékletet a 127/1999. (VIII. 13.) Korm. rendelet 4. §-ának (3) bekezdése, valamint 3. számú melléklete iktatta a szövegbe.

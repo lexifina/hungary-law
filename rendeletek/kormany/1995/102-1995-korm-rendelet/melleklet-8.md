@@ -32,7 +32,7 @@
 
 ## * Ezt az Igazolást a fekvőbeteg-gyógyintézetben a betegség megállapítása, gyógykezelés, rehabilitáció, illetve szülészeti ellátás esetén kell kiállítani.
 
-8. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^63]
+8. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^66]
 
 HETI JELENTÉS REKORDKÉPE
 
@@ -76,7 +76,7 @@ fájlformátum: K9999999.ÉHH
 
 | felvétel módja | Kar | 1 | törzsrekord, kódtáblából választható (I, A, D, H, V) |
 
-| táppénz jellege | Kar | 1 | törzsrekord, kódtáblából választható (1, 2, 3, 4, 5, 6, 7, 8) |
+| keresőképtelenség jellege | Kar | 1 | törzsrekord, kódtáblából választható (1, 2, 3, 4, 5, 6, 7, 8, 9) |
 
 | keresők. állomány kezdete | Kar | 8 | törzsrekord, évezreddel (pl. 20000101) amikortól keresőképtelen |
 
@@ -84,6 +84,6 @@ fájlformátum: K9999999.ÉHH
 
 | megszüntetés módja | Kar | 1 | törzsrekord kódtáblából választható (K, A, H, L, B, D, R, E) |
 
-Fájlnév képzése az 1. karakter mindig K, a 2. karakter a flopi sorszáma, 3–4. a megyekód, a 5–8. a működési kód utolsó 4 számjegye.
+Fájlnév képzése az 1. karakter mindig K, a 2. karakter az adott hétről beküldött jelentés sorszáma, a 3-4. a megyekód, az 5-8. a működési kód utolsó 4 számjegye.
 
-[^63]: A 8. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^66]: A 8. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 287/2018. (XII. 21. Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.

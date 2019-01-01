@@ -6,4 +6,7 @@
 
 (4) Az (1)–(3) bekezdésben foglalt orvosi dokumentációk közokiratok.
 
+(5)[^42] Az Ebtv. 43. § (2) bekezdése alapján a kezelőorvos minden egyes jogviszonyban külön-külön elbírálja a keresőképtelenséget, és minden jogviszony esetében külön naplószámon rögzíti az Orvosi Naplóba, kiállítja az 5. számú mellékletnek vagy a 6. számú mellékletnek megfelelő igazolást, valamint rögzíti a nyomtatványon a biztosított munkakörét. A kezelőorvosnak a biztosított munkaköreinek ismeretében kell elbírálnia jogviszonyonként a keresőképtelenséget.
+
 [^41]: A 10. § a 252/2003. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^42]: A 10. § (5) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be.

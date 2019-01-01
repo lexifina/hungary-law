@@ -36,13 +36,9 @@
 
 ## – a megszüntetés módját jelölő kódot;
 
-## d) – a jelentéskészítés dátumát,
+## d)[^58] a jelentéskészítés dátumát.
 
-## – az orvos aláírását,
-
-## – az orvos specifikus bélyegző lenyomatát.
-
-## Heti jelentés a keresőképtelen állományba vett esetekről[^56]
+## Heti jelentés a keresőképtelen állományba vett esetekről[^59]
 
 | Heti jelentés a keresőképtelen állományba vett esetekről |
 
@@ -102,7 +98,7 @@
 
 |  | orvos aláírása |  | pecsét lenyomata |
 
-## Heti jelentés a keresőképtelen állományból kiírt esetekről[^57]
+## Heti jelentés a keresőképtelen állományból kiírt esetekről[^60]
 
 | Heti jelentés a keresőképtelen állományból kiírt esetekről |
 
@@ -160,7 +156,7 @@
 
 |  | orvos aláírása |  | pecsét lenyomata |
 
-4. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^58]
+4. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^61]
 
 ## ORVOSI BEUTALÓ
 
@@ -278,6 +274,7 @@ címe: .........................................................................
 
 IV. A beutalót kiállító orvos adatai
 
-[^56]: Lásd 1999. MK 71. szám 4582. oldal.
-[^57]: Lásd 1999. MK 71. szám 4583. oldal.
-[^58]: A 4. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 95/2013. (III. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés i)–k) pontja szerint módosított szöveg.
+[^58]: A 3. számú melléklet d) pontja a 287/2018. (XII. 21.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^59]: Lásd 1999. MK 71. szám 4582. oldal.
+[^60]: Lásd 1999. MK 71. szám 4583. oldal.
+[^61]: A 4. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 95/2013. (III. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés i)–k) pontja szerint módosított szöveg.

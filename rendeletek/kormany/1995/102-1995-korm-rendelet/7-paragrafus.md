@@ -2,7 +2,7 @@
 
 7. §[^16] (1)[^17] A járási hivatal a keresőképtelenség és a keresőképesség elbírálását szakértő főorvos, valamint felülvéleményező főorvos útján ellenőrzi.
 
-(2)[^18] A szakértő főorvos (1) bekezdés szerinti tevékenysége kiterjed a járási hivatalhoz beérkezett keresőképtelenségi adatok célzott ellenőrzésére is. Ezen tevékenység során a szakértő főorvos igénybe veheti szakmai véleményezés és konzultáció céljából a felülvéleményező főorvos közreműködését.
+(2)[^18] A szakértő főorvos (1) bekezdés szerinti tevékenysége kiterjed a keresőképtelenségi adatok célzott ellenőrzésére is. Ezen tevékenység során a szakértő főorvos igénybe veheti szakmai véleményezés és konzultáció céljából a felülvéleményező főorvos közreműködését.
 
 (3)[^19] A szakértő főorvos az ellenőrzés keretében jogosult:
 
@@ -38,7 +38,7 @@ b) döntést követően arról a munkáltatót és a munkavállalót írásban �
 
 [^16]: A 7. § a 252/2003. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^17]: A 7. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 15. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 15. § (3) bekezdés f) pontja szerint módosított szöveg.
-[^18]: A 7. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 15. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 15. § (3) bekezdés g) pontja szerint módosított szöveg.
+[^18]: A 7. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 15. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 15. § (3) bekezdés g) pontja, a 287/2018. (XII. 21.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^19]: A 7. § (3) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés d) pontja szerint módosított szöveg.
 [^20]: A 7. § (4) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés d) pontja szerint módosított szöveg.
 [^21]: A 7. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 15. § (4) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 15. § (3) bekezdés h) pontja szerint módosított szöveg.
