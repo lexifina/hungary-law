@@ -1,5 +1,3 @@
-## A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó üzemeltetési jogosultság megszerzésére vonatkozó pályázati eljárás
-
 43/A. § (1) Állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő, analóg műsorszórással terjesztett helyi és körzeti audiovizuális médiaszolgáltatás médiaszolgáltatója a médiaszolgáltatási jogosultságának időtartama alatt, de legkésőbb a helyi és körzeti vételkörzetű földfelszíni műsorterjesztés digitális átállásának 38. § (1) bekezdésében meghatározott időpontjáig
 
 a) a Médiatanácshoz benyújtott bejelentése alapján jogosult médiaszolgáltatását továbbra is analóg földfelszíni műsorterjesztés útján nyújtani, vagy
@@ -10,7 +8,7 @@ b) legkésőbb 2016. december 31-ig benyújtott kérelmére a Hatóság a 13. §
 
 (2) Az ideiglenes digitális műsorszórási jogosultság gyakorlóját nem terhelik az Mttv. 72. § (1)–(3) bekezdésében és 74–77. §-ában foglalt, műsorterjesztőre vonatkozó kötelezettségek.
 
-(3) A helyi és körzeti vételkörzetű földfelszíni műsorterjesztés digitális átállásának a 38. § (1) bekezdésében meghatározott céldátumát követően helyi és körzeti vételkörzetű földfelszíni digitális televízió-műsorszóró hálózat, illetve műsorszóró adó üzemeltetése – amennyiben e törvény ettől eltérően nem rendelkezik – a Hatóság által lefolytatott helyi és körzeti vételkörzetű médiaszolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó vagy műsorszóró hálózat üzemeltetési jogosultság megszerzésére irányuló pályázati eljárás (a továbbiakban: pályázati eljárás) során megszerzett digitális műsorszóró adó üzemeltetési jogosultság alapján lehetséges. A pályázati eljárás során a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályt kell megfelelően alkalmazni a 43/A–43/K. §-ban foglalt eltérésekkel.
+(3) A helyi és körzeti vételkörzetű földfelszíni műsorterjesztés digitális átállásának a 38. § (1) bekezdésében meghatározott céldátumát követően helyi és körzeti vételkörzetű földfelszíni digitális televízió-műsorszóró hálózat, illetve műsorszóró adó üzemeltetése – amennyiben e törvény ettől eltérően nem rendelkezik – a Hatóság által lefolytatott helyi és körzeti vételkörzetű médiaszolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó vagy műsorszóró hálózat üzemeltetési jogosultság megszerzésére irányuló pályázati eljárás (a továbbiakban: pályázati eljárás) során megszerzett digitális műsorszóró adó üzemeltetési jogosultság alapján lehetséges. A pályázati eljárás során az Eht.-t és a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályt kell megfelelően alkalmazni a 39–43/A. §-ban foglalt eltérésekkel.
 
 (4) A pályázati eljárás hivatalból indul a pályázati felhívás közzétételével. Pályázati eljárást az Elnök abban az esetben indít, amennyiben
 
@@ -20,8 +18,8 @@ b) a kérelmező erre irányuló kérelmet terjeszt elő, és az Elnök a kérel
 
 c) az Elnök azt egyéb, frekvenciagazdálkodási, műsorterjesztési, médiaszolgáltatási iparági vagy médiapolitikai szempont alapján indokoltnak tartja.
 
-(5) A pályázati eljárás során a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályban szereplő pályázati bizottságot nem kell létrehozni, az eljárás során pályázati bizottság nem működik közre.
+(5)
 
-(6) A pályázati eljárás ügyintézési határideje nyolcvanöt nap. Az ügyintézési határidő a pályázatra történő jelentkezési határidő lejártának napján kezdődik.
+(6)
 
 (7) A műsorterjesztési szolgáltatások nyújtását lehetővé tevő, helyi és körzeti vételkörzetű földfelszíni digitális műsorszóró hálózat, illetve műsorszóró adó üzemeltetési jogosultság időtartama a jogosultságról szóló hatósági szerződés megkötésének időpontjától számított legfeljebb 12 év.

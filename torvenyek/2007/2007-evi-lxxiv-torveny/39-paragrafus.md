@@ -1,61 +1,23 @@
-## Az országos vételkörzetű digitális műsorszóró hálózat üzemeltetési jogosultságának elnyerésére vonatkozó pályázati eljárás
+## A digitális műsorszóró hálózat, műsorszóró adó üzemeltetési jogosultságának elnyerésére vonatkozó pályázati eljárás
 
-39. § (1) Az országos digitális rádió- és televízió-műsorszóró hálózat, illetve műsorszóró adó üzemeltetési jogosultság pályázat útján történő elnyerésével kapcsolatos eljárásokra (a 39–43. § alkalmazásában a továbbiakban: pályázati eljárás) a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályt kell a 39–43. §-ban foglalt eltéréssel megfelelően alkalmazni. Az országos pályázati eljárásra a 43/A–43/K. §-ban foglaltak megfelelően alkalmazandóak.
+39. § (1) A digitális rádió- és televízió-műsorszóró hálózat, illetve műsorszóró adó üzemeltetési jogosultság pályázat útján történő elnyerésével kapcsolatos eljárásokra (e § alkalmazásában a továbbiakban: pályázati eljárás) az Eht.-t és a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályt kell a 39–43/A. §-ban foglalt eltéréssel, kiegészítésekkel megfelelően alkalmazni.
 
-(2) A pályázati kiírási dokumentáció a külön jogszabályban meghatározottakon túl feltételként tartalmazza:
+(2) A pályázati eljárás során a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályban szereplő pályázati bizottságot nem kell létrehozni, az eljárás során pályázati bizottság nem működik közre.
 
-a)
+(3) A pályázati eljárás ügyintézési határideje százhúsz nap. Az ügyintézési határidő a pályázatra történő jelentkezési határidő lejártának napján kezdődik.
 
-b) az állampolgárok tájékozódását szolgáló, e törvény hatálybalépésekor legalább négy éve működő, legalább két, hír-, illetve közéleti tartalmú műsorokat szolgáltató televíziós médiaszolgáltatóval és a legalább három éve működő, országos rádió közösségi médiaszolgáltatókkal szemben fennálló, a legnagyobb lakossági eléréssel rendelkező hálózaton és a televíziós médiaszolgáltatók esetében mobilvételű digitális televízió műsorszóró hálózaton történő műsorterjesztésre vonatkozó szerződéskötési kötelezettséget és részletes szabályait,
+(4) Alakilag érvénytelen pályázat esetén az Elnök a jelentkező pályázati nyilvántartásba vételét végzéssel megtagadja. A nyilvántartásba vételt megtagadó végzés megszünteti az eljárásban a jelentkező ügyféli minőségét. A pályázati nyilvántartásba vételt megtagadó végzés – jogszabálysértésre hivatkozással – a végzés közlésétől számított nyolc napon belül közigazgatási perben támadható. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül dönt. A bíróság határozata ellen perorvoslatnak helye nincs. Keresetlevél benyújtása esetén az Elnök a pályázati eljárást – a bíróság jogerős döntéséig – felfüggeszti. Az Elnök eljárást felfüggesztő végzésével szemben önálló jogorvoslatnak helye nincs.
 
-c) legfeljebb négy általános tematikájú országos médiaszolgáltatóval szemben fennálló, műsorterjesztésre vonatkozó szerződéskötési kötelezettséget,
+(5) Az Elnök pályázat eredménytelenségét, vagy eredményesség esetén a pályázat nyertesét vagy nyerteseit megállapító határozata a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással támadható meg közigazgatási perben. A bíróság a keresetlevelet, a keresetlevél bírósághoz történő beérkezésétől számított hatvan napon belül bírálja el és a kihirdetés napjáig írásba foglalja. A bíróság döntésével szemben perújításnak nincs helye.
 
-d) a pályázaton elnyerhető digitális műsorszóró hálózat, illetve műsorszóró adó műszaki és ellátottsági jellemzőit,
+(6) A bíróság (5) bekezdés szerinti határozata elleni fellebbezés a határozat közlésétől számított tizenöt napon belül terjeszthető elő azzal, hogy a fellebbezés benyújtására meghatározott határidőn belül a fellebbezésnek az elsőfokú bírósághoz meg kell érkeznie. E határidő jogvesztő, melynek elmulasztása miatt igazolási kérelem előterjesztésének nincs helye. A bíróság a fellebbezést hatvan napon belül bírálja el és határozatát e határidőn belül írásba foglalja. E határozattal szemben rendkívüli perorvoslatnak (felülvizsgálatnak, perújításnak) helye nincs.
 
-e) digitális rádió-, illetve televízió műsorszóró hálózat, illetve a műsorszóró adó kiépítésének megkívánt ütemét, illetve üzemeltetése megkezdésének időpontját,
+(7) A bíróság az Elnök határozatát nem változtathatja meg.
 
-f) a digitális műsorszóró hálózaton, illetve a műsorszóró adón nyújtott műsorterjesztési szolgáltatás tervezett lakossági elérésének ütemezését,
+(8) A pályázati ajánlat a pályázati eljárás lezárásáig az Eht. 33. § (2) bekezdése szerinti, törvény által védett titoknak minősül. A pályázati ajánlatot az Elnök az ügy iratai között elkülönítve, zártan kezeli. A pályázati ajánlatban szereplő adatokról az Elnök a 40. § szerinti hatósági szerződés megkötéséig harmadik személynek nem adhat tájékoztatást. A pályázati eljárás lezárásáig a pályázó más pályázó pályázati ajánlatába, valamint harmadik személy a pályázati ajánlatba és az eljárás irataiba nem tekinthet be, azok nem ismerhetők meg.
 
-g) a felhasználók és előfizetők tájékoztatását, valamint digitális vevődekóder kedvezményes és támogatott forgalomba hozatalára vonatkozó rendszer kialakításának és működtetésének ajánlatát,
+(9) A pályázati eljárás lezárását követően a pályázó más pályázó pályázati ajánlatába, valamint harmadik személy a pályázati ajánlatba és az eljárás irataiba akkor tekinthet be, ha igazolja, hogy az irat vagy adat megismerése törvényen alapuló joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges.
 
-h) a közreműködést az érintett országos analóg földfelszíni televíziós sugárzás előrehozott lekapcsolásában,
+(10) A (9) bekezdés szerinti iratbetekintés, adatmegismerés iránti kérelmet az Elnök hatósági eljárásban, az iratbetekintés szabályai szerint bírálja el.
 
-i) a közszolgálati médiaszolgáltatók kivételével a digitális műsorszóró hálózat üzemeltetésére külön gazdasági társaság alakítását, amely az (5) és (6) bekezdésben megjelölt vállalkozással nem állhat irányítási viszonyban,
-
-j) az (5) bekezdés a) pontjában és a (6) bekezdésben foglalt feltétel folyamatos teljesítését,
-
-k) a lakosság légi- és katasztrófariasztásával, tájékoztatásával kapcsolatos kötelezettségeket,
-
-l) a nyertes pályázó, illetve e bekezdés i) pontja szerint az általa létrehozandó gazdasági társaság tulajdonosi szerkezetében vagy tényleges irányítói körében bekövetkezett változások bejelentésével kapcsolatos feltételeket és részletes szabályokat.
-
-(3) A pályázati kiírási dokumentáció a külön jogszabályban meghatározottakon túl értékelési szempontként tartalmazza:
-
-a) azon pályázó előnyben részesítését, amely új földfelszíni műsorterjesztésű általános tematikájú, szabad hozzáférésű médiaszolgáltató elérhetővé tételét kölcsönös szándéknyilatkozattal igazoltan vállalja,
-
-b) a közszolgálati médiaszolgáltatók közszolgálati műsorainak műsorterjesztési díjaira vonatkozó vállalásokat,
-
-c) azon pályázó előnyben részesítését, amely interaktív kiegészítő médiaszolgáltatások bevezetését vállalja,
-
-d) a digitális rádió-, illetve televízió műsorszóró hálózat, illetve a műsorszóró adó kiépítésére vonatkozó, a (2) bekezdés e) pontja szerint meghatározott feltételeknél kedvezőbb vállalásokat,
-
-e) a digitális műsorszóró hálózaton, illetve a műsorszóró adón nyújtott műsorterjesztési szolgáltatás tervezett lakossági elérésére vonatkozó, a (2) bekezdés f) pontja szerinti feltételnél kedvezőbb vállalásokat,
-
-f) a digitális műsorszóró hálózatokon terjesztett műsorok vételére használt digitális vevődekóderek interaktív szolgáltatások igénybevételére való alkalmasságát,
-
-g) a felhasználók és előfizetők tájékoztatásában, valamint digitális vevődekóder esetleges kedvezményes és támogatott forgalomba hozatalára vonatkozó, a (2) bekezdés g) pontja szerinti feltételnél kedvezőbb vállalásokat,
-
-h) az érintett országos analóg földfelszíni televíziós sugárzás előrehozott lekapcsolásában való közreműködésre vonatkozó, a (2) bekezdés h) pontja szerinti feltételnél kedvezőbb vállalásokat.
-
-(4) A pályázati kiírási dokumentáció a (2) és (3) bekezdésben, valamint az Mttv. 9–11. §-ában meghatározottakon túl további műsortartalmi feltételeket és értékelési szempontokat nem tartalmazhat.
-
-(5) A digitális televízió műsorszóró hálózat üzemeltetési jogosultságára vonatkozó pályázaton – kivéve a kizárólag mobil vételű digitális televízió műsorszóró hálózat üzemeltetési jogosultságára vonatkozó a 43. § (3) bekezdésében foglalt pályázatot – nem vehet részt olyan vállalkozás, vagy a vállalkozással irányítási viszonyban álló vállalkozás, amely
-
-a) előfizetőinek összesített száma a televíziós műsorterjesztési piacokon a digitális televízió műsorszóró hálózattal végzett műsorterjesztés kivételével meghaladja a háromszázezret, vagy
-
-b) az Mttv. hatálya alá tartozó, elsősorban Magyarország területére irányuló médiaszolgáltatást végez.
-
-(6)
-
-(7) A pályázaton egyidejűleg nem vehetnek részt olyan természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok vagy egyéb szervezetek, amelyek egymással irányítási viszonyban állnak.
-
-(8)
+(11) A pályázati eljárást lezáró döntés, valamint a nyertes pályázóval kötött hatósági szerződés a személyes adatok, a törvény által védett titok és a védett adatok kivételével bárki számára megismerhetők.

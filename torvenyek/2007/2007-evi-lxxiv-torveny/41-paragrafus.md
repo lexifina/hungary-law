@@ -1,17 +1,7 @@
-41. § (1) A pályázatról a Hatóság honlapján hirdetményt, két országos napilapban felhívást tesz közzé.
+41. § (1) Az Elnök ellenőrzi a 40. § alapján megkötött hatósági szerződésekben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok, valamint a vonatkozó műsorterjesztési alkotmányos alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az Eht. szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
-(2) A pályázati kiírási dokumentáció nyilvántartásba vétel mellett elektronikus formában a Hatóság honlapjáról ingyenesen letölthető, nyomtatott formában költségtérítés ellenében szerezhető be a Hatóság székhelyén.
+(2) A hatósági ellenőrzés eredményeként – az ügyfél szerződésszegése tárgyában – indított hatósági eljárásban az Elnök az Eht.-ben, valamint a hatósági szerződésben meghatározott jogkövetkezményeket alkalmazhatja.
 
-(3) A pályázati kiírási dokumentációról a Hatóság a hirdetményben, illetve felhívásban meghatározott módon, helyen a hirdetmény megjelenését követő tizenöt napon belül konzultációt tart. A közzététel napjának a Hatóság honlapján történő megjelenés napját kell tekinteni.
+(3) Súlyos vagy ismételt ügyfél általi szerződésszegés esetében az Elnök jogosult – a hatósági szerződés eltérő rendelkezése hiányában – a hatósági szerződést azonnali hatállyal felmondani.
 
-(4) A konzultáción a kiírási dokumentációt nyilvántartásba vétel mellett beszerző személyek vagy szervezetek, illetve a kiírási dokumentációban meghatározott számú képviselőik vehetnek részt.
-
-(5) A konzultáción résztvevők a Hatóság számára írásban is feltehetik kérdéseiket legkésőbb a konzultációt megelőző ötödik napig.
-
-(6) A konzultáción résztvevők észrevételeiket a hirdetmény megjelenését követő húsz napon belül írásban tehetik meg.
-
-(7) A Hatóság a konzultációs észrevételekről összefoglalót készít, amelyet a honlapján közzétesz.
-
-(8) A Hatóság a konzultációs észrevételek alapján a hirdetmény megjelenését követő harminc napon belül véglegesíti a pályázati kiírási dokumentációt.
-
-(9)
+(4) A hatósági szerződés módosítása vonatkozásában a bíróság előtt indított per nem befolyásolja a hatósági szerződés végrehajtását, érvényesítését, illetve nem rendelkezik halasztó hatállyal a hatósági szerződés végrehajtása, érvényesítése tekintetében.

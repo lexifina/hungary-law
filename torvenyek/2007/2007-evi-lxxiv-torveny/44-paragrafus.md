@@ -6,6 +6,6 @@
 
 (3) A közszolgálati médiaszolgáltatók médiaszolgáltatásait a digitális televízió műsorszóró hálózat üzemeltetője a legnagyobb lakossági eléréssel rendelkező hálózaton köteles terjeszteni.
 
-(4) Az Mttv. 74. § (1) bekezdésében meghatározott közszolgálati médiaszolgáltatások digitális vételének ingyenesen, illetve az Mttv. 74. § (1) bekezdése szerinti díjon történő biztosítása érdekében a digitális vevődekóderek állami támogatására, illetve a vevődekóderek – helyszínen történő – beszerelésére, telepítésére, valamint az ehhez szükséges eszközök állami támogatására versenysemleges módon, a kizárólag analóg földfelszíni műsorszórási vétellel rendelkező rászoruló háztartások részére, indokolt esetben és mértékben, kérelem alapján, a Hatóság elnöke rendeletében meghatározott módon kerülhet sor. Az állami támogatás részletes szabályait a Hatóság elnöke rendeletben határozza meg.
+(4)
 
-(5) Az állami támogatásra jogosult felhasználók személyes megkeresését és tájékoztatását, illetve a támogatási igényre vonatkozó felmérést a Központi Statisztikai Hivatal (a továbbiakban: KSH) végzi, amennyiben a Hatóság a fenti feladatok ellátására a KSH-val együttműködési megállapodást köt. Az együttműködési megállapodás megkötése esetén abban részletesen szabályozni kell a KSH általi feladatellátás kereteit, illetve a KSH és a Hatóság közötti feladatmegosztást és a feladatok végrehajtása pénzügyi fedezetének átadását. Az együttműködési megállapodásban foglalt feladatok pénzügyi fedezetét a Hatóság a 45. §-ban meghatározott forrásokból biztosítja a KSH részére. Az együttműködési megállapodásban meghatározott feladatok ellátása érdekében a KSH megbízási szerződéseket köthet, célfeladatot tűzhet ki.
+(5)
