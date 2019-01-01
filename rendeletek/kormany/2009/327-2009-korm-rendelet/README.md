@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-327-20-
 | 2014-12-31 | 2009-327-20-22.8 | 518/2013. (XII. 30.) Korm. rendelet |
 | 2016-01-01 | 2009-327-20-22.9 | 484/2015. (XII. 29.) Korm. rendelet |
 | 2017-01-01 | 2009-327-20-22.10 | 480/2016. (XII. 28.) Korm. rendelet |
+| 2019-01-01 | 2009-327-20-22.11 | 309/2018. (XII. 27.) Korm. rendelet |

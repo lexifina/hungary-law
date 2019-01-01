@@ -2,15 +2,15 @@
 
 a) az elektronikus pénz kibocsátásából, valamint a végzett egyéb pénzügyi szolgáltatásból származó(an)
 
-aa)[^38] eszközeit, követelések, értékpapírok, készletek, pénzeszközök, aktív időbeli elhatárolások bontásban, ezekből külön kiemelten bemutatva a hitel és pénzkölcsönügyletből eredő követeléseket, valamint az Fsztv. szerint elkülönített letéti számlára helyezett ügyfélpénzek összegét,
+aa)[^39] eszközeit, követelések, értékpapírok, készletek, pénzeszközök, aktív időbeli elhatárolások bontásban, ezekből külön kiemelten bemutatva a hitel és pénzkölcsönügyletből eredő követeléseket, valamint az Fsztv. szerint elkülönített letéti számlára helyezett ügyfélpénzek összegét,
 
 ab) kötelezettségeit, külön kiemelten bemutatva a fizetési számla kapcsán az ügyféllel szemben fennálló tartozást, a céltartalékokat és a passzív időbeli elhatárolásokat,
 
-ac)[^39] bevételeit, értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei – külön kiemelve abból a kapott (járó) kamatok és kamatjellegű bevételeket – bontásban,
+ac)[^40] bevételeit, értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei – külön kiemelve abból a kapott (járó) kamatok és kamatjellegű bevételeket – bontásban,
 
 ad) ráfordításai közül a költségeket, külön kiemelve az értékesítés közvetlen önköltségét, az értékesítés közvetett költségét, továbbá bemutatva azokat – költségnemenként is – anyagjellegű ráfordítások, személyi jellegű ráfordítások és értékcsökkenés részletezésben,
 
-ae)[^40] további ráfordításait egyéb ráfordítások, pénzügyi műveletek ráfordítása, ebből fizetett (fizetendő) kamatok, kamatjellegű ráfordítások bontásban,
+ae)[^41] további ráfordításait egyéb ráfordítások, pénzügyi műveletek ráfordítása, ebből fizetett (fizetendő) kamatok, kamatjellegű ráfordítások bontásban,
 
 af) mérlegen kívüli függő és jövőbeni (biztos) kötelezettségeit,
 
@@ -22,6 +22,6 @@ ai) be nem folyt kamatokat;
 
 b) a Hitkr. 25. §-ának 7., 28., 40., 42., és 43. pontjai szerinti adatokat az elektronikuspénz-kibocsátó intézmény vonatkozásában, továbbá, ha az a nemzetközi számviteli standardok szerinti konszolidált beszámolót készítő anyavállalatnak minősül, akkor a Hitkr. 26. §-ának (10) bekezdése szerinti adatokat az elektronikuspénz-kibocsátó intézményre vonatkozóan.
 
-[^38]: A 17/C. § a) pont aa) alpontja az 518/2013. (XII. 30.) Korm. rendelet 62. §-ával megállapított, a 362/2014. (XII. 30.) Korm. rendelet 51. §-a szerint módosított szöveg.
-[^39]: A 17/C. § a) pont ac) alpontja a 484/2015. (XII. 29.) Korm. rendelet 95. § 1. pontja szerint módosított szöveg.
-[^40]: A 17/C. § a) pont ae) alpontja a 484/2015. (XII. 29.) Korm. rendelet 95. § 2. pontja szerint módosított szöveg.
+[^39]: A 17/C. § a) pont aa) alpontja az 518/2013. (XII. 30.) Korm. rendelet 62. §-ával megállapított, a 362/2014. (XII. 30.) Korm. rendelet 51. §-a szerint módosított szöveg.
+[^40]: A 17/C. § a) pont ac) alpontja a 484/2015. (XII. 29.) Korm. rendelet 95. § 1. pontja szerint módosított szöveg.
+[^41]: A 17/C. § a) pont ae) alpontja a 484/2015. (XII. 29.) Korm. rendelet 95. § 2. pontja szerint módosított szöveg.

@@ -46,7 +46,7 @@ b) a bizományi ügylet tárgyát képező közraktárjegy és árujegy után �
 
 c)[^29] az árura kötött azonnali adásvételi, származékos ügyletnek nem minősülő leszállítási határidős, opciós és csere (swap) ügyletek során az értékpapírokra vonatkozó bizományi ügyletektől eltérően kell eljárni az (5) bekezdés c) pontja és a (7) bekezdés c) pontja szerint, és az ügyletet az adott árura vonatkozóan egy a megbízóval szembeni sajátszámlás árubeszerzési vagy eladási, egyidejűleg egy harmadik féllel szembeni sajátszámlás áru eladási vagy beszerzési ügyletként kell elszámolni – a kötési ár összegét tekintve bekerülési, illetve eladási értéknek. Az ilyen ügyletek esetében nem csak a pénzmozgással járó gazdasági eseményt kell elszámolni a főkönyvi számlákon a megbízó ügyféllel szembeni kötelezettség növekedéseként vagy csökkenéseként.
 
-(10) Az árutőzsdei szolgáltatás keretében kötött saját számlás határidős, opciós és swap ügyletekre a Tv. és a Bkr. 13–16. §-ának előírásait megfelelően kell alkalmazni azzal, hogy
+(10)[^30] Az árutőzsdei szolgáltatás keretében kötött saját számlás határidős, opciós és swap ügyletekre a Tv. és a Bkr. 13. §-ának előírásait megfelelően kell alkalmazni azzal, hogy
 
 a) a Bkr. hivatkozott rendelkezéseiben említett kereskedési tevékenység bevétele alatt az értékesítés nettó árbevételét kell érteni,
 
@@ -64,3 +64,4 @@ b) amennyiben az ügylet leszállítási ügylet és tárgya áru, vagy saját t
 [^27]: A 11. § (8) bekezdés a) pontja a 480/2016. (XII. 28.) Korm. rendelet 92. § (4) bekezdésével megállapított szöveg.
 [^28]: A 11. § (8) bekezdés b) pontja a 480/2016. (XII. 28.) Korm. rendelet 94. §-a szerint módosított szöveg.
 [^29]: A 11. § (9) bekezdés c) pontja a 480/2016. (XII. 28.) Korm. rendelet 92. § (5) bekezdésével megállapított szöveg.
+[^30]: A 11. § (10) bekezdés nyitó szövegrésze a 309/2018. (XII. 27.) Korm. rendelet 13. §-a szerint módosított szöveg.
