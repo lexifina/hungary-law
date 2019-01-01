@@ -1,0 +1,3 @@
+26. § A Kjtv. 130. §-a helyébe a következő rendelkezés lép:
+
+„130. § A közjegyzői okiratban fel kell tüntetni a felek, az azonossági és az ügyleti tanúk, a bizalmi személy, valamint az eljárt jogi képviselő és a tolmács lakóhelyét, születési helyét és idejét, lehetőség szerint anyja nevét, szükség esetén a felek egyéb személyi adatait, és azt, hogy ezekről a közjegyző hogyan győződött meg.”
