@@ -18,6 +18,7 @@ c) az a) és b) pontba nem tartozó vizek és közcélú vízilétesítmények p
 
 (5)[^3] Az árvízvédelmi művek, belvízvédelmi és egyéb csatornák, továbbá a tározók vízjogi üzemeltetési engedélyének részét képező üzemeltetési szabályzatnak azokat a rendelkezéseit, amelyek a parti sáv méretének meghatározását tartalmazzák, a vízügyi hatóság vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet közhírré tételre vonatkozó szabályai alkalmazásával közzéteszi.
 
-(6) A parti sávot is magába foglaló parti ingatlan a szakfeladatok közérdekű ellátására figyelemmel használható, hasznosítható.
+(6)[^4] A parti sávot is magába foglaló parti ingatlan a szakfeladatok közérdekű ellátására figyelemmel használható, hasznosítható. A nagyvízi mederkezelési terv hatálya alá nem tartozó parti sávban csak olyan építmény létesíthető, amely a mederkezelő által tervezett, a parti sávot igénybevevő fenntartási munkát megelőzően kiküldött felszólításban meghatározott időpontra elbontható úgy, hogy nem akadályozza a parti sávban a munkagépekkel történő munkavégzést. Az elbontásra legalább három napot kell biztosítani.
 
 [^3]: A 2. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 492. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^4]: A 2. § (6) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.

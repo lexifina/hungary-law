@@ -8,13 +8,13 @@
 
 | 2. | Elsődleges | Akadálymentes hozamátbocsátás minden időszakban, nincs a terepszint fölé emelkedő akadály. Az elsődleges lefolyási sávot lehetőleg a parti sávhoz illeszkedve kell kijelölni. | Nem megengedett. | Nem megengedett. | Engedély nélküli építmények bontása. Nem megfelelő használatból származó lefolyási akadályok felszámolása. |
 
-| 3. | Másodlagos | A nagyvízi mederkezelési tervben meghatározott átbocsátó-képességnek megfelelő levezetésre alkalmas állapotban tartás. | Az 5. § (4) bekezdés a)–c) pontja szerinti építmények. Rendezvények ideiglenes építményei legfeljebb 15 napig kihelyezhetők. | Érvényes építési, illetve létesítési engedéllyel rendelkező építmény esetén lehetséges, alapterület növelése nélkül. Épület a nagyvízi mederkezelési tervben előírt, biztonsági szintet is magában foglaló magasságú padlószint alatt nem lehet körbe épített (lábakon álljon). | Parti sávban a magán üdülőépületek és a nem megfelelő használatból származó lefolyási akadályok megszüntetése. Nem megfelelő használatból származó lefolyási akadályok felszámolása. |
+| 3. | Másodlagos | A nagyvízi mederkezelési tervben meghatározott átbocsátó-képességnek megfelelő levezetésre alkalmas állapotban tartás. | Az 5. § (4) bekezdés a)–c) pontjai szerinti indokolt esetben helyezhető csak el a nagyvízi mederkezelési tervben előírt, biztonsági szintet is magában foglaló magasságú padlószinttel, lábakon álló építmény, egyidejű árvízlevezetést javító intézkedés mellett. Rendezvények ideiglenes építményei legfeljebb 15 napig helyezhetők ki. | Érvényes építési, illetve létesítési engedéllyel rendelkező építmény esetén lehetséges, alapterület növelése nélkül. Épület a nagyvízi mederkezelési tervben előírt, biztonsági szintet is magában foglaló magasságú padlószint alatt nem lehet körbe épített (lábakon álljon). | Parti sávban a magán üdülőépületek és a nem megfelelő használatból származó lefolyási akadályok megszüntetése. Nem megfelelő használatból származó lefolyási akadályok felszámolása. |
 
-| 4. | Átmeneti | Időszakonként elöntésre kerülő terület, a szabályozott és elégséges mértékű (áteresz, hullámtéri hidak stb.) hozamátbocsátás megtartásával. | Rendezvények ideiglenes építményei legfeljebb 90 napig kihelyezhetők. Meglévő üdülőterületen a beépítettség növelése nélkül (pl. egyidejű bontással) üdülőépület vagy a vízpartot használókat kiszolgáló kereskedelmi, szolgáltató létesítmény. A nagyvízi mederkezelési tervben előírt, biztonsági szintet is magában foglaló magasságú padlószinttel, lábakon álló építmény. | A földszint körbeépíthető, továbbá: Építési előírásoknak és kezelői hozzájárulásnak megfelelő, 10 éven belül létesült épület használatba vétele, bővítése megengedett. | Beépítésre nem szánt területen a nem megfelelő használatból származó lefolyási akadályok felszámolása. Építési övezetben az építési engedély és kezelői hozzájárulás nélkül épült létesítmények felszámolása. |
+| 4. | Átmeneti | Időszakonként elöntésre kerülő terület, a szabályozott és elégséges mértékű hozamátbocsátást kell biztosítani a sávban (pl. áteresz, hullámtéri hidak, víz átvezetési lehetőségek stb. segítségével). | Rendezvények ideiglenes építményei legfeljebb 90 napig kihelyezhetők. Meglévő üdülőterületen a beépítettség növelése nélkül (pl. egyidejű bontással) üdülőépület vagy a vízpartot használókat kiszolgáló kereskedelmi, szolgáltató létesítmény. A nagyvízi mederkezelési tervben előírt, biztonsági szintet is magában foglaló magasságú padlószinttel, lábakon álló építmény. | A földszint körbeépíthető, továbbá az építési előírásoknak és kezelői hozzájárulásnak megfelelő, 10 éven belül létesült épület használatba vétele, bővítése megengedett a beépítettség növelése nélkül (pl. egyidejű bontással, lefolyásjavító beavatkozással). A biztonsági szint alatti építmények elöntéssel szembeni ellenállóságáról, illetve árvízvédelméről gondoskodni kell. | Beépítésre nem szánt területen a nem megfelelő használatból származó lefolyási akadályok felszámolása. Építési övezetben az építési engedély és kezelői hozzájárulás nélkül épült létesítmények felszámolása. |
 
-| 5. | Áramlási holttér | Nem vesz részt a nagyvízi hozamok vízszállításában. A hozzájárulást megelőző vizsgálatot ez esetben is el kell végezni, annak ki kell terjednie különösen arra, hogy a holttérből igénybe vett teljes térfogat nem csökkenti a terület víztározó térfogatát az árvízszintet károsan növelő mértékben. | Meglevő üdülőterület beépítetlen telkén új épület helyezhető el, a vonatkozó övezeti előírások keretei között. Az itt elhelyezkedő létesítmények árvíz elleni védettségét biztosítani kell. | Építési engedélynek és kezelői hozzájárulásnak megfelelő, 10 éven túl létesült épület legfeljebb 25 m2 alapterülettel történő bővítése. | Építési övezetben az építési engedély és kezelői hozzájárulás nélkül épült létesítmények szükség szerinti felszámolása. |
+| 5. | Áramlási holttér | Nem vesz részt a nagyvízi hozamok vízszállításában. A hozzájárulást megelőző vizsgálatot ez esetben is el kell végezni. A vizsgálatnak ki kell terjednie különösen arra, hogy a holttérből igénybe vett teljes térfogat nem csökkenti a terület víztározó térfogatát az árvízszintet károsan növelő mértékben, valamint a vízvisszatartási lehetőségekre vagy az egyéb vízgazdálkodási célokra gyakorolt hatásokra. | Meglévő üdülőterület beépítetlen telkén új üdülőépület helyezhető el, a vonatkozó övezeti előírások keretei között. A biztonsági szint alatti építmények elöntéssel szembeni ellenállóságáról, illetve árvízvédelméről gondoskodni kell. | Építési engedélynek és kezelői hozzájárulásnak megfelelő bővítése is megengedett. A biztonsági szint alatti építmények elöntéssel szembeni ellenállóságáról, illetve árvízvédelméről gondoskodni kell. | Építési övezetben az építési engedély és kezelői hozzájárulás nélkül épült létesítmények szükség szerinti felszámolása. |
 
-4. melléklet a 83/2014. (III. 14.) Korm. rendelethez
+4. melléklet a 83/2014. (III. 14.) Korm. rendelethez[^34]
 
 A nagyvízi mederkezelési terv elkészítésével érintett vízfolyások, folyószakaszok
 
@@ -136,7 +136,7 @@ A nagyvízi mederkezelési terv elkészítésével érintett vízfolyások, foly
 
 | 58. | 10.KÖTIVÍZIG | Tisza | SZOLNOK | Vasúti híd | 340,00 | Közös-főcsatorna torkolata | 328,18 |
 
-| 59. | 11.Alsó-Tisza-vidéki Vízügyi Igazgatóság (a továbbiakban: ATIVÍZIG) | Maros | 11.NMT.02. | Államhatár | 49,70 | Tisza-torkolat | 0 |
+| 59. | 11.Alsó-Tisza-vidéki Vízügyi Igazgatóság (a továbbiakban: ATIVÍZIG) | Maros | 11.NMT.02. | Államhatár | 49,60 | Tisza-torkolat | 0 |
 
 | 60. | 11.ATIVÍZIG | Tisza | 11.NMT.01. | Csongrád közigazgatási határ | 253,80 | Országhatár | 159,60 |
 
@@ -152,6 +152,8 @@ A nagyvízi mederkezelési terv elkészítésével érintett vízfolyások, foly
 
 | 66. | 12.KÖVÍZIG | Hármas-Körös | 12.NMT.04. | Sebes- és Kettős-Körös-torkolat | 91,27 | Hortobágy-Berettyó-torkolat | 61,30 |
 
-| 67. | 12.KÖVÍZIG | Hármas-Körös | 12.NMT.05. | Hortobágy-Berettyó-torkolat | 61,30 | Tisza-torkolat | 0 |
+| 67. | 12.KÖVÍZIG | Hármas-Körös | 12.NMT.05. | Békésszentandrási duzzasztó | 47,50 | Tisza-torkolat | 0 |
 
 | 68. | 12.KÖVÍZIG | Hortobágy-Berettyó | 12.NMT.06. | Borzi szivattyútelep | 54,80 | Hármas-Körös-torkolat | 0 |
+
+[^34]: A 4. melléklet a 288/2018. (XII. 21.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
