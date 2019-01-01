@@ -1,0 +1,3 @@
+## 9. Hatályon kívül helyező rendelkezés
+
+31. § Hatályát veszti a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet 2. §-ában az „A központi szolgáltatónak az 1. és a 3. mellékletekben meghatározott szolgáltatások nyújtásához szükséges, a központosított közbeszerzés hatálya alá tartozó termékek és szolgáltatások beszerzéseire a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló kormányrendeletnek a csatlakozásra kötelezett szervezetekre vonatkozó rendelkezéseit kell alkalmazni.” szövegrész.
