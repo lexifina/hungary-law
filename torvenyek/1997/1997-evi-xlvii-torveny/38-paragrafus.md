@@ -46,7 +46,9 @@ u) az EESZT útján elektronikus úton működtetendő betegségregiszterek kör
 
 v) az elektronikus konzílium és digitális képtovábbítás részletes szabályait, valamint a 35/N. § szerinti jelentéstételi és adatszolgáltatási kötelezettségeket és azok teljesítésének rendjét,
 
-w) a látlelet tartalmi és formai követelményeit, kiadásának rendjét
+w) a látlelet tartalmi és formai követelményeit, kiadásának rendjét,
+
+x) a népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó megbetegedések körét, a megbetegedéseket nyilvántartó betegségregisztert vezető szervet, valamint ezen megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
