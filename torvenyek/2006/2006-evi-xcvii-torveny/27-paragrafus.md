@@ -6,7 +6,17 @@
 
 (2) Amennyiben a miniszter azt állapítja meg, hogy az alapszabály jogszabálysértő, illetve más kamarai szabályzat vagy kamarai szerv, illetve tisztségviselő határozata jogszabálysértő vagy alapszabály-ellenes (a továbbiakban együtt: jogsértő), megfelelő határidő kitűzésével felhívja az érintett kamarai szervet, tisztségviselőt a jogsértés megszüntetésére. A kamarai szerv (tisztségviselő) köteles – a miniszter felhívásában megadott határidőn belül – a jogsértést megszüntetni vagy egyet nem értéséről a minisztert tájékoztatni.
 
-(3)–(8)
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
 
 (9) A szakmai kamarák az alapszabály, valamint az etikai kódex elfogadásáról vagy módosításáról hozott döntést hivatalból, az egyéb határozatot pedig felhívásra – az elfogadástól, illetőleg a felhívástól számított 15 napon belül – törvényességi ellenőrzés céljából a miniszter rendelkezésére bocsátják.
 

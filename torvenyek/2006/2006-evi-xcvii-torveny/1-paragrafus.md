@@ -24,4 +24,6 @@ b) országos szerveik
 
 (4) A területi szervezetek és az országos szervek jogi személyek. A területi szervezeteket és az országos szerveket a törvényszék nem veszi nyilvántartásba.
 
-(5)–(6)
+(5)
+
+(6)

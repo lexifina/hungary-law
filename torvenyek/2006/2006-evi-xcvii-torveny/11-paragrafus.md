@@ -2,7 +2,7 @@
 
 ## A TERÜLETI SZERVEZETEK ÉS AZ ORSZÁGOS SZERVEK TISZTSÉGVISELŐINEK VÁLASZTÁSA, VISSZAHÍVÁSA
 
-11. § (1) A tisztségviselőket és az ügyintéző szervek nem tisztségviselő tagjait a szakmai kamara tagjai közül négyéves időtartamra, titkosan választják. Azonos tisztségre a kamarai tag legfeljebb két egymást követő alkalommal választható meg.
+11. § (1) A tisztségviselőket és az ügyintéző szervek nem tisztségviselő tagjait a szakmai kamara tagjai közül négyéves időtartamra, titkosan választják.
 
 (2) A tisztségviselők, illetőleg az ügyintéző szervek nem tisztségviselő tagjainak megbízatása a megszűnést eredményező esemény bekövetkeztének napján szűnik meg.
 
