@@ -424,9 +424,9 @@
 
 13.[^36] Bevándorlási és Menekültügyi Hivatal
 
-14.[^37] Bevándorlási és Menekültügyi Hivatal Menekültügyi Őrzött Befogadó Központ
+14.[^37]
 
-15.[^38] Bevándorlási és Menekültügyi Hivatal Befogadó Állomás
+15.[^38]
 
 16.[^39]
 
@@ -463,7 +463,7 @@
 [^34]: A 2. melléklet 9. pontja a 29/2016. (VII. 15.) BM rendelet 4. §-ával megállapított szöveg.
 [^35]: A 2. melléklet 12. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
 [^36]: A 2. melléklet 13. pontja az 58/2016. (XII. 22.) BM rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^37]: A 2. melléklet 14. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^38]: A 2. melléklet 15. pontja a 20/2018. (VI. 29.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^37]: A 2. melléklet 14. pontját a 35/2018. (XII. 21.) BM rendelet 15. §-a hatályon kívül helyezte.
+[^38]: A 2. melléklet 15. pontját a 35/2018. (XII. 21.) BM rendelet 15. §-a hatályon kívül helyezte.
 [^39]: A 2. melléklet 16. pontját a 37/2016. (IX. 1.) BM rendelet 4. §-a hatályon kívül helyezte.
 [^40]: A 2. melléklet 17. pontját az 58/2016. (XII. 22.) BM rendelet 26. § (2) bekezdése hatályon kívül helyezte.
