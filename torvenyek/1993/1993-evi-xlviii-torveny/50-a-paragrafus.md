@@ -68,7 +68,7 @@ l) az új tárolási engedélyes kijelölésére,
 
 m) az Európai Bizottság számára megküldendő jelentés előkészítésére és benyújtására,
 
-22. az átmeneti bányászjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének eljárására,
+22. az átmeneti bányászjáradék megállapításának, folyósításának, szüneteltetésének, szüneteltetés alóli mentesítésének és megszüntetésének eljárására,
 
 23. a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljárás, az építési tevékenységek körére, az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára, és a szabálytalan építési tevékenység esetén alkalmazandó bírság mértékére,
 

@@ -42,3 +42,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-48-00-00
 | 2018-01-01 | 2017. évi L. törvény | 1993-48-00-00.73 |
 | 2018-07-26 | 2018. évi XL. törvény | 1993-48-00-00.74 |
 | 2018-12-25 | 2018. évi XCVIII. törvény | 1993-48-00-00.75 |
+| 2019-01-01 | 2018. évi CXXIX. törvény | 1993-48-00-00.76 |

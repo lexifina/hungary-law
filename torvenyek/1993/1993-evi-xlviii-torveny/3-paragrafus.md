@@ -24,7 +24,7 @@ személy tulajdonába kerül.
 
 a) a magyar állam nevében és javára eljáró építtető által a magyar állam tulajdonában lévő ingatlanba beépített vagy
 
-b) célkitermelőhely rekultiválására felhasznált
+b) célkitermelőhely vagy bánya rekultiválására felhasznált
 
 ásványi nyersanyag a kitermeléssel nem kerül ki a magyar állam tulajdonából. A kitermelt ásványi nyersanyagnak nem az a) vagy b) pont szerint történő felhasználására, hasznosítására a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársasággal kötött megállapodás alapján a nemzeti vagyonról szóló törvényben, valamint az állami vagyonról szóló törvényben szabályozott feltételekkel és módon kerülhet sor.
 
