@@ -1,0 +1,1 @@
+## 12. § A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője – a Nemzeti Adó- és Vámhivatallal kötött együttműködési megállapodás alapján – az e rendelet hatálya alá tartozó szálláshely-szolgáltatók által átadott adatokat a Nemzeti Turisztikai Adatszolgáltató Központ útján továbbítja a Nemzeti Adó- és Vámhivatal részére.
