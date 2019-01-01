@@ -36,7 +36,7 @@
 
 10b. nemzetbiztonsági célú adatkezelés: a nemzetbiztonsági szolgálatok jogszabályban meghatározott feladat- és hatáskörében végzett adatkezelése, valamint a rendőrség terrorizmust elhárító szervének jogszabályban meghatározott feladat- és hatáskörében végzett, a nemzetbiztonsági szolgálatokról szóló törvény hatálya alá tartozó adatkezelése;
 
-10c. honvédelmi célú adatkezelés: a honvédségi adatkezelésről szóló törvény és a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyarország területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról szóló törvény hatálya alá tartozó adatkezelés;
+10c. honvédelmi célú adatkezelés: a honvédségi adatkezelésről szóló törvény, továbbá a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény, és a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló törvény hatálya alá tartozó adatkezelés;
 
 11. adattovábbítás: az adat meghatározott harmadik személy számára történő hozzáférhetővé tétele;
 
