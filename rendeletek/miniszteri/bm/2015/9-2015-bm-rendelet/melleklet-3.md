@@ -44,7 +44,7 @@
 
 ## k) áramfejlesztő kezelői szaktanfolyam (10 KVA teljesítmény alatti).
 
-## 3.[^30] A KOK által szervezhető egyéb szakmai képzések, továbbképzések, tanfolyamok:
+## 3.[^42] A KOK által szervezhető egyéb szakmai képzések, továbbképzések, tanfolyamok:
 
 ## 1. katasztrófavédelmi alapismereti tanfolyam;
 
@@ -120,7 +120,7 @@ c) egyetemi szintű védelmi igazgatási szak, katasztrófavédelmi szakirány;
 
 d) egyetemi szintű környezetmérnöki szak, katasztrófavédelmi szakirány;
 
-e)[^31] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+e)[^43] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
 
 f) főiskolai szintű műszaki szakoktató szak, tűzvédelmi szakirány (2002. február után beiskolázottak részéről e végzettség csak abban az esetben fogadható el, ha a végzett hallgató rendelkezik a hivatásos állományra előírt valamely – tűzoltás, műszaki mentés vezetésére jogosító – legalább középfokú szakmai képesítéssel, szakképzettséggel);
 
@@ -138,7 +138,7 @@ l) PVOI, Polgári Védelmi Oktatási Központ (a továbbiakban: PVOK), BM KOK 10
 
 1.2. A nem szakmai szolgálati beosztások esetében (a beosztásnak megfelelő állami képesítés megléte esetén) a minimálisan elfogadott szakmai képzési formákat és szaktanfolyamokat 1.1.1. pont tartalmazza.
 
-2.[^32] Tűzoltósági és ügyeleti szakterület szakterület
+2.[^44] Tűzoltósági és ügyeleti szakterület szakterület
 
 2.1. Szakmai szolgálati beosztásokban
 
@@ -162,15 +162,15 @@ e) tiszti vizsga;
 
 f) zászlósképző, 10 hónapos tűzoltó tiszthelyettes-képző, tűzoltó (OKJ azonosító szám: 32 8915 01) szakképesítés vagy
 
-g)[^33] az 1995 előtti legalább megyei szintű irányító szervezet által szervezett egyesületi parancsnoki tanfolyam, valamint 1995-től a 300 tanórát meghaladó képzési idejű önkéntes és létesítményi tűzoltóparancsnok-képző szakon megszerzett képesítés vagy
+g)[^45] az 1995 előtti legalább megyei szintű irányító szervezet által szervezett egyesületi parancsnoki tanfolyam, valamint 1995-től a 300 tanórát meghaladó képzési idejű önkéntes és létesítményi tűzoltóparancsnok-képző szakon megszerzett képesítés vagy
 
-h)[^34] BM TOP Tűzvédelmi Kiképző Intézet tűzoltó szakmunkásképző szak (10 hónapos) OKJ 93 25362 14 20 01 tűzoltó.
+h)[^46] BM TOP Tűzvédelmi Kiképző Intézet tűzoltó szakmunkásképző szak (10 hónapos) OKJ 93 25362 14 20 01 tűzoltó.
 
 2.1.3. Felsőszintű:
 
 a) egyetemi vagy főiskolai végzettség megszerzését követően a tűzoltó tiszti átképző, tűzoltó átképző szakon szerzett képesítés;
 
-b)[^35] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+b)[^47] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
 
 c) főiskolai szintű katasztrófavédelmi szak (e végzettség csak abban az esetben fogadható el, ha a végzett hallgató rendelkezik a hivatásos állományra előírt, valamely – tűzoltás, műszaki mentés vezetésére jogosító – legalább középfokú szakmai képesítéssel, szakképzettséggel);
 
@@ -188,7 +188,7 @@ i) a 2002. december 31. előtt megszerzett tűzoltó technikusi képesítés a 2
 
 j) a kétéves nappali vagy hároméves levelező tisztképző szakon és a BM Akadémia Tűzoltó Tagozatán szerzett képesítés, a 2002. december 31. előtt megkezdett felsőfokú iskolai tanulmányokban szerzett végzettséggel együtt,
 
-k)[^36] főiskolai szintű katasztrófavédelmi szak, tűzvédelmi szakirány.
+k)[^48] főiskolai szintű katasztrófavédelmi szak, tűzvédelmi szakirány.
 
 2.2. A nem szakmai szolgálati beosztások esetében (a beosztásnak megfelelő állami képesítés megléte esetén) a minimálisan elfogadott szakmai képzési formákat és szaktanfolyamokat 1.1.1. pont tartalmazza.
 
@@ -204,13 +204,13 @@ a) katasztrófavédelmi alaptanfolyami képesítés.
 
 a) egyetemi és főiskolai szintű végzettség megszerzését követően rendészeti szervező, katasztrófavédelmi szervező, vagy iparbiztonsági szervező szakmairányon szerzett képesítés.
 
-b)[^37] főiskolai szintű katasztrófavédelmi szak, katasztrófavédelmi szakirány;
+b)[^49] főiskolai szintű katasztrófavédelmi szak, katasztrófavédelmi szakirány;
 
 c) egyetemi szintű védelmi igazgatási szak, katasztrófavédelmi szakirány;
 
 d) egyetemi szintű környezetmérnöki szak, katasztrófavédelmi szakirány;
 
-e)[^38] főiskolai szintű katasztrófavédelmi szak, tűzvédelmi szakirány;
+e)[^50] főiskolai szintű katasztrófavédelmi szak, tűzvédelmi szakirány;
 
 f) katasztrófavédelmi mérnöki mesterképzési szak, műszaki és mentésszervezői szakirány, műszaki és technikai szakirány MA (egyetemi szintű);
 
@@ -220,17 +220,17 @@ h) egyetemi és főiskolai szintű végzettség megszerzését követően rendé
 
 i) iparbiztonsági szakirányú egyetemi vagy főiskolai szintű végzettség megszerzését követően katasztrófavédelmi alaptanfolyamon szerzett képesítés.
 
-j)[^39] egyetemi szintű biztonság- és védelempolitikai szak.
+j)[^51] egyetemi szintű biztonság- és védelempolitikai szak.
 
 3.2. A nem szakmai szolgálati beosztások esetében (a beosztásnak megfelelő állami képesítés megléte esetén) a minimálisan elfogadott szakmai képzési formákat és szaktanfolyamokat 1.1.1. pont tartalmazza.
 
-[^30]: A 2. melléklet 3. pontja a 46/2016. (XI. 23.) BM rendelet 9. §-ával megállapított szöveg.
-[^31]: A 3. melléklet 1.1.3. pontja a 46/2016. (XI. 23.) BM rendelet 10. §-ával megállapított szöveg.
-[^32]: A 3. melléklet 2. pontja a 46/2016. (XI. 23.) BM rendelet 10. §-a szerint módosított szöveg.
-[^33]: A 3. melléklet 2.1.2. pont g) alpontja a 46/2016. (XI. 23.) BM rendelet 10. §-ával megállapított szöveg.
-[^34]: A 3. melléklet 2.1.2. pont h) alpontját a 46/2016. (XI. 23.) BM rendelet 10. §-a iktatta be.
-[^35]: A 3. melléklet 2.1.3. pont b) alpontja a 46/2016. (XI. 23.) BM rendelet 10. §-ával megállapított szöveg.
-[^36]: A 3. melléklet 2.1.3. pont k) alpontját a 46/2016. (XI. 23.) BM rendelet 10. §-a iktatta be.
-[^37]: A 3. melléklet 3.1.2. pont b) alpontja a 46/2016. (XI. 23.) BM rendelet 10. §-ával megállapított szöveg.
-[^38]: A 3. melléklet 3.1.2. pont e) alpontja a 46/2016. (XI. 23.) BM rendelet 10. §-ával megállapított szöveg.
-[^39]: A 3. melléklet 3.1.2. pont j) alpontját a 46/2016. (XI. 23.) BM rendelet 10. §-a iktatta be.
+[^42]: A 2. melléklet 3. pontja a 46/2016. (XI. 23.) BM rendelet 9. §-ával megállapított szöveg.
+[^43]: A 3. melléklet 1.1.3. pontja a 46/2016. (XI. 23.) BM rendelet 10. §-ával megállapított szöveg.
+[^44]: A 3. melléklet 2. pontja a 46/2016. (XI. 23.) BM rendelet 10. §-a szerint módosított szöveg.
+[^45]: A 3. melléklet 2.1.2. pont g) alpontja a 46/2016. (XI. 23.) BM rendelet 10. §-ával megállapított szöveg.
+[^46]: A 3. melléklet 2.1.2. pont h) alpontját a 46/2016. (XI. 23.) BM rendelet 10. §-a iktatta be.
+[^47]: A 3. melléklet 2.1.3. pont b) alpontja a 46/2016. (XI. 23.) BM rendelet 10. §-ával megállapított szöveg.
+[^48]: A 3. melléklet 2.1.3. pont k) alpontját a 46/2016. (XI. 23.) BM rendelet 10. §-a iktatta be.
+[^49]: A 3. melléklet 3.1.2. pont b) alpontja a 46/2016. (XI. 23.) BM rendelet 10. §-ával megállapított szöveg.
+[^50]: A 3. melléklet 3.1.2. pont e) alpontja a 46/2016. (XI. 23.) BM rendelet 10. §-ával megállapított szöveg.
+[^51]: A 3. melléklet 3.1.2. pont j) alpontját a 46/2016. (XI. 23.) BM rendelet 10. §-a iktatta be.

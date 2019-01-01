@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-9-20-0A
 | 2017-01-01 | 2015-9-20-0A.4 | 58/2016. (XII. 22.) BM rendelet |
 | 2017-09-01 | 2015-9-20-0A.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-01-01 | 2015-9-20-0A.6 | 40/2017. (XII. 29.) BM rendelet |
+| 2019-01-01 | 2015-9-20-0A.7 | 37/2018. (XII. 28.) BM rendelet |

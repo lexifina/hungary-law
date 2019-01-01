@@ -7,3 +7,7 @@
 (3) Az önkormányzati és a létesítményi tűzoltóságok, valamint az önkéntes tűzoltó egyesületek műszaki eszközeinek és felszereléseinek kezelését szolgáló képzések köre megegyezik a hivatásos katasztrófavédelmi szervekével.
 
 (4) Az önkormányzati és létesítményi tűzoltó tanfolyami végzettség a hivatásos állomány részére előírt egységes rendvédelmi alapozó modul teljesítése esetén elfogadott a tűzoltó II. részszakképesítés szakmai vizsgára bocsátáshoz.
+
+(5)[^5] Az önkéntes tűzoltó egyesületek szaktevékenységét irányító tagjának legalább az 1. melléklet 2.2.2. pontban foglalt középszintű végzettséggel kell rendelkeznie.
+
+[^5]: Az 5. § (5) bekezdését a 46/2016. (XI. 23.) BM rendelet 4. §-a iktatta be.

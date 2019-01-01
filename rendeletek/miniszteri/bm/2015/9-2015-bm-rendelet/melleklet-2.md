@@ -20,7 +20,7 @@
 
 ## c) katasztrófavédelmi referens szakképesítés-ráépülés.
 
-## 1.1.3.[^18] Felsőszintű:
+## 1.1.3.[^21] Felsőszintű:
 
 ## 1. rendészeti szervező szakképesítés, katasztrófavédelmi szervező szakmairány;
 
@@ -64,6 +64,12 @@
 
 ## 21. főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak.
 
+## 22.[^22] katasztrófavédelem mesterképzési szak;
+
+## 23.[^23] rendvédelmi szervező szakirányú továbbképzési szak katasztrófavédelmi szakterület;
+
+## 24.[^24] tűzvédelmi tervezési szakmérnök.
+
 ## 1.1.4. A közalkalmazotti állomány részére munkáltatói igény esetén – az érintett beleegyezésével – az előző szakmai végzettségek, szakképzettségek bármelyike.
 
 ## 1.1.5. A hivatásos katasztrófavédelmi szerveknél tűzvédelmi képesítést igénylő beosztásokban elfogadott szakmai végzettségeket, szakképzettségeket az 1.2. pont tartalmazza.
@@ -84,7 +90,7 @@
 
 ## b) tűzoltó szerparancsnok szakképesítés- ráépülés
 
-## c)[^19] műveletirányító referens képesítés (csak műveletirányító referens beosztás betöltése esetén).
+## c)[^25] műveletirányító referens képesítés (csak műveletirányító referens beosztás betöltése esetén).
 
 ## 1.2. 3. Felsőszintű:
 
@@ -108,7 +114,9 @@
 
 ## j) tűzvédelmi szakmérnök szakképesítés
 
-## k)[^20] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak.
+## k)[^26] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+
+## l)[^27] tűzvédelmi tervezési szakmérnök.
 
 ## 1.2.4. A közalkalmazotti állomány részére munkáltatói igény esetén – az érintett beleegyezésével – az előző szakmai végzettségek, szakképzettségek bármelyike.
 
@@ -124,7 +132,7 @@
 
 ## a) katasztrófavédelmi referens szakképesítés- ráépülés;
 
-## 1.3.3.[^21] Felsőszintű:
+## 1.3.3.[^28] Felsőszintű:
 
 ## 1. rendészeti szervező szakképesítés, katasztrófavédelmi szervező szakmairány;
 
@@ -172,9 +180,15 @@
 
 ## 23. biztonság- és védelempolitika mesterszak;
 
-## 24.[^22] információbiztonsági szakterületen szakirányú egyetemi vagy főiskolai szintű végzettség és szakképzettség megszerzését követően katasztrófavédelmi alapismereti tanfolyam elvégzése;
+## 24.[^29] információbiztonsági szakterületen szakirányú egyetemi vagy főiskolai szintű végzettség és szakképzettség megszerzését követően katasztrófavédelmi alapismereti tanfolyam elvégzése;
 
-## 25.[^23] vízügyi és vízvédelmi szakterületen szakirányú egyetemi vagy főiskolai szintű végzettség és szakképzettség megszerzését követően katasztrófavédelmi alapismereti tanfolyam elvégzése.
+## 25.[^30] vízügyi és vízvédelmi szakterületen szakirányú egyetemi vagy főiskolai szintű végzettség és szakképzettség megszerzését követően katasztrófavédelmi alapismereti tanfolyam elvégzése;
+
+## 26.[^31] katasztrófavédelem mesterképzési szak;
+
+## 27.[^32] rendvédelmi szervező szakirányú továbbképzési szak katasztrófavédelmi szakterület;
+
+## 28.[^33] tűzvédelmi tervezési szakmérnök.
 
 ## 1.3.4. A közalkalmazotti állomány részére munkáltatói igény esetén – az érintett beleegyezésével – az előző szakmai végzettségek, szakképzettségek bármelyike
 
@@ -224,11 +238,11 @@
 
 ## j) tűzvédelmi szakmérnök szakképesítés;
 
-## k)[^24] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+## k)[^34] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
 
-## l)[^25] önkormányzati és létesítményi tűzoltó szervező képesítés;
+## l)[^35] önkormányzati és létesítményi tűzoltó szervező képesítés;
 
-## m)[^26] önkormányzati és létesítményi tűzoltó parancsnok képesítés.
+## m)[^36] önkormányzati és létesítményi tűzoltó parancsnok képesítés.
 
 ## 2.2. Az önkéntes tűzoltó egyesületek szaktevékenység végzésére jogosult tagjainak, valamint az önkormányzati tűzoltóságok önkéntes jogviszonyban álló és létesítményi tűzoltóságok alkalomszerűen igénybe vehető tagjaira vonatkozóan
 
@@ -248,7 +262,7 @@
 
 ## e) önkormányzati és létesítményi tűzoltó szerparancsnok képesítés.
 
-## 2.2.3.[^27] Felsőszintű:
+## 2.2.3.[^37] Felsőszintű:
 
 ## 1. önkéntes és létesítményi tűzoltó parancsnoki tanfolyami végzettség;
 
@@ -288,7 +302,7 @@
 
 ## a) katasztrófavédelmi előadó szakképesítés.
 
-## 3.3.[^28] Felsőszintű:
+## 3.3.[^38] Felsőszintű:
 
 ## 1. katasztrófavédelmi referens szakképesítés-ráépülés;
 
@@ -372,21 +386,34 @@
 
 ## m) tűzvédelmi szakmérnök szakképesítés vagy
 
-## n)[^29] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+## n)[^39] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+
+## o)[^40] tűzvédelmi tervezési szakmérnök;
+
+## p)[^41] katasztrófavédelem mesterképzési szak.
 
 ## 4.4. A hivatásos katasztrófavédelmi szerveknél tűzoltó és tűzvédelmi beosztás betöltésére jogosító felsőszintű képesítések elfogadottak a gazdálkodó szervezeteknél tűzvédelmi szakágazatban foglalkoztatottak azonos szintű képesítéseként.
 
 2. melléklet a 9/2015. (III. 25.) BM rendelethez
 
-[^18]: Az 1. melléklet 1.1.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
-[^19]: Az 1. melléklet 1.2.2. pont c) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
-[^20]: Az 1. melléklet 1.2.3. pont k) alpontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
-[^21]: Az 1. melléklet 1.3.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
-[^22]: Az 1. melléklet 1. pont 1.3. pont 1.3.3. pont 24. alpontját a 40/2017. (XII. 29.) BM rendelet 9. §-a iktatta be.
-[^23]: Az 1. melléklet 1. pont 1.3. pont 1.3.3. pont 25. alpontját a 40/2017. (XII. 29.) BM rendelet 9. §-a iktatta be.
-[^24]: Az 1. melléklet 2.1.3. pont k) alpontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
-[^25]: Az 1. melléklet 2.1.3. pont l) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
-[^26]: Az 1. melléklet 2.1.3. pont m) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
-[^27]: Az 1. melléklet 2.2.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
-[^28]: Az 1. melléklet 3.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
-[^29]: Az 1. melléklet 4.3. pont n) pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet 1.1.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet 1.1.3. pont 22. alpontját a 37/2018. (XII. 28.) BM rendelet 31. §-a iktatta be.
+[^23]: Az 1. melléklet 1.1.3. pont 23. alpontját a 37/2018. (XII. 28.) BM rendelet 31. §-a iktatta be.
+[^24]: Az 1. melléklet 1.1.3. pont 24. alpontját a 37/2018. (XII. 28.) BM rendelet 31. §-a iktatta be.
+[^25]: Az 1. melléklet 1.2.2. pont c) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
+[^26]: Az 1. melléklet 1.2.3. pont k) alpontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^27]: Az 1. melléklet 1.2.3. pont l) alpontját a 37/2018. (XII. 28.) BM rendelet 31. §-a iktatta be.
+[^28]: Az 1. melléklet 1.3.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^29]: Az 1. melléklet 1. pont 1.3. pont 1.3.3. pont 24. alpontját a 40/2017. (XII. 29.) BM rendelet 9. §-a iktatta be.
+[^30]: Az 1. melléklet 1. pont 1.3. pont 1.3.3. pont 25. alpontját a 40/2017. (XII. 29.) BM rendelet 9. §-a iktatta be.
+[^31]: Az 1. melléklet 1.3.3. pont 26. alpontját a 37/2018. (XII. 28.) BM rendelet 31. §-a iktatta be.
+[^32]: Az 1. melléklet 1.3.3. pont 27. alpontját a 37/2018. (XII. 28.) BM rendelet 31. §-a iktatta be.
+[^33]: Az 1. melléklet 1.3.3. pont 28. alpontját a 37/2018. (XII. 28.) BM rendelet 31. §-a iktatta be.
+[^34]: Az 1. melléklet 2.1.3. pont k) alpontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^35]: Az 1. melléklet 2.1.3. pont l) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
+[^36]: Az 1. melléklet 2.1.3. pont m) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
+[^37]: Az 1. melléklet 2.2.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^38]: Az 1. melléklet 3.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^39]: Az 1. melléklet 4.3. pont n) pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^40]: Az 1. melléklet 4.3. pont o) alpontját a 37/2018. (XII. 28.) BM rendelet 31. §-a iktatta be.
+[^41]: Az 1. melléklet 4.3. pont p) alpontját a 37/2018. (XII. 28.) BM rendelet 31. §-a iktatta be.
