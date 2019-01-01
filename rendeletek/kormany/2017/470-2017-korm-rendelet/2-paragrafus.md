@@ -22,7 +22,7 @@ d) a fogyasztók részére elérhetővé tett szolgáltatási kivonatot,
 
 e) minősített bizalmi szolgáltató esetén a szolgáltató vagy alkalmazottja szakképzettségét igazoló okirat hiteles másolatát, vagy ha az adott szakképzettség valamely állami szerv jogszabály alapján rendszeresített nyilvántartásában is szerepel, a szakképzettség megnevezését és az azt igazoló okirat számát, valamint a szolgáltató vagy alkalmazottja szakmai tapasztalatát igazoló részletes szakmai önéletrajzát,
 
-f) a felelősségbiztosítást, valamint a minősített bizalmi szolgáltató esetén a szolgáltatásokra és ezek szolgáltatóira vonatkozó részletes követelményekről szóló jogszabályban meghatározott egyéb pénzügyi követelmények teljesítését igazoló iratokat,
+f)[^1] a felelősségbiztosítást, valamint a minősített bizalmi szolgáltató esetén a szolgáltatásokra és ezek szolgáltatóira vonatkozó részletes követelményekről szóló jogszabályban meghatározott egyéb pénzügyi követelmények teljesítését igazoló iratokat, amennyiben a bizalmi szolgáltatónak felelősségbiztosítással és egyéb pénzügyi biztosítékkal a jogszabály alapján rendelkeznie kell,
 
 g) minősített bizalmi szolgáltató esetén az 1. melléklet, nem minősített bizalmi szolgáltató esetén a 2. melléklet szerinti nyilatkozatot,
 
@@ -31,3 +31,5 @@ h) minősített bizalmi szolgáltató esetén a minősített bizalmi szolgáltat
 i) a bizalmi listán való közzétételhez, illetve a bizalmi lista összeállításához szükséges adatlapot, valamint
 
 j) a bizalmi munkakörök elhatárolását alátámasztó dokumentumokat.
+
+[^1]: A 2. § (2) bekezdés f) pontja a 323/2018. (XII. 28.) Korm. rendelet 61. §-a szerint módosított szöveg.
