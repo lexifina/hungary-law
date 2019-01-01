@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-10-20-1
 | 2017-01-01 | 2015-10-20-15.4 | 25/2016. (XII. 22.) HM rendelet |
 | 2017-06-09 | 2015-10-20-15.5 | 6/2017. (VI. 8.) HM rendelet |
 | 2018-01-27 | 2015-10-20-15.6 | 1/2018. (I. 16.) HM rendelet |
+| 2019-01-01 | 2015-10-20-15.7 | 20/2018. (XII. 28.) HM rendelet |

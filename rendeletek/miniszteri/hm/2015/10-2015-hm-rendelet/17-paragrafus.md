@@ -2,9 +2,9 @@
 
 (2) A fizikai kondicionális képességi követelmény vizsgálatára szolgáló állóképességi mozgásformák
 
-a)[^17] 44 éves korig 3200 méter síkfutás,
+a)[^19] 44 éves korig 3200 méter síkfutás,
 
-b)[^18] 45–49 éves kor között, illetve választható mozgásformaként 50 éves kortól 2000 méter síkfutás, vagy
+b)[^20] 45–49 éves kor között, illetve választható mozgásformaként 50 éves kortól 2000 méter síkfutás, vagy
 
 c) 50 éves kortól, illetve az önkéntes tartalékosok esetében 1600 méter menet sík terepen.
 
@@ -38,5 +38,5 @@ b) futószalag-ergometria.
 
 (10) A fizikai kondicionális képességi követelmény vizsgálata hőségriadó elrendelése esetén csak zárt, megfelelően temperált helyiségben végezhető.
 
-[^17]: A 17. § (2) bekezdés a) pontja a 25/2016. (XII. 22.) HM rendelet 99. §-ával megállapított szöveg.
-[^18]: A 17. § (2) bekezdés b) pontja a 25/2016. (XII. 22.) HM rendelet 99. §-ával megállapított szöveg.
+[^19]: A 17. § (2) bekezdés a) pontja a 25/2016. (XII. 22.) HM rendelet 99. §-ával megállapított szöveg.
+[^20]: A 17. § (2) bekezdés b) pontja a 25/2016. (XII. 22.) HM rendelet 99. §-ával megállapított szöveg.

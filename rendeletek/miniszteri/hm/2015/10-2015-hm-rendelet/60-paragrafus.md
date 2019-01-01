@@ -16,7 +16,7 @@ b) egészségügyi szabadságát a szakorvos FÜV táblázatban javasolja meghos
 
 (6) Ha a személyes megjelenésétől a (3) bekezdés alapján el lehet tekinteni, az MFÜV a rendelkezésre álló felülvizsgálati okmányok adatai alapján első fokon bírálja el a honvéd egészségi alkalmasságát.
 
-(6a)[^50] A FÜV táblázaton fel kell tüntetni, hogy
+(6a)[^55] A FÜV táblázaton fel kell tüntetni, hogy
 
 a) a Hjt. 68/A. § (4) bekezdés szerinti körülményekkel, és
 
@@ -26,14 +26,14 @@ b) a Hjt. 68/A. § (2) bekezdése alapján szolgálati kötelmekkel
 
 c) az érintett egészségi állapota alapján nem katonai munkakört elláthat-e, vagy elvárható-e tőle a mindennapos rendelkezésre állási és munkavégzési kötelezettség.
 
-(6b)[^51] A FÜV Bizottság elnöke a parancsnoki véleményt adó parancsnokot és az alapellátást végző orvost véleményének kiegészítésére megkeresheti, ha a Hjt. 68/A. § (4) bekezdés szerinti körülmények megállapíthatóságához ez szükséges.
+(6b)[^56] A FÜV Bizottság elnöke a parancsnoki véleményt adó parancsnokot és az alapellátást végző orvost véleményének kiegészítésére megkeresheti, ha a Hjt. 68/A. § (4) bekezdés szerinti körülmények megállapíthatóságához ez szükséges.
 
-(6c)[^52] Ha a parancsnoki vélemény, az alapellátást végző orvos véleménye, a rendelkezésre álló egyéb iratok és az elvégzett vizsgálatok alapján a Hjt. 68/A. § (4) bekezdése szerinti közrehatás kétséget kizáróan nem állapítható meg, azt úgy kell tekinteni, hogy a vizsgált személy nem hatott közre egészségi alkalmatlansága bekövetkezésében vagy kialakulásában.
+(6c)[^57] Ha a parancsnoki vélemény, az alapellátást végző orvos véleménye, a rendelkezésre álló egyéb iratok és az elvégzett vizsgálatok alapján a Hjt. 68/A. § (4) bekezdése szerinti közrehatás kétséget kizáróan nem állapítható meg, azt úgy kell tekinteni, hogy a vizsgált személy nem hatott közre egészségi alkalmatlansága bekövetkezésében vagy kialakulásában.
 
 (7) A FÜV táblázat egy eredeti példányát mellékleteivel együtt a felülvizsgálatot végző bizottság irattárában kell elhelyezni. A honvéd állományilletékes parancsnokának és „Katonai szolgálatra alkalmatlan” minősítés esetén a HM központi pénzügyi szervének csak a FÜV táblázat kivonatát kell megküldeni, amely kórismét és indokolást nem tartalmazhat.
 
 (8) A FÜV táblázatot „Orvosi titoktartásra kötelezett” jelzéssel kell ellátni, arról másolatot az érintett honvéd kérelmére vagy törvényben meghatározott személyek és szervek részére lehet kiadni. Másolatot csak a fellebbezéssel nem támadott döntést hozó vagy a fellebbezéssel már nem támadható döntést hozó, felülvizsgálatot végző bizottság készíthet.
 
-[^50]: A 60. § (6a) bekezdését a 25/2016. (XII. 22.) HM rendelet 109. §-a iktatta be.
-[^51]: A 60. § (6b) bekezdését a 25/2016. (XII. 22.) HM rendelet 109. §-a iktatta be.
-[^52]: A 60. § (6c) bekezdését a 25/2016. (XII. 22.) HM rendelet 109. §-a iktatta be.
+[^55]: A 60. § (6a) bekezdését a 25/2016. (XII. 22.) HM rendelet 109. §-a iktatta be.
+[^56]: A 60. § (6b) bekezdését a 25/2016. (XII. 22.) HM rendelet 109. §-a iktatta be.
+[^57]: A 60. § (6c) bekezdését a 25/2016. (XII. 22.) HM rendelet 109. §-a iktatta be.

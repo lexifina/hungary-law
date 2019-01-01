@@ -1,4 +1,4 @@
-## 83. §[^56]
+## 83. §[^61]
 
 1. melléklet a 10/2015. (VII. 30.) HM rendelethez
 
@@ -2532,10 +2532,4 @@ d) K: 3–4, 6, 12, 14, 21; F: 1–2.
 
 e) A katonai kötelmekkel való összefüggés nem vélelmezhető.
 
-| 132 Idült alsó húgyúti, hólyag-, here- és dülmirigygyulladás | A3 | A4 | A5 | A6 | BNO |
-
-| 1. | enyhe | KLGS | KLGS | K | K | N30–N34 N41–N49 |
-
-| 2. | súlyos | E | E | KLGS | KLGS |
-
-[^56]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
