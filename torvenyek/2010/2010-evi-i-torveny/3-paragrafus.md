@@ -42,4 +42,6 @@ s) adattörlés: az anyakönyvben szereplő adat vagy adatcsoport felismerhetetl
 
 t) eseményazonosító: az adott anyakönyvi eseményt azonosító alfanumerikus azonosító,
 
-u) ügyazonosító: az adatbejegyzéskor, adatmódosítás anyakönyvbe történő bejegyzésekor, az adattörléskor, valamint az egyéb elektronikus ügyindításkor képzett alfanumerikus azonosító.
+u) ügyazonosító: az adatbejegyzéskor, adatmódosítás anyakönyvbe történő bejegyzésekor, az adattörléskor, valamint az egyéb elektronikus ügyindításkor képzett alfanumerikus azonosító,
+
+v) harmadik országbeli állampolgár: a magyar állampolgár kivételével minden olyan személy, aki nem EGT-állampolgár, ideértve a hontalant is.
