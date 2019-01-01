@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-47-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 2009-47-00-00.31 |
 | 2018-01-01 | 2017. évi XXXIX. törvény | 2009-47-00-00.32 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2009-47-00-00.33 |
+| 2019-01-01 | 2018. évi CXXXIII. törvény | 2009-47-00-00.34 |

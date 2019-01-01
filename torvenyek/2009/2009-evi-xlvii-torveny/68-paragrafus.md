@@ -120,27 +120,31 @@ d)
 
 a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
 
-b) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+b) a 11. § (1) bekezdés ca), cb), d), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
 c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
 
-d) a 23. § c), f) és g) pontjában meghatározott adatok.
+d) a 23. § c), f)–h) és k) pontjában meghatározott adatok.
 
 (7) Az idegenrendészeti hatóság a harmadik ország állampolgára tartózkodásának engedélyezésére, a tartózkodás feltételeinek ellenőrzésére és az engedély visszavonására irányuló eljárásában közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
 a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
 
-b) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+b) a 11. § (1) bekezdés ca), cb), d), e), f), h), i), a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok.
+c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok,
+
+d) a 23. § c), f)–h) és k) pontjában meghatározott adatok.
 
 (7a) Az idegenrendészeti hatóság az EGT-állampolgár vagy harmadik országbeli állampolgár családtagja tartózkodási jogát igazoló okmány kiállítására, valamint a tartózkodási jog és az állandó tartózkodási jog megszűnésének megállapítására irányuló eljárásban közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
 a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
 
-b) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+b) a 11. § (1) bekezdés ca), cb), d), e), f), h), i), a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok.
+c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok,
+
+d) a 23. § c), f)–h) és k) pontjában meghatározott adatok.
 
 (8) A büntetés-végrehajtási intézet közvetlen hozzáféréssel jogosult
 
