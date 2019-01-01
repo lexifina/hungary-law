@@ -10,11 +10,11 @@ d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve
 
 e) a települési önkormányzat jegyzője
 
-ea) gépjármű-adóztatási feladatok ellátásához a 9. §-ban, a 9/A. § (1) bekezdésében és a 9/D. §-ban megjelölt adatokat,
+ea) gépjármű-adóztatási feladatok ellátásához a 9. § (1)–(1c) és (2)–(6a) bekezdésében, valamint a 9/D. §-ban megjelölt adatokat,
 
-eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/A. § (1) bekezdés a)–e) pontjában, a 9/D. § (1) bekezdés a)–c) pontjában, d) pont da)–db) alpontjában és e) pontjában, valamint a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
+eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/D. § (1) bekezdés a)–c) pontjában, d) pont da)–db) alpontjában és e) pontjában, valamint a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 
-f) az adóhatóság az adóigazgatási eljáráshoz a 8. §(1) bekezdés a) pont aa) és ab) alpontjában, valamint a b) pont ba) és bc) alpontjában, a 9. § (1)–(1b) bekezdésében, a 9. § (2) bekezdés a)–c) pontjában és a 9/A. § (1) bekezdés a)–e) pontjában és a 9/D. § (1) bekezdés a)–d) pontjában, a 9/D. § (2) bekezdés a)–b) pontjában, valamint a 9/D. § (3) bekezdésében meghatározott adatokat;
+f) az adóhatóság az adóigazgatási eljáráshoz a 8. §(1) bekezdés a) pont aa) és ab) alpontjában, valamint a b) pont ba) és bc) alpontjában, a 9. § (1)–(1b) bekezdésében, a 9. § (2) bekezdés a)–c) és e) pontjában és a 9/D. § (1) bekezdés a)–d) pontjában, a 9/D. § (2) bekezdés a)–b) pontjában, valamint a 9/D. § (3) bekezdésében meghatározott adatokat;
 
 g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a 8. § (1) bekezdés a) pont aa) és ab) alpontjában és b) pont ba), bc) és bd) alpontjában meghatározott adatokat;
 
@@ -30,7 +30,7 @@ j) nemzetközi bűnüldözési szervezet a Nemzetközi Bűnügyi Együttműköd�
 
 k) külföldi bűnüldöző szerv nemzetközi szerződés alapján;
 
-l) a gépjármű-felelősségbiztosítást ellátó biztosító a kárrendezési eljáráshoz a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, a (2) bekezdés a), b) és d) pontjaiban, továbbá a 9/A. § (1) bekezdés a)–e) pontjában, a 9/D. § (1) bekezdés a)–b) pontjában, d) pont da)–db) alpontjában, a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
+l) a gépjármű-felelősségbiztosítást ellátó biztosító a kárrendezési eljáráshoz a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, a 9/D. § (1) bekezdés a)–b) pontjában, d) pont da)–db) alpontjában, a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 
 m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat;
 
@@ -66,7 +66,7 @@ ab) a közúti közlekedés ellenőrzésére jogosult hatóságok a közúti kö
 
 b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés c) pontjában, és d) pont dc) alpontjában meghatározott adatok kivételével;
 
-c) a közlekedési hatóság a 9/A–9/B. §-ban meghatározott nyilvántartási adatok kivételével
+c) a közlekedési hatóság a 9. § (1) bekezdés a) és b) pontjában, a 9. § (1c) és (1d) bekezdésében, a 9. § (2) bekezdés a), d) és e) pontjában meghatározott nyilvántartási adatok kivételével
 
 ca) a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatai ellátásához a 8. §-ban meghatározott adatokat,
 

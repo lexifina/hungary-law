@@ -6,11 +6,11 @@ a) a 8. §-ban megjelölt adatokat – a (3) bekezdésben foglalt kivétellel �
 
 b) a 9. § (1) bekezdésében, valamint a 9. § (2) bekezdés a)–e) és g) pontjában meghatározott adatokat a jármű forgalomból történő végleges kivonásától számított tíz évig; a 9. § (2) bekezdés f) pontja szerinti adatokat a törvényben meghatározott időtartamig;
 
-c) a 9/A. § (1) bekezdésében megjelölt adatokat a nyilvántartásba vételt követő tíz évig;
+c) a 9. § (1) bekezdés a) és b) pontjában, (1c) bekezdésében és a 9. § (2) bekezdés a), d) és e) pontjában megjelölt adatokat a nyilvántartásba vételt követő tíz évig;
 
 d) a 8/A. §-ban megjelölt adatokat a parkolási igazolványra való jogosultság megszűnésétől számított öt évig;
 
-e) a 9/B. § (1) bekezdésében megjelölt adatokat a jármű forgalomból történő végleges kivonásától számított öt évig;
+e) a 9. § (1d) bekezdésében, (2) bekezdés a) és d) pontjában megjelölt adatokat a jármű forgalomból történő végleges kivonásától számított öt évig;
 
 f) a 9/C. §-ban megjelölt adatokat az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre való jogosultság megszűnését követő 2 évig;
 

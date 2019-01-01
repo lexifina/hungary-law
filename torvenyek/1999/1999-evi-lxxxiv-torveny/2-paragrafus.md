@@ -4,7 +4,7 @@
 
 1. Engedély-nyilvántartás: a járművezető és a járművezetésre jogosító okmány adatait, továbbá a járművezető forgalomban való részvételével összefüggő egyes jogosultságok és kötelezettségek fennállását igazoló adatokat tartalmazó elektronikus nyilvántartás.
 
-2. Járműnyilvántartás: a járműtulajdonos (üzembentartó), a közúti közlekedésről szóló külön törvény alapján nyilvántartott jármű, illetve a járműokmány adatait, valamint az adatokban bekövetkezett változásokat (történeti állomány) tartalmazó elektronikus nyilvántartás.
+2. Járműnyilvántartás: olyan egységes elektronikus nyilvántartás, amely tartalmazza a járműtulajdonos (üzemben tartó), a közúti közlekedésről szóló külön törvény alapján nyilvántartott jármű, illetve a járműokmány adatait, valamint az adatokban bekövetkezett változásokat (történeti állomány). A járműnyilvántartás tartalmazza a származás-ellenőrzés eredményének nyilvántartását és az előzetes eredetiségvizsgálattal kapcsolatos adatokat.
 
 3. Okmánytár: a nyilvántartás alapiratainak, a nyilvántartásban szereplő adatok változását igazoló okmányok, a cserélt, leadott és a visszavont okmányok nyilvántartása.
 
@@ -22,9 +22,9 @@
 
 10. A jármű előzetes eredetiségvizsgálata: olyan hatósági eljárás, melynek célja a járművek azonosító adatai és a jármű okmányok valódiságának megállapítása.
 
-11. Származás-ellenőrzési nyilvántartás: a külföldről belföldi forgalomba helyezés céljából behozott használt járművek és azok tulajdonosai (üzembentartói) adatainak, valamint a jármű származását igazoló okmányok adatainak és a származás-ellenőrzés eredményének elektronikus nyilvántartása.
+11.
 
-12. Előzetes eredetiségvizsgálati elektronikus nyilvántartás: az előzetes eredetiségvizsgálat során a vizsgált jármű megállapított műszaki és azonosító adatait, rögzített képi adatait, a kérelmező nevét és lakcímét, a vizsgálat eredményét, valamint a vizsgáló jogosultságazonosítóját tartalmazó elektronikus nyilvántartás.
+12.
 
 13. Történeti állomány: a járműnyilvántartás történeti állománya tartalmazza a járműnyilvántartás hatálya alá tartozó járműtulajdonos (üzembentartó) és a jármű minden eddigi, e törvény hatálya alá tartozó adatát és adatváltozását.
 

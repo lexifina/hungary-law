@@ -30,7 +30,7 @@ a) végzi a járművek előzetes eredetiségvizsgálatát;
 
 b) lefolytatja a járművek azonosító jellel történő utólagos ellátásának engedélyezési eljárását;
 
-c) a külföldről behozott használt jármű származásellenőrzési nyilvántartásba vételét követően, az első magyarországi forgalomba helyezését megelőzően a jármű származását ellenőrzi, és ennek érdekében
+c) a külföldről behozott használt jármű származás-ellenőrzési adatainak nyilvántartásba vételét követően, az első magyarországi forgalomba helyezését megelőzően a jármű származását ellenőrzi, és ennek érdekében
 
 ca) jogosult a nemzetközi körözési nyilvántartásból, a SIS II-ből, valamint más külföldi hatóság nyilvántartásából adatot igényelni,
 

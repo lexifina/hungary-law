@@ -6,13 +6,13 @@ a) az engedély-nyilvántartásból;
 
 b) a járműnyilvántartásból;
 
-c) a származás-ellenőrzési nyilvántartásból;
+c)
 
 d) az okmánytárból;
 
 e) a parkolási igazolvány nyilvántartásból;
 
-f) az előzetes eredetiségvizsgálati nyilvántartásból;
+f)
 
 g) az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásából;
 

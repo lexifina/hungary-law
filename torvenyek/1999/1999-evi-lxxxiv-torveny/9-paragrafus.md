@@ -20,6 +20,30 @@ e) tulajdonjoga és üzembentartói joga kezdetének, valamint megszűnésének 
 
 (1b) A járműnyilvántartás tartalmazza a bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog tényét.
 
+(1c) A járműnyilvántartás a jármű származás-ellenőrzése tekintetében tartalmazza
+
+a) a jármű származását igazoló okmányok adatait,
+
+b) a származás ellenőrzésének eredményét.
+
+(1d) A járműnyilvántartás a jármű előzetes eredetiségvizsgálata tekintetében tartalmazza
+
+a) a kérelmező nevét, lakcímét, születési helyét és idejét, továbbá a személyazonosításra használt okmány fajtáját és számát,
+
+b) a közreműködő megnevezését, azonosítóját, adószámát, fizetési számlájának számát, cégjegyzékszámát, székhelyét, továbbá vizsgálóállomásainak címét és azonosítóját, valamint a cégvezető adatait,
+
+c) a vizsgáló természetes személyazonosító adatát, lakcímét, valamint a nyilvántartó által képzett jogosultságazonosítóját,
+
+d) az előírások szerint mért és azonosított egyedi azonosító, valamint rögzített képi adatokat,
+
+e) az okmányok adattartalmának, valamint a jármű egyedi azonosítójának egyezőségére vagy eltérésére vonatkozó megállapításokat,
+
+f) az egyedi azonosítók eredetiségére és valódiságára vonatkozó megállapításokat,
+
+g) az előzetes eredetiségvizsgálat során megállapított minősítést, annak indokolását, valamint az erről kiállított hatósági bizonyítvány sorszámát,
+
+h) a jogszabályban meghatározott minősítés esetén szükséges egyéb hatósági intézkedéseket, azok idejét, az ügyintézőnek a nyilvántartó által képzett jogosultságazonosítóját.
+
 (2) A járműnyilvántartás a külön jogszabályban meghatározottak szerint tartalmazza a jármű
 
 a) azonosító és műszaki adatait, a műszaki érvényesség időtartamának végét vagy a műszaki alkalmatlanságának tényét, valamint motorkódját,
@@ -55,3 +79,5 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 (6a) A járműnyilvántartás tartalmazza a természetes személlyel szemben megindított bírósági adósságrendezési eljárás tényét.
 
 (7) A járműnyilvántartás az (1)–(5) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(8) A származás-ellenőrzéssel kapcsolatos adatok nyilvántartásba vételével összefüggő közlekedési igazgatási hatósági eljárás során a járművet hatósági jelzéssel és engedéllyel ellátni abban az esetben lehet, ha a kötelező gépjármű-felelősségbiztosítás fedezetének meglétét a jármű tulajdonosa igazolta, valamint ha a külön jogszabály alapján a közlekedési hatóság a járművet a közúti forgalomban való részvételre alkalmasnak minősítette.

@@ -30,13 +30,13 @@ ae) a körözés ténye, és
 
 af) az első magyarországi nyilvántartásba vétel időpontjától az adatlekérdezés időpontjáig a jármű nyilvántartott tulajdonosainak száma,
 
-b) a származás-ellenőrzési nyilvántartásból
+b) a járműnyilvántartás származás-ellenőrzésre vonatkozó adatai közül
 
 ba) a jármű származási országa, és
 
 bb) a származás ellenőrzésének eredménye,
 
-c) az előzetes eredetiségvizsgálati nyilvántartásból
+c) a járműnyilvántartás előzetes eredetiségvizsgálatra vonatkozó adatai közül
 
 ca) az előzetes eredetiségvizsgálat végzésének időpontja,
 
