@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-12-00-00
 | 2017-07-01 | 2016. évi XCVII. törvény | 1998-12-00-00.44 |
 | 2018-01-01 | 2017. évi L. törvény | 1998-12-00-00.45 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1998-12-00-00.46 |
+| 2019-01-01 | 2018. évi CXXI. törvény | 1998-12-00-00.47 |
