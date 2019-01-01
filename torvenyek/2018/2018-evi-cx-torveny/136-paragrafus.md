@@ -9,11 +9,3 @@ c) 119. §-a az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése 
 d) 133. § 2. pontja az Alaptörvény XXXI. cikk (3) bekezdése
 
 alapján sarkalatosnak minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

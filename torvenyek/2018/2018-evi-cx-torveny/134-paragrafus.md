@@ -8,7 +8,7 @@ c) 26. alcíme,
 
 d) 45. § (2) bekezdés c) pontja,
 
-e) XI. Fejezete,
+e)
 
 f) 10. melléklet k) pontja,
 
