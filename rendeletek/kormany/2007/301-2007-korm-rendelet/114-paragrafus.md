@@ -1,11 +1,11 @@
-114. §[^235] (1) E rendeletnek az egyes migrációs tárgyú és velük összefüggésben egyes további kormányrendeletek módosításáról szóló 113/2016. (V. 30.) Korm. rendelettel (a továbbiakban: Módkr2.) megállapított rendelkezéseit a Módkr2. hatálybalépése[^236] után indult ügyekben kell alkalmazni.
+114. §[^237] (1) E rendeletnek az egyes migrációs tárgyú és velük összefüggésben egyes további kormányrendeletek módosításáról szóló 113/2016. (V. 30.) Korm. rendelettel (a továbbiakban: Módkr2.) megállapított rendelkezéseit a Módkr2. hatálybalépése[^238] után indult ügyekben kell alkalmazni.
 
-(2) A Módkr2. hatálybalépését[^237] megelőzően az e rendelet alapján biztosított támogatásokat a támogatás megítélése idején hatályos jogszabályok szerint kell továbbfolyósítani, e rendeletnek a Módkr2.-vel megállapított rendelkezései azokat nem érintik.
+(2) A Módkr2. hatálybalépését[^239] megelőzően az e rendelet alapján biztosított támogatásokat a támogatás megítélése idején hatályos jogszabályok szerint kell továbbfolyósítani, e rendeletnek a Módkr2.-vel megállapított rendelkezései azokat nem érintik.
 
-(3)[^238] E rendeletnek az egyes migrációs tárgyú és velük összefüggésben egyes további kormányrendeletek módosításáról szóló 411/2017. (XII. 15.) Korm. rendelettel (a továbbiakban: Módkr3.) megállapított rendelkezéseit a Módkr3. hatálybalépését[^239] követően indult eljárásokban kell alkalmazni.
+(3)[^240] E rendeletnek az egyes migrációs tárgyú és velük összefüggésben egyes további kormányrendeletek módosításáról szóló 411/2017. (XII. 15.) Korm. rendelettel (a továbbiakban: Módkr3.) megállapított rendelkezéseit a Módkr3. hatálybalépését[^241] követően indult eljárásokban kell alkalmazni.
 
-[^235]: A 114. § e rendelet 109. § (2) bekezdése alapján hatályát vesztette, újonnan a 113/2016. (V. 30.) Korm. rendelet 76. §-a iktatta be.
-[^236]: A hatálybalépés napja 2016. június 1.
-[^237]: A hatálybalépés napja 2016. június 1.
-[^238]: A 114. § (3) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 51. §-a iktatta be.
-[^239]: A hatálybalépés időpontja 2018. január 1.
+[^237]: A 114. § e rendelet 109. § (2) bekezdése alapján hatályát vesztette, újonnan a 113/2016. (V. 30.) Korm. rendelet 76. §-a iktatta be.
+[^238]: A hatálybalépés napja 2016. június 1.
+[^239]: A hatálybalépés napja 2016. június 1.
+[^240]: A 114. § (3) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 51. §-a iktatta be.
+[^241]: A hatálybalépés időpontja 2018. január 1.
