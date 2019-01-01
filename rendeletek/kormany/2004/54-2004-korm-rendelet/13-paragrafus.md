@@ -1,4 +1,4 @@
-## 12. §[^30] A sportszervezet köteles együttműködni a sportrendezvény szervezőjével, valamint a rendőrséggel a szurkolótáborok sportrendezvényen való biztonságos részvételének és elkülönítésének megszervezésében.
+## 12. §[^30] A sportszervezet köteles együttműködni a sportrendezvény szervezőjével, valamint a rendőrséggel a szurkolótáborok sportrendezvényen való biztonságos részvételének, elkülönítésének, valamint felügyeletének megszervezésében.
 
 13. §[^31] (1)[^32] Az Stv. 63. § (3) bekezdése szerinti biztonságtechnikai ellenőrzést (a továbbiakban: ellenőrzés) végző szervek – naptári évenként legalább egy alkalommal, a versenyrendszer kezdete előtt legalább 30 nappal – vizsgálják a sportlétesítmény, a nézőtéri lelátó vagy szektor, valamint a biztonságtechnikai berendezések megfelelőségét.
 
@@ -62,7 +62,7 @@ h) a belépőjegyek biztonsági jelölésére, a nézői magatartási szabályok
 
 (5)[^36] Az ellenőrzést végző szervek az ellenőrzés eredménye alapján döntenek arról, hogy a sportlétesítményben nézők részvételével vagy a nézők számának korlátozásával a sportrendezvény biztonságosan megrendezhető-e. Az ellenőrzést végző szervek az ellenőrzés eredményéről nyolc napon belül írásban értesítik az illetékes országos sportági szakszövetséget.
 
-[^30]: A 12. § a 162/2011. (VIII. 18.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^30]: A 12. § a 279/2018. (XII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^31]: A 13. § (1) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^32]: A 13. § (1) bekezdése a 162/2011. (VIII. 18.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
 [^33]: A 13. § (2) bekezdés f) pontja a 162/2011. (VIII. 18.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
