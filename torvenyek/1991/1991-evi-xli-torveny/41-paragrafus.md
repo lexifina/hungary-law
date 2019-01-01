@@ -1,6 +1,6 @@
 41. § A területi kamara jogai és feladatai különösen:
 
-a) megválasztja és visszahívja a területi kamara elnökségét és elnökét,
+a) megválasztja és visszahívja a területi kamara elnökségét, elnökét, valamint számvizsgálóit,
 
 b) meghatározza a kamarai hozzájárulást,
 

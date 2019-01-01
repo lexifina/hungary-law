@@ -1,4 +1,4 @@
-73. § (1) A pénzbírság és a kamarai tisztségtől való megfosztás más fegyelmi büntetéssel együtt is kiszabható. A pénzbírság összege közjegyzővel szemben kétmillió forintig, közjegyzőhelyettessel és közjegyzőjelölttel szemben ötszázezer forintig terjedhet.
+73. § (1) A pénzbírság és a kamarai tisztségtől való megfosztás más fegyelmi büntetéssel együtt is kiszabható. A pénzbírság összege közjegyzővel szemben húszmillió forintig, közjegyzőhelyettessel szemben kétmillió forintig, közjegyzőjelölttel szemben ötszázezer forintig terjedhet.
 
 (2) Pénzbírság kiszabásánál figyelembe kell venni az eljárás alá vont személy jövedelmi viszonyait. A pénzbírság azt a területi kamarát illeti meg, amelyhez az eljárás alá vont személy a fegyelmi eljárás megindításakor tartozott.
 

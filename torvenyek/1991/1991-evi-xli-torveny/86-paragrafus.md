@@ -5,3 +5,5 @@
 (3) Fegyelmi eljárást kimondó határozatában a fegyelmi tanács fegyelmi vizsgálatot rendel el.
 
 (4) Egyszerű ügyben a tanács elnöke – a fegyelmi vizsgálat elrendelését mellőzve – azonnal tárgyalást tűz ki, vagy fegyelmi intézkedést hoz (103. §).
+
+(5) A 69/B. § (3) bekezdése alapján megindított fegyelmi eljárásban a tanács elnöke – a fegyelmi vizsgálat elrendelését mellőzve – 30 napon belülre tárgyalást tűz ki.

@@ -3,3 +3,5 @@
 (2) A közjegyzői önkormányzat működésével felmerülő kiadásokat a közjegyzők által fizetett kamarai hozzájárulás fedezi.
 
 (3) A közjegyző és a közjegyzőhelyettes az önkormányzati tisztségekre választhat és választható.
+
+(4) A közjegyzői önkormányzat szerveiben a választójog és a szavazati jog csak személyesen gyakorolható.

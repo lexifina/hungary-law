@@ -1,0 +1,5 @@
+69/B. § (1) A közjegyzői díjszabásról szóló jogszabály rendelkezéseinek betartását az országos kamara ellenőrzi.
+
+(2) Az (1) bekezdés szerinti ellenőrzéssel összefüggésben az országos kamara a közjegyző iratait (ideértve a közjegyzői levéltárba és az elektronikus levéltárba leadott iratokat is), nyilvántartásait megtekintheti, azokról másolatot készíthet; valamint megismerheti az országos kamara által vezetett nyilvántartások és az országos kamara által működtetett nyilvántartások és elektronikus rendszerek adatait, továbbá a vizsgálattal érintett közjegyző közjegyzői működésével összefüggő pénzügyi, számviteli és gazdálkodási adatait.
+
+(3) Ha az ellenőrzés eredményeként az országos kamara azt állapítja meg, hogy a közjegyző, illetve az alkalmazottja a közjegyzői díjszabásról szóló jogszabály rendelkezéseit megsértette, az országos elnökség a közjegyzővel szemben feljelentést tesz a fegyelmi bíróság elnökénél. Ha a közjegyzői díjszabásról szóló jogszabály rendelkezéseit a közjegyző alkalmazottja sértette meg, a fegyelmi vétség elkövetőjének a közjegyzőt kell tekinteni.

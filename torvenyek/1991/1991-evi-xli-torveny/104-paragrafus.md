@@ -4,7 +4,7 @@
 
 a) a büntetőeljárás során az eljárás alá vont személyt letartóztatták,
 
-b) az eljárás alá vont személy ellen a cselekvőképességet kizáró vagy korlátozó gondnokság alá helyezés iránt eljárás indult,
+b) az eljárás alá vont személy ellen a cselekvőképességet részlegesen vagy teljesen korlátozó gondnokság alá helyezés iránt eljárás indult,
 
 c)
 

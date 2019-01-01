@@ -1,3 +1,5 @@
-36. § (1) A területi kamara elnöke a helyettes részére a kirendeléséről okiratot állít ki, és ebben megjelöli a helyettesítés tartamát is.
+36. § (1) A helyettesített közjegyző a helyettesítés tartama alatt közjegyzőként nem járhat el.
 
-(2) Az a helyettes, aki nem közjegyző, működésének megkezdésekor a területi kamara elnöke előtt köteles esküt tenni és aláírásmintáját bemutatni. Igazolnia kell a 10. § (2) bekezdése szerinti felelősségbiztosítás fennállását is.
+(2) Az állandó helyettesítés alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes – az állandó helyettes utasítása és felelőssége mellett – eljárhat.
+
+(3) A tartós helyettesítés alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes – a tartós helyettes utasítása és felelőssége mellett – kizárólag a 34. § (1) bekezdés b) pontja és (2) bekezdése szerinti esetekben és kizárólag akkor járhat el, ha a helyettesített közjegyző és a tartós helyettes a helyettesített közjegyző közjegyzőhelyettesének a tartós helyettes általi foglalkoztatásáról is megállapodott, vagy a tartós helyettest a helyettesített közjegyző közjegyzői irodájának helyettes irodavezetőjévé jelölték ki.

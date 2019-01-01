@@ -44,7 +44,7 @@ a) a fél személyazonosság megállapításához adatot nem szolgáltatott,
 
 b) ha a nyilvántartás adatai nem egyeznek meg a rendelkezésre bocsátott adatokkal vagy az igazolvány érvénytelen és a személyazonosság igazolása az (1) bekezdésben írt más módon sem lehetséges.
 
-(7) A közjegyző az ellenőrzés során megismert adatok papír alapú másolatát megőrizheti. A közjegyző a másolatot vagy külön jogszabály szerint őrzi meg, vagy az iratokhoz csatolja és elkülönítve zártan kezeli; a másolatot az ügy irattárba helyezésétől számított 5 évig tárolhatja, ezt követően megsemmisíti. Az adatokat a közjegyző csak a bíróság, az ügyészség, a nyomozó hatóság és a közjegyző tevékenységét ellenőrző területi kamara részére adhatja ki, és részükre teheti lehetővé az adatokba történő betekintést.
+(7) A közjegyző az ellenőrzés során megismert adatokat megőrizheti. A közjegyző az adatokat vagy jogszabály szerint őrzi meg, vagy az azt tartalmazó iratot az iratokhoz csatolja és elkülönítve zártan kezeli; az adatokat az ügy irattárba helyezésétől számított 5 évig tárolhatja, ezt követően megsemmisíti. Az adatokat a közjegyző csak a bíróság, az ügyészség, a nyomozó hatóság és a közjegyző tevékenységét ellenőrző területi kamara részére adhatja ki, és részükre teheti lehetővé az adatokba történő betekintést.
 
 (8) Ha az ellenőrzés során a közjegyző azt állapítja meg, hogy az igazolvány elvesztését, ellopását vagy megsemmisülését bejelentették és megtalálásának vagy megkerülésének ténye nincs nyilvántartva, az igazolvány jogosulatlan felhasználásának megakadályozása céljából haladéktalanul értesíti az illetékes rendőrkapitányságot. A közjegyző bejelentési kötelezettségének teljesítése nem tekinthető a titoktartási kötelezettsége megsértésének.
 

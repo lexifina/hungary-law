@@ -10,4 +10,4 @@ d) a teljesítés módját és határidejét.
 
 (2) Ha a kötelezettség feltételnek vagy időpontnak a bekövetkezésétől függ, a végrehajthatósághoz az is szükséges, hogy a feltétel vagy időpont bekövetkezését közokirat tanúsítsa.
 
-(3) E § alapján akkor van helye végrehajtásnak, ha a közjegyzői okiratba foglalt követelés bírósági végrehajtási útra tartozik, és ha a követelés teljesítési határideje letelt [1994. évi LIII. törvény (Vht.) 21. §].
+(3) E § alapján akkor van helye végrehajtásnak, ha a közjegyzői okiratba foglalt követelés bírósági végrehajtási útra tartozik, és ha a követelés teljesítési határideje letelt.

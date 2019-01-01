@@ -1,5 +1,7 @@
 31/A. § (1) A közjegyző egyénileg vagy közjegyzői iroda keretében folytathatja tevékenységét.
 
+(1a) A 2018. december 31. napját követően kinevezett közjegyző kizárólag közjegyzői iroda keretében folytathatja tevékenységét.
+
 (2) A közjegyzői iroda a közjegyzői tevékenység végzésének elősegítésére határozatlan időre alapított, jogi személyiséggel rendelkező szervezet.
 
 (3) A közjegyzői iroda alapítására, nyilvántartására, működésére, ellenőrzésére, a megszűnésére és tagjainak felelősségére, továbbá e törvény szerinti átalakulására, egyesülésére és szétválására – e törvényben foglalt eltérésekkel – a Polgári Törvénykönyvnek a korlátolt felelősségű társaságra vonatkozó szabályait kell alkalmazni.

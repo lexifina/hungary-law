@@ -10,7 +10,7 @@ c)
 
 d) a közjegyzők ügyvitelének szabályait,
 
-e) az adópolitikáért felelős miniszterrel egyetértésben a közjegyzői díjszabást,
+e) a közjegyzői díjszabást,
 
 f) az e törvény végrehajtásához szükséges részletes eljárási szabályokat,
 

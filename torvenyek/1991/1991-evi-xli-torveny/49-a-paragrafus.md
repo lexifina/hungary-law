@@ -32,7 +32,11 @@ n) a hivatalvizsgálatok időpontja,
 
 o) a fegyelmi büntetések,
 
-p) a közjegyző aláírásmintája.
+p) a közjegyző aláírásmintája,
+
+q) a közjegyző állandó helyettesének neve, 32. § (2) bekezdése szerinti minősége, közjegyző esetén székhelye, a kirendelés időtartama,
+
+r) a közjegyző tartós helyettesének neve, 32. § (2) bekezdése szerinti minősége, közjegyző esetén székhelye, a kirendelés időtartama, helyettesítési megállapodás megkötése esetén ennek ténye.
 
 (3) A közjegyzők távollétéről külön nyilvántartást kell vezetni, és abban fel kell tüntetni a kirendelt helyettes nevét, a helyettesítés kezdő és befejező napját.
 
@@ -96,7 +100,9 @@ f) a névjegyzékbe történő bejegyzés időpontjától számított 30 napon b
 
 g) a területi elnökség megállapítja, hogy a névjegyzékbe való felvétel jogszabályi feltételei – a 17. §-a (3) bekezdésének f) és g) pontja kivételével – már a bejegyzéskor sem álltak fenn,
 
-h) a közjegyző működésének vizsgálata során a területi elnökség megállapítja, hogy foglalkoztatása nem felel meg a jogszabályoknak vagy az országos kamara iránymutatásának.
+h) a közjegyző működésének vizsgálata során a területi elnökség megállapítja, hogy foglalkoztatása nem felel meg a jogszabályoknak vagy az országos kamara iránymutatásának,
+
+i) cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alá kerül.
 
 (6a) A területi elnökség a közjegyzői irodai ügyintézőt törli a közjegyzői irodai ügyintézők nyilvántartásából, ha
 
@@ -108,7 +114,9 @@ c) a 29. § (4) bekezdése szerinti összeférhetetlenségi okot nem szünteti m
 
 d) a területi elnökség megállapítja, hogy a nyilvántartásba való felvétel jogszabályi feltételei már a bejegyzéskor sem álltak fenn, vagy
 
-e) a közjegyző működésének vizsgálata során a területi elnökség megállapítja, hogy foglalkoztatása nem felel meg a jogszabályoknak vagy az országos kamara iránymutatásának.
+e) a közjegyző működésének vizsgálata során a területi elnökség megállapítja, hogy foglalkoztatása nem felel meg a jogszabályoknak vagy az országos kamara iránymutatásának,
+
+f) cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alá kerül.
 
 (7) A közjegyző, a közjegyzőjelölt és a közjegyzőhelyettes az (5) bekezdés a)–g) pontjaiban írt körülményeket köteles haladéktalanul bejelenteni a területi elnökségnek.
 

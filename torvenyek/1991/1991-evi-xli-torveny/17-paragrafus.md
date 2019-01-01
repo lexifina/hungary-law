@@ -12,9 +12,11 @@ e) legalább 3 éves közjegyzőhelyettesi gyakorlatot igazol,
 
 f) nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt,
 
-g) eredményes közjegyzői vizsgát tett, és
+g) eredményes közjegyzői vizsgát tett,
 
-h) az eljárás nyelvének az eljárás lefolytatásához szükséges mértékű ismeretét igazolta.
+h) az eljárás nyelvének az eljárás lefolytatásához szükséges mértékű ismeretét igazolta, és
+
+i) a pályaalkalmassági vizsgálat eredménye alapján a közjegyzői hivatás gyakorlására alkalmas.
 
 (2) Az (1) bekezdés e) pontjában említett gyakorlatnak megfelel a legalább 3 éves
 
@@ -53,3 +55,11 @@ g) aki életmódja vagy magatartása miatt a közjegyzői hivatás gyakorlásáh
 h) akivel szemben a 7. §-ban meghatározott összeférhetetlenségi ok áll fenn és nem vállalja, hogy kinevezése esetén azt az eskütétel időpontjáig megszünteti.
 
 (4) Az eljárás nyelvének az eljárás lefolytatásához szükséges mértékű ismeretét a pályázatot meghirdető területi kamara elnöksége a pályázat elbírálása keretében vizsgálja.
+
+(5) A pályaalkalmassági vizsgálat egészségi, fizikai és pszichikai vizsgálatból áll. A vizsgálatot a bíró pályaalkalmassági vizsgálatára irányadó – jogszabályban meghatározott – rendelkezések szerint kell elvégezni.
+
+(6) A pályaalkalmassági vizsgálatról készített részletes értékelést is tartalmazó szakmai vélemény és az alkalmasságra vonatkozó megállapítás három évig érvényes és új pályázat benyújtása esetén felhasználható.
+
+(7) A pályaalkalmassági vizsgálatról készített részletes értékelést is tartalmazó szakmai véleményt, amely rögzíti az alkalmasságra vonatkozó megállapítást, meg kell küldeni a pályázónak.
+
+(8) A pályaalkalmassági vizsgálat költségét a pályázó viseli. A pályázatot elbíráló területi kamara a pályaalkalmassági vizsgálat költségét a nyertes pályázónak visszatéríti.

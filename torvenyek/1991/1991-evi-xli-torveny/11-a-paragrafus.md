@@ -8,7 +8,15 @@ b) a közjegyzői iroda alapítási engedélyének megadása iránti eljárás,
 
 c) felvétel a közjegyzői irodák kamarai nyilvántartásába, törlés a nyilvántartásból, kivéve, ha a törlésre a cégbíróságnak a közjegyzői irodát a cégjegyzékből törlő jogerős határozata alapján kerül sor, valamint
 
-d) bejegyzés a közjegyzői irodai ügyintézők nyilvántartásába, törlés a nyilvántartásból (a továbbiakban együtt: kamarai hatósági eljárás).
+d) bejegyzés a közjegyzői irodai ügyintézők nyilvántartásába, törlés a nyilvántartásból,
+
+e) a helyettesített közjegyző és az állandó helyettes, valamint a helyettesített közjegyző és a tartós helyettes közötti helyettesítési megállapodás jóváhagyása,
+
+f) a közjegyzői iroda helyettes irodavezetőjének kijelölése és megbízásának megszüntetése, valamint ezzel összefüggésben az irodavezető megbízásának megszüntetése, illetve kijelölése,
+
+g) tartós vagy állandó helyettes kirendelése és a kirendelés visszavonása
+
+(a továbbiakban együtt: kamarai hatósági eljárás).
 
 (2)
 

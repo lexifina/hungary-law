@@ -24,6 +24,6 @@ c) olyan aláírással látja el, amely olyan, törvényben vagy kormányrendele
 
 (5) Az elektronikus közjegyzői okiratot a közjegyző a felek általi aláírást követően minősített elektronikus aláírásával és időbélyegzővel látja el.
 
-(6) A (4) bekezdés b) pontjának alkalmazása során az érintett személy kizárólag az országos kamara által a bizalmi szolgáltatótól beszerzett és a közjegyző rendelkezésére bocsátott technikai eszközt használhatja.
+(6) A (4) bekezdés c) pontjának alkalmazása során az érintett személy kizárólag az országos kamara által a bizalmi szolgáltatótól beszerzett és a közjegyző rendelkezésére bocsátott technikai eszközt használhatja.
 
 (7) Az öröklési jogi és személyállapoti tárgyú ügyleti okiratok kizárólag papíralapon készíthetők el.
