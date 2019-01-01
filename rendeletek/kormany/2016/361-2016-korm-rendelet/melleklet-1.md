@@ -1,4 +1,4 @@
-## 7. § A Bevándorlási és Állampolgársági Hivatal elnevezése Bevándorlási és Menekültügyi Hivatalra változik.
+## 7. §[^4]
 
 1. melléklet a 361/2016. (XI. 29.) Korm. rendelethez
 
@@ -21,3 +21,5 @@ A Bevándorlási és Menekültügyi Hivatal területi szervei
 | 7. | Közép-Dunántúli Regionális Igazgatóság Székhely: Székesfehérvár | Fejér, Veszprém, Komárom-Esztergom megye |
 
 | 8. | Nyugat-Dunántúli Regionális Igazgatóság Székhely: Győr | Győr-Moson-Sopron, Vas, Zala megye |
+
+[^4]: A 7. §-t a 222/2018. (XI. 29.) Korm. rendelet 2. §-a hatályon kívül helyezte.

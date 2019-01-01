@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-361-20-
 | 2017-01-01 | 2016-361-20-22.1 | 361/2016. (XI. 29.) Korm. rendelet |
 | 2017-01-02 | 2016-361-20-22.2 | 2010: CXXX. törvény |
 | 2018-11-30 | 2016-361-20-22.3 | 2010: CXXX. törvény |
+| 2019-01-01 | 2016-361-20-22.4 | 222/2018. (XI. 29.) Korm. rendelet |
