@@ -1,4 +1,4 @@
-24/E. § (1) Az MRP szervezet legfőbb szerve jogkörében az alapító által e feladattal megbízott (egy vagy több) személy (a továbbiakban: meghatalmazott) jár el. Meghatalmazottként önállóan csak ügyvédi iroda járhat el.
+24/E. § (1) Az MRP szervezet legfőbb szerve jogkörében az alapító által e feladattal megbízott ügyvédi iroda (a továbbiakban: meghatalmazott) jár el.
 
 (2) Nem lehet meghatalmazott az alapító (ideértve az MRP-t megindító más személyt is), az alapítóban (közvetlen vagy közvetett) többségi befolyással rendelkező személy, valamint az a jogi személy, amelyben az alapító vagy az alapítóban (közvetlen vagy közvetett) többségi befolyással rendelkező személy rendelkezik (közvetlen vagy közvetett) többségi befolyással, továbbá az említett jogi személy vezető tisztségviselője, felügyelő bizottságának tagja, munkavállalója és bármely említett természetes személy közeli hozzátartozója.
 

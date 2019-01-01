@@ -2,8 +2,8 @@
 
 (2) A több javadalmazási politikát szolgáló MRP szervezet alapszabálya rendelkezhet arról is, hogy az MRP szervezet jogi személyiséggel rendelkező szervezeti egységeinek (az MRP szervezet legalább egy vezető tisztségviselője mellett) egy vagy több külön vezető tisztségviselője is van. A jogi személyiséggel rendelkező önálló szervezeti egység külön vezető tisztségviselője felett a munkáltatói jogokat az MRP szervezet vezető tisztségviselője gyakorolja.
 
-(3) Ha az MRP szervezet jogi személyiséggel rendelkező szervezeti egységekből áll, a jogi személyiséggel rendelkező szervezeti egységek önálló közbenső mérleget és beszámolót készítenek, de az MRP szervezet csak beszámoló készítésére kötelezett. A jogi személyiséggel rendelkező szervezeti egységek közbenső mérlegeinek fordulónapja egymástól eltérhet.
+(3) Ha az MRP szervezet jogi személyiséggel rendelkező szervezeti egységekből áll, a jogi személyiséggel rendelkező szervezeti egységek önálló közbenső mérleget és beszámolót készítenek. A jogi személyiséggel rendelkező szervezeti egységek közbenső mérlegeinek fordulónapja egymástól eltérhet.
 
-(4) A jogi személyiséggel rendelkező szervezeti egység megszüntetésére az MRP szervezet megszüntetésére irányadó rendelkezéseket kell értelemszerűen alkalmazni.
+(4) A jogi személyiséggel rendelkező szervezeti egység megszüntetésére az MRP szervezet megszüntetésére irányadó rendelkezéseket kell értelemszerűen alkalmazni. Ha a megszűnő szervezeti egység jogutódja az az MRP szervezet, amelynek alapszabálya jogi személlyé nyilvánította, a szervezeti egység a megszűnése napjára, mint mérlegfordulónapra részletes leltárral alátámasztott beszámolót kell készíteni, amelyet a jogutód legfőbb szerve a mérlegfordulónapot követő 90 napon belül fogad el. A szervezeti egység eszközeinek és a forrásainak a jogutódlás keretében az MRP szervezetre történő átszállását az MRP szervezet a szervezeti egység utolsó beszámolóját alátámasztó részletes leltárnak megfelelően rögzíti számviteli nyilvántartásaiban.
 
 (5) A több javadalmazási politika végrehajtását szolgáló MRP szervezet megszüntetésére csak akkor kerülhet sor, ha minden érintett javadalmazási politika megszűnt.

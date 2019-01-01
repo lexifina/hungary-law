@@ -1,4 +1,4 @@
-12. § A bíróság az ügyész és a résztvevő keresete alapján:
+12. § A bíróság az ügyész vagy a résztvevő keresete alapján:
 
 a) megsemmisítheti a szervezet törvénysértő határozatát, és szükség szerint új határozat hozatalát rendelheti el;
 

@@ -1,6 +1,6 @@
 ## Az MRP szervezet megalakulása
 
-4. § (1) A szervezet a munkavállalók által, az őket foglalkoztató társaságban tulajdoni részesedés szerzése és a tulajdonosi jogok együttes gyakorlása céljából önkéntesen létrehozott, önkormányzattal és nyilvántartott résztvevőkkel rendelkező jogi személy. Az alapszabály e bekezdésben foglalt céltól nem térhet el.
+4. § (1) A szervezet a munkavállalók tulajdonosi érdekeltségének megteremtése céljából önkéntesen létrehozott, önkormányzattal és nyilvántartott résztvevőkkel rendelkező jogi személy. Az alapszabály e bekezdésben foglalt céltól nem térhet el.
 
 (2) A szervezet által megszerzett vagyonrész a szervezet tulajdonába kerül, amely ezeket az e törvényben és az alapszabályban foglalt feltételeknek megfelelően a résztvevők tulajdonába adja.
 
