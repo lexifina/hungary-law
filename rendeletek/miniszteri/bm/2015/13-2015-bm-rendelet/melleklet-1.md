@@ -1,4 +1,4 @@
-## 2018. december 31. napjáig nem kell alkalmazni.
+## a vízgazdálkodásról szóló 1995. évi LVII. törvény 29. § (7) bekezdésében meghatározott időpontig nem kell alkalmazni.
 
 1. melléklet a 13/2015. (III. 31.) BM rendelethez[^4]
 

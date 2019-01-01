@@ -30,7 +30,7 @@
 
 | 14. | Vas Megyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
 
-4. melléklet a 13/2015. (III. 31.) BM rendelethez[^5]
+4. melléklet a 13/2015. (III. 31.) BM rendelethez[^6]
 
 ## Az igazgatási szolgáltatási díj megállapítására és megfizetésére vonatkozó nyilatkozat
 
@@ -46,4 +46,4 @@ Kelt: ..................................., ................ (év) ..............
 
 aláírás
 
-[^5]: A 4. mellékletet a 42/2017. (XII. 29.) BM rendelet 10. § (2) bekezdése iktatta be.
+[^6]: A 4. mellékletet a 42/2017. (XII. 29.) BM rendelet 10. § (2) bekezdése iktatta be.

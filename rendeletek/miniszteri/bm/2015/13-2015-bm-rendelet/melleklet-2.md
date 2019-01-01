@@ -176,4 +176,6 @@
 
 | 84. | 16. Igazolás kiadása pályázati eljárás keretében igényelt támogatásokhoz | 10 000 |
 
-2. melléklet a 13/2015. (III. 31.) BM rendelethez
+2. melléklet a 13/2015. (III. 31.) BM rendelethez[^5]
+
+[^5]: A 2. melléklet a 36/2018. (XII. 21.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
