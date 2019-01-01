@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-39-20-2
 | --- | --- | --- |
 | 2018-11-15 | 2018-39-20-2C.1 | 39/2018. (XI. 14.) MNB rendelet |
 | 2018-11-16 | 2018-39-20-2C.2 | 2010: CXXX. törvény |
+| 2019-01-01 | 2018-39-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

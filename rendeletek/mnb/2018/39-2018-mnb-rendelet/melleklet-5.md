@@ -1,3 +1,3 @@
-5. melléklet a 39/2018. (XI. 14.) MNB rendelethez[^11]
+## 20182C20000039_4
 
-[^11]: Az 5. melléklet a 13. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+5. melléklet a 39/2018. (XI. 14.) MNB rendelethez

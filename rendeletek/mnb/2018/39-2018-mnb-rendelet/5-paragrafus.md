@@ -1,3 +1,3 @@
-## 4. §[^1]
+5. § (1) A kisbiztosító – a Bit. 230. § (1) bekezdése szerinti kisbiztosító-egyesület (a továbbiakban: kisbiztosító-egyesület) kivételével – a 4. mellékletben foglaltaknak megfelelő tartalommal, formában és határidőre éves aktuáriusi jelentést teljesít az MNB részére.
 
-[^1]: A 4. § a 13. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+(2) A kitöltésre vonatkozó általános előírásokat az 1. melléklet, a kitöltésre vonatkozó részletes előírásokat az 5. melléklet tartalmazza.

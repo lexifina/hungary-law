@@ -1,3 +1,3 @@
-## 7. §[^4]
+8. § (1) Az alkusz és a többes ügynök a 10. mellékletben foglaltaknak megfelelő tartalommal, formában és határidőre féléves és éves felügyeleti jelentést teljesít az MNB részére.
 
-[^4]: A 7. § a 13. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+(2) A kitöltésre vonatkozó általános előírásokat az 1. melléklet, a kitöltésre vonatkozó részletes előírásokat a 11. melléklet tartalmazza.
