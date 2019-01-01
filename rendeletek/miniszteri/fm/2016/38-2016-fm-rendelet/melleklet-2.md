@@ -12,6 +12,6 @@
 
 | 4 | tenyészpulyka | 0,04 |
 
-2. melléklet a 38/2016. (VI. 6.) FM rendelethez[^18]
+2. melléklet a 38/2016. (VI. 6.) FM rendelethez[^19]
 
-[^18]: A 2. melléklet a 9/2018. (VII. 2.) AM rendelet 23. §-ával megállapított szöveg.
+[^19]: A 2. melléklet a 35/2018. (XII. 6.) AM rendelet 30. §-ával megállapított szöveg.

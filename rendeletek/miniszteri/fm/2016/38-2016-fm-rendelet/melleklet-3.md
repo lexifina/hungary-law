@@ -4,15 +4,15 @@
 
 | 1. | Baromfi megnevezés-csoport | Támogatási keret (millió Ft) |
 
-| 2. | étkezési tojást termelő tyúk, valamint tenyésztyúk | 1096 |
+| 2. | étkezési tojást termelő tyúk, valamint tenyésztyúk | 1180 |
 
-| 3. | tenyészliba | 85 |
+| 3. | tenyészliba | 90 |
 
-| 4. | tenyészkacsa | 87 |
+| 4. | tenyészkacsa | 90 |
 
-| 5. | tenyészpulyka | 132 |
+| 5. | tenyészpulyka | 140 |
 
-| 6. | Összesen | 1400 |
+| 6. | Összesen | 1500 |
 
 3. melléklet a 38/2016. (VI. 6.) FM rendelethez
 
