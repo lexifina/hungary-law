@@ -1,4 +1,4 @@
-11. § (1)[^4] A vezetőképzést
+11. § (1)[^6] A vezetőképzést
 
 a) a Semmelweis Egyetem önálló szervezeti egysége,
 
@@ -56,4 +56,4 @@ g) a képzési, valamint a vizsgadíjat és
 
 h) a képzési és vizsgaszabályzatot.
 
-[^4]: A 11. § (1) bekezdése a 31/2018. (IX. 25.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^6]: A 11. § (1) bekezdése a 31/2018. (IX. 25.) EMMI rendelet 4. §-ával megállapított szöveg.

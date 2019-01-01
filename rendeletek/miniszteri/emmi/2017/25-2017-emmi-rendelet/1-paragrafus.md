@@ -14,11 +14,14 @@ d) vezető ápoló, vezető pedagógus, bölcsődei, mini bölcsődei tagintézm
 
 a) az első alkalommal vezetői megbízást kapott személyre, aki a vezetői feladatokat legfeljebb egy év határozott ideig látja el; továbbá
 
-b) a szakápolási központban vezető szakápolóként foglalkoztatott személyre.
+b) a szakápolási központban vezető szakápolóként foglalkoztatott személyre,
+
+c)[^2] a gyermekek esélynövelő szolgáltatásaiban vezetői munkakörben foglalkoztatott személyre.
 
 (3) Ha a (2) bekezdés a) pontja szerinti vezető vezetői megbízása egy éven túl meghosszabbításra kerül, vagy a vezető ismételten megbízásra kerül, a vezetőképzésben való részvételi kötelezettségének kezdete a meghosszabbítás vagy az ismételt megbízás kezdő időpontja.
 
-(4)[^2] Az állami, egyházi vagy nem állami fenntartó dönthet arról, hogy a fenntartásában működő intézményben foglalkoztatott vezető a 11. § (1) bekezdésében meghatározottak közül mely képzésszervező által indított vezetőképzésen vegyen részt.
+(4)[^3] Az állami, egyházi vagy nem állami fenntartó dönthet arról, hogy a fenntartásában működő intézményben foglalkoztatott vezető a 11. § (1) bekezdésében meghatározottak közül mely képzésszervező által indított vezetőképzésen vegyen részt.
 
 [^1]: Az 1. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 56. §-ával megállapított szöveg.
-[^2]: Az 1. § (4) bekezdését a 31/2018. (IX. 25.) EMMI rendelet 2. §-a iktatta be.
+[^2]: Az 1. § (2) bekezdés c) pontját a 40/2018. (XII. 4.) EMMI rendelet 26. §-a iktatta be.
+[^3]: Az 1. § (4) bekezdését a 31/2018. (IX. 25.) EMMI rendelet 2. §-a iktatta be.
