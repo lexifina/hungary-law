@@ -22,7 +22,7 @@ b) a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének
 
 1/F. Kockázat: a veszélyhelyzetben a sérülés vagy az egészségkárosodás valószínűségének és súlyosságának együttes hatása.
 
-1/G. Közúti közlekedés: a vízi, illetőleg légi útvonalon, a vasúti vonalon, a közúton, valamint bármely föld alatti, vagy föld feletti helyi és helyközi menetrendszerinti járattal történő helyváltoztatás.
+1/G. Közúti közlekedés: a vízi, a légi útvonalon, a vasúti vonalon, a közúton, valamint bármely föld alatti vagy föld feletti útvonalon járművel történő helyváltoztatás.
 
 1/H. Pszichoszociális kockázat: a munkavállalót a munkahelyén érő azon hatások (konfliktusok, munkaszervezés, munkarend, foglalkoztatási jogviszony bizonytalansága stb.) összessége, amelyek befolyásolják az e hatásokra adott válaszreakcióit, illetőleg ezzel összefüggésben stressz, munkabaleset, lelki eredetű szervi (pszichoszomatikus) megbetegedés következhet be.
 
@@ -38,7 +38,7 @@ b) a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének
 
 A munkavégzéssel összefüggésben következik be a baleset, ha a munkavállalót a foglalkozás körében végzett munkához kapcsolódó közlekedés, anyagvételezés, anyagmozgatás, tisztálkodás, szervezett üzemi étkeztetés, foglalkozás-egészségügyi szolgáltatás és a munkáltató által nyújtott egyéb szolgáltatás stb. igénybevétele során éri.
 
-Nem tekinthető munkavégzéssel összefüggésben bekövetkező balesetnek (munkabalesetnek) az a baleset, amely a sérültet a lakásáról (szállásáról) a munkahelyére, illetve a munkahelyéről a lakására (szállására) menet közben éri, kivéve, ha a baleset a munkáltató saját vagy bérelt járművével történt.
+Nem tekinthető munkavégzéssel összefüggésben bekövetkező balesetnek (munkabalesetnek) az a baleset, amely a sérültet a lakásáról (szállásáról) a munkahelyére, illetve a munkahelyéről a lakására (szállására) menet közben éri, kivéve, ha a baleset a munkáltató saját tulajdonában álló, bérleti vagy más szerződés alapján, továbbá egyéb megállapodás alapján biztosított járművel történt.
 
 Bányászati munkabaleset: az a munkabaleset, amely a bányafelügyelet hatósági felügyelete alá tartozó tevékenységek végzése során bármely munkáltatónál következett be.
 

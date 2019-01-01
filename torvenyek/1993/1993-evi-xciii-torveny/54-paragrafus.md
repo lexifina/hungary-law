@@ -66,7 +66,7 @@ b) rendszeresen meggyőződni arról, hogy a munkakörülmények megfelelnek-e a
 
 c) a munkavégzés körülményeihez igazodó, illetve az azzal összefüggő veszélyek figyelembevételével megfelelő munkaeszközöket biztosítani a munkavállalók részére;
 
-d) új technológiák bevezetése előtt kellő időben megtárgyalni a munkavállalókkal, illetve munkavédelmi képviselőikkel bevezetésük egészségre és biztonságra kiható következményeit;
+d) a technológia változtatását és az új technológia bevezetését érintő döntés előtt megtárgyalni a munkavállalókkal, valamint munkavédelmi képviselőikkel a változtatás, vagy bevezetés egészségre és biztonságra kiható következményeit;
 
 e) a tudomására jutott rendellenességet, illetve a munka egészséget nem veszélyeztető és biztonságos végzésével kapcsolatos bejelentést haladéktalanul kivizsgálni, a szükséges intézkedéseket megtenni, az érintetteket értesíteni, és közvetlen veszély esetén a munkavégzést leállítani;
 
