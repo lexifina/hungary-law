@@ -1,0 +1,9 @@
+# 38/2018. (XI. 14.) MNB rendelet
+
+a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-38-20-2C
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-01-01 | 2018-38-20-2C.1 | 38/2018. (XI. 14.) MNB rendelet |
