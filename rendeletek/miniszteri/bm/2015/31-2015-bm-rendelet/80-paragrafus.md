@@ -1,3 +1,3 @@
-## 79/A. §[^32] A Hszt. 146. § (1) bekezdés b) pontjában meghatározott rekreációs célú pótszabadságra jogosító, a terrorelhárítási feladatok ellátására rendszeresített szolgálati beosztások körének meghatározását a 2. melléklet tartalmazza.
+## 79/A. §[^33] A Hszt. 146. § (1) bekezdés b) pontjában meghatározott rekreációs célú pótszabadságra jogosító, a terrorelhárítási feladatok ellátására rendszeresített szolgálati beosztások körének meghatározását a 2. melléklet tartalmazza.
 
-[^32]: A 79/A. §-t a 15/2017. (VI. 22.) BM rendelet 9. §-a iktatta be.
+[^33]: A 79/A. §-t a 15/2017. (VI. 22.) BM rendelet 9. §-a iktatta be.
