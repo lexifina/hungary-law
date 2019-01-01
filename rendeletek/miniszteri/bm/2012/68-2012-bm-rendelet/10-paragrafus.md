@@ -6,15 +6,9 @@
 
 (3) A vizsgadíj a mindenkori kormánytisztviselői illetményalap 5%-a.
 
-(4)[^11] A képzési díjat és a vizsgadíjat
-
-a) személy- és vagyonőrök esetén a Belügyminisztérium Magyar Államkincstárnál vezetett 10032000-01483305-38200001 számú bevételek beszedése célelszámolási számlájára,
-
-b) az a) ponton kívüli esetben a vizsgaszervező által megadott számlaszámra,
-
-## legkésőbb a képzés, illetve a vizsga megkezdését megelőző ötödik napig kell befizetni, illetve átutalni.
+(4)[^11] A képzési díjat és a vizsgadíjat a vizsgaszervező által megadott számlaszámra legkésőbb a képzés, illetve a vizsga megkezdését megelőző ötödik napig igazoltan kell befizetni, illetve átutalni.
 
 (5)[^12] A (4) bekezdés a) pontjában meghatározott díj 93%-a a Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamarát, 7%-a a Belügyminisztériumot illeti meg.
 
-[^11]: A 10. § (4) bekezdése a 25/2017. (IX. 25.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^11]: A 10. § (4) bekezdése a 31/2018. (XII. 19.) BM rendelet 18. §-ával megállapított szöveg.
 [^12]: A 10. § (5) bekezdését a 25/2017. (IX. 25.) BM rendelet 1. § (2) bekezdése iktatta be.
