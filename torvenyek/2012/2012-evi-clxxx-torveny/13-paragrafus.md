@@ -2,7 +2,7 @@
 
 13. § (1) Ha az átadás feltételei fennállnak, a bíróság nem ügydöntő végzéssel elrendeli a terhelt átadási letartóztatását és átadását, vagy a 6. § (1) és (2) bekezdése esetén a bíróság előzetesen hozzájárul a terheltnek a további európai elfogatóparancsot kibocsátó tagállam részére történő átadásához.
 
-(2) A bíróság megtagadja az európai elfogatóparancs végrehajtását, ha megtagadási ok áll fenn.
+(2) A bíróság megtagadja az európai elfogatóparancs végrehajtását, ha megtagadási ok áll fenn. A bíróság az európai elfogatóparancs végrehajtásának megtagadásáról az iratok alapján is dönthet.
 
 (3) A tárgyaláson kihirdetett határozattal szemben az ügyészség, a terhelt és a védője a fellebbezést nyomban jelentheti be.
 

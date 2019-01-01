@@ -7,3 +7,5 @@
 (4) Ha a bíróság vagy a miniszter a végrehajtás átvételét megtagadja, vagy ha a (2) bekezdésben meghatározott határidőben a 120. § (1) bekezdés szerinti iratok nem érkeznek meg, az elítéltet haladéktalanul szabadon kell bocsátani.
 
 (5) Az (1) bekezdés alapján elrendelt és a (3) bekezdés alapján fenntartott ideiglenes végrehajtási letartóztatásra a 124/B. §-t megfelelően alkalmazni kell.
+
+(6) Az ideiglenes végrehajtási letartóztatás helyett, az (1)–(5) bekezdés megfelelő alkalmazásával a terhelt ideiglenes végrehajtási bűnügyi felügyelete is elrendelhető, ha a terhelt Magyarországon tényleges tartózkodási hellyel rendelkezik, és személyi, családi körülményeire, a végrehajtandó szabadságvesztés vagy alkalmazandó intézkedés mértékére és a terhelt elfogásának körülményeire figyelemmel megállapítható, hogy a büntetés végrehajtásának megkezdése ideiglenes végrehajtási letartóztatás elrendelése nélkül is biztosítható.

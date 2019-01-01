@@ -2,7 +2,7 @@
 
 123. § (1) A végrehajtás érdekében Magyarországra átszállított elítélttel szemben az átszállítása előtt elkövetett, a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat alapjául szolgáló bűncselekménytől különböző egyéb bűncselekmény tekintetében a 30. §-ban meghatározott specialitás szabályával kapcsolatos rendelkezéseket megfelelően alkalmazni kell azzal, hogy
 
-a) az egyéb bűncselekményt érintő büntetőeljárás lefolytatásához akkor sem szükséges az elítélt hozzájárulása, ha az elítélt az átszállításhoz hozzájárult,
+a) az egyéb bűncselekményt érintő büntetőeljárás lefolytatásához, valamint az egyéb bűncselekmény miatt kiszabott szabadságvesztés végrehajtásához akkor sem szükséges az elítélt hozzájárulása, ha az elítélt az átszállításhoz hozzájárult,
 
 b) az elítélt specialitás szabályáról történő lemondásával kapcsolatban a fogvatartás helye szerint illetékes büntetés-végrehajtási bíró előtt tehet nyilatkozatot.
 

@@ -17,3 +17,7 @@ a tagállami ítélet megfeleltetése iránt intézkedik.
 a) halmazati büntetést szab ki, ha a tagállami ítéletben kiszabott büntetés vagy alkalmazott intézkedés végrehajtásának átvételére került sor, vagy
 
 b) önállóan szab ki büntetést, amely során figyelemmel kell lenni a tagállami határozatban kiszabott büntetésre, illetve alkalmazott intézkedésre.
+
+(4) A bíróság a tagállami ítélet megfeleltetését követően a megfeleltetésről szóló jogerős határozatot az alapügyben elsőfokon eljárt bíróság részére küldi meg a feltételes szabadság megszüntetése, a felfüggesztett szabadságvesztés végrehajtásának elrendelése, a javítóintézeti nevelésből történő ideiglenes elbocsátás megszüntetése vagy a próbára bocsátás megszüntetése és – a (3) bekezdés alkalmazásával – büntetés kiszabása érdekében.
+
+(5) A (4) bekezdésben meghatározott esetben az alapügyben elsőfokon eljárt bíróság a Be. XCIV. Fejezete szerinti egyszerűsített felülvizsgálati eljárás szabályainak megfelelő alkalmazásával jár el azzal, hogy a bűnügyi költséget az állam viseli és az eljárásban a Be. 672. § (4)–(6) bekezdése nem alkalmazható.

@@ -1,8 +1,8 @@
-8. § (1) A Fővárosi Törvényszék az európai elfogatóparancs végrehajtása tárgyában tárgyalást tart.
+8. § (1) Ha e törvény eltérően nem rendelkezik, a Fővárosi Törvényszék az európai elfogatóparancs végrehajtása tárgyában tárgyalást tart.
 
 (2) A Fővárosi Törvényszék meghatározza a tárgyalás határnapját. A terhelt elfogása esetén a tárgyalást az őrizet határidején belül kell megtartani.
 
-(3) A Fővárosi Törvényszék a tárgyalásról – a rendelkezésre álló ügyiratok Nemzetközi Bűnügyi Együttműködési Központ (továbbiakban: NEBEK) közreműködésével történő megküldésével együtt – az ügyészséget értesíti, a tárgyalásra a védőt idézi. Ha a terheltnek nincs meghatalmazott védője és a 7. § (2) bekezdése alapján kirendelt védő megjelenése a tárgyaláson aránytalan nehézséggel járna, a Fővárosi Törvényszék a terhelt részére új védőt rendel ki, egyidejűleg a korábban eljárt védőt a kirendelés alól felmenti. A Fővárosi Törvényszék – a terhelt elfogása esetén a NEBEK útján, az őrizetet foganatosító szerv kísérési feladatainak meghatározásával – gondoskodik a terhelt megjelenéséről.
+(3) A Fővárosi Törvényszék a tárgyalásról – a rendelkezésre álló ügyiratok Nemzetközi Bűnügyi Együttműködési Központ (továbbiakban: NEBEK) közreműködésével történő megküldésével együtt – az ügyészséget értesíti, a tárgyalásra a védőt idézi. Ha a terheltnek nincs meghatalmazott védője és a 7. § (2) bekezdése alapján kirendelt védő megjelenése a tárgyaláson aránytalan nehézséggel járna, a Fővárosi Törvényszék a terhelt részére új védőt rendel ki, egyidejűleg a korábban eljárt védőt a kirendelés alól felmenti. A Fővárosi Törvényszék – a terhelt őrizetének elrendelése esetén a NEBEK útján, az őrizetet foganatosító szerv kísérési feladatainak meghatározásával – gondoskodik a terhelt megjelenéséről.
 
 (4) A tárgyaláson az ügyész és a védő részvétele kötelező. Ha a terhelt a magyar nyelvet nem ismeri, a bíróság tolmácsot rendel ki a részére.
 

@@ -12,7 +12,7 @@ d) az eljárási cselekmény magyarországi helyszínén az európai nyomozási 
 
 (3) A (2) bekezdésben foglaltakról az eljárási cselekmény magyarországi helyszínén jelen lévőket a kihallgatás vagy a meghallgatás előtt tájékoztatni kell.
 
-(4) Az eljárási cselekmény magyarországi helyszínén a bíróság feladatait bírósági tikár, az ügyészség feladatait alügyész is elláthatja.
+(4) Az eljárási cselekmény magyarországi helyszínén a bíróság feladatait bírósági titkár, az ügyészség feladatait alügyész is elláthatja.
 
 (5) A bíróság vagy az ügyészség a tagállami hatóság kérelmére intézkedhet a kihallgatandó vagy meghallgatandó személynek vagy e személyre tekintettel más személynek a Be. 85. § (1) bekezdésében és 86. § (2) bekezdés a), c), d), f) és g) pontjában foglalt rendelkezések szerinti védelméről.
 

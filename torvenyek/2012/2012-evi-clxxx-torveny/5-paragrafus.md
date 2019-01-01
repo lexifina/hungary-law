@@ -12,7 +12,7 @@ d) a 3. § (3) és (4) bekezdése alapján a kettős büntethetőséget vizsgál
 
 e) a terhelt olyan magyar állampolgár, aki Magyarország területén lakcímmel rendelkezik, és a kibocsátó tagállami igazságügyi hatóság nem nyújt megfelelő jogi garanciát arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a terhelt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére, vagy
 
-f) az európai elfogatóparancs végrehajtása súlyosan sértené a büntetőeljárás során a terheltet megillető, nemzetközi szerződésben vagy európai uniós jogi aktusban rögzített alapvető jogokat.
+f) az európai elfogatóparancs végrehajtása súlyosan sértené a terheltet megillető, nemzetközi szerződésben vagy európai uniós jogi aktusban rögzített alapvető jogokat.
 
 (2) A bíróság az európai elfogatóparancs végrehajtását megtagadhatja, ha
 
@@ -26,7 +26,7 @@ d) a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen fel
 
 e) az európai elfogatóparancs olyan bűncselekményre vonatkozik, amelyet egészben vagy részben Magyarország területén követtek el.
 
-(3) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság az európai elfogatóparancs végrehajtását megtagadja, ha az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a terhelt ideiglenes végrehajtási letartóztatását rendeli el, vagy a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtását elrendeli.
+(3) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság az európai elfogatóparancs végrehajtását megtagadja, ha az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a terhelt ideiglenes végrehajtási letartóztatását, ideiglenes végrehajtási bűnügyi felügyeletét rendeli el, vagy a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtását elrendeli.
 
 (4) Ha a terhelt olyan magyar állampolgár, aki Magyarország területén lakcímmel rendelkezik, és az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság megtagadja az európai elfogatóparancs végrehajtását, ha a terhelt az átadásába nem egyezik bele.
 

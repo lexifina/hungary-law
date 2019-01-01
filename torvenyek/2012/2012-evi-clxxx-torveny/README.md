@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-180-00-00
 | 2017-05-23 | 2017. évi XXXIX. törvény | 2012-180-00-00.16 |
 | 2018-01-01 | 2017. évi CXLIV. törvény | 2012-180-00-00.17 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2012-180-00-00.18 |
+| 2019-01-01 | 2018. évi CXXII. törvény | 2012-180-00-00.19 |
