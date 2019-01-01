@@ -18,6 +18,8 @@ e) közigazgatási per esetén a jogerős bírósági határozat keltét és sz�
 
 (5) Külön jogszabály meghatározhat olyan munkaügyi jogsértéseket is, amelyek vonatkozásában a munkaügyi hatóság nyilvánosságra hozatali kötelezettsége akkor keletkezik, ha a jogsértést megállapító hatósági határozat véglegessé válásától vagy – közigazgatási per esetén – a bírósági határozat jogerőre emelkedésétől és végrehajthatóvá válásától számított két éven belül a hatóság vagy a közigazgatási ügyekben eljáró bíróság a korábbival azonos jogsértést ismételten megállapította. E rendelkezés alkalmazásában – a több telephellyel rendelkező munkáltató esetében – ismételt jogsértésen az ugyanazon telephelyen kétéves időszakon belül végleges hatósági vagy jogerős és végrehajtható bírósági határozattal megállapított azonos jogsértést kell érteni.
 
+(5a) A munkaügyi hatóság az ügyfél kérelmére – más hatóság vagy szerv előtti felhasználás céljából – hatósági bizonyítványt ad ki arra vonatkozóan, hogy az (1) bekezdés szerinti nyilvántartás az ügyfél adatait a kérelem benyújtását megelőző két éven belül tartalmazta-e.
+
 (6) A munkaügyi hatóság a határozatának megtámadása esetén
 
 a) a (4) és (5) bekezdésben foglalt adatokat a bíróság jogerős határozatában foglalt döntésére figyelemmel teszi közzé,

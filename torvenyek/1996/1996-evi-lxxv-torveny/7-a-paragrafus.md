@@ -30,7 +30,7 @@ c) a (4) bekezdésben foglalt esetben a minimálbér kétszeresének
 
 megfelelő összeg terheli a foglalkoztatót.
 
-(5a) A (2)–(5) bekezdés szerinti kötelezettség a foglalkoztatót annyi esetben terheli, ahány foglalkoztatott tekintetében az engedély nélküli foglalkoztatást megállapították.
+(5a) A (2)–(5) bekezdés alkalmazásában minimálbéren a teljes munkaidőben foglalkoztatott munkavállaló részére jogszabályban megállapított kötelező legkisebb munkabérnek a munkaügyi ellenőrzés megkezdésekor irányadó havi összegét kell érteni. A fizetési kötelezettség a foglalkoztatót annyi esetben terheli, ahány foglalkoztatott tekintetében az engedély nélküli foglalkoztatást megállapították.
 
 (6) Ha a munkaügyi hatóság a foglalkoztatót az (1)–(5) bekezdés alapján a központi költségvetésbe történő befizetésre kötelezte, ugyanezen jogsértés miatt munkaügyi bírság nem szabható ki.
 

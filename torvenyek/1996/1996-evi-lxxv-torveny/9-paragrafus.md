@@ -4,7 +4,7 @@
 
 (3)
 
-(4) E törvény alkalmazásában a központi költségvetésbe történő befizetéskor a kötelező legkisebb munkabéren a jogszabályban meghatározott kötelező legkisebb munkabér havi mértékét kell érteni.
+(4)
 
 (5) Felhatalmazást kap a Kormány, hogy a munkaügyi hatóságot vagy hatóságokat rendeletben jelölje ki, valamint a hatóság vagy hatóságok eljárására vonatkozó részletes szabályokat rendeletben határozza meg.
 
