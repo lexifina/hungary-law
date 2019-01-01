@@ -30,7 +30,9 @@
 
 | 13. | FBŐ póló | 2 db | 12 |
 
-| 14. | Gyakorló bakancs | 1 pár | 24 |
+| 14. | Gyakorló bakancs, nyári*** | 1 pár | 24 |
+
+| 14a. | Gyakorló bakancs, téli*** | 1 pár | 24 |
 
 | 15. | Félcipő* | 1 pár | 24 |
 
