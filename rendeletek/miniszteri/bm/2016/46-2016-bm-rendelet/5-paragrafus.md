@@ -1,3 +1,3 @@
-## 4. §[^2]
+## 4. § Az R. 5. §-a a következő (5) bekezdéssel egészül ki:
 
-[^2]: A 4. § a 15. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(5) Az önkéntes tűzoltó egyesületek szaktevékenységét irányító tagjának legalább az 1. melléklet 2.2.2. pontban foglalt középszintű végzettséggel kell rendelkeznie.”
