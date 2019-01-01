@@ -2,7 +2,7 @@
 
 (2) A klímavédelmi bírságot a határozat véglegessé válásától számított 45 napon belül kell átutalás vagy postai befizetés útján megfizetni. A klímavédelmi bírság kiszabásáról szóló határozatban rendelkezni kell arról a számlaszámról is, amelyre a klímavédelmi bírságot meg kell fizetni.
 
-(2a) A klímavédelemért felelős hatóság a természetes személy részére a klímavédelmi bírság megfizetésére, a megfizetésre nyitva álló határidőben előterjesztett kérelemre, egy alkalommal legfeljebb hathavi fizetési halasztást adhat vagy engedélyezheti a klímavédelmi bírság legfeljebb hat hónapon keresztül, részletekben történő megfizetését. A kérelem benyújtására irányadó határidő jogvesztő, a határidő elmulasztása esetén igazolási kérelem benyújtásának nincs helye.
+(2a) A klímavédelemért felelős hatóság az ügyfél részére a klímavédelmi bírság megfizetésére, a megfizetésre nyitva álló határidőben előterjesztett kérelemre, egy alkalommal legfeljebb tizenkét havi fizetési halasztást adhat vagy engedélyezheti a klímavédelmi bírság legfeljebb tizenkét hónapon keresztül, részletekben történő megfizetését. A kérelem benyújtására irányadó határidő jogvesztő, a határidő elmulasztása esetén igazolási kérelem benyújtásának nincs helye. A kérelem elbírálása tárgyában hozott végzés ellen közigazgatási pernek van helye.
 
 (2b) A fizetési halasztás és részletfizetés a 10/H. § (4) bekezdésében foglalt szempontok figyelembevétele mellett abban az esetben engedélyezhető, ha
 
