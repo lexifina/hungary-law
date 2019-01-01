@@ -8,6 +8,6 @@
 
 (4) A bérlő a lakást vagy a lakás egy részét albérletbe nem adhatja, a lakásra bérlőtársi jogviszonyt nem létesíthet, és a bérleti jog folytatására tartási szerződést nem köthet.
 
-(5)[^15] A bérlő vállalja, hogy a lakásban életvitelszerűen lakik, valamint a beköltözést követő 3 munkanapon belül intézkedik lakóhelyként vagy tartózkodási helyként történő nyilvántartásba vételéről.
+(5)[^17] A bérlő vállalja, hogy a lakásban életvitelszerűen lakik, valamint a beköltözést követő 3 munkanapon belül intézkedik lakóhelyként vagy tartózkodási helyként történő nyilvántartásba vételéről.
 
-[^15]: A 6. § (5) bekezdését a 15/2016. (V. 11.) BM rendelet 18. §-a iktatta be. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^17]: A 6. § (5) bekezdését a 15/2016. (V. 11.) BM rendelet 18. §-a iktatta be. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.

@@ -30,8 +30,11 @@ g) aki foglalkoztatási helyén lakásépítéshez vagy -vásárláshoz 5 éven 
 
 h) aki korábban belügyi rendelkezésű lakásban jogcím nélküli lakáshasználót hagyott vissza.
 
-(5)[^12] A belügyminiszter az (1) bekezdés a) pontjában, valamint a (4) bekezdés a)–g) pontjában foglaltaktól eltérést engedélyezhet, ha azt kivételes foglalkoztatási érdek, vagy rendkívüli egyéni körülmények indokolják.
+(4a)[^12] Nem adható bérbe ugyanaz a belügyi rendelkezésű lakás annak, aki az adott belügyi rendelkezésű lakást korábban már bérelte, és bérleti jogviszonya az 5. § (1) bekezdés b) pontja vagy az 5. § (2) bekezdése szerint meghatározott időtartam lejártával szűnt meg.
+
+(5)[^13] Az 5. melléklet szerinti vezető a (4) bekezdés a)–g) pontjában foglaltaktól eltérést engedélyezhet, ha azt kivételes foglalkoztatási érdek, vagy rendkívüli egyéni körülmények indokolják.
 
 [^10]: A 4. § (1) bekezdés c) pontja a 15/2016. (V. 11.) BM rendelet 16. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
 [^11]: A 4. § (2) bekezdése a 15/2016. (V. 11.) BM rendelet 16. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
-[^12]: A 4. § (5) bekezdése a 15/2016. (V. 11.) BM rendelet 16. § (3) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^12]: A 4. § (4a) bekezdését az 1/2018. (I. 18.) BM rendelet 13. §-a iktatta be.
+[^13]: A 4. § (5) bekezdése a 31/2018. (XII. 19.) BM rendelet 19. §-ával megállapított szöveg.
