@@ -60,7 +60,7 @@ b) kezeli a kereskedelemfejlesztési pályázatokat: elvégzi a záró beszámol
 
 27. kezeli az ügyfélkapcsolatokat, ellátja az ügyféltámogatással és ügyfélszerzéssel összefüggő feladatokat, növelve ezáltal az ügyfélkapcsolatok profitábilitását,
 
-28. a miniszter által vezetett minisztériummal együttműködve működteti a regionális vállalati és projektspecifikus adatbázisokat,
+28.[^2] a miniszter által vezetett minisztériummal (a továbbiakban: minisztérium) együttműködve működteti a regionális vállalati és projektspecifikus adatbázisokat,
 
 29. közreműködik a Digitális Exportfejlesztési Stratégia végrehajtásában, megismerteti a hazai digitális megoldásokat külföldön, elősegíti azok exportját,
 
@@ -77,3 +77,4 @@ b) kezeli a kereskedelemfejlesztési pályázatokat: elvégzi a záró beszámol
 (3) A HEPA NZrt. a (2) bekezdésben meghatározott feladatai mellett végrehajtja a miniszter által meghatározott egyéb feladatokat.
 
 [^1]: Az 1. § a 4. § (2) bekezdése alapján a HEPA NZrt. jogutódlással történő létrejötte cégbírósági bejegyzésének napján lép hatályba. Az 1/2018. (XI. 15.) KKM határozat alapján a hatálybalépés időpontja 2018. november 7.
+[^2]: Az 1. § (2) bekezdés 28. pontja a 319/2018. (XII. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.

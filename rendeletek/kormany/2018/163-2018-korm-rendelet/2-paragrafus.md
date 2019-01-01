@@ -1,4 +1,4 @@
-## 1/A. §[^2] Az államháztartásról szóló 2011. évi CXCV. törvény 49. §-ában foglaltak alapján a Nyugat-Balkán Beruházási Támogatás előirányzat lebonyolító szerveként a külgazdasági és külügyminiszter a HEPA NZrt.-t megbízhatja.
+## 1/A. §[^3] Az államháztartásról szóló 2011. évi CXCV. törvény 49. §-ában foglaltak alapján a Nyugat-Balkán Beruházási Támogatás előirányzat lebonyolító szerveként a külgazdasági és külügyminiszter a HEPA NZrt.-t megbízhatja.
 
 2. § (1) A miniszter a Statútum rendelet 140. § b), k) és o) pontjában meghatározott feladatainak körében a (2) bekezdés szerinti feladatokat a Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: KGH NKft.) útján, illetve annak közreműködésével látja el a (2) bekezdésben foglaltak szerint.
 
@@ -54,4 +54,4 @@
 
 25. végrehajtja a miniszter által meghatározott egyéb feladatokat.
 
-[^2]: Az 1/A. §-t a 321/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1/A. §-t a 321/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
