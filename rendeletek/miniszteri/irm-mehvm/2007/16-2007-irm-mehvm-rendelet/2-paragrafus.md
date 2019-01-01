@@ -8,4 +8,6 @@
 
 (4) Nem kell díjat fizetni, ha a nyilvántartás szerve az adatigénylőt saját vagy korábbi adatairól bármilyen formában tájékoztatja.
 
-(5) Mentes a díjfizetési kötelezettség alól a helyi önkormányzat, a költségvetési szerv, a közjegyző, továbbá az önálló bírósági végrehajtó.
+(5)[^1]
+
+[^1]: A 2. § (5) bekezdését a 37/2018. (XII. 28.) BM rendelet 6. §-a hatályon kívül helyezte.
