@@ -1,6 +1,8 @@
 ### 212. § [Az önellenőrzési pótlék mértéke]
 
-(1) Az önellenőrzési pótlékot a késedelmi pótlék 50%-ának, ugyanazon bevallásnak ismételt önellenőrzése esetén 75%-ának megfelelő mértékben kell felszámítani a bevallás benyújtására előírt határidő leteltét követő első naptól az önellenőrzés benyújtásának napjáig.
+(1) Az önellenőrzési pótlék mértéke minden naptári nap után a késedelem, illetve az esedékesség előtti igénybevétel (felszámítás) időpontjában érvényes jegybanki alapkamat háromszázhatvanötöd része.
+
+(1a) Ugyanazon bevallás ismételt önellenőrzése esetén az önellenőrzési pótlék mértéke az (1) bekezdésben foglaltak szerint számított összeg másfélszerese.
 
 (2) Ha az önellenőrzés pótlólagos adófizetési kötelezettséget nem eredményezett, mert az adózó adóját az eredeti esedékességkor vagy korábbi önellenőrzése során hiánytalanul megfizette, a fizetendő önellenőrzési pótlék összegét az általános szabályok szerinti mértékkel kell meghatározni, de az ötezer forintot meghaladó összeget nem kell bevallani és megfizetni.
 

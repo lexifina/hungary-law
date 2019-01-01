@@ -2,7 +2,7 @@
 
 (1) Az állami adó- és vámhatóság adatot szolgáltat megkeresésre tizenöt napon belül
 
-a) a központi nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, rehabilitációs hatóság és az egészségbiztosítási szerv, a Magyar Államkincstár, az állami foglalkoztatási szerv, a munkaügyi hatóság, valamint a menekültügyi és idegenrendészeti hatóság részére az adóval összefüggő adatról, tényről, körülményről, ha az valamely ellátás vagy támogatás megállapítása, valamint a folyósítás és a jogviszonyok jogszerűségének ellenőrzése érdekében, idegenrendészeti feladatai ellátásához, továbbá
+a) a központi nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, rehabilitációs hatóság és az egészségbiztosítási szerv, a kincstár, az állami foglalkoztatási szerv, a munkaügyi hatóság, valamint a menekültügyi és idegenrendészeti hatóság részére az adóval összefüggő adatról, tényről, körülményről, ha az valamely ellátás vagy támogatás megállapítása, valamint a folyósítás és a jogviszonyok jogszerűségének ellenőrzése érdekében, idegenrendészeti feladatai ellátásához, továbbá
 
 b) az állami foglalkoztatási szerv részére, ha statisztikai célú adatfeldolgozás érdekében szükséges.
 
@@ -13,6 +13,8 @@ a) a nyugdíjjogosultsághoz, nyugdíj-megállapításhoz, valamint a nyugdíjfo
 b) az egészségbiztosítási ellátások, valamint a rehabilitációs hatóság által folyósított ellátások utólagos ellenőrzéséhez szükséges adatokat az egészségbiztosítási szerv, és a rehabilitációs hatóság részére;
 
 c) az álláskeresési támogatások és a foglalkoztatást elősegítő támogatások megállapításához, ellenőrzéséhez és hatásvizsgálatához adatokat az állami foglalkoztatási szerv részére, a munkaügyi ellenőrzés elősegítéséhez és a munkajogviszonyok jogszerűségének ellenőrzéséhez szükséges adatokat a munkaügyi hatóság részére.
+
+(2a) A honvédelmi egészségkárosodási keresetkiegészítést és a honvédelmi egészségkárosodási járadékot (a továbbiakban együtt: honvédelmi egészségkárosodási ellátás) megállapító honvédelmi szerv a honvédelmi egészségkárosodási ellátásra való jogosultság elbírálása céljából megkeresheti az állami adó- és vámhatóságot annak tisztázása érdekében, hogy a honvédelmi egészségkárosodási ellátásban részesülő a megkeresésben megjelölt időszakban hány – az 1. melléklet 3. pontjában meghatározott – foglalkoztatási jogviszonyban volt bejelentve. Az állami adó- és vámhatóság az e bekezdés szerinti adatszolgáltatást a megkeresés kézbesítésétől számított tizenöt napon belül teljesíti.
 
 (3) Az állami adó- és vámhatóság a társadalombiztosítási ellátások és a foglalkoztatást elősegítő támogatások megállapítása és ellenőrzése céljából elektronikus úton hivatalból átadja a vendéglátó üzlet felszolgálója által a személyi jövedelemadóról benyújtott bevallásban bevallott borravaló után fizetett nyugdíjjárulék alapjára és összegére vonatkozó adatokat a központi nyugdíjbiztosítási szerv részére.
 
@@ -32,6 +34,8 @@ b) a költségvetési támogatásnak a köztartozás megfizetéséig történő 
 
 (9) Az állami adó- és vámhatóság elektronikus úton negyedévente, a negyedévet követő hó utolsó napjáig hivatalból átadja a szociális szövetkezet által benyújtott, havi adó- és járulék bevallásban szereplő adatok közül az egészségügyi szolgáltatási járulékkülönbözet összegére vonatkozó – negyedéves – adatokat a különbözetet az Egészségbiztosítási Alapnak megtérítő Nemzeti Foglalkoztatási Alap részére, az Egészségbiztosítási Alap részére megtérítendő járulékkülönbözet összegének meghatározása érdekében.
 
+(9a) Az állami adó- és vámhatóság megkeresésre elektronikus úton tájékoztatja az ügyvédi kamarát a jogi, ügyvédi szolgáltatást nyújtó adózó adószámáról, valamint az adószámának törléséről.
+
 (10) Az állami adó- és vámhatóság megkeresésre tájékoztatja az AFE beszerzéséhez nyújtandó támogatás kezelő szervét arról, hogy az AFE üzembe helyezési folyamata sikeresen befejeződött.
 
 (11) Az adóhatóság jogosult más adóhatóságot tájékoztatni a hatáskörébe tartozó, adóval kapcsolatos, a titoktartási kötelezettség alá tartozó adatról, tényről, körülményről vagy iratról, ha az valamely adó (vámteher) vagy adóhiány feltárását, behajthatóságának megállapítását, illetve adóigazgatási eljárás lefolytatását lehetővé teszi vagy valószínűsíti. Az adóhatóság tájékoztatja a Nyugdíjbiztosítási Alap, az Egészségbiztosítási Alap és az elkülönített állami pénzalap kezelőjét az általa kezelt alap javára teljesítendő kötelező befizetéssel összefüggő adatról, tényről, körülményről vagy iratról. Az állami adó- és vámhatóság tájékoztatja a központi költségvetésből vagy európai uniós forrásból támogatást folyósító szervet az olyan véglegessé vált döntésről, amely alapján a támogatás folyósításának alapjául szolgáló adatok, illetve a támogatás felhasználására vonatkozó adatok valótlansága valószínűsíthető vagy a folyósítással, felhasználással összefüggésben az ellenőrzés visszaélésre utaló körülményeket tárt fel. Az adóhatóság megkeresés alapján tájékoztatja az állami foglalkoztatási szervet arról, hogy a természetes személynek az álláskeresési ellátás mellett van-e keresőtevékenységből származó jövedelme, és az meghaladja-e a törvényben meghatározott mértéket. A tájékoztatás joga – a kutatás-fejlesztési tevékenység minősítésével összefüggő eljárás lefolytatásához szükséges mértékben – megilleti a kutatás-fejlesztési tevékenység minősítésével összefüggő eljárásra hatáskörrel rendelkező hatóságot is.
@@ -44,29 +48,33 @@ b) a költségvetési támogatásnak a köztartozás megfizetéséig történő 
 
 a) a bíróságot;
 
-b) az ügyészséget, a nyomozó hatóságot és az előkészítő eljárást folytató szervet, ha a tájékoztatás a büntetőeljárás lefolytatása érdekében szükséges;
+b) az ügyészséget;
 
-c) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
+c) a nyomozó hatóságot és az előkészítő eljárást folytató szervet, ha a tájékoztatás a büntetőeljárás lefolytatása érdekében szükséges;
 
-d) a rendőrségről szóló törvényben és a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott titkos információgyűjtésre feljogosított szervet, ha a tájékoztatás a titkos információgyűjtés elrendelése vagy folytatása érdekében szükséges;
+d) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot, valamint a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervet, amennyiben nemzetbiztonsági feladatkörében jár el;
 
-e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, az Európai Csalás Elleni Hivatalt, az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezetet, valamint az Európai Támogatásokat Auditáló Főigazgatóságot, ha a tájékoztatás az ellenőrzéshez szükséges;
+e) a rendőrségről szóló törvényben és a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott titkos információgyűjtésre feljogosított szervet, ha a tájékoztatás a titkos információgyűjtés folytatása érdekében szükséges;
 
-f) az adópolitikáért felelős minisztert, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
+f) az Állami Számvevőszéket, a kormányzati ellenőrzési szervet, az Európai Csalás Elleni Hivatalt, az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezetet, valamint az európai támogatásokat auditáló szervet, ha a tájékoztatás az ellenőrzéshez szükséges;
 
-g) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges;
+g) az adópolitikáért felelős minisztert, illetve az állami adó- és vámhatóságot irányító minisztert, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
 
-h) a központi költségvetésből vagy európai uniós forrásból támogatást folyósító szervet, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához szükséges;
+h) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges;
 
-i) a helyi önkormányzatok törvényességi felügyeletéért felelős szervet, valamint a helyi és nemzetiségi önkormányzatot a Magyarország helyi önkormányzatairól szóló törvényben, valamint a nemzetiségek jogairól szóló törvényben meghatározott fennálló köztartozás, illetve annak az előírt határidőben történő meg nem fizetése, mint méltatlansági eset, illetve a köztartozásmentes adózói adatbázisban való szereplés vizsgálatához szükséges körben, ideértve a köztartozásmentes adózói adatbázisból való törlés okát, amennyiben a törlésre köztartozás fennállása miatt került sor;
+i) a központi költségvetésből vagy európai uniós forrásból támogatást folyósító szervet, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához szükséges;
 
-j) az élelmiszerlánc-felügyeleti szervet a felügyeleti díj bevallásának és megfizetésének ellenőrzésével, továbbá a felügyeleti díj fizetésére kötelezettek nyilvántartásával összefüggésben;
+j) a helyi önkormányzatok törvényességi felügyeletéért felelős szervet, valamint a helyi és nemzetiségi önkormányzatot a Magyarország helyi önkormányzatairól szóló törvényben, valamint a nemzetiségek jogairól szóló törvényben meghatározott fennálló köztartozás, illetve annak az előírt határidőben történő meg nem fizetése mint méltatlansági eset, illetve a köztartozásmentes adózói adatbázisban való szereplés vizsgálatához szükséges körben, ideértve a köztartozásmentes adózói adatbázisból való törlés okát, amennyiben a törlésre köztartozás fennállása miatt került sor;
 
-k) a Gazdasági Versenyhivatalt, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
+k) az élelmiszerlánc-felügyeleti szervet a felügyeleti díj bevallásának és megfizetésének ellenőrzésével, továbbá a felügyeleti díj fizetésére kötelezettek nyilvántartásával összefüggésben;
 
-l) az online pénztárgép forgalmazót, valamint a mobilszolgáltatót, ha a tájékoztatás az online pénztárgép és az állami adó- és vámhatóság szervere közötti kommunikáció fenntartásával, a pénztárgép által történő adatszolgáltatás küldésének biztosításával összefüggő, jogszabályban előírt kötelezettség teljesítéséhez szükséges;
+l) a Gazdasági Versenyhivatalt, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
 
-m) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
+m) az online pénztárgép forgalmazót, valamint a mobilszolgáltatót, ha a tájékoztatás az online pénztárgép és az állami adó- és vámhatóság szervere közötti kommunikáció fenntartásával, a pénztárgép által történő adatszolgáltatás küldésének biztosításával összefüggő, jogszabályban előírt kötelezettség teljesítéséhez szükséges;
+
+n) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
+
+(14a) A (14) bekezdés c) pontja szerinti nyomozó hatóság – ide nem értve azt az esetet, ha a nyomozó hatóság a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 25. § (2) bekezdése alapján jár el –, az előkészítő eljárást folytató szerv, valamint a (14) bekezdés e) pontja szerinti szervek részére csak abban az esetben adható tájékoztatás az adótitokról, ha az ügyészség az adatkérést engedélyezte. Ha a (14) bekezdés c) és e) pontja szerinti adatkérés ügyészségi engedélyezése olyan késedelemmel járna, amely az adatkéréssel elérni kívánt célt jelentősen veszélyeztetné, engedély nélkül is kérhető az adatszolgáltatás. Az adatszolgáltatás ilyen esetekben nem tagadható meg az ügyészi engedély hiánya miatt, az engedélyt utólag, haladéktalanul beszerzi az adatkérő.
 
 (15) Az állami adó- és vámhatóság tájékoztatja az állami adó- és vámhatóság nyomozó hatóságát az adótitokról a bűncselekmények megelőzése, az adott bűncselekmény felderítése és nyomozása során a bűnüldözési feladatok teljesítése érdekében, valamint a büntetőeljárás megindítása vagy lefolytatása céljából.
 

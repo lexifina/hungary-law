@@ -1,10 +1,10 @@
 ### 20. § [A kimentési kérelem az adóregisztrációs eljárásban]
 
-(1) Ha az állami adó- és vámhatóság az adószám megállapítását a 19. § (2) bekezdés szerint megtagadta, az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámát megtagadta, az adószám megállapítását megtagadó határozat adózóval történő közlésétől számított tizenöt napon belül kimentési kérelmet terjeszthet elő. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+(1) Ha az állami adó- és vámhatóság az adószám megállapítását a 19. § (2) bekezdése szerint megtagadta, az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámát megtagadta, az adószám megállapítását megtagadó határozat adózóval történő közlésétől számított tizenöt napon belül kimentési kérelmet terjeszthet elő. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
 (2) Az állami adó- és vámhatóság az adószám megállapításának megtagadása tárgyában hozott határozatot visszavonja, és az adószámot megállapítja, ha
 
-a) az adószám megállapítását a 19. § (2) bekezdés a) pont aa), ab) alpontja vagy b) pontja alapján tagadta meg és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámának megállapítását megtagadta, az (1) bekezdés szerinti kérelmére indult eljárásban bizonyítja, hogy
+a) az adószám megállapítását a 19. § (2) bekezdés a) pont aa), ab) alpontja vagy b) pontja alapján tagadta meg és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámának megállapítását megtagadta, bizonyítja, hogy
 
 aa) az adószám megállapításának megtagadására okot adó tartozást az azt felhalmozó adózó azért nem tudta kiegyenlíteni, mert az általa teljesített termékértékesítés vagy szolgáltatásnyújtás ellenértékét egy vagy több vevő, illetve megrendelő részben vagy egészben nem egyenlítette ki,
 
@@ -12,15 +12,15 @@ ab) a vevőkkel, megrendelőkkel szemben fennálló –, illetve a felszámolás
 
 ac) az adótartozást felhalmozó adózó a követelések érvényesítése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható,
 
-b) az adószám megállapítását a 19. § (2) bekezdés a) pont aa) alpontja vagy b) pontja alapján tagadta meg, és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámának megállapítását megtagadta, az (1) bekezdés szerinti kérelmére indult eljárásban, a kérelem benyújtásával egyidejűleg igazolja, hogy a kizáró ok alapjául szolgáló adótartozás már nem áll fenn,
+b) az adószám megállapítását a 19. § (2) bekezdés a) pont aa) alpontja vagy b) pontja alapján tagadta meg, és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámának megállapítását megtagadta, igazolja, hogy a kizáró ok alapjául szolgáló adótartozás már nem áll fenn,
 
-c) az adószám megállapítását a 19. § (2) bekezdés a) pont aa) alpontja vagy b) pontja alapján tagadta meg, és az a tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámának megállapítását megtagadta, az (1) bekezdés szerinti kérelmére indult eljárásban, a kérelem benyújtásával egyidejűleg igazolja, hogy jogviszonya öröklés útján létesült és a kizáró ok alapjául szolgáló adótartozás nem tagi, illetve részvényesi jogviszonyának időtartama alatt, vagy jogviszonya megszűnését követő száznyolcvan napon belül keletkezett.
+c) az adószám megállapítását a 19. § (2) bekezdés a) pont aa) alpontja vagy b) pontja alapján tagadta meg, és az a tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámának megállapítását megtagadta, igazolja, hogy jogviszonya öröklés útján létesült és a kizáró ok alapjául szolgáló adótartozás nem tagi, illetve részvényesi jogviszonyának időtartama alatt, vagy jogviszonya megszűnését követő száznyolcvan napon belül keletkezett.
 
 (3) Az állami adó- és vámhatóság az adószám megállapításának megtagadása tárgyában hozott határozatot visszavonja, és az adószámot megállapítja akkor is, ha az adószám megállapítását a 19. § (2) bekezdés a) pont ac) alpontja alapján tagadta meg, és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámát megtagadta,
 
 a) az adószám megtagadására okot adó adószám törléssel érintett adózóban (a továbbiakban: törölt adózó) tagi, részvényesi jogviszonnyal nem rendelkezett, és
 
-b) az (1) bekezdés szerinti kérelmére indult eljárásban okirattal bizonyítja, hogy vezető tisztségviselőként vagy cégvezetőként a törölt adózó jogszerű működésének helyreállítása érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
+b) bizonyítja, hogy vezető tisztségviselőként vagy cégvezetőként a törölt adózó jogszerű működésének helyreállítása érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
 
 (4) A (3) bekezdés alkalmazásában kimentési oknak minősül, ha az adószám törléséről szóló határozat véglegessé válására tekintettel indult cégbírósági törvényességi felügyeleti eljárás arra figyelemmel került megszüntetésre, hogy az adózó a cég törvényes működését helyreállította.
 

@@ -15,3 +15,5 @@ c) a 2006/112/EK irányelvnek a szolgáltatásnyújtás teljesítési helye teki
 d) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a Közösségen belüli ügyletekkel kapcsolatos adócsalás elleni küzdelem érdekében történő módosításáról szóló, 2008. december 16-i 2008/117/EK tanácsi irányelv,
 
 e) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottérték-adóvisszatérítés részletes szabályainak megállapításáról szóló, 2008. február 12-i 2008/9/EK tanácsi irányelv.
+
+(4) E törvénynek a Módtv.1.-gyel megállapított 117. § (1) bekezdés h) pontja a 2006/112/EK irányelvnek és a 2009/132/EK irányelvnek a szolgáltatásnyújtásra és a termékek távértékesítésére vonatkozó bizonyos hozzáadottértékadó-kötelezettségek tekintetében történő módosításáról szóló, 2017. december 5-i (EU) 2017/2455 tanácsi irányelvnek való megfelelést szolgálja.

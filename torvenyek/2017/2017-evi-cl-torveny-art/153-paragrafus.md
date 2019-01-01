@@ -24,6 +24,6 @@ i) a tárgyévre vonatkozó adóteljesítménye pozitív.
 
 (3) Ha az adózó a tárgyévet megelőző öt évben nem működött, illetve nem minősült áfa-regisztrált adóalanynak, az állami adó- és vámhatóság az (1) bekezdés b)–i) pontja szerinti feltételek fennállását a működés megkezdésétől, illetve az áfa-regisztált adóalanyiság kezdetétől vizsgálja.
 
-(4) Az (1) bekezdés b) pontja alkalmazásában az adózó terhére megállapított összes adókülönbözetet csökkenteni kell a tárgyévben és az azt megelőző öt évben az állami adó- és vámhatóság által az adózó javára megállapított összes adókülönbözettel.
+(4)
 
 (5) A csoportos adóalany megbízható adózónak minősül, ha minden tagja megbízható adózó.

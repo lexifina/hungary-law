@@ -1,23 +1,27 @@
-### 178. § [A kérelem elutasítása]
+### 178. § [A szokásos piaci ár megállapítása iránti eljárásban hozott döntések]
 
-A kérelmet el kell utasítani, ha
+(1) Az állami adó- és vámhatóság a kérelmet az Air. 48. §-a szerinti eseteken túl akkor is visszautasítja, ha
 
-a) a kérelmező a tényállásról valótlan tartalmú nyilatkozatot tett;
+a) Magyarországnak a külföldi állammal nincs a kettős adóztatás elkerülése tárgyában kötött nemzetközi egyezménye, vagy az egyezmény nem tartalmaz a kölcsönös egyeztetési eljárásról szóló vagy ennek megfelelő rendelkezéseket, vagy
 
-b) a kérelmező által közölt tényállás hiányos és a hiánypótlásra megállapított határidő is eredménytelenül eltelt, és emiatt a rendelkezésre álló adatok a szokásos piaci ár meghatározásához nem elegendőek;
+b) az eljárás lefolytatásához jogszabály megalkotására vagy módosítására lenne szükség.
 
-c) adat merül fel arra vonatkozóan, hogy a közölt tényállás valamely más szerződést, ügyletet vagy cselekményt leplez;
+(2) Az állami adó- és vámhatóság az eljárást az Air. 49. §-a szerinti eseteken túl akkor is megszünteti, ha
 
-d) a kérelemben foglalt tényállás már teljesített ügyletre vonatkozik;
+a) a kérelmező által közölt tényállás hiányos és a hiánypótlásra megállapított határidő is eredménytelenül eltelt, és emiatt a rendelkezésre álló adatok a szokásos piaci ár meghatározásához nem elegendőek,
 
-e) kétoldalú, illetve többoldalú eljárás esetén az illetékes külföldi hatóság a kérelem elbírálásához szükséges adatokat, tájékoztatást nem adja meg és az adózó nem kéri az eljárás egyoldalúan történő lefolytatását;
+b) kétoldalú, illetve többoldalú eljárás esetén az illetékes külföldi hatóság a kérelem elbírálásához szükséges adatokat, tájékoztatást nem adja meg és az adózó nem kéri az eljárás egyoldalúan történő lefolytatását,
 
-f) az eljárás lefolytatása a díj mértékét meghaladó költségterheket ró az eljáró hatóságra, és a kérelmező a költségtöbbletet az adóhatóság felhívására nem fizeti meg;
+c) az eljárás lefolytatása a díj mértékét meghaladó költségterheket ró az eljáró hatóságra, és a kérelmező a költségtöbbletet az adóhatóság felhívására nem fizeti meg,
 
-g) a külföldi állam illetékes hatóságával a szokásos piaci ár megállapítását érintő megállapodásra irányuló egyeztetés eredménytelen, kivéve, ha az adózó kéri az eljárás egyoldalúan történő lefolytatását;
+d) a külföldi állam illetékes hatóságával a szokásos piaci ár megállapítását érintő megállapodásra irányuló egyeztetés eredménytelen, kivéve, ha az adózó kéri az eljárás egyoldalúan történő lefolytatását, vagy
 
-h) Magyarországnak a külföldi állammal nincs a kettős adóztatás elkerülése tárgyában kötött nemzetközi egyezménye, vagy az egyezmény nem tartalmaz a kölcsönös egyeztetési eljárásról szóló vagy ennek megfelelő rendelkezéseket;
+e) az adózó – a kétoldalú, illetve a többoldalúan lefolytatandó eljárás helyett – egyoldalú eljárást kezdeményezett és az ennek alapján megindult eljárás folyamán az állami adó- és vámhatóság információcserére vonatkozó kérését a külföldi állam illetékes hatósága visszautasítja, vagy az információcserére vonatkozó megkeresésre kölcsönös egyeztető eljárást kezdeményez, kivéve, ha az adózó az eljárás egyoldalú lefolytatására irányuló kérelmét kétoldalú, illetve többoldalú eljárás iránti kérelemre módosítja.
 
-i) az eljárás lefolytatásához jogszabály megalkotására vagy módosítására lenne szükség; vagy
+(3) Az állami adó- és vámhatóság a kérelmet határozattal elutasítja, ha
 
-j) az adózó – a kétoldalú, illetve a többoldalúan lefolytatandó eljárás helyett – egyoldalú eljárást kezdeményezett és az ennek alapján megindult eljárás folyamán az állami adó- és vámhatóság információcserére vonatkozó kérését a külföldi állam illetékes hatósága visszautasítja, vagy az információcserére vonatkozó megkeresésre kölcsönös egyeztető eljárást kezdeményez, kivéve, ha az adózó az eljárás egyoldalú lefolytatására irányuló kérelmét kétoldalú, illetve többoldalú eljárás iránti kérelemre módosítja.
+a) a kérelmező a tényállásról valótlan tartalmú nyilatkozatot tett,
+
+b) adat merül fel arra vonatkozóan, hogy a közölt tényállás színlelt vagy valamely más szerződést, ügyletet vagy cselekményt leplez, vagy a rendeltetésszerű joggyakorlás elvébe ütközik, vagy
+
+c) a kérelemben foglalt tényállás már teljesített ügyletre vonatkozik.

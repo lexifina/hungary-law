@@ -4,7 +4,7 @@
 
 (2) Az önellenőrzés bevallása – ha az adókülönbözet az adózó javára mutatkozik – az adómegállapításhoz való jog elévülését megszakítja.
 
-(3) Ha az adózó az adóhatóság határozata ellen közigazgatási pert indított, a másodfokú adóhatósági határozat véglegessé válásától a bíróság határozatának jogerőre emelkedéséig, felülvizsgálati kérelem esetén a felülvizsgálati kérelem elbírálásáig az adó megállapításához való jog elévülése nyugszik.
+(3) Ha az adózó az adóhatóság határozata ellen közigazgatási pert indított, a keresetindítási jog megnyílásától a bíróság határozatának jogerőre emelkedéséig, felülvizsgálati kérelem esetén a felülvizsgálati kérelem elbírálásáig az adó megállapításához való jog elévülése nyugszik.
 
 (4) A bíróság által jogerősen megállapított
 

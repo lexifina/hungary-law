@@ -18,6 +18,6 @@ b) kizárólag számviteli kérdést érintő kérelem.
 
 (5) A kérelem benyújtásakor jövőbeni ügyletnek nem minősülő ügylet vonatkozásában feltételes adómegállapítás csak a társasági adóval, a személyi jövedelemadóval, a kisvállalati adóval és a helyi iparűzési adóval összefüggésben kérhető, és a kérelem csak a kérelemmel érintett adónemre és adómegállapítási időszakra vonatkozó bevallás benyújtásáig, de legkésőbb a bevallás határidejéig nyújtható be. A határidő elmulasztása esetén igazolási kérelem benyújtásának nincs helye.
 
-(6) A feltételes adómegállapításra irányuló kérelem elektronikus úton, az adóigazgatási eljárásról szóló kormányrendelet szerinti tartalommal nyújtható be.
+(6) A feltételes adómegállapításra irányuló kérelem elektronikus úton, az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti tartalommal nyújtható be.
 
-(7) Az adózó a kérelem benyújtását megelőzően elektronikus úton előzetes konzultációt kezdeményezhet.
+(7)

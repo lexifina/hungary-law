@@ -4,7 +4,7 @@
 
 a) minden hónap tizenötödik napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően az állami adó- és vámhatóság részére,
 
-b) az önkormányzati adóhatóság kérésére minden év január tizenötödik napjáig az előző év utolsó napja szerinti állapotnak megfelelően az önkormányzati adóhatóság részére
+b) az önkormányzati adóhatóság kérésére évente egy alkalommal, a megkeresés napja szerinti állapotnak megfelelően az önkormányzati adóhatóság részére
 
 elektronikus úton, kapcsolati kód alkalmazásával megküldi azon személyek elektronikus azonosítási szolgáltatás, illetve tárhely azonosítóját, akik elektronikus azonosítási szolgáltatást, illetve tárhelyet hoztak létre vagy szüntettek meg, továbbá az elektronikus azonosítási szolgáltatás, illetve tárhely létrehozásának, illetve megszüntetésének időpontját.
 

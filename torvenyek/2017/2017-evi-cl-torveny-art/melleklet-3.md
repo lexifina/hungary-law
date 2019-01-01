@@ -38,7 +38,7 @@
 
 ## 2.1. A havi, illetve évközi adóbevallásra nem kötelezett adózónak – a 2.2.–2.4. pontban meghatározott kivételekkel – az adóévet követő év február huszonötödikéig,
 
-## 2.2. a természetes személyek jövedelemadójáról az adóév utolsó napján vállalkozási tevékenységet nem folytató természetes személynek, a mezőgazdasági őstermelőnek és az általános forgalmi adó fizetésére kötelezett természetes személynek – ideértve a vállalkozási tevékenységét az adóév utolsó napján szüneteltető természetes személyt is – az adóévet követő év május huszadikáig,
+## 2.2. a természetes személyek jövedelemadójáról az adóév utolsó napján vállalkozási tevékenységet nem folytató természetes személynek, a vállalkozási tevékenységet folytató természetes személynek, a mezőgazdasági őstermelőnek és az általános forgalmi adó fizetésére kötelezett természetes személynek – ideértve a vállalkozási tevékenységét az adóév utolsó napján szüneteltető természetes személyt is – az adóévet követő év május huszadikáig,
 
 ## 2.3. a társasági adóelőleg kiegészítés összegéről az adóév utolsó hónapja huszadik napjáig,
 
@@ -82,7 +82,7 @@
 
 ## 3.1.11. havonként kell adóbevallást benyújtania abban az esetben, ha az Áfa tv. szerinti adómentes termékimportot megalapozó közösségi termékértékesítésen kívül adóalanyiságot keletkeztető termékértékesítést, szolgáltatásnyújtást belföldön nem végez azzal, hogy nem kell adóbevallást benyújtani arról a hónapról, melyben az adózó az e pontban meghatározott termékértékesítést sem végzett,
 
-## 3.1.12. a 3.1.9., illetve 3.1.10. alpont szerinti havi bevallást első alkalommal arról a hónapról kell benyújtani, amelyben az adózó az Áfa tv.-ben meghatározott nyilatkozat vagy a termék vámjogi szabad forgalomba bocsátására irányuló árunyilatkozat tételére köteles. A havi elszámolásra való évközi áttérés esetén az áttérést megelőző, bevallással le nem fedett időszakról az adózó az első alkalommal benyújtandó havi bevallással egyidejűleg tesz bevallást és az adót a bevallással egyidejűleg fizeti meg, illetve ettől az időponttól igényelheti vissza,
+## 3.1.12. a 3.1.10., illetve a 3.1.11. alpont szerinti havi bevallást első alkalommal arról a hónapról kell benyújtani, amelyben az adózó az Áfa tv.-ben meghatározott nyilatkozat vagy a termék vámjogi szabad forgalomba bocsátására irányuló árunyilatkozat tételére köteles. A havi elszámolásra való évközi áttérés esetén az áttérést megelőző, bevallással le nem fedett időszakról az adózó az első alkalommal benyújtandó havi bevallással egyidejűleg tesz bevallást és az adót a bevallással egyidejűleg fizeti meg, illetve ettől az időponttól igényelheti vissza,
 
 ## 3.1.13. ha jogelőd nélkül alakult, havonként kell adóbevallást benyújtania a bejelentkezés évének, valamint az azt követő évnek az általános forgalmi adó kötelezettségéről.
 
@@ -132,7 +132,7 @@
 
 ## 3. Az adóbeszedésre kötelezettnek az idegenforgalmi adóról a tárgyhónapot követő hónap tizenötödik napjáig kell adóbevallást benyújtani.
 
-## 4. Az adózónak az építményadóról, a telekadóról és a magánszemély kommunális adójáról az adókötelezettség keletkezését, illetve változását követő tizenöt napon kell adatbejelentését teljesítenie. Nem kell újabb adatbejelentést benyújtani mindaddig, ameddig az adóalany körülményeiben, az adó tárgyában nem következik be adókötelezettséget érintő változás. Az önkormányzat rendeletében mentesítheti az építményadó, a telekadó, a magánszemély kommunális adójának – vállalkozónak nem minősülő – alanyát az adatbejelentési kötelezettség alól, feltéve, ha az adóalanyt adófizetési kötelezettség az adott adónem vonatkozásában nem terheli.
+## 4. Az adózónak az építményadóról, a telekadóról és a magánszemély kommunális adójáról az adókötelezettség keletkezését, illetve változását követő tizenöt napon belül kell adatbejelentését teljesítenie. Nem kell újabb adatbejelentést benyújtani mindaddig, ameddig az adóalany körülményeiben, az adó tárgyában nem következik be adókötelezettséget érintő változás. Az önkormányzat rendeletében mentesítheti az építményadó, a telekadó, a magánszemély kommunális adójának – vállalkozónak nem minősülő – alanyát az adatbejelentési kötelezettség alól, feltéve, ha az adóalanyt adófizetési kötelezettség az adott adónem vonatkozásában nem terheli.
 
 ## 5. Ha az építményadó, a telekadó alanya külföldön bejegyzett szervezet, egyéb szervezet, az adóalany az építményadóról, telekadóról szóló adatbejelentés kiegészítő lapján feltünteti – az adóév első napjának megfelelő állapot szerint – a szervezet, egyéb szervezet tagjainak (részvényeseinek) nevét (elnevezését), lakóhelyét (székhelyét), és az egyes tagokat megillető tulajdoni részesedés arányát.
 
@@ -164,7 +164,7 @@
 
 ## 3. Az adózó az 53. § (3) bekezdésében meghatározott bevallási kötelezettség teljesítésének határidejéig az adót is köteles megfizetni.
 
-## 4. Az állami adó- és vámhatóságnál nyilvántartott adót, vagy egyéb fizetési kötelezettséget – a természetes személy által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, a cégautó-adót, az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget, valamint a vámhatóság által kiszabott vámokat és a vámmal együtt kiszabott nem közösségi adókat és díjakat kivéve –, és a költségvetési támogatást ezer forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adót kerekítés nélkül forintban kell megfizetnie. Az adózónak az ezer forintot el nem érő adóját nem kell megfizetnie, és az adóhatóság az ezer forintot el nem érő adó-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.
+## 4. Az állami adó- és vámhatóságnál nyilvántartott adót, vagy egyéb fizetési kötelezettséget – a természetes személy által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, az illetéket, a cégautóadót, az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget, valamint a vámhatóság által kiszabott vámokat és a vámmal együtt kiszabott nem közösségi adókat és díjakat kivéve –, és a költségvetési támogatást ezer forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adót kerekítés nélkül forintban kell megfizetnie. A Tbj. és az Efo tv. alapján fizetendő közterhek kivételével az adózónak az ezer forintot el nem érő adóját nem kell megfizetnie, és az adóhatóság az ezer forintot el nem érő adó-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.
 
 ## Határidők
 
@@ -182,13 +182,13 @@
 
 ## 1.2. A személyi jövedelemadó
 
-## 1.2.1. A munkáltató az év végi elszámoláskor általa megállapított személyi jövedelemadó és a már levont, megfizetett adóelőleg különbözetét a levonást követő hó tizenkettedik napjáig fizeti meg. Ha az elszámolásból adódóan az adó-visszatérítési kötelezettség az adott hónapban több, mint az adott hónapban levont személyi jövedelemadó és adóelőleg együttes összege, a különbözetet a munkáltató a fenti időponttól visszaigényelheti. Az év végi elszámolásnál az adókülönbözetet a munkáltató olyan időpontban igényelheti, hogy az adó-visszatérítés összege a legközelebbi bérfizetésnél rendelkezésére álljon.
+## 1.2.1. A munkáltató a levonást követő hó tizenkettedik napjától igényelheti vissza az adókülönbözetet, ha az elszámolásból adódóan az adott hónapban az adó-visszatérítési kötelezettség nagyobb, mint az adott hónapban levont személyi jövedelemadó és adóelőleg együttes összege.
 
 ## 1.2.2. A kifizető az általa levont személyi jövedelemadót a levonást követő hó tizenkettedik napjáig,
 
 ## 1.2.3. a vállalkozási tevékenységet nem folytató természetes személy a személyi jövedelemadót az adóévet követő év május huszadikáig,
 
-## 1.2.4. a vállalkozási tevékenységet folytató természetes személy a személyi jövedelemadót az adóévet követő év február huszonötödikéig
+## 1.2.4. a vállalkozási tevékenységet folytató természetes személy a személyi jövedelemadót az adóévet követő év május huszadikáig
 
 ## fizeti meg.
 
@@ -204,11 +204,11 @@
 
 ## fizeti meg, illetve ettől az időponttól igényelheti vissza.
 
-## 2.2. Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetve az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha az adózó esetében az alábbi feltételek bármelyike érvényesül. A kérelem benyújtását megelőző két éven belül
+## 2.2. Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetve az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha az adózó a kérelem benyújtását megelőző két éven belül
 
 ## 2.2.1. az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,
 
-## 2.2.2. az adóhatóság – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett alkalmazott foglalkoztatása, ellenőrzés akadályoztatása miatt – véglegessé vált határozatban mulasztási bírsággal sújtotta,
+## 2.2.2. az adóhatóság – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett alkalmazott foglalkoztatása miatt – véglegessé vált határozatban mulasztási bírsággal sújtotta,
 
 ## 2.2.3. szerepel(t) a 263. § vagy a 264. § alapján közzéteendő adózói listán,
 
@@ -271,3 +271,11 @@
 ## 6.2. A befizetett előlegek és az éves hozzájárulás különbözetét az adóévet követő év február huszonötödik napjáig kell megfizetni.
 
 ## 7. Külön fel nem sorolt befizetések
+
+## Az előzőekben fel nem sorolt adókat a jogszabályban megállapított módon és határidőben kell megfizetni. Ennek hiányában, ha törvény előlegfizetést ír elő, azt a tárgyhó huszonnyolcadik napjáig, az adót a tárgyhót követő hó huszadik napjáig, az adóévre megállapított adót az éves adóbevallással egyidejűleg kell megfizetni. A hatályon kívül helyezett jogszabályok alapján teljesítendő önellenőrzés során feltárt, helyesbített, illetve az adóhatóság által megállapított adót egyéb befizetés címén kell megfizetni, a költségvetési támogatást egyéb támogatás címén lehet visszaigényelni.
+
+## II.
+
+## AZ ÖNKORMÁNYZATI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
+
+## Általános rendelkezések

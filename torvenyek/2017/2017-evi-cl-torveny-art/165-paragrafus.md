@@ -1,4 +1,4 @@
-### 165. § [A feltételes adómegállapításra irányuló kérelem és az előzetes konzultáció díja]
+### 165. § [A feltételes adómegállapításra irányuló kérelem]
 
 (1) A feltételes adómegállapításra irányuló kérelem díjköteles, a díj mértéke:
 
@@ -12,4 +12,4 @@ b) tartós feltételes adómegállapítás iránti kérelem esetén nyolcmillió
 
 (4) A kérelem visszautasítása, az eljárás megszüntetése, vagy a kérelem elutasítása esetén az adópolitikáért felelős miniszter a befizetett díj nyolcvanöt százalékát a döntés véglegessé válását követően haladéktalanul visszatéríti az adózó részére. A sürgősségi eljárás határidejének túllépése esetén az adópolitikáért felelős miniszter a befizetett díj és a kérelemre a sürgősségi eljárás hiányában fizetendő díj különbözetét a döntés véglegessé válását követően haladéktalanul visszatéríti az adózó részére.
 
-(5) Az előzetes konzultáció díjköteles, a díj mértéke konzultációnként ötszázezer forint.
+(5)

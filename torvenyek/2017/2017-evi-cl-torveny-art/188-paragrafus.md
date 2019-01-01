@@ -1,6 +1,6 @@
 ### 188. § [Eljárás a visszatéríttetési kérelem alapján]
 
-(1) Ha a kérelem elutasításának a 187. § (1) bekezdésében megjelölt okból nincs helye, az állami adó- és vámhatóság az adózó kérelmét az érkeztetéstől számított tizenöt napon belül a 904/2010/EU tanácsi rendelet 48. cikk (3) bekezdése szerint továbbítja a visszatéríttetés tagállama illetékes hatóságának.
+(1) Ha a kérelem elutasításának a 187. § (1) bekezdésében megjelölt okból nincs helye, az állami adó- és vámhatóság az adózó kérelmét az érkeztetéstől számított tizenöt napon belül a 904/2010/EU tanácsi rendelet 48. cikk (1) bekezdése szerint továbbítja a visszatéríttetés tagállama illetékes hatóságának.
 
 (2) Ha az adózó az állami adó- és vámhatóság nyilvántartása szerint az (1) bekezdésben meghatározott feltételeknek megfelel, de a visszatéríttetési időszak valamely napján adószámmal nem rendelkezett, e tényről és az adószám törlésének – és ha ismert, az új adószám megállapításának – időpontjáról, valamint az adószám törlésének okáról a visszatéríttetés tagállama illetékes adóhatóságát a kérelem továbbításával egyidejűleg, elektronikus úton tájékoztatja.
 

@@ -8,7 +8,9 @@ b) a kifizető (ideértve az egyéni vállalkozónak nem minősülő természete
 
 c) a Tbj. 56/A. § (4) bekezdése szerinti kötelezett.
 
-(2) Az (1) bekezdés szerinti bevallás tartalmazza:
+(1a) A foglalkoztatónak nem minősülő, a Tbj. 5. § (1) bekezdés e) pontja szerinti egyéni vállalkozó havonta, a tárgyhót követő hónap tizenkettedik napjáig, a Tbj. 5. § (1) bekezdés i) pontja szerinti mezőgazdasági őstermelő negyedévente, a negyedévet követő hónap tizenkettedik napjáig elektronikus úton bevallást tesz a (2) bekezdésben meghatározott adatokról.
+
+(2) Az (1)–(1a) bekezdés szerinti bevallás tartalmazza:
 
 1. a Tbj. 44. § (1) bekezdése szerinti nyilvántartásra kötelezett adatait (neve, székhelye, adóazonosító száma),
 
@@ -48,7 +50,7 @@ b) a kedvezmény igénybe vételének módjára (egyedül, megosztással) vonatk
 
 12. a tárgyhónaptól eltérő biztosítási jogviszony időtartamát, amelyre tekintettel a tárgyhónapban járulékalapot képező jövedelem kifizetésére került sor, illetve az ezen időtartamra vonatkozó levont természetbeni és pénzbeli egészségbiztosítási, munkaerőpiaci és nyugdíjjárulék alapját és összegét,
 
-13. a gyermekgondozási díj (gyed), gyermekgondozást segítő ellátás (gyes), gyermeknevelési támogatás (gyet), ápolási díj, álláskeresési ellátás folyósításának időtartamát, az ellátás összegét, és az abból levont nyugdíjjárulék összegét, illetve a levonás elmaradásának okát,
+13. a gyermekgondozási díj (gyed), gyermekgondozást segítő ellátás (gyes), gyermeknevelési támogatás (gyet), gyermekek otthongondozási díja, ápolási díj, álláskeresési ellátás folyósításának időtartamát, az ellátás összegét, és az abból levont nyugdíjjárulék összegét, illetve a levonás elmaradásának okát,
 
 14. a biztosítás szünetelését, vagy munkabérrel ellátatlanság idejét, ennek jogcímkódját,
 
@@ -56,7 +58,7 @@ b) a kedvezmény igénybe vételének módjára (egyedül, megosztással) vonatk
 
 16. az egészségügyi dolgozók heti negyvennyolc órát meghaladó önként vállalt többletmunkavégzésének idejét (munkaórában),
 
-17. a százalékos mértékű egészségügyi hozzájárulás alapját és összegét,
+17.
 
 18. a kifizetett (juttatott), az összevont adóalapba tartozó bevételt és az adóelőleg alapját (külön a bérről a jogosultsági hónapok feltüntetésével),
 
@@ -108,8 +110,18 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 (3) Az az adózó, aki vagy amely az adóév során bármely hónapban az (1) bekezdés szerinti bevallás benyújtására volt köteles, az adóév minden ezt követő hónapjára akkor is bevallás vagy a 49. § (4) bekezdés szerinti nyilatkozat benyújtására kötelezett, ha az adott hónapban adó- és/vagy járulék kötelezettsége – adó- (adóelőleg-), és/ vagy járulékalapot képező kifizetés, juttatás hiányában – nem keletkezett.
 
-(4) A foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem kötelezett az (1) bekezdés szerinti bevallás és adatszolgáltatás benyújtására, ha a tárgyévet megelőző évben bevétele nem volt, kivéve, ha a tevékenységét a tárgyévben kezdte, vagy az adóévre vonatkozóan nyilatkozatban vállalta, hogy a Tbj. 30/A. § (1) és (2) bekezdésében meghatározott járulékalapnál magasabb összeg után fizeti meg a járulékokat. Az egyéni vállalkozó és a foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem jogosult bevallást helyettesítő nyomtatványon nyilatkozatot tenni.
+(4) A foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem kötelezett az (1)–(1a) bekezdés szerinti bevallás és adatszolgáltatás benyújtására, ha a tárgyévet megelőző évben bevétele nem volt, kivéve, ha a tevékenységét a tárgyévben kezdte, vagy az adóévre vonatkozóan nyilatkozatban vállalta, hogy a Tbj. 30/A. § (1) és (2) bekezdésében meghatározott járulékalapnál magasabb összeg után fizeti meg a járulékokat. Az egyéni vállalkozó és a foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem jogosult bevallást helyettesítő nyomtatványon nyilatkozatot tenni.
 
 (5) A nyugdíjfolyósító szervet nem terheli havi adó- és járulék bevallási kötelezettség az általa kifizetett nyugdíj, rehabilitációs járadék, korhatár előtti ellátás, szolgálati járandóság, táncművészeti életjáradék, átmeneti bányászjáradék, illetve a nyugdíjast megillető baleseti járadék, és egyéb más folyósított ellátás tekintetében.
 
 (6) Az a munkáltató, aki vagy amely a tárgyhóban az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint foglalkoztat munkavállalót, az (1) és a (2) bekezdés szerinti adatokból kizárólag a munkáltató adóazonosító számának, a természetes személy nevének, adóazonosító jelének, a természetes személy nyugdíjas státuszának, illetve az arra vonatkozó adatának, hogy a természetes személy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, valamint a (2) bekezdés 31. pontja szerinti adatok megadására köteles.
+
+(7) Ha a belföldi illetőségű természetes személy a kifizetőtől kizárólag az Szja tv. szerinti osztalékjövedelmet szerez, akkor az (1) bekezdés szerinti bevallásban és adatszolgáltatásban a természetes személy tekintetében azonosító adatként
+
+a) a nevét,
+
+b) a születési dátumát, és
+
+c) adóazonosító jelét
+
+kell szerepeltetni.

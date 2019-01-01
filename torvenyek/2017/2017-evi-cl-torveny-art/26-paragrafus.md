@@ -8,6 +8,8 @@
 
 (4) Az adófizetési biztosíték összege a (2) bekezdés szerinti tartozás összege. Ha az adózó esetében több tényállás is megalapozza az adófizetési biztosíték megállapítását, az adófizetési biztosítékot a legmagasabb adótartozásnak megfelelő összegben kell meghatározni.
 
+(4a) Nincs helye adófizetési biztosíték megállapításának az adózó azon vezető tisztségviselőjére, cégvezetőjére, tagjára vagy részvényesére tekintettel, aki olyan gazdasági társaság vagy olyan gazdasági társaság jelenlegi vagy volt vezető tisztségviselője, cégvezetője, tagja vagy részvényese, amelyben az állam vagy az államot megillető tulajdonosi jogokat gyakorló szervezet, költségvetési szerv, állami oktatási intézmény vagy helyi önkormányzat közvetlenül vagy közvetett módon huszonöt százalékot meghaladó mértékű szavazati joggal vagy minősített többségű befolyással rendelkezik, vagy rendelkezett a 19. § (2) bekezdés a)–c) pontjában meghatározott feltételek fennállása időtartamának bármelyik napján.
+
 (5) Az adófizetési biztosíték letételére vonatkozó kötelezettségének az adózó
 
 a) az állami adó- és vámhatóság erre a célra megnyitott elkülönített letéti számlájára történő egyösszegű befizetéssel, illetve
@@ -24,6 +26,6 @@ tehet eleget. A biztosíték befizetését vagy a bankgarancialevél benyújtás
 
 (9) Az állami adó- és vámhatóság az (5) bekezdés a) pontja alapján befizetett adófizetési biztosítékot annak hiánytalan beérkezésétől számított tizenkét hónapig megőrzi, majd azt, vagy annak fennmaradó részét az adófizetési biztosíték letételére vonatkozó tizenkét hónapos időszak leteltét követő harminc napon belül visszafizeti az adózó részére. Az adófizetési biztosíték vagy fennmaradó része visszafizetésének esedékességekor az állami adó- és vámhatóság értesítést küld az adófizetési biztosíték felhasználásáról. Az adózó a letett adófizetési biztosíték után nem jogosult kamatra.
 
-(10) Az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adófizetési biztosítékot előírta, a határozat adózó által történt kézhezvételétől számított nyolcnapos jogvesztő határidőn belül a 20. § (1) bekezdése szerinti kimentési kérelmet terjeszthet elő. A kérelem elbírálására 20. § (2)–(7) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
+(10) Az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adófizetési biztosítékot előírta, a határozat közlésétől számított nyolcnapos jogvesztő határidőn belül a 20. § (1) bekezdése szerinti kimentési kérelmet terjeszthet elő. A kérelem elbírálására 20. § (2)–(7) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
 
 (11) Az adófizetési biztosíték kötelezettsége abban az esetben is fennáll, ha a biztosíték véglegessé vált megállapítását követően a vezető tisztségviselő, cégvezető, tag, vagy részvényes személyében történt változás következtében az adófizetési biztosíték előírásának (2) bekezdésben meghatározott valamely oka már nem állapítható meg.

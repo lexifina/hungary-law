@@ -1,6 +1,6 @@
 ### 140. § [Felhívás önellenőrzésre]
 
-(1) Az adóhatóság az adózót önellenőrzés elvégzésére hívhatja fel, ha az adózó bevallásának adatai és az állami adó- és vámhatóság rendelkezésére álló adatok alapján az adózó terhére mutatkozó eltérést állapít meg vagy valószínűsít.
+(1) Az adóhatóság az adózót önellenőrzés elvégzésére hívhatja fel, ha az adózó bevallásának adatai és az adóhatóság rendelkezésére álló adatok alapján az adózó terhére mutatkozó eltérést állapít meg vagy valószínűsít.
 
 (2) Az elektronikus vagy postai úton megküldött felhívás tartalmazza
 

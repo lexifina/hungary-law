@@ -12,7 +12,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 
 3. adóév: az a naptári év, amelyre az adókötelezettség vonatkozik, továbbá a számvitelről szóló 2000. évi C. törvényben (a továbbiakban Számv. tv.) meghatározott beszámoló adataira épülő adó és adó jellegű kötelezettségek tekintetében a Számv. tv. szerinti üzleti év,
 
-4. adókülönbözet: a bevallott, bejelentett, bevallani, bejelenteni elmulasztott vagy a bevallás (bejelentés) alapján kivetett, illetve kivethető és az adóhatóság által utólag megállapított adó, költségvetési támogatás különbözete, ide nem értve a következő időszakra átvihető követelés különbözetét,
+4. adókülönbözet: a bevallott, bejelentett, bevallani, bejelenteni elmulasztott vagy az adatbejelentés, bevallás alapján kivetett, illetve kivethető és az adóhatóság által utólag megállapított adó, költségvetési támogatás különbözete, ide nem értve a következő időszakra átvihető követelés különbözetét,
 
 5. adószámla: az állami adó- és vámhatóság, illetve az önkormányzati adóhatóság által vezetett, az adózói fizetési kötelezettség és költségvetési támogatási igény, valamint az azokkal összefüggő pénzforgalom tételes, illetve egyenleg szintű kimutatására szolgáló nyilvántartás,
 
@@ -30,7 +30,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 
 12. csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet alapján nyújtható támogatás,
 
-13. egyéb szervezet: polgári jogi társaság, társasház, társasüdülő, társasgarázs, építőközösség és a jogi személyiséggel nem rendelkező személyi egyesülés, a külföldi székhelyű vállalkozás magyarországi fióktelepe,
+13. egyéb szervezet: az egyéni cég, a polgári jogi társaság, a társasház, a társasüdülő, a társasgarázs, az építőközösség, a jogi személyiséggel nem rendelkező személyi egyesülés és a külföldi székhelyű vállalkozás magyarországi fióktelepe,
 
 14. EKAER: az állami adó- és vámhatóság által működtetett Elektronikus Közúti Áruforgalom Ellenőrző Rendszer, amely az Európai Unió valamely más tagállamából Magyarország területére, Magyarország területéről az Európai Unió valamely más tagállamába irányuló, a termék közúti fuvarozásával, illetve a Magyarország területén belül megvalósuló, a termék közúti fuvarozásával összefüggő adókötelezettségek teljesítésének ellenőrzését szolgálja,
 
@@ -70,19 +70,7 @@ b) amely alapján az egyik szerződő fél meghatározott hitelkeretet tart a sz
 
 c) amely az egyik szerződő fél számára folyamatos rendelkezésre állási kötelezettséget ír elő,
 
-28. kapcsolt vállalkozás:
-
-a) az adózó és az a személy, amelyben az adózó – a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerint – közvetlenül vagy közvetve többségi befolyással rendelkezik,
-
-b) az adózó és az a személy, amely az adózóban – a Ptk. szerint – közvetlenül vagy közvetve többségi befolyással rendelkezik,
-
-c) az adózó és más személy, ha harmadik személy – a Ptk. szerint – közvetlenül vagy közvetve mindkettőjükben többségi befolyással rendelkezik azzal, hogy azokat a közeli hozzátartozókat, akik az adózóban és a más személyben többségi befolyással rendelkeznek, harmadik személynek kell tekinteni,
-
-d) a külföldi vállalkozó és belföldi telephelye, valamint a külföldi vállalkozó telephelyei, továbbá a külföldi vállalkozó belföldi telephelye és az a személy, amely a külföldi vállalkozóval az a)–c) alpontban meghatározott viszonyban áll,
-
-e) az adózó és külföldi telephelye, továbbá az adózó külföldi telephelye és az a személy, amely az adózóval az a)–c) alpontban meghatározott viszonyban áll,
-
-f) az adózó és más személy, ha köztük az ügyvezetés egyezőségére tekintettel az üzleti és pénzügyi politikára vonatkozó döntő befolyásgyakorlás valósul meg,
+28. kapcsolt vállalkozás: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) szerinti kapcsolt vállalkozás,
 
 29. kereskedelmi kapcsolat: a termékbeszerzés és -értékesítés – ideértve az Áfa tv. szerinti adómentes termékimportot megalapozó Közösségen belüli adómentes termékértékesítést is –, valamint a szolgáltatásnyújtás és -igénybevétel,
 
@@ -160,7 +148,7 @@ c) ha nemzetközi szerződés az adóügyi illetőséget az üzletvezetés helye
 
 47. telephely: az a hely, ahol az adóköteles tevékenységet folytatják, ideértve különösen a vállalkozó állandó üzleti (üzemi), termelő-, szolgáltatótevékenységének helyét függetlenül attól, hogy a telephely a vállalkozás székhelyétől különböző közigazgatási területen található,
 
-48. tényleges üzletvezetés helye: a kettős adóztatás elkerüléséről szóló egyezmény kihirdetéséről szóló jogszabály és a társasági adóról és az osztalékadóról szóló törvény alkalmazásában a tényleges üzletvezetési hely, üzletvezetés helye,
+48. tényleges üzletvezetés helye: a kettős adóztatás elkerüléséről szóló egyezmény kihirdetéséről szóló jogszabály és a Tao tv. alkalmazásában a tényleges üzletvezetési hely, üzletvezetés helye,
 
 49. tételes elszámolású fizetési kötelezettség: vám, importtermék általános forgalmi adó, regisztrációs adó, importtal kapcsolatos jövedéki adó,
 

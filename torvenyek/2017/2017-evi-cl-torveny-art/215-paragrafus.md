@@ -14,6 +14,6 @@ b) az adó megfizetésére az adózó örököseként, vagy az általa megajánd
 
 (3) Az adóbírság mértéke – ha e törvény másként nem rendelkezik – az adóhiány, illetve jogosulatlan igénylés ötven százaléka.
 
-(4) Az adóbírság mértéke az adóhiány kétszáz százaléka, ha az adóhiány a bevétel eltitkolásával, hamis bizonylatok, könyvek, nyilvántartások előállításával, felhasználásával, illetve a bizonylatok, könyvek, nyilvántartások meghamisításával, megsemmisítésével függ össze.
+(4) Az adóbírság mértéke az adóhiány, illetve jogosulatlan igénylés kétszáz százaléka, ha az adóhiány a bevétel eltitkolásával, hamis bizonylatok, könyvek, nyilvántartások előállításával, felhasználásával, illetve a bizonylatok, könyvek, nyilvántartások meghamisításával, megsemmisítésével függ össze.
 
 (5) Az adóbírság megállapítása nem érinti a késedelmi pótlék fizetési kötelezettséget.

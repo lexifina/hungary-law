@@ -4,7 +4,7 @@
 
 (2) Az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartása – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 
-(3) A nyilvántartásba vételt végző szervezet a nyilvántartásba vétellel egyidejűleg hivatalból – az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott – hatósági igazolványt állít ki. A hatósági igazolvány kiállításához szükséges fényképet a nyilvántartásba vételt végző szervezet a nyilvántartásba vételi eljárásban a hatósági igazolvány elkészítésének időtartamáig kezeli.
+(3) A nyilvántartásba vételt végző szervezet a nyilvántartásba vétellel egyidejűleg hivatalból – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott – hatósági igazolványt állít ki. A hatósági igazolvány kiállításához szükséges fényképet a nyilvántartásba vételt végző szervezet a nyilvántartásba vételi eljárásban a hatósági igazolvány elkészítésének időtartamáig kezeli.
 
 (4) A nyilvántartásban szereplő adótanácsadók, adószakértők és okleveles adószakértők kötelesek a már megszerzett ismereteket naprakészen tartani, fejleszteni, a változásokból eredő követelményekkel összhangba hozni. Ennek érdekében kötelesek szakmai továbbképzésen részt venni.
 

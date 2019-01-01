@@ -38,9 +38,13 @@
 
 14. a szokásos piaci ár megállapítása iránti kérelem benyújtásának, nyilvántartásának, az éves jelentéstételi kötelezettségnek, az igazgatási szolgáltatási díj kezelésének, nyilvántartásának módját és feltételeit, továbbá az eljárás részletes szabályait;
 
-15. az adószám törlésre vonatkozó részletszabályokat, valamint
+15. az adószám törlésre vonatkozó részletszabályokat,
 
-16. az adóteljesítmény megállapításának részletes szabályait
+15a. a Tao tv. szerinti csoportos társasági adóalanyiság létrehozására, az ahhoz való csatlakozásra, az abból való kilépésre irányuló eljárás, valamint a csoportos társasági adóalanyisággal összefüggő adókötelezettségek teljesítésének és az adózói jogok gyakorlásának részletes szabályait
+
+16. az adóteljesítmény megállapításának részletes szabályait, valamint
+
+17. az adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a bejelentés alapján történő nyilvántartásba vétel és a nyilvántartásból való törlés feltételeit, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének, a szakmai továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek kreditpont-minősítési eljárásának, továbbá a határon átnyúló adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a bejelentés alapján történő nyilvántartásba vétel és a nyilvántartásból való törlés feltételeit, részletes szabályait, valamint a nyilvántartás vezetésének szabályait
 
 rendeletben állapítsa meg.
 

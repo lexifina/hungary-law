@@ -16,7 +16,7 @@ f) a BIC-kódot
 
 g) az adóhatósággal történő kapcsolattartásra feljogosított személy (kapcsolattartó) nevét, telefonszámát,
 
-h) nyilatkozatot arról, hogy az Európai Unió más tagállamának HÉA-nyilvántartásában nem szerepel,
+h) nyilatkozatot arról, hogy az Európai Unió területén nem telepedett le,
 
 i) a különös szabályozás hatálya alá eső tevékenység megkezdésének időpontját.
 

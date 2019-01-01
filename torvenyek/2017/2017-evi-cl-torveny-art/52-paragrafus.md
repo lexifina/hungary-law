@@ -4,7 +4,7 @@
 
 a) a Számv. tv. VII. fejezete sajátos beszámoló készítési kötelezettséget ír elő,
 
-b) az adózó a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) szerint a könyvviteli zárlat és a beszámoló alapján az adókülönbözetet megállapítja,
+b) az adózó a Tao tv. szerint a könyvviteli zárlat és a beszámoló alapján az adókülönbözetet megállapítja,
 
 c) az adózó felszámolási eljárás, végelszámolási eljárás nélkül szűnik meg, cégbejegyzésre nem kötelezett jogi személy, egyéb szervezet végelszámolás nélküli megszűnése esetén a jogutód nélküli megszűnésről hoz döntést, vagy az adózó Tao tv. szerint a jogutód nélküli megszűnés szabályainak hatálya alá kerül,
 

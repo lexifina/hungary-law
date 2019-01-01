@@ -18,9 +18,9 @@ c) a Jöt.-ben meghatározott esetekben a jövedéki adót.
 
 (4) Az adókivetés, adókiszabás az adózó (adat)bejelentése, bevallása, illetve adatszolgáltatás alapján történik.
 
-(5) Az adóhatóság a fizetendő adóról, az adófizetés módjáról és idejéről, továbbá – ha törvény előírja – az adóalapról, az adómentességről vagy adókedvezményről a bevallás (bejelentés) adatai alapján határoz.
+(5) Az adóhatóság a fizetendő adóról, az adófizetés módjáról és idejéről, továbbá – ha törvény előírja – az adóalapról, az adómentességről vagy adókedvezményről az adatbejelentés, bevallás adatai alapján határoz.
 
-(6) Ha az adózó (adat)bejelentése, bevallása hiányos, valótlan vagy téves adatokat tartalmaz,
+(6) Ha az adózó adatbejelentése, bejelentése, bevallása hiányos, valótlan vagy téves adatokat tartalmaz,
 
 a) az adóhatóság legfeljebb tizenöt napos határidő tűzésével az adózót hiánypótlásra hívja fel és a hiánypótlásra figyelemmel állapítja meg az adót vagy
 
@@ -29,3 +29,5 @@ b) helyi adó esetében a (7) bekezdésben foglaltak szerint jár el.
 (7) Az önkormányzati adóhatóság az adót – a (4) bekezdésben foglaltaktól eltérően – a közhiteles nyilvántartások, továbbá az építésügyi hatóságnak az e törvény szerinti adatszolgáltatásából tudomására jutó adatok alapulvételével is megállapíthatja, ha a rendelkezésére álló adatok ismeretében a tényállás tisztázott.
 
 (8) Helyi kivetéses adó esetében az adózó adatbejelentését – az adómegállapításhoz való jog elévülési idején belül – módosíthatja, kivéve, ha az adóhatóság az adót ellenőrzés során feltárt tényállás alapján állapította meg.
+
+(9) A kivetéses adó esetén az önkormányzati adóhatóság az utólagos adómegállapítás keretében feltárt tényállás alapján állapítja meg az ellenőrzési időszakot közvetlenül követő adóév(ek) adóját. Az ellenőrzési időszakra és az azt követő adóév(ek)re megállapított adó egy határozatba foglalható.

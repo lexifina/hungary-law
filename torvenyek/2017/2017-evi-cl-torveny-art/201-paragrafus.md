@@ -6,4 +6,4 @@
 
 (3) Az adóhatóság a pótlék- és bírságtartozást kivételes méltányosságból mérsékelheti vagy elengedheti különösen akkor, ha annak megfizetése a vállalkozási tevékenységet folytató természetes személy, jogi személy vagy egyéb szervezet gazdálkodási tevékenységét ellehetetlenítené. Az adóhatóság a mérséklést az adótartozás egy részének vagy egészének megfizetéséhez kötheti.
 
-(4) Az Áfa tv. szerinti csoportos adóalany számára a csoportos adóalanyiság időszakában adómérséklés nem engedélyezhető.
+(4) Az Áfa tv. szerinti csoportos adóalany és a Tao. tv. szerinti csoportos társasági adóalany számára a csoportos adóalanyiság időszakában adómérséklés nem engedélyezhető.

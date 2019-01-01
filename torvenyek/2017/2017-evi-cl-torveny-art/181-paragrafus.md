@@ -12,7 +12,7 @@ c) az illetékes hatóságok megállapodásának megkötésekor folyamatban lév
 
 időszak.
 
-(3) A határozatban foglaltak változatlan tényállás esetén, a kérelem benyújtásának időpontjára visszamenő hatállyal kötik az adóhatóságot, kivéve, ha a határozat véglegessé válását követően megállapítható, hogy
+(3) A határozatban foglaltak változatlan tényállás esetén kötik az adóhatóságot, kivéve, ha a határozat véglegessé válását követően megállapítható, hogy
 
 a) a kérelmező valótlan adatokat tartalmazó kérelmet terjesztett elő;
 

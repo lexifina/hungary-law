@@ -6,6 +6,6 @@ a) büntetlen előéletű,
 
 b) nem áll gazdasági, pénzügyi-számviteli vagy jogi végzettséghez kötött munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, és
 
-c) rendelkezik az e törvényben és az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott szakmai képesítéssel, szakképzettséggel és gyakorlattal, valamint megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
+c) rendelkezik az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, szakképzettséggel és gyakorlattal, valamint megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
 
-(2) A bejelentési és nyilvántartásba vételi eljárásra a Szolg. törvény 21–25. §-át és 27–28. §-át az e törvényben és az e törvény felhatalmazása alapján kiadott miniszteri rendeletben foglaltak figyelembevételével kell alkalmazni.
+(2) A bejelentési és nyilvántartásba vételi eljárásra a Szolg. törvény 21–25. §-át és 27–28. §-át az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban foglaltak figyelembevételével kell alkalmazni.

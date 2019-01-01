@@ -2,11 +2,11 @@
 
 Az adózó az adó és a költségvetési támogatás megállapítása, megfizetése (kiutalása) érdekében köteles a jogszabályban előírt:
 
-a) bejelentésre, nyilatkozattételre,
+a) bejelentkezésre, bejelentésre, nyilatkozattételre,
 
 b) adómegállapításra,
 
-c) bevallásra,
+c) adatbejelentésre, bevallásra,
 
 d) adófizetésre,
 
