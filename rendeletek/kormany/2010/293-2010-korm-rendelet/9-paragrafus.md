@@ -6,6 +6,6 @@ b) kifogásolható életvitel megállapítására tesz javaslatot, indokolt hat�
 
 befejezi.
 
-(2)[^26] A kifogástalan életvitel-ellenőrzés befejezéséről szóló határozatot az NVSZ főigazgatója megküldi a kifogástalan életvitel ellenőrzés kezdeményezőjének.
+(2)[^27] A kifogástalan életvitel-ellenőrzés befejezéséről szóló határozatot az NVSZ főigazgatója megküldi a kifogástalan életvitel ellenőrzés kezdeményezőjének.
 
-[^26]: A 9. § (2) bekezdése a 157/2015. (VI. 25.) Korm. rendelet 22. § j) pontja szerint módosított szöveg.
+[^27]: A 9. § (2) bekezdése a 157/2015. (VI. 25.) Korm. rendelet 22. § j) pontja szerint módosított szöveg.
