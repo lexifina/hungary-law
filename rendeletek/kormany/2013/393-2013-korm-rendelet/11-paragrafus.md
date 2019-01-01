@@ -1,8 +1,8 @@
 11. § (1)[^30] A kormányhivatal az engedély kiadásáról szóló határozat véglegessé válásával egyidejűleg a felnőttképzést folytató intézményt felveszi az engedéllyel rendelkező képző intézmények nyilvántartásába (a továbbiakban: nyilvántartás).
 
-(1a)[^31] Az (1) bekezdés szerinti döntés fellebbezéssel nem érintett rendelkezései véglegessé válnak, ha kizárólag a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+(1a)[^31]
 
-(2)[^32] Az engedély módosítása és kérelem vagy bejelentés alapján történő kiegészítése esetén a nyilvántartásba vételre az (1) és az (1a) bekezdés rendelkezéseit kell megfelelően alkalmazni.
+(2)[^32] Az engedély módosítása és kérelem vagy bejelentés alapján történő kiegészítése esetén a nyilvántartásba vételre az (1) bekezdés rendelkezéseit kell megfelelően alkalmazni.
 
 (3)[^33] A kormányhivatal a nyilvántartásból törli a felnőttképzést folytató intézményt, ha
 
@@ -27,8 +27,8 @@ c) az Fktv. 1. § (2) bekezdés b) pontja szerinti képzés esetén az engedély
 (6)[^37] A felnőttképzést folytató intézmény a nyilvántartásban szereplő adataiban bekövetkezett változásokat – a változásnak a hatáskörrel és illetékességgel rendelkező szerv által történő átvezetésének napjától számított – harminc napon belül köteles bejelenteni a kormányhivatalnak.
 
 [^30]: A 11. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 463. § f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^31]: A 11. § (1a) bekezdését a 360/2015. (XII. 2.) Korm. rendelet 7. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 463. § g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^32]: A 11. § (2) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 20. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^31]: A 11. § (1a) bekezdését a 360/2015. (XII. 2.) Korm. rendelet 7. §-a iktatta be, a 307/2018. (XII. 27.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
+[^32]: A 11. § (2) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 20. § (1) bekezdés c) pontja, a 307/2018. (XII. 27.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^33]: A 11. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.
 [^34]: A 11. § (3) bekezdés a) pontja a 318/2014. (XII. 13.) Korm. rendelet 24. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^35]: A 11. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (4) bekezdésével megállapított szöveg.

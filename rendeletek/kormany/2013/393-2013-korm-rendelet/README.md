@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-393-20-
 | 2016-11-26 | 2013-393-20-22.10 | 352/2016. (XI. 18.) Korm. rendelet |
 | 2017-01-01 | 2013-393-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2013-393-20-22.12 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2019-01-01 | 2013-393-20-22.13 | 360/2015. (XII. 2.) Korm. rendelet |

@@ -42,13 +42,16 @@ d) d) pontja szerinti képzés esetén az érintett képzés kompetenciái megsz
 
 16. a képzési tevékenységére vonatkozó hirdetéseinek és tájékoztatóinak tartalmát és formáját nem az Fktv.-ben foglalt rendelkezéseknek megfelelően alakította ki, vagy
 
-17. nem tett eleget a módosított képzési programok megküldésére vonatkozó – e rendelet szerinti – kötelezettségének.
+17. nem tett eleget a módosított képzési programok megküldésére vonatkozó – e rendelet szerinti – kötelezettségének,
 
-(2)[^107] A kormányhivatal az Fktv. 20. § (6a) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény hirdetései és írásbeli vagy szóbeli tájékoztatói nem felelnek meg az Fktv.-ben foglalt rendelkezéseknek.
+18.[^107] nem végeztette el tevékenységének kétévente kötelező külső értékelését.
+
+(2)[^108] A kormányhivatal az Fktv. 20. § (6a) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény hirdetései és írásbeli vagy szóbeli tájékoztatói nem felelnek meg az Fktv.-ben foglalt rendelkezéseknek.
 
 [^102]: A 28/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 462. § (9) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^103]: A 29. § a 360/2015. (XII. 2.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^104]: A 29. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.
 [^105]: A 29. § (1) bekezdés 2. pontja a 457/2017. (XII. 28.) Korm. rendelet 463. § n) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^106]: A 29. § (1) bekezdés 12. pontja a 379/2016. (XII. 2.) Korm. rendelet 251. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^107]: A 29. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^107]: A 29. § (1) bekezdés 18. pontját a 307/2018. (XII. 27.) Korm. rendelet 16. §-a iktatta be.
+[^108]: A 29. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 40. §[^118]
+## 40. §[^119]
 
-1. melléklet a 393/2013. (XI. 12.) Korm. rendelethez[^119]
+1. melléklet a 393/2013. (XI. 12.) Korm. rendelethez[^120]
 
-[^118]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^119]: Az 1. melléklet a 136/2014. (IV. 24.) Korm. rendelet 27. §-a és 28. § b) pontja, a 360/2015. (XII. 2.) Korm. rendelet 20. § (3) bekezdése szerint módosított szöveg.
+[^119]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: Az 1. melléklet a 136/2014. (IV. 24.) Korm. rendelet 27. §-a és 28. § b) pontja, a 360/2015. (XII. 2.) Korm. rendelet 20. § (3) bekezdése szerint módosított szöveg.

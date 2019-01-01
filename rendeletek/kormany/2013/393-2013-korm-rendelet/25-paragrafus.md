@@ -4,7 +4,7 @@
 
 25. § (1)[^80] A kormányhivatal minden év november 1. napjáig ellenőrzési tervet készít a következő évben ellenőrzésre kerülő felnőttképzést folytató intézményekről. A kormányhivatal a tárgyévben elvégzett ellenőrzésekről minden tárgyévet követő év március 31. napjáig összefoglaló jelentést állít össze a miniszter számára.
 
-(2)[^81] A kormányhivatal az Fktv. 20. § (4) bekezdése szerinti ellenőrzést első alkalommal a felnőttképzést folytató intézmény első engedélyének kiadását követő második naptári év december 31. napjáig folytatja le. Ezt követően az ellenőrzési időszakot naptári évre kell tervezni.
+(2)[^81]
 
 (3)[^82] A kormányhivatal a felnőttképzést folytató intézmény engedélyének alapjául szolgáló és a felnőttképzést folytató intézmény működésére előírt követelmények teljesítését az engedély megszerzésétől kezdődően, annak teljes időtartama alatt vizsgálhatja.
 
@@ -24,7 +24,7 @@ b) kizárólag az Ftkv. 1. § (2) bekezdés c) pontja szerinti képzést folytat
 
 [^79]: A IV. fejezet címe a 360/2015. (XII. 2.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^80]: A 25. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés h) pontja, a 457/2017. (XII. 28.) Korm. rendelet 464. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^81]: A 25. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^81]: A 25. § (2) bekezdését a 307/2018. (XII. 27.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
 [^82]: A 25. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.
 [^83]: A 25. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 462. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^84]: A 25. § (4a) bekezdését a 360/2015. (XII. 2.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 463. § i) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
