@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján, a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet
