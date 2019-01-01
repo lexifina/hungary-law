@@ -2,19 +2,19 @@
 
 67. § (1) Az oktatási hivatal
 
-a) közhiteles nyilvántartást vezet a felsőoktatási intézmények alapító okiratában, valamint a 3. melléklet II/A. részében megjelölt közérdekből nyilvános személyes – valamint jogszabályban meghatározott személyes adatnak nem minősülő egyéb – adatokról,
+a) közhiteles nyilvántartást vezet a felsőoktatási intézmények alapító okiratában, valamint az oktatási nyilvántartásról szóló törvényben meghatározott személyes – valamint jogszabályban meghatározott személyes adatnak nem minősülő egyéb – adatokról,
 
 b) dönt a nem költségvetési szervként működő felsőoktatási intézmény közhasznúsági nyilvántartásba vételéről, továbbá
 
 c) nyilvántartásba veszi a Felsőoktatási Tervezési Testületet, a Magyar Rektori Konferenciát, a Magyar Felsőoktatási Akkreditációs Bizottságot (a továbbiakban: MAB), és a Hallgatói Önkormányzatok Országos Konferenciáját, a Doktoranduszok Országos Szövetségét, az Országos Doktori Tanácsot, a 95/A. § szerinti fenntartói testületet,
 
-d) vezeti a 7. melléklet szerint a nyelvvizsgák nyelvvizsga-anyakönyveinek a nyilvántartását, amely a 7. melléklet 1. pont b) és c) alpontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+d) vezeti a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását.
 
 (2) Az oktatási hivatal látja el a felsőoktatási intézmények, a közösségi felsőoktatási képzési központok nyilvántartásba vételével, tevékenységének megkezdésével és módosításával, a nyilvántartásban bekövetkezett változások vezetésével, a nyilvántartásból való törlésével kapcsolatos hatósági feladatokat.
 
 (3) Az oktatási hivatal jár el
 
-a) a felsőoktatási intézmény, a közösségi felsőoktatási képzési központ működésének engedélyezésével, és a felsőoktatási intézmény, a közösségi felsőoktatási képzési központ működési engedélyének ötévenkénti felülvizsgálatával,
+a) a felsőoktatási intézmény működésének engedélyezésével és a felsőoktatási intézmény működési engedélyének ötévenkénti felülvizsgálatával,
 
 b) az alapító okiratban szereplő adatok változásaival,
 
@@ -30,7 +30,9 @@ g) a diákotthonok nyilvántartásba vételével,
 
 h) felsőoktatási szakkollégiumok nyilvántartásba vételével
 
-i) a diákotthon működési feltételeinek ötévenkénti felülvizsgálatával
+i) a diákotthon működési feltételeinek ötévenkénti felülvizsgálatával,
+
+j) a közösségi felsőoktatási képzési központ működésének engedélyezésével és működési engedélyének ötévenkénti felülvizsgálatával
 
 kapcsolatos ügyekben.
 

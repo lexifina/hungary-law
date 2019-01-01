@@ -12,4 +12,4 @@ a) a külföldi felsőoktatási intézmény és a külföldön folytatott tanulm
 
 b) az oklevél kiadásához szükséges nyelvvizsga-bizonyítvány megszerzése érdekében folytatott tanulmányait felnőttképzési jogviszonyban végzi.
 
-(3) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § c) pontja alapján meghatározott feltételt – kormányrendeletben meghatározottak szerint – teljesítettnek tekinti, ha a hallgató hazai munkaviszonyt az állami (rész)ösztöndíjjal igénybe vett képzési időnek megfelelő időtartamban tart fenn.
+(3)

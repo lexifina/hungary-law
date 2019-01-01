@@ -1,4 +1,4 @@
-69. § (1) A felsőoktatási intézmény rektora az egyetemi tanári munkaköri cím adományozásával kapcsolatos javaslatának elkészítése előtt beszerzi a MAB szakértői véleményét.
+69. § (1) A felsőoktatási intézmény rektora, továbbá a 64. § (7) bekezdése szerinti esetben a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia, illetve a Magyar Olimpiai Bizottság az egyetemi tanári munkaköri cím adományozásával kapcsolatos javaslatának elkészítése előtt beszerzi a MAB szakértői véleményét.
 
 (2) A felsőoktatási intézmény rektora a szakértői véleményben foglaltak mérlegelésével készíti el javaslatát az egyetemi tanári kinevezésre, melyet a szakértői véleménnyel együtt megküld a felsőoktatási intézmény fenntartójának. A nem állami felsőoktatási intézmény fenntartója a rektor javaslatát a MAB szakértői véleményével és a saját álláspontjának ismertetésével együtt megküldi a miniszternek.
 

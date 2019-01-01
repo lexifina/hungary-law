@@ -4,7 +4,7 @@
 
 ## 1. E törvény alapján nyilvántartott adatok:
 
-## a) családi és utónév, nem, születési családi és utónév, születési hely és idő, anyja születési családi és utóneve, állampolgárság, azonosító szám;
+## a) családi és utónév, nem, születési családi és utónév, születési hely és idő, anyja születési családi és utóneve, állampolgárság, oktatási azonosító szám, személyazonosító okmány száma, adóazonosító jele;
 
 ## b) lakóhely, tartózkodási hely, értesítési cím;
 
@@ -58,7 +58,7 @@
 
 ## a) felvétellel összefüggő adatok:
 
-## aa) a jelentkező családi és utóneve, neme, születési családi és utóneve, anyja születési családi és utóneve, születési helye és ideje, állampolgársága, lakóhelye, tartózkodási helye, értesítési címe és telefonszáma, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
+## aa) a jelentkező családi és utóneve, neme, születési családi és utóneve, anyja születési családi és utóneve, születési helye és ideje, állampolgársága, lakóhelye, tartózkodási helye, értesítési címe és telefonszáma, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – a Magyar igazolvány, Magyar hozzátartozói igazolvány, a nemzetközi biztosítási okmány adatai,
 
 ## ab) az érettségi vizsga adatai,
 
@@ -92,7 +92,7 @@
 
 ## bj) a hallgató diákigazolványának sorszáma, a törzslap azonosító száma,
 
-## bk) a hallgató azonosító száma, társadalombiztosítási azonosító jele,
+## bk) a hallgató oktatási azonosító száma, személyazonosító okmány száma, fényképe, társadalombiztosítási azonosító jele,
 
 ## bl) a szakmai gyakorlat teljesítésére, az abszolutóriumra, a záróvizsgára (doktori védésre), a nyelvvizsgára, valamint az oklevélre, oklevélmellékletre vonatkozó adatok,
 
@@ -106,11 +106,13 @@
 
 ## f) a hallgató által fizetett díjak és térítések – a kötelezettséghez kapcsolódó részletfizetési kedvezmény, halasztás, mentesség – adatai;
 
-## g) hallgatói támogatásban gyermekgondozást segítő ellátásban, gyermekgondozási díjban, rendszeres gyermekvédelmi támogatásban, lakhatási támogatásban részesülés esetén e támogatások adatai;
+## g) hallgatói vagy lakhatási támogatás nyújtása esetén, ha az csecsemőgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekgondozási díjban, rendszeres gyermekvédelmi támogatásban részesülés okán, vagy hátrányos helyzetére tekintettel jár, e díjak, támogatások adatai;
 
 ## h) a hallgató tanulmányai támogatása érdekében, a hallgató jogviszonyára tekintettel folyósított – a 85. § (1) és (2) bekezdésében foglaltak szerint a Kormány által rendelettel alapított – ösztöndíj adatai;
 
-## i) a hallgatói kompetenciamérésre, annak eredményére vonatkozó adatok.
+## i) a hallgatói kompetenciamérésre, annak eredményére vonatkozó adatok;
+
+## j) a Diákhitel Központ által megítélt hitel fennálltára, típusára vonatkozó adat.
 
 ## 2. Az adatkezelés célja: az 18. § (1) bekezdés szerint. A felsőoktatási intézmény a személyes és különleges adatokat csak a jogviszonnyal, a juttatások, kedvezmények, kötelezettségek megállapításával és teljesítésével kapcsolatosan, nemzetbiztonsági okból, az e törvényben meghatározott nyilvántartások kezelése céljából, célnak megfelelő mértékben, célhoz kötötten kezelheti.
 
@@ -140,219 +142,19 @@
 
 ## f) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek a képzésre és a hallgatói jogviszonyra vonatkozóan.
 
-## II. A felsőoktatási információs rendszer keretében nyilvántartott és kezelt személyes és különleges adatok
-
-## II/A. Felsőoktatási intézménytörzs
-
-## E törvény alapján nyilvántartott adatok:
-
-## a) a felsőoktatási intézmény
-
-## aa) fenntartójának neve, székhelye címe, képviselője családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail),
-
-## ab) tisztségviselőinek – rektor, rektorhelyettes, kancellár, gazdasági vezető, belső ellenőrzés vezetője, dékán, gazdasági tanács elnöke és tagjai, a szenátus tagjai, a konzisztórium tagjai, kollégiumi vezető, szakkollégium képviselője – családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail),
-
-## ac)
-
-## ad) alap- és mesterképzése szakfelelősének családi és utóneve, oktatói azonosítója,
-
-## ae) közhasznú szervezetként való működés esetén a felügyelő bizottság tagjainak családi és utóneve és értesítési címe;
-
-## b) a Magyarországon működő külföldi felsőoktatási intézmény
-
-## ba) fenntartójának neve, székhelye címe, képviselője és magyarországi képviselője családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail),
-
-## bb) tisztségviselői családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail),
-
-## bc)
-
-## c) a MAB, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája és a Doktoranduszok Országos Szövetsége, Országos Doktori Tanács esetében
-
-## ca) a szervezet neve, székhelye,
-
-## cb) a vezető tisztségviselőjének, felügyelő bizottsága, felülvizsgálati bizottsága tagjainak családi és utóneve és értesítési címe;
-
-## d) a 67. § (3) bekezdés g) pontja szerinti diákotthon
-
-## da) fenntartójának neve, székhelye, címe, képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail),
-
-## db) vezetőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail)
-
-## e) a 8. § (6) bekezdése szerinti megállapodás és az abban szereplő adatok,
-
-## f) a 95/A. § (1) bekezdésben meghatározottak szerint fenntartott magán felsőoktatási intézmény esetén
-
-## fa) a fenntartó testület neve, székhelye, nyilvántartási száma, elnökének családi és utóneve, elérhetősége (telefon, e-mail),
-
-## fb) a felsőoktatási intézmény rendszeres pénzügyi támogatását biztosító külföldi támogató neve, székhelye, képviselője, értesítési címe, elérhetősége (telefon, e-mail).
-
-## g) a közösségi felsőoktatási képzési központ képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail).
-
-## II/B. Alkalmazotti személyi törzs
-
-## 1. E törvény alapján nyilvántartott adatok:
-
-## a) családi és utónév, nem, születési családi és utónév, születési hely és idő, anyja születési családi és utóneve, állampolgárság, azonosító szám;
-
-## b) lakóhely, tartózkodási hely, értesítési cím;
-
-## c) munkaviszonyra, közalkalmazotti jogviszonyra, megbízási jogviszonyra vonatkozó adatok:
-
-## ca) a munkáltató – több esetén valamennyi munkáltató – megnevezése (intézményi azonosító száma),
-
-## cb) végzettségi szint, szakképzettség, szakképesítés, idegennyelv-tudás, tudományos fokozat,
-
-## cc) munkakör, vezetői megbízás,
-
-## cd) munkavégzés ideje,
-
-## ce) kutatói tevékenység, tudományos munka, művészeti alkotói tevékenység, azok eredményei, kitüntetések, díjak és más elismerések, címek,
-
-## cf) a 26. § (3) bekezdése szerinti nyilatkozat;
-
-## d) az adatokat igazoló okiratok azonosítására szolgáló adatok;
-
-## e) doktori iskolai tagság,
-
-## f)
-
-## 2. Az 1. pontban fel nem sorolt személyes és különleges adat az érintett írásbeli hozzájárulásával tartható nyilván.
-
-## 3. Az 1. pontban felsorolt adatok továbbíthatók: a társadalombiztosítási, illetmény és munkabér vagy más juttatás kifizetőhelyének (minden olyan adat, amely az illetmény, munkabér vagy más juttatás, jogosultság megállapításához, igénybevételéhez szükséges); a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek (a konkrét ügy eldöntéséhez szükséges adatok); a nemzetbiztonsági szolgálatnak (az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat); a fenntartónak (a fenntartói jogok gyakorlásához szükséges valamennyi adat); a Magyar Felsőoktatási Akkreditációs Bizottságnak (a szakértői tevékenyég ellátásához szükséges valamennyi adat); a felsőoktatási intézménynek (az alkalmazottjával kapcsolatos minden adat); továbbá a köznevelési információs rendszernek (az 1. a) és b) pont szerinti adat annak biztosítása érdekében, hogy egy személynek csak egy azonosító száma legyen).
-
-## II/C. A hallgatói személy törzs
-
-## 1. E törvény alapján nyilvántartott adatok:
-
-## a) a hallgatói jogviszonnyal összefüggő adatok:
-
-## aa) a hallgató családi és utóneve, születési családi és utóneve, anyja születési családi és utóneve, születési helye és ideje, állampolgársága, neme, lakóhelye, tartózkodási helye, értesítési címe, telefonszáma, elektronikus levélcíme,
-
-## ab) nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
-
-## ac) a jogviszony típusa, keletkezésének és megszűnésének időpontja és módja,
-
-## ad) a hallgató által folytatott képzés megnevezése, finanszírozásának módja és munkarendje, megkezdett félévek, a hallgatói jogviszony szünetelésének ideje, a képzés befejezésének várható időpontja
-
-## ae) a képzés során, illetve azt megelőzően igénybe vett támogatási idő,
-
-## af) a külföldi felsőoktatási résztanulmányok helye, ideje,
-
-## ag) az előnyben részesítési követelmények teljesülésére vonatkozó adatok,
-
-## ah) a fogyatékossággal élőket megillető különleges bánásmód elbírálásához szükséges adatok,
-
-## ai) a hallgatói kompetenciamérésre, annak eredményére vonatkozó adatok,
-
-## aj) a hallgató diákigazolványának sorszáma,
-
-## ak) a törzslap azonosító száma,
-
-## al) a hallgató azonosító száma, adóazonosító jele, társadalombiztosító azonosító jele, a felvételi azonosító,
-
-## am) a szakmai gyakorlat teljesítésére, az abszolutóriumra, a záróvizsgára (doktori védésre), a nyelvvizsgára, a korábban megszerzett oklevélre vonatkozó adatok,
-
-## an) a kiadott okiratok tartalmára és azonosítására vonatkozó adatok,
-
-## ao) a külföldi állampolgárságú hallgató miniszteri ösztöndíjára vonatkozó adatok,
-
-## ap) a képzés során megszerzett, illetve elismert kreditek száma,
-
-## aq) kollégiumi elhelyezés esetén a kollégium megnevezése, az adott félévre vonatkozó elhelyezés ténye,
-
-## ar) diákotthoni elhelyezés esetén a diákotthon megnevezése és OM-azonosítója, az adott félévre vonatkozó elhelyezés ténye;
-
-## b) a kiadott oklevél, bizonyítvány adatai,
-
-## ba) az igazolt szakképzettség, szakképesítés megnevezése,
-
-## bb) az oklevél, bizonyítvány kelte, aláíróinak neve,
-
-## bc) az oklevél, bizonyítvány kiállítására szolgáló nyomtatvány sorszáma,
-
-## bd) a hallgató törzskönyvi száma,
-
-## be) az oklevél, bizonyítvány egyéb adatai,
-
-## bf) oklevélmelléklet adatai;
-
-## c) a hallgatói pályakövetéssel kapcsolatos adatok;
-
-## d) az adatokat igazoló okiratok azonosítására szolgáló adatok;
-
-## e) a hallgató által fizetett díjak és térítések adatai;
-
-## f) hallgatói támogatásban, gyermekellátási segélyben, gyermekgondozási díjban, rendszeres gyermekvédelmi támogatásban, lakhatási támogatásban részesülés esetén e támogatások adatai;
-
-## g) a hallgató tanulmányai támogatása érdekében, a hallgató jogviszonyára tekintettel folyósított – a 85. § (1) és (2) bekezdésében foglaltak szerint a Kormány által rendelettel alapított – ösztöndíj adatai.
-
-## 2. Az 1. pontban fel nem sorolt személyes és különleges adat az érintett írásbeli hozzájárulásával tartható nyilván.
-
-## 3. Az adatok továbbíthatók:
-
-## a) a bíróságnak, a rendőrségnek, az ügyészségnek, a bírósági végrehajtónak, az államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adat;
-
-## b) a nemzetbiztonsági szolgálatnak az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat;
-
-## c) a Diákhitel Központnak a hallgatói hitelt igényelt személyekhez kapcsolódóan
-
-## ca) az 1. a) pont aa), ab), ac) és ad) alpontjai szerinti adatok – nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat tartózkodási jogot igazoló okmány megnevezése, száma kivételével –,
-
-## cb) az 1. e) pontból a hallgató által önköltség címén az intézmény felé ténylegesen fizetendő összeg a hallgatói hitelre való jogosultság, illetve ennek megszűnése vizsgálata, valamint a törlesztési kötelezettség fennállásának, illetve szünetelésének megállapítása céljából,
-
-## cc) az 1. a) pont al) alpontja szerinti adatok – a társadalombiztosítási azonosító jel, az adóazonosító jel, a felvételi azonosító, a 48/D. § (2) bekezdés szerinti nyilatkozat azonosító száma kivételével – az ügyfelekkel történő kapcsolattartáshoz és a velük kapcsolatos ügyintézéshez a hitelszerződésből eredő jogok gyakorlása és kötelezettségek teljesítése céljából,
-
-## cd) az 1. b) pont ba) és bb) alpontjai szerinti adatok – az oklevél, bizonyítvány aláíróinak neve kivételével –,
-
-## ce) az 1. a) pont am) alpontjából az abszolutóriumra és a záróvizsgára (doktori védésre) vonatkozó adatok,
-
-## cf) az 1. a) pont ap) alpontjában szereplő kétféle kreditszám összege a hallgatói hiteltartozások várható visszafizetésével kapcsolatos kockázatelemzéshez és a kockázati mérték szerinti ügyfélkezeléshez;
-
-## d) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek a képzésre, a hallgatói jogviszonyra, az oklevélre, a hallgató értesítési adataira (telefonszám, elektronikus levélcím) vonatkozó adatok, valamint az 1. pont al) alpontban meghatározott adatok;
-
-## e) a társadalombiztosítási hatóságnak a társadalombiztosítási ellátásra való jogosultságot meghatározó adatok;
-
-## f) a felsőoktatási intézménynek a hozzá jelentkező és vele hallgatói jogviszonyban álló személyre vonatkozó valamennyi adat;
-
-## g) a felsőoktatási intézménynek a hozzá felvételre, átvételre került személyekre vonatkozó valamennyi adat;
-
-## h) a köznevelési információs rendszer felé a tanulói jogviszonnyal rendelkező személyekre vonatkozó valamennyi adat;
-
-## i) a miniszter által vezetett minisztériumnak a statisztikai célú adatszolgáltatáshoz szükséges valamennyi adat.
-
-## II/D. Felvételi személyi törzs
-
-## 1. E törvény alapján nyilvántartott adatok:
-
-## a) felvétellel összefüggő adatok:
-
-## aa) a jelentkező családi és utóneve, születési családi és utóneve, anyja születési családi és utóneve, születési helye és ideje, neme, állampolgársága, lakóhelye és tartózkodási helye, értesítési címe, oktatási azonosítója, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
-
-## ab) az érettségi vizsga adatai,
-
-## ac) a középiskola adatai,
-
-## ad) a felvételi kérelem elbírálásához szükséges adatok,
-
-## ae) a felvételi eljárás adatai,
-
-## af) a jelentkező központi ügyfél-regisztrációs nyilvántartási (a továbbiakban: KÜNY) kapcsolati kódja.
-
-## 2. A vallási, világnézeti elkötelezettségre, annak igazolására mint jelentkezési feltételre vonatkozó személyes adatot nem lehet nyilvántartani. A többi adat az érintett hozzájárulásával tartható nyilván.
-
-## 3. Az adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adat; a nemzetbiztonsági szolgálatnak az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat; a felsőoktatási intézménynek a hozzá jelentkező személyre vonatkozó valamennyi adat; a felsőoktatási intézménynek a hozzá felvett személyekre vonatkozó valamennyi adat; a köznevelés információs rendszere, továbbá a nyelvvizsgák nyelvvizsga-anyakönyvei nyilvántartásának adatkezelője részére a felvételi kérelmek elbírálásához szükséges valamennyi adat; a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv részére a jelentkező oktatási azonosítója, KÜNY kapcsolati kódja.
+## II.
 
 ## III. Az adatkezelésnek és az adattovábbításnak a felsőoktatási információs rendszer működéséhez kapcsolódó egyes kérdései
 
-## 1. A felsőoktatás információs rendszeréből – törvény eltérő rendelkezésének hiányában – személyes adat csak az érintett kérése, illetve írásbeli hozzájárulása esetén, az érintett egyidejű értesítése mellett adható ki. A felsőoktatási információs rendszer keretében folyó adatkezelés jogszerűségéért a miniszter felelős. A felsőoktatási információs rendszerbe az érintett – saját adatai tekintetében – jogosult betekinteni. Az érintett a felsőoktatási információs rendszerben tárolt adatainak helyesbítését – a jogszabályban elrendelt adatkezelések kivételével –, törlését az adatot szolgáltató felsőoktatási intézménytől jogosult kérni. Az információs rendszerbe történő betekintés, az adatok felsőoktatási intézmény általi helyesbítése, törlése minden esetben ingyenes.
+## 1.
 
-## 2. A felsőoktatási információs rendszer működtetéséért felelős szerv a felsőoktatási információs rendszerben nyilvántartott személyek természetes személyazonosító adatairól, állampolgárságáról, a személyiadat- és lakcímnyilvántartásból kikerülés okáról és időpontjáról, és lakcíméről – azonosítás, ellenőrzés és hitelesítés céljából – térítésmentesen, elektronikus úton vagy optikai adathordozón (a továbbiakban együtt: elektronikus úton) adatot igényelhet a személyiadat- és lakcímnyilvántartást kezelő szervétől. A felsőoktatási információs rendszer működéséért felelős szerv a felsőoktatási információs rendszerben nyilvántartott személyek természetes személyazonosító adatait, személyi igazolvány számát és lakcímét elektronikus úton megküldi a személyiadat- és lakcímnyilvántartást kezelő szervének. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartást kezelő szerve kapcsolati kódot képez, amelyet azonosítás céljából megküld a felsőoktatási információs rendszer működtetőjének. A személyiadat- és lakcímnyilvántartást kezelő szerve az azonosított természetes személy természetes személyazonosító adatainak, lakcímének, állampolgárságának a személyiadat- és lakcímnyilvántartásban bekövetkezett változásáról és a természetes személynek a személyiadat- és lakcímnyilvántartásból kikerülése okáról és időpontjáról a kapcsolati kódon értesíti a felsőoktatási információs rendszer működéséért felelős szervet. Ha a beazonosítás sikertelen, a két szerv további adategyeztetést végez. A felsőoktatási információs rendszer működtetéséért felelős szerv a kapcsolati kódon elektronikus úton a nyilvántartott személyek természetes személyazonosító adataira, állampolgárságára, a személyiadat- és lakcímnyilvántartásból kikerülés okára és időpontjára, és lakcímére nézve szükség esetén adatot igényelhet. A felsőoktatási információs rendszer működtetéséért felelős szerv a jelen pont szerint tudomására jutott adatokat – az e törvényben meghatározott ideig – tárolhatja, és felhasználhatja az érintett személyek és adatszolgáltató intézmények tájékoztatására.
+## 2.
 
-## 3. A felsőoktatási információs rendszer működéséért felelős szerv annak, akit oktatói, kutatói, illetve tanári munkakörben foglalkoztatnak, oktatói azonosító számot ad ki. Az azonosító szám a tanári, az oktatói, illetve a kutatói munkakörben történő foglalkoztatás figyelemmel kísérésére szolgál. A felsőoktatási információs rendszer tartalmazza azoknak a nyilvántartását, akik azonosító számmal rendelkeznek, továbbá azokét, akik a 25. § (3) bekezdése szerint megbízási jogviszonyban oktatói feladatot látnak el. A nyilvántartásból személyes adat – az érintetten kívül – csak az egyes, a foglalkoztatáshoz kapcsolódó juttatások jogszerű igénybevételének megállapítása céljából továbbítható, a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére. Az információs rendszerben adatot az érintett foglalkoztatásának megszűnésére vonatkozó bejelentéstől számított öt évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
+## 3.
 
-## 4. A felsőoktatási információs rendszer működéséért felelős szerv a hallgatóknak hallgatói azonosító számot ad ki. Az azonosító szám a hallgatói jogviszonnyal összefüggő jogok és kötelezettségek érvényesülésének figyelemmel kísérésére szolgál. Nem kell új azonosító számot adni annak, aki a köznevelésben kapott tanulói azonosító számot. A felsőoktatás információs rendszere tartalmazza a hallgatói nyilvántartást. A hallgatói nyilvántartásból személyes adat – az érintetten kívül – csak hallgatói jogviszonyhoz kapcsolódó juttatás, illetőleg a hallgatói hitel jogszerű igénybevételének megállapítása céljából továbbítható a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére. A hallgatói nyilvántartásban adatot a hallgatói jogviszony megszűnésére vonatkozó bejelentéstől számított nyolcvan évig lehet kezelni.
+## 4.
 
-## 5. A felsőoktatási információs rendszer működéséért felelős szerv a II/C. fejezet 1. a) pont aa) alpontja szerinti elektronikus levélcím használatával teljesítheti a miniszter által elrendelt kutatást.
+## 5. A felsőoktatási információs rendszer működéséért felelős szerv az oktatási nyilvántartás Hallgatói törzsében szereplő elektronikus levélcím használatával teljesítheti a miniszter által elrendelt kutatást.
 
 ## 6. A hallgató vagy a hallgató kérelmére a felsőoktatási intézmény diákigazolvány kiadását kezdeményezi a felsőoktatási információs rendszer működéséért felelős szervnél. A felsőoktatási intézménynek a hallgató kérelmét a bejelentéstől számított nyolc napon belül kell továbbítania a felsőoktatási rendszer működéséért felelős szerv részére a szerv által meghatározott módon. A diákigazolvány elkészítéséről a felsőoktatási információs rendszer működéséért felelős szerv mint a diákigazolvány az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény (a továbbiakban: Nektv.) szerinti kártyakibocsátója gondoskodik.
 
@@ -394,31 +196,15 @@
 
 ## b) a felsőoktatási információs rendszer működéséért felelős szerv elektronikus úton tart kapcsolatot.
 
-## 6.3. A diákigazolvány igénylésének szabályait kormányrendelet határozza meg.
+## 6.3.
 
-## 6.4. A felsőoktatási információs rendszer működéséért felelős szerv a diákigazolvány igényléséhez és előállításához szükséges személyes adatokat, a diákigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet.
+## 6.4.
 
-## 7. A felsőoktatási információs rendszer működéséért felelős szerv kezelheti a felsőoktatási intézmények felvételi eljárásával összefüggő adatokat.
+## 7.
 
-## A felvételi kérelmek elbírálásához a felsőoktatási információs rendszer részére
+## 8.
 
-## a) a 19. § (2) bekezdés c) és d) pontja szerinti alrendszere szolgáltatja a nyilvántartásban rendelkezésre álló korábbi, felsőoktatásban megszerzett oklevéllel, támogatási idővel, hallgatói azonosító számmal kapcsolatos adatokat;
-
-## b) a nyelvvizsga-anyakönyvi nyilvántartásának adatkezelője szolgáltatja a nyelvvizsga-adatokat;
-
-## c) az egységes szociális nyilvántartással kapcsolatos adatfeldolgozási feladatokat ellátó szerv szolgáltatja a gyermekgondozást segítő ellátás igénybevételére vonatkozó adatokat;
-
-## d) az egészségbiztosítási szerv szolgáltatja a gyermekgondozási díj igénybevételére vonatkozó adatokat;
-
-## e) a szakképzési ágazati nyilvántartás szolgáltatja az Országos Képzési Jegyzék szerinti, a szakképzésben megszerzett végzettségre és szakképesítésre vonatkozó adatokat;
-
-## f) az idegenrendészeti hatóság szolgáltatja a külföldiek magyarországi tartózkodási jogcímére vonatkozó adatokat.
-
-## A felvételi eljárással kapcsolatos személyes és különleges adatot – ha az eljárás eredményeként hallgatói jogviszony létesítésére nem kerül sor – a felvételi jelentkezési lap benyújtásától számított két évig lehet kezelni.
-
-## 8. A felsőoktatási információs rendszerből személyes adat az adatok pontosságának, teljességének, időszerűségének biztosítása céljából rendszeresen, valamint a diákigazolvány igénylés keretében továbbítható a személyi és lakcímnyilvántartás szerve részére.
-
-## 9. A köznevelési információs rendszer szolgáltatja a felsőoktatás információs rendszer működéséért felelős szerv részére a felvételi kérelmek elbírálásához szükséges adatokat, valamint a jelentkező, hallgató tanulói azonosító számát.
+## 9.
 
 ## IV. A FELSŐOKTATÁSI INTÉZMÉNY FENNTARTÓJA ÁLTAL NYILVÁNTARTOTT ÉS KEZELT SZEMÉLYES ÉS KÜLÖNLEGES ADATOK
 
@@ -430,15 +216,7 @@
 
 ## 3. Az 1. pontban felsorolt adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek (a konkrét ügy eldöntéséhez szükséges adatok); a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak (a foglalkoztatással összefüggő adatok); a nemzetbiztonsági szolgálatnak (az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat); a Diákhitel Központnak (a hallgatói hitel jogszerű folyósításával és a tanulmányok folytatásával összefüggő adatok); az Avtv2. 28. §-a alapján a fenntartóhoz intézett adatmegismerési kérelem teljesítése céljából a kérelmezőnek az Avtv2. 26. § (3) bekezdése szerinti közérdekből nyilvános adatnak minősülő adatok.
 
-## V. A miniszter által nyilvántartott és kezelt személyes és különleges adatok
-
-## 1. E törvény alapján nyilvántartott adatok:
-
-## A felsőoktatási információs rendszer működéséért felelős szerv által a miniszter részére az ágazati irányítással összefüggő feladatok ellátása, a miniszteri hatósági jogkör gyakorlása céljából egyedileg, vagy informatikai rendszere útján továbbított, illetve a felsőoktatási információs rendszerben közvetlenül hozzáférhetővé tett személyes és különleges adatok.
-
-## 2. Az adatkezelés időtartama: az adattovábbítástól számított öt évig.
-
-## 3. Az 1. pontban felsorolt adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek (a konkrét ügy eldöntéséhez szükséges adatok); a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak (a foglalkoztatással összefüggő adatok); a nemzetbiztonsági szolgálatnak (az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat); a Diákhitel Központnak (a hallgatói hitel jogszerű folyósításával és a tanulmányok folytatásával összefüggő adatok); az Avtv2. 28. §-a alapján a fenntartóhoz intézett adatmegismerési kérelem teljesítése céljából a kérelmezőnek az Avtv2. 26. § (3) bekezdése szerinti közérdekből nyilvános adatnak minősülő adatok.
+## V.
 
 4. melléklet a 2011. évi CCIV. törvényhez
 
@@ -479,13 +257,3 @@ az ösztöndíjpályázat lebonyolítása, és az ösztöndíjra való jogosults
 4. Az adatkezelés időtartama:
 
 az ösztöndíj időtartamának lejártától számított 5 év.
-
-5. Az ösztöndíjrendszerrel összefüggésben kezelt személyes és különleges adatok továbbítására jogosultak köre és feltételei:
-
-a) a 2. pontban meghatározott adatkezelők kölcsönösen továbbíthatják egymás felé a pályázó 1. pontban meghatározott valamennyi adatát,
-
-b) a felsőoktatási információs rendszer működtetéséért felelős szerv a pályázatkezelő szervezetnek valamint a támogatást nyújtó helyi önkormányzatnak a pályázó felsőoktatási intézménybe történő felvételének eredményét, támogatási idejének adatát
-
-c) a felsőoktatási intézmény a pályázatkezelő szervezetnek, valamint a támogatást nyújtó helyi önkormányzatnak a hallgatói jogviszony állapotára vonatkozó adatot,
-
-d) a pályázatkezelő szervezet a felsőoktatási információs rendszer működtetéséért felelős szervnek a b) pontban meghatározott adatok lekérdezéséhez szükséges adatokat.

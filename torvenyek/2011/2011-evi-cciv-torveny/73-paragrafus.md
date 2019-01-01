@@ -40,7 +40,7 @@ ha) hatáskörében történő rendszeres pénzjuttatással járó cím, elismer
 
 hb) éves képzési tevékenységének – különösen az indított szakok, a képzés megszervezésének módozatai, a tervezett szakos hallgatói kapacitás – kialakításához;
 
-i) a felsőoktatási intézmény működése, gazdálkodása ellenőrzése céljából jogosult az intézmény tanulmányi, gazdálkodási, illetve egyéb nyilvántartási adataihoz való hozzáférésre a 3. mellékletben foglaltak szerint;
+i) a felsőoktatási intézmény működése, gazdálkodása ellenőrzése céljából jogosult az intézmény tanulmányi, gazdálkodási, illetve egyéb nyilvántartási adataihoz való hozzáférésre;
 
 j) jóváhagyásával határozza meg a felsőoktatási intézmény az intézményben folytatott képzés költségét;
 
