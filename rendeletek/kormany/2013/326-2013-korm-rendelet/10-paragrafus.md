@@ -1,4 +1,4 @@
-## 4. [^45] A minősítő vizsgára és a minősítési eljárásra történő jelentkezés, a minősítő vizsga és a minősítési eljárás lebonyolítása, a minősítő bizottságok munkájának szervezése, a minősítés díja
+## 4. [^48] A minősítő vizsgára és a minősítési eljárásra történő jelentkezés, a minősítő vizsga és a minősítési eljárás lebonyolítása, a minősítő bizottságok munkájának szervezése, a minősítés díja
 
 10. § (1) A miniszter a következő naptári évre (a továbbiakban: minősítési év) vonatkozóan minden év február utolsó napjáig a miniszter által vezetett minisztérium hivatalos lapjában közzéteszi
 
@@ -20,11 +20,11 @@ d) a központi költségvetési keret biztosította lehetőségek
 
 ## figyelembevételével kell meghatározni.
 
-(3)[^46] A keretszám nem lehet kevesebb, mint a minősítési évben
+(3)[^49] A keretszám nem lehet kevesebb, mint a minősítési évben
 
 a) a 2. § (6) bekezdésében és a 3. § (1) bekezdésében foglaltakra tekintettel lebonyolítandó kötelező minősítő vizsgák és minősítési eljárások, valamint
 
 b) megújítandó Mesterpedagógus és Kutatótanár fokozatok
 
-[^45]: A 4. alcím (10–12. §) a 249/2015. (IX. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^46]: A 10. § (3) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^48]: A 4. alcím (10–12. §) a 249/2015. (IX. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^49]: A 10. § (3) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.

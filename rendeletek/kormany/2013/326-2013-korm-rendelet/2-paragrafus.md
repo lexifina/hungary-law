@@ -18,7 +18,7 @@
 
 a) az (1)–(5) bekezdés szerint megállapított gyakornoki idő lejártának hónapjában, vagy
 
-b) ha a gyakornoki idő a tanítási évet követő nyári szünet alatt jár le, a tanítási év május hónapjában
+b)[^10] ha a gyakornoki idő május 1. és augusztus 31. között jár le, május hónapban
 
 tesz minősítő vizsgát.
 
@@ -36,3 +36,4 @@ tesz minősítő vizsgát.
 [^7]: A 2. § (1) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
 [^8]: A 2. § (2) bekezdése a 307/2017. (X. 27.) Korm. rendelet 24. § 2. pontja szerint módosított szöveg.
 [^9]: A 2. § (3) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^10]: A 2. § (6) bekezdés b) pontja a 122/2018. (VII. 10.) Korm. rendelet 20. §-ával megállapított szöveg.

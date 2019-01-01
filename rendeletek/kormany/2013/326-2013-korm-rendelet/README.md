@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-326-20-
 | 2017-11-04 | 2013-326-20-22.20 | 307/2017. (X. 27.) Korm. rendelet |
 | 2018-01-01 | 2013-326-20-22.21 | 307/2017. (X. 27.) Korm. rendelet |
 | 2018-07-11 | 2013-326-20-22.22 | 122/2018. (VII. 10.) Korm. rendelet |
+| 2019-01-01 | 2013-326-20-22.23 | 308/2018. (XII. 27.) Korm. rendelet |

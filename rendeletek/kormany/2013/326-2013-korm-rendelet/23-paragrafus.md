@@ -8,11 +8,11 @@
 
 (5) A pályáztató a pályázattal együtt megküldi a megbízási jogkör gyakorlójának a kialakított véleményeket, vagy tájékoztatja a megbízási jogkör gyakorlóját, ha a jogosultak nem éltek a véleményezési jogukkal.
 
-(6)[^157] A tankerületi központ által fenntartott köznevelési intézmény esetében az illetékes tankerületi igazgató a pályázattal együtt megküldi az oktatási központ vezetőjének a kialakított véleményeket, vagy tájékoztatja, ha a jogosultak nem éltek a véleményezési jogukkal.
+(6)[^162] A tankerületi központ által fenntartott köznevelési intézmény esetében az illetékes tankerületi igazgató a pályázattal együtt megküldi az oktatási központ vezetőjének a kialakított véleményeket, vagy tájékoztatja, ha a jogosultak nem éltek a véleményezési jogukkal.
 
-(7)[^158] Az oktatási központ vezetője és a tankerületi központ vezetője az eljárás jogszerűségéről szóló nyilatkozatát, és – több pályázó esetén – a pályázatok rangsoráról kialakított indokolt javaslatát megküldi a miniszternek.
+(7)[^163] Az oktatási központ vezetője és a tankerületi központ vezetője az eljárás jogszerűségéről szóló nyilatkozatát, és – több pályázó esetén – a pályázatok rangsoráról kialakított indokolt javaslatát megküldi a miniszternek.
 
 (8) A pályázatot a véleményezési határidő lejártát követő harminc, ha az elbírálásra váró pályázatok száma a huszonötöt eléri, hatvan napon belül el kell bírálni. Ha a megbízási jogkört közgyűlés vagy képviselő-testület gyakorolja, a pályázatokat a közgyűlés, képviselő-testület részére a véleményezési határidő lejártát követő harmincadik, illetve hatvanadik napot követő első testületi ülésre be kell nyújtani.
 
-[^157]: A 23. § (6) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
-[^158]: A 23. § (7) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
+[^162]: A 23. § (6) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^163]: A 23. § (7) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
